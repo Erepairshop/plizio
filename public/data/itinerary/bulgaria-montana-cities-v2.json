@@ -326,6 +326,188 @@
           "Most central locations are easily reachable on foot.",
           "Plan your lunch near the museum area to save time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Schitowiza-Platz unter den Arkaden. Die Regentropfen auf dem Brunnen bieten eine ruhige Kulisse, während Sie zum Michailow-Haus eilen. Der späte Vormittag gehört dem Historischen Museum, wo Sie trocken durch die Römerzeit reisen können. Am Nachmittag ist der Aufstieg zur Festung bei Regen rutschig, aber die neblige Aussicht auf den Ogosta-Stausee ist mystisch.",
+            "hu": "Kezdje a napot a Zseravica téren, az árkádok alatt keresve menedéket. A Mihajlov-ház belső terei védelmet nyújtanak a szemerkélő eső elől, mielőtt hosszabb időt töltene a Regionális Történeti Múzeumban. Délután a Castra ad Montanesium romjai között a sár nehezítheti a járást, de a ködös panoráma az Ogosta-tóra különleges látványt nyújt. Az estét zárja egy közeli étteremben.",
+            "ro": "Începeți ziua în Piața Zheravitsa, folosind umbrela printre fântâni. Casa Mihailov oferă un scurt refugiu cultural înainte de vizita prelungită la Muzeul de Istorie, ideal pentru o zi ploioasă. După-amiaza, urcarea spre cetatea Castra ad Montanesium poate fi alunecoasă, dar atmosfera cețoasă de deasupra lacului Ogosta este spectaculoasă. Încheiați plimbarea în parcul Ogosta, sub foșnetul ploii.",
+            "en": "Start your day at Zheravitsa Square, seeking shelter under the nearby shop awnings. The Mihailov House provides a cozy indoor escape before you spend your midday at the Regional Historical Museum. In the afternoon, the path to the Roman fortress might be muddy, so watch your step while enjoying the misty views of the Ogosta reservoir. End your walk with the refreshing scent of wet pine in Ogosta Park."
+          },
+          "stops": [
+            {
+              "name": "Zheravitsa Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
+                "hu": "Használja a környező épületek árkádjait esernyő helyett.",
+                "ro": "Folosiți arcadele clădirilor din jur pentru a evita ploaia.",
+                "en": "Use the building arcades around the square to stay dry."
+              }
+            },
+            {
+              "name": "Mihailov House",
+              "tip_5lang": {
+                "de": "Kleines Museum, ideal um einen kurzen Schauer abzuwarten.",
+                "hu": "Kiváló hely egy hirtelen zápor átvészelésére.",
+                "ro": "Un loc excelent pentru a aștepta trecerea unei averse scurte.",
+                "en": "Small indoor museum, perfect for waiting out a quick shower."
+              }
+            },
+            {
+              "name": "Church of Saints Cyril and Methodius",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Ikonostase, während es draußen regnet.",
+                "hu": "Csodálja meg az ikonokat, amíg kint esik az eső.",
+                "ro": "Admirați iconostasul în timp ce afară plouă.",
+                "en": "Admire the icons inside while the rain falls outside."
+              }
+            },
+            {
+              "name": "Regional Historical Museum & Lapidarium",
+              "tip_5lang": {
+                "de": "Das Lapidarium ist draußen; besichtigen Sie zuerst die Innenausstellung.",
+                "hu": "A lapidárium szabadtéri; kezdje a belső kiállítással.",
+                "ro": "Lapidariul este în aer liber; vizitați mai întâi expoziția interioară.",
+                "en": "The lapidarium is outdoors; focus on the indoor exhibits first."
+              }
+            },
+            {
+              "name": "Castra ad Montanesium",
+              "tip_5lang": {
+                "de": "Feste Schuhe nötig; die Steine der römischen Ruinen sind rutschig.",
+                "hu": "Vízálló cipő ajánlott; a római romok kövei csúszósak.",
+                "ro": "Încălțăminte aderentă necesară; ruinele romane devin alunecoase.",
+                "en": "Sturdy waterproof boots needed; the Roman ruins are slippery."
+              }
+            },
+            {
+              "name": "Ogosta Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege im Park bleiben auch bei Regen gut begehbar.",
+                "hu": "Az aszfaltozott utak esőben is jól járhatóak maradnak.",
+                "ro": "Aleile asfaltate rămân practicabile chiar și pe ploaie.",
+                "en": "The paved paths remain easily walkable even during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für den Aufstieg zur Festung.",
+              "Das Historische Museum ist der beste Ort für eine längere Regenpause.",
+              "Achten Sie auf Pfützen auf dem Zheravitsa-Platz.",
+              "Die öffentlichen Cafés am Platz bieten gemütlichen Unterschlupf."
+            ],
+            "hu": [
+              "Viseljen vízálló túrabakancsot a várba való feljutáshoz.",
+              "A Történeti Múzeum a legjobb hely egy hosszabb esőpause-hoz.",
+              "Vigyázzon a tócsákra a Zseravica tér kövezetén.",
+              "A helyi kávézók a főtéren jó menedéket nyújtanak."
+            ],
+            "ro": [
+              "Purtați ghete de munte impermeabile pentru urcarea la cetate.",
+              "Muzeul de Istorie este cel mai bun refugiu în caz de ploaie torențială.",
+              "Atenție la bălțile formate pe pavajul din Piața Zheravitsa.",
+              "Cafenelele din centru sunt ideale pentru a aștepta oprirea ploii."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the fortress climb.",
+              "The Historical Museum is the best indoor refuge for a long break.",
+              "Watch out for deep puddles on the uneven stones of Zheravitsa Square.",
+              "Local cafes near the square offer warm shelter and hot tea."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen am Zheravitsa-Platz, wo der Frost die Brunnen ziert. Besuchen Sie das Michailow-Haus zum Aufwärmen, bevor Sie die umfangreichen Sammlungen des Museums erkunden. Mittags bietet die Kirche eine ruhige, windgeschützte Atmosphäre. Da die Sonne gegen 16:45 Uhr untergeht, sollten Sie die Festung Castra ad Montanesium im letzten Tageslicht besuchen, wenn der Schnee die antiken Mauern bedeckt.",
+            "hu": "Fagyos reggel a Zseravica téren, ahol a dér díszíti a szökőkutakat. Melegedjen fel a Mihajlov-házban, mielőtt felfedezné a múzeum gazdag gyűjteményét. Délben a templom csendes, szélvédett menedéket nyújt. Mivel a nap 16:45 körül nyugszik, a Castra ad Montanesiumot még világosban látogassa meg, amikor a hó fedi az ókori falakat.",
+            "ro": "O dimineață geroasă în Piața Zheravitsa, cu fântânile înghețate. Încălziți-vă în Casa Mihailov înainte de a explora colecțiile muzeului. La prânz, biserica oferă un refugiu liniștit împotriva vântului tăios de iarnă. Având în vedere că soarele apune în jur de 16:45, vizitați cetatea Castra ad Montanesium la lumina amurgului, când zăpada acoperă zidurile antice.",
+            "en": "A crisp winter morning at Zheravitsa Square, with frost coating the fountains. Warm up inside the Mihailov House before exploring the museum's extensive indoor halls. At noon, the church provides a quiet, wind-sheltered sanctuary. As sunset is around 16:45, aim to reach Castra ad Montanesium while there's still light to see the snow-covered ancient ruins."
+          },
+          "stops": [
+            {
+              "name": "Zheravitsa Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis in der Nähe der Springbrunnen.",
+                "hu": "Vigyázzon a jegesedésre a szökőkutak környékén.",
+                "ro": "Atenție la polei în apropierea fântânilor arteziene.",
+                "en": "Beware of icy patches near the frozen fountains."
+              }
+            },
+            {
+              "name": "Mihailov House",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre dieses historischen Holzhauses.",
+                "hu": "Élvezze a történelmi faház meghitt, meleg hangulatát.",
+                "ro": "Bucurați-vă de atmosfera caldă a acestei case istorice din lemn.",
+                "en": "Enjoy the cozy warmth inside this historical wooden house."
+              }
+            },
+            {
+              "name": "Church of Saints Cyril and Methodius",
+              "tip_5lang": {
+                "de": "Ein windstiller Ort für eine kurze besinnliche Pause.",
+                "hu": "Szélvédett hely egy rövid, csendes pihenőhöz.",
+                "ro": "Un loc ferit de vânt pentru o scurtă pauză de reculegere.",
+                "en": "A wind-sheltered spot for a short contemplative break."
+              }
+            },
+            {
+              "name": "Regional Historical Museum & Lapidarium",
+              "tip_5lang": {
+                "de": "Die Innenräume sind gut beheizt; ideal für den kalten Mittag.",
+                "hu": "A belső terek jól fűtöttek; ideális a hideg délidőben.",
+                "ro": "Sălile interioare sunt bine încălzite; ideal pentru prânzul rece.",
+                "en": "The indoor galleries are well-heated; perfect for a cold midday."
+              }
+            },
+            {
+              "name": "Castra ad Montanesium",
+              "tip_5lang": {
+                "de": "Der Wind kann hier oben sehr beißen; dicke Jacke einplanen.",
+                "hu": "A szél itt fagyos lehet; viseljen vastag kabátot.",
+                "ro": "Vântul poate fi tăios aici sus; purtați o jachetă groasă.",
+                "en": "The wind can be very biting up here; bring a heavy coat."
+              }
+            },
+            {
+              "name": "Ogosta Park",
+              "tip_5lang": {
+                "de": "Der Park wirkt im Winterschlaf besonders friedlich.",
+                "hu": "A park téli álma során különösen békés hangulatot áraszt.",
+                "ro": "Parcul este extrem de liniștit în timpul somnului de iarnă.",
+                "en": "The park is exceptionally peaceful during its winter sleep."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht früh unter (ca. 16:45), planen Sie den Tag kompakt.",
+              "Tragen Sie Thermounterwäsche für den Besuch der Festung.",
+              "In Montana kann es im Winter sehr windig sein.",
+              "Nutzen Sie die Mittagshitze (falls vorhanden) für das Lapidarium."
+            ],
+            "hu": [
+              "A nap korán nyugszik (16:45 körül), tervezze kompaktra a napot.",
+              "Viseljen termő aláöltözetet a vár látogatásához.",
+              "Montanában télen igen erős, hideg szél fújhat.",
+              "A múzeum belső terei kiválóak a felmelegedéshez."
+            ],
+            "ro": [
+              "Soarele apune devreme (aprox. 16:45), planificați ziua compact.",
+              "Purtați haine termice pentru vizita la cetate.",
+              "În Montana, vântul poate fi foarte puternic în timpul iernii.",
+              "Muzeul este cel mai bun loc pentru a vă încălzi la prânz."
+            ],
+            "en": [
+              "Sunset is early (around 16:45), plan a compact itinerary.",
+              "Wear thermal layers, especially for the exposed fortress hill.",
+              "Montana can experience biting winds from the Balkan mountains.",
+              "The museum's indoor exhibits provide a long, warm break."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -654,6 +836,206 @@
           "Montana is hilly; be prepared for some climbs.",
           "Use the bike paths in Ogosta Park for a safe ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour durch Montana erfordert Vorsicht auf dem Zheravitsa-Platz. Die Route führt schnell zum Michailow-Haus und zur Kunstgalerie, um dem Regen zu entkommen. Verbringen Sie den Nachmittag im Museum, während Ihr Rad draußen gesichert ist. Die Fahrt zur Castra ad Montanesium ist bei Regen anspruchsvoll, aber die Aussicht auf den nassen Stausee belohnt die Mühe.",
+            "hu": "Az esős montanai kerékpározás óvatosságot igényel a Zseravica téren. Az útvonal gyorsan a Mihajlov-házhoz és a művészeti galériához vezet, hogy elkerülje a vizet. Töltse a délutánt a múzeumban, amíg a kerékpár kint pihen. A feltekerés a várba esőben nehéz, de a vizes gát látványa megéri a küzdelmet.",
+            "ro": "O plimbare cu bicicleta prin Montana pe ploaie necesită prudență în Piața Zheravitsa. Traseul trece rapid pe la Casa Mihailov și Galeria de Artă pentru a evita umezirea. Petreceți după-amiaza la muzeu în timp ce bicicleta e parcată afară. Urcarea la cetate este solicitantă pe ploaie, dar vederea asupra barajului ud merită efortul.",
+            "en": "A rainy cycle through Montana requires extra care on the Zheravitsa Square tiles. Head quickly to Mihailov House and the Kiril Petrov Art Gallery for indoor refuge. Spend the wet afternoon at the museum while your bike is secured outside. The climb to Castra ad Montanesium is challenging in the rain, but the view of the glistening reservoir is rewarding."
+          },
+          "stops": [
+            {
+              "name": "Zheravitsa Square",
+              "tip_5lang": {
+                "de": "Vorsicht, die glatten Fliesen sind bei Nässe extrem rutschig.",
+                "hu": "Vigyázat, a sima burkolat vizesen rendkívül csúszós.",
+                "ro": "Atenție, plăcile netede devin extrem de alunecoase când sunt ude.",
+                "en": "Caution: the smooth tiles are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Mihailov House",
+              "tip_5lang": {
+                "de": "Suchen Sie unter dem Dachvorsprung Schutz für Ihr Fahrrad.",
+                "hu": "Keresen menedéket a kerékpárnak az eresz alatt.",
+                "ro": "Căutați adăpost pentru bicicletă sub streșina casei.",
+                "en": "Look for bicycle shelter under the roof overhang."
+              }
+            },
+            {
+              "name": "Church of Saints Cyril and Methodius",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; Fahrradständer befinden sich in der Nähe.",
+                "hu": "Rövid megálló; kerékpártárolók a közelben találhatóak.",
+                "ro": "Oprire scurtă; există rastele de biciclete în apropiere.",
+                "en": "Short stop; bicycle racks are located nearby."
+              }
+            },
+            {
+              "name": "Kiril Petrov Art Gallery",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Kleidung während der Besichtigung zu trocknen.",
+                "hu": "Tökéletes hely a ruházat szárítására a kiállítás alatt.",
+                "ro": "Loc perfect pentru a vă usca hainele în timpul vizitei.",
+                "en": "Perfect place to let your gear dry during the visit."
+              }
+            },
+            {
+              "name": "Regional Historical Museum",
+              "tip_5lang": {
+                "de": "Großes Museum; ideal für eine lange Regenpause.",
+                "hu": "Nagy múzeum; ideális egy hosszú esőszünethez.",
+                "ro": "Muzeu mare; ideal pentru o pauză lungă de ploaie.",
+                "en": "Large museum; ideal for a long rainy break."
+              }
+            },
+            {
+              "name": "Castra ad Montanesium",
+              "tip_5lang": {
+                "de": "Steiler Anstieg auf nassem Asphalt; auf Traktion achten.",
+                "hu": "Meredek emelkedő vizes aszfalton; figyeljen a tapadásra.",
+                "ro": "Urcare abruptă pe asfalt ud; atenție la tracțiune.",
+                "en": "Steep climb on wet asphalt; watch your traction."
+              }
+            },
+            {
+              "name": "Ogosta Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Luft unter den dichten Bäumen.",
+                "hu": "Élvezze a friss levegőt a sűrű fák lombjai alatt.",
+                "ro": "Bucurați-vă de aerul curat sub copacii deși.",
+                "en": "Enjoy the fresh air under the dense tree canopy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt von der Festung.",
+              "Vermeiden Sie abrupte Manöver auf dem Zheravitsa-Platz.",
+              "Tragen Sie eine vollflächige Regenjacke und Regenhosen.",
+              "Schutzbleche sind bei diesem Wetter in Montana unerlässlich."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket a várból való leereszkedés előtt.",
+              "Kerülje a hirtelen manővereket a Zseravica téren.",
+              "Viseljen teljes esőruházatot (dzseki és nadrág).",
+              "A sárvédő elengedhetetlen ebben az időben Montanában."
+            ],
+            "ro": [
+              "Verificați frânele înainte de coborârea de la cetate.",
+              "Evitați manevrele bruște în Piața Zheravitsa.",
+              "Purtați costum complet de ploaie (jachetă și pantaloni).",
+              "Apărătorile de noroi sunt esențiale pe această vreme."
+            ],
+            "en": [
+              "Check your brakes before descending from the fortress.",
+              "Avoid sudden maneuvers on the slippery Zheravitsa Square.",
+              "Wear a full waterproof suit (jacket and trousers).",
+              "Mudguards are essential for this route in Montana."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Montana erfordert warme Handschuhe und Schichten. Starten Sie vorsichtig am frostigen Zheravitsa-Platz. Die Route verbindet Kulturstopps wie das Michailow-Haus und die Galerie, um die Kälte zu unterbrechen. Mittags bietet das Museum eine willkommene Aufwärmphase. Beenden Sie die Tour an der Festung vor Einbruch der Dunkelheit, wenn die Wintersonne tief über dem Balkan steht.",
+            "hu": "A téli kerékpározás Montanában meleg kesztyűt és réteges öltözetet igényel. Kezdjen óvatosan a fagyos Zseravica téren. Az útvonal kulturális megállókat (Mihajlov-ház, galéria) köt össze a hideg ellen. Délben a múzeum várja egy melegítő szünetre. Fejezze be a túrát a várnál sötétedés előtt, amikor a téli nap alacsonyan jár a Balkán felett.",
+            "ro": "Ciclismul de iarnă în Montana necesită mănuși groase și straturi termice. Începeți cu prudență în Piața Zheravitsa înghețată. Traseul leagă puncte culturale (Casa Mihailov, galeria) pentru pauze de încălzire. La prânz, muzeul oferă un refugiu călduros. Încheiați turul la cetate înainte de lăsarea întunericului, când soarele de iarnă apune peste Balcani.",
+            "en": "Winter cycling in Montana demands warm gloves and thermal layers. Start cautiously at the frosty Zheravitsa Square. The route connects cultural stops like Mihailov House and the gallery to break up the cold. At noon, the museum offers a welcome warming phase. Finish your tour at the fortress before dark, as the winter sun hangs low over the Balkan mountains."
+          },
+          "stops": [
+            {
+              "name": "Zheravitsa Square",
+              "tip_5lang": {
+                "de": "Glatteisgefahr; fahren Sie langsam über die gefrorenen Fliesen.",
+                "hu": "Fagyveszély; hajtson lassan a jeges burkolaton.",
+                "ro": "Pericol de polei; pedalați încet pe plăcile înghețate.",
+                "en": "Ice hazard; cycle slowly over the frozen tiles."
+              }
+            },
+            {
+              "name": "Mihailov House",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen der Hände im Inneren.",
+                "hu": "Rövid megálló a kezek felmelegítésére a belső térben.",
+                "ro": "Oprire scurtă pentru a vă încălzi mâinile în interior.",
+                "en": "Short stop to warm up your hands inside."
+              }
+            },
+            {
+              "name": "Church of Saints Cyril and Methodius",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad windgeschützt an der Kirchenmauer ab.",
+                "hu": "Parkolja le kerékpárját a templomfal mellé, szélvédett helyre.",
+                "ro": "Parcați bicicleta lângă zidul bisericii, la adăpost de vânt.",
+                "en": "Park your bike against the church wall, shielded from the wind."
+              }
+            },
+            {
+              "name": "Kiril Petrov Art Gallery",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für eine warme Pause in der Ausstellung.",
+                "hu": "Használja ki a megállót egy meleg pihenőre a kiállításon.",
+                "ro": "Folosiți oprirea pentru o pauză caldă în timpul expoziției.",
+                "en": "Use the stop for a warm break inside the gallery."
+              }
+            },
+            {
+              "name": "Regional Historical Museum",
+              "tip_5lang": {
+                "de": "Ideal, um die Körpertemperatur vor dem Festungsaufstieg zu regulieren.",
+                "hu": "Ideális testhőmérséklet-szabályozáshoz a várba indulás előtt.",
+                "ro": "Ideal pentru a vă regla temperatura corpului înainte de urcarea la cetate.",
+                "en": "Ideal for regulating body temperature before the fortress climb."
+              }
+            },
+            {
+              "name": "Castra ad Montanesium",
+              "tip_5lang": {
+                "de": "Die Abfahrt kann sehr kalt sein; schließen Sie Ihre Jacke fest.",
+                "hu": "A leereszkedés nagyon hideg lehet; gombolja be a kabátját.",
+                "ro": "Coborârea poate fi foarte rece; închideți bine jacheta.",
+                "en": "The descent can be very cold; zip up your jacket tightly."
+              }
+            },
+            {
+              "name": "Ogosta Park",
+              "tip_5lang": {
+                "de": "Kurze Runde durch die Winterlandschaft vor dem Abend.",
+                "hu": "Rövid kör a téli tájban még sötétedés előtt.",
+                "ro": "O scurtă tură prin peisajul de iarnă înainte de seară.",
+                "en": "Short ride through the winter landscape before evening sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders für die Abfahrten.",
+              "Vermeiden Sie das Radfahren nach 17:00 Uhr wegen der Dunkelheit.",
+              "Halten Sie Ihr Handy warm (am Körper), da der Akku bei Kälte schneller entlädt.",
+              "Warme Getränke in einer Thermoskanne sind sehr zu empfehlen."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot, különösen a lejtőkön.",
+              "Kerülje a kerékpározást 17:00 után a sötétség miatt.",
+              "Tartsa melegen a telefonját (testközelben) az akkumulátor miatt.",
+              "Meleg ital a termosztban nagyon ajánlott a túra során."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, în special pentru coborâri.",
+              "Evitați ciclismul după ora 17:00 din cauza întunericului.",
+              "Păstrați telefonul la căldură pentru a proteja bateria.",
+              "O băutură caldă într-un termos este foarte recomandată."
+            ],
+            "en": [
+              "Wear windproof clothing, especially for the descents.",
+              "Avoid cycling after 17:00 due to early darkness and ice.",
+              "Keep your phone in an inner pocket to preserve battery life.",
+              "A thermos with a warm drink is highly recommended for this trip."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -661,7 +1043,7 @@
       "speed_kmh": 28,
       "start": "09:00",
       "end_estimate": "17:55",
-      "total_km": 17.6,
+      "total_km": 11.2,
       "stop_count": 7,
       "stops": [
         {
@@ -982,6 +1364,206 @@
           "The cluster-walking method saves on parking fees and stress.",
           "Don't leave valuables visible in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Montana lässt sich am besten mit dem Auto bewältigen. Starten Sie am zentralen Platz und nutzen Sie die kurzen Wege zwischen den kulturellen Highlights wie dem Michailow-Haus und der Galerie. Das Historische Museum bietet stundenlangen trockenen Aufenthalt. Fahren Sie hinauf zur Festung, wo Sie vom Parkplatz aus den Blick auf den verregneten Stausee genießen können, ohne nass zu werden.",
+            "hu": "Az esős montanai nap legkényelmesebben autóval hidalható át. Kezdjen a központi téren, kihasználva a rövid távokat a kulturális látnivalók (Mihajlov-ház, galéria) között. A Történeti Múzeum órákig tartó száraz programot kínál. Autózzon fel a várhoz, ahol a parkolóból is élvezheti a kilátást az eső áztatta gátra.",
+            "ro": "O zi ploioasă în Montana este cel mai ușor de parcurs cu mașina. Începeți în piața centrală, profitând de distanțele scurte între obiectivele culturale. Muzeul de Istorie oferă un program uscat de câteva ore. Conduceți până la cetate, unde puteți admira barajul plouat direct din parcare, fără a vă uda.",
+            "en": "A rainy day in Montana is best navigated by car. Start at the central square, taking advantage of short drives between cultural highlights like Mihailov House and the gallery. The Historical Museum offers hours of dry indoor exploration. Drive up to the fortress, where you can enjoy the view of the rainy reservoir right from your car seat."
+          },
+          "stops": [
+            {
+              "name": "Cluster Start: Zheravitsa Square",
+              "tip_5lang": {
+                "de": "Parkhäuser in der Nähe nutzen, um trockenen Fußes zum Platz zu kommen.",
+                "hu": "Használja a közeli parkolókat, hogy száraz lábbal érje el a teret.",
+                "ro": "Folosiți parcările din apropiere pentru a ajunge uscat în piață.",
+                "en": "Use nearby parking lots to reach the square with dry feet."
+              }
+            },
+            {
+              "name": "Mihailov House",
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Straße vor dem Museum.",
+                "hu": "Parkoljon közvetlenül a múzeum előtti utcában.",
+                "ro": "Parcați direct pe strada din fața muzeului.",
+                "en": "Park directly on the street in front of the museum."
+              }
+            },
+            {
+              "name": "Church of Saints Cyril and Methodius",
+              "tip_5lang": {
+                "de": "Begrenzte Parkplätze; nutzen Sie die Seitenstraßen.",
+                "hu": "Korlátozott parkolás; használja az oldalsó utcákat.",
+                "ro": "Parcare limitată; folosiți străzile laterale.",
+                "en": "Limited parking; use the adjacent side streets."
+              }
+            },
+            {
+              "name": "Cultural Cluster: Regional Historical Museum",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden; idealer Stopp bei starkem Regen.",
+                "hu": "Nagy parkoló áll rendelkezésre; ideális megálló erős esőben.",
+                "ro": "Parcare mare disponibilă; oprire ideală în caz de ploaie torențială.",
+                "en": "Large parking area available; ideal stop during heavy rain."
+              }
+            },
+            {
+              "name": "Kiril Petrov Art Gallery & Lapidarium",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Auto zum Eingang der Galerie.",
+                "hu": "Rövid sprint az autótól a galéria bejáratáig.",
+                "ro": "Sprint scurt de la mașină până la intrarea galeriei.",
+                "en": "Short sprint from the car to the gallery entrance."
+              }
+            },
+            {
+              "name": "Fortress Cluster: Castra ad Montanesium",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße kann bei Regen rutschig sein; vorsichtig fahren.",
+                "hu": "A felvezető út esőben csúszós lehet; vezessen óvatosan.",
+                "ro": "Drumul de acces poate fi alunecos pe ploaie; conduceți prudent.",
+                "en": "The access road can be slippery in the rain; drive carefully."
+              }
+            },
+            {
+              "name": "Ogosta Park",
+              "tip_5lang": {
+                "de": "Parken Sie am Eingang und genießen Sie den Blick auf den See.",
+                "hu": "Parkoljon a bejáratnál, és élvezze a tóra nyíló kilátást.",
+                "ro": "Parcați la intrare și bucurați-vă de vederea spre lac.",
+                "en": "Park near the entrance and enjoy the view of the lake."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Hauptstraßen von Montana.",
+              "Halten Sie einen Regenschirm im Auto für die kurzen Wege bereit.",
+              "Die Sicht kann bei starkem Regen in den Bergen eingeschränkt sein.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt zur Festung."
+            ],
+            "hu": [
+              "Vigyázzon az aquaplaningre Montana főútjain.",
+              "Tartson esernyőt az autóban a rövid sétákhoz.",
+              "Erős esőben a látási viszonyok korlátozottak lehetnek a hegyekben.",
+              "Ellenőrizze az ablaktörlőket a várba indulás előtt."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile principale din Montana.",
+              "Păstrați o umbrelă în mașină pentru distanțele scurte de mers.",
+              "Vizibilitatea poate fi redusă în munți în timpul ploii abundente.",
+              "Verificați ștergătoarele înainte de urcarea spre cetate."
+            ],
+            "en": [
+              "Watch out for aquaplaning on Montana's main boulevards.",
+              "Keep an umbrella handy in the car for short walks to entrances.",
+              "Visibility can be limited on the mountain roads during heavy rain.",
+              "Check your wipers before driving up the steep fortress road."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Montana gemütlich vom warmen Auto aus. Starten Sie am zentralen Platz und verbinden Sie die kulturellen Highlights mit kurzen Fahrten. Das beheizte Historische Museum ist der perfekte Rückzugsort zur Mittagszeit. Zum Abschluss fahren Sie zur Festung Castra ad Montanesium, um den Sonnenuntergang über dem schneebedeckten Ogosta-Stausee bequem aus dem Fahrzeug zu beobachten.",
+            "hu": "Fedezze fel a téli Montanát kényelmesen, a meleg autóból. Kezdjen a központi téren, és kösse össze a kulturális látnivalókat rövid autóutakkal. A fűtött Történeti Múzeum tökéletes menedék délidőben. Zárásként autózzon fel a Castra ad Montanesiumhoz, hogy a naplementét a hófedte Ogosta-tó felett az autóból csodálhassa meg.",
+            "ro": "Explorați Montana de iarnă din confortul mașinii încălzite. Începeți în piața centrală și legați obiectivele culturale prin scurte călătorii. Muzeul de Istorie încălzit este refugiul perfect la prânz. La final, conduceți spre cetate pentru a admira apusul peste lacul Ogosta înzăpezit direct din vehicul.",
+            "en": "Explore wintery Montana comfortably from your warm car. Start at the central square and connect the cultural highlights with short drives. The heated Historical Museum is the perfect midday retreat. To finish, drive up to Castra ad Montanesium to witness the sunset over the snow-covered Ogosta reservoir from the comfort of your car."
+          },
+          "stops": [
+            {
+              "name": "Cluster Start: Zheravitsa Square",
+              "tip_5lang": {
+                "de": "Parken Sie zentral und achten Sie auf gefrorenes Tauwasser.",
+                "hu": "Parkoljon központilag, és vigyázzon a visszafagyott hólére.",
+                "ro": "Parcați central și atenție la apa înghețată de pe pavaj.",
+                "en": "Park centrally and watch out for refrozen meltwater."
+              }
+            },
+            {
+              "name": "Mihailov House",
+              "tip_5lang": {
+                "de": "Die Straßen hier werden oft erst spät geräumt; vorsichtig fahren.",
+                "hu": "Az itteni utcákat gyakran későn takarítják; vezessen óvatosan.",
+                "ro": "Străzile de aici sunt curățate târziu; conduceți cu atenție.",
+                "en": "Side streets here are often cleared late; drive cautiously."
+              }
+            },
+            {
+              "name": "Church of Saints Cyril and Methodius",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken unter schneebeladenen Bäumen.",
+                "hu": "Kerülje a parkolást hóval terhelt fák alatt.",
+                "ro": "Evitați parcarea sub copacii încărcați cu zăpadă.",
+                "en": "Avoid parking under trees heavily laden with snow."
+              }
+            },
+            {
+              "name": "Cultural Cluster: Regional Historical Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz für ein einfaches Manövrieren.",
+                "hu": "Használja a nagy parkolót a könnyebb manőverezés érdekében.",
+                "ro": "Folosiți parcarea mare pentru manevre ușoare în zăpadă.",
+                "en": "Use the large parking area for easier maneuvering in snow."
+              }
+            },
+            {
+              "name": "Kiril Petrov Art Gallery & Lapidarium",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eiszapfen an den Dächern der Galerie.",
+                "hu": "Vigyázzon a galéria tetejéről lelógó jégcsapokra.",
+                "ro": "Atenție la țurțurii de pe acoperișul galeriei.",
+                "en": "Watch out for icicles hanging from the gallery roof."
+              }
+            },
+            {
+              "name": "Fortress Cluster: Castra ad Montanesium",
+              "tip_5lang": {
+                "de": "Winterreifen oder Ketten für den steilen Anstieg erforderlich.",
+                "hu": "Téli gumi vagy lánc szükséges a meredek emelkedőhöz.",
+                "ro": "Anvelope de iarnă sau lanțuri necesare pentru urcarea abruptă.",
+                "en": "Winter tires or chains required for the steep fortress ascent."
+              }
+            },
+            {
+              "name": "Ogosta Park",
+              "tip_5lang": {
+                "de": "Der Blick auf den gefrorenen See vom Auto aus ist fantastisch.",
+                "hu": "A befagyott tó látványa az autóból fantasztikus.",
+                "ro": "Vederea spre lacul înghețat din mașină este fantastică.",
+                "en": "The view of the frozen lake from your car is fantastic."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer einen Eiskratzer und Frostschutzmittel mit.",
+              "Die Bergstraße zur Festung kann bei Glätte gesperrt sein.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche in der Innenstadt ein.",
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte sinkt."
+            ],
+            "hu": [
+              "Mindig tartson jégkaparót és fagyállót az autóban.",
+              "A várba vezető hegyi út jegesedés esetén lezárható.",
+              "Szánjon több időt a parkolóhely keresésére a belvárosban.",
+              "Ellenőrizze a guminyomást, mert hidegben csökkenhet."
+            ],
+            "ro": [
+              "Aveți întotdeauna o răzuitoare de gheață și antigel în mașină.",
+              "Drumul spre cetate poate fi închis în caz de polei sever.",
+              "Alocați mai mult timp pentru găsirea unui loc de parcare.",
+              "Verificați presiunea în pneuri, aceasta scade la frig."
+            ],
+            "en": [
+              "Always carry an ice scraper and anti-freeze in the car.",
+              "The mountain road to the fortress may be closed during heavy ice.",
+              "Allow extra time for finding parking in the city center.",
+              "Check tire pressure, as it drops significantly in cold weather."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1250,6 +1832,188 @@
           "Have small change ready for tickets if buying on board.",
           "Be aware of the last bus departure times to avoid getting stranded."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den öffentlichen Nahverkehr, um trocken durch Montana zu kommen. Vom Zheravitsa-Platz führen kurze Busfahrten zum Michailow-Haus und zum zentralen Museum. Verbringen Sie den regnerischen Nachmittag in der Kunstgalerie. Der Bus bringt Sie nahe an den Fuß der Festung, sodass Sie den nassen Aufstieg verkürzen können. Beenden Sie den Tag im Ogosta-Park, bevor Sie den Bus zurück ins Zentrum nehmen.",
+            "hu": "Használja a tömegközlekedést, hogy szárazon járja be Montanát. A Zseravica tértől rövid buszutak vezetnek a Mihajlov-házhoz és a központi múzeumhoz. Töltse az esős délutánt a művészeti galériában. A busz a vár lábához közel teszi le, így lerövidítheti a vizes emelkedőt. Zárja a napot az Ogosta-parkban, mielőtt visszabuszozna a központba.",
+            "ro": "Folosiți transportul public pentru a rămâne uscat în Montana. Din Piața Zheravitsa, curse scurte de autobuz vă duc la Casa Mihailov și la muzeu. Petreceți după-amiaza ploioasă în galeria de artă. Autobuzul vă lasă aproape de poalele cetății, scurtând urcarea pe ploaie. Încheiați ziua în parcul Ogosta înainte de a lua autobuzul înapoi.",
+            "en": "Utilize public transit to stay dry while exploring Montana. Short bus rides from Zheravitsa Square connect you to Mihailov House and the main museum. Spend the rainy afternoon inside the art gallery. The bus drops you near the base of the fortress, shortening your wet climb. End your day at Ogosta Park before catching a bus back to the center."
+          },
+          "stops": [
+            {
+              "name": "Central District: Zheravitsa Square",
+              "tip_5lang": {
+                "de": "Überdachte Bushaltestellen befinden sich direkt am Platz.",
+                "hu": "Fedett buszmegállók találhatók közvetlenül a tér mellett.",
+                "ro": "Stații de autobuz acoperite se află direct lângă piață.",
+                "en": "Covered bus stops are located directly next to the square."
+              }
+            },
+            {
+              "name": "Mihailov House",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist nur 2 Minuten Fußweg entfernt.",
+                "hu": "A buszmegálló mindössze 2 perc sétára található.",
+                "ro": "Stația de autobuz este la doar 2 minute de mers pe jos.",
+                "en": "The bus stop is just a 2-minute walk from the entrance."
+              }
+            },
+            {
+              "name": "Museum District: Regional Historical Museum",
+              "tip_5lang": {
+                "de": "Warten Sie im Museumscafé auf Ihren nächsten Bus.",
+                "hu": "Várja a következő buszt a múzeum kávézójában.",
+                "ro": "Așteptați următorul autobuz în cafeneaua muzeului.",
+                "en": "Wait for your next bus inside the museum cafe."
+              }
+            },
+            {
+              "name": "Kiril Petrov Art Gallery",
+              "tip_5lang": {
+                "de": "Informieren Sie sich über die Buszeiten an der Rezeption.",
+                "hu": "Érdeklődjön a buszmenetrendről a recepción.",
+                "ro": "Informați-vă despre orele autobuzelor la recepție.",
+                "en": "Check the bus schedule at the gallery reception desk."
+              }
+            },
+            {
+              "name": "Fortress District: Castra ad Montanesium",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die steilsten Abschnitte zu umgehen.",
+                "hu": "Használja a buszt a legmeredekebb szakaszok elkerülésére.",
+                "ro": "Folosiți autobuzul pentru a evita cele mai abrupte porțiuni.",
+                "en": "Use the bus to bypass the steepest parts of the road."
+              }
+            },
+            {
+              "name": "Ogosta Park",
+              "tip_5lang": {
+                "de": "Die Endhaltestelle bietet Schutz vor Regen beim Warten.",
+                "hu": "A végállomás védelmet nyújt az eső ellen várakozás közben.",
+                "ro": "Capătul de linie oferă adăpost împotriva ploii.",
+                "en": "The terminus provides shelter from the rain while waiting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten im Voraus beim Fahrer oder am Kiosk.",
+              "Busse verkehren bei Regen oft unregelmäßiger.",
+              "Nutzen Sie eine Transit-App für Echtzeit-Updates in Montana.",
+              "Halten Sie Kleingeld für den Fahrpreis bereit."
+            ],
+            "hu": [
+              "Vásároljon jegyet előre a sofőrnél vagy az újságosnál.",
+              "Esőben a buszok gyakran rendszertelenebbül közlekednek.",
+              "Használjon menetrendi appot a valós idejű frissítésekhez.",
+              "Legyen Önnél aprópénz a jegyvásárláshoz."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans de la șofer sau de la chioșcuri.",
+              "Autobuzele pot avea întârzieri în timpul ploilor torențiale.",
+              "Folosiți o aplicație de transport pentru actualizări în timp real.",
+              "Aveți pregătit mărunțiș pentru plata biletului."
+            ],
+            "en": [
+              "Buy tickets in advance from the driver or at kiosks.",
+              "Buses may run less frequently during heavy rain.",
+              "Use a transit app for real-time updates in Montana.",
+              "Keep small change ready for the bus fare."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Montana ist im Bus am erträglichsten. Starten Sie am frostigen Zheravitsa-Platz und lassen Sie sich bequem zum Michailow-Haus bringen. Das Historische Museum bietet eine lange, warme Pause. Die Busfahrt zum Festungsviertel schont Ihre Kräfte für den kurzen Aufstieg im Schnee. Beenden Sie den Tag früh im Park, da die Busse nach Einbruch der Dunkelheit seltener fahren.",
+            "hu": "A montanai tél a buszon a legelviselhetőbb. Kezdjen a fagyos Zseravica téren, és utazzon kényelmesen a Mihajlov-házhoz. A Történeti Múzeum hosszú, meleg pihenőt kínál. A buszozás a várnegyedbe kíméli az erejét a rövid havas emelkedőhöz. Zárja korán a napot a parkban, mivel sötétedés után ritkulnak a buszjáratok.",
+            "ro": "Iarna în Montana este cel mai ușor de suportat în autobuz. Începeți în Piața Zheravitsa și călătoriți confortabil spre Casa Mihailov. Muzeul de Istorie oferă o pauză lungă și călduroasă. Călătoria spre zona cetății vă economisește energia pentru urcarea prin zăpadă. Încheiați ziua devreme în parc, deoarece autobuzele circulă mai rar după lăsarea serii.",
+            "en": "Winter in Montana is best managed by using the bus network. Start at the frosty Zheravitsa Square and ride comfortably to Mihailov House. The Historical Museum provides a long, warm break from the cold. A bus ride to the fortress district saves your energy for the short climb in the snow. Finish your day early at the park, as bus frequency decreases after dark."
+          },
+          "stops": [
+            {
+              "name": "Central District: Zheravitsa Square",
+              "tip_5lang": {
+                "de": "Warten Sie im Inneren eines Cafés, bis der Bus kommt.",
+                "hu": "Várjon egy közeli kávézóban, amíg megérkezik a busz.",
+                "ro": "Așteptați într-o cafenea până când sosește autobuzul.",
+                "en": "Wait inside a nearby cafe until the bus arrives."
+              }
+            },
+            {
+              "name": "Mihailov House",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen können bei Schneeräumung blockiert sein.",
+                "hu": "A buszmegállók hóeltakarításkor eltorlaszolódhatnak.",
+                "ro": "Stațiile de autobuz pot fi blocate de mormane de zăpadă.",
+                "en": "Bus stops might be partially blocked by snow banks."
+              }
+            },
+            {
+              "name": "Museum District: Regional Historical Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme des Museums für die Wartezeit.",
+                "hu": "Használja ki a múzeum melegét a várakozási idő alatt.",
+                "ro": "Folosiți căldura muzeului în timpul așteptării.",
+                "en": "Utilize the museum's warmth during your wait time."
+              }
+            },
+            {
+              "name": "Kiril Petrov Art Gallery",
+              "tip_5lang": {
+                "de": "Halten Sie die Fahrpläne im Auge, um Kältepausen zu minimieren.",
+                "hu": "Kísérje figyelemmel a menetrendet a hidegben való várakozás csökkentésére.",
+                "ro": "Urmăriți orarul pentru a minimiza așteptarea în frig.",
+                "en": "Keep an eye on the schedule to minimize waiting in the cold."
+              }
+            },
+            {
+              "name": "Fortress District: Castra ad Montanesium",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf glatten Gehwegen.",
+                "hu": "Vigyázzon a leszálláskor a csúszós járdákra.",
+                "ro": "Atenție la coborâre pe trotuarele alunecoase.",
+                "en": "Be careful when stepping off the bus onto icy sidewalks."
+              }
+            },
+            {
+              "name": "Ogosta Park",
+              "tip_5lang": {
+                "de": "Beachten Sie den ausgedünnten Winterfahrplan am Abend.",
+                "hu": "Ügyeljen a ritkított téli menetrendre az esti órákban.",
+                "ro": "Țineți cont de programul de iarnă redus în timpul serii.",
+                "en": "Be aware of the reduced winter schedule in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse in Montana sind im Winter meist gut beheizt.",
+              "Planen Sie Pufferzeiten ein, da Schnee den Verkehr verzögern kann.",
+              "Die letzte Rückfahrt aus dem Parkgebiet ist im Winter oft früher.",
+              "Tragen Sie feste Schuhe für den Weg von der Haltestelle zum Ziel."
+            ],
+            "hu": [
+              "A montanai buszok télen általában jól fűtöttek.",
+              "Számoljon extra idővel, a hó késleltetheti a forgalmat.",
+              "A park környékéről az utolsó járatok télen korábban indulhatnak.",
+              "Viseljen stabil lábbelit a megálló és a cél közötti szakaszra."
+            ],
+            "ro": [
+              "Autobuzele din Montana sunt de obicei bine încălzite iarna.",
+              "Alocați timp suplimentar, zăpada poate întârzia traficul.",
+              "Ultimele curse din zona parcului pot pleca mai devreme iarna.",
+              "Purtați încălțăminte stabilă pentru drumul de la stație la obiectiv."
+            ],
+            "en": [
+              "Buses in Montana are generally well-heated during winter.",
+              "Allow extra time as heavy snow can delay local traffic.",
+              "The last bus from the park area often leaves earlier in winter.",
+              "Wear sturdy boots for the walk between the stop and the site."
+            ]
+          }
+        }
       }
     }
   }

@@ -386,6 +386,215 @@
           "A city map or a navigation app is helpful.",
           "Most central attractions are within easy walking distance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt regnerisch am Denkmal der Befreier; ein Schirm ist unerlässlich. Die St.-Antonius-Kirche bietet danach einen trockenen Rückzugsort mit beeindruckender Architektur. Mittags genießen Sie den Aufenthalt im Staszic-Museum und ein ausgedehntes Mittagessen im warmen Stadtzentrum. Den Nachmittag verbringen Sie im Armeemuseum, bevor ein kurzer Spaziergang durch den nebligen Inselpark den Tag im Kulturhaus abrundet.",
+            "hu": "Az esős reggel a Felszabadítók emlékművénél indul; az esernyő kötelező. A Szent Antal-templom kiváló menedéket nyújt a belső tér felfedezéséhez. Ebédidőben a Staszic Múzeum tárlatai és egy meleg városközponti ebéd tartja szárazon. Délután a Lengyel Hadsereg Múzeumának kiállításai várják, majd a ködös Sziget-parkon átvágva a Kultúrházban zárul a nap.",
+            "ro": "Dimineața ploioasă începe la Monumentul Eliberatorilor; umbrela este esențială. Biserica Sf. Anton oferă un refugiu uscat pentru a admira interiorul. La prânz, vizitați Muzeul Staszic și bucurați-vă de o masă caldă în centrul orașului. După-amiaza este dedicată Muzeului Armatei, urmată de o scurtă plimbare prin parcul cețos de pe insulă și o seară culturală la Casa de Cultură.",
+            "en": "A rainy morning starts at the Liberators monument; an umbrella is a must. St. Anthony's Church provides a dry sanctuary to admire its unique interior. At lunch, explore the Staszic Museum and enjoy a warm meal in the city center. Spend the afternoon at the Polish Army Museum, followed by a brisk walk through the misty Island Park and an evening at the House of Culture."
+          },
+          "stops": [
+            {
+              "name": "Monument to the Liberators",
+              "tip_5lang": {
+                "de": "Schnelles Foto unter dem Schirm am großen Platz.",
+                "hu": "Gyors fotó az esernyő alatt a tágas téren.",
+                "ro": "O fotografie rapidă sub umbrelă în piața largă.",
+                "en": "Quick photo under the umbrella in the wide square."
+              }
+            },
+            {
+              "name": "St. Anthony's Church",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um dem Regen zu entkommen.",
+                "hu": "Tökéletes hely az eső elől való menekülésre.",
+                "ro": "Locul perfect pentru a scăpa de ploaie.",
+                "en": "Perfect place to escape the rain for a while."
+              }
+            },
+            {
+              "name": "Stanisław Staszic Museum",
+              "tip_5lang": {
+                "de": "Die Innenausstellungen sind ideal für Regentage.",
+                "hu": "A belső kiállítások ideálisak esős napokra.",
+                "ro": "Expozițiile interioare sunt ideale pentru zilele ploioase.",
+                "en": "Interior exhibits are ideal for rainy days."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "stay_min": 90,
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
+                "hu": "Válasszon ruhatáras éttermet a vizes kabátoknak.",
+                "ro": "Alegeți un restaurant cu garderobă pentru haine ude.",
+                "en": "Choose a restaurant with a cloakroom for wet coats."
+              }
+            },
+            {
+              "name": "Museum of the Polish Army",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Hallen der Ausstellungen.",
+                "hu": "Használja ki a kiállítások fedett csarnokait.",
+                "ro": "Profitați de halele acoperite ale expozițiilor.",
+                "en": "Take advantage of the indoor exhibition halls."
+              }
+            },
+            {
+              "name": "Island Park (Park na Wyspie)",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind trotz Pfützen gut begehbar.",
+                "hu": "Az aszfaltozott utak tócsák ellenére is jól járhatók.",
+                "ro": "Aleile asfaltate sunt accesibile în ciuda bălților.",
+                "en": "Paved paths are walkable despite the puddles."
+              }
+            },
+            {
+              "name": "House of Culture in Piła",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei einer Abendveranstaltung auf.",
+                "hu": "Melegedjen fel egy esti kulturális eseményen.",
+                "ro": "Încălziți-vă la un eveniment cultural de seară.",
+                "en": "Warm up during an evening cultural event."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Wege zwischen den Museen.",
+              "Die Unterführung am Bahnhof bietet Schutz vor plötzlichen Güssen.",
+              "Das Staszic-Museum ist ein hervorragender Ort zum Trocknen.",
+              "Nutzen Sie Cafés im Zentrum für strategische Pausen.",
+              "Ein stabiler Schirm ist wegen des Windes am Fluss Gwda ratsam."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a múzeumok közötti sétákhoz.",
+              "A vasútállomás alatti aluljáró menedéket nyújt a záporok elől.",
+              "A Staszic Múzeum kiváló hely a száradáshoz és pihenéshez.",
+              "Használja a központi kávézókat stratégiai szünetekre.",
+              "A Gwda-folyó menti szél miatt stabil esernyő ajánlott."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru drumurile dintre muzee.",
+              "Pasajul de la gară oferă adăpost în caz de averse bruște.",
+              "Muzeul Staszic este un loc excelent pentru a vă usca.",
+              "Folosiți cafenelele din centru pentru pauze strategice.",
+              "Se recomandă o umbrelă stabilă din cauza vântului de pe râul Gwda."
+            ],
+            "en": [
+              "Wear waterproof shoes for the walks between museums.",
+              "The underpass near the station offers shelter from sudden downpours.",
+              "The Staszic Museum is an excellent place to dry off and rest.",
+              "Use central cafes for strategic breaks during heavy rain.",
+              "A sturdy umbrella is recommended due to wind near the Gwda river."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Denkmal, bevor Sie in der beheizten St.-Antonius-Kirche Wärme suchen. Mittags erkunden Sie die Geschichte im Staszic-Museum und stärken sich mit herzhafter polnischer Küche. Der Nachmittag gehört dem Armeemuseum, dessen Exponate im Winterlicht besonders wirken. Vor dem frühen Sonnenuntergang spazieren Sie durch den verschneiten Inselpark und beenden den Tag gemütlich im Kulturhaus.",
+            "hu": "A fagyos reggel az emlékműnél indul, majd a fűtött Szent Antal-templomban kereshet melegséget. Ebédidőben a Staszic Múzeum történetei és egy kiadós lengyel ebéd várja. Délután a Lengyel Hadsereg Múzeuma következik, ahol a téli fények különleges hangulatot adnak. A korai naplemente előtt tegyen egy kört a havas Sziget-parkban, majd zárja a napot a Kultúrházban.",
+            "ro": "O dimineață geroasă începe la monument, urmată de căldura Bisericii Sf. Anton. La prânz, explorați istoria la Muzeul Staszic și savurați o masă poloneză consistentă. După-amiaza este pentru Muzeul Armatei, unde exponatele arată spectaculos în lumina iernii. Înainte de apusul timpuriu, plimbați-vă prin parcul înzăpezit, încheind ziua la Casa de Cultură.",
+            "en": "A frosty morning starts at the monument before seeking warmth in the heated St. Anthony's Church. At lunch, explore history at the Staszic Museum and recharge with hearty Polish cuisine. The afternoon is for the Army Museum, where exhibits look unique in the winter light. Before the early sunset, stroll through the snowy Island Park, ending the day at the House of Culture."
+          },
+          "stops": [
+            {
+              "name": "Monument to the Liberators",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Flächen auf dem Platz.",
+                "hu": "Vigyázzon a csúszós felületekre a téren.",
+                "ro": "Atenție la suprafețele alunecoase din piață.",
+                "en": "Watch out for slippery surfaces in the square."
+              }
+            },
+            {
+              "name": "St. Anthony's Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige, beheizte Atmosphäre.",
+                "hu": "Élvezze a csendes, fűtött környezetet.",
+                "ro": "Bucurați-vă de atmosfera liniștită și încălzită.",
+                "en": "Enjoy the quiet, heated atmosphere inside."
+              }
+            },
+            {
+              "name": "Stanisław Staszic Museum",
+              "tip_5lang": {
+                "de": "Hinterlassen Sie schwere Mäntel an der Garderobe.",
+                "hu": "A nehéz kabátokat hagyja a ruhatárban.",
+                "ro": "Lăsați hainele groase la garderobă.",
+                "en": "Leave heavy coats at the cloakroom while exploring."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Probieren Sie heißen Bigos oder eine warme Suppe.",
+                "hu": "Kóstoljon meg egy forró bigost vagy egy meleg levest.",
+                "ro": "Încercați un bigos fierbinte sau o supă caldă.",
+                "en": "Try some hot bigos or a warming Polish soup."
+              }
+            },
+            {
+              "name": "Museum of the Polish Army",
+              "tip_5lang": {
+                "de": "Einige Außenbereiche können sehr kalt sein.",
+                "hu": "Néhány kültéri rész nagyon hideg lehet.",
+                "ro": "Unele zone exterioare pot fi foarte reci.",
+                "en": "Some outdoor areas can be very cold, dress warmly."
+              }
+            },
+            {
+              "name": "Island Park (Park na Wyspie)",
+              "tip_5lang": {
+                "de": "Besuch vor 16:00 Uhr wegen des Sonnenuntergangs.",
+                "hu": "Látogatás 16:00 előtt a korai naplemente miatt.",
+                "ro": "Vizitați înainte de ora 16:00 pentru lumina zilei.",
+                "en": "Visit before 4 PM to catch the daylight."
+              }
+            },
+            {
+              "name": "House of Culture in Piła",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Abschluss für einen kalten Tag.",
+                "hu": "Hangulatos zárás egy hideg nap végén.",
+                "ro": "Un final primitor pentru o zi friguroasă.",
+                "en": "A cozy conclusion to a cold winter day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 15:45 Uhr unter.",
+              "Tragen Sie Schichten, da die Museen gut beheizt sind.",
+              "Die Wege im Park können bei Frost rutschig sein.",
+              "Heiße Schokolade in den Konditoreien der Stadtmitte ist ein Muss.",
+              "Planen Sie mehr Zeit für die Garderoben in den Museen ein."
+            ],
+            "hu": [
+              "A nap decemberben már 15:45 körül lemegy.",
+              "Öltözzön rétegesen, mert a múzeumok jól fűtöttek.",
+              "A park útjai fagy idején csúszósak lehetnek.",
+              "A városközponti cukrászdák forró csokoládéja kötelező.",
+              "Számoljon több időt a múzeumi ruhatárakra."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 15:45 în decembrie.",
+              "Îmbrăcați-vă în straturi, muzeele sunt bine încălzite.",
+              "Aleile din parc pot fi alunecoase în caz de îngheț.",
+              "Ciocolata caldă din cofetăriile centrale este obligatorie.",
+              "Alocați mai mult timp pentru garderobele de la muzee."
+            ],
+            "en": [
+              "The sun sets as early as 3:45 PM in December.",
+              "Dress in layers as museums are usually well-heated.",
+              "Park paths can be slippery during frosty conditions.",
+              "Hot chocolate in the city center confectioneries is a must.",
+              "Allow extra time for cloakrooms at major museums."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +951,196 @@
           "A helmet is recommended for your safety.",
           "Bring a bottle of water, especially for the ride to the lake."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour durch Piła beginnt am Inselpark, wo die Wege fest, aber rutschig sein können. Im Staszic-Museum und in der St.-Antonius-Kirche finden Sie Schutz und Kultur. Nach einem stärkenden Mittagessen führt die Route zum Płotki-See; die Waldwege erfordern hier Vorsicht bei Nässe. Der Tag endet mit der Rückkehr ins Stadtzentrum, wo Sie sich trocknen können.",
+            "hu": "Egy vizes kerékpártúra a Sziget-parkban indul, ahol az utak stabilak, de csúszósak lehetnek. A Staszic Múzeumban és a Szent Antal-templomban kereshet menedéket. Egy tápláló ebéd után az út a Płotki-tóhoz vezet; az erdei utak óvatosságot igényelnek esőben. A nap a városközpontba való visszatéréssel zárul, ahol megpihenhet.",
+            "ro": "O tură cu bicicleta prin Piła începe în parcul de pe insulă, unde aleile pot fi alunecoase. Găsiți adăpost și cultură la Muzeul Staszic și Biserica Sf. Anton. După un prânz consistent, traseul duce spre lacul Płotki; drumurile forestiere necesită prudență pe ploaie. Ziua se încheie cu revenirea în centrul orașului pentru odihnă.",
+            "en": "A wet bike tour through Piła starts at Island Park, where paths are firm but can be slippery. Find shelter and culture at the Staszic Museum and St. Anthony's Church. After a nourishing lunch, the route leads to Płotki Lake; forest paths require caution in the rain. The day ends with a return to the city center to dry off and relax."
+          },
+          "stops": [
+            {
+              "name": "Island Park (Park na Wyspie)",
+              "tip_5lang": {
+                "de": "Vorsicht bei Holzbrücken, diese sind sehr glatt.",
+                "hu": "Vigyázzon a fahidakkal, ezek nagyon csúsznak.",
+                "ro": "Atenție la podurile de lemn, sunt foarte alunecoase.",
+                "en": "Be careful on wooden bridges; they are very slippery."
+              }
+            },
+            {
+              "name": "Stanisław Staszic Museum",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradabstellplatz direkt am Museum.",
+                "hu": "Biztonságos kerékpártároló közvetlenül a múzeumnál.",
+                "ro": "Parcare sigură pentru biciclete chiar la muzeu.",
+                "en": "Secure bike parking available directly at the museum."
+              }
+            },
+            {
+              "name": "St. Anthony's Church",
+              "tip_5lang": {
+                "de": "Kurze Pause im Trockenen unter dem Portal.",
+                "hu": "Rövid szünet szárazon a bejárat alatt.",
+                "ro": "O scurtă pauză la uscat sub portalul bisericii.",
+                "en": "Short break in the dry under the church portal."
+              }
+            },
+            {
+              "name": "Lunch near the center",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz mit Sicht auf Ihr Rad.",
+                "hu": "Keressen olyan helyet, ahonnan látja a biciklijét.",
+                "ro": "Căutați un loc cu vedere la bicicletă.",
+                "en": "Look for a spot with a view of your bike."
+              }
+            },
+            {
+              "name": "Płotki Lake",
+              "tip_5lang": {
+                "de": "Der Waldweg kann schlammige Abschnitte haben.",
+                "hu": "Az erdei úton sáros szakaszok fordulhatnak elő.",
+                "ro": "Drumul prin pădure poate avea porțiuni noroioase.",
+                "en": "The forest path may have some muddy sections."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Belohnen Sie sich mit einem heißen Getränk.",
+                "hu": "Jutalmazza meg magát egy forró itallal.",
+                "ro": "Răsplătiți-vă cu o băutură fierbinte.",
+                "en": "Reward yourself with a hot drink upon return."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Vermeiden Sie schnelle Bremsmanöver auf nassem Kopfsteinpflaster.",
+              "Der Weg zum Płotki-See ist teilweise ungeschützt vor Wind.",
+              "Nutzen Sie wasserfeste Packtaschen für Ihre Ausrüstung.",
+              "Die Sicht kann bei starkem Regen eingeschränkt sein."
+            ],
+            "hu": [
+              "A sárvédő használata ilyenkor elengedhetetlen.",
+              "Kerülje a hirtelen fékezést a vizes macskakövön.",
+              "A Płotki-tó felé vezető út néhol szélnek kitett.",
+              "Használjon vízálló táskákat a felszereléséhez.",
+              "Erős esőben a látási viszonyok korlátozottak lehetnek."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii pe această vreme.",
+              "Evitați frânările bruște pe pavajul umed.",
+              "Drumul spre lacul Płotki este parțial expus vântului.",
+              "Folosiți genți impermeabile pentru echipament.",
+              "Vizibilitatea poate fi redusă în timpul ploii abundente."
+            ],
+            "en": [
+              "Mudguards on your bike are a must in this weather.",
+              "Avoid sudden braking on wet cobblestones in the center.",
+              "The path to Płotki Lake is partially exposed to wind.",
+              "Use waterproof panniers or bags for your gear.",
+              "Visibility can be limited during heavy rain showers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch Piła beginnt im frostigen Inselpark. Die Museen und Kirchen entlang der Route bieten wichtige Aufwärmstopps. Nach dem Mittagessen führt die Fahrt durch den tief verschneiten Wald zum Płotki-See; ein magisches Erlebnis, das jedoch gute Ausrüstung erfordert. Den Tag schließen Sie mit einer Fahrt durch die beleuchtete Innenstadt zurück zum Zentrum ab.",
+            "hu": "A téli kerékpártúra a fagyos Sziget-parkban indul. Az útvonal menti múzeumok és templomok fontos melegedőpontok. Ebéd után az út a mélyen havas erdőn át vezet a Płotki-tóhoz; varázslatos élmény, de jó felszerelést igényel. A napot a kivilágított belvároson át való tekeréssel zárhatja a központban.",
+            "ro": "O tură de iarnă cu bicicleta începe în parcul înghețat. Muzeele și bisericile de pe traseu sunt puncte esențiale de încălzire. După prânz, drumul duce prin pădurea înzăpezită spre lacul Płotki; o experiență magică, dar care necesită echipament bun. Încheiați ziua cu o plimbare prin centrul luminat al orașului.",
+            "en": "A winter bike tour through Piła starts in the frosty Island Park. Museums and churches along the route serve as vital warming stops. After lunch, ride through the snowy forest to Płotki Lake; a magical experience that requires proper gear. End the day with a ride through the illuminated city center back to the starting point."
+          },
+          "stops": [
+            {
+              "name": "Island Park (Park na Wyspie)",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen an den Ufern.",
+                "hu": "Figyeljen a jeges szakaszokra a part mentén.",
+                "ro": "Atenție la porțiunile înghețate de pe mal.",
+                "en": "Watch out for icy patches near the riverbanks."
+              }
+            },
+            {
+              "name": "Stanisław Staszic Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit drinnen zum Aufwärmen.",
+                "hu": "Használja ki a benti időt a felmelegedésre.",
+                "ro": "Folosiți timpul în interior pentru a vă încălzi.",
+                "en": "Use the time indoors to warm up properly."
+              }
+            },
+            {
+              "name": "St. Anthony's Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die gefrorenen Finger zu lockern.",
+                "hu": "Rövid megálló a megfagyott ujjak átmozgatására.",
+                "ro": "O scurtă oprire pentru a vă dezmorți degetele.",
+                "en": "Short stop to thaw out your frozen fingers."
+              }
+            },
+            {
+              "name": "Lunch near the center",
+              "tip_5lang": {
+                "de": "Wählen Sie energiereiche Speisen für die Kälte.",
+                "hu": "Válasszon energiadús ételeket a hideg ellen.",
+                "ro": "Alegeți mâncăruri bogate în calorii pentru frig.",
+                "en": "Choose energy-rich foods to combat the cold."
+              }
+            },
+            {
+              "name": "Płotki Lake",
+              "tip_5lang": {
+                "de": "Fahren Sie nur auf den geräumten Hauptwegen.",
+                "hu": "Csak a letakarított főutakon közlekedjen.",
+                "ro": "Circulați doar pe drumurile principale deszăpezite.",
+                "en": "Stay on the cleared main paths through the forest."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Vorsicht bei Dämmerung, gute Beleuchtung nötig.",
+                "hu": "Vigyázzon szürkületkor, jó világítás szükséges.",
+                "ro": "Atenție la amurg, aveți nevoie de lumini bune.",
+                "en": "Be careful at dusk; ensure your lights are working."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung und warme Handschuhe.",
+              "Der Reifendruck sollte für besseren Grip etwas niedriger sein.",
+              "Die Akkus von E-Bikes entladen sich bei Kälte schneller.",
+              "Trinken Sie ausreichend warmen Tee während der Pausen.",
+              "Vermeiden Sie Waldwege bei starkem Schneefall oder Windbruchgefahr."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot és meleg kesztyűt.",
+              "A guminyomás legyen kicsit alacsonyabb a jobb tapadásért.",
+              "Az e-bike-ok akkumulátora gyorsabban merül hidegben.",
+              "Igyon elegendő meleg teát a szünetekben.",
+              "Kerülje az erdei utakat erős havazás vagy szél esetén."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt și mănuși groase.",
+              "Presiunea pneurilor ar trebui să fie mai mică pentru aderență.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Beți suficient ceai cald în timpul pauzelor.",
+              "Evitați drumurile forestiere în caz de ninsoare abundentă."
+            ],
+            "en": [
+              "Wear windproof clothing and very warm gloves.",
+              "Lower your tire pressure slightly for better grip on snow.",
+              "E-bike batteries drain much faster in cold temperatures.",
+              "Drink plenty of warm tea during your stops.",
+              "Avoid forest paths during heavy snow or high winds."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1521,214 @@
           "A GPS is essential for navigating between clusters.",
           "Do not leave valuables visible in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag mit dem Auto beginnt am Płotki-See, wo Sie die Natur vom trockenen Fahrzeug aus genießen können. Die Fahrt zum Stadtzentrum ist komfortabel, und Parkplätze in der Nähe der Museen minimieren den Kontakt mit dem Regen. Besuchen Sie die St.-Antonius-Kirche und das Staszic-Museum, gefolgt von einem entspannten Mittagessen. Der Nachmittag endet mit dem Armeemuseum und dem Inselpark, bevor Sie trocken nach Hause fahren.",
+            "hu": "Az esős nap autóval a Płotki-tónál indul, ahol a száraz járműből élvezheti a természetet. A központba vezető út kényelmes, a múzeumok közeli parkolói pedig minimálisra csökkentik az esőben való tartózkodást. Látogassa meg a Szent Antal-templomot és a Staszic Múzeumot, majd egy nyugodt ebéd után fejezze be a napot a Hadsereg Múzeumával és a Sziget-parkkal.",
+            "ro": "O zi ploioasă cu mașina începe la lacul Płotki, unde puteți admira natura din vehiculul uscat. Drumul spre centru este confortabil, iar parcările de lângă muzee reduc expunerea la ploaie. Vizitați Biserica Sf. Anton și Muzeul Staszic, urmate de un prânz relaxat. După-amiaza se încheie cu Muzeul Armatei și parcul de pe insulă.",
+            "en": "A rainy day by car starts at Płotki Lake, where you can enjoy nature from your dry vehicle. The drive to the center is comfortable, and parking near museums minimizes time in the rain. Visit St. Anthony's Church and the Staszic Museum, followed by a relaxed lunch. The afternoon concludes with the Army Museum and Island Park before a dry drive back."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Płotki Lake",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Ufer für die beste Aussicht.",
+                "hu": "Parkoljon a parthoz közel a legjobb kilátásért.",
+                "ro": "Parcați aproape de mal pentru cea mai bună vedere.",
+                "en": "Park close to the shore for the best view of the lake."
+              }
+            },
+            {
+              "name": "Cluster 2: City Center Parking",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz, ideal für kurze Fußwege.",
+                "hu": "Központi parkoló, ideális rövid sétákhoz.",
+                "ro": "Parcare centrală, ideală pentru distanțe scurte.",
+                "en": "Central parking, ideal for short walks to attractions."
+              }
+            },
+            {
+              "name": "St. Anthony's Church",
+              "tip_5lang": {
+                "de": "Parken direkt vor dem Eingang oft möglich.",
+                "hu": "A parkolás közvetlenül a bejárat előtt gyakran lehetséges.",
+                "ro": "Parcarea direct în fața intrării este adesea posibilă.",
+                "en": "Parking directly in front of the entrance is often possible."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit nahem Parkhaus.",
+                "hu": "Keressen közeli parkolóházzal rendelkező éttermet.",
+                "ro": "Căutați un restaurant cu parcare acoperită în apropiere.",
+                "en": "Look for a restaurant with a nearby parking garage."
+              }
+            },
+            {
+              "name": "Stanisław Staszic Museum",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für das Auto während der Tour.",
+                "hu": "Biztonságos parkoló az autó számára a túra alatt.",
+                "ro": "Loc sigur pentru mașină în timpul turului.",
+                "en": "Secure spot for your car during the museum visit."
+              }
+            },
+            {
+              "name": "Museum of the Polish Army",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist meist unbefestigt, Vorsicht Matsch.",
+                "hu": "A parkoló többnyire burkolatlan, vigyázzon a sárral.",
+                "ro": "Parcarea este neamenajată, atenție la noroi.",
+                "en": "The parking lot is mostly unpaved; watch out for mud."
+              }
+            },
+            {
+              "name": "Island Park (Park na Wyspie)",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang vom Parkplatz zum Wasser.",
+                "hu": "Rövid séta a parkolótól a vízig.",
+                "ro": "O scurtă plimbare de la parcare până la apă.",
+                "en": "A short walk from the parking lot to the water's edge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sicht kann bei starkem Regen auf der Landstraße eingeschränkt sein.",
+              "Nutzen Sie die Park-Apps der Stadt für bequemes Bezahlen.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+              "Ein Regenschirm im Auto ist für die Wege zum Eingang wichtig.",
+              "Vermeiden Sie bei Starkregen tiefere Pfützen am Seeufer."
+            ],
+            "hu": [
+              "Erős esőben a látótávolság csökkenhet az országúton.",
+              "Használja a városi parkolási appokat a kényelmes fizetéshez.",
+              "Ne hagyjon értéktárgyat látható helyen az autóban.",
+              "Az autóban tartott esernyő fontos a bejáratig tartó úton.",
+              "Kerülje a mély tócsákat a tóparti utakon heves esőben."
+            ],
+            "ro": [
+              "Vizibilitatea poate fi redusă pe drumul național în caz de ploaie.",
+              "Folosiți aplicațiile de parcare ale orașului pentru plată ușoară.",
+              "Nu lăsați obiecte de valoare la vedere în mașină.",
+              "O umbrelă în mașină este esențială pentru drumul spre intrare.",
+              "Evitați bălțile adânci de pe malul lacului în caz de ploaie."
+            ],
+            "en": [
+              "Visibility can be reduced on the country road during heavy rain.",
+              "Use city parking apps for convenient mobile payment.",
+              "Do not leave valuables visible inside the car.",
+              "Keep an umbrella in the car for the walk to the entrance.",
+              "Avoid deep puddles on the lakeside roads during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag beginnt mit einer Fahrt zum malerischen Płotki-See, der oft von Reif oder Schnee bedeckt ist. Mit der Sitzheizung genießen Sie den Komfort auf dem Weg zurück in die Stadt. Die Museen und Kirchen bieten wunderbare kulturelle Erlebnisse in warmem Ambiente. Nach einem deftigen Mittagessen erkunden Sie das Armeemuseum und den winterlichen Inselpark, bevor Sie gemütlich im beheizten Auto den Tag beenden.",
+            "hu": "A téli nap a festői Płotki-tónál indul, amelyet gyakran zúzmara vagy hó borít. Az ülésfűtés kényelmét élvezve térhet vissza a városba. A múzeumok és templomok csodás kulturális élményeket nyújtanak meleg környezetben. Egy bőséges ebéd után fedezze fel a Hadsereg Múzeumát és a téli Sziget-parkot, majd zárja a napot a fűtött autó kényelmében.",
+            "ro": "O zi de iarnă începe cu un drum spre lacul pitoresc Płotki, adesea acoperit de chiciură sau zăpadă. Cu încălzirea în scaune, bucurați-vă de confortul drumului spre oraș. Muzeele și bisericile oferă experiențe culturale minunate în ambianță caldă. După un prânz copios, explorați Muzeul Armatei și parcul, încheind ziua în mașina încălzită.",
+            "en": "A winter day begins with a drive to the picturesque Płotki Lake, often covered in frost or snow. Enjoy the comfort of seat heating on the way back to the city. Museums and churches offer wonderful cultural experiences in a warm ambiance. After a hearty lunch, explore the Army Museum and winter Island Park, finishing the day in your heated car."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Płotki Lake",
+              "tip_5lang": {
+                "de": "Vorsicht bei schneebedeckten Zufahrtswegen.",
+                "hu": "Vigyázzon a hóval borított bekötőutakon.",
+                "ro": "Atenție la drumurile de acces acoperite cu zăpadă.",
+                "en": "Be careful on snow-covered access roads to the lake."
+              }
+            },
+            {
+              "name": "Cluster 2: City Center Parking",
+              "tip_5lang": {
+                "de": "Oft sind die Parkplätze geräumt, aber glatt.",
+                "hu": "A parkolók gyakran le vannak takarítva, de csúszhatnak.",
+                "ro": "Parcările sunt de obicei deszăpezite, dar alunecoase.",
+                "en": "Parking lots are usually cleared but can be slippery."
+              }
+            },
+            {
+              "name": "St. Anthony's Church",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Parkzone zum Portal.",
+                "hu": "Rövid út a parkolózónától a bejáratig.",
+                "ro": "Drum scurt de la zona de parcare până la portal.",
+                "en": "A very short walk from the parking zone to the portal."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal mit direktem Zugang zur Straße.",
+                "hu": "Válasszon közvetlen utcai bejáratú éttermet.",
+                "ro": "Alegeți un local cu acces direct din stradă.",
+                "en": "Choose a restaurant with direct street access."
+              }
+            },
+            {
+              "name": "Stanisław Staszic Museum",
+              "tip_5lang": {
+                "de": "Warme Parkmöglichkeit oft begrenzt, früh kommen.",
+                "hu": "A közeli parkolóhelyek száma korlátozott, érkezzen korán.",
+                "ro": "Locurile de parcare sunt limitate, veniți devreme.",
+                "en": "Nearby parking spots are limited; arrive early."
+              }
+            },
+            {
+              "name": "Museum of the Polish Army",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Frost sehr uneben sein.",
+                "hu": "A parkoló fagy idején nagyon egyenetlen lehet.",
+                "ro": "Parcarea poate fi foarte denivelată în caz de îngheț.",
+                "en": "The parking lot can be very uneven during frost."
+              }
+            },
+            {
+              "name": "Island Park (Park na Wyspie)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die vereiste Gwda.",
+                "hu": "Élvezze a kilátást a jeges Gwda-folyóra.",
+                "ro": "Bucurați-vă de vederea spre râul Gwda înghețat.",
+                "en": "Enjoy the view of the frozen Gwda river from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind für die Strecke zum Płotki-See zwingend.",
+              "Achten Sie auf vereiste Brücken über die Gwda.",
+              "Halten Sie Enteiser-Spray im Fahrzeug bereit.",
+              "Der Sonnenuntergang ist früh, planen Sie die Fahrtzeiten ein.",
+              "Prüfen Sie den Reifendruck bei extremen Minustemperaturen."
+            ],
+            "hu": [
+              "A téli gumi kötelező a Płotki-tóhoz vezető szakaszon.",
+              "Vigyázzon a Gwda-folyó feletti jeges hidakon.",
+              "Tartson jégoldó spray-t a járműben.",
+              "A nap korán lemegy, tervezze meg az utazási időket.",
+              "Extrém mínuszok esetén ellenőrizze a guminyomást."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii pentru drumul spre lac.",
+              "Atenție la podurile înghețate peste râul Gwda.",
+              "Aveți pregătit un spray de dezghețare în vehicul.",
+              "Apusul este devreme, planificați timpii de deplasare.",
+              "Verificați presiunea pneurilor la temperaturi negative extreme."
+            ],
+            "en": [
+              "Winter tires are mandatory for the trip to Płotki Lake.",
+              "Be extra careful on icy bridges over the Gwda river.",
+              "Keep de-icer spray ready in your vehicle.",
+              "The sun sets early; plan your driving times accordingly.",
+              "Check tire pressure during extreme sub-zero temperatures."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2085,196 @@
           "Keep an eye out for your stop, as announcements may only be in Polish.",
           "Allow some buffer time for potential delays."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag mit öffentlichen Verkehrsmitteln beginnt am Hauptbahnhof. Busse bringen Sie schnell zum Armeemuseum und ins Stadtzentrum, wo Sie das Staszic-Museum und die St.-Antonius-Kirche trocken erreichen. Mittags genießen Sie die gastronomischen Angebote im Zentrum. Den Nachmittag verbringen Sie trotz Regens gut geschützt durch das dichte Busnetz, bevor Sie am Abend zum Bahnhof zurückkehren.",
+            "hu": "Az esős nap tömegközlekedéssel a főpályaudvaron indul. Buszok viszik gyorsan a Hadsereg Múzeumához és a központba, ahol a Staszic Múzeum és a Szent Antal-templom szárazon elérhető. Ebédidőben élvezze a központ gasztronómiáját. A délutánt az eső ellenére jól védi a sűrű buszhálózat, majd este térjen vissza az állomásra.",
+            "ro": "O zi ploioasă cu transportul public începe la gara centrală. Autobuzele vă duc rapid la Muzeul Armatei și în centru, unde Muzeul Staszic și Biserica Sf. Anton sunt accesibile. La prânz, savurați oferta gastronomică din centru. După-amiaza sunteți protejat de ploaie datorită rețelei dese de autobuze.",
+            "en": "A rainy day by public transport starts at the main station. Buses take you quickly to the Army Museum and the city center, where the Staszic Museum and St. Anthony's Church are within easy reach. Enjoy lunch in the center. In the afternoon, stay dry thanks to the efficient bus network before returning to the station."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Main Station & Surroundings",
+              "tip_5lang": {
+                "de": "Große Wartehalle mit Schutz vor Regen.",
+                "hu": "Tágas váróterem, védelem az eső elől.",
+                "ro": "Sală de așteptare mare cu protecție contra ploii.",
+                "en": "Large waiting hall with protection from the rain."
+              }
+            },
+            {
+              "name": "Museum of the Polish Army",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt am Eingang des Geländes.",
+                "hu": "Buszmegálló közvetlenül a terület bejáratánál.",
+                "ro": "Stație de autobuz chiar la intrarea în incintă.",
+                "en": "Bus stop located directly at the entrance of the area."
+              }
+            },
+            {
+              "name": "Cluster 2: City Center (by bus)",
+              "tip_5lang": {
+                "de": "Zentrale Knotenpunkte haben oft überdachte Steige.",
+                "hu": "A központi csomópontok gyakran fedett peronokkal bírnak.",
+                "ro": "Nodurile centrale au adesea peroane acoperite.",
+                "en": "Central transit hubs often have covered platforms."
+              }
+            },
+            {
+              "name": "St. Anthony's Church and Lunch",
+              "tip_5lang": {
+                "de": "Viele Restaurants sind nur wenige Schritte entfernt.",
+                "hu": "Számos étterem mindössze pár lépésre található.",
+                "ro": "Multe restaurante sunt la doar câțiva pași distanță.",
+                "en": "Many restaurants are just a few steps from the stop."
+              }
+            },
+            {
+              "name": "Stanisław Staszic Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um Fußwege im Regen zu kürzen.",
+                "hu": "Használja a buszt az esőben való gyaloglás rövidítésére.",
+                "ro": "Folosiți autobuzul pentru a scurta mersul pe jos.",
+                "en": "Use the bus to shorten your walks in the rain."
+              }
+            },
+            {
+              "name": "Cluster 3: Island Park (by bus)",
+              "tip_5lang": {
+                "de": "Die Haltestelle bietet einen Unterstand.",
+                "hu": "A megálló rendelkezik esőbeállóval.",
+                "ro": "Stația de autobuz are un adăpost.",
+                "en": "The bus stop provides a shelter from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten bequem per Smartphone-App.",
+              "Die Busse in Piła sind meist pünktlich und gut beheizt.",
+              "An Regentagen können Busse durch mehr Verkehr leicht verspätet sein.",
+              "Halten Sie Kleingeld für die Automaten in den Bussen bereit.",
+              "Nutzen Sie die Echtzeit-Auskunft an den Haltestellendisplays."
+            ],
+            "hu": [
+              "Vásároljon jegyet kényelmesen okostelefonos alkalmazással.",
+              "A pilai buszok általában pontosak és jól fűtöttek.",
+              "Esős napokon a forgalom miatt kisebb késések előfordulhatnak.",
+              "Legyen aprópénze a buszokon található automatákhoz.",
+              "Használja a megállók kijelzőin a valós idejű információkat."
+            ],
+            "ro": [
+              "Cumpărați bilete convenabil prin aplicația de mobil.",
+              "Autobuzele din Piła sunt de obicei punctuale și încălzite.",
+              "În zilele ploioase, autobuzele pot avea mici întârzieri.",
+              "Aveți mărunțiș pregătit pentru automatele din autobuz.",
+              "Folosiți informațiile în timp real de pe afișajele din stații."
+            ],
+            "en": [
+              "Buy tickets conveniently using a smartphone app.",
+              "Buses in Piła are generally punctual and well-heated.",
+              "On rainy days, buses may experience slight delays due to traffic.",
+              "Have some loose change ready for the on-board ticket machines.",
+              "Use real-time information displays at the major bus stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Tag mit dem Bus beginnt am warmen Hauptbahnhof. Die Fahrt zum Armeemuseum ist kurz und angenehm. Im Stadtzentrum erreichen Sie die Museen und Kirchen bequem, ohne lange in der Kälte stehen zu müssen. Nach einem herzhaften Mittagessen führt die Tour zum Inselpark, wo der Schnee eine friedliche Stille verbreitet. Der Tag endet sicher und warm mit der Rückfahrt zum Bahnhof.",
+            "hu": "A téli nap busszal a meleg főpályaudvaron indul. Az út a Hadsereg Múzeumához rövid és kellemes. A városközpontban kényelmesen elérheti a múzeumokat és templomokat anélkül, hogy sokat állna a hidegben. Egy kiadós ebéd után az út a Sziget-parkba vezet, ahol a hó békés csendet áraszt. A nap biztonságban és melegben zárul a pályaudvarra való visszatéréssel.",
+            "ro": "O zi de iarnă cu autobuzul începe în gara centrală încălzită. Drumul spre Muzeul Armatei este scurt și plăcut. În centrul orașului ajungeți confortabil la muzee și biserici, fără a sta mult în frig. După un prânz consistent, turul continuă spre parcul de pe insulă, unde zăpada oferă o liniște deplină. Ziua se încheie sigur și cald cu drumul spre gară.",
+            "en": "A winter day by bus starts at the warm main station. The ride to the Army Museum is short and pleasant. In the city center, reach museums and churches comfortably without standing in the cold for long. After a hearty lunch, the tour leads to Island Park, where snow creates a peaceful silence. The day ends safely and warmly with a ride back to the station."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Main Station & Surroundings",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen zwischen den Fahrten.",
+                "hu": "Ideális a felmelegedésre az utazások között.",
+                "ro": "Ideal pentru încălzire între călătorii.",
+                "en": "Ideal place for warming up between transit rides."
+              }
+            },
+            {
+              "name": "Museum of the Polish Army",
+              "tip_5lang": {
+                "de": "Beheizte Busse machen den Weg angenehm.",
+                "hu": "A fűtött buszok kellemessé teszik az utat.",
+                "ro": "Autobuzele încălzite fac drumul plăcut.",
+                "en": "Heated buses make the transit journey pleasant."
+              }
+            },
+            {
+              "name": "Cluster 2: City Center (by bus)",
+              "tip_5lang": {
+                "de": "Die meisten Buslinien treffen sich hier zentral.",
+                "hu": "A legtöbb buszvonal itt találkozik a központban.",
+                "ro": "Majoritatea liniilor de autobuz se întâlnesc aici.",
+                "en": "Most bus lines converge here in the city center."
+              }
+            },
+            {
+              "name": "St. Anthony's Church and Lunch",
+              "tip_5lang": {
+                "de": "Kurze Gehwege reduzieren die Zeit im Frost.",
+                "hu": "Rövid gyalogutak csökkentik a fagyban töltött időt.",
+                "ro": "Distanțele scurte de mers pe jos reduc timpul în ger.",
+                "en": "Short walking distances reduce time spent in the frost."
+              }
+            },
+            {
+              "name": "Stanisław Staszic Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Kulturstopp am Nachmittag.",
+                "hu": "Meleg kulturális megálló délután.",
+                "ro": "O oprire culturală caldă după-amiaza.",
+                "en": "A warm cultural stop for the afternoon hours."
+              }
+            },
+            {
+              "name": "Cluster 3: Island Park (by bus)",
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der Dunkelheit am Nachmittag.",
+                "hu": "Utolsó megálló sötétedés előtt délután.",
+                "ro": "Ultima oprire înainte de lăsarea întunericului.",
+                "en": "Final stop before the early winter darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft die sicherste Wahl bei Glätte.",
+              "Achten Sie auf geänderte Fahrpläne an Feiertagen.",
+              "Warten Sie in den beheizten Innenbereichen der Bahnhöfe.",
+              "Tragen Sie rutschfeste Sohlen für die Wege zur Haltestelle.",
+              "Nutzen Sie Tageskarten für unbegrenzte Mobilität."
+            ],
+            "hu": [
+              "A busz télen gyakran a legbiztonságosabb választás jeges utakon.",
+              "Figyeljen az ünnepnapi menetrendváltozásokra.",
+              "Várakozzon az állomások fűtött belső tereiben.",
+              "Viseljen csúszásmentes talpú cipőt a megállókig tartó úton.",
+              "Használjon napijegyet a korlátlan mobilitásért."
+            ],
+            "ro": [
+              "Autobuzul este adesea cea mai sigură alegere pe drumuri înghețate.",
+              "Atenție la orarul modificat în zilele de sărbătoare.",
+              "Așteptați în zonele interioare încălzite ale gărilor.",
+              "Purtați tălpi antiderapante pentru drumul spre stație.",
+              "Folosiți abonamente de o zi pentru mobilitate nelimitată."
+            ],
+            "en": [
+              "Buses are often the safest choice during icy road conditions.",
+              "Check for modified holiday schedules during the winter season.",
+              "Wait inside the heated station buildings whenever possible.",
+              "Wear non-slip soles for the walk to and from the bus stops.",
+              "Use day passes for unlimited mobility across the city."
+            ]
+          }
+        }
       }
     }
   }

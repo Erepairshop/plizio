@@ -379,6 +379,214 @@
           "Take some time to just sit by the lake and watch the pelicans.",
           "The locals are friendly; don't hesitate to ask for directions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im historischen Viertel Doltcho, wo die engen Gassen Schutz vor dem Wind bieten. Vormittags besuchen Sie das Volkskundemuseum und das Herrenhaus Tsiatsiapa, um den Regenschauern zu entgehen. Mittags bietet das Byzantinische Museum eine umfassende Innenausstellung. Den Nachmittag verbringen Sie bei einem kürzeren Spaziergang am nebligen Seeufer, bevor Sie den Tag in einer warmen Kirche oder einem Café in Apozari ausklingen lassen.",
+            "hu": "A napot a történelmi Doltcho negyedben indítjuk, ahol a szűk utcák védelmet nyújtanak a szél ellen. Délelőtt a Néprajzi Múzeum és a Tsiatsiapa-kastély belső tereiben bújunk el az eső elől. Délben a Bizánci Múzeum gazdag tárlata nyújt hosszú fedett programot. Délután a ködös tóparti sétányon teszünk egy rövidebb kört, majd az Apozari negyed egyik templomában vagy meleg kávézójában pihenünk meg.",
+            "ro": "Începeți ziua în cartierul istoric Doltcho, unde străzile înguste oferă adăpost împotriva vântului. Dimineața, vizitați Muzeul de Folclor și Conacul Tsiatsiapa pentru a evita reprizele de ploaie. La prânz, Muzeul Bizantin oferă o expoziție interioară vastă. După-amiaza este dedicată unei plimbări scurte pe malul cețos al lacului, înainte de a încheia ziua într-o biserică primitoare sau într-o cafenea caldă din cartierul Apozari.",
+            "en": "Start your day in the historic Doltcho quarter, where narrow streets provide some wind protection. Spend your morning inside the Folklore Museum and Tsiatsiapa Mansion to escape the showers. At noon, the Byzantine Museum offers an extensive indoor exhibition. In the afternoon, take a shorter walk along the misty lakefront before concluding your day in a cozy church or a warm cafe in the Apozari district."
+          },
+          "stops": [
+            {
+              "name": "Start in Doltcho Quarter",
+              "tip_5lang": {
+                "de": "Regenschirme sind in den engen Gassen praktischer als große Capes.",
+                "hu": "Az ernyő praktikusabb a szűk utcákban, mint a széles esőköpeny.",
+                "ro": "Umbrela este mai practică pe străzile înguste decât o pelerină mare.",
+                "en": "An umbrella is more practical in the narrow streets than a large cape."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen starken Regenschauer trocken abzuwarten.",
+                "hu": "Ideális helyszín egy intenzívebb zápor száraz megvárásához.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei averse puternice la adăpost.",
+                "en": "An ideal place to wait out a heavy rain shower in the dry."
+              }
+            },
+            {
+              "name": "Tsiatsiapa Mansion",
+              "tip_5lang": {
+                "de": "Achten Sie auf die rutschigen Holzstufen im Eingangsbereich.",
+                "hu": "Vigyázzon a bejáratnál a csúszós fafelületekre.",
+                "ro": "Atenție la treptele de lemn alunecoase de la intrare.",
+                "en": "Watch out for slippery wooden steps at the entrance area."
+              }
+            },
+            {
+              "name": "Byzantine Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um Ihre nassen Sachen abzulegen.",
+                "hu": "Használja a ruhatárat a vizes kabátok és ernyők elhelyezésére.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele și umbrelele ude.",
+                "en": "Use the cloakroom to store your wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Lake Promenade",
+              "tip_5lang": {
+                "de": "Die Bäume bieten teilweisen Schutz, aber der Boden kann rutschig sein.",
+                "hu": "A fák részleges védelmet adnak, de az aszfalt csúszós lehet.",
+                "ro": "Copacii oferă protecție parțială, dar asfaltul poate fi alunecos.",
+                "en": "Trees provide partial cover, but the pavement can be slippery."
+              }
+            },
+            {
+              "name": "Church of Agios Nikolaos",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Rückzugsort für spirituelle Momente.",
+                "hu": "Csendes, száraz menedék a spirituális elmélyüléshez.",
+                "ro": "Un refugiu liniștit și uscat pentru momente spirituale.",
+                "en": "A quiet, dry retreat for spiritual moments."
+              }
+            },
+            {
+              "name": "Apozari Quarter",
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour in einem der Restaurants mit Seeblick.",
+                "hu": "Zárja a túrát az egyik tóra néző, fedett teraszos étteremben.",
+                "ro": "Încheiați turul la unul dintre restaurantele cu vedere la lac.",
+                "en": "End the tour at one of the restaurants with a lake view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Pflaster in Doltcho Wasser sammelt.",
+              "Die Museen sind montags oft geschlossen; prüfen Sie die Öffnungszeiten.",
+              "Kastoria ist bekannt für Pelze, viele Geschäfte bieten trockene Pausen.",
+              "Ein Regenschutz für den Rucksack schützt Ihre Kameraausrüstung.",
+              "Nutzen Sie die Innenräume der Herrenhäuser für ausgiebige Fotostopps."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert Doltcho macskakövei közt megáll a víz.",
+              "A múzeumok hétfőnként zárva tarthatnak, ellenőrizze előre.",
+              "Kastoria szűcsiparáról híres, sok üzlet kínál száraz pihenőt.",
+              "A hátizsákvédő huzat hasznos a technikai eszközök védelmére.",
+              "A kúriák belső terei kiválóak a hosszabb fotózási szünetekhez."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, apa se adună între pavaje în Doltcho.",
+              "Muzeele sunt adesea închise lunea; verificați programul în avans.",
+              "Kastoria este celebră pentru blănuri, multe magazine oferă popasuri uscate.",
+              "O husă de ploaie pentru rucsac protejează echipamentul foto.",
+              "Folosiți interioarele conacelor pentru sesiuni foto prelungite la adăpost."
+            ],
+            "en": [
+              "Wear waterproof shoes as water pools between the cobblestones in Doltcho.",
+              "Museums are often closed on Mondays; check schedules in advance.",
+              "Kastoria is famous for furs; many shops offer dry breaks during rain.",
+              "A rain cover for your backpack protects your camera gear.",
+              "Utilize the mansion interiors for extended photography stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen in Doltcho beginnt oft mit Raureif auf den Steinen. Suchen Sie die Wärme im Volkskundemuseum und bewundern Sie die traditionelle Heizung der alten Herrenhäuser. Mittags wärmt das Byzantinische Museum auf dem Hügel Körper und Geist. Der Nachmittag am See ist frostig, bietet aber klare Sicht auf die schneebedeckten Berge, bevor die Dämmerung in den Kirchen von Apozari früh einsetzt.",
+            "hu": "A téli reggel Doltchóban gyakran zúzmarás kövekkel várja. Keressen meleget a Néprajzi Múzeumban, és csodálja meg a régi kúriák hagyományos fűtési megoldásait. Délben a dombtetőn lévő Bizánci Múzeum nyújt menedéket a fagy elől. A délutáni tóparti séta csípős, de tiszta kilátást ad a havas hegyekre, mielőtt az Apozari templomai közt korán leszáll az alkony.",
+            "ro": "O dimineață de iarnă în Doltcho începe adesea cu brumă pe pavaj. Căutați căldura în Muzeul de Folclor și admirați sobele tradiționale din vechile conace. La prânz, Muzeul Bizantin de pe deal vă va încălzi corpul și spiritul. După-amiaza la lac este geroasă, dar oferă vederi clare spre munții înzăpeziți, înainte ca amurgul să se lase devreme în Apozari.",
+            "en": "A winter morning in Doltcho often begins with frost on the stones. Seek warmth in the Folklore Museum and admire the traditional heating of the old mansions. At noon, the Byzantine Museum on the hill warms both body and mind. The afternoon by the lake is frosty but offers clear views of the snow-capped mountains before dusk sets in early among the Apozari churches."
+          },
+          "stops": [
+            {
+              "name": "Start in Doltcho Quarter",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem historischen Kopfsteinpflaster.",
+                "hu": "Vigyázzon a jeges foltokra a történelmi macskaköveken.",
+                "ro": "Atenție la porțiunile înghețate de pe pavajul istoric.",
+                "en": "Beware of icy patches on the historic cobblestones."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre in den beheizten Räumen.",
+                "hu": "Élvezze a fűtött szobák barátságos hangulatát.",
+                "ro": "Bucurați-vă de atmosfera primitoare din camerele încălzite.",
+                "en": "Enjoy the cozy atmosphere in the heated rooms."
+              }
+            },
+            {
+              "name": "Tsiatsiapa Mansion",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte gut ab, innen ist es angenehm.",
+                "hu": "A vastag falak jól tartják a hőt, bent kellemes az idő.",
+                "ro": "Zidurile groase izolează bine frigul, interiorul este plăcut.",
+                "en": "The thick walls block the cold well; it is pleasant inside."
+              }
+            },
+            {
+              "name": "Byzantine Museum",
+              "tip_5lang": {
+                "de": "Der Aufstieg wärmt auf, und die Sicht oben ist im Winter brillant.",
+                "hu": "A séta felmelegíti, a kilátás pedig télen különösen tiszta.",
+                "ro": "Urcarea vă va încălzi, iar vederea de sus este briliantă iarna.",
+                "en": "The climb warms you up, and the view from the top is brilliant in winter."
+              }
+            },
+            {
+              "name": "Lake Promenade",
+              "tip_5lang": {
+                "de": "Warmer Tee in der Thermoskanne ist bei der Seeluft sehr zu empfehlen.",
+                "hu": "A tóparti szélben egy termosz meleg tea aranyat ér.",
+                "ro": "Un ceai cald în termos este foarte recomandat datorită brizei lacului.",
+                "en": "Warm tea in a thermos is highly recommended due to the lake breeze."
+              }
+            },
+            {
+              "name": "Church of Agios Nikolaos",
+              "tip_5lang": {
+                "de": "Beachten Sie die kurzen Öffnungszeiten während der Wintermonate.",
+                "hu": "Ügyeljen a téli időszakban érvényes rövidebb nyitvatartásra.",
+                "ro": "Țineți cont de programul scurt din timpul lunilor de iarnă.",
+                "en": "Note the shorter opening hours during the winter months."
+              }
+            },
+            {
+              "name": "Apozari Quarter",
+              "tip_5lang": {
+                "de": "Suchen Sie eine Taverne mit Kamin für einen gemütlichen Abend.",
+                "hu": "Keressen egy kandallós tavernát a hangulatos esti vacsorához.",
+                "ro": "Căutați o tavernă cu șemineu pentru o seară confortabilă.",
+                "en": "Look for a tavern with a fireplace for a cozy evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche; der See macht die Kälte feuchter.",
+              "Die Sonne geht im Winter bereits gegen 17:00 Uhr unter.",
+              "Einige Cafés am See bieten Decken für die Außenbereiche an.",
+              "Handschuhe sind beim Fotografieren am windigen Ufer unerlässlich.",
+              "Besuchen Sie die Pelzgeschäfte für hochwertige Winterbekleidung."
+            ],
+            "hu": [
+              "Viseljen termo alsóneműt, a tó miatt a hideg nyirkosabb.",
+              "A nap télen már 17:00 óra körül lemegy.",
+              "Néhány tóparti kávézó takarót is biztosít a teraszokon.",
+              "A kesztyű elengedhetetlen a szeles parton való fotózáshoz.",
+              "Látogassa meg a szőrmeüzleteket minőségi téli ruházatért."
+            ],
+            "ro": [
+              "Purtați lenjerie termică; lacul face ca frigul să fie mai umed.",
+              "Soarele apune în jurul orei 17:00 în timpul iernii.",
+              "Unele cafenele de pe malul lacului oferă pături pentru terase.",
+              "Mănușile sunt indispensabile pentru fotografierea pe malul vântos.",
+              "Vizitați magazinele de blănuri pentru articole de iarnă de calitate."
+            ],
+            "en": [
+              "Wear thermal underwear; the lake makes the cold feel damper.",
+              "The sun sets around 5:00 PM during the winter months.",
+              "Some lakeside cafes provide blankets for their outdoor seating.",
+              "Gloves are essential when taking photos on the windy shore.",
+              "Visit the fur shops for high-quality local winter apparel."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +937,196 @@
           "Bring plenty of water, as there are few shops along the route.",
           "Check the opening hours of the Dragon's Cave in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am nassen Seeufer und nutzen Sie den Schutz der Bäume. Das Kloster Panagia Mavriotissa bietet einen trockenen Halt, gefolgt von der Drachenhöhle, die als perfekter unterirdischer Schutz dient. Mittags parken Sie das Rad sicher am Museum für eine lange Indoor-Pause. Den Nachmittag verbringen Sie in Doltcho, bevor Sie den Tag am Seeufer beenden, wenn der Regen hoffentlich nachlässt.",
+            "hu": "Kezdje óvatosan a túrát a vizes tóparton, kihasználva a fák védelmét. A Panagia Mavriotissa kolostor száraz pihenőt kínál, majd a Sárkány-barlang következik, ami tökéletes földalatti menedék. Délben parkoljon le a múzeumnál egy hosszú fedett szünetre. A délutánt Doltchóban töltjük, majd a tóparton zárjuk a napot, remélhetőleg elálló esőben.",
+            "ro": "Începeți cu prudență pe malul ud al lacului, folosind protecția copacilor. Mănăstirea Panagia Mavriotissa oferă un popas uscat, urmată de Peștera Dragonului, care servește ca adăpost subteran perfect. La prânz, parcați bicicleta în siguranță la muzeu pentru o pauză lungă în interior. După-amiaza o petrecem în Doltcho, încheind ziua pe malul lacului când ploaia se mai domolește.",
+            "en": "Start cautiously on the wet lakefront, utilizing the tree cover. Panagia Mavriotissa Monastery offers a dry stop, followed by the Dragon's Cave, which serves as a perfect underground shelter. At noon, park your bike safely at the museum for a long indoor break. Spend the afternoon in Doltcho before ending the day by the lakefront, hopefully as the rain eases off."
+          },
+          "stops": [
+            {
+              "name": "Bike tour along the Lake Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem Laub auf dem Radweg.",
+                "hu": "Vigyázzon a kerékpárúton lévő csúszós levelekre.",
+                "ro": "Atenție la frunzele alunecoase de pe pista de biciclete.",
+                "en": "Beware of slippery leaves on the bike path."
+              }
+            },
+            {
+              "name": "Panagia Mavriotissa Monastery",
+              "tip_5lang": {
+                "de": "Überdachte Bereiche bieten Platz zum Abstellen der Räder.",
+                "hu": "Fedett részeken is leállíthatja a kerékpárokat.",
+                "ro": "Zonele acoperite oferă spațiu pentru parcarea bicicletelor.",
+                "en": "Covered areas provide space to park the bikes."
+              }
+            },
+            {
+              "name": "Dragon's Cave (Spilia tou Drakou)",
+              "tip_5lang": {
+                "de": "Ein idealer Ort: Hier regnet es garantiert nicht.",
+                "hu": "Ideális helyszín: itt garantáltan nem esik az eső.",
+                "ro": "Locație ideală: aici garantat nu plouă.",
+                "en": "Ideal location: it is guaranteed not to rain here."
+              }
+            },
+            {
+              "name": "Byzantine Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Sattel mit Plastik abgedeckt ist.",
+                "hu": "Gondoskodjon az ülés letakarásáról, amíg bent van.",
+                "ro": "Asigurați-vă că șaua este acoperită cu plastic.",
+                "en": "Make sure your saddle is covered with plastic while inside."
+              }
+            },
+            {
+              "name": "Doltcho Quarter",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem nassen Kopfsteinpflaster.",
+                "hu": "Hajtson lassan a vizes macskaköveken.",
+                "ro": "Conduceți încet pe pavajul ud.",
+                "en": "Ride slowly on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Sunset at Lake Orestiada",
+              "tip_5lang": {
+                "de": "Regenbögen über dem See sind bei diesem Wetter häufig.",
+                "hu": "Ilyenkor gyakran látni szivárványt a tó felett.",
+                "ro": "Curcubeul peste lac este frecvent pe acest tip de vreme.",
+                "en": "Rainbows over the lake are frequent in this weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein Schutzblech ist bei nassen Straßen in Kastoria unverzichtbar.",
+              "Vermeiden Sie scharfe Bremsmanöver auf dem Uferweg.",
+              "Wasserdichte Handschuhe halten die Hände warm und griffig.",
+              "Prüfen Sie den Reifendruck für besseren Halt auf Nässe.",
+              "Die Drachenhöhle hat eine konstante Temperatur, ideal zum Aufwärmen."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a vizes kastoriai utakon.",
+              "Kerülje az éles fékezést a tóparti sétányon.",
+              "A vízálló kesztyű melegen tartja a kezet és jobb fogást ad.",
+              "Ellenőrizze a guminyomást a jobb tapadás érdekében.",
+              "A Sárkány-barlang hőmérséklete állandó, kiváló melegedőhely."
+            ],
+            "ro": [
+              "Aripile de protecție sunt indispensabile pe drumurile ude.",
+              "Evitați frânările bruște pe aleea de pe malul lacului.",
+              "Mănușile impermeabile mențin mâinile calde și aderența bună.",
+              "Verificați presiunea în anvelope pentru o aderență mai bună.",
+              "Peștera Dragonului are temperatură constantă, ideală pentru încălzire."
+            ],
+            "en": [
+              "Mudguards are essential on the wet roads of Kastoria.",
+              "Avoid sharp braking maneuvers on the lakeside path.",
+              "Waterproof gloves keep hands warm and provide better grip.",
+              "Check tire pressure for better traction on wet surfaces.",
+              "The Dragon's Cave has a constant temperature, ideal for warming up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour erfordert warme Kleidung gegen den Wind vom Orestiada-See. Besuchen Sie das Kloster und die Drachenhöhle am Vormittag, bevor die Kälte zunimmt. Das Museum am Mittag bietet eine notwendige Aufwärmpause. Nachmittags erkunden Sie Doltcho auf zwei Rädern, bevor Sie den spektakulären, frühen Sonnenuntergang über dem oft nebligen See genießen.",
+            "hu": "A téli biciklitúra meleg öltözetet igényel az Orestiada-tó felől fújó szél ellen. Látogasson el a kolostorhoz és a Sárkány-barlanghoz délelőtt, mielőtt fokozódik a hideg. A múzeumi megálló délben szükséges melegedő szünetet biztosít. Délután két keréken fedezzük fel Doltchót, majd élvezzük a látványos, korai naplementét a gyakran ködös tó felett.",
+            "ro": "Un tur cu bicicleta iarna necesită haine groase împotriva vântului de pe lacul Orestiada. Vizitați mănăstirea și Peștera Dragonului dimineața, înainte ca frigul să se intensifice. Muzeul de la prânz oferă o pauză necesară pentru încălzire. După-amiaza explorăm Doltcho pe două roți, înainte de a savura apusul spectaculos și timpuriu peste lacul adesea cețos.",
+            "en": "A winter bike tour requires warm clothing against the wind from Lake Orestiada. Visit the monastery and the Dragon's Cave in the morning before the cold intensifies. The museum stop at noon provides a necessary warming break. In the afternoon, explore Doltcho on two wheels before enjoying the spectacular early sunset over the often misty lake."
+          },
+          "stops": [
+            {
+              "name": "Bike tour along the Lake Promenade",
+              "tip_5lang": {
+                "de": "Tragen Sie einen Windstopper unter dem Helm.",
+                "hu": "Viseljen szélálló sapkát vagy fejpántot a sisak alatt.",
+                "ro": "Purtați o protecție împotriva vântului sub cască.",
+                "en": "Wear a windstopper or a thin hat under your helmet."
+              }
+            },
+            {
+              "name": "Panagia Mavriotissa Monastery",
+              "tip_5lang": {
+                "de": "Der Aufenthalt im Freien ist hier kurz zu halten.",
+                "hu": "A szabadban tartózkodást itt érdemes rövidre fogni.",
+                "ro": "Limitatați timpul petrecut în aer liber aici.",
+                "en": "Keep the time spent outdoors here relatively short."
+              }
+            },
+            {
+              "name": "Dragon's Cave (Spilia tou Drakou)",
+              "tip_5lang": {
+                "de": "In der Höhle ist es wärmer als draußen am See.",
+                "hu": "A barlangban melegebb van, mint kint a tónál.",
+                "ro": "În peșteră este mai cald decât afară, lângă lac.",
+                "en": "It is warmer inside the cave than outside by the lake."
+              }
+            },
+            {
+              "name": "Byzantine Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt, um Ihre Glieder wieder aufzuwärmen.",
+                "hu": "Használja ki a megállót a végtagjai átmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă reîncălzi membrele.",
+                "en": "Use this stop to thaw out and warm up your limbs."
+              }
+            },
+            {
+              "name": "Doltcho Quarter",
+              "tip_5lang": {
+                "de": "Die Gassen bieten Schutz vor dem eisigen Seewind.",
+                "hu": "A szűk utcák védenek a jeges tavi szél ellen.",
+                "ro": "Străduțele oferă protecție împotriva vântului înghețat.",
+                "en": "The alleys provide protection from the icy lake wind."
+              }
+            },
+            {
+              "name": "Sunset at Lake Orestiada",
+              "tip_5lang": {
+                "de": "Die Sonne verschwindet im Winter bereits um 17:00 Uhr.",
+                "hu": "A nap télen már délután 5 órakor eltűnik.",
+                "ro": "Soarele dispare deja la ora 17:00 în timpul iernii.",
+                "en": "The sun disappears as early as 5:00 PM in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stirnlampen sind wichtig, da es früh dunkel wird.",
+              "Vermeiden Sie Kleidung, die Schweiß aufsaugt und dann kühlt.",
+              "Halten Sie die Kette gut geölt gegen winterliche Feuchtigkeit.",
+              "Die Drachenhöhle ist im Winter ein beliebter Rückzugsort.",
+              "Vorsicht bei gefrorenen Pfützen im Schatten der Herrenhäuser."
+            ],
+            "hu": [
+              "A lámpák fontosak, mert korán sötétedik.",
+              "Kerülje az izzadtságot elnyelő, majd lehűtő ruházatot.",
+              "Tartsa a láncot jól olajozottan a téli pára ellen.",
+              "A Sárkány-barlang télen népszerű menedékhely.",
+              "Vigyázzon a fagyott tócsákra a kúriák árnyékában."
+            ],
+            "ro": [
+              "Farurile sunt importante, deoarece se întunecă devreme.",
+              "Evitați hainele care absorb transpirația și apoi se răcesc.",
+              "Păstrați lanțul bine uns împotriva umidității de iarnă.",
+              "Peștera Dragonului este un refugiu popular pe timp de iarnă.",
+              "Atenție la bălțile înghețate de la umbra conacelor."
+            ],
+            "en": [
+              "Bike lights are crucial as it gets dark very early.",
+              "Avoid clothing that absorbs sweat and then cools you down.",
+              "Keep the chain well-oiled against winter moisture.",
+              "The Dragon's Cave is a popular retreat during winter.",
+              "Watch out for frozen puddles in the shadows of the mansions."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1109,6 +1507,214 @@
           "Some streets in the old quarters are very narrow; drive carefully.",
           "A car allows you to also visit nearby villages or viewpoints."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Kastoria bei Regen ganz entspannt. Beginnen Sie am Kloster und der Drachenhöhle, wo Sie direkt davor parken können. Das Museum am Mittag bietet ausreichend Parkplätze für einen trockenen Übergang. Den Nachmittag verbringen Sie in Doltcho, wobei das Auto als Basis für Ihre Erkundungstouren zu den historischen Herrenhäusern dient.",
+            "hu": "Autóval esőben is kényelmesen felfedezhető Kastoria. Kezdje a kolostornál és a Sárkány-barlangnál, ahol közvetlenül a bejáratnál parkolhat. A múzeumi megálló délben tágas parkolót és száraz átjutást biztosít. A délutánt Doltchóban töltjük, ahol az autó bázisként szolgál a történelmi kúriák közti felfedezéshez.",
+            "ro": "Cu mașina, puteți explora Kastoria relaxat chiar și pe ploaie. Începeți la mănăstire și la Peștera Dragonului, unde puteți parca chiar în față. Muzeul de la prânz oferă locuri de parcare suficiente pentru o tranziție uscată. După-amiaza o petreceți în Doltcho, mașina servind drept bază pentru explorările conacelor istorice.",
+            "en": "Explore Kastoria in a relaxed way by car, even in the rain. Start at the monastery and the Dragon's Cave, where you can park directly in front. The museum stop at noon provides ample parking for a dry transition. Spend the afternoon in Doltcho, with the car serving as a base for your explorations of the historic mansions."
+          },
+          "stops": [
+            {
+              "name": "Parking at Panagia Mavriotissa Monastery",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Eingang, ideal bei Regen.",
+                "hu": "A parkoló közel van a bejárathoz, ideális esőben.",
+                "ro": "Parcarea este aproape de intrare, ideală pe ploaie.",
+                "en": "The parking lot is close to the entrance, ideal during rain."
+              }
+            },
+            {
+              "name": "Dragon's Cave (Spilia tou Drakou)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg vom Auto zum Höhleneingang.",
+                "hu": "Használja ki a rövid utat az autó és a barlangbejárat közt.",
+                "ro": "Profită de distanța scurtă dintre mașină și intrarea în peșteră.",
+                "en": "Take advantage of the short distance from the car to the cave entrance."
+              }
+            },
+            {
+              "name": "Drive to parking at Byzantine Museum",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei starkem Regen matschig sein.",
+                "hu": "A parkoló felülete erős esőben saras lehet.",
+                "ro": "Suprafața parcării poate fi noroioasă în caz de ploaie torențială.",
+                "en": "The parking surface can be muddy during heavy rain."
+              }
+            },
+            {
+              "name": "Lake Promenade",
+              "tip_5lang": {
+                "de": "Parken Sie entlang der Straße für einen schnellen Rückzug.",
+                "hu": "Parkoljon az út mentén a gyors visszatérés érdekében.",
+                "ro": "Parcați de-a lungul drumului pentru o retragere rapidă.",
+                "en": "Park along the road for a quick retreat to the dry car."
+              }
+            },
+            {
+              "name": "Drive to parking in Doltcho Quarter",
+              "tip_5lang": {
+                "de": "Enge Gassen erfordern Vorsicht bei Nässe.",
+                "hu": "A szűk utcák óvatosságot igényelnek nedves időben.",
+                "ro": "Străzile înguste necesită prudență pe carosabil umed.",
+                "en": "Narrow streets require caution when wet."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Schirme im Auto, falls möglich.",
+                "hu": "Hagyja a vizes ernyőket az autóban, ha lehetséges.",
+                "ro": "Lăsați umbrelele ude în mașină, dacă este posibil.",
+                "en": "Leave wet umbrellas in the car if possible."
+              }
+            },
+            {
+              "name": "Tsiatsiapa Mansion",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zum Haus genügt.",
+                "hu": "Egy rövid sprint a parkolótól a házig elég.",
+                "ro": "Un sprint scurt de la parcare la casă este suficient.",
+                "en": "A short sprint from the parking spot to the house is enough."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Scheibenwischer vor der Fahrt um den See.",
+              "Einige Uferabschnitte können bei Überflutung gesperrt sein.",
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben.",
+              "Parken Sie in Doltcho nur auf markierten Flächen.",
+              "Die Drachenhöhle bietet einen großen, befestigten Parkplatz."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket a tó körüli út előtt.",
+              "Egyes tóparti szakaszokat lezárhatnak áradás esetén.",
+              "Használja a klímát a párásodó szélvédő ellen.",
+              "Doltchóban csak a kijelölt helyeken parkoljon.",
+              "A Sárkány-barlangnál tágas, kövezett parkoló várja."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de drumul în jurul lacului.",
+              "Unele secțiuni de pe mal pot fi închise în caz de inundații.",
+              "Folosiți aerul condiționat împotriva aburirii parbrizului.",
+              "Parcați în Doltcho doar în locurile marcate.",
+              "Peștera Dragonului oferă o parcare mare și amenajată."
+            ],
+            "en": [
+              "Check your wipers before driving around the lake.",
+              "Some lakeside sections might be closed during heavy flooding.",
+              "Use the A/C to prevent the windshield from fogging up.",
+              "Only park in designated spots within the Doltcho quarter.",
+              "The Dragon's Cave has a large, paved parking area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kastoria im Winter lässt sich am besten mit dem Auto erkunden, um der beißenden Kälte am See zu entkommen. Besuchen Sie das Kloster und die Höhle am Morgen bequem beheizt. Das Byzantinische Museum bietet einen warmen Zwischenstopp am Mittag. Nachmittags dient das Auto als gemütlicher Rückzugsort zwischen den Besichtigungen der Herrenhäuser in Doltcho, bevor die Sonne früh untergeht.",
+            "hu": "A téli Kastoria leginkább autóval élvezhető, elkerülve a tó felől érkező metsző hideget. Látogasson el a kolostorhoz és a barlanghoz reggel a fűtött utastér kényelmében. A Bizánci Múzeum meleg pihenőt ad délben. Délután az autó kuckóként szolgál a doltchói kúriák látogatása között, mielőtt korán lemegy a nap.",
+            "ro": "Kastoria iarna se explorează cel mai bine cu mașina, evitând frigul tăios de pe lac. Vizitați mănăstirea și peștera dimineața în confortul habitaclului încălzit. Muzeul Bizantin oferă un popas cald la prânz. După-amiaza mașina servește drept refugiu confortabil între vizitele conacelor din Doltcho, înainte de apusul timpuriu.",
+            "en": "Winter in Kastoria is best explored by car to avoid the biting cold from the lake. Visit the monastery and the cave in the morning in the comfort of a heated interior. The Byzantine Museum provides a warm stop at noon. In the afternoon, the car serves as a cozy retreat between mansion tours in Doltcho before the sun sets early."
+          },
+          "stops": [
+            {
+              "name": "Parking at Panagia Mavriotissa Monastery",
+              "tip_5lang": {
+                "de": "Der Motor sollte bei kurzen Stopps nicht auskühlen.",
+                "hu": "Rövid megállónál ne hagyja teljesen lehűlni a motort.",
+                "ro": "Nu lăsați motorul să se răcească complet la opriri scurte.",
+                "en": "Avoid letting the engine cool down completely during short stops."
+              }
+            },
+            {
+              "name": "Dragon's Cave (Spilia tou Drakou)",
+              "tip_5lang": {
+                "de": "Die Höhle bietet eine willkommene Pause vom Frost.",
+                "hu": "A barlang kellemes felüdülés a kinti fagy után.",
+                "ro": "Peștera oferă o pauză binevenită de la înghețul de afară.",
+                "en": "The cave provides a welcome break from the frost outside."
+              }
+            },
+            {
+              "name": "Drive to parking at Byzantine Museum",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf der steilen Auffahrt zum Museum.",
+                "hu": "Vigyázzon a csúszós útra a múzeumhoz vezető emelkedőn.",
+                "ro": "Atenție la polei pe urcarea abruptă spre muzeu.",
+                "en": "Watch out for ice on the steep drive up to the museum."
+              }
+            },
+            {
+              "name": "Lake Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht aus dem warmen Auto.",
+                "hu": "Élvezze a kilátást a meleg autó ablakából.",
+                "ro": "Bucurați-vă de priveliște din mașina încălzită.",
+                "en": "Enjoy the view from inside the warm car."
+              }
+            },
+            {
+              "name": "Drive to parking in Doltcho Quarter",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter leichter zu finden.",
+                "hu": "Télen könnyebb parkolóhelyet találni a negyedben.",
+                "ro": "Locurile de parcare sunt mai ușor de găsit iarna.",
+                "en": "Parking spots are easier to find during the winter season."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Planen Sie Zeit zum Aufwärmen im Museum ein.",
+                "hu": "Hagyjon időt az átmelegedésre a múzeumban.",
+                "ro": "Alocați timp pentru a vă încălzi în muzeu.",
+                "en": "Plan some time to warm up inside the museum."
+              }
+            },
+            {
+              "name": "Tsiatsiapa Mansion",
+              "tip_5lang": {
+                "de": "Ein schöner Abschluss vor der Fahrt ins Hotel.",
+                "hu": "Szép befejezés a szállásra való visszatérés előtt.",
+                "ro": "Un final frumos înainte de drumul spre hotel.",
+                "en": "A nice conclusion before the drive back to the hotel."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser Bergregion obligatorisch.",
+              "Führen Sie Eiskratzer und Enteisungsspray mit.",
+              "Die Straßen am See können morgens spiegelglatt sein.",
+              "Prüfen Sie den Frostschutz im Kühlwasser.",
+              "Batterien schwächeln bei der Kälte in Kastoria oft."
+            ],
+            "hu": [
+              "A téli gumi kötelező ebben a hegyvidéki régióban.",
+              "Legyen Önnél jégkaparó és jégoldó spray.",
+              "A tóparti utak reggelente tükörjéggel lehetnek borítva.",
+              "Ellenőrizze a fagyállót a hűtővízben.",
+              "Az akkumulátorok gyakran gyengélkednek a kastoriai hidegben."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în această regiune montană.",
+              "Aveți la îndemână o racletă și spray de dezghețare.",
+              "Drumurile de lângă lac pot fi extrem de alunecoase dimineața.",
+              "Verificați nivelul antigelului în sistemul de răcire.",
+              "Bateriile auto tind să slăbească în gerul din Kastoria."
+            ],
+            "en": [
+              "Winter tires are mandatory in this mountainous region.",
+              "Carry an ice scraper and de-icing spray with you.",
+              "Lakeside roads can be icy and slippery in the mornings.",
+              "Check the antifreeze level in your cooling system.",
+              "Car batteries often struggle in the Kastoria cold."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1465,6 +2071,196 @@
           "Be prepared for some walking between bus stops and the sights.",
           "Ask the bus driver to make sure you are heading in the right direction."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den lokalen Bus, um bei Regen trocken durch Kastoria zu kommen. Starten Sie in Doltcho und besuchen Sie das Volkskundemuseum. Eine Busfahrt bringt Sie komfortabel zum Kloster und zur Drachenhöhle, wo Sie den Regen unterirdisch ignorieren können. Mittags bringt Sie der Bus zum Byzantinischen Museum, bevor Sie den Tag am Seeufer ausklingen lassen.",
+            "hu": "Használja a helyi buszjáratokat, hogy esőben is szárazon járja be Kastoriát. Kezdjen Doltchóban a Néprajzi Múzeumnál. A busz kényelmesen elviszi a kolostorhoz és a Sárkány-barlanghoz, ahol a föld alatt észre sem veszi az esőt. Délben buszozzon fel a Bizánci Múzeumhoz, majd zárja a napot a tóparton.",
+            "ro": "Folosiți autobuzele locale pentru a vizita Kastoria fără a vă uda pe ploaie. Începeți în Doltcho la Muzeul de Folclor. Autobuzul vă duce confortabil la mănăstire și la Peștera Dragonului, unde puteți ignora ploaia în subteran. La prânz, luați autobuzul spre Muzeul Bizantin, apoi încheiați ziua pe malul lacului.",
+            "en": "Use local buses to get around Kastoria dry during rainy weather. Start in Doltcho at the Folklore Museum. A bus ride takes you comfortably to the monastery and the Dragon's Cave, where you can ignore the rain underground. At noon, take the bus to the Byzantine Museum before finishing your day by the lakefront."
+          },
+          "stops": [
+            {
+              "name": "Start in Doltcho Quarter",
+              "tip_5lang": {
+                "de": "Warten Sie in einem Café, bis der Bus kommt.",
+                "hu": "Várjon egy kávézóban a busz érkezéséig.",
+                "ro": "Așteptați într-o cafenea până sosește autobuzul.",
+                "en": "Wait in a nearby cafe until the bus arrives."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg zur nächsten Haltestelle einplanen.",
+                "hu": "Tervezzen be egy rövid sétát a legközelebbi megállóig.",
+                "ro": "Planificați o scurtă plimbare până la cea mai apropiată stație.",
+                "en": "Plan for a short walk to the nearest bus stop."
+              }
+            },
+            {
+              "name": "Bus ride to Panagia Mavriotissa Monastery",
+              "tip_5lang": {
+                "de": "Die Busse sind im Regen oft beschlagen, aber trocken.",
+                "hu": "A buszok ablakai párásak lehetnek, de bent száraz az idő.",
+                "ro": "Geamurile autobuzelor pot fi aburite, dar interiorul este uscat.",
+                "en": "Bus windows might be foggy, but it is dry inside."
+              }
+            },
+            {
+              "name": "Dragon's Cave (Spilia tou Drakou)",
+              "tip_5lang": {
+                "de": "Die Höhle bietet perfekten Schutz vor jedem Sturm.",
+                "hu": "A barlang tökéletes védelmet nyújt bármilyen vihar ellen.",
+                "ro": "Peștera oferă protecție perfectă împotriva oricărei furtuni.",
+                "en": "The cave offers perfect protection from any storm."
+              }
+            },
+            {
+              "name": "Bus ride to the Byzantine Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Bus, um Ihre Karte zu studieren.",
+                "hu": "Használja ki a buszozást a térkép tanulmányozására.",
+                "ro": "Folosiți timpul din autobuz pentru a studia harta.",
+                "en": "Use the time on the bus to study your map."
+              }
+            },
+            {
+              "name": "Lake Promenade",
+              "tip_5lang": {
+                "de": "Suchen Sie eine Haltestelle mit Unterstand für den Rückweg.",
+                "hu": "Keressen fedett megállót a visszaúthoz.",
+                "ro": "Căutați o stație acoperită pentru drumul de întoarcere.",
+                "en": "Look for a bus stop with a shelter for the return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten im Voraus an Kiosken.",
+              "Die Busfrequenz kann bei schlechtem Wetter variieren.",
+              "Tragen Sie Kleidung, die schnell trocknet, falls Sie warten müssen.",
+              "Google Maps zeigt die lokalen Linien meist zuverlässig an.",
+              "Die Drachenhöhle wird von speziellen Linien angefahren."
+            ],
+            "hu": [
+              "Vásárolja meg a jegyeket előre az újságosoknál.",
+              "A buszok menetrendje változhat rossz idő esetén.",
+              "Viseljen gyorsan száradó ruhát, ha várnia kellene.",
+              "A Google Maps többnyire megbízhatóan mutatja a járatokat.",
+              "A Sárkány-barlanghoz külön járatok is közlekednek."
+            ],
+            "ro": [
+              "Cumpărați biletele în avans de la chioșcurile de ziare.",
+              "Frecvența autobuzelor poate varia în caz de vreme rea.",
+              "Purtați haine care se usucă repede în caz că trebuie să așteptați.",
+              "Google Maps arată de obicei liniile locale în mod fiabil.",
+              "Peștera Dragonului este deservită de linii speciale."
+            ],
+            "en": [
+              "Purchase tickets in advance at local kiosks.",
+              "Bus frequency might vary during bad weather conditions.",
+              "Wear quick-drying clothing in case you have to wait outside.",
+              "Google Maps usually shows the local lines reliably.",
+              "The Dragon's Cave is served by specific bus routes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Kastoria lässt sich mit dem Bus angenehm bewältigen. Starten Sie in Doltcho und wärmen Sie sich in den Museen auf. Der Bus bringt Sie zum Kloster und zur Höhle, wobei Sie die frostige Seeluft nur kurz spüren. Das Byzantinische Museum am Mittag ist ein warmer Höhepunkt, bevor Sie die winterliche Atmosphäre am Seeufer genießen.",
+            "hu": "A téli Kastoria busszal is kellemesen bejárható. Kezdjen Doltchóban, és melegedjen fel a múzeumokban. A busz elviszi a kolostorhoz és a barlanghoz, így a fagyos tavi levegőt csak rövid ideig kell bírnia. A Bizánci Múzeum meleg pont délben, mielőtt kiélvezné a téli tóparti hangulatot.",
+            "ro": "Iarna în Kastoria poate fi gestionată plăcut cu autobuzul. Începeți în Doltcho și încălziți-vă în muzee. Autobuzul vă duce la mănăstire și la peșteră, astfel că veți simți aerul înghețat al lacului doar scurt timp. Muzeul Bizantin de la prânz este un punct cald înainte de a savura atmosfera de iarnă de pe mal.",
+            "en": "Winter in Kastoria can be pleasantly managed by bus. Start in Doltcho and warm up in the museums. The bus takes you to the monastery and the cave, so you only feel the frosty lake air for short periods. The Byzantine Museum at noon is a warm highlight before enjoying the winter atmosphere by the lakefront."
+          },
+          "stops": [
+            {
+              "name": "Start in Doltcho Quarter",
+              "tip_5lang": {
+                "de": "Bleiben Sie in Bewegung, während Sie auf den Bus warten.",
+                "hu": "Maradjon mozgásban, amíg a buszra vár.",
+                "ro": "Rămâneți în mișcare în timp ce așteptați autobuzul.",
+                "en": "Keep moving while waiting for the bus to stay warm."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Busplan direkt am Eingang des Museums.",
+                "hu": "Ellenőrizze a buszmenetrendet a múzeum bejáratánál.",
+                "ro": "Verificați programul autobuzelor chiar la intrarea în muzeu.",
+                "en": "Check the bus schedule right at the museum entrance."
+              }
+            },
+            {
+              "name": "Bus ride to Panagia Mavriotissa Monastery",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt im beheizten Bus.",
+                "hu": "Élvezze az utazást a fűtött buszon.",
+                "ro": "Bucurați-vă de călătoria în autobuzul încălzit.",
+                "en": "Enjoy the ride in the comfortably heated bus."
+              }
+            },
+            {
+              "name": "Dragon's Cave (Spilia tou Drakou)",
+              "tip_5lang": {
+                "de": "Die Höhle ist im Winter ein warmer Rückzugsort.",
+                "hu": "A barlang télen kiváló melegedőhely.",
+                "ro": "Peștera este un refugiu cald pe timp de iarnă.",
+                "en": "The cave is a warm retreat during the winter months."
+              }
+            },
+            {
+              "name": "Bus ride to the Byzantine Museum",
+              "tip_5lang": {
+                "de": "Die Aussicht aus dem Busfenster ist im Winter oft klarer.",
+                "hu": "A kilátás a buszból télen gyakran tisztább.",
+                "ro": "Priveliștea din autobuz este adesea mai clară iarna.",
+                "en": "The view from the bus window is often clearer in winter."
+              }
+            },
+            {
+              "name": "Lake Promenade",
+              "tip_5lang": {
+                "de": "Verpassen Sie nicht den letzten Bus vor der Dunkelheit.",
+                "hu": "Ne késse le az utolsó buszt sötétedés előtt.",
+                "ro": "Nu ratați ultimul autobuz înainte de lăsarea întunericului.",
+                "en": "Don't miss the last bus before it gets completely dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Schneefall Verspätung haben.",
+              "Halten Sie Kleingeld für den Fahrkartenkauf bereit.",
+              "Die Haltestellen am See sind im Winter sehr windig.",
+              "In den Bussen ist es meist sehr warm, tragen Sie Schichten.",
+              "Einige Linien verkehren im Winter seltener."
+            ],
+            "hu": [
+              "A buszok késhetnek erős havazás esetén.",
+              "Legyen Önnél aprópénz a jegyvásárláshoz.",
+              "A tóparti megállók télen nagyon szelesek.",
+              "A buszokon általában nagyon meleg van, öltözzön rétegesen.",
+              "Egyes járatok ritkábban közlekedhetnek télen."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri în caz de ninsori abundente.",
+              "Aveți pregătit mărunt pentru cumpărarea biletelor.",
+              "Stațiile de pe malul lacului sunt foarte bântuite de vânt iarna.",
+              "În autobuze este de obicei foarte cald, purtați straturi de haine.",
+              "Unele linii circulă mai rar în timpul iernii."
+            ],
+            "en": [
+              "Buses may be delayed in case of heavy snowfall.",
+              "Have small change ready for ticket purchases.",
+              "Lakeside bus stops are very windy during winter.",
+              "Buses are usually very warm; wear layers you can remove.",
+              "Some bus routes may run less frequently in winter."
+            ]
+          }
+        }
       }
     }
   }

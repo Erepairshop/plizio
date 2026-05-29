@@ -307,6 +307,214 @@
           "Most sights are within walking distance; a car is not necessary in the center.",
           "Check the opening hours for the castle and museums as they can vary seasonally."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag geschützt in den dicken Mauern von Schloss Nyborg. Ein kurzer Spaziergang durch den Regen führt Sie zur Frauenkirche und den gemütlichen Museen im Stadtzentrum, wo Sie das dänische Erbe im Trockenen erleben können. Nach einem ausgiebigen Mittagessen in einem warmen Café erkunden Sie die Wälle mit einem stabilen Regenschirm. Den Tag lassen Sie mit Blick auf die Storebælt-Brücke ausklingen, während die Wolken dramatisch über das Meer ziehen.",
+            "hu": "Kezdje a napot a Nyborg-kastély vastag falai között, védve az elemektől. Egy rövid esernyős séta a Miasszonyunk-templomhoz és a polgármesteri udvar múzeumaiba vezet, ahol fedél alatt élvezheti a történelmet. Egy meleg ebéd után a városfalak mentén sétálhat, figyelve a tenger feletti vonuló felhőket. A napot a Nagy-Bælt híd látványával zárja, amely esőben is lenyűgöző ipari emlékmű.",
+            "ro": "Începeți ziua la adăpostul zidurilor groase ale Castelului Nyborg. O scurtă plimbare cu umbrela vă duce la Biserica Maicii Domnului și la muzeele din centrul orașului, unde puteți explora istoria daneză la uscat. După un prânz cald, parcurgeți meterezele orașului, admirând cerul dramatic deasupra mării. Încheiați ziua cu o privire spre Podul Storebælt, care oferă un peisaj melancolic și impunător prin ploaie.",
+            "en": "Start your day sheltered within the thick walls of Nyborg Castle. A brief rainy walk takes you to the Church of Our Lady and the cozy museums in the city center, where you can explore Danish heritage indoors. After a hearty lunch in a warm cafe, take a stroll along the ramparts, watching the clouds roll over the sea. End the day with a view of the Great Belt Bridge, standing tall against the misty horizon."
+          },
+          "stops": [
+            {
+              "name": "Nyborg Castle",
+              "tip_5lang": {
+                "de": "Perfekter Zufluchtsort vor dem Regen mit tiefen Einblicken in die königliche Geschichte.",
+                "hu": "Tökéletes menedék az eső elől, mély betekintéssel a királyi történelembe.",
+                "ro": "Refugiul perfect împotriva ploii, oferind o incursiune în istoria regală.",
+                "en": "Perfect refuge from the rain with deep insights into royal history."
+              }
+            },
+            {
+              "name": "Church of Our Lady",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und die beeindruckende Akustik, während es draußen regnet.",
+                "hu": "Élvezze a csendet és a lenyűgöző akusztikát, miközben kint esik.",
+                "ro": "Bucurați-vă de liniște și acustica impresionantă în timp ce afară plouă.",
+                "en": "Enjoy the silence and impressive acoustics while it rains outside."
+              }
+            },
+            {
+              "name": "Mads Lerche's Yard & The Mayor's Yard",
+              "tip_5lang": {
+                "de": "Die historischen Innenräume bieten Schutz und faszinierende Ausstellungen.",
+                "hu": "A történelmi belső terek védelmet és lenyűgöző kiállításokat kínálnak.",
+                "ro": "Interioarele istorice oferă protecție și expoziții fascinante.",
+                "en": "The historical interiors offer shelter and fascinating exhibitions."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Fensterplatz, um den Regen draußen zu beobachten.",
+                "hu": "Válasszon ablak melletti asztalt, és figyelje az esőt egy forró leves mellett.",
+                "ro": "Alegeți un restaurant cu masă la fereastră pentru a privi ploaia.",
+                "en": "Choose a restaurant with a window seat to watch the rain outside."
+              }
+            },
+            {
+              "name": "Nyborg Ramparts",
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Schuhe, da die Graswege rutschig sein können.",
+                "hu": "Viseljen vízálló cipőt, mert a füves utak csúszósak lehetnek.",
+                "ro": "Purtați încălțăminte impermeabilă, deoarece potecile pot fi alunecoase.",
+                "en": "Wear waterproof shoes, as the grassy paths can be slippery."
+              }
+            },
+            {
+              "name": "Nyborg Marina",
+              "tip_5lang": {
+                "de": "Die überdachten Bereiche am Hafen bieten Schutz für einen kurzen Blick aufs Wasser.",
+                "hu": "A kikötő fedett részei védelmet nyújtanak a tengeri kilátáshoz.",
+                "ro": "Zonele acoperite din port oferă protecție pentru o scurtă vedere la mare.",
+                "en": "The covered areas at the harbor offer shelter for a quick look at the water."
+              }
+            },
+            {
+              "name": "View of the Great Belt Bridge",
+              "tip_5lang": {
+                "de": "Ein kurzer, windiger Stopp; die Brücke wirkt im Nebel besonders mystisch.",
+                "hu": "Rövid, szeles megálló; a híd a ködben különösen misztikusnak tűnik.",
+                "ro": "O oprire scurtă și vântoasă; podul pare mistic prin ceață.",
+                "en": "A short, windy stop; the bridge looks especially mystical in the mist."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Sturmschirm ist wegen des starken Seewinds unerlässlich.",
+              "Die Museen im Zentrum liegen nah beieinander, was die Regenzeit minimiert.",
+              "Nutzen Sie die Cafés für häufige Pausen zum Aufwärmen.",
+              "Die Wallanlagen bieten bei Regen eine ruhige, fast mystische Atmosphäre.",
+              "Achten Sie auf Pfützen auf den unbefestigten Wegen der Festung."
+            ],
+            "hu": [
+              "A tengeri szél miatt egy stabil viharesernyő elengedhetetlen.",
+              "A központ múzeumai közel vannak egymáshoz, minimalizálva az esőben töltött időt.",
+              "Használja ki a kávézókat a gyakori bemelegítő szünetekhez.",
+              "A várfalak esőben csendes, már-már misztikus hangulatot árasztanak.",
+              "Vigyázzon a tócsákra az erőd kőburkolatú és füves útjain."
+            ],
+            "ro": [
+              "O umbrelă rezistentă la furtună este esențială din cauza vântului marin.",
+              "Muzeele din centru sunt aproape unul de altul, minimizând expunerea la ploaie.",
+              "Folosiți cafenelele pentru pauze frecvente de încălzire.",
+              "Meterezele oferă o atmosferă liniștită și mistică atunci când plouă.",
+              "Atenție la bălți pe potecile neasfaltate ale fortăreței."
+            ],
+            "en": [
+              "A sturdy storm umbrella is essential due to the strong sea wind.",
+              "The center's museums are close to each other, minimizing time spent in the rain.",
+              "Utilize the cafes for frequent warming breaks.",
+              "The ramparts offer a quiet, almost mystical atmosphere in the rain.",
+              "Watch out for puddles on the unpaved paths of the fortress."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Nyborg, beginnend im festlich beleuchteten Schloss. Die Kälte des Großen Belts macht die historische Altstadt noch gemütlicher, während Sie zwischen den Museen und der Kirche flanieren. Ein warmes Mittagessen gibt Kraft für einen kurzen, erfrischenden Spaziergang über die frostigen Wälle. Da die Sonne früh untergeht, erreichen Sie die Brücke genau rechtzeitig für ein stimmungsvolles Dämmerungsfoto über dem eisigen Wasser.",
+            "hu": "Tapasztalja meg a téli Nyborgot, kezdve a hangulatosan kivilágított kastélynál. A Nagy-Bælt felől érkező hideg szél még hívogatóbbá teszi az óvárost, miközben a múzeumok és a templom között sétál. Egy meleg ebéd után frissítő sétát tehet a zúzmarás várfalakon. Mivel korán nyugszik a nap, a hídhoz pont időben érkezik a jeges víz feletti alkonyati fotókhoz.",
+            "ro": "Experimentați Nyborg-ul de iarnă, începând cu castelul luminat festiv. Frigul dinspre Storebælt face orașul vechi și mai primitor în timp ce vă plimbați între muzee și biserică. Un prânz cald vă dă putere pentru o scurtă plimbare revigorantă pe meterezele înghețate. Deoarece soarele apune devreme, veți ajunge la pod exact la timp pentru fotografii în amurg deasupra apei înghețate.",
+            "en": "Experience winter in Nyborg, starting at the festively lit castle. The cold breeze from the Great Belt makes the old town even cozier as you stroll between museums and the church. A warm lunch provides energy for a short, refreshing walk on the frosty ramparts. With the sun setting early, you'll reach the bridge just in time for atmospheric twilight photos over the icy water."
+          },
+          "stops": [
+            {
+              "name": "Nyborg Castle",
+              "tip_5lang": {
+                "de": "Die historischen Säle sind im Winter besonders stimmungsvoll beleuchtet.",
+                "hu": "A történelmi termek télen különleges, hangulatos megvilágítást kapnak.",
+                "ro": "Sălile istorice sunt iluminate deosebit de frumos în timpul iernii.",
+                "en": "The historical halls are particularly atmospheric with winter lighting."
+              }
+            },
+            {
+              "name": "Church of Our Lady",
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort, um sich kurz aufzuwärmen und die Stille zu genießen.",
+                "hu": "Békés hely a rövid felmelegedéshez és a csend élvezetéhez.",
+                "ro": "Un loc liniștit pentru a vă încălzi scurt și a vă bucura de liniște.",
+                "en": "A peaceful place to warm up briefly and enjoy the silence."
+              }
+            },
+            {
+              "name": "Mads Lerche's Yard & The Mayor's Yard",
+              "tip_5lang": {
+                "de": "Entdecken Sie lokales Handwerk und Geschichte in winterlicher Gemütlichkeit.",
+                "hu": "Fedezze fel a helyi kézművességet és történelmet téli hangulatban.",
+                "ro": "Descoperiți meșteșugurile locale și istoria într-o ambianță caldă.",
+                "en": "Discover local crafts and history in winter coziness."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Probieren Sie dänische Winterspezialitäten wie Smørrebrød mit Hering.",
+                "hu": "Kóstolja meg a dán téli különlegességeket, például a heringes smørrebrødot.",
+                "ro": "Încercați specialități daneze de iarnă, cum ar fi smørrebrød cu hering.",
+                "en": "Try Danish winter specialties like smørrebrød with herring."
+              }
+            },
+            {
+              "name": "Nyborg Ramparts",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Wegen; die Aussicht auf die Stadt ist klar und weit.",
+                "hu": "Vigyázzon a jeges utakra; a kilátás a városra ilyenkor tiszta és messzire nyúlik.",
+                "ro": "Atenție la potecile înghețate; vederea spre oraș este clară și vastă.",
+                "en": "Watch out for icy paths; the view of the city is clear and far-reaching."
+              }
+            },
+            {
+              "name": "Nyborg Marina",
+              "tip_5lang": {
+                "de": "Die gefrorenen Taue und der Raureif am Hafen sind ein tolles Fotomotiv.",
+                "hu": "A fagyott kötelek és a zúzmarás kikötő remek fotótéma.",
+                "ro": "Cablurile înghețate și chiciura din port sunt motive foto excelente.",
+                "en": "The frozen ropes and hoarfrost at the harbor make for great photos."
+              }
+            },
+            {
+              "name": "View of the Great Belt Bridge",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an; der Wind ist hier im Winter extrem schneidend.",
+                "hu": "Öltözzön melegen; a szél itt télen rendkívül metsző tud lenni.",
+                "ro": "Îmbrăcați-vă gros; vântul este extrem de tăios aici iarna.",
+                "en": "Dress warmly; the wind here can be extremely piercing in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermokleidung, da der Wind vom Meer die Kälte verstärkt.",
+              "Die Sonne geht gegen 16:00 Uhr unter, planen Sie die Aussichtspunkte frühzeitig.",
+              "Viele Cafés bieten im Winter 'Hygge' mit Decken und Kerzen an.",
+              "Die Gehwege können glatt sein, besonders in der Nähe des Wassers.",
+              "Besuchen Sie das Schloss am Vormittag, um das Tageslicht optimal zu nutzen."
+            ],
+            "hu": [
+              "Viseljen aláöltözetet, mert a tenger felőli szél fokozza a hidegérzetet.",
+              "A nap 16:00 körül nyugszik, a kilátópontokat tervezze korábbra.",
+              "Sok kávézó kínál 'Hygge' életérzést takarókkal és gyertyákkal.",
+              "A járdák csúszósak lehetnek, különösen a víz közelében.",
+              "Látogassa meg a kastélyt délelőtt a természetes fény kihasználásához."
+            ],
+            "ro": [
+              "Purtați haine termice, deoarece vântul dinspre mare intensifică frigul.",
+              "Soarele apune în jurul orei 16:00, planificați punctele de belvedere din timp.",
+              "Multe cafenele oferă 'Hygge' cu pături și lumânări iarna.",
+              "Trotuarele pot fi alunecoase, mai ales în apropierea apei.",
+              "Vizitați castelul dimineața pentru a profita la maximum de lumina zilei."
+            ],
+            "en": [
+              "Wear thermal layers, as the sea wind amplifies the cold.",
+              "The sun sets around 4:00 PM, so plan your viewpoints early.",
+              "Many cafes offer 'Hygge' with blankets and candles in winter.",
+              "Sidewalks can be slippery, especially near the water.",
+              "Visit the castle in the morning to make the most of the daylight."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -566,6 +774,214 @@
           "Some coastal paths can be windy; bring a windproof jacket.",
           "Always lock your bike, even for short stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie trotz Regen durch Nyborg, beginnend am geschichtsträchtigen Schloss. Die Küstenstraße erfordert gute Regenkleidung, bietet aber eine erfrischende Brise und dramatische Meeresblicke. Nach einem schnellen Mittagessen an der Marina führt der Weg zu den Wällen, wo die grünen Flächen im Regen besonders satt leuchten. Ein kurzer Sprint bringt Sie zum Brücken-Aussichtspunkt, bevor Sie sich im Stadtzentrum bei einem heißen Getränk wieder aufwärmen.",
+            "hu": "Tekerjen végig Nyborgon az eső ellenére is, kezdve a történelmi kastélynál. A parti út jó esőruházatot igényel, de frissítő szellőt és drámai kilátást nyújt. Egy gyors kikötői ebéd után a várfalak felé vezet az út, ahol a zöld területek az esőben különösen élénkek. Egy rövid sprint a hídhoz, majd a városközpontban egy forró ital mellett melegedhet fel.",
+            "ro": "Pedalați prin Nyborg în ciuda ploii, începând de la castelul istoric. Drumul de coastă necesită echipament de ploaie bun, dar oferă o briză revigorantă și vederi dramatice. După un prânz rapid în marină, drumul duce spre metereze, unde zonele verzi strălucesc intens. Un sprint scurt până la pod, apoi încălziți-vă în centrul orașului cu o băutură fierbinte.",
+            "en": "Cycle through Nyborg despite the rain, starting at the historic castle. The coastal road requires good rain gear but offers a refreshing breeze and dramatic sea views. After a quick lunch at the marina, the path leads to the ramparts, where the greenery glows intensely in the rain. A short sprint to the bridge viewpoint before warming up with a hot drink in the city center."
+          },
+          "stops": [
+            {
+              "name": "Nyborg Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer in der Nähe des Eingangs für einen trockenen Start.",
+                "hu": "Használja a bejárat közeli kerékpártárolókat a száraz kezdéshez.",
+                "ro": "Folosiți suporturile de biciclete de lângă intrare pentru un start uscat.",
+                "en": "Use the bike racks near the entrance for a dry start."
+              }
+            },
+            {
+              "name": "Church of Our Lady & Museums",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten halten Sie halbwegs trocken.",
+                "hu": "A látnivalók közötti rövid távok segítenek szárazon maradni.",
+                "ro": "Distanțele scurte între obiective vă ajută să rămâneți relativ uscat.",
+                "en": "Short distances between sights help keep you somewhat dry."
+              }
+            },
+            {
+              "name": "Lunch at the Marina",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz im Innenbereich mit Blick auf die Segelboote.",
+                "hu": "Keressen beltéri helyet, ahonnan rálátni a vitorlásokra.",
+                "ro": "Căutați un loc în interior cu vedere la iahturi.",
+                "en": "Look for an indoor spot with a view of the sailboats."
+              }
+            },
+            {
+              "name": "Ride along the coast",
+              "tip_5lang": {
+                "de": "Vorsicht vor Windböen; halten Sie den Lenker fest umschlossen.",
+                "hu": "Vigyázzon a széllökésekre; fogja erősen a kormányt.",
+                "ro": "Atenție la rafalele de vânt; țineți bine ghidonul.",
+                "en": "Watch out for gusts of wind; keep a firm grip on the handlebars."
+              }
+            },
+            {
+              "name": "Great Belt Bridge Viewpoint",
+              "tip_5lang": {
+                "de": "Der Boden kann hier durch aufgeweichten Schlamm rutschig sein.",
+                "hu": "A talaj itt a felázott sár miatt csúszós lehet.",
+                "ro": "Solul poate fi alunecos aici din cauza noroiului.",
+                "en": "The ground can be slippery here due to softened mud."
+              }
+            },
+            {
+              "name": "Nyborg Ramparts",
+              "tip_5lang": {
+                "de": "Die gepflasterten Wege sind bei Nässe glatt; fahren Sie vorsichtig.",
+                "hu": "A kövezett utak nedvesen csúsznak; tekerjen óvatosan.",
+                "ro": "Potecile pavate sunt alunecoase când sunt ude; pedalați cu grijă.",
+                "en": "The paved paths are slippery when wet; cycle carefully."
+              }
+            },
+            {
+              "name": "Final drink in the city center",
+              "tip_5lang": {
+                "de": "Ein wohlverdienter Abschluss im Warmen nach der regnerischen Tour.",
+                "hu": "Jól megérdemelt pihenő a melegben az esős túra után.",
+                "ro": "Un final binemeritat la căldură după turul ploios.",
+                "en": "A well-deserved finish in the warmth after the rainy tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenmontur inklusive Überschuhen.",
+              "Vermeiden Sie scharfes Bremsen auf den nassen Wallanlagen.",
+              "Nutzen Sie die Fahrradbrücke über die Autobahn als kurzen Unterstand.",
+              "Prüfen Sie vorab die Funktion Ihrer Lichter für bessere Sichtbarkeit.",
+              "Wischen Sie den Sattel vor jeder Abfahrt trocken."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot, beleértve a cipővédőt is.",
+              "Kerülje az erős fékezést a nedves várfalak környékén.",
+              "Használja az autópálya feletti kerékpáros hidat rövid menedékként.",
+              "Indulás előtt ellenőrizze a lámpákat a jobb láthatóságért.",
+              "Minden indulás előtt törölje szárazra a nyerget."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, inclusiv protecții pentru încălțăminte.",
+              "Evitați frânările bruște pe meterezele umede.",
+              "Folosiți podul pentru biciclete peste autostradă ca adăpost scurt.",
+              "Verificați funcționarea luminilor pentru o mai bună vizibilitate.",
+              "Ștergeți șaua înainte de fiecare plecare."
+            ],
+            "en": [
+              "Wear full rain gear, including shoe covers.",
+              "Avoid sharp braking on the wet ramparts.",
+              "Use the bicycle bridge over the highway as a short shelter.",
+              "Check your lights beforehand for better visibility.",
+              "Wipe the saddle dry before each departure."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Nyborg mit dem Rad in der klaren Winterluft. Vom Schloss aus führt der Weg durch die historische Stadt, wo der Raureif die Fachwerkhäuser verzaubert. Ein Mittagessen am Hafen wärmt Sie auf, bevor Sie die Küstenstrecke in Angriff nehmen. Der kalte Wind vom Meer ist fordernd, aber die klare Sicht auf die Storebælt-Brücke entschädigt für alles. Beenden Sie die Tour frühzeitig im Stadtzentrum, bevor die Kälte bei Sonnenuntergang zunimmt.",
+            "hu": "Fedezze fel Nyborgot kerékpárral a tiszta téli levegőben. A kastélytól az óvároson át vezet az út, ahol a zúzmara varázslatossá teszi a gerendavázas házakat. A kikötői ebéd felmelegíti, mielőtt nekivágna a parti szakasznak. A tenger felőli hideg szél embert próbáló, de a Nagy-Bælt híd látványa mindenért kárpótol. Fejezze be a túrát korán a központban, mielőtt naplemente után lehűlne az idő.",
+            "ro": "Explorați Nyborg cu bicicleta în aerul curat de iarnă. De la castel, drumul trece prin orașul istoric, unde chiciura înfrumusețează casele vechi. Un prânz în port vă va încălzi înainte de a parcurge traseul de coastă. Vântul rece dinspre mare este provocator, dar vederea clară spre Podul Storebælt merită efortul. Încheiați turul devreme în centru, înainte ca frigul să se intensifice la apus.",
+            "en": "Explore Nyborg by bike in the crisp winter air. From the castle, the path leads through the historic town, where hoarfrost enchants the timber-framed houses. A lunch at the harbor warms you up before tackling the coastal stretch. The cold sea wind is demanding, but the clear view of the Great Belt Bridge makes it all worthwhile. Finish the tour early in the city center before the cold intensifies at sunset."
+          },
+          "stops": [
+            {
+              "name": "Nyborg Castle",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad gesichert ab; die Kälte kann Akkus von E-Bikes schneller entladen.",
+                "hu": "Zárja le a bringát; a hideg gyorsabban meríti az e-bike akkumulátorokat.",
+                "ro": "Parcați bicicleta în siguranță; frigul poate descărca bateriile e-bike-urilor mai rapid.",
+                "en": "Park your bike securely; the cold can drain e-bike batteries faster."
+              }
+            },
+            {
+              "name": "Church of Our Lady & Museums",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pausen in den Museen, um Ihre Finger aufzuwärmen.",
+                "hu": "Használja ki a múzeumi szüneteket az ujjai felmelegítésére.",
+                "ro": "Folosiți pauzele din muzee pentru a vă încălzi degetele.",
+                "en": "Use the breaks in the museums to warm up your fingers."
+              }
+            },
+            {
+              "name": "Lunch at the Marina",
+              "tip_5lang": {
+                "de": "Kalorienreiches Essen hilft, die Körperwärme beim Radfahren zu halten.",
+                "hu": "A kalóriadús étel segít a testhőmérséklet megtartásában tekerés közben.",
+                "ro": "Mâncarea bogată în calorii ajută la menținerea căldurii corporale în timpul pedalatului.",
+                "en": "Calorie-rich food helps maintain body heat while cycling."
+              }
+            },
+            {
+              "name": "Ride along the coast",
+              "tip_5lang": {
+                "de": "Die Gischt kann auf der Straße gefrieren; achten Sie auf glatte Stellen.",
+                "hu": "A sós permet ráfagyhat az útra; figyeljen a jeges foltokra.",
+                "ro": "Stropii de apă pot îngheța pe drum; atenție la porțiunile alunecoase.",
+                "en": "Sea spray can freeze on the road; watch out for icy patches."
+              }
+            },
+            {
+              "name": "Great Belt Bridge Viewpoint",
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto, bevor die Kälte Ihre Hände steif macht.",
+                "hu": "Készítsen egy gyors fotót, mielőtt a hideg elgémberíti a kezeit.",
+                "ro": "Faceți o fotografie rapidă înainte ca frigul să vă amorțească mâinile.",
+                "en": "Take a quick photo before the cold stiffens your hands."
+              }
+            },
+            {
+              "name": "Nyborg Ramparts",
+              "tip_5lang": {
+                "de": "Die Wege können durch gefrorenen Tau rutschig sein.",
+                "hu": "Az utak a fagyott harmat miatt csúszósak lehetnek.",
+                "ro": "Potecile pot fi alunecoase din cauza rouăi înghețate.",
+                "en": "The paths can be slippery due to frozen dew."
+              }
+            },
+            {
+              "name": "Final drink in the city center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café mit Kamin, um die Tour gemütlich abzuschließen.",
+                "hu": "Válasszon egy kandallós kávézót a túra hangulatos lezárásához.",
+                "ro": "Alegeți o cafenea cu șemineu pentru a încheia turul într-un mod plăcut.",
+                "en": "Choose a cafe with a fireplace for a cozy finish to the tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Vermeiden Sie Küstenwege bei Sturmwarnung wegen starker Böen.",
+              "Ein Schlauchtuch schützt Ihr Gesicht vor der schneidenden Kälte.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck gibt mehr Grip auf glattem Grund.",
+              "Nehmen Sie eine Thermoskanne mit Tee für unterwegs mit."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "Viharjelzés esetén kerülje a parti utakat az erős széllökések miatt.",
+              "A csősál megvédi az arcát a metsző hidegtől.",
+              "Ellenőrizze a guminyomást; a kevesebb nyomás jobb tapadást ad csúszós úton.",
+              "Vigyen magával termoszban teát az útra."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Evitați drumurile de coastă în caz de furtună din cauza rafalelor puternice.",
+              "Un fular tip tub vă protejează fața de frigul tăios.",
+              "Verificați presiunea anvelopelor; o presiune mai mică oferă aderență mai bună.",
+              "Luați un termos cu ceai pentru drum."
+            ],
+            "en": [
+              "Wear windproof gloves and a hat under your helmet.",
+              "Avoid coastal paths during storm warnings due to strong gusts.",
+              "A neck gaiter protects your face from the biting cold.",
+              "Check tire pressure; slightly lower pressure gives better grip on slippery ground.",
+              "Take a thermos with tea for the way."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -850,6 +1266,196 @@
           "Plan for extra time for traffic on the bridge if you intend to cross it.",
           "Google Maps is reliable for navigation in the region."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Nyborg bequem vom Auto aus, während der Regen gegen die Scheiben trommelt. Besuchen Sie das Schloss und die Altstadt, wobei Sie die kurzen Wege zwischen den Parkplätzen und den Museen nutzen. Eine Fahrt zum Schloss Holckenhavn bietet auch bei schlechtem Wetter einen prächtigen Anblick. Den Tag beenden Sie mit einer Panoramafahrt zum Aussichtspunkt der Storebælt-Brücke, wo Sie das Naturschauspiel trocken aus dem Wagen beobachten können.",
+            "hu": "Élvezze Nyborgot kényelmesen az autóból, miközben az eső kopog a szélvédőn. Látogassa meg a kastélyt és az óvárost, kihasználva a parkolók és múzeumok közötti rövid távolságot. Egy autózás a Holckenhavn-kastélyhoz rossz időben is pompás látványt nyújt. A napot a Nagy-Bælt híd kilátópontjánál zárhatja, ahol szárazon nézheti végig a természet játékát a kocsi ablakából.",
+            "ro": "Bucurați-vă de Nyborg confortabil din mașină în timp ce ploaia bate în parbriz. Vizitați castelul și orașul vechi, profitând de distanțele scurte între parcări și muzee. O plimbare spre Castelul Holckenhavn oferă o priveliște magnifică chiar și pe vreme rea. Încheiați ziua cu o parcurgere panoramică spre podul Storebælt, admirând spectacolul naturii la uscat.",
+            "en": "Enjoy Nyborg comfortably from your car while the rain drums against the windshield. Visit the castle and the old town, utilizing the short distances between parking lots and museums. A drive to Holckenhavn Castle offers a grand sight even in bad weather. End the day with a scenic drive to the Great Belt Bridge viewpoint, where you can watch the elements from the dry comfort of your car."
+          },
+          "stops": [
+            {
+              "name": "Park & Start at Nyborg Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahegelegenen Parkplatz, um die Zeit im Regen zu minimieren.",
+                "hu": "Használja a közeli parkolót, hogy minimalizálja az esőben töltött időt.",
+                "ro": "Folosiți parcarea din apropiere pentru a minimiza timpul petrecut în ploaie.",
+                "en": "Use the nearby parking lot to minimize time spent in the rain."
+              }
+            },
+            {
+              "name": "Church of Our Lady & The Mayor's Yard",
+              "tip_5lang": {
+                "de": "Parken Sie im Stadtzentrum; die Museen liegen alle in unmittelbarer Nähe.",
+                "hu": "Parkoljon a városközpontban; a múzeumok mind közvetlen közelben vannak.",
+                "ro": "Parcați în centrul orașului; muzeele sunt toate în imediata apropiere.",
+                "en": "Park in the city center; the museums are all in the immediate vicinity."
+              }
+            },
+            {
+              "name": "Lunch and drive to Holckenhavn Castle",
+              "tip_5lang": {
+                "de": "Die Fahrt durch die Alleen zum Schloss ist auch bei Regen sehr idyllisch.",
+                "hu": "Az utazás a kastélyhoz vezető fasorokon esőben is idilli.",
+                "ro": "Drumul prin aleile spre castel este foarte idilic chiar și pe ploaie.",
+                "en": "The drive through the avenues to the castle is very idyllic even in the rain."
+              }
+            },
+            {
+              "name": "Drive to the Great Belt Bridge View",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto sitzen und genießen Sie den Blick auf die Brücke.",
+                "hu": "Maradjon az autóban, és élvezze a hídra nyíló kilátást.",
+                "ro": "Rămâneți în mașină și bucurați-vă de vederea spre pod.",
+                "en": "Stay in the car and enjoy the view of the bridge."
+              }
+            },
+            {
+              "name": "Nyborg Marina",
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Hafenmole für einen kurzen Blick auf die Boote.",
+                "hu": "Parkoljon közvetlenül a mólónál a rövid kikötői kilátásért.",
+                "ro": "Parcați direct pe dig pentru o vedere scurtă asupra bărciilor.",
+                "en": "Park directly on the pier for a short view of the boats."
+              }
+            },
+            {
+              "name": "Return to Center & Dinner",
+              "tip_5lang": {
+                "de": "Ein entspannter Abschluss des Tages ohne nasse Kleidung.",
+                "hu": "A nap pihentető lezárása, vizes ruhák nélkül.",
+                "ro": "Un final relaxant al zilei fără haine ude.",
+                "en": "A relaxed end to the day without wet clothes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Die Parkplätze im Zentrum können bei Regen stark belegt sein.",
+              "Vermeiden Sie das Parken unter großen Bäumen bei Sturmgefahr.",
+              "Nutzen Sie die Sitzheizung für zusätzliche Behaglichkeit.",
+              "Halten Sie die Fenster leicht geöffnet, um Beschlagen zu verhindern."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "A központi parkolók esőben hamar megtelhetnek.",
+              "Viharveszély esetén kerülje a nagy fák alatti parkolást.",
+              "Használja az ülésfűtést a plusz kényelemért.",
+              "Tartsa résnyire nyitva az ablakot a párásodás megelőzésére."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de plecare.",
+              "Parcările din centru pot fi foarte ocupate pe timp de ploaie.",
+              "Evitați parcarea sub copaci mari în caz de risc de furtună.",
+              "Folosiți încălzirea în scaune pentru un plus de confort.",
+              "Țineți geamurile ușor întredeschise pentru a preveni aburirea."
+            ],
+            "en": [
+              "Check your windshield wipers before departure.",
+              "City center parking lots can be very busy when it rains.",
+              "Avoid parking under large trees if there's a storm risk.",
+              "Use the seat heating for extra coziness.",
+              "Keep the windows slightly open to prevent fogging."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Nyborg gemütlich mit dem Auto. Starten Sie am Schloss, das in der Wintersonne glänzt, und erkunden Sie die Museen der Altstadt mit kurzen Wegen an der kalten Luft. Die Fahrt zum Schloss Holckenhavn führt durch eine frostige Märchenlandschaft. Da es früh dunkel wird, bietet die Storebælt-Brücke am späten Nachmittag ein beeindruckendes Lichterspiel über dem dunklen Meer, bevor Sie den Abend im warmen Stadtzentrum ausklingen lassen.",
+            "hu": "Fedezze fel a téli Nyborgot kényelmesen, autóval. Kezdje a téli napsütésben csillogó kastélynál, majd látogasson el az óváros múzeumaiba, minimális időt töltve a hidegben. Az utazás a Holckenhavn-kastélyhoz zúzmarás mesevilágon át vezet. Mivel korán sötétedik, a Nagy-Bælt híd késő délután lenyűgöző fényekkel ragyog a sötét tenger felett, mielőtt a meleg városközpontban zárná az estét.",
+            "ro": "Explorați Nyborg-ul de iarnă confortabil cu mașina. Începeți la castelul care strălucește în soarele de iarnă și vizitați muzeele din orașul vechi. Drumul spre Castelul Holckenhavn trece printr-un peisaj de poveste înghețat. Deoarece se întunecă devreme, podul Storebælt oferă un joc de lumini impresionant peste marea întunecată la sfârșitul după-amiezii, înainte de a încheia seara în centrul cald al orașului.",
+            "en": "Explore wintery Nyborg comfortably by car. Start at the castle, glittering in the winter sun, and explore the old town museums with minimal time spent in the cold air. The drive to Holckenhavn Castle leads through a frosty fairytale landscape. With darkness falling early, the Great Belt Bridge offers an impressive light display over the dark sea in the late afternoon before you finish the evening in the warm city center."
+          },
+          "stops": [
+            {
+              "name": "Park & Start at Nyborg Castle",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Wischwasser für Frost geeignet ist.",
+                "hu": "Ellenőrizze, hogy a szélvédőmosó folyadék fagyálló-e.",
+                "ro": "Asigurați-vă că lichidul de parbriz este rezistent la îngheț.",
+                "en": "Ensure your windshield washer fluid is suitable for frost."
+              }
+            },
+            {
+              "name": "Church of Our Lady & The Mayor's Yard",
+              "tip_5lang": {
+                "de": "Parken Sie zentral, um kurze Wege zwischen den frostigen Sehenswürdigkeiten zu haben.",
+                "hu": "Parkoljon központilag a fagyos látnivalók közötti rövid séta érdekében.",
+                "ro": "Parcați central pentru a avea distanțe scurte între atracțiile înghețate.",
+                "en": "Park centrally for short walks between the frosty sights."
+              }
+            },
+            {
+              "name": "Lunch and drive to Holckenhavn Castle",
+              "tip_5lang": {
+                "de": "Die frostigen Alleen bieten eine wunderschöne Winterkulisse für die Fahrt.",
+                "hu": "A zúzmarás fasorok gyönyörű téli hátteret adnak az utazáshoz.",
+                "ro": "Aleile înghețate oferă un decor de iarnă superb pentru drum.",
+                "en": "The frosty avenues offer a beautiful winter backdrop for the drive."
+              }
+            },
+            {
+              "name": "Drive to the Great Belt Bridge View",
+              "tip_5lang": {
+                "de": "Im Winter ist die Fernsicht auf die Brücke oft besonders klar.",
+                "hu": "Télen a hídra nyíló távoli kilátás gyakran különösen tiszta.",
+                "ro": "Iarna, vizibilitatea spre pod este adesea deosebit de clară.",
+                "en": "In winter, the distant view of the bridge is often particularly clear."
+              }
+            },
+            {
+              "name": "Nyborg Marina",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die eisigen Boote aus der Wärme Ihres Autos.",
+                "hu": "Élvezze a jeges hajók látványát az autó melegéből.",
+                "ro": "Bucurați-vă de vederea bărcilor înghețate din căldura mașinii.",
+                "en": "Enjoy the view of the icy boats from the warmth of your car."
+              }
+            },
+            {
+              "name": "Return to Center & Dinner",
+              "tip_5lang": {
+                "de": "Ein perfekter Tag, um die dänische Winterküche kennenzulernen.",
+                "hu": "Tökéletes nap a dán téli konyha megismeréséhez.",
+                "ro": "O zi perfectă pentru a cunoaște bucătăria daneză de iarnă.",
+                "en": "A perfect day to get to know Danish winter cuisine."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer einen Eiskratzer und Handbesen mit.",
+              "Achten Sie auf Glatteis auf den kleineren Küstenstraßen.",
+              "Winterreifen sind in Dänemark bei diesen Bedingungen unerlässlich.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche in der Nähe von Museen ein.",
+              "Lassen Sie den Motor nicht unnötig im Stand laufen."
+            ],
+            "hu": [
+              "Mindig legyen kéznél jégkaparó és kefe.",
+              "Figyeljen a jegesedésre a kisebb parti utakon.",
+              "A téli gumi elengedhetetlen ilyen körülmények között Dániában.",
+              "Tervezzen több időt a parkolásra a múzeumok közelében.",
+              "Ne járassa feleslegesen a motort álló helyzetben."
+            ],
+            "ro": [
+              "Aveți întotdeauna la îndemână o racletă și o perie.",
+              "Atenție la gheață pe drumurile de coastă mai mici.",
+              "Anvelopele de iarnă sunt esențiale în Danemarca în aceste condiții.",
+              "Alocați mai mult timp pentru căutarea parcării lângă muzee.",
+              "Nu lăsați motorul pornit inutil pe loc."
+            ],
+            "en": [
+              "Always carry an ice scraper and a hand brush.",
+              "Watch out for black ice on smaller coastal roads.",
+              "Winter tires are essential in Denmark under these conditions.",
+              "Allow more time for parking near museums.",
+              "Do not let the engine idle unnecessarily."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1134,6 +1740,196 @@
           "Bus schedules can be found online or at the stops.",
           "Check the last bus back to the center to avoid getting stranded."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das gute Bussystem von Nyborg, um an einem regnerischen Tag mobil zu bleiben. Vom Bahnhof führt ein kurzer Fußweg zum Schloss, bevor Sie den Bus zurück ins Zentrum für die Museumsbesuche nehmen. Ein gemütliches Mittagessen an der Marina lässt sich leicht mit dem Bus erreichen, wodurch Sie den Regen im Freien minimieren. Beenden Sie den Tag mit einem Blick auf die Storebælt-Brücke und kehren Sie trocken mit dem Bus zum Bahnhof zurück.",
+            "hu": "Használja Nyborg jó buszhálózatát, hogy mozgásban maradjon az esős napon is. A vasútállomástól rövid séta vezet a kastélyhoz, majd busszal térhet vissza a központba a múzeumokhoz. A kikötői ebéd is könnyen elérhető busszal, így minimalizálva az esőben töltött időt. Zárja a napot a Nagy-Bælt híd látványával, majd térjen vissza szárazon a pályaudvarra.",
+            "ro": "Utilizați sistemul bun de autobuze din Nyborg pentru a rămâne mobil într-o zi ploioasă. De la gară, o scurtă plimbare duce la castel, înainte de a lua autobuzul înapoi în centru pentru muzee. Un prânz în marină este ușor de atins cu autobuzul, minimizând expunerea la ploaie. Încheiați ziua cu o vedere spre podul Storebælt și întoarceți-vă la gară cu autobuzul.",
+            "en": "Use Nyborg's good bus system to stay mobile on a rainy day. From the station, a short walk leads to the castle before taking the bus back to the center for museum visits. A cozy lunch at the marina is easily reached by bus, minimizing your time in the rain. End the day with a view of the Great Belt Bridge and return dry to the station by bus."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Station & Walk to Castle",
+              "tip_5lang": {
+                "de": "Der Weg zum Schloss ist kurz, aber halten Sie Ihren Schirm bereit.",
+                "hu": "A kastélyhoz vezető út rövid, de tartsa készenlétben az esernyőt.",
+                "ro": "Drumul spre castel este scurt, dar țineți umbrela pregătită.",
+                "en": "The walk to the castle is short, but keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Old Town Cluster: Church & Museums",
+              "tip_5lang": {
+                "de": "Alle Orte liegen eng beieinander, ideal für Regenpausen.",
+                "hu": "Minden hely közel van egymáshoz, ideális esőszünetekhez.",
+                "ro": "Toate locațiile sunt aproape una de alta, ideale pentru pauze de ploaie.",
+                "en": "All sites are close to each other, ideal for rain breaks."
+              }
+            },
+            {
+              "name": "Lunch and Bus to the Marina",
+              "tip_5lang": {
+                "de": "Warten Sie an der überdachten Haltestelle auf den Bus zur Marina.",
+                "hu": "Várja a kikötői buszt a fedett megállóban.",
+                "ro": "Așteptați autobuzul spre marină în stația acoperită.",
+                "en": "Wait for the bus to the marina at the covered stop."
+              }
+            },
+            {
+              "name": "Walk to the Bridge Viewpoint",
+              "tip_5lang": {
+                "de": "Ein windiger Fußweg; stellen Sie sicher, dass Ihre Regenjacke gut schließt.",
+                "hu": "Szeles séta; győződjön meg róla, hogy az esőkabátja jól zár.",
+                "ro": "O plimbare vântoasă; asigurați-vă că jacheta de ploaie este bine închisă.",
+                "en": "A windy walk; make sure your rain jacket is zipped up well."
+              }
+            },
+            {
+              "name": "Bus back and Walk on the Ramparts",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die Beine nach dem Spaziergang auszuruhen.",
+                "hu": "Használja a buszt, hogy pihentesse a lábait a séta után.",
+                "ro": "Folosiți autobuzul pentru a vă odihni picioarele după plimbare.",
+                "en": "Use the bus to rest your legs after the walk."
+              }
+            },
+            {
+              "name": "End at the Station",
+              "tip_5lang": {
+                "de": "Das Bahnhofsgebäude bietet einen trockenen Wartebereich.",
+                "hu": "Az állomásépület száraz várótermet kínál.",
+                "ro": "Clădirea gării oferă o zonă de așteptare uscată.",
+                "en": "The station building offers a dry waiting area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan online (Rejseplanen).",
+              "Halten Sie Kleingeld oder eine Bezahl-App bereit.",
+              "Die Busse sind im Winter und bei Regen gut beheizt.",
+              "Die Haltestellen in der Nähe der Marina sind ungeschützt; kommen Sie pünktlich.",
+              "Tragen Sie bei Dunkelheit Reflektoren an Ihrer Kleidung."
+            ],
+            "hu": [
+              "Ellenőrizze a buszmenetrendet online (Rejseplanen).",
+              "Készítsen elő aprópénzt vagy fizetési appot.",
+              "A buszok télen és esőben jól fűtöttek.",
+              "A kikötő közeli buszmegállók nem fedettek; érkezzen pontosan.",
+              "Sötétedés után viseljen fényvisszaverőt a ruházatán."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor online (Rejseplanen).",
+              "Pregătiți mărunțiș sau o aplicație de plată.",
+              "Autobuzele sunt bine încălzite iarna și pe ploaie.",
+              "Stațiile de lângă marină sunt neprotejate; veniți la timp.",
+              "Purtați elemente reflectorizante pe haine după lăsarea întunericului."
+            ],
+            "en": [
+              "Check the bus schedule online (Rejseplanen).",
+              "Have small change or a payment app ready.",
+              "Buses are well-heated in winter and rain.",
+              "Stops near the marina are unsheltered; arrive on time.",
+              "Wear reflectors on your clothing when it's dark."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Nyborgs winterliche Highlights stressfrei mit öffentlichen Verkehrsmitteln. Nach der Ankunft am Bahnhof führt ein kurzer, erfrischender Gang zum frostigen Schloss. Der Bus bringt Sie schnell zurück in die Altstadt, wo Sie die Museen ohne lange Wege in der Kälte besuchen können. Genießen Sie ein warmes Mittagessen an der Marina, die Sie bequem per Bus erreichen, und bestaunen Sie den frühen Sonnenuntergang über der Storebælt-Brücke, bevor Sie Ihre Reise fortsetzen.",
+            "hu": "Fedezze fel Nyborg téli fénypontjait stresszmentesen, tömegközlekedéssel. A vasútállomásra érkezés után egy rövid, frissítő séta vezet a zúzmarás kastélyhoz. A busz gyorsan visszaviszi az óvárosba, így a múzeumokat anélkül nézheti meg, hogy sokat lenne a hidegben. Élvezze a meleg ebédet a kikötőben, ahová busszal juthat el, és csodálja meg a korai naplementét a Nagy-Bælt híd felett.",
+            "ro": "Experimentați punctele forte ale Nyborg-ului de iarnă fără stres, folosind transportul public. După sosirea la gară, o scurtă plimbare revigorantă vă duce la castelul înghețat. Autobuzul vă readuce rapid în orașul vechi, unde puteți vizita muzeele fără a sta mult în frig. Bucurați-vă de un prânz cald în marină și admirați apusul devreme peste podul Storebælt.",
+            "en": "Experience Nyborg's winter highlights stress-free with public transport. After arriving at the station, a short, refreshing walk leads to the frosty castle. The bus quickly takes you back to the old town, where you can visit museums without spending much time in the cold. Enjoy a warm lunch at the marina, reached easily by bus, and marvel at the early sunset over the Great Belt Bridge before continuing your journey."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Station & Walk to Castle",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem Weg zum Schlossgelände.",
+                "hu": "Vigyázzon a csúszós foltokra a kastélyhoz vezető úton.",
+                "ro": "Atenție la porțiunile alunecoase în drum spre castel.",
+                "en": "Watch out for slippery patches on the way to the castle grounds."
+              }
+            },
+            {
+              "name": "Old Town Cluster: Church & Museums",
+              "tip_5lang": {
+                "de": "Die Wärme der historischen Gebäude ist im Winter sehr willkommen.",
+                "hu": "A történelmi épületek melege télen nagyon hívogató.",
+                "ro": "Căldura clădirilor istorice este binevenită iarna.",
+                "en": "The warmth of the historic buildings is very welcome in winter."
+              }
+            },
+            {
+              "name": "Lunch and Bus to the Marina",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um der Kälte zwischen den Stopps zu entkommen.",
+                "hu": "Használja a buszt, hogy elmeneküljön a hideg elől a megállók között.",
+                "ro": "Folosiți autobuzul pentru a scăpa de frig între opriri.",
+                "en": "Use the bus to escape the cold between stops."
+              }
+            },
+            {
+              "name": "Walk to the Bridge Viewpoint",
+              "tip_5lang": {
+                "de": "Ein kalter Spaziergang; ziehen Sie Mütze und Handschuhe fest an.",
+                "hu": "Hideg séta; húzza szorosra a sapkát és a kesztyűt.",
+                "ro": "O plimbare rece; puneți-vă bine căciula și mănușile.",
+                "en": "A cold walk; put on your hat and gloves tightly."
+              }
+            },
+            {
+              "name": "Bus back and Walk on the Ramparts",
+              "tip_5lang": {
+                "de": "Im Winter bieten die Wälle eine klare Sicht über die Dächer der Stadt.",
+                "hu": "Télen a várfalakról tiszta kilátás nyílik a város háztetőire.",
+                "ro": "Iarna, meterezele oferă o vedere clară peste acoperișurile orașului.",
+                "en": "In winter, the ramparts offer a clear view over the city's rooftops."
+              }
+            },
+            {
+              "name": "End at the Station",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Kakao am Bahnhof für die Heimreise.",
+                "hu": "Vegyen egy forró kakaót az állomáson a hazaútra.",
+                "ro": "Luați o ciocolată caldă din gară pentru drumul spre casă.",
+                "en": "Grab a hot cocoa at the station for the trip home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse verkehren im Winter oft seltener; planen Sie im Voraus.",
+              "Die Rejseplanen-App zeigt Echtzeitdaten an, ideal bei Kälte.",
+              "Tragen Sie warme Winterschuhe für die kurzen Wege zwischen den Haltestellen.",
+              "In Dänemark kann man oft kontaktlos im Bus bezahlen.",
+              "Beachten Sie, dass einige Buslinien am Wochenende seltener fahren."
+            ],
+            "hu": [
+              "A buszok télen gyakran ritkábban járnak; tervezzen előre.",
+              "A Rejseplanen app valós idejű adatokat mutat, ami ideális hidegben.",
+              "Viseljen meleg téli cipőt a megállók közötti rövid sétákhoz.",
+              "Dániában a buszokon gyakran lehet érintésmentesen fizetni.",
+              "Vegye figyelembe, hogy egyes járatok hétvégén ritkábban indulnak."
+            ],
+            "ro": [
+              "Autobuzele circulă adesea mai rar iarna; planificați din timp.",
+              "Aplicația Rejseplanen arată date în timp real, ideal pe frig.",
+              "Purtați încălțăminte de iarnă călduroasă pentru distanțele dintre stații.",
+              "În Danemarca se poate plăti adesea contactless în autobuz.",
+              "Rețineți că unele linii de autobuz circulă mai rar în weekend."
+            ],
+            "en": [
+              "Buses often run less frequently in winter; plan ahead.",
+              "The Rejseplanen app shows real-time data, ideal in the cold.",
+              "Wear warm winter shoes for the short walks between stops.",
+              "In Denmark, you can often pay contactless on the bus.",
+              "Note that some bus lines run less frequently on weekends."
+            ]
+          }
+        }
       }
     }
   }

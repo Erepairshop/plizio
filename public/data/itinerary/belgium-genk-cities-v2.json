@@ -293,6 +293,178 @@
           "Check the opening hours for C-Mine and Labiomista in advance.",
           "Vennestraat is most lively in the evening."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genk zeigt sich bei Regen von seiner gemütlichen Seite. Beginnen Sie in der Vennestraat, wo die vielen Cafés und Geschäfte Schutz bieten. Der Vormittag gehört der St.-Martins-Kirche, einem ruhigen Rückzugsort.\n\nMittags tauchen Sie in die industrielle Welt von C-Mine ein. Die Ausstellungen und das Labyrinth sind größtenteils wettergeschützt und bieten faszinierende Einblicke in die Bergbaugeschichte.\n\nNachmittags führt der Weg nach Labiomista. Auch wenn die Außenanlagen nass sind, fasziniert die Architektur im Regen. In den Pavillons bleiben Sie trocken und können die Kunstwerke in Ruhe betrachten.\n\nDer Tag endet im Thor Park. Die monumentale Kulisse des Hauptgebäudes wirkt bei grauem Himmel besonders imposant. Ein kurzer Spaziergang durch die Industrieruinen rundet das Erlebnis atmosphärisch ab.",
+            "hu": "Genk esős időben is tartogat felfedeznivalót. Kezdje a reggelt a Vennestraat hangulatos boltjai között, ahol bármikor beugorhat egy kávéra. A Szent Márton-templom falai között csendes menedéket talál a zápor elől.\n\nDélben a C-Mine ipari műemlékegyüttese a legjobb választás. A bányajáratok és a kiállítóterek fedettek, így az eső nem zavarja meg a bányászati múlt felfedezését a monumentális csarnokokban.\n\nDélután Labiomista művészeti világa várja. Bár a park szabadtéri, a pavilonok és a galéria védelmet nyújtanak, a modern szobrok pedig különleges arcukat mutatják a vizes környezetben.\n\nAz estét a Thor Park ipari épületei között zárja. A kivilágított bányaépület látványa a sötét, esős égbolt alatt drámai hatást kelt, mielőtt visszatérne a város központjába.",
+            "ro": "Genk are un farmec aparte chiar și pe ploaie. Începeți dimineața pe Vennestraat, profitând de numeroasele cafenele pentru a vă adăposti. Biserica Sfântul Martin oferă un refugiu liniștit și uscat în centrul orașului.\n\nLa prânz, complexul C-Mine este destinația ideală. Majoritatea atracțiilor, inclusiv traseul prin vechea mină, sunt acoperite, permițându-vă să explorați istoria industrială fără a vă uda.\n\nDupă-amiaza este dedicată proiectului Labiomista. Deși este un spațiu vast, pavilioanele de artă oferă protecție, iar contrastul dintre arhitectura modernă și cerul gri creează o atmosferă unică.\n\nSeara se încheie la Thor Park. Clădirile industriale masive par și mai impunătoare în reflexia bălților, oferind un cadru fotografic spectaculos înainte de cină.",
+            "en": "Genk reveals a cozy side during the rain. Start at Vennestraat, where shops and cafes provide quick shelter. Saint Martin's Church offers a peaceful, dry sanctuary in the heart of the city during morning showers.\n\nAt midday, head to C-Mine. The industrial heritage site is perfect for rainy days, as the labyrinth and most exhibition spaces are indoors, keeping you dry while exploring the mining history.\n\nIn the afternoon, visit Labiomista. While the park is open, the art pavilions provide shelter, and the contemporary sculptures look striking against the moody, wet backdrop of the former zoo.\n\nThe day concludes at Thor Park. The massive industrial architecture is particularly atmospheric under grey skies, with the lit-up main building reflecting beautifully in the wet pavement."
+          },
+          "stops": [
+            {
+              "name": "Vennestraat: Street of Senses",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden und kleinen Läden als Regenschutz.",
+                "hu": "Használja az üzletek előtetőit és a kávézókat menedékként.",
+                "ro": "Folosiți arcadele și magazinele mici pentru a vă feri de stropi.",
+                "en": "Use the shop awnings and small cafes to stay dry while browsing."
+              }
+            },
+            {
+              "name": "Saint Martin's Church",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um einen starken Regenschauer trocken abzuwarten.",
+                "hu": "Tökéletes hely egy hirtelen zápor átvészelésére.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "A perfect spot to wait out a heavy downpour in silence."
+              }
+            },
+            {
+              "name": "C-Mine",
+              "tip_5lang": {
+                "de": "Die meisten Attraktionen sind innen; ideal für Schlechtwettertage.",
+                "hu": "A legtöbb látnivaló fedett, ideális választás rossz időben.",
+                "ro": "Majoritatea atracțiilor sunt la interior; ideal pentru zile ploioase.",
+                "en": "Most attractions are indoors; an ideal choice for bad weather."
+              }
+            },
+            {
+              "name": "Labiomista",
+              "tip_5lang": {
+                "de": "Feste Schuhe sind wichtig, da die Wege im Park matschig sein können.",
+                "hu": "Vízálló cipő ajánlott, a park ösvényei sárosak lehetnek.",
+                "ro": "Încălțămintea impermeabilă este necesară pe aleile parcului.",
+                "en": "Waterproof shoes are recommended as park paths can get muddy."
+              }
+            },
+            {
+              "name": "Thor Park",
+              "tip_5lang": {
+                "de": "Der Blick auf das Hauptgebäude ist auch aus der Ferne bei Regen toll.",
+                "hu": "A főépület látványa esőben is lenyűgöző a távolból.",
+                "ro": "Clădirea principală arată spectaculos chiar și privită de la distanță.",
+                "en": "The main building remains a striking sight even from a distance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die C-Mine Expedition ist fast komplett unterirdisch oder überdacht.",
+              "Vennestraat hat viele überdachte Eingänge bei den Restaurants.",
+              "Tragen Sie eine Regenjacke statt Schirm, da es windig sein kann.",
+              "Die Busse in Genk fahren oft, falls der Regen zu stark wird.",
+              "In Cafés gibt es oft Trockenmöglichkeiten für nasse Mäntel."
+            ],
+            "hu": [
+              "A C-Mine expedíció szinte teljesen fedett vagy föld alatti.",
+              "A Vennestraat éttermei sokszor rendelkeznek védett előtérrel.",
+              "Az esernyő helyett az esőkabát praktikusabb a szél miatt.",
+              "A helyi buszjáratok jó alternatívát jelentenek felhőszakadáskor.",
+              "A legtöbb kávézóban szívesen látják a vizes kabátos vendégeket is."
+            ],
+            "ro": [
+              "Expediția C-Mine este aproape în întregime subterană sau acoperită.",
+              "Vennestraat are multe intrări protejate la restaurante și magazine.",
+              "O pelerină de ploaie este mai utilă decât umbrela din cauza vântului.",
+              "Autobuzele locale sunt o alternativă bună dacă ploaia devine prea deasă.",
+              "Cafenelele sunt primitoare și oferă spațiu pentru hainele umede."
+            ],
+            "en": [
+              "The C-Mine expedition is almost entirely underground or indoors.",
+              "Vennestraat features many covered entrances at local eateries.",
+              "A raincoat is more practical than an umbrella due to potential wind.",
+              "Local buses are a great fallback if the rain gets too heavy.",
+              "Cafes are generally accommodating of guests with wet outerwear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter in Genk bedeutet klare Luft und beleuchtete Industriekultur. Starten Sie morgens in der Vennestraat, wo der Duft von geröstetem Kaffee die Kälte vertreibt. Die St.-Martins-Kirche bietet danach einen Moment der Besinnung.\n\nMittags wärmen Sie sich in den Hallen von C-Mine auf. Die industrielle Architektur wirkt im winterlichen Licht besonders scharfkantig und imposant. Ein heißer Kakao im Kulturzentrum ist jetzt genau das Richtige.\n\nAm Nachmittag besuchen Sie Labiomista. Die kahlen Bäume geben den Blick auf die modernen Skulpturen und die Architektur frei, was eine ganz eigene, fast surreale Ästhetik erzeugt, bevor es früh dunkel wird.\n\nDer Tag endet im Thor Park. Wenn die Dämmerung gegen 16:30 Uhr einsetzt, werden die alten Schachttürme beleuchtet und bilden eine magische Kulisse in der kalten Winternacht.",
+            "hu": "A téli Genkben a friss levegő és a fényárban úszó ipari emlékek dominálnak. Kezdje a reggelt a Vennestraat egyik kávézójában, ahol a forró italok segítenek átvészelni a hideget. A közeli templom csendes nyugalma tökéletes folytatás.\n\nDélben a C-Mine hatalmas csarnokai adnak otthont. A benti kiállítások alatt nem kell tartania a fagytól, az ipari környezet pedig a téli napsütésben különösen látványos textúrákat mutat.\n\nDélután Labiomista különleges világa következik. A lombkorona nélküli fák között a modern építmények és szobrok még hangsúlyosabbá válnak, egyedi fotótémát kínálva a korai naplemente előtt.\n\nZárásként a Thor Park kivilágított épületeit csodálhatja meg. A téli sötétségben a bányatornyok fényei messzire ellátszanak, felejthetetlen záróakkordot adva a városi sétának.",
+            "ro": "Iarna în Genk aduce un aer proaspăt și peisaje industriale luminate spectaculos. Începeți dimineața pe Vennestraat cu o cafea fierbinte. Biserica Sfântul Martin oferă apoi un scurt popas liniștit înainte de explorare.\n\nLa prânz, refugiul perfect este complexul C-Mine. Arhitectura industrială sub soarele palid de iarnă oferă un contrast fascinant, iar interiorul călduros este ideal pentru a explora istoria locală.\n\nDupă-amiaza, Labiomista își dezvăluie structurile moderne printre ramurile golașe ale copacilor. Estetica suprarealistă a locului este accentuată de lumina rece a după-amiezii, înainte de lăsarea timpurie a serii.\n\nSeara se încheie la Thor Park. Turnurile vechii mine sunt iluminate feeric începând cu ora 16:30, creând o atmosferă magică sub cerul înstelat de iarnă.",
+            "en": "Winter in Genk is characterized by crisp air and beautifully lit industrial sites. Start your morning at Vennestraat with a hot drink to ward off the chill. Saint Martin's Church provides a quiet, serene stop shortly after.\n\nAt midday, warm up inside the vast halls of C-Mine. The industrial architecture looks particularly sharp in the winter light, and the indoor exhibitions keep you away from the freezing temperatures outside.\n\nIn the afternoon, explore Labiomista. The bare winter trees allow for unobstructed views of the modern sculptures and architecture, creating a unique, minimalist aesthetic before the early sunset.\n\nThe day ends at Thor Park. As darkness falls around 4:30 PM, the old mining towers are illuminated, providing a magical and imposing backdrop to the cold winter evening."
+          },
+          "stops": [
+            {
+              "name": "Vennestraat: Street of Senses",
+              "tip_5lang": {
+                "de": "Suchen Sie Cafés mit Heizstrahlern für eine kurze Pause.",
+                "hu": "Keressen fűtött teraszos kávézókat egy rövid pihenőre.",
+                "ro": "Căutați cafenele cu încălzitoare externe pentru o scurtă pauză.",
+                "en": "Look for cafes with outdoor heaters for a quick, warm break."
+              }
+            },
+            {
+              "name": "Saint Martin's Church",
+              "tip_5lang": {
+                "de": "Im Inneren ist es oft deutlich wärmer als draußen.",
+                "hu": "A templom belseje kellemes menedék a kinti fagy elől.",
+                "ro": "Interiorul bisericii este mult mai cald decât aerul de afară.",
+                "en": "The church interior is often significantly warmer than the air outside."
+              }
+            },
+            {
+              "name": "C-Mine",
+              "tip_5lang": {
+                "de": "Der Shop und das Café sind perfekt zum Aufwärmen.",
+                "hu": "A bolt és a kávézó tökéletes hely a felmelegedésre.",
+                "ro": "Magazinul și cafeneaua sunt locuri ideale pentru a vă încălzi.",
+                "en": "The visitor shop and cafe are perfect spots to regain some warmth."
+              }
+            },
+            {
+              "name": "Labiomista",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Stellen auf den Metallstegen.",
+                "hu": "Vigyázzon, a fém pallók csúszósak lehetnek a fagytól.",
+                "ro": "Atenție la porțiunile alunecoase de pe platformele metalice.",
+                "en": "Be careful of slippery patches on the metal walkways."
+              }
+            },
+            {
+              "name": "Thor Park",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist nötig, da der Wind hier scharf wehen kann.",
+                "hu": "Meleg ruha kötelező, a szél itt nagyon éles tud lenni.",
+                "ro": "Hainele groase sunt necesare; vântul poate fi tăios aici.",
+                "en": "Warm clothing is vital as the wind can be very sharp in this open area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Tragen Sie Schichten, da es in den Museen warm, draußen aber eisig ist.",
+              "Die Beleuchtung der C-Mine Schächte beginnt bei Dämmerung.",
+              "Einige Wege in den Parks können bei Frost gesperrt sein.",
+              "Genießen Sie lokale Winterspezialitäten in der Vennestraat."
+            ],
+            "hu": [
+              "Télen a nap már délután fél 5 körül nyugovóra tér.",
+              "Öltözzön rétegesen: a múzeumokban meleg van, kint fagyhat.",
+              "A C-Mine bányatornyainak díszkivilágítása sötétedéskor indul.",
+              "A parkok egyes ösvényei jegesedés esetén lezárásra kerülhetnek.",
+              "Kóstolja meg a helyi téli finomságokat a Vennestraat üzleteiben."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:30 în timpul iernii.",
+              "Îmbrăcați-vă în straturi: e cald în muzee, dar ger afară.",
+              "Iluminatul decorativ de la C-Mine pornește imediat după amurg.",
+              "Unele poteci din parcuri pot fi închise dacă este polei.",
+              "Încercați specialitățile locale de iarnă pe Vennestraat."
+            ],
+            "en": [
+              "Sunset occurs as early as 4:30 PM during the winter months.",
+              "Dress in layers: museums are heated, but it is freezing outside.",
+              "Decorative lighting at C-Mine starts promptly at dusk.",
+              "Some park paths might be closed if conditions are icy.",
+              "Try local winter treats at the shops along Vennestraat."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -603,6 +775,196 @@
           "The cycle paths are well signposted, but a map or GPS is helpful.",
           "Take enough water with you, especially for the longer routes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Genk bei Regen erfordert die richtige Ausrüstung, belohnt aber mit leeren Wegen. Starten Sie im Bokrijk Freilichtmuseum, wo die historischen Gebäude Unterstand bieten. Die Fahrt durch das Wasser ist auch bei Regen ein Highlight.\n\nMittags erreichen Sie die Vennestraat. Parken Sie Ihr Rad und genießen Sie ein ausgiebiges Mittagessen im Trockenen. Die Energie brauchen Sie für die nächste Etappe.\n\nNachmittags geht es weiter zur C-Mine und zum Thor Park. Die asphaltierten Wege sind gut befahrbar, auch wenn es nass ist. Die industrielle Kulisse wirkt bei Regen besonders authentisch.\n\nDer Tag endet in Kattevennen und im Wildlife Park. Die Waldwege können matschig sein, bieten aber ein echtes Naturerlebnis. Der Regen verstärkt den Duft der Kiefernwälder.",
+            "hu": "Az esős kerékpározás Genkben megfelelő felszereléssel igazi kaland. Kezdjen Bokrijkben, ahol a régi házak védelmet nyújtanak. A vízen keresztül tekerés esőben is különleges élmény.\n\nDélben érkezzen meg a Vennestraat-ra. Rakja le a bringát és töltsön el egy hosszú ebédet egy fedett teraszon, hogy újult erővel folytathassa az utat.\n\nDélután a C-Mine és a Thor Park ipari területei következnek. Az aszfaltozott utak esőben is jól tekerhetőek, a rozsdás bányatornyok látványa pedig illik a borús időhöz.\n\nA napot Kattevennen és a Vadaspark környékén zárja. Az erdei utak sárosak lehetnek, de a fenyőerdő illata ilyenkor a legintenzívebb.",
+            "ro": "Ciclismul prin Genk pe ploaie necesită echipament adecvat, dar oferă trasee libere. Începeți la muzeul Bokrijk, unde casele istorice oferă adăpost. Experiența de a pedala prin apă este spectaculoasă și pe ploaie.\n\nLa prânz, opriți pe Vennestraat. Parcați bicicleta și bucurați-vă de un prânz cald la interior pentru a vă reîncărca bateriile pentru restul traseului.\n\nDupă-amiaza vizitați C-Mine și Thor Park. Pistele asfaltate sunt sigure chiar și pe carosabil umed, iar decorul industrial arată autentic sub cerul ploios.\n\nZiua se încheie la Kattevennen și Parcul Wildlife. Potecile de pădure pot fi noroioase, dar ploaia intensifică parfumul rășinii de pin, oferind o experiență senzorială unică.",
+            "en": "Cycling through Genk in the rain rewards you with empty paths if you have the right gear. Start at Bokrijk, where historic buildings offer shelter. The 'Cycling through Water' experience remains a highlight even in wet weather.\n\nAt midday, arrive at Vennestraat. Park your bike and enjoy a long lunch indoors. You will need the energy and warmth for the next leg of your journey.\n\nIn the afternoon, head to C-Mine and Thor Park. The paved paths are reliable even when wet. The industrial backdrop feels particularly authentic and gritty in the rain.\n\nThe day ends around Kattevennen and the Wildlife Park. Forest paths may be muddy, but they offer a true nature experience, with the rain enhancing the scent of the pine woods."
+          },
+          "stops": [
+            {
+              "name": "Bokrijk Open-Air Museum",
+              "tip_5lang": {
+                "de": "Historische Bauernhöfe bieten guten Schutz vor Schauern.",
+                "hu": "A történelmi farmházak jó védelmet nyújtanak a záporok elől.",
+                "ro": "Fermele istorice oferă adăpost bun împotriva ploii.",
+                "en": "Historic farmhouses provide good shelter from passing showers."
+              }
+            },
+            {
+              "name": "Vennestraat for Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz, an dem Sie Ihr Rad im Blick haben.",
+                "hu": "Keressen olyan helyet, ahol rálát a lezárt kerékpárra.",
+                "ro": "Căutați un loc de unde puteți supraveghea bicicleta parcată.",
+                "en": "Look for a spot where you can keep an eye on your parked bike."
+              }
+            },
+            {
+              "name": "C-Mine",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgarage für trockenes Parken.",
+                "hu": "Használja a mélygarázst a kerékpár száraz tárolásához.",
+                "ro": "Folosiți parcarea subterană pentru a lăsa bicicleta la uscat.",
+                "en": "Use the underground parking to keep your bike dry for a while."
+              }
+            },
+            {
+              "name": "Thor Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei nassen Bahngleisen auf dem Gelände.",
+                "hu": "Vigyázzon a területen található nedves vasúti síneken.",
+                "ro": "Atenție la șinele de tren umede de pe platformă.",
+                "en": "Be careful when crossing wet train tracks on the premises."
+              }
+            },
+            {
+              "name": "Kattevennen",
+              "tip_5lang": {
+                "de": "Schutzhütten im Wald bieten Platz für eine kurze Rast.",
+                "hu": "Az erdei pihenőhelyek alkalmasak egy rövid megállóra.",
+                "ro": "Refugiile din pădure sunt utile pentru o scurtă odihnă.",
+                "en": "Forest shelters are available for a quick rest out of the rain."
+              }
+            },
+            {
+              "name": "Limburg Wildlife Park",
+              "tip_5lang": {
+                "de": "Rechnen Sie mit spritzendem Wasser auf den Naturwegen.",
+                "hu": "Számítson felverődő vízre és sárra a natúr utakon.",
+                "ro": "Așteptați-vă la noroi și apă pe potecile naturale.",
+                "en": "Expect splashing water and mud on the natural trails."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen; der Bremsweg ist bei Nässe länger.",
+              "Tragen Sie wasserfeste Kleidung und Gamaschen.",
+              "Vermeiden Sie Pfützen, da sie tiefer sein können als gedacht.",
+              "Nutzen Sie die Fahrradpumpe an den Servicestationen bei C-Mine.",
+              "Reinigen Sie die Kette nach der Fahrt von Schlamm und Salz."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, nedves úton hosszabb a féktáv.",
+              "Viseljen vízálló ruházatot és kamáslit.",
+              "Kerülje a tócsákat, mert mélyebbek lehetnek, mint aminek látszanak.",
+              "Használja a C-Mine-nál található ingyenes pumpákat.",
+              "A túra után tisztítsa meg a láncot a sártól."
+            ],
+            "ro": [
+              "Verificați frânele; distanța de frânare este mai mare pe ud.",
+              "Purtați haine impermeabile și protecții pentru încălțăminte.",
+              "Evitați bălțile, deoarece pot fi mai adânci decât par.",
+              "Folosiți stațiile de service pentru biciclete de la C-Mine.",
+              "Curățați lanțul de noroi imediat după încheierea traseului."
+            ],
+            "en": [
+              "Check your brakes; stopping distances are longer when wet.",
+              "Wear waterproof clothing and shoe covers (gaiters).",
+              "Avoid puddles as they can be deeper than they appear.",
+              "Make use of the free bike pumps at the C-Mine service station.",
+              "Clean your chain from mud and debris after the ride."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im winterlichen Genk ist erfrischend und bietet glasklare Aussichten. Starten Sie morgens in Bokrijk. Die gefrorene Landschaft rund um das 'Radfahren durch das Wasser' ist ein einmaliges Fotomotiv.\n\nMittags radeln Sie zur Vennestraat. Ein herzhaftes, warmes Essen ist wichtig, um die Körpertemperatur zu halten. Die kurzen Wege in der Stadt machen das Radfahren auch bei Kälte angenehm.\n\nAm Nachmittag stehen C-Mine und Thor Park auf dem Programm. Die tiefstehende Sonne wirft lange Schatten auf die Industrieanlagen, was eine dramatische Atmosphäre schafft. Achten Sie auf überfrierende Nässe.\n\nZum Abschluss führt der Weg nach Kattevennen. Die Stille im winterlichen Wald ist herrlich. Beenden Sie die Tour früh, da die Sicht im Wald nach 16:00 Uhr stark abnimmt.",
+            "hu": "A téli kerékpározás Genkben frissítő élmény és tiszta kilátást ígér. Kezdjen reggel Bokrijkben, ahol a zúzmarás táj a vízen keresztüli tekerésnél lenyűgöző látványt nyújt.\n\nDélben irány a Vennestraat. Egy kiadós meleg ebéd elengedhetetlen a testhőmérséklet megőrzéséhez. A városi távolságok rövidek, így a hidegben sem megterhelő a közlekedés.\n\nDélután a C-Mine és a Thor Park következik. Az alacsonyan járó nap hosszú árnyékokat vet az ipari épületekre, drámai hatást keltve. Vigyázzon a fagyfoltokra az úton.\n\nA napot Kattevennenben zárja. A téli erdő csendje páratlan. A túrát fejezze be időben, mert az erdőben 16 óra után már nagyon rosszak a látási viszonyok.",
+            "ro": "Ciclismul în Genk pe timp de iarnă este revigorant și oferă panorame clare. Începeți dimineața la Bokrijk. Peisajul înghețat din jurul pistei 'Cycling through Water' este un motiv fotografic unic.\n\nLa prânz, pedalați spre Vennestraat. O masă caldă și consistentă este esențială pentru a vă menține temperatura corpului. Distanțele scurte din oraș fac pedalatul plăcut chiar și pe frig.\n\nDupă-amiaza vizitați C-Mine și Thor Park. Soarele jos aruncă umbre lungi peste instalațiile industriale, creând o atmosferă dramatică. Atenție la porțiunile cu gheață pe pistă.\n\nLa final, traseul duce spre Kattevennen. Liniștea pădurii hibernale este superbă. Încheiați tura devreme, deoarece vizibilitatea în pădure scade drastic după ora 16:00.",
+            "en": "Cycling in winter Genk is refreshing and offers crystal-clear views. Start your morning in Bokrijk. The frosted landscape around 'Cycling through Water' provides a unique photographic opportunity.\n\nAt midday, cycle to Vennestraat. A hearty, warm meal is essential to keep your core temperature up. The short distances in the city make cycling manageable even in the cold.\n\nIn the afternoon, visit C-Mine and Thor Park. The low winter sun casts long shadows over the industrial sites, creating a dramatic atmosphere. Watch out for black ice on the paths.\n\nThe tour concludes at Kattevennen. The silence of the winter forest is wonderful. Finish your ride early, as visibility in the woods drops significantly after 4:00 PM."
+          },
+          "stops": [
+            {
+              "name": "Bokrijk Open-Air Museum",
+              "tip_5lang": {
+                "de": "Vorsicht bei Frost auf den Holzbrücken im Museum.",
+                "hu": "Vigyázzon a múzeum területén lévő fagyos fahidakkal.",
+                "ro": "Atenție la podurile de lemn din muzeu; pot fi înghețate.",
+                "en": "Be careful on the wooden bridges as they can be very icy."
+              }
+            },
+            {
+              "name": "Vennestraat for Lunch",
+              "tip_5lang": {
+                "de": "Warme Getränke sind ideal, um die Hände aufzuwärmen.",
+                "hu": "A forró italok segítenek felmelegíteni a kihűlt kezeket.",
+                "ro": "Băuturile calde sunt ideale pentru a vă încălzi mâinile.",
+                "en": "Hot drinks are ideal for warming up frozen hands quickly."
+              }
+            },
+            {
+              "name": "C-Mine",
+              "tip_5lang": {
+                "de": "Die Cafeteria bietet eine warme Pause zwischen den Etappen.",
+                "hu": "A büfé meleg pihenőhelyet kínál a szakaszok között.",
+                "ro": "Cafeneaua oferă un popas călduros între etapele traseului.",
+                "en": "The cafeteria provides a warm break between cycling stages."
+              }
+            },
+            {
+              "name": "Thor Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte in schattigen Bereichen.",
+                "hu": "Figyeljen az úthibákra és a fagyra az árnyékos részeken.",
+                "ro": "Atenție la polei în zonele umbrite ale parcului.",
+                "en": "Watch out for icy patches in the shaded areas of the park."
+              }
+            },
+            {
+              "name": "Kattevennen",
+              "tip_5lang": {
+                "de": "Die Wege können hartgefroren und uneben sein.",
+                "hu": "Az utak keményre fagyottak és egyenetlenek lehetnek.",
+                "ro": "Potecile pot fi înghețate bocnă și denivelate.",
+                "en": "The paths can be frozen solid and quite uneven."
+              }
+            },
+            {
+              "name": "Limburg Wildlife Park",
+              "tip_5lang": {
+                "de": "Beleuchtung am Rad ist wegen der frühen Dämmerung Pflicht.",
+                "hu": "A korai sötétedés miatt a világítás használata kötelező.",
+                "ro": "Luminile sunt obligatorii din cauza amurgului timpuriu.",
+                "en": "Bike lights are mandatory due to the early onset of dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Handschuhe und eine Mütze unter dem Helm.",
+              "Vermeiden Sie hektische Lenkbewegungen bei Glatteisgefahr.",
+              "Halten Sie die Fahrt kurz und planen Sie Aufwärmstopps ein.",
+              "Ein niedrigerer Reifendruck gibt auf Schnee mehr Grip.",
+              "Achten Sie auf Salzreste am Rad; nach der Tour abspülen."
+            ],
+            "hu": [
+              "Viseljen termokesztyűt és a sisak alatt sapkát.",
+              "Kerülje a hirtelen kormánymozdulatokat jegesedés esetén.",
+              "Tervezzen rövidebb etapokat több melegedő szünettel.",
+              "A kicsit alacsonyabb guminyomás jobb tapadást ad hóban.",
+              "A túra után mossa le a sót a kerékpárról."
+            ],
+            "ro": [
+              "Purtați mănuși termice și o căciulă subțire sub cască.",
+              "Evitați manevrele bruște dacă există risc de polei.",
+              "Planificați opriri frecvente pentru încălzire.",
+              "O presiune ușor scăzută în pneuri oferă aderență pe zăpadă.",
+              "Clătiți bicicleta de sare după ce ați terminat traseul."
+            ],
+            "en": [
+              "Wear thermal gloves and a thin hat under your helmet.",
+              "Avoid sudden steering movements if ice is suspected.",
+              "Keep the ride segments short with frequent warm-up stops.",
+              "Slightly lower tire pressure provides better grip on snow.",
+              "Rinse salt residues off your bike after the journey."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -913,6 +1275,196 @@
           "Plan enough time for traffic between locations.",
           "Many places are spacious, so wear comfortable shoes even if you arrive by car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Genk bei Regen absolut komfortabel. Beginnen Sie im Bokrijk Freilichtmuseum. Da Sie direkt parken können, minimieren Sie den Aufenthalt im Freien zwischen den historischen Gebäuden.\n\nMittags geht es zum Stadtzentrum. Parken Sie bequem in der Tiefgarage und schlendern Sie zur Vennestraat. Hier finden Sie die besten Restaurants für eine gemütliche Mittagspause im Trockenen.\n\nNachmittags besuchen Sie C-Mine und Kattevennen. Die kurzen Wege zwischen den Parkplätzen und den Eingängen machen den Tag stressfrei. Das Planetarium in Kattevennen ist ein ideales Indoor-Ziel bei Regen.\n\nDer Tag endet beim Wildlife Park. Genießen Sie die Fahrt durch die regnerischen Wälder von Limburg, bevor Sie den Abend in einem der Genker Restaurants ausklingen lassen.",
+            "hu": "Autóval az esős Genk felfedezése kényelmes és praktikus. Kezdje a Bokrijk szabadtéri múzeumban. Mivel közvetlenül a bejáratnál parkolhat, csak minimális időt kell töltenie a szakadó esőben.\n\nDélben irány a belváros. Használja a mélygarázsokat, és sétáljon át a Vennestraat-ra. Itt számos kiváló éttermet talál, ahol szárazon és kényelemben ebédelhet.\n\nDélután látogasson el a C-Mine-ba és Kattevennenbe. A parkolók közelsége miatt nem fog elázni a látnivalók között. A Kattevennen Planetáriuma remek benti program esőben.\n\nA napot a Vadasparknál zárja. Élvezze az autózást a limburgi esős erdőkben, mielőtt visszatérne a szállására vagy egy esti vacsorára.",
+            "ro": "Cu mașina, explorarea orașului Genk pe ploaie este extrem de confortabilă. Începeți la muzeul Bokrijk. Parcarea aflată chiar la intrare vă permite să minimizați timpul petrecut în ploaie între vizite.\n\nLa prânz, mergeți spre centrul orașului. Parcați în siguranță într-o parcare subterană și mergeți pe Vennestraat. Aici veți găsi restaurante primitoare pentru o pauză de prânz relaxantă.\n\nDupă-amiaza, vizitați C-Mine și Kattevennen. Distanțele scurte între parcare și intrări fac ziua lipsită de stres. Planetariul din Kattevennen este o destinație indoor ideală pe ploaie.\n\nZiua se încheie la Parcul Wildlife. Bucurați-vă de drumul prin pădurile ploioase din Limburg din confortul mașinii, înainte de a încheia seara la un restaurant local.",
+            "en": "Exploring Genk by car in the rain is both comfortable and efficient. Start at Bokrijk Open-Air Museum. With parking right at the entrance, you can minimize your time out in the rain between historic visits.\n\nAt midday, head to the city center. Park in an underground garage and walk to Vennestraat. You will find plenty of excellent restaurants here for a cozy lunch away from the wet weather.\n\nIn the afternoon, visit C-Mine and Kattevennen. The short distances between parking lots and entrances make for a stress-free day. The Cosmodrome in Kattevennen is a perfect indoor activity for a rainy afternoon.\n\nThe day ends near the Wildlife Park. Enjoy the scenic drive through the rainy Limburg forests before settling in for a pleasant dinner in town."
+          },
+          "stops": [
+            {
+              "name": "Bokrijk Open-Air Museum",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trockenen Fußes hineinzukommen.",
+                "hu": "Parkoljon a bejárathoz közel, hogy elkerülje az ázást.",
+                "ro": "Parcați aproape de intrare pentru a ajunge rapid la adăpost.",
+                "en": "Park close to the entrance to reach shelter as quickly as possible."
+              }
+            },
+            {
+              "name": "Arrive & Park in City Center",
+              "tip_5lang": {
+                "de": "Tiefgaragen wie 'Shopping 1' bieten trockenen Zugang zum Zentrum.",
+                "hu": "A 'Shopping 1' mélygarázs száraz kijutást biztosít a központba.",
+                "ro": "Parcările subterane precum 'Shopping 1' sunt ideale pe ploaie.",
+                "en": "Underground garages like 'Shopping 1' offer dry access to the center."
+              }
+            },
+            {
+              "name": "C-Mine",
+              "tip_5lang": {
+                "de": "Das Parkhaus ist direkt mit dem Kulturzentrum verbunden.",
+                "hu": "A parkolóház közvetlen összeköttetésben áll a központtal.",
+                "ro": "Parcarea este conectată direct cu centrul cultural.",
+                "en": "The parking structure is directly connected to the cultural center."
+              }
+            },
+            {
+              "name": "Lunch on Vennestraat",
+              "tip_5lang": {
+                "de": "Viele Restaurants haben regensichere Eingangsbereiche.",
+                "hu": "Sok étterem rendelkezik esővédett bejárattal.",
+                "ro": "Multe restaurante au zone de intrare protejate de ploaie.",
+                "en": "Many restaurants feature rain-protected entrance areas."
+              }
+            },
+            {
+              "name": "Kattevennen & Cosmodrome",
+              "tip_5lang": {
+                "de": "Das Cosmodrome ist ein hervorragendes Schlechtwetterziel.",
+                "hu": "A Cosmodrome kiváló választás rossz idő esetén.",
+                "ro": "Cosmodrome este o destinație excelentă pentru vreme rea.",
+                "en": "The Cosmodrome is an excellent indoor destination for rainy days."
+              }
+            },
+            {
+              "name": "Limburg Wildlife Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen für die Aussicht im Auto.",
+                "hu": "Szakadó esőben maradjon az autóban a kilátásért.",
+                "ro": "Rămâneți în mașină pentru a admira peisajul dacă plouă torențial.",
+                "en": "Stay in the car to enjoy the scenery if the rain is too heavy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Waldstraßen.",
+              "Nutzen Sie die Parkhäuser im Zentrum für maximalen Komfort.",
+              "Halten Sie einen Regenschirm im Auto für die Wege zum Eingang bereit.",
+              "Die Sicht kann in den bewaldeten Gebieten bei Regen eingeschränkt sein.",
+              "Prüfen Sie den Wischwasserstand vor der Fahrt."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra (aquaplaning) az erdei utakon.",
+              "A maximális kényelem érdekében használja a központi parkolóházakat.",
+              "Tartson esernyőt az autóban a bejáratig tartó rövid sétákhoz.",
+              "Az erdei szakaszokon esőben jelentősen romolhatnak a látási viszonyok.",
+              "Indulás előtt ellenőrizze az ablaktörlő folyadék szintjét."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile prin pădure.",
+              "Folosiți parcările etajate din centru pentru confort maxim.",
+              "Aveți o umbrelă în mașină pentru distanțele scurte până la intrări.",
+              "Vizibilitatea poate fi redusă în zonele împădurite în timpul ploii.",
+              "Verificați nivelul lichidului de parbriz înainte de plecare."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the forest roads.",
+              "Use multi-story car parks in the center for maximum convenience.",
+              "Keep an umbrella in the car for short walks to the entrances.",
+              "Visibility can be limited in wooded areas during heavy rain.",
+              "Check your windshield washer fluid level before starting the trip."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genk im Winter lässt sich mit dem Auto besonders entspannt erleben. Starten Sie in Bokrijk. Die frostigen Felder Limburgs bieten eine wunderschöne Kulisse für die morgendliche Fahrt zum Freilichtmuseum.\n\nMittags steuern Sie das Stadtzentrum an. Die beheizten Parkhäuser sorgen dafür, dass das Auto eisfrei bleibt, während Sie in der Vennestraat lokale Spezialitäten genießen.\n\nDer Nachmittag gehört C-Mine und Kattevennen. Das warme Auto ist zwischen den Besichtigungen der Industrie- und Naturdenkmäler ein willkommener Rückzugsort. In Kattevennen lohnt ein Besuch der Sternwarte im Dunkeln.\n\nDer Tag endet beim Wildlife Park. Bei klarer Winternacht ist die Fahrt zurück nach Genk besonders stimmungsvoll. Achten Sie auf die Wildwechsel-Warnungen in der Dämmerung.",
+            "hu": "A téli Genk autóval kényelmesen felfedezhető. Kezdje a reggelt Bokrijkben. A limburgi táj zúzmarás mezői gyönyörű látványt nyújtanak a múzeum felé vezető úton.\n\nDélben irány a belváros. A fűtött vagy fedett parkolók megvédik az autót a jegesedéstől, amíg Ön a Vennestraat finomságait kóstolja.\n\nDélután látogasson el a C-Mine-ba és Kattevennenbe. A meleg utastér igazi menedék két látnivaló között. Kattevennenben sötétedés után érdemes felkeresni a csillagvizsgálót.\n\nA napot a Vadasparknál zárja. A tiszta téli éjszakán az autózás visszavezető úton nagyon hangulatos. Figyeljen a vadakra figyelmeztető táblákra a szürkületben.",
+            "ro": "Genk pe timp de iarnă se experimentează cel mai relaxat cu mașina. Începeți la Bokrijk. Câmpiile înghețate din Limburg oferă un decor superb pentru drumul de dimineață spre muzeu.\n\nLa prânz, mergeți spre centrul orașului. Parcările acoperite vă asigură că mașina nu îngheață în timp ce savurați specialități locale pe Vennestraat.\n\nDupă-amiaza vizitați C-Mine și Kattevennen. Mașina încălzită este un refugiu binevenit între vizitele la monumentele industriale și naturale. La Kattevennen, merită să vizitați observatorul după lăsarea serii.\n\nZiua se încheie la Parcul Wildlife. Într-o noapte senină de iarnă, drumul de întoarcere spre Genk este foarte atmosferic. Atenție la animalele sălbatice care pot traversa drumul la amurg.",
+            "en": "Experiencing winter in Genk by car is a relaxed and cozy affair. Start your day in Bokrijk. The frost-covered fields of Limburg provide a beautiful backdrop for your morning drive to the museum.\n\nAt midday, head to the city center. Indoor parking keeps your car frost-free while you enjoy local specialties along Vennestraat.\n\nIn the afternoon, visit C-Mine and Kattevennen. Your warm vehicle serves as a welcome retreat between exploring industrial sites and nature landmarks. In Kattevennen, a visit to the observatory is worthwhile after dark.\n\nThe day ends at the Wildlife Park. On a clear winter night, the drive back to Genk is very atmospheric. Be mindful of wildlife crossing warnings during the early twilight hours."
+          },
+          "stops": [
+            {
+              "name": "Bokrijk Open-Air Museum",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf dem großen Parkplatz.",
+                "hu": "Vigyázzon, a nagy parkoló jeges lehet.",
+                "ro": "Atenție la polei în parcarea mare a muzeului.",
+                "en": "Be careful as the large parking lot can be very icy."
+              }
+            },
+            {
+              "name": "Arrive & Park in City Center",
+              "tip_5lang": {
+                "de": "Parkhäuser sind im Winter komfortabler als Straßenparkplätze.",
+                "hu": "A parkolóházak télen kényelmesebbek az utcai parkolásnál.",
+                "ro": "Parcările etajate sunt mai confortabile iarna decât cele stradale.",
+                "en": "Multi-story car parks are more convenient than street parking in winter."
+              }
+            },
+            {
+              "name": "C-Mine",
+              "tip_5lang": {
+                "de": "Lassen Sie keine dicken Jacken sichtbar im Auto liegen.",
+                "hu": "Ne hagyjon látható helyen értékes kabátot az autóban.",
+                "ro": "Nu lăsați haine groase la vedere în interiorul mașinii.",
+                "en": "Do not leave heavy coats or valuables visible inside the car."
+              }
+            },
+            {
+              "name": "Lunch on Vennestraat",
+              "tip_5lang": {
+                "de": "Die Restaurants sind im Winter oft gut besucht; Reservierung hilft.",
+                "hu": "Az éttermek télen népszerűek; érdemes asztalt foglalni.",
+                "ro": "Restaurantele sunt aglomerate iarna; o rezervare ajută.",
+                "en": "Restaurants are busy in winter; a reservation might be helpful."
+              }
+            },
+            {
+              "name": "Kattevennen & Cosmodrome",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Sternwarte bei Einbruch der Dunkelheit.",
+                "hu": "Sötétedéskor látogassa meg a csillagvizsgálót.",
+                "ro": "Vizitați observatorul imediat ce se lasă întunericul.",
+                "en": "Visit the observatory as soon as darkness falls for the best view."
+              }
+            },
+            {
+              "name": "Limburg Wildlife Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Wildwechsel auf den unbeleuchteten Straßen.",
+                "hu": "Figyeljen a vadakra a kivilágítatlan erdei utakon.",
+                "ro": "Atenție la animale pe drumurile neiluminate din pădure.",
+                "en": "Watch out for wildlife on the unlit roads through the forest."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser Region bei Frost dringend empfohlen.",
+              "Führen Sie einen Eiskratzer und Handfeger mit.",
+              "Achten Sie auf Wildtiere, die in der Dämmerung die Straße queren.",
+              "Heizen Sie das Auto nicht im Stand warm, das ist verboten.",
+              "Prüfen Sie vorab die Öffnungszeiten der Attraktionen im Winter."
+            ],
+            "hu": [
+              "A téli gumi használata a régióban fagy esetén erősen ajánlott.",
+              "Legyen az autóban jégkaparó és kefe.",
+              "Figyeljen a vadakra, amik szürkületben gyakran átfutnak az úton.",
+              "Ne járassa álló helyzetben a motort a melegítéshez, tilos.",
+              "Indulás előtt ellenőrizze a látnivalók téli nyitvatartását."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în regiune pe timp de îngheț.",
+              "Aveți întotdeauna o răzuitoare de gheață și o perie în mașină.",
+              "Atenție la animalele care traversează drumul la amurg.",
+              "Nu încălziți mașina pe loc, acest lucru este interzis.",
+              "Verificați programul de iarnă al atracțiilor înainte de plecare."
+            ],
+            "en": [
+              "Winter tires are highly recommended in this region during frost.",
+              "Always carry an ice scraper and a snow brush in your car.",
+              "Watch for wildlife crossing the roads during twilight hours.",
+              "Do not idle your engine to warm up the car; it is prohibited.",
+              "Check the winter opening hours of attractions before you leave."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1200,6 +1752,178 @@
           "Pay attention to the bus schedules, especially for the return trip from Bokrijk.",
           "Validate your ticket every time you board the bus."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genks öffentlicher Nahverkehr bringt Sie bei Regen trocken ans Ziel. Starten Sie am Bahnhof und nehmen Sie den Bus nach Bokrijk. Die kurzen Wege von der Bushaltestelle zum Museumseingang sind ideal.\n\nMittags kehren Sie ins Zentrum zurück. Die Busse halten oft direkt in der Nähe der Vennestraat, sodass Sie kaum im Regen laufen müssen. Ein warmes Mittagessen in der 'Straße der Sinne' wärmt wieder auf.\n\nNachmittags fahren Sie mit dem Bus zur C-Mine. Die Industriekultur lässt sich hervorragend drinnen erkunden. Danach bietet sich eine Fahrt zurück zum Bahnhof an, wobei Sie die regnerische Stadt aus dem Busfenster beobachten.\n\nDer Tag endet mit einem Besuch der St.-Martins-Kirche. Sie liegt zentral und ist vom Busknotenpunkt aus schnell erreichbar, bevor Sie Ihre Heimreise antreten.",
+            "hu": "Genk tömegközlekedése esőben is megbízható és szárazon tartja. Kezdjen a vasútállomáson, ahonnan busszal juthat el Bokrijkbe. A megálló és a bejárat közötti rövid séta esőben is kibírható.\n\nDélben térjen vissza a központba. A buszok gyakran a Vennestraat közvetlen közelében állnak meg, így alig kell az esőben gyalogolnia. Egy meleg ebéd a 'Szenvedélyek utcájában' jól fog esni.\n\nDélután buszozzon el a C-Mine-hoz. Az ipari kiállítások fedettek, így az időjárás nem zavarja a látogatást. A buszablakból nézve az esős város is érdekes arcát mutatja.\n\nA napot a Szent Márton-templomnál zárja. A központi buszcsomóponttól pár percre található, így kényelmesen elérheti a vonatát vagy a következő buszát.",
+            "ro": "Transportul public din Genk vă ajută să rămâneți uscat în zilele ploioase. Începeți la gară și luați autobuzul spre Bokrijk. Distanța scurtă de la stație la intrarea în muzeu este ideală pe ploaie.\n\nLa prânz, reveniți în centru. Autobuzele opresc foarte aproape de Vennestraat, minimizând mersul pe jos prin ploaie. Un prânz cald pe 'Strada Simțurilor' vă va revigora.\n\nDupă-amiaza, mergeți cu autobuzul la C-Mine. Istoria industrială poate fi explorată la interior. Apoi, puteți admira orașul ploios de pe fereastra autobuzului în drum spre gară.\n\nZiua se încheie la Biserica Sfântul Martin. Este situată central și rapid accesibilă din nodul de transport public, înainte de a pleca spre casă.",
+            "en": "Genk's public transit system keeps you dry while moving between sights in the rain. Start at the station and take the bus to Bokrijk. The short walk from the bus stop to the museum entrance is perfect for wet weather.\n\nAt midday, return to the center. Buses often stop right near Vennestraat, meaning very little time spent walking in the rain. A warm lunch on the 'Street of Senses' will help you dry off.\n\nIn the afternoon, take the bus to C-Mine. The industrial heritage is mostly indoors, making it a great rainy-day choice. Enjoy the view of the rainy city from the bus window on your way back.\n\nThe day concludes with a visit to Saint Martin's Church. It is centrally located and easily reachable from the main transit hub before you catch your train or bus home."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Genk Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle auf Ihren Anschlussbus.",
+                "hu": "Várja a csatlakozó buszt az állomás várótermében.",
+                "ro": "Așteptați autobuzul de legătură în interiorul gării.",
+                "en": "Wait for your connecting bus inside the dry station hall."
+              }
+            },
+            {
+              "name": "Trip to Bokrijk Open-Air Museum",
+              "tip_5lang": {
+                "de": "Die Buslinie 1 verbindet den Bahnhof schnell mit Bokrijk.",
+                "hu": "Az 1-es buszvonal gyorsan összeköti az állomást Bokrijkkal.",
+                "ro": "Linia de autobuz 1 face legătura rapidă între gară și Bokrijk.",
+                "en": "Bus line 1 provides a quick connection between the station and Bokrijk."
+              }
+            },
+            {
+              "name": "Trip to C-Mine",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Echtzeit-App, um Regenwartezeiten zu minimieren.",
+                "hu": "Használja a menetrendi appot, hogy ne kelljen sokat várnia kint.",
+                "ro": "Folosiți aplicația de transport pentru a minimiza timpul de așteptare.",
+                "en": "Use the transit app to minimize waiting time in the rain."
+              }
+            },
+            {
+              "name": "Walk to Vennestraat",
+              "tip_5lang": {
+                "de": "Wählen Sie den kürzesten Weg von der Bushaltestelle 'Genk Shopping'.",
+                "hu": "Válassza a legrövidebb utat a 'Genk Shopping' megállótól.",
+                "ro": "Alegeți drumul cel mai scurt de la stația 'Genk Shopping'.",
+                "en": "Take the shortest path from the 'Genk Shopping' bus stop."
+              }
+            },
+            {
+              "name": "Saint Martin's Church",
+              "tip_5lang": {
+                "de": "Die Kirche ist nur 5 Minuten zu Fuß vom Busbahnhof entfernt.",
+                "hu": "A templom mindössze 5 perc séta a buszpályaudvartól.",
+                "ro": "Biserica este la doar 5 minute de mers de autogară.",
+                "en": "The church is only a 5-minute walk from the main bus station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Holen Sie sich eine Tageskarte für unbegrenzte Fahrten.",
+              "Die Busse sind im Winter und bei Regen meist pünktlich.",
+              "In der 'De Lijn' App finden Sie alle aktuellen Abfahrten.",
+              "Einige Haltestellen haben kleine Unterstände gegen Regen.",
+              "Achten Sie auf rutschige Böden beim Ein- und Aussteigen."
+            ],
+            "hu": [
+              "Váltson napijegyet a korlátlan utazáshoz.",
+              "A buszok esőben és télen is többnyire pontosak.",
+              "A 'De Lijn' alkalmazásban minden aktuális indulást megtalál.",
+              "Néhány megálló fedett, ami jól jön szakadó esőben.",
+              "Vigyázzon, a buszok padlója vizesen csúszós lehet."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+              "Autobuzele sunt de regulă punctuale și pe timp de ploaie.",
+              "Găsiți toate plecările actualizate în aplicația 'De Lijn'.",
+              "Unele stații au adăposturi mici împotriva ploii.",
+              "Atenție la podeaua alunecoasă a autobuzului când urcați sau coborâți."
+            ],
+            "en": [
+              "Get a day pass for unlimited travel throughout Genk.",
+              "Buses are generally punctual even during rainy weather.",
+              "Check the 'De Lijn' app for all real-time departure info.",
+              "Some bus stops feature small shelters to keep you dry.",
+              "Be careful of slippery floors when boarding or exiting buses."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Wärme der Busse, um Genk im Winter zu erkunden. Starten Sie am Bahnhof und lassen Sie sich bequem nach Bokrijk bringen. Die winterliche Fahrt durch die karge Landschaft hat ihren eigenen Reiz.\n\nMittags kehren Sie ins Zentrum zurück. Die Busse sind gut beheizt und bieten eine Pause von der eisigen Luft. Von der Haltestelle ist es nur ein kurzer Sprung in die gemütlichen Lokale der Vennestraat.\n\nNachmittags führt die Fahrt zur C-Mine. Die Industriegeschichte im Warmen zu erleben, ist im Winter ideal. Danach können Sie den Sonnenuntergang aus dem Bus beobachten, während Sie zurück in die Stadt fahren.\n\nDer Tag endet an der St.-Martins-Kirche. Das gedämpfte Licht im Inneren und die Nähe zum Busbahnhof machen diesen Ort zum perfekten Abschluss eines kalten Wintertages.",
+            "hu": "Élvezze a fűtött buszok kényelmét a téli Genkben. Kezdjen a vasútállomáson, és utazzon kényelmesen Bokrijkbe. A téli, zúzmarás táj az ablakból nézve is gyönyörű.\n\nDélben térjen vissza a belvárosba. A buszok kellemes melege után csak egy rövid séta várja a Vennestraat hangulatos éttermeiig, ahol tovább melegedhet.\n\nDélután irány a C-Mine. A benti kiállítások a legjobb választások fagyos időben. Hazafelé a buszról csodálhatja meg a korai naplementét az ipari tornyok felett.\n\nA napot a Szent Márton-templomnál zárja. A templom belső békéje és a buszpályaudvar közelsége miatt ez a legideálisabb befejezés a hideg téli napon.",
+            "ro": "Folosiți căldura autobuzelor pentru a explora Genk iarna. Începeți la gară și lăsați-vă purtat confortabil spre Bokrijk. Drumul prin peisajul hibernal are un farmec aparte văzut de la fereastră.\n\nLa prânz, reveniți în centru. Autobuzele bine încălzite oferă o pauză necesară de la aerul înghețat. De la stație, ajungeți rapid în restaurantele primitoare de pe Vennestraat.\n\nDupă-amiaza, mergeți la C-Mine. Vizitarea expozițiilor la căldură este ideală pe timp de iarnă. Apoi, puteți admira apusul din autobuz în drum spre centrul orașului.\n\nZiua se încheie la Biserica Sfântul Martin. Lumina caldă din interior și proximitatea față de nodul de transport fac din acest loc finalul perfect pentru o zi rece de iarnă.",
+            "en": "Make use of the warm buses to explore Genk comfortably during winter. Start at the station and enjoy a heated ride to Bokrijk. The winter scenery from the window has a special, quiet charm.\n\nAt midday, return to the city center. The heated buses offer a welcome respite from the freezing air outside. From your stop, it's just a quick dash into the cozy eateries of Vennestraat.\n\nIn the afternoon, head to C-Mine. Exploring industrial history indoors is a perfect winter activity. Enjoy the early sunset from the bus window as you travel back towards the heart of town.\n\nThe day concludes at Saint Martin's Church. The soft interior lighting and proximity to the bus station make it an ideal final stop on a cold winter day."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Genk Station",
+              "tip_5lang": {
+                "de": "Die Bahnhofshalle ist im Winter beheizt.",
+                "hu": "Az állomás váróterme télen fűtött.",
+                "ro": "Gara este încălzită pe timpul iernii.",
+                "en": "The station hall is heated during the winter months."
+              }
+            },
+            {
+              "name": "Trip to Bokrijk Open-Air Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winter-Fahrplan; Busse fahren eventuell seltener.",
+                "hu": "Ellenőrizze a téli menetrendet; a buszok ritkábban járhatnak.",
+                "ro": "Verificați programul de iarnă; autobuzele pot circula mai rar.",
+                "en": "Check the winter schedule as buses might run less frequently."
+              }
+            },
+            {
+              "name": "Trip to C-Mine",
+              "tip_5lang": {
+                "de": "Warten Sie an Haltestellen mit digitaler Anzeige.",
+                "hu": "Várjon olyan megállókban, ahol van digitális kijelző.",
+                "ro": "Așteptați în stațiile care au afișaj digital în timp real.",
+                "en": "Wait at bus stops that feature digital real-time displays."
+              }
+            },
+            {
+              "name": "Walk to Vennestraat",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis an den Bushaltestellen.",
+                "hu": "Vigyázzon a megállók környékén a jegesedésre.",
+                "ro": "Atenție la polei în zona stațiilor de autobuz.",
+                "en": "Be careful of black ice around the bus stop areas."
+              }
+            },
+            {
+              "name": "Saint Martin's Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um sich vor dem Zug aufzuwärmen.",
+                "hu": "Csendes hely a felmelegedésre a vonat indulása előtt.",
+                "ro": "Un loc liniștit unde vă puteți încălzi înainte de tren.",
+                "en": "A quiet place to warm up before catching your train."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'De Lijn' App für aktuelle Winterinfos.",
+              "Die Busbahnhöfe haben oft geheizte Wartebereiche.",
+              "Planen Sie Pufferzeiten für Verspätungen bei Schneefall ein.",
+              "Tragen Sie warme Kleidung, da das Warten draußen kalt sein kann.",
+              "Verstauen Sie nasse Schirme sicher im Bus."
+            ],
+            "hu": [
+              "Használja a 'De Lijn' appot az aktuális téli hírekért.",
+              "A buszpályaudvarokon gyakran van fűtött váróterem.",
+              "Számoljon némi késéssel, ha havazik.",
+              "Öltözzön melegen, a megállóban várakozás hideg lehet.",
+              "A vizes esernyőket tartsa biztonságosan a buszon."
+            ],
+            "ro": [
+              "Folosiți aplicația 'De Lijn' pentru informații actualizate.",
+              "Autogările au adesea zone de așteptare încălzite.",
+              "Luați în calcul posibile întârzieri dacă ninge abundent.",
+              "Îmbrăcați-vă bine, așteptarea în stație poate fi geroasă.",
+              "Depozitați umbrelele umede cu grijă în interiorul autobuzului."
+            ],
+            "en": [
+              "Use the 'De Lijn' app for real-time winter updates.",
+              "Main bus stations often feature heated waiting areas.",
+              "Allow extra time for potential delays during snowfall.",
+              "Dress warmly, as waiting at the stop can be very cold.",
+              "Store wet umbrellas securely while riding on the bus."
+            ]
+          }
+        }
       }
     }
   }

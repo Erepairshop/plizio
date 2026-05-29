@@ -313,6 +313,170 @@
           "Most shops close for an afternoon siesta, so plan your shopping accordingly.",
           "Look out for the water taxis, a quick way to get to nearby beaches."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt an der Uferpromenade, wo die Gischt mit dem Regen verschmilzt. Das Archäologische Museum bietet einen trockenen Rückzugsort für den Vormittag. Mittags führt der Weg zur Kathedrale von Agios Georgios, bevor es trotz Schauern zum Uhrturm hinaufgeht. Der Abend klingt bei einem warmen Essen in einer geschützten Taverne in den engen Gassen gemütlich aus.",
+            "hu": "Az esős reggel a kikötői sétányon indul, ahol az esernyők alatt figyelhetjük a vizet. Az Archéológiai Múzeum kiváló menedék a délelőtti záporok idején. Délben a Szent György-székesegyházat látogatjuk meg, majd az óratoronyhoz kaptatunk fel a szürke panorámáért. Az estét egy eldugott taverna melegében zárjuk, élvezve a görög vendégszeretetet és a forró ételeket.",
+            "ro": "O dimineață ploioasă începe pe faleză, unde stropii se amestecă cu briza mării. Muzeul de Arheologie oferă un refugiu uscat pentru explorare. La prânz vizităm Catedrala Agios Georgios, apoi urcăm la turnul cu ceas în ciuda vremii. Seara se încheie confortabil într-o tavernă primitoare, feriți de ploaie, cu preparate locale calde și un pahar de vin.",
+            "en": "A rainy morning begins on the waterfront promenade, where umbrellas dot the shoreline. The Archaeological Museum provides a dry sanctuary for the forenoon. At noon, visit the Cathedral of Agios Georgios before climbing to the clock tower for a moody view. The evening concludes warmly in a sheltered taverna, enjoying hot Greek specialties while the rain falls outside."
+          },
+          "stops": [
+            {
+              "name": "Poros Waterfront Promenade",
+              "tip_5lang": {
+                "de": "Regenschirm und rutschfeste Schuhe sind hier wichtig.",
+                "hu": "Esernyő és csúszásmentes lábbeli ajánlott a sétányon.",
+                "ro": "Umbrela și încălțămintea antiderapantă sunt esențiale aici.",
+                "en": "Umbrella and non-slip shoes are essential on the promenade."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Poros",
+              "tip_5lang": {
+                "de": "Idealer Ort, um einen starken Regenschauer abzuwarten.",
+                "hu": "Ideális hely egy komolyabb zápor átvészelésére.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei averse puternice.",
+                "en": "Ideal spot to wait out a heavy rain shower."
+              }
+            },
+            {
+              "name": "Cathedral of Agios Georgios",
+              "tip_5lang": {
+                "de": "Die Innenräume bieten Schutz und Ruhe vor dem Wetter.",
+                "hu": "A belső tér menedéket és nyugalmat nyújt az eső elől.",
+                "ro": "Interiorul oferă adăpost și liniște departe de vremea rea.",
+                "en": "The interior provides shelter and peace from the weather."
+              }
+            },
+            {
+              "name": "Clock Tower of Poros",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aufstieg, die Steinstufen sind bei Nässe glatt.",
+                "hu": "Vigyázat felfelé, a kőlépcsők nedvesen nagyon csúsznak.",
+                "ro": "Atenție la urcare, treptele de piatră sunt alunecoase când sunt ude.",
+                "en": "Be careful climbing up; the stone steps are slippery when wet."
+              }
+            },
+            {
+              "name": "Dinner at a Taverna",
+              "tip_5lang": {
+                "de": "Wählen Sie eine Taverne mit überdachtem Außenbereich.",
+                "hu": "Válasszon fedett teraszos vagy belső terű tavernát.",
+                "ro": "Alegeți o tavernă cu terasă acoperită sau spațiu interior.",
+                "en": "Choose a taverna with a covered terrace or indoor seating."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das Museum als primären Schutzpunkt bei Starkregen.",
+              "Tragen Sie wasserfeste Schuhe für die kopfsteingepflasterten Gassen.",
+              "Die Tavernen am Hafen haben oft Planen gegen Wind und Regen.",
+              "Ein Besuch in der Kathedrale ist mittags eine trockene Alternative."
+            ],
+            "hu": [
+              "Használja a múzeumot fő menedékként heves esőzés idején.",
+              "Viseljen vízálló cipőt a macskaköves szűk utcákhoz.",
+              "A kikötői tavernák többsége ponyvával véd a széltől és esőtől.",
+              "A katedrális látogatása délben kiváló száraz program."
+            ],
+            "ro": [
+              "Folosiți muzeul ca punct principal de adăpost în caz de ploaie.",
+              "Purtați încălțăminte impermeabilă pentru străzile pavate.",
+              "Tavernele din port au adesea prelate împotriva vântului și ploii.",
+              "Vizitarea catedralei la prânz este o alternativă uscată excelentă."
+            ],
+            "en": [
+              "Use the museum as your primary shelter during heavy downpours.",
+              "Wear waterproof shoes for the cobblestone alleys of the old town.",
+              "Waterfront tavernas often have covers against wind and rain.",
+              "Visiting the cathedral at noon is a great dry indoor activity."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Wintermorgenluft am Hafen von Poros wirkt belebend und klar. Nach dem Museumsbesuch am Vormittag wärmt die Mittagssonne in der Kathedrale auf. Da die Sonne bereits gegen 17:15 Uhr untergeht, steigen wir am frühen Nachmittag zum Uhrturm hinauf. Der Winterabend in der Altstadt ist ruhig und gehört ganz den Einheimischen in den gemütlichen Lokalen.",
+            "hu": "A hűvös téli reggel Poros kikötőjében frissítő és tiszta élmény. A múzeumi látogatás után délben a katedrális békéje és viszonylagos melege vár. Mivel a nap már 17:15 körül lemegy, kora délután érdemes felmenni az óratoronyhoz. A téli este az óvárosban csendes, ilyenkor a tavernákban az igazi helyi hangulatot ismerhetjük meg.",
+            "ro": "Aerul răcoros al dimineții de iarnă în portul Poros este revigorant. După vizita la muzeu, la prânz ne bucurăm de liniștea catedralei. Deoarece soarele apune în jur de ora 17:15, urcăm la turnul cu ceas la începutul după-amiezii. Seara de iarnă în orașul vechi este liniștită, aparținând localnicilor din tavernele primitoare.",
+            "en": "The cool winter morning air at Poros harbor is refreshing and clear. After a morning museum visit, the cathedral provides a peaceful midday stop. Since the sun sets around 5:15 PM, climb to the clock tower in the early afternoon for the light. Winter evenings in the old town are quiet, letting you enjoy the local atmosphere in cozy eateries."
+          },
+          "stops": [
+            {
+              "name": "Poros Waterfront Promenade",
+              "tip_5lang": {
+                "de": "Warme Kleidung schützt vor dem kühlen Seewind.",
+                "hu": "A réteges öltözködés fontos a hűvös tengeri szélben.",
+                "ro": "Îmbrăcămintea groasă vă protejează de vântul rece al mării.",
+                "en": "Warm layers will protect you from the cool sea breeze."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Poros",
+              "tip_5lang": {
+                "de": "Prüfen Sie die kürzeren Winteröffnungszeiten vorab.",
+                "hu": "Ellenőrizze előre a rövidebb téli nyitvatartást.",
+                "ro": "Verificați programul de iarnă redus înainte de vizită.",
+                "en": "Check the shorter winter opening hours in advance."
+              }
+            },
+            {
+              "name": "Cathedral of Agios Georgios",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Besinnung abseits der Kälte.",
+                "hu": "Csendes hely az elmélyüléshez, távol a kinti hidegtől.",
+                "ro": "Un loc liniștit pentru reflecție, departe de frigul exterior.",
+                "en": "A quiet place for reflection, away from the outdoor cold."
+              }
+            },
+            {
+              "name": "Clock Tower of Poros",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist hier im Winter besonders früh.",
+                "hu": "A naplemente télen kifejezetten korán van innen nézve.",
+                "ro": "Apusul de soare este deosebit de timpuriu aici iarna.",
+                "en": "The sunset is particularly early from here in winter."
+              }
+            },
+            {
+              "name": "Dinner at a Taverna",
+              "tip_5lang": {
+                "de": "Genießen Sie typische Wintergerichte wie Stifado.",
+                "hu": "Kóstolja meg a téli ételeket, például a stifadót.",
+                "ro": "Savurați mâncăruri de iarnă, cum ar fi stifado.",
+                "en": "Enjoy typical winter dishes like warm stifado."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schichten, da es im Schatten kühler ist.",
+              "Beachten Sie den frühen Sonnenuntergang gegen 17:15 Uhr.",
+              "Kleinere Läden haben im Winter oft eingeschränkte Zeiten.",
+              "Ein heißes Getränk am Hafen ist nach dem Uhrturm ideal."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert az árnyékban sokkal hűvösebb van.",
+              "Számoljon a korai, 17:15 körüli naplementével.",
+              "A kisboltok télen korlátozott ideig tarthatnak nyitva.",
+              "Egy forró ital a kikötőben ideális az óratorony után."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, e mult mai rece la umbră.",
+              "Țineți cont de apusul de soare timpuriu, la ora 17:15.",
+              "Magazinele mici au program limitat în timpul iernii.",
+              "O băutură caldă în port este ideală după urcarea la turn."
+            ],
+            "en": [
+              "Wear layers, as it is significantly cooler in the shade.",
+              "Keep in mind the early sunset around 5:15 PM.",
+              "Small shops often have limited hours during the winter.",
+              "A hot drink at the harbor is ideal after the clock tower climb."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -643,6 +807,188 @@
           "Some beaches have bike racks available.",
           "Wear a hat and sunscreen as there is little shade on the road."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Mieten eines Fahrrads mit Schutzblechen ist bei Regen unerlässlich für den Start am Hafen. Der kurze Stopp am Uhrturm bietet einen Blick auf die wolkenverhangene Bucht. Die Fahrt zur Russischen Marinestation führt über nasse Küstenstraßen, die Vorsicht erfordern. Ein langes Mittagessen in Askeli hilft beim Trocknen, bevor es am späten Nachmittag zurück in die Stadt geht.",
+            "hu": "Esőben elengedhetetlen a sárvédővel felszerelt kerékpár bérlése a kikötőben. Az óratoronynál tett rövid megálló rálátást ad a felhős öbölre. Az orosz tengerészeti bázishoz vezető út nedves aszfalton óvatosságot igényel. Egy hosszú ebéd Askeliben segít megszáradni, mielőtt késő délután visszatekernénk a városba a leadáshoz.",
+            "ro": "Închirierea unei biciclete cu aripi de protecție este esențială pe ploaie la plecarea din port. Scurta oprire la turn oferă o priveliște asupra golfului acoperit de nori. Drumul spre Stația Navală Rusă necesită prudență pe carosabilul umed. Un prânz prelungit în Askeli vă ajută să vă uscați înainte de returnarea bicicletei.",
+            "en": "Renting a bike with mudguards is essential for a rainy start at the harbor. A quick stop at the clock tower offers views of the cloud-covered bay. Cycling to the Russian Naval Station on wet coastal roads requires extra focus. A long lunch in Askeli helps you dry off before returning to town in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental on the Promenade",
+              "tip_5lang": {
+                "de": "Fragen Sie unbedingt nach einem Rad mit Schutzblechen.",
+                "hu": "Mindenképpen sárvédős kerékpárt kérjen a kölcsönzőben.",
+                "ro": "Cereți neapărat o bicicletă cu aripi de protecție.",
+                "en": "Be sure to ask for a bike with mudguards at the rental."
+              }
+            },
+            {
+              "name": "Clock Tower of Poros",
+              "tip_5lang": {
+                "de": "Fahrrad sicher abstellen, da der Boden rutschig sein kann.",
+                "hu": "Biztonságosan támassza le a biciklit a csúszós talajon.",
+                "ro": "Parcați bicicleta în siguranță, solul poate fi alunecos.",
+                "en": "Park your bike securely; the ground can be slippery."
+              }
+            },
+            {
+              "name": "Russian Naval Station",
+              "tip_5lang": {
+                "de": "Die Ruinen bieten nur begrenzten Schutz vor Regen.",
+                "hu": "A romok csak korlátozott védelmet nyújtanak az eső ellen.",
+                "ro": "Ruinele oferă adăpost limitat împotriva ploii.",
+                "en": "The ruins offer only limited shelter from the rain."
+              }
+            },
+            {
+              "name": "Love Bay",
+              "tip_5lang": {
+                "de": "Die Bäume bieten etwas Schutz bei leichtem Nieselregen.",
+                "hu": "A fák némi védelmet nyújtanak szemerkélő esőben.",
+                "ro": "Copacii oferă puțin adăpost în caz de burniță.",
+                "en": "The trees provide some shelter during light drizzle."
+              }
+            },
+            {
+              "name": "Lunch in Askeli",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit, um die Kleidung zu trocknen.",
+                "hu": "Használja ki az időt a ruházat megszárítására.",
+                "ro": "Folosiți timpul pentru a vă usca hainele.",
+                "en": "Use this time to dry off your gear and clothing."
+              }
+            },
+            {
+              "name": "Bike Return & Stroll",
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig auf den nassen Straßen.",
+                "hu": "Fékezzen időben a nedves aszfalton a városban.",
+                "ro": "Frânați din timp pe străzile umede din oraș.",
+                "en": "Brake early on the wet streets within the town."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie schnelle Kurven auf nassem Asphalt.",
+              "Tragen Sie eine helle Regenjacke beim Radfahren.",
+              "Prüfen Sie die Bremsen des Leihrads vor der Abfahrt.",
+              "Suchen Sie bei Gewitter sofort festen Unterschlupf."
+            ],
+            "hu": [
+              "Kerülje a hirtelen kanyarodást a nedves aszfalton.",
+              "Viseljen feltűnő esőkabátot kerékpározás közben.",
+              "Indulás előtt ellenőrizze a bérkerékpár fékjeit.",
+              "Vihar esetén azonnal keressen szilárd menedéket."
+            ],
+            "ro": [
+              "Evitați virajele bruște pe asfaltul umed.",
+              "Purtați o jachetă de ploaie vizibilă în timp ce pedalați.",
+              "Verificați frânele bicicletei înainte de plecare.",
+              "Căutați adăpost imediat în caz de furtună."
+            ],
+            "en": [
+              "Avoid sharp turns on wet asphalt surfaces.",
+              "Wear a bright rain jacket while cycling for visibility.",
+              "Test the rental bike's brakes before starting your trip.",
+              "Seek solid shelter immediately if a storm starts."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag auf dem Rad beginnt mit frischem Wind an der Promenade. Der Aufstieg zum Uhrturm sorgt für erste Wärme, während man die klare Fernsicht genießt. Die Fahrt zur Russischen Marinestation ist im Winter angenehm ruhig, da kaum Autos unterwegs sind. Nach einem stärkenden Mittagessen in Askeli führt der Rückweg entlang der Küste pünktlich zum frühen Sonnenuntergang zurück.",
+            "hu": "A téli nap a biciklin friss széllel indul a sétányon. Az óratoronyhoz vezető emelkedő segít bemelegedni a tiszta kilátás előtt. Az orosz tengerészeti bázishoz vezető út télen kellemesen csendes, kevés az autó. Egy kiadós askeli ebéd után a tengerpart mentén tekerünk vissza, éppen a korai naplemente idejére.",
+            "ro": "O zi de iarnă pe bicicletă începe cu vânt proaspăt pe faleză. Urcarea la turn vă va încălzi în timp ce admirați priveliștea clară. Drumul spre Stația Navală Rusă este plăcut de liniștit iarna, cu puține mașini. După un prânz consistent în Askeli, traseul de coastă vă readuce în port la apus.",
+            "en": "A winter day on the bike starts with a fresh breeze on the promenade. The climb to the clock tower helps you warm up while enjoying the clear views. The ride to the Russian Naval Station is pleasantly quiet in winter with few cars. After a hearty lunch in Askeli, the coastal road leads you back just in time for the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental on the Promenade",
+              "tip_5lang": {
+                "de": "Handschuhe sind bei Fahrtwind im Winter ratsam.",
+                "hu": "Kesztyű viselése ajánlott a téli menetszélben.",
+                "ro": "Mănușile sunt recomandate împotriva vântului rece.",
+                "en": "Gloves are recommended against the winter wind chill."
+              }
+            },
+            {
+              "name": "Clock Tower of Poros",
+              "tip_5lang": {
+                "de": "Kurze Pause nutzen, um die Jacke wieder zu schließen.",
+                "hu": "Használja ki a megállót a kabát visszacipzározására.",
+                "ro": "Folosiți pauza pentru a vă închide bine jacheta.",
+                "en": "Use the stop to zip up your jacket after the climb."
+              }
+            },
+            {
+              "name": "Russian Naval Station",
+              "tip_5lang": {
+                "de": "Die Einsamkeit des Ortes im Winter ist sehr fotogen.",
+                "hu": "A hely téli magánya rendkívül fotogén élmény.",
+                "ro": "Singurătatea locului iarna este foarte fotogenică.",
+                "en": "The solitude of the site in winter is very photogenic."
+              }
+            },
+            {
+              "name": "Love Bay",
+              "tip_5lang": {
+                "de": "Perfekt für einen schnellen Fotostopp ohne Touristen.",
+                "hu": "Tökéletes egy gyors fotómegállóra turisták nélkül.",
+                "ro": "Perfect pentru o oprire foto rapidă, fără turiști.",
+                "en": "Perfect for a quick photo stop without the crowds."
+              }
+            },
+            {
+              "name": "Lunch in Askeli",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz an einem sonnigen Fenster.",
+                "hu": "Keressen helyet egy napsütötte ablak mellett.",
+                "ro": "Căutați un loc lângă o fereastră însorită.",
+                "en": "Look for a seat by a sunny window for extra warmth."
+              }
+            },
+            {
+              "name": "Bike Return & Stroll",
+              "tip_5lang": {
+                "de": "Geben Sie das Rad vor Einbruch der Dunkelheit ab.",
+                "hu": "Adja le a biciklit még a sötédedés beállta előtt.",
+                "ro": "Returnați bicicleta înainte de lăsarea întunericului.",
+                "en": "Return the bike before darkness sets in early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie ein Halstuch gegen den kalten Küstenwind.",
+              "Die Straßen sind im Winter oft sandig, fahren Sie vorsichtig.",
+              "Planen Sie die Rückkehr spätestens für 17:00 Uhr ein.",
+              "Ein Stirnband unter dem Helm schützt die Ohren."
+            ],
+            "hu": [
+              "Viseljen sálat a hideg parti szél ellen.",
+              "Az utak télen homokosak lehetnek, óvatosan kanyarodjon.",
+              "Tervezze a visszatérést legkésőbb 17:00 órára.",
+              "A sisak alatti fejpánt védi a fület a hidegtől."
+            ],
+            "ro": [
+              "Purtați o eșarfă împotriva vântului rece de coastă.",
+              "Drumurile pot fi nisipoase iarna, conduceți cu atenție.",
+              "Planificați întoarcerea cel târziu la ora 17:00.",
+              "O bentiță sub cască vă va proteja urechile."
+            ],
+            "en": [
+              "Wear a neck gaiter against the cold coastal wind.",
+              "Roads can be sandy in winter; take corners carefully.",
+              "Plan to be back by 5:00 PM at the latest.",
+              "A headband under the helmet protects your ears from cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -980,6 +1326,206 @@
           "A car gives you the freedom to discover hidden coves and beaches.",
           "Check the opening hours of the monastery before you go."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt trocken im Auto, während man den Regen auf das Hafenbecken peitschen sieht. Das Museum ist der perfekte Ort für die erste Regenpause des Tages. Zum Kloster Zoodochos Pigi fährt man durch den dichten Pinienwald, der bei Nässe besonders intensiv duftet. Der Leuchtturm und die Love Bay lassen sich bequem aus dem Wagen bewundern, bevor der Tag am Uhrturm endet.",
+            "hu": "A nap az autó kényelmében indul, miközben nézzük a kikötő vizére csapkodó esőt. A múzeum az első tökéletes megálló a délelőtti felhőszakadás elől. A Zoodochos Pigi kolostorhoz vezető út a fenyvesen át esőben különösen illatos. A világítótorony és a Love Bay a kocsiból is megcsodálható, mielőtt az óratoronyhoz érve zárnánk a kört.",
+            "ro": "Călătoria începe la adăpostul mașinii, privind ploaia care lovește portul. Muzeul este locul perfect pentru prima pauză de ploaie a zilei. Drumul spre mănăstirea Zoodochos Pigi trece prin pădurea de pini, care miroase intens când este udă. Farul și Love Bay pot fi admirate confortabil din mașină înainte de finalul zilei la turn.",
+            "en": "The journey starts dry inside the car while watching the rain lash against the harbor. The museum is the perfect first refuge for the morning. Driving to the Zoodochos Pigi Monastery through the pine forest reveals intense scents in the damp air. The lighthouse and Love Bay can be admired from the comfort of the vehicle before ending at the clock tower."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Port & Stroll",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkplätze nah an den Arkaden.",
+                "hu": "Parkoljon közel az árkádos épületekhez.",
+                "ro": "Parcați aproape de clădirile cu arcade.",
+                "en": "Park close to the arcaded buildings for shelter."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Poros",
+              "tip_5lang": {
+                "de": "Parkmöglichkeiten befinden sich in den Seitenstraßen.",
+                "hu": "Parkolási lehetőség a környező mellékutcákban van.",
+                "ro": "Posibilități de parcare se găsesc pe străzile laterale.",
+                "en": "Parking is available in the nearby side streets."
+              }
+            },
+            {
+              "name": "Monastery of Zoodochos Pigi",
+              "tip_5lang": {
+                "de": "Der Weg vom Parkplatz zum Eingang ist kurz.",
+                "hu": "A parkolótól a bejáratig vezető út rövid.",
+                "ro": "Drumul de la parcare la intrare este scurt.",
+                "en": "The walk from the parking area to the entrance is short."
+              }
+            },
+            {
+              "name": "Danae Lighthouse",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick direkt aus dem Auto.",
+                "hu": "Élvezze a kilátást közvetlenül az autóból.",
+                "ro": "Bucurați-vă de priveliște direct din mașină.",
+                "en": "Enjoy the view directly from the comfort of your car."
+              }
+            },
+            {
+              "name": "Love Bay",
+              "tip_5lang": {
+                "de": "Parken Sie unter Bäumen für etwas Regenschutz.",
+                "hu": "Parkoljon a fák alatt némi esővédelemért.",
+                "ro": "Parcați sub copaci pentru puțină protecție.",
+                "en": "Park under the trees for some natural rain cover."
+              }
+            },
+            {
+              "name": "Russian Naval Station",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Fahrzeug.",
+                "hu": "Heves esőzés esetén maradjon a gépjárműben.",
+                "ro": "Rămâneți în vehicul în caz de ploaie torențială.",
+                "en": "Stay inside the vehicle during heavy downpours."
+              }
+            },
+            {
+              "name": "Clock Tower for Sunset",
+              "tip_5lang": {
+                "de": "Ein schneller Aufstieg für ein Foto reicht aus.",
+                "hu": "Egy gyors felfutás egy fotóért éppen elég.",
+                "ro": "O urcare rapidă pentru o fotografie este suficientă.",
+                "en": "A quick dash up for a photo is enough in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Schlaglöcher, die mit Wasser gefüllt sind.",
+              "Die Sicht an der Küstenstraße kann eingeschränkt sein.",
+              "Nutzen Sie die Heizung gegen beschlagene Scheiben.",
+              "Parken am Hafen ist bei Regen oft einfacher zu finden."
+            ],
+            "hu": [
+              "Vigyázzon a vízzel telt kátyúkra az utakon.",
+              "A kilátás a parti úton korlátozott lehet esőben.",
+              "Használja a fűtést a szélvédő párátlanításához.",
+              "A kikötői parkolás esőben gyakran könnyebben megoldható."
+            ],
+            "ro": [
+              "Atenție la gropile umplute cu apă de pe drum.",
+              "Vizibilitatea pe drumul de coastă poate fi redusă pe ploaie.",
+              "Folosiți încălzirea pentru a dezaburi parbrizul.",
+              "Parcarea în port este adesea mai ușor de găsit pe ploaie."
+            ],
+            "en": [
+              "Watch out for potholes filled with rainwater.",
+              "Visibility on coastal roads can be limited during rain.",
+              "Use the car heater to keep the windows from fogging up.",
+              "Parking at the harbor is often easier to find when it rains."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen lädt zu einer Inselrundfahrt mit dem Auto ein. Nach dem Besuch des Museums am Hafen führt die Fahrt hinauf zum ruhigen Kloster Zoodochos Pigi. Die winterliche Einsamkeit am Danae-Leuchtturm und in der Love Bay ist ein besonderes Erlebnis abseits der Massen. Der Tag endet pünktlich zum frühen Sonnenuntergang am Uhrturm, bevor die Kälte der Nacht einsetzt.",
+            "hu": "A tiszta téli reggel ideális egy autós szigettúrához. A kikötői múzeum után az út a csendes Zoodochos Pigi kolostorhoz vezet fel. A téli nyugalom a Danae világítótoronynál és a Love Bay-nél különleges élmény, távol a tömegtől. A nap éppen a korai naplementére ér az óratoronyhoz, mielőtt beállna az éjszakai lehűlés.",
+            "ro": "O dimineață senină de iarnă este ideală pentru un tur al insulei cu mașina. După muzeul din port, drumul urcă spre mănăstirea liniștită Zoodochos Pigi. Liniștea iernii la farul Danae și în Love Bay este o experiență deosebită, fără aglomerație. Ziua se încheie la apusul timpuriu la turn, înainte de răceala nopții.",
+            "en": "A clear winter morning is ideal for an island circuit by car. After the harbor museum, the drive leads up to the peaceful Zoodochos Pigi Monastery. The winter solitude at Danae Lighthouse and Love Bay is a special experience away from the crowds. The day ends exactly at early sunset at the clock tower before the night chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Port & Stroll",
+              "tip_5lang": {
+                "de": "Im Winter sind meist viele Parkplätze frei.",
+                "hu": "Télen általában sok szabad parkolóhely van.",
+                "ro": "Iarna, de obicei, sunt multe locuri de parcare libere.",
+                "en": "In winter, plenty of parking spots are usually available."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Poros",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne sommerliche Besucherschlangen.",
+                "hu": "Élvezze a nyugalmat nyári látogatói sorok nélkül.",
+                "ro": "Bucurați-vă de liniște fără cozile de vizitatori din vară.",
+                "en": "Enjoy the peace without the summer visitor crowds."
+              }
+            },
+            {
+              "name": "Monastery of Zoodochos Pigi",
+              "tip_5lang": {
+                "de": "Kleiden Sie sich warm, das Kloster liegt höher.",
+                "hu": "Öltözzön melegen, a kolostor magasabban fekszik.",
+                "ro": "Îmbrăcămintea groasă e necesară, mănăstirea e situată sus.",
+                "en": "Dress warmly as the monastery is at a higher elevation."
+              }
+            },
+            {
+              "name": "Danae Lighthouse",
+              "tip_5lang": {
+                "de": "Perfekt für windgeschützte Beobachtungen aus dem Wagen.",
+                "hu": "Ideális a szélvédett nézelődésre az autóból.",
+                "ro": "Perfect pentru observații la adăpost de vânt din mașină.",
+                "en": "Perfect for wind-sheltered viewing from the car."
+              }
+            },
+            {
+              "name": "Love Bay",
+              "tip_5lang": {
+                "de": "Ein einsamer Spaziergang am leeren Strand lohnt sich.",
+                "hu": "Egy magányos séta az üres strandon megéri a megállót.",
+                "ro": "O plimbare solitară pe plaja goală merită oprirea.",
+                "en": "A solitary walk on the empty beach is worth the stop."
+              }
+            },
+            {
+              "name": "Russian Naval Station",
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist hier im Winter toll.",
+                "hu": "A délutáni fények télen nagyszerűek ezen a ponton.",
+                "ro": "Lumina de după-amiază este superbă aici iarna.",
+                "en": "The afternoon light here is wonderful during winter."
+              }
+            },
+            {
+              "name": "Clock Tower for Sunset",
+              "tip_5lang": {
+                "de": "Seien Sie spätestens um 17:00 Uhr am Aussichtspunkt.",
+                "hu": "Legyen a kilátóponton legkésőbb 17:00 óráig.",
+                "ro": "Fiți la punctul de observație cel târziu la ora 17:00.",
+                "en": "Be at the viewpoint by 5:00 PM at the latest."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überprüfen Sie den Reifendruck bei kühleren Temperaturen.",
+              "Die Straßen können im Schatten morgens glatt sein.",
+              "Tanken Sie rechtzeitig, da Stationen früher schließen.",
+              "Nutzen Sie den Wagen als Basis für warme Pausen."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást a hűvösebb időben.",
+              "Az utak az árnyékos részeken reggel csúszósak lehetnek.",
+              "Tankoljon időben, mert a kutak korábban zárhatnak.",
+              "Használja az autót bázisként a melegedő szünetekhez."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope la temperaturi scăzute.",
+              "Drumurile la umbră pot fi alunecoase dimineața.",
+              "Alimentați din timp, stațiile pot închide mai devreme.",
+              "Folosiți mașina ca bază pentru pauze de încălzire."
+            ],
+            "en": [
+              "Check tire pressure during the cooler temperatures.",
+              "Roads in shaded areas can be slippery in the morning.",
+              "Refuel early as stations may close earlier in winter.",
+              "Use the car as a mobile base for warm breaks."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1278,6 +1824,188 @@
           "Buy bus tickets in advance from kiosks if possible.",
           "Ask locals for the best connections; they are very helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nach der Ankunft im Hafen bietet das Archäologische Museum sofortigen Schutz vor dem Regen. Der Bus zum Kloster Zoodochos Pigi ist eine trockene und bequeme Möglichkeit, die Insel zu erkunden. Ein Besuch der Love Bay erfordert Regenbekleidung, da der Weg vom Busstopp ungeschützt ist. Das Wassertaxi zurück zum Uhrturm sorgt trotz Wellen für eine schnelle Verbindung zum Abendessen.",
+            "hu": "A kikötőbe érkezés után az Archéológiai Múzeum azonnali menedéket nyújt az eső elől. A Zoodochos Pigi kolostorhoz közlekedő busz száraz és kényelmes módja a sziget felfedezésének. A Love Bay látogatásához esőfelszerelés kell, mert a buszmegállótól gyalogolni kell. A vízitaxi az óratoronyhoz a hullámok ellenére gyors összeköttetést ad a vacsorához.",
+            "ro": "După sosirea în port, Muzeul de Arheologie oferă adăpost imediat împotriva ploii. Autobuzul spre mănăstirea Zoodochos Pigi este o variantă uscată și comodă de explorare. Vizitarea Love Bay necesită echipament de ploaie pentru drumul de la stație. Taxiul pe apă spre turn asigură o legătură rapidă pentru cină, în ciuda valurilor.",
+            "en": "Upon arrival at the port, the Archaeological Museum offers immediate shelter from the rain. The bus to Zoodochos Pigi Monastery is a dry and comfortable way to explore the island. Visiting Love Bay requires rain gear for the walk from the bus stop. The water taxi back to the clock tower area provides a fast connection for dinner despite the choppy water."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Port & Stroll",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Arkaden am Kai.",
+                "hu": "Keressen menedéket a rakparti árkádok alatt.",
+                "ro": "Căutați adăpost sub arcadele de pe chei.",
+                "en": "Seek shelter under the arcades along the pier."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Poros",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg vom Fähranleger entfernt.",
+                "hu": "Csak rövid séta a kompkikötőtől.",
+                "ro": "La doar o scurtă plimbare de debarcaderul feribotului.",
+                "en": "Just a short walk from the ferry terminal."
+              }
+            },
+            {
+              "name": "Bus to Zoodochos Pigi Monastery",
+              "tip_5lang": {
+                "de": "Der Bus bietet eine trockene Fahrt durch die Wälder.",
+                "hu": "A busz száraz utazást biztosít az erdőkön át.",
+                "ro": "Autobuzul oferă o călătorie uscată prin păduri.",
+                "en": "The bus provides a dry ride through the forests."
+              }
+            },
+            {
+              "name": "Bus & Walk to Love Bay",
+              "tip_5lang": {
+                "de": "Halten Sie den Regenschirm bei Wind gut fest.",
+                "hu": "Szélben szorosan fogja az esernyőjét a sétánál.",
+                "ro": "Țineți bine umbrela în caz de vânt pe drum.",
+                "en": "Hold your umbrella firmly if it gets windy on the walk."
+              }
+            },
+            {
+              "name": "Water Taxi to Clock Tower area",
+              "tip_5lang": {
+                "de": "Wassertaxis haben oft eine schützende Plane.",
+                "hu": "A vízitaxik gyakran rendelkeznek védőponyvával.",
+                "ro": "Taxiurile pe apă au adesea prelate de protecție.",
+                "en": "Water taxis often have protective covers for passengers."
+              }
+            },
+            {
+              "name": "Dinner in the Old Town",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant nah an der Bushaltestelle.",
+                "hu": "Válasszon éttermet a buszmegálló közelében.",
+                "ro": "Alegeți un restaurant aproape de stația de autobuz.",
+                "en": "Choose a restaurant close to the bus stop for convenience."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie, ob der Busfahrplan bei Regen reduziert ist.",
+              "Wassertaxis fahren bei Starkwind eventuell nicht.",
+              "Halten Sie Kleingeld für das Busticket griffbereit.",
+              "Das Museum ist ein guter Wartepunkt für den nächsten Bus."
+            ],
+            "hu": [
+              "Ellenőrizze, nem ritkították-e a buszjáratokat esőben.",
+              "Erős szél esetén a vízitaxik nem biztos, hogy közlekednek.",
+              "Legyen Önnél aprópénz a buszjegyhez.",
+              "A múzeum kiváló várakozási pont a következő buszig."
+            ],
+            "ro": [
+              "Verificați dacă programul autobuzelor este redus pe ploaie.",
+              "Taxiurile pe apă pot să nu circule pe vânt puternic.",
+              "Aveți pregătit mărunțiș pentru biletul de autobuz.",
+              "Muzeul este un loc bun de așteptare pentru următorul autobuz."
+            ],
+            "en": [
+              "Check if the bus schedule is reduced during rain.",
+              "Water taxis might not operate during very high winds.",
+              "Keep small change ready for the bus ticket fare.",
+              "The museum is a good waiting point for the next bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Hafen ist ruhig, wenn die erste Fähre anlegt. Das Archäologische Museum bietet eine warme Kulturpause am Vormittag. Mit dem Winterfahrplan des Busses geht es hinauf zum einsamen Kloster Zoodochos Pigi. Nach einem Spaziergang an der Love Bay bringt Sie das Wassertaxi pünktlich vor Einbruch der Dunkelheit zurück zum Uhrturm für ein gemütliches Abendessen.",
+            "hu": "A téli reggel a kikötőben csendes, amikor az első komp kiköt. Az Archéológiai Múzeum meleg kulturális feltöltődést kínál délelőtt. A busz téli menetrendjével jutunk fel a magányos Zoodochos Pigi kolostorhoz. A Love Bay-nél tett séta után a vízitaxi még sötétedés előtt visszavisz az óratoronyhoz egy hangulatos vacsorára.",
+            "ro": "Dimineața de iarnă în port este liniștită când sosește primul feribot. Muzeul de Arheologie oferă o pauză culturală caldă. Cu programul de iarnă al autobuzului urcăm spre mănăstirea solitară Zoodochos Pigi. După o plimbare în Love Bay, taxiul pe apă vă readuce la turn înainte de întuneric.",
+            "en": "The winter morning at the port is quiet as the first ferry arrives. The Archaeological Museum provides a warm cultural break during the forenoon. Using the winter bus schedule, head up to the solitary Zoodochos Pigi Monastery. After a stroll at Love Bay, the water taxi brings you back to the clock tower area before dark for a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Port & Stroll",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am Hafen ohne Sommertrubel.",
+                "hu": "Élvezze a kikötői nyugalmat a nyári zsivaly nélkül.",
+                "ro": "Bucurați-vă de liniștea portului fără agitația verii.",
+                "en": "Enjoy the harbor's peace without the summer bustle."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Poros",
+              "tip_5lang": {
+                "de": "Ein gut geheizter Ort für geschichtliche Einblicke.",
+                "hu": "Jól fűtött hely a történelmi betekintéshez.",
+                "ro": "Un loc bine încălzit pentru incursiuni istorice.",
+                "en": "A well-heated spot for historical insights."
+              }
+            },
+            {
+              "name": "Bus to Zoodochos Pigi Monastery",
+              "tip_5lang": {
+                "de": "Beachten Sie den ausgedünnten Winterfahrplan.",
+                "hu": "Számoljon a ritkább téli menetrenddel.",
+                "ro": "Țineți cont de programul de iarnă redus.",
+                "en": "Keep in mind the reduced winter bus frequency."
+              }
+            },
+            {
+              "name": "Bus & Walk to Love Bay",
+              "tip_5lang": {
+                "de": "Warme Kleidung für die Wartezeit an der Haltestelle.",
+                "hu": "Meleg ruha kell a megállóban való várakozáshoz.",
+                "ro": "Haine groase pentru timpul de așteptare în stație.",
+                "en": "Warm clothes are needed for waiting at the bus stop."
+              }
+            },
+            {
+              "name": "Water Taxi to Clock Tower area",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Taxi vor dem frühen Sonnenuntergang.",
+                "hu": "Használja a taxit a korai naplemente előtt.",
+                "ro": "Folosiți taxiul înainte de apusul de soare timpuriu.",
+                "en": "Use the water taxi before the early sunset."
+              }
+            },
+            {
+              "name": "Dinner in the Old Town",
+              "tip_5lang": {
+                "de": "Suchen Sie Tavernen, in denen auch Einheimische sitzen.",
+                "hu": "Keressen olyan tavernát, ahol helyiek is ülnek.",
+                "ro": "Căutați taverne în care stau și localnicii.",
+                "en": "Look for tavernas where locals are dining."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Informieren Sie sich über die Fährzeiten im Winter.",
+              "Der Busverkehr kann im Winter eingeschränkt sein.",
+              "Tragen Sie Schichten für den Temperaturwechsel im Bus.",
+              "Wassertaxis sind seltener, rufen Sie ggf. an."
+            ],
+            "hu": [
+              "Tájékozódjon előre a téli kompmenetrendről.",
+              "A buszközlekedés télen korlátozott lehet.",
+              "Öltözzön rétegesen a busz és a kinti hőmérséklet miatt.",
+              "A vízitaxik ritkábbak télen, szükség esetén telefonáljon."
+            ],
+            "ro": [
+              "Informați-vă din timp despre mersul feriboturilor.",
+              "Transportul cu autobuzul poate fi limitat iarna.",
+              "Îmbrăcați-vă în straturi pentru diferența de temperatură.",
+              "Taxiurile pe apă sunt mai rare iarna, sunați dacă e cazul."
+            ],
+            "en": [
+              "Check the winter ferry schedules before you travel.",
+              "Bus services can be quite limited during the winter.",
+              "Wear layers for the temperature change on and off the bus.",
+              "Water taxis are less frequent; call one if needed."
+            ]
+          }
+        }
       }
     }
   }

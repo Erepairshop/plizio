@@ -446,6 +446,232 @@
           "For lunch, the center works better than the hill.",
           "The park is the right slow ending after the museum."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag unter den Regenschirmen der Plaza de la Escandalera. Der Mercado del Fontán bietet einen trockenen Zufluchtsort mit authentischen asturischen Aromen. Mittags hüllt der Regen die Naranco-Kirchen in einen mystischen Nebel. Den Nachmittag verbringen Sie in den prächtigen Hallen der Kathedrale und des Museums der Schönen Künste. Der San Francisco Park bietet mit seinem dichten Blätterdach auch bei leichtem Schauer Schutz.",
+            "hu": "Kezdje a reggelt az Escandalera tér esernyői alatt, majd meneküljön az eső elől a Fontán piac fedett csarnokába. Délben a Naranco-hegy preromán templomai misztikus ködbe burkolóznak az asztúriai esőben. A délutánt töltse a katedrális és a Szépművészeti Múzeum száraz, művészettel teli termeiben. Az estét a San Francisco Park sűrű lombjai alatt zárhatja, melyek természetes esernyőként szolgálnak.",
+            "ro": "Începeți dimineața sub umbrelele din Plaza de la Escandalera, apoi refugiați-vă de ploaie în hala acoperită a pieței Fontán. La prânz, bisericile preromanice de pe muntele Naranco capătă o aură mistică prin ceața asturiană. Petreceți după-amiaza în interiorul uscat al Catedralei și la Muzeul de Arte Frumoase. Seara, parcul San Francisco oferă protecție sub coronamentul des al arborilor săi.",
+            "en": "Start your morning under the umbrellas of Plaza de la Escandalera, then seek refuge in the covered Mercado del Fontán. Midday, the Pre-Romanesque churches of Mount Naranco are shrouded in a mystical fog. Spend the afternoon exploring the dry, art-filled galleries of the Cathedral and the Museum of Fine Arts. End the day in San Francisco Park, where the dense canopy provides natural shelter from the drizzle."
+          },
+          "stops": [
+            {
+              "name": "Plaza de la Escandalera",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
+                "hu": "Használja a környező épületek árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele clădirilor din jur pentru a vă proteja de ploaie.",
+                "en": "Use the arcades of nearby buildings for cover from the rain."
+              }
+            },
+            {
+              "name": "Mercado del Fontán",
+              "tip_5lang": {
+                "de": "Vollständig überdacht, ideal zum Probieren lokaler Produkte im Trockenen.",
+                "hu": "Teljesen fedett, ideális helyi termékek kóstolására szárazon.",
+                "ro": "Complet acoperit, ideal pentru a degusta produse locale la adăpost.",
+                "en": "Fully covered, ideal for tasting local products while staying dry."
+              }
+            },
+            {
+              "name": "Campoamor Theatre",
+              "tip_5lang": {
+                "de": "Die Fassade ist beleuchtet und bei Regen besonders fotogen.",
+                "hu": "A homlokzat kivilágítva esőben is rendkívül fotogén.",
+                "ro": "Fațada iluminată este foarte fotogenică chiar și pe ploaie.",
+                "en": "The illuminated facade is very photogenic even in the rain."
+              }
+            },
+            {
+              "name": "Santa María del Naranco",
+              "tip_5lang": {
+                "de": "Der Innenraum ist trocken, aber der Weg bergauf kann rutschig sein.",
+                "hu": "A belső tér száraz, de a felfelé vezető út csúszós lehet.",
+                "ro": "Interiorul este uscat, dar drumul în pantă poate fi alunecos.",
+                "en": "The interior is dry, but the uphill path can be slippery."
+              }
+            },
+            {
+              "name": "San Miguel de Lillo",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von Santa María, feste Wanderschuhe sind ratsam.",
+                "hu": "Rövid séta Santa Maríától, vízálló cipő ajánlott.",
+                "ro": "Scurtă plimbare de la Santa María, se recomandă încălțăminte impermeabilă.",
+                "en": "Short walk from Santa María, waterproof shoes are recommended."
+              }
+            },
+            {
+              "name": "Cathedral of San Salvador",
+              "tip_5lang": {
+                "de": "Ein weitläufiger Innenraum, perfekt für eine lange Regenpause.",
+                "hu": "Tágas belső tér, tökéletes egy hosszabb esőszünetre.",
+                "ro": "Interior vast, perfect pentru o pauză lungă ferită de ploaie.",
+                "en": "Vast interior, perfect for a long break from the rain."
+              }
+            },
+            {
+              "name": "Museum of Fine Arts",
+              "tip_5lang": {
+                "de": "Kostenlose Garderobe vorhanden, um nasse Mäntel abzugeben.",
+                "hu": "Ingyenes ruhatár áll rendelkezésre a vizes kabátoknak.",
+                "ro": "Garderobă gratuită disponibilă pentru hainele ude.",
+                "en": "Free cloakroom available to leave wet coats."
+              }
+            },
+            {
+              "name": "San Francisco Park",
+              "tip_5lang": {
+                "de": "Dichte Baumgruppen bieten Schutz vor leichtem Nieselregen.",
+                "hu": "A sűrű facsoportok védelmet nyújtanak az enyhe szemerkélő eső ellen.",
+                "ro": "Grupurile de copaci deși oferă protecție împotriva burniței.",
+                "en": "Dense groups of trees offer protection from light drizzle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Soportalos (Arkaden) in der Altstadt.",
+              "Tragen Sie wasserfeste Schuhe, asturischer Regen ist hartnäckig.",
+              "Die Museen in Oviedo sind hervorragende Regenfluchten.",
+              "Ein Besuch in einer Sidrería wärmt und hält trocken.",
+              "Vermeiden Sie glatte Pflastersteine in steilen Gassen."
+            ],
+            "hu": [
+              "Használja a Soportalokat (árkádokat) az óvárosban.",
+              "Viseljen vízálló cipőt, az asztúriai eső kitartó tud lenni.",
+              "Oviedo múzeumai kiváló menedékek az eső elől.",
+              "Egy látogatás egy sidreríában felmelegít és szárazon tart.",
+              "Kerülje a csúszós macskaköveket a meredek utcákban."
+            ],
+            "ro": [
+              "Folosiți Soportalos (arcadele) din centrul vechi.",
+              "Purtați încălțăminte impermeabilă, ploaia asturiană este persistentă.",
+              "Muzeele din Oviedo sunt refugii excelente împotriva ploii.",
+              "O vizită la o sidrería vă va încălzi și vă va menține uscat.",
+              "Evitați pietrele de pavaj alunecoase pe străzile în pantă."
+            ],
+            "en": [
+              "Utilize the Soportalos (arcades) in the old town.",
+              "Wear waterproof shoes, Asturian rain can be persistent.",
+              "Oviedo's museums are excellent escapes from the rain.",
+              "A visit to a sidrería (cider house) warms you up and keeps you dry.",
+              "Avoid slippery cobblestones in steep alleys."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die frische Winterluft auf der Plaza de la Escandalera. Der Mercado del Fontán ist morgens ein warmer Treffpunkt. Mittags bietet die Wintersonne ein klares Licht auf die Denkmäler am Monte Naranco, obwohl es windig sein kann. Der Nachmittag gehört der gemütlichen Kathedrale. Wenn die Dämmerung gegen 18:00 Uhr einsetzt, erstrahlt der San Francisco Park in festlichem Glanz.",
+            "hu": "Élvezze a friss téli levegőt az Escandalera téren, majd melegedjen fel a Fontán piacon. Délben a téli napsütés éles fénybe helyezi a Naranco-hegy műemlékeit, bár a szél metsző lehet. A délután a katedrális meghitt falaié. Amikor 18:00 körül leszáll az est, a San Francisco Park ünnepi fényei varázslatos hangulatot árasztanak.",
+            "ro": "Bucurați-vă de aerul proaspăt de iarnă în Plaza de la Escandalera, apoi încălziți-vă în piața Fontán. La prânz, soarele de iarnă oferă o lumină clară asupra monumentelor de pe muntele Naranco, deși vântul poate fi tăios. După-amiaza aparține atmosferei intime din Catedrală. Când se lasă seara, în jurul orei 18:00, parcul San Francisco strălucește sub luminile festive.",
+            "en": "Enjoy the crisp winter air at Plaza de la Escandalera, then warm up in the Fontán market. Midday winter sun provides clear light over the Mount Naranco monuments, though it can be windy. The afternoon belongs to the cozy atmosphere of the Cathedral. As dusk falls around 18:00, San Francisco Park glows with festive lights."
+          },
+          "stops": [
+            {
+              "name": "Plaza de la Escandalera",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wichtig, da der Wind hier oft zieht.",
+                "hu": "A meleg öltözet fontos, mivel itt gyakran fúj a szél.",
+                "ro": "Hainele groase sunt importante, deoarece vântul bate des aici.",
+                "en": "Warm clothing is essential as it can be quite windy here."
+              }
+            },
+            {
+              "name": "Mercado del Fontán",
+              "tip_5lang": {
+                "de": "Holen Sie sich eine heiße Schokolade in der Nähe.",
+                "hu": "Igyon egy forró csokoládét a közelben.",
+                "ro": "Luați o ciocolată caldă în apropiere.",
+                "en": "Grab a hot chocolate nearby to warm up."
+              }
+            },
+            {
+              "name": "Campoamor Theatre",
+              "tip_5lang": {
+                "de": "Im Winter finden hier oft abendliche Aufführungen statt.",
+                "hu": "Télen gyakran tartanak itt esti előadásokat.",
+                "ro": "Iarna au loc adesea spectacole de seară aici.",
+                "en": "In winter, evening performances are frequent here."
+              }
+            },
+            {
+              "name": "Santa María del Naranco",
+              "tip_5lang": {
+                "de": "Das Licht am frühen Nachmittag ist ideal für Fotos.",
+                "hu": "A kora délutáni fények ideálisak a fotózáshoz.",
+                "ro": "Lumina de după-amiază devreme este ideală pentru fotografii.",
+                "en": "Early afternoon light is ideal for photography."
+              }
+            },
+            {
+              "name": "San Miguel de Lillo",
+              "tip_5lang": {
+                "de": "Der Wind auf dem Hügel kann im Winter sehr kalt sein.",
+                "hu": "A dombon a szél télen nagyon hideg lehet.",
+                "ro": "Vântul de pe deal poate fi foarte rece iarna.",
+                "en": "The wind on the hill can be very cold in winter."
+              }
+            },
+            {
+              "name": "Cathedral of San Salvador",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Heilige Kammer, sie ist gut temperiert.",
+                "hu": "Látogasson el a Szent Kamrába, kellemes a hőmérséklet.",
+                "ro": "Vizitați Camera Sfântă, temperatura este plăcută.",
+                "en": "Visit the Holy Chamber; it is well-tempered inside."
+              }
+            },
+            {
+              "name": "Museum of Fine Arts",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die kältesten Stunden des Tages zu überbrücken.",
+                "hu": "Tökéletes hely a nap leghidegebb óráinak áthidalására.",
+                "ro": "Un loc perfect pentru a petrece cele mai reci ore ale zilei.",
+                "en": "A perfect place to spend the coldest hours of the day."
+              }
+            },
+            {
+              "name": "San Francisco Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Weihnachtsbeleuchtung ab Ende November.",
+                "hu": "Keresse a karácsonyi kivilágítást november végétől.",
+                "ro": "Căutați luminile de Crăciun începând cu sfârșitul lunii noiembrie.",
+                "en": "Look for the Christmas lights starting from late November."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 18:00 Uhr unter.",
+              "Schichtenkleidung ist ratsam für den Wechsel zwischen Drinnen und Draußen.",
+              "Probieren Sie 'Carbayones', das typische Gebäck von Oviedo.",
+              "Der Aufstieg zum Naranco ist an klaren Wintertagen wunderschön.",
+              "Viele Cafés bieten gemütliche Innenplätze mit Heizung."
+            ],
+            "hu": [
+              "A nap télen 18:00 körül nyugszik.",
+              "A réteges öltözködés ajánlott a kinti és benti helyszínek váltakozása miatt.",
+              "Kóstolja meg a 'Carbayones'-t, Oviedo tipikus süteményét.",
+              "A Naranco-hegyre való feljutás gyönyörű a tiszta téli napokon.",
+              "Sok kávézó kínál meghitt, fűtött belső helyeket."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 18:00 în timpul iernii.",
+              "Se recomandă îmbrăcămintea în straturi pentru tranziția interior-exterior.",
+              "Gustați 'Carbayones', produsul tipic de patiserie din Oviedo.",
+              "Urcarea pe muntele Naranco este superbă în zilele senine de iarnă.",
+              "Multe cafenele oferă locuri intime la interior cu încălzire."
+            ],
+            "en": [
+              "Sunset is around 18:00 in winter.",
+              "Layered clothing is advised for the transition between indoor and outdoor.",
+              "Try 'Carbayones', the typical pastry of Oviedo.",
+              "The ascent to Mount Naranco is beautiful on clear winter days.",
+              "Many cafes offer cozy indoor seating with heating."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -886,6 +1112,232 @@
           "The center is compact, so spontaneous pauses are easy.",
           "In rain, this route becomes a lot less comfortable."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag auf dem Rad in Oviedo erfordert Vorsicht. Beginnen Sie vorsichtig an der Escandalera. Der Mercado del Fontán ist ein guter Ort für eine erste Pause. Mittags ist die Fahrt zum Naranco anstrengend, aber die neblige Aussicht belohnt. Nachmittags bieten Kathedrale und Museum kulturelle Pausen, während Sie Ihr Rad sicher parken. Den Tag beenden Sie auf den feuchten Wegen des San Francisco Parks.",
+            "hu": "Egy esős kerékpáros nap Oviedóban óvatosságot igényel. Kezdje óvatosan az Escandaleránál, a Fontán piac jó hely az első pihenőre. Délben a Naranco-hegyi tekerés fárasztó, de a ködös kilátás kárpótol. Délután a katedrális és a múzeum kulturális szünetet nyújt, míg a kerékpár biztonságban pihen. A napot a San Francisco Park nedves ösvényein zárhatja.",
+            "ro": "O zi ploioasă pe bicicletă în Oviedo necesită prudență. Începeți cu grijă la Escandalera, piața Fontán fiind un loc bun pentru o primă pauză. La prânz, urcarea pe Naranco este solicitantă, dar priveliștea cețoasă merită efortul. După-amiaza, Catedrala și Muzeul oferă pauze culturale în timp ce bicicleta stă la loc sigur. Încheiați ziua pe aleile umede din parcul San Francisco.",
+            "en": "A rainy day on a bike in Oviedo requires caution. Start carefully at Escandalera; the Fontán market is a good spot for a first break. Midday, the ride up Naranco is tough, but the misty views are rewarding. Afternoon, the Cathedral and Museum offer cultural breaks while your bike is parked securely. End the day on the damp paths of San Francisco Park."
+          },
+          "stops": [
+            {
+              "name": "Plaza de la Escandalera",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Markierungen auf dem Asphalt.",
+                "hu": "Vigyázat, az aszfalton lévő felfestések csúszósak lehetnek.",
+                "ro": "Atenție la marcajele alunecoase de pe asfalt.",
+                "en": "Watch out for slippery road markings on the asphalt."
+              }
+            },
+            {
+              "name": "Mercado del Fontán",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe suchen.",
+                "hu": "Keressen fedett kerékpártárolót a közelben.",
+                "ro": "Căutați rastele de biciclete acoperite în apropiere.",
+                "en": "Look for covered bike racks nearby."
+              }
+            },
+            {
+              "name": "Campoamor Theatre",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, Bremsen bei Nässe prüfen.",
+                "hu": "Rövid fotómegálló, ellenőrizze a fékeket nedves úton.",
+                "ro": "Oprire scurtă pentru poze, verificați frânele pe carosabil umed.",
+                "en": "Short photo stop, check brakes on wet roads."
+              }
+            },
+            {
+              "name": "Santa María del Naranco",
+              "tip_5lang": {
+                "de": "Anspruchsvoller Aufstieg, Regenjacke mit Belüftung nutzen.",
+                "hu": "Kihívást jelentő emelkedő, használjon jól szellőző esőkabátot.",
+                "ro": "Urcare solicitantă, folosiți o jachetă de ploaie cu ventilație.",
+                "en": "Challenging climb, use a ventilated raincoat."
+              }
+            },
+            {
+              "name": "San Miguel de Lillo",
+              "tip_5lang": {
+                "de": "Die Abfahrt vom Berg erfordert bei Regen hohe Konzentration.",
+                "hu": "A hegyről való leereszkedés esőben nagy koncentrációt igényel.",
+                "ro": "Coborârea de pe munte necesită multă concentrare pe ploaie.",
+                "en": "Descending from the mountain in the rain requires high concentration."
+              }
+            },
+            {
+              "name": "Cathedral of San Salvador",
+              "tip_5lang": {
+                "de": "Sicherer Parkplatz für Räder am Domplatz vorhanden.",
+                "hu": "Biztonságos kerékpárparkoló a dóm téren rendelkezésre áll.",
+                "ro": "Parcare sigură pentru biciclete disponibilă în piața catedralei.",
+                "en": "Secure bike parking available at the cathedral square."
+              }
+            },
+            {
+              "name": "Museum of Fine Arts",
+              "tip_5lang": {
+                "de": "Lange Pause nutzen, um Ausrüstung zu trocknen.",
+                "hu": "Használja ki a hosszú szünetet a felszerelés megszárítására.",
+                "ro": "Profită de pauza lungă pentru a-ți usca echipamentul.",
+                "en": "Use the long break to dry your gear."
+              }
+            },
+            {
+              "name": "San Francisco Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor nassen Blättern auf den Wegen.",
+                "hu": "Vigyázzon az utakon lévő nedves levelekre.",
+                "ro": "Atenție la frunzele ude de pe alei.",
+                "en": "Be careful of wet leaves on the paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenmontur.",
+              "Vermeiden Sie abrupte Bremsmanöver auf Kopfsteinpflaster.",
+              "Nutzen Sie Schutzbleche, um Schlammspritzer zu vermeiden.",
+              "Überprüfen Sie regelmäßig Ihre Beleuchtung.",
+              "Parken Sie das Rad nach Möglichkeit unter Vordächern."
+            ],
+            "hu": [
+              "Viseljen teljes esővédő ruházatot.",
+              "Kerülje a hirtelen fékezést a macskakövön.",
+              "Használjon sárvédőt a felcsapódó sár ellen.",
+              "Rendszeresen ellenőrizze a világítást.",
+              "Lehetőleg előtetők alatt parkolja le a kerékpárt."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie.",
+              "Evitați frânarea bruscă pe piatră cubică.",
+              "Folosiți apărători pentru a evita stropii de noroi.",
+              "Verificați regulat iluminarea.",
+              "Parcați bicicleta sub copertine ori de câte ori este posibil."
+            ],
+            "en": [
+              "Wear full waterproof cycling gear.",
+              "Avoid sudden braking on cobblestones.",
+              "Use mudguards to prevent mud splashes.",
+              "Check your lights regularly.",
+              "Park your bike under overhangs whenever possible."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour durch Oviedo ist erfrischend. Starten Sie mit der kühlen Brise an der Escandalera. Der Mercado del Fontán bietet Wärme und Energie. Der Aufstieg zum Naranco mittags hält Sie warm, oben bietet sich eine klare Fernsicht. Nachmittags sind Kathedrale und Museum ideale Stopps zum Aufwärmen. Der San Francisco Park in der Abenddämmerung ist mit dem Rad schnell durchquert.",
+            "hu": "A téli kerékpározás Oviedóban frissítő élmény. Kezdje a hűvös széllel az Escandaleránál, a Fontán piac melegséget és energiát ad. A Naranco-hegyi emelkedő délben melegen tart, a csúcsról tiszta kilátás nyílik. Délután a katedrális és a múzeum ideális megálló a felmelegedéshez. A sötétedő San Francisco Park kerékpárral gyorsan bejárható.",
+            "ro": "O tură de iarnă prin Oviedo este revigorantă. Începeți cu briza rece de la Escandalera, piața Fontán oferind căldură și energie. Urcarea pe Naranco la prânz vă va ține de cald, iar de sus veți avea o priveliște clară. După-amiaza, Catedrala și Muzeul sunt opriri ideale pentru încălzire. Parcul San Francisco la amurg poate fi traversat rapid cu bicicleta.",
+            "en": "A winter bike tour through Oviedo is refreshing. Start with the cool breeze at Escandalera; Fontán market provides warmth and energy. The midday climb up Naranco keeps you warm, and the summit offers clear long-distance views. Afternoon, the Cathedral and Museum are ideal warm-up stops. San Francisco Park at dusk is quickly traversed by bike."
+          },
+          "stops": [
+            {
+              "name": "Plaza de la Escandalera",
+              "tip_5lang": {
+                "de": "Handschuhe sind bei der morgendlichen Kälte unerlässlich.",
+                "hu": "A kesztyű elengedhetetlen a reggeli hidegben.",
+                "ro": "Mănușile sunt indispensabile în frigul dimineții.",
+                "en": "Gloves are essential in the morning cold."
+              }
+            },
+            {
+              "name": "Mercado del Fontán",
+              "tip_5lang": {
+                "de": "Ein warmes Getränk für die Fahrt mitnehmen.",
+                "hu": "Vigyen magával egy meleg italt az útra.",
+                "ro": "Luați o băutură caldă pentru drum.",
+                "en": "Take a warm drink for the ride."
+              }
+            },
+            {
+              "name": "Campoamor Theatre",
+              "tip_5lang": {
+                "de": "Kurzer Halt, Winterlicht für Fotos nutzen.",
+                "hu": "Rövid megálló, használja ki a téli fényeket a fotókhoz.",
+                "ro": "Oprire scurtă, profitați de lumina de iarnă pentru poze.",
+                "en": "Short stop, use the winter light for photos."
+              }
+            },
+            {
+              "name": "Santa María del Naranco",
+              "tip_5lang": {
+                "de": "Auf der Abfahrt ist der Windchill-Effekt stark.",
+                "hu": "A leereszkedésnél a szél hűtő hatása erős.",
+                "ro": "La coborâre, efectul de răcire al vântului este puternic.",
+                "en": "The wind chill factor is strong during the descent."
+              }
+            },
+            {
+              "name": "San Miguel de Lillo",
+              "tip_5lang": {
+                "de": "Feste Kleidung gegen den Wind am Hügel.",
+                "hu": "Szélálló ruházat a dombtetőn.",
+                "ro": "Îmbrăcăminte rezistentă la vânt pe deal.",
+                "en": "Windproof clothing is needed on the hilltop."
+              }
+            },
+            {
+              "name": "Cathedral of San Salvador",
+              "tip_5lang": {
+                "de": "Zeit für eine längere Aufwärmpause im Inneren.",
+                "hu": "Idő egy hosszabb bemelegítő pihenőre bent.",
+                "ro": "Timp pentru o pauză mai lungă de încălzire la interior.",
+                "en": "Time for a longer warm-up break inside."
+              }
+            },
+            {
+              "name": "Museum of Fine Arts",
+              "tip_5lang": {
+                "de": "Die Ausstellungen sind im Winter weniger überlaufen.",
+                "hu": "A kiállítások télen kevésbé zsúfoltak.",
+                "ro": "Expozițiile sunt mai puțin aglomerate iarna.",
+                "en": "Exhibitions are less crowded in winter."
+              }
+            },
+            {
+              "name": "San Francisco Park",
+              "tip_5lang": {
+                "de": "Gute Beleuchtung ist ab 17:30 Uhr notwendig.",
+                "hu": "Jó világítás szükséges 17:30-tól.",
+                "ro": "Iluminare bună necesară începând cu ora 17:30.",
+                "en": "Good lighting is necessary from 17:30 onwards."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Mehrlagige Kleidung schützt vor Kälte und Schweiß.",
+              "Achten Sie auf vereiste Stellen im Schatten.",
+              "Wintertage sind kurz, planen Sie Ihre Tour bis 17:00 Uhr.",
+              "Heiße Suppe in einer Bar gibt neue Energie.",
+              "Tragen Sie eine Mütze unter dem Helm."
+            ],
+            "hu": [
+              "A réteges öltözködés véd a hideg és az izzadás ellen.",
+              "Ügyeljen a jeges foltokra az árnyékos részeken.",
+              "A téli nappalok rövidek, tervezze a túrát 17:00-ig.",
+              "Egy forró leves egy bárban új energiát ad.",
+              "Viseljen sapkát a sisak alatt."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi protejează împotriva frigului și transpirației.",
+              "Atenție la porțiunile înghețate din zonele umbrite.",
+              "Zilele de iarnă sunt scurte, planificați turul până la ora 17:00.",
+              "O supă caldă într-un bar vă oferă energie nouă.",
+              "Purtați o căciulă sub cască."
+            ],
+            "en": [
+              "Multi-layered clothing protects against cold and sweat.",
+              "Watch out for icy spots in shaded areas.",
+              "Winter days are short; plan your tour until 17:00.",
+              "A hot soup in a bar gives new energy.",
+              "Wear a cap under your helmet."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1326,6 +1778,232 @@
           "For meals, there are plenty of options between the cathedral and museum.",
           "At night, the park is the most relaxed ending."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Oviedo bei Regen komfortabel. Starten Sie an der Escandalera und nutzen Sie nahegelegene Parkhäuser. Der Mercado del Fontán ist nur ein kurzer Gang durch den Regen. Die Fahrt zum Naranco mittags ist trocken, und Sie können direkt bei den Monumenten parken. Nachmittags bieten Kathedrale und Museum Schutz. Der Tag endet bequem im Auto am Rande des San Francisco Parks.",
+            "hu": "Autóval Oviedo esőben is kényelmes. Kezdje az Escandaleránál, használja a közeli parkolóházakat. A Fontán piac csak egy rövid séta az esőben. A Naranco-hegyi út délben szárazon megtehető, parkolhat közvetlenül a műemlékeknél. Délután a katedrális és a múzeum nyújt védelmet. A nap kényelmesen zárul az autóban a San Francisco Park szélén.",
+            "ro": "Cu mașina, Oviedo este confortabil pe ploaie. Începeți la Escandalera și folosiți parcările subterane din apropiere. Piața Fontán este la doar o scurtă plimbare prin ploaie. Drumul spre Naranco la prânz este uscat și puteți parca direct lângă monumente. După-amiaza, Catedrala și Muzeul oferă adăpost. Ziua se încheie confortabil în mașină la marginea parcului San Francisco.",
+            "en": "By car, Oviedo is comfortable in the rain. Start at Escandalera and use nearby parking garages. Fontán market is just a short walk through the rain. The drive up Naranco at midday is dry, and you can park right by the monuments. Afternoon, the Cathedral and Museum provide shelter. The day ends conveniently in the car at the edge of San Francisco Park."
+          },
+          "stops": [
+            {
+              "name": "Plaza de la Escandalera",
+              "tip_5lang": {
+                "de": "Parkhaus unter dem Platz nutzen, um trocken auszusteigen.",
+                "hu": "Használja a tér alatti parkolóházat a száraz kiszálláshoz.",
+                "ro": "Folosiți parcarea subterană de sub piață pentru a coborî la uscat.",
+                "en": "Use the underground parking under the square to stay dry."
+              }
+            },
+            {
+              "name": "Mercado del Fontán",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkhaus, Schirm nicht vergessen.",
+                "hu": "Rövid séta a parkolótól, ne felejtse el az esernyőt.",
+                "ro": "Scurtă plimbare de la parcare, nu uitați umbrela.",
+                "en": "Short walk from the parking garage; don't forget your umbrella."
+              }
+            },
+            {
+              "name": "Campoamor Theatre",
+              "tip_5lang": {
+                "de": "Einfahrt zum Parken in der Nähe oft überfüllt.",
+                "hu": "A közeli parkolóházak bejárata gyakran zsúfolt.",
+                "ro": "Intrarea în parcările din apropiere este adesea aglomerată.",
+                "en": "Entrance to nearby parking garages is often crowded."
+              }
+            },
+            {
+              "name": "Santa María del Naranco",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Monument vorhanden, wenig Fußweg.",
+                "hu": "Parkoló közvetlenül a műemléknél, kevés gyaloglás.",
+                "ro": "Parcare disponibilă direct la monument, puțin mers pe jos.",
+                "en": "Parking available directly at the monument, minimal walking."
+              }
+            },
+            {
+              "name": "San Miguel de Lillo",
+              "tip_5lang": {
+                "de": "Vorsicht bei der engen Auffahrt bei starkem Regen.",
+                "hu": "Vigyázat a szűk emelkedőn erős esőzéskor.",
+                "ro": "Atenție pe urcarea îngustă în caz de ploaie puternică.",
+                "en": "Be careful on the narrow ascent during heavy rain."
+              }
+            },
+            {
+              "name": "Cathedral of San Salvador",
+              "tip_5lang": {
+                "de": "Die Parkhäuser in der Altstadt sind eng, Vorsicht beim Rangieren.",
+                "hu": "Az óvárosi parkolóházak szűkek, vigyázat a manőverezésnél.",
+                "ro": "Parcările din centrul vechi sunt înguste, atenție la manevre.",
+                "en": "Old town parking garages are narrow; be careful when maneuvering."
+              }
+            },
+            {
+              "name": "Museum of Fine Arts",
+              "tip_5lang": {
+                "de": "Der Eingang ist nur einen kurzen Sprung vom Auto entfernt.",
+                "hu": "A bejárat csak egy rövid ugrásra van az autótól.",
+                "ro": "Intrarea este la doar câțiva pași de mașină.",
+                "en": "The entrance is just a short hop from the car."
+              }
+            },
+            {
+              "name": "San Francisco Park",
+              "tip_5lang": {
+                "de": "Parken an der Calle Uría für direkten Zugang.",
+                "hu": "Parkoljon a Calle Uría utcában a közvetlen bejutáshoz.",
+                "ro": "Parcați pe Calle Uría pentru acces direct.",
+                "en": "Park on Calle Uría for direct access."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Parkhäuser, um Plätze zu finden.",
+              "Vermeiden Sie das Fahren in die engen, nassen Altstadtgassen.",
+              "Schalten Sie bei Regen das Licht ein (Abblendlicht).",
+              "Planen Sie mehr Zeit für den Stadtverkehr ein.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto."
+            ],
+            "hu": [
+              "Használjon parkoló alkalmazást a helykereséshez.",
+              "Kerülje a behajtást a szűk, vizes óvárosi utcákba.",
+              "Esőben kapcsolja be a tompított fényszórót.",
+              "Tervezzen több időt a városi forgalomra.",
+              "Ne hagyjon értéktárgyat látható helyen az autóban."
+            ],
+            "ro": [
+              "Folosiți o aplicație de parcare pentru a găsi locuri.",
+              "Evitați conducerea pe străzile înguste și ude din centrul vechi.",
+              "Aprindeți farurile pe timp de ploaie (faza scurtă).",
+              "Alocați mai mult timp pentru traficul urban.",
+              "Nu lăsați obiecte de valoare la vedere în mașină."
+            ],
+            "en": [
+              "Use a parking app to find available spots.",
+              "Avoid driving into the narrow, wet old town streets.",
+              "Turn on your headlights (low beam) in the rain.",
+              "Plan extra time for city traffic.",
+              "Do not leave valuables visible in the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Oviedo im Winter per Auto zu erkunden ist entspannt. Starten Sie an der Escandalera, wo die Stadt festlich geschmückt ist. Der Mercado del Fontán ist morgens angenehm temperiert. Mittags bietet die Fahrt zum Naranco eine fantastische Aussicht auf die verschneiten Picos de Europa in der Ferne. Nachmittags besuchen Sie die Kathedrale und das Museum. Der Abend im San Francisco Park ist dank kurzer Wege zum Auto angenehm.",
+            "hu": "Oviedo felfedezése télen autóval pihentető. Kezdje az Escandaleránál, ahol a város ünnepi díszbe öltözik. A Fontán piac reggel kellemes hőmérsékletű. Délben a Naranco-hegyi út fantasztikus kilátást nyújt a távoli, havas Picos de Europa csúcsokra. Délután látogassa meg a katedrálist és a múzeumot. Az este a San Francisco Parkban az autóhoz közeli utaknak köszönhetően kellemes.",
+            "ro": "Explorarea orașului Oviedo iarna cu mașina este relaxantă. Începeți la Escandalera, unde orașul este decorat festiv. Piața Fontán are o temperatură plăcută dimineața. La prânz, drumul spre Naranco oferă o priveliște fantastică spre vârfurile înzăpezite ale Picos de Europa din depărtare. După-amiaza, vizitați Catedrala și Muzeul. Seara în parcul San Francisco este plăcută datorită accesului rapid la mașină.",
+            "en": "Exploring Oviedo in winter by car is relaxed. Start at Escandalera, where the city is festively decorated. Fontán market is pleasantly tempered in the morning. Midday, the drive up Naranco offers fantastic views of the snowy Picos de Europa in the distance. Afternoon, visit the Cathedral and Museum. Evening in San Francisco Park is pleasant thanks to short walks back to the car."
+          },
+          "stops": [
+            {
+              "name": "Plaza de la Escandalera",
+              "tip_5lang": {
+                "de": "Heizung im Auto auf dem Weg zum nächsten Stopp genießen.",
+                "hu": "Élvezze az autó fűtését a következő megállóig.",
+                "ro": "Bucurați-vă de căldura din mașină în drum spre următoarea oprire.",
+                "en": "Enjoy the car's heating on the way to the next stop."
+              }
+            },
+            {
+              "name": "Mercado del Fontán",
+              "tip_5lang": {
+                "de": "Die Gegend ist weihnachtlich beleuchtet.",
+                "hu": "A környék karácsonyi kivilágítást kap.",
+                "ro": "Zona este iluminată de sărbători.",
+                "en": "The area is decorated with Christmas lights."
+              }
+            },
+            {
+              "name": "Campoamor Theatre",
+              "tip_5lang": {
+                "de": "Ideal, um abends direkt vor den Vorstellungen anzukommen.",
+                "hu": "Ideális az esti előadások előtti közvetlen érkezéshez.",
+                "ro": "Ideal pentru a sosi direct înainte de spectacolele de seară.",
+                "en": "Ideal for arriving just before evening performances."
+              }
+            },
+            {
+              "name": "Santa María del Naranco",
+              "tip_5lang": {
+                "de": "Achten Sie auf Reifglätte auf der Bergstraße.",
+                "hu": "Ügyeljen a zúzmarás utakra a hegyi úton.",
+                "ro": "Atenție la porțiunile cu polei pe drumul de munte.",
+                "en": "Watch out for frost on the mountain road."
+              }
+            },
+            {
+              "name": "San Miguel de Lillo",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann im Winter vereist sein.",
+                "hu": "A parkoló télen jeges lehet.",
+                "ro": "Parcarea poate fi înghețată iarna.",
+                "en": "The parking lot can be icy in winter."
+              }
+            },
+            {
+              "name": "Cathedral of San Salvador",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von den Parkhäusern 'La Escandalera' oder 'El Vasco'.",
+                "hu": "Rövid séta a 'La Escandalera' vagy 'El Vasco' parkolóktól.",
+                "ro": "Scurtă plimbare de la parcările 'La Escandalera' sau 'El Vasco'.",
+                "en": "Short walk from 'La Escandalera' or 'El Vasco' parking garages."
+              }
+            },
+            {
+              "name": "Museum of Fine Arts",
+              "tip_5lang": {
+                "de": "Innenräume sind gut beheizt und einladend.",
+                "hu": "A belső terek jól fűtöttek és hívogatóak.",
+                "ro": "Interioarele sunt bine încălzite și primitoare.",
+                "en": "Interiors are well-heated and inviting."
+              }
+            },
+            {
+              "name": "San Francisco Park",
+              "tip_5lang": {
+                "de": "Abends sind Parkplätze in der Nähe sehr gefragt.",
+                "hu": "Este a közeli parkolóhelyek iránt nagy a kereslet.",
+                "ro": "Seara, locurile de parcare din apropiere sunt foarte căutate.",
+                "en": "Evening parking spots nearby are in high demand."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutzmittel im Scheibenwischwasser sicherstellen.",
+              "Vorsicht in schattigen Kurven am Monte Naranco.",
+              "Nutzen Sie die Tiefgaragen, um ein eingefrorenes Auto zu vermeiden.",
+              "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit.",
+              "Warme Decke im Auto für Notfälle mitführen."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Vigyázat az árnyékos kanyarokban a Naranco-hegyen.",
+              "Használja a mélygarázsokat, hogy elkerülje az autó lefagyását.",
+              "Tervezze a visszautat sötétedés előtt.",
+              "Vigyen magával meleg takarót az autóban vészhelyzetre."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți lichid de parbriz rezistent la îngheț.",
+              "Atenție în curbele umbrite de pe muntele Naranco.",
+              "Folosiți parcările subterane pentru a evita înghețarea mașinii.",
+              "Planificați drumul de întoarcere înainte de lăsarea întunericului.",
+              "Țineți o pătură caldă în mașină pentru urgențe."
+            ],
+            "en": [
+              "Ensure you have anti-freeze in your windshield washer fluid.",
+              "Be careful in shaded curves on Mount Naranco.",
+              "Use underground garages to avoid a frozen car.",
+              "Plan your return journey before dark.",
+              "Keep a warm blanket in the car for emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1766,6 +2444,232 @@
           "The museum and park fit well in the final block.",
           "One ticket per cluster is usually enough."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die TUA-Busse in Oviedo machen Regentage einfach. Starten Sie an der Escandalera, einem zentralen Knotenpunkt. Der Mercado del Fontán ist schnell erreichbar. Mittags bringt Sie der Bus sicher den Naranco hoch, ohne nass zu werden. Nachmittags sind Kathedrale und Museum ideale Ziele. Der San Francisco Park ist gut an das Busnetz angebunden, so dass Sie kaum im Regen stehen müssen.",
+            "hu": "Az oviedói TUA buszok megkönnyítik az esős napokat. Kezdje az Escandaleránál, amely központi csomópont. A Fontán piac gyorsan elérhető. Délben a busz biztonságosan felviszi a Naranco-hegyre anélkül, hogy megázna. Délután a katedrális és a múzeum ideális célpont. A San Francisco Park jól kapcsolódik a buszhálózathoz, így alig kell az esőben várakoznia.",
+            "ro": "Autobuzele TUA din Oviedo fac zilele ploioase mai ușoare. Începeți la Escandalera, un nod central. Piața Fontán este rapid accesibilă. La prânz, autobuzul vă duce în siguranță pe Naranco fără să vă udați. După-amiaza, Catedrala și Muzeul sunt destinații ideale. Parcul San Francisco este bine conectat la rețeaua de autobuze, astfel încât nu va trebui să stați mult în ploaie.",
+            "en": "TUA buses in Oviedo make rainy days easy. Start at Escandalera, a central hub. Fontán market is quickly accessible. Midday, the bus takes you safely up Naranco without getting wet. Afternoon, the Cathedral and Museum are ideal destinations. San Francisco Park is well-connected to the bus network, so you'll hardly have to stand in the rain."
+          },
+          "stops": [
+            {
+              "name": "Plaza de la Escandalera",
+              "tip_5lang": {
+                "de": "Zentraler Busknotenpunkt mit vielen Linien und Wartehallen.",
+                "hu": "Központi buszcsomópont sok vonallal és várócsarnokokkal.",
+                "ro": "Nod central de autobuze cu multe linii și adăposturi.",
+                "en": "Central bus hub with many lines and shelters."
+              }
+            },
+            {
+              "name": "Mercado del Fontán",
+              "tip_5lang": {
+                "de": "Bushaltestelle 'Llamaquique' oder 'Ayuntamiento' nutzen.",
+                "hu": "Használja a 'Llamaquique' vagy 'Ayuntamiento' buszmegállót.",
+                "ro": "Folosiți stația de autobuz 'Llamaquique' sau 'Ayuntamiento'.",
+                "en": "Use the 'Llamaquique' or 'Ayuntamiento' bus stop."
+              }
+            },
+            {
+              "name": "Campoamor Theatre",
+              "tip_5lang": {
+                "de": "Die Haltestelle direkt davor hat ein großes Dach.",
+                "hu": "A közvetlenül előtte lévő megálló nagy tetővel rendelkezik.",
+                "ro": "Stația direct din față are un acoperiș mare.",
+                "en": "The stop right in front has a large roof."
+              }
+            },
+            {
+              "name": "Santa María del Naranco",
+              "tip_5lang": {
+                "de": "Linie A bringt Sie fast direkt vor die Tür.",
+                "hu": "Az A jelzésű busz szinte az ajtó elé viszi.",
+                "ro": "Linia A vă duce aproape direct în fața intrării.",
+                "en": "Line A takes you almost right to the doorstep."
+              }
+            },
+            {
+              "name": "San Miguel de Lillo",
+              "tip_5lang": {
+                "de": "Busfahrzeiten im Blick behalten, um Wartezeit im Regen zu minimieren.",
+                "hu": "Figyelje a menetrendet, hogy minimálisra csökkentse a várakozást.",
+                "ro": "Urmăriți programul pentru a minimiza așteptarea în ploaie.",
+                "en": "Keep an eye on the schedule to minimize waiting in the rain."
+              }
+            },
+            {
+              "name": "Cathedral of San Salvador",
+              "tip_5lang": {
+                "de": "Vom Rathausplatz sind es nur wenige Schritte zur Kathedrale.",
+                "hu": "A városháza térről csak néhány lépés a katedrális.",
+                "ro": "De la piața primăriei sunt doar câțiva pași până la catedrală.",
+                "en": "From the town hall square, it's just a few steps to the cathedral."
+              }
+            },
+            {
+              "name": "Museum of Fine Arts",
+              "tip_5lang": {
+                "de": "Mit dem Bus zurück zum Hotel ist am späten Nachmittag bequem.",
+                "hu": "Késő délután kényelmes busszal visszatérni a szállásra.",
+                "ro": "Este confortabil să vă întoarceți cu autobuzul la cazare după-amiaza târziu.",
+                "en": "Returning by bus in the late afternoon is convenient."
+              }
+            },
+            {
+              "name": "San Francisco Park",
+              "tip_5lang": {
+                "de": "Haupthaltestellen an der Calle Uría nutzen.",
+                "hu": "Használja a fő megállókat a Calle Uría utcában.",
+                "ro": "Folosiți stațiile principale de pe Calle Uría.",
+                "en": "Use the main stops on Calle Uría."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die TUA-App für Echtzeit-Businfos herunter.",
+              "Kaufen Sie eine Mehrfahrtenkarte (Bonobús) beim Fahrer oder am Kiosk.",
+              "Busse sind bei Regen oft voll, planen Sie Pufferzeit ein.",
+              "Die Haltestellen in der Innenstadt sind meist überdacht.",
+              "Achten Sie auf die Ansagen der nächsten Haltestellen."
+            ],
+            "hu": [
+              "Töltse le a TUA alkalmazást a valós idejű buszinformációkhoz.",
+              "Vásároljon gyűjtőjegyet (Bonobús) a vezetőnél vagy újságosnál.",
+              "Esőben a buszok gyakran zsúfoltak, számoljon több idővel.",
+              "A belvárosi megállók többnyire fedettek.",
+              "Figyeljen a következő megállók bemondására."
+            ],
+            "ro": [
+              "Descărcați aplicația TUA pentru informații în timp real.",
+              "Cumpărați un abonament (Bonobús) de la șofer sau de la chioșcuri.",
+              "Autobuzele sunt adesea pline pe ploaie, alocați timp suplimentar.",
+              "Stațiile din centrul orașului sunt de cele mai multe ori acoperite.",
+              "Atenție la anunțurile pentru stațiile următoare."
+            ],
+            "en": [
+              "Download the TUA app for real-time bus information.",
+              "Buy a multi-trip card (Bonobús) from the driver or at a kiosk.",
+              "Buses are often crowded in the rain; allow extra time.",
+              "City center bus stops are mostly covered.",
+              "Pay attention to the next stop announcements."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintertage in Oviedo lassen sich gut mit öffentlichen Verkehrsmitteln organisieren. Starten Sie an der Escandalera, wo die Weihnachtsbeleuchtung morgens noch leuchten kann. Der Mercado del Fontán ist ein warmer Stopp. Mittags bringt Sie der Bus entspannt zum Naranco. Nachmittags besuchen Sie die Kathedrale und das Museum. Abends bringt Sie der Bus schnell aus der Winterkälte zurück zu Ihrem Ausgangspunkt.",
+            "hu": "A téli napok Oviedóban jól megszervezhetők tömegközlekedéssel. Kezdje az Escandaleránál, ahol a karácsonyi fények reggel még világíthatnak. A Fontán piac egy meleg megálló. Délben a busz pihentetően viszi fel a Naranco-hegyre. Délután látogassa meg a katedrálist és a múzeumot. Este a busz gyorsan visszaviszi a téli hidegből a kiindulópontra.",
+            "ro": "Zilele de iarnă în Oviedo pot fi bine organizate cu transportul public. Începeți la Escandalera, unde luminile de Crăciun pot fi încă aprinse dimineața. Piața Fontán este o oprire caldă. La prânz, autobuzul vă duce relaxat pe Naranco. După-amiaza, vizitați Catedrala și Muzeul. Seara, autobuzul vă readuce rapid din frigul iernii la punctul de plecare.",
+            "en": "Winter days in Oviedo can be well-organized using public transport. Start at Escandalera, where Christmas lights might still be on in the morning. Fontán market is a warm stop. Midday, the bus takes you up Naranco in a relaxed way. Afternoon, visit the Cathedral and Museum. In the evening, the bus quickly takes you back from the winter cold to your starting point."
+          },
+          "stops": [
+            {
+              "name": "Plaza de la Escandalera",
+              "tip_5lang": {
+                "de": "Im Bus ist es angenehm warm im Vergleich zur Außenluft.",
+                "hu": "A buszon kellemesen meleg van a kinti levegőhöz képest.",
+                "ro": "În autobuz este plăcut de cald în comparație cu aerul de afară.",
+                "en": "Buses are pleasantly warm compared to the outside air."
+              }
+            },
+            {
+              "name": "Mercado del Fontán",
+              "tip_5lang": {
+                "de": "Ideal für einen Bummel durch die beheizte Markthalle.",
+                "hu": "Ideális egy sétához a fűtött vásárcsarnokban.",
+                "ro": "Ideal pentru o plimbare prin hala încălzită.",
+                "en": "Ideal for a stroll through the heated market hall."
+              }
+            },
+            {
+              "name": "Campoamor Theatre",
+              "tip_5lang": {
+                "de": "Abends sind viele Busse für Theaterbesucher im Einsatz.",
+                "hu": "Este sok busz közlekedik a színházlátogatók számára.",
+                "ro": "Seara circulă multe autobuze pentru spectatori.",
+                "en": "Many buses run in the evening for theater-goers."
+              }
+            },
+            {
+              "name": "Santa María del Naranco",
+              "tip_5lang": {
+                "de": "Linie A fährt auch im Winter regelmäßig alle 60 Minuten.",
+                "hu": "Az A busz télen is rendszeresen, 60 percenként közlekedik.",
+                "ro": "Linia A circulă regulat la fiecare 60 de minute și iarna.",
+                "en": "Line A runs regularly every 60 minutes even in winter."
+              }
+            },
+            {
+              "name": "San Miguel de Lillo",
+              "tip_5lang": {
+                "de": "Im Winter ist der letzte Bus talwärts gegen 19:00 Uhr.",
+                "hu": "Télen az utolsó busz a völgybe 19:00 körül indul.",
+                "ro": "Iarna, ultimul autobuz spre vale este în jurul orei 19:00.",
+                "en": "In winter, the last bus downhill is around 19:00."
+              }
+            },
+            {
+              "name": "Cathedral of San Salvador",
+              "tip_5lang": {
+                "de": "Vom Rathaus aus erreichen Sie viele Buslinien für die Rückfahrt.",
+                "hu": "A városházától számos buszjáratot elér a visszautazáshoz.",
+                "ro": "De la primărie puteți lua numeroase linii de autobuz pentru întoarcere.",
+                "en": "From the town hall, you can reach many bus lines for the return trip."
+              }
+            },
+            {
+              "name": "Museum of Fine Arts",
+              "tip_5lang": {
+                "de": "Bushaltestellen sind nur 3-5 Minuten Fußweg entfernt.",
+                "hu": "A buszmegállók mindössze 3-5 perc sétára vannak.",
+                "ro": "Stațiile de autobuz sunt la doar 3-5 minute de mers pe jos.",
+                "en": "Bus stops are only a 3-5 minute walk away."
+              }
+            },
+            {
+              "name": "San Francisco Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die beleuchtete Calle Uría von der Bushaltestelle aus.",
+                "hu": "Élvezze a kivilágított Calle Uría utcát a buszmegállóból.",
+                "ro": "Bucurați-vă de strada Calle Uría iluminată din stația de autobuz.",
+                "en": "Enjoy the illuminated Calle Uría from the bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie im Bus keine zu dicke Kleidung, um Überhitzung zu vermeiden.",
+              "Die Fahrpläne können an Feiertagen im Dezember abweichen.",
+              "Nutzen Sie die Wartezeit an Haltestellen für Fotos der Weihnachtsstadt.",
+              "Busse sind im Winter eine sichere Wahl bei Glätte.",
+              "Haben Sie Kleingeld für den Fahrkartenkauf bereit."
+            ],
+            "hu": [
+              "A buszon ne viseljen túl vastag ruhát a túlzott felmelegedés ellen.",
+              "A menetrendek decemberi ünnepnapokon eltérhetnek.",
+              "Használja ki a várakozási időt a karácsonyi város fotózására.",
+              "A buszok télen biztonságos választást jelentenek csúszós utak esetén.",
+              "Legyen kéznél aprópénz a jegyvásárláshoz."
+            ],
+            "ro": [
+              "Nu purtați haine prea groase în autobuz pentru a evita supraîncălzirea.",
+              "Orarele pot varia în zilele de sărbătoare din decembrie.",
+              "Folosiți timpul de așteptare pentru a fotografia orașul decorat de Crăciun.",
+              "Autobuzele sunt o alegere sigură iarna în caz de polei.",
+              "Aveți pregătit mărunțiș pentru cumpărarea biletului."
+            ],
+            "en": [
+              "Don't wear too heavy clothing on the bus to avoid overheating.",
+              "Schedules may vary on public holidays in December.",
+              "Use waiting time at stops to photograph the festive city.",
+              "Buses are a safe choice in winter when roads are slippery.",
+              "Have small change ready for ticket purchases."
+            ]
+          }
+        }
       }
     }
   }

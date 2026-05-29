@@ -290,6 +290,206 @@
           "Wear comfortable shoes as you'll be walking all day.",
           "Bring water with you, especially on warm days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im Schutz des beeindruckenden Rathauses. Mittags bietet das Stadtmuseum trockene Zuflucht vor dem Regen. Am Nachmittag besuchen wir das Denkmal der Schlacht bei Senta mit dem Regenschirm, bevor wir die melancholische Stimmung der regnerischen Theiß-Promenade genießen. Der Tag endet gemütlich in einem Café in der Nähe der Brücke.",
+            "hu": "A reggel a Városháza és a Tűztorony fedett falai között indul. Délben a Városi Múzeum nyújt menedéket az eső elől, ahol Zenta történelmébe merülhetünk. Délután az esernyők alatt keressük fel az emlékhelyet, majd a Tisza-parton figyeljük a vízen táncoló esőcseppeket. Az este a belváros esőben csillogó fényeivel zárul.",
+            "ro": "Dimineața începe la adăpostul turnului primăriei. La prânz, muzeul orașului oferă un refugiu uscat împotriva ploii. După-amiaza vizităm monumentul bătăliei cu umbrela, apoi admirăm atmosfera melancolică a promenadei de pe malul Tisei sub ploaie. Seara se încheie într-o notă caldă, admirând luminile orașului reflectate în bălți.",
+            "en": "The morning starts sheltered within the impressive Town Hall. At noon, the Town Museum provides a dry refuge from the rain. In the afternoon, we visit the Battle Memorial with an umbrella, then enjoy the melancholic mood of the rainy Tisa promenade. The day ends comfortably in a cafe near the bridge, watching the rain over the river."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Fire Tower",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht vom überdachten Turm.",
+                "hu": "A torony tetejéről fedett helyről fotózhat.",
+                "ro": "Bucurați-vă de priveliște din turnul acoperit.",
+                "en": "Enjoy the view from the sheltered tower top."
+              }
+            },
+            {
+              "name": "Senta Town Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um einen kräftigen Regenschauer abzuwarten.",
+                "hu": "Tökéletes hely egy nagyobb zápor átvészelésére.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "Perfect place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Church of Saint Anthony",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im trockenen Inneren.",
+                "hu": "Csodálja meg a belső teret az eső elől védve.",
+                "ro": "Admirați arhitectura în interiorul uscat.",
+                "en": "Admire the architecture from the dry interior."
+              }
+            },
+            {
+              "name": "Orthodox Church of Saint Michael the Archangel",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine Regenpause.",
+                "hu": "Csendes hely egy rövid esőszünethez.",
+                "ro": "Un loc liniștit pentru o pauză de ploaie.",
+                "en": "A quiet spot for a quick rain break."
+              }
+            },
+            {
+              "name": "Battle of Senta Memorial",
+              "tip_5lang": {
+                "de": "Achtung, die Stufen können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a lépcsők nedvesen csúszósak lehetnek.",
+                "ro": "Atenție, treptele pot fi alunecoase pe ploaie.",
+                "en": "Caution, the steps can be slippery when wet."
+              }
+            },
+            {
+              "name": "Tisa Bridge",
+              "tip_5lang": {
+                "de": "Windgeschützte Kleidung für die Überquerung empfohlen.",
+                "hu": "Szélálló öltözet javasolt az átkeléshez.",
+                "ro": "Se recomandă haine rezistente la vânt pentru traversare.",
+                "en": "Windproof clothing recommended for the crossing."
+              }
+            },
+            {
+              "name": "Tisa Promenade",
+              "tip_5lang": {
+                "de": "Die Bäume bieten nur begrenzten Schutz vor Regen.",
+                "hu": "A fák csak korlátozott védelmet nyújtanak az eső ellen.",
+                "ro": "Copacii oferă doar protecție limitată împotriva ploii.",
+                "en": "The trees offer only limited shelter from rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da es an der Theiß windig sein kann.",
+              "Tragen Sie wasserfeste Schuhe für die Promenade.",
+              "Nutzen Sie das Museum für längere Regenpausen.",
+              "Die Innenstadt bietet viele arkadenähnliche Vorsprünge."
+            ],
+            "hu": [
+              "Vigyen erős esernyőt, mert a Tisza-parton szeles lehet az idő.",
+              "Vízálló cipő ajánlott a sétányon való gyalogláshoz.",
+              "A múzeumot érdemes a legintenzívebb esőre időzíteni.",
+              "A városháza környékén sok a fedett beugró."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, vântul de pe Tisa poate fi puternic.",
+              "Purtați încălțăminte impermeabilă pentru promenadă.",
+              "Planificați vizita la muzeu în timpul celei mai intense ploi.",
+              "Zona primăriei are multe intrări protejate de ploaie."
+            ],
+            "en": [
+              "Bring a sturdy umbrella as it can be windy near the Tisa.",
+              "Wear waterproof shoes for walking on the promenade.",
+              "Time your museum visit for the heaviest rainfall.",
+              "The town hall area has many sheltered alcoves."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Rathausplatz, wo der Schnee die Türme ziert. Mittags wärmen wir uns in den Ausstellungsräumen des Stadtmuseums auf. Der Nachmittag führt uns zum Schlachtdenkmal, das im Winterlicht besonders friedlich wirkt. Vor dem frühen Sonnenuntergang spazieren wir über die neblige Theiß-Brücke und beenden den Tag bei einem heißen Tee.",
+            "hu": "Deres reggel a városháza előtt, ahol a hó díszíti a tornyokat. Délben a Városi Múzeum meleg kiállítótermeiben melegszünk fel. A délután az emlékhelyhez vezet, amely a téli fényekben különösen méltóságteljes. A korai naplemente előtt átkelünk a ködös Tisza-hídon, majd egy forró teával zárjuk a napot.",
+            "ro": "O dimineață geroasă în fața primăriei, unde zăpada decorează turnurile. La prânz ne încălzim în sălile muzeului orașului. După-amiaza ne duce la monumentul bătăliei, care pare deosebit de liniștit în lumina iernii. Înainte de apusul timpuriu, traversăm podul peste Tisa învăluit în ceață, încheind ziua cu un ceai fierbinte.",
+            "en": "A frosty morning by the Town Hall, where snow decorates the towers. At noon, we warm up in the heated galleries of the Town Museum. The afternoon leads to the Battle Memorial, which looks particularly peaceful in the winter light. Before the early sunset, we walk across the misty Tisa bridge and end the day with hot tea."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Fire Tower",
+              "tip_5lang": {
+                "de": "Der Turmaufstieg ist bei Kälte anstrengend, aber lohnenswert.",
+                "hu": "A toronyba való feljutás hidegben is megéri a kilátást.",
+                "ro": "Urcarea în turn este solicitantă pe frig, dar merită.",
+                "en": "The tower climb is chilly but the view is worth it."
+              }
+            },
+            {
+              "name": "Senta Town Museum",
+              "tip_5lang": {
+                "de": "Perfekt zum Aufwärmen zwischen den Außenstationen.",
+                "hu": "Tökéletes hely a felmelegedésre a séták között.",
+                "ro": "Perfect pentru încălzire între opririle exterioare.",
+                "en": "Perfect for warming up between outdoor stops."
+              }
+            },
+            {
+              "name": "Church of Saint Anthony",
+              "tip_5lang": {
+                "de": "Warme Kleidung empfohlen, Kirchenräume sind oft kühl.",
+                "hu": "Öltözzön rétegesen, a templomok télen hűvösek.",
+                "ro": "Îmbrăcați-vă gros, bisericile sunt răcoroase iarna.",
+                "en": "Dress in layers, church interiors are chilly in winter."
+              }
+            },
+            {
+              "name": "Orthodox Church of Saint Michael the Archangel",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt zum Schutz vor dem Winterwind.",
+                "hu": "Rövid pihenő a téli szél elleni védelemhez.",
+                "ro": "O scurtă oprire pentru protecție împotriva vântului.",
+                "en": "Short stop for protection from the winter wind."
+              }
+            },
+            {
+              "name": "Battle of Senta Memorial",
+              "tip_5lang": {
+                "de": "Das Denkmal wirkt im Schnee besonders imposant.",
+                "hu": "Az emlékhely hóban különösen látványos.",
+                "ro": "Monumentul arată deosebit de impunător în zăpadă.",
+                "en": "The memorial looks especially imposing in the snow."
+              }
+            },
+            {
+              "name": "Tisa Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf dem Gehweg der Brücke.",
+                "hu": "Vigyázzon a jegesedésre a híd gyalogos részén.",
+                "ro": "Atenție la polei pe partea pietonală a podului.",
+                "en": "Watch out for black ice on the bridge walkway."
+              }
+            },
+            {
+              "name": "Tisa Promenade",
+              "tip_5lang": {
+                "de": "Herrliche Aussicht auf die (vielleicht) gefrorene Theiß.",
+                "hu": "Pazar kilátás a (talán) befagyott Tiszára.",
+                "ro": "Vedere superbă asupra Tisei (poate) înghețate.",
+                "en": "Splendid view of the (possibly) frozen Tisa river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermokleidung, der Wind an der Theiß ist eisig.",
+              "Der Sonnenuntergang ist im Winter bereits gegen 16:30 Uhr.",
+              "Planen Sie regelmäßige Pausen in beheizten Cafés ein.",
+              "Tragen Sie griffige Schuhe bei Schnee oder Glätte."
+            ],
+            "hu": [
+              "Viseljen termaruházatot, a tiszai szél metsző lehet.",
+              "A naplemente télen már 16:30 körül bekövetkezik.",
+              "Tervezzen be rendszeres pihenőket fűtött kávézókban.",
+              "Hordjon csúszásmentes talpú cipőt a jegesedés miatt."
+            ],
+            "ro": [
+              "Purtați haine termice, vântul de pe Tisa poate fi tăios.",
+              "Apusul soarelui are loc deja în jurul orei 16:30 iarna.",
+              "Planificați pauze regulate în cafenele încălzite.",
+              "Purtați încălțăminte cu talpă aderentă pentru gheață."
+            ],
+            "en": [
+              "Wear thermal clothing, the wind from the Tisa can be biting.",
+              "Sunset occurs as early as 4:30 PM in winter.",
+              "Plan regular breaks in heated cafes.",
+              "Wear shoes with good grip in case of ice or snow."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -574,6 +774,206 @@
           "Check your tire pressure before setting off.",
           "Bring a lock to secure your bike at stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour durch Senta, beginnend am Rathaus. Wir radeln vorsichtig zur St.-Antonius-Kirche und suchen Schutz im Gedenkhaus von Stevan Sremac. Das Stadtmuseum bietet eine längere Pause im Trockenen. Trotz Regen ist die Fahrt über die Theiß-Brücke erfrischend, bevor wir die Tour auf der Promenade beenden.",
+            "hu": "Vizes kerékpártúra Zentán, a Városházától indulva. Óvatosan tekerünk a Szent Antal templomhoz, majd Sremac István emlékházában keresünk menedéket. A Városi Múzeum hosszabb száraz pihenőt kínál. Az eső ellenére a Tisza-hídon való átkelés frissítő, mielőtt a sétányon zárnánk a kört.",
+            "ro": "O tură umedă cu bicicleta prin Senta, pornind de la primărie. Pedalăm cu atenție spre biserica Sf. Anton și căutăm adăpost la casa memorială Stevan Sremac. Muzeul orașului oferă o pauză lungă la uscat. În ciuda ploii, traversarea podului peste Tisa este revigorantă înainte de final.",
+            "en": "A wet bike ride through Senta, starting at the Town Hall. We cycle carefully to St. Anthony's Church and seek shelter at the Stevan Sremac Memorial House. The Town Museum offers a long dry break. Despite the rain, crossing the Tisa Bridge is refreshing before finishing the tour on the promenade."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Fire Tower",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz in der Nähe des Eingangs.",
+                "hu": "Biztonságos tároló a bejárat közelében.",
+                "ro": "Loc de parcare sigur lângă intrare.",
+                "en": "Secure bike parking near the entrance."
+              }
+            },
+            {
+              "name": "Church of Saint Anthony",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a fékezéssel a vizes macskakövön.",
+                "ro": "Atenție la frânare pe pavajul umed.",
+                "en": "Be careful when braking on wet cobblestones."
+              }
+            },
+            {
+              "name": "Stevan Sremac Memorial House",
+              "tip_5lang": {
+                "de": "Kleines Museum, ideal für einen kurzen Regenschauer.",
+                "hu": "Kis múzeum, ideális egy rövid zápor idejére.",
+                "ro": "Muzeu mic, ideal pentru o ploaie scurtă.",
+                "en": "Small museum, ideal during a short shower."
+              }
+            },
+            {
+              "name": "Senta Town Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad wettergeschützt ab.",
+                "hu": "Helyezze a kerékpárt esőtől védett helyre.",
+                "ro": "Lăsați bicicleta într-un loc ferit de ploaie.",
+                "en": "Park your bike in a spot sheltered from rain."
+              }
+            },
+            {
+              "name": "Battle of Senta Memorial",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, halten Sie den Lenker gut fest.",
+                "hu": "Rövid megálló, tartsa erősen a kormányt a szélben.",
+                "ro": "Oprire scurtă, țineți bine ghidonul pe vânt.",
+                "en": "Short stop, hold the handlebars firmly in the wind."
+              }
+            },
+            {
+              "name": "Tisa Bridge",
+              "tip_5lang": {
+                "de": "Sehr windanfällig bei Regen, fahren Sie mittig.",
+                "hu": "Esőben nagyon szeles, tekerjen stabilan.",
+                "ro": "Foarte expus la vânt pe ploaie, pedalați cu grijă.",
+                "en": "Very windy during rain, cycle steadily."
+              }
+            },
+            {
+              "name": "Tisa Promenade",
+              "tip_5lang": {
+                "de": "Achtung vor Pfützen und rutschigem Laub.",
+                "hu": "Vigyázzon a tócsákra és a csúszós levelelekre.",
+                "ro": "Atenție la bălți și frunze alunecoase.",
+                "en": "Watch out for puddles and slippery leaves."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Bremstests auf nassem Untergrund durchführen.",
+              "Eine wasserdichte Regenjacke ist unerlässlich.",
+              "Vermeiden Sie schnelle Kurven auf nassem Asphalt."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "Végezzen fékpróbát a vizes útfelületen.",
+              "A vízálló esőkabát elengedhetetlen.",
+              "Kerülje a hirtelen kanyarodást a vizes aszfalton."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi pentru a vă proteja de apă.",
+              "Testați frânele pe suprafața umedă.",
+              "O pelerină de ploaie impermeabilă este esențială.",
+              "Evitați virajele bruște pe asfaltul umed."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from spray.",
+              "Perform a brake test on the wet surface.",
+              "A waterproof rain jacket is essential.",
+              "Avoid sharp turns on wet asphalt."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Winterfahrt durch Senta. Wir starten am frostigen Rathaus und radeln zügig durch die kalte Luft zu den Kirchen. Das Gedenkhaus und das Stadtmuseum bieten notwendige Aufwärmpausen. Die Überquerung der Theiß-Brücke ist bei Winterwind eine Herausforderung, wird aber durch die Aussicht auf den winterlichen Fluss belohnt.",
+            "hu": "Frissítő téli tekerés Zentán. A fagyos Városházától indulunk, és gyorsan haladunk a hideg levegőben a templomok felé. Az emlékház és a Városi Múzeum szükséges felmelegedési pontok. A Tisza-hídon való átkelés téli szélben kihívás, de a látvány a téli folyóra kárpótol.",
+            "ro": "O tură revigorantă de iarnă prin Senta. Pornim de la primăria înghețată și pedalăm rapid prin aerul rece spre biserici. Casa memorială și muzeul orașului oferă pauze necesare pentru încălzire. Traversarea podului peste Tisa pe vânt de iarnă este o provocare, dar priveliștea merită.",
+            "en": "A refreshing winter ride through Senta. We start at the frosty Town Hall and move quickly through the cold air towards the churches. The memorial house and the Town Museum provide necessary warm-up stops. Crossing the Tisa Bridge in winter wind is a challenge, but the view of the wintry river is rewarding."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Fire Tower",
+              "tip_5lang": {
+                "de": "Kaltes Metall am Fahrradständer, Handschuhe tragen.",
+                "hu": "Hideg fém a tárolónál, viseljen kesztyűt.",
+                "ro": "Metal rece la suportul de biciclete, purtați mănuși.",
+                "en": "Cold metal at the bike rack, wear gloves."
+              }
+            },
+            {
+              "name": "Church of Saint Anthony",
+              "tip_5lang": {
+                "de": "Kurze Besichtigung, um nicht auszukühlen.",
+                "hu": "Rövid látogatás, hogy ne hűljön ki túlságosan.",
+                "ro": "Vizită scurtă pentru a nu vă răci prea tare.",
+                "en": "Short visit to avoid getting too cold."
+              }
+            },
+            {
+              "name": "Stevan Sremac Memorial House",
+              "tip_5lang": {
+                "de": "Gemütlicher Ort für eine kurze Pause vom Wind.",
+                "hu": "Hangulatos hely egy rövid pihenőre a szél elől.",
+                "ro": "Loc primitor pentru o scurtă pauză de vânt.",
+                "en": "Cozy place for a short break from the wind."
+              }
+            },
+            {
+              "name": "Senta Town Museum",
+              "tip_5lang": {
+                "de": "Längerer Aufenthalt zum Aufwärmen der Glieder.",
+                "hu": "Hosszabb tartózkodás a végtagok felmelegítésére.",
+                "ro": "Ședere prelungită pentru a vă încălzi membrele.",
+                "en": "Longer stay to warm up your limbs."
+              }
+            },
+            {
+              "name": "Battle of Senta Memorial",
+              "tip_5lang": {
+                "de": "Windige Ecke, halten Sie sich nicht zu lange auf.",
+                "hu": "Szeles sarok, ne időzzön itt túl sokat.",
+                "ro": "Zonă vântoasă, nu zăboviți prea mult.",
+                "en": "Windy corner, don't stay too long."
+              }
+            },
+            {
+              "name": "Tisa Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht bei starkem Seitenwind auf der Brücke.",
+                "hu": "Vigyázzon az erős oldalszélre a hídon.",
+                "ro": "Atenție la vântul lateral puternic pe pod.",
+                "en": "Beware of strong side winds on the bridge."
+              }
+            },
+            {
+              "name": "Tisa Promenade",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig bei möglichem Glatteis.",
+                "hu": "Tekerjen óvatosan az esetleges jegesedés miatt.",
+                "ro": "Pedalați cu grijă din cauza posibilului polei.",
+                "en": "Cycle carefully due to potential black ice."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Halten Sie die Kette gut geölt gegen Streusalz.",
+              "Das Tageslicht ist begrenzt, prüfen Sie Ihre Beleuchtung.",
+              "Fahren Sie langsamer, um den kalten Fahrtwind zu reduzieren."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "Tartsa jól olajozottan a láncot az útszóró só ellen.",
+              "A nappali fény korlátozott, ellenőrizze a világítást.",
+              "Tekerjen lassabban a hideg menetszél csökkentése érdekében."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și căciulă sub cască.",
+              "Mențineți lanțul bine uns împotriva sării de pe drum.",
+              "Lumina zilei este limitată, verificați iluminarea.",
+              "Pedalați mai încet pentru a reduce curentul de aer rece."
+            ],
+            "en": [
+              "Wear windproof gloves and a hat under your helmet.",
+              "Keep the chain well-oiled against road salt.",
+              "Daylight is limited, check your lights.",
+              "Cycle slower to reduce the cold wind chill."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -834,6 +1234,188 @@
           "Check parking regulations and fees in advance.",
           "Plan your route between clusters to save time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequeme Fahrt durch das regnerische Senta. Wir parken direkt am Rathaus und besuchen das Stadtmuseum, während es draußen schüttet. Die Fahrt über die Theiß-Brücke bietet einen tollen Blick auf den Fluss, ohne nass zu werden. Den Nachmittag verbringen wir flexibel an der Promenade, bereit, bei jedem Schauer ins Auto zu schlüpfen.",
+            "hu": "Kényelmes autós túra az esős Zentán. Közvetlenül a Városházánál parkolunk, és a múzeumba menekülünk a felhőszakadás elől. A Tisza-hídon való átkelés pazar kilátást nyújt a folyóra anélkül, hogy megáznánk. A délutánt rugalmasan töltjük a sétányon, készen arra, hogy bármikor az autóba huppanjunk.",
+            "ro": "O călătorie confortabilă cu mașina prin Senta ploioasă. Parcăm direct lângă primărie și vizităm muzeul în timp ce afară plouă. Traversarea podului peste Tisa oferă o vedere excelentă asupra râului fără a ne uda. Petrecem după-amiaza flexibil pe promenadă, gata să ne retragem în mașină la orice aversă.",
+            "en": "A comfortable car tour through rainy Senta. We park right by the Town Hall and visit the museum while it pours outside. Crossing the Tisa Bridge offers a great view of the river without getting wet. We spend the afternoon flexibly on the promenade, ready to hop back into the car at any shower."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Fire Tower",
+              "tip_5lang": {
+                "de": "Parkplätze sind oft direkt am Platz verfügbar.",
+                "hu": "Parkolóhelyek gyakran közvetlenül a téren elérhetők.",
+                "ro": "Locurile de parcare sunt adesea disponibile direct în piață.",
+                "en": "Parking spaces are often available directly on the square."
+              }
+            },
+            {
+              "name": "Senta Town Museum",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum Eingang.",
+                "hu": "Rövid séta a parkolótól a bejáratig.",
+                "ro": "Scurtă plimbare de la parcare până la intrare.",
+                "en": "Short walk from the parking spot to the entrance."
+              }
+            },
+            {
+              "name": "Church of Saint Anthony",
+              "tip_5lang": {
+                "de": "Lassen Sie keine Wertsachen sichtbar im Auto.",
+                "hu": "Ne hagyjon értéktárgyat látható helyen az autóban.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
+                "en": "Do not leave valuables visible in the car."
+              }
+            },
+            {
+              "name": "Battle of Senta Memorial",
+              "tip_5lang": {
+                "de": "Vom Auto aus gut zu sehen, wenn es stark regnet.",
+                "hu": "Az autóból is jól látható, ha erősen esik.",
+                "ro": "Se vede bine din mașină dacă plouă torențial.",
+                "en": "Well visible from the car if it rains heavily."
+              }
+            },
+            {
+              "name": "Tisa Bridge",
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick aus dem trockenen Auto.",
+                "hu": "Élvezze a panorámát a száraz autóból.",
+                "ro": "Bucurați-vă de panoramă din mașina uscată.",
+                "en": "Enjoy the panorama from the dry car."
+              }
+            },
+            {
+              "name": "Tisa Promenade",
+              "tip_5lang": {
+                "de": "Parken Sie am Rand und genießen Sie die Aussicht.",
+                "hu": "Parkoljon a szélen és élvezze a kilátást.",
+                "ro": "Parcați la margine și bucurați-vă de priveliște.",
+                "en": "Park at the edge and enjoy the view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt.",
+              "Achten Sie auf Aquaplaning auf der Brücke.",
+              "Nutzen Sie Park-Apps, um schnell Plätze zu finden.",
+              "Halten Sie einen Regenschirm im Auto bereit."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket indulás előtt.",
+              "Ügyeljen a vízfelúszásra (aquaplaning) a hídon.",
+              "Használjon parkolási alkalmazásokat a gyors kereséshez.",
+              "Tartson kéznél esernyőt az autóban."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de plecare.",
+              "Atenție la acvaplanare pe pod.",
+              "Folosiți aplicații de parcare pentru o căutare rapidă.",
+              "Țineți o umbrelă la îndemână în mașină."
+            ],
+            "en": [
+              "Check your wipers before starting the trip.",
+              "Watch out for aquaplaning on the bridge.",
+              "Use parking apps for quick searching.",
+              "Keep an umbrella handy in the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine warme Autotour durch das verschneite Senta. Das beheizte Auto bringt uns sicher vom Rathaus zu den Museen und Kirchen. Wir bewundern die winterliche Landschaft der Theiß aus dem Fenster und machen nur kurze Stopps an den Denkmälern. Den Tag lassen wir mit einer gemütlichen Fahrt entlang der Promenade ausklingen, während draußen der Frost klirrt.",
+            "hu": "Meleg autós túra a havas Zentán. A fűtött autó biztonságosan repít minket a Városházától a múzeumokig és templomokig. Az ablakból csodáljuk a Tisza téli táját, és csak rövid megállókat tartunk az emlékműveknél. A napot a sétány menti hangulatos autózással zárjuk, miközben kint röpködnek a mínuszok.",
+            "ro": "O călătorie caldă cu mașina prin Senta înzăpezită. Mașina încălzită ne duce în siguranță de la primărie la muzee și biserici. Admirăm peisajul de iarnă al Tisei de la fereastră și facem doar scurte opriri la monumente. Încheiem ziua cu o plimbare confortabilă cu mașina de-a lungul promenadei.",
+            "en": "A warm car tour through snowy Senta. The heated car takes us safely from the Town Hall to the museums and churches. We admire the winter landscape of the Tisa from the window and make only short stops at the memorials. We end the day with a cozy drive along the promenade while it freezes outside."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Fire Tower",
+              "tip_5lang": {
+                "de": "Achten Sie auf geräumte Parkplätze am Platz.",
+                "hu": "Ügyeljen a letakarított parkolóhelyekre a téren.",
+                "ro": "Căutați locuri de parcare curățate în piață.",
+                "en": "Look for cleared parking spots on the square."
+              }
+            },
+            {
+              "name": "Senta Town Museum",
+              "tip_5lang": {
+                "de": "Das Auto kann während des Besuchs gut vorheizen.",
+                "hu": "Az autó jól bemelegedhet a látogatás alatt.",
+                "ro": "Mașina se poate încălzi bine în timpul vizitei.",
+                "en": "The car can warm up nicely during the visit."
+              }
+            },
+            {
+              "name": "Church of Saint Anthony",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisplatten auf dem Parkplatz.",
+                "hu": "Vigyázzon a jégfoltokra a parkolóban.",
+                "ro": "Atenție la petele de gheață din parcare.",
+                "en": "Watch out for icy patches in the parking area."
+              }
+            },
+            {
+              "name": "Battle of Senta Memorial",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für ein Foto im Schnee.",
+                "hu": "Rövid kiszállás egy havas fotó kedvéért.",
+                "ro": "O scurtă coborâre pentru o fotografie în zăpadă.",
+                "en": "Short hop out for a photo in the snow."
+              }
+            },
+            {
+              "name": "Tisa Bridge",
+              "tip_5lang": {
+                "de": "Brücken frieren oft schneller ein als normale Straßen.",
+                "hu": "A hidak gyakran gyorsabban jegesednek, mint az utak.",
+                "ro": "Podurile îngheață adesea mai repede decât drumurile.",
+                "en": "Bridges often freeze faster than normal roads."
+              }
+            },
+            {
+              "name": "Tisa Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie die Winterstimmung vom warmen Sitz aus.",
+                "hu": "Élvezze a téli hangulatot a meleg ülésből.",
+                "ro": "Bucurați-vă de atmosfera de iarnă din scaunul cald.",
+                "en": "Enjoy the winter mood from the warm seat."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und ausreichend Frostschutzmittel sind Pflicht.",
+              "Ein Eiskratzer sollte griffbereit sein.",
+              "Vermeiden Sie hastige Lenkbewegungen auf Schnee.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche ein."
+            ],
+            "hu": [
+              "A téli gumi és a fagyálló folyadék kötelező.",
+              "A jégkaparó legyen kéznél.",
+              "Kerülje a hirtelen kormánymozdulatokat havon.",
+              "Tervezzen több időt a parkolóhely keresésére."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și lichidul antigel sunt obligatorii.",
+              "Răzuitoarea de gheață trebuie să fie la îndemână.",
+              "Evitați mișcările bruște de volan pe zăpadă.",
+              "Planificați mai mult timp pentru căutarea parcării."
+            ],
+            "en": [
+              "Winter tires and sufficient antifreeze are mandatory.",
+              "An ice scraper should be within reach.",
+              "Avoid sudden steering movements on snow.",
+              "Plan more time for finding a parking spot."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1094,6 +1676,188 @@
           "Buy a day pass for unlimited travel.",
           "Check the bus schedule in advance, especially on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus durch das verregnete Senta. Wir starten am Rathaus und nutzen den Transit zum Stadtmuseum. Die Wartezeiten an den Haltestellen überbrücken wir unter Unterständen. Die Fahrt über die Brücke bietet einen trockenen Ausblick auf die graue Theiß, bevor wir den Tag an der Promenade ausklingen lassen.",
+            "hu": "Busszal az esős Zentán. A Városházától indulunk, és tömegközlekedéssel jutunk el a Városi Múzeumhoz. A megállókban a várótermek vagy fedett beugrók alatt várakozunk. A hídon való átkelés száraz kilátást nyújt a szürke Tiszára, mielőtt a sétánynál zárnánk a napot.",
+            "ro": "Cu autobuzul prin Senta ploioasă. Pornim de la primărie și folosim transportul în comun spre muzeu. Așteptăm în stații sub adăposturi. Traversarea podului oferă o vedere uscată asupra Tisei cenușii înainte de a încheia ziua la promenadă.",
+            "en": "By bus through rainy Senta. We start at the Town Hall and take transit to the Town Museum. We wait at the stops under shelters or eaves. Crossing the bridge offers a dry view of the gray Tisa before finishing the day by the promenade."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Fire Tower",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle mit gutem Regenschutz.",
+                "hu": "Központi megálló jó esővédelemmel.",
+                "ro": "Stație centrală cu protecție bună împotriva ploii.",
+                "en": "Central stop with good rain protection."
+              }
+            },
+            {
+              "name": "Senta Town Museum",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Schritte entfernt.",
+                "hu": "A megálló csak pár lépésre van a múzeumtól.",
+                "ro": "Stația este la doar câțiva pași de muzeu.",
+                "en": "The stop is just a few steps from the museum."
+              }
+            },
+            {
+              "name": "Orthodox Church of Saint Michael the Archangel",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als Regenschutz.",
+                "hu": "Használja a templombejáratot eső elleni védelemként.",
+                "ro": "Folosiți intrarea bisericii ca adăpost împotriva ploii.",
+                "en": "Use the church entrance as rain shelter."
+              }
+            },
+            {
+              "name": "Tisa Promenade",
+              "tip_5lang": {
+                "de": "Warten Sie im Bus auf die nächste trockene Phase.",
+                "hu": "Várja meg a buszon a következő száraz időszakot.",
+                "ro": "Așteptați în autobuz următoarea perioadă fără ploaie.",
+                "en": "Wait on the bus for the next dry spell."
+              }
+            },
+            {
+              "name": "Battle of Senta Memorial",
+              "tip_5lang": {
+                "de": "Halten Sie den Fahrplan für kurze Stopps bereit.",
+                "hu": "Legyen kéznél a menetrend a rövid megállókhoz.",
+                "ro": "Aveți la îndemână programul pentru opriri scurte.",
+                "en": "Have the schedule ready for short stops."
+              }
+            },
+            {
+              "name": "Tisa Bridge",
+              "tip_5lang": {
+                "de": "Blick aus dem Fenster auf die regnerische Theiß.",
+                "hu": "Kilátás az ablakból az esős Tiszára.",
+                "ro": "Vedere de la fereastră asupra Tisei ploioase.",
+                "en": "View from the window of the rainy Tisa."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie eine Transit-App für Echtzeit-Infos.",
+              "Haben Sie Kleingeld für Fahrkarten griffbereit.",
+              "Stellen Sie sich bei Regen tief in die Unterstände.",
+              "Tragen Sie wasserfeste Kleidung für den Weg zur Haltestelle."
+            ],
+            "hu": [
+              "Használjon közlekedési alkalmazást a friss infókért.",
+              "Legyen kéznél aprópénz a jegyvásárláshoz.",
+              "Esőben húzódjon beljebb a várókba.",
+              "Viseljen vízálló ruhát a megállóig tartó úton."
+            ],
+            "ro": [
+              "Folosiți o aplicație de transport pentru info în timp real.",
+              "Aveți mărunțiș pregătit pentru bilete.",
+              "Stați mai în interiorul adăposturilor când plouă.",
+              "Purtați haine impermeabile pentru drumul spre stație."
+            ],
+            "en": [
+              "Use a transit app for real-time information.",
+              "Have small change ready for tickets.",
+              "Stand further inside the shelters during rain.",
+              "Wear waterproof clothing for the walk to the stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Bus durch das winterliche Senta. Wir verlassen das frostige Rathaus und genießen die Wärme während der Fahrt zum Museum. Die kurzen Fußwege zwischen Haltestelle und Sehenswürdigkeit halten uns in Bewegung. Der Blick auf die schneebedeckte Theiß von der Brücke aus ist ein Highlight, bevor wir uns am Abend aufwärmen.",
+            "hu": "Fűtött busszal a téli Zentán. Elhagyjuk a fagyos Városházát, és élvezzük a meleget a múzeum felé menet. A megállók és a látnivalók közötti rövid séta mozgásban tart minket. A hídról nyíló kilátás a havas Tiszára fénypontja a napnak, mielőtt este felmelegednénk.",
+            "ro": "Cu autobuzul încălzit prin Senta de iarnă. Părăsim primăria geroasă și ne bucurăm de căldură în drum spre muzeu. Scurtele plimbări între stații și obiective ne mențin activi. Vederea asupra Tisei înzăpezite de pe pod este un punct forte înainte de seară.",
+            "en": "By heated bus through winter Senta. We leave the frosty Town Hall and enjoy the warmth while riding to the museum. The short walks between stops and sights keep us moving. The view of the snowy Tisa from the bridge is a highlight before warming up in the evening."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Fire Tower",
+              "tip_5lang": {
+                "de": "Warten Sie im Inneren, wenn der Bus Verspätung hat.",
+                "hu": "Várjon bent, ha késik a busz.",
+                "ro": "Așteptați în interior dacă autobuzul întârzie.",
+                "en": "Wait inside if the bus is delayed."
+              }
+            },
+            {
+              "name": "Senta Town Museum",
+              "tip_5lang": {
+                "de": "Der kurze Weg zur Haltestelle ist bei Frost okay.",
+                "hu": "A rövid út a megállóig fagyban is bírható.",
+                "ro": "Drumul scurt până la stație este ok pe ger.",
+                "en": "The short walk to the stop is fine in the frost."
+              }
+            },
+            {
+              "name": "Orthodox Church of Saint Michael the Archangel",
+              "tip_5lang": {
+                "de": "In der Kirche ist es wärmer als an der Haltestelle.",
+                "hu": "A templomban melegebb van, mint a megállóban.",
+                "ro": "În biserică este mai cald decât în stație.",
+                "en": "It is warmer inside the church than at the stop."
+              }
+            },
+            {
+              "name": "Tisa Promenade",
+              "tip_5lang": {
+                "de": "Kürzen Sie den Aufenthalt ab, wenn es zu kalt wird.",
+                "hu": "Rövidítse le a kint tartózkodást, ha túl hideg van.",
+                "ro": "Scurtați șederea dacă se face prea frig.",
+                "en": "Shorten your stay if it gets too cold."
+              }
+            },
+            {
+              "name": "Battle of Senta Memorial",
+              "tip_5lang": {
+                "de": "Bewundern Sie das Denkmal zügig im Winterlicht.",
+                "hu": "Csodálja meg az emlékművet gyorsan a téli fényben.",
+                "ro": "Admirați monumentul rapid în lumina iernii.",
+                "en": "Admire the memorial quickly in the winter light."
+              }
+            },
+            {
+              "name": "Tisa Bridge",
+              "tip_5lang": {
+                "de": "Die Heizung im Bus macht die Überquerung angenehm.",
+                "hu": "A busz fűtése kellemessé teszi az átkelést.",
+                "ro": "Încălzirea din autobuz face traversarea plăcută.",
+                "en": "The bus heating makes the crossing pleasant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie mögliche winterbedingte Fahrplanänderungen.",
+              "Tragen Sie warme Kleidung für die Wartezeit.",
+              "Nutzen Sie beheizte öffentliche Gebäude für Pausen.",
+              "Achten Sie auf rutschige Haltestellenbereiche."
+            ],
+            "hu": [
+              "Ügyeljen a téli menetrendi változásokra.",
+              "Viseljen meleg ruhát a várakozáshoz.",
+              "Használja a fűtött középületeket pihenőre.",
+              "Vigyázzon a csúszós megállókra."
+            ],
+            "ro": [
+              "Atenție la posibilele modificări de program iarna.",
+              "Purtați haine groase pentru timpul de așteptare.",
+              "Folosiți clădirile publice încălzite pentru pauze.",
+              "Atenție la zonele alunecoase din stații."
+            ],
+            "en": [
+              "Check for potential winter schedule changes.",
+              "Wear warm clothing for the waiting time.",
+              "Use heated public buildings for breaks.",
+              "Watch out for slippery station areas."
+            ]
+          }
+        }
       }
     }
   }

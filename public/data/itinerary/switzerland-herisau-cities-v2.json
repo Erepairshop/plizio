@@ -378,6 +378,196 @@
           "Check the museum's opening hours in advance.",
           "Most shops close early in the evening and on Sundays."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Obstmarkt, wo die bunten Fassaden auch bei grauem Himmel leuchten. Ein kurzer Sprint führt zur St. Laurenzen Kirche, einem idealen Rückzugsort vor dem Regen. Mittags bietet das Museum Herisau tiefen Einblick in die Appenzeller Kultur, während draußen die Tropfen fallen. Den Nachmittag verbringen wir gemütlich bei einem traditionellen Mittagessen, bevor ein kurzer, regnerischer Aufstieg zu den Rosenburg-Ruinen den Tag abrundet.",
+            "hu": "A nap az Obstmarkton kezdődik, ahol a színes homlokzatok szürke égbolt alatt is ragyognak. Egy gyors séta a Szent Lőrinc-templomhoz vezet, amely kiváló menedék az eső elől. Délben a Herisau Múzeum kínál bepillantást az appenzelli kultúrába, miközben kint kopog az eső. A délutánt egy bőséges helyi ebéd teszi teljessé, végül egy rövid, esős kapaszkodó a Rosenburg romjaihoz zárja a programot.",
+            "ro": "Ziua începe la Obstmarkt, unde fațadele colorate strălucesc chiar și sub un cer cenușiu. O scurtă plimbare duce la Biserica Sf. Laurențiu, un refugiu ideal împotriva ploii. La prânz, Muzeul Herisau oferă o incursiune în cultura Appenzell, în timp ce afară plouă. După-amiaza este dedicată unui prânz tradițional cald, urmat de o urcare scurtă prin ploaie spre ruinele Rosenburg pentru a încheia ziua.",
+            "en": "The day starts at Obstmarkt, where colorful facades brighten even the greyest sky. A quick walk leads to St. Lawrence Church, a perfect refuge from the rain. At midday, the Herisau Museum offers deep insights into Appenzell culture while the rain falls outside. The afternoon is spent enjoying a cozy traditional lunch, followed by a brief, rainy ascent to the Rosenburg ruins to wrap up the day."
+          },
+          "stops": [
+            {
+              "name": "Row of houses at the Obstmarkt",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Arkaden und bewundern Sie die Fassaden.",
+                "hu": "Keressen menedéket az árkádok alatt, és csodálja meg a homlokzatokat.",
+                "ro": "Căutați adăpost sub arcade și admirați fațadele clădirilor.",
+                "en": "Seek shelter under the eaves and admire the colorful facades."
+              }
+            },
+            {
+              "name": "Reformed Church of St. Lawrence",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um das Ende eines Regenschauers abzuwarten.",
+                "hu": "Tökéletes hely egy hirtelen zápor átvészelésére a csendben.",
+                "ro": "Un loc perfect pentru a aștepta trecerea unei averse în liniște.",
+                "en": "A perfect place to wait out a rain shower in peace."
+              }
+            },
+            {
+              "name": "Government Building",
+              "tip_5lang": {
+                "de": "Bewundern Sie die beeindruckende Architektur schnell vom Gehweg aus.",
+                "hu": "Csodálja meg az impozáns épületet gyorsan a járda felől.",
+                "ro": "Admirați arhitectura impresionantă rapid de pe trotuar.",
+                "en": "Quickly admire the impressive architecture from the sidewalk."
+              }
+            },
+            {
+              "name": "Herisau Museum",
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Besuch, um ganz im Trockenen zu bleiben.",
+                "hu": "Hosszabbítsa meg látogatását, hogy teljesen szárazon maradjon.",
+                "ro": "Prelungiți vizita pentru a rămâne la adăpost de umezeală.",
+                "en": "Extend your visit to stay completely dry while exploring."
+              }
+            },
+            {
+              "name": "Lunch in the Appenzell region",
+              "tip_5lang": {
+                "de": "Genießen Sie Käsespätzle, während der Regen gegen die Fenster trommelt.",
+                "hu": "Élvezze a sajtos nokedlit, miközben az eső kopog az ablakon.",
+                "ro": "Savurați specialități cu brânză în timp ce ploaia bate în geam.",
+                "en": "Enjoy cheese specialties while the rain drums on the windows."
+              }
+            },
+            {
+              "name": "Rosenburg Ruins",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Pfad, die Steine können bei Nässe rutschig sein.",
+                "hu": "Vigyázat az ösvényen, a kövek nedvesen csúszósak lehetnek.",
+                "ro": "Atenție pe potecă, pietrele pot fi alunecoase când sunt ude.",
+                "en": "Be careful on the path; the stones can be slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Durchgänge der Altstadt als Regenschutz.",
+              "Ein stabiler Regenschirm ist wegen der Winde in Herisau ratsam.",
+              "Planen Sie mehr Zeit für die Indoor-Ausstellungen im Museum ein.",
+              "Die Rosenburg-Ruine bietet kaum Unterstand, halten Sie den Besuch kurz.",
+              "In den lokalen Cafés gibt es hervorragende heiße Schokolade."
+            ],
+            "hu": [
+              "Használja az óváros átjáróit eső elleni védelemként.",
+              "A herisaui szél miatt stabil esernyő ajánlott.",
+              "Töltsön több időt a múzeum belső kiállításaival.",
+              "A Rosenburg-romoknál alig van fedett rész, tervezzen rövid látogatást.",
+              "A helyi kávézókban kiváló forró csokoládét mérnek."
+            ],
+            "ro": [
+              "Folosiți pasajele din centrul vechi pentru a vă proteja de ploaie.",
+              "Se recomandă o umbrelă rezistentă din cauza vântului local.",
+              "Alocați mai mult timp expozițiilor interioare din muzeu.",
+              "Ruinele Rosenburg oferă puțin adăpost, scurtați vizita acolo.",
+              "Cafenelele locale servesc o ciocolată caldă excelentă."
+            ],
+            "en": [
+              "Use the passages in the old town as rain cover.",
+              "A sturdy umbrella is recommended due to potential winds in Herisau.",
+              "Spend extra time enjoying the indoor museum exhibits.",
+              "The Rosenburg ruins offer little shelter, so keep that stop brief.",
+              "Local cafes offer excellent hot chocolate to warm up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterzauber in Herisau beginnt am frostigen Obstmarkt. Die St. Laurenzen Kirche strahlt eine besinnliche Ruhe aus, bevor das Museum Herisau mit wohliger Wärme und Geschichte lockt. Das Mittagessen im Appenzellerland ist im Winter besonders herzhaft. Der Tag endet mit einem klaren Blick von den Rosenburg-Ruinen auf die verschneite Umgebung, bevor die frühe Dämmerung die Lichter der Stadt entzündet.",
+            "hu": "A téli varázslat Herisauban a fagyos Obstmarkton kezdődik. A Szent Lőrinc-templom meghitt nyugalmat áraszt, mielőtt a Herisau Múzeum melengető történelemmel várná. Az appenzelli ebéd télen különösen laktató. A nap a Rosenburg romjaitól nyíló tiszta, havas kilátással zárul, mielőtt a korai szürkületben kigyúlnak a város fényei.",
+            "ro": "Magia iernii în Herisau începe în piața Obstmarkt înghețată. Biserica Sf. Laurențiu emană o liniște profundă, înainte ca Muzeul Herisau să vă primească cu căldură și istorie. Prânzul în Appenzell este deosebit de consistent iarna. Ziua se încheie cu o vedere clară de la ruinele Rosenburg asupra împrejurimilor înzăpezite, înainte ca amurgul să aprindă luminile orașului.",
+            "en": "Winter magic in Herisau begins at the frosty Obstmarkt. St. Lawrence Church radiates a contemplative peace before the Herisau Museum lures you in with cozy warmth and history. An Appenzell lunch is particularly hearty in winter. The day ends with clear views of the snowy surroundings from the Rosenburg ruins, just as early dusk starts to light up the town."
+          },
+          "stops": [
+            {
+              "name": "Row of houses at the Obstmarkt",
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der frostigen Giebel im Morgenlicht.",
+                "hu": "Élvezze a fagyos oromfalak látványát a reggeli fényben.",
+                "ro": "Admirați frontoanele înghețate ale caselor în lumina dimineții.",
+                "en": "Enjoy the sight of the frosty gables in the crisp morning light."
+              }
+            },
+            {
+              "name": "Reformed Church of St. Lawrence",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und Wärme für einen kurzen Moment der Einkehr.",
+                "hu": "A csend és a meleg helye egy rövid elmélyüléshez.",
+                "ro": "Un loc de liniște și căldură pentru un moment de reculegere.",
+                "en": "A place of silence and warmth for a brief moment of reflection."
+              }
+            },
+            {
+              "name": "Government Building",
+              "tip_5lang": {
+                "de": "Die Fassade wirkt im Kontrast zum weißen Schnee besonders edel.",
+                "hu": "A homlokzat a fehér hóval kontrasztban különösen elegáns.",
+                "ro": "Fațada clădirii pare deosebit de elegantă în contrast cu zăpada.",
+                "en": "The facade looks particularly elegant in contrast with the white snow."
+              }
+            },
+            {
+              "name": "Herisau Museum",
+              "tip_5lang": {
+                "de": "Perfekt, um sich zwischen den Besichtigungen aufzuwärmen.",
+                "hu": "Tökéletes hely a felmelegedésre a városnézés közben.",
+                "ro": "Perfect pentru a vă încălzi între vizitele exterioare.",
+                "en": "Perfect for warming up between outdoor sightseeing stops."
+              }
+            },
+            {
+              "name": "Lunch in the Appenzell region",
+              "tip_5lang": {
+                "de": "Probieren Sie ein Fondue oder Raclette für das echte Wintergefühl.",
+                "hu": "Kóstolja meg a fonduet vagy raclette-et az igazi téli élményért.",
+                "ro": "Încercați un fondue sau raclette pentru o experiență autentică de iarnă.",
+                "en": "Try a fondue or raclette for the ultimate winter feeling."
+              }
+            },
+            {
+              "name": "Rosenburg Ruins",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stufen beim Aufstieg zur Ruine.",
+                "hu": "Ügyeljen a jeges lépcsőkre a romokhoz vezető úton.",
+                "ro": "Atenție la treptele înghețate în timpul urcării spre ruine.",
+                "en": "Watch out for icy steps during the ascent to the ruins."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie feste Schuhe mit gutem Profil wegen möglicher Glätte.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Besuchen Sie die Rosenburg kurz vor Sonnenuntergang für tolles Licht.",
+              "Zwiebelprinzip bei der Kleidung schützt vor der Kälte.",
+              "Warme Getränke sind in den Bäckereien am Obstmarkt erhältlich."
+            ],
+            "hu": [
+              "Viseljen jó tapadású talppal rendelkező bakancsot a csúszásveszély miatt.",
+              "Télen a nap már 16:30 körül lenyugszik.",
+              "Látogasson el a Rosenburghoz naplemente előtt a szép fényekért.",
+              "A réteges öltözködés elengedhetetlen a hideg ellen.",
+              "Meleg italok kaphatók az Obstmarkt pékségeiben."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu talpă aderentă din cauza posibilei polei.",
+              "Soarele apune iarna în jurul orei 16:30.",
+              "Vizitați Rosenburg chiar înainte de apus pentru o lumină superbă.",
+              "Îmbrăcămintea stratificată este esențială împotriva frigului.",
+              "Băuturi calde sunt disponibile la brutăriile din Obstmarkt."
+            ],
+            "en": [
+              "Wear sturdy boots with good grip due to potential ice.",
+              "The sun sets around 4:30 PM in winter.",
+              "Visit the Rosenburg just before sunset for the best light.",
+              "Layered clothing is key to staying warm while walking.",
+              "Warm beverages are available at the bakeries around Obstmarkt."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -774,6 +964,214 @@
           "Take enough water and snacks with you for the journey.",
           "Pay attention to hikers with whom you share the paths."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet Herisau eine spannende Radtour. Wir starten am Obstmarkt und radeln zügig zu den kulturellen Schätzen im Zentrum. Das Museum bietet eine trockene Pause, bevor es weiter durch die sanfte, neblige Hügellandschaft geht. Der Weg zur Rosenburg erfordert Vorsicht, aber die Atmosphäre der Ruine im Regen ist mystisch. Den Abschluss bilden die grünen, wasserreichen Ausblicke vom Schwänkelberg.",
+            "hu": "Az eső ellenére Herisau izgalmas kerékpártúrát kínál. Az Obstmarkttól indulunk, és gyorsan a központ kulturális kincseihez tekerünk. A múzeum száraz szünetet biztosít, mielőtt folytatnánk utunkat a ködös dombok között. A Rosenburghoz vezető út óvatosságot igényel, de a romok hangulata esőben misztikus. A túrát a Schwänkelbergről nyíló dús, párás kilátás zárja.",
+            "ro": "În ciuda ploii, Herisau oferă un tur de bicicletă captivant. Pornim de la Obstmarkt și pedalăm rapid spre comorile culturale din centru. Muzeul oferă o pauză uscată înainte de a continua prin peisajul deluros cețos. Drumul spre Rosenburg necesită atenție, dar atmosfera ruinelor în ploaie este mistică. Încheiem cu vederile verzi și umede de pe Schwänkelberg.",
+            "en": "Despite the rain, Herisau offers an exciting bike tour. We start at Obstmarkt and cycle quickly to the cultural gems in the center. The museum provides a dry break before we continue through the misty hills. The path to Rosenburg requires caution, but the ruins feel mystical in the rain. We finish with the lush, moisture-rich views from Schwänkelberg."
+          },
+          "stops": [
+            {
+              "name": "Row of houses at the Obstmarkt",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad kurz unter einem Vordach für Fotos.",
+                "hu": "Parkolja le a bringát egy előtető alá a fotózáshoz.",
+                "ro": "Parcați bicicleta sub o streașină pentru câteva fotografii.",
+                "en": "Park your bike briefly under an eave for photos."
+              }
+            },
+            {
+              "name": "Reformed Church St. Lawrence & Government Building",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirchenmauer als Windschutz beim Abstellen.",
+                "hu": "Használja a templomfalat szélvédelemként a leállításkor.",
+                "ro": "Folosiți zidul bisericii ca protecție împotriva vântului.",
+                "en": "Use the church wall as a windbreak when parking."
+              }
+            },
+            {
+              "name": "Herisau Museum",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, um die Regenkleidung kurz zu lüften.",
+                "hu": "Jó alkalom az esőruha rövid szellőztetésére.",
+                "ro": "O ocazie bună pentru a aerisi puțin hainele de ploaie.",
+                "en": "A good opportunity to let your rain gear air out briefly."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit sichtbarem Fahrradparkplatz.",
+                "hu": "Keressen éttermet, ahol rálátni a bringaparkolóra.",
+                "ro": "Căutați un restaurant cu vedere spre parcare.",
+                "en": "Look for a restaurant with a visible bike parking area."
+              }
+            },
+            {
+              "name": "Rosenburg Ruins",
+              "tip_5lang": {
+                "de": "Der Anstieg kann auf nassem Untergrund rutschig sein.",
+                "hu": "Az emelkedő nedves talajon csúszós lehet.",
+                "ro": "Urcarea poate fi alunecoasă pe teren umed.",
+                "en": "The climb can be slippery on wet ground."
+              }
+            },
+            {
+              "name": "Ebnet",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter den Bäumen, falls der Regen stärker wird.",
+                "hu": "Rövid megálló a fák alatt, ha erősödne az eső.",
+                "ro": "O scurtă oprire sub copaci dacă ploaia se întețește.",
+                "en": "Brief stop under the trees if the rain gets heavier."
+              }
+            },
+            {
+              "name": "Schwänkelberg",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Abfahrt auf nassen Straßen ins Tal.",
+                "hu": "Vigyázat a völgybe vezető lejtőn a nedves utakon.",
+                "ro": "Atenție la coborârea spre vale pe drumuri ude.",
+                "en": "Be careful on the descent back to the valley on wet roads."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie plötzliches Bremsen auf nassem Kopfsteinpflaster.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Wasserdichte Packtaschen schützen Ihre Kamera und Wertsachen.",
+              "Die Sicht am Schwänkelberg kann durch Nebel eingeschränkt sein.",
+              "Tragen Sie helle Kleidung oder Reflektoren für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a nedves macskakövön.",
+              "A sárvédő használata ebben az időben kötelező.",
+              "Vízálló táskák védik az értékeit és a fényképezőt.",
+              "A köd miatt a kilátás a Schwänkelbergről korlátozott lehet.",
+              "Viseljen világos ruhát vagy fényvisszaverőt a láthatóságért."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe pavajul umed.",
+              "Aripile la bicicletă sunt obligatorii pe această vreme.",
+              "Gețile impermeabile vă protejează camera și obiectele de valoare.",
+              "Vizibilitatea pe Schwänkelberg poate fi redusă de ceață.",
+              "Purtați haine deschise sau reflectorizante pentru vizibilitate."
+            ],
+            "en": [
+              "Avoid sudden braking on wet cobblestones.",
+              "Fenders on your bike are a must in this weather.",
+              "Waterproof panniers will protect your camera and valuables.",
+              "Visibility at Schwänkelberg might be limited by fog.",
+              "Wear bright clothing or reflectors for better visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour per Rad durch Herisau ist erfrischend. Vom frostigen Obstmarkt geht es durch die klare Luft zum Museum. Die verschneiten Hügel um Ebnet und Schwänkelberg bieten eine Postkartenidylle. Ein herzhaftes Mittagessen spendet die nötige Energie für den Nachmittag. Da es früh dunkel wird, nutzen wir die hellen Stunden für die Rosenburg, bevor wir die beleuchtete Stadt wieder erreichen.",
+            "hu": "Egy téli kerékpártúra Herisauban igazi felfrissülés. A fagyos Obstmarkttól a tiszta levegőn tekerünk a múzeumig. Ebnet és a Schwänkelberg havas dombjai képeslapra illő látványt nyújtanak. Egy tartalmas ebéd ad energiát a délutánhoz. Mivel korán sötétedik, a világos órákat a Rosenburgra szánjuk, mielőtt visszatérnénk a kivilágított városba.",
+            "ro": "Un tur de iarnă cu bicicleta prin Herisau este revigorant. De la Obstmarkt pornim prin aerul rece spre muzeu. Dealurile înzăpezite din jurul Ebnet și Schwänkelberg oferă un peisaj de basm. Un prânz consistent oferă energia necesară. Deoarece se întunecă devreme, folosim orele cu lumină pentru Rosenburg înainte de a reveni în orașul luminat.",
+            "en": "A winter bike tour through Herisau is refreshing. From the frosty Obstmarkt, we cycle through the crisp air to the museum. The snowy hills around Ebnet and Schwänkelberg offer postcard-perfect views. A hearty lunch provides the energy needed for the afternoon. Since it gets dark early, we use the daylight hours for Rosenburg before returning to the illuminated town."
+          },
+          "stops": [
+            {
+              "name": "Row of houses at the Obstmarkt",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Tauwasser auf dem Platz.",
+                "hu": "Vigyázzon a téren megfagyott olvadékvízzel.",
+                "ro": "Atenție la apa înghețată de pe pavajul pieței.",
+                "en": "Watch out for frozen meltwater on the square."
+              }
+            },
+            {
+              "name": "Reformed Church St. Lawrence & Government Building",
+              "tip_5lang": {
+                "de": "Kurze Pause, um die kalten Finger wieder aufzuwärmen.",
+                "hu": "Rövid szünet a hideg ujjak felmelegítésére.",
+                "ro": "O scurtă pauză pentru a vă încălzi degetele amorțite.",
+                "en": "Brief pause to warm up cold fingers indoors if possible."
+              }
+            },
+            {
+              "name": "Herisau Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort für eine längere Aufwärmpause.",
+                "hu": "Tökéletes hely egy hosszabb melegedőre.",
+                "ro": "Locul perfect pentru o pauză lungă de încălzire.",
+                "en": "The perfect place for a longer warm-up break."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Warme Speisen sind jetzt wichtig für die Weiterfahrt.",
+                "hu": "A meleg étel most fontos a folytatáshoz.",
+                "ro": "Mâncarea caldă este esențială acum pentru continuarea turului.",
+                "en": "Warm food is essential now for the rest of the ride."
+              }
+            },
+            {
+              "name": "Rosenburg Ruins",
+              "tip_5lang": {
+                "de": "Der Ausblick über den Schnee ist bei tiefstehender Sonne magisch.",
+                "hu": "A havas kilátás az alacsony napállásnál varázslatos.",
+                "ro": "Vederea peste zăpadă este magică la apus.",
+                "en": "The snowy view is magical with the low winter sun."
+              }
+            },
+            {
+              "name": "Ebnet",
+              "tip_5lang": {
+                "de": "Fahren Sie auf den geräumten Hauptwegen des Parks.",
+                "hu": "Haladjon a park letakarított főútvonalain.",
+                "ro": "Circulați pe aleile principale curățate ale parcului.",
+                "en": "Stick to the cleared main paths of the park."
+              }
+            },
+            {
+              "name": "Schwänkelberg",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Beleuchtung für den Rückweg in der Dämmerung.",
+                "hu": "Ellenőrizze a világítást a szürkületi visszatéréshez.",
+                "ro": "Verificați luminile pentru drumul de întoarcere la amurg.",
+                "en": "Check your bike lights for the return trip at dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Handschuhe und eine Mütze unter dem Helm.",
+              "Achten Sie auf Streusalz, das die Kette angreifen kann.",
+              "Winterreifen für Fahrräder bieten besseren Halt auf Schnee.",
+              "Die Akkus von E-Bikes entladen sich bei Kälte schneller.",
+              "Planen Sie das Tourende bis spätestens 16:30 Uhr ein."
+            ],
+            "hu": [
+              "Viseljen meleg kesztyűt és sapkát a sisak alatt.",
+              "Ügyeljen az útszóró sóra, amely kikezdheti a láncot.",
+              "A téli gumik jobb tapadást biztosítanak a havon.",
+              "Az e-bike akkumulátorok hidegben gyorsabban merülnek.",
+              "Tervezze a túra végét legkésőbb 16:30-ra."
+            ],
+            "ro": [
+              "Purtați mănuși groase și o căciulă pe sub cască.",
+              "Atenție la sarea de pe drum, care poate afecta lanțul.",
+              "Anvelopele de iarnă pentru bicicletă oferă o aderență mai bună.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Planificați finalul turului până cel târziu la ora 16:30."
+            ],
+            "en": [
+              "Wear warm gloves and a thin hat under your helmet.",
+              "Watch out for road salt, which can damage your bike chain.",
+              "Winter bike tires offer significantly better grip on snow.",
+              "E-bike batteries drain faster in cold temperatures.",
+              "Aim to finish your outdoor cycling by 4:30 PM."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1170,6 +1568,214 @@
           "A vignette is required to use the Swiss motorways.",
           "The roads in the hills can be narrow and winding, drive carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto lässt sich Herisau auch bei Starkregen entspannt erkunden. Wir parken nahe am Obstmarkt und springen kurz für Fotos raus. Das Museum Herisau bietet danach ein langes, trockenes Programm. Zum Mittagessen steuern wir ein gemütliches Restaurant in der Altstadt an. Die Rosenburg und das Alte Zeughaus lassen sich bequem erreichen, und die Fahrt zum Schwänkelberg bietet tolle Ausblicke, ohne nass zu werden.",
+            "hu": "Autóval Herisau még szakadó esőben is kényelmesen felfedezhető. Az Obstmarkt közelében parkolunk, és csak egy-egy fotóra ugrunk ki. A Herisau Múzeum ezután hosszú, száraz programot kínál. Ebédre egy hangulatos óvárosi éttermet választunk. A Rosenburg és a Régi Fegyvertár könnyen elérhető, a Schwänkelbergre vezető út pedig pazar kilátást nyújt anélkül, hogy megáznánk.",
+            "ro": "Cu mașina, Herisau poate fi explorat relaxat chiar și pe ploaie torențială. Parcăm aproape de Obstmarkt și ieșim doar scurt pentru fotografii. Muzeul Herisau oferă apoi un program lung și uscat. Pentru prânz, alegem un restaurant primitor din centrul vechi. Rosenburg și Vechiul Arsenal sunt ușor accesibile, iar drumul spre Schwänkelberg oferă vederi superbe fără a ne uda.",
+            "en": "By car, Herisau remains easy to explore even during heavy rain. We park near Obstmarkt and hop out briefly for photos. The Herisau Museum then provides a long, dry indoor program. For lunch, we head to a cozy restaurant in the old town. Rosenburg and the Old Armoury are easily reached, and the drive to Schwänkelberg offers great views without getting wet."
+          },
+          "stops": [
+            {
+              "name": "Old Town Cluster: Parking & Row of houses at Obstmarkt",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Ebnet' für einen trockenen Start.",
+                "hu": "Használja az Ebnet parkolóházat a száraz induláshoz.",
+                "ro": "Folosiți parcarea Ebnet pentru un început fără umezeală.",
+                "en": "Use the 'Ebnet' parking garage for a dry start to your day."
+              }
+            },
+            {
+              "name": "Reformed Church of St. Lawrence",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz, halten Sie den Schirm bereit.",
+                "hu": "Rövid séta a parkolótól, készítse elő az esernyőt.",
+                "ro": "Drum scurt pe jos de la parcare, țineți umbrela la îndemână.",
+                "en": "Short walk from the parking area; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Herisau Museum",
+              "tip_5lang": {
+                "de": "Parken Sie direkt in der Nähe für minimalen Regen-Kontakt.",
+                "hu": "Parkoljon közvetlenül a közelben a minimális ázásért.",
+                "ro": "Parcați chiar în apropiere pentru a evita ploaia.",
+                "en": "Park as close as possible to minimize contact with the rain."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Viele Restaurants haben Parkplätze direkt vor der Tür.",
+                "hu": "Sok étteremnek van parkolója közvetlenül az ajtó előtt.",
+                "ro": "Multe restaurante au locuri de parcare chiar în față.",
+                "en": "Many restaurants have parking spaces right at the entrance."
+              }
+            },
+            {
+              "name": "Ruins Cluster: Rosenburg Ruins",
+              "tip_5lang": {
+                "de": "Die Zufahrt ist schmal, bei Nässe vorsichtig fahren.",
+                "hu": "Az út keskeny, nedves időben vezessen óvatosan.",
+                "ro": "Accesul este îngust, conduceți cu atenție pe carosabil umed.",
+                "en": "The access road is narrow; drive carefully in wet conditions."
+              }
+            },
+            {
+              "name": "Old Armoury",
+              "tip_5lang": {
+                "de": "Ein idealer Indoor-Stopp für Kulturinteressierte.",
+                "hu": "Ideális fedett megálló a kultúra kedvelőinek.",
+                "ro": "O oprire interioară ideală pentru iubitorii de cultură.",
+                "en": "An ideal indoor stop for those interested in culture."
+              }
+            },
+            {
+              "name": "Nature Cluster: Schwänkelberg",
+              "tip_5lang": {
+                "de": "Genießen Sie das Panorama direkt aus dem Auto.",
+                "hu": "Élvezze a panorámát közvetlenül az autóból.",
+                "ro": "Savurați panorama direct din confortul mașinii.",
+                "en": "Enjoy the panoramic view directly from your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Parkleitsysteme, um unnötige Wege im Regen zu vermeiden.",
+              "Achten Sie auf Aquaplaning auf den steileren Landstraßen.",
+              "Lassen Sie die Klimaanlage laufen, damit die Scheiben nicht beschlagen.",
+              "Die Aussicht vom Schwänkelberg ist auch durch die Scheibe toll.",
+              "Halten Sie Kleingeld für die Parkautomaten bereit."
+            ],
+            "hu": [
+              "Használja a parkolási rendszert a felesleges körök elkerülésére.",
+              "Ügyeljen a vízfelúszásra a meredekebb utakon.",
+              "Járassa a klímát, hogy ne párásodjanak az ablakok.",
+              "A Schwänkelberg kilátása az ablakon át is remek.",
+              "Legyen Önnél aprópénz a parkolóautomatákhoz."
+            ],
+            "ro": [
+              "Folosiți sistemele de ghidare pentru parcare pe ploaie.",
+              "Atenție la acvaplanare pe drumurile mai înclinate.",
+              "Lăsați aerul condiționat pornit pentru a nu se aburi geamurile.",
+              "Vederea de pe Schwänkelberg este frumoasă și prin parbriz.",
+              "Aveți pregătite fise pentru automatele de parcare."
+            ],
+            "en": [
+              "Use parking guidance systems to avoid walking too far in the rain.",
+              "Watch out for aquaplaning on steeper country roads.",
+              "Keep the AC on to prevent the windows from fogging up.",
+              "The view from Schwänkelberg is great even through the windshield.",
+              "Keep some coins ready for the parking meters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Herisau im Winter ist mit dem Auto besonders komfortabel. Wir starten am beleuchteten Obstmarkt und fahren weiter zur St. Laurenzen Kirche. Das Museum Herisau bietet eine warme Pause, bevor wir uns ein typisches Appenzeller Mittagessen gönnen. Die Fahrt zu den Rosenburg-Ruinen bietet tolle Ausblicke auf schneebedeckte Dächer. Zum Abschluss geht es auf den Schwänkelberg, um das Winterpanorama bei Sonnenuntergang zu bewundern.",
+            "hu": "A téli Herisau autóval különösen kényelmes. A kivilágított Obstmarkttól indulunk a Szent Lőrinc-templomhoz. A Herisau Múzeum meleg pihenőt kínál, mielőtt egy tipikus appenzelli ebédet élveznénk. A Rosenburg romjaihoz vezető út pazar kilátást nyújt a havas háztetőkre. Végül a Schwänkelbergre megyünk, hogy megcsodáljuk a téli panorámát naplementekor.",
+            "ro": "Herisau iarna este foarte confortabil cu mașina. Începem de la Obstmarkt luminat și mergem spre Biserica Sf. Laurențiu. Muzeul Herisau oferă o pauză caldă înainte de un prânz tipic din Appenzell. Drumul spre Rosenburg oferă vederi superbe asupra acoperișurilor înzăpezite. La final, urcăm pe Schwänkelberg pentru a admira panorama de iarnă la apus.",
+            "en": "Herisau in winter is especially comfortable by car. We start at the illuminated Obstmarkt and drive to St. Lawrence Church. The Herisau Museum offers a warm break before we treat ourselves to a typical Appenzell lunch. The drive to the Rosenburg ruins provides great views of snow-covered rooftops. We conclude at Schwänkelberg to admire the winter panorama at sunset."
+          },
+          "stops": [
+            {
+              "name": "Old Town Cluster: Parking & Row of houses at Obstmarkt",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken auf möglicherweise vereisten Flächen.",
+                "hu": "Vezessen óvatosan a parkoláskor az esetleges jegesedés miatt.",
+                "ro": "Atenție la parcare pe suprafețele care pot fi înghețate.",
+                "en": "Be careful when parking on potentially icy surfaces."
+              }
+            },
+            {
+              "name": "Reformed Church of St. Lawrence",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe in der beheizten Kirche.",
+                "hu": "Élvezze a nyugalmat a fűtött templomban.",
+                "ro": "Bucurați-vă de liniște în interiorul bisericii încălzite.",
+                "en": "Enjoy the peaceful atmosphere inside the heated church."
+              }
+            },
+            {
+              "name": "Herisau Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre dicken Winterjacken.",
+                "hu": "Használja a ruhatárat a vastag télikabátoknak.",
+                "ro": "Folosiți garderoba pentru hainele groase de iarnă.",
+                "en": "Use the cloakroom for your heavy winter coats."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Ein warmer Platz am Kamin ist jetzt besonders begehrt.",
+                "hu": "A kandalló melletti meleg hely most különösen népszerű.",
+                "ro": "Un loc cald lângă șemineu este foarte căutat acum.",
+                "en": "A warm spot near a fireplace is especially desirable now."
+              }
+            },
+            {
+              "name": "Ruins Cluster: Rosenburg Ruins",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Auto wintertauglich ausgerüstet ist.",
+                "hu": "Győződjön meg róla, hogy autója fel van készítve a télre.",
+                "ro": "Asigurați-vă că mașina este echipată corespunzător pentru iarnă.",
+                "en": "Ensure your car is properly equipped for winter conditions."
+              }
+            },
+            {
+              "name": "Old Armoury",
+              "tip_5lang": {
+                "de": "Prüfen Sie vorab die winterlichen Öffnungszeiten.",
+                "hu": "Ellenőrizze előre a téli nyitvatartási időt.",
+                "ro": "Verificați în prealabil programul de funcționare pe timp de iarnă.",
+                "en": "Check the winter opening hours in advance."
+              }
+            },
+            {
+              "name": "Nature Cluster: Schwänkelberg",
+              "tip_5lang": {
+                "de": "Die Fernsicht ist bei klarem Winterwetter am besten.",
+                "hu": "A távoli kilátás tiszta téli időben a legjobb.",
+                "ro": "Vizibilitatea la distanță este optimă pe vreme senină de iarnă.",
+                "en": "The long-distance view is best in clear winter weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und ggf. Schneeketten sind in dieser Region Pflicht.",
+              "Achten Sie auf Wildwechsel in der Dämmerung auf Nebenstrecken.",
+              "Halten Sie einen Eiskratzer und Frostschutzmittel bereit.",
+              "Parkhäuser bieten Schutz vor Schneefall und Frost.",
+              "Die Straßen zur Rosenburg werden oft erst spät geräumt."
+            ],
+            "hu": [
+              "A téli gumi és szükség esetén a hólánc kötelező ezen a környéken.",
+              "Ügyeljen a vadakra a szürkületi vezetéskor a mellékutakon.",
+              "Legyen Önnél jégkaparó és fagyálló folyadék.",
+              "A parkolóházak védenek a hótól és a fagytól.",
+              "A Rosenburghoz vezető utakat gyakran csak később takarítják."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și eventual lanțurile sunt obligatorii în regiune.",
+              "Atenție la animalele sălbatice pe drumurile secundare la amurg.",
+              "Aveți la îndemână o racletă și lichid de parbriz de iarnă.",
+              "Parcările acoperite oferă protecție împotriva ninsorii și înghețului.",
+              "Drumurile spre Rosenburg sunt adesea curățate mai târziu."
+            ],
+            "en": [
+              "Winter tires and possibly snow chains are mandatory in this region.",
+              "Watch out for wildlife on secondary roads during dusk.",
+              "Keep an ice scraper and anti-freeze handy in the car.",
+              "Parking garages provide protection from snowfall and frost.",
+              "The roads to Rosenburg are often cleared later in the day."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1542,6 +2148,196 @@
           "Download the local public transport company's app for real-time information.",
           "Plan for buffer times for possible delays."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn bleibt man in Herisau auch bei Regen trocken. Vom Bahnhof geht es schnell zum Obstmarkt. Die kurzen Wege zwischen Kirche und Museum lassen sich gut mit dem Schirm meistern. Mittags genießen wir die lokale Küche, bevor der Bus uns nahe an die Rosenburg bringt. Den Abschluss bildet ein Spaziergang im Ebnet Park, wo die Bäume natürlichen Schutz vor leichten Schauern bieten.",
+            "hu": "Busszal és vonattal Herisauban esőben is szárazon maradhatunk. A vasútállomástól gyorsan elérjük az Obstmarktot. A templom és a múzeum közti rövid utat esernyővel könnyen letudjuk. Ebédre a helyi konyhát választjuk, majd busszal a Rosenburg közelébe utazunk. A napot egy séta zárja az Ebnet Parkban, ahol a fák természetes védelmet nyújtanak az eső ellen.",
+            "ro": "Cu autobuzul și trenul, rămâneți uscat în Herisau chiar și pe ploaie. De la gară se ajunge rapid la Obstmarkt. Distanțele scurte între biserică și muzeu pot fi parcurse ușor cu umbrela. La prânz savurăm bucătăria locală, apoi autobuzul ne duce aproape de Rosenburg. Încheiem cu o plimbare în Parcul Ebnet, unde copacii oferă protecție naturală.",
+            "en": "With buses and trains, you can stay dry in Herisau even when it rains. From the station, it's a quick trip to Obstmarkt. The short distances between the church and the museum are easily managed with an umbrella. We enjoy local cuisine for lunch before taking a bus near Rosenburg. The day ends with a walk in Ebnet Park, where trees provide natural shelter."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the station & walk to the Obstmarkt",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Unterführung am Bahnhof als Regenschutz.",
+                "hu": "Használja az állomási aluljárót eső elleni védelemként.",
+                "ro": "Folosiți pasajul subteran din gară pentru a vă proteja de ploaie.",
+                "en": "Use the station underpass as shelter from the rain."
+              }
+            },
+            {
+              "name": "Reformed Church & Government Building",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen im Zentrum sind meist überdacht.",
+                "hu": "A központban a buszmegállók többnyire fedettek.",
+                "ro": "Stațiile de autobuz din centru sunt în mare parte acoperite.",
+                "en": "Most bus stops in the center are covered."
+              }
+            },
+            {
+              "name": "Herisau Museum",
+              "tip_5lang": {
+                "de": "Vom Bus sind es nur wenige Schritte bis zum Eingang.",
+                "hu": "A busztól csak néhány lépés a bejárat.",
+                "ro": "Sunt doar câțiva pași de la autobuz până la intrare.",
+                "en": "It's only a few steps from the bus stop to the entrance."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal in der Nähe einer Haltestelle.",
+                "hu": "Válasszon éttermet egy megálló közelében.",
+                "ro": "Alegeți un local situat aproape de o stație.",
+                "en": "Choose a restaurant close to a transit stop."
+              }
+            },
+            {
+              "name": "Trip to the Rosenburg Ruins",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Busfahrplan für die Rückfahrt genau.",
+                "hu": "Ellenőrizze pontosan a visszatérő busz menetrendjét.",
+                "ro": "Verificați cu atenție orarul autobuzelor pentru întoarcere.",
+                "en": "Check the bus schedule carefully for your return trip."
+              }
+            },
+            {
+              "name": "Walk in Ebnet Park",
+              "tip_5lang": {
+                "de": "Die befestigten Wege sind auch bei Regen gut begehbar.",
+                "hu": "A szilárd burkolatú utak esőben is jól járhatók.",
+                "ro": "Aleile pavate sunt ușor de parcurs chiar și pe ploaie.",
+                "en": "The paved paths are easy to walk on even when it's raining."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App der SBB für Echtzeit-Informationen.",
+              "Die Busse in Herisau fahren auch bei schlechtem Wetter pünktlich.",
+              "An den Bahnhöfen gibt es oft Schließfächer für nasses Gepäck.",
+              "Einige Buslinien bieten tolle Ausblicke auf die Hügellandschaft.",
+              "Halten Sie Ihren Fahrausweis griffbereit, um langes Suchen zu vermeiden."
+            ],
+            "hu": [
+              "Használja az SBB alkalmazást a valós idejű információkért.",
+              "A herisaui buszok rossz időben is pontosak.",
+              "Az állomásokon gyakran vannak megőrzők a vizes csomagoknak.",
+              "Néhány buszvonalról remek kilátás nyílik a dombvidékre.",
+              "Tartsa készenlétben a jegyét, hogy elkerülje a keresgélést."
+            ],
+            "ro": [
+              "Folosiți aplicația SBB pentru informații în timp real.",
+              "Autobuzele din Herisau circulă punctual și pe vreme rea.",
+              "În gări există adesea dulapuri pentru bagaje umede.",
+              "Unele linii de autobuz oferă vederi superbe asupra dealurilor.",
+              "Aveți biletul la îndemână pentru a evita căutarea lui în ploaie."
+            ],
+            "en": [
+              "Use the SBB app for real-time transit information.",
+              "Buses in Herisau are very punctual, even in bad weather.",
+              "Stations often have lockers for storing wet gear or bags.",
+              "Some bus routes offer great views of the rolling hills.",
+              "Keep your ticket ready to avoid searching for it in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreise durch Herisau mit dem ÖV: Vom beheizten Bahnhof geht es zum Obstmarkt. Die klare Winterluft belebt den Weg zur Kirche und zum Museum. Nach einem wärmenden Mittagessen bringt uns der Bus Richtung Rosenburg, wo der Schnee die Ruinen verzaubert. Den Tag lassen wir im Ebnet Park ausklingen, wenn die blaue Stunde die verschneiten Wege in ein besonderes Licht taucht.",
+            "hu": "Téli utazás Herisauban tömegközlekedéssel: a fűtött vasútállomástól az Obstmarkthoz megyünk. A tiszta téli levegő felfrissít a templom és a múzeum felé. Egy melengető ebéd után buszra szállunk a Rosenburg irányába, ahol a hó elvarázsolja a romokat. A napot az Ebnet Parkban zárjuk, amikor a kék óra különleges fénybe vonja a havas utakat.",
+            "ro": "Călătorie de iarnă prin Herisau cu transportul public: de la gara încălzită mergem spre Obstmarkt. Aerul curat de iarnă animă drumul spre biserică și muzeu. După un prânz cald, autobuzul ne duce spre Rosenburg, unde zăpada transformă ruinele. Încheiem ziua în Parcul Ebnet, când ora albastră scaldă aleile înzăpezite într-o lumină aparte.",
+            "en": "A winter journey through Herisau by public transit: from the heated station, we head to Obstmarkt. The crisp winter air enlivens the walk to the church and museum. After a warming lunch, the bus takes us towards Rosenburg, where snow enchants the ruins. We end the day in Ebnet Park as the blue hour casts a special light over the snowy paths."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the station & walk to the Obstmarkt",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich kurz im Bahnhofsgebäude auf.",
+                "hu": "Melegedjen fel egy kicsit az állomás épületében.",
+                "ro": "Încălziți-vă puțin în clădirea gării înainte de a pleca.",
+                "en": "Warm up for a moment inside the station building."
+              }
+            },
+            {
+              "name": "Reformed Church & Government Building",
+              "tip_5lang": {
+                "de": "Die Wartehäuschen bieten Schutz vor dem kalten Wind.",
+                "hu": "A várótermek és bódék védenek a hideg széltől.",
+                "ro": "Adăposturile din stații oferă protecție împotriva vântului rece.",
+                "en": "The bus shelters provide protection from the cold wind."
+              }
+            },
+            {
+              "name": "Herisau Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kälte für eine Weile zu vergessen.",
+                "hu": "Ideális hely, hogy egy időre elfelejtse a hideget.",
+                "ro": "Un loc ideal pentru a uita de frig pentru o vreme.",
+                "en": "An ideal place to forget about the cold for a while."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre in den Gaststuben.",
+                "hu": "Élvezze a vendéglők hangulatos, meleg légkörét.",
+                "ro": "Bucurați-vă de atmosfera primitoare din restaurante.",
+                "en": "Enjoy the cozy atmosphere in the local dining rooms."
+              }
+            },
+            {
+              "name": "Trip to the Rosenburg Ruins",
+              "tip_5lang": {
+                "de": "Der Bus fährt in regelmäßigen Abständen, ideal bei Kälte.",
+                "hu": "A busz rendszeresen jár, ami ideális a hidegben.",
+                "ro": "Autobuzul circulă la intervale regulate, ideal pe timp de frig.",
+                "en": "The bus runs at regular intervals, which is ideal in the cold."
+              }
+            },
+            {
+              "name": "Walk in Ebnet Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille des verschneiten Parks am Abend.",
+                "hu": "Élvezze a havas park esti csendjét.",
+                "ro": "Bucurați-vă de liniștea parcului înzăpezit seara.",
+                "en": "Enjoy the silence of the snow-covered park in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf eventuelle Winter-Fahrplanänderungen.",
+              "Die Bahnhöfe sind oft gute Orte, um heißen Tee zu kaufen.",
+              "Tragen Sie warme Kleidung, da das Warten am Bahnsteig kühl sein kann.",
+              "Die Züge sind gut beheizt und bieten Komfort bei Frost.",
+              "Planen Sie Ihre Rückreise vor Anbruch der Dunkelheit."
+            ],
+            "hu": [
+              "Ügyeljen az esetleges téli menetrendi változásokra.",
+              "Az állomásokon gyakran vehet forró teát.",
+              "Öltözzön melegen, mert a peronon várakozás hűvös lehet.",
+              "A vonatok jól fűtöttek és kényelmesek fagy idején is.",
+              "Tervezze meg a visszautat a sötétség beállta előtt."
+            ],
+            "ro": [
+              "Fiți atenți la eventualele modificări de orar pe timp de iarnă.",
+              "Gările sunt adesea locuri bune pentru a cumpăra un ceai cald.",
+              "Îmbrăcați-vă gros, deoarece așteptarea pe peron poate fi rece.",
+              "Trenurile sunt bine încălzite și oferă confort pe timp de îngheț.",
+              "Planificați călătoria de întoarcere înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "Watch for potential winter schedule changes.",
+              "Stations are often good places to buy a hot tea.",
+              "Wear warm clothes, as waiting on platforms can be chilly.",
+              "The trains are well-heated and comfortable during frost.",
+              "Plan your return journey before total darkness sets in."
+            ]
+          }
+        }
       }
     }
   }

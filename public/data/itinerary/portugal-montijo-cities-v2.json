@@ -386,6 +386,206 @@
           "Most shops and museums may close for lunch.",
           "Keep a camera ready for the scenic waterfront and historic architecture."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Praça da República, wo die Cafés unter den Arkaden Schutz bieten. Ein kurzer Spaziergang führt zum Stierkämpfer-Denkmal, bevor wir in die Kirche São Jorge flüchten. Der Vormittag endet im gemütlichen Stadtmuseum.\n\nMittags suchen wir die Nähe zum Wasser am Cais das Faluas. Die historische Gezeitenmühle bietet ein interessantes Innenerlebnis, während der Regen gegen die alten Mauern peitscht. Ein langer Aufenthalt im Trockenen ist hier ideal.\n\nAm Nachmittag schlendern wir durch den Stadtpark, wo die dichten Baumkronen den schlimmsten Guss abhalten. Die Atmosphäre ist ruhig und melancholisch, perfekt für Fotoliebhaber, die das Spiegelspiel der Pfützen einfangen wollen.\n\nDer Abend klingt in einem der traditionellen Restaurants im Zentrum aus. Wenn die Lichter der Stadt im nassen Asphalt glänzen, zeigt sich Montijo von seiner poetischen Seite, weit weg vom Trubel Lissabons.",
+            "hu": "A nap a Praça da República árkádjai alatt kezdődik, ahol egy forró kávé mellett várhatjuk meg a zápor végét. Rövid séta a viadorok emlékművéhez, majd menekülés a Szent György templom falai közé. A délelőtt a Mora-ház múzeumában telik, védve az elemektől.\n\nDélben a rakpart felé vesszük az irányt. A Cais das Faluas ilyenkor szeles, de a közeli Apálymalom ipari műemléke fedett menedéket és izgalmas látnivalót kínál. A vízparti látvány az esőben is méltóságteljes.\n\nDélután a városi park sűrű lombjai alatt sétálunk. Az eső áztatta növényzet illata intenzív, a sétányok pedig csendesek. Bár a padok vizesek, a látvány a csillogó tavakkal megéri a kitérőt.\n\nAz estét a belváros egyik hangulatos tavernájában zárjuk. A vizes macskaköveken megcsillanó fények és a távoli kompkikötő zaja sajátos, nyugodt hangulatot áraszt a Tejo túlpartján.",
+            "ro": "Ziua începe în Praça da República, unde cafenelele de sub arcade oferă adăpost împotriva ploii. O scurtă plimbare ne duce la monumentul luptătorului cu tauri, înainte de a ne refugia în biserica São Jorge. Dimineața se încheie în muzeul municipal.\n\nLa prânz, ne îndreptăm spre cheiul Cais das Faluas. Moara de maree istorică oferă o experiență interioară interesantă, în timp ce ploaia bate în zidurile vechi. Este locul ideal pentru a sta la adăpost și a învăța despre istoria locală.\n\nDupă-amiaza ne plimbăm prin parcul municipal, unde coroanele dese ale copacilor opresc cea mai mare parte a ploii. Atmosfera este liniștită, perfectă pentru cei care vor să surprindă reflexiile orașului în bălțile de pe alei.\n\nSeara se încheie într-unul dintre restaurantele tradiționale din centru. Când luminile orașului strălucesc pe asfaltul ud, Montijo își dezvăluie latura poetică, departe de agitația Lisabonei.",
+            "en": "The day begins at Praça da República, where the arcades offer shelter for a quick coffee. A short walk leads to the Bullfighter monument before finding refuge in St. George's Church. The morning concludes in the cozy Municipal Museum.\n\nAt noon, we head to Cais das Faluas. The historic Tide Mill provides an interesting indoor experience while the rain beats against the old walls. It's the perfect spot to stay dry while exploring the town's industrial past.\n\nIn the afternoon, we stroll through the Municipal Park, where the thick canopy provides some natural cover. The atmosphere is quiet and melancholic, ideal for photographers capturing reflections in the puddles.\n\nAn evening in a traditional local restaurant rounds off the day. As the city lights shimmer on the wet pavement, Montijo reveals its poetic side, far from the hustle and bustle of Lisbon."
+          },
+          "stops": [
+            {
+              "name": "Garden of the Republic Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Cafés als Regenschutz.",
+                "hu": "Használja a környező kávézók árkádjait eső elleni menedékként.",
+                "ro": "Folosiți arcadele cafenelelor din jur ca adăpost împotriva ploii.",
+                "en": "Use the arcades of the surrounding cafes as shelter from the rain."
+              }
+            },
+            {
+              "name": "Monument to the Bullfighter",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, danach schnell weiter ins Trockene.",
+                "hu": "Gyors fotómegálló, majd irány a száraz templombelső.",
+                "ro": "Scurt popas pentru poze, apoi mergeți repede la adăpost.",
+                "en": "Quick photo stop, then hurry back to a covered area."
+              }
+            },
+            {
+              "name": "Main Church of St. George",
+              "tip_5lang": {
+                "de": "Idealer Ort für eine längere, trockene Besichtigung der Azulejos.",
+                "hu": "Ideális hely az azulejo csempék hosszabb, száraz megtekintéséhez.",
+                "ro": "Loc ideal pentru o vizită prelungită și uscată a plăcilor azulejos.",
+                "en": "Ideal spot for a longer, dry visit to admire the azulejos."
+              }
+            },
+            {
+              "name": "Municipal Museum (Mora House)",
+              "tip_5lang": {
+                "de": "Perfekter Zufluchtsort für die regenreichste Zeit des Vormittags.",
+                "hu": "Tökéletes menedék a délelőtt legesősebb időszakára.",
+                "ro": "Refugiu perfect pentru cea mai ploioasă perioadă a dimineții.",
+                "en": "Perfect refuge during the rainiest part of the morning."
+              }
+            },
+            {
+              "name": "Faluas Quay",
+              "tip_5lang": {
+                "de": "Vorsicht am Kai, der Boden kann bei Nässe rutschig sein.",
+                "hu": "Vigyázat a rakparton, a talaj nedvesen csúszós lehet.",
+                "ro": "Atenție pe chei, pavajul poate fi alunecos când este ud.",
+                "en": "Be careful on the quay; the ground can be slippery when wet."
+              }
+            },
+            {
+              "name": "Tide Mill of the Quay",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Innere der Mühle, um dem Wind zu entkommen.",
+                "hu": "Látogasson el a malom belsejébe, hogy elmeneküljön a szél elől.",
+                "ro": "Vizitați interiorul morii pentru a scăpa de vânt.",
+                "en": "Visit the interior of the mill to escape the wind."
+              }
+            },
+            {
+              "name": "Municipal Park of Montijo",
+              "tip_5lang": {
+                "de": "Halten Sie sich unter den großen Platanen auf.",
+                "hu": "Maradjon a nagy platánfák sűrű lombjai alatt.",
+                "ro": "Stați sub platanii mari pentru protecție naturală.",
+                "en": "Stay under the large plane trees for natural cover."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Pflastersteine Pfützen bilden.",
+              "Die Museen in Montijo sind montags oft geschlossen, prüfen Sie das Wetter.",
+              "Nutzen Sie die Arkadengänge im Stadtzentrum als natürliche Abkürzung.",
+              "Ein Taschenschirm ist bei dem oft windigen Wetter am Tejo-Ufer unverzichtbar."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskaköveken könnyen megáll a víz.",
+              "A montijoi múzeumok hétfőn zárva tarthatnak, igazítsa ehhez a tervet.",
+              "Használja a belvárosi árkádokat eső elleni folyosóként.",
+              "A Tejo-parti szél miatt az erős vázú esernyő vagy esőkabát ajánlott."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pe pavaj se formează bălți.",
+              "Muzeele din Montijo sunt adesea închise lunea, verificați programul.",
+              "Folosiți arcadele din centrul orașului ca scurtături protejate.",
+              "O umbrelă rezistentă la vânt este esențială pe malul râului Tejo."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones tend to collect puddles.",
+              "Museums in Montijo are often closed on Mondays; check the schedule.",
+              "Use the town center's arcades as natural covered walkways.",
+              "A windproof umbrella is essential near the Tagus waterfront."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Montijo ist mild, aber oft neblig. Wir beginnen am zentralen Platz, wo der heiße Galão in den Cafés besonders gut schmeckt. Die historische Kirche São Jorge strahlt eine stille Ruhe aus, bevor wir das warme Stadtmuseum besuchen.\n\nMittags erreichen wir das Flussufer. Die Wintersonne glitzert auf dem Tejo, während wir die Faluas-Boote beobachten. In der Gezeitenmühle erfahren wir mehr über die industrielle Vergangenheit, geschützt vor der kühlen Brise vom Atlantik.\n\nDer Nachmittag gehört dem Stadtpark. Da die Sonne früh untergeht, nutzen wir das goldene Licht für einen Spaziergang. Die kahlen Bäume geben den Blick auf die Architektur frei, die im Sommer oft verborgen bleibt.\n\nGegen Abend kehren wir ins Stadtzentrum zurück. Die früh einsetzende Dämmerung hüllt Montijo in ein warmes Licht. Ein Abendessen mit lokalem Fisch ist der ideale Abschluss für diesen kühlen, aber erfrischenden Tag.",
+            "hu": "A téli reggel Montijóban enyhe, de gyakran ködös. A központi téren kezdünk, ahol a forró Galão kávé segít az ébredésben. A Szent György templom hűvös, de impozáns belső tere után a fűtött városi múzeum következik.\n\nDélben a folyópart felé vesszük az irányt. A téli nap alacsonyan jár, megcsillan a Tejón, miközben a hagyományos hajókat nézzük. Az Apálymalom vastag falai között a hűvös atlanti szél sem zavarja a felfedezést.\n\nDélután a városi parkban sétálunk. Mivel korán sötétedik, érdemes még világosban bejárni a tó környékét. A lombkoronák nélküli fák között ilyenkor jobban érvényesülnek a park szobrai és építményei.\n\nEste a városközpont fényei várnak ránk. A korai naplemente után Montijo barátságos kisvárossá szelídül. Egy tányér forró, helyi halászlé tökéletes lezárása a téli kirándulásnak a portugál parton.",
+            "ro": "Dimineața de iarnă în Montijo este blândă, dar adesea cețoasă. Începem în piața centrală, unde o cafea fierbinte Galão este binevenită. Biserica istorică São Jorge emană o liniște profundă, înainte de a vizita muzeul municipal călduros.\n\nLa prânz, ajungem pe malul râului. Soarele de iarnă strălucește pe Tejo în timp ce observăm bărcile tradiționale. În moara de maree învățăm despre trecutul industrial, protejați de briza răcoroasă de la Atlantic.\n\nDupă-amiaza este dedicată parcului municipal. Deoarece soarele apune devreme, profităm de lumina aurie pentru o plimbare. Copacii desfrunziți permit o vedere mai bună asupra arhitecturii parcului.\n\nSpre seară, revenim în centrul orașului. Amurgul timpuriu îmbracă Montijo într-o lumină caldă. O cină cu pește local este finalul ideal pentru această zi răcoroasă, dar revigorantă.",
+            "en": "Winter mornings in Montijo are mild but often misty. We start at the main square, where a hot Galão coffee warms the soul. St. George's Church offers a peaceful retreat before we head to the warmth of the Municipal Museum.\n\nAt noon, we reach the waterfront. The winter sun glitters on the Tagus as we watch the traditional boats. Inside the Tide Mill, we learn about the town's industrial heritage, sheltered from the cool Atlantic breeze.\n\nIn the afternoon, we visit the Municipal Park. Since the sun sets early, we make the most of the golden light for a stroll. The bare trees reveal architectural details often hidden during the lush summer months.\n\nAs evening falls, we return to the town center. The early dusk wraps Montijo in a warm glow. A dinner featuring local fish is the perfect conclusion to a crisp and refreshing winter day."
+          },
+          "stops": [
+            {
+              "name": "Garden of the Republic Square",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Galão in einem der sonnigen Außenbereiche.",
+                "hu": "Élvezze a forró Galão kávét a napsütötte teraszok egyikén.",
+                "ro": "Savurați o cafea Galão fierbinte pe una dintre terasele însorite.",
+                "en": "Enjoy a hot Galão coffee in one of the sunny outdoor seating areas."
+              }
+            },
+            {
+              "name": "Monument to the Bullfighter",
+              "tip_5lang": {
+                "de": "Das Winterlicht eignet sich hervorragend für dramatische Fotos.",
+                "hu": "A téli fények kiválóak a drámai hatású fotókhoz.",
+                "ro": "Lumina de iarnă este excelentă pentru fotografii dramatice.",
+                "en": "The winter light is excellent for capturing dramatic photos."
+              }
+            },
+            {
+              "name": "Main Church of St. George",
+              "tip_5lang": {
+                "de": "Innen ist es oft kühler als draußen, behalten Sie die Jacke an.",
+                "hu": "Bent gyakran hűvösebb van, mint kint, tartsa magán a kabátot.",
+                "ro": "În interior este adesea mai răcoare, păstrați haina pe dvs.",
+                "en": "It is often cooler inside than outside; keep your jacket on."
+              }
+            },
+            {
+              "name": "Municipal Museum (Mora House)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen.",
+                "hu": "Használja ki a múzeumlátogatást a felmelegedésre.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi.",
+                "en": "Take advantage of the museum visit to warm up."
+              }
+            },
+            {
+              "name": "Faluas Quay",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, am Wasser weht oft ein frischer Wind.",
+                "hu": "Öltözzön rétegesen, a vízparton gyakran fúj a hűvös szél.",
+                "ro": "Îmbrăcați-vă bine, pe malul apei bate adesea un vânt rece.",
+                "en": "Dress warmly as there is often a fresh breeze by the water."
+              }
+            },
+            {
+              "name": "Tide Mill of the Quay",
+              "tip_5lang": {
+                "de": "Die dicken Mauern schützen gut vor der winterlichen Brise.",
+                "hu": "A vastag falak jól védenek a téli szél ellen.",
+                "ro": "Zidurile groase protejează bine împotriva brizelor de iarnă.",
+                "en": "The thick walls provide good shelter from the winter breeze."
+              }
+            },
+            {
+              "name": "Municipal Park of Montijo",
+              "tip_5lang": {
+                "de": "Beenden Sie den Besuch vor Sonnenuntergang (ca. 17:30 Uhr).",
+                "hu": "Fejezze be a látogatást naplemente előtt (kb. 17:30).",
+                "ro": "Încheiați vizita înainte de apus (aprox. ora 17:30).",
+                "en": "Finish your visit before sunset (around 5:30 PM)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 17:30 Uhr unter, planen Sie das Ende ein.",
+              "Zwiebelprinzip bei der Kleidung ist ratsam, da es in der Sonne warm wird.",
+              "Kirchen können im Winter sehr fußkalt sein.",
+              "Nutzen Sie die Mittagsstunden für die Aktivitäten am Flussufer."
+            ],
+            "hu": [
+              "A nap télen 17:30 körül nyugszik, tervezze ehhez a nap végét.",
+              "Réteges öltözködés javasolt, mert a napon meleg lehet, árnyékban hideg.",
+              "A templomok padlója télen nagyon hideg lehet.",
+              "A folyóparti programokat érdemes a legmelegebb déli órákra időzíteni."
+            ],
+            "ro": [
+              "Soarele apune în jur de 17:30 iarna, planificați finalul traseului.",
+              "Îmbrăcămintea în straturi este recomandată, deoarece la soare este cald.",
+              "Bisericile pot fi foarte reci la nivelul podelei iarna.",
+              "Folosiți orele amiezii pentru activitățile de pe malul râului."
+            ],
+            "en": [
+              "Sunset is around 5:30 PM in winter; plan your day accordingly.",
+              "Layered clothing is advised as it can be warm in the sun but cool in shade.",
+              "Church interiors can have very cold floors during winter months.",
+              "Schedule your waterfront activities for the warmest midday hours."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -790,6 +990,224 @@
           "Use the bike paths along the river for a safe and scenic ride.",
           "Bring a good lock to secure your bike at stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist Montijo mit dem Rad erkundbar, da die Wege flach sind. Wir starten am Praça da República und radeln vorsichtig zur Kirche São Jorge. Das Stadtmuseum bietet einen ausgiebigen Halt im Trockenen, bevor wir die entlegene Einsiedelei São Sebastião ansteuern.\n\nMittags erreichen wir das Ufer. Die Fahrt zum Cais das Faluas erfordert gute Regenkleidung. In der Gezeitenmühle können wir die Räder kurz abstellen und die historische Technik bewundern, während wir uns kurz aufwärmen.\n\nAm Nachmittag führt die Route durch den Stadtpark. Die befestigten Wege sind auch bei Nässe gut befahrbar, man sollte jedoch auf rutschiges Laub achten. Die grüne Lunge der Stadt wirkt im Regen besonders intensiv und lebendig.\n\nDer Tag endet mit der Rückkehr ins Zentrum zum Stierkämpfer-Denkmal. Nach der sportlichen Tour im Regen haben wir uns ein herzhaftes Abendessen verdient, während das Rad sicher im Hotel oder unter einem Vordach parkt.",
+            "hu": "Esőben is felfedezhető Montijo kerékpárral, mivel a terep sík. A Praça da República térről indulunk, és óvatosan tekerünk a Szent György templomig. A városi múzeumban hosszabb időt töltünk szárazon, mielőtt a távolabbi São Sebastião kápolna felé vesszük az irányt.\n\nDélben érjük el a partot. A Cais das Faluas felé vezető úton szükség lesz a jó esőkabátra. Az Apálymalomnál leparkolhatjuk a gépeket, és amíg megcsodáljuk a technikát, kicsit mi is megszáradhatunk.\n\nDélután a városi park útjain tekerünk. A burkolt utak esőben is jól járhatóak, de a vizes leveleken óvatosan kell kanyarodni. A város tüdeje ilyenkor különösen friss és illatos.\n\nA nap a viador emlékművénél zárul. Az esős, sportos túra után jól esik majd a bőséges vacsora, miközben a kerékpár biztonságos, fedett helyen pihen.",
+            "ro": "În ciuda ploii, Montijo poate fi explorat cu bicicleta, deoarece drumurile sunt plate. Pornim din Praça da República și pedalăm cu grijă spre biserica São Jorge. Muzeul municipal oferă o oprire lungă la uscat înainte de a merge spre schitul São Sebastião.\n\nLa prânz, ajungem pe malul apei. Drumul spre Cais das Faluas necesită echipament de ploaie bun. La moara de maree putem lăsa bicicletele un moment și admira tehnica istorică în timp ce ne încălzim puțin.\n\nDupă-amiaza, traseul trece prin parcul municipal. Aleile pavate sunt practicabile și pe ploaie, dar trebuie atenție la frunzele alunecoase. Plămânul verde al orașului pare deosebit de intens și viu în timpul ploii.\n\nZiua se încheie cu întoarcerea în centru la monumentul luptătorului cu tauri. După turul sportiv prin ploaie, merităm o cină copioasă, în timp ce bicicleta stă în siguranță sub un acoperiș.",
+            "en": "Despite the rain, Montijo is bikeable due to its flat terrain. We start at Praça da República and cycle carefully to St. George's Church. The Municipal Museum offers a long dry break before we head out to the more distant Hermitage of São Sebastião.\n\nAt noon, we reach the waterfront. The ride to Cais das Faluas requires good rain gear. At the Tide Mill, we can park the bikes and admire the historic machinery while drying off for a bit.\n\nIn the afternoon, the route leads through the Municipal Park. The paved paths remain accessible even when wet, though one should watch out for slippery leaves. The city's 'green lung' feels especially fresh and vibrant in the rain.\n\nThe day ends back in the center at the Bullfighter monument. After a sporty tour in the rain, a hearty dinner is well-deserved while the bike rests safely under cover."
+          },
+          "stops": [
+            {
+              "name": "Garden of the Republic Square",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck, nasse Fliesen sind rutschig.",
+                "hu": "Ellenőrizze a keréknyomást, a vizes csempe csúszós lehet.",
+                "ro": "Verificați presiunea în pneuri, plăcile umede sunt alunecoase.",
+                "en": "Check your tire pressure; wet tiles can be slippery."
+              }
+            },
+            {
+              "name": "Main Church of St. George",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder in der Nähe des Eingangs.",
+                "hu": "Biztonságos kerékpártároló a bejárat közelében.",
+                "ro": "Loc de parcare sigur pentru biciclete lângă intrare.",
+                "en": "Secure bike parking available near the entrance."
+              }
+            },
+            {
+              "name": "Municipal Museum (Mora House)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pause, um die Regenkleidung auszuschütteln.",
+                "hu": "Használja ki a szünetet az esőruházat lerázására.",
+                "ro": "Folosiți pauza pentru a scutura echipamentul de ploaie.",
+                "en": "Use the break to shake off your rain gear."
+              }
+            },
+            {
+              "name": "Hermitage of São Sebastião",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Starkregen etwas schlammig sein.",
+                "hu": "Az odavezető út heves esőzéskor kicsit sáros lehet.",
+                "ro": "Accesul poate fi puțin noroios în caz de ploaie torențială.",
+                "en": "The access path can be a bit muddy during heavy rain."
+              }
+            },
+            {
+              "name": "Faluas Quay",
+              "tip_5lang": {
+                "de": "Vorsicht vor Windböen vom Fluss her.",
+                "hu": "Vigyázzon a folyó felől érkező széllökésekre.",
+                "ro": "Atenție la rafalele de vânt dinspre râu.",
+                "en": "Watch out for wind gusts coming from the river."
+              }
+            },
+            {
+              "name": "Tide Mill of the Quay",
+              "tip_5lang": {
+                "de": "Guter Ort, um die Räder im Sichtbereich unterzustellen.",
+                "hu": "Jó hely a biciklik látótávolságban való leállításához.",
+                "ro": "Loc bun pentru a lăsa bicicletele la vedere.",
+                "en": "A good spot to park bikes within your line of sight."
+              }
+            },
+            {
+              "name": "Municipal Park of Montijo",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Kurven auf nassen Holzelementen.",
+                "hu": "Kerülje az éles kanyarokat a vizes faelemeken.",
+                "ro": "Evitați virajele strânse pe elementele de lemn umede.",
+                "en": "Avoid sharp turns on wet wooden elements."
+              }
+            },
+            {
+              "name": "Monument to the Bullfighter",
+              "tip_5lang": {
+                "de": "Kurzer Abschlussstopp vor der Rückgabe des Rades.",
+                "hu": "Gyors zárómegálló a kerékpár leadása előtt.",
+                "ro": "Scurtă oprire finală înainte de a returna bicicleta.",
+                "en": "Quick final stop before returning the bike."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie plötzliches Bremsen auf nassem Kopfsteinpflaster.",
+              "Vergewissern Sie sich, dass Ihre Beleuchtung bei schlechter Sicht funktioniert.",
+              "Ein Schutzblech ist bei Pfützen in Montijo sehr empfehlenswert.",
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit im Verkehr."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a vizes macskaköveken.",
+              "Győződjön meg róla, hogy a világítás működik a rossz látási viszonyok között.",
+              "A sárvédő nagyon ajánlott a montijoi tócsák miatt.",
+              "Viseljen láthatósági esőkabátot a jobb észlelhetőség érdekében."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe pavajul umed.",
+              "Asigurați-vă că luminile funcționează în condiții de vizibilitate redusă.",
+              "O aripă de protecție este foarte recomandată pentru bălțile din Montijo.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru o mai bună vizibilitate."
+            ],
+            "en": [
+              "Avoid sudden braking on wet cobblestones.",
+              "Ensure your lights are working in poor visibility conditions.",
+              "Mudguards are highly recommended due to puddles in Montijo.",
+              "Wear a high-visibility rain jacket for better safety in traffic."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Winterbrise macht das Radfahren in Montijo erfrischend. Wir starten am Praça da República und nutzen die Morgensonne für die Fahrt zur Kirche São Jorge. Das Stadtmuseum bietet eine warme Kulturpause, bevor wir zur Einsiedelei São Sebastião radeln.\n\nMittags führt der Weg ans Wasser. Die Fahrt zum Cais das Faluas ist bei klarem Winterwetter herrlich, da der Tejo in einem besonderen Blau leuchtet. Die Gezeitenmühle ist ein interessanter Stopp, um die steife Brise kurzzeitig auszusperren.\n\nAm Nachmittag erkunden wir den Stadtpark auf zwei Rädern. Die Wege sind frei und weniger belebt als im Sommer. Das Licht bricht sich wunderbar in den kahlen Zweigen, was für eine ganz eigene, friedliche Stimmung sorgt.\n\nZum Sonnenuntergang erreichen wir das Stierkämpfer-Denkmal. Da es nun schnell kühler wird, geben wir die Räder ab und wärmen uns bei einem heißen Getränk im Zentrum auf, während die Stadtlichter angehen.",
+            "hu": "A hűvös téli szellő felfrissíti a kerékpározást Montijóban. A Praça da República térről indulunk, kihasználva a reggeli napsütést a Szent György templom felé. A városi múzeumban melegedünk fel, mielőtt a São Sebastião kápolnához tekernénk.\n\nDélben az út a vízpartra vezet. A Cais das Faluas felé tekerni tiszta téli időben csodás, mert a Tejo ilyenkor különleges kékben játszik. Az Apálymalom jó megálló, hogy egy időre kizárjuk a hűvös parti szelet.\n\nDélután két keréken fedezzük fel a városi parkot. Az utak üresek, sokkal kevesebb a látogató, mint nyáron. A fények gyönyörűen törnek át a kopasz ágak között, sajátos, békés hangulatot teremtve.\n\nNaplementére érjük el a viador emlékművét. Mivel ilyenkor gyorsan hűl a levegő, leadjuk a bicikliket, és a belvárosban egy forró itallal melegszünk fel, miközben kigyúlnak a város fényei.",
+            "ro": "Briza răcoroasă de iarnă face ciclismul în Montijo revigorant. Pornim din Praça da República și profităm de soarele dimineții pentru drumul spre biserica São Jorge. Muzeul municipal oferă o pauză culturală caldă înainte de a pedala spre schitul São Sebastião.\n\nLa prânz, drumul ne duce la apă. Drumul spre Cais das Faluas este superb pe vreme senină de iarnă, Tejo strălucind într-un albastru special. Moara de maree este o oprire interesantă pentru a bloca briza tăioasă pentru o clipă.\n\nDupă-amiaza explorăm parcul municipal pe două roți. Aleile sunt libere și mai puțin aglomerate decât vara. Lumina se reflectă minunat printre ramurile golașe, creând o atmosferă liniștită.\n\nLa apus ajungem la monumentul luptătorului cu tauri. Deoarece se face repede frig, returnăm bicicletele și ne încălzim cu o băutură fierbinte în centru, în timp ce se aprind luminile orașului.",
+            "en": "The cool winter breeze makes cycling in Montijo refreshing. We start at Praça da República, taking advantage of the morning sun to ride to St. George's Church. The Municipal Museum provides a warm cultural break before we cycle to the Hermitage of São Sebastião.\n\nAt noon, the path leads to the water. The ride to Cais das Faluas is wonderful in clear winter weather, as the Tagus glows with a unique blue hue. The Tide Mill is an interesting stop to briefly escape the stiff breeze.\n\nIn the afternoon, we explore the Municipal Park on two wheels. The paths are clear and less crowded than in summer. The light breaks beautifully through the bare branches, creating its own peaceful atmosphere.\n\nBy sunset, we reach the Bullfighter monument. As it cools down quickly now, we return the bikes and warm up with a hot drink in the town center as the city lights begin to twinkle."
+          },
+          "stops": [
+            {
+              "name": "Garden of the Republic Square",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe, der Fahrtwind ist im Winter kalt.",
+                "hu": "Viseljen kesztyűt, a menetszél télen hideg.",
+                "ro": "Purtați mănuși, vântul la deplasare este rece iarna.",
+                "en": "Wear gloves; the wind chill while riding is cold in winter."
+              }
+            },
+            {
+              "name": "Main Church of St. George",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Hände kurz aufzuwärmen.",
+                "hu": "Jó hely a kezek rövid felmelegítésére.",
+                "ro": "Un loc bun pentru a vă încălzi mâinile un moment.",
+                "en": "A good place to briefly warm your hands."
+              }
+            },
+            {
+              "name": "Municipal Museum (Mora House)",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad in der Sonne, falls möglich.",
+                "hu": "Ha lehet, parkolja a biciklit napos helyre.",
+                "ro": "Parcați bicicleta la soare, dacă este posibil.",
+                "en": "Park the bike in the sun if possible."
+              }
+            },
+            {
+              "name": "Hermitage of São Sebastião",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Windschatten der umliegenden Gebäude.",
+                "hu": "Figyeljen a környező épületek szélárnyékára.",
+                "ro": "Fiți atenți la adăpostul oferit de clădirile din jur.",
+                "en": "Pay attention to the wind shadow of the surrounding buildings."
+              }
+            },
+            {
+              "name": "Faluas Quay",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick bei der klaren Winterluft.",
+                "hu": "Élvezze a távoli kilátást a tiszta téli levegőben.",
+                "ro": "Bucurați-vă de priveliștea largă în aerul curat de iarnă.",
+                "en": "Enjoy the far-reaching views in the clear winter air."
+              }
+            },
+            {
+              "name": "Tide Mill of the Quay",
+              "tip_5lang": {
+                "de": "Ein windgeschützter Besichtigungspunkt am Ufer.",
+                "hu": "Szélvédett látnivaló a folyóparton.",
+                "ro": "Un punct de vizitare protejat de vânt pe mal.",
+                "en": "A wind-sheltered sightseeing spot on the waterfront."
+              }
+            },
+            {
+              "name": "Municipal Park of Montijo",
+              "tip_5lang": {
+                "de": "Die Wege sind im Winter meist trocken und griffig.",
+                "hu": "Az utak télen többnyire szárazak és jól tapadnak.",
+                "ro": "Aleile sunt de obicei uscate și aderente iarna.",
+                "en": "The paths are mostly dry and offer good grip in winter."
+              }
+            },
+            {
+              "name": "Monument to the Bullfighter",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückgabe spätestens um 17:00 Uhr.",
+                "hu": "Tervezze a leadást legkésőbb 17:00 órára.",
+                "ro": "Planificați returnarea cel târziu la ora 17:00.",
+                "en": "Plan to return the bike by 5:00 PM at the latest."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie ein Lippenbalsam gegen den kalten Fahrtwind.",
+              "Dunkle Kleidung absorbiert die seltene Wintersonne besser.",
+              "Prüfen Sie die Bremsen, da Metall bei Kälte anders reagiert.",
+              "Die Fahrradvermietungen haben im Winter oft verkürzte Öffnungszeiten."
+            ],
+            "hu": [
+              "Használjon ajakírt a hideg menetszél ellen.",
+              "A sötét ruházat jobban elnyeli a téli napsütést.",
+              "Ellenőrizze a fékeket, a fém alkatrészek hidegben másképp reagálhatnak.",
+              "A kerékpárkölcsönzők télen gyakran rövidebb ideig tartanak nyitva."
+            ],
+            "ro": [
+              "Folosiți un balsam de buze împotriva vântului rece.",
+              "Hainele închise la culoare absorb mai bine soarele slab de iarnă.",
+              "Verificați frânele, deoarece metalul reacționează diferit la frig.",
+              "Centrele de închirieri biciclete au adesea program redus iarna."
+            ],
+            "en": [
+              "Use lip balm to protect against the cold wind chill.",
+              "Dark clothing absorbs the scarce winter sunlight better.",
+              "Check your brakes, as metal components can react differently in the cold.",
+              "Bike rental shops may have shorter operating hours during winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1170,6 +1588,206 @@
           "Don't leave valuables visible in the car.",
           "The car gives you the flexibility to also visit nearby beaches or natural reserves."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "An einem Regentag ist das Auto die komfortabelste Wahl für Montijo. Wir parken direkt im Zentrum und erreichen den Praça da República mit wenigen Schritten. Nach einem Besuch der Kirche São Jorge bietet das Stadtmuseum Schutz vor den schwersten Schauern.\n\nMittags fahren wir zum Uferparkplatz. Von dort sind es nur Sekunden bis zum Cais das Faluas. Die historische Gezeitenmühle ist das perfekte Ziel, um im Trockenen die Geschichte zu erkunden, während draußen der Tejo stürmisch wird.\n\nAm Nachmittag parken wir am Stadtpark. Ein kurzer Spaziergang durch die Alleen ist auch bei Regen erfrischend, da man jederzeit schnell zum schützenden Wagen zurückkehren kann. Die grünen Flächen wirken unter dem grauen Himmel besonders satt.\n\nDer Abend endet entspannt im Stadtzentrum. Da das Auto direkt in der Nähe steht, müssen wir uns keine Sorgen um das Wetter machen und können den Besuch in einem der ausgezeichneten Fischrestaurants in vollen Zügen genießen.",
+            "hu": "Esős napon az autó a legkényelmesebb választás Montijóban. Közvetlenül a központban parkolunk, ahonnan pár lépés a Praça da República. A Szent György templom meglátogatása után a városi múzeum nyújt menedéket a komolyabb záporok elől.\n\nDélben a parti parkolóhoz hajtunk. Innen csak másodpercek a Cais das Faluas rakpart. Az Apálymalom tökéletes úticél, hogy szárazon ismerkedjünk a történelemmel, miközben odakint a Tejo hullámai csapkodnak.\n\nDélután a városi parknál állunk meg. Egy rövid séta az alleékon esőben is frissítő, hiszen bármikor visszatérhetünk a védelmet nyújtó autóhoz. A zöld területek a szürke ég alatt különösen dús látványt nyújtanak.\n\nAz este nyugodtan telik a belvárosban. Mivel az autó a közelben áll, nem kell aggódnunk az időjárás miatt, és teljes mértékben kiélvezhetjük a látogatást az egyik kiváló halétteremben.",
+            "ro": "Într-o zi ploioasă, mașina este cea mai confortabilă alegere pentru Montijo. Parcăm direct în centru și ajungem în Praça da República în câțiva pași. După o vizită la biserica São Jorge, muzeul municipal oferă protecție împotriva averselor.\n\nLa prânz conducem spre parcarea de pe malul apei. De acolo sunt doar câteva secunde până la Cais das Faluas. Moara de maree istorică este destinația perfectă pentru a explora istoria la uscat, în timp ce afară râul Tejo devine agitat.\n\nDupă-amiaza parcăm lângă parcul municipal. O scurtă plimbare pe alei este revigorantă chiar și pe ploaie, deoarece ne putem întoarce oricând repede la mașina protectoare. Spațiile verzi par deosebit de bogate sub cerul gri.\n\nSeara se încheie relaxat în centrul orașului. Deoarece mașina este parcată în apropiere, nu trebuie să ne facem griji pentru vreme și ne putem bucura din plin de vizita la unul dintre restaurantele excelente de pește.",
+            "en": "On a rainy day, the car is the most comfortable choice for exploring Montijo. We park right in the center, reaching Praça da República in just a few steps. After visiting St. George's Church, the Municipal Museum offers shelter from the heaviest showers.\n\nAt noon, we drive to the waterfront parking lot. From there, it's only seconds to Cais das Faluas. The historic Tide Mill is the perfect destination to explore history while staying dry as the Tagus turns stormy outside.\n\nIn the afternoon, we park by the Municipal Park. A short walk through the avenues is refreshing even in the rain, as we can quickly return to the shelter of the car at any time. The greenery looks particularly lush under the gray sky.\n\nThe evening ends relaxedly in the town center. With the car parked nearby, we don't have to worry about the weather and can fully enjoy our visit to one of the excellent local seafood restaurants."
+          },
+          "stops": [
+            {
+              "name": "Parking in the Center",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Parkplatz nah an den Arkadengängen.",
+                "hu": "Válasszon parkolót az árkádos folyosók közelében.",
+                "ro": "Alegeți un loc de parcare aproape de arcade.",
+                "en": "Choose a parking spot close to the covered walkways."
+              }
+            },
+            {
+              "name": "Garden of the Republic Square",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten minimieren den Regenkontakt.",
+                "hu": "A látnivalók közötti rövid távolság minimalizálja az esővel való érintkezést.",
+                "ro": "Distanțele scurte între obiective reduc contactul cu ploaia.",
+                "en": "Short distances between sights minimize exposure to the rain."
+              }
+            },
+            {
+              "name": "Main Church of St. George",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, den Regenschirm im Auto zu lassen (nur 2 Min. Weg).",
+                "hu": "Jó alkalom az esernyő autóban hagyására (csak 2 perc séta).",
+                "ro": "O ocazie bună de a lăsa umbrela în mașină (doar 2 minute de mers).",
+                "en": "A good opportunity to leave your umbrella in the car (only a 2-min walk)."
+              }
+            },
+            {
+              "name": "Municipal Museum (Mora House)",
+              "tip_5lang": {
+                "de": "Das Museum hat einen überdachten Eingangsbereich.",
+                "hu": "A múzeumnak fedett bejárati része van.",
+                "ro": "Muzeul are o zonă de intrare acoperită.",
+                "en": "The museum has a covered entrance area."
+              }
+            },
+            {
+              "name": "Waterfront Parking",
+              "tip_5lang": {
+                "de": "Achten Sie auf große Pfützen in der Nähe der Ausstiege.",
+                "hu": "Ügyeljen a nagy tócsákra a kiszállási pontoknál.",
+                "ro": "Atenție la bălțile mari din apropierea locului de coborâre.",
+                "en": "Watch out for large puddles near the car doors."
+              }
+            },
+            {
+              "name": "Faluas Quay & Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit direktem Parkplatz davor.",
+                "hu": "Válasszon olyan éttermet, amely előtt közvetlen parkoló van.",
+                "ro": "Alegeți un restaurant cu parcare direct în față.",
+                "en": "Choose a restaurant with parking directly in front."
+              }
+            },
+            {
+              "name": "Municipal Park of Montijo",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Park notfalls aus dem Auto.",
+                "hu": "Szükség esetén az autóból is élvezheti a park látványát.",
+                "ro": "Dacă este necesar, bucurați-vă de vederea parcului din mașină.",
+                "en": "Enjoy the park view from the car if the rain gets too heavy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt über die Brücke Vasco da Gama.",
+              "Parkhäuser sind im Regen die beste Wahl, um trocken auszusteigen.",
+              "Vermeiden Sie das Parken unter alten Bäumen bei Sturmwarnung.",
+              "Die Straßen im alten Zentrum können bei Regen sehr eng und rutschig wirken."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket a Vasco da Gama hídon való áthajtás előtt.",
+              "A parkolóházak a legjobbak, hogy szárazon szállhasson ki az autóból.",
+              "Viharjelzés esetén kerülje az öreg fák alatti parkolást.",
+              "Az óváros utcái esőben nagyon szűknek és csúszósnak tűnhetnek."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a traversa podul Vasco da Gama.",
+              "Parcările acoperite sunt cea mai bună alegere pentru a coborî uscat.",
+              "Evitați parcarea sub copaci bătrâni în caz de avertizare de furtună.",
+              "Străzile din centrul vechi pot părea foarte înguste și alunecoase pe ploaie."
+            ],
+            "en": [
+              "Check your windshield wipers before driving across the Vasco da Gama bridge.",
+              "Parking garages are the best choice for staying dry when exiting the car.",
+              "Avoid parking under old trees if there is a storm warning.",
+              "The narrow streets of the old center can feel very tight and slippery in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag lädt zur Autotour durch Montijo ein. Wir parken zentral und schlendern über den Praça da República. In der Kirche São Jorge bewundern wir die sakrale Kunst, bevor wir uns im warmen Stadtmuseum aufhalten.\n\nMittags fahren wir zum Flussufer. Das Licht am Tejo ist im Winter kristallklar, ideal für Fotos vom Cais das Faluas. Die Gezeitenmühle bietet einen interessanten Aufenthalt, während wir das Auto bequem in der Nähe geparkt haben.\n\nAm Nachmittag geht es zum Stadtpark. Die kühle Luft ist belebend für einen kurzen Spaziergang, und wir können uns jederzeit im geheizten Auto aufwärmen. Die Weite des Parks kommt im Winterlicht besonders gut zur Geltung.\n\nZum Abendessen kehren wir ins Zentrum zurück. Die Suche nach einem Parkplatz ist im Winter oft einfacher. Wir genießen die lokale Gastronomie und lassen den Tag entspannt ausklingen, bevor wir die Heimreise über die beleuchtete Brücke antreten.",
+            "hu": "Egy tiszta téli nap ideális autós túrához Montijóban. Központilag parkolunk, és teszünk egy kört a Praça da República téren. A Szent György templomban megcsodáljuk a szakrális művészetet, majd a fűtött városi múzeumban időzünk.\n\nDélben a folyópartra hajtunk. A fények a Tejón télen kristálytiszták, ideálisak a fotózáshoz a Cais das Faluas rakparton. Az Apálymalom érdekes megálló, miközben az autónk kényelmesen a közelben várakozik.\n\nDélután a városi parkba megyünk. A hűvös levegő élénkítő egy rövid sétához, és bármikor felmelegedhetünk a fűtött autóban. A park tágassága a téli fényekben érvényesül a legjobban.\n\nVacsoraidőben visszatérünk a központba. Télen gyakran könnyebb parkolóhelyet találni. Élvezzük a helyi gasztronómiát, és nyugodtan zárjuk a napot, mielőtt elindulnánk hazafelé a kivilágított hídon keresztül.",
+            "ro": "O zi senină de iarnă invită la un tur cu mașina prin Montijo. Parcăm central și ne plimbăm prin Praça da República. În biserica São Jorge admirăm arta sacră înainte de a petrece timp în muzeul municipal călduros.\n\nLa prânz conducem spre malul râului. Lumina pe Tejo este deosebit de clară iarna, ideală pentru fotografii la Cais das Faluas. Moara de maree oferă o vizită interesantă, în timp ce mașina este parcată confortabil în apropiere.\n\nDupă-amiaza mergem la parcul municipal. Aerul răcoros este revigorant pentru o scurtă plimbare și ne putem încălzi oricând în mașina încălzită. Amploarea parcului este pusă în valoare de lumina de iarnă.\n\nPentru cină revenim în centru. Găsirea unui loc de parcare este adesea mai ușoară iarna. Ne bucurăm de gastronomia locală și încheiem ziua relaxați înainte de a pleca spre casă pe podul iluminat.",
+            "en": "A clear winter day is perfect for a driving tour of Montijo. We park centrally and stroll across Praça da República. At St. George's Church, we admire the sacred art before spending time in the warm Municipal Museum.\n\nAt noon, we drive to the waterfront. The winter light over the Tagus is crystal clear, ideal for photos at Cais das Faluas. The Tide Mill provides an interesting stop while the car is conveniently parked nearby.\n\nIn the afternoon, we head to the Municipal Park. The crisp air is invigorating for a short walk, and we can warm up in the heated car whenever needed. The park's spaciousness is highlighted by the winter light.\n\nFor dinner, we return to the center. Finding a parking spot is often easier in winter. We enjoy the local cuisine and end the day relaxedly before the drive home across the illuminated bridge."
+          },
+          "stops": [
+            {
+              "name": "Parking in the Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die weniger belegten Parkplätze in der Nebensaison.",
+                "hu": "Használja ki a szezonon kívül kevésbé zsúfolt parkolókat.",
+                "ro": "Profitați de parcările mai puțin ocupate în extrasezon.",
+                "en": "Take advantage of the less crowded parking spots during the off-season."
+              }
+            },
+            {
+              "name": "Garden of the Republic Square",
+              "tip_5lang": {
+                "de": "Die Sonne wärmt mittags die Parkbänke angenehm auf.",
+                "hu": "A nap délben kellemesen felmelegíti a padokat.",
+                "ro": "Soarele încălzește plăcut băncile din piață la amiază.",
+                "en": "The midday sun warms the park benches pleasantly."
+              }
+            },
+            {
+              "name": "Main Church of St. George",
+              "tip_5lang": {
+                "de": "Beachten Sie die kürzeren Besichtigungszeiten im Winter.",
+                "hu": "Ügyeljen a téli, rövidebb látogatási időkre.",
+                "ro": "Atenție la programul de vizitare mai scurt în timpul iernii.",
+                "en": "Note the shorter visiting hours during the winter months."
+              }
+            },
+            {
+              "name": "Municipal Museum (Mora House)",
+              "tip_5lang": {
+                "de": "Die Heizung im Museum sorgt für eine wohlige Pause.",
+                "hu": "A múzeum fűtése kellemes pihenőt biztosít.",
+                "ro": "Încălzirea din muzeu asigură o pauză plăcută.",
+                "en": "The museum's heating provides a cozy break."
+              }
+            },
+            {
+              "name": "Waterfront Parking",
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick bei eingeschalteter Heizung.",
+                "hu": "Élvezze a panorámát a fűtött autóból.",
+                "ro": "Bucurați-vă de panorama fluviului din mașina încălzită.",
+                "en": "Enjoy the panoramic river view with the car heater on."
+              }
+            },
+            {
+              "name": "Faluas Quay & Lunch",
+              "tip_5lang": {
+                "de": "Fragen Sie nach dem Tagesgericht mit winterlichem Fisch.",
+                "hu": "Kérdezze a napi ajánlatot a téli halételekből.",
+                "ro": "Întrebați de meniul zilei cu pește de iarnă.",
+                "en": "Ask for the daily special featuring winter fish varieties."
+              }
+            },
+            {
+              "name": "Municipal Park of Montijo",
+              "tip_5lang": {
+                "de": "Die Wege sind bei klarem Wetter perfekt für einen Winterlauf.",
+                "hu": "Az utak tiszta időben tökéletesek egy téli futáshoz vagy sétához.",
+                "ro": "Aleile sunt perfecte pentru o plimbare de iarnă pe vreme senină.",
+                "en": "The paths are perfect for a winter stroll in clear weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf tiefstehende Sonne beim Überqueren des Tejo.",
+              "Die Batterieleistung kann bei kühleren Temperaturen sinken.",
+              "Nutzen Sie die Parkplätze in der Nähe von Cafés für kurze Aufwärmpausen.",
+              "Die Fernsicht von der Brücke ist im Winter oft besser als im Sommerdunst."
+            ],
+            "hu": [
+              "Figyeljen az alacsonyan járó napra a Tejo feletti átkelésnél.",
+              "Az akkumulátor teljesítménye csökkenhet a hűvösebb időben.",
+              "Használja a kávézók közeli parkolókat a rövid melegedő szünetekhez.",
+              "A kilátás a hídról télen gyakran jobb, mint a nyári pára idején."
+            ],
+            "ro": [
+              "Atenție la soarele jos când traversați fluviul Tejo.",
+              "Performanța bateriei poate scădea la temperaturi mai scăzute.",
+              "Folosiți parcările din apropierea cafenelelor pentru scurte pauze de încălzire.",
+              "Vizibilitatea de pe pod este adesea mai bună iarna decât în ceața de vară."
+            ],
+            "en": [
+              "Watch out for the low sun when crossing the Tagus river.",
+              "Battery performance may decrease in cooler temperatures.",
+              "Use parking spots near cafes for quick warm-up breaks.",
+              "The long-distance view from the bridge is often better in winter than in summer haze."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1526,6 +2144,188 @@
           "Keep small change ready for tickets if buying on board.",
           "Buses can be crowded during peak hours, so plan accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Fähre ist Montijo auch bei Regen gut erreichbar. Wir kommen am Terminal an und gehen die wenigen Schritte zum Praça da República. Die Kirche São Jorge bietet einen spirituellen Rückzugsort, bevor wir das informative Stadtmuseum besuchen.\n\nMittags nehmen wir den Bus zum Uferbereich. Der Transfer hält uns trocken und bringt uns direkt zum Cais das Faluas. Die Gezeitenmühle ist ein wunderbarer Ort, um das maritime Erbe zu erkunden, während draußen der Regen fällt.\n\nAm Nachmittag fahren wir mit dem Bus zum Stadtpark. Wir können die weitläufige Anlage vom Busfenster aus sehen und an einer strategisch günstigen Haltestelle aussteigen, um den Park kurz zu erkunden. Die Natur wirkt im Regen sehr lebendig.\n\nZum Abendessen kehren wir ins Zentrum zurück. Die Busse verkehren regelmäßig und bringen uns sicher zu den Restaurants. Nach einem gemütlichen Abend fahren wir mit dem Bus zurück zum Terminal für die Heimreise.",
+            "hu": "Busszal és komppal Montijo esőben is jól elérhető. A terminálhoz érkezünk, és pár lépést teszünk a Praça da República térig. A Szent György templom spirituális menedék, mielőtt a városi múzeumot meglátogatnánk.\n\nDélben busszal megyünk a partra. A transzfer szárazon tart, és közvetlenül a Cais das Faluas rakparthoz visz. Az Apálymalom csodálatos hely a tengeri örökség felfedezésére, miközben odakint esik az eső.\n\nDélután busszal utazunk a városi parkhoz. A buszablakból is láthatjuk a tágas területet, és egy stratégiailag jó megállónál szállunk le, hogy röviden körülnézzünk. A természet esőben nagyon élénknek hat.\n\nVacsoraidőben visszatérünk a központba. A buszok rendszeresen járnak, és biztonságosan elvisznek az éttermekhez. Egy kellemes este után busszal megyünk vissza a terminálhoz a hazautazáshoz.",
+            "ro": "Cu autobuzul și feribotul, Montijo este ușor accesibil și pe ploaie. Sosim la terminal și mergem câțiva pași până în Praça da República. Biserica São Jorge oferă un refugiu spiritual înainte de a vizita muzeul municipal.\n\nLa prânz luăm autobuzul spre zona de mal. Transferul ne menține uscați și ne duce direct la Cais das Faluas. Moara de maree este un loc minunat pentru a explora moștenirea maritimă în timp ce afară plouă.\n\nDupă-amiaza mergem cu autobuzul la parcul municipal. Putem vedea parcul vast de pe fereastra autobuzului și coborâm la o stație strategică pentru a-l explora scurt. Natura pare foarte vie în timpul ploii.\n\nPentru cină revenim în centru. Autobuzele circulă regulat și ne duc în siguranță la restaurante. După o seară plăcută, luăm autobuzul înapoi la terminal pentru plecare.",
+            "en": "Montijo is easily accessible by bus and ferry even in the rain. We arrive at the terminal and walk the short distance to Praça da República. St. George's Church provides a spiritual retreat before we visit the informative Municipal Museum.\n\nAt noon, we take the bus to the waterfront area. The transfer keeps us dry and drops us right at Cais das Faluas. The Tide Mill is a wonderful place to explore maritime heritage while the rain falls outside.\n\nIn the afternoon, we ride the bus to the Municipal Park. We can view the extensive grounds from the bus window and get off at a strategically located stop for a quick exploration. Nature feels very vibrant in the rain.\n\nFor dinner, we return to the center. Buses run regularly, taking us safely to the local restaurants. After a cozy evening, we catch the bus back to the terminal for the return journey."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Bus Terminal",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Bereich auf den Anschlussbus.",
+                "hu": "Várjon a fedett részen a csatlakozó buszra.",
+                "ro": "Așteptați în zona acoperită pentru autobuzul de legătură.",
+                "en": "Wait in the covered area for your connecting bus."
+              }
+            },
+            {
+              "name": "Garden of the Republic Square",
+              "tip_5lang": {
+                "de": "Das Zentrum ist kompakt, Regenschirm ist trotzdem nötig.",
+                "hu": "A központ kompakt, de az esernyő így is szükséges.",
+                "ro": "Centrul este compact, dar umbrela este totuși necesară.",
+                "en": "The center is compact, but an umbrella is still necessary."
+              }
+            },
+            {
+              "name": "Main Church of St. George",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle befindet sich fast direkt vor der Kirche.",
+                "hu": "A buszmegálló szinte közvetlenül a templom előtt található.",
+                "ro": "Stația de autobuz se află aproape direct în fața bisericii.",
+                "en": "The bus stop is located almost directly in front of the church."
+              }
+            },
+            {
+              "name": "Bus ride to the Waterfront",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stadtrundfahrt im trockenen Bus.",
+                "hu": "Élvezze a városnézést a száraz buszból.",
+                "ro": "Bucurați-vă de turul orașului din autobuzul uscat.",
+                "en": "Enjoy the city tour from the comfort of the dry bus."
+              }
+            },
+            {
+              "name": "Faluas Quay & Lunch",
+              "tip_5lang": {
+                "de": "Die Gastronomie am Kai ist gut per Bus angebunden.",
+                "hu": "A rakparti vendéglátóhelyek buszjáratokkal jól megközelíthetőek.",
+                "ro": "Restaurantele de pe chei sunt bine deservite de autobuze.",
+                "en": "The waterfront restaurants are well connected by bus routes."
+              }
+            },
+            {
+              "name": "Municipal Park of Montijo",
+              "tip_5lang": {
+                "de": "Die Haltestellen bieten oft nur wenig Regenschutz.",
+                "hu": "A megállók gyakran csak kevés védelmet nyújtanak az eső ellen.",
+                "ro": "Stațiile oferă adesea puțină protecție împotriva ploii.",
+                "en": "Bus stops often provide limited shelter from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Holen Sie sich eine wiederaufladbare Fahrkarte im Terminal.",
+              "Prüfen Sie die Fahrpläne am Wochenende, sie sind seltener.",
+              "Die Fähre nach Lissabon ist bei Regen eine tolle Aussichtsplattform.",
+              "Halten Sie Kleingeld für den Fahrkartenkauf beim Fahrer bereit."
+            ],
+            "hu": [
+              "Váltson újratölthető utazási kártyát a terminálon.",
+              "Hétvégén ellenőrizze a menetrendet, ritkábban járnak a buszok.",
+              "A lisszaboni komp esőben is kiváló kilátóhelyként szolgál.",
+              "Készítsen elő aprópénzt, ha a sofőrnél váltana jegyet."
+            ],
+            "ro": [
+              "Cumpărați un card de călătorie reîncărcabil de la terminal.",
+              "Verificați orarul în weekend, autobuzele circulă mai rar.",
+              "Feribotul spre Lisabona este o platformă excelentă de observare pe ploaie.",
+              "Pregătiți bani mărunți pentru achiziționarea biletului de la șofer."
+            ],
+            "en": [
+              "Get a rechargeable transit card at the terminal.",
+              "Check the weekend schedules, as buses run less frequently.",
+              "The ferry to Lisbon serves as a great viewing platform even in the rain.",
+              "Have small change ready if you need to buy a ticket from the driver."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag in Montijo beginnt am Bus-Terminal. Wir gehen zum Praça da República, wo die Cafés eine gemütliche Atmosphäre bieten. Die Kirche São Jorge beeindruckt durch ihre sakrale Stille, gefolgt von einem Besuch im warmen Stadtmuseum.\n\nMittags nutzen wir den Bus für die Fahrt zum Ufer. Das klare Winterlicht macht den Cais das Faluas zu einem optischen Erlebnis. In der Gezeitenmühle erfahren wir mehr über die Technik der Vergangenheit, gut geschützt vor dem kühlen Seewind.\n\nAm Nachmittag besuchen wir den Stadtpark mit dem Bus. Die Anlage ist im Winter ruhig und weitläufig. Wir können die winterliche Natur genießen und sind durch die gute Busanbindung zeitlich flexibel für die Rückkehr ins Zentrum.\n\nZum Abendessen finden wir im Zentrum viele einladende Orte. Die Busse bringen uns bequem zurück zum Terminal. Die winterliche Dämmerung verleiht der Fahrt eine besondere Stimmung, bevor wir die Rückreise nach Lissabon antreten.",
+            "hu": "A téli nap Montijóban a buszpályaudvaron kezdődik. A Praça da República felé vesszük az irányt, ahol a kávézók barátságos hangulatot árasztanak. A Szent György templom lenyűgöző csendje után a meleg városi múzeum következik.\n\nDélben busszal megyünk a partra. A tiszta téli fények vizuális élménnyé teszik a Cais das Faluas rakpartot. Az Apálymalomban a múlt technikájával ismerkedünk, védve a hűvös tengeri széltől.\n\nDélután a városi parkot látogatjuk meg busszal. A terület télen csendes és tágas. Élvezhetjük a téli természetet, a jó buszközlekedés pedig rugalmassá teszi a visszatérést a központba.\n\nVacsoraidőben sok hívogató helyet találunk a belvárosban. A buszok kényelmesen visszavisznek a terminálhoz. A téli szürkület különleges hangulatot ad az útnak a lisszaboni visszautazás előtt.",
+            "ro": "O zi de iarnă în Montijo începe la terminalul de autobuz. Mergem spre Praça da República, unde cafenelele oferă o atmosferă primitoare. Biserica São Jorge impresionează prin liniștea sa, urmată de o vizită la muzeul municipal călduros.\n\nLa prânz luăm autobuzul spre malul apei. Lumina clară de iarnă transformă Cais das Faluas într-o experiență vizuală. În moara de maree aflăm mai multe despre tehnica trecutului, protejați de vântul răcoros al mării.\n\nDupă-amiaza vizităm parcul municipal cu autobuzul. Parcul este liniștit și vast iarna. Ne putem bucura de natura hibernală, iar conexiunea bună de autobuz ne oferă flexibilitate pentru întoarcerea în centru.\n\nPentru cină găsim multe locuri primitoare în centru. Autobuzele ne duc confortabil înapoi la terminal. Amurgul de iarnă conferă drumului o atmosferă specială înainte de a pleca spre Lisabona.",
+            "en": "A winter day in Montijo starts at the bus terminal. We walk to Praça da República, where the cafes offer a cozy atmosphere. St. George's Church impresses with its sacred silence, followed by a visit to the warm Municipal Museum.\n\nAt noon, we take the bus to the waterfront. The clear winter light makes Cais das Faluas a visual delight. Inside the Tide Mill, we learn about the technology of the past, well-sheltered from the cool sea breeze.\n\nIn the afternoon, we visit the Municipal Park by bus. The grounds are quiet and spacious in winter. We can enjoy the winter scenery, and the reliable bus connections keep our return to the center flexible.\n\nFor dinner, we find many inviting spots in the town center. Buses take us comfortably back to the terminal. The winter dusk gives the ride a special mood before we start our return trip to Lisbon."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Bus Terminal",
+              "tip_5lang": {
+                "de": "Im Terminal gibt es beheizte Wartebereiche.",
+                "hu": "A terminálon fűtött váróhelyiségek találhatók.",
+                "ro": "În terminal există zone de așteptare încălzite.",
+                "en": "The terminal features heated waiting areas."
+              }
+            },
+            {
+              "name": "Garden of the Republic Square",
+              "tip_5lang": {
+                "de": "Die Cafés sind im Winter beliebte Treffpunkte der Einheimischen.",
+                "hu": "A kávézók télen a helyiek kedvelt találkozóhelyei.",
+                "ro": "Cafenelele sunt locuri de întâlnire populare pentru localnici iarna.",
+                "en": "The cafes are popular gathering spots for locals during winter."
+              }
+            },
+            {
+              "name": "Main Church of St. George",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Gottesdienstzeiten, die im Winter variieren können.",
+                "hu": "Figyeljen a miseidőpontokra, amelyek télen változhatnak.",
+                "ro": "Atenție la orele slujbelor, care pot varia iarna.",
+                "en": "Pay attention to service times, which may vary in winter."
+              }
+            },
+            {
+              "name": "Bus ride to the Waterfront",
+              "tip_5lang": {
+                "de": "Fensterplätze bieten die beste Sicht auf den winterlichen Tejo.",
+                "hu": "Az ablak melletti helyekről nyílik a legjobb kilátás a téli Tejóra.",
+                "ro": "Locurile de la fereastră oferă cea mai bună vedere asupra râului Tejo.",
+                "en": "Window seats offer the best views of the winter Tagus."
+              }
+            },
+            {
+              "name": "Faluas Quay & Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Blick auf das Wasser.",
+                "hu": "Válasszon éttermet, amelynek kilátása van a vízre.",
+                "ro": "Alegeți un restaurant cu vedere spre apă.",
+                "en": "Choose a restaurant with a view overlooking the water."
+              }
+            },
+            {
+              "name": "Municipal Park of Montijo",
+              "tip_5lang": {
+                "de": "Prüfen Sie den letzten Bus zurück ins Zentrum vor Einbruch der Dunkelheit.",
+                "hu": "Sötétedés előtt ellenőrizze az utolsó buszt a központba.",
+                "ro": "Verificați ultimul autobuz spre centru înainte de lăsarea întunericului.",
+                "en": "Check the last bus back to the center before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App der Verkehrsbetriebe für Echtzeit-Infos.",
+              "Die Fähren haben im Winter einen anderen Takt als im Sommer.",
+              "In den Bussen kann es durch die Klimaanlage kühl sein.",
+              "Die Wartezeiten an den Haltestellen sind bei Wind unangenehm."
+            ],
+            "hu": [
+              "Használja a közlekedési társaság alkalmazását a valós idejű infókért.",
+              "A kompok télen más menetrend szerint járhatnak, mint nyáron.",
+              "A buszokon a légkondicionálás miatt hűvös lehet.",
+              "A megállókban való várakozás szeles időben kellemetlen lehet."
+            ],
+            "ro": [
+              "Folosiți aplicația companiei de transport pentru informații în timp real.",
+              "Feriboturile au un program diferit iarna față de vară.",
+              "În autobuze poate fi răcoare din cauza aerului condiționat.",
+              "Timpul de așteptare în stații poate fi neplăcut pe vânt."
+            ],
+            "en": [
+              "Use the transit company's app for real-time information.",
+              "Ferries operate on a different schedule in winter compared to summer.",
+              "It can be cool on the buses due to the air conditioning.",
+              "Waiting at stops can be unpleasant when it is windy."
+            ]
+          }
+        }
       }
     }
   }

@@ -386,6 +386,206 @@
           "Bring a reusable water bottle; there are public fountains.",
           "Allschwil is very safe, but as always, keep an eye on your valuables."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens schützen die weiten Dachüberstände der Riegelhäuser am Dorfplatz vor dem Regen. Mittags bieten das Heimatmuseum und die Kirche St. Peter und Paul trockene Zuflucht voller Geschichte. Nachmittags verbringen wir viel Zeit im Ziegelei-Museum, einem perfekten Indoor-Ziel. Abends lassen wir den Tag trotz Pfützen bei einem kurzen Spaziergang am Bachgraben ausklingen.",
+            "hu": "Reggel a faluközpont gerendavázas házainak széles ereszei nyújtanak védelmet az eső elől. Délben a Helytörténeti Múzeum és a Szent Péter és Pál templom biztosít száraz, történelmi menedéket. Délután a Téglagyári Múzeumban kalandozunk, amely kiváló fedett program. Este a tócsák ellenére teszünk egy rövid, frissítő sétát a Bachgraben szabadidőparkban.",
+            "ro": "Dimineața, streșinile largi ale caselor cu bârne din piața satului oferă protecție împotriva ploii. La prânz, Muzeul de Istorie Locală și Biserica Sf. Petru și Pavel oferă un refugiu uscat și cultural. După-amiaza este dedicată Muzeului de Cărămizi, o destinație interioară ideală. Seara, în ciuda bălților, încheiem ziua cu o scurtă plimbare prin parcul Bachgraben.",
+            "en": "In the morning, the wide eaves of the half-timbered houses at the Village Square provide shelter from the rain. At noon, the Local History Museum and St. Peter and Paul Church offer dry, historic refuges. The afternoon is spent at the Brickyard Museum, a perfect indoor destination. In the evening, despite the puddles, we end the day with a refreshing stroll at Bachgraben park."
+          },
+          "stops": [
+            {
+              "name": "Village Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden und Dachüberstände der alten Häuser als Regenschutz.",
+                "hu": "Használja a régi házak árkádjait és ereszeit eső elleni védelemként.",
+                "ro": "Folosiți arcadele și streșinile caselor vechi pentru a vă adăposti de ploaie.",
+                "en": "Use the arcades and eaves of the old houses as shelter from the rain."
+              }
+            },
+            {
+              "name": "St. Peter and Paul Church",
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort, um das prasselnde Geräusch des Regens in Stille zu genießen.",
+                "hu": "Csodálatos hely, hogy csendben hallgassuk az eső kopogását a tetőn.",
+                "ro": "Un loc minunat pentru a asculta sunetul ploii în liniște deplină.",
+                "en": "A wonderful place to enjoy the sound of rain in complete silence."
+              }
+            },
+            {
+              "name": "Half-timbered houses on Vogesenstrasse",
+              "tip_5lang": {
+                "de": "Die nassen Riegelbalken wirken bei Regen farblich besonders intensiv.",
+                "hu": "A vizes gerendák színe esőben különösen intenzívnek tűnik.",
+                "ro": "Grinzile umede ale caselor par mult mai intens colorate pe timp de ploaie.",
+                "en": "The wet timber beams look particularly intense in color during rain."
+              }
+            },
+            {
+              "name": "Allschwil Local History Museum",
+              "tip_5lang": {
+                "de": "Idealer Zeitpunkt für eine ausführliche Besichtigung der gemütlichen Innenräume.",
+                "hu": "Ideális időpont a hangulatos belső terek alapos felfedezéséhez.",
+                "ro": "Moment ideal pentru o vizită detaliată a interioarelor primitoare.",
+                "en": "Ideal time for an extensive tour of the cozy interior spaces."
+              }
+            },
+            {
+              "name": "Brickyard Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist größtenteils überdacht, perfekt bei schlechtem Wetter.",
+                "hu": "A múzeum nagy része fedett, így rossz időben is tökéletes választás.",
+                "ro": "Muzeul este în mare parte acoperit, fiind perfect pe vreme rea.",
+                "en": "The museum is largely undercover, making it perfect for bad weather."
+              }
+            },
+            {
+              "name": "Allschwil Water Tower",
+              "tip_5lang": {
+                "de": "Achtung, die Treppenstufen können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a lépcsőfokok nedvesen csúszósak lehetnek.",
+                "ro": "Atenție, treptele pot fi alunecoase când sunt ude.",
+                "en": "Careful, the steps can be slippery when wet."
+              }
+            },
+            {
+              "name": "Bachgraben Leisure Park",
+              "tip_5lang": {
+                "de": "Wasserdichtes Schuhwerk ist für die Wege im Park nun unerlässlich.",
+                "hu": "Vízálló lábbeli most már nélkülözhetetlen a parki ösvényeken.",
+                "ro": "Încălțămintea impermeabilă este esențială pentru potecile din parc.",
+                "en": "Waterproof footwear is essential now for the paths in the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein Taschenschirm ist in den engen Gassen praktischer als ein Stockschirm.",
+              "Die alten Kopfsteinpflaster im Dorfkern werden bei Nässe sehr rutschig.",
+              "Nutzen Sie die längeren Aufenthalte in den Museen zum Aufwärmen.",
+              "Das Restaurant Mühle bietet eine gemütliche, trockene Pause."
+            ],
+            "hu": [
+              "Az összecsukható esernyő praktikusabb a szűk utcákban, mint a boternyő.",
+              "A falu központjában a régi macskakövek nedvesen nagyon csúsznak.",
+              "Használja ki a múzeumi tartózkodást a megszáradásra és pihenésre.",
+              "A Mühle étterem kiváló hely egy hangulatos, száraz szünetre."
+            ],
+            "ro": [
+              "O umbrelă pliabilă este mai practică pe străzile înguste decât una lungă.",
+              "Pavelele vechi din centrul satului devin foarte alunecoase la umezeală.",
+              "Profitați de vizitele la muzee pentru a vă încălzi și usca.",
+              "Restaurantul Mühle oferă o pauză caldă și primitoare."
+            ],
+            "en": [
+              "A compact umbrella is more practical in the narrow alleys than a long one.",
+              "Old cobblestones in the village center get very slippery when wet.",
+              "Take advantage of the museum visits to dry off and warm up.",
+              "The Mühle restaurant offers a cozy, dry spot for a break."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am kalten Morgen glitzert der Frost auf den Riegelhäusern des Dorfplatzes. Mittags wärmen wir uns in den geschichtsträchtigen Mauern der Museen auf. Da es bereits um 16:45 Uhr dunkel wird, genießen wir den Nachmittagsblick vom Wasserturm im Dämmerlicht. Der Tag endet mit einer klaren, frostigen Luft im Bachgraben-Park unter den Sternen.",
+            "hu": "A hideg reggelen dér csillog a faluközpont gerendavázas házain. Délben a múzeumok történelmi falaiban melegszünk fel a fagy elől. Mivel már 16:45-kor sötétedik, a délutáni kilátást a víztoronyból már szürkületben élvezzük. A nap a Bachgraben parkban, tiszta, fagyos levegőn és csillagos égbolt alatt ér véget.",
+            "ro": "În dimineața geroasă, promoroaca strălucește pe casele din piața satului. La prânz, ne încălzim între zidurile istorice ale muzeelor. Deoarece se întunecă deja la ora 16:45, admirăm vederea de după-amiază din turnul de apă în amurg. Ziua se încheie cu aerul curat și înghețat din parcul Bachgraben, sub cerul înstelat.",
+            "en": "On a cold morning, frost glistens on the half-timbered houses of the Village Square. At noon, we warm up within the historic walls of the local museums. Since it gets dark as early as 4:45 PM, we enjoy the afternoon view from the water tower in the twilight. The day ends with crisp, frosty air in Bachgraben park under the stars."
+          },
+          "stops": [
+            {
+              "name": "Village Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem historischen Kopfsteinpflaster.",
+                "hu": "Ügyeljen a jegesedésre a történelmi macskaköveken.",
+                "ro": "Atenție la porțiunile de gheață pe pavajul istoric.",
+                "en": "Watch out for black ice on the historic cobblestones."
+              }
+            },
+            {
+              "name": "St. Peter and Paul Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Rückzugsort, um der Kälte für einen Moment zu entkommen.",
+                "hu": "Csendes menedék, hogy egy pillanatra elmeneküljünk a hideg elől.",
+                "ro": "Un refugiu liniștit pentru a scăpa de frig pentru câteva momente.",
+                "en": "A quiet retreat to escape the cold for a moment."
+              }
+            },
+            {
+              "name": "Half-timbered houses on Vogesenstrasse",
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange, dramatische Schatten auf die Fassaden.",
+                "hu": "Az alacsonyan járó téli nap hosszú, drámai árnyékokat vet a homlokzatokra.",
+                "ro": "Soarele de iarnă aruncă umbre lungi și dramatice pe fațade.",
+                "en": "The low winter sun casts long, dramatic shadows on the facades."
+              }
+            },
+            {
+              "name": "Allschwil Local History Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre in den beheizten Ausstellungsräumen.",
+                "hu": "Élvezze a hangulatos légkört a fűtött kiállítótermekben.",
+                "ro": "Bucurați-vă de atmosfera primitoare din sălile de expoziție încălzite.",
+                "en": "Enjoy the cozy atmosphere in the heated exhibition rooms."
+              }
+            },
+            {
+              "name": "Brickyard Museum",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, die alten Hallen können recht kühl sein.",
+                "hu": "Öltözzön rétegesen, a régi csarnokok elég hűvösek lehetnek.",
+                "ro": "Îmbrăcați-vă gros, halele vechi pot fi destul de reci.",
+                "en": "Dress warmly, as the old halls can be quite chilly."
+              }
+            },
+            {
+              "name": "Allschwil Water Tower",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter bereits gegen 16:30 Uhr zu bewundern.",
+                "hu": "A naplemente télen már délután fél 5 körül megcsodálható.",
+                "ro": "Apusul poate fi admirat iarna deja în jurul orei 16:30.",
+                "en": "The sunset can be admired as early as 4:30 PM in winter."
+              }
+            },
+            {
+              "name": "Bachgraben Leisure Park",
+              "tip_5lang": {
+                "de": "Bei klarem Himmel bietet der Park eine tolle Sicht auf die Wintersterne.",
+                "hu": "Tiszta égbolt mellett a parkból remek kilátás nyílik a téli csillagokra.",
+                "ro": "Dacă cerul e senin, parcul oferă o vedere excelentă spre stelele iernii.",
+                "en": "Under clear skies, the park offers a great view of the winter stars."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Schichten sind wichtig, da man zwischen Innen- und Außenbereichen wechselt.",
+              "Die Sonne verschwindet früh hinter den Hügeln, planen Sie Fotos für mittags.",
+              "Ein heißer Tee in einer Thermoskanne macht die Pausen im Freien angenehmer.",
+              "Festes Schuhwerk mit Profil ist wegen möglicher Glätte ratsam."
+            ],
+            "hu": [
+              "Fontos a réteges öltözködés a kinti és benti helyszínek váltakozása miatt.",
+              "A nap korán eltűnik a dombok mögött, a fotózást ütemezze délre.",
+              "Egy termosz forró tea kellemesebbé teszi a szabadtéri pihenőket.",
+              "A csúszásveszély miatt profilozott talpú, stabil cipő ajánlott."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este esențială pentru trecerea de la interior la exterior.",
+              "Soarele apune devreme după dealuri, planificați fotografiile pentru prânz.",
+              "Un ceai fierbinte într-un termos face pauzele în aer liber mai plăcute.",
+              "Se recomandă încălțăminte solidă cu talpă aderentă din cauza poleiului."
+            ],
+            "en": [
+              "Layered clothing is vital as you move between indoor and outdoor areas.",
+              "The sun disappears early behind the hills; plan photography for midday.",
+              "A hot tea in a thermos makes outdoor breaks much more pleasant.",
+              "Sturdy footwear with good grip is advised due to potential ice."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +966,206 @@
           "Many paths are flat, but be prepared for some inclines, especially towards the water tower.",
           "Use a bike navigation app to find the best routes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet vorsichtig auf dem nassen Kopfsteinpflaster des Dorfplatzes. Mittags nutzen wir die Museumsbesuche als ausgedehnte Regenpausen für Mensch und Material. Nachmittags führt die Route durch den Bachgraben, wo wir auf schlammige Stellen achten müssen. Den Tag beenden wir zügig beim Mühlestall, bevor die Dunkelheit einsetzt.",
+            "hu": "A kerékpártúra óvatosan indul a faluközpont nedves macskakövein. Délben a múzeumlátogatásokat hosszabb esőszünetként használjuk ki bringának és embernek egyaránt. Délután az útvonal a Bachgraben felé vezet, ahol ügyelnünk kell a sáros részekre. A napot gyorsan zárjuk a Mühlestallnál, mielőtt beállna a sötétség.",
+            "ro": "Turul cu bicicleta începe cu prudență pe pavelele umede din piața satului. La prânz, vizitele la muzee servesc drept pauze prelungite de ploaie pentru noi și echipament. După-amiaza, traseul trece prin Bachgraben, unde trebuie să fim atenți la noroi. Încheiem ziua rapid la Mühlestall înainte de lăsarea întunericului.",
+            "en": "The bike tour starts cautiously on the wet cobblestones of the Village Square. At noon, we use the museum visits as extended rain breaks for both ourselves and our gear. In the afternoon, the route leads through Bachgraben, where we must watch out for muddy patches. We finish the day swiftly at Mühlestall before darkness falls."
+          },
+          "stops": [
+            {
+              "name": "Village Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren: Das Kopfsteinpflaster ist spiegelglatt.",
+                "hu": "Vigyázat az indulásnál: a macskakő tükörsima és csúszik.",
+                "ro": "Atenție la pornire: pavajul este extrem de alunecos.",
+                "en": "Be careful when starting: the cobblestones are very slick."
+              }
+            },
+            {
+              "name": "St. Peter and Paul Church",
+              "tip_5lang": {
+                "de": "Es gibt überdachte Fahrradständer in der Nähe des Eingangs.",
+                "hu": "A bejárat közelében fedett kerékpártárolók találhatók.",
+                "ro": "Există suporturi de biciclete acoperite în apropierea intrării.",
+                "en": "There are covered bike racks near the entrance."
+              }
+            },
+            {
+              "name": "Allschwil Local History Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Regenkleidung kurz abtropfen zu lassen.",
+                "hu": "Tökéletes hely, hogy kicsit lecsöpögtesse az esőruházatot.",
+                "ro": "Locul perfect pentru a lăsa echipamentul de ploaie să se scurgă.",
+                "en": "Perfect place to let your rain gear drip dry for a bit."
+              }
+            },
+            {
+              "name": "Brickyard Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Unterstände auf dem Museumsgelände für den Check der Bremsen.",
+                "hu": "Használja a múzeum területén lévő beállókat a fékek ellenőrzésére.",
+                "ro": "Folosiți adăposturile muzeului pentru a verifica starea frânelor.",
+                "en": "Use the shelters on the museum grounds to check your brakes."
+              }
+            },
+            {
+              "name": "Bachgraben Leisure Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen, die tiefer sein können, als sie aussehen.",
+                "hu": "Vigyázzon a tócsákkal, mélyebbek lehetnek, mint amilyennek látszanak.",
+                "ro": "Atenție la bălți, pot fi mai adânci decât par la prima vedere.",
+                "en": "Watch out for puddles; they can be deeper than they look."
+              }
+            },
+            {
+              "name": "Allschwil Water Tower",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad gesichert unter, während Sie die Aussicht genießen.",
+                "hu": "Támassza le biztonságosan a biciklit, amíg élvezi a kilátást.",
+                "ro": "Parcați bicicleta într-un loc sigur în timp ce admirați vederea.",
+                "en": "Park your bike securely while you enjoy the view."
+              }
+            },
+            {
+              "name": "Mühlestall",
+              "tip_5lang": {
+                "de": "Endstation im Trockenen: Ein idealer Ort für den Abschluss.",
+                "hu": "Végállomás szárazon: ideális hely a befejezéshez.",
+                "ro": "Destinație finală la adăpost: un loc ideal pentru finalul zilei.",
+                "en": "Final stop in the dry: an ideal place for the conclusion."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter ein Muss, um trocken zu bleiben.",
+              "Reduzieren Sie den Reifendruck minimal für besseren Grip auf nassem Asphalt.",
+              "Vermeiden Sie hastiges Bremsen auf den Markierungen der Tramschienen.",
+              "Eine wasserdichte Handyhülle für die Navigation ist sehr hilfreich."
+            ],
+            "hu": [
+              "A sárvédő kötelező ebben az időben, hogy szárazon maradjon.",
+              "Kicsit csökkentse a guminyomást a jobb tapadás érdekében a vizes aszfalton.",
+              "Kerülje a hirtelen fékezést a villamossíneken és felfestéseken.",
+              "Egy vízálló telefontok a navigációhoz nagyon hasznos lehet."
+            ],
+            "ro": [
+              "Apărătorile sunt obligatorii pe această vreme pentru a rămâne uscat.",
+              "Reduceți minim presiunea în pneuri pentru o aderență mai bună pe asfalt ud.",
+              "Evitați frânarea bruscă pe marcajele rutiere sau pe șinele de tramvai.",
+              "O husă impermeabilă pentru telefon este foarte utilă pentru navigație."
+            ],
+            "en": [
+              "Mudguards are a must in this weather to keep you dry.",
+              "Slightly reduce tire pressure for better grip on wet asphalt.",
+              "Avoid sudden braking on road markings or tram tracks.",
+              "A waterproof phone case for navigation is very helpful."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalt und klar beginnt die Tour am frostigen Dorfplatz. Mittags wärmen wir uns bei den Museen auf, da der Fahrtwind die Kälte verstärkt. Nachmittags radeln wir durch den winterlichen Bachgraben und erreichen den Wasserturm pünktlich zum frühen Sonnenuntergang. Der Tag endet gemütlich im Mühlestall, wo wir uns von der Kälte erholen.",
+            "hu": "Hidegen és tisztán indul a túra a fagyos faluközpontban. Délben a múzeumoknál melegszünk fel, mivel a menetszél fokozza a hideget. Délután a téli Bachgrabenen tekerünk át, és pontosan a korai naplementére érünk a víztoronyhoz. A nap hangulatosan ér véget a Mühlestallnál, ahol kipihenjük a fagyot.",
+            "ro": "Turul începe sub un cer senin și rece în piața înghețată a satului. La prânz, ne încălzim la muzee, deoarece vântul din mers accentuează frigul. După-amiaza pedalăm prin parcul de iarnă Bachgraben și ajungem la turnul de apă fix la apus. Ziua se încheie confortabil la Mühlestall, unde ne recuperăm după ger.",
+            "en": "The tour begins cold and clear at the frosty Village Square. At noon, we warm up at the museums, as the wind chill makes it feel colder. In the afternoon, we cycle through the wintry Bachgraben and reach the water tower just in time for the early sunset. The day ends cozily at Mühlestall, recovering from the cold."
+          },
+          "stops": [
+            {
+              "name": "Village Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Reif auf den Steinen am frühen Morgen.",
+                "hu": "Vigyázat a köveken lévő korai dérrel és faggyal.",
+                "ro": "Atenție la chiciura de pe pietre la primele ore ale dimineții.",
+                "en": "Watch out for frozen frost on the stones in the early morning."
+              }
+            },
+            {
+              "name": "St. Peter and Paul Church",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad so ab, dass es nicht zur Stolperfalle auf glatten Wegen wird.",
+                "hu": "Úgy támassza le a gépet, hogy ne legyen akadály a csúszós utakon.",
+                "ro": "Parcați bicicleta astfel încât să nu devină un obstacol pe căile alunecoase.",
+                "en": "Park your bike so it doesn't become a trip hazard on slippery paths."
+              }
+            },
+            {
+              "name": "Allschwil Local History Museum",
+              "tip_5lang": {
+                "de": "Ein willkommener Stopp, um die steifen Finger wieder aufzuwärmen.",
+                "hu": "Üdvözlendő megálló, hogy az elgémberedett ujjainkat felmelegítsük.",
+                "ro": "O oprire binevenită pentru a vă dezmorți degetele înghețate.",
+                "en": "A welcome stop to warm up stiff fingers."
+              }
+            },
+            {
+              "name": "Brickyard Museum",
+              "tip_5lang": {
+                "de": "Bewegung in den Hallen hilft gegen die Kälte.",
+                "hu": "A csarnokokban való mozgás segít a hideg ellen.",
+                "ro": "Mișcarea prin hale ajută la combaterea frigului.",
+                "en": "Moving around in the halls helps against the cold."
+              }
+            },
+            {
+              "name": "Bachgraben Leisure Park",
+              "tip_5lang": {
+                "de": "Die Wege können teilweise vereist sein, fahren Sie vorausschauend.",
+                "hu": "Az utak helyenként jegesek lehetnek, tekerjen előrelátóan.",
+                "ro": "Potecile pot fi parțial înghețate, pedalați cu prudență.",
+                "en": "Paths may be partially iced over; cycle proactively."
+              }
+            },
+            {
+              "name": "Allschwil Water Tower",
+              "tip_5lang": {
+                "de": "Das Licht der blauen Stunde ist ideal für Winterfotos.",
+                "hu": "A kék óra fényei ideálisak a téli fotókhoz.",
+                "ro": "Lumina orei albastre este ideală pentru fotografii de iarnă.",
+                "en": "The blue hour light is ideal for winter photography."
+              }
+            },
+            {
+              "name": "Mühlestall",
+              "tip_5lang": {
+                "de": "Genießen Sie den warmen Ausklang der Tour im Inneren.",
+                "hu": "Élvezze a túra meleg befejezését odabent.",
+                "ro": "Bucurați-vă de finalul cald al turului în interior.",
+                "en": "Enjoy the warm conclusion of the tour inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe sind bei Minusgraden unerlässlich.",
+              "Prüfen Sie Ihre Beleuchtung, da es ab 16:30 Uhr stockfinster wird.",
+              "Akku-Geräte entladen sich bei Kälte schneller, halten Sie sie am Körper.",
+              "Achten Sie auf Streusalz, das den Antrieb Ihres Rads angreifen kann."
+            ],
+            "hu": [
+              "Szélálló kesztyű elengedhetetlen a mínuszokban.",
+              "Ellenőrizze a világítást, mert fél 5 után hamar besötétedik.",
+              "Az akkumulátorok gyorsabban merülnek hidegben, tartsa őket a testéhez közel.",
+              "Ügyeljen az útszóró sóra, amely károsíthatja a kerékpár hajtását."
+            ],
+            "ro": [
+              "Mănușile rezistente la vânt sunt esențiale la temperaturi negative.",
+              "Verificați luminile, deoarece se întunecă complet după ora 16:30.",
+              "Bateriile se descarcă mai repede la frig, păstrați-le aproape de corp.",
+              "Atenție la sarea de pe drum, care poate coroda transmisia bicicletei."
+            ],
+            "en": [
+              "Windproof gloves are essential in sub-zero temperatures.",
+              "Check your lights, as it gets pitch dark after 4:30 PM.",
+              "Battery devices drain faster in the cold; keep them close to your body.",
+              "Watch out for road salt, which can corrode your bike's drivetrain."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1146,6 +1546,206 @@
           "The streets can be narrow, so drive carefully in the historic center.",
           "Plan for extra time for traffic, especially during peak hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom zentralen Parkplatz aus erreichen wir schnell die schützenden Gassen des Dorfkerns. Mittags bieten die Museen trockene und lehrreiche Stunden, während der Regen gegen die alten Fenster prasselt. Nachmittags fahren wir bequem zum Wasserturm und zum Bachgraben, wobei das Auto als perfekter Rückzugsort dient. Den Abend genießen wir entspannt ohne nasse Füße.",
+            "hu": "A központi parkolóból gyorsan elérjük a faluközpont védelmet nyújtó utcáit. Délben a múzeumok száraz és tanulságos órákat kínálnak, miközben az eső kopog a régi ablakokon. Délután kényelmesen autózunk a víztoronyhoz és a Bachgrabenhez, az autó tökéletes menedékként szolgál. Az estét nyugodtan, vizes lábak nélkül élvezzük.",
+            "ro": "Din parcarea centrală ajungem rapid pe străzile protejate din centrul satului. La prânz, muzeele oferă ore uscate și educative, în timp ce ploaia bate în ferestrele vechi. După-amiaza conducem confortabil spre turnul de apă și Bachgraben, mașina fiind refugiul perfect. Ne bucurăm de seară relaxați, fără a ne uda la picioare.",
+            "en": "From the central car park, we quickly reach the sheltered alleys of the village center. At noon, the museums offer dry and educational hours while the rain taps against the old windows. In the afternoon, we drive comfortably to the water tower and Bachgraben, with the car serving as the perfect refuge. We enjoy the evening relaxed without getting wet feet."
+          },
+          "stops": [
+            {
+              "name": "Central Car Park",
+              "tip_5lang": {
+                "de": "Halten Sie den Schirm beim Aussteigen direkt bereit.",
+                "hu": "Kiszálláskor tartsa rögtön készenlétben az esernyőt.",
+                "ro": "Aveți umbrela pregătită imediat ce coborâți din mașină.",
+                "en": "Have your umbrella ready immediately upon exiting the car."
+              }
+            },
+            {
+              "name": "Village Square & Half-timbered houses",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten minimieren den Kontakt mit dem Regen.",
+                "hu": "A látnivalók közötti rövid távolságok minimalizálják az esővel való érintkezést.",
+                "ro": "Distanțele scurte între obiective minimizează expunerea la ploaie.",
+                "en": "Short distances between sights minimize contact with the rain."
+              }
+            },
+            {
+              "name": "St. Peter and Paul Church",
+              "tip_5lang": {
+                "de": "Parkplätze in unmittelbarer Nähe ermöglichen einen trockenen Zugang.",
+                "hu": "A közvetlen közelben lévő parkolók száraz bejutást tesznek lehetővé.",
+                "ro": "Locurile de parcare din imediata apropiere permit un acces uscat.",
+                "en": "Parking spaces in the immediate vicinity allow for dry access."
+              }
+            },
+            {
+              "name": "Allschwil Local History Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als ausgedehnte Regenpause.",
+                "hu": "Használja a múzeumlátogatást egy hosszabb esőszünetként.",
+                "ro": "Folosiți vizita la muzeu ca o pauză prelungită de ploaie.",
+                "en": "Use the museum visit as an extended rain break."
+              }
+            },
+            {
+              "name": "Brickyard Museum",
+              "tip_5lang": {
+                "de": "Direkte Anfahrt zum Museumsgelände spart lange Fußwege im Regen.",
+                "hu": "A közvetlen behajtás a múzeumhoz megspórolja a hosszú ázást.",
+                "ro": "Accesul direct la muzeu vă scutește de mersul prin ploaie.",
+                "en": "Direct access to the museum grounds saves you from long walks in the rain."
+              }
+            },
+            {
+              "name": "Allschwil Water Tower",
+              "tip_5lang": {
+                "de": "Vom Auto aus lässt sich die Aussicht auch bei Schauern genießen.",
+                "hu": "Az autóból is élvezhető a kilátás záporok idején.",
+                "ro": "Priveliștea poate fi admirată din mașină chiar și în timpul averselor.",
+                "en": "The view can be enjoyed from the car even during showers."
+              }
+            },
+            {
+              "name": "Bachgraben Leisure Park",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Haupteingang für einen kurzen Weg ins Grüne.",
+                "hu": "Parkoljon a főbejárat közelében a rövid zöldövezeti sétához.",
+                "ro": "Parcați aproape de intrarea principală pentru un drum scurt spre verdeață.",
+                "en": "Park near the main entrance for a short path into the greenery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Fußgänger in den engen Gassen, besonders bei schlechter Sicht.",
+              "Die Parkplatzsuche im Dorfkern kann bei Regen etwas geduldiger angegangen werden.",
+              "Lassen Sie feuchte Kleidung nicht im Auto liegen, um beschlagene Scheiben zu vermeiden.",
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Abfahrt."
+            ],
+            "hu": [
+              "Ügyeljen a gyalogosokra a szűk utcákban, különösen rossz látási viszonyoknál.",
+              "A faluközpontban a parkolóhely-keresés esőben türelmet igényelhet.",
+              "Ne hagyja a nedves ruhát az autóban, hogy elkerülje az ablakok párásodását.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát."
+            ],
+            "ro": [
+              "Atenție la pietoni pe străzile înguste, mai ales în condiții de vizibilitate redusă.",
+              "Căutarea unui loc de parcare în centru poate dura mai mult pe ploaie.",
+              "Nu lăsați hainele umede în mașină pentru a evita aburirea geamurilor.",
+              "Verificați starea ștergătoarelor înainte de a pleca la drum."
+            ],
+            "en": [
+              "Watch out for pedestrians in narrow alleys, especially in poor visibility.",
+              "Finding parking in the village center might require more patience in the rain.",
+              "Do not leave damp clothes in the car to avoid fogging up the windows.",
+              "Check the condition of your windshield wipers before setting off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Tour beginnt am zentralen Parkplatz, von wo aus wir den frostigen Dorfkern erkunden. Mittags dienen die Museen als warme Ankerpunkte in der Kälte. Dank des Autos erreichen wir den Wasserturm bequem zur Dämmerung und genießen das Lichtermeer. Der Tag endet sicher und warm nach einem Abstecher zum Bachgraben-Park.",
+            "hu": "A téli túra a központi parkolóban kezdődik, ahonnan a fagyos faluközpontot fedezzük fel. Délben a múzeumok meleg biztosítékként szolgálnak a hidegben. Az autónak köszönhetően kényelmesen érünk a víztoronyhoz szürkületkor, és élvezzük a fényeket. A nap biztonságban és melegben ér véget a Bachgraben park után.",
+            "ro": "Turul de iarnă începe în parcarea centrală, de unde explorăm centrul înghețat al satului. La prânz, muzeele sunt puncte calde de refugiu în ger. Datorită mașinii, ajungem confortabil la turnul de apă la amurg și admirăm luminile. Ziua se încheie în siguranță și căldură după o vizită în parcul Bachgraben.",
+            "en": "The winter tour begins at the central car park, from where we explore the frosty village center. At noon, the museums serve as warm anchors in the cold. Thanks to the car, we comfortably reach the water tower at twilight and enjoy the lights. The day ends safely and warmly after a detour to Bachgraben park."
+          },
+          "stops": [
+            {
+              "name": "Central Car Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Stellen auf der Parkfläche.",
+                "hu": "Ügyeljen a jeges foltokra a parkoló területén.",
+                "ro": "Atenție la porțiunile înghețate din zona de parcare.",
+                "en": "Watch out for frozen spots in the parking area."
+              }
+            },
+            {
+              "name": "Village Square & Half-timbered houses",
+              "tip_5lang": {
+                "de": "Die Riegelhäuser wirken mit Reifüberzug besonders malerisch.",
+                "hu": "A gerendavázas házak zúzmarásan különösen festőiek.",
+                "ro": "Casele cu bârne arată deosebit de pitoresc acoperite de promoroacă.",
+                "en": "The half-timbered houses look particularly picturesque with a coating of frost."
+              }
+            },
+            {
+              "name": "St. Peter and Paul Church",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für Besinnung während der kalten Tour.",
+                "hu": "Meleg hely az elmélyüléshez a hideg túra alatt.",
+                "ro": "Un loc cald pentru meditație în timpul turului geros.",
+                "en": "A warm place for reflection during the cold tour."
+              }
+            },
+            {
+              "name": "Allschwil Local History Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Museum, um neue Energie zu tanken.",
+                "hu": "Használja ki a múzeum fűtését az energiatöltődéshez.",
+                "ro": "Profitați de căldura din muzeu pentru a vă reîncărca bateriile.",
+                "en": "Use the heating in the museum to recharge your energy."
+              }
+            },
+            {
+              "name": "Brickyard Museum",
+              "tip_5lang": {
+                "de": "Parkplätze direkt am Eingang sind im Winter ein großer Vorteil.",
+                "hu": "A közvetlenül a bejáratnál lévő parkolók télen nagy előnyt jelentenek.",
+                "ro": "Parcarea direct la intrare este un mare avantaj iarna.",
+                "en": "Parking right at the entrance is a big advantage in winter."
+              }
+            },
+            {
+              "name": "Allschwil Water Tower",
+              "tip_5lang": {
+                "de": "Im Auto lässt sich das Aufwärmen mit der Aussicht verbinden.",
+                "hu": "Az autóban az átmelegedés és a nézelődés összeköthető.",
+                "ro": "În mașină puteți îmbina încălzirea cu admirarea peisajului.",
+                "en": "In the car, you can combine warming up with enjoying the view."
+              }
+            },
+            {
+              "name": "Bachgraben Leisure Park",
+              "tip_5lang": {
+                "de": "Ein kurzer Winterspaziergang ist auch bei Kälte erfrischend.",
+                "hu": "Egy rövid téli séta a hidegben is frissítő.",
+                "ro": "O scurtă plimbare de iarnă este revigorantă chiar și pe ger.",
+                "en": "A short winter walk is refreshing even in the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in der Hügelregion um Allschwil absolut notwendig.",
+              "Führen Sie einen Eiskratzer und eventuell Enteiserspray mit.",
+              "Die Batterie kann bei extremer Kälte schwächeln, prüfen Sie diese vorab.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche ein, da Schneehaufen Plätze blockieren können."
+            ],
+            "hu": [
+              "A téli gumi abszolút kötelező Allschwil dombos környékén.",
+              "Tartson az autóban jégkaparót és esetleg jégoldó spray-t.",
+              "Az akkumulátor gyengülhet az extrém hidegben, ellenőrizze előre.",
+              "Számoljon több idővel a parkolásra, mert a hóbuckák helyeket foglalhatnak el."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt absolut necesare în regiunea deluroasă Allschwil.",
+              "Aveți la îndemână o racletă și eventual un spray de dezghețare.",
+              "Bateria poate da semne de slăbiciune la ger, verificați-o în prealabil.",
+              "Planificați mai mult timp pentru parcare, deoarece mormanele de zăpadă pot ocupa locuri."
+            ],
+            "en": [
+              "Winter tires are absolutely necessary in the hilly region around Allschwil.",
+              "Keep an ice scraper and possibly de-icer spray in your car.",
+              "The battery may weaken in extreme cold; check it beforehand.",
+              "Plan more time for parking, as snowbanks can block spaces."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1502,6 +2102,188 @@
           "Be mindful of the last departure in the evening so you don't get stranded.",
           "Most buses and trams are wheelchair accessible."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Tram erreichen wir Allschwil bequem und starten geschützt unter der Haltestelle. Mittags bieten die Museen spannende Einblicke im Trockenen, während wir die kurzen Wege dazwischen nutzen. Nachmittags bringt uns der Bus zum Bachgraben und Wasserturm, sodass wir kaum im Regen stehen müssen. Der Tag endet entspannt in der warmen Trambahn auf dem Rückweg.",
+            "hu": "Villamossal kényelmesen érkezünk Allschwilbe, a megálló fedezékében kezdve a napot. Délben a múzeumok izgalmas betekintést nyújtanak szárazon, kihasználva a rövid köztes távokat. Délután a busz visz minket a Bachgrabenhez és a víztoronyhoz, így alig kell az esőben állnunk. A nap nyugodtan, a meleg villamoson ér véget a visszaúton.",
+            "ro": "Ajungem confortabil în Allschwil cu tramvaiul și începem ziua protejați în stație. La prânz, muzeele oferă perspective fascinante la adăpost, profitând de distanțele scurte dintre ele. După-amiaza, autobuzul ne duce la Bachgraben și la turnul de apă, astfel încât stăm foarte puțin în ploaie. Ziua se încheie relaxat în tramvaiul cald pe drumul de întoarcere.",
+            "en": "We arrive comfortably in Allschwil by tram and start the day sheltered at the stop. At noon, the museums provide exciting insights in the dry, taking advantage of the short distances between them. In the afternoon, the bus takes us to Bachgraben and the water tower, so we hardly have to stand in the rain. The day ends relaxed in the warm tram on the way back."
+          },
+          "stops": [
+            {
+              "name": "Allschwil, Dorf (Tram Stop)",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Haltestellendach bis zum Umsteigen.",
+                "hu": "Várjon a megálló fedele alatt az átszállásig.",
+                "ro": "Așteptați sub copertina stației până la sosirea vehiculului.",
+                "en": "Wait under the shelter of the stop until your connection arrives."
+              }
+            },
+            {
+              "name": "Village Square & St. Peter and Paul Church",
+              "tip_5lang": {
+                "de": "Die Haltestellen liegen sehr nah an den historischen Gebäuden.",
+                "hu": "A megállók nagyon közel vannak a történelmi épületekhez.",
+                "ro": "Stațiile sunt foarte aproape de clădirile istorice.",
+                "en": "The stops are very close to the historic buildings."
+              }
+            },
+            {
+              "name": "Allschwil Local History Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort für eine längere Pause im Trockenen.",
+                "hu": "Tökéletes hely egy hosszabb, száraz szünethez.",
+                "ro": "Locul perfect pentru o pauză lungă la adăpost.",
+                "en": "The perfect place for a longer break in the dry."
+              }
+            },
+            {
+              "name": "Brickyard Museum",
+              "tip_5lang": {
+                "de": "Informieren Sie sich vorab über die Busfrequenz bei Regen.",
+                "hu": "Esőben tájékozódjon előre a buszok gyakoriságáról.",
+                "ro": "Informați-vă din timp despre frecvența autobuzelor pe ploaie.",
+                "en": "Check the bus frequency in advance during rainy weather."
+              }
+            },
+            {
+              "name": "Bachgraben Leisure Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um direkt vor den Parkeingang zu gelangen.",
+                "hu": "Használja a buszt, hogy közvetlenül a park bejáratához jusson.",
+                "ro": "Folosiți autobuzul pentru a ajunge direct la intrarea în parc.",
+                "en": "Use the bus to get directly to the park entrance."
+              }
+            },
+            {
+              "name": "Allschwil Water Tower",
+              "tip_5lang": {
+                "de": "Die Haltestelle bietet Schutz, falls ein Schauer vorbeizieht.",
+                "hu": "A megálló védelmet nyújt, ha épp eleredne az eső.",
+                "ro": "Stația oferă adăpost în cazul în care trece o aversă.",
+                "en": "The stop provides shelter if a shower passes through."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die BVB-App zeigt Echtzeit-Infos und Verspätungen bei Unwetter an.",
+              "Die Tramlinie 6 verkehrt sehr häufig und ist ideal als Regenschutz.",
+              "Achten Sie beim Einsteigen auf rutschige Böden in den Fahrzeugen.",
+              "Ein Tagespass lohnt sich, um spontan in den nächsten Bus zu hüpfen."
+            ],
+            "hu": [
+              "A BVB app valós idejű infókat és késéseket mutat rossz idő esetén.",
+              "A 6-os villamos nagyon gyakran jár, és ideális eső elleni menedék.",
+              "Felszálláskor ügyeljen a járművek csúszós padlójára.",
+              "A napijegy megéri, ha hirtelen fel akarunk pattanni a következő buszra."
+            ],
+            "ro": [
+              "Aplicația BVB arată informații în timp real și întârzierile cauzate de vreme.",
+              "Linia de tramvai 6 circulă foarte des și este un refugiu ideal pe ploaie.",
+              "Atenție la podelele alunecoase din vehicule la urcare.",
+              "Un abonament de o zi merită pentru a putea urca spontan în următorul autobuz."
+            ],
+            "en": [
+              "The BVB app shows real-time info and delays during bad weather.",
+              "Tram line 6 runs very frequently and is ideal for staying dry.",
+              "Watch out for slippery floors inside the vehicles when boarding.",
+              "A day pass is worth it for hopping on the next bus spontaneously."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalt, aber pünktlich bringt uns die Tram zum winterlichen Allschwil. Mittags wärmen wir uns in den Museen auf, während wir die Fahrpläne für die Weiterfahrt checken. Nachmittags erreichen wir den Wasserturm pünktlich zur blauen Stunde, bevor wir den Tag im Bachgraben-Park abschließen. Die Rückfahrt in der beheizten Trambahn ist der perfekte Abschluss des frostigen Tages.",
+            "hu": "Hidegen, de pontosan visz minket a villamos a téli Allschwilbe. Délben a múzeumokban melegszünk fel, miközben ellenőrizzük a menetrendet a továbbutazáshoz. Délután pontosan a kék órára érünk a víztoronyhoz, mielőtt a napot a Bachgraben parkban zárnánk. A visszaút a fűtött villamoson a fagyos nap tökéletes lezárása.",
+            "ro": "Rece, dar punctual, tramvaiul ne aduce în Allschwil-ul de iarnă. La prânz ne încălzim în muzee, verificând orarul pentru continuarea călătoriei. După-amiaza ajungem la turnul de apă fix la ora albastră, înainte de a încheia ziua în parcul Bachgraben. Întoarcerea cu tramvaiul încălzit este finalul perfect pentru o zi geroasă.",
+            "en": "Cold but punctual, the tram brings us to wintry Allschwil. At noon, we warm up in the museums while checking the schedules for our onward journey. In the afternoon, we reach the water tower exactly for the blue hour before finishing the day at Bachgraben park. The ride back in the heated tram is the perfect conclusion to a frosty day."
+          },
+          "stops": [
+            {
+              "name": "Allschwil, Dorf (Tram Stop)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehäuschen, um dem kalten Wind zu entgehen.",
+                "hu": "Használja a várótermet, hogy elkerülje a hideg szelet.",
+                "ro": "Folosiți refugiile din stații pentru a evita vântul rece.",
+                "en": "Use the waiting shelters to escape the cold wind."
+              }
+            },
+            {
+              "name": "Village Square & St. Peter and Paul Church",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Tram und Sehenswürdigkeiten sind im Winter ideal.",
+                "hu": "A villamos és a látnivalók közötti rövid távok télen ideálisak.",
+                "ro": "Distanțele scurte între tramvai și obiective sunt ideale iarna.",
+                "en": "Short paths between the tram and sights are ideal in winter."
+              }
+            },
+            {
+              "name": "Allschwil Local History Museum",
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort, um sich zwischen den Fahrten aufzuwärmen.",
+                "hu": "Csodálatos hely az átmelegedéshez az utazások között.",
+                "ro": "Un loc minunat pentru a vă încălzi între călătorii.",
+                "en": "A wonderful place to warm up between rides."
+              }
+            },
+            {
+              "name": "Brickyard Museum",
+              "tip_5lang": {
+                "de": "Achten Sie auf geänderte Winterfahrpläne der Buslinien.",
+                "hu": "Ügyeljen a buszvonalak esetleges téli menetrendi változásaira.",
+                "ro": "Atenție la eventualele modificări de iarnă în orarul autobuzelor.",
+                "en": "Watch out for any winter schedule changes for the bus lines."
+              }
+            },
+            {
+              "name": "Bachgraben Leisure Park",
+              "tip_5lang": {
+                "de": "Der Bus bringt Sie direkt zur frostigen Parklandschaft.",
+                "hu": "A busz közvetlenül a fagyos parkhoz szállítja önt.",
+                "ro": "Autobuzul vă lasă direct lângă peisajul înghețat al parcului.",
+                "en": "The bus takes you directly to the frosty park landscape."
+              }
+            },
+            {
+              "name": "Allschwil Water Tower",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt so, dass Sie nicht zu lange in der Kälte warten.",
+                "hu": "Tervezze úgy a visszautat, hogy ne kelljen sokat várnia a hidegben.",
+                "ro": "Planificați întoarcerea astfel încât să nu așteptați prea mult în frig.",
+                "en": "Plan your return trip so you don't have to wait too long in the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Fahrzeuge sind meist gut beheizt, ideal zum Aufwärmen zwischendurch.",
+              "Halten Sie Ihr Handy warm, damit der Akku für das digitale Ticket reicht.",
+              "Bei Schneefall kann es zu leichten Verzögerungen im Tramnetz kommen.",
+              "Nutzen Sie die beleuchteten Haltestellen als Orientierung in der Dunkelheit."
+            ],
+            "hu": [
+              "A járművek általában jól fűtöttek, ideálisak a köztes átmelegedéshez.",
+              "Tartsa melegen a telefonját, hogy az akku bírja a digitális jegyhez.",
+              "Hőesés esetén kisebb késések fordulhatnak elő a villamoshálózaton.",
+              "Használja a kivilágított megállókat tájékozódási pontként a sötétben."
+            ],
+            "ro": [
+              "Vehiculele sunt de obicei bine încălzite, ideale pentru a vă dezgheța.",
+              "Păstrați telefonul la cald pentru ca bateria să reziste pentru biletul digital.",
+              "În caz de ninsoare, pot apărea ușoare întârzieri în rețeaua de tramvaie.",
+              "Folosiți stațiile iluminate ca puncte de orientare pe întuneric."
+            ],
+            "en": [
+              "The vehicles are usually well-heated, ideal for warming up in between.",
+              "Keep your phone warm so the battery lasts for your digital ticket.",
+              "During snowfall, there may be slight delays in the tram network.",
+              "Use the illuminated stops as orientation points in the dark."
+            ]
+          }
+        }
       }
     }
   }

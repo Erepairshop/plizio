@@ -395,6 +395,214 @@
           "Book tickets for The Cavern Club in advance, especially for evening shows.",
           "Check for any events at St George's Hall as it might restrict access."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Pier Head bieten die Portale der Three Graces Schutz vor dem Wind. Mittags erkunden wir die trockenen Passagen am Albert Dock und den Cavern Club. Nachmittags stehen Indoor-Kultur in der Walker Art Gallery und St. George's Hall an. Der Tag endet im imposanten Schiff der Kathedrale, während draußen der Regen auf das Glas trommelt.",
+            "hu": "Reggel a Pier Head épületeinek árkádjai alatt kezdünk, védve a széltől. Délben az Albert Dock fedett raktárépületei és a Cavern Club mélye kínál menedéket. Délután a Walker Art Gallery és a St George's Hall belső tereiben kalandozunk. Az estét a hatalmas katedrális biztonságos fala között zárjuk, hallgatva a kinti eső kopogását.",
+            "ro": "Dimineața la Pier Head folosim arcadele celor Three Graces ca adăpost. La prânz explorăm pasajele acoperite de la Albert Dock și adâncurile clubului Cavern. După-amiaza este dedicată culturii de interior la Walker Art Gallery și St George's Hall. Ziua se încheie în nava impunătoare a catedralei, în timp ce ploaia bate în geamurile înalte.",
+            "en": "Morning at Pier Head starts under the shelter of the Three Graces' porticos. At noon, we explore the covered colonnades of Albert Dock and the underground Cavern Club. Afternoon is dedicated to indoor culture at Walker Art Gallery and St George's Hall. The day ends inside the massive cathedral, listening to the rain drumming on the stained glass."
+          },
+          "stops": [
+            {
+              "name": "Pier Head",
+              "tip_5lang": {
+                "de": "Nutzen Sie die tiefen Portale der Cunard- und Liver-Buildings als Regenschutz.",
+                "hu": "Használja a Cunard és Liver épületek mély kapualjait esővédőként.",
+                "ro": "Folosiți portalurile adânci ale clădirilor Cunard și Liver pentru protecție.",
+                "en": "Use the deep porticos of the Cunard and Liver buildings for rain cover."
+              }
+            },
+            {
+              "name": "Museum of Liverpool",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den stärksten Regen bei interaktiven Ausstellungen abzuwarten.",
+                "hu": "Tökéletes hely a legerősebb eső kivárására az interaktív kiállítások mellett.",
+                "ro": "Locul perfect pentru a aștepta trecerea ploii printre expoziții interactive.",
+                "en": "Perfect place to wait out the heaviest rain while enjoying interactive exhibits."
+              }
+            },
+            {
+              "name": "Royal Albert Dock",
+              "tip_5lang": {
+                "de": "Die gusseisernen Arkaden ermöglichen einen trockenen Rundgang um das Hafenbecken.",
+                "hu": "Az öntöttvas árkádok száraz körutat tesznek lehetővé a kikötőmedence körül.",
+                "ro": "Arcadele de fontă permit o plimbare uscată în jurul bazinului portuar.",
+                "en": "The cast-iron colonnades allow for a dry walk around the dock basin."
+              }
+            },
+            {
+              "name": "The Cavern Club",
+              "tip_5lang": {
+                "de": "In diesem Kellerlokal spielt das Wetter draußen absolut keine Rolle.",
+                "hu": "Ebben a pincerendszerben a kinti időjárás teljesen mellékes.",
+                "ro": "În această locație subterană, vremea de afară nu contează deloc.",
+                "en": "In this basement venue, the weather outside is completely irrelevant."
+              }
+            },
+            {
+              "name": "St George's Hall",
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtige Decke, während es draußen ungemütlich ist.",
+                "hu": "Csodálja meg a pompás mennyezetet, amíg kint barátságtalan az idő.",
+                "ro": "Admirați tavanul magnific în timp ce afară vremea este neplăcută.",
+                "en": "Admire the magnificent ceiling while it is unpleasant outside."
+              }
+            },
+            {
+              "name": "Walker Art Gallery",
+              "tip_5lang": {
+                "de": "Große Garderobe vorhanden, um nasse Mäntel und Schirme abzugeben.",
+                "hu": "Tágas ruhatár áll rendelkezésre a vizes kabátok és ernyők leadásához.",
+                "ro": "Garderobă spațioasă disponibilă pentru a lăsa haina și umbrela udă.",
+                "en": "Large cloakroom available to deposit wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Liverpool Cathedral",
+              "tip_5lang": {
+                "de": "Das massive Mauerwerk dämpft das Geräusch des stürmischen Windes.",
+                "hu": "A masszív falak teljesen elnyelik a viharos szél zaját.",
+                "ro": "Zidăria masivă atenuează sunetul vântului furtunos de afară.",
+                "en": "The massive masonry dampens the sound of the stormy wind outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Sturmschirm ist am Mersey-Ufer wegen der Böen unerlässlich.",
+              "Die Passage im Albert Dock bietet fast 500 Meter überdachten Gehweg.",
+              "Viele Museen haben kostenlose Schließfächer für nasse Ausrüstung.",
+              "Nutzen Sie die unterirdischen Ebenen von Liverpool ONE als Abkürzung.",
+              "Wasserdichtes Schuhwerk ist wegen der Pfützen auf dem Kopfsteinpflaster ratsam."
+            ],
+            "hu": [
+              "A Mersey-parti széllökések miatt egy strapabíró viharernyő elengedhetetlen.",
+              "Az Albert Dock árkádjai közel 500 méternyi fedett sétányt biztosítanak.",
+              "Sok múzeumban ingyenes szekrények vannak a vizes felszereléseknek.",
+              "Használja a Liverpool ONE mélygarázsait és aluljáróit rövidítésként.",
+              "A macskaköves utcák tócsái miatt vízálló lábbeli erősen ajánlott."
+            ],
+            "ro": [
+              "O umbrelă rezistentă la furtună este esențială pe malul Mersey din cauza rafalelor.",
+              "Arcadele de la Albert Dock oferă aproape 500 de metri de trotuar acoperit.",
+              "Multe muzee au vestiare gratuite pentru echipamentul ud.",
+              "Folosiți nivelurile subterane de la Liverpool ONE ca scurtătură.",
+              "Încălțămintea impermeabilă este recomandată din cauza bălților de pe pavaj."
+            ],
+            "en": [
+              "A sturdy storm umbrella is essential due to gusts along the Mersey shore.",
+              "The Albert Dock colonnades provide nearly 500 meters of covered walkway.",
+              "Many museums have free lockers available for wet gear.",
+              "Use the underground levels of Liverpool ONE as a dry shortcut.",
+              "Waterproof footwear is advised due to puddles on the cobblestone streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Pier Head ist frostig, aber die klare Luft bietet weite Sicht. Mittags wärmen wir uns in den Galerien des Albert Docks und im Cavern Club auf. Da es bereits um 16 Uhr dunkel wird, erstrahlen St. George's Hall und die Walker Gallery früh in festlicher Beleuchtung. Der Tag endet im Kerzenschein der riesigen Kathedrale.",
+            "hu": "A téli reggel fagyos a Pier Headnél, de a tiszta levegő távoli kilátást enged. Napközben az Albert Dock galériáiban és a Cavern Clubban melegszünk fel. Mivel már délután 4-kor sötétedik, a St George's Hall és a Walker Gallery korán díszkivilágításba öltözik. A napot a hatalmas katedrális gyertyafényes hangulatában zárjuk.",
+            "ro": "Dimineața de iarnă la Pier Head este geroasă, dar aerul curat oferă vizibilitate bună. La prânz ne încălzim în galeriile de la Albert Dock și în Cavern Club. Deoarece se întunecă deja la ora 16, St George's Hall și Walker Gallery sunt iluminate festiv de timpuriu. Ziua se încheie în atmosfera caldă a catedralei.",
+            "en": "The winter morning at Pier Head is frosty, but the crisp air offers long views. During midday, we warm up in Albert Dock's galleries and the Cavern Club. Since it gets dark by 4 PM, St George's Hall and Walker Gallery glow early with festive lights. The day ends in the candlelit atmosphere of the massive cathedral."
+          },
+          "stops": [
+            {
+              "name": "Pier Head",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind wegen des eisigen Windes vom Fluss her wichtig.",
+                "hu": "A folyó felől fújó jeges szél miatt a meleg kesztyű alapfelszerelés.",
+                "ro": "Mănușile călduroase sunt vitale din cauza vântului înghețat de pe râu.",
+                "en": "Warm gloves are essential due to the icy wind blowing off the river."
+              }
+            },
+            {
+              "name": "Museum of Liverpool",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Café im Erdgeschoss für ein heißes Getränk zum Aufwärmen.",
+                "hu": "Használja a földszinti kávézót egy forró italra a bemelegítéshez.",
+                "ro": "Folosiți cafeneaua de la parter pentru o băutură caldă de încălzire.",
+                "en": "Use the ground floor café for a hot drink to warm up."
+              }
+            },
+            {
+              "name": "Royal Albert Dock",
+              "tip_5lang": {
+                "de": "Die Winterbeleuchtung spiegelt sich wunderschön im dunklen Hafenwasser.",
+                "hu": "A téli díszkivilágítás gyönyörűen tükröződik a sötét kikötővízben.",
+                "ro": "Luminile de iarnă se reflectă superb în apa întunecată a docului.",
+                "en": "The winter lighting reflects beautifully in the dark dock water."
+              }
+            },
+            {
+              "name": "The Cavern Club",
+              "tip_5lang": {
+                "de": "Der Club ist im Winter angenehm beheizt und bietet wohlige Wärme.",
+                "hu": "A klub télen kellemesen fűtött, igazi menedék a hideg elől.",
+                "ro": "Clubul este încălzit plăcut iarna și oferă o căldură primitoare.",
+                "en": "The club is pleasantly heated in winter and offers cozy warmth."
+              }
+            },
+            {
+              "name": "St George's Hall",
+              "tip_5lang": {
+                "de": "Oft findet hier ein Weihnachtsmarkt auf dem Plateau vor der Halle statt.",
+                "hu": "Gyakran karácsonyi vásár várja a látogatókat az épület előtti téren.",
+                "ro": "Aeseori are loc un târg de Crăciun pe platoul din fața clădirii.",
+                "en": "A Christmas market often takes place on the plateau in front of the hall."
+              }
+            },
+            {
+              "name": "Walker Art Gallery",
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Atmosphäre der fast leeren Säle im Winter.",
+                "hu": "Élvezze a télen szinte üres termek csendes, nyugodt hangulatát.",
+                "ro": "Bucurați-vă de atmosfera liniștită a sălilor aproape goale iarna.",
+                "en": "Enjoy the quiet atmosphere of the nearly empty halls in winter."
+              }
+            },
+            {
+              "name": "Liverpool Cathedral",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Evensong-Termine für ein magisches Chorerlebnis.",
+                "hu": "Keresse az Evensong időpontokat a mágikus kórusélményért.",
+                "ro": "Căutați programul pentru Evensong pentru o experiență corală magică.",
+                "en": "Check the Evensong times for a magical choral experience."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 15:55 Uhr unter.",
+              "Der Windchill am Mersey lässt die Temperaturen deutlich kälter wirken.",
+              "Tragen Sie Zwiebelschichten, da die Museen oft stark beheizt sind.",
+              "Ein Besuch im 'Fab Four Coffee' wärmt die Hände zwischen den Stopps.",
+              "Die Kathedrale kann im Winter trotz Heizung recht kühl sein."
+            ],
+            "hu": [
+              "Decemberben a nap már délután 15:55 körül lenyugszik.",
+              "A Mersey-parti szél miatt a hőérzet sokkal alacsonyabb a valósnál.",
+              "Öltözzön rétegesen, mert a múzeumok belseje gyakran túlmelegített.",
+              "Egy 'Fab Four Coffee' segít melegen tartani a kezeket a megállók között.",
+              "A katedrális hatalmas terei a fűtés ellenére is hűvösek lehetnek."
+            ],
+            "ro": [
+              "Soarele apune în decembrie deja în jurul orei 15:55.",
+              "Vântul de pe Mersey face ca temperatura resimțită să fie mult mai mică.",
+              "Îmbrăcați-vă în straturi, muzeele sunt adesea încălzite puternic.",
+              "O oprire la 'Fab Four Coffee' vă va încălzi mâinile între obiective.",
+              "Catedrala poate fi destul de răcoroasă iarna, în ciuda încălzirii."
+            ],
+            "en": [
+              "The sun sets as early as 3:55 PM in December.",
+              "The wind chill along the Mersey makes it feel much colder than it is.",
+              "Wear layers, as museums are often heavily heated inside.",
+              "A stop at 'Fab Four Coffee' will warm your hands between stops.",
+              "The cathedral's vast interior can be quite chilly even with heating."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -745,6 +953,196 @@
           "The wind along the Mersey can be strong, so be prepared.",
           "Hills are part of Liverpool's charm; be ready for a few climbs."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerisches Radeln entlang der Waterfront erfordert Vorsicht auf den glatten Steinen. Vormittags nutzen wir die Radwege zum Albert Dock. Mittags wärmen wir uns bei der Kathedrale auf, bevor es durch das Stadtzentrum zur St. George's Hall geht. Den Nachmittag verbringen wir trocken in Museen, bevor wir den Tag im Cavern Club abschließen.",
+            "hu": "Az esős kerékpározás a vízparton óvatosságot igényel a csúszós kövek miatt. Délelőtt az Albert Dock felé tekerünk. Délben a katedrálisnál melegszünk fel, majd a központon át a St George's Hallhoz hajtunk. A délutánt múzeumokban töltjük szárazon, mielőtt a Cavern Clubban fejeznénk be a napot.",
+            "ro": "Mersul cu bicicleta pe ploaie de-a lungul falezei necesită prudență pe pavajul ud. Dimineața pedalăm spre Albert Dock. La prânz ne încălzim la catedrală, apoi mergem spre St George's Hall. După-amiaza o petrecem în muzee, înainte de a încheia ziua la Cavern Club.",
+            "en": "Rainy cycling along the waterfront requires caution on the slick stones. In the morning, we use the bike paths to Albert Dock. At noon, we warm up at the cathedral before heading through the center to St George's Hall. Afternoon is spent dry in museums before ending the day at the Cavern Club."
+          },
+          "stops": [
+            {
+              "name": "Pier Head",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren: Die glatten Steinplatten sind bei Nässe rutschig.",
+                "hu": "Vigyázat induláskor: a sima kőlapok nedvesen nagyon csúsznak.",
+                "ro": "Atenție la pornire: plăcile de piatră sunt alunecoase când sunt ude.",
+                "en": "Caution when starting: the smooth stone slabs are slippery when wet."
+              }
+            },
+            {
+              "name": "Royal Albert Dock",
+              "tip_5lang": {
+                "de": "Fahrradständer unter den Arkaden bieten Schutz beim Anschließen.",
+                "hu": "Az árkádok alatti kerékpártárolók védelmet nyújtanak a lakatoláskor.",
+                "ro": "Suporturile de biciclete sub arcade oferă protecție la legare.",
+                "en": "Bike racks under the colonnades provide shelter while locking up."
+              }
+            },
+            {
+              "name": "Liverpool Cathedral",
+              "tip_5lang": {
+                "de": "Der Anstieg zur Kathedrale ist bei Regen anstrengender; Gänge nutzen.",
+                "hu": "A katedrálishoz vezető emelkedő esőben fárasztóbb; váltson sebességet.",
+                "ro": "Urcarea spre catedrală este mai grea pe ploaie; folosiți vitezele mici.",
+                "en": "The climb to the cathedral is tougher in the rain; use low gears."
+              }
+            },
+            {
+              "name": "St George's Hall",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nahe der Lime Street Station unter dem Vordach.",
+                "hu": "Parkolja le a biciklit a Lime Street állomás előteteje közelében.",
+                "ro": "Parcați bicicleta sub copertina gării Lime Street din apropiere.",
+                "en": "Park your bike near the Lime Street station canopy for shelter."
+              }
+            },
+            {
+              "name": "World Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine lange Pause, um die Kleidung zu trocknen.",
+                "hu": "Használja ki az időt egy hosszú szünetre, hogy a ruhája megszáradjon.",
+                "ro": "Folosiți timpul pentru o pauză lungă pentru a vă usca hainele.",
+                "en": "Use this time for a long break to let your clothes dry off."
+              }
+            },
+            {
+              "name": "The Cavern Club",
+              "tip_5lang": {
+                "de": "Mathew Street ist Fußgängerzone; schieben Sie Ihr Rad bei Nässe.",
+                "hu": "A Mathew Street sétálóutca; esőben tolja a kerékpárt a tömegben.",
+                "ro": "Mathew Street este pietonală; împingeți bicicleta pe pavajul ud.",
+                "en": "Mathew Street is pedestrianized; push your bike on the wet ground."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Bremsen auf bemalten Markierungen und Metallgittern.",
+              "Tragen Sie eine vollflächige Regenjacke und Regenhose mit Reflektoren.",
+              "Die Citybike-Stationen haben oft nasse Sättel; nehmen Sie ein Tuch mit.",
+              "Planen Sie mehr Zeit für Bremswege auf nassem Asphalt ein.",
+              "Das Kopfsteinpflaster rund um das Albert Dock ist extrem rutschig."
+            ],
+            "hu": [
+              "Kerülje a fékezést a felfestett jeleken és fém rácsokon.",
+              "Viseljen teljes esővédő ruházatot és fényvisszaverő elemeket.",
+              "A bérbiciklik nyerge gyakran vizes; vigyen magával egy törlőkendőt.",
+              "Számoljon hosszabb fékúttal a nedves aszfalton.",
+              "Az Albert Dock körüli macskakő rendkívül csúszós esőben."
+            ],
+            "ro": [
+              "Evitați frânarea pe marcajele vopsite și pe grătarele metalice.",
+              "Purtați jachetă și pantaloni de ploaie cu elemente reflectorizante.",
+              "Stațiile de citybike au adesea șei ude; luați o lavetă cu voi.",
+              "Planificați distanțe de frânare mai mari pe asfaltul ud.",
+              "Pavajul din jurul Albert Dock este extrem de alunecos pe ploaie."
+            ],
+            "en": [
+              "Avoid braking on painted road markings and metal grates.",
+              "Wear full waterproof gear and high-visibility reflectors.",
+              "Citybike stations often have wet saddles; bring a cloth to wipe them.",
+              "Allow for much longer braking distances on wet asphalt.",
+              "The cobblestones around Albert Dock are extremely slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln erfordert warme Schichten gegen den Fahrtwind. Morgens genießen wir die frostige Aussicht am Pier Head. Mittags bietet das Albert Dock Schutz, bevor wir den Hügel zur Kathedrale erklimmen. Nach Sonnenuntergang um 16 Uhr fahren wir durch die beleuchtete Innenstadt zum World Museum und beenden die Tour im warmen Cavern Club.",
+            "hu": "A téli kerékpározáshoz meleg rétegek kellenek a menetszél ellen. Reggel a fagyos kilátást élvezzük a Pier Headnél. Délben az Albert Dock nyújt menedéket, mielőtt feltekernénk a katedrálishoz. Naplemente után a kivilágított belvároson át megyünk a World Museumhoz, majd a meleg Cavern Clubban zárunk.",
+            "ro": "Mersul cu bicicleta iarna necesită haine groase împotriva curentului. Dimineața admirăm priveliștea geroasă la Pier Head. La prânz Albert Dock oferă adăpost înainte de a urca spre catedrală. După apus, pedalăm prin centrul iluminat spre World Museum și încheiem la cald în Cavern Club.",
+            "en": "Winter cycling requires warm layers against the wind chill. In the morning, we enjoy the frosty views at Pier Head. At noon, Albert Dock offers shelter before we climb the hill to the cathedral. After sunset, we ride through the illuminated city to the World Museum and finish at the warm Cavern Club."
+          },
+          "stops": [
+            {
+              "name": "Pier Head",
+              "tip_5lang": {
+                "de": "Das Salz vom Meer und der Straße kann die Kette angreifen; kurz prüfen.",
+                "hu": "A tengeri sós pára és az útszóró só marhatja a láncot; ellenőrizze.",
+                "ro": "Sarea din aer și de pe drum poate afecta lanțul; verificați-l scurt.",
+                "en": "Salt from the sea and road can corrode the chain; give it a quick check."
+              }
+            },
+            {
+              "name": "Royal Albert Dock",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe in den Schattenbereichen der Docks.",
+                "hu": "Vigyázzon a felfagyásokra a dokkok árnyékosabb részein.",
+                "ro": "Atenție la gheața neagră în zonele umbrite ale docurilor.",
+                "en": "Watch out for black ice in the shaded areas of the docks."
+              }
+            },
+            {
+              "name": "Liverpool Cathedral",
+              "tip_5lang": {
+                "de": "Durch das Treten beim Aufstieg wird Ihnen schnell wieder warm.",
+                "hu": "A felfelé tekerés közben gyorsan ki fog melegedni a hidegben.",
+                "ro": "Pedalatul la urcare vă va încălzi rapid în ciuda frigului.",
+                "en": "Pedaling during the climb will quickly warm you up despite the cold."
+              }
+            },
+            {
+              "name": "St George's Hall",
+              "tip_5lang": {
+                "de": "Die Außenstufen können bei Frost extrem glatt sein; Vorsicht beim Absteigen.",
+                "hu": "A külső lépcsők fagyban nagyon csúszhatnak; vigyázzon a leszálláskor.",
+                "ro": "Treptele exterioare pot fi foarte alunecoase; atenție la descălecare.",
+                "en": "The outdoor steps can be extremely slick in frost; be careful when dismounting."
+              }
+            },
+            {
+              "name": "World Museum",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad an einem gut sichtbaren, beleuchteten Ort an.",
+                "hu": "Lakatolja a kerékpárt jól látható, kivilágított helyre.",
+                "ro": "Legați bicicleta într-un loc bine vizibil și iluminat.",
+                "en": "Lock your bike in a well-visible, brightly lit location."
+              }
+            },
+            {
+              "name": "The Cavern Club",
+              "tip_5lang": {
+                "de": "Ein heißer Tee oder Kaffee im Club wirkt nach der Fahrt Wunder.",
+                "hu": "Egy forró tea vagy kávé a klubban csodákat tesz a tekerés után.",
+                "ro": "Un ceai sau o cafea fierbinte în club va face minuni după drum.",
+                "en": "A hot tea or coffee in the club works wonders after the cold ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Fahrradbeleuchtung; die Dämmerung setzt sehr früh ein.",
+              "Tragen Sie winddichte Handschuhe, um steife Finger beim Bremsen zu vermeiden.",
+              "Der Mersey-Wind kann im Winter die Fahrtzeit erheblich verlängern.",
+              "Achten Sie auf Schlaglöcher, die durch Frostschäden entstanden sind.",
+              "In den Docks kann es durch den Nebel sehr feucht-kalt sein."
+            ],
+            "hu": [
+              "Ellenőrizze a lámpákat; a szürkület már korán délután elkezdődik.",
+              "Viseljen szélálló kesztyűt, hogy ne gémberedjenek el az ujjai fékezéskor.",
+              "A Mersey felőli szél télen jelentősen lassíthatja a haladást.",
+              "Figyeljen a kátyúkra, amiket a fagy okozhatott az utakon.",
+              "A dokkoknál a köd miatt nagyon nyirkos és hideg lehet a levegő."
+            ],
+            "ro": [
+              "Verificați luminile bicicletei; amurgul se instalează foarte devreme.",
+              "Purtați mănuși rezistente la vânt pentru a evita degetele rigide la frânare.",
+              "Vântul de pe Mersey poate prelungi considerabil timpul de călătorie.",
+              "Fiți atenți la gropile formate în asfalt din cauza înghețului.",
+              "În zona docurilor, ceața poate face aerul foarte umed și rece."
+            ],
+            "en": [
+              "Check your bike lights; dusk sets in very early in the afternoon.",
+              "Wear windproof gloves to prevent stiff fingers when braking.",
+              "The Mersey wind can significantly increase travel time in winter.",
+              "Watch out for potholes caused by frost damage on the roads.",
+              "It can be very damp and cold in the docks due to winter fog."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1101,6 +1499,196 @@
           "Navigating the city centre's one-way system can be challenging; use a sat-nav.",
           "Pre-book parking near major attractions for better rates."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Autofahrt durch Liverpool mit Fokus auf Indoor-Attraktionen. Wir starten trocken am St. George's Hall Plateau. Mittags besuchen wir die Walker Gallery und das World Museum. Die Kathedrale bietet Parkplätze direkt vor der Tür. Den Abend verbringen wir im Albert Dock, wo Parkhäuser nur wenige Schritte von den Museen entfernt liegen.",
+            "hu": "Esős autózás Liverpoolban, fókuszban a beltéri látnivalókkal. Szárazon kezdünk a St George's Hallnál. Délben a Walker Gallery és a World Museum vár. A katedrálisnál közvetlenül a bejáratnál parkolhatunk. Az estét az Albert Docknál zárjuk, ahol a parkolóházak pár lépésre vannak a múzeumoktól.",
+            "ro": "Tur cu mașina pe ploaie în Liverpool, axat pe atracții de interior. Începem uscați la St George's Hall. La prânz vizităm Walker Gallery și World Museum. Catedrala oferă parcare chiar în față. Seara o petrecem la Albert Dock, unde parcările sunt la câțiva pași de muzee.",
+            "en": "Rainy drive through Liverpool focusing on indoor attractions. We start dry at the St George's Hall plateau. Midday includes the Walker Gallery and World Museum. The cathedral offers parking right by the entrance. We end at Albert Dock, where parking garages are just steps away from the museums."
+          },
+          "stops": [
+            {
+              "name": "St George's Hall (Park Nearby)",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus Q-Park Queen Square für einen trockenen Zugang.",
+                "hu": "Használja a Q-Park Queen Square parkolóházat a száraz bejutáshoz.",
+                "ro": "Folosiți parcarea Q-Park Queen Square pentru acces uscat.",
+                "en": "Use Q-Park Queen Square parking for dry access to the hall."
+              }
+            },
+            {
+              "name": "Walker Art Gallery",
+              "tip_5lang": {
+                "de": "Parken Sie in der William Brown Street, direkt vor dem Eingang.",
+                "hu": "Parkoljon a William Brown Streeten, közvetlenül a bejárat előtt.",
+                "ro": "Parcați pe William Brown Street, chiar în fața intrării.",
+                "en": "Park on William Brown Street, right in front of the entrance."
+              }
+            },
+            {
+              "name": "World Museum",
+              "tip_5lang": {
+                "de": "Die Museen liegen direkt nebeneinander; kein Umparken nötig.",
+                "hu": "A múzeumok egymás mellett vannak; nem kell átállni az autóval.",
+                "ro": "Muzeele sunt unul lângă altul; nu e nevoie să mutați mașina.",
+                "en": "The museums are right next to each other; no need to move the car."
+              }
+            },
+            {
+              "name": "Liverpool Cathedral (Park Nearby)",
+              "tip_5lang": {
+                "de": "Großer Besucherparkplatz direkt auf dem Gelände der Kathedrale.",
+                "hu": "Tágas látogatói parkoló közvetlenül a katedrális területén.",
+                "ro": "Parcare generoasă pentru vizitatori chiar în incinta catedralei.",
+                "en": "Ample visitor parking directly on the cathedral grounds."
+              }
+            },
+            {
+              "name": "Royal Albert Dock (Park Nearby)",
+              "tip_5lang": {
+                "de": "Das Parkhaus am Albert Dock bietet direkten Zugang zu den Shops.",
+                "hu": "Az Albert Dock parkolóháza közvetlen bejutást biztosít az üzletekhez.",
+                "ro": "Parcarea de la Albert Dock oferă acces direct spre magazine.",
+                "en": "The Albert Dock parking garage provides direct access to the shops."
+              }
+            },
+            {
+              "name": "Pier Head",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Liver Birds bequem aus dem Auto.",
+                "hu": "Élvezze a kilátást a Liver Birds-re kényelmesen, az autóból.",
+                "ro": "Admirați vederea spre Liver Birds confortabil, din mașină.",
+                "en": "Enjoy the view of the Liver Birds comfortably from your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Rechnen Sie mit mehr Verkehr und Staus in der Innenstadt bei Regen.",
+              "Die Sicht kann durch starken Sprühregen vom Mersey eingeschränkt sein.",
+              "Nutzen Sie Park-Apps, um das Bezahlen im Regen am Automaten zu vermeiden.",
+              "Vermeiden Sie tiefe Pfützen am Straßenrand wegen Aquaplaning-Gefahr.",
+              "Licht einschalten ist bei den oft grauen Lichtverhältnissen ratsam."
+            ],
+            "hu": [
+              "Számoljon nagyobb forgalommal és dugókkal a belvárosban eső idején.",
+              "A látási viszonyok a Mersey felőli pára miatt romolhatnak.",
+              "Használjon parkoló appot, hogy ne kelljen az esőben az automatánál állni.",
+              "Kerülje a mély tócsákat az út szélén az aquaplaning veszélye miatt.",
+              "A szürke látási viszonyok miatt érdemes felkapcsolni a fényszórókat."
+            ],
+            "ro": [
+              "Așteptați-vă la trafic mai intens și ambuteiaje în centru pe ploaie.",
+              "Vizibilitatea poate fi redusă din cauza ceții venite de pe Mersey.",
+              "Folosiți aplicații de parcare pentru a evita plata la automat pe ploaie.",
+              "Evitați bălțile adânci de la marginea drumului (risc de acvaplanare).",
+              "Este recomandat să aprindeți farurile din cauza luminii reduse."
+            ],
+            "en": [
+              "Expect heavier traffic and congestion in the city center during rain.",
+              "Visibility may be reduced by heavy spray coming off the Mersey.",
+              "Use parking apps to avoid standing at payment machines in the rain.",
+              "Avoid deep puddles at the curbside due to hydroplaning risk.",
+              "Turning on headlights is advised given the often grey light conditions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Panoramafahrt durch das festliche Liverpool. Vormittags besuchen wir St. George's Hall und die Kunstgalerien. Mittags wärmen wir uns bei der Kathedrale auf. Da es früh dunkel wird, genießen wir die beleuchtete Skyline am Pier Head und die Lichter am Albert Dock bequem vom warmen Fahrzeug aus.",
+            "hu": "Téli panoráma-autózás a díszes Liverpoolban. Délelőtt a St George's Hallt és a galériákat látogatjuk meg. Délben a katedrálisnál melegszünk fel. Mivel korán sötétedik, a kivilágított látképet a Pier Headnél és az Albert Dock fényeit kényelmesen, a meleg autóból élvezzük.",
+            "ro": "Tur panoramic de iarnă prin Liverpoolul festiv. Dimineața vizităm St George's Hall și galeriile de artă. La prânz ne încălzim la catedrală. Deoarece se întunecă devreme, admirăm silueta iluminată a orașului de la Pier Head din mașina caldă.",
+            "en": "Winter scenic drive through festive Liverpool. In the morning, we visit St George's Hall and the art galleries. At noon, we warm up at the cathedral. Since it gets dark early, we enjoy the illuminated skyline at Pier Head and the lights of Albert Dock from the comfort of our warm vehicle."
+          },
+          "stops": [
+            {
+              "name": "St George's Hall (Park Nearby)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glätte auf dem Plateau bei Minusgraden.",
+                "hu": "Vigyázzon a csúszós útburkolatra a téren mínuszok esetén.",
+                "ro": "Atenție la polei pe platou în cazul temperaturilor negative.",
+                "en": "Watch out for icy patches on the plateau during freezing temperatures."
+              }
+            },
+            {
+              "name": "Walker Art Gallery",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz minimieren die Zeit in der Kälte.",
+                "hu": "A közeli parkolás minimalizálja a hidegben töltött időt.",
+                "ro": "Distanța scurtă de la parcare minimizează timpul petrecut în frig.",
+                "en": "Short walking distances from parking minimize time spent in the cold."
+              }
+            },
+            {
+              "name": "World Museum",
+              "tip_5lang": {
+                "de": "Perfektes Ziel für einen kalten Winternachmittag mit Kindern.",
+                "hu": "Tökéletes célpont egy hideg téli délutánon gyerekekkel.",
+                "ro": "Destinația perfectă pentru o după-amiază rece de iarnă cu copiii.",
+                "en": "Perfect destination for a cold winter afternoon with children."
+              }
+            },
+            {
+              "name": "Liverpool Cathedral (Park Nearby)",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Shop für lokale Weihnachtsgeschenke.",
+                "hu": "Látogasson el a boltba helyi karácsonyi ajándékokért.",
+                "ro": "Vizitați magazinul pentru cadouri de Crăciun locale.",
+                "en": "Visit the shop for local Christmas gifts and souvenirs."
+              }
+            },
+            {
+              "name": "Royal Albert Dock (Park Nearby)",
+              "tip_5lang": {
+                "de": "Die Parkhäuser sind gut beleuchtet und sicher in der Dunkelheit.",
+                "hu": "A parkolóházak jól kivilágítottak és biztonságosak a sötétben.",
+                "ro": "Parcările etajate sunt bine iluminate și sigure pe întuneric.",
+                "en": "The parking garages are well-lit and safe in the darkness."
+              }
+            },
+            {
+              "name": "Pier Head",
+              "tip_5lang": {
+                "de": "Der Blick auf die beleuchteten Three Graces ist im Winter magisch.",
+                "hu": "A kivilágított Three Graces látványa télen egészen mágikus.",
+                "ro": "Vederea spre Three Graces iluminate este magică iarna.",
+                "en": "The view of the illuminated Three Graces is magical in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überprüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Parkplatzsuche am Albert Dock kann an Adventswochenenden dauern.",
+              "Batteriecheck ist vor der Fahrt bei extremer Kälte ratsam.",
+              "Nutzen Sie die Sitzheizung für die kurzen Etappen zwischen den Stopps.",
+              "Einige Nebenstraßen können bei Frost weniger gestreut sein."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosó tartályban.",
+              "Adventi hétvégéken az Albert Docknál nehéz lehet parkolóhelyet találni.",
+              "Extrém hideg esetén érdemes ellenőrizni az akkumulátort indulás előtt.",
+              "Használja az ülésfűtést a megállók közötti rövid szakaszokon.",
+              "Egyes mellékutcák fagy esetén kevésbé lehetnek felsózva."
+            ],
+            "ro": [
+              "Verificați antigelul în rezervorul lichidului de parbriz.",
+              "Găsirea unui loc de parcare la Albert Dock poate dura în weekendurile de Advent.",
+              "Verificarea bateriei este recomandată înainte de drum în caz de ger.",
+              "Folosiți încălzirea în scaune pentru etapele scurte dintre obiective.",
+              "Unele străzi secundare pot fi mai puțin curățate în caz de îngheț."
+            ],
+            "en": [
+              "Check the antifreeze levels in your screen wash reservoir.",
+              "Parking at Albert Dock can be difficult during Advent weekends.",
+              "A battery check is advised before driving in extreme cold.",
+              "Use seat heaters for the short stages between stops.",
+              "Some side streets may be less frequently gritted during frost."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1457,6 +2045,196 @@
           "Buses can be crowded during peak hours, so allow for extra time.",
           "Most buses are contactless, but having some change is a good backup."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Tour mit den effizienten Zügen und Bussen von Merseytravel. Vormittags erkunden wir die Waterfront. Mittags bringen uns Busse trocken zum St. George's Hall Areal. Die Kathedrale ist gut per Bus erreichbar, was lange Fußwege im Regen erspart. Der Abend endet im Cavern Club, nur einen kurzen Sprint von der Station James Street entfernt.",
+            "hu": "Esős túra a Merseytravel hatékony vonataival és buszaival. Délelőtt a vízpartot fedezzük fel. Délben buszokkal jutunk el szárazon a St George's Hall környékére. A katedrális busszal jól megközelíthető, így megússzuk a hosszú sétát az esőben. Az este a Cavern Clubban zárul, rövid vágta távolságra a James Street állomástól.",
+            "ro": "Tur pe ploaie cu trenurile și autobuzele eficiente Merseytravel. Dimineața explorăm faleza. La prânz, autobuzele ne duc uscați spre zona St George's Hall. Catedrala este accesibilă cu autobuzul, evitând plimbările lungi prin ploaie. Seara se încheie la Cavern Club, la mică distanță de stația James Street.",
+            "en": "Rainy tour using Merseytravel's efficient trains and buses. In the morning, we explore the waterfront. At noon, buses take us dry to the St George's Hall area. The cathedral is well-served by bus, saving long walks in the rain. The evening ends at the Cavern Club, just a short sprint from James Street station."
+          },
+          "stops": [
+            {
+              "name": "Pier Head",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen hier haben große Wartehäuschen als Regenschutz.",
+                "hu": "Az itteni buszmegállók nagy várókkal rendelkeznek eső ellen.",
+                "ro": "Stațiile de autobuz de aici au adăposturi mari împotriva ploii.",
+                "en": "The bus stops here have large shelters for rain protection."
+              }
+            },
+            {
+              "name": "Museum of Liverpool",
+              "tip_5lang": {
+                "de": "Nur wenige Schritte von den Bushaltestellen entfernt.",
+                "hu": "Csak pár lépésre található a buszmegállóktól.",
+                "ro": "La doar câțiva pași de stațiile de autobuz.",
+                "en": "Only a few steps away from the main bus stops."
+              }
+            },
+            {
+              "name": "Royal Albert Dock",
+              "tip_5lang": {
+                "de": "Nutzen Sie die James Street Station (Merseyrail) für den Rückweg.",
+                "hu": "Használja a James Street állomást (Merseyrail) a visszúthoz.",
+                "ro": "Folosiți stația James Street (Merseyrail) pentru drumul de întoarcere.",
+                "en": "Use James Street station (Merseyrail) for your return journey."
+              }
+            },
+            {
+              "name": "St George's Hall",
+              "tip_5lang": {
+                "de": "Direkt gegenüber der Lime Street Station gelegen; perfekt bei Regen.",
+                "hu": "Közvetlenül a Lime Street állomással szemben; esőben ideális.",
+                "ro": "Situat chiar vizavi de gara Lime Street; ideal pe ploaie.",
+                "en": "Located directly opposite Lime Street station; perfect for rainy weather."
+              }
+            },
+            {
+              "name": "Walker Art Gallery",
+              "tip_5lang": {
+                "de": "In der Nähe befinden sich viele Bushaltestellen der Linien 10-18.",
+                "hu": "A közelben számos buszjárat (10-18) megállója megtalálható.",
+                "ro": "În apropiere se află multe stații de autobuz (liniile 10-18).",
+                "en": "Many bus stops (lines 10-18) are located nearby for easy access."
+              }
+            },
+            {
+              "name": "Liverpool Cathedral",
+              "tip_5lang": {
+                "de": "Busse der Linien 82 oder 86 halten ganz in der Nähe der Kathedrale.",
+                "hu": "A 82-es vagy 86-os buszok egészen a katedrális közelében állnak meg.",
+                "ro": "Autobuzele 82 sau 86 opresc foarte aproape de catedrală.",
+                "en": "Buses 82 or 86 stop very close to the cathedral entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Merseytravel'-App für Echtzeit-Infos bei Wetterverzögerungen.",
+              "Ein 'Saveaway'-Ticket ist ideal für unbegrenzte Fahrten im Regen.",
+              "James Street und Lime Street Low Level Stationen sind komplett überdacht.",
+              "Bequem sitzen im warmen Bus bietet eine tolle Stadtrundfahrt.",
+              "Halten Sie die Maske/Brille bereit, sie beschlägt oft beim Einsteigen."
+            ],
+            "hu": [
+              "Használja a 'Merseytravel' appot az élő menetrendért esőzéskor.",
+              "A 'Saveaway' jegy ideális korlátlan utazáshoz esős időben.",
+              "James Street és Lime Street mélyállomásai teljesen fedettek.",
+              "A meleg buszon ülve remek városnézésben lehet része szárazon.",
+              "Készüljön fel, hogy a szemüvege bepárásodik a buszra felszálláskor."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Merseytravel' pentru informații în timp real pe ploaie.",
+              "Un bilet 'Saveaway' este ideal pentru călătorii nelimitate pe ploaie.",
+              "Stațiile subterane James Street și Lime Street sunt complet acoperite.",
+              "O călătorie cu autobuzul cald oferă un tur al orașului excelent.",
+              "Pregătiți-vă pentru aburirea ochelarilor la urcarea în autobuz."
+            ],
+            "en": [
+              "Use the 'Merseytravel' app for real-time info during weather delays.",
+              "A 'Saveaway' ticket is ideal for unlimited travel in rainy weather.",
+              "James Street and Lime Street low-level stations are fully covered.",
+              "Sitting in a warm bus provides a great city tour while staying dry.",
+              "Be prepared for your glasses to fog up when boarding the warm bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Stadterkundung mit den gut beheizten Bussen von Liverpool. Vormittags besuchen wir den Pier Head und das Museum. Mittags wärmen wir uns während der Busfahrt zur Kathedrale auf. In der frühen Dunkelheit bieten die Bahnhöfe Lime Street und Central Station eine festliche Atmosphäre und Schutz vor der Kälte.",
+            "hu": "Téli városnézés Liverpool jól fűtött buszaival. Délelőtt a Pier Headet és a múzeumot keressük fel. Délben a katedrálishoz tartó buszúton melegszünk fel. A korai sötétedésben a Lime Street és a Central Station állomások ünnepi hangulatot és védelmet nyújtanak a hideg ellen.",
+            "ro": "Explorare de iarnă cu autobuzele bine încălzite din Liverpool. Dimineața vizităm Pier Head și muzeul. La prânz ne încălzim în timpul călătoriei cu autobuzul spre catedrală. Pe întunericul timpuriu, gările Lime Street și Central oferă o atmosferă festivă și protecție contra frigului.",
+            "en": "Winter city exploration using Liverpool's well-heated buses. In the morning, we visit Pier Head and the museum. At noon, we warm up during the bus ride to the cathedral. In the early darkness, Lime Street and Central stations offer a festive atmosphere and shelter from the cold."
+          },
+          "stops": [
+            {
+              "name": "Pier Head",
+              "tip_5lang": {
+                "de": "Das Mersey Ferry Terminal bietet einen beheizten Warteraum.",
+                "hu": "A Mersey kompterminál fűtött váróteremmel rendelkezik.",
+                "ro": "Terminalul de feribot Mersey are o sală de așteptare încălzită.",
+                "en": "The Mersey Ferry terminal offers a heated waiting room."
+              }
+            },
+            {
+              "name": "Museum of Liverpool",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen nach dem windigen Spaziergang am Ufer.",
+                "hu": "Ideális bemelegedni a szeles parti séta után.",
+                "ro": "Ideal pentru încălzire după plimbarea vântoasă pe faleză.",
+                "en": "Ideal place to warm up after a windy walk along the shore."
+              }
+            },
+            {
+              "name": "Royal Albert Dock",
+              "tip_5lang": {
+                "de": "Die Busse der Linie 'CityLink' verbinden das Dock mit den Bahnhöfen.",
+                "hu": "A 'CityLink' buszok összekötik a dokkokat a vasútállomásokkal.",
+                "ro": "Autobuzele 'CityLink' fac legătura între docuri și gări.",
+                "en": "The 'CityLink' buses connect the dock with the main train stations."
+              }
+            },
+            {
+              "name": "St George's Hall",
+              "tip_5lang": {
+                "de": "Der Bahnhof Lime Street ist ein guter Ort für eine warme Pause.",
+                "hu": "A Lime Street állomás remek hely egy kis melegedő szünetre.",
+                "ro": "Gara Lime Street este un loc bun pentru o pauză la căldură.",
+                "en": "Lime Street station is a good place for a warm break."
+              }
+            },
+            {
+              "name": "Walker Art Gallery",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter regelmäßig und pünktlich.",
+                "hu": "Télen a buszok rendszeresen és pontosan közlekednek.",
+                "ro": "Autobuzele circulă regulat și punctual pe timp de iarnă.",
+                "en": "Buses run regularly and punctually throughout the winter."
+              }
+            },
+            {
+              "name": "Liverpool Cathedral",
+              "tip_5lang": {
+                "de": "Steigen Sie direkt vor der Kathedrale aus, um Kälte zu vermeiden.",
+                "hu": "Szálljon le közvetlenül a katedrális előtt a hideg elkerülésére.",
+                "ro": "Coborâți chiar în fața catedralei pentru a evita frigul.",
+                "en": "Get off right in front of the cathedral to minimize time in the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bahnhöfe wie Central Station sind im Winter oft sehr belebt und warm.",
+              "Achten Sie auf geänderte Fahrpläne an Feiertagen im Dezember.",
+              "Heißgetränke sind in den meisten Stationen an Kiosken erhältlich.",
+              "Nutzen Sie Merseyrail für schnellere Verbindungen bei Glatteis.",
+              "Die Wartezeiten an Außhaltestellen sollten minimiert werden."
+            ],
+            "hu": [
+              "A Central Stationhoz hasonló állomások télen élettel telik és melegek.",
+              "Figyeljen a decemberi ünnepi menetrendi változásokra.",
+              "A legtöbb állomáson kapható forró ital a kioszkokban.",
+              "Jegesedés esetén a Merseyrail vonatokat javasoljuk a buszok helyett.",
+              "Minimalizálja a várakozási időt a külső megállókban."
+            ],
+            "ro": [
+              "Gările precum Central Station sunt adesea animate și calde iarna.",
+              "Atenție la orarele modificate în timpul sărbătorilor din decembrie.",
+              "Băuturile calde sunt disponibile la chioșcurile din majoritatea gărilor.",
+              "Folosiți Merseyrail pentru conexiuni mai rapide în caz de polei.",
+              "Minimalizați timpul de așteptare în stațiile exterioare."
+            ],
+            "en": [
+              "Stations like Central Station are often busy and warm in winter.",
+              "Watch out for modified holiday timetables during December.",
+              "Hot drinks are available at kiosks in most major stations.",
+              "Use Merseyrail for faster connections if there is ice on the roads.",
+              "Minimize your waiting time at outdoor bus stops."
+            ]
+          }
+        }
       }
     }
   }

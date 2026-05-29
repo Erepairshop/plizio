@@ -336,6 +336,188 @@
           "Most sights in the center are easily reachable on foot.",
           "Plan a little extra time for the Ethnographic Museum; there is a lot to discover."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen im Garten der Pflanzen duftet intensiv nach feuchter Erde, kleine Pavillons bieten Schutz. Mittags wärmen wir uns in der Hauptkirche auf und bewundern die barocken Altäre. Nach einem deftigen Eintopf verbringen wir den Nachmittag trocken im Ethnographischen Museum. Den Abschluss bildet das Wissenschaftszentrum im Wald, wo die interaktiven Ausstellungen ideal für Regentage sind.",
+            "hu": "A reggel a növénykertben az eső illatával indul, a pavilonok alatt várjuk ki a zápor végét. Délben a főtemplom vastag falai és a Misericórdia kápolna nyújtanak csendes, száraz menedéket. Ebédre forró helyi Maranhót választunk, ami átmelegít. Délután az Etnográfiai Múzeum és az erdészeti központ fedett tereiben merülünk el a régió tudományában és hagyományaiban.",
+            "ro": "Dimineața în Grădina Plantelor este marcată de parfumul proaspăt de pini, cu adăpost sub pavilioane. La prânz, explorăm interiorul bisericii principale și capela Mercy, feriți de ploaie. Un prânz prelungit cu preparate locale ne pregătește pentru după-amiaza petrecută în muzeul etnografic. Încheiem ziua la Centrul de Știință a Pădurii, o locație interioară excelentă pentru vreme instabilă.",
+            "en": "The morning in the Garden of Plants is fresh with the scent of rain; small gazebos provide cover. At noon, we take refuge in the Main Church and the Chapel of Mercy, admiring the sacred art. A hearty local lunch warms us up before we spend the afternoon in the dry Ethnographic Museum. We finish at the Forest Science Center, where indoor exhibits are perfect for a rainy day."
+          },
+          "stops": [
+            {
+              "name": "Garden of Plants",
+              "tip_5lang": {
+                "de": "Pavillons bieten Schutz vor leichtem Regen.",
+                "hu": "A pavilonok menedéket adnak zápor esetén.",
+                "ro": "Pavilioanele oferă adăpost în caz de ploaie.",
+                "en": "Gazebos offer shelter during light showers."
+              }
+            },
+            {
+              "name": "Main Church of Proença-a-Nova",
+              "tip_5lang": {
+                "de": "Ein trockener Ort, um die Altäre zu bewundern.",
+                "hu": "Száraz hely a belső tér felfedezéséhez.",
+                "ro": "Un loc uscat pentru a admira altarele.",
+                "en": "A dry place to admire the altars."
+              }
+            },
+            {
+              "name": "Chapel of Mercy",
+              "tip_5lang": {
+                "de": "Kurzer, geschützter Aufenthalt im Inneren.",
+                "hu": "Rövid, védett látogatás a belső térben.",
+                "ro": "Vizită scurtă și protejată în interior.",
+                "en": "Short, protected visit inside."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Ideales Ziel, um dem Regen zu entkommen.",
+                "hu": "Ideális célpont az eső elől menekülve.",
+                "ro": "Destinație ideală pentru a scăpa de ploaie.",
+                "en": "Ideal destination to escape the rain."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Probieren Sie heißen Maranho-Eintopf.",
+                "hu": "Kóstolja meg a forró Maranho egytálételt.",
+                "ro": "Încercați o tocană caldă de Maranho.",
+                "en": "Try some hot Maranho stew."
+              }
+            },
+            {
+              "name": "Forest Science Live Center",
+              "tip_5lang": {
+                "de": "Großer Innenbereich mit Ausstellungen.",
+                "hu": "Tágas beltéri kiállítások várják.",
+                "ro": "Expoziții interioare spațioase.",
+                "en": "Spacious indoor exhibits available."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht auf dem glatten Kopfsteinpflaster im Zentrum.",
+              "Das Wald-Wissenschaftszentrum ist komplett wetterfest.",
+              "Ein Regenschirm ist für die kurzen Wege zwischen den Museen nötig.",
+              "Nutzen Sie die Kirchen als ruhige Regenpausen."
+            ],
+            "hu": [
+              "Vigyázzon a csúszós macskakövekre a belvárosban.",
+              "Az erdészeti központ kiváló beltéri program esőben.",
+              "Esernyő ajánlott a múzeumok közötti rövid sétákhoz.",
+              "A templomok csendes és száraz pihenőpontok."
+            ],
+            "ro": [
+              "Atenție la pavajul alunecos din centrul vechi.",
+              "Centrul de știință este o opțiune excelentă de interior.",
+              "O umbrelă este necesară pentru distanțele scurte între obiective.",
+              "Bisericile sunt puncte de popas liniștite și uscate."
+            ],
+            "en": [
+              "Watch out for slippery cobblestones in the center.",
+              "The Forest Science Center is a great indoor option.",
+              "An umbrella is needed for the short walks between stops.",
+              "Churches serve as quiet and dry rest stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterluft im Garten belebt den Geist am Morgen. Mittags suchen wir die Wärme der Hauptkirche und bewundern die sakrale Kunst. In den Gassen des Zentrums locken Cafés mit heißem Bica und regionalem Gebäck. Nachmittags nutzen wir das warme Licht im Etnographischen Museum, bevor wir den Tag im Wissenschaftszentrum ausklingen lassen, während es draußen früh dunkel wird.",
+            "hu": "A csípős téli reggel frissessége a növénykertben ébreszt fel minket. Délben a templom és a kápolna hűvös, de szélvédett tereit látogatjuk meg. Az ebéd során a Beira Baixa vidék laktató ételeivel töltekezünk fel a délutáni múzeumlátogatáshoz. Mivel korán sötétedik, az uzsonnát már a hangulatosan kivilágított főtéren fogyasztjuk el, majd az interaktív központban melegszünk fel.",
+            "ro": "Aerul rece de iarnă în grădină este revigorant la prima oră. La prânz, vizităm biserica și capela, admirând detaliile arhitecturale într-o liniște deplină. Un prânz consistent ne oferă energia necesară pentru după-amiaza la muzeul etnografic. Pe măsură ce soarele apune devreme, ne retragem la Centrul de Știință, unde atmosfera caldă și educativă este perfectă pentru seară.",
+            "en": "The crisp winter air in the garden is invigorating in the morning. At noon, we admire the quiet interior of the Main Church and the Chapel of Mercy. A hearty lunch in the center provides much-needed warmth before our afternoon at the museum. As the sun sets early, we head to the Forest Science Center to enjoy the indoor activities and learn about the local flora."
+          },
+          "stops": [
+            {
+              "name": "Garden of Plants",
+              "tip_5lang": {
+                "de": "Frische Luft, ideal für einen kurzen Spaziergang.",
+                "hu": "Friss levegő, ideális egy rövid sétára.",
+                "ro": "Aer curat, ideal pentru o plimbare scurtă.",
+                "en": "Fresh air, ideal for a short walk."
+              }
+            },
+            {
+              "name": "Main Church of Proença-a-Nova",
+              "tip_5lang": {
+                "de": "Windgeschützter Ort für Besichtigungen.",
+                "hu": "Szélvédett hely a nézelődéshez.",
+                "ro": "Loc ferit de vânt pentru vizitare.",
+                "en": "Wind-protected place for sightseeing."
+              }
+            },
+            {
+              "name": "Chapel of Mercy",
+              "tip_5lang": {
+                "de": "Kleiner, intimer Raum, oft kühler als draußen.",
+                "hu": "Kicsi, intim tér, gyakran hűvösebb, mint kint.",
+                "ro": "Spațiu mic și intim, adesea răcoros.",
+                "en": "Small, intimate space, often cooler than outside."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Warmer Rückzugsort am Nachmittag.",
+                "hu": "Meleg menedék a délutáni órákban.",
+                "ro": "Refugiu călduros în orele după-amiezii.",
+                "en": "Warm retreat during afternoon hours."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Genießen Sie den lokalen Käse und Wein.",
+                "hu": "Kóstolja meg a helyi sajtot és bort.",
+                "ro": "Degustați brânzeturile și vinul local.",
+                "en": "Taste the local cheese and wine."
+              }
+            },
+            {
+              "name": "Forest Science Live Center",
+              "tip_5lang": {
+                "de": "Perfekt beheiztes Zentrum zum Abschluss.",
+                "hu": "Kellemesen fűtött központ a nap zárásához.",
+                "ro": "Centru încălzit, perfect pentru finalul zilei.",
+                "en": "Comfortably heated center to end the day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 17:15 Uhr unter; planen Sie den Gartenbesuch früh.",
+              "Zwiebelprinzip bei der Kleidung ist ratsam.",
+              "Ein heißer 'Galao' im Zentrum wirkt Wunder.",
+              "Die Museen sind im Winter weniger überlaufen."
+            ],
+            "hu": [
+              "A nap 17:15 körül nyugszik, a kerti sétát tervezze korábbra.",
+              "Öltözzön rétegesen, a belső terek hűvösek lehetnek.",
+              "Egy forró kávé a főtéren segít az átmelegedésben.",
+              "A múzeumok télen nyugodtabbak, kevesebb a turista."
+            ],
+            "ro": [
+              "Soarele apune în jur de 17:15; vizitați grădina devreme.",
+              "Îmbrăcați-vă în straturi, interioarele pot fi răcoroase.",
+              "O cafea fierbinte în centru face minuni.",
+              "Muzeele sunt mai puțin aglomerate în timpul iernii."
+            ],
+            "en": [
+              "Sun sets around 17:15; plan your garden visit early.",
+              "Dress in layers as interiors can be chilly.",
+              "A hot coffee in the main square helps you warm up.",
+              "Museums are quieter and less crowded in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -666,6 +848,188 @@
           "Take enough water and snacks for the road.",
           "A helmet is highly recommended for your safety."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Wissenschaftszentrum, wo wir die erste Regenfront abwarten. Die Fahrt zur römischen Brücke führt durch nasse Pinienwälder, deren Duft berauschend ist. Mittags erreichen wir Proença-a-Nova und suchen die Hauptkirche auf, um die nasse Kleidung zu trocknen. Nach einem ausgiebigen Mittagessen besuchen wir das Museum, bevor wir den Tag mit einer vorsichtigen Fahrt durch den Stadtgarten beenden.",
+            "hu": "Az erdészeti központból indulunk, ahol kivárjuk az esőfelhők elvonulását. A római hídhoz vezető út a vizes fenyőerdőkön át vezet, melyek illata ilyenkor a legintenzívebb. Délben érünk vissza a városba, ahol a templom és a múzeum kínál száraz pihenőt. Egy forró ebéd után óvatosan tekerünk át a központi kertbe, ügyelve a nedves aszfaltra és a csúszós falevelekre.",
+            "ro": "Pornim de la Centrul de Știință, așteptând trecerea ploii. Drumul spre podul roman trece prin păduri de pini umede, al căror parfum este intens. La prânz ajungem în oraș, unde biserica și muzeul ne oferă un răgaz uscat. După un prânz cald, pedalăm cu atenție prin grădina publică, fiind atenți la carosabilul umed și frunzele alunecoase.",
+            "en": "We start at the Science Center, waiting for the first rain clouds to pass. The ride to the Roman bridge takes us through wet pine forests with an intoxicating scent. At noon, we reach the town where the church and museum offer a dry break. After a warm lunch, we cycle carefully to the garden, staying mindful of the wet asphalt and slippery leaves."
+          },
+          "stops": [
+            {
+              "name": "Start at the Ciência Viva Center",
+              "tip_5lang": {
+                "de": "Überdachter Startbereich für die Vorbereitung.",
+                "hu": "Fedett indítóterület a felkészüléshez.",
+                "ro": "Zonă de start acoperită pentru pregătire.",
+                "en": "Covered start area for preparation."
+              }
+            },
+            {
+              "name": "Roman Bridge of Alvito",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steine der Brücke sind bei Nässe sehr glatt.",
+                "hu": "Vigyázat, a híd kövei esőben nagyon csúszósak.",
+                "ro": "Atenție, pietrele podului sunt foarte alunecoase pe ploaie.",
+                "en": "Caution: the bridge stones are very slippery when wet."
+              }
+            },
+            {
+              "name": "Main Church of Proença-a-Nova",
+              "tip_5lang": {
+                "de": "Sicherer Ort zum Unterstellen der Räder.",
+                "hu": "Biztonságos hely a kerékpárok leállításához.",
+                "ro": "Loc sigur pentru a lăsa bicicletele.",
+                "en": "Safe place to park the bikes."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Perfekte Pause im Trockenen.",
+                "hu": "Tökéletes pihenő száraz helyen.",
+                "ro": "Pauză perfectă la adăpost.",
+                "en": "Perfect break in the dry."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Sicht auf die Räder.",
+                "hu": "Válasszon éttermet, ahonnan rálát a biciklikre.",
+                "ro": "Alegeți un restaurant cu vedere la biciclete.",
+                "en": "Choose a restaurant with a view of the bikes."
+              }
+            },
+            {
+              "name": "Garden of Plants",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter den großen Bäumen.",
+                "hu": "Rövid megálló a nagy fák alatt.",
+                "ro": "Oprire scurtă sub copacii mari.",
+                "en": "Short stop under the large trees."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Kleidung und Überschuhe.",
+              "Vermeiden Sie abrupte Bremsmanöver auf Kopfsteinpflaster.",
+              "Nutzen Sie Schutzbleche, um Schlamm auf dem Rücken zu vermeiden.",
+              "Die Sicht kann im Wald bei Regen eingeschränkt sein."
+            ],
+            "hu": [
+              "Viseljen vízálló ruházatot és kamáslit.",
+              "Kerülje a hirtelen fékezést a macskaköves utakon.",
+              "Használjon sárvédőt, hogy elkerülje a felverődő sarat.",
+              "Az erdőben a látótávolság esőben lecsökkenhet."
+            ],
+            "ro": [
+              "Purtați îmbrăcăminte impermeabilă și protecții pentru pantofi.",
+              "Evitați frânările bruște pe pavaj.",
+              "Folosiți apărători pentru a evita noroiul pe spate.",
+              "Vizibilitatea în pădure poate fi redusă pe ploaie."
+            ],
+            "en": [
+              "Wear waterproof clothing and shoe covers.",
+              "Avoid abrupt braking on cobblestone surfaces.",
+              "Use mudguards to avoid mud on your back.",
+              "Visibility in the forest may be reduced during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Tour beginnt frisch am Wissenschaftszentrum. Die Fahrt zur römischen Brücke ist bei klarer Winterluft atemberaubend, erfordert aber gute Handschuhe gegen den Fahrtwind. Mittags kehren wir ins Zentrum zurück und wärmen uns in der Kirche auf. Nach einem energiereichen Mittagessen und dem Museumsbesuch nutzen wir die letzten Sonnenstrahlen im Garten, bevor die Dämmerung den Ort in ein blaues Licht taucht.",
+            "hu": "A túra frissen indul az erdészeti központnál. A római hídhoz vezető út a tiszta téli levegőben lélegzetelállító, de jó kesztyűre szükség van a menetszél ellen. Délben térünk vissza a városközpontba, ahol a templom falai között melegszünk fel. Egy energiadús ebéd és a múzeumlátogatás után az utolsó napsugarakat a kertben élvezzük, mielőtt a szürkület kék fénybe vonja a tájat.",
+            "ro": "Turul începe revigorant la Centrul de Știință. Drumul spre podul roman este spectaculos în aerul curat de iarnă, dar necesită mănuși bune împotriva vântului. La prânz ne întoarcem în centru și ne încălzim în biserică. După un prânz energizant și vizita la muzeu, profităm de ultimele raze de soare în grădină, înainte ca amurgul să îmbrace locul în lumini albastre.",
+            "en": "The tour starts fresh at the Science Center. The ride to the Roman bridge is stunning in the clear winter air but requires good gloves against the wind. At noon, we return to the center and warm up in the church. After an energy-boosting lunch and the museum visit, we catch the last rays of sun in the garden before twilight drapes the area in blue light."
+          },
+          "stops": [
+            {
+              "name": "Start at the Ciência Viva Center",
+              "tip_5lang": {
+                "de": "Starten Sie nach 09:30 Uhr, wenn der Frost weg ist.",
+                "hu": "Induljon 09:30 után, ha már elment a fagy.",
+                "ro": "Porniți după ora 09:30, după ce trece înghețul.",
+                "en": "Start after 09:30 once the frost has cleared."
+              }
+            },
+            {
+              "name": "Roman Bridge of Alvito",
+              "tip_5lang": {
+                "de": "Wunderschönes Licht für Fotos am Vormittag.",
+                "hu": "Gyönyörű fények a délelőtti fotózáshoz.",
+                "ro": "Lumină superbă pentru fotografii dimineața.",
+                "en": "Beautiful morning light for photography."
+              }
+            },
+            {
+              "name": "Main Church of Proença-a-Nova",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause im Inneren.",
+                "hu": "Rövid melegedő pihenő odabent.",
+                "ro": "Scurt popas pentru încălzire în interior.",
+                "en": "Short warm-up break inside."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Interessante Einblicke in winterliche Traditionen.",
+                "hu": "Érdekes betekintés a téli hagyományokba.",
+                "ro": "Informații interesante despre tradițiile de iarnă.",
+                "en": "Interesting insights into winter traditions."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Bestellen Sie eine warme Suppe vorab.",
+                "hu": "Rendeljen egy forró levest előételnek.",
+                "ro": "Comandați o supă caldă ca aperitiv.",
+                "en": "Order a hot soup as an appetizer."
+              }
+            },
+            {
+              "name": "Garden of Plants",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Nebensaison.",
+                "hu": "Élvezze a holtszezon nyugalmát.",
+                "ro": "Bucurați-vă de liniștea din afara sezonului.",
+                "en": "Enjoy the tranquility of the off-season."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten Kleidung.",
+              "Vermeiden Sie Fahrten bei Glatteis am frühen Morgen.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert.",
+              "Warme Getränke in der Thermoskanne sind ideal."
+            ],
+            "hu": [
+              "Öltözzön több rétegben a menetszél miatt.",
+              "Kerülje a kora reggeli tekerést a jegesedés veszélye miatt.",
+              "Ellenőrizze, hogy a kerékpár lámpái jól működnek-e.",
+              "Egy termosznyi forró ital ideális útitárs."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine.",
+              "Evitați deplasarea pe polei dimineața devreme.",
+              "Asigurați-vă că luminile bicicletei funcționează.",
+              "O băutură caldă în termos este ideală."
+            ],
+            "en": [
+              "Wear multiple layers of clothing.",
+              "Avoid cycling in the early morning if there is frost.",
+              "Make sure your bike lights are working properly.",
+              "A thermos with a hot drink is an ideal companion."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1039,6 +1403,206 @@
           "The roads to the viewpoints can be narrow and winding, drive carefully.",
           "Pack swimwear and towels for the river beach."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt zu den Portas de Almourão bietet bei Regen ein mystisches Bild, wenn Nebel in der Schlucht hängt. Die römische Brücke wirkt in den grauen Tönen der Landschaft besonders geschichtsträchtig. Mittags parken wir bequem im Zentrum, um die Museen und die Kirche trocken zu erreichen. Da der Flussstrand Aldeia Ruiva bei Regen weniger einlädt, nutzen wir die Zeit für einen längeren Besuch im Etnographischen Museum.",
+            "hu": "Az Almourão-szurdokhoz vezető út esőben misztikus látványt nyújt, ahogy a köd megül a völgyben. A római híd a táj szürke tónusaiban még inkább történelmi hangulatot áraszt. Délben kényelmesen parkolunk a központban, hogy száraz lábbal érjük el a múzeumokat és a templomot. Mivel az Aldeia Ruiva folyóparti strand esőben kevésbé vonzó, több időt szentelünk a helyi néprajzi gyűjteménynek.",
+            "ro": "Drumul spre Portas de Almourão oferă o priveliște mistică pe ploaie, cu ceața plutind deasupra cheilor. Podul roman pare și mai istoric în tonurile cenușii ale peisajului. La prânz parcăm confortabil în centru pentru a ajunge uscați la muzee și biserică. Deoarece plaja fluvială Aldeia Ruiva este mai puțin primitoare pe ploaie, alocăm mai mult timp muzeului etnografic.",
+            "en": "The drive to Portas de Almourão offers a mystical view in the rain, with mist hanging over the gorge. The Roman bridge looks even more historic in the grey tones of the landscape. At noon, we park conveniently in the center to reach the museums and church without getting wet. As Aldeia Ruiva river beach is less inviting in the rain, we spend more time exploring the Ethnographic Museum."
+          },
+          "stops": [
+            {
+              "name": "Portas de Almourão Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem unbefestigten Parkplatz.",
+                "hu": "Vigyázzon a burkolatlan parkolóban.",
+                "ro": "Atenție în parcarea neamenajată.",
+                "en": "Be careful in the unpaved parking area."
+              }
+            },
+            {
+              "name": "Roman Bridge of Alvito",
+              "tip_5lang": {
+                "de": "Guter Blick aus dem Autofenster möglich.",
+                "hu": "Jó kilátás nyílik az autó ablakából is.",
+                "ro": "Vedere bună direct din mașină.",
+                "en": "Good view possible directly from the car."
+              }
+            },
+            {
+              "name": "Main Church of Proença-a-Nova (Cluster Start)",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz direkt daneben.",
+                "hu": "Központi parkoló közvetlenül mellette.",
+                "ro": "Parcare centrală chiar lângă biserică.",
+                "en": "Central parking located right next to it."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Perfekt für eine ausgedehnte Regenpause.",
+                "hu": "Tökéletes egy hosszabb esőszünetre.",
+                "ro": "Perfect pentru o pauză lungă de ploaie.",
+                "en": "Perfect for an extended rain break."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Viele Restaurants haben nahegelegene Parkplätze.",
+                "hu": "Sok étterem közelében van parkolóhely.",
+                "ro": "Multe restaurante au parcări în apropiere.",
+                "en": "Many restaurants have nearby parking spaces."
+              }
+            },
+            {
+              "name": "Aldeia Ruiva River Beach",
+              "tip_5lang": {
+                "de": "Besuch nur für einen kurzen Blick auf den Fluss.",
+                "hu": "Csak egy rövid folyóparti nézelődésre érdemes.",
+                "ro": "Vizită scurtă doar pentru a vedea râul.",
+                "en": "Visit just for a quick look at the river."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Fahrt bei Regen erfordert erhöhte Aufmerksamkeit.",
+                "hu": "Az esőben való vezetés fokozott figyelmet igényel.",
+                "ro": "Condusul pe ploaie necesită atenție sporită.",
+                "en": "Driving in the rain requires extra attention."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Landstraßen.",
+              "Parken Sie im Zentrum in der Nähe des Museums.",
+              "Die Aussichtspunkte können bei starkem Regen neblig sein.",
+              "Nutzen Sie die Heizung, um die Scheiben zu entfeuchten."
+            ],
+            "hu": [
+              "Ügyeljen a vízenfutásra az országutakon.",
+              "A központban a múzeum közelében parkoljon.",
+              "A kilátópontok erős esőben ködösek lehetnek.",
+              "Használja a fűtést a szélvédő páramentesítésére."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile județene.",
+              "Parcați în centru aproape de muzeu.",
+              "Punctele de belvedere pot fi lăptoase pe ploaie.",
+              "Folosiți ventilația pentru a dezaburi geamurile."
+            ],
+            "en": [
+              "Watch out for aquaplaning on country roads.",
+              "Park near the museum in the center.",
+              "Viewpoints might be foggy during heavy rain.",
+              "Use the car heater to defog the windshield."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt nach Portas de Almourão belohnt uns mit klarem Himmel und schroffen Felsformationen. An der römischen Brücke genießen wir die Stille der Natur, bevor wir zum Mittagessen ins lebendige Proença-a-Nova zurückkehren. Der Nachmittag gehört der Kultur im Museum und der Besinnlichkeit in der Kirche. Zum Abschluss besuchen wir den Flussstrand Aldeia Ruiva, der im Winterlicht eine melancholische Schönheit besitzt, bevor wir im Warmen einkehren.",
+            "hu": "A reggeli út az Almourão-szurdokhoz tiszta égbolttal és éles sziklaformációkkal jutalmaz minket. A római hídnál élvezzük a természet csendjét, mielőtt visszatérnénk ebédelni a nyüzsgő Proença-a-Novába. A délután a múzeumi kultúráé és a templomi elcsendesedésé. Végül meglátogatjuk az Aldeia Ruiva folyóparti strandot, amely a téli fényekben melankolikus szépséget áraszt, majd egy meleg helyre húzódunk be.",
+            "ro": "Drumul de dimineață spre Portas de Almourão ne răsplătește cu un cer senin și formațiuni stâncoase abrupte. La podul roman ne bucurăm de liniștea naturii înainte de a reveni pentru prânz în Proença-a-Nova. După-amiaza este dedicată culturii la muzeu și reculegerii în biserică. La final, vizităm plaja fluvială Aldeia Ruiva, care are o frumusețe melancolică în lumina iernii.",
+            "en": "The morning drive to Portas de Almourão rewards us with clear skies and rugged rock formations. At the Roman bridge, we enjoy the silence of nature before returning to Proença-a-Nova for lunch. The afternoon is dedicated to culture at the museum and quiet reflection in the church. We end by visiting Aldeia Ruiva river beach, which possesses a melancholic beauty in the winter light."
+          },
+          "stops": [
+            {
+              "name": "Portas de Almourão Viewpoint",
+              "tip_5lang": {
+                "de": "Klare Sicht, ideal für Landschaftsfotografie.",
+                "hu": "Tiszta látási viszonyok, ideális tájfotózáshoz.",
+                "ro": "Vizibilitate bună, ideal pentru fotografii.",
+                "en": "Clear views, ideal for landscape photography."
+              }
+            },
+            {
+              "name": "Roman Bridge of Alvito",
+              "tip_5lang": {
+                "de": "Wenig Besucher, sehr ruhige Atmosphäre.",
+                "hu": "Kevés látogató, nagyon nyugodt hangulat.",
+                "ro": "Puțini vizitatori, atmosferă foarte calmă.",
+                "en": "Few visitors, very peaceful atmosphere."
+              }
+            },
+            {
+              "name": "Main Church of Proença-a-Nova (Cluster Start)",
+              "tip_5lang": {
+                "de": "Kurze Wege im historischen Kern.",
+                "hu": "Rövid sétatávolságok a történelmi magban.",
+                "ro": "Distanțe scurte în centrul istoric.",
+                "en": "Short walking distances in the historic core."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Interessante Ausstellungen zur ländlichen Arbeit.",
+                "hu": "Érdekes kiállítások a vidéki munkáról.",
+                "ro": "Expoziții interesante despre viața rurală.",
+                "en": "Interesting exhibits on rural life."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Probieren Sie saisonale Wildgerichte.",
+                "hu": "Kóstolja meg a szezonális vadételeket.",
+                "ro": "Încercați preparatele sezoniere din vânat.",
+                "en": "Try seasonal game dishes."
+              }
+            },
+            {
+              "name": "Aldeia Ruiva River Beach",
+              "tip_5lang": {
+                "de": "Schöner Ort für einen Winterspaziergang.",
+                "hu": "Szép helyszín egy téli sétához.",
+                "ro": "Loc frumos pentru o plimbare de iarnă.",
+                "en": "Beautiful spot for a winter walk."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Fahrt in der Dämmerung: Vorsicht vor Wildwechsel.",
+                "hu": "Vezetés szürkületben: vigyázzon a vadakra.",
+                "ro": "Atenție la animalele sălbatice pe amurg.",
+                "en": "Driving at dusk: watch out for wildlife."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Bergstraßen können im Winter schattig und kühl sein.",
+              "Nehmen Sie eine Decke für Pausen im Auto mit.",
+              "Tanken Sie rechtzeitig, Tankstellen sind teils weit verstreut."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A hegyi utak télen árnyékosak és hűvösek lehetnek.",
+              "Vigyen magával takarót az autóba a pihenőkhöz.",
+              "Tankoljon időben, a kutak néha messze vannak."
+            ],
+            "ro": [
+              "Verificați lichidul de parbriz antigriz.",
+              "Drumurile montane pot fi umbroase și reci.",
+              "Luați o pătură în mașină pentru pauze.",
+              "Alimentați la timp, benzinăriile pot fi rare."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer.",
+              "Mountain roads can be shaded and cool in winter.",
+              "Bring a blanket for breaks in the car.",
+              "Refuel in time; gas stations can be far apart."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1369,6 +1933,188 @@
           "Be at the bus stop on time, especially for infrequent services.",
           "Most sights within a cluster are easily accessible on foot."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir erreichen das Zentrum und nutzen die kurzen Wege zwischen Kirche und Museum, um dem Regen zu entgehen. Die Hauptkirche bietet eine besinnliche Pause im Trockenen. Nach einem ausgiebigen Mittagessen nehmen wir den Bus zum Wald-Wissenschaftszentrum. Dort verbringen wir den Nachmittag wettergeschützt bei den spannenden Exponaten, bevor wir die Rückfahrt antreten, während der Regen gegen die Scheiben des Busses peitscht.",
+            "hu": "A központba érkezve kihasználjuk a templom és a múzeum közelségét, hogy minél kevesebbet legyünk kint az esőben. A főtemplom meghitt, száraz pihenőt kínál. Egy bőséges ebéd után busszal utazunk az erdészeti központba. Ott a délutánt az esőtől védve, izgalmas kiállítások között töltjük, majd a busz ablakán kopogó esőt figyelve indulunk vissza.",
+            "ro": "Ajunși în centru, profităm de apropierea dintre biserică și muzeu pentru a sta cât mai puțin în ploaie. Biserica principală oferă un răgaz liniștit și uscat. După un prânz copios, luăm autobuzul spre Centrul de Știință. Acolo petrecem după-amiaza protejați de vreme, printre exponate interesante, înainte de a ne întoarce ascultând ploaia pe geamul autobuzului.",
+            "en": "Arriving in the center, we take advantage of the proximity between the church and museum to avoid the rain. The Main Church offers a peaceful, dry break. After a satisfying lunch, we take the bus to the Forest Science Center. We spend the afternoon protected from the weather among exciting exhibits before heading back, watching the rain on the bus windows."
+          },
+          "stops": [
+            {
+              "name": "Arrival in the Center (Cluster A)",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen im Zentrum sind meist überdacht.",
+                "hu": "A központi buszmegállók többnyire fedettek.",
+                "ro": "Stațiile de autobuz din centru sunt în general acoperite.",
+                "en": "Bus stops in the center are mostly covered."
+              }
+            },
+            {
+              "name": "Main Church of Proença-a-Nova",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von der Haltestelle.",
+                "hu": "Csak rövid séta a megállótól.",
+                "ro": "Doar o scurtă plimbare de la stație.",
+                "en": "Just a short walk from the stop."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Ideal, um auf den nächsten Bus zu warten.",
+                "hu": "Ideális hely a következő busz megvárására.",
+                "ro": "Loc ideal pentru a aștepta următorul autobuz.",
+                "en": "Ideal place to wait for the next bus."
+              }
+            },
+            {
+              "name": "Garden of Plants",
+              "tip_5lang": {
+                "de": "Große Bäume bieten einen gewissen Schutz.",
+                "hu": "A nagy fák némi védelmet nyújtanak.",
+                "ro": "Copacii mari oferă o oarecare protecție.",
+                "en": "Large trees offer some protection."
+              }
+            },
+            {
+              "name": "Bus ride to Cluster B & Lunch",
+              "tip_5lang": {
+                "de": "Genießen Sie die trockene Fahrt im Bus.",
+                "hu": "Élvezze a száraz utazást a buszon.",
+                "ro": "Bucurați-vă de drumul uscat în autobuz.",
+                "en": "Enjoy the dry ride on the bus."
+              }
+            },
+            {
+              "name": "Forest Science Live Center",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt am Eingang.",
+                "hu": "Buszmegálló közvetlenül a bejáratnál.",
+                "ro": "Stație de autobuz chiar la intrare.",
+                "en": "Bus stop right at the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Busfahrpläne vorab, da diese variieren können.",
+              "Tragen Sie Schuhe mit gutem Profil für den nassen Asphalt.",
+              "Im Bus kann es durch nasse Kleidung feucht sein.",
+              "Kombinieren Sie Museumsbesuche mit den Buszeiten."
+            ],
+            "hu": [
+              "Ellenőrizze előre a buszmenetrendet, mert változhat.",
+              "Viseljen jó tapadású cipőt a vizes aszfaltra.",
+              "A buszon a vizes ruhák miatt párás lehet a levegő.",
+              "Igazítsa a múzeumlátogatást a buszok indulásához."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor în avans.",
+              "Purtați pantofi cu aderență bună pentru asfaltul ud.",
+              "În autobuz poate fi umiditate din cauza hainelor ude.",
+              "Corelați vizitele la muzee cu orele autobuzelor."
+            ],
+            "en": [
+              "Check bus schedules in advance as they may vary.",
+              "Wear shoes with good grip for wet asphalt.",
+              "It might be humid inside the bus due to wet clothes.",
+              "Coordinate museum visits with bus departure times."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir starten unsere Tour im winterlichen Zentrum. Die kurzen Wege ermöglichen es uns, viel Zeit im Warmen der Kirche und des Museums zu verbringen. Ein nahrhaftes Mittagessen mit regionalen Produkten gibt uns Kraft für den Nachmittag. Mit dem Bus fahren wir zum Wissenschaftszentrum, wo wir bis zur Dämmerung bleiben und die interaktiven Stationen nutzen. Die Rückfahrt im beheizten Bus bietet einen gemütlichen Ausklang des Tages.",
+            "hu": "Túránkat a téli hangulatú központban kezdjük. A rövid távolságok lehetővé teszik, hogy sok időt töltsünk a templom és a múzeum melegében. Egy tápláló, helyi alapanyagokból készült ebéd erőt ad a délutánhoz. Busszal utazunk az erdészeti központba, ahol sötétedésig maradunk, kihasználva az interaktív állomásokat. A fűtött buszon való visszautazás kellemes zárása a napnak.",
+            "ro": "Începem turul în centrul cu atmosferă de iarnă. Distanțele scurte ne permit să petrecem mult timp la căldură în biserică și muzeu. Un prânz hrănitor cu produse regionale ne dă energie pentru după-amiază. Mergem cu autobuzul la Centrul de Știință, unde rămânem până la amurg folosind stațiile interactive. Întoarcerea cu autobuzul încălzit oferă un final confortabil zilei.",
+            "en": "We start our tour in the winter-themed center. The short distances allow us to spend plenty of time in the warmth of the church and museum. A nutritious lunch with regional products gives us energy for the afternoon. We take the bus to the Science Center, staying until dusk to enjoy the interactive stations. The return trip on the heated bus provides a cozy end to the day."
+          },
+          "stops": [
+            {
+              "name": "Arrival in the Center (Cluster A)",
+              "tip_5lang": {
+                "de": "Haltestelle liegt im windgeschützten Bereich.",
+                "hu": "A megálló szélvédett területen található.",
+                "ro": "Stația se află într-o zonă ferită de vânt.",
+                "en": "The stop is located in a wind-protected area."
+              }
+            },
+            {
+              "name": "Main Church of Proença-a-Nova",
+              "tip_5lang": {
+                "de": "Ruhiger Ort zur inneren Einkehr.",
+                "hu": "Csendes hely a lelki feltöltődéshez.",
+                "ro": "Loc liniștit pentru reculegere.",
+                "en": "Quiet place for inner reflection."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Ausstellungen sind auch im Winter sehenswert.",
+                "hu": "A kiállítások télen is érdemesek a látogatásra.",
+                "ro": "Expozițiile merită vizitate și iarna.",
+                "en": "The exhibits are worth visiting even in winter."
+              }
+            },
+            {
+              "name": "Garden of Plants",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang vor dem nächsten Bus.",
+                "hu": "Rövid séta a következő busz előtt.",
+                "ro": "Scurtă plimbare înainte de următorul autobuz.",
+                "en": "Short walk before the next bus."
+              }
+            },
+            {
+              "name": "Bus ride to Cluster B & Lunch",
+              "tip_5lang": {
+                "de": "Aufwärmen während der kurzen Fahrt.",
+                "hu": "Melegedjen fel a rövid utazás alatt.",
+                "ro": "Încălziți-vă în timpul călătoriei scurte.",
+                "en": "Warm up during the short ride."
+              }
+            },
+            {
+              "name": "Forest Science Live Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die letzte Busverbindung rechtzeitig.",
+                "hu": "Időben érje el az utolsó buszjáratot.",
+                "ro": "Prindeți ultima cursă de autobuz la timp.",
+                "en": "Catch the last bus connection in time."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie die eingeschränkten Fahrpläne an Feiertagen.",
+              "Halten Sie Kleingeld für das Busticket bereit.",
+              "Die Busse sind im Winter meist gut beheizt.",
+              "Planen Sie Pufferzeiten für die Rückfahrt ein."
+            ],
+            "hu": [
+              "Ügyeljen az ünnepi korlátozott menetrendekre.",
+              "Legyen Önnél aprópénz a buszjegyhez.",
+              "A buszok télen általában jól fűtöttek.",
+              "Tervezzen némi tartalékidőt a visszautazáshoz."
+            ],
+            "ro": [
+              "Atenție la orarul redus în zilele de sărbătoare.",
+              "Aveți pregătit mărunt pentru biletul de autobuz.",
+              "Autobuzele sunt de regulă bine încălzite iarna.",
+              "Planificați timp de rezervă pentru întoarcere."
+            ],
+            "en": [
+              "Watch out for limited schedules on holidays.",
+              "Have small change ready for the bus ticket.",
+              "Buses are usually well-heated in winter.",
+              "Plan some buffer time for the return trip."
+            ]
+          }
+        }
       }
     }
   }

@@ -362,6 +362,188 @@
           "Bring a reusable water bottle to stay hydrated.",
           "A light raincoat is always a good idea in Ireland, even on a sunny day."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Ashbourne beginnt am Killegland Square, wo die Arkaden Schutz bieten. In der St. Declan’s Church finden wir Ruhe vor dem Guss, bevor wir in der Bibliothek verweilen. Der Nachmittag am Broadmeadow River ist erfrischend, erfordert aber einen Schirm. Wir beenden den Tag an den Donaghmore-Ruinen, deren alte Steine im Regen eine mystische Atmosphäre ausstrahlen.",
+            "hu": "A reggel borús Ashbourne szívében, a Killegland Square üzletei alatt kezdünk. A Szent Declan-templom csendje menedéket ad az eső elől, míg a könyvtár ideális egy kis olvasáshoz. Délután a Broadmeadow-parton az eső kopogása kísér minket a Rath kereszthez. A napot a Donaghmore romjainál zárjuk, ahol az ázott kövek történelmi hangulatot árasztanak a szürkületben.",
+            "ro": "O dimineață ploioasă în Ashbourne începe la Killegland Square, unde arcadele oferă adăpost. Biserica St. Declan oferă un refugiu liniștit, urmată de o pauză la bibliotecă. După-amiaza pe malul râului Broadmeadow este răcoroasă, dar necesită umbrelă. Încheiem ziua la ruinele Donaghmore, ale căror pietre umede emană o atmosferă mistică sub cerul cenușiu.",
+            "en": "A rainy morning in Ashbourne starts at Killegland Square, where the shops provide cover. St. Declan's Church offers a dry sanctuary, followed by a cozy stop at the library. The afternoon walk by the Broadmeadow River is refreshing but needs an umbrella. We end the day at Donaghmore Ruins, where the wet stones create a hauntingly beautiful scene."
+          },
+          "stops": [
+            {
+              "name": "Killegland Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Gehwege der Einkaufszentren bei Schauern.",
+                "hu": "Használja a bevásárlóközpont fedett árkádjait a záporok idején.",
+                "ro": "Folosiți arcadele acoperite ale centrelor comerciale în timpul averselor.",
+                "en": "Use the covered walkways of the shopping centres during heavy showers."
+              }
+            },
+            {
+              "name": "St. Declan's Church",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die Regenjacke zu schütteln und das Interieur zu bewundern.",
+                "hu": "Tökéletes hely az esőkabát lerázására és a belső tér megcsodálására.",
+                "ro": "Un loc perfect pentru a scutura pelerina de ploaie și a admira interiorul.",
+                "en": "A perfect spot to shake off your raincoat and admire the quiet interior."
+              }
+            },
+            {
+              "name": "Ashbourne Library",
+              "tip_5lang": {
+                "de": "Die Zeitungen im Lesesaal sind ideal, um auf das Ende des Regens zu warten.",
+                "hu": "Az olvasóterem újságai ideálisak, amíg megvárjuk az eső végét.",
+                "ro": "Ziarele din sala de lectură sunt ideale pentru a aștepta oprirea ploii.",
+                "en": "The newspapers in the reading room are ideal while waiting for the rain to stop."
+              }
+            },
+            {
+              "name": "Broadmeadow River Walk",
+              "tip_5lang": {
+                "de": "Der Weg kann schlammig sein; bleiben Sie auf den befestigten Kiesflächen.",
+                "hu": "Az út sáros lehet; maradjon a kavicsos részeken a folyó mentén.",
+                "ro": "Poteca poate fi noroioasă; rămâneți pe zonele cu pietriș de-a lungul râului.",
+                "en": "The path can be muddy; stick to the gravelled areas along the river."
+              }
+            },
+            {
+              "name": "Rath Cross Monument",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Halt; das Denkmal ist völlig ungeschützt.",
+                "hu": "Csak egy rövid megálló; az emlékmű teljesen védtelen az esőtől.",
+                "ro": "Doar o scurtă oprire; monumentul este complet neprotejat de ploaie.",
+                "en": "Just a quick stop; the monument is completely unsheltered from the rain."
+              }
+            },
+            {
+              "name": "Donaghmore Church Ruins",
+              "tip_5lang": {
+                "de": "Die Mauern bieten nur minimalen Schutz; halten Sie den Schirm bereit.",
+                "hu": "A falak csak minimális védelmet nyújtanak; tartsa készenlétben az esernyőt.",
+                "ro": "Zidurile oferă o protecție minimă; țineți umbrela la îndemână.",
+                "en": "The walls offer minimal shelter; keep your umbrella ready at all times."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Wege am Broadmeadow River bei Regen aufweichen.",
+              "Die öffentlichen Gebäude in Ashbourne sind gute Anlaufstellen für trockene Pausen.",
+              "Ein Taschenschirm ist bei dem oft wechselhaften irischen Wind praktischer als eine sperrige Version.",
+              "Achten Sie auf Pfützen in den tiefer gelegenen Teilen des Rath Cross Geländes."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a Broadmeadow-folyó melletti utak esőben feláznak.",
+              "Ashbourne középületei jó menedéket nyújtanak a száraz szünetekhez.",
+              "Egy összecsukható esernyő praktikusabb az ír szélben, mint a nagy, merev változatok.",
+              "Ügyeljen a tócsákra a Rath Cross környékének alacsonyabb részein."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece potecile de pe Broadmeadow se înmoaie la ploaie.",
+              "Clădirile publice din Ashbourne sunt puncte bune pentru pauze uscate.",
+              "O umbrelă de buzunar este mai practică în vântul irlandez schimbător decât una mare.",
+              "Atenție la bălți în zonele mai joase din jurul monumentului Rath Cross."
+            ],
+            "en": [
+              "Wear waterproof shoes as the paths by the Broadmeadow River soften in the rain.",
+              "Public buildings in Ashbourne are good spots for dry breaks throughout the day.",
+              "A pocket umbrella is more practical in the changeable Irish wind than a bulky one.",
+              "Watch out for puddles in the lower sections of the Rath Cross area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Killegland Square ist frisch und klar. Wir besuchen die warme St. Declan’s Church und wärmen uns in der Bibliothek auf, während draußen der Frost glitzert. Nach einem zügigen Spaziergang am Fluss erreichen wir das Rath Cross im goldenen Licht des frühen Nachmittags. Die Donaghmore-Ruinen wirken in der winterlichen Kälte besonders erhaben, bevor die frühe Dunkelheit einsetzt.",
+            "hu": "A téli reggel a Killegland Square-en friss és tiszta. Meglátogatjuk a meleg Szent Declan-templomot, majd a könyvtárban melegszünk fel, miközben kint csillog a zúzmara. A folyóparti séta után a Rath keresztet a kora délutáni aranyfényben érjük el. A Donaghmore romjai a téli hidegben különösen fenségesek, mielőtt beállna a korai sötétség.",
+            "ro": "Dimineața de iarnă în Killegland Square este proaspătă și senină. Vizităm biserica caldă St. Declan și ne încălzim în bibliotecă, în timp ce afară sclipesc promoroaca. După o plimbare rapidă pe râu, ajungem la Rath Cross în lumina aurie a după-amiezii. Ruinele Donaghmore par maiestuoase în frigul iernii, înainte de lăsarea întunericului timpuriu.",
+            "en": "The winter morning at Killegland Square is crisp and clear. We visit the warm St. Declan's Church and thaw out in the library while the frost glistens outside. After a brisk walk by the river, we reach Rath Cross in the golden early afternoon light. Donaghmore Ruins look particularly majestic in the winter chill before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Killegland Square",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Kaffee in einem der Cafés am Platz zum Aufwärmen.",
+                "hu": "Igyon egy forró kávét a tér egyik kávézójában a bemelegítéshez.",
+                "ro": "Savurați o cafea fierbinte într-una dintre cafenelele din piață pentru a vă încălzi.",
+                "en": "Enjoy a hot coffee in one of the square's cafes to warm up for the walk."
+              }
+            },
+            {
+              "name": "St. Declan's Church",
+              "tip_5lang": {
+                "de": "Die Heizung im Inneren macht dies zu einer perfekten Pause in der Kälte.",
+                "hu": "A belső fűtés miatt ez egy tökéletes pihenőhely a hidegben.",
+                "ro": "Încălzirea interioară face din aceasta o pauză perfectă în frig.",
+                "en": "The indoor heating makes this a perfect resting spot during the cold morning."
+              }
+            },
+            {
+              "name": "Ashbourne Library",
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um sich zwischen den Besichtigungen aufzuwärmen.",
+                "hu": "Kiváló hely az átmelegedésre a látnivalók megtekintése között.",
+                "ro": "Un loc excelent pentru a vă încălzi între vizitarea obiectivelor turistice.",
+                "en": "An excellent place to warm up thoroughly between sightseeing stops."
+              }
+            },
+            {
+              "name": "Broadmeadow River Walk",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Holzstegen am Wasser.",
+                "hu": "Ügyeljen a jeges foltokra a víz melletti fapallókon.",
+                "ro": "Atenție la porțiunile înghețate de pe podurile de lemn de lângă apă.",
+                "en": "Watch out for icy patches on the wooden walkways near the water."
+              }
+            },
+            {
+              "name": "Rath Cross Monument",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 16 Uhr, um das Tageslicht zu nutzen.",
+                "hu": "Látogasson el ide 16 óra előtt, hogy kihasználja a nappali fényt.",
+                "ro": "Vizitați acest loc înainte de ora 16:00 pentru a profita de lumina zilei.",
+                "en": "Visit this spot before 4 PM to take advantage of the remaining daylight."
+              }
+            },
+            {
+              "name": "Donaghmore Church Ruins",
+              "tip_5lang": {
+                "de": "Die Ruinen sind bei Sonnenuntergang (ca. 16:30 Uhr) sehr fotogen.",
+                "hu": "A romok nagyon fotogének naplementekor (kb. 16:30-kor).",
+                "ro": "Ruinele sunt foarte fotogenice la apus (în jur de ora 16:30).",
+                "en": "The ruins are very photogenic at sunset (around 4:30 PM)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht in Ashbourne im Winter bereits gegen 16:20 Uhr unter.",
+              "Kleiden Sie sich in Schichten, da der Wind auf den offenen Feldern bei Donaghmore beißt.",
+              "Viele Geschäfte am Killegland Square schließen im Winter etwas früher.",
+              "Feste Stiefel mit gutem Profil helfen auf gefrorenem oder matschigem Untergrund."
+            ],
+            "hu": [
+              "Ashbourne-ban télen már 16:20 körül lemegy a nap.",
+              "Öltözzön rétegesen, mert a szél Donaghmore nyílt mezőin metsző lehet.",
+              "A Killegland Square üzletei közül néhány télen korábban zárhat.",
+              "A jó profilú, erős bakancs segít a fagyott vagy latyakos talajon."
+            ],
+            "ro": [
+              "Soarele apune în Ashbourne în jurul orei 16:20 în timpul iernii.",
+              "Îmbrăcați-vă în straturi, deoarece vântul pe câmpurile deschise de la Donaghmore este tăios.",
+              "Multe magazine din Killegland Square se închid puțin mai devreme iarna.",
+              "Cizmele solide cu talpă aderentă ajută pe terenul înghețat sau noroios."
+            ],
+            "en": [
+              "The sun sets in Ashbourne as early as 4:20 PM during mid-winter.",
+              "Dress in layers as the wind on the open fields at Donaghmore can be biting.",
+              "Many shops at Killegland Square may close slightly earlier during the winter months.",
+              "Sturdy boots with good grip help on frozen or slushy ground conditions."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -718,6 +900,188 @@
           "Carry a small repair kit in case of a flat tire.",
           "Plan your route in advance as some roads can be busy."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Auf zwei Rädern durch das nasse Ashbourne: Wir starten vorsichtig am Killegland Square. Die St. Declan’s Church bietet eine trockene Atempause, bevor wir zum Rath Cross radeln. Trotz Regen ist die Fahrt zu den Donaghmore-Ruinen stimmungsvoll. Den Rückweg über den Broadmeadow River Walk gehen wir langsam an, um die Killegland Towers im grauen Dunst zu erreichen.",
+            "hu": "Két keréken a vizes Ashbourne-ban: óvatosan indulunk a Killegland Square-ről. A Szent Declan-templom száraz pihenőt ad, mielőtt a Rath kereszthez tekernénk. Az eső ellenére a Donaghmore romjaihoz vezető út hangulatos. A Broadmeadow-parton lassan haladunk vissza, hogy elérjük a Killegland Towers épületét a szürke ködben.",
+            "ro": "Pe două roți prin Ashbourne-ul umed: pornim cu prudență din Killegland Square. Biserica St. Declan oferă un popas uscat înainte de a pedala spre Rath Cross. În ciuda ploii, drumul spre ruinele Donaghmore este atmosferic. Ne întoarcem încet pe malul râului Broadmeadow pentru a ajunge la Killegland Towers în negura cenușie.",
+            "en": "On two wheels through wet Ashbourne: we start cautiously at Killegland Square. St. Declan's Church offers a dry breather before we cycle to Rath Cross. Despite the rain, the ride to Donaghmore Ruins is atmospheric. We take the return via Broadmeadow River Walk slowly to reach Killegland Towers in the grey mist."
+          },
+          "stops": [
+            {
+              "name": "Killegland Square",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen; das Pflaster auf dem Platz kann bei Nässe rutschig sein.",
+                "hu": "Ellenőrizze a fékeit; a tér burkolata nedvesen csúszós lehet.",
+                "ro": "Verificați frânele; pavajul din piață poate fi alunecos când este ud.",
+                "en": "Check your brakes; the pavement in the square can be slippery when wet."
+              }
+            },
+            {
+              "name": "St. Declan's Church",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer gibt es in der Nähe des Haupteingangs.",
+                "hu": "Fedett kerékpártárolók találhatók a főbejárat közelében.",
+                "ro": "Există rastele de biciclete acoperite în apropierea intrării principale.",
+                "en": "There are covered bike racks located near the main entrance."
+              }
+            },
+            {
+              "name": "Rath Cross Monument",
+              "tip_5lang": {
+                "de": "Achten Sie beim Absteigen auf nasse Markierungen auf der Fahrbahn.",
+                "hu": "Leszálláskor ügyeljen az úttesten lévő nedves útburkolati jelekre.",
+                "ro": "Atenție la marcajele rutiere umede când coborâți de pe bicicletă.",
+                "en": "Watch out for wet road markings when dismounting near the monument."
+              }
+            },
+            {
+              "name": "Donaghmore Church Ruins & Tower",
+              "tip_5lang": {
+                "de": "Der Zugangsweg kann Pfützen bilden; fahren Sie mittig auf dem befestigten Pfad.",
+                "hu": "A bejárati úton tócsák lehetnek; haladjon a kiépített út közepén.",
+                "ro": "Aleea de acces poate avea bălți; pedalați pe mijlocul potecii consolidate.",
+                "en": "The access path can form puddles; ride in the centre of the reinforced track."
+              }
+            },
+            {
+              "name": "Broadmeadow River Walk",
+              "tip_5lang": {
+                "de": "Reduzieren Sie das Tempo; nasses Laub auf dem Weg ist eine Rutschgefahr.",
+                "hu": "Lassítson; az úton lévő nedves levelek csúszásveszélyesek.",
+                "ro": "Reduceți viteza; frunzele umede de pe drum reprezintă un pericol de alunecare.",
+                "en": "Reduce your speed; wet leaves on the path are a major slip hazard."
+              }
+            },
+            {
+              "name": "Killegland Towers",
+              "tip_5lang": {
+                "de": "Unter den Türmen finden Sie Schutz für ein letztes Foto im Trockenen.",
+                "hu": "A tornyok alatt védett helyet talál egy utolsó, száraz fotóhoz.",
+                "ro": "Sub turnuri veți găsi adăpost pentru o ultimă fotografie la uscat.",
+                "en": "You can find shelter under the towers for one last photo in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei irischem Regen unerlässlich, um Schlammspritzer zu vermeiden.",
+              "Vermeiden Sie abrupte Bremsmanöver auf den glatten Steinflächen im Stadtzentrum.",
+              "Wasserdichte Handschuhe halten Ihre Hände warm und griffig am Lenker.",
+              "Die Sicht kann bei starkem Regen stark eingeschränkt sein; nutzen Sie auch tagsüber Licht."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen az ír esőben a sárfelcsapódás elkerülésére.",
+              "Kerülje a hirtelen fékezést a városközpont sima kőfelületein.",
+              "A vízálló kesztyű melegen tartja a kezét és biztos fogást ad a kormányon.",
+              "Heves esőben a látási viszonyok romlanak; használjon lámpát nappal is."
+            ],
+            "ro": [
+              "Apărătorile sunt esențiale în ploaia irlandeză pentru a evita stropii de noroi.",
+              "Evitați frânările bruște pe suprafețele de piatră netede din centrul orașului.",
+              "Mănușile impermeabile vă mențin mâinile calde și oferă aderență pe ghidon.",
+              "Vizibilitatea poate fi redusă în ploaie abundentă; folosiți lumini și ziua."
+            ],
+            "en": [
+              "Mudguards are essential in Irish rain to avoid being sprayed with road grime.",
+              "Avoid abrupt braking on the smooth stone surfaces in the town centre.",
+              "Waterproof gloves will keep your hands warm and provide a better grip on the bars.",
+              "Visibility can drop significantly in heavy rain; use lights even during the day."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frostige Wintertour durch Ashbourne beginnt am Killegland Square. Wir wärmen uns kurz in der St. Declan’s Church auf, bevor wir gegen den kalten Wind zum Rath Cross und den Donaghmore-Ruinen treten. Das Tageslicht schwindet schnell, während wir den Broadmeadow River entlangfahren. Die Killegland Towers markieren das Ende unserer Tour im Schein der Straßenlaternen.",
+            "hu": "Egy fagyos téli túra Ashbourne-ban a Killegland Square-en kezdődik. Rövid bemelegítés a Szent Declan-templomban, majd a hideg szélben tekerünk a Rath kereszt és a Donaghmore romjai felé. A nappali fény gyorsan fogy, miközben a Broadmeadow-folyó mellett haladunk. A Killegland Towers a túránk végét jelzi az utcai lámpák fényében.",
+            "ro": "Un tur de iarnă geros în Ashbourne începe în Killegland Square. Ne încălzim scurt în biserica St. Declan înainte de a pedala contra vântului rece spre Rath Cross și ruinele Donaghmore. Lumina zilei dispare repede în timp ce mergem pe lângă râul Broadmeadow. Killegland Towers marchează sfârșitul turului nostru la lumina felinarelor.",
+            "en": "A frosty winter ride through Ashbourne starts at Killegland Square. We warm up briefly in St. Declan's Church before pedalling against the cold wind towards Rath Cross and Donaghmore Ruins. Daylight fades quickly as we cycle along the Broadmeadow River. Killegland Towers mark the end of our tour under the glow of streetlights."
+          },
+          "stops": [
+            {
+              "name": "Killegland Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in schattigen Ecken des Platzes am frühen Morgen.",
+                "hu": "Kora reggel ügyeljen a jegesedésre a tér árnyékos sarkaiban.",
+                "ro": "Atenție la gheață în colțurile umbrite ale pieței la prima oră a dimineții.",
+                "en": "Watch out for black ice in shaded corners of the square early in the morning."
+              }
+            },
+            {
+              "name": "St. Declan's Church",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Finger für die Weiterfahrt zu lockern.",
+                "hu": "Jó hely az ujjak átmozgatására a továbbhaladás előtt.",
+                "ro": "Un loc bun pentru a vă dezmorți degetele înainte de a continua drumul.",
+                "en": "A good place to flex your fingers and get the blood flowing before moving on."
+              }
+            },
+            {
+              "name": "Rath Cross Monument",
+              "tip_5lang": {
+                "de": "Der Wind weht hier oft stärker; ziehen Sie die Kapuze unter den Helm.",
+                "hu": "Itt gyakran erősebb a szél; húzza a kapucnit a sisak alá.",
+                "ro": "Vântul bate adesea mai tare aici; puneți gluga sub cască.",
+                "en": "The wind often blows stronger here; pull your hood up under your helmet."
+              }
+            },
+            {
+              "name": "Donaghmore Church Ruins & Tower",
+              "tip_5lang": {
+                "de": "Besichtigen Sie diesen Ort vor 16 Uhr, da es auf den Landwegen dunkel wird.",
+                "hu": "Nézze meg ezt a helyet 16 óra előtt, mert az utakon hamar sötét lesz.",
+                "ro": "Vizitați acest loc înainte de ora 16:00, deoarece se întunecă repede pe drum.",
+                "en": "Visit this spot before 4 PM as it gets dark quickly on the rural lanes."
+              }
+            },
+            {
+              "name": "Broadmeadow River Walk",
+              "tip_5lang": {
+                "de": "In der Dämmerung ist gute Beleuchtung auf diesem ufernahen Weg Pflicht.",
+                "hu": "Szürkületben a jó világítás kötelező ezen a vízparti úton.",
+                "ro": "La amurg, iluminarea bună este obligatorie pe acest drum de lângă mal.",
+                "en": "In the twilight, good lighting is mandatory on this riverside path."
+              }
+            },
+            {
+              "name": "Killegland Towers",
+              "tip_5lang": {
+                "de": "Die Beleuchtung der Türme bietet einen schönen Abschluss für Winterfotos.",
+                "hu": "A tornyok kivilágítása szép lezárást ad a téli fotókhoz.",
+                "ro": "Iluminarea turnurilor oferă un final frumos pentru fotografiile de iarnă.",
+                "en": "The lighting of the towers provides a beautiful finish for winter photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie reflektierende Kleidung, da die Sicht im Winter ab 15:30 Uhr abnimmt.",
+              "Batterien von Fahrradlichtern entladen sich bei Kälte schneller; nehmen Sie Ersatz mit.",
+              "Vermeiden Sie die Feldwege nach Einbruch der Dunkelheit wegen fehlender Beleuchtung.",
+              "Ein warmer Schluck aus der Thermoskanne hilft gegen den eisigen Fahrtwind."
+            ],
+            "hu": [
+              "Viseljen fényvisszaverő ruházatot, mert a látási viszonyok 15:30 után romlanak.",
+              "A lámpák elemei hidegben gyorsabban merülnek; vigyen tartalékot.",
+              "Sötétedés után kerülje a kivilágítatlan mezei utakat.",
+              "Egy meleg korty a termoszból sokat segít a jeges menetszél ellen."
+            ],
+            "ro": [
+              "Purtați haine reflectorizante, deoarece vizibilitatea scade după ora 15:30 iarna.",
+              "Bateriile luminilor se descarcă mai repede la frig; luați rezerve.",
+              "Evitați drumurile de țară după lăsarea întunericului din cauza lipsei iluminatului.",
+              "O gură de ceai cald din termos ajută împotriva curentului de aer înghețat."
+            ],
+            "en": [
+              "Wear reflective clothing as visibility drops significantly after 3:30 PM in winter.",
+              "Bike light batteries drain faster in the cold; bring spares or charge fully.",
+              "Avoid rural lanes after dark due to the complete lack of street lighting.",
+              "A warm drink from a flask helps combat the freezing wind chill while riding."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1462,206 @@
           "Use a navigation app to find the best routes between clusters.",
           "Ireland drives on the left. Drive carefully if you're not used to it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im komfortablen Auto durch das verregnete Umland von Ashbourne: Wir starten bei den Donaghmore-Ruinen und fahren zum Rath Cross. Die Parkplätze am Killegland Square ermöglichen einen fast trockenen Zugang zu den Geschäften und der St. Declan’s Church. Der Broadmeadow River Walk wird zum kurzen Zwischenstopp, bevor wir den Nachmittag im Emerald Park verbringen und den Tag beim Abendessen im Zentrum ausklingen lassen.",
+            "hu": "Kényelmes autóval Ashbourne esős környékén: a Donaghmore romoknál kezdünk, majd a Rath kereszthez hajtunk. A Killegland Square parkolói szinte száraz hozzáférést biztosítanak az üzletekhez és a Szent Declan-templomhoz. A Broadmeadow River Walk csak egy rövid megálló, mielőtt a délutánt az Emerald Parkban töltenénk, a napot pedig egy központi vacsorával zárnánk.",
+            "ro": "Cu mașina confortabilă prin împrejurimile ploioase din Ashbourne: începem la ruinele Donaghmore și mergem spre Rath Cross. Parcarea de la Killegland Square permite accesul aproape uscat la magazine și la biserica St. Declan. Broadmeadow River Walk devine o scurtă oprire înainte de a petrece după-amiaza la Emerald Park și de a încheia ziua cu o cină în centru.",
+            "en": "In a comfortable car through the rainy Ashbourne countryside: we start at Donaghmore Ruins and drive to Rath Cross. Parking at Killegland Square allows for almost dry access to shops and St. Declan's Church. Broadmeadow River Walk is a brief stop before spending the afternoon at Emerald Park and ending the day with dinner in the centre."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Donaghmore Church Ruins",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingangstor, um den Weg im Regen kurzzuhalten.",
+                "hu": "Parkoljon közel a bejárati kapuhoz, hogy lerövidítse az utat az esőben.",
+                "ro": "Parcați aproape de poarta de intrare pentru a scurta drumul prin ploaie.",
+                "en": "Park close to the entry gate to keep your walk in the rain as short as possible."
+              }
+            },
+            {
+              "name": "Rath Cross Monument",
+              "tip_5lang": {
+                "de": "Sie können das Denkmal gut vom geparkten Auto aus betrachten.",
+                "hu": "Az emlékművet jól megtekintheti a leparkolt autóból is.",
+                "ro": "Puteți vedea monumentul foarte bine din mașina parcată.",
+                "en": "You can view the monument quite well from the comfort of your parked car."
+              }
+            },
+            {
+              "name": "Cluster B: Killegland Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus des Einkaufszentrums für einen völlig trockenen Ausstieg.",
+                "hu": "Használja a bevásárlóközpont parkolóházát a teljesen száraz kiszálláshoz.",
+                "ro": "Folosiți parcarea etajată a centrului comercial pentru o coborâre complet uscată.",
+                "en": "Use the shopping centre's multi-storey car park for a completely dry exit."
+              }
+            },
+            {
+              "name": "St. Declan's Church",
+              "tip_5lang": {
+                "de": "Direkt vor der Kirche gibt es oft Kurzzeitparkplätze für Besucher.",
+                "hu": "Közvetlenül a templom előtt gyakran vannak rövid távú parkolók a látogatóknak.",
+                "ro": "Există adesea locuri de parcare pe termen scurt chiar în fața bisericii.",
+                "en": "There are often short-stay parking spots available right in front of the church."
+              }
+            },
+            {
+              "name": "Broadmeadow River Walk",
+              "tip_5lang": {
+                "de": "Wählen Sie den Parkplatz am nördlichen Ende für den kürzesten Weg zum Wasser.",
+                "hu": "Válassza az északi végén lévő parkolót a vízhez vezető legrövidebb úthoz.",
+                "ro": "Alegeți parcarea de la capătul nordic pentru cel mai scurt drum spre apă.",
+                "en": "Choose the car park at the northern end for the shortest walk to the water."
+              }
+            },
+            {
+              "name": "Cluster C: Emerald Park",
+              "tip_5lang": {
+                "de": "Bringen Sie Regenponchos mit; viele Attraktionen sind im Freien.",
+                "hu": "Hozzon esőponchót; a legtöbb látnivaló szabadtéri.",
+                "ro": "Aduceți pelerine de ploaie; multe atracții sunt în aer liber.",
+                "en": "Bring rain ponchos as many of the park's attractions are outdoors."
+              }
+            },
+            {
+              "name": "Dinner in the Town Centre",
+              "tip_5lang": {
+                "de": "Viele Restaurants bieten Parkplätze im Hinterhof an; fragen Sie bei der Reservierung.",
+                "hu": "Sok étterem kínál parkolást a hátsó udvarban; kérdezze meg foglaláskor.",
+                "ro": "Multe restaurante oferă parcare în curtea din spate; întrebați la rezervare.",
+                "en": "Many restaurants offer courtyard parking; ask when making your reservation."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bei starkem Regen kann es auf der N2 zu Aquaplaning kommen; fahren Sie vorsichtig.",
+              "Die Parkhäuser im Zentrum sind an Samstagen oft schnell belegt.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto, besonders an abgelegenen Orten wie Donaghmore.",
+              "Nutzen Sie die App des Emerald Parks, um über wetterbedingte Schließungen informiert zu sein."
+            ],
+            "hu": [
+              "Heves esőben az N2-es úton vízátfolyások lehetnek; vezessen óvatosan.",
+              "A központi parkolóházak szombatonként hamar megtelhetnek.",
+              "Ne hagyjon értéket látható helyen az autóban, különösen a távolabbi helyeken.",
+              "Használja az Emerald Park alkalmazását az időjárás miatti lezárások ellenőrzésére."
+            ],
+            "ro": [
+              "În caz de ploaie torențială, pe N2 poate apărea acvaplanarea; conduceți cu grijă.",
+              "Parcările etajate din centru se umplu adesea rapid în zilele de sâmbătă.",
+              "Nu lăsați obiecte de valoare la vedere în mașină, mai ales în locuri izolate.",
+              "Folosiți aplicația Emerald Park pentru a verifica închiderile cauzate de vreme."
+            ],
+            "en": [
+              "During heavy rain, surface water can collect on the N2 road; drive with caution.",
+              "The multi-storey car parks in the centre often fill up quickly on Saturdays.",
+              "Do not leave valuables visible in your car, especially at quieter spots like Donaghmore.",
+              "Check the Emerald Park app for updates on any weather-related ride closures."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Unsere winterliche Spritztour beginnt an den frostigen Donaghmore-Ruinen. Nach einem kurzen Halt am Rath Cross parken wir gemütlich am Killegland Square für einen Einkaufsbummel und den Besuch der St. Declan’s Church. Den Broadmeadow River erleben wir im klaren Winterlicht, bevor wir den Nachmittag im Emerald Park verbringen. Ein warmes Abendessen im Stadtzentrum rundet den frostigen Tag perfekt ab.",
+            "hu": "Téli autós kirándulásunk a fagyos Donaghmore romoknál kezdődik. A Rath keresztnél tett rövid megálló után kényelmesen leparkolunk a Killegland Square-en egy kis vásárláshoz és a Szent Declan-templomhoz. A Broadmeadow-folyót tiszta téli fényben látjuk, mielőtt a délutánt az Emerald Parkban töltenénk. Egy meleg vacsora a városközpontban tökéletesen zárja a napot.",
+            "ro": "Excursia noastră de iarnă începe la ruinele înghețate de la Donaghmore. După o scurtă oprire la Rath Cross, parcăm confortabil la Killegland Square pentru cumpărături și vizitarea bisericii St. Declan. Vedem râul Broadmeadow în lumina clară de iarnă, apoi petrecem după-amiaza la Emerald Park. O cină caldă în centrul orașului încheie perfect ziua geroasă.",
+            "en": "Our winter driving tour begins at the frosty Donaghmore Ruins. After a quick stop at Rath Cross, we park conveniently at Killegland Square for some shopping and a visit to St. Declan's Church. We experience the Broadmeadow River in the clear winter light before heading to Emerald Park. A warm dinner in the town centre rounds off the frosty day perfectly."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Donaghmore Church Ruins",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen; die Seitenstreifen können am Morgen vereist sein.",
+                "hu": "Vigyázzon kiszálláskor; az útpadka reggelente jeges lehet.",
+                "ro": "Atenție la coborâre; marginile drumului pot fi înghețate dimineața.",
+                "en": "Be careful when getting out of the car; the verges can be icy in the mornings."
+              }
+            },
+            {
+              "name": "Rath Cross Monument",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, während Sie das Denkmal betrachten.",
+                "hu": "Ne járassa feleslegesen a motort, miközben az emlékművet nézi.",
+                "ro": "Nu lăsați motorul pornit inutil în timp ce vizualizați monumentul.",
+                "en": "Avoid idling your engine unnecessarily while viewing the monument."
+              }
+            },
+            {
+              "name": "Cluster B: Killegland Square",
+              "tip_5lang": {
+                "de": "Das Parkhaus ist im Winter wärmer und schützt das Auto vor Frost.",
+                "hu": "A parkolóház télen melegebb, és védi az autót a fagytól.",
+                "ro": "Parcarea etajată este mai caldă iarna și protejează mașina de îngheț.",
+                "en": "The multi-storey car park is warmer in winter and keeps your car frost-free."
+              }
+            },
+            {
+              "name": "St. Declan's Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im beheizten Kirchenschiff.",
+                "hu": "Élvezze a nyugalmat a fűtött templomhajóban.",
+                "ro": "Bucurați-vă de liniște în naosul încălzit al bisericii.",
+                "en": "Enjoy the peaceful atmosphere inside the heated nave of the church."
+              }
+            },
+            {
+              "name": "Broadmeadow River Walk",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Frost sehr glatt sein; gehen Sie vorsichtig zum Weg.",
+                "hu": "A parkoló fagyban nagyon csúszós lehet; óvatosan menjen az útig.",
+                "ro": "Parcarea poate fi foarte alunecoasă la îngheț; mergeți cu grijă spre potecă.",
+                "en": "The car park can be very slippery in freezing weather; walk carefully to the path."
+              }
+            },
+            {
+              "name": "Cluster C: Emerald Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie die winterlichen Öffnungszeiten; der Park schließt oft früher.",
+                "hu": "Ellenőrizze a téli nyitvatartást; a park gyakran korábban zár.",
+                "ro": "Verificați programul de iarnă; parcul se închide adesea mai devreme.",
+                "en": "Check the winter opening hours as the park often closes earlier in the season."
+              }
+            },
+            {
+              "name": "Dinner in the Town Centre",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch in der Nähe des Kamins, falls vorhanden.",
+                "hu": "Foglaljon asztalt a kandalló közelében, ha van ilyen.",
+                "ro": "Rezervați o masă lângă șemineu, dacă restaurantul are unul.",
+                "en": "Book a table near the fireplace if the restaurant has one available."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Wischwasser für Minustemperaturen geeignet ist.",
+              "Die Dämmerung beginnt im Dezember bereits ab 15:45 Uhr; prüfen Sie Ihre Beleuchtung.",
+              "Parken Sie in den überdachten Bereichen des Zentrums, um Scheibenkratzen zu vermeiden.",
+              "Einige Zufahrtswege zu Donaghmore können nach Schneefall schlecht geräumt sein."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a szélvédőmosó folyadék fagyálló.",
+              "Decemberben már 15:45-kor szürkülni kezd; ellenőrizze a lámpákat.",
+              "Parkoljon fedett helyen a központban, hogy elkerülje a szélvédő jegesedését.",
+              "A Donaghmore-hoz vezető utak némelyike hóesés után nehezen járható lehet."
+            ],
+            "ro": [
+              "Asigurați-vă că lichidul de parbriz este rezistent la îngheț.",
+              "Amurgul începe încă de la 15:45 în decembrie; verificați farurile.",
+              "Parcați în zonele acoperite din centru pentru a evita răzuirea parbrizului.",
+              "Unele drumuri spre Donaghmore pot fi greu practicabile după ninsoare."
+            ],
+            "en": [
+              "Ensure your screenwash is rated for sub-zero temperatures before you start.",
+              "Twilight begins as early as 3:45 PM in December; check your car's lights.",
+              "Park in the covered areas of the town centre to avoid having to scrape the windows.",
+              "Some of the side roads to Donaghmore may be poorly salted after a snowfall."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1430,6 +1994,170 @@
           "Signal for the driver as your bus approaches.",
           "Say 'thank you' to the driver when you get off - it's a custom in Ireland."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus durch das regnerische Ashbourne: Wir starten am Killegland Square und nutzen die Wartehäuschen als Schutz. Nach dem Besuch der St. Declan’s Church bringt uns der Bus zu den Donaghmore-Ruinen. Wir kehren zum Rath Cross zurück und wagen einen kurzen, erfrischenden Spaziergang am Broadmeadow River, bevor wir den Tag im trockenen Bus beenden.",
+            "hu": "Busszal az esős Ashbourne-ban: a Killegland Square-en kezdünk, kihasználva a buszvárók védelmét. A Szent Declan-templom után a busz a Donaghmore romokhoz visz minket. Visszatérünk a Rath kereszthez, majd teszünk egy rövid, frissítő sétát a Broadmeadow-folyónál, mielőtt a száraz buszban fejeznénk be a napot.",
+            "ro": "Cu autobuzul prin Ashbourne-ul ploios: începem la Killegland Square, folosind adăposturile stațiilor. După vizitarea bisericii St. Declan, autobuzul ne duce la ruinele Donaghmore. Revenim la Rath Cross și încercăm o scurtă plimbare pe râul Broadmeadow înainte de a încheia ziua în autobuzul uscat.",
+            "en": "By bus through rainy Ashbourne: we start at Killegland Square, using the bus shelters for cover. After visiting St. Declan's Church, the bus takes us towards Donaghmore Ruins. We return to Rath Cross and brave a short, refreshing walk along the Broadmeadow River before finishing the day in the dry bus."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Killegland Square",
+              "tip_5lang": {
+                "de": "Das große Wartehäuschen am Haupteingang bietet den besten Schutz.",
+                "hu": "A főbejáratnál lévő nagy váróterem nyújtja a legjobb védelmet.",
+                "ro": "Adăpostul mare de la intrarea principală oferă cea mai bună protecție.",
+                "en": "The large bus shelter at the main entrance provides the best protection."
+              }
+            },
+            {
+              "name": "St. Declan's Church",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nur wenige Schritte vom Kircheneingang entfernt.",
+                "hu": "A buszmegálló csak néhány lépésre van a templom bejáratától.",
+                "ro": "Stația de autobuz este la doar câțiva pași de intrarea în biserică.",
+                "en": "The bus stop is located only a few steps away from the church entrance."
+              }
+            },
+            {
+              "name": "Cluster B: Donaghmore Church Ruins",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan genau; das Wartehäuschen hier ist sehr klein.",
+                "hu": "Pontosan ellenőrizze a menetrendet; az itteni váróterem nagyon kicsi.",
+                "ro": "Verificați cu atenție orarul; adăpostul de aici este foarte mic.",
+                "en": "Check the schedule carefully; the shelter at this location is very basic."
+              }
+            },
+            {
+              "name": "Rath Cross Monument",
+              "tip_5lang": {
+                "de": "Steigen Sie nur aus, wenn der Regen nachlässt; die Haltestelle ist offen.",
+                "hu": "Csak akkor szálljon le, ha alábbhagy az eső; a megálló fedetlen.",
+                "ro": "Coborâți doar dacă ploaia se mai oprește; stația este descoperită.",
+                "en": "Only dismount if the rain eases off; this particular stop is unsheltered."
+              }
+            },
+            {
+              "name": "Cluster C: Broadmeadow River Walk",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus für den Rückweg, sobald die Kleidung klamm wird.",
+                "hu": "Szálljon buszra a visszaúthoz, amint a ruházata átnedvesedik.",
+                "ro": "Urcați în autobuz pentru întoarcere imediat ce hainele devin umede.",
+                "en": "Take the bus for the return journey as soon as your clothes feel damp."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Ihre Leap Card griffbereit, um Verzögerungen beim Einsteigen zu vermeiden.",
+              "Bedenken Sie, dass Busse bei starkem Regen oft Verspätung haben.",
+              "Die Fenster in den Bussen können bei Regen beschlagen; setzen Sie sich nach vorne.",
+              "Nutzen Sie die Echtzeit-App von Bus Éireann für aktuelle Abfahrtszeiten."
+            ],
+            "hu": [
+              "Tartsa kéznél a Leap Cardját, hogy elkerülje a késedelmet a felszálláskor.",
+              "Vegye figyelembe, hogy heves esőben a buszok gyakran késhetnek.",
+              "A buszok ablakai esőben bepárásodhatnak; érdemes előre ülni.",
+              "Használja a Bus Éireann valós idejű alkalmazását a pontos indulásokhoz."
+            ],
+            "ro": [
+              "Țineți cardul Leap la îndemână pentru a evita întârzierile la îmbarcare.",
+              "Rețineți că autobuzele pot avea întârzieri în timpul ploilor torențiale.",
+              "Geamurile autobuzelor se pot aburi în timpul ploii; așezați-vă în față.",
+              "Folosiți aplicația în timp real Bus Éireann pentru plecările exacte."
+            ],
+            "en": [
+              "Keep your Leap Card ready to avoid delays when boarding the bus.",
+              "Keep in mind that buses often run late during periods of heavy rain.",
+              "Bus windows can fog up in the rain; sit near the front for better views.",
+              "Use the Bus Éireann real-time app for the most accurate departure times."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Busfahrt durch Ashbourne beginnt am frostigen Killegland Square. Nach dem Besuch der St. Declan’s Church bringt uns der beheizte Bus zu den Donaghmore-Ruinen, die im fahlen Sonnenlicht glänzen. Wir kehren zum Rath Cross zurück und genießen die klare Luft am Broadmeadow River, bevor wir uns auf der Rückfahrt im warmen Transit entspannen.",
+            "hu": "Téli buszos utazás Ashbourne-ban a fagyos Killegland Square-en kezdődik. A Szent Declan-templom után a fűtött busz a Donaghmore romokhoz visz, amelyek a halvány napsütésben csillognak. Visszatérünk a Rath kereszthez, majd élvezzük a friss levegőt a Broadmeadow-folyónál, mielőtt a meleg buszban pihennénk meg.",
+            "ro": "O călătorie de iarnă cu autobuzul prin Ashbourne începe în Killegland Square. După vizitarea bisericii St. Declan, autobuzul încălzit ne duce la ruinele Donaghmore, care strălucesc în lumina slabă a soarelui. Revenim la Rath Cross și ne bucurăm de aerul curat la râul Broadmeadow înainte de a ne relaxa în tranzitul cald.",
+            "en": "A winter bus journey through Ashbourne starts at the frosty Killegland Square. After visiting St. Declan's Church, the heated bus takes us to Donaghmore Ruins, glistening in the pale sunlight. We return to Rath Cross and enjoy the crisp air at Broadmeadow River before relaxing in the warm transit on the way back."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Killegland Square",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Einkaufszentrum, bis die App den Bus als 'nah' anzeigt.",
+                "hu": "Maradjon a bevásárlóközpontban, amíg az alkalmazás nem jelzi a busz közelségét.",
+                "ro": "Rămâneți în centrul comercial până când aplicația arată că autobuzul este aproape.",
+                "en": "Stay inside the shopping centre until the app shows the bus is close by."
+              }
+            },
+            {
+              "name": "St. Declan's Church",
+              "tip_5lang": {
+                "de": "Ein kurzer, zügiger Gang zur Haltestelle hält den Körper warm.",
+                "hu": "Egy rövid, tempós séta a megállóig melegen tartja a testet.",
+                "ro": "O plimbare scurtă și vioaie până la stație menține corpul cald.",
+                "en": "A short, brisk walk to the bus stop will help keep your body temperature up."
+              }
+            },
+            {
+              "name": "Cluster B: Donaghmore Church Ruins",
+              "tip_5lang": {
+                "de": "Beachten Sie, dass die Busfrequenz im Winter am späten Nachmittag sinken kann.",
+                "hu": "Vegye figyelembe, hogy télen a késő délutáni buszok ritkábban járhatnak.",
+                "ro": "Rețineți că frecvența autobuzelor poate scădea la sfârșitul după-amiezii iarna.",
+                "en": "Note that bus frequency may decrease in the late afternoon during winter."
+              }
+            },
+            {
+              "name": "Rath Cross Monument",
+              "tip_5lang": {
+                "de": "Warten Sie auf der windabgewandten Seite des Straßenschildes.",
+                "hu": "Várjon az útjelző tábla szélvédett oldalán.",
+                "ro": "Așteptați pe partea ferită de vânt a indicatorului rutier.",
+                "en": "Wait on the lee side of the road sign to shield yourself from the wind chill."
+              }
+            },
+            {
+              "name": "Cluster C: Broadmeadow River Walk",
+              "tip_5lang": {
+                "de": "Kehren Sie rechtzeitig zur Haltestelle zurück, bevor es um 16:30 Uhr dunkel wird.",
+                "hu": "Térjen vissza időben a megállóba, mielőtt 16:30-kor sötét lesz.",
+                "ro": "Reveniți la stație la timp, înainte de a se întuneca la ora 16:30.",
+                "en": "Return to the bus stop in good time before it gets dark at 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Heizung in den Bussen ist im Winter meist sehr angenehm.",
+              "Achten Sie auf geänderte Fahrpläne während der Weihnachtsferien.",
+              "Tragen Sie Handschuhe, da die Metallhaltestangen in den Bussen sehr kalt sein können.",
+              "Vermeiden Sie das Warten an unbeleuchteten Haltestellen nach Einbruch der Dunkelheit."
+            ],
+            "hu": [
+              "A buszok fűtése télen általában nagyon kellemes.",
+              "Ügyeljen a karácsonyi időszakban megváltozott menetrendekre.",
+              "Viseljen kesztyűt, mert a buszok fém kapaszkodói nagyon hidegek lehetnek.",
+              "Sötétedés után kerülje a kivilágítatlan megállókban való várakozást."
+            ],
+            "ro": [
+              "Încălzirea în autobuze este de obicei foarte plăcută în timpul iernii.",
+              "Fiți atenți la orarele modificate în timpul sărbătorilor de iarnă.",
+              "Purtați mănuși, deoarece barele de metal din autobuze pot fi foarte reci.",
+              "Evitați să așteptați în stații neiluminate după lăsarea întunericului."
+            ],
+            "en": [
+              "The heating on buses is usually very efficient and comfortable in winter.",
+              "Watch out for modified timetables during the Christmas holiday period.",
+              "Wear gloves as the metal handrails on the buses can be very cold to touch.",
+              "Avoid waiting at unlit bus stops after dark for safety and comfort."
+            ]
+          }
+        }
       }
     }
   }

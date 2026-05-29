@@ -338,6 +338,170 @@
           "Many museums are free to enter, but check opening times.",
           "Keep an eye out for the unique public art scattered throughout the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens huschen wir über die Peace Gardens direkt in die trockene Millennium Gallery. Mittags bietet die Kathedrale Schutz vor dem englischen Regen. Nachmittags verbringen wir viel Zeit im Weston Park Museum, einem idealen Zufluchtsort. Den Abschluss bilden die viktorianischen Gewächshäuser im Botanischen Garten, wo wir trotz Schauer im Trockenen zwischen exotischen Pflanzen spazieren.",
+            "hu": "Reggel a Peace Gardens szökőkútjai után a Millennium Gallery fedett termeiben keresünk menedéket. Délben a katedrális békéje óv meg az esőtől. Délután a Weston Park Museum kiállításai között maradunk szárazon. A napot a Botanikus Kert hatalmas üvegpalotáiban zárjuk, ahol az egzotikus növények között sétálva elfelejthetjük a kinti szürkeséget és a folyamatos csapadékot.",
+            "ro": "Dimineața trecem rapid prin Peace Gardens spre Millennium Gallery pentru a sta la adăpost. La prânz, Catedrala oferă un refugiu liniștit și uscat. După-amiaza este dedicată Muzeului Weston Park, perfect pentru orele ploioase. Încheiem la Grădina Botanică, unde pavilioanele de sticlă victoriene ne permit să explorăm flora exotică fără a ne uda, ascultând ropotul ploii pe acoperiș.",
+            "en": "Morning starts with a quick dash through Peace Gardens to the dry Millennium Gallery. At midday, the Cathedral provides a spiritual and dry sanctuary. Afternoon is best spent inside the extensive Weston Park Museum. We finish at the Botanical Gardens, using the magnificent Victorian glass pavilions to stay dry while enjoying the lush greenery and avoiding the Sheffield drizzle."
+          },
+          "stops": [
+            {
+              "name": "Peace Gardens",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Durchgang zum Winter Garden, um trocken zu bleiben.",
+                "hu": "Használja a télikertbe vezető átjárót, hogy szárazon maradjon.",
+                "ro": "Folosiți pasajul către Winter Garden pentru a rămâne uscat.",
+                "en": "Use the Winter Garden walkway next door to stay undercover."
+              }
+            },
+            {
+              "name": "Millennium Gallery",
+              "tip_5lang": {
+                "de": "Perfekter Ort für Regenpausen mit wechselnden Ausstellungen.",
+                "hu": "Tökéletes hely az eső elől, változatos kiállításokkal.",
+                "ro": "Locul perfect pentru pauze de ploaie, cu expoziții variate.",
+                "en": "Ideal rainy day refuge with plenty of indoor space and art."
+              }
+            },
+            {
+              "name": "Sheffield Cathedral",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Glasmalerei, während es draußen regnet.",
+                "hu": "Csodálja meg az üvegablakokat, miközben kint esik.",
+                "ro": "Admirați vitraliile în timp ce afară plouă torențial.",
+                "en": "Admire the stained glass while sheltered from the downpour."
+              }
+            },
+            {
+              "name": "Weston Park Museum",
+              "tip_5lang": {
+                "de": "Großes Museum mit Café, ideal für lange Regenschauer.",
+                "hu": "Tágas múzeum kávézóval, ideális hosszú záporok idejére.",
+                "ro": "Muzeu spațios cu cafenea, ideal pentru ploi de durată.",
+                "en": "Spacious museum with a cafe, perfect for long showers."
+              }
+            },
+            {
+              "name": "Sheffield Botanical Gardens",
+              "tip_5lang": {
+                "de": "Die Glaspavillons bieten 100% Regenschutz beim Rundgang.",
+                "hu": "Az üvegpavilonok teljes védelmet nyújtanak az eső ellen.",
+                "ro": "Pavilioanele de sticlă oferă protecție totală contra ploii.",
+                "en": "The glass pavilions offer 100% shelter during your visit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Verbindung zwischen Millennium Gallery und Winter Garden.",
+              "Viele Museen in Sheffield sind kostenlos und bieten idealen Unterschlupf.",
+              "Die Stadt ist hügelig; bei starkem Regen können Wege rutschig sein.",
+              "Tragen Sie wasserfeste Schuhe für die Parks."
+            ],
+            "hu": [
+              "Használja ki a Millennium Gallery és a Winter Garden közötti fedett utat.",
+              "Sheffield ingyenes múzeumai kiváló menedéket nyújtanak esőben.",
+              "A város dombos, a vizes aszfalt és a macskakő csúszós lehet.",
+              "Vízálló cipő ajánlott a parkok és kertek látogatásához."
+            ],
+            "ro": [
+              "Profită de legătura acoperită dintre Millennium Gallery și Winter Garden.",
+              "Muzeele gratuite din Sheffield sunt refugii ideale pe timp de ploaie.",
+              "Orașul are multe pante; trotuarele pot deveni alunecoase când sunt ude.",
+              "Încălțămintea impermeabilă este esențială pentru zonele verzi."
+            ],
+            "en": [
+              "Take advantage of the indoor link between the Gallery and Winter Garden.",
+              "Most major museums are free and offer excellent shelter from the rain.",
+              "Sheffield is hilly; be careful on slippery pavements when it's wet.",
+              "Waterproof footwear is recommended for the garden and park sections."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt an den Peace Gardens mit beleuchteten Brunnen. In der Millennium Gallery wärmen wir uns bei Kunst auf. Die Kathedrale bietet mittags eine besinnliche Atmosphäre. Im Weston Park Museum genießen wir die Wärme und Kultur, bevor wir den Tag im Botanischen Garten beenden. Die Glaspavillons sind auch im Winter angenehm temperiert und bieten grünes Leben im grauen Frost.",
+            "hu": "A deres reggel a Peace Gardens díszkivilágításánál kezdődik. A Millennium Gallery kiállításai között melegszünk fel, majd délben a katedrális csendjét élvezzük. Délután a Weston Park Museum fűtött termeiben időzünk. A nap végén a Botanikus Kert viktoriánus üvegházai nyújtanak menedéket, ahol a téli fagy ellenére is burjánzó zöld növényzet vár ránk a korai sötétedés előtt.",
+            "ro": "O dimineață geroasă începe la Peace Gardens sub luminile de iarnă. Ne încălzim la Millennium Gallery printre opere de artă. La prânz, Catedrala oferă o atmosferă caldă și solemnă. După-amiaza o petrecem în muzeul din Weston Park, feriți de frig. Încheiem ziua la Grădina Botanică, unde serele victoriene rămân o oază de verdeață temperată chiar și în cele mai reci zile.",
+            "en": "A frosty morning starts at Peace Gardens with its winter lights. Warm up inside the Millennium Gallery before visiting the atmospheric Cathedral at midday. Afternoon is spent in the heated galleries of Weston Park Museum. We conclude at the Botanical Gardens, where the temperate glass pavilions provide a lush green escape from the winter chill and the early Yorkshire sunset."
+          },
+          "stops": [
+            {
+              "name": "Peace Gardens",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in der Nähe der Wasserfontänen.",
+                "hu": "Vigyázzon a jegesedésre a szökőkutak környékén.",
+                "ro": "Atenție la porțiunile înghețate de lângă fântâni.",
+                "en": "Watch out for icy patches near the water fountains."
+              }
+            },
+            {
+              "name": "Millennium Gallery",
+              "tip_5lang": {
+                "de": "Der angrenzende Winter Garden ist im Winter herrlich warm.",
+                "hu": "A szomszédos Winter Garden télen is kellemesen meleg.",
+                "ro": "Winter Garden de alături este minunat de cald iarna.",
+                "en": "The adjacent Winter Garden is wonderfully warm in winter."
+              }
+            },
+            {
+              "name": "Sheffield Cathedral",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kathedrale für stimmungsvolle Adventskonzerte.",
+                "hu": "Látogassa meg a székesegyházat a hangulatos adventi koncertekért.",
+                "ro": "Vizitați catedrala pentru concerte de Advent atmosferice.",
+                "en": "Visit the cathedral for atmospheric Advent concerts."
+              }
+            },
+            {
+              "name": "Weston Park Museum",
+              "tip_5lang": {
+                "de": "Das gemütliche Café ist ideal zum Aufwärmen nach dem Park.",
+                "hu": "A hangulatos kávézó ideális felmelegedni a park után.",
+                "ro": "Cafeneaua primitoare este ideală pentru încălzire după parc.",
+                "en": "The cozy cafe is perfect for warming up after the park."
+              }
+            },
+            {
+              "name": "Sheffield Botanical Gardens",
+              "tip_5lang": {
+                "de": "Besuch vor 16 Uhr planen, da es früh dunkel wird.",
+                "hu": "Tervezze látogatását 16 óra elé a korai sötétedés miatt.",
+                "ro": "Planificați vizita înainte de ora 16, se întunecă devreme.",
+                "en": "Plan your visit before 4pm as it gets dark early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Schichten Sie Kleidung für den Wechsel zwischen Frost und Heizung.",
+              "Der Winter Garden ist eine der größten überdachten Flächen Europas.",
+              "Öffentliche Gebäude sind in Sheffield meist sehr gut beheizt."
+            ],
+            "hu": [
+              "A nap decemberben már délután 4 óra körül lemegy.",
+              "Réteges öltözködés javasolt a kinti fagy és a benti fűtés miatt.",
+              "A Winter Garden Európa egyik legnagyobb fedett városi tere.",
+              "A középületek Sheffieldben általában kiválóan fűtöttek."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:00 în timpul iernii.",
+              "Îmbrăcați-vă în straturi pentru tranziția ger-spații încălzite.",
+              "Winter Garden este una dintre cele mai mari zone acoperite din Europa.",
+              "Clădirile publice sunt de obicei foarte bine încălzite în Sheffield."
+            ],
+            "en": [
+              "Sunset is as early as 4pm in mid-winter; plan outdoor stops first.",
+              "Dress in layers to manage the frost outside and high heating inside.",
+              "The Winter Garden is one of the largest temperate glasshouses in Europe.",
+              "Public buildings in Sheffield are generally very well heated."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -670,6 +834,170 @@
           "Some paths are shared with pedestrians, so ride considerately.",
           "Plan your route in advance to make use of the best cycle lanes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir am Kelham Island Museum, wo wir viel Zeit drinnen verbringen. Die Fahrt zur Kathedrale erfordert Vorsicht auf nassen Schienen. Nach einem kurzen Stopp an den Peace Gardens radeln wir zu den schützenden Gewächshäusern des Botanischen Gartens. Den Abschluss bildet der Graves Park, wo wir auf befestigten Wegen bleiben, um den Schlamm zu meiden.",
+            "hu": "Az eső ellenére a Kelham Island Museum fedett ipari emlékei között kezdünk. A katedrális felé óvatosan tekerünk a vizes villamossíneken. A Peace Gardens után a Botanikus Kert üvegpalotái felé vesszük az irányt, ahol szárazon pihenhetünk. A napot a Graves Parkban zárjuk, szigorúan a szilárd burkolatú utakon maradva a sár elkerülése érdekében.",
+            "ro": "În ciuda ploii, începem la Muzeul Kelham Island, explorând interiorul industrial. Drumul spre Catedrală necesită atenție la șinele de tramvai ude. După o oprire la Peace Gardens, pedalăm spre serele Grădinii Botanice pentru adăpost. Încheiem în Graves Park, rămânând pe aleile asfaltate pentru a evita noroiul de pe iarbă.",
+            "en": "Despite the rain, we start at Kelham Island Museum with its indoor industrial exhibits. Cycling to the Cathedral requires care on wet tram tracks. After the Peace Gardens, we ride to the sheltering glass pavilions of the Botanical Gardens. We end at Graves Park, sticking to the paved paths to avoid the inevitable Yorkshire mud."
+          },
+          "stops": [
+            {
+              "name": "Kelham Island Museum",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer vorhanden; Ausstellungen sind drinnen.",
+                "hu": "Fedett kerékpártárolók elérhetőek; a kiállítások bent vannak.",
+                "ro": "Rasteluri de biciclete acoperite; expozițiile sunt la interior.",
+                "en": "Covered bike racks available; exhibits are all indoors."
+              }
+            },
+            {
+              "name": "Sheffield Cathedral",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf den Straßenbahnschienen vor der Tür.",
+                "hu": "Vigyázzon a fékezéssel a katedrális előtti villamossíneken.",
+                "ro": "Atenție la frânare pe șinele de tramvai din fața porții.",
+                "en": "Be extra careful braking on the tram tracks outside."
+              }
+            },
+            {
+              "name": "Peace Gardens",
+              "tip_5lang": {
+                "de": "Der polierte Stein kann bei Nässe extrem rutschig sein.",
+                "hu": "A polírozott kőburkolat nedvesen rendkívül csúszós lehet.",
+                "ro": "Piatra lustruită poate fi extrem de alunecoasă pe ploaie.",
+                "en": "The polished stonework can be extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Sheffield Botanical Gardens",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad am Eingang ab und nutzen Sie die Gewächshäuser.",
+                "hu": "Hagyja a biciklit a bejáratnál, és élvezze az üvegházakat.",
+                "ro": "Lăsați bicicleta la intrare și folosiți serele ca adăpost.",
+                "en": "Park your bike at the entrance and use the pavilions for cover."
+              }
+            },
+            {
+              "name": "Graves Park",
+              "tip_5lang": {
+                "de": "Meiden Sie unbefestigte Waldwege; diese werden sehr schlammig.",
+                "hu": "Kerülje a földutakat; ezek nagyon sárosak lesznek esőben.",
+                "ro": "Evitați potecile pământoase; devin foarte noroioase.",
+                "en": "Avoid unpaved woodland paths; they get very muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Sheffielder Regen ein Muss.",
+              "Vermeiden Sie das Überfahren von Straßenbahnschienen im spitzen Winkel.",
+              "Bremsen Sie auf nassem Kopfsteinpflaster frühzeitig und sanft.",
+              "Wasserdichte Packtaschen schützen Ihre Ausrüstung."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a sheffieldi esőben.",
+              "Kerülje a villamossíneken való áthaladást éles szögben.",
+              "Nedves macskakövön fékezzen korán és finoman.",
+              "A vízálló táskák megvédik felszerelését az ázástól."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii pe ploaia din Sheffield.",
+              "Evitați traversarea șinelor de tramvai sub un unghi ascuțit.",
+              "Frânați din timp și ușor pe piatra cubică udă.",
+              "Gențile impermeabile vă vor proteja echipamentul."
+            ],
+            "en": [
+              "Mudguards are essential in the rainy Sheffield weather.",
+              "Never cross tram tracks at a shallow angle when they are wet.",
+              "Brake early and gently on wet cobbles and stone surfaces.",
+              "Waterproof panniers will keep your belongings dry during the ride."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Start am Kelham Island Museum führt uns durch das industrielle Herz. Zur Kathedrale radeln wir bei klarer Winterluft. Nach einem Halt an den beleuchteten Peace Gardens suchen wir Wärme in den Gewächshäusern des Botanischen Gartens. Die Tour endet im Graves Park, wo wir den Winterhimmel genießen, bevor die Dunkelheit gegen 16 Uhr über die Hügel hereinbricht.",
+            "hu": "Fagyos kezdés a Kelham Island Museum ipari negyedében, majd tekerés a tiszta téli levegőn a katedrálishoz. A kivilágított Peace Gardens után a Botanikus Kert üvegházaiban melegszünk fel. A túrát a Graves Parkban zárjuk, élvezve a téli égboltot, mielőtt délután 4 körül a sötétség leszállna a sheffieldi dombokra.",
+            "ro": "Începem în frig la Muzeul Kelham Island, trecând prin zona industrială. Pedalăm spre Catedrală prin aerul tăios de iarnă. După o oprire la Peace Gardens, căutăm căldura serelor din Grădina Botanică. Turul se încheie în Graves Park, profitând de lumina puțină înainte ca întunericul să cuprindă dealurile la ora 16.",
+            "en": "A cold start at Kelham Island Museum takes us through the industrial heart. We cycle to the Cathedral in the crisp winter air. After seeing the lights at Peace Gardens, we find warmth in the Botanical Gardens' pavilions. The tour ends at Graves Park, enjoying the winter skyline before darkness falls over the hills around 4pm."
+          },
+          "stops": [
+            {
+              "name": "Kelham Island Museum",
+              "tip_5lang": {
+                "de": "Innenräume sind gut beheizt, ideal zum Aufwärmen.",
+                "hu": "A belső terek jól fűtöttek, ideális bemelegíteni.",
+                "ro": "Spațiile interioare sunt bine încălzite, ideale pentru dezmorțire.",
+                "en": "Interior galleries are well heated, ideal for warming up."
+              }
+            },
+            {
+              "name": "Sheffield Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Stopp reicht; das Innere ist eine warme Oase.",
+                "hu": "Elég egy rövid megálló; a belső tér meleg oázis.",
+                "ro": "O scurtă oprire e suficientă; interiorul e o oază caldă.",
+                "en": "A short stop is enough; the interior is a warm oasis."
+              }
+            },
+            {
+              "name": "Peace Gardens",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe auf den weiten Flächen.",
+                "hu": "Vigyázzon a fagyott foltokra a tágas tereken.",
+                "ro": "Atenție la gheața formată pe suprafețele largi.",
+                "en": "Watch for black ice on the wide open stone surfaces."
+              }
+            },
+            {
+              "name": "Sheffield Botanical Gardens",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pavillons als 'Basecamp' gegen den Frost.",
+                "hu": "Használja az üvegpalotákat bázisként a fagy ellen.",
+                "ro": "Folosiți pavilioanele ca refugiu împotrizva gerului.",
+                "en": "Use the pavilions as a warm basecamp against the chill."
+              }
+            },
+            {
+              "name": "Graves Park",
+              "tip_5lang": {
+                "de": "Gute Beleuchtung am Rad ist für den Rückweg ab 16 Uhr nötig.",
+                "hu": "Jó világítás kell a bringára a 16 óra utáni visszúthoz.",
+                "ro": "Luminile bune sunt vitale pentru întoarcerea după ora 16.",
+                "en": "Good bike lights are vital for the return journey after 4pm."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe für die Abfahrten.",
+              "Achten Sie auf Raureif und Glätte in schattigen Kurven.",
+              "Halten Sie die Kette gut geölt gegen Streusalz.",
+              "Planen Sie mehr Zeit für das An- und Ausziehen der Schichten ein."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt a lejtőkön.",
+              "Vigyázzon a zúzmarára és csúszós utakra az árnyékos kanyarokban.",
+              "Tartsa a láncot jól olajozottan az útszóró só ellen.",
+              "Szánjon több időt az öltözködésre a megállókban."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt pentru coborâri.",
+              "Atenție la chiciură și gheață în curbele umbrite.",
+              "Păstrați lanțul bine uns pentru a-l proteja de sarea de pe drum.",
+              "Calculați timp extra pentru schimbarea straturilor de haine."
+            ],
+            "en": [
+              "Wear windproof gloves for the many downhill stretches.",
+              "Be wary of frost and black ice in shaded corners.",
+              "Keep your chain well-oiled to protect against road salt.",
+              "Allow extra time for layering up at each indoor stop."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1026,6 +1354,188 @@
           "The city centre has many one-way streets; use a sat-nav.",
           "Parking outside the centre and walking in clusters will save money and stress."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto bleiben wir trocken, während wir vom Graves Park zu den Botanischen Gärten fahren. Wir parken direkt an den Gewächshäusern. Das Weston Park Museum und das Kelham Island Museum bieten stundenlange Unterhaltung unter Dach. Den Tag schließen wir an der Kathedrale und den Peace Gardens ab, wo die Stadtlichter im nassen Asphalt der Sheffielder City glitzern.",
+            "hu": "Az autóban szárazon maradunk, miközben a Graves Parkból a Botanikus Kertbe hajtunk, ahol az üvegházak közelében parkolunk. A Weston Park és a Kelham Island múzeumok órákig tartó fedett szórakozást nyújtanak. A napot a katedrálisnál és a Peace Gardensnél zárjuk, ahol a város fényei megcsillannak a vizes aszfalton.",
+            "ro": "Rămânem la adăpost în mașină în timp ce mergem de la Graves Park la Grădina Botanică. Parcăm aproape de sere. Muzeele Weston Park și Kelham Island oferă divertisment de interior pentru ore în șir. Încheiem ziua la Catedrală și Peace Gardens, admirând luminile orașului reflectate în asfaltul ud.",
+            "en": "Stay dry in the car as we travel from Graves Park to the Botanical Gardens, parking close to the glass pavilions. Weston Park and Kelham Island museums offer hours of indoor exploration. We finish at the Cathedral and Peace Gardens, where the city lights glisten beautifully on the wet Sheffield pavements."
+          },
+          "stops": [
+            {
+              "name": "Graves Park",
+              "tip_5lang": {
+                "de": "Parken Sie am Tiergehege-Eingang für kurze Wege.",
+                "hu": "Parkoljon az állatsimogató bejáratánál a rövid sétáért.",
+                "ro": "Parcați la intrarea de lângă ferma de animale.",
+                "en": "Park near the animal farm entrance for a shorter walk."
+              }
+            },
+            {
+              "name": "Sheffield Botanical Gardens",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus am Ecclesall Road für direkten Zugang.",
+                "hu": "Használja az Ecclesall Road-i parkolót a közvetlen bejutáshoz.",
+                "ro": "Folosiți parcarea de pe Ecclesall Road pentru acces facil.",
+                "en": "Use the Ecclesall Road parking for the most direct access."
+              }
+            },
+            {
+              "name": "Weston Park Museum",
+              "tip_5lang": {
+                "de": "Parkplätze direkt am Museum sind begrenzt; früh kommen.",
+                "hu": "A múzeumnál a parkolóhelyek száma korlátozott; érkezzen korán.",
+                "ro": "Locurile de parcare de la muzeu sunt limitate; veniți devreme.",
+                "en": "Parking right at the museum is limited; arrive early."
+              }
+            },
+            {
+              "name": "Kelham Island Museum",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden, fast direkt am Eingang.",
+                "hu": "Nagy parkoló áll rendelkezésre, szinte közvetlenül a bejáratnál.",
+                "ro": "Parcare mare disponibilă, aproape direct la intrare.",
+                "en": "Large car park available, almost right at the entrance."
+              }
+            },
+            {
+              "name": "Sheffield Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Q-Park' in der Nähe.",
+                "hu": "Használja a közeli 'Q-Park' parkolóházat.",
+                "ro": "Folosiți parcarea supraetajată 'Q-Park' din apropiere.",
+                "en": "Use the nearby 'Q-Park' multi-storey for convenience."
+              }
+            },
+            {
+              "name": "Peace Gardens",
+              "tip_5lang": {
+                "de": "Zentraler Ausstiegspunkt; viele Parkhäuser in 5 Min. Gehweite.",
+                "hu": "Központi pont; több parkolóház van 5 perc sétára.",
+                "ro": "Punct central; multe parcări la 5 minute de mers pe jos.",
+                "en": "Central drop-off; many car parks within 5 mins walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sheffield hat eine Umweltzone (CAZ); prüfen Sie Ihr Fahrzeug.",
+              "Parkhäuser sind bei Regen die beste Wahl, um trocken zu bleiben.",
+              "Die Hügel machen das Fahren bei Aquaplaning-Gefahr anspruchsvoll.",
+              "Nutzen Sie Apps zum Bezahlen, um Regen am Automaten zu vermeiden."
+            ],
+            "hu": [
+              "Sheffieldben alacsony kibocsátási zóna (CAZ) működik; ellenőrizze autóját.",
+              "A parkolóházak a legjobbak esőben, hogy szárazon maradjon.",
+              "A domborzat miatt az autóvezetés esőben nagyobb odafigyelést igényel.",
+              "Használjon parkoló alkalmazást, hogy ne kelljen az esőben automatánál állnia."
+            ],
+            "ro": [
+              "Sheffield are o zonă cu emisii reduse (CAZ); verificați vehiculul.",
+              "Parcările acoperite sunt cea mai bună alegere pe ploaie.",
+              "Dealurile pot fi dificile în condiții de acvaplanare.",
+              "Folosiți aplicații de plată pentru a evita automatele în ploaie."
+            ],
+            "en": [
+              "Sheffield has a Clean Air Zone (CAZ); check your vehicle's compliance.",
+              "Multi-storey car parks are the best choice to stay completely dry.",
+              "Steep hills make driving tricky during heavy rain and aquaplaning.",
+              "Use parking apps to avoid standing at machines in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir starten gemütlich im Graves Park, bevor wir die Wärme der Botanischen Gärten ansteuern. Das Auto bringt uns schnell von einem warmen Museum zum nächsten (Weston Park und Kelham Island). Die Tour endet im Stadtzentrum, wo die Weihnachtsbeleuchtung an der Kathedrale und den Peace Gardens eine magische Atmosphäre schafft, die wir bequem erreichen.",
+            "hu": "Kényelmesen kezdünk a Graves Parkban, majd a Botanikus Kert melegét vesszük célba. Az autó gyorsan repít egyik fűtött múzeumból a másikba (Weston Park és Kelham Island). A túrát a belvárosban zárjuk, ahol a katedrális és a Peace Gardens ünnepi fényei varázslatos hangulatot árasztanak, amit kényelmesen érhetünk el.",
+            "ro": "Începem relaxat în Graves Park, apoi ne îndreptăm spre căldura Grădinii Botanice. Mașina ne duce rapid de la un muzeu încălzit la altul (Weston Park și Kelham Island). Turul se încheie în centru, unde luminile de sărbători de la Catedrală și Peace Gardens creează o atmosferă magică, accesibilă confortabil.",
+            "en": "Start comfortably at Graves Park before heading to the warmth of the Botanical Gardens. The car quickly whisks us between heated museums (Weston Park and Kelham Island). The tour ends in the city centre, where the festive lights at the Cathedral and Peace Gardens create a magical winter atmosphere, all within easy reach."
+          },
+          "stops": [
+            {
+              "name": "Graves Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei Frost auf den steilen Zufahrtswegen.",
+                "hu": "Vigyázzon a fagyra a meredek bekötőutakon.",
+                "ro": "Atenție la îngheț pe drumurile de acces în pantă.",
+                "en": "Be careful of frost on the steep access roads."
+              }
+            },
+            {
+              "name": "Sheffield Botanical Gardens",
+              "tip_5lang": {
+                "de": "In der Nähe der Pavillons parken, um Kälte-Exposition zu minimieren.",
+                "hu": "Parkoljon az üvegpaloták közelében, hogy elkerülje a hideget.",
+                "ro": "Parcați aproape de pavilioane pentru a minimiza expunerea la frig.",
+                "en": "Park near the pavilions to minimize time in the cold."
+              }
+            },
+            {
+              "name": "Weston Park Museum",
+              "tip_5lang": {
+                "de": "Das Parken kann bei Winterveranstaltungen schwierig sein.",
+                "hu": "A parkolás nehéz lehet a téli rendezvények idején.",
+                "ro": "Parcarea poate fi dificilă în timpul evenimentelor de iarnă.",
+                "en": "Parking can be tough during winter holiday events."
+              }
+            },
+            {
+              "name": "Kelham Island Museum",
+              "tip_5lang": {
+                "de": "Ideal für den späten Nachmittag, da gut beleuchtet.",
+                "hu": "Ideális késő délutánra, mivel jól ki van világítva.",
+                "ro": "Ideal pentru după-amiază târzie, fiind bine iluminat.",
+                "en": "Ideal for late afternoon as it is well illuminated."
+              }
+            },
+            {
+              "name": "Sheffield Cathedral",
+              "tip_5lang": {
+                "de": "Suchen Sie Parkhäuser mit direktem City-Zugang.",
+                "hu": "Keressen közvetlen belvárosi kapcsolattal bíró parkolóházat.",
+                "ro": "Căutați parcări cu acces direct în zona pietonală.",
+                "en": "Look for car parks with direct pedestrian city access."
+              }
+            },
+            {
+              "name": "Peace Gardens",
+              "tip_5lang": {
+                "de": "Besonders schön nach Sonnenuntergang (ab 16 Uhr).",
+                "hu": "Különösen szép naplemente után (16 órától).",
+                "ro": "Deosebit de frumos după apus (începând cu ora 16).",
+                "en": "Especially beautiful after sunset (from 4pm onwards)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Hügelige Straßen können bei Eis sehr gefährlich sein.",
+              "Planen Sie Zeit zum Enteisen der Scheiben ein.",
+              "Nutzen Sie die Sitzheizung zwischen den Museumsbesuchen."
+            ],
+            "hu": [
+              "Töltsön fagyállót a szélvédőmosóba.",
+              "A dombos utcák jeges időben rendkívül veszélyesek lehetnek.",
+              "Szánjon időt a szélvédők jégmentesítésére indulás előtt.",
+              "Használja az ülésfűtést a múzeumlátogatások között."
+            ],
+            "ro": [
+              "Puneți lichid de parbriz rezistent la îngheț.",
+              "Străzile în pantă pot fi periculoase pe polei.",
+              "Calculați timp pentru dezghețarea parbrizului.",
+              "Folosiți încălzirea în scaune între vizitele la muzee."
+            ],
+            "en": [
+              "Ensure your screenwash is rated for sub-zero temperatures.",
+              "Steep side streets can be very treacherous in icy conditions.",
+              "Allow extra time for de-icing windows before setting off.",
+              "Enjoy the seat heaters between your museum explorations."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1382,6 +1892,188 @@
           "Trams are often faster than buses for major routes.",
           "Be aware that some buses might be card-only or require exact change."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir nutzen die Supertram und Busse, um trocken durch Sheffield zu kommen. Von den Peace Gardens zur Millennium Gallery ist es nur ein kurzer Sprung. Die Kathedrale liegt direkt an der Tram-Linie. Per Bus erreichen wir das Kelham Island Museum und das Weston Park Museum, ohne nass zu werden. Den Abschluss im Botanischen Garten genießen wir in den schützenden Gewächshäusern.",
+            "hu": "A Supertramet és a buszokat használjuk, hogy szárazon járjuk be Sheffieldet. A Peace Gardenstől a Millennium Gallery csak egy ugrás. A katedrális közvetlenül a villamosvonalon fekszik. Busszal érjük el a Kelham Island és a Weston Park múzeumokat anélkül, hogy eláznánk. A napot a Botanikus Kert védelmet nyújtó üvegpalotáiban zárjuk.",
+            "ro": "Folosim Supertram și autobuzele pentru a traversa Sheffield fără a ne uda. De la Peace Gardens la Millennium Gallery e doar un pas. Catedrala e chiar pe linia de tramvai. Cu autobuzul ajungem la Muzeele Kelham Island și Weston Park feriți de ploaie. Încheiem la Grădina Botanică în serele protectoare.",
+            "en": "We use the Supertram and buses to navigate Sheffield while staying dry. From Peace Gardens to the Millennium Gallery is just a short hop. The Cathedral is right on the tram line. We reach Kelham Island and Weston Park museums by bus, avoiding the downpours. We finish at the Botanical Gardens inside the sheltering pavilions."
+          },
+          "stops": [
+            {
+              "name": "Peace Gardens",
+              "tip_5lang": {
+                "de": "Viele Bushaltestellen direkt am Rande der Gärten.",
+                "hu": "Számos buszmegálló található közvetlenül a kert szélén.",
+                "ro": "Multe stații de autobuz chiar la marginea grădinilor.",
+                "en": "Many bus stops located right on the edge of the gardens."
+              }
+            },
+            {
+              "name": "Millennium Gallery",
+              "tip_5lang": {
+                "de": "Nur 5 Min. vom Hauptbahnhof und Busknotenpunkt entfernt.",
+                "hu": "Mindössze 5 percre a vasútállomástól és buszcsomóponttól.",
+                "ro": "La doar 5 minute de gară și nodul de transport.",
+                "en": "Only 5 mins from the train station and bus interchange."
+              }
+            },
+            {
+              "name": "Sheffield Cathedral",
+              "tip_5lang": {
+                "de": "Hält direkt vor der Tür (Tram-Haltestelle 'Cathedral').",
+                "hu": "Közvetlenül az ajtó előtt áll meg a villamos ('Cathedral').",
+                "ro": "Tramvaiul oprește chiar în față (stația 'Cathedral').",
+                "en": "The tram stops right outside (Cathedral stop)."
+              }
+            },
+            {
+              "name": "Kelham Island Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus oder die Tram bis 'Shalesmoor'.",
+                "hu": "Használja a buszt vagy a villamost 'Shalesmoor' megállóig.",
+                "ro": "Folosiți autobuzul sau tramvaiul până la 'Shalesmoor'.",
+                "en": "Use the bus or tram to the 'Shalesmoor' stop nearby."
+              }
+            },
+            {
+              "name": "Weston Park Museum",
+              "tip_5lang": {
+                "de": "Die Tram-Haltestelle 'University' ist 5 Min. entfernt.",
+                "hu": "Az 'University' villamosmegálló 5 perc sétára van.",
+                "ro": "Stația de tramvai 'University' este la 5 minute distanță.",
+                "en": "The 'University' tram stop is a 5-minute walk away."
+              }
+            },
+            {
+              "name": "Sheffield Botanical Gardens",
+              "tip_5lang": {
+                "de": "Mehrere Buslinien halten am Haupteingang an der Ecclesall Rd.",
+                "hu": "Számos buszjárat megáll az Ecclesall Rd-i főbejáratnál.",
+                "ro": "Mai multe linii de autobuz opresc la intrarea principală.",
+                "en": "Several bus routes stop at the main Ecclesall Rd entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket für Bus und Tram (CityBus/CityWide).",
+              "Warten Sie unter den überdachten Haltestellen.",
+              "Die Supertram ist bei Regen zuverlässiger als der Straßenverkehr.",
+              "Nutzen Sie die Live-Abfahrts-Apps, um Wartezeit im Regen zu minimieren."
+            ],
+            "hu": [
+              "Vásároljon napijegyet a buszra és villamosra (CityBus/CityWide).",
+              "Várjon a fedett megállókban az eső elől.",
+              "A Supertram esőben gyakran megbízhatóbb, mint a közúti forgalom.",
+              "Használjon menetrendi alkalmazást a várakozási idő csökkentésére."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi pentru autobuz și tramvai.",
+              "Așteptați sub copertinele stațiilor pentru a rămâne uscat.",
+              "Supertram este adesea mai fiabil decât traficul rutier pe ploaie.",
+              "Folosiți aplicațiile de transport live pentru a minimiza așteptarea."
+            ],
+            "en": [
+              "Buy a multi-operator day ticket (CityBus or CityWide).",
+              "Shelter under the covered bus and tram stops.",
+              "The Supertram is often more reliable than road traffic in heavy rain.",
+              "Use live departure apps to minimize time spent waiting in the wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit den warmen Bussen und Trams erkunden wir Sheffields Winterlandschaft. Von den Peace Gardens zur Millennium Gallery ist es nur ein kurzer, frostiger Weg. Die Kathedrale bietet mittags Wärme. Per Tram erreichen wir Kelham Island und Weston Park bequem. Den Tag beenden wir in den beheizten Pavillons des Botanischen Gartens, bevor wir mit dem Bus zurückfahren.",
+            "hu": "A fűtött buszokkal és villamosokkal fedezzük fel Sheffield téli arcát. A Peace Gardenstől a Millennium Gallery csak egy rövid, fagyos séta. A katedrális délben meleget ad. Villamossal kényelmesen érjük el Kelham Islandet és a Weston Parkot. A napot a Botanikus Kert fűtött üvegpalotáiban zárjuk, mielőtt busszal indulnánk vissza.",
+            "ro": "Explorăm peisajul de iarnă din Sheffield cu autobuzele și tramvaiele încălzite. De la Peace Gardens la Millennium Gallery e o scurtă plimbare geroasă. Catedrala oferă căldură la prânz. Cu tramvaiul ajungem ușor la Kelham Island și Weston Park. Încheiem în pavilioanele încălzite ale Grădinii Botanice.",
+            "en": "Explore Sheffield's winter landscape from the warmth of the buses and trams. It's a short, crisp walk from Peace Gardens to the Millennium Gallery. The Cathedral offers mid-day warmth. Reach Kelham Island and Weston Park comfortably by tram. Finish in the heated Botanical Gardens pavilions before taking the bus back."
+          },
+          "stops": [
+            {
+              "name": "Peace Gardens",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt, fast alle Linien treffen sich hier.",
+                "hu": "Központi csomópont, szinte minden járat érinti.",
+                "ro": "Nod central, aproape toate liniile trec pe aici.",
+                "en": "Central hub where almost all major routes converge."
+              }
+            },
+            {
+              "name": "Millennium Gallery",
+              "tip_5lang": {
+                "de": "Der nahegelegene Bahnhof bietet Wärme und Cafés.",
+                "hu": "A közeli vasútállomás meleget és kávézókat kínál.",
+                "ro": "Gara din apropiere oferă căldură și cafenele.",
+                "en": "The nearby train station offers warmth and cafes."
+              }
+            },
+            {
+              "name": "Sheffield Cathedral",
+              "tip_5lang": {
+                "de": "Haupthaltestelle für alle drei Tram-Linien.",
+                "hu": "Mindhárom villamosvonal fő megállóhelye.",
+                "ro": "Stație principală pentru toate cele trei linii de tramvai.",
+                "en": "Major interchange for all three tram lines."
+              }
+            },
+            {
+              "name": "Kelham Island Museum",
+              "tip_5lang": {
+                "de": "Kurzer, gut beleuchteter Fußweg von der Tram Shalesmoor.",
+                "hu": "Rövid, jól megvilágított séta a Shalesmoor villamosmegállótól.",
+                "ro": "Drum scurt și bine iluminat de la tramvaiul Shalesmoor.",
+                "en": "Short, well-lit walk from the Shalesmoor tram stop."
+              }
+            },
+            {
+              "name": "Weston Park Museum",
+              "tip_5lang": {
+                "de": "Die Tram-Haltestelle liegt im Campus der Universität.",
+                "hu": "A villamosmegálló az egyetemi campus területén van.",
+                "ro": "Stația de tramvai se află în campusul universității.",
+                "en": "The tram stop is located within the University campus."
+              }
+            },
+            {
+              "name": "Sheffield Botanical Gardens",
+              "tip_5lang": {
+                "de": "Busse fahren alle 10 Min. Richtung Stadtzentrum zurück.",
+                "hu": "A buszok 10 percenként indulnak vissza a belvárosba.",
+                "ro": "Autobuzele pleacă la fiecare 10 minute spre centru.",
+                "en": "Buses run every 10 mins back towards the city centre."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrzeuge sind gut beheizt, aber Haltestellen können zugig sein.",
+              "Achten Sie auf geänderte Fahrpläne an Feiertagen.",
+              "Die Supertram bietet tolle Aussichten auf die verschneite Stadt.",
+              "Nutzen Sie kontaktloses Bezahlen, um Handschuhe nicht ausziehen zu müssen."
+            ],
+            "hu": [
+              "A járművek jól fűtöttek, de a megállók huzatosak lehetnek.",
+              "Figyeljen az ünnepi menetrendi változásokra.",
+              "A Supertramről remek kilátás nyílik a havas városra.",
+              "Használjon érintésmentes fizetést, hogy ne kelljen levennie a kesztyűt."
+            ],
+            "ro": [
+              "Vehiculele sunt bine încălzite, dar stațiile pot fi expuse vântului.",
+              "Atenție la orarul modificat în perioada sărbătorilor.",
+              "Supertram oferă vederi superbe asupra orașului iarna.",
+              "Folosiți plata contactless pentru a nu vă scoate mănușile."
+            ],
+            "en": [
+              "Vehicles are well heated, but stops can be draughty and cold.",
+              "Check for special holiday timetables during the winter months.",
+              "The Supertram offers great elevated views of the wintry city.",
+              "Use contactless payment to avoid taking off your gloves at machines."
+            ]
+          }
+        }
       }
     }
   }

@@ -306,6 +306,188 @@
           "Most shops and some attractions may be closed over lunchtime.",
           "Check the brewery's opening hours for tours and tastings in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Schutz des Rathauses von Baar, während der Regen auf das historische Kopfsteinpflaster prasselt. Mittags bieten die St. Martinskirche und die St. Wendelinskapelle trockene Zufluchtsorte mit beeindruckender Architektur. Am Nachmittag führt der Weg entlang der Lorze, wo das Rauschen des Wassers und der Regen eins werden. Den Abschluss bildet die Baarer Brauerei, wo Sie im Trockenen ein lokales Bier genießen können.",
+            "hu": "Kezdje a napot a városháza árkádjai alatt, figyelve az óváros esőáztatta macskaköveit. Délben a Szent Márton-templom és a Szent Vendel-kápolna nyújt meghitt és száraz menedéket. Délután a Lorze-menti sétányon az eső kopogása és a folyó zúgása különleges hangulatot áraszt. A napot a Baarer sörfőzdében zárjuk, ahol fedett helyen kóstolhatja meg a helyi különlegességeket.",
+            "ro": "Începeți ziua sub arcadele primăriei din Baar, în timp ce ploaia cade peste centrul vechi. La prânz, biserica Sf. Martin și capela Sf. Wendelin oferă refugii uscate și liniștite. După-amiaza, plimbarea pe malul râului Lorze devine o experiență auditivă relaxantă sub umbrelă. Încheiați ziua la berăria locală, savurând o bere artizanală într-un ambient călduros și ferit de umezeală.",
+            "en": "Start your day under the shelter of the Baar Town Hall as rain falls on the historic cobblestones. At midday, St. Martin's Church and St. Wendelin Chapel provide dry, peaceful havens. In the afternoon, the walk along the Lorze promenade combines the sound of the rain with the rushing river. End your day at the Baar Brewery, enjoying local craft beer in a warm, dry environment."
+          },
+          "stops": [
+            {
+              "name": "Baar Town Hall and Old Town",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Arkaden des Rathauses als Regenschutz.",
+                "hu": "Használja a városháza árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele primăriei pentru a vă adăposti de ploaie.",
+                "en": "Use the Town Hall arches as shelter from the rain."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_4lang": {
+                "de": "Ein idealer Ort, um den stärksten Schauer abzuwarten.",
+                "hu": "Ideális hely a nagyobb záporok átvészelésére.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei averse puternice.",
+                "en": "An ideal place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "St. Wendelin Chapel",
+              "tip_4lang": {
+                "de": "Kleiner, trockener Rückzugsort mit schöner Akustik.",
+                "hu": "Kicsi, száraz menedékhely szép akusztikával.",
+                "ro": "Un mic refugiu uscat, cu o acustică deosebită.",
+                "en": "A small, dry retreat with beautiful acoustics."
+              }
+            },
+            {
+              "name": "Spinning Mill on the Lorze",
+              "tip_4lang": {
+                "de": "Die industrielle Architektur wirkt bei Regen besonders markant.",
+                "hu": "Az ipari építészet esőben különösen karakteresnek tűnik.",
+                "ro": "Arhitectura industrială pare și mai impunătoare pe ploaie.",
+                "en": "The industrial architecture looks particularly striking in the rain."
+              }
+            },
+            {
+              "name": "Lorze Promenade",
+              "tip_4lang": {
+                "de": "Gute Regenkleidung ist auf diesem ungeschützten Weg nötig.",
+                "hu": "Megfelelő esőfelszerelés szükséges ezen a nyílt útvonalon.",
+                "ro": "Echipamentul de ploaie este necesar pe această porțiune expusă.",
+                "en": "Good rain gear is essential on this unsheltered path."
+              }
+            },
+            {
+              "name": "Baar Brewery",
+              "tip_4lang": {
+                "de": "Der perfekte trockene Abschluss für einen regnerischen Tag.",
+                "hu": "Tökéletes száraz zárás egy esős nap végén.",
+                "ro": "Finalul perfect, la căldură, pentru o zi ploioasă.",
+                "en": "The perfect dry conclusion to a rainy day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da es windig sein kann.",
+              "Die Wege am Fluss können rutschig sein, tragen Sie Profilsohlen.",
+              "Nutzen Sie die Kirchen für längere Pausen im Trockenen.",
+              "Besuchen Sie die Brauerei am Ende, um sich aufzuwärmen."
+            ],
+            "hu": [
+              "Vigyen magával strapabíró esernyőt, mert szeles lehet az idő.",
+              "A folyóparti utak csúszósak lehetnek, viseljen tapadós talpú cipőt.",
+              "Használja a templomokat hosszabb pihenőkre a szárazban.",
+              "A sörfőzdét hagyja a végére, hogy jól felmelegedjen."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, deoarece vântul poate fi puternic.",
+              "Potecile de lângă râu pot fi alunecoase; purtați încălțăminte aderentă.",
+              "Folosiți bisericile pentru pauze mai lungi la adăpost.",
+              "Vizitați berăria la final pentru a vă încălzi."
+            ],
+            "en": [
+              "Carry a sturdy umbrella as it can be quite windy.",
+              "Riverside paths may be slippery; wear shoes with good grip.",
+              "Use the churches for longer breaks in a dry space.",
+              "Save the brewery for the end to warm up thoroughly."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Baar bei klarem Frost. Am Vormittag glitzert der Schnee auf dem Rathausplatz, bevor Sie sich in der St. Martinskirche aufwärmen. Mittags bietet die Lorze-Promenade eine mystische Winterlandschaft mit gefrorenen Ufern. Da die Sonne bereits früh hinter den Hügeln verschwindet, bietet die gemütliche Atmosphäre der Baarer Brauerei am Nachmittag den idealen, warmen Rückzugsort.",
+            "hu": "Fedezze fel a téli Baar városát a csípős fagyban. Délelőtt a hó csillog a városháza téren, majd a Szent Márton-templomban melegedhet fel. Délben a Lorze-sétány misztikus téli tájat mutat a fagyott partokkal. Mivel a nap korán eltűnik a dombok mögött, a Baarer sörfőzde barátságos hangulata nyújt ideális, meleg menedéket a délutáni órákban.",
+            "ro": "Explorați orașul Baar într-o zi geroasă de iarnă. Dimineața, zăpada sclipește în piața primăriei, înainte de a vă încălzi în biserica Sf. Martin. La prânz, promenada Lorze oferă un peisaj hibernal mistic, cu maluri înghețate. Deoarece soarele apune devreme, atmosfera primitoare a berăriei Baarer oferă refugiul cald ideal în a doua parte a zilei.",
+            "en": "Explore wintery Baar in the crisp frost. In the morning, snow glitters on the Town Hall square before you warm up inside St. Martin's Church. At midday, the Lorze promenade offers a mystical winter landscape with frozen banks. As the sun sets early behind the hills, the cozy atmosphere of the Baar Brewery provides the perfect warm retreat in the afternoon."
+          },
+          "stops": [
+            {
+              "name": "Baar Town Hall and Old Town",
+              "tip_4lang": {
+                "de": "Vorsicht bei gefrorenem Kopfsteinpflaster.",
+                "hu": "Vigyázat, a macskakő jeges és csúszós lehet.",
+                "ro": "Atenție la pavajul care poate fi înghețat.",
+                "en": "Watch out for frozen and slippery cobblestones."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_4lang": {
+                "de": "Nutzen Sie den beheizten Innenraum zum Aufwärmen.",
+                "hu": "Használja a fűtött belső teret egy kis melegedésre.",
+                "ro": "Folosiți interiorul încălzit pentru a vă dezmorți.",
+                "en": "Take advantage of the heated interior to warm up."
+              }
+            },
+            {
+              "name": "St. Wendelin Chapel",
+              "tip_4lang": {
+                "de": "Ein kurzer Stopp im Windschatten der Kapelle.",
+                "hu": "Rövid megálló a kápolna szélvédett oldalán.",
+                "ro": "O scurtă oprire la adăpost de vânt lângă capelă.",
+                "en": "A short stop in the wind shadow of the chapel."
+              }
+            },
+            {
+              "name": "Spinning Mill on the Lorze",
+              "tip_4lang": {
+                "de": "Die Ziegelbauten bilden einen schönen Kontrast zum Schnee.",
+                "hu": "A téglaépületek szép kontrasztot alkotnak a hóval.",
+                "ro": "Clădirile din cărămidă oferă un contrast frumos cu zăpada.",
+                "en": "The brick buildings provide a lovely contrast with the snow."
+              }
+            },
+            {
+              "name": "Lorze Promenade",
+              "tip_4lang": {
+                "de": "Ab 16:30 Uhr wird es dunkel, planen Sie den Rückweg ein.",
+                "hu": "16:30 után sötétedik, tervezze meg időben a visszautat.",
+                "ro": "Se întunecă după ora 16:30; planificați drumul de întoarcere.",
+                "en": "It gets dark after 4:30 PM; plan your return journey accordingly."
+              }
+            },
+            {
+              "name": "Baar Brewery",
+              "tip_4lang": {
+                "de": "Probieren Sie die winterlichen Starkbiere zum Aufwärmen.",
+                "hu": "Kóstolja meg a téli barna söröket a felmelegedéshez.",
+                "ro": "Încercați berile de iarnă, mai tari, pentru a vă încălzi.",
+                "en": "Try the winter seasonal beers to warm up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermokleidung und Winterschuhe mit gutem Grip.",
+              "Die Sonne geht im Winter bereits gegen 16:45 Uhr unter.",
+              "Kirchen sind gute Orte, um die Kälte kurzzeitig zu verlassen.",
+              "Trinken Sie ausreichend Tee, bevor Sie losgehen."
+            ],
+            "hu": [
+              "Viseljen termaruházatot és jó tapadású téli bakancsot.",
+              "A nap télen már 16:45 körül lemegy.",
+              "A templomok jó helyszínek a hideg előli rövid menekülésre.",
+              "Igyon elég forró teát, mielőtt elindulna."
+            ],
+            "ro": [
+              "Purtați haine termice și încălțăminte de iarnă aderentă.",
+              "Iarna, soarele apune deja în jurul orei 16:45.",
+              "Bisericile sunt locuri bune pentru a scăpa scurt de frig.",
+              "Beți suficient ceai fierbinte înainte de a pleca la drum."
+            ],
+            "en": [
+              "Wear thermal clothing and winter boots with good grip.",
+              "The sun sets as early as 4:45 PM in winter.",
+              "Churches are excellent spots for a quick escape from the cold.",
+              "Drink plenty of hot tea before you start your walk."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -592,6 +774,170 @@
           "Bring enough water and some snacks for the road.",
           "The paths to the caves and the castle can be steep."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Tour rund um Baar reizvolle Einblicke. Am Vormittag radeln Sie durch das beschauliche Zentrum zum Lorzetal. Das Highlight sind die Höllgrotten, die bei Regen den perfekten, natürlich überdachten Ort für Erkundungen bieten. Nach einem etwas rutschigen Aufstieg zur Wildenburg führt der Weg zurück zur Brauerei, wo trockene Kleidung und ein kühles Bier warten.",
+            "hu": "Az eső ellenére a Baar környéki túra izgalmas látnivalókat tartogat. Délelőtt a központon keresztül kerekezik a Lorze-völgy felé. A fő attrakció a Höllgrotten barlangrendszer, amely esőben tökéletes, természetesen fedett helyszín. A Wildenburg várához vezető, kissé csúszós emelkedő után az út visszavisz a sörfőzdéhez, ahol száraz ruhák és egy hűs sör várják.",
+            "ro": "În ciuda ploii, turul în jurul orașului Baar oferă perspective încântătoare. Dimineața pedalați prin centru spre valea Lorze. Punctul culminant este peștera Höllgrotten, care oferă refugiul natural perfect pe timp de ploaie. După o urcare ușor alunecoasă spre Wildenburg, drumul vă duce înapoi la berărie, unde vă așteaptă haine uscate și o bere rece.",
+            "en": "Despite the rain, the tour around Baar offers charming sights. In the morning, cycle through the center towards the Lorze Valley. The highlight is the Höllgrotten caves, which provide a perfect, naturally covered location for exploration. After a slightly slippery climb to Wildenburg, the path leads back to the brewery, where dry clothes and a cool beer await."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and St. Martin",
+              "tip_4lang": {
+                "de": "Starten Sie mit voller Regenmontur direkt im Zentrum.",
+                "hu": "Induljon teljes esőfelszerelésben közvetlenül a központból.",
+                "ro": "Porniți la drum echipat complet pentru ploaie din centru.",
+                "en": "Start with full rain gear directly from the center."
+              }
+            },
+            {
+              "name": "Spinning Mill on the Lorze",
+              "tip_4lang": {
+                "de": "Kurzer Stopp unter den Vordächern der alten Fabrik.",
+                "hu": "Rövid megálló a régi gyár előtetői alatt.",
+                "ro": "Scurtă oprire sub streșinile vechii fabrici.",
+                "en": "Short stop under the eaves of the old factory."
+              }
+            },
+            {
+              "name": "Höllgrotten Caves",
+              "tip_4lang": {
+                "de": "Der beste Ort bei Regen: im Inneren bleibt es trocken.",
+                "hu": "A legjobb hely esőben: bent teljesen száraz marad minden.",
+                "ro": "Cel mai bun loc pe ploaie: în interior totul rămâne uscat.",
+                "en": "The best place during rain: it stays dry inside the caves."
+              }
+            },
+            {
+              "name": "Wildenburg Castle Ruins",
+              "tip_4lang": {
+                "de": "Vorsicht, die Waldwege zur Ruine sind bei Nässe sehr rutschig.",
+                "hu": "Vigyázat, a várromhoz vezető erdei utak nedvesen csúsznak.",
+                "ro": "Atenție, potecile spre ruină sunt foarte alunecoase când sunt ude.",
+                "en": "Caution: the forest paths to the ruins are very slippery when wet."
+              }
+            },
+            {
+              "name": "Baar Brewery",
+              "tip_4lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer beim Eingang.",
+                "hu": "Használja a bejáratnál található fedett kerékpártárolót.",
+                "ro": "Folosiți suportul de biciclete acoperit de la intrare.",
+                "en": "Use the covered bike rack near the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, da die Bremswege bei Nässe länger sind.",
+              "Verwenden Sie Schutzbleche, um Schlammspritzer zu vermeiden.",
+              "Die Höllgrotten sind ein idealer Ort für eine lange Regenpause.",
+              "Tragen Sie wasserdichte Handschuhe für besseren Grip."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, mert nedves úton hosszabb a féktáv.",
+              "Használjon sárvédőt a sárfelverődés elkerülése érdekében.",
+              "A Höllgrotten ideális helyszín egy hosszú esőszünethez.",
+              "Viseljen vízálló kesztyűt a jobb kormányfogásért."
+            ],
+            "ro": [
+              "Verificați frânele, deoarece distanța de frânare este mai mare pe ud.",
+              "Folosiți aripi la bicicletă pentru a evita stropirea cu noroi.",
+              "Höllgrotten este locul ideal pentru o pauză lungă de ploaie.",
+              "Purtați mănuși impermeabile pentru o aderență mai bună."
+            ],
+            "en": [
+              "Check your brakes as stopping distances are longer when wet.",
+              "Use fenders to avoid mud splashes.",
+              "The Höllgrotten caves are ideal for a long break from the rain.",
+              "Wear waterproof gloves for a better grip on the handlebars."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour erfordert warme Schichten und Vorsicht. Am Vormittag glitzert der Frost auf den Feldern rund um Baar. Die Höllgrotten bieten mit konstanten 10 Grad eine willkommene Aufwärmmöglichkeit gegenüber der klirrenden Außenluft. Nach dem Besuch der Wildenburg-Ruine in einer verschneiten Waldkulisse führt die Tour rechtzeitig vor Einbruch der Dunkelheit zur wärmenden Brauerei.",
+            "hu": "A téli kerékpártúra meleg rétegeket és óvatosságot igényel. Délelőtt a zúzmara csillog a Baar környéki mezőkön. A Höllgrotten barlang a maga állandó 10 fokával kellemes felmelegedést nyújt a kinti csípős hideghez képest. A havas erdei környezetben lévő Wildenburg-rom után a túra még sötétedés előtt a melengető sörfőzdéhez vezet.",
+            "ro": "O tură cu bicicleta iarna necesită haine groase și prudență. Dimineața, promoroaca sclipește pe câmpurile din jurul orașului Baar. Peștera Höllgrotten, cu temperatura sa constantă de 10 grade, oferă o încălzire binevenită. După vizitarea ruinei Wildenburg într-un decor forestier înzăpezit, turul se încheie înainte de lăsarea întunericului la berărie.",
+            "en": "A winter bike tour requires warm layers and caution. In the morning, frost glitters on the fields around Baar. The Höllgrotten caves, with a constant 10 degrees, offer a welcome warming opportunity compared to the freezing outside air. After visiting the Wildenburg ruins in a snowy forest setting, the tour ends at the warming brewery well before dark."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and St. Martin",
+              "tip_4lang": {
+                "de": "Achten Sie auf vereiste Stellen in schattigen Gassen.",
+                "hu": "Ügyeljen a jeges foltokra az árnyékos utcákban.",
+                "ro": "Fiți atenți la porțiunile înghețate din străzile umbrite.",
+                "en": "Watch out for icy patches in shaded alleys."
+              }
+            },
+            {
+              "name": "Spinning Mill on the Lorze",
+              "tip_4lang": {
+                "de": "Kalter Fahrtwind entlang der Lorze, tragen Sie einen Gesichtsschutz.",
+                "hu": "Hideg menetszél a Lorze mentén, viseljen arcvédőt.",
+                "ro": "Vânt rece în lungul râului Lorze; folosiți protecție pentru față.",
+                "en": "Cold headwind along the Lorze; wear a face mask or buff."
+              }
+            },
+            {
+              "name": "Höllgrotten Caves",
+              "tip_4lang": {
+                "de": "Konstante 10 Grad – hier können Sie Ihre Finger aufwärmen.",
+                "hu": "Állandó 10 fok – itt felmelegítheti átfagyott ujjait.",
+                "ro": "Temperatură constantă de 10 grade – vă puteți încălzi degetele aici.",
+                "en": "Constant 10 degrees – a good place to warm up your fingers."
+              }
+            },
+            {
+              "name": "Wildenburg Castle Ruins",
+              "tip_4lang": {
+                "de": "Wanderwege können tief verschneit sein, schieben Sie eventuell.",
+                "hu": "A gyalogutak mélyen havasak lehetnek, szükség esetén tolja a gépet.",
+                "ro": "Potecile pot fi înzăpezite; s-ar putea să fie nevoie să împingeți bicicleta.",
+                "en": "Paths may be deeply snowy; you might need to push your bike."
+              }
+            },
+            {
+              "name": "Baar Brewery",
+              "tip_4lang": {
+                "de": "Lichter am Fahrrad sind ab 16:15 Uhr zwingend erforderlich.",
+                "hu": "16:15 után a kerékpáros világítás kötelező és létfontosságú.",
+                "ro": "Luminile de bicicletă sunt obligatorii după ora 16:15.",
+                "en": "Bike lights are mandatory and essential after 4:15 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Reifen mit gutem Winterprofil.",
+              "Halten Sie die Kette gut geölt gegen Streusalz.",
+              "Die Höllgrotten sind im Winter wärmer als die Außenluft.",
+              "Planen Sie ein Ende gegen 16:30 Uhr ein."
+            ],
+            "hu": [
+              "Használjon jó téli profilú gumiabroncsokat.",
+              "Tartsa a láncot jól olajozottan az útszóró só ellen.",
+              "A Höllgrotten télen melegebb, mint a kinti levegő.",
+              "Tervezze a túra végét 16:30 körülre."
+            ],
+            "ro": [
+              "Folosiți anvelope cu profil bun de iarnă.",
+              "Mențineți lanțul bine uns pentru protecție împotriva sării de pe drum.",
+              "Höllgrotten este mai cald iarna decât aerul de afară.",
+              "Planificați finalul traseului în jurul orei 16:30."
+            ],
+            "en": [
+              "Use tires with a good winter tread.",
+              "Keep the chain well-oiled to protect against road salt.",
+              "The Höllgrotten caves are warmer than the outside air in winter.",
+              "Plan to finish your tour around 4:30 PM."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -896,6 +1242,188 @@
           "A GPS or navigation app is essential.",
           "The Höllgrotten caves are only open from April to October."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Baar und seine Umgebung bequem und trocken. Vormittags besuchen Sie das Zentrum und die St. Martinskirche. Die Fahrt durch das regnerische Lorzetal führt Sie direkt zu den Höllgrotten, wo Sie das Auto nah am Eingang parken können. Nach einem Abstecher zur Wildenburg endet die Tour bei der Baarer Brauerei, die über ausreichend Parkplätze für einen gemütlichen Abschluss verfügt.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel Baar városát és környékét. Délelőtt látogassa meg a központot és a Szent Márton-templomot. Az esős Lorze-völgyön átvezető út egyenesen a Höllgrotten barlanghoz visz, ahol közel parkolhat a bejárathoz. A Wildenburg-rom érintése után a túra a Baarer sörfőzdénél ér véget, ahol tágas parkoló várja a kényelmes befejezéshez.",
+            "ro": "Cu mașina, puteți explora Baar și împrejurimile sale confortabil și fără a vă uda. Dimineața vizitați centrul și biserica Sf. Martin. Drumul prin valea ploioasă a râului Lorze vă duce direct la Höllgrotten, unde puteți parca aproape de intrare. După o scurtă oprire la Wildenburg, turul se încheie la berărie, care dispune de parcare suficientă.",
+            "en": "By car, you can explore Baar and its surroundings comfortably and stay dry. In the morning, visit the center and St. Martin's Church. The drive through the rainy Lorze Valley leads directly to the Höllgrotten caves, where you can park close to the entrance. After a detour to Wildenburg, the tour ends at the Baar Brewery, which has ample parking for a cozy conclusion."
+          },
+          "stops": [
+            {
+              "name": "Central Parking & Town Hall",
+              "tip_4lang": {
+                "de": "Parkhäuser im Zentrum bieten trockenen Zugang zur Altstadt.",
+                "hu": "A központi parkolóházak száraz kijáratot biztosítanak az óvároshoz.",
+                "ro": "Parcările acoperite din centru oferă acces uscat spre orașul vechi.",
+                "en": "Parking garages in the center offer dry access to the old town."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_4lang": {
+                "de": "Parken Sie direkt bei der Kirche für kurze Wege.",
+                "hu": "Parkoljon közvetlenül a templomnál a rövid séta érdekében.",
+                "ro": "Parcați chiar lângă biserică pentru a merge puțin pe jos.",
+                "en": "Park right by the church to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Lorze Promenade",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf den Fluss aus dem trockenen Auto.",
+                "hu": "Élvezze a folyóra nyíló kilátást a száraz autóból.",
+                "ro": "Bucurați-vă de vederea spre râu din mașina uscată.",
+                "en": "Enjoy the view of the river from the dry car."
+              }
+            },
+            {
+              "name": "Wildenburg Castle Ruins",
+              "tip_4lang": {
+                "de": "Der Parkplatz kann bei Regen matschig sein.",
+                "hu": "A parkoló esőben sáros lehet.",
+                "ro": "Parcarea poate fi noroioasă pe timp de ploaie.",
+                "en": "The parking area can be muddy during rain."
+              }
+            },
+            {
+              "name": "Höllgrotten Caves",
+              "tip_4lang": {
+                "de": "Parken Sie so nah wie möglich am Kiosk/Eingang.",
+                "hu": "Parkoljon a lehető legközelebb a pénztárhoz.",
+                "ro": "Parcați cât mai aproape posibil de intrare.",
+                "en": "Park as close as possible to the entrance/kiosk."
+              }
+            },
+            {
+              "name": "Baar Brewery",
+              "tip_4lang": {
+                "de": "Großer Parkplatz direkt vor dem Brauereiladen.",
+                "hu": "Nagy parkoló közvetlenül a sörfőzde boltja előtt.",
+                "ro": "Parcare mare chiar în fața magazinului berăriei.",
+                "en": "Large parking lot directly in front of the brewery shop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Landstraßen.",
+              "Nutzen Sie Parkhäuser, um trocken ins Zentrum zu kommen.",
+              "Die Höllgrotten sind ein perfektes Schlechtwetterziel.",
+              "Behalten Sie Ihre Regenjacke griffbereit für die Stopps."
+            ],
+            "hu": [
+              "Ügyeljen az aquaplaningre az országutakon.",
+              "Használjon parkolóházakat, hogy szárazon jusson a központba.",
+              "A Höllgrotten tökéletes célpont rossz idő esetén.",
+              "Tartsa kéznél az esőkabátját a megállóknál."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile județene.",
+              "Folosiți parcările etajate pentru a ajunge uscați în centru.",
+              "Höllgrotten este o destinație perfectă pentru vreme rea.",
+              "Țineți jacheta de ploaie la îndemână pentru opriri."
+            ],
+            "en": [
+              "Watch out for aquaplaning on country roads.",
+              "Use parking garages to reach the center while staying dry.",
+              "Höllgrotten is a perfect bad-weather destination.",
+              "Keep your rain jacket handy for the stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine sichere Wintertour durch das verschneite Zugerland. Vormittags bewundern Sie das Rathaus von Baar, bevor Sie ins warme Auto zurückkehren. Die Fahrt zu den Höllgrotten bietet spektakuläre Ausblicke auf die winterliche Lorze. Da es im Wald zur Wildenburg glatt sein kann, empfiehlt sich eine vorsichtige Fahrweise. Den Tag beschließen Sie gemütlich in der Baarer Brauerei, bevor die Dunkelheit einsetzt.",
+            "hu": "Élvezze a biztonságos téli túrát a havas Zugerlandban. Délelőtt csodálja meg a baar-i városházát, mielőtt visszatérne a meleg autóba. A Höllgrotten felé vezető út látványos kilátást nyújt a téli Lorze folyóra. Mivel a Wildenburghoz vezető erdei út jeges lehet, óvatos vezetés ajánlott. A napot barátságos hangulatban zárja a Baarer sörfőzdében, még a sötétedés beállta előtt.",
+            "ro": "Bucurați-vă de un tur de iarnă sigur prin regiunea înzăpezită Zugerland. Dimineața admirați primăria din Baar, înainte de a vă întoarce în mașina încălzită. Drumul spre Höllgrotten oferă vederi spectaculoase asupra râului Lorze înghețat. Deoarece drumul prin pădure spre Wildenburg poate fi alunecos, se recomandă prudență. Încheiați ziua la berărie înainte de lăsarea serii.",
+            "en": "Enjoy a safe winter tour through the snowy Zugerland. In the morning, admire Baar's Town Hall before returning to your warm car. The drive to Höllgrotten offers spectacular views of the wintery Lorze. As the forest road to Wildenburg can be icy, cautious driving is recommended. Finish your day cozily at the Baar Brewery before darkness sets in."
+          },
+          "stops": [
+            {
+              "name": "Central Parking & Town Hall",
+              "tip_4lang": {
+                "de": "Vorsicht bei Schnee auf den Parkdecks.",
+                "hu": "Vigyázat, a parkolóházak tetején hó lehet.",
+                "ro": "Atenție la zăpada de pe platformele de parcare.",
+                "en": "Caution: there may be snow on the parking decks."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Kirchenwärme für eine kurze Pause.",
+                "hu": "Használja ki a templom melegét egy rövid pihenőre.",
+                "ro": "Folosiți căldura din biserică pentru o scurtă pauză.",
+                "en": "Use the warmth of the church for a short break."
+              }
+            },
+            {
+              "name": "Lorze Promenade",
+              "tip_4lang": {
+                "de": "Schöne Aussichtspunkte direkt an der Straße.",
+                "hu": "Szép kilátópontok találhatók közvetlenül az út mentén.",
+                "ro": "Puncte de belvedere frumoase chiar lângă drum.",
+                "en": "Beautiful viewpoints located directly by the road."
+              }
+            },
+            {
+              "name": "Wildenburg Castle Ruins",
+              "tip_4lang": {
+                "de": "Die Zufahrtsstraße kann bei starkem Schneefall schwierig sein.",
+                "hu": "Erős havazás esetén a bekötőút nehezen járható lehet.",
+                "ro": "Drumul de acces poate fi dificil în caz de ninsori puternice.",
+                "en": "The access road can be difficult during heavy snowfall."
+              }
+            },
+            {
+              "name": "Höllgrotten Caves",
+              "tip_4lang": {
+                "de": "Gute Winterreifen sind für die Anfahrt ins Tal nötig.",
+                "hu": "Jó téli gumi szükséges a völgybe való lehajtáshoz.",
+                "ro": "Anvelopele de iarnă sunt necesare pentru coborârea în vale.",
+                "en": "Good winter tires are essential for the drive down into the valley."
+              }
+            },
+            {
+              "name": "Baar Brewery",
+              "tip_4lang": {
+                "de": "Kaufen Sie regionale Geschenke im warmen Brauereiladen.",
+                "hu": "Vásároljon helyi ajándékokat a meleg sörfőzde-boltban.",
+                "ro": "Cumpărați cadouri regionale din magazinul berăriei.",
+                "en": "Buy regional gifts in the warm brewery shop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in den Schweizer Hügeln ein Muss.",
+              "Führen Sie einen Eiskratzer und Besen im Auto mit.",
+              "Planen Sie die Rückfahrt vor 17:00 Uhr wegen der Sicht.",
+              "Die Höllgrotten sind ein warmer Rückzugsort."
+            ],
+            "hu": [
+              "A svájci dombok között a téli gumi kötelező.",
+              "Tartson jégkaparót és kefét az autóban.",
+              "A látási viszonyok miatt 17:00 előtt induljon vissza.",
+              "A Höllgrotten meleg menedékhely a téli hidegben."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în dealurile elvețiene.",
+              "Aveți în mașină o răzuitoare de gheață și o perie.",
+              "Planificați drumul de întoarcere înainte de ora 17:00.",
+              "Höllgrotten este un refugiu cald față de gerul de afară."
+            ],
+            "en": [
+              "Winter tires are a must in the Swiss hills.",
+              "Keep an ice scraper and a brush in the car.",
+              "Plan your return trip before 5:00 PM due to visibility.",
+              "Höllgrotten is a warm retreat compared to the cold outside."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1126,6 +1654,170 @@
           "Allow extra time for waiting at stops.",
           "The bus line to the caves may not operate all year round."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das dichte Busnetz von Baar, um bei Regen trocken zu bleiben. Vom Bahnhof Baar erreichen Sie schnell das Rathaus und die Kirchen. Ein Bus bringt Sie in die Nähe der Lorze, von wo aus ein kurzer Spaziergang zu den Höllgrotten führt. Den Nachmittag verbringen Sie in den Höhlen, bevor Sie der Bus fast direkt vor die Tür der Baarer Brauerei bringt.",
+            "hu": "Használja Baar sűrű buszhálózatát, hogy esőben is száraz maradjon. A baar-i vasútállomástól gyorsan elérheti a városházát és a templomokat. Busz viszi a Lorze közelébe, ahonnan csak rövid séta a Höllgrotten. A délutánt a barlangokban töltheti, majd a busz szinte közvetlenül a Baarer sörfőzde ajtaja elé repíti.",
+            "ro": "Folosiți rețeaua densă de autobuze din Baar pentru a rămâne uscați. De la gara Baar ajungeți rapid la primărie și biserici. Un autobuz vă duce aproape de Lorze, de unde urmează o scurtă plimbare spre Höllgrotten. Petreceți după-amiaza în peșteri, iar apoi autobuzul vă lasă aproape de berărie.",
+            "en": "Use Baar's dense bus network to stay dry during the rain. From Baar station, you can quickly reach the Town Hall and churches. A bus takes you close to the Lorze, followed by a short walk to Höllgrotten. Spend the afternoon in the caves before the bus drops you off almost right in front of the Baar Brewery."
+          },
+          "stops": [
+            {
+              "name": "Baar Station & Town Hall",
+              "tip_4lang": {
+                "de": "Warten Sie in der Bahnhofshalle, falls es stark regnet.",
+                "hu": "Várjon az állomás csarnokában, ha nagyon esik.",
+                "ro": "Așteptați în holul gării dacă plouă torențial.",
+                "en": "Wait in the station hall if the rain is very heavy."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_4lang": {
+                "de": "Nur wenige Gehminuten von der nächsten Bushaltestelle.",
+                "hu": "Csak pár perc séta a legközelebbi buszmegállótól.",
+                "ro": "La doar câteva minute de mers pe jos de cea mai apropiată stație.",
+                "en": "Just a few minutes' walk from the nearest bus stop."
+              }
+            },
+            {
+              "name": "Spinning Mill on the Lorze",
+              "tip_4lang": {
+                "de": "Überdachte Bushaltestellen bieten Schutz beim Warten.",
+                "hu": "A fedett buszmegállók védelmet nyújtanak várakozás közben.",
+                "ro": "Stațiile de autobuz acoperite oferă protecție la așteptare.",
+                "en": "Covered bus stops provide shelter while waiting."
+              }
+            },
+            {
+              "name": "Höllgrotten Caves",
+              "tip_4lang": {
+                "de": "Prüfen Sie die Busverbindung (Linie 603/604) vorab.",
+                "hu": "Ellenőrizze előre a buszjáratokat (603/604-es vonal).",
+                "ro": "Verificați din timp conexiunile de autobuz (liniile 603/604).",
+                "en": "Check bus connections (lines 603/604) in advance."
+              }
+            },
+            {
+              "name": "Baar Brewery",
+              "tip_4lang": {
+                "de": "Die Haltestelle 'Brauerei' liegt direkt beim Ziel.",
+                "hu": "A 'Brauerei' megálló közvetlenül a célpontnál található.",
+                "ro": "Stația 'Brauerei' se află chiar lângă destinație.",
+                "en": "The 'Brauerei' stop is located right by your destination."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die SBB Mobile App für Echtzeit-Infos.",
+              "Die meisten Bushaltestellen im Zentrum sind überdacht.",
+              "Ein kurzer Regenschirm ist ideal für den Bus.",
+              "Planen Sie Umstiegszeiten großzügig ein."
+            ],
+            "hu": [
+              "Használja az SBB Mobile appot a valós idejű infókért.",
+              "A legtöbb központi buszmegálló fedett.",
+              "Egy összecsukható esernyő a legpraktikusabb a buszon.",
+              "Tervezzen bőséges időt az átszállásokra."
+            ],
+            "ro": [
+              "Folosiți aplicația SBB Mobile pentru informații în timp real.",
+              "Majoritatea stațiilor de autobuz din centru sunt acoperite.",
+              "O umbrelă scurtă este ideală pentru utilizarea în autobuz.",
+              "Planificați generos timpii de transfer."
+            ],
+            "en": [
+              "Use the SBB Mobile app for real-time information.",
+              "Most bus stops in the center are covered.",
+              "A compact umbrella is ideal for bus travel.",
+              "Allow generous time for transfers between lines."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Dank der beheizten Busse und Züge ist Baar auch im Winter leicht zu erkunden. Vormittags besuchen Sie die verschneite Altstadt, bevor Sie sich im Bus aufwärmen. Die Fahrt durch das Lorzetal bietet einen Blick auf die frostige Natur, ohne dass Sie frieren müssen. Die Höllgrotten sind ein warmes Winter-Highlight. Den Abschluss bildet die Brauerei, die bequem per Bus erreichbar ist, bevor die frühe Dunkelheit einsetzt.",
+            "hu": "A fűtött buszoknak és vonatoknak köszönhetően Baar télen is könnyen felfedezhető. Délelőtt látogassa meg a havas óvárost, majd melegedjen fel a buszon. A Lorze-völgyön átvezető út rálátást nyújt a fagyos természetre anélkül, hogy fázna. A Höllgrotten barlang igazi téli csemege. A napot a sörfőzdében zárhatja, amely kényelmesen elérhető busszal a korai sötétedés előtt.",
+            "ro": "Datorită autobuzelor și trenurilor încălzite, Baar este ușor de explorat și iarna. Dimineața vizitați centrul vechi înzăpezit, apoi încălziți-vă în autobuz. Drumul prin valea Lorze oferă o priveliște asupra naturii înghețate din confortul vehiculului. Peștera Höllgrotten este punctul culminant al iernii. Încheiați la berărie, accesibilă ușor cu autobuzul înainte de lăsarea serii.",
+            "en": "Thanks to heated buses and trains, Baar is easy to explore even in winter. In the morning, visit the snowy old town before warming up on the bus. The ride through the Lorze Valley offers views of the frosty nature without you having to freeze. The Höllgrotten caves are a warm winter highlight. Finish at the brewery, which is easily accessible by bus before the early darkness sets in."
+          },
+          "stops": [
+            {
+              "name": "Baar Station & Town Hall",
+              "tip_4lang": {
+                "de": "Züge und Busse sind im Winter gut beheizt.",
+                "hu": "A vonatok és buszok télen jól fűtöttek.",
+                "ro": "Trenurile și autobuzele sunt bine încălzite iarna.",
+                "en": "Trains and buses are well-heated during the winter."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_4lang": {
+                "de": "Kürzen Sie den Weg durch die Kälte mit dem Stadtbus ab.",
+                "hu": "Rövidítse le a hidegben való gyaloglást a városi busszal.",
+                "ro": "Scurtați drumul prin frig folosind autobuzul urban.",
+                "en": "Shorten your time in the cold by taking the city bus."
+              }
+            },
+            {
+              "name": "Spinning Mill on the Lorze",
+              "tip_4lang": {
+                "de": "Warten Sie in den beheizten Wartezonen am Bahnhof.",
+                "hu": "Várjon a pályaudvar fűtött várakozóhelyein.",
+                "ro": "Așteptați în zonele încălzite din gară.",
+                "en": "Wait in the heated waiting areas at the station."
+              }
+            },
+            {
+              "name": "Höllgrotten Caves",
+              "tip_4lang": {
+                "de": "Winter-Fahrplan beachten, Busse fahren seltener.",
+                "hu": "Ügyeljen a téli menetrendre, a buszok ritkábban járhatnak.",
+                "ro": "Atenție la orarul de iarnă; autobuzele pot circula mai rar.",
+                "en": "Check the winter schedule as buses may run less frequently."
+              }
+            },
+            {
+              "name": "Baar Brewery",
+              "tip_4lang": {
+                "de": "Letzte Busse vor der Dunkelheit nutzen (ca. 16:30 Uhr).",
+                "hu": "Használja az utolsó buszokat sötétedés előtt (kb. 16:30).",
+                "ro": "Folosiți ultimele autobuze înainte de întuneric (aprox. 16:30).",
+                "en": "Take the last buses before dark (around 4:30 PM)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die SBB-App zeigt Verspätungen durch Schnee an.",
+              "Warten Sie im Inneren der Bahnhöfe auf Anschlüsse.",
+              "Tragen Sie Schichten für den Wechsel Bus-Kälte.",
+              "Im Winter fahren manche Busse nur stündlich."
+            ],
+            "hu": [
+              "Az SBB-app jelzi a hó miatti késéseket.",
+              "Várjon a pályaudvarok belső terében a csatlakozásokra.",
+              "Öltözzön rétegesen a busz és a kinti hideg közötti váltáshoz.",
+              "Télen egyes buszok csak óránként közlekednek."
+            ],
+            "ro": [
+              "Aplicația SBB arată întârzierile cauzate de zăpadă.",
+              "Așteptați conexiunile în interiorul gărilor.",
+              "Îmbrăcați-vă în straturi pentru diferența de temperatură bus-exterior.",
+              "Iarna, unele autobuze circulă doar o dată pe oră."
+            ],
+            "en": [
+              "The SBB app shows delays caused by snow.",
+              "Wait inside the stations for your connections.",
+              "Wear layers to handle the temperature changes between bus and outside.",
+              "In winter, some buses may only run once an hour."
+            ]
+          }
+        }
       }
     }
   }

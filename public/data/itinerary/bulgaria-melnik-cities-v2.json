@@ -379,6 +379,214 @@
           "Allow plenty of time for the climbs to the fortress and viewpoints.",
           "A hat and water are essential on sunny days as there is little shade."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Pashova-Haus, das Schutz vor dem Regen bietet. Mittags erkunden Sie die tiefen, trockenen Keller des Weinmuseums. Am Nachmittag führt der Weg zum Kordopulov-Haus, dessen unterirdische Gänge ideal für nasses Wetter sind. Den Abend lassen Sie mit einem Blick auf die mystisch im Nebel liegenden Sandpyramiden ausklingen.",
+            "hu": "Kezdje a napot a Pashova-házban, amely menedéket nyújt az eső elől. Délben fedezze fel a Bormúzeum mély, száraz pincéit. Délután a Kordopulov-ház várja, melynek hatalmas földalatti járatai ideálisak borongós időben. Az estét a ködbe burkolózó homokpiramisok látványával zárja, amely ilyenkor különösen misztikus.",
+            "ro": "Începeți ziua la Casa Pașova, care oferă adăpost împotriva ploii. La prânz, explorați pivnițele adânci și uscate ale Muzeului Vinului. După-amiaza, vizitați Casa Kordopulov, ale cărei galerii subterane sunt ideale pe vreme umedă. Încheiați seara cu priveliștea piramidelor de nisip învăluite în ceață mistică.",
+            "en": "Start your day at Pashova House, providing shelter from the rain. At noon, explore the deep, dry cellars of the Wine Museum. In the afternoon, head to Kordopulov House, where the vast underground tunnels are perfect for wet weather. End the evening with a view of the sand pyramids, looking mystical through the mountain mist."
+          },
+          "stops": [
+            {
+              "name": "Pashova House",
+              "tip_5lang": {
+                "de": "Genießen Sie die Architektur im Inneren, während es draußen regnet.",
+                "hu": "Élvezze a belső építészetet, amíg kint esik az eső.",
+                "ro": "Bucurați-vă de arhitectura interioară în timp ce afară plouă.",
+                "en": "Enjoy the interior architecture while it rains outside."
+              }
+            },
+            {
+              "name": "Wine Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um trocken zu bleiben und lokalen Wein zu probieren.",
+                "hu": "Tökéletes hely, hogy szárazon maradjon és helyi bort kóstoljon.",
+                "ro": "Locul perfect pentru a rămâne uscat și a gusta vinul local.",
+                "en": "The perfect spot to stay dry and taste local wine."
+              }
+            },
+            {
+              "name": "Kordopulov House",
+              "tip_5lang": {
+                "de": "Die riesigen Weinkeller im Felsen sind absolut regensicher.",
+                "hu": "A sziklába vájt hatalmas borospincék teljesen esőbiztosak.",
+                "ro": "Pivnițele uriașe săpate în stâncă sunt complet ferite de ploaie.",
+                "en": "The massive wine cellars carved into rock are completely rain-proof."
+              }
+            },
+            {
+              "name": "Church of Saint Anthony",
+              "tip_5lang": {
+                "de": "Ein ruhiger, überdachter Rückzugsort bei kurzen Schauern.",
+                "hu": "Csendes, fedett menedék egy rövid zápor idejére.",
+                "ro": "Un refugiu liniștit și acoperit în timpul unei averse scurte.",
+                "en": "A quiet, covered retreat during a short downpour."
+              }
+            },
+            {
+              "name": "Church of Saint Nicholas",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Steinstufen beim Aufstieg.",
+                "hu": "Vigyázzon a vizes lépcsőkkel a felfelé vezető úton.",
+                "ro": "Atenție la treptele umede de piatră în timpul urcării.",
+                "en": "Watch out for the wet stone steps on the way up."
+              }
+            },
+            {
+              "name": "Fortress of Despot Slav",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk ist auf den schlammigen Pfaden unerlässlich.",
+                "hu": "A sáros ösvényeken elengedhetetlen a vízálló bakancs.",
+                "ro": "Încălțămintea solidă este esențială pe potecile noroioase.",
+                "en": "Sturdy footwear is essential on the muddy paths."
+              }
+            },
+            {
+              "name": "View of the Melnik Sandstone Pyramids",
+              "tip_5lang": {
+                "de": "Die Farben des Sandsteins wirken im Regen intensiver.",
+                "hu": "A homokkő színei intenzívebbnek tűnnek esőben.",
+                "ro": "Culorile gresiei par mai intense pe timp de ploaie.",
+                "en": "The colors of the sandstone appear more intense in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Melniks Kopfsteinpflaster wird bei Regen sehr rutschig.",
+              "Die Weinkeller bieten den besten Schutz vor Nässe.",
+              "Ein Regenschirm ist wegen der engen Gassen praktischer als ein Regenmantel.",
+              "Besuchen Sie die historischen Häuser für längere Indoor-Aufenthalte.",
+              "Warmer Melnik-Wein ist das beste Mittel gegen graues Wetter."
+            ],
+            "hu": [
+              "Melnik macskakövei nagyon csúszóssá válnak esőben.",
+              "A borospincék nyújtják a legjobb védelmet a nedvesség ellen.",
+              "Az esernyő praktikusabb a szűk utcákban, mint az esőkabát.",
+              "Látogassa meg a történelmi házakat a hosszabb fedett programokért.",
+              "A meleg melniki bor a legjobb gyógyír a borús időre."
+            ],
+            "ro": [
+              "Pavajul din Melnik devine foarte alunecos când plouă.",
+              "Pivnițele de vin oferă cea mai bună protecție împotriva umezelii.",
+              "O umbrelă este mai practică decât o pelerină pe străzile înguste.",
+              "Vizitați casele istorice pentru activități prelungite la interior.",
+              "Vinul cald de Melnik este cel mai bun remediu pentru vremea gri."
+            ],
+            "en": [
+              "Melnik's cobblestones become very slippery when wet.",
+              "The wine cellars provide the best protection from the rain.",
+              "An umbrella is more practical than a raincoat in the narrow alleys.",
+              "Visit the historical houses for extended indoor stays.",
+              "Warm Melnik wine is the best remedy for grey weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die winterliche Stille von Melnik am Morgen. Mittags wärmen Sie sich im Weinmuseum bei einer Verkostung auf. Am Nachmittag bewundern Sie das Kordopulov-Haus, dessen Keller das ganze Jahr über konstante Temperaturen halten. Vor dem frühen Sonnenuntergang genießen Sie den Blick auf die schneebedeckten Sandpyramiden.",
+            "hu": "Élvezze Melnik téli csendjét a reggeli órákban. Délben melegedjen fel a Bormúzeumban egy kóstoló mellett. Délután csodálja meg a Kordopulov-házat, melynek pincéiben egész évben állandó a hőmérséklet. A korai naplemente előtt gyönyörködjön a hóval fedett homokpiramisok látványában.",
+            "ro": "Bucurați-vă de liniștea iernii în Melnik în timpul dimineții. La prânz, încălziți-vă la Muzeul Vinului cu o degustare. După-amiaza, admirați Casa Kordopulov, ale cărei pivnițe mențin temperaturi constante tot anul. Înainte de apusul devreme, admirați piramidele de nisip acoperite de zăpadă.",
+            "en": "Enjoy the winter silence of Melnik in the morning. At noon, warm up at the Wine Museum with a tasting session. In the afternoon, admire Kordopulov House, whose cellars maintain a constant temperature year-round. Before the early sunset, enjoy the view of the snow-dusted sand pyramids."
+          },
+          "stops": [
+            {
+              "name": "Pashova House",
+              "tip_5lang": {
+                "de": "Drinnen ist es deutlich wärmer als in den zugigen Gassen.",
+                "hu": "Odabent lényegesen melegebb van, mint a huzatos utcákon.",
+                "ro": "În interior este mult mai cald decât pe străzile cu curent.",
+                "en": "It is significantly warmer inside than in the drafty alleys."
+              }
+            },
+            {
+              "name": "Wine Museum",
+              "tip_5lang": {
+                "de": "Die unterirdische Lage schützt perfekt vor dem Winterwind.",
+                "hu": "A földalatti elhelyezkedés tökéletesen véd a téli széltől.",
+                "ro": "Locația subterană protejează perfect de vântul de iarnă.",
+                "en": "The underground location protects perfectly from the winter wind."
+              }
+            },
+            {
+              "name": "Kordopulov House",
+              "tip_5lang": {
+                "de": "Die Felsenkeller sind im Winter angenehm temperiert.",
+                "hu": "A sziklapincék télen is kellemes hőmérsékletűek.",
+                "ro": "Pivnițele în stâncă au o temperatură plăcută chiar și iarna.",
+                "en": "The rock cellars have a pleasant temperature even in winter."
+              }
+            },
+            {
+              "name": "Church of Saint Anthony",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille, ideal zum Aufwärmen der Seele.",
+                "hu": "A csend helye, ideális a lélek felmelegítésére.",
+                "ro": "Un loc al liniștii, ideal pentru a vă încălzi sufletul.",
+                "en": "A place of silence, ideal for warming the soul."
+              }
+            },
+            {
+              "name": "Church of Saint Nicholas",
+              "tip_5lang": {
+                "de": "Achtung bei Eisglätte auf dem Weg zum Hügel.",
+                "hu": "Vigyázzon a jegesedéssel a dombra vezető úton.",
+                "ro": "Atenție la gheață pe drumul spre deal.",
+                "en": "Watch out for ice on the way up the hill."
+              }
+            },
+            {
+              "name": "Fortress of Despot Slav",
+              "tip_5lang": {
+                "de": "Der Aufstieg bietet einen tollen Blick auf das verschneite Tal.",
+                "hu": "A feljutás remek kilátást nyújt a havas völgyre.",
+                "ro": "Urcarea oferă o priveliște minunată asupra văii înzăpezite.",
+                "en": "The climb offers a great view of the snowy valley."
+              }
+            },
+            {
+              "name": "View of the Melnik Sandstone Pyramids",
+              "tip_5lang": {
+                "de": "Der Kontrast zwischen rotem Sand und weißem Schnee ist fantastisch.",
+                "hu": "A vörös homok és a fehér hó kontrasztja fantasztikus.",
+                "ro": "Contrastul dintre nisipul roșu și zăpada albă este fantastic.",
+                "en": "The contrast between red sand and white snow is fantastic."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Tragen Sie mehrere Schichten Kleidung für den Wechsel zwischen Keller und Außenluft.",
+              "Viele Tavernen haben im Winter gemütliche Kamine.",
+              "Feste Stiefel mit gutem Profil sind für die Hügelwege wichtig.",
+              "Probieren Sie den schweren Rotwein, der im Winter besonders gut schmeckt."
+            ],
+            "hu": [
+              "A nap télen már 16:30 körül lenyugszik.",
+              "Réteges öltözködés javasolt a pincék és a kinti levegő váltakozása miatt.",
+              "Sok tavernában télen hangulatos kandalló várja.",
+              "A domboldali utakhoz fontos a jó tapadású, meleg bakancs.",
+              "Kóstolja meg a nehéz vörösbort, ami télen különösen jól esik."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:30 pe timpul iernii.",
+              "Purtați haine în mai multe straturi pentru trecerea de la pivniță la exterior.",
+              "Multe taverne au șeminee primitoare în timpul iernii.",
+              "Bocancii cu talpă aderentă sunt importanți pentru potecile de pe deal.",
+              "Gustați vinul roșu corpolent, care este excelent iarna."
+            ],
+            "en": [
+              "Sunset occurs as early as 16:30 during winter.",
+              "Wear multiple layers for the transition between cellars and outside air.",
+              "Many taverns feature cozy fireplaces in winter.",
+              "Sturdy boots with good grip are essential for the hill paths.",
+              "Try the heavy red wine, which is particularly satisfying in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -709,6 +917,196 @@
           "Bring a bike lock to secure your bike while exploring sights.",
           "A small bike bag for water, snacks, and a map is highly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Stadteingang. Den Mittag verbringen Sie sicher im Kordopulov-Haus, während die Räder untergestellt sind. Nachmittags besuchen Sie die Festung, wenn der Regen nachlässt. Den Abend verbringen Sie gemütlich in einer Taverne, um sich nach der Fahrt zu trocknen.",
+            "hu": "Kezdje óvatosan a tekerést a város bejáratánál. A delet töltse biztonságban a Kordopulov-házban, amíg a biciklik fedett helyen vannak. Délután látogassa meg az erődöt, ha alábbhagy az eső. Az estét töltse egy hangulatos tavernában, hogy megszáradjon a túra után.",
+            "ro": "Începeți cu atenție plimbarea de la intrarea în oraș. Petreceți prânzul în siguranță la Casa Kordopulov, în timp ce bicicletele sunt la adăpost. După-amiaza vizitați cetatea dacă ploaia se domolește. Petreceți seara într-o tavernă primitoare pentru a vă usca după drum.",
+            "en": "Start cautiously at the town entrance. Spend midday safely at Kordopulov House while the bikes are sheltered. In the afternoon, visit the fortress if the rain eases. Spend the evening in a cozy tavern to dry off after the ride."
+          },
+          "stops": [
+            {
+              "name": "Start at the town entrance",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie auf das nasse Kopfsteinpflaster fahren.",
+                "hu": "Ellenőrizze a fékeit, mielőtt a vizes macskakőre hajtana.",
+                "ro": "Verificați frânele înainte de a intra pe pavajul umed.",
+                "en": "Check your brakes before riding onto the wet cobblestones."
+              }
+            },
+            {
+              "name": "Wine Museum & Kordopulov House",
+              "tip_5lang": {
+                "de": "Stellen Sie die Räder unter dem Dachvorsprung ab.",
+                "hu": "Parkoljon a biciklikkel az eresz alatt.",
+                "ro": "Parcați bicicletele sub streașină.",
+                "en": "Park the bikes under the roof overhang."
+              }
+            },
+            {
+              "name": "Ruins of the Spileotissa Monastery",
+              "tip_5lang": {
+                "de": "Der Pfad hierher kann bei Regen sehr schlammig sein.",
+                "hu": "Az idevezető ösvény nagyon sáros lehet esőben.",
+                "ro": "Poteca spre ruine poate fi foarte noroioasă pe ploaie.",
+                "en": "The path here can be very muddy in the rain."
+              }
+            },
+            {
+              "name": "Fortress of Despot Slav",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad bei steilen, nassen Abschnitten lieber.",
+                "hu": "A meredek, vizes szakaszokon inkább tolja a biciklit.",
+                "ro": "Mai degrabă împingeți bicicleta pe porțiunile abrupte și umede.",
+                "en": "Better push the bike on steep, wet sections."
+              }
+            },
+            {
+              "name": "Melnik Sandstone Pyramids (Viewpoint)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick, aber bleiben Sie auf befestigten Wegen.",
+                "hu": "Élvezze a kilátást, de maradjon a szilárd utakon.",
+                "ro": "Bucurați-vă de priveliște, dar rămâneți pe drumurile solide.",
+                "en": "Enjoy the view but stay on the solid paths."
+              }
+            },
+            {
+              "name": "Relaxation at a Tavern",
+              "tip_5lang": {
+                "de": "Ein heißer Tee hilft gegen die Kälte der nassen Kleidung.",
+                "hu": "Egy forró tea segít a vizes ruhák miatti áthűlés ellen.",
+                "ro": "Un ceai fierbinte ajută împotriva frigului cauzat de hainele ude.",
+                "en": "A hot tea helps against the chill from wet clothes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie schnelles Bremsen auf nassem Kopfsteinpflaster.",
+              "Vollständige Regenbekleidung ist für Radfahrer in Melnik Pflicht.",
+              "Suchen Sie bei starkem Regen Schutz in den vielen Unterständen.",
+              "Schutzbleche am Rad verhindern das Verschmutzen der Kleidung durch Schlamm.",
+              "Kürzen Sie die Route bei anhaltendem Starkregen ab."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a vizes macskakövön.",
+              "A teljes esőruházat kötelező a kerékpárosoknak Melnikben.",
+              "Heves esőzéskor keressen menedéket a számos beálló alatt.",
+              "A sárvédő megakadályozza, hogy a sár összefogja a ruháját.",
+              "Tartós eső esetén rövidítse le az útvonalat."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe pavajul umed.",
+              "Echipamentul complet de ploaie este obligatoriu pentru bicicliști în Melnik.",
+              "În caz de ploaie torențială, căutați adăpost sub numeroasele copertine.",
+              "Aripile la bicicletă previn murdărirea hainelor cu noroi.",
+              "Scurtați traseul în caz de ploaie persistentă."
+            ],
+            "en": [
+              "Avoid sudden braking on wet cobblestones.",
+              "Full rain gear is mandatory for cyclists in Melnik.",
+              "Seek shelter under the many overhangs during heavy downpours.",
+              "Mudguards will prevent mud from ruining your clothes.",
+              "Shorten the route if the rain persists."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour am Stadteingang. Mittags kehren Sie für eine lange Pause im Kordopulov-Haus ein. Nachmittags fahren Sie zur Festung, solange es noch hell ist. Den Abend genießen Sie in einer warmen Taverne am Kamin.",
+            "hu": "Kezdje téli túráját a város bejáratánál. Délben térjen be egy hosszú pihenőre a Kordopulov-házba. Délután tekerjen fel az erődhöz, amíg még világos van. Az estét élvezze egy meleg tavernában, a kandalló mellett.",
+            "ro": "Începeți turul de iarnă la intrarea în oraș. La prânz, opriți-vă pentru o pauză lungă la Casa Kordopulov. După-amiaza pedalați spre cetate cât încă este lumină. Petreceți seara într-o tavernă caldă, lângă șemineu.",
+            "en": "Start your winter tour at the town entrance. At noon, stop for a long break at Kordopulov House. In the afternoon, ride up to the fortress while it's still light. Enjoy the evening in a warm tavern by the fireplace."
+          },
+          "stops": [
+            {
+              "name": "Start at the town entrance",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Pfützen im Schatten.",
+                "hu": "Ügyeljen az árnyékos helyeken megbújó jeges tócsákra.",
+                "ro": "Atenție la bălțile înghețate de la umbră.",
+                "en": "Watch out for frozen puddles in the shadows."
+              }
+            },
+            {
+              "name": "Wine Museum & Kordopulov House",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Hände wieder aufzuwärmen.",
+                "hu": "Ideális hely a kezek felmelegítésére.",
+                "ro": "Un loc ideal pentru a vă reîncălzi mâinile.",
+                "en": "An ideal place to warm up your hands."
+              }
+            },
+            {
+              "name": "Ruins of the Spileotissa Monastery",
+              "tip_5lang": {
+                "de": "Bei Schnee ist der Pfad hier sehr schwer befahrbar.",
+                "hu": "Hóban ez az ösvény nagyon nehezen járható biciklivel.",
+                "ro": "Pe zăpadă, această potecă este foarte greu de parcurs cu bicicleta.",
+                "en": "In snow, this path is very difficult to ride."
+              }
+            },
+            {
+              "name": "Fortress of Despot Slav",
+              "tip_5lang": {
+                "de": "Der Wind oben ist im Winter sehr schneidend.",
+                "hu": "A fenti szél télen nagyon metsző lehet.",
+                "ro": "Vântul de sus poate fi foarte tăios iarna.",
+                "en": "The wind at the top can be very biting in winter."
+              }
+            },
+            {
+              "name": "Melnik Sandstone Pyramids (Viewpoint)",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Tageslicht für Fotos vor 16 Uhr.",
+                "hu": "Használja ki a nappali fényt a fotózáshoz 16 óra előtt.",
+                "ro": "Profitați de lumina zilei pentru fotografii înainte de ora 16.",
+                "en": "Make use of daylight for photos before 4 PM."
+              }
+            },
+            {
+              "name": "Relaxation at a Tavern",
+              "tip_5lang": {
+                "de": "Gönnen Sie sich ein warmes Essen nach der kalten Fahrt.",
+                "hu": "Kényeztesse magát egy meleg étellel a hideg túra után.",
+                "ro": "Răsfățați-vă cu o masă caldă după drumul friguros.",
+                "en": "Indulge in a warm meal after the cold ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermische Handschuhe sind bei Abfahrten im Winter lebenswichtig.",
+              "Prüfen Sie den Reifendruck; Kälte kann ihn verringern.",
+              "Die Tage sind kurz; planen Sie das Ende der Tour für 16 Uhr.",
+              "Ein heißes Getränk in einer Thermoskanne ist sehr zu empfehlen.",
+              "Vermeiden Sie Fahrten bei Glatteisgefahr auf den steilen Wegen."
+            ],
+            "hu": [
+              "A hőszigetelt kesztyű elengedhetetlen a téli lejtőzéskor.",
+              "Ellenőrizze a guminyomást, a hidegben csökkenhet.",
+              "Rövidülnek a nappalok, tervezze a túra végét 16 órára.",
+              "Forró ital termoszban kifejezetten ajánlott.",
+              "Kerülje a tekerést, ha jegesedés várható a meredek utakon."
+            ],
+            "ro": [
+              "Mănușile termice sunt vitale la coborârile de iarnă.",
+              "Verificați presiunea în pneuri; frigul o poate reduce.",
+              "Zilele sunt scurte; planificați finalul turului pentru ora 16.",
+              "O băutură fierbinte în termos este recomandată.",
+              "Evitați plimbările dacă există risc de polei pe drumurile abrupte."
+            ],
+            "en": [
+              "Thermal gloves are vital for winter descents.",
+              "Check tire pressure as cold air can cause it to drop.",
+              "Days are short; plan to finish your tour by 4 PM.",
+              "A hot drink in a thermos is highly recommended.",
+              "Avoid riding if there is a risk of ice on the steep paths."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1023,6 +1421,196 @@
           "Designate a driver for the day if you plan to participate in wine tastings.",
           "A GPS or mobile map is essential for navigating the surrounding area."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens zum Kloster Roshen, das bei Regen besonders friedlich ist. Mittags erkunden Sie die Sandpyramiden vom Auto aus oder an Aussichtspunkten. Den Nachmittag verbringen Sie in Melnik in den historischen Häusern. Der Abend endet trocken im Weinmuseum.",
+            "hu": "Autózzon reggel a Rozseni kolostorhoz, amely esőben különösen békés. Délben fedezze fel a homokpiramisokat az autóból vagy kilátópontokról. A délutánt töltse Melnik történelmi házaiban. Az este szárazon ér véget a Bormúzeumban.",
+            "ro": "Conduceți dimineața spre Mănăstirea Rojhen, care este deosebit de liniștită pe ploaie. La prânz, explorați piramidele de nisip din mașină sau de la punctele de observație. Petreceți după-amiaza în casele istorice din Melnik. Seara se încheie la adăpost în Muzeul Vinului.",
+            "en": "Drive to Rozhen Monastery in the morning, which is particularly peaceful in the rain. At noon, explore the sand pyramids from the car or designated viewpoints. Spend the afternoon in Melnik's historical houses. The evening ends dry at the Wine Museum."
+          },
+          "stops": [
+            {
+              "name": "Parking at Rozhen Monastery (nearby)",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Weg im Regen zu verkürzen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy lerövidítse az utat az esőben.",
+                "ro": "Parcați aproape de intrare pentru a scurta drumul prin ploaie.",
+                "en": "Park close to the entrance to shorten the walk in the rain."
+              }
+            },
+            {
+              "name": "Drive to the Melnik Sandstone Pyramids",
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie auch bei Regen einen guten Blick.",
+                "hu": "A parkolóból esőben is jó kilátás nyílik.",
+                "ro": "Din parcare aveți o priveliște bună chiar și pe ploaie.",
+                "en": "The parking area offers a good view even in the rain."
+              }
+            },
+            {
+              "name": "Park in Melnik & Walk to the Fortress",
+              "tip_5lang": {
+                "de": "Lassen Sie keine Wertsachen sichtbar im Auto.",
+                "hu": "Ne hagyjon értéket látható helyen az autóban.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
+                "en": "Do not leave valuables visible in the car."
+              }
+            },
+            {
+              "name": "Walk to Lunch in the Town Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Wege zwischen den Parkplätzen.",
+                "hu": "Használja ki a parkolók közötti rövid távolságokat.",
+                "ro": "Profitați de distanțele scurte între parcări.",
+                "en": "Take advantage of the short distances between parking spots."
+              }
+            },
+            {
+              "name": "Walk to Kordopulov House",
+              "tip_5lang": {
+                "de": "Der Weg ist steil, aber das Ziel ist trocken und warm.",
+                "hu": "Az út meredek, de a cél száraz és meleg.",
+                "ro": "Drumul este abrupt, dar destinația este uscată și caldă.",
+                "en": "The path is steep, but the destination is dry and warm."
+              }
+            },
+            {
+              "name": "Walk to the Wine Museum for a final tasting",
+              "tip_5lang": {
+                "de": "Ein perfekter Abschluss, bevor Sie ins trockene Auto steigen.",
+                "hu": "Tökéletes zárás, mielőtt visszaülne a száraz autóba.",
+                "ro": "Un final perfect înainte de a urca în mașina uscată.",
+                "en": "A perfect finish before getting back into your dry car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen nach Melnik können bei Regen rutschig sein.",
+              "Nutzen Sie die zentralen Parkplätze, um Fußwege zu minimieren.",
+              "Halten Sie Ersatzschuhe im Auto bereit.",
+              "Besuchen Sie das Kloster Roshen bei starkem Regen zuerst.",
+              "Fahren Sie vorsichtig auf den schmalen, nassen Straßen."
+            ],
+            "hu": [
+              "A Melnikbe vezető utak csúszósak lehetnek esőben.",
+              "Használja a központi parkolókat a gyaloglás minimalizálásához.",
+              "Tartson váltócipőt az autóban.",
+              "Heves esőzéskor kezdjen a Rozseni kolostornál.",
+              "Vezessen óvatosan a szűk, vizes utakon."
+            ],
+            "ro": [
+              "Drumurile spre Melnik pot fi alunecoase pe ploaie.",
+              "Folosiți parcările centrale pentru a minimiza mersul pe jos.",
+              "Păstrați încălțăminte de schimb în mașină.",
+              "Vizitați mai întâi Mănăstirea Rojhen în caz de ploaie torențială.",
+              "Conduceți cu prudență pe drumurile înguste și umede."
+            ],
+            "en": [
+              "Roads to Melnik can be slippery in the rain.",
+              "Use central parking areas to minimize walking distances.",
+              "Keep spare shoes in the car.",
+              "Visit Rozhen Monastery first during heavy rain.",
+              "Drive carefully on the narrow, wet roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie morgens beim Kloster Roshen in der Wintersonne. Mittags bewundern Sie die schneebedeckten Pyramiden. Den Nachmittag verbringen Sie in der Wärme von Melniks historischen Häusern. Der Abend klingt gemütlich bei einer Weinprobe aus.",
+            "hu": "Kezdje a reggelt a Rozseni kolostornál a téli napsütésben. Délben csodálja meg a hóval borított piramisokat. A délutánt töltse Melnik történelmi házainak melegében. Az este hangulatos borkóstolóval zárul.",
+            "ro": "Începeți dimineața la Mănăstirea Rojhen în soarele de iarnă. La prânz admirați piramidele acoperite de zăpadă. Petreceți după-amiaza în căldura caselor istorice din Melnik. Seara se încheie plăcut cu o degustare de vinuri.",
+            "en": "Start the morning at Rozhen Monastery in the winter sun. At noon, admire the snow-covered pyramids. Spend the afternoon in the warmth of Melnik's historical houses. The evening concludes with a cozy wine tasting."
+          },
+          "stops": [
+            {
+              "name": "Parking at Rozhen Monastery (nearby)",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Auto winterfest ist.",
+                "hu": "Győződjön meg róla, hogy az autója fel van készítve a télre.",
+                "ro": "Asigurați-vă că mașina este echipată pentru iarnă.",
+                "en": "Ensure your car is winter-ready."
+              }
+            },
+            {
+              "name": "Drive to the Melnik Sandstone Pyramids",
+              "tip_5lang": {
+                "de": "Die Straßen können am Morgen glatt sein.",
+                "hu": "Az utak reggelente jegesek lehetnek.",
+                "ro": "Drumurile pot fi înghețate dimineața.",
+                "en": "Roads can be icy in the mornings."
+              }
+            },
+            {
+              "name": "Park in Melnik & Walk to the Fortress",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft beim kurzen Spaziergang.",
+                "hu": "Élvezze a tiszta téli levegőt a rövid séta alatt.",
+                "ro": "Bucurați-vă de aerul curat de iarnă în timpul scurtei plimbări.",
+                "en": "Enjoy the crisp winter air during the short walk."
+              }
+            },
+            {
+              "name": "Walk to Lunch in the Town Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit einem Kamin.",
+                "hu": "Válasszon olyan éttermet, ahol van kandalló.",
+                "ro": "Alegeți un restaurant cu șemineu.",
+                "en": "Choose a restaurant with a fireplace."
+              }
+            },
+            {
+              "name": "Walk to Kordopulov House",
+              "tip_5lang": {
+                "de": "Die konstante Kellertemperatur wirkt im Winter wärmend.",
+                "hu": "A pince állandó hőmérséklete télen melegítőnek hat.",
+                "ro": "Temperatura constantă din pivniță pare caldă iarna.",
+                "en": "The constant cellar temperature feels warming in winter."
+              }
+            },
+            {
+              "name": "Walk to the Wine Museum for a final tasting",
+              "tip_5lang": {
+                "de": "Ein warmer Innenraum für den letzten Stopp des Tages.",
+                "hu": "Meleg belső tér a nap utolsó állomásához.",
+                "ro": "Un spațiu interior cald pentru ultima oprire a zilei.",
+                "en": "A warm indoor space for the final stop of the day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind für die Bergstraßen absolut notwendig.",
+              "Planen Sie Ihre Fahrten so, dass Sie vor Dunkelheit zurück sind.",
+              "Prüfen Sie den Wetterbericht auf Schneefall.",
+              "Nutzen Sie die Sitzheizung zwischen den Besichtigungen.",
+              "Die Bergstraßen können schattige Eisstellen haben."
+            ],
+            "hu": [
+              "A téli gumi elengedhetetlen a hegyi utakon.",
+              "Úgy tervezze az utat, hogy sötétedés előtt visszaérjen.",
+              "Ellenőrizze az időjárás-jelentést hóesés miatt.",
+              "Használja az ülésfűtést a látnivalók között.",
+              "A hegyi utakon árnyékos, jeges szakaszok lehetnek."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt absolut necesare pentru drumurile montane.",
+              "Planificați călătoriile astfel încât să vă întoarceți înainte de lăsarea întunericului.",
+              "Verificați prognoza meteo pentru ninsori.",
+              "Folosiți încălzirea în scaune între vizite.",
+              "Drumurile montane pot avea porțiuni înghețate la umbră."
+            ],
+            "en": [
+              "Winter tires are absolutely necessary for the mountain roads.",
+              "Plan your drives to be back before dark.",
+              "Check the weather forecast for potential snowfall.",
+              "Use seat heating between sightseeing stops.",
+              "Mountain roads may have shaded icy patches."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1330,6 +1918,178 @@
           "Even with transit use, comfortable shoes are a must.",
           "Ask locals for the best pedestrian routes or shortcuts."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bringt Sie der Transit zur Festung. Den Mittag verbringen Sie in der Pashova-Haus Ausstellung, geschützt vor dem Regen. Nachmittags besuchen Sie das Kordopulov-Haus. Der Tag endet im Weinmuseum, wo Sie das Wetter draußen bei einem Glas Wein vergessen können.",
+            "hu": "Reggel a transzfer az erődhöz viszi. A delet a Pashova-ház kiállításán töltse, védve az esőtől. Délután látogassa meg a Kordopulov-házat. A nap a Bormúzeumban zárul, ahol egy pohár bor mellett elfelejtheti a kinti időjárást.",
+            "ro": "Dimineața, transportul vă duce la cetate. Petreceți prânzul la expoziția din Casa Pașova, ferit de ploaie. După-amiaza vizitați Casa Kordopulov. Ziua se încheie la Muzeul Vinului, unde puteți uita de vremea de afară cu un pahar de vin.",
+            "en": "In the morning, transit takes you to the fortress. Spend midday at the Pashova House exhibition, sheltered from the rain. In the afternoon, visit Kordopulov House. The day ends at the Wine Museum, where you can forget the weather outside over a glass of wine."
+          },
+          "stops": [
+            {
+              "name": "Transit ride to the parking lot near the Fortress",
+              "tip_5lang": {
+                "de": "Warten Sie im Fahrzeug, bis der Regen nachlässt.",
+                "hu": "Várjon a járműben, amíg alábbhagy az eső.",
+                "ro": "Așteptați în vehicul până se mai potolește ploaia.",
+                "en": "Wait inside the vehicle until the rain eases."
+              }
+            },
+            {
+              "name": "Walk to the Church of Saint Nicholas",
+              "tip_5lang": {
+                "de": "Ein kurzer, aber nasser Fußweg – Schirm bereithalten.",
+                "hu": "Rövid, de vizes séta – tartsa készenlétben az esernyőt.",
+                "ro": "O plimbare scurtă dar udă – țineți umbrela la îndemână.",
+                "en": "A short but wet walk – keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Walk to the center: Lunch & Pashova House",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant direkt an der Route.",
+                "hu": "Keressen egy éttermet közvetlenül az útvonal mentén.",
+                "ro": "Căutați un restaurant direct pe traseu.",
+                "en": "Look for a restaurant directly along the route."
+              }
+            },
+            {
+              "name": "Transit ride to Kordopulov House",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Transit, um trocken zum nächsten Haus zu kommen.",
+                "hu": "Használja a transzfert, hogy szárazon jusson a következő házhoz.",
+                "ro": "Folosiți transportul pentru a ajunge uscat la următoarea casă.",
+                "en": "Use transit to get to the next house dry."
+              }
+            },
+            {
+              "name": "Walk to the Wine Museum",
+              "tip_5lang": {
+                "de": "Der Boden im Museum ist sicher und trocken.",
+                "hu": "A múzeum padlója biztonságos és száraz.",
+                "ro": "Podeaua muzeului este sigură și uscată.",
+                "en": "The museum floor is safe and dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Transitzeiten bei Regen auf Verzögerungen.",
+              "Halten Sie sich in überdachten Wartebereichen auf.",
+              "Ein kleiner Rucksack mit Regenschutz ist ideal.",
+              "Nutzen Sie die Innenbesichtigungen für die regnerischsten Stunden.",
+              "Fragen Sie den Fahrer nach dem nächstgelegenen Stopp zum Eingang."
+            ],
+            "hu": [
+              "Esőben ellenőrizze a járatok esetleges késését.",
+              "Várakozzon a fedett megállókban.",
+              "Egy kis hátizsák esővédővel ideális.",
+              "A legesősebb órákat tölte belső látogatásokkal.",
+              "Kérdezze a sofőrt a bejárathoz legközelebbi megállóról."
+            ],
+            "ro": [
+              "Verificați orarul transportului pentru eventuale întârzieri pe ploaie.",
+              "Așteptați în zonele de așteptare acoperite.",
+              "Un rucsac mic cu protecție pentru ploaie este ideal.",
+              "Folosiți orele cele mai ploioase pentru vizite interioare.",
+              "Întrebați șoferul despre cea mai apropiată stație de intrare."
+            ],
+            "en": [
+              "Check transit schedules for potential rain delays.",
+              "Stay in covered waiting areas.",
+              "A small backpack with a rain cover is ideal.",
+              "Use the rainiest hours for indoor visits.",
+              "Ask the driver for the stop closest to the entrance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie morgens mit dem Transit zur Festung. Den Mittag verbringen Sie gemütlich in Pashova-Haus. Nachmittags geht es zum Kordopulov-Haus. Der Tag endet im Weinmuseum, wo Sie sich vor der Rückfahrt aufwärmen können.",
+            "hu": "Reggel induljon transzferrel az erődhöz. A delet töltse hangulatosan a Pashova-házban. Délután látogasson el a Kordopulov-házhoz. A nap a Bormúzeumban zárul, ahol felmelegedhet a visszaindulás előtt.",
+            "ro": "Dimineața porniți cu transportul spre cetate. Petreceți prânzul plăcut la Casa Pașova. După-amiaza mergeți la Casa Kordopulov. Ziua se încheie la Muzeul Vinului, unde vă puteți încălzi înainte de plecare.",
+            "en": "Start the morning with transit to the fortress. Spend midday comfortably at Pashova House. In the afternoon, head to Kordopulov House. The day ends at the Wine Museum, where you can warm up before the return journey."
+          },
+          "stops": [
+            {
+              "name": "Transit ride to the parking lot near the Fortress",
+              "tip_5lang": {
+                "de": "Im Winter ist der Transit die bequemste Art, den Hügel zu erklimmen.",
+                "hu": "Télen a transzfer a legkényelmesebb módja a domb megmászásának.",
+                "ro": "Iarna, transportul este cel mai confortabil mod de a urca dealul.",
+                "en": "In winter, transit is the most comfortable way to climb the hill."
+              }
+            },
+            {
+              "name": "Walk to the Church of Saint Nicholas",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Socken für den Kirchenbesuch.",
+                "hu": "Viseljen meleg zoknit a templomlátogatáshoz.",
+                "ro": "Purtați șosete groase pentru vizita la biserică.",
+                "en": "Wear warm socks for the church visit."
+              }
+            },
+            {
+              "name": "Walk to the center: Lunch & Pashova House",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei einem traditionellen bulgarischen Eintopf auf.",
+                "hu": "Melegedjen fel egy hagyományos bolgár egytálétellel.",
+                "ro": "Încălziți-vă cu o tocană tradițională bulgărească.",
+                "en": "Warm up with a traditional Bulgarian stew."
+              }
+            },
+            {
+              "name": "Transit ride to Kordopulov House",
+              "tip_5lang": {
+                "de": "Planen Sie Pufferzeiten ein, da der Verkehr im Winter langsamer sein kann.",
+                "hu": "Számoljon ráhagyással, mert télen lassabb lehet a közlekedés.",
+                "ro": "Luați în calcul o marjă de timp, traficul poate fi mai lent iarna.",
+                "en": "Allow extra time as traffic can be slower in winter."
+              }
+            },
+            {
+              "name": "Walk to the Wine Museum",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint durch die Kälte zum warmen Museum.",
+                "hu": "Egy rövid sprint a hidegben a meleg múzeumig.",
+                "ro": "Un sprint scurt prin frig până la muzeul cald.",
+                "en": "A quick sprint through the cold to the warm museum."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können im Winter eingeschränkt sein.",
+              "Warten Sie in Cafés, falls der Transit Verspätung hat.",
+              "Dunkelheit bricht früh ein; nutzen Sie den Nachmittags-Transit.",
+              "Kleiden Sie sich sehr warm für die Wartezeiten an Haltestellen.",
+              "Fragen Sie nach Sonderfahrten für Touristen im Winter."
+            ],
+            "hu": [
+              "A menetrendek télen korlátozottak lehetnek.",
+              "Várakozzon kávézókban, ha késik a járat.",
+              "Hamar sötétedik, használja ki a délutáni járatokat.",
+              "Öltözzön nagyon melegen a megállókban való várakozáshoz.",
+              "Érdeklődjön a téli turista-különjáratokról."
+            ],
+            "ro": [
+              "Orarele pot fi restricționate pe timpul iernii.",
+              "Așteptați în cafenele dacă transportul întârzie.",
+              "Se întunecă devreme; folosiți transportul de după-amiază.",
+              "Îmbrăcați-vă foarte gros pentru timpii de așteptare în stații.",
+              "Întrebați despre cursele speciale pentru turiști în timpul iernii."
+            ],
+            "en": [
+              "Schedules may be restricted during winter.",
+              "Wait in cafes if the transit is delayed.",
+              "It gets dark early; make use of afternoon transit services.",
+              "Dress very warmly for the waiting periods at stops.",
+              "Inquire about special tourist transit services in winter."
+            ]
+          }
+        }
       }
     }
   }

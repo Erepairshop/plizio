@@ -386,6 +386,206 @@
           "Bring a reusable water bottle.",
           "Check museum opening hours in advance as they can vary seasonally."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Kirche und das Hjertnes-Zentrum Schutz. Mittags ist das Walfangmuseum der ideale Ort, um trocken zu bleiben und Geschichte zu erleben. Nachmittags erkunden wir den Hafen unter dem Regenschirm und besuchen das Museumsschiff Southern Actor. Abends genießen wir die frische Seeluft im Badeparken, wenn der Regen nachlässt, und lassen den Tag gemütlich ausklingen.",
+            "hu": "A reggeli eső elől a templom és a Hjertnes Kulturális Központ nyújt menedéket. A délutánt a bálnavadászati múzeum fedett kiállításain töltjük, ami a város legfőbb látnivalója. Később a kikötőben, esernyővel sétálva nézzük meg a Southern Actor hajót. Az estét a Badeparken friss, tengeri levegőjén zárjuk, ahol az eső utáni illatok és a kikötő fényei különleges hangulatot árasztanak.",
+            "ro": "Dimineața, biserica și centrul Hjertnes oferă adăpost împotriva ploii. La prânz, Muzeul Vânătorii de Balene este destinația ideală pentru a rămâne la adăpost. După-amiaza, explorăm portul sub umbrelă, vizitând nava Southern Actor. Seara se încheie cu o plimbare revigorantă în Badeparken, unde aerul sărat al mării de după ploaie creează o atmosferă relaxantă în centrul orașului.",
+            "en": "Morning rain is best dodged inside the church and Hjertnes Center. At noon, the Whaling Museum serves as the perfect indoor anchor for your day. Spend the afternoon exploring the harbor's maritime history under an umbrella, including the Southern Actor ship. The evening concludes with a brisk walk in Badeparken, enjoying the fresh sea air and the harbor lights reflecting on wet pavement."
+          },
+          "stops": [
+            {
+              "name": "Sandefjord Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Innenausstattung, während Sie auf das Ende des Schauers warten.",
+                "hu": "Csodálja meg a belső teret, amíg eláll az eső.",
+                "ro": "Admirați interiorul liniștit în timp ce așteptați să treacă ploaia.",
+                "en": "Admire the interior while waiting for the shower to pass."
+              }
+            },
+            {
+              "name": "Hjertnes Culture Center",
+              "tip_5lang": {
+                "de": "Das Foyer bietet einen warmen, trockenen Platz mit lokaler Kunst.",
+                "hu": "A foyer meleg, fedett helyi művészeti kiállításokkal.",
+                "ro": "Foaierul oferă un spațiu cald și uscat cu artă locală.",
+                "en": "The foyer offers a warm, dry space with local art."
+              }
+            },
+            {
+              "name": "Whaling Monument",
+              "tip_5lang": {
+                "de": "Das Denkmal wirkt bei Regen besonders dramatisch; perfekt für Fotos.",
+                "hu": "Az emlékmű esőben még drámaibb látványt nyújt.",
+                "ro": "Monumentul arată dramatic în ploaie; ideal pentru fotografii.",
+                "en": "The monument looks particularly dramatic in the rain."
+              }
+            },
+            {
+              "name": "Whaling Museum",
+              "tip_5lang": {
+                "de": "Das einzige Museum seiner Art in Europa – perfekt für Regentage.",
+                "hu": "Európa egyetlen bálnavadászati múzeuma, ideális esős időre.",
+                "ro": "Singurul muzeu de acest tip din Europa, perfect pentru ploaie.",
+                "en": "Europe's only whaling museum, perfect for rainy days."
+              }
+            },
+            {
+              "name": "Lunch at the Harbor",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit beheizter Terrasse oder Glasfront.",
+                "hu": "Válasszon fűtött teraszos vagy üvegfalas éttermet.",
+                "ro": "Alegeți un restaurant cu terasă încălzită sau vedere la mare.",
+                "en": "Choose a restaurant with a heated terrace or glass front."
+              }
+            },
+            {
+              "name": "Southern Actor",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Deck, die Metalloberflächen können rutschig sein.",
+                "hu": "Vigyázat a fedélzeten, a fémfelületek csúszósak lehetnek.",
+                "ro": "Atenție pe punte, suprafețele metalice pot fi alunecoase.",
+                "en": "Be careful on deck; metal surfaces can be slippery."
+              }
+            },
+            {
+              "name": "Badeparken",
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang für frische Luft direkt am Wasser.",
+                "hu": "Rövid séta a friss tengeri levegőért a vízparton.",
+                "ro": "O plimbare scurtă pentru aer curat chiar lângă apă.",
+                "en": "A short walk for fresh air right by the water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserfeste Jacke; der Wind am Hafen kann Schirme unbrauchbar machen.",
+              "Das Walfangmuseum ist die beste Zuflucht bei starkem Regen.",
+              "Nutzen Sie die kurzen Wege zwischen den kulturellen Highlights im Zentrum.",
+              "Die Hafenrestaurants sind gut beheizt und bieten tolle Ausblicke auf das graue Meer."
+            ],
+            "hu": [
+              "Viseljen vízálló dzsekit, mert a kikötői szél tönkreteheti az esernyőt.",
+              "A bálnavadászati múzeum a legjobb menedék tartós eső esetén.",
+              "Használja ki a központ kulturális látnivalói közötti rövid távolságokat.",
+              "A kikötői éttermek fűtöttek és kiváló kilátást nyújtanak a viharos tengerre."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă; vântul din port poate distruge umbrelele.",
+              "Muzeul Vânătorii de Balene este cel mai bun refugiu în caz de ploaie.",
+              "Profită de distanțele scurte între obiectivele culturale din centru.",
+              "Restaurantele din port sunt bine încălzite și oferă priveliști spre mare."
+            ],
+            "en": [
+              "Wear a waterproof jacket; harbor winds can make umbrellas useless.",
+              "The Whaling Museum is the best refuge during heavy rainfall.",
+              "Take advantage of the short distances between city center highlights.",
+              "Harbor restaurants are well-heated and offer great views of the misty sea."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch an der Kirche. Mittags wärmen wir uns im Walfangmuseum auf, während draußen der Schnee glitzert. Nachmittags besuchen wir das Denkmal und den Hafen, bevor die Dämmerung gegen 16:00 Uhr einsetzt. Den Abend verbringen wir im Badeparken, wo die Winterbeleuchtung für eine magische Atmosphäre sorgt, und genießen die nordische Gemütlichkeit.",
+            "hu": "A friss téli reggelt a templomnál kezdjük. Délben a bálnavadászati múzeum nyújt meleget, miközben kint talán esik a hó. Mivel a nap korán, délután 4 körül nyugszik, a kikötői sétát és az emlékművet még világosban nézzük meg. Az estét a kivilágított Badeparkenben zárjuk, ahol a téli fények és a jeges tenger látványa igazi északi hangulatot teremt.",
+            "ro": "Dimineața rece de iarnă începe la biserică. La prânz, ne încălzim la Muzeul Vânătorii de Balene, admirând zăpada de afară. După-amiaza vizităm monumentul și portul înainte de apusul care vine devreme, în jur de ora 16:00. Seara se încheie în Badeparken, unde luminile de iarnă creează o atmosferă magică și autentic nordică.",
+            "en": "Start your crisp winter morning at the church. By noon, seek warmth in the Whaling Museum as snow blankets the city. With sunset arriving early around 4 PM, visit the harbor monuments in the afternoon glow. Spend your evening in Badeparken, where winter lights create a magical Nordic atmosphere against the backdrop of the icy fjord."
+          },
+          "stops": [
+            {
+              "name": "Sandefjord Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme, festliche Beleuchtung im Inneren.",
+                "hu": "Élvezze a belső tér meleg, ünnepi világítását.",
+                "ro": "Bucurați se de iluminatul cald și festiv din interior.",
+                "en": "Enjoy the warm, festive lighting inside."
+              }
+            },
+            {
+              "name": "Hjertnes Culture Center",
+              "tip_5lang": {
+                "de": "Oft finden hier im Winter kleine Indoor-Konzerte oder Ausstellungen statt.",
+                "hu": "Télen gyakran tartanak itt beltéri koncerteket vagy kiállításokat.",
+                "ro": "Iarna, aici au loc adesea mici concerte sau expoziții indoor.",
+                "en": "Indoor concerts or exhibitions are common here in winter."
+              }
+            },
+            {
+              "name": "Whaling Monument",
+              "tip_5lang": {
+                "de": "Bei Schnee ist das Denkmal ein wunderschönes Fotomotiv.",
+                "hu": "Hóban az emlékmű csodálatos fotótéma.",
+                "ro": "Monumentul acoperit de zăpadă este perfect pentru fotografii.",
+                "en": "The monument is a beautiful photo spot when covered in snow."
+              }
+            },
+            {
+              "name": "Whaling Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre schwere Winterkleidung.",
+                "hu": "Használja a ruhatárat a nehéz téli kabátokhoz.",
+                "ro": "Folosiți garderoba pentru hainele groase de iarnă.",
+                "en": "Use the cloakroom for your heavy winter gear."
+              }
+            },
+            {
+              "name": "Lunch at the Harbor",
+              "tip_5lang": {
+                "de": "Probieren Sie eine heiße Fischsuppe (Fiskesuppe), um sich aufzuwärmen.",
+                "hu": "Kóstolja meg a forró hallevest (fiskesuppe) a felmelegedéshez.",
+                "ro": "Încercați o supă caldă de pește (fiskesuppe) pentru a vă încălzi.",
+                "en": "Try a hot fish soup (fiskesuppe) to warm up."
+              }
+            },
+            {
+              "name": "Southern Actor",
+              "tip_5lang": {
+                "de": "Nur von außen zu besichtigen, wenn das Deck vereist ist.",
+                "hu": "Csak kívülről tekinthető meg, ha a fedélzet jeges.",
+                "ro": "Poate fi văzută doar din exterior dacă puntea este înghețată.",
+                "en": "May only be viewable from the outside if the deck is icy."
+              }
+            },
+            {
+              "name": "Badeparken",
+              "tip_5lang": {
+                "de": "Die Wege werden geräumt; genießen Sie die blaue Stunde am Wasser.",
+                "hu": "Az utakat takarítják; élvezze a kék órát a vízparton.",
+                "ro": "Aleile sunt curățate; bucurați vă de ora albastră lângă apă.",
+                "en": "Paths are cleared; enjoy the 'blue hour' by the water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten (Wolle ist am besten für Norwegen).",
+              "Der Sonnenuntergang ist im Dezember bereits gegen 15:30 Uhr.",
+              "Achten Sie auf vereiste Stellen auf den Gehwegen.",
+              "Viele Cafés bieten 'Peiskos' (Gemütlichkeit am Kamin) an."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen (a gyapjú a legjobb választás Norvégiában).",
+              "A naplemente decemberben már délután fél 4 körül bekövetkezik.",
+              "Ügyeljen a járdák jeges szakaszaira.",
+              "Sok kávézó kínál 'Peiskos'-t (kandalló melletti bekuckózást)."
+            ],
+            "ro": [
+              "Îmbrăcați vă în straturi (lâna este cea mai bună în Norvegia).",
+              "Apusul soarelui în decembrie este deja în jurul orei 15:30.",
+              "Atenție la porțiunile înghețate de pe trotuare.",
+              "Multe cafenele oferă 'Peiskos' (atmosferă caldă lângă șemineu)."
+            ],
+            "en": [
+              "Dress in layers (wool is best for Norway).",
+              "Sunset in December occurs as early as 3:30 PM.",
+              "Watch out for icy patches on the sidewalks.",
+              "Many cafes offer 'Peiskos' (fireplace coziness)."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +966,206 @@
           "Bring a lock to secure your bike at stops.",
           "The bike paths are well-developed, but some stretches are on the road."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten die Tour in Regenkleidung zum Wikingerhügel Gokstadhaugen. Der Aufstieg zum Preståsen bietet trotz Wolken eine mystische Aussicht. Mittags wärmen wir uns im Zentrum auf und besuchen das Walfangmuseum. Den Nachmittag verbringen wir im Midtåsen Skulpturenpark, bevor wir die Tour entlang der Küste abschließen.",
+            "hu": "Esőruhában vágunk neki a Gokstadhaugen viking dombnak. A Preståsen kilátó esőben is misztikus látványt nyújt a városra. Délben a központban melegszünk fel, és megnézzük a bálnavadászati múzeumot. Délután a Midtåsen szoborparkot járjuk be, majd a tengerparti úton tekerünk vissza a városba.",
+            "ro": "Pornim turul cu echipament de ploaie spre colina vikingă Gokstadhaugen. Urcarea spre Preståsen oferă o vedere mistică în ciuda norilor. La prânz ne încălzim în centru și vizităm Muzeul Vânătorii de Balene. După-amiaza explorăm parcul de sculpturi Midtåsen, înainte de a încheia turul pe coastă.",
+            "en": "Gear up in waterproofs for a ride to the Gokstad Viking mound. The climb to Preståsen offers a moody, misty view over the city. Warm up downtown at noon with a museum visit and a hearty lunch. Spend the afternoon at Midtåsen Sculpture Park before a refreshing coastal ride back to the center."
+          },
+          "stops": [
+            {
+              "name": "Gokstadhaugen",
+              "tip_5lang": {
+                "de": "Die Graswege können rutschig sein; bleiben Sie auf den Pfaden.",
+                "hu": "A füves utak csúszósak lehetnek; maradjon az ösvényeken.",
+                "ro": "Potecile cu iarbă pot fi alunecoase; rămâneți pe cărări.",
+                "en": "Grassy paths can be slippery; stay on the designated trails."
+              }
+            },
+            {
+              "name": "Preståsen",
+              "tip_5lang": {
+                "de": "Die Aussichtsplattform ist überdacht – ideal für eine kurze Pause.",
+                "hu": "A kilátóterasz fedett, ideális egy rövid szünetre.",
+                "ro": "Platforma de observație este acoperită, ideală pentru o pauză.",
+                "en": "The observation platform is covered, ideal for a short break."
+              }
+            },
+            {
+              "name": "Sandefjord Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingang zum Abstellen der Räder.",
+                "hu": "Használja a fedett bejáratot a kerékpárok leállításához.",
+                "ro": "Folosiți intrarea acoperită pentru a lăsa bicicletele.",
+                "en": "Use the covered entrance area to park your bikes briefly."
+              }
+            },
+            {
+              "name": "Whaling Monument & Lunch",
+              "tip_5lang": {
+                "de": "Es gibt viele Fahrradständer direkt vor den Restaurants.",
+                "hu": "Számos kerékpártároló található az éttermek előtt.",
+                "ro": "Există multe rastele de biciclete direct în fața restaurantelor.",
+                "en": "There are plenty of bike racks directly in front of the restaurants."
+              }
+            },
+            {
+              "name": "Whaling Museum",
+              "tip_5lang": {
+                "de": "Verstauen Sie Ihre nassen Sachen in den Schließfächern.",
+                "hu": "Tegye a vizes holmijait a zárható szekrényekbe.",
+                "ro": "Lăsați lucrurile ude în vestiarele securizate.",
+                "en": "Store your wet gear in the secure lockers inside."
+              }
+            },
+            {
+              "name": "Badeparken",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind auch bei Regen gut befahrbar.",
+                "hu": "Az aszfaltozott utak esőben is jól tekerhetőek.",
+                "ro": "Aleile asfaltate sunt ușor de parcurs chiar și pe ploaie.",
+                "en": "Asphalt paths are easy to ride even in the rain."
+              }
+            },
+            {
+              "name": "Midtåsen Sculpture Park",
+              "tip_5lang": {
+                "de": "Der Park ist weitläufig; Regenkleidung ist hier ein Muss.",
+                "hu": "A park hatalmas, az esőruha itt kötelező.",
+                "ro": "Parcul este vast; echipamentul de ploaie este obligatoriu.",
+                "en": "The park is expansive; waterproof gear is a must here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen; nasse Felgen verlängern den Bremsweg.",
+              "Vermeiden Sie glatte Markierungen auf der Straße.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Ein Poncho schützt auch die Oberschenkel beim Treten."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, mert a vizes felni növeli a féktávot.",
+              "Kerülje a csúszós útburkolati jeleket.",
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Az esőponcsó a combokat is védi tekerés közben."
+            ],
+            "ro": [
+              "Verificați frânele; jantele ude măresc distanța de frânare.",
+              "Evitați marcajele rutiere care devin alunecoase.",
+              "Apărătorile de noroi sunt indispensabile pe acest tip de vreme.",
+              "Un poncho vă protejează și coapsele în timp ce pedalați."
+            ],
+            "en": [
+              "Check your brakes; wet rims increase braking distance.",
+              "Avoid slippery road markings and manhole covers.",
+              "Mudguards are essential in this weather.",
+              "A cycling poncho also protects your thighs while pedaling."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start zum historischen Gokstadhaugen auf verschneiten Wegen. Der Blick vom Preståsen über den vereisten Fjord ist atemberaubend. Mittags wärmen wir uns im Zentrum auf, bevor wir zum Walfangmuseum weiterfahren. Die Tour zum Midtåsen findet in der magischen Nachmittagssonne statt, bevor wir im Dunkeln sicher zurückkehren.",
+            "hu": "Hűvös reggeli tekerés a havas Gokstadhaugenhez. A Preståsen kilátás a jeges fjordra lélegzetelállító. Délben a városban melegszünk fel, majd irány a bálnavadászati múzeum. A Midtåsen szoborparkot a délutáni súrolófényekben látogatjuk meg, majd sötétedés után, óvatosan tekerünk vissza.",
+            "ro": "Început răcoros spre Gokstadhaugen pe poteci înzăpezite. Vederea de pe Preståsen peste fiordul înghețat este uluitoare. La prânz ne încălzim în centru înainte de a merge la muzeu. Turul spre Midtåsen are loc în lumina magică a după-amiezii, revenind în siguranță după lăsarea întunericului.",
+            "en": "A crisp start to the historic Gokstad mound on snowy paths. The view from Preståsen over the icy fjord is breathtaking in the winter light. Warm up downtown at noon before cycling to the Whaling Museum. Visit Midtåsen in the afternoon glow, ensuring a safe ride back before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Gokstadhaugen",
+              "tip_5lang": {
+                "de": "Spikereifen (Piggdekk) werden für die Schotterwege empfohlen.",
+                "hu": "Szöges gumik (Piggdekk) ajánlottak a murvás utakra.",
+                "ro": "Anvelopele cu ținte (Piggdekk) sunt recomandate pentru drumuri.",
+                "en": "Studded tires (Piggdekk) are recommended for these paths."
+              }
+            },
+            {
+              "name": "Preståsen",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Abfahrt; die Kurven können vereist sein.",
+                "hu": "Vigyázat a lejtőn; a kanyarok jegesek lehetnek.",
+                "ro": "Atenție la coborâre; curbele pot fi înghețate.",
+                "en": "Be cautious on the descent; corners can be icy."
+              }
+            },
+            {
+              "name": "Sandefjord Church",
+              "tip_5lang": {
+                "de": "Der Kirchplatz ist meist gut geräumt und gestreut.",
+                "hu": "A templomteret általában jól letakarítják és sózzák.",
+                "ro": "Piața bisericii este de obicei bine curățată și presărată cu sare.",
+                "en": "The church square is usually well-cleared and salted."
+              }
+            },
+            {
+              "name": "Whaling Monument & Lunch",
+              "tip_5lang": {
+                "de": "Ketten Sie Ihr Rad an einem gut beleuchteten Platz an.",
+                "hu": "Zárja le a biciklit egy jól megvilágított helyen.",
+                "ro": "Lăsați bicicleta într-un loc bine iluminat.",
+                "en": "Lock your bike in a well-lit area."
+              }
+            },
+            {
+              "name": "Whaling Museum",
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um die Finger wieder aufzuwärmen.",
+                "hu": "Nagyszerű hely az átfagyott ujjak felmelegítésére.",
+                "ro": "Un loc excelent pentru a vă încălzi mâinile.",
+                "en": "A great place to warm up frozen fingers."
+              }
+            },
+            {
+              "name": "Badeparken",
+              "tip_5lang": {
+                "de": "Genießen Sie die Winterstimmung am Wasser bei der Durchfahrt.",
+                "hu": "Élvezze a téli hangulatot a vízparton áthaladás közben.",
+                "ro": "Bucurați vă de atmosfera de iarnă de lângă apă.",
+                "en": "Enjoy the winter atmosphere by the water as you ride through."
+              }
+            },
+            {
+              "name": "Midtåsen Sculpture Park",
+              "tip_5lang": {
+                "de": "Wunderschön beleuchtet in der Dämmerung; Licht am Rad prüfen.",
+                "hu": "Gyönyörűen kivilágítva szürkületben; ellenőrizze a lámpákat.",
+                "ro": "Iluminat superb la amurg; verificați luminile bicicletei.",
+                "en": "Beautifully lit at dusk; check your bike lights before arriving."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Beleuchtung vorne und hinten ist Pflicht.",
+              "Tragen Sie Reflektoren oder eine Warnweste.",
+              "Akkus von E-Bikes entladen sich bei Kälte schneller.",
+              "Vermeiden Sie abruptes Bremsen auf Schnee."
+            ],
+            "hu": [
+              "Jó első és hátsó világítás kötelező.",
+              "Viseljen fényvisszaverőt vagy láthatósági mellényt.",
+              "Az e-bike akkumulátorok gyorsabban merülnek hidegben.",
+              "Kerülje a hirtelen fékezést havon."
+            ],
+            "ro": [
+              "Iluminarea bună în față și în spate este obligatorie.",
+              "Purtați elemente reflectorizante sau o vestă de siguranță.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Evitați frânarea bruscă pe zăpadă."
+            ],
+            "en": [
+              "Good front and rear lighting is mandatory.",
+              "Wear reflectors or a high-visibility vest.",
+              "E-bike batteries drain faster in the cold.",
+              "Avoid abrupt braking on snowy or icy patches."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1146,6 +1546,206 @@
           "The roads can be narrow, so drive carefully.",
           "Plan for extra time for traffic, especially in the summer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir bequem die Wikingerstätten, geschützt vor dem Regen. Mittags parken wir am Hafen für einen Besuch im Walfangmuseum und ein gemütliches Mittagessen. Nachmittags fahren wir zum Midtåsen, wo man fast bis zum Eingang fahren kann. Den Tag beenden wir mit einer Panoramafahrt entlang des Fjords im Trockenen.",
+            "hu": "Autóval kényelmesen és esőtől védetten fedezzük fel a viking emlékhelyeket. Délben a kikötőben parkolunk, hogy megnézzük a bálnavadászati múzeumot és megebédeljünk. Délután a Midtåsen birtokra hajtunk fel, ahol szinte a bejáratig lehet menni. A napot egy fjord menti panorámaautózással zárjuk a száraz utastérben.",
+            "ro": "Cu mașina explorăm confortabil siturile vikinge, protejați de ploaie. La prânz parcăm în port pentru o vizită la muzeu și un prânz cald. După-amiaza mergem la Midtåsen, unde se poate conduce aproape până la intrare. Încheiem ziua cu o plimbare panoramică de lungul fiordului, stând la adăpost.",
+            "en": "Explore Viking heritage from the comfort of your car, staying dry between stops. Park at the harbor for a long midday visit to the Whaling Museum and a cozy lunch. Drive up to Midtåsen in the afternoon, where you can park close to the highlights. End the day with a scenic coastal drive along the fjord, sheltered from the elements."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Viking Heritage - Gokstadhaugen",
+              "tip_5lang": {
+                "de": "Kleiner Parkplatz direkt am Hügel vorhanden.",
+                "hu": "Kis parkoló található közvetlenül a domb mellett.",
+                "ro": "Mică parcare disponibilă chiar lângă colină.",
+                "en": "Small parking lot available directly by the mound."
+              }
+            },
+            {
+              "name": "Cluster 2: Maritime Center - Whaling Museum",
+              "tip_5lang": {
+                "de": "Parkhäuser im Zentrum bieten trockenen Zugang zum Museum.",
+                "hu": "A belvárosi parkolóházakból szárazon érhető el a múzeum.",
+                "ro": "Parcările etajate din centru oferă acces uscat la muzeu.",
+                "en": "Parking garages in the center offer dry access to the museum."
+              }
+            },
+            {
+              "name": "Walk to Whaling Monument",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten zu Fuß vom Hafenparkplatz entfernt.",
+                "hu": "Mindössze 2 perc séta a kikötői parkolótól.",
+                "ro": "La doar 2 minute de mers pe jos de parcarea din port.",
+                "en": "Just a 2-minute walk from the harbor parking area."
+              }
+            },
+            {
+              "name": "Lunch in the Harbor Cluster",
+              "tip_5lang": {
+                "de": "Viele Restaurants haben Parkplätze direkt vor der Tür.",
+                "hu": "Sok étterem előtt közvetlenül van parkolóhely.",
+                "ro": "Multe restaurante au locuri de parcare chiar în față.",
+                "en": "Many restaurants have parking spots right at the door."
+              }
+            },
+            {
+              "name": "Walk to Sandefjord Church",
+              "tip_5lang": {
+                "de": "Parken Sie kurzzeitig direkt am Straßenrand.",
+                "hu": "Rövid ideig parkolhat közvetlenül az út szélén.",
+                "ro": "Parcați pe marginea drumului pentru o vizită scurtă.",
+                "en": "Park briefly along the street for a quick visit."
+              }
+            },
+            {
+              "name": "Cluster 3: Panoramic Views - Midtåsen",
+              "tip_5lang": {
+                "de": "Die Auffahrt bietet auch bei Regen tolle Ausblicke.",
+                "hu": "A felvezető út esőben is szép kilátást nyújt.",
+                "ro": "Drumul de urcare oferă vederi superbe chiar și pe ploaie.",
+                "en": "The drive up offers great views even in rainy weather."
+              }
+            },
+            {
+              "name": "Walk to Thor Heyerdahl Monument",
+              "tip_5lang": {
+                "de": "Parken Sie am Midtåsen-Eingang für den kürzesten Fußweg.",
+                "hu": "Parkoljon a Midtåsen bejáratánál a legrövidebb sétához.",
+                "ro": "Parcați la intrarea Midtåsen pentru cel mai scurt traseu.",
+                "en": "Park at the Midtåsen entrance for the shortest walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die EasyPark-App für alle Parkplätze.",
+              "Parkhäuser im Zentrum halten das Auto trocken.",
+              "Fahren Sie vorsichtig bei Aquaplaning-Gefahr auf den Küstenstraßen.",
+              "Die Sicht am Midtåsen kann bei Nebel eingeschränkt sein."
+            ],
+            "hu": [
+              "Használja az EasyPark alkalmazást a parkoláshoz.",
+              "A belvárosi parkolóházakban száraz marad az autó.",
+              "Vezessen óvatosan a parti utakon a vízenúszás veszélye miatt.",
+              "Köd esetén a Midtåsen kilátás korlátozott lehet."
+            ],
+            "ro": [
+              "Utilizați aplicația EasyPark pentru toate parcările.",
+              "Parcările etajate din centru mențin mașina uscată.",
+              "Conduceți cu atenție pe drumurile de coastă (risc de acvaplanare).",
+              "Vizibilitatea la Midtåsen poate fi limitată în caz de ceață."
+            ],
+            "en": [
+              "Use the EasyPark app for all parking areas.",
+              "Parking garages in the center keep your car dry.",
+              "Drive carefully on coastal roads due to aquaplaning risks.",
+              "Visibility at Midtåsen may be limited during heavy mist."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterzauber per Auto: Wir besuchen den verschneiten Gokstadhaugen und fahren dann ins warme Zentrum. Das Walfangmuseum ist das Highlight am Mittag. Die Auffahrt zum Midtåsen bietet einen weiten Blick über den winterlichen Fjord. Nach Sonnenuntergang genießen wir die festlich beleuchtete Stadt und den Hafen aus dem warmen Auto.",
+            "hu": "Téli varázslat autóval: meglátogatjuk a havas Gokstadhaugent, majd a meleg belvárosba hajtunk. Délben a bálnavadászati múzeum a fő célpont. A Midtåsen felvezető útja pazar kilátást nyújt a téli fjordra. Naplemente után a kivilágított várost és a kikötőt csodáljuk meg a fűtött utastérből.",
+            "ro": "Magie de iarnă cu mașina: vizităm Gokstadhaugen înzăpezit, apoi mergem în centrul cald. Muzeul este punctul culminant la prânz. Urcarea spre Midtåsen oferă o vedere amplă asupra fiordului hibernal. După apus, admirăm orașul și portul iluminate festiv din confortul mașinii.",
+            "en": "Experience winter magic by car: visit the snow-covered Gokstad mound before heading to the warm city center. The Whaling Museum is your cozy midday highlight. The drive up to Midtåsen rewards you with expansive views over the frozen fjord. After sunset, enjoy the festive city lights and harbor glow from your heated vehicle."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Viking Heritage - Gokstadhaugen",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Parkplatz.",
+                "hu": "Ügyeljen a jegesedésre a parkolóban.",
+                "ro": "Atenție la polei în parcare.",
+                "en": "Watch out for black ice in the parking lot."
+              }
+            },
+            {
+              "name": "Cluster 2: Maritime Center - Whaling Museum",
+              "tip_5lang": {
+                "de": "Die Straßen im Zentrum werden meist schnell geräumt.",
+                "hu": "A belvárosi utakat általában gyorsan letakarítják.",
+                "ro": "Străzile din centru sunt de obicei curățate rapid.",
+                "en": "City center streets are usually cleared quickly."
+              }
+            },
+            {
+              "name": "Walk to Whaling Monument",
+              "tip_5lang": {
+                "de": "Der Boden kann hier durch Meerwasser schnell gefrieren.",
+                "hu": "A talaj a tengervíz miatt itt gyorsan lefagyhat.",
+                "ro": "Solul poate îngheța rapid aici din cauza apei sărate.",
+                "en": "The ground here can freeze quickly due to sea spray."
+              }
+            },
+            {
+              "name": "Lunch in the Harbor Cluster",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Restauranteingang.",
+                "hu": "Parkoljon a lehető legközelebb az étterem bejáratához.",
+                "ro": "Parcați cât mai aproape de intrarea restaurantului.",
+                "en": "Park as close to the restaurant entrance as possible."
+              }
+            },
+            {
+              "name": "Walk to Sandefjord Church",
+              "tip_5lang": {
+                "de": "Schöne Außenbeleuchtung der Kirche in den dunklen Stunden.",
+                "hu": "A templom külső kivilágítása csodás a sötét órákban.",
+                "ro": "Iluminat exterior frumos al bisericii în orele serii.",
+                "en": "Beautiful exterior lighting of the church during dark hours."
+              }
+            },
+            {
+              "name": "Cluster 3: Panoramic Views - Midtåsen",
+              "tip_5lang": {
+                "de": "Winterreifen sind für die Auffahrt zwingend erforderlich.",
+                "hu": "A téli gumi kötelező a felvezető úthoz.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pentru urcare.",
+                "en": "Winter tires are mandatory for the steep drive up."
+              }
+            },
+            {
+              "name": "Walk to Thor Heyerdahl Monument",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Lichter der Stadt von oben.",
+                "hu": "Élvezze a város fényeit felülről.",
+                "ro": "Bucurați vă de luminile orașului văzute de sus.",
+                "en": "Enjoy the view of the city lights from above."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Norwegen von Nov bis April Pflicht.",
+              "Führen Sie einen Eiskratzer und Handfeger mit.",
+              "Die Parkgebühren sind im Winter oft identisch.",
+              "Vermeiden Sie Nebenstraßen, die nicht geräumt sind."
+            ],
+            "hu": [
+              "Norvégiában nov. és ápr. között kötelező a téli gumi.",
+              "Legyen az autóban jégkaparó és kefe.",
+              "A parkolási díjak télen is változatlanok.",
+              "Kerülje a le nem takarított mellékutcákat."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii din noiembrie până în aprilie.",
+              "Aveți la îndemână o răzuitoare de gheață și o perie.",
+              "Taxele de parcare sunt adesea identice iarna.",
+              "Evitați străzile secundare care nu sunt deszăpezite."
+            ],
+            "en": [
+              "Winter tires are mandatory in Norway from Nov to April.",
+              "Keep an ice scraper and a brush in the car.",
+              "Parking fees remain the same during winter.",
+              "Avoid side roads that haven't been salted or cleared."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1526,6 +2126,206 @@
           "Buses are punctual, so be at the stop on time.",
           "Some buses don't accept cash, so make sure you have a card or the app."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir trocken das Zentrum und die Kirche. Wir verbringen den Mittag im Walfangmuseum und dem Hafenareal, wobei wir kurze Wege zwischen den Haltestellen nutzen. Nachmittags bringt uns der Bus zum Wikingerhügel Gokstadhaugen. Den Abend lassen wir bei einem Abendessen in der Innenstadt ausklingen, nah an den Transitknotenpunkten.",
+            "hu": "Busszal szárazon érjük el a központot és a templomot. A delet a bálnavadászati múzeumban és a kikötőben töltjük, kihasználva a megállók közeli elhelyezkedését. Délután busszal megyünk a Gokstadhaugen viking dombhoz. Az estét a belvárosban zárjuk egy vacsorával, közel a közlekedési csomópontokhoz.",
+            "ro": "Cu autobuzul ajungem în centru și la biserică fără să ne udăm. Petrecem prânzul la muzeu și în zona portului, folosind distanțele scurte între stații. După-amiaza luăm autobuzul spre Gokstadhaugen. Încheiem seara cu o cină în centru, aproape de nodurile de transport.",
+            "en": "Use local buses to reach the city center and church while staying dry. Spend mid-day at the Whaling Museum and harbor, taking advantage of short walks between bus stops. In the afternoon, take a bus to the Gokstad Viking mound. End the evening with dinner downtown, conveniently located near transit hubs."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Center - Sandefjord Church",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Rådhuset' ist nur wenige Schritte entfernt.",
+                "hu": "A 'Rådhuset' megálló csak pár lépésre van.",
+                "ro": "Stația 'Rådhuset' este la doar câțiva pași.",
+                "en": "The 'Rådhuset' stop is just a few steps away."
+              }
+            },
+            {
+              "name": "Walk to Harbor Cluster: Whaling Monument",
+              "tip_5lang": {
+                "de": "Folgen Sie den überdachten Gehwegen der Geschäfte.",
+                "hu": "Kövesse az üzletek fedett árkádjait.",
+                "ro": "Urmați trotuarele acoperite ale magazinelor.",
+                "en": "Follow the covered walkways of the local shops."
+              }
+            },
+            {
+              "name": "Walk to Whaling Museum",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Busbahnhof (Rutebilstasjon).",
+                "hu": "Rövid séta a buszpályaudvartól (Rutebilstasjon).",
+                "ro": "Scurtă plimbare de la autogară (Rutebilstasjon).",
+                "en": "Short walk from the main bus station (Rutebilstasjon)."
+              }
+            },
+            {
+              "name": "Lunch & Relaxation in Badeparken",
+              "tip_5lang": {
+                "de": "Bushaltestellen befinden sich direkt am Parkeingang.",
+                "hu": "Buszmegállók találhatók közvetlenül a park bejáratánál.",
+                "ro": "Stațiile de autobuz sunt chiar la intrarea în parc.",
+                "en": "Bus stops are located right at the park entrance."
+              }
+            },
+            {
+              "name": "Cluster 2: Viking Age - Gokstadhaugen",
+              "tip_5lang": {
+                "de": "Buslinie 161 hält fast direkt am Hügel.",
+                "hu": "A 161-es busz szinte közvetlenül a dombnál áll meg.",
+                "ro": "Linia 161 oprește aproape direct lângă colină.",
+                "en": "Bus line 161 stops almost directly by the mound."
+              }
+            },
+            {
+              "name": "Cluster 3: Viewpoint - Preståsen",
+              "tip_5lang": {
+                "de": "Ein steiler aber kurzer Weg von der Haltestelle 'Preståsen'.",
+                "hu": "Meredek, de rövid út a 'Preståsen' megállótól.",
+                "ro": "Un drum abrupt dar scurt de la stația 'Preståsen'.",
+                "en": "A steep but short walk from the 'Preståsen' stop."
+              }
+            },
+            {
+              "name": "Dinner in Downtown",
+              "tip_5lang": {
+                "de": "In der Nähe des Bahnhofs für eine einfache Rückreise.",
+                "hu": "A vasútállomás közelében, a könnyű hazajutásért.",
+                "ro": "Aproape de gară pentru o întoarcere ușoară.",
+                "en": "Located near the train station for an easy return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die VKT-App für Tickets und Fahrpläne.",
+              "Die meisten Haltestellen im Zentrum sind überdacht.",
+              "Busse fahren im 15-30 Minuten Takt.",
+              "Der Bahnhof bietet einen warmen Wartesaal."
+            ],
+            "hu": [
+              "Használja a VKT alkalmazást jegyekhez és menetrendekhez.",
+              "A belvárosi megállók többsége fedett.",
+              "A buszok 15-30 percenként járnak.",
+              "A vasútállomáson fűtött váróterem található."
+            ],
+            "ro": [
+              "Utilizați aplicația VKT pentru bilete și orare.",
+              "Majoritatea stațiilor din centru sunt acoperite.",
+              "Autobuzele circulă la intervale de 15-30 de minute.",
+              "Gara oferă o sală de așteptare caldă."
+            ],
+            "en": [
+              "Use the VKT app for tickets and real-time schedules.",
+              "Most city center bus stops have shelters.",
+              "Buses run every 15-30 minutes on main routes.",
+              "The train station provides a warm waiting area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir nutzen den Transit für eine warme Reise durch das winterliche Sandefjord. Von der Kirche geht es zum Walfangmuseum. Mittags genießen wir die Hafenstimmung und wärmen uns in Cafés auf. Nachmittags besuchen wir per Bus den Gokstadhaugen im Schnee. Den Abend verbringen wir in der beleuchteten Innenstadt, bevor wir bequem mit dem Zug oder Bus zurückfahren.",
+            "hu": "A tömegközlekedést használva melegben utazunk át a téli Sandefjordon. A templomtól a bálnavadászati múzeumhoz megyünk. Délben a kikötői hangulatot élvezzük, kávézókban melegedve. Délután busszal látogatunk el a havas Gokstadhaugenhez. Az estét a kivilágított belvárosban töltjük, majd kényelmesen utazunk vissza.",
+            "ro": "Folosim transportul public pentru o călătorie caldă prin Sandefjordul hibernal. De la biserică mergem la muzeu. La prânz ne bucurăm de atmosfera portului și ne încălzim în cafenele. După-amiaza vizităm Gokstadhaugen cu autobuzul. Petrecem seara în centrul iluminat înainte de a ne întoarce confortabil.",
+            "en": "Leverage public transit for a warm journey through wintry Sandefjord. Travel from the church to the Whaling Museum. Spend mid-day enjoying the harbor atmosphere, warming up in local cafes. Take a bus to the snow-covered Gokstad mound in the afternoon. Enjoy the festive downtown evening before a comfortable ride back."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Center - Sandefjord Church",
+              "tip_5lang": {
+                "de": "Warten Sie im Rathausfoyer, falls der Bus Verspätung hat.",
+                "hu": "Várjon a városháza előcsarnokában, ha késik a busz.",
+                "ro": "Așteptați în foaierul primăriei dacă autobuzul întârzie.",
+                "en": "Wait in the city hall foyer if the bus is delayed."
+              }
+            },
+            {
+              "name": "Walk to Harbor Cluster: Whaling Monument",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf den Gehwegen zum Hafen.",
+                "hu": "Vigyázat a kikötő felé vezető jeges járdákon.",
+                "ro": "Atenție la porțiunile înghețate spre port.",
+                "en": "Be careful of icy patches on the walkways to the harbor."
+              }
+            },
+            {
+              "name": "Walk to Whaling Museum",
+              "tip_5lang": {
+                "de": "Der Weg vom Busbahnhof ist gut gestreut.",
+                "hu": "A buszpályaudvartól vezető utat jól sózzák.",
+                "ro": "Drumul de la autogară este bine presărat cu material antiderapant.",
+                "en": "The path from the bus station is well-salted and cleared."
+              }
+            },
+            {
+              "name": "Lunch & Relaxation in Badeparken",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Eis vom warmen Bus aus.",
+                "hu": "Élvezze a jeges látványt a fűtött buszból.",
+                "ro": "Admirați peisajul înghețat din autobuzul cald.",
+                "en": "Enjoy the view of the icy park from the warm bus."
+              }
+            },
+            {
+              "name": "Cluster 2: Viking Age - Gokstadhaugen",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten; im Winter seltener.",
+                "hu": "Ellenőrizze a visszautat; télen ritkább lehet a járat.",
+                "ro": "Verificați orele de întoarcere; mai rare iarna.",
+                "en": "Check return times; service may be less frequent in winter."
+              }
+            },
+            {
+              "name": "Cluster 3: Viewpoint - Preståsen",
+              "tip_5lang": {
+                "de": "Schöner Ausblick auf die beleuchtete Stadt bei der Rückfahrt.",
+                "hu": "Szép kilátás a kivilágított városra a visszaúton.",
+                "ro": "Vedere frumoasă asupra orașului iluminat la întoarcere.",
+                "en": "Great view of the lit-up city on your return journey."
+              }
+            },
+            {
+              "name": "Dinner in Downtown",
+              "tip_5lang": {
+                "de": "Viele Restaurants liegen direkt an den Buslinien.",
+                "hu": "Sok étterem közvetlenül a buszvonalak mentén fekszik.",
+                "ro": "Multe restaurante sunt direct pe rutele autobuzelor.",
+                "en": "Many restaurants are located directly along bus routes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind gut beheizt; ideal zum Aufwärmen.",
+              "Fahrpläne können bei starkem Schneefall abweichen.",
+              "Kaufen Sie Tickets vorab in der App.",
+              "Die Züge nach Oslo/Larvik fahren stündlich."
+            ],
+            "hu": [
+              "A buszok jól fűtöttek, ideálisak a felmelegedéshez.",
+              "Erős havazáskor a menetrend eltérhet.",
+              "Vegye meg a jegyet előre az alkalmazásban.",
+              "Az Oslo/Larvik felé tartó vonatok óránként járnak."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite, ideale pentru încălzire.",
+              "Orarele pot varia în caz de ninsori abundente.",
+              "Cumpărați biletele în avans prin aplicație.",
+              "Trenurile spre Oslo/Larvik circulă la fiecare oră."
+            ],
+            "en": [
+              "Buses are well-heated; ideal for warming up between stops.",
+              "Schedules may vary during heavy snowfall.",
+              "Buy tickets in advance via the VKT app.",
+              "Trains to Oslo/Larvik run hourly from the station."
+            ]
+          }
+        }
       }
     }
   }

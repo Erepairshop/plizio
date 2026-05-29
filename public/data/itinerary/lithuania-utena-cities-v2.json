@@ -362,6 +362,188 @@
           "Check the museum's opening hours in advance.",
           "Keep a camera ready for the charming architecture."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Utenio-Platz unter dem Regenschirm. Die Christi-Himmelfahrt-Kirche bietet einen trockenen Zufluchtsort für Besinnung. Mittags lockt die alte Poststation mit historischem Charme und Schutz vor Nässe. Den Nachmittag verbringen Sie ausgiebig im Heimatmuseum, bevor Sie am Dauniškis-See die tanzende Fontäne trotz des Regens bewundern.",
+            "hu": "Kezdje a napot az Utenio téren egy esernyő alatt. A Krisztus Mennybemenetele templom száraz menedéket nyújt az elcsendesedéshez. Délben a régi postaállomás történelmi bája véd az esőtől. A délutánt töltse a helytörténeti múzeumban, majd zárja a napot a Dauniškis-tónál, ahol az esőben is különleges látvány a szökőkút.",
+            "ro": "Începeți ziua în Piața Utenio sub umbrelă. Biserica Înălțarea Domnului oferă un refugiu uscat pentru reflecție. La prânz, vechea stație de poștă vă protejează de ploaie cu farmecul său istoric. Petreceți după-amiaza la muzeul local, iar la final admirați fântâna de pe lacul Dauniškis, spectaculoasă chiar și pe ploaie.",
+            "en": "Start your day at Utenio Square under an umbrella. The Church of Christ's Ascension offers a dry sanctuary for reflection. At noon, the Old Post Station provides historic charm and shelter from the wet. Spend a long afternoon in the Local Lore Museum, then finish at Dauniškis Lake Park, watching the fountain in the drizzle."
+          },
+          "stops": [
+            {
+              "name": "Utenio Square",
+              "tip_5lang": {
+                "de": "Unter den Arkaden der umliegenden Gebäude finden Sie Schutz vor Schauern.",
+                "hu": "A környező épületek árkádjai alatt védelmet találhat a záporok elől.",
+                "ro": "Găsiți adăpost sub arcadele clădirilor din jur în caz de aversă.",
+                "en": "Find shelter under the arcades of surrounding buildings during heavy showers."
+              }
+            },
+            {
+              "name": "Church of Christ's Ascension",
+              "tip_5lang": {
+                "de": "Die prachtvolle Innenausstattung lässt Sie das graue Wetter draußen vergessen.",
+                "hu": "A pompás belső tér feledteti a kinti szürke, esős időt.",
+                "ro": "Interiorul splendid vă va face să uitați de vremea gri de afară.",
+                "en": "The splendid interior will make you forget the grey weather outside."
+              }
+            },
+            {
+              "name": "Old Post Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie die historischen Innenräume für eine ausgiebige Besichtigung im Trockenen.",
+                "hu": "Használja ki a történelmi belső tereket egy alapos, száraz nézelődésre.",
+                "ro": "Profitați de spațiile interioare istorice pentru o vizită prelungită la adăpost.",
+                "en": "Take advantage of the historic indoor spaces for a thorough indoor tour."
+              }
+            },
+            {
+              "name": "Utena Local Lore Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um die regnerischsten Stunden des Tages informativ zu überbrücken.",
+                "hu": "Tökéletes hely a nap legesősebb óráinak informatív eltöltésére.",
+                "ro": "Locul perfect pentru a petrece cele mai ploioase ore ale zilei într-un mod informativ.",
+                "en": "The perfect place to spend the rainiest hours of the day informatively."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für Ihre nassen Regenmäntel.",
+                "hu": "Válasszon olyan éttermet, ahol van ruhatár a vizes kabátoknak.",
+                "ro": "Alegeți un restaurant cu garderobă pentru pelerinele de ploaie ude.",
+                "en": "Choose a restaurant with a cloakroom for your wet raincoats."
+              }
+            },
+            {
+              "name": "Dauniškis Lake Park",
+              "tip_5lang": {
+                "de": "Die beleuchtete Fontäne im See ist auch bei leichtem Regen ein Genuss.",
+                "hu": "A kivilágított szökőkút a tóban enyhe esőben is élvezetes látvány.",
+                "ro": "Fântâna iluminată de pe lac este o plăcere chiar și pe o ploaie ușoară.",
+                "en": "The illuminated fountain in the lake is a delight even in light rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich auf dem Kopfsteinpflaster Pfützen bilden können.",
+              "Die Museen in Utena sind montags oft geschlossen; prüfen Sie die Öffnungszeiten.",
+              "Ein Taschenschirm ist wegen des oft böigen Windes praktischer als ein großer Stockschirm.",
+              "Die Wege am Dauniškis-See können bei Nässe stellenweise rutschig sein."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskaköves utakon tócsák alakulhatnak ki.",
+              "Utena múzeumai hétfőnként gyakran zárva tartanak; ellenőrizze a nyitvatartást.",
+              "Az összecsukható esernyő praktikusabb a gyakori szeles lökések miatt.",
+              "A Dauniškis-tó menti utak nedvesen helyenként csúszósak lehetnek."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți pe pavaj.",
+              "Muzeele din Utena sunt adesea închise lunea; verificați programul.",
+              "O umbrelă pliabilă este mai practică din cauza rafalelor de vânt frecvente.",
+              "Potecile de lângă lacul Dauniškis pot fi alunecoase când sunt ude."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles may form on the cobblestone streets.",
+              "Utena's museums are often closed on Mondays; check opening hours beforehand.",
+              "A compact umbrella is more practical due to the often gusty winds.",
+              "Paths at Dauniškis Lake can be slippery in places when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das frostige Utena am Morgen am Utenio-Platz. Nach einem kurzen Besuch in der Kirche wärmen Sie sich in der alten Poststation auf. Mittags genießen Sie die geheizten Hallen des Heimatmuseums. Den Tag beschließen Sie mit einem Spaziergang am oft gefrorenen Dauniškis-See, wo die klare Winterluft besonders erfrischend wirkt.",
+            "hu": "Tapasztalja meg a fagyos Utenát reggel az Utenio téren. A templomlátogatás után melegedjen fel a régi postaállomáson. Délben élvezze a helytörténeti múzeum fűtött termeit. A napot zárja sétával a gyakran befagyott Dauniškis-tónál, ahol a tiszta téli levegő különösen frissítő.",
+            "ro": "Experimentați Utena înghețată dimineața în Piața Utenio. După o scurtă vizită la biserică, încălziți-vă în vechea stație de poștă. La prânz, bucurați-vă de sălile încălzite ale muzeului. Încheiați ziua cu o plimbare pe lângă lacul Dauniškis, adesea înghețat, unde aerul curat de iarnă este revigorant.",
+            "en": "Experience frosty Utena in the morning at Utenio Square. After a short church visit, warm up in the Old Post Station. At noon, enjoy the heated halls of the Local Lore Museum. End the day with a walk by the often-frozen Dauniškis Lake, where the crisp winter air is especially refreshing."
+          },
+          "stops": [
+            {
+              "name": "Utenio Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf dem historischen Pflaster am frühen Morgen.",
+                "hu": "Vigyázzon a jegesedésre a történelmi burkolaton a kora reggeli órákban.",
+                "ro": "Atenție la poleiul de pe pavajul istoric în orele dimineții.",
+                "en": "Watch out for black ice on the historic pavement in the early morning."
+              }
+            },
+            {
+              "name": "Church of Christ's Ascension",
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine friedliche Atmosphäre, ist aber oft recht kühl; behalten Sie den Mantel an.",
+                "hu": "A templom békés, de gyakran hűvös; érdemes a kabátot magunkon hagyni.",
+                "ro": "Biserica oferă o atmosferă liniștită, dar este răcoroasă; păstrați haina pe dvs.",
+                "en": "The church offers a peaceful atmosphere but is often chilly; keep your coat on."
+              }
+            },
+            {
+              "name": "Old Post Station",
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um sich zwischen den Außenstationen kurz aufzuwärmen.",
+                "hu": "Kiváló hely egy rövid felmelegedésre a külső állomások között.",
+                "ro": "Un loc excelent pentru a vă încălzi scurt timp între opririle exterioare.",
+                "en": "An excellent spot to warm up briefly between outdoor stops."
+              }
+            },
+            {
+              "name": "Utena Local Lore Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe und genießen Sie die Wärme während der Besichtigung.",
+                "hu": "Használja a ruhatárat, és élvezze a meleget a kiállítás megtekintése közben.",
+                "ro": "Folosiți garderoba și bucurați-vă de căldură în timpul vizitei.",
+                "en": "Use the cloakroom and enjoy the indoor warmth during your visit."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Probieren Sie eine heiße litauische Suppe, um neue Energie zu tanken.",
+                "hu": "Kóstoljon meg egy forró litván levest, hogy újult erőre kapjon.",
+                "ro": "Încercați o supă lituaniană fierbinte pentru a vă recăpăta energia.",
+                "en": "Try a hot Lithuanian soup to recharge your energy levels."
+              }
+            },
+            {
+              "name": "Dauniškis Lake Park",
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang gegen 16:30 Uhr über dem verschneiten See.",
+                "hu": "Nézze meg a naplementét 16:30 körül a havas tó felett.",
+                "ro": "Urmăriți apusul în jurul orei 16:30 peste lacul înzăpezit.",
+                "en": "Watch the sunset around 4:30 PM over the snow-covered lake."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Unterwäsche; die Temperaturen können weit unter Null fallen.",
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter; planen Sie Fotos frühzeitig.",
+              "Heiße Getränke sind in den Cafés rund um den Utenio-Platz erhältlich.",
+              "Der Dauniškis-See friert oft zu, das Betreten des Eises erfolgt jedoch auf eigene Gefahr."
+            ],
+            "hu": [
+              "Viseljen termő aláöltözetet; a hőmérséklet jóval fagypont alá süllyedhet.",
+              "A nap decemberben már 16:00 körül lemegy; fotózzon időben.",
+              "Forró italokat az Utenio tér környéki kávézókban találhat.",
+              "A Dauniškis-tó gyakran befagy, de a jégre lépés csak saját felelősségre ajánlott."
+            ],
+            "ro": [
+              "Purtați lenjerie termică; temperaturile pot scădea mult sub zero grade.",
+              "Soarele apune deja în jurul orei 16:00 în decembrie; planificați fotografiile din timp.",
+              "Băuturi calde sunt disponibile în cafenelele din jurul Pieței Utenio.",
+              "Lacul Dauniškis îngheață adesea, dar mersul pe gheață se face pe propria răspundere."
+            ],
+            "en": [
+              "Wear thermal layers; temperatures can drop significantly below freezing.",
+              "The sun sets as early as 4:00 PM in December; plan your photos accordingly.",
+              "Hot drinks are readily available in cafes around Utenio Square.",
+              "Dauniškis Lake often freezes over, but walking on ice is at your own risk."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +924,206 @@
           "Some roads outside the city may not be paved.",
           "Use a good lock to secure your bike at stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist Utena mit dem Rad gut erkundbar. Starten Sie im Zentrum und nutzen Sie asphaltierte Wege zum Kulturzentrum. Der Dauniškis-See wirkt mystisch im Dunst. Die Fahrt zum Mokas-Stein führt durch feuchte Wälder, was ein echtes Naturerlebnis ist. Wärmen Sie sich abends bei einem deftigen Abendessen im Stadtkern wieder auf.",
+            "hu": "Az eső ellenére Utena kerékpárral is jól felfedezhető. Kezdjen a központban, és használja az aszfaltozott utakat a kulturális központig. A Dauniškis-tó misztikus a párában. A Mokas-kőhöz vezető út nedves erdőkön át visz, ami igazi természetközeli élmény. Este melegedjen fel egy bőséges vacsorával a városközpontban.",
+            "ro": "În ciuda ploii, Utena poate fi explorată bine cu bicicleta. Începeți în centru și folosiți pistele asfaltate spre centrul cultural. Lacul Dauniškis pare mistic în ceață. Drumul spre piatra Mokas trece prin păduri umede, o experiență autentică în natură. Seara, încălziți-vă cu o cină copioasă în centrul orașului.",
+            "en": "Despite the rain, Utena is navigable by bike. Start in the center and use paved paths toward the Cultural Centre. Dauniškis Lake looks mystical in the mist. The ride to Mokas Stone leads through damp forests, offering a true nature experience. Warm up in the evening with a hearty dinner back in the city core."
+          },
+          "stops": [
+            {
+              "name": "Utenio Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Markierungen auf dem Boden.",
+                "hu": "Ügyeljen a csúszós útburkolati jelekre.",
+                "ro": "Atenție la marcajele rutiere alunecoase de pe carosabil.",
+                "en": "Be careful of slippery road markings on the ground."
+              }
+            },
+            {
+              "name": "Church of Christ's Ascension",
+              "tip_5lang": {
+                "de": "Es gibt Fahrradständer in der Nähe des Haupteingangs.",
+                "hu": "A főbejárat közelében találhatóak kerékpártámaszok.",
+                "ro": "Există rastele pentru biciclete lângă intrarea principală.",
+                "en": "There are bike racks available near the main entrance."
+              }
+            },
+            {
+              "name": "Utena Cultural Centre",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach, um die Route zu prüfen.",
+                "hu": "Rövid megálló az előtető alatt az útvonal ellenőrzéséhez.",
+                "ro": "O scurtă oprire sub copertină pentru a verifica traseul.",
+                "en": "A quick stop under the overhang to check your route."
+              }
+            },
+            {
+              "name": "Dauniškis Lake Park",
+              "tip_5lang": {
+                "de": "Die Uferwege sind asphaltiert und auch bei Regen gut befahrbar.",
+                "hu": "A parti utak aszfaltozottak és esőben is jól tekerhetőek.",
+                "ro": "Potecile de pe mal sunt asfaltate și ușor de parcurs pe ploaie.",
+                "en": "The lakeside paths are paved and easy to cycle even in rain."
+              }
+            },
+            {
+              "name": "Utena Local Lore Museum",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und genießen Sie die trockene Ausstellung.",
+                "hu": "Parkolja le a bringát, és élvezze a száraz kiállítást.",
+                "ro": "Parcați bicicleta și bucurați-vă de expoziția la adăpost.",
+                "en": "Park your bike and enjoy the dry exhibition halls."
+              }
+            },
+            {
+              "name": "Mokas Stone",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Waldwegen; Wurzeln können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat az erdei utakon; a gyökerek nedvesen nagyon csúszhatnak.",
+                "ro": "Atenție pe potecile din pădure; rădăcinile pot fi foarte alunecoase.",
+                "en": "Caution on forest paths; roots can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Return to center & Dinner",
+              "tip_5lang": {
+                "de": "Ein heißer Kräutertee ist jetzt genau das Richtige.",
+                "hu": "Egy forró gyógytea most éppen a legjobb választás.",
+                "ro": "Un ceai fierbinte de plante este exact ceea ce aveți nevoie acum.",
+                "en": "A hot herbal tea is exactly what you need right now."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Vermeiden Sie plötzliches Bremsen auf nassem Laub in Waldstücken.",
+              "Eine wasserdichte Handyhülle hilft bei der Navigation am Lenker.",
+              "Die Route zum Mokas-Stein führt teils über unbefestigte Wege."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a kerékpáron ilyen időben.",
+              "Kerülje a hirtelen fékezést a nedves avaron az erdei szakaszokon.",
+              "Egy vízálló telefontok segít a kormányon történő navigációban.",
+              "A Mokas-kőhöz vezető útvonal részben burkolatlan utakon halad."
+            ],
+            "ro": [
+              "Apărătorile de noroi la bicicletă sunt indispensabile pe această vreme.",
+              "Evitați frânarea bruscă pe frunzele umede în porțiunile de pădure.",
+              "O husă de telefon impermeabilă ajută la navigarea de pe ghidon.",
+              "Traseul spre piatra Mokas include parțial drumuri neasfaltate."
+            ],
+            "en": [
+              "Mudguards on your bike are essential in this weather.",
+              "Avoid sudden braking on wet leaves in the forested sections.",
+              "A waterproof phone case helps with handlebar navigation.",
+              "The route to Mokas Stone partly involves unpaved roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour in Utena erfordert gute Vorbereitung, belohnt aber mit Stille. Gleiten Sie durch das weiße Zentrum und den Dauniškis-Park. Die Fahrt zum Mokas-Stein durch den verschneiten Wald ist magisch, aber anstrengend. Planen Sie ausreichend Zeit für Aufwärmpausen in Museen und Cafés ein, bevor es zum Abendessen geht.",
+            "hu": "Egy téli kerékpártúra Utenában jó felkészülést igényel, de csenddel jutalmaz. Sikoljon át a fehér központon és a Dauniškis parkon. Az út a Mokas-kőhöz a havas erdőn át varázslatos, de fárasztó. Tervezzen elég időt a melegedésre a múzeumokban és kávézókban a vacsora előtt.",
+            "ro": "O tură cu bicicleta iarna în Utena necesită pregătire, dar oferă multă liniște. Treceți prin centrul alb și parcul Dauniškis. Drumul spre piatra Mokas prin pădurea înzăpezită este magic, dar solicitant. Planificați timp suficient pentru pauze de încălzire în muzee și cafenele înainte de cină.",
+            "en": "A winter bike tour in Utena requires good preparation but rewards you with silence. Glide through the white center and Dauniškis Park. The ride to Mokas Stone through the snowy forest is magical but strenuous. Plan enough time for warming breaks in museums and cafes before dinner."
+          },
+          "stops": [
+            {
+              "name": "Utenio Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie griffige Reifen für den festgefahrenen Schnee.",
+                "hu": "Használjon jól tapadó gumiabroncsokat a letaposott hóhoz.",
+                "ro": "Folosiți anvelope cu aderență bună pentru zăpada bătătorită.",
+                "en": "Use tires with good grip for the packed snow."
+              }
+            },
+            {
+              "name": "Church of Christ's Ascension",
+              "tip_5lang": {
+                "de": "Behalten Sie Ihre Handschuhe beim Abstellen des Rades an.",
+                "hu": "Hagyja magán a kesztyűt a kerékpár lezárásakor is.",
+                "ro": "Păstrați-vă mănușile când parcați și încuiați bicicleta.",
+                "en": "Keep your gloves on while locking your bike."
+              }
+            },
+            {
+              "name": "Utena Cultural Centre",
+              "tip_5lang": {
+                "de": "Prüfen Sie hier kurz Ihren Reifendruck bei Kälte.",
+                "hu": "Ellenőrizze itt a guminyomást a hidegben.",
+                "ro": "Verificați presiunea în pneuri, care scade la frig.",
+                "en": "Check your tire pressure as it drops in the cold."
+              }
+            },
+            {
+              "name": "Dauniškis Lake Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Spritzwasser auf den Wegen am Seeufer.",
+                "hu": "Vigyázzon a tóparti utakon a megfagyott felfröccsenő vízre.",
+                "ro": "Atenție la apa înghețată pe potecile de pe malul lacului.",
+                "en": "Beware of frozen spray on the lakeside paths."
+              }
+            },
+            {
+              "name": "Utena Local Lore Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Zwischenstopp, um die gefrorenen Finger aufzuwärmen.",
+                "hu": "Ideális pihenőhely a fagyos ujjak felmelegítésére.",
+                "ro": "Un popas ideal pentru a vă încălzi degetele înghețate.",
+                "en": "An ideal stopover to warm up frozen fingers."
+              }
+            },
+            {
+              "name": "Mokas Stone",
+              "tip_5lang": {
+                "de": "Der Stein kann unter einer Schneeschicht verborgen sein; suchen Sie vorsichtig.",
+                "hu": "A követ hóréteg boríthatja; keresse óvatosan.",
+                "ro": "Piatra poate fi acoperită de zăpadă; căutați-o cu atenție.",
+                "en": "The stone might be hidden under snow; look carefully."
+              }
+            },
+            {
+              "name": "Return to center & Dinner",
+              "tip_5lang": {
+                "de": "Gönnen Sie sich eine warme Mahlzeit nach der kalten Tour.",
+                "hu": "Kényeztesse magát egy meleg étellel a hideg túra után.",
+                "ro": "Răsfățați-vă cu o masă caldă după tura friguroasă.",
+                "en": "Treat yourself to a warm meal after the cold ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig, da Streusalz die Bremswirkung beeinträchtigen kann.",
+              "Die Kälte entlädt E-Bike-Akkus deutlich schneller; Akku im Warmen lagern.",
+              "Achten Sie auf das Tageslicht; nach 16:00 Uhr wird es schnell dunkel.",
+              "Tragen Sie helle Kleidung oder Reflektoren für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "Vezessen óvatosan, mert az útszóró só befolyásolhatja a fékhatást.",
+              "A hideg gyorsabban meríti az e-bike akkumulátorokat; tárolja melegben.",
+              "Figyeljen a fényviszonyokra; 16:00 után gyorsan sötétedik.",
+              "Viseljen világos ruhát vagy fényvisszaverőt a jobb láthatóságért."
+            ],
+            "ro": [
+              "Conduceți cu prudență, deoarece sarea de drum poate afecta frânarea.",
+              "Frigul descarcă bateriile e-bike mult mai repede; țineți bateria la cald.",
+              "Atenție la lumină; se întunecă rapid după ora 16:00.",
+              "Purtați haine deschise la culoare sau reflectorizante pentru vizibilitate."
+            ],
+            "en": [
+              "Ride carefully as road salt can affect braking performance.",
+              "Cold drains e-bike batteries faster; store the battery indoors when possible.",
+              "Mind the daylight; it gets dark quickly after 4:00 PM.",
+              "Wear bright clothing or reflectors for better visibility."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1504,206 @@
           "Pay attention to speed limits, especially in rural areas.",
           "Bring coins for parking meters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute Ihr bester Freund in Utena. Besuchen Sie das Vyžuonai-Herrenhaus bequem im Trockenen. Nach einem kurzen Stopp am Mokas-Stein geht es zurück ins Stadtzentrum zum Mittagessen. Den Nachmittag verbringen Sie flexibel zwischen Poststation, Kirche und Museum, wobei Sie die kurzen Wege zwischen den Parkplätzen und Sehenswürdigkeiten schätzen werden.",
+            "hu": "Ma az autó a legjobb barátja Utenában. Látogassa meg a Vyžuonai-kúriát kényelmesen, szárazon. Egy rövid megálló után a Mokas-kőnél térjen vissza a városközpontba ebédelni. A délutánt töltse rugalmasan a postaállomás, a templom és a múzeum között, kihasználva a parkolók és a látnivalók közötti rövid távolságokat.",
+            "ro": "Astăzi mașina este cel mai bun prieten în Utena. Vizitați conacul Vyžuonai confortabil, la adăpost. După o scurtă oprire la piatra Mokas, reveniți în centrul orașului pentru prânz. Petreceți după-amiaza flexibil între stația de poștă, biserică și muzeu, profitând de distanțele scurte de la parcare.",
+            "en": "The car is your best friend in Utena today. Visit Vyžuonai Manor comfortably in the dry. After a quick stop at Mokas Stone, return to the city center for lunch. Spend a flexible afternoon between the post station, church, and museum, appreciating the short distances between parking and the sites."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Vyžuonai Manor & Mokas Stone",
+              "tip_5lang": {
+                "de": "Die Straßen nach Vyžuonai sind bei Regen gut befahrbar.",
+                "hu": "A Vyžuonai felé vezető utak esőben is jól járhatóak.",
+                "ro": "Drumurile spre Vyžuonai sunt practicabile pe ploaie.",
+                "en": "The roads to Vyžuonai remain in good condition during rain."
+              }
+            },
+            {
+              "name": "Mokas Stone (in cluster)",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Waldrand, um den Fußweg im Regen kurz zu halten.",
+                "hu": "Parkoljon közel az erdőszélhez, hogy rövid legyen a gyalogút az esőben.",
+                "ro": "Parcați aproape de marginea pădurii pentru a scurta drumul pe jos.",
+                "en": "Park close to the forest edge to keep the walk in the rain short."
+              }
+            },
+            {
+              "name": "Cluster 2: Utena Center (Parking & Lunch)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die zentralen Parkplätze am Utenio-Platz.",
+                "hu": "Használja az Utenio tér központi parkolóit.",
+                "ro": "Utilizați parcările centrale din Piața Utenio.",
+                "en": "Use the central parking lots at Utenio Square."
+              }
+            },
+            {
+              "name": "Old Post Station (in cluster)",
+              "tip_5lang": {
+                "de": "Direkt vor dem Gebäude gibt es meist freie Parkflächen.",
+                "hu": "Közvetlenül az épület előtt általában vannak szabad parkolóhelyek.",
+                "ro": "Există de obicei locuri de parcare libere chiar în fața clădirii.",
+                "en": "Free parking spots are usually available right in front of the building."
+              }
+            },
+            {
+              "name": "Church of Christ's Ascension (in cluster)",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto ins trockene Kirchenschiff.",
+                "hu": "Egy rövid futás az autótól a száraz templomhajóig.",
+                "ro": "Un scurt sprint de la mașină până în nava uscată a bisericii.",
+                "en": "A quick dash from the car to the dry church interior."
+              }
+            },
+            {
+              "name": "Cluster 3: Dauniškis Lake Park & Museum",
+              "tip_5lang": {
+                "de": "Es gibt einen Parkplatz direkt am Eingang zum Seepark.",
+                "hu": "Közvetlenül a tóparti park bejáratánál található parkoló.",
+                "ro": "Există o parcare chiar la intrarea în parcul lacului.",
+                "en": "There is a parking lot right at the entrance to the lake park."
+              }
+            },
+            {
+              "name": "Utena Local Lore Museum (in cluster)",
+              "tip_5lang": {
+                "de": "Der Museumsparkplatz bietet guten Zugang zum Eingang.",
+                "hu": "A múzeum parkolója kényelmes bejutást biztosít.",
+                "ro": "Parcarea muzeului oferă acces facil către intrare.",
+                "en": "The museum parking lot provides easy access to the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Parkgebühren im Zentrum können oft per SMS oder App bezahlt werden.",
+              "Vermeiden Sie tiefere Pfützen auf den Nebenwegen zum Mokas-Stein.",
+              "Die Sicht kann bei starkem Regen in bewaldeten Gebieten eingeschränkt sein."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "A központi parkolási díjakat gyakran SMS-ben vagy applikációval is fizetheti.",
+              "Kerülje a mélyebb tócsákat a Mokas-kőhöz vezető mellékutakon.",
+              "Erős esőben a látási viszonyok korlátozottak lehetnek az erdős részeken."
+            ],
+            "ro": [
+              "Verificați ștergătoarele de parbriz înainte de plecare.",
+              "Taxele de parcare în centru pot fi plătite adesea prin SMS sau aplicație.",
+              "Evitați bălțile adânci pe drumurile secundare spre piatra Mokas.",
+              "Vizibilitatea poate fi redusă în zonele împădurite în timpul ploilor torențiale."
+            ],
+            "en": [
+              "Check your windshield wipers before setting off.",
+              "Central parking fees can often be paid via SMS or a mobile app.",
+              "Avoid deep puddles on the side roads leading to Mokas Stone.",
+              "Visibility may be limited in forested areas during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die winterliche Landschaft um Utena vom warmen Auto aus. Die Fahrt zum Vyžuonai-Herrenhaus und zum Mokas-Stein bietet tolle Ausblicke auf verschneite Wälder. Im Stadtzentrum profitieren Sie von kurzen Wegen zwischen den Parkplätzen. Der Tag endet gemütlich am Seepark, bevor Sie das Auto für die Rückfahrt wieder aufheizen.",
+            "hu": "Élvezze Utena téli tájait a meleg autóból. Az út a Vyžuonai-kúriához és a Mokas-kőhöz remek kilátást nyújt a havas erdőkre. A városközpontban élvezze a parkolók közötti rövid távolságokat. A nap kellemesen zárul a tóparti parknál, mielőtt újra felmelegítené az autót a hazaúthoz.",
+            "ro": "Bucurați-vă de peisajul de iarnă din jurul Utenei din mașina încălzită. Drumul spre conacul Vyžuonai și piatra Mokas oferă priveliști superbe ale pădurilor înzăpezite. În centrul orașului, profitați de distanțele scurte de la parcare. Ziua se încheie plăcut la lac, înainte de a încălzi mașina pentru drumul de întoarcere.",
+            "en": "Enjoy Utena's winter landscapes from the comfort of a heated car. The drive to Vyžuonai Manor and Mokas Stone offers great views of snowy forests. In the city center, benefit from short walks between parking spots. The day ends nicely at the lake park before heating up the car for the return trip."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Vyžuonai Manor & Mokas Stone",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneeverwehungen auf den Landstraßen.",
+                "hu": "Ügyeljen a hóátfúvásokra az országutakon.",
+                "ro": "Atenție la troienele de zăpadă pe drumurile județene.",
+                "en": "Watch out for snowdrifts on the rural roads."
+              }
+            },
+            {
+              "name": "Mokas Stone (in cluster)",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig lange im Stand laufen.",
+                "hu": "Ne járassa feleslegesen hosszan a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în timp ce staționați.",
+                "en": "Avoid idling the engine for unnecessarily long periods."
+              }
+            },
+            {
+              "name": "Cluster 2: Utena Center (Parking & Lunch)",
+              "tip_5lang": {
+                "de": "Die Parkflächen im Zentrum werden meist gut geräumt.",
+                "hu": "A központi parkolókat általában jól takarítják.",
+                "ro": "Parcările din centru sunt de obicei bine deszăpezite.",
+                "en": "Parking areas in the center are usually well-cleared of snow."
+              }
+            },
+            {
+              "name": "Old Post Station (in cluster)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Ein- und Aussteigen auf vereisten Parkplätzen.",
+                "hu": "Vigyázzon a ki- és beszállásnál a jeges parkolóhelyeken.",
+                "ro": "Atenție la urcare și coborâre în parcările înghețate.",
+                "en": "Be careful when getting in and out of the car in icy parking spots."
+              }
+            },
+            {
+              "name": "Church of Christ's Ascension (in cluster)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem Kirchenbesuch.",
+                "hu": "Használja az ülésfűtést a templomlátogatás után.",
+                "ro": "Folosiți încălzirea în scaune după vizita la biserică.",
+                "en": "Make use of your seat heaters after the church visit."
+              }
+            },
+            {
+              "name": "Cluster 3: Dauniškis Lake Park & Museum",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann im Winter früher im Schatten liegen.",
+                "hu": "A parkoló télen hamarabb árnyékba kerülhet.",
+                "ro": "Parcarea poate fi la umbră mai devreme pe timp de iarnă.",
+                "en": "The parking lot might fall into shadow earlier in winter."
+              }
+            },
+            {
+              "name": "Utena Local Lore Museum (in cluster)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Museum, während das Auto draußen kühlt.",
+                "hu": "Élvezze a múzeum melegét, amíg az autó kint hűl.",
+                "ro": "Bucurați-vă de căldura din muzeu în timp ce mașina se răcește afară.",
+                "en": "Enjoy the museum's warmth while the car cools down outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Litauen ab dem 10. November gesetzlich vorgeschrieben.",
+              "Führen Sie einen Eiskratzer und eine Schneeschaufel im Kofferraum mit.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Planen Sie mehr Zeit für Fahrten auf ungeräumten Nebenstraßen ein."
+            ],
+            "hu": [
+              "Litvániában november 10-től kötelező a téli gumi használata.",
+              "Legyen a csomagtartóban jégkaparó és hólapát.",
+              "Ellenőrizze a fagyállót a szélvédőmosó tartályban.",
+              "Tervezzen több időt a nem letakarított mellékutakon való haladásra."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Lituania de la 10 noiembrie.",
+              "Păstrați o racletă și o lopată de zăpadă în portbagaj.",
+              "Verificați lichidul de parbriz să fie rezistent la îngheț.",
+              "Planificați mai mult timp pentru deplasarea pe drumurile secundare necurățate."
+            ],
+            "en": [
+              "Winter tires are mandatory in Lithuania starting from November 10th.",
+              "Keep an ice scraper and a small snow shovel in your trunk.",
+              "Ensure your windshield washer fluid is rated for freezing temperatures.",
+              "Allow extra time for driving on unplowed secondary roads."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2060,188 @@
           "Signal the driver when you want to get off at your stop.",
           "Buses can be crowded during peak hours, plan accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Busnetz von Utena, um bei Regen trocken zu bleiben. Starten Sie im Zentrum und besuchen Sie die Kirche und Poststation. Nach einem gemütlichen Mittagessen bringt Sie der Bus zum Dauniškis-See und zum Museum. Die Wartezeiten an den überdachten Haltestellen sind kurz, sodass Sie das Beste aus Ihrem regnerischen Tag machen können.",
+            "hu": "Használja Utena buszhálózatát, hogy száraz maradjon az esőben. Kezdjen a központban, látogassa meg a templomot és a postaállomást. Egy kellemes ebéd után busz viszi a Dauniškis-tóhoz és a múzeumba. A fedett megállókban a várakozási idő rövid, így a legtöbbet hozhatja ki az esős napból.",
+            "ro": "Folosiți rețeaua de autobuze din Utena pentru a rămâne uscați pe ploaie. Începeți în centru, vizitați biserica și stația de poștă. După un prânz plăcut, autobuzul vă duce la lacul Dauniškis și la muzeu. Timpul de așteptare în stațiile acoperite este scurt, profitând la maximum de zi.",
+            "en": "Use Utena's bus network to stay dry in the rain. Start in the center, visiting the church and post station. After a pleasant lunch, a bus takes you to Dauniškis Lake and the museum. Waiting times at sheltered stops are short, allowing you to make the most of your rainy day."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Center (Arrival & Exploration)",
+              "tip_5lang": {
+                "de": "Zentrale Haltestellen verfügen oft über digitale Anzeigen.",
+                "hu": "A központi megállókban gyakran vannak digitális kijelzők.",
+                "ro": "Stațiile centrale au adesea afișaje digitale.",
+                "en": "Central bus stops often feature real-time digital displays."
+              }
+            },
+            {
+              "name": "Church of Christ's Ascension (in cluster)",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Gehminuten vom Eingang entfernt.",
+                "hu": "A buszmegálló csak pár perc sétára van a bejárattól.",
+                "ro": "Stația de autobuz este la doar câteva minute de mers pe jos de intrare.",
+                "en": "The bus stop is just a few minutes' walk from the entrance."
+              }
+            },
+            {
+              "name": "Old Post Station (in cluster)",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in der Haltestelle, bis der Bus kommt.",
+                "hu": "Keressen menedéket a megállóban, amíg megérkezik a busz.",
+                "ro": "Căutați adăpost în stație până când sosește autobuzul.",
+                "en": "Stay sheltered at the bus stop until your ride arrives."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Viele Restaurants liegen direkt an den Buslinien.",
+                "hu": "Sok étterem közvetlenül a buszvonalak mentén található.",
+                "ro": "Multe restaurante sunt situate chiar de-a lungul liniilor de autobuz.",
+                "en": "Many restaurants are located directly along the main bus routes."
+              }
+            },
+            {
+              "name": "Cluster 2: Lake Park & Museum (Bus Ride)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Ausblick aus dem trockenen Busfenster.",
+                "hu": "Élvezze a kilátást a busz száraz ablakából.",
+                "ro": "Bucurați-vă de priveliște prin geamul uscat al autobuzului.",
+                "en": "Enjoy the view from the dry bus window during the ride."
+              }
+            },
+            {
+              "name": "Utena Local Lore Museum (in cluster)",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan für die Rückfahrt direkt im Museum.",
+                "hu": "Ellenőrizze a visszautat a múzeumban található menetrend alapján.",
+                "ro": "Verificați programul pentru drumul de întoarcere chiar la muzeu.",
+                "en": "Check the return schedule while inside the museum."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten am Kiosk oder nutzen Sie eine mobile App.",
+              "Haben Sie Kleingeld für den Fahrkartenkauf beim Fahrer bereit.",
+              "Die Busse verkehren am Wochenende seltener; planen Sie voraus.",
+              "Suchen Sie nach Haltestellen mit 'Laukimo salė' (Warteraum) für mehr Komfort."
+            ],
+            "hu": [
+              "Vásároljon jegyet újságosnál vagy használjon mobilalkalmazást.",
+              "Legyen Önnél aprópénz, ha a sofőrtől vásárol jegyet.",
+              "A buszok hétvégén ritkábban járnak; tervezzen előre.",
+              "Keresse a 'Laukimo salė' (váróterem) feliratú megállókat a nagyobb kényelemért."
+            ],
+            "ro": [
+              "Cumpărați bilete de la chioșcuri sau folosiți o aplicație mobilă.",
+              "Pregătiți mărunțiș dacă doriți să cumpărați biletul de la șofer.",
+              "Autobuzele circulă mai rar în weekend; planificați din timp.",
+              "Căutați stațiile cu 'Laukimo salė' (sală de așteptare) pentru mai mult confort."
+            ],
+            "en": [
+              "Purchase tickets at kiosks or use a mobile app if available.",
+              "Have small change ready if you plan to buy tickets from the driver.",
+              "Buses run less frequently on weekends; plan your schedule ahead.",
+              "Look for stops with 'Laukimo salė' (waiting room) for extra comfort."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Bus bietet im winterlichen Utena eine warme Alternative zum Laufen. Starten Sie im Zentrum und besuchen Sie die Sehenswürdigkeiten in Clustern, um die Zeit im Freien zu minimieren. Die beheizten Busse bringen Sie bequem zum Seepark und Museum. Abends kehren Sie mit dem Transit in den Stadtkern zurück, wo Sie ein warmes Abendessen erwartet.",
+            "hu": "A busz meleg alternatívát kínál a gyalogláshoz a téli Utenában. Kezdjen a központban, és látogassa a nevezetességeket csoportosan, hogy minimalizálja a kinti tartózkodást. A fűtött buszok kényelmesen elviszik a tópartra és a múzeumba. Este térjen vissza a központba, ahol meleg vacsora várja.",
+            "ro": "Autobuzul oferă o alternativă călduroasă la mersul pe jos în Utena de iarnă. Începeți în centru și vizitați obiectivele în grupuri pentru a minimiza timpul petrecut afară. Autobuzele încălzite vă duc confortabil la lac și la muzeu. Seara, reveniți în centru pentru o cină caldă.",
+            "en": "The bus offers a warm alternative to walking in wintery Utena. Start in the center and visit sites in clusters to minimize time spent outdoors. Heated buses take you comfortably to the lake park and museum. Return to the city core in the evening where a warm dinner awaits."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Center (Arrival & Exploration)",
+              "tip_5lang": {
+                "de": "Warten Sie in nahegelegenen Geschäften, wenn der Bus Verspätung hat.",
+                "hu": "Várakozzon a közeli üzletekben, ha késik a busz.",
+                "ro": "Așteptați în magazinele din apropiere dacă autobuzul întârzie.",
+                "en": "Wait in nearby shops if the bus is delayed due to weather."
+              }
+            },
+            {
+              "name": "Church of Christ's Ascension (in cluster)",
+              "tip_5lang": {
+                "de": "Stampfen Sie den Schnee von den Schuhen, bevor Sie in den Bus steigen.",
+                "hu": "Rázza le a havat a cipőjéről, mielőtt felszáll a buszra.",
+                "ro": "Scuturați zăpada de pe picioare înainte de a urca în autobuz.",
+                "en": "Shake the snow off your boots before boarding the bus."
+              }
+            },
+            {
+              "name": "Old Post Station (in cluster)",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind im Winter oft schneebedeckt; Vorsicht beim Treten.",
+                "hu": "A megállók télen gyakran havasak; vigyázzon a lépcsőknél.",
+                "ro": "Stațiile sunt adesea înzăpezite iarna; atenție la urcare.",
+                "en": "Stops are often snowy in winter; be careful when stepping on/off."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Warmen, um den Busplan online zu prüfen.",
+                "hu": "Használja ki a bent töltött időt a buszmenetrend online ellenőrzésére.",
+                "ro": "Profitate de timpul la căldură pentru a verifica orarul online.",
+                "en": "Use your time indoors to double-check the bus schedule online."
+              }
+            },
+            {
+              "name": "Cluster 2: Lake Park & Museum (Bus Ride)",
+              "tip_5lang": {
+                "de": "Der Bus ist angenehm geheizt; perfekt zum Aufwärmen.",
+                "hu": "A busz kellemesen fűtött; tökéletes a felmelegedésre.",
+                "ro": "Autobuzul este încălzit plăcut; perfect pentru încălzire.",
+                "en": "The bus is comfortably heated; perfect for warming up."
+              }
+            },
+            {
+              "name": "Utena Local Lore Museum (in cluster)",
+              "tip_5lang": {
+                "de": "Die letzte Busfahrt des Tages sollte vor Einbruch der Dunkelheit erfolgen.",
+                "hu": "A nap utolsó buszútját érdemes sötétedés előttre tervezni.",
+                "ro": "Ultima călătorie cu autobuzul ar trebui planificată înainte de întuneric.",
+                "en": "Plan your last bus trip before total darkness sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können sich bei starkem Schneefall kurzfristig ändern.",
+              "Tragen Sie warme Socken, da das Warten an Haltestellen kühl sein kann.",
+              "Nutzen Sie die App 'Trafi' für Echtzeit-Informationen zum ÖPNV.",
+              "Vermeiden Sie es, direkt an der Bordsteinkante zu stehen (Spritzschnee)."
+            ],
+            "hu": [
+              "A menetrendek erős havazás esetén rövid távon módosulhatnak.",
+              "Viseljen meleg zoknit, mert a megállókban a várakozás hűvös lehet.",
+              "Használja a 'Trafi' alkalmazást a valós idejű közlekedési infókért.",
+              "Kerülje a közvetlenül a padka szélén való várakozást a felfröccsenő hó miatt."
+            ],
+            "ro": [
+              "Orarele se pot modifica pe termen scurt în caz de ninsoare abundentă.",
+              "Purtați șosete groase, deoarece așteptarea în stații poate fi friguroasă.",
+              "Folosiți aplicația 'Trafi' pentru informații în timp real despre transport.",
+              "Evitați să stați chiar pe marginea bordurii din cauza zăpezii împroșcate."
+            ],
+            "en": [
+              "Schedules may change on short notice during heavy snowfall.",
+              "Wear warm socks as waiting at bus stops can be chilly.",
+              "Use the 'Trafi' app for real-time public transport information.",
+              "Avoid standing directly at the curb to avoid slush spray from passing vehicles."
+            ]
+          }
+        }
       }
     }
   }

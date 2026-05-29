@@ -379,6 +379,214 @@
           "Most archaeological sites have little shade, so bring a hat and sunscreen.",
           "Museum opening hours can vary, check them in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am regnerischen Hauptplatz, doch das Archäologische Museum bietet schnell Schutz und tiefe Einblicke in Lakonien.\nMittags trotzen wir dem Regen für Leonidas und die antiken Ruinen, die unter grauen Wolken besonders mystisch wirken.\nAm Nachmittag wärmen wir uns im Olivenmuseum auf, bevor wir den Tag am antiken Heiligtum der Artemis ausklingen lassen.\nAbends laden die Cafés rund um den Platz unter ihren Markisen zu einem gemütlichen und trockenen Abschluss ein.",
+            "hu": "A reggel a szemerkélő esőben a főtéren indul, de a Régészeti Múzeum hamar menedéket és ókori kincseket kínál.\nDélben ernyővel látogatjuk meg Leonidász szobrát és az akropoliszt, melyek esőben is méltóságteljesek.\nDélután az Olívamúzeum fedett tereiben ismerkedünk a görög arannyal, majd az Artemisz-szentély következik.\nEste a kivilágított belváros árkádjai alatt keresünk egy kellemes tavernát a vacsorához, távol a víztől.",
+            "ro": "Dimineața începe în piața centrală sub o ploaie ușoară, dar Muzeul Arheologic oferă rapid adăpost și istorie.\nLa prânz, explorăm situl antic cu umbrela, admirând măreția Spartei sub cerul plumburiu și dramatic.\nDupă-amiaza ne încălzim la Muzeul Măslinului, descoperind secretele agriculturii locale în interiorul primitor.\nSeara se încheie confortabil într-un local din centru, feriți de intemperiile de afară, cu o băutură caldă.",
+            "en": "Morning starts at the rainy central square, but the Archaeological Museum quickly provides shelter and ancient wonders.\nAt midday, we brave the rain with umbrellas to see Leonidas and the ruins of the ancient acropolis.\nIn the afternoon, the Museum of the Olive offers a dry and fascinating look at local traditions.\nEvening concludes with a cozy dinner in the city center, relaxing in a warm environment away from the wet streets."
+          },
+          "stops": [
+            {
+              "name": "Central Square of Sparta",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
+                "hu": "Használja a környező épületek árkádjait az eső elleni védelemre.",
+                "ro": "Folosiți arcadele clădirilor din jur pentru a vă proteja de ploaie.",
+                "en": "Use the arcades of the surrounding buildings for rain protection."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen starken Regenschauer trocken zu überstehen.",
+                "hu": "Tökéletes hely egy intenzívebb zápor száraz átvészeléséhez.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "Perfect place to stay dry during a heavy downpour."
+              }
+            },
+            {
+              "name": "Statue of Leonidas",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; der Boden vor dem Stadion kann rutschig sein.",
+                "hu": "Gyors fotómegálló; a stadion előtti talaj csúszós lehet.",
+                "ro": "Oprire scurtă pentru poze; solul din fața stadionului poate fi alunecos.",
+                "en": "Quick photo stop; the ground in front of the stadium can be slippery."
+              }
+            },
+            {
+              "name": "Ancient Sparta",
+              "tip_5lang": {
+                "de": "Die Pfade sind unbefestigt; festes, wasserdichtes Schuhwerk ist ratsam.",
+                "hu": "Az ösvények nem burkoltak; vízálló lábbeli erősen ajánlott.",
+                "ro": "Potecile nu sunt pavate; se recomandă încălțăminte impermeabilă.",
+                "en": "Paths are unpaved; waterproof footwear is highly recommended."
+              }
+            },
+            {
+              "name": "Tomb of Leonidas",
+              "tip_5lang": {
+                "de": "Ein kurzer Aufenthalt im Freien reicht hier völlig aus.",
+                "hu": "Egy rövid szabadtéri tartózkodás is bőven elég itt esőben.",
+                "ro": "O scurtă oprire în aer liber este suficientă aici pe ploaie.",
+                "en": "A short outdoor stay is quite enough here in the rain."
+              }
+            },
+            {
+              "name": "Museum of the Olive",
+              "tip_5lang": {
+                "de": "Genießen Sie die umfangreiche Innenausstellung ohne Zeitdruck.",
+                "hu": "Élvezze a kiterjedt belső kiállítást időnyomás nélkül.",
+                "ro": "Bucurați-vă de expoziția interioară extinsă fără nicio grabă.",
+                "en": "Enjoy the extensive indoor exhibition without any time pressure."
+              }
+            },
+            {
+              "name": "Sanctuary of Artemis Orthia",
+              "tip_5lang": {
+                "de": "Achtung bei den Ruinen, die Steine werden bei Nässe sehr glatt.",
+                "hu": "Vigyázat a romoknál, a kövek nedvesen nagyon csúsznak.",
+                "ro": "Atenție la ruine, pietrele devin foarte alunecoase când sunt ude.",
+                "en": "Careful at the ruins, the stones become very slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Arkaden rund um den Hauptplatz für trockene Wege.",
+              "Planen Sie längere Aufenthalte in den beiden Museen ein.",
+              "Tragen Sie wasserfeste Schuhe für den Besuch der antiken Akropolis.",
+              "Ein kleiner Regenschirm ist für die kurzen Wege zwischen den Sehenswürdigkeiten ideal.",
+              "Die Cafés am Platz bieten gemütliche Plätze im Trockenen."
+            ],
+            "hu": [
+              "Használja ki a főtér körüli árkádokat a száraz közlekedéshez.",
+              "Tervezzen hosszabb tartózkodást a két kiváló múzeumban.",
+              "Viseljen vízálló cipőt az antik akropolisz sárga ösvényeihez.",
+              "Egy kisméretű esernyő ideális a látnivalók közötti rövid sétákhoz.",
+              "A főtéri kávézók kényelmes, fedett helyeket kínálnak."
+            ],
+            "ro": [
+              "Folosiți arcadele din jurul pieței centrale pentru a rămâne uscat.",
+              "Planificați vizite mai lungi în cele două muzee principale.",
+              "Purtați încălțăminte impermeabilă pentru potecile de la acropola antică.",
+              "O umbrelă mică este ideală pentru segmentele scurte dintre obiective.",
+              "Cafenelele din piață oferă locuri confortabile și ferite de ploaie."
+            ],
+            "en": [
+              "Take advantage of the arcades around the main square for dry walking.",
+              "Plan for longer stays in the two excellent museums.",
+              "Wear waterproof shoes for the unpaved paths at Ancient Sparta.",
+              "A small umbrella is ideal for the short walks between sights.",
+              "The cafes on the square offer cozy, sheltered spots."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Hauptplatz startet den Tag belebend, bevor das Museum angenehme Wärme spendet.\nMittags nutzen wir das klare Winterlicht für Fotos von Leonidas und erkunden die antiken Stätten unter der milden Sonne.\nAm Nachmittag bietet das Olivenmuseum eine faszinierende und warme Pause vom kühlen Wind des Evrotas-Tals.\nDa die Sonne früh untergeht, genießen wir die blaue Stunde am Heiligtum und kehren dann in die belebte Innenstadt zurück.",
+            "hu": "A friss téli reggel a főtéren élénkítően indítja a napot, mielőtt a múzeum kellemes melegébe vonulnunk.\nDélben a tiszta téli fényt használjuk ki Leonidász fotózásához és az antik romok bejárásához.\nDélután az Olívamúzeum nyújt izgalmas és meleg pihenőt az Evrotasz-völgy hűvös szele elől.\nMivel a nap korán nyugszik, az alkonyat fényeit már a szentélynél élvezzük, majd irány a városközpont.",
+            "ro": "O dimineață răcoroasă de iarnă în piața centrală ne înviorează înainte de a intra în căldura muzeului.\nLa prânz, profităm de lumina clară pentru poze cu Leonidas și explorăm siturile antice sub soarele blând.\nDupă-amiaza, Muzeul Măslinului oferă o pauză fascinantă și caldă de la vântul rece de pe valea Eurotas.\nDeoarece soarele apune devreme, admirăm amurgul la sanctuar și ne întoarcem în centrul animat al orașului.",
+            "en": "A crisp winter morning at the central square starts the day energetically before the museum provides warmth.\nAt midday, we take advantage of the clear winter light for photos of Leonidas and explore the ancient sites.\nIn the afternoon, the Museum of the Olive offers a fascinating and warm break from the cool valley breeze.\nAs the sun sets early, we enjoy the twilight at the sanctuary before returning to the lively city center."
+          },
+          "stops": [
+            {
+              "name": "Central Square of Sparta",
+              "tip_5lang": {
+                "de": "Die Cafés servieren jetzt heißen griechischen Kaffee zum Aufwärmen.",
+                "hu": "A kávézókban ilyenkor forró görög kávét mérnek a bemelegítéshez.",
+                "ro": "Cafenelele servesc acum cafea grecească fierbinte pentru încălzire.",
+                "en": "Cafes now serve hot Greek coffee to help you warm up."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Ein gut geheizter Ort, um die Geschichte in Ruhe zu studieren.",
+                "hu": "Jól fűtött helyszín a történelem nyugodt tanulmányozásához.",
+                "ro": "Un loc bine încălzit pentru a studia istoria în liniște.",
+                "en": "A well-heated place to study history in peace."
+              }
+            },
+            {
+              "name": "Statue of Leonidas",
+              "tip_5lang": {
+                "de": "Das klare Winterlicht lässt den König von Sparta heroisch glänzen.",
+                "hu": "A tiszta téli fényben Leonidász szobra hősi fényben tündököl.",
+                "ro": "Lumina clară de iarnă îl face pe regele Spartei să strălucească eroic.",
+                "en": "The clear winter light makes the King of Sparta shine heroically."
+              }
+            },
+            {
+              "name": "Ancient Sparta",
+              "tip_5lang": {
+                "de": "Bester Zeitpunkt für den Aufstieg, da die Hitze des Sommers fehlt.",
+                "hu": "A legjobb időpont a mászáshoz, mivel nincs nyári hőség.",
+                "ro": "Cel mai bun moment pentru urcare, deoarece lipsește arșița verii.",
+                "en": "Best time for the climb as the summer heat is absent."
+              }
+            },
+            {
+              "name": "Tomb of Leonidas",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht aus, bevor es wieder ins Warme geht.",
+                "hu": "Egy rövid megálló elég, mielőtt újra meleg helyre menne.",
+                "ro": "O scurtă oprire este suficientă înainte de a reveni la căldură.",
+                "en": "A short stop is enough before heading back to a warm place."
+              }
+            },
+            {
+              "name": "Museum of the Olive",
+              "tip_5lang": {
+                "de": "Die Innenräume sind angenehm temperiert und sehr informativ.",
+                "hu": "A belső terek kellemes hőmérsékletűek és nagyon informatívak.",
+                "ro": "Spațiile interioare au o temperatură plăcută și sunt informative.",
+                "en": "The interior spaces are pleasantly tempered and very informative."
+              }
+            },
+            {
+              "name": "Sanctuary of Artemis Orthia",
+              "tip_5lang": {
+                "de": "Beachten Sie den frühen Sonnenuntergang gegen 17:15 Uhr.",
+                "hu": "Ügyeljen a korai naplementére 17:15 körül.",
+                "ro": "Atenție la apusul timpuriu al soarelui în jurul orei 17:15.",
+                "en": "Be mindful of the early sunset around 5:15 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Kleidung im Zwiebelprinzip für den Wechsel zwischen Innen und Außen.",
+              "Die Museen sind ideale Orte, um sich zwischendurch aufzuwärmen.",
+              "Nutzen Sie die hellen Mittagsstunden für die unbeschatteten antiken Ruinen.",
+              "Beachten Sie, dass es nach Sonnenuntergang (ca. 17:15) schnell abkühlt.",
+              "Genießen Sie die klare Sicht auf das verschneite Taygetos-Gebirge."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a kinti és benti helyszínek közötti váltáshoz.",
+              "A múzeumok ideálisak a napközbeni felmelegedéshez.",
+              "Használja ki a világos déli órákat az árnyékmentes romok bejárásához.",
+              "Számoljon vele, hogy naplemente (kb. 17:15) után gyorsan hűl az idő.",
+              "Élvezze a tiszta kilátást a hófödte Tajgetosz-hegységre."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru tranziția între interior și exterior.",
+              "Muzeele sunt locuri ideale pentru a vă încălzi în timpul zilei.",
+              "Profită de orele luminoase ale amiezii pentru ruinele fără umbră.",
+              "Rețineți că se răcește rapid după apusul soarelui (aprox. 17:15).",
+              "Bucurați-vă de vederea clară spre munții Taygetos înzăpeziți."
+            ],
+            "en": [
+              "Dress in layers for the transition between indoor and outdoor sites.",
+              "The museums are ideal spots to warm up during the day.",
+              "Take advantage of the bright midday hours for the unshaded ruins.",
+              "Keep in mind that it cools down quickly after sunset (around 5:15 PM).",
+              "Enjoy the clear views of the snow-capped Taygetos mountains."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -775,6 +983,232 @@
           "Bring a small lock to secure your bike at the stops.",
           "Plan your route to avoid the hottest hours of the day."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet vorsichtig am glatten Hauptplatz, bevor wir im Museum Schutz suchen.\nMittags radeln wir durch den Regen zu Leonidas und den Ruinen, wobei wir auf rutschige Straßen achten.\nNachmittags führt uns der Weg zum Menelaion und zurück zum Olivenmuseum, um uns aufzuwärmen.\nAm Abend beenden wir die Tour sicher am Grab des Leonidas und suchen trockene Unterkunft.",
+            "hu": "A kerékpártúra óvatosan indul a csúszós főtéren, mielőtt a múzeumba menekülnénk.\nDélben az esőben tekerünk Leonidászhoz és a romokhoz, figyelve a csúszós utakra.\nDélután a Menelaion felé vesszük az irányt, majd vissza az Olívamúzeumba melegedni.\nEste biztonságosan fejezzük be a túrát Leonidász sírjánál, majd száraz helyet keresünk.",
+            "ro": "Turul cu bicicleta începe cu prudență în piața alunecoasă, înainte de a ne adăposti la muzeu.\nLa prânz, pedalăm prin ploaie spre Leonidas și ruine, atenți la drumurile umede.\nDupă-amiaza ne îndreptăm spre Menelaion și înapoi la Muzeul Măslinului pentru a ne încălzi.\nSeara încheiem turul în siguranță la Mormântul lui Leonidas și căutăm un loc uscat.",
+            "en": "The bike tour starts cautiously on the slippery main square before seeking shelter at the museum.\nAt midday, we cycle through the rain to Leonidas and the ruins, being careful of wet roads.\nIn the afternoon, we head towards Menelaion and back to the Olive Museum to warm up.\nIn the evening, we safely finish the tour at the Tomb of Leonidas and find a dry spot."
+          },
+          "stops": [
+            {
+              "name": "Central Square of Sparta",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf dem nassen Pflasterstein.",
+                "hu": "Vigyázat az indulásnál a nedves térköveken.",
+                "ro": "Atenție la pornire pe pavajul umed.",
+                "en": "Be careful when starting off on the wet pavement."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem überdachten Ort ab.",
+                "hu": "Parkolja le a kerékpárt egy fedett helyen.",
+                "ro": "Parcați bicicleta într-un loc acoperit.",
+                "en": "Park your bike in a covered area."
+              }
+            },
+            {
+              "name": "Statue of Leonidas",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; achten Sie auf den Verkehr bei Regen.",
+                "hu": "Rövid megálló; figyeljen a forgalomra esőben.",
+                "ro": "Oprire scurtă; atenție la trafic pe timp de ploaie.",
+                "en": "Short stop; pay attention to traffic in the rain."
+              }
+            },
+            {
+              "name": "Ancient Sparta",
+              "tip_5lang": {
+                "de": "Die Zufahrtswege können schlammig und rutschig sein.",
+                "hu": "A bekötőutak sárosak és csúszósak lehetnek.",
+                "ro": "Drumurile de acces pot fi noroioase și alunecoase.",
+                "en": "The access roads can be muddy and slippery."
+              }
+            },
+            {
+              "name": "Sanctuary of Artemis Orthia",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Befahren von tiefem Schlamm.",
+                "hu": "Kerülje a mély sárban való kerékpározást.",
+                "ro": "Evitați deplasarea prin noroi adânc.",
+                "en": "Avoid cycling through deep mud."
+              }
+            },
+            {
+              "name": "Menelaion",
+              "tip_5lang": {
+                "de": "Der Anstieg erfordert bei Nässe gute Reifenhaftung.",
+                "hu": "Az emelkedő nedves úton jó tapadást igényel.",
+                "ro": "Urcarea necesită o aderență bună a anvelopelor pe ud.",
+                "en": "The climb requires good tire grip in wet conditions."
+              }
+            },
+            {
+              "name": "Museum of the Olive",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit hier, um die Kleidung zu trocknen.",
+                "hu": "Használja ki az időt a ruházat szárítására.",
+                "ro": "Folosiți timpul aici pentru a vă usca hainele.",
+                "en": "Use the time here to dry your clothes."
+              }
+            },
+            {
+              "name": "Tomb of Leonidas",
+              "tip_5lang": {
+                "de": "Sichern Sie das Rad schnell und suchen Sie Schutz.",
+                "hu": "Zárja le gyorsan a biciklit és keressen fedezéket.",
+                "ro": "Asigurați rapid bicicleta și căutați adăpost.",
+                "en": "Lock the bike quickly and seek shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollständige Regenmontur inklusive Überschuhen.",
+              "Vermeiden Sie plötzliches Bremsen auf nassem Marmorpflaster.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Menelaion.",
+              "Nutzen Sie die Museen als Etappenziele zum Aufwärmen.",
+              "Achten Sie auf Pfützen, die tiefe Schlaglöcher verdecken könnten."
+            ],
+            "hu": [
+              "Viseljen teljes esőfelszerelést, beleértve a kamáslit is.",
+              "Kerülje a hirtelen fékezést a nedves márványburkolaton.",
+              "Ellenőrizze a fékeket a Menelaionról való leereszkedés előtt.",
+              "Használja a múzeumokat állomásként a felmelegedéshez.",
+              "Ügyeljen a tócsákra, amelyek mély kátyúkat rejthetnek."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, inclusiv protecții pentru pantofi.",
+              "Evitați frânarea bruscă pe pavajul de marmură umed.",
+              "Verificați frânele înainte de coborârea de la Menelaion.",
+              "Folosiți muzeele ca puncte de oprire pentru a vă încălzi.",
+              "Atenție la bălți, care pot ascunde gropi adânci."
+            ],
+            "en": [
+              "Wear full rain gear, including shoe covers.",
+              "Avoid sudden braking on wet marble pavements.",
+              "Check your brakes before descending from Menelaion.",
+              "Use the museums as waypoints to warm up.",
+              "Watch out for puddles that might hide deep potholes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frisch und klar beginnt die Radtour am Platz, während wir uns warm radeln.\nMittags genießen wir die Sonne auf dem Weg zu den antiken Stätten und dem Heiligtum.\nAm Nachmittag fordern wir uns beim Aufstieg zum Menelaion heraus und belohnen uns mit dem Museumsbesuch.\nZum Abschluss besuchen wir das Grab des Leonidas, bevor die Kälte des Abends einsetzt.",
+            "hu": "Frissen és tisztán indul a bringázás a téren, miközben bemelegszünk a tekeréstől.\nDélben élvezzük a napsütést az antik romok és a szentély felé vezető úton.\nDélután próbára tesszük magunkat a Menelaion emelkedőjén, majd múzeumlátogatással jutalmazzuk magunkat.\nZárásként Leonidász sírját keressük fel, mielőtt beállna az esti hideg.",
+            "ro": "Turul cu bicicleta începe proaspăt și clar în piață, în timp ce ne încălzim pedalând.\nLa prânz ne bucurăm de soare în drum spre siturile antice și sanctuar.\nDupă-amiaza ne provocăm cu urcarea la Menelaion și ne recompensăm cu vizita la muzeu.\nLa final vizităm Mormântul lui Leonidas, înainte de a se lăsa frigul serii.",
+            "en": "Fresh and clear, the cycling tour starts at the square as we warm up by pedaling.\nAt midday, we enjoy the sun on the way to the ancient sites and the sanctuary.\nIn the afternoon, we challenge ourselves with the climb to Menelaion and reward ourselves with a museum visit.\nTo finish, we visit the Tomb of Leonidas before the evening cold sets in."
+          },
+          "stops": [
+            {
+              "name": "Central Square of Sparta",
+              "tip_5lang": {
+                "de": "Handschuhe sind bei der morgendlichen Abfahrt unerlässlich.",
+                "hu": "A kesztyű elengedhetetlen a reggeli induláskor.",
+                "ro": "Mănușile sunt esențiale la plecarea de dimineață.",
+                "en": "Gloves are essential for the morning departure."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die steifen Finger aufzuwärmen.",
+                "hu": "Használja ki a megállót az elgémberedett ujjak felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi degetele amorțite.",
+                "en": "Use the stop to warm up stiff fingers."
+              }
+            },
+            {
+              "name": "Statue of Leonidas",
+              "tip_5lang": {
+                "de": "Kurze Pause im Sonnenschein vor dem Stadion.",
+                "hu": "Rövid szünet a napsütésben a stadion előtt.",
+                "ro": "Scurtă pauză la soare în fața stadionului.",
+                "en": "Short break in the sunshine in front of the stadium."
+              }
+            },
+            {
+              "name": "Ancient Sparta",
+              "tip_5lang": {
+                "de": "Das Radfahren hält den Körper bei der Besichtigung warm.",
+                "hu": "A kerékpározás melegen tartja a testet a nézelődés közben.",
+                "ro": "Mersul pe bicicletă menține corpul cald în timpul vizitei.",
+                "en": "Cycling keeps the body warm during the sightseeing."
+              }
+            },
+            {
+              "name": "Sanctuary of Artemis Orthia",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Wind, der hier vom Fluss her kühler weht.",
+                "hu": "Figyeljen a szélre, amely a folyó felől hűvösebben fúj.",
+                "ro": "Atenție la vântul care bate mai rece de la râu.",
+                "en": "Watch out for the wind, which blows cooler from the river."
+              }
+            },
+            {
+              "name": "Menelaion",
+              "tip_5lang": {
+                "de": "Die Auffahrt wärmt auf; oben bietet sich klare Fernsicht.",
+                "hu": "A felfelé út bemelegít; fent tiszta kilátás vár.",
+                "ro": "Urcarea vă va încălzi; sus aveți o vedere clară la distanță.",
+                "en": "The ride up warms you up; there's a clear view at the top."
+              }
+            },
+            {
+              "name": "Museum of the Olive",
+              "tip_5lang": {
+                "de": "Ein herrlich warmer Ort nach der windigen Fahrt zum Menelaion.",
+                "hu": "Nagyszerű meleg hely a szeles menelaioni út után.",
+                "ro": "Un loc minunat de cald după drumul vântos spre Menelaion.",
+                "en": "A wonderfully warm place after the windy ride to Menelaion."
+              }
+            },
+            {
+              "name": "Tomb of Leonidas",
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour, bevor es nach 17 Uhr merklich abkühlt.",
+                "hu": "Fejezze be a túrát, mielőtt 17 óra után érezhetően lehűlne.",
+                "ro": "Încheiați turul înainte de a se răci simțitor după ora 17.",
+                "en": "Finish the tour before it cools down noticeably after 5 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung für die Fahrten im Tal.",
+              "Planen Sie die Route so, dass Sie vor Einbruch der Dunkelheit zurück sind.",
+              "Die Auffahrt zum Menelaion ist im Winter weniger anstrengend als im Sommer.",
+              "Ein heißes Getränk in einer Thermoskanne ist sehr zu empfehlen.",
+              "Achten Sie auf Schattenbereiche, wo es deutlich kühler sein kann."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot a völgyben való tekeréshez.",
+              "Tervezze úgy az utat, hogy sötétedés előtt érjen vissza.",
+              "A Menelaionhoz vezető emelkedő télen kevésbé megterhelő, mint nyáron.",
+              "Egy termoszban lévő forró ital nagyon ajánlott.",
+              "Ügyeljen az árnyékos szakaszokra, ahol jelentősen hűvösebb lehet."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt pentru deplasările pe vale.",
+              "Planificați ruta astfel încât să vă întoarceți înainte de lăsarea întunericului.",
+              "Urcarea la Menelaion este mai puțin obositoare iarna decât vara.",
+              "O băutură fierbinte într-un termos este foarte recomandată.",
+              "Atenție la zonele cu umbră, unde poate fi mult mai răcoare."
+            ],
+            "en": [
+              "Wear windproof clothing for rides in the valley.",
+              "Plan the route to be back before dark.",
+              "The climb to Menelaion is less taxing in winter than in summer.",
+              "A hot drink in a thermos is highly recommended.",
+              "Watch out for shaded areas where it can be significantly cooler."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1155,6 +1589,214 @@
           "A GPS is useful for finding the more remote archaeological sites.",
           "Fill up your tank before leaving the city for excursions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem starten wir die Tour am Hauptplatz und nutzen die kurzen Wege zum Museum.\nMittags fahren wir direkt zu den antiken Stätten, wobei das Auto als perfekter Rückzugsort dient.\nAm Nachmittag erkunden wir das Menelaion und das Olivenmuseum, immer im Trockenen bleibend.\nDer Abend endet entspannt bei der Statue des Leonidas, bevor wir zum Hotel zurückkehren.",
+            "hu": "Kényelmesen indítjuk a túrát a főtéren, kihasználva a rövid utat a múzeumig.\nDélben közvetlenül az antik romokhoz hajtunk, az autó tökéletes menedéket nyújt.\nDélután a Menelaiont és az Olívamúzeumot keressük fel, végig szárazon maradva.\nAz este Leonidász szobránál zárul, mielőtt visszatérnénk a szállásunkra.",
+            "ro": "Începem turul confortabil în piața centrală și profităm de drumul scurt până la muzeu.\nLa prânz conducem direct spre siturile antice, mașina fiind refugiul perfect.\nDupă-amiaza explorăm Menelaion și Muzeul Măslinului, rămânând mereu la adăpost.\nSeara se încheie relaxat la statuia lui Leonidas, înainte de a reveni la hotel.",
+            "en": "We comfortably start the tour at the main square, taking advantage of the short drive to the museum.\nAt midday, we drive directly to the ancient sites, with the car serving as a perfect retreat.\nIn the afternoon, we explore Menelaion and the Olive Museum, staying dry throughout.\nThe evening ends relaxingly at the Statue of Leonidas before returning to the hotel."
+          },
+          "stops": [
+            {
+              "name": "Central Square & Archaeological Museum",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus oder in der Nähe des Museums.",
+                "hu": "Parkoljon parkolóházban vagy a múzeum közelében.",
+                "ro": "Parcați într-o parcare acoperită sau lângă muzeu.",
+                "en": "Park in a parking garage or near the museum."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Schirme im Vorraum des Museums.",
+                "hu": "Hagyja a vizes esernyőket a múzeum előterében.",
+                "ro": "Lăsați umbrelele ude în holul muzeului.",
+                "en": "Leave wet umbrellas in the museum foyer."
+              }
+            },
+            {
+              "name": "Ancient Sparta & Leonidas Sites",
+              "tip_5lang": {
+                "de": "Parkplätze befinden sich direkt am Eingang zum Gelände.",
+                "hu": "Parkolóhelyek közvetlenül a terület bejáratánál találhatók.",
+                "ro": "Locurile de parcare se află chiar la intrarea în sit.",
+                "en": "Parking spaces are located right at the entrance to the site."
+              }
+            },
+            {
+              "name": "Statue of Leonidas",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto aus dem Auto heraus ist möglich.",
+                "hu": "Egy rövid megálló fotózásra akár az autóból is lehetséges.",
+                "ro": "O scurtă oprire pentru o poză direct din mașină este posibilă.",
+                "en": "A short stop for a photo even from the car is possible."
+              }
+            },
+            {
+              "name": "Tomb of Leonidas",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten in den Seitenstraßen.",
+                "hu": "Használja ki a parkolási lehetőségeket a mellékutcákban.",
+                "ro": "Folosiți posibilitățile de parcare de pe străzile laterale.",
+                "en": "Use the parking options in the side streets."
+              }
+            },
+            {
+              "name": "Menelaion",
+              "tip_5lang": {
+                "de": "Achten Sie auf die schmale und bei Regen rutschige Zufahrt.",
+                "hu": "Vigyázzon a keskeny és esőben csúszós bekötőútra.",
+                "ro": "Atenție la drumul de acces îngust și alunecos pe ploaie.",
+                "en": "Watch out for the narrow and slippery access road in the rain."
+              }
+            },
+            {
+              "name": "Museum of the Olive",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist meist gut verfügbar und nah am Eingang.",
+                "hu": "A parkoló általában szabad és közel van a bejárathoz.",
+                "ro": "Parcarea este de obicei disponibilă și aproape de intrare.",
+                "en": "Parking is usually available and close to the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein Auto ist ideal, um zwischen den Sehenswürdigkeiten trocken zu bleiben.",
+              "Nutzen Sie die Parkplätze direkt an den Museen.",
+              "Achten Sie auf rutschige Straßenbeläge in der Innenstadt.",
+              "Bewahren Sie einen Regenschirm griffbereit im Auto auf.",
+              "Die Zufahrt zum Menelaion kann bei starkem Regen schwierig sein."
+            ],
+            "hu": [
+              "Az autó ideális arra, hogy szárazon maradjon a látnivalók között.",
+              "Használja a közvetlenül a múzeumoknál lévő parkolókat.",
+              "Vigyázzon a csúszós útburkolatokra a belvárosban.",
+              "Tartson egy esernyőt kéznél az autóban.",
+              "A Menelaionhoz vezető út heves esőzéskor nehézkes lehet."
+            ],
+            "ro": [
+              "Mașina este ideală pentru a rămâne uscat între obiective.",
+              "Folosiți parcările situate direct lângă muzee.",
+              "Atenție la carosabilul alunecos din centrul orașului.",
+              "Păstrați o umbrelă la îndemână în mașină.",
+              "Accesul la Menelaion poate fi dificil în caz de ploaie puternică."
+            ],
+            "en": [
+              "A car is ideal for staying dry between the sights.",
+              "Use the parking lots directly at the museums.",
+              "Watch out for slippery road surfaces in the city center.",
+              "Keep an umbrella handy in the car.",
+              "Access to Menelaion can be difficult during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im warmen Auto starten wir am Platz und besuchen das Museum.\nMittags erkunden wir die antiken Stätten und genießen die klare Winterluft.\nNachmittags führt uns die Fahrt zum Menelaion mit seiner herrlichen Aussicht und zum Olivenmuseum.\nZum Abschluss besuchen wir die Denkmäler des Leonidas im sanften Abendlicht.",
+            "hu": "A meleg autóban indítunk a téren, majd meglátogatjuk a múzeumot.\nDélben felfedezzük az antik romokat és élvezzük a tiszta téli levegőt.\nDélután a Menelaionhoz autózunk a pazar kilátásért, majd az Olívamúzeum következik.\nZárásként Leonidász emlékműveit keressük fel a szelíd esti fényben.",
+            "ro": "Plecăm cu mașina încălzită din piață și vizităm muzeul.\nLa prânz explorăm siturile antice și ne bucurăm de aerul curat de iarnă.\nDupă-amiaza drumul ne duce la Menelaion, cu vederea sa superbă, și la Muzeul Măslinului.\nLa final vizităm monumentele lui Leonidas în lumina blândă a serii.",
+            "en": "Starting from the square in a warm car, we visit the museum.\nAt midday, we explore the ancient sites and enjoy the clear winter air.\nIn the afternoon, the drive takes us to Menelaion with its superb views and to the Olive Museum.\nTo finish, we visit the monuments of Leonidas in the gentle evening light."
+          },
+          "stops": [
+            {
+              "name": "Central Square & Archaeological Museum",
+              "tip_5lang": {
+                "de": "Das Auto heizt sich in der Wintersonne angenehm auf.",
+                "hu": "Az autó kellemesen felmelegszik a téli napsütésben.",
+                "ro": "Mașina se încălzește plăcut în soarele de iarnă.",
+                "en": "The car warms up pleasantly in the winter sun."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie den Komfort, direkt vorfahren zu können.",
+                "hu": "Élvezze a kényelmet, hogy közvetlenül oda tud hajtani.",
+                "ro": "Bucurați-vă de confortul de a putea conduce până la intrare.",
+                "en": "Enjoy the convenience of being able to drive right up."
+              }
+            },
+            {
+              "name": "Ancient Sparta & Leonidas Sites",
+              "tip_5lang": {
+                "de": "Ideale Bedingungen für einen Spaziergang ohne Sommerhitze.",
+                "hu": "Ideális körülmények egy sétához a nyári hőség nélkül.",
+                "ro": "Condiții ideale pentru o plimbare fără arșița verii.",
+                "en": "Ideal conditions for a walk without the summer heat."
+              }
+            },
+            {
+              "name": "Statue of Leonidas",
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für Fotos im klaren Licht.",
+                "hu": "Egy gyors megálló fotózáshoz a tiszta fényben.",
+                "ro": "O oprire rapidă pentru poze în lumina clară.",
+                "en": "A quick stop for photos in the clear light."
+              }
+            },
+            {
+              "name": "Tomb of Leonidas",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt im Freien, bevor die Fahrt weitergeht.",
+                "hu": "Rövid szabadtéri tartózkodás, mielőtt folytatná az utat.",
+                "ro": "O scurtă oprire afară înainte de a continua drumul.",
+                "en": "Short outdoor stay before continuing the drive."
+              }
+            },
+            {
+              "name": "Menelaion",
+              "tip_5lang": {
+                "de": "Der Ausblick auf die schneebedeckten Berge ist fantastisch.",
+                "hu": "A kilátás a hófödte hegyekre fantasztikus.",
+                "ro": "Vederea spre munții înzăpeziți este fantastică.",
+                "en": "The view of the snow-capped mountains is fantastic."
+              }
+            },
+            {
+              "name": "Museum of the Olive",
+              "tip_5lang": {
+                "de": "Das Museum bietet eine warme und lehrreiche Pause.",
+                "hu": "A múzeum meleg és tanulságos pihenőt kínál.",
+                "ro": "Muzeul oferă o pauză caldă și educativă.",
+                "en": "The museum offers a warm and educational break."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Heizung Ihres Autos für maximalen Komfort.",
+              "Die Parkplatzsuche ist im Winter meist unkomplizierter.",
+              "Die Fahrt zum Menelaion bietet spektakuläre Winterpanoramen.",
+              "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit ein.",
+              "Achten Sie auf frostige Stellen auf schattigen Bergstraßen."
+            ],
+            "hu": [
+              "Használja az autó fűtését a maximális kényelem érdekében.",
+              "Télen a parkolóhely-keresés általában egyszerűbb.",
+              "A Menelaionhoz vezető út látványos téli panorámát kínál.",
+              "Tervezze meg a visszautat sötétedés előtt.",
+              "Ügyeljen a fagyos foltokra az árnyékos hegyi utakon."
+            ],
+            "ro": [
+              "Folosiți încălzirea mașinii pentru un confort maxim.",
+              "Găsirea unui loc de parcare este de obicei mai simplă iarna.",
+              "Drumul spre Menelaion oferă panorame de iarnă spectaculoase.",
+              "Planificați drumul de întoarcere înainte de lăsarea întunericului.",
+              "Atenție la porțiunile cu gheață de pe drumurile de munte umbrite."
+            ],
+            "en": [
+              "Use your car's heater for maximum comfort.",
+              "Finding a parking spot is usually easier in winter.",
+              "The drive to Menelaion offers spectacular winter panoramas.",
+              "Plan your return trip before dark.",
+              "Watch out for icy patches on shaded mountain roads."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1511,6 +2153,196 @@
           "Have small change ready for bus tickets.",
           "Ask locals for the correct bus stop; not all are well-marked."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Hauptplatz und nutzen die Busse, um trocken zum Museum zu gelangen.\nMittags besichtigen wir die antiken Ruinen und die Statue, wobei wir die Fahrpläne im Auge behalten.\nAm Nachmittag bietet das Olivenmuseum eine warme Zuflucht vor dem Regen.\nDer Abend endet gemütlich am Grab des Leonidas, bevor wir den Bus zurück ins Zentrum nehmen.",
+            "hu": "A főtéren kezdünk, és buszokkal jutunk el szárazon a múzeumig.\nDélben az antik romokat és a szobrot nézzük meg, szem előtt tartva a menetrendet.\nDélután az Olívamúzeum nyújt meleg menedéket az eső elől.\nAz este Leonidász sírjánál zárul, mielőtt busszal visszatérnénk a központba.",
+            "ro": "Începem în piața centrală și folosim autobuzele pentru a ajunge uscați la muzeu.\nLa prânz vizităm ruinele antice și statuia, fiind atenți la programul autobuzelor.\nDupă-amiaza, Muzeul Măslinului oferă un refugiu cald împotriva ploii.\nSeara se încheie plăcut la Mormântul lui Leonidas, înainte de a lua autobuzul spre centru.",
+            "en": "We start at the main square and use buses to get to the museum dry.\nAt midday, we visit the ancient ruins and the statue, keeping an eye on the schedules.\nIn the afternoon, the Olive Museum provides a warm refuge from the rain.\nThe evening ends nicely at the Tomb of Leonidas before taking the bus back to the center."
+          },
+          "stops": [
+            {
+              "name": "Central Square of Sparta",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen bieten oft nur wenig Schutz vor Regen.",
+                "hu": "A buszmegállók gyakran kevés védelmet nyújtanak az eső ellen.",
+                "ro": "Stațiile de autobuz oferă adesea puțină protecție împotriva ploii.",
+                "en": "Bus stops often offer little protection from the rain."
+              }
+            },
+            {
+              "name": "Ancient Sparta",
+              "tip_5lang": {
+                "de": "Rechnen Sie mit kurzen Fußwegen von der Bushaltestelle.",
+                "hu": "Számoljon rövid gyalogúttal a buszmegállótól.",
+                "ro": "Luați în calcul scurte segmente de mers pe jos de la stație.",
+                "en": "Expect short walks from the bus stop."
+              }
+            },
+            {
+              "name": "Statue of Leonidas",
+              "tip_5lang": {
+                "de": "Warten Sie auf den Bus im nahegelegenen Café.",
+                "hu": "Várja a buszt a közeli kávézóban.",
+                "ro": "Așteptați autobuzul în cafeneaua din apropiere.",
+                "en": "Wait for the bus in the nearby cafe."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Eine gute Gelegenheit, den Regenschauer auszusitzen.",
+                "hu": "Jó alkalom az eső kivárására.",
+                "ro": "O ocazie bună de a lăsa ploaia să treacă.",
+                "en": "A good opportunity to wait out the rain."
+              }
+            },
+            {
+              "name": "Museum of the Olive",
+              "tip_5lang": {
+                "de": "Der Bus hält in angenehmer Nähe zum Eingang.",
+                "hu": "A busz kényelmes közelségben áll meg a bejárathoz.",
+                "ro": "Autobuzul oprește la o distanță convenabilă de intrare.",
+                "en": "The bus stops conveniently close to the entrance."
+              }
+            },
+            {
+              "name": "Tomb of Leonidas",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten für die Rückfahrt genau.",
+                "hu": "Ellenőrizze pontosan a visszautazási időpontokat.",
+                "ro": "Verificați cu atenție orele de plecare pentru întoarcere.",
+                "en": "Check the departure times for the return trip carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die lokalen Buslinien, um längere Wege im Regen zu vermeiden.",
+              "Halten Sie Kleingeld für die Fahrkarten bereit.",
+              "Informieren Sie sich vorab über die Taktung der Busse bei Regen.",
+              "Die Museen sind gute Orte, um auf den nächsten Bus zu warten.",
+              "Ein Regenschirm ist für die Wege zur Haltestelle notwendig."
+            ],
+            "hu": [
+              "Használja a helyi buszjáratokat a hosszú esőben való gyaloglás helyett.",
+              "Legyen Önnél aprópénz a jegyvásárláshoz.",
+              "Tájékozódjon előre a buszok gyakoriságáról esőben.",
+              "A múzeumok jó helyek a következő busz megvárására.",
+              "Esernyő szükséges a megállóig tartó szakaszokhoz."
+            ],
+            "ro": [
+              "Folosiți liniile locale de autobuz pentru a evita mersul lung prin ploaie.",
+              "Aveți la îndemână mărunțiș pentru bilete.",
+              "Informați-vă din timp despre frecvența autobuzelor pe ploaie.",
+              "Muzeele sunt locuri bune pentru a aștepta următorul autobuz.",
+              "O umbrelă este necesară pentru drumul până la stație."
+            ],
+            "en": [
+              "Use local bus lines to avoid long walks in the rain.",
+              "Have small change ready for tickets.",
+              "Check the bus frequency in advance during rainy weather.",
+              "Museums are good places to wait for the next bus.",
+              "An umbrella is necessary for the stretches to the bus stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am kühlen Morgen starten wir am Platz und nutzen den Bus zum Museum.\nMittags erkunden wir die antiken Stätten und genießen das Licht des Winters.\nAm Nachmittag wärmen wir uns im Olivenmuseum auf, bevor wir die Statue besuchen.\nZum Abschluss besichtigen wir das Grab des Leonidas und kehren mit dem Transit zurück.",
+            "hu": "A hűvös reggelen a téren kezdünk, és busszal megyünk a múzeumig.\nDélben felfedezzük az antik romokat és élvezzük a téli fényeket.\nDélután az Olívamúzeumban melegszünk fel, mielőtt a szobrot megnéznénk.\nZárásként Leonidász sírját keressük fel, majd busszal térünk vissza.",
+            "ro": "În dimineața răcoroasă plecăm din piață și luăm autobuzul spre muzeu.\nLa prânz explorăm siturile antice și ne bucurăm de lumina iernii.\nDupă-amiaza ne încălzim la Muzeul Măslinului înainte de a vizita statuia.\nLa final vizităm Mormântul lui Leonidas și ne întoarcem cu transportul public.",
+            "en": "On a cool morning, we start at the square and take the bus to the museum.\nAt midday, we explore the ancient sites and enjoy the winter light.\nIn the afternoon, we warm up in the Olive Museum before visiting the statue.\nTo finish, we visit the Tomb of Leonidas and return by transit."
+          },
+          "stops": [
+            {
+              "name": "Central Square of Sparta",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter angenehm geheizt.",
+                "hu": "A buszok télen kellemesen fűtöttek.",
+                "ro": "Autobuzele sunt încălzite plăcut iarna.",
+                "en": "Buses are pleasantly heated in winter."
+              }
+            },
+            {
+              "name": "Ancient Sparta",
+              "tip_5lang": {
+                "de": "Der Spaziergang von der Haltestelle hält warm.",
+                "hu": "A megállótól való séta melegen tartja.",
+                "ro": "Mersul de la stație vă va menține cald.",
+                "en": "The walk from the stop keeps you warm."
+              }
+            },
+            {
+              "name": "Statue of Leonidas",
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist ideal für Fotos.",
+                "hu": "A délutáni fények ideálisak a fotózáshoz.",
+                "ro": "Lumina de după-amiază este ideală pentru poze.",
+                "en": "The afternoon light is ideal for photos."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Verbringen Sie hier die kühlsten Stunden des Tages.",
+                "hu": "Itt töltse a nap leghűvösebb óráit.",
+                "ro": "Petreceți aici cele mai răcoroase ore ale zilei.",
+                "en": "Spend the coolest hours of the day here."
+              }
+            },
+            {
+              "name": "Museum of the Olive",
+              "tip_5lang": {
+                "de": "Ein warmer Zwischenstopp vor dem Abend.",
+                "hu": "Egy meleg köztes megálló az este előtt.",
+                "ro": "O oprire caldă înainte de seară.",
+                "en": "A warm stopover before the evening."
+              }
+            },
+            {
+              "name": "Tomb of Leonidas",
+              "tip_5lang": {
+                "de": "Achten Sie auf den letzten Bus zurück ins Zentrum.",
+                "hu": "Figyeljen az utolsó buszra vissza a központba.",
+                "ro": "Atenție la ultimul autobuz spre centru.",
+                "en": "Watch out for the last bus back to the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die beheizten Busse für den Transfer.",
+              "Die Fahrpläne können im Winter leicht abweichen.",
+              "Planen Sie Ihre Rückreise vor 17:30 Uhr ein.",
+              "Die Busstopps sind oft nah an den Haupteingängen der Museen.",
+              "Tragen Sie eine warme Jacke für das Warten an der Haltestelle."
+            ],
+            "hu": [
+              "Használja a fűtött buszokat a közlekedéshez.",
+              "A menetrendek télen némileg eltérhetnek.",
+              "Tervezze meg a visszautat 17:30 előtt.",
+              "A buszmegállók gyakran közel vannak a múzeumok főbejárataihoz.",
+              "Viseljen meleg kabátot a megállóban való várakozáshoz."
+            ],
+            "ro": [
+              "Folosiți autobuzele încălzite pentru transfer.",
+              "Orarele pot varia ușor în timpul iernii.",
+              "Planificați călătoria de întoarcere înainte de ora 17:30.",
+              "Stațiile de autobuz sunt adesea aproape de intrările muzeelor.",
+              "Purtați o jachetă groasă pentru așteptarea în stație."
+            ],
+            "en": [
+              "Use the heated buses for transfers.",
+              "Schedules may differ slightly in winter.",
+              "Plan your return trip before 5:30 PM.",
+              "Bus stops are often close to the main entrances of the museums.",
+              "Wear a warm jacket for waiting at the stop."
+            ]
+          }
+        }
       }
     }
   }

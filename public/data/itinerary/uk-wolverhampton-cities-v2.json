@@ -322,6 +322,196 @@
           "Check opening times for the art gallery and museums in advance.",
           "Many central streets are pedestrianised, making walking pleasant."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie an der St. Peter's Church, deren gotische Hallen Schutz vor dem Morgenregen bieten. Danach führt ein kurzer, nasser Sprint zur Art Gallery, wo Sie Stunden im Trockenen verbringen können.\n\nMittags bietet das Grand Theatre ein elegantes Refugium. Der Weg zum Molineux Stadium ist exponiert, nutzen Sie Passagen.\n\nDer Nachmittag im West Park erfordert einen Regenschirm, da die Wege unter den Bäumen zwar hübsch, aber feucht sind. Der Tag endet im Stadtzentrum.",
+            "hu": "A Szent Péter templom gótikus belső tere tökéletes menedék a reggeli zápor elől. Innen rövid séta az Art Gallery, ahol a kiállítások között észrevétlenül telik el a csapadékos idő.\n\nDélben a Grand Theatre előcsarnoka kínál fedett pihenőt. A Molineux stadion felé vezető út szeles lehet, érdemes vízhatlan kabátot viselni.\n\nA délutáni West Park a tó mentén borongós, de a pavilonok védelmet nyújtanak. Az este a központi lámpák fényében zárul.",
+            "ro": "Începeți la biserica St. Peter, unde interiorul oferă adăpost împotriva ploii de dimineață. O scurtă plimbare vă duce la Art Gallery, locul ideal pentru a rămâne uscat printre colecții.\n\nLa prânz, Grand Theatre este o escală culturală ferită de intemperii. Drumul spre stadionul Molineux este deschis, deci folosiți o umbrelă.\n\nDupă-amiaza în West Park este revigorantă dacă aveți haine impermeabile. Traseul se încheie în zona centrală, sub luminile orașului.",
+            "en": "Start at St Peter’s Church, where the stone interior provides shelter from morning showers. A quick walk leads to the Art Gallery, a perfect indoor escape for rainy hours.\n\nAt midday, the Grand Theatre offers a grand refuge. The route to Molineux Stadium is exposed to the elements, so keep your rain gear ready.\n\nAn afternoon in West Park is atmospheric despite the puddles, especially near the Victorian conservatory. The tour ends back in the city core."
+          },
+          "stops": [
+            {
+              "name": "St Peter's Collegiate Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als Regenschutz während der Orientierung.",
+                "hu": "Használja a templom bejáratát esővédőként, amíg tájékozódik.",
+                "ro": "Folosiți intrarea bisericii ca paravan împotriva ploii în timp ce vă orientați.",
+                "en": "Use the church porch as a dry spot to check your map before moving on."
+              }
+            },
+            {
+              "name": "Prince Albert Statue",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; der Platz ist bei Regen oft windig.",
+                "hu": "Gyors fotómegálló; a tér esőben gyakran szeles.",
+                "ro": "Oprire rapidă; piața este adesea vântoasă când plouă.",
+                "en": "Quick photo stop; the square can be quite windy during rain."
+              }
+            },
+            {
+              "name": "Wolverhampton Art Gallery",
+              "tip_5lang": {
+                "de": "Idealer Ort, um einen starken Schauer bei Kunst auszusitzen.",
+                "hu": "Ideális hely egy kiadós zápor átvészelésére a műalkotások között.",
+                "ro": "Locul ideal pentru a aștepta trecerea ploii admirând arta.",
+                "en": "Perfect place to wait out a heavy downpour while exploring the galleries."
+              }
+            },
+            {
+              "name": "Grand Theatre",
+              "tip_5lang": {
+                "de": "Das Foyer bietet eine trockene Pause vor dem Stadionbesuch.",
+                "hu": "A foyer száraz pihenőhelyet kínál a stadionlátogatás előtt.",
+                "ro": "Foaierul oferă o pauză uscată înainte de a merge spre stadion.",
+                "en": "The foyer provides a dry break before heading towards the stadium."
+              }
+            },
+            {
+              "name": "Molineux Stadium",
+              "tip_5lang": {
+                "de": "Der Fanshop ist eine gute überdachte Option bei Regen.",
+                "hu": "A szurkolói bolt jó fedett opció esős időben.",
+                "ro": "Magazinul pentru fani este o opțiune acoperită bună în caz de ploaie.",
+                "en": "The fan shop is a great indoor option if the rain intensifies."
+              }
+            },
+            {
+              "name": "West Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon a burkolt utakon, hogy elkerülje a sarat.",
+                "ro": "Rămâneți pe aleile pavate pentru a evita noroiul.",
+                "en": "Stick to the paved paths to avoid mud after the rainfall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie feste, wasserdichte Schuhe für die Pflastersteine im Zentrum.",
+              "Die Art Gallery hat ein hervorragendes Café für eine lange Regenpause.",
+              "Nutzen Sie die überdachten Passagen in der Nähe des Queen Square.",
+              "Ein Taschenschirm ist wegen plötzlicher Windböen unverzichtbar.",
+              "Die Busse im Zentrum sind gute Alternativen für nasse Teilstrecken."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a belvárosi macskaköves szakaszokon.",
+              "Az Art Gallery kávézója kiváló egy hosszabb esőszünetre.",
+              "Használja a Queen Square környéki fedett átjárókat.",
+              "Az összecsukható esernyő a hirtelen széllökések miatt kötelező.",
+              "A központi buszok jó alternatívák a rövidebb, ázós szakaszok kiváltására."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru zonele pavate din centru.",
+              "Cafeneaua de la Art Gallery este excelentă pentru o pauză lungă de ploaie.",
+              "Folosiți pasajele acoperite din apropierea Queen Square.",
+              "O umbrelă compactă este esențială din cauza rafalelor bruște de vânt.",
+              "Autobuzele centrale sunt alternative bune pentru porțiunile scurte expuse ploii."
+            ],
+            "en": [
+              "Wear waterproof footwear for the cobbled sections in the city centre.",
+              "The Art Gallery cafe is excellent for a longer break from the rain.",
+              "Make use of the covered walkways around Queen Square.",
+              "A compact umbrella is essential due to sudden gusts of wind.",
+              "Central buses are good alternatives for short, wet stretches."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen an der St. Peter's Church zeigt die Architektur im klaren Winterlicht. Der Weg zur Statue ist kurz, aber kalt, also halten Sie sich in Bewegung.\n\nMittags bietet die Art Gallery angenehme Wärme und kulturelle Tiefe. Das Grand Theatre glänzt in der frühen Dämmerung besonders festlich.\n\nNachmittags erreicht das Licht im West Park gegen 15:30 Uhr seinen goldenen Tiefpunkt, bevor es dunkel wird. Der Molineux-Komplex wirkt im Flutlicht der Winterabende sehr imposant.",
+            "hu": "A Szent Péter templom fagyos reggeli fényben mutatja meg legszebb arcát. A szoborig tartó séta rövid, de hideg, érdemes rétegesen öltözni.\n\nDélben az Art Gallery fűtött termei nyújtanak menedéket a csípős szél elől. A Grand Theatre homlokzata a korai szürkületben válik igazán hangulatossá.\n\nDélután a West Parkban már 16 óra előtt megnyúlnak az árnyékok, a tó vize gyakran hártyásodik a jégtől. A napot a kivilágított Molineux stadion látványa zárja.",
+            "ro": "O dimineață geroasă la biserica St. Peter dezvăluie arhitectura în lumina clară de iarnă. Plimbarea până la statuie este scurtă, dar rece, deci mențineți ritmul.\n\nLa prânz, galeria de artă oferă căldură și profunzime culturală. Grand Theatre strălucește festiv în amurgul timpuriu.\n\nDupă-amiaza în West Park aduce umbre lungi încă de la ora 15:30, înainte de lăsarea întunericului. Complexul Molineux arată impunător sub reflectoarele serilor de iarnă.",
+            "en": "A frosty morning at St Peter’s Church reveals the architecture in crisp winter light. The walk to the statue is short but chilly, so stay brisk.\n\nMidday at the Art Gallery offers warmth and artistic depth. The Grand Theatre looks particularly festive as the early dusk begins to settle.\n\nBy afternoon, West Park’s shadows lengthen before 4 PM, creating a serene winter scene near the lake. The Molineux Stadium lights up the winter evening as you finish."
+          },
+          "stops": [
+            {
+              "name": "St Peter's Collegiate Church",
+              "tip_5lang": {
+                "de": "Im Inneren kann es kühl sein; behalten Sie Ihren Mantel an.",
+                "hu": "Bent hűvös lehet, érdemes a kabátot magán hagynia.",
+                "ro": "Poate fi răcoare în interior; păstrați haina pe dvs.",
+                "en": "It can be chilly inside the stone walls; keep your coat on."
+              }
+            },
+            {
+              "name": "Prince Albert Statue",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos, solange das klare Winterlicht anhält.",
+                "hu": "Gyors fotómegálló, amíg tart a tiszta téli fény.",
+                "ro": "Oprire scurtă pentru poze cât timp lumina de iarnă este clară.",
+                "en": "Brief stop for photos while the crisp winter light lasts."
+              }
+            },
+            {
+              "name": "Wolverhampton Art Gallery",
+              "tip_5lang": {
+                "de": "Genießen Sie die Heizung und die viktorianischen Sammlungen.",
+                "hu": "Élvezze a fűtést és a viktoriánus gyűjteményeket.",
+                "ro": "Bucurați-vă de încălzire și de colecțiile victoriene.",
+                "en": "Enjoy the heating and the extensive Victorian collections."
+              }
+            },
+            {
+              "name": "Grand Theatre",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Foyer für heiße Getränke am Nachmittag.",
+                "hu": "Igyon egy forró italt a foyer-ben a délutáni hideg előtt.",
+                "ro": "Vizitați foaierul pentru băuturi calde după-amiaza.",
+                "en": "Visit the foyer for a hot drink in the mid-afternoon chill."
+              }
+            },
+            {
+              "name": "Molineux Stadium",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung des Stadions ist im Winter sehr hell.",
+                "hu": "A stadion esti kivilágítása télen különösen erős fényű.",
+                "ro": "Iluminatul de seară al stadionului este foarte intens iarna.",
+                "en": "The stadium's evening lights are very bright against the winter sky."
+              }
+            },
+            {
+              "name": "West Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen an den Seenrändern.",
+                "hu": "Ügyeljen a jeges foltokra a tóparti sétányokon.",
+                "ro": "Atenție la porțiunile înghețate de pe marginea lacului.",
+                "en": "Watch out for icy patches near the edges of the lake."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Tragen Sie Handschuhe, da der Wind im offenen Park beißen kann.",
+              "Viele Cafés im Zentrum schließen im Winter etwas früher.",
+              "Der West Park ist bei Frost besonders malerisch für Fotografen.",
+              "Nutzen Sie die beheizten Busse für den Rückweg zum Bahnhof."
+            ],
+            "hu": [
+              "A nap decemberben már délután 4 körül lemegy.",
+              "Viseljen kesztyűt, mert a nyitott parkban metsző lehet a szél.",
+              "Sok belvárosi kávézó télen korábban zárhat.",
+              "A West Park zúzmarás időben különösen látványos fotótéma.",
+              "Használja a fűtött buszokat a vasútállomásra való visszatéréshez."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:00 în timpul lunii decembrie.",
+              "Purtați mănuși, deoarece vântul poate fi tăios în parcul deschis.",
+              "Multe cafenele din centru se închid mai devreme iarna.",
+              "West Park este deosebit de pitoresc pentru fotografi când e ger.",
+              "Folosiți autobuzele încălzite pentru drumul de întoarcere la gară."
+            ],
+            "en": [
+              "Sunset occurs as early as 4 PM during the peak of winter.",
+              "Wear gloves, as the wind in the open park can be biting.",
+              "Many city centre cafes might close slightly earlier in winter.",
+              "West Park is exceptionally picturesque for photos during frost.",
+              "Take advantage of heated buses for the journey back to the station."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -638,6 +828,196 @@
           "Lock your bike securely at major attractions.",
           "Some roads can be hilly, so be prepared for some inclines."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt am Wightwick Manor, wo die Gärten im Regen glänzen. Die Radwege nach Bantock House sind asphaltiert, aber Vorsicht vor Pfützen.\n\nMittags bietet der West Park eine grüne, wenn auch nasse Durchquerung. Am Molineux Stadium können die glatten Oberflächen rutschig sein.\n\nDer Nachmittag endet an der Art Gallery im Stadtzentrum. Sichern Sie Ihr Rad an den überdachten Ständern und genießen Sie die Ausstellungen im Trockenen.",
+            "hu": "A túra a Wightwick Manornál indul, ahol a kertek esőben is szépek. A Bantock House felé vezető utak aszfaltozottak, de ügyeljen a tócsákra.\n\nDélben a West Park vizes, de zöld átvágást kínál. A Molineux stadionnál a burkolt felületek csúszóssá válhatnak.\n\nA délután az Art Gallery-nél zárul a belvárosban. Zárja le a biciklit a fedett tárolóknál, és élvezze a kiállításokat szárazon.",
+            "ro": "Traseul începe la Wightwick Manor, unde grădinile strălucesc sub ploaie. Pistele spre Bantock House sunt asfaltate, dar atenție la bălți.\n\nLa prânz, West Park oferă o traversare verde, deși umedă. Lângă stadionul Molineux, suprafețele pavate pot deveni alunecoase.\n\nDupă-amiaza se încheie la Art Gallery în centru. Securizați bicicleta la rastelele acoperite și bucurați-vă de expoziții la adăpost.",
+            "en": "The ride starts at Wightwick Manor, where the gardens glisten in the rain. Paths to Bantock House are paved, but watch out for deep puddles.\n\nAt midday, West Park offers a scenic if damp crossing. Near Molineux Stadium, the tiled surfaces can be surprisingly slick.\n\nThe afternoon finishes at the Art Gallery in the city centre. Lock your bike at the covered racks and enjoy the galleries while drying off."
+          },
+          "stops": [
+            {
+              "name": "Wightwick Manor and Gardens",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Bäumen am Eingang ab.",
+                "hu": "Hagyja a biciklit a bejárat közeli fák alatt védetten.",
+                "ro": "Lăsați bicicleta sub copacii de lângă intrare.",
+                "en": "Park your bike under the trees near the entrance for shelter."
+              }
+            },
+            {
+              "name": "Bantock House Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museumscafé, um Ihre Ausrüstung zu trocknen.",
+                "hu": "Használja a múzeum kávézóját a felszerelése megszárítására.",
+                "ro": "Folosiți cafeneaua muzeului pentru a vă usca echipamentul.",
+                "en": "Use the museum cafe to dry your gear before the next leg."
+              }
+            },
+            {
+              "name": "West Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Gras; die Hauptwege sind sicherer bei Nässe.",
+                "hu": "Kerülje a füvet; a főutak biztonságosabbak nedves időben.",
+                "ro": "Evitați iarba; aleile principale sunt mai sigure pe ploaie.",
+                "en": "Avoid riding on the grass; the main paths are safer in the wet."
+              }
+            },
+            {
+              "name": "Molineux Stadium",
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig auf den glatten Ziegeln vor dem Stadion.",
+                "hu": "Fékezzen időben a stadion előtti csúszós téglafelületen.",
+                "ro": "Frânați din timp pe cărămizile alunecoase din fața stadionului.",
+                "en": "Brake early on the slick brick surfaces in front of the stadium."
+              }
+            },
+            {
+              "name": "St Peter's Collegiate Church",
+              "tip_5lang": {
+                "de": "Der Kirchplatz bietet wenig Schutz; binden Sie Ihr Rad schnell an.",
+                "hu": "A templomtér kevés védelmet nyújt; gyorsan láncolja le a gépet.",
+                "ro": "Piața bisericii oferă puțin adăpost; legați bicicleta rapid.",
+                "en": "The church square is exposed; lock your bike quickly."
+              }
+            },
+            {
+              "name": "Wolverhampton Art Gallery",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich direkt am Eingang.",
+                "hu": "Fedett kerékpártárolók találhatók közvetlenül a bejáratnál.",
+                "ro": "Rastele acoperite pentru biciclete se află chiar la intrare.",
+                "en": "Covered bike racks are located right by the main entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Regen in Wolverhampton unerlässlich.",
+              "Vermeiden Sie Straßenbahnschienen im Zentrum bei Nässe.",
+              "Wasserdichte Packtaschen schützen Ihre Wertsachen optimal.",
+              "Die Sicht ist bei Regen oft eingeschränkt; Licht einschalten.",
+              "Die Route führt durch flache Gebiete, was das Fahren erleichtert."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen az esős wolverhamptoni utakon.",
+              "Nedves időben kerülje a villamossíneket a belvárosban.",
+              "A vízálló táskák optimálisan védik értékeit.",
+              "Esőben a látótávolság csökken; kapcsolja be a lámpákat.",
+              "Az útvonal sík terepen halad, ami könnyíti a tekerést."
+            ],
+            "ro": [
+              "Aripile pentru noroi sunt esențiale pe ploaie în Wolverhampton.",
+              "Evitați liniile de tramvai din centru când carosabilul este umed.",
+              "Genzile impermeabile vă protejează optim obiectele de valoare.",
+              "Vizibilitatea este redusă pe ploaie; aprindeți luminile.",
+              "Traseul trece prin zone plate, ceea ce facilitează pedalarea."
+            ],
+            "en": [
+              "Mudguards are essential for rainy rides in Wolverhampton.",
+              "Avoid tram tracks in the city centre when the ground is wet.",
+              "Waterproof panniers will keep your belongings dry.",
+              "Visibility is reduced in rain; keep your lights on at all times.",
+              "The route is mostly flat, making it easier to navigate in wet gear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Wightwick Manor erfordert warme Kleidung für die Fahrt nach Bantock House. Die Luft ist klar, aber die Radwege können glatt sein.\n\nMittags ist die Fahrt durch den West Park erfrischend. Nutzen Sie die kurzen Wege zwischen den kulturellen Highlights im Zentrum.\n\nNachmittags sinken die Temperaturen schnell. Die Art Gallery bietet am Ende der Tour eine willkommene Aufwärmmöglichkeit, bevor es dunkel wird.",
+            "hu": "A Wightwick Manornál induló fagyos reggel meleg ruházatot kíván a Bantock House-ig tartó útra. A levegő tiszta, de az utak síkosak lehetnek.\n\nDélben a West Parkon átgurulni frissítő élmény. Használja ki a központi kulturális pontok közötti rövid távolságokat.\n\nDélután a hőmérséklet gyorsan esik. Az Art Gallery a túra végén kiváló melegedőhely, mielőtt teljesen besötétedik.",
+            "ro": "Un început geros la Wightwick Manor necesită haine groase pentru drumul spre Bantock House. Aerul este clar, dar pistele pot fi alunecoase.\n\nLa prânz, plimbarea prin West Park este revigorantă. Profitați de distanțele scurte între punctele culturale din centru.\n\nDupă-amiaza temperaturile scad rapid. Art Gallery oferă o oportunitate de încălzire la finalul turului, înainte de lăsarea serii.",
+            "en": "A frosty start at Wightwick Manor means layering up for the ride to Bantock House. The air is crisp, but bike paths can have icy patches.\n\nAt midday, cycling through West Park is refreshing. Take advantage of the short distances between central cultural highlights.\n\nBy afternoon, temperatures drop quickly. The Art Gallery provides a warm finish to your ride just as the winter dusk arrives."
+          },
+          "stops": [
+            {
+              "name": "Wightwick Manor and Gardens",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenes Laub auf den Zufahrtswegen.",
+                "hu": "Ügyeljen a fagyott levelelekre a bevezető utakon.",
+                "ro": "Atenție la frunzele înghețate de pe drumurile de acces.",
+                "en": "Watch out for frozen leaves on the manor access paths."
+              }
+            },
+            {
+              "name": "Bantock House Museum",
+              "tip_5lang": {
+                "de": "Ein heißer Tee im Café hilft gegen die Kälte während der Fahrt.",
+                "hu": "Egy forró tea a kávézóban segít a menet közbeni lehűlés ellen.",
+                "ro": "Un ceai fierbinte la cafenea ajută împotriva frigului de pe drum.",
+                "en": "A hot tea in the cafe will help counter the wind chill."
+              }
+            },
+            {
+              "name": "West Park",
+              "tip_5lang": {
+                "de": "Die Wege im Schatten der Bäume frieren zuerst ein.",
+                "hu": "A fák árnyékában lévő utak fagynak le először.",
+                "ro": "Aleile de la umbra copacilor îngheață primele.",
+                "en": "Paths in the shade of the trees are the first to freeze."
+              }
+            },
+            {
+              "name": "Molineux Stadium",
+              "tip_5lang": {
+                "de": "Kurzer Halt; bleiben Sie für die Durchblutung in Bewegung.",
+                "hu": "Rövid megálló; maradjon mozgásban a vérkeringés fenntartásához.",
+                "ro": "Oprire scurtă; rămâneți în mișcare pentru circulația sângelui.",
+                "en": "Short stop; keep moving to maintain your circulation."
+              }
+            },
+            {
+              "name": "St Peter's Collegiate Church",
+              "tip_5lang": {
+                "de": "Der Kirchhügel kann bei Reif sehr rutschig sein.",
+                "hu": "A templomdomb zúzmarás időben nagyon csúszós lehet.",
+                "ro": "Dealul bisericii poate fi foarte alunecos pe timp de chiciură.",
+                "en": "The church hill can be quite slippery during a hard frost."
+              }
+            },
+            {
+              "name": "Wolverhampton Art Gallery",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich nach dem Sichern Ihres Rades drinnen auf.",
+                "hu": "Melegedjen fel bent, miután lezárta a biciklit.",
+                "ro": "Încălziți-vă în interior după ce ați încuiat bicicleta.",
+                "en": "Head inside to warm up once you have secured your bike."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Handschuhe und winddichte Kleidung.",
+              "Prüfen Sie Ihren Reifendruck für besseren Halt auf kaltem Asphalt.",
+              "Die Akkus von E-Bikes entladen sich bei Kälte schneller.",
+              "Schalten Sie Ihr Licht ab 15:30 Uhr ein, um sichtbar zu bleiben.",
+              "Kürzen Sie die Strecke ab, wenn die Temperaturen unter Null fallen."
+            ],
+            "hu": [
+              "Viseljen termokesztyűt és szélálló ruházatot.",
+              "Ellenőrizze a guminyomást a jobb tapadásért a hideg aszfalton.",
+              "Az e-bike akkumulátorok hidegben gyorsabban merülnek.",
+              "15:30-tól kapcsolja be a lámpákat a láthatóság érdekében.",
+              "Rövidítse le az útvonalat, ha a hőmérséklet fagypont alá esik."
+            ],
+            "ro": [
+              "Purtați mănuși termice și îmbrăcăminte rezistentă la vânt.",
+              "Verificați presiunea în pneuri pentru aderență pe asfalt rece.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Aprindeți luminile începând cu ora 15:30 pentru vizibilitate.",
+              "Scurtați traseul dacă temperaturile scad mult sub zero grade."
+            ],
+            "en": [
+              "Wear thermal gloves and windproof outer layers.",
+              "Check your tyre pressure for better grip on cold tarmac.",
+              "E-bike batteries drain significantly faster in cold weather.",
+              "Turn on your lights by 3:30 PM to stay visible to drivers.",
+              "Consider shortening the route if temperatures drop below freezing."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -954,6 +1334,196 @@
           "Be aware of city centre parking charges, which can be variable.",
           "Plan your route in advance to avoid one-way systems."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Wightwick Manor, wo das Auto eine trockene Basis bietet. Die Fahrt zum Bantock House ist kurz und schützt vor dem stärksten Regen.\n\nMittags parken Sie im zentralen City Centre Car Park, von wo aus die Art Gallery nur einen kurzen Sprint entfernt ist.\n\nNachmittags geht es weiter zur St. Peter's Church und zum Grand Theatre. Das Auto ermöglicht es Ihnen, den West Park bei Bedarf auszulassen, falls der Regen zu stark wird.",
+            "hu": "Kezdje a Wightwick Manornál, ahol az autó száraz bázist kínál. A Bantock House-ig tartó út rövid, így megússza a legnagyobb felhőszakadást is.\n\nDélben parkoljon le a City Centre Car Parkban, ahonnan az Art Gallery csak egy rövid futásra van.\n\nDélután folytassa a Szent Péter templommal és a Grand Theatre-rel. Az autó lehetővé teszi, hogy kihagyja a West Parkot, ha túl intenzívvé válna az eső.",
+            "ro": "Începeți la Wightwick Manor, unde mașina vă oferă o bază uscată. Drumul spre Bantock House este scurt și vă ferește de ploaia torențială.\n\nLa prânz, parcați la City Centre Car Park, de unde galeria de artă este la doar câțiva pași.\n\nDupă-amiaza vizitați biserica St. Peter și Grand Theatre. Mașina vă permite să adaptați vizita la West Park în funcție de intensitatea ploii.",
+            "en": "Start at Wightwick Manor, with your car serving as a dry base. The drive to Bantock House is short, keeping you away from the heaviest rain.\n\nAt midday, park at the City Centre Car Park, just a quick dash from the Art Gallery.\n\nIn the afternoon, continue to St Peter’s Church and the Grand Theatre. Having a car allows you to skip West Park if the downpour becomes too intense."
+          },
+          "stops": [
+            {
+              "name": "Wightwick Manor and Gardens",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Besucherzentrum für einen trockenen Zugang.",
+                "hu": "Parkoljon közel a látogatóközponthoz a száraz bejutásért.",
+                "ro": "Parcați aproape de centrul de vizitare pentru acces uscat.",
+                "en": "Park close to the visitor centre for a dry entry into the manor."
+              }
+            },
+            {
+              "name": "Bantock House Museum",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist befestigt; kein Schlammrisiko beim Aussteigen.",
+                "hu": "A parkoló burkolt; nincs sárveszély kiszálláskor.",
+                "ro": "Parcarea este pavată; nu există risc de noroi la coborâre.",
+                "en": "The car park is paved; no risk of mud when getting out."
+              }
+            },
+            {
+              "name": "City Centre Car Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Ebenen, um trocken ins Zentrum zu kommen.",
+                "hu": "Használja a fedett szinteket, hogy szárazon jusson a központba.",
+                "ro": "Folosiți etajele acoperite pentru a ajunge uscat în centru.",
+                "en": "Use the covered levels to stay dry while heading into the centre."
+              }
+            },
+            {
+              "name": "Wolverhampton Art Gallery",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg vom Parkhaus entfernt.",
+                "hu": "Mindössze 2 perc séta a parkolóháztól.",
+                "ro": "La doar 2 minute de mers pe jos de parcarea etajată.",
+                "en": "Only a 2-minute walk from the multi-storey car park."
+              }
+            },
+            {
+              "name": "St Peter's Collegiate Church",
+              "tip_5lang": {
+                "de": "Lassen Sie Passagiere am Queen Square für einen kurzen Weg aus.",
+                "hu": "Tegye ki az utasokat a Queen Square-nél a rövid séta érdekében.",
+                "ro": "Lăsați pasagerii la Queen Square pentru un drum scurt pe jos.",
+                "en": "Drop passengers at Queen Square for the shortest walk to the church."
+              }
+            },
+            {
+              "name": "Grand Theatre",
+              "tip_5lang": {
+                "de": "Kurzparkzonen direkt davor sind bei Regen oft belegt.",
+                "hu": "A közvetlen előtte lévő rövidtávú parkolók esőben gyakran telítettek.",
+                "ro": "Locurile de parcare pe termen scurt din față sunt adesea ocupate când plouă.",
+                "en": "Short-stay bays directly in front are often full during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Das Parkhaus 'Civic Centre' ist eine gute Alternative im Zentrum.",
+              "Vermeiden Sie tiefere Wasseransammlungen in Außenbezirken.",
+              "Nutzen Sie Park-Apps, um das Bezahlen im Regen zu vermeiden.",
+              "Die Ringstraße kann bei starkem Regen stauanfällig sein."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "A 'Civic Centre' parkolóház jó alternatíva a belvárosban.",
+              "Kerülje a mélyebb tócsákat a külsőbb kerületekben.",
+              "Használjon parkolóalkalmazást, hogy ne kelljen az esőben fizetnie.",
+              "A körgyűrű erős esőben hajlamos a torlódásra."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de plecare.",
+              "Parcarea etajată 'Civic Centre' este o alternativă bună în centru.",
+              "Evitați acumulările mari de apă în zonele periferice.",
+              "Folosiți aplicații de parcare pentru a evita plata în ploaie.",
+              "Centura orașului poate fi aglomerată în timpul ploilor torențiale."
+            ],
+            "en": [
+              "Check your windshield wipers before you set off.",
+              "The 'Civic Centre' car park is a reliable alternative in the centre.",
+              "Watch out for deep standing water in outlying areas.",
+              "Use parking apps to avoid standing at machines in the rain.",
+              "The Ring Road can get congested during heavy downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Wightwick Manor. Dank der Autoheizung ist die Fahrt zum Bantock House angenehm warm.\n\nMittags parken Sie zentral, um die Art Gallery zu besuchen. Das Auto dient als warmer Rückzugsort zwischen den Zielen im Zentrum.\n\nNachmittags endet die Tour am Grand Theatre. Achten Sie auf die Lichtverhältnisse, da es im Winter schon früh dunkel wird und die Straßen glatt sein können.",
+            "hu": "Fagyos reggel indul a Wightwick Manornál. Az autó fűtésének köszönhetően a Bantock House-ig tartó út kellemesen meleg.\n\nDélben parkoljon a központban az Art Gallery látogatásához. Az autó meleg menedékként szolgál a belvárosi pontok között.\n\nDélután a Grand Theatre-nél zárul a túra. Ügyeljen a fényviszonyokra, mert télen korán sötétedik, és az utak csúszósak lehetnek.",
+            "ro": "O dimineață geroasă începe la Wightwick Manor. Datorită căldurii din mașină, drumul spre Bantock House este plăcut.\n\nLa prânz, parcați central pentru a vizita galeria de artă. Mașina servește ca refugiu cald între obiectivele din centru.\n\nDupă-amiaza turul se încheie la Grand Theatre. Atenție la vizibilitate, deoarece iarna se întunecă devreme și drumurile pot fi alunecoase.",
+            "en": "A frosty morning starts at Wightwick Manor. Thanks to the car’s heater, the drive to Bantock House is comfortably warm.\n\nAt midday, park centrally to visit the Art Gallery. Your car acts as a warm retreat between the various central locations.\n\nIn the afternoon, the tour ends at the Grand Theatre. Be mindful of the light, as winter brings early darkness and potentially slick roads."
+          },
+          "stops": [
+            {
+              "name": "Wightwick Manor and Gardens",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz laufen, um die Scheiben zu enteisen.",
+                "hu": "Járassa kicsit a motort a szélvédő jégtelenítéséhez.",
+                "ro": "Lăsați motorul să meargă puțin pentru a dezgheța parbrizul.",
+                "en": "Run the engine for a few minutes to defrost the windshield."
+              }
+            },
+            {
+              "name": "Bantock House Museum",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann im Schatten der Bäume glatt sein.",
+                "hu": "A parkoló a fák árnyékában jeges lehet.",
+                "ro": "Parcarea poate fi alunecoasă la umbra copacilor.",
+                "en": "The car park surface can be icy in the shade of the trees."
+              }
+            },
+            {
+              "name": "City Centre Car Park",
+              "tip_5lang": {
+                "de": "Ein beheiztes Parkhaus schont die Autobatterie.",
+                "hu": "Egy védett parkolóház kíméli az autó akkumulátorát.",
+                "ro": "O parcare etajată protejează bateria mașinii.",
+                "en": "A multi-storey car park helps protect the car battery from cold."
+              }
+            },
+            {
+              "name": "Wolverhampton Art Gallery",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg, um die Kälte zu minimieren.",
+                "hu": "Használja a rövid sétát a hidegnek való kitettség csökkentésére.",
+                "ro": "Folosiți distanța scurtă pentru a minimiza expunerea la frig.",
+                "en": "Take advantage of the short walk to minimize time in the cold."
+              }
+            },
+            {
+              "name": "St Peter's Collegiate Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger auf den gepflasterten Flächen.",
+                "hu": "Ügyeljen a gyalogosokra a kövezett területeken.",
+                "ro": "Atenție la pietoni pe suprafețele pavate.",
+                "en": "Watch out for pedestrians on the paved areas near the church."
+              }
+            },
+            {
+              "name": "Grand Theatre",
+              "tip_5lang": {
+                "de": "Parken Sie für den Abendbesuch in gut beleuchteten Zonen.",
+                "hu": "Az esti látogatáshoz parkoljon jól kivilágított zónában.",
+                "ro": "Parcați în zone bine iluminate pentru vizita de seară.",
+                "en": "Park in well-lit areas for your late afternoon visit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Frostschutzmittel aufgefüllt ist.",
+              "Die Parkhäuser im Zentrum sind im Winter oft wärmer.",
+              "Fahren Sie auf der Ringstraße bei Glätte besonders vorsichtig.",
+              "Die Beleuchtung im Stadtzentrum ist im Winter sehr festlich.",
+              "Rechnen Sie mit mehr Verkehr bei schlechten Wetterbedingungen."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a fagyálló folyadék fel van töltve.",
+              "A belvárosi parkolóházak télen gyakran melegebbek.",
+              "A körgyűrűn jegesedéskor vezessen fokozott óvatossággal.",
+              "A belvárosi kivilágítás télen nagyon hangulatos.",
+              "Rossz időjárási körülmények között számítson nagyobb forgalomra."
+            ],
+            "ro": [
+              "Asigurați-vă că lichidul antigel este la nivelul optim.",
+              "Parcările etajate din centru sunt adesea mai calde iarna.",
+              "Conduceți cu prudență sporită pe centură în caz de polei.",
+              "Iluminatul din centrul orașului este foarte festiv iarna.",
+              "Anticipați un trafic mai intens în condiții meteo nefavorabile."
+            ],
+            "en": [
+              "Ensure your antifreeze levels are topped up before starting.",
+              "Multi-storey car parks in the centre are often warmer in winter.",
+              "Drive with extra caution on the Ring Road if ice is suspected.",
+              "The city centre lighting is very festive during winter evenings.",
+              "Expect heavier traffic during poor weather conditions."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1270,6 +1840,196 @@
           "Keep some change handy for bus fares, although most accept contactless payment.",
           "Plan your journeys in advance as bus frequencies can be reduced in the evenings and on Sundays."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie an der Busstation, die komplett überdacht ist. Von hier aus erreichen Sie die St. Peter's Church und die Art Gallery mit kurzen Fußwegen.\n\nMittags bietet der Bus zum West Park eine trockene Fahrt. Die Wartezeiten sind dank der digitalen Anzeigen gut planbar.\n\nNachmittags geht es weiter zum Bantock House. Die Busse sind sauber und bieten Schutz vor dem anhaltenden Regen, bis Sie am Molineux Stadium ankommen.",
+            "hu": "Kezdje a teljesen fedett buszállomáson. Innen a Szent Péter templom és az Art Gallery rövid sétával elérhető.\n\nDélben a West Parkhoz tartó busz száraz utazást biztosít. A digitális kijelzőkkel jól tervezhetők a várakozási idők.\n\nDélután folytassa a Bantock House felé. A buszok tiszták és védelmet nyújtanak az eső ellen, amíg el nem éri a Molineux stadiont.",
+            "ro": "Începeți la autogară, care este complet acoperită. De aici, biserica St. Peter și Art Gallery sunt la o scurtă plimbare.\n\nLa prânz, autobuzul spre West Park vă asigură un drum uscat. Timpii de așteptare sunt ușor de planificat datorită panourilor digitale.\n\nDupă-amiaza continuați spre Bantock House. Autobuzele sunt curate și oferă protecție împotriva ploii până la stadionul Molineux.",
+            "en": "Start at the fully covered Bus Station. From here, St Peter’s Church and the Art Gallery are just a short, sheltered walk away.\n\nAt midday, the bus to West Park provides a dry journey. Waiting times are easy to plan with the digital displays.\n\nIn the afternoon, continue to Bantock House. The buses are clean and offer protection from the persistent rain until you reach Molineux Stadium."
+          },
+          "stops": [
+            {
+              "name": "Wolverhampton Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der zentralen Halle, bis Ihr Bus angezeigt wird.",
+                "hu": "Várjon a központi csarnokban, amíg meg nem jelenik a busza.",
+                "ro": "Așteptați în holul central până când este afișat autobuzul dvs.",
+                "en": "Wait in the main concourse until your bus is ready to board."
+              }
+            },
+            {
+              "name": "St Peter's Collegiate Church",
+              "tip_5lang": {
+                "de": "Die Haltestellen am Queen Square haben gute Unterstände.",
+                "hu": "A Queen Square megállóiban jók az esőbeállók.",
+                "ro": "Stațiile de la Queen Square au adăposturi bune.",
+                "en": "The bus stops at Queen Square have excellent shelters."
+              }
+            },
+            {
+              "name": "Wolverhampton Art Gallery",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Busse auf der Lichfield Street für den Rückweg.",
+                "hu": "Használja a Lichfield Street buszait a visszatéréshez.",
+                "ro": "Folosiți autobuzele de pe Lichfield Street pentru întoarcere.",
+                "en": "Use the bus stops on Lichfield Street for a quick return."
+              }
+            },
+            {
+              "name": "West Park",
+              "tip_5lang": {
+                "de": "Die Haltestelle direkt am Haupteingang minimiert den Fußweg.",
+                "hu": "A főbejáratnál lévő megálló minimálisra csökkenti a sétát.",
+                "ro": "Stația de la intrarea principală minimizează mersul pe jos.",
+                "en": "The stop right at the main entrance minimizes your walk in the rain."
+              }
+            },
+            {
+              "name": "Bantock House Museum",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Haltestelle ist kurz und asphaltiert.",
+                "hu": "A gyalogút a megállótól rövid és aszfaltozott.",
+                "ro": "Drumul de la stație este scurt și asfaltat.",
+                "en": "The walk from the bus stop is short and well-paved."
+              }
+            },
+            {
+              "name": "Molineux Stadium",
+              "tip_5lang": {
+                "de": "Zahlreiche Buslinien halten direkt am Stadionvorplatz.",
+                "hu": "Számos buszjárat megáll közvetlenül a stadion előtti téren.",
+                "ro": "Numeroase linii de autobuz opresc chiar în fața stadionului.",
+                "en": "Numerous bus lines stop directly in front of the stadium plaza."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Swift' Karte für kontaktloses Bezahlen.",
+              "Die Busstation ist ein idealer Ort für eine trockene Pause.",
+              "Digitale Anzeigen in den Bussen informieren über die nächsten Halte.",
+              "Regenschirme sollten vor dem Einsteigen ausgeschüttelt werden.",
+              "Die Frequenz der Busse im Zentrum ist auch bei Regen hoch."
+            ],
+            "hu": [
+              "Használja a 'Swift' kártyát az érintésmentes fizetéshez.",
+              "A buszállomás ideális hely egy száraz pihenőre.",
+              "A buszokon belüli digitális kijelzők jelzik a következő megállót.",
+              "Felszállás előtt rázza le az esernyőt.",
+              "A belvárosi buszok gyakorisága esőben is magas marad."
+            ],
+            "ro": [
+              "Folosiți cardul 'Swift' pentru plată contactless.",
+              "Autogara este un loc ideal pentru o pauză uscată.",
+              "Panourile digitale din autobuze indică stațiile următoare.",
+              "Scuturați umbrela înainte de a urca în vehicul.",
+              "Frecvența autobuzelor în centru rămâne ridicată și pe ploaie."
+            ],
+            "en": [
+              "Use the 'Swift' card for easy contactless payment.",
+              "The bus station is an ideal place for a sheltered break.",
+              "Digital displays inside the buses show the next stops.",
+              "Shake your umbrella before boarding the bus.",
+              "Bus frequency in the city centre remains high despite the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start an der Busstation führt Sie bequem zur St. Peter's Church. Die beheizten Busse machen den Weg zum Bantock House sehr angenehm.\n\nMittags ist die Art Gallery das Highlight. Der kurze Transit zwischen den Haltestellen hält die Zeit in der Kälte gering.\n\nNachmittags erreichen Sie den West Park und schließlich das Molineux Stadium. Genießen Sie die winterliche Stadtlandschaft aus dem warmen Fenster des Busses.",
+            "hu": "Fagyos kezdés a buszállomáson, ahonnan kényelmesen eljut a Szent Péter templomhoz. A fűtött buszok kellemessé teszik a Bantock House-ig tartó utat.\n\nDélben az Art Gallery a fő állomás. A megállók közötti rövid közlekedés minimálisra csökkenti a hidegben töltött időt.\n\nDélután eléri a West Parkot, majd a Molineux stadiont. Élvezze a téli városképet a busz meleg ablakából.",
+            "ro": "Un început geros la autogară vă duce confortabil la biserica St. Peter. Autobuzele încălzite fac drumul spre Bantock House foarte plăcut.\n\nLa prânz, galeria de artă este punctul principal. Tranzitul scurt între stații reduce timpul petrecut în frig.\n\nDupă-amiaza ajungeți la West Park și apoi la stadionul Molineux. Admirați peisajul urban de iarnă prin fereastra caldă a autobuzului.",
+            "en": "A frosty start at the bus station takes you comfortably to St Peter’s Church. Heated buses make the journey to Bantock House very pleasant.\n\nAt midday, the Art Gallery is your focus. Short transit times between stops keep your exposure to the cold to a minimum.\n\nIn the afternoon, reach West Park and finally Molineux Stadium. Enjoy the winter cityscape from the warmth of the bus window."
+          },
+          "stops": [
+            {
+              "name": "Wolverhampton Bus Station",
+              "tip_5lang": {
+                "de": "Die Station ist gut beheizt und bietet Cafés.",
+                "hu": "Az állomás jól fűtött és kávézókkal is rendelkezik.",
+                "ro": "Gara este bine încălzită și dispune de cafenele.",
+                "en": "The station is well-heated and features several cafes."
+              }
+            },
+            {
+              "name": "St Peter's Collegiate Church",
+              "tip_5lang": {
+                "de": "Busse zum Zentrum fahren alle paar Minuten.",
+                "hu": "A központba tartó buszok pár percenként indulnak.",
+                "ro": "Autobuzele spre centru pleacă la fiecare câteva minute.",
+                "en": "Buses heading back to the centre run every few minutes."
+              }
+            },
+            {
+              "name": "Wolverhampton Art Gallery",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind sehr nah an den Museumseingängen.",
+                "hu": "A megállók nagyon közel vannak a múzeumi bejáratokhoz.",
+                "ro": "Stațiile sunt foarte aproape de intrările muzeului.",
+                "en": "The stops are located very close to the museum entrances."
+              }
+            },
+            {
+              "name": "West Park",
+              "tip_5lang": {
+                "de": "Warten Sie im Unterstand, falls der Bus Verspätung hat.",
+                "hu": "Várjon a beállóban, ha a busz esetleg késne.",
+                "ro": "Așteptați în adăpost dacă autobuzul întârzie.",
+                "en": "Wait inside the shelter if there is any delay with the bus."
+              }
+            },
+            {
+              "name": "Bantock House Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan für die Rückfahrt vorab.",
+                "hu": "Előre ellenőrizze a visszautazáshoz a menetrendet.",
+                "ro": "Verificați în avans orarul pentru drumul de întoarcere.",
+                "en": "Check the return timetable in advance to avoid waiting in the cold."
+              }
+            },
+            {
+              "name": "Molineux Stadium",
+              "tip_5lang": {
+                "de": "Die beleuchtete Station am Stadion ist im Winter sicher.",
+                "hu": "A kivilágított stadionnál lévő megálló télen is biztonságos.",
+                "ro": "Stația iluminată de la stadion este sigură iarna.",
+                "en": "The well-lit stop by the stadium is safe for winter evenings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft die wärmste Art des Reisens.",
+              "Nutzen Sie die App 'National Express West Midlands' für Live-Daten.",
+              "Die Frequenz einiger Linien kann an Winterabenden sinken.",
+              "Achten Sie beim Einsteigen auf rutschige Stufen.",
+              "Die großen Fenster der Busse bieten tolle Ausblicke auf die Lichter."
+            ],
+            "hu": [
+              "A buszok télen gyakran a legmelegebb utazási módot jelentik.",
+              "Használja a 'National Express West Midlands' alkalmazást az élő adatokhoz.",
+              "Néhány járat gyakorisága téli estéken csökkenhet.",
+              "Felszálláskor ügyeljen a csúszós lépcsőkre.",
+              "A buszok nagy ablakai kiváló rálátást biztosítanak az esti fényekre."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea cel mai călduros mod de transport iarna.",
+              "Folosiți aplicația 'National Express West Midlands' pentru date live.",
+              "Frecvența unor linii poate scădea în serile de iarnă.",
+              "Atenție la treptele alunecoase când urcați în autobuz.",
+              "Ferestrele mari ale autobuzelor oferă vederi excelente la luminile orașului."
+            ],
+            "en": [
+              "Buses are often the warmest way to travel during winter.",
+              "Use the 'National Express West Midlands' app for live bus tracking.",
+              "Frequency on some routes may decrease during winter evenings.",
+              "Be careful of slippery steps when boarding the bus.",
+              "Large bus windows provide great views of the winter lights."
+            ]
+          }
+        }
       }
     }
   }

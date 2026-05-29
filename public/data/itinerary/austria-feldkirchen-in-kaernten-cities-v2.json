@@ -362,6 +362,196 @@
           "Check the museum's opening hours in advance.",
           "A stroll through the smaller alleys away from the main square is always worthwhile."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Hauptplatz, wo die Arkaden des Rathauses ersten Schutz bieten. Vormittags erkunden wir die Maria im Dorn Kirche, deren stilles Inneres ideal für Regentage ist. Mittags genießen wir die Kärntner Küche im Trockenen. Nachmittags bietet das Amthof-Museum stundenlange kulturelle Tiefe, während der Tiebelbach-Spaziergang mit festem Schuhwerk auch bei Nieselregen seinen Reiz hat.",
+            "hu": "A nap a Főtéren indul, ahol a városháza árkádjai alatt húzódhatunk meg az eső elől. Délelőtt a Maria im Dorn templom csendes belső tere nyújt menedéket. Ebéd után az Amthof Múzeum kiállításai között órákig böngészhetünk szárazon. Délután a Tiebelbach-patak menti séta frissítő élmény, ha megfelelő vízálló cipőben vágunk neki a parkosított ösvénynek.",
+            "ro": "Ziua începe în Piața Centrală, unde arcadele primăriei oferă primul adăpost. Dimineața explorăm interiorul bisericii Maria im Dorn, perfect pentru momente de liniște pe timp de ploaie. După prânz, Muzeul Amthof oferă ore de cultură la adăpost. După-amiaza, o plimbare de-a lungul pârâului Tiebelbach este revigorantă, cu condiția să purtați încălțăminte impermeabilă.",
+            "en": "The day starts at the Main Square, where town hall arcades provide early shelter. Morning is spent inside the serene Maria im Dorn church. After a dry lunch, the Amthof Museum offers extensive indoor cultural exploration. In the afternoon, the walk along Tiebelbach stream remains pleasant with proper rain gear, as the path is well-maintained and lush."
+          },
+          "stops": [
+            {
+              "name": "Feldkirchen Main Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge rund um den Platz als trockene Verbindungswegen.",
+                "hu": "Használja a tér körüli árkádokat száraz átjáróként az épületek között.",
+                "ro": "Folosiți arcadele din jurul pieței ca pasaje uscate între clădiri.",
+                "en": "Use the arcades around the square as dry passages between buildings."
+              }
+            },
+            {
+              "name": "Parish Church Maria im Dorn",
+              "tip_5lang": {
+                "de": "Bewundern Sie die romanischen Fresken in Ruhe, während draußen der Regen prasselt.",
+                "hu": "Csodálja meg a román kori freskókat nyugodtan, miközben odakint esik az eső.",
+                "ro": "Admirați frescele romanice în liniște în timp ce afară plouă.",
+                "en": "Admire the Romanesque frescoes in peace while the rain falls outside."
+              }
+            },
+            {
+              "name": "Amthof & Bamberger Amthof Museum",
+              "tip_5lang": {
+                "de": "Perfekter Rückzugsort; nehmen Sie sich Zeit für die archäologische Sammlung.",
+                "hu": "Tökéletes menedék; szánjon időt a régészeti gyűjtemény alapos megtekintésére.",
+                "ro": "Refugiu perfect; acordați-vă timp pentru colecția arheologică.",
+                "en": "Perfect retreat; take your time exploring the archaeological collection."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Gasthaus mit gemütlichen Innenräumen statt Gastgarten.",
+                "hu": "Válasszon belső termet a kerthelyiség helyett a hangulatos ebédhez.",
+                "ro": "Alegeți un han cu interioare primitoare în locul terasei.",
+                "en": "Choose an inn with cozy indoor seating instead of the terrace."
+              }
+            },
+            {
+              "name": "Parish Church of St. Ulrich",
+              "tip_5lang": {
+                "de": "Der kurze Anstieg zur Kirche ist auch bei Nässe gut begehbar.",
+                "hu": "A templomhoz vezető rövid emelkedő esőben is biztonságosan járható.",
+                "ro": "Urcarea scurtă spre biserică este ușor accesibilă chiar și pe ploaie.",
+                "en": "The short climb to the church is easily accessible even in wet weather."
+              }
+            },
+            {
+              "name": "Stroll along the Tiebelbach stream",
+              "tip_5lang": {
+                "de": "Regenschirm fest halten; der asphaltierte Weg verhindert Matschfüße.",
+                "hu": "Tartsa erősen az esernyőt; az aszfaltozott út megvéd a sártól.",
+                "ro": "Țineți bine umbrela; poteca asfaltată previne noroiul.",
+                "en": "Hold your umbrella tight; the paved path prevents muddy feet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Feldkirchens Innenstadt hat viele kleine Durchgänge, die Schutz bieten.",
+              "Die Museen im Amthof sind montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Regenschirme können oft in lokalen Geschäften am Hauptplatz geliehen werden.",
+              "Tragen Sie Schuhe mit gutem Profil für den Weg am Tiebelbach.",
+              "Café-Pausen in den Bäckereien am Platz sind ideal zum Aufwärmen."
+            ],
+            "hu": [
+              "Feldkirchen belvárosában sok kis átjáró segít szárazon maradni.",
+              "Az Amthof múzeumai hétfőnként zárva lehetnek, ellenőrizze a nyitvatartást.",
+              "A főtéri üzletekben gyakran vásárolható vagy kölcsönözhető esernyő.",
+              "A Tiebelbach mentén viseljen jó tapadású talpú cipőt.",
+              "A főtéri pékségek kávézói ideálisak egy-egy esőszünetre."
+            ],
+            "ro": [
+              "Centrul orașului Feldkirchen are multe pasaje mici care oferă protecție.",
+              "Muzeele din Amthof sunt adesea închise lunea; verificați programul.",
+              "Umbrelele pot fi adesea împrumutate sau cumpărate din magazinele locale.",
+              "Purtați pantofi cu talpă aderentă pentru poteca de lângă Tiebelbach.",
+              "Cafenelele din brutăriile din piață sunt ideale pentru a vă încălzi."
+            ],
+            "en": [
+              "Feldkirchen's city center has many small passages that provide cover.",
+              "Amthof museums are often closed on Mondays; verify the schedule.",
+              "Umbrellas can often be borrowed or bought at local shops on the square.",
+              "Wear shoes with good grip for the path along the Tiebelbach.",
+              "Café breaks in bakeries on the square are ideal for warming up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am Hauptplatz lädt zum kurzen Verweilen ein, bevor wir uns in der Maria im Dorn Kirche aufwärmen. Mittags stärken wir uns mit deftiger Kärntner Kost. Der Nachmittag gehört der Kultur im beheizten Amthof-Museum. Da die Sonne gegen 16 Uhr hinter den Kärntner Bergen verschwindet, nutzen wir das letzte Tageslicht für einen zügigen Spaziergang am Tiebelbach, wo Raureif die Bäume verzaubert.",
+            "hu": "A ropogós téli reggel a Főtéren indul, majd a Maria im Dorn templom belső melegében folytatódik. Ebédre nehezebb karintiai ételeket választunk. A délutánt a fűtött Amthof Múzeum kulturális kincsei között töltjük. Mivel a nap délután 4 körül eltűnik a hegyek mögött, az utolsó fényeket a Tiebelbach-patak menti sétára használjuk, ahol a zúzmara varázslatos látványt nyújt.",
+            "ro": "O dimineață senină de iarnă în Piața Centrală ne pregătește pentru vizita la biserica Maria im Dorn. La prânz, ne încălzim cu preparate consistente din Carintia. După-amiaza este dedicată culturii în Muzeul Amthof încălzit. Deoarece soarele apune în jurul orei 16:00, folosim ultima lumină pentru o plimbare rapidă lângă Tiebelbach, unde chiciura transformă peisajul.",
+            "en": "A crisp winter morning at the Main Square begins the day, followed by warmth inside the Maria im Dorn church. For lunch, hearty Carinthian specialties are a must. The afternoon is reserved for the heated Amthof Museum. As sunset occurs around 4 PM behind the mountains, we use the last daylight for a brisk walk along the Tiebelbach, enjoying the frost-covered scenery."
+          },
+          "stops": [
+            {
+              "name": "Feldkirchen Main Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem Kopfsteinpflaster am frühen Morgen.",
+                "hu": "Kora reggel vigyázzon a csúszós foltokra a macskaköves burkolaton.",
+                "ro": "Atenție la porțiunile alunecoase pe pavajul de piatră dimineața devreme.",
+                "en": "Watch out for slippery patches on the cobblestones early in the morning."
+              }
+            },
+            {
+              "name": "Parish Church Maria im Dorn",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort zur inneren Einkehr und zum Aufwärmen zwischen den Sights.",
+                "hu": "Csendes hely az elmélyüléshez és a felmelegedéshez a látnivalók között.",
+                "ro": "Un loc liniștit pentru reflecție și încălzire între vizite.",
+                "en": "A quiet place for reflection and warming up between sightseeing spots."
+              }
+            },
+            {
+              "name": "Amthof & Bamberger Amthof Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme der Ausstellungsräume im historischen Gemäuer.",
+                "hu": "Élvezze a kiállítótermek melegét a történelmi falak között.",
+                "ro": "Bucurați-vă de căldura sălilor de expoziție în clădirea istorică.",
+                "en": "Enjoy the warmth of the exhibition rooms within the historic walls."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Bestellen Sie eine heiße Kärntner Kasnudelsuppe zur Stärkung.",
+                "hu": "Rendeljen forró karintiai sajttöltelékes tészta-levest az erők gyűjtéséhez.",
+                "ro": "Comandați o supă fierbinte cu tăiței carintieni pentru energie.",
+                "en": "Order a hot Carinthian 'Kasnudel' soup to regain strength."
+              }
+            },
+            {
+              "name": "Parish Church of St. Ulrich",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche vor 15:30 Uhr, um das natürliche Licht zu nutzen.",
+                "hu": "Látogassa meg a templomot 15:30 előtt a természetes fények miatt.",
+                "ro": "Vizitați biserica înainte de 15:30 pentru a profita de lumina naturală.",
+                "en": "Visit the church before 3:30 PM to make use of the natural light."
+              }
+            },
+            {
+              "name": "Stroll along the Tiebelbach stream",
+              "tip_5lang": {
+                "de": "Wollmütze und Handschuhe sind am Wasser wegen der Kaltluft essenziell.",
+                "hu": "A vízparti hideg levegő miatt a sapka és kesztyű elengedhetetlen.",
+                "ro": "Căciula și mănușile sunt esențiale lângă apă din cauza aerului rece.",
+                "en": "A woolly hat and gloves are essential near the water due to cold air."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne verschwindet im Winter sehr früh hinter den Bergen.",
+              "Öffentliche Toiletten sind im Amthof und Rathaus gut beheizt.",
+              "Achten Sie auf Winterdienst-Schilder am Weg entlang des Baches.",
+              "Kirchen sind oft kälter als Museen; Zwiebelprinzip bei Kleidung hilft.",
+              "In der Vorweihnachtszeit gibt es oft kleine Stände am Hauptplatz."
+            ],
+            "hu": [
+              "Télen a nap nagyon korán eltűnik a környező hegyek mögött.",
+              "A nyilvános wc-k az Amthofban és a városházán jól fűtöttek.",
+              "Figyelje a téli útfenntartási jelzéseket a patak menti ösvényen.",
+              "A templomok hidegebbek, mint a múzeumok; réteges öltözködés javasolt.",
+              "Adventi időszakban gyakran találni kis árusokat a Főtéren."
+            ],
+            "ro": [
+              "Soarele dispare foarte devreme în spatele munților pe timp de iarnă.",
+              "Toaletele publice din Amthof și primărie sunt bine încălzite.",
+              "Atenție la semnele de întreținere de iarnă pe poteca de lângă pârâu.",
+              "Bisericile sunt adesea mai reci; îmbrăcămintea stratificată ajută.",
+              "În perioada Crăciunului, există adesea standuri mici în piață."
+            ],
+            "en": [
+              "The sun disappears behind the mountains very early in winter.",
+              "Public toilets in the Amthof and town hall are well heated.",
+              "Watch for winter maintenance signs on the path along the stream.",
+              "Churches are often colder than museums; layered clothing is advised.",
+              "During the Advent season, there are often small stalls on the square."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +932,214 @@
           "A helmet is strongly recommended.",
           "Pay attention to the cycle path signs to stay on the right route."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir am Hauptplatz; wasserdichte Packtaschen sind hier Gold wert. Vormittags besuchen wir das Amthof-Museum als trockenes Highlight. Die Fahrt zur Burg Dietrichstein erfordert Vorsicht bei nasser Fahrbahn. Zum Mittagessen am Maltschacher See suchen wir uns einen überdachten Platz. Der Rückweg führt uns zügig zurück ins Zentrum, wo ein heißer Tee die müden Glieder wärmt.",
+            "hu": "Az eső ellenére a Főtéren kezdünk; a vízálló táska itt aranyat ér. Délelőtt az Amthof Múzeumot látogatjuk meg száraz programként. A Dietrichstein-vár felé vezető út óvatosságot igényel a csúszós aszfalton. A Maltschacher See-nél fedett helyet keresünk az ebédhez. A visszaút gyors tempóban zajlik a központba, ahol egy forró tea vár minket.",
+            "ro": "În ciuda ploii, începem în Piața Centrală; gențile impermeabile sunt esențiale. Dimineața vizităm Muzeul Amthof ca punct de reper uscat. Drumul spre castelul Dietrichstein necesită prudență pe carosabilul ud. Pentru prânzul de la lacul Maltschacher, căutăm un loc acoperit. Drumul de întoarcere ne duce rapid în centru pentru un ceai fierbinte.",
+            "en": "Despite the rain, we start at the Main Square; waterproof panniers are invaluable. Morning is spent at the Amthof Museum for a dry cultural highlight. The ride to Dietrichstein Castle requires caution on wet roads. For lunch at Maltschacher See, we find a covered spot. The return trip is a brisk ride back to the center, followed by a warming hot tea."
+          },
+          "stops": [
+            {
+              "name": "Main Square & Bike Rental",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Bremsbeläge besonders gründlich bei Regenwetter.",
+                "hu": "Esős időben különösen alaposan ellenőrizze a fékbetéteket.",
+                "ro": "Verificați plăcuțele de frână cu atenție sporită pe timp de ploaie.",
+                "en": "Check the brake pads extra carefully in rainy weather."
+              }
+            },
+            {
+              "name": "Amthof & Bamberger Amthof Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Innenhof zum sicheren Abstellen der Räder.",
+                "hu": "Használja a fedett belső udvart a kerékpárok biztonságos tárolására.",
+                "ro": "Folosiți curtea interioară acoperită pentru a parca bicicletele.",
+                "en": "Use the covered inner courtyard to park your bikes safely."
+              }
+            },
+            {
+              "name": "Parish Church Maria im Dorn",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; achten Sie auf glattes Kopfsteinpflaster vor dem Portal.",
+                "hu": "Rövid megálló; vigyázzon a csúszós macskakőre a bejárat előtt.",
+                "ro": "Oprire scurtă; atenție la pavajul alunecos din fața portalului.",
+                "en": "Short stop; watch out for slippery cobblestones in front of the portal."
+              }
+            },
+            {
+              "name": "Ride to Dietrichstein Castle",
+              "tip_5lang": {
+                "de": "Vorsicht in den Kurven; nasses Laub kann die Strecke rutschig machen.",
+                "hu": "Vigyázzon a kanyarokban; a nedves levelek csúszóssá tehetik az utat.",
+                "ro": "Atenție în curbe; frunzele ude pot face drumul alunecos.",
+                "en": "Careful in the bends; wet leaves can make the track slippery."
+              }
+            },
+            {
+              "name": "Lunch at Maltschacher See",
+              "tip_5lang": {
+                "de": "Einige Restaurants haben Wintergärten mit Blick auf den See.",
+                "hu": "Néhány étterem rendelkezik tóra néző, zárt terasszal.",
+                "ro": "Unele restaurante au grădini de iarnă cu vedere la lac.",
+                "en": "Some restaurants have winter gardens with views of the lake."
+              }
+            },
+            {
+              "name": "Relaxation at Maltschacher See",
+              "tip_5lang": {
+                "de": "Überdachte Stege bieten Schutz für eine kurze Pause am Wasser.",
+                "hu": "A fedett stégek védelmet nyújtanak egy rövid vízparti pihenőhöz.",
+                "ro": "Pontoanele acoperite oferă protecție pentru o scurtă pauză la apă.",
+                "en": "Covered piers provide shelter for a short break by the water."
+              }
+            },
+            {
+              "name": "Return to the center & coffee",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihre Kleidung in der Nähe der Heizkörper im Café.",
+                "hu": "Szárítsa meg a ruháit a kávézó fűtőtestei közelében.",
+                "ro": "Uscați-vă hainele lângă caloriferele din cafenea.",
+                "en": "Dry your clothes near the radiators in the café."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei Kärntner Landregen unverzichtbar.",
+              "Vermeiden Sie Waldwege bei Starkregen wegen Sturzgefahr durch Wurzeln.",
+              "Beleuchtung am Fahrrad einschalten, da die Sicht stark eingeschränkt ist.",
+              "Wasserdichte Schuhüberzieher halten die Füße auch bei Pfützen trocken.",
+              "Die Tourist-Info bietet Karten mit asphaltierten Alternativrouten."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a karintiai esős utakon.",
+              "Heves esőzéskor kerülje az erdei utakat a csúszós gyökerek miatt.",
+              "Kapcsolja be a világítást, mert a látási viszonyok korlátozottak.",
+              "A vízálló cipővédő segít szárazon tartani a lábat a tócsák ellenére.",
+              "A Tourinform aszfaltozott alternatív útvonalakat tartalmazó térképet is ad."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe drumurile ude din Carintia.",
+              "Evitați potecile de pădure pe ploaie torențială din cauza rădăcinilor.",
+              "Aprindeți luminile, deoarece vizibilitatea este mult redusă.",
+              "Husele impermeabile pentru pantofi vă mențin picioarele uscate.",
+              "Biroul de turism oferă hărți cu rute alternative asfaltate."
+            ],
+            "en": [
+              "Mudguards are essential on Carinthian roads during rain.",
+              "Avoid forest paths during heavy rain due to slippery roots.",
+              "Turn on your lights as visibility is significantly reduced.",
+              "Waterproof shoe covers keep your feet dry even through puddles.",
+              "The tourist info office offers maps with paved alternative routes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen erfordert warme Schichten für die Fahrt ab dem Hauptplatz. Nach dem Kulturstopp im Amthof radeln wir durch die klare, kalte Luft Richtung Dietrichstein. Die Burgruine wirkt im Schnee besonders mystisch. Das Mittagessen am zugefrorenen Maltschacher See ist ein stilles Highlight. Wir beenden die Tour frühzeitig, bevor die Abendkälte einsetzt, und genießen einen heißen Punsch im Zentrum.",
+            "hu": "A téli reggel réteges öltözködést igényel a Főtérről indulva. Az Amthof múzeumi kitérője után a friss, hideg levegőn tekerünk Dietrichstein felé. A várrom a hóban különösen misztikus. A befagyott Maltschacher See melletti ebéd csendes élmény. A túrát korán fejezzük be, még az esti fagy beállta előtt, és egy forró punccsal zárjuk a napot.",
+            "ro": "Dimineața de iarnă necesită haine groase pentru plecarea din Piața Centrală. După oprirea la Amthof, pedalăm prin aerul rece spre Dietrichstein. Ruinele castelului par mistice în zăpadă. Prânzul lângă lacul Maltschacher înghețat este un moment de liniște. Încheiem turul devreme, înainte de gerul serii, cu un punci fierbinte în centru.",
+            "en": "The winter morning demands warm layers for the ride starting from the Main Square. After the cultural stop at Amthof, we cycle through the crisp air towards Dietrichstein. The castle ruins look especially mystical in the snow. Lunch by the frozen Maltschacher See is a quiet highlight. We finish the tour early before the evening chill sets in, enjoying a hot punch in the center."
+          },
+          "stops": [
+            {
+              "name": "Main Square & Bike Rental",
+              "tip_5lang": {
+                "de": "Achten Sie auf Winterreifen oder Spikes bei vereisten Straßen.",
+                "hu": "Jeges utakon figyeljen a téli gumikra vagy a tüskés kerekekre.",
+                "ro": "Atenție la anvelopele de iarnă sau crampoane pe drumuri înghețate.",
+                "en": "Watch for winter tires or spikes on icy roads."
+              }
+            },
+            {
+              "name": "Amthof & Bamberger Amthof Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit drinnen, um die Hände wieder aufzuwärmen.",
+                "hu": "Használja ki a bent töltött időt a kezei felmelegítésére.",
+                "ro": "Folosiți timpul petrecut în interior pentru a vă încălzi mâinile.",
+                "en": "Use the indoor time to warm up your hands again."
+              }
+            },
+            {
+              "name": "Parish Church Maria im Dorn",
+              "tip_5lang": {
+                "de": "Besichtigung im Sitzen bietet eine kurze Erholung für die Beine.",
+                "hu": "A padokban ülve rövid pihenőt tarthat a lábainak.",
+                "ro": "Vizita din bănci oferă o scurtă recuperare pentru picioare.",
+                "en": "Visiting while seated offers a short recovery for your legs."
+              }
+            },
+            {
+              "name": "Ride to Dietrichstein Castle",
+              "tip_5lang": {
+                "de": "Der Anstieg hält warm, aber oben ist es oft windig und kalt.",
+                "hu": "Az emelkedő melegen tart, de fent gyakran szeles és hideg az idő.",
+                "ro": "Urcarea vă ține cald, dar sus este adesea vânt și frig.",
+                "en": "The climb keeps you warm, but it's often windy and cold at the top."
+              }
+            },
+            {
+              "name": "Lunch at Maltschacher See",
+              "tip_5lang": {
+                "de": "Prüfen Sie, welche Gasthöfe am See im Winter geöffnet haben.",
+                "hu": "Ellenőrizze, mely tóparti fogadók vannak nyitva télen.",
+                "ro": "Verificați care hanuri de la lac sunt deschise iarna.",
+                "en": "Check which lakeside inns are open during the winter season."
+              }
+            },
+            {
+              "name": "Relaxation at Maltschacher See",
+              "tip_5lang": {
+                "de": "Betreten Sie die Eisfläche nur bei offizieller Freigabe.",
+                "hu": "Csak hivatalos engedély esetén lépjen a jégre.",
+                "ro": "Intrați pe gheață doar dacă este permis oficial.",
+                "en": "Only step onto the ice if it has been officially cleared."
+              }
+            },
+            {
+              "name": "Return to the center & coffee",
+              "tip_5lang": {
+                "de": "Ein heißer Kakao ist der ideale Abschluss für Winterradler.",
+                "hu": "Egy forró kakaó tökéletes lezárás a téli bringásoknak.",
+                "ro": "O cacao fierbinte este finalul ideal pentru bicicliștii de iarnă.",
+                "en": "A hot cocoa is the ideal finish for winter cyclists."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Akku von E-Bikes hält bei Kälte deutlich kürzer; planen Sie Reserven.",
+              "Thermo-Handschuhe und winddichte Kleidung sind ein Muss.",
+              "Die Dämmerung beginnt im Dezember bereits ab 15:45 Uhr.",
+              "Vermeiden Sie schattige Waldstücke, dort hält sich Glatteis länger.",
+              "Trinken Sie ausreichend, auch wenn das Durstgefühl bei Kälte geringer ist."
+            ],
+            "hu": [
+              "Az e-bike akkumulátora hidegben gyorsabban merül; tervezzen tartalékkal.",
+              "A termokesztyű és a szélálló ruházat kötelező darabok.",
+              "Decemberben a szürkület már 15:45 körül elkezdődik.",
+              "Kerülje az árnyékos erdőrészeket, ott tovább megmarad a jegesedés.",
+              "Igyon elegendő folyadékot, még ha a szomjúságérzet kisebb is hidegben."
+            ],
+            "ro": [
+              "Bateria bicicletelor electrice ține mai puțin la frig; planificați rezerve.",
+              "Mănușile termice și hainele rezistente la vânt sunt obligatorii.",
+              "Amurgul începe în decembrie încă de la ora 15:45.",
+              "Evitați zonele de pădure umbrite, unde gheața persistă mai mult.",
+              "Beți suficiente lichide, chiar dacă senzația de sete este mai mică."
+            ],
+            "en": [
+              "E-bike batteries drain much faster in the cold; plan accordingly.",
+              "Thermal gloves and windproof clothing are absolute must-haves.",
+              "Twilight begins as early as 3:45 PM in December.",
+              "Avoid shaded forest sections, as black ice lasts longer there.",
+              "Drink enough fluids, even if you feel less thirsty in the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1520,214 @@
           "The roads can be narrow, so drive with foresight.",
           "Combine your visit to the castles with a short hike in the surrounding area."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag ist ideal für eine Autotour rund um Feldkirchen. Wir parken bequem im Zentrum und besuchen die Kirchen und das Amthof-Museum. Zum Mittagessen fahren wir direkt zum Maltschacher See, wo wir den Regen auf der Wasseroberfläche vom Panoramafenster aus beobachten. Nachmittags erkunden wir die Burgruinen Dietrichstein und Gradisch, die im Nebel eine dramatische Kulisse bieten.",
+            "hu": "Az esős idő ideális egy Feldkirchen környéki autós túrához. Kényelmesen parkolunk a központban, és meglátogatjuk a templomokat, valamint az Amthof Múzeumot. Ebédre egyenesen a Maltschacher See-hez hajtunk, ahol a panorámaablak mögül figyeljük a tó vizét. Délután Dietrichstein és Gradisch várromjait fedezzük fel, melyek a ködben drámai látványt nyújtanak.",
+            "ro": "O zi ploioasă este ideală pentru un tur cu mașina în jurul Feldkirchen. Parcăm confortabil în centru și vizităm bisericile și Muzeul Amthof. Pentru prânz, conducem direct la lacul Maltschacher, admirând ploaia de la fereastra panoramică. După-amiaza explorăm ruinele Dietrichstein și Gradisch, care oferă un decor dramatic în ceață.",
+            "en": "A rainy day is perfect for a driving tour around Feldkirchen. We park conveniently in the center to visit the churches and the Amthof Museum. For lunch, we drive directly to Maltschacher See, watching the rain on the water from a panoramic window. Afternoon is spent exploring Dietrichstein and Gradisch castle ruins, which offer a dramatic backdrop in the mist."
+          },
+          "stops": [
+            {
+              "name": "Arrival & Parking in the Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser, um trocken aus dem Auto auszusteigen.",
+                "hu": "Használja a parkolóházakat, hogy szárazon szállhasson ki az autóból.",
+                "ro": "Folosiți parcările supraetajate pentru a coborî din mașină la uscat.",
+                "en": "Use parking garages to exit the car without getting wet."
+              }
+            },
+            {
+              "name": "Main Square & Parish Church",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten minimieren den Regen-Kontakt.",
+                "hu": "A látnivalók közötti rövid távolságok minimalizálják az esőben töltött időt.",
+                "ro": "Distanțele scurte între obiective minimizează contactul cu ploaia.",
+                "en": "Short distances between sights minimize exposure to the rain."
+              }
+            },
+            {
+              "name": "Amthof & Museum",
+              "tip_5lang": {
+                "de": "Ideal für Regentage; Parkplätze befinden sich direkt hinter dem Gebäude.",
+                "hu": "Ideális esős napokra; a parkolók közvetlenül az épület mögött találhatók.",
+                "ro": "Ideal pentru zile ploioase; parcările sunt direct în spatele clădirii.",
+                "en": "Ideal for rainy days; parking spaces are right behind the building."
+              }
+            },
+            {
+              "name": "Drive to Maltschacher See & Lunch",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraßen zum See sind gut ausgebaut und auch bei Nässe sicher.",
+                "hu": "A tóhoz vezető utak jól kiépítettek és esőben is biztonságosak.",
+                "ro": "Drumurile de acces la lac sunt bine întreținute și sigure pe ploaie.",
+                "en": "Access roads to the lake are well-maintained and safe even when wet."
+              }
+            },
+            {
+              "name": "Walk at the lake & Dietrichstein Castle",
+              "tip_5lang": {
+                "de": "Vom Parkplatz an der Burgruine hat man auch im Auto eine gute Sicht.",
+                "hu": "A várrom melletti parkolóból az autóból is jó kilátás nyílik.",
+                "ro": "Din parcarea de lângă ruinele castelului aveți o vedere bună și din mașină.",
+                "en": "From the parking lot at the ruins, you have a good view even from the car."
+              }
+            },
+            {
+              "name": "Drive to Gradisch Castle",
+              "tip_5lang": {
+                "de": "Die Strecke führt durch bewaldete Abschnitte; Vorsicht bei Aquaplaning.",
+                "hu": "Az útvonal erdős szakaszokon vezet; vigyázzon az aquaplaningre.",
+                "ro": "Traseul trece prin zone împădurite; atenție la acvaplanare.",
+                "en": "The route goes through wooded sections; watch out for aquaplaning."
+              }
+            },
+            {
+              "name": "Coffee & Cake before departure",
+              "tip_5lang": {
+                "de": "Konditoreien mit Parkplätzen vor der Tür sind besonders praktisch.",
+                "hu": "A közvetlen parkolóval rendelkező cukrászdák különösen praktikusak.",
+                "ro": "Cofetăriile cu parcare în fața ușii sunt deosebit de practice.",
+                "en": "Confectioneries with parking right outside are particularly practical."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Scheibenwischerblätter vor der Fahrt auf Verschleiß prüfen.",
+              "Das Parken in Feldkirchens Kurzparkzonen ist oft am Wochenende gratis.",
+              "Nutzen Sie die Sitzheizung nach dem Besuch der Burgruinen.",
+              "Einige Feldwege zu Aussichtspunkten können bei Regen schlammig sein.",
+              "Halten Sie die Belüftung auf hoher Stufe, um beschlagene Scheiben zu vermeiden."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlő lapátok állapotát.",
+              "Feldkirchen rövid távú parkolózónái hétvégén gyakran ingyenesek.",
+              "A várromok látogatása után használja az ülésfűtést.",
+              "Néhány kilátóhoz vezető dűlőút esőben sáros lehet.",
+              "Tartsa magas fokozaton a szellőzést a szélvédő párásodása ellen."
+            ],
+            "ro": [
+              "Verificați lamele ștergătoarelor înainte de a pleca la drum.",
+              "Parcarea în zonele cu timp limitat din Feldkirchen este adesea gratuită în weekend.",
+              "Folosiți încălzirea în scaune după vizitarea ruinelor.",
+              "Unele drumuri neasfaltate spre punctele de belvedere pot fi noroioase.",
+              "Păstrați ventilația la nivel ridicat pentru a evita aburirea geamurilor."
+            ],
+            "en": [
+              "Check wiper blades for wear before starting your trip.",
+              "Parking in Feldkirchen's short-term zones is often free on weekends.",
+              "Use the seat heating after visiting the castle ruins.",
+              "Some unpaved paths to viewpoints can be muddy during rain.",
+              "Keep the ventilation on a high setting to prevent windows from fogging up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Sicher und warm im Auto erkunden wir das winterliche Kärnten. Vom Hauptplatz aus steuern wir die verschneite Burg Dietrichstein an. Die Fahrt durch die weiße Landschaft zum Maltschacher See bietet herrliche Fotomotive, ohne zu frieren. Nach einem gemütlichen Mittagessen besuchen wir das beheizte Amthof-Museum und lassen den Tag bei Kaffee und Kuchen ausklingen, während draußen die Dämmerung einsetzt.",
+            "hu": "Biztonságban és melegben, autóval fedezzük fel a téli Karintiát. A Főtérről a havas Dietrichstein-vár felé vesszük az irányt. A fehér tájon át vezető út a Maltschacher See-ig csodás fotótémákat kínál anélkül, hogy fáznánk. A hangulatos ebéd után a fűtött Amthof Múzeumba látogatunk, majd kávéval és süteménnyel zárjuk a napot, miközben odakint sötétedik.",
+            "ro": "În siguranță și la căldură în mașină, explorăm Carintia iarna. Din Piața Centrală ne îndreptăm spre castelul Dietrichstein înzăpezit. Drumul prin peisajul alb spre lacul Maltschacher oferă ocazii foto superbe fără a îngheța. După un prânz plăcut, vizităm Muzeul Amthof încălzit și încheiem ziua cu cafea și prăjituri în timp ce afară se înserează.",
+            "en": "Safe and warm in the car, we explore wintery Carinthia. From the Main Square, we head towards the snow-covered Dietrichstein Castle. The drive through the white landscape to Maltschacher See offers wonderful photo opportunities without freezing. After a cozy lunch, we visit the heated Amthof Museum and end the day with coffee and cake as twilight sets in outside."
+          },
+          "stops": [
+            {
+              "name": "Arrival & Parking in the Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen am Straßenrand, die Parkplätze verengen.",
+                "hu": "Figyeljen az út szélén lévő hóbuckákra, amik szűkítik a parkolóhelyeket.",
+                "ro": "Atenție la mormanele de zăpadă de pe marginea drumului care îngustează parcările.",
+                "en": "Watch out for snow piles at the roadside that narrow the parking spaces."
+              }
+            },
+            {
+              "name": "Main Square & Parish Church",
+              "tip_5lang": {
+                "de": "Kopfsteinpflaster kann bei Frost extrem rutschig sein; vorsichtig fahren.",
+                "hu": "A macskaköves burkolat fagyban rendkívül csúszós lehet; vezessen óvatosan.",
+                "ro": "Pavajul poate fi extrem de alunecos pe timp de îngheț; conduceți cu atenție.",
+                "en": "Cobblestones can be extremely slippery in frost; drive carefully."
+              }
+            },
+            {
+              "name": "Amthof & Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch für eine längere Parkpause im Warmen.",
+                "hu": "Használja ki a múzeumlátogatást egy hosszabb, melegben töltött pihenőre.",
+                "ro": "Folosiți vizita la muzeu pentru o pauză lungă de parcare la căldură.",
+                "en": "Use the museum visit for a longer parking break in the warmth."
+              }
+            },
+            {
+              "name": "Drive to Maltschacher See & Lunch",
+              "tip_5lang": {
+                "de": "Brücken und schattige Senken können tückisches Glatteis aufweisen.",
+                "hu": "A hidakon és árnyékos mélyedésekben alattomos jégfoltok lehetnek.",
+                "ro": "Podurile și zonele joase umbrite pot prezenta porțiuni de polei.",
+                "en": "Bridges and shaded hollows can have treacherous black ice."
+              }
+            },
+            {
+              "name": "Walk at the lake & Dietrichstein Castle",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, während Sie die Aussicht genießen.",
+                "hu": "Ne járassa feleslegesen a motort, miközben a kilátást élvezi.",
+                "ro": "Nu lăsați motorul pornit inutil în timp ce admirați vederea.",
+                "en": "Do not leave the engine idling while enjoying the view."
+              }
+            },
+            {
+              "name": "Drive to Gradisch Castle",
+              "tip_5lang": {
+                "de": "Prüfen Sie vorab, ob die Nebenstraße zum Schloss geräumt ist.",
+                "hu": "Előre ellenőrizze, hogy a kastélyhoz vezető mellékutat letakarították-e.",
+                "ro": "Verificați dinainte dacă drumul secundar spre castel este deszăpezit.",
+                "en": "Check beforehand if the side road to the castle has been cleared of snow."
+              }
+            },
+            {
+              "name": "Coffee & Cake before departure",
+              "tip_5lang": {
+                "de": "Befreien Sie das Autodach komplett von Schnee vor der Abfahrt.",
+                "hu": "Indulás előtt teljesen tisztítsa meg az autó tetejét a hótól.",
+                "ro": "Curățați complet plafonul mașinii de zăpadă înainte de plecare.",
+                "en": "Clear the car roof completely of snow before departure."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Österreich ab dem 1. November Pflicht.",
+              "Führen Sie einen Eiskratzer und einen kleinen Besen im Auto mit.",
+              "Frostschutzmittel im Scheibenwischwasser ist essenziell.",
+              "Parken Sie nicht unter steilen Dächern (Gefahr von Dachlawinen).",
+              "Die Bergstraßen rund um Feldkirchen erfordern gute Winterausrüstung."
+            ],
+            "hu": [
+              "Ausztriában november 1-től kötelező a téli gumi használata.",
+              "Tartson jégkaparót és egy kis seprűt az autóban.",
+              "A szélvédőmosó folyadék fagyálló adaléka alapvető fontosságú.",
+              "Ne parkoljon meredek tetők alatt (tetőlavina veszélye).",
+              "A Feldkirchen környéki hegyi utak jó téli felszerelést igényelnek."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Austria de la 1 noiembrie.",
+              "Aveți în mașină o racletă de gheață și o măturică.",
+              "Lichidul de parbriz cu protecție la îngheț este esențial.",
+              "Nu parcați sub acoperișuri abrupte (pericol de avalanșe de pe acoperiș).",
+              "Drumurile montane din jurul Feldkirchen necesită echipament de iarnă bun."
+            ],
+            "en": [
+              "Winter tires are mandatory in Austria from November 1st.",
+              "Carry an ice scraper and a small brush in the car.",
+              "Anti-freeze in the windshield washer fluid is essential.",
+              "Do not park under steep roofs (danger of snow falling from the roof).",
+              "The mountain roads around Feldkirchen require good winter equipment."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2084,196 @@
           "Have some small change ready for bus tickets.",
           "Plan for buffer times, as buses can be delayed."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus navigieren wir trocken durch Feldkirchen. Nach dem Start am Hauptplatz besuchen wir das Amthof-Museum, das nur einen kurzen Fußweg von der Haltestelle entfernt ist. Mittags wärmen wir uns in einem Restaurant im Zentrum auf. Die Busfahrt zum Maltschacher See bietet einen entspannten Blick auf die verregnete Landschaft, bevor wir den Tag gemütlich im Ort ausklingen lassen.",
+            "hu": "A busszal szárazon közlekedhetünk Feldkirchenben. A Főtérről indulva az Amthof Múzeumot keressük fel, amely csak rövid sétára van a megállótól. Ebédre a központban melegszünk fel. A Maltschacher See-hez vezető buszút során kényelmesen nézhetjük az esős tájat, majd a napot hangulatosan zárjuk a városban.",
+            "ro": "Cu autobuzul navigăm prin Feldkirchen fără a ne uda. După plecarea din centru, vizităm Muzeul Amthof, aflat la mică distanță de stație. La prânz ne încălzim într-un restaurant local. Călătoria cu autobuzul spre lac oferă o vedere relaxată asupra peisajului ploios, înainte de a încheia ziua confortabil în oraș.",
+            "en": "By bus, we navigate dryly through Feldkirchen. Starting from the Main Square, we visit the Amthof Museum, located just a short walk from the stop. For lunch, we warm up in a central restaurant. The bus ride to Maltschacher See offers a relaxed view of the rainy landscape before we end the day comfortably in town."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus Station & Main Square",
+              "tip_5lang": {
+                "de": "Wartehäuschen bieten Schutz; nutzen Sie die Echtzeit-App für Abfahrten.",
+                "hu": "A várótermek védelmet nyújtanak; használja a valós idejű menetrendi appot.",
+                "ro": "Adăposturile din stații oferă protecție; folosiți aplicația pentru plecări.",
+                "en": "Bus shelters provide cover; use the real-time app for departures."
+              }
+            },
+            {
+              "name": "Parish Church & Amthof Museum",
+              "tip_5lang": {
+                "de": "Die Haltestellen liegen sehr zentral zu den kulturellen Highlights.",
+                "hu": "A megállók központi helyen, a kulturális látnivalók közelében vannak.",
+                "ro": "Stațiile sunt situate central față de principalele obiective culturale.",
+                "en": "The stops are centrally located near the cultural highlights."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Das Zentrum ist gut vernetzt, sodass man nie lange im Regen warten muss.",
+                "hu": "A központ jól összekötött, így sosem kell sokat várni az esőben.",
+                "ro": "Centrul este bine conectat, astfel încât nu trebuie să așteptați mult în ploaie.",
+                "en": "The center is well-connected, so you never have to wait long in the rain."
+              }
+            },
+            {
+              "name": "Bus ride to Maltschacher See",
+              "tip_5lang": {
+                "de": "Fensterplätze im Bus ermöglichen Sightseeing im Trockenen.",
+                "hu": "A busz ablak melletti ülései száraz városnézést tesznek lehetővé.",
+                "ro": "Locurile de la fereastră permit vizitarea obiectivelor la uscat.",
+                "en": "Window seats on the bus allow for sightseeing in the dry."
+              }
+            },
+            {
+              "name": "Walk along the lake shore",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten am See genau, um langes Warten zu vermeiden.",
+                "hu": "Pontosan ellenőrizze a visszaindulást a tónál, hogy elkerülje a várakozást.",
+                "ro": "Verificați exact orele de întoarcere de la lac pentru a evita așteptarea.",
+                "en": "Check return times at the lake carefully to avoid long waits."
+              }
+            },
+            {
+              "name": "Return to the center and wind down",
+              "tip_5lang": {
+                "de": "Der Busbahnhof bietet beheizte Wartebereiche für den Abend.",
+                "hu": "A buszpályaudvar fűtött váróhelyiségeket kínál az estére.",
+                "ro": "Autogara oferă zone de așteptare încălzite pentru seară.",
+                "en": "The bus station offers heated waiting areas for the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Kärntner Linien App 'Scotty' ist für Fahrpläne unverzichtbar.",
+              "Kaufen Sie Tickets online oder per App, um Kontakt mit Regen zu minimieren.",
+              "Die Busfrequenz zum See kann bei schlechtem Wetter reduziert sein.",
+              "Tragen Sie bei Nässe rutschfeste Schuhe für den Ein- und Ausstieg.",
+              "Fragen Sie den Busfahrer nach den nächsten Anschlussmöglichkeiten."
+            ],
+            "hu": [
+              "A 'Scotty' alkalmazás nélkülözhetetlen a menetrendekhez.",
+              "Vásároljon jegyet online, hogy kevesebbet kelljen az esőben állnia.",
+              "Rossz idő esetén a tóhoz menő buszok ritkábban járhatnak.",
+              "A buszra fel- és leszálláskor viseljen csúszásmentes talpú cipőt.",
+              "Kérdezze a sofőrt a legközelebbi csatlakozási lehetőségekről."
+            ],
+            "ro": [
+              "Aplicația 'Scotty' este indispensabilă pentru orarele de transport.",
+              "Cumpărați bilete online pentru a minimiza timpul petrecut în ploaie.",
+              "Frecvența autobuzelor spre lac poate fi redusă pe vreme rea.",
+              "Purtați pantofi antiderapanți pentru urcarea și coborârea din autobuz.",
+              "Întrebați șoferul despre următoarele legături disponibile."
+            ],
+            "en": [
+              "The 'Scotty' app is indispensable for public transport schedules.",
+              "Buy tickets online or via app to minimize time spent in the rain.",
+              "Bus frequency to the lake might be reduced during bad weather.",
+              "Wear non-slip shoes for getting on and off the bus in wet conditions.",
+              "Ask the bus driver about the next available connections."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlich-weiß präsentiert sich Feldkirchen vom Busfenster aus. Wir starten am Hauptplatz und nutzen die kurzen Wege zum Amthof-Museum. Mittags genießen wir die Wärme in einem Gasthof, bevor uns der Bus zum winterstillen Maltschacher See bringt. Der gefrorene See bietet eine friedliche Atmosphäre. Wir planen die Rückreise rechtzeitig vor Einbruch der frühen Dunkelheit ein.",
+            "hu": "Feldkirchen téli fehérsége tárul elénk a busz ablakából. A Főtérről indulunk, és kihasználjuk a közeli Amthof Múzeum adta lehetőséget. Ebédre egy meleg fogadót választunk, majd a busz kivisz a téli nyugalomba burkolózott Maltschacher See-hez. A befagyott tó békés hangulatot áraszt. A visszautat a korai sötétedés előtt tervezzük meg.",
+            "ro": "Feldkirchen se prezintă într-un alb de iarnă prin fereastra autobuzului. Pornim din piață și profităm de distanțele scurte spre Muzeul Amthof. La prânz ne bucurăm de căldura unui han, înainte ca autobuzul să ne ducă la lacul liniștit. Lacul înghețat oferă o atmosferă pașnică. Planificăm întoarcerea înainte de lăsarea întunericului.",
+            "en": "Wintery white Feldkirchen unfolds from the bus window. We start at the square and take advantage of the short walk to the Amthof Museum. For lunch, we enjoy the warmth of an inn before the bus takes us to the peaceful Maltschacher See. The frozen lake offers a serene atmosphere. We plan our return journey well before early darkness falls."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus Station & Main Square",
+              "tip_5lang": {
+                "de": "Halten Sie sich im beheizten Wartebereich der Busstation auf.",
+                "hu": "Várjon a buszpályaudvar fűtött váróhelyiségében.",
+                "ro": "Stați în zona de așteptare încălzită a autogării.",
+                "en": "Wait in the heated waiting area of the bus station."
+              }
+            },
+            {
+              "name": "Parish Church & Amthof Museum",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneematsch in der Nähe der Haltestellenborde.",
+                "hu": "Vigyázzon a hókására a megállók padkáinak közelében.",
+                "ro": "Atenție la zăpada topită de lângă bordurile stațiilor.",
+                "en": "Watch out for slushy snow near the curbs at bus stops."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal mit Blick auf die verschneite Altstadt.",
+                "hu": "Válasszon a havas óvárosra néző éttermet az ebédhez.",
+                "ro": "Alegeți un local cu vedere spre orașul vechi înzăpezit.",
+                "en": "Choose a restaurant with a view of the snow-covered old town."
+              }
+            },
+            {
+              "name": "Bus ride to Maltschacher See",
+              "tip_5lang": {
+                "de": "Beachten Sie den speziellen Winterfahrplan (weniger Verbindungen).",
+                "hu": "Vegye figyelembe a speciális téli menetrendet (kevesebb járat).",
+                "ro": "Respectați orarul special de iarnă (mai puține legături).",
+                "en": "Note the special winter timetable (fewer connections available)."
+              }
+            },
+            {
+              "name": "Walk along the lake shore",
+              "tip_5lang": {
+                "de": "Die Haltestelle am See ist im Winter oft windexponiert; warm anziehen.",
+                "hu": "A tóparti megálló télen gyakran szeles; öltözzön fel melegen.",
+                "ro": "Stația de la lac este adesea expusă vântului iarna; îmbrăcați-vă bine.",
+                "en": "The lakeside stop is often exposed to wind in winter; dress warmly."
+              }
+            },
+            {
+              "name": "Return to the center and wind down",
+              "tip_5lang": {
+                "de": "Nutzen Sie die letzte Busverbindung vor 17 Uhr für die Rückfahrt.",
+                "hu": "Használja az utolsó, 17 óra előtti buszjáratot a visszatéréshez.",
+                "ro": "Folosiți ultima legătură de autobuz înainte de ora 17:00.",
+                "en": "Take the last bus connection before 5 PM for your return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Schneefall Verspätungen haben.",
+              "Die Kärnten Card ist im Winter oft nicht für alle Linien gültig.",
+              "Kleine Münzen für den Ticketkauf beim Fahrer bereithalten.",
+              "Warten Sie im Hellen an beleuchteten Haltestellen.",
+              "Warme Getränke in Thermosbechern sind im Bus meist erlaubt."
+            ],
+            "hu": [
+              "Erős havazás esetén a buszok késhetnek.",
+              "A Karintia Kártya télen nem minden vonalon érvényes.",
+              "Készítsen ki aprópénzt, ha a sofőrnél vesz jegyet.",
+              "Sötétedés után válassza a jól kivilágított megállókat.",
+              "A buszon általában megengedett a termoszban vitt meleg ital."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri în caz de ninsori abundente.",
+              "Cardul Carintia nu este adesea valabil pe toate liniile iarna.",
+              "Pregătiți mărunțiș pentru cumpărarea biletului de la șofer.",
+              "Așteptați în stații bine iluminate după lăsarea serii.",
+              "Băuturile calde în termos sunt de obicei permise în autobuz."
+            ],
+            "en": [
+              "Buses may experience delays during heavy snowfall.",
+              "The Kärnten Card is often not valid on all lines in winter.",
+              "Have small change ready for buying tickets from the driver.",
+              "Wait at well-lit bus stops after darkness falls.",
+              "Warm drinks in thermos cups are usually allowed on the bus."
+            ]
+          }
+        }
       }
     }
   }

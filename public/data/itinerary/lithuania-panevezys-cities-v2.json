@@ -378,6 +378,188 @@
           "Allow plenty of time for the parks, they are a true oasis.",
           "Check museum opening times in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Freiheitsplatz unter dem Regenschirm. Die Kathedrale bietet am Vormittag einen trockenen, besinnlichen Rückzugsort.\n\nMittags ist das Heimatmuseum der ideale Ort, um dem Regen zu entfliehen und Geschichte zu entdecken.\n\nAm Nachmittag spazieren Sie durch das Theaterfoyer, bevor Sie den Senvagė-Park bei einer Regenpause besuchen.\n\nDer Tag endet mit einem kurzen, frischen Spaziergang im Skaistakalnis-Park, wenn sich die Wolken lichten.",
+            "hu": "Kezdje a napot a Szabadság téren, esernyővel felszerelkezve. A Székesegyház belső tere tökéletes menedék a reggeli záporok elől.\n\nDélben a Helytörténeti Múzeum gazdag kiállításai nyújtanak száraz és tartalmas időtöltést.\n\nDélután a színház környékén tegyen egy kört, majd használja ki az esőszünetet a Senvagė-park megtekintésére.\n\nAz estet a friss, eső utáni levegőn zárja a Skaistakalnis-park fái alatt, figyelve a tó tükröződését.",
+            "ro": "Începeți ziua în Piața Libertății, echipat cu o umbrelă solidă. Catedrala oferă un refugiu uscat și liniștit în timpul dimineții.\n\nLa prânz, Muzeul de Istorie Locală este locul ideal pentru a scăpa de ploaie și a explora exponatele.\n\nDupă-amiaza, vizitați zona teatrului, apoi profitați de o pauză de ploaie pentru o scurtă plimbare în parcul Senvagė.\n\nZiua se încheie cu aerul curat de după ploaie în parcul Skaistakalnis, admirând natura regenerată.",
+            "en": "Start your day at Freedom Square with a sturdy umbrella. The Cathedral provides a dry, spiritual sanctuary during the morning showers.\n\nAt noon, the Local Lore Museum is the perfect place to escape the wet weather and dive into history.\n\nIn the afternoon, explore the theatre area, then take advantage of a break in the rain to see Senvagė Park.\n\nEnd the day with a fresh post-rain walk through Skaistakalnis Park as the clouds finally begin to clear."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Vordächern der umliegenden Cafés.",
+                "hu": "Használja a környékbeli kávézók előtetőit eső esetén.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor din jur.",
+                "en": "Take shelter under the awnings of nearby cafes if it pours."
+              }
+            },
+            {
+              "name": "Cathedral of Christ the King",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um bei einem starken Schauer im Trockenen zu verweilen.",
+                "hu": "Ideális helyszín egy nagyobb zápor idejére a belső térben.",
+                "ro": "Un loc ideal pentru a sta la adăpost în timpul unei averse mari.",
+                "en": "An ideal place to stay dry inside during a heavy downpour."
+              }
+            },
+            {
+              "name": "Juozas Miltinis Drama Theatre",
+              "tip_5lang": {
+                "de": "Das Foyer bietet Schutz; prüfen Sie den Spielplan für Abendvorstellungen.",
+                "hu": "A foyer menedéket nyújt; nézze meg az esti előadások rendjét.",
+                "ro": "Foaierul oferă adăpost; verificați programul spectacolelor de seară.",
+                "en": "The foyer offers shelter; check the schedule for evening shows."
+              }
+            },
+            {
+              "name": "Panevėžys Local Lore Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, falls es draußen ungemütlich bleibt.",
+                "hu": "Töltsön itt több időt, ha kint továbbra is barátságtalan az idő.",
+                "ro": "Planificați mai mult timp aici dacă afară vremea rămâne neplăcută.",
+                "en": "Spend more time here if the weather outside remains unpleasant."
+              }
+            },
+            {
+              "name": "Senvagė Park",
+              "tip_5lang": {
+                "de": "Die Wege können bei Nässe rutschig sein; vorsichtig an den Ufern.",
+                "hu": "A vizes utakon óvatosan közlekedjen, a part közelében csúszhat.",
+                "ro": "Potecile pot fi alunecoase; mergeți cu atenție pe malul apei.",
+                "en": "Paths can be slippery when wet; walk carefully near the water."
+              }
+            },
+            {
+              "name": "Skaistakalnis Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die asphaltierten Wege, um Matsch zu vermeiden.",
+                "hu": "Használja az aszfaltozott utakat a sár elkerülése érdekében.",
+                "ro": "Folosiți aleile asfaltate pentru a evita noroiul.",
+                "en": "Stick to the paved paths to avoid muddy grass areas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein Taschenschirm ist bei dem wechselhaften litauischen Wetter unerlässlich.",
+              "Die Museen in Panevėžys sind hervorragende Regenunterkünfte.",
+              "Achten Sie auf Pfützen auf den Gehwegen abseits der Hauptstraßen.",
+              "Kombinieren Sie den Stadtspaziergang mit gemütlichen Café-Stopps im Zentrum."
+            ],
+            "hu": [
+              "Egy összecsukható esernyő elengedhetetlen a változékony litván időjárásban.",
+              "Panevėžys múzeumai kiváló menedéket nyújtanak az eső elől.",
+              "Ügyeljen a tócsákra a mellékutcák járdáin.",
+              "Kombinálja a városi sétát hangulatos kávéházi pihenőkkel a központban."
+            ],
+            "ro": [
+              "O umbrelă pliabilă este esențială în vremea schimbătoare din Lituania.",
+              "Muzeele din Panevėžys sunt refugii excelente împotriva ploii.",
+              "Atenție la bălțile de pe trotuarele de pe străzile secundare.",
+              "Combinați plimbarea prin oraș cu opriri la cafenelele primitoare din centru."
+            ],
+            "en": [
+              "A folding umbrella is essential in Lithuania's changeable weather.",
+              "Panevėžys museums are excellent shelters from the rain.",
+              "Watch out for puddles on the sidewalks off the main streets.",
+              "Combine your city walk with cozy cafe stops in the center."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am frostigen Freiheitsplatz, wo die kalte Luft Sie wachrüttelt. Die Kathedrale bietet danach eine wohltuende, warme Pause.\n\nMittags wärmen Sie sich im Heimatmuseum auf, während Sie die winterliche Stadt durch die Fenster beobachten.\n\nDer Nachmittag am Senvagė-See ist kurz, da die Dämmerung in Litauen früh einsetzt und die Lichter funkeln.\n\nBeenden Sie die Tour im Skaistakalnis-Park, wo der Schnee die Landschaft in eine stille Winterwelt verwandelt.",
+            "hu": "Indítsa a napot a fagyos Szabadság téren, ahol a friss levegő rögtön felébreszti. A Székesegyház melege ezután igazi felüdülés.\n\nDélben melegedjen fel a Helytörténeti Múzeumban, figyelve az ablakon túli havas várost.\n\nA délután a Senvagė-tónál rövid lesz, mivel Litvániában korán sötétedik, és felgyúlnak az ünnepi fények.\n\nZárja a túrát a Skaistakalnis-parkban, ahol a hó csendes téli birodalommá változtatja a tájat.",
+            "ro": "Începeți ziua în Piața Libertății înghețată, unde aerul rece vă va înviora imediat. Catedrala oferă apoi o pauză caldă și binevenită.\n\nLa prânz, încălziți-vă în Muzeul de Istorie Locală, admirând orașul înzăpezit de la fereastră.\n\nDupă-amiaza la lacul Senvagė va fi scurtă, deoarece amurgul vine devreme în Lituania, iar luminile încep să sclipească.\n\nÎncheiați turul în parcul Skaistakalnis, unde zăpada transformă peisajul într-o lume de iarnă tăcută.",
+            "en": "Start at the frosty Freedom Square, where the crisp air wakes you up instantly. The Cathedral offers a warm and welcome break afterwards.\n\nAt noon, warm up in the Local Lore Museum while watching the snowy city through the windows.\n\nAfternoon at Senvagė Lake will be short as twilight sets in early in Lithuania and the lights begin to twinkle.\n\nEnd the tour in Skaistakalnis Park, where the snow transforms the landscape into a silent winter wonderland."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schuhe; der offene Platz kann sehr windig und kalt sein.",
+                "hu": "Viseljen meleg cipőt; a nyitott tér nagyon szeles és hideg lehet.",
+                "ro": "Purtați încălțăminte călduroasă; piața deschisă poate fi foarte vântoasă.",
+                "en": "Wear warm shoes; the open square can be very windy and cold."
+              }
+            },
+            {
+              "name": "Cathedral of Christ the King",
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um die Finger und Zehen kurz aufzuwärmen.",
+                "hu": "Kiváló helyszín a kezek és lábak rövid felmelegítésére.",
+                "ro": "Un loc excelent pentru a vă încălzi puțin mâinile și picioarele.",
+                "en": "A great place to warm up your hands and feet for a bit."
+              }
+            },
+            {
+              "name": "Juozas Miltinis Drama Theatre",
+              "tip_5lang": {
+                "de": "Das Theater ist im Winter ein kulturelles Zentrum mit angenehmer Wärme.",
+                "hu": "A színház télen a kultúra és a kellemes meleg központja.",
+                "ro": "Teatrul este un centru cultural cu o căldură plăcută în timpul iernii.",
+                "en": "The theatre is a cultural hub with pleasant warmth in winter."
+              }
+            },
+            {
+              "name": "Panevėžys Local Lore Museum",
+              "tip_5lang": {
+                "de": "Die Garderobe ist obligatorisch; nutzen Sie sie für Ihre schweren Mäntel.",
+                "hu": "A ruhatár kötelező; használja nehéz kabátjai tárolására.",
+                "ro": "Garderoba este obligatorie; folosiți-o pentru hainele groase.",
+                "en": "The cloakroom is mandatory; use it for your heavy winter coats."
+              }
+            },
+            {
+              "name": "Senvagė Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis auf den Stufen zum Seeufer.",
+                "hu": "Vigyázzon a jégre a tópartra vezető lépcsőkön.",
+                "ro": "Atenție la gheața de pe treptele care duc spre malul lacului.",
+                "en": "Watch out for ice on the steps leading down to the lake shore."
+              }
+            },
+            {
+              "name": "Skaistakalnis Park",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park vor 16 Uhr, bevor es komplett dunkel wird.",
+                "hu": "Látogassa meg a parkot 16 óra előtt, mielőtt teljesen besötétedik.",
+                "ro": "Vizitați parcul înainte de ora 16, înainte de a se întuneca complet.",
+                "en": "Visit the park before 4 PM, before it gets completely dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichtkleidung ist der Schlüssel zum Überleben im litauischen Winter.",
+              "Die Sonne geht bereits gegen 16:00 Uhr unter, planen Sie das ein.",
+              "Achten Sie auf Streusalz, das Lederschuhe beschädigen kann.",
+              "Ein heißer Tee in einem lokalen Café wirkt Wunder gegen die Kälte."
+            ],
+            "hu": [
+              "A réteges öltözködés a kulcs a litván tél túléléséhez.",
+              "A nap már 16:00 körül lemegy, tervezzen ezzel előre.",
+              "Ügyeljen a szórósóra, amely károsíthatja a bőrcipőket.",
+              "Egy forró tea egy helyi kávézóban csodákat tesz a hideg ellen."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este cheia supraviețuirii în iarna lituaniană.",
+              "Soarele apune deja în jurul orei 16:00, planificați din timp.",
+              "Atenție la sarea de pe drum, care poate deteriora pantofii de piele.",
+              "Un ceai fierbinte într-o cafenea locală face minuni împotriva frigului."
+            ],
+            "en": [
+              "Layered clothing is the key to surviving the Lithuanian winter.",
+              "The sun sets as early as 4:00 PM, so plan accordingly.",
+              "Watch out for road salt, which can damage leather shoes.",
+              "A hot tea in a local cafe works wonders against the cold."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -774,6 +956,206 @@
           "Use the bike paths along the river for a safe and scenic ride.",
           "Some museums may not have dedicated bike racks, ask about a safe place to park."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie zügig am Freiheitsplatz, bevor der Regen stärker wird. Das Theater bietet einen schnellen Stopp im Trockenen.\n\nMittags lassen Sie das Fahrrad sicher stehen und verbringen die regenreichste Zeit im Heimatmuseum.\n\nNachmittags radeln Sie vorsichtig am Senvagė-Ufer entlang, wenn die Wege nass und glänzend sind.\n\nBeenden Sie die Tour am Eisenbahnmuseum, wobei Sie die asphaltierten Straßen bevorzugen, um Schlamm zu vermeiden.",
+            "hu": "Induljon tempósan a Szabadság térről, mielőtt elered az eső. A színháznál tartson egy gyors, száraz pihenőt.\n\nDélben hagyja biztonságos helyen a kerékpárt, és töltse a legesősebb órákat a múzeumban.\n\nDélután óvatosan tekerjen a Senvagė partján, a vizes és csillogó utakon.\n\nA túrát a Vasútmúzeumnál zárja, részesítse előnyben az aszfaltozott utakat a sár elkerülése végett.",
+            "ro": "Porniți rapid din Piața Libertății înainte ca ploaia să se intensifice. Teatrul oferă o oprire scurtă la uscat.\n\nLa prânz, lăsați bicicleta într-un loc sigur și petreceți cele mai ploioase ore în muzeu.\n\nDupă-amiaza, pedalați cu atenție pe malul Senvagė, pe drumurile ude și lucioase.\n\nÎncheiați turul la Muzeul Căilor Ferate, preferând drumurile asfaltate pentru a evita noroiul.",
+            "en": "Start briskly at Freedom Square before the rain intensifies. The theatre offers a quick, dry stop.\n\nAt noon, leave the bike in a safe place and spend the rainiest hours in the museum.\n\nIn the afternoon, cycle carefully along the Senvagė shore on the wet and shiny paths.\n\nEnd the tour at the Railway Museum, preferring paved roads to avoid mud."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen; nasse Pflastersteine können rutschig sein.",
+                "hu": "Ellenőrizze a fékeket; a vizes utcakő csúszós lehet.",
+                "ro": "Verificați frânele; pavajul umed poate fi alunecos.",
+                "en": "Check your brakes; wet cobblestones can be slippery."
+              }
+            },
+            {
+              "name": "Juozas Miltinis Drama Theatre",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad nah am Eingang unter einem Vorsprung.",
+                "hu": "Parkolja a biciklit közel a bejárathoz egy tető alá.",
+                "ro": "Parcați bicicleta aproape de intrare, sub o streașină.",
+                "en": "Park the bike close to the entrance under an overhang."
+              }
+            },
+            {
+              "name": "Cathedral of Christ the King",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den Regen kurz abzuwarten.",
+                "hu": "Csendes hely az eső rövid kivárásához.",
+                "ro": "Un loc liniștit pentru a aștepta scurt trecerea ploii.",
+                "en": "A quiet place to wait out the rain for a short while."
+              }
+            },
+            {
+              "name": "Senvagė Park",
+              "tip_5lang": {
+                "de": "Reduzieren Sie die Geschwindigkeit in Kurven auf den nassen Wegen.",
+                "hu": "Csökkentse a sebességet a kanyarokban a vizes utakon.",
+                "ro": "Reduceți viteza în curbe pe potecile umede.",
+                "en": "Reduce speed in curves on the wet paths."
+              }
+            },
+            {
+              "name": "Panevėžys Local Lore Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Fahrradständer direkt am Museumseingang.",
+                "hu": "Használja a kerékpártárolót közvetlenül a múzeum bejáratánál.",
+                "ro": "Folosiți suportul pentru biciclete de la intrarea în muzeu.",
+                "en": "Use the bike rack right at the museum entrance."
+              }
+            },
+            {
+              "name": "Skaistakalnis Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den Hauptwegen, um tiefe Pfützen zu vermeiden.",
+                "hu": "Maradjon a főutakon a mély tócsák elkerülése érdekében.",
+                "ro": "Rămâneți pe drumurile principale pentru a evita bălțile adânci.",
+                "en": "Stick to the main roads to avoid deep puddles."
+              }
+            },
+            {
+              "name": "Narrow Gauge Railway Museum",
+              "tip_5lang": {
+                "de": "Der Boden des Außengeländes kann bei Regen sehr matschig sein.",
+                "hu": "A szabadtéri rész talaja esőben nagyon sáros lehet.",
+                "ro": "Terenul din exterior poate fi foarte noroios în timpul ploii.",
+                "en": "The outdoor ground can be very muddy during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei Regen in der Stadt Gold wert.",
+              "Tragen Sie wasserfeste Kleidung und achten Sie auf glatte Markierungen.",
+              "Die Bremswege auf nassen Straßen verlängern sich spürbar.",
+              "Suchen Sie bei Gewittern sofort festen Unterschlupf."
+            ],
+            "hu": [
+              "A sárvédő aranyat ér esőben a városi tekerésnél.",
+              "Viseljen vízálló ruházatot és ügyeljen a csúszós útburkolati jelekre.",
+              "A fékút vizes úton érezhetően meghosszabbodik.",
+              "Zivatar esetén azonnal keressen szilárd menedéket."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale la pedalatul prin oraș pe ploaie.",
+              "Purtați haine impermeabile și atenție la marcajele rutiere alunecoase.",
+              "Distanța de frânare pe drumurile ude crește considerabil.",
+              "În caz de furtună, căutați imediat un adăpost solid."
+            ],
+            "en": [
+              "Mudguards are worth their weight in gold when cycling in rain.",
+              "Wear waterproof clothing and watch out for slippery road markings.",
+              "Braking distances increase significantly on wet roads.",
+              "Seek solid shelter immediately in case of thunderstorms."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Freiheitsplatz erfordert volle Konzentration auf dem Rad. Das Theater bietet die erste kurze Aufwärmpause.\n\nMittags erreichen Sie die Kathedrale, wo Sie kurz innehalten, bevor es zum warmen Museum weitergeht.\n\nDer Nachmittag am Senvagė-See ist malerisch, aber kalt; die Wege können vereist sein.\n\nBeenden Sie die Tour beim Eisenbahnmuseum, bevor es dunkel wird, und genießen Sie die klare Winterluft.",
+            "hu": "A fagyos reggel a Szabadság téren teljes koncentrációt igényel a bringán. A színház az első rövid melegedőhely.\n\nDélben éri el a Székesegyházat, ahol tarthat egy rövid szünetet a fűtött múzeum előtt.\n\nA délután a Senvagė-tónál festői, de hideg; az utak jegesek lehetnek.\n\nA túrát a Vasútmúzeumnál zárja, mielőtt besötétedik, élvezve a tiszta téli levegőt.",
+            "ro": "Startul înghețat în Piața Libertății necesită concentrare maximă pe bicicletă. Teatrul oferă prima pauză scurtă de încălzire.\n\nLa prânz ajungeți la Catedrală, unde puteți face o scurtă pauză înainte de muzeul încălzit.\n\nDupă-amiaza la lacul Senvagė este pitorească, dar rece; drumurile pot fi înghețate.\n\nÎncheiați turul la Muzeul Căilor Ferate înainte de lăsarea întunericului, bucurându-vă de aerul curat.",
+            "en": "A frosty start at Freedom Square requires full concentration on the bike. The theatre is the first short warm-up spot.\n\nAt noon, reach the Cathedral for a short break before heading to the heated museum.\n\nAfternoon at Senvagė Lake is picturesque but cold; the paths may be icy.\n\nEnd the tour at the Railway Museum before it gets dark, enjoying the clear winter air."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Tau auf den Steinplatten am Morgen.",
+                "hu": "Vigyázzon a reggeli fagyott harmatra a kőlapokon.",
+                "ro": "Atenție la roua înghețată de pe plăcile de piatră dimineața.",
+                "en": "Watch out for frozen dew on the stone slabs in the morning."
+              }
+            },
+            {
+              "name": "Juozas Miltinis Drama Theatre",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die steifen Finger wieder zu bewegen.",
+                "hu": "Használja ki a megállót az elgémberedett ujjak átmozgatására.",
+                "ro": "Folosiți oprirea pentru a vă dezmorți degetele înghețate.",
+                "en": "Use the stop to get your stiff fingers moving again."
+              }
+            },
+            {
+              "name": "Cathedral of Christ the King",
+              "tip_5lang": {
+                "de": "In der Kirche ist es windstill und meist deutlich wärmer.",
+                "hu": "A templomban szélcsend van és általában jóval melegebb.",
+                "ro": "În biserică nu bate vântul și este de obicei mult mai cald.",
+                "en": "The church is windless and usually much warmer inside."
+              }
+            },
+            {
+              "name": "Senvagė Park",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam; Brücken frieren schneller ein als Straßen.",
+                "hu": "Hajtson lassan; a hidak gyorsabban lefagynak, mint az utak.",
+                "ro": "Conduceți încet; podurile îngheață mai repede decât drumurile.",
+                "en": "Drive slowly; bridges freeze over faster than roads."
+              }
+            },
+            {
+              "name": "Panevėžys Local Lore Museum",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad an einem gut beleuchteten Ort ab.",
+                "hu": "Zárja le a biciklijét egy jól megvilágított helyen.",
+                "ro": "Încuiați bicicleta într-un loc bine iluminat.",
+                "en": "Lock your bike in a well-lit spot as it gets dark early."
+              }
+            },
+            {
+              "name": "Skaistakalnis Park",
+              "tip_5lang": {
+                "de": "Die Wege können unter dem Schnee uneben und tückisch sein.",
+                "hu": "Az utak a hó alatt egyenetlenek és csalókák lehetnek.",
+                "ro": "Potecile pot fi denivelate și înșelătoare sub zăpadă.",
+                "en": "Paths can be uneven and treacherous under the snow."
+              }
+            },
+            {
+              "name": "Narrow Gauge Railway Museum",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind für die letzte Etappe entscheidend.",
+                "hu": "A meleg kesztyű döntő fontosságú az utolsó szakaszhoz.",
+                "ro": "Mănușile călduroase sunt esențiale pentru ultima etapă.",
+                "en": "Warm gloves are crucial for the final leg of the trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen für Fahrräder oder niedrigerer Reifendruck helfen bei Glätte.",
+              "Die Beleuchtung ist ab 15:30 Uhr aufgrund der frühen Dämmerung Pflicht.",
+              "Vermeiden Sie hektische Lenkbewegungen auf Schnee oder Eis.",
+              "Trinken Sie ausreichend warme Flüssigkeiten während der Pausen."
+            ],
+            "hu": [
+              "A téli gumik vagy az alacsonyabb guminyomás segít a csúszós utakon.",
+              "A világítás 15:30-tól kötelező a korai sötétedés miatt.",
+              "Kerülje a hirtelen kormánymozdulatokat havon vagy jégen.",
+              "Igyon elegendő meleg folyadékot a szünetekben."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sau o presiune mai mică ajută pe drumurile alunecoase.",
+              "Iluminarea este obligatorie de la ora 15:30 din cauza amurgului devreme.",
+              "Evitați mișcările bruște de ghidon pe zăpadă sau gheață.",
+              "Beți suficiente lichide calde în timpul pauzelor."
+            ],
+            "en": [
+              "Winter tires or lower tire pressure help on slippery roads.",
+              "Lights are mandatory from 3:30 PM due to early twilight.",
+              "Avoid sudden steering movements on snow or ice.",
+              "Drink enough warm fluids during your breaks."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1170,6 +1552,206 @@
           "Plan driving times between clusters generously to account for traffic.",
           "A GPS is essential for navigating between the different locations."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie bequem am Eisenbahnmuseum, während der Regen gegen das Autodach trommelt. Parken Sie danach nah am Skaistakalnis-Park.\n\nMittags erreichen Sie das Stadtzentrum, wo Sie das Auto abstellen und die Sehenswürdigkeiten zu Fuß unter dem Schirm erkunden.\n\nNachmittags bietet das Theater eine kulturelle Flucht vor dem nassen Wetter draußen.\n\nBeenden Sie die Tour am Senvagė-Park, wo Sie den Ausblick auch vom trockenen Fahrzeug aus genießen können.",
+            "hu": "Kezdje kényelmesen a Vasútmúzeumnál, miközben az eső a kocsi tetején kopog. Parkoljon közel a Skaistakalnis-parkhoz.\n\nDélben érkezzen a városközpontba, ahol leparkolva esernyővel járhatja be a látnivalókat.\n\nDélután a színház kínál kulturális menekülést a kinti vizes időjárás elől.\n\nA túrát a Senvagė-parknál zárja, ahol a kilátást akár a száraz autóból is élvezheti.",
+            "ro": "Începeți confortabil la Muzeul Căilor Ferate, în timp ce ploaia bate în plafonul mașinii. Parcați aproape de parcul Skaistakalnis.\n\nLa prânz ajungeți în centrul orașului, unde, după ce parcați, puteți vizita atracțiile cu umbrela.\n\nDupă-amiaza, teatrul oferă o evadare culturală din vremea umedă de afară.\n\nÎncheiați turul la parcul Senvagė, unde puteți admira priveliștea chiar și din mașina uscată.",
+            "en": "Start comfortably at the Railway Museum while rain drums on the car roof. Park close to Skaistakalnis Park afterwards.\n\nAt noon, arrive in the city center where you can park and explore the sights with an umbrella.\n\nIn the afternoon, the theatre offers a cultural escape from the wet weather outside.\n\nEnd the tour at Senvagė Park, where you can enjoy the view even from the dry car."
+          },
+          "stops": [
+            {
+              "name": "Narrow Gauge Railway Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor dem Haupteingang.",
+                "hu": "Használja a közvetlenül a főbejárat előtti parkolót.",
+                "ro": "Folosiți parcarea direct din fața intrării principale.",
+                "en": "Use the parking lot directly in front of the main entrance."
+              }
+            },
+            {
+              "name": "Skaistakalnis Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie das Grün.",
+                "hu": "Nagy esőben maradjon a kocsiban, és élvezze a zöld látványt.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină și admirați verdeața.",
+                "en": "Stay in the car during heavy rain and enjoy the green view."
+              }
+            },
+            {
+              "name": "Freedom Square (City Center Cluster)",
+              "tip_5lang": {
+                "de": "Parkhäuser im Zentrum sind die beste Wahl, um trocken zu bleiben.",
+                "hu": "A központi parkolóházak a legjobb választások a szárazon maradáshoz.",
+                "ro": "Parcările supraetajate din centru sunt cea mai bună alegere.",
+                "en": "Central parking garages are the best choice to stay dry."
+              }
+            },
+            {
+              "name": "Cathedral of Christ the King",
+              "tip_5lang": {
+                "de": "Kurze Parkdauer ist vor der Kirche oft möglich.",
+                "hu": "A templom előtt gyakran lehetséges a rövid idejű parkolás.",
+                "ro": "Parcarea pe termen scurt este adesea posibilă în fața bisericii.",
+                "en": "Short-term parking is often possible in front of the church."
+              }
+            },
+            {
+              "name": "Juozas Miltinis Drama Theatre",
+              "tip_5lang": {
+                "de": "Parken Sie in den Nebenstraßen, um nah am Eingang zu sein.",
+                "hu": "Parkoljon a mellékutcákban, hogy közel legyen a bejárathoz.",
+                "ro": "Parcați pe străzile secundare pentru a fi aproape de intrare.",
+                "en": "Park in the side streets to be close to the entrance."
+              }
+            },
+            {
+              "name": "Panevėžys Local Lore Museum",
+              "tip_5lang": {
+                "de": "Achten Sie auf Parkzonen; das Museum liegt in einer beliebten Gegend.",
+                "hu": "Ügyeljen a parkolási zónákra; a múzeum népszerű környéken van.",
+                "ro": "Atenție la zonele de parcare; muzeul este într-o zonă populară.",
+                "en": "Watch out for parking zones; the museum is in a popular area."
+              }
+            },
+            {
+              "name": "Senvagė Park",
+              "tip_5lang": {
+                "de": "Vom Uferparkplatz aus haben Sie einen tollen Blick auf den See.",
+                "hu": "A parti parkolóból nagyszerű kilátás nyílik a tóra.",
+                "ro": "Din parcarea de pe mal aveți o priveliște minunată asupra lacului.",
+                "en": "You have a great view of the lake from the shore parking lot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überprüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Achten Sie auf Aquaplaning bei den größeren Pfützen in Senvagė.",
+              "Zentrale Parkplätze können bei Regen schnell belegt sein.",
+              "Nutzen Sie Park-Apps, um das Bezahlen im Regen zu vermeiden."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Ügyeljen az aquaplaningre a nagyobb tócsáknál Senvagė környékén.",
+              "A központi parkolók esőben gyorsan megtelhetnek.",
+              "Használjon parkolási alkalmazást, hogy elkerülje az esőben való fizetést."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de plecare.",
+              "Atenție la acvaplanare la bălțile mai mari din zona Senvagė.",
+              "Parcările centrale se pot umple rapid în timpul ploii.",
+              "Folosiți aplicații de parcare pentru a evita plata în ploaie."
+            ],
+            "en": [
+              "Check your windshield wipers before setting off.",
+              "Watch out for aquaplaning at larger puddles around Senvagė.",
+              "Central parking lots can fill up quickly during rain.",
+              "Use parking apps to avoid paying at machines in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie im warmen Auto am Eisenbahnmuseum. Die Fahrt durch das verschneite Panevėžys ist besonders stimmungsvoll.\n\nMittags parken Sie sicher im Zentrum, um die Kathedrale und das Museum ohne lange Wege in der Kälte zu besuchen.\n\nDer Nachmittag am Senvagė-See bietet die Chance, die Winterbeleuchtung direkt vom Parkplatz aus zu sehen.\n\nBeenden Sie den Tag entspannt, während die Heizung des Autos für wohlige Wärme nach den kurzen Außenbesuchen sorgt.",
+            "hu": "Induljon a fűtött autóval a Vasútmúzeumnál. Az út a havas Panevėžys-en keresztül különösen hangulatos.\n\nDélben parkoljon biztonságosan a központban, hogy a Székesegyházat és a múzeumot hosszas fagyoskodás nélkül érhesse el.\n\nA délután a Senvagė-tónál lehetőséget ad a téli kivilágítás megtekintésére közvetlenül a parkolóból.\n\nZárja a napot pihentetően, élvezve az autó melegét a rövid kinti megállók után.",
+            "ro": "Porniți cu mașina încălzită de la Muzeul Căilor Ferate. Drumul prin Panevėžys înzăpezit este deosebit de atmosferic.\n\nLa prânz, parcați în siguranță în centru pentru a vizita Catedrala și muzeul fără a merge mult prin frig.\n\nDupă-amiaza la lacul Senvagė oferă șansa de a vedea iluminatul de iarnă direct din parcare.\n\nÎncheiați ziua relaxat, în timp ce încălzirea mașinii vă oferă confort după scurtele vizite exterioare.",
+            "en": "Start in a warm car at the Railway Museum. Driving through snowy Panevėžys is particularly atmospheric.\n\nAt noon, park safely in the center to visit the Cathedral and museum without long walks in the cold.\n\nAfternoon at Senvagė Lake gives you a chance to see the winter lighting directly from the parking lot.\n\nEnd the day relaxed, while the car's heater provides cozy warmth after the short outdoor visits."
+          },
+          "stops": [
+            {
+              "name": "Narrow Gauge Railway Museum",
+              "tip_5lang": {
+                "de": "Achten Sie auf ungeräumte Parkplätze am frühen Morgen.",
+                "hu": "Ügyeljen a reggeli le nem takarított parkolókra.",
+                "ro": "Atenție la parcările necurățate de zăpadă dimineața devreme.",
+                "en": "Watch out for unplowed parking spots early in the morning."
+              }
+            },
+            {
+              "name": "Skaistakalnis Park",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig; die Zufahrtsstraßen können glatt sein.",
+                "hu": "Vezessen óvatosan; a bevezető utak jegesek lehetnek.",
+                "ro": "Conduceți cu atenție; drumurile de acces pot fi alunecoase.",
+                "en": "Drive carefully; the access roads can be slippery."
+              }
+            },
+            {
+              "name": "Freedom Square (City Center Cluster)",
+              "tip_5lang": {
+                "de": "Parkhäuser schützen das Auto vor neuem Schneefall.",
+                "hu": "A parkolóházak megvédik az autót az újabb hóeséstől.",
+                "ro": "Parcările supraetajate protejează mașina de ninsorile noi.",
+                "en": "Parking garages protect the car from fresh snowfall."
+              }
+            },
+            {
+              "name": "Cathedral of Christ the King",
+              "tip_5lang": {
+                "de": "Halten Sie Abstand beim Einparken auf verschneiten Flächen.",
+                "hu": "Tartson nagyobb távolságot a havas felületen való parkoláskor.",
+                "ro": "Păstrați distanța când parcați pe suprafețe înzăpezite.",
+                "en": "Keep extra distance when parking on snowy surfaces."
+              }
+            },
+            {
+              "name": "Juozas Miltinis Drama Theatre",
+              "tip_5lang": {
+                "de": "Die Straßen rund um das Theater werden meist gut geräumt.",
+                "hu": "A színház körüli utcákat általában jól takarítják.",
+                "ro": "Străzile din jurul teatrului sunt de obicei bine curățate.",
+                "en": "The streets around the theatre are usually well plowed."
+              }
+            },
+            {
+              "name": "Panevėžys Local Lore Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob Ihr Parkticket im Schnee gut sichtbar ist.",
+                "hu": "Ellenőrizze, hogy a parkolójegye jól látható-e a hóban.",
+                "ro": "Verificați dacă biletul de parcare este vizibil prin zăpadă.",
+                "en": "Check if your parking ticket is clearly visible through the snow."
+              }
+            },
+            {
+              "name": "Senvagė Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Spritzwasser auf den ufernahen Parkplätzen.",
+                "hu": "Vigyázzon a tóparti parkolókban a fagyott felfröccsenő vízre.",
+                "ro": "Atenție la apa înghețată din parcările de lângă mal.",
+                "en": "Watch out for frozen spray in the lakeside parking lots."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Eiskratzer sind im litauischen Winter Pflicht.",
+              "Füllen Sie rechtzeitig frostbeständiges Scheibenwischwasser auf.",
+              "Die Parkplatzmarkierungen sind unter Schnee oft nicht erkennbar.",
+              "Planen Sie morgens Zeit zum Enteisen und Aufwärmen des Autos ein."
+            ],
+            "hu": [
+              "A téli gumi és a jégkaparó kötelező a litván télben.",
+              "Töltse fel időben fagyálló szélvédőmosó folyadékkal a tartályt.",
+              "A parkolóhelyek felfestése hó alatt gyakran nem látható.",
+              "Reggel tervezzen időt az autó jégtelenítésére és bemelegítésére."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și racleta sunt obligatorii în iarna lituaniană.",
+              "Umpleți la timp rezervorul cu lichid de parbriz rezistent la îngheț.",
+              "Marcajele locurilor de parcare nu sunt adesea vizibile sub zăpadă.",
+              "Planificați timp dimineața pentru degivrarea și încălzirea mașinii."
+            ],
+            "en": [
+              "Winter tires and ice scrapers are mandatory in Lithuanian winter.",
+              "Refill your frost-resistant windshield washer fluid in time.",
+              "Parking spot markings are often not visible under snow.",
+              "Plan extra time in the morning for defrosting and warming up the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1542,6 +2124,188 @@
           "Public transport apps can be very helpful in planning your route.",
           "Be aware that buses may run less frequently in the evening."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Freiheitsplatz und nutzen Sie die kurzen Buswege zwischen den Zentren. Die Kathedrale ist gut erreichbar.\n\nMittags bietet das Heimatmuseum eine lange, trockene Pause. Die Haltestelle befindet sich in der Nähe.\n\nNachmittags bringt Sie der Bus zum Eisenbahnmuseum, wo Sie das technische Erbe im Schutz der Gebäude erkunden.\n\nDer Abend endet mit einer entspannten Busfahrt zurück ins Zentrum, während draußen der Regen die Straßen wäscht.",
+            "hu": "Kezdje a Szabadság téren, használja ki a központok közötti rövid buszos utakat. A Székesegyház könnyen elérhető.\n\nDélben a Helytörténeti Múzeum kínál hosszú, száraz pihenőt. A megálló a közelben található.\n\nDélután busszal menjen a Vasútmúzeumhoz, ahol az épületek oltalmában fedezheti fel a technikai örökséget.\n\nAz este pihentető buszozással zárul vissza a központba, miközben kint az eső mossa az utcákat.",
+            "ro": "Începeți în Piața Libertății și folosiți traseele scurte de autobuz între centre. Catedrala este ușor accesibilă.\n\nLa prânz, Muzeul de Istorie Locală oferă o pauză lungă și uscată. Stația se află în apropiere.\n\nDupă-amiaza, luați autobuzul spre Muzeul Căilor Ferate, unde puteți explora patrimoniul tehnic sub protecția clădirilor.\n\nSeara se încheie cu o călătorie relaxantă cu autobuzul înapoi în centru, în timp ce afară ploaia spală străzile.",
+            "en": "Start at Freedom Square and use the short bus routes between the clusters. The Cathedral is easily accessible.\n\nAt noon, the Local Lore Museum offers a long, dry break. The stop is located nearby.\n\nIn the afternoon, take the bus to the Railway Museum, where you can explore technical heritage under the protection of the buildings.\n\nThe evening ends with a relaxed bus ride back to the center while rain washes the streets outside."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square (City Center Cluster)",
+              "tip_5lang": {
+                "de": "Die Haltestellen haben oft kleine Wartehäuschen gegen den Regen.",
+                "hu": "A megállókban gyakran vannak kis várótermek az eső ellen.",
+                "ro": "Stațiile au adesea mici adăposturi împotriva ploii.",
+                "en": "Stops often have small shelters to protect you from the rain."
+              }
+            },
+            {
+              "name": "Cathedral of Christ the King",
+              "tip_5lang": {
+                "de": "Suchen Sie das nächste Wartehäuschen, falls der Bus Verspätung hat.",
+                "hu": "Keressen egy közeli várót, ha a busz késne.",
+                "ro": "Căutați cel mai apropiat adăpost dacă autobuzul întârzie.",
+                "en": "Find the nearest shelter if the bus is delayed."
+              }
+            },
+            {
+              "name": "Drama Theatre & Art Gallery (Culture Cluster)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumseingang als Regenschutz beim Warten.",
+                "hu": "Használja a múzeum bejáratát esővédőként várakozás közben.",
+                "ro": "Folosiți intrarea muzeului ca protecție împotriva ploii în timp ce așteptați.",
+                "en": "Use the museum entrance as rain cover while waiting."
+              }
+            },
+            {
+              "name": "Senvagė Park",
+              "tip_5lang": {
+                "de": "Kürzen Sie den Aufenthalt im Park bei starkem Regen ab.",
+                "hu": "Rövidítse le a parkban tartózkodást erős eső esetén.",
+                "ro": "Scurtați vizita în parc în caz de ploaie torențială.",
+                "en": "Shorten your stay in the park if the rain gets too heavy."
+              }
+            },
+            {
+              "name": "Narrow Gauge Railway Museum (Technical Cluster)",
+              "tip_5lang": {
+                "de": "Die Buslinie hierher verkehrt seltener; prüfen Sie den Fahrplan.",
+                "hu": "Az ide tartó buszjárat ritkábban közlekedik; ellenőrizze a menetrendet.",
+                "ro": "Linia de autobuz către acest loc circulă mai rar; verificați orarul.",
+                "en": "The bus line here runs less frequently; check the timetable."
+              }
+            },
+            {
+              "name": "Panevėžys Local Lore Museum",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Schritte vom Museum entfernt.",
+                "hu": "A megálló mindössze pár lépésre van a múzeumtól.",
+                "ro": "Stația este la doar câțiva pași de muzeu.",
+                "en": "The stop is only a few steps away from the museum."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie eine lokale Transit-App für Echtzeit-Infos herunter.",
+              "Halten Sie Ihr Ticket oder Handy für die Kontrolle trocken.",
+              "Busse sind im Regen oft voller, steigen Sie rechtzeitig ein.",
+              "Die Hauptlinien im Zentrum verkehren in kurzen Abständen."
+            ],
+            "hu": [
+              "Töltsön le egy helyi közlekedési alkalmazást a valós idejű infókért.",
+              "Tartsa szárazon a jegyét vagy a telefonját az ellenőrzéshez.",
+              "A buszok esőben gyakran zsúfoltabbak, szálljon fel időben.",
+              "A központi fővonalak sűrűn közlekednek."
+            ],
+            "ro": [
+              "Descărcați o aplicație de tranzit locală pentru informații în timp real.",
+              "Păstrați biletul sau telefonul uscat pentru control.",
+              "Autobuzele sunt adesea mai pline în ploaie, urcați la timp.",
+              "Liniile principale din centru circulă la intervale scurte."
+            ],
+            "en": [
+              "Download a local transit app for real-time information.",
+              "Keep your ticket or phone dry for inspection.",
+              "Buses are often more crowded in the rain, board early.",
+              "Main lines in the center run at frequent intervals."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Freiheitsplatz und genießen Sie die Wärme im Bus auf dem Weg zur Kathedrale. Die Stadt glänzt im Frost.\n\nMittags ist das Heimatmuseum ein warmer Ankerpunkt, bevor Sie die verschneite technische Route fortsetzen.\n\nDer Nachmittag bringt Sie zum Eisenbahnmuseum; die Busse sind gut beheizt und bieten Komfort bei eisigen Temperaturen.\n\nDer Tag endet mit der Rückfahrt im beleuchteten Bus, während Panevėžys in der frühen Winternacht versinkt.",
+            "hu": "Kezdje a Szabadság téren, és élvezze a busz melegét a Székesegyház felé vezető úton. A város csillog a fagyban.\n\nDélben a Helytörténeti Múzeum egy meleg bázis, mielőtt folytatná a havas technikai útvonalat.\n\nA délután elviszi a Vasútmúzeumhoz; a buszok jól fűtöttek és kényelmet nyújtanak a jeges hidegben.\n\nA nap a kivilágított busszal való visszautazással zárul, ahogy Panevėžys elmerül a korai téli éjszakában.",
+            "ro": "Începeți în Piața Libertății și bucurați-vă de căldura din autobuz în drum spre Catedrală. Orașul strălucește în îngheț.\n\nLa prânz, Muzeul de Istorie Locală este un punct cald de sprijin înainte de a continua traseul tehnic înzăpezit.\n\nDupă-amiaza vă duce la Muzeul Căilor Ferate; autobuzele sunt bine încălzite și oferă confort la temperaturi scăzute.\n\nZiua se încheie cu drumul de întoarcere în autobuzul iluminat, în timp ce Panevėžys se scufundă în noaptea timpurie de iarnă.",
+            "en": "Start at Freedom Square and enjoy the warmth of the bus on the way to the Cathedral. The city shines in the frost.\n\nAt noon, the Local Lore Museum is a warm anchor point before continuing the snowy technical route.\n\nAfternoon takes you to the Railway Museum; the buses are well heated and offer comfort in the icy temperatures.\n\nThe day ends with the return trip in the illuminated bus as Panevėžys sinks into the early winter night."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square (City Center Cluster)",
+              "tip_5lang": {
+                "de": "Warten Sie im Inneren eines Cafés, bis der Bus laut App fast da ist.",
+                "hu": "Várjon egy kávézóban, amíg az alkalmazás szerint a busz majdnem ott van.",
+                "ro": "Așteptați în interiorul unei cafenele până când autobuzul este aproape conform aplicației.",
+                "en": "Wait inside a cafe until the app shows the bus is almost there."
+              }
+            },
+            {
+              "name": "Cathedral of Christ the King",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Haltestelle zur Kirche kann rutschig sein.",
+                "hu": "A megállótól a templomig vezető gyalogút csúúszós lehet.",
+                "ro": "Drumul de la stație la biserică poate fi alunecos.",
+                "en": "The walk from the stop to the church can be slippery."
+              }
+            },
+            {
+              "name": "Drama Theatre & Art Gallery (Culture Cluster)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Busse als Chance zum Aufwärmen.",
+                "hu": "Használja ki a fűtött buszokat a felmelegedésre.",
+                "ro": "Folosiți autobuzele încălzite ca o șansă de a vă încălzi.",
+                "en": "Use the heated buses as a chance to warm up between stops."
+              }
+            },
+            {
+              "name": "Senvagė Park",
+              "tip_5lang": {
+                "de": "Planen Sie kurze Wege zur nächsten Haltestelle ein.",
+                "hu": "Tervezzen rövid utakat a következő megállóig.",
+                "ro": "Planificați trasee scurte până la următoarea stație.",
+                "en": "Plan short routes to the next bus stop to minimize time in the cold."
+              }
+            },
+            {
+              "name": "Narrow Gauge Railway Museum (Technical Cluster)",
+              "tip_5lang": {
+                "de": "Prüfen Sie den letzten Bus zurück ins Zentrum vor Einbruch der Dunkelheit.",
+                "hu": "Ellenőrizze az utolsó buszt vissza a központba sötétedés előtt.",
+                "ro": "Verificați ultimul autobuz înapoi spre centru înainte de lăsarea întunericului.",
+                "en": "Check the last bus back to the center before dark."
+              }
+            },
+            {
+              "name": "Panevėžys Local Lore Museum",
+              "tip_5lang": {
+                "de": "Der Haupteingang ist meist gut gestreut und sicher erreichbar.",
+                "hu": "A főbejárat általában jól szórt és biztonságosan elérhető.",
+                "ro": "Intrarea principală este de obicei bine curățată și accesibilă în siguranță.",
+                "en": "The main entrance is usually well salted and safely accessible."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter in Litauen zuverlässig und gut geheizt.",
+              "Achten Sie auf Glätte an den Haltestellen beim Ein- und Aussteigen.",
+              "Fahrpläne können sich bei starkem Schneefall leicht verzögern.",
+              "Nutzen Sie die Wartezeit in den beheizten Innenräumen der Museen."
+            ],
+            "hu": [
+              "A buszok télen Litvániában megbízhatóak és jól fűtöttek.",
+              "Ügyeljen a csúszósságra a megállókban fel- és leszálláskor.",
+              "A menetrendek erős hóesés esetén kissé késhetnek.",
+              "Használja ki a várakozási időt a múzeumok fűtött belső tereiben."
+            ],
+            "ro": [
+              "Autobuzele sunt fiabile și bine încălzite iarna în Lituania.",
+              "Atenție la polei în stații la urcare și coborâre.",
+              "Orarele pot avea mici întârzieri în caz de ninsoare abundentă.",
+              "Folosiți timpul de așteptare în interioarele încălzite ale muzeelor."
+            ],
+            "en": [
+              "Buses in Lithuania are reliable and well heated in winter.",
+              "Watch out for ice at the stops when boarding and alighting.",
+              "Timetables may be slightly delayed during heavy snowfall.",
+              "Utilize the waiting time in the heated interiors of the museums."
+            ]
+          }
+        }
       }
     }
   }

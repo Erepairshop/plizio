@@ -402,6 +402,206 @@
           "Bring a reusable water bottle; there are public fountains available.",
           "A small umbrella is always a good idea as the weather can be unpredictable."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens glänzen die Pflastersteine am Hauptplatz im Regen. Mittags bietet das MAMUZ einen trockenen Zufluchtsort für Archäologie-Fans. Nachmittags fasziniert das Nitsch Museum mit intensiven Farben unter grauem Himmel. Der Tag endet ruhig am Schloss Mistelbach, während der Nebel über das Weinviertel zieht.",
+            "hu": "Reggel az esőben csillog a főtér kövezete. Délben a MAMUZ múzeum nyújt száraz menedéket az őstörténeti tárlatokkal. Délután a Nitsch Múzeum vörös színei vibrálnak a szürke ég alatt. Az este a ködbe burkolózó Mistelbach kastélynál ér véget, miközben a Weinviertel dombjai elcsendesednek.",
+            "ro": "Dimineața, pavajul din piața centrală strălucește în ploaie. La prânz, muzeul MAMUZ oferă un refugiu uscat pentru fanii arheologiei. După-amiază, culorile intense de la Muzeul Nitsch captivează sub cerul gri. Ziua se încheie liniștit la Castelul Mistelbach, în timp ce ceața se așterne peste regiune.",
+            "en": "In the morning, the main square's cobblestones glisten in the rain. Midday, the MAMUZ museum provides a dry sanctuary for archaeology enthusiasts. In the afternoon, the Nitsch Museum's vibrant colors fascinate under gray skies. The day ends peacefully at Mistelbach Castle as mist settles over the hills."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Main Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden am Rathaus als Regenschutz.",
+                "hu": "Használja a városháza árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele primăriei pentru a vă adăposti de ploaie.",
+                "en": "Use the town hall arcades for shelter from the rain."
+              }
+            },
+            {
+              "name": "Holy Trinity Column",
+              "tip_5lang": {
+                "de": "Ein kurzes Foto genügt, der Platz ist bei Regen rutschig.",
+                "hu": "Egy gyors fotó elég, a tér esőben csúszós lehet.",
+                "ro": "O fotografie rapidă este suficientă, piața este alunecoasă.",
+                "en": "A quick photo is enough; the square is slippery when wet."
+              }
+            },
+            {
+              "name": "Parish Church of St. Martin",
+              "tip_5lang": {
+                "de": "Besichtigen Sie das Innere, um dem Regen zu entkommen.",
+                "hu": "Menjen be a templomba, hogy elmeneküljön az eső elől.",
+                "ro": "Vizitați interiorul pentru a scăpa de ploaie.",
+                "en": "Visit the interior to escape the rain."
+              }
+            },
+            {
+              "name": "MAMUZ Museum Mistelbach",
+              "tip_5lang": {
+                "de": "Perfektes Ziel für lange Regenpausen mit viel Geschichte.",
+                "hu": "Tökéletes célpont hosszú esőszünetre sok történelemmel.",
+                "ro": "Destinație perfectă pentru pauze lungi de ploaie.",
+                "en": "Perfect destination for long rain breaks with history."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre in einem Gasthaus.",
+                "hu": "Élvezze a hangulatos légkört egy helyi vendéglőben.",
+                "ro": "Bucurați-vă de atmosfera primitoare dintr-un han local.",
+                "en": "Enjoy the cozy atmosphere in a local inn."
+              }
+            },
+            {
+              "name": "Hermann Nitsch Museum",
+              "tip_5lang": {
+                "de": "Viel Zeit im Trockenen zwischen moderner Kunst verbringen.",
+                "hu": "Töltsön sok időt szárazon a modern művészetek között.",
+                "ro": "Petreceți timp la adăpost printre opere de artă modernă.",
+                "en": "Spend plenty of time indoors among modern art pieces."
+              }
+            },
+            {
+              "name": "Mistelbach Castle",
+              "tip_5lang": {
+                "de": "Der Parkweg kann bei Regen aufgeweicht sein.",
+                "hu": "Az esőben a kastélypark útja felázhat, vigyázzon.",
+                "ro": "Potecile parcului pot fi noroioase după ploaie.",
+                "en": "The park paths can be muddy after the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist im Weinviertel wegen des Windes wichtig.",
+              "Die Museen MAMUZ und Nitsch sind ideale Rückzugsorte bei Dauerregen.",
+              "Achten Sie auf das glatte Kopfsteinpflaster in der Altstadt.",
+              "Nutzen Sie die gastronomischen Betriebe für Aufwärmpausen."
+            ],
+            "hu": [
+              "A szél miatt érdemes erős esernyőt vinni a Weinviertelbe.",
+              "A MAMUZ és Nitsch múzeumok ideális menedékek tartós esőben.",
+              "Vigyázzon a csúszós macskakövekre az óvárosban.",
+              "Használja a helyi éttermeket a felfrissüléshez és pihenéshez."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este utilă din cauza vântului din regiune.",
+              "Muzeele MAMUZ și Nitsch sunt refugii ideale în caz de ploaie.",
+              "Atenție la pavajul alunecos din centrul vechi.",
+              "Folosiți restaurantele locale pentru pauze de încălzire."
+            ],
+            "en": [
+              "A sturdy umbrella is important due to the wind in Weinviertel.",
+              "The MAMUZ and Nitsch museums are ideal retreats during rain.",
+              "Watch out for slippery cobblestones in the old town.",
+              "Use the local restaurants for warming up and resting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Hauptplatz läutet den Wintertag ein. Mittags wärmt man sich in der St. Martin Kirche oder beim Mittagessen auf. Nachmittags bieten die Museen kulturelle Wärme und tiefe Einblicke. Abends erstrahlt das Schloss Mistelbach im frühen Dämmerlicht der kalten Jahreszeit.",
+            "hu": "Deres reggel köszönti a látogatót a főtéren a téli napon. Délben a Szent Márton templom vagy egy meleg ebéd ad új erőt. Délután a múzeumok kínálnak kulturális feltöltődést a hideg ellen. Este a korai sötétben Mistelbach kastélya ünnepi fényekben pompázik.",
+            "ro": "O dimineață geroasă în piața centrală dă startul zilei de iarnă. La prânz, vă puteți încălzi în biserică sau la o masă caldă. După-amiaza, muzeele oferă căldură culturală și perspective profunde. Seara, Castelul Mistelbach strălucește în amurgul timpuriu.",
+            "en": "A frosty morning on the main square starts the winter day. At midday, warm up in St. Martin's Church or with a hearty lunch. In the afternoon, the museums provide cultural warmth and deep insights. In the evening, Mistelbach Castle glows in the early winter twilight."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Main Square",
+              "tip_5lang": {
+                "de": "Kürzerer Aufenthalt wegen Kälte, Rathaus bietet Windschutz.",
+                "hu": "Rövidebb tartózkodás a hideg miatt, a városháza védett.",
+                "ro": "Scurtă oprire din cauza frigului, primăria oferă adăpost.",
+                "en": "Shorter stay due to the cold; the town hall offers wind cover."
+              }
+            },
+            {
+              "name": "Holy Trinity Column",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, danach schnell ins Warme.",
+                "hu": "Gyors fotómegálló, aztán irány a meleg belső tér.",
+                "ro": "Oprire scurtă pentru poze, apoi mergeți la căldură.",
+                "en": "Quick photo stop, then head quickly indoors for warmth."
+              }
+            },
+            {
+              "name": "Parish Church of St. Martin",
+              "tip_5lang": {
+                "de": "Nutzen Sie den windstillen Kirchenraum für eine Pause.",
+                "hu": "Használja ki a templom szélcsendes terét a pihenésre.",
+                "ro": "Folosiți spațiul ferit de vânt al bisericii pentru repaus.",
+                "en": "Use the calm interior of the church for a short break."
+              }
+            },
+            {
+              "name": "MAMUZ Museum Mistelbach",
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Ausstellungsräume.",
+                "hu": "Élvezze a fűtött kiállítótereket és a gazdag tárlatot.",
+                "ro": "Bucurați-vă de sălile de expoziție bine încălzite.",
+                "en": "Enjoy the well-heated exhibition rooms."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Probieren Sie eine kräftige Suppe aus dem Weinviertel.",
+                "hu": "Kóstoljon meg egy laktató helyi levest a hideg ellen.",
+                "ro": "Încercați o supă consistentă specifică regiunii.",
+                "en": "Try a hearty local soup to stay warm."
+              }
+            },
+            {
+              "name": "Hermann Nitsch Museum",
+              "tip_5lang": {
+                "de": "Ein langer Rundgang im Warmen ist ideal im Winter.",
+                "hu": "Egy hosszú, meleg belső séta ideális a téli napon.",
+                "ro": "Un tur lung la căldură este ideal în timpul iernii.",
+                "en": "A long indoor tour is ideal during the winter day."
+              }
+            },
+            {
+              "name": "Mistelbach Castle",
+              "tip_5lang": {
+                "de": "Frühe Dämmerung sorgt für schöne Beleuchtung im Park.",
+                "hu": "A korai sötétedés miatt szép a kastély díszkivilágítása.",
+                "ro": "Amurgul timpuriu oferă o iluminare frumoasă în parc.",
+                "en": "Early twilight provides beautiful lighting in the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung ist für den Fußweg zwischen den Museen nötig.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Ein Besuch im Museumscafé bietet eine gute Aufwärmmöglichkeit.",
+              "In der Vorweihnachtszeit gibt es oft kleine lokale Märkte."
+            ],
+            "hu": [
+              "A múzeumok közötti sétához réteges, meleg öltözet kell.",
+              "A nap télen már 16:30 körül lenyugszik, tervezzen ezzel.",
+              "A múzeumi kávézó kiváló hely egy meleg italhoz.",
+              "Advent idején gyakran vannak kisebb helyi karácsonyi vásárok."
+            ],
+            "ro": [
+              "Haine groase sunt necesare pentru mersul pe jos.",
+              "Soarele apune deja în jur de ora 16:30 în timpul iernii.",
+              "Vizita la cafeneaua muzeului este o metodă bună de încălzire.",
+              "În perioada Crăciunului, pot exista târguri locale mici."
+            ],
+            "en": [
+              "Warm clothing is necessary for walking between museums.",
+              "The sun sets around 4:30 PM in winter; plan accordingly.",
+              "A visit to the museum cafe is a great way to warm up.",
+              "During Advent, there are often small local Christmas markets."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -822,6 +1022,224 @@
           "Make use of the well-developed bike paths in and around the city.",
           "Plan enough breaks to drink water and enjoy the scenery."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Radtour durch das regnerische Mistelbach beginnt. Mittags bieten die Museen trockene Abwechslung und kulturelle Tiefe. Die Fahrt durch die Weinviertler Landschaft zeigt sich in dramatischem Grau. Der Tag endet sicher im Stadtzentrum nach einer nassen, aber belebenden Runde.",
+            "hu": "Frissítő kerékpártúra indul az esős Mistelbachban. Délben a múzeumok száraz kikapcsolódást és mély kultúrát nyújtanak. A Weinviertel tájai drámai szürke színekben mutatkoznak meg. A nap a városközpontban zárul egy vizes, de élénkítő tekerés után.",
+            "ro": "O tură revigorantă cu bicicleta începe în Mistelbach-ul ploios. La prânz, muzeele oferă o diversitate uscată și profunzime culturală. Peisajul din Weinviertel apare în nuanțe dramatice de gri. Ziua se încheie în centrul orașului după o tură udă, dar energizantă.",
+            "en": "A refreshing bike tour through rainy Mistelbach begins. Midday, the museums offer dry recreation and cultural depth. The Weinviertel landscape shows itself in dramatic gray tones. The day ends safely in the city center after a wet but invigorating ride."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Main Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassen Marktplatz-Steinen.",
+                "hu": "Vigyázzon a leszálláskor a vizes, csúszós főtéren.",
+                "ro": "Atenție la coborârea de pe bicicletă în piața udă.",
+                "en": "Be careful when dismounting on the wet square stones."
+              }
+            },
+            {
+              "name": "Parish Church of St. Martin",
+              "tip_5lang": {
+                "de": "Fahrradständer sind oft ungeschützt, Regenschutz nutzen.",
+                "hu": "A bringatárolók fedetlenek lehetnek, használjon huzatot.",
+                "ro": "Rafturile de biciclete sunt descoperite, folosiți huse.",
+                "en": "Bike racks are often uncovered; use a seat cover."
+              }
+            },
+            {
+              "name": "MAMUZ Museum Mistelbach",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, Kleidung und Ausrüstung zu trocknen.",
+                "hu": "Jó alkalom a ruházat és a felszerelés megszárítására.",
+                "ro": "Oportunitate bună pentru a vă usca hainele și echipamentul.",
+                "en": "Good opportunity to dry your clothes and equipment."
+              }
+            },
+            {
+              "name": "Hermann Nitsch Museum",
+              "tip_5lang": {
+                "de": "Sicheres Parken für Räder direkt beim Museumsbau.",
+                "hu": "Biztonságos parkolás a bringáknak a múzeumnál.",
+                "ro": "Parcare sigură pentru biciclete chiar lângă muzeu.",
+                "en": "Safe parking for bikes right by the museum building."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal mit Sicht auf Ihr abgestelltes Rad.",
+                "hu": "Válasszon helyet, ahonnan látja a lezárt kerékpárját.",
+                "ro": "Alegeți un local de unde vă puteți vedea bicicleta.",
+                "en": "Choose a spot where you can see your parked bike."
+              }
+            },
+            {
+              "name": "Mistelbach Castle",
+              "tip_5lang": {
+                "de": "Parkwege können rutschig sein, Rad schieben empfohlen.",
+                "hu": "A parki utak csúszhatnak, javasolt a kerékpár tolása.",
+                "ro": "Aleile pot fi alunecoase, se recomandă mersul pe lângă.",
+                "en": "Park paths can be slippery; pushing the bike is advised."
+              }
+            },
+            {
+              "name": "Sweden Cave",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schlamm auf den Wegen zur Schwedenhöhle.",
+                "hu": "Vigyázzon a sárral a Svéd-barlanghoz vezető úton.",
+                "ro": "Atenție la noroi pe drumurile către peștera Suedeză.",
+                "en": "Watch out for mud on the paths to the Sweden Cave."
+              }
+            },
+            {
+              "name": "City Hall",
+              "tip_5lang": {
+                "de": "Abschluss der Tour, Zeit für ein warmes Getränk.",
+                "hu": "A túra vége, itt az idő egy forró italra.",
+                "ro": "Finalul turului, e timpul pentru o băutură caldă.",
+                "en": "End of the tour; time for a warm drink."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist für diese Tour unerlässlich.",
+              "Bremsen reagieren auf nassen Wegen im Weinviertel verzögert.",
+              "Nutzen Sie wasserfeste Packtaschen für Ihre Ausrüstung.",
+              "Die Museen bieten meist Schließfächer für nasse Jacken."
+            ],
+            "hu": [
+              "A teljes esőruházat elengedhetetlen ehhez a túrához.",
+              "A fékek nedves úton lassabban fognak, legyen óvatos.",
+              "Használjon vízálló táskákat a felszerelése védelmében.",
+              "A múzeumokban általában vannak szekrények a vizes kabátoknak."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este esențial pentru tur.",
+              "Frânele reacționează mai lent pe drumurile umede.",
+              "Folosiți genți impermeabile pentru echipament.",
+              "Muzeele oferă de obicei dulapuri pentru haine ude."
+            ],
+            "en": [
+              "Full rain gear is essential for this bike tour.",
+              "Brakes react slower on wet roads; please be cautious.",
+              "Use waterproof panniers to protect your equipment.",
+              "Museums usually provide lockers for wet jackets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalte Luft und klare Sicht begleiten die winterliche Radfahrt. Mittags wärmen die kulturellen Schätze in den beheizten Museen Herz und Körper. Die Weinberge liegen schlafend im Frost, während man die Ruhe der Nebensaison genießt. Der Tag endet im Stadtzentrum, wo die warme Gastronomie wartet.",
+            "hu": "Hideg levegő és tiszta kilátás kíséri a téli kerékpározást. Délben a fűtött múzeumok kincsei melengetik a lelket és a testet. A szőlőskertek deres csöndben pihennek a szezonon kívüli nyugalom alatt. A nap a belvárosban zárul, ahol meleg vendéglők várják.",
+            "ro": "Aerul rece și vizibilitatea clară însoțesc tura cu bicicleta. La prânz, comorile din muzeele încălzite încălzesc inima și corpul. Podgoriile se odihnesc sub ger, în liniștea extrasezonului. Ziua se încheie în centrul orașului, unde așteaptă hane calde.",
+            "en": "Cold air and clear views accompany the winter bike ride. Midday, the cultural treasures in heated museums warm the heart and body. The vineyards lie dormant in the frost while you enjoy the off-season peace. The day ends in the city center where warm hospitality awaits."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Main Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Pflastersteinen.",
+                "hu": "Figyeljen a jegesedésre a főtér macskakövein.",
+                "ro": "Atenție la gheața de pe pavajul din piața centrală.",
+                "en": "Watch out for black ice on the cobblestones."
+              }
+            },
+            {
+              "name": "Parish Church of St. Martin",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum für eine kurze Aufwärmpause.",
+                "hu": "Használja a belső teret egy rövid felmelegedéshez.",
+                "ro": "Folosiți interiorul pentru o scurtă pauză de încălzire.",
+                "en": "Use the interior for a short warm-up break."
+              }
+            },
+            {
+              "name": "MAMUZ Museum Mistelbach",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für das Rad im Museumsbereich.",
+                "hu": "Biztonságos kerékpártároló a múzeumi területen.",
+                "ro": "Loc sigur de parcare pentru bicicletă la muzeu.",
+                "en": "Safe bicycle parking area within the museum premises."
+              }
+            },
+            {
+              "name": "Hermann Nitsch Museum",
+              "tip_5lang": {
+                "de": "Lange Besichtigung im Warmen ist sehr angenehm.",
+                "hu": "A hosszú benti nézelődés nagyon kellemes télen.",
+                "ro": "O vizită lungă la căldură este foarte plăcută.",
+                "en": "A long indoor visit is very pleasant in winter."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Kohlenhydrate tanken für die Weiterfahrt in der Kälte.",
+                "hu": "Töltődjön fel szénhidráttal a hidegben való tekeréshez.",
+                "ro": "Reîncărcați-vă cu carbohidrați pentru restul drumului.",
+                "en": "Fuel up with carbohydrates for riding in the cold."
+              }
+            },
+            {
+              "name": "Mistelbach Castle",
+              "tip_5lang": {
+                "de": "Stimmungsvolle Fotos im kahlen Schlosspark möglich.",
+                "hu": "Hangulatos fotók készíthetők a kopár kastélyparkban.",
+                "ro": "Se pot face fotografii atmosferice în parcul desfrunzit.",
+                "en": "Atmospheric photos are possible in the leafless park."
+              }
+            },
+            {
+              "name": "Sweden Cave",
+              "tip_5lang": {
+                "de": "In der Höhle kann es etwas wärmer als draußen sein.",
+                "hu": "A barlangban akár melegebb is lehet, mint kint.",
+                "ro": "În peșteră poate fi puțin mai cald decât afară.",
+                "en": "It might actually be slightly warmer inside the cave."
+              }
+            },
+            {
+              "name": "City Hall",
+              "tip_5lang": {
+                "de": "Die Tour endet im Warmen bei Kultur oder Kaffee.",
+                "hu": "A túra melegben, kultúrával vagy kávéval zárul.",
+                "ro": "Turul se încheie la căldură, cu cultură sau cafea.",
+                "en": "The tour ends indoors with culture or coffee."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Handschuhe sind bei Minusgraden unverzichtbar.",
+              "Der Akku von E-Bikes entlädt sich bei Kälte deutlich schneller.",
+              "Achten Sie auf gestreute Wege im Stadtgebiet.",
+              "Planen Sie mehr Zeit für Aufwärmpausen in Cafés ein."
+            ],
+            "hu": [
+              "A hőszigetelt kesztyű elengedhetetlen fagypont alatt.",
+              "Az elektromos kerékpárok akkuja gyorsabban merül hidegben.",
+              "Figyeljen a sózott utakra a városi területeken.",
+              "Tervezzen több időt a kávézókban való felmelegedésre."
+            ],
+            "ro": [
+              "Mănușile termice sunt indispensabile la temperaturi joase.",
+              "Bateria bicicletelor electrice se descarcă mult mai rapid.",
+              "Atenție la drumurile acoperite cu material antiderapant.",
+              "Planificați mai mult timp pentru pauze de încălzire."
+            ],
+            "en": [
+              "Thermal gloves are indispensable in sub-zero temperatures.",
+              "E-bike batteries drain significantly faster in the cold.",
+              "Watch out for gritted paths in the urban areas.",
+              "Plan more time for warm-up breaks in cafes."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1218,6 +1636,206 @@
           "Plan for some buffer time for traffic, especially in the afternoon.",
           "Consider bringing a cooler box if you plan to buy wine or food directly from the producer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem geht es im Auto durch das verregnete Mistelbach. Parkplätze nahe der Sehenswürdigkeiten minimieren den Kontakt mit dem Wetter. Mittags und nachmittags bieten die Museen trockene Kultur-Highlights. Der Tag endet entspannt mit einer Fahrt durch die neblige Weinviertler Landschaft.",
+            "hu": "Kényelmesen, autóval fedezheti fel az esős Mistelbachot. A látnivalókhoz közeli parkolók minimálisra csökkentik az ázást. Délben és délután a múzeumok száraz kulturális élményeket nyújtanak. A nap pihentetően zárul a Weinviertel ködös tájai között.",
+            "ro": "Explorați Mistelbach-ul ploios confortabil, cu mașina. Parcările din apropierea obiectivelor reduc expunerea la ploaie. La prânz și după-amiază, muzeele oferă puncte culturale uscate. Ziua se încheie relaxat cu o plimbare prin peisajul cețos.",
+            "en": "Explore rainy Mistelbach comfortably by car. Parking spots near the sights minimize contact with the weather. Midday and afternoon, the museums provide dry cultural highlights. The day ends relaxingly with a drive through the misty Weinviertel landscape."
+          },
+          "stops": [
+            {
+              "name": "Parking in the Center & Exploring Cluster 1",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Parkplatz nah an den Arkaden.",
+                "hu": "Válasszon parkolót az árkádok közelében a bejutáshoz.",
+                "ro": "Alegeți o parcare aproape de arcade pentru acces.",
+                "en": "Choose a parking spot close to the arcades for access."
+              }
+            },
+            {
+              "name": "Town Hall and Trinity Column",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang unter dem Regenschirm.",
+                "hu": "Rövid séta az esernyő alatt a főtéren.",
+                "ro": "Scurtă plimbare sub umbrelă în piața centrală.",
+                "en": "Short walk under the umbrella on the main square."
+              }
+            },
+            {
+              "name": "Parish Church of St. Martin",
+              "tip_5lang": {
+                "de": "Parken Sie direkt unterhalb des Kirchenberges.",
+                "hu": "Parkoljon közvetlenül a templomhegy alatti részen.",
+                "ro": "Parcați chiar la baza colinei bisericii.",
+                "en": "Park directly below the church hill for easy access."
+              }
+            },
+            {
+              "name": "MAMUZ Museum Mistelbach",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden, kurzer Weg zum Eingang.",
+                "hu": "Nagy parkoló áll rendelkezésre, közel a bejárat.",
+                "ro": "Parcare mare disponibilă, drum scurt până la intrare.",
+                "en": "Large parking lot available; short walk to the entrance."
+              }
+            },
+            {
+              "name": "Drive to Cluster 2: Hermann Nitsch Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt bei laufender Heizung.",
+                "hu": "Élvezze a rövid autózást a fűtött utastérben.",
+                "ro": "Bucurați-vă de drum cu încălzirea pornită.",
+                "en": "Enjoy the drive with the heater running."
+              }
+            },
+            {
+              "name": "Lunch near the museum",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Restaurant.",
+                "hu": "Parkoljon a lehető legközelebb az étteremhez.",
+                "ro": "Parcați cât mai aproape de restaurant.",
+                "en": "Park as close to the restaurant as possible."
+              }
+            },
+            {
+              "name": "Drive to Mistelbach Castle & Park",
+              "tip_5lang": {
+                "de": "Parken direkt am Schlossplatz minimiert Fußwege.",
+                "hu": "A kastély előtti parkolás lerövidíti a sétát.",
+                "ro": "Parcarea chiar în piața castelului reduce mersul pe jos.",
+                "en": "Parking right at the castle square minimizes walking."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Kurzparkzonen effektiv für schnelle Stopps.",
+              "Die Sichtweite kann bei starkem Regen im Weinviertel sinken.",
+              "Halten Sie Kleingeld für Parkautomaten im Auto bereit.",
+              "Nutzen Sie die Fahrtzeiten, um Kleidung im Auto zu trocknen."
+            ],
+            "hu": [
+              "Használja ki a rövid távú parkolást a gyors megállókhoz.",
+              "A látótávolság erős esőben lecsökkenhet a dombok között.",
+              "Legyen aprópénze a parkolóautomatákhoz az autóban.",
+              "Használja az utazási időt a ruhák megszárítására az autóban."
+            ],
+            "ro": [
+              "Folosiți zonele de parcare pe termen scurt pentru opriri.",
+              "Vizibilitatea poate scădea în timpul ploilor abundente.",
+              "Păstrați mărunțiș în mașină pentru parcometre.",
+              "Folosiți timpul de condus pentru a usca hainele în mașină."
+            ],
+            "en": [
+              "Use short-term parking zones effectively for quick stops.",
+              "Visibility can decrease during heavy rain in the hills.",
+              "Keep some change in the car for parking meters.",
+              "Use the driving time to dry any damp clothes in the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im warmen Auto lässt sich das winterliche Mistelbach ideal erkunden. Die kurzen Wege zwischen Parkplatz und Sehenswürdigkeit schützen vor der Kälte. Mittags und nachmittags taucht man in die beheizte Museumswelt ein. Abends blickt man durch die Fenster auf die beleuchtete Stadt und das Schloss.",
+            "hu": "A fűtött autóban ideálisan fedezhető fel a téli Mistelbach. A parkolók és látnivalók közötti rövid távok védenek a hidegtől. Délben és délután a fűtött múzeumok világában merülhet el. Este az ablakokból csodálhatja meg a kivilágított várost és a kastélyt.",
+            "ro": "Mistelbach-ul hibernal poate fi explorat ideal în mașina caldă. Distanțele scurte de la parcare la obiective vă protejează de frig. La prânz și după-amiază, vă scufundați în lumea muzeelor încălzite. Seara, admirați orașul și castelul iluminat.",
+            "en": "Wintery Mistelbach is ideally explored from a warm car. Short distances between parking and sights protect you from the cold. Midday and afternoon, dive into the heated world of museums. In the evening, enjoy views of the illuminated city and castle from your windows."
+          },
+          "stops": [
+            {
+              "name": "Parking in the Center & Exploring Cluster 1",
+              "tip_5lang": {
+                "de": "Parken Sie zentral für kurze Wege zum Rathaus.",
+                "hu": "Parkoljon központilag a városháza közeli eléréséhez.",
+                "ro": "Parcați central pentru acces rapid la primărie.",
+                "en": "Park centrally for short walking distances to the town hall."
+              }
+            },
+            {
+              "name": "Town Hall and Trinity Column",
+              "tip_5lang": {
+                "de": "Schneller Blick auf den winterlichen Hauptplatz.",
+                "hu": "Gyors pillantás a téli főtérre, majd vissza a kocsiba.",
+                "ro": "O privire rapidă asupra pieței hibernale.",
+                "en": "Quick look at the wintery main square."
+              }
+            },
+            {
+              "name": "Parish Church of St. Martin",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Anfahrt zum steilen Kirchenberg.",
+                "hu": "Vigyázzon a felhajtással a meredek templomhegyre.",
+                "ro": "Atenție la urcarea cu mașina pe colina bisericii.",
+                "en": "Be careful when driving up the steep church hill."
+              }
+            },
+            {
+              "name": "MAMUZ Museum Mistelbach",
+              "tip_5lang": {
+                "de": "Parkplatz ist im Winter meist gut geräumt.",
+                "hu": "A parkolót télen általában jól letakarítják a hótól.",
+                "ro": "Parcarea este de obicei bine deszăpezită iarna.",
+                "en": "The parking lot is usually well-cleared in winter."
+              }
+            },
+            {
+              "name": "Drive to Cluster 2: Hermann Nitsch Museum",
+              "tip_5lang": {
+                "de": "Gute Heizung im Auto sorgt für Wohlbefinden.",
+                "hu": "Az autó fűtése segít megőrizni a jó közérzetet.",
+                "ro": "Încălzirea bună din mașină asigură confortul.",
+                "en": "Good heating in the car ensures your well-being."
+              }
+            },
+            {
+              "name": "Lunch near the museum",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit eigenem Gästeparkplatz.",
+                "hu": "Keressen saját vendégparkolóval rendelkező éttermet.",
+                "ro": "Căutați un restaurant cu parcare proprie.",
+                "en": "Look for a restaurant with its own guest parking."
+              }
+            },
+            {
+              "name": "Drive to Mistelbach Castle & Park",
+              "tip_5lang": {
+                "de": "Beleuchtung am Schloss ist im Winter sehr schön.",
+                "hu": "A kastély kivilágítása télen különösen hangulatos.",
+                "ro": "Iluminatul castelului este foarte frumos iarna.",
+                "en": "The castle lighting is particularly beautiful in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Eiskratzer sind absolut notwendig.",
+              "Achten Sie auf Straßenglätte bei Ortsdurchfahrten.",
+              "Die Parkplatzsuche ist im Winter oft unkomplizierter.",
+              "Nutzen Sie die Sitzheizung für maximale Gemütlichkeit."
+            ],
+            "hu": [
+              "A téli gumi és a jégkaparó feltétlenül szükséges.",
+              "Figyeljen az út jegesedésére a településeken áthaladva.",
+              "Télen a parkolóhely-keresés gyakran egyszerűbb.",
+              "Használja az ülésfűtést a maximális kényelemért."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și racleta sunt absolut necesare.",
+              "Atenție la polei pe drumurile din localitate.",
+              "Găsirea unui loc de parcare este mai simplă iarna.",
+              "Folosiți încălzirea în scaune pentru confort maxim."
+            ],
+            "en": [
+              "Winter tires and an ice scraper are absolutely necessary.",
+              "Watch out for icy roads when driving through the area.",
+              "Finding a parking spot is often easier in winter.",
+              "Use the seat heating for maximum coziness."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1590,6 +2208,188 @@
           "Be at the bus stop on time, especially for less frequent services.",
           "Wave to the bus driver to ensure they stop for you."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn lässt sich Mistelbach auch bei Regen stressfrei erkunden. Die Wartezeiten an den Haltestellen sind kurz und bieten oft Schutz. Mittags und nachmittags verbringt man viel Zeit in den inspirierenden Innenräumen der Museen. Der Tag endet sicher mit einer Busfahrt zurück zum Ausgangspunkt.",
+            "hu": "Busszal és vonattal Mistelbach esőben is stresszmentesen bejárható. A megállókban a várakozási idő rövid és gyakran fedett. Délben és délután a múzeumok inspiráló belső tereiben töltheti idejét. A nap biztonságos buszos visszautazással zárul az indulási ponthoz.",
+            "ro": "Cu autobuzul și trenul, Mistelbach poate fi explorat fără stres chiar și pe ploaie. Timpul de așteptare este scurt și oferă adăpost. La prânz și după-amiază, petreceți timp în interioarele muzeelor. Ziua se încheie în siguranță cu un drum spre punctul de plecare.",
+            "en": "Mistelbach can be explored stress-free by bus and train even in the rain. Waiting times at stops are short and often covered. Midday and afternoon, spend your time in the inspiring interiors of the museums. The day ends safely with a bus ride back to the starting point."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the bus station & walk to the Main Square",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg, Haltestelle bietet Unterstand.",
+                "hu": "Rövid séta, a megálló fedett várakozóhellyel bír.",
+                "ro": "Drum scurt pe jos, stația oferă adăpost.",
+                "en": "Short walk; the bus station provides a shelter."
+              }
+            },
+            {
+              "name": "Parish Church & MAMUZ Museum",
+              "tip_5lang": {
+                "de": "Haltestellen sind in unmittelbarer Nähe zum MAMUZ.",
+                "hu": "A buszmegállók közvetlenül a MAMUZ közelében vannak.",
+                "ro": "Stațiile de autobuz sunt chiar lângă MAMUZ.",
+                "en": "Bus stops are in the immediate vicinity of MAMUZ."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Viele Lokale sind direkt von der Bushaltestelle erreichbar.",
+                "hu": "Sok étterem elérhető közvetlenül a buszmegállótól.",
+                "ro": "Multe localuri sunt accesibile direct din stație.",
+                "en": "Many restaurants are accessible directly from the bus stop."
+              }
+            },
+            {
+              "name": "Bus ride to the Hermann Nitsch Museum",
+              "tip_5lang": {
+                "de": "Bequeme Verbindung, man bleibt trocken.",
+                "hu": "Kényelmes összeköttetés, végig szárazon maradhat.",
+                "ro": "Conexiune confortabilă, rămâneți la adăpost.",
+                "en": "Comfortable connection; you stay dry during the ride."
+              }
+            },
+            {
+              "name": "Bus ride to Mistelbach Castle",
+              "tip_5lang": {
+                "de": "Bus hält nah am Eingangsbereich des Schlosses.",
+                "hu": "A busz közel áll meg a kastély bejáratához.",
+                "ro": "Autobuzul oprește aproape de intrarea castelului.",
+                "en": "The bus stops close to the castle entrance area."
+              }
+            },
+            {
+              "name": "Stroll in the Castle Park",
+              "tip_5lang": {
+                "de": "Halten Sie den Regenschirm für den Parkweg bereit.",
+                "hu": "Készítse elő az esernyőt a parki sétához.",
+                "ro": "Pregătiți umbrela pentru plimbarea prin parc.",
+                "en": "Keep your umbrella ready for the park stroll."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die VOR-App für Echtzeit-Fahrpläne.",
+              "Bahnhöfe und größere Haltestellen sind meist überdacht.",
+              "Tragen Sie wasserfeste Schuhe für die Wege zwischen den Bussen.",
+              "Planen Sie bei starkem Regen Pufferzeiten für Verspätungen ein."
+            ],
+            "hu": [
+              "Használja a VOR appot a valós idejű menetrendekhez.",
+              "A vasútállomások és nagyobb megállók fedettek.",
+              "Viseljen vízálló cipőt a buszok közötti gyalogláshoz.",
+              "Heves esőzéskor tervezzen némi tartalékidőt a késésekre."
+            ],
+            "ro": [
+              "Folosiți aplicația VOR pentru programe în timp real.",
+              "Gările și stațiile mai mari sunt de obicei acoperite.",
+              "Purtați încălțăminte impermeabilă între stații.",
+              "Planificați timp suplimentar în caz de ploi torențiale."
+            ],
+            "en": [
+              "Use the VOR app for real-time transit schedules.",
+              "Train stations and major stops are mostly covered.",
+              "Wear waterproof shoes for walking between buses.",
+              "Plan some buffer time for potential rain-related delays."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Mistelbach lässt sich entspannt mit den öffentlichen Verkehrsmitteln erfahren. Die geheizten Busse bieten eine warme Pause zwischen den Zielen. Mittags und nachmittags locken die Museen mit wohligen Temperaturen und Kultur. Der Tag endet gemütlich mit dem ÖPNV im Stadtzentrum oder am Bahnhof.",
+            "hu": "A téli Mistelbach pihentetően fedezhető fel tömegközlekedéssel. A fűtött buszok meleg pihenőt nyújtanak a célpontok között. Délben és délután a múzeumok hívogatnak kellemes hőmérséklettel. A nap kényelmesen zárul a városközpontban vagy a vasútállomáson.",
+            "ro": "Mistelbach-ul de iarnă poate fi vizitat relaxat cu transportul public. Autobuzele încălzite oferă pauze calde între obiective. La prânz și după-amiază, muzeele atrag cu temperaturi plăcute. Ziua se încheie confortabil în centru sau la gară.",
+            "en": "Wintery Mistelbach can be explored relaxingly via public transport. Heated buses provide warm breaks between destinations. Midday and afternoon, the museums beckon with cozy temperatures and culture. The day ends comfortably in the city center or at the station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the bus station & walk to the Main Square",
+              "tip_5lang": {
+                "de": "Warme Wartehalle am Bahnhof nutzen.",
+                "hu": "Használja a vasútállomás meleg várótermét.",
+                "ro": "Folosiți sala de așteptare încălzită din gară.",
+                "en": "Use the warm waiting hall at the train station."
+              }
+            },
+            {
+              "name": "Parish Church & MAMUZ Museum",
+              "tip_5lang": {
+                "de": "Museumsbesuch ist ideal, um sich aufzuwärmen.",
+                "hu": "A múzeumlátogatás ideális a felmelegedéshez.",
+                "ro": "Vizita la muzeu este ideală pentru a vă încălzi.",
+                "en": "A museum visit is ideal for warming up."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Busse verkehren regelmäßig vom Zentrum zum Bahnhof.",
+                "hu": "A buszok rendszeresen járnak a központ és az állomás közt.",
+                "ro": "Autobuzele circulă regulat între centru și gară.",
+                "en": "Buses run regularly between the center and the station."
+              }
+            },
+            {
+              "name": "Bus ride to the Hermann Nitsch Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verschneite Stadt.",
+                "hu": "Élvezze a kilátást a havas városra a fűtött buszból.",
+                "ro": "Admirați orașul înzăpezit din autobuzul încălzit.",
+                "en": "Enjoy the view of the snowy city from the heated bus."
+              }
+            },
+            {
+              "name": "Bus ride to Mistelbach Castle",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Haltestelle zum Schlosstor.",
+                "hu": "Rövid séta a megállótól a kastélykapuig.",
+                "ro": "Drum scurt de la stație până la poarta castelului.",
+                "en": "Short walk from the bus stop to the castle gate."
+              }
+            },
+            {
+              "name": "Stroll in the Castle Park",
+              "tip_5lang": {
+                "de": "Frühe Rückfahrt planen, bevor es dunkel wird.",
+                "hu": "Tervezze meg a visszautat, mielőtt besötétedik.",
+                "ro": "Planificați întoarcerea înainte de a se întuneca.",
+                "en": "Plan your return trip before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "An Wochenenden können Busse seltener verkehren.",
+              "Die VOR-Züge zum Hauptbahnhof sind gut geheizt.",
+              "Halten Sie sich bei Kälte in den Bahnhofsgebäuden auf.",
+              "Ein Heißgetränk am Bahnhof verkürzt die Wartezeit."
+            ],
+            "hu": [
+              "Hétvégén a buszok ritkábban járhatnak, ellenőrizze.",
+              "A főpályaudvarra tartó VOR vonatok jól fűtöttek.",
+              "Hidegben várakozzon az állomásépületekben.",
+              "Egy forró ital az állomáson lerövidíti a várakozást."
+            ],
+            "ro": [
+              "În weekend, autobuzele pot circula mai rar.",
+              "Trenurile VOR către gara centrală sunt bine încălzite.",
+              "Stați în clădirea gării pe timp de ger.",
+              "O băutură caldă în gară face așteptarea mai ușoară."
+            ],
+            "en": [
+              "Buses may run less frequently on weekends; check ahead.",
+              "The VOR trains to the main station are well-heated.",
+              "Stay inside station buildings during extreme cold.",
+              "A hot drink at the station makes the wait feel shorter."
+            ]
+          }
+        }
       }
     }
   }

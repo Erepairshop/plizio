@@ -356,6 +356,192 @@
           "Don't forget your camera; the views of Lisbon are unbeatable.",
           "Many waterfront restaurants close for the afternoon, so plan accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am regnerischen Tejo-Ufer. Im Cais do Ginjal finden Sie unter den Markisen der alten Lagerhäuser Schutz. Mittags bietet der Boca do Vento Lift eine trockene Fahrt nach Almada Velha. Nachmittags erkunden wir die Innenräume der Casa da Cerca und das beeindruckende Schiffsmuseum Fragata. Abends genießen wir den Blick auf das nasse Lissabon bei einem Glas Wein.",
+            "hu": "A nap az esős Tejo-parton indul. A Cais do Ginjal régi raktárépületeinek ereszei alatt találsz menedéket. Délben a Boca do Vento lift szárazon visz fel Almada óvárosába. Délután a Casa da Cerca galériáit és a Fragata hajómúzeum fedett részeit fedezzük fel. Este a vizes Lisszabon fényeit csodáljuk egy hangulatos beltéri étteremből.",
+            "ro": "Ziua începe pe malul ploios al fluviului Tejo. La Cais do Ginjal, găsiți adăpost sub copertinele vechilor depozite. La prânz, liftul Boca do Vento oferă o urcare uscată spre Almada Velha. După-amiaza explorăm galeriile interioare de la Casa da Cerca și nava-muzeu Fragata. Seara admirăm luminile Lisabonei reflectate în apă dintr-un restaurant primitor.",
+            "en": "The day starts on the rainy banks of the Tagus. At Cais do Ginjal, find shelter under the eaves of old warehouses. At noon, the Boca do Vento elevator provides a dry trip up to Almada Velha. Afternoon is spent exploring the indoor galleries of Casa da Cerca and the historic Fragata ship. In the evening, enjoy the misty views of Lisbon from a cozy indoor spot."
+          },
+          "stops": [
+            {
+              "name": "Start at Cais do Ginjal",
+              "tip_5lang": {
+                "de": "Vorsicht bei Pfützen auf dem Kopfsteinpflaster; nutzen Sie die Vordächer der Cafés.",
+                "hu": "Vigyázz a tócsákra a macskaköveken; használd a kávézók előtetőit menedékként.",
+                "ro": "Atenție la bălțile de pe pavaj; folosiți copertinele cafenelelor pentru adăpost.",
+                "en": "Watch out for puddles on the cobblestones; use café awnings for temporary shelter."
+              }
+            },
+            {
+              "name": "Elevador da Boca do Vento",
+              "tip_5lang": {
+                "de": "Die gläserne Kabine hält Sie trocken, während Sie 50 Meter in die Höhe gleiten.",
+                "hu": "Az üvegkabin szárazon tart, miközben 50 méter magasba repít.",
+                "ro": "Cabina de sticlă vă protejează de ploaie în timp ce urcați 50 de metri.",
+                "en": "The glass cabin keeps you dry while ascending 50 meters above the river level."
+              }
+            },
+            {
+              "name": "Casa da Cerca - Centre for Contemporary Art",
+              "tip_5lang": {
+                "de": "Perfekter Rückzugsort; besuchen Sie die Ausstellungen im Inneren des Palastes.",
+                "hu": "Tökéletes menedék; nézd meg a palota belső kiállításait az eső elől.",
+                "ro": "Refugiu perfect; vizitați expozițiile din interiorul palatului pentru a sta la uscat.",
+                "en": "Perfect retreat; visit the indoor exhibitions inside the palace to stay dry."
+              }
+            },
+            {
+              "name": "Lunch break by the river",
+              "coords": [
+                -9.151,
+                38.6855
+              ],
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Panoramafenstern zum verregneten Tejo.",
+                "hu": "Válassz panorámaablakos éttermet az esős Tejo látványával.",
+                "ro": "Alegeți un restaurant cu ferestre mari pentru a vedea fluviul Tejo pe ploaie.",
+                "en": "Choose a restaurant with large windows to enjoy the rainy Tagus view indoors."
+              }
+            },
+            {
+              "name": "Fragata D. Fernando II e Glória",
+              "tip_5lang": {
+                "de": "Das Unterdeck bietet faszinierende Einblicke und kompletten Regenschutz.",
+                "hu": "Az alsó fedélzet lenyűgöző látnivalókat és teljes esővédelmet nyújt.",
+                "ro": "Puntea inferioară oferă detalii fascinante și protecție completă contra ploii.",
+                "en": "The lower deck provides fascinating insights and total protection from the rain."
+              }
+            },
+            {
+              "name": "Relaxation at Jardim do Rio",
+              "tip_5lang": {
+                "de": "Ein kurzer Blick genügt bei Regen; ziehen Sie das nahegelegene Café vor.",
+                "hu": "Esőben csak egy gyors pillantás; válaszd inkább a közeli kávézót.",
+                "ro": "O privire scurtă e suficientă pe ploaie; preferați cafeneaua din apropiere.",
+                "en": "A quick look is enough in the rain; prefer the nearby café for a longer stay."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster im Cais do Ginjal.",
+              "Nutzen Sie die Casa da Cerca als längeren Aufenthalt bei starken Güssen.",
+              "Regenschirme können bei starkem Wind am Fluss problematisch sein; Regenjacken sind besser.",
+              "Die Fragata bietet im Inneren viel Platz zum Unterstellen."
+            ],
+            "hu": [
+              "Viselj vízálló cipőt a Cais do Ginjal macskaköves szakaszain.",
+              "Használd a Casa da Cerca épületét hosszabb pihenőre nagy felhőszakadáskor.",
+              "Az esernyő a folyóparti szélben veszélyes lehet; a vízálló kabát praktikusabb.",
+              "A Fragata belseje tágas és teljesen védett az esőtől."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru pavajul de la Cais do Ginjal.",
+              "Folosiți Casa da Cerca pentru o pauză mai lungă în caz de aversă puternică.",
+              "Umbrelele pot fi greu de controlat pe vânt; o pelerină de ploaie este mai utilă.",
+              "Interiorul fregatei oferă mult spațiu protejat de intemperii."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone sections at Cais do Ginjal.",
+              "Use Casa da Cerca for a longer stay during heavy downpours.",
+              "Umbrellas can be tricky with river winds; a raincoat is often more practical.",
+              "The Fragata's lower decks offer plenty of sheltered space to explore."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen ist die Luft am Tejo frisch und belebend. Der Spaziergang am Cais do Ginjal führt an ruhigen Kais vorbei. Mittags wärmt uns die tiefstehende Sonne im Garten der Casa da Cerca. Nachmittags besichtigen wir die historische Fragata, bevor die Dämmerung früh einsetzt. Den Abend lassen wir bei einem heißen Getränk mit Blick auf das beleuchtete Lissabon ausklingen.",
+            "hu": "Egy tiszta téli reggelen a levegő friss és élénkítő a Tejo partján. A Cais do Ginjal mentén tett séta a csendes rakpartokon vezet keresztül. Délben az alacsonyan járó nap melenget a Casa da Cerca kertjében. Délután megnézzük a történelmi Fragatát, mielőtt korán leszáll az alkony. Az estét egy forró itallal zárjuk, csodálva a kivilágított Lisszabont.",
+            "ro": "Într-o dimineață senină de iarnă, aerul de pe Tejo este proaspăt și revigorant. Plimbarea pe Cais do Ginjal trece pe lângă debarcadere liniștite. La prânz, soarele blând ne încălzește în grădina de la Casa da Cerca. După-amiaza vizităm fregata istorică înainte de asfințitul timpuriu. Încheiem seara cu o băutură caldă, admirând Lisabona iluminată.",
+            "en": "On a clear winter morning, the air by the Tagus is crisp and invigorating. The walk along Cais do Ginjal leads past quiet quays. At noon, the low winter sun warms us in the garden of Casa da Cerca. In the afternoon, we visit the historic Fragata before an early sunset. We end the evening with a hot drink, admiring the illuminated skyline of Lisbon."
+          },
+          "stops": [
+            {
+              "name": "Start at Cais do Ginjal",
+              "tip_5lang": {
+                "de": "Kleiden Sie sich in Schichten; der Wind vom Fluss kann im Winter kühl sein.",
+                "hu": "Öltözz rétegesen; a folyó felőli szél télen hűvös lehet.",
+                "ro": "Îmbrăcați-vă în straturi; vântul de pe fluviu poate fi rece iarna.",
+                "en": "Dress in layers; the river breeze can be quite chilly in winter."
+              }
+            },
+            {
+              "name": "Elevador da Boca do Vento",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Fernsicht auf Lissabon, die oft nur im Winter so scharf ist.",
+                "hu": "Élvezd a tiszta kilátást Lisszabonra, ami télen gyakran a legélesebb.",
+                "ro": "Bucurați-vă de vizibilitatea clară asupra Lisabonei, tipică zilelor senine de iarnă.",
+                "en": "Enjoy the clear views of Lisbon, which are often at their sharpest in winter."
+              }
+            },
+            {
+              "name": "Casa da Cerca - Centre for Contemporary Art",
+              "tip_5lang": {
+                "de": "Der botanische Garten 'O Chão das Artes' ist auch im Winter sehenswert.",
+                "hu": "Az 'O Chão das Artes' botanikus kert télen is érdekes látvány.",
+                "ro": "Grădina botanică 'O Chão das Artes' merită vizitată chiar și în timpul iernii.",
+                "en": "The 'O Chão das Artes' botanical garden remains interesting even in winter."
+              }
+            },
+            {
+              "name": "Lunch break by the river",
+              "tip_5lang": {
+                "de": "Probieren Sie eine warme Caldo Verde Suppe zur Stärkung.",
+                "hu": "Kóstolj meg egy meleg Caldo Verde levest az energiaért.",
+                "ro": "Încercați o supă caldă Caldo Verde pentru a vă încălzi.",
+                "en": "Try a warm Caldo Verde soup to warm up during your break."
+              }
+            },
+            {
+              "name": "Fragata D. Fernando II e Glória",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Schiff frühzeitig, da es im Winter eher schließt.",
+                "hu": "Látogasd meg a hajót korán, mert télen hamarabb zárhat.",
+                "ro": "Vizitați nava devreme, deoarece programul de iarnă poate fi mai scurt.",
+                "en": "Visit the ship early, as winter closing times may be earlier than usual."
+              }
+            },
+            {
+              "name": "Relaxation at Jardim do Rio",
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:30 Uhr hierher, um den Sonnenuntergang über dem Tejo zu sehen.",
+                "hu": "Érkezz 17:30 előtt, hogy lásd a naplementét a Tejo felett.",
+                "ro": "Ajungeți înainte de 17:30 pentru a vedea apusul peste fluviul Tejo.",
+                "en": "Arrive before 17:30 to catch the winter sunset over the Tagus river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 17:30 Uhr unter; planen Sie Ihre Fotos entsprechend.",
+              "Ein Schal schützt vor der kühlen Brise am Flussufer.",
+              "Die Cafés in Cacilhas sind im Winter weniger überlaufen.",
+              "Nutzen Sie die Mittagssonne für einen Spaziergang im Freien."
+            ],
+            "hu": [
+              "A nap 17:30 körül nyugszik; tervezd a fotózást ehhez mérten.",
+              "Egy sál megvéd a hűvös folyóparti széltől.",
+              "Cacilhas kávézói télen sokkal kevésbé zsúfoltak.",
+              "Használd ki a déli napsütést a szabadtéri sétákhoz."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 17:30; planificați fotografiile din timp.",
+              "O eșarfă vă va proteja de briza rece de pe malul fluviului.",
+              "Cafenelele din Cacilhas sunt mult mai puțin aglomerate iarna.",
+              "Profitați de soarele de la prânz pentru plimbările în aer liber."
+            ],
+            "en": [
+              "Sunset is around 17:30; plan your photo opportunities accordingly.",
+              "A scarf will protect you from the cool winter breeze by the river.",
+              "Cafés in Cacilhas are much less crowded during the winter months.",
+              "Make the most of the midday sun for your outdoor activities."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +892,188 @@
           "Carry plenty of water, especially on warm days.",
           "Check the opening hours of attractions before you set off."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist Almada mit dem Rad ein Erlebnis. Wir starten am Cais do Ginjal, wo wir vorsichtig über das nasse Pflaster gleiten. Nach dem Besuch der Fragata führt der Weg zum Parque da Paz, dessen grüne Wege bei Regen besonders intensiv duften. Mittags stärken wir uns in der Stadt, bevor wir zur Casa da Cerca radeln. Der Tag endet mit einer kühlen, aber erfrischenden Fahrt zurück zum Fluss.",
+            "hu": "Az eső ellenére Almada kerékpárral is élmény. A Cais do Ginjaltól indulunk, óvatosan haladva a vizes köveken. A Fragata után a Parque da Paz felé vesszük az irányt, ahol az esőben intenzívebbek az illatok. Délben a városban pihenünk, majd a Casa da Cercához tekerünk. A nap egy hűvös, de frissítő gurulással zárul vissza a folyóhoz.",
+            "ro": "În ciuda ploii, explorarea Almadei pe bicicletă este o aventură. Pornim de la Cais do Ginjal, pedalând cu grijă pe pavajul umed. După Fragata, mergem spre Parque da Paz, unde mirosul pinilor e mai intens pe ploaie. La prânz ne odihnim în oraș, apoi urcăm spre Casa da Cerca. Ziua se încheie cu o coborâre răcoroasă dar revigorantă spre fluviu.",
+            "en": "Despite the rain, cycling in Almada is an adventure. We start at Cais do Ginjal, moving carefully over wet stones. After the Fragata museum, we head to Parque da Paz, where the rain intensifies the scents of nature. Lunch is spent in the city center, followed by a climb to Casa da Cerca. The day ends with a cool but refreshing ride back to the riverbank."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Cais do Ginjal",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Bremsen vor der Abfahrt; nasser Asphalt ist rutschig.",
+                "hu": "Indulás előtt ellenőrizd a fékeket; a vizes aszfalt csúszós.",
+                "ro": "Verificați frânele înainte de plecare; asfaltul umed este alunecos.",
+                "en": "Check your brakes before starting; wet asphalt and stones can be slippery."
+              }
+            },
+            {
+              "name": "Fragata D. Fernando II e Glória",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im überdachten Bereich nahe dem Eingang.",
+                "hu": "Parkold a biciklit a bejárat közeli fedett részen.",
+                "ro": "Parcați bicicleta în zona acoperită de lângă intrare.",
+                "en": "Park your bike in the sheltered area near the museum entrance."
+              }
+            },
+            {
+              "name": "Parque da Paz (Peace Park)",
+              "tip_5lang": {
+                "de": "Fahren Sie auf den asphaltierten Hauptwegen, um Matsch zu vermeiden.",
+                "hu": "Maradj az aszfaltozott főutakon, hogy elkerüld a sarat.",
+                "ro": "Rămâneți pe aleile principale asfaltate pentru a evita noroiul.",
+                "en": "Stick to the main paved paths to avoid muddy sections in the park."
+              }
+            },
+            {
+              "name": "Lunch in Central Almada",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit Fahrradständern in Sichtweite.",
+                "hu": "Keress olyan éttermet, ahol rálátsz a bringatárolóra.",
+                "ro": "Căutați un restaurant unde puteți supraveghea parcarea bicicletelor.",
+                "en": "Find a restaurant where you can keep an eye on your bike from inside."
+              }
+            },
+            {
+              "name": "Casa da Cerca",
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Regen anstrengender; schalten Sie in einen leichten Gang.",
+                "hu": "Esőben nehezebb az emelkedő; válts könnyű fokozatba.",
+                "ro": "Urcarea e mai grea pe ploaie; folosiți o treaptă de viteză inferioară.",
+                "en": "The climb is tougher in the rain; switch to a lower gear for the ascent."
+              }
+            },
+            {
+              "name": "Return to Cais do Ginjal for sunset",
+              "tip_5lang": {
+                "de": "Schalten Sie das Licht frühzeitig ein; die Sicht am Fluss sinkt bei Regen.",
+                "hu": "Kapcsold be a lámpákat korán; esőben rosszabb a látótávolság.",
+                "ro": "Aprindeți luminile din timp; vizibilitatea scade pe ploaie lângă râu.",
+                "en": "Turn on your lights early; visibility by the river drops during rainfall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie abrupte Bremsmanöver auf nassem Kopfsteinpflaster.",
+              "Eine wasserfeste Satteltasche schützt Ihre Wertsachen.",
+              "Nutzen Sie die Metro do Sul do Tejo, falls der Regen zu stark wird.",
+              "Tragen Sie eine Neon-Regenjacke für bessere Sichtbarkeit im Verkehr."
+            ],
+            "hu": [
+              "Kerüld a hirtelen fékezést a vizes macskaköveken.",
+              "Egy vízálló nyeregtáska megvédi az értékeidet.",
+              "Használd a Metro do Sul do Tejo-t, ha túl intenzívvé válik az eső.",
+              "Viselj fényvisszaverő esőkabátot a jobb láthatóságért."
+            ],
+            "ro": [
+              "Evitați frânările bruște pe pavajul umed.",
+              "O geantă de bicicletă impermeabilă vă va proteja lucrurile de preț.",
+              "Folosiți Metro do Sul do Tejo dacă ploaia devine prea puternică.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate sporită."
+            ],
+            "en": [
+              "Avoid sudden braking on wet cobblestones and tram tracks.",
+              "A waterproof pannier or seat bag will keep your valuables dry.",
+              "You can take your bike on the Metro do Sul do Tejo if the rain is too heavy.",
+              "Wear high-visibility rain gear to be safer in city traffic."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Almada profitiert von der milden Sonne. Wir starten am Cais do Ginjal, wo die Luft kristallklar ist. Nach der Fragata bietet der Parque da Paz weite, sonnige Flächen zum Fahren. Mittags genießen wir die Wärme in der Stadt, bevor wir zur Casa da Cerca aufsteigen. Der Tag endet mit einem spektakulären, frühen Sonnenuntergang, den wir vom Radweg am Tejo aus bewundern.",
+            "hu": "A téli biciklizés Almadában a lágy napsütésnek köszönhetően remek. A Cais do Ginjaltól indulunk, ahol a levegő kristálytiszta. A Fragata után a Parque da Paz tágas, napos útjain tekerünk. Délben a városban töltődünk fel, majd felkapaszkodunk a Casa da Cercához. A nap egy látványos, korai naplementével zárul, amit a Tejo melletti kerékpárútról nézünk végig.",
+            "ro": "Pedalarea iarna în Almada profită de soarele blând. Pornim de la Cais do Ginjal, unde aerul este extrem de clar. După Fragata, Parque da Paz oferă alei însorite perfecte pentru pedalat. La prânz ne bucurăm de căldura orașului, apoi urcăm spre Casa da Cerca. Ziua se încheie cu un apus spectaculos văzut de pe pista de biciclete de lângă fluviu.",
+            "en": "Winter cycling in Almada is pleasant thanks to the mild Portuguese sun. We start at Cais do Ginjal where the air is crystal clear. After the Fragata museum, Parque da Paz offers wide, sunny paths for riding. At noon, we enjoy the warmth in the city before the climb to Casa da Cerca. The day ends with a spectacular early sunset viewed from the Tagus bike path."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Cais do Ginjal",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; die Griffe können morgens sehr kalt sein.",
+                "hu": "Viselj kesztyűt; a kormány reggel nagyon hideg lehet.",
+                "ro": "Purtați mănuși; mânerele bicicletelei pot fi foarte reci dimineața.",
+                "en": "Wear gloves; the handlebars can be quite cold in the early morning."
+              }
+            },
+            {
+              "name": "Fragata D. Fernando II e Glória",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Morgenstunden, wenn das Licht auf dem Holzdeck am schönsten ist.",
+                "hu": "Használd ki a reggeli órákat, amikor a legszebb a fény a fapadlón.",
+                "ro": "Profitați de orele dimineții, când lumina pe puntea de lemn este superbă.",
+                "en": "Take advantage of the morning hours when the light on the wooden deck is best."
+              }
+            },
+            {
+              "name": "Parque da Paz (Peace Park)",
+              "tip_5lang": {
+                "de": "Die offenen Wiesen sind ideal, um im Winter Vitamin D zu tanken.",
+                "hu": "A nyitott gyepek ideálisak a téli D-vitamin gyűjtéséhez.",
+                "ro": "Pajiștile deschise sunt ideale pentru a absorbi vitamina D iarna.",
+                "en": "The open meadows are ideal for soaking up some winter Vitamin D."
+              }
+            },
+            {
+              "name": "Lunch in Central Almada",
+              "tip_5lang": {
+                "de": "Setzen Sie sich nach draußen, falls die Wintersonne kräftig genug ist.",
+                "hu": "Ülj ki a teraszra, ha a téli nap elég erősen süt.",
+                "ro": "Stați la o terasă exterioară dacă soarele de iarnă este destul de puternic.",
+                "en": "Sit outside if the winter sun is strong enough for a comfortable meal."
+              }
+            },
+            {
+              "name": "Casa da Cerca",
+              "tip_5lang": {
+                "de": "Der Garten bietet im Winter einen windgeschützten Blick auf Lissabon.",
+                "hu": "A kert télen szélvédett kilátást nyújt Lisszabonra.",
+                "ro": "Grădina oferă iarna o priveliște spre Lisabona, fiind protejată de vânt.",
+                "en": "The garden offers a wind-sheltered spot to view Lisbon in winter."
+              }
+            },
+            {
+              "name": "Return to Cais do Ginjal for sunset",
+              "tip_5lang": {
+                "de": "Achtung: Um 18:00 Uhr ist es bereits dunkel; prüfen Sie Ihre Reflektoren.",
+                "hu": "Figyelem: 18:00-kor már sötét van; ellenőrizd a prizmákat.",
+                "ro": "Atenție: la ora 18:00 este deja întuneric; verificați elementele reflectorizante.",
+                "en": "Note: It's dark by 18:00; make sure your reflectors and lights are working."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine winddichte Weste für die Fahrten am Flussufer.",
+              "Die Wintersonne steht tief; eine Sonnenbrille ist beim Radeln wichtig.",
+              "Prüfen Sie den Reifendruck; kalte Luft kann ihn leicht verringern.",
+              "Genießen Sie die Ruhe; im Winter sind deutlich weniger Radfahrer unterwegs."
+            ],
+            "hu": [
+              "Viselj szélálló mellényt a folyóparti tekeréshez.",
+              "A téli nap alacsonyan jár; a napszemüveg fontos biciklizés közben.",
+              "Ellenőrizd a guminyomást; a hideg levegő miatt csökkenhet.",
+              "Élvezd a nyugalmat; télen sokkal kevesebb a bringás az utakon."
+            ],
+            "ro": [
+              "Purtați o vestă rezistentă la vânt pentru porțiunile de lângă fluviu.",
+              "Soarele de iarnă este jos; ochelarii de soare sunt importanți la pedalat.",
+              "Verificați presiunea în pneuri; aerul rece o poate reduce ușor.",
+              "Bucurați-vă de liniște; sunt mult mai puțini bicicliști iarna."
+            ],
+            "en": [
+              "Wear a windproof vest for the rides along the riverfront.",
+              "The winter sun is low; sunglasses are essential while cycling.",
+              "Check your tire pressure; cold air can slightly decrease it.",
+              "Enjoy the quiet; there are significantly fewer cyclists in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1079,6 +1447,206 @@
           "Be aware that some smaller streets can be very narrow.",
           "A GPS is essential for navigating between the different clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Almada bei Regen ganz entspannt. Wir starten am Cristo Rei, wo die Aussicht trotz Nebel mystisch wirkt. Danach geht es trocken zur Casa da Cerca und zum Mittagessen ans Tejo-Ufer. Nachmittags besuchen wir das barocke Solar dos Zagallos, ein perfekter Ort für Regentage. Der Tag endet mit einem Abendessen bei herrlicher Aussicht auf das nächtliche, glänzende Lissabon.",
+            "hu": "Autóval kényelmesen fedezzük fel Almada kincseit esőben is. A Cristo Reinél kezdünk, ahol a köd misztikus hangulatot áraszt. Szárazon jutunk el a Casa da Cercához, majd ebédelni a Tejo-partra. Délután a barokk Solar dos Zagallos belső tereit járjuk be, ami tökéletes esős napokra. A napot egy csodás vacsorával zárjuk, nézve az éjszakai, fénylő Lisszabont.",
+            "ro": "Cu mașina explorăm Almada în mod relaxat, indiferent de ploaie. Începem la Cristo Rei, unde priveliștea este mistică prin ceață. Ajungem uscați la Casa da Cerca și apoi la prânz pe malul fluviului. După-amiaza vizităm barocul Solar dos Zagallos, ideal pentru zilele ploioase. Ziua se încheie cu o cină cu vedere spre Lisabona care strălucește în noapte.",
+            "en": "By car, we explore Almada's gems comfortably despite the rain. We start at Cristo Rei, where the mist creates a mystical atmosphere. Stay dry while moving between Casa da Cerca and our riverside lunch. In the afternoon, we visit the baroque Solar dos Zagallos, a perfect indoor spot for rainy days. The day ends with dinner and a view of the glittering nighttime Lisbon."
+          },
+          "stops": [
+            {
+              "name": "Santuário do Cristo Rei",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Denkmal; bei starkem Regen ist der Aufstieg zur Plattform gesperrt.",
+                "hu": "Parkolj közvetlenül az emlékműnél; erős esőben a kilátóteraszt lezárhatják.",
+                "ro": "Parcați chiar lângă monument; platforma superioară poate fi închisă pe ploaie grea.",
+                "en": "Park right by the monument; the top viewing platform may close during heavy rain."
+              }
+            },
+            {
+              "name": "Park in Almada Velha & Casa da Cerca",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Parque do Castelo' für trockenen Zugang zur Altstadt.",
+                "hu": "Használd a 'Parque do Castelo' parkolóházat a száraz bejutáshoz az óvárosba.",
+                "ro": "Folosiți parcarea 'Parque do Castelo' pentru acces uscat în centrul vechi.",
+                "en": "Use the 'Parque do Castelo' parking garage for dry access to the old town."
+              }
+            },
+            {
+              "name": "Elevador da Boca do Vento",
+              "tip_5lang": {
+                "de": "Parken Sie oben und fahren Sie nur für das Foto kurz hinunter.",
+                "hu": "Parkolj fent, és csak a fotó kedvéért menj le a lifttel.",
+                "ro": "Parcați sus și coborâți cu liftul doar pentru câteva fotografii.",
+                "en": "Park at the top and only take the elevator down briefly for photos."
+              }
+            },
+            {
+              "name": "Lunch at Cais do Ginjal",
+              "tip_5lang": {
+                "de": "Die Zufahrt ist eng und bei Regen rutschig; parken Sie lieber in Cacilhas.",
+                "hu": "Az út szűk és esőben csúszós; érdemesebb Cacilhasban parkolni.",
+                "ro": "Drumul e îngust și alunecos pe ploaie; e mai bine să parcați în Cacilhas.",
+                "en": "The access road is narrow and slippery in rain; parking in Cacilhas is easier."
+              }
+            },
+            {
+              "name": "Solar dos Zagallos",
+              "tip_5lang": {
+                "de": "Genießen Sie die prachtvollen Kapellen und Säle im Inneren des Herrenhauses.",
+                "hu": "Élvezd a kúria belső kápolnáit és díszes termeit.",
+                "ro": "Vizitați capelele și sălile splendide din interiorul conacului.",
+                "en": "Enjoy the magnificent chapels and halls inside the manor house."
+              }
+            },
+            {
+              "name": "Parque da Paz (Peace Park)",
+              "tip_5lang": {
+                "de": "Ein Drive-through entlang der Parkgrenze bietet auch schöne Ausblicke.",
+                "hu": "Egy autós kör a park mentén is szép kilátást nyújt.",
+                "ro": "O plimbare cu mașina pe lângă marginea parcului oferă vederi frumoase.",
+                "en": "A slow drive along the park's edge also offers nice green views."
+              }
+            },
+            {
+              "name": "Dinner with a view",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Tiefgarage für maximalen Komfort.",
+                "hu": "Válassz mélygarázsos éttermet a maximális kényelemért.",
+                "ro": "Alegeți un restaurant cu parcare subterană pentru confort maxim.",
+                "en": "Choose a restaurant with underground parking for maximum convenience."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Brücke 25 de Abril.",
+              "Die Parkplatzsuche in Almada Velha ist bei Regen entspannter.",
+              "Nutzen Sie die Wisch-Automatik; der Tejo-Nebel kann die Sicht trüben.",
+              "Solar dos Zagallos bietet kostenlose Parkplätze direkt am Eingang."
+            ],
+            "hu": [
+              "Vigyázz a vízátfolyásokra az Április 25. hídon.",
+              "Almada óvárosában esőben könnyebb parkolót találni.",
+              "Használd az automata ablaktörlőt; a Tejo ködje rontja a látást.",
+              "A Solar dos Zagallos ingyenes parkolást kínál közvetlenül a bejáratnál."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe Podul 25 Aprilie.",
+              "Găsirea unui loc de parcare în Almada Velha este mai ușoară pe ploaie.",
+              "Folosiți ștergătoarele automate; ceața de pe Tejo poate reduce vizibilitatea.",
+              "Solar dos Zagallos oferă parcare gratuită chiar la intrare."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the 25 de Abril Bridge.",
+              "Finding parking in Almada Velha is usually easier when it rains.",
+              "Use automatic wipers; Tagus mist can quickly cloud the windshield.",
+              "Solar dos Zagallos has free parking right at the main entrance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Tour mit dem Auto durch Almada ist voller klarer Ausblicke. Wir starten am Cristo Rei unter strahlend blauem Himmel. Über Almada Velha geht es zum Mittagessen am Fluss, wo die Wintersonne die Terrassen wärmt. Nachmittags besuchen wir das elegante Solar dos Zagallos und genießen die Ruhe im Parque da Paz. Der Tag endet mit einer Fahrt zu einem Aussichtspunkt für den frühen, goldenen Sonnenuntergang.",
+            "hu": "Egy téli autós túra Almadában tele van tiszta kilátópontokkal. A Cristo Reinél kezdünk a ragyogó kék ég alatt. Almada óvárosán át jutunk el a folyóparti ebédhez, ahol a téli nap melengeti a teraszokat. Délután az elegáns Solar dos Zagallost látogatjuk meg, és élvezzük a Parque da Paz nyugalmát. A nap egy autós kilátópontnál zárul a korai, aranyló naplementével.",
+            "ro": "Un tur de iarnă cu mașina prin Almada oferă priveliști extrem de clare. Începem la Cristo Rei sub un cer albastru strălucitor. Trecem prin Almada Velha spre prânzul de pe malul fluviului. După-amiaza vizităm elegantul Solar dos Zagallos și ne bucurăm de liniștea din Parque da Paz. Ziua se încheie cu un drum spre un punct de belvedere pentru apusul auriu.",
+            "en": "A winter car tour through Almada is full of crystal-clear panoramas. We start at Cristo Rei under a bright blue sky. Drive through Almada Velha to a riverside lunch where the winter sun warms the terraces. In the afternoon, we visit the elegant Solar dos Zagallos and enjoy the peace of Parque da Paz. The day ends at a viewpoint for the early, golden sunset over the Atlantic."
+          },
+          "stops": [
+            {
+              "name": "Santuário do Cristo Rei",
+              "tip_5lang": {
+                "de": "Im Winter ist es oben windig; lassen Sie die Jacke im Auto, bis Sie aussteigen.",
+                "hu": "Télen fent fúj a szél; hagyd a kabátot a kocsiban, amíg ki nem szállsz.",
+                "ro": "Iarna bate vântul sus; lăsați jacheta în mașină până în momentul debarcării.",
+                "en": "It's windy at the top in winter; keep your coat in the car until you step out."
+              }
+            },
+            {
+              "name": "Park in Almada Velha & Casa da Cerca",
+              "tip_5lang": {
+                "de": "Die Parkplätze im Freien sind im Winter oft sonnig und angenehm.",
+                "hu": "A szabadtéri parkolók télen gyakran naposak és kellemesek.",
+                "ro": "Parcările în aer liber sunt adesea însorite și plăcute iarna.",
+                "en": "Outdoor parking spots are often sunny and pleasant during winter days."
+              }
+            },
+            {
+              "name": "Elevador da Boca do Vento",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Lift für den schnellen Wechsel zwischen den Klimazonen Fluss/Stadt.",
+                "hu": "Használd a liftet a gyors váltáshoz a folyóparti és városi klíma között.",
+                "ro": "Folosiți liftul pentru o tranziție rapidă între malul fluviului și oraș.",
+                "en": "Use the elevator for a quick transition between the river and city levels."
+              }
+            },
+            {
+              "name": "Lunch at Cais do Ginjal",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe der Restaurants, um den kalten Wind am Kai zu meiden.",
+                "hu": "Parkolj az éttermek közelében, hogy elkerüld a hideg szelet a mólón.",
+                "ro": "Parcați aproape de restaurante pentru a evita vântul rece de pe chei.",
+                "en": "Park close to the restaurants to minimize walking in the cold river wind."
+              }
+            },
+            {
+              "name": "Solar dos Zagallos",
+              "tip_5lang": {
+                "de": "Die Gärten sind auch im Winter gepflegt und laden zum kurzen Gehen ein.",
+                "hu": "A kertek télen is gondozottak, hívogatnak egy rövid sétára.",
+                "ro": "Grădinile sunt îngrijite și iarna, fiind perfecte pentru o scurtă plimbare.",
+                "en": "The gardens remain well-kept in winter, perfect for a short stroll."
+              }
+            },
+            {
+              "name": "Parque da Paz (Peace Park)",
+              "tip_5lang": {
+                "de": "Das Licht am späten Nachmittag färbt den See im Park wunderbar golden.",
+                "hu": "A késő délutáni fények csodás arany színűre festik a park tavát.",
+                "ro": "Lumina de după-amiază colorează lacul din parc în nuanțe aurii superbe.",
+                "en": "Late afternoon light paints the park's lake in beautiful golden hues."
+              }
+            },
+            {
+              "name": "Dinner with a view",
+              "tip_5lang": {
+                "de": "Buchen Sie einen Tisch am Fenster; die Lichter Lissabons sind im Winter klarer.",
+                "hu": "Foglalj ablak melletti asztalt; Lisszabon fényei télen tisztábbak.",
+                "ro": "Rezervați o masă la fereastră; luminile Lisabonei sunt mai clare iarna.",
+                "en": "Book a window table; Lisbon's city lights appear sharper in the winter air."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Sitzheizung nach dem Besuch des windigen Cristo Rei.",
+              "Die Parkgebühren in Almada sind im Winter oft niedriger oder entfallen.",
+              "Vermeiden Sie Fahrten zur Rushhour über die Brücke (08:00-10:00 & 17:00-19:00).",
+              "Die klare Winterluft sorgt für exzellente Sicht beim Fahren."
+            ],
+            "hu": [
+              "Használd az ülésfűtést a szeles Cristo Rei látogatása után.",
+              "Almadában a parkolási díjak télen néha alacsonyabbak.",
+              "Kerüld a csúcsforgalmat a hídon (08:00-10:00 és 17:00-19:00).",
+              "A tiszta téli levegő kiváló látási viszonyokat biztosít vezetés közben."
+            ],
+            "ro": [
+              "Folosiți încălzirea în scaune după vizita la Cristo Rei.",
+              "Taxele de parcare în Almada pot fi mai mici sau inexistente iarna.",
+              "Evitați orele de vârf pe pod (08:00-10:00 și 17:00-19:00).",
+              "Aerul curat de iarnă asigură o vizibilitate excelentă la volan."
+            ],
+            "en": [
+              "Turn on the seat heating after visiting the windy Cristo Rei monument.",
+              "Parking fees in Almada are sometimes lower or waived in the off-season.",
+              "Avoid rush hour traffic on the bridge (08:00-10:00 and 17:00-19:00).",
+              "The crisp winter air provides excellent visibility for scenic driving."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1429,6 +1997,188 @@
           "The ferry is the quickest and most scenic way to cross the river.",
           "Be prepared for some waiting at bus stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Fähre und Bus erkunden wir Almada regengeschützt. Nach der Ankunft in Cacilhas führt ein kurzer Weg zum Cais do Ginjal. Den Mittag verbringen wir im Trockenen in Cacilhas, bevor der Bus uns zum Cristo Rei und zur Casa da Cerca bringt. Die überdachten Haltestellen und die warme Fähre machen den Tag angenehm. Abends kehren wir mit Blick auf das verregnete, leuchtende Lissabon zurück.",
+            "hu": "Komppal és busszal esővédett módon fedezzük fel Almadát. Cacilhasba érkezés után egy rövid séta vezet a Cais do Ginjalhoz. A délutánt Cacilhasban töltjük, majd busszal megyünk a Cristo Reihez és a Casa da Cercához. A fedett megállók és a meleg komp kényelmessé teszik a napot. Este az esős, de fényárban úszó Lisszabon látványával térünk vissza.",
+            "ro": "Explorăm Almada cu feribotul și autobuzul, protejați de ploaie. După sosirea în Cacilhas, facem o scurtă plimbare la Cais do Ginjal. Prânzul îl luăm în Cacilhas, apoi autobuzul ne duce la Cristo Rei și Casa da Cerca. Stațiile acoperite și feribotul încălzit fac ziua plăcută. Seara ne întoarcem admirând Lisabona luminată prin ploaie.",
+            "en": "By ferry and bus, we explore Almada while staying mostly dry. After arriving in Cacilhas, a short walk leads to Cais do Ginjal. Spend lunch in the dry comfort of Cacilhas before taking the bus to Cristo Rei and Casa da Cerca. Sheltered stops and the warm ferry make the day comfortable. The evening concludes with a view of rainy, glowing Lisbon from the water."
+          },
+          "stops": [
+            {
+              "name": "Ferry Arrival in Cacilhas & walk to Cais do Ginjal",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf der Fähre im Innenbereich, um trocken anzukommen.",
+                "hu": "Maradj a komp belső terében, hogy szárazon érkezz meg.",
+                "ro": "Stați în interiorul feribotului pentru a ajunge uscați la destinație.",
+                "en": "Stay in the indoor seating area of the ferry to arrive dry."
+              }
+            },
+            {
+              "name": "Elevador da Boca do Vento & Jardim do Rio",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle oben am Lift ist überdacht.",
+                "hu": "A lift felső kijáratánál lévő buszmegálló fedett.",
+                "ro": "Stația de autobuz de lângă lift este acoperită.",
+                "en": "The bus stop near the top of the elevator is sheltered."
+              }
+            },
+            {
+              "name": "Lunch in Cacilhas",
+              "tip_5lang": {
+                "de": "Viele Restaurants liegen direkt am Terminal; ideal bei starkem Regen.",
+                "hu": "Sok étterem közvetlenül a terminálnál van; ideális szakadó esőben.",
+                "ro": "Multe restaurante sunt chiar lângă terminal; ideal în caz de ploaie torențială.",
+                "en": "Many restaurants are right by the terminal, perfect for heavy rain."
+              }
+            },
+            {
+              "name": "Bus to Cristo Rei",
+              "tip_5lang": {
+                "de": "Die Linie 3001 bringt Sie direkt vom Terminal zum Denkmal.",
+                "hu": "A 3001-es járat közvetlenül a termináltól visz az emlékműhöz.",
+                "ro": "Linia 3001 vă duce direct de la terminal la monument.",
+                "en": "Bus line 3001 takes you directly from the terminal to the monument."
+              }
+            },
+            {
+              "name": "Bus to Casa da Cerca",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Carris Metropolitana App für Echtzeit-Infos bei Regen.",
+                "hu": "Használd a Carris Metropolitana appot a valós idejű infókért esőben.",
+                "ro": "Folosiți aplicația Carris Metropolitana pentru informații în timp real.",
+                "en": "Use the Carris Metropolitana app for real-time bus info during rain."
+              }
+            },
+            {
+              "name": "Walk back to the ferry",
+              "tip_5lang": {
+                "de": "Der Weg durch die Rua de Cândido dos Reis bietet viele Unterstellmöglichkeiten.",
+                "hu": "A Rua de Cândido dos Reis mentén sok helyre be lehet húzódni.",
+                "ro": "Traseul prin Rua de Cândido dos Reis are multe locuri de adăpost.",
+                "en": "The route via Rua de Cândido dos Reis offers many places to take cover."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Fähren verkehren bei Regen nach Plan, können aber schwanken.",
+              "Kaufen Sie eine 'Navegante'-Karte im Voraus, um Schlangen im Regen zu meiden.",
+              "Die Busse in Almada sind im Winter gut beheizt.",
+              "Das Terminal in Cacilhas bietet Schutz vor Wind und Wetter."
+            ],
+            "hu": [
+              "A kompok esőben is menetrend szerint járnak, de jobban himbálózhatnak.",
+              "Vegyél 'Navegante' kártyát előre, hogy elkerüld a sorban állást az esőben.",
+              "Az almada-i buszok télen jól fűtöttek.",
+              "A cacilhas-i terminál védelmet nyújt a szél és az eső ellen."
+            ],
+            "ro": [
+              "Feriboturile circulă conform orarului pe ploaie, dar pot avea tangaj mai mare.",
+              "Cumpărați cardul 'Navegante' în avans pentru a evita cozile prin ploaie.",
+              "Autobuzele din Almada sunt bine încălzite iarna.",
+              "Terminalul din Cacilhas oferă adăpost bun contra vântului și ploii."
+            ],
+            "en": [
+              "Ferries run on schedule during rain, though the crossing might be choppier.",
+              "Buy a 'Navegante' card in advance to avoid ticket machine queues in the rain.",
+              "Buses in Almada are well-heated and comfortable in winter.",
+              "The Cacilhas ferry terminal provides good shelter from the elements."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Almada mit öffentlichen Verkehrsmitteln bietet klare Sicht und Komfort. Wir starten mit der Fähre über den blauen Tejo. Ein kurzer Spaziergang führt uns zum winterlich-ruhigen Cais do Ginjal. Mittags genießen wir die Sonne in Cacilhas, bevor wir per Bus zum Cristo Rei und zur Casa da Cerca fahren. Die kühle Brise auf der Fähre wird durch die warme Wintersonne ausgeglichen. Abends genießen wir die Lichter der Stadt während der Überfahrt.",
+            "hu": "A téli Almada tömegközlekedéssel tiszta kilátást és kényelmet nyújt. A kék Tejo felett komppal indulunk. Egy rövid séta vezet a téli nyugalmú Cais do Ginjalhoz. Délben Cacilhasban élvezzük a napsütést, majd busszal megyünk a Cristo Reihez és a Casa da Cercához. A hűvös szellőt a kompon ellensúlyozza a meleg téli nap. Este a város fényeit csodáljuk az átkelés alatt.",
+            "ro": "Almada iarna cu transportul public oferă vizibilitate clară și confort. Începem cu feribotul peste Tejo-ul albastru. O scurtă plimbare ne duce la liniștitul Cais do Ginjal. La prânz ne bucurăm de soare în Cacilhas, apoi luăm autobuzul spre Cristo Rei și Casa da Cerca. Briza rece de pe feribot e compensată de soarele blând. Seara admirăm luminile orașului în timpul traversării.",
+            "en": "Exploring winter Almada by transit offers clear views and cozy convenience. We start with a ferry ride across the deep blue Tagus. A short walk leads to the quiet winter quays of Cais do Ginjal. Enjoy the sun in Cacilhas for lunch before busing to Cristo Rei and Casa da Cerca. The crisp ferry breeze is balanced by the warm winter sun. End the day watching the city lights during the return crossing."
+          },
+          "stops": [
+            {
+              "name": "Ferry Arrival in Cacilhas & walk to Cais do Ginjal",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick vom Außendeck; die Winterluft ist herrlich klar.",
+                "hu": "Élvezd a kilátást a külső fedélzetről; a téli levegő csodásan tiszta.",
+                "ro": "Bucurați-vă de vedere de pe puntea exterioară; aerul e foarte curat.",
+                "en": "Enjoy the view from the outer deck; the winter air is wonderfully crisp."
+              }
+            },
+            {
+              "name": "Elevador da Boca do Vento & Jardim do Rio",
+              "tip_5lang": {
+                "de": "Die klare Wintersonne macht diesen Ort zum perfekten Fotospot.",
+                "hu": "A tiszta téli napsütés tökéletes fotóhelyszínné teszi ezt a pontot.",
+                "ro": "Soarele clar de iarnă face din acest loc un punct foto perfect.",
+                "en": "The clear winter sun makes this a perfect spot for photography."
+              }
+            },
+            {
+              "name": "Lunch in Cacilhas",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz an der Sonne, um die Mittagswärme zu nutzen.",
+                "hu": "Keress egy napos helyet, hogy kihasználd a déli meleget.",
+                "ro": "Căutați un loc la soare pentru a profita de căldura de la prânz.",
+                "en": "Find a sunny outdoor table to make the most of the midday warmth."
+              }
+            },
+            {
+              "name": "Bus to Cristo Rei",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan; Busse fahren eventuell seltener.",
+                "hu": "Ellenőrizd a téli menetrendet; a buszok ritkábban járhatnak.",
+                "ro": "Verificați orarul de iarnă; autobuzele pot circula mai rar.",
+                "en": "Check the winter schedule; buses might run less frequently than in summer."
+              }
+            },
+            {
+              "name": "Bus to Casa da Cerca",
+              "tip_5lang": {
+                "de": "Die Fahrt bietet tolle Ausblicke auf das winterliche Almada.",
+                "hu": "Az utazás remek kilátást nyújt a téli Almadára.",
+                "ro": "Călătoria oferă vederi superbe asupra Almadei în haine de iarnă.",
+                "en": "The bus ride offers great views of Almada in the clear winter light."
+              }
+            },
+            {
+              "name": "Walk back to the ferry",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang gegen 17:30 Uhr ist vom Fähranleger aus magisch.",
+                "hu": "A 17:30 körüli naplemente a kompállomásról nézve varázslatos.",
+                "ro": "Apusul de la ora 17:30 este magic văzut de la debarcader.",
+                "en": "The sunset around 17:30 is magical when viewed from the ferry pier."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Fähren von Cais do Sodré fahren alle 15-20 Minuten.",
+              "Tragen Sie eine Sonnenbrille; die Reflexion auf dem Tejo ist im Winter stark.",
+              "Das Tagesticket 'Zapping' ist die flexibelste Option für Bus und Fähre.",
+              "Wintertage sind oft windstill, was die Fährüberfahrt sehr ruhig macht."
+            ],
+            "hu": [
+              "A kompok Cais do Sodré-ból 15-20 percenként indulnak.",
+              "Viselj napszemüveget; a Tejo tükröződése télen is erős.",
+              "A 'Zapping' napijegy a legrugalmasabb opció buszra és kompra.",
+              "A téli napok gyakran szélcsendesek, így a kompozás nagyon sima."
+            ],
+            "ro": [
+              "Feriboturile de la Cais do Sodré pleacă la fiecare 15-20 minute.",
+              "Purtați ochelari de soare; reflexia soarelui în Tejo e puternică iarna.",
+              "Biletul de o zi 'Zapping' este cea mai flexibilă opțiune pentru transport.",
+              "Zilele de iarnă sunt adesea fără vânt, făcând traversarea foarte lină."
+            ],
+            "en": [
+              "Ferries from Cais do Sodré depart every 15-20 minutes.",
+              "Wear sunglasses; the sun's reflection on the Tagus is strong in winter.",
+              "A 'Zapping' pre-paid card is the most flexible option for bus and ferry.",
+              "Winter days are often calm, making for a very smooth ferry crossing."
+            ]
+          }
+        }
       }
     }
   }

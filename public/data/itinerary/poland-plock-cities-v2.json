@@ -358,6 +358,206 @@
           "Most attractions are within walking distance, so plan for a full day of it.",
           "Check the opening hours for museums as they are often closed on Mondays."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am regnerischen Alten Markt mit einem Schirm und flüchten Sie in die Kathedrale. Mittags bieten das Diözesan- und das Jugendstilmuseum trockene Zuflucht. Nachmittags wärmt ein lokales Mittagessen, bevor Sie den nebligen Weichselblick genießen. Der Abend endet an der beleuchteten Brücke.",
+            "hu": "Kezdje a reggelt a régi piactéren egy esernyővel, majd húzódjon be a katedrálisba. Délben a múzeumok nyújtanak száraz menedéket a kultúra kedvelőinek. Délután egy meleg ebéd várja az óvárosban, ahonnan párás kilátás nyílik a Visztulára. Az estét a kivilágított hídnál zárhatja.",
+            "ro": "Începeți dimineața în Piața Veche cu o umbrelă, apoi refugiați-vă în catedrală. La prânz, muzeele oferă un adăpost uscat excelent. După-amiaza, savurați un prânz cald și o vedere cețoasă asupra râului Vistula. Seara se încheie la podul iluminat.",
+            "en": "Start at the rainy Old Town Market with an umbrella, then seek shelter in the Cathedral. Midday is perfect for exploring the dry and warm museums. In the afternoon, enjoy a cozy lunch and misty views of the Vistula. The evening concludes at the glowing Solidarity Bridge."
+          },
+          "stops": [
+            {
+              "name": "Old Town Market",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassen Pflastersteinen.",
+                "hu": "Vigyázzon a csúszós macskaköveken.",
+                "ro": "Atenție la pietrele cubice alunecoase.",
+                "en": "Careful on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Płock Cathedral",
+              "tip_5lang": {
+                "de": "Perfekter Zufluchtsort vor dem Regen.",
+                "hu": "Tökéletes menedék a heves esőzés elől.",
+                "ro": "Un refugiu perfect de ploaie.",
+                "en": "A perfect shelter from the heavy rain."
+              }
+            },
+            {
+              "name": "Diocesan Museum",
+              "tip_5lang": {
+                "de": "Garderobe für nasse Jacken vorhanden.",
+                "hu": "Van ruhatár a vizes kabátoknak.",
+                "ro": "Există garderobă pentru hainele ude.",
+                "en": "Cloakroom available for wet jackets."
+              }
+            },
+            {
+              "name": "Art Nouveau Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Kunst im Trockenen.",
+                "hu": "Élvezze a művészetet szárazon.",
+                "ro": "Bucurați-vă de artă la adăpost.",
+                "en": "Enjoy the beautiful art while staying dry."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einer polnischen Suppe auf.",
+                "hu": "Melegedjen fel egy forró lengyel levessel.",
+                "ro": "Încălziți-vă cu o supă tradițională poloneză.",
+                "en": "Warm up with a hot traditional Polish soup."
+              }
+            },
+            {
+              "name": "Vistula River Promenade",
+              "tip_5lang": {
+                "de": "Bei Regen oft windig, Mütze aufsetzen.",
+                "hu": "Esőben gyakran szeles, vigyen sapkát.",
+                "ro": "Deseori vântos pe ploaie, purtați o căciulă.",
+                "en": "Often windy during rain, wear a hat."
+              }
+            },
+            {
+              "name": "Solidarity Bridge",
+              "tip_5lang": {
+                "de": "Schöne Spiegelungen auf dem nassen Asphalt.",
+                "hu": "Szép tükröződések a vizes aszfalton.",
+                "ro": "Reflexii frumoase pe asfaltul umed.",
+                "en": "Beautiful reflections on the wet asphalt."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da der Wind an der Weichsel stark sein kann.",
+              "Die Pflastersteine in der Altstadt werden bei Nässe sehr rutschig.",
+              "Nutzen Sie die Museen für längere Aufenthalte während der Schauer.",
+              "Viele Cafés bieten wärmende Getränke an, perfekt für Pausen."
+            ],
+            "hu": [
+              "Vigyen erős esernyőt, mert a Visztula mentén erős lehet a szél.",
+              "Az óvárosi macskakövek esőben nagyon csúszóssá válnak.",
+              "Használja ki a múzeumokat a nagyobb záporok idején.",
+              "Több kávézó kínál forró italokat, amelyek ideálisak a szünetekhez."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, vântul poate fi puternic pe malul Vistulei.",
+              "Pietrele cubice din Centrul Vechi devin foarte alunecoase la umezeală.",
+              "Folosiți muzeele pentru adăpost în timpul averselor.",
+              "Multe cafenele oferă băuturi calde, perfecte pentru pauze."
+            ],
+            "en": [
+              "Bring a sturdy umbrella as the wind by the Vistula can be strong.",
+              "The cobblestones in the Old Town get very slippery when wet.",
+              "Use the museums for longer stays during heavy showers.",
+              "Many cafes offer warming drinks, perfect for cozy breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Alten Markt und führt in die wärmende Kathedrale. Mittags bieten die Museen eine kulturelle und warme Zuflucht. Nachmittags genießen Sie ein herzhaftes Essen und den Blick auf die verschneite Weichsel. Der Abend bricht früh herein und beleuchtet die Brücke.",
+            "hu": "A fagyos reggel a Piactéren indul, majd a meleg katedrálisban folytatódik. Délben a múzeumok nyújtanak kulturális és meleg menedéket. Délután egy kiadós ebéd után élvezze a havas Visztula látványát. Az este korán érkezik, kivilágítva a hidat.",
+            "ro": "O dimineață geroasă începe în Piața Veche și duce spre catedrala caldă. La prânz, muzeele oferă un refugiu cultural. După-amiaza, savurați o masă copioasă și priveliștea Vistulei înzăpezite. Seara vine devreme, luminând frumos podul.",
+            "en": "A frosty morning starts at the Market Square and leads into the warming Cathedral. Midday, the museums offer a cultural and warm refuge. In the afternoon, enjoy a hearty meal and views of the snow-covered Vistula. Evening falls early, beautifully illuminating the bridge."
+          },
+          "stops": [
+            {
+              "name": "Old Town Market",
+              "tip_5lang": {
+                "de": "Kleiden Sie sich warm für den frostigen Wind.",
+                "hu": "Öltözzön melegen a fagyos szél ellen.",
+                "ro": "Îmbrăcați-vă gros pentru vântul geros.",
+                "en": "Dress warmly against the frosty wind."
+              }
+            },
+            {
+              "name": "Płock Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Inneren.",
+                "hu": "Melegedjen fel a fűtött belső térben.",
+                "ro": "Încălziți-vă în interiorul încălzit.",
+                "en": "Warm up in the heated interior."
+              }
+            },
+            {
+              "name": "Diocesan Museum",
+              "tip_5lang": {
+                "de": "Ideal, um sich richtig aufzuwärmen.",
+                "hu": "Ideális hely az alapos felmelegedéshez.",
+                "ro": "Loc ideal pentru a vă încălzi bine.",
+                "en": "An ideal place to thoroughly warm up."
+              }
+            },
+            {
+              "name": "Art Nouveau Museum",
+              "tip_5lang": {
+                "de": "Schöne Kunst im gemütlich Warmen.",
+                "hu": "Gyönyörű művészet barátságos melegben.",
+                "ro": "Artă frumoasă la căldură.",
+                "en": "Beautiful art in a cozy, warm environment."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Ein heißes polnisches Gericht tut jetzt gut.",
+                "hu": "Egy forró lengyel étel most nagyon jól esik.",
+                "ro": "O mâncare fierbinte pică bine acum.",
+                "en": "A hot Polish dish is perfect right now."
+              }
+            },
+            {
+              "name": "Vistula River Promenade",
+              "tip_5lang": {
+                "de": "Der Wind vom Fluss ist eisig.",
+                "hu": "A folyó felől fújó szél jéghideg.",
+                "ro": "Vântul de pe râu este extrem de rece.",
+                "en": "The wind off the river is freezing."
+              }
+            },
+            {
+              "name": "Solidarity Bridge",
+              "tip_5lang": {
+                "de": "Tolles Fotomotiv im frühen Sonnenuntergang.",
+                "hu": "Remek fotótéma a korai naplementében.",
+                "ro": "Oportunitate foto la apusul timpuriu.",
+                "en": "Great photo spot during the early sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ziehen Sie sich im Zwiebellook an, um sich an die Innentemperaturen anzupassen.",
+              "Im Winter geht die Sonne bereits gegen 15:30 Uhr unter.",
+              "Der Wind von der Weichsel kann die gefühlte Temperatur stark senken.",
+              "Auf den Wegen nahe des Flusses kann es glatt werden."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, hogy alkalmazkodni tudjon a belső hőmérsékletekhez.",
+              "Télen a nap már 15:30 körül lenyugszik.",
+              "A Visztula felől fújó szél erősen csökkentheti a hőérzetet.",
+              "A folyóhoz közeli utakon jegesedés fordulhat elő."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru a vă adapta la temperaturile interioare.",
+              "Iarna, soarele apune încă de la ora 15:30.",
+              "Vântul de pe Vistula poate scădea mult temperatura resimțită.",
+              "Cărările din apropierea râului pot fi înghețate și alunecoase."
+            ],
+            "en": [
+              "Dress in layers to adjust easily to indoor heating.",
+              "In winter, the sun sets around 3:30 PM, so plan daylight activities early.",
+              "The wind from the Vistula can significantly lower the feels-like temperature.",
+              "Paths near the river can become icy and slippery."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -1050,6 +1250,224 @@
           "Be mindful of speed limits and parking regulations.",
           "A GPS is essential for navigating between the different clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie trocken zum Sanktuarium, bevor Sie das Rathaus und die Basilika besichtigen. Mittags geht es kurz zum nebligen Aussichtspunkt und dann zu einem gemütlichen Essen. Nachmittags parken Sie nahe der historischen Speicher. Der Zoo-Besuch wird mit Schirm absolviert, bevor die Fahrt an der Brücke endet.",
+            "hu": "Vezessen szárazon a Szentélyhez, majd látogassa meg a Városházát és a Bazilikát. Délben tegyen egy rövid kitérőt a párás kilátóhoz, utána következik egy kellemes ebéd. Délután parkoljon a Magtárak közelében. Az állatkertet esernyővel járja be, majd a hídnál ér véget az út.",
+            "ro": "Conduceți la adăpost spre Sanctuar, apoi vizitați Primăria și Bazilica. La prânz, o oprire scurtă la punctul de belvedere cețos, urmată de un prânz cald. După-amiaza, parcați aproape de Hambare. Vizitați zoo cu umbrela, apoi încheiați la pod.",
+            "en": "Drive dryly to the Sanctuary before visiting the Town Hall and Basilica. Midday includes a short stop at the misty viewpoint and a cozy lunch. In the afternoon, park near the historic Granaries. The zoo visit requires an umbrella, concluding the day at the bridge."
+          },
+          "stops": [
+            {
+              "name": "Sanctuary of Divine Mercy",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor der Tür.",
+                "hu": "Parkoló közvetlenül az ajtó előtt.",
+                "ro": "Parcare chiar în fața ușii.",
+                "en": "Parking available right in front."
+              }
+            },
+            {
+              "name": "Neoclassical Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Laufweg durch den Regen.",
+                "hu": "Rövid séta az esőben.",
+                "ro": "Scurtă plimbare prin ploaie.",
+                "en": "Short walk through the rain."
+              }
+            },
+            {
+              "name": "Tumskie Hill & Basilica",
+              "tip_5lang": {
+                "de": "Tolle Atmosphäre im Nebel.",
+                "hu": "Remek hangulat a ködben.",
+                "ro": "Atmosferă grozavă în ceață.",
+                "en": "Great atmosphere in the mist."
+              }
+            },
+            {
+              "name": "Vistula Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht, rutschiger Untergrund.",
+                "hu": "Vigyázat, csúszós talaj.",
+                "ro": "Atenție, suprafață alunecoasă.",
+                "en": "Careful, slippery surface."
+              }
+            },
+            {
+              "name": "Lunch in the New Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser in der Nähe.",
+                "hu": "Használja a közeli parkolóházakat.",
+                "ro": "Folosiți parcările acoperite din apropiere.",
+                "en": "Use nearby parking garages."
+              }
+            },
+            {
+              "name": "Historic Granaries",
+              "tip_5lang": {
+                "de": "Parken Sie möglichst nah am Eingang.",
+                "hu": "Parkoljon a bejárathoz a lehető legközelebb.",
+                "ro": "Parcați cât mai aproape de intrare.",
+                "en": "Park as close to the entrance as possible."
+              }
+            },
+            {
+              "name": "Płock Zoo",
+              "tip_5lang": {
+                "de": "Regencape für die Außenbereiche nötig.",
+                "hu": "Esőkabát szükséges a kinti részekhez.",
+                "ro": "Pelerină de ploaie necesară afară.",
+                "en": "Raincoat needed for outdoor areas."
+              }
+            },
+            {
+              "name": "Solidarity Bridge Evening View",
+              "tip_5lang": {
+                "de": "Schöne Lichteffekte auf regennassen Scheiben.",
+                "hu": "Szép fényeffektek az esős ablakokon.",
+                "ro": "Efecte frumoase de lumini pe geamurile ude.",
+                "en": "Beautiful light effects on wet windows."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Tiefgaragen oder überdachte Parkplätze, wo immer möglich.",
+              "Fahren Sie vorsichtig auf nassem Kopfsteinpflaster im Zentrum.",
+              "Lassen Sie nasse Schirme im Kofferraum, um den Innenraum trocken zu halten.",
+              "Die Heizung im Auto eignet sich hervorragend zum Aufwärmen zwischen den Stopps."
+            ],
+            "hu": [
+              "Használjon mélygarázsokat vagy fedett parkolókat, ahol csak lehet.",
+              "Vezessen óvatosan a nedves macskaköveken a központban.",
+              "A vizes esernyőket hagyja a csomagtartóban, hogy a belső tér száraz maradjon.",
+              "Az autó fűtése kiválóan alkalmas a megállók közötti felmelegedésre."
+            ],
+            "ro": [
+              "Folosiți parcări subterane sau acoperite oriunde este posibil.",
+              "Conduceți cu prudență pe pietrele cubice umede din centru.",
+              "Lăsați umbrelele ude în portbagaj pentru a menține interiorul uscat.",
+              "Căldura din mașină este excelentă pentru a vă încălzi între opriri."
+            ],
+            "en": [
+              "Use underground or covered parking spaces wherever possible.",
+              "Drive carefully on wet cobblestones in the city center.",
+              "Leave wet umbrellas in the trunk to keep the interior dry.",
+              "The car heater is excellent for warming up between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie die Winterfahrt am Sanktuarium und besuchen Sie das verschneite Rathaus und die Basilika. Mittags bietet der Aussichtspunkt einen klaren, eisigen Blick. Nach einem warmen Mittagessen in der Neustadt erkunden Sie die Speicher. Der Zoo ist ruhig, bevor die Tour am winterlich beleuchteten Brückenbauwerk endet.",
+            "hu": "Kezdje a téli utazást a Szentélynél, majd látogassa meg a havas Városházát és a Bazilikát. Délben a kilátó tiszta, jeges panorámát nyújt. Az újvárosi meleg ebéd után fedezze fel a Magtárakat. Az állatkert csendes, mielőtt a túra a téli fényekben úszó hídnál véget ér.",
+            "ro": "Începeți traseul de iarnă la Sanctuar și vizitați Primăria și Bazilica înzăpezite. La prânz, punctul de belvedere oferă o vedere clară și înghețată. După un prânz cald, explorați Hambarele. Zoo este liniștită, iar turul se încheie la podul iluminat.",
+            "en": "Start the winter drive at the Sanctuary and visit the snow-covered Town Hall and Basilica. Midday, the viewpoint offers a clear, icy vista. After a warm lunch in the New Town, explore the Granaries. The zoo is quiet before the tour ends at the winter-lit bridge."
+          },
+          "stops": [
+            {
+              "name": "Sanctuary of Divine Mercy",
+              "tip_5lang": {
+                "de": "Eisige Wege zum Eingang.",
+                "hu": "Jeges utak a bejáratig.",
+                "ro": "Alei înghețate spre intrare.",
+                "en": "Icy paths to the entrance."
+              }
+            },
+            {
+              "name": "Neoclassical Town Hall",
+              "tip_5lang": {
+                "de": "Schöner Anblick mit Schnee.",
+                "hu": "Gyönyörű látvány hóban.",
+                "ro": "Priveliște frumoasă cu zăpadă.",
+                "en": "Beautiful sight with snow."
+              }
+            },
+            {
+              "name": "Tumskie Hill & Basilica",
+              "tip_5lang": {
+                "de": "Glatteis-Gefahr auf dem Hügel.",
+                "hu": "Csúszásveszély a dombon.",
+                "ro": "Pericol de alunecare pe deal.",
+                "en": "Risk of slippery ice on the hill."
+              }
+            },
+            {
+              "name": "Vistula Viewpoint",
+              "tip_5lang": {
+                "de": "Klarer, kalter Wind, bleiben Sie im Auto.",
+                "hu": "Tiszta, hideg szél, maradjon az autóban.",
+                "ro": "Vânt rece și clar, stați în mașină.",
+                "en": "Clear, cold wind, consider staying in the car."
+              }
+            },
+            {
+              "name": "Lunch in the New Town",
+              "tip_5lang": {
+                "de": "Parkplätze müssen evtl. freigekratzt werden.",
+                "hu": "Lehet, hogy le kell kaparni a havat a parkolóról.",
+                "ro": "Parcarea poate necesita curățarea zăpezii.",
+                "en": "Parking spots might need snow scraping."
+              }
+            },
+            {
+              "name": "Historic Granaries",
+              "tip_5lang": {
+                "de": "Ruhig und stimmungsvoll im Winter.",
+                "hu": "Csendes és hangulatos télen.",
+                "ro": "Liniștit și atmosferic iarna.",
+                "en": "Quiet and atmospheric in winter."
+              }
+            },
+            {
+              "name": "Płock Zoo",
+              "tip_5lang": {
+                "de": "Viele Tiere sind in den warmen Innengehegen.",
+                "hu": "Sok állat a meleg belső kifutókban van.",
+                "ro": "Multe animale sunt în adăposturile interioare încălzite.",
+                "en": "Many animals are in warm indoor enclosures."
+              }
+            },
+            {
+              "name": "Solidarity Bridge Evening View",
+              "tip_5lang": {
+                "de": "Perfekt für ein Foto bei früh einsetzender Dunkelheit.",
+                "hu": "Tökéletes fotó a korai sötétedésben.",
+                "ro": "Perfect pentru o fotografie la lăsarea timpurie a întunericului.",
+                "en": "Perfect for a photo as darkness falls early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind Pflicht, besonders in den hügeligen Teilen der Stadt.",
+              "Prüfen Sie vorab, ob die Straßen zum Flussufer geräumt sind.",
+              "Halten Sie einen Eiskratzer griffbereit, falls Sie länger parken.",
+              "Nutzen Sie die Sitzheizung, um sich zwischen kurzen Außenbesichtigungen aufzuwärmen."
+            ],
+            "hu": [
+              "A téli gumi kötelező, különösen a város dombos részein.",
+              "Előre ellenőrizze, hogy a folyópartra vezető utak le vannak-e takarítva.",
+              "Tartson kéznél jégkaparót, ha hosszabb ideig parkol.",
+              "Használja az ülésfűtést a megállók közötti felmelegedésre."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt esențiale, mai ales în părțile deluroase ale orașului.",
+              "Verificați dacă drumurile spre malul râului sunt deszăpezite.",
+              "Aveți o racletă pregătită dacă parcați mai mult timp.",
+              "Folosiți încălzirea în scaune pentru a vă încălzi între opriri."
+            ],
+            "en": [
+              "Winter tires are essential, especially in the hilly parts of the city.",
+              "Check if the roads leading down to the riverbank are cleared of snow.",
+              "Keep an ice scraper handy if you park for extended periods.",
+              "Use the heated seats to warm up quickly between short outdoor visits."
+            ]
+          }
+        }
       }
     },
     "transit": {

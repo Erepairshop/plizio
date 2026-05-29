@@ -386,6 +386,214 @@
           "Most shops observe a siesta from around 2:00 PM to 5:00 PM.",
           "Be sure to try the local cheeses and cured meats, which are a specialty of Tinos."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Pallada-Platz, wo Cafés Schutz vor dem Regen bieten. Über die gepflasterte Evangelistrias-Straße erreichen wir die große Basilika, deren Innenraum trocken und friedlich ist. Den Mittag verbringen wir ausgiebig in den Kunst- und Archäologiemuseen. Am späten Nachmittag werfen wir einen kurzen Blick auf das Elli-Denkmal und beenden den Tag in einer gemütlichen Taverne am Hafen.",
+            "hu": "A nap a Pallada téren indul, ahol a kávézók menedéket nyújtanak az eső elől. Az Evangelistrias utcán ernyővel sétálunk fel a székesegyházhoz, amelynek belső tere száraz és csendes. A délutánt a Tínoszi Művészek Múzeumában és a Régészeti Múzeumban töltjük, távol a víztől. Rövid megálló az Elli emlékműnél, majd az estét egy kikötői taverna melegében zárjuk.",
+            "ro": "Ziua începe în Piața Pallada, unde cafenelele oferă adăpost de ploaie. Pe strada Evangelistrias urcăm cu umbrela spre marea basilică, al cărei interior este uscat și liniștit. Prânzul este dedicat muzeelor de artă și arheologie. După-amiaza târziu aruncăm o privire rapidă la Monumentul Elli și încheiem ziua într-o tavernă primitoare din port.",
+            "en": "The day starts at Pallada Square, where cafes provide shelter from the rain. We walk up Evangelistrias Street with umbrellas to the great basilica, finding its interior dry and peaceful. Midday is spent exploring the Art and Archaeological museums. In the late afternoon, we take a quick look at the Elli Monument and end the day in a cozy harbor tavern."
+          },
+          "stops": [
+            {
+              "name": "Pallada Square",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Markisen der Cafés am Platz.",
+                "hu": "Keressen menedéket a tér kávézóinak árkádjai alatt.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor din piață.",
+                "en": "Find shelter under the awnings of the square's cafes."
+              }
+            },
+            {
+              "name": "Evangelistrias Street",
+              "tip_5lang": {
+                "de": "Vorsicht, das Marmorpflaster ist bei Nässe sehr rutschig.",
+                "hu": "Vigyázat, a márványburkolat esőben rendkívül csúszós.",
+                "ro": "Atenție, pavajul de marmură este foarte alunecos pe ploaie.",
+                "en": "Caution, the marble pavement is very slippery when wet."
+              }
+            },
+            {
+              "name": "Panagia Evangelistria",
+              "tip_5lang": {
+                "de": "Der weitläufige Innenraum bietet perfekten Schutz vor Regen.",
+                "hu": "A tágas belső tér tökéletes menedék az eső elől.",
+                "ro": "Interiorul spațios oferă un adăpost perfect împotriva ploii.",
+                "en": "The spacious interior offers perfect shelter from the rain."
+              }
+            },
+            {
+              "name": "Museum of Tinian Artists",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für den Weg zwischen den Museen.",
+                "hu": "Használja ki az esőszünetet a múzeumok közötti átjutáshoz.",
+                "ro": "Profită de pauzele de ploaie pentru drumul între muzee.",
+                "en": "Take advantage of rain breaks for the walk between museums."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Tinos",
+              "tip_5lang": {
+                "de": "Die Innenhöfe sind überdacht, ideal für Besichtigungen bei Regen.",
+                "hu": "A belső udvarok fedettek, ideálisak esős látogatáshoz.",
+                "ro": "Curțile interioare sunt acoperite, ideale pentru vizitare pe ploaie.",
+                "en": "The inner courtyards are covered, ideal for rainy visits."
+              }
+            },
+            {
+              "name": "Elli Monument",
+              "tip_5lang": {
+                "de": "Kurzer Stopp am Denkmal, bevor der Wind vom Meer zu stark wird.",
+                "hu": "Gyors megálló, mielőtt a tengeri szél túl erőssé válna.",
+                "ro": "Oprire scurtă înainte ca vântul de pe mare să devină prea puternic.",
+                "en": "Short stop at the monument before the sea wind gets too strong."
+              }
+            },
+            {
+              "name": "Tinos Waterfront Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Wellen aus einem Hafenrestaurant.",
+                "hu": "Élvezze a hullámok látványát egy kikötői étterem ablakából.",
+                "ro": "Bucurați-vă de vederea valurilor dintr-un restaurant din port.",
+                "en": "Enjoy the view of the waves from a harbor restaurant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil, da der Marmor in der Stadt bei Nässe spiegelglatt wird.",
+              "Die Kirche Panagia Evangelistria ist ein idealer Ort, um einen Regenschauer abzuwarten.",
+              "Viele Tavernen am Hafen haben im Winter beheizte Außenbereiche mit Folienwänden.",
+              "Besuchen Sie die Museen während der stärksten Regenfälle am Mittag.",
+              "Ein stabiler Regenschirm ist wegen des oft starken Windes in Tinos unerlässlich."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt, mert a városi márvány vizesen rendkívül csúszik.",
+              "A Panagia Evangelistria templom kiváló hely egy hirtelen zápor kivárására.",
+              "A kikötői tavernák többsége téliesített, fóliával védett teraszokkal rendelkezik.",
+              "A múzeumi látogatást időzítse a déli, intenzívebb esőzések idejére.",
+              "A gyakori erős szél miatt a stabil esernyő vagy a jó esőkabát elengedhetetlen."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență bună, marmura din oraș devine foarte alunecoasă.",
+              "Biserica Panagia Evangelistria este un loc excelent pentru a aștepta trecerea ploii.",
+              "Multe taverne din port au zone exterioare încălzite și protejate cu folie.",
+              "Vizitați muzeele în timpul celor mai puternice ploi de la prânz.",
+              "O umbrelă stabilă este esențială din cauza vântului adesea puternic din Tinos."
+            ],
+            "en": [
+              "Wear shoes with good grip as the city's marble becomes mirror-slick when wet.",
+              "The Panagia Evangelistria church is an ideal place to wait out a rain shower.",
+              "Many harbor taverns have heated outdoor areas with plastic sheeting in winter.",
+              "Time your museum visits during the heaviest rainfall at midday.",
+              "A sturdy umbrella is essential due to the often strong winds in Tinos."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintersonne beleuchtet den Pallada-Platz, während wir die frische Meeresluft genießen. Der Aufstieg zur Kirche ist bei kühleren Temperaturen angenehmer. Nach dem Besuch der Kunstgalerien wärmen wir uns im Archäologischen Museum auf. Da die Sonne gegen 17:00 Uhr untergeht, besuchen wir das Elli-Denkmal früher und beenden den Spaziergang bei Dämmerung an der Uferpromenade.",
+            "hu": "A téli napsütés megvilágítja a Pallada teret, miközben élvezzük a friss tengeri levegőt. A templomhoz vezető emelkedő hűvösebb időben sokkal kellemesebb. A képtárak után a Régészeti Múzeumban melegszünk fel. Mivel a nap 17:00 körül nyugszik, az Elli emlékművet korábban érintjük, és a sötétedő parton fejezzük be a sétát.",
+            "ro": "Soarele de iarnă luminează Piața Pallada în timp ce ne bucurăm de aerul proaspăt marin. Urcarea spre biserică este mai plăcută la temperaturi scăzute. După galeriile de artă, ne încălzim în Muzeul de Arheologie. Deoarece soarele apune în jur de ora 17:00, vizităm Monumentul Elli mai devreme și încheiem plimbarea pe faleză la amurg.",
+            "en": "Winter sun illuminates Pallada Square as we enjoy the crisp sea air. The climb to the church is more pleasant in cooler temperatures. After visiting the art galleries, we warm up in the Archaeological Museum. Since the sun sets around 5:00 PM, we visit the Elli Monument earlier and finish our walk along the waterfront at dusk."
+          },
+          "stops": [
+            {
+              "name": "Pallada Square",
+              "tip_5lang": {
+                "de": "Genießen Sie die Sonne, bevor sie hinter den Gebäuden verschwindet.",
+                "hu": "Élvezze a napsütést, mielőtt az eltűnik az épületek mögött.",
+                "ro": "Bucurați-vă de soare înainte ca acesta să dispară după clădiri.",
+                "en": "Enjoy the sun before it disappears behind the buildings."
+              }
+            },
+            {
+              "name": "Evangelistrias Street",
+              "tip_5lang": {
+                "de": "Die kühle Brise macht den steilen Aufstieg heute mühelos.",
+                "hu": "A hűvös szellő ma könnyűvé teszi a meredek emelkedőt.",
+                "ro": "Briza răcoroasă face urcarea abruptă mult mai ușoară astăzi.",
+                "en": "The cool breeze makes the steep climb effortless today."
+              }
+            },
+            {
+              "name": "Panagia Evangelistria",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am Vormittag für das beste Licht.",
+                "hu": "Látogasson el délelőtt, ekkor a legszebbek a fények a templomban.",
+                "ro": "Vizitați biserica dimineața pentru cea mai bună lumină.",
+                "en": "Visit the church in the morning for the best light."
+              }
+            },
+            {
+              "name": "Museum of Tinian Artists",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten, da diese oft verkürzt sind.",
+                "hu": "Ellenőrizze a téli nyitvatartást, mert gyakran rövidített.",
+                "ro": "Verificați programul de iarnă, deoarece este adesea scurtat.",
+                "en": "Check winter opening hours, as they are often shortened."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Tinos",
+              "tip_5lang": {
+                "de": "Die Innenräume bieten Schutz vor dem kalten Nordwind.",
+                "hu": "A belső terek védelmet nyújtanak a hideg északi szél ellen.",
+                "ro": "Spațiile interioare oferă protecție împotriva vântului rece de nord.",
+                "en": "The interior spaces provide protection from the cold north wind."
+              }
+            },
+            {
+              "name": "Elli Monument",
+              "tip_5lang": {
+                "de": "Das Licht der tiefstehenden Sonne ist ideal für Fotos vom Denkmal.",
+                "hu": "Az alacsony napállás fénye tökéletes fotózáshoz az emlékműnél.",
+                "ro": "Lumina soarelui la apus este ideală pentru fotografii la monument.",
+                "en": "The low sun light is ideal for photos at the monument."
+              }
+            },
+            {
+              "name": "Tinos Waterfront Promenade",
+              "tip_5lang": {
+                "de": "Beenden Sie den Spaziergang vor 17:30 Uhr, wenn es kühl wird.",
+                "hu": "Fejezze be a sétát 17:30 előtt, utána hirtelen lehűl az idő.",
+                "ro": "Încheiați plimbarea înainte de 17:30, când se face răcoare.",
+                "en": "Finish your walk before 5:30 PM when it gets chilly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Nordwind (Voreas) kann im Winter sehr kalt sein; Windschutz ist wichtig.",
+              "Die Museen schließen im Winter oft früher, meist gegen 15:00 oder 16:00 Uhr.",
+              "Tinos ist im Winter sehr ruhig, perfekt für eine authentische Erfahrung ohne Massen.",
+              "Die Sonne verschwindet früh hinter den Bergen, planen Sie Aktivitäten am Vormittag.",
+              "Tragen Sie Zwiebelschichten, da es in der Sonne warm, im Schatten aber kühl ist."
+            ],
+            "hu": [
+              "Az északi szél (Voreas) télen metsző lehet; a szélálló ruházat fontos.",
+              "A múzeumok télen gyakran korábban, délután 3-4 körül bezárnak.",
+              "Tínosz télen nagyon csendes, ideális az autentikus élményhez tömegek nélkül.",
+              "A nap korán eltűnik a hegyek mögött, a szabadtéri programokat délelőttre tervezze.",
+              "Öltözzön rétegesen: a napon meleg van, de az árnyékban hirtelen lehűl a levegő."
+            ],
+            "ro": [
+              "Vântul de nord (Voreas) poate fi foarte rece iarna; protecția contra vântului e vitală.",
+              "Muzeele se închid adesea mai devreme iarna, de obicei în jur de ora 15:00 sau 16:00.",
+              "Tinos este foarte liniștit iarna, perfect pentru o experiență autentică fără mulțimi.",
+              "Soarele dispare devreme după munți, planificați activitățile în aer liber dimineața.",
+              "Purtați haine în mai multe straturi, e cald la soare dar rece la umbră."
+            ],
+            "en": [
+              "The north wind (Voreas) can be very cold in winter; wind protection is important.",
+              "Museums often close earlier in winter, usually around 3:00 or 4:00 PM.",
+              "Tinos is very quiet in winter, perfect for an authentic experience without crowds.",
+              "The sun disappears early behind the mountains, plan outdoor activities for the morning.",
+              "Wear layers as it is warm in the sun but chilly in the shade."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +950,196 @@
           "Carry plenty of water, especially during the summer months.",
           "Be mindful of pedestrians on the shared pathways along the promenade."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom Hafen aus radeln wir vorsichtig entlang der Promenade. Ein kurzer Stopp am Elli-Denkmal ist möglich, bevor wir den Anstieg zur Panagia wagen. Bei Regen ist auf dem Marmor besondere Vorsicht geboten. Den Nachmittag verbringen wir in den Museen, während die Fahrräder im Trockenen stehen. Wir beenden die Tour am Pallada-Platz und suchen Wärme in einer der Kirchen.",
+            "hu": "A kikötőből óvatosan tekerünk végig a parton. Rövid megálló az Elli emlékműnél, majd nekivágunk a Panagia emelkedőjének. Esőben a márványfelületek rendkívül veszélyesek. A délutánt a múzeumokban töltjük, amíg a biciklik fedett helyen pihennek. A túrát a Pallada téren zárjuk, és egy templom csendjében melegszünk fel.",
+            "ro": "Din port pedalăm cu atenție de-a lungul falezei. O scurtă oprire la Monumentul Elli este posibilă înainte de a urca spre Panagia. Pe ploaie, suprafețele de marmură sunt extrem de periculoase. Prânzul îl petrecem în muzee, în timp ce bicicletele stau la uscat. Încheiem turul în Piața Pallada și căutăm căldură într-una dintre biserici.",
+            "en": "From the port, we cycle carefully along the promenade. A short stop at the Elli Monument is possible before tackling the climb to Panagia. In the rain, the marble surfaces are extremely dangerous. Midday is spent in the museums while the bikes stay dry. We finish the tour at Pallada Square and seek warmth in one of the churches."
+          },
+          "stops": [
+            {
+              "name": "Tinos Waterfront Promenade",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen und Gischt vom stürmischen Meer.",
+                "hu": "Ügyeljen a tócsákra és a viharos tenger felcsapó vizére.",
+                "ro": "Atenție la bălți și la stropii mării învolburate.",
+                "en": "Watch out for puddles and spray from the stormy sea."
+              }
+            },
+            {
+              "name": "Elli Monument",
+              "tip_5lang": {
+                "de": "Schnelles Foto, da der Boden hier sehr rutschig sein kann.",
+                "hu": "Gyors fotó, mert a talaj itt nagyon csúszós lehet.",
+                "ro": "Fotografie rapidă, solul poate fi foarte alunecos aici.",
+                "en": "Quick photo, as the ground here can be very slippery."
+              }
+            },
+            {
+              "name": "Panagia Evangelistria",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad unter einem Vordach, bevor Sie eintreten.",
+                "hu": "Parkolja a kerékpárt egy előtető alá, mielőtt belépne.",
+                "ro": "Parcați bicicleta sub un copertină înainte de a intra.",
+                "en": "Park your bike under an overhang before entering."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Tinos",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um die Kleidung zu trocknen.",
+                "hu": "Használja ki a múzeumlátogatást a ruházat megszárítására.",
+                "ro": "Folosiți vizita la muzeu pentru a vă usca hainele.",
+                "en": "Use the museum visit to dry your clothes."
+              }
+            },
+            {
+              "name": "Pallada Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf den nassen Pflastersteinen.",
+                "hu": "Óvatosan fékezzen a vizes utcaköveken.",
+                "ro": "Frânați cu grijă pe pietrele umede de pavaj.",
+                "en": "Brake gently on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Church of the Taxiarches",
+              "tip_5lang": {
+                "de": "Suchen Sie hier einen Moment der Ruhe im Trockenen.",
+                "hu": "Keressen itt egy pillanatnyi nyugalmat a szárazban.",
+                "ro": "Căutați aici un moment de liniște la uscat.",
+                "en": "Find a moment of peace in the dry here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verringern Sie den Reifendruck leicht für besseren Grip auf nassen Steinen.",
+              "Vermeiden Sie scharfe Kurven auf dem glatten Marmorpflaster der Hauptstraße.",
+              "Nutzen Sie Regenbekleidung mit Reflektoren, da die Sicht oft eingeschränkt ist.",
+              "Stellen Sie sicher, dass Ihre Bremsen bei Nässe optimal funktionieren.",
+              "Wischen Sie den Sattel nach jedem Halt trocken, um Komfort zu bewahren."
+            ],
+            "hu": [
+              "Csökkentse kissé a guminyomást a jobb tapadás érdekében a vizes köveken.",
+              "Kerülje az éles kanyarodást a főutca síkos márványburkolatán.",
+              "Használjon fényvisszaverős esőruházatot a korlátozott látási viszonyok miatt.",
+              "Győződjön meg róla, hogy a fékek nedvesen is megfelelően fognak.",
+              "Minden megállás után törölje szárazra a nyerget a kényelem érdekében."
+            ],
+            "ro": [
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe pietre ude.",
+              "Evitați virajele strânse pe pavajul de marmură lucios al străzii principale.",
+              "Folosiți haine de ploaie cu reflectorizante, vizibilitatea e adesea redusă.",
+              "Asigurați-vă că frânele funcționează optim în condiții de umiditate.",
+              "Ștergeți șaua după fiecare oprire pentru a vă păstra confortul."
+            ],
+            "en": [
+              "Slightly reduce tire pressure for better grip on wet stones.",
+              "Avoid sharp turns on the slick marble pavement of the main street.",
+              "Use rain gear with reflectors as visibility is often limited.",
+              "Ensure your brakes are functioning optimally in wet conditions.",
+              "Wipe the saddle dry after each stop to maintain comfort."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen radeln wir entlang der belebenden Hafenpromenade. Der Weg zum Elli-Denkmal ist erfrischend. Der Anstieg zur Panagia-Kirche bringt uns bei den kühlen Temperaturen kaum ins Schwitzen. Nach der Kultur im Archäologischen Museum genießen wir ein spätes Mittagessen am Pallada-Platz. Wir beenden die Tour an der Taxiarches-Kirche, bevor die Abendkälte einsetzt.",
+            "hu": "Egy tiszta téli reggelen a frissítő kikötői sétányon tekerünk. Az út az Elli emlékműhöz felpezsdítő. A Panagia templomhoz vezető emelkedőn a hűvös időben meg sem izzadunk. A Régészeti Múzeum után egy késői ebédet fogyasztunk a Pallada téren. A túrát a Taxiarches templomnál zárjuk, még mielőtt beállna az esti lehűlés.",
+            "ro": "Într-o dimineață senină de iarnă, pedalăm pe faleza revigorantă din port. Drumul spre Monumentul Elli este înviorător. Urcarea spre biserica Panagia nu ne face să transpirăm deloc la temperaturile scăzute. După cultură la Muzeul de Arheologie, savurăm un prânz târziu în Piața Pallada. Încheiem turul la biserica Taxiarches înainte de lăsarea frigului de seară.",
+            "en": "On a clear winter morning, we cycle along the invigorating harbor promenade. The path to the Elli Monument is refreshing. The climb to Panagia Church hardly makes us sweat in the cool temperatures. After some culture at the Archaeological Museum, we enjoy a late lunch at Pallada Square. We finish the tour at Taxiarches Church before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Tinos Waterfront Promenade",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe gegen den kalten Fahrtwind am Meer.",
+                "hu": "Viseljen kesztyűt a tengerparti hideg menetszél ellen.",
+                "ro": "Purtați mănuși împotriva vântului rece de pe faleză.",
+                "en": "Wear gloves against the cold wind while cycling by the sea."
+              }
+            },
+            {
+              "name": "Elli Monument",
+              "tip_5lang": {
+                "de": "Ein kurzer Halt reicht, um nicht auszukühlen.",
+                "hu": "Egy rövid megálló elég, nehogy túlságosan lehűljön.",
+                "ro": "O scurtă oprire este suficientă pentru a nu vă răci.",
+                "en": "A short stop is enough to avoid getting too cold."
+              }
+            },
+            {
+              "name": "Panagia Evangelistria",
+              "tip_5lang": {
+                "de": "Der Anstieg ist ideal, um die Körpertemperatur zu halten.",
+                "hu": "Az emelkedő ideális a testhőmérséklet fenntartásához.",
+                "ro": "Urcarea este ideală pentru a menține temperatura corpului.",
+                "en": "The climb is ideal for maintaining body temperature."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Tinos",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher ab; im Winter ist weniger los.",
+                "hu": "Lakatolja le biztonságosan a gépet; télen kisebb a forgalom.",
+                "ro": "Parcați bicicleta în siguranță; iarna este mai puțină aglomerație.",
+                "en": "Park your bike securely; it's less crowded in winter."
+              }
+            },
+            {
+              "name": "Pallada Square",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz in der Sonne für die Mittagspause.",
+                "hu": "Válasszon egy napsütötte helyet az ebédszünethez.",
+                "ro": "Alegeți un loc la soare pentru pauza de prânz.",
+                "en": "Choose a spot in the sun for your lunch break."
+              }
+            },
+            {
+              "name": "Church of the Taxiarches",
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt, bevor die Sonne untergeht.",
+                "hu": "Fejezze be a tekerést, mielőtt lemegy a nap.",
+                "ro": "Încheiați plimbarea înainte de apusul soarelui.",
+                "en": "Finish your ride before the sun goes down."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schützen Sie Ihre Ohren und Hände vor dem kalten Winterwind.",
+              "Die Wintersonne ist stark, unterschätzen Sie die UV-Strahlung nicht.",
+              "Nehmen Sie warme Getränke in einer Thermoskanne mit.",
+              "Überprüfen Sie die Beleuchtung, falls Sie erst bei Dämmerung zurückfahren.",
+              "Im Winter gibt es weniger Autoverkehr, was das Radfahren sicherer macht."
+            ],
+            "hu": [
+              "Védje fülét és kezét a hideg téli széltől.",
+              "A téli nap erős lehet, ne becsülje alá az UV-sugárzást.",
+              "Vigyen magával meleg italt termoszban.",
+              "Ellenőrizze a világítást, ha csak szürkületben érne vissza.",
+              "Télen kisebb az autóforgalom, ami biztonságosabbá teszi a kerékpározást."
+            ],
+            "ro": [
+              "Protejați-vă urechile și mâinile de vântul rece de iarnă.",
+              "Soarele de iarnă este puternic, nu subestimați radiațiile UV.",
+              "Luați cu voi băuturi calde într-un termos.",
+              "Verificați luminile bicicletei dacă vă întoarceți la amurg.",
+              "Iarna este mai puțin trafic auto, ceea ce face pedalatul mai sigur."
+            ],
+            "en": [
+              "Protect your ears and hands from the cold winter wind.",
+              "The winter sun is strong; do not underestimate the UV radiation.",
+              "Take warm drinks with you in a thermos.",
+              "Check your bike lights if you plan to return at dusk.",
+              "There is less car traffic in winter, making cycling safer."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1520,214 @@
           "The roads leading to villages are often narrow and winding.",
           "Combine your visit to Tinos Town with a drive to picturesque inland villages like Pyrgos or Volax."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir parken direkt am Hafen und genießen den Blick auf das stürmische Meer aus dem Auto. Ein kurzer Sprint bringt uns zum Elli-Denkmal und zum Pallada-Platz. Die Fahrt zum Panagia-Hügel ist bei Regen komfortabel. Wir verbringen viel Zeit in den Museen und fahren später zum Agios Fokas Strand, um die beeindruckenden Wellen aus sicherer Entfernung zu beobachten.",
+            "hu": "Közvetlenül a kikötőben parkolunk, és az autóból csodáljuk a viharos tengert. Egy gyors futás az Elli emlékműhöz és a Pallada térre még belefér. A Panagia-dombra való feljutás esőben így a legkényelmesebb. Sok időt töltünk a múzeumokban, majd az Agios Fokas strandra autózunk, hogy biztonságos távolságból nézzük a hatalmas hullámokat.",
+            "ro": "Parcăm direct în port și admirăm marea învolburată din mașină. O scurtă fugă ne duce la Monumentul Elli și în Piața Pallada. Drumul spre dealul Panagia este confortabil pe ploaie. Petrecem mult timp în muzee și apoi conducem spre plaja Agios Fokas pentru a vedea valurile impresionante de la distanță.",
+            "en": "We park right at the harbor and enjoy the view of the stormy sea from the car. A quick sprint takes us to the Elli Monument and Pallada Square. The drive to Panagia Hill is comfortable in the rain. We spend plenty of time in the museums and later drive to Agios Fokas Beach to watch the impressive waves from a safe distance."
+          },
+          "stops": [
+            {
+              "name": "Port Parking Area",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Ausgang, um trocken zu bleiben.",
+                "hu": "Parkoljon minél közelebb a kijárathoz, hogy száraz maradjon.",
+                "ro": "Parcați cât mai aproape de ieșire pentru a rămâne uscați.",
+                "en": "Park as close to the exit as possible to stay dry."
+              }
+            },
+            {
+              "name": "Waterfront & Elli Monument",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen vor starkem Wind und Gischt.",
+                "hu": "Kiszálláskor ügyeljen az erős szélre és a felcsapó vízre.",
+                "ro": "Atenție la vântul puternic și stropi la coborârea din mașină.",
+                "en": "Watch out for strong wind and spray when getting out of the car."
+              }
+            },
+            {
+              "name": "Pallada Square",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt, die Cafés sind drinnen gemütlich.",
+                "hu": "Rövid megálló, a kávézók belül nagyon barátságosak.",
+                "ro": "Scurtă oprire, cafenelele sunt primitoare la interior.",
+                "en": "Short stay, the cafes are cozy inside."
+              }
+            },
+            {
+              "name": "Drive to Panagia Hill",
+              "tip_5lang": {
+                "de": "Die Scheibenwischer auf höchste Stufe bei starkem Regen.",
+                "hu": "Erős esőben állítsa az ablaktörlőt a legmagasabb fokozatra.",
+                "ro": "Setați ștergătoarele la maximum în caz de ploaie torențială.",
+                "en": "Set wipers to high during heavy rain on the climb."
+              }
+            },
+            {
+              "name": "Panagia Evangelistria",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze nahe am Kircheneingang.",
+                "hu": "A templom bejáratához közel is találhatók parkolóhelyek.",
+                "ro": "Există locuri de parcare aproape de intrarea în biserică.",
+                "en": "There are parking spots close to the church entrance."
+              }
+            },
+            {
+              "name": "Tinian Artists & Archaeological Museums",
+              "tip_5lang": {
+                "de": "Ideale Stationen, um dem Regen für zwei Stunden zu entkommen.",
+                "hu": "Ideális helyszínek, hogy két órára elmeneküljünk az eső elől.",
+                "ro": "Stații ideale pentru a scăpa de ploaie timp de două ore.",
+                "en": "Ideal stops to escape the rain for a couple of hours."
+              }
+            },
+            {
+              "name": "Drive to Agios Fokas Beach",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto und beobachten Sie die Brandung.",
+                "hu": "Maradjon az autóban, és onnan figyelje a hullámtörést.",
+                "ro": "Rămâneți în mașină și observați spectacolul valurilor.",
+                "en": "Stay in the car and watch the surf from there."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze direkt oberhalb der Kirche, um Laufwege zu minimieren.",
+              "Achten Sie auf tiefe Pfützen auf den tiefer gelegenen Straßen am Hafen.",
+              "Die Sicht kann bei starkem Regen und Meeresgischt stark eingeschränkt sein.",
+              "Lassen Sie die Klimaanlage laufen, damit die Scheiben nicht beschlagen.",
+              "Besuchen Sie den Agios Fokas Strand nur zum 'Storm Watching' vom Auto aus."
+            ],
+            "hu": [
+              "Használja a templom feletti parkolót a gyaloglás minimalizálására.",
+              "Ügyeljen a mély tócsákra a kikötő alacsonyabban fekvő utcáin.",
+              "A látótávolság erős esőben és tengeri permetben jelentősen csökkenhet.",
+              "Használja a légkondicionálót a szélvédők párátlanítására.",
+              "Az Agios Fokas strandot csak viharnézésre használja az autóból."
+            ],
+            "ro": [
+              "Folosiți parcările de deasupra bisericii pentru a minimiza mersul pe jos.",
+              "Atenție la bălțile adânci pe străzile joase din zona portului.",
+              "Vizibilitatea poate fi redusă semnificativ de ploaie și spray-ul marin.",
+              "Lăsați aerul condiționat pornit pentru a dezaburi geamurile.",
+              "Vizitați plaja Agios Fokas doar pentru 'storm watching' din mașină."
+            ],
+            "en": [
+              "Use the parking lots directly above the church to minimize walking.",
+              "Watch out for deep puddles on the lower-lying streets near the harbor.",
+              "Visibility can be significantly reduced by heavy rain and sea spray.",
+              "Keep the air conditioning on to prevent the windows from fogging up.",
+              "Visit Agios Fokas beach only for 'storm watching' from the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem sonnigen Wintertag genießen wir die Freiheit auf den leeren Straßen von Tinos Stadt. Nach dem Parken am Hafen spazieren wir zum Elli-Denkmal. Die kurze Fahrt zum Panagia-Hügel bietet tolle Ausblicke auf das tiefblaue Meer. Nach den Museen fahren wir zum Agios Fokas Strand, wo wir einen einsamen Winterspaziergang am Ufer machen, bevor es kühl wird.",
+            "hu": "Egy napsütéses téli napon élvezzük a szabadságot Tínosz város üres utcáin. A kikötői parkolás után átsétálunk az Elli emlékműhöz. A rövid autóút a Panagia-dombra pazar kilátást nyújt a mélykék tengerre. A múzeumok után az Agios Fokas strandra hajtunk, ahol teszünk egy magányos téli sétát a parton, mielőtt lehűlne az idő.",
+            "ro": "Într-o zi însorită de iarnă, ne bucurăm de libertate pe străzile pustii din orașul Tinos. După parcarea în port, mergem la Monumentul Elli. Scurtul drum spre dealul Panagia oferă vederi superbe spre marea albastru închis. După muzee, conducem spre plaja Agios Fokas pentru o plimbare solitară pe țărm înainte de lăsarea frigului.",
+            "en": "On a sunny winter day, we enjoy the freedom of the empty streets in Tinos Town. After parking at the harbor, we walk to the Elli Monument. The short drive to Panagia Hill offers great views of the deep blue sea. After the museums, we drive to Agios Fokas Beach for a solitary winter walk along the shore before it gets chilly."
+          },
+          "stops": [
+            {
+              "name": "Port Parking Area",
+              "tip_5lang": {
+                "de": "Im Winter finden Sie hier problemlos einen Parkplatz.",
+                "hu": "Télen gond nélkül talál itt szabad parkolóhelyet.",
+                "ro": "Iarna veți găsi cu ușurință un loc de parcare aici.",
+                "en": "You will easily find a parking spot here in winter."
+              }
+            },
+            {
+              "name": "Waterfront & Elli Monument",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht bis zu den Nachbarinseln.",
+                "hu": "Élvezze a tiszta kilátást a szomszédos szigetekig.",
+                "ro": "Bucurați-vă de vizibilitatea clară spre insulele vecine.",
+                "en": "Enjoy the clear views as far as the neighboring islands."
+              }
+            },
+            {
+              "name": "Pallada Square",
+              "tip_5lang": {
+                "de": "Die Sonne wärmt den Platz am Vormittag wunderbar auf.",
+                "hu": "A délelőtti nap kellemesen felmelegíti a teret.",
+                "ro": "Soarele încălzește minunat piața în cursul dimineții.",
+                "en": "The morning sun warms up the square beautifully."
+              }
+            },
+            {
+              "name": "Drive to Panagia Hill",
+              "tip_5lang": {
+                "de": "Kein Verkehr, die kurze Fahrt ist sehr entspannt.",
+                "hu": "Nincs forgalom, a rövid út nagyon pihentető.",
+                "ro": "Fără trafic, scurtul drum este foarte relaxant.",
+                "en": "No traffic, the short drive is very relaxed."
+              }
+            },
+            {
+              "name": "Panagia Evangelistria",
+              "tip_5lang": {
+                "de": "Die Anlage ist im Winter ruhig und ohne Warteschlangen.",
+                "hu": "A komplexum télen csendes, nincsenek sorok.",
+                "ro": "Complexul este liniștit iarna, fără cozi.",
+                "en": "The complex is quiet in winter with no queues."
+              }
+            },
+            {
+              "name": "Tinian Artists & Archaeological Museums",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Tageslicht für die Besichtigung der Museen.",
+                "hu": "Használja ki a nappali fényt a múzeumlátogatáshoz.",
+                "ro": "Profită de lumina zilei pentru a vizita muzeele.",
+                "en": "Make the most of the daylight for your museum visit."
+              }
+            },
+            {
+              "name": "Drive to Agios Fokas Beach",
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast menschenleer und friedlich.",
+                "hu": "A strand télen szinte néptelen és békés.",
+                "ro": "Plaja este aproape pustie și liniștită iarna.",
+                "en": "The beach is almost deserted and peaceful in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkplätze sind im Winter im Stadtzentrum reichlich vorhanden.",
+              "Die Straßen können am frühen Morgen in schattigen Lagen feucht sein.",
+              "Tanken Sie rechtzeitig, manche Tankstellen haben im Winter kürzere Zeiten.",
+              "Genießen Sie die Panoramasicht vom Auto aus bei der Fahrt zum Hügel.",
+              "Die Heizung im Auto sorgt für Komfort zwischen den kulturellen Stopps."
+            ],
+            "hu": [
+              "Télen bőven talál parkolóhelyet a városközpontban.",
+              "Kora reggel az árnyékosabb útszakaszok nedvesek lehetnek.",
+              "Tankoljon időben, néhány kút télen rövidebb ideig tart nyitva.",
+              "Élvezze a panorámát az autóból a dombra vezető úton.",
+              "Az autó fűtése kényelmessé teszi a váltást a kulturális állomások között."
+            ],
+            "ro": [
+              "Locurile de parcare sunt abundente în centrul orașului iarna.",
+              "Drumurile pot fi umede dimineața devreme în zonele umbrite.",
+              "Alimentați din timp, unele benzinării au program scurt iarna.",
+              "Bucurați-vă de panorama din mașină în drum spre deal.",
+              "Căldura din mașină asigură confort între opririle culturale."
+            ],
+            "en": [
+              "Parking spaces are plentiful in the city center during winter.",
+              "Roads may be damp in shaded areas early in the morning.",
+              "Refuel in time, as some gas stations have shorter winter hours.",
+              "Enjoy the panoramic views from the car during the drive to the hill.",
+              "The car heater provides comfort between cultural stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2084,196 @@
           "Buses can be crowded during peak season.",
           "The walk downhill from Panagia Evangelistria is pleasant and offers great photo opportunities."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom Busbahnhof aus ist es nur ein kurzer Weg zum Pallada-Platz, wo wir auf den Anschluss warten. Die Busfahrt zum Panagia-Hügel erspart uns den nassen Aufstieg. Nach dem Besuch der Basilika und des Archäologischen Museums nutzen wir die Regenpausen für den Abstieg zum Hafen. Wir beenden den Tag in der Nähe der Bushaltestelle bei einer warmen Mahlzeit.",
+            "hu": "A buszpályaudvartól csak egy rövid séta a Pallada tér, ahol a csatlakozásra várunk. A buszút a Panagia-dombra megkímél minket a vizes emelkedőtől. A bazilika és a Régészeti Múzeum után az esőszüneteket használjuk ki a kikötőhöz való lejutáshoz. A napot a buszmegálló közelében zárjuk egy meleg étellel.",
+            "ro": "De la autogară este doar un drum scurt până în Piața Pallada, unde așteptăm legătura. Drumul cu autobuzul spre dealul Panagia ne scutește de urcarea prin ploaie. După vizitarea basilicii și a Muzeului de Arheologie, profităm de pauzele de ploaie pentru a coborî spre port. Încheiem ziua lângă stația de autobuz cu o masă caldă.",
+            "en": "From the bus station, it's just a short walk to Pallada Square where we wait for the connection. The bus ride to Panagia Hill saves us from the wet climb. After visiting the basilica and the Archaeological Museum, we take advantage of rain breaks for the descent to the port. We end the day near the bus stop with a warm meal."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Station (KTEL)",
+              "tip_5lang": {
+                "de": "Die Wartehalle bietet guten Schutz vor Wind und Regen.",
+                "hu": "A váróterem jó védelmet nyújt a szél és az eső ellen.",
+                "ro": "Sala de așteptare oferă o bună protecție contra vântului și ploii.",
+                "en": "The waiting hall offers good protection from wind and rain."
+              }
+            },
+            {
+              "name": "Pallada Square & Waterfront",
+              "tip_5lang": {
+                "de": "Warten Sie in einem Café, bis der Bus abfährt.",
+                "hu": "Várjon egy kávézóban a busz indulásáig.",
+                "ro": "Așteptați într-o cafenea până pleacă autobuzul.",
+                "en": "Wait in a cafe until the bus departs."
+              }
+            },
+            {
+              "name": "Bus Ride to Panagia Evangelistria",
+              "tip_5lang": {
+                "de": "Der Bus hält sehr nah am Eingang der Kirche.",
+                "hu": "A busz nagyon közel áll meg a templom bejáratához.",
+                "ro": "Autobuzul oprește foarte aproape de intrarea în biserică.",
+                "en": "The bus stops very close to the church entrance."
+              }
+            },
+            {
+              "name": "Panagia Evangelistria",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bogengang der Anlage.",
+                "hu": "Használja a komplexum fedett árkádsorát.",
+                "ro": "Folosiți galeria acoperită a complexului.",
+                "en": "Use the covered arcade of the complex."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Tinos",
+              "tip_5lang": {
+                "de": "Das Museum ist nur 3 Minuten Fußweg von der Kirche entfernt.",
+                "hu": "A múzeum mindössze 3 perc sétára van a templomtól.",
+                "ro": "Muzeul este la doar 3 minute de mers pe jos de biserică.",
+                "en": "The museum is only a 3-minute walk from the church."
+              }
+            },
+            {
+              "name": "Walk Downhill to Port",
+              "tip_5lang": {
+                "de": "Bei starkem Regen nehmen Sie lieber den Bus zurück.",
+                "hu": "Erős esőben érdemesebb busszal visszamenni.",
+                "ro": "În caz de ploaie torențială, mai bine luați autobuzul înapoi.",
+                "en": "In heavy rain, it's better to take the bus back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den aktuellen KTEL-Fahrplan, es gibt Regen-bedingte Verspätungen.",
+              "Kaufen Sie Fahrkarten im Voraus am Kiosk, um Wartezeiten im Freien zu vermeiden.",
+              "Der Nahverkehr ist im Winter seltener, planen Sie feste Zeiten ein.",
+              "Die Busse zum Panagia-Hügel fahren direkt von der Uferstraße ab.",
+              "Halten Sie Kleingeld für den Fahrkartenkauf bereit."
+            ],
+            "hu": [
+              "Ellenőrizze a KTEL menetrendet, az eső miatt előfordulhatnak késések.",
+              "Vegye meg a jegyeket előre a kioszkban, hogy elkerülje a kinti várakozást.",
+              "A tömegközlekedés télen ritkább, tervezzen fix időpontokkal.",
+              "A Panagia-dombra tartó buszok közvetlenül a parti útról indulnak.",
+              "Készítsen ki aprópénzt a jegyvásárláshoz."
+            ],
+            "ro": [
+              "Verificați orarul KTEL, pot apărea întârzieri din cauza ploii.",
+              "Cumpărați biletele în avans de la chioșc pentru a evita așteptarea afară.",
+              "Transportul public este mai rar iarna, planificați ore fixe.",
+              "Autobuzele spre dealul Panagia pleacă direct de pe faleză.",
+              "Aveți pregătit mărunțiș pentru achiziționarea biletelor."
+            ],
+            "en": [
+              "Check the KTEL schedule as rain may cause delays.",
+              "Buy tickets in advance at the kiosk to avoid waiting outside.",
+              "Public transport is less frequent in winter, plan with fixed times.",
+              "Buses to Panagia Hill depart directly from the waterfront road.",
+              "Have small change ready for ticket purchases."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am Busbahnhof starten wir in den klaren Wintertag. Ein kurzer Aufenthalt am Pallada-Platz zeigt das authentische Leben der Einheimischen. Die kurze Busfahrt zum Panagia-Hügel bietet eine schöne Aussicht. Nach dem Besuch der Kirche und des Museums spazieren wir gemütlich bergab zum Hafen und genießen die winterliche Stille von Tinos Stadt.",
+            "hu": "A buszpályaudvarról indulunk a tiszta téli napon. Egy rövid megálló a Pallada téren bepillantást enged a helyiek életébe. A rövid buszút a Panagia-dombra szép kilátással ajándékoz meg. A templom és a múzeum után kényelmesen lesétálunk a kikötőbe, élvezve Tínosz városának téli nyugalmát.",
+            "ro": "Pornim în ziua senină de iarnă de la autogară. O scurtă oprire în Piața Pallada ne arată viața autentică a localnicilor. Scurta călătorie cu autobuzul spre dealul Panagia oferă o priveliște frumoasă. După biserică și muzeu, coborâm agale spre port, bucurându-ne de liniștea hibernală a orașului Tinos.",
+            "en": "We start the clear winter day at the bus station. A short stay at Pallada Square offers a glimpse into local life. The brief bus ride to Panagia Hill provides a nice view. After visiting the church and the museum, we enjoy a leisurely walk downhill to the harbor, taking in the winter stillness of Tinos Town."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Station (KTEL)",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan, die Frequenz ist geringer.",
+                "hu": "Ellenőrizze a téli menetrendet, a járatok ritkábban indulnak.",
+                "ro": "Verificați orarul de iarnă, frecvența este mai redusă.",
+                "en": "Check the winter schedule as frequency is reduced."
+              }
+            },
+            {
+              "name": "Pallada Square & Waterfront",
+              "tip_5lang": {
+                "de": "Die Cafés hier sind im Winter Treffpunkte der Einheimischen.",
+                "hu": "A kávézók télen a helyiek találkozóhelyei.",
+                "ro": "Cafenelele de aici sunt puncte de întâlnire pentru localnici iarna.",
+                "en": "The cafes here are local meeting points in winter."
+              }
+            },
+            {
+              "name": "Bus Ride to Panagia Evangelistria",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht aus dem Fenster auf das Meer.",
+                "hu": "Élvezze a tengerre nyíló kilátást az ablakból.",
+                "ro": "Bucurați-vă de vederea spre mare de la fereastra autobuzului.",
+                "en": "Enjoy the sea views from the bus window."
+              }
+            },
+            {
+              "name": "Panagia Evangelistria",
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet die Fassade wunderschön.",
+                "hu": "A téli napfény gyönyörűen megvilágítja a homlokzatot.",
+                "ro": "Soarele de iarnă luminează superb fațada bisericii.",
+                "en": "The winter sun illuminates the facade beautifully."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Tinos",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier sehr ruhig, ideal für Kunstgenuss.",
+                "hu": "Télen itt nagy a nyugalom, ideális a műalkotások befogadásához.",
+                "ro": "Este foarte liniște aici iarna, ideal pentru a savura arta.",
+                "en": "It's very quiet here in winter, ideal for enjoying art."
+              }
+            },
+            {
+              "name": "Walk Downhill to Port",
+              "tip_5lang": {
+                "de": "Der Spaziergang bergab ist in der Wintersonne sehr angenehm.",
+                "hu": "A lejtős séta a téli napsütésben kifejezetten kellemes.",
+                "ro": "Plimbarea la vale este foarte plăcută în soarele de iarnă.",
+                "en": "The downhill walk is very pleasant in the winter sun."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Im Winter verkehren Busse nur nach einem eingeschränkten Plan.",
+              "Die zentrale KTEL-Station ist der beste Ort für aktuelle Informationen.",
+              "Nutzen Sie die Mittagsstunden für Fahrten, wenn es am wärmsten ist.",
+              "Kombinieren Sie Busfahrten mit kurzen Spaziergängen durch die leeren Gassen.",
+              "Fragen Sie den Fahrer nach der letzten Rückfahrt in den Hafen."
+            ],
+            "hu": [
+              "Télen a buszok korlátozott menetrend szerint közlekednek.",
+              "A központi KTEL állomás a legjobb hely a friss információkért.",
+              "A déli órákra időzítse az utazást, ekkor van a legmelegebb.",
+              "Kombinálja a buszozást rövid sétákkal az üres sikátorokban.",
+              "Kérdezze meg a sofőrt az utolsó kikötői járat indulásáról."
+            ],
+            "ro": [
+              "Iarna autobuzele circulă conform unui program restricționat.",
+              "Stația centrală KTEL este cel mai bun loc pentru informații actualizate.",
+              "Folosiți orele amiezii pentru călătorii, când este cel mai cald.",
+              "Combinați călătoriile cu autobuzul cu scurte plimbări pe străzile pustii.",
+              "Întrebați șoferul despre ultima cursă de întoarcere spre port."
+            ],
+            "en": [
+              "In winter, buses operate on a restricted schedule.",
+              "The central KTEL station is the best place for current information.",
+              "Use the midday hours for trips when it is warmest.",
+              "Combine bus rides with short walks through the empty alleys.",
+              "Ask the driver about the last return trip to the harbor."
+            ]
+          }
+        }
       }
     }
   }

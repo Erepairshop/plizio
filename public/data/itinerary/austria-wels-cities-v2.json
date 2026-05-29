@@ -386,6 +386,214 @@
           "Plan a lunch break at one of the inns around the main square.",
           "Look out for the historic facades of the buildings on the main square."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am regnerischen Stadtplatz, wo die historischen Arkadenhöfe perfekten Schutz bieten. Man kann trocken zwischen den bunten Fassaden spazieren.\n\nMittags führt der Weg zum Schloss Wels. Die Ausstellungen zur Stadtgeschichte im Inneren garantieren ein spannendes Erlebnis, während es draußen stürmt.\n\nDer Nachmittag ist den archäologischen Schätzen im Minoritenkloster gewidmet. Die ruhigen Museumsräume sind der ideale Ort, um dem schlechten Wetter zu entfliehen.\n\nAbends klingt der Tag im Herminenhof aus. Das kulturelle Zentrum bietet oft Lesungen oder Ausstellungen in einer gemütlichen, geschützten Atmosphäre.",
+            "hu": "A reggel az esős Stadtplatzon indul, ahol a történelmi árkádos udvarok tökéletes menedéket nyújtanak. Szárazon sétálhatunk a színes homlokzatok között.\n\nDélben az út a welsi várba vezet. A várostörténeti kiállítások a falakon belül izgalmas élményt garantálnak, miközben odakint esik az eső.\n\nA délutánt a Minorita kolostor régészeti kincseinek szenteljük. A csendes múzeumi terek ideális helyszínt biztosítanak az időjárás elöli menekülésre.\n\nEste a nap a Herminenhofban zárul. A kulturális központ gyakran ad otthont felolvasásoknak vagy kiállításoknak barátságos, fedett környezetben.",
+            "ro": "Dimineața începe în Stadtplatz, unde curțile istorice cu arcade oferă protecție perfectă împotriva ploii. Puteți merge la pas printre fațadele colorate fără să vă udați.\n\nLa prânz, traseul duce la Castelul Wels. Expozițiile despre istoria orașului din interior garantează o experiență interesantă în timp ce afară plouă torențial.\n\nDupă-amiaza este dedicată comorilor arheologice din Mănăstirea Minorită. Sălile liniștite ale muzeului sunt locul ideal pentru a scăpa de vremea rea.\n\nSeara se încheie la Herminenhof. Acest centru cultural oferă adesea lecturi sau expoziții într-o atmosferă interioară primitoare și protejată.",
+            "en": "The morning begins at the rainy Stadtplatz, where the historic arcade courtyards provide perfect shelter. You can walk dry between the colorful facades.\n\nAt noon, the path leads to Wels Castle. The city history exhibitions inside guarantee an exciting experience while it is pouring outside.\n\nThe afternoon is dedicated to the archaeological treasures in the Minorite Monastery. The quiet museum rooms are the ideal place to escape the bad weather.\n\nThe evening ends at Herminenhof. The cultural center often offers readings or exhibitions in a cozy, sheltered atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Main Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge als trockene Abkürzung durch die Häuserzeilen.",
+                "hu": "Használja az árkádos folyosókat száraz rövidítésként a házsorok között.",
+                "ro": "Folosiți pasajele cu arcade ca scurtătură uscată printre rândurile de case.",
+                "en": "Use the arcade passages as a dry shortcut through the rows of houses."
+              }
+            },
+            {
+              "name": "Lederer Tower",
+              "tip_5lang": {
+                "de": "Ein kurzes Foto unter dem Schutz der Tordurchfahrt schont die Kamera.",
+                "hu": "A kapualj védelmében készített gyors fotó kíméli a fényképezőgépet.",
+                "ro": "O fotografie rapidă sub protecția porții va proteja camera de ploaie.",
+                "en": "A quick photo under the protection of the gateway saves your camera."
+              }
+            },
+            {
+              "name": "City Parish Church",
+              "tip_5lang": {
+                "de": "Die gotische Kirche bietet einen ruhigen Ort zum Trocknen und Innehalten.",
+                "hu": "A gótikus templom csendes helyet kínál a száradáshoz és az elmélyüléshez.",
+                "ro": "Biserica gotică oferă un loc liniștit pentru a vă usca și a vă reculege.",
+                "en": "The Gothic church offers a quiet place to dry off and pause."
+              }
+            },
+            {
+              "name": "Wels Castle",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, da das gesamte Museum wetterfest überdacht ist.",
+                "hu": "Tervezzen ide több időt, mivel az egész múzeum időjárásálló és fedett.",
+                "ro": "Alocați mai mult timp aici, deoarece întregul muzeu este acoperit și protejat.",
+                "en": "Plan more time here as the entire museum is weatherproof and covered."
+              }
+            },
+            {
+              "name": "Minorite Monastery",
+              "tip_5lang": {
+                "de": "Der Innenbereich beherbergt römische Funde, die man in Ruhe besichtigen kann.",
+                "hu": "A belső tér római leleteket őriz, amelyeket nyugodtan megtekinthetünk.",
+                "ro": "Interiorul găzduiește vestigii romane care pot fi vizitate în liniște.",
+                "en": "The interior houses Roman finds that can be viewed in peace."
+              }
+            },
+            {
+              "name": "Pollheimer Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon az aszfaltozott utakon a sár elkerülése érdekében.",
+                "ro": "Rămâneți pe aleile asfaltate pentru a evita noroiul.",
+                "en": "Stay on the paved paths to avoid mud."
+              }
+            },
+            {
+              "name": "Herminenhof",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Bibliothek im Haus, um bei einem Buch auf das Ende des Schauers zu warten.",
+                "hu": "Látogassa meg a házban található könyvtárat, és várja meg egy könyvvel az eső végét.",
+                "ro": "Vizitați biblioteca din incintă pentru a aștepta oprirea ploii cu o carte în mână.",
+                "en": "Visit the library inside to wait out the shower with a book."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Wels hat viele 'Durchhäuser', die als überdachte Passagen zwischen den Straßen dienen.",
+              "Die Museen Burg und Minoritenkloster bieten stundenlangen Schutz vor Regen.",
+              "In den Cafés am Stadtplatz kann man wunderbar die Zeit bis zum nächsten trockenen Fenster abwarten.",
+              "Ein fester Schirm ist bei Windböen am offenen Hauptplatz von Vorteil.",
+              "Prüfen Sie, ob Museen Garderoben für nasse Mäntel anbieten."
+            ],
+            "hu": [
+              "Welsben sok az 'átjáróház', amelyek fedett passzázsként szolgálnak az utcák között.",
+              "A vár és a Minorita kolostor múzeumai órákon át tartó védelmet nyújtanak az eső ellen.",
+              "A Stadtplatz kávézóiban remekül ki lehet várni a következő száraz időszakot.",
+              "Egy erős esernyő előnyös a főtéren előforduló széllökések esetén.",
+              "Ellenőrizze, hogy a múzeumokban van-e ruhatár a vizes kabátoknak."
+            ],
+            "ro": [
+              "Wels are multe 'case de trecere' care servesc drept pasaje acoperite între străzi.",
+              "Muzeele din Castel și Mănăstirea Minorită oferă ore de protecție împotriva ploii.",
+              "În cafenelele din Stadtplatz puteți aștepta confortabil următoarea fereastră fără ploaie.",
+              "O umbrelă rezistentă este utilă împotriva rafalelor de vânt din piața principală.",
+              "Verificați dacă muzeele oferă garderobă pentru hainele ude."
+            ],
+            "en": [
+              "Wels has many 'through-houses' that serve as covered passages between streets.",
+              "The Castle and Minorite Monastery museums offer hours of protection from rain.",
+              "The cafes on the Stadtplatz are perfect for waiting for the next dry window.",
+              "A sturdy umbrella is an advantage against wind gusts in the open main square.",
+              "Check if museums offer cloakrooms for wet coats."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Stadtplatz. Die kalte Luft beißt, aber der Anblick der historischen Giebel im Winterlicht ist lohnenswert.\n\nZur Mittagszeit bietet die Stadtpfarrkirche einen Ort der Stille. Die dicken Mauern halten den eisigen Wind fern, während man die Architektur bewundert.\n\nAm Nachmittag wärmt man sich im Schloss Wels auf. Die historischen Räume sind gut beheizt und bieten tiefe Einblicke in die regionale Vergangenheit.\n\nWenn die Dämmerung gegen 16:30 Uhr einsetzt, leuchten die Laternen im Pollheimer Park. Ein kurzer, knackiger Spaziergang führt zurück in die gemütliche Altstadt.",
+            "hu": "Deres reggel a Stadtplatzon. A hideg levegő csípős, de a történelmi oromzatok látványa a téli fényben megéri a sétát.\n\nDélidőben a városi plébániatemplom kínál csendes menedéket. A vastag falak távol tartják a jeges szelet, miközben az építészetet csodáljuk.\n\nDélután a welsi várban melegedhetünk fel. A történelmi termek jól fűtöttek, és mély betekintést nyújtanak a régió múltjába.\n\nAmikor 16:30 körül beáll a szürkület, kigyúlnak a lámpák a Pollheimer Parkban. Egy rövid, frissítő séta vezet vissza a hangulatos óvárosba.",
+            "ro": "O dimineață geroasă în Stadtplatz. Aerul rece ciupește obrajii, dar vederea frontoanelor istorice în lumina iernii merită efortul.\n\nLa ora prânzului, biserica parohială oferă un loc de liniște. Zidurile groase țin la distanță vântul înghețat în timp ce admirați arhitectura.\n\nDupă-amiaza vă puteți încălzi în Castelul Wels. Sălile istorice sunt bine încălzite și oferă o incursiune profundă în trecutul regiunii.\n\nCând amurgul se lasă în jurul orei 16:30, felinarele se aprind în Parcul Pollheimer. O plimbare scurtă și revigorantă vă duce înapoi în centrul vechi primitor.",
+            "en": "A frosty morning at the Stadtplatz. The cold air bites, but the sight of the historic gables in the winter light is rewarding.\n\nAt lunchtime, the city parish church offers a place of silence. The thick walls keep the icy wind away while you admire the architecture.\n\nIn the afternoon, warm up in Wels Castle. The historic rooms are well heated and offer deep insights into the regional past.\n\nWhen dusk sets in around 4:30 PM, the lanterns light up in Pollheimer Park. A short, crisp walk leads back to the cozy old town."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Main Square",
+              "tip_5lang": {
+                "de": "Starten Sie mit einem heißen Kaffee in einem der Traditionshäuser.",
+                "hu": "Kezdjen egy forró kávéval valamelyik tradicionális kávézóban.",
+                "ro": "Începeți ziua cu o cafea fierbinte într-una dintre cafenelele tradiționale.",
+                "en": "Start with a hot coffee in one of the traditional coffee houses."
+              }
+            },
+            {
+              "name": "Lederer Tower",
+              "tip_5lang": {
+                "de": "Vorsicht bei den Stufen, sie könnten bei Frost rutschig sein.",
+                "hu": "Vigyázat a lépcsőkkel, fagy esetén csúszósak lehetnek.",
+                "ro": "Atenție la trepte, pot fi alunecoase în caz de îngheț.",
+                "en": "Be careful with the steps, they might be slippery in case of frost."
+              }
+            },
+            {
+              "name": "City Parish Church",
+              "tip_5lang": {
+                "de": "Ein Ort der Besinnung, oft mit einer schönen Krippe in der Weihnachtszeit.",
+                "hu": "Az elmélyülés helye, karácsonykor gyakran szép betlehemmel.",
+                "ro": "Un loc de reculegere, adesea cu o scenă frumoasă a Nașterii în perioada Crăciunului.",
+                "en": "A place of reflection, often with a beautiful nativity scene during Christmas."
+              }
+            },
+            {
+              "name": "Wels Castle",
+              "tip_5lang": {
+                "de": "Die Ausstellungsräume sind angenehm temperiert und laden zum langen Verweilen ein.",
+                "hu": "A kiállítótermek kellemes hőmérsékletűek, hosszas időtöltésre csábítanak.",
+                "ro": "Sălile de expoziție au o temperatură plăcută, invitând la o vizită prelungită.",
+                "en": "The exhibition rooms are comfortably warm and invite for a long stay."
+              }
+            },
+            {
+              "name": "Minorite Monastery",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen zur Stadtgeschichte im geschützten Innenraum.",
+                "hu": "Tekintse meg a várostörténeti kiállításokat a védett belső terekben.",
+                "ro": "Vizitați expozițiile de istorie a orașului în spațiile interioare protejate.",
+                "en": "Visit the city history exhibitions in the protected interior spaces."
+              }
+            },
+            {
+              "name": "Pollheimer Park",
+              "tip_5lang": {
+                "de": "Die kahlen Bäume wirken bei Raureif besonders fotogen.",
+                "hu": "A kopasz fák zúzmara esetén különösen fotogének.",
+                "ro": "Copacii golași sunt deosebit de fotogenici atunci când sunt acoperiți de chiciură.",
+                "en": "The bare trees look especially photogenic when covered in hoarfrost."
+              }
+            },
+            {
+              "name": "Herminenhof",
+              "tip_5lang": {
+                "de": "Das Kulturzentrum bietet eine warme Zuflucht vor der Abendkälte.",
+                "hu": "A kulturális központ meleg menedéket nyújt az esti hideg elől.",
+                "ro": "Centrul cultural oferă un refugiu cald împotriva frigului de seară.",
+                "en": "The cultural center offers a warm refuge from the evening cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Schichten, da der Wind in den Gassen der Altstadt ziehen kann.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Nutzen Sie die vielen Konditoreien für eine Aufwärmpause mit Linzer Torte.",
+              "Achten Sie auf gestreute Wege, besonders in den Parkanlagen.",
+              "Besuchen Sie das Welios Science Center, falls Sie einen ganzen Vormittag Wärme suchen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a szél behúzhat az óváros szűk utcáiba.",
+              "A nap télen már 16:30 körül lenyugszik.",
+              "Használja ki a számos cukrászdát egy melegítő szünetre egy szelet Linzer tortával.",
+              "Figyeljen a szórt utakra, különösen a parkokban.",
+              "Látogassa meg a Welios Science Centert, ha egy egész délelőttnyi melegre vágyik."
+            ],
+            "ro": [
+              "Purtați haine în straturi, deoarece vântul poate fi tăios pe străzile înguste ale orașului vechi.",
+              "Soarele apune deja în jurul orei 16:30 pe timp de iarnă.",
+              "Profită de numeroasele cofetării pentru o pauză de încălzire cu o felie de tort Linzer.",
+              "Atenție la aleile antiderapante, în special în parcuri.",
+              "Vizitați Welios Science Center dacă căutați un loc cald pentru întreaga dimineață."
+            ],
+            "en": [
+              "Wear warm layers as the wind can draw through the alleys of the old town.",
+              "The sun sets as early as 4:30 PM in winter.",
+              "Use the many pastry shops for a warm-up break with a Linzer torte.",
+              "Watch out for salted paths, especially in the parks.",
+              "Visit the Welios Science Center if you seek warmth for a whole morning."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +950,196 @@
           "Take enough water with you, especially for the longer stretches outside the center.",
           "A bike lock is essential when visiting the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Start am Stadtplatz. Mit guter Regenkleidung ist die Fahrt zum Schloss Wels kurz und machbar.\n\nMittags bietet das Welios Science Center die perfekte Flucht. Stundenlanges Experimentieren im Trockenen lässt das Wetter vergessen.\n\nAm Nachmittag geht es zum Zoo Wels. Viele Gehege sind unter Bäumen oder überdacht, was den Besuch trotz Regen ermöglicht.\n\nDie Rückfahrt entlang der Traun bietet eine mystische Stimmung. Der Fluss dampft im Regen, bevor man das Rad im Zentrum wieder abgibt.",
+            "hu": "Esős kezdés a Stadtplatzon. Jó esőruházattal a welsi várig tartó út rövid és teljesíthető.\n\nDélben a Welios Science Center tökéletes menekülést kínál. Az órákon át tartó kísérletezés a szárazban elfeledteti az időjárást.\n\nDélután a welsi állatkertbe látogatunk. Sok kifutó fák alatt vagy fedett helyen van, így az eső ellenére is látogatható.\n\nA Traun menti visszaút misztikus hangulatot áraszt. A folyó párázik az esőben, mielőtt leadnánk a biciklit a központban.",
+            "ro": "Început ploios în Stadtplatz. Cu echipament adecvat, drumul până la Castelul Wels este scurt și realizabil.\n\nLa prânz, Welios Science Center oferă evadarea perfectă. Orele de experimente la interior vă vor face să uitați de vremea de afară.\n\nDupă-amiaza mergem la Grădina Zoologică Wels. Multe țarcări sunt sub copaci sau acoperite, ceea ce face vizita posibilă în ciuda ploii.\n\nDrumul de întoarcere de-a lungul râului Traun oferă o atmosferă mistică. Râul aburește în ploaie înainte de a returna bicicleta în centru.",
+            "en": "Rainy start at the Stadtplatz. With good rain gear, the ride to Wels Castle is short and manageable.\n\nAt noon, the Welios Science Center offers the perfect escape. Hours of experimenting in the dry will make you forget the weather.\n\nIn the afternoon, head to the Wels Zoo. Many enclosures are under trees or covered, making the visit possible despite the rain.\n\nThe ride back along the Traun offers a mystical atmosphere. The river steams in the rain before you return the bike in the center."
+          },
+          "stops": [
+            {
+              "name": "Start at Stadtplatz & Bike Rental",
+              "tip_5lang": {
+                "de": "Fragen Sie beim Verleih nach einem Sattelschutz gegen Nässe.",
+                "hu": "Kérjen a kölcsönzőben nyeregvédőt a nedvesség ellen.",
+                "ro": "Cereți o protecție pentru șa împotriva umezelii la centrul de închirieri.",
+                "en": "Ask at the rental for a saddle cover against wetness."
+              }
+            },
+            {
+              "name": "Wels Castle",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter den Torbogen ab, um es trocken zu halten.",
+                "hu": "Helyezze a biciklit a kapualj alá, hogy szárazon tartsa.",
+                "ro": "Lăsați bicicleta sub arcada porții pentru a o păstra uscată.",
+                "en": "Park the bike under the archway to keep it dry."
+              }
+            },
+            {
+              "name": "Welios Science Center",
+              "tip_5lang": {
+                "de": "Das Highlight für Regentage – komplett überdacht und interaktiv.",
+                "hu": "Az esős napok fénypontja – teljesen fedett és interaktív.",
+                "ro": "Punctul culminant pentru zilele ploioase – complet acoperit și interaktiv.",
+                "en": "The highlight for rainy days – completely covered and interactive."
+              }
+            },
+            {
+              "name": "Wels Zoo",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Pavillons bei starken Schauern.",
+                "hu": "Használja a fedett pavilonokat erős záporok esetén.",
+                "ro": "Folosiți pavilioanele acoperite în cazul averselor puternice.",
+                "en": "Use the covered pavilions during heavy showers."
+              }
+            },
+            {
+              "name": "Ride along the Traun River",
+              "tip_5lang": {
+                "de": "Vorsicht, die asphaltierten Wege können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, az aszfaltozott utak nedvesen csúszósak lehetnek.",
+                "ro": "Atenție, aleile asfaltate pot fi alunecoase când sunt ude.",
+                "en": "Be careful, the paved paths can be slippery when wet."
+              }
+            },
+            {
+              "name": "Return to the Main Square",
+              "tip_5lang": {
+                "de": "Geben Sie das Rad ab und wärmen Sie sich in einem nahen Café auf.",
+                "hu": "Adja le a biciklit, és melegedjen fel egy közeli kávézóban.",
+                "ro": "Returnați bicicleta și încălziți-vă într-o cafenea din apropiere.",
+                "en": "Return the bike and warm up in a nearby cafe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei den Wegen entlang der Traun essentiell.",
+              "Das Welios bietet Spinde, in denen man nasse Helme und Regenjacken verstauen kann.",
+              "Meiden Sie bei Starkregen die unbefestigten Abschnitte im Zoo.",
+              "Bremsen Sie auf Kopfsteinpflaster in der Altstadt vorsichtig.",
+              "Wels ist flach, was das Radfahren auch bei Gegenwind im Regen erleichtert."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a Traun menti utakon.",
+              "A Weliosban vannak szekrények, ahol tárolhatja a vizes sisakokat és esőkabátokat.",
+              "Heves esőzéskor kerülje az állatkert nem aszfaltozott szakaszait.",
+              "Az óváros macskaköves részein óvatosan fékezzen.",
+              "Wels sík terület, ami megkönnyíti a biciklizést esőben és ellenszélben is."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale pe aleile de-a lungul râului Traun.",
+              "Welios oferă dulapuri unde vă puteți depozita căștile și jachetele ude.",
+              "Evitați secțiunile neasfaltate din grădina zoologică în caz de ploaie abundentă.",
+              "Frânați cu prudență pe pavajul din centrul vechi.",
+              "Wels este un oraș plat, ceea ce ușurează mersul pe bicicletă chiar și pe ploaie cu vânt."
+            ],
+            "en": [
+              "Mudguards on the bike are essential for the paths along the Traun.",
+              "Welios offers lockers where you can store wet helmets and rain jackets.",
+              "Avoid unpaved sections in the zoo during heavy rain.",
+              "Brake carefully on cobblestones in the old town.",
+              "Wels is flat, which makes cycling easier even with headwinds in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen am Stadtplatz. Die Fahrt zum Schloss ist kurz, aber die Handschuhe sollten bereits an sein.\n\nMittags ist das Welios die Rettung vor der Kälte. Hier verbringt man die kältesten Stunden des Tages in einer warmen, modernen Umgebung.\n\nAm Nachmittag führt die Tour zum Zoo. Die klare Winterluft ist erfrischend, und viele Tiere sind auch bei Kälte aktiv.\n\nDie Fahrt entlang der Traun bietet im Winter weite Sicht durch die kahlen Bäume. Die Rückkehr in die beleuchtete Stadt schließt den Tag stimmungsvoll ab.",
+            "hu": "Hűvös reggel a Stadtplatzon. A várig tartó út rövid, de a kesztyűket már érdemes felvenni.\n\nDélben a Welios a mentőöv a hideg ellen. Itt a nap leghidegebb óráit meleg, modern környezetben tölthetjük.\n\nDélután a túra az állatkertbe vezet. A tiszta téli levegő frissítő, és sok állat hidegben is aktív.\n\nA Traun menti biciklizés télen messzi kilátást nyújt a kopasz fákon keresztül. A kivilágított városba való visszatérés hangulatosan zárja a napot.",
+            "ro": "O dimineață răcoroasă în Stadtplatz. Drumul până la castel este scurt, dar mănușile ar trebui să fie deja în mâini.\n\nLa prânz, Welios este colacul de salvare împotriva frigului. Aici puteți petrece cele mai reci ore ale zilei într-un mediu cald și modern.\n\nDupă-amiaza, turul duce la grădina zoologică. Aerul curat de iarnă este revigorant, iar multe animale sunt active și pe frig.\n\nDrumul de-a lungul râului Traun oferă iarna o vizibilitate largă printre copacii golași. Întoarcerea în orașul luminat încheie ziua într-o notă atmosferică.",
+            "en": "A cool morning at the Stadtplatz. The ride to the castle is short, but gloves should already be on.\n\nAt noon, Welios is the rescue from the cold. Here you spend the coldest hours of the day in a warm, modern environment.\n\nIn the afternoon, the tour leads to the zoo. The clear winter air is refreshing, and many animals are active even in the cold.\n\nThe ride along the Traun in winter offers broad views through the bare trees. Returning to the lit-up city closes the day atmospherically."
+          },
+          "stops": [
+            {
+              "name": "Start at Stadtplatz & Bike Rental",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck, da dieser bei Kälte leicht sinken kann.",
+                "hu": "Ellenőrizze a guminyomást, mivel a hidegben kissé csökkenhet.",
+                "ro": "Verificați presiunea în anvelope, deoarece poate scădea ușor la frig.",
+                "en": "Check the tire pressure, as it can drop slightly in the cold."
+              }
+            },
+            {
+              "name": "Wels Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg, um die Glieder in Schwung zu halten.",
+                "hu": "Használja ki a rövid utat a végtagok mozgásban tartására.",
+                "ro": "Folosiți drumul scurt pentru a vă menține circulația activă.",
+                "en": "Use the short ride to keep your limbs moving."
+              }
+            },
+            {
+              "name": "Welios Science Center",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um die Kälte für ein paar Stunden komplett zu vergessen.",
+                "hu": "Tökéletes hely, hogy pár órára teljesen elfelejtse a hideget.",
+                "ro": "Locul perfect pentru a uita complet de frig pentru câteva ore.",
+                "en": "The perfect place to completely forget the cold for a few hours."
+              }
+            },
+            {
+              "name": "Wels Zoo",
+              "tip_5lang": {
+                "de": "Beobachten Sie Tiere, die sich im Winterfell besonders wohl fühlen.",
+                "hu": "Figyelje meg azokat az állatokat, amelyek téli bundában érzik jól magukat.",
+                "ro": "Observați animalele care se simt deosebit de bine în blana de iarnă.",
+                "en": "Observe animals that feel particularly comfortable in their winter coats."
+              }
+            },
+            {
+              "name": "Ride along the Traun River",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif oder Glätte auf den Brücken über die Traun.",
+                "hu": "Ügyeljen a zúzmarára vagy a csúszós felületekre a Traun hídjain.",
+                "ro": "Atenție la chiciură sau polei pe podurile peste râul Traun.",
+                "en": "Watch out for hoarfrost or slippery spots on the bridges over the Traun."
+              }
+            },
+            {
+              "name": "Return to the Main Square",
+              "tip_5lang": {
+                "de": "Geben Sie das Rad vor Einbruch der frühen Dunkelheit ab.",
+                "hu": "Adja le a biciklit a korai sötétedés beállta előtt.",
+                "ro": "Returnați bicicleta înainte de lăsarea întunericului, care vine devreme.",
+                "en": "Return the bike before the early darkness sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme, winddichte Handschuhe sind bei Fahrten entlang des Flusses unverzichtbar.",
+              "Die Wege an der Traun werden geräumt, können aber im Schatten vereist sein.",
+              "Nutzen Sie die kurzen Distanzen zwischen den Museen, um nicht zu stark auszukühlen.",
+              "Das Welios hat ein Café, in dem man sich zwischendurch aufwärmen kann.",
+              "Achten Sie auf funktionierendes Licht, da es ab 16:30 Uhr dunkel wird."
+            ],
+            "hu": [
+              "A meleg, szélálló kesztyű elengedhetetlen a folyó menti kerékpározáshoz.",
+              "A Traun menti utakat takarítják, de az árnyékos részeken jegesek maradhatnak.",
+              "Használja ki a múzeumok közötti rövid távolságokat, hogy ne hűljön ki túlságosan.",
+              "A Weliosban van egy kávézó, ahol időközben felmelegedhet.",
+              "Ügyeljen a működő világításra, mivel 16:30-tól már sötét van."
+            ],
+            "ro": [
+              "Mănușile calde și rezistente la vânt sunt indispensabile pentru plimbările de-a lungul râului.",
+              "Aleile de lângă Traun sunt curățate, dar pot fi înghețate în zonele umbrite.",
+              "Profită de distanțele scurte dintre muzee pentru a nu vă răci prea tare.",
+              "Welios are o cafenea unde vă puteți încălzi între timp.",
+              "Asigurați-vă că luminile bicicletei funcționează, deoarece se întunecă după ora 16:30."
+            ],
+            "en": [
+              "Warm, windproof gloves are essential for rides along the river.",
+              "The paths along the Traun are cleared but can be icy in shaded areas.",
+              "Use the short distances between museums to avoid getting too chilled.",
+              "Welios has a cafe where you can warm up in between.",
+              "Ensure working lights as it gets dark from 4:30 PM."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1496,196 @@
           "Pay attention to parking management (short-term parking zones).",
           "A navigation device helps to find the different clusters quickly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Tour startet bequem mit dem Wagen nahe dem Stadtplatz. Ein kurzer Sprint durch den Regen führt zu den Arkaden.\n\nMittags besucht man die Stadtpfarrkirche und das Schloss Wels. Die kurzen Wege zwischen den Parkplätzen und den Zielen minimieren die Nässe.\n\nDer Nachmittag gehört dem Welios Science Center. Das Auto steht sicher in der Nähe, während man drinnen die Welt der Technik entdeckt.\n\nZum Abschluss geht es zum Zoo und zum Pollheimer Park. Die Fahrt durch das regnerische Wels ist entspannt, bevor man den Tag in einem Restaurant beendet.",
+            "hu": "A túra kényelmesen, autóval indul a Stadtplatz közelében. Egy rövid sprint az esőben, és már az árkádok alatt vagyunk.\n\nDélben meglátogatjuk a plébániatemplomot és a welsi várat. A parkolók és a célpontok közötti rövid távolság minimalizálja az elázást.\n\nA délután a Welios Science Centeré. Az autó biztonságban áll a közelben, miközben bent a technika világát fedezzük fel.\n\nZárásként az állatkert és a Pollheimer Park következik. Az autózás az esős Welsben pihentető, mielőtt a napot egy étteremben fejeznénk be.",
+            "ro": "Turul începe confortabil cu mașina lângă Stadtplatz. Un scurt sprint prin ploaie vă duce la arcade.\n\nLa prânz se vizitează biserica parohială și Castelul Wels. Distanțele scurte între parcări și obiective minimizează expunerea la ploaie.\n\nDupă-amiaza aparține Welios Science Center. Mașina este parcată în siguranță în apropiere în timp ce descoperiți lumea tehnologiei în interior.\n\nLa final mergem la grădina zoologică și la Parcul Pollheimer. Drumul prin Wels-ul ploios este relaxant înainte de a încheia ziua la un restaurant.",
+            "en": "The tour starts comfortably by car near the Stadtplatz. A short sprint through the rain leads to the arcades.\n\nAt noon, visit the city parish church and Wels Castle. The short distances between parking lots and destinations minimize wetness.\n\nThe afternoon belongs to the Welios Science Center. The car is safely parked nearby while you discover the world of technology inside.\n\nFinally, head to the zoo and Pollheimer Park. The drive through rainy Wels is relaxed before ending the day at a restaurant."
+          },
+          "stops": [
+            {
+              "name": "Parking & Old Town Cluster: Main Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgaragen in der Innenstadt, um direkt im Trockenen zu parken.",
+                "hu": "Használja a belvárosi mélygarázsokat, hogy közvetlenül száraz helyen parkolhasson.",
+                "ro": "Folosiți parcările subterane din centru pentru a parca direct la adăpost.",
+                "en": "Use the underground parking garages in the city center to park directly in the dry."
+              }
+            },
+            {
+              "name": "City Parish Church",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor der Kirche ermöglichen einen schnellen Zugang ohne Schirm.",
+                "hu": "A közvetlenül a templom előtti parkolóhelyek gyors bejutást tesznek lehetővé esernyő nélkül.",
+                "ro": "Locurile de parcare direct în fața bisericii permit accesul rapid fără umbrelă.",
+                "en": "Parking spaces directly in front of the church allow quick access without an umbrella."
+              }
+            },
+            {
+              "name": "Wels Castle",
+              "tip_5lang": {
+                "de": "Das Parken in der Pollheimerstraße bietet einen kurzen Gehweg zum Schlosseingang.",
+                "hu": "A Pollheimerstraßén való parkolás rövid utat kínál a vár bejáratához.",
+                "ro": "Parcarea pe Pollheimerstraße oferă un drum scurt până la intrarea în castel.",
+                "en": "Parking in Pollheimerstraße offers a short walk to the castle entrance."
+              }
+            },
+            {
+              "name": "Drive to the Science Cluster: Welios Science Center",
+              "tip_5lang": {
+                "de": "Das Welios hat einen eigenen großen Parkplatz direkt am Gebäude.",
+                "hu": "A Weliosnak saját nagy parkolója van közvetlenül az épület mellett.",
+                "ro": "Welios are o parcare mare proprie direct lângă clădire.",
+                "en": "Welios has its own large parking lot directly at the building."
+              }
+            },
+            {
+              "name": "Wels Zoo",
+              "tip_5lang": {
+                "de": "Der Zoo-Parkplatz ist oft auch bei Regen gut besucht, kommen Sie rechtzeitig.",
+                "hu": "Az állatkert parkolója esőben is forgalmas lehet, érkezzen időben.",
+                "ro": "Parcarea grădinii zoologice este adesea vizitată și pe ploaie, veniți din timp.",
+                "en": "The zoo parking lot is often busy even in the rain, arrive on time."
+              }
+            },
+            {
+              "name": "Drive to the Park Cluster: Pollheimer Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Park bequem aus dem trockenen Wagen.",
+                "hu": "Élvezze a parkra nyíló kilátást kényelmesen, a száraz autóból.",
+                "ro": "Bucurați-vă de vederea spre parc confortabil din mașina uscată.",
+                "en": "Enjoy the view of the park comfortably from the dry car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Kurzparkzonen in Wels sind am Wochenende oft gebührenfrei.",
+              "Nutzen Sie die Parkgarage am Kaiser-Josef-Platz für einen zentralen, trockenen Start.",
+              "Bei starkem Regen ist das Welios das am besten erreichbare Ziel mit dem Auto.",
+              "Halten Sie einen Schirm im Auto bereit für den Weg vom Parkplatz zum Eingang.",
+              "Die Straßen in Wels sind gut ausgebaut und bei Regen problemlos befahrbar."
+            ],
+            "hu": [
+              "Wels rövid idejű parkolási zónái hétvégén gyakran díjmentesek.",
+              "Használja a Kaiser-Josef-Platz parkológarázsát a központi, száraz kezdéshez.",
+              "Heves esőzéskor a Welios autóval a legkönnyebben elérhető célpont.",
+              "Tartson esernyőt az autóban a parkolótól a bejáratig tartó útra.",
+              "Wels útjai jól kiépítettek és esőben is problémamentesen járhatók."
+            ],
+            "ro": [
+              "Zonele de parcare pe termen scurt din Wels sunt adesea gratuite în weekend.",
+              "Folosiți parcarea de la Kaiser-Josef-Platz pentru un început central și uscat.",
+              "În caz de ploaie abundentă, Welios este cea mai accesibilă destinație cu mașina.",
+              "Păstrați o umbrelă în mașină pentru drumul de la parcare până la intrare.",
+              "Străzile din Wels sunt bine întreținute și pot fi parcurse fără probleme pe ploaie."
+            ],
+            "en": [
+              "Short-term parking zones in Wels are often free of charge on weekends.",
+              "Use the parking garage at Kaiser-Josef-Platz for a central, dry start.",
+              "During heavy rain, Welios is the most accessible destination by car.",
+              "Keep an umbrella in the car for the walk from the parking lot to the entrance.",
+              "The roads in Wels are well-developed and easily navigable in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start mit dem vorgeheizten Wagen. Die Altstadt von Wels wirkt im Winterlicht besonders ruhig.\n\nMittags besucht man die Pfarrkirche und das Schloss. Die kurzen Distanzen zwischen den beheizten Innenräumen und dem Auto machen den Tag angenehm.\n\nDer Nachmittag im Welios bietet moderne Technik in wohliger Wärme. Draußen sinken die Temperaturen, während man drinnen experimentiert.\n\nZum Abschluss führt die Fahrt zum Zoo und zum frostigen Pollheimer Park. Die beleuchteten Straßen der Stadt führen zurück zu einem gemütlichen Abendessen.",
+            "hu": "Deres kezdés az előmelegített autóval. Wels óvárosa a téli fényben különösen nyugodtnak tűnik.\n\nDélben meglátogatjuk a plébániatemplomot és a várat. A fűtött belső terek és az autó közötti rövid távolságok kellemessé teszik a napot.\n\nA délután a Weliosban modern technikát kínál kellemes melegben. Odakint süllyed a hőmérséklet, miközben bent kísérletezünk.\n\nZárásként az állatkerthez és a deres Pollheimer Parkhoz autózunk. A város kivilágított utcái egy hangulatos vacsorához vezetnek vissza.",
+            "ro": "Un început geros cu mașina preîncălzită. Centrul vechi din Wels pare deosebit de liniștit în lumina iernii.\n\nLa prânz se vizitează biserica parohială și castelul. Distanțele scurte între spațiile interioare încălzite și mașină fac ziua plăcută.\n\nDupă-amiaza la Welios oferă tehnologie modernă într-o căldură primitoare. Afară temperaturile scad, în timp ce în interior experimentați.\n\nLa final, drumul duce la grădina zoologică și la Parcul Pollheimer înghețat. Străzile iluminate ale orașului vă conduc înapoi spre o cină confortabilă.",
+            "en": "A frosty start with the preheated car. Wels' old town looks particularly quiet in the winter light.\n\nAt noon, visit the parish church and the castle. The short distances between the heated interiors and the car make the day pleasant.\n\nIn the afternoon at Welios, modern technology is offered in cozy warmth. Outside the temperatures drop while you experiment inside.\n\nFinally, the drive leads to the zoo and the frosty Pollheimer Park. The lit-up streets of the city lead back to a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Parking & Old Town Cluster: Main Square",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe der Bäckereien für einen schnellen, warmen Snack.",
+                "hu": "Parkoljon a pékségek közelében egy gyors, meleg snackért.",
+                "ro": "Parcați lângă brutării pentru o gustare caldă rapidă.",
+                "en": "Park near the bakeries for a quick, warm snack."
+              }
+            },
+            {
+              "name": "City Parish Church",
+              "tip_5lang": {
+                "de": "Die Kirche ist ein guter Ort, um die winterliche Stille der Stadt zu erleben.",
+                "hu": "A templom jó hely a város téli csendjének megtapasztalására.",
+                "ro": "Biserica este un loc bun pentru a experimenta liniștea hibernală a orașului.",
+                "en": "The church is a good place to experience the winter silence of the city."
+              }
+            },
+            {
+              "name": "Wels Castle",
+              "tip_5lang": {
+                "de": "Das Museum ist gut geheizt und bietet eine willkommene Pause vom Frost.",
+                "hu": "A múzeum jól fűtött, és szívesen látott szünetet nyújt a fagy elől.",
+                "ro": "Muzeul este bine încălzit și oferă o pauză binevenită de la ger.",
+                "en": "The museum is well heated and offers a welcome break from the frost."
+              }
+            },
+            {
+              "name": "Drive to the Science Cluster: Welios Science Center",
+              "tip_5lang": {
+                "de": "Die Fahrt über die Traunbrücke bietet einen schönen Blick auf den winterlichen Fluss.",
+                "hu": "A Traun-hídon való áthajtás szép kilátást nyújt a téli folyóra.",
+                "ro": "Drumul peste podul Traun oferă o vedere frumoasă asupra râului iarna.",
+                "en": "The drive over the Traun bridge offers a beautiful view of the winter river."
+              }
+            },
+            {
+              "name": "Wels Zoo",
+              "tip_5lang": {
+                "de": "Die Parkplätze sind im Winter meist direkt am Eingang verfügbar.",
+                "hu": "Télen a parkolóhelyek általában közvetlenül a bejáratnál elérhetőek.",
+                "ro": "Locurile de parcare sunt iarna de obicei disponibile direct la intrare.",
+                "en": "Parking spaces are usually available directly at the entrance in winter."
+              }
+            },
+            {
+              "name": "Drive to the Park Cluster: Pollheimer Park",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für ein Foto der verschneiten oder gefrorenen Parklandschaft.",
+                "hu": "Rövid megálló egy fotóra a havas vagy fagyos parkról.",
+                "ro": "Scurtă oprire pentru o fotografie a parcului înzăpezit sau înghețat.",
+                "en": "Short stop for a photo of the snowy or frozen park landscape."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Winterreifen und die Lichtverhältnisse am späten Nachmittag.",
+              "Die Parkhäuser bieten Schutz vor Schneefall und vereisten Scheiben.",
+              "Wels hat eine kompakte Innenstadt, in der man das Auto für mehrere Stopps stehen lassen kann.",
+              "Nutzen Sie die Sitzheizung für die kurzen Fahrten zwischen den Sehenswürdigkeiten.",
+              "Die Hauptstraßen werden in Wels zuverlässig von Schnee und Eis befreit."
+            ],
+            "hu": [
+              "Ügyeljen a téli gumikra és a késő délutáni fényviszonyokra.",
+              "A parkolóházak védelmet nyújtanak a hóesés és a jeges szélvédő ellen.",
+              "Wels belvárosa kompakt, így az autót több megálló idejére is egy helyen hagyhatja.",
+              "Használja az ülésfűtést a látnivalók közötti rövid utakon.",
+              "Wels főútjait megbízhatóan megtisztítják a hótól és a jégtől."
+            ],
+            "ro": [
+              "Atenție la anvelopele de iarnă și la condițiile de iluminare de la sfârșitul după-amiezii.",
+              "Parcările acoperite oferă protecție împotriva zăpezii și înghețării parbrizului.",
+              "Wels are un centru compact unde puteți lăsa mașina pentru mai multe opriri.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte între obiective.",
+              "Străzile principale din Wels sunt curățate eficient de zăpadă și gheață."
+            ],
+            "en": [
+              "Pay attention to winter tires and lighting conditions in the late afternoon.",
+              "Parking garages offer protection from snowfall and icy windshields.",
+              "Wels has a compact city center where you can leave the car for several stops.",
+              "Use the seat heating for the short drives between the sights.",
+              "The main roads in Wels are reliably cleared of snow and ice."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2042,196 @@
           "Pay attention to the displays at the stops for the next departures.",
           "Plan some buffer time for waiting at the stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ankunft am regnerischen Kaiser-Josef-Platz. Der zentrale Busknoten bietet überdachte Warteflächen für einen trockenen Start.\n\nMittags geht es mit dem Bus zum Schloss Wels. Die Fahrt durch das nasse Wels ist kurz und bringt Sie direkt zum Eingang des Museums.\n\nDer Nachmittag wird im Minoritenkloster verbracht. Die zentrale Lage ermöglicht einen schnellen Wechsel zwischen Bus und Kultur.\n\nZum Abschluss bringt Sie die Linie 15 zum Zoo Wels. Die Busse sind gut temperiert und bieten eine angenehme Fahrt durch das regnerische Stadtgebiet.",
+            "hu": "Érkezés az esős Kaiser-Josef-Platzra. A központi buszcsomópont fedett váróterületei száraz kezdést biztosítanak.\n\nDélben busszal utazunk a welsi várhoz. Az utazás az esős Welsben rövid, és közvetlenül a múzeum bejáratához visz.\n\nA délutánt a Minorita kolostorban töltjük. A központi elhelyezkedés lehetővé teszi a gyors váltást a busz és a kultúra között.\n\nZárásként a 15-ös járat visz el az állatkerthez. A buszok kellemes hőmérsékletűek és kényelmes utazást nyújtanak az esős városban.",
+            "ro": "Sosire în Stadtplatz-ul ploios la Kaiser-Josef-Platz. Nodul central de autobuze oferă zone de așteptare acoperite pentru un început uscat.\n\nLa prânz se merge cu autobuzul la Castelul Wels. Drumul prin Wels-ul ud este scurt și vă lasă direct la intrarea muzeului.\n\nDupă-amiaza este petrecută la Mănăstirea Minorită. Locația centrală permite o schimbare rapidă între autobuz și cultură.\n\nLa final, linia 15 vă duce la grădina zoologică. Autobuzele sunt bine încălzite și oferă o călătorie plăcută prin zona urbană ploioasă.",
+            "en": "Arrival at the rainy Kaiser-Josef-Platz. The central bus hub offers covered waiting areas for a dry start.\n\nAt noon, take the bus to Wels Castle. The ride through wet Wels is short and brings you directly to the museum entrance.\n\nThe afternoon is spent in the Minorite Monastery. The central location allows for a quick switch between bus and culture.\n\nFinally, line 15 takes you to the Wels Zoo. The buses are well-tempered and offer a pleasant ride through the rainy city area."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Kaiser-Josef-Platz (Central Bus Hub)",
+              "tip_5lang": {
+                "de": "Die großen Glasdächer schützen zuverlässig vor dem Regen beim Umsteigen.",
+                "hu": "A nagy üvegtetők megbízhatóan védenek az esőtől átszállás közben.",
+                "ro": "Acoperișurile mari de sticlă protejează eficient împotriva ploii la transfer.",
+                "en": "The large glass roofs reliably protect from the rain during transfer."
+              }
+            },
+            {
+              "name": "Walk to the Main Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Fußweg entlang der Geschäftsauslagen, um trocken zu bleiben.",
+                "hu": "Használja a rövid gyalogutat az üzletek kirakatai mentén, hogy száraz maradjon.",
+                "ro": "Folosiți drumul scurt pe lângă vitrinele magazinelor pentru a rămâne uscați.",
+                "en": "Use the short walk along the shop windows to stay dry."
+              }
+            },
+            {
+              "name": "Lederer Tower",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt fast direkt vor dem historischen Turm.",
+                "hu": "A buszmegálló szinte közvetlenül a történelmi torony előtt található.",
+                "ro": "Stația de autobuz este situată aproape direct în fața turnului istoric.",
+                "en": "The bus stop is located almost directly in front of the historic tower."
+              }
+            },
+            {
+              "name": "Bus ride to the Museum Cluster: Wels Castle",
+              "tip_5lang": {
+                "de": "Die Linie 1 hält ganz in der Nähe des Schlossparks.",
+                "hu": "Az 1-es járat egészen közel áll meg a várparkhoz.",
+                "ro": "Linia 1 oprește foarte aproape de parcul castelului.",
+                "en": "Line 1 stops very close to the castle park."
+              }
+            },
+            {
+              "name": "Minorite Monastery",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Bus bringt Sie in die archäologischen Hallen.",
+                "hu": "Egy rövid sprint a busztól, és már a régészeti csarnokokban is van.",
+                "ro": "Un scurt sprint de la autobuz vă duce în sălile arheologice.",
+                "en": "A short sprint from the bus brings you into the archaeological halls."
+              }
+            },
+            {
+              "name": "Bus ride to the Recreation Cluster: Wels Zoo",
+              "tip_5lang": {
+                "de": "Die Linien 15 und 16 bringen Sie direkt zum Messegelände/Zoo.",
+                "hu": "A 15-ös és 16-os járatok közvetlenül a vásártérhez/állatkerthez visznek.",
+                "ro": "Liniile 15 și 16 vă duc direct la zona expozițională/grădina zoologică.",
+                "en": "Lines 15 and 16 take you directly to the exhibition grounds/zoo."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die OÖVV-App für Echtzeit-Informationen bei wetterbedingten Verzögerungen.",
+              "Der Kaiser-Josef-Platz ist der ideale Ort, um überdacht auf den nächsten Anschluss zu warten.",
+              "In den Bussen ist es warm und trocken, ideal um sich zwischen den Besuchen zu erholen.",
+              "Die Kurzstreckentickets sind ideal für die schnellen Sprünge zwischen den Clustern.",
+              "Bei Regen sind die Busse oft voller, planen Sie etwas Pufferzeit ein."
+            ],
+            "hu": [
+              "Használja az OÖVV alkalmazást a valós idejű információkért időjárás miatti késések esetén.",
+              "A Kaiser-Josef-Platz ideális hely a fedett várakozáshoz a következő járatig.",
+              "A buszokon meleg és száraz az idő, ideális a pihenéshez a látogatások között.",
+              "A rövid távú jegyek ideálisak a klaszterek közötti gyors váltáshoz.",
+              "Esőben a buszok gyakran zsúfoltabbak, tervezzen némi pufferidőt."
+            ],
+            "ro": [
+              "Folosiți aplicația OÖVV pentru informații în timp real în caz de întârzieri cauzate de vreme.",
+              "Kaiser-Josef-Platz este locul ideal pentru a aștepta la adăpost următoarea conexiune.",
+              "În autobuze este cald și uscat, ideal pentru a vă odihni între vizite.",
+              "Biletele pentru distanțe scurte sunt ideale pentru deplasările rapide între zone.",
+              "Pe ploaie autobuzele sunt adesea mai pline, alocați puțin timp suplimentar."
+            ],
+            "en": [
+              "Use the OÖVV app for real-time information in case of weather-related delays.",
+              "Kaiser-Josef-Platz is the ideal place to wait undercover for the next connection.",
+              "It's warm and dry on the buses, ideal for recovering between visits.",
+              "Short-haul tickets are ideal for quick jumps between the clusters.",
+              "Buses are often fuller in the rain, plan some buffer time."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Wintermorgen am Kaiser-Josef-Platz. Die beheizten Wartebereiche im Info-Center sind ein Segen vor dem ersten Bus.\n\nMittags führt die Fahrt zum Schloss Wels. Die kurzen Wege von den Haltestellen in die warmen Museen machen den Wintertag erträglich.\n\nAm Nachmittag besucht man das Minoritenkloster. Die Busverbindungen in der Innenstadt sind eng getaktet und minimieren die Wartezeit in der Kälte.\n\nZum Abschluss bringt Sie der Bus zum Zoo. Die beleuchtete Stadt zieht am Fenster vorbei, während man sicher und warm zum letzten Ziel des Tages gelangt.",
+            "hu": "Hideg téli reggel a Kaiser-Josef-Platzon. Az információs központ fűtött várótermei áldásnak bizonyulnak az első busz előtt.\n\nDélben az út a welsi várhoz vezet. A megállóktól a meleg múzeumokig tartó rövid távolságok elviselhetővé teszik a téli napot.\n\nDélután a Minorita kolostort látogatjuk meg. A belvárosi buszjáratok sűrűn közlekednek, minimalizálva a hidegben való várakozást.\n\nZárásként a busz az állatkerthez visz. A kivilágított város elsuhan az ablak előtt, miközben biztonságban és melegben érünk a nap utolsó célpontjához.",
+            "ro": "O dimineață rece de iarnă în Kaiser-Josef-Platz. Zonele de așteptare încălzite din centrul de informații sunt o binecuvântare înainte de primul autobuz.\n\nLa prânz se merge la Castelul Wels. Distanțele scurte de la stații până la muzeele călduroase fac ziua de iarnă suportabilă.\n\nDupă-amiaza se vizitează Mănăstirea Minorită. Conexiunile de autobuz din centru sunt frecvente, minimizând timpul de așteptare în frig.\n\nLa final, autobuzul vă duce la grădina zoologică. Orașul iluminat trece pe lângă fereastră în timp ce ajungeți sigur și la căldură la ultima destinație a zilei.",
+            "en": "A cold winter morning at Kaiser-Josef-Platz. The heated waiting areas in the info center are a blessing before the first bus.\n\nAt noon, the ride leads to Wels Castle. The short walks from the stops into the warm museums make the winter day bearable.\n\nIn the afternoon, visit the Minorite Monastery. Bus connections in the city center are frequent, minimizing waiting time in the cold.\n\nFinally, the bus takes you to the zoo. The lit-up city passes by the window while you reach the last destination of the day safely and warmly."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Kaiser-Josef-Platz (Central Bus Hub)",
+              "tip_5lang": {
+                "de": "Nutzen Sie das beheizte Kundencenter für Fahrplanauskünfte im Warmen.",
+                "hu": "Használja a fűtött ügyfélközpontot a menetrendi információkért a melegben.",
+                "ro": "Folosiți centrul pentru clienți încălzit pentru informații despre mersul autobuzelor.",
+                "en": "Use the heated customer center for schedule information in the warm."
+              }
+            },
+            {
+              "name": "Walk to the Main Square",
+              "tip_5lang": {
+                "de": "Ein schneller Gang durch die beleuchtete Fußgängerzone hält warm.",
+                "hu": "Egy gyors séta a kivilágított sétálóutcán melegen tart.",
+                "ro": "O plimbare rapidă prin zona pietonală iluminată vă va menține circulația.",
+                "en": "A quick walk through the lit pedestrian zone keeps you warm."
+              }
+            },
+            {
+              "name": "Lederer Tower",
+              "tip_5lang": {
+                "de": "Der Turm sieht im winterlichen Abendlicht besonders eindrucksvoll aus.",
+                "hu": "A torony a téli esti fényben különösen hatásos látványt nyújt.",
+                "ro": "Turnul arată deosebit de impresionant în lumina serii de iarnă.",
+                "en": "The tower looks especially impressive in the winter evening light."
+              }
+            },
+            {
+              "name": "Bus ride to the Museum Cluster: Wels Castle",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter meist gut geheizt und bieten eine Pause vom Frost.",
+                "hu": "A buszok télen általában jól fűtöttek, szünetet kínálva a fagy elől.",
+                "ro": "Autobuzele sunt de obicei bine încălzite iarna, oferind o pauză de la ger.",
+                "en": "Buses are usually well heated in winter, offering a break from the frost."
+              }
+            },
+            {
+              "name": "Minorite Monastery",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum am späten Nachmittag, wenn es draußen am kältesten wird.",
+                "hu": "Látogassa meg a múzeumot késő délután, amikor odakint a leghidegebb van.",
+                "ro": "Vizitați muzeul târziu după-amiaza, când afară este cel mai frig.",
+                "en": "Visit the museum in the late afternoon when it gets coldest outside."
+              }
+            },
+            {
+              "name": "Bus ride to the Recreation Cluster: Wels Zoo",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Winteröffnungszeiten des Zoos, die meist früher enden.",
+                "hu": "Ügyeljen az állatkert téli nyitvatartására, amely általában korábban zárul.",
+                "ro": "Atenție la programul de iarnă al grădinii zoologice, care se încheie de obicei mai devreme.",
+                "en": "Watch out for the winter opening hours of the zoo, which usually end earlier."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse in Wels verkehren auch bei Schneefall zuverlässig.",
+              "Nutzen Sie die Wartezeiten am K-J-Platz für einen schnellen Tee am Kiosk.",
+              "Am späten Nachmittag sind die Busse oft stimmungsvoll beleuchtet.",
+              "Die Haltestellen in der Innenstadt liegen sehr nah an den Eingängen der Sehenswürdigkeiten.",
+              "Prüfen Sie die letzten Rückfahrten, da der Verkehr am Abend abnehmen kann."
+            ],
+            "hu": [
+              "A welsi buszok hóesésben is megbízhatóan közlekednek.",
+              "Használja ki a várakozási időt a K-J-Platzon egy gyors teára a kioszknál.",
+              "Késő délután a buszok gyakran hangulatosan kivilágítottak.",
+              "A belvárosi megállók nagyon közel vannak a látnivalók bejárataihoz.",
+              "Ellenőrizze az utolsó járatokat, mivel este csökkenhet a forgalom."
+            ],
+            "ro": [
+              "Autobuzele din Wels circulă fiabil chiar și în caz de ninsoare.",
+              "Profită de timpul de așteptare din K-J-Platz pentru un ceai rapid la chioșc.",
+              "La sfârșitul după-amiezii autobuzele sunt adesea iluminate atmosferic.",
+              "Stațiile din centru sunt foarte aproape de intrările obiectivelor turistice.",
+              "Verificați ultimele curse de întoarcere, deoarece traficul poate scădea seara."
+            ],
+            "en": [
+              "Buses in Wels run reliably even during snowfall.",
+              "Use the waiting times at K-J-Platz for a quick tea at the kiosk.",
+              "In the late afternoon, the buses are often atmospherically lit.",
+              "The stops in the city center are very close to the entrances of the sights.",
+              "Check the last return trips as traffic may decrease in the evening."
+            ]
+          }
+        }
       }
     }
   }

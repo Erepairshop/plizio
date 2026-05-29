@@ -379,6 +379,206 @@
           "Most sights in the city center are easily reachable on foot.",
           "Allow for extra time for unexpected discoveries in the side streets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Cahul beginnt unter einem grauen Himmel, während Regentropfen auf den Unabhängigkeitsplatz trommeln. Die Stadt wirkt ruhig, fast melancholisch.\r\n\r\nMittags bietet die Kathedrale einen trockenen Zufluchtsort. Die Kerzen werfen ein warmes Licht auf die Ikonen, während es draußen weiter gießt.\r\n\r\nAm Nachmittag erkunden wir das Museum, wo die Geschichte Moldaus vor der Nässe schützt. Der Weg zum Park führt vorbei an spiegelnden Pfützen.\r\n\r\nAbends glänzen die Lichter des Theaters auf dem nassen Asphalt. Ein perfekter Moment, um den Tag in einer gemütlichen Ecke ausklingen zu lassen.",
+            "hu": "A reggeli Cahul szürke égbolt alatt ébred, az eső halkan kopog a Függetlenség téren. A város csendes, a vizes aszfalton megcsillannak a lámpák fényei.\r\n\r\nDélben a katedrális belső tere nyújt menedéket a zápor elől. A gyertyák fénye melegséget áraszt, miközben odakint az eső mossa az utcákat.\r\n\r\nDélután a múzeumban kalandozunk, ahol a falak megvédenek a nedvességtől. A folyóparti séta ilyenkor párás és titokzatos hangulatú.\r\n\r\nEste a színház környéke és a parkok fényei tükröződnek a tócsákban. A napot egy forró tea mellett, fedett helyen érdemes befejezni.",
+            "ro": "Dimineața în Cahul începe sub un cer plumburiu, cu picături de ploaie ce bat în Piața Independenței. Orașul pare liniștit și introspectiv.\r\n\r\nLa amiază, Catedrala oferă un refugiu uscat și cald. Lumina lumânărilor creează o atmosferă intimă, protejându-ne de vremea de afară.\r\n\r\nDupă-amiaza este dedicată muzeului, unde istoria locală se dezvăluie departe de umezeală. Promenada de lângă Prut este învăluită în ceață.\r\n\r\nSeara, luminile teatrului se oglindesc în bălți, oferind un peisaj urban poetic. Este momentul ideal pentru a ne retrage într-o cafenea primitoare.",
+            "en": "Morning in Cahul begins under a grey sky as raindrops patter on Independence Square. The city feels quiet, reflecting a melancholic beauty.\r\n\r\nAt midday, the Cathedral provides a dry sanctuary. Candlelight flickers against the icons while the rain continues to wash the streets outside.\r\n\r\nIn the afternoon, we explore the museum, where Moldova's history stays protected from the damp. The river promenade feels misty and mysterious.\r\n\r\nEvening sees the theatre lights shimmering on wet asphalt. It is the perfect time to end the day in a cozy, sheltered corner."
+          },
+          "stops": [
+            {
+              "name": "Independence Square",
+              "tip_4lang": {
+                "de": "Suchen Sie Schutz unter den Arkaden der umliegenden Gebäude.",
+                "hu": "Keress menedéket a környező épületek árkádjai alatt.",
+                "ro": "Căutați adăpost sub arcadele clădirilor din jur.",
+                "en": "Seek shelter under the arcades of the surrounding buildings."
+              }
+            },
+            {
+              "name": "B.P. Hasdeu Theatre",
+              "tip_4lang": {
+                "de": "Das Vordach des Theaters ist ein guter Ort, um den Schirm kurz zu schütteln.",
+                "hu": "A színház előtetője jó hely az esernyő lerázására.",
+                "ro": "Copertina teatrului este un loc bun pentru a scutura umbrela.",
+                "en": "The theatre's canopy is a good spot to shake off your umbrella."
+              }
+            },
+            {
+              "name": "St. Michael and Gabriel Cathedral",
+              "tip_4lang": {
+                "de": "Ein idealer Ort für eine längere, trockene Pause in spiritueller Stille.",
+                "hu": "Ideális hely egy hosszabb, száraz pihenőhöz spirituális csendben.",
+                "ro": "Un loc ideal pentru o pauză lungă și uscată în liniște spirituală.",
+                "en": "An ideal place for a longer, dry break in spiritual silence."
+              }
+            },
+            {
+              "name": "Museum of History and Ethnography",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Mäntel, bevor Sie die Exponate besichtigen.",
+                "hu": "Használd a ruhatárat a vizes kabátoknak a kiállítás megtekintése előtt.",
+                "ro": "Folosiți garderoba pentru haine ude înainte de a vizita exponatele.",
+                "en": "Use the cloakroom for wet coats before viewing the exhibits."
+              }
+            },
+            {
+              "name": "Monument to the Victims of the Holocaust",
+              "tip_4lang": {
+                "de": "Ein kurzer, respektvoller Stopp; der Boden kann hier rutschig sein.",
+                "hu": "Rövid, tiszteletteljes megálló; a talaj itt csúszós lehet.",
+                "ro": "O oprire scurtă și respectuoasă; solul poate fi alunecos aici.",
+                "en": "A brief, respectful stop; the ground can be slippery here."
+              }
+            },
+            {
+              "name": "Central Park of Cahul",
+              "tip_4lang": {
+                "de": "Die dichten Baumkronen bieten begrenzten Schutz vor leichtem Nieselregen.",
+                "hu": "A sűrű lombkoronák korlátozott védelmet nyújtanak a szemerkélő eső ellen.",
+                "ro": "Coroanele dese ale copacilor oferă adăpost limitat împotriva burniței.",
+                "en": "Dense tree canopies offer limited protection against light drizzle."
+              }
+            },
+            {
+              "name": "Prut River Promenade",
+              "tip_4lang": {
+                "de": "Vorsicht vor tiefen Pfützen auf dem Weg zum Flussufer.",
+                "hu": "Vigyázz a mély tócsákra a folyópart felé vezető úton.",
+                "ro": "Atenție la bălțile adânci pe drumul spre malul râului.",
+                "en": "Watch out for deep puddles on the path towards the riverbank."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei Wind vom Prut her unerlässlich.",
+              "Wasserdichte Schuhe sind wichtig, da die Wege im Park oft aufweichen.",
+              "Die Museen und Kirchen sind perfekte 'trockene Ankerpunkte'.",
+              "Tragen Sie helle Kleidung, um bei grauem Wetter für Autofahrer sichtbar zu sein."
+            ],
+            "hu": [
+              "Egy erős esernyő nélkülözhetetlen, ha feltámad a szél a Prut felől.",
+              "A vízálló cipő fontos, mert a parki utak hamar feláznak.",
+              "A múzeumok és templomok tökéletes 'száraz pontok' az útvonalon.",
+              "Viselj világos ruhát, hogy a szürke időben is látható maradj az autósoknak."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială dacă bate vântul dinspre Prut.",
+              "Încălțămintea impermeabilă e importantă, deoarece potecile se pot înmuia.",
+              "Muzeele și bisericile sunt 'puncte uscate' perfecte pe traseu.",
+              "Purtați haine reflectorizante sau deschise pentru a fi vizibili în trafic."
+            ],
+            "en": [
+              "A sturdy umbrella is essential if the wind picks up from the Prut.",
+              "Waterproof shoes are important as park paths can get muddy quickly.",
+              "Museums and churches serve as perfect 'dry anchors' on your route.",
+              "Wear bright clothing to stay visible to drivers in the gloomy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen legt sich über Cahul, während der Wind über den weiten Unabhängigkeitsplatz fegt. Die kalte Luft beißt, aber der Himmel ist oft klar.\r\n\r\nMittags suchen wir die Wärme der Kathedrale auf. Der Duft von Weihrauch und die dicken Mauern lassen die winterliche Kälte draußen vergessen.\r\n\r\nAm Nachmittag verkürzen wir den Aufenthalt im Park, da die Sonne früh hinter dem Horizont verschwindet. Die Prut-Promenade wirkt in ihrem winterlichen Gewand karg und weit.\r\n\r\nDer Abend bricht früh an. Die beleuchteten Fenster des Theaters laden zu einem warmen Abschluss in der Innenstadt ein, bevor der Frost die Nacht übernimmt.",
+            "hu": "Dérlepte reggel köszönt Cahulra, a szél végigsöpör a tágas Függetlenség téren. A hideg levegő csípős, de a látvány gyakran kristálytiszta.\r\n\r\nDélben a katedrális vastag falai között keresünk menedéket. A tömjén illata és a csend segít elfelejteni a kinti fagyos világot.\r\n\r\nDélután a parkokban tett sétát lerövidítjük, mivel a nap már korán, 17:00 körül lebukik. A Prut-part ilyenkor zord, de fenséges arcát mutatja.\r\n\r\nAz este gyorsan leszáll. A színház környéki fények barátságosak, hívogatnak egy forró italra a belváros meleg vendéglátóhelyein.",
+            "ro": "O dimineață geroasă se așterne peste Cahul, în timp ce vântul suflă peste Piața Independenței. Aerul rece este tăios, dar cerul este adesea senin.\r\n\r\nLa prânz, căutăm căldura Catedralei. Mirosul de tămâie și zidurile groase ne fac să uităm de frigul iernii de afară.\r\n\r\nDupă-amiaza, scurtăm plimbarea în parc, deoarece soarele apune devreme. Promenada Prutului pare vastă și pustie în haina sa de iarnă.\r\n\r\nSeara vine repede. Ferestrele luminate ale teatrului ne invită la un final călduros în centrul orașului, înainte ca gerul nopții să pună stăpânire.",
+            "en": "A frosty morning settles over Cahul as the wind sweeps across Independence Square. The air is biting, but the winter sky is often crystal clear.\r\n\r\nAt midday, we seek the warmth of the Cathedral. The scent of incense and the thick walls make one forget the freezing world outside.\r\n\r\nIn the afternoon, park visits are shortened as the sun sets early, around 17:00. The Prut promenade looks stark and majestic in its winter dress.\r\n\r\nEvening falls quickly. The illuminated windows of the theatre invite you to a warm conclusion in the city center before the night frost takes over."
+          },
+          "stops": [
+            {
+              "name": "Independence Square",
+              "tip_4lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem weiten Pflaster.",
+                "hu": "Vigyázz a jeges foltokra a tágas tér kövezetén.",
+                "ro": "Atenție la porțiunile înghețate de pe pavajul pieței.",
+                "en": "Watch out for icy patches on the wide pavement of the square."
+              }
+            },
+            {
+              "name": "B.P. Hasdeu Theatre",
+              "tip_4lang": {
+                "de": "Ein kurzer Stopp im Foyer kann helfen, die Hände aufzuwärmen.",
+                "hu": "Egy rövid megálló az előcsarnokban segít felmelegíteni a kezeket.",
+                "ro": "O scurtă oprire în foaier poate ajuta la încălzirea mâinilor.",
+                "en": "A brief stop in the foyer can help warm up your hands."
+              }
+            },
+            {
+              "name": "St. Michael and Gabriel Cathedral",
+              "tip_4lang": {
+                "de": "Die dicken Mauern halten die Wärme; ideal zum Aufwärmen.",
+                "hu": "A vastag falak jól tartják a meleget; ideális felmelegedni.",
+                "ro": "Zidurile groase rețin căldura; loc ideal pentru a vă încălzi.",
+                "en": "The thick walls retain heat well; ideal for warming up."
+              }
+            },
+            {
+              "name": "Museum of History and Ethnography",
+              "tip_4lang": {
+                "de": "Die beste Zeit des Tages, um drinnen in die Kultur einzutauchen.",
+                "hu": "A nap legjobb időpontja, hogy bent merülj el a kultúrában.",
+                "ro": "Cel mai bun moment al zilei pentru a explora cultura la căldură.",
+                "en": "The best time of day to immerse yourself in culture indoors."
+              }
+            },
+            {
+              "name": "Monument to the Victims of the Holocaust",
+              "tip_4lang": {
+                "de": "Halten Sie den Besuch kurz, da es hier sehr windig sein kann.",
+                "hu": "Legyen rövid a látogatás, mert itt nagyon fújhat a szél.",
+                "ro": "Vizitați rapid, deoarece zona poate fi foarte expusă vântului.",
+                "en": "Keep the visit brief as this area can be quite windy."
+              }
+            },
+            {
+              "name": "Central Park of Cahul",
+              "tip_4lang": {
+                "de": "Genießen Sie die klare Winterluft, aber bleiben Sie in Bewegung.",
+                "hu": "Élvezd a tiszta téli levegőt, de maradj mozgásban.",
+                "ro": "Bucurați-vă de aerul curat de iarnă, dar rămâneți în mișcare.",
+                "en": "Enjoy the crisp winter air, but keep moving to stay warm."
+              }
+            },
+            {
+              "name": "Prut River Promenade",
+              "tip_4lang": {
+                "de": "Die Sonne sinkt hier gegen 16:30 Uhr; planen Sie entsprechend.",
+                "hu": "A nap itt 16:30 körül már alacsonyan jár; tervezz eszerint.",
+                "ro": "Soarele coboară aici în jurul orei 16:30; planificați vizita.",
+                "en": "The sun dips low here around 16:30; plan your visit accordingly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche; der Wind in der Steppe ist tückisch.",
+              "Warme Getränke in einer Thermoskanne sind ein Lebensretter.",
+              "Die Sonne geht früh unter, beenden Sie Außenaktivitäten vor 17:00 Uhr.",
+              "Wählen Sie Schuhe mit gutem Profil gegen Rutschgefahr."
+            ],
+            "hu": [
+              "Viselj termaruházat; a sztyeppei szél nagyon csalóka.",
+              "A termoszban vitt meleg ital életmentő lehet a séta során.",
+              "A nap korán nyugszik, a szabadtéri programokat fejezd be 17:00-ig.",
+              "Válassz jó tapadású talpú cipőt a csúszásveszély miatt."
+            ],
+            "ro": [
+              "Purtați haine termice; vântul de stepă este foarte înșelător.",
+              "Băuturile calde într-un termos sunt salvatoare în timpul plimbării.",
+              "Soarele apune devreme, încheiați activitățile în aer liber până la 17:00.",
+              "Alegeți încălțăminte cu talpă aderentă pentru a evita alunecarea."
+            ],
+            "en": [
+              "Wear thermal layers; the steppe wind can be very deceptive.",
+              "Warm drinks in a thermos are a lifesaver during the walk.",
+              "Sunset is early, so aim to finish outdoor activities by 17:00.",
+              "Choose boots with good grip to handle potential icy surfaces."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +952,206 @@
           "Cahul is relatively flat, but be prepared for some gentle slopes.",
           "Use the promenade for a safe and scenic ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Fahrrad rollt spritzend über den Unabhängigkeitsplatz. Der Regen macht die Straßen von Cahul glatt, aber die kühle Brise erfrischt.\r\n\r\nMittags suchen wir Schutz beim Museum, während die Räder im Regen glänzen. Die Stadt wirkt in Grautönen besonders authentisch.\r\n\r\nAm Nachmittag erfordert die Fahrt zur Prut-Promenade Konzentration, da die Wege schlammig sein können. Das Rauschen des Regens mischt sich mit dem Fluss.\r\n\r\nAbends beenden wir die Tour am Sanatorium, wo der Dunst über den warmen Quellen aufsteigt und einen Kontrast zum kalten Regen bildet.",
+            "hu": "A kerékpár kerekei vizesen pörögnek a Függetlenség téren. Az eső csúszóssá teszi Cahul utcáit, de a hűvös szél frissítően hat.\r\n\r\nDélben a múzeumnál tartunk hosszabb szünetet, amíg a gépek odakint áznak. A város szürke tónusai ilyenkor nagyon őszinték.\r\n\r\nDélután a Prut-part felé vezető út figyelmet igényel a sár miatt. Az eső kopogása és a folyó zúgása különleges ritmust ad.\r\n\r\nEste a szanatóriumnál zárjuk a kört, ahol a meleg források gőze misztikusan száll fel a hideg esőben.",
+            "ro": "Bicicleta rulează prin bălți în Piața Independenței. Ploaia face străzile din Cahul alunecoase, dar briza rece este revigorantă.\r\n\r\nLa amiază, ne adăpostim lângă muzeu, în timp ce bicicletele strălucesc sub ploaie. Orașul în nuanțe de gri pare foarte autentic.\r\n\r\nDupă-amiaza, drumul spre Prut necesită concentrare din cauza noroiului. Sunetul ploii se împletește cu clipocitul râului.\r\n\r\nSeara încheiem turul la sanatoriu, unde aburul izvoarelor calde se ridică în contrast cu ploaia rece de afară.",
+            "en": "The bike tires splash across Independence Square. Rain makes Cahul's streets slippery, but the cool breeze provides a fresh feeling.\r\n\r\nAt midday, we take cover near the museum while the bikes glisten in the rain. The city's grey tones feel remarkably authentic today.\r\n\r\nIn the afternoon, the ride to the Prut promenade requires focus as paths can be muddy. The rhythm of rain mixes with the river's sound.\r\n\r\nEvening ends the tour at the sanatorium, where steam rises from the warm springs in contrast to the cold rainfall."
+          },
+          "stops": [
+            {
+              "name": "Independence Square",
+              "tip_4lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster beim Anfahren.",
+                "hu": "Vigyázz a vizes macskakövön az elindulásnál.",
+                "ro": "Atenție pe pavajul umed când porniți de pe loc.",
+                "en": "Be careful on the wet cobblestones when starting off."
+              }
+            },
+            {
+              "name": "B.P. Hasdeu Theatre",
+              "tip_4lang": {
+                "de": "Parken Sie die Räder unter dem Dachvorsprung, falls möglich.",
+                "hu": "Parkolj az előtető alá, ha van rá lehetőség.",
+                "ro": "Parcați bicicletele sub streșină, dacă este posibil.",
+                "en": "Park your bikes under the overhang if possible."
+              }
+            },
+            {
+              "name": "St. Michael and Gabriel Cathedral",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Stopp, um die Brille oder das Visier zu reinigen.",
+                "hu": "Használd ki a megállót a szemüveg vagy a sisakrostély letisztítására.",
+                "ro": "Folosiți oprirea pentru a curăța ochelarii sau viziera.",
+                "en": "Use the stop to clean your glasses or helmet visor."
+              }
+            },
+            {
+              "name": "Museum of History and Ethnography",
+              "tip_4lang": {
+                "de": "Sichern Sie Ihr Gepäck mit wasserdichten Überzügen.",
+                "hu": "Biztosítsd a csomagjaidat vízálló huzattal.",
+                "ro": "Asigurați-vbagajele cu huse impermeabile.",
+                "en": "Secure your luggage with waterproof covers."
+              }
+            },
+            {
+              "name": "Prut River Promenade",
+              "tip_4lang": {
+                "de": "Vermeiden Sie unbefestigte Grasstreifen, sie sind jetzt sehr rutschig.",
+                "hu": "Kerüld a fűvel borított padkát, mert most nagyon csúszik.",
+                "ro": "Evitați marginile cu iarbă, sunt foarte alunecoase acum.",
+                "en": "Avoid unpaved grass edges as they are very slippery now."
+              }
+            },
+            {
+              "name": "Central Park of Cahul",
+              "tip_4lang": {
+                "de": "Fahren Sie langsam, um Fußgängern mit Schirmen auszuweichen.",
+                "hu": "Haladj lassan, hogy elkerüld az esernyős gyalogosokat.",
+                "ro": "Circulați cu viteză redusă pentru a evita pietonii cu umbrele.",
+                "en": "Ride slowly to avoid pedestrians carrying umbrellas."
+              }
+            },
+            {
+              "name": "Nufărul Alb Sanatorium",
+              "tip_4lang": {
+                "de": "Ein warmer Ort, um die Glieder nach der nassen Fahrt zu lockern.",
+                "hu": "Meleg hely, ahol átmozgathatod a tagjaidat a vizes tekerés után.",
+                "ro": "Un loc cald unde vă puteți dezmorți după drumul umed.",
+                "en": "A warm place to loosen your limbs after the wet ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen; der Bremsweg verlängert sich bei Nässe erheblich.",
+              "Schutzbleche sind heute Ihr bester Freund gegen aufspritzenden Schlamm.",
+              "Tragen Sie eine wasserdichte Regenjacke und Regenhosen.",
+              "Vermeiden Sie Markierungen auf der Fahrbahn, diese sind oft spiegelglatt."
+            ],
+            "hu": [
+              "Ellenőrizd a fékeket; a fékút jelentősen megnő vizes úton.",
+              "A sárvédő ma a legjobb barátod a felverődő sár ellen.",
+              "Viselj vízálló esőkabátot és nadrágot.",
+              "Kerüld az útburkolati jeleket, mert azok ilyenkor tükörsimák."
+            ],
+            "ro": [
+              "Verificați frânele; distanța de frânare crește considerabil pe ud.",
+              "Apărătorile de noroi sunt esențiale astăzi împotriva stropirii.",
+              "Purtați jachetă și pantaloni de ploaie impermeabili.",
+              "Evitați marcajele rutiere, acestea devin extrem de alunecoase."
+            ],
+            "en": [
+              "Check your brakes; stopping distances increase significantly in the wet.",
+              "Mudguards are your best friend today against splashing mud.",
+              "Wear a waterproof rain jacket and rain trousers.",
+              "Avoid road markings as they often become ice-smooth when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kalte Winterluft brennt in der Lunge, während wir durch die Straßen von Cahul radeln. Der Unabhängigkeitsplatz liegt weit und leer im fahlen Licht.\r\n\r\nMittags ist die Kathedrale ein wichtiger Haltepunkt, um die eingefrorenen Finger an den warmen Kerzen (symbolisch) aufzuwärmen.\r\n\r\nAm Nachmittag führt die Route zum Prut, wo der Wind die gefühlte Temperatur drastisch senkt. Die Bewegung hält uns warm, aber die Pausen werden kürzer.\r\n\r\nAbends erreichen wir das Sanatorium. Das warme Mineralwasser ist das perfekte Ziel, um den Körper nach einem Tag im moldauischen Winterwind zu regenerieren.",
+            "hu": "A hideg téli levegő szinte égeti a tüdőt, ahogy Cahul utcáin tekerünk. A Függetlenség tér üresen és távolian fekszik a sápadt fényben.\r\n\r\nDélben a katedrális kötelező állomás, hogy az átfagyott ujjainkat egy kicsit pihentessük a szélvédett belsőben.\r\n\r\nDélután a Prut felé vesszük az irányt, ahol a szél drasztikusan csökkenti a hőérzetet. A mozgás fűt, de a megállók rövidek.\r\n\r\nEste érkezünk a szanatóriumhoz. A meleg ásványvíz a tökéletes célpont, hogy regenerálódjunk a moldovai téli szélben töltött nap után.",
+            "ro": "Aerul rece de iarnă arde plămânii în timp ce pedalăm prin Cahul. Piața Independenței pare vastă și goală în lumina palidă a soarelui.\r\n\r\nLa prânz, Catedrala este un punct de oprire esențial pentru a ne odihni mâinile înghețate în interiorul ferit de vânt.\r\n\r\nDupă-amiaza ne îndreptăm spre Prut, unde vântul scade drastic temperatura resimțită. Mișcarea ne ține de cald, dar pauzele sunt scurte.\r\n\r\nSeara ajungem la sanatoriu. Apa minerală caldă este destinația perfectă pentru regenerare după o zi în vântul iernii moldovenești.",
+            "en": "The cold winter air stings your lungs as we cycle through Cahul. Independence Square lies wide and empty in the pale winter light.\r\n\r\nAt midday, the Cathedral is a vital stop to rest frozen fingers in the wind-sheltered interior.\r\n\r\nIn the afternoon, the route heads to the Prut, where the wind drastically lowers the perceived temperature. Movement keeps us warm, but stops are brief.\r\n\r\nEvening brings us to the sanatorium. The warm mineral water is the perfect goal for regenerating after a day in the Moldovan winter wind."
+          },
+          "stops": [
+            {
+              "name": "Independence Square",
+              "tip_4lang": {
+                "de": "Tragen Sie eine winddichte Maske gegen den beißenden Fahrtwind.",
+                "hu": "Viselj szélálló maszkot a metsző menetszél ellen.",
+                "ro": "Purtați o mască anti-vânt împotriva aerului tăios din timpul mersului.",
+                "en": "Wear a windproof mask against the biting wind chill while riding."
+              }
+            },
+            {
+              "name": "B.P. Hasdeu Theatre",
+              "tip_4lang": {
+                "de": "Ein schneller Foto-Stopp, halten Sie die Handschuhe an.",
+                "hu": "Gyors fotómegálló, ne vedd le a kesztyűt.",
+                "ro": "O oprire rapidă pentru poze; nu vă scoateți mănușile.",
+                "en": "A quick photo stop; keep your gloves on."
+              }
+            },
+            {
+              "name": "St. Michael and Gabriel Cathedral",
+              "tip_4lang": {
+                "de": "Lassen Sie die Helme draußen, um die Stille nicht zu stören.",
+                "hu": "A bukósisakot hagyd kint, hogy ne zavard a csendet.",
+                "ro": "Lăsați căștile la intrare pentru a nu deranja liniștea.",
+                "en": "Leave your helmets at the entrance to respect the silence."
+              }
+            },
+            {
+              "name": "Museum of History and Ethnography",
+              "tip_4lang": {
+                "de": "Ideal, um die Körpertemperatur wieder auf Normalniveau zu bringen.",
+                "hu": "Ideális, hogy a testhőmérsékletedet visszaállítsd a normál szintre.",
+                "ro": "Ideal pentru a readuce temperatura corpului la nivelul normal.",
+                "en": "Ideal for bringing your body temperature back to normal."
+              }
+            },
+            {
+              "name": "Prut River Promenade",
+              "tip_4lang": {
+                "de": "Vorsicht bei Kurven; Reifglätte auf dem Asphalt ist möglich.",
+                "hu": "Vigyázz a kanyarokban; zúzmarás, csúszós aszfalt fordulhat elő.",
+                "ro": "Atenție în curbe; poate apărea polei pe asfalt.",
+                "en": "Careful in turns; hoarfrost or black ice on the asphalt is possible."
+              }
+            },
+            {
+              "name": "Central Park of Cahul",
+              "tip_4lang": {
+                "de": "Kurze Wege wählen, um nicht auszukühlen.",
+                "hu": "Válassz rövid utakat, hogy ne hűlj ki.",
+                "ro": "Alegeți trasee scurte pentru a nu vă răci.",
+                "en": "Choose shorter paths to avoid getting chilled."
+              }
+            },
+            {
+              "name": "Nufărul Alb Sanatorium",
+              "tip_4lang": {
+                "de": "Der wärmste Punkt der Tour; genießen Sie die Heilquellen.",
+                "hu": "A túra legmelegebb pontja; élvezd a gyógyforrásokat.",
+                "ro": "Cel mai cald punct al turului; bucurați-vă de izvoarele curative.",
+                "en": "The warmest point of the tour; enjoy the healing springs."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichtenprinzip: Wolle und Windstopper sind überlebenswichtig.",
+              "Achten Sie auf Akkus; Handys und E-Bikes verlieren bei Kälte schnell Energie.",
+              "Winterhandschuhe mit gutem Griff sind für die Sicherheit entscheidend.",
+              "Trinken Sie auch bei Kälte genug, man dehydriert unbemerkt."
+            ],
+            "hu": [
+              "Réteges öltözködés: a gyapjú és a szélfogó réteg életmentő.",
+              "Figyelj az akkukra; a mobilok és e-bike-ok gyorsan lemerülnek a hidegben.",
+              "A jó tapadású téli kesztyű elengedhetetlen a biztonsághoz.",
+              "Hidegben is igyál eleget, észrevétlenül is kiszáradhatsz."
+            ],
+            "ro": [
+              "Îmbrăcăminte în straturi: lâna și straturile anti-vânt sunt vitale.",
+              "Atenție la baterii; telefoanele și e-bike-urile se descarcă rapid la frig.",
+              "Mănușile de iarnă cu aderență bună sunt cruciale pentru siguranță.",
+              "Beți suficiente lichide; deshidratarea apare neobservată și la frig."
+            ],
+            "en": [
+              "Layering is key: wool and windstopping fabrics are essential.",
+              "Watch your battery levels; phones and e-bikes drain faster in the cold.",
+              "Winter gloves with good grip are crucial for safety.",
+              "Stay hydrated; you can dehydrate unnoticed even in cold weather."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1107,6 +1507,188 @@
           "Traffic in Cahul is manageable, but be mindful of local driving habits.",
           "Use the cluster-walking strategy to avoid parking hassles."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Scheibenwischer ziehen ihre Bahnen, während wir durch das verregnete Cahul navigieren. Das Auto bietet eine trockene Kapsel für die Erkundung.\r\n\r\nMittags parken wir nahe der Kathedrale. Das Trommeln des Regens auf dem Autodach erzeugt eine gemütliche Atmosphäre während der kurzen Wartezeit.\r\n\r\nAm Nachmittag führt die Fahrt zum Sanatorium. Die nassen Alleen der Stadt leuchten dunkel unter dem grauen Himmel.\r\n\r\nAbends reflektieren die Pfützen die Straßenlaternen. Die Rückreise durch die Stadt ist sicher und komfortabel, weit weg vom nasskalten Wetter draußen.",
+            "hu": "Az ablaktörlők ütemesen járnak, ahogy a felázott Cahulban navigálunk. Az autó száraz menedéket nyújt a város felfedezéséhez.\r\n\r\nDélben a katedrális közelében parkolunk. Az eső kopogása az autótetőn barátságos hangulatot áraszt a rövid várakozás alatt.\r\n\r\nDélután a szanatórium felé autózunk. A város vizes sugárútjai sötéten fénylenek a szürke égbolt alatt.\r\n\r\nEste a tócsák visszaverik az utcai lámpák fényeit. A visszaút a városon át biztonságos és kényelmes, távol a kinti nyirkos időtől.",
+            "ro": "Ștergătoarele lucrează ritmic în timp ce navigăm prin Cahulul ploios. Mașina oferă o capsulă uscată pentru explorare.\r\n\r\nLa amiază, parcăm aproape de Catedrală. Ropotul ploii pe plafonul mașinii creează o atmosferă primitoare în timpul scurtelor așteptări.\r\n\r\nDupă-amiaza ne îndreptăm spre sanatoriu. Bulevardele umede ale orașului strălucesc sub cerul cenușiu.\r\n\r\nSeara, bălțile reflectă luminile stradale. Drumul de întoarcere prin oraș este sigur și confortabil, departe de vremea umedă de afară.",
+            "en": "Windshield wipers swing rhythmically as we navigate through rainy Cahul. The car provides a dry capsule for today's exploration.\r\n\r\nAt midday, we park near the Cathedral. The drumming of rain on the car roof creates a cozy atmosphere during short waits.\r\n\r\nIn the afternoon, the drive leads to the sanatorium. The city's wet avenues glow darkly under the overcast sky.\r\n\r\nEvening sees the puddles reflecting street lamps. The drive back through the city is safe and comfortable, away from the damp weather outside."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking",
+              "tip_4lang": {
+                "de": "Wählen Sie Parkplätze nahe an den Eingängen, um trocken zu bleiben.",
+                "hu": "Válassz parkolót közel a bejáratokhoz, hogy száraz maradj.",
+                "ro": "Alegeți locuri de parcare aproape de intrări pentru a rămâne uscați.",
+                "en": "Choose parking spots close to entrances to minimize exposure to rain."
+              }
+            },
+            {
+              "name": "Independence Square",
+              "tip_4lang": {
+                "de": "Parken Sie am Rand und nutzen Sie die kurzen Gehwege.",
+                "hu": "Parkolj a szélen, és használd a rövid gyalogutakat.",
+                "ro": "Parcați la margine și folosiți aleile scurte pietonale.",
+                "en": "Park at the edge and use the short pedestrian walkways."
+              }
+            },
+            {
+              "name": "St. Michael and Gabriel Cathedral",
+              "tip_4lang": {
+                "de": "Der Kirchplatz kann bei starkem Regen leicht überfluten.",
+                "hu": "A templom tér erős esőben könnyen víz alá kerülhet.",
+                "ro": "Piața bisericii se poate inunda ușor în caz de ploaie torențială.",
+                "en": "The church square can flood slightly during heavy rain."
+              }
+            },
+            {
+              "name": "Museum of History and Ethnography",
+              "tip_4lang": {
+                "de": "Lassen Sie nasse Schirme im Auto, wenn der Weg kurz ist.",
+                "hu": "Hagyd a vizes ernyőt az autóban, ha rövid az út a bejáratig.",
+                "ro": "Lăsați umbrelele ude în mașină dacă distanța până la intrare e mică.",
+                "en": "Leave wet umbrellas in the car if the walk to the entrance is short."
+              }
+            },
+            {
+              "name": "Nufărul Alb Sanatorium",
+              "tip_4lang": {
+                "de": "Gute Parkmöglichkeiten direkt vor dem Hauptgebäude.",
+                "hu": "Jó parkolási lehetőség közvetlenül a főépület előtt.",
+                "ro": "Posibilități bune de parcare chiar în fața clădirii principale.",
+                "en": "Good parking options available directly in front of the main building."
+              }
+            },
+            {
+              "name": "Central Park of Cahul",
+              "tip_4lang": {
+                "de": "Vermeiden Sie das Parken unter morschen Bäumen bei Wind.",
+                "hu": "Szeles időben kerüld a parkolást korhadt fák alatt.",
+                "ro": "Evitați parcarea sub copaci bătrâni dacă vântul este puternic.",
+                "en": "Avoid parking under old trees if it is windy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schalten Sie das Abblendlicht ein, auch am Tag bei Regen.",
+              "Prüfen Sie den Zustand der Wischerblätter vor der Abfahrt.",
+              "Halten Sie einen Lappen bereit, um beschlagene Scheiben zu reinigen.",
+              "Achten Sie auf Aquaplaning in tieferen Senken der Stadt."
+            ],
+            "hu": [
+              "Kapcsold be a tompított fényszórót nappali esőben is.",
+              "Indulás előtt ellenőrizd az ablaktörlő lapátok állapotát.",
+              "Tarts kéznél egy rongyot a párás ablakok letörléséhez.",
+              "Ügyelj a vízenfutásra (aquaplaning) a város mélyebb pontjain."
+            ],
+            "ro": [
+              "Aprindeți faza scurtă, chiar și în timpul zilei dacă plouă.",
+              "Verificați starea lamelelor ștergătoarelor înainte de plecare.",
+              "Aveți la îndemână o lavetă pentru a șterge geamurile aburite.",
+              "Atenție la acvaplanare în zonele mai joase ale orașului."
+            ],
+            "en": [
+              "Turn on your dipped headlights, even during daytime rain.",
+              "Check the condition of your wiper blades before setting off.",
+              "Keep a cloth handy to wipe down fogged-up windows.",
+              "Watch out for aquaplaning in lower-lying areas of the city."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Heizung läuft auf Hochtouren, während wir durch das winterliche Cahul fahren. Draußen glitzert der Frost auf den Dächern der Stadt.\r\n\r\nMittags bietet das Auto eine warme Basis für den Besuch der Kathedrale. Die Straßen sind oft geräumt, aber Vorsicht ist geboten.\r\n\r\nAm Nachmittag führt die Fahrt zum Sanatorium. Die moldauische Landschaft wirkt unter einer dünnen Schneedecke friedlich und still.\r\n\r\nAbends sinken die Temperaturen schnell. Die beleuchtete Innenstadt bietet einen schönen Anblick aus dem warmen Fahrzeug, bevor wir den Tag gemütlich beenden.",
+            "hu": "A fűtés maximális fokozaton üzemel, ahogy a téli Cahulban autózunk. Odakint a dér csillog a város háztetőin.\r\n\r\nDélben az autó meleg bázist nyújt a katedrális meglátogatásához. Az utak általában tiszták, de az óvatosság indokolt.\r\n\r\nDélután a szanatórium felé vesszük az irányt. A moldovai táj békés és csendes a vékony hólepel alatt.\r\n\r\nEste a hőmérséklet gyorsan süllyed. A kivilágított belváros szép látványt nyújt a meleg autóból, mielőtt kényelmesen befejeznénk a napot.",
+            "ro": "Căldura merge la maximum în timp ce conducem prin Cahulul hibernal. Afară, chiciura strălucește pe acoperișurile orașului.\r\n\r\nLa amiază, mașina oferă o bază caldă pentru vizitarea Catedralei. Drumurile sunt de obicei deszăpezite, dar prudența este necesară.\r\n\r\nDupă-amiaza ne îndreptăm spre sanatoriu. Peisajul moldovenesc pare pașnic și tăcut sub un strat subțire de zăpadă.\r\n\r\nSeara, temperaturile scad rapid. Centrul luminat oferă o priveliște frumoasă din mașina caldă, înainte de a încheia ziua confortabil.",
+            "en": "The heater is on full blast as we drive through wintery Cahul. Outside, frost glistens on the rooftops of the city.\r\n\r\nAt midday, the car serves as a warm base for visiting the Cathedral. Roads are usually cleared, but caution is advised.\r\n\r\nIn the afternoon, the drive leads to the sanatorium. The Moldovan landscape looks peaceful and silent under a thin layer of snow.\r\n\r\nEvening sees temperatures drop quickly. The illuminated city center offers a beautiful sight from the warm vehicle before we finish the day."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking",
+              "tip_4lang": {
+                "de": "Vorsicht beim Aussteigen auf glatten Parkplatzflächen.",
+                "hu": "Vigyázz a kiszállásnál a csúszós parkolófelületeken.",
+                "ro": "Atenție la coborârea din mașină pe suprafețele alunecoase din parcare.",
+                "en": "Be careful when stepping out on slippery parking lot surfaces."
+              }
+            },
+            {
+              "name": "Independence Square",
+              "tip_4lang": {
+                "de": "Der Motor sollte nicht unnötig im Stand laufen.",
+                "hu": "Ne járasd feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Do not let the engine idle unnecessarily while stationary."
+              }
+            },
+            {
+              "name": "St. Michael and Gabriel Cathedral",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Parkplätze in der Sonne, um das Auto natürlich zu wärmen.",
+                "hu": "Használd a napsütötte parkolókat az autó természetes melegítéséhez.",
+                "ro": "Folosiți locurile de parcare însorite pentru a încălzi mașina natural.",
+                "en": "Use sunny parking spots to help warm the car naturally."
+              }
+            },
+            {
+              "name": "Museum of History and Ethnography",
+              "tip_4lang": {
+                "de": "Vergewissern Sie sich, dass die Handbremse nicht festfriert.",
+                "hu": "Győződj meg róla, hogy a kézifék nem fagyott be.",
+                "ro": "Asigurați-vă că frâna de mână nu a înghețat.",
+                "en": "Ensure your handbrake hasn't frozen in place."
+              }
+            },
+            {
+              "name": "Nufărul Alb Sanatorium",
+              "tip_4lang": {
+                "de": "Warmer Innenraum garantiert Entspannung nach der Fahrt.",
+                "hu": "A meleg belső tér garantálja a lazítást az út után.",
+                "ro": "Interiorul cald garantează relaxarea după drum.",
+                "en": "The warm interior guarantees relaxation after the drive."
+              }
+            },
+            {
+              "name": "Central Park of Cahul",
+              "tip_4lang": {
+                "de": "Achten Sie auf herabfallende Schneelasten von den Bäumen.",
+                "hu": "Ügyelj a fákról lezúduló hómennyiségre.",
+                "ro": "Atenție la căderile de zăpadă de pe ramurile copacilor.",
+                "en": "Watch out for snow falling from tree branches."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Moldau gesetzlich vorgeschrieben und notwendig.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit sich.",
+              "Prüfen Sie den Reifendruck; er sinkt bei Kälte oft ab.",
+              "Halten Sie den Tank mindestens halbvoll für Notfälle."
+            ],
+            "hu": [
+              "A téli gumi Moldovában kötelező és elengedhetetlen.",
+              "Legyen nálad jégkaparó és fagyálló folyadék.",
+              "Ellenőrizd a guminyomást; a hidegben gyakran csökken.",
+              "Tartsd a tankot legalább félig teli vészhelyzet esetére."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Moldova și necesare.",
+              "Aveți la bord o răzuitoare de gheață și lichid antigel.",
+              "Verificați presiunea în pneuri; scade adesea la temperaturi joase.",
+              "Păstrați rezervorul cel puțin pe jumătate plin pentru urgențe."
+            ],
+            "en": [
+              "Winter tires are legally required in Moldova and absolutely necessary.",
+              "Carry an ice scraper and anti-freeze fluid with you.",
+              "Check tire pressure; it often drops in cold temperatures.",
+              "Keep your fuel tank at least half full for emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1462,6 +2044,188 @@
           "Keep an eye on your belongings on crowded buses.",
           "Have small change ready for tickets in case card payment is not possible."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Warten auf den Bus am Unabhängigkeitsplatz wird durch den Regen etwas ungemütlich, aber die überdachten Haltestellen helfen.\r\n\r\nMittags bringt uns der Transit schnell zur Kathedrale. Die beschlagenen Scheiben des Busses lassen die Stadt wie in einem Aquarell erscheinen.\r\n\r\nAm Nachmittag erkunden wir das Museum. Der Wechsel zwischen dem nassen Draußen und dem trockenen Bus ist eine willkommene Abwechslung.\r\n\r\nAbends kehren wir mit dem Bus ins Zentrum zurück. Das Licht der Haltestellen spiegelt sich in den Pfützen und markiert das Ende eines feuchten Tages.",
+            "hu": "A buszra várás a Függetlenség téren kicsit barátságtalan az esőben, de a fedett megállók segítenek szárazon maradni.\r\n\r\nDélben a tömegközlekedés gyorsan a katedrálishoz repít. A busz párás ablakain át a város olyan, mint egy akvarell festmény.\r\n\r\nDélután a múzeumba látogatunk. A vizes kinti világ és a száraz busz közötti váltás kellemes felfrissülést nyújt.\r\n\r\nEste busszal térünk vissza a központba. A megállók fényei visszatükröződnek a tócsákban, jelezve egy esős nap végét.",
+            "ro": "Așteptarea autobuzului în Piața Independenței devine puțin inconfortabilă din cauza ploii, dar stațiile acoperite ajută.\r\n\r\nLa amiază, transportul în comun ne duce rapid la Catedrală. Geamurile aburite ale autobuzului transformă orașul într-o acuarelă.\r\n\r\nDupă-amiaza explorăm muzeul. Trecerea de la exteriorul umed la autobuzul uscat este o schimbare binevenită.\r\n\r\nSeara ne întoarcem cu autobuzul în centru. Luminile stațiilor se oglindesc în bălți, marcând sfârșitul unei zile ploioase.",
+            "en": "Waiting for the bus at Independence Square is a bit chilly in the rain, but sheltered stops help you stay dry.\r\n\r\nAt midday, transit quickly takes us to the Cathedral. The fogged-up bus windows turn the city into a watercolor painting.\r\n\r\nIn the afternoon, we explore the museum. Switching between the wet outdoors and the dry bus is a welcome relief.\r\n\r\nEvening sees us returning to the center by bus. Station lights reflect in the puddles, marking the end of a damp day."
+          },
+          "stops": [
+            {
+              "name": "Independence Square Bus Stop",
+              "tip_4lang": {
+                "de": "Stellen Sie sich unter das Dach, um nicht von vorbeifahrenden Autos nassgespritzt zu werden.",
+                "hu": "Állj a tető alá, hogy ne fröcsköljenek le az elhaladó autók.",
+                "ro": "Stați sub acoperiș pentru a nu fi stropiți de mașinile care trec.",
+                "en": "Stand under the shelter to avoid being splashed by passing cars."
+              }
+            },
+            {
+              "name": "B.P. Hasdeu Theatre",
+              "tip_4lang": {
+                "de": "Kurzer Sprint von der Haltestelle zum Eingang einplanen.",
+                "hu": "Tervezz be egy rövid sprintet a megállótól a bejáratig.",
+                "ro": "Planificați un sprint scurt de la stație până la intrare.",
+                "en": "Plan for a short sprint from the bus stop to the entrance."
+              }
+            },
+            {
+              "name": "St. Michael and Gabriel Cathedral",
+              "tip_4lang": {
+                "de": "Vorsicht beim Ein- und Aussteigen auf rutschigen Stufen.",
+                "hu": "Vigyázz a le- és felszállásnál a csúszós lépcsőkön.",
+                "ro": "Atenție la urcare și coborâre pe treptele alunecoase.",
+                "en": "Be careful when boarding and alighting on slippery steps."
+              }
+            },
+            {
+              "name": "Museum of History and Ethnography",
+              "tip_4lang": {
+                "de": "Nutzen Sie die App für Echtzeit-Infos, um Wartezeiten im Regen zu minimieren.",
+                "hu": "Használd az alkalmazást valós idejű infókért, hogy kevesebbet várj az esőben.",
+                "ro": "Folosiți aplicația pentru info în timp real, pentru a minimiza așteptarea în ploaie.",
+                "en": "Use the app for real-time info to minimize waiting in the rain."
+              }
+            },
+            {
+              "name": "Central Park of Cahul",
+              "tip_4lang": {
+                "de": "Die Wege von der Haltestelle zum Park können viele Pfützen haben.",
+                "hu": "A megállótól a parkig vezető úton sok tócsára számíthatsz.",
+                "ro": "Drumul de la stație spre parc poate avea multe bălți.",
+                "en": "The paths from the stop to the park may have many puddles."
+              }
+            },
+            {
+              "name": "Prut River Promenade",
+              "tip_4lang": {
+                "de": "Letzte Verbindung vor Einbruch der Dunkelheit prüfen.",
+                "hu": "Ellenőrizd az utolsó járatot sötétedés előtt.",
+                "ro": "Verificați ultima cursă înainte de lăsarea întunericului.",
+                "en": "Check the last connection before darkness falls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld oder Ihre Fahrkarte griffbereit, um Verzögerungen zu vermeiden.",
+              "Ein kleiner Reise-Regenschirm passt gut in jede Tasche.",
+              "Rechnen Sie mit leichten Verspätungen bei starkem Regen.",
+              "Suchen Sie Haltestellen mit festen Wartehäuschen."
+            ],
+            "hu": [
+              "Legyen kéznél aprópénz vagy a jegyed a késlekedés elkerülésére.",
+              "Egy kis utazó esernyő jól elfér bármelyik táskában.",
+              "Számolj kisebb késésekkel erős esőzés idején.",
+              "Keress olyan megállókat, ahol van stabil váróterem."
+            ],
+            "ro": [
+              "Aveți la îndemână mărunțiș sau biletul pentru a evita întârzierile.",
+              "O umbrelă mică de voiaj încape ușor în orice geantă.",
+              "Luați în calcul mici întârzieri în caz de ploaie torențială.",
+              "Căutați stații care au adăposturi solide."
+            ],
+            "en": [
+              "Keep small change or your ticket ready to avoid delays at the door.",
+              "A small travel umbrella fits easily into any bag.",
+              "Expect minor delays during heavy rainfall.",
+              "Look for stops with solid shelters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Atem bildet kleine Wolken, während wir an der Haltestelle am Unabhängigkeitsplatz warten. Der frostige moldauische Winter ist hier deutlich spürbar.\r\n\r\nMittags ist die Fahrt im beheizten Bus eine Wohltat. Die Aussicht auf die verschneite Kathedrale ist malerisch und friedvoll.\r\n\r\nAm Nachmittag besuchen wir das Museum. Der Transit ermöglicht es uns, die kalten Wege zwischen den Sehenswürdigkeiten so kurz wie möglich zu halten.\r\n\r\nAbends glitzert der Schnee im Schein der Straßenlaternen an der Haltestelle. Die Rückfahrt ist warm und sicher, während die Stadt langsam im Frost versinkt.",
+            "hu": "A leheletünk apró felhőket képez, miközben a Függetlenség téri megállóban várunk. A fagyos moldovai tél itt igazán érezhető.\r\n\r\nDélben a fűtött buszon utazni igazi felüdülés. A kilátás a havas katedrálisra festői és békés.\r\n\r\nDélután a múzeumba látogatunk. A tömegközlekedés lehetővé teszi, hogy a látnivalók közötti hideg szakaszokat a lehető legrövidebbre fogjuk.\r\n\r\nEste a hó csillog az utcai lámpák fényében a megállóban. A hazaút meleg és biztonságos, miközben a város lassan elmerül a fagyban.",
+            "ro": "Respirația formează norișori în timp ce așteptăm în stația din Piața Independenței. Iarna geroasă moldovenească se simte din plin aici.\r\n\r\nLa amiază, călătoria cu autobuzul încălzit este o binecuvântare. Vederea spre Catedrala înzăpezită este pitorească și liniștită.\r\n\r\nDupă-amiaza vizităm muzeul. Transportul în comun ne permite să păstrăm segmentele reci dintre obiective cât mai scurte.\r\n\r\nSeara, zăpada strălucește în lumina felinarelor din stație. Drumul spre casă este cald și sigur, în timp ce orașul se scufundă în ger.",
+            "en": "Your breath forms small clouds as we wait at the Independence Square stop. The frosty Moldovan winter is very much felt here.\r\n\r\nAt midday, riding in a heated bus is a true comfort. The view of the snow-covered Cathedral is picturesque and peaceful.\r\n\r\nIn the afternoon, we visit the museum. Transit allows us to keep the cold stretches between sights as short as possible.\r\n\r\nEvening sees the snow glistening under the street lamps at the stop. The return trip is warm and safe while the city slowly sinks into the frost."
+          },
+          "stops": [
+            {
+              "name": "Independence Square Bus Stop",
+              "tip_4lang": {
+                "de": "Bewegen Sie sich an der Haltestelle, um die Blutzirkulation anzuregen.",
+                "hu": "Mozogj a megállóban, hogy serkentsd a vérkeringésedet.",
+                "ro": "Muntați-vă în stație pentru a stimula circulația sângelui.",
+                "en": "Keep moving at the stop to stimulate blood circulation."
+              }
+            },
+            {
+              "name": "B.P. Hasdeu Theatre",
+              "tip_4lang": {
+                "de": "Die Busse können im Winter leicht abweichende Fahrpläne haben.",
+                "hu": "A buszok télen kissé eltérő menetrend szerint közlekedhetnek.",
+                "ro": "Autobuzele pot avea orare ușor diferite pe timp de iarnă.",
+                "en": "Buses may have slightly different schedules during winter."
+              }
+            },
+            {
+              "name": "St. Michael and Gabriel Cathedral",
+              "tip_4lang": {
+                "de": "Vorsicht vor Schneematsch im Eingangsbereich des Busses.",
+                "hu": "Vigyázz a hólére a busz bejáratánál.",
+                "ro": "Atenție la fleșcăraia de la intrarea în autobuz.",
+                "en": "Watch out for slush in the boarding area of the bus."
+              }
+            },
+            {
+              "name": "Museum of History and Ethnography",
+              "tip_4lang": {
+                "de": "Ein idealer Ort, um die Wartezeit auf den nächsten Bus im Warmen zu verbringen.",
+                "hu": "Ideális hely, hogy a következő buszig tartó várakozást melegben töltsd.",
+                "ro": "Loc ideal pentru a aștepta următorul autobuz la căldură.",
+                "en": "An ideal place to wait for the next bus in the warm."
+              }
+            },
+            {
+              "name": "Central Park of Cahul",
+              "tip_4lang": {
+                "de": "Die Haltestellen am Park sind oft ungeschützt gegen Wind.",
+                "hu": "A park melletti megállók gyakran védtelenek a széllel szemben.",
+                "ro": "Stațiile de lângă parc sunt adesea expuse vântului.",
+                "en": "The stops near the park are often unprotected from the wind."
+              }
+            },
+            {
+              "name": "Prut River Promenade",
+              "tip_4lang": {
+                "de": "Planen Sie den Rückweg vor 16:30 Uhr, wenn die Kälte zunimmt.",
+                "hu": "Tervezd meg a visszautat 16:30 előtt, amikor a hideg fokozódik.",
+                "ro": "Planificați drumul de întoarcere înainte de 16:30, când gerul se intensifică.",
+                "en": "Plan your return trip before 16:30 as the cold intensifies."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe, die Touchscreen-kompatibel sind für die Fahrplan-Abfrage.",
+              "Warten Sie in nahegelegenen Geschäften, falls der Bus Verspätung hat.",
+              "Die Innenräume können stark geheizt sein; kleiden Sie sich nach dem Zwiebelprinzip.",
+              "Achten Sie auf vereiste Bordsteinkanten."
+            ],
+            "hu": [
+              "Viselj érintőképernyő-barát kesztyűt a menetrend böngészéséhez.",
+              "Várj a közeli üzletekben, ha késik a busz.",
+              "A buszok beltere erősen fűtött lehet; öltözz rétegesen.",
+              "Ügyelj a jeges útpadkákra."
+            ],
+            "ro": [
+              "Purtați mănuși compatibile cu ecranele tactile pentru a verifica orarul.",
+              "Așteptați în magazinele din apropiere dacă autobuzul întârzie.",
+              "Interioarele pot fi foarte încălzite; îmbrăcați-vă în straturi.",
+              "Atenție la bordurile înghețate."
+            ],
+            "en": [
+              "Wear touchscreen-compatible gloves to check schedules on your phone.",
+              "Wait in nearby shops if the bus is delayed.",
+              "Bus interiors can be heavily heated; dress in layers.",
+              "Watch out for icy curbs when stepping on or off."
+            ]
+          }
+        }
       }
     }
   }

@@ -241,6 +241,170 @@
           "Check the museum's opening hours in advance.",
           "Some paths in the nature reserve can be uneven."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der Reformierten Kirche, die trockenen Unterschlupf und Stille bietet. Nach einem kurzen Blick auf den Büchel-Brunnen führt der Weg ins Ortsmuseum, wo Sie tief in die Geschichte von Kloten eintauchen. Nach einem warmen Mittagessen im Zentrum folgt ein Spaziergang zum Goldenberg, wo der Wald bei Regen besonders intensiv duftet. Der Tag endet gemütlich in der Innenstadt.",
+            "hu": "A napot a Református Templomban kezdjük, amely védelmet nyújt az eső elől. A Büchel-kút megtekintése után a Helytörténeti Múzeumba megyünk, ahol fedett helyen ismerkedhetünk meg a város múltjával. Egy kiadós belvárosi ebéd után a Goldenberg természetvédelmi terület következik, ahol az eső illata frissíti fel az erdei utat. Az este a központ fényeiben, ernyő alatt ér véget.",
+            "ro": "Începeți ziua la Biserica Reformată, un refugiu liniștit împotriva ploii. După o scurtă oprire la Fântâna Büchel, vizitați Muzeul de Istorie Locală pentru a rămâne la adăpost. După un prânz cald în centru, mergeți spre Rezervația Goldenberg, unde pădurea are un farmec aparte pe vreme umedă. Seara se încheie relaxat în zona centrală, ferit de intemperii.",
+            "en": "Start the day at the Reformed Church, providing a dry sanctuary and quiet atmosphere. After a quick look at the Büchel Fountain, visit the Local History Museum to stay indoors and explore Kloten's past. Following a warm lunch in the center, walk to the Goldenberg Nature Reserve, where the forest scent is intensified by the rain. The day ends comfortably back in the city center."
+          },
+          "stops": [
+            {
+              "name": "Reformed Church Kloten",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als Regenschutz; im Inneren ist es absolut windstill.",
+                "hu": "Használja a templombejáratot esővédőként; odabent teljes a nyugalom és szélcsend.",
+                "ro": "Folosiți intrarea bisericii ca adăpost; în interior este liniște deplină și adăpost.",
+                "en": "Use the church entrance as rain cover; inside it is perfectly still and dry."
+              }
+            },
+            {
+              "name": "Büchel Fountain",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; die nassen Pflastersteine rund um den Brunnen können rutschig sein.",
+                "hu": "Gyors fotómegálló; a kút körüli nedves macskakő csúszós lehet.",
+                "ro": "Oprire rapidă pentru poze; pavajul umed din jurul fântânii poate fi alunecos.",
+                "en": "Quick photo stop; the wet cobblestones around the fountain can be slippery."
+              }
+            },
+            {
+              "name": "Kloten Local History Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Regenpause für eine ausführliche Besichtigung der Exponate zu nutzen.",
+                "hu": "Ideális helyszín az esőszünet kihasználására a kiállítások részletes megtekintéséhez.",
+                "ro": "Loc ideal pentru a profita de pauza de ploaie și a vizita exponatele în detaliu.",
+                "en": "Ideal place to take advantage of the rain break for a detailed tour of the exhibits."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe, um nasse Jacken bequem trocknen zu lassen.",
+                "hu": "Válasszon ruhatárral rendelkező éttermet, hogy a vizes kabátok kényelmesen megszáradjanak.",
+                "ro": "Alegeți un restaurant cu garderobă pentru a lăsa jachetele umede la uscat.",
+                "en": "Choose a restaurant with a cloakroom to let wet jackets dry comfortably."
+              }
+            },
+            {
+              "name": "Goldenberg Nature Reserve",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk ist Pflicht, da die Waldwege bei Regen schlammig werden können.",
+                "hu": "Zárt lábbeli kötelező, mivel az erdei utak esőben sárosak lehetnek.",
+                "ro": "Încălțămintea robustă este obligatorie, deoarece potecile pot deveni noroioase.",
+                "en": "Sturdy footwear is a must, as forest paths can get muddy in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserfeste Regenjacke statt eines Schirms wegen der Windböen am Flughafen.",
+              "Die Innenstadt verfügt über viele Arkaden, die kurze trockene Wege ermöglichen.",
+              "Im Ortsmuseum gibt es Schließfächer für nasse Ausrüstung.",
+              "Prüfen Sie die SBB-App auf wetterbedingte Fahrplanänderungen für die Rückfahrt."
+            ],
+            "hu": [
+              "Viseljen vízálló esőkabátot esernyő helyett a repülőtér közeli széllökések miatt.",
+              "A belvárosban sok az árkád, ami lehetővé teszi a rövid, száraz közlekedést.",
+              "A helytörténeti múzeumban vannak szekrények a vizes felszereléseknek.",
+              "Ellenőrizze az SBB alkalmazást az eső miatti esetleges menetrendváltozásokhoz."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă în loc de umbrelă din cauza rafalelor de vânt de lângă aeroport.",
+              "Centrul orașului are multe arcade care permit deplasări scurte la uscat.",
+              "La muzeul de istorie locală există dulapuri pentru echipamentul umed.",
+              "Verificați aplicația SBB pentru eventuale modificări de orar cauzate de vreme."
+            ],
+            "en": [
+              "Wear a waterproof jacket instead of an umbrella due to wind gusts near the airport.",
+              "The city center has many arcades allowing for short dry walks.",
+              "The local history museum has lockers available for wet gear.",
+              "Check the SBB app for any weather-related schedule changes for your return."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen beginnt in der geheizten Reformierten Kirche. Nach einem kurzen Halt am frostigen Büchel-Brunnen bietet das Ortsmuseum wohlige Wärme und spannende Exponate. Das Mittagessen stärkt Sie für den winterlichen Spaziergang zum Goldenberg, wo der verschneite Wald eine ruhige Atmosphäre ausstrahlt. Bei Einbruch der Dunkelheit gegen 16:30 Uhr kehren Sie in das beleuchtete Zentrum zurück.",
+            "hu": "A hűvös reggel a fűtött Református Templomban indul. A jeges Büchel-kút után a múzeum melege várja a látogatókat. Az ebéd erőt ad a téli sétához a Goldenberg felé, ahol a havas erdő különleges nyugalmat áraszt. A korai sötétedés miatt 16:30 körül már a kivilágított belvárosban zárjuk a napot.",
+            "ro": "O dimineață răcoroasă începe în Biserica Reformată încălzită. După o scurtă oprire la fântâna înghețată, muzeul oferă căldură și exponate fascinante. Prânzul vă pregătește pentru plimbarea hibernală spre Goldenberg, unde pădurea înzăpezită emană liniște. Odată cu lăsarea întunericului în jur de 16:30, reveniți în centrul luminat.",
+            "en": "A chilly morning starts in the heated Reformed Church. After a brief stop at the frosty Büchel Fountain, the museum provides warmth and engaging exhibits. Lunch prepares you for a winter walk to Goldenberg, where the snowy forest radiates a calm atmosphere. As darkness falls around 16:30, return to the brightly lit city center."
+          },
+          "stops": [
+            {
+              "name": "Reformed Church Kloten",
+              "tip_5lang": {
+                "de": "Genießen Sie die angenehme Innentemperatur; ideal zum Aufwärmen vor dem Museumsweg.",
+                "hu": "Élvezze a kellemes benti hőmérsékletet; ideális bemelegítés a múzeumi séta előtt.",
+                "ro": "Bucurați-vă de temperatura interioară plăcută; ideal pentru încălzire înainte de muzeu.",
+                "en": "Enjoy the pleasant indoor temperature; ideal for warming up before the museum walk."
+              }
+            },
+            {
+              "name": "Büchel Fountain",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Vorplatz; der Brunnen ist oft kunstvoll vereist.",
+                "hu": "Vigyázzon a jégre a téren; a kút gyakran látványosan be van fagyva.",
+                "ro": "Atenție la polei în piață; fântâna este adesea înghețată spectaculos.",
+                "en": "Watch out for black ice on the square; the fountain is often artistically frozen."
+              }
+            },
+            {
+              "name": "Kloten Local History Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, um der Kälte draußen länger zu entfliehen.",
+                "hu": "Töltsön itt több időt, hogy hosszabb ideig elkerülje a kinti hideget.",
+                "ro": "Planificați mai mult timp aici pentru a scăpa de frigul de afară.",
+                "en": "Plan more time here to stay away from the cold outside for longer."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einer heißen Tagessuppe, um die Körpertemperatur wieder anzuheben.",
+                "hu": "Kérjen forró napi levest, hogy visszaállítsa a testhőmérsékletét.",
+                "ro": "Cereți o supă caldă a zilei pentru a vă regla temperatura corpului.",
+                "en": "Ask for a hot soup of the day to raise your body temperature."
+              }
+            },
+            {
+              "name": "Goldenberg Nature Reserve",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist früh; starten Sie die Waldrunde spätestens um 14:30 Uhr.",
+                "hu": "A naplemente korai; legkésőbb 14:30-kor induljon el az erdei körre.",
+                "ro": "Apusul este devreme; începeți traseul prin pădure cel târziu la 14:30.",
+                "en": "Sunset is early; start your forest loop by 14:30 at the latest."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip für den Wechsel zwischen Kälte und Heizung.",
+              "Die Wege am Goldenberg werden im Winter nicht immer komplett geräumt.",
+              "Nehmen Sie eine Thermoskanne mit Tee für die Wanderung im Naturschutzgebiet mit.",
+              "Berücksichtigen Sie das frühe Lichtende um 16:30 Uhr für Ihre Fotoaufnahmen."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a kinti hideg és a benti fűtés közötti váltásokhoz.",
+              "A Goldenberg útjait télen nem mindig takarítják le teljesen.",
+              "Vigyen magával termoszban teát a természetvédelmi területen tett sétához.",
+              "A fotózáshoz vegye figyelembe a korai, 16:30-as sötétedést."
+            ],
+            "ro": [
+              "Îmbrăcați-vă stratificat pentru tranziția între frigul de afară și căldura interioară.",
+              "Potecile din Goldenberg nu sunt întotdeauna curățate complet iarna.",
+              "Luați un termos cu ceai pentru plimbarea în rezervația naturală.",
+              "Țineți cont de faptul că lumina scade drastic în jur de ora 16:30."
+            ],
+            "en": [
+              "Dress in layers for the transitions between outdoor cold and indoor heating.",
+              "Paths at Goldenberg are not always fully cleared of snow in winter.",
+              "Take a thermos with tea for your walk in the nature reserve.",
+              "Consider the early sunset at 16:30 for your photography planning."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -515,6 +679,188 @@
           "The paths to the airport and the rope park are well-maintained.",
           "A water bottle is essential."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Radtour nach Kloten spannende Einblicke. Nach der Kirche dient das Museum als trockener Stopp. Die Fahrt zum Flughafen führt zur Zuschauerterrasse B, die teilweise überdacht ist. Nach dem Mittagessen fordert der Seilpark Ihre Geschicklichkeit auf nassem Holz, bevor die Tour am Goldenberg endet. Achten Sie auf nasse Markierungen auf der Straße.",
+            "hu": "Az eső ellenére a kerékpártúra izgalmas látnivalókat kínál. A templom után a múzeum tökéletes menedék. A repülőtér B kilátóterasza részben fedett, így esőben is figyelhetjük a gépeket. Ebéd után a kötélpark nedves akadályai várnak, majd a túra a Goldenbergnél zárul. Figyeljen a vizes útburkolati jelekre.",
+            "ro": "În ciuda ploii, turul cu bicicleta oferă perspective interesante. După biserică, muzeul servește ca punct de oprire uscat. Drumul spre aeroport duce la Terasa B, care este parțial acoperită. După prânz, parcul de aventură vă testează abilitățile pe lemn umed, înainte de finalul la Goldenberg. Atenție la marcajele rutiere ude.",
+            "en": "Despite the rain, this bike tour offers great insights. After the church, the museum serves as a dry stop. The ride to the airport leads to Observation Deck B, which is partially covered. After lunch, the Rope Park challenges your skills on wet wood before the tour ends at Goldenberg. Watch out for slippery road markings."
+          },
+          "stops": [
+            {
+              "name": "Reformed Church Kloten",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter das Vordach, um den Sattel trocken zu halten.",
+                "hu": "Állítsa a biciklit az előtető alá, hogy a nyereg száraz maradjon.",
+                "ro": "Parcați bicicleta sub copertină pentru a menține șaua uscată.",
+                "en": "Park your bike under the overhang to keep the saddle dry."
+              }
+            },
+            {
+              "name": "Kloten Local History Museum",
+              "tip_5lang": {
+                "de": "Ein längerer Aufenthalt hilft, die Bremsen und Reifen kurz abtrocknen zu lassen.",
+                "hu": "A hosszabb tartózkodás segít, hogy a fékek és gumik kicsit megszáradjanak.",
+                "ro": "O ședere mai lungă ajută la uscarea frânelor și a anvelopelor.",
+                "en": "A longer stay helps let the brakes and tires dry off briefly."
+              }
+            },
+            {
+              "name": "Observation Deck B",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bereich der Terrasse für die Flugzeugbeobachtung.",
+                "hu": "Használja a terasz fedett részét a repülőgépek megfigyeléséhez.",
+                "ro": "Folosiți zona acoperită a terasei pentru observarea avioanelor.",
+                "en": "Use the covered area of the deck for plane spotting."
+              }
+            },
+            {
+              "name": "Lunch near the airport",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz mit Blick auf Ihr Fahrrad, um den Regenstand zu prüfen.",
+                "hu": "Keressen olyan helyet, ahonnan látja a biciklijét és az eső intenzitását.",
+                "ro": "Căutați un loc cu vedere la bicicletă pentru a verifica intensitatea ploii.",
+                "en": "Find a spot with a view of your bike to monitor the rain intensity."
+              }
+            },
+            {
+              "name": "Rope Park Zurich",
+              "tip_5lang": {
+                "de": "Besondere Vorsicht auf den Holzstämmen; sie sind bei Nässe extrem glatt.",
+                "hu": "Különös óvatosság a fatörzseken; nedvesen rendkívül csúszósak.",
+                "ro": "Atenție sporită pe bușteni; sunt extrem de alunecoși când sunt uzi.",
+                "en": "Extra caution on the wooden logs; they are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Goldenberg Nature Reserve",
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege erfordern breite Reifen oder vorsichtige Fahrweise.",
+                "hu": "A burkolatlan utak széles gumit vagy óvatos vezetési stílust igényelnek.",
+                "ro": "Drumurile neasfaltate necesită anvelope late sau condus prudent.",
+                "en": "The unpaved paths require wide tires or a very cautious riding style."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um Schlammspritzer auf der Kleidung zu vermeiden.",
+              "Vermeiden Sie abruptes Bremsen auf nassen Tramschienen oder Markierungen.",
+              "Wasserdichte Packtaschen sind für die Ausrüstung unerlässlich.",
+              "Das Licht sollte auch tagsüber eingeschaltet sein für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "Használjon sárvédőt, hogy elkerülje a sárfelverődést a ruházatára.",
+              "Kerülje a hirtelen fékezést a vizes villamossíneken vagy útburkolati jeleken.",
+              "A vízálló táskák elengedhetetlenek a felszerelés védelméhez.",
+              "A lámpákat nappal is kapcsolja be a jobb láthatóság érdekében."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi pentru a evita stropirea hainelor.",
+              "Evitați frânarea bruscă pe șinele de tramvai sau marcajele ude.",
+              "Genzile impermeabile sunt esențiale pentru protejarea echipamentului.",
+              "Luminile trebuie să fie aprinse și ziua pentru o vizibilitate mai bună."
+            ],
+            "en": [
+              "Use mudguards to avoid splashing mud onto your clothing.",
+              "Avoid abrupt braking on wet tram tracks or road markings.",
+              "Waterproof panniers are essential for keeping your gear dry.",
+              "Keep your lights on even during the day for better visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour erfordert warme Handschuhe und eine gute Planung. Nach dem Kirchenbesuch wärmt das Ortsmuseum auf. Die Fahrt zum Flughafen ist windig, aber die Terrasse B bietet klare Sicht bei kalter Luft. Das Mittagessen gibt Energie für den Seilpark, der im Winter oft ein besonderes Training bietet. Den Abschluss bildet der Goldenberg im sanften Winterlicht vor dem frühen Abend.",
+            "hu": "A téli túra meleg kesztyűt és jó tervezést igényel. A templom után a múzeumban melegedhetünk fel. A repülőtér felé szeles az út, de a B terasz tiszta kilátást nyújt a hideg levegőben. Az ebéd energiát ad a kötélparkhoz, amely télen különleges kihívást jelent. A napot a Goldenberg zárja a lágy téli fényekben.",
+            "ro": "Turul de iarnă necesită mănuși groase și o planificare atentă. După biserică, muzeul vă va încălzi. Drumul spre aeroport este vântos, dar Terasa B oferă o vedere clară în aerul rece. Prânzul oferă energie pentru parcul de aventură, care iarna are un farmec aparte. Finalul este la Goldenberg, în lumina blândă de iarnă.",
+            "en": "The winter tour requires warm gloves and careful planning. After visiting the church, the museum provides a warm break. The ride to the airport is windy, but Deck B offers clear views in the crisp air. Lunch gives energy for the Rope Park, which often offers special winter training. The day concludes at Goldenberg in the soft winter light."
+          },
+          "stops": [
+            {
+              "name": "Reformed Church Kloten",
+              "tip_5lang": {
+                "de": "Kurze Pause im Inneren, um die klammen Finger wieder beweglich zu machen.",
+                "hu": "Rövid szünet odabent, hogy az elgémberedett ujjak újra mozogjanak.",
+                "ro": "Scurtă pauză în interior pentru a vă dezmorți degetele înghețate.",
+                "en": "Short break inside to get your cold fingers moving again."
+              }
+            },
+            {
+              "name": "Kloten Local History Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Garderobenbereich, um schwere Winterkleidung kurz abzulegen.",
+                "hu": "Használja a ruhatárat a nehéz téli ruházat rövid letételéhez.",
+                "ro": "Folosiți zona garderobei pentru a lăsa hainele groase de iarnă.",
+                "en": "Use the cloakroom area to take off heavy winter clothing for a while."
+              }
+            },
+            {
+              "name": "Observation Deck B",
+              "tip_5lang": {
+                "de": "Der Windchill-Effekt ist hier stark; tragen Sie unbedingt eine winddichte Jacke.",
+                "hu": "A szél hűtőhatása itt erős; feltétlenül viseljen szélálló kabátot.",
+                "ro": "Efectul de vânt este puternic aici; purtați neapărat o jachetă rezistentă.",
+                "en": "The wind chill effect is strong here; be sure to wear a windproof jacket."
+              }
+            },
+            {
+              "name": "Lunch near the airport",
+              "tip_5lang": {
+                "de": "Ein warmes Getränk ist essenziell, um die Körperkerntemperatur zu halten.",
+                "hu": "Egy meleg ital elengedhetetlen a testhőmérséklet fenntartásához.",
+                "ro": "O băutură caldă este esențială pentru a menține temperatura corpului.",
+                "en": "A warm drink is essential to maintain your core body temperature."
+              }
+            },
+            {
+              "name": "Rope Park Zurich",
+              "tip_5lang": {
+                "de": "Prüfen Sie vorab die Öffnungszeiten; im Winter oft nur nach Anmeldung oder kürzer.",
+                "hu": "Ellenőrizze előre a nyitvatartást; télen gyakran csak bejelentkezéssel vagy rövidebb ideig.",
+                "ro": "Verificați programul în avans; iarna este adesea scurtat sau doar cu rezervare.",
+                "en": "Check opening hours in advance; in winter it's often shorter or by appointment only."
+              }
+            },
+            {
+              "name": "Goldenberg Nature Reserve",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenes Laub; es ist oft rutschiger als pures Eis.",
+                "hu": "Ügyeljen a fagyott levelekre; gyakran csúszósabbak, mint a tiszta jég.",
+                "ro": "Atenție la frunzele înghețate; sunt adesea mai alunecoase decât gheața.",
+                "en": "Watch out for frozen leaves; they are often more slippery than pure ice."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Winter-Fahrradhandschuhe für optimalen Griff und Wärme.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck bietet mehr Grip auf Schnee.",
+              "Die Batterie Ihres E-Bikes entlädt sich bei Kälte deutlich schneller.",
+              "Sichtbarkeit ist alles: Reflektierende Westen sind im Winter Pflicht."
+            ],
+            "hu": [
+              "Használjon téli kerékpáros kesztyűt az optimális tapadásért és melegért.",
+              "Ellenőrizze a guminyomást; a kicsit kisebb nyomás jobb tapadást ad a havon.",
+              "Az e-bike akkumulátora hidegben lényegesen gyorsabban merül.",
+              "A láthatóság a legfontosabb: a fényvisszaverő mellény télen kötelező."
+            ],
+            "ro": [
+              "Folosiți mănuși de ciclism de iarnă pentru aderență și căldură optimă.",
+              "Verificați presiunea anvelopelor; o presiune mai mică oferă aderență pe zăpadă.",
+              "Bateria bicicletei electrice se descarcă mult mai repede la frig.",
+              "Vizibilitatea este esențială: vestele reflectorizante sunt obligatorii iarna."
+            ],
+            "en": [
+              "Use winter cycling gloves for optimal grip and warmth.",
+              "Check tire pressure; slightly lower pressure provides more grip on snow.",
+              "Your e-bike battery will drain significantly faster in the cold.",
+              "Visibility is key: reflective vests are highly recommended in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -773,6 +1119,188 @@
           "Allow enough time for traffic around the airport.",
           "Many parking meters in Switzerland require coins or a parking app."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Kloten bequem im Trockenen. Der Flughafen und die Terrasse B bieten spannende Technik-Einblicke bei jedem Wetter. Das Mittagessen am Airport verbindet Transit-Flair mit Komfort. Nachmittags geht es zum Seilpark und Goldenberg, wobei das Auto als mobiler Unterschlupf dient. Der Tag endet im historischen Kern beim Ortsmuseum, wo Parkplätze direkt vor der Tür liegen.",
+            "hu": "Autóval kényelmesen, szárazon fedezhetjük fel Klotent. A repülőtér és a B terasz bármilyen időben izgalmas technikai látnivalókat kínál. A reptéri ebéd a tranzit-hangulatot ötvözi a kényelemmel. Délután a kötélpark és a Goldenberg következik, ahol az autó mobil menedékként szolgál. A nap a történelmi magban, a múzeumnál zárul, ahol közvetlen parkolási lehetőség van.",
+            "ro": "Cu mașina, explorați Kloten confortabil la adăpost de ploaie. Aeroportul și Terasa B oferă perspective tehnice fascinante pe orice vreme. Prânzul la aeroport îmbină atmosfera de tranzit cu confortul. După-amiaza, mergeți la parcul de aventură și Goldenberg, mașina servind drept adăpost mobil. Ziua se încheie în centrul istoric, la muzeu, cu parcare chiar în față.",
+            "en": "Explore Kloten comfortably by car while staying dry. The airport and Deck B offer exciting technical insights in any weather. Lunch at the airport combines transit flair with comfort. In the afternoon, head to the Rope Park and Goldenberg, with the car serving as a mobile shelter. The day ends in the historic core at the museum, with parking right at the door."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Zurich Airport",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus P2; es bietet direkten, trockenen Zugang zum Terminal.",
+                "hu": "Használja a P2 parkolóházat; közvetlen, száraz kijáratot biztosít a terminálhoz.",
+                "ro": "Folosiți parcarea P2; oferă acces direct și uscat către terminal.",
+                "en": "Use the P2 parking garage; it provides direct, dry access to the terminal."
+              }
+            },
+            {
+              "name": "Observation Deck B",
+              "tip_5lang": {
+                "de": "Die Glasfronten im Innenbereich ermöglichen Sicht ohne nass zu werden.",
+                "hu": "A benti üvegfalak lehetővé teszik a kilátást anélkül, hogy megáznánk.",
+                "ro": "Geamurile mari din interior permit vizibilitatea fără a vă uda.",
+                "en": "The indoor glass fronts allow for views without getting wet."
+              }
+            },
+            {
+              "name": "Cluster 2: Adventure and Nature",
+              "tip_5lang": {
+                "de": "Parken Sie auf befestigten Flächen, um nicht im nassen Gras stecken zu bleiben.",
+                "hu": "Burkolt felületen parkoljon, hogy ne ragadjon bele a vizes fűbe.",
+                "ro": "Parcați pe suprafețe pavate pentru a nu rămâne blocat în iarba udă.",
+                "en": "Park on paved surfaces to avoid getting stuck in wet grass."
+              }
+            },
+            {
+              "name": "Goldenberg Nature Reserve",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus dem Auto, falls der Regen zu stark für den Rundgang ist.",
+                "hu": "Élvezze a kilátást az autóból, ha az eső túl erős a gyalogos körhöz.",
+                "ro": "Bucurați-vă de priveliște din mașină dacă ploaia este prea puternică.",
+                "en": "Enjoy the view from the car if the rain is too heavy for the walking loop."
+              }
+            },
+            {
+              "name": "Cluster 3: Kloten's Historic Heart",
+              "tip_5lang": {
+                "de": "Die Parkzone Blau erfordert eine Parkscheibe; achten Sie auf die Zeitvorgaben.",
+                "hu": "A kék parkolózónához parkolótárcsa kell; figyeljen az időkorlátokra.",
+                "ro": "Zona albastră necesită disc de parcare; atenție la limitele de timp.",
+                "en": "The blue parking zone requires a parking disc; watch the time limits."
+              }
+            },
+            {
+              "name": "Kloten Local History Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie Schirme im Kofferraum, bevor Sie das Museum betreten.",
+                "hu": "Hagyja az esernyőket a csomagtartóban, mielőtt belép a múzeumba.",
+                "ro": "Lăsați umbrelele în portbagaj înainte de a intra în muzeu.",
+                "en": "Leave umbrellas in the trunk before entering the museum."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkhäuser am Flughafen sind teuer, bieten aber maximalen Komfort bei Regen.",
+              "Schalten Sie das Abblendlicht ein, da die Sichtverhältnisse oft eingeschränkt sind.",
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Abfahrt.",
+              "Vermeiden Sie die Rushhour rund um den Flughafen Kloten bei Starkregen."
+            ],
+            "hu": [
+              "A reptéri parkolóházak drágák, de esőben maximális kényelmet nyújtanak.",
+              "Kapcsolja be a tompított fényszórót, mert a látási viszonyok gyakran rosszak.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Heves esőzéskor kerülje a csúcsforgalmat a kloteni repülőtér környékén."
+            ],
+            "ro": [
+              "Parcările de la aeroport sunt scumpe, dar oferă confort maxim pe ploaie.",
+              "Aprindeți faza scurtă, deoarece vizibilitatea este adesea redusă.",
+              "Verificați starea ștergătoarelor de parbriz înainte de plecare.",
+              "Evitați orele de vârf din jurul aeroportului în timpul ploilor torențiale."
+            ],
+            "en": [
+              "Airport parking garages are expensive but offer maximum comfort in the rain.",
+              "Turn on your low beams, as visibility is often limited.",
+              "Check the condition of your windshield wipers before departure.",
+              "Avoid rush hour around Kloten airport during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterkomfort im Auto macht die Kloten-Tour zum Vergnügen. Der Vormittag am Flughafen und der Terrasse B zeigt die beeindruckende Winter-Logistik. Nach einem warmen Mittagessen besuchen Sie den Seilpark und den Goldenberg, wo Sie die verschneite Landschaft sicher erreichen. Der Tag endet im historischen Zentrum, wo die beleuchtete Reformierte Kirche und das Museum auf Sie warten.",
+            "hu": "Az autó téli kényelme élvezetessé teszi a kloteni túrát. A délelőtt a repülőtéren a lenyűgöző téli logisztikát mutatja be. Egy meleg ebéd után a kötélpark és a Goldenberg következik, ahol biztonságosan érhetjük el a havas tájat. A nap a történelmi központban zárul, ahol a kivilágított templom és a múzeum várja.",
+            "ro": "Confortul mașinii pe timp de iarnă transformă turul în plăcere. Dimineața la aeroport și Terasa B arată logistica impresionantă de iarnă. După un prânz cald, vizitați parcul de aventură și Goldenberg, ajungând în siguranță în peisajul înzăpezit. Ziua se încheie în centrul istoric, cu biserica și muzeul luminate.",
+            "en": "Winter comfort in the car makes the Kloten tour a pleasure. The morning at the airport and Deck B showcases impressive winter logistics. After a warm lunch, visit the Rope Park and Goldenberg, reaching the snowy landscape safely. The day ends in the historic center, where the lit church and museum await."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Zurich Airport",
+              "tip_5lang": {
+                "de": "Beheizte Parkgaragen verhindern das Einfrieren der Türschlösser.",
+                "hu": "A fűtött parkolóházak megakadályozzák az ajtózárak befagyását.",
+                "ro": "Parcările încălzite previn înghețarea încuietorilor ușilor.",
+                "en": "Heated parking garages prevent door locks from freezing."
+              }
+            },
+            {
+              "name": "Observation Deck B",
+              "tip_5lang": {
+                "de": "Achten Sie auf Enteisungs-Aktivitäten an den Flugzeugen; sehr sehenswert.",
+                "hu": "Figyelje a repülőgépek jégtelenítését; nagyon látványos folyamat.",
+                "ro": "Observați activitățile de degivrare ale avioanelor; merită văzute.",
+                "en": "Watch for plane de-icing activities; they are very interesting to observe."
+              }
+            },
+            {
+              "name": "Cluster 2: Adventure and Nature",
+              "tip_5lang": {
+                "de": "Die Zufahrten zu den Waldparkplätzen können bei Neuschnee tückisch sein.",
+                "hu": "Az erdei parkolókhoz vezető utak friss hóban csalókák lehetnek.",
+                "ro": "Accesul la parcările din pădure poate fi înșelător în caz de zăpadă proaspătă.",
+                "en": "Access roads to forest parking lots can be tricky in fresh snow."
+              }
+            },
+            {
+              "name": "Goldenberg Nature Reserve",
+              "tip_5lang": {
+                "de": "Parken Sie rückwärts ein, um bei plötzlichem Schneefall leichter loszufahren.",
+                "hu": "Tolatva parkoljon le, hogy hirtelen havazás esetén könnyebben indulhasson.",
+                "ro": "Parcați cu spatele pentru a pleca mai ușor în caz de ninsoare bruscă.",
+                "en": "Park in reverse to make it easier to leave in case of sudden snowfall."
+              }
+            },
+            {
+              "name": "Cluster 3: Kloten's Historic Heart",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Parkscheibe nicht durch Frost beschlägt.",
+                "hu": "Győződjön meg róla, hogy a parkolótárcsa nem párásodik vagy fagy be.",
+                "ro": "Asigurați-vă că discul de parcare nu este acoperit de brumă sau îngheț.",
+                "en": "Ensure your parking disc is not obscured by frost or condensation."
+              }
+            },
+            {
+              "name": "Kloten Local History Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg vom Parkplatz, um die Kältezeit zu minimieren.",
+                "hu": "Használja a rövid utat a parkolótól, hogy minimalizálja a hidegben töltött időt.",
+                "ro": "Folosiți distanța scurtă de la parcare pentru a minimiza timpul petrecut în frig.",
+                "en": "Use the short walk from the parking lot to minimize time in the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in der Schweiz bei entsprechenden Verhältnissen Pflicht.",
+              "Führen Sie einen Eiskratzer und Besen für den Schnee im Auto mit.",
+              "Die Bergstraßen rund um Kloten können morgens spiegelglatt sein.",
+              "Batteriecheck vor der Tour: Kälte reduziert die Startleistung massiv."
+            ],
+            "hu": [
+              "Svájcban téli útviszonyok esetén kötelező a téli gumi használata.",
+              "Tartson jégkaparót és hóseprűt az autóban a takarításhoz.",
+              "A Kloten környéki hegyi utak reggelente tükörsima jégpályák lehetnek.",
+              "Akkuellenőrzés a túra előtt: a hideg drasztikusan csökkenti az indítóerőt."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Elveția în condiții specifice.",
+              "Țineți în mașină o racletă și o mătură pentru curățarea zăpezii.",
+              "Drumurile montane din jurul Kloten pot fi extrem de alunecoase dimineața.",
+              "Verificați bateria înainte de tur: frigul reduce masiv puterea de pornire."
+            ],
+            "en": [
+              "Winter tires are mandatory in Switzerland during winter road conditions.",
+              "Keep an ice scraper and a snow brush in your car for cleaning.",
+              "Mountain roads around Kloten can be mirror-smooth with ice in the morning.",
+              "Battery check before the tour: cold weather reduces starting power significantly."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1008,6 +1536,170 @@
           "Download the SBB app to see real-time schedules.",
           "Note that some buses run less frequently, especially on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das dichte ÖV-Netz in Kloten hält Sie auch bei Regen trocken. Starten Sie im Zentrum bei der Kirche und dem Museum, die beide nah an den Haltestellen liegen. Der Bus bringt Sie direkt zum Flughafen-Terminal für das Observation Deck B. Nach dem Mittagessen erreichen Sie den grünen Teil Klotens bequem per Transit. Der Tag endet sicher und trocken an Ihrem Ausgangspunkt.",
+            "hu": "Kloten sűrű tömegközlekedési hálózata esőben is szárazon tartja. Kezdjen a központban a templomnál és a múzeumnál, amelyek közel vannak a megállókhoz. A busz közvetlenül a repülőtéri terminálhoz viszi a B kilátóteraszhoz. Ebéd után kényelmesen elérheti Kloten zöldövezetét tranzittal. A nap biztonságban és szárazon ér véget.",
+            "ro": "Rețeaua densă de transport public din Kloten vă menține uscat chiar și pe ploaie. Începeți în centru, la biserică și muzeu, ambele aproape de stații. Autobuzul vă duce direct la terminalul aeroportului pentru Terasa B. După prânz, ajungeți confortabil în zona verde a orașului. Ziua se încheie în siguranță și la uscat.",
+            "en": "Kloten's dense transit network keeps you dry even in the rain. Start in the center at the church and museum, both near transit stops. The bus takes you directly to the airport terminal for Observation Deck B. After lunch, reach Kloten's green areas comfortably by transit. The day ends safely and dry back at your starting point."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Kloten Center",
+              "tip_5lang": {
+                "de": "Warten Sie im Unterstand der Haltestelle 'Kloten, Kirchgasse' auf den nächsten Bus.",
+                "hu": "Várjon a 'Kloten, Kirchgasse' megálló fedett várójában a következő buszra.",
+                "ro": "Așteptați în adăpostul stației „Kloten, Kirchgasse” următorul autobuz.",
+                "en": "Wait in the shelter of the 'Kloten, Kirchgasse' stop for the next bus."
+              }
+            },
+            {
+              "name": "Reformed Church & Local Museum",
+              "tip_5lang": {
+                "de": "Diese Orte sind nur wenige Gehminuten von der Haltestelle entfernt.",
+                "hu": "Ezek a helyszínek mindössze néhány perc sétára vannak a megállótól.",
+                "ro": "Aceste locații sunt la doar câteva minute de mers pe jos de stație.",
+                "en": "These sites are only a few minutes' walk from the transit stop."
+              }
+            },
+            {
+              "name": "Cluster 2: Airport Experience",
+              "tip_5lang": {
+                "de": "Der Bahnhof Zürich Flughafen ist komplett unterirdisch und trocken.",
+                "hu": "A zürichi repülőtéri vasútállomás teljesen földalatti és száraz.",
+                "ro": "Gara Aeroportului Zürich este complet subterană și uscată.",
+                "en": "Zurich Airport station is completely underground and dry."
+              }
+            },
+            {
+              "name": "Observation Deck B",
+              "tip_5lang": {
+                "de": "Folgen Sie der Beschilderung im Terminal, um ohne Regen zur Terrasse zu gelangen.",
+                "hu": "Kövesse a terminál jelzéseit, hogy eső nélkül jusson el a teraszhoz.",
+                "ro": "Urmați indicatoarele din terminal pentru a ajunge la terasă fără ploaie.",
+                "en": "Follow the signs in the terminal to reach the deck without going out in the rain."
+              }
+            },
+            {
+              "name": "Cluster 3: Green Kloten",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus 735, um nahe an den Rope Park zu kommen.",
+                "hu": "Használja a 735-ös buszt, hogy közel jusson a kötélparkhoz.",
+                "ro": "Folosiți autobuzul 735 pentru a ajunge aproape de parcul de aventură.",
+                "en": "Take bus 735 to get close to the Rope Park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie die SBB Mobile App für Echtzeit-Informationen bei Verspätungen.",
+              "Ein ZVV-Tagespass ist oft günstiger als mehrere Einzeltickets.",
+              "Busse verkehren in Kloten sehr häufig, man muss selten lange im Regen warten.",
+              "Im Flughafenbahnhof gibt es viele Geschäfte zum Zeitvertreib bei Schauern."
+            ],
+            "hu": [
+              "Használja az SBB Mobile alkalmazást a valós idejű menetrendi infókhoz.",
+              "A ZVV napijegy gyakran olcsóbb, mint több vonaljegy vásárlása.",
+              "A buszok Klotenben gyakran járnak, ritkán kell sokat várni az esőben.",
+              "A repülőtéri vasútállomáson sok bolt van, ahol elütheti az időt zápor esetén."
+            ],
+            "ro": [
+              "Folosiți aplicația SBB Mobile pentru informații în timp real despre întârzieri.",
+              "Un abonament de o zi ZVV este adesea mai ieftin decât mai multe bilete individuale.",
+              "Autobuzele circulă frecvent în Kloten, rar trebuie să așteptați mult în ploaie.",
+              "În gara aeroportului există multe magazine unde puteți petrece timpul în caz de averse."
+            ],
+            "en": [
+              "Use the SBB Mobile app for real-time information in case of delays.",
+              "A ZVV day pass is often cheaper than buying multiple single tickets.",
+              "Buses in Kloten run frequently, so you rarely wait long in the rain.",
+              "Zurich Airport station has many shops to explore during heavy showers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Warme Busse und Züge machen die winterliche Erkundung von Kloten sehr angenehm. Starten Sie im historischen Kern, wo die beheizten Gebäude der Kirche und des Museums zum Verweilen einladen. Der Transit zum Flughafen führt Sie direkt in das moderne Terminal-Ambiente. Nachmittags erreichen Sie die winterliche Natur per Bus, bevor Sie pünktlich zum frühen Sonnenuntergang zurückfahren.",
+            "hu": "A meleg buszok és vonatok kellemessé teszik Kloten téli felfedezését. Kezdjen a történelmi magban, ahol a templom és a múzeum fűtött terei várják. A repülőtérre tartó járat közvetlenül a modern terminál-környezetbe viszi. Délután busszal érheti el a téli természetet, majd a korai naplemente előtt kényelmesen utazhat vissza.",
+            "ro": "Autobuzele și trenurile încălzite fac explorarea hibernală a orașului Kloten foarte plăcută. Începeți în centrul istoric, unde clădirile încălzite ale bisericii și muzeului vă invită să zăboviți. Transportul către aeroport vă duce direct în ambianța modernă a terminalului. După-amiaza ajungeți în natură cu autobuzul, revenind înainte de apus.",
+            "en": "Warm buses and trains make exploring Kloten in winter very pleasant. Start in the historic core, where the heated buildings of the church and museum invite you to linger. Transit to the airport takes you directly into the modern terminal atmosphere. In the afternoon, reach the winter nature by bus before heading back just in time for the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Kloten Center",
+              "tip_5lang": {
+                "de": "Viele Haltestellen im Zentrum verfügen über Windschutzelemente.",
+                "hu": "A belvárosi megállók közül sok rendelkezik szélvédő elemekkel.",
+                "ro": "Multe stații din centru au elemente de protecție împotriva vântului.",
+                "en": "Many transit stops in the center are equipped with wind shields."
+              }
+            },
+            {
+              "name": "Reformed Church & Local Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Fußweg, um die Kälteexposition gering zu halten.",
+                "hu": "Használja a rövid gyalogutat, hogy minimalizálja a hidegnek való kitettséget.",
+                "ro": "Folosiți drumul scurt pe jos pentru a limita expunerea la frig.",
+                "en": "Take advantage of the short walking distance to minimize exposure to the cold."
+              }
+            },
+            {
+              "name": "Cluster 2: Airport Experience",
+              "tip_5lang": {
+                "de": "Der Transitbereich am Flughafen ist ideal klimatisiert und warm.",
+                "hu": "A repülőtéri tranzitterület ideálisan klimatizált és meleg.",
+                "ro": "Zona de tranzit de la aeroport este climatizată ideal și caldă.",
+                "en": "The airport transit area is perfectly climate-controlled and warm."
+              }
+            },
+            {
+              "name": "Observation Deck B",
+              "tip_5lang": {
+                "de": "Der Weg vom Bahnhof zur Terrasse ist komplett überdacht und windgeschützt.",
+                "hu": "A vasútállomástól a teraszig tartó út teljesen fedett és szélvédett.",
+                "ro": "Drumul de la gară la terasă este complet acoperit și protejat de vânt.",
+                "en": "The path from the station to the deck is completely covered and wind-protected."
+              }
+            },
+            {
+              "name": "Cluster 3: Green Kloten",
+              "tip_5lang": {
+                "de": "Achten Sie auf winterliche Fahrplananpassungen bei extremem Schneefall.",
+                "hu": "Ügyeljen a téli menetrendi módosításokra extrém havazás esetén.",
+                "ro": "Atenție la ajustările de orar în caz de ninsoare extremă.",
+                "en": "Watch for winter schedule adjustments in case of extreme snowfall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die ZVV-App zeigt Ihnen an, ob Ihr Bus oder Zug geheizt ist.",
+              "Halten Sie Ihre Fahrkarte griffbereit, um nicht lange in der Kälte suchen zu müssen.",
+              "Bahnhöfe wie Kloten und Flughafen bieten beheizte Wartezonen.",
+              "Beachten Sie, dass Anschlüsse bei Schnee mehr Zeit in Anspruch nehmen können."
+            ],
+            "hu": [
+              "A ZVV alkalmazás jelzi, ha a busz vagy vonat fűtött.",
+              "Tartsa kéznél a jegyét, hogy ne kelljen sokáig keresgélnie a hidegben.",
+              "A kloteni és a repülőtéri vasútállomásokon is vannak fűtött várótermek.",
+              "Vegye figyelembe, hogy a csatlakozások hó esetén több időt vehetnek igénybe."
+            ],
+            "ro": [
+              "Aplicația ZVV vă arată dacă autobuzul sau trenul este încălzit.",
+              "Țineți biletul la îndemână pentru a nu căuta mult timp în frig.",
+              "Gările din Kloten și de la aeroport oferă zone de așteptare încălzite.",
+              "Țineți cont de faptul că legăturile pot dura mai mult în caz de ninsoare."
+            ],
+            "en": [
+              "The ZVV app can show you if your bus or train is heated.",
+              "Keep your ticket ready so you don't have to search for it in the cold.",
+              "Stations like Kloten and the Airport offer heated waiting zones.",
+              "Note that connections may take longer than usual during heavy snow."
+            ]
+          }
+        }
       }
     }
   }

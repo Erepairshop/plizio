@@ -356,6 +356,196 @@
           "Most churches require respectful attire; shoulders and knees should be covered.",
           "Some smaller shops and cafes may only accept cash."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Rathaus, wo die moderne Architektur Schutz bietet. Mittags dient das Stadttheater als kultureller Zufluchtsort vor dem Regen. Nachmittags führen die Wege durch den Acropolis Park, der bei Regen besonders intensiv duftet. Den Abschluss bildet die Kirche Panagia Chryseleousa, deren Innenraum eine friedliche, trockene Atmosphäre bietet, während draußen der Regen auf die alten Steine trommelt.",
+            "hu": "A sétát a Városházánál kezdjük, ahol a modern előtetők alatt várakozhatunk. Délben a Városi Színház épülete nyújt menedéket a csapadék elől. Délután az Akropolisz park fenyői és eukaliptuszai árasztanak intenzív illatot az esőben. A napot a Panagia Chryseleousa templom csendes belső tereiben zárjuk, élvezve a száraz menedéket és a történelmi környezetet.",
+            "ro": "Începeți la Primărie, unde arhitectura modernă oferă adăpost temporar. La prânz, Teatrul Municipal devine un refugiu cultural ideal împotriva ploii. După-amiaza, potecile din Parcul Acropolis emană un parfum proaspăt de pini și eucalipt. Seara se încheie la biserica Panagia Chryseleousa, unde interiorul liniștit oferă un spațiu uscat și spiritual în timp ce ploaia cade afară.",
+            "en": "Start at the Town Hall, where modern overhangs offer shelter. By noon, the Municipal Theatre serves as a perfect cultural refuge from the rain. In the afternoon, the paths of Acropolis Park carry the intense scent of wet pine and eucalyptus. The day concludes at the Panagia Chryseleousa Church, offering a dry, peaceful atmosphere inside while rain patters on the ancient stones."
+          },
+          "stops": [
+            {
+              "name": "Strovolos Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um den Stadtplan trocken zu studieren.",
+                "hu": "Használja a fedett bejáratot a térkép tanulmányozásához, amíg eláll az eső.",
+                "ro": "Folosiți intrarea acoperită pentru a studia harta fără a vă uda.",
+                "en": "Use the covered entrance area to study your map while staying dry."
+              }
+            },
+            {
+              "name": "Strovolos Municipal Theatre",
+              "tip_5lang": {
+                "de": "Das Foyer ist ein großartiger Ort, um sich aufzuwärmen und den Regen abzuwarten.",
+                "hu": "A színház előcsarnoka kiváló hely a melegedésre és az eső kivárására.",
+                "ro": "Foaierul teatrului este un loc excelent pentru a vă încălzi și a aștepta ploaia.",
+                "en": "The theatre foyer is a great place to warm up and wait out a downpour."
+              }
+            },
+            {
+              "name": "Agios Dimitrios Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Ikonen im Inneren, während es draußen regnet.",
+                "hu": "Csodálja meg a belső ikonokat, miközben odakint esik az eső.",
+                "ro": "Admirați icoanele din interior în timp ce afară plouă torențial.",
+                "en": "Admire the icons inside while it rains heavily outside."
+              }
+            },
+            {
+              "name": "Acropolis Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf den gepflasterten Wegen, sie können bei Nässe rutschig sein.",
+                "hu": "Vigyázat a kövezett utakon, nedvesen csúszóssá válhatnak.",
+                "ro": "Atenție pe aleile pavate, pot deveni alunecoase când sunt ude.",
+                "en": "Be careful on the paved paths; they can become slippery when wet."
+              }
+            },
+            {
+              "name": "Pedieos River Bank Park",
+              "tip_5lang": {
+                "de": "Der Wasserstand des Flusses steigt bei Regen beeindruckend an; halten Sie Abstand.",
+                "hu": "A folyó vízszintje esőben látványosan megemelkedik, tartson biztonságos távolságot.",
+                "ro": "Nivelul râului crește spectaculos pe ploaie; păstrați distanța de mal.",
+                "en": "The river level rises impressively during rain; keep a safe distance from the bank."
+              }
+            },
+            {
+              "name": "Church of Panagia Chryseleousa",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Feuchtigkeit draußen und die Stille drinnen.",
+                "hu": "A vastag falak kint tartják a nedvességet és bent a csendet.",
+                "ro": "Zidurile groase țin umezeala afară și liniștea în interior.",
+                "en": "The thick walls keep the moisture out and the silence in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich in den Parks Pfützen bilden.",
+              "Das Stadttheater bietet oft kurzfristige Ausstellungen im Innenraum an.",
+              "Regenschirme sind bei dem oft windigen Regen in Zypern weniger effektiv als Regenjacken.",
+              "Nutzen Sie die Kirchen als natürliche, kostenlose Rastplätze im Trockenen.",
+              "Planen Sie Kaffeepausen in der Nähe der Tseriou Avenue ein."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a parkokban nagyobb tócsák alakulhatnak ki.",
+              "A Városi Színház gyakran tart beltéri kiállításokat, érdemes benézni.",
+              "A szeles ciprusi esőben a vízálló dzseki praktikusabb, mint az esernyő.",
+              "Használja a templomokat természetes, ingyenes pihenőhelyként a szárazon.",
+              "Tervezzen kávészünetet a Tseriou sugárút közeli kávézóiba."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece în parcuri se pot forma bălți mari.",
+              "Teatrul Municipal are adesea expoziții interioare, merită verificat.",
+              "Jachetele impermeabile sunt mai utile decât umbrelele în vântul cipriot.",
+              "Folosiți bisericile ca locuri de odihnă naturale și uscate.",
+              "Planificați pauze de cafea în zona bulevardului Tseriou."
+            ],
+            "en": [
+              "Wear waterproof shoes as large puddles can form in the parks.",
+              "The Municipal Theatre often hosts indoor exhibitions worth checking out.",
+              "Waterproof jackets are more practical than umbrellas in the windy Cypriot rain.",
+              "Use churches as natural, free rest stops to stay dry.",
+              "Plan coffee breaks at cafes near Tseriou Avenue."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen in Strovolos ist erfrischend klar. Die Tour beginnt am Rathaus bei milden Temperaturen. Mittags leuchtet das Stadttheater in der tiefstehenden Wintersonne. Der Besuch im Acropolis Park ist angenehm, da die Sommerhitze fehlt. Zum Sonnenuntergang gegen 17:00 Uhr erreichen Sie die Kirche Panagia Chryseleousa, deren goldene Steine im schwindenden Licht warm leuchten.",
+            "hu": "A téli reggel Strovolosban frissítően tiszta. A túra a Városházánál indul enyhe időben. Délben a Városi Színház épülete ragyog az alacsonyan járó téli napsütésben. Az Akropolisz park ilyenkor a legkellemesebb, mentes a nyári hőségtől. A 17:00 körüli naplementekor érjük el a Panagia Chryseleousa templomot, melynek kövei aranylóan fénylenek a búcsúzó fényben.",
+            "ro": "O dimineață de iarnă în Strovolos este revigorant de senină. Turul începe la Primărie în condiții blânde. La prânz, Teatrul Municipal strălucește în soarele palid de iarnă. Vizita în Parcul Acropolis este plăcută, fără arșița verii. La apus, în jurul orei 17:00, ajungeți la biserica Panagia Chryseleousa, ale cărei pietre strălucesc auriu în lumina serii.",
+            "en": "A winter morning in Strovolos is refreshingly clear. The tour begins at the Town Hall in mild temperatures. By noon, the Municipal Theatre glows in the low winter sun. A visit to Acropolis Park is pleasant, free from the summer heat. By sunset around 17:00, you reach the Panagia Chryseleousa Church, its golden stones glowing warmly in the fading light."
+          },
+          "stops": [
+            {
+              "name": "Strovolos Town Hall",
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht scharfe Fotos der modernen Fassade.",
+                "hu": "A tiszta téli levegő éles fotókat tesz lehetővé a modern homlokzatról.",
+                "ro": "Aerul curat de iarnă permite fotografii clare ale fațadei moderne.",
+                "en": "The clear winter air allows for sharp photos of the modern facade."
+              }
+            },
+            {
+              "name": "Strovolos Municipal Theatre",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterspielplan für Abendveranstaltungen im Warmen.",
+                "hu": "Ellenőrizze a téli műsortervet az esti, meleg színházi előadásokhoz.",
+                "ro": "Verificați programul de iarnă pentru spectacole de seară la căldură.",
+                "en": "Check the winter schedule for evening performances in the warm interior."
+              }
+            },
+            {
+              "name": "Agios Dimitrios Church",
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine warme Zuflucht, wenn der Wind auffrischt.",
+                "hu": "A templom meleg menedéket nyújt, ha feltámad a téli szél.",
+                "ro": "Biserica oferă un refugiu cald dacă vântul de iarnă se întețește.",
+                "en": "The church provides a warm refuge if the winter wind picks up."
+              }
+            },
+            {
+              "name": "Acropolis Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wintersonne auf den Bänken; es ist selten zu kalt zum Sitzen.",
+                "hu": "Élvezze a téli napsütést a padokon; ritkán van túl hideg az üléshez.",
+                "ro": "Bucurați-vă de soarele de iarnă pe bănci; rareori este prea frig pentru a sta.",
+                "en": "Enjoy the winter sun on the benches; it is rarely too cold to sit."
+              }
+            },
+            {
+              "name": "Pedieos River Bank Park",
+              "tip_5lang": {
+                "de": "Im Winter ist der Park grüner als im vertrockneten Hochsommer.",
+                "hu": "Télen a park sokkal zöldebb, mint a kiszáradt nyár közepén.",
+                "ro": "Iarna, parcul este mult mai verde decât în mijlocul verii uscate.",
+                "en": "In winter, the park is much greener than in the parched midsummer."
+              }
+            },
+            {
+              "name": "Church of Panagia Chryseleousa",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche vor 16:30 Uhr, um das Tageslicht innen zu nutzen.",
+                "hu": "Látogassa meg a templomot 16:30 előtt, hogy lássa a benti fényeket.",
+                "ro": "Vizitați biserica înainte de 16:30 pentru a profita de lumina naturală.",
+                "en": "Visit the church before 16:30 to make the most of the natural light inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung: Die Sonne wärmt, der Schatten ist kühl.",
+              "Die Sonne geht früh unter (ca. 16:50 - 17:10), planen Sie das Parkende rechtzeitig.",
+              "Viele Cafés haben im Winter Heizstrahler im Außenbereich.",
+              "Die Luftfeuchtigkeit ist niedriger, ideal für lange Spaziergänge.",
+              "Nehmen Sie eine leichte Jacke für den späten Nachmittag mit."
+            ],
+            "hu": [
+              "Öltözzön rétegesen: a napon meleg van, de árnyékban hűvös.",
+              "A nap korán nyugszik (16:50-17:10), tervezze a parklátogatást időben.",
+              "Sok kávézó teraszán van kültéri fűtőtest télen is.",
+              "A páratartalom alacsonyabb, ez ideális a hosszú városi sétákhoz.",
+              "Vigyen magával könnyű dzsekit a késő délutáni lehűlésre."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi: e cald la soare, dar răcoare la umbră.",
+              "Soarele apune devreme (16:50-17:10), planificați parcurile din timp.",
+              "Multe cafenele au încălzitoare exterioare pe terase iarna.",
+              "Umiditatea este mai scăzută, ideal pentru plimbări lungi.",
+              "Luați o jachetă ușoară pentru răcoarea de după-amiază târziu."
+            ],
+            "en": [
+              "Wear layers: it's warm in the sun but cool in the shade.",
+              "Sunset is early (16:50-17:10), plan your park visits accordingly.",
+              "Many cafes have outdoor heaters on their terraces during winter.",
+              "Humidity is lower, making it ideal for long urban walks.",
+              "Take a light jacket for the late afternoon cool-down."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +919,214 @@
           "Always lock your bike securely when you park it.",
           "Plan your route in advance to use bike-friendly paths."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour am Pedieos-Flussufer ist im Regen ein Abenteuer, da der Weg durch das Grün führt. Mittags erreichen Sie das GSP-Stadion, wo Sie unter den Tribünen kurz rasten können. Der Acropolis Park bietet asphaltierte Wege, die das Vorankommen erleichtern. Den Nachmittag verbringen Sie in den historischen Gassen bei der Panagia Chryseleousa Kirche, wo Sie Ihr Rad sicher im Trockenen abstellen können.",
+            "hu": "A Pediaios-parti kerékpározás esőben igazi kaland a dús növényzet között. Délben a GSP Stadion tribünjei alatt találhatunk rövid pihenőt. Az Akropolisz park aszfaltozott útjai megkönnyítik a haladást a vizes időben is. A délutánt a Panagia Chryseleousa templom környékén töltjük, ahol biztonságos és fedett helyen hagyhatjuk a bringát.",
+            "ro": "O plimbare cu bicicleta pe malul râului Pedieos este o aventură pe ploaie printre plantele verzi. La prânz ajungeți la Stadionul GSP, unde vă puteți odihni sub tribune. Parcul Acropolis oferă alei asfaltate care facilitează înaintarea pe vreme umedă. După-amiaza o petreceți în zona bisericii Panagia Chryseleousa, unde puteți lăsa bicicleta la adăpost.",
+            "en": "Cycling along the Pedieos riverbank in the rain is an adventure through lush greenery. By noon, reach the GSP Stadium, where you can take a short break under the stands. Acropolis Park offers paved paths that make progress easier in wet weather. Spend the afternoon near Panagia Chryseleousa Church, where you can park your bike safely in a sheltered spot."
+          },
+          "stops": [
+            {
+              "name": "Pedieos River Bank Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schlamm auf den unbefestigten Abschnitten des Radwegs.",
+                "hu": "Vigyázzon a sárral a kerékpárút nem aszfaltozott szakaszain.",
+                "ro": "Atenție la noroi pe porțiunile neasfaltate ale pistei de biciclete.",
+                "en": "Watch out for mud on the unpaved sections of the bike path."
+              }
+            },
+            {
+              "name": "GSP Stadium",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stadionrampen als Unterstand bei plötzlichen Schauern.",
+                "hu": "Használja a stadion rámpáit menedékként hirtelen zivatar esetén.",
+                "ro": "Folosiți rampele stadionului ca adăpost în caz de averse bruște.",
+                "en": "Use the stadium ramps as shelter during sudden downpours."
+              }
+            },
+            {
+              "name": "Acropolis Park",
+              "tip_5lang": {
+                "de": "Bremsen Sie vorsichtig auf den glatten Steinplatten im Park.",
+                "hu": "Fékezzen óvatosan a park sima kőlapjain.",
+                "ro": "Frânați cu atenție pe plăcile de piatră lucioase din parc.",
+                "en": "Brake carefully on the smooth stone slabs in the park."
+              }
+            },
+            {
+              "name": "Strovolos Municipal Theatre",
+              "tip_5lang": {
+                "de": "Es gibt überdachte Fahrradständer in der Nähe des Haupteingangs.",
+                "hu": "Fedett kerékpártárolók találhatók a főbejárat közelében.",
+                "ro": "Există suporturi de biciclete acoperite lângă intrarea principală.",
+                "en": "There are covered bike racks located near the main entrance."
+              }
+            },
+            {
+              "name": "Strovolos Town Hall",
+              "tip_5lang": {
+                "de": "Der Vorplatz bietet wenig Schutz, parken Sie unter dem Vordach.",
+                "hu": "Az előtér kevés védelmet nyújt, parkoljon az előtető alatt.",
+                "ro": "Piațeta oferă puțină protecție, parcați sub streașină.",
+                "en": "The forecourt offers little protection; park under the overhang."
+              }
+            },
+            {
+              "name": "Agios Dimitrios Church",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad an der Kirchenmauer ab, um es etwas trocken zu halten.",
+                "hu": "Támassza a biciklit a templomfalhoz, hogy valamennyire száraz maradjon.",
+                "ro": "Lăsați bicicleta lângă zidul bisericii pentru a o păstra cât de cât uscată.",
+                "en": "Lean your bike against the church wall to keep it somewhat dry."
+              }
+            },
+            {
+              "name": "Church of Panagia Chryseleousa",
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad im überdachten Bereich des Vorhofs.",
+                "hu": "Zárja le a biciklit az előudvar fedett részén.",
+                "ro": "Asigurați bicicleta în zona acoperită a curții interioare.",
+                "en": "Secure your bike in the sheltered area of the forecourt."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, bevor Sie auf nasse Wege gehen.",
+              "Vermeiden Sie das Fahren durch tiefe Pfützen am Flussufer.",
+              "Ein Schutzblech ist bei diesem Wetter unerlässlich.",
+              "Die Route führt über einige Steigungen, die bei Nässe rutschig sind.",
+              "Tragen Sie helle, reflektierende Regenbekleidung für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, mielőtt elindul a vizes utakon.",
+              "Kerülje a mély tócsákon való áthajtást a folyóparton.",
+              "A sárvédő elengedhetetlen ebben az időben.",
+              "Az útvonalon vannak emelkedők, amik nedvesen csúszósak lehetnek.",
+              "Viseljen világos, fényvisszaverő esőruházatot a jobb láthatóságért."
+            ],
+            "ro": [
+              "Verificați frânele înainte de a porni pe aleile ude.",
+              "Evitați să treceți prin bălți adânci pe malul râului.",
+              "Apărătoarele de noroi sunt esențiale pe această vreme.",
+              "Traseul include pante care pot fi alunecoase când sunt umede.",
+              "Purtați haine de ploaie reflectorizante pentru o vizibilitate mai bună."
+            ],
+            "en": [
+              "Check your brakes before heading out on wet paths.",
+              "Avoid riding through deep puddles on the riverbank.",
+              "Mudguards are essential in this weather.",
+              "The route includes inclines that can be slippery when wet.",
+              "Wear bright, reflective rain gear for better visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter ist die beste Zeit zum Radfahren in Strovolos. Die kühle Luft am Pedieos-Flussufer ist belebend. Mittags bietet das GSP-Stadion eine weite Sicht unter blauem Winterhimmel. Im Acropolis Park können Sie die grüne Natur ohne die Hitze genießen. Am späten Nachmittag radeln Sie durch das ruhige Stadtzentrum zur Panagia Chryseleousa, während die Luft angenehm frisch bleibt.",
+            "hu": "A tél a legjobb időszak a biciklizéshez Strovolosban. A hűvös levegő a Pediaios-parton felfrissít. Délben a GSP Stadionnál messzire ellátni a tiszta téli égbolt alatt. Az Akropolisz parkban élvezheti a zöld természetet a hőség nélkül. Késő délután a csendes városközponton át tekerünk a Panagia Chryseleousa templomhoz a friss levegőn.",
+            "ro": "Iarna este cel mai bun moment pentru ciclism în Strovolos. Aerul răcoros de pe malul râului Pedieos este inviorător. La prânz, Stadionul GSP oferă o priveliște largă sub cerul senin de iarnă. În Parcul Acropolis vă puteți bucura de natură fără căldura excesivă. După-amiaza târziu pedalați prin centrul liniștit spre Panagia Chryseleousa.",
+            "en": "Winter is the best time for cycling in Strovolos. The cool air along the Pedieos riverbank is invigorating. By noon, the GSP Stadium offers wide views under a clear winter sky. In Acropolis Park, you can enjoy the green surroundings without the heat. Late afternoon, cycle through the quiet city center to Panagia Chryseleousa as the air stays pleasantly fresh."
+          },
+          "stops": [
+            {
+              "name": "Pedieos River Bank Park",
+              "tip_5lang": {
+                "de": "Die Vegetation ist im Winter am üppigsten; genießen Sie das Grün.",
+                "hu": "A növényzet télen a legdúsabb; élvezze az üde zöld környezetet.",
+                "ro": "Vegetația este cea mai luxuriantă iarna; bucurați-vă de verdeață.",
+                "en": "The vegetation is lushest in winter; enjoy the vibrant greenery."
+              }
+            },
+            {
+              "name": "GSP Stadium",
+              "tip_5lang": {
+                "de": "Ideal für ein kurzes Picknick in der milden Mittagssonne.",
+                "hu": "Ideális egy rövid piknikhez az enyhe déli napsütésben.",
+                "ro": "Ideal pentru un mic picnic în soarele blând de la amiază.",
+                "en": "Ideal for a quick picnic in the mild midday sun."
+              }
+            },
+            {
+              "name": "Acropolis Park",
+              "tip_5lang": {
+                "de": "Die schattigen Wege sind jetzt angenehm, nicht zu kalt.",
+                "hu": "Az árnyékos utak most kellemesek, nincsenek túl hidegen.",
+                "ro": "Aleile umbrite sunt acum plăcute, nu prea reci.",
+                "en": "The shaded paths are pleasant now, not too cold."
+              }
+            },
+            {
+              "name": "Strovolos Municipal Theatre",
+              "tip_5lang": {
+                "de": "Perfekter Ort für ein Foto mit der Wintersonne im Rücken.",
+                "hu": "Tökéletes hely egy fotóhoz, háttérben a téli napsütéssel.",
+                "ro": "Locul perfect pentru o fotografie cu soarele de iarnă în spate.",
+                "en": "Perfect spot for a photo with the winter sun behind you."
+              }
+            },
+            {
+              "name": "Strovolos Town Hall",
+              "tip_5lang": {
+                "de": "Die Glasfront reflektiert das klare Winterlicht wunderschön.",
+                "hu": "Az üvegfront gyönyörűen veri vissza a tiszta téli fényt.",
+                "ro": "Fațada de sticlă reflectă minunat lumina clară de iarnă.",
+                "en": "The glass front reflects the clear winter light beautifully."
+              }
+            },
+            {
+              "name": "Agios Dimitrios Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche mittags, wenn es draußen am wärmsten ist.",
+                "hu": "Látogassa meg a templomot délben, amikor kint a legmelegebb van.",
+                "ro": "Vizitați biserica la amiază, când afară este cel mai cald.",
+                "en": "Visit the church at midday when it is warmest outside."
+              }
+            },
+            {
+              "name": "Church of Panagia Chryseleousa",
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt vor Sonnenuntergang, da es danach schnell abkühlt.",
+                "hu": "Fejezze be a túrát naplemente előtt, mert utána gyorsan hűl a levegő.",
+                "ro": "Încheiați plimbarea înainte de apus, deoarece se răcește repede după.",
+                "en": "Finish your ride before sunset, as it cools down quickly afterwards."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe, da der Fahrtwind kühler sein kann als erwartet.",
+              "Zypern ist im Winter grüner; nutzen Sie dies für Landschaftsfotos.",
+              "Die Tage sind kürzer; Licht am Fahrrad ist ab 16:30 Uhr ratsam.",
+              "Ein warmer Kaffee zwischendurch hilft, die Körpertemperatur zu halten.",
+              "Die Wege sind weniger überfüllt als im Frühjahr."
+            ],
+            "hu": [
+              "Viseljen kesztyűt, mert a menetszél hűvösebb lehet, mint gondolná.",
+              "Ciprus télen zöldebb; használja ki ezt a tájfotókhoz.",
+              "A nappalok rövidebbek; 16:30-tól ajánlott a kerékpáros lámpa.",
+              "Egy meleg kávé útközben segít fenntartani a testhőt.",
+              "Az utak kevésbé zsúfoltak, mint tavasszal."
+            ],
+            "ro": [
+              "Purtați mănuși, deoarece vântul poate fi mai rece decât vă așteptați.",
+              "Ciprul este mai verde iarna; profitați pentru fotografii de peisaj.",
+              "Zilele sunt mai scurte; luminile la bicicletă sunt recomandate după 16:30.",
+              "O cafea caldă pe parcurs ajută la menținerea temperaturii corpului.",
+              "Traseele sunt mai puțin aglomerate decât primăvara."
+            ],
+            "en": [
+              "Wear gloves as the wind chill can be cooler than expected.",
+              "Cyprus is greener in winter; use this for great landscape photos.",
+              "Days are shorter; bike lights are recommended from 16:30 onwards.",
+              "A warm coffee along the way helps maintain body temperature.",
+              "The paths are less crowded than in the spring."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1109,6 +1507,214 @@
           "A GPS or navigation app is essential.",
           "Do not leave valuables visible in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Strovolos bei Regen bequem zu erkunden. Starten Sie am GSP-Stadion und genießen Sie die Fahrt zum Acropolis Park, wo Sie vom Auto aus die Aussicht genießen können. Mittags bietet das Stadttheater ein trockenes Kulturprogramm. Die Fahrt endet bei der Kirche und Höhle der Panagia Chryseleousa, die auch bei starkem Regen einen geschützten und mystischen Besuch ermöglicht.",
+            "hu": "Autóval Strovolos kényelmesen felfedezhető esőben is. Kezdjen a GSP Stadionnál, majd hajtson az Akropolisz parkhoz, ahol az autóból is élvezheti a kilátást. Délben a Városi Színház kínál száraz kulturális programot. A túra a Panagia Chryseleousa templomnál és barlangnál zárul, amely heves esőben is védett és misztikus élményt nyújt.",
+            "ro": "Cu mașina, Strovolos este ușor de explorat pe ploaie. Începeți la Stadionul GSP, apoi conduceți spre Parcul Acropolis, unde puteți admira priveliștea din mașină. La prânz, Teatrul Municipal oferă un program cultural uscat. Turul se încheie la biserica și peștera Panagia Chryseleousa, care oferă o experiență protejată chiar și pe ploaie torențială.",
+            "en": "By car, Strovolos is comfortable to explore even in the rain. Start at the GSP Stadium and drive to Acropolis Park, where you can enjoy the views from your vehicle. By noon, the Municipal Theatre offers a dry cultural program. The tour ends at the Panagia Chryseleousa Church and Cave, which provides a sheltered and mystical experience even during heavy rain."
+          },
+          "stops": [
+            {
+              "name": "GSP Stadium",
+              "tip_5lang": {
+                "de": "Parken Sie nah an den Eingängen, um den Weg im Regen zu verkürzen.",
+                "hu": "Parkoljon közel a bejáratokhoz, hogy lerövidítse az utat az esőben.",
+                "ro": "Parcați aproape de intrări pentru a scurta drumul prin ploaie.",
+                "en": "Park close to the entrances to shorten your walk in the rain."
+              }
+            },
+            {
+              "name": "Acropolis Park",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze direkt am Parkeingang; ideal für kurze Spaziergänge.",
+                "hu": "Közvetlenül a park bejáratánál vannak parkolók; ideális rövid sétákhoz.",
+                "ro": "Există parcări chiar la intrarea în parc; ideal pentru plimbări scurte.",
+                "en": "There are parking lots right at the park entrance; ideal for short strolls."
+              }
+            },
+            {
+              "name": "Pedieos River Bank Park",
+              "tip_5lang": {
+                "de": "Suchen Sie Parkplätze in den Nebenstraßen, um nah am Fluss zu sein.",
+                "hu": "Keressen parkolót a mellékutcákban, hogy közel legyen a folyóhoz.",
+                "ro": "Căutați parcare pe străzile laterale pentru a fi aproape de râu.",
+                "en": "Look for parking in side streets to be close to the river."
+              }
+            },
+            {
+              "name": "Strovolos Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besucherparkplatz direkt am modernen Gebäude.",
+                "hu": "Használja a látogatói parkolót közvetlenül a modern épületnél.",
+                "ro": "Folosiți parcarea pentru vizitatori chiar lângă clădirea modernă.",
+                "en": "Use the visitor parking lot directly at the modern building."
+              }
+            },
+            {
+              "name": "Agios Dimitrios Church",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken unter großen Bäumen bei Sturmgefahr.",
+                "hu": "Kerülje a nagy fák alatti parkolást viharveszély esetén.",
+                "ro": "Evitați parcarea sub copaci mari în caz de pericol de furtună.",
+                "en": "Avoid parking under large trees if there's a risk of a storm."
+              }
+            },
+            {
+              "name": "Strovolos Municipal Theatre",
+              "tip_5lang": {
+                "de": "Das Theater verfügt über großzügige Parkflächen in der Umgebung.",
+                "hu": "A színház környezetében tágas parkolóhelyek állnak rendelkezésre.",
+                "ro": "Teatrul dispune de spații de parcare generoase în împrejurimi.",
+                "en": "The theatre has spacious parking areas in the vicinity."
+              }
+            },
+            {
+              "name": "Church and Cave of Panagia Chryseleousa",
+              "tip_5lang": {
+                "de": "Die Höhle ist ein vollkommen trockener Ort, auch bei starkem Regen.",
+                "hu": "A barlang teljesen száraz hely marad heves esőzés esetén is.",
+                "ro": "Peștera rămâne un loc perfect uscat chiar și pe ploaie torențială.",
+                "en": "The cave remains a perfectly dry spot even during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Strovolos hat bei Regen oft viel Verkehr; planen Sie mehr Zeit ein.",
+              "Nutzen Sie die Tiefgaragen, falls vorhanden, um trocken auszusteigen.",
+              "Die Sicht kann bei zypriotischen Gewittern schlagartig abnehmen.",
+              "Kirchenbesuche sind ideal, um heftige Regenschauer abzuwarten.",
+              "Achten Sie auf tiefe Wasseransammlungen in tiefer liegenden Straßen."
+            ],
+            "hu": [
+              "Esőben nagy lehet a forgalom Strovolosban; tervezzen több időt.",
+              "Használja a mélygarázsokat, ha lehetséges, a száraz kiszálláshoz.",
+              "A látási viszonyok hirtelen romolhatnak a ciprusi viharokban.",
+              "A templomlátogatás ideális a heves záporok kivárására.",
+              "Ügyeljen a mélyebb víztócsákra az alacsonyabban fekvő utcákon."
+            ],
+            "ro": [
+              "Traficul în Strovolos poate fi intens pe ploaie; planificați mai mult timp.",
+              "Folosiți parcările subterane, dacă sunt disponibile, pentru a coborî la uscat.",
+              "Vizibilitatea poate scădea brusc în timpul furtunilor cipriote.",
+              "Vizitele la biserici sunt ideale pentru a aștepta trecerea averselor.",
+              "Atenție la acumulările de apă în zonele mai joase ale străzilor."
+            ],
+            "en": [
+              "Traffic in Strovolos can be heavy during rain; allow extra time.",
+              "Use underground parking where available to disembark dry.",
+              "Visibility can drop suddenly during Cypriot thunderstorms.",
+              "Church visits are ideal for waiting out heavy downpours.",
+              "Watch out for deep water accumulation in low-lying streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter sind die Fahrten durch Strovolos besonders angenehm. Starten Sie am GSP-Stadion bei klarer Sicht. Der Acropolis Park zeigt sich im Wintergrün und ist leicht erreichbar. Mittags ist das Stadttheater ein architektonisches Highlight im sanften Winterlicht. Den Tag schließen Sie bei der Panagia Chryseleousa ab, wo die kühle Abendluft den Besuch der historischen Stätte besonders stimmungsvoll macht.",
+            "hu": "Télen az autózás Strovolosban különösen kellemes. Kezdjen a GSP Stadionnál tiszta látási viszonyok mellett. Az Akropolisz park téli zöldbe öltözik és könnyen megközelíthető. Délben a Városi Színház építészeti látványosság a lágy téli fényben. A napot a Panagia Chryseleousa templomnál zárjuk, ahol a hűvös esti levegő hangulatossá teszi a történelmi helyszínt.",
+            "ro": "Iarna, plimbările cu mașina prin Strovolos sunt deosebit de plăcute. Începeți la Stadionul GSP cu o vizibilitate clară. Parcul Acropolis este verde iarna și ușor accesibil. La prânz, Teatrul Municipal este un punct de atracție în lumina blândă. Încheiați ziua la Panagia Chryseleousa, unde aerul răcoros de seară face vizita foarte atmosferică.",
+            "en": "In winter, driving through Strovolos is particularly pleasant. Start at the GSP Stadium with clear visibility. Acropolis Park is vibrant green in winter and easily accessible. By noon, the Municipal Theatre is an architectural highlight in the soft winter light. Conclude the day at Panagia Chryseleousa, where the cool evening air adds a special atmosphere to the historical site."
+          },
+          "stops": [
+            {
+              "name": "GSP Stadium",
+              "tip_5lang": {
+                "de": "Die Parkplätze sind im Winter weniger überhitzt als im Sommer.",
+                "hu": "A parkolók télen sokkal kevésbé forrók, mint nyáron.",
+                "ro": "Parcările sunt mult mai puțin încinse iarna față de vară.",
+                "en": "The parking lots are much cooler in winter than in the scorching summer."
+              }
+            },
+            {
+              "name": "Acropolis Park",
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang ist bei den milden Temperaturen ideal.",
+                "hu": "Egy rövid séta az enyhe hőmérsékletben ilyenkor ideális.",
+                "ro": "O plimbare scurtă este ideală la aceste temperaturi blânde.",
+                "en": "A short walk is ideal in these mild winter temperatures."
+              }
+            },
+            {
+              "name": "Pedieos River Bank Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die volle Vegetation vom Parkplatz aus.",
+                "hu": "Élvezze a dús növényzet látványát a parkolóhelyről.",
+                "ro": "Bucurați-vă de vederea vegetației bogate chiar din parcare.",
+                "en": "Enjoy the view of the lush vegetation from your parking spot."
+              }
+            },
+            {
+              "name": "Strovolos Town Hall",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Rathaus am Vormittag für das beste Licht.",
+                "hu": "Látogassa meg a Városházát délelőtt a legjobb fényviszonyokért.",
+                "ro": "Vizitați Primăria dimineața pentru cele mai bune condiții de lumină.",
+                "en": "Visit the Town Hall in the morning for the best photographic light."
+              }
+            },
+            {
+              "name": "Agios Dimitrios Church",
+              "tip_5lang": {
+                "de": "Der Innenraum ist im Winter angenehm temperiert.",
+                "hu": "A templom belső tere télen kellemes hőmérsékletű.",
+                "ro": "Interiorul bisericii are o temperatură plăcută iarna.",
+                "en": "The interior of the church is pleasantly temperate in winter."
+              }
+            },
+            {
+              "name": "Strovolos Municipal Theatre",
+              "tip_5lang": {
+                "de": "Im Winter gibt es oft Matinee-Vorstellungen am Wochenende.",
+                "hu": "Télen hétvégenként gyakran tartanak délelőtti előadásokat.",
+                "ro": "Iarna există adesea spectacole matinale în weekend.",
+                "en": "In winter, there are often matinee performances on weekends."
+              }
+            },
+            {
+              "name": "Church and Cave of Panagia Chryseleousa",
+              "tip_5lang": {
+                "de": "Die Höhle wirkt im Winter durch die kühle Luft noch mystischer.",
+                "hu": "A barlang télen a hűvös levegő miatt még misztikusabbnak hat.",
+                "ro": "Peștera pare și mai mistică iarna datorită aerului răcoros.",
+                "en": "The cave feels even more mystical in winter due to the cool air."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Wintersonne kann beim Fahren tief stehen und blenden.",
+              "Parken in der Nähe von Sehenswürdigkeiten ist im Winter stressfrei.",
+              "Nutzen Sie die hellen Mittagsstunden für Außenaufnahmen.",
+              "Klimaanlage auf 'warm' stellen ist in zypriotischen Wintern nötig.",
+              "Ab 17:00 Uhr wird es dunkel; achten Sie auf Fußgänger."
+            ],
+            "hu": [
+              "A téli nap alacsonyan jár és vezetés közben vakíthat.",
+              "A látnivalók közelében a parkolás télen stresszmentes.",
+              "Használja ki a világos déli órákat a kültéri fotózáshoz.",
+              "Ciprusi télen szükség lehet a fűtés bekapcsolására az autóban.",
+              "17:00 után gyorsan sötétedik; ügyeljen a gyalogosokra."
+            ],
+            "ro": [
+              "Soarele de iarnă apune jos și poate fi orbitor la volan.",
+              "Parcarea lângă atracții este fără stres în timpul iernii.",
+              "Profită de orele luminoase de la amiază pentru fotografii exterioare.",
+              "Iarna în Cipru poate fi necesară setarea climatizării pe cald.",
+              "Se întunecă după ora 17:00; atenție sporită la pietoni."
+            ],
+            "en": [
+              "The winter sun is low and can be blinding while driving.",
+              "Parking near attractions is stress-free during the winter season.",
+              "Make the most of the bright midday hours for outdoor shots.",
+              "Setting the AC to 'warm' is necessary during Cypriot winters.",
+              "It gets dark after 17:00; pay extra attention to pedestrians."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1465,6 +2071,196 @@
           "Validate your ticket each time you board.",
           "Be aware that buses may run less frequently in the evenings and on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Busfahrt durch Strovolos schützt Sie vor dem Regen. Beginnen Sie am Acropolis Park, der gut vernetzt ist. Mittags bietet das Stadttheater einen warmen und trockenen Aufenthalt zwischen den Verbindungen. Der Besuch der Agios Dimitrios Kirche lässt sich gut mit den Busstopps kombinieren. Beenden Sie den Tag bei der Panagia Chryseleousa, während Sie die Aussicht aus dem Busfenster auf die regnerische Stadt genießen.",
+            "hu": "A buszozás Strovolosban megvédi Önt az esőtől. Kezdjen az Akropolisz parknál, amely jól kapcsolódik a hálózathoz. Délben a Városi Színház meleg és száraz menedéket nyújt a járatok között. Az Agios Dimitrios templom látogatása jól kombinálható a buszmegállókkal. A napot a Panagia Chryseleousa templomnál zárjuk, élvezve az esős város látványát a buszablakból.",
+            "ro": "Călătoria cu autobuzul prin Strovolos vă protejează de ploaie. Începeți la Parcul Acropolis, care este bine conectat. La prânz, Teatrul Municipal oferă un popas cald și uscat între conexiuni. Vizita la biserica Agios Dimitrios se combină bine cu stațiile de autobuz. Încheiați ziua la Panagia Chryseleousa, admirând orașul ploios de la fereastra autobuzului.",
+            "en": "Bus travel through Strovolos protects you from the rain. Start at Acropolis Park, which is well-connected. By noon, the Municipal Theatre provides a warm and dry break between connections. Visiting Agios Dimitrios Church fits well with bus stop locations. End the day at Panagia Chryseleousa, enjoying the view of the rainy city from the bus window."
+          },
+          "stops": [
+            {
+              "name": "Acropolis Park",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen am Parkeingang sind teilweise überdacht.",
+                "hu": "A park bejáratánál lévő buszmegállók részben fedettek.",
+                "ro": "Stațiile de autobuz de la intrarea în parc sunt parțial acoperite.",
+                "en": "The bus stops at the park entrance are partially sheltered."
+              }
+            },
+            {
+              "name": "Pedieos River Bank Park",
+              "tip_5lang": {
+                "de": "Halten Sie die Pame-App bereit, um Wartezeiten im Regen zu minimieren.",
+                "hu": "Tartsa készenlétben a Pame appot, hogy keveset várjon az esőben.",
+                "ro": "Aveți aplicația Pame pregătită pentru a minimiza așteptarea în ploaie.",
+                "en": "Have the Pame app ready to minimize waiting time in the rain."
+              }
+            },
+            {
+              "name": "Strovolos Municipal Theatre",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um auf den nächsten Bus in einem trockenen Foyer zu warten.",
+                "hu": "Ideális hely a következő busz megvárására egy száraz előcsarnokban.",
+                "ro": "Un loc ideal pentru a aștepta următorul autobuz într-un foaier uscat.",
+                "en": "An ideal place to wait for the next bus in a dry foyer."
+              }
+            },
+            {
+              "name": "Strovolos Town Hall",
+              "tip_5lang": {
+                "de": "Die Haltestelle direkt vor dem Rathaus bietet schnellen Zugang.",
+                "hu": "A közvetlenül a Városháza előtti megálló gyors bejutást tesz lehetővé.",
+                "ro": "Stația aflată direct în fața Primăriei oferă acces rapid.",
+                "en": "The stop right in front of the Town Hall offers quick access."
+              }
+            },
+            {
+              "name": "Agios Dimitrios Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als Regenschutz bis der Bus kommt.",
+                "hu": "Használja a templombejáratot esővédőként, amíg jön a busz.",
+                "ro": "Folosiți intrarea bisericii ca protecție până vine autobuzul.",
+                "en": "Use the church entrance as rain protection until the bus arrives."
+              }
+            },
+            {
+              "name": "Church of Panagia Chryseleousa",
+              "tip_5lang": {
+                "de": "Die Busfrequenz kann am späten Nachmittag bei Regen abnehmen.",
+                "hu": "A buszok gyakorisága késő délután, esőben csökkenhet.",
+                "ro": "Frecvența autobuzelor poate scădea după-amiaza târziu pe ploaie.",
+                "en": "Bus frequency may decrease in the late afternoon during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Pame' App für Echtzeit-Businformationen.",
+              "Haben Sie Kleingeld oder eine Motion-Card bereit.",
+              "Busse können bei starkem Regen Verspätung haben.",
+              "Einige Haltestellen in Strovolos haben keine Überdachung.",
+              "Die Hauptlinien verbinden die meisten Sehenswürdigkeiten direkt."
+            ],
+            "hu": [
+              "Használja a 'Pame' alkalmazást a valós idejű buszinformációkhoz.",
+              "Legyen Önnél aprópénz vagy Motion kártya a fizetéshez.",
+              "Heves esőzéskor a buszok késhetnek.",
+              "Strovolos néhány megállója nem rendelkezik tetővel.",
+              "A fővonalak közvetlenül összekötik a legtöbb látnivalót."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Pame' pentru informații în timp real.",
+              "Aveți pregătit mărunt sau cardul Motion pentru plată.",
+              "Autobuzele pot avea întârzieri în caz de ploaie torențială.",
+              "Unele stații din Strovolos nu sunt acoperite.",
+              "Liniile principale conectează direct majoritatea obiectivelor."
+            ],
+            "en": [
+              "Use the 'Pame' app for real-time bus information.",
+              "Have small change or a Motion card ready for payment.",
+              "Buses may experience delays during heavy rainfall.",
+              "Some stops in Strovolos do not have shelters.",
+              "Main lines connect most attractions directly."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintertage in Strovolos sind ideal für Erkundungen mit dem Bus. Starten Sie am Acropolis Park in der klaren Morgenluft. Mittags führt die Route zum Stadttheater, das gut an das Verkehrsnetz angebunden ist. Die Agios Dimitrios Kirche ist ein ruhiger Stopp am Nachmittag. Der Tag endet im historischen Zentrum bei der Panagia Chryseleousa, während Sie die weihnachtliche Beleuchtung in der Stadt bewundern können.",
+            "hu": "A téli napok ideálisak Strovolos felfedezéséhez busszal. Kezdjen az Akropolisz parknál a tiszta reggeli levegőben. Délben az út a Városi Színházhoz vezet, amely jól kapcsolódik a hálózathoz. Az Agios Dimitrios templom csendes délutáni megálló. A nap a történelmi központban zárul a Panagia Chryseleousa templomnál, miközben csodálhatja az ünnepi fényeket.",
+            "ro": "Zilele de iarnă sunt ideale pentru explorarea Strovolos-ului cu autobuzul. Începeți la Parcul Acropolis în aerul curat al dimineții. La prânz, traseul duce la Teatrul Municipal, bine conectat la rețea. Biserica Agios Dimitrios este o oprire liniștită după-amiaza. Ziua se încheie în centrul istoric la Panagia Chryseleousa, cu lumini de sărbătoare.",
+            "en": "Winter days are ideal for exploring Strovolos by bus. Start at Acropolis Park in the clear morning air. By noon, the route leads to the Municipal Theatre, which is well-connected to the network. Agios Dimitrios Church is a quiet afternoon stop. The day ends in the historic center at Panagia Chryseleousa, while you can admire the festive lights in the city."
+          },
+          "stops": [
+            {
+              "name": "Acropolis Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Park, bevor Sie in den warmen Bus steigen.",
+                "hu": "Élvezze a park látványát, mielőtt felszáll a meleg buszra.",
+                "ro": "Bucurați-vă de vederea parcului înainte de a urca în autobuzul cald.",
+                "en": "Enjoy the view of the park before boarding the warm bus."
+              }
+            },
+            {
+              "name": "Pedieos River Bank Park",
+              "tip_5lang": {
+                "de": "Die Haltestellen am Flussufer sind im Winter oft sonnig.",
+                "hu": "A folyóparti buszmegállók télen gyakran napsütöttek.",
+                "ro": "Stațiile de pe malul râului sunt adesea însorite iarna.",
+                "en": "The riverbank bus stops are often sunny during winter days."
+              }
+            },
+            {
+              "name": "Strovolos Municipal Theatre",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es gemütliche Cafés für die Wartezeit.",
+                "hu": "A közelben hangulatos kávézók találhatók a várakozáshoz.",
+                "ro": "Există cafenele primitoare în apropiere pentru timpul de așteptare.",
+                "en": "There are cozy cafes nearby to spend your waiting time."
+              }
+            },
+            {
+              "name": "Strovolos Town Hall",
+              "tip_5lang": {
+                "de": "Die Architektur des Rathauses ist im Winterlicht sehr fotogen.",
+                "hu": "A Városháza építészete a téli fényben nagyon fotogén.",
+                "ro": "Arhitectura Primăriei este foarte fotogenă în lumina de iarnă.",
+                "en": "The Town Hall architecture is very photogenic in the winter light."
+              }
+            },
+            {
+              "name": "Agios Dimitrios Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg von der Haltestelle führt direkt zum Eingang.",
+                "hu": "Egy rövid séta a megállótól közvetlenül a bejárathoz vezet.",
+                "ro": "O scurtă plimbare de la stație vă duce direct la intrare.",
+                "en": "A short walk from the stop leads directly to the entrance."
+              }
+            },
+            {
+              "name": "Church of Panagia Chryseleousa",
+              "tip_5lang": {
+                "de": "Beachten Sie den Winterfahrplan für die Rückfahrt am Abend.",
+                "hu": "Ügyeljen a téli menetrendre az esti visszautazáshoz.",
+                "ro": "Atenție la programul de iarnă pentru întoarcerea de seară.",
+                "en": "Check the winter schedule for your return trip in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter gut beheizt und komfortabel.",
+              "Die Frequenz der Busse ist tagsüber sehr zuverlässig.",
+              "Kombinieren Sie Busfahrten mit kurzen Spaziergängen in der Sonne.",
+              "Das Tagesticket ist die günstigste Option für diese Route.",
+              "Abends sind die Busse oft weniger voll."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek és kényelmesek.",
+              "A buszjáratok napközben nagyon megbízhatóak.",
+              "Kombinálja a buszozást rövid, napsütéses sétákkal.",
+              "A napijegy a leggazdaságosabb megoldás ehhez az útvonalhoz.",
+              "Este a buszok gyakran kevésbé zsúfoltak."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite și confortabile iarna.",
+              "Frecvența autobuzelor este foarte fiabilă în timpul zilei.",
+              "Combinați mersul cu autobuzul cu scurte plimbări la soare.",
+              "Abonamentul de o zi este cea mai economică opțiune.",
+              "Seara autobuzele sunt adesea mai puțin aglomerate."
+            ],
+            "en": [
+              "Buses are well-heated and comfortable in winter.",
+              "Bus frequency is very reliable during the day.",
+              "Combine bus rides with short walks in the sun.",
+              "A day pass is the most economical option for this route.",
+              "Buses are often less crowded in the evenings."
+            ]
+          }
+        }
       }
     }
   }

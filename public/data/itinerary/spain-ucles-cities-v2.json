@@ -362,6 +362,196 @@
           "Most sights are within easy walking distance of each other.",
           "Plan your lunch in advance as restaurant options are limited."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen unter den Arkaden der Plaza Mayor und am Brunnen der fünf Speier, wo das Wasser heute von überall herkommt. Die nassen Steine glänzen im grauen Licht der Mancha.\n\nMittags bietet das monumentale Kloster Uclés den perfekten Zufluchtsort. Die weitläufigen Kreuzgänge und die Kirche halten Sie trocken, während Sie die „Escorial der Mancha“ erkunden.\n\nAm Nachmittag führt ein kurzer, regnerischer Spaziergang zur Stadtmauer und zum alten Kornspeicher. Das Museum im Pósito ist ein idealer Ort, um der Witterung für eine Weile zu entfliehen.\n\nBeenden Sie den Tag an der Einsiedelei Las Angustias. Der Rückweg zur Plaza führt durch die engen Gassen, in denen das Echo der Regentropfen auf den alten Ziegeln widerhallt.",
+            "hu": "Kezdje a reggelt a Plaza Mayor árkádjai alatt és az Ötcsatornás kútnál, ahol ma mindenfelől folyik a víz. A nedves kövek csillognak a Mancha szürke fényeiben.\n\nDélben a monumentális Uclés-kolostor tökéletes menedéket nyújt. A tágas kerengők és a templom szárazon tartják, miközben felfedezi a „Mancha Escorialját”.\n\nDélután egy rövid, esős séta vezet a városfalhoz és a régi magtárhoz. A Pósito múzeuma ideális hely, hogy egy időre elmeneküljön az időjárás elől.\n\nA napot a Las Angustias remeteségnél zárja. A visszaút a főtérre a szűk utcákon át vezet, ahol az esőcseppek kopogása visszhangzik a régi cserepeken.",
+            "ro": "Începeți dimineața sub arcadele din Plaza Mayor și la Fântâna celor cinci guri, unde apa curge astăzi de pretutindeni. Pietrele umede strălucesc în lumina cenușie a regiunii La Mancha.\n\nLa prânz, monumentala mănăstire Uclés oferă refugiul perfect. Cloistrele spațioase și biserica vă țin la adăpost în timp ce explorați „Escorialul din La Mancha”.\n\nDupă-amiaza, o scurtă plimbare ploioasă vă duce la zidurile orașului și la vechiul grânar. Muzeul din Pósito este un loc ideal pentru a scăpa de vremea potrivnică pentru o vreme.\n\nÎncheiați ziua la Schitul Las Angustias. Drumul de întoarcere spre Plaza trece prin străzile înguste, unde ecoul picăturilor de ploaie răsună pe țiglele vechi.",
+            "en": "Start the morning under the arches of Plaza Mayor and at the Fountain of the Five Spouts, where water flows from everywhere today. The wet stones glisten in the grey light of La Mancha.\n\nAt noon, the monumental Monastery of Uclés provides the perfect refuge. The spacious cloisters and the church keep you dry while you explore the 'Escorial of La Mancha'.\n\nIn the afternoon, a short, rainy walk leads to the city walls and the ancient granary. The museum in the Pósito is an ideal place to escape the weather for a while.\n\nEnd the day at the Hermitage of Las Angustias. The walk back to the Plaza leads through narrow streets where the echo of raindrops resonates on the old tiles."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Balkonen der umliegenden Häuser.",
+                "hu": "Keressen menedéket a környező házak erkélyei alatt.",
+                "ro": "Căutați adăpost sub balcoanele caselor învecinate.",
+                "en": "Seek shelter under the balconies of the surrounding houses."
+              }
+            },
+            {
+              "name": "Fountain of the Five Spouts",
+              "tip_5lang": {
+                "de": "Vorsicht, das Kopfsteinpflaster rund um den Brunnen ist bei Nässe sehr rutschig.",
+                "hu": "Vigyázat, a kút körüli macskakő nedvesen nagyon csúszós.",
+                "ro": "Atenție, pavajul din jurul fântânii este foarte alunecos când este ud.",
+                "en": "Caution, the cobblestones around the fountain are very slippery when wet."
+              }
+            },
+            {
+              "name": "Monastery of Uclés and Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine ausführliche Innenbesichtigung der Kirche und Sakristei.",
+                "hu": "Használja ki az időt a templom és a sekrestye részletes belső megtekintésére.",
+                "ro": "Profitați de timp pentru o vizită interioară detaliată a bisericii și sacristiei.",
+                "en": "Use the time for a detailed indoor visit of the church and sacristy."
+              }
+            },
+            {
+              "name": "Uclés Wall and Water Gate",
+              "tip_5lang": {
+                "de": "Das Wassertor bietet einen kurzen Unterstand bei plötzlichen Schauern.",
+                "hu": "A Víz-kapu rövid menedéket nyújt hirtelen zápor esetén.",
+                "ro": "Poarta Apei oferă un scurt adăpost în caz de averse bruște.",
+                "en": "The Water Gate offers a brief shelter during sudden showers."
+              }
+            },
+            {
+              "name": "Ancient Granary (Antiguo Pósito)",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um die lokale Geschichte trocken zu studieren.",
+                "hu": "Meleg hely a helyi történelem szárazon történő tanulmányozásához.",
+                "ro": "Un loc cald pentru a studia istoria locală la adăpost.",
+                "en": "A warm place to study local history while staying dry."
+              }
+            },
+            {
+              "name": "Hermitage of Las Angustias",
+              "tip_5lang": {
+                "de": "Der Eingangsbereich schützt vor dem Wind, der oft Regen mitbringt.",
+                "hu": "A bejárati rész véd a szél ellen, amely gyakran esőt hoz.",
+                "ro": "Zona de intrare protejează împotriva vântului care aduce adesea ploaie.",
+                "en": "The entrance area protects against the wind that often brings rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen der Windböen in der Meseta besser als ein leichter Knirps.",
+              "Tragen Sie wasserfeste Wanderschuhe, da die Wege zur Burg steil und rutschig sein können.",
+              "Die Cafeteria im Kloster ist ein idealer Ort für eine warme Pause.",
+              "Achten Sie auf Regenrinnen, die das Wasser direkt auf die Gehwege leiten.",
+              "Besuchen Sie das Pósito-Museum am Nachmittag, wenn der Regen meist zunimmt."
+            ],
+            "hu": [
+              "A mesetai széllökések miatt egy stabil esernyő jobb, mint egy könnyű összecsukható.",
+              "Viseljen vízálló túracipőt, mert a várhoz vezető utak meredekek és csúszósak lehetnek.",
+              "A kolostor kávézója ideális hely egy meleg szünethez.",
+              "Ügyeljen az ereszcsatornákra, amelyek a vizet közvetlenül a járdára vezetik.",
+              "Látogassa meg a Pósito múzeumot délután, amikor az eső általában erősödik."
+            ],
+            "ro": [
+              "O umbrelă robustă este mai bună decât una pliabilă ușoară din cauza rafalelor de vânt din Meseta.",
+              "Purtați pantofi de drumeție impermeabili, deoarece potecile spre castel pot fi abrupte și alunecoase.",
+              "Cafeneaua din mănăstire este un loc ideal pentru o pauză caldă.",
+              "Atenție la jgheaburile care direcționează apa direct pe trotuare.",
+              "Vizitați muzeul Pósito după-amiaza, când ploaia de obicei se intensifică."
+            ],
+            "en": [
+              "A sturdy umbrella is better than a light foldable one due to wind gusts in the Meseta.",
+              "Wear waterproof hiking shoes, as the paths to the castle can be steep and slippery.",
+              "The monastery cafeteria is an ideal place for a warm break.",
+              "Watch out for rain gutters that direct water directly onto the sidewalks.",
+              "Visit the Pósito museum in the afternoon when the rain usually intensifies."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Uclés beginnt mit frostiger Luft auf der Plaza Mayor. Der Brunnen der fünf Speier dampft im ersten Sonnenlicht, während das Dorf langsam erwacht.\n\nMittags suchen Sie die dicken Mauern des Klosters auf. Die Innenräume bewahren eine kühle, aber windgeschützte Stille, die ideal ist, um die Architektur ohne die Sommerhitze zu bewundern.\n\nNachmittags steht der Gang zur Stadtmauer an. Der Blick über die winterliche, braune Ebene der Mancha ist klar und reicht kilometerweit, bevor die Sonne früh hinter dem Horizont verschwindet.\n\nDer Tag endet an der Einsiedelei, wenn die Dämmerung bereits um 17 Uhr einsetzt. Die Rückkehr zur Plaza Mayor erfolgt bei einsetzender Kälte, die Lust auf eine heiße Schokolade weckt.",
+            "hu": "A téli reggel Uclésban fagyos levegővel indul a Plaza Mayoron. Az Ötcsatornás kút gőzölög az első napsugárban, miközben a falu lassan ébredezik.\n\nDélben keresse fel a kolostor vastag falait. A belső terek hűvös, de szélvédett csendet őriznek, ami ideális az építészet megcsodálásához a nyári hőség nélkül.\n\nDélután a városfal felé vegye az irányt. A kilátás a téli, barna Mancha-síkságra tiszta és kilométerekre ellátni, mielőtt a nap korán eltűnik a horizont mögött.\n\nA nap a remeteségnél ér véget, amikor a szürkület már délután 5-kor beáll. A visszatérés a Plaza Mayorra a beálló hidegben történik, ami meghozza a kedvet egy forró csokoládéhoz.",
+            "ro": "Dimineața de iarnă în Uclés începe cu aer înghețat în Plaza Mayor. Fântâna celor cinci guri scoate aburi în prima lumină a soarelui, în timp ce satul se trezește încet.\n\nLa prânz, căutați zidurile groase ale mănăstirii. Interioarele păstrează o liniște răcoroasă, dar ferită de vânt, ideală pentru a admira arhitectura fără căldura verii.\n\nDupă-amiaza este timpul pentru o plimbare la zidul orașului. Privelistea peste câmpia maronie de iarnă a regiunii La Mancha este clară și se întinde pe kilometri întregi, înainte ca soarele să dispară devreme după orizont.\n\nZiua se încheie la schit, când amurgul se instalează deja la ora 17:00. Întoarcerea în Plaza Mayor are loc pe măsură ce frigul se intensifică, trezind pofta de o ciocolată caldă.",
+            "en": "The winter morning in Uclés starts with frosty air in Plaza Mayor. The Fountain of the Five Spouts steams in the first sunlight as the village slowly awakens.\n\nAt noon, seek out the thick walls of the monastery. The interiors preserve a cool but wind-protected silence, ideal for admiring the architecture without the summer heat.\n\nIn the afternoon, head to the city wall. The view over the wintry, brown plain of La Mancha is clear and stretches for miles before the sun disappears early behind the horizon.\n\nThe day ends at the hermitage as twilight sets in by 5 PM. The return to Plaza Mayor happens as the cold intensifies, sparking a craving for a hot chocolate."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Die Cafés hier sind morgens die ersten geheizten Orte.",
+                "hu": "Az itteni kávézók reggel az első fűtött helyek.",
+                "ro": "Cafenelele de aici sunt primele locuri încălzite dimineața.",
+                "en": "The cafes here are the first heated places in the morning."
+              }
+            },
+            {
+              "name": "Fountain of the Five Spouts",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteisbildung durch Spritzwasser auf dem Pflaster.",
+                "hu": "Ügyeljen a kifröccsenő víz okozta jegesedésre a kövezeten.",
+                "ro": "Atenție la formarea gheții din cauza stropilor de apă pe pavaj.",
+                "en": "Watch out for ice formation from splashing water on the pavement."
+              }
+            },
+            {
+              "name": "Monastery of Uclés and Castle",
+              "tip_5lang": {
+                "de": "Tragen Sie im Inneren eine Jacke; die Steinhallen speichern die Kälte.",
+                "hu": "Viseljen kabátot bent is; a kőtermek tárolják a hideget.",
+                "ro": "Purtați o jachetă în interior; sălile de piatră rețin frigul.",
+                "en": "Wear a jacket inside; the stone halls store the cold."
+              }
+            },
+            {
+              "name": "Uclés Wall and Water Gate",
+              "tip_5lang": {
+                "de": "Der Wind weht hier oben auf der Höhe besonders schneidend.",
+                "hu": "A szél itt fent a magasban különösen metsző.",
+                "ro": "Vântul suflă deosebit de tăios aici, sus pe înălțime.",
+                "en": "The wind blows particularly cuttingly up here on the heights."
+              }
+            },
+            {
+              "name": "Ancient Granary (Antiguo Pósito)",
+              "tip_5lang": {
+                "de": "Ein guter Ort zum Aufwärmen zwischen den Außenbesichtigungen.",
+                "hu": "Jó hely a felmelegedésre a külső városnézések között.",
+                "ro": "Un loc bun pentru a vă încălzi între vizitele în aer liber.",
+                "en": "A good place to warm up between outdoor sightseeing stops."
+              }
+            },
+            {
+              "name": "Hermitage of Las Angustias",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle vor Sonnenuntergang, um das Restlicht zu nutzen.",
+                "hu": "Látogassa meg a kápolnát naplemente előtt, hogy kihasználja a maradék fényt.",
+                "ro": "Vizitați capela înainte de apus pentru a profita de lumina rămasă.",
+                "en": "Visit the chapel before sunset to make use of the remaining light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Wintersonne in Cuenca ist stark, aber der Wind ist eiskalt; Zwiebelprinzip ist Pflicht.",
+              "Planen Sie das Kloster für die Mittagsstunden ein, wenn es draußen am windigsten ist.",
+              "Sonnenuntergang ist gegen 17:30 Uhr; danach fallen die Temperaturen rapide.",
+              "Viele kleine Geschäfte haben im Winter längere Mittagspausen.",
+              "Halten Sie Ausschau nach 'Mantecados' in den lokalen Bäckereien, eine typische Winterspeise."
+            ],
+            "hu": [
+              "A téli nap Cuencában erős, de a szél jéghideg; a réteges öltözködés kötelező.",
+              "A kolostort a déli órákra tervezze, amikor kint a legszelesebb az idő.",
+              "A naplemente 17:30 körül van; utána a hőmérséklet gyorsan zuhan.",
+              "Sok kis üzletnek télen hosszabb a déli szünete.",
+              "Keresse a 'mantecados'-t a helyi pékségekben, ez egy tipikus téli édesség."
+            ],
+            "ro": [
+              "Soarele de iarnă în Cuenca este puternic, dar vântul este înghețat; îmbrăcămintea în straturi este obligatorie.",
+              "Planificați vizita la mănăstire pentru orele prânzului, când afară bate vântul cel mai tare.",
+              "Apusul este în jur de ora 17:30; după aceea, temperaturile scad rapid.",
+              "Multe magazine mici au pauze de prânz mai lungi iarna.",
+              "Căutați 'mantecados' în brutăriile locale, un produs tipic de iarnă."
+            ],
+            "en": [
+              "The winter sun in Cuenca is strong, but the wind is freezing; layered clothing is mandatory.",
+              "Schedule the monastery for the midday hours when it is windiest outside.",
+              "Sunset is around 5:30 PM; after that, temperatures drop rapidly.",
+              "Many small shops have longer lunch breaks in winter.",
+              "Look for 'mantecados' in local bakeries, a typical winter treat."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -698,6 +888,196 @@
           "Always lock your bike securely when leaving it unattended.",
           "Check the opening hours of the sights, as they can vary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag beginnt an der Plaza Mayor. Die Reifen finden auf dem nassen Pflaster wenig Halt, fahren Sie also vorsichtig zum alten Kornspeicher.\n\nMittags ist das Kloster die rettende Station. Hier können Sie das Rad sicher abstellen und sich bei einer langen Besichtigung der gotischen Hallen regenerieren.\n\nNachmittags führt die Route zur Stadtmauer. Der Schlamm auf den unbefestigten Wegen macht das Vorankommen schwerer, belohnt aber mit dramatischen Wolkenspielen über der Ebene.\n\nDer Tag endet an der Fuente de los Cinco Caños. Das Rauschen des Brunnens mischt sich mit dem Prasseln des Regens, bevor Sie die kurze Fahrt zurück zum Ausgangspunkt antreten.",
+            "hu": "Egy esős kerékpáros nap a Plaza Mayoron indul. A gumik kevésbé tapadnak a nedves kövön, így óvatosan tekerjen a régi magtár felé.\n\nDélben a kolostor a mentőöv. Itt biztonságban leállíthatja a biciklit, és a gótikus csarnokok hosszú bejárása alatt regenerálódhat.\n\nDélután az útvonal a városfalhoz vezet. A sár a burkolatlan utakon nehezebbé teszi a haladást, de drámai felhőjátékkal jutalmaz a síkság felett.\n\nA nap az Ötcsatornás kútnál zárul. A kút zúgása keveredik az eső kopogásával, mielőtt megtenné a rövid utat vissza a kiindulópontig.",
+            "ro": "O zi de ciclism ploioasă începe în Plaza Mayor. Anvelopele au puțină aderență pe pavajul umed, așa că pedalați cu atenție spre vechiul grânar.\n\nLa prânz, mănăstirea este stația salvatoare. Aici puteți lăsa bicicleta în siguranță și vă puteți regenera în timpul unei vizite lungi în sălile gotice.\n\nDupă-amiaza, traseul duce la zidul orașului. Noroiul de pe drumurile neasfaltate îngreunează înaintarea, dar vă răsplătește cu jocuri de nori dramatice deasupra câmpiei.\n\nZiua se încheie la Fuente de los Cinco Caños. Susurul fântânii se amestecă cu ropotul ploii înainte de a parcurge drumul scurt înapoi la punctul de plecare.",
+            "en": "A rainy cycling day starts at Plaza Mayor. The tires find little grip on the wet pavement, so ride carefully towards the ancient granary.\n\nAt noon, the monastery is the saving station. Here you can park your bike safely and regenerate during a long tour of the Gothic halls.\n\nIn the afternoon, the route leads to the city wall. The mud on unpaved paths makes progress harder but rewards you with dramatic cloud displays over the plain.\n\nThe day ends at the Fountain of the Five Spouts. The sound of the fountain mixes with the patter of rain before you take the short ride back to the starting point."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Vermeiden Sie schnelle Lenkbewegungen auf den nassen Steinen.",
+                "hu": "Kerülje a hirtelen kormánymozdulatokat a nedves köveken.",
+                "ro": "Evitați mișcările bruște de direcție pe pietrele umede.",
+                "en": "Avoid sudden steering movements on the wet stones."
+              }
+            },
+            {
+              "name": "Ancient Granary (Antiguo Pósito)",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad nah am Gebäude, um den Sattel trocken zu halten.",
+                "hu": "Parkolja a biciklit az épület közelébe, hogy a nyereg száraz maradjon.",
+                "ro": "Parcați bicicleta aproape de clădire pentru a păstra șaua uscată.",
+                "en": "Park the bike close to the building to keep the saddle dry."
+              }
+            },
+            {
+              "name": "Hermitage of Las Angustias",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt; die Felgen brauchen länger zum Greifen.",
+                "hu": "Indulás előtt ellenőrizze a fékeket; a felniknek több idő kell a tapadáshoz.",
+                "ro": "Verificați frânele înainte de plecare; jantele au nevoie de mai mult timp pentru a prinde.",
+                "en": "Check your brakes before starting; rims take longer to grip in the wet."
+              }
+            },
+            {
+              "name": "Monastery of Uclés and Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen der Ausrüstung.",
+                "hu": "Használja a fedett bejárati részt a felszerelés tárolására.",
+                "ro": "Folosiți zona de intrare acoperită pentru a lăsa echipamentul.",
+                "en": "Use the covered entrance area to store your gear."
+              }
+            },
+            {
+              "name": "Uclés Wall and Water Gate",
+              "tip_5lang": {
+                "de": "Der Boden ist hier lehmig; fahren Sie langsam, um nicht wegzurutschen.",
+                "hu": "A talaj itt agyagos; menjen lassan, nehogy megcsússzon.",
+                "ro": "Solul este argilos aici; pedalați încet pentru a nu aluneca.",
+                "en": "The ground is clayey here; ride slowly to avoid slipping."
+              }
+            },
+            {
+              "name": "Fountain of the Five Spouts",
+              "tip_5lang": {
+                "de": "Reinigen Sie kurz die Bremsbeläge vom aufgewirbelten Dreck.",
+                "hu": "Röviden tisztítsa meg a fékbetéteket a felcsapódott kosztól.",
+                "ro": "Curățați scurt saboții de frână de noroiul ridicat de roți.",
+                "en": "Quickly clean the brake pads from kicked-up dirt."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollflächige Schutzbleche sind in dieser Region bei Regen ein Muss gegen kalkhaltigen Schlamm.",
+              "Reduzieren Sie den Reifendruck leicht für eine bessere Haftung auf Kopfsteinpflaster.",
+              "Nehmen Sie eine Plastiktüte für den Sattel mit, während Sie das Kloster besichtigen.",
+              "Die Abfahrten im Dorf sind steil; nutzen Sie beide Bremsen gleichzeitig.",
+              "Warnwesten erhöhen die Sichtbarkeit bei trübem Wetter auf den Landstraßen."
+            ],
+            "hu": [
+              "A teljes sárvédő kötelező ebben a régióban a meszes sár ellen.",
+              "Csökkentse kissé a guminyomást a jobb tapadás érdekében a macskakövön.",
+              "Vigyen egy műanyag zacskót a nyeregre, amíg a kolostort látogatja.",
+              "A faluban a lejtők meredekek; használja mindkét féket egyszerre.",
+              "A láthatósági mellény növeli a biztonságot a szürke időben az országutakon."
+            ],
+            "ro": [
+              "Apărătorile de noroi complete sunt obligatorii în această regiune împotriva noroiului calcaros.",
+              "Reduceți ușor presiunea în anvelope pentru o mai bună aderență pe pavaj.",
+              "Luați o pungă de plastic pentru șa în timp ce vizitați mănăstirea.",
+              "Coborârile din sat sunt abrupte; folosiți ambele frâne simultan.",
+              "Vestele reflectorizante sporesc vizibilitatea pe drumurile naționale pe vreme mohorâtă."
+            ],
+            "en": [
+              "Full fenders are a must in this region against calcareous mud when it rains.",
+              "Reduce tire pressure slightly for better grip on cobblestones.",
+              "Take a plastic bag for the saddle while you visit the monastery.",
+              "The descents in the village are steep; use both brakes simultaneously.",
+              "Reflective vests increase visibility on country roads during gloomy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintertag auf dem Rad beginnt auf der Plaza Mayor. Die Luft ist trocken und schneidend, was den Aufstieg zum Kornspeicher zu einer schweißtreibenden, aber aufwärmenden Übung macht.\n\nMittags erreichen Sie das Kloster. Parken Sie im Windschatten der massiven Mauern und genießen Sie die Stille. Die Kälte im Inneren ist präsent, also bleiben Sie in Bewegung.\n\nDer Nachmittag führt über die windgepeitschte Ebene entlang der Stadtmauer. Die kahle Landschaft der Mancha wirkt im Winterlicht fast surreal und bietet unendliche Fotomotive.\n\nDer Tag endet früh am Brunnen. Wenn die Sonne tief steht, kühlt die Luft sofort ab. Sputen Sie sich auf dem letzten Kilometer, um vor dem Frost im Quartier zu sein.",
+            "hu": "Egy hűvös téli nap a bringán a Plaza Mayoron indul. A levegő száraz és metsző, ami a magtárhoz vezető emelkedőt izzasztó, de melengető gyakorlattá teszi.\n\nDélben éri el a kolostort. Parkoljon a masszív falak szélárnyékában, és élvezze a csendet. A belső hideg érezhető, ezért maradjon mozgásban.\n\nA délután a szélfútta síkságon át vezet a városfal mentén. A Mancha kopár tája szinte szürreális a téli fényben, végtelen fotótémát kínálva.\n\nA nap korán ér véget a kútnál. Amikor a nap alacsonyan jár, a levegő azonnal lehűl. Igyekezzen az utolsó kilométeren, hogy a fagy előtt beérjen a szállásra.",
+            "ro": "O zi răcoroasă de iarnă pe bicicletă începe în Plaza Mayor. Aerul este uscat și tăios, ceea ce face din urcarea spre grânar un exercițiu solicitant, dar care vă va încălzi.\n\nLa prânz ajungeți la mănăstire. Parcați la adăpostul zidurilor masive și bucurați-vă de liniște. Frigul din interior este prezent, așa că rămâneți în mișcare.\n\nDupă-amiaza parcurgeți câmpia bătută de vânt de-a lungul zidului orașului. Peisajul golaș al regiunii La Mancha pare aproape ireal în lumina iernii, oferind nenumărate oportunități foto.\n\nZiua se încheie devreme la fântână. Când soarele este jos, aerul se răcește instantaneu. Grăbiți-vă pe ultimul kilometru pentru a ajunge la adăpost înainte de îngheț.",
+            "en": "A cool winter day on the bike starts at Plaza Mayor. The air is dry and cutting, making the climb to the granary a sweaty but warming exercise.\n\nAt noon, you reach the monastery. Park in the lee of the massive walls and enjoy the silence. The cold inside is noticeable, so keep moving.\n\nIn the afternoon, head across the wind-swept plain along the city walls. The bare landscape of La Mancha looks almost surreal in the winter light, offering endless photo opportunities.\n\nThe day ends early at the fountain. When the sun is low, the air cools down immediately. Hurry on the last kilometer to get to your accommodation before the frost sets in."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_5lang": {
+                "de": "Starten Sie erst nach 10 Uhr, wenn der Reif auf den Steinen geschmolzen ist.",
+                "hu": "Csak 10 óra után induljon, amikor a zúzmara már elolvadt a köveken.",
+                "ro": "Porniți abia după ora 10, când chiciura de pe pietre s-a topit.",
+                "en": "Start only after 10 AM once the frost on the stones has melted."
+              }
+            },
+            {
+              "name": "Ancient Granary (Antiguo Pósito)",
+              "tip_5lang": {
+                "de": "Lassen Sie die Handschuhe beim Museumsbesuch nicht am Rad.",
+                "hu": "A múzeumlátogatás alatt ne hagyja a kesztyűket a biciklin.",
+                "ro": "Nu lăsați mănușile pe bicicletă în timpul vizitei la muzeu.",
+                "en": "Don't leave your gloves on the bike while visiting the museum."
+              }
+            },
+            {
+              "name": "Hermitage of Las Angustias",
+              "tip_5lang": {
+                "de": "Passen Sie auf plötzliche Seitenwinde auf dem offenen Weg zur Kapelle auf.",
+                "hu": "Vigyázzon a hirtelen oldalszélre a kápolnához vezető nyitott úton.",
+                "ro": "Atenție la rafalele bruște de vânt lateral pe drumul deschis spre capelă.",
+                "en": "Watch out for sudden crosswinds on the open path to the chapel."
+              }
+            },
+            {
+              "name": "Monastery of Uclés and Castle",
+              "tip_5lang": {
+                "de": "Bewegen Sie Ihre Zehen regelmäßig, um die Durchblutung zu fördern.",
+                "hu": "Mozgassa rendszeresen a lábujjait a vérkeringés fenntartása érdekében.",
+                "ro": "Mișcați-vă degetele de la picioare regulat pentru a menține circulația.",
+                "en": "Move your toes regularly to maintain circulation in the cold halls."
+              }
+            },
+            {
+              "name": "Uclés Wall and Water Gate",
+              "tip_5lang": {
+                "de": "Die Abfahrt durch das Wassertor ist im Winter oft extrem zugig.",
+                "hu": "A Víz-kapun keresztüli lemenet télen gyakran rendkívül huzatos.",
+                "ro": "Coborârea prin Poarta Apei este adesea extrem de ventilată iarna.",
+                "en": "The descent through the Water Gate is often extremely drafty in winter."
+              }
+            },
+            {
+              "name": "Fountain of the Five Spouts",
+              "tip_5lang": {
+                "de": "Trinken Sie nicht zu viel kaltes Wasser aus dem Brunnen bei Minustemperaturen.",
+                "hu": "Mínuszok esetén ne igyon túl sok hideg vizet a kútból.",
+                "ro": "Nu beți prea multă apă rece de la fântână la temperaturi negative.",
+                "en": "Don't drink too much cold water from the fountain in freezing temps."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überschuhe aus Neopren verhindern kalte Füße durch den Fahrtwind.",
+              "Verwenden Sie Winteröl für die Kette, da normales Schmiermittel zähflüssig wird.",
+              "Nehmen Sie eine Thermoskanne mit warmem Tee im Flaschenhalter mit.",
+              "Achten Sie auf Schattenbereiche; dort kann sich Reif den ganzen Tag halten.",
+              "Tragen Sie eine winddichte Mütze unter dem Helm."
+            ],
+            "hu": [
+              "A neoprén kamásli megvédi a lábát a menetszél okozta lehűléstől.",
+              "Használjon téli láncolajat, mert a normál kenőanyag besűrűsödik.",
+              "Vigyen magával egy termosz meleg teát a kulacstartóban.",
+              "Ügyeljen az árnyékos részekre; ott a zúzmara egész nap megmaradhat.",
+              "Viseljen szélálló sapkát a sisak alatt."
+            ],
+            "ro": [
+              "Husele pentru pantofi din neopren previn răcirea picioarelor din cauza curentului.",
+              "Folosiți ulei de iarnă pentru lanț, deoarece lubrifiantul normal devine vâscos.",
+              "Luați un termos cu ceai cald în suportul pentru bidon.",
+              "Atenție la zonele umbrite; acolo chiciura poate persista toată ziua.",
+              "Purtați o căciulă rezistentă la vânt sub cască."
+            ],
+            "en": [
+              "Neoprene shoe covers prevent cold feet from the wind chill.",
+              "Use winter chain oil as normal lubricant becomes too viscous.",
+              "Take a thermos with warm tea in your bottle cage.",
+              "Watch out for shaded areas; frost can stay there all day long.",
+              "Wear a windproof cap under your helmet."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1002,6 +1382,196 @@
           "Combine the visit with other villages in La Mancha for a longer tour.",
           "The village streets are very narrow; driving in the center is not recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Regentag beginnt mit der Suche nach einem Parkplatz nahe der Plaza Mayor. Das Auto bietet den perfekten Schutz, während Sie den Brunnen der fünf Speier besichtigen.\n\nMittags fahren Sie den kurzen Weg hoch zum Kloster. Das monumentale Gebäude wirkt im Regen noch imposanter, und der Parkplatz direkt am Eingang erspart Ihnen lange Wege im Nassen.\n\nNachmittags geht es weiter zur Stadtmauer und zum Pósito. Das Auto dient als mobile Basis, in der Sie sich zwischen den kurzen Besichtigungen aufwärmen und trocknen können.\n\nDer Tag endet an der Einsiedelei Las Angustias. Der Blick aus dem Autofenster auf die verregnete Landschaft von Cuenca ist beruhigend, bevor Sie die Heimreise antreten.",
+            "hu": "Egy kényelmes esős nap a Plaza Mayor közeli parkolóhely keresésével indul. Az autó tökéletes védelmet nyújt, miközben megnézi az Ötcsatornás kutat.\n\nDélben hajtson fel a rövid úton a kolostorhoz. A monumentális épület az esőben még lenyűgözőbb, és a közvetlenül a bejáratnál lévő parkoló megkíméli a hosszú ázástól.\n\nDélután folytassa útját a városfalhoz és a Pósito-hoz. Az autó mobil bázisként szolgál, ahol a rövid látogatások között felmelegedhet és megszáradhat.\n\nA nap a Las Angustias remeteségnél zárul. Az autó ablakából nyíló kilátás a verőfényes Cuenca-i tájra megnyugtató, mielőtt hazaindulna.",
+            "ro": "O zi ploioasă relaxantă începe cu căutarea unui loc de parcare lângă Plaza Mayor. Mașina oferă protecția perfectă în timp ce vizitați Fântâna celor cinci guri.\n\nLa prânz, parcurgeți drumul scurt până la mănăstire. Clădirea monumentală pare și mai impunătoare în ploaie, iar parcarea direct la intrare vă scutește de drumuri lungi prin apă.\n\nDupă-amiaza, continuați spre zidul orașului și spre Pósito. Mașina servește drept bază mobilă unde vă puteți încălzi și usca între scurte vizite.\n\nZiua se încheie la Schitul Las Angustias. Priveliștea din fereastra mașinii asupra peisajului ploios din Cuenca este liniștitoare înainte de a pleca spre casă.",
+            "en": "A relaxed rainy day starts with finding a parking spot near Plaza Mayor. The car provides perfect shelter while you visit the Fountain of the Five Spouts.\n\nAt noon, drive the short way up to the monastery. The monumental building looks even more imposing in the rain, and the parking right at the entrance saves you from long walks in the wet.\n\nIn the afternoon, continue to the city wall and the Pósito. The car serves as a mobile base where you can warm up and dry off between short visits.\n\nThe day ends at the Hermitage of Las Angustias. The view from the car window of the rainy landscape of Cuenca is soothing before you head home."
+          },
+          "stops": [
+            {
+              "name": "Parking and Plaza Mayor",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz am Ortseingang, um Fußwege im Regen zu minimieren.",
+                "hu": "Használja a falu bejáratánál lévő parkolót az esőben való gyaloglás minimalizálására.",
+                "ro": "Folosiți parcarea de la intrarea în localitate pentru a minimiza mersul prin ploaie.",
+                "en": "Use the parking lot at the entrance to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Fountain of the Five Spouts",
+              "tip_5lang": {
+                "de": "Halten Sie kurz an der Straße, um den Brunnen aus dem Auto zu sehen.",
+                "hu": "Álljon meg rövid időre az útnál, hogy az autóból láthassa a kutat.",
+                "ro": "Opriți scurt pe marginea drumului pentru a vedea fântâna din mașină.",
+                "en": "Stop briefly by the road to view the fountain from the car."
+              }
+            },
+            {
+              "name": "Monastery of Uclés and Castle",
+              "tip_5lang": {
+                "de": "Der obere Parkplatz ist bei Regen oft weniger belegt.",
+                "hu": "A felső parkoló esőben gyakran kevésbé foglalt.",
+                "ro": "Parcarea de sus este adesea mai puțin ocupată când plouă.",
+                "en": "The upper parking lot is often less crowded when it rains."
+              }
+            },
+            {
+              "name": "Uclés Wall and Water Gate",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig; die engen Gassen zur Mauer sind rutschig.",
+                "hu": "Vezessen óvatosan; a falhoz vezető szűk utcák csúszósak.",
+                "ro": "Conduceți cu atenție; străzile înguste spre zid sunt alunecoase.",
+                "en": "Drive carefully; the narrow streets to the wall are slippery."
+              }
+            },
+            {
+              "name": "Ancient Granary (Antiguo Pósito)",
+              "tip_5lang": {
+                "de": "Lassen Sie keine nassen Regenschirme auf den Polstern liegen.",
+                "hu": "Ne hagyja a vizes esernyőket az üléseken.",
+                "ro": "Nu lăsați umbrelele ude pe scaunele mașinii.",
+                "en": "Don't leave wet umbrellas on the car seats."
+              }
+            },
+            {
+              "name": "Hermitage of Las Angustias",
+              "tip_5lang": {
+                "de": "Hier gibt es genug Platz zum Wenden, auch bei schlechter Sicht.",
+                "hu": "Itt bőven van hely a megforduláshoz, rossz látási viszonyok mellett is.",
+                "ro": "Există suficient spațiu pentru întoarcere aici, chiar și la vizibilitate redusă.",
+                "en": "There is plenty of room to turn around here, even in poor visibility."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Parken in tiefgelegenen Bereichen, wo sich Sturzbäche bilden können.",
+              "Prüfen Sie Ihre Scheibenwischer; der Staub der Mancha wird bei leichtem Regen schmierig.",
+              "Die Zufahrt zum Kloster ist schmal; bei Gegenverkehr im Regen ist Geduld gefragt.",
+              "Halten Sie eine Taschenlampe im Auto bereit, falls Sie in dunkle Ecken der Mauer schauen wollen.",
+              "In Uclés sind viele Wege Einbahnstraßen; achten Sie auf die Schilder im Dunst."
+            ],
+            "hu": [
+              "Kerülje a parkolást az alacsonyan fekvő területeken, ahol vízátfolyások alakulhatnak ki.",
+              "Ellenőrizze az ablaktörlőket; a Mancha pora könnyű esőben nyálkássá válik.",
+              "A kolostorhoz vezető út szűk; esőben a szembejövő forgalomnál türelem kell.",
+              "Tartson elemlámpát az autóban, ha a fal sötétebb sarkait is megnézné.",
+              "Uclésban sok út egyirányú; figyelje a táblákat a ködben."
+            ],
+            "ro": [
+              "Evitați parcarea în zonele joase, unde se pot forma viituri.",
+              "Verificați ștergătoarele; praful din La Mancha devine unsuros la o ploaie ușoară.",
+              "Accesul la mănăstire este îngust; e nevoie de răbdare la traficul din sens opus.",
+              "Țineți o lanternă în mașină dacă doriți să explorați colțurile întunecate ale zidului.",
+              "În Uclés multe străzi sunt cu sens unic; atenție la semne în condiții de vizibilitate redusă."
+            ],
+            "en": [
+              "Avoid parking in low-lying areas where flash floods can form.",
+              "Check your wipers; the dust of La Mancha becomes greasy in light rain.",
+              "Access to the monastery is narrow; patience is needed with oncoming traffic.",
+              "Keep a flashlight in the car if you want to look into dark corners of the wall.",
+              "Many roads in Uclés are one-way; watch the signs in the mist."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen beginnt mit dem Freikratzen der Scheiben auf der Plaza Mayor. Die Heizung läuft bereits, während Sie die historische Architektur im warmen Licht bewundern.\n\nMittags bietet das Kloster eine beeindruckende Kulisse gegen den tiefblauen Winterhimmel. Da Sie mit dem Auto flexibel sind, können Sie die wärmsten Stunden für die Außenbereiche nutzen.\n\nNachmittags führt die Fahrt zur Stadtmauer. Die klare Winterluft ermöglicht weite Blicke aus dem klimatisierten Innenraum über die karge Hochebene von Kastilien.\n\nDer Tag endet an der Einsiedelei, wenn das Thermometer bereits sinkt. Dank des Autos ist der Weg zurück zur Unterkunft warm und sicher, egal wie stark der nächtliche Frost wird.",
+            "hu": "A fagyos téli reggel a szélvédő lekaparásával indul a Plaza Mayoron. A fűtés már jár, miközben a történelmi építészetet csodálja a meleg fényekben.\n\nDélben a kolostor lenyűgöző látványt nyújt a mélykék téli égbolt előtt. Mivel autóval rugalmas, a legmelegebb órákat használhatja ki a külső részekre.\n\nDélután az út a városfalhoz vezet. A tiszta téli levegő messzi kilátást enged a klimatizált utastérből Kasztília kopár fennsíkjára.\n\nA nap a remeteségnél zárul, amikor a hőmérő már süllyed. Az autónak köszönhetően az út vissza a szállásig meleg és biztonságos, bármilyen erős legyen az éjszakai fagy.",
+            "ro": "O dimineață geroasă de iarnă începe cu curățarea parbrizului în Plaza Mayor. Încălzirea funcționează deja în timp ce admirați arhitectura istorică în lumina caldă.\n\nLa prânz, mănăstirea oferă un cadru impresionant pe fundalul cerului albastru de iarnă. Fiind flexibil cu mașina, puteți profita de cele mai calde ore pentru zonele exterioare.\n\nDupă-amiaza, drumul duce spre zidul orașului. Aerul curat de iarnă permite vederi panoramice din interiorul climatizat peste platoul arid al Castiliei.\n\nZiua se încheie la schit, când temperatura scade deja. Datorită mașinii, drumul înapoi spre cazare este cald și sigur, indiferent cât de puternic devine înghețul nocturn.",
+            "en": "A frosty winter morning starts with scraping the windshield in Plaza Mayor. The heater is already running while you admire the historical architecture in the warm light.\n\nAt noon, the monastery provides an impressive backdrop against the deep blue winter sky. Being flexible with the car, you can use the warmest hours for the outdoor areas.\n\nIn the afternoon, the drive leads to the city wall. The clear winter air allows for far-reaching views from the climate-controlled interior over the barren highlands of Castile.\n\nThe day ends at the hermitage as the thermometer is already dropping. Thanks to the car, the way back to the accommodation is warm and safe, no matter how strong the nightly frost gets."
+          },
+          "stops": [
+            {
+              "name": "Parking and Plaza Mayor",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen, um aufzuwärmen.",
+                "hu": "Ne járassa feleslegesen álló helyzetben a motort a bemelegítéshez.",
+                "ro": "Nu lăsați motorul să meargă inutil la relanti pentru a se încălzi.",
+                "en": "Do not let the engine idle unnecessarily to warm up."
+              }
+            },
+            {
+              "name": "Fountain of the Five Spouts",
+              "tip_5lang": {
+                "de": "Die Parkbuchten hier können morgens mit einer dünnen Eisschicht bedeckt sein.",
+                "hu": "Az itteni parkolók reggelente vékony jégréteggel lehetnek borítva.",
+                "ro": "Locurile de parcare de aici pot fi acoperite cu un strat subțire de gheață dimineața.",
+                "en": "The parking bays here can be covered with a thin layer of ice in the morning."
+              }
+            },
+            {
+              "name": "Monastery of Uclés and Castle",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif an schattigen Stellen der Burganlage.",
+                "hu": "Ügyeljen a zúzmarára a várkomplexum árnyékos részein.",
+                "ro": "Atenție la chiciură în zonele umbrite ale complexului castelului.",
+                "en": "Watch out for hoarfrost in shaded parts of the castle complex."
+              }
+            },
+            {
+              "name": "Uclés Wall and Water Gate",
+              "tip_5lang": {
+                "de": "Die Zufahrt ist steil; bei Frost ist erhöhte Vorsicht geboten.",
+                "hu": "A feljáró meredek; fagy esetén fokozott óvatosság ajánlott.",
+                "ro": "Accesul este abrupt; este necesară prudență sporită în caz de îngheț.",
+                "en": "The access road is steep; extreme caution is advised in case of frost."
+              }
+            },
+            {
+              "name": "Ancient Granary (Antiguo Pósito)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um die Batterie durch die Fahrt kurz zu laden.",
+                "hu": "Használja ki a múzeumlátogatást, hogy az út alatt töltődjön az akkumulátor.",
+                "ro": "Profitați de vizita la muzeu pentru ca bateria să se încarce în timpul drumului.",
+                "en": "Use the museum visit to let the car battery recover after a cold start."
+              }
+            },
+            {
+              "name": "Hermitage of Las Angustias",
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Rückfahrt die Funktionsfähigkeit der Scheinwerfer.",
+                "hu": "Visszaindulás előtt ellenőrizze a fényszórók működését.",
+                "ro": "Verificați funcționarea farurilor înainte de plecarea înapoi.",
+                "en": "Check the functionality of your headlights before the return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass genügend Frostschutzmittel in der Scheibenwaschanlage ist.",
+              "In den Höhenlagen von Cuenca kann es nachts sehr kalt werden; parken Sie windgeschützt.",
+              "Die Batterieleistung sinkt bei Kälte; vermeiden Sie unnötige Stromverbraucher im Stand.",
+              "Führen Sie eine Decke und einen Eiskratzer im Kofferraum mit.",
+              "Die Straßen sind meist geräumt, aber Nebenwege zur Mauer können glatt bleiben."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy elég fagyálló van a szélvédőmosóban.",
+              "Cuenca magaslati részein éjszaka nagyon hideg lehet; parkoljon szélvédett helyen.",
+              "Az akkumulátor teljesítménye csökken a hidegben; kerülje a felesleges fogyasztókat.",
+              "Tartson egy takarót és egy jégkaparót a csomagtartóban.",
+              "Az utak általában le vannak takarítva, de a falhoz vezető mellékutak síkosak maradhatnak."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți suficient antigel în instalația de spălare a parbrizului.",
+              "În zonele înalte din Cuenca poate fi foarte frig noaptea; parcați la adăpost de vânt.",
+              "Performanța bateriei scade la frig; evitați consumatorii de energie nenecesari.",
+              "Țineți o pătură și o racletă pentru gheață în portbagaj.",
+              "Drumurile sunt de obicei deszăpezite, dar căile secundare spre zid pot rămâne alunecoase."
+            ],
+            "en": [
+              "Ensure there is enough antifreeze in your windshield washer system.",
+              "In the highlands of Cuenca, it can get very cold at night; park in a wind-sheltered spot.",
+              "Battery performance drops in the cold; avoid unnecessary power consumers while parked.",
+              "Keep a blanket and an ice scraper in the trunk.",
+              "Main roads are usually cleared, but side paths to the wall can remain slick."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1306,6 +1876,196 @@
           "Uclés is small, but the climb to the castle requires a good level of fitness.",
           "Almost everything is within walking distance once you arrive."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Ankunft an der Plaza Mayor im Regen markiert den Beginn eines beschaulichen Tages. Suchen Sie Schutz in den Cafés, während Sie auf die passenden Momente für den Brunnenbesuch warten.\n\nMittags ist das Kloster Uclés das Hauptziel. Die Innenräume bieten stundenlangen Schutz vor dem Wetter, und die spirituelle Atmosphäre wird durch das Prasseln des Regens an den Fenstern verstärkt.\n\nNachmittags führt der Weg zur Stadtmauer und zum Pósito. Nutzen Sie die kurzen Regenpausen für den Transfer zwischen den Gebäuden und tauchen Sie in die Geschichte im trockenen Museum ein.\n\nDer Tag endet an der Einsiedelei, bevor Sie zur Bushaltestelle zurückkehren. Der Abschied von Uclés im Dunst der nassen Ebenen hinterlässt einen melancholischen, aber bleibenden Eindruck.",
+            "hu": "Az érkezés az esős Plaza Mayorra egy nyugodt nap kezdetét jelzi. Keressen menedéket a kávézókban, miközben a megfelelő pillanatra vár a kút megtekintéséhez.\n\nDélben az uclési kolostor a fő célpont. A belső terek órákon át védelmet nyújtanak az időjárás elől, a spirituális hangulatot pedig fokozza az ablakokon kopogó eső.\n\nDélután az út a városfalhoz és a Pósito-hoz vezet. Használja ki a rövid esőszüneteket az épületek közötti mozgáshoz, és merüljön el a történelemben a száraz múzeumban.\n\nA nap a remeteségnél zárul, mielőtt visszatérne a buszmegállóhoz. Az uclési búcsú a nedves síkság ködében melankolikus, de maradandó élményt nyújt.",
+            "ro": "Sosirea în Plaza Mayor pe ploaie marchează începutul unei zile liniștite. Căutați adăpost în cafenele în timp ce așteptați momentele potrivite pentru a vizita fântâna.\n\nLa prânz, mănăstirea Uclés este destinația principală. Interioarele oferă ore de protecție împotriva vremii, iar atmosfera spirituală este sporită de ropotul ploii în ferestre.\n\nDupă-amiaza, drumul duce spre zidul orașului și spre Pósito. Profitați de scurtele pauze de ploaie pentru transferul între clădiri și cufundați-vă în istorie în muzeul uscat.\n\nZiua se încheie la schit înainte de a vă întoarce la stația de autobuz. Rămas-bun de la Uclés în ceața câmpiilor umede lasă o impresie melancolică, dar de durată.",
+            "en": "Arriving at Plaza Mayor in the rain marks the start of a tranquil day. Seek shelter in the cafes while waiting for the right moments to visit the fountain.\n\nAt noon, the Monastery of Uclés is the main destination. The interiors offer hours of protection from the weather, and the spiritual atmosphere is enhanced by the patter of rain against the windows.\n\nIn the afternoon, head to the city wall and the Pósito. Use short breaks in the rain for transfers between buildings and dive into history in the dry museum.\n\nThe day ends at the hermitage before you return to the bus stop. Saying goodbye to Uclés in the mist of the wet plains leaves a melancholic but lasting impression."
+          },
+          "stops": [
+            {
+              "name": "Arrival and Plaza Mayor",
+              "tip_5lang": {
+                "de": "Stellen Sie sich unter die Vordächer der Haltestelle, falls der Regen stark ist.",
+                "hu": "Álljon a megálló előtetője alá, ha erős az eső.",
+                "ro": "Stați sub copertina stației dacă plouă torențial.",
+                "en": "Stand under the station canopy if the rain is heavy."
+              }
+            },
+            {
+              "name": "Fountain of the Five Spouts",
+              "tip_5lang": {
+                "de": "Der Weg zum Brunnen ist kurz, aber ungeschützt; halten Sie den Schirm bereit.",
+                "hu": "A kúthoz vezető út rövid, de nem védett; tartsa készenlétben az esernyőt.",
+                "ro": "Drumul spre fântână este scurt, dar neprotejat; țineți umbrela pregătită.",
+                "en": "The path to the fountain is short but unsheltered; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Monastery of Uclés and Castle",
+              "tip_5lang": {
+                "de": "Es gibt Schließfächer für nasse Rucksäcke am Eingang des Klosters.",
+                "hu": "A kolostor bejáratánál vannak szekrények a vizes hátizsákoknak.",
+                "ro": "Există dulapuri pentru rucsacuri ude la intrarea în mănăstire.",
+                "en": "There are lockers for wet backpacks at the monastery entrance."
+              }
+            },
+            {
+              "name": "Uclés Wall and Water Gate",
+              "tip_5lang": {
+                "de": "Der Fußweg zur Mauer kann bei Regen schmierig sein; feste Sohlen sind wichtig.",
+                "hu": "A falhoz vezető gyalogút esőben nyálkás lehet; a tapadós talp fontos.",
+                "ro": "Poteca spre zid poate fi alunecoasă pe ploaie; tălpile aderente sunt importante.",
+                "en": "The footpath to the wall can be greasy in the rain; solid soles are important."
+              }
+            },
+            {
+              "name": "Ancient Granary (Antiguo Pósito)",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Wartezeit auf den nächsten Bus trocken zu verbringen.",
+                "hu": "Ideális hely a következő buszra való várakozáshoz szárazon.",
+                "ro": "Un loc ideal pentru a aștepta următorul autobuz la adăpost.",
+                "en": "An ideal place to spend the wait for the next bus in the dry."
+              }
+            },
+            {
+              "name": "Hermitage of Las Angustias",
+              "tip_5lang": {
+                "de": "Planen Sie genug Pufferzeit für den Rückweg zur Haltestelle ein.",
+                "hu": "Tervezzen elég tartalékidőt a megállóhoz való visszajutáshoz.",
+                "ro": "Planificați suficient timp pentru drumul de întoarcere la stație.",
+                "en": "Plan enough buffer time for the walk back to the bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Rückfahrzeiten vorab, da Busse bei Unwetter Verspätung haben können.",
+              "Tragen Sie eine wasserdichte Jacke mit Kapuze, da Schirme bei Wind oft versagen.",
+              "Die Haltestelle bietet nur wenig Wetterschutz; kommen Sie nicht zu früh dorthin.",
+              "Fragen Sie im Kloster nach einem Taxi-Kontakt als Notfallplan.",
+              "Halten Sie Kleingeld für den Bus bereit, falls die Kartenautomaten streiken."
+            ],
+            "hu": [
+              "Előre ellenőrizze a visszautat, mert vihar esetén a buszok késhetnek.",
+              "Viseljen vízálló kapucnis dzsekit, mert szélben az esernyők gyakran feladják.",
+              "A buszmegálló kevés védelmet nyújt; ne menjen oda túl korán.",
+              "Kérjen a kolostorban taxi-elérhetőséget vészhelyzet esetére.",
+              "Legyen Önnél aprópénz a buszra, ha a kártyás terminálok nem működnének."
+            ],
+            "ro": [
+              "Verificați orele de întoarcere în avans, deoarece autobuzele pot întârzia pe furtună.",
+              "Purtați o jachetă impermeabilă cu glugă, deoarece umbrelele adesea cedează la vânt.",
+              "Stația de autobuz oferă puțină protecție; nu ajungeți acolo prea devreme.",
+              "Cereți la mănăstire un număr de taxi pentru situații de urgență.",
+              "Aveți mărunțiș pentru autobuz în cazul în care terminalele de card nu funcționează."
+            ],
+            "en": [
+              "Check return times in advance as buses may be delayed during storms.",
+              "Wear a waterproof hooded jacket as umbrellas often fail in the wind.",
+              "The bus stop offers little weather protection; don't arrive too early.",
+              "Ask at the monastery for a taxi contact as a backup plan.",
+              "Have small change ready for the bus in case card machines fail."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Ankunft in Uclés an einem Wintermorgen ist belebend. Der Nebel liegt oft tief über den Feldern, während Sie zur Plaza Mayor wandern und die Stille genießen.\n\nMittags ist das Kloster der zentrale Anlaufpunkt. Trotz der Kälte in den Steinhallen ist es ein Ort der Ruhe. Die Cafeteria bietet die nötige Wärme vor dem weiteren Programm.\n\nNachmittags führt die Tour zur Stadtmauer. Die klare Luft sorgt für eine unglaubliche Akustik und weite Sicht, bevor das Licht gegen 17 Uhr schwindet.\n\nDer Tag endet an der Einsiedelei, wenn die Kälte am stärksten spürbar wird. Der Rückmarsch zur Haltestelle erfolgt im zügigen Tempo, um rechtzeitig vor der nächtlichen Frostperiode den Bus zu erreichen.",
+            "hu": "Az uclési érkezés egy téli reggelen élénkítő. A köd gyakran mélyen üli meg a mezőket, miközben a Plaza Mayor felé sétálva élvezi a csendet.\n\nDélben a kolostor a központi helyszín. A kőtermek hidege ellenére ez a nyugalom szigete. A kávézó biztosítja a szükséges meleget a további program előtt.\n\nDélután a túra a városfalhoz vezet. A tiszta levegő hihetetlen akusztikát és távoli kilátást biztosít, mielőtt a fény 17 óra körül elfogy.\n\nA nap a remeteségnél zárul, amikor a hideg a leginkább érezhető. A visszatérés a megállóhoz gyors tempóban történik, hogy az éjszakai fagy előtt elérje a buszt.",
+            "ro": "Sosirea în Uclés într-o dimineață de iarnă este revigorantă. Ceața plutește adesea jos peste câmpuri în timp ce mergeți spre Plaza Mayor bucurându-vă de liniște.\n\nLa prânz, mănăstirea este punctul central. În ciuda frigului din sălile de piatră, este un loc al liniștii. Cafeneaua oferă căldura necesară înainte de continuarea programului.\n\nDupă-amiaza, turul duce spre zidul orașului. Aerul curat oferă o acustică incredibilă și o vizibilitate largă înainte ca lumina să dispară în jurul orei 17:00.\n\nZiua se încheie la schit, când frigul este cel mai resimțit. Marșul de întoarcere spre stație se face într-un ritm alert pentru a prinde autobuzul înainte de înghețul nopții.",
+            "en": "Arriving in Uclés on a winter morning is invigorating. Mist often lies low over the fields as you walk to Plaza Mayor and enjoy the silence.\n\nAt noon, the monastery is the central point. Despite the cold in the stone halls, it is a place of peace. The cafeteria provides the necessary warmth before the rest of the program.\n\nIn the afternoon, the tour leads to the city wall. The clear air ensures incredible acoustics and far-reaching views before the light fades around 5 PM.\n\nThe day ends at the hermitage when the cold is most felt. The walk back to the stop is done at a brisk pace to reach the bus before the nightly frost sets in."
+          },
+          "stops": [
+            {
+              "name": "Arrival and Plaza Mayor",
+              "tip_5lang": {
+                "de": "Trinken Sie einen heißen Kaffee, um die Körpertemperatur nach der Fahrt zu halten.",
+                "hu": "Igyon egy forró kávét, hogy fenntartsa testhőjét az út után.",
+                "ro": "Beți o cafea fierbinte pentru a menține temperatura corpului după drum.",
+                "en": "Have a hot coffee to maintain body temperature after the arrival."
+              }
+            },
+            {
+              "name": "Fountain of the Five Spouts",
+              "tip_5lang": {
+                "de": "Der Boden ist oft gefroren; treten Sie fest auf, um nicht zu rutschen.",
+                "hu": "A talaj gyakran fagyott; lépjen határozottan, nehogy megcsússzon.",
+                "ro": "Solul este adesea înghețat; călcați cu încredere pentru a nu aluneca.",
+                "en": "The ground is often frozen; step firmly to avoid slipping."
+              }
+            },
+            {
+              "name": "Monastery of Uclés and Castle",
+              "tip_5lang": {
+                "de": "Bewahren Sie Ihr Ticket griffbereit auf, um die Hände nicht lange aus den Taschen zu nehmen.",
+                "hu": "Tartsa a jegyét kéznél, hogy ne kelljen sokáig kivenni a kezét a zsebéből.",
+                "ro": "Țineți biletul la îndemână pentru a nu scoate mâinile din buzunare prea mult timp.",
+                "en": "Keep your ticket handy so you don't have to keep your hands out of your pockets."
+              }
+            },
+            {
+              "name": "Uclés Wall and Water Gate",
+              "tip_5lang": {
+                "de": "Der Wind pfeift durch das Tor; ziehen Sie Schal und Mütze fest.",
+                "hu": "A szél átfütyül a kapun; húzza szorosra a sálat és a sapkát.",
+                "ro": "Vântul șuieră prin poartă; strângeți bine fularul și căciula.",
+                "en": "The wind whistles through the gate; tighten your scarf and hat."
+              }
+            },
+            {
+              "name": "Ancient Granary (Antiguo Pósito)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Gebäude zum kurzen Aufwärmen.",
+                "hu": "Használja ki az épület fűtését egy rövid felmelegedésre.",
+                "ro": "Folosiți încălzirea din clădire pentru o scurtă încălzire.",
+                "en": "Take advantage of the heating in the building to warm up briefly."
+              }
+            },
+            {
+              "name": "Hermitage of Las Angustias",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Sie den Fahrplan für die Rückfahrt im Kopf haben.",
+                "hu": "Győződjön meg róla, hogy fejből tudja a visszaút menetrendjét.",
+                "ro": "Asigurați-vă că aveți în minte orarul pentru drumul de întoarcere.",
+                "en": "Make sure you have the return schedule in mind before leaving."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche, da Sie beim Warten auf den Bus schnell auskühlen.",
+              "Die Gehwege sind schmal; bei Eisbildung weichen Sie auf die Mitte der Straße aus.",
+              "Packen Sie ein paar Taschenwärmer ein, die Sie bei Bedarf aktivieren können.",
+              "Die Busse sind im Winter meist gut geheizt, ein schöner Kontrast zur Außenluft.",
+              "In der Dämmerung ist es ratsam, helle Kleidung zu tragen, um gesehen zu werden."
+            ],
+            "hu": [
+              "Viseljen termikus fehérneműt, mert a buszra várva gyorsan lehűlhet.",
+              "A járdák szűkek; jegesedés esetén húzódjon az út közepe felé.",
+              "Csomagoljon néhány zsebmelegítőt, amiket szükség esetén aktiválhat.",
+              "A buszok télen általában jól fűtöttek, ami kellemes kontraszt a kinti levegővel.",
+              "Szürkületben ajánlatos világos ruhát viselni a láthatóság érdekében."
+            ],
+            "ro": [
+              "Purtați lenjerie termică, deoarece vă puteți răci rapid așteptând autobuzul.",
+              "Trotuarele sunt înguste; în caz de îngheț, deplasați-vă spre mijlocul străzii.",
+              "Luați câteva încălzitoare de mâini pe care să le activați la nevoie.",
+              "Autobuzele sunt de obicei bine încălzite iarna, un contrast plăcut cu aerul de afară.",
+              "La amurg este recomandat să purtați haine deschise la culoare pentru a fi vizibili."
+            ],
+            "en": [
+              "Wear thermal underwear as you cool down quickly while waiting for the bus.",
+              "The sidewalks are narrow; if ice forms, move towards the middle of the road.",
+              "Pack a few hand warmers that you can activate when needed.",
+              "Buses are usually well-heated in winter, a nice contrast to the outside air.",
+              "At twilight, it is advisable to wear light-colored clothing to be seen."
+            ]
+          }
+        }
       }
     }
   }

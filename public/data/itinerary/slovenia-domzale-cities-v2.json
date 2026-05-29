@@ -352,6 +352,188 @@
           "Bring a reusable water bottle; there are public fountains available.",
           "Most sights are close together, making walking the ideal way to get around."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Kulturhaus, um dem Regen zu entfliehen. Später bietet das Strohhutmuseum einen trockenen Einblick in die lokale Geschichte. Der Spaziergang an der Kamniška Bistrica ist trotz grauer Wolken stimmungsvoll, solange Sie wasserfeste Kleidung tragen. Den Abschluss bildet der Sportpark, wo man unter den Bäumen etwas Schutz findet.",
+            "hu": "A reggelt kezdje a Kulturális Házban, védve az esőtől. Délben a Szalmakalap Múzeum kínál tartalmas beltéri programot. A Kamniška Bistrica partján tett séta esőben is hangulatos, ha van megfelelő lábbelije. A napot a Sportparkban zárhatja, ahol a sűrűbb lombok némi menedéket nyújtanak a szemerkélő eső elől.",
+            "ro": "Începeți ziua la Casa de Cultură, feriți de ploaie. La prânz, Muzeul Pălăriilor de Paie oferă o excelentă alternativă de interior. Plimbarea pe malul râului Kamniška Bistrica este atmosferică chiar și sub nori, cu condiția să aveți pelerină. Încheiați ziua în Parcul Sportiv, unde copacii oferă o protecție parțială împotriva stropilor.",
+            "en": "Start your morning at the Cultural Home to stay dry. Midday is best spent inside the Straw Hat Museum, learning local history. A walk by the Kamniška Bistrica remains scenic in the rain with the right gear. Finish your day at the Sports Park, where the trail is well-maintained even when wet."
+          },
+          "stops": [
+            {
+              "name": "Domžale Cultural Home",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ersten Regenschauer trocken zu überstehen.",
+                "hu": "Tökéletes helyszín az első esőfelhők átvészeléséhez.",
+                "ro": "Locul perfect pentru a aștepta trecerea primelor picături.",
+                "en": "The perfect indoor spot to wait out the first rain showers."
+              }
+            },
+            {
+              "name": "Park of Remembrance",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege verhindern schlammige Schuhe.",
+                "hu": "Az aszfaltozott utak megvédik a cipőt a sártól.",
+                "ro": "Aleile asfaltate vă feresc de noroi.",
+                "en": "Paved paths ensure you won't get muddy shoes."
+              }
+            },
+            {
+              "name": "Groblje Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Innere, um die barocken Fresken im Trockenen zu bewundern.",
+                "hu": "Menjen be a barokk freskókhoz, ott garantáltan száraz marad.",
+                "ro": "Vizitați interiorul pentru frescele baroce, la adăpost.",
+                "en": "Head inside to admire baroque frescoes while staying dry."
+              }
+            },
+            {
+              "name": "Straw Hat Museum",
+              "tip_5lang": {
+                "de": "Das ideale Ziel für einen ausgiebigen Museumsbesuch bei Regen.",
+                "hu": "Ideális célpont egy hosszabb múzeumi látogatáshoz esőben.",
+                "ro": "Destinația ideală pentru o vizită prelungită la muzeu pe ploaie.",
+                "en": "Ideal destination for an extended museum visit during rain."
+              }
+            },
+            {
+              "name": "Kamniška Bistrica River",
+              "tip_5lang": {
+                "de": "Ein Regenschirm ist wegen des offenen Geländes am Fluss notwendig.",
+                "hu": "A nyílt terep miatt a folyóparton mindenképpen kell az esernyő.",
+                "ro": "Umbrela este necesară pe malul deschis al râului.",
+                "en": "An umbrella is essential on the open river banks."
+              }
+            },
+            {
+              "name": "Domžale Sports Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche bei den Tribünen.",
+                "hu": "Használja a lelátók melletti fedett részeket pihenőnek.",
+                "ro": "Folosiți zonele acoperite de lângă tribune pentru odihnă.",
+                "en": "Use the covered areas near the stands for shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Flusswege.",
+              "Ein stabiler Regenschirm ist bei Wind in Domžale wichtig.",
+              "Das Strohhutmuseum ist der beste Ort für eine lange Regenpause.",
+              "Nutzen Sie die Cafés im Zentrum zum Aufwärmen."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a folyóparti ösvényekhez.",
+              "A szeles idő miatt egy stabil esernyő elengedhetetlen.",
+              "A Szalmakalap Múzeum a legjobb hely esőnapra.",
+              "Használja a városközpont kávézóit melegedőnek."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru potecile de pe malul râului.",
+              "O umbrelă rezistentă este necesară din cauza vântului.",
+              "Muzeul Pălăriilor de Paie este cea mai bună opțiune pe ploaie.",
+              "Folosiți cafenelele din centru pentru a vă încălzi."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the river paths.",
+              "A sturdy umbrella is a must due to potential wind.",
+              "The Straw Hat Museum is the best refuge for a rainy day.",
+              "Take advantage of central cafes for a warm break."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt kulturell im Warmen. Der Park des Gedenkens wirkt im Frost besonders friedlich. Nach dem Besuch der Groblje-Kirche bietet das Strohhutmuseum eine willkommene Aufwärmpause. Der Flussweg ist bei Wintersonne herrlich, aber achten Sie auf das frühe Licht. Der Tag endet im Sportpark, bevor die Kälte am späten Nachmittag anzieht.",
+            "hu": "A tiszta téli reggel a kultúra jegyében, fűtött térben indul. Az Emlékezés Parkja a dérlepte fákkal különösen békés. A Groblje templom után a Szalmakalap Múzeum kínál kellemes melegedőt. A folyóparti séta a téli napsütésben gyönyörű, de figyeljen a korai sötétedésre. A nap a Sportparkban zárul, mielőtt a késő délutáni fagy beállna.",
+            "ro": "O dimineață senină de iarnă începe cu momente culturale la căldură. Parcul Memorial pare deosebit de liniștit sub brumă. După biserica Groblje, Muzeul Pălăriilor oferă o pauză binemeritată la căldură. Malul râului este superb în soarele de iarnă, dar atenție la lumina scurtă. Ziua se încheie în Parcul Sportiv înainte de gerul serii.",
+            "en": "A crisp winter morning starts with indoor culture. The Park of Remembrance looks peaceful covered in frost. After the church visit, the Straw Hat Museum provides a cozy warming break. The river path is stunning in winter sun, but mind the early sunset. End your tour at the Sports Park before the late afternoon chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Domžale Cultural Home",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Atmosphäre im Inneren.",
+                "hu": "Élvezze a benti meleg, kulturális környezetet.",
+                "ro": "Bucurați-vă de atmosfera caldă din interior.",
+                "en": "Enjoy the warm cultural atmosphere inside."
+              }
+            },
+            {
+              "name": "Park of Remembrance",
+              "tip_5lang": {
+                "de": "Vorsicht bei überfrorenen Wegen am frühen Morgen.",
+                "hu": "Vigyázat, a reggeli órákban az utak lefagyhatnak.",
+                "ro": "Atenție la aleile înghețate dimineața devreme.",
+                "en": "Watch out for icy patches on the paths early in the morning."
+              }
+            },
+            {
+              "name": "Groblje Church",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich kurz im Vorraum auf, während Sie die Kunst betrachten.",
+                "hu": "Melegedjen meg az előcsarnokban, amíg a művészeti leleteket nézi.",
+                "ro": "Încălziți-vă în pridvor în timp ce admirați arta.",
+                "en": "Warm up briefly in the foyer while viewing the art."
+              }
+            },
+            {
+              "name": "Straw Hat Museum",
+              "tip_5lang": {
+                "de": "Perfekt für eine ausgiebige Pause im beheizten Museum.",
+                "hu": "Tökéletes egy hosszabb szünetre a fűtött múzeumban.",
+                "ro": "Perfect pentru o pauză prelungită în muzeul încălzit.",
+                "en": "Perfect for a long break in the heated museum."
+              }
+            },
+            {
+              "name": "Kamniška Bistrica River",
+              "tip_5lang": {
+                "de": "Tragen Sie Schichten, der Wind am Fluss kann sehr kalt sein.",
+                "hu": "Öltözzön rétegesen, a folyóparti szél metsző lehet.",
+                "ro": "Îmbrăcați-vă în straturi, vântul de pe râu este tăios.",
+                "en": "Dress in layers; the wind by the river can be biting."
+              }
+            },
+            {
+              "name": "Domžale Sports Park",
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16 Uhr an, um das letzte Tageslicht zu nutzen.",
+                "hu": "Érkezzen 16 óra előtt, hogy kihasználja az utolsó fényeket.",
+                "ro": "Sosiți înainte de ora 16 pentru a prinde ultima lumină.",
+                "en": "Arrive before 4 PM to catch the last daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermounterwäsche ist für lange Spaziergänge ratsam.",
+              "Die Sonne geht im Winter gegen 16:30 Uhr unter.",
+              "Nehmen Sie einen Thermosbecher mit warmem Tee mit.",
+              "Einige Wege am Fluss werden nicht gestreut, Vorsicht vor Glätte."
+            ],
+            "hu": [
+              "Hosszú sétákhoz javasolt a thermo alsónemű.",
+              "Télen a nap 16:30 körül nyugszik.",
+              "Vigyen magával termoszban meleg teát.",
+              "A folyóparti utak jegesek lehetnek, vigyázzon a csúszással."
+            ],
+            "ro": [
+              "Lenjeria termică este recomandată pentru plimbări lungi.",
+              "Iarna soarele apune în jur de ora 16:30.",
+              "Luați un termos cu ceai cald la purtător.",
+              "Potecile de pe râu pot fi alunecoase, atenție la gheață."
+            ],
+            "en": [
+              "Thermal underwear is recommended for long walks.",
+              "Sunset occurs around 4:30 PM in winter.",
+              "Carry a thermos with warm tea to stay cozy.",
+              "River paths may not be salted; beware of ice."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -698,6 +880,188 @@
           "A helmet is highly recommended.",
           "Plan your route in advance, but be flexible to explore unexpected places."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour zum Schloss Krumperk erfordert bei Regen gute Ausrüstung. Nach dem Anstieg wärmt die Schlossatmosphäre auf. Zurück im Tal bietet das Strohhutmuseum Schutz. Die Wege an der Kamniška Bistrica können rutschig sein, fahren Sie vorsichtig. Den Abschluss bildet die Eisenhöhle, wo es ohnehin feucht ist, was den Regen draußen vergessen lässt.",
+            "hu": "A Krumperk várához vezető kerékpártúra esőben jó felszerelést igényel. A kaptató után a vár hangulata kárpótolja. A völgybe visszatérve a Szalmakalap Múzeum nyújt menedéket. A folyóparti utak csúszósak lehetnek, óvatosan hajtson. A napot a Železna jama zárja, ahol a benti pára miatt elfelejtheti a kinti esőt.",
+            "ro": "Turul cu bicicleta spre castelul Krumperk necesită echipament bun pe ploaie. După urcare, atmosfera castelului vă va încălzi. Reveniți în vale pentru adăpost la Muzeul Pălăriilor. Aleile de pe râu pot fi alunecoase, pedalați cu prudență. Încheiați la Peștera de Fier, unde umezeala interioară vă face să uitați de ploaie.",
+            "en": "Cycling to Krumperk Castle in the rain demands waterproof gear. After the climb, the castle's history warms you up. Back in town, the museum provides a dry sanctuary. River paths can be slippery, so bike with caution. Finish at the Iron Cave, where it's naturally damp, making the rain outside irrelevant."
+          },
+          "stops": [
+            {
+              "name": "Krumperk Castle",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem unbefestigten Weg zum Schloss bei Nässe.",
+                "hu": "Vigyázat, a várba vezető földút esőben csúszós lehet.",
+                "ro": "Atenție la drumul neasfaltat spre castel când este ud.",
+                "en": "Be careful on the unpaved path to the castle when wet."
+              }
+            },
+            {
+              "name": "Domžale Sports Park",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Dach, um die Ausrüstung zu prüfen.",
+                "hu": "Rövid megálló a tető alatt, hogy ellenőrizze a felszerelését.",
+                "ro": "Oprire scurtă sub acoperiș pentru a verifica echipamentul.",
+                "en": "Short stop under cover to check your gear."
+              }
+            },
+            {
+              "name": "Kamniška Bistrica River",
+              "tip_5lang": {
+                "de": "Bremsen Sie vorsichtig auf dem nassen Asphalt am Fluss.",
+                "hu": "Óvatosan fékezzen a folyóparti vizes aszfalton.",
+                "ro": "Frânați cu grijă pe asfaltul ud de lângă râu.",
+                "en": "Brake gently on the wet asphalt along the river."
+              }
+            },
+            {
+              "name": "Straw Hat Museum",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer direkt am Museumseingang.",
+                "hu": "Biztonságos kerékpártárolók közvetlenül a múzeumnál.",
+                "ro": "Rafturi securizate pentru biciclete chiar la intrare.",
+                "en": "Secure bike racks available right at the museum entrance."
+              }
+            },
+            {
+              "name": "Domžale Cultural Home",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingang für eine kurze Pause.",
+                "hu": "Használja a fedett bejáratot egy rövid pihenőre.",
+                "ro": "Folosiți intrarea acoperită pentru o pauză scurtă.",
+                "en": "Use the covered entrance for a quick breather."
+              }
+            },
+            {
+              "name": "Iron Cave (Železna jama)",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, da es in der Höhle ohnehin feucht ist.",
+                "hu": "Ideális helyszín, a barlangban úgyis párás az idő.",
+                "ro": "Locație ideală, oricum este umiditate în peșteră.",
+                "en": "Ideal spot as the cave is naturally damp anyway."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei Regen unerlässlich.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Die Waldwege nach Krumperk können sehr matschig sein.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Abfahrt."
+            ],
+            "hu": [
+              "A sárvédő használata esőben elengedhetetlen.",
+              "Viseljen feltűnő esőkabátot a láthatóságért.",
+              "A Krumperk felé vezető erdei utak nagyon sárosak lehetnek.",
+              "Indulás előtt ellenőrizze a fékbetéteket."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale pe ploaie.",
+              "Purtați o pelerină reflectorizantă pentru vizibilitate.",
+              "Drumurile forestiere spre Krumperk pot fi noroioase.",
+              "Verificați frânele înainte de plecare."
+            ],
+            "en": [
+              "Mudguards are essential for rainy cycling.",
+              "Wear a bright raincoat for better visibility to drivers.",
+              "Forest paths to Krumperk can get very muddy.",
+              "Check your brake pads before starting the tour."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour führt durch die frostige Landschaft nach Krumperk. Die klare Luft bietet tolle Ausblicke auf die Alpen. Wärmen Sie sich zwischendurch im Strohhutmuseum auf. Der Flussweg ist meist geräumt, aber Vorsicht vor Glatteisstellen. Die Eisenhöhle bietet mit konstanten 10 Grad einen fast 'warmen' Abschluss im Vergleich zur Außenluft.",
+            "hu": "Téli kerékpártúra a zúzmarás tájon át Krumperk felé. A tiszta levegő csodás kilátást nyújt az Alpokra. Útközben melegedjen fel a Szalmakalap Múzeumban. A folyóparti utat általában takarítják, de vigyázzon a jégfoltokkal. A Železna jama a maga állandó 10 fokával szinte 'meleg' zárás a kinti fagyhoz képest.",
+            "ro": "O tură de iarnă cu bicicleta prin peisajul înghețat spre Krumperk. Aerul curat oferă panorame superbe spre Alpi. Încălziți-vă pe traseu la Muzeul Pălăriilor. Aleile de pe râu sunt curățate, dar atenție la gheață. Peștera de Fier oferă o încheiere aproape 'caldă' cu cele 10 grade constante.",
+            "en": "A winter bike ride through the frosty landscape towards Krumperk. Clear air offers great views of the Alps. Warm up during the day at the Straw Hat Museum. The river path is usually cleared, but watch for black ice. The Iron Cave, with its constant 10°C, feels almost 'warm' compared to the winter air outside."
+          },
+          "stops": [
+            {
+              "name": "Krumperk Castle",
+              "tip_5lang": {
+                "de": "Das Schloss sieht im Winterschnee besonders märchenhaft aus.",
+                "hu": "A vár téli hóban különösen mesés látványt nyújt.",
+                "ro": "Castelul arată ca în povești sub zăpada iernii.",
+                "en": "The castle looks especially fairytale-like in winter snow."
+              }
+            },
+            {
+              "name": "Domžale Sports Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei Kurven auf den gefrorenen Wegen.",
+                "hu": "Vigyázzon a kanyarokban a fagyott utakon.",
+                "ro": "Atenție la viraje pe aleile înghețate.",
+                "en": "Be careful when cornering on frozen paths."
+              }
+            },
+            {
+              "name": "Kamniška Bistrica River",
+              "tip_5lang": {
+                "de": "Genießen Sie das Alpenpanorama bei klarer Winterluft.",
+                "hu": "Élvezze az alpesi panorámát a tiszta téli levegőben.",
+                "ro": "Admirați panorama Alpilor în aerul curat de iarnă.",
+                "en": "Enjoy the Alpine panorama in the crisp winter air."
+              }
+            },
+            {
+              "name": "Straw Hat Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch, um die steifen Finger aufzuwärmen.",
+                "hu": "Használja ki a látogatást az elmacskásodott ujjak felmelegítésére.",
+                "ro": "Profită de vizită pentru a-ți încălzi degetele amorțite.",
+                "en": "Use the visit to warm up your stiff fingers."
+              }
+            },
+            {
+              "name": "Domžale Cultural Home",
+              "tip_5lang": {
+                "de": "Prüfen Sie hier das aktuelle Wetter für den Rückweg.",
+                "hu": "Itt ellenőrizze az aktuális időjárást a hazatéréshez.",
+                "ro": "Verificați aici prognoza pentru drumul de întoarcere.",
+                "en": "Check the local weather forecast here for the ride back."
+              }
+            },
+            {
+              "name": "Iron Cave (Železna jama)",
+              "tip_5lang": {
+                "de": "Konstante 10 Grad fühlen sich im Winter warm an.",
+                "hu": "Az állandó 10 fok télen szinte melegnek hat.",
+                "ro": "Temperatura de 10 grade se simte caldă iarna.",
+                "en": "Constant 10°C feels warm compared to the winter outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfeste Handschuhe sind beim Radfahren Pflicht.",
+              "Achten Sie auf Streusalz, es kann den Antrieb angreifen.",
+              "Vermeiden Sie schattige Waldwege wegen Eisgefahr.",
+              "Die Sonne verschwindet früh hinter den Bergen."
+            ],
+            "hu": [
+              "Téli kesztyű használata kerékpározáshoz kötelező.",
+              "Ügyeljen a szórósóra, kárt tehet a láncban.",
+              "Kerülje az árnyékos erdei utakat a jégveszély miatt.",
+              "A nap korán eltűnik a hegyek mögött."
+            ],
+            "ro": [
+              "Mănușile de iarnă sunt obligatorii pentru ciclism.",
+              "Atenție la sarea de pe drum, poate afecta lanțul.",
+              "Evitați drumurile forestiere umbrite din cauza gheții.",
+              "Soarele dispare devreme după munți."
+            ],
+            "en": [
+              "Winter-proof gloves are mandatory for cycling.",
+              "Watch out for road salt; it can corrode your bike chain.",
+              "Avoid shaded forest paths due to ice risk.",
+              "The sun disappears early behind the nearby mountains."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1074,6 +1438,206 @@
           "Use GPS for easy navigation between the locations.",
           "Check parking fees in the city center; it's often cheaper to park slightly further away."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Domžale auch bei Regen komfortabel. Starten Sie beim Schloss Krumperk und der Eisenhöhle, die beide wetterunabhängig sind. Parken Sie im Zentrum nahe dem Strohhutmuseum für einen trockenen Museumsbesuch. Die barocke Kirche von Groblje ist nur einen kurzen Sprung vom Parkplatz entfernt. Die Flusspromenaden lassen sich am besten bei Regenpausen kurz genießen.",
+            "hu": "Autóval esőben is kényelmesen felfedezheti Domžale környékét. Kezdjen a Krumperk várnál és a Železna jamánál, mindkettő időjárásfüggetlen. Parkoljon a központban a Szalmakalap Múzeum közelében. A grobljei barokk templom csak egy rövid ugrás a parkolótól. A folyóparti sétányokat a legjobb az esőszünetekben gyorsan meglátogatni.",
+            "ro": "Cu mașina, explorați Domžale confortabil chiar și pe ploaie. Începeți cu castelul Krumperk și Peștera de Fier, ambele fiind accesibile pe orice vreme. Parcați în centru lângă Muzeul Pălăriilor pentru o vizită uscată. Biserica barocă din Groblje este la doi pași de parcare. Promenadele de pe râu pot fi vizitate scurt în pauzele dintre reprizele de ploaie.",
+            "en": "By car, you can explore Domžale comfortably even in heavy rain. Start with Krumperk Castle and the Iron Cave, both great regardless of weather. Park in the center near the Straw Hat Museum for a dry visit. Groblje Church is just a short dash from the parking lot. Enjoy the river views briefly during breaks in the rain."
+          },
+          "stops": [
+            {
+              "name": "Krumperk Castle",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Schlosseingang, um trocken zu bleiben.",
+                "hu": "Parkoljon közvetlenül a várbejáratnál, hogy száraz maradjon.",
+                "ro": "Parcați chiar la intrarea castelului pentru a rămâne uscat.",
+                "en": "Park right by the castle entrance to stay dry."
+              }
+            },
+            {
+              "name": "Iron Cave (Železna jama)",
+              "tip_5lang": {
+                "de": "Ideales Ausflugsziel bei Regen, da komplett unterirdisch.",
+                "hu": "Ideális kirándulóhely esőben, mivel teljesen föld alatti.",
+                "ro": "Destinație ideală pe ploaie, fiind complet subterană.",
+                "en": "Perfect rainy day destination as it is entirely underground."
+              }
+            },
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz, idealer Ausgangspunkt für die Museen.",
+                "hu": "Központi parkoló, ideális kiindulópont a múzeumokhoz.",
+                "ro": "Parcare centrală, punct de plecare ideal pentru muzee.",
+                "en": "Central parking, ideal starting point for the museums."
+              }
+            },
+            {
+              "name": "Straw Hat Museum",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg vom Parkhaus entfernt.",
+                "hu": "Mindössze 2 perc séta a parkolóháztól.",
+                "ro": "La doar 2 minute de mers pe jos de parcare.",
+                "en": "Only a 2-minute walk from the parking garage."
+              }
+            },
+            {
+              "name": "Groblje Church",
+              "tip_5lang": {
+                "de": "Es gibt Parkmöglichkeiten direkt vor der Kirche.",
+                "hu": "Közvetlenül a templom előtt van parkolási lehetőség.",
+                "ro": "Există locuri de parcare chiar în fața bisericii.",
+                "en": "Parking is available directly in front of the church."
+              }
+            },
+            {
+              "name": "Park of Remembrance",
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang ist auch bei leichtem Regen schön.",
+                "hu": "Egy rövid séta könnyű esőben is kellemes itt.",
+                "ro": "O scurtă plimbare este plăcută aici chiar și pe ploaie ușoară.",
+                "en": "A short walk here is pleasant even during light rain."
+              }
+            },
+            {
+              "name": "Banks of Kamniška Bistrica River",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Fluss aus dem Auto.",
+                "hu": "Élvezze a folyóra nyíló kilátást az autóból.",
+                "ro": "Admirați vederea spre râu direct din mașină.",
+                "en": "Enjoy the river views from the comfort of your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie einen Regenschirm im Kofferraum bereit.",
+              "Zentrale Parkplätze in Domžale sind oft gebührenpflichtig.",
+              "Die Höhle bietet perfekten Schutz vor starkem Regen.",
+              "Fahren Sie vorsichtig auf den schmalen Wegen nach Krumperk."
+            ],
+            "hu": [
+              "Tartson esernyőt az autó csomagtartójában.",
+              "Domžale központi parkolói gyakran fizetősek.",
+              "A barlang tökéletes menedék heves esőzés esetén.",
+              "Vezessen óvatosan a Krumperk felé vezető szűk utakon."
+            ],
+            "ro": [
+              "Țineți o umbrelă pregătită în portbagaj.",
+              "Parcările centrale din Domžale sunt adesea cu plată.",
+              "Peștera oferă protecție perfectă împotriva ploii torențiale.",
+              "Conduceți cu prudență pe drumurile înguste spre Krumperk."
+            ],
+            "en": [
+              "Keep an umbrella ready in the trunk of your car.",
+              "Central parking in Domžale often requires a fee.",
+              "The cave provides perfect shelter from heavy rain.",
+              "Drive carefully on the narrow roads leading to Krumperk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Auto ideal, um die Sehenswürdigkeiten rund um Domžale zu verbinden. Beginnen Sie beim Schloß Krumperk, das im Frost imposant wirkt. Die Eisenhöhle bleibt frostfrei. Im Zentrum besuchen Sie das Strohhutmuseum und die Groblje-Kirche, bevor es zum Flussufer geht. Genießen Sie die winterliche Landschaft der Kamniška Bistrica, bevor die Dämmerung einsetzt.",
+            "hu": "Télen az autó ideális Domžale környéki látnivalók összekötésére. Kezdjen a Krumperk várnál, amely fagyos időben impozáns látvány. A Železna jama fagymentes marad. A központban látogassa meg a Szalmakalap Múzeumot és a grobljei templomot, majd irány a folyópart. Élvezze a téli tájat, mielőtt leszállna az est.",
+            "ro": "Iarna, mașina este ideală pentru a vizita atracțiile din jurul Domžale. Începeți la castelul Krumperk, care arată impunător pe ger. Peștera de Fier rămâne ferită de îngheț. În centru, vizitați Muzeul Pălăriilor și biserica Groblje înainte de a merge la râu. Admirați peisajul de iarnă înainte de amurg.",
+            "en": "In winter, a car is the best way to connect the sights around Domžale. Start at Krumperk Castle, which looks imposing in the frost. The Iron Cave remains ice-free. In the center, visit the Straw Hat Museum and Groblje Church before heading to the riverbank. Enjoy the winter scenery before dusk falls."
+          },
+          "stops": [
+            {
+              "name": "Krumperk Castle",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schnee auf der steilen Zufahrt zum Schloss.",
+                "hu": "Vigyázat, a várba vezető meredek út havas lehet.",
+                "ro": "Atenție la zăpadă pe drumul abrupt spre castel.",
+                "en": "Be careful of snow on the steep access road to the castle."
+              }
+            },
+            {
+              "name": "Iron Cave (Železna jama)",
+              "tip_5lang": {
+                "de": "Frostfrei und mit konstanter Temperatur ein guter Winterstopp.",
+                "hu": "Fagymentes és állandó hőmérsékletű, jó téli megálló.",
+                "ro": "Fără îngheț și cu temperatură constantă, o oprire bună iarna.",
+                "en": "Frost-free with a constant temperature, a great winter stop."
+              }
+            },
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird im Winter geräumt und gestreut.",
+                "hu": "A parkolót télen takarítják és sózzák.",
+                "ro": "Parcarea este curățată și presărată cu sare iarna.",
+                "en": "The parking lot is cleared and salted during winter."
+              }
+            },
+            {
+              "name": "Straw Hat Museum",
+              "tip_5lang": {
+                "de": "Ein kurzer Weg vom Auto ins beheizte Gebäude.",
+                "hu": "Rövid út az autótól a fűtött épületig.",
+                "ro": "Drum scurt de la mașină până în clădirea încălzită.",
+                "en": "A short dash from the car into the heated building."
+              }
+            },
+            {
+              "name": "Groblje Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im weichen Winterlicht.",
+                "hu": "Csodálja meg az építészetet a lágy téli fényben.",
+                "ro": "Admirați arhitectura în lumina blândă a iernii.",
+                "en": "Admire the architecture in the soft winter light."
+              }
+            },
+            {
+              "name": "Park of Remembrance",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Winterfotos im verschneiten Park.",
+                "hu": "Rövid megálló téli fotókhoz a havas parkban.",
+                "ro": "Oprire scurtă pentru fotografii de iarnă în parcul înzăpezit.",
+                "en": "Short stop for winter photos in the snowy park."
+              }
+            },
+            {
+              "name": "Banks of Kamniška Bistrica River",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Ufer bei Glatteisgefahr nach Sonnenuntergang.",
+                "hu": "Naplemente után kerülje a partot a jegesedés miatt.",
+                "ro": "Evitați malul după apus din cauza riscului de gheață.",
+                "en": "Avoid the riverbank after sunset due to ice risks."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Slowenien ab dem 15. November Pflicht.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Die Straßen nach Krumperk können bei Glätte tückisch sein.",
+              "Planen Sie Ihre Rückfahrt vor 17:00 Uhr wegen der Dunkelheit."
+            ],
+            "hu": [
+              "Szlovéniában november 15-től kötelező a téli gumi.",
+              "Legyen Önnél jégkaparó és fagyálló folyadék.",
+              "A Krumperk felé vezető utak csúszósak és trükkösek lehetnek.",
+              "A sötétedés miatt tervezze a visszautat 17:00 előtt."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Slovenia din 15 noiembrie.",
+              "Aveți la îndemână o racletă și lichid de parbriz de iarnă.",
+              "Drumurile spre Krumperk pot fi înșelătoare pe polei.",
+              "Planificați întoarcerea înainte de ora 17:00 din cauza întunericului."
+            ],
+            "en": [
+              "Winter tires are mandatory in Slovenia from Nov 15th.",
+              "Keep an ice scraper and antifreeze fluid in your car.",
+              "The roads to Krumperk can be treacherous when icy.",
+              "Plan your return before 5 PM to avoid driving in total darkness."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1426,6 +1990,188 @@
           "Have small change ready for tickets in case you can't buy in advance.",
           "Be aware of the last bus of the day, especially from outlying locations like the castle."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Bus, um Domžale bei Regen zu erkunden. Vom Hauptstopp erreichen Sie schnell das Kulturhaus und das Strohhutmuseum. Die Busfahrt zum Sportpark spart nasse Füße. Für das Schloss Krumperk prüfen Sie die Verbindungen genau, da der Fußweg von der Haltestelle bei Regen länger wirken kann. Die Museen sind Ihre besten Verbündeten gegen das Wetter.",
+            "hu": "Használja a buszt Domžale felfedezéséhez esőben. A fő megállótól gyorsan elérheti a Kulturális Házat és a Szalmakalap Múzeumot. A buszozás a Sportparkig megkíméli a lábát az ázástól. A Krumperk várhoz nézze meg pontosan a járatokat, mert esőben hosszabbnak tűnhet a séta a megállótól. A múzeumok a legjobb szövetségesei az időjárás ellen.",
+            "ro": "Folosiți autobuzul pentru a explora Domžale pe ploaie. De la stația principală ajungeți rapid la Casa de Cultură și Muzeul Pălăriilor. Călătoria spre Parcul Sportiv vă ferește de picioare ude. Pentru castelul Krumperk, verificați orarul, deoarece mersul pe jos de la stație poate părea lung pe ploaie.",
+            "en": "Use the bus to explore Domžale while staying dry. From the main stop, you can quickly reach the Cultural Home and Straw Hat Museum. Taking the bus to the Sports Park saves you from wet feet. For Krumperk Castle, check connections carefully, as the walk from the stop can feel longer in the rain."
+          },
+          "stops": [
+            {
+              "name": "Domžale Main Bus Stop",
+              "tip_5lang": {
+                "de": "Überdachte Haltestelle, ideal zum Umsteigen bei Regen.",
+                "hu": "Fedett megálló, ideális átszálláshoz esőben.",
+                "ro": "Stație acoperită, ideală pentru transfer pe ploaie.",
+                "en": "Covered bus stop, ideal for transfers during rain."
+              }
+            },
+            {
+              "name": "Domžale Cultural Home",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Weg von der Haltestelle zum Eingang.",
+                "hu": "Csak egy rövid séta a megállótól a bejáratig.",
+                "ro": "Doar o scurtă plimbare de la stație până la intrare.",
+                "en": "Just a short walk from the bus stop to the entrance."
+              }
+            },
+            {
+              "name": "Straw Hat Museum",
+              "tip_5lang": {
+                "de": "Ein kurzer Spurt durch den Regen führt Sie ins Trockene.",
+                "hu": "Egy rövid sprint az esőben és már bent is van a szárazon.",
+                "ro": "Un scurt sprint prin ploaie și sunteți la adăpost.",
+                "en": "A short dash through the rain leads you to safety."
+              }
+            },
+            {
+              "name": "Sports Park Bus Stop",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Wartehäuschen auf den Rückbus.",
+                "hu": "Várjon a buszmegálló várójában a visszaúthoz.",
+                "ro": "Așteptați sub copertina stației autobuzul de întoarcere.",
+                "en": "Wait under the bus shelter for your return trip."
+              }
+            },
+            {
+              "name": "Domžale Sports Park",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist der Aufenthalt hier eher kurz zu halten.",
+                "hu": "Heves esőben a tartózkodás itt javasolt rövidre fogni.",
+                "ro": "Pe ploaie torențială, vizita aici ar trebui să fie scurtă.",
+                "en": "During heavy rain, keep your visit here brief."
+              }
+            },
+            {
+              "name": "Krumperk Castle",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Busfahrplan für die Rückfahrt vorab.",
+                "hu": "Előre ellenőrizze a buszmenetrendet a visszaúthoz.",
+                "ro": "Verificați orarul autobuzului pentru întoarcere în avans.",
+                "en": "Check the bus schedule for your return trip beforehand."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bustickets können oft beim Fahrer gekauft werden.",
+              "Die App 'Ljubljana Bus' hilft bei Fahrplänen.",
+              "An Sonntagen fahren die Busse seltener.",
+              "Nehmen Sie einen Schirm für den Weg zum Schloss mit."
+            ],
+            "hu": [
+              "A buszjegyek gyakran a sofőrnél is megvásárolhatók.",
+              "A 'Ljubljana Bus' app segít a menetrendeknél.",
+              "Vasárnap ritkábban járnak a buszok.",
+              "Vigyen esernyőt a várhoz vezető sétához."
+            ],
+            "ro": [
+              "Biletele de autobuz pot fi cumpărate adesea de la șofer.",
+              "Aplicația 'Ljubljana Bus' ajută cu orarele.",
+              "Duminica autobuzele circulă mai rar.",
+              "Luați o umbrelă pentru drumul spre castel."
+            ],
+            "en": [
+              "Bus tickets can often be purchased from the driver.",
+              "The 'Ljubljana Bus' app is helpful for schedules.",
+              "Buses run less frequently on Sundays.",
+              "Bring an umbrella for the walk to the castle."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel bieten im Winter eine warme Basis für Ihre Tour. Besuchen Sie die kulturellen Highlights im Zentrum mit dem Bus. Das Strohhutmuseum ist ein Muss für frostige Tage. Die Fahrt zum Schloss Krumperk führt durch die verschneite Landschaft, beachten Sie aber den Fußweg im Kalten. Die beheizten Busse sind perfekt, um sich zwischen den Stationen aufzuwärmen.",
+            "hu": "A tömegközlekedés télen meleg bázist nyújt a túrához. Látogassa meg a központi kulturális helyszíneket busszal. A Szalmakalap Múzeum kötelező program a fagyos napokon. A buszos út a Krumperk várhoz havas tájon át vezet, de számoljon a hideg sétával a megállótól. A fűtött buszok tökéletesek a megállók közötti felmelegedéshez.",
+            "ro": "Transportul public oferă o bază caldă pentru turul de iarnă. Vizitați atracțiile culturale din centru cu autobuzul. Muzeul Pălăriilor este obligatoriu în zilele geroase. Drumul cu autobuzul spre castelul Krumperk trece prin peisaje înzăpezite, dar atenție la mersul pe jos în frig. Autobuzele încălzite sunt perfecte pentru reîncălzire.",
+            "en": "Public transport provides a warm base for your winter tour. Visit the cultural highlights in the center by bus. The Straw Hat Museum is a must on frosty days. The bus ride to Krumperk Castle goes through snowy landscapes, but mind the cold walk from the stop. Heated buses are perfect for warming up between stops."
+          },
+          "stops": [
+            {
+              "name": "Domžale Main Bus Stop",
+              "tip_5lang": {
+                "de": "Ein zentraler Knotenpunkt, der oft gut beleuchtet ist.",
+                "hu": "Központi csomópont, amely gyakran jól kivilágított.",
+                "ro": "Un nod central, adesea bine iluminat.",
+                "en": "A central hub that is usually well-lit in the early evenings."
+              }
+            },
+            {
+              "name": "Domžale Cultural Home",
+              "tip_5lang": {
+                "de": "Drinnen ist es gemütlich warm, ideal nach der Busfahrt.",
+                "hu": "Bent kellemes meleg van, ideális a buszozás után.",
+                "ro": "În interior este cald și plăcut, ideal după drumul cu autobuzul.",
+                "en": "It's cozy and warm inside, ideal after the bus ride."
+              }
+            },
+            {
+              "name": "Straw Hat Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter gut beheizt.",
+                "hu": "A múzeum télen jól fűtött.",
+                "ro": "Muzeul este bine încălzit pe timp de iarnă.",
+                "en": "The museum is well-heated during the winter months."
+              }
+            },
+            {
+              "name": "Sports Park Bus Stop",
+              "tip_5lang": {
+                "de": "Warten Sie nicht zu lange im Freien, prüfen Sie die App.",
+                "hu": "Ne várjon sokat a szabadban, ellenőrizze az appot.",
+                "ro": "Nu așteptați mult în aer liber, verificați aplicația.",
+                "en": "Don't wait too long outside; check the bus app."
+              }
+            },
+            {
+              "name": "Domžale Sports Park",
+              "tip_5lang": {
+                "de": "Der Park wirkt im Winterlicht sehr ruhig.",
+                "hu": "A park a téli fényben nagyon nyugodt hangulatú.",
+                "ro": "Parcul pare foarte liniștit în lumina iernii.",
+                "en": "The park feels very serene in the winter light."
+              }
+            },
+            {
+              "name": "Krumperk Castle",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den Weg von der Haltestelle nötig.",
+                "hu": "Meleg ruha szükséges a megállótól vezető úthoz.",
+                "ro": "Haine groase necesare pentru drumul de la stație.",
+                "en": "Warm clothing is necessary for the walk from the stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Schneefall Verspätung haben.",
+              "Tragen Sie warme Schuhe für die Wartezeiten an Haltestellen.",
+              "Die Busse in Domžale sind im Winter angenehm beheizt.",
+              "Nutzen Sie die App für Echtzeit-Abfahrtszeiten."
+            ],
+            "hu": [
+              "Erős havazás esetén a buszok késhetnek.",
+              "Viseljen meleg cipőt a megállókban való várakozáshoz.",
+              "A domžalei buszok télen kellemesen fűtöttek.",
+              "Használja az appot a valós idejű indulásokhoz."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri în caz de ninsoare abundentă.",
+              "Purtați încălțăminte groasă pentru așteptarea în stații.",
+              "Autobuzele din Domžale sunt bine încălzite iarna.",
+              "Folosiți aplicația pentru orele de plecare în timp real."
+            ],
+            "en": [
+              "Buses may be delayed during heavy snowfall.",
+              "Wear warm shoes for the wait times at bus stops.",
+              "Buses in Domžale are comfortably heated in winter.",
+              "Use the transit app for real-time departure updates."
+            ]
+          }
+        }
       }
     }
   }

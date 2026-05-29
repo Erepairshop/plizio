@@ -395,6 +395,214 @@
           "Intentionally get lost in the smaller alleys off the main square to discover hidden courtyards.",
           "Check the opening hours of museums and churches in advance as they can vary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Morgen am Oberen Stadtplatz, gefolgt von einem Besuch im trockenen Rathaus. Mittags stärken wir uns in einem Altstadt-Gasthof. Der Nachmittag gehört der Bergbaugeschichte unter Tage und dem Münzturm der Burg Hasegg. Ein kurzer Spaziergang durch die nassen Gassen beendet den Tag.",
+            "hu": "Esős reggel a Felső főtéren, majd látogatás a fedett Városházán. Ebéd egy ódon óvárosi fogadóban. Délután a bányászati múzeum föld alatti tárlatát és a Hasegg-vár pénzverdéjét fedezzük fel, védve a csapadéktól. A napot rövid séta zárja a vizes macskaköveken.",
+            "ro": "Dimineață ploioasă în Piața de Sus, urmată de o vizită în primăria adăpostită. Prânzul se ia într-un han istoric din orașul vechi. După-amiaza explorăm istoria mineritului și Turnul Monetei din Castelul Hasegg, ambele oferind adăpost. Ziua se încheie cu o scurtă plimbare pe străzile umede.",
+            "en": "A rainy morning at Upper Town Square, followed by a visit to the dry Town Hall. Lunch is enjoyed in a cozy old town inn. The afternoon is spent exploring the mining museum's underground exhibits and Hasegg Castle, staying mostly indoors. The day ends with a stroll through the damp alleys."
+          },
+          "stops": [
+            {
+              "name": "Upper Town Square",
+              "tip_5lang": {
+                "de": "Unter den Arkaden und Vorsprüngen der Häuser trocken bleiben.",
+                "hu": "Az épületek árkádjai és ereszei alatt keress menedéket.",
+                "ro": "Rămâneți sub arcadele clădirilor pentru a evita ploaia.",
+                "en": "Stay under the house arcades and overhangs to keep dry."
+              }
+            },
+            {
+              "name": "Hall Town Hall",
+              "tip_5lang": {
+                "de": "Die Innenräume bieten Schutz vor dem Regen.",
+                "hu": "A belső terek tökéletes menedéket nyújtanak az eső elől.",
+                "ro": "Interioarele oferă protecție excelentă împotriva ploii.",
+                "en": "The interiors provide excellent shelter from the rain."
+              }
+            },
+            {
+              "name": "Parish Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Nutzen Sie den ruhigen Innenraum für eine trockene Pause.",
+                "hu": "Használd a csendes belső teret egy száraz pihenőre.",
+                "ro": "Folosiți interiorul liniștit pentru o pauză uscată.",
+                "en": "Use the quiet interior for a dry break from the weather."
+              }
+            },
+            {
+              "name": "Jesuit Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint über die Gasse reicht aus.",
+                "hu": "Csak egy rövid vágta az utcán, és már bent is vagy.",
+                "ro": "Un scurt sprint pe stradă este suficient pentru a ajunge.",
+                "en": "A quick dash across the street is enough to get inside."
+              }
+            },
+            {
+              "name": "Hall Mining Museum",
+              "tip_5lang": {
+                "de": "Ideal bei Regen, da die Ausstellung komplett unterdacht ist.",
+                "hu": "Ideális esőben, a kiállítás teljesen fedett és száraz.",
+                "ro": "Ideal pe ploaie, expoziția fiind complet acoperită.",
+                "en": "Ideal for rainy days as the exhibition is entirely indoors."
+              }
+            },
+            {
+              "name": "Hasegg Castle & Mint Tower",
+              "tip_5lang": {
+                "de": "Der Aufstieg im Turm ist wetterfest und bietet Ausblicke.",
+                "hu": "A toronyba vezető út fedett, a kilátás borúsan is szép.",
+                "ro": "Urcarea în turn este protejată și oferă vederi bune.",
+                "en": "The tower climb is weatherproof and offers great views."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Genießen Sie Tiroler Küche, während es draußen regnet.",
+                "hu": "Élvezd a tiroli konyhát, miközben kint esik az eső.",
+                "ro": "Savurați bucătăria tiroleză în timp ce afară plouă.",
+                "en": "Enjoy Tyrolean cuisine while the rain falls outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Die schmalen Gassen bieten oft natürlichen Regenschutz.",
+              "Museen in Hall sind perfekt für Regentage geeignet.",
+              "Ein Regenschirm ist bei Wind in den Gassen unpraktisch.",
+              "Nutzen Sie die Gastronomie für längere Pausen."
+            ],
+            "hu": [
+              "Viselj vízálló cipőt a macskaköves utcákhoz.",
+              "A szűk utcák gyakran természetes védelmet nyújtanak.",
+              "A halli múzeumok tökéletesek esős napokra.",
+              "Az esernyő a szélben nehezen kezelhető a sikátorokban.",
+              "Használd a kávézókat hosszabb pihenőkre."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru pavajul de piatră.",
+              "Străzile înguste oferă adesea protecție naturală.",
+              "Muzeele din Hall sunt perfecte pentru zilele ploioase.",
+              "O umbrelă poate fi incomodă pe vânt în alei.",
+              "Folosiți restaurantele pentru pauze mai lungi."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "Narrow alleys often provide natural rain protection.",
+              "Hall's museums are perfect for rainy day itineraries.",
+              "An umbrella can be tricky in the wind within the alleys.",
+              "Utilize local cafes for longer dry breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintertag beginnt am historischen Marktplatz. Die Kirchen bieten besinnliche Wärme, bevor es zum Mittagessen geht. Nachmittags erkunden wir das Bergbaumuseum und den Münzturm, der im Winterlicht glänzt. Der Tag endet früh bei Sonnenuntergang mit einem heißen Getränk in der Altstadt.",
+            "hu": "Fagyos téli nap indul a történelmi piactéren. A templomok meghitt meleget adnak az ebéd előtt. Délután a bányászati múzeumot és a téli fényben csillogó Pénzverde-tornyot keressük fel. A nap korán, naplementekor ér véget egy forró itallal az óvárosban.",
+            "ro": "O zi geroasă de iarnă începe în piața istorică. Bisericile oferă căldură înainte de prânz. După-amiaza explorăm muzeul mineritului și Turnul Monetei, strălucind în lumina iernii. Ziua se încheie devreme, la apus, cu o băutură caldă în centrul vechi.",
+            "en": "A frosty winter day begins at the historic market square. The churches offer a peaceful warm-up before lunch. In the afternoon, explore the mining museum and the Mint Tower, gleaming in winter light. The day concludes early at sunset with a hot drink in the old town."
+          },
+          "stops": [
+            {
+              "name": "Upper Town Square",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf dem Kopfsteinpflaster.",
+                "hu": "Vigyázz a macskaköveken, télen csúszósak lehetnek.",
+                "ro": "Atenție la polei pe pavajul de piatră cubică.",
+                "en": "Be careful of slippery patches on the cobblestones."
+              }
+            },
+            {
+              "name": "Hall Town Hall",
+              "tip_5lang": {
+                "de": "Die historischen Hallen sind angenehm temperiert.",
+                "hu": "A történelmi termek kellemesen temperáltak.",
+                "ro": "Sălile istorice au o temperatură plăcută.",
+                "en": "The historic halls are kept at a pleasant temperature."
+              }
+            },
+            {
+              "name": "Parish Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Kirchen sind im Winter oft sehr kühl, warm anziehen.",
+                "hu": "A templomok télen hűvösek, öltözz fel jól.",
+                "ro": "Bisericile sunt reci iarna, îmbrăcați-vă gros.",
+                "en": "Churches are often very cold in winter, dress warmly."
+              }
+            },
+            {
+              "name": "Jesuit Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Ort der Stille und Kälterestau.",
+                "hu": "A csend és a hideg elleni rövid menedék helye.",
+                "ro": "Un scurt loc de liniște și adăpost contra frigului.",
+                "en": "A brief place of silence and shelter from the cold."
+              }
+            },
+            {
+              "name": "Hall Mining Museum",
+              "tip_5lang": {
+                "de": "Unter Tage ist die Temperatur konstant und mild.",
+                "hu": "A föld alatt a hőmérséklet állandó és enyhe.",
+                "ro": "În subteran, temperatura este constantă și blândă.",
+                "en": "Underground, the temperature remains constant and mild."
+              }
+            },
+            {
+              "name": "Hasegg Castle & Mint Tower",
+              "tip_5lang": {
+                "de": "Im Turm kann es ziehen, Schal und Mütze bereithalten.",
+                "hu": "A toronyban huzat lehet, sálat és sapkát készíts be.",
+                "ro": "În turn poate fi curent, pregătiți fularul și căciula.",
+                "en": "It can be drafty in the tower, keep a scarf ready."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei einer heißen Tiroler Suppe auf.",
+                "hu": "Melegedj fel egy forró tiroli levessel.",
+                "ro": "Încălziți-vă cu o supă fierbinte tiroleză.",
+                "en": "Warm up with a hot Tyrolean soup."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sonnenuntergang ist in den Bergen bereits gegen 16:30 Uhr.",
+              "Feste Sohlen sind wichtig für rutschige Gassen.",
+              "Viele Cafés bieten im Dezember Punsch und Glühwein an.",
+              "Kirchenbesuche sollten kurzgehalten werden (Kälte).",
+              "Planen Sie mehr Zeit für das Aufwärmen in Museen ein."
+            ],
+            "hu": [
+              "A hegyekben a naplemente már 16:30 körül bekövetkezik.",
+              "A csúszós sikátorokhoz fontos a bordázott talpú cipő.",
+              "Sok kávézó kínál puncsot és forralt bort decemberben.",
+              "A templomlátogatás legyen rövid a hideg miatt.",
+              "Tervezz több időt a múzeumi melegedésre."
+            ],
+            "ro": [
+              "Apusul are loc în jurul orei 16:30 din cauza munților.",
+              "Tălpile aderente sunt esențiale pentru străzile alunecoase.",
+              "Multe cafenele oferă punch și vin fiert în decembrie.",
+              "Vizitele în biserici trebuie să fie scurte din cauza frigului.",
+              "Alocați mai mult timp pentru încălzire în muzee."
+            ],
+            "en": [
+              "Sunset occurs early around 16:30 due to the mountains.",
+              "Sturdy soles are essential for slippery winter alleys.",
+              "Many cafes offer punch and mulled wine in December.",
+              "Keep church visits brief due to low temperatures.",
+              "Plan extra time for warming up inside museums."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -784,6 +992,214 @@
           "The Inn Valley Cycle Path is mostly flat and suitable for all fitness levels.",
           "Bring a water bottle and a small snack for the bike ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir die Radtour am Stadtplatz. Kurze Stopps an den Kirchen bieten Schutz. Der Nachmittag wird in der Burg Hasegg und im Bergbaumuseum verbracht, während die Räder sicher stehen. Eine Fahrt am Inn-Radweg im Regen erfordert Vorsicht, bevor der Tag beim späten Mittagessen endet.",
+            "hu": "Az eső ellenére a főtéren kezdjük a bringázást. A templomoknál tartott rövid megállók védelmet adnak. A délutánt a Hasegg-várban és a múzeumban töltjük, amíg a gépek pihennek. Az Inn menti tekerés óvatosságot igényel vizes úton, a nap késői ebéddel zárul.",
+            "ro": "În ciuda ploii, începem turul cu bicicleta în piață. Opririle scurte la biserici oferă adăpost. După-amiaza este petrecută la castel și muzeu, în timp ce bicicletele sunt parcate. O plimbare pe malul râului Inn necesită prudență, înainte de prânzul târziu.",
+            "en": "Despite the rain, we start the cycling tour at the square. Brief stops at churches provide cover. The afternoon is spent at Hasegg Castle and the museum while bikes are parked safely. A ride along the Inn requires caution on wet paths before ending with a late lunch."
+          },
+          "stops": [
+            {
+              "name": "Upper Town Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázz az indulásnál a vizes macskaköveken.",
+                "ro": "Atenție la plecarea de pe loc pe pavajul umed.",
+                "en": "Be careful when starting off on wet cobblestones."
+              }
+            },
+            {
+              "name": "Parish Church of St. Nicholas & Magdalene Chapel",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter einen Dachvorsprung.",
+                "hu": "Állítsd a biciklit egy eresz alá.",
+                "ro": "Parcați bicicleta sub o streașină pentru a o menține uscată.",
+                "en": "Park your bike under an overhang to keep the seat dry."
+              }
+            },
+            {
+              "name": "Jesuit Church",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, die Regenjacke kurz auszuschütteln.",
+                "hu": "Jó alkalom az esőkabát rövid lerázására.",
+                "ro": "O bună ocazie pentru a scutura rapid pelerina de ploaie.",
+                "en": "Good opportunity to briefly shake off your raincoat."
+              }
+            },
+            {
+              "name": "Hasegg Castle & Mint Tower",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer im Innenhof vorhanden.",
+                "hu": "Fedett biciklitárolók találhatók a belső udvarban.",
+                "ro": "Rasteluri de biciclete acoperite disponibile în curte.",
+                "en": "Covered bike racks are available in the courtyard."
+              }
+            },
+            {
+              "name": "Hall Mining Museum",
+              "tip_5lang": {
+                "de": "Lange Pause im Trockenen, während es draußen regnet.",
+                "hu": "Hosszú pihenő szárazon, amíg kint esik.",
+                "ro": "Pauză lungă la adăpost în timp ce afară plouă.",
+                "en": "A long break in the dry while it rains outside."
+              }
+            },
+            {
+              "name": "Ride along the Inn River",
+              "tip_5lang": {
+                "de": "Vorsicht in den Kurven auf dem nassen Radweg.",
+                "hu": "Vigyázz a kanyarokban a vizes kerékpárúton.",
+                "ro": "Atenție în curbe pe pista de biciclete umedă.",
+                "en": "Caution in the corners on the wet cycle path."
+              }
+            },
+            {
+              "name": "Late Lunch & Relaxation",
+              "tip_5lang": {
+                "de": "Ein warmer Ort zum Trocknen und Genießen.",
+                "hu": "Meleg hely a szárítkozáshoz és élvezethez.",
+                "ro": "Un loc cald pentru a vă usca și a savura masa.",
+                "en": "A warm place to dry off and enjoy your meal."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um Schlammspritzer zu vermeiden.",
+              "Vorsicht vor rutschigen Markierungen auf dem Asphalt.",
+              "Tragen Sie leuchtende Regenbekleidung für bessere Sicht.",
+              "Bremsen Sie frühzeitig auf nassen Oberflächen.",
+              "Nutzen Sie wasserfeste Packtaschen für Ihre Ausrüstung."
+            ],
+            "hu": [
+              "Használj sárvédőt a felcsapódó sár ellen.",
+              "Vigyázz a csúszós útburkolati jelekkel az aszfalton.",
+              "Viselj feltűnő esőruházatot a jobb láthatóságért.",
+              "Fékezz korábban a vizes útfelületen.",
+              "Használj vízálló táskákat a felszerelésedhez."
+            ],
+            "ro": [
+              "Folosiți aripi pentru a evita stropirea cu noroi.",
+              "Atenție la marcajele rutiere alunecoase pe asfalt.",
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate.",
+              "Frânați din timp pe suprafețele umede.",
+              "Folosiți genți de bicicletă impermeabile."
+            ],
+            "en": [
+              "Use mudguards to prevent splashes from the ground.",
+              "Watch out for slippery road markings on the asphalt.",
+              "Wear bright rain gear for better visibility.",
+              "Brake earlier than usual on wet surfaces.",
+              "Use waterproof panniers to keep your gear dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalte Winterbrise am Radstart. Kurze Besichtigungen der Kirchen dienen zum Aufwärmen der Finger. Mittags besuchen wir die Burg Hasegg und das Bergbaumuseum. Eine winterliche Fahrt am Inn zeigt die verschneiten Gipfel, bevor wir uns bei einem späten Mittagessen in der Altstadt aufwärmen.",
+            "hu": "Hideg téli szellő fogad a bringás indulásnál. A templomok megtekintése segít felmelegíteni az ujjakat. Délben a Hasegg-várat és a múzeumot látogatjuk meg. A téli tekerés az Inn mentén havas csúcsokat mutat, mielőtt egy késői ebéddel melegednénk be az óvárosban.",
+            "ro": "Briză rece de iarnă la începutul turului. Vizitele scurte la biserici ajută la încălzirea degetelor. La prânz vizităm castelul și muzeul. O plimbare de iarnă pe malul râului Inn oferă priveliști spre vârfurile înzăpezite, urmată de un prânz cald.",
+            "en": "A cold winter breeze greets the start of the ride. Brief church visits help warm up frozen fingers. At noon, visit Hasegg Castle and the mining museum. A winter ride along the Inn offers views of snowy peaks before warming up with a late lunch in the old town."
+          },
+          "stops": [
+            {
+              "name": "Upper Town Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen in den Schattenbereichen.",
+                "hu": "Figyelj a fagyott tócsákra az árnyékos részeken.",
+                "ro": "Atenție la bălțile înghețate în zonele umbrite.",
+                "en": "Watch out for frozen puddles in shaded areas."
+              }
+            },
+            {
+              "name": "Parish Church of St. Nicholas & Magdalene Chapel",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Aufwärmen, Handschuhe anlassen.",
+                "hu": "Rövid megálló melegedni, a kesztyűt ne vedd le.",
+                "ro": "Scurt popas pentru încălzire, păstrați mănușile.",
+                "en": "Short stop to warm up, keep your gloves on."
+              }
+            },
+            {
+              "name": "Jesuit Church",
+              "tip_5lang": {
+                "de": "Wetterfester Abstellplatz in der Nähe vorhanden.",
+                "hu": "Időjárásálló parkolóhely található a közelben.",
+                "ro": "Loc de parcare protejat disponibil în apropiere.",
+                "en": "Weather-protected parking spot available nearby."
+              }
+            },
+            {
+              "name": "Hasegg Castle & Mint Tower",
+              "tip_5lang": {
+                "de": "Der Metallboden im Turm kann im Winter sehr kalt sein.",
+                "hu": "A torony fém padlója télen nagyon hideg lehet.",
+                "ro": "Podeaua metalică din turn poate fi foarte rece iarna.",
+                "en": "The metal floor in the tower can be very cold in winter."
+              }
+            },
+            {
+              "name": "Hall Mining Museum",
+              "tip_5lang": {
+                "de": "Konstante 12 Grad im Inneren sind ideal zum Aufwärmen.",
+                "hu": "A benti állandó 12 fok ideális a felmelegedéshez.",
+                "ro": "Cele 12 grade constante din interior sunt ideale.",
+                "en": "The constant 12 degrees inside are ideal for warming up."
+              }
+            },
+            {
+              "name": "Ride along the Inn River",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung gegen den Fahrtwind.",
+                "hu": "Viselj szélálló ruhát a menetszél ellen.",
+                "ro": "Purtați haine rezistente la vânt contra curentului.",
+                "en": "Wear windproof clothing against the cold breeze."
+              }
+            },
+            {
+              "name": "Late Lunch & Relaxation",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz nahe der Heizung.",
+                "hu": "Keress helyet a fűtőtest közelében.",
+                "ro": "Căutați un loc lângă calorifer pentru confort.",
+                "en": "Find a seat near the heater for extra comfort."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Fahrtwind senkt die gefühlte Temperatur stark.",
+              "Prüfen Sie den Reifendruck für besseren Grip auf Schnee.",
+              "Tragen Sie Thermo-Handschuhe und warme Socken.",
+              "Achten Sie auf Streusalz, es greift die Fahrradkette an.",
+              "Beenden Sie die Tour vor dem frühen Dunkelwerden."
+            ],
+            "hu": [
+              "A menetszél jelentősen csökkenti a hőérzetet.",
+              "Ellenőrizd a guminyomást a jobb tapadásért havon.",
+              "Viselj termokesztyűt és meleg zoknit.",
+              "Vigyázz az útszóró sóval, károsítja a láncot.",
+              "Fejezd be a túrát a korai sötétedés előtt."
+            ],
+            "ro": [
+              "Curentul de aer scade mult temperatura resimțită.",
+              "Verificați presiunea pneurilor pentru aderență pe zăpadă.",
+              "Purtați mănuși termice și șosete groase.",
+              "Atenție la sarea de pe drum, atacă lanțul bicicletei.",
+              "Încheiați turul înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "The wind chill significantly lowers felt temperature.",
+              "Check tire pressure for better grip on snowy paths.",
+              "Wear thermal gloves and thick winter socks.",
+              "Watch out for road salt, it can corrode the bike chain.",
+              "Finish your tour before the early winter darkness."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1156,6 +1572,196 @@
           "Wear comfortable shoes even if you arrive by car, as you'll be doing a lot of walking.",
           "Combine your visit to Hall with a trip to the nearby Swarovski Crystal Worlds in Wattens."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ankunft im Parkhaus der Altstadt, geschützt vor dem Regen. Wir besichtigen die Burg Hasegg und spazieren kurz zum Oberen Stadtplatz. Der Nachmittag im Bergbaumuseum bietet ein trockenes Erlebnis. Nach einem ausgiebigen Mittagessen bei der St. Nikolaus Kirche geht es zurück zum Auto, um Einkäufe trocken zu verstauen.",
+            "hu": "Érkezés az óvárosi garázsba, védve az esőtől. Megtekintjük a Hasegg-várat, majd rövid sétát teszünk a Felső főtérre. A délutáni bányászati múzeum száraz élményt nyújt. Egy bőséges ebéd után a Szent Miklós-templomnál térünk vissza az autóhoz, a bevásárlást szárazon bepakolva.",
+            "ro": "Sosire în parcarea din centrul vechi, protejați de ploaie. Vizităm castelul și mergem scurt până în Piața de Sus. După-amiaza la muzeul mineritului oferă o experiență uscată. După un prânz copios lângă biserică, revenim la mașină pentru a depozita cumpărăturile.",
+            "en": "Arrival at the Old Town garage, sheltered from the rain. We visit Hasegg Castle and take a short walk to the Upper Town Square. The afternoon in the mining museum offers a dry experience. After a hearty lunch near St. Nicholas, return to the car to pack your shopping away dryly."
+          },
+          "stops": [
+            {
+              "name": "Arrival and Parking (Old Town Garage)",
+              "tip_5lang": {
+                "de": "Trockener Zugang direkt zur Altstadt.",
+                "hu": "Száraz bejutás közvetlenül az óvárosba.",
+                "ro": "Acces uscat direct către centrul vechi.",
+                "en": "Dry access directly to the old town center."
+              }
+            },
+            {
+              "name": "Hasegg Castle & Mint Tower",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkhaus, fast komplett überdacht.",
+                "hu": "Rövid gyalogút a garázstól, szinte teljesen fedett.",
+                "ro": "Drum scurt pe jos din parcare, aproape tot acoperit.",
+                "en": "Short walk from the garage, almost entirely covered."
+              }
+            },
+            {
+              "name": "Walk to the Upper Town Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Häuserzeilen als Windschutz.",
+                "hu": "Használd a házsorokat szélvédelemként.",
+                "ro": "Folosiți șirurile de case ca paravan contra vântului.",
+                "en": "Use the rows of houses as a windbreak."
+              }
+            },
+            {
+              "name": "Hall Mining Museum",
+              "tip_5lang": {
+                "de": "Ein Muss für Regentage in Hall.",
+                "hu": "Kihagyhatatlan program esős napokon Hallban.",
+                "ro": "O vizită obligatorie în zilele ploioase în Hall.",
+                "en": "A must-visit for rainy days in Hall."
+              }
+            },
+            {
+              "name": "Lunch and St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Parken Sie Einkäufe zwischendurch kurz im Auto.",
+                "hu": "A bevásárolt holmikat közben pakold be az autóba.",
+                "ro": "Lăsați cumpărăturile la mașină între timp.",
+                "en": "Store your shopping in the car in between stops."
+              }
+            },
+            {
+              "name": "Free Time & Return to Car",
+              "tip_5lang": {
+                "de": "Das Parkhaus hält Sie beim Einladen trocken.",
+                "hu": "A garázsban szárazon tudsz bepakolni az autóba.",
+                "ro": "Parcarea vă menține uscat în timp ce încărcați.",
+                "en": "The parking garage keeps you dry while loading the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Tiefgarage für einen wetterfesten Start.",
+              "Regenschirm im Kofferraum griffbereit halten.",
+              "Die Sicht auf die Berge kann bei starkem Regen eingeschränkt sein.",
+              "Vorsicht beim Fahren in den engen, nassen Zufahrtsstraßen.",
+              "Planen Sie Zeit für das Verstauen nasser Kleidung ein."
+            ],
+            "hu": [
+              "Használd a mélygarázst az időjárásálló kezdéshez.",
+              "Tartsd az esernyőt kéznél a csomagtartóban.",
+              "Erős esőben a kilátás a hegyekre korlátozott lehet.",
+              "Vigyázz a vezetéssel a szűk, vizes bekötőutakon.",
+              "Szánj időt a vizes ruhák elpakolására."
+            ],
+            "ro": [
+              "Folosiți parcarea subterană pentru un start protejat.",
+              "Țineți umbrela la îndemână în portbagaj.",
+              "Vizibilitatea spre munți poate fi redusă pe ploaie torențială.",
+              "Atenție la condus pe străzile de acces înguste și umede.",
+              "Alocați timp pentru a gestiona hainele ude."
+            ],
+            "en": [
+              "Use the underground garage for a weatherproof start.",
+              "Keep an umbrella handy in the trunk.",
+              "Mountain visibility may be limited during heavy rain.",
+              "Drive carefully on the narrow, wet access roads.",
+              "Allow time for dealing with wet clothes in the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Anfahrt nach Hall mit Blick auf die Nordkette. Nach dem Parken besuchen wir die Burg Hasegg. Ein Spaziergang über den winterlichen Marktplatz führt uns zum Bergbaumuseum. Mittags wärmen wir uns bei St. Nikolaus auf, bevor wir die freie Zeit für Einkäufe nutzen und rechtzeitig vor Einbruch der Dunkelheit zum Auto zurückkehren.",
+            "hu": "Téli autózás Hallba, kilátással a Nordkette-hegységre. Parkolás után a Hasegg-várat látogatjuk meg. Séta a téli piactéren a bányászati múzeumig. Délben a Szent Miklós-templomnál melegszünk fel, majd a szabadidőt vásárlásra használjuk, és sötétedés előtt visszatérünk az autóhoz.",
+            "ro": "Drum de iarnă spre Hall cu vedere spre munții Nordkette. După parcare vizităm castelul. O plimbare prin piața de iarnă ne duce la muzeu. La prânz ne încălzim lângă biserică, apoi folosim timpul liber pentru cumpărături, revenind la mașină înainte de lăsarea serii.",
+            "en": "A winter drive to Hall with views of the Nordkette. After parking, visit Hasegg Castle. A stroll through the winter market square leads to the mining museum. At noon, warm up near St. Nicholas, then use free time for shopping and return to the car before darkness falls."
+          },
+          "stops": [
+            {
+              "name": "Arrival and Parking (Old Town Garage)",
+              "tip_5lang": {
+                "de": "Eisfreies Parken garantiert einen entspannten Start.",
+                "hu": "Jégmentes parkolás garantálja a nyugodt kezdést.",
+                "ro": "Parcarea fără gheață garantează un start relaxat.",
+                "en": "Ice-free parking guarantees a relaxed start."
+              }
+            },
+            {
+              "name": "Hasegg Castle & Mint Tower",
+              "tip_5lang": {
+                "de": "Im Winter sind die Innenhöfe oft festlich beleuchtet.",
+                "hu": "Télen a belső udvarok gyakran ünnepi kivilágítást kapnak.",
+                "ro": "Iarna, curțile interioare sunt adesea iluminate festiv.",
+                "en": "In winter, the courtyards are often festively lit."
+              }
+            },
+            {
+              "name": "Walk to the Upper Town Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Räumfahrzeuge in den engen Gassen.",
+                "hu": "Figyelj a hókotrókra a szűk utcákban.",
+                "ro": "Atenție la utilajele de deszăpezire pe străzile înguste.",
+                "en": "Watch out for snow removal vehicles in the narrow alleys."
+              }
+            },
+            {
+              "name": "Hall Mining Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um der Winterkälte zu entfliehen.",
+                "hu": "Ideális hely a téli hideg elöli menekülésre.",
+                "ro": "Un loc ideal pentru a scăpa de gerul iernii.",
+                "en": "An ideal place to escape the winter cold."
+              }
+            },
+            {
+              "name": "Lunch and St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Atmosphäre der Tiroler Gaststuben.",
+                "hu": "Élvezd a tiroli vendéglők meleg hangulatát.",
+                "ro": "Bucurați-vă de atmosfera caldă a hanurilor tiroleze.",
+                "en": "Enjoy the warm atmosphere of Tyrolean taverns."
+              }
+            },
+            {
+              "name": "Free Time & Return to Car",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járasd feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Do not leave the engine idling unnecessarily."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Österreich ab November Pflicht.",
+              "Checken Sie den Frostschutz der Scheibenwaschanlage.",
+              "Das Parkhaus schützt Ihr Auto vor dem Einfrieren.",
+              "Fahren Sie defensiv bei Schneeglätte in den Bergen.",
+              "Eiskratzer und Handfeger sollten im Auto bereitliegen."
+            ],
+            "hu": [
+              "Ausztriában novembertől kötelező a téli gumi.",
+              "Ellenőrizd a szélvédőmosó fagyállóságát.",
+              "A mélygarázs megvédi az autót a lefagyástól.",
+              "Vezess óvatosan havas hegyi utakon.",
+              "A jégkaparó és a kefe legyen kéznél az autóban."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Austria din noiembrie.",
+              "Verificați antigelul pentru lichidul de parbriz.",
+              "Parcarea subterană protejează mașina de îngheț.",
+              "Conduceți defensiv pe zăpadă în zonele montane.",
+              "Răzuitoarea de gheață trebuie să fie în mașină."
+            ],
+            "en": [
+              "Winter tires are mandatory in Austria from November.",
+              "Check the frost protection of your windshield washer fluid.",
+              "The parking garage protects your car from freezing.",
+              "Drive defensively on snowy mountain roads.",
+              "Ice scraper and snow brush should be ready in the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1528,6 +2134,196 @@
           "The entire old town is a pedestrian zone and is best explored on foot.",
           "The Hall-Wattens Card is also highly recommended for public transport users."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ankunft am Bahnhof Hall im Regen. Der kurze Weg zur Burg Hasegg führt uns schnell ins Trockene. Den Nachmittag verbringen wir im Bergbaumuseum und am Oberen Stadtplatz. Nach einem Mittagessen im Kirchenviertel schlendern wir zum Bahnhof zurück, wobei wir die Unterführungen nutzen, um nicht nass zu werden.",
+            "hu": "Érkezés a halli vasútállomásra esőben. A rövid út a Hasegg-várhoz gyorsan száraz helyre visz. A délutánt a bányászati múzeumban és a Felső főtéren töltjük. A templomnegyedben elköltött ebéd után a vasútállomásra sétálunk vissza, aluljárókat használva az eső ellen.",
+            "ro": "Sosire la gara Hall pe ploaie. Drumul scurt spre castel ne duce rapid la adăpost. După-amiaza o petrecem la muzeu și în Piața de Sus. După prânzul din cartierul bisericii, revenim la gară folosind pasajele subterane pentru a rămâne uscați.",
+            "en": "Arrival at Hall train station in the rain. The short walk to Hasegg Castle quickly leads to shelter. Spend the afternoon at the mining museum and Upper Town Square. After lunch in the church quarter, stroll back to the station using underpasses to avoid getting wet."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Hall Train Station",
+              "tip_5lang": {
+                "de": "Unterstände am Bahnsteig nutzen.",
+                "hu": "Használd a peronon lévő várókat.",
+                "ro": "Folosiți adăposturile de pe peron.",
+                "en": "Utilize the shelters on the platform."
+              }
+            },
+            {
+              "name": "Hasegg Castle & Mint Tower",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg, größtenteils im Windschatten.",
+                "hu": "Csak 5 perc gyalog, nagyobbrészt szélvédett helyen.",
+                "ro": "Doar 5 minute de mers, majoritatea în paravan.",
+                "en": "Only a 5-minute walk, mostly shielded from wind."
+              }
+            },
+            {
+              "name": "Upper Town Square & Town Hall",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen bieten zusätzliche Überdachung.",
+                "hu": "A buszmegállók extra fedett helyet kínálnak.",
+                "ro": "Stațiile de autobuz oferă adăpost suplimentar.",
+                "en": "Bus stops offer additional overhead cover."
+              }
+            },
+            {
+              "name": "Hall Mining Museum",
+              "tip_5lang": {
+                "de": "Perfektes Ziel für Transit-Reisende bei Regen.",
+                "hu": "Tökéletes célpont tömegközlekedőknek esőben.",
+                "ro": "Destinație perfectă pentru călătorii cu tranzit pe ploaie.",
+                "en": "Perfect destination for transit travelers when it rains."
+              }
+            },
+            {
+              "name": "Lunch and Church Quarter",
+              "tip_5lang": {
+                "de": "Viele Restaurants liegen nah beieinander.",
+                "hu": "Sok étterem található közel egymáshoz.",
+                "ro": "Multe restaurante sunt situate aproape unul de altul.",
+                "en": "Many restaurants are located close to each other."
+              }
+            },
+            {
+              "name": "Final Stroll and Departure",
+              "tip_5lang": {
+                "de": "Prüfen Sie Abfahrten per App im trockenen Café.",
+                "hu": "Ellenőrizd az indulásokat appon egy száraz kávézóban.",
+                "ro": "Verificați plecările pe aplicație dintr-o cafenea.",
+                "en": "Check departures via app from a dry cafe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge und Busse verkehren in Tirol sehr pünktlich.",
+              "Der Weg vom Bahnhof zur Altstadt ist kurz aber nass.",
+              "Nutzen Sie die VVT-App für Echtzeit-Informationen.",
+              "Bahnhofshallen sind gute Orte zum kurzen Abwarten.",
+              "Ein kompakter Regenschirm ist für den Transit ideal."
+            ],
+            "hu": [
+              "A vonatok és buszok Tirolban nagyon pontosak.",
+              "Az út az állomástól az óvárosig rövid, de vizes.",
+              "Használd a VVT appot a valós idejű infókért.",
+              "Az állomás váróterme jó hely a rövid várakozásra.",
+              "Egy kompakt esernyő ideális a tömegközlekedéshez."
+            ],
+            "ro": [
+              "Trenurile și autobuzele circulă foarte punctual în Tirol.",
+              "Drumul de la gară la centrul vechi este scurt dar ud.",
+              "Folosiți aplicația VVT pentru informații în timp real.",
+              "Halele gării sunt locuri bune pentru așteptare scurtă.",
+              "O umbrelă compactă este ideală pentru tranzit."
+            ],
+            "en": [
+              "Trains and buses in Tyrol are very punctual.",
+              "The walk from the station to the old town is short but wet.",
+              "Use the VVT app for real-time transit information.",
+              "Station halls are good places for a short wait.",
+              "A compact umbrella is ideal for transit travel."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Ankunft am Bahnhof Hall mit Blick auf die verschneiten Alpen. Der Weg zur Burg Hasegg führt durch die klare Luft. Mittags erkunden wir den Oberen Stadtplatz und das Bergbaumuseum. Nach einem wärmenden Essen im Kirchenviertel genießen wir den winterlichen Sonnenuntergang auf dem Weg zurück zum Bahnhof.",
+            "hu": "Téli érkezés a halli vasútállomásra, kilátással a havas Alpokra. Az út a Hasegg-várhoz a tiszta levegőn vezet. Délben a Felső főteret és a bányászati múzeumot fedezzük fel. Egy melengető ebéd után élvezzük a téli naplementét az állomás felé vezető úton.",
+            "ro": "Sosire de iarnă la gara Hall cu vedere spre Alpii înzăpeziți. Drumul spre castel trece prin aerul curat. La prânz explorăm Piața de Sus și muzeul. După o masă caldă, ne bucurăm de apusul de iarnă în drum spre gară.",
+            "en": "Winter arrival at Hall train station with views of the snowy Alps. The path to Hasegg Castle leads through the crisp air. At noon, explore the Upper Town Square and the mining museum. After a warming meal, enjoy the winter sunset on the way back to the station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Hall Train Station",
+              "tip_5lang": {
+                "de": "Beheizte Wartesäle am Bahnhof nutzen.",
+                "hu": "Használd a fűtött várótermeket az állomáson.",
+                "ro": "Folosiți sălile de așteptare încălzite din gară.",
+                "en": "Use the heated waiting rooms at the station."
+              }
+            },
+            {
+              "name": "Hasegg Castle & Mint Tower",
+              "tip_5lang": {
+                "de": "Der Aufstieg im Turm hält warm.",
+                "hu": "A toronyba való felkapaszkodás melegen tart.",
+                "ro": "Urcarea în turn vă va ține de cald.",
+                "en": "The climb up the tower will keep you warm."
+              }
+            },
+            {
+              "name": "Upper Town Square & Town Hall",
+              "tip_5lang": {
+                "de": "Der Marktplatz wirkt im Winter besonders malerisch.",
+                "hu": "A piactér télen különösen festői látványt nyújt.",
+                "ro": "Piața arată deosebit de pitoresc iarna.",
+                "en": "The market square looks especially picturesque in winter."
+              }
+            },
+            {
+              "name": "Hall Mining Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände an den Exponaten (wo erlaubt).",
+                "hu": "Melegítsd fel a kezed a kiállítási tárgyaknál (ahol szabad).",
+                "ro": "Încălziți-vă mâinile lângă exponate (unde e permis).",
+                "en": "Warm your hands near the exhibits (where allowed)."
+              }
+            },
+            {
+              "name": "Lunch and Church Quarter",
+              "tip_5lang": {
+                "de": "Fragen Sie nach saisonalen Winterspezialitäten.",
+                "hu": "Kérdezz rá a szezonális téli különlegességekre.",
+                "ro": "Întrebați de specialitățile sezoniere de iarnă.",
+                "en": "Ask for seasonal winter specialties."
+              }
+            },
+            {
+              "name": "Final Stroll and Departure",
+              "tip_5lang": {
+                "de": "Achten Sie auf die beleuchteten Fahrpläne.",
+                "hu": "Figyeld a kivilágított menetrendeket.",
+                "ro": "Atenție la orarele iluminate din stații.",
+                "en": "Pay attention to the illuminated timetables."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge sind im Winter oft besser geheizt als Busse.",
+              "Die Gehwege zum Bahnhof werden regelmäßig geräumt.",
+              "Planen Sie Pufferzeiten für witterungsbedingte Verzögerungen ein.",
+              "Tragen Sie warme Schuhe für das Warten am Bahnsteig.",
+              "Genießen Sie die Aussicht auf die Berge während der Fahrt."
+            ],
+            "hu": [
+              "A vonatok télen gyakran jobban fűtöttek, mint a buszok.",
+              "Az állomáshoz vezető járdákat rendszeresen takarítják.",
+              "Tervezz pufferidőt az időjárás okozta késésekre.",
+              "Viselj meleg cipőt a peronon való várakozáshoz.",
+              "Élvezd a hegyi kilátást utazás közben."
+            ],
+            "ro": [
+              "Trenurile sunt adesea mai bine încălzite decât autobuzele.",
+              "Trotuarele spre gară sunt curățate regulat.",
+              "Alocați timp suplimentar pentru eventuale întârzieri.",
+              "Purtați încălțăminte groasă pentru așteptarea pe peron.",
+              "Bucurați-vă de vederea spre munți în timpul călătoriei."
+            ],
+            "en": [
+              "Trains are often better heated than buses in winter.",
+              "Footpaths to the station are regularly cleared of snow.",
+              "Allow extra time for weather-related transit delays.",
+              "Wear warm boots for waiting on the platform.",
+              "Enjoy the mountain views during your transit journey."
+            ]
+          }
+        }
       }
     }
   }

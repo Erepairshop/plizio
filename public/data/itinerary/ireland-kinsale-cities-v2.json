@@ -343,6 +343,188 @@
           "The Scilly Walk can be wet at high tide, check the tide times.",
           "Don't forget your camera; the colourful streets are very photogenic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie im Market House Museum, um dem irischen Regen zu entkommen. St. Multose bietet mittags einen trockenen Rückzugsort. Genießen Sie Ihr Mittagessen am Hafen, während Sie das Wetter beobachten. Desmond Castle ist ideal für regnerische Nachmittage, bevor der Scilly Walk mit Regenschirm eine dramatische Küstenstimmung bietet. Den Abschluss bildet das weitläufige Charles Fort.",
+            "hu": "Kezdje a napot a fedett Market House múzeumban, elkerülve az ír esőt. A St. Multose templom békés menedéket nyújt dél előtt. Ebédeljen a kikötő egyik hangulatos éttermében, figyelve a vízcseppeket. Délután a Desmond Castle falai között kalandozhat, majd a Scilly Walk sétányon esernyővel élvezheti a tengerparti kilátást a Charles Fort felé, ahol a belső terekben is sok a látnivaló.",
+            "ro": "Începeți ziua la Muzeul Market House pentru a scăpa de ploaia irlandeză. Biserica St. Multose oferă un refugiu liniștit înainte de prânz. Savurați masa în port, admirând valurile de la adăpost. Desmond Castle este perfect pentru după-amiezi ploioase, iar Scilly Walk oferă vederi dramatice spre Charles Fort chiar și sub umbrelă, unde puteți explora istoria fascinantă.",
+            "en": "Start your day at the covered Market House museum to dodge the Irish mist. St. Multose Church provides a peaceful dry sanctuary before noon. Enjoy lunch by the harbour, watching the raindrops on the water. Spend the afternoon inside Desmond Castle's thick walls, then brave the Scilly Walk with an umbrella for dramatic coastal views leading to the historic Charles Fort."
+          },
+          "stops": [
+            {
+              "name": "Market House",
+              "tip_5lang": {
+                "de": "Perfekter Indoor-Start.",
+                "hu": "Kiváló fedett kezdés.",
+                "ro": "Start perfect la interior.",
+                "en": "Perfect indoor start."
+              }
+            },
+            {
+              "name": "St. Multose Church",
+              "tip_5lang": {
+                "de": "Trockener, historischer Ort.",
+                "hu": "Száraz, történelmi helyszín.",
+                "ro": "Loc istoric și uscat.",
+                "en": "Dry, historical sanctuary."
+              }
+            },
+            {
+              "name": "Desmond Castle",
+              "tip_5lang": {
+                "de": "Starke Mauern bieten Schutz.",
+                "hu": "Vastag falak adnak védelmet.",
+                "ro": "Zidurile groase oferă protecție.",
+                "en": "Thick walls offer shelter."
+              }
+            },
+            {
+              "name": "Kinsale Harbour & Lunch",
+              "tip_5lang": {
+                "de": "Restaurant mit Hafenblick.",
+                "hu": "Étterem kikötői kilátással.",
+                "ro": "Restaurant cu vedere la port.",
+                "en": "Restaurant with harbour views."
+              }
+            },
+            {
+              "name": "Scilly Walk",
+              "tip_5lang": {
+                "de": "Gute Schuhe und Schirm nötig.",
+                "hu": "Jó cipő és esernyő kell.",
+                "ro": "Pantofi buni și umbrelă.",
+                "en": "Good shoes and umbrella needed."
+              }
+            },
+            {
+              "name": "Charles Fort",
+              "tip_5lang": {
+                "de": "Einige Innenräume vorhanden.",
+                "hu": "Vannak belső kiállítóterek.",
+                "ro": "Există spații interioare.",
+                "en": "Several indoor areas available."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Windschutzschirm mit.",
+              "Die Pubs im Zentrum sind ideale Regenschirme.",
+              "Der Scilly Walk kann rutschig sein.",
+              "Kinsale hat viele kleine Indoor-Galerien."
+            ],
+            "hu": [
+              "Vigyél magaddal szélálló esernyőt.",
+              "A központ pubjai remek menedékek.",
+              "A Scilly Walk csúszós lehet esőben.",
+              "Kinsale rengeteg fedett galériával bír."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă la vânt.",
+              "Pub-urile din centru sunt refugii ideale.",
+              "Scilly Walk poate fi alunecos pe ploaie.",
+              "Kinsale are multe galerii interioare."
+            ],
+            "en": [
+              "Carry a wind-resistant umbrella.",
+              "Town centre pubs are great shelters.",
+              "The Scilly Walk can be slippery when wet.",
+              "Kinsale has many small indoor galleries."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen im Market House belebt die Sinne. Besuchen Sie St. Multose, bevor Sie sich im Desmond Castle aufwärmen. Das Mittagessen am Hafen bietet gemütliche Wärme. Der Scilly Walk ist im Winterlicht besonders fotogen, führt Sie zum Charles Fort. Beenden Sie den Tag früh in einem Pub bei offenem Kamin, da die Sonne zeitig untergeht.",
+            "hu": "A Market House múzeuma meleg fogadtatást nyújt a téli reggelen. A St. Multose templom után a Desmond Castle vastag falai között bújhatunk el a szél elől. Ebéd után a Scilly Walk kristálytiszta téli fényeiben gyönyörködhetünk a Charles Fort felé haladva. A korai naplemente után Kinsale hangulatos, kandallós pubjaiban érdemes melegedni.",
+            "ro": "O dimineață răcoroasă la Market House vă va trezi simțurile. După St. Multose, zidurile de la Desmond Castle vă apără de vânt. Prânzul în port oferă căldură primitoare. Scilly Walk este spectaculos în lumina iernii în drum spre Charles Fort. Încheiați ziua devreme la un pub cu șemineu, deoarece soarele apune repede.",
+            "en": "A crisp winter morning at Market House brings local history to life. After St. Multose, warm up inside the robust Desmond Castle. Lunch by the harbour offers a cozy escape from the chill. The Scilly Walk is stunning in winter light on your way to Charles Fort. End your day early in a snug pub with a fireplace as the sun sets by 4:30 PM."
+          },
+          "stops": [
+            {
+              "name": "Market House",
+              "tip_5lang": {
+                "de": "Beheizte Ausstellungsräume.",
+                "hu": "Fűtött kiállítóterek.",
+                "ro": "Spații expoziționale încălzite.",
+                "en": "Heated exhibition rooms."
+              }
+            },
+            {
+              "name": "St. Multose Church",
+              "tip_5lang": {
+                "de": "Dick anziehen, Steinmauern.",
+                "hu": "Öltözz rétegesen, hideg falak.",
+                "ro": "Îmbrăcați-vă gros, ziduri reci.",
+                "en": "Dress warmly, cold stone walls."
+              }
+            },
+            {
+              "name": "Desmond Castle",
+              "tip_5lang": {
+                "de": "Windgeschützter Aufenthalt.",
+                "hu": "Szélvédett belső terek.",
+                "ro": "Interior protejat de vânt.",
+                "en": "Wind-protected interiors."
+              }
+            },
+            {
+              "name": "Kinsale Harbour & Lunch",
+              "tip_5lang": {
+                "de": "Warme Suppen genießen.",
+                "hu": "Forró levesek ideje.",
+                "ro": "Savurați o supă caldă.",
+                "en": "Enjoy some hot soup."
+              }
+            },
+            {
+              "name": "Scilly Walk",
+              "tip_5lang": {
+                "de": "Atemberaubendes Winterlicht.",
+                "hu": "Csodás téli fények.",
+                "ro": "Lumină de iarnă superbă.",
+                "en": "Stunning winter light."
+              }
+            },
+            {
+              "name": "Charles Fort",
+              "tip_5lang": {
+                "de": "Schließt im Winter früher.",
+                "hu": "Télen korábban zár.",
+                "ro": "Se închide mai devreme iarna.",
+                "en": "Closes earlier in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sonnenuntergang ist gegen 16:30 Uhr.",
+              "Warme Kleidung für die Küste einplanen.",
+              "Besuchen Sie Cafés für heiße Schokolade.",
+              "Reservieren Sie Plätze am Kamin."
+            ],
+            "hu": [
+              "A naplemente 16:30 körül van.",
+              "Készülj meleg ruhával a partra.",
+              "Igyál egy forró csokit a helyi kávézókban.",
+              "Foglalj asztalt a kandalló közelében."
+            ],
+            "ro": [
+              "Apusul este în jur de 16:30.",
+              "Haine groase pentru malul mării.",
+              "Vizitați cafenelele pentru ciocolată caldă.",
+              "Rezervați un loc lângă șemineu."
+            ],
+            "en": [
+              "Sunset is around 4:30 PM.",
+              "Pack thermal layers for the coast.",
+              "Visit local cafes for hot chocolate.",
+              "Book a table near the fireplace."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -664,6 +846,188 @@
           "Bring water and snacks, especially for the longer stretches.",
           "Some sections can be challenging in strong winds."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Holen Sie Ihr Fahrrad mit Regenbekleidung ab. Charles Fort ist eine kurze Fahrt wert, gefolgt von einem warmen Mittagessen in Summercove. Die Fahrt zum Old Head ist bei Regen anspruchsvoll, aber die Aussicht bleibt episch. James Fort bietet einen historischen Stopp auf dem Rückweg, bevor Sie durchnässt, aber zufrieden nach Kinsale zurückkehren und die Räder abgeben.",
+            "hu": "Vegyél fel vízálló ruhát a bringázáshoz. A Charles Fort egy rövid tekerés, majd jöhet egy forró ebéd Summercove-ban. Az út az Old Head felé esőben komoly kihívás, de a látvány epikus. A James Fortnál tegyen egy gyors megállót a visszaúton, mielőtt leadná a biciklit a kikötőben és egy meleg ital mellett kipihenné a napot.",
+            "ro": "Luați bicicleta echipat cu pelerină de ploaie. Charles Fort este aproape, urmat de un prânz cald în Summercove. Drumul spre Old Head este provocator pe ploaie, dar peisajul rămâne epic. James Fort oferă un scurt popas istoric la întoarcere, înainte de a preda bicicleta în port și de a vă încălzi cu o băutură fierbinte.",
+            "en": "Pick up your rental bike equipped with waterproof gear. Charles Fort is a short pedal away, followed by a warm lunch in Summercove. The ride to Old Head of Kinsale is challenging in the rain, but the cliffs remain epic. Visit James Fort on your way back before returning your bike to the harbour and drying off in a local cafe."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start",
+              "tip_5lang": {
+                "de": "Fragen Sie nach Regenponchos.",
+                "hu": "Kérj esővédőt a kölcsönzőben.",
+                "ro": "Cereți pelerine de ploaie.",
+                "en": "Ask for waterproof ponchos."
+              }
+            },
+            {
+              "name": "Charles Fort",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázz a vizes macskakövön.",
+                "ro": "Atenție pe piatra cubică udă.",
+                "en": "Careful on wet cobblestones."
+              }
+            },
+            {
+              "name": "Lunch in Summercove",
+              "tip_5lang": {
+                "de": "Platz zum Trocknen der Kleidung.",
+                "hu": "Hely a vizes ruhák szárítására.",
+                "ro": "Loc pentru uscarea hainelor.",
+                "en": "Space to dry off your gear."
+              }
+            },
+            {
+              "name": "Old Head of Kinsale",
+              "tip_5lang": {
+                "de": "Sehr windig, festen Halt suchen.",
+                "hu": "Nagy szél, kapaszkodj meg.",
+                "ro": "Vânt puternic, țineți bine ghidonul.",
+                "en": "Very windy, hold your bars tight."
+              }
+            },
+            {
+              "name": "James Fort",
+              "tip_5lang": {
+                "de": "Kurzer, oft matschiger Stopp.",
+                "hu": "Rövid, gyakran sáros megálló.",
+                "ro": "Oprire scurtă, adesea noroioasă.",
+                "en": "Short, often muddy stop."
+              }
+            },
+            {
+              "name": "Return to Kinsale",
+              "tip_5lang": {
+                "de": "Warme Dusche danach einplanen.",
+                "hu": "Tervezz be egy meleg zuhanyt.",
+                "ro": "Planificați un duș cald după.",
+                "en": "Plan for a warm shower after."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind Pflicht.",
+              "Bremsen Sie frühzeitig auf nassen Straßen.",
+              "Vermeiden Sie tiefe Pfützen.",
+              "Tragen Sie helle, reflektierende Regenbekleidung."
+            ],
+            "hu": [
+              "A sárvédő kötelező a bringán.",
+              "Fékezz időben a vizes úton.",
+              "Kerüld a mély tócsákat.",
+              "Viselj világos, fényvisszaverő esőruhát."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt obligatorii.",
+              "Frânați din timp pe drumuri ude.",
+              "Evitați bălțile adânci.",
+              "Purtați haine reflectorizante."
+            ],
+            "en": [
+              "Mudguards on the bike are essential.",
+              "Brake early on wet roads.",
+              "Avoid deep puddles.",
+              "Wear bright, reflective rain gear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Wintermorgen mit einer Fahrt zum Charles Fort, wobei der Wind Sie wachrüttelt. Summercove bietet die nötige Stärkung mittags. Die Fahrt zum Old Head führt durch eine kahle, aber wunderschöne Küstenlandschaft. James Fort wirkt im Winterlicht mystisch. Geben Sie die Räder vor Einbruch der Dunkelheit ab und genießen Sie die abendliche Hafenatmosphäre von Kinsale.",
+            "hu": "Indítsa a téli reggelt egy frissítő tekeréssel a Charles Fort felé. Summercove-ban pótolhatja az elvesztett energiát ebédkor. Az Old Head felé vezető út kopár, de gyönyörű téli arcát mutatja a partnak. A James Fort misztikus hangulatot áraszt a szürkületben. Adja le a bringákat sötétedés előtt, majd élvezze Kinsale esti kikötői fényeit.",
+            "ro": "Începeți dimineața de iarnă cu o plimbare spre Charles Fort. Summercove oferă energia necesară la prânz. Drumul spre Old Head trece printr-un peisaj de coastă golaș, dar superb. James Fort pare mistic în lumina iernii. Returnați bicicletele înainte de lăsarea întunericului și bucurați-vă de luminile serii în portul Kinsale.",
+            "en": "Start your winter morning with a bracing cycle to Charles Fort. Summercove provides a much-needed warm-up at lunch. The ride to Old Head showcases the raw beauty of the winter coastline. James Fort feels mystical in the fading afternoon light. Return your bikes before dark and soak in the evening atmosphere of Kinsale's harbour."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start",
+              "tip_5lang": {
+                "de": "Handschuhe sind ein Muss.",
+                "hu": "A kesztyű elengedhetetlen.",
+                "ro": "Mănușile sunt obligatorii.",
+                "en": "Gloves are a must-have."
+              }
+            },
+            {
+              "name": "Charles Fort",
+              "tip_5lang": {
+                "de": "Kurze Tage, Öffnungszeiten prüfen.",
+                "hu": "Rövid nappalok, nézd a nyitvatartást.",
+                "ro": "Zile scurte, verificați programul.",
+                "en": "Short days, check opening hours."
+              }
+            },
+            {
+              "name": "Lunch in Summercove",
+              "tip_5lang": {
+                "de": "Heiße Getränke zum Aufwärmen.",
+                "hu": "Forró italok a melegedéshez.",
+                "ro": "Băuturi calde pentru încălzire.",
+                "en": "Hot drinks for warming up."
+              }
+            },
+            {
+              "name": "Old Head of Kinsale",
+              "tip_5lang": {
+                "de": "Kalte Brise, Mütze unter den Helm.",
+                "hu": "Hideg szél, sapka a sisak alá.",
+                "ro": "Vânt rece, căciulă sub cască.",
+                "en": "Cold breeze, cap under helmet."
+              }
+            },
+            {
+              "name": "James Fort",
+              "tip_5lang": {
+                "de": "Frühzeitiger Besuch ratsam.",
+                "hu": "Érdemes korán ideérni.",
+                "ro": "Vizită recomandată devreme.",
+                "en": "Early visit recommended."
+              }
+            },
+            {
+              "name": "Return to Kinsale",
+              "tip_5lang": {
+                "de": "Rückgabe bis 16:30 Uhr planen.",
+                "hu": "Tervezd a leadást 16:30-ra.",
+                "ro": "Planificați returul la 16:30.",
+                "en": "Plan return by 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Kleidungsschichten.",
+              "Helle Lichter am Fahrrad einschalten.",
+              "Achtung bei Eisstellen im Schatten.",
+              "Sonnenschutz auch im Winter nutzen."
+            ],
+            "hu": [
+              "Öltözz rétegesen.",
+              "Kapcsold be a lámpákat a bringán.",
+              "Vigyázz a jeges foltokkal az árnyékban.",
+              "Télen is használj fényvédőt."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine.",
+              "Aprindeți luminile la bicicletă.",
+              "Atenție la porțiunile cu gheață.",
+              "Folosiți protecție solară și iarna."
+            ],
+            "en": [
+              "Wear multiple layers of clothing.",
+              "Turn on your bike lights early.",
+              "Watch out for icy patches in shade.",
+              "Use sunscreen even in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1003,6 +1367,206 @@
           "Check opening times for attractions as they can be seasonal.",
           "The cluster-walking philosophy works best - park and explore."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Parken Sie zentral und erkunden Sie St. Multose und Desmond Castle zwischen den Schauern. Die Fahrt zum Charles Fort ist bei Regen bequem, Summercove bietet gemütliche Gastronomie. Die Fahrt zum Old Head zeigt die wilde See aus der Sicherheit des Autos. Beenden Sie die Tour am James Fort, bevor Sie zum Abendessen zurück nach Kinsale fahren, wo die bunten Häuser im Regen glänzen.",
+            "hu": "Parkoljon a központban, és fedezze fel a St. Multose templomot és a Desmond Castle-t két zápor között. A Charles Fort kocsival kényelmesen elérhető, Summercove-ban pedig hangulatos ebédet tarthat. Az Old Head felé vezető út az autóból nézve is lenyűgöző a viharos tengerrel. A James Fort után térjen vissza Kinsale-be, ahol az esőben csillogó színes házak várják.",
+            "ro": "Parcați central și explorați Biserica St. Multose și Castelul Desmond între averse. Drumul spre Charles Fort este confortabil cu mașina, iar Summercove oferă prânzuri excelente. Călătoria spre Old Head vă arată marea agitată din siguranța mașinii. Încheiați la James Fort înainte de a reveni în Kinsale pentru cină, printre casele colorate strălucind în ploaie.",
+            "en": "Park centrally and explore St. Multose and Desmond Castle between showers. The drive to Charles Fort is comfortable despite the rain, and Summercove offers cozy dining. The trip to Old Head showcases the wild sea from the safety of your car. Finish at James Fort before heading back to Kinsale for dinner, where the colourful houses glisten in the rain."
+          },
+          "stops": [
+            {
+              "name": "Parking & Old Town Cluster",
+              "tip_5lang": {
+                "de": "Überdachte Parkplätze suchen.",
+                "hu": "Keress fedett parkolót.",
+                "ro": "Căutați parcare acoperită.",
+                "en": "Look for sheltered parking."
+              }
+            },
+            {
+              "name": "St. Multose Church",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Auto.",
+                "hu": "Rövid vágta az autótól.",
+                "ro": "Sprint scurt de la mașină.",
+                "en": "Short dash from the car."
+              }
+            },
+            {
+              "name": "Desmond Castle",
+              "tip_5lang": {
+                "de": "Ideal für schlechtes Wetter.",
+                "hu": "Ideális rossz időben.",
+                "ro": "Ideal pentru vreme rea.",
+                "en": "Ideal for bad weather."
+              }
+            },
+            {
+              "name": "Drive to Charles Fort Cluster",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Eingang.",
+                "hu": "Parkoló közvetlenül a bejáratnál.",
+                "ro": "Parcare chiar la intrare.",
+                "en": "Parking right at the entrance."
+              }
+            },
+            {
+              "name": "Lunch in Summercove",
+              "tip_5lang": {
+                "de": "Blick auf den regnerischen Hafen.",
+                "hu": "Kilátás az esős kikötőre.",
+                "ro": "Vedere spre portul ploios.",
+                "en": "View of the rainy harbour."
+              }
+            },
+            {
+              "name": "Drive to Old Head of Kinsale",
+              "tip_5lang": {
+                "de": "Vorsicht bei starkem Seitenwind.",
+                "hu": "Vigyázz az erős oldalszélre.",
+                "ro": "Atenție la vântul lateral puternic.",
+                "en": "Careful with strong crosswinds."
+              }
+            },
+            {
+              "name": "Drive to James Fort",
+              "tip_5lang": {
+                "de": "Schmale, nasse Zufahrt.",
+                "hu": "Szűk, vizes bevezető út.",
+                "ro": "Drum de acces îngust și ud.",
+                "en": "Narrow, wet access road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Scheibenwischer vorab prüfen.",
+              "Achten Sie auf Fußgänger mit Schirmen.",
+              "Küstenstraßen können überflutet sein.",
+              "Nutzen Sie Park-Apps für Komfort."
+            ],
+            "hu": [
+              "Ellenőrizd az ablaktörlőket.",
+              "Figyelj az esernyős gyalogosokra.",
+              "A parti utak víz alatt lehetnek.",
+              "Használj parkolási appokat."
+            ],
+            "ro": [
+              "Verificați ștergătoarele.",
+              "Atenție la pietonii cu umbrele.",
+              "Drumurile de coastă pot fi inundate.",
+              "Folosiți aplicații de parcare."
+            ],
+            "en": [
+              "Check wipers before starting.",
+              "Watch for pedestrians with umbrellas.",
+              "Coastal roads may have deep puddles.",
+              "Use parking apps for convenience."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt am St. Multose und Desmond Castle. Die Fahrt zum Charles Fort bietet weite Ausblicke auf die raue See. Ein warmes Mittagessen in Summercove stärkt für die Fahrt zum Old Head, wo die Wintersonne tief steht. Nach einem Stopp am James Fort kehren Sie ins beleuchtete Kinsale zurück, um den Tag in der Wärme eines Restaurants ausklingen zu lassen.",
+            "hu": "A tiszta téli nap a St. Multose templomnál és a Desmond Castle-nél indul. A Charles Fort felé autózva gyönyörködhet a zord tenger látványában. Summercove meleg ebéddel vár, mielőtt az Old Head felé venné az irányt, ahol a téli nap alacsonyan jár. A James Fort után térjen vissza a kivilágított Kinsale-be, és élvezze egy helyi étterem melegét.",
+            "ro": "O zi senină de iarnă începe la St. Multose și Castelul Desmond. Drumul spre Charles Fort oferă vederi largi spre marea aspră. Un prânz cald în Summercove vă pregătește pentru Old Head, unde soarele de iarnă stă jos pe cer. După James Fort, reveniți în Kinsale-ul luminat pentru a încheia ziua la căldura unui restaurant local.",
+            "en": "A bright winter day begins at St. Multose and Desmond Castle. The drive to Charles Fort offers expansive views of the rough sea. Warm up with lunch in Summercove before heading to Old Head, where the winter sun sits low over the Atlantic. After James Fort, return to a beautifully lit Kinsale to end your day in a warm restaurant."
+          },
+          "stops": [
+            {
+              "name": "Parking & Old Town Cluster",
+              "tip_5lang": {
+                "de": "Eiskratzer bereithalten.",
+                "hu": "Készítsd elő a jégkaparót.",
+                "ro": "Pregătiți răzuitoarea de gheață.",
+                "en": "Keep an ice scraper handy."
+              }
+            },
+            {
+              "name": "St. Multose Church",
+              "tip_5lang": {
+                "de": "Innenraum kann sehr kühl sein.",
+                "hu": "Benn nagyon hűvös lehet.",
+                "ro": "Interiorul poate fi foarte răcoros.",
+                "en": "Interior can be very chilly."
+              }
+            },
+            {
+              "name": "Desmond Castle",
+              "tip_5lang": {
+                "de": "Führungen können im Winter variieren.",
+                "hu": "A túrák télen változhatnak.",
+                "ro": "Tururile pot varia iarna.",
+                "en": "Tours may vary in winter."
+              }
+            },
+            {
+              "name": "Drive to Charles Fort Cluster",
+              "tip_5lang": {
+                "de": "Tolle Aussicht aus dem Auto.",
+                "hu": "Remek kilátás az autóból.",
+                "ro": "Vedere excelentă din mașină.",
+                "en": "Great views from the car."
+              }
+            },
+            {
+              "name": "Lunch in Summercove",
+              "tip_5lang": {
+                "de": "Frühzeitig reservieren.",
+                "hu": "Foglalj asztalt időben.",
+                "ro": "Rezervați masa din timp.",
+                "en": "Book your table early."
+              }
+            },
+            {
+              "name": "Drive to Old Head of Kinsale",
+              "tip_5lang": {
+                "de": "Atemberaubendes Licht zum Fotografieren.",
+                "hu": "Lélegzetelállító fények fotózáshoz.",
+                "ro": "Lumină superbă pentru fotografii.",
+                "en": "Breathtaking light for photos."
+              }
+            },
+            {
+              "name": "Drive to James Fort",
+              "tip_5lang": {
+                "de": "Möglichkeit für Glatteis.",
+                "hu": "Jegesedés előfordulhat.",
+                "ro": "Posibilitate de polei.",
+                "en": "Possibility of black ice."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Reifendruck bei Kälte prüfen.",
+              "Wintersonne steht sehr tief (Blendschutz).",
+              "Einige Sehenswürdigkeiten schließen früher.",
+              "Abends ist Parken im Zentrum einfacher."
+            ],
+            "hu": [
+              "Ellenőrizd a guminyomást.",
+              "Alacsonyan jár a nap, használj napszemüveget.",
+              "Néhány látnivaló korábban zár.",
+              "Este könnyebb parkolni a központban."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri.",
+              "Soarele de iarnă e jos (folosiți parasolar).",
+              "Unele obiective se închid mai devreme.",
+              "Parcarea e mai ușoară seara în centru."
+            ],
+            "en": [
+              "Check tyre pressure in the cold.",
+              "Winter sun is low; bring sunglasses.",
+              "Some attractions close earlier.",
+              "Evening parking is easier in the centre."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1319,6 +1883,188 @@
           "The bus stop for Charles Fort may not be right at the entrance, so be prepared for a short walk.",
           "Download an offline map to help navigate within the walking clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Town Centre Cluster für Indoor-Aktivitäten. St. Multose bietet Schutz, bevor Sie im Desmond Castle zu Mittag essen. Der Bus zum Charles Fort erspart Ihnen den nassen Fußmarsch. Genießen Sie den Scilly Walk mit festem Schuhwerk, bevor Sie den Bus zurück ins Zentrum nehmen, um den Tag bei Live-Musik in einem der berühmten Pubs von Kinsale gemütlich zu beenden.",
+            "hu": "Használja ki a központ fedett látnivalóit. A St. Multose templom után a Desmond Castle-ben ebédelhet. A busz a Charles Forthoz megkíméli a vizes gyaloglástól. A Scilly Walk-ot csak jó bakancsban ajánljuk esőben, mielőtt visszabuszozna a központba, hogy egy hangulatos pubban élő zenével zárja a napot Kinsale szívében.",
+            "ro": "Profitați de atracțiile interioare din centru. După Biserica St. Multose, puteți lua prânzul lângă Castelul Desmond. Autobuzul spre Charles Fort vă scutește de mersul prin ploaie. Recomandăm Scilly Walk doar cu încălțăminte bună, înainte de a reveni cu autobuzul în centru pentru o seară cu muzică live într-un pub local.",
+            "en": "Take advantage of the indoor sights in the town centre. St. Multose offers shelter before a hearty lunch near Desmond Castle. The bus to Charles Fort saves you from a soggy walk. Brave the Scilly Walk only with proper boots before catching the bus back to the centre to enjoy live music in one of Kinsale's famous pubs."
+          },
+          "stops": [
+            {
+              "name": "Town Centre Cluster",
+              "tip_5lang": {
+                "de": "Viele Geschäfte zum Unterstellen.",
+                "hu": "Sok bolt, ahol behúzódhatsz.",
+                "ro": "Multe magazine pentru adăpost.",
+                "en": "Many shops to duck into."
+              }
+            },
+            {
+              "name": "St. Multose Church",
+              "tip_5lang": {
+                "de": "Bushaltestelle in der Nähe.",
+                "hu": "Buszmegálló a közelben.",
+                "ro": "Stație de autobuz în apropiere.",
+                "en": "Bus stop nearby."
+              }
+            },
+            {
+              "name": "Desmond Castle & Lunch",
+              "tip_5lang": {
+                "de": "Zentraler Ort für Pausen.",
+                "hu": "Központi hely a pihenéshez.",
+                "ro": "Loc central pentru pauze.",
+                "en": "Central spot for breaks."
+              }
+            },
+            {
+              "name": "Bus to Charles Fort Cluster",
+              "tip_5lang": {
+                "de": "Trocken ans Ziel kommen.",
+                "hu": "Szárazon érsz célba.",
+                "ro": "Ajungeți la destinație uscat.",
+                "en": "Reach your destination dry."
+              }
+            },
+            {
+              "name": "Scilly Walk",
+              "tip_5lang": {
+                "de": "Pfützen auf dem Weg möglich.",
+                "hu": "Tócsák lehetnek az úton.",
+                "ro": "Pot exista bălți pe drum.",
+                "en": "Puddles possible on the path."
+              }
+            },
+            {
+              "name": "Bus back to Centre",
+              "tip_5lang": {
+                "de": "Warme Wartebereiche suchen.",
+                "hu": "Keress meleg váróhelyet.",
+                "ro": "Căutați zone de așteptare calde.",
+                "en": "Find warm waiting areas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Buspläne in der App.",
+              "Tragen Sie wasserfeste Schuhe.",
+              "Kleingeld für den Bus bereithalten.",
+              "Pubs am Hafen sind gute Bus-Wartepunkte."
+            ],
+            "hu": [
+              "Nézd a buszmenetrendet az appban.",
+              "Viselj vízálló cipőt.",
+              "Legyen nálad aprópénz a buszra.",
+              "A kikötői pubok jó váróhelyek."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor în aplicație.",
+              "Purtați încălțăminte impermeabilă.",
+              "Aveți mărunțiș pentru autobuz.",
+              "Pub-urile din port sunt locuri bune de așteptare."
+            ],
+            "en": [
+              "Check bus schedules on the app.",
+              "Wear waterproof footwear.",
+              "Have small change ready for the bus.",
+              "Harbour pubs are good waiting spots."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Start im Town Centre Cluster führt Sie zum St. Multose. Nach dem Besuch des Desmond Castle und einem warmen Mittagessen bringt Sie der Bus zum Charles Fort, wo die kühle Meeresbrise erfrischt. Der Scilly Walk ist im klaren Winterlicht kurz vor Sonnenuntergang magisch. Nehmen Sie den Bus zurück ins Zentrum und genießen Sie die weihnachtliche Beleuchtung der Stadt.",
+            "hu": "A téli reggel a központban indul, érintve a St. Multose templomot. A Desmond Castle és egy meleg ebéd után buszozzon ki a Charles Forthoz, ahol a friss tengeri szél várja. A Scilly Walk varázslatos a téli fényekben közvetlenül naplemente előtt. Busszal térjen vissza a központba, és csodálja meg a város ünnepi fényeit a téli estén.",
+            "ro": "Dimineața de iarnă începe în centrul orașului la St. Multose. După Castelul Desmond și un prânz cald, luați autobuzul spre Charles Fort pentru briza proaspătă a mării. Scilly Walk este magic în lumina iernii chiar înainte de apus. Reveniți cu autobuzul în centru și bucurați-vă de luminile festive ale orașului.",
+            "en": "A wintry start in the town centre leads you to St. Multose. After Desmond Castle and a warm lunch, catch the bus to Charles Fort for a bracing sea breeze. The Scilly Walk is magical in the clear winter light just before sunset. Take the bus back to the centre and enjoy the festive evening lights of Kinsale."
+          },
+          "stops": [
+            {
+              "name": "Town Centre Cluster",
+              "tip_5lang": {
+                "de": "Besuchen Sie die lokalen Cafés.",
+                "hu": "Látogass el a helyi kávézókba.",
+                "ro": "Vizitați cafenelele locale.",
+                "en": "Visit the local cafes."
+              }
+            },
+            {
+              "name": "St. Multose Church",
+              "tip_5lang": {
+                "de": "Warme Kleidung für Innenräume.",
+                "hu": "Meleg ruha a belső terekbe is.",
+                "ro": "Haine groase pentru interior.",
+                "en": "Warm layers for indoors."
+              }
+            },
+            {
+              "name": "Desmond Castle & Lunch",
+              "tip_5lang": {
+                "de": "Heißer Tee ist sehr zu empfehlen.",
+                "hu": "A forró tea erősen ajánlott.",
+                "ro": "Ceaiul cald este recomandat.",
+                "en": "Hot tea is highly recommended."
+              }
+            },
+            {
+              "name": "Bus to Charles Fort Cluster",
+              "tip_5lang": {
+                "de": "Fahrzeiten im Winter beachten.",
+                "hu": "Figyeld a téli menetrendet.",
+                "ro": "Atenție la orarul de iarnă.",
+                "en": "Check winter bus times."
+              }
+            },
+            {
+              "name": "Scilly Walk",
+              "tip_5lang": {
+                "de": "Vor 16:00 Uhr starten.",
+                "hu": "Indulj el 16:00 előtt.",
+                "ro": "Începeți înainte de ora 16:00.",
+                "en": "Start before 4:00 PM."
+              }
+            },
+            {
+              "name": "Bus back to Centre",
+              "tip_5lang": {
+                "de": "Genießen Sie die Abendbeleuchtung.",
+                "hu": "Élvezd az esti kivilágítást.",
+                "ro": "Bucurați-vă de luminile serii.",
+                "en": "Enjoy the evening lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne können abweichen.",
+              "In Bussen ist es oft angenehm warm.",
+              "Tragen Sie Reflektoren im Dunkeln.",
+              "Kombinieren Sie Bus und Taxi bei Kälte."
+            ],
+            "hu": [
+              "A téli menetrend eltérhet.",
+              "A buszokon kellemes meleg van.",
+              "Viselj fényvisszaverőt sötétben.",
+              "Hidegben kombináld a buszt taxival."
+            ],
+            "ro": [
+              "Orarele de iarnă pot diferi.",
+              "Autobuzele sunt adesea încălzite.",
+              "Purtați elemente reflectorizante.",
+              "Combinați autobuzul cu taxiul."
+            ],
+            "en": [
+              "Winter schedules may vary.",
+              "Buses are often nice and warm.",
+              "Wear reflectors after dark.",
+              "Combine bus and taxi in extreme cold."
+            ]
+          }
+        }
       }
     }
   }

@@ -314,6 +314,214 @@
           "Bring water, especially for the longer walk to the border.",
           "Check the museum's opening hours in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vilar Formoso zeigt sich bei Regen von seiner melancholischen, historischen Seite. Der Tag beginnt am Bahnhofsplatz, wo die nassen Pflastersteine den Himmel widerspiegeln. Mittags bietet der Bahnhof mit seinen berühmten Azulejo-Fliesen und das beeindruckende Museum 'Frontier of Peace' den perfekten Schutz vor dem Wetter.\n\nNachmittags führt der Weg zur Grenze, wobei die grauen Wolken die einstige Bedeutung dieses Übergangs unterstreichen. Den Tag lassen wir in der Nähe der Kirche ausklingen, wo das Prasseln des Regens auf die alten Dächer eine ruhige Atmosphäre schafft. Ein Tag voller Geschichte, gut geschützt unter dem Regenschirm.",
+            "hu": "Vilar Formoso esőben méltóságteljes és melankolikus arcát mutatja. A nap az állomás téren indul, ahol a vizes macskaköveken megcsillan az égbolt. Délben a vasútállomás híres azulejo csempéi és a 'Béke Határa' múzeum nyújt tökéletes menedéket a csapadék elől.\n\nDélután a határ felé vesszük az irányt, ahol a szürke fellegek csak erősítik a hely történelmi súlyát. A napot a templom környékén zárjuk, hallgatva az eső kopogását a régi tetőkön. Ez a séta a történelemről szól, esernyővel is kényelmesen teljesíthető, hiszen sok a fedett látnivaló.",
+            "ro": "Vilar Formoso sub ploaie capătă o aură melancolică și istorică. Ziua începe în Piața Gării, unde pavajul umed reflectă cerul plumburiu. La prânz, gara cu faimoasele sale plăci azulejo și muzeul 'Frontiera Păcii' oferă adăpostul perfect împotriva vremii nefavorabile.\n\nDupă-amiaza ne îndreptăm spre graniță, unde norii joși subliniază importanța istorică a acestui punct de trecere. Încheiem ziua lângă biserica principală, unde sunetul ploii pe acoperișurile vechi creează o atmosferă liniștită. O zi dedicată memoriei, parcursă confortabil cu o umbrelă la îndemână.",
+            "en": "Vilar Formoso reveals a melancholic, historical side in the rain. The day begins at Station Square, where wet cobblestones reflect the grey sky. At noon, the railway station's famous azulejo tiles and the 'Frontier of Peace' museum provide the perfect shelter from the elements.\n\nIn the afternoon, we head toward the border, where the clouds emphasize the historical weight of this crossing. We end the day near the main church, listening to the rain on the old roofs. A day of history and reflection, easily managed with a good umbrella thanks to the many indoor stops."
+          },
+          "stops": [
+            {
+              "name": "Largo da Estação (Station Square)",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Vordächern der Cafés am Platz.",
+                "hu": "Használja a tér körüli kávézók előtetőit az eső elleni védelemhez.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor din jurul pieței.",
+                "en": "Seek shelter under the cafe awnings around the square if it pours."
+              }
+            },
+            {
+              "name": "Vilar Formoso Railway Station",
+              "tip_5lang": {
+                "de": "Die Azulejos sind überdacht und bei jedem Wetter gut sichtbar.",
+                "hu": "Az azulejo csempék fedett helyen vannak, esőben is fotózhatók.",
+                "ro": "Plăcile azulejo sunt sub acoperiș, vizibile perfect pe orice vreme.",
+                "en": "The azulejo tiles are under cover, making them a great rainy stop."
+              }
+            },
+            {
+              "name": "Monument to the Combatants",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto; der Stein glänzt schön im Regen.",
+                "hu": "Csak egy gyors fotó; a vizes kő szépen csillog az esőben.",
+                "ro": "O oprire scurtă pentru poze; piatra umedă strălucește frumos.",
+                "en": "Quick photo stop; the wet stone has a striking reflection."
+              }
+            },
+            {
+              "name": "Main Church of Vilar Formoso",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort für eine kurze Besinnung.",
+                "hu": "Csendes, száraz hely egy rövid pihenőhöz és elmélkedéshez.",
+                "ro": "Un loc liniștit și uscat pentru o scurtă pauză de reflecție.",
+                "en": "A quiet, dry sanctuary for a short break and reflection."
+              }
+            },
+            {
+              "name": "Vilar Formoso Frontier of Peace Museum",
+              "tip_5lang": {
+                "de": "Ideal bei Regen: Verbringen Sie hier viel Zeit im Trockenen.",
+                "hu": "Ideális esőben: töltsön itt több időt a száraz belső terekben.",
+                "ro": "Ideal pe ploaie: petreceți mai mult timp în interiorul muzeului.",
+                "en": "Perfect for rainy days: spend extra time exploring the exhibits."
+              }
+            },
+            {
+              "name": "Portuguese-Spanish Border",
+              "tip_5lang": {
+                "de": "Die Grenzlinie ist draußen; halten Sie den Schirm gut fest.",
+                "hu": "A határvonal szabadtéren van; fogja szorosan az esernyőt.",
+                "ro": "Linia de frontieră este în aer liber; țineți bine umbrela.",
+                "en": "The border line is outdoors; keep a firm grip on your umbrella."
+              }
+            },
+            {
+              "name": "Chapel of Our Lady of Peace",
+              "tip_5lang": {
+                "de": "Abschluss im Trockenen, bevor es zurück zum Bahnhof geht.",
+                "hu": "Zárja a napot fedett helyen, mielőtt visszatérne az állomásra.",
+                "ro": "Încheiați vizita la adăpost înainte de a reveni la gară.",
+                "en": "Finish your visit indoors before heading back to the station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vilar Formoso hat viele asphaltierte Wege, aber Kopfsteinpflaster kann rutschig sein.",
+              "Das Museum ist der beste Zufluchtsort bei starkem Regen.",
+              "Die Bahnhofshalle bietet hervorragenden Schutz und tolle Fotomotive.",
+              "Tragen Sie wasserfeste Schuhe für den Weg zur Grenze.",
+              "In den lokalen Pastelarias gibt es heißen Kaffee zum Aufwärmen."
+            ],
+            "hu": [
+              "A macskaköves utcák csúszósak lehetnek, óvatosan lépkedjen.",
+              "A múzeum a legjobb menedék heves esőzés esetén.",
+              "A vasútállomás csarnoka tágas és védett a csapadéktól.",
+              "Viseljen vízálló cipőt a határ menti sétához.",
+              "A helyi kávézókban remek lehetőség nyílik egy forró italra."
+            ],
+            "ro": [
+              "Străzile pietruite pot fi alunecoase; mergeți cu atenție.",
+              "Muzeul este cel mai bun refugiu în caz de ploaie torențială.",
+              "Hala gării oferă protecție excelentă și cadre foto deosebite.",
+              "Purtați încălțăminte impermeabilă pentru plimbarea spre graniță.",
+              "Cafenelele locale sunt ideale pentru a vă încălzi cu o băutură caldă."
+            ],
+            "en": [
+              "Cobblestone streets can be slippery when wet; watch your step.",
+              "The museum is your best refuge during heavy downpours.",
+              "The train station concourse is spacious and well-protected.",
+              "Wear waterproof shoes for the walk toward the border area.",
+              "Local pastry shops offer the perfect spot for a warm coffee break."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in der Beira Alta ist frisch und klar. Morgens liegt oft ein feiner Frost auf dem Bahnhofsplatz, was dem Ort eine magische Stille verleiht. Die Besichtigung der Bahnhofsfliesen ist bei der tiefstehenden Wintersonne besonders eindrucksvoll.\n\nMittags wärmen wir uns im modernen Museum auf, während wir in die Geschichte der Flüchtlinge eintauchen. Nachmittags weht an der Grenze ein kühler Wind, der uns zügig weiterschreiten lässt. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen wir das goldene Licht an der Kapelle Unserer Lieben Frau vom Frieden, bevor die Dämmerung die Grenzstadt einhüllt.",
+            "hu": "A tél Beira Altában friss és tiszta. Reggelente gyakran dér fedi az állomás teret, ami mágikus csendet kölcsönöz a helynek. Az állomás csempéi a laposan beeső téli napsütésben különösen szépek.\n\nDélben a modern múzeumban melegszünk fel, miközben elmerülünk a menekültek történetében. Délután a határon hűvös szél fúj, ami tempósabb haladásra ösztönöz. Mivel a nap már 17:00 körül nyugszik, az aranyló fényeket a Miasszonyunk templománál élvezzük ki, mielőtt a szürkület beborítaná a határvárost.",
+            "ro": "Iarna în Beira Alta este răcoroasă și senină. Dimineața, promoroaca acoperă adesea Piața Gării, oferind locului o liniște magică. Plăcile din gară sunt deosebit de frumoase în lumina joasă a soarelui de iarnă.\n\nLa prânz ne încălzim în muzeul modern, explorând poveștile emoționante ale refugiaților. După-amiaza, vântul rece de la graniță ne îndeamnă la un pas mai vioi. Deoarece soarele apune în jurul orei 17:00, profităm de lumina aurie la capela Maicii Domnului a Păcii, înainte ca amurgul să cuprindă orașul de frontieră.",
+            "en": "Winter in Beira Alta is crisp and clear. In the morning, frost often dusts Station Square, lending a magical stillness to the air. The station’s tilework is particularly striking in the low winter sun.\n\nAt noon, we warm up inside the modern museum while diving into the history of those who sought refuge here. In the afternoon, a brisk wind at the border keeps us moving quickly. With sunset around 17:00, we catch the golden hour at the Chapel of Our Lady of Peace before twilight settles over this historic border town."
+          },
+          "stops": [
+            {
+              "name": "Largo da Estação (Station Square)",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft, bevor es in die Gebäude geht.",
+                "hu": "Élvezze a friss téli levegőt, mielőtt bemenne az épületekbe.",
+                "ro": "Bucurați-vă de aerul curat de iarnă înainte de a intra în clădiri.",
+                "en": "Enjoy the crisp winter air before heading into the buildings."
+              }
+            },
+            {
+              "name": "Vilar Formoso Railway Station",
+              "tip_5lang": {
+                "de": "Das Licht am Morgen lässt die blauen Fliesen herrlich leuchten.",
+                "hu": "A reggeli fényekben gyönyörűen ragyognak a kék csempék.",
+                "ro": "Lumina dimineții face ca plăcile albastre să strălucească superb.",
+                "en": "The morning light makes the blue tiles glow beautifully."
+              }
+            },
+            {
+              "name": "Monument to the Combatants",
+              "tip_5lang": {
+                "de": "Ein kurzer, erfrischender Stopp an der frischen Luft.",
+                "hu": "Rövid, frissítő megálló a tiszta téli levegőn.",
+                "ro": "O oprire scurtă și revigorantă în aerul rece.",
+                "en": "A brief, refreshing stop in the clear winter atmosphere."
+              }
+            },
+            {
+              "name": "Main Church of Vilar Formoso",
+              "tip_5lang": {
+                "de": "Achten Sie auf die kühleren Temperaturen im Inneren der Kirche.",
+                "hu": "Ügyeljen rá, hogy a templom belseje télen hűvös lehet.",
+                "ro": "Rețineți că interiorul bisericii poate fi destul de rece iarna.",
+                "en": "Keep in mind that the church interior can be chilly in winter."
+              }
+            },
+            {
+              "name": "Vilar Formoso Frontier of Peace Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich mittags aufzuwärmen.",
+                "hu": "A tökéletes hely a déli felmelegedéshez.",
+                "ro": "Locul perfect pentru a vă încălzi la mijlocul zilei.",
+                "en": "The perfect indoor location to warm up during midday."
+              }
+            },
+            {
+              "name": "Portuguese-Spanish Border",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, hier zieht es oft ordentlich.",
+                "hu": "Öltözzön rétegesen, a határon gyakran erős a szél.",
+                "ro": "Îmbrăcați-vă gros, vântul este adesea puternic la graniță.",
+                "en": "Dress warmly as the border area can be quite windy."
+              }
+            },
+            {
+              "name": "Chapel of Our Lady of Peace",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 17:00 Uhr.",
+                "hu": "Élvezze a naplementét 17:00 óra környékén.",
+                "ro": "Admirați apusul de soare în jurul orei 17:00.",
+                "en": "Enjoy the early sunset views around 17:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Temperaturen können im Winter nahe Null sinken; Schal und Mütze sind Pflicht.",
+              "Die Sonne geht früh unter (ca. 17:00), planen Sie die Außenstopps davor.",
+              "Im Museum ist es angenehm temperiert.",
+              "Probieren Sie lokale Fleischgerichte, die im Winter besonders gut schmecken.",
+              "Der Bahnhof bietet auch im Winter tolle, windgeschützte Ausblicke."
+            ],
+            "hu": [
+              "A hőmérséklet fagypont közelébe eshet, sál és sapka kötelező.",
+              "A nap korán nyugszik (17:00 körül), végezze el a kinti látogatásokat időben.",
+              "A múzeum belső terei kellemesen fűtöttek.",
+              "Kóstolja meg a laktató helyi húsételeket, amik télen a legjobbak.",
+              "A vasútállomás szélvédett részei télen is jó kilátást nyújtanak."
+            ],
+            "ro": [
+              "Temperaturile pot scădea spre zero grade; fularul și căciula sunt necesare.",
+              "Soarele apune devreme (cca. 17:00), planificați vizitele externe înainte.",
+              "Interiorul muzeului este încălzit și confortabil.",
+              "Încercați preparatele locale din carne, perfecte pentru sezonul rece.",
+              "Gara oferă zone protejate de vânt pentru a admira arhitectura."
+            ],
+            "en": [
+              "Temperatures can drop near freezing; a scarf and hat are essential.",
+              "Sunset is early (around 17:00), so finish outdoor activities by then.",
+              "The museum provides a comfortable, climate-controlled environment.",
+              "Try the hearty local meat dishes, which are best in winter.",
+              "The railway station has sheltered spots to admire the tiles out of the wind."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -622,6 +830,214 @@
           "A helmet is strongly recommended.",
           "Bring a lock to secure your bike at stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert in Vilar Formoso Konzentration, bietet aber eine dynamische Perspektive. Wir starten am Bahnhof, wobei wir auf die nassen Gleisbereiche achten. Die Fahrt zur Kirche führt über asphaltierte Straßen, die bei Nässe glänzen.\n\nMittags parken wir die Räder sicher am Museum, um uns ausgiebig im Trockenen zu informieren. Nachmittags geht es zur Grenze; die kurze Distanz macht die Fahrt trotz Regen bewältigbar. Der Tag endet an der Kapelle, wo wir kurz innehalten, bevor wir die kurze Strecke zurückrollen. Ein erfrischendes Erlebnis für wetterfeste Entdecker.",
+            "hu": "Egy esős kerékpártúra Vilar Formosóban figyelmet igényel, de dinamikus élményt nyújt. Az állomástól indulunk, ügyelve a vizes sínekre és burkolatra. A templomhoz vezető aszfaltozott utak csillognak a nedvességtől.\n\nDélben biztonságosan lezárjuk a bicikliket a múzeumnál, hogy alaposan körülnézzünk a száraz belső térben. Délután a határ felé tekerünk; a rövid táv esőben is könnyen teljesíthető. A nap a kápolnánál ér véget egy rövid pihenővel. Frissítő élmény a kalandvágyó és az elemekkel dacoló utazóknak.",
+            "ro": "O tură cu bicicleta pe ploaie în Vilar Formoso necesită atenție, dar oferă o perspectivă dinamică. Pornim de la gară, fiind atenți la zonele umede de lângă șine. Drumul spre biserică este asfaltat și strălucește sub stropii de ploaie.\n\nLa prânz parcăm bicicletele în siguranță la muzeu pentru a explora expozițiile la adăpost. După-amiaza pedalăm spre graniță; distanța scurtă face traseul gestionabil chiar și pe ploaie. Ziua se încheie la capelă cu un moment de respiro. O experiență revigorantă pentru exploratorii echipați corespunzător.",
+            "en": "A rainy bike tour in Vilar Formoso requires focus but offers a dynamic perspective. We start at the station, being careful around wet tracks and tiles. The ride to the church follows paved roads that glisten in the moisture.\n\nAt noon, we park the bikes securely at the museum to explore the dry interior at leisure. In the afternoon, we pedal to the border; the short distance makes it manageable despite the rain. The day concludes at the chapel with a brief pause. A refreshing experience for adventurous travelers prepared for the elements."
+          },
+          "stops": [
+            {
+              "name": "Largo da Estação (Station Square)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Losfahren: Das Kopfsteinpflaster ist rutschig.",
+                "hu": "Vigyázat az induláskor: a macskakő csúszós lehet.",
+                "ro": "Atenție la plecare: pavajul poate fi alunecos.",
+                "en": "Be careful starting off: the cobblestones are slippery when wet."
+              }
+            },
+            {
+              "name": "Vilar Formoso Railway Station",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad im Bahnhofsbereich, um Stürze zu vermeiden.",
+                "hu": "Tolja a biciklit az állomás területén a balesetek elkerülése érdekében.",
+                "ro": "Împingeți bicicleta în zona gării pentru a evita căzăturile.",
+                "en": "Walk your bike near the station area to avoid slipping."
+              }
+            },
+            {
+              "name": "Main Church of Vilar Formoso",
+              "tip_5lang": {
+                "de": "Suchen Sie einen geschützten Abstellplatz für Ihr Rad.",
+                "hu": "Keressen egy védett helyet a kerékpár leállításához.",
+                "ro": "Căutați un loc protejat pentru a lăsa bicicleta.",
+                "en": "Look for a sheltered spot to park your bike while visiting."
+              }
+            },
+            {
+              "name": "Vilar Formoso Frontier of Peace Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als lange Regenpause.",
+                "hu": "Használja ki a múzeumlátogatást egy hosszabb esőszünetnek.",
+                "ro": "Folosiți vizita la muzeu ca pe o pauză lungă de ploaie.",
+                "en": "Use the museum visit as an extended break from the rain."
+              }
+            },
+            {
+              "name": "Portuguese-Spanish Border",
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig auf der nassen Grenzstraße.",
+                "hu": "Fékezzen időben a vizes határ menti úton.",
+                "ro": "Frânați din timp pe drumul umed de la frontieră.",
+                "en": "Brake early on the wet roads near the border."
+              }
+            },
+            {
+              "name": "Fonte da Vila (Village Fountain)",
+              "tip_5lang": {
+                "de": "Kurzer Halt für ein Foto; der Platz bietet wenig Schutz.",
+                "hu": "Gyors megálló; a téren kevés a fedett rész.",
+                "ro": "Oprire rapidă; piața oferă puțin adăpost.",
+                "en": "Quick stop; the square offers limited shelter."
+              }
+            },
+            {
+              "name": "Chapel of Our Lady of Peace",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihren Sattel vor der Rückfahrt ab.",
+                "hu": "Törölje le a nyerget a visszaindulás előtt.",
+                "ro": "Ștergeți șaua înainte de drumul de întoarcere.",
+                "en": "Dry your saddle before the ride back to the station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie nasses Kopfsteinpflaster und Metallschienen.",
+              "Vollständige Regenbekleidung (Hose + Jacke) wird dringend empfohlen.",
+              "Prüfen Sie Ihre Bremsen vor dem Start der Tour.",
+              "Sichern Sie Ihr Gepäck in wasserdichten Taschen.",
+              "Das Museum bietet gute Abstellmöglichkeiten."
+            ],
+            "hu": [
+              "Kerülje a vizes macskaköveket és a fém sínpárokat.",
+              "Teljes esőruházat (nadrág és dzseki) erősen ajánlott.",
+              "Ellenőrizze a fékeket a túra megkezdése előtt.",
+              "Használjon vízhatlan táskákat a felszereléshez.",
+              "A múzeumnál jó parkolási lehetőség van a kerékpároknak."
+            ],
+            "ro": [
+              "Evitați pavajul umed și șinele de metal ale gării.",
+              "Echipamentul complet de ploaie este recomandat.",
+              "Verificați frânele înainte de a porni la drum.",
+              "Păstrați bagajele în genți impermeabile.",
+              "Muzeul oferă locuri bune de parcare pentru biciclete."
+            ],
+            "en": [
+              "Avoid riding directly on wet cobblestones or metal tracks.",
+              "Full rain gear (pants and jacket) is highly recommended.",
+              "Test your brakes before starting the tour in the wet.",
+              "Ensure your belongings are in waterproof panniers or bags.",
+              "The museum has convenient areas to lock up your bike."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Vilar Formoso ist belebend. Der Morgen startet frisch am Bahnhofsplatz; die Bewegung hält uns warm, während wir die historische Architektur bewundern. Die Straßen sind meist trocken und bieten guten Halt.\n\nMittags kehren wir ins Museum ein, um uns bei einer Pause von der kühlen Brise zu erholen. Die Fahrt zur Grenze am Nachmittag ist kurz und knackig. Da es bereits gegen 17:00 Uhr dämmert, beenden wir unsere Tour an der Kapelle, um das letzte Tageslicht auf den Feldern einzufangen, bevor wir zügig zum Ausgangspunkt zurückkehren. Ein sportlicher Tag in klarer Winterluft.",
+            "hu": "A téli biciklizés Vilar Formosóban igazán élénkítő. A reggel frissen indul az állomás téren; a mozgás melegen tart, miközben a történelmi épületeket csodáljuk. Az utak ilyenkor általában szárazak és jól tapadnak.\n\nDélben betérünk a múzeumba, hogy megpihenjünk a hűvös szél után. A délutáni határmenti tekerés rövid és pörgős. Mivel 17:00 körül már sötétedik, a túrát a kápolnánál zárjuk, elkapva az utolsó fényeket a mezők felett, majd tempósan visszatérünk a kiindulópontra. Sportos nap a tiszta téli levegőben.",
+            "ro": "Ciclismul de iarnă în Vilar Formoso este revigorant. Dimineața începe cu aer rece în Piața Gării; mișcarea ne menține calzi în timp ce admirăm arhitectura istorică. Drumurile sunt de obicei uscate și oferă aderență bună.\n\nLa prânz ne oprim la muzeu pentru o pauză binevenită de la briza rece. Plimbarea spre graniță de după-amiază este scurtă și intensă. Deoarece se întunecă în jurul orei 17:00, încheiem turul la capelă pentru a surprinde ultima lumină peste câmpuri, apoi revenim rapid la punctul de plecare. O zi sportivă în aerul curat de iarnă.",
+            "en": "Winter cycling in Vilar Formoso is invigorating. The morning starts crisp at Station Square; the physical activity keeps us warm while we admire the historical architecture. The roads are usually dry, offering good traction.\n\nAt noon, we head into the museum for a welcome break from the cool breeze. The afternoon ride to the border is short and brisk. With darkness approaching around 17:00, we finish our tour at the chapel, catching the final light over the fields before quickly returning to our starting point. A sporty day in the clear winter air."
+          },
+          "stops": [
+            {
+              "name": "Largo da Estação (Station Square)",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; der Fahrtwind ist morgens kalt.",
+                "hu": "Viseljen kesztyűt; a menetszél reggelente hideg.",
+                "ro": "Purtați mănuși; vântul din timpul mersului este rece dimineața.",
+                "en": "Wear gloves; the wind chill while riding is cold in the morning."
+              }
+            },
+            {
+              "name": "Vilar Formoso Railway Station",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für Fotos, bevor man wieder in die Pedale tritt.",
+                "hu": "Rövid fotómegálló, mielőtt újra pedálozni kezdene.",
+                "ro": "O scurtă oprire pentru poze înainte de a pedala din nou.",
+                "en": "A quick photo stop before you start pedaling again."
+              }
+            },
+            {
+              "name": "Main Church of Vilar Formoso",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab und wärmen Sie sich kurz auf.",
+                "hu": "Állítsa le biztonságosan a biciklit és melegedjen fel kicsit.",
+                "ro": "Parcați bicicleta în siguranță și încălziți-vă puțin.",
+                "en": "Park your bike safely and take a quick moment to warm up."
+              }
+            },
+            {
+              "name": "Vilar Formoso Frontier of Peace Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Museum zur Regeneration.",
+                "hu": "Használja ki a múzeum fűtését a regenerálódáshoz.",
+                "ro": "Folosiți încălzirea din muzeu pentru regenerare.",
+                "en": "Take advantage of the museum's heating to recharge."
+              }
+            },
+            {
+              "name": "Portuguese-Spanish Border",
+              "tip_5lang": {
+                "de": "An der Grenze kann es windig sein; halten Sie den Lenker fest.",
+                "hu": "A határon szeles lehet az idő; fogja erősen a kormányt.",
+                "ro": "Poate fi vânt la graniță; țineți bine de ghidon.",
+                "en": "It can be windy at the border; keep a firm grip on the handlebars."
+              }
+            },
+            {
+              "name": "Fonte da Vila (Village Fountain)",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Halt; die Kälte zieht hier schnell ein.",
+                "hu": "Csak rövid megálló; a hideg itt gyorsan átjárja az embert.",
+                "ro": "Doar o oprire scurtă; frigul pătrunde repede aici.",
+                "en": "Only a brief stop; the cold air settles in quickly here."
+              }
+            },
+            {
+              "name": "Chapel of Our Lady of Peace",
+              "tip_5lang": {
+                "de": "Achten Sie auf das Licht; die Dämmerung setzt früh ein.",
+                "hu": "Figyeljen a fényekre; a szürkület korán kezdődik.",
+                "ro": "Atenție la lumină; amurgul se instalează devreme.",
+                "en": "Watch the light; twilight sets in early in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung (Zwiebelprinzip) gegen die Kälte.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert.",
+              "Die Luft ist trocken, aber der Wind kann auskühlen.",
+              "Ein heißer Tee in einer Thermoskanne ist ideal.",
+              "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit (17:00)."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a hideg ellen.",
+              "Győződjön meg róla, hogy a kerékpár lámpái működnek.",
+              "A levegő száraz, de a szél hűvös lehet.",
+              "Egy termosz forró tea ideális kísérő a túrához.",
+              "Tervezze meg a visszautat sötétedés előtt (17:00)."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi împotriva frigului.",
+              "Asigurați-vă că luminile bicicletei funcționează corect.",
+              "Aerul este uscat, dar vântul poate fi tăios.",
+              "Un termos cu ceai fierbinte este ideal pentru drum.",
+              "Planificați întoarcerea înainte de lăsarea întunericului (17:00)."
+            ],
+            "en": [
+              "Layer your clothing to protect against the winter chill.",
+              "Ensure your bike lights are working for the late afternoon.",
+              "The air is dry but the wind can be biting while riding.",
+              "A thermos of hot tea is a perfect companion for the trip.",
+              "Plan to head back before darkness falls around 17:00."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -629,7 +1045,7 @@
       "speed_kmh": 28,
       "start": "09:00",
       "end_estimate": "15:35",
-      "total_km": 7.5,
+      "total_km": 4.5,
       "stop_count": 6,
       "stops": [
         {
@@ -906,6 +1322,196 @@
           "Driving in town is easy, but streets can be narrow.",
           "Have your ID ready for crossing the border, even if checks are rare."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Vilar Formoso auch bei Regen bequem zu erkunden. Wir parken direkt am Bahnhofsplatz und genießen den Blick auf die Architektur trocken aus dem Wagen. Die Fahrt zwischen den historischen Punkten schützt uns vor den Schauern.\n\nMittags bietet das Museum einen großzügigen Parkplatz und stundenlange Information im Trockenen. Nachmittags fahren wir zur Grenze, wo wir die Monumente aus nächster Nähe besichtigen können, ohne lange dem Regen ausgesetzt zu sein. Der Tag endet entspannt an der Kapelle, bevor wir die Heizung im Auto wieder aufdrehen und die Heimreise antreten.",
+            "hu": "Autóval Vilar Formoso esőben is kényelmesen felfedezhető. Közvetlenül az állomás téren parkolunk, és szárazon, a kocsiból csodáljuk az építészetet. A történelmi pontok közötti autózás megvéd minket a záporoktól.\n\nDélben a múzeumnál tágas parkoló és több órányi száraz program vár ránk. Délután a határhoz hajtunk, ahol a műemlékeket közelről is megnézhetjük anélkül, hogy sokáig áznánk. A nap a kápolnánál zárul, majd a fűtést feltekerve indulunk haza. Kényelmes és biztonságos városnézés.",
+            "ro": "Cu mașina, Vilar Formoso este ușor de explorat chiar și pe ploaie. Parcăm direct în Piața Gării și admirăm arhitectura la adăpost. Deplasările între punctele istorice ne protejează de aversele de ploaie.\n\nLa prânz, muzeul oferă o parcare generoasă și ore întregi de informații la uscat. După-amiaza conducem spre graniță, unde putem vedea monumentele de aproape fără a fi expuși ploii pentru mult timp. Ziua se încheie relaxat la capelă, înainte de a porni încălzirea în mașină pentru drumul spre casă.",
+            "en": "Exploring Vilar Formoso by car is comfortable even in the rain. We park right at Station Square, enjoying the view of the architecture from the dry cabin. Driving between historical sites keeps us protected from the downpours.\n\nAt noon, the museum offers ample parking and hours of indoor learning. In the afternoon, we drive to the border, viewing the monuments up close without getting soaked. The day ends peacefully at the chapel before we turn up the heater and start the journey home. A convenient and cozy sightseeing experience."
+          },
+          "stops": [
+            {
+              "name": "Parking at Largo da Estação",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Bahnhofseingang, um trocken zu bleiben.",
+                "hu": "Parkoljon az állomás bejáratához közel, hogy ne ázzon meg.",
+                "ro": "Parcați aproape de intrarea în gară pentru a rămâne uscați.",
+                "en": "Park close to the station entrance to minimize time in the rain."
+              }
+            },
+            {
+              "name": "Vilar Formoso Railway Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg vom Auto zu den Fliesen.",
+                "hu": "Használja ki a rövid utat az autótól a csempékig.",
+                "ro": "Profită de distanța scurtă de la mașină până la azulejos.",
+                "en": "Take advantage of the short walk from the car to the tiles."
+              }
+            },
+            {
+              "name": "Main Church of Vilar Formoso",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze direkt vor der Kirche.",
+                "hu": "Közvetlenül a templom előtt találhatók parkolóhelyek.",
+                "ro": "Există locuri de parcare chiar în fața bisericii.",
+                "en": "There are parking spots available directly in front of the church."
+              }
+            },
+            {
+              "name": "Drive to 'Frontier of Peace' Museum",
+              "tip_5lang": {
+                "de": "Großer, befestigter Parkplatz direkt am Museumseingang.",
+                "hu": "Nagy, szilárd burkolatú parkoló közvetlenül a múzeumnál.",
+                "ro": "Parcare mare și pavată chiar la intrarea muzeului.",
+                "en": "Large, paved parking area right at the museum entrance."
+              }
+            },
+            {
+              "name": "Portuguese-Spanish Border",
+              "tip_5lang": {
+                "de": "Man kann die Grenzmarkierungen gut vom Auto aus sehen.",
+                "hu": "A határjelzések az autóból is jól láthatók.",
+                "ro": "Marcajele de frontieră se văd bine chiar din mașină.",
+                "en": "The border markers are easily visible from inside the car."
+              }
+            },
+            {
+              "name": "Chapel of Our Lady of Peace",
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Kapelle für einen schnellen Besuch.",
+                "hu": "Parkoljon közvetlenül a kápolnánál a gyors látogatáshoz.",
+                "ro": "Parcați direct lângă capelă pentru o vizită rapidă.",
+                "en": "Park right by the chapel for a quick, dry visit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sicht kann bei starkem Regen eingeschränkt sein; fahren Sie vorsichtig.",
+              "Nutzen Sie die Parkmöglichkeiten direkt an den Sehenswürdigkeiten.",
+              "Das Auto dient als idealer Rückzugsort zwischen den Stopps.",
+              "Vermeiden Sie das Parken in tiefen Pfützen.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt."
+            ],
+            "hu": [
+              "Heves esőben a látási viszonyok romolhatnak; vezessen óvatosan.",
+              "Használja a látnivalók melletti közvetlen parkolókat.",
+              "Az autó tökéletes menedék a megállók között.",
+              "Kerülje a mély tócsákban való parkolást.",
+              "Ellenőrizze az ablaktörlőket az indulás előtt."
+            ],
+            "ro": [
+              "Vizibilitatea poate fi redusă pe ploaie torențială; conduceți cu grijă.",
+              "Folosiți parcările situate chiar lângă obiectivele turistice.",
+              "Mașina este refugiul ideal între opriri.",
+              "Evitați parcarea în bălți adânci.",
+              "Verificați ștergătoarele înainte de a pleca la drum."
+            ],
+            "en": [
+              "Visibility may be reduced during heavy rain; drive cautiously.",
+              "Take advantage of parking lots located right next to the sites.",
+              "The car serves as a perfect dry base between stops.",
+              "Avoid parking in deep puddles to keep your feet dry.",
+              "Check your windshield wipers before starting your trip."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autotour durch Vilar Formoso ist gemütlich und effizient. Morgens erreichen wir den Bahnhofsplatz, während die Heizung für Wohlbehagen sorgt. Die klare Sicht ermöglicht tolle Ausblicke auf die frostige Landschaft der Beira.\n\nMittags ist der Besuch im Museum ein kulturelles Highlight im Warmen. Nachmittags fahren wir zur spanischen Grenze; der Wagen bietet Schutz vor dem kalten Wind an den offenen Monumenten. Mit dem frühen Sonnenuntergang gegen 17:00 Uhr steuern wir die Kapelle an, um die winterliche Dämmerung in aller Ruhe zu beobachten, bevor wir uns auf den Rückweg machen. Ein entspannter Tag, trotz niedriger Außentemperaturen.",
+            "hu": "Egy téli autós túra Vilar Formosóban kényelmes és hatékony. Reggel érkezünk az állomás térre, miközben a fűtés biztosítja a komfortot. A tiszta időben gyönyörű kilátás nyílik a Beira zúzmarás tájaira.\n\nDélben a múzeumlátogatás kulturális fénypont a melegben. Délután a spanyol határ felé hajtunk; az autó megvéd a hideg széltől a nyitott műemlékeknél. A korai, 17:00 körüli naplementével a kápolnához tartunk, hogy nyugodtan nézzük a téli szürkületet, mielőtt elindulnánk vissza. Pihentető nap a kinti hideg ellenére.",
+            "ro": "Un tur cu mașina iarna prin Vilar Formoso este confortabil și eficient. Dimineața ajungem în Piața Gării, în timp ce încălzirea asigură o atmosferă plăcută. Vizibilitatea bună permite panorame frumoase peste peisajul înghețat.\n\nLa prânz, vizita la muzeu este un punct cultural călduros. După-amiaza conducem spre granița spaniolă; mașina ne protejează de vântul rece lângă monumentele expuse. Odată cu apusul devreme, în jurul orei 17:00, ne îndreptăm spre capelă pentru a observa amurgul de iarnă în liniște. O zi relaxantă, în ciuda temperaturilor scăzute de afară.",
+            "en": "A winter car tour through Vilar Formoso is both cozy and efficient. We arrive at Station Square in the morning with the heater running for comfort. Clear skies offer great views of the frosty Beira landscape.\n\nAt noon, the museum visit is a warm cultural highlight. In the afternoon, we drive to the Spanish border; the car provides a shield against the cold wind at the open-air monuments. With the early sunset around 17:00, we head to the chapel to watch the winter twilight in peace before driving back. A relaxing day despite the low outside temperatures."
+          },
+          "stops": [
+            {
+              "name": "Parking at Largo da Estação",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, während Sie schauen.",
+                "hu": "Ne járassa feleslegesen a motort várakozás közben.",
+                "ro": "Nu lăsați motorul pornit inutil în timp ce admirați zona.",
+                "en": "Don't leave the engine idling unnecessarily while taking in the views."
+              }
+            },
+            {
+              "name": "Vilar Formoso Railway Station",
+              "tip_5lang": {
+                "de": "Genießen Sie die Architektur und kehren Sie schnell ins Warme zurück.",
+                "hu": "Élvezze az építészetet, majd térjen vissza gyorsan a melegbe.",
+                "ro": "Admirați arhitectura și reveniți rapid la căldură.",
+                "en": "Enjoy the architecture and return quickly to the warm car."
+              }
+            },
+            {
+              "name": "Main Church of Vilar Formoso",
+              "tip_5lang": {
+                "de": "Vorsicht bei möglichem Glatteis auf den Parkflächen.",
+                "hu": "Vigyázzon az esetleges jegesedésre a parkolóhelyeken.",
+                "ro": "Atenție la posibila gheață de pe suprafețele de parcare.",
+                "en": "Be careful of possible ice on the parking surfaces."
+              }
+            },
+            {
+              "name": "Drive to 'Frontier of Peace' Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist gut geheizt und ein idealer Winterstopp.",
+                "hu": "A múzeum jól fűtött, ideális téli megállóhely.",
+                "ro": "Muzeul este bine încălzit, fiind o oprire ideală iarna.",
+                "en": "The museum is well-heated and serves as an ideal winter stop."
+              }
+            },
+            {
+              "name": "Portuguese-Spanish Border",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für Fotos; der Wind kann hier eisig sein.",
+                "hu": "Rövid kiszállás a fotókhoz; a szél itt jeges lehet.",
+                "ro": "Coborâre scurtă pentru poze; vântul poate fi tăios aici.",
+                "en": "Get out briefly for photos; the wind can be icy at the border."
+              }
+            },
+            {
+              "name": "Chapel of Our Lady of Peace",
+              "tip_5lang": {
+                "de": "Bleiben Sie für den Sonnenuntergang im Auto sitzen.",
+                "hu": "Maradjon az autóban a naplemente megtekintéséhez.",
+                "ro": "Rămâneți în mașină pentru a admira apusul soarelui.",
+                "en": "Stay inside the car to watch the sunset comfortably."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in Ihrem Kühlsystem.",
+              "Achten Sie auf morgendliches Glatteis auf Nebenstraßen.",
+              "Die Heizung im Auto sorgt für ein angenehmes Erlebnis.",
+              "Planen Sie Ihre Route so, dass Sie vor 17:00 Uhr fertig sind.",
+              "Nehmen Sie eine Decke für längere Pausen mit."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a hűtőrendszerben.",
+              "Ügyeljen a reggeli jegesedésre a mellékutakon.",
+              "Az autó fűtése kellemessé teszi a felfedezést.",
+              "Tervezze meg úgy az utat, hogy 17:00 előtt végezzen.",
+              "Vigyen magával takarót a hosszabb pihenőkhöz."
+            ],
+            "ro": [
+              "Verificați antigelul din sistemul de răcire.",
+              "Atenție la poleiul de dimineață pe drumurile secundare.",
+              "Încălzirea mașinii face explorarea foarte plăcută.",
+              "Planificați ruta astfel încât să terminați înainte de ora 17:00.",
+              "Luați o pătură pentru pauzele mai lungi."
+            ],
+            "en": [
+              "Check the antifreeze levels in your car's cooling system.",
+              "Watch out for morning ice on the secondary roads.",
+              "Using the car heater makes for a very pleasant experience.",
+              "Plan your route to finish outdoor sightseeing by 17:00.",
+              "Bring a blanket for added comfort during longer breaks."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -913,7 +1519,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "16:15",
-      "total_km": 7.0,
+      "total_km": 4.0,
       "stop_count": 6,
       "stops": [
         {
@@ -1190,6 +1796,196 @@
           "Have some small change ready for bus tickets.",
           "Most central sights are easily walkable from each other."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit den öffentlichen Verkehrsmitteln lässt sich Vilar Formoso auch bei Regen gut erkunden, da der Bahnhof der zentrale Knotenpunkt ist. Morgens kommen wir trocken an und nutzen die Bahnhofshalle als Ausgangspunkt. Die Wege zwischen den Haltestellen sind kurz und meist asphaltiert.\n\nMittags verbringen wir viel Zeit im Museum, das fußläufig vom Bahnhofsbereich erreichbar ist. Nachmittags führt uns der Weg zur Grenze; bei Regen ist dies ein kurzer, intensiver Ausflug. Da der Bahnhof Schutz bietet, können wir dort entspannt auf den nächsten Zug oder Bus warten, während es draußen prasselt. Ein geschichtsträchtiger Tag mit guter Anbindung.",
+            "hu": "Tömegközlekedéssel Vilar Formoso esőben is jól felfedezhető, mivel a vasútállomás a központi csomópont. Reggel szárazon érkezünk, és az állomást használjuk bázisnak. A megállók közötti utak rövidek és többnyire aszfaltozottak.\n\nDélben sok időt töltünk a múzeumban, amely sétatávolságra van az állomástól. Délután a határ felé vesszük az irányt; esőben ez egy rövid, de tartalmas kirándulás. Mivel az állomás fedett, ott kényelmesen várhatjuk a csatlakozást, miközben kint esik. Történelmi nap remek közlekedési kapcsolatokkal.",
+            "ro": "Cu transportul public, Vilar Formoso este ușor de vizitat pe ploaie, gara fiind nodul central. Dimineața sosim la adăpost și folosim clădirea gării ca punct de plecare. Distanțele dintre opriri sunt scurte și drumurile sunt asfaltate.\n\nLa prânz petrecem mult timp în muzeu, aflat la câțiva pași de zona gării. După-amiaza mergem spre graniță; pe ploaie, aceasta este o excursie scurtă și intensă. Gara oferă protecție, așa că putem aștepta relaxați trenul sau autobuzul în timp ce afară plouă. O zi plină de istorie cu conexiuni bune.",
+            "en": "Using public transit, Vilar Formoso is easy to explore in the rain, as the railway station is the central hub. We arrive dry in the morning and use the station building as our base. The paths between stops are short and mostly paved.\n\nAt noon, we spend plenty of time at the museum, which is within walking distance of the station area. In the afternoon, we head toward the border; in the rain, this is a short but meaningful excursion. Since the station provides shelter, we can wait comfortably for our next connection while it pours outside. A historic day with great transit links."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Vilar Formoso Station",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen zunächst in der Bahnhofshalle.",
+                "hu": "Heves eső esetén maradjon kezdetben az állomás várótermében.",
+                "ro": "În caz de ploaie torențială, rămâneți inițial în holul gării.",
+                "en": "If it's raining hard, stay in the station hall for a while."
+              }
+            },
+            {
+              "name": "Largo da Estação (Station Square)",
+              "tip_5lang": {
+                "de": "Die Cafés am Platz bieten gute Unterstellmöglichkeiten.",
+                "hu": "A tér körüli kávézók jó menedéket nyújtanak az eső elől.",
+                "ro": "Cafenelele din piață oferă locuri bune de adăpost.",
+                "en": "The cafes around the square are good spots to duck out of the rain."
+              }
+            },
+            {
+              "name": "Main Church of Vilar Formoso",
+              "tip_5lang": {
+                "de": "Vom Bahnhof aus ein kurzer Fußweg; halten Sie den Schirm bereit.",
+                "hu": "Rövid séta az állomástól; tartsa készenlétben az esernyőt.",
+                "ro": "O plimbare scurtă de la gară; țineți umbrela la îndemână.",
+                "en": "A short walk from the station; have your umbrella ready."
+              }
+            },
+            {
+              "name": "Vilar Formoso Frontier of Peace Museum",
+              "tip_5lang": {
+                "de": "Der ideale Aufenthaltsort während eines Regenschauers.",
+                "hu": "Ideális helyszín egy nagyobb zápor idején.",
+                "ro": "Locul ideal pentru a petrece timpul în timpul unei averse.",
+                "en": "The perfect place to stay during a passing rain shower."
+              }
+            },
+            {
+              "name": "Portuguese-Spanish Border",
+              "tip_5lang": {
+                "de": "Vom Museum aus ist es nur ein kurzer Sprung zur Grenze.",
+                "hu": "A múzeumtól csak egy rövid ugrás a határ.",
+                "ro": "De la muzeu este doar o distanță scurtă până la graniță.",
+                "en": "It's just a quick step from the museum to the border line."
+              }
+            },
+            {
+              "name": "Monument to the Combatants",
+              "tip_5lang": {
+                "de": "Ein schneller Stopp auf dem Weg zurück zum Bahnhof.",
+                "hu": "Gyors megálló a vasútállomás felé vezető úton.",
+                "ro": "O oprire rapidă în drum spre gară.",
+                "en": "A quick stop on your way back to the railway station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie den Bahnhof als trockenen Ankerpunkt für den Tag.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zwischen den Halten.",
+              "Prüfen Sie die Abfahrtszeiten bequem im trockenen Bahnhof.",
+              "Die meisten Sehenswürdigkeiten liegen nah beieinander.",
+              "Es gibt lokale Busse, die bei Regen praktisch sein können."
+            ],
+            "hu": [
+              "Használja az állomást száraz bázisként a nap folyamán.",
+              "Viseljen vízálló ruházatot a megállók közötti sétákhoz.",
+              "Ellenőrizze a menetrendet kényelmesen, az állomás várótermében.",
+              "A legtöbb látnivaló közel van egymáshoz.",
+              "A helyi buszok praktikusak lehetnek esős időben."
+            ],
+            "ro": [
+              "Folosiți gara ca punct de sprijin uscat pentru întreaga zi.",
+              "Purtați haine impermeabile pentru drumurile dintre obiective.",
+              "Verificați orarul de plecare în confortul halei gării.",
+              "Majoritatea obiectivelor sunt aproape unele de altele.",
+              "Autobuzele locale pot fi utile în caz de ploaie persistentă."
+            ],
+            "en": [
+              "Use the railway station as your dry anchor point for the day.",
+              "Wear waterproof gear for the short walks between sites.",
+              "Check departure times from the comfort of the station hall.",
+              "Most attractions are located close to each other.",
+              "Local buses can be a practical option during steady rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Reise mit dem Transit nach Vilar Formoso ist voller historischer Atmosphäre. Der Morgen beginnt mit der Ankunft am Bahnhof; die Kälte der Beira Alta ist erfrischend, während wir den Platz erkunden. Die Wartebereiche im Bahnhof bieten Schutz vor der kühlen Brise.\n\nMittags tauchen wir im Museum in die bewegende Geschichte ein, wo es angenehm warm ist. Nachmittags spazieren wir kurz zur Grenze; die klare Luft sorgt für weite Sicht bis nach Spanien. Da die Sonne gegen 17:00 Uhr untergeht, kehren wir rechtzeitig zum Bahnhof zurück, um die winterliche Abendstimmung unter den Bahnhofslampen zu genießen, bevor der Zug uns wieder nach Hause bringt. Ein Tag voller Entdeckungen im klaren Winterlicht.",
+            "hu": "Egy téli tömegközlekedési utazás Vilar Formosóba tele van történelmi hangulattal. A reggel az állomásra való érkezéssel indul; a Beira Alta friss hidege élénkítő, miközben felfedezzük a teret. Az állomás várótermei védenek a hűvös széltől.\n\nDélben a múzeumban merülünk el a megható történelemben, ahol kellemes meleg van. Délután teszünk egy rövid sétát a határra; a tiszta levegőben messzire ellátni Spanyolország felé. Mivel 17:00 körül nyugszik a nap, időben visszatérünk az állomásra, hogy élvezzük a téli esti hangulatot a lámpák fénye alatt, mielőtt a vonat hazavinne. Felfedezésekkel teli nap a tiszta téli fényben.",
+            "ro": "O călătorie de iarnă cu transportul public spre Vilar Formoso este plină de atmosferă istorică. Dimineața începe cu sosirea în gară; frigul din Beira Alta este revigorant în timp ce explorăm piața. Zonele de așteptare din gară oferă adăpost de briza rece.\n\nLa prânz explorăm istoria emoționantă în muzeu, unde este plăcut și cald. După-amiaza facem o scurtă plimbare spre graniță; aerul curat oferă o vizibilitate excelentă spre Spania. Deoarece soarele apune în jurul orei 17:00, revenim la gară la timp pentru a ne bucura de atmosfera de seară sub luminile gării înainte de plecare. O zi plină de descoperiri în lumina clară de iarnă.",
+            "en": "A winter transit trip to Vilar Formoso is steeped in historical atmosphere. The morning begins with arrival at the station; the crisp Beira Alta cold is refreshing as we explore the square. The station's waiting areas provide a shield from the cool breeze.\n\nAt noon, we dive into moving history at the museum, where it’s comfortably warm. In the afternoon, we take a short walk to the border; the clear air offers great visibility across into Spain. With sunset around 17:00, we return to the station in time to enjoy the winter evening atmosphere under the station lights before heading home. A day of discovery in the clear winter light."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Vilar Formoso Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Warteraum zur Orientierung.",
+                "hu": "Használja a fűtött várótermet a tájékozódáshoz.",
+                "ro": "Folosiți sala de așteptare încălzită pentru a vă orienta.",
+                "en": "Use the heated waiting room to get your bearings."
+              }
+            },
+            {
+              "name": "Largo da Estação (Station Square)",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Kleidung; am Platz kann es zugig sein.",
+                "hu": "Öltözzön melegen; a téren huzatos lehet az idő.",
+                "ro": "Îmbrăcați-vă gros; poate fi curent în piață.",
+                "en": "Dress warmly as the square can be quite drafty in winter."
+              }
+            },
+            {
+              "name": "Main Church of Vilar Formoso",
+              "tip_5lang": {
+                "de": "Ein zügiger Spaziergang hält Sie bei den Temperaturen warm.",
+                "hu": "Egy tempósabb séta melegen tartja a hidegben.",
+                "ro": "O plimbare vioie vă va menține calzi în acest sezon.",
+                "en": "A brisk walk will help keep you warm in the cold weather."
+              }
+            },
+            {
+              "name": "Vilar Formoso Frontier of Peace Museum",
+              "tip_5lang": {
+                "de": "Ein hervorragend temperierter Ort für den Mittag.",
+                "hu": "Kiválóan fűtött helyszín a déli órákra.",
+                "ro": "Un loc cu temperatură plăcută pentru orele prânzului.",
+                "en": "An excellently climate-controlled spot for midday."
+              }
+            },
+            {
+              "name": "Portuguese-Spanish Border",
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Sicht in der klaren Winterluft.",
+                "hu": "Élvezze a messzi kilátást a tiszta téli levegőben.",
+                "ro": "Bucurați-vă de vizibilitatea mare în aerul curat de iarnă.",
+                "en": "Enjoy the long-distance views in the clear winter air."
+              }
+            },
+            {
+              "name": "Monument to the Combatants",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt, bevor es zurück in den warmen Bahnhof geht.",
+                "hu": "Rövid megálló, mielőtt visszatérne a meleg állomásra.",
+                "ro": "Oprire scurtă înainte de a reveni în gara călduroasă.",
+                "en": "Short stop before returning to the warm station building."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Winter-Fahrpläne, die manchmal variieren können.",
+              "Der Bahnhof ist ein gemütlicher Ort für Wartezeiten.",
+              "Nehmen Sie warme Getränke für den Weg mit.",
+              "Besuchen Sie das Museum zur wärmsten Zeit des Tages.",
+              "Die Dämmerung am Bahnhof ist im Winter besonders stimmungsvoll."
+            ],
+            "hu": [
+              "Ellenőrizze a téli menetrendet, ami néha eltérhet.",
+              "A vasútállomás hangulatos hely a várakozáshoz.",
+              "Vigyen magával meleg italokat a sétákhoz.",
+              "A múzeumlátogatást a nap legmelegebb óráira időzítse.",
+              "Az alkonyat az állomáson télen különösen hangulatos."
+            ],
+            "ro": [
+              "Verificați orarul de iarnă, care poate varia uneori.",
+              "Gara este un loc primitor pentru timpii de așteptare.",
+              "Luați băuturi calde pentru plimbările pe jos.",
+              "Vizitați muzeul în cele mai calde ore ale zilei.",
+              "Amurgul la gară este deosebit de pitoresc iarna."
+            ],
+            "en": [
+              "Check winter transit schedules as they may sometimes vary.",
+              "The railway station is a cozy spot to wait for connections.",
+              "Bring along warm beverages for your walks.",
+              "Time your museum visit for the warmest part of the day.",
+              "Twilight at the station is particularly atmospheric in winter."
+            ]
+          }
+        }
       }
     }
   }

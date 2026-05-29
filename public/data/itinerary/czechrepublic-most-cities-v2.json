@@ -260,6 +260,196 @@
           "Wear comfortable shoes as the climb to the castle can be steep.",
           "Check the opening hours of the churches as they can vary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am 1. Platz suchen wir Schutz in den Cafés. Das Stadttheater bietet ein trockenes Kulturprogramm. Der Besuch der verschobenen Marienkirche ist ideal bei Regen, da die Ausstellung im Inneren fasziniert. Mittags am Most-See beobachten wir die Tropfen auf dem Wasser vom Restaurant aus. Der Aufstieg zur Burg Hněvín ist zwar feucht, aber die neblige Aussicht wirkt mystisch.",
+            "hu": "Reggel az 1. számú téren a kávézók árkádjai alatt kezdünk. A Városi Színház kiváló menedéket nyújt a zápor elől. A Mária-templom belső tere és a költöztetésről szóló kiállítás tökéletes esős program. Ebéd közben a Most-tó hullámait nézzük a fedett teraszról. A Hněvín-vár felé vezető út kicsit csúszós, de a ködös panoráma különleges hangulatot áraszt az ipari táj felett.",
+            "ro": "Dimineața în Piața 1 căutăm adăpost sub arcadele cafenelelor. Teatrul Municipal oferă un program cultural uscat. Vizitarea bisericii mutate a Sf. Maria este ideală pe ploaie, expoziția interioară fiind fascinantă. La prânz, admirăm Lacul Most din interiorul restaurantului. Urcarea la Castelul Hněvín este umedă, dar priveliștea cețoasă peste oraș are o aură mistică și industrială.",
+            "en": "Morning at the 1st Square starts under the café awnings. The Municipal Theatre provides a dry cultural escape. Visiting the moved Church of the Assumption is perfect for rainy days, as the interior exhibition is captivating. For lunch, watch the raindrops on Lake Most from the safety of a restaurant. The walk up to Hněvín Castle is wet, but the misty views offer a moody, cinematic perspective."
+          },
+          "stops": [
+            {
+              "name": "1st Square (První náměstí)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
+                "hu": "Használja a környező épületek árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele clădirilor din jur pentru a vă proteja de ploaie.",
+                "en": "Use the arcades of the surrounding buildings for shelter from the rain."
+              }
+            },
+            {
+              "name": "Most Municipal Theatre",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich im Foyer aufzuwärmen und das Interieur zu bewundern.",
+                "hu": "Ideális hely a felmelegedésre az előcsarnokban, miközben az enteriőrt csodáljuk.",
+                "ro": "Un loc ideal pentru a vă încălzi în foier în timp ce admirați interiorul.",
+                "en": "An ideal spot to warm up in the foyer while admiring the interior."
+              }
+            },
+            {
+              "name": "Church of the Assumption of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Videoausstellung über die Verschiebung der Kirche im Trockenen.",
+                "hu": "Nézze meg a templom áthelyezéséről szóló videót a száraz kiállítótérben.",
+                "ro": "Vizitați expoziția video despre mutarea bisericii la adăpost.",
+                "en": "Visit the video exhibition about the church's relocation in the dry interior."
+              }
+            },
+            {
+              "name": "Lunch at Lake Most",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit direktem Seeblick, um die Regenfront zu beobachten.",
+                "hu": "Válasszon közvetlen tóra néző éttermet az esőfüggöny megfigyeléséhez.",
+                "ro": "Alegeți un restaurant cu vedere directă la lac pentru a observa ploaia.",
+                "en": "Choose a restaurant with a direct lake view to watch the rain front."
+              }
+            },
+            {
+              "name": "Hněvín Castle",
+              "tip_5lang": {
+                "de": "Der Aussichtsturm kann bei starkem Wind geschlossen sein; das Restaurant ist offen.",
+                "hu": "Erős szélben a kilátótorony zárva lehet, de az étterem nyitva tart.",
+                "ro": "Turnul de veghe poate fi închis pe vânt puternic; restaurantul rămâne deschis.",
+                "en": "The lookout tower may be closed in high winds; the restaurant stays open."
+              }
+            },
+            {
+              "name": "Church of St. Wenceslas",
+              "tip_5lang": {
+                "de": "Ein ruhiger, überdachter Ort für einen kurzen Moment der Besinnung.",
+                "hu": "Csendes, fedett hely egy rövid elmélyüléshez az eső elől.",
+                "ro": "Un loc liniștit și acoperit pentru un moment scurt de reflecție.",
+                "en": "A quiet, covered spot for a short moment of reflection away from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für den Weg zum See.",
+              "Die Marienkirche bietet viel Platz im Innenraum für längere Pausen.",
+              "Das Stadttheater hat oft Tagesausstellungen im Foyer.",
+              "Der Aufstieg zur Burg kann auf dem Kopfsteinpflaster rutschig sein.",
+              "Regenschirme sind im windigen Most oft unpraktisch, wählen Sie ein Cape."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a tó felé vezető sétához.",
+              "A Mária-templom tágas belső tere alkalmas hosszabb pihenőre.",
+              "A Városi Színház aulájában gyakran vannak időszaki kiállítások.",
+              "A vár felé vezető macskaköves út esőben csúszós lehet.",
+              "A szeles Mostban az esernyő helyett inkább az esőkabát ajánlott."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru plimbarea spre lac.",
+              "Interiorul spațios al bisericii Sf. Maria permite pauze lunghe.",
+              "În foierul Teatrului Municipal există adesea expoziții temporare.",
+              "Drumul pietruit spre castel poate deveni alunecos pe ploaie.",
+              "În orașul vântos Most, pelerina e mai practică decât umbrela."
+            ],
+            "en": [
+              "Wear waterproof shoes for the walk towards the lake.",
+              "The spacious interior of St. Mary's Church is great for longer breaks.",
+              "The Municipal Theatre often has temporary exhibitions in the lobby.",
+              "The cobblestone path to the castle can be slippery when wet.",
+              "In windy Most, a rain poncho is more practical than an umbrella."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Morgen am 1. Platz beginnt mit heißem Tee. Die beleuchtete Fassade des Theaters wirkt im Winterlicht besonders edel. In der Marienkirche schützt das massive Gemäuer vor dem Frost. Der Most-See bietet eine karge, aber beeindruckende Eislandschaft. Zum Sonnenuntergang gegen 16:30 Uhr erreichen wir die Burg Hněvín, wo die Lichter der Stadt in der frühen Dunkelheit funkeln.",
+            "hu": "A hideg reggel az 1. számú téren forró teával indul. A színház kivilágított homlokzata téli fényekben különösen elegáns. A Mária-templom vastag falai között megbújunk a fagy elől. A Most-tó partján a jeges szél és a kietlen táj drámai látványt nyújt. 16:30 körül, a korai naplementekor érjük el a várat, ahonnan a város fényei már az esti sötétségben ragyognak.",
+            "ro": "O dimineață geroasă în Piața 1 începe cu un ceai fierbinte. Fațada luminată a teatrului arată elegant în lumina iernii. În biserica Sf. Maria, zidurile masive ne protejează de îngheț. Lacul Most oferă un peisaj înghețat, auster dar impresionant. Ajungem la Castelul Hněvín în jurul orei 16:30, când luminile orașului strălucesc deja în întunericul timpuriu.",
+            "en": "A cold morning at the 1st Square begins with hot tea. The illuminated theater facade looks especially elegant in winter light. Inside the Church of the Assumption, the thick walls offer refuge from the frost. Lake Most presents a stark but impressive frozen landscape. By sunset around 4:30 PM, we reach Hněvín Castle, where the city lights sparkle in the early darkness."
+          },
+          "stops": [
+            {
+              "name": "1st Square (První náměstí)",
+              "tip_5lang": {
+                "de": "Genießen Sie lokale Spezialitäten an den kleinen Wintermarkt-Ständen.",
+                "hu": "Kóstolja meg a helyi különlegességeket a téli piaci bódéknál.",
+                "ro": "Gustați specialitățile locale la tarabele din piața de iarnă.",
+                "en": "Enjoy local specialties at the small winter market stalls."
+              }
+            },
+            {
+              "name": "Most Municipal Theatre",
+              "tip_5lang": {
+                "de": "Besuchen Sie eine Nachmittagsvorstellung, um der Kälte zu entfliehen.",
+                "hu": "Látogasson el egy délutáni előadásra, hogy elmeneküljön a hideg elől.",
+                "ro": "Vizitați un spectacol de după-amiază pentru a scăpa de frig.",
+                "en": "Visit an afternoon performance to escape the biting cold."
+              }
+            },
+            {
+              "name": "Church of the Assumption of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Die Kirche ist im Winter kühler; behalten Sie Ihren Mantel an.",
+                "hu": "A templom télen hideg, érdemes a kabátot magunkon hagyni.",
+                "ro": "Biserica este răcoroasă iarna; păstrați haina pe dumneavoastră.",
+                "en": "The church is chilly in winter; keep your coat on during the visit."
+              }
+            },
+            {
+              "name": "Lunch at Lake Most",
+              "tip_5lang": {
+                "de": "Probieren Sie eine deftige böhmische Suppe zum Aufwärmen.",
+                "hu": "Próbáljon ki egy kiadós cseh levest a felmelegedéshez.",
+                "ro": "Încercați o supă boemă consistentă pentru a vă încălzi.",
+                "en": "Try a hearty Bohemian soup to warm up during lunch."
+              }
+            },
+            {
+              "name": "Hněvín Castle",
+              "tip_5lang": {
+                "de": "Der Weg zur Burg wird geräumt, kann aber stellenweise glatt sein.",
+                "hu": "A várba vezető utat takarítják, de néhol jeges maradhat.",
+                "ro": "Drumul spre castel este curățat, dar poate fi alunecos pe alocuri.",
+                "en": "The path to the castle is cleared but can be icy in spots."
+              }
+            },
+            {
+              "name": "Church of St. Wenceslas",
+              "tip_5lang": {
+                "de": "Beobachten Sie das Abendlicht in den Fenstern der modernen Kirche.",
+                "hu": "Figyelje meg az esti fényeket a modern templom ablakaiban.",
+                "ro": "Observați luminile serii în ferestrele bisericii moderne.",
+                "en": "Observe the evening lights in the windows of the modern church."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung ist am windigen Seeufer unerlässlich.",
+              "Die Sonne geht im Dezember bereits gegen 16:15 Uhr unter.",
+              "Museen und Kirchen schließen im Winter oft eine Stunde früher.",
+              "Tragen Sie Schuhe mit gutem Profil für den Burgberg.",
+              "Nutzen Sie die beheizten Busse für Teilstrecken im Zentrum."
+            ],
+            "hu": [
+              "A szeles tóparton elengedhetetlen a réteges, meleg öltözet.",
+              "Decemberben a nap már 16:15 körül lemegy.",
+              "A múzeumok és templomok télen gyakran egy órával korábban zárnak.",
+              "A várhegyre kapaszkodva jó tapadású cipőt viseljen.",
+              "Használja a fűtött buszokat a központ rövidebb szakaszaihoz."
+            ],
+            "ro": [
+              "Îmbrăcămintea groasă este esențială pe malul vântos al lacului.",
+              "În decembrie, soarele apune deja în jurul orei 16:15.",
+              "Muzeele și bisericile se închid adesea cu o oră mai devreme iarna.",
+              "Purtați încălțăminte cu talpă aderentă pentru dealul castelului.",
+              "Folosiți autobuzele încălzite pentru segmentele scurte din centru."
+            ],
+            "en": [
+              "Warm clothing is essential on the windy lakeshore.",
+              "In December, the sun sets as early as 4:15 PM.",
+              "Museums and churches often close an hour earlier in winter.",
+              "Wear shoes with good grip for the castle hill climb.",
+              "Use the heated local buses for short segments in the center."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -495,6 +685,214 @@
           "Bring enough water, especially for the climb to the castle.",
           "Securely lock your bike at the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start am 1. Platz erfordert volle Regenmontur. Die Fahrt zur Marienkirche ist kurz, aber Vorsicht auf den Straßenbahnschienen. Die Runde um den Most-See ist bei Regen eine Herausforderung für Mountainbikes; der Asphaltweg ist sicherer. Das Mittagessen im Benedikt-Areal bietet einen trockenen Rastplatz. Der Autodrom-Aussichtspunkt ist windanfällig, und die Abfahrt von der Burg Hněvín erfordert gute Bremsen auf nassem Grund.",
+            "hu": "A vizes kezdés az 1. számú téren teljes esőfelszerelést igényel. A Mária-templomig tartó út rövid, de vigyázzunk a villamossíneken. A Most-tó körüli szakasz esőben saras lehet, inkább az aszfaltozott utat válasszuk. Az ebéd a Benedikt szabadidőközpontban fedett pihenőt nyújt. Az Autodrom kilátópontnál erős szélre számíthatunk, a várból való leereszkedésnél pedig teszteljük a fékeket a vizes aszfalton.",
+            "ro": "Un început umed în Piața 1 necesită echipament complet de ploaie. Drumul spre biserică este scurt, dar atenție la șinele de tramvai. Circuitul Lacului Most poate fi noroios; recomandăm drumul asfaltat. Prânzul în zona Benedikt oferă un popas uscat. Punctul de belvedere de la Autodrom este expus vântului, iar coborârea de la castel cere frâne bune pe carosabil ud.",
+            "en": "A wet start at the 1st Square requires full rain gear. The ride to the church is short, but watch out for tram tracks. The Lake Most circuit can be muddy; stick to the paved path in the rain. Lunch at the Benedikt area provides a dry resting spot. The Autodrom viewpoint is windy, and the descent from Hněvín Castle requires reliable brakes on the wet surface."
+          },
+          "stops": [
+            {
+              "name": "1st Square (První náměstí)",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Schutzbleche vor dem Start; der Boden ist nass.",
+                "hu": "Indulás előtt ellenőrizze a sárvédőket, az aszfalt vizes.",
+                "ro": "Verificați apărătorile de noroi înainte de start; solul este ud.",
+                "en": "Check your mudguards before starting; the ground is wet."
+              }
+            },
+            {
+              "name": "Church of the Assumption of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter das Vordach am Seiteneingang.",
+                "hu": "Parkolja a kerékpárt az oldalsó bejárat melletti előtető alá.",
+                "ro": "Parcați bicicleta sub copertina de lângă intrarea laterală.",
+                "en": "Park your bike under the canopy near the side entrance."
+              }
+            },
+            {
+              "name": "Lake Most Circuit (partial)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Aquaplaning auf den tiefergelegenen Uferwegen.",
+                "hu": "Vigyázzon a vízenúszásra (aquaplaning) az alacsonyabb parti utakon.",
+                "ro": "Atenție la acvaplanare pe porțiunile joase ale drumului de coastă.",
+                "en": "Beware of aquaplaning on the lower lakeside paths."
+              }
+            },
+            {
+              "name": "Lunch at Benedikt Recreation Area",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer beim Restaurant.",
+                "hu": "Használja az étterem melletti fedett kerékpártárolót.",
+                "ro": "Folosiți suportul de biciclete acoperit de lângă restaurant.",
+                "en": "Use the covered bike rack located near the restaurant."
+              }
+            },
+            {
+              "name": "Autodrom Most (viewpoint)",
+              "tip_5lang": {
+                "de": "Bei Regen ist die Sicht auf die Strecke eingeschränkt; kurz halten.",
+                "hu": "Esőben a pálya láthatósága korlátozott, csak rövid megálló javasolt.",
+                "ro": "Vizibilitatea pe pistă este redusă pe ploaie; opriți scurt.",
+                "en": "Track visibility is limited in the rain; keep your stop brief."
+              }
+            },
+            {
+              "name": "Hněvín Castle",
+              "tip_5lang": {
+                "de": "Die steile Abfahrt ist bei Nässe gefährlich; bremsen Sie vorsichtig.",
+                "hu": "A meredek lejtő esőben veszélyes; óvatosan használja a fékeket.",
+                "ro": "Coborârea abruptă este periculoasă pe ud; frânați cu prudență.",
+                "en": "The steep descent is dangerous when wet; use your brakes carefully."
+              }
+            },
+            {
+              "name": "Back to the 1st Square",
+              "tip_5lang": {
+                "de": "Trocknen Sie Kette und Schaltung nach der Fahrt ab.",
+                "hu": "Tekerés után törölje szárazra a láncot és a váltót.",
+                "ro": "Ștergeți lanțul și schimbătorul după tură.",
+                "en": "Dry off the chain and gears after your ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine gut sichtbare Regenjacke mit Reflektoren.",
+              "Vermeiden Sie scharfe Kurven auf nassem Kopfsteinpflaster.",
+              "Säubern Sie Ihre Bremsbeläge nach der Fahrt vom Straßendreck.",
+              "Die Radwege am See sind bei Regen oft menschenleer.",
+              "Beleuchtung ist auch tagsüber bei starkem Regen Pflicht."
+            ],
+            "hu": [
+              "Viseljen jól látható, fényvisszaverős esőkabátot.",
+              "Kerülje az éles kanyarokat a vizes macskakövön.",
+              "Tekerés után tisztítsa meg a fékbetéteket az utcai sártól.",
+              "A tóparti kerékpárutak esőben gyakran teljesen néptelenek.",
+              "Erős esőben nappal is kötelező a világítás használata."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie vizibilă, cu elemente reflectorizante.",
+              "Evitați virajele strânse pe piatra cubică umedă.",
+              "Curățați saboții de frână de noroi după finalizarea traseului.",
+              "Pistele de biciclete de la lac sunt adesea pustii pe ploaie.",
+              "Luminile sunt obligatorii și ziua în caz de ploaie torențială."
+            ],
+            "en": [
+              "Wear a high-visibility rain jacket with reflectors.",
+              "Avoid sharp turns on wet cobblestones in the center.",
+              "Clean your brake pads from road grime after the ride.",
+              "The lakeside bike paths are often deserted during rain.",
+              "Bike lights are mandatory even during the day in heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am 1. Platz erfordert warme Handschuhe. Die Fahrt zur Marienkirche führt durch die klare Winterluft. Am Most-See weht ein eisiger Wind; die kurze Runde ist heute besser. Das Mittagessen im Benedikt-Areal wärmt uns auf. Beim Autodrom blicken wir auf die schneebedeckte Landschaft. Der Anstieg zur Burg Hněvín bringt den Kreislauf in Schwung, doch die Abfahrt in der Dämmerung erfordert volle Konzentration und gute Beleuchtung.",
+            "hu": "A fagyos reggel az 1. számú téren meleg kesztyűt kíván. A Mária-templomig tartó út a tiszta téli levegőben frissítő. A Most-tónál jeges szél fúj, ma a rövidebb kör is elég. A Benedikt szabadidőközpontban melegszünk fel ebédnél. Az Autodromnál a havas tájat csodáljuk. A Hněvín-várra való feltekerés felpörgeti a keringést, de a szürkületi leereszkedéshez teljes koncentráció és jó világítás kell.",
+            "ro": "Un start geros în Piața 1 necesită mănuși groase. Drumul spre biserică prin aerul curat de iarnă este revigorant. La Lacul Most suflă un vânt tăios; recomandăm circuitul scurt. Prânzul la Benedikt ne ajută să ne încălzim. La Autodrom admirăm peisajul înzăpezit. Urcarea spre Castelul Hněvín pune sângele în mișcare, dar coborârea în amurg necesită concentrare și lumini bune.",
+            "en": "A frosty start at the 1st Square requires warm gloves. The ride to the church through crisp winter air is refreshing. At Lake Most, an icy wind blows; a shorter loop is better today. Lunch at the Benedikt area helps us warm up. At the Autodrom, we look over the snow-covered landscape. The climb to Hněvín Castle gets the heart pumping, but the twilight descent requires full focus and good lights."
+          },
+          "stops": [
+            {
+              "name": "1st Square (První náměstí)",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe im Schatten der Gebäude.",
+                "hu": "Ügyeljen a lefagyásokra az épületek árnyékos oldalán.",
+                "ro": "Atenție la porțiunile înghețate la umbra clădirilor.",
+                "en": "Watch out for black ice in the shadows of the buildings."
+              }
+            },
+            {
+              "name": "Church of the Assumption of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Kürzen Sie die Besichtigung ab, wenn die Finger klamm werden.",
+                "hu": "Rövidítse le a nézelődést, ha elgémberednek az ujjai.",
+                "ro": "Scurtați vizita dacă simțiți că vă îngheață degetele.",
+                "en": "Shorten your visit if your fingers start getting numb."
+              }
+            },
+            {
+              "name": "Lake Most Circuit (partial)",
+              "tip_5lang": {
+                "de": "Der Windchill-Effekt ist am offenen Wasser extrem hoch.",
+                "hu": "A szél hűtő hatása (windchill) a nyílt víznél rendkívül magas.",
+                "ro": "Efectul de răcire al vântului este extrem de ridicat lângă apă.",
+                "en": "The windchill effect is extremely high near the open water."
+              }
+            },
+            {
+              "name": "Lunch at Benedikt Recreation Area",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit zum Aufwärmen; der Akku leidet bei Kälte.",
+                "hu": "Használja az időt melegedésre; az akkumulátor bírja a hideget.",
+                "ro": "Folosiți timpul pentru a vă încălzi; bateria suferă la ger.",
+                "en": "Use this time to warm up; remember bike batteries drain faster in cold."
+              }
+            },
+            {
+              "name": "Autodrom Most (viewpoint)",
+              "tip_5lang": {
+                "de": "Halten Sie sich nicht zu lange unbeweglich im Wind auf.",
+                "hu": "Ne álljon túl sokáig mozdulatlanul a hideg szélben.",
+                "ro": "Nu stați prea mult timp nemișcați în vântul rece.",
+                "en": "Do not stay stationary in the wind for too long."
+              }
+            },
+            {
+              "name": "Hněvín Castle",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Lampen; die Rückfahrt erfolgt in der Dunkelheit.",
+                "hu": "Ellenőrizze a lámpákat; a visszaút már sötétben lesz.",
+                "ro": "Verificați luminile; drumul de întoarcere va fi pe întuneric.",
+                "en": "Check your lights; the ride back will be in total darkness."
+              }
+            },
+            {
+              "name": "Back to the 1st Square",
+              "tip_5lang": {
+                "de": "Ein heißer Punsch (alkoholfrei) ist die perfekte Belohnung.",
+                "hu": "Egy forró puncs (alkoholmentes) a tökéletes jutalom.",
+                "ro": "Un punci fierbinte (fără alcool) este recompensa perfectă.",
+                "en": "A hot punch (non-alcoholic) is the perfect reward."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche und winddichte Kleidung.",
+              "Der Reifendruck sollte im Winter etwas niedriger sein für mehr Grip.",
+              "Schützen Sie Ihre Knie und Gelenke vor der direkten Kälte.",
+              "Planen Sie die Rückkehr vor 16:00 Uhr ein, bevor es dunkel wird.",
+              "Vermeiden Sie Waldwege, die bei Frost sehr hart und uneben sind."
+            ],
+            "hu": [
+              "Viseljen termó aláöltözetet és szélálló ruházatot.",
+              "A guminyomás legyen kicsit alacsonyabb a jobb tapadásért.",
+              "Védje térdeit és ízületeit a közvetlen hidegtől.",
+              "Tervezze a visszaérkezést 16:00 előtt, sötétedésig.",
+              "Kerülje az erdei utakat, amik fagyban nagyon kemények és egyenetlenek."
+            ],
+            "ro": [
+              "Purtați lenjerie termică și haine rezistente la vânt.",
+              "Presiunea în anvelope trebuie să fie mai mică pentru aderență.",
+              "Protejați-vă genunchii și articulațiile de frigul direct.",
+              "Planificați revenirea înainte de ora 16:00, când se întunecă.",
+              "Evitați potecile de pădure, care devin dure și denivelate la îngheț."
+            ],
+            "en": [
+              "Wear thermal underwear and windproof outer layers.",
+              "Keep tire pressure slightly lower for better grip on icy roads.",
+              "Protect your knees and joints from direct exposure to cold.",
+              "Plan to be back by 4:00 PM before it gets dark.",
+              "Avoid forest paths which become very hard and uneven when frozen."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -755,6 +1153,196 @@
           "Plan your route in advance to take advantage of parking at the clusters.",
           "Be aware of events at the Autodrom that could affect traffic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Tage in Most sind im Auto komfortabel. Wir parken direkt am Autodrom und beobachten das Geschehen im Trockenen. Die Burg Hněvín erreichen wir bequem per PKW, wobei der Parkplatz direkt am Schloss ideal ist. Der Blick vom Burgberg auf die verregnete Stadt ist stimmungsvoll. Am Most-See bleiben wir nah am Parkplatz, bevor wir den Tag im Stadtzentrum bei einem gemütlichen Abendessen ausklingen lassen.",
+            "hu": "Az esős napok Mostban autóval a legkényelmesebbek. Közvetlenül az Autodromnál parkolunk, és szárazon figyeljük az eseményeket. A Hněvín-várhoz kényelmesen felhajtunk, a közvetlen vár melletti parkoló ideális választás. A várhegyről nyíló kilátás az esőáztatta városra hangulatos. A Most-tónál a parkoló közelében maradunk, majd a napot a belvárosban, egy kellemes vacsorával zárjuk.",
+            "ro": "Zilele ploioase în Most sunt confortabile la volan. Parcăm direct la Autodrom și urmărim acțiunea la adăpost. Ajungem la Castelul Hněvín comod cu mașina, parcarea de lângă castel fiind ideală. Vederea de pe deal asupra orașului ploios este plină de atmosferă. La Lacul Most rămânem aproape de parcare, apoi încheiem ziua în centru cu o cină plăcută.",
+            "en": "Rainy days in Most are most comfortable by car. We park directly at the Autodrom and watch the events from the dry interior. Hněvín Castle is easily reached by car, with the parking right next to the castle being ideal. The view from the castle hill over the rainy city is atmospheric. At Lake Most, we stay near the parking lot before ending the day in the city center with a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Parking at Autodrom Most",
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie die Strecke direkt aus dem Fenster sehen.",
+                "hu": "Parkoljon úgy, hogy az ablakból közvetlenül rálásson a pályára.",
+                "ro": "Parcați astfel încât să vedeți pista direct de pe geam.",
+                "en": "Park so you can see the track directly from your car window."
+              }
+            },
+            {
+              "name": "Parking at Hněvín Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den oberen Parkplatz, um den Fußweg im Regen zu minimieren.",
+                "hu": "Használja a felső parkolót, hogy minimalizálja az esőben gyaloglást.",
+                "ro": "Folosiți parcarea de sus pentru a minimiza mersul prin ploaie.",
+                "en": "Use the upper parking lot to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "View from the castle",
+              "tip_5lang": {
+                "de": "Bleiben Sie unter den Arkaden des Burgrestaurants für Fotos.",
+                "hu": "Maradjon a várétterem árkádjai alatt a fotózáshoz.",
+                "ro": "Rămâneți sub arcadele restaurantului pentru fotografii.",
+                "en": "Stay under the castle restaurant's arcades for taking photos."
+              }
+            },
+            {
+              "name": "Parking at Lake Most",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz mit freier Sicht auf den See.",
+                "hu": "Válasszon olyan helyet, ahonnan szabad kilátás nyílik a tóra.",
+                "ro": "Alegeți un loc cu vedere liberă spre lac.",
+                "en": "Choose a spot with an unobstructed view of the lake."
+              }
+            },
+            {
+              "name": "Church of the Assumption of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz zum Eingang der Kirche nutzen.",
+                "hu": "Használja a parkolótól a templom bejáratáig vezető rövid utat.",
+                "ro": "Folosiți drumul scurt de la parcare până la intrarea bisericii.",
+                "en": "Take the short path from the parking lot to the church entrance."
+              }
+            },
+            {
+              "name": "Parking in the city center",
+              "tip_5lang": {
+                "de": "Tiefgaragen sind ideal, um trocken ins Einkaufszentrum zu gelangen.",
+                "hu": "A mélygarázsok ideálisak, hogy szárazon jussunk a plázába.",
+                "ro": "Parcările subterane sunt ideale pentru a ajunge uscat în mall.",
+                "en": "Underground garages are ideal for staying dry while entering the mall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Achten Sie auf tiefere Pfützen auf den Straßen zum See.",
+              "Nutzen Sie Park-Apps, um das Bezahlen im Regen zu vermeiden.",
+              "Die Sicht vom Burgberg kann durch Nebel eingeschränkt sein.",
+              "Fahren Sie vorsichtig auf der gewundenen Straße zum Hněvín."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Ügyeljen a mélyebb tócsákra a tó felé vezető utakon.",
+              "Használjon parkolási appot, hogy ne kelljen az esőben fizetnie.",
+              "A várhegyről a kilátást a köd korlátozhatja.",
+              "Vezessen óvatosan a Hněvín-várhoz vezető kanyargós úton."
+            ],
+            "ro": [
+              "Verificați ștergătoarele de parbriz înainte de plecare.",
+              "Atenție la bălțile adânci pe drumurile spre lac.",
+              "Folosiți aplicații de parcare pentru a evita plata în ploaie.",
+              "Vizibilitatea de pe deal poate fi redusă din cauza ceții.",
+              "Conduceți cu prudență pe drumul sinuos spre Hněvín."
+            ],
+            "en": [
+              "Check your windshield wipers before setting off.",
+              "Watch out for deep puddles on the roads towards the lake.",
+              "Use parking apps to avoid paying at machines in the rain.",
+              "The view from the castle hill may be restricted by fog.",
+              "Drive carefully on the winding road up to Hněvín."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Most im Winter erlebt man am besten warm im Auto. Vom Parkplatz am Autodrom blicken wir auf die verschneite Rennstrecke. Die Auffahrt zur Burg Hněvín bietet fantastische Panoramablicke auf das frostige Erzgebirge. Am Most-See ist es windig, aber die Sitzheizung macht die Pause am Ufer angenehm. Den Tag beenden wir im hell erleuchteten Stadtzentrum, wo wir bequem in der Nähe der Restaurants parken.",
+            "hu": "Mostot télen a legjobb a fűtött autóból felfedezni. Az Autodrom parkolójából nézzük a havas versenypályát. A Hněvín-várhoz vezető felhajtó fantasztikus panorámát kínál a zúzmarás Érchegységre. A Most-tónál szeles az idő, de az ülésfűtés kellemessé teszi a parti pihenőt. A napot a fényárban úszó belvárosban zárjuk, ahol kényelmesen, az éttermek közelében parkolunk.",
+            "ro": "Iarna în Most se explorează cel mai bine din mașina încălzită. Din parcarea de la Autodrom admirăm pista înzăpezită. Urcarea spre Castelul Hněvín oferă panorame fantastice spre Munții Metaliferi înghețați. La Lacul Most este vântos, dar încălzirea în scaune face popasul plăcut. Încheiem ziua în centrul luminat festiv, parcând comod aproape de restaurante.",
+            "en": "Winter in Most is best experienced from the warmth of a car. From the Autodrom parking, we look over the snow-covered racetrack. The drive up to Hněvín Castle offers fantastic panoramic views of the frosty Ore Mountains. It's windy at Lake Most, but heated seats make the break by the shore pleasant. We end the day in the brightly lit city center, parking conveniently close to restaurants."
+          },
+          "stops": [
+            {
+              "name": "Parking at Autodrom Most",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen, die Parkbuchten blockieren könnten.",
+                "hu": "Ügyeljen a hóbuckákra, amik elzárhatják a parkolóhelyeket.",
+                "ro": "Atenție la mormanele de zăpadă care pot bloca locurile de parcare.",
+                "en": "Watch out for snow piles that might block parking spots."
+              }
+            },
+            {
+              "name": "Parking at Hněvín Castle",
+              "tip_5lang": {
+                "de": "Nur mit Winterreifen auffahren; die Straße kann glatt sein.",
+                "hu": "Csak téli gumival hajtson fel; az út jeges lehet.",
+                "ro": "Urcați doar cu anvelope de iarnă; drumul poate fi alunecos.",
+                "en": "Drive up only with winter tires; the road can be icy."
+              }
+            },
+            {
+              "name": "View from the castle",
+              "tip_5lang": {
+                "de": "Machen Sie ein Foto vom warmen Auto aus durch die Scheibe.",
+                "hu": "Készítsen fotót a meleg autóból az ablakon keresztül.",
+                "ro": "Faceți o fotografie din mașina caldă prin geam.",
+                "en": "Take a quick photo from the warmth of your car through the window."
+              }
+            },
+            {
+              "name": "Parking at Lake Most",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Do not let the engine idle unnecessarily while parked."
+              }
+            },
+            {
+              "name": "Church of the Assumption of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird geräumt, kann aber im Winter matschig sein.",
+                "hu": "A parkolót takarítják, de télen latyakos lehet.",
+                "ro": "Parcarea este curățată, dar poate fi noroioasă iarna.",
+                "en": "The parking lot is cleared but can be slushy in winter."
+              }
+            },
+            {
+              "name": "Parking in the city center",
+              "tip_5lang": {
+                "de": "Abends sind viele Plätze schnell belegt; nutzen Sie Parkhäuser.",
+                "hu": "Este sok hely gyorsan betelik; használja a parkolóházakat.",
+                "ro": "Seara locurile se ocupă repede; folosiți parcările etajate.",
+                "en": "Many spots fill up quickly in the evening; use parking garages."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Die kurvige Auffahrt zum Schloss Hněvín kann tückisch sein.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche im Zentrum ein.",
+              "Achten Sie auf Fußgänger in dunkler Kleidung bei Dämmerung.",
+              "Halten Sie die Scheinwerfer bei Schneematsch sauber."
+            ],
+            "hu": [
+              "Legyen Önnél jégkaparó és fagyálló folyadék.",
+              "A Hněvín-várhoz vezető kanyargós út trükkös lehet.",
+              "Szánjon több időt a parkolóhely keresésére a belvárosban.",
+              "Ügyeljen a sötét ruhás gyalogosokra szürkületben.",
+              "Tartsa tisztán a fényszórókat latyakos időben."
+            ],
+            "ro": [
+              "Aveți la îndemână o răzuitoare de gheață și lichid antigriz.",
+              "Urcarea sinuoasă spre castelul Hněvín poate fi înșelătoare.",
+              "Alocați mai mult timp pentru găsirea unui loc de parcare în centru.",
+              "Atenție la pietonii în haine închise la culoare în amurg.",
+              "Păstrați farurile curate în condiții de lapoviță."
+            ],
+            "en": [
+              "Keep an ice scraper and antifreeze fluid in your car.",
+              "The winding drive up to Hněvín Castle can be treacherous.",
+              "Allow extra time for finding a parking spot in the center.",
+              "Watch out for pedestrians in dark clothing during twilight.",
+              "Keep your headlights clean in slushy road conditions."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -979,6 +1567,196 @@
           "Buy a day pass for public transport to save money.",
           "Check the bus schedule in advance, especially for the return trip from the castle."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im regnerischen Most nutzen wir das dichte Bus- und Straßenbahnnetz. Vom Zentrum fahren wir direkt zur Haltestelle Kostel, um die Marienkirche trocken zu erreichen. Das Stadttheater ist nur einen kurzen Sprint von der Haltestelle entfernt. Die Fahrt zum Schlossberg Hněvín ist bei Regen die beste Wahl, um die steilen Wege zu meiden. Abends bringen uns die hellen Straßenbahnen sicher zurück zum Hauptplatz.",
+            "hu": "Az esős Mostban a sűrű busz- és villamoshálózatot használjuk. A központból közvetlenül a Kostel megállóhoz utazunk, hogy szárazon érjük el a Mária-templomot. A Városi Színház csak egy rövid sprintre van a megállótól. A várhegyhez tartó busz a legjobb választás, hogy elkerüljük a meredek utakat. Este a fényes villamosok biztonságosan visznek vissza minket a főtérre.",
+            "ro": "În Mostul ploios folosim rețeaua densă de autobuze și tramvaie. Din centru mergem direct la stația Kostel pentru a ajunge uscați la biserică. Teatrul Municipal este la doar un scurt sprint distanță de stație. Autobuzul spre dealul castelului este cea mai bună alegere pentru a evita drumurile abrupte. Seara, tramvaiele luminate ne aduc în siguranță înapoi în piața principală.",
+            "en": "In rainy Most, we utilize the dense bus and tram network. From the center, we travel directly to the Kostel stop to reach the church while staying dry. The Municipal Theatre is just a short sprint from the stop. Taking the bus to the castle hill is the best choice to avoid the steep, wet paths. In the evening, the bright trams bring us safely back to the main square."
+          },
+          "stops": [
+            {
+              "name": "Center (1. náměstí stop)",
+              "tip_5lang": {
+                "de": "Warten Sie im gläsernen Wartehäuschen auf die nächste Bahn.",
+                "hu": "Várjon az üvegezett váróban a következő járatra.",
+                "ro": "Așteptați în stația vitrată următorul vehicul.",
+                "en": "Wait inside the glass shelter for the next tram or bus."
+              }
+            },
+            {
+              "name": "Most Municipal Theatre",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist fast direkt vor dem Haupteingang.",
+                "hu": "A megálló szinte közvetlenül a főbejárat előtt található.",
+                "ro": "Stația este aproape direct în fața intrării principale.",
+                "en": "The stop is located almost directly in front of the main entrance."
+              }
+            },
+            {
+              "name": "Kostel (Church) stop",
+              "tip_5lang": {
+                "de": "Von hier sind es nur 2 Minuten Fußweg zur Kirche.",
+                "hu": "Innen mindössze 2 perc gyaloglás a templom.",
+                "ro": "De aici sunt doar 2 minute de mers pe jos până la biserică.",
+                "en": "It's only a 2-minute walk to the church from this stop."
+              }
+            },
+            {
+              "name": "Church of the Assumption of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan für die Rückfahrt im Kirchenfoyer.",
+                "hu": "Ellenőrizze a visszainduló járat menetrendjét a templom aulájában.",
+                "ro": "Verificați mersul autobuzelor de întoarcere în foierul bisericii.",
+                "en": "Check the return schedule in the church lobby to avoid waiting outside."
+              }
+            },
+            {
+              "name": "Hněvín stop",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Linienbus, um den nassen Aufstieg zu sparen.",
+                "hu": "Használja a menetrend szerinti buszt, hogy megspórolja a vizes emelkedőt.",
+                "ro": "Folosiți autobuzul de linie pentru a evita urcarea prin ploaie.",
+                "en": "Use the scheduled bus to save yourself from the wet uphill walk."
+              }
+            },
+            {
+              "name": "Hněvín Castle",
+              "tip_5lang": {
+                "de": "Die Aussichtsplattform ist bei Regen oft menschenleer.",
+                "hu": "A kilátóterasz esőben gyakran teljesen üres.",
+                "ro": "Platforma de belvedere este adesea pustie pe ploaie.",
+                "en": "The viewing platform is often completely deserted during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab per App oder am Automaten.",
+              "Die Straßenbahnen verkehren in kurzen Intervallen.",
+              "Halten Sie Ihren Regenschirm beim Einsteigen geschlossen.",
+              "Nutzen Sie die App 'IDOS' für Echtzeit-Fahrpläne.",
+              "Die Haltestellen am See sind spärlicher überdacht."
+            ],
+            "hu": [
+              "Vásároljon jegyet előre applikációban vagy automatából.",
+              "A villamosok gyakori időközönként közlekednek.",
+              "Felszálláskor tartsa csukva az esernyőjét.",
+              "Használja az 'IDOS' alkalmazást a valós idejű menetrendhez.",
+              "A tóparti megállók kevésbé vannak lefedve."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans prin aplicație sau de la automat.",
+              "Tramvaiele circulă la intervale scurte.",
+              "Țineți umbrela închisă la urcarea în vehicul.",
+              "Folosiți aplicația 'IDOS' pentru orarul în timp real.",
+              "Stațiile de la lac sunt mai puțin adăpostite."
+            ],
+            "en": [
+              "Buy tickets in advance via app or at the machines.",
+              "Trams run at frequent intervals throughout the day.",
+              "Keep your umbrella closed when boarding the vehicle.",
+              "Use the 'IDOS' app for real-time transit schedules.",
+              "Lakeside stops have less shelter than city center ones."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintertage in Most verbringen wir in den warmen Fahrzeugen des ÖPNV. Von der 1. náměstí fahren wir bequem durch die frostige Stadt. Das Theater strahlt im Abendlicht eine besondere Wärme aus. Der Weg zur Marienkirche ist kurz, aber wir schätzen den beheizten Bus danach umso mehr. Zum Sonnenuntergang fahren wir hinauf zum Hněvín, wo wir die Aussicht genießen, bevor uns der nächste Bus zurück in die beleuchtete City bringt.",
+            "hu": "A téli napokat Mostban a tömegközlekedés meleg járatain töltjük. Az 1. számú térről kényelmesen utazunk át a fagyos városon. A színház az esti fényekben különleges melegséget áraszt. A Mária-templomhoz tartó út rövid, de a fűtött buszt utána még jobban értékeljük. Naplementekor felbuszozunk a Hněvínhez, élvezzük a kilátást, mielőtt a következő járat visszavisz a kivilágított belvárosba.",
+            "ro": "Petrecem zilele de iarnă în vehiculele calde ale transportului public din Most. Din Piața 1 călătorim comod prin orașul înghețat. Teatrul emană o căldură aparte în luminile serii. Drumul spre biserică este scurt, dar apreciem cu atât mai mult autobuzul încălzit după vizită. La apus urcăm cu autobuzul la Hněvín, admirăm vederea, apoi revenim în centrul luminat.",
+            "en": "We spend winter days in Most inside the warm vehicles of the public transport system. From 1st Square, we travel comfortably through the frosty city. The theater radiates a special warmth in the evening lights. The walk to the church is short, but we appreciate the heated bus even more afterwards. At sunset, we take the bus up to Hněvín, enjoy the view, then take the next one back to the lit-up city center."
+          },
+          "stops": [
+            {
+              "name": "Center (1. náměstí stop)",
+              "tip_5lang": {
+                "de": "Achten Sie auf die elektronischen Anzeigen für Verspätungen.",
+                "hu": "Figyelje az elektronikus kijelzőket az esetleges késések miatt.",
+                "ro": "Urmăriți afișajele electronice pentru eventuale întârzieri.",
+                "en": "Watch the electronic displays for any potential weather delays."
+              }
+            },
+            {
+              "name": "Most Municipal Theatre",
+              "tip_5lang": {
+                "de": "Das Foyer ist ein guter Ort, um auf die nächste Bahn zu warten.",
+                "hu": "Az aula jó hely a következő járat megvárására.",
+                "ro": "Foierul este un loc bun pentru a aștepta următorul tramvai.",
+                "en": "The theater lobby is a good place to wait for your next tram."
+              }
+            },
+            {
+              "name": "Kostel (Church) stop",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneematsch beim Aussteigen an der Straße.",
+                "hu": "Vigyázzon a latyakra, amikor leszáll az úttestnél.",
+                "ro": "Atenție la lapoviță când coborâți lângă carosabil.",
+                "en": "Watch out for slush when getting off near the roadway."
+              }
+            },
+            {
+              "name": "Church of the Assumption of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Inneren auf, bevor es zurück zur Haltestelle geht.",
+                "hu": "Melegedjen fel odabent, mielőtt visszaindul a megállóhoz.",
+                "ro": "Încălziți-vă în interior înainte de a reveni în stație.",
+                "en": "Warm up inside the church before heading back to the stop."
+              }
+            },
+            {
+              "name": "Hněvín stop",
+              "tip_5lang": {
+                "de": "In der Dämmerung ist die Haltestelle gut beleuchtet.",
+                "hu": "A megálló szürkületben is jól meg van világítva.",
+                "ro": "Stația este bine iluminată chiar și în amurg.",
+                "en": "The bus stop is well-lit even during the winter twilight."
+              }
+            },
+            {
+              "name": "Hněvín Castle",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Stadtlichter und nehmen Sie den Bus um 17:00.",
+                "hu": "Élvezze a város fényeit, és csípje el az 17:00-ás buszt.",
+                "ro": "Admirați luminile orașului și prindeți autobuzul de ora 17:00.",
+                "en": "Enjoy the city lights and catch the 5:00 PM bus back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft die wärmste Option.",
+              "Ab 16:30 Uhr ist es dunkel; planen Sie Ihre Fahrten entsprechend.",
+              "Ein Tagesticket lohnt sich für häufiges Aufwärmen unterwegs.",
+              "Vermeiden Sie langes Warten an exponierten Haltestellen.",
+              "Die Hauptlinien 1 und 4 fahren auch bei Schnee zuverlässig."
+            ],
+            "hu": [
+              "Télen a buszok gyakran a legmelegebb opciók.",
+              "16:30-tól sötét van; tervezze az utazásait eszerint.",
+              "A napijegy megéri, ha többször is melegedni szeretne út közben.",
+              "Kerülje a hosszú várakozást a szélnek kitett megállókban.",
+              "Az 1-es és 4-es fővonalak hóban is megbízhatóan járnak."
+            ],
+            "ro": [
+              "Iarna, autobuzele sunt adesea cea mai caldă opțiune.",
+              "De la 16:30 este întuneric; planificați călătoriile în consecință.",
+              "Abonamentul de o zi merită pentru pauze de încălzire dese.",
+              "Evitați așteptarea lungă în stațiile expuse vântului.",
+              "Liniile principale 1 și 4 circulă fiabil chiar și pe zăpadă."
+            ],
+            "en": [
+              "Buses are often the warmest transit option in winter.",
+              "It gets dark from 4:30 PM; plan your trips accordingly.",
+              "A day pass is worth it for frequent 'warm-up' rides.",
+              "Avoid long waits at stops exposed to the cold wind.",
+              "Main lines 1 and 4 remain reliable even during snowfall."
+            ]
+          }
+        }
       }
     }
   }

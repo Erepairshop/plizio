@@ -379,6 +379,206 @@
           "A reusable water bottle is useful.",
           "Keep a light rain jacket handy, Danish weather can be unpredictable."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt in der St.-Bendts-Kirche, die perfekten Schutz bietet. Mittags genießen wir ein gemütliches Essen im Stadtzentrum, weit weg vom nassen Wetter. Der Nachmittag gehört der trockenen Welt der Museen, wo Geschichte und Technik lebendig werden. Den Tag schließen wir trotz des Regens mit einem Blick auf die ikonische Ringsted Windmühle ab.",
+            "hu": "A borongós, esős reggel a Szent Benedek-templom vastag falai között indul, ahol szárazon csodálhatjuk a történelmet. Ebédidőben a városközpont barátságos éttermeiben bújunk el a zápor elől. Délután a helyi múzeumok kiállításai kínálnak fedett programot. A napot a szélmalom látványával zárjuk, amely esőben is méltóságteljesen magasodik a város fölé.",
+            "ro": "O dimineață ploioasă începe sub protecția Bisericii Sf. Bendt, unde istoria se simte în siguranță. La prânz, ne adăpostim într-un restaurant central pentru o masă caldă. După-amiaza este dedicată muzeelor interioare, perfecte pentru a evita vremea umedă. Încheiem ziua cu o scurtă vizită la moara de vânt, care oferă un decor dramatic chiar și sub nori.",
+            "en": "A rainy morning starts within the protective walls of St. Bendt's Church. At noon, we find shelter in a cozy town center eatery for a warm meal. The afternoon is spent exploring the indoor treasures of the local museums, staying dry while learning. We conclude the day with a view of the Ringsted Windmill, which looks imposing even through the mist."
+          },
+          "stops": [
+            {
+              "name": "St. Bendt's Church",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen und Trockenbleiben.",
+                "hu": "Tökéletes hely a száradásra és a nézelődésre.",
+                "ro": "Loc ideal pentru a rămâne uscat și a vizita.",
+                "en": "Perfect place to stay dry and sightsee."
+              }
+            },
+            {
+              "name": "Valdemar the Great's Grave",
+              "tip_5lang": {
+                "de": "In der Kirche gelegen, also absolut regensicher.",
+                "hu": "A templomon belül található, esőbiztos helyszín.",
+                "ro": "Situat în interiorul bisericii, ferit de ploaie.",
+                "en": "Located inside the church, so it's rain-proof."
+              }
+            },
+            {
+              "name": "Ringsted Museum and Archive",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Mäntel.",
+                "hu": "Használja a ruhatárat a vizes kabátoknak.",
+                "ro": "Folosiți garderoba pentru hainele umede.",
+                "en": "Use the cloakroom for your wet coats."
+              }
+            },
+            {
+              "name": "Lunch in the Town Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit direktem Eingang.",
+                "hu": "Válasszon közvetlen bejáratú éttermet.",
+                "ro": "Alegeți un restaurant cu intrare directă.",
+                "en": "Choose a restaurant with a direct entrance."
+              }
+            },
+            {
+              "name": "Ringsted Lystanlæg Park",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang unter den Bäumen als Schutz.",
+                "hu": "Rövid séta a fák alatt, amik némi védelmet adnak.",
+                "ro": "O scurtă plimbare sub copaci pentru protecție.",
+                "en": "Short walk under the trees for some shelter."
+              }
+            },
+            {
+              "name": "The Radio Museum",
+              "tip_5lang": {
+                "de": "Ein Paradies für regnerische Nachmittage.",
+                "hu": "Igazi paradicsom egy esős délutánra.",
+                "ro": "Un paradis pentru după-amiezi ploioase.",
+                "en": "A paradise for rainy afternoons."
+              }
+            },
+            {
+              "name": "Ringsted Windmill",
+              "tip_5lang": {
+                "de": "Vorsicht, die Stufen können außen rutschig sein.",
+                "hu": "Vigyázat, a külső lépcsők csúszósak lehetnek.",
+                "ro": "Atenție, treptele exterioare pot fi alunecoase.",
+                "en": "Caution, external steps can be slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da es windig sein kann.",
+              "Die Museen in Ringsted sind ideale Zufluchtsorte bei Schauern.",
+              "Tragen Sie wasserfeste Schuhe für die Wege zwischen den Gebäuden.",
+              "Prüfen Sie die lokalen Wetter-Apps auf Regenpausen."
+            ],
+            "hu": [
+              "Vigyen magával strapabíró esernyőt, mert a szél erős lehet.",
+              "A ringstedi múzeumok kiváló menedéket nyújtanak zápor esetén.",
+              "Viseljen vízálló cipőt az épületek közötti szakaszokon.",
+              "Figyelje az időjárási appokat a rövidebb esőszünetekért."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, deoarece vântul poate fi puternic.",
+              "Muzeele din Ringsted sunt refugii excelente în caz de aversă.",
+              "Purtați încălțăminte impermeabilă între obiective.",
+              "Verificați aplicațiile meteo pentru pauzele de ploaie."
+            ],
+            "en": [
+              "Bring a sturdy umbrella as it can get windy.",
+              "Ringsted's museums are excellent shelters during showers.",
+              "Wear waterproof shoes for the segments between buildings.",
+              "Check weather apps for brief gaps in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Wintermorgen beginnt mit der stillen Schönheit der St.-Bendts-Kirche. Mittags wärmen wir uns bei einer herzhaften Suppe im Stadtzentrum auf. Der Nachmittag wird in den beheizten Museen verbracht, während draußen das Tageslicht früh schwindet. Die Tour endet an der Windmühle, die in der blauen Stunde des dänischen Winters magisch wirkt.",
+            "hu": "A fagyos téli reggel a Szent Benedek-templom csendes szépségével indul. Délben egy forró leves mellett melegedhetünk fel a városközpontban. A délutánt a fűtött múzeumokban töltjük, miközben odakint korán fogyni kezd a fény. A túra a szélmalomnál ér véget, amely a dán tél kék órájában varázslatos látványt nyújt.",
+            "ro": "Dimineața geroasă de iarnă începe cu frumusețea tăcută a Bisericii Sf. Bendt. La prânz, ne încălzim cu o supă caldă în centrul orașului. După-amiaza este petrecută în muzeele încălzite, în timp ce lumina zilei scade rapid. Turul se încheie la moara de vânt, care arată magic în ora albastră a iernii daneze.",
+            "en": "The frosty winter morning starts with the quiet beauty of St. Bendt's Church. At noon, we warm up with a hearty soup in the town center. The afternoon is spent in heated museums as the daylight fades early outside. The tour ends at the windmill, which looks magical in the blue hour of the Danish winter."
+          },
+          "stops": [
+            {
+              "name": "St. Bendt's Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte etwas ab.",
+                "hu": "A vastag falak jól tartják a benti hőmérsékletet.",
+                "ro": "Zidurile groase protejează puțin împotriva frigului.",
+                "en": "The thick walls provide some respite from the cold."
+              }
+            },
+            {
+              "name": "Valdemar the Great's Grave",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Besinnung im warmen Inneren.",
+                "hu": "Csendes hely az elmélyülésre a meleg belsőben.",
+                "ro": "Un loc liniștit pentru reflecție în interiorul cald.",
+                "en": "A quiet place for reflection in the warm interior."
+              }
+            },
+            {
+              "name": "Ringsted Museum and Archive",
+              "tip_5lang": {
+                "de": "Perfekt, um den gefrorenen Zehen eine Pause zu gönnen.",
+                "hu": "Tökéletes hely a fagyos lábak felmelegítésére.",
+                "ro": "Perfect pentru a oferi o pauză degetelor înghețate.",
+                "en": "Perfect for giving frozen toes a warm break."
+              }
+            },
+            {
+              "name": "Lunch in the Town Center",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz nah an der Heizung.",
+                "hu": "Keressen egy helyet a fűtőtest közelében.",
+                "ro": "Căutați un loc aproape de calorifer.",
+                "en": "Look for a seat near the heater."
+              }
+            },
+            {
+              "name": "Ringsted Lystanlæg Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Frost auf den Bäumen.",
+                "hu": "Csodálja meg a fákon megülő zúzmarát.",
+                "ro": "Admirați chiciura de pe copaci.",
+                "en": "Admire the frost on the trees."
+              }
+            },
+            {
+              "name": "The Radio Museum",
+              "tip_5lang": {
+                "de": "Die alte Technik sorgt für eine gemütliche Atmosphäre.",
+                "hu": "A régi technika barátságos hangulatot áraszt.",
+                "ro": "Tehnologia veche creează o atmosferă primitoare.",
+                "en": "Old technology creates a cozy atmosphere."
+              }
+            },
+            {
+              "name": "Ringsted Windmill",
+              "tip_5lang": {
+                "de": "Besuch vor Sonnenuntergang um 16:00 Uhr planen.",
+                "hu": "Tervezze a látogatást naplemente, 16 óra elé.",
+                "ro": "Planificați vizita înainte de apus, ora 16:00.",
+                "en": "Plan your visit before sunset at 16:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten für den Wechsel zwischen kalt und warm.",
+              "Der Sonnenuntergang ist im Winter bereits gegen 16:00 Uhr.",
+              "Tragen Sie Handschuhe, da die Metalltüren der Museen kalt sind.",
+              "Ein Thermo-Becher mit heißem Kaffee ist ein idealer Begleiter."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a hideg kinti és meleg benti levegő miatt.",
+              "A naplemente télen már délután 4 óra körül bekövetkezik.",
+              "Viseljen kesztyűt, a fém kilincsek és kapuk nagyon hidegek.",
+              "Egy termosznyi forró kávé kiváló kísérő a sétához."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru trecerea de la frig la cald.",
+              "Apusul soarelui are loc deja în jurul orei 16:00 iarna.",
+              "Purtați mănuși, clanțele de metal pot fi foarte reci.",
+              "Un termos cu cafea fierbinte este companionul ideal."
+            ],
+            "en": [
+              "Dress in layers for the transition between cold and heat.",
+              "Sunset occurs as early as 16:00 in the winter.",
+              "Wear gloves, as metal handles and gates can be very cold.",
+              "A thermos of hot coffee is an ideal companion for the walk."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +952,206 @@
           "Denmark has fantastic cycle paths, make use of them.",
           "Check the weather forecast before heading out on a long ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Tour beginnt bei leichtem Nieselregen an der Windmühle. Wir fahren zügig zur Kirche und zum Museum, um den Schauern zu entkommen. Nach einem stärkenden Mittagessen geht es zum Radio-Museum. Trotz der Feuchtigkeit wagen wir einen Blick auf den Haraldsted See, bevor wir vorsichtig ins Zentrum zurückkehren.",
+            "hu": "A túra szemerkélő esőben indul a szélmalomtól. Gyorsan a templomhoz és a múzeumhoz tekerünk, hogy elkerüljük a nagyobb záporokat. Egy kiadós ebéd után a Rádiómúzeum következik. A nedves idő ellenére teszünk egy kört a Haraldsted-tóhoz, majd óvatosan visszatérünk a központba.",
+            "ro": "Turul începe la moara de vânt sub o ploaie ușoară. Pedalăm rapid spre biserică și muzeu pentru a evita aversele. După un prânz consistent, urmează Muzeul Radio. În ciuda umezelii, mergem până la lacul Haraldsted, apoi ne întoarcem cu atenție în centru.",
+            "en": "The tour starts at the windmill under light drizzle. We cycle quickly to the church and museum to escape the showers. After a filling lunch, we head to the Radio Museum. Despite the damp weather, we take a look at Haraldsted Lake before carefully returning to the center."
+          },
+          "stops": [
+            {
+              "name": "Ringsted Windmill",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster rundum.",
+                "hu": "Vigyázzon a malom körüli macskaköveken.",
+                "ro": "Atenție pe piatra cubică din jurul morii.",
+                "en": "Be careful on the cobblestones around the mill."
+              }
+            },
+            {
+              "name": "St. Bendt's Church",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter den Dachvorsprung.",
+                "hu": "Parkolja a biciklit az eresz alá, ha lehet.",
+                "ro": "Parcați bicicleta sub streașină, dacă se poate.",
+                "en": "Park your bike under the eaves if possible."
+              }
+            },
+            {
+              "name": "Ringsted Museum and Archive",
+              "tip_5lang": {
+                "de": "Parkplätze für Räder direkt am Eingang.",
+                "hu": "Kerékpárparkoló közvetlenül a bejáratnál.",
+                "ro": "Parcare pentru biciclete chiar la intrare.",
+                "en": "Bike parking available right at the entrance."
+              }
+            },
+            {
+              "name": "Lunch near the Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob Ihre Regenkleidung noch dicht ist.",
+                "hu": "Ellenőrizze, hogy a ruházata még mindig bírja-e.",
+                "ro": "Verificați dacă hainele impermeabile încă rezistă.",
+                "en": "Check if your rain gear is still holding up."
+              }
+            },
+            {
+              "name": "The Radio Museum",
+              "tip_5lang": {
+                "de": "Ein langer Aufenthalt zum Trocknen wird empfohlen.",
+                "hu": "Hosszabb pihenő javasolt a száradáshoz.",
+                "ro": "Se recomandă o pauză mai lungă pentru uscare.",
+                "en": "A longer stay is recommended to dry off."
+              }
+            },
+            {
+              "name": "Haraldsted Lake",
+              "tip_5lang": {
+                "de": "Die Wege am See können schlammig sein.",
+                "hu": "A tó körüli utak sarasak lehetnek.",
+                "ro": "Potecile de lângă lac pot fi noroioase.",
+                "en": "The paths near the lake can be muddy."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen und Rutschgefahr.",
+                "hu": "Ügyeljen a tócsákra és a csúszásveszélyre.",
+                "ro": "Fiți atenți la bălți și la riscul de alunecare.",
+                "en": "Watch out for puddles and slippery spots."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Bremstests auf nasser Fahrbahn sind dringend ratsam.",
+              "Ein Sattelüberzug hält Ihren Sitzplatz trocken.",
+              "Tragen Sie auffällige Regenbekleidung für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "A vizes úton a fékút hosszabb, tesztelje a fékeket.",
+              "Egy nyeregvédő szárazon tartja az ülését.",
+              "Viseljen feltűnő esőruhát a jobb láthatóságért."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a vă proteja de apă.",
+              "Testați frânele, distanța de oprire este mai mare pe ud.",
+              "O husă de șa vă menține scaunul uscat.",
+              "Purtați haine de ploaie vizibile pentru siguranță."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from spray.",
+              "Test your brakes as stopping distance is longer when wet.",
+              "A saddle cover will keep your seat dry.",
+              "Wear high-visibility rain gear for safety."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt knackig kalt an der Windmühle. Die Fahrt zur Kirche belebt die Sinne, gefolgt von einer Aufwärmpause im Museum. Nach dem Mittagessen geht es zum Radio-Museum, bevor wir den frostigen Haraldsted See erreichen. Wir kehren pünktlich vor Einbruch der Dunkelheit in das beleuchtete Stadtzentrum zurück.",
+            "hu": "A nap frissítő hidegben indul a szélmalomnál. A tekerés a templomhoz felébreszti az érzékeket, majd a múzeumban melegedhetünk. Ebéd után a Rádiómúzeum következik, mielőtt elérnénk a jeges Haraldsted-tavat. Pontosan a sötétedés előtt érünk vissza a kivilágított városközpontba.",
+            "ro": "Ziua începe cu un frig revigorant la moara de vânt. Pedalarea spre biserică trezește simțurile, urmată de o pauză de încălzire la muzeu. După prânz, urmează Muzeul Radio, înainte de a ajunge la lacul înghețat Haraldsted. Revenim în centrul luminat exact înainte de lăsarea întunericului.",
+            "en": "The day starts with a refreshing chill at the windmill. Cycling to the church wakes up the senses, followed by a warming break at the museum. After lunch, we visit the Radio Museum before reaching the frosty Haraldsted Lake. We return to the lit-up town center just before darkness falls."
+          },
+          "stops": [
+            {
+              "name": "Ringsted Windmill",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen auf dem Boden.",
+                "hu": "Vigyázzon a talajon lévő jeges foltokra.",
+                "ro": "Atenție la porțiunile înghețate de pe jos.",
+                "en": "Watch out for icy patches on the ground."
+              }
+            },
+            {
+              "name": "St. Bendt's Church",
+              "tip_5lang": {
+                "de": "Kalte Finger lassen sich am besten drinnen wärmen.",
+                "hu": "A hideg ujjakat bent a legjobb felmelegíteni.",
+                "ro": "Degetele reci se încălzesc cel mai bine înăuntru.",
+                "en": "Warm up cold fingers in the indoor section."
+              }
+            },
+            {
+              "name": "Ringsted Museum and Archive",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad gut ab, Metallschlösser sind kalt.",
+                "hu": "Használjon kesztyűt a lakathoz, a fém jéghideg.",
+                "ro": "Folosiți mănuși pentru lacăt, metalul este înghețat.",
+                "en": "Use gloves for the lock, the metal is ice cold."
+              }
+            },
+            {
+              "name": "Lunch near the Park",
+              "tip_5lang": {
+                "de": "Ein heißes Getränk ist jetzt ein Muss.",
+                "hu": "Egy forró ital most már elengedhetetlen.",
+                "ro": "O băutură fierbinte este acum obligatorie.",
+                "en": "A hot drink is now a must-have."
+              }
+            },
+            {
+              "name": "The Radio Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme der Röhrenradios.",
+                "hu": "Élvezze a csöves rádiók árasztotta meleget.",
+                "ro": "Bucurați-vă de căldura radiourilor vechi.",
+                "en": "Enjoy the warmth of the old tube radios."
+              }
+            },
+            {
+              "name": "Haraldsted Lake",
+              "tip_5lang": {
+                "de": "Der Wind am See kann sehr schneidig sein.",
+                "hu": "A tóparti szél nagyon metsző lehet.",
+                "ro": "Vântul de lângă lac poate fi tăios.",
+                "en": "The wind by the lake can be very biting."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Lichter funktionieren.",
+                "hu": "Győződjön meg róla, hogy a lámpái működnek.",
+                "ro": "Asigurați-vă că luminile funcționează.",
+                "en": "Make sure your lights are working."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe für die Fahrt zum See.",
+              "Prüfen Sie den Reifendruck, da kalte Luft das Volumen mindert.",
+              "Die Sonne geht gegen 16:00 Uhr unter, Licht ist Pflicht.",
+              "Vermeiden Sie schattige Wege, dort hält sich Eis länger."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt a tóhoz vezető úton.",
+              "Ellenőrizze a guminyomást, a hidegben csökkenhet.",
+              "A nap 16 órakor nyugszik, a lámpa kötelező.",
+              "Kerülje az árnyékos utakat, ott tovább megmarad a jég."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt spre lac.",
+              "Verificați presiunea roților, scade la temperaturi mici.",
+              "Soarele apune la ora 16:00, luminile sunt obligatorii.",
+              "Evitați drumurile umbrite, gheața persistă acolo."
+            ],
+            "en": [
+              "Wear windproof gloves for the ride to the lake.",
+              "Check tire pressure, as it drops in cold air.",
+              "Sunset is at 16:00, lights are mandatory.",
+              "Avoid shaded paths where ice stays longer."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1108,6 +1508,188 @@
           "Watch out for cyclists, they often have the right of way.",
           "Fill up with gas before leaving the city, rural gas stations are less common."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Dank des Autos bleiben wir zwischen den Stationen trocken. Der Morgen beginnt mit einem Kaffee im Warmen, gefolgt von der St.-Bendts-Kirche. Nach dem Museumsbesuch fahren wir zum Haraldsted See, wo wir die Aussicht aus dem Auto genießen können. Den Tag lassen wir gemütlich bei der Windmühle ausklingen.",
+            "hu": "Az autónak köszönhetően szárazon jutunk el az állomások között. A reggel egy kávéval indul a melegben, majd a Szent Benedek-templom következik. A múzeumlátogatás után a Haraldsted-tóhoz autózunk, ahol a kocsiból is élvezhetjük a kilátást. A napot a szélmalomnál zárjuk kényelmesen.",
+            "ro": "Datorită mașinii, rămânem uscați între stații. Dimineața începe cu o cafea la căldură, urmată de Biserica Sf. Bendt. După vizita la muzeu, conducem spre lacul Haraldsted, unde putem admira priveliștea din mașină. Încheiem ziua confortabil la moara de vânt.",
+            "en": "Thanks to the car, we stay dry between stops. The morning starts with a coffee in the warm, followed by St. Bendt's Church. After the museum visit, we drive to Haraldsted Lake, where we can enjoy the view from the car. We finish the day comfortably at the windmill."
+          },
+          "stops": [
+            {
+              "name": "Park in the Center & Coffee",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Café, um Regen zu meiden.",
+                "hu": "Parkoljon közel a kávézóhoz az eső miatt.",
+                "ro": "Parcați aproape de cafenea pentru a evita ploaia.",
+                "en": "Park close to the cafe to avoid the rain."
+              }
+            },
+            {
+              "name": "St. Bendt's Church",
+              "tip_5lang": {
+                "de": "Parkplätze direkt gegenüber dem Kircheneingang.",
+                "hu": "Parkoló közvetlenül a templom bejáratával szemben.",
+                "ro": "Locuri de parcare vizavi de intrarea bisericii.",
+                "en": "Parking spots directly opposite the church entrance."
+              }
+            },
+            {
+              "name": "Ringsted Museum and Archive",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nur wenige Schritte entfernt.",
+                "hu": "A parkoló csak pár lépésre található.",
+                "ro": "Parcarea este la doar câțiva pași distanță.",
+                "en": "The parking lot is just a few steps away."
+              }
+            },
+            {
+              "name": "Drive to Haraldsted Lake",
+              "tip_5lang": {
+                "de": "Gute Scheibenwischer sind für die Fahrt wichtig.",
+                "hu": "A jó ablaktörlő fontos az úton.",
+                "ro": "Ștergătoarele bune sunt importante pe drum.",
+                "en": "Good windshield wipers are important for the drive."
+              }
+            },
+            {
+              "name": "Drive to the Radio Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung, um die Scheiben zu entnebeln.",
+                "hu": "Használja a fűtést a párátlanításhoz.",
+                "ro": "Folosiți căldura pentru a dezaburi geamurile.",
+                "en": "Use the heater to defog the windows."
+              }
+            },
+            {
+              "name": "Finish at Ringsted Windmill",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick, bevor es wieder regnet.",
+                "hu": "Élvezze a látványt, mielőtt újra rákezd az eső.",
+                "ro": "Bucurați-vă de vedere înainte de a ploua iar.",
+                "en": "Enjoy the view before it starts raining again."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Wasserstand der Scheibenwaschanlage.",
+              "Parken Sie in der Nähe der Eingänge, um trocken zu bleiben.",
+              "Vorsicht vor Aquaplaning auf der Landstraße zum See.",
+              "Halten Sie einen Regenschirm im Auto für kurze Wege bereit."
+            ],
+            "hu": [
+              "Ellenőrizze az ablakmosó folyadék szintjét.",
+              "Parkoljon a bejáratok közelében, hogy száraz maradjon.",
+              "Vigyázzon a felúszás (aquaplaning) veszélyére a tó felé.",
+              "Tartson esernyőt az autóban a rövid szakaszokra."
+            ],
+            "ro": [
+              "Verificați nivelul lichidului de parbriz.",
+              "Parcați lângă intrări pentru a rămâne uscat.",
+              "Atenție la acvaplanare pe drumul spre lac.",
+              "Țineți o umbrelă în mașină pentru distanțele scurte."
+            ],
+            "en": [
+              "Check the windshield washer fluid level.",
+              "Park near the entrances to stay dry.",
+              "Watch out for aquaplaning on the road to the lake.",
+              "Keep an umbrella in the car for short walks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start mit heißem Kaffee im Auto. Wir besuchen die Kirche und die Museen, während die Sitzheizung für Komfort sorgt. Die Fahrt zum Haraldsted See zeigt die verschneite dänische Landschaft. Den Tag beenden wir bei Sonnenuntergang an der Windmühle, bevor wir die Heizung für die Heimfahrt aufdrehen.",
+            "hu": "Fagyos kezdés forró kávéval az autóban. Meglátogatjuk a templomot és a múzeumokat, miközben az ülésfűtés ad kényelmet. A Haraldsted-tóhoz vezető út a havas dán tájat mutatja be. A napot naplementekor zárjuk a szélmalomnál, mielőtt hazaindulnánk.",
+            "ro": "Un început înghețat cu o cafea fierbinte în mașină. Vizităm biserica și muzeele, în timp ce scaunele încălzite oferă confort. Drumul spre lacul Haraldsted arată peisajul danez înzăpezit. Încheiem ziua la apus, la moara de vânt, înainte de drumul spre casă.",
+            "en": "A frosty start with hot coffee in the car. We visit the church and museums while heated seats provide comfort. The drive to Haraldsted Lake showcases the snowy Danish landscape. We end the day at sunset by the windmill before heading home."
+          },
+          "stops": [
+            {
+              "name": "Park in the Center & Coffee",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz warmlaufen.",
+                "hu": "Hagyja a motort egy kicsit bemelegedni.",
+                "ro": "Lăsați motorul să se încălzească puțin.",
+                "en": "Let the engine warm up for a bit."
+              }
+            },
+            {
+              "name": "St. Bendt's Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Parkplatz.",
+                "hu": "Vigyázzon a jegesedésre a parkolóban.",
+                "ro": "Atenție la polei în parcare.",
+                "en": "Watch out for black ice in the parking lot."
+              }
+            },
+            {
+              "name": "Ringsted Museum and Archive",
+              "tip_5lang": {
+                "de": "Besuch im Warmen genießen, während es draußen friert.",
+                "hu": "Élvezze a benti meleget, miközben kint fagy.",
+                "ro": "Bucurați-vă de căldură în timp ce afară îngheață.",
+                "en": "Enjoy the warmth while it freezes outside."
+              }
+            },
+            {
+              "name": "Drive to Haraldsted Lake",
+              "tip_5lang": {
+                "de": "Die Straßen zum See können glatt sein.",
+                "hu": "A tóhoz vezető utak csúszósak lehetnek.",
+                "ro": "Drumurile spre lac pot fi alunecoase.",
+                "en": "The roads to the lake can be slippery."
+              }
+            },
+            {
+              "name": "Drive to the Radio Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben.",
+                "hu": "Használja a klímát a párásodás ellen.",
+                "ro": "Folosiți clima împotriva aburirii geamurilor.",
+                "en": "Use the A/C to prevent window fogging."
+              }
+            },
+            {
+              "name": "Finish at Ringsted Windmill",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, bevor es zu kalt wird.",
+                "hu": "Rövid fotómegálló, mielőtt túl hideg lenne.",
+                "ro": "Scurtă oprire foto înainte de a fi prea frig.",
+                "en": "Quick photo stop before it gets too cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Winterreifen montiert sind.",
+              "Ein Eiskratzer sollte griffbereit liegen.",
+              "Prüfen Sie die Batterieladung bei großer Kälte.",
+              "Planen Sie mehr Zeit für den Bremsweg auf glatten Straßen ein."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a téli gumik fent vannak.",
+              "A jégkaparó legyen kéznél az autóban.",
+              "Ellenőrizze az akkumulátor állapotát a nagy hidegben.",
+              "Hagyjon több időt a fékezésre a csúszós utakon."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți anvelope de iarnă montate.",
+              "Răzuitoarea de gheață trebuie să fie la îndemână.",
+              "Verificați bateria mașinii pe timp de ger.",
+              "Planificați mai mult timp pentru frânare pe drumuri lucioase."
+            ],
+            "en": [
+              "Make sure winter tires are properly fitted.",
+              "An ice scraper should be easily accessible.",
+              "Check the battery charge during extreme cold.",
+              "Allow more time for braking on slippery roads."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1464,6 +2046,188 @@
           "Be aware that bus services are less frequent on weekends and in the evenings.",
           "Clearly signal to the bus driver that you want to get on at the stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir kommen am Bahnhof Ringsted an und nutzen die Wartehalle. Der Bus bringt uns trocken zur Kirche und zum Museum. Nach dem Mittagessen und einem kurzen Parkbesuch fahren wir zum Radio-Museum. Den Tag beenden wir sicher im Bus zurück zum Bahnhof, geschützt vor dem Dauerregen.",
+            "hu": "A ringstedi állomásra érkezünk, és kihasználjuk a várótermet. A busz szárazon visz minket a templomhoz és a múzeumhoz. Az ebéd és egy rövid parki séta után a Rádiómúzeum következik. A napot biztonságban, a buszon zárjuk a vasútállomás felé, védve az esőtől.",
+            "ro": "Sosim la gara Ringsted și folosim sala de așteptare. Autobuzul ne duce uscați la biserică și muzeu. După prânz și o scurtă vizită în parc, urmează Muzeul Radio. Încheiem ziua în siguranță în autobuz spre gară, feriți de ploaie.",
+            "en": "We arrive at Ringsted station and make use of the waiting room. The bus takes us dry to the church and museum. After lunch and a short park visit, we head to the Radio Museum. We end the day safely on the bus back to the station, protected from the rain."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Ringsted Station",
+              "tip_5lang": {
+                "de": "Wartehalle im Bahnhof nutzen.",
+                "hu": "Használja az állomás várótermét.",
+                "ro": "Folosiți sala de așteptare din gară.",
+                "en": "Use the waiting room at the station."
+              }
+            },
+            {
+              "name": "Bus to Center & St. Bendt's Church",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle hat ein Dach.",
+                "hu": "A buszmegálló fedett, itt nem ázik meg.",
+                "ro": "Stația de autobuz este acoperită.",
+                "en": "The bus stop is covered, stay dry here."
+              }
+            },
+            {
+              "name": "Ringsted Museum and Archive",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg von der Haltestelle.",
+                "hu": "Csak 2 perc séta a megállótól.",
+                "ro": "Doar 2 minute de mers de la stație.",
+                "en": "Only 2 minutes walk from the stop."
+              }
+            },
+            {
+              "name": "Lunch and Walk in Lystanlæg Park",
+              "tip_5lang": {
+                "de": "Ein Regenschirm für den Park ist nötig.",
+                "hu": "Esernyőre szükség lesz a parkban.",
+                "ro": "Veți avea nevoie de umbrelă în parc.",
+                "en": "An umbrella will be needed for the park."
+              }
+            },
+            {
+              "name": "Bus to the Radio Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die trockene Fahrt.",
+                "hu": "Élvezze a száraz utazást a buszon.",
+                "ro": "Bucurați-vă de drumul uscat cu autobuzul.",
+                "en": "Enjoy the dry ride on the bus."
+              }
+            },
+            {
+              "name": "Bus back to the station",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten online.",
+                "hu": "Ellenőrizze az indulási időket online.",
+                "ro": "Verificați orele de plecare online.",
+                "en": "Check departure times online."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Rejseplanen-App für Echtzeit-Updates.",
+              "Die Busse in Ringsted sind zuverlässig bei Regen.",
+              "Halten Sie Kleingeld oder eine Karte für das Ticket bereit.",
+              "Warten Sie in den Museen, bis der Bus fast da ist."
+            ],
+            "hu": [
+              "Használja a Rejseplanen alkalmazást az élő infókért.",
+              "A ringstedi buszok esőben is megbízhatóak.",
+              "Legyen kéznél apró vagy kártya a jegyhez.",
+              "Várjon a múzeumban, amíg a busz majdnem megérkezik."
+            ],
+            "ro": [
+              "Folosiți aplicația Rejseplanen pentru actualizări.",
+              "Autobuzele sunt de încredere chiar și pe ploaie.",
+              "Aveți pregătit cardul sau banii pentru bilet.",
+              "Așteptați în muzeu până când vine autobuzul."
+            ],
+            "en": [
+              "Use the Rejseplanen app for real-time updates.",
+              "Ringsted buses are reliable during rain.",
+              "Have your card or change ready for the ticket.",
+              "Wait inside the museums until the bus is close."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ankunft am Bahnhof im frostigen Ringsted. Der warme Bus bringt uns zum Zentrum, wo wir die Kirche und die Museen besuchen. In den Pausen wärmen wir uns in den beheizten Innenräumen auf. Bevor es dunkel wird, nehmen wir den Bus zurück zum Bahnhof und genießen die weihnachtliche Beleuchtung der Stadt.",
+            "hu": "Érkezés a fagyos ringstedi állomásra. A meleg busz visz a központba, ahol a templomot és a múzeumokat nézzük meg. A szünetekben a fűtött belső terekben melegszünk fel. Mielőtt besötétedne, busszal megyünk vissza az állomásra, élvezve a város karácsonyi fényeit.",
+            "ro": "Sosire la gara din Ringsted pe un ger năpraznic. Autobuzul cald ne duce în centru pentru biserică și muzee. În pauze, ne încălzim în spațiile interioare. Înainte de întuneric, luăm autobuzul înapoi la gară, admirând luminile de iarnă.",
+            "en": "Arrival at the frosty Ringsted station. The warm bus takes us to the center to see the church and museums. During breaks, we warm up in the heated interiors. Before it gets dark, we take the bus back to the station, enjoying the city's winter lights."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Ringsted Station",
+              "tip_5lang": {
+                "de": "Der Bahnhofskiosk bietet heißen Tee an.",
+                "hu": "Az állomási büfében forró teát is kapni.",
+                "ro": "Chioșcul din gară oferă ceai fierbinte.",
+                "en": "The station kiosk offers hot tea."
+              }
+            },
+            {
+              "name": "Bus to Center & St. Bendt's Church",
+              "tip_5lang": {
+                "de": "Der Bus ist gut geheizt und gemütlich.",
+                "hu": "A busz jól fűtött és kényelmes.",
+                "ro": "Autobuzul este bine încălzit și confortabil.",
+                "en": "The bus is well heated and cozy."
+              }
+            },
+            {
+              "name": "Ringsted Museum and Archive",
+              "tip_5lang": {
+                "de": "Ein kurzer, kalter Sprint von der Haltestelle.",
+                "hu": "Egy rövid, hideg futás a megállótól.",
+                "ro": "Un sprint scurt și rece de la stație.",
+                "en": "A short, cold sprint from the stop."
+              }
+            },
+            {
+              "name": "Lunch and Walk in Lystanlæg Park",
+              "tip_5lang": {
+                "de": "Im Winter sind die Parkbänke oft gefroren.",
+                "hu": "Télen a padok gyakran jegesek a parkban.",
+                "ro": "Iarna, băncile din parc sunt adesea înghețate.",
+                "en": "In winter, park benches are often frozen."
+              }
+            },
+            {
+              "name": "Bus to the Radio Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit zum Aufwärmen der Hände.",
+                "hu": "Használja ki az időt a kezei melegítésére.",
+                "ro": "Folosiți timpul pentru a vă încălzi mâinile.",
+                "en": "Use the travel time to warm up your hands."
+              }
+            },
+            {
+              "name": "Bus back to the station",
+              "tip_5lang": {
+                "de": "Rechtzeitig an der Haltestelle sein, Kälte zehrt.",
+                "hu": "Érkezzen időben, a hidegben várni nehéz.",
+                "ro": "Veniți la timp, e greu să așteptați în frig.",
+                "en": "Be on time, waiting in the cold is tough."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Socken, da Busböden kalt sein können.",
+              "Die Fahrpläne können bei extremem Schneefall variieren.",
+              "Nutzen Sie die beheizten Wartebereiche im Bahnhof.",
+              "Kaufen Sie Ihr Ticket vorab per App für weniger Stress."
+            ],
+            "hu": [
+              "Viseljen meleg zoknit, a busz padlója hideg lehet.",
+              "Hóesés esetén a menetrendek változhatnak.",
+              "Használja a vasútállomás fűtött váróhelyiségeit.",
+              "Vegye meg a jegyet előre az appban a kényelemért."
+            ],
+            "ro": [
+              "Purtați șosete groase, podeaua autobuzului e rece.",
+              "Orarele pot varia în caz de ninsoare abundentă.",
+              "Folosiți zonele de așteptare încălzite din gară.",
+              "Cumpărați biletul în avans prin aplicație."
+            ],
+            "en": [
+              "Wear warm socks as bus floors can be cold.",
+              "Schedules may vary during heavy snowfall.",
+              "Use the heated waiting areas at the station.",
+              "Buy your ticket in advance via the app for ease."
+            ]
+          }
+        }
       }
     }
   }

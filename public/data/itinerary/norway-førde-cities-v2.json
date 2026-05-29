@@ -270,6 +270,188 @@
           "A reusable water bottle is useful.",
           "Most places accept credit cards."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Førdehuset, das Schutz vor dem norwegischen Regen bietet. Der Vormittag führt Sie durch das Stadtzentrum zur Kirche, wobei die kurzen Wege zwischen den Gebäuden ideal für regnerische Tage sind. Mittags genießen Sie die Kunstschätze im Sogn og Fjordane Kunstmuseum, einem modernen Zufluchtsort. Den Nachmittag verbringen Sie im Sunnfjord Museum, bevor Sie den Tag gemütlich in einem Café am Fluss Jølstra ausklingen lassen.",
+            "hu": "Kezdje a napot a Førdehuset kulturális központban, amely kiváló menedéket nyújt az eső elől. Délelőtt a városközponton keresztül sétáljon el a templomig; a rövid távok ideálisak csapadékos időben. A délutánt töltse a Sogn og Fjordane Művészeti Múzeum modern falai között, majd fedezze fel a Sunnfjord Múzeum kiállításait. Az estét egy vízparti étterem melegében zárja, figyelve a Jølstra folyó áradását.",
+            "ro": "Începeți ziua la centrul cultural Førdehuset, un refugiu perfect împotriva ploii norvegiene. Dimineața continuă cu o scurtă plimbare spre biserica orașului, profitând de distanțele mici. La prânz, vizitați Muzeul de Artă Sogn og Fjordane, unde vă puteți adăposti printre exponate. După-amiaza este dedicată Muzeului Sunnfjord, iar seara se încheie confortabil într-un local de pe malul râului Jølstra, admirând peisajul ploios.",
+            "en": "Start your day at Førdehuset, a great indoor cultural hub to escape the Norwegian rain. Spend your morning exploring the town center and the church, where short distances help you stay dry. Noon is best spent at the Sogn og Fjordane Art Museum, a modern sanctuary of culture. In the afternoon, explore the Sunnfjord Museum exhibits, and end your walk with a cozy dinner by the Jølstra river as the rain falls outside."
+          },
+          "stops": [
+            {
+              "name": "Førde Town Center & Førdehuset",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Førdehuset als trockenen Treffpunkt und Kulturzentrum.",
+                "hu": "Használja a Førdehusetet száraz találkozóhelyként és kulturális központként.",
+                "ro": "Folosiți Førdehuset ca punct de întâlnire uscat și centru cultural.",
+                "en": "Use Førdehuset as a dry meeting point and indoor cultural hub."
+              }
+            },
+            {
+              "name": "Førde Church",
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine ruhige, trockene Pause während des Stadtrundgangs.",
+                "hu": "A templom csendes, száraz pihenőhelyet kínál a városi séta során.",
+                "ro": "Biserica oferă o pauză liniștită și uscată în timpul plimbării prin oraș.",
+                "en": "The church offers a quiet, dry break during your walk through town."
+              }
+            },
+            {
+              "name": "Sogn og Fjordane Art Museum",
+              "tip_5lang": {
+                "de": "Perfektes Ziel bei Regen; die Architektur ist auch von innen beeindruckend.",
+                "hu": "Tökéletes célpont esőben; az építészet belülről is lenyűgöző.",
+                "ro": "Destinație perfectă pe ploaie; arhitectura este impresionantă și la interior.",
+                "en": "Perfect rainy day destination; the architecture is impressive from the inside too."
+              }
+            },
+            {
+              "name": "Lunch near the river Jølstra",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit großen Fenstern, um den Regen am Fluss zu beobachten.",
+                "hu": "Válasszon nagyablakos éttermet, hogy nézhesse a folyót az esőben.",
+                "ro": "Alegeți un restaurant cu ferestre mari pentru a vedea râul pe ploaie.",
+                "en": "Choose a restaurant with large windows to watch the rain over the river."
+              }
+            },
+            {
+              "name": "Sunnfjord Museum",
+              "tip_5lang": {
+                "de": "Einige Gebäude sind begehbar und bieten Schutz während der Besichtigung.",
+                "hu": "Néhány épület bejárható, így menedéket nyújt a látogatás alatt.",
+                "ro": "Unele clădiri pot fi vizitate la interior, oferind adăpost în timpul turului.",
+                "en": "Several buildings can be entered, providing shelter during your visit."
+              }
+            },
+            {
+              "name": "Riverside Stroll",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind auch bei Nässe gut begehbar.",
+                "hu": "Az aszfaltozott utak esős időben is jól járhatóak.",
+                "ro": "Căile asfaltate sunt ușor de parcurs chiar și pe vreme umedă.",
+                "en": "Paved paths remain easily walkable even in wet conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie hochwertige wasserfeste Wanderschuhe für die Wege zwischen den Museen.",
+              "Das Einkaufszentrum Elvetorget bietet zusätzliche überdachte Flächen im Zentrum.",
+              "Achten Sie auf Pfützen auf den Uferwegen des Jølstra.",
+              "Ein stabiler Sturmschirm ist wegen des oft böigen Windes empfehlenswert."
+            ],
+            "hu": [
+              "Viseljen minőségi vízálló túrabakancsot a múzeumok közötti közlekedéshez.",
+              "Az Elvetorget bevásárlóközpont további fedett tereket kínál a központban.",
+              "Vigyázzon a tócsákra a Jølstra folyó menti sétányokon.",
+              "A gyakori széllökések miatt egy strapabíró viharernyő ajánlott."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție impermeabilă pentru traseele dintre muzee.",
+              "Centrul comercial Elvetorget oferă spații acoperite suplimentare în centru.",
+              "Atenție la bălți pe potecile de pe malul râului Jølstra.",
+              "Se recomandă o umbrelă rezistentă la vânt din cauza rafalelor frecvente."
+            ],
+            "en": [
+              "Wear high-quality waterproof hiking boots for walking between museums.",
+              "Elvetorget shopping center offers extra indoor space in the town center.",
+              "Watch out for puddles on the riverside paths of the Jølstra.",
+              "A sturdy storm umbrella is recommended due to frequent gusty winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Førde im Winterglanz, beginnend im warmen Førdehuset. Die klare Winterluft begleitet Sie zur Førde Kirche, bevor Sie sich im Kunstmuseum bei nordischer Kunst aufwärmen. Das Mittagessen am Fluss bietet Ausblicke auf das eisige Wasser der Jølstra. Nachmittags zeigt das Sunnfjord Museum die winterliche Geschichte der Region, bevor die frühe Dämmerung die Stadt in ein magisches Licht taucht.",
+            "hu": "Fedezze fel Førde téli arcát, kezdve a napot a fűtött Førdehusetben. A friss téli levegő elkíséri a templomig, majd melegedjen fel a művészeti múzeum tárlatain. Az ebédnél csodálja meg a jeges Jølstra folyót az ablakból. Délután a Sunnfjord Múzeum mutatja be a régió téli történelmét, mielőtt a korai sötétedés ünnepi fényekbe öltöztetné a várost.",
+            "ro": "Experimentați Førde în haine de iarnă, începând ziua în centrul încălzit Førdehuset. Aerul proaspăt de iarnă vă însoțește spre biserică, înainte de a vă încălzi la muzeul de artă. Prânzul oferă priveliști spre apele înghețate ale râului Jølstra. După-amiaza, Muzeul Sunnfjord dezvăluie istoria hibernală a regiunii, înainte ca amurgul timpuriu să scalde orașul în lumini magice.",
+            "en": "Experience Førde in its winter glory, starting at the warm Førdehuset. The crisp winter air accompanies you to the church, followed by a warm-up session with Nordic art at the museum. Enjoy lunch with views of the icy Jølstra river. In the afternoon, Sunnfjord Museum showcases the region's winter history before the early twilight wraps the town in magical lights."
+          },
+          "stops": [
+            {
+              "name": "Førde Town Center & Førdehuset",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich vor dem Stadtspaziergang aufzuwärmen.",
+                "hu": "Tökéletes hely a bemelegedésre a városi séta előtt.",
+                "ro": "Locul perfect pentru a vă încălzi înainte de plimbarea prin oraș.",
+                "en": "The perfect spot to warm up before starting your city walk."
+              }
+            },
+            {
+              "name": "Førde Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf die stimmungsvolle Winterbeleuchtung rund um die Kirche.",
+                "hu": "Figyelje meg a templom körüli hangulatos téli kivilágítást.",
+                "ro": "Observați iluminatul festiv de iarnă din jurul bisericii.",
+                "en": "Look out for the atmospheric winter lighting around the church."
+              }
+            },
+            {
+              "name": "Sogn og Fjordane Art Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Winterkleidung bequem abzulegen.",
+                "hu": "Használja a ruhatárat a nehéz téli ruhák kényelmes tárolására.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele grele de iarnă în siguranță.",
+                "en": "Use the cloakroom to store heavy winter layers comfortably."
+              }
+            },
+            {
+              "name": "Lunch near the river Jølstra",
+              "tip_5lang": {
+                "de": "Genießen Sie warme norwegische Suppen nach dem Aufenthalt im Freien.",
+                "hu": "Élvezze a meleg norvég leveseket a kinti séta után.",
+                "ro": "Savurați supe norvegiene calde după timpul petrecut afară.",
+                "en": "Enjoy warm Norwegian soups after your time outdoors."
+              }
+            },
+            {
+              "name": "Sunnfjord Museum",
+              "tip_5lang": {
+                "de": "Das Gelände kann verschneit sein; festes Schuhwerk ist unerlässlich.",
+                "hu": "A terep havas lehet; a stabil lábbeli elengedhetetlen.",
+                "ro": "Terenul poate fi înzăpezit; încălțămintea solidă este esențială.",
+                "en": "The grounds may be snowy; sturdy winter footwear is essential."
+              }
+            },
+            {
+              "name": "Riverside Stroll",
+              "tip_5lang": {
+                "de": "Achten Sie auf glatte Stellen am Uferweg bei Minusgraden.",
+                "hu": "Fagypont alatt vigyázzon a csúszós szakaszokra a folyóparton.",
+                "ro": "Atenție la porțiunile alunecoase de pe malul râului la temperaturi negative.",
+                "en": "Watch for slippery spots on the riverside path during freezing temperatures."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 15:30 bis 16:00 Uhr unter.",
+              "Spikes für die Schuhe sind bei vereisten Gehwegen sehr nützlich.",
+              "Tragen Sie Wolle als Basisschicht, um bei Wind warm zu bleiben.",
+              "Viele Cafés im Zentrum bieten kostenlose Decken für Gäste an."
+            ],
+            "hu": [
+              "Télen a nap már 15:30 és 16:00 óra között lenyugszik.",
+              "A cipőre húzható csúszásgátló tüskék nagyon hasznosak jeges járdákon.",
+              "Viseljen gyapjú alapréteget, hogy melegen tartsa a szélben.",
+              "A központban sok kávézó kínál ingyenes takarót a vendégeknek."
+            ],
+            "ro": [
+              "Soarele apune deja între orele 15:30 și 16:00 în timpul iernii.",
+              "Crampoanele pentru pantofi sunt foarte utile pe trotuarele înghețate.",
+              "Purtați un strat de bază din lână pentru a menține căldura în vânt.",
+              "Multe cafenele din centru oferă pături gratuite pentru oaspeți."
+            ],
+            "en": [
+              "Sunset occurs as early as 3:30 PM to 4:00 PM in the winter.",
+              "Shoe spikes (ice grips) are very useful on icy city sidewalks.",
+              "Wear wool base layers to stay warm against the fjord winds.",
+              "Many central cafes provide free blankets for their patrons."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -558,6 +740,206 @@
           "Bring waterproof clothing, the weather can change quickly.",
           "A helmet is highly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet Førde auf zwei Rädern eine dynamische Perspektive. Starten Sie am Kunstmuseum und radeln Sie zur Kirche, wobei die kurzen Wege die Nässe erträglich machen. Das Sunnfjord Museum ist das Ziel am Vormittag, bevor Sie sich beim Mittagessen aufwärmen. Nachmittags erkunden Sie das Angedalen und die Huldefossen Wasserfälle, die bei Regen besonders imposant wirken, bevor Sie zum Stadtzentrum zurückkehren.",
+            "hu": "Az eső ellenére a kerékpározás Førdében dinamikus élményt nyújt. Kezdjen a művészeti múzeumnál, majd tekerjen a templomhoz; a rövid távok miatt nem ázik el túlságon. A Sunnfjord Múzeum után egy meleg ebéd következik. Délután az Angedalen völgy és a Huldefossen-vízesés a cél, utóbbi esőben különösen látványos, végül térjen vissza a városközpontba.",
+            "ro": "În ciuda ploii, explorarea orașului Førde pe două roți oferă o perspectivă dinamică. Începeți la muzeul de artă și pedalați spre biserică. Vizitați Muzeul Sunnfjord, apoi încălziți-vă la prânz. După-amiaza este pentru valea Angedalen și cascada Huldefossen, care este deosebit de spectaculoasă pe ploaie, înainte de a reveni în centru.",
+            "en": "Despite the rain, cycling in Førde offers a dynamic perspective. Start at the art museum and bike to the church; short stretches keep the dampness manageable. Visit the Sunnfjord Museum before warming up at lunch. Spend the afternoon exploring Angedalen and the Huldefossen waterfall, which looks even more powerful in the rain, then return to the city center."
+          },
+          "stops": [
+            {
+              "name": "Sogn og Fjordane Art Museum",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich oft in der Nähe des Eingangs.",
+                "hu": "Fedett kerékpártárolók gyakran találhatók a bejárat közelében.",
+                "ro": "Suporturi de biciclete acoperite se găsesc adesea lângă intrare.",
+                "en": "Covered bike racks are often available near the main entrance."
+              }
+            },
+            {
+              "name": "Førde Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; halten Sie Regenponchos für die Weiterfahrt bereit.",
+                "hu": "Rövid megálló; tartsa készenlétben az esőponchót a továbbhaladáshoz.",
+                "ro": "Oprire scurtă; pregătiți pelerina de ploaie pentru continuarea drumului.",
+                "en": "Short stop; keep your rain poncho ready for the next leg of the ride."
+              }
+            },
+            {
+              "name": "Sunnfjord Museum",
+              "tip_5lang": {
+                "de": "Der Weg zum Museum ist bei Regen etwas rutschig; vorsichtig fahren.",
+                "hu": "A múzeumhoz vezető út esőben kicsit csúszós; vezessen óvatosan.",
+                "ro": "Drumul spre muzeu este ușor alunecos pe ploaie; pedalați cu atenție.",
+                "en": "The path to the museum can be slippery when wet; ride carefully."
+              }
+            },
+            {
+              "name": "Lunch Break",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz, an dem Sie Ihre nasse Ausrüstung trocknen können.",
+                "hu": "Keressen olyan helyet, ahol meg tudja szárítani a vizes felszerelését.",
+                "ro": "Căutați un loc unde vă puteți usca echipamentul ud.",
+                "en": "Look for a spot where you can dry off your wet gear during lunch."
+              }
+            },
+            {
+              "name": "Ride towards Angedalen",
+              "tip_5lang": {
+                "de": "Schutzbleche am Fahrrad sind bei der Fahrt durch das Tal unerlässlich.",
+                "hu": "A sárvédő elengedhetetlen a völgyben való kerékpározáshoz.",
+                "ro": "Aripile la bicicletă sunt esențiale pentru plimbarea prin vale.",
+                "en": "Mudguards on your bike are essential for riding through the valley."
+              }
+            },
+            {
+              "name": "Huldefossen Waterfall",
+              "tip_5lang": {
+                "de": "Der Wasserfall ist bei Regen besonders kraftvoll und sehenswert.",
+                "hu": "A vízesés esős időben különösen erőteljes és látványos.",
+                "ro": "Cascada este deosebit de puternică și merită văzută pe ploaie.",
+                "en": "The waterfall is exceptionally powerful and scenic during rain."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_5lang": {
+                "de": "Vermeiden Sie schnelle Kurven auf den nassen Straßen im Zentrum.",
+                "hu": "Kerülje a gyors kanyarodást a központ vizes útjain.",
+                "ro": "Evitați virajele rapide pe străzile umede din centru.",
+                "en": "Avoid sharp turns on the wet roads as you return to the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenbekleidung inklusive Überschuhen.",
+              "Prüfen Sie Ihre Bremsen vorab, da die Bremswirkung bei Nässe nachlässt.",
+              "Vermeiden Sie das Überfahren von nassen Fahrbahnmarkierungen und Gullydeckeln.",
+              "Ein wasserfester Rucksacküberzug hält Ihre Wechselkleidung trocken."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot, beleértve a kamáslit is.",
+              "Előre ellenőrizze a fékeket, mert nedves úton csökken a fékhatás.",
+              "Kerülje a vizes útburkolati jelekre és csatornafedelekre való ráhajtást.",
+              "Egy vízálló hátizsákvédő szárazon tartja a váltóruháját."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, inclusiv protecții pentru pantofi.",
+              "Verificați frânele în prealabil, deoarece eficiența scade pe carosabil ud.",
+              "Evitați marcajele rutiere umede și capacele de canal.",
+              "O husă impermeabilă pentru rucsac vă va menține hainele de schimb uscate."
+            ],
+            "en": [
+              "Wear full rain gear, including waterproof shoe covers.",
+              "Check your brakes beforehand, as stopping distance increases in the wet.",
+              "Avoid riding directly over wet road markings or manhole covers.",
+              "A waterproof backpack cover will keep your spare clothes dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Førde erfordert Vorbereitung, bietet aber stille, klare Erlebnisse. Starten Sie am Kunstmuseum und radeln Sie vorsichtig durch die verschneite Stadt zur Kirche. Nach dem Sunnfjord Museum stärken Sie sich bei einem heißen Mittagessen. Die Tour zum Angedalen und zum gefrorenen Huldefossen Wasserfall zeigt die arktische Schönheit der Natur, bevor Sie in der Dämmerung zurückradeln.",
+            "hu": "A téli kerékpározás Førdében felkészülést igényel, de csendes, tiszta élményeket kínál. Kezdjen a művészeti múzeumnál, és tekerjen óvatosan a havas városon át a templomig. A Sunnfjord Múzeum után egy forró ebéd ad erőt. Az Angedalen völgy és a befagyott Huldefossen-vízesés az arktikus természet szépségét mutatja be, mielőtt szürkületben visszatérne.",
+            "ro": "Ciclismul de iarnă în Førde necesită pregătire, dar oferă experiențe liniștite. Începeți la muzeul de artă și pedalați cu grijă prin orașul înzăpezit spre biserică. După Muzeul Sunnfjord, prânzul cald vă va reda energia. Turul spre Angedalen și cascada înghețată Huldefossen arată frumusețea arctică a naturii, înainte de a reveni pe înserat.",
+            "en": "Winter cycling in Førde requires preparation but rewards you with quiet, crisp experiences. Start at the art museum and bike carefully through the snowy town to the church. After Sunnfjord Museum, a hot lunch will restore your energy. The trip to Angedalen and the frozen Huldefossen waterfall showcases the Arctic beauty of nature before you head back at dusk."
+          },
+          "stops": [
+            {
+              "name": "Sogn og Fjordane Art Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Museum auf, bevor Sie die längere Strecke antreten.",
+                "hu": "Melegedjen be a múzeumban a hosszabb szakasz megkezdése előtt.",
+                "ro": "Încălziți-vă în muzeu înainte de a porni pe traseul mai lung.",
+                "en": "Warm up in the museum before starting the longer stretch of your ride."
+              }
+            },
+            {
+              "name": "Førde Church",
+              "tip_5lang": {
+                "de": "Stoppen Sie nur kurz, um nicht auszukühlen; halten Sie die Muskeln in Bewegung.",
+                "hu": "Csak rövid időre álljon meg, nehogy kihűljön; tartsa mozgásban az izmait.",
+                "ro": "Opriți doar scurt pentru a nu vă răci; mențineți mușchii în mișcare.",
+                "en": "Stop only briefly to avoid cooling down; keep your muscles moving."
+              }
+            },
+            {
+              "name": "Sunnfjord Museum",
+              "tip_5lang": {
+                "de": "Die Auffahrt kann vereist sein; nutzen Sie Winterreifen mit Spikes.",
+                "hu": "A felvezető út jeges lehet; használjon szöges téli gumikat.",
+                "ro": "Urcarea poate fi înghețată; folosiți anvelope de iarnă cu ținte.",
+                "en": "The access road may be icy; using studded winter tires is advised."
+              }
+            },
+            {
+              "name": "Lunch Break",
+              "tip_5lang": {
+                "de": "Trinken Sie heißen Tee oder Kaffee, um die Körpertemperatur zu halten.",
+                "hu": "Igyon forró teát vagy kávét a testhőmérséklet fenntartásához.",
+                "ro": "Beți ceai sau cafea fierbinte pentru a menține temperatura corpului.",
+                "en": "Drink hot tea or coffee to help maintain your core body temperature."
+              }
+            },
+            {
+              "name": "Ride towards Angedalen",
+              "tip_5lang": {
+                "de": "Genießen Sie die schneebedeckte Landschaft, aber achten Sie auf den Weg.",
+                "hu": "Élvezze a hófödte tájat, de koncentráljon az útra.",
+                "ro": "Bucurați-vă de peisajul înzăpezit, dar fiți atenți la drum.",
+                "en": "Enjoy the snow-covered scenery, but stay focused on the path."
+              }
+            },
+            {
+              "name": "Huldefossen Waterfall",
+              "tip_5lang": {
+                "de": "Der Wasserfall ist oft teilweise gefroren – ein faszinierendes Fotomotiv.",
+                "hu": "A vízesés gyakran részben befagy – lenyűgöző fotótéma.",
+                "ro": "Cascada este adesea parțial înghețată – un subiect foto fascinant.",
+                "en": "The waterfall is often partially frozen – a fascinating photo subject."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung bei früher Dämmerung funktioniert.",
+                "hu": "Győződjön meg róla, hogy a kerékpáros világítás működik a korai sötétedéskor.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează pentru amurgul timpuriu.",
+                "en": "Ensure your bike lights are working for the early winter twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen mit Spikes (Piggdekk) sind in Førde im Winter Standard.",
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Akku-Lichter entladen sich in der Kälte schneller; nehmen Sie Ersatz mit.",
+              "Planen Sie mehr Zeit für die Wege ein, da der Untergrund rutschig sein kann."
+            ],
+            "hu": [
+              "A szöges téli gumi (Piggdekk) alapfelszerelés télen Førdében.",
+              "Viseljen szélálló kesztyűt és sisak alá vehető sapkát.",
+              "Az akkumulátoros lámpák gyorsabban merülnek a hidegben; vigyen pótalkatrészt.",
+              "Tervezzen több időt az utakra, mert a talaj csúszós lehet."
+            ],
+            "ro": [
+              "Anvelopele de iarnă cu ținte (Piggdekk) sunt standard în Førde iarna.",
+              "Purtați mănuși rezistente la vânt și o căciulă pe sub cască.",
+              "Luminile cu acumulator se descarcă mai repede la frig; luați rezerve.",
+              "Alocați mai mult timp pentru deplasare, deoarece suprafața poate fi alunecoasă."
+            ],
+            "en": [
+              "Studded winter tires (Piggdekk) are essential for cycling in Førde winters.",
+              "Wear windproof gloves and a thin hat or liner under your helmet.",
+              "Battery-powered lights drain faster in the cold; bring spares.",
+              "Allow extra time for travel as road conditions can be slippery."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -846,6 +1228,206 @@
           "Plan extra time for photo stops.",
           "Roads in the valleys can be narrow, drive carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Førde auch bei starkem Regen komfortabel zu erkunden. Beginnen Sie im Stadtzentrum und besuchen Sie das Sogn og Fjordane Kunstmuseum. Danach geht es zur Førde Kirche. Mittags fahren Sie zum Huldefossen Wasserfall und zum Sunnfjord Museum, wo Sie trotz Regen mobil bleiben. Genießen Sie den Ausblick vom Hafstadfjellet, falls die Wolkenlücken es zulassen, bevor Sie zum Abendessen zurückkehren.",
+            "hu": "Autóval Førde erős esőben is kényelmesen felfedezhető. Kezdjen a városközpontban a művészeti múzeummal, majd látogasson el a templomhoz. Délben hajtson a Huldefossen-vízeséshez és a Sunnfjord Múzeumhoz; az autóval a parkolótól csak pár lépés a bejárat. Ha a felhők engedik, nézzen szét a Hafstadfjellet kilátóról, mielőtt visszatérne vacsorázni.",
+            "ro": "Cu mașina, Førde poate fi explorat confortabil chiar și pe ploaie torențială. Începeți în centru cu muzeul de artă, apoi vizitați biserica. La prânz, conduceți spre cascada Huldefossen și Muzeul Sunnfjord; mașina vă permite să rămâneți uscat între obiective. Dacă norii permit, admirați vederea de pe Hafstadfjellet înainte de cină.",
+            "en": "By car, Førde is comfortable to explore even in heavy rain. Start in the center at the art museum and then visit the church. At noon, drive to Huldefossen waterfall and Sunnfjord Museum; the car keeps you dry between stops. Enjoy the view from Hafstadfjellet if the clouds break, then return to town for a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Førde Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser im Zentrum, um trocken ins Freie zu gelangen.",
+                "hu": "Használja a központi parkolóházakat, hogy szárazon jusson ki.",
+                "ro": "Folosiți parcările etajate din centru pentru a rămâne uscat.",
+                "en": "Use parking garages in the center to stay dry while exiting."
+              }
+            },
+            {
+              "name": "Sogn og Fjordane Art Museum",
+              "tip_5lang": {
+                "de": "Parkplätze befinden sich in unmittelbarer Nähe des Museumseingangs.",
+                "hu": "Parkolóhelyek közvetlenül a múzeum bejárata mellett találhatók.",
+                "ro": "Locurile de parcare se află în imediata apropiere a intrării în muzeu.",
+                "en": "Parking spaces are available right next to the museum entrance."
+              }
+            },
+            {
+              "name": "Førde Church",
+              "tip_5lang": {
+                "de": "Kurzer Halt möglich; Parkplätze direkt an der Kirche vorhanden.",
+                "hu": "Rövid megállás lehetséges; parkolók közvetlenül a templomnál.",
+                "ro": "Oprire scurtă posibilă; parcări disponibile direct la biserică.",
+                "en": "Short stop possible; parking is available directly at the church."
+              }
+            },
+            {
+              "name": "Cluster 2: Huldefossen & Sunnfjord",
+              "tip_5lang": {
+                "de": "Vom Parkplatz zum Wasserfall ist es nur ein kurzer Fußweg durch den Regen.",
+                "hu": "A parkolótól a vízesésig csak rövid séta vezet az esőben.",
+                "ro": "De la parcare la cascadă este doar o scurtă plimbare prin ploaie.",
+                "en": "It's only a short walk from the parking lot to the waterfall."
+              }
+            },
+            {
+              "name": "Sunnfjord Museum",
+              "tip_5lang": {
+                "de": "Das Auto bietet einen warmen Rückzugsort zwischen den Museumsgebäuden.",
+                "hu": "Az autó meleg menedéket nyújt a múzeumi épületek között.",
+                "ro": "Mașina oferă un refugiu cald între clădirile muzeului.",
+                "en": "The car serves as a warm retreat between visiting the museum buildings."
+              }
+            },
+            {
+              "name": "Cluster 3: Hafstadfjellet/Piksvarden Viewpoint",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie die Aussicht durch die Scheiben.",
+                "hu": "Heves esőben maradjon az autóban, és élvezze a kilátást az ablakon át.",
+                "ro": "Pe ploaie torențială, rămâneți în mașină și admirați vederea prin geam.",
+                "en": "In heavy rain, stay in the car and enjoy the view through the windows."
+              }
+            },
+            {
+              "name": "Dinner in Førde",
+              "tip_5lang": {
+                "de": "Viele Restaurants haben Parkmöglichkeiten in Gehweite.",
+                "hu": "Sok étterem közelében található gyalogosan elérhető parkoló.",
+                "ro": "Multe restaurante au locuri de parcare la mică distanță.",
+                "en": "Many restaurants have parking options within easy walking distance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der E39 bei starkem Regen.",
+              "Halten Sie einen Schirm im Auto bereit für den Weg vom Parkplatz.",
+              "Die Sicht am Aussichtspunkt kann durch tiefhängende Wolken eingeschränkt sein.",
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Fahrt."
+            ],
+            "hu": [
+              "Heves esőben ügyeljen az aquaplaning veszélyére az E39-es úton.",
+              "Tartson esernyőt az autóban a parkolótól a bejáratig vezető útra.",
+              "A kilátópontnál a látási viszonyokat korlátozhatják az alacsony felhők.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul E39 în timpul ploilor torențiale.",
+              "Aveți pregătită o umbrelă în mașină pentru drumul de la parcare.",
+              "Vizibilitatea la punctul de belvedere poate fi limitată de nori joși.",
+              "Verificați starea ștergătoarelor înainte de a porni la drum."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the E39 highway during heavy rain.",
+              "Keep an umbrella handy in the car for the walk from the parking lot.",
+              "Visibility at viewpoints might be restricted by low-hanging clouds.",
+              "Check the condition of your windshield wipers before setting out."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch Førde bietet Komfort und Sicherheit. Besuchen Sie das Kunstmuseum und die Kirche im warmen Wagen. Mittags führt die Fahrt zum spektakulären Huldefossen Wasserfall und zum Sunnfjord Museum, wobei Sie die verschneite Landschaft sicher durchqueren. Der Aussichtspunkt Hafstadfjellet bietet bei klarem Winterhimmel ein beeindruckendes Panorama, bevor Sie den Abend im Zentrum genießen.",
+            "hu": "A téli autózás Førdében kényelmet és biztonságot nyújt. Látogassa meg a művészeti múzeumot és a templomot a meleg autóval. Délben az út a látványos Huldefossen-vízeséshez és a Sunnfjord Múzeumhoz vezet, miközben biztonságban szeli át a havas tájat. A Hafstadfjellet kilátó tiszta téli égbolt mellett lenyűgöző panorámát kínál a vacsora előtt.",
+            "ro": "O călătorie cu mașina prin Førde iarna oferă confort și siguranță. Vizitați muzeul de artă și biserica în mașina încălzită. La prânz, conduceți spre spectaculoasa cascadă Huldefossen și spre Muzeul Sunnfjord. Punctul de belvedere Hafstadfjellet oferă o panoramă impresionantă pe cerul senin de iarnă.",
+            "en": "A winter drive through Førde offers comfort and safety. Visit the art museum and the church in your warm vehicle. At noon, head to the spectacular Huldefossen waterfall and Sunnfjord Museum, crossing the snowy landscape with ease. Hafstadfjellet viewpoint provides an impressive panorama under clear winter skies before your evening meal."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Førde Center",
+              "tip_5lang": {
+                "de": "Parkhäuser sind im Winter oft eisfrei und angenehmer zu nutzen.",
+                "hu": "A parkolóházak télen gyakran jégmentesek és kényelmesebbek.",
+                "ro": "Parcările etajate sunt adesea fără gheață și mai plăcute iarna.",
+                "en": "Parking garages are often ice-free and more comfortable in winter."
+              }
+            },
+            {
+              "name": "Sogn og Fjordane Art Museum",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz minimieren die Zeit in der Kälte.",
+                "hu": "A parkolótól vezető rövid utak minimalizálják a hidegben töltött időt.",
+                "ro": "Distanțele scurte de la parcare minimizează timpul petrecut în frig.",
+                "en": "Short walks from the parking lot minimize your time in the cold."
+              }
+            },
+            {
+              "name": "Førde Church",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird in der Regel gut geräumt und gestreut.",
+                "hu": "A parkolót általában jól takarítják és sózzák.",
+                "ro": "Parcarea este de regulă bine curățată și presărată cu material antiderapant.",
+                "en": "The parking area is usually well-cleared of snow and salted."
+              }
+            },
+            {
+              "name": "Cluster 2: Huldefossen & Sunnfjord",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Zufahrtswege zu den Natursehenswürdigkeiten.",
+                "hu": "Ügyeljen a jeges bekötőutakra a természeti látnivalóknál.",
+                "ro": "Atenție la drumurile de acces înghețate spre obiectivele naturale.",
+                "en": "Be cautious of icy access roads leading to natural landmarks."
+              }
+            },
+            {
+              "name": "Sunnfjord Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul să meargă inutil în timp ce staționați.",
+                "en": "Avoid letting the engine idle unnecessarily while parked."
+              }
+            },
+            {
+              "name": "Cluster 3: Hafstadfjellet/Piksvarden Viewpoint",
+              "tip_5lang": {
+                "de": "Die Straße zum Aussichtspunkt kann bei extremem Schneefall gesperrt sein.",
+                "hu": "A kilátóhoz vezető út heves havazás esetén lezárható.",
+                "ro": "Drumul spre punctul de belvedere poate fi închis în caz de ninsori abundente.",
+                "en": "The road to the viewpoint may be closed during extreme snowfall."
+              }
+            },
+            {
+              "name": "Dinner in Førde",
+              "tip_5lang": {
+                "de": "Vorbeheizte Autos machen den Abschluss des Abends besonders angenehm.",
+                "hu": "Az előre felfűtött autó különösen kellemessé teszi az este végét.",
+                "ro": "Mașinile preîncălzite fac finalul serii deosebit de plăcut.",
+                "en": "Pre-heating your car makes the end of your evening extra comfortable."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen mit Spikes oder gutem Profil sind gesetzlich vorgeschrieben.",
+              "Führen Sie immer einen Eiskratzer und einen Schneebesen mit sich.",
+              "Achten Sie auf plötzliche Glätte in schattigen Waldstücken.",
+              "Halten Sie den Tank für Notfälle mindestens halb voll."
+            ],
+            "hu": [
+              "A szöges vagy mély profilú téli gumi törvényi előírás.",
+              "Mindig tartson jégkaparót és hóseprűt az autóban.",
+              "Ügyeljen a hirtelen jegesedésre az árnyékos erdei útszakaszokon.",
+              "Vészhelyzet esetére tartsa az üzemanyagtartályt legalább félig."
+            ],
+            "ro": [
+              "Anvelopele de iarnă cu ținte sau profil bun sunt obligatorii prin lege.",
+              "Aveți întotdeauna în mașină o racletă și o perie pentru zăpadă.",
+              "Atenție la polei în porțiunile de drum umbrite din pădure.",
+              "Mențineți rezervorul cel puțin pe jumătate plin pentru urgențe."
+            ],
+            "en": [
+              "Studded tires or high-quality winter tires are legally required.",
+              "Always carry an ice scraper and a snow brush in your car.",
+              "Watch for sudden black ice in shaded or forested road sections.",
+              "Keep your fuel tank at least half full for emergency situations."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1110,6 +1692,188 @@
           "Download the local public transport app.",
           "Buses might be less frequent in rural areas, so plan ahead."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das effiziente Bussystem von Førde, um bei Regen trocken zu bleiben. Starten Sie im Førdehuset und nehmen Sie den Bus zum Kunstmuseum. Die Route führt Sie zur Kirche und mittags zum Sunnfjord Museum. Ein warmer Lunch auf dem Museumsgelände stärkt Sie, bevor Sie mit dem Bus zum Huldefossen Wasserfall fahren, der bei Regen besonders kraftvoll wirkt.",
+            "hu": "Használja Førde hatékony buszhálózatát, hogy esőben is száraz maradjon. Kezdjen a Førdehusetben, majd busszal menjen a művészeti múzeumba. Az útvonal érinti a templomot, délben pedig a Sunnfjord Múzeumot. Egy meleg ebéd után a múzeum területén buszozzon el a Huldefossen-vízeséshez, amely esőben különösen lenyűgöző látvány.",
+            "ro": "Folosiți sistemul eficient de autobuze din Førde pentru a rămâne uscat pe ploaie. Începeți la Førdehuset și luați autobuzul spre muzeul de artă. Traseul vă duce la biserică și, la prânz, la Muzeul Sunnfjord. Un prânz cald vă va prinde bine înainte de a lua autobuzul spre cascada Huldefossen.",
+            "en": "Use Førde's efficient bus system to stay dry during your visit. Start at Førdehuset and take the bus to the art museum. The route continues to the church and the Sunnfjord Museum by noon. Enjoy a warm lunch at the museum before taking the bus to Huldefossen waterfall, which is exceptionally powerful in the rain."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Førde Center on Foot",
+              "tip_5lang": {
+                "de": "Überdachte Bushaltestellen bieten Schutz während der Wartezeit.",
+                "hu": "A fedett buszmegállók menedéket nyújtanak várakozás közben.",
+                "ro": "Stațiile de autobuz acoperite oferă adăpost în timp ce așteptați.",
+                "en": "Covered bus stops provide shelter while you wait for your connection."
+              }
+            },
+            {
+              "name": "Sogn og Fjordane Art Museum",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle 'Førde rutebilstasjon' ist ein zentraler Knotenpunkt im Trockenen.",
+                "hu": "A 'Førde rutebilstasjon' buszmegálló központi csomópont száraz helyen.",
+                "ro": "Stația 'Førde rutebilstasjon' este un nod central ferit de ploaie.",
+                "en": "The 'Førde rutebilstasjon' bus station is a central indoor transit hub."
+              }
+            },
+            {
+              "name": "Førde Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Echtzeit-App, um Wartezeiten im Regen zu minimieren.",
+                "hu": "Használja a valós idejű appot, hogy minimalizálja az esőben várakozást.",
+                "ro": "Folosiți aplicația în timp real pentru a minimiza așteptarea în ploaie.",
+                "en": "Use the real-time app to minimize your waiting time in the rain."
+              }
+            },
+            {
+              "name": "Cluster 2: Bus to Sunnfjord Museum",
+              "tip_5lang": {
+                "de": "Der Bus hält nur wenige Gehminuten vom Museumseingang entfernt.",
+                "hu": "A busz csak pár perc sétára áll meg a múzeum bejáratától.",
+                "ro": "Autobuzul oprește la doar câteva minute de mers de intrarea în muzeu.",
+                "en": "The bus stops just a few minutes' walk from the museum entrance."
+              }
+            },
+            {
+              "name": "Lunch at the museum grounds",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Café auf, während Sie auf den nächsten Bus warten.",
+                "hu": "Melegedjen fel a kávézóban, amíg a következő buszra vár.",
+                "ro": "Încălziți-vă în cafenea în timp ce așteptați următorul autobuz.",
+                "en": "Warm up in the cafe while waiting for your next bus connection."
+              }
+            },
+            {
+              "name": "Cluster 3: Bus to Huldefossen",
+              "tip_5lang": {
+                "de": "Die Fahrt bietet trockene Ausblicke auf die verregnete Landschaft.",
+                "hu": "Az utazás alatt szárazon csodálhatja meg az esős tájat.",
+                "ro": "Călătoria oferă vederi spre peisajul ploios dintr-un mediu uscat.",
+                "en": "The ride offers dry views of the rainy landscape along the route."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Entur' App für aktuelle Fahrpläne und Tickets.",
+              "Busse in Førde sind pünktlich; kommen Sie 2-3 Minuten früher an.",
+              "Halten Sie Ihre Fahrkarte griffbereit, um Verzögerungen zu vermeiden.",
+              "Ein kleiner Reiseschirm passt bequem in jede Tasche für die kurzen Wege."
+            ],
+            "hu": [
+              "Használja az 'Entur' alkalmazást a menetrendekhez és jegyekhez.",
+              "A buszok Førdében pontosak; érkezzen 2-3 perccel korábban.",
+              "Tartsa készenlétben a jegyét a késedelmek elkerülése érdekében.",
+              "Egy kis összecsukható esernyő kényelmesen elfér a táskájában."
+            ],
+            "ro": [
+              "Utilizați aplicația 'Entur' pentru orare actualizate și bilete.",
+              "Autobuzele din Førde sunt punctuale; sosiți cu 2-3 minute mai devreme.",
+              "Aveți biletul la îndemână pentru a evita întârzierile la urcare.",
+              "O umbrelă mică de călătorie este utilă pentru distanțele scurte."
+            ],
+            "en": [
+              "Use the 'Entur' app for up-to-date schedules and mobile tickets.",
+              "Buses in Førde are punctual; arrive 2-3 minutes before the schedule.",
+              "Keep your ticket ready to ensure a smooth boarding process.",
+              "A small travel umbrella fits easily in your bag for short walking links."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der öffentliche Nahverkehr ist im Winter die sicherste Art, Førde zu erkunden. Starten Sie im warmen Førdehuset und fahren Sie mit dem Bus zum Kunstmuseum. Besuchen Sie die Kirche und nutzen Sie die beheizten Busse zum Sunnfjord Museum. Nach einem stärkenden Mittagessen bringt Sie der Bus zum Huldefossen Wasserfall, um die winterliche Pracht zu bewundern, bevor Sie bequem zum Zentrum zurückkehren.",
+            "hu": "Télen a tömegközlekedés a legbiztonságosabb módja Førde felfedezésének. Kezdjen a fűtött Førdehusetben, majd menjen busszal a művészeti múzeumba. Látogassa meg a templomot, majd használja a meleg buszokat a Sunnfjord Múzeum eléréséhez. Egy tápláló ebéd után a busz a Huldefossen-vízeséshez viszi, ahol megcsodálhatja a téli pompát.",
+            "ro": "Transportul public este cea mai sigură cale de a explora Førde iarna. Începeți în centrul Førdehuset și luați autobuzul spre muzeul de artă. Vizitați biserica și folosiți autobuzele încălzite pentru a ajunge la Muzeul Sunnfjord. După un prânz consistent, autobuzul vă duce la cascada Huldefossen.",
+            "en": "Public transit is the safest way to explore Førde during winter. Start at the warm Førdehuset and take the bus to the art museum. Visit the church and rely on heated buses to reach Sunnfjord Museum. After a hearty lunch, the bus will take you to Huldefossen waterfall to admire the winter scenery before returning comfortably to the center."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Førde Center on Foot",
+              "tip_5lang": {
+                "de": "Warten Sie im Førdehuset, wenn der Bus noch nicht da ist.",
+                "hu": "Várjon a Førdehusetben, ha a busz még nem érkezett meg.",
+                "ro": "Așteptați în Førdehuset dacă autobuzul nu a sosit încă.",
+                "en": "Wait inside Førdehuset if your bus is not due for a few minutes."
+              }
+            },
+            {
+              "name": "Sogn og Fjordane Art Museum",
+              "tip_5lang": {
+                "de": "Die Busstation bietet im Winter einen windgeschützten Wartebereich.",
+                "hu": "A buszpályaudvar télen szélvédett várótermet kínál.",
+                "ro": "Autogara oferă o zonă de așteptare protejată de vânt pe timpul iernii.",
+                "en": "The bus station provides a wind-protected waiting area in winter."
+              }
+            },
+            {
+              "name": "Førde Church",
+              "tip_5lang": {
+                "de": "Achten Sie beim Ein- und Aussteigen auf vereiste Bordsteine.",
+                "hu": "Fel- és leszálláskor ügyeljen a jeges padkákra.",
+                "ro": "Atenție la bordurile înghețate când urcați sau coborâți din autobuz.",
+                "en": "Watch out for icy curbs when boarding or exiting the bus."
+              }
+            },
+            {
+              "name": "Cluster 2: Bus to Sunnfjord Museum",
+              "tip_5lang": {
+                "de": "Busse sind gut beheizt; ideal zum Aufwärmen zwischen den Stopps.",
+                "hu": "A buszok jól fűtöttek; ideálisak a bemelegedésre a megállók között.",
+                "ro": "Autobuzele sunt bine încălzite, fiind ideale pentru a vă dezmorți.",
+                "en": "Buses are well-heated, making them perfect for warming up between stops."
+              }
+            },
+            {
+              "name": "Lunch at the museum grounds",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winterfahrpläne, da sie leicht variieren können.",
+                "hu": "Ellenőrizze a téli menetrendet, mert kissé eltérhet.",
+                "ro": "Verificați orarul de iarnă, deoarece poate varia ușor.",
+                "en": "Check the winter schedules as they may vary slightly from summer."
+              }
+            },
+            {
+              "name": "Cluster 3: Bus to Huldefossen",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Fahrt durch die verschneite Fjordlandschaft.",
+                "hu": "Élvezze a hangulatos utazást a havas fjordvidéken át.",
+                "ro": "Bucurați-vă de călătoria plăcută prin peisajul înzăpezit al fiordului.",
+                "en": "Enjoy the cozy ride through the snow-covered fjord landscape."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Kleidung, da Wartezeiten im Freien vorkommen können.",
+              "Reflektoren an der Kleidung sind wichtig, um im Dunkeln gesehen zu werden.",
+              "Die Busse verfügen über WLAN, ideal zum Planen der nächsten Schritte.",
+              "Bei extremem Wetter können kleine Verspätungen im Busverkehr auftreten."
+            ],
+            "hu": [
+              "Viseljen meleg ruhát, mert előfordulhat kültéri várakozás.",
+              "A fényvisszaverők fontosak, hogy sötétben is látható maradjon.",
+              "A buszokon van Wi-Fi, így tervezheti a következő lépéseket.",
+              "Extrém időjárás esetén kisebb késések előfordulhatnak a buszközlekedésben."
+            ],
+            "ro": [
+              "Purtați haine călduroase, deoarece pot exista timpi de așteptare afară.",
+              "Elementele reflectorizante sunt importante pentru a fi văzut în întuneric.",
+              "Autobuzele au Wi-Fi, ideal pentru a planifica următoarele vizite.",
+              "În caz de vreme extremă, pot apărea mici întârzieri ale autobuzelor."
+            ],
+            "en": [
+              "Dress in warm layers as you may have to wait outdoors briefly.",
+              "Wear reflectors to ensure you are visible to drivers in the dark.",
+              "Buses are equipped with Wi-Fi, perfect for planning your next stop.",
+              "Small delays may occur in bus transit during extreme winter weather."
+            ]
+          }
+        }
       }
     }
   }

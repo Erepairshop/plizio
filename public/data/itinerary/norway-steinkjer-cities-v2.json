@@ -329,6 +329,170 @@
           "The weather can change quickly, so bring a rain jacket.",
           "Check the opening hours of the museums in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Steinkjer beginnt in der modernen Betonkirche, die Schutz bietet. Mittags lockt das Dampsaga Kulturhaus mit Bibliothek und Café im Trockenen. Nachmittags geht es zum Egge Museum, wo Sie zwischen historischen Gebäuden unter dem Regenschirm wandeln. Den Abschluss bildet der Oftenåsen, dessen Pfade bei Regen mystisch wirken, solange die Sicht auf den Fjord bleibt.",
+            "hu": "Az esős napot a modern, betonépítésű Steinkjer templomban indítjuk, ahol a szíves üvegablakok fénye vidít fel. Délben a Dampsaga Kulturház nyújt menedéket könyvtárral és mozival. Délután az Egge Múzeum szabadtéri házai között sétálunk esernyővel, majd az Oftenåsen következik, ahol az esőben úszó fjord látványa különleges hangulatot áraszt a hatalmas szék mellől.",
+            "ro": "O zi ploioasă în Steinkjer începe în interiorul bisericii moderne de beton. La prânz, Centrul Cultural Dampsaga oferă refugiul perfect cu bibliotecă și cafenea. După-amiaza explorăm Muzeul Egge sub umbrelă, admirând clădirile istorice. Seara, urcarea pe Oftenåsen oferă o perspectivă mistică asupra fjordului învăluit în ceață, un peisaj tipic norvegian.",
+            "en": "A rainy day in Steinkjer starts inside the modernist concrete church. At noon, the Dampsaga Culture House provides a dry haven with its library and cozy cafe. Afternoon is spent at Egge Museum, exploring Viking history under an umbrella. The day ends with a brisk walk up Oftenåsen, where the rain-slicked paths lead to a misty but rewarding view of the fjord."
+          },
+          "stops": [
+            {
+              "name": "Steinkjer Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Glasmalereien von Jakob Weidemann im trockenen Innenraum.",
+                "hu": "Csodálja meg Jakob Weidemann üvegfestményeit a száraz belső térben.",
+                "ro": "Admirați vitraliile lui Jakob Weidemann în interiorul uscat și liniștit.",
+                "en": "Admire the Jakob Weidemann stained glass in the dry interior."
+              }
+            },
+            {
+              "name": "Dampsaga Culture House",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine längere Pause mit Bibliothek und gutem Café.",
+                "hu": "Tökéletes hely egy hosszabb pihenőre a könyvtárban vagy a kávézóban.",
+                "ro": "Locul perfect pentru o pauză prelungită în bibliotecă sau la cafenea.",
+                "en": "Perfect place for an extended break with a library and great cafe."
+              }
+            },
+            {
+              "name": "Steinkjer Marina",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos vom grauen, atmosphärischen Fjord.",
+                "hu": "Rövid megálló a szürke, de hangulatos fjord fotózásához.",
+                "ro": "O oprire scurtă pentru fotografii cu fiordul gri și atmosferic.",
+                "en": "Short stop for photos of the grey, atmospheric fjord."
+              }
+            },
+            {
+              "name": "Egge Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenbereiche der Ausstellungen bei starken Schauern.",
+                "hu": "Hevesebb zápor esetén húzódjon be a belső kiállítások épületeibe.",
+                "ro": "Folosiți spațiile interioare ale expozițiilor în timpul ploilor torențiale.",
+                "en": "Use the indoor exhibition areas during heavy showers."
+              }
+            },
+            {
+              "name": "Oftenåsen",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Steinen; der Riesenstuhl bietet kaum Regenschutz.",
+                "hu": "Vigyázat a vizes köveken; az óriásszék nem ad védelmet az eső ellen.",
+                "ro": "Atenție pe pietrele ude; scaunul uriaș nu oferă adăpost împotriva ploii.",
+                "en": "Careful on wet rocks; the giant chair offers no rain shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Wege am Egge Museum schlammig sein können.",
+              "Dampsaga ist das beste Schlechtwetter-Backup im Zentrum.",
+              "Winde vom Fjord können Regenschirme unbrauchbar machen; Regenjacken sind besser.",
+              "Die Kirche ist meist bis 15 Uhr für Besucher geöffnet."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, az Egge Múzeum ösvényei sárosak lehetnek.",
+              "A Dampsaga a legjobb esőhelyszín a városközpontban.",
+              "A fjord felőli szél tönkreteheti az esernyőt, a jó esőkabát praktikusabb.",
+              "A templom általában délután 3-ig látogatható."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, potecile de la Muzeul Egge pot fi noroioase.",
+              "Dampsaga este cea mai bună alternativă pentru vreme rea în centru.",
+              "Vântul dinspre fiord poate distruge umbrelele; jachetele de ploaie sunt preferabile.",
+              "Biserica este de obicei deschisă vizitatorilor până la ora 15:00."
+            ],
+            "en": [
+              "Wear waterproof shoes as paths at Egge Museum can get muddy.",
+              "Dampsaga is the best bad-weather backup in the town center.",
+              "Fjord winds can flip umbrellas; a high-quality raincoat is more practical.",
+              "The church is usually open to visitors until 3 PM."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Steinkjer im Winter ist ein blaues Wunder. Der Tag beginnt kühl an der Kirche, bevor man sich im Dampsaga aufwärmt. Mittags liegt der Fjord oft unter einer Eisschicht an der Marina. Nachmittags im Egge Museum knirscht der Schnee unter den Stiefeln zwischen den alten Höfen. Das Highlight ist Oftenåsen: der Aufstieg zum Riesenstuhl ist im Schnee anstrengend, aber die Aussicht auf die Stadtlichter im frühen Dunkeln ist magisch.",
+            "hu": "A téli Steinkjer kék órái lenyűgözőek. A templom hűvös látogatása után a Dampsagában melegedünk fel. Délben a marina jeges partján sétálunk, majd az Egge Múzeum behavazott udvarait fedezzük fel. A nap fénypontja az Oftenåsen: a hóban nehezebb az út az óriásszékhez, de a korai sötétedésben felgyúló városi fények látványa kárpótol mindenért.",
+            "ro": "Steinkjer iarna este o experiență magică în nuanțe albastre. Ziua începe la biserică, urmată de o pauză de încălzire la Dampsaga. La prânz, fiordul înghețat de la marină oferă peisaje superbe. După-amiaza la Muzeul Egge, zăpada scârțâie sub cizme printre casele vechi. Finalul pe Oftenåsen este spectaculos: luminile orașului se văd superb în întunericul care coboară devreme.",
+            "en": "Steinkjer in winter is a blue-toned wonderland. Start with a brisk visit to the church, then warm up at Dampsaga. At noon, the marina often shows ice along the fjord's edge. Afternoon at Egge Museum features snow-covered historical farms and Viking mounds. The highlight is Oftenåsen: the snowy climb to the giant chair is challenging, but the view of city lights in the early twilight is magical."
+          },
+          "stops": [
+            {
+              "name": "Steinkjer Church",
+              "tip_5lang": {
+                "de": "Der helle Innenraum ist ein warmer Kontrast zum Wintergrau draußen.",
+                "hu": "A világos belső tér meleg kontrasztot ad a kinti téli szürkeségnek.",
+                "ro": "Interiorul luminos oferă un contrast cald cu griul iernii de afară.",
+                "en": "The bright interior offers a warm contrast to the winter grey outside."
+              }
+            },
+            {
+              "name": "Dampsaga Culture House",
+              "tip_5lang": {
+                "de": "Holen Sie sich hier einen heißen Kakao zum Aufwärmen.",
+                "hu": "Igyon egy forró kakaót a kávézóban a felmelegedéshez.",
+                "ro": "Savurați o ciocolată caldă pentru a vă încălzi aici.",
+                "en": "Grab a hot cocoa here to warm up during your walk."
+              }
+            },
+            {
+              "name": "Steinkjer Marina",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen an der Kaimauer.",
+                "hu": "Vigyázzon a csúszós jegesedésre a partmenti köveken.",
+                "ro": "Atenție la porțiunile înghețate de lângă marginea apei.",
+                "en": "Beware of icy patches near the edge of the quay."
+              }
+            },
+            {
+              "name": "Egge Museum",
+              "tip_5lang": {
+                "de": "Die verschneiten Wikingergräber sind besonders fotogen.",
+                "hu": "A behavazott viking sírhalmok különösen látványosak télen.",
+                "ro": "Tumulii vikingi acoperiți de zăpadă sunt extrem de fotogenici.",
+                "en": "The snow-covered Viking mounds are especially photogenic."
+              }
+            },
+            {
+              "name": "Oftenåsen",
+              "tip_5lang": {
+                "de": "Spikes für die Schuhe sind für den Aufstieg im Winter unerlässlich.",
+                "hu": "A cipőre csatolható jégkarom elengedhetetlen a téli feljutáshoz.",
+                "ro": "Crampoanele pentru pantofi sunt esențiale pentru urcarea pe timp de iarnă.",
+                "en": "Crampons or ice spikes for your shoes are essential for the climb."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 14:30 Uhr unter.",
+              "Tragen Sie Reflektoren, da es in Norwegen im Winter sehr dunkel ist.",
+              "Die Wege zum Oftenåsen können vereist sein, Wanderstöcke helfen.",
+              "Schichten aus Wolle sind bei den Temperaturen in Trøndelag Pflicht."
+            ],
+            "hu": [
+              "Decemberben a nap már 14:30 körül lenyugszik.",
+              "Viseljen fényvisszaverőt, mert Norvégiában nagyon sötét van télen.",
+              "Az Oftenåsen ösvényei jegesek lehetnek, a túrabot sokat segít.",
+              "A gyapjú réteges öltözködés kötelező a trøndelagi hidegben."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 14:30 în luna decembrie.",
+              "Purtați elemente reflectorizante, deoarece iarna este foarte întuneric.",
+              "Potecile spre Oftenåsen pot fi înghețate; bețele de trekking sunt utile.",
+              "Îmbrăcămintea stratificată din lână este obligatorie în climatul din Trøndelag."
+            ],
+            "en": [
+              "The sun sets as early as 2:30 PM in December.",
+              "Wear reflectors, as winter afternoons in Norway are very dark.",
+              "Trails to Oftenåsen can be icy; trekking poles are recommended.",
+              "Woolen layers are essential for the Trøndelag winter temperatures."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -652,6 +816,170 @@
           "Some sections can be hilly, be prepared.",
           "A power bank for your phone for navigation is useful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour durch Steinkjer erfordert gute Kleidung, bietet aber freie Wege. Von der Marina geht es zur Kirche, um kurz abzutrocknen. Mittags führt die Route zum Egge Museum und weiter nach Bolareinen, wo die Felsritzungen im Regen oft deutlicher hervortreten. Der steile Weg zum Oftenåsen ist bei Nässe eine sportliche Herausforderung, aber der Blick auf den dampfenden Fjord lohnt die Mühe.",
+            "hu": "Az esős bringázás Steinkjerben jó felszerelést igényel, de csendes utakat ígér. A marinától a templom felé vesszük az irányt egy kis száraz szünetre. Délben az Egge Múzeum és Bolareinen következik; a sziklarajzok vizesen néha még jobban is látszanak. Az Oftenåsen kaptatója esőben komoly sportteljesítmény, de a párás fjord látványa megéri a küzdelmet.",
+            "ro": "O tură cu bicicleta prin ploaie în Steinkjer necesită echipament bun, dar oferă trasee libere. De la marină mergem spre biserică pentru un moment de răgaz. La prânz continuăm spre Muzeul Egge și Bolareinen, unde desenele în piatră devin mai vizibile când sunt ude. Urcarea pe Oftenåsen este solicitantă pe ploaie, dar vederea fiordului merită efortul.",
+            "en": "A rainy cycle through Steinkjer requires gear but offers empty paths. Ride from the marina to the church for a quick dry break. At noon, continue to Egge Museum and Bolareinen, where the rock carvings often pop more when wet. The steep climb to Oftenåsen is a challenge in the rain, but the view of the steaming fjord from the world's largest chair is worth the soak."
+          },
+          "stops": [
+            {
+              "name": "Steinkjer Marina",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Holzstege am Hafen.",
+                "hu": "Vigyázzon a csúszós fapadlókra a kikötőben.",
+                "ro": "Atenție la podețele din lemn alunecoase din port.",
+                "en": "Watch out for slippery wooden piers at the harbor."
+              }
+            },
+            {
+              "name": "Steinkjer Church",
+              "tip_5lang": {
+                "de": "Guter Ort, um die Regenkleidung kurz zu lüften.",
+                "hu": "Jó hely az esőruházat rövid szárítására és pihenésre.",
+                "ro": "Un loc bun pentru a vă scutura hainele de ploaie.",
+                "en": "Good spot to briefly air out your rain gear."
+              }
+            },
+            {
+              "name": "Egge Museum",
+              "tip_5lang": {
+                "de": "Die Wege zwischen den Gebäuden können schlammig sein.",
+                "hu": "Az épületek közötti utak sárosak lehetnek bringával.",
+                "ro": "Drumurile dintre clădiri pot fi noroioase pe bicicletă.",
+                "en": "The paths between historical buildings can be muddy."
+              }
+            },
+            {
+              "name": "Bolareinen",
+              "tip_5lang": {
+                "de": "Regen bringt die Konturen der Rentier-Felsritzungen besser zur Geltung.",
+                "hu": "Az eső kiemeli a rénszarvas-sziklarajzok körvonalait.",
+                "ro": "Ploaia scoate în evidență conturul desenelor cu reni.",
+                "en": "Rain helps define the contours of the reindeer rock carvings."
+              }
+            },
+            {
+              "name": "Oftenåsen",
+              "tip_5lang": {
+                "de": "Nutzen Sie die niedrigsten Gänge für den nassen Anstieg.",
+                "hu": "Használja a legkisebb fokozatot a vizes emelkedőn.",
+                "ro": "Folosiți cele mai mici viteze pentru urcarea pe carosabil ud.",
+                "en": "Use your lowest gears for the wet and steep ascent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter in Norwegen unerlässlich.",
+              "Bremsen Sie auf nassen Straßen frühzeitig, besonders bergab.",
+              "Bolareinen liegt etwas außerhalb, planen Sie Zeit für nasse Rückfahrt ein.",
+              "Ein wasserdichter Sattelbezug hält Ihre Hose beim Stopp trocken."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyenkor a norvég utakon.",
+              "Fékezzen korábban a vizes úton, különösen lejtmenetben.",
+              "Bolareinen kicsit kiesik, számoljon az esős visszautazási idővel.",
+              "A vízálló nyereghuzat szárazon tartja a nadrágját megálláskor."
+            ],
+            "ro": [
+              "Aripile pentru bicicletă sunt obligatorii pe această vreme.",
+              "Frânați din timp pe carosabil ud, mai ales la coborâre.",
+              "Bolareinen este la distanță, alocați timp pentru drumul de întoarcere pe ploaie.",
+              "O husă de șa impermeabilă vă va menține pantalonii uscați la opriri."
+            ],
+            "en": [
+              "Mudguards are absolutely essential in these conditions.",
+              "Brake early on wet roads, especially when descending from Oftenåsen.",
+              "Bolareinen is a bit out of town; factor in time for a slower return in rain.",
+              "A waterproof saddle cover will keep your pants dry during stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Steinkjer ist nur mit Spikereifen ratsam. Von der Marina gleiten Sie vorsichtig zur Kirche. Der Weg zum Egge Museum führt durch eine verschneite Parklandschaft. Weiter östlich in Bolareinen wirken die uralten Ritzungen im Schnee wie aus einer anderen Zeit. Den Abschluss bildet der oft vereiste Weg zum Oftenåsen, wo Sie mit einem Panoramablick über das winterliche Nord-Trøndelag belohnt werden.",
+            "hu": "A téli bringázás Steinkjerben csak szöges gumival ajánlott. A marinától óvatosan gurulunk a templomig. Az Egge Múzeum felé vezető út behavazott parkokon át vezet. Keletre, Bolareinen sziklarajzai a hóesésben egészen ősi hangulatot árasztanak. A napot az Oftenåsen jeges kaptatója zárja, ahonnan belátni az egész téli Nord-Trøndelag régiót.",
+            "ro": "Ciclismul de iarnă în Steinkjer se face doar cu anvelope cu ținte. De la marină rulați cu grijă spre biserică. Drumul spre Muzeul Egge trece prin parcuri înzăpezite. La Bolareinen, desenele străvechi par din altă lume sub stratul de zăpadă. Finalul este urcarea pe Oftenåsen, unde veți avea o panoramă superbă asupra regiunii Nord-Trøndelag înghețate.",
+            "en": "Winter cycling in Steinkjer is an adventure strictly for studded tires. Glide carefully from the marina to the church. The path to Egge Museum takes you through snowy parklands. Further east at Bolareinen, the ancient carvings look timeless against the white snow. End your ride with the icy challenge of Oftenåsen, rewarding you with a panoramic view of wintry North Trøndelag."
+          },
+          "stops": [
+            {
+              "name": "Steinkjer Marina",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorener Gischt auf den Wegen.",
+                "hu": "Vigyázzon a megfagyott sós pára miatti csúszós utakra.",
+                "ro": "Atenție la gheața formată din vaporii de apă de lângă fiord.",
+                "en": "Watch for black ice formed by frozen sea spray near the quay."
+              }
+            },
+            {
+              "name": "Steinkjer Church",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher, bevor Sie hineingehen.",
+                "hu": "Parkolja le biztonságosan a bringát, mielőtt bemenne melegedni.",
+                "ro": "Parcați bicicleta în siguranță înainte de a intra să vă încălziți.",
+                "en": "Park your bike securely before heading inside for warmth."
+              }
+            },
+            {
+              "name": "Egge Museum",
+              "tip_5lang": {
+                "de": "Die Hauptwege sind meist geräumt, Nebenpfade tief verschneit.",
+                "hu": "A főutak általában le vannak takarítva, a mellékutak havasak.",
+                "ro": "Drumurile principale sunt deszăpezite, cele secundare pot fi grele.",
+                "en": "Main paths are usually cleared; side trails may have deep snow."
+              }
+            },
+            {
+              "name": "Bolareinen",
+              "tip_5lang": {
+                "de": "Der Radweg entlang der Snåsavatnet kann sehr windig und kalt sein.",
+                "hu": "A Snåsavatnet menti bringaút nagyon szeles és hideg lehet.",
+                "ro": "Pista de biciclete de lângă Snåsavatnet poate fi foarte rece.",
+                "en": "The bike path along Snåsavatnet can be very windy and cold."
+              }
+            },
+            {
+              "name": "Oftenåsen",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt auf dem gefrorenen Untergrund.",
+                "hu": "Ellenőrizze a fékeket a jeges úton való leereszkedés előtt.",
+                "ro": "Verificați frânele înainte de coborârea pe carosabil înghețat.",
+                "en": "Check your brakes before the descent on frozen ground."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen (Piggdekk) sind ein Muss für die Sicherheit.",
+              "Akkus von E-Bikes entladen sich bei Kälte deutlich schneller.",
+              "Tragen Sie eine winddichte Maske gegen den beißenden Fahrtwind.",
+              "Die Dämmerung setzt sehr früh ein, prüfen Sie Ihre Beleuchtung."
+            ],
+            "hu": [
+              "A szöges gumi (Piggdekk) kötelező a biztonság érdekében.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül a hidegben.",
+              "Viseljen szélálló maszkot a metsző téli szél ellen.",
+              "A szürkület korán jön, ellenőrizze a lámpákat indulás előtt."
+            ],
+            "ro": [
+              "Anvelopele cu ținte sunt obligatorii pentru siguranță.",
+              "Bateriile bicicletelor electrice se descarcă mult mai repede la frig.",
+              "Purtați o mască rezistentă la vânt împotriva aerului tăios.",
+              "Amurgul vine foarte devreme, verificați funcționarea luminilor."
+            ],
+            "en": [
+              "Studded tires (Piggdekk) are a must for safety on these roads.",
+              "E-bike batteries drain significantly faster in sub-zero temperatures.",
+              "Wear a windproof face mask against the biting winter air while riding.",
+              "Twilight starts early; ensure your bike lights are fully charged."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1027,6 +1355,206 @@
           "Refuel outside the city where fuel may be cheaper.",
           "Use a navigation app to find the remote historical sites."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Steinkjer auch bei starkem Regen entspannt erkunden. Der Tag beginnt an der geschichtsträchtigen Mære Kirche. Danach geht es zu den Bardal Felsritzungen, die im Regen mystisch wirken. Nach einem Mittagessen im trockenen Stadtzentrum besuchen Sie die moderne Kirche und das Kulturhaus Dampsaga. Den Tag beschließt die Fahrt zum Oftenåsen-Parkplatz mit kurzem Gang zur Aussicht.",
+            "hu": "Autóval az esős nap is kényelmes Steinkjer környékén. Kezdjen a történelmi Mære templomnál, majd nézze meg a bardali sziklarajzokat, amik vizesen még látványosabbak. A városközponti ebéd után fedezze fel a modern templomot és a Dampsaga Kulturházat. A napot az Oftenåsen parkolójából induló rövid, frissítő séta zárja a kilátóhoz.",
+            "ro": "Cu mașina, explorarea orașului Steinkjer pe ploaie este relaxantă. Începeți la biserica istorică Mære, apoi vizitați desenele în piatră de la Bardal. După un prânz cald în centru, vizitați biserica modernă și centrul Dampsaga. Ziua se încheie cu o scurtă plimbare de la parcarea Oftenåsen până la punctul de belvedere.",
+            "en": "Exploring Steinkjer by car is the best way to stay dry during a heavy downpour. Start at the historic Mære Church, then drive to the Bardal rock carvings. After a comfortable lunch in the town center, visit the modernist church and Dampsaga Culture House. End the day with a drive to the Oftenåsen parking lot and a short, brisk walk to the viewpoint."
+          },
+          "stops": [
+            {
+              "name": "Mære Church",
+              "tip_5lang": {
+                "de": "Kostenloses Parken direkt an der alten Steinkirche.",
+                "hu": "Ingyenes parkolás közvetlenül a régi kőtemplom mellett.",
+                "ro": "Parcare gratuită chiar lângă biserica veche de piatră.",
+                "en": "Free parking available directly by the old stone church."
+              }
+            },
+            {
+              "name": "Bardal Rock Carvings",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz; bei Regen können die Pfade rutschig sein.",
+                "hu": "Rövid séta a parkolótól; esőben az ösvény csúszós lehet.",
+                "ro": "Scurtă plimbare din parcare; potecile pot fi alunecoase pe ploaie.",
+                "en": "Short walk from the parking; paths can be slippery when wet."
+              }
+            },
+            {
+              "name": "Steinkjer Center Parking",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus am Einkaufszentrum für trockenen Ausstieg.",
+                "hu": "Használja a bevásárlóközpont parkolóházát a száraz kiszálláshoz.",
+                "ro": "Folosiți parcarea acoperită de la mall pentru a rămâne uscat.",
+                "en": "Use the shopping center's covered parking for a dry exit."
+              }
+            },
+            {
+              "name": "Lunch in Downtown",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit direktem Zugang vom Gehweg.",
+                "hu": "Válasszon olyan éttermet, amely közel van a parkolóhoz.",
+                "ro": "Alegeți un restaurant aproape de zona de parcare.",
+                "en": "Choose a restaurant close to the parking area to avoid the rain."
+              }
+            },
+            {
+              "name": "Steinkjer Church",
+              "tip_5lang": {
+                "de": "Parkplätze finden Sie oft direkt vor der Kirche an der Straße.",
+                "hu": "Parkolóhelyek gyakran közvetlenül a templom előtt, az utcán találhatók.",
+                "ro": "Locuri de parcare se găsesc adesea chiar în fața bisericii.",
+                "en": "Parking is often available directly on the street in front of the church."
+              }
+            },
+            {
+              "name": "Dampsaga Culture House",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt am Gebäude vorhanden.",
+                "hu": "Nagy parkoló áll rendelkezésre közvetlenül az épület mellett.",
+                "ro": "Parcare mare disponibilă chiar lângă clădire.",
+                "en": "Large parking lot available directly next to the building."
+              }
+            },
+            {
+              "name": "Oftenåsen",
+              "tip_5lang": {
+                "de": "Die Mautstraße spart Ihnen den nassen Aufstieg zu Fuß.",
+                "hu": "Az útdíjas út megkíméli Önt a vizes gyalogos kaptatótól.",
+                "ro": "Drumul cu taxă vă scutește de urcarea pe jos prin ploaie.",
+                "en": "The toll road saves you from a long, wet walk uphill."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der E6 bei starken Regenfällen.",
+              "Die Mautstraße zum Oftenåsen kann per App oder SMS bezahlt werden.",
+              "Regenschirm im Auto griffbereit halten für die kurzen Wege zum Ziel.",
+              "Bardal liegt an einer schmalen Straße, fahren Sie bei Regen vorsichtig."
+            ],
+            "hu": [
+              "Vigyázzon az aquaplaning jelenségre az E6-os úton heves esőben.",
+              "Az Oftenåsen útdíja applikáción vagy SMS-ben fizethető.",
+              "Tartsa az esernyőt kéznél az autóban a rövid sétákhoz.",
+              "Bardal felé keskeny az út, vezessen óvatosan az esőben."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe E6 în timpul ploilor torențiale.",
+              "Taxa pentru drumul spre Oftenåsen se plătește prin aplicație sau SMS.",
+              "Păstrați umbrela la îndemână pentru distanțele scurte până la obiective.",
+              "Drumul spre Bardal este îngust; conduceți cu prudență pe ploaie."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the E6 during heavy rain.",
+              "The toll road to Oftenåsen can be paid via app or SMS.",
+              "Keep your umbrella handy in the car for the short walks to sights.",
+              "The road to Bardal is narrow; drive carefully in poor visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt um Steinkjer bietet spektakuläre Ausblicke auf schneebedeckte Felder. Nach dem Besuch der Mære Kirche geht es zu den Bardal Ritzungen, die im Winterschlaf liegen. Das Stadtzentrum bietet gemütliche Lunch-Stopps und warme Kultur in der Kirche und im Dampsaga. Das Highlight ist die Fahrt auf den Oftenåsen: die verschneite Straße führt Sie direkt zum Panoramablick über das Lichtermeer der Stadt.",
+            "hu": "A téli autózás Steinkjer környékén látványos, havas tájakat ígér. A Mære templom után a bardali sziklarajzokhoz látogatunk, amik ilyenkor különleges hangulatot árasztanak. A belváros meleg ebéddel, a templom és a Dampsaga pedig kulturális élménnyel vár. A napot az Oftenåsenre való felhajtás zárja, ahonnan megcsodálhatjuk a kivilágított téli várost.",
+            "ro": "O călătorie cu mașina iarna în jurul orașului Steinkjer oferă peisaje superbe. După biserica Mære, vizităm desenele de la Bardal, încremenite în zăpadă. Centrul orașului oferă opriri calde pentru prânz și cultură la Dampsaga. Momentul culminant este drumul spre Oftenåsen: șoseaua înzăpezită vă duce direct spre panorama luminilor orașului.",
+            "en": "A winter drive around Steinkjer showcases spectacular views of snow-covered fields and fjords. Visit Mære Church before heading to the silent, snowy Bardal carvings. The town center provides cozy lunch spots and warm visits to the church and Dampsaga. The day ends with a drive up Oftenåsen: the snowy toll road leads you straight to a panoramic view of the city's twinkling winter lights."
+          },
+          "stops": [
+            {
+              "name": "Mære Church",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Neuschnee rutschig sein.",
+                "hu": "A parkoló friss hó esetén csúszós lehet.",
+                "ro": "Parcarea poate fi alunecoasă în caz de zăpadă proaspătă.",
+                "en": "The parking lot can be slippery after fresh snowfall."
+              }
+            },
+            {
+              "name": "Bardal Rock Carvings",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob der kurze Pfad zu den Ritzungen begehbar ist.",
+                "hu": "Ellenőrizze, hogy a sziklarajzokhoz vezető rövid ösvény járható-e.",
+                "ro": "Verificați dacă poteca scurtă spre desene este practicabilă.",
+                "en": "Check if the short path to the carvings is cleared of deep snow."
+              }
+            },
+            {
+              "name": "Steinkjer Center Parking",
+              "tip_5lang": {
+                "de": "Parkhäuser schützen das Auto vor dem Einfrieren während des Essens.",
+                "hu": "A parkolóház megvédi az autót a lefagyástól ebéd közben.",
+                "ro": "Parcările acoperite protejează mașina de îngheț în timpul prânzului.",
+                "en": "Covered parking protects your car from freezing while you eat."
+              }
+            },
+            {
+              "name": "Lunch in Downtown",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme norwegische Gastfreundschaft im Winter.",
+                "hu": "Élvezze a meleg norvég vendégszeretetet a téli hidegben.",
+                "ro": "Bucurați-vă de ospitalitatea norvegiană caldă pe timp de iarnă.",
+                "en": "Enjoy the warm Norwegian hospitality during the winter chill."
+              }
+            },
+            {
+              "name": "Steinkjer Church",
+              "tip_5lang": {
+                "de": "Die Kirche ist im Winter oft wunderschön beleuchtet.",
+                "hu": "A templom télen gyakran gyönyörűen ki van világítva.",
+                "ro": "Biserica este adesea iluminată superb pe timpul iernii.",
+                "en": "The church is often beautifully illuminated during winter evenings."
+              }
+            },
+            {
+              "name": "Dampsaga Culture House",
+              "tip_5lang": {
+                "de": "Der Eingangsbereich wird meist schnee- und eisfrei gehalten.",
+                "hu": "A bejárat környékét általában hó- és jégmentesen tartják.",
+                "ro": "Zona de intrare este de obicei curățată de zăpadă și gheață.",
+                "en": "The entrance area is usually kept clear of snow and ice."
+              }
+            },
+            {
+              "name": "Oftenåsen",
+              "tip_5lang": {
+                "de": "Winterreifen sind für die steile Mautstraße zwingend erforderlich.",
+                "hu": "A téli gumi kötelező a meredek útdíjas szakaszhoz.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pentru drumul cu taxă.",
+                "en": "Winter tires are mandatory for the steep toll road climb."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer eine Eiskratzer und Schneebesen im Auto mit.",
+              "Die Mautstraße zum Oftenåsen wird im Winter geräumt, kann aber glatt sein.",
+              "Tanken Sie rechtzeitig; bei Kälte verbrauchen Autos mehr Energie.",
+              "Vermeiden Sie hastige Lenkbewegungen auf vereisten Nebenstraßen."
+            ],
+            "hu": [
+              "Mindig legyen jégkaparó és hókefe az autóban.",
+              "Az Oftenåsen útja takarítva van, de így is lehetnek jeges foltok.",
+              "Tankoljon időben, a hidegben az autók többet fogyasztanak.",
+              "Kerülje a hirtelen mozdulatokat a jeges mellékutakon."
+            ],
+            "ro": [
+              "Păstrați întotdeauna în mașină o racletă și o perie de zăpadă.",
+              "Drumul spre Oftenåsen este deszăpezit, dar poate fi totuși alunecos.",
+              "Alimentați din timp; mașinile consumă mai mult combustibil la frig.",
+              "Evitați manevrele bruște pe drumurile secundare înghețate."
+            ],
+            "en": [
+              "Always carry an ice scraper and a snow brush in your vehicle.",
+              "The Oftenåsen toll road is plowed but can still be slippery.",
+              "Keep your fuel tank or battery well-charged in cold weather.",
+              "Avoid sudden maneuvers on icy side roads around Steinkjer."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1378,6 +1906,188 @@
           "Be on time at the bus stop, especially in the countryside.",
           "Plan for buffer time for any potential delays."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn bleibt man in Steinkjer bei Regen weitgehend trocken. Nach der Ankunft am Bahnhof ist die Kirche nur einen kurzen Sprung entfernt. Der Bus führt Sie zur historischen Mære Kirche und weiter nach Bolareinen. Nachmittags geht es zum Egge Museum, bevor der Tag am Oftenåsen endet, wo man trotz Regen die frische Luft und Aussicht genießt.",
+            "hu": "Tömegközlekedéssel az esős nap is kényelmesen abszolválható Steinkjerben. A vasútállomástól a templom csak egy rövid séta. busszal eljuthat a történelmi Mære templomhoz és Bolareinenhez is. Délután az Egge Múzeum következik, majd a napot az Oftenåsenen zárjuk, ahol az eső ellenére is frissítő a kilátás.",
+            "ro": "Transportul public vă ajută să rămâneți uscat în Steinkjer pe ploaie. De la gară, biserica este la o scurtă plimbare. Autobuzul vă duce la biserica Mære și la Bolareinen. După-amiaza vizitați Muzeul Egge, iar ziua se încheie pe Oftenåsen, unde aerul curat și vederea fiordului sunt revigorante.",
+            "en": "Public transport is a great way to navigate Steinkjer's sights while avoiding the rain. From the station, the church is a very short walk. Buses take you to the historic Mære Church and the Bolareinen rock carvings. Spend your afternoon at Egge Museum before ending the day at Oftenåsen for some fresh, rainy air and a misty view."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Steinkjer Station",
+              "tip_5lang": {
+                "de": "Warten Sie im beheizten Bahnhofsgebäude auf den nächsten Bus.",
+                "hu": "Várjon a fűtött váróteremben a következő busz indulásáig.",
+                "ro": "Așteptați în sala de așteptare încălzită până la următorul autobuz.",
+                "en": "Wait in the heated station building for your connecting bus."
+              }
+            },
+            {
+              "name": "Steinkjer Church",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg vom Bahnhof entfernt.",
+                "hu": "Mindössze 5 perc séta a vasútállomástól.",
+                "ro": "La doar 5 minute de mers pe jos de la gară.",
+                "en": "Just a 5-minute walk from the train station."
+              }
+            },
+            {
+              "name": "Mære Church",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Busrückfahrzeiten genau, da diese seltener fahren.",
+                "hu": "Ellenőrizze pontosan a visszautat, mert a buszok ritkán járnak ide.",
+                "ro": "Verificați orele de întoarcere, autobuzele circulă rar aici.",
+                "en": "Check return bus times carefully as services here are infrequent."
+              }
+            },
+            {
+              "name": "Bolareinen",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nahe an den Felsritzungen.",
+                "hu": "A buszmegálló közel van a sziklarajzokhoz.",
+                "ro": "Stația de autobuz este aproape de locul cu desene în piatră.",
+                "en": "The bus stop is located conveniently close to the carvings."
+              }
+            },
+            {
+              "name": "Egge Museum",
+              "tip_5lang": {
+                "de": "Vom Busstopp ist es ein kurzer, aber ungeschützter Fußweg.",
+                "hu": "A busztól egy rövid, de fedetlen séta vezet a múzeumig.",
+                "ro": "De la stația de autobuz este o scurtă plimbare neadăpostită.",
+                "en": "A short but unsheltered walk from the bus stop to the museum."
+              }
+            },
+            {
+              "name": "Oftenåsen",
+              "tip_5lang": {
+                "de": "Die Busse halten am Fuß des Hügels; der Aufstieg ist zu Fuß nötig.",
+                "hu": "A buszok a domb alján állnak meg; gyalog kell felmenni.",
+                "ro": "Autobuzele opresc la baza dealului; urcarea se face pe jos.",
+                "en": "Buses stop at the foot of the hill; the climb is on foot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die AtB-App für Echtzeit-Fahrpläne und Tickets.",
+              "Samstags und sonntags fahren Busse deutlich seltener.",
+              "Bahnhöfe und größere Haltestellen bieten meist Wetterschutz.",
+              "Ein kleiner Regenschirm passt gut in die Tasche für die Umstiege."
+            ],
+            "hu": [
+              "Használja az AtB appot a valós idejű menetrendhez és jegyvásárláshoz.",
+              "Szombaton és vasárnap a buszok ritkábban járnak.",
+              "A vasútállomás és a nagyobb megállók fedett helyet biztosítanak.",
+              "Egy kis összecsukható esernyő praktikus az átszállásokhoz."
+            ],
+            "ro": [
+              "Folosiți aplicația AtB pentru orare în timp real și bilete.",
+              "Sâmbăta și duminica autobuzele circulă mult mai rar.",
+              "Gara și stațiile mari oferă de obicei adăpost împotriva ploii.",
+              "O umbrelă mică este utilă pentru segmentele de mers pe jos."
+            ],
+            "en": [
+              "Use the AtB app for real-time schedules and easy ticketing.",
+              "Buses run much less frequently on Saturdays and Sundays.",
+              "The train station and major stops provide good shelter from rain.",
+              "A small travel umbrella is handy for the gaps between bus stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Ankunft im winterlichen Steinkjer per Bahn ist stimmungsvoll. Nach dem Besuch der Kirche nutzen Sie das gut ausgebaute Busnetz zur Mære Kirche und nach Bolareinen, während Sie die Aussicht auf die verschneite Landschaft aus dem warmen Fenster genießen. Das Egge Museum bietet winterliche Stille. Der Tag gipfelt im Oftenåsen, wo Sie im Schein der Straßenlaternen den Berg erklimmen.",
+            "hu": "A havas Steinkjerbe való megérkezés vonattal igazán hangulatos. A templomlátogatás után buszozzon el a Mære templomhoz és Bolareinenhez, közben élvezze a fűtött buszból a havas tájat. Az Egge Múzeum téli csendje után az Oftenåsen következik, ahol az utcai lámpák fényében vághat neki a dombnak.",
+            "ro": "Sosirea în Steinkjer iarna cu trenul este foarte pitorească. După biserică, folosiți autobuzul spre Mære și Bolareinen, admirând peisajul alb prin fereastra caldă. Muzeul Egge oferă o liniște specifică iernii. Ziua se încheie pe Oftenåsen, unde puteți urca dealul sub lumina felinarelor.",
+            "en": "Arriving in wintry Steinkjer by train is a cozy start to your day. After visiting the church, use the local bus network to reach Mære and Bolareinen, enjoying the snowy landscape from the warmth of the vehicle. Egge Museum offers peaceful winter vibes. Finally, head to Oftenåsen to climb the hill as the city lights begin to glow in the early dark."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Steinkjer Station",
+              "tip_5lang": {
+                "de": "Züge aus Trondheim sind oft pünktlich, auch bei Schnee.",
+                "hu": "A Trondheimből érkező vonatok hóban is általában pontosak.",
+                "ro": "Trenurile dinspre Trondheim sunt de obicei punctuale, chiar și pe zăpadă.",
+                "en": "Trains from Trondheim are generally reliable, even in snow."
+              }
+            },
+            {
+              "name": "Steinkjer Church",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis auf dem Gehweg vom Bahnhof.",
+                "hu": "Vigyázzon a jégre a vasútállomástól vezető járdán.",
+                "ro": "Atenție la gheața de pe trotuarul care vine de la gară.",
+                "en": "Watch out for icy patches on the sidewalk from the station."
+              }
+            },
+            {
+              "name": "Mære Church",
+              "tip_5lang": {
+                "de": "Busse halten direkt an der Straße unterhalb der Kirche.",
+                "hu": "A buszok közvetlenül a templom alatti úton állnak meg.",
+                "ro": "Autobuzele opresc chiar pe drumul de sub biserică.",
+                "en": "Buses stop on the main road directly below the church."
+              }
+            },
+            {
+              "name": "Bolareinen",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist für das Warten an der Bushaltestelle wichtig.",
+                "hu": "Meleg öltözet fontos, amíg a buszra vár a megállóban.",
+                "ro": "Îmbrăcămintea groasă este vitală în timp ce așteptați autobuzul.",
+                "en": "Warm clothing is essential while waiting for the bus back."
+              }
+            },
+            {
+              "name": "Egge Museum",
+              "tip_5lang": {
+                "de": "Der Bus 601 verbindet das Zentrum regelmäßig mit Egge.",
+                "hu": "A 601-es busz rendszeresen összeköti a központot Eggével.",
+                "ro": "Autobuzul 601 face legătura regulat între centru și Egge.",
+                "en": "Bus 601 provides regular service between the center and Egge."
+              }
+            },
+            {
+              "name": "Oftenåsen",
+              "tip_5lang": {
+                "de": "Nehmen Sie den Bus bis 'Often' und gehen Sie den Rest zu Fuß.",
+                "hu": "Utazzon busszal az 'Often' megállóig, onnan gyalogoljon tovább.",
+                "ro": "Luați autobuzul până la stația 'Often' și urcați restul pe jos.",
+                "en": "Take the bus to the 'Often' stop and walk the remaining climb."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Im Winter können Busse witterungsbedingt leichte Verspätungen haben.",
+              "Die AtB-App zeigt Ihnen an, ob Ihr Bus beheizt und pünktlich ist.",
+              "Nutzen Sie die Wartezeiten für einen Kaffee am Bahnhof oder im Zentrum.",
+              "Der letzte Aufstieg zum Oftenåsen ist bei Dunkelheit steil; Handy-Lampe hilft."
+            ],
+            "hu": [
+              "Télen a buszoknak lehetnek kisebb késései az útviszonyok miatt.",
+              "Az AtB app mutatja, ha a busz késik vagy módosult az útvonala.",
+              "A várakozási időt töltse egy forró kávéval a vasútállomáson.",
+              "Az utolsó szakasz az Oftenåsenre sötétben meredek; a telefon lámpája segíthet."
+            ],
+            "ro": [
+              "Iarna, autobuzele pot avea mici întârzieri din cauza vremii.",
+              "Aplicația AtB vă informează despre starea traficului în timp real.",
+              "Folosiți timpul de așteptare pentru o cafea caldă în gară.",
+              "Urcarea finală spre Oftenåsen este grea pe întuneric; lanterna e utilă."
+            ],
+            "en": [
+              "In winter, buses may experience minor delays due to road conditions.",
+              "The AtB app provides real-time tracking for your bus routes.",
+              "Use waiting periods to grab a warm drink at the station cafe.",
+              "The final ascent to Oftenåsen is steep in the dark; use your phone light."
+            ]
+          }
+        }
       }
     }
   }

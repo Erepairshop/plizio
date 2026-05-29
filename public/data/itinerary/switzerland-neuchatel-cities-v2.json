@@ -358,6 +358,188 @@
           "Many museums are closed on Mondays, check opening hours in advance.",
           "A bottle of water is essential on warm days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die Arkaden am Place des Halles Schutz. Mittags erkunden Sie die dicken Mauern des Schlosses im Trockenen. Nachmittags laden die Museen zur Kunstpause ein. Abends locken gemütliche Restaurants in der Altstadt.",
+            "hu": "Reggel a Place des Halles árkádjai alatt védve maradhat. Délben a kastély vastag falai között bújhat el az eső elől. Délután a múzeumok kínálnak tartalmas beltéri programot. Este egy hangulatos pincében melegedhet meg.",
+            "ro": "Dimineața, arcadele din Place des Halles oferă adăpost. La prânz, vizitați castelul, ferit de ploaie. După-amiaza este dedicată muzeelor interioare. Seara se încheie într-un restaurant primitor din orașul vechi.",
+            "en": "Morning starts under the protective arcades of Place des Halles. At noon, the castle’s thick walls offer a dry retreat. Spend the afternoon in the warmth of the museums. Evening is best enjoyed in a cozy old town bistro."
+          },
+          "stops": [
+            {
+              "name": "Place des Halles",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Renaissance-Arkaden als natürlichen Regenschutz beim Bestaunen der Fassaden.",
+                "hu": "Használja a reneszánsz árkádokat természetes esővédőként a homlokzatok megcsodálásakor.",
+                "ro": "Folosiți arcadele renascentiste ca adăpost natural împotriva ploii în timp ce admirați fațadele.",
+                "en": "Use the Renaissance arcades as natural rain shelter while admiring the ornate facades."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Der Eingangsbereich bietet einen kurzen trockenen Moment für Fotos der Architektur.",
+                "hu": "A bejárati rész rövid száraz helyet biztosít az építészeti fotók készítéséhez.",
+                "ro": "Zona de intrare oferă un scurt moment de răgaz uscat pentru fotografii de arhitectură.",
+                "en": "The entrance area provides a brief dry spot for taking architectural photos."
+              }
+            },
+            {
+              "name": "Fountain of Justice",
+              "tip_5lang": {
+                "de": "Ein schneller Blick genügt; die Farben wirken bei Regen besonders kräftig.",
+                "hu": "Egy gyors pillantás elég; a színek esőben különösen élénknek tűnnek.",
+                "ro": "O privire rapidă este suficientă; culorile par deosebit de vibrante în ploaie.",
+                "en": "A quick glance is enough; the colors appear particularly vibrant in the rain."
+              }
+            },
+            {
+              "name": "Collegiate Church & Neuchâtel Castle",
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen prachtvollen und trockenen Ort zur Besichtigung der Kenotaphe.",
+                "hu": "A templom pompás és száraz helyszín a kenotáfiumok megtekintéséhez.",
+                "ro": "Biserica oferă un loc splendid și uscat pentru a vizita cenotafele.",
+                "en": "The church offers a magnificent and dry interior to view the cenotaphs."
+              }
+            },
+            {
+              "name": "Museum of Art and History",
+              "tip_5lang": {
+                "de": "Perfekt für Regentage: Die Jaquet-Droz-Automaten sind ein technisches Wunderwerk im Trockenen.",
+                "hu": "Tökéletes esős napra: a Jaquet-Droz automaták technikai csodák fedett helyen.",
+                "ro": "Perfect pentru zilele ploioase: automatele Jaquet-Droz sunt minuni tehnice la interior.",
+                "en": "Perfect for rainy days: the Jaquet-Droz automata are technical wonders kept indoors."
+              }
+            },
+            {
+              "name": "Laténium",
+              "tip_5lang": {
+                "de": "Das größte archäologische Museum der Schweiz bietet stundenlange Unterhaltung im Warmen.",
+                "hu": "Svájc legnagyobb régészeti múzeuma órákon át tartó szórakozást nyújt a melegben.",
+                "ro": "Cel mai mare muzeu de arheologie din Elveția oferă ore de divertisment la căldură.",
+                "en": "Switzerland's largest archaeological museum offers hours of indoor exploration."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Arkaden der Altstadt sind Ihre besten Freunde bei Regen.",
+              "Vorsicht auf dem Kopfsteinpflaster, es kann sehr rutschig werden.",
+              "Nutzen Sie die Standseilbahn 'Fun'ambule', um trocken zum Bahnhof zu kommen.",
+              "Ein Besuch in einer Chocolaterie ist die ideale Regenpause."
+            ],
+            "hu": [
+              "Az óváros árkádjai a legjobb barátai esőben.",
+              "Vigyázzon a macskaköveken, mert nagyon csúszósak lehetnek.",
+              "Használja a Fun'ambule siklót, hogy szárazon jusson fel az állomásra.",
+              "Egy látogatás egy csokoládéboltban ideális szünet az eső elől."
+            ],
+            "ro": [
+              "Arcadele din orașul vechi sunt cei mai buni prieteni ai tăi pe ploaie.",
+              "Atenție la pavajul cu piatră cubică, poate deveni foarte alunecos.",
+              "Folosiți funicularul Fun'ambule pentru a ajunge uscat la gară.",
+              "O vizită la o ciocolaterie este pauza ideală împotriva ploii."
+            ],
+            "en": [
+              "The old town arcades are your best friends in the rain.",
+              "Be careful on the cobblestones as they can become very slippery.",
+              "Use the Fun'ambule funicular to reach the station without getting wet.",
+              "A visit to a local chocolatier is the perfect rainy day escape."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalte Seeluft weht durch die Gassen der Altstadt. Die Burg wirkt im Winterlicht besonders majestätisch. In den Museen finden Sie Wärme und faszinierende Geschichte. Wenn es früh dunkel wird, leuchten die Lichter der Stadt warm auf.",
+            "hu": "Hideg tavi szél fúj az óváros utcáin. A vár a téli fényben különösen fenségesnek tűnik. A múzeumokban melegre és lenyűgöző történelemre lelhet. A korai sötétedéskor a város fényei melegen gyúlnak ki.",
+            "ro": "Aerul rece al lacului suflă prin străzile orașului vechi. Castelul pare maiestuos în lumina iernii. În muzee găsiți căldură și istorie fascinantă. Seara devreme, luminile orașului se aprind primitor.",
+            "en": "Crisp lake air blows through the old town streets. The castle looks particularly majestic in the winter light. Inside the museums, you find warmth and fascinating history. As darkness falls early, the city lights glow warmly."
+          },
+          "stops": [
+            {
+              "name": "Place des Halles",
+              "tip_5lang": {
+                "de": "Genießen Sie die weihnachtliche Stimmung und die beleuchteten Renaissance-Bauten.",
+                "hu": "Élvezze a karácsonyi hangulatot és a kivilágított reneszánsz épületeket.",
+                "ro": "Bucurați-vă de atmosfera de Crăciun și de clădirile renascentiste iluminate.",
+                "en": "Enjoy the festive winter atmosphere and the beautifully illuminated Renaissance buildings."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Die klassizistische Fassade wirkt im grauen Winterhimmel besonders streng und edel.",
+                "hu": "A klasszicista homlokzat a szürke téli égbolt alatt különösen szigorúnak és nemesnek hat.",
+                "ro": "Fațada neoclasică pare deosebit de sobră și nobilă sub cerul cenușiu de iarnă.",
+                "en": "The neoclassical facade looks particularly stark and noble under the winter sky."
+              }
+            },
+            {
+              "name": "Fountain of Justice",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eiszapfen, die sich bei Frost an der Statue bilden können.",
+                "hu": "Ügyeljen a jégcsapokra, amelyek fagy esetén a szobron alakulhatnak ki.",
+                "ro": "Atenție la țurțurii care se pot forma pe statuie în caz de îngheț.",
+                "en": "Look out for icicles that may form on the statue during freezing temperatures."
+              }
+            },
+            {
+              "name": "Collegiate Church & Neuchâtel Castle",
+              "tip_5lang": {
+                "de": "Vom Schlosshof aus haben Sie einen klaren Blick auf die oft verschneiten Alpen.",
+                "hu": "A várudvarról tiszta kilátás nyílik a gyakran hófödte Alpokra.",
+                "ro": "Din curtea castelului aveți o vedere clară asupra Alpilor adesea înzăpeziți.",
+                "en": "From the castle courtyard, enjoy a crisp view of the often snow-capped Alps."
+              }
+            },
+            {
+              "name": "Museum of Art and History",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den eleganten Sälen auf, während Sie die Kunstwerke betrachten.",
+                "hu": "Melegedjen fel az elegáns termekben, miközben a műalkotásokat nézi.",
+                "ro": "Încălziți-vă în sălile elegante în timp ce admirați operele de artă.",
+                "en": "Warm up in the elegant galleries while admiring the extensive art collections."
+              }
+            },
+            {
+              "name": "Laténium",
+              "tip_5lang": {
+                "de": "Der Spaziergang am Seeufer zum Museum ist erfrischend; das Innere ist wohlig warm.",
+                "hu": "A tóparti séta a múzeumhoz frissítő; az épület belseje kellemesen meleg.",
+                "ro": "Plimbarea pe malul lacului spre muzeu este revigorantă; interiorul este primitor.",
+                "en": "The lakeside walk to the museum is refreshing; the interior is comfortably warm."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Kleidung, da der Wind vom See (Bise) sehr kalt sein kann.",
+              "Die Sonne geht im Dezember bereits gegen 16:45 Uhr unter.",
+              "Probieren Sie ein lokales Käsefondue, um sich nach dem Wandern aufzuwärmen.",
+              "Die Uferpromenade kann bei Frost glatt sein."
+            ],
+            "hu": [
+              "Viseljen meleg ruhát, mert a tavi szél (Bise) nagyon hideg lehet.",
+              "A nap decemberben már 16:45 körül lemegy.",
+              "Kóstolja meg a helyi sajtfondüt, hogy felmelegedjen a túra után.",
+              "A tóparti sétány fagy esetén csúszós lehet."
+            ],
+            "ro": [
+              "Purtați haine groase, deoarece vântul de pe lac (Bise) poate fi foarte rece.",
+              "Soarele apune deja în jurul orei 16:45 în decembrie.",
+              "Încercați un fondue de brânză local pentru a vă încălzi după plimbare.",
+              "Promenada de pe malul lacului poate fi alunecoasă în caz de îngheț."
+            ],
+            "en": [
+              "Wear warm layers as the wind from the lake (Bise) can be very biting.",
+              "Sunset is early in winter, around 4:45 PM in December.",
+              "Warm up with a traditional cheese fondue after your walk.",
+              "Be cautious on the lakeside promenade as it can be icy."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -710,6 +892,188 @@
           "Check your tire pressure before you set off.",
           "Watch out for pedestrians and cobblestones in the old town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour bei Regen erfordert gute Ausrüstung auf den glatten Wegen. Das Schloss bietet eine wohlverdiente Pause im Trockenen. Entlang des Sees führt der Weg zu den Museen. Den Tag beenden wir mit einer Seilbahnfahrt zum Aussichtsturm.",
+            "hu": "Az esőben tett kerékpártúra jó felszerelést igényel a csúszós utakon. A kastély megérdemelt pihenőt nyújt szárazon. A tó mentén vezet az út a múzeumokhoz. A napot egy siklózással zárjuk a kilátóhoz.",
+            "ro": "O tură cu bicicleta pe ploaie necesită echipament bun pe drumurile alunecoase. Castelul oferă o pauză binemeritată la uscat. Drumul spre muzee șerpuiește de-a lungul lacului. Încheiem ziua cu o urcare spre turnul de veghe.",
+            "en": "A rainy bike ride requires good gear on the slippery paths. The castle provides a well-earned dry break. Follow the lakefront path to reach the museums. End the day by taking the funicular up to the lookout tower."
+          },
+          "stops": [
+            {
+              "name": "Place des Halles",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Arkaden, um die Markthalle trocken zu besichtigen.",
+                "hu": "Parkolja le a bringát az árkádok alatt, hogy szárazon nézze meg a vásárcsarnokot.",
+                "ro": "Parcați bicicleta sub arcade pentru a vizita piața fără a vă uda.",
+                "en": "Park your bike under the arcades to explore the market hall while staying dry."
+              }
+            },
+            {
+              "name": "Collegiate Church & Neuchâtel Castle",
+              "tip_5lang": {
+                "de": "Der Anstieg zum Schloss ist bei Regen rutschig; nutzen Sie die niedrigen Gänge.",
+                "hu": "A kastélyhoz vezető emelkedő esőben csúszós; használjon alacsony sebességfokozatot.",
+                "ro": "Urcarea spre castel este alunecoasă pe ploaie; folosiți viteze mici.",
+                "en": "The climb to the castle is slippery in the rain; use lower gears for better traction."
+              }
+            },
+            {
+              "name": "Museum of Art and History",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer direkt am Museum für einen schnellen Wechsel ins Trockene.",
+                "hu": "Használja a közvetlenül a múzeumnál lévő kerékpártárolókat a gyors szárazra jutáshoz.",
+                "ro": "Folosiți suporturile de biciclete de lângă muzeu pentru a intra rapid la adăpost.",
+                "en": "Use the bike racks right by the museum for a quick transition to the dry interior."
+              }
+            },
+            {
+              "name": "Lunch at the Lakefront",
+              "tip_5lang": {
+                "de": "Suchen Sie sich ein Restaurant mit überdachter Terrasse oder Innenplätzen.",
+                "hu": "Keressen egy éttermet fedett terasszal vagy benti asztalokkal.",
+                "ro": "Căutați un restaurant cu terasă acoperită sau locuri în interior.",
+                "en": "Choose a restaurant with a covered terrace or indoor seating for your lunch."
+              }
+            },
+            {
+              "name": "Laténium",
+              "tip_5lang": {
+                "de": "Der Radweg am See ist flach und auch bei Regen gut befahrbar.",
+                "hu": "A tóparti kerékpárút sík és esőben is jól járható.",
+                "ro": "Pista de biciclete de pe malul lacului este plană și practicabilă pe ploaie.",
+                "en": "The lakeside bike path is flat and remains manageable even in the rain."
+              }
+            },
+            {
+              "name": "Chaumont Lookout Tower",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Sicht eingeschränkt; die Fahrt mit der Seilbahn bleibt spannend.",
+                "hu": "Heves esőben a kilátás korlátozott; a siklózás így is izgalmas marad.",
+                "ro": "În caz de ploaie torențială vizibilitatea este redusă; urcarea cu funicularul rămâne interesantă.",
+                "en": "Visibility might be limited in heavy rain, but the funicular ride is still enjoyable."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserdichte Kleidung und nutzen Sie Schutzbleche gegen Spritzwasser.",
+              "Vermeiden Sie schnelle Kurven auf nassem Kopfsteinpflaster in der Altstadt.",
+              "Die Seilbahn nach Chaumont befördert auch Fahrräder im Trockenen.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Schlossberg."
+            ],
+            "hu": [
+              "Viseljen vízálló ruházatot és használjon sárvédőt a felfröccsenő víz ellen.",
+              "Kerülje a gyors kanyarodást a nedves macskaköveken az óvárosban.",
+              "A Chaumont-ba tartó sikló szárazon szállítja a kerékpárokat is.",
+              "Ellenőrizze a fékeket a várhegyről való leereszkedés előtt."
+            ],
+            "ro": [
+              "Purtați haine impermeabile și folosiți apărători împotriva stropirii.",
+              "Evitați virajele strânse pe pavajul umed din orașul vechi.",
+              "Funicularul spre Chaumont transportă și biciclete, protejate de ploaie.",
+              "Verificați frânele înainte de a coborî de la castel."
+            ],
+            "en": [
+              "Wear waterproof gear and use mudguards to protect against splashes.",
+              "Avoid sharp turns on the wet cobblestones in the historic center.",
+              "The funicular to Chaumont accommodates bikes in its dry cabins.",
+              "Test your brakes before descending from the castle hill."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt durch die kühle Seeluft zum Schlossberg. In den Museen wärmen wir uns bei Kunst und Geschichte auf. Die flache Fahrt am See bietet weite Ausblicke auf die Alpen. Zum Abschluss geht es hoch hinaus in den Schnee auf dem Chaumont.",
+            "hu": "A téli kerékpártúra a hűvös tavi levegőn át vezet a várhegyre. A múzeumokban művészettel és történelemmel melegedünk fel. A sík tóparti szakasz tágas kilátást nyújt az Alpokra. Végezetül felmegyünk a Chaumont havas csúcsára.",
+            "ro": "Tura de iarnă cu bicicleta trece prin aerul rece al lacului spre castel. În muzee ne încălzim cu artă și istorie. Drumul plan de pe malul lacului oferă vederi largi spre Alpi. La final, urcăm spre zăpada de pe Chaumont.",
+            "en": "The winter bike ride takes you through the crisp lake air to the castle. Warm up inside the museums with art and history. The flat lakeside path offers expansive views of the Alps. Finish with a trip to the snowy heights of Chaumont."
+          },
+          "stops": [
+            {
+              "name": "Place des Halles",
+              "tip_5lang": {
+                "de": "Die winterlichen Märkte laden zu einem kurzen Stopp mit dem Rad ein.",
+                "hu": "A téli piacok rövid megállóra csábítanak a biciklivel.",
+                "ro": "Piețele de iarnă vă invită la o scurtă oprire cu bicicleta.",
+                "en": "Winter markets are a great reason for a quick stop with your bike."
+              }
+            },
+            {
+              "name": "Collegiate Church & Neuchâtel Castle",
+              "tip_5lang": {
+                "de": "Die Auffahrt hält Sie warm; oben angekommen, schützt der Schlosshof vor dem Wind.",
+                "hu": "A felfelé tekerés melegen tart; felérve a várudvar véd a széltől.",
+                "ro": "Urcarea vă va menține calzi; odată ajunși sus, curtea castelului vă apără de vânt.",
+                "en": "The ride up will keep you warm; once at the top, the courtyard shelters you from wind."
+              }
+            },
+            {
+              "name": "Museum of Art and History",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Hände aufzuwärmen und Kultur zu genießen.",
+                "hu": "Ideális hely a kezek felmelegítésére és a kultúra élvezetére.",
+                "ro": "Un loc ideal pentru a vă încălzi mâinile și a vă bucura de cultură.",
+                "en": "An ideal spot to warm your hands and enjoy some local culture."
+              }
+            },
+            {
+              "name": "Lunch at the Lakefront",
+              "tip_5lang": {
+                "de": "Gönnen Sie sich eine heiße Suppe mit Blick auf den winterlichen See.",
+                "hu": "Kényeztesse magát egy forró levessel a téli tóra néző kilátással.",
+                "ro": "Răsfățați-vă cu o supă fierbinte cu vedere la lacul înghețat.",
+                "en": "Treat yourself to a hot soup with a view of the winter lake."
+              }
+            },
+            {
+              "name": "Laténium",
+              "tip_5lang": {
+                "de": "Der Radweg ist meist gut geräumt; genießen Sie die klare Winterluft.",
+                "hu": "A kerékpárút általában jól tisztított; élvezze a tiszta téli levegőt.",
+                "ro": "Pista de biciclete este de obicei curățată; bucurați-vă de aerul curat de iarnă.",
+                "en": "The bike path is usually well-cleared; enjoy the crisp winter air."
+              }
+            },
+            {
+              "name": "Chaumont Lookout Tower",
+              "tip_5lang": {
+                "de": "Oben liegt oft Schnee; feste Schuhe für den kurzen Weg zum Turm sind wichtig.",
+                "hu": "Fent gyakran van hó; a toronyhoz vezető rövid úthoz fontos a stabil cipő.",
+                "ro": "Sus este adesea zăpadă; încălțămintea solidă este importantă pentru drumul scurt spre turn.",
+                "en": "Snow is common at the top; sturdy shoes are essential for the short walk to the tower."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung (Zwiebelprinzip) gegen den kalten Fahrtwind.",
+              "Vermeiden Sie bei Frost schattige Stellen, dort kann Glatteis lauern.",
+              "Halten Sie die Kette gut geölt gegen Streusalz.",
+              "Ein heißer Tee in der Thermoskanne ist ein Muss für diese Tour."
+            ],
+            "hu": [
+              "Rétegesen öltözködjön a hideg menetszél ellen.",
+              "Fagy esetén kerülje az árnyékos helyeket, ott jégfoltok lehetnek.",
+              "Tartsa a láncot jól olajozottan az útszóról só ellen.",
+              "Egy forró tea a termoszházban kötelező erre a túrára."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi împotriva vântului rece din timpul mersului.",
+              "În caz de îngheț, evitați zonele umbrite, unde poate exista gheață.",
+              "Păstrați lanțul bine uns pentru a-l proteja de sarea de pe drumuri.",
+              "Un ceai fierbinte într-un termos este obligatoriu pentru această tură."
+            ],
+            "en": [
+              "Dress in layers to protect yourself against the cold wind while cycling.",
+              "Avoid shaded spots during frost as black ice can linger there.",
+              "Keep your chain well-oiled to protect it from road salt.",
+              "A hot tea in a thermos is a must-have for this winter ride."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1062,6 +1426,188 @@
           "Be aware of speed limits, especially in residential areas.",
           "The road to Chaumont can be narrow and winding, drive carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt im Parkhaus direkt am Rande der Altstadt. Besuchen Sie das Schloss und die historischen Plätze, während es draußen regnet. Die Museen am Seeufer bieten trockene und spannende Erlebnisse. Zum Abschluss fahren wir bequem zum Aussichtspunkt Chaumont.",
+            "hu": "Az út az óváros szélén lévő parkolóházban kezdődik. Látogassa meg a kastélyt és a történelmi tereket, miközben kint esik. A tóparti múzeumok száraz és izgalmas élményeket kínálnak. Végezetül kényelmesen felautózunk a Chaumont kilátóhoz.",
+            "ro": "Călătoria începe în parcarea de la marginea orașului vechi. Vizitați castelul și piețele istorice în timp ce afară plouă. Muzeele de pe malul lacului oferă experiențe captivante la adăpost. La final, urcăm confortabil spre Chaumont.",
+            "en": "Start your journey in a parking garage right at the edge of the old town. Visit the castle and historic squares while staying dry. The lakeside museums offer fascinating indoor experiences. Finish with a comfortable drive to the Chaumont viewpoint."
+          },
+          "stops": [
+            {
+              "name": "Place Pury Car Park (Old Town Cluster)",
+              "tip_5lang": {
+                "de": "Ein idealer Startpunkt, um die Altstadt fast vollständig trocken zu erreichen.",
+                "hu": "Ideális kiindulópont az óváros szinte teljesen száraz eléréséhez.",
+                "ro": "Un punct de plecare ideal pentru a ajunge în orașul vechi aproape complet uscat.",
+                "en": "An ideal starting point for reaching the old town while staying mostly dry."
+              }
+            },
+            {
+              "name": "Place des Halles & Town Hall",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Gang vom Parkhaus unter die schützenden Arkaden.",
+                "hu": "Csak egy rövid séta a parkolóháztól a védő árkádok alá.",
+                "ro": "Doar o scurtă plimbare de la parcare sub arcadele protectoare.",
+                "en": "Just a short walk from the car park to the protective arcades."
+              }
+            },
+            {
+              "name": "Collegiate Church & Neuchâtel Castle",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Schlossberg, um den Weg im Regen zu minimieren.",
+                "hu": "Parkoljon a várhegy közelében, hogy minimalizálja az esőben megtett utat.",
+                "ro": "Parcați aproape de dealul castelului pentru a minimiza drumul prin ploaie.",
+                "en": "Park near the castle hill to minimize your time walking in the rain."
+              }
+            },
+            {
+              "name": "Laténium (Lakefront Cluster)",
+              "tip_5lang": {
+                "de": "Das Museum verfügt über eigene Parkplätze direkt am Eingang.",
+                "hu": "A múzeumnak saját parkolója van közvetlenül a bejáratnál.",
+                "ro": "Muzeul are propria parcare chiar lângă intrare.",
+                "en": "The museum has its own dedicated parking lot right by the entrance."
+              }
+            },
+            {
+              "name": "Chaumont Lookout Tower (Mountain Cluster)",
+              "tip_5lang": {
+                "de": "Die Auffahrt mit dem Auto ist auch bei schlechtem Wetter sicher und komfortabel.",
+                "hu": "Az autóval való feljutás rossz időben is biztonságos és kényelmes.",
+                "ro": "Urcarea cu mașina este sigură și confortabilă chiar și pe vreme rea.",
+                "en": "The drive up the mountain is safe and comfortable even in poor weather."
+              }
+            },
+            {
+              "name": "Dinner in the Old Town",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit nahem Parkhaus-Zugang.",
+                "hu": "Válasszon olyan éttermet, amely közel van egy parkolóházhoz.",
+                "ro": "Alegeți un restaurant cu acces facil la o parcare acoperită.",
+                "en": "Choose a restaurant with easy access to a nearby parking garage."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser 'Place Pury' oder 'Seyon' für die Altstadt.",
+              "Achten Sie auf die Gischt anderer Fahrzeuge auf der Seeuferstraße.",
+              "Lassen Sie den Regenschirm griffbereit im Auto.",
+              "Die Bergstraße nach Chaumont kann bei starkem Regen rutschig sein."
+            ],
+            "hu": [
+              "Használja a 'Place Pury' vagy 'Seyon' parkolóházakat az óvároshoz.",
+              "Ügyeljen a többi jármű által felvert vízpermetre a tóparti úton.",
+              "Tartsa az esernyőt kéznél az autóban.",
+              "A Chaumont-ba vezető hegyi út heves esőben csúszós lehet."
+            ],
+            "ro": [
+              "Folosiți parcările 'Place Pury' sau 'Seyon' pentru centrul vechi.",
+              "Atenție la apa împroșcată de alte vehicule pe drumul de lângă lac.",
+              "Păstrați umbrela la îndemână în mașină.",
+              "Drumul montan spre Chaumont poate fi alunecos pe ploaie torențială."
+            ],
+            "en": [
+              "Use the 'Place Pury' or 'Seyon' parking garages for the old town.",
+              "Watch out for spray from other vehicles on the lakeside road.",
+              "Keep your umbrella handy inside the car for quick stops.",
+              "The mountain road to Chaumont can be slippery during heavy rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Tour beginnt bequem in der beheizten Stadt. Entdecken Sie die frostige Schönheit des Schlosses und die Wärme der Museen. Die Fahrt am Seeufer bietet spektakuläre Ausblicke auf die verschneite Landschaft. Zum krönenden Abschluss geht es in den Tiefschnee auf dem Chaumont.",
+            "hu": "A téli túra kényelmesen, a fűtött városban kezdődik. Fedezze fel a kastély fagyos szépségét és a múzeumok melegét. A tóparti út látványos kilátást nyújt a havas tájra. A koronát a napra a Chaumont mély hava teszi fel.",
+            "ro": "Turul de iarnă începe confortabil în orașul încălzit. Descoperiți frumusețea înghețată a castelului și căldura muzeelor. Drumul pe malul lacului oferă vederi spectaculoase asupra peisajului înzăpezit. La final, urcăm în zăpada de pe Chaumont.",
+            "en": "The winter tour starts comfortably in the heated city center. Discover the frosty beauty of the castle and the warmth of the museums. The lakeside drive offers spectacular views of the snowy landscape. Finish with a trip to the deep snow on Chaumont."
+          },
+          "stops": [
+            {
+              "name": "Place Pury Car Park (Old Town Cluster)",
+              "tip_5lang": {
+                "de": "Das Parkhaus ist ein warmer Startpunkt für Ihren Stadtbummel.",
+                "hu": "A parkolóház meleg kiindulópont a városi sétához.",
+                "ro": "Parcarea acoperită este un punct de plecare cald pentru plimbarea prin oraș.",
+                "en": "The covered parking garage is a warm starting point for your city walk."
+              }
+            },
+            {
+              "name": "Place des Halles & Town Hall",
+              "tip_5lang": {
+                "de": "Genießen Sie die festliche Beleuchtung der historischen Fassaden.",
+                "hu": "Élvezze a történelmi homlokzatok ünnepi kivilágítását.",
+                "ro": "Bucurați-vă de iluminatul festiv al fațadelor istorice.",
+                "en": "Enjoy the festive winter illumination of the historic facades."
+              }
+            },
+            {
+              "name": "Collegiate Church & Neuchâtel Castle",
+              "tip_5lang": {
+                "de": "Der Schlossberg bietet im Winter oft eine klare Sicht bis zu den Alpen.",
+                "hu": "A várhegyről télen gyakran tiszta kilátás nyílik az Alpokig.",
+                "ro": "Dealul castelului oferă iarna adesea o vedere clară până la Alpi.",
+                "en": "The castle hill often provides a crisp view reaching as far as the Alps."
+              }
+            },
+            {
+              "name": "Laténium (Lakefront Cluster)",
+              "tip_5lang": {
+                "de": "Die kurzen Wege vom Parkplatz ins Museum sind bei Kälte ideal.",
+                "hu": "A parkolóból a múzeumba vezető rövid út ideális hidegben.",
+                "ro": "Drumul scurt de la parcare la muzeu este ideal pe timp de frig.",
+                "en": "The short distance from the car park to the museum is ideal in the cold."
+              }
+            },
+            {
+              "name": "Chaumont Lookout Tower (Mountain Cluster)",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Straßenzustand; oben herrscht oft echtes Winterwetter.",
+                "hu": "Ellenőrizze az útviszonyokat; fent gyakran valódi téli időjárás van.",
+                "ro": "Verificați starea drumului; sus este adesea vreme autentică de iarnă.",
+                "en": "Check the road conditions as the summit often experiences true winter weather."
+              }
+            },
+            {
+              "name": "Dinner in the Old Town",
+              "tip_5lang": {
+                "de": "Ein gemütliches Fondue-Restaurant ist der perfekte Abschluss.",
+                "hu": "Egy hangulatos fondü étterem a tökéletes lezárás.",
+                "ro": "Un restaurant primitor cu fondue este finalul perfect.",
+                "en": "A cozy fondue restaurant is the perfect way to conclude your day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind für die Fahrt zum Chaumont zwingend erforderlich.",
+              "Nehmen Sie einen Eiskratzer und eventuell Schneeketten mit.",
+              "Die Bergstraßen werden geräumt, können aber morgens glatt sein.",
+              "Nutzen Sie die Sitzheizung für die kurzen Strecken zwischen den Museen."
+            ],
+            "hu": [
+              "A téli gumi kötelező a Chaumont-ra való feljutáshoz.",
+              "Vigyen magával jégkaparót és esetleg hóláncot is.",
+              "A hegyi utakat takarítják, de reggelente csúszósak lehetnek.",
+              "Használja az ülésfűtést a múzeumok közötti rövid szakaszokon."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii pentru drumul spre Chaumont.",
+              "Luați o racletă pentru gheață și eventual lanțuri antiderapante.",
+              "Drumurile montane sunt curățate, dar pot fi alunecoase dimineața.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte dintre muzee."
+            ],
+            "en": [
+              "Winter tires are strictly required for the drive up to Chaumont.",
+              "Carry an ice scraper and consider bringing snow chains just in case.",
+              "Mountain roads are cleared but can remain icy in the early morning.",
+              "Utilize seat heating for the short drives between museum stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1414,6 +1960,188 @@
           "Download the 'transN' app for real-time schedules.",
           "Note that the funicular to Chaumont has its own schedule."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Seilbahn gelangen Sie trocken durch Neuenburg. Das Schloss und die Altstadt bieten viel Schutz unter Dächern und Arkaden. Die Museen sind hervorragend an das Verkehrsnetz angebunden. Zum Abschluss schweben wir mit der Bahn auf den nebligen Chaumont.",
+            "hu": "Busszal és siklóval szárazon közlekedhet Neuchâtel-ben. A kastély és az óváros sok védelmet nyújt a tetők és árkádok alatt. A múzeumok kiválóan csatlakoznak a közlekedési hálózathoz. Végezetül siklóval lebegünk fel a ködös Chaumont-ra.",
+            "ro": "Cu autobuzul și funicularul ajungeți uscat prin Neuchâtel. Castelul și orașul vechi oferă mult adăpost sub acoperișuri și arcade. Muzeele sunt excelent conectate la rețeaua de transport. La final, urcăm cu funicularul pe Chaumont.",
+            "en": "Use the bus and funicular to travel through Neuchâtel while staying dry. The castle and old town provide plenty of shelter under roofs and arcades. Museums are well-connected to the transit network. Finish by gliding up to the misty Chaumont."
+          },
+          "stops": [
+            {
+              "name": "Place Pury (Old Town Cluster Starting Point)",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt mit vielen überdachten Wartebereichen.",
+                "hu": "Központi csomópont sok fedett várakozóhellyel.",
+                "ro": "Nod central de transport cu multe zone de așteptare acoperite.",
+                "en": "A central transit hub with many covered areas to wait for your bus."
+              }
+            },
+            {
+              "name": "Place des Halles & Town Hall",
+              "tip_5lang": {
+                "de": "Von der Bushaltestelle sind es nur wenige Schritte zu den Arkaden.",
+                "hu": "A buszmegállótól csak néhány lépés az árkádokig.",
+                "ro": "De la stația de autobuz sunt doar câțiva pași până la arcade.",
+                "en": "It is only a few steps from the bus stop to the protective arcades."
+              }
+            },
+            {
+              "name": "Collegiate Church & Neuchâtel Castle",
+              "tip_5lang": {
+                "de": "Die 'Fun'ambule' bringt Sie bequem und trocken in die Nähe des Schlosses.",
+                "hu": "A 'Fun'ambule' kényelmesen és szárazon viszi a kastély közelébe.",
+                "ro": "'Fun'ambule' vă duce confortabil și uscat aproape de castel.",
+                "en": "The 'Fun'ambule' funicular takes you comfortably and dry near the castle."
+              }
+            },
+            {
+              "name": "Laténium (Lakefront Cluster)",
+              "tip_5lang": {
+                "de": "Die Buslinie 101 hält direkt vor dem archäologischen Park.",
+                "hu": "A 101-es buszjárat közvetlenül a régészeti park előtt áll meg.",
+                "ro": "Linia de autobuz 101 oprește chiar în fața parcului arheologic.",
+                "en": "Bus line 101 stops directly in front of the archaeological park entrance."
+              }
+            },
+            {
+              "name": "Chaumont (Mountain Cluster)",
+              "tip_5lang": {
+                "de": "Die Standseilbahn bietet eine trockene Fahrt mit toller Aussicht auf die Tropfen.",
+                "hu": "A sikló száraz utazást kínál remek kilátással az esőcseppekre.",
+                "ro": "Funicularul oferă o călătorie uscată cu o vedere frumoasă asupra ploii.",
+                "en": "The funicular offers a dry ride with great views of the rainy landscape."
+              }
+            },
+            {
+              "name": "Lookout Tower",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Sprint durch den Regen von der Bergstation zum Turm.",
+                "hu": "Csak egy rövid vágta az esőben a felső állomástól a toronyig.",
+                "ro": "Doar un scurt sprint prin ploaie de la stația de sus până la turn.",
+                "en": "Just a short sprint through the rain from the top station to the tower."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Onde Verte' für Echtzeit-Infos zu Bus und Bahn.",
+              "Die Standseilbahnen sind die schnellsten Verbindungen im Regen.",
+              "Warten Sie in den Museen oder Cafés auf die nächste Verbindung.",
+              "Ein Tagesticket lohnt sich bei häufigem Umsteigen besonders."
+            ],
+            "hu": [
+              "Használja az 'Onde Verte' alkalmazást a buszok és vonatok valós idejű infóihoz.",
+              "A siklók a leggyorsabb csatlakozások esőben.",
+              "Várjon a múzeumokban vagy kávézókban a következő járatra.",
+              "A napijegy különösen megéri sok átszállás esetén."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Onde Verte' pentru informații în timp real.",
+              "Funicularele sunt cele mai rapide conexiuni pe timp de ploaie.",
+              "Așteptați următoarea legătură în muzee sau cafenele.",
+              "Un bilet de o zi merită în mod special dacă schimbați des mijloacele de transport."
+            ],
+            "en": [
+              "Use the 'Onde Verte' app for real-time bus and train information.",
+              "The funiculars are the quickest way to move between levels in the rain.",
+              "Wait for your next connection inside museums or cozy cafes.",
+              "A day pass is very cost-effective if you plan on multiple trips."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Neuenburg bequem mit den öffentlichen Verkehrsmitteln. Die beheizten Busse und Bahnen bringen Sie zu den kulturellen Schätzen der Stadt. Genießen Sie die Aussicht auf den See aus dem warmen Abteil. Zum Abschluss geht es hoch in den Schnee auf dem Chaumont.",
+            "hu": "Fedezze fel a téli Neuchâtel-t kényelmesen, tömegközlekedéssel. A fűtött buszok és vonatok elviszik a város kulturális kincseihez. Élvezze a tavi kilátást a meleg utastérből. Végezetül felmegyünk a Chaumont havas csúcsára.",
+            "ro": "Explorați Neuchâtel-ul de iarnă confortabil cu transportul public. Autobuzele și trenurile încălzite vă duc la comorile culturale ale orașului. Bucurați-vă de vederea la lac din interiorul cald. La final, urcați spre zăpada de pe Chaumont.",
+            "en": "Explore wintery Neuchâtel comfortably using public transportation. Heated buses and funiculars take you to the city's cultural highlights. Enjoy the lakeside views from the warmth of your carriage. Finish with a trip to the snowy heights of Chaumont."
+          },
+          "stops": [
+            {
+              "name": "Place Pury (Old Town Cluster Starting Point)",
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre Tour an diesem belebten, festlich dekorierten Platz.",
+                "hu": "Kezdje a túrát ezen a nyüzsgő, ünnepi díszbe öltözött téren.",
+                "ro": "Începeți turul în această piață animată, decorată festiv.",
+                "en": "Start your tour at this bustling square, often festively decorated."
+              }
+            },
+            {
+              "name": "Place des Halles & Town Hall",
+              "tip_5lang": {
+                "de": "Die kurzen Wege zwischen den Haltestellen minimieren die Kälte.",
+                "hu": "A megállók közötti rövid utak minimalizálják a hideget.",
+                "ro": "Distanțele scurte între stații reduc expunerea la frig.",
+                "en": "The short walking distances between stops minimize time in the cold."
+              }
+            },
+            {
+              "name": "Collegiate Church & Neuchâtel Castle",
+              "tip_5lang": {
+                "de": "Die Fun'ambule ist im Winter ein wohlis warmes Transportmittel.",
+                "hu": "A Fun'ambule télen kellemesen meleg közlekedési eszköz.",
+                "ro": "Fun'ambule este un mijloc de transport plăcut și cald pe timp de iarnă.",
+                "en": "The Fun'ambule funicular is a comfortably warm way to travel in winter."
+              }
+            },
+            {
+              "name": "Laténium (Lakefront Cluster)",
+              "tip_5lang": {
+                "de": "Der Bus bringt Sie direkt zur archäologischen Reise in die Vergangenheit.",
+                "hu": "A busz közvetlenül a múltba tett régészeti utazáshoz viszi.",
+                "ro": "Autobuzul vă duce direct la călătoria arheologică în trecut.",
+                "en": "The bus drops you off directly for your archaeological journey into the past."
+              }
+            },
+            {
+              "name": "Chaumont (Mountain Cluster)",
+              "tip_5lang": {
+                "de": "Die Fahrt nach oben bietet tolle Blicke auf die oft verschneiten Dächer.",
+                "hu": "A felfelé tartó út remek kilátást nyújt a gyakran hófödte tetőkre.",
+                "ro": "Urcarea oferă vederi superbe asupra acoperișurilor adesea înzăpezite.",
+                "en": "The ride up offers great views of the often snow-covered rooftops."
+              }
+            },
+            {
+              "name": "Lookout Tower",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft und den weiten Blick über das Drei-Seen-Land.",
+                "hu": "Élvezze a tiszta téli levegőt és a tágas kilátást a Három-tó vidékére.",
+                "ro": "Bucurați-vă de aerul curat de iarnă și de vederea largă peste regiunea celor trei lacuri.",
+                "en": "Enjoy the crisp winter air and the vast view over the Three Lakes region."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse und Bahnen sind im Winter gut geheizt und sehr pünktlich.",
+              "Die Standseilbahn zum Chaumont fährt alle 15-30 Minuten.",
+              "Nutzen Sie die Wartezeiten für einen schnellen heißen Kakao.",
+              "Achten Sie auf geänderte Fahrpläne an Feiertagen."
+            ],
+            "hu": [
+              "A buszok és vonatok télen jól fűtöttek és nagyon pontosak.",
+              "A Chaumont-ba tartó sikló 15-30 percenként közlekedik.",
+              "Használja ki a várakozási időt egy gyors forró kakaóra.",
+              "Ügyeljen az ünnepek alatti módosított menetrendre."
+            ],
+            "ro": [
+              "Autobuzele și trenurile sunt bine încălzite și foarte punctuale iarna.",
+              "Funicularul spre Chaumont circulă la fiecare 15-30 de minute.",
+              "Folosiți timpii de așteptare pentru o ciocolată caldă rapidă.",
+              "Atenție la orarele modificate în timpul sărbătorilor."
+            ],
+            "en": [
+              "Buses and funiculars are well-heated and very punctual in winter.",
+              "The funicular to Chaumont runs every 15-30 minutes.",
+              "Use the waiting times for a quick hot chocolate break.",
+              "Be aware of modified transit schedules during public holidays."
+            ]
+          }
+        }
       }
     }
   }

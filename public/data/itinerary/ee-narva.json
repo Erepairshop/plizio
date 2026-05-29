@@ -317,7 +317,215 @@
           "name": "Fama Keskus",
           "tip": "A modern shopping center for everyday needs."
         }
-      ]
+      ],
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Rathaus, wo das Vordach Schutz bietet. Die Auferstehungskathedrale ist ein trockener Zufluchtsort am Vormittag. Mittags bietet das Innere der Hermannsfestung stundenlange Erkundungen ohne Regen. Nachmittags sind die Kasematten der Victoria-Bastion ideal, da sie komplett unterirdisch und trocken sind. Der Tag endet mit einem kurzen, erfrischenden Spaziergang durch den nassen Puschkin-Park.",
+            "hu": "Kezdje a városházánál, ahol az épület árkádjai alatt várakozhat. A feltámadás-székesegyház békés és száraz menedék délelőtt. Ebédidőben a Narva-vár belső kiállításai órákig tartó programot kínálnak az eső elől elzárva. Délután a Viktória-bástya kazamatái a legjobbak, hiszen a föld alatt teljesen védettek. A napot egy rövid, frissítő séta zárja a vizes Puskin-parkban.",
+            "ro": "Începeți la Primărie, unde porticul oferă adăpost inițial. Catedrala Învierii este un refugiu uscat și liniștit dimineața. La prânz, interiorul Castelului Hermann oferă ore de explorare ferite de ploaie. După-amiaza, casematele Bastionului Victoria sunt ideale, fiind complet subterane și uscate. Ziua se încheie cu o scurtă plimbare revigorantă prin Parcul Pușkin, sub protecția umbrelei.",
+            "en": "Start at the Town Hall, utilizing the building's overhangs. The Resurrection Cathedral is a dry and peaceful refuge in the morning. At noon, the interior of Hermann Castle offers hours of exploration away from the rain. In the afternoon, the Victoria Bastion casemates are perfect as they are completely underground and dry. The day ends with a short, refreshing walk through the wet Pushkin Park."
+          },
+          "stops": [
+            {
+              "name": "Narva Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Haupteingang als Unterstand bei plötzlichen Schauern.",
+                "hu": "Használja a főbejáratot menedékként hirtelen zápor esetén.",
+                "ro": "Folosiți intrarea principală ca adăpost în caz de averse bruște.",
+                "en": "Use the main entrance as a shelter during sudden showers."
+              }
+            },
+            {
+              "name": "Resurrection Cathedral",
+              "tip_5lang": {
+                "de": "Ein ruhiger, warmer Ort, um die Regenkleidung kurz zu ordnen.",
+                "hu": "Csendes, meleg hely az esőruházat elrendezéséhez.",
+                "ro": "Un loc liniștit și cald pentru a vă aranja echipamentul de ploaie.",
+                "en": "A quiet, warm place to briefly organize your rain gear."
+              }
+            },
+            {
+              "name": "Hermann Castle",
+              "tip_5lang": {
+                "de": "Verbringen Sie die meiste Zeit in den Ausstellungsräumen des Nordflügels.",
+                "hu": "Töltse az időt az északi szárny kiállítótermeiben.",
+                "ro": "Petreceți majoritatea timpului în sălile de expoziție din aripa de nord.",
+                "en": "Spend most of your time in the exhibition halls of the North Wing."
+              }
+            },
+            {
+              "name": "The Swedish Lion Monument",
+              "tip_5lang": {
+                "de": "Achtung, der Aussichtspunkt ist ungeschützt und windig bei Regen.",
+                "hu": "Vigyázat, a kilátópont nyitott és szeles esőben.",
+                "ro": "Atenție, punctul de observație este expus și vântos pe ploaie.",
+                "en": "Caution, the viewpoint is exposed and windy during rain."
+              }
+            },
+            {
+              "name": "Narva River Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Pflaster direkt am Flussufer.",
+                "hu": "Vigyázzon a csúszós burkolatra közvetlenül a folyóparton.",
+                "ro": "Atenție la pavajul alunecos direct de pe malul râului.",
+                "en": "Watch out for slippery pavement directly on the riverbank."
+              }
+            },
+            {
+              "name": "Victoria Bastion",
+              "tip_5lang": {
+                "de": "Die unterirdischen Gänge sind der beste Regenschutz der Stadt.",
+                "hu": "A föld alatti folyosók a város legjobb esővédő helyszínei.",
+                "ro": "Coridoarele subterane sunt cel mai bun adăpost din oraș.",
+                "en": "The underground passages are the city's best rain shelter."
+              }
+            },
+            {
+              "name": "Pushkin Park",
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen bieten nur begrenzten Schutz vor Nässe.",
+                "hu": "A sűrű lombok csak korlátozott védelmet nyújtanak az eső ellen.",
+                "ro": "Coroanele dese ale copacilor oferă protecție limitată.",
+                "en": "The dense tree canopies offer limited protection from the wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Uferpromenade.",
+              "Die Hermannsfestung hat eine ausgezeichnete Garderobe für nasse Mäntel.",
+              "Die Kasematten der Victoria-Bastion sind konstant trocken und windstill.",
+              "Suchen Sie bei starkem Regen Cafés in der Nähe der Puschkinstraße auf.",
+              "Ein Taschenregenschirm ist wegen der Windböen am Fluss unverzichtbar."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a folyóparti sétányhoz.",
+              "A Narva-várban kiváló ruhatár működik a vizes kabátoknak.",
+              "A Viktória-bástya kazamatái állandóan szárazak és szélmentesek.",
+              "Heves esőben keressen kávézót a Puskin utca közelében.",
+              "A folyó felőli széllökések miatt az összecsukható esernyő elengedhetetlen."
+            ],
+            "ro": [
+              "Purtați pantofi de drumeție impermeabili pentru faleză.",
+              "Castelul Hermann are o garderobă excelentă pentru haine ude.",
+              "Casematele Bastionului Victoria sunt constant uscate și fără vânt.",
+              "Căutați cafenele în apropierea străzii Pușkin în caz de ploaie torențială.",
+              "O umbrelă de buzunar este esențială din cauza rafalelor de pe râu."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the river promenade.",
+              "Hermann Castle has an excellent cloakroom for wet coats.",
+              "The Victoria Bastion casemates are constantly dry and windless.",
+              "Look for cafes near Pushkin Street during heavy downpours.",
+              "A pocket umbrella is essential due to wind gusts from the river."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das frostige Rathaus glänzt im Morgenlicht. Die Kathedrale bietet danach wohlige Wärme und Kerzenschein. Mittags ist die Hermannsfestung ein beeindruckendes Denkmal im Schnee, wobei die dicken Mauern vor dem eisigen Ostwind schützen. Der Nachmittag am Fluss ist kurz, da die Dämmerung früh einsetzt, aber die beleuchteten Bastionen bieten eine magische Kulisse. Der Tag endet gemütlich in der Nähe des verschneiten Puschkin-Parks.",
+            "hu": "A fagyos városháza csillog a reggeli fényben. A székesegyház ezután barátságos meleget és gyertyafényt kínál. Napközben a Narva-vár lenyűgöző látvány a hóban, vastag falai pedig védenek a jeges keleti széltől. A folyóparti délután rövid a korai sötétedés miatt, de a kivilágított bástyák mágikus hátteret adnak. A nap a havas Puskin-park közelében ér véget.",
+            "ro": "Primăria înghețată strălucește în lumina dimineții. Catedrala oferă apoi căldură primitoare și lumină de lumânări. La prânz, Castelul Hermann este un monument impresionant în zăpadă, zidurile groase protejând de vântul înghețat din est. După-amiaza la râu este scurtă din cauza amurgului timpuriu, dar bastioanele iluminate oferă un decor magic. Ziua se încheie confortabil lângă Parcul Pușkin înzăpezit.",
+            "en": "The frosty Town Hall glistens in the morning light. The Cathedral offers cozy warmth and candlelight afterwards. At noon, Hermann Castle is an impressive monument in the snow, with its thick walls protecting against the icy east wind. The afternoon by the river is short due to early sunset, but the illuminated bastions provide a magical backdrop. The day ends comfortably near the snowy Pushkin Park."
+          },
+          "stops": [
+            {
+              "name": "Narva Town Hall",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eiszapfen an den Dachrinnen des Gebäudes.",
+                "hu": "Vigyázzon az épület ereszeiről lelógó jégcsapokra.",
+                "ro": "Atenție la țurțurii de gheață de pe streșinile clădirii.",
+                "en": "Watch out for icicles on the building's gutters."
+              }
+            },
+            {
+              "name": "Resurrection Cathedral",
+              "tip_5lang": {
+                "de": "Der Innenraum ist beheizt und ideal zum Aufwärmen.",
+                "hu": "A belső tér fűtött, ideális egy kis felmelegedéshez.",
+                "ro": "Interiorul este încălzit și ideal pentru a vă încălzi.",
+                "en": "The interior is heated and ideal for warming up."
+              }
+            },
+            {
+              "name": "Hermann Castle",
+              "tip_5lang": {
+                "de": "Der Schlosshof kann sehr rutschig sein; nutzen Sie die Geländer.",
+                "hu": "A várudvar nagyon csúszós lehet; használja a korlátokat.",
+                "ro": "Curtea castelului poate fi foarte alunecoasă; folosiți balustradele.",
+                "en": "The castle courtyard can be very slippery; use the handrails."
+              }
+            },
+            {
+              "name": "The Swedish Lion Monument",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den zugefrorenen Fluss Narva.",
+                "hu": "Élvezze a kilátást a befagyott Narva-folyóra.",
+                "ro": "Bucurați-vă de vederea spre râul Narva înghețat.",
+                "en": "Enjoy the view of the frozen Narva River."
+              }
+            },
+            {
+              "name": "Narva River Promenade",
+              "tip_5lang": {
+                "de": "Der Wind vom Fluss her ist im Winter extrem schneidend.",
+                "hu": "A folyó felőli szél télen rendkívül metsző.",
+                "ro": "Vântul dinspre râu este extrem de tăios în timpul iernii.",
+                "en": "The wind from the river is extremely biting in winter."
+              }
+            },
+            {
+              "name": "Victoria Bastion",
+              "tip_5lang": {
+                "de": "In den Kasematten herrscht eine konstante Temperatur über Null.",
+                "hu": "A kazamatákban állandó, fagypont feletti hőmérséklet van.",
+                "ro": "În casemate există o temperatură constantă peste zero grade.",
+                "en": "In the casemates, there is a constant temperature above freezing."
+              }
+            },
+            {
+              "name": "Pushkin Park",
+              "tip_5lang": {
+                "de": "Die Parkwege werden bei Dunkelheit stimmungsvoll beleuchtet.",
+                "hu": "A park ösvényeit sötétedéskor hangulatosan kivilágítják.",
+                "ro": "Potecile parcului sunt iluminate atmosferic la lăsarea întunericului.",
+                "en": "The park paths are atmospherically lit at nightfall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 15:30 Uhr unter.",
+              "Tragen Sie Thermounterwäsche; der Wind am Grenzfluss ist eisig.",
+              "Die Museen sind montags und dienstags oft geschlossen; prüfen Sie die Zeiten.",
+              "Heißer Tee in der Nähe der Astri-Einkaufsmeile ist ein Muss.",
+              "Spikes für die Schuhe sind auf den Bastionswegen sehr hilfreich."
+            ],
+            "hu": [
+              "A nap decemberben már délután fél 4 körül lemegy.",
+              "Viseljen termo-aláöltözetet; a határfolyó menti szél jeges.",
+              "A múzeumok hétfőn és kedden gyakran zárva tartanak; ellenőrizze.",
+              "Egy forró tea az Astri bevásárlóközpont közelében kötelező program.",
+              "A cipőre csatolható csúszásgátló nagyon hasznos a bástyák útjain."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 15:30 în luna decembrie.",
+              "Purtați lenjerie termică; vântul de-a lungul râului de graniță este înghețat.",
+              "Muzeele sunt adesea închise lunea și marțea; verificați orarul.",
+              "Un ceai fierbinte lângă centrul comercial Astri este obligatoriu.",
+              "Crampoanele pentru pantofi sunt foarte utile pe potecile bastioanelor."
+            ],
+            "en": [
+              "The sun sets as early as 15:30 in December.",
+              "Wear thermal underwear; the wind along the border river is icy.",
+              "Museums are often closed on Mondays and Tuesdays; check times.",
+              "Hot tea near the Astri shopping area is a must.",
+              "Shoe spikes are very helpful on the bastion paths."
+            ]
+          }
+        }
+      }
     },
     "bike": {
       "mode": "bike",
@@ -471,6 +679,196 @@
         "hu": "Pattanjon kerékpárra és induljon a Városházától. A délelőtt a Hermann-várhoz és a folyóparti sétányra vezet. Fedezze fel az erődítményeket, mielőtt hosszabb túrára indulna a Siivertsi emlékműhöz és a lenyűgöző Kreenholm Manufaktúrához. Délután térjen vissza a városközpontba, és zárja a napot a Puskin parkban.",
         "ro": "Urcați-vă pe bicicletă și porniți de la Primărie. Dimineața vă duce la Castelul Hermann și de-a lungul promenadei râului. Explorați fortificațiile înainte de a face un tur mai lung la Monumentul Siivertsi și la impresionanta Manufactură Kreenholm. După-amiaza, reveniți în centrul orașului și încheiați ziua în Parcul Pușkin.",
         "en": "Get on your bike and start at the Town Hall. The morning takes you to Hermann Castle and along the river promenade. Explore the fortifications before taking a longer tour to the Siivertsi Memorial and the impressive Kreenholm Manufacturing Company. In the afternoon, return to the city center and end the day in Pushkin Park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour durch Narva erfordert Vorsicht. Vom Rathaus geht es schnell zur Burg, wo überdachte Fahrradständer zur Verfügung stehen. Die Fahrt entlang der Promenade ist bei Regen sehr windig. Ein Ausflug zum Kreenholm-Viertel führt über asphaltierte Straßen, die bei Nässe rutschig sein können. Den Abschluss bildet der Puschkin-Park mit festen Wegen.",
+            "hu": "A vizes kerékpártúra Narvában óvatosságot igényel. A városházától gyorsan a várhoz érünk, ahol fedett tárolók állnak rendelkezésre. A folyóparti tekerés esőben nagyon szeles. A Kreenholm-negyed felé vezető aszfaltozott utak nedvesen csúszhatnak. A túrát a Puskin-park szilárd burkolatú útjai zárják.",
+            "ro": "O tură cu bicicleta prin Narva pe ploaie necesită prudență. De la Primărie ajungeți rapid la castel, unde există suporturi acoperite. Mersul pe faleză este foarte vântos când plouă. Excursia spre districtul Kreenholm urmează drumuri asfaltate care pot fi alunecoase. Finalul are loc în Parcul Pușkin, pe alei consolidate.",
+            "en": "A wet bike tour through Narva requires caution. From the Town Hall, head quickly to the castle where covered bike racks are available. Cycling along the promenade is very windy in the rain. A trip to the Kreenholm district follows paved roads that can be slippery when wet. The tour ends in Pushkin Park with its firm paths."
+          },
+          "stops": [
+            {
+              "name": "Narva Town Hall",
+              "tip_5lang": {
+                "de": "Parken Sie unter dem Vordach, um den Sattel trocken zu halten.",
+                "hu": "Parkoljon az előtető alatt, hogy a nyereg száraz maradjon.",
+                "ro": "Parcați sub copertină pentru a menține șaua uscată.",
+                "en": "Park under the overhang to keep your saddle dry."
+              }
+            },
+            {
+              "name": "Hermann Castle & River Promenade",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam; das Kopfsteinpflaster im Schlosshof ist glatt.",
+                "hu": "Hajtson lassan; a várudvar macskakövei csúsznak.",
+                "ro": "Conduceți încet; pavajul din curtea castelului este alunecos.",
+                "en": "Drive slowly; the cobblestones in the castle courtyard are slick."
+              }
+            },
+            {
+              "name": "Victoria Bastion",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den Kasematteneingängen bei Starkregen.",
+                "hu": "Keressen menedéket a kazamaták bejáratánál heves esőben.",
+                "ro": "Căutați adăpost la intrările casematelor în caz de ploaie torențială.",
+                "en": "Seek shelter at the casemate entrances during heavy rain."
+              }
+            },
+            {
+              "name": "Siivertsi Memorial",
+              "tip_5lang": {
+                "de": "Die Zufahrt über den Radweg kann Pfützen aufweisen.",
+                "hu": "A kerékpárúton pocsolyák alakulhatnak ki.",
+                "ro": "Pe pista de biciclete pot apărea bălți mari.",
+                "en": "Puddles may form on the bike path access."
+              }
+            },
+            {
+              "name": "Kreenholm Manufacturing Company",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad im überdachten Bereich des Haupteingangs an.",
+                "hu": "Zárja le kerékpárját a főbejárat fedett részénél.",
+                "ro": "Încuiați bicicleta în zona acoperită a intrării principale.",
+                "en": "Lock your bike in the covered area of the main entrance."
+              }
+            },
+            {
+              "name": "Pushkin Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Fahren auf den nassen Rasenflächen.",
+                "hu": "Kerülje a kerékpározást a vizes gyepen.",
+                "ro": "Evitați să mergeți cu bicicleta pe porțiunile de iarbă umedă.",
+                "en": "Avoid cycling on the wet grassy areas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt zum Flussufer.",
+              "Vermeiden Sie metallene Schachtdeckel auf der Fahrbahn.",
+              "Wasserdichte Packtaschen sind für Kameras und Handys nötig.",
+              "Die Promenade hat separate, aber bei Regen rutschige Radspuren."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felverődő víz ellen.",
+              "Ellenőrizze a fékeket a folyóparti lejtő előtt.",
+              "Kerülje a fémes csatornafedeleket az úttesten.",
+              "Vízálló táska szükséges a fényképezőgépnek és telefonnak.",
+              "A sétányon külön kerékpársáv van, de esőben csúszik."
+            ],
+            "ro": [
+              "Folosiți aripi de protecție împotriva stropilor de apă.",
+              "Verificați frânele înainte de coborârea spre faleză.",
+              "Evitați capacele de canal metalice de pe carosabil.",
+              "Sunt necesare genți impermeabile pentru aparate foto și telefoane.",
+              "Faleza are benzi de biciclete separate, dar alunecoase pe ploaie."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from water splashes.",
+              "Check your brakes before the descent to the riverbank.",
+              "Avoid metal manhole covers on the roadway.",
+              "Waterproof panniers are necessary for cameras and phones.",
+              "The promenade has separate bike lanes, but they are slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im winterlichen Narva ist eine sportliche Herausforderung. Die Wege zum Rathaus sind meist geräumt. Die Burg wirkt im Winterschlaf majestätisch, aber Vorsicht vor vereisten Stellen. Die Fahrt nach Siivertsi bietet klare Luft und Frostpanoramen. Kreenholm ist per Rad gut erreichbar, wenn man auf die Hauptstraßen achtet. Der Abschluss im Puschkin-Park ist wegen der Kälte kurz.",
+            "hu": "A téli kerékpározás Narvában sportos kihívás. A városházához vezető utakat általában takarítják. A vár fenséges a téli álomban, de vigyázzon a jeges foltokkal. Siivertsi felé tiszta levegő és zúzmarás panoráma várja. Kreenholm jól elérhető, ha a főutakra koncentrálunk. A Puskin-parki befejezés a hideg miatt rövid lesz.",
+            "ro": "Mersul cu bicicleta în Narva iarna este o provocare sportivă. Drumurile spre Primărie sunt de obicei curățate. Castelul arată maiestuos, dar atenție la porțiunile înghețate. Drumul spre Siivertsi oferă aer curat și panorame înghețate. Kreenholm este accesibil dacă rămâneți pe străzile principale. Finalul în Parcul Pușkin va fi scurt din cauza frigului.",
+            "en": "Cycling in winter Narva is a sporty challenge. Paths to the Town Hall are mostly cleared. The castle looks majestic in its winter sleep, but watch out for icy patches. The ride to Siivertsi offers crisp air and frosty panoramas. Kreenholm is accessible if you stick to the main roads. The finish in Pushkin Park will be brief due to the cold."
+          },
+          "stops": [
+            {
+              "name": "Narva Town Hall",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken in hohen Schneewächten.",
+                "hu": "Kerülje a parkolást a magas hóbuckákban.",
+                "ro": "Evitați parcarea în troienele mari de zăpadă.",
+                "en": "Avoid parking in high snowdrifts."
+              }
+            },
+            {
+              "name": "Hermann Castle & River Promenade",
+              "tip_5lang": {
+                "de": "Achtung vor Glatteis unter der dünnen Schneedecke.",
+                "hu": "Vigyázzon a vékony hóréteg alatti jégbordákra.",
+                "ro": "Atenție la poleiul de sub stratul subțire de zăpadă.",
+                "en": "Beware of black ice under the thin snow cover."
+              }
+            },
+            {
+              "name": "Victoria Bastion",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher ab; die Wege können schmal sein.",
+                "hu": "Biztonságosan támassza le a biciklit; az utak keskenyek lehetnek.",
+                "ro": "Parcați bicicleta în siguranță; potecile pot fi înguste.",
+                "en": "Park the bike securely; the paths can be narrow."
+              }
+            },
+            {
+              "name": "Siivertsi Memorial",
+              "tip_5lang": {
+                "de": "Der Radweg entlang der Fernstraße kann windanfällig sein.",
+                "hu": "Az országút melletti kerékpárút nagyon szeles lehet.",
+                "ro": "Pista de biciclete de lângă șosea poate fi expusă vântului.",
+                "en": "The bike path along the highway can be prone to wind."
+              }
+            },
+            {
+              "name": "Kreenholm Manufacturing Company",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Hauptstraßen, da diese am besten geräumt sind.",
+                "hu": "Használja a főutakat, mert azokat takarítják a legjobban.",
+                "ro": "Folosiți străzile principale, sunt cele mai bine curățate.",
+                "en": "Use main roads as they are best cleared of snow."
+              }
+            },
+            {
+              "name": "Pushkin Park",
+              "tip_5lang": {
+                "de": "Die Wege können bei Tauwetter sehr matschig werden.",
+                "hu": "Az utak olvadáskor nagyon sárosak lehetnek.",
+                "ro": "Aleile pot deveni foarte noroioase în caz de dezgheț.",
+                "en": "The paths can become very muddy during a thaw."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen für Fahrräder sind in Estland sehr empfehlenswert.",
+              "Halten Sie die Kette gut geölt gegen Streusalzschäden.",
+              "Batteriebetriebene Lichter entladen sich bei Kälte schneller.",
+              "Tragen Sie winddichte Handschuhe für die Abfahrten.",
+              "Verkürzen Sie die Fahrzeit; die Dunkelheit kommt sehr früh."
+            ],
+            "hu": [
+              "A téli gumi kerékpárokhoz nagyon ajánlott Észtországban.",
+              "Tartsa a láncot olajozottan az útszóró só ellen.",
+              "Az akkumulátoros lámpák gyorsabban merülnek a hidegben.",
+              "Viseljen szélálló kesztyűt a lejtőkhöz.",
+              "Rövidítse le a menetidőt; a sötétség korán beköszönt."
+            ],
+            "ro": [
+              "Anvelopele de iarnă pentru biciclete sunt recomandate în Estonia.",
+              "Păstrați lanțul bine uns împotriva coroziunii de la sare.",
+              "Luminile cu baterie se descarcă mai repede la frig.",
+              "Purtați mănuși rezistente la vânt pentru coborâri.",
+              "Scurtați timpul de mers; întunericul vine foarte devreme."
+            ],
+            "en": [
+              "Winter tires for bicycles are highly recommended in Estonia.",
+              "Keep the chain well-oiled against road salt damage.",
+              "Battery-powered lights discharge faster in the cold.",
+              "Wear windproof gloves for the descents.",
+              "Shorten your riding time; darkness comes very early."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -631,6 +1029,196 @@
         "hu": "Használja autóját Narva különböző klasztereinek felfedezéséhez. Kezdje a távoli, de lenyűgöző Kreenholm Manufaktúránál. Ezután vezessen a Vár-klaszterhez, parkoljon le, és fedezze fel gyalog a Hermann-várat és a folyóparti sétányt. Az utolsó autós megálló az Óváros-klaszterbe vezet, ahol felfedezheti a Városházát és a Viktória-bástya kiterjedt erődítményeit. Ez a módszer ötvözi a vezetés kényelmét az intenzív sétákkal.",
         "ro": "Folosiți mașina pentru a explora diferite clustere din Narva. Începeți cu îndepărtata, dar fascinanta Manufactură Kreenholm. Apoi, conduceți spre clusterul Castelului, parcați și explorați pe jos Castelul Hermann și promenada râului. Ultima oprire cu mașina vă duce la clusterul Orașului Vechi, unde puteți descoperi Primăria și fortificațiile extinse ale Bastionului Victoria. Această metodă combină confortul condusului cu plimbări intense.",
         "en": "Use your car to explore different clusters of Narva. Start at the remote but fascinating Kreenholm Manufacturing Company. Then drive to the Castle cluster, park, and explore Hermann Castle and the river promenade on foot. The final car stop takes you to the Old Town cluster, where you can discover the Town Hall and the extensive fortifications of the Victoria Bastion. This method combines driving comfort with intense walks."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist Narva bei Regen komfortabel zu erkunden. Beginnen Sie im Kreenholm-Viertel, wo Parkplätze direkt vor dem Eingang liegen. Die Fahrt zum Hermannsschloss führt durch das Stadtzentrum, wobei Sie trocken bleiben. Parken Sie am Rathausplatz für einen kurzen Sprint ins Gebäude. Die Bastionen sind per Auto leicht erreichbar, und die Parkplätze sind meist gut asphaltiert.",
+            "hu": "Autóval Narva esőben is kényelmesen felfedezhető. Kezdjen a Kreenholm-negyedben, ahol a parkolók közvetlenül a bejáratnál vannak. Az út a várhoz a belvároson át vezet, így szárazon marad. Parkoljon a Városháza téren egy rövid sprinthez az épületig. A bástyák autóval könnyen elérhetők, a parkolók többnyire aszfaltozottak.",
+            "ro": "Cu mașina, Narva este confortabil de explorat pe ploaie. Începeți în districtul Kreenholm, unde parcările sunt chiar la intrare. Drumul spre Castelul Hermann trece prin centrul orașului, menținându-vă uscat. Parcați în Piața Primăriei pentru un sprint scurt până la clădire. Bastioanele sunt ușor accesibile, iar parcările sunt în mare parte asfaltate.",
+            "en": "By car, Narva is comfortable to explore in the rain. Start in the Kreenholm district, where parking lots are right by the entrance. The drive to Hermann Castle goes through the city center, keeping you dry. Park at the Town Hall Square for a short sprint to the building. The bastions are easily accessible by car, and the parking lots are mostly paved."
+          },
+          "stops": [
+            {
+              "name": "Kreenholm Cluster: Kreenholm Manufacturing",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden; idealer Startpunkt bei Regen.",
+                "hu": "Nagy parkoló áll rendelkezésre; ideális kezdőpont esőben.",
+                "ro": "Parcare mare disponibilă; punct de plecare ideal pe ploaie.",
+                "en": "Large parking lot available; ideal starting point in the rain."
+              }
+            },
+            {
+              "name": "Castle Cluster: Hermann Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz P1 direkt neben dem Festungseingang.",
+                "hu": "Használja a P1 parkolót közvetlenül a várbejárat mellett.",
+                "ro": "Folosiți parcarea P1 direct lângă intrarea în cetate.",
+                "en": "Use the P1 parking lot directly next to the fortress entrance."
+              }
+            },
+            {
+              "name": "Castle Cluster: Narva River Promenade",
+              "tip_5lang": {
+                "de": "Parken Sie oben an der Straße, um weite Wege zu vermeiden.",
+                "hu": "Parkoljon fent az utcán, hogy elkerülje a hosszú gyaloglást.",
+                "ro": "Parcați sus pe stradă pentru a evita distanțele lungi.",
+                "en": "Park up on the street to avoid walking long distances."
+              }
+            },
+            {
+              "name": "Castle Cluster: The Swedish Lion Monument",
+              "tip_5lang": {
+                "de": "Kurzes Halten zum Fotografieren ist meist möglich.",
+                "hu": "Rövid megállás fotózáshoz általában lehetséges.",
+                "ro": "Oprirea scurtă pentru fotografii este de obicei permisă.",
+                "en": "Short stopping for photos is usually possible."
+              }
+            },
+            {
+              "name": "Old Town Cluster: Narva Town Hall",
+              "tip_5lang": {
+                "de": "Der Platz vor dem Rathaus kann bei Regen Pfützen bilden.",
+                "hu": "A városháza előtti téren pocsolyák alakulhatnak ki.",
+                "ro": "Piața din fața primăriei poate avea bălți mari.",
+                "en": "The square in front of the Town Hall can have puddles."
+              }
+            },
+            {
+              "name": "Old Town Cluster: Victoria Bastion",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist beleuchtet und nah am Kasematteneingang.",
+                "hu": "A parkoló kivilágított és közel van a kazamatákhoz.",
+                "ro": "Parcarea este iluminată și aproape de intrarea casematelor.",
+                "en": "The parking lot is lit and close to the casemate entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sicht kann bei starkem Regen am Flussufer eingeschränkt sein.",
+              "Vermeiden Sie das Parken unter alten Bäumen bei Sturm.",
+              "Nutzen Sie die Parkhäuser der Einkaufszentren als trockene Basis.",
+              "Die Straßen im alten Kreenholm-Viertel sind teilweise schmal.",
+              "Halten Sie die Scheibenheizung bereit gegen Beschlagen."
+            ],
+            "hu": [
+              "A látótávolság heves esőben korlátozott lehet a folyóparton.",
+              "Viharos esőben kerülje a parkolást öreg fák alatt.",
+              "Használja a plázák mélygarázsait száraz bázisként.",
+              "Az ó-Kreenholm negyed utcái részben szűkek.",
+              "Készítse elő a szélvédőfűtést a párosodás ellen."
+            ],
+            "ro": [
+              "Vizibilitatea poate fi redusă pe malul râului în caz de ploaie.",
+              "Evitați parcarea sub copaci bătrâni în caz de furtună.",
+              "Folosiți parcările mall-urilor ca bază uscată.",
+              "Străzile din districtul vechi Kreenholm sunt parțial înguste.",
+              "Țineți dezaburirea pregătită pentru parbriz."
+            ],
+            "en": [
+              "Visibility can be limited by the river during heavy rain.",
+              "Avoid parking under old trees during storms.",
+              "Use shopping mall parking garages as a dry base.",
+              "The streets in the old Kreenholm district are partially narrow.",
+              "Keep the windshield heater ready to prevent fogging."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Sightseeing per Auto ist in Narva die wärmste Option. Kreenholm wirkt im Schnee wie eine Filmkulisse. Die Fahrt zur Burg bietet spektakuläre Ausblicke auf die vereiste Narva und Ivangorod. Parkplätze in der Altstadt sind meist gut geräumt, aber Vorsicht beim Rangieren. Der Tag endet sicher und warm, während Sie die beleuchtete Stadt durch das Autofenster genießen.",
+            "hu": "Az autós téri városnézés a legmelegebb opció Narvában. Kreenholm a hóban úgy néz ki, mint egy díszlet. Az út a várhoz látványos kilátást nyújt a befagyott folyóra és Ivangorodra. Az óvárosi parkolókat takarítják, de vigyázzon a manőverezésnél. A nap biztonságban és melegben ér véget, miközben az autó ablakából csodálja a kivilágított várost.",
+            "ro": "Vizitarea orașului iarna cu mașina este cea mai călduroasă opțiune în Narva. Kreenholm arată ca un decor de film în zăpadă. Drumul spre castel oferă vederi spectaculoase spre râul înghețat și Ivangorod. Parcările din orașul vechi sunt curățate, dar atenție la manevre. Ziua se încheie în siguranță și căldură, admirând orașul iluminat de la fereastră.",
+            "en": "Winter sightseeing by car is the warmest option in Narva. Kreenholm looks like a movie set in the snow. The drive to the castle offers spectacular views of the frozen river and Ivangorod. Old town parking lots are mostly cleared, but be careful when maneuvering. The day ends safely and warmly as you enjoy the illuminated city from the car window."
+          },
+          "stops": [
+            {
+              "name": "Kreenholm Cluster: Kreenholm Manufacturing",
+              "tip_5lang": {
+                "de": "Die Parkflächen können vereist sein; Vorsicht beim Aussteigen.",
+                "hu": "A parkolófelületek jegesek lehetnek; vigyázzon a kiszállásnál.",
+                "ro": "Suprafețele de parcare pot fi înghețate; atenție la coborâre.",
+                "en": "Parking surfaces may be icy; be careful when getting out."
+              }
+            },
+            {
+              "name": "Castle Cluster: Hermann Castle",
+              "tip_5lang": {
+                "de": "Parken Sie nicht zu nah an Schneehaufen (Gefahr des Festfahrens).",
+                "hu": "Ne parkoljon túl közel a hórakásokhoz (elakadásveszély).",
+                "ro": "Nu parcați prea aproape de mormanele de zăpadă.",
+                "en": "Do not park too close to snowbanks (risk of getting stuck)."
+              }
+            },
+            {
+              "name": "Castle Cluster: Narva River Promenade",
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Promenade kann bei Glätte steil wirken.",
+                "hu": "A sétányhoz vezető emelkedő jegesedéskor meredeknek tűnhet.",
+                "ro": "Urcarea spre faleză poate părea abruptă în caz de polei.",
+                "en": "The access road to the promenade can feel steep when icy."
+              }
+            },
+            {
+              "name": "Castle Cluster: The Swedish Lion Monument",
+              "tip_5lang": {
+                "de": "Der Motor sollte wegen der Kälte nicht zu lange ausbleiben.",
+                "hu": "A hideg miatt ne hagyja túl sokáig leállítva a motort.",
+                "ro": "Nu lăsați motorul oprit prea mult timp din cauza frigului.",
+                "en": "Don't leave the engine off for too long due to the cold."
+              }
+            },
+            {
+              "name": "Old Town Cluster: Narva Town Hall",
+              "tip_5lang": {
+                "de": "Achten Sie auf eingeschränkte Parkflächen durch Schneeräumung.",
+                "hu": "Ügyeljen a hóeltakarítás miatt lezárt parkolóhelyekre.",
+                "ro": "Atenție la locurile de parcare limitate de deszăpezire.",
+                "en": "Watch out for parking areas restricted by snow removal."
+              }
+            },
+            {
+              "name": "Old Town Cluster: Victoria Bastion",
+              "tip_5lang": {
+                "de": "Die Zufahrt wird meist prioritär geräumt.",
+                "hu": "A behajtót általában prioritással takarítják.",
+                "ro": "Calea de acces este de obicei curățată cu prioritate.",
+                "en": "The access road is usually cleared with priority."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Estland vom 1. Dezember bis 1. März Pflicht.",
+              "Führen Sie einen Eiskratzer und einen kleinen Schneebesen mit.",
+              "Tanken Sie rechtzeitig; der Kraftstoffverbrauch steigt bei Kälte.",
+              "Achten Sie auf Fußgänger, die auf glatten Gehwegen ausrutschen könnten.",
+              "Die Brücke nach Russland kann zu Staus in der Innenstadt führen."
+            ],
+            "hu": [
+              "A téli gumi Észtországban december 1. és március 1. között kötelező.",
+              "Vigyen magával jégkaparót és egy kis hókefét.",
+              "Tankoljon időben; a fogyasztás nő a hidegben.",
+              "Ügyeljen a gyalogosokra, akik megcsúszhatnak a jeges járdán.",
+              "Az orosz határhíd forgalma torlódást okozhat a belvárosban."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Estonia între 1 dec și 1 mar.",
+              "Aveți la îndemână o răzuitoare de gheață și o perie de zăpadă.",
+              "Alimentați la timp; consumul crește semnificativ la frig.",
+              "Atenție la pietonii care pot aluneca pe trotuarele înghețate.",
+              "Podul spre Rusia poate cauza ambuteiaje în centrul orașului."
+            ],
+            "en": [
+              "Winter tires are mandatory in Estonia from Dec 1 to Mar 1.",
+              "Carry an ice scraper and a small snow brush with you.",
+              "Refuel in time; fuel consumption increases in the cold.",
+              "Watch out for pedestrians who might slip on icy sidewalks.",
+              "The bridge to Russia can cause traffic jams in the city center."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -813,6 +1401,196 @@
           "Check bus schedules in advance, especially for the trip to Kreenholm Manufacturing Company.",
           "Most central sights are easily accessible on foot within their clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus durch das verregnete Narva zu fahren, ist eine kluge Wahl. Die Haltestellen am Rathaus bieten Unterstand. Die Fahrt zur Kathedrale ist kurz und schützt vor dem Wind. Das Schloss erreichen Sie fast direkt von der Haltestelle aus. Nachmittags ist die Fahrt zum Kreenholm-Viertel eine gemütliche Art, die Stadt ohne nasse Füße zu sehen. Die Busse sind sauber und meist pünktlich.",
+            "hu": "Busszal utazni az esős Narvában okos döntés. A városházi megállók fedettek. Az út a székesegyházhoz rövid, és véd a széltől. A várat szinte közvetlenül a megállóból érheti el. Délután a Kreenholm-negyedbe tartó buszozás kényelmes módja a városnézésnek, vizes lábak nélkül. A buszok tiszták és többnyire pontosak.",
+            "ro": "Călătoria cu autobuzul prin Narva pe ploaie este o alegere înțeleaptă. Stațiile de la Primărie oferă adăpost. Drumul spre catedrală este scurt și vă protejează de vânt. Ajungeți la castel aproape direct din stație. După-amiaza, drumul spre Kreenholm este o modalitate confortabilă de a vedea orașul fără să vă udați. Autobuzele sunt curate și punctuale.",
+            "en": "Taking the bus through rainy Narva is a smart choice. The stops at the Town Hall offer shelter. The ride to the cathedral is short and protects you from the wind. You can reach the castle almost directly from the stop. In the afternoon, the ride to the Kreenholm district is a comfortable way to see the city without getting wet feet. Buses are clean and mostly on time."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Town Hall Square",
+              "tip_5lang": {
+                "de": "Die Wartehäuschen sind klein, aber meist windgeschützt.",
+                "hu": "A várótermek kicsik, de többnyire szélvédettek.",
+                "ro": "Refugiile din stații sunt mici, dar de obicei ferite de vânt.",
+                "en": "The bus shelters are small but usually wind-protected."
+              }
+            },
+            {
+              "name": "Center Cluster: Resurrection Cathedral",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt nur wenige Meter vom Eingang entfernt.",
+                "hu": "A megálló csak néhány méterre van a bejárattól.",
+                "ro": "Stația se află la doar câțiva metri de intrare.",
+                "en": "The stop is located just a few meters from the entrance."
+              }
+            },
+            {
+              "name": "Center Cluster: Victoria Bastion",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App, um die Wartezeit im Regen zu minimieren.",
+                "hu": "Használja az appot, hogy minimalizálja a várakozást az esőben.",
+                "ro": "Folosiți aplicația pentru a minimiza așteptarea în ploaie.",
+                "en": "Use the app to minimize waiting time in the rain."
+              }
+            },
+            {
+              "name": "Castle Cluster: Hermann Castle",
+              "tip_5lang": {
+                "de": "Die zentrale Haltestelle 'Peetri plats' ist ein wichtiger Umsteigepunkt.",
+                "hu": "A központi 'Peetri plats' megálló fontos átszállási pont.",
+                "ro": "Stația centrală 'Peetri plats' este un punct important de legătură.",
+                "en": "The central 'Peetri plats' stop is an important transfer point."
+              }
+            },
+            {
+              "name": "Castle Cluster: Narva River Promenade",
+              "tip_5lang": {
+                "de": "Vom Peetri-Platz führt ein kurzer, steiler Weg hinunter.",
+                "hu": "A Peetri tértől rövid, meredek út vezet lefelé.",
+                "ro": "De la Piața Peetri pornește un drum scurt și abrupt în jos.",
+                "en": "A short, steep path leads down from Peetri Square."
+              }
+            },
+            {
+              "name": "Kreenholm Cluster: Kreenholm Manufacturing",
+              "tip_5lang": {
+                "de": "Die Buslinie 2 fährt regelmäßig direkt zum Fabrikgelände.",
+                "hu": "A 2-es busz rendszeresen jár közvetlenül a gyártelephez.",
+                "ro": "Linia 2 de autobuz circulă regulat direct spre zona fabricii.",
+                "en": "Bus line 2 runs regularly directly to the factory site."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrkarten können meist kontaktlos beim Fahrer bezahlt werden.",
+              "Die Fahrpläne hängen an den großen Haltestellen aus.",
+              "Die zentrale Haltestelle Peetri plats bietet den besten Wetterschutz.",
+              "Busse sind im Stadtzentrum oft die schnellere Alternative zum Laufen.",
+              "Achten Sie auf Pfützen beim Ein- und Aussteigen am Bordstein."
+            ],
+            "hu": [
+              "A jegyek többsége érintésmentesen fizethető a sofőrnél.",
+              "A menetrendek ki vannak függesztve a nagyobb megállókban.",
+              "A Peetri plats központi megálló nyújtja a legjobb időjárás-védelmet.",
+              "A belvárosban a busz gyakran gyorsabb alternatíva a sétánál.",
+              "Ügyeljen a pocsolyákra a megállók padkáinál."
+            ],
+            "ro": [
+              "Biletele pot fi plătite contactless direct la șofer.",
+              "Orarele sunt afișate în stațiile principale.",
+              "Stația centrală Peetri plats oferă cea mai bună protecție contra vremii.",
+              "Autobuzele sunt adesea o alternativă mai rapidă în centru.",
+              "Atenție la bălți când urcați sau coborâți din autobuz."
+            ],
+            "en": [
+              "Tickets can usually be paid contactless with the driver.",
+              "Schedules are posted at the major bus stops.",
+              "The central Peetri plats stop offers the best weather protection.",
+              "Buses are often a faster alternative to walking in the city center.",
+              "Watch out for puddles at the curb when boarding or alighting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind im Winter in Narva ein Segen. Die warmen Busse bringen Sie bequem zum Rathaus und zur Burg. Die Aussicht aus dem beheizten Fahrzeug auf die verschneite Festung ist herrlich. Besonders die Fahrt nach Kreenholm lohnt sich, um die Distanz in der Kälte zu überbrücken. Der Tag endet an einem zentralen Knotenpunkt, von dem aus Cafés schnell erreichbar sind.",
+            "hu": "A tömegközlekedés télen igazi áldás Narvában. A meleg buszok kényelmesen elviszik a városházához és a várhoz. A fűtött járműből csodás a kilátás a havas erődökre. Különösen a Kreenholm felé tartó út éri meg, hogy áthidaljuk a távolságot a hidegben. A nap egy központi csomópontnál ér véget, ahonnan a kávézók gyorsan elérhetők.",
+            "ro": "Transportul public este o binecuvântare iarna în Narva. Autobuzele calde vă duc confortabil la Primărie și la castel. Vederea din vehiculul încălzit spre cetatea înzăpezită este minunată. Drumul spre Kreenholm merită în special pentru a parcurge distanța în frig. Ziua se încheie într-un nod central, de unde cafenelele sunt ușor accesibile.",
+            "en": "Public transport is a blessing in winter Narva. Warm buses take you comfortably to the Town Hall and the castle. The view of the snowy fortress from the heated vehicle is wonderful. The trip to Kreenholm is especially worth it to bridge the distance in the cold. The day ends at a central hub, from where cafes are quickly accessible."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Town Hall Square",
+              "tip_5lang": {
+                "de": "Warten Sie im Rathausfoyer, bis der Bus laut Fahrplan kommt.",
+                "hu": "Várjon a városháza előcsarnokában a menetrend szerinti érkezésig.",
+                "ro": "Așteptați în foierul primăriei până vine autobuzul conform orarului.",
+                "en": "Wait in the Town Hall foyer until the bus arrives according to schedule."
+              }
+            },
+            {
+              "name": "Center Cluster: Resurrection Cathedral",
+              "tip_5lang": {
+                "de": "Die Gehwege zur Haltestelle werden meist schnell geräumt.",
+                "hu": "A megállóhoz vezető járdákat általában gyorsan letakarítják.",
+                "ro": "Trotuarele spre stație sunt de obicei deszăpezite rapid.",
+                "en": "The sidewalks to the stop are usually cleared of snow quickly."
+              }
+            },
+            {
+              "name": "Center Cluster: Victoria Bastion",
+              "tip_5lang": {
+                "de": "Beachten Sie mögliche Verspätungen bei extremem Schneefall.",
+                "hu": "Számoljon esetleges késésekkel extrém hóesésben.",
+                "ro": "Luați în considerare posibilele întârzieri în caz de ninsoare abundentă.",
+                "en": "Be aware of possible delays during extreme snowfall."
+              }
+            },
+            {
+              "name": "Castle Cluster: Hermann Castle",
+              "tip_5lang": {
+                "de": "Haltestellen in der Nähe von Peetri plats sind gut beleuchtet.",
+                "hu": "A Peetri plats környéki megállók jól ki vannak világítva.",
+                "ro": "Stațiile din apropierea Peetri plats sunt bine iluminate.",
+                "en": "Stops near Peetri plats are well-lit."
+              }
+            },
+            {
+              "name": "Castle Cluster: Narva River Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht beim Abstieg zum Fluss; Treppen können vereist sein.",
+                "hu": "Vigyázzon a folyóhoz vezető lépcsőkkel; jegesek lehetnek.",
+                "ro": "Atenție la coborârea spre râu; scările pot fi înghețate.",
+                "en": "Be careful when descending to the river; stairs may be icy."
+              }
+            },
+            {
+              "name": "Kreenholm Cluster: Kreenholm Manufacturing",
+              "tip_5lang": {
+                "de": "Die Endstation bietet einen kurzen Weg zum Fabrikeingang.",
+                "hu": "A végállomás rövid utat kínál a gyárbejárathoz.",
+                "ro": "Capătul de linie oferă un drum scurt până la intrarea fabricii.",
+                "en": "The terminus provides a short walk to the factory entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind in Narva für Anwohner kostenlos, Touristen zahlen bar/Karte.",
+              "Die Heizung in den Bussen ist im estnischen Winter sehr zuverlässig.",
+              "Nutzen Sie die Wartehäuschen als Windschutz.",
+              "Die Fahrpläne ändern sich an Feiertagen; prüfen Sie die Aushänge.",
+              "Kombinieren Sie Busfahrten mit Besuchen in den Einkaufszentren."
+            ],
+            "hu": [
+              "A buszok a helyieknek ingyenesek, a turisták készpénzzel/kártyával fizetnek.",
+              "A buszok fűtése az észt télben nagyon megbízható.",
+              "Használja a várótermeket szélfogóként.",
+              "A menetrendek ünnepnapokon változhatnak; ellenőrizze.",
+              "Kombinálja a buszozást a bevásárlóközpontok meglátogatásával."
+            ],
+            "ro": [
+              "Autobuzele sunt gratuite pentru rezidenți; turiștii plătesc cash/card.",
+              "Încălzirea în autobuze este foarte eficientă în iarna estoniană.",
+              "Folosiți refugiile din stații ca protecție contra vântului.",
+              "Orarele se pot schimba de sărbători; verificați afișajele.",
+              "Combinați călătoriile cu autobuzul cu vizite la centrele comerciale."
+            ],
+            "en": [
+              "Buses in Narva are free for residents; tourists pay by cash/card.",
+              "The heating in the buses is very reliable in the Estonian winter.",
+              "Use the bus shelters as windbreaks.",
+              "Schedules change on public holidays; check the postings.",
+              "Combine bus trips with visits to the shopping centers."
+            ]
+          }
+        }
       }
     }
   }

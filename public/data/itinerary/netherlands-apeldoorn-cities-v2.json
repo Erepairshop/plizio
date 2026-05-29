@@ -338,6 +338,170 @@
           "An umbrella is always a good idea in the Netherlands.",
           "Enjoy the relaxed atmosphere of the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag am Rathaus, dessen Arkaden Schutz vor dem Nieselregen bieten. Die Grote Kerk ist ein trockener Zufluchtsort für den Vormittag. Den Mittag verbringen Sie im weitläufigen CODA Museum, dem idealen Ort für regnerische Stunden. Ein kurzer Spurt durch den Oranjepark führt Sie zum Theater Orpheus, wo der Tag in eleganter, trockener Atmosphäre ausklingt.",
+            "hu": "Kezdje a napot a Városháza árkádjai alatt, amelyek védelmet nyújtanak az eső elől. A Grote Kerk csendes és száraz menedék a délelőtti órákra. A délutánt töltse a CODA Múzeum tágas belső tereiben, amely tökéletes helyszín a csapadékos időben. Egy gyors séta az Oranjeparkon át vezet a Theater Orpheus épületébe, ahol elegáns környezetben fejezheti be a napot.",
+            "ro": "Începeți ziua la Primărie, ale cărei arcade oferă adăpost împotriva burniței. Grote Kerk este un refugiu uscat pentru orele dimineții. Petreceți prânzul în interiorul spațios al Muzeului CODA, locul ideal pentru orele ploioase. O scurtă plimbare prin Oranjepark vă duce la Theater Orpheus, unde ziua se încheie într-o atmosferă elegantă și ferită de umezeală.",
+            "en": "Start your day at the City Hall, where the porticos provide shelter from the drizzle. The Grote Kerk is a quiet, dry sanctuary for the morning. Spend midday inside the spacious CODA Museum, the perfect spot for rainy hours. A quick dash through Oranjepark leads you to Theater Orpheus, where the day concludes in an elegant, indoor setting away from the rain."
+          },
+          "stops": [
+            {
+              "name": "Apeldoorn City Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden am Marktplatz als trockenen Treffpunkt.",
+                "hu": "Használja a piactéri árkádokat száraz találkozóhelyként.",
+                "ro": "Folosiți arcadele din piață ca punct de întâlnire uscat.",
+                "en": "Use the porticos by the market square as a dry meeting point."
+              }
+            },
+            {
+              "name": "Grote Kerk (Great Church)",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Glasfenster, während draußen der Regen trommelt.",
+                "hu": "Csodálja meg az üvegablakokat, miközben kint kopog az eső.",
+                "ro": "Admirați vitraliile în timp ce ploaia bate în geamuri afară.",
+                "en": "Admire the stained glass while the rain drums outside."
+              }
+            },
+            {
+              "name": "CODA Museum",
+              "tip_5lang": {
+                "de": "Garderobe vorhanden; geben Sie nasse Schirme und Mäntel bequem ab.",
+                "hu": "Van ruhatár; kényelmesen leteheti a vizes esernyőket és kabátokat.",
+                "ro": "Garderobă disponibilă; lăsați umbrelele și hainele ude la intrare.",
+                "en": "Cloakroom available; drop off wet umbrellas and coats comfortably."
+              }
+            },
+            {
+              "name": "Oranjepark",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege vermeiden Pfützen auf den Rasenflächen.",
+                "hu": "Az aszfaltozott utak segítenek elkerülni a pocsolyákat a gyepen.",
+                "ro": "Aleile asfaltate vă ajută să evitați bălțile de pe iarbă.",
+                "en": "Paved paths help you avoid puddles on the lawn areas."
+              }
+            },
+            {
+              "name": "Theater Orpheus",
+              "tip_5lang": {
+                "de": "Genießen Sie ein Getränk im Foyer, bis der Regen nachlässt.",
+                "hu": "Élvezzen egy italt a foyer-ban, amíg eláll az eső.",
+                "ro": "Savurați o băutură în foaier până când ploaia se mai potolește.",
+                "en": "Enjoy a drink in the foyer until the rain subsides."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Apeldoorn hat viele Passagen im Zentrum, nutzen Sie diese als Abkürzung.",
+              "Die Grote Kerk ist ein verlässlicher Ort, um einen Regenschauer abzuwarten.",
+              "Das CODA Museum bietet genug Indoor-Programm für mehrere Stunden.",
+              "Tragen Sie wasserfeste Schuhe, da der Oranjepark bei Nässe rutschig sein kann."
+            ],
+            "hu": [
+              "Apeldoorn központjában sok az átjáró, használja ezeket rövidítésként.",
+              "A Grote Kerk megbízható hely egy hirtelen zápor kivárásához.",
+              "A CODA Múzeum több órányi beltéri programot kínál rossz idő esetén.",
+              "Viseljen vízálló cipőt, mert az Oranjepark ösvényei csúszósak lehetnek."
+            ],
+            "ro": [
+              "Centrul orașului Apeldoorn are multe pasaje, folosiți-le ca scurtături.",
+              "Grote Kerk este un loc sigur pentru a aștepta trecerea unei averse.",
+              "Muzeul CODA oferă destule activități de interior pentru câteva ore.",
+              "Purtați încălțăminte impermeabilă, aleile din Oranjepark pot fi alunecoase."
+            ],
+            "en": [
+              "Apeldoorn center has many passages, use them as shortcuts to stay dry.",
+              "Grote Kerk is a reliable place to wait out a sudden downpour.",
+              "CODA Museum provides enough indoor content for several hours of visit.",
+              "Wear waterproof shoes as Oranjepark paths can be slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Rathaus startet die Tour. In der Grote Kerk finden Sie Stille und Schutz vor dem Wind. Das CODA Museum bietet mittags wohlige Wärme und moderne Kunst. Der Oranjepark wirkt im Winterlicht besonders friedlich, bevor die frühe Dämmerung einsetzt. Den Abend verbringen Sie im festlich beleuchteten Theater Orpheus.",
+            "hu": "A túra egy fagyos reggelen indul a Városházánál. A Grote Kerk épületében csendet és szélvédett helyet talál. A CODA Múzeum délben kellemes meleget és modern művészetet kínál. Az Oranjepark békés a téli fényekben, mielőtt korán leszállna az est. Az estét a díszkivilágításban úszó Theater Orpheus épületében töltheti.",
+            "ro": "Un început de zi geros la Primărie deschide turul. În Grote Kerk găsiți liniște și protecție împotriva vântului. Muzeul CODA oferă căldură și artă modernă la amiază. Oranjepark pare liniștit în lumina iernii înainte de lăsarea serii. Petreceți seara la Theater Orpheus, luminat festiv pentru sezonul rece.",
+            "en": "A frosty morning at the City Hall starts the tour. Inside Grote Kerk, find silence and protection from the winter wind. CODA Museum offers cozy warmth and modern art at midday. Oranjepark looks particularly peaceful in the low winter light before dusk falls early. Spend the evening at the festively lit Theater Orpheus."
+          },
+          "stops": [
+            {
+              "name": "Apeldoorn City Hall",
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelle Vereisungen auf dem Pflaster.",
+                "hu": "Ügyeljen az esetleges jegesedésre a díszburkolaton.",
+                "ro": "Atenție la posibilele porțiuni înghețate de pe pavaj.",
+                "en": "Watch out for potential icy patches on the pavement."
+              }
+            },
+            {
+              "name": "Grote Kerk (Great Church)",
+              "tip_5lang": {
+                "de": "Im Inneren ist es oft kühler als erwartet, behalten Sie den Mantel an.",
+                "hu": "Belül gyakran hűvösebb van a vártnál, tartsa magán a kabátot.",
+                "ro": "În interior este adesea mai rece decât vă așteptați, păstrați haina.",
+                "en": "It is often colder inside than expected; keep your coat on."
+              }
+            },
+            {
+              "name": "CODA Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort zum Aufwärmen zwischen den Außenstationen.",
+                "hu": "Tökéletes hely a felmelegedéshez a szabadtéri megállók között.",
+                "ro": "Locul perfect pentru a vă încălzi între opririle exterioare.",
+                "en": "Perfect place to warm up between outdoor stops."
+              }
+            },
+            {
+              "name": "Oranjepark",
+              "tip_5lang": {
+                "de": "Genießen Sie den Winterspaziergang, solange es noch hell ist (bis 16:30).",
+                "hu": "Élvezze a téli sétát, amíg világos van (kb. 16:30-ig).",
+                "ro": "Bucurați-vă de plimbarea de iarnă cât încă este lumină (până la 16:30).",
+                "en": "Enjoy the winter walk while it is still light (until 16:30)."
+              }
+            },
+            {
+              "name": "Theater Orpheus",
+              "tip_5lang": {
+                "de": "Die Beleuchtung sorgt für eine gemütliche Atmosphäre am Abend.",
+                "hu": "A díszkivilágítás meghitt hangulatot áraszt az este folyamán.",
+                "ro": "Iluminatul festiv creează o atmosferă primitoare seara.",
+                "en": "The festive lighting creates a cozy atmosphere in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:30 Uhr unter.",
+              "Warme Getränke finden Sie in den Cafés rund um den Marktplatz.",
+              "Die Wege im Oranjepark werden bei Schnee nur teilweise geräumt.",
+              "Besuchen Sie die Museen am Mittag, um die kältesten Stunden zu überbrücken."
+            ],
+            "hu": [
+              "Decemberben a nap már 16:30 körül nyugszik Apeldoornban.",
+              "Meleg italokat a piactér körüli kávézókban találhat.",
+              "Hó esetén az Oranjepark útjait csak részben takarítják.",
+              "Délidőben látogassa a múzeumokat, hogy elkerülje a leghidegebb órákat."
+            ],
+            "ro": [
+              "Soarele apune în decembrie în jurul orei 16:30 în Apeldoorn.",
+              "Găsiți băuturi calde la cafenelele din jurul pieței centrale.",
+              "Aleile din Oranjepark sunt curățate doar parțial în caz de ninsoare.",
+              "Vizitați muzeele la amiază pentru a evita cele mai reci ore ale zilei."
+            ],
+            "en": [
+              "The sun sets as early as 16:30 in December in Apeldoorn.",
+              "Warm drinks are easily found in the cafes around the market square.",
+              "Oranjepark paths are only partially cleared during snowfall.",
+              "Visit museums around midday to bridge the coldest hours of the day."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -670,6 +834,170 @@
           "Take water and snacks with you, especially for the longer stretches.",
           "Always lock your bike securely."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am CODA Museum, wo Sie Ihr Rad trocken parken können. Die Fahrt zum Paleis Het Loo führt durch Alleen, die etwas Schutz bieten. In Apenheul sollten Sie die überdachten Beobachtungspunkte nutzen. Der Berg en Bos Park bietet bei Regen eine mystische Atmosphäre. Zum Abschluss geht es zurück ins Stadtzentrum für ein warmes Essen.",
+            "hu": "Kezdje a CODA Múzeumnál, ahol fedett helyen parkolhatja le kerékpárját. A Paleis Het Loo felé vezető út fasorokon át visz, amelyek némi védelmet nyújtanak. Az Apenheul parkban használja a fedett megfigyelőpontokat. A Berg en Bos Park esőben misztikus hangulatot áraszt. Végül térjen vissza a belvárosba egy meleg vacsorára.",
+            "ro": "Începeți la Muzeul CODA, unde puteți parca bicicleta la adăpost. Drumul spre Paleis Het Loo trece prin alei cu arbori care oferă o protecție parțială. La Apenheul, folosiți punctele de observare acoperite. Parcul Berg en Bos are o atmosferă mistică pe ploaie. La final, reveniți în centru pentru o masă caldă.",
+            "en": "Start at CODA Museum, where you can park your bike under shelter. The ride to Paleis Het Loo goes through tree-lined avenues providing some cover. At Apenheul, make use of the covered observation spots. Berg en Bos Park offers a mystical atmosphere in the rain. Finally, pedal back to the city center for a warm meal."
+          },
+          "stops": [
+            {
+              "name": "CODA Museum",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Fedett kerékpártárolók találhatók a bejárat közelében.",
+                "ro": "Suporturile de biciclete acoperite se află lângă intrare.",
+                "en": "Covered bike racks are located near the entrance."
+              }
+            },
+            {
+              "name": "Paleis Het Loo",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kies bei Nässe; fahren Sie langsam.",
+                "hu": "Vigyázzon a kavicsos utakon esőben; haladjon lassan.",
+                "ro": "Atenție pe pietriș când este ud; pedalați cu viteză redusă.",
+                "en": "Be careful on the gravel paths when wet; cycle slowly."
+              }
+            },
+            {
+              "name": "Apenheul Primate Park",
+              "tip_5lang": {
+                "de": "Ein Regenponcho ist im Waldgelände sehr hilfreich.",
+                "hu": "Egy esőponcsó nagyon hasznos az erdős területen.",
+                "ro": "O pelerină de ploaie este foarte utilă în zona împădurită.",
+                "en": "A rain poncho is very helpful in the wooded terrain."
+              }
+            },
+            {
+              "name": "Berg en Bos Park",
+              "tip_5lang": {
+                "de": "Die Waldwege können schlammig sein; bleiben Sie auf den Hauptrouten.",
+                "hu": "Az erdei utak sárgaosak lehetnek; maradjon a fő útvonalakon.",
+                "ro": "Potecile forestiere pot fi noroioase; rămâneți pe rutele principale.",
+                "en": "Forest paths can be muddy; stay on the main paved routes."
+              }
+            },
+            {
+              "name": "Return to City Center",
+              "tip_5lang": {
+                "de": "Wischen Sie den Sattel vor der Abfahrt gut trocken.",
+                "hu": "Indulás előtt törölje szárazra a nyerget.",
+                "ro": "Ștergeți bine șaua înainte de a pleca spre centru.",
+                "en": "Wipe the saddle dry before heading back to the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, da der Bremsweg bei Nässe länger ist.",
+              "Vermeiden Sie das Überfahren von nassen Blättern und Fahrbahnmarkierungen.",
+              "Nutzen Sie die kostenlosen Luftstationen in der Stadt für optimalen Reifendruck.",
+              "Regenhose und wasserfeste Handschuhe machen die Fahrt deutlich angenehmer."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, mert vizes úton hosszabb a féktávolság.",
+              "Kerülje a vizes leveleket és az útburkolati jeleket, mert csúszhatnak.",
+              "Használja a városi ingyenes pumpákat az optimális guminyomáshoz.",
+              "Az esőnadrág és a vízálló kesztyű sokkal kényelmesebbé teszi az utat."
+            ],
+            "ro": [
+              "Verificați frânele, distanța de frânare este mai mare pe carosabil ud.",
+              "Evitați frunzele ude și marcajele rutiere, pot fi extrem de alunecoase.",
+              "Folosiți pompele gratuite din oraș pentru presiunea optimă a pneurilor.",
+              "Pantalonii de ploaie și mănușile impermeabile fac drumul mult mai plăcut."
+            ],
+            "en": [
+              "Check your brakes as the braking distance is longer on wet roads.",
+              "Avoid cycling over wet leaves and road markings as they can be slippery.",
+              "Use the free air stations in the city to ensure optimal tire pressure.",
+              "Rain trousers and waterproof gloves make the ride much more comfortable."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die Wintertour gut eingepackt am CODA Museum. Die Fahrt zum Paleis Het Loo bietet klare Luft und oft reifbedeckte Gärten. In Apenheul sind einige Tiere im Winter weniger aktiv, nutzen Sie die geheizten Häuser. Der Berg en Bos Park zeigt sich in winterlicher Stille. Die Rückfahrt erfolgt bei Dämmerung mit eingeschaltetem Licht zum Stadtzentrum.",
+            "hu": "Kezdje a téli túrát jól felöltözve a CODA Múzeumnál. A Paleis Het Loo felé vezető út friss levegőt és zúzmarás kerteket kínál. Az Apenheul parkban néhány állat kevésbé aktív télen, látogassa a fűtött házakat. A Berg en Bos Park téli csendbe burkolózik. A visszaút már szürkületben, lámpafénynél történik.",
+            "ro": "Începeți turul de iarnă bine echipat la Muzeul CODA. Drumul spre Paleis Het Loo oferă aer curat și grădini adesea acoperite de brumă. La Apenheul, unele animale sunt mai puțin active, vizitați pavilioanele încălzite. Parcul Berg en Bos este cufundat în liniștea iernii. Revenirea se face la amurg, cu luminile aprinse.",
+            "en": "Start the winter tour well-layered at CODA Museum. The ride to Paleis Het Loo offers crisp air and often frost-covered gardens. At Apenheul, some animals are less active; use the heated indoor enclosures. Berg en Bos Park shows a serene winter stillness. The ride back happens at dusk with bike lights on toward the center."
+          },
+          "stops": [
+            {
+              "name": "CODA Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen der Hände.",
+                "hu": "Használja ki a múzeumlátogatást a kezei felmelegítésére.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi mâinile.",
+                "en": "Use the museum visit to warm up your hands."
+              }
+            },
+            {
+              "name": "Paleis Het Loo",
+              "tip_5lang": {
+                "de": "Ein heißer Kakao im Schloss-Café hilft gegen die Kälte.",
+                "hu": "Egy forró kakaó a kastély kávézójában segít a hideg ellen.",
+                "ro": "O ciocolată caldă la cafeneaua palatului vă va prinde bine.",
+                "en": "A hot cocoa at the palace cafe helps against the cold."
+              }
+            },
+            {
+              "name": "Apenheul Primate Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten, da diese oft verkürzt sind.",
+                "hu": "Ellenőrizze a téli nyitvatartást, mert gyakran rövidebb.",
+                "ro": "Verificați programul de iarnă, adesea este mai scurt.",
+                "en": "Check winter opening hours as they are often shortened."
+              }
+            },
+            {
+              "name": "Berg en Bos Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis an schattigen Waldstellen.",
+                "hu": "Ügyeljen a fekete jégre az árnyékos erdei szakaszokon.",
+                "ro": "Atenție la gheață în zonele umbrite ale pădurii.",
+                "en": "Watch out for black ice in shaded forest sections."
+              }
+            },
+            {
+              "name": "Return to City Center",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+                "hu": "Győződjön meg róla, hogy a kerékpárlámpák jól működnek.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează perfect.",
+                "en": "Ensure your bike lights are working perfectly for the return."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie bei Kälte mit etwas weniger Reifendruck für mehr Grip.",
+              "Die Fahrradwege in Apeldoorn werden meist vorrangig gestreut.",
+              "Vermeiden Sie plötzliches Bremsen auf möglicherweise glatten Brücken.",
+              "Ein Helmschutz oder eine Mütze unter dem Helm verhindert Wärmeverlust."
+            ],
+            "hu": [
+              "Hidegben használjon kicsit alacsonyabb guminyomást a jobb tapadásért.",
+              "Apeldoorn kerékpárútjait általában elsőbbséggel takarítják.",
+              "Kerülje a hirtelen fékezést az esetlegesen jeges hidakon.",
+              "A sisak alatti sapka segít megelőzni a fejen keresztüli hővesztést."
+            ],
+            "ro": [
+              "Rulați cu o presiune puțin mai mică în pneuri pentru aderență sporită.",
+              "Pistele de biciclete din Apeldoorn sunt de obicei curățate cu prioritate.",
+              "Evitați frânarea bruscă pe podurile care pot fi înghețate.",
+              "O căciulă sub cască previne pierderea căldurii la nivelul capului."
+            ],
+            "en": [
+              "Ride with slightly lower tire pressure in cold for better grip.",
+              "Bike paths in Apeldoorn are usually prioritized for gritting/clearing.",
+              "Avoid sudden braking on bridges which are prone to icing over.",
+              "A cap under your helmet prevents significant heat loss during the ride."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1026,6 +1354,188 @@
           "Plan enough time for journeys between the clusters.",
           "A navigation system is essential."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt beim futuristischen Radio Kootwijk, das im Regen besonders imposant wirkt. Danach steuern Sie das Paleis Het Loo an, wo Sie nah am Eingang parken können. Den Nachmittag verbringen Sie trocken in Apenheul oder der Grote Kerk. Der Tag endet mit einem Besuch im CODA Museum und einem gemütlichen Abendessen im Zentrum.",
+            "hu": "A túra a futurisztikus Radio Kootwijk épületénél indul, amely esőben különösen monumentális. Ezután a Paleis Het Loo következik, ahol közel a bejárathoz parkolhat. A délutánt töltse szárazon az Apenheul fedett részein vagy a Grote Kerk-ben. A nap a CODA Múzeummal és egy hangulatos belvárosi vacsorával zárul.",
+            "ro": "Călătoria începe la futurista Radio Kootwijk, care pare impunătoare pe ploaie. Apoi mergeți la Paleis Het Loo, unde puteți parca aproape de intrare. Petreceți după-amiaza la adăpost în Apenheul sau la Grote Kerk. Ziua se încheie cu o vizită la Muzeul CODA și o cină plăcută în centru.",
+            "en": "The drive starts at the futuristic Radio Kootwijk, which looks particularly imposing in the rain. Next, head to Paleis Het Loo, where you can park close to the entrance. Spend the afternoon dry at Apenheul's indoor spots or Grote Kerk. The day ends with a visit to CODA Museum and a cozy dinner in the center."
+          },
+          "stops": [
+            {
+              "name": "Radio Kootwijk",
+              "tip_5lang": {
+                "de": "Parken Sie direkt auf dem ausgewiesenen Gelände für kurze Wege.",
+                "hu": "Parkoljon közvetlenül a kijelölt területen a rövid séta érdekében.",
+                "ro": "Parcați direct în zona desemnată pentru distanțe scurte de mers.",
+                "en": "Park directly in the designated area to minimize walking in rain."
+              }
+            },
+            {
+              "name": "Paleis Het Loo",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Shuttle-Service vom Parkplatz zum Schloss bei starkem Regen.",
+                "hu": "Erős esőben vegye igénybe a transzfert a parkolótól a kastélyig.",
+                "ro": "Folosiți serviciul de transfer de la parcare la palat pe ploaie torențială.",
+                "en": "Use the shuttle service from the parking lot to the palace during heavy rain."
+              }
+            },
+            {
+              "name": "Apenheul Primate Park",
+              "tip_5lang": {
+                "de": "Die Innengehege sind auch bei Regen sehr gut zu besichtigen.",
+                "hu": "A belső kifutók esőben is remekül látogathatók.",
+                "ro": "Țarcurile interioare sunt excelente de vizitat chiar și pe ploaie.",
+                "en": "The indoor enclosures are great to visit even when it rains."
+              }
+            },
+            {
+              "name": "Grote Kerk (Great Church)",
+              "tip_5lang": {
+                "de": "Parkhäuser in der Nähe bieten trockenen Zugang zur Kirche.",
+                "hu": "A közeli parkolóházak száraz eljutást biztosítanak a templomhoz.",
+                "ro": "Parcările etajate din apropiere oferă acces uscat către biserică.",
+                "en": "Nearby parking garages offer dry access to the church."
+              }
+            },
+            {
+              "name": "CODA Museum",
+              "tip_5lang": {
+                "de": "Das CODA-Parkhaus führt Sie fast direkt in die Ausstellung.",
+                "hu": "A CODA parkolóházból szinte közvetlenül a kiállításra juthat.",
+                "ro": "Parcarea CODA vă duce aproape direct în zona de expoziție.",
+                "en": "The CODA parking garage brings you almost directly to the exhibits."
+              }
+            },
+            {
+              "name": "Dinner in the Center",
+              "tip_5lang": {
+                "de": "Suchen Sie sich ein Restaurant mit direktem Tiefgaragenzugang.",
+                "hu": "Válasszon olyan éttermet, amelyhez közel van mélygarázs.",
+                "ro": "Alegeți un restaurant cu acces facil la o parcare subterană.",
+                "en": "Choose a restaurant with easy access to an underground parking."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Parkmobile' für stressfreies Parken in Apeldoorn.",
+              "Die Sichtweite auf der Veluwe kann bei starkem Regen eingeschränkt sein.",
+              "Parkhäuser sind im Zentrum oft bequemer als Parkplätze an der Straße.",
+              "Halten Sie die Scheibenbelüftung aktiv, um Beschlagen zu vermeiden."
+            ],
+            "hu": [
+              "Használja a 'Parkmobile' alkalmazást a stresszmentes parkoláshoz.",
+              "Erős esőben a látótávolság korlátozott lehet a Veluwe területén.",
+              "A belvárosi parkolóházak kényelmesebbek, mint az utcai parkolók.",
+              "Tartsa bekapcsolva a páramentesítőt a szélvédő tisztán tartásához."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Parkmobile' pentru o parcare fără stres în Apeldoorn.",
+              "Vizibilitatea pe Veluwe poate fi redusă în timpul ploilor torențiale.",
+              "Parcările etajate sunt mai comode decât locurile de parcare stradale.",
+              "Mențineți ventilația activă pentru a preveni aburirea geamurilor."
+            ],
+            "en": [
+              "Use the 'Parkmobile' app for stress-free parking in Apeldoorn.",
+              "Visibility on the Veluwe can be limited during heavy rain.",
+              "Parking garages in the center are often more convenient than street spots.",
+              "Keep the windshield ventilation active to prevent fogging up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen führt Sie zum monumentalen Radio Kootwijk. Die Fahrt durch die Veluwe ist bei Frost malerisch. Danach wärmen Sie sich im Paleis Het Loo auf. In Apenheul und der Grote Kerk verbringen Sie den kühlen Nachmittag. Zum Abschluss genießen Sie die Wärme des CODA Museums, bevor Sie den Tag bei einem Abendessen ausklingen lassen.",
+            "hu": "Egy tiszta téli reggelen induljon a monumentális Radio Kootwijk felé. A Veluwe-n keresztüli autózás zúzmarás időben festői. Ezután melegedjen fel a Paleis Het Loo-ban. A hűvös délutánt az Apenheul-ban és a Grote Kerk-ben töltse. Végül élvezze a CODA Múzeum melegét, mielőtt megvacsorázna.",
+            "ro": "O dimineață senină de iarnă vă poartă spre monumentala Radio Kootwijk. Drumul prin Veluwe este pitoresc pe ger. Apoi, încălziți-vă la Paleis Het Loo. Petreceți după-amiaza răcoroasă la Apenheul și Grote Kerk. La final, bucurați-vă de căldura Muzeului CODA înainte de cină.",
+            "en": "A clear winter morning takes you to the monumental Radio Kootwijk. The drive through the Veluwe is picturesque during frost. Afterward, warm up inside Paleis Het Loo. Spend the cool afternoon at Apenheul and Grote Kerk. Finally, enjoy the warmth of CODA Museum before settling in for dinner."
+          },
+          "stops": [
+            {
+              "name": "Radio Kootwijk",
+              "tip_5lang": {
+                "de": "Die Heizung im Gebäude ist oft nur schwach; bleiben Sie warm angezogen.",
+                "hu": "Az épületben a fűtés gyakran gyenge; maradjon melegen felöltözve.",
+                "ro": "Încălzirea în clădire este adesea slabă; rămâneți bine îmbrăcat.",
+                "en": "Heating in the building is often weak; stay warmly dressed."
+              }
+            },
+            {
+              "name": "Paleis Het Loo",
+              "tip_5lang": {
+                "de": "Die Gärten sind bei Raureif ein tolles Fotomotiv.",
+                "hu": "A kertek zúzmarás időben remek fotótémát szolgáltatnak.",
+                "ro": "Grădinile sunt un subiect foto excelent când sunt acoperite de brumă.",
+                "en": "The gardens are a great photo subject when covered in hoarfrost."
+              }
+            },
+            {
+              "name": "Apenheul Primate Park",
+              "tip_5lang": {
+                "de": "Einige Wege können bei Frost rutschig sein; vorsichtig gehen.",
+                "hu": "Néhány ösvény fagyban csúszós lehet; közlekedjen óvatosan.",
+                "ro": "Unele poteci pot fi alunecoase pe ger; mergeți cu atenție.",
+                "en": "Some paths can be slippery during frost; walk carefully."
+              }
+            },
+            {
+              "name": "Grote Kerk (Great Church)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Fußweg vom Auto, um nicht auszukühlen.",
+                "hu": "Használja ki a rövid sétát az autótól, hogy ne hűljön ki.",
+                "ro": "Folosiți distanța scurtă de la mașină pentru a nu vă răci.",
+                "en": "Take advantage of the short walk from the car to stay warm."
+              }
+            },
+            {
+              "name": "CODA Museum",
+              "tip_5lang": {
+                "de": "Die Bibliothek im CODA bietet gemütliche Leseecken zum Aufwärmen.",
+                "hu": "A CODA könyvtára hangulatos olvasósarkokat kínál a felmelegedéshez.",
+                "ro": "Biblioteca din CODA oferă colțuri de lectură primitoare pentru încălzire.",
+                "en": "The library in CODA offers cozy reading corners to warm up."
+              }
+            },
+            {
+              "name": "Dinner in the Center",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch in der Nähe der Heizung oder des Kamins.",
+                "hu": "Foglaljon asztalt a fűtőtest vagy a kandalló közelében.",
+                "ro": "Rezervați o masă lângă calorifer sau șemineu.",
+                "en": "Reserve a table near the heater or fireplace if available."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Wischwasser Frostschutzmittel enthält.",
+              "Die Parkplätze bei Radio Kootwijk können bei Schnee schwerer zugänglich sein.",
+              "Lassen Sie keine Getränke im Auto, da diese gefrieren könnten.",
+              "Bereiten Sie sich auf stockenden Verkehr bei plötzlichem Schneefall vor."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a szélvédőmosó fagyállót tartalmaz.",
+              "Hóban a Radio Kootwijk körüli parkolók nehezebben megközelíthetők.",
+              "Ne hagyjon italokat az autóban, mert megfagyhatnak.",
+              "Készüljön fel a forgalom lassulására hirtelen havazás esetén."
+            ],
+            "ro": [
+              "Asigurați-vă că lichidul de parbriz conține antigel.",
+              "Parcările de la Radio Kootwijk pot fi greu accesibile în caz de ninsoare.",
+              "Nu lăsați băuturi în mașină, deoarece pot îngheța.",
+              "Pregătiți-vă pentru un trafic lent în caz de ninsoare bruscă."
+            ],
+            "en": [
+              "Ensure your windshield washer fluid contains antifreeze.",
+              "Parking at Radio Kootwijk can be more difficult during heavy snow.",
+              "Do not leave beverages in the car as they might freeze over.",
+              "Prepare for slow-moving traffic in case of sudden snowfall."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1358,6 +1868,170 @@
           "The buses are punctual, so be at the stop on time.",
           "Validate your ticket when boarding."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Bahnhof Apeldoorn und nutzen Sie die Busse ins Zentrum. Die Grote Kerk bietet einen ersten trockenen Stopp. Danach ist das CODA Museum nur einen kurzen Fußweg entfernt. Der Bus bringt Sie bequem zum Paleis Het Loo, wo Sie das Schloss besichtigen können. Der Tag endet mit einem Abendessen im Zentrum, bevor es zurück zum Bahnhof geht.",
+            "hu": "Kezdje az Apeldoorn állomáson, és használja a buszokat a központba. A Grote Kerk az első száraz állomás. Ezután a CODA Múzeum csak egy rövid sétára van. A busz kényelmesen elviszi a Paleis Het Loo-hoz a kastélylátogatásra. A nap belvárosi vacsorával zárul, mielőtt visszatérne az állomásra.",
+            "ro": "Începeți la gara Apeldoorn și folosiți autobuzele spre centru. Grote Kerk oferă prima oprire ferită de ploaie. Apoi, Muzeul CODA este la doar câțiva pași. Autobuzul vă duce confortabil la Paleis Het Loo. Ziua se încheie cu o cină în centru înainte de a reveni la gară.",
+            "en": "Start at Apeldoorn Station and take the bus to the center. Grote Kerk offers your first dry stop. Afterward, CODA Museum is just a short walk away. The bus takes you comfortably to Paleis Het Loo for a palace visit. The day ends with dinner in the center before returning to the station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Apeldoorn Station & Bus to Center",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle, bis Ihr Bus angezeigt wird.",
+                "hu": "Várjon az állomáscsarnokban, amíg meg nem jelenik a busza.",
+                "ro": "Așteptați în holul gării până când este afișat autobuzul dvs.",
+                "en": "Wait in the station hall until your bus is displayed."
+              }
+            },
+            {
+              "name": "Grote Kerk (Great Church)",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle befindet sich fast direkt vor der Kirche.",
+                "hu": "A buszmegálló szinte közvetlenül a templom előtt található.",
+                "ro": "Stația de autobuz este situată aproape direct în fața bisericii.",
+                "en": "The bus stop is located almost directly in front of the church."
+              }
+            },
+            {
+              "name": "CODA Museum",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Bushaltestellen und dem Museumseingang.",
+                "hu": "Rövid séta a buszmegállók és a múzeum bejárata között.",
+                "ro": "Distanțe scurte între stațiile de autobuz și intrarea în muzeu.",
+                "en": "Short walking distances between bus stops and the museum entrance."
+              }
+            },
+            {
+              "name": "Bus to Paleis Het Loo",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App '9292' für Echtzeit-Infos bei wetterbedingten Verspätungen.",
+                "hu": "Használja a '9292' alkalmazást a valós idejű infókért késés esetén.",
+                "ro": "Folosiți aplicația '9292' pentru info în timp real în caz de întârzieri.",
+                "en": "Use the '9292' app for real-time info in case of weather delays."
+              }
+            },
+            {
+              "name": "Bus back to Center & Dinner",
+              "tip_5lang": {
+                "de": "Warten Sie in den überdachten Wartehäuschen an den Haltestellen.",
+                "hu": "Várjon a fedett várókban a megállóknál.",
+                "ro": "Așteptați în refugiile acoperite din stații.",
+                "en": "Wait in the covered shelters at the bus stops."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse in Apeldoorn sind sauber und bieten Schutz vor dem Regen.",
+              "Nutzen Sie die OV-chipkaart oder kontaktloses Bezahlen im Bus.",
+              "Haupthaltstellen im Zentrum sind oft überdacht.",
+              "Planen Sie bei starkem Regen ein paar Minuten Pufferzeit für Umstiege ein."
+            ],
+            "hu": [
+              "Az apeldoorni buszok tiszták és védelmet nyújtanak az eső ellen.",
+              "Használjon OV-chipkaartot vagy érintéses fizetést a buszon.",
+              "A központi főbb megállók gyakran fedettek.",
+              "Erős esőben számoljon pár perc pufferidővel az átszállásoknál."
+            ],
+            "ro": [
+              "Autobuzele din Apeldoorn sunt curate și oferă protecție contra ploii.",
+              "Folosiți OV-chipkaart sau plata contactless în autobuz.",
+              "Stațiile principale din centru sunt adesea acoperite.",
+              "Prevedeți câteva minute de rezervă pentru legături în caz de ploaie."
+            ],
+            "en": [
+              "Buses in Apeldoorn are clean and provide excellent shelter from rain.",
+              "Use an OV-chipkaart or contactless payment on the bus.",
+              "Main bus stops in the center are often covered.",
+              "Plan a few extra minutes for transfers during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Bahnhof und nehmen Sie den Bus ins winterliche Zentrum. Die Grote Kerk bietet Schutz vor der Kälte. Im CODA Museum können Sie sich mittags aufwärmen. Der Bus zum Paleis Het Loo erspart Ihnen lange Wege im Frost. Den Abend verbringen Sie im Zentrum, bevor Sie den Bus zurück zum Bahnhof nehmen.",
+            "hu": "Kezdje az állomáson, és busszal menjen a téli központba. A Grote Kerk védelmet nyújt a hideg ellen. A CODA Múzeumban délben felmelegedhet. A Paleis Het Loo-hoz közlekedő busz megkíméli a fagyos gyaloglástól. Az estét a központban töltse, mielőtt visszabuszozna az állomásra.",
+            "ro": "Începeți la gară și luați autobuzul spre centrul hibernal. Grote Kerk oferă adăpost împotriva frigului. La Muzeul CODA vă puteți încălzi la amiază. Autobuzul spre Paleis Het Loo vă scutește de mersul prin ger. Petreceți seara în centru înainte de a lua autobuzul înapoi la gară.",
+            "en": "Start at the station and take the bus to the wintry center. Grote Kerk provides shelter from the cold. At CODA Museum, you can warm up at midday. The bus to Paleis Het Loo saves you from long walks in the frost. Spend the evening in the center before busing back to the station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Apeldoorn Station & Bus to Center",
+              "tip_5lang": {
+                "de": "Der Bahnhof hat geheizte Wartebereiche; nutzen Sie diese.",
+                "hu": "Az állomáson vannak fűtött váróterek; használja ezeket.",
+                "ro": "Gara are zone de așteptare încălzite; folosiți-le.",
+                "en": "The station has heated waiting areas; make use of them."
+              }
+            },
+            {
+              "name": "Grote Kerk (Great Church)",
+              "tip_5lang": {
+                "de": "Beachten Sie die eventuell geänderten Winterfahrpläne.",
+                "hu": "Ügyeljen az esetlegesen módosult téli menetrendre.",
+                "ro": "Atenție la orarele de iarnă care pot fi modificate.",
+                "en": "Check for any modified winter schedules for the buses."
+              }
+            },
+            {
+              "name": "CODA Museum",
+              "tip_5lang": {
+                "de": "Das Museumscafé bietet heiße Suppen zum Aufwärmen an.",
+                "hu": "A múzeum kávézója forró leveseket kínál a felmelegedéshez.",
+                "ro": "Cafeneaua muzeului oferă supe calde pentru încălzire.",
+                "en": "The museum cafe offers hot soups to help you warm up."
+              }
+            },
+            {
+              "name": "Bus to Paleis Het Loo",
+              "tip_5lang": {
+                "de": "Die Busse sind gut beheizt; eine kurze Pause für die Beine.",
+                "hu": "A buszok jól fűtöttek; egy kis pihenő a lábaknak.",
+                "ro": "Autobuzele sunt bine încălzite; o scurtă pauză pentru picioare.",
+                "en": "Buses are well-heated; a nice short break for your legs."
+              }
+            },
+            {
+              "name": "Bus back to Center & Dinner",
+              "tip_5lang": {
+                "de": "Denken Sie daran, dass es ab 17:00 Uhr bereits dunkel ist.",
+                "hu": "Ne feledje, hogy 17:00 után már sötét van.",
+                "ro": "Nu uitați că după ora 17:00 este deja întuneric.",
+                "en": "Keep in mind that it is already dark after 17:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge und Busse können bei extremem Winterwetter Verspätung haben.",
+              "Nutzen Sie die geheizten Wartebereiche an größeren Knotenpunkten.",
+              "Die Wege zwischen Haltestelle und Sehenswürdigkeit sind in Apeldoorn kurz.",
+              "Haben Sie Ihre Fahrkarte griffbereit, um nicht lange im Wind zu stehen."
+            ],
+            "hu": [
+              "Szélsőséges téli időjárás esetén a vonatok és buszok késhetnek.",
+              "Használja a fűtött váróhelyiségeket a nagyobb csomópontokon.",
+              "A megállók és a látnivalók közötti távolság Apeldoornban rövid.",
+              "Legyen kéznél a jegye, hogy ne kelljen sokat állnia a szélben."
+            ],
+            "ro": [
+              "Trenurile și autobuzele pot avea întârzieri pe vreme de iarnă extremă.",
+              "Folosiți zonele de așteptare încălzite din nodurile principale de transport.",
+              "Distanțele dintre stații și obiectivele turistice sunt scurte în Apeldoorn.",
+              "Aveți biletul la îndemână pentru a nu sta mult în vânt la urcare."
+            ],
+            "en": [
+              "Trains and buses may experience delays during extreme winter weather.",
+              "Use heated waiting areas at major transit hubs.",
+              "The distances between stops and sights are short in Apeldoorn.",
+              "Have your ticket ready to avoid standing in the wind for too long."
+            ]
+          }
+        }
       }
     }
   }

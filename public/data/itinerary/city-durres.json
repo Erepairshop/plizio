@@ -379,6 +379,206 @@
           "Be prepared for uneven surfaces at the archaeological sites.",
           "Most places accept Euros, but it's good to have some Albanian Lek for smaller purchases."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Durrës beginnt im geschützten Bereich des Amphitheaters. Mittags bieten die venezianischen Mauern und der Turm Zuflucht vor den Schauern. Der Nachmittag gehört dem Archäologischen Museum, wo man im Trockenen die antike Geschichte bestaunen kann. Den Abend lässt man bei einem gemütlichen Abendessen direkt am Meer ausklingen, während der Regen gegen die Scheiben peitscht.",
+            "hu": "Egy esős nap Durrësben az amfiteátrum fedettebb részein indul. Délben a velencei torony belső terei nyújtanak menedéket a záporok elől. A délutánt az Archeológiai Múzeum gazdag tárlatának felfedezésével töltjük, távol a sártól. Az estét egy tengerparti étteremben zárjuk, ahol a morajló tenger és az eső kopogása mellett élvezhetjük a helyi ízeket.",
+            "ro": "O zi ploioasă în Durrës începe în secțiunile protejate ale Amfiteatrului. La prânz, Turnul Venețian oferă un refugiu primitor împotriva stropilor. După-amiaza este dedicată Muzeului Arheologic, locul perfect pentru a explora istoria fără a te uda. Seara se încheie cu o cină relaxantă la malul mării, ascultând sunetul ploii care cade peste port.",
+            "en": "A rainy day in Durrës starts in the sheltered sections of the Amphitheatre. At noon, the Venetian Tower provides a cozy refuge from the showers. Spend the afternoon inside the Archaeological Museum, admiring ancient artifacts while staying dry. The evening concludes with a seaside dinner, watching the rain dance over the Adriatic waves."
+          },
+          "stops": [
+            {
+              "name": "Amphitheatre of Durrës",
+              "tip_4lang": {
+                "de": "Nutzen Sie die unterirdischen Gänge als Schutz.",
+                "hu": "Használja a föld alatti folyosókat esernyő helyett.",
+                "ro": "Folosiți galeriile subterane pentru a vă adăposti.",
+                "en": "Use the underground galleries to stay dry."
+              }
+            },
+            {
+              "name": "Roman Forum and Thermal Baths",
+              "tip_4lang": {
+                "de": "Kurzer Stopp, da das Gelände weitgehend offen ist.",
+                "hu": "Gyors látogatás, mert a terület nagy része nyitott.",
+                "ro": "Vizită scurtă, situl fiind în mare parte în aer liber.",
+                "en": "Quick visit as the site is mostly open-air."
+              }
+            },
+            {
+              "name": "Byzantine City Walls",
+              "tip_4lang": {
+                "de": "Die Mauern bieten nur wenig Schutz vor starkem Regen.",
+                "hu": "A falak kevés védelmet nyújtanak erős esőben.",
+                "ro": "Zidurile oferă puțină protecție împotriva ploii.",
+                "en": "The walls offer little protection from heavy rain."
+              }
+            },
+            {
+              "name": "Venetian Tower",
+              "tip_4lang": {
+                "de": "Perfekt für eine Kaffeepause im trockenen Inneren.",
+                "hu": "Tökéletes hely egy kávéra a száraz belső térben.",
+                "ro": "Perfect pentru o pauză de cafea în interiorul uscat.",
+                "en": "Perfect for a coffee break in the dry interior."
+              }
+            },
+            {
+              "name": "Durrës Archaeological Museum",
+              "tip_4lang": {
+                "de": "Idealer Ort, um eine längere Regenfront abzuwarten.",
+                "hu": "Ideális hely egy hosszabb esőzés kivárására.",
+                "ro": "Locul ideal pentru a aștepta trecerea ploii.",
+                "en": "Ideal place to wait out a long rain spell."
+              }
+            },
+            {
+              "name": "Sfinksi Promenade",
+              "tip_4lang": {
+                "de": "Vorsicht, die Stufen können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a lépcsők nedvesen csúszósak lehetnek.",
+                "ro": "Atenție, treptele pot fi alunecoase când sunt ude.",
+                "en": "Careful, the steps can be slippery when wet."
+              }
+            },
+            {
+              "name": "Seaside Dinner",
+              "tip_4lang": {
+                "de": "Reservieren Sie einen Tisch fernab der zugigen Tür.",
+                "hu": "Foglaljon asztalt távol a huzatos bejárattól.",
+                "ro": "Rezervați o masă departe de intrarea curentată.",
+                "en": "Reserve a table away from the drafty entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen der Meeresbrise unerlässlich.",
+              "Die Pflastersteine in der Altstadt werden bei Nässe sehr glatt.",
+              "Nutzen Sie die Museen als primäre Aufenthaltsorte.",
+              "Viele Cafés am Hafen haben überdachte Terrassen."
+            ],
+            "hu": [
+              "A tengeri szél miatt egy erős esernyő elengedhetetlen.",
+              "Az óváros macskakövei vizesen nagyon csúsznak.",
+              "Használja a múzeumokat fő tartózkodási helyként.",
+              "A kikötő számos kávézója rendelkezik fedett terasszal."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza brizei.",
+              "Pavelele din orașul vechi devin foarte alunecoase la umezeală.",
+              "Folosiți muzeele ca locuri principale de vizitat.",
+              "Multe cafenele din port au terase acoperite."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to the sea breeze.",
+              "The cobblestones in the old town get very slippery when wet.",
+              "Prioritize museums as your main indoor stops.",
+              "Many portside cafes have covered terraces."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintertag zeigt sich Durrës von seiner ruhigen Seite. Das Amphitheater wirkt in der tiefstehenden Sonne fast mystisch. Mittags wärmt man sich in der venezianischen Festung auf, bevor man den kühlen Wind am Hafen genießt. Da es früh dunkel wird, bietet der Besuch des Museums am Nachmittag eine angenehme Abwechslung, gefolgt von einem herzlichen Abendessen in Meeresnähe.",
+            "hu": "Egy tiszta téli napon Durrës a nyugodtabb arcát mutatja. Az amfiteátrum szinte misztikus az alacsonyan járó napfényben. Délben a velencei erőd falai között melegedhetünk fel, mielőtt szembenéznénk a hűvös tengeri széllel. Mivel korán sötétedik, a délutáni múzeumlátogatás kiváló program, amit egy tartalmas vacsora követ a kikötőben.",
+            "ro": "Într-o zi senină de iarnă, Durrës își dezvăluie latura liniștită. Amfiteatrul pare aproape mistic în lumina joasă a soarelui. La prânz, vă puteți încălzi în fortăreața venețiană înainte de a înfrunta vântul rece din port. Deoarece se întunecă devreme, vizita la muzeu este perfectă pentru după-amiază, urmată de o cină caldă.",
+            "en": "On a crisp winter day, Durrës shows its quieter side. The amphitheatre looks almost mystical in the low winter sun. Warm up inside the Venetian fortress at noon before braving the cool sea breeze. With early sunsets, the museum is perfect for the afternoon, followed by a hearty dinner near the illuminated harbor."
+          },
+          "stops": [
+            {
+              "name": "Amphitheatre of Durrës",
+              "tip_4lang": {
+                "de": "Tragen Sie warme Kleidung; der Stein strahlt Kälte ab.",
+                "hu": "Öltözzön rétegesen; a kövek ontják a hideget.",
+                "ro": "Îmbrăcați-vă gros; piatra emană mult frig.",
+                "en": "Dress warmly; the stone radiates cold."
+              }
+            },
+            {
+              "name": "Roman Forum and Thermal Baths",
+              "tip_4lang": {
+                "de": "Das Licht am Vormittag ist ideal für Fotos.",
+                "hu": "A délelőtti fények ideálisak a fotózáshoz.",
+                "ro": "Lumina dimineții este ideală pentru fotografii.",
+                "en": "Morning light is ideal for photography here."
+              }
+            },
+            {
+              "name": "Byzantine City Walls",
+              "tip_4lang": {
+                "de": "Genießen Sie den freien Blick ohne Touristenmassen.",
+                "hu": "Élvezze a kilátást turistatömegek nélkül.",
+                "ro": "Bucurați-vă de vedere fără mulțimile de turiști.",
+                "en": "Enjoy the view without the tourist crowds."
+              }
+            },
+            {
+              "name": "Venetian Tower",
+              "tip_4lang": {
+                "de": "Ein heißer Tee im Turm ist jetzt genau das Richtige.",
+                "hu": "Egy forró tea a toronyban most a legjobb választás.",
+                "ro": "Un ceai fierbinte în turn este exact ce trebuie.",
+                "en": "A hot tea in the tower is exactly what you need."
+              }
+            },
+            {
+              "name": "Durrës Archaeological Museum",
+              "tip_4lang": {
+                "de": "Die Innenräume sind angenehm temperiert.",
+                "hu": "A belső terek kellemesen temperáltak.",
+                "ro": "Spațiile interioare sunt încălzite corespunzător.",
+                "en": "The interior spaces are comfortably heated."
+              }
+            },
+            {
+              "name": "Sfinksi Promenade",
+              "tip_4lang": {
+                "de": "Erleben Sie den Sonnenuntergang gegen 16:30 Uhr.",
+                "hu": "Nézze meg a naplementét délután fél 5 körül.",
+                "ro": "Urmăriți apusul în jurul orei 16:30.",
+                "en": "Watch the sunset around 4:30 PM."
+              }
+            },
+            {
+              "name": "Seaside Dinner",
+              "tip_4lang": {
+                "de": "Fragen Sie nach traditionellen, warmen Schmorgerichten.",
+                "hu": "Kérjen hagyományos, meleg párolt ételeket.",
+                "ro": "Cereți preparate tradiționale calde, la cuptor.",
+                "en": "Ask for traditional, warm slow-cooked dishes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 17:00 Uhr unter.",
+              "Windfeste Jacken sind am Ufer zwingend erforderlich.",
+              "Die Museen haben im Winter oft verkürzte Öffnungszeiten.",
+              "Es gibt deutlich weniger Straßenverkäufer als im Sommer."
+            ],
+            "hu": [
+              "A nap télen már délután 5 óra körül lemegy.",
+              "A tengerparton szélálló kabát használata kötelező.",
+              "A múzeumok télen gyakran rövidített nyitvatartással üzemelnek.",
+              "Lényegesen kevesebb az utcai árus, mint nyáron."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 17:00 iarna.",
+              "Jachetele rezistente la vânt sunt obligatorii pe faleză.",
+              "Muzeele au adesea program redus în timpul iernii.",
+              "Sunt mult mai puțini vânzători ambulanți decât vara."
+            ],
+            "en": [
+              "The sun sets as early as 5:00 PM in winter.",
+              "Windproof jackets are a must on the waterfront.",
+              "Museums often have shorter opening hours in winter.",
+              "There are significantly fewer street vendors than in summer."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +929,188 @@
           "Bring a lock to secure your bike at the stops.",
           "The ride along the coast is flat and enjoyable, but be prepared for hills inland."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Durrës Konzentration. Vom Amphitheater geht es über glatte Gassen zum venezianischen Turm. Die Mittagspause wird im Trockenen ausgedehnt, bevor man zum Museum radelt. Die Uferpromenade ist zwar leer, aber windanfällig, daher endet die Tour frühzeitig bei einem warmen Essen im Hafenbereich.",
+            "hu": "Az esőben való kerékpározás Durrësben figyelmet igényel. Az amfiteátrumtól csúszós utcákon át tekerünk a velencei toronyig. Az ebédszünetet a szárazban meghosszabbítjuk, majd a múzeum felé vesszük az irányt. A tengerparti sétány ilyenkor üres, de szeles, így a túra korán, egy meleg vacsorával zárul a kikötőben.",
+            "ro": "Mersul pe bicicletă în ploaie necesită concentrare în Durrës. De la amfiteatru se merge pe străduțe alunecoase spre turnul venețian. Pauza de prânz este prelungită la adăpost înainte de a pedala spre muzeu. Faleza este goală, dar expusă vântului, așa că turul se încheie devreme cu o masă caldă.",
+            "en": "Cycling in the rain requires focus in Durrës. From the amphitheatre, ride through slippery alleys to the Venetian Tower. Extend your lunch break indoors before heading to the museum. The promenade is empty but windy, so the tour ends early with a warm meal in the harbor area."
+          },
+          "stops": [
+            {
+              "name": "Amphitheatre of Durrës",
+              "tip_4lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Stein.",
+                "hu": "Vigyázzon a leszállásnál a nedves köveken.",
+                "ro": "Atenție la descălecare pe piatra umedă.",
+                "en": "Be careful when dismounting on wet stone."
+              }
+            },
+            {
+              "name": "Venetian Tower",
+              "tip_4lang": {
+                "de": "Sicherer Fahrradabstellplatz in der Nähe suchen.",
+                "hu": "Keressen biztonságos kerékpártárolót a közelben.",
+                "ro": "Căutați un loc sigur de parcare pentru biciclete.",
+                "en": "Look for a secure bike parking spot nearby."
+              }
+            },
+            {
+              "name": "Durrës Archaeological Museum",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Trocknen der Kleidung.",
+                "hu": "Használja a múzeumlátogatást a ruhák megszárítására.",
+                "ro": "Folosiți vizita la muzeu pentru a vă usca hainele.",
+                "en": "Use the museum visit to dry off your gear."
+              }
+            },
+            {
+              "name": "Lunch near the Port",
+              "tip_4lang": {
+                "de": "Wählen Sie ein Restaurant mit Sicht auf die Räder.",
+                "hu": "Válasszon éttermet, ahonnan rálát a biciklikre.",
+                "ro": "Alegeți un restaurant cu vedere la biciclete.",
+                "en": "Choose a restaurant with a view of your bikes."
+              }
+            },
+            {
+              "name": "Sfinksi Promenade & Beach",
+              "tip_4lang": {
+                "de": "Starke Böen können das Radfahren erschweren.",
+                "hu": "Az erős széllökések nehezíthetik a haladást.",
+                "ro": "Rafalele puternice pot îngreuna pedalarea.",
+                "en": "Strong gusts can make cycling difficult here."
+              }
+            },
+            {
+              "name": "Royal Villa of Durrës",
+              "tip_4lang": {
+                "de": "Der Anstieg kann bei Regen sehr rutschig sein.",
+                "hu": "Az emelkedő esőben nagyon csúszós lehet.",
+                "ro": "Urcarea poate fi foarte alunecoasă pe ploaie.",
+                "en": "The climb can be very slippery in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie Pfützen, da Schlaglöcher tief sein können.",
+              "Schutzbleche sind bei diesem Wetter unverzichtbar.",
+              "Bremswege auf Kopfsteinpflaster verlängern sich extrem.",
+              "Tragen Sie leuchtende Regenbekleidung für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "Kerülje a tócsákat, mert a kátyúk mélyek lehetnek.",
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "A fékút macskakövön extrém módon meghosszabbodik.",
+              "Viseljen fényvisszaverő esőruházatot a láthatóságért."
+            ],
+            "ro": [
+              "Evitați bălțile, gropile pot fi adânci.",
+              "Apărătorile de noroi sunt indispensabile pe această vreme.",
+              "Distanța de frânare pe pavaj se prelungește enorm.",
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate."
+            ],
+            "en": [
+              "Avoid puddles as potholes can be deep.",
+              "Mudguards are indispensable in this weather.",
+              "Braking distances on cobblestones increase significantly.",
+              "Wear bright rain gear for better visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Durrës bietet klare Luft und leere Wege. Nach dem Amphitheater geht es zügig zum Hafen, um im Fahrtwind nicht zu sehr auszukühlen. Mittags lockt ein warmes Restaurant, bevor das Museum am Nachmittag aufgesucht wird. Die Tour endet bei Sonnenuntergang an der Villa, von wo aus man die winterliche Stadt überblickt.",
+            "hu": "A téli kerékpározás Durrësben friss levegőt és üres utakat kínál. Az amfiteátrum után tempósan haladunk a kikötő felé, hogy ne fázzunk meg a menetszélben. Ebédre egy meleg étterem csábít, majd délután a múzeum következik. A túra naplementekor a Villánál zárul, ahonnan rálátni a téli városra.",
+            "ro": "Pedalatul pe timp de iarnă în Durrës oferă aer curat și drumuri libere. După amfiteatru se merge rapid spre port pentru a nu îngheța. La prânz vă atrage un restaurant cald, înainte de a vizita muzeul. Turul se încheie la apus la Vilă, oferind o panoramă asupra orașului.",
+            "en": "Winter cycling in Durrës offers crisp air and empty paths. After the amphitheatre, head quickly to the port to stay warm through movement. A cozy restaurant beckons for lunch before the afternoon museum visit. The tour ends at sunset by the Villa, overlooking the quiet winter city."
+          },
+          "stops": [
+            {
+              "name": "Amphitheatre of Durrës",
+              "tip_4lang": {
+                "de": "Handschuhe sind für die Abfahrt wichtig.",
+                "hu": "A kesztyű fontos a lejtőkhöz.",
+                "ro": "Mănușile sunt importante pentru coborâre.",
+                "en": "Gloves are important for the downhill sections."
+              }
+            },
+            {
+              "name": "Venetian Tower",
+              "tip_4lang": {
+                "de": "Kurzer Fotostopp, um in Bewegung zu bleiben.",
+                "hu": "Rövid fotómegálló, hogy mozgásban maradjunk.",
+                "ro": "Scurt popas foto pentru a rămâne în mișcare.",
+                "en": "Quick photo stop to keep moving and stay warm."
+              }
+            },
+            {
+              "name": "Durrës Archaeological Museum",
+              "tip_4lang": {
+                "de": "Fahrradständer direkt vor dem Eingang.",
+                "hu": "Kerékpártároló közvetlenül a bejárat előtt.",
+                "ro": "Suport de biciclete direct în fața intrării.",
+                "en": "Bike racks are available right in front of the entrance."
+              }
+            },
+            {
+              "name": "Lunch near the Port",
+              "tip_4lang": {
+                "de": "Suchen Sie einen Platz nahe der Heizung.",
+                "hu": "Keressen helyet a fűtőtest közelében.",
+                "ro": "Căutați un loc lângă calorifer.",
+                "en": "Look for a seat near the heater."
+              }
+            },
+            {
+              "name": "Sfinksi Promenade & Beach",
+              "tip_4lang": {
+                "de": "Vorsicht vor Sandverwehungen auf dem Radweg.",
+                "hu": "Vigyázzon a homokátfúvásokkal a kerékpárúton.",
+                "ro": "Atenție la nisipul suflat pe pista de biciclete.",
+                "en": "Watch out for sand drifts on the bike path."
+              }
+            },
+            {
+              "name": "Royal Villa of Durrës",
+              "tip_4lang": {
+                "de": "Der Anstieg hält den Körper warm.",
+                "hu": "Az emelkedő segít melegen tartani a testet.",
+                "ro": "Urcarea ajută la menținerea căldurii corpului.",
+                "en": "The climb will help keep your body temperature up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip).",
+              "Das Tageslicht endet im Dezember gegen 16:30 Uhr.",
+              "Achten Sie auf gefrorene Stellen in schattigen Gassen.",
+              "Ein Heißgetränk in der Pause wirkt Wunder."
+            ],
+            "hu": [
+              "Viseljen több réteg ruhát (hagyma-elv).",
+              "A nappali fény decemberben fél 5 körül elfogy.",
+              "Ügyeljen a fagyott foltokra az árnyékos utcákban.",
+              "Egy forró ital a szünetben csodákra képes."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine.",
+              "Lumina zilei se termină în jurul orei 16:30 în decembrie.",
+              "Atenție la porțiunile înghețate pe străzile umbrite.",
+              "O băutură fierbinte în pauză face minuni."
+            ],
+            "en": [
+              "Wear multiple layers of clothing (onion principle).",
+              "Daylight ends around 4:30 PM in December.",
+              "Watch out for icy patches in shaded alleys.",
+              "A hot drink during your break works wonders."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1085,6 +1467,188 @@
           "Do not leave valuables in the car.",
           "Roads outside the center can be narrow, so drive carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Durrës auch bei Regen komfortabel erkunden. Man parkt nah am Amphitheater und den Thermen, um kurze Wege im Freien zu haben. Mittags geht es zur Villa und zum Schloss, wobei das Auto als trockener Rückzugsort dient. Der Nachmittag wird im fernen Golem verbracht, wo man den Regen vom Fenster eines Strandcafés aus beobachtet.",
+            "hu": "Autóval Durrës esőben is kényelmesen felfedezhető. Parkoljon közel az amfiteátrumhoz és a termákhoz, hogy minimalizálja a kinti sétát. Délben a Villát és a várat érintjük, az autó pedig száraz menedékként szolgál. A délutánt a távolabbi Golemben töltjük, ahol egy tengerparti kávézó ablakából nézzük az esőt.",
+            "ro": "Cu mașina, Durrës poate fi explorat confortabil chiar și pe ploaie. Parcați aproape de amfiteatru și terme pentru drumuri scurte prin ploaie. La prânz se merge la Vilă și la castel, mașina fiind un refugiu uscat. După-amiaza este petrecută în Golem, privind ploaia de la fereastra unei cafenele.",
+            "en": "Exploring Durrës by car remains comfortable even in heavy rain. Park close to the amphitheatre and baths to minimize time spent outdoors. At noon, visit the Villa and Castle, using the car as a dry retreat. Spend the afternoon in Golem, watching the storm from the window of a cozy beach cafe."
+          },
+          "stops": [
+            {
+              "name": "Parking near the Amphitheatre",
+              "tip_4lang": {
+                "de": "Nutzen Sie bewachte Parkplätze, um Pfützen zu meiden.",
+                "hu": "Használjon őrzött parkolót a tócsák elkerülésére.",
+                "ro": "Folosiți parcări păzite pentru a evita bălțile.",
+                "en": "Use guarded parking to avoid deep puddles."
+              }
+            },
+            {
+              "name": "Roman Forum and Thermal Baths",
+              "tip_4lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz.",
+                "ro": "Parcați cât mai aproape posibil de intrare.",
+                "en": "Park as close to the entrance as possible."
+              }
+            },
+            {
+              "name": "Royal Villa of Durrës",
+              "tip_4lang": {
+                "de": "Die Zufahrt kann bei Starkregen rutschig sein.",
+                "hu": "A felvezető út heves esőben csúszós lehet.",
+                "ro": "Drumul de acces poate fi alunecos la ploi torențiale.",
+                "en": "The access road can be slippery during heavy rain."
+              }
+            },
+            {
+              "name": "Durrës Castle & Venetian Tower",
+              "tip_4lang": {
+                "de": "In der Nähe gibt es mehrere Parkmöglichkeiten.",
+                "hu": "A közelben több parkolási lehetőség is van.",
+                "ro": "Există mai multe opțiuni de parcare în apropiere.",
+                "en": "There are several parking options nearby."
+              }
+            },
+            {
+              "name": "Golem Beach for Sunset",
+              "tip_4lang": {
+                "de": "Bleiben Sie bei starkem Regen einfach im Auto.",
+                "hu": "Heves esőben maradjon inkább az autóban.",
+                "ro": "Rămâneți în mașină dacă plouă torențial.",
+                "en": "Stay in the car if the rain is too heavy."
+              }
+            },
+            {
+              "name": "Dinner in Golem",
+              "tip_4lang": {
+                "de": "Wählen Sie ein Restaurant mit nahem Parkplatz.",
+                "hu": "Válasszon éttermet közeli parkolóval.",
+                "ro": "Alegeți un restaurant cu parcare apropiată.",
+                "en": "Choose a restaurant with a nearby parking lot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Küstenstraße.",
+              "Parkhäuser sind im Stadtzentrum rar, nutzen Sie Freiflächen.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt.",
+              "Halten Sie Abstand zu Fußgängern an Pfützen."
+            ],
+            "hu": [
+              "Ügyeljen az aquaplaningre a parti úton.",
+              "A belvárosban kevés a parkolóház, használja a nyitott tereket.",
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Tartson távolságot a gyalogosoktól a tócsáknál."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul de coastă.",
+              "Parcările etajate sunt rare, folosiți spațiile deschise.",
+              "Verificați ștergătoarele înainte de plecare.",
+              "Păstrați distanța față de pietoni lângă bălți."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the coastal road.",
+              "Parking garages are rare, use open-air lots.",
+              "Check your windshield wipers before the trip.",
+              "Keep distance from pedestrians when passing puddles."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter in Durrës bedeutet weniger Verkehr und entspanntes Parken. Nach dem Amphitheater am Morgen führt die Tour zur Villa, die im Winterlicht besonders imposant wirkt. Mittags genießt man die Aussicht vom Schloss, bevor es nach Golem geht. Der Strand dort ist im Winter fast menschenleer und ideal für einen kurzen Spaziergang vor dem Abendessen.",
+            "hu": "A tél Durrësben kevesebb forgalmat és könnyű parkolást jelent. A reggeli amfiteátrum után a Villához vezet az út, ami a téli fényben különösen impozáns. Ebédre a vár kilátását élvezzük, majd Golem felé vesszük az irányt. A tengerpart ilyenkor szinte néptelen, ideális egy rövid sétára vacsora előtt.",
+            "ro": "Iarna în Durrës înseamnă trafic redus și parcare relaxată. După amfiteatru, turul duce la Vilă, care arată impunător în lumina de iarnă. La prânz savurați vederea de la castel înainte de a merge în Golem. Plaja de acolo este aproape pustie iarna, ideală pentru o scurtă plimbare.",
+            "en": "Winter in Durrës means less traffic and easy parking. After the morning visit to the amphitheatre, head to the Villa, which looks especially grand in winter light. Enjoy the castle views at noon before driving to Golem. The beach there is nearly empty in winter, perfect for a short walk before dinner."
+          },
+          "stops": [
+            {
+              "name": "Parking near the Amphitheatre",
+              "tip_4lang": {
+                "de": "Parkplätze sind im Winter reichlich vorhanden.",
+                "hu": "Télen bőségesen van parkolóhely.",
+                "ro": "Locurile de parcare sunt din abundență iarna.",
+                "en": "Parking spaces are plentiful in winter."
+              }
+            },
+            {
+              "name": "Roman Forum and Thermal Baths",
+              "tip_4lang": {
+                "de": "Kurze Wege sparen Zeit im kühlen Wind.",
+                "hu": "A rövid utak időt spórolnak a hűvös szélben.",
+                "ro": "Drumurile scurte economisesc timp în vântul rece.",
+                "en": "Short walks save time in the cool wind."
+              }
+            },
+            {
+              "name": "Royal Villa of Durrës",
+              "tip_4lang": {
+                "de": "Beste Zeit für Fotos ohne störende Busse.",
+                "hu": "A legjobb idő fotózni zavaró buszok nélkül.",
+                "ro": "Cel mai bun moment pentru poze fără autobuze.",
+                "en": "Best time for photos without tourist buses."
+              }
+            },
+            {
+              "name": "Durrës Castle & Venetian Tower",
+              "tip_4lang": {
+                "de": "Die Heizung im Auto zwischen den Stopps genießen.",
+                "hu": "Élvezze az autó fűtését a megállók között.",
+                "ro": "Bucurați-vă de căldura din mașină între opriri.",
+                "en": "Enjoy the car's heater between stops."
+              }
+            },
+            {
+              "name": "Golem Beach for Sunset",
+              "tip_4lang": {
+                "de": "Der Sonnenuntergang ist im Winter sehr farbenfroh.",
+                "hu": "A naplemente télen nagyon színes.",
+                "ro": "Apusul este foarte colorat în timpul iernii.",
+                "en": "Sunsets are often very colorful in winter."
+              }
+            },
+            {
+              "name": "Dinner in Golem",
+              "tip_4lang": {
+                "de": "Viele Restaurants haben im Winter geschlossen.",
+                "hu": "Sok étterem zárva van télen.",
+                "ro": "Multe restaurante sunt închise iarna.",
+                "en": "Note that many restaurants are closed in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Hauptstraße nach Golem ist gut ausgebaut.",
+              "Frost ist selten, aber Feuchtigkeit kann glatt sein.",
+              "Nutzen Sie das Auto als Basis für Kleidungsschichten.",
+              "Tankstellen sind auch im Winter flächendeckend offen."
+            ],
+            "hu": [
+              "A Golembe vezető főút jól kiépített.",
+              "A fagy ritka, de a nedvesség csúszós lehet.",
+              "Használja az autót a váltóruhák tárolására.",
+              "A benzinkutak télen is folyamatosan nyitva vannak."
+            ],
+            "ro": [
+              "Drumul principal spre Golem este bine întreținut.",
+              "Înghețul este rar, dar umezeala poate fi alunecoasă.",
+              "Folosiți mașina ca bază pentru straturile de haine.",
+              "Benzinăriile sunt deschise peste tot și iarna."
+            ],
+            "en": [
+              "The main road to Golem is well-developed.",
+              "Frost is rare, but moisture can make roads slick.",
+              "Use the car as a base for storing extra layers.",
+              "Gas stations remain open throughout the winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1441,6 +2005,188 @@
           "Ask locals for the correct bus line if you are unsure.",
           "Keep an eye on your belongings on the bus."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind bei Regen die beste Wahl. Mit dem Bus erreicht man das Amphitheater fast direkt. Mittags bieten die Stadtbusse trockene Wege zwischen den Ruinen und dem venezianischen Turm. Der Nachmittag wird im Museum verbracht, bevor der Bus zur Promenade fährt, wo man trotz Regen einen Platz mit Meerblick in einem Restaurant findet.",
+            "hu": "Az esőben a tömegközlekedés a legjobb választás. Busszal szinte közvetlenül az amfiteátrumhoz juthatunk. Délben a városi járatok száraz utat biztosítanak a romok és a velencei torony között. A délutánt a múzeumban töltjük, majd busszal megyünk a sétányra, ahol az eső ellenére is találunk tengeri kilátással rendelkező éttermet.",
+            "ro": "Transportul public este cea mai bună alegere pe ploaie. Cu autobuzul se ajunge aproape direct la amfiteatru. La prânz, liniile urbane oferă drumuri uscate între ruine și turn. După-amiaza este petrecută în muzeu, înainte ca autobuzul să vă ducă la faleză pentru cină.",
+            "en": "Public transit is the smartest choice for a rainy day. Buses drop you off almost directly at the amphitheatre. At noon, local lines provide dry passage between the ruins and the tower. Spend the afternoon in the museum before taking a bus to the promenade for a dinner with a view."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Amphitheatre (Bus)",
+              "tip_4lang": {
+                "de": "Bushaltestelle ist nur wenige Gehminuten entfernt.",
+                "hu": "A buszmegálló csak pár perc sétára van.",
+                "ro": "Stația de autobuz este la doar câteva minute.",
+                "en": "The bus stop is only a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Byzantine City Walls",
+              "tip_4lang": {
+                "de": "Kurzer Spaziergang von der Bushaltestelle.",
+                "hu": "Rövid séta a buszmegállótól.",
+                "ro": "Scurtă plimbare de la stația de autobuz.",
+                "en": "Short walk from the nearest bus stop."
+              }
+            },
+            {
+              "name": "Bus to the Coastal Cluster",
+              "tip_4lang": {
+                "de": "Häufige Verbindungen, perfekt zum Aufwärmen.",
+                "hu": "Gyakori járatok, tökéletesek a felmelegedéshez.",
+                "ro": "Legături frecvente, perfecte pentru încălzire.",
+                "en": "Frequent connections, perfect for staying warm."
+              }
+            },
+            {
+              "name": "Durrës Archaeological Museum",
+              "tip_4lang": {
+                "de": "Bushaltestelle direkt an der Hauptstraße.",
+                "hu": "Buszmegálló közvetlenül a főúton.",
+                "ro": "Stație de autobuz chiar pe strada principală.",
+                "en": "Bus stop is right on the main street."
+              }
+            },
+            {
+              "name": "Bus to Sfinksi Promenade",
+              "tip_4lang": {
+                "de": "Fahrplan kann bei schlechtem Wetter variieren.",
+                "hu": "A menetrend rossz időben változhat.",
+                "ro": "Orarele pot varia în caz de vreme rea.",
+                "en": "Schedules may vary during bad weather."
+              }
+            },
+            {
+              "name": "Seaside Dinner",
+              "tip_4lang": {
+                "de": "Rückfahrt zum Zentrum bequem per Bus möglich.",
+                "hu": "A visszautat a központba busszal oldja meg.",
+                "ro": "Returul spre centru este ușor cu autobuzul.",
+                "en": "Return to the center is easy by bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten direkt beim Schaffner im Bus.",
+              "Die Busse können bei Regen sehr voll werden.",
+              "Halten Sie Kleingeld in Lek bereit.",
+              "Zentrale Umstiegspunkte sind meist überdacht."
+            ],
+            "hu": [
+              "A jegyet közvetlenül a kalauznál vegye meg a buszon.",
+              "A buszok esőben nagyon zsúfoltak lehetnek.",
+              "Legyen kéznél aprópénz (Lek).",
+              "A központi átszállási pontok többnyire fedettek."
+            ],
+            "ro": [
+              "Cumpărați bilete direct de la taxator în autobuz.",
+              "Autobuzele pot deveni foarte aglomerate pe ploaie.",
+              "Aveți pregătit mărunt în monedă locală (Lek).",
+              "Nodurile centrale de transport sunt de obicei acoperite."
+            ],
+            "en": [
+              "Buy tickets directly from the conductor on the bus.",
+              "Buses can get very crowded when it rains.",
+              "Keep small change in Lek ready.",
+              "Central transfer points are usually covered."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Transit in Durrës ist effizient und unkompliziert. Der Bus bringt Sie zum Amphitheater, wo Sie die Ruhe genießen. Mittags geht es mit der Stadtlinie weiter zum venezianischen Turm. Nach dem Museumsbesuch am Nachmittag fahren Sie bequem mit dem Bus zur Promenade, um den winterlichen Sonnenuntergang über dem Meer zu erleben, bevor Sie zu Abend essen.",
+            "hu": "A téli tömegközlekedés Durrësben hatékony és egyszerű. A busz az amfiteátrumhoz visz, ahol élvezheti a csendet. Délben a városi járattal folytatjuk utunkat a velencei toronyhoz. A délutáni múzeumlátogatás után busszal megyünk a sétányra, hogy megnézzük a téli naplementét a tenger felett vacsora előtt.",
+            "ro": "Transportul în iarnă în Durrës este eficient și simplu. Autobuzul vă duce la amfiteatru, unde vă bucurați de liniște. La prânz continuați cu linia urbană spre turn. După muzeu, mergeți confortabil cu autobuzul la faleză pentru a vedea apusul de iarnă înainte de cină.",
+            "en": "Winter transit in Durrës is efficient and straightforward. The bus takes you to the amphitheatre, where you can enjoy the peace. At noon, continue by local line to the Venetian Tower. After the museum, take a comfortable bus ride to the promenade to catch the winter sunset over the sea before dinner."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Amphitheatre (Bus)",
+              "tip_4lang": {
+                "de": "Im Winter gibt es weniger Wartezeiten an Haltestellen.",
+                "hu": "Télen kevesebbet kell várni a megállókban.",
+                "ro": "Iarna se așteaptă mai puțin în stații.",
+                "en": "Wait times at stops are generally shorter in winter."
+              }
+            },
+            {
+              "name": "Byzantine City Walls",
+              "tip_4lang": {
+                "de": "Der Bus bietet eine willkommene Aufwärmpause.",
+                "hu": "A busz kellemes pihenőt kínál a melegedéshez.",
+                "ro": "Autobuzul oferă o pauză binevenită de încălzire.",
+                "en": "The bus offers a welcome warm break between sites."
+              }
+            },
+            {
+              "name": "Bus to the Coastal Cluster",
+              "tip_4lang": {
+                "de": "Linienbusse fahren auch im Winter zuverlässig.",
+                "hu": "A menetrend szerinti buszok télen is megbízhatóak.",
+                "ro": "Autobuzele circulă regulat și în timpul iernii.",
+                "en": "Local buses run reliably throughout the winter."
+              }
+            },
+            {
+              "name": "Durrës Archaeological Museum",
+              "tip_4lang": {
+                "de": "Einstieg direkt gegenüber dem Museum.",
+                "hu": "Felszállás közvetlenül a múzeummal szemben.",
+                "ro": "Urcarea se face direct vizavi de muzeu.",
+                "en": "Board the bus directly across from the museum."
+              }
+            },
+            {
+              "name": "Bus to Sfinksi Promenade",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Bus, um die Kälte am Ufer zu meiden.",
+                "hu": "Használja a buszt, hogy elkerülje a parti hideget.",
+                "ro": "Folosiți autobuzul pentru a evita frigul de pe mal.",
+                "en": "Use the bus to avoid long walks in the sea wind."
+              }
+            },
+            {
+              "name": "Seaside Dinner",
+              "tip_4lang": {
+                "de": "Letzte Busse fahren meist bis 21:00 oder 22:00 Uhr.",
+                "hu": "Az utolsó buszok általában 21-22 óráig járnak.",
+                "ro": "Ultimele autobuze circulă de obicei până la 21:00-22:00.",
+                "en": "Last buses usually run until 9:00 or 10:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Im Winter sind die Busse weniger überhitzt.",
+              "Die Frequenz einiger Linien kann leicht reduziert sein.",
+              "Tragen Sie an Haltestellen windfeste Kleidung.",
+              "Busfahren ist eine gute Möglichkeit, Einheimische zu treffen."
+            ],
+            "hu": [
+              "Télen a buszok kevésbé fülledtek.",
+              "Egyes járatok gyakorisága kissé csökkenhet.",
+              "A megállókban viseljen szélálló ruházatot.",
+              "A buszozás jó lehetőség a helyiekkel való találkozásra."
+            ],
+            "ro": [
+              "Iarna autobuzele nu sunt la fel de supraîncălzite.",
+              "Frecvența unor linii poate fi ușor redusă.",
+              "Purtați haine rezistente la vânt în stații.",
+              "Mersul cu autobuzul e o ocazie bună de a vedea localnicii."
+            ],
+            "en": [
+              "Buses are less stuffy in the winter months.",
+              "Frequency of some lines might be slightly reduced.",
+              "Wear windproof clothing while waiting at stops.",
+              "Bus riding is a great way to observe local daily life."
+            ]
+          }
+        }
       }
     }
   }

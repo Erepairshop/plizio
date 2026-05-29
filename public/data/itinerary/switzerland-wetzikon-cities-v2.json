@@ -362,6 +362,200 @@
           "A reusable water bottle is useful, especially for the hike in the gorge.",
           "Keep a camera ready for the picturesque landscapes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Trockener Start in der Reformierten Kirche. Mittag: Das Museum Wetzikon bietet perfekten Schutz vor dem Regen. Nachmittag: Kurze Wege zur Kulturfabrik und ein gemütliches Mittagessen im Zentrum. Abend: Der Kemptner Tobel wirkt bei Regen mystisch, festes Schuhwerk ist für den matschigen Pfad jedoch unerlässlich.",
+            "hu": "Reggel: Száraz kezdés a református templomban. Délben: A Wetzikon Múzeum tökéletes menedék az eső elől. Délután: Rövid séta a Kulturfabrikhoz és egy hangulatos ebéd a központban. Este: A Kemptner Tobel misztikus arcát mutatja esőben, de a sár miatt a bakancs kötelező.",
+            "ro": "Dimineața: Început uscat la Biserica Reformată. Prânz: Muzeul Wetzikon oferă adăpost perfect împotriva ploii. După-amiaza: Scurtă plimbare la Kulturfabrik și un prânz cald în centru. Seara: Kemptner Tobel pare mistic pe ploaie, dar încălțămintea solidă este esențială pentru poteca noroioasă.",
+            "en": "Morning: Dry start at the Reformed Church. Noon: Wetzikon Museum provides perfect shelter from the rain. Afternoon: Short walks to Kulturfabrik and a cozy lunch in the center. Evening: Kemptner Tobel feels mystical in the rain, though sturdy boots are essential for the muddy path."
+          },
+          "stops": [
+            {
+              "name": "Reformed Church Wetzikon",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Vordach, um den Schirm zu schütteln.",
+                "hu": "Használja az előtetőt az esernyő lerázásához.",
+                "ro": "Folosiți copertina pentru a scutura umbrela.",
+                "en": "Use the porch to shake off your umbrella."
+              }
+            },
+            {
+              "name": "Museum Wetzikon",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die stärkste Regenfront abzuwarten.",
+                "hu": "Ideális hely a legerősebb esőfelhők kivárására.",
+                "ro": "Loc ideal pentru a aștepta trecerea ploii torențiale.",
+                "en": "Ideal place to wait out the heaviest rain front."
+              }
+            },
+            {
+              "name": "Kulturfabrik Wetzikon",
+              "tip_5lang": {
+                "de": "Überdachte Bereiche zwischen den Gebäuden nutzen.",
+                "hu": "Használja az épületek közötti fedett részeket.",
+                "ro": "Folosiți zonele acoperite dintre clădiri.",
+                "en": "Utilize the covered areas between buildings."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "coords": [
+                8.798,
+                47.327
+              ],
+              "tip_5lang": {
+                "de": "Ein warmes Fondue wärmt an grauen Regentagen auf.",
+                "hu": "Egy meleg fondü felmelegít a szürke esős napokon.",
+                "ro": "Un fondue cald te încălzește în zilele ploioase.",
+                "en": "A warm fondue warms you up on grey rainy days."
+              }
+            },
+            {
+              "name": "Schönau Pond",
+              "tip_5lang": {
+                "de": "Die Enten stört der Regen nicht, Vorsicht: glitschig.",
+                "hu": "A kacsákat nem zavarja az eső, vigyázat: csúszós part.",
+                "ro": "Rațele nu sunt deranjate de ploaie, atenție: alunecos.",
+                "en": "The ducks don't mind the rain, caution: slippery banks."
+              }
+            },
+            {
+              "name": "Stroll in Kemptner Tobel",
+              "tip_5lang": {
+                "de": "Das Blätterdach bietet etwas Schutz, Weg ist oft nass.",
+                "hu": "A lombok némi védelmet adnak, az út gyakran vizes.",
+                "ro": "Baldachinul frunzelor oferă protecție, drumul e ud.",
+                "en": "The leafy canopy offers some shelter, path is often wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für das Kemptner Tobel.",
+              "Das Museum Wetzikon ist montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Ein Taschenregenschirm passt in jede Jackentasche.",
+              "Die Busse in Wetzikon sind eine gute Alternative bei Starkregen.",
+              "Warme Getränke in der Altstadt einplanen."
+            ],
+            "hu": [
+              "Viseljen vízálló túrabakancsot a Kemptner Tobelhez.",
+              "A Wetzikon Múzeum hétfőnként zárva, ellenőrizze az időpontokat.",
+              "Egy összecsukható esernyő minden zsebben elfér.",
+              "A wetzikoni buszok jó alternatívát jelentenek szakadó esőben.",
+              "Tervezzen be meleg italokat az óvárosban."
+            ],
+            "ro": [
+              "Purtați bocanci de drumeție impermeabili pentru Kemptner Tobel.",
+              "Muzeul Wetzikon este adesea închis lunea, verificați orarul.",
+              "O umbrelă compactă încape în orice buzunar.",
+              "Autobuzele din Wetzikon sunt o alternativă bună la ploaie torențială.",
+              "Planificați băuturi calde în centrul vechi."
+            ],
+            "en": [
+              "Wear waterproof hiking boots for Kemptner Tobel.",
+              "Museum Wetzikon is often closed on Mondays, check hours.",
+              "A compact umbrella fits in any jacket pocket.",
+              "Wetzikon buses are a good alternative during heavy rain.",
+              "Plan for warm drinks in the old town center."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Die klare Winterluft belebt den Besuch der Kirche. Mittag: Aufwärmen im Museum, während draußen der Schnee glitzert. Nachmittag: Kurze Wege im Stadtzentrum minimieren die Kälte. Abend: Der Kemptner Tobel wirkt wie verzaubert mit Eiszapfen an den Felsen, Rückkehr vor Einbruch der frühen Dunkelheit empfohlen.",
+            "hu": "Reggel: A friss téli levegő élénkítővé teszi a templomlátogatást. Délben: Melegedés a múzeumban, miközben kint csillog a hó. Délután: A belvárosi rövid távok minimalizálják a hideget. Este: A Kemptner Tobel jégcsapokkal teli sziklái varázslatosak, de térjen vissza a korai sötétedés előtt.",
+            "ro": "Dimineața: Aerul curat de iarnă revigorează vizita la biserică. Prânz: Încălzire în muzeu în timp ce zăpada sclipește afară. După-amiaza: Distanțele scurte din centru minimizează frigul. Seara: Kemptner Tobel pare vrăjit cu țurțuri pe stânci, revenire recomandată înainte de lăsarea serii.",
+            "en": "Morning: Fresh winter air invigorates the church visit. Noon: Warming up in the museum while snow glistens outside. Afternoon: Short distances in the town center minimize the cold. Evening: Kemptner Tobel looks enchanted with icicles on the rocks, return recommended before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Reformed Church Wetzikon",
+              "tip_5lang": {
+                "de": "Oft beheizt, ein guter Ort für eine kurze Pause.",
+                "hu": "Gyakran fűtött, jó hely egy rövid pihenőre.",
+                "ro": "Adesea încălzită, un loc bun pentru o scurtă pauză.",
+                "en": "Often heated, a good place for a short break."
+              }
+            },
+            {
+              "name": "Museum Wetzikon",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme und die lokale Geschichte.",
+                "hu": "Élvezze a meleget és a helyi történelmet.",
+                "ro": "Bucurați-vă de căldură și de istoria locală.",
+                "en": "Enjoy the warmth and the local history."
+              }
+            },
+            {
+              "name": "Kulturfabrik Wetzikon",
+              "tip_5lang": {
+                "de": "Drinnen ist es gemütlich, achten Sie auf Winterevents.",
+                "hu": "Bent barátságos, figyeljen a téli eseményekre.",
+                "ro": "Înăuntru e confortabil, atenție la evenimentele de iarnă.",
+                "en": "Cozy indoors, look out for winter events."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Suppen und Heißgetränke sind jetzt besonders beliebt.",
+                "hu": "A levesek és forró italok most különösen népszerűek.",
+                "ro": "Supele și băuturile calde sunt acum foarte populare.",
+                "en": "Soups and hot drinks are especially popular now."
+              }
+            },
+            {
+              "name": "Schönau Pond",
+              "tip_5lang": {
+                "de": "Vorsicht bei gefrorenen Uferkanten, Betreten verboten.",
+                "hu": "Vigyázat a fagyott partéleknél, a jégre lépni tilos.",
+                "ro": "Atenție la malurile înghețate, accesul pe gheață interzis.",
+                "en": "Caution near frozen banks, walking on ice is forbidden."
+              }
+            },
+            {
+              "name": "Stroll in Kemptner Tobel",
+              "tip_5lang": {
+                "de": "Eisglätte auf den Stufen möglich, Spikes empfohlen.",
+                "hu": "Jegesedés várható a lépcsőkön, csúszásgátló ajánlott.",
+                "ro": "Gheață posibilă pe trepte, se recomandă crampoane.",
+                "en": "Icy patches possible on steps, spikes recommended."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung schützt vor Kälte.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Achten Sie auf Glatteis auf den Brücken im Tobel.",
+              "Thermo-Trinkflasche mit Tee hält unterwegs warm.",
+              "Museumsbesuch auf die kälteste Mittagszeit legen."
+            ],
+            "hu": [
+              "A réteges öltözködés véd a leghatékonyabban a hideg ellen.",
+              "A nap télen már 16:30 körül lenyugszik.",
+              "Ügyeljen a jegesedésre a Tobel hídjain.",
+              "A teával töltött termosztól útközben sem fog fázni.",
+              "A múzeumlátogatást a leghidegebb déli órákra időzítse."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi protejează cel mai bine de frig.",
+              "Soarele apune iarna deja în jurul orei 16:30.",
+              "Atenție la polei pe podurile din Tobel.",
+              "Un termos cu ceai vă menține cald pe drum.",
+              "Programați vizita la muzeu în cele mai reci ore ale amiezii."
+            ],
+            "en": [
+              "Layered clothing is the best protection against cold.",
+              "The sun sets as early as 16:30 in winter.",
+              "Watch out for black ice on the bridges in the Tobel.",
+              "A thermos with hot tea keeps you warm on the go.",
+              "Schedule the museum visit for the coldest midday hours."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -718,6 +912,196 @@
           "A helmet is strongly recommended.",
           "Respect nature and stay on the marked paths."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Start am Pfäffikersee bei Nebel und Regen. Mittag: Besichtigung der Pfahlbauten Robenhausen, die im Regen authentisch wirken. Nachmittag: Die Fahrt durch den Kemptner Tobel erfordert Vorsicht auf rutschigen Wurzeln. Abend: Rückreise um den See mit Spritzschutz und wetterfester Kleidung.",
+            "hu": "Reggel: Indulás a Pfäffikersee-től ködben és esőben. Délben: A robenhauseni cölöpépítmények megtekintése, melyek esőben is hitelesek. Délután: A Kemptner Tobelen átvezető út óvatosságot igényel a csúszós gyökerek miatt. Este: Visszaút a tó körül sárvédővel és vízálló ruházatban.",
+            "ro": "Dimineața: Start la Pfäffikersee prin ceață și ploaie. Prânz: Vizitarea locuințelor lacustre din Robenhausen, autentice și pe ploaie. După-amiaza: Cursa prin Kemptner Tobel necesită prudență pe rădăcinile alunecoase. Seara: Retur în jurul lacului cu apărători și haine impermeabile.",
+            "en": "Morning: Start at Pfäffikersee in fog and rain. Noon: Visiting the Robenhausen pile dwellings, which look authentic in the rain. Afternoon: The ride through Kemptner Tobel requires caution on slippery roots. Evening: Return trip around the lake with mudguards and waterproof gear."
+          },
+          "stops": [
+            {
+              "name": "Start at Pfäffikersee",
+              "tip_5lang": {
+                "de": "Windfeste Regenjacke am offenen Seeufer wichtig.",
+                "hu": "Szélálló esőkabát fontos a nyitott tóparton.",
+                "ro": "Jachetă de ploaie rezistentă la vânt pe malul lacului.",
+                "en": "Windproof raincoat is important on the open lakeshore."
+              }
+            },
+            {
+              "name": "Pile Dwellings Robenhausen",
+              "tip_5lang": {
+                "de": "Der Boden kann bei Nässe sehr rutschig sein.",
+                "hu": "A talaj nedvesen nagyon csúszós lehet.",
+                "ro": "Solul poate fi foarte alunecos când este ud.",
+                "en": "The ground can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Kemptner Tobel",
+              "tip_5lang": {
+                "de": "MTB-Reifen mit Profil sind hier bei Regen nötig.",
+                "hu": "Profilozott MTB gumik szükségesek itt esőben.",
+                "ro": "Anvelopele MTB cu profil sunt necesare aici pe ploaie.",
+                "en": "MTB tires with tread are necessary here in the rain."
+              }
+            },
+            {
+              "name": "Lunch in Wetzikon",
+              "tip_5lang": {
+                "de": "Sicheres Abstellen der Räder unter Vordächern.",
+                "hu": "A biciklik biztonságos leállítása előtetők alatt.",
+                "ro": "Parcare sigură a bicicletelor sub copertine.",
+                "en": "Secure bike parking under covered areas."
+              }
+            },
+            {
+              "name": "Reformed Church Wetzikon",
+              "tip_5lang": {
+                "de": "Kurze Pause im Trockenen, bevor es weitergeht.",
+                "hu": "Rövid pihenő szárazon, mielőtt tovább indulna.",
+                "ro": "Scurtă pauză la uscat înainte de a continua.",
+                "en": "Short break in the dry before continuing."
+              }
+            },
+            {
+              "name": "Return trip around Pfäffikersee",
+              "tip_5lang": {
+                "de": "Pfützen auf dem Radweg einplanen, Tempo drosseln.",
+                "hu": "Számítson tócsákra a kerékpárúton, lassítson.",
+                "ro": "Planificați bălți pe pista de biciclete, reduceți viteza.",
+                "en": "Expect puddles on the bike path, reduce speed."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad verhindern nasse Kleidung.",
+              "Vorsicht beim Bremsen auf nassem Laub im Tobel.",
+              "Vorder- und Rücklicht auch tagsüber einschalten.",
+              "Ein Sattelüberzug hält den Sitz beim Parken trocken.",
+              "Warme Handschuhe schützen vor klammen Fingern."
+            ],
+            "hu": [
+              "A sárvédő megakadályozza a ruházat átázását.",
+              "Vigyázzon a fékezéssel a vizes leveleken a Tobelben.",
+              "Kapcsolja be az első és hátsó lámpát nappal is.",
+              "A nyeregvédő szárazon tartja az ülést parkoláskor.",
+              "A meleg kesztyű megvédi az elgémberedett ujjakat."
+            ],
+            "ro": [
+              "Apărătorile de noroi previn udarea hainelor.",
+              "Atenție la frânarea pe frunze ude în Tobel.",
+              "Aprindeți luminile față și spate chiar și ziua.",
+              "O husă de șa menține scaunul uscat la parcare.",
+              "Mănușile calde protejează de degetele amorțite."
+            ],
+            "en": [
+              "Mudguards on the bike prevent soaked clothing.",
+              "Be careful when braking on wet leaves in the Tobel.",
+              "Turn on front and rear lights even during the day.",
+              "A saddle cover keeps the seat dry while parked.",
+              "Warm gloves protect against stiff fingers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Start in die frostige Landschaft am Pfäffikersee. Mittag: Die Pfahlbauten liegen oft im Nebel, was eine mystische Stimmung erzeugt. Nachmittag: Fahrt durch das Kemptner Tobel, Vorsicht vor gefrorenen Stellen. Abend: Die Rückfahrt um den See bietet bei klarem Wetter einen beeindruckenden Sternenhimmel, aber sinkende Temperaturen.",
+            "hu": "Reggel: Indulás a fagyos tájba a Pfäffikersee-nél. Délben: A cölöpépítmények gyakran ködbe burkolóznak, ami misztikus hangulatot áraszt. Délután: Biciklizés a Kemptner Tobelen át, vigyázat a fagyott részekkel. Este: A visszaút a tó körül tiszta időben lenyűgöző csillagos eget kínál, de zuhanó hőmérsékletet.",
+            "ro": "Dimineața: Start în peisajul înghețat de la Pfäffikersee. Prânz: Locuințele lacustre sunt adesea în ceață, creând o atmosferă mistică. După-amiaza: Cursa prin Kemptner Tobel, atenție la porțiunile înghețate. Seara: Returul în jurul lacului oferă un cer înstelat impresionant pe vreme senină, dar temperaturi scăzute.",
+            "en": "Morning: Starting into the frosty landscape at Pfäffikersee. Noon: The pile dwellings are often shrouded in fog, creating a mystical mood. Afternoon: Cycling through Kemptner Tobel, beware of frozen patches. Evening: The return trip around the lake offers an impressive starry sky in clear weather, but dropping temperatures."
+          },
+          "stops": [
+            {
+              "name": "Start at Pfäffikersee",
+              "tip_5lang": {
+                "de": "Kälteschutz für das Gesicht bei Fahrtwind nötig.",
+                "hu": "Arcvédelem szükséges a menetszél ellen.",
+                "ro": "Protecție pentru față necesară împotriva vântului.",
+                "en": "Face protection needed against the wind chill."
+              }
+            },
+            {
+              "name": "Pile Dwellings Robenhausen",
+              "tip_5lang": {
+                "de": "Bei Schnee sind die Stege oft glatt.",
+                "hu": "Hóban a pallók gyakran csúszósak.",
+                "ro": "Pontonul este adesea alunecos pe zăpadă.",
+                "en": "The walkways are often slippery in the snow."
+              }
+            },
+            {
+              "name": "Kemptner Tobel",
+              "tip_5lang": {
+                "de": "Schattige Schlucht, Boden oft gefroren.",
+                "hu": "Árnyékos szurdok, a talaj gyakran fagyott.",
+                "ro": "Chei umbroase, solul este adesea înghețat.",
+                "en": "Shady gorge, ground is often frozen."
+              }
+            },
+            {
+              "name": "Lunch in Wetzikon",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz nahe der Heizung.",
+                "hu": "Keressen helyet a fűtőtest közelében.",
+                "ro": "Căutați un loc lângă calorifer.",
+                "en": "Look for a seat near the heater."
+              }
+            },
+            {
+              "name": "Reformed Church Wetzikon",
+              "tip_5lang": {
+                "de": "Kurz innehalten und Hände aufwärmen.",
+                "hu": "Álljon meg egy pillanatra, és melegítse fel a kezét.",
+                "ro": "Opriți-vă un moment și încălziți-vă mâinile.",
+                "en": "Pause for a moment and warm up your hands."
+              }
+            },
+            {
+              "name": "Return trip around Pfäffikersee",
+              "tip_5lang": {
+                "de": "Beleuchtung prüfen, es wird früh dunkel.",
+                "hu": "Ellenőrizze a világítást, korán sötétedik.",
+                "ro": "Verificați luminile, se întunecă devreme.",
+                "en": "Check lights, it gets dark early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen für Fahrräder bieten besseren Grip.",
+              "Akkus von E-Bikes entladen sich bei Kälte schneller.",
+              "Trinken Sie auch bei Kälte genug Wasser.",
+              "Reflektierende Kleidung erhöht die Sicherheit enorm.",
+              "Vermeiden Sie hastige Lenkbewegungen auf Eis."
+            ],
+            "hu": [
+              "A téli kerékpárgumik jobb tapadást biztosítanak.",
+              "Az e-bike akkumulátorok gyorsabban merülnek hidegben.",
+              "Hidegben is igyon elegendő vizet.",
+              "A fényvisszaverő ruházat jelentősen növeli a biztonságot.",
+              "Kerülje a hirtelen kormánymozdulatokat jégen."
+            ],
+            "ro": [
+              "Anvelopele de iarnă pentru biciclete oferă aderență mai bună.",
+              "Bateriile de e-bike se descarcă mai repede la frig.",
+              "Beți suficientă apă chiar și la temperaturi scăzute.",
+              "Hainele reflectorizante sporesc enorm siguranța.",
+              "Evitați manevrele bruște de direcție pe gheață."
+            ],
+            "en": [
+              "Winter tires for bicycles provide better grip.",
+              "E-bike batteries discharge faster in the cold.",
+              "Drink enough water even in cold weather.",
+              "Reflective clothing significantly increases safety.",
+              "Avoid sudden steering movements on ice."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1482,214 @@
           "A GPS is essential.",
           "Combine driving and walking to make the most of your visit."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Bequeme Anfahrt zum Kemptner Tobel, Parkplatz direkt am Eingang. Mittag: Pfäffikersee-Rundfahrt mit Stopps an den Aussichtspunkten. Nachmittag: Parken im Stadtzentrum von Wetzikon für den Museumsbesuch. Abend: Kurze Wege zwischen den Zielen schützen vor Nässe, entspannter Ausklang bei Kaffee und Kuchen.",
+            "hu": "Reggel: Kényelmes utazás a Kemptner Tobelhez, parkolás közvetlenül a bejáratnál. Délben: Pfäffikersee körút megállókkal a kilátópontoknál. Délután: Parkolás Wetzikon központjában a múzeumlátogatáshoz. Este: A célpontok közötti rövid utak védenek a nedvességtől, pihentető befejezés kávéval és süteménnyel.",
+            "ro": "Dimineața: Acces confortabil la Kemptner Tobel, parcare chiar la intrare. Prânz: Turul Pfäffikersee cu opriri la punctele de belvedere. După-amiaza: Parcare în centrul orașului Wetzikon pentru vizita la muzeu. Seara: Distanțele scurte între obiective vă protejează de umezeală, final relaxat cu cafea și prăjituri.",
+            "en": "Morning: Comfortable drive to Kemptner Tobel, parking right at the entrance. Noon: Pfäffikersee tour with stops at viewpoints. Afternoon: Parking in Wetzikon town center for the museum visit. Evening: Short distances between destinations protect from wetness, relaxed end with coffee and cake."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Kemptner Tobel",
+              "tip_5lang": {
+                "de": "Parkplatz kann bei Regen schlammig sein.",
+                "hu": "A parkoló esőben sáros lehet.",
+                "ro": "Parcarea poate fi noroioasă pe ploaie.",
+                "en": "Parking area can be muddy in the rain."
+              }
+            },
+            {
+              "name": "Cluster 2: Pfäffikersee & Pile Dwellings",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz zu den Pfahlbauten.",
+                "hu": "Rövid sprint a parkolótól a cölöpépítményekig.",
+                "ro": "Sprint scurt de la parcare la locuințele lacustre.",
+                "en": "Short sprint from the parking lot to the dwellings."
+              }
+            },
+            {
+              "name": "Walk along Pfäffikersee",
+              "tip_5lang": {
+                "de": "Fenster einen Spalt öffnen gegen Beschlagen.",
+                "hu": "Hagyja résnyire nyitva az ablakot a párásodás ellen.",
+                "ro": "Lăsați geamul crăpat pentru a preveni aburirea.",
+                "en": "Keep windows slightly open to prevent fogging."
+              }
+            },
+            {
+              "name": "Lunch by the lake",
+              "tip_5lang": {
+                "de": "Seeblick aus dem trockenen Restaurant genießen.",
+                "hu": "Élvezze a tóra néző kilátást a száraz étteremből.",
+                "ro": "Bucurați-vă de vedere la lac din restaurantul uscat.",
+                "en": "Enjoy the lake view from the dry restaurant."
+              }
+            },
+            {
+              "name": "Cluster 3: Wetzikon Town Center",
+              "tip_5lang": {
+                "de": "Zentrales Parkhaus nutzen, um trocken zu bleiben.",
+                "hu": "Használja a központi parkolóházat, hogy száraz maradjon.",
+                "ro": "Folosiți parcarea centrală pentru a rămâne uscat.",
+                "en": "Use the central parking garage to stay dry."
+              }
+            },
+            {
+              "name": "Reformed Church Wetzikon",
+              "tip_5lang": {
+                "de": "Parkplätze in der Nähe vorhanden.",
+                "hu": "Parkolóhelyek a közelben rendelkezésre állnak.",
+                "ro": "Locuri de parcare disponibile în apropiere.",
+                "en": "Parking spaces available nearby."
+              }
+            },
+            {
+              "name": "Coffee and Cake",
+              "tip_5lang": {
+                "de": "Perfekter Abschluss für einen Regentag.",
+                "hu": "Tökéletes lezárása egy esős napnak.",
+                "ro": "Final perfect pentru o zi ploioasă.",
+                "en": "Perfect conclusion to a rainy day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand der Scheibenwischer.",
+              "Vorsicht vor Aquaplaning auf den Landstraßen.",
+              "Licht einschalten bei schlechter Sicht durch Regen.",
+              "Regenschirm griffbereit im Türfach verstauen.",
+              "Parkhäuser im Zentrum bevorzugen."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlők állapotát.",
+              "Vigyázzon az aquaplaninggal az országutakon.",
+              "Kapcsolja be a világítást rossz látási viszonyoknál.",
+              "Tartsa az esernyőt kéznél az ajtórekeszben.",
+              "Részesítse előnyben a központi parkolóházakat."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor de parbriz.",
+              "Atenție la acvaplanare pe drumurile naționale.",
+              "Aprindeți luminile în caz de vizibilitate redusă.",
+              "Țineți umbrela la îndemână în buzunarul portierei.",
+              "Preferați parcările etajate din centru."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers.",
+              "Beware of aquaplaning on country roads.",
+              "Turn on lights during poor visibility from rain.",
+              "Keep an umbrella handy in the door compartment.",
+              "Prefer parking garages in the center."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Fahrt durch die verschneite Landschaft zum Kemptner Tobel. Mittag: Der Pfäffikersee bietet im Winter tolle Fotomotive, Anreise bequem per Auto. Nachmittag: Aufwärmpause im Museum Wetzikon, Parkplatzsuche im Zentrum unkompliziert. Abend: Rückreise bei beleuchteten Straßen, Vorsicht vor Straßenglätte in schattigen Lagen.",
+            "hu": "Reggel: Autózás a havas tájon át a Kemptner Tobelhez. Délben: A Pfäffikersee télen remek fotótémákat kínál, autóval kényelmesen megközelíthető. Délután: Melegedő szünet a Wetzikon Múzeumban, a központban egyszerű a parkolás. Este: Hazautazás kivilágított utakon, vigyázat a jeges szakaszokkal az árnyékos részeken.",
+            "ro": "Dimineața: Călătorie prin peisajul înzăpezit către Kemptner Tobel. Prânz: Pfäffikersee oferă motive foto grozave iarna, accesibil confortabil cu mașina. După-amiaza: Pauză de încălzire la Muzeul Wetzikon, parcare ușoară în centru. Seara: Retur pe străzi iluminate, atenție la polei în zonele umbroase.",
+            "en": "Morning: Driving through the snowy landscape to Kemptner Tobel. Noon: Pfäffikersee offers great photo opportunities in winter, easily accessible by car. Afternoon: Warming break in Museum Wetzikon, parking in the center is straightforward. Evening: Return journey on lit streets, beware of icy roads in shaded areas."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Kemptner Tobel",
+              "tip_5lang": {
+                "de": "Zufahrt kann bei Neuschnee rutschig sein.",
+                "hu": "Friss hóban a felhajtó csúszós lehet.",
+                "ro": "Accesul poate fi alunecos în caz de zăpadă proaspătă.",
+                "en": "Access road can be slippery with fresh snow."
+              }
+            },
+            {
+              "name": "Cluster 2: Pfäffikersee & Pile Dwellings",
+              "tip_5lang": {
+                "de": "Heizung im Auto zwischen den Stopps genießen.",
+                "hu": "Élvezze az autó fűtését a megállók között.",
+                "ro": "Bucurați-vă de căldura din mașină între opriri.",
+                "en": "Enjoy the car heater between stops."
+              }
+            },
+            {
+              "name": "Walk along Pfäffikersee",
+              "tip_5lang": {
+                "de": "Schneeräumung auf den Hauptwegen meist gut.",
+                "hu": "A hóeltakarítás a főbb utakon általában jó.",
+                "ro": "Deszăpezirea pe drumurile principale e de obicei bună.",
+                "en": "Snow removal on main paths is usually good."
+              }
+            },
+            {
+              "name": "Lunch by the lake",
+              "tip_5lang": {
+                "de": "Parkplatz oft geräumt, aber Vorsicht beim Aussteigen.",
+                "hu": "A parkoló gyakran takarított, de vigyázzon kiszálláskor.",
+                "ro": "Parcare adesea deszăpezită, dar atenție la coborâre.",
+                "en": "Parking lot often cleared, but watch your step getting out."
+              }
+            },
+            {
+              "name": "Cluster 3: Wetzikon Town Center",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz zum Museum.",
+                "hu": "Rövid távolság a parkolótól a múzeumig.",
+                "ro": "Distanțe scurte de la parcare la muzeu.",
+                "en": "Short distances from the parking lot to the museum."
+              }
+            },
+            {
+              "name": "Reformed Church Wetzikon",
+              "tip_5lang": {
+                "de": "Abends schön beleuchtet.",
+                "hu": "Este szépen kivilágítva.",
+                "ro": "Frumos iluminată seara.",
+                "en": "Beautifully lit in the evening."
+              }
+            },
+            {
+              "name": "Coffee and Cake",
+              "tip_5lang": {
+                "de": "Warmer Rückzugsort vor der Heimfahrt.",
+                "hu": "Meleg menedék a hazautazás előtt.",
+                "ro": "Refugiu cald înainte de drumul spre casă.",
+                "en": "Warm retreat before the drive home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in der Schweiz obligatorisch.",
+              "Eiskratzer und Schneebesen im Auto bereithalten.",
+              "Frostschutz im Scheibenwischwasser prüfen.",
+              "Batterie checken, Kälte beansprucht sie stark.",
+              "Ausreichend Treibstoff im Tank haben."
+            ],
+            "hu": [
+              "Svájcban a téli gumi kötelező.",
+              "Jégkaparó és hókefe legyen az autóban.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Ellenőrizze az akkumulátort, a hideg megterheli.",
+              "Legyen elegendő üzemanyag a tankban."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Elveția.",
+              "Aveți pregătite racleta și peria de zăpadă în mașină.",
+              "Verificați antigelul în lichidul de parbriz.",
+              "Verificați bateria, frigul o solicită puternic.",
+              "Aveți suficient combustibil în rezervor."
+            ],
+            "en": [
+              "Winter tires are mandatory in Switzerland.",
+              "Keep an ice scraper and snow brush in the car.",
+              "Check antifreeze in the windshield washer fluid.",
+              "Check the battery, cold puts a heavy load on it.",
+              "Keep enough fuel in the tank."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2046,196 @@
           "A day pass is often cheaper than single tickets.",
           "Ask the bus driver if you are unsure where to get off."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Ankunft am Bahnhof Wetzikon, kurzer Weg zum Museum. Mittag: Die Busverbindungen zum Pfäffikersee bieten Schutz vor dem Wetter. Nachmittag: Besuch der Kirche im Zentrum, gut erreichbar mit dem Stadtbus. Abend: Fahrt zum Kemptner Tobel per Bus, Rückfahrt zum Bahnhof für die Heimreise.",
+            "hu": "Reggel: Érkezés a wetzikoni állomásra, rövid út a múzeumhoz. Délben: A Pfäffikersee-hez közlekedő buszok védelmet nyújtanak az időjárás ellen. Délután: A központi templom látogatása, könnyen elérhető helyi busszal. Este: Utazás a Kemptner Tobelhez busszal, majd vissza az állomásra.",
+            "ro": "Dimineața: Sosire la gara Wetzikon, drum scurt către muzeu. Prânz: Legăturile de autobuz către Pfäffikersee oferă protecție contra vremii. După-amiaza: Vizitarea bisericii din centru, ușor accesibilă cu autobuzul urban. Seara: Călătorie la Kemptner Tobel cu autobuzul, retur la gară.",
+            "en": "Morning: Arrival at Wetzikon station, short walk to the museum. Noon: Bus connections to Pfäffikersee provide protection from the weather. Afternoon: Visiting the church in the center, easily accessible by city bus. Evening: Trip to Kemptner Tobel by bus, return to the station for the trip home."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at Wetzikon station",
+              "tip_5lang": {
+                "de": "Wartehalle im Bahnhof nutzen.",
+                "hu": "Használja az állomás várótermét.",
+                "ro": "Folosiți sala de așteptare din gară.",
+                "en": "Use the waiting hall at the station."
+              }
+            },
+            {
+              "name": "Museum Wetzikon",
+              "tip_5lang": {
+                "de": "Bushaltestelle 'Museum' direkt vor der Tür.",
+                "hu": "A 'Museum' buszmegálló közvetlenül az ajtó előtt van.",
+                "ro": "Stația de autobuz 'Museum' chiar în fața ușii.",
+                "en": "Bus stop 'Museum' right in front of the door."
+              }
+            },
+            {
+              "name": "Reformed Church Wetzikon",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt vieler Buslinien.",
+                "hu": "Számos buszjárat központi csomópontja.",
+                "ro": "Nod central pentru multe linii de autobuz.",
+                "en": "Central hub for many bus lines."
+              }
+            },
+            {
+              "name": "Cluster 2: Bus to Pfäffikersee",
+              "tip_5lang": {
+                "de": "Trockener Transport bis nahe an den See.",
+                "hu": "Száraz utazás egészen a tó közelébe.",
+                "ro": "Transport uscat până aproape de lac.",
+                "en": "Dry transport close to the lake."
+              }
+            },
+            {
+              "name": "Lunch and walk by the lake",
+              "tip_5lang": {
+                "de": "Abfahrtszeiten für den Rückbus im Blick behalten.",
+                "hu": "Figyelje a visszatérő busz indulási idejét.",
+                "ro": "Urmăriți orele de plecare ale autobuzului de retur.",
+                "en": "Keep an eye on the return bus departure times."
+              }
+            },
+            {
+              "name": "Cluster 3: Bus to Kemptner Tobel",
+              "tip_5lang": {
+                "de": "Haltestelle 'Kempten' ist der ideale Startpunkt.",
+                "hu": "A 'Kempten' megálló az ideális kiindulópont.",
+                "ro": "Stația 'Kempten' este punctul ideal de start.",
+                "en": "The 'Kempten' stop is the ideal starting point."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die SBB App zeigt Verspätungen in Echtzeit an.",
+              "Tageskarte für die Zone Wetzikon lohnt sich.",
+              "Buseinstieg oft vorne, um trocken zu bleiben.",
+              "Kürzere Umsteigezeiten bei Regen einplanen.",
+              "Bahnhofsbuffet für die Wartezeit nutzen."
+            ],
+            "hu": [
+              "Az SBB alkalmazás valós időben mutatja a késéseket.",
+              "Érdemes napijegyet váltani a wetzikoni zónára.",
+              "A buszra érdemes elöl felszállni, hogy száraz maradjon.",
+              "Esőben tervezzen rövidebb átszállási időket.",
+              "Használja az állomási büfét a várakozáshoz."
+            ],
+            "ro": [
+              "Aplicația SBB arată întârzierile în timp real.",
+              "Merită cumpărat un bilet de o zi pentru zona Wetzikon.",
+              "Urcarea în autobuz se face adesea prin față.",
+              "Planificați timpi de transfer scurți pe ploaie.",
+              "Folosiți bufetul gării pentru timpul de așteptare."
+            ],
+            "en": [
+              "The SBB app shows delays in real-time.",
+              "A day pass for the Wetzikon zone is worth it.",
+              "Enter the bus at the front to stay dry.",
+              "Plan for shorter transfer times during rain.",
+              "Use the station buffet while waiting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Ankunft am winterlichen Bahnhof Wetzikon. Mittag: Beheizte Busse bringen Sie bequem zum Pfäffikersee und zum Museum. Nachmittag: Der Besuch im Stadtzentrum lässt sich gut mit den lokalen Verkehrsverbindungen kombinieren. Abend: Rückreise vom Kemptner Tobel, genießen Sie die Wärme in der S-Bahn nach Zürich.",
+            "hu": "Reggel: Érkezés a télies wetzikoni állomásra. Délben: Fűtött buszok szállítják kényelmesen a Pfäffikersee-hez és a múzeumhoz. Délután: A belvárosi látogatás jól kombinálható a helyi közlekedéssel. Este: Visszaút a Kemptner Tobeltől, élvezze a meleget a Zürich felé tartó S-Bahn-on.",
+            "ro": "Dimineața: Sosire la gara înzăpezită din Wetzikon. Prânz: Autobuzele încălzite vă duc confortabil la Pfäffikersee și la muzeu. După-amiaza: Vizita în centru se combină bine cu transportul local. Seara: Retur de la Kemptner Tobel, bucurați-vă de căldura din S-Bahn spre Zürich.",
+            "en": "Morning: Arrival at the wintry Wetzikon station. Noon: Heated buses take you comfortably to Pfäffikersee and the museum. Afternoon: The visit to the town center combines well with local transit. Evening: Return trip from Kemptner Tobel, enjoy the warmth on the S-Bahn to Zurich."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at Wetzikon station",
+              "tip_5lang": {
+                "de": "Auf glatte Bahnsteige achten.",
+                "hu": "Ügyeljen a csúszós peronokra.",
+                "ro": "Atenție la peroanele alunecoase.",
+                "en": "Watch out for slippery platforms."
+              }
+            },
+            {
+              "name": "Museum Wetzikon",
+              "tip_5lang": {
+                "de": "Im Bus aufwärmen vor dem Aussteigen.",
+                "hu": "Melegedjen fel a buszon kiszállás előtt.",
+                "ro": "Încălziți-vă în autobuz înainte de a coborî.",
+                "en": "Warm up on the bus before getting off."
+              }
+            },
+            {
+              "name": "Reformed Church Wetzikon",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle.",
+                "hu": "Rövid séta a buszmegállótól.",
+                "ro": "Scurtă plimbare de la stația de autobuz.",
+                "en": "Short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Cluster 2: Bus to Pfäffikersee",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Winterlandschaft.",
+                "hu": "Élvezze a kilátást a téli tájra.",
+                "ro": "Bucurați-vă de vederea spre peisajul de iarnă.",
+                "en": "Enjoy the view of the wintry landscape."
+              }
+            },
+            {
+              "name": "Lunch and walk by the lake",
+              "tip_5lang": {
+                "de": "Nahe der Haltestelle einkehren.",
+                "hu": "Térjen be egy helyre a megálló közelében.",
+                "ro": "Opriți-vă undeva aproape de stație.",
+                "en": "Stop for lunch near the bus stop."
+              }
+            },
+            {
+              "name": "Cluster 3: Bus to Kemptner Tobel",
+              "tip_5lang": {
+                "de": "Bei Schnee können Busse leichte Verspätung haben.",
+                "hu": "Hóban a buszoknak kisebb késésük lehet.",
+                "ro": "Pe zăpadă, autobuzele pot avea mici întârzieri.",
+                "en": "Buses may have slight delays in the snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne im Winter bei Schneefall öfter prüfen.",
+              "Wartebereiche in Bahnhöfen sind meist beheizt.",
+              "Vorsicht beim Ein- und Aussteigen auf eisigen Stufen.",
+              "Halten Sie Ihr Ticket digital bereit.",
+              "Abends sind die Züge oft weniger voll."
+            ],
+            "hu": [
+              "Hóesésben gyakrabban ellenőrizze a menetrendet.",
+              "Az állomási várótermek általában fűtöttek.",
+              "Vigyázzon a fel- és leszálláskor a jeges lépcsőkön.",
+              "Tartsa készenlétben digitális jegyét.",
+              "Este a vonatok gyakran kevésbé zsúfoltak."
+            ],
+            "ro": [
+              "Verificați orarul mai des în caz de ninsoare.",
+              "Zonele de așteptare din gări sunt de obicei încălzite.",
+              "Atenție la urcare și coborâre pe treptele înghețate.",
+              "Aveți biletul pregătit în format digital.",
+              "Seara, trenurile sunt adesea mai puțin aglomerate."
+            ],
+            "en": [
+              "Check schedules more often during snowfall.",
+              "Waiting areas in stations are usually heated.",
+              "Be careful when boarding and alighting on icy steps.",
+              "Have your digital ticket ready.",
+              "Trains are often less crowded in the evening."
+            ]
+          }
+        }
       }
     }
   }

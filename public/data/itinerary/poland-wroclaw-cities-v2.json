@@ -286,6 +286,188 @@
           "Cathedral Island is most magical at dusk when the traditional lamplighter makes his rounds.",
           "The old town is very compact, but comfortable walking shoes are a must for the cobblestone streets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt bei den Zwergen, die unter den Simsen Schutz suchen. Der Rynek bietet mit seinen Arkaden trockene Wege zum Rathaus. Am Nachmittag führt der Weg über die Oder zur Dominsel, wo die Backsteingotik im Regen glänzt. Ein gemütlicher Abschluss in der Altstadt rundet den nassen Tag ab.",
+            "hu": "Az esőben a törpék a házak tövébe bújnak, mi pedig a főtér fedett részei felé vesszük az irányt. A Rynek árkádjai alatt szárazon jutunk el a Városházáig. Délután a katedrális szigetén a vizes macskakövek tükrözik a gázlámpák fényét. Az estét egy hangulatos pincében zárjuk a belvárosban.",
+            "ro": "Dimineața începe cu ploaie printre piticii care par să se adăpostească sub cornișe. Arcadele din Rynek ne oferă protecție în drum spre Primărie. După-amiaza, pe insula catedralei, cărămida gotică strălucește sub stropii de ploaie. Seara se încheie confortabil într-o pivniță istorică din centrul vechi.",
+            "en": "The day starts rainy as we find dwarves hiding under building ledges. The Rynek's arcades provide a dry path toward the Old City Hall. Afternoon takes us to Cathedral Island, where the red bricks glisten in the wet weather. We end the evening in a cozy cellar restaurant in the old town."
+          },
+          "stops": [
+            {
+              "name": "Breslauer Zwerge (Krasnale)",
+              "tip_4lang": {
+                "de": "Viele Zwerge stehen nah an Hauswänden, ideal zum Fotografieren ohne nass zu werden.",
+                "hu": "Sok törpe az épületek eresze alatt található, így esőben is könnyen fotózhatók.",
+                "ro": "Mulți pitici sunt lângă pereții clădirilor, ideali pentru poze fără a te uda prea tare.",
+                "en": "Many dwarves are located near building walls, perfect for spotting while staying under cover."
+              }
+            },
+            {
+              "name": "Marktplatz (Rynek)",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Bürgerhäuser, um trocken über den Platz zu kommen.",
+                "hu": "Használd a környező polgárházak árkádjait, hogy szárazon járd körbe a teret.",
+                "ro": "Folosește arcadele caselor din jur pentru a traversa piața fără să te uzi.",
+                "en": "Use the arcades of the surrounding townhouses to stay dry while exploring the square."
+              }
+            },
+            {
+              "name": "Altes Rathaus",
+              "tip_4lang": {
+                "de": "Perfekter Zeitpunkt für eine Innenbesichtigung des Stadtmuseums im Rathaus.",
+                "hu": "Tökéletes időpont a Városházában működő Várostörténeti Múzeum megtekintésére.",
+                "ro": "Momentul perfect pentru o vizită în interiorul Muzeului de Artă Burgheză din Primărie.",
+                "en": "Perfect time for an indoor visit to the City Museum located inside the Town Hall."
+              }
+            },
+            {
+              "name": "Universität Breslau",
+              "tip_4lang": {
+                "de": "Besuchen Sie die prächtige Aula Leopoldina, während es draußen regnet.",
+                "hu": "Látogasd meg a pompás Aula Leopoldinát, amíg kint esik az eső.",
+                "ro": "Vizitează superba Aula Leopoldina în timp ce afară plouă.",
+                "en": "Visit the magnificent Aula Leopoldina while it rains outside."
+              }
+            },
+            {
+              "name": "Ostrów Tumski (Dominsel)",
+              "tip_4lang": {
+                "de": "Die nassen Pflastersteine wirken im Lampenlicht besonders atmosphärisch.",
+                "hu": "A vizes macskakövek a lámpafényben különleges hangulatot árasztanak.",
+                "ro": "Pavajul umed arată spectaculos în lumina felinarelor de pe insulă.",
+                "en": "The wet cobblestones look particularly atmospheric in the lamplight."
+              }
+            },
+            {
+              "name": "Breslauer Dom",
+              "tip_4lang": {
+                "de": "Das ruhige Innere des Doms ist ein idealer Zufluchtsort vor dem Wetter.",
+                "hu": "A dóm csendes belseje tökéletes menedék a zord időjárás elől.",
+                "ro": "Interiorul liniștit al catedralei este un refugiu ideal împotriva vremii.",
+                "en": "The quiet interior of the cathedral is an ideal sanctuary from the weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster rutschig sein kann.",
+              "Die Piwnica Świdnicka im Rathauskeller ist der älteste und trockenste Ort für eine Pause.",
+              "Nutzen Sie die Passagen rund um den Rynek als Abkürzungen.",
+              "Ein Regenschirm ist bei den Windböen an der Oder weniger effektiv als ein Regenmantel."
+            ],
+            "hu": [
+              "Viselj vízálló cipőt, mert a macskakövek nagyon csúszósak lehetnek.",
+              "A Városháza alatti Piwnica Świdnicka a legrégebbi és legszárazabb hely egy pihenőre.",
+              "Használd a főtér körüli passzázsokat rövidítésnek.",
+              "Az Odera-parti szélben az esernyőnél többet ér egy jó esőkabát."
+            ],
+            "ro": [
+              "Poartă încălțăminte impermeabilă, pavajul poate deveni foarte alunecos.",
+              "Piwnica Świdnicka de sub Primărie este cel mai vechi și uscat loc pentru o pauză.",
+              "Folosește pasajele din jurul pieței Rynek ca scurtături acoperite.",
+              "O pelerină de ploaie este mai utilă decât o umbrelă din cauza vântului de pe malul Odrei."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones can get very slippery.",
+              "Piwnica Świdnicka under the Town Hall is the oldest and driest spot for a break.",
+              "Use the passages around Rynek as covered shortcuts.",
+              "A raincoat is more effective than an umbrella due to wind gusts near the Oder river."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter erstrahlt Breslau im Licht des Weihnachtsmarktes auf dem Rynek. Die Zwerge tragen oft winzige Mützen, während wir uns in den Museen aufwärmen. Bei Einbruch der Dunkelheit entzündet der Lampenanzünder auf der Dominsel die Gaslaternen. Ein heißer Glühwein am Marktplatz beendet den frostigen Tag.",
+            "hu": "Télen Wroclaw a karácsonyi vásár fényeiben úszik a főtéren. A törpék gyakran apró sapkát kapnak, miközben mi a múzeumokban melegszünk fel. Sötétedéskor a katedrális szigetén a lámpagyújtó kézzel gyújtja meg a gázlámpákat. A fagyos napot egy forró forralt borral zárjuk a Ryneken.",
+            "ro": "Iarna, Wrocław strălucește în luminile târgului de Crăciun din Rynek. Piticii poartă adesea căciuli mici, în timp ce noi ne încălzim în muzee. La lăsarea întunericului, pe insulă, aprinzătorul de felinare dă viață lămpilor cu gaz. O zi geroasă se încheie cu un vin fiert în piața centrală.",
+            "en": "In winter, Wrocław glows with the lights of the Christmas market on Rynek. The dwarves often wear tiny hats while we warm up in the local museums. At dusk, the lighthouse keeper on Cathedral Island hand-lights the gas lamps. A hot mulled wine at the market square ends the frosty day."
+          },
+          "stops": [
+            {
+              "name": "Breslauer Zwerge (Krasnale)",
+              "tip_4lang": {
+                "de": "Achten Sie auf die Zwerge mit winzigen gestrickten Schals und Mützen.",
+                "hu": "Keresd a törpéket, akik apró kötött sálat és sapkát viselnek ilyenkor.",
+                "ro": "Caută piticii care poartă fulare și căciulițe tricotate în acest sezon.",
+                "en": "Look out for the dwarves wearing tiny knitted scarves and hats."
+              }
+            },
+            {
+              "name": "Marktplatz (Rynek)",
+              "tip_4lang": {
+                "de": "Hier befindet sich einer der schönsten Weihnachtsmärkte Polens.",
+                "hu": "Itt található Lengyelország egyik legszebb karácsonyi vására.",
+                "ro": "Aici se organizează unul dintre cele mai frumoase târguri de Crăciun din Polonia.",
+                "en": "This is home to one of the most beautiful Christmas markets in Poland."
+              }
+            },
+            {
+              "name": "Altes Rathaus",
+              "tip_4lang": {
+                "de": "Die historischen Säle bieten Schutz vor dem schneidenden Ostwind.",
+                "hu": "A történelmi termek védelmet nyújtanak a metsző keleti szél elől.",
+                "ro": "Sălile istorice oferă protecție împotriva vântului tăios de iarnă.",
+                "en": "The historic halls provide shelter from the piercing winter wind."
+              }
+            },
+            {
+              "name": "Universität Breslau",
+              "tip_4lang": {
+                "de": "Vom Mathematischen Turm hat man einen tollen Blick auf das verschneite Breslau.",
+                "hu": "A Matematikai toronyból remek kilátás nyílik a havas Wroclawra.",
+                "ro": "Din Turnul Matematicii ai o vedere superbă asupra orașului înzăpezit.",
+                "en": "The Mathematical Tower offers a great view of snowy Wrocław."
+              }
+            },
+            {
+              "name": "Ostrów Tumski (Dominsel)",
+              "tip_4lang": {
+                "de": "Suchen Sie bei Dämmerung nach dem traditionellen Lampenanzünder im Umhang.",
+                "hu": "Szürkületkor keresd a hagyományos köpenyt viselő lámpagyújtót.",
+                "ro": "La amurg, caută aprinzătorul de felinare îmbrăcat în pelerină tradițională.",
+                "en": "At dusk, look for the traditional lighthouse keeper in his cape."
+              }
+            },
+            {
+              "name": "Breslauer Dom",
+              "tip_4lang": {
+                "de": "Die Kapellen sind oft beheizt und bieten einen Moment der Stille.",
+                "hu": "A kápolnák gyakran fűtöttek, és egy pillanatnyi csendet kínálnak.",
+                "ro": "Capelele sunt adesea încălzite și oferă un moment de liniște.",
+                "en": "The chapels are often heated and offer a moment of quiet reflection."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 15:45 Uhr unter.",
+              "Wärmen Sie sich in den zahlreichen Schokoladengeschäften (Pijalnia Czekolady) auf.",
+              "Achten Sie auf Glatteis auf den Brücken zur Dominsel.",
+              "Der Weihnachtsmarkt läuft meist von Ende November bis zum 31. Dezember."
+            ],
+            "hu": [
+              "A nap decemberben már délután 15:45 körül lemegy.",
+              "Melegedj fel a számos csokoládézó (Pijalnia Czekolady) egyikében.",
+              "Vigyázz a jegesedésre a katedrális szigetére vezető hidakon.",
+              "A karácsonyi vásár november végétől december 31-ig tart."
+            ],
+            "ro": [
+              "Soarele apune în decembrie deja în jurul orei 15:45.",
+              "Încălzește-te în numeroasele ciocolaterii (Pijalnia Czekolady) din centru.",
+              "Atenție la polei pe podurile care duc spre insula catedralei.",
+              "Târgul de Crăciun este deschis de la sfârșitul lui noiembrie până pe 31 decembrie."
+            ],
+            "en": [
+              "The sun sets as early as 3:45 PM in December.",
+              "Warm up in one of the many chocolate lounges (Pijalnia Czekolady).",
+              "Watch out for black ice on the bridges leading to Cathedral Island.",
+              "The Christmas market usually runs from late November until December 31st."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -550,6 +732,188 @@
           "Be mindful of the tram tracks embedded in the cobblestones of the Old Town.",
           "Use the Wrocław City Bike (WRM) system if you didn't bring your own."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf dem Rynek, aber die Wege an der Oder sind gut ausgebaut. Wir starten im Zentrum und fahren zur Dominsel, wo die Pfützen das Licht reflektieren. Die Jahrhunderthalle bietet ein großes Dach für eine trockene Pause. Trotz Nässe bleibt die Strecke im Osten der Stadt grün und erfrischend.",
+            "hu": "Az esős bringázás óvatosságot igényel a főtéren, de az Odera-parti utak jól járhatók. A központból indulva a katedrális szigete felé vesszük az irányt, ahol a tócsák tükrözik a fényeket. A Népcsarnok hatalmas kupolája alatt szárazon pihenhetünk meg. A vizes út ellenére a keleti városrész parkjai frissítő élményt nyújtanak.",
+            "ro": "O tură cu bicicleta pe ploaie necesită atenție în Rynek, dar pistele de pe malul Odrei sunt bune. Pornim din centru spre insulă, unde bălțile reflectă luminile orașului. Hala Centenarului oferă un adăpost generos pentru o pauză uscată. În ciuda umezelii, traseul din estul orașului rămâne verde și revigorant.",
+            "en": "Cycling in the rain requires caution on the Rynek, but the paths along the Oder are well-paved. We start in the center and head to Cathedral Island, where puddles reflect the city lights. Centennial Hall provides a massive roof for a dry break. Despite the wetness, the route in the east remains green and refreshing."
+          },
+          "stops": [
+            {
+              "name": "Marktplatz (Rynek)",
+              "tip_4lang": {
+                "de": "Vorsicht auf dem glatten Kopfsteinpflaster, fahren Sie langsam.",
+                "hu": "Vigyázz a csúszós macskakövön, hajts lassan.",
+                "ro": "Atenție la pavajul alunecos, condu cu viteză redusă.",
+                "en": "Caution on the slippery cobblestones; ride slowly here."
+              }
+            },
+            {
+              "name": "Ostrów Tumski (Dominsel)",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Brücken als kurzzeitigen Regenschutz beim Warten.",
+                "hu": "Használd a hidakat rövid eső elleni menedékként várakozáskor.",
+                "ro": "Folosește podurile ca adăpost temporar împotriva ploii.",
+                "en": "Use the bridges as short-term rain shelter while waiting."
+              }
+            },
+            {
+              "name": "Grunwaldbrücke",
+              "tip_4lang": {
+                "de": "Der Metallboden der Brücke kann bei Nässe sehr rutschig sein.",
+                "hu": "A híd fémburkolata esőben nagyon csúszóssá válhat.",
+                "ro": "Podeaua metalică a podului poate fi foarte alunecoasă pe ploaie.",
+                "en": "The metal floor of the bridge can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Panorama von Racławice",
+              "tip_4lang": {
+                "de": "Sicherer Fahrradständer direkt am Eingang, perfekt für eine Pause im Trockenen.",
+                "hu": "Biztonságos biciklitároló a bejáratnál, tökéletes hely egy száraz pihenőre.",
+                "ro": "Suport de biciclete sigur la intrare, ideal pentru o pauză la adăpost.",
+                "en": "Secure bike racks right at the entrance, perfect for a dry indoor break."
+              }
+            },
+            {
+              "name": "Jahrhunderthalle",
+              "tip_4lang": {
+                "de": "Stellen Sie Ihr Rad unter den Kolonnaden ab, um die Architektur im Trockenen zu bewundern.",
+                "hu": "Tedd le a bringát a kolonnádok alá, hogy szárazon csodálhasd az építészetet.",
+                "ro": "Parchează bicicleta sub colonade pentru a admira arhitectura la uscat.",
+                "en": "Park your bike under the colonnades to admire the architecture while staying dry."
+              }
+            },
+            {
+              "name": "Japanischer Garten",
+              "tip_4lang": {
+                "de": "Die Teiche wirken im Regen besonders mystisch, aber Wege können matschig sein.",
+                "hu": "A tavak esőben különösen misztikusak, de az utak sárosak lehetnek.",
+                "ro": "Iazurile par mistice pe ploaie, dar potecile pot fi noroioase.",
+                "en": "The ponds look particularly mystical in the rain, but paths can be muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Nextbike-Stationen für einen schnellen Wechsel, falls der Regen zu stark wird.",
+              "Vermeiden Sie Straßenbahnschienen, diese sind bei Nässe extrem gefährlich.",
+              "Schutzbleche am Fahrrad sind heute unverzichtbar.",
+              "Die Wege im Park Szczytnicki sind teilweise unbefestigt und weich."
+            ],
+            "hu": [
+              "Használd a Nextbike állomásokat a gyors váltáshoz, ha túl erősen esne.",
+              "Kerüld a villamossíneket, mert vizesen rendkívül veszélyesek.",
+              "A sárvédő ma elengedhetetlen kellék.",
+              "A Szczytnicki park útjai részben burkolatlanok és felázhatnak."
+            ],
+            "ro": [
+              "Folosește stațiile Nextbike pentru o schimbare rapidă dacă ploaia devine prea puternică.",
+              "Evită șinele de tramvai, sunt extrem de periculoase pe timp de ploaie.",
+              "Aripile la bicicletă sunt indispensabile astăzi.",
+              "Potecile din parcul Szczytnicki sunt parțial neasfaltate și pot fi moi."
+            ],
+            "en": [
+              "Use Nextbike stations for a quick switch if the rain gets too heavy.",
+              "Avoid tram tracks as they are extremely dangerous when wet.",
+              "Mudguards on your bike are indispensable today.",
+              "The paths in Szczytnicki Park are partly unpaved and can be soft."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Breslauer Winter bietet klare Luft und leere Wege entlang der Oder. Wir starten am Rynek, wo der Duft von Mandeln in der Luft liegt, und fahren zur Dominsel. Die Grunwaldbrücke bietet einen eisigen, aber tollen Blick auf den Fluss. In der Jahrhunderthalle wärmen wir uns auf, bevor wir den Tag im frostigen Japanischen Garten beenden.",
+            "hu": "A wroclawi téli bringázás friss levegőt és üres utakat kínál az Odera mentén. A Rynekről indulunk, ahol sült mandula illata száll, majd a katedrális szigete felé tekerünk. A Grunwald-híd jeges, de pazar kilátást nyújt a folyóra. A Népcsarnokban melegszünk fel, mielőtt a napot a fagyos Japánkertben zárnánk.",
+            "ro": "Ciclismul în iarna din Wrocław oferă aer curat și piste libere pe malul Odrei. Pornim din Rynek, unde plutește mirosul de migdale, și pedalăm spre insulă. Podul Grunwald oferă o vedere înghețată, dar superbă asupra râului. Ne încălzim la Hala Centenarului înainte de a încheia ziua în Grădina Japoneză înghețată.",
+            "en": "Cycling in Wrocław's winter offers crisp air and empty paths along the Oder. We start at Rynek, with the scent of roasted almonds in the air, and ride to Cathedral Island. Grunwald Bridge offers an icy but grand view of the river. We warm up at Centennial Hall before ending the day in the frosty Japanese Garden."
+          },
+          "stops": [
+            {
+              "name": "Marktplatz (Rynek)",
+              "tip_4lang": {
+                "de": "Vorsicht vor Fußgängern am Weihnachtsmarkt, schieben Sie das Rad besser.",
+                "hu": "Vigyázz a karácsonyi vásár látogatóira, inkább told a biciklit.",
+                "ro": "Atenție la pietonii de la târgul de Crăciun, e mai bine să împingi bicicleta.",
+                "en": "Watch out for pedestrians at the Christmas market; it's better to walk your bike."
+              }
+            },
+            {
+              "name": "Ostrów Tumski (Dominsel)",
+              "tip_4lang": {
+                "de": "Die Gaslaternen werden im Winter bereits am frühen Nachmittag angezündet.",
+                "hu": "A gázlámpákat télen már kora délután meggyújtják.",
+                "ro": "Felinarele cu gaz sunt aprinse deja la prima oră a după-amiezii în iarnă.",
+                "en": "The gas lamps are lit as early as mid-afternoon in winter."
+              }
+            },
+            {
+              "name": "Grunwaldbrücke",
+              "tip_4lang": {
+                "de": "Starker Wind auf der Brücke kann die gefühlte Temperatur senken.",
+                "hu": "Az erős szél a hídon jelentősen csökkentheti a hőérzetet.",
+                "ro": "Vântul puternic de pe pod poate scădea temperatura resimțită.",
+                "en": "Strong wind on the bridge can significantly lower the perceived temperature."
+              }
+            },
+            {
+              "name": "Panorama von Racławice",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Garderobe im Inneren, um schwere Winterkleidung abzulegen.",
+                "hu": "Használd a belső ruhatárat a nehéz téli ruhák lerakásához.",
+                "ro": "Folosește garderoba din interior pentru a lăsa hainele grele de iarnă.",
+                "en": "Use the cloakroom inside to leave your heavy winter gear while visiting."
+              }
+            },
+            {
+              "name": "Jahrhunderthalle",
+              "tip_4lang": {
+                "de": "Besuchen Sie das interaktive Besucherzentrum zum Aufwärmen.",
+                "hu": "Látogasd meg az interaktív látogatóközpontot egy kis melegedésre.",
+                "ro": "Vizitează centrul interactiv pentru vizitatori pentru a te încălzi.",
+                "en": "Visit the interactive visitor center to warm up."
+              }
+            },
+            {
+              "name": "Japanischer Garten",
+              "tip_4lang": {
+                "de": "Der Garten ist im tiefsten Winter oft geschlossen, prüfen Sie die Öffnungszeiten.",
+                "hu": "A kert a tél közepén gyakran zárva tart, ellenőrizd a nyitvatartást.",
+                "ro": "Grădina este adesea închisă în mijlocul iernii, verifică programul.",
+                "en": "The garden is often closed in mid-winter; check the opening hours beforehand."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie windfeste Handschuhe, besonders für die Fahrt über die Brücken.",
+              "Die Tage sind kurz, sorgen Sie für eine funktionierende Beleuchtung.",
+              "Achten Sie auf Salzrückstände an der Fahrradkette nach der Fahrt.",
+              "Ein heißer Tee in der Nähe der Jahrhunderthalle hilft gegen die Kälte."
+            ],
+            "hu": [
+              "Viselj szélálló kesztyűt, különösen a hidakon való átkeléshez.",
+              "A nappalok rövidek, gondoskodj a működő világításról.",
+              "Figyelj a kerékpárláncra rakódó sómaradványokra a túra után.",
+              "Egy forró tea a Népcsarnok közelében sokat segít a hideg ellen."
+            ],
+            "ro": [
+              "Poartă mănuși rezistente la vânt, mai ales pentru traversarea podurilor.",
+              "Zilele sunt scurte, asigură-te că ai lumini funcționale.",
+              "Atenție la reziduurile de sare de pe lanțul bicicletei după tură.",
+              "Un ceai fierbinte lângă Hala Centenarului ajută împotriva frigului."
+            ],
+            "en": [
+              "Wear windproof gloves, especially for crossing the bridges.",
+              "Days are short; make sure your bike lights are functioning properly.",
+              "Watch out for salt residue on the bike chain after your ride.",
+              "A hot tea near Centennial Hall helps beat the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -812,6 +1176,206 @@
           "Parking at Centennial Hall requires a fee but usually has plenty of capacity.",
           "Traffic can be heavy during rush hour, so staying within walking clusters saves time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Breslau mit dem Auto im Regen ist komfortabel, da man die Distanzen zwischen den Sehenswürdigkeiten trocken überbrückt. Parkhäuser am Rynek und an der Jahrhunderthalle bieten direkten Zugang. Die Fahrt über die Oderbrücken bietet tolle Ausblicke auf den grauen Fluss, während man im warmen Wagen sitzt. Ein idealer Tag für die großen Museen der Stadt.",
+            "hu": "Wroclaw felfedezése autóval esőben kényelmes, mivel szárazon tehetjük meg a távokat a látnivalók között. A Rynek és a Népcsarnok melletti parkolóházak közvetlen elérést biztosítanak. Az Odera hídjain áthaladva remek kilátás nyílik a szürke folyóra a meleg autóból. Tökéletes nap a város nagy múzeumainak meglátogatására.",
+            "ro": "Explorarea orașului Wrocław cu mașina pe ploaie este confortabilă, oferind adăpost între obiective. Parcări acoperite lângă Rynek și Hala Centenarului asigură acces facil. Traversarea podurilor peste Odra oferă vederi frumoase spre râu din confortul mașinii. O zi ideală pentru marile muzee ale orașului.",
+            "en": "Exploring Wrocław by car in the rain is comfortable, providing shelter between sights. Parking garages near Rynek and Centennial Hall offer easy access. Crossing the Oder bridges gives great views of the gray river from the warmth of your car. It's a perfect day for visiting the city's major museums."
+          },
+          "stops": [
+            {
+              "name": "Marktplatz (Rynek)",
+              "tip_4lang": {
+                "de": "Nutzen Sie das Tiefgaragen-Parkhaus am Plac Wolności für direkten Zugang.",
+                "hu": "Használd a Plac Wolności alatti mélygarázst a közvetlen bejutáshoz.",
+                "ro": "Folosește parcarea subterană de la Plac Wolności pentru acces direct.",
+                "en": "Use the underground parking at Plac Wolności for direct access to the center."
+              }
+            },
+            {
+              "name": "Altes Rathaus",
+              "tip_4lang": {
+                "de": "In der Nähe gibt es viele Cafés, die man schnell vom Parkplatz erreicht.",
+                "hu": "A közelben számos kávézó található, amik gyorsan elérhetők a parkolóból.",
+                "ro": "În apropiere sunt multe cafenele la care poți ajunge rapid din parcare.",
+                "en": "There are many cafes nearby that are a quick walk from the parking spots."
+              }
+            },
+            {
+              "name": "Panorama von Racławice",
+              "tip_4lang": {
+                "de": "Es gibt einen Besucherparkplatz direkt vor dem Rundbau.",
+                "hu": "Közvetlenül a körépület előtt található a látogatói parkoló.",
+                "ro": "Există o parcare pentru vizitatori chiar în fața clădirii rotunde.",
+                "en": "There is a visitor parking lot right in front of the rotunda building."
+              }
+            },
+            {
+              "name": "Ostrów Tumski (Dominsel)",
+              "tip_4lang": {
+                "de": "Das Parken auf der Insel ist eingeschränkt, nutzen Sie Parkplätze am Nordufer.",
+                "hu": "A szigeten korlátozott a parkolás, használd az északi part parkolóit.",
+                "ro": "Parcarea pe insulă este restricționată, folosește locurile de pe malul nordic.",
+                "en": "Parking on the island is restricted; use the parking lots on the north bank."
+              }
+            },
+            {
+              "name": "Breslauer Dom",
+              "tip_4lang": {
+                "de": "Der Eingang ist nur einen kurzen Sprint vom Parkplatz entfernt.",
+                "hu": "A bejárat csak egy rövid sprintre van a parkolóhelytől.",
+                "ro": "Intrarea este la doar o scurtă fugă distanță de locul de parcare.",
+                "en": "The entrance is just a short dash from the parking area."
+              }
+            },
+            {
+              "name": "Jahrhunderthalle",
+              "tip_4lang": {
+                "de": "Das große Parkhaus an der Halle ist ideal bei starkem Regen.",
+                "hu": "A csarnok melletti nagy parkolóház ideális szakadó esőben.",
+                "ro": "Parcarea mare de lângă hală este ideală în caz de ploaie torențială.",
+                "en": "The large parking garage next to the hall is ideal during heavy rain."
+              }
+            },
+            {
+              "name": "Japanischer Garten",
+              "tip_4lang": {
+                "de": "Der Fußweg vom Parkhaus führt teilweise durch Alleen mit Blätterschutz.",
+                "hu": "A parkolóháztól vezető út részben védett a fák lombkoronája által.",
+                "ro": "Drumul de la parcare trece parțial prin alei cu protecție naturală de la arbori.",
+                "en": "The walk from the parking garage leads partly through tree-lined avenues."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie die Rushhour (16-18 Uhr), da die Brücken oft verstopft sind.",
+              "Bezahlen Sie Parkgebühren bequem per App (z.B. SkyCash).",
+              "Achten Sie auf tiefe Pfützen in den Seitenstraßen.",
+              "Das Parkleitsystem zeigt freie Plätze in den Parkhäusern an."
+            ],
+            "hu": [
+              "Kerüld a csúcsidőt (16-18 óra), mert a hidak gyakran bedugulnak.",
+              "Fizesd a parkolást kényelmesen applikációval (pl. SkyCash).",
+              "Vigyázz a mély tócsákra a mellékutcákban.",
+              "A parkolási irányítórendszer mutatja a szabad helyeket a garázsokban."
+            ],
+            "ro": [
+              "Evită orele de vârf (16-18), deoarece podurile sunt adesea blocate.",
+              "Plătește parcarea comod prin aplicație (ex. SkyCash).",
+              "Atenție la bălțile adânci de pe străzile secundare.",
+              "Sistemul de ghidare a parcării arată locurile libere din garaje."
+            ],
+            "en": [
+              "Avoid rush hour (4-6 PM) as the bridges often get congested.",
+              "Pay for parking conveniently via app (e.g., SkyCash).",
+              "Watch out for deep puddles in the side streets.",
+              "The parking guidance system shows available spaces in the garages."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto eine warme Basis für die Erkundung des festlichen Breslaus. Vom hell erleuchteten Rynek geht es zur Panorama von Racławice. Die Fahrt zur Dominsel bei Dunkelheit ist besonders stimmungsvoll. Den Abschluss bildet die Jahrhunderthalle, die im Winter oft spektakulär beleuchtet ist, während man draußen den frostigen Japanischen Garten sieht.",
+            "hu": "Télen az autó meleg bázist nyújt az ünnepi Wroclaw felfedezéséhez. A kivilágított Rynektől indulunk a Racławicei Panoráma felé. A katedrális szigetére való behajtás sötétben különösen hangulatos. A napot a Népcsarnoknál zárjuk, amely télen gyakran látványos kivilágítást kap, szemben a fagyos Japánkerttel.",
+            "ro": "Iarna, mașina oferă o bază caldă pentru explorarea orașului festiv. De la Rynek luminat mergem spre Panorama Racławice. Drumul spre insula catedralei pe întuneric este deosebit de atmosferic. Încheiem la Hala Centenarului, care iarna are adesea iluminat spectaculos, lângă Grădina Japoneză înghețată.",
+            "en": "In winter, the car provides a warm base for exploring festive Wrocław. From the brightly lit Rynek, we head to the Racławice Panorama. Driving to Cathedral Island after dark is especially atmospheric. We finish at Centennial Hall, which often features spectacular lighting in winter, next to the frosty Japanese Garden."
+          },
+          "stops": [
+            {
+              "name": "Marktplatz (Rynek)",
+              "tip_4lang": {
+                "de": "Parkplätze sind während des Weihnachtsmarktes sehr begehrt, kommen Sie früh.",
+                "hu": "A parkolóhelyek a karácsonyi vásár idején nagyon kelendőek, érkezz korán.",
+                "ro": "Locurile de parcare sunt la mare căutare în timpul târgului, vino devreme.",
+                "en": "Parking spots are in high demand during the Christmas market; arrive early."
+              }
+            },
+            {
+              "name": "Altes Rathaus",
+              "tip_4lang": {
+                "de": "Der kurze Weg vom Auto zum Rathaus schont vor der Kälte.",
+                "hu": "Az autótól a Városházáig tartó rövid út megóv a hidegtől.",
+                "ro": "Drumul scurt de la mașină la Primărie te protejează de frig.",
+                "en": "The short walk from the car to the Town Hall saves you from the cold."
+              }
+            },
+            {
+              "name": "Panorama von Racławice",
+              "tip_4lang": {
+                "de": "Das Gebäude ist gut beheizt und bietet eine Pause vom Frost.",
+                "hu": "Az épület jól fűtött, kellemes pihenőt nyújt a fagy elől.",
+                "ro": "Clădirea este bine încălzită și oferă o pauză de la ger.",
+                "en": "The building is well-heated and offers a nice break from the frost."
+              }
+            },
+            {
+              "name": "Ostrów Tumski (Dominsel)",
+              "tip_4lang": {
+                "de": "Die Dominsel ist im Winter eine der romantischsten Fahrstrecken bei Nacht.",
+                "hu": "A katedrális szigete télen az egyik legromantikusabb éjszakai útvonal.",
+                "ro": "Insula catedralei este una dintre cele mai romantice rute de noapte iarna.",
+                "en": "Cathedral Island is one of the most romantic night drives in winter."
+              }
+            },
+            {
+              "name": "Breslauer Dom",
+              "tip_4lang": {
+                "de": "Parken Sie direkt am Plac Kościelny für den kürzesten Fußweg.",
+                "hu": "Parkolj közvetlenül a Plac Kościelny-n a legrövidebb gyalogútért.",
+                "ro": "Parchează chiar la Plac Kościelny pentru cel mai scurt drum pe jos.",
+                "en": "Park right at Plac Kościelny for the shortest possible walk."
+              }
+            },
+            {
+              "name": "Jahrhunderthalle",
+              "tip_4lang": {
+                "de": "In der Nähe gibt es oft eine Eisbahn (Eisstadion), perfekt für den Winter.",
+                "hu": "A közelben gyakran üzemel korcsolyapálya, tökéletes téli program.",
+                "ro": "În apropiere există adesea un patinoar, program perfect de iarnă.",
+                "en": "There is often an ice rink nearby, a perfect winter activity."
+              }
+            },
+            {
+              "name": "Japanischer Garten",
+              "tip_4lang": {
+                "de": "Die verschneite Brücke ist ein tolles Fotomotiv vom nahen Parkplatz aus.",
+                "hu": "A havas híd remek fotótéma a közeli parkolótól indulva.",
+                "ro": "Podul înzăpezit este un subiect foto excelent de lângă parcare.",
+                "en": "The snowy bridge is a great photo opportunity starting from the parking lot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Wischwasser frostgeschützt ist.",
+              "Die Brücken können bei Minusgraden spiegelglatt sein.",
+              "Rechnen Sie mit mehr Verkehr rund um den Rynek wegen des Marktes.",
+              "Nutzen Sie die Sitzheizung für maximalen Komfort zwischen den Stopps."
+            ],
+            "hu": [
+              "Ellenőrizd, hogy a szélvédőmosó folyadék fagyálló-e.",
+              "A hidak fagypont alatt tükörjéggé válhatnak.",
+              "Számíts nagyobb forgalomra a Rynek környékén a vásár miatt.",
+              "Használd az ülésfűtést a maximális kényelemért a megállók között."
+            ],
+            "ro": [
+              "Asigură-te că lichidul de parbriz este rezistent la îngheț.",
+              "Podurile pot deveni extrem de alunecoase la temperaturi negative.",
+              "Așteaptă-te la trafic intens în jurul pieței Rynek din cauza târgului.",
+              "Folosește încălzirea în scaune pentru confort maxim între opriri."
+            ],
+            "en": [
+              "Ensure your windshield washer fluid is frost-resistant.",
+              "Bridges can become mirror-smooth and icy at freezing temperatures.",
+              "Expect more traffic around Rynek due to the Christmas market.",
+              "Use seat heating for maximum comfort between stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1074,6 +1638,206 @@
           "You can conveniently buy tickets using contactless payment on most trams and buses.",
           "Trams are frequent and generally the fastest way to get between city districts."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit der Breslauer Straßenbahn kommt man im Regen schnell und trocken ans Ziel. Wir starten an der Universität und fahren zum Rynek, wobei wir die nassen Straßen aus dem Fenster beobachten. Die Fahrt zur Dominsel führt über die Oder, wo der Regen auf die Fenster trommelt. Den Tag lassen wir in der Jahrhunderthalle ausklingen, die leicht per Tram erreichbar ist.",
+            "hu": "A wroclawi villamosokkal esőben is gyorsan és szárazon célba érünk. Az egyetemtől indulunk a Rynek felé, miközben az ablakból nézzük a vizes utcákat. A katedrális szigete felé tartva átkelünk az Oderán, ahol az eső kopog az ablakokon. A napot a Népcsarnoknál zárjuk, amely könnyen elérhető villamossal.",
+            "ro": "Cu tramvaiele din Wrocław ajungi rapid și uscat la destinație pe ploaie. Pornim de la Universitate spre Rynek, privind străzile ude de la geam. Drumul spre insulă traversează Odra, în timp ce ploaia bate în geamuri. Încheiem ziua la Hala Centenarului, ușor accesibilă cu tramvaiul.",
+            "en": "With Wrocław's trams, you can reach your destination quickly and dryly in the rain. We start at the University and head toward Rynek, watching the wet streets from the window. The trip to Cathedral Island crosses the Oder, with rain drumming on the glass. We end the day at Centennial Hall, which is easily accessible by tram."
+          },
+          "stops": [
+            {
+              "name": "Universität Breslau",
+              "tip_4lang": {
+                "de": "Die Tramhaltestelle liegt direkt vor dem Hauptgebäude.",
+                "hu": "A villamosmegálló közvetlenül a főépület előtt található.",
+                "ro": "Stația de tramvai este chiar în fața clădirii principale.",
+                "en": "The tram stop is located right in front of the main building."
+              }
+            },
+            {
+              "name": "Marktplatz (Rynek)",
+              "tip_4lang": {
+                "de": "Steigen Sie an der Haltestelle 'Rynek' aus, sie ist teils überdacht.",
+                "hu": "Szállj le a 'Rynek' megállónál, amely részben fedett.",
+                "ro": "Coboară la stația 'Rynek', care este parțial acoperită.",
+                "en": "Get off at the 'Rynek' stop; it is partially covered."
+              }
+            },
+            {
+              "name": "Breslauer Zwerge (Krasnale)",
+              "tip_4lang": {
+                "de": "Einige Zwerge 'warten' direkt an den Haltestellen auf Fahrgäste.",
+                "hu": "Néhány törpe közvetlenül a megállókban 'várja' az utasokat.",
+                "ro": "Câțiva pitici 'așteaptă' pasagerii chiar în stații.",
+                "en": "Some dwarves are 'waiting' for passengers right at the transit stops."
+              }
+            },
+            {
+              "name": "Ostrów Tumski (Dominsel)",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Linien Richtung 'Plac Grunwaldzki' für eine schnelle Verbindung.",
+                "hu": "Használd a 'Plac Grunwaldzki' felé tartó vonalakat a gyors csatlakozáshoz.",
+                "ro": "Folosește liniile spre 'Plac Grunwaldzki' pentru o conexiune rapidă.",
+                "en": "Use the lines toward 'Plac Grunwaldzki' for a fast connection."
+              }
+            },
+            {
+              "name": "Breslauer Dom",
+              "tip_4lang": {
+                "de": "Die Haltestelle 'Katedra' bietet Schutz durch ein Wartehäuschen.",
+                "hu": "A 'Katedra' megálló váróterme védelmet nyújt az eső ellen.",
+                "ro": "Stația 'Katedra' are un adăpost pentru a te proteja de ploaie.",
+                "en": "The 'Katedra' stop has a shelter to protect you from the rain."
+              }
+            },
+            {
+              "name": "Grunwaldbrücke",
+              "tip_4lang": {
+                "de": "Die Fahrt über die Brücke bietet einen tollen Blick, ohne nass zu werden.",
+                "hu": "A hídon való áthaladás remek kilátást nyújt anélkül, hogy megáznál.",
+                "ro": "Traversarea podului oferă o priveliște excelentă fără să te uzi.",
+                "en": "Crossing the bridge by tram offers a great view without getting wet."
+              }
+            },
+            {
+              "name": "Jahrhunderthalle",
+              "tip_4lang": {
+                "de": "Die Endstation liegt sehr nah am Eingang der Halle.",
+                "hu": "A végállomás nagyon közel van a csarnok bejáratához.",
+                "ro": "Capătul de linie este foarte aproape de intrarea în hală.",
+                "en": "The stop is very close to the entrance of the hall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets kontaktlos direkt in der Straßenbahn mit Karte.",
+              "Die Fahrpläne sind bei Regen meist zuverlässig.",
+              "Nutzen Sie die 'Jakdojade' App für Echtzeit-Verbindungen.",
+              "Halten Sie sich bei scharfen Bremsen auf nassen Schienen gut fest."
+            ],
+            "hu": [
+              "Vásárolj jegyet érintésmentesen, közvetlenül a villamoson bankkártyával.",
+              "A menetrendek esőben is többnyire megbízhatóak.",
+              "Használd a 'Jakdojade' alkalmazást a valós idejű közlekedéshez.",
+              "Kapaszkodj erősen, mert a vizes síneken hirtelen fékezhet a villamos."
+            ],
+            "ro": [
+              "Cumpără bilete contactless direct în tramvai cu cardul bancar.",
+              "Orarele sunt de obicei fiabile chiar și pe ploaie.",
+              "Folosește aplicația 'Jakdojade' pentru conexiuni în timp real.",
+              "Ține-te bine de bară, deoarece tramvaiul poate frâna brusc pe șinele ude."
+            ],
+            "en": [
+              "Buy tickets contactless directly on the tram using your bank card.",
+              "Schedules are mostly reliable even when it's raining.",
+              "Use the 'Jakdojade' app for real-time transit connections.",
+              "Hold on tight as trams might brake suddenly on wet tracks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter sind die beheizten Breslauer Straßenbahnen ein Segen. Wir fahren von der Universität zum Rynek, wo die Lichterketten durch die Fenster funkeln. Die Fahrt zur Dominsel ist kurz, aber warm. Über die Grunwaldbrücke geht es zur Jahrhunderthalle, wobei wir die frostige Stadt bequem im Sitzen an uns vorbeiziehen lassen. Ein idealer Weg, um die Kälte zu umgehen.",
+            "hu": "Télen a fűtött wroclawi villamosok igazi áldást jelentenek. Az egyetemtől a Rynek felé utazunk, ahol az ünnepi fények csillognak az ablakokon át. A katedrális szigete felé tartó út rövid, de meleg. A Grunwald-hídon át a Népcsarnokhoz megyünk, kényelmesen figyelve a fagyos várost. Ideális módja a hideg elkerülésének.",
+            "ro": "Iarna, tramvaiele încălzite din Wrocław sunt o binecuvântare. Mergem de la Universitate spre Rynek, unde luminile festive sclipesc prin geamuri. Drumul spre insulă este scurt, dar cald. Trecem podul spre hală, privind orașul înghețat din confortul scaunului. O cale ideală de a evita frigul.",
+            "en": "In winter, the heated Wrocław trams are a blessing. We travel from the University to Rynek, where festive lights sparkle through the windows. The trip to Cathedral Island is short but warm. Across the Grunwald Bridge to Centennial Hall, we comfortably watch the frosty city pass by. An ideal way to avoid the cold."
+          },
+          "stops": [
+            {
+              "name": "Universität Breslau",
+              "tip_4lang": {
+                "de": "Warten Sie im Foyer der Universität, bis die Tram kommt.",
+                "hu": "Várj az egyetem aulájában, amíg megérkezik a villamos.",
+                "ro": "Așteaptă în holul Universității până când vine tramvaiul.",
+                "en": "Wait in the University foyer until the tram arrives."
+              }
+            },
+            {
+              "name": "Marktplatz (Rynek)",
+              "tip_4lang": {
+                "de": "Die Tramhaltestelle ist ein guter Startpunkt für den Weihnachtsmarkt.",
+                "hu": "A villamosmegálló kiváló kiindulópont a karácsonyi vásárhoz.",
+                "ro": "Stația de tramvai este un punct de pornire excelent pentru târg.",
+                "en": "The tram stop is a great starting point for the Christmas market."
+              }
+            },
+            {
+              "name": "Breslauer Zwerge (Krasnale)",
+              "tip_4lang": {
+                "de": "Suchen Sie Zwerge, die in der Nähe von warmen Lüftungsschächten stehen.",
+                "hu": "Keresd a törpéket, akik a meleg szellőzőnyílások közelében állnak.",
+                "ro": "Caută piticii care stau lângă gurile de aerisire caldă.",
+                "en": "Look for dwarves standing near warm air vents."
+              }
+            },
+            {
+              "name": "Ostrów Tumski (Dominsel)",
+              "tip_4lang": {
+                "de": "Die Tram bietet eine warme Alternative zum langen Fußweg über die Brücken.",
+                "hu": "A villamos meleg alternatívát kínál a hosszú hídi gyalogláshoz képest.",
+                "ro": "Tramvaiul oferă o alternativă caldă la drumul lung pe jos peste poduri.",
+                "en": "The tram offers a warm alternative to the long walk across the bridges."
+              }
+            },
+            {
+              "name": "Breslauer Dom",
+              "tip_4lang": {
+                "de": "Kurze Intervalle der Linien sorgen für wenig Wartezeit in der Kälte.",
+                "hu": "A sűrű villamosközlekedés miatt keveset kell várni a hidegben.",
+                "ro": "Intervalele scurte ale liniilor asigură puțin timp de așteptat în frig.",
+                "en": "Frequent tram service means minimal waiting time in the cold."
+              }
+            },
+            {
+              "name": "Grunwaldbrücke",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf die Eisschollen in der Oder aus der warmen Tram.",
+                "hu": "Élvezd az Odera jégtábláinak látványát a meleg villamosból.",
+                "ro": "Admiră sloiurile de gheață de pe Odra din tramvaiul încălzit.",
+                "en": "Enjoy the view of ice floes on the Oder from the warm tram."
+              }
+            },
+            {
+              "name": "Jahrhunderthalle",
+              "tip_4lang": {
+                "de": "Die Haltestelle ist im Winter oft festlich beleuchtet.",
+                "hu": "A megálló télen gyakran ünnepi kivilágítást kap.",
+                "ro": "Stația este adesea iluminată festiv în timpul iernii.",
+                "en": "The transit stop is often festively lit during the winter season."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Tram als mobile Aufwärmstation zwischen den Stadtteilen.",
+              "In der Winterzeit können die Trams wegen Schneefalls leicht verspätet sein.",
+              "Achten Sie auf rutschige Böden in den Waggons durch geschmolzenen Schnee.",
+              "Die 24h-Tickets lohnen sich besonders, wenn man oft ein- und aussteigt."
+            ],
+            "hu": [
+              "Használd a villamost mobil melegedőként a városrészek között.",
+              "Télen a hóesés miatt kisebb késések előfordulhatnak.",
+              "Vigyázz a vagonok padlójára, ami a behordott hótól csúszós lehet.",
+              "A 24 órás jegy különösen megéri, ha sokszor szállsz le és fel."
+            ],
+            "ro": [
+              "Folosește tramvaiul ca stație de încălzire mobilă între cartiere.",
+              "În timpul iernii, tramvaiele pot avea mici întârzieri din cauza zăpezii.",
+              "Atenție la podeaua alunecoasă din vagoane din cauza zăpezii topite.",
+              "Biletele de 24h merită mai ales dacă urci și cobori des."
+            ],
+            "en": [
+              "Use the tram as a mobile warming station between different districts.",
+              "In winter, trams may experience slight delays due to snowfall.",
+              "Watch out for slippery floors inside the tram cars caused by melted snow.",
+              "24-hour tickets are especially worth it if you plan to hop on and off frequently."
+            ]
+          }
+        }
       }
     }
   }

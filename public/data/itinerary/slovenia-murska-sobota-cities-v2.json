@@ -358,6 +358,197 @@
           "Most sights are located close to each other.",
           "Plan a coffee break in one of the cafes on the main square."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Siegesdenkmal unter dem Regenschirm, bevor Sie in der Kathedrale St. Nikolaus Zuflucht suchen. Mittags bietet das Schloss Murska Sobota mit seinem Regionalmuseum stundenlangen Schutz und faszinierende Ausstellungen. Am Nachmittag erkunden Sie die neugotische evangelische Kirche. Den Abend lassen Sie trocken in der Stadtgalerie bei moderner Kunst ausklingen.",
+            "hu": "Kezdje a napot a Győzelmi emlékműnél esernyővel, majd keressen menedéket a Szent Miklós-székesegyház hűvös falaiban. Délben a várkastély és a Pomurje Múzeum bőséges fedett programot kínál. Délután látogasson el az evangélikus templomba, majd fejezze be a napot a Galéria modern tárlatai között, elkerülve az ázást.",
+            "ro": "Începeți ziua la Monumentul Victoriei sub umbrelă, apoi căutați adăpost în Catedrala Sfântul Nicolae. La prânz, Castelul din Murska Sobota și Muzeul Regional oferă ore de explorare la adăpost. După-amiaza vizitați biserica evanghelică, iar seara încheiați vizita în galeria de artă, admirând expozițiile moderne feriți de ploaie.",
+            "en": "Start your day at the Victory Monument with an umbrella before seeking shelter in St. Nicholas Cathedral. At noon, the Murska Sobota Castle and Regional Museum provide hours of indoor exploration. In the afternoon, visit the Evangelical Church, and conclude your evening staying dry within the city gallery's modern art exhibitions."
+          },
+          "stops": [
+            {
+              "name": "Victory Monument",
+              "tip_5lang": {
+                "de": "Ein schneller Blick genügt bei Regen; der Platz ist sehr offen.",
+                "hu": "Gyors megálló az esőben; a tér tágas és nincs fedezék.",
+                "ro": "O oprire rapidă pe ploaie; piața este foarte deschisă.",
+                "en": "A quick stop in the rain; the square is very open."
+              }
+            },
+            {
+              "name": "Cathedral of Saint Nicholas",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen schweren Schauer trocken abzuwarten.",
+                "hu": "Tökéletes hely egy nagyobb zápor száraz megvárásához.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei averse sub acoperiș.",
+                "en": "Perfect place to wait out a heavy downpour while staying dry."
+              }
+            },
+            {
+              "name": "Murska Sobota Castle & Pomurje Regional Museum",
+              "tip_5lang": {
+                "de": "Ideales Ziel für Regentage mit umfangreichen Innenausstellungen.",
+                "hu": "Ideális célpont esős napokra a gazdag beltéri kiállításokkal.",
+                "ro": "Destinație ideală pentru zile ploioase, cu expoziții interioare vaste.",
+                "en": "Ideal destination for rainy days with extensive indoor exhibits."
+              }
+            },
+            {
+              "name": "Murska Sobota City Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die asphaltierten Wege, um Matsch auf dem Rasen zu vermeiden.",
+                "hu": "Használja az aszfaltozott utakat, hogy elkerülje a sarat a gyepen.",
+                "ro": "Folosiți aleile asfaltate pentru a evita noroiul de pe iarbă.",
+                "en": "Use the paved paths to avoid mud on the grass."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die neugotischen Details im trockenen Innenraum.",
+                "hu": "Csodálja meg a neogótikus részleteket a száraz belső térben.",
+                "ro": "Admirați detaliile neogotice în interiorul uscat.",
+                "en": "Admire the neo-Gothic details in the dry interior."
+              }
+            },
+            {
+              "name": "Murska Sobota Gallery",
+              "tip_5lang": {
+                "de": "Ein kultureller Abschluss, der Sie vor dem Abendregen schützt.",
+                "hu": "Kulturális zárás, amely megvédi az esti esőtől.",
+                "ro": "Un final cultural care vă protejează de ploaia de seară.",
+                "en": "A cultural finale that protects you from the evening rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Murska Sobota hat ein kompaktes Zentrum, ideal für kurze Sprints zwischen Gebäuden.",
+              "Die Wege im Stadtpark können bei starkem Regen rutschig sein.",
+              "Das Schlossmuseum ist die beste Option für langanhaltende Schauer.",
+              "Die Galerie bietet einen ruhigen, trockenen Rückzugsort am Nachmittag.",
+              "Tragen Sie wasserfeste Schuhe, da sich auf dem Kopfsteinpflaster Pfützen bilden."
+            ],
+            "hu": [
+              "Murska Sobota központja kompakt, ideális a rövid futásokhoz az épületek között.",
+              "A városi park ösvényei erős esőben csúszósak lehetnek.",
+              "A vármúzeum a legjobb opció tartós eső esetén.",
+              "A galéria nyugodt, száraz menedéket nyújt délután.",
+              "Viseljen vízálló cipőt, mert a macskaköveken megállhat a víz."
+            ],
+            "ro": [
+              "Centrul orașului Murska Sobota este compact, ideal pentru deplasări rapide între clădiri.",
+              "Potecile din parcul orașului pot deveni alunecoase pe ploaie torențială.",
+              "Muzeul castelului este cea mai bună opțiune în caz de ploaie persistentă.",
+              "Galeria oferă un refugiu liniștit și uscat după-amiaza.",
+              "Purtați încălțăminte impermeabilă, deoarece pe piatra cubică se pot forma bălți."
+            ],
+            "en": [
+              "Murska Sobota's center is compact, ideal for short sprints between buildings.",
+              "City park paths can be slippery during heavy rain.",
+              "The castle museum is the best option for persistent showers.",
+              "The gallery provides a quiet, dry retreat in the afternoon.",
+              "Wear waterproof shoes as puddles tend to form on the cobblestones."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt am Denkmal, gefolgt von der wärmenden Stille der Kathedrale. Mittags bietet das Museum im Schloss eine beheizte Reise durch die Geschichte der Region Prekmurje. Ein kurzer Spaziergang durch den frostigen Park führt Sie zur evangelischen Kirche. Am frühen Abend, wenn es dunkel wird, leuchten die Lichter der Stadtgalerie besonders einladend.",
+            "hu": "A friss téli reggel az emlékműnél indul, majd a székesegyház melengető csendje fogadja. Délben a várkastély fűtött termeiben ismerkedhet meg a Muravidék történelmével. Egy rövid séta a zúzmarás parkban az evangélikus templomhoz vezet. Kora este, a sötétedés beálltával a Városi Galéria fényei hívogatóan világítanak.",
+            "ro": "O dimineață proaspătă de iarnă începe la monument, urmată de liniștea primitoare a catedralei. La prânz, muzeul din castel oferă o călătorie încălzită prin istoria regiunii Prekmurje. O scurtă plimbare prin parcul înghețat vă duce la biserica evanghelică. Seara devreme, pe măsură ce se întunecă, luminile galeriei devin primitoare.",
+            "en": "A crisp winter morning starts at the monument, followed by the warming silence of the cathedral. At noon, the castle museum offers a heated journey through Prekmurje's history. A short walk through the frosty park leads to the Evangelical Church. In the early evening, as darkness falls, the city gallery's lights shine invitingly."
+          },
+          "stops": [
+            {
+              "name": "Victory Monument",
+              "tip_5lang": {
+                "de": "Fotografieren Sie die sowjetischen Symbole im klaren Winterlicht.",
+                "hu": "Fotózza le a szovjet szimbólumokat a tiszta téli fényben.",
+                "ro": "Fotografiați simbolurile sovietice în lumina clară de iarnă.",
+                "en": "Photograph the Soviet symbols in the clear winter light."
+              }
+            },
+            {
+              "name": "Cathedral of Saint Nicholas",
+              "tip_5lang": {
+                "de": "Ein friedlicher Rückzugsort vor dem kalten Winterwind.",
+                "hu": "Békés menedék a hideg téli szél elől.",
+                "ro": "Un refugiu liniștit în fața vântului rece de iarnă.",
+                "en": "A peaceful retreat from the cold winter wind."
+              }
+            },
+            {
+              "name": "Murska Sobota Castle & Pomurje Regional Museum",
+              "tip_5lang": {
+                "de": "Die Heizung in den Ausstellungsräumen macht den Museumsbesuch sehr angenehm.",
+                "hu": "A kiállítótermek fűtése nagyon kellemessé teszi a múzeumlátogatást.",
+                "ro": "Încălzirea din sălile de expoziție face vizita la muzeu foarte plăcută.",
+                "en": "Heating in the exhibition rooms makes the museum visit very pleasant."
+              }
+            },
+            {
+              "name": "Murska Sobota City Park",
+              "tip_5lang": {
+                "de": "Die alten Bäume sehen mit Raureif oder Schnee zauberhaft aus.",
+                "hu": "Az öreg fák zúzmarásan vagy hóval borítva varázslatosak.",
+                "ro": "Copacii bătrâni arată magic acoperiți de chiciură sau zăpadă.",
+                "en": "The old trees look magical with hoarfrost or snow cover."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf die vereisten Stufen am Kircheneingang.",
+                "hu": "Vigyázzon a jeges lépcsőkre a templom bejáratánál.",
+                "ro": "Atenție la treptele înghețate de la intrarea în biserică.",
+                "en": "Watch out for icy steps at the church entrance."
+              }
+            },
+            {
+              "name": "Murska Sobota Gallery",
+              "tip_5lang": {
+                "de": "Genießen Sie moderne Kunst in einem gut beheizten Gebäude.",
+                "hu": "Élvezze a modern művészetet egy jól fűtött épületben.",
+                "ro": "Bucurați-vă de arta modernă într-o clădire bine încălzită.",
+                "en": "Enjoy modern art in a well-heated building."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:15 Uhr unter.",
+              "Kombinieren Sie den Stadtrundgang mit einem warmen Getränk in den Cafés am Marktplatz.",
+              "Innenräume von Kirchen können kühler sein, behalten Sie Ihren Mantel an.",
+              "Das Schloss bietet die längste Aufwärmphase des Tages.",
+              "Die Gehwege werden geräumt, aber Vorsicht vor Glatteis im Park."
+            ],
+            "hu": [
+              "A nap decemberben már 16:15 körül lemegy.",
+              "Kombinálja a városnézést egy forró itallal a főtér kávézóiban.",
+              "A templomok belseje hűvösebb lehet, hagyja magán a kabátot.",
+              "A várkastély kínálja a nap leghosszabb melegedési lehetőségét.",
+              "A járdákat takarítják, de a parkban vigyázzon a jegesedésre.",
+              "Winter walk tip."
+            ],
+            "ro": [
+              "Soarele apune în decembrie deja în jurul orei 16:15.",
+              "Combinați turul orașului cu o băutură caldă în cafenelele din piață.",
+              "Interioarele bisericilor pot fi reci, păstrați haina pe dvs.",
+              "Castelul oferă cea mai lungă perioadă de încălzire a zilei.",
+              "Trotuarele sunt curățate, dar atenție la polei în parc."
+            ],
+            "en": [
+              "The sun sets as early as 16:15 in December.",
+              "Combine the city tour with a warm drink in the main square cafes.",
+              "Church interiors can be chilly, keep your coat on.",
+              "The castle offers the longest warming-up phase of the day.",
+              "Pavements are cleared, but watch out for black ice in the park."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -734,6 +925,214 @@
           "Use bike paths wherever possible.",
           "A lock is essential to secure your bike at the stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Radtour am Schloss, wo das Museum Sie trocken hält. Mittags radeln Sie vorsichtig durch den Park zur Kathedrale. Ein kurzer Sprint bringt Sie zum Siegesdenkmal. Trotz Regen lohnt sich die Fahrt zum Sobota-See, da der Expano-Pavillon ein perfektes Indoor-Erlebnis bietet. Zurück in der Stadt besuchen Sie die Kirche und Galerie.",
+            "hu": "Kezdje a biciklis túrát a várnál, ahol a múzeum szárazon tartja. Délben tekerjen óvatosan a parkon át a székesegyházhoz. Egy gyors sprint az emlékműhöz, majd irány a Sobota-tó; az Expano pavilon tökéletes fedett élményt nyújt. Visszatérve a városba látogasson el a templomba és a galériába.",
+            "ro": "Începeți turul cu bicicleta la castel, unde muzeul vă menține uscat. La prânz, pedalați cu atenție prin parc spre catedrală. Un sprint scurt vă duce la monument, apoi spre lacul Sobota; pavilionul Expano oferă o experiență interioară perfectă. Revenind în oraș, vizitați biserica și galeria.",
+            "en": "Start your cycling tour at the castle, where the museum keeps you dry. At noon, pedal carefully through the park to the cathedral. A short sprint takes you to the monument, then head to Lake Sobota; the Expano pavilion offers a perfect indoor experience. Back in town, visit the church and the gallery."
+          },
+          "stops": [
+            {
+              "name": "Murska Sobota Castle & Pomurje Regional Museum",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich direkt am Schlosseingang.",
+                "hu": "Biztonságos biciklitárolók találhatók közvetlenül a várbejáratnál.",
+                "ro": "Rasteluri sigure pentru biciclete se află chiar la intrarea în castel.",
+                "en": "Secure bike racks are located right at the castle entrance."
+              }
+            },
+            {
+              "name": "Murska Sobota City Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor nassen Blättern auf den Radwegen im Park.",
+                "hu": "Vigyázzon a nedves levelekre a park kerékpárútjain.",
+                "ro": "Atenție la frunzele ude pe pistele de biciclete din parc.",
+                "en": "Watch out for wet leaves on the park's bike paths."
+              }
+            },
+            {
+              "name": "Cathedral of Saint Nicholas",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Bäumen ab, um den Sattel trocken zu halten.",
+                "hu": "Parkoljon a fák alatt, hogy a nyereg száraz maradjon.",
+                "ro": "Parcați bicicleta sub copaci pentru a menține șaua uscată.",
+                "en": "Park your bike under trees to keep the saddle dry."
+              }
+            },
+            {
+              "name": "Victory Monument",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; der Bodenbelag kann bei Nässe rutschig sein.",
+                "hu": "Rövid fotómegálló; a burkolat nedvesen csúszós lehet.",
+                "ro": "Scurt popas pentru poze; pavajul poate fi alunecos când e ud.",
+                "en": "Short photo stop; the paving can be slippery when wet."
+              }
+            },
+            {
+              "name": "Lake Sobota",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Expano-Pavillon, um dem Regen am See zu entkommen.",
+                "hu": "Látogassa meg az Expano pavilont, hogy elmeneküljön a tavi eső elől.",
+                "ro": "Vizitați pavilionul Expano pentru a scăpa de ploaia de la lac.",
+                "en": "Visit the Expano pavilion to escape the rain by the lake."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Kurze Fahrstrecke vom See zurück ins Stadtzentrum.",
+                "hu": "Rövid tekerés a tótól vissza a városközpontba.",
+                "ro": "Distanță scurtă de pedalat de la lac înapoi în centru.",
+                "en": "Short cycling distance from the lake back to the city center."
+              }
+            },
+            {
+              "name": "Murska Sobota Gallery",
+              "tip_5lang": {
+                "de": "Der ideale trockene Ort, um die Tour zu beenden.",
+                "hu": "Ideális száraz hely a túra befejezéséhez.",
+                "ro": "Locul uscat ideal pentru a încheia turul.",
+                "en": "Ideal dry spot to end the tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollständige Regenmontur, da die Strecke zum See offen ist.",
+              "Prüfen Sie Ihre Bremsen, da Nässe den Bremsweg verlängert.",
+              "Nutzen Sie Schutzbleche, um Schmutzspritzer auf der Kleidung zu vermeiden.",
+              "Der Expano-Pavillon am See bietet Schließfächer für nasse Helme.",
+              "Die Stadt ist flach, was das Fahren im Regen einfacher macht."
+            ],
+            "hu": [
+              "Viseljen teljes esőfelszerelést, mert a tóhoz vezető út nyitott.",
+              "Ellenőrizze a fékeket, mert a nedvesség növeli a féktávot.",
+              "Használjon sárvédőt, hogy elkerülje a ruházat beszennyeződését.",
+              "A tónál lévő Expano pavilonban vannak szekrények a vizes sisakoknak.",
+              "A város sík, ami megkönnyíti az esőben való tekerést."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, traseul spre lac este expus.",
+              "Verificați frânele, umezeala mărește distanța de frânare.",
+              "Folosiți aripi la bicicletă pentru a evita stropirea hainelor.",
+              "Pavilionul Expano de la lac are vestiare pentru căștile ude.",
+              "Orașul este plat, ceea ce face pedalarea pe ploaie mai ușoară."
+            ],
+            "en": [
+              "Wear full rain gear as the path to the lake is exposed.",
+              "Check your brakes as wetness increases braking distance.",
+              "Use mudguards to avoid splashing dirt on your clothes.",
+              "The Expano pavilion at the lake has lockers for wet helmets.",
+              "The city is flat, which makes cycling in the rain easier."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Schlossmuseum bietet Wärme am Morgen. Danach radeln Sie durch den winterlichen Stadtpark zur Kathedrale. Mittags geht es zum Siegesdenkmal. Die Fahrt zum Sobota-See ist im Winter erfrischend; wärmen Sie sich im modernen Expano-Pavillon auf. Beenden Sie Ihre Tour sicher in der Stadt bei der evangelischen Kirche und der Galerie.",
+            "hu": "Fagyos kezdés a vármúzeumban, ami reggeli meleget ad. Ezután tekerjen a téli városi parkon át a székesegyházhoz. Délben látogasson el az emlékműhöz. A biciklizés a Sobota-tóhoz télen frissítő; melegedjen fel a modern Expano pavilonban. Fejezze be a túrát biztonságosan az evangélikus templomnál és a galériánál.",
+            "ro": "Un început înghețat la muzeul castelului oferă căldură dimineața. Apoi pedalați prin parcul hibernal spre catedrală. La prânz mergeți la monument. Drumul spre lacul Sobota este revigorant iarna; încălziți-vă în pavilionul modern Expano. Încheiați turul în siguranță la biserica evanghelică și la galerie.",
+            "en": "A frosty start at the castle museum provides morning warmth. Then pedal through the wintry city park to the cathedral. At noon, visit the monument. The ride to Lake Sobota is refreshing in winter; warm up in the modern Expano pavilion. Finish your tour safely at the Evangelical Church and the gallery."
+          },
+          "stops": [
+            {
+              "name": "Murska Sobota Castle & Pomurje Regional Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände im Museum auf, bevor Sie weiterfahren.",
+                "hu": "Melegítse fel a kezét a múzeumban, mielőtt továbbindulna.",
+                "ro": "Încălziți-vă mâinile în muzeu înainte de a pleca mai departe.",
+                "en": "Warm up your hands in the museum before riding further."
+              }
+            },
+            {
+              "name": "Murska Sobota City Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Pfützen auf den Parkwegen.",
+                "hu": "Vigyázzon a fagyott tócsákra a park útjain.",
+                "ro": "Atenție la bălțile înghețate de pe aleile parcului.",
+                "en": "Watch out for frozen puddles on the park paths."
+              }
+            },
+            {
+              "name": "Cathedral of Saint Nicholas",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; die Kirche bietet Schutz vor dem kalten Wind.",
+                "hu": "Rövid megálló; a templom védelmet nyújt a hideg szél ellen.",
+                "ro": "Popas scurt; biserica oferă protecție împotriva vântului rece.",
+                "en": "Short stop; the church provides shelter from the cold wind."
+              }
+            },
+            {
+              "name": "Victory Monument",
+              "tip_5lang": {
+                "de": "Das Metall des Denkmals kann bei Berührung extrem kalt sein.",
+                "hu": "Az emlékmű fémszerkezete érintésre rendkívül hideg lehet.",
+                "ro": "Metalul monumentului poate fi extrem de rece la atingere.",
+                "en": "The monument's metal can be extremely cold to the touch."
+              }
+            },
+            {
+              "name": "Lake Sobota",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den See aus dem beheizten Expano-Café.",
+                "hu": "Élvezze a tavi kilátást a fűtött Expano kávézóból.",
+                "ro": "Bucurați-vă de priveliștea lacului din cafeneaua încălzită Expano.",
+                "en": "Enjoy the lake view from the heated Expano cafe."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Beleuchtung einschalten, da es am späten Nachmittag dämmert.",
+                "hu": "Kapcsolja be a világítást, mert késő délután már szürkül.",
+                "ro": "Aprindeți luminile, se înserează deja după-amiaza târziu.",
+                "en": "Turn on lights as it starts getting dark in the late afternoon."
+              }
+            },
+            {
+              "name": "Murska Sobota Gallery",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Tour im Warmen zu beenden.",
+                "hu": "Tökéletes hely a túra melegben való befejezéséhez.",
+                "ro": "Locul perfect pentru a încheia turul la căldură.",
+                "en": "Perfect place to end the tour in the warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und warme Socken.",
+              "Die Radwege werden geräumt, aber Brücken können vereist sein.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+              "Planen Sie die Rückfahrt vom See vor 16:30 Uhr ein.",
+              "Ein Thermosbecher mit Tee im Fahrradkorb ist sehr empfehlenswert."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és meleg zoknit.",
+              "A kerékpárutakat takarítják, de a hidak jegesek lehetnek.",
+              "Győződjön meg róla, hogy a világítás megfelelően működik.",
+              "Tervezze a visszautat a tótól 16:30 előtt.",
+              "Egy termosz meleg tea a kosárban nagyon ajánlott."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și șosete groase.",
+              "Pistele sunt curățate, dar podurile pot fi înghețate.",
+              "Asigurați-vă că luminile bicicletei funcționează perfect.",
+              "Planificați întoarcerea de la lac înainte de ora 16:30.",
+              "Un termos cu ceai cald în coșul bicicletei este recomandat."
+            ],
+            "en": [
+              "Wear windproof gloves and warm socks.",
+              "Bike paths are cleared, but bridges can be icy.",
+              "Ensure your bike lights are functioning perfectly.",
+              "Plan your return from the lake before 16:30.",
+              "A thermos of warm tea in your bike basket is highly recommended."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1086,6 +1485,196 @@
           "Obey the speed limits, especially in residential areas.",
           "A GPS is helpful for finding the parking lots and the lake."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag bequem am Sobota-See, wo der Expano-Pavillon Schutz vor Regen bietet. Danach fahren Sie zum Parkhaus im Zentrum. Besuchen Sie die nahegelegene evangelische Kirche und die Kathedrale. Mittags und am Nachmittag verbringen Sie viel Zeit im Schlossmuseum, bevor Sie den Tag mit einem kurzen Spaziergang durch den Park beenden.",
+            "hu": "Kezdje a napot kényelmesen a Sobota-tónál, ahol az Expano pavilon védelmet nyújt az eső elől. Ezután hajtson a központi parkolóba. Látogassa meg a közeli evangélikus templomot és a székesegyházat. A délutánt töltse a vármúzeumban, majd zárja a napot egy rövid sétával a parkban.",
+            "ro": "Începeți ziua confortabil la lacul Sobota, unde pavilionul Expano oferă protecție contra ploii. Apoi mergeți la parcarea centrală. Vizitați biserica evanghelică și catedrala din apropiere. Prânzul și după-amiaza petreceți-le în muzeul castelului, încheind cu o scurtă plimbare prin parc.",
+            "en": "Start your day comfortably at Lake Sobota, where the Expano pavilion offers protection from the rain. Then drive to the central parking. Visit the nearby Evangelical Church and the cathedral. Spend the afternoon in the castle museum, concluding the day with a short walk through the park."
+          },
+          "stops": [
+            {
+              "name": "Lake Sobota",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Expano-Eingang, um trocken zu bleiben.",
+                "hu": "Parkoljon közvetlenül az Expano bejáratánál, hogy száraz maradjon.",
+                "ro": "Parcați chiar la intrarea Expano pentru a rămâne uscat.",
+                "en": "Park right by the Expano entrance to stay dry."
+              }
+            },
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen zentralen Punkt für alle Innenstadtziele.",
+                "hu": "Használja ezt a központi pontot az összes belvárosi célponthoz.",
+                "ro": "Folosiți acest punct central pentru toate obiectivele din centru.",
+                "en": "Use this central point for all downtown destinations."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Nur wenige Schritte vom Parkplatz entfernt.",
+                "hu": "Csak pár lépésre a parkolótól.",
+                "ro": "La doar câțiva pași de parcare.",
+                "en": "Only a few steps away from the parking area."
+              }
+            },
+            {
+              "name": "Cathedral of Saint Nicholas",
+              "tip_5lang": {
+                "de": "Ein kurzer, regnerischer Weg vom Parkplatz zur Kirche.",
+                "hu": "Rövid, esős út a parkolótól a templomig.",
+                "ro": "Un drum scurt și ploios de la parcare la biserică.",
+                "en": "A short, rainy walk from the parking to the church."
+              }
+            },
+            {
+              "name": "Murska Sobota Castle & Pomurje Regional Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie den Regenschirm an der Museumsgarderobe.",
+                "hu": "Hagyja az esernyőt a múzeumi ruhatárban.",
+                "ro": "Lăsați umbrela la garderoba muzeului.",
+                "en": "Leave your umbrella at the museum cloakroom."
+              }
+            },
+            {
+              "name": "Murska Sobota City Park",
+              "tip_5lang": {
+                "de": "Ein schneller Blick auf das Schloss vom Auto aus ist möglich.",
+                "hu": "A várkastélyra néző kilátás az autóból is élvezhető.",
+                "ro": "O vedere rapidă a castelului este posibilă și din mașină.",
+                "en": "A quick view of the castle from the car is possible."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Das Parken im Zentrum ist bei Regen sehr praktisch für kurze Wege.",
+              "Achten Sie auf Fußgänger mit Regenschirmen, die die Sicht einschränken.",
+              "Die Fahrt zum Sobota-See dauert nur 5 Minuten vom Zentrum.",
+              "Nutzen Sie die Parkhäuser, um in ein trockenes Auto zurückzukehren.",
+              "Halten Sie die Scheiben beschlagfrei für bessere Sicht."
+            ],
+            "hu": [
+              "A központi parkolás esőben nagyon praktikus a rövid távok miatt.",
+              "Figyeljen az esernyős gyalogosokra, akik korlátozhatják a kilátást.",
+              "A Sobota-tóhoz való kijutás mindössze 5 perc a központból.",
+              "Használja a parkolóházakat, hogy száraz autóba térhessen vissza.",
+              "Tartsa páramentesen a szélvédőt a jobb kilátás érdekében."
+            ],
+            "ro": [
+              "Parcarea în centru este foarte practică pe ploaie pentru distanțe scurte.",
+              "Atenție la pietonii cu umbrele care pot limita vizibilitatea.",
+              "Drumul spre lacul Sobota durează doar 5 minute din centru.",
+              "Folosiți parcările acoperite pentru a reveni într-o mașină uscată.",
+              "Mențineți parbrizul dezaburit pentru o vizibilitate mai bună."
+            ],
+            "en": [
+              "Parking in the center is very practical in the rain for short distances.",
+              "Watch out for pedestrians with umbrellas who may limit visibility.",
+              "The drive to Lake Sobota takes only 5 minutes from the center.",
+              "Use parking garages to return to a dry car.",
+              "Keep the windshield defogged for better visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein gemütlicher Wintermorgen am Sobota-See bietet frostige Ausblicke bei wohliger Wärme im Expano. Fahren Sie ins Zentrum und parken Sie nahe der evangelischen Kirche. Mittags wärmt Sie die Geschichte im Schlossmuseum auf. Ein kurzer Besuch in der Kathedrale und ein Blick in den frostigen Park runden den Tag ab, bevor Sie im warmen Auto die Heimreise antreten.",
+            "hu": "Egy kényelmes téli reggel a Sobota-tónál fagyos kilátást kínál az Expano kellemes melegéből. Hajtson be a központba, és parkoljon az evangélikus templom közelében. Délben a vármúzeum történetei melegítik fel. Egy rövid látogatás a székesegyházban és a zúzmarás park megtekintése zárja a napot.",
+            "ro": "O dimineață confortabilă de iarnă la lacul Sobota oferă vederi înghețate din căldura pavilionului Expano. Mergeți în centru și parcați lângă biserica evanghelică. La prânz, istoria vă încălzește în muzeul castelului. O scurtă vizită la catedrală și o privire în parcul înghețat completează ziua.",
+            "en": "A cozy winter morning at Lake Sobota offers frosty views from the warmth of Expano. Drive to the center and park near the Evangelical Church. At noon, history warms you up in the castle museum. A short visit to the cathedral and a look at the frosty park round off the day."
+          },
+          "stops": [
+            {
+              "name": "Lake Sobota",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenaufgang über dem frostigen See vom Parkplatz aus.",
+                "hu": "Élvezze a napfelkeltét a fagyos tó felett a parkolóból.",
+                "ro": "Bucurați-vă de răsăritul peste lacul înghețat direct din parcare.",
+                "en": "Enjoy the sunrise over the frosty lake from the parking lot."
+              }
+            },
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Zentraler Ausgangspunkt für alle beheizten Sehenswürdigkeiten.",
+                "hu": "Központi kiindulópont az összes fűtött látnivalóhoz.",
+                "ro": "Punct central de plecare pentru toate atracțiile încălzite.",
+                "en": "Central starting point for all heated attractions."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Behalten Sie Ihre Handschuhe für den kurzen Fußweg an.",
+                "hu": "Hagyja magán a kesztyűt a rövid sétához.",
+                "ro": "Păstrați-vă mănușile pentru scurta plimbare pe jos.",
+                "en": "Keep your gloves on for the short walk."
+              }
+            },
+            {
+              "name": "Cathedral of Saint Nicholas",
+              "tip_5lang": {
+                "de": "Die massiven Mauern halten die Kälte draußen.",
+                "hu": "A masszív falak kívül tartják a hideget.",
+                "ro": "Zidurile masive țin frigul afară.",
+                "en": "The massive walls keep the cold outside."
+              }
+            },
+            {
+              "name": "Murska Sobota Castle & Pomurje Regional Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Mittagsstunden im Warmen zu verbringen.",
+                "hu": "Tökéletes hely a déli órák melegben való eltöltéséhez.",
+                "ro": "Locul perfect pentru a petrece orele prânzului la căldură.",
+                "en": "Perfect place to spend the midday hours in the warmth."
+              }
+            },
+            {
+              "name": "Murska Sobota City Park",
+              "tip_5lang": {
+                "de": "Ein Winterspaziergang ist kurz, aber belebend.",
+                "hu": "A téli séta rövid, de frissítő.",
+                "ro": "O plimbare de iarnă este scurtă, dar revigorantă.",
+                "en": "A winter walk is short but invigorating."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf winterliche Straßenverhältnisse, besonders morgens.",
+              "Stellen Sie sicher, dass Sie genügend Frostschutzmittel in der Scheibenwaschanlage haben.",
+              "Nutzen Sie die Sitzheizung für maximalen Komfort zwischen den Stopps.",
+              "Parken Sie nicht unter großen Bäumen mit schwerer Schneelast.",
+              "Die Fahrt zum See kann bei Nebel im Winter länger dauern."
+            ],
+            "hu": [
+              "Figyeljen a téli útviszonyokra, különösen reggel.",
+              "Győződjön meg róla, hogy van elég fagyálló a szélvédőmosóban.",
+              "Használja az ülésfűtést a maximális kényelemért a megállók között.",
+              "Ne parkoljon nagy fák alatt, ha nagy rajtuk a hóteher.",
+              "A tóhoz vezető út ködben télen hosszabb ideig tarthat."
+            ],
+            "ro": [
+              "Atenție la condițiile de drum hibernale, mai ales dimineața.",
+              "Asigurați-vă că aveți destul lichid de parbriz antigel.",
+              "Folosiți încălzirea în scaune pentru confort maxim între opriri.",
+              "Nu parcați sub copaci mari cu încărcătură mare de zăpadă.",
+              "Drumul spre lac poate dura mai mult pe timp de ceață iarna."
+            ],
+            "en": [
+              "Watch out for wintry road conditions, especially in the morning.",
+              "Ensure you have enough antifreeze in your windshield washer fluid.",
+              "Use seat heating for maximum comfort between stops.",
+              "Do not park under large trees with heavy snow load.",
+              "The drive to the lake can take longer in foggy winter weather."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1438,6 +2027,196 @@
           "Check the bus schedule in advance, especially for the return trip from the lake.",
           "Have small change ready for tickets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Kommen Sie trocken am Bahnhof an und nutzen Sie den Bus zum Zentrum. Die Kathedrale bietet einen spirituellen Schutzraum vor dem Regen. Mittags führt Sie ein kurzer Weg zum Schloss, wo das Regionalmuseum stundenlange Unterhaltung im Trockenen bietet. Nach dem Parkbesuch bringt Sie der Bus bequem zum Sobota-See und zum modernen Expano-Pavillon.",
+            "hu": "Érkezzen szárazon a vasútállomásra, és busszal menjen a központba. A székesegyház spirituális menedéket nyújt az eső elől. Délben egy rövid út vezet a várba, ahol a múzeum órákig tartó száraz szórakozást ígér. A parklátogatás után a busz kényelmesen elviszi a Sobota-tóhoz és a modern Expano pavilonhoz.",
+            "ro": "Sosiți la gară și folosiți autobuzul spre centru pentru a rămâne uscat. Catedrala oferă un refugiu spiritual contra ploii. La prânz, un drum scurt vă duce la castel, unde muzeul oferă divertisment la adăpost. După vizita în parc, autobuzul vă duce confortabil la lacul Sobota și pavilionul Expano.",
+            "en": "Arrive at the station and take the bus to the center to stay dry. The cathedral offers a spiritual refuge from the rain. At noon, a short walk leads to the castle, where the museum provides hours of dry entertainment. After the park visit, the bus takes you comfortably to Lake Sobota and the modern Expano pavilion."
+          },
+          "stops": [
+            {
+              "name": "Main Train/Bus Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Wartebereich am Bahnhof.",
+                "hu": "Használja a vasútállomás fedett várótermét.",
+                "ro": "Folosiți zona de așteptare acoperită din gară.",
+                "en": "Use the covered waiting area at the station."
+              }
+            },
+            {
+              "name": "Center Stop",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt sehr zentral zu den Kirchen.",
+                "hu": "A buszmegálló nagyon központi helyen van a templomokhoz.",
+                "ro": "Stația de autobuz este foarte centrală față de biserici.",
+                "en": "The bus stop is very central to the churches."
+              }
+            },
+            {
+              "name": "Cathedral of Saint Nicholas",
+              "tip_5lang": {
+                "de": "Nur 3 Minuten Fußweg von der Bushaltestelle entfernt.",
+                "hu": "Mindössze 3 perc séta a buszmegállótól.",
+                "ro": "La doar 3 minute de mers pe jos de stația de autobuz.",
+                "en": "Only 3 minutes walk from the bus stop."
+              }
+            },
+            {
+              "name": "Murska Sobota Castle & Pomurje Regional Museum",
+              "tip_5lang": {
+                "de": "Ideales Ziel, um auf den nächsten Bus im Trockenen zu warten.",
+                "hu": "Ideális hely a következő busz szárazon való megvárásához.",
+                "ro": "Locul ideal pentru a aștepta următorul autobuz la adăpost.",
+                "en": "Ideal place to wait for the next bus while staying dry."
+              }
+            },
+            {
+              "name": "Murska Sobota City Park",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen am Parkrand bieten oft kleine Unterstände.",
+                "hu": "A park szélén lévő buszmegállók gyakran rendelkeznek kis beállóval.",
+                "ro": "Stațiile de autobuz de la marginea parcului au adesea adăposturi mici.",
+                "en": "Bus stops at the park edge often have small shelters."
+              }
+            },
+            {
+              "name": "Lake Sobota Stop",
+              "tip_5lang": {
+                "de": "Der Expano-Pavillon ist direkt von der Haltestelle aus sichtbar.",
+                "hu": "Az Expano pavilon közvetlenül látható a megállóból.",
+                "ro": "Pavilionul Expano este vizibil direct din stație.",
+                "en": "The Expano pavilion is visible directly from the stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan vorab online, um Wartezeiten im Regen zu minimieren.",
+              "Halten Sie Ihr Ticket griffbereit, um Verzögerungen beim Einsteigen zu vermeiden.",
+              "Die Busse in Murska Sobota sind sauber und bieten guten Regenschutz.",
+              "Kombinieren Sie Busfahrten mit dem Besuch von Museen und Kirchen.",
+              "Der Weg vom Bahnhof zum Zentrum ist kurz, aber bei starkem Regen ist der Bus besser."
+            ],
+            "hu": [
+              "Ellenőrizze előre a menetrendet online, hogy minimalizálja az esőben való várakozást.",
+              "Tartsa kéznél a jegyét, hogy elkerülje a késedelmet felszálláskor.",
+              "A murska sobotai buszok tiszták és jó védelmet nyújtanak az eső ellen.",
+              "Kombinálja a buszozást múzeumi és templomi látogatásokkal.",
+              "A vasútállomástól a központig tartó út rövid, de erős esőben jobb a busz."
+            ],
+            "ro": [
+              "Verificați programul online în prealabil pentru a minimiza așteptarea în ploaie.",
+              "Țineți biletul la îndemână pentru a evita întârzierile la urcare.",
+              "Autobuzele din Murska Sobota sunt curate și oferă protecție bună.",
+              "Combinați călătoriile cu autobuzul cu vizitele la muzee și biserici.",
+              "Drumul de la gară spre centru este scurt, dar pe ploaie torențială autobuzul e mai bun."
+            ],
+            "en": [
+              "Check the schedule online beforehand to minimize waiting in the rain.",
+              "Keep your ticket ready to avoid delays when boarding.",
+              "Buses in Murska Sobota are clean and provide good rain protection.",
+              "Combine bus rides with visits to museums and churches.",
+              "The walk from the station to the center is short, but the bus is better in heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen beginnt am Bahnhof, von wo Sie der warme Bus ins Zentrum bringt. Besuchen Sie die Kathedrale und genießen Sie die Stille. Mittags bietet das Schlossmuseum eine beheizte Zuflucht. Nach einem kurzen, erfrischenden Blick in den frostigen Stadtpark bringt Sie der Transit zum Sobota-See, wo der moderne Expano-Pavillon Sie mit Wärme und Ausblicken empfängt.",
+            "hu": "Fagyos téli reggel indul a vasútállomáson, ahonnan meleg busz viszi a központba. Látogassa meg a székesegyházat, és élvezze a csendet. Délben a vármúzeum fűtött menedéket nyújt. A zúzmarás városi park megtekintése után a busz elviszi a Sobota-tóhoz, ahol a modern Expano pavilon meleggel és kilátással várja.",
+            "ro": "O dimineață înghețată de iarnă începe la gară, de unde autobuzul încălzit vă duce în centru. Vizitați catedrala și bucurați-vă de liniște. La prânz, muzeul castelului oferă un refugiu încălzit. După o privire rapidă în parcul înghețat, transportul vă duce la lacul Sobota, unde pavilionul Expano vă primește cu căldură.",
+            "en": "A frosty winter morning starts at the station, where a warm bus takes you to the center. Visit the cathedral and enjoy the silence. At noon, the castle museum offers a heated refuge. After a quick look at the frosty city park, transit takes you to Lake Sobota, where the modern Expano pavilion welcomes you with warmth."
+          },
+          "stops": [
+            {
+              "name": "Main Train/Bus Station",
+              "tip_5lang": {
+                "de": "Der Bahnhofskiosk bietet warme Getränke für den Start.",
+                "hu": "A vasútállomási kioszk meleg italokat kínál az induláshoz.",
+                "ro": "Chioșcul din gară oferă băuturi calde pentru început.",
+                "en": "The station kiosk offers warm drinks for the start."
+              }
+            },
+            {
+              "name": "Center Stop",
+              "tip_5lang": {
+                "de": "Suchen Sie das beheizte Café in der Nähe, falls der Bus Verspätung hat.",
+                "hu": "Keressen egy fűtött kávézót a közelben, ha késik a busz.",
+                "ro": "Căutați o cafenea încălzită în apropiere dacă autobuzul întârzie.",
+                "en": "Look for a heated cafe nearby if the bus is delayed."
+              }
+            },
+            {
+              "name": "Cathedral of Saint Nicholas",
+              "tip_5lang": {
+                "de": "Ein friedlicher, windgeschützter Ort im Winter.",
+                "hu": "Békés, szélvédett hely télen.",
+                "ro": "Un loc liniștit și ferit de vânt iarna.",
+                "en": "A peaceful, wind-sheltered place in winter."
+              }
+            },
+            {
+              "name": "Murska Sobota Castle & Pomurje Regional Museum",
+              "tip_5lang": {
+                "de": "Verbringen Sie hier die kälteste Zeit des Tages im Warmen.",
+                "hu": "Töltse itt a nap leghidegebb óráit a melegben.",
+                "ro": "Petreceți aici cea mai rece perioadă a zilei la căldură.",
+                "en": "Spend the coldest time of the day here in the warmth."
+              }
+            },
+            {
+              "name": "Murska Sobota City Park",
+              "tip_5lang": {
+                "de": "Der Weg zur Haltestelle führt durch den malerischen Winterpark.",
+                "hu": "A megállóhoz vezető út a festői téli parkon át vezet.",
+                "ro": "Drumul spre stație trece prin parcul hibernal pitoresc.",
+                "en": "The path to the stop leads through the picturesque winter park."
+              }
+            },
+            {
+              "name": "Lake Sobota Stop",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, da es am See oft windig ist.",
+                "hu": "Öltözzön melegen, mert a tónál gyakran fúj a szél.",
+                "ro": "Îmbrăcați-vă gros, la lac este adesea vânt.",
+                "en": "Dress warmly as it is often windy by the lake."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne können sich von Sommerfahrplänen unterscheiden.",
+              "Die Busse sind im Winter gut beheizt und komfortabel.",
+              "Warten Sie in Innenräumen oder an windgeschützten Stellen auf den Bus.",
+              "Planen Sie Ihre Rückreise vor Einbruch der Dunkelheit.",
+              "Ein gültiger Lichtbildausweis ist bei Fahrkartenkontrollen oft nötig."
+            ],
+            "hu": [
+              "A téli menetrendek eltérhetnek a nyáriaktól.",
+              "A buszok télen jól fűtöttek és kényelmesek.",
+              "Várja a buszt beltérben vagy szélvédett helyen.",
+              "Tervezze meg a visszautat sötétedés előtt.",
+              "Érvényes fényképes igazolvány gyakran szükséges az ellenőrzésekkor."
+            ],
+            "ro": [
+              "Orarele de iarnă pot diferi de cele de vară.",
+              "Autobuzele sunt bine încălzite și confortabile iarna.",
+              "Așteptați autobuzul în interior sau în locuri ferite de vânt.",
+              "Planificați călătoria de întoarcere înainte de lăsarea întunericului.",
+              "Un act de identitate cu poză este adesea necesar la controlul biletelor."
+            ],
+            "en": [
+              "Winter schedules may differ from summer ones.",
+              "Buses are well-heated and comfortable in winter.",
+              "Wait for the bus indoors or in wind-sheltered spots.",
+              "Plan your return trip before darkness falls.",
+              "A valid photo ID is often required during ticket inspections."
+            ]
+          }
+        }
       }
     }
   }

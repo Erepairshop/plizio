@@ -379,6 +379,206 @@
           "Stay hydrated by drinking plenty of water, particularly in the hot summer months.",
           "Carry some cash for small purchases and tips."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Balıklıgöl, wo der Regen die Wasseroberfläche sanft kräuselt. Die angrenzende Mevlid-i Halil Moschee bietet einen trockenen und spirituellen Rückzugsort.\n\nMittags finden Sie im historischen Gümrük Hanı Schutz. Die überdachten Arkaden sind ideal, um bei einer Tasse Tee dem Prasseln des Regens zuzusehen, bevor Sie zur Großen Moschee weiterziehen.\n\nDer Nachmittag gehört den Museen. Das Archäologische Museum und das Haleplibahçe Mosaik-Museum sind weitläufig und vollständig überdacht, perfekt für nasse Stunden.\n\nBeenden Sie den Tag gemütlich in der Nähe des Museumskomplexes. Die modernen Gebäude bieten eine trockene Umgebung, um die beeindruckenden Funde von Göbeklitepe in Ruhe zu reflektieren.",
+            "hu": "Kezdje a reggelt a Balıklıgöl partján, ahol az esőcseppek különös mintákat rajzolnak a szent halak tavára. A közeli Mevlid-i Halil mecset tökéletes menedéket nyújt a zápor elől.\n\nDélben az eső elől húzódjon be a Gümrük Hanı boltívei alá. A fedett udvaron egy forró tea mellett élvezheti a történelmi hangulatot, majd látogasson el az Urfai Nagymecsetbe.\n\nA délutánt töltse fedett helyen: a Régészeti Múzeum és a Haleplibahçe Mozaikmúzeum hatalmas belső terei szárazon tartják, miközben lenyűgöző kincseket fedezhet fel.\n\nAz este a múzeumi negyed modern épületei között ér véget. Ez a környék esős időben is könnyen járható, a kiállítások pedig órákra elegendő látnivalót kínálnak.",
+            "ro": "Începeți dimineața la Balıklıgöl, unde ploaia creează cercuri hipnotice pe suprafața lacului sacru. Moscheea Mevlid-i Halil din apropiere oferă un adăpost spiritual și uscat.\n\nLa prânz, refugiați-vă sub arcadele din Gümrük Hanı. Curtea interioară acoperită este locul ideal pentru un ceai fierbinte, înainte de a vizita Marea Moschee din Urfa.\n\nDupă-amiaza este dedicată muzeelor. Muzeul de Arheologie și Muzeul Mozaicului Haleplibahçe sunt spațioase și complet acoperite, fiind perfecte pentru orele ploioase.\n\nÎncheiați ziua în zona modernă a muzeelor. Clădirile oferă un mediu confortabil pentru a reflecta asupra descoperirilor de la Göbeklitepe, departe de intemperiile de afară.",
+            "en": "Start your morning at Balıklıgöl, where the rain ripples the surface of the sacred pool. The nearby Mevlid-i Halil Mosque provides a serene and dry sanctuary from the showers.\n\nAt midday, find shelter within the historic Gümrük Hanı. Its covered arcades are perfect for watching the rain with a cup of tea before heading to the Grand Mosque.\n\nSpend your afternoon indoors at the Archaeology Museum and the Haleplibahçe Mosaic Museum. These vast, modern spaces keep you dry while showcasing world-class treasures.\n\nEnd your day near the museum complex. The climate-controlled environments are ideal for exploring history comfortably, no matter the weather outside."
+          },
+          "stops": [
+            {
+              "name": "Balıklıgöl (Pool of Abraham)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden rund um den See als Unterstand.",
+                "hu": "Használja a tó körüli árkádokat eső elleni védelemként.",
+                "ro": "Folosiți arcadele din jurul lacului pentru a vă adăposti.",
+                "en": "Use the arcades around the pool for cover from the rain."
+              }
+            },
+            {
+              "name": "Mevlid-i Halil Mosque",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den stärksten Regen abzuwarten.",
+                "hu": "Csendes hely a legerősebb zápor megvárására.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea ploii torențiale.",
+                "en": "A quiet place to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "Gümrük Hanı (Customs Inn)",
+              "tip_5lang": {
+                "de": "Die oberen Etagen bieten einen tollen Blick auf den nassen Hof.",
+                "hu": "Az emeleti részekről jó rálátás nyílik a vizes udvarra.",
+                "ro": "Etajele superioare oferă o vedere frumoasă asupra curții plouate.",
+                "en": "Upper floors offer great views of the rainy courtyard."
+              }
+            },
+            {
+              "name": "Grand Mosque of Urfa",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im trockenen Innenraum.",
+                "hu": "Csodálja meg az építészetet a száraz belső térben.",
+                "ro": "Admirați arhitectura în interiorul uscat al moscheii.",
+                "en": "Admire the architecture from the dry interior."
+              }
+            },
+            {
+              "name": "Urfa Castle",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Steinstufen beim Aufstieg.",
+                "hu": "Vigyázat, a kőlépcsők csúszósak lehetnek az esőben.",
+                "ro": "Atenție la treptele de piatră care pot fi alunecoase.",
+                "en": "Be careful on the stone steps, they can be slippery."
+              }
+            },
+            {
+              "name": "Şanlıurfa Archaeology Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort für zwei trockene Stunden voller Geschichte.",
+                "hu": "Tökéletes hely két száraz, történelemmel teli órához.",
+                "ro": "Locul perfect pentru două ore de istorie la adăpost.",
+                "en": "Perfect place for two dry hours filled with history."
+              }
+            },
+            {
+              "name": "Haleplibahçe Mosaic Museum",
+              "tip_5lang": {
+                "de": "Die Glaskuppel schützt Sie vor jeglichem Wetter.",
+                "hu": "Az üvegkupola minden időjárástól megvédi önt.",
+                "ro": "Cupola de sticlă vă protejează de orice intemperii.",
+                "en": "The glass dome protects you from all weather conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Basarbereich ist teilweise überdacht, was das Bummeln erleichtert.",
+              "Tragen Sie wasserfeste Schuhe, da sich in der Altstadt Pfützen bilden.",
+              "Ein Taschenschirm ist in den engen Gassen praktischer als ein Stockschirm.",
+              "Nutzen Sie die Museen als 'Ankerpunkte' für die regenreichsten Stunden."
+            ],
+            "hu": [
+              "A bazár területe részben fedett, így esőben is kényelmesen sétálhat.",
+              "Viseljen vízálló cipőt, mert az óváros kövezetén megállhat a víz.",
+              "Az összehajtható esernyő praktikusabb a szűk sikátorokban.",
+              "Időzítse a múzeumlátogatást a legintenzívebb eső idejére."
+            ],
+            "ro": [
+              "Zona bazarului este parțial acoperită, facilitând plimbarea prin ploaie.",
+              "Purtați încălțăminte impermeabilă, apa se poate acumula în orașul vechi.",
+              "O umbrelă compactă este mai utilă în zonele cu străduțe înguste.",
+              "Folosiți muzeele ca refugiu în orele cu precipitații intense."
+            ],
+            "en": [
+              "The bazaar area is partially covered, making it easier to walk in rain.",
+              "Wear waterproof shoes as puddles can form on old town stones.",
+              "A compact umbrella is more practical in the narrow alleys.",
+              "Time your museum visits for the most intense rain periods."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Winterluft am Balıklıgöl. Die kühle Brise macht den Besuch der Mevlid-i Halil Moschee besonders erfrischend, bevor Sie sich drinnen aufwärmen.\n\nMittags lockt der Gümrük Hanı mit heißem Tee und lokaler Gemeinschaft. Die dicken Steinmauern halten die Wärme gut und bieten eine gemütliche Atmosphäre für die Mittagspause.\n\nNachmittags steigen Sie zur Burg Urfa auf. Bei klarer Winterfernsticht ist das Panorama über die Stadt atemberaubend. Später bieten die Museen angenehm temperierte Räume.\n\nDer Abend endet früh, da die Sonne im Winter zeitig untergeht. Nutzen Sie die Abenddämmerung für stimmungsvolle Fotos am Haleplibahçe Mosaik-Museum, bevor es kühler wird.",
+            "hu": "Élvezze a friss téli levegőt a Balıklıgöl partján. A hűvös időben a Mevlid-i Halil mecset látogatása után jól fog esni a belső terek nyugalma.\n\nDélben a Gümrük Hanı hívogat forró teával. A vastag kőfalak között barátságos a hangulat, és a helyi közösség élete is ilyenkor a legélénkebb.\n\nDélután másszon fel az Urfai Várhoz. A tiszta téli levegőben a kilátás messzire nyúlik. Később a fűtött múzeumi termekben melegedhet fel.\n\nAz este korán érkezik, a nap hamar nyugszik. Használja ki az utolsó fényeket a Haleplibahçe Mozaikmúzeumnál, mielőtt a téli éjszaka hidege leszállna a városra.",
+            "ro": "Bucurați-vă de aerul curat de iarnă la Balıklıgöl. Briza rece face vizita la Moscheea Mevlid-i Halil revigorantă, înainte de a intra la căldură.\n\nLa prânz, Gümrük Hanı vă atrage cu un ceai fierbinte. Zidurile groase de piatră păstrează o temperatură plăcută și o atmosferă primitoare pentru relaxare.\n\nDupă-amiaza, urcați la Castelul Urfa. Vizibilitatea clară de iarnă oferă o panoramă spectaculoasă. Ulterior, muzeele oferă spații încălzite și confortabile.\n\nSeara vine devreme, deoarece soarele apune repede iarna. Profită de amurg pentru fotografii atmosferice la Haleplibahçe, înainte ca temperatura să scadă drastic.",
+            "en": "Enjoy the crisp winter air at Balıklıgöl. The cool breeze makes the visit to Mevlid-i Halil Mosque refreshing before you head inside to warm up.\n\nAt midday, Gümrük Hanı beckons with hot tea and local hospitality. The thick stone walls create a cozy atmosphere perfect for a winter break.\n\nIn the afternoon, climb up to Urfa Castle. The clear winter skies offer breathtaking views over the city. Later, retreat to the heated museum galleries.\n\nEvening arrives early as the sun sets sooner in winter. Capture the twilight glow at the Haleplibahçe Mosaic Museum before the night chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Balıklıgöl (Pool of Abraham)",
+              "tip_5lang": {
+                "de": "Füttern Sie die Fische, die auch im Winter aktiv sind.",
+                "hu": "Etesse meg a halakat, amelyek télen is aktívak.",
+                "ro": "Hrăniți peștii, care sunt activi chiar și în timpul iernii.",
+                "en": "Feed the fish, as they remain active even in winter."
+              }
+            },
+            {
+              "name": "Mevlid-i Halil Mosque",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Socken für den Barfußbereich.",
+                "hu": "Viseljen meleg zoknit a mezítlábas látogatáshoz.",
+                "ro": "Purtați șosete groase pentru zonele unde se intră desculț.",
+                "en": "Wear warm socks for the barefoot areas inside."
+              }
+            },
+            {
+              "name": "Gümrük Hanı (Customs Inn)",
+              "tip_5lang": {
+                "de": "Probieren Sie den heißen 'Mırra' Kaffee zum Aufwärmen.",
+                "hu": "Kóstolja meg a forró 'Mırra' kávét a felmelegedéshez.",
+                "ro": "Încercați cafeaua fierbinte 'Mırra' pentru a vă încălzi.",
+                "en": "Try the hot 'Mırra' coffee to warm yourself up."
+              }
+            },
+            {
+              "name": "Grand Mosque of Urfa",
+              "tip_5lang": {
+                "de": "Der Innenhof kann im Schatten recht kühl sein.",
+                "hu": "A belső udvar az árnyékban elég hűvös lehet.",
+                "ro": "Curtea interioară poate fi destul de rece la umbră.",
+                "en": "The inner courtyard can be quite chilly in the shade."
+              }
+            },
+            {
+              "name": "Urfa Castle",
+              "tip_5lang": {
+                "de": "Bester Zeitpunkt für Fotos ist kurz vor Sonnenuntergang.",
+                "hu": "A fotózáshoz a legjobb időpont közvetlenül naplemente előtt van.",
+                "ro": "Cel mai bun moment pentru poze este înainte de apus.",
+                "en": "The best time for photos is just before sunset."
+              }
+            },
+            {
+              "name": "Şanlıurfa Archaeology Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre dicke Winterjacke.",
+                "hu": "Használja a ruhatárat a vastag télikabátja számára.",
+                "ro": "Folosiți garderoba pentru haina groasă de iarnă.",
+                "en": "Use the cloakroom for your heavy winter coat."
+              }
+            },
+            {
+              "name": "Haleplibahçe Mosaic Museum",
+              "tip_5lang": {
+                "de": "Ein angenehm warmer Abschluss für den Wintertag.",
+                "hu": "Kellemesen meleg lezárása a téli napnak.",
+                "ro": "Un final de zi călduros și plăcut pentru iarnă.",
+                "en": "A pleasantly warm conclusion to your winter day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Temperaturen können nach Sonnenuntergang stark sinken.",
+              "Zwiebelprinzip bei der Kleidung ist wegen der beheizten Museen ratsam.",
+              "Die Sonne geht im Winter gegen 17:00 Uhr unter.",
+              "Heißer Milchtee (Salep) ist ein beliebter Winterdrink in Urfa."
+            ],
+            "hu": [
+              "A hőmérséklet naplemente után gyorsan csökkenhet.",
+              "Öltözködjön rétegesen a fűtött múzeumok miatt.",
+              "A nap télen 17:00 óra körül nyugszik.",
+              "A forró tejes ital (szalep) népszerű téli frissítő Urfában."
+            ],
+            "ro": [
+              "Temperaturile pot scădea semnificativ după apusul soarelui.",
+              "Îmbrăcați-vă în straturi din cauza muzeelor încălzite.",
+              "Soarele apune în jurul orei 17:00 în timpul iernii.",
+              "Băutura caldă cu lapte (salep) este populară iarna în Urfa."
+            ],
+            "en": [
+              "Temperatures can drop significantly after sunset.",
+              "Dress in layers due to the well-heated museums.",
+              "The sun sets around 17:00 during the winter months.",
+              "Hot milk drink (Salep) is a popular winter treat in Urfa."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +929,188 @@
           "A helmet is strongly recommended.",
           "Bring a lock to secure your bike while sightseeing."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Tag im Museumskomplex, wo Sie Ihr Rad sicher und trocken abstellen können. Die Ausstellungen bieten stundenlangen Schutz vor dem Regen.\n\nMittags radeln Sie vorsichtig zur Burg Urfa. Der Aufstieg ist kurz, aber die Aussicht auf die verregnete Stadt hat ihren ganz eigenen Charme.\n\nNachmittags führt der Weg zum Balıklıgöl. Suchen Sie Schutz unter den historischen Torbögen, bevor Sie zum Gümrük Hanı weiterfahren, um sich bei einem Tee zu trocknen.\n\nDie Fahrt entlang des Karakoyun-Bachs ist bei Regen erfrischend, erfordert aber erhöhte Aufmerksamkeit wegen nasser Wege. Kehren Sie schließlich ins Stadtzentrum zurück.",
+            "hu": "Kezdje a napot a múzeumi negyedben, ahol biztonságos és száraz helyen hagyhatja a kerékpárt. A kiállítások órákig tartó menedéket nyújtanak az eső elől.\n\nDélben óvatosan tekerjen el az Urfai Várhoz. A feljutás rövid, az esős város látképe pedig különleges hangulatot áraszt.\n\nDélután az út a Balıklıgölhöz vezet. Keressen menedéket a történelmi boltívek alatt, majd folytassa az utat a Gümrük Hanı-hoz egy szárítkozó teára.\n\nA Karakoyun-patak menti tekerés esőben frissítő, de fokozott figyelmet igényel a vizes utak miatt. Végül térjen vissza a városközpontba.",
+            "ro": "Începeți ziua la complexul muzeal, unde puteți lăsa bicicleta în siguranță. Expozițiile vă oferă adăpost împotriva ploii pentru câteva ore bune.\n\nLa prânz, pedalați cu atenție spre Castelul Urfa. Urcarea este scurtă, iar priveliștea orașului sub ploaie are un farmec aparte.\n\nDupă-amiaza, drumul vă poartă spre Balıklıgöl. Căutați adăpost sub arcadele istorice înainte de a merge la Gümrük Hanı pentru un ceai și pentru a vă usca.\n\nPlimbarea de-a lungul pârâului Karakoyun este revigorantă pe ploaie, dar necesită atenție sporită pe asfaltul ud. Reveniți în final în centrul orașului.",
+            "en": "Start your day at the museum complex where you can park your bike safely. The indoor exhibits provide hours of shelter from the rain.\n\nAt midday, cycle carefully to Urfa Castle. The climb is short, and the view of the rainy city below is uniquely atmospheric.\n\nIn the afternoon, head to Balıklıgöl. Find shelter under the historic arches before continuing to Gümrük Hanı to dry off with some tea.\n\nA ride along Karakoyun Creek is refreshing in the rain but requires extra focus due to wet paths. Finally, return to the city center."
+          },
+          "stops": [
+            {
+              "name": "Archaeology Museum & Mosaic Museum",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im überdachten Eingangsbereich.",
+                "hu": "Parkolja le a kerékpárt a fedett bejárati részen.",
+                "ro": "Parcați bicicleta în zona de intrare acoperită.",
+                "en": "Park your bike in the covered entrance area."
+              }
+            },
+            {
+              "name": "Urfa Castle",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Radfahren auf den steilen, nassen Pfaden.",
+                "hu": "Kerülje a kerékpározást a meredek, vizes ösvényeken.",
+                "ro": "Evitați pedalatul pe potecile abrupte și ude.",
+                "en": "Avoid cycling on the steep, wet paths near the castle."
+              }
+            },
+            {
+              "name": "Balıklıgöl (Pool of Abraham)",
+              "tip_5lang": {
+                "de": "Schieben Sie Ihr Rad in der Nähe der heiligen Stätten.",
+                "hu": "Tolja a kerékpárt a szent helyek közelében.",
+                "ro": "Mergeți pe lângă bicicletă în apropierea locurilor sacre.",
+                "en": "Walk your bike when near the sacred sites."
+              }
+            },
+            {
+              "name": "Gümrük Hanı",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Arkaden des Hans ab.",
+                "hu": "Állítsa le a kerékpárt a han árkádjai alatt.",
+                "ro": "Lăsați bicicleta sub arcadele hanului.",
+                "en": "Park your bike under the arches of the inn."
+              }
+            },
+            {
+              "name": "Ride along Karakoyun Creek",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem Laub auf dem Radweg.",
+                "hu": "Vigyázzon a csúszós levelekkel a kerékpárúton.",
+                "ro": "Atenție la frunzele alunecoase de pe pista de biciclete.",
+                "en": "Watch out for slippery leaves on the bike path."
+              }
+            },
+            {
+              "name": "Return to City Center",
+              "tip_5lang": {
+                "de": "Ein heißes Bad nach der Tour beugt Erkältungen vor.",
+                "hu": "Egy forró fürdő a túra után segít elkerülni a megfázást.",
+                "ro": "O baie fierbinte după tură ajută la evitarea răcelii.",
+                "en": "A hot bath after the ride helps prevent catching a cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie Kopfsteinpflaster, wenn es nass ist.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt im Regen.",
+              "Die Museen bieten die besten Möglichkeiten zum Aufwärmen."
+            ],
+            "hu": [
+              "Vizes időben kerülje a macskaköves utakat.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóságért.",
+              "Indulás előtt ellenőrizze a fékeket az esőben.",
+              "A múzeumok kínálják a legjobb lehetőséget a felmelegedésre."
+            ],
+            "ro": [
+              "Evitați pavajul cu piatră cubică atunci când este ud.",
+              "Purtați o jachetă de ploaie stridentă pentru vizibilitate.",
+              "Verificați frânele înainte de a pleca prin ploaie.",
+              "Muzeele oferă cele mai bune oportunități de încălzire."
+            ],
+            "en": [
+              "Avoid cobblestone streets when they are wet.",
+              "Wear a bright raincoat for better visibility in traffic.",
+              "Check your brakes before starting your ride in the rain.",
+              "Museums offer the best opportunities to warm up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour bei den Museen. Die kühle Morgenluft ist perfekt, um wach zu werden, bevor Sie in die warmen Hallen eintauchen.\n\nMittags radeln Sie zur Burg Urfa. Die Bewegung hält Sie warm, und oben werden Sie mit einer klaren Sicht über die winterliche Ebene belohnt.\n\nNachmittags geht es zum Balıklıgöl. Der warme Dampf über dem Wasser (an sehr kalten Tagen) wirkt magisch. Im Gümrük Hanı gibt es stärkenden Tee.\n\nDie Fahrt entlang des Karakoyun-Bachs bietet im Winter eine ruhige Atmosphäre. Da es früh dunkel wird, planen Sie Ihre Rückkehr ins Zentrum rechtzeitig vor 17 Uhr.",
+            "hu": "Kezdje a téli túrát a múzeumoknál. A hűvös reggeli levegő tökéletes az ébredéshez, mielőtt elmerülne a meleg kiállítótermekben.\n\nDélben tekerjen el az Urfai Várhoz. A mozgás melegen tartja, fent pedig tiszta kilátás várja a téli tájra.\n\nDélután látogasson el a Balıklıgölhöz. A víz feletti pára (nagyon hideg napokon) varázslatos látvány. A Gümrük Hanı-ban erősítő teát ihat.\n\nA Karakoyun-patak menti út télen csendes hangulatot áraszt. Mivel korán sötétedik, tervezze a visszatérést 17 óra elé.",
+            "ro": "Începeți turul de iarnă la muzee. Aerul rece de dimineață este perfect pentru trezire înainte de a intra în sălile calde de expoziție.\n\nLa prânz, pedalați spre Castelul Urfa. Mișcarea vă va ține de cald, iar sus veți fi răsplătiți cu o vedere clară asupra câmpiei de iarnă.\n\nDupă-amiaza, mergeți la Balıklıgöl. Aburul de deasupra apei în zilele foarte reci pare magic. La Gümrük Hanı puteți bea un ceai revigorant.\n\nPlimbarea pe lângă pârâul Karakoyun oferă o atmosferă liniștită iarna. Deoarece se întunecă devreme, planificați revenirea înainte de ora 17:00.",
+            "en": "Start your winter bike tour at the museums. The crisp morning air is perfect for waking up before you dive into the warm galleries.\n\nAt midday, cycle to Urfa Castle. The physical activity will keep you warm, and you'll be rewarded with clear views of the winter landscape.\n\nIn the afternoon, head to Balıklıgöl. The steam rising from the water on very cold days looks magical. Enjoy some strengthening tea at Gümrük Hanı.\n\nThe ride along Karakoyun Creek is peaceful in winter. Since it gets dark early, plan your return to the center well before 17:00."
+          },
+          "stops": [
+            {
+              "name": "Archaeology Museum & Mosaic Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Räume zum Aufwärmen.",
+                "hu": "Használja a fűtött tereket a felmelegedéshez.",
+                "ro": "Folosiți spațiile încălzite pentru a vă încălzi.",
+                "en": "Use the heated indoor spaces to warm up."
+              }
+            },
+            {
+              "name": "Urfa Castle",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe für die kühle Abfahrt.",
+                "hu": "Viseljen kesztyűt a hűvös lejtőhöz.",
+                "ro": "Purtați mănuși pentru coborârea răcoroasă.",
+                "en": "Wear gloves for the chilly descent from the castle."
+              }
+            },
+            {
+              "name": "Balıklıgöl (Pool of Abraham)",
+              "tip_5lang": {
+                "de": "Die Fische drängen sich im Winter oft zusammen.",
+                "hu": "A halak télen gyakran csoportokba verődnek.",
+                "ro": "Peștii se strâng adesea laolaltă în timpul iernii.",
+                "en": "The fish often huddle together during winter days."
+              }
+            },
+            {
+              "name": "Gümrük Hanı",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen Sitzplatz nah an den Teestuben.",
+                "hu": "Keressen ülőhelyet a teázók közelében.",
+                "ro": "Căutați un loc aproape de ceainării.",
+                "en": "Find a seat close to the tea houses for warmth."
+              }
+            },
+            {
+              "name": "Ride along Karakoyun Creek",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Wegen am Morgen.",
+                "hu": "Figyeljen a reggeli zúzmarára az utakon.",
+                "ro": "Atenție la chiciura de pe drumuri dimineața.",
+                "en": "Watch out for frost on the paths in the morning."
+              }
+            },
+            {
+              "name": "Return to City Center",
+              "tip_5lang": {
+                "de": "Licht am Fahrrad ist bei der frühen Dämmerung Pflicht.",
+                "hu": "A kerékpárvilágítás kötelező a korai szürkületben.",
+                "ro": "Luminile la bicicletă sunt obligatorii la amurgul timpuriu.",
+                "en": "Bike lights are mandatory for the early dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, um den Fahrtwind abzuwehren.",
+              "Halten Sie Ihre Extremitäten (Hände, Füße) besonders warm.",
+              "Die Wintersonne kann beim Fahren blenden, nutzen Sie eine Brille.",
+              "Vermeiden Sie schattige Gassen, dort bleibt es länger kalt."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot a menetszél ellen.",
+              "Tartsa különösen melegen a végtagjait (kezek, lábak).",
+              "A téli nap elvakíthat vezetés közben, használjon szemüveget.",
+              "Kerülje az árnyékos utcákat, ott tovább marad hideg."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt pentru a contracara curentul.",
+              "Păstrați-vă extremitățile (mâini, picioare) foarte calde.",
+              "Soarele de iarnă vă poate orbi în timp ce pedalați, folosiți ochelari.",
+              "Evitați străzile umbroase, acolo rămâne frig mai mult timp."
+            ],
+            "en": [
+              "Wear windproof clothing to protect against the wind chill.",
+              "Keep your extremities (hands, feet) especially warm.",
+              "The winter sun can be blinding while riding, use eyewear.",
+              "Avoid shaded alleys as they stay cold much longer."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1109,6 +1491,206 @@
           "Use a GPS app for navigation.",
           "Check Göbeklitepe's opening hours in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Fahrt zum Göbeklitepe. Bei Regen ist die archäologische Stätte durch eine moderne Dachkonstruktion bestens geschützt. Die Fahrt dorthin ist sicher.\n\nMittags kehren Sie in die Stadt zurück zum Archäologischen Museum. Parken Sie direkt am Museumskomplex, um trocken in die Ausstellungsräume zu gelangen.\n\nNachmittags besuchen Sie das Haleplibahçe Mosaik-Museum und den Balıklıgöl. Der kurze Weg vom Parkplatz zum See ist auch bei Regen gut zu bewältigen.\n\nDer Abend klingt im Gümrük Hanı und an der Mevlid-i Halil Moschee aus. Parken Sie in der Nähe der Altstadt und genießen Sie die beleuchtete Burg vom Auto aus.",
+            "hu": "Kezdje a napot Göbeklitepénél. Esőben a régészeti lelőhelyet modern tetőszerkezet védi, így a látogatás zavartalan. Az út odáig biztonságos.\n\nDélben térjen vissza a városba a Régészeti Múzeumhoz. Parkoljon közvetlenül a múzeumnál, hogy szárazon jusson be a kiállítótermekbe.\n\nDélután látogasson el a Haleplibahçe Mozaikmúzeumba és a Balıklıgölhöz. A parkolótól a tóig tartó rövid út esőben is könnyen megtehető.\n\nAz este a Gümrük Hanı-nál és a Mevlid-i Halil mecsetnél ér véget. Parkoljon az óváros közelében, és élvezze a kivilágított vár látványát az autóból.",
+            "ro": "Începeți ziua la Göbeklitepe. Pe ploaie, situl arheologic este protejat de o structură modernă de acoperiș. Drumul până acolo este sigur.\n\nLa prânz, reveniți în oraș la Muzeul de Arheologie. Parcați chiar lângă muzeu pentru a ajunge uscat în sălile de expoziție.\n\nDupă-amiaza, vizitați Muzeul Haleplibahçe și Balıklıgöl. Distanța scurtă de la parcare la lac este ușor de parcurs chiar și pe ploaie.\n\nSeara se încheie la Gümrük Hanı și Moscheea Mevlid-i Halil. Parcați aproape de orașul vechi și admirați castelul iluminat din mașină.",
+            "en": "Start your day with a drive to Göbeklitepe. Rain is no issue here as the archaeological site is protected by a modern roof. The drive is safe and scenic.\n\nAt midday, return to the city for the Archaeology Museum. Park right at the complex to transition dryly into the gallery spaces.\n\nIn the afternoon, visit the Haleplibahçe Mosaic Museum and Balıklıgöl. The short walk from the parking area to the pool is manageable even in the rain.\n\nEnd your evening at Gümrük Hanı and Mevlid-i Halil Mosque. Park near the old city and enjoy the view of the illuminated castle from your car."
+          },
+          "stops": [
+            {
+              "name": "Göbeklitepe",
+              "tip_5lang": {
+                "de": "Das Besucherzentrum ist ideal bei starkem Regen.",
+                "hu": "A látogatóközpont ideális heves esőzés esetén.",
+                "ro": "Centrul pentru vizitatori este ideal în caz de ploaie abundentă.",
+                "en": "The visitor center is an ideal refuge during heavy rain."
+              }
+            },
+            {
+              "name": "Şanlıurfa Archaeology Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus direkt am Museum.",
+                "hu": "Használja a közvetlenül a múzeumnál lévő parkolóházat.",
+                "ro": "Folosiți parcarea etajată de lângă muzeu.",
+                "en": "Use the parking garage directly at the museum complex."
+              }
+            },
+            {
+              "name": "Haleplibahçe Mosaic Museum",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Gebäuden minimieren die Nässe.",
+                "hu": "Az épületek közötti rövid utak minimalizálják az ázást.",
+                "ro": "Distanțele scurte între clădiri minimizează contactul cu ploaia.",
+                "en": "Short distances between buildings minimize exposure to rain."
+              }
+            },
+            {
+              "name": "Balıklıgöl (Pool of Abraham)",
+              "tip_5lang": {
+                "de": "Parken Sie bevorzugt im Bereich 'Balıklıgöl Platosu'.",
+                "hu": "Parkoljon lehetőleg a 'Balıklıgöl Platosu' területén.",
+                "ro": "Parcați de preferință în zona 'Balıklıgöl Platosu'.",
+                "en": "Prefer parking in the 'Balıklıgöl Platosu' area."
+              }
+            },
+            {
+              "name": "Gümrük Hanı",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kaffee drinnen, während es draußen regnet.",
+                "hu": "Élvezze a kávét bent, miközben kint esik az eső.",
+                "ro": "Savurați cafeaua în interior în timp ce afară plouă.",
+                "en": "Enjoy your coffee inside while it rains outside."
+              }
+            },
+            {
+              "name": "Mevlid-i Halil Mosque",
+              "tip_5lang": {
+                "de": "Der Eingangsbereich bietet guten Schutz beim Einsteigen.",
+                "hu": "A bejárati rész jó védelmet nyújt a beszállásnál.",
+                "ro": "Zona de intrare oferă protecție bună la urcarea în mașină.",
+                "en": "The entrance area provides good cover when getting into the car."
+              }
+            },
+            {
+              "name": "Urfa Castle View",
+              "tip_5lang": {
+                "de": "Vom Auto aus haben Sie den besten, trockenen Blick.",
+                "hu": "Az autóból van a legjobb, száraz rálátása a várra.",
+                "ro": "Din mașină aveți cea mai bună și uscată vedere spre castel.",
+                "en": "You get the best dry view of the castle from your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt nach Göbeklitepe.",
+              "Vermeiden Sie das Parken in tiefgelegenen Gassen bei Starkregen.",
+              "Nutzen Sie Google Maps für Echtzeit-Verkehrsinfos in Urfa.",
+              "Halten Sie einen Regenschirm im Auto für kurze Wege bereit."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket Göbeklitepe felé.",
+              "Heves esőben kerülje a mélyebben fekvő utcákban való parkolást.",
+              "Használjon Google Maps-et a valós idejű urfai forgalomhoz.",
+              "Tartson esernyőt az autóban a rövid szakaszokhoz."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de drumul spre Göbeklitepe.",
+              "Evitați parcarea pe străzile joase în caz de ploaie torențială.",
+              "Folosiți Google Maps pentru trafic în timp real în Urfa.",
+              "Țineți o umbrelă în mașină pentru distanțele scurte de mers."
+            ],
+            "en": [
+              "Check your wipers before heading out to Göbeklitepe.",
+              "Avoid parking in low-lying alleys during heavy downpours.",
+              "Use Google Maps for real-time traffic info in Urfa.",
+              "Keep an umbrella in the car for short walks to the sites."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens zum Göbeklitepe. Die Wintersonne lässt die 12.000 Jahre alten Steine in einem besonderen Licht erscheinen. Die Heizung im Auto sorgt für Komfort.\n\nMittags geht es zurück zum Archäologischen Museum. Der große Parkplatz ist im Winter meist frei. Genießen Sie die wohltemperierten Ausstellungsräume.\n\nNachmittags besuchen Sie das Mosaik-Museum und den Balıklıgöl. Die kühle Luft am See ist belebend, und das Auto wartet warm auf Ihre Rückkehr.\n\nDer Abend schließt mit einem Besuch des Gümrük Hanı und der Burg-Aussicht ab. Die klare Winternacht bietet eine brillante Sicht auf die beleuchtete Silhouette der Stadt.",
+            "hu": "Reggel hajtson el Göbeklitepére. A téli napsütés különleges fénybe vonja a 12 000 éves köveket. Az autó fűtése kényelmessé teszi az utat.\n\nDélben térjen vissza a Régészeti Múzeumhoz. A nagy parkoló télen általában üres. Élvezze a jól temperált kiállítótermeket.\n\nDélután látogasson el a Mozaikmúzeumba és a Balıklıgölhöz. A hűvös tóparti levegő élénkítő, az autó pedig melegen várja a visszatérést.\n\nAz este a Gümrük Hanı látogatásával és a várkilátással zárul. A tiszta téli éjszakán ragyogóan látszik a város kivilágított sziluettje.",
+            "ro": "Mergeți dimineața la Göbeklitepe. Soarele de iarnă pune pietrele vechi de 12.000 de ani într-o lumină specială. Căldura din mașină asigură confortul.\n\nLa prânz, reveniți la Muzeul de Arheologie. Parcarea mare este de obicei liberă iarna. Bucurați-vă de sălile de expoziție bine încălzite.\n\nDupă-amiaza, vizitați Muzeul Mozaicului și Balıklıgöl. Aerul rece de lângă lac este revigorant, iar mașina vă așteaptă caldă la întoarcere.\n\nSeara se încheie cu o vizită la Gümrük Hanı și panorama de la castel. Noaptea senină de iarnă oferă o vedere briliantă asupra siluetei luminate a orașului.",
+            "en": "Drive to Göbeklitepe in the morning. The winter sun casts a unique light on the 12,000-year-old stones. Your car's heater ensures a comfortable journey.\n\nAt midday, return to the Archaeology Museum. The large parking lot is usually empty in winter. Enjoy the well-tempered exhibition galleries.\n\nIn the afternoon, visit the Mosaic Museum and Balıklıgöl. The cool lakeside air is bracing, and your warm car awaits your return.\n\nConclude your evening with Gümrük Hanı and the castle view. The clear winter night provides a brilliant view of the city's illuminated silhouette."
+          },
+          "stops": [
+            {
+              "name": "Göbeklitepe",
+              "tip_5lang": {
+                "de": "Im Winter sind deutlich weniger Touristen vor Ort.",
+                "hu": "Télen lényegesen kevesebb a turista a helyszínen.",
+                "ro": "Iarna sunt mult mai puțini turiști la fața locului.",
+                "en": "There are significantly fewer tourists here during winter."
+              }
+            },
+            {
+              "name": "Şanlıurfa Archaeology Museum",
+              "tip_5lang": {
+                "de": "Die Cafeteria bietet heiße Getränke zum Aufwärmen.",
+                "hu": "A kávézó forró italokat kínál a felmelegedéshez.",
+                "ro": "Cafeneaua oferă băuturi calde pentru a vă încălzi.",
+                "en": "The museum cafeteria offers hot drinks to warm up."
+              }
+            },
+            {
+              "name": "Haleplibahçe Mosaic Museum",
+              "tip_5lang": {
+                "de": "Die Mosaike sind auch im Winter perfekt beleuchtet.",
+                "hu": "A mozaikok télen is tökéletesen meg vannak világítva.",
+                "ro": "Mozaicurile sunt perfect iluminate chiar și iarna.",
+                "en": "The mosaics are perfectly illuminated even in winter."
+              }
+            },
+            {
+              "name": "Balıklıgöl (Pool of Abraham)",
+              "tip_5lang": {
+                "de": "Tragen Sie eine Mütze gegen den Wind am Wasser.",
+                "hu": "Viseljen sapkát a vízparti szél ellen.",
+                "ro": "Purtați o căciulă împotriva vântului de lângă apă.",
+                "en": "Wear a hat to protect against the wind near the water."
+              }
+            },
+            {
+              "name": "Gümrük Hanı",
+              "tip_5lang": {
+                "de": "Der Han ist ein uriger Ort für ein winterliches Picknick.",
+                "hu": "A han hangulatos hely egy téli pihenőhöz.",
+                "ro": "Hanul este un loc pitoresc pentru un popas de iarnă.",
+                "en": "The inn is a quaint spot for a cozy winter break."
+              }
+            },
+            {
+              "name": "Mevlid-i Halil Mosque",
+              "tip_5lang": {
+                "de": "Der Boden kann ohne Teppich sehr kalt sein.",
+                "hu": "A padló szőnyeg nélkül nagyon hideg lehet.",
+                "ro": "Podeaua poate fi foarte rece fără covor.",
+                "en": "The floor can be very cold where there is no carpet."
+              }
+            },
+            {
+              "name": "Urfa Castle View",
+              "tip_5lang": {
+                "de": "Die Nachtsicht ist bei trockener Kälte am klarsten.",
+                "hu": "Száraz hidegben a legtisztább az éjszakai kilátás.",
+                "ro": "Vizibilitatea nocturnă este cea mai clară pe ger uscat.",
+                "en": "Night visibility is clearest during dry, cold weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glatteis auf den Bergstraßen am Morgen.",
+              "Frostschutzmittel im Scheibenwasser nicht vergessen.",
+              "Die Batterieleistung kann bei Kälte etwas nachlassen.",
+              "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit (17 Uhr)."
+            ],
+            "hu": [
+              "Reggelente figyeljen a jegesedésre a hegyi utakon.",
+              "Ne felejtse el a fagyállót a szélvédőmosóba.",
+              "Az akkumulátor teljesítménye csökkenhet a hidegben.",
+              "Tervezze a visszautat sötétedés (17 óra) előtt."
+            ],
+            "ro": [
+              "Atenție la polei pe drumurile de munte dimineața.",
+              "Nu uitați antigelul în lichidul de parbriz.",
+              "Performanța bateriei poate scădea la temperaturi joase.",
+              "Planificați drumul de întoarcere înainte de lăsarea serii (ora 17)."
+            ],
+            "en": [
+              "Watch out for black ice on mountain roads in the morning.",
+              "Don't forget to add antifreeze to your windshield washer fluid.",
+              "Battery performance may drop slightly in the cold.",
+              "Plan your return drive before it gets dark (around 17:00)."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1465,6 +2047,188 @@
           "Routes can be confusing; don't hesitate to ask locals or the bus driver for help.",
           "Keep an eye on your belongings on crowded buses."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Museumskomplex. Die Busverbindungen sind auch bei Regen zuverlässig, und die Haltestellen bieten oft kleine Unterstände.\n\nMittags besuchen Sie das Archäologische Museum und das Haleplibahçe Mosaik-Museum. Beide liegen nah beieinander, was die Wege im Regen kurz hält.\n\nNachmittags fahren Sie mit dem Bus zum Balıklıgöl-Cluster. Der Gümrük Hanı bietet eine trockene Umgebung für ein spätes Mittagessen oder einen Tee.\n\nDer Tag endet entspannt an den historischen Stätten. Nutzen Sie die kurzen Intervalle der Stadtbusse, um schnell und trocken zwischen den Highlights zu pendeln.",
+            "hu": "Kezdje a napot a múzeumi negyednél. A buszjáratok esőben is megbízhatóak, a megállók pedig gyakran fedettek.\n\nDélben látogassa meg a Régészeti Múzeumot és a Haleplibahçe Mozaikmúzeumot. Mindkettő közel van egymáshoz, így esőben is rövidek a távok.\n\nDélután busszal menjen a Balıklıgöl körzetébe. A Gümrük Hanı száraz környezetet biztosít egy késői ebédhez vagy teázáshoz.\n\nA nap az óvárosi helyszíneken ér véget. Használja ki a városi buszok sűrű követési idejét, hogy gyorsan és szárazon közlekedjen a látnivalók között.",
+            "ro": "Începeți ziua la complexul muzeal. Conexiunile de autobuz sunt fiabile chiar și pe ploaie, iar stațiile oferă adesea mici adăposturi.\n\nLa prânz, vizitați Muzeul de Arheologie și Muzeul Mozaicului Haleplibahçe. Ambele sunt aproape una de alta, scurtând distanțele prin ploaie.\n\nDupă-amiaza, luați autobuzul spre zona Balıklıgöl. Gümrük Hanı oferă un mediu uscat pentru un prânz târziu sau un ceai.\n\nZiua se încheie relaxat la siturile istorice. Folosiți intervalele scurte ale autobuzelor urbane pentru a naviga rapid și uscat între punctele de interes.",
+            "en": "Start your day at the museum cluster. Bus connections are reliable even in the rain, and many stops offer small shelters.\n\nAt midday, visit the Archaeology Museum and the Haleplibahçe Mosaic Museum. Both are located close to each other, minimizing your time in the rain.\n\nIn the afternoon, take a bus to the Balıklıgöl cluster. Gümrük Hanı provides a dry environment for a late lunch or a relaxing tea break.\n\nConclude your day at the historic sites. Take advantage of frequent city bus intervals to move quickly and dryly between the highlights."
+          },
+          "stops": [
+            {
+              "name": "Museum Cluster",
+              "tip_5lang": {
+                "de": "Warten Sie auf den Bus im überdachten Haltestellenbereich.",
+                "hu": "Várja a buszt a fedett megállóban.",
+                "ro": "Așteptați autobuzul în zona de stație acoperită.",
+                "en": "Wait for the bus in the covered station area."
+              }
+            },
+            {
+              "name": "Şanlıurfa Archaeology Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um eine Regenfront abzuwarten.",
+                "hu": "Ideális hely egy esős front megvárására.",
+                "ro": "Locul ideal pentru a aștepta trecerea unui front de ploaie.",
+                "en": "Ideal place to wait out a passing rain front."
+              }
+            },
+            {
+              "name": "Haleplibahçe Mosaic Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Verbindungsweg zum Archäologischen Museum.",
+                "hu": "Használja az összekötő utat a Régészeti Múzeumhoz.",
+                "ro": "Folosiți drumul de legătură spre Muzeul de Arheologie.",
+                "en": "Use the connecting path to the Archaeology Museum."
+              }
+            },
+            {
+              "name": "Balıklıgöl Cluster",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nur wenige Schritte vom Park entfernt.",
+                "hu": "A buszmegálló csak néhány lépésre van a parktól.",
+                "ro": "Stația de autobuz este la doar câțiva pași de parc.",
+                "en": "The bus stop is just a few steps away from the park entrance."
+              }
+            },
+            {
+              "name": "Gümrük Hanı & Lunch",
+              "tip_5lang": {
+                "de": "Ein warmer 'Lahmacun' schmeckt bei Regen besonders gut.",
+                "hu": "Egy forró 'Lahmacun' esőben különösen jól esik.",
+                "ro": "Un 'Lahmacun' fierbinte are un gust excelent pe ploaie.",
+                "en": "A hot 'Lahmacun' tastes especially good when it rains."
+              }
+            },
+            {
+              "name": "Balıklıgöl & Urfa Castle",
+              "tip_5lang": {
+                "de": "Behalten Sie den Fahrplan für die Rückfahrt im Auge.",
+                "hu": "Tartsa szem előtt a visszautazáshoz a menetrendet.",
+                "ro": "Fiți atenți la orarul autobuzelor pentru întoarcere.",
+                "en": "Keep an eye on the schedule for your return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie passendes Kleingeld oder eine Urfa-Kart bereit.",
+              "Die Busse können bei Regen voller als sonst sein.",
+              "Nutzen Sie die App 'Urfa Ulaşım' für Echtzeitdaten.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zur Haltestelle."
+            ],
+            "hu": [
+              "Legyen kéznél aprópénz vagy Urfa-kártya.",
+              "A buszok esőben a szokásosnál zsúfoltabbak lehetnek.",
+              "Használja az 'Urfa Ulaşım' alkalmazást a valós idejű adatokhoz.",
+              "Viseljen vízálló ruhát a megállóig tartó szakaszokra."
+            ],
+            "ro": [
+              "Aveți pregătit mărunțiș sau un card Urfa.",
+              "Autobuzele pot fi mai aglomerate decât de obicei pe ploaie.",
+              "Folosiți aplicația 'Urfa Ulaşım' pentru date în timp real.",
+              "Purtați haine impermeabile pentru drumul până în stație."
+            ],
+            "en": [
+              "Have some small change or an Urfa card ready.",
+              "Buses can be more crowded than usual during rain.",
+              "Use the 'Urfa Ulaşım' app for real-time transit data.",
+              "Wear waterproof clothing for the walks to the bus stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Museumskomplex. Die modernen Busse sind gut beheizt und bieten einen komfortablen Start in den winterlichen Tag.\n\nMittags erkunden Sie die Museen. Die warmen Innenräume bilden einen angenehmen Kontrast zur kühlen Winterluft draußen.\n\nNachmittags bringt Sie der Nahverkehr zum Balıklıgöl. Der warme Tee im Gümrük Hanı ist nach der Busfahrt ein echtes Highlight.\n\nDer Tag endet an den historischen Stätten. Da es im Winter früh dunkel wird, sind die beleuchteten Sehenswürdigkeiten am späten Nachmittag besonders sehenswert.",
+            "hu": "Kezdje a napot a múzeumi negyednél. A modern buszok jól fűtöttek, kényelmes indulást biztosítva a téli napon.\n\nDélben fedezze fel a múzeumokat. A meleg belső terek kellemes kontrasztot alkotnak a kinti hűvös téli levegővel.\n\nDélután a tömegközlekedés elviszi a Balıklıgölhöz. A Gümrük Hanı-ban elfogyasztott forró tea igazi fénypont a buszozás után.\n\nA nap a történelmi helyszíneken ér véget. Mivel télen korán sötétedik, a kivilágított látnivalók késő délután különösen szépek.",
+            "ro": "Începeți la complexul muzeal. Autobuzele moderne sunt bine încălzite, oferind un start confortabil în ziua de iarnă.\n\nLa prânz, explorați muzeele. Interioarele calde oferă un contrast plăcut cu aerul rece de afară.\n\nDupă-amiaza, transportul local vă duce la Balıklıgöl. Ceaiul cald de la Gümrük Hanı este un punct culminant după călătoria cu autobuzul.\n\nZiua se încheie la siturile istorice. Deoarece iarna se întunecă devreme, atracțiile iluminate sunt deosebit de frumoase după-amiaza târziu.",
+            "en": "Start your day at the museum cluster. The modern city buses are well-heated, providing a comfortable start to your winter day.\n\nAt midday, explore the museums. The warm interiors offer a pleasant contrast to the cool winter air outside.\n\nIn the afternoon, public transport takes you to Balıklıgöl. A cup of hot tea at Gümrük Hanı is a true highlight after your bus ride.\n\nEnd your day at the historic sites. Since it gets dark early in winter, the illuminated sights are particularly beautiful in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Museum Cluster",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist für die Wartezeit an der Haltestelle wichtig.",
+                "hu": "A megállóban való várakozáshoz fontos a meleg ruha.",
+                "ro": "Hainele groase sunt importante pentru timpul de așteptare în stație.",
+                "en": "Warm clothing is essential for the wait at the bus stop."
+              }
+            },
+            {
+              "name": "Şanlıurfa Archaeology Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme der modernen Klimaanlage.",
+                "hu": "Élvezze a modern légkondicionáló melegét.",
+                "ro": "Bucurați-vă de căldura aerului condiționat modern.",
+                "en": "Enjoy the warmth of the modern climate control system."
+              }
+            },
+            {
+              "name": "Haleplibahçe Mosaic Museum",
+              "tip_5lang": {
+                "de": "Die Cafeteria bietet einen guten Blick auf das winterliche Areal.",
+                "hu": "A kávézóból jó rálátás nyílik a téli területre.",
+                "ro": "Cafeneaua oferă o vedere bună asupra zonei de iarnă.",
+                "en": "The cafeteria offers a good view of the wintery grounds."
+              }
+            },
+            {
+              "name": "Balıklıgöl Cluster",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt am Eingang des historischen Parks.",
+                "hu": "A busz közvetlenül a történelmi park bejáratánál áll meg.",
+                "ro": "Autobuzul oprește chiar la intrarea în parcul istoric.",
+                "en": "The bus stops right at the entrance to the historic park."
+              }
+            },
+            {
+              "name": "Gümrük Hanı & Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz im Inneren des Han-Gebäudes.",
+                "hu": "Válasszon ülőhelyet a han épületének belsejében.",
+                "ro": "Alegeți un loc în interiorul clădirii hanului.",
+                "en": "Choose a seat inside the main inn building for warmth."
+              }
+            },
+            {
+              "name": "Balıklıgöl & Urfa Castle",
+              "tip_5lang": {
+                "de": "Die Abendlichter spiegeln sich wunderschön im kalten Wasser.",
+                "hu": "Az esti fények gyönyörűen tükröződnek a hideg vízben.",
+                "ro": "Luminile de seară se reflectă frumos în apa rece.",
+                "en": "Evening lights reflect beautifully in the cold water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter nach dem regulären Fahrplan.",
+              "Vermeiden Sie späte Fahrten in Randbezirke wegen Kälte.",
+              "Die Sitzplätze in den Bussen sind oft angenehm warm.",
+              "Nutzen Sie die Wartezeit für einen schnellen 'Simit' (Sesamring)."
+            ],
+            "hu": [
+              "A buszok télen a rendes menetrend szerint közlekednek.",
+              "A hideg miatt kerülje a késői utazásokat a peremkerületekbe.",
+              "A buszok ülőhelyei gyakran kellemesen melegek.",
+              "Használja ki a várakozási időt egy gyors 'Simit'-re."
+            ],
+            "ro": [
+              "Autobuzele circulă iarna conform orarului regulat.",
+              "Evitați călătoriile târzii spre periferie din cauza frigului.",
+              "Scaunele din autobuze sunt adesea plăcut încălzite.",
+              "Folosiți timpul de așteptare pentru un 'Simit' rapid."
+            ],
+            "en": [
+              "Buses operate on their regular schedule during winter.",
+              "Avoid late trips to peripheral areas due to the cold.",
+              "Bus seats are often comfortably warm in winter.",
+              "Use the waiting time to grab a quick 'Simit' (sesame ring)."
+            ]
+          }
+        }
       }
     }
   }

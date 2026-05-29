@@ -363,6 +363,214 @@
           "Some alleys are very narrow and picturesque – perfect for photos.",
           "The city is compact, you can flexibly adapt the plan and linger spontaneously."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die mittelalterlichen Arkaden am Hauptplatz Schutz vor dem Regen. Mittags verbringen wir die Zeit im trockenen Schlossmuseum und der Stadtpfarrkirche. Nachmittags spazieren wir trotz Nieselregen zu den Stadttoren, wobei die Pflastersteine rutschig sein können. Der Abend klingt gemütlich im Brauhaus bei einer warmen Mahlzeit und regionalem Bier aus.",
+            "hu": "Reggel a főtér középkori árkádjai alatt találunk menedéket az eső elől. Délben a várkastély múzeuma és a plébániatemplom kínál száraz, fedett programot. Délután a városkapuk felé vesszük az irányt, ügyelve a csúszós macskakövekre. Az estét a helyi sörfőzde melegében zárjuk, ahol a kopogó eső mellett élvezhetjük a kiadós vacsorát és a híres freistadti sört.",
+            "ro": "Dimineața începe sub arcadele medievale din Piața Mare, feriți de ploaie. La prânz, vizităm interiorul bisericii și muzeul castelului, spații primitoare și uscate. După-amiaza explorăm porțile orașului, fiind atenți la pavajul umed care poate deveni alunecos. Seara se încheie la berăria locală, unde atmosfera caldă și mâncarea consistentă ne fac să uităm de vremea de afară.",
+            "en": "Morning starts under the medieval arcades of the Main Square, providing shelter from the drizzle. At midday, the Castle Museum and Parish Church offer extensive indoor exploration. Afternoon walks to the city gates require caution on wet cobblestones. The evening ends warmly at the local Brewhouse, enjoying a hearty meal while the rain patters against the historic windows."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Main Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge der Bürgerhäuser, um trocken zu bleiben.",
+                "hu": "Használja a polgárházak árkádos folyosóit a szárazon maradáshoz.",
+                "ro": "Folosiți galeriile cu arcade ale caselor pentru a rămâne uscați.",
+                "en": "Use the vaulted arcades of the townhouses to stay dry while exploring."
+              }
+            },
+            {
+              "name": "Parish Church of St. Catherine",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine Pause, während draußen ein Schauer niedergeht.",
+                "hu": "Csendes pihenőhely, amíg odakint elvonul egy esőfelhő.",
+                "ro": "Un loc liniștit pentru o pauză în timp ce afară plouă.",
+                "en": "A peaceful spot for a break while a heavy shower passes outside."
+              }
+            },
+            {
+              "name": "Linzer Gate",
+              "tip_5lang": {
+                "de": "Unter dem Torbogen des mächtigen Turms findet man kurz Schutz.",
+                "hu": "A hatalmas torony kapualja alatt rövid menedéket találunk.",
+                "ro": "Sub arcada porții turnului masiv puteți găsi adăpost temporar.",
+                "en": "You can find temporary shelter under the archway of the massive tower."
+              }
+            },
+            {
+              "name": "Freistadt Castle & Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein; die Ausstellungen sind komplett überdacht.",
+                "hu": "Töltsön itt több időt; a kiállítások teljesen fedettek.",
+                "ro": "Alocați mai mult timp aici; expozițiile sunt complet acoperite.",
+                "en": "Plan more time here; the museum exhibitions are entirely indoors."
+              }
+            },
+            {
+              "name": "Bohemian Gate (Böhmertor)",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Steinstufen am nördlichen Ende der Altstadt.",
+                "hu": "Vigyázat a vizes kőlépcsőkön az óváros északi végénél.",
+                "ro": "Atenție pe treptele de piatră umede de la capătul nordic al orașului vechi.",
+                "en": "Watch your step on the wet stone stairs at the northern end of the old town."
+              }
+            },
+            {
+              "name": "Freistadt Brewhouse",
+              "tip_5lang": {
+                "de": "Der ideale Ort für eine längere Mittagspause im trockenen Gastraum.",
+                "hu": "Ideális hely egy hosszabb ebédszünethez a száraz vendégtérben.",
+                "ro": "Locul ideal pentru o pauză lungă de prânz în interiorul primitor.",
+                "en": "The perfect place for an extended lunch break in the dry dining hall."
+              }
+            },
+            {
+              "name": "Walk along the City Wall",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, da der Graben matschig sein kann.",
+                "hu": "Maradjon a kövezett utakon, mert a várárok sárfoltos lehet.",
+                "ro": "Rămâneți pe potecile pavate, deoarece șanțul poate fi noroios.",
+                "en": "Stick to the paved paths, as the moat area can get muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die mittelalterlichen Arkaden am Hauptplatz sind ideal bei Regen.",
+              "Das Schlossmuseum bietet ca. 2 Stunden Indoor-Programm.",
+              "Vorsicht auf dem Kopfsteinpflaster, es wird sehr rutschig.",
+              "Tragen Sie feste, wasserdichte Schuhe für den Stadtmauerweg.",
+              "Das Brauhaus ist oft ausgebucht, reservieren Sie bei Regen vorab."
+            ],
+            "hu": [
+              "A főtér középkori árkádjai kiváló védelmet nyújtanak esőben.",
+              "A várkastély múzeuma kb. 2 órás fedett programot biztosít.",
+              "A macskakő vizesen nagyon csúszik, óvatosan lépkedjen.",
+              "A városfal melletti sétához vízálló lábbeli ajánlott.",
+              "Esős időben a sörfőzde népszerű, érdemes asztalt foglalni."
+            ],
+            "ro": [
+              "Arcadele medievale din Piața Mare sunt ideale pentru a evita ploaia.",
+              "Muzeul castelului oferă aproximativ 2 ore de activități de interior.",
+              "Atenție pe pavajul de piatră, devine extrem de alunecos când e ud.",
+              "Purtați încălțăminte impermeabilă pentru plimbarea pe lângă ziduri.",
+              "Berăria este populară pe timp de ploaie, rezervați o masă în avans."
+            ],
+            "en": [
+              "The medieval arcades at the Main Square are perfect for rainy days.",
+              "The Castle Museum provides about 2 hours of indoor activities.",
+              "Be careful on the cobblestones as they become very slippery when wet.",
+              "Wear waterproof footwear for the walk along the city fortifications.",
+              "The Brewhouse gets busy on rainy days; booking a table is recommended."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kalte Morgenluft am Hauptplatz macht den Kaffee in den historischen Cafés besonders genussvoll. Mittags wärmen wir uns in der Stadtpfarrkirche und den geheizten Räumen des Schlossmuseums auf. Da die Sonne bereits gegen 16:30 Uhr untergeht, beleuchten wir den Stadtmauerweg im Dämmerlicht. Der Tag endet bei deftiger Küche und dunklem Bier in der gemütlichen Brauhaus-Atmosphäre.",
+            "hu": "A csípős reggeli levegő a főtéren még élvezetesebbé teszi a forró kávét a történelmi kávézókban. Délben a plébániatemplomban és a várkastély fűtött termeiben melegedünk fel. Mivel a nap már 16:30 körül nyugszik, a városfal menti sétát már szürkületben, a kivilágított tornyok alatt tesszük meg. A napot kiadós ételekkel és barna sörrel zárjuk a sörfőzde barátságos termében.",
+            "ro": "Aerul rece al dimineții în Piața Mare face cafeaua din cafenelele istorice și mai savuroasă. La prânz, ne încălzim în biserica parohială și în sălile încălzite ale muzeului castelului. Deoarece soarele apune în jurul orei 16:30, explorăm zidurile orașului în amurg, sub lumina turnurilor. Ziua se încheie cu preparate tradiționale și bere neagră în atmosfera primitoare a berăriei.",
+            "en": "The crisp morning air at the Main Square makes hot coffee in historic cafes a delight. At midday, warm up inside the Parish Church and the heated galleries of the Castle Museum. With sunset around 16:30, the city wall walk is atmospheric under the early evening lights. The day concludes with hearty winter dishes and dark beer in the cozy warmth of the Brewhouse."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Main Square",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Café mit Blick auf den Brunnen zum Aufwärmen.",
+                "hu": "Keressen egy szökőkútra néző kávézót a felmelegedéshez.",
+                "ro": "Căutați o cafenea cu vedere la fântână pentru a vă încălzi.",
+                "en": "Find a cozy cafe with a view of the fountain to warm up."
+              }
+            },
+            {
+              "name": "Parish Church of St. Catherine",
+              "tip_5lang": {
+                "de": "Bewundern Sie das gotische Gewölbe, während Sie dem Wind entfliehen.",
+                "hu": "Csodálja meg a gótikus boltozatot, miközben elmenekül a szél elől.",
+                "ro": "Admirați bolta gotică în timp ce vă adăpostiți de vântul rece.",
+                "en": "Admire the Gothic vaulting while escaping the winter wind."
+              }
+            },
+            {
+              "name": "Linzer Gate",
+              "tip_5lang": {
+                "de": "Der markante Turm wirkt im klaren Winterlicht besonders imposant.",
+                "hu": "A jellegzetes torony a tiszta téli fényben különösen impozáns.",
+                "ro": "Turnul distinctiv arată spectaculos în lumina clară de iarnă.",
+                "en": "The striking tower looks particularly impressive in clear winter light."
+              }
+            },
+            {
+              "name": "Freistadt Castle & Museum",
+              "tip_5lang": {
+                "de": "Die Innenräume sind beheizt und bieten Schutz vor frostigen Temperaturen.",
+                "hu": "A belső terek fűtöttek, védelmet nyújtanak a fagyos hőmérséklet ellen.",
+                "ro": "Interioarele sunt încălzite, oferind protecție împotriva gerului.",
+                "en": "The interior rooms are heated, offering protection from freezing temperatures."
+              }
+            },
+            {
+              "name": "Bohemian Gate (Böhmertor)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Brücken über den Stadtgraben.",
+                "hu": "Ügyeljen a jegesedésre a városárkot átívelő hidakon.",
+                "ro": "Atenție la gheață pe podurile care traversează șanțul orașului.",
+                "en": "Watch out for black ice on the bridges crossing the city moat."
+              }
+            },
+            {
+              "name": "Freistadt Brewhouse",
+              "tip_5lang": {
+                "de": "Probieren Sie das saisonale Winterbier direkt neben den Sudkesseln.",
+                "hu": "Kóstolja meg a szezonális téli sört közvetlenül a főzőüstök mellett.",
+                "ro": "Gustați berea sezonieră de iarnă chiar lângă cazanele de fierbere.",
+                "en": "Try the seasonal winter beer right next to the brewing kettles."
+              }
+            },
+            {
+              "name": "Walk along the City Wall",
+              "tip_5lang": {
+                "de": "Der Weg ist beleuchtet, aber festes Schuhwerk ist bei Schnee Pflicht.",
+                "hu": "Az út kivilágított, de hó esetén a túrabakancs kötelező.",
+                "ro": "Traseul este iluminat, dar încălțămintea solidă e necesară pe zăpadă.",
+                "en": "The path is lit, but sturdy boots are essential if there is snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember gegen 16:15 Uhr unter.",
+              "Viele Cafés am Hauptplatz haben im Winter beheizte Außenbereiche.",
+              "Das Schlossmuseum ist eine gute Fluchtmöglichkeit vor der Kälte.",
+              "Vorsicht bei Schnee: Die Gassen der Altstadt können glatt sein.",
+              "Genießen Sie die Abendstimmung an der beleuchteten Stadtmauer."
+            ],
+            "hu": [
+              "A nap decemberben már 16:15 körül lemegy.",
+              "A főtér kávézói közül több fűtött teraszt is kínál télen.",
+              "A várkastély múzeuma tökéletes menedék a hideg elől.",
+              "Hó esetén a szűk óvárosi utcák csúszósak lehetnek.",
+              "Élvezze az esti hangulatot a kivilágított városfal mentén."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:15 în timpul lunii decembrie.",
+              "Multe cafenele din piață au zone exterioare încălzite iarna.",
+              "Muzeul castelului este un loc excelent pentru a scăpa de frig.",
+              "Atenție la zăpadă: străzile înguste pot fi alunecoase.",
+              "Bucurați-vă de atmosfera serii lângă zidurile iluminate."
+            ],
+            "en": [
+              "Sunset occurs around 16:15 during the month of December.",
+              "Many cafes on the Main Square offer heated outdoor seating in winter.",
+              "The Castle Museum is a great escape from the freezing temperatures.",
+              "Be careful in snowy conditions; the old town alleys can be slippery.",
+              "Enjoy the evening atmosphere along the illuminated city walls."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -720,6 +928,214 @@
           "Ride carefully on the cobblestones in the alleys.",
           "Use the promenade outside the walls for a relaxed ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt durch Freistadt erfordert gute Kleidung und Vorsicht auf dem nassen Kopfsteinpflaster. Morgens radeln wir zügig zum Hauptplatz und suchen Schutz unter den Arkaden. Mittags lassen wir die Räder am Schloss stehen und erkunden die Innenräume. Nachmittags führt die Tour entlang der Stadtmauer, bevor wir den Tag im trockenen Brauhaus abschließen.",
+            "hu": "Egy esős freistadti bringázás jó felszerelést és óvatosságot igényel a vizes macskaköveken. Reggel gyorsan a főtérre tekerünk az árkádok alá. Délben a várnál hagyjuk a bringákat, és a belső tereket fedezzük fel. Délután a városfal mentén gurulunk, majd a napot a sörfőzde száraz biztonságában zárjuk.",
+            "ro": "O tură cu bicicleta prin Freistadt pe ploaie necesită echipament bun și atenție la pavajul ud. Dimineața pedalăm spre Piața Mare și ne adăpostim sub arcade. La prânz lăsăm bicicletele la castel pentru a explora interiorul. După-amiaza continuăm de-a lungul zidurilor, înainte de a încheia ziua la berăria uscată.",
+            "en": "A rainy cycle through Freistadt requires waterproof gear and caution on wet cobblestones. In the morning, we head to the Main Square for shelter under the arcades. At midday, we leave the bikes at the castle to explore the dry interiors. The afternoon tour follows the city walls before finishing the day at the sheltered Brewhouse."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Main Square",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Arkaden, um den Sattel trocken zu halten.",
+                "hu": "Parkoljon az árkádok alatt, hogy a nyereg száraz maradjon.",
+                "ro": "Parcați bicicleta sub arcade pentru a păstra șaua uscată.",
+                "en": "Park your bike under the arcades to keep the saddle dry."
+              }
+            },
+            {
+              "name": "Parish Church of St. Catherine",
+              "tip_5lang": {
+                "de": "Ein kurzes Gebet oder eine Pause, während die Regenjacke abtropft.",
+                "hu": "Egy rövid pihenő, amíg a biciklis esőkabát lecsepeg.",
+                "ro": "O scurtă pauză în timp ce pelerina de ploaie se scurge.",
+                "en": "A short break while your rain jacket drips dry inside."
+              }
+            },
+            {
+              "name": "Linzer Gate",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf den nassen Steinen unter dem Tor.",
+                "hu": "Óvatosan fékezzen a kapu alatti vizes köveken.",
+                "ro": "Atenție la frânare pe pietrele umede de sub poartă.",
+                "en": "Be careful when braking on the wet stones under the gate."
+              }
+            },
+            {
+              "name": "Freistadt Castle & Museum",
+              "tip_5lang": {
+                "de": "Es gibt überdachte Fahrradständer im Innenhof des Schlosses.",
+                "hu": "A kastély belső udvarán fedett kerékpártárolók találhatók.",
+                "ro": "Există suporturi de biciclete acoperite în curtea interioară.",
+                "en": "There are covered bicycle racks in the castle's inner courtyard."
+              }
+            },
+            {
+              "name": "Bohemian Gate (Böhmertor)",
+              "tip_5lang": {
+                "de": "Reduzieren Sie die Geschwindigkeit in den engen Kurven zum Tor.",
+                "hu": "Csökkentse a sebességet a kapuhoz vezető szűk kanyarokban.",
+                "ro": "Reduceți viteza în curbele strânse spre poartă.",
+                "en": "Reduce your speed in the sharp turns leading to the gate."
+              }
+            },
+            {
+              "name": "Freistadt Brewhouse",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad regengeschützt an der Wand des Brauhauses ab.",
+                "hu": "Állítsa a biciklit esőtől védett helyre a sörfőzde fala mellett.",
+                "ro": "Lăsați bicicleta la adăpost de ploaie lângă peretele berăriei.",
+                "en": "Park your bike in a rain-protected spot by the brewery wall."
+              }
+            },
+            {
+              "name": "Loop along the City Wall",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen und rutschiges Laub auf dem Radweg.",
+                "hu": "Ügyeljen a tócsákra és a csúszós levelekre a kerékpárúton.",
+                "ro": "Atenție la bălți și frunze alunecoase pe pista de biciclete.",
+                "en": "Watch out for puddles and slippery leaves on the cycling path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine komplette Regenausrüstung inklusive Überschuhen.",
+              "Vermeiden Sie abrupte Bremsmanöver auf dem nassen Pflaster.",
+              "Nutzen Sie die Durchfahrten der Stadttore als kurzen Unterstand.",
+              "Prüfen Sie Ihre Beleuchtung, da die Sicht bei Regen stark sinkt.",
+              "Das Brauhaus bietet Platz zum Trocknen von nasser Kleidung."
+            ],
+            "hu": [
+              "Viseljen teljes esőfelszerelést, beleértve a kamáslit is.",
+              "Kerülje a hirtelen fékezést a vizes macskaköveken.",
+              "Használja a városkapuk átjáróit rövid eső elleni védelemre.",
+              "Ellenőrizze a világítást, mert esőben sokat romlik a láthatóság.",
+              "A sörfőzde belső terében van lehetőség a vizes ruhák szárítására."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, inclusiv protecții pentru pantofi.",
+              "Evitați frânarea bruscă pe pavajul de piatră ud.",
+              "Folosiți pasajele porților orașului ca adăpost scurt.",
+              "Verificați luminile, vizibilitatea scade mult pe timp de ploaie.",
+              "Berăria oferă spațiu pentru a vă usca hainele ude la interior."
+            ],
+            "en": [
+              "Wear full rain gear including waterproof overshoes.",
+              "Avoid sudden braking on the wet cobblestone streets.",
+              "Use the city gate passages as brief shelters from heavy rain.",
+              "Check your lights as visibility drops significantly during rain.",
+              "The Brewhouse interior provides space to dry off your wet gear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter durch Freistadt erfordert warme Handschuhe und Griffigkeit. Morgens gleiten wir durch die frostige Altstadt zum Hauptplatz. Mittags wärmen wir uns im Schlossmuseum auf, während die Räder draußen in der Kälte warten. Die Nachmittagstour entlang der Stadtmauer findet bereits in der Dämmerung statt. Der Abend endet bei einer heißen Suppe im warmen Brauhaus.",
+            "hu": "A téli bringázáshoz Freistadtban meleg kesztyű és jó tapadás kell. Reggel a fagyos óvároson át gurulunk a főtérre. Délben a várkastély múzeumában melegszünk fel, amíg a gépek kint várnak a hidegben. A délutáni városfali tekerés már szürkületben zajlik. A napot egy forró levessel és meleg sörházi hangulattal zárjuk.",
+            "ro": "Pedalatul iarna prin Freistadt necesită mănuși groase și aderență bună. Dimineața traversăm centrul înghețat spre Piața Mare. La prânz ne încălzim în muzeul castelului în timp ce bicicletele așteaptă în frig. Tura de după-amiază de-a lungul zidurilor are loc deja în amurg. Ziua se încheie cu o supă fierbinte în căldura berăriei.",
+            "en": "Winter cycling in Freistadt demands warm gloves and steady tires. In the morning, we glide through the frosty old town to the Main Square. At midday, we warm up in the Castle Museum while the bikes stay out in the cold. The afternoon loop along the city walls happens in the winter dusk. The day ends with hot soup and warmth in the local Brewhouse."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Main Square",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem sonnigen Platz, falls die Sonne scheint.",
+                "hu": "Parkoljon napos helyen, ha éppen süt a téli nap.",
+                "ro": "Parcați bicicleta la soare dacă acesta strălucește.",
+                "en": "Park your bike in a sunny spot if the winter sun is out."
+              }
+            },
+            {
+              "name": "Parish Church of St. Catherine",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille, um kalte Finger kurz aufzuwärmen.",
+                "hu": "A csend helye, ahol a megfagyott ujjakat kicsit felmelegítheti.",
+                "ro": "Un loc liniștit pentru a vă încălzi scurt mâinile înghețate.",
+                "en": "A place of silence to briefly warm up cold fingers."
+              }
+            },
+            {
+              "name": "Linzer Gate",
+              "tip_5lang": {
+                "de": "Vorsicht bei Raureif auf den schattigen Pflasterflächen.",
+                "hu": "Vigyázat a zúzmarás részeken az árnyékos macskaköveken.",
+                "ro": "Atenție la chiciură pe porțiunile de pavaj umbrite.",
+                "en": "Watch out for frost on the shaded cobblestone sections."
+              }
+            },
+            {
+              "name": "Freistadt Castle & Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie Ihr Schloss nicht einfrieren; nutzen Sie WD-40 bei Frost.",
+                "hu": "Ne hagyja befagyni a lakatot; használjon jégoldót fagy esetén.",
+                "ro": "Nu lăsați antifurtul să înghețe; folosiți spray degivrant dacă e ger.",
+                "en": "Don't let your lock freeze; use anti-freeze spray in heavy frost."
+              }
+            },
+            {
+              "name": "Bohemian Gate (Böhmertor)",
+              "tip_5lang": {
+                "de": "Die Abfahrt vom Tor kann bei Eis gefährlich sein; schieben Sie lieber.",
+                "hu": "A kaputól lefelé vezető út jeges lehet; inkább tolja a bringát.",
+                "ro": "Coborârea de la poartă poate fi înghețată; mai bine mergeți pe lângă.",
+                "en": "The slope from the gate can be icy; consider walking your bike."
+              }
+            },
+            {
+              "name": "Freistadt Brewhouse",
+              "tip_5lang": {
+                "de": "Ein warmes Getränk hilft gegen die Kälte der Fahrt.",
+                "hu": "Egy meleg ital segít leküzdeni a tekerés közbeni hideget.",
+                "ro": "O băutură caldă ajută împotriva frigului îndurat pe drum.",
+                "en": "A hot drink helps combat the chill from the ride."
+              }
+            },
+            {
+              "name": "Loop along the City Wall",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen unter dem Laub am Mauerweg.",
+                "hu": "Ügyeljen a levelek alatti fagyott tócsákra a fal melletti úton.",
+                "ro": "Atenție la bălțile înghețate de sub frunze pe drumul zidului.",
+                "en": "Watch out for frozen puddles hidden under leaves on the wall path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Windstopper-Handschuhe und eine Mütze unter dem Helm.",
+              "Senken Sie den Reifendruck leicht für mehr Grip auf Schnee.",
+              "Achten Sie auf Streusalz, das die Kette angreifen kann.",
+              "Die Dämmerung beginnt früh, prüfen Sie Ihre Reflektoren.",
+              "Machen Sie öfter Aufwärmpausen in den Cafés der Altstadt."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sisak alá való sapkát.",
+              "Csökkentse kicsit a guminyomást a jobb tapadásért hóban.",
+              "Ügyeljen az útszóró sóra, amely károsíthatja a láncot.",
+              "A szürkület korán kezdődik, ellenőrizze a prizmákat.",
+              "Tartson gyakran melegedő szünetet az óváros kávézóiban."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Reduceți ușor presiunea în pneuri pentru aderență pe zăpadă.",
+              "Atenție la sarea de pe drum, care poate coroda lanțul.",
+              "Amurgul începe devreme, verificați dacă aveți reflectorizante.",
+              "Faceți pauze dese de încălzire în cafenelele din centrul vechi."
+            ],
+            "en": [
+              "Wear windstopper gloves and a thermal cap under your helmet.",
+              "Lower your tire pressure slightly for better grip on snow.",
+              "Watch out for road salt, which can damage your bike chain.",
+              "Dusk starts early in winter; ensure your reflectors are clean.",
+              "Take frequent warming breaks in the old town's many cafes."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1059,6 +1475,196 @@
           "Allow time at the end of the day to walk back to the car park.",
           "Freistadt is a 'city of short distances', ideal for the 'cluster-walking' philosophy."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Tage in Freistadt sind ideal für Autofahrer, da man nah am Zentrum parken kann. Morgens stellen wir den Wagen am St. Peter Parkplatz ab und huschen unter die Arkaden des Hauptplatzes. Mittags bietet das Schlossmuseum ein trockenes Refugium. Nachmittags besichtigen wir die Stadttore, bevor wir zum gemütlichen Abendessen ins Brauhaus fahren.",
+            "hu": "Az esős freistadti napok ideálisak autósoknak, mert közel lehet parkolni a központhoz. Reggel a Szent Péter parkolóban hagyjuk a kocsit, és a főtér árkádjai alá sietünk. Délben a várkastély múzeuma nyújt száraz menedéket. Délután a városkapukat nézzük meg, majd egy kényelmes vacsorára a sörfőzdéhez hajtunk.",
+            "ro": "Zilele ploioase în Freistadt sunt ideale pentru șoferi, parcarea fiind aproape de centru. Dimineața lăsăm mașina la parcarea Sf. Petru și fugim sub arcadele din Piața Mare. La prânz, muzeul castelului oferă un refugiu uscat. După-amiaza vizităm porțile orașului, înainte de a merge la berărie pentru o cină relaxantă.",
+            "en": "Rainy days in Freistadt are perfect for car travelers, as you can park very close to the center. In the morning, leave the car at St. Peter car park and dash to the Main Square's arcades. At midday, the Castle Museum offers a dry sanctuary. In the afternoon, visit the city gates before driving to the cozy Brewhouse for dinner."
+          },
+          "stops": [
+            {
+              "name": "Arrival & Parking at St. Peter Car Park",
+              "tip_5lang": {
+                "de": "Haben Sie Ihren Regenschirm griffbereit für den kurzen Weg zum Tor.",
+                "hu": "Legyen kéznél az esernyő a kapuig tartó rövid sétához.",
+                "ro": "Aveți umbrela la îndemână pentru scurta plimbare spre poartă.",
+                "en": "Keep your umbrella handy for the short walk to the city gate."
+              }
+            },
+            {
+              "name": "Main Square & Linzer Gate",
+              "tip_5lang": {
+                "de": "Die Arkaden ermöglichen einen fast trockenen Rundgang am Platz.",
+                "hu": "Az árkádok lehetővé teszik a majdnem száraz sétát a téren.",
+                "ro": "Arcadele permit o plimbare aproape uscată prin piață.",
+                "en": "The arcades allow for an almost dry walk around the square."
+              }
+            },
+            {
+              "name": "Parish Church & Dechanthof",
+              "tip_5lang": {
+                "de": "Parken Sie kurzzeitig näher an der Kirche, falls Plätze frei sind.",
+                "hu": "Parkoljon rövid időre közelebb a templomhoz, ha van szabad hely.",
+                "ro": "Parcați temporar mai aproape de biserică dacă sunt locuri libere.",
+                "en": "Park temporarily closer to the church if spots are available."
+              }
+            },
+            {
+              "name": "Freistadt Castle & Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsparkplatz, um den Fußweg im Regen zu minimieren.",
+                "hu": "Használja a múzeum parkolóját, hogy minimalizálja az esőben gyaloglást.",
+                "ro": "Folosiți parcarea muzeului pentru a minimiza mersul prin ploaie.",
+                "en": "Use the museum car park to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Freistadt Brewhouse",
+              "tip_5lang": {
+                "de": "Das Brauhaus verfügt über eigene Parkplätze direkt am Gebäude.",
+                "hu": "A sörfőzde saját parkolóval rendelkezik közvetlenül az épületnél.",
+                "ro": "Berăria are locuri de parcare proprii chiar lângă clădire.",
+                "en": "The brewery has its own parking spaces right by the building."
+              }
+            },
+            {
+              "name": "Walk at the City Wall & Bohemian Gate",
+              "tip_5lang": {
+                "de": "Fahren Sie zum Böhmertor-Parkplatz für einen kürzeren Weg.",
+                "hu": "Hajtson a Böhmertor parkolóhoz a rövidebb gyalogút érdekében.",
+                "ro": "Mergeți spre parcarea porții Boeme pentru un traseu mai scurt.",
+                "en": "Drive to the Bohemian Gate car park for a shorter walking distance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Kurzparkzonen, um nah an den Sehenswürdigkeiten zu sein.",
+              "Hinterlassen Sie keine nassen Schirme auf den Autositzen.",
+              "Die Sicht kann in den engen Gassen bei Starkregen eingeschränkt sein.",
+              "Parkhäuser bieten Schutz beim Ein- und Aussteigen.",
+              "Das Brauhaus-Parken ist für Gäste meist kostenlos."
+            ],
+            "hu": [
+              "Használja a rövid távú parkolókat, hogy közel legyen a látnivalókhoz.",
+              "Ne hagyjon vizes esernyőt az autóüléseken a párosodás miatt.",
+              "Heves esőben a szűk utcákban korlátozott lehet a látótávolság.",
+              "A parkolóházak védelmet nyújtanak a be- és kiszálláskor.",
+              "A sörfőzde parkolója a vendégek számára általában ingyenes."
+            ],
+            "ro": [
+              "Folosiți zonele de parcare pe termen scurt pentru proximitate.",
+              "Nu lăsați umbrele ude pe scaunele mașinii pentru a evita aburirea.",
+              "Vizibilitatea poate fi redusă pe străzile înguste în timpul ploii.",
+              "Parcările acoperite oferă protecție la urcare și coborâre.",
+              "Parcarea la berărie este de obicei gratuită pentru clienți."
+            ],
+            "en": [
+              "Use short-term parking zones to stay close to the attractions.",
+              "Don't leave wet umbrellas on car seats to prevent fogging.",
+              "Visibility can be limited in narrow alleys during heavy rain.",
+              "Indoor parking structures offer protection when entering or exiting.",
+              "Parking at the brewery is usually free for customers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Auto in Freistadt die wärmste Basis für Erkundungen. Morgens parken wir zentral und genießen die frostige Altstadt. Mittags dient das beheizte Auto als Rückzugsort zwischen dem Kirchenbesuch und dem Schlossmuseum. Da es früh dunkel wird, fahren wir nachmittags bequem zum beleuchteten Böhmertor. Der Tag endet im mollig warmen Brauhaus.",
+            "hu": "Télen az autó a legmelegebb bázis Freistadt felfedezéséhez. Reggel központilag parkolunk, és élvezzük a fagyos óvárost. Délben a fűtött autó pihenőhelyként szolgál a templom és a múzeum között. Mivel korán sötétedik, délután kényelmesen a kivilágított Böhmertorhoz hajtunk. A napot a duruzsolóan meleg sörfőzdében zárjuk.",
+            "ro": "Iarna, mașina este cea mai caldă bază pentru explorarea orașului Freistadt. Dimineața parcăm central și ne bucurăm de centrul înghețat. La prânz, mașina încălzită servește ca refugiu între vizita la biserică și muzeu. Fiindcă se întunecă devreme, după-amiaza mergem direct la Poarta Boemă iluminată. Ziua se încheie la berăria călduroasă.",
+            "en": "In winter, the car provides a warm home base for exploring Freistadt. In the morning, park centrally and enjoy the frosty old town. At midday, the heated car is a perfect retreat between visits to the church and the castle museum. Since it gets dark early, drive comfortably to the illuminated Bohemian Gate in the afternoon. Finish the day in the toasty Brewhouse."
+          },
+          "stops": [
+            {
+              "name": "Arrival & Parking at St. Peter Car Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen, die Parkplätze verkleinern können.",
+                "hu": "Ügyeljen a hórakásokra, amik leszűkíthetik a parkolóhelyeket.",
+                "ro": "Atenție la mormanele de zăpadă care pot micșora locurile de parcare.",
+                "en": "Watch out for snow piles that can reduce the size of parking spots."
+              }
+            },
+            {
+              "name": "Main Square & Linzer Gate",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Weihnachtsbeleuchtung vom warmen Auto aus.",
+                "hu": "Élvezze a karácsonyi fényeket a meleg autóból.",
+                "ro": "Admirați luminile de Crăciun din confortul mașinii încălzite.",
+                "en": "Enjoy the view of the Christmas lights from your warm car."
+              }
+            },
+            {
+              "name": "Parish Church & Dechanthof",
+              "tip_5lang": {
+                "de": "Der Boden kann hier besonders glatt sein; parken Sie vorsichtig.",
+                "hu": "A talaj itt különösen csúszós lehet; parkoljon óvatosan.",
+                "ro": "Solul poate fi foarte alunecos aici; parcați cu mare atenție.",
+                "en": "The ground can be very slippery here; park with extra caution."
+              }
+            },
+            {
+              "name": "Freistadt Castle & Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, um das Auto zu heizen.",
+                "hu": "Ne járassa feleslegesen a motort az autó fűtéséhez.",
+                "ro": "Nu lăsați motorul pornit inutil pentru a încălzi mașina.",
+                "en": "Avoid idling your engine unnecessarily to heat up the car."
+              }
+            },
+            {
+              "name": "Freistadt Brewhouse",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Eingang, um Kälte zu vermeiden.",
+                "hu": "Használja a közvetlenül a bejáratnál lévő parkolót a hideg elkerülésére.",
+                "ro": "Folosiți parcarea de lângă intrare pentru a evita expunerea la frig.",
+                "en": "Use the parking right by the entrance to avoid the cold."
+              }
+            },
+            {
+              "name": "Walk at the City Wall & Bohemian Gate",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Ausfahrt aus Parklücken bei festgefahrenem Schnee.",
+                "hu": "Vigyázzon a parkolóból való kiálláskor a letaposott havon.",
+                "ro": "Atenție la ieșirea din parcare pe zăpada bătătorită.",
+                "en": "Be careful when exiting parking spots on packed snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und Besen im Auto mit.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Vermeiden Sie das Parken unter schneebeladenen Dächern.",
+              "Die engen Gassen werden oft als letztes geräumt, fahren Sie langsam.",
+              "Warme Decken im Auto sind bei längeren Stopps hilfreich."
+            ],
+            "hu": [
+              "Tartson jégkaparót és kefét az autóban.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Kerülje a parkolást hóval terhelt háztetők alatt.",
+              "A szűk utcákat gyakran utoljára takarítják, vezessen lassan.",
+              "A meleg takarók hasznosak lehetnek hosszabb megállásoknál."
+            ],
+            "ro": [
+              "Aveți mereu în mașină o răzuitoare de gheață și o perie.",
+              "Verificați nivelul antigelului în lichidul de parbriz.",
+              "Evitați parcarea sub acoperișuri încărcate cu zăpadă.",
+              "Străzile înguste sunt deszăpezite ultimele, conduceți încet.",
+              "Păturile calde în mașină sunt utile în cazul unor opriri lungi."
+            ],
+            "en": [
+              "Keep an ice scraper and a snow brush in your car.",
+              "Check the anti-freeze level in your windshield washer fluid.",
+              "Avoid parking directly under roofs heavily laden with snow.",
+              "Narrow alleys are often cleared last; drive very slowly.",
+              "Warm blankets in the car are helpful during longer stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1398,6 +2004,196 @@
           "The bus stop is conveniently located near the old town.",
           "This plan shows that you can have a perfect day in a medieval city even without a car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel in Freistadt halten uns an regnerischen Tagen trocken. Morgens kommen wir am Busbahnhof an und laufen kurz zum Hauptplatz. Mittags verbringen wir viel Zeit in der Kirche und im Schlossmuseum, um dem Regen zu entkommen. Nachmittags nutzen wir die überdachten Bushaltestellen für den Weg zum Brauhaus, wo wir den Abend im Warmen verbringen.",
+            "hu": "A tömegközlekedés Freistadtban segít szárazon maradni az esős napokon. Reggel megérkezünk az autóbusz-állomásra, majd rövid sétát teszünk a főtérig. Délben sok időt töltünk a templomban és a várkastély múzeumában. Délután a fedett buszmegállókat használjuk a sörfőzdéhez vezető úton, ahol az estét a melegben zárjuk.",
+            "ro": "Transportul public din Freistadt ne ajută să rămânem uscați în zilele ploioase. Dimineața sosim la autogară și facem o scurtă plimbare până în Piața Mare. La prânz petrecem mult timp în biserică și la muzeu pentru a evita ploaia. După-amiaza folosim stațiile acoperite spre berărie, unde petrecem seara la căldură.",
+            "en": "Public transit in Freistadt keeps us mostly dry on rainy days. In the morning, arrive at the bus station and take a short walk to the Main Square. At midday, spend plenty of time in the church and castle museum to escape the weather. In the afternoon, use sheltered bus stops on your way to the Brewhouse for a warm evening."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Freistadt Bus Station",
+              "tip_5lang": {
+                "de": "Die Wartehalle bietet Schutz, bis der Regen nachlässt.",
+                "hu": "A váróterem védelmet nyújt, amíg az eső alábbhagy.",
+                "ro": "Sala de așteptare oferă adăpost până când ploaia se potolește.",
+                "en": "The waiting hall provides shelter until the rain lets up."
+              }
+            },
+            {
+              "name": "Main Square & Linzer Gate",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge, um trocken durch die Stadt zu kommen.",
+                "hu": "Használja az árkádokat, hogy szárazon jusson át a városon.",
+                "ro": "Folosiți arcadele pentru a traversa orașul fără a vă uda.",
+                "en": "Use the arcades to move through the town while staying dry."
+              }
+            },
+            {
+              "name": "Parish Church & Dechanthof",
+              "tip_5lang": {
+                "de": "Die Kirche ist nur einen kurzen Sprint vom Hauptplatz entfernt.",
+                "hu": "A templom csak egy rövid sprintre van a főtértől.",
+                "ro": "Biserica se află la doar un scurt sprint distanță de piață.",
+                "en": "The church is just a short dash away from the Main Square."
+              }
+            },
+            {
+              "name": "Freistadt Castle & Museum",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle 'Stifterplatz' liegt direkt am Museum.",
+                "hu": "A 'Stifterplatz' buszmegálló közvetlenül a múzeumnál van.",
+                "ro": "Stația de autobuz 'Stifterplatz' este chiar lângă muzeu.",
+                "en": "The 'Stifterplatz' bus stop is located right by the museum."
+              }
+            },
+            {
+              "name": "Freistadt Brewhouse",
+              "tip_5lang": {
+                "de": "Die nächste Haltestelle ist nur 2 Minuten Fußweg entfernt.",
+                "hu": "A legközelebbi megálló mindössze 2 perc sétára van.",
+                "ro": "Cea mai apropiată stație este la doar 2 minute de mers pe jos.",
+                "en": "The nearest bus stop is only a 2-minute walk away."
+              }
+            },
+            {
+              "name": "Walk at the City Wall & Bohemian Gate",
+              "tip_5lang": {
+                "de": "Warten Sie an der Haltestelle 'Böhmertor' unter dem Dach.",
+                "hu": "Várjon a 'Böhmertor' megállóban a tető alatt.",
+                "ro": "Așteptați în stația 'Böhmertor' sub acoperiș.",
+                "en": "Wait at the 'Böhmertor' stop under the covered shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Holen Sie sich ein Tagesticket, um flexibel zwischen Schauern zu reisen.",
+              "Die Busbahnhöfe haben meist geschlossene Warteräume.",
+              "Prüfen Sie die Fahrpläne online, um Wartezeiten im Freien zu vermeiden.",
+              "Vorsicht beim Einsteigen mit nassen Regenschirmen.",
+              "Die Busse sind gut beheizt und bieten eine trockene Pause."
+            ],
+            "hu": [
+              "Váltson napijegyet, hogy rugalmasan utazhasson az esők között.",
+              "Az autóbusz-állomásokon általában zárt várótermek vannak.",
+              "Ellenőrizze a menetrendet online, hogy ne kelljen kint várnia.",
+              "Vigyázzon a felszálláskor a vizes esernyőkkel.",
+              "A buszok jól fűtöttek és száraz pihenőt kínálnak."
+            ],
+            "ro": [
+              "Luați un bilet de o zi pentru a călători flexibil între ploi.",
+              "Autogările au de obicei săli de așteptare închise.",
+              "Verificați orarul online pentru a evita așteptarea în exterior.",
+              "Atenție la urcarea în autobuz cu umbrele ude.",
+              "Autobuzele sunt bine încălzite și oferă o pauză uscată."
+            ],
+            "en": [
+              "Get a day ticket to travel flexibly between rain showers.",
+              "Main bus stations usually have enclosed waiting rooms.",
+              "Check schedules online to avoid waiting outside in the rain.",
+              "Be careful when boarding with wet umbrellas.",
+              "Buses are well-heated and offer a dry break from the weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Transit-Reisen im Winter schont die Nerven bei Glätte. Morgens erreichen wir Freistadt per Bus und genießen die weihnachtliche Stimmung. Mittags bieten die beheizten Busse und das Schlossmuseum Schutz vor der Kälte. Da es früh dämmert, ist die Fahrt zum Brauhaus am späten Nachmittag besonders stimmungsvoll. Der Abend endet in der behaglichen Wärme des Brauhauses vor der Rückreise.",
+            "hu": "A tömegközlekedés télen kíméli az idegeket a csúszós utakon. Reggel busszal érkezünk Freistadtba, és élvezzük a karácsonyi hangulatot. Délben a fűtött buszok és a várkastély múzeuma nyújtanak védelmet a hideg ellen. Mivel korán szürkül, a sörfőzdéhez tartó út késő délután különösen hangulatos. A napot a sörfőzde barátságos melegében zárjuk a hazautazás előtt.",
+            "ro": "Călătoria cu transportul public iarna evită stresul drumurilor alunecoase. Dimineața ajungem cu autobuzul și ne bucurăm de atmosfera de sărbătoare. La prânz, autobuzele încălzite și muzeul castelului oferă protecție contra frigului. Fiindcă amurgul vine devreme, drumul spre berărie este foarte pitoresc. Ziua se încheie în căldura berăriei înainte de plecare.",
+            "en": "Transit travel in winter saves the stress of driving on icy roads. In the morning, arrive by bus and enjoy the festive atmosphere. At midday, heated buses and the castle museum provide protection from the cold. With early dusk, the ride to the Brewhouse in the late afternoon is very atmospheric. Spend the evening in the cozy warmth of the brewery before heading back."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Freistadt Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie im beheizten Innenbereich auf Ihren Anschluss.",
+                "hu": "Várja a csatlakozást a fűtött belső térben.",
+                "ro": "Așteptați legătura în zona interioară încălzită.",
+                "en": "Wait for your connection in the heated indoor area."
+              }
+            },
+            {
+              "name": "Main Square & Linzer Gate",
+              "tip_5lang": {
+                "de": "Die Busse halten direkt am Rand der Fußgängerzone.",
+                "hu": "A buszok közvetlenül a sétálóövezet szélén állnak meg.",
+                "ro": "Autobuzele opresc chiar la marginea zonei pietonale.",
+                "en": "Buses stop right at the edge of the pedestrian zone."
+              }
+            },
+            {
+              "name": "Parish Church & Dechanthof",
+              "tip_5lang": {
+                "de": "Kürzen Sie den Weg durch die warmen Gassen ab.",
+                "hu": "Rövidítse le az utat a meleg utcákon keresztül.",
+                "ro": "Scurtați drumul prin străduțele mai ferite de vânt.",
+                "en": "Shorten your walk by using the narrower, more sheltered streets."
+              }
+            },
+            {
+              "name": "Freistadt Castle & Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museumscafé zum Aufwärmen nach dem Aussteigen.",
+                "hu": "Használja a múzeumi kávézót a felmelegedéshez leszállás után.",
+                "ro": "Folosiți cafeneaua muzeului pentru a vă încălzi după ce coborâți.",
+                "en": "Use the museum cafe to warm up after getting off the bus."
+              }
+            },
+            {
+              "name": "Freistadt Brewhouse",
+              "tip_5lang": {
+                "de": "Behalten Sie die Abfahrtszeiten für den Rückweg im Blick.",
+                "hu": "Tartsa szem előtt a hazautazás indulási időpontjait.",
+                "ro": "Urmăriți orele de plecare pentru drumul de întoarcere.",
+                "en": "Keep an eye on the departure times for your return journey."
+              }
+            },
+            {
+              "name": "Walk at the City Wall & Bohemian Gate",
+              "tip_5lang": {
+                "de": "Warten Sie in der Dämmerung an gut beleuchteten Haltestellen.",
+                "hu": "Szürkületben várjon a jól kivilágított megállókban.",
+                "ro": "Așteptați în stațiile bine iluminate pe timpul serii.",
+                "en": "Wait at well-lit bus stops during the winter twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne können abweichen, prüfen Sie diese vorab.",
+              "Die Busbahnhöfe sind oft die windigsten Orte, bleiben Sie drinnen.",
+              "Tragen Sie warme Kleidung für die Wartezeiten an den Haltestellen.",
+              "Die letzte Rückfahrt ist im Winter oft früher als im Sommer.",
+              "Genießen Sie die Fahrt durch die verschneite Mühlviertler Landschaft."
+            ],
+            "hu": [
+              "A téli menetrend eltérhet, ellenőrizze előre.",
+              "A buszállomások gyakran a legszelesebb helyek, maradjon bent.",
+              "Viseljen meleg ruhát a megállókban való várakozáshoz.",
+              "Az utolsó járat télen gyakran korábban indul, mint nyáron.",
+              "Élvezze az utazást a havas Mühlviertel tájain keresztül."
+            ],
+            "ro": [
+              "Orarele de iarnă pot diferi, verificați-le în avans.",
+              "Autogările sunt adesea locuri cu mult curent, stați în interior.",
+              "Purtați haine groase pentru timpul petrecut în stații.",
+              "Ultima cursă de întoarcere este adesea mai devreme iarna.",
+              "Bucurați-vă de drumul prin peisajul înzăpezit din Mühlviertel."
+            ],
+            "en": [
+              "Winter schedules may vary; check them in advance.",
+              "Bus stations can be windy; stay inside the waiting areas.",
+              "Wear thermal clothing for any wait times at bus stops.",
+              "The last return trip often departs earlier in winter than summer.",
+              "Enjoy the scenic ride through the snowy Mühlviertel countryside."
+            ]
+          }
+        }
       }
     }
   }

@@ -379,6 +379,206 @@
           "Check the opening hours for the paper factory as they may vary.",
           "Be respectful of the quiet atmosphere at the Baptist Church."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Spaziergang beginnt am Unabhängigkeitsdenkmal im Regen, Regenschirme sind hier Pflicht. Mittags bietet das warme Innere der Baptistenkirche perfekten Schutz. Am Nachmittag erkunden wir die historischen Industriebauten von Fabrik und Wassermühle im Trockenen. Der Tag endet mit einem erfrischenden, nassen Spaziergang entlang des Keila-Flusses.",
+            "hu": "A séta esőben indul a függetlenségi emlékműnél, esernyő vagy esőkabát viselése ajánlott. Délben a baptista templom belső tere nyújt kiváló menedéket a csapadék elől. Délután a papírgyár és a vízimalom masszív téglafalai között, fedett részeken haladunk. A napot a Keila-folyó melletti friss, esős, de megnyugtató séta zárja le.",
+            "ro": "Plimbarea începe în ploaie la monumentul independenței, fiind necesară o pelerină. La prânz, interiorul bisericii baptiste oferă un refugiu uscat excelent. După-amiaza continuă la adăpost, explorând vechea fabrică și moara de apă. Ziua se încheie cu o plimbare răcoroasă pe malul ud al râului Keila.",
+            "en": "The walk starts in the rain at the independence monument, making umbrellas essential. At noon, the warm interior of the Baptist church offers a perfect dry shelter. Afternoon brings an exploration of the historic factory and watermill under cover. The day ends with a fresh, damp walk along the Keila River banks."
+          },
+          "stops": [
+            {
+              "name": "Monument of the War of Independence",
+              "tip_5lang": {
+                "de": "Kein Schutz vor Regen, halten Sie den Schirm bereit.",
+                "hu": "Teljesen nyitott tér, az emlékműnél nincs esővédő tető.",
+                "ro": "Spațiu complet deschis, nu există adăpost împotriva ploii.",
+                "en": "Completely open area, no rain shelter near the monument."
+              }
+            },
+            {
+              "name": "Kohila Baptist Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im trockenen Innenraum zum Aufwärmen.",
+                "hu": "A száraz belső tér kiváló hely a ruházat megszárítására.",
+                "ro": "Folosiți interiorul uscat pentru a vă adăposti de ploaie.",
+                "en": "Use the dry indoor benches to rest and dry off your gear."
+              }
+            },
+            {
+              "name": "Historic Paper Factory",
+              "tip_5lang": {
+                "de": "Die massiven alten Mauern bieten guten Wind- und Regenschutz.",
+                "hu": "A masszív gyárépületek jó védelmet nyújtanak a záporok ellen.",
+                "ro": "Zidurile masive ale fabricii oferă protecție contra furtunii.",
+                "en": "Massive brick walls provide solid protection from heavy downpours."
+              }
+            },
+            {
+              "name": "Historic Watermill",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Holzstegen in der Nähe des Wassers.",
+                "hu": "A vízparti fafelületek és lépcsők esőben nagyon csúsznak.",
+                "ro": "Atenție la podurile din lemn care devin alunecoase de la ploaie.",
+                "en": "Watch your step as wooden surfaces near the mill get slippery."
+              }
+            },
+            {
+              "name": "Tohisoo Manor",
+              "tip_5lang": {
+                "de": "Das Gutshaus bietet Schutz; besichtigen Sie die Innenräume.",
+                "hu": "A kúria épülete védelmet nyújt, érdemes bent megállni.",
+                "ro": "Conacul oferă adăpost bun; vizitați spațiile interioare.",
+                "en": "The manor building provides shelter; ideal for indoor viewing."
+              }
+            },
+            {
+              "name": "Kohila Park",
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen fangen die ersten Regentropfen ab.",
+                "hu": "A sűrű lombok felfogják az esőt, de a sétányok sárosak.",
+                "ro": "Copacii deși opresc stropii, dar aleile pot fi noroioase.",
+                "en": "Thick tree crowns block light rain, but paths can be muddy."
+              }
+            },
+            {
+              "name": "Keila River",
+              "tip_5lang": {
+                "de": "Der aufgeweichte Uferpfad erfordert feste, wasserdichte Schuhe.",
+                "hu": "A felázott talaj miatt vízálló túracipő viselése kötelező.",
+                "ro": "Poteca de pe mal este noroioasă, folosiți încălțăminte impermeabilă.",
+                "en": "The riverbank trail gets muddy, so waterproof boots are required."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserdichte Wanderschuhe, da die Wege am Keila-Fluss schnell matschig werden.",
+              "Nutzen Sie die historischen Gebäude der Fabrik und des Gutshauses für längere Pausen im Trockenen.",
+              "Ein stabiler Regenschirm ist wegen des oft starken Windes in offenen Bereichen ratsam.",
+              "Planen Sie ein heißes Getränk in den Cafés nahe der Kirche ein, um sich aufzuwärmen."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt, mert a Keila-folyó melletti ösvények gyorsan feláznak.",
+              "A papírgyár és a Tohisoo-kúria épületét használja hosszabb pihenőkre a záporok alatt.",
+              "A nyitott tereken fújó szél miatt a szélálló esőkabát praktikusabb, mint az esernyő.",
+              "Igyon egy meleg teát a templom közeli helyi boltok egyikében a felmelegedéshez."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece potecile de lângă râul Keila devin noroioase.",
+              "Folosiți clădirile fabricii și ale conacului pentru pauze mai lungi la adăpost de ploaie.",
+              "O pelerină de ploaie este mai utilă decât o umbrelă din cauza vântului puternic de pe teren deschis.",
+              "Opriți-vă pentru o băutură caldă la magazinele din apropierea bisericii baptiste."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes as the dirt paths along the Keila River get muddy quickly.",
+              "Utilize the paper factory structures and Tohisoo manor for longer breaks during heavy rain.",
+              "A windproof raincoat is often more effective than an umbrella due to open area gusts.",
+              "Grab a hot beverage at the local shops near the Baptist church to warm up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der eisige Wintermorgen am Denkmal erfordert warme Kleidung. Mittags wärmen wir uns in der beheizten Baptistenkirche auf. Nachmittags faszinieren die schneebedeckten Dächer der Fabrik und Wassermühle im fahlen Licht. Der Spaziergang endet früh vor dem Sonnenuntergang am teilweise zugefrorenen Keila-Fluss.",
+            "hu": "A fagyos téli reggel az emlékműnél vastag rétegeket követel. Délben a fűtött baptista templom belső tere hoz enyhülést a hideg ellen. Délután a papírgyár és a vízimalom hófödte épületei festői látványt nyújtanak a téli fényben. A program korán, még naplemente előtt zárul a részben befagyott Keila-folyónál.",
+            "ro": "Dimineața geroasă de iarnă la monument necesită haine groase. La prânz, ne încălzim în interiorul bisericii baptiste. După-amiaza aduce peisaje inedite cu acoperișurile înzăpezite ale fabricii și morii de apă. Traseul se termină devreme, înainte de apus, pe malul înghețat al râului Keila.",
+            "en": "The freezing winter morning at the monument demands warm layers. At noon, the heated Baptist church offers a welcome relief from the cold. Afternoon features the snow-covered roofs of the historic factory and watermill. The walk concludes early before the 15:45 sunset by the partially frozen Keila River."
+          },
+          "stops": [
+            {
+              "name": "Monument of the War of Independence",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Flächen rund um das Steindenkmal.",
+                "hu": "A kőmonumentum körüli tér burkolata télen gyakran jeges.",
+                "ro": "Zona din jurul monumentului de piatră poate fi extrem de alunecoasă.",
+                "en": "The paved area around the stone monument is prone to black ice."
+              }
+            },
+            {
+              "name": "Kohila Baptist Church",
+              "tip_5lang": {
+                "de": "Schütteln Sie den Schnee vor dem Betreten der Kirche ab.",
+                "hu": "Kérjük, rázza le a havat a kabátjáról belépés előtt.",
+                "ro": "Scuturați zăpada de pe haine înainte de a intra în biserică.",
+                "en": "Please brush off the snow from your coat before entering the church."
+              }
+            },
+            {
+              "name": "Historic Paper Factory",
+              "tip_5lang": {
+                "de": "Vorsicht vor herabhängenden Eiszapfen an den alten Dachrinnen.",
+                "hu": "Vigyázat, a régi ereszcsatornákról nagy jégcsapok lóghatnak le.",
+                "ro": "Atenție la țurțurii mari de gheață formați pe jeresurile vechi.",
+                "en": "Watch out for large icicles hanging from the old factory gutters."
+              }
+            },
+            {
+              "name": "Historic Watermill",
+              "tip_5lang": {
+                "de": "Das herabspritzende Wasser friert auf den Wegen sofort zu.",
+                "hu": "A kifröccsenő folyóvíz azonnal ráfagy a közeli ösvényekre.",
+                "ro": "Apa stropită îngheață instantaneu pe aleile din apropiere.",
+                "en": "Splashing water freezes instantly on the surrounding pathways."
+              }
+            },
+            {
+              "name": "Tohisoo Manor",
+              "tip_5lang": {
+                "de": "Der barocke Gutspark ist tief verschneit, bleiben Sie auf den Wegen.",
+                "hu": "A kastélyparkot vastag hó fedi, maradjon a letakarított utakon.",
+                "ro": "Parcul conacului este înzăpezit, rămâneți pe traseele curățate.",
+                "en": "The manor park is deeply snowed in; stick to cleared main paths."
+              }
+            },
+            {
+              "name": "Kohila Park",
+              "tip_5lang": {
+                "de": "Der ungeräumte Parkweg kann rutschig und tief sein.",
+                "hu": "A parki sétányokat nem mindig takarítják, vastag lehet a hó.",
+                "ro": "Aleile din parc pot avea zăpadă mare, mergeți cu atenție.",
+                "en": "Park trails might not be cleared, expect deep snow or ice patches."
+              }
+            },
+            {
+              "name": "Keila River",
+              "tip_5lang": {
+                "de": "Betreten Sie niemals die dünne Eisschicht auf dem Fluss.",
+                "hu": "Soha ne lépjen a folyó bizonytalan, vékony jégfelszínére.",
+                "ro": "Nu călcați niciodată pe gheața formată de-a lungul râului.",
+                "en": "Never attempt to walk on the unstable river ice sheet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang in Estland erfolgt im Winter bereits gegen 15:45 Uhr; starten Sie pünktlich.",
+              "Tragen Sie feste Winterschuhe mit tiefem Profil gegen das Ausrutschen auf Eis.",
+              "Thermounterwäsche und Windschutz sind wegen der eisigen Winde vom Fluss notwendig.",
+              "Die Gehwege abseits der Hauptstraße werden in Kohila nur unregelmäßig geräumt."
+            ],
+            "hu": [
+              "A téli naplemente Észtországban már 15:45 körül bekövetkezik, induljon időben.",
+              "Viseljen bordázott talpú téli bakancsot a jeges szakaszok biztonságos leküzdéséhez.",
+              "A folyó felől fújó fagyos szél miatt a thermo-aláöltözet és a sál kötelező.",
+              "A főúttól távolabbi gyalogutakat Kohilában télen nem mindegyik szakaszon takarítják."
+            ],
+            "ro": [
+              "Apusul de soare în Estonia are loc iarna în jur de ora 15:45; începeți traseul devreme.",
+              "Purtați bocanci de iarnă cu talpă antiderapantă pentru a evita căzăturile pe gheață.",
+              "Hainele termice sunt indispensabile din cauza vântului tăios dinspre râul Keila.",
+              "Trotuarele secundare din Kohila pot rămâne necurățate de zăpadă pe timp de iarnă."
+            ],
+            "en": [
+              "Sunset in Estonia occurs around 15:45 in winter; complete your outdoor walk early.",
+              "Wear insulated winter boots with a deep grip to avoid slipping on hidden ice.",
+              "Thermal layers and a windproof jacket are crucial against freezing river winds.",
+              "Secondary walking paths in Kohila are not always plowed immediately after snowfall."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -775,6 +975,225 @@
           "Bring a bike lock for the stops.",
           "Be considerate on paths shared with pedestrians."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrradtour startet trotz Regen am Gutshaus Tohisoo, wasserdichte Kleidung hält uns trocken. Im Park fahren wir vorsichtig über nasse Blätter. Entlang des Keila-Flusses spritzt das Wasser auf den Wegen. Nachmittags pausieren wir an der Fabrik und Mühle, bevor wir die Tour an der Baptistenkirche beenden.",
+            "hu": "A kerékpártúra az eső ellenére elindul a Tohisoo-kúriától, a minőségi esőfelszerelés elengedhetetlen. A parkban óvatosan hajtunk a vizes levelek miatt. A Keila-folyó mentén felázott a talaj. Délután a papírgyárnál és a malomnál tartunk pihenőt, majd a baptista templomnál fejezzük be a tekerést.",
+            "ro": "Turul cu bicicleta începe pe ploaie de la conacul Tohisoo, echipamentul impermeabil fiind vital. În parc pedalăm cu atenție sporită din cauza frunzelor ude. După-amiaza facem pauze lungi la fabrică și la moară, încheind traseul la biserica baptistă.",
+            "en": "The bike tour sets off from Tohisoo Manor despite the rain; high-quality wet weather gear is essential. We cycle carefully through the wet leaves in the park. Afternoon provides solid indoor breaks at the historic factory and mill before finishing the ride at the Baptist church."
+          },
+          "stops": [
+            {
+              "name": "Tohisoo Manor",
+              "tip_5lang": {
+                "de": "Nutzen Sie den breiten Dachüberstand zum Unterstellen der Räder.",
+                "hu": "A kastély széles ereszalját használhatja a biciklik tárolására.",
+                "ro": "Folosiți streașina lată a conacului pentru a proteja bicicletele.",
+                "en": "Use the wide roof overhang of the manor to keep bikes dry."
+              }
+            },
+            {
+              "name": "Kohila Park",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen: Nasses Laub macht die Parkwege rutschig.",
+                "hu": "Fékezzen óvatosan, a vizes levelek csúszós pályát képeznek.",
+                "ro": "Frânați cu atenție: frunzele ude fac aleile extrem de alunecoase.",
+                "en": "Brake gently as wet leaves make the park paths very slick."
+              }
+            },
+            {
+              "name": "Keila River",
+              "tip_5lang": {
+                "de": "Der Uferweg ist matschig; mit Spritzwasser durch Pfützen rechnen.",
+                "hu": "A vízparti út sáros, számítson a tócsákból felcsapódó vízre.",
+                "ro": "Drumul de pe mal e noroios, atenție la noroiul împroșcat.",
+                "en": "The river path is muddy; expect muddy spray from your tires."
+              }
+            },
+            {
+              "name": "Historic Paper Factory",
+              "tip_5lang": {
+                "de": "Stellen Sie die Fahrräder im überdachten Torbereich ab.",
+                "hu": "A kerékpárokat a gyár fedett kapualjában lehet leállítani.",
+                "ro": "Parcați bicicletele în zona porții acoperite a fabricii.",
+                "en": "Park your bicycles inside the covered gateway of the factory."
+              }
+            },
+            {
+              "name": "Historic Watermill",
+              "tip_5lang": {
+                "de": "Glatte Pflastersteine vor dem Eingang verlangen Vorsicht.",
+                "hu": "A malom előtti vizes macskakő fokozott óvatosságot igényel.",
+                "ro": "Pavajul umed din fața morii cere atenție sporită la manevre.",
+                "en": "Wet cobblestones in front of the mill require extra caution."
+              }
+            },
+            {
+              "name": "Monument of the War of Independence",
+              "tip_5lang": {
+                "de": "Kurzer Stopp im Regen, kein Unterstand für Radler vorhanden.",
+                "hu": "Rövid megálló az esőben, itt nincs fedett biciklitároló.",
+                "ro": "Oprire scurtă în ploaie, nu există refugiu acoperit aici.",
+                "en": "Quick stop in the rain; no covered bike stands are available."
+              }
+            },
+            {
+              "name": "Kohila Baptist Church",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich direkt neben dem Haupteingang.",
+                "hu": "A kerékpártámaszok közvetlenül a főbejárat mellett vannak.",
+                "ro": "Suporturile de biciclete sunt chiar lângă intrarea principală.",
+                "en": "Bike racks are located directly next to the main entrance."
+              }
+            },
+            {
+              "name": "Herrenhaus Kohila",
+              "tip_5lang": {
+                "de": "Das Ende der nassen Tour; Stellplätze sind unüberdacht.",
+                "hu": "A vizes túra vége; a kinti bicikli-parkoló nem fedett.",
+                "ro": "Finalul turului ud; parcarea exterioară nu este protejată.",
+                "en": "End of the wet ride; the outdoor bike parking lacks a roof."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind zwingend erforderlich, da die Uferwege stark aufweichen.",
+              "Vermeiden Sie abruptes Bremsen auf den nassen Holzbrücken und dem Kopfsteinpflaster.",
+              "Tragen Sie wasserdichte Überschuhe, um Ihre Füße vor kaltem Spritzwasser zu schützen.",
+              "Die Sicht kann durch starken Regen eingeschränkt sein, schalten Sie die Fahrradbeleuchtung ein."
+            ],
+            "hu": [
+              "A sárvédő használata kötelező, mivel a Keila-folyó menti utak teljesen feláznak.",
+              "Kerülje a hirtelen fékezést a vizes fahidakon és a nedves macskaköveken.",
+              "Viseljen vízálló kamáslit, hogy megvédje cipőjét a hideg felfröccsenő víztől.",
+              "A látási viszonyok korlátozottak lehetnek az esőben, kapcsolja be a kerékpáros lámpákat."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt obligatorii, deoarece drumurile de mal devin foarte noroioase.",
+              "Evitați frânarea bruscă pe podurile de lemn umede și pe porțiunile cu pavaj.",
+              "Purtați huse impermeabile pentru încălțăminte împotriva stropilor reci de apă.",
+              "Vizibilitatea scade pe ploaie abundentă, aprindeți farurile bicicletei."
+            ],
+            "en": [
+              "Mudguards on your bike are mandatory as the riverbank trails become highly saturated.",
+              "Avoid sudden braking on the wet wooden bridges and damp cobblestone sections.",
+              "Wear waterproof shoe covers to protect your feet from cold puddle spray.",
+              "Visibility drops during heavy rain; make sure to switch on your bicycle lights."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die eisige Wintertour erfordert Spikereifen und dicke Handschuhe ab Tohisoo. Der Parkweg ist verschneit und schwer zu befahren. Vorbei am Fluss geht es zur historischen Fabrik, wo wir uns kurz aufwärmen. Nach den Stopps am Denkmal und der Kirche endet die frostige Fahrt am Herrenhaus Kohila.",
+            "hu": "A jeges téli túra szöges gumit és vastag kesztyűt igényel már a Tohisoo-kúriától. A parki út havas, nehezen tekerhető. A folyó mellett elhaladva a papírgyárhoz érünk egy rövid felmelegedésre. Az emlékmű és a templom után a fagyos bringázás a kohilai udvarháznál zárul.",
+            "ro": "Traseul de iarnă cere pneuri cu ținte și mănuși groase de la Tohisoo. Aleile parcului sunt înzăpezite și greu practicabile. Trecem pe lângă râu spre fabrică pentru a ne încălzi. După monument și biserică, tura înghețată se termină la conacul Kohila.",
+            "en": "The freezing winter tour requires studded tires and heavy gloves from Tohisoo. The park path is snow-covered and demanding. Riding past the river, we reach the old factory to warm up. After the monument and church stops, the icy ride ends at Kohila Manor."
+          },
+          "stops": [
+            {
+              "name": "Tohisoo Manor",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen auf dem Zufahrtsweg.",
+                "hu": "Vigyázzon a kastélyhoz vezető úton lévő befagyott tócsákra.",
+                "ro": "Atenție la bălțile înghețate de pe drumul de acces spre conac.",
+                "en": "Watch out for frozen puddles on the main manor driveway."
+              }
+            },
+            {
+              "name": "Kohila Park",
+              "tip_5lang": {
+                "de": "Der Schnee kann tief sein, schieben Sie das Rad bei Bedarf.",
+                "hu": "A hó mély lehet a sétányon, szükség esetén tolja a biciklit.",
+                "ro": "Zăpada poate fi mare pe alei, împingeți bicicleta dacă e greu.",
+                "en": "Snow can be deep on the trail; push your bike if necessary."
+              }
+            },
+            {
+              "name": "Keila River",
+              "tip_5lang": {
+                "de": "Eisige Winde wehen direkt vom Fluss herüber, Gesicht schützen.",
+                "hu": "A folyó felől fagyos szél fúj, védje arcát csősállal.",
+                "ro": "Vântul înghețat bate direct dinspre râu, protejați-vă fața.",
+                "en": "Freezing winds blow directly off the water; protect your face."
+              }
+            },
+            {
+              "name": "Historic Paper Factory",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneeverwehungen an den Gebäudeecken.",
+                "hu": "Vigyázat, a gyárépületek sarkainál hóbuckák alakulhatnak ki.",
+                "ro": "Atenție la troienele de zăpadă formate la colțurile fabricii.",
+                "en": "Watch out for snowdrifts piled up at the building corners."
+              }
+            },
+            {
+              "name": "Historic Watermill",
+              "tip_5lang": {
+                "de": "Die Brücke über den Mühlkanal kann extrem glatt sein.",
+                "hu": "A malomcsatorna feletti híd felülete rendkívül csúszós lehet.",
+                "ro": "Podul de peste canalul morii poate fi acoperit cu polei gros.",
+                "en": "The bridge over the mill race canal can be coated in slick ice."
+              }
+            },
+            {
+              "name": "Monument of the War of Independence",
+              "tip_5lang": {
+                "de": "Halten Sie nicht zu lange an, um Auskühlung zu vermeiden.",
+                "hu": "Ne álljon meg túl hosszú időre, mert a teste gyorsan kihűl.",
+                "ro": "Nu staționați mult timp pentru a preveni hipotermia.",
+                "en": "Keep your stop brief to prevent your body temperature from dropping."
+              }
+            },
+            {
+              "name": "Kohila Baptist Church",
+              "tip_5lang": {
+                "de": "Befreien Sie Ihre Klickpedale vor dem Aufsteigen von Eis.",
+                "hu": "Indulás előtt tisztítsa meg a pattintós pedálokat a jégtől.",
+                "ro": "Curățați gheața de pe pedale înainte de a porni la drum.",
+                "en": "Clear out packed snow or ice from your clip-in pedals before riding."
+              }
+            },
+            {
+              "name": "Herrenhaus Kohila",
+              "tip_5lang": {
+                "de": "Das Ziel ist erreicht; wärmen Sie steife Finger sofort auf.",
+                "hu": "A célba érés után azonnal melegítse fel az elgémberedett ujjakat.",
+                "ro": "Destinația a fost atinsă; încălziți degetele amorțite imediat.",
+                "en": "The destination is reached; warm up your stiff fingers indoors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen mit Spikes sind wegen überfrierender Nässe in Kohila dringend angeraten.",
+              "Der Akku von E-Bikes entlädt sich bei estnischen Minustemperaturen doppelt so schnell.",
+              "Tragen Sie dicke, winddichte Winter-Fahrradhandschuhe, um Erfrierungen zu vermeiden.",
+              "Beenden Sie die Fahrt vor 15:45 Uhr, da die Dunkelheit abrupt einbricht."
+            ],
+            "hu": [
+              "A szöges téli gumi erősen ajánlott a Kohila környéki lefagyott útszakaszokon.",
+              "Az elektromos kerékpárok akkumulátora az észt fagyban kétszer gyorsabban merül.",
+              "Viseljen vastag, szélálló téli kerékpáros kesztyűt a fagyási sérülések elkerülésére.",
+              "Fejezze be a tekerést 15:45 előtt, mert a sötétség hirtelen és korán borul a tájra.",
+              "A fékbowdenek a hidegben beragadhatnak, indulás előtt ellenőrizze őket."
+            ],
+            "ro": [
+              "Anvelopele de iarnă cu ținte sunt extrem de recomandate pe drumurile din Kohila.",
+              "Bateria bicicletelor electrice se descarcă de două ori mai repede pe gerul eston.",
+              "Purtați mănuși de iarnă groase și rezistente la vânt pentru a evita degerăturile.",
+              "Încheiați traseul înainte de ora 15:45, deoarece întunericul se așterne rapid."
+            ],
+            "en": [
+              "Studded winter tires are strongly recommended due to black ice patches in Kohila.",
+              "E-bike batteries drain twice as fast under sub-zero Estonian weather conditions.",
+              "Wear heavily insulated, windproof cycling gloves to prevent finger frostbite.",
+              "Finish the entire tour before 15:45 as darkness falls very abruptly in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -782,7 +1201,7 @@
       "speed_kmh": 28,
       "start": "09:00",
       "end_estimate": "17:10",
-      "total_km": 4.7,
+      "total_km": 26.5,
       "stop_count": 7,
       "stops": [
         {
@@ -1155,6 +1574,206 @@
           "Keep valuables out of sight in your car.",
           "A car gives you the flexibility to visit more remote spots."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour bietet besten Schutz vor dem estnischen Regen. Wir starten trocken am ersten Cluster bei Tohisoo. Ein kurzer Gang durch den regnerischen Kohila-Park wird gefolgt vom Besuch des Industrie-Clusters. Nach der Wassermühle und dem Fluss endet der Tag entspannt im Ortskern und an der warmen Kirche.",
+            "hu": "Az autós túra a legjobb védelmet nyújtja az észtországi esőben. Szárazon indulunk a Tohisoo-kúria klaszternél. Egy rövid esernyős séta következik a Kohila-parkban, majd az ipari örökség klaszterét keressük fel. A vízimalom és a folyó után a nap a belvárosban és a meleg baptista templomnál zárul.",
+            "ro": "Turul cu mașina asigură cel mai bun confort pe timp de ploaie. Pornim uscați de la primul cluster din Tohisoo. O scurtă plimbare cu umbrela în parcul Kohila este urmată de vizita clusterului industrial. După moară și râu, ziua se termină în centrul orașului și la biserică.",
+            "en": "The car tour delivers prime comfort during heavy Estonian rainfall. We start warm and dry at the Tohisoo cluster. A brief umbrella walk through Kohila Park is followed by a drive to the industrial heritage cluster. After the watermill and river, the day ends smoothly in the town center."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Tohisoo & Park",
+              "tip_5lang": {
+                "de": "Parkplätze nahe dem Gutshaus nutzen, um den Fußweg zu verkürzen.",
+                "hu": "Parkoljon a kúria közvetlen közelében, így minimalizálva a gyaloglást.",
+                "ro": "Parcați aproape de conac pentru a reduce expunerea la ploaie.",
+                "en": "Use the parking spaces closest to the manor to minimize walking."
+              }
+            },
+            {
+              "name": "Kohila Park",
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Schirme im Kofferraum, damit die Sitze trocken bleiben.",
+                "hu": "A vizes esernyőket tegye a csomagtartóba, hogy az ülések szárazak maradjanak.",
+                "ro": "Lăsați umbrelele ude în portbagaj pentru a proteja scaunele.",
+                "en": "Keep wet umbrellas in the trunk to keep the car seats dry."
+              }
+            },
+            {
+              "name": "Cluster 2: Industry & River",
+              "tip_5lang": {
+                "de": "Große Pfützen auf dem unbefestigten Industrie-Parkplatz meiden.",
+                "hu": "Kerülje a hatalmas tócsákat az ipari terület burkolatlan parkolójában.",
+                "ro": "Evitați bălțile mari din parcarea neasfaltată a zonei industriale.",
+                "en": "Steer clear of deep puddles in the unpaved industrial parking area."
+              }
+            },
+            {
+              "name": "Historic Watermill",
+              "tip_5lang": {
+                "de": "Der Parkplatz hat bei Regen matschige Stellen; vorsichtig aussteigen.",
+                "hu": "A malom melletti parkoló esőben sáros; óvatosan lépjen ki a kocsiból.",
+                "ro": "Parcarea morii are zone cu noroi; atenție la coborârea aus mașină.",
+                "en": "The mill parking lot gets muddy in the rain; watch your step exiting."
+              }
+            },
+            {
+              "name": "Keila River",
+              "tip_5lang": {
+                "de": "Gute Sicht aus dem Auto auf den Fluss; ideal für Fotostopps.",
+                "hu": "A folyó a kocsiból is jól látható, tökéletes egy gyors fotóhoz.",
+                "ro": "Râul se vede bine din mașină, ideal pentru o fotografie rapidă.",
+                "en": "Great river views right from the car; perfect for a quick photo stop."
+              }
+            },
+            {
+              "name": "Cluster 3: Town Center",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz vorhanden; kurze Wege zu den Geschäften.",
+                "hu": "Központi parkoló áll rendelkezésre, rövid séta a boltokig.",
+                "ro": "Parcare centrală disponibilă; acces rapid către magazine.",
+                "en": "Central parking available; short walking distance to local shops."
+              }
+            },
+            {
+              "name": "Kohila Baptist Church",
+              "tip_5lang": {
+                "de": "Befestigte Parkplätze direkt vor dem Kirchengebäude.",
+                "hu": "Szilárd burkolatú parkolóhelyek közvetlenül a templom előtt.",
+                "ro": "Locuri de parcare asfaltate chiar în fața clădirii bisericii.",
+                "en": "Paved parking spaces are situated right in front of the church."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schalten Sie bei starkem Regen das Abblendlicht manuell ein, da Automatikfunktionen oft versagen.",
+              "Achten Sie auf unbefestigten Parkplätzen nahe der Industriebauten auf tiefe Schlammlöcher.",
+              "Nutzen Sie die Klimaanlage des Autos, um das Beschlagen der Scheiben durch nasse Kleidung zu verhindern.",
+              "Halten Sie ein Handtuch im Auto bereit, um Sitze nach den kurzen Außengängen abzuwischen."
+            ],
+            "hu": [
+              "Heves esőzésben kapcsolja be a tompított fényszórót, az automata funkció késhet.",
+              "A burkolatlan parkolókban az ipari zónánál figyeljen a mély és csalóka sárgödrökre.",
+              "Használja a légkondicionálót a szélvédők párátlanítására a vizes ruhák miatt.",
+              "Tartson egy mikroszálas törölközőt az utastérben az ülések gyors áttörléséhez."
+            ],
+            "ro": [
+              "Activați manual faza scurtă pe ploaie torențială, senzorii automați pot da erori.",
+              "Atenție la gropile adânci cu noroi din parcările neasfaltate ale zonei industriale.",
+              "Folosiți aerul condiționat pentru a preveni aburirea geamurilor din cauza hainelor ude.",
+              "Păstrați un prosop în mașină pentru a șterge scaunele după scurtele ieșiri în ploaie."
+            ],
+            "en": [
+              "Switch on low-beam headlights manually during heavy rain; auto-sensors can lag.",
+              "Watch out for deep mud holes in unpaved parking lots around the industrial zone.",
+              "Run the car's air conditioning to stop windows from fogging up due to wet coats.",
+              "Keep a towel handy in the cabin to dry off seats after brief outdoor sight visits."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour startet komfortabel mit eingeschalteter Heizung am Tohisoo-Cluster. Die verschneiten Straßen von Kohila erfordern vorsichtiges Fahren. Nach dem kurzen Halt am Park geht es zum Industriegebiet. Vorbei an Wassermühle und Fluss endet die Tour sicher im Ortszentrum und an der gut beheizten Kirche.",
+            "hu": "A téli autós túra kellemes melegben indul a Tohisoo-kúria klaszternél. Kohila havas útjai óvatos vezetést és téli gumiabroncsokat követelnek. A park után az ipari terület felé vesszük az irányt. A vízimalom és a folyó érintésével a nap biztonságban zárul a városközpontban és a fűtött templomnál.",
+            "ro": "Traseul de iarnă cu mașina începe confortabil, cu căldura pornită, la clusterul Tohisoo. Drumurile înzăpezite din Kohila cer prudență maximă. După o scurtă oprire la parc, conducem spre zona industrială. Turul se încheie în siguranță în centrul orașului și la biserica încălzită.",
+            "en": "The winter car tour starts comfortably with a warm cabin at the Tohisoo cluster. Snow-covered roads in Kohila demand cautious driving and good winter tires. After a brief stop at the park, we proceed to the industrial heritage area, wrapping up safely in the town center."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Tohisoo & Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneehaufen auf den Parkplatzrändern.",
+                "hu": "Vigyázzon a parkoló szélén felhalmozott nagy hóbuckákkal.",
+                "ro": "Atenție la mormanele mari de zăpadă de la marginea parcării.",
+                "en": "Watch out for large snowbanks piled along the parking edges."
+              }
+            },
+            {
+              "name": "Kohila Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem kalten Spaziergang im Park.",
+                "hu": "Kapcsolja be az ülésfűtést a fagyos parki séta után.",
+                "ro": "Porniți încălzirea în scaune după plimbarea friguroasă din parc.",
+                "en": "Turn on your seat heaters immediately after your cold park stroll."
+              }
+            },
+            {
+              "name": "Cluster 2: Industry & River",
+              "tip_5lang": {
+                "de": "Die Zufahrt zum Industriegebiet kann vereist und rutschig sein.",
+                "hu": "Az ipari övezetbe vezető bekötőút gyakran jeges és csúszós.",
+                "ro": "Drumul de acces spre zona industrială poate fi acoperit cu polei.",
+                "en": "The access road into the industrial area can be icy and slick."
+              }
+            },
+            {
+              "name": "Historic Watermill",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken, Eisflächen sind unter Neuschnee versteckt.",
+                "hu": "Óvatosan manőverezzen, a friss hó alatt rejtett jégfelületek lehetnek.",
+                "ro": "Manevrați cu grijă, sub zăpada proaspătă se poate ascunde gheață.",
+                "en": "Park carefully as patches of smooth ice may hide under fresh snow."
+              }
+            },
+            {
+              "name": "Keila River",
+              "tip_5lang": {
+                "de": "Keine Haltestatistik auf der Brücke wegen Rutschgefahr.",
+                "hu": "A hídon megállni tilos és veszélyes a jégképződés miatt.",
+                "ro": "Nu staționați pe pod din cauza riscului major de patinare.",
+                "en": "Do not stop your vehicle on the bridge due to skidding hazards."
+              }
+            },
+            {
+              "name": "Cluster 3: Town Center",
+              "tip_5lang": {
+                "de": "Schneeräumfahrzeuge haben hier Vorfahrt; auf Schilder achten.",
+                "hu": "A hókotróknak elsőbbségük van; figyelje az ideiglenes táblákat.",
+                "ro": "Utilajele de deszăpezire au prioritate; respectați semnele.",
+                "en": "Snow plows have priority here; watch out for temporary signs."
+              }
+            },
+            {
+              "name": "Kohila Baptist Church",
+              "tip_5lang": {
+                "de": "Parkplatz ist meist geräumt, aber Vorsicht vor Schneematsch.",
+                "hu": "A parkolót általában letakarítják, de a latyak így is csúszhat.",
+                "ro": "Parcarea este curățată, dar atenție la mazga alunecoasă.",
+                "en": "The parking lot is usually plowed, but watch for slippery slush."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen (M+S oder Spikes) sind in Estland gesetzlich vorgeschrieben und zwingend nötig.",
+              "Führen Sie einen Eiskratzer und Handbesen mit, da Schneefall in Kohila oft stark ist.",
+              "Die ländlichen Straßen rund um die POIs können spiegelglatt sein; fahren Sie defensiv.",
+              "Halten Sie den Scheibenwaschbehälter mit frostsicherer Flüssigkeit (-25°C) stets gut gefüllt."
+            ],
+            "hu": [
+              "A téli gumiabroncsok használata Észtországban kötelező és életmentő.",
+              "Mindenképpen tartson jégkaparót és hókefét a kocsiban, a havazás hirtelen erősödhet.",
+              "A POI-k körüli mellékutak tükörsima jéggé fagyhatnak; vezessen lassabban.",
+              "A szélvédőmosó folyadék legyen fagyálló (legalább -25°C-ig jó minőségű)."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Estonia și absolut necesare.",
+              "Păstrați o racletă și o perie în mașină; ninsorile în Kohila pot fi foarte abundente.",
+              "Drumurile secundare din jurul obiectivelor pot fi extrem de alunecoase; conduceți prudent.",
+              "Asigurați-vă că lichidul de parbriz este rezistent la îngheț sever (minim -25°C)."
+            ],
+            "en": [
+              "Winter tires are legally required in Estonia and absolutely vital for local driving.",
+              "Keep an ice scraper and a snow brush in the cabin; snow showers can intensify quickly.",
+              "Secondary roads leading to the points of interest can be extremely icy; drive defensively.",
+              "Ensure your windshield washer fluid is rated for deep winter conditions (-25°C or lower)."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1511,6 +2130,188 @@
           "Have small change ready for tickets if needed.",
           "Be at the bus stop on time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem öffentlichen Nahverkehr reisen wir wetterunabhängig nach Kohila. Am Ortskern starten wir geschützt vor Schauern. Die Baptistenkirche bietet mittags Zuflucht. Der Bus bringt uns nachmittags zum Industriegebiet und zur Wassermühle. Die Tour endet am historischen Gutshaus Tohisoo und dem regnerischen Park.",
+            "hu": "A tömegközlekedéssel az időjárástól függetlenül érkezünk Kohilába. A belvárosi klaszternél indulunk, védve a záporoktól. A baptista templom délben nyújt menedéket. Délután helyi busszal utazunk az ipari területre és a vízimalomhoz. A nap a történelmi Tohisoo-kúriánál és az esős parknál zárul.",
+            "ro": "Cu transportul public călătorim confortabil indiferent de vreme. Începem în centrul orașului, feriți de ploaie. Biserica baptistă oferă refugiu la prânz. Autobuzul ne duce după-amiaza la zona industrială și moară. Traseul se încheie la conacul istoric Tohisoo și parcul ud.",
+            "en": "Public transit allows a smooth journey to Kohila regardless of the rain. We begin at the town center cluster. The Baptist church provides fine shelter at noon. A local bus takes us to the industrial area and watermill in the afternoon, before finishing at Tohisoo Manor."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Town Center",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle verfügt über ein schützendes Glasdach.",
+                "hu": "A buszmegálló üveg tetővel van ellátva, véd az esőtől.",
+                "ro": "Stația de autobuz are un adăpost de sticlă ce ofertă protecție.",
+                "en": "The local bus stop features a glass shelter to block the rain."
+              }
+            },
+            {
+              "name": "Kohila Baptist Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle, Schirm bereithalten.",
+                "hu": "Rövid gyalogút a buszmegállótól, tartsa készenlétben az esernyőt.",
+                "ro": "Plimbare scurtă de la stație, țineți umbrela la îndemână.",
+                "en": "Short walk from the transit stop; keep your umbrella handy."
+              }
+            },
+            {
+              "name": "Cluster 2: Industrial Area",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist offen; warten Sie unter Fabrikdächern.",
+                "hu": "A megálló nyitott; várjon a gyárépületek eresze alatt.",
+                "ro": "Stația este deschisă; așteptați sub streașina fabricii.",
+                "en": "The stop is unsheltered; wait under the factory roof overhangs."
+              }
+            },
+            {
+              "name": "Historic Watermill",
+              "tip_5lang": {
+                "de": "Überprüfen Sie die Abfahrtszeiten im Unterstand der Mühle.",
+                "hu": "Ellenőrizze a buszmenetrendet a malom melletti fedett részen.",
+                "ro": "Verificați orarul autobuzelor la adăpostul de lângă moară.",
+                "en": "Check the bus schedule while staying dry under the mill canopy."
+              }
+            },
+            {
+              "name": "Cluster 3: Tohisoo Manor",
+              "tip_5lang": {
+                "de": "Die Buslinie hält fast direkt vor der Allee des Gutshauses.",
+                "hu": "A buszjárat szinte közvetlenül a kúria fasora előtt áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața aleii conacului.",
+                "en": "The bus route stops almost directly in front of the manor avenue."
+              }
+            },
+            {
+              "name": "Kohila Park",
+              "tip_5lang": {
+                "de": "Nasser Weg zurück zum Bahnhof; feste Schuhe empfohlen.",
+                "hu": "Vizes gyalogút vezet vissza az állomásra; jó cipő kell.",
+                "ro": "Drum ud înapoi spre gară; se recomandă încălțăminte bună.",
+                "en": "Wet walk back to the train station; reliable shoes recommended."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die offizielle App 'peatus.ee' für Echtzeit-Busdaten bei Regenverzögerungen.",
+              "Kaufen Sie Fahrkarten vorab online, um langes Stehen im Regen beim Fahrer zu vermeiden.",
+              "Die Zugverbindung Tallinn-Kohila ist pünktlich und bietet trockenen Komfort.",
+              "Planen Sie die Umstiege eng, da ländliche Haltestellen oft keinen Wetterschutz bieten."
+            ],
+            "hu": [
+              "Használja a 'peatus.ee' hivatalos alkalmazást az élő buszjárat-követéshez.",
+              "Vegye meg a jegyet előre online, így elkerülheti az esőben állást a sofőrnél.",
+              "A Tallinn-Kohila vonatjárat rendkívül pontos és fűtött, kényelmes utazást biztosít.",
+              "Tervezze szorosra az átszállásokat, mert a vidéki megállók többsége nem fedett."
+            ],
+            "ro": [
+              "Folosiți aplicația oficială 'peatus.ee' az orarul live al autobuzelor pe timp de ploaie.",
+              "Cumpărați biletele online în avans pentru a evita cozile în ploaie la șofer.",
+              "Trenul Tallinn-Kohila este foarte punctual și oferă un confort excelent.",
+              "Planificați conexiunile strâns, deoarece stațiile rurale adesea nu au acoperiș."
+            ],
+            "en": [
+              "Use the official 'peatus.ee' app for real-time bus tracking during rainy delays.",
+              "Purchase transit tickets online in advance to avoid standing in the rain at the bus door.",
+              "The Tallinn-Kohila train route is highly punctual and provides dry, comfortable travel.",
+              "Plan your connections tightly, as minor rural bus stops often lack weather shelters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Transit-Tour nutzt beheizte Züge und Busse. Wir starten am verschneiten Ortskern. Nach dem wärmenden Stopp in der Baptistenkirche bringt uns der Regionalbus zum Industriegebiet. Trotz Kälte fasziniert die Wassermühle, gefolgt vom Tohisoo-Cluster. Die Tour endet am verschneiten Kohila-Park.",
+            "hu": "A téli tömegközlekedési túra fűtött vonatokat és buszokat vesz igénybe. A havas városközpontban kezdünk. A baptista templomban tett melegedő után a helyközi busz az ipari negyedbe visz minket. A hideg ellenére lenyűgöző a vízimalom és a Tohisoo-kúria, a program a havas parknál zárul.",
+            "ro": "Traseul de iarnă cu transportul public folosește trenuri și autobuze bine încălzite. Începem în centrul înzăpezit. După popasul din biserică, autobuzul regional ne duce în zona industrială. În ciuda gerului, moara și conacul Tohisoo sunt superbe, iar parcul încheie ziua.",
+            "en": "The winter transit tour relies on well-heated trains and local buses. We start at the snowy town center. After warming up inside the Baptist church, a regional bus takes us to the industrial area. Despite the frost, the watermill and Tohisoo cluster delight before wrapping up at the park."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Town Center",
+              "tip_5lang": {
+                "de": "Warten Sie bei starkem Frost im beheizten Kiosk nahe der Station.",
+                "hu": "Nagy fagy esetén várjon a vasútállomás közeli fűtött kisboltban.",
+                "ro": "În caz de ger mare, așteptați în magazinul încălzit de lângă gară.",
+                "en": "In case of severe frost, wait inside the heated shop near the station."
+              }
+            },
+            {
+              "name": "Kohila Baptist Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneeglätte auf den Stufen vor dem Kircheneingang.",
+                "hu": "Vigyázzon a templom bejárati lépcsőire, amelyek télen csúszhatnak.",
+                "ro": "Atenție la treptele bisericii, pot fi acoperite cu gheață subțire.",
+                "en": "Watch out for packed snow on the steps leading into the church."
+              }
+            },
+            {
+              "name": "Cluster 2: Industrial Area",
+              "tip_5lang": {
+                "de": "Fahrpläne können bei starkem Schneefall leichte Verspätungen aufweisen.",
+                "hu": "A buszmenetrendben erős havazás esetén kisebb késések fordulhatnak elő.",
+                "ro": "Orarele pot înregistra întârzieri în caz de ninsoare abundentă.",
+                "en": "Bus schedules might experience minor delays during heavy snowfall."
+              }
+            },
+            {
+              "name": "Historic Watermill",
+              "tip_5lang": {
+                "de": "Der Weg zur Bushaltestelle ist ungeräumt; stapfen Sie vorsichtig.",
+                "hu": "A megállóhoz vezető út nincs letakarítva, óvatosan gázoljon a hóban.",
+                "ro": "Drumul spre stație nu e curățat; mergeți cu atenție prin zăpadă.",
+                "en": "The path to the bus stop is unplowed; tread carefully through the snow."
+              }
+            },
+            {
+              "name": "Cluster 3: Tohisoo Manor",
+              "tip_5lang": {
+                "de": "Haltestelle direkt an der Hauptstraße, windgeschützt aufstellen.",
+                "hu": "A buszmegálló a főúton van, keressen szélvédett pontot.",
+                "ro": "Stația se află pe drumul principal, adăpostiți-vă de vântul tăios.",
+                "en": "The stop is on the main road; stand clear of the biting headwind."
+              }
+            },
+            {
+              "name": "Kohila Park",
+              "tip_5lang": {
+                "de": "Der Bahnhof Kohila ist 15 Gehminuten entfernt; rechtzeitig aufbrechen.",
+                "hu": "A kohilai vasútállomás 15 perc séta, induljon el a vonat előtt időben.",
+                "ro": "Gara Kohila se află la 15 minute de mers; plecați din timp.",
+                "en": "Kohila train station is a 15-minute walk away; head back in good time."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Estnische Busse und Züge sind im Winter hervorragend geheizt; kleiden Sie sich im Zwiebellook.",
+              "Der Zugfahrplan von Elron bleibt auch bei Schnee stabil, Busse können sich verzögern.",
+              "Beachten Sie den frühen Sonnenuntergang um 15:45 Uhr bei der Planung der Rückfahrt.",
+              "Tragen Sie Reflektoren an der Kleidung, da unbeleuchtete Haltestellen im Dunkeln gefährlich sind."
+            ],
+            "hu": [
+              "Az észt buszok és vonatok kiválóan fűtöttek, javasolt a réteges öltözködés.",
+              "Az Elron vonatmenetrend hóban is stabil, de a helyi buszok késhetnek.",
+              "A korai, 15:45-ös naplemente miatt a délutáni buszokat gondosan válassza ki.",
+              "Viseljen láthatósági fényvisszaverőt, mert a sötét vidéki megállók beláthatatlanok."
+            ],
+            "ro": [
+              "Autobuzele și trenurile estone sunt foarte bine încălzite; îmbrăcați-vă în straturi.",
+              "Mersul trenurilor Elron rămâne stabil pe zăpadă, însă autobuzele pot întârzia.",
+              "Țineți cont de apusul devreme de la 15:45 atunci când programați întoarcerea.",
+              "Purtați elemente reflectorizante, deoarece stațiile rurale nu sunt iluminate noaptea."
+            ],
+            "en": [
+              "Estonian trains and buses are exceptionally well-heated; dress in adaptable layers.",
+              "The Elron train schedule remains reliable in snow, but regional buses can lag.",
+              "Mind the early 15:45 sunset when planning your late afternoon return transit.",
+              "Wear pedestrian safety reflectors, as unlit rural bus stops are hazardous in the dark."
+            ]
+          }
+        }
       }
     }
   }

@@ -395,6 +395,214 @@
           "Many small shops and cafes only accept cash (Forint).",
           "Check the museum's opening hours in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgenregen benetzt die Linden der Zsigmondy-Promenade. Ein kurzer Spaziergang unter dem Schirm führt zu den Kunstwerken im Park.\n\nMittags bieten die katholische und die reformierte Kirche trockene Zufluchtsorte mit beeindruckender Stille.\n\nDen Nachmittag verbringen Sie in den warmen Innenbecken des Harkányer Heilbades, während der Regen gegen die Fenster prasselt.\n\nDer Abend klingt bei einem Glas Villányer Rotwein in einem gemütlichen Restaurant im Kurviertel aus.",
+            "hu": "A reggeli eső a Zsigmondy-sétány hársfái alatt ér minket. Egy rövid ernyős séta során megtekintjük a park szobrait.\n\nDélben a katolikus és a református templomok csendes belső terei nyújtanak menedéket a csapadék elől.\n\nA délutánt a Harkányi Gyógyfürdő fedett medencéiben töltjük, élvezve a gyógyvizet, miközben kint esik.\n\nAz este a fürdőnegyed egyik barátságos éttermében zárul, ahol a közeli Villány vörösborai melengetik a hangulatot.",
+            "ro": "Ploaia de dimineață udă teii de pe promenada Zsigmondy. O scurtă plimbare cu umbrela ne permite să vedem statuile din parc.\n\nLa prânz, bisericile catolice și reformate oferă adăposturi liniștite împotriva precipitațiilor.\n\nDupă-amiaza este rezervată piscinelor interioare ale băilor termale din Harkány, savurând apa curativă în timp ce afară plouă.\n\nSeara se încheie într-un restaurant primitor din cartierul balnear, cu un pahar de vin roșu din regiunea Villány.",
+            "en": "Morning rain wets the linden trees of the Zsigmondy Promenade. A short umbrella walk reveals the park's sculptures.\n\nAt noon, the Catholic and Reformed churches provide quiet sanctuaries away from the rain.\n\nSpend the afternoon in the indoor pools of the Harkány Thermal Bath, enjoying the mineral water while it pours outside.\n\nThe evening concludes in a friendly restaurant in the spa district, warmed by red wines from nearby Villány."
+          },
+          "stops": [
+            {
+              "name": "Zsigmondy-sétány",
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen bieten nur begrenzten Schutz vor starkem Regen.",
+                "hu": "A sűrű lombok csak korlátozottan védenek az intenzív eső ellen.",
+                "ro": "Coroanele dese ale copacilor oferă protecție limitată împotriva ploii torențiale.",
+                "en": "The dense canopy provides only limited shelter from heavy rain."
+              }
+            },
+            {
+              "name": "Harka-kút",
+              "tip_5lang": {
+                "de": "Vorsicht, das Pflaster rund um den Brunnen kann bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a kút körüli burkolat nedvesen csúszós lehet.",
+                "ro": "Atenție, pavajul din jurul fântânii poate fi alunecos când este ud.",
+                "en": "Careful, the pavement around the fountain can be slippery when wet."
+              }
+            },
+            {
+              "name": "Szent Péter és Pál templom",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den Regen in Stille abzuwarten.",
+                "hu": "Ideális helyszín az eső csendes kivárására.",
+                "ro": "Un loc ideal pentru a aștepta trecerea ploii în liniște.",
+                "en": "An ideal spot to wait out the rain in silence."
+              }
+            },
+            {
+              "name": "Református templom",
+              "tip_5lang": {
+                "de": "Bewundern Sie die bemalte Kassettendecke im trockenen Innenraum.",
+                "hu": "Csodálja meg a festett kazettás mennyezetet a száraz belső térben.",
+                "ro": "Admirați tavanul cu casete pictate în interiorul uscat.",
+                "en": "Admire the painted cassette ceiling in the dry interior."
+              }
+            },
+            {
+              "name": "Múzeum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für die lokalen Ausstellungen im Trockenen.",
+                "hu": "Használja ki az időt a helyi kiállítások megtekintésére a szárazban.",
+                "ro": "Folosiți timpul pentru a vizita expozițiile locale la adăpost.",
+                "en": "Use the time to visit local exhibitions in the dry."
+              }
+            },
+            {
+              "name": "Gastro stop",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit überdachter Terrasse im Kurviertel.",
+                "hu": "Válasszon fedett teraszos éttermet a fürdőnegyedben.",
+                "ro": "Alegeți un restaurant cu terasă acoperită în cartierul balnear.",
+                "en": "Choose a restaurant with a covered terrace in the spa district."
+              }
+            },
+            {
+              "name": "Harkányi Gyógyfürdő",
+              "tip_5lang": {
+                "de": "Die überdachten Heilbecken sind perfekt für Regentage.",
+                "hu": "A fedett gyógymedencék tökéletesek esős napokra.",
+                "ro": "Piscinele curative acoperite sunt perfecte pentru zilele ploioase.",
+                "en": "The indoor medicinal pools are perfect for rainy days."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Harkány ist klein, die meisten Ziele sind mit dem Schirm schnell erreichbar.",
+              "Das Heilbad verfügt über einen großen Innenbereich, der bei Regen ideal ist.",
+              "Achten Sie auf das glatte Kopfsteinpflaster in der Nähe der Kirchen.",
+              "Viele Restaurants im Zentrum haben überdachte Eingänge.",
+              "Die Schwefelgase des Bades sind bei feuchtem Wetter intensiver wahrnehmbar."
+            ],
+            "hu": [
+              "Harkány kicsi, a legtöbb célpont esernyővel is gyorsan elérhető.",
+              "A gyógyfürdő hatalmas fedett részleggel rendelkezik, ami esőben ideális.",
+              "Ügyeljen a templomok környékén a sima kőburkolatra.",
+              "A központban számos étterem rendelkezik fedett belépővel.",
+              "A fürdő kénes gőzei párás időben intenzívebben érezhetőek."
+            ],
+            "ro": [
+              "Harkány este mic, majoritatea destinațiilor sunt rapid accesibile cu umbrela.",
+              "Băile termale au o secțiune interioară vastă, ideală pe ploaie.",
+              "Atenție la pavajul de piatră neted din jurul bisericilor.",
+              "Multe restaurante din centru au intrări acoperite.",
+              "Vaporii de sulf ai băii sunt mai intensi pe vreme umedă."
+            ],
+            "en": [
+              "Harkány is small; most destinations are quickly reachable with an umbrella.",
+              "The thermal bath has a large indoor section, which is ideal in the rain.",
+              "Watch out for smooth stone pavement around the churches.",
+              "Many restaurants in the center have covered entrances.",
+              "The bath's sulfurous vapors are more noticeable in humid weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen im Zsigmondy-Park mit seinen frostbedeckten Statuen lädt zum Verweilen ein.\n\nMittags bieten die Kirchen eine kurze Pause zum Aufwärmen und zur Besinnung.\n\nAm Nachmittag ist der aufsteigende Dampf des 34-38 Grad warmen Heilwassers im Außenbecken ein magisches Erlebnis.\n\nNach Sonnenuntergang lockt die festlich beleuchtete Hauptstraße zu einem herzhaften Abendessen.",
+            "hu": "A tiszta téli reggel a Zsigmondy-park zúzmarás szobrai között hívogat egy frissítő sétára.\n\nDélben a templomok belső terei kínálnak rövid pihenőt és lelki feltöltődést.\n\nDélután a 34-38 fokos gyógyvíz gőzölgése a kültéri medencékben varázslatos téli élmény.\n\nNaplemente után a díszkivilágításban pompázó főutca hívogat egy bőséges vacsorára.",
+            "ro": "O dimineață senină de iarnă printre statuile brumate din parcul Zsigmondy invită la o plimbare revigorantă.\n\nLa prânz, interioarele bisericilor oferă un scurt popas și relaxare spirituală.\n\nDupă-amiaza, aburul apei curative de 34-38 de grade din piscinele exterioare este o experiență magică.\n\nDupă apus, strada principală iluminată festiv vă invită la o cină copioasă.",
+            "en": "A crisp winter morning among the frost-covered statues of Zsigmondy Park invites a refreshing walk.\n\nAt noon, the church interiors offer a short break and spiritual refreshment.\n\nIn the afternoon, the steam rising from the 34-38 degree medicinal water in the outdoor pools is a magical experience.\n\nAfter sunset, the festively lit main street invites you for a hearty dinner."
+          },
+          "stops": [
+            {
+              "name": "Zsigmondy-sétány",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Laub auf den Wegen.",
+                "hu": "Vigyázzon az utakon lévő fagyott levelekre.",
+                "ro": "Atenție la frunzele înghețate de pe poteci.",
+                "en": "Watch out for frozen leaves on the paths."
+              }
+            },
+            {
+              "name": "Harka-kút",
+              "tip_5lang": {
+                "de": "Der Brunnen ist im Winter oft außer Betrieb, aber dennoch fotogen.",
+                "hu": "A kút télen gyakran nem üzemel, de így is fotogén.",
+                "ro": "Fântâna este adesea oprită iarna, dar rămâne fotogenică.",
+                "en": "The fountain is often out of service in winter, but still photogenic."
+              }
+            },
+            {
+              "name": "Szent Péter és Pál templom",
+              "tip_5lang": {
+                "de": "Im Inneren kann es recht kühl sein, behalten Sie den Mantel an.",
+                "hu": "Belül hűvös lehet, tartsa magán a kabátot.",
+                "ro": "Poate fi destul de răcoare în interior, păstrați haina pe dvs.",
+                "en": "It can be quite cool inside; keep your coat on."
+              }
+            },
+            {
+              "name": "Református templom",
+              "tip_5lang": {
+                "de": "Die schlichte Architektur wirkt im Winterlicht besonders rein.",
+                "hu": "A puritán építészet a téli fényben különösen letisztult.",
+                "ro": "Arhitectura puritană pare deosebit de clară în lumina iernii.",
+                "en": "The puritan architecture looks especially clean in the winter light."
+              }
+            },
+            {
+              "name": "Múzeum",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Ort für die Mittagsstunden.",
+                "hu": "Jól fűtött helyszín a déli órákra.",
+                "ro": "Un loc bine încălzit pentru orele prânzului.",
+                "en": "A well-heated location for the midday hours."
+              }
+            },
+            {
+              "name": "Gastro stop",
+              "tip_5lang": {
+                "de": "Probieren Sie heißen Tee oder Glühwein aus der Region.",
+                "hu": "Kóstoljon meg egy forró teát vagy helyi forralt bort.",
+                "ro": "Gustați un ceai fierbinte sau un vin fiert local.",
+                "en": "Try a hot tea or local mulled wine."
+              }
+            },
+            {
+              "name": "Harkányi Gyógyfürdő",
+              "tip_5lang": {
+                "de": "Der Dampf über den Außenbecken ist im Winter am schönsten.",
+                "hu": "A kültéri medencék feletti gőz télen a leglátványosabb.",
+                "ro": "Aburul de deasupra piscinelor exterioare este cel mai frumos iarna.",
+                "en": "The steam over the outdoor pools is most spectacular in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In Harkány geht die Sonne im Dezember bereits gegen 16:30 Uhr unter.",
+              "Die Außenbecken des Bades sind auch bei Minusgraden sehr angenehm.",
+              "Tragen Sie rutschfestes Schuhwerk für die Parkwege.",
+              "Die Museen haben im Winter oft verkürzte Öffnungszeiten.",
+              "Warme Kleidung ist für den Spaziergang zwischen Bad und Restaurant wichtig."
+            ],
+            "hu": [
+              "Harkányban decemberben már 16:30 körül lemegy a nap.",
+              "A fürdő kültéri medencéi fagypont alatt is rendkívül kellemesek.",
+              "Viseljen csúszásmentes lábbelit a parki utakra.",
+              "A múzeumok télen gyakran rövidített nyitvatartással üzemelnek.",
+              "A fürdő és az étterem közötti sétához fontos a réteges öltözet."
+            ],
+            "ro": [
+              "În Harkány, soarele apune deja în jur de ora 16:30 în decembrie.",
+              "Piscinele exterioare sunt foarte plăcute chiar și sub temperatura de îngheț.",
+              "Purtați încălțăminte antiderapantă pentru aleile din parc.",
+              "Muzeele au adesea program redus pe timpul iernii.",
+              "Îmbrăcămintea groasă este esențială pentru plimbarea între baie și restaurant."
+            ],
+            "en": [
+              "In Harkány, the sun sets as early as 16:30 in December.",
+              "The outdoor pools of the spa are very pleasant even in freezing temperatures.",
+              "Wear non-slip footwear for the park paths.",
+              "Museums often have shorter opening hours in winter.",
+              "Warm clothing is important for the walk between the bath and restaurants."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -768,6 +976,214 @@
           "A small backpack for water, snacks, and swimwear is recommended.",
           "Many hotels offer bicycle rental services."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Fahrt durch das regnerische Harkány beginnt. Die kurzen Distanzen halten die Nässe in Grenzen.\n\nMittags suchen wir Schutz in den Kirchen und im Museum, während die Fahrräder sicher geparkt sind.\n\nDer Nachmittag gehört dem Thermalbad, wo die Anspannung der nassen Fahrt im Wasser schwindet.\n\nAbends radeln wir vorsichtig zum Restaurant, die nassen Straßen glänzen im Licht.",
+            "hu": "Frissítő tekerés kezdődik az esős Harkányban. A rövid távolságok miatt az ázás mérsékelt marad.\n\nDélben a templomokban és a múzeumban keresünk menedéket, amíg a biciklik biztonságban pihennek.\n\nA délután a gyógyfürdőé, ahol a vizes út utáni fáradtság elszáll a meleg vízben.\n\nEste óvatosan gurulunk az étteremig, a vizes aszfalt csillog a fényekben.",
+            "ro": "O plimbare revigorantă prin Harkány-ul ploios începe. Distanțele scurte mențin umezeala la un nivel moderat.\n\nLa prânz căutăm adăpost în biserici și la muzeu, în timp ce bicicletele sunt parcate în siguranță.\n\nDupă-amiaza aparține băii termale, unde oboseala drumului umed dispare în apa caldă.\nSeara pedalăm cu atenție spre restaurant, asfaltul ud strălucind sub lumini.",
+            "en": "A refreshing ride starts in rainy Harkány. Short distances keep the soaking moderate.\n\nAt noon, we seek shelter in churches and the museum while the bikes rest safely.\n\nThe afternoon is for the thermal bath, where the fatigue of the wet ride fades in the warm water.\n\nIn the evening, we cycle carefully to the restaurant, the wet asphalt glistening under the lights."
+          },
+          "stops": [
+            {
+              "name": "Harka-kút",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf dem nassen Pflaster.",
+                "hu": "Vigyázzon a fékezéssel a nedves díszburkolaton.",
+                "ro": "Atenție la frânare pe pavajul umed.",
+                "en": "Be careful with braking on the wet pavement."
+              }
+            },
+            {
+              "name": "Szent Péter és Pál templom",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer in der Nähe des Eingangs.",
+                "hu": "Használja a bejárat közelében található kerékpártárolókat.",
+                "ro": "Folosiți suporturile de biciclete de lângă intrare.",
+                "en": "Use the bike racks located near the entrance."
+              }
+            },
+            {
+              "name": "Református templom",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Trockenen, bevor es weitergeht.",
+                "hu": "Rövid megálló a szárazban, mielőtt továbbindulna.",
+                "ro": "O scurtă oprire la adăpost înainte de a continua.",
+                "en": "A short stop in the dry before moving on."
+              }
+            },
+            {
+              "name": "Múzeum",
+              "tip_5lang": {
+                "de": "Ideale Pause, um die Regenkleidung kurz zu lüften.",
+                "hu": "Ideális szünet az esőruházat rövid szellőztetésére.",
+                "ro": "O pauză ideală pentru a aerisi puțin echipamentul de ploaie.",
+                "en": "Ideal break to briefly air out your rain gear."
+              }
+            },
+            {
+              "name": "Gastro stop",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz, von dem aus Sie Ihr Rad im Blick haben.",
+                "hu": "Keressen olyan helyet, ahonnan rálát a biciklijére.",
+                "ro": "Căutați un loc de unde vă puteți vedea bicicleta.",
+                "en": "Find a spot where you can keep an eye on your bike."
+              }
+            },
+            {
+              "name": "Zsigmondy-sétány",
+              "tip_5lang": {
+                "de": "Achten Sie auf nasses Laub, das die Wege rutschig macht.",
+                "hu": "Ügyeljen a nedves levelekre, amelyek csúszóssá teszik az utat.",
+                "ro": "Atenție la frunzele ude care fac aleile alunecoase.",
+                "en": "Watch out for wet leaves that make the paths slippery."
+              }
+            },
+            {
+              "name": "Harkányi Gyógyfürdő",
+              "tip_5lang": {
+                "de": "Sichere Fahrradabstellplätze direkt am Haupteingang.",
+                "hu": "Biztonságos kerékpártárolók közvetlenül a főbejáratnál.",
+                "ro": "Parcare sigură pentru biciclete chiar la intrarea principală.",
+                "en": "Safe bike storage right at the main entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Die weißen Straßenmarkierungen sind bei Nässe extrem rutschig.",
+              "Harkány ist flach, was das Radfahren bei Wind und Regen erleichtert.",
+              "Nehmen Sie ein Handtuch mit, um den Sattel nach den Stopps abzuwischen.",
+              "Wasserdichte Packtaschen sind für Einkäufe im Zentrum empfehlenswert."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "Az útburkolati jelek vizesen rendkívül csúszósak.",
+              "Harkány sík terület, ami megkönnyíti a tekerést szélben és esőben.",
+              "Vigyen magával törlőkendőt a nyereg letörléséhez megállók után.",
+              "A vízálló táska ajánlott a központban történő vásárlásokhoz."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi pentru a vă proteja de apă.",
+              "Marcajele rutiere sunt extrem de alunecoase când sunt ude.",
+              "Harkány este plat, ceea ce ușurează pedalatul pe vânt și ploaie.",
+              "Luați o cârpă pentru a șterge șaua după opriri.",
+              "O geantă impermeabilă este recomandată pentru cumpărăturile din centru."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from splashes.",
+              "Road markings are extremely slippery when wet.",
+              "Harkány is flat, which makes cycling easier in wind and rain.",
+              "Take a small towel to wipe the saddle after stops.",
+              "Waterproof bags are recommended for shopping in the center."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kalte Winterluft belebt bei der morgendlichen Fahrt durch den Zsigmondy-Park.\n\nMittags wärmen wir uns in den Kirchen auf, während das Rad draußen im frostigen Licht wartet.\n\nDer Nachmittag im Thermalbad ist die perfekte Belohnung für die winterliche Tour.\n\nVor der frühen Dunkelheit radeln wir zum Abendessen, die kühle Brise im Gesicht.",
+            "hu": "A hideg téli levegő felfrissít a reggeli tekerés során a Zsigmondy-parkon át.\n\nDélben a templomokban melegszünk fel, amíg a bicikli kint vár a fagyos fényben.\n\nA délután a gyógyfürdőben a tökéletes jutalom a télies túráért.\n\nA korai sötétedés előtt elgurulunk vacsorázni, arcunkban a hűvös széllel.",
+            "ro": "Aerul rece de iarnă revigorează în timpul plimbării de dimineață prin parcul Zsigmondy.\n\nLa prânz ne încălzim în biserici, în timp ce bicicleta așteaptă afară în lumina înghețată.\n\nDupă-amiaza la băile termale este recompensa perfectă pentru turul de iarnă.\n\nÎnainte de lăsarea întunericului pedalăm spre cină, cu briza rece în față.",
+            "en": "The cold winter air invigorates during the morning ride through Zsigmondy Park.\n\nAt noon, we warm up in the churches while the bike waits outside in the frosty light.\n\nThe afternoon at the thermal bath is the perfect reward for the wintry tour.\n\nBefore the early darkness, we cycle to dinner with the cool breeze on our faces."
+          },
+          "stops": [
+            {
+              "name": "Harka-kút",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisstellen im Schatten des Brunnens.",
+                "hu": "Vigyázzon a jeges foltokra a kút árnyékos oldalán.",
+                "ro": "Atenție la porțiunile înghețate din umbra fântânii.",
+                "en": "Watch out for icy patches in the shadow of the fountain."
+              }
+            },
+            {
+              "name": "Szent Péter és Pál templom",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Aufwärmen der Hände.",
+                "hu": "Rövid megálló a kezek felmelegítésére.",
+                "ro": "Scurt popas pentru încălzirea mâinilor.",
+                "en": "Short stop to warm up your hands."
+              }
+            },
+            {
+              "name": "Református templom",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher auf dem geräumigen Vorplatz ab.",
+                "hu": "Támassza le biztonságosan a biciklit a tágas előtéren.",
+                "ro": "Parcați bicicleta în siguranță pe platforma spațioasă din față.",
+                "en": "Park the bike safely on the spacious front area."
+              }
+            },
+            {
+              "name": "Múzeum",
+              "tip_5lang": {
+                "de": "In der Garderobe können Sie Helm und Handschuhe ablegen.",
+                "hu": "A ruhatárban leteheti a sisakot és a kesztyűt.",
+                "ro": "La garderobă puteți lăsa casca și mănușile.",
+                "en": "You can leave your helmet and gloves in the cloakroom."
+              }
+            },
+            {
+              "name": "Gastro stop",
+              "tip_5lang": {
+                "de": "Genießen Sie ein warmes Gericht, um die Körpertemperatur zu halten.",
+                "hu": "Fogyasszon meleg ételt a testhőmérséklet megőrzéséhez.",
+                "ro": "Consumați o mâncare caldă pentru a menține temperatura corpului.",
+                "en": "Eat a warm dish to maintain your body temperature."
+              }
+            },
+            {
+              "name": "Zsigmondy-sétány",
+              "tip_5lang": {
+                "de": "Bei Frost können die Holzbrücken sehr glatt sein.",
+                "hu": "Fagy esetén a fahidak nagyon csúszósak lehetnek.",
+                "ro": "În caz de îngheț, podurile de lemn pot fi foarte alunecoase.",
+                "en": "In case of frost, wooden bridges can be very slippery."
+              }
+            },
+            {
+              "name": "Harkányi Gyógyfürdő",
+              "tip_5lang": {
+                "de": "Verstauen Sie Ihre Wertsachen sicher in den Schließfächern.",
+                "hu": "Helyezze értékeit biztonságba az öltözőszekrényekben.",
+                "ro": "Puneți obiectele de valoare în siguranță în dulapurile de vestiar.",
+                "en": "Place your valuables safely in the lockers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe für die Fahrt.",
+              "Prüfen Sie die Beleuchtung, da es ab 16:00 Uhr dämmert.",
+              "Die Luftfeuchtigkeit in der Nähe des Bades kann bei Frost zu Reif führen.",
+              "Vermeiden Sie hektische Lenkbewegungen bei Bodenfrost.",
+              "Warme Schuhe sind für das Radfahren im Winter in Südungarn essenziell."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt a tekeréshez.",
+              "Ellenőrizze a világítást, mert 16:00-tól már szürkül.",
+              "A fürdő környéki pára fagy esetén zúzmarát okozhat az úton.",
+              "Kerülje a hirtelen kormánymozdulatokat talajmenti fagy esetén.",
+              "Meleg cipő elengedhetetlen a téli tekeréshez Dél-Magyarországon."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt pentru pedalat.",
+              "Verificați luminile, deoarece se înserează de la ora 16:00.",
+              "Umiditatea din jurul băii poate cauza chiciură pe drum în caz de îngheț.",
+              "Evitați mișcările bruște de ghidon în caz de îngheț la sol.",
+              "Încălțămintea călduroasă este esențială pentru pedalatul de iarnă."
+            ],
+            "en": [
+              "Wear windproof gloves for the ride.",
+              "Check your lights as it starts getting dark from 16:00.",
+              "Humidity near the bath can cause frost on the road in freezing weather.",
+              "Avoid sudden steering movements in case of ground frost.",
+              "Warm shoes are essential for winter cycling in Southern Hungary."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1118,6 +1534,196 @@
           "Designate a driver if you are planning a wine tasting in Villány.",
           "The roads between the towns are well-maintained."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Tour beginnt bei der Burg Siklós, deren dicke Mauern perfekten Schutz vor Regen bieten.\n\nNach dem Burgbesuch fahren wir zurück nach Harkány für einen kurzen Stopp an den Denkmälern.\n\nMittags genießen wir ein entspanntes Essen, bevor wir den Nachmittag im warmen Thermalwasser verbringen.\n\nZum Abschluss führt eine kurze Fahrt nach Villány für eine Weinprobe im Trockenen.",
+            "hu": "A túra a Siklósi Várnál kezdődik, melynek vastag falai tökéletes védelmet nyújtanak az eső ellen.\n\nA várlátogatás után visszahajtunk Harkányba a szobrok megtekintésére.\n\nDélben egy kényelmes ebédet fogyasztunk, majd a délutánt a meleg gyógyvízben töltjük.\n\nZárásként egy rövid autózás vár ránk Villányba egy száraz helyen zajló borkóstolóra.",
+            "ro": "Turul începe la Castelul Siklós, ale cărui ziduri groase oferă protecție perfectă împotriva ploii.\n\nDupă vizitarea castelului, ne întoarcem la Harkány pentru a vedea monumentele.\n\nLa prânz savurăm o masă relaxată, apoi petrecem după-amiaza în apa termală caldă.\n\nLa final, ne așteaptă o scurtă călătorie spre Villány pentru o degustare de vinuri la adăpost.",
+            "en": "The tour starts at Siklós Castle, whose thick walls offer perfect protection from the rain.\n\nAfter the castle visit, we drive back to Harkány to view the monuments.\n\nAt noon, we enjoy a relaxed lunch, then spend the afternoon in the warm mineral water.\n\nFinally, a short drive takes us to Villány for a wine tasting in a dry cellar."
+          },
+          "stops": [
+            {
+              "name": "Siklósi Vár",
+              "tip_5lang": {
+                "de": "Die Innenausstellungen und die Burgkapelle sind ideal bei Regen.",
+                "hu": "A belső kiállítások és a várkápolna ideálisak esőben.",
+                "ro": "Expozițiile interioare și capela castelului sunt ideale pe ploaie.",
+                "en": "The indoor exhibitions and the castle chapel are ideal in the rain."
+              }
+            },
+            {
+              "name": "Harka-kút",
+              "tip_5lang": {
+                "de": "Parkplätze finden Sie in der Nähe der Post.",
+                "hu": "Parkolóhelyet a posta közelében találhat.",
+                "ro": "Puteți găsi locuri de parcare în apropierea poștei.",
+                "en": "You can find parking spots near the post office."
+              }
+            },
+            {
+              "name": "Zsigmondy-sétány",
+              "tip_5lang": {
+                "de": "Ein kurzer, regnerischer Gang vom Parkplatz zum Denkmal.",
+                "hu": "Rövid, esős séta a parkolótól a szoborig.",
+                "ro": "O scurtă plimbare prin ploaie de la parcare la monument.",
+                "en": "A short, rainy walk from the parking lot to the monument."
+              }
+            },
+            {
+              "name": "Gastro stop",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit eigenem Parkplatz.",
+                "hu": "Válasszon saját parkolóval rendelkező éttermet.",
+                "ro": "Alegeți un restaurant cu parcare proprie.",
+                "en": "Choose a restaurant with its own parking lot."
+              }
+            },
+            {
+              "name": "Harkányi Gyógyfürdő",
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz am Osteingang.",
+                "hu": "Használja a keleti bejáratnál lévő nagy parkolót.",
+                "ro": "Folosiți parcarea mare de la intrarea de est.",
+                "en": "Use the large parking lot at the east entrance."
+              }
+            },
+            {
+              "name": "Villány gastro",
+              "tip_5lang": {
+                "de": "Die Weinkeller in Villány sind perfekt, um dem Regen zu entfliehen.",
+                "hu": "A villányi borospincék tökéletesek az eső elől való menekülésre.",
+                "ro": "Cramele din Villány sunt perfecte pentru a scăpa de ploaie.",
+                "en": "Villány wine cellars are perfect for escaping the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straße zwischen Siklós und Harkány ist gut ausgebaut.",
+              "Parkplätze direkt am Bad sind bei Regen oft schnell belegt.",
+              "Siklós bietet viele überdachte historische Sehenswürdigkeiten.",
+              "Achten Sie auf Pfützen in den tiefer gelegenen Parkbereichen.",
+              "In Villány können Sie Ihr Auto direkt vor vielen Kellern parken."
+            ],
+            "hu": [
+              "A Siklós és Harkány közötti út jól karbantartott.",
+              "A fürdő közvetlen közelében lévő parkolók esőben gyorsan betelnek.",
+              "Siklós számos fedett történelmi látnivalót kínál.",
+              "Ügyeljen a tócsákra az alacsonyabban fekvő parkolóhelyeken.",
+              "Villányban számos pince előtt közvetlenül megállhat autóval."
+            ],
+            "ro": [
+              "Drumul dintre Siklós și Harkány este bine întreținut.",
+              "Parcările de lângă baie se ocupă repede când plouă.",
+              "Siklós oferă multe atracții istorice acoperite.",
+              "Atenție la bălțile din zonele de parcare mai joase.",
+              "În Villány puteți opri cu mașina direct în fața multor crame."
+            ],
+            "en": [
+              "The road between Siklós and Harkány is well-maintained.",
+              "Parking lots right next to the bath fill up quickly in the rain.",
+              "Siklós offers many covered historical sights.",
+              "Watch out for puddles in lower-lying parking areas.",
+              "In Villány, you can park right in front of many wine cellars."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag beginnt in der beheizten Atmosphäre der Burg Siklós.\n\nNach der Geschichte fahren wir zum winterlichen Harkány, wo die Luft klar und frisch ist.\n\nMittags genießen wir regionale Spezialitäten in einem warmen Gasthaus.\n\nDen Nachmittag verbringen wir im dampfenden Heilwasser, bevor wir im Dunkeln nach Villány weiterfahren.",
+            "hu": "A téli nap a Siklósi Vár fűtött tereiben indul.\n\nA történelem után a téli Harkányba hajtunk, ahol a levegő tiszta és friss.\n\nDélben regionális specialitásokat kóstolunk egy meleg vendéglőben.\n\nA délutánt a gőzölgő gyógyvízben töltjük, majd sötétedés után Villányba utazunk tovább.",
+            "ro": "Ziua de iarnă începe în spațiile încălzite ale Castelului Siklós.\n\nDupă istorie, conducem spre Harkány-ul hibernal, unde aerul este curat și proaspăt.\n\nLa prânz gustăm specialități regionale într-un restaurant călduros.\n\nPetrecem după-amiaza în apa termală aburindă, apoi continuăm spre Villány după lăsarea întunericului.",
+            "en": "The winter day starts in the heated spaces of Siklós Castle.\n\nAfter history, we drive to wintry Harkány, where the air is clear and fresh.\n\nAt noon, we taste regional specialties in a warm inn.\n\nSpend the afternoon in the steaming mineral water, then continue to Villány after dark."
+          },
+          "stops": [
+            {
+              "name": "Siklósi Vár",
+              "tip_5lang": {
+                "de": "Die Burg ist auch im Winter für Besucher geöffnet.",
+                "hu": "A vár télen is várja a látogatókat.",
+                "ro": "Castelul este deschis pentru vizitatori și iarna.",
+                "en": "The castle is open for visitors in winter as well."
+              }
+            },
+            {
+              "name": "Harka-kút",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, bevor es zurück ins warme Auto geht.",
+                "hu": "Rövid fotómegálló, mielőtt visszatérne a meleg autóba.",
+                "ro": "Scurt popas foto înainte de a reveni în mașina caldă.",
+                "en": "Short photo stop before returning to the warm car."
+              }
+            },
+            {
+              "name": "Zsigmondy-sétány",
+              "tip_5lang": {
+                "de": "Die Parkwege werden bei Schneefall geräumt.",
+                "hu": "Hóesés esetén a parki utakat takarítják.",
+                "ro": "În caz de ninsoare, aleile din parc sunt curățate.",
+                "en": "Park paths are cleared in case of snowfall."
+              }
+            },
+            {
+              "name": "Gastro stop",
+              "tip_5lang": {
+                "de": "Genießen Sie den Komfort eines beheizten Gastraums.",
+                "hu": "Élvezze a fűtött vendégtér kényelmét.",
+                "ro": "Bucurați-vă de confortul unei săli de mese încălzite.",
+                "en": "Enjoy the comfort of a heated dining area."
+              }
+            },
+            {
+              "name": "Harkányi Gyógyfürdő",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter meist direkt vor dem Eingang frei.",
+                "hu": "A parkoló télen általában közvetlenül a bejáratnál szabad.",
+                "ro": "Parcarea este de obicei liberă chiar la intrare pe timpul iernii.",
+                "en": "Parking is usually available right at the entrance in winter."
+              }
+            },
+            {
+              "name": "Villány gastro",
+              "tip_5lang": {
+                "de": "Die Weinkeller bieten eine konstante, angenehme Temperatur.",
+                "hu": "A borospincék állandó, kellemes hőmérsékletet biztosítanak.",
+                "ro": "Cramele oferă o temperatură constantă și plăcută.",
+                "en": "Wine cellars offer a constant, pleasant temperature."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie vor der Fahrt nach Villány die Straßenverhältnisse.",
+              "Die Heizung im Auto sorgt für Komfort zwischen den Sehenswürdigkeiten.",
+              "Winterreifen sind in dieser hügeligen Region (Siklós/Villány) ratsam.",
+              "Nutzen Sie die Parkplätze direkt vor den Weinkellern in Villány.",
+              "Die Burg Siklós ist im Winter weniger überlaufen."
+            ],
+            "hu": [
+              "Villány felé menet ellenőrizze az útviszonyokat.",
+              "Az autó fűtése kényelmet biztosít a látnivalók között.",
+              "A téli gumi ajánlott ezen a dombos vidéken (Siklós/Villány).",
+              "Használja a közvetlenül a pincék előtti parkolókat Villányban.",
+              "A Siklósi Vár télen kevésbé zsúfolt."
+            ],
+            "ro": [
+              "Verificați condițiile rutiere înainte de a pleca spre Villány.",
+              "Încălzirea mașinii asigură confort între atracții.",
+              "Anvelopele de iarnă sunt recomandate în această zonă deluroasă.",
+              "Folosiți parcările direct din fața cramelor din Villány.",
+              "Castelul Siklós este mai puțin aglomerat iarna."
+            ],
+            "en": [
+              "Check road conditions before heading to Villány.",
+              "The car's heating provides comfort between sights.",
+              "Winter tires are recommended in this hilly region.",
+              "Use the parking spots directly in front of the cellars in Villány.",
+              "Siklós Castle is less crowded in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1491,6 +2097,214 @@
           "Bring small change for bus tickets if you want to use a local bus.",
           "A day trip from Pécs is very feasible."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nach der Ankunft am Busbahnhof führt ein kurzer, regnerischer Weg zu den Sehenswürdigkeiten.\n\nMittags verbringen wir die Zeit in den Kirchen und im Museum, um trocken zu bleiben.\n\nDer Nachmittag im Thermalbad lässt uns das graue Wetter draußen vergessen.\n\nAbends nehmen wir den Bus zurück, während der Regen gegen die Busscheiben trommelt.",
+            "hu": "Az autóbusz-állomásra való érkezés után rövid, esős út vezet a látnivalókhoz.\n\nDélben a templomokban és a múzeumban töltjük az időt, hogy szárazon maradjunk.\n\nA délután a gyógyfürdőben elfeledteti velünk a kinti szürke időt.\n\nEste busszal indulunk vissza, miközben az eső a busz ablakán kopog.",
+            "ro": "După sosirea la autogară, un scurt drum prin ploaie ne duce la atracții.\n\nLa prânz petrecem timpul în biserici și la muzeu pentru a rămâne uscați.\n\nDupă-amiaza la băile termale ne face să uităm de vremea gri de afară.\n\nSeara plecăm înapoi cu autobuzul, în timp ce ploaia bate în geamurile acestuia.",
+            "en": "After arriving at the bus station, a short rainy walk leads to the sights.\n\nAt noon, we spend time in churches and the museum to stay dry.\n\nThe afternoon at the thermal bath makes us forget the gray weather outside.\n\nIn the evening, we take the bus back as the rain taps on the windows."
+          },
+          "stops": [
+            {
+              "name": "Bus station",
+              "tip_5lang": {
+                "de": "Überdachte Wartebereiche sind am Busbahnhof vorhanden.",
+                "hu": "Fedett váróhelyiségek állnak rendelkezésre az állomáson.",
+                "ro": "În autogară sunt disponibile zone de așteptare acoperite.",
+                "en": "Covered waiting areas are available at the station."
+              }
+            },
+            {
+              "name": "Szent Péter és Pál templom",
+              "tip_5lang": {
+                "de": "Nur 5 Gehminuten von der Bushaltestelle entfernt.",
+                "hu": "Csak 5 perc séta a buszmegállótól.",
+                "ro": "La doar 5 minute de mers pe jos de stația de autobuz.",
+                "en": "Only a 5-minute walk from the bus stop."
+              }
+            },
+            {
+              "name": "Múzeum",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Zeit bis zum nächsten Bus trocken zu verbringen.",
+                "hu": "Jó helyszín a következő buszig tartó idő száraz eltöltésére.",
+                "ro": "Un loc bun pentru a petrece timpul până la următorul autobuz.",
+                "en": "A good place to spend time dry until the next bus."
+              }
+            },
+            {
+              "name": "Harka-kút",
+              "tip_5lang": {
+                "de": "Zentraler Orientierungspunkt in der Nähe der Haltestellen.",
+                "hu": "Központi tájékozódási pont a megállók közelében.",
+                "ro": "Punct central de orientare în apropierea stațiilor.",
+                "en": "Central orientation point near the stops."
+              }
+            },
+            {
+              "name": "Gastro stop",
+              "tip_5lang": {
+                "de": "Viele Restaurants liegen direkt an der Hauptroute der Busse.",
+                "hu": "Számos étterem közvetlenül a buszok fő útvonala mentén található.",
+                "ro": "Multe restaurante se află direct pe ruta principală a autobuzelor.",
+                "en": "Many restaurants are located directly along the main bus route."
+              }
+            },
+            {
+              "name": "Zsigmondy-sétány",
+              "tip_5lang": {
+                "de": "Kürzen Sie den Weg durch den Park bei starkem Regen ab.",
+                "hu": "Erős eső esetén rövidítse le az utat a parkon keresztül.",
+                "ro": "Scurtați drumul prin parc în caz de ploaie torențială.",
+                "en": "Shorten the path through the park in case of heavy rain."
+              }
+            },
+            {
+              "name": "Harkányi Gyógyfürdő",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Harkány, gyógyfürdő' ist direkt am Eingang.",
+                "hu": "A 'Harkány, gyógyfürdő' megálló közvetlenül a bejáratnál van.",
+                "ro": "Stația 'Harkány, gyógyfürdő' este chiar la intrare.",
+                "en": "The 'Harkány, gyógyfürdő' stop is right at the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Überlandbusse zwischen Pécs und Harkány fahren häufig.",
+              "Die Wartebereiche im Zentrum bieten begrenzten Regenschutz.",
+              "Informieren Sie sich über die Echtzeit-Abfahrten per App.",
+              "Das Ticket kann beim Fahrer oft nur bar bezahlt werden.",
+              "Harkány ist kompakt, die Busstation liegt sehr zentral."
+            ],
+            "hu": [
+              "A Pécs és Harkány közötti távolsági buszok gyakran járnak.",
+              "A központi váróhelyek korlátozott védelmet nyújtanak esőben.",
+              "Tájékozódjon a valós idejű indulásokról alkalmazás segítségével.",
+              "A jegyért a sofőrnél gyakran csak készpénzzel lehet fizetni.",
+              "Harkány kompakt, az autóbusz-állomás nagyon központi helyen van."
+            ],
+            "ro": [
+              "Autobuzele dintre Pécs și Harkány circulă frecvent.",
+              "Zonele de așteptare centrale oferă protecție limitată la ploaie.",
+              "Informați-vă despre plecările în timp real prin aplicație.",
+              "Biletul la șofer poate fi plătit adesea doar cu numerar.",
+              "Harkány este compact, autogara este situată foarte central."
+            ],
+            "en": [
+              "Intercity buses between Pécs and Harkány run frequently.",
+              "Central waiting areas offer limited rain protection.",
+              "Check real-time departures using a transit app.",
+              "Tickets from the driver often can only be paid in cash.",
+              "Harkány is compact; the bus station is very centrally located."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ankunft im winterlichen Harkány, die klare Luft weht am Busbahnhof.\n\nMittags bieten die Kirchen und das Museum warme Rückzugsorte.\n\nDer Nachmittag im Thermalbad ist der Höhepunkt, bevor wir uns auf den Rückweg zum Bus machen.\n\nAbends warten wir im beleuchteten Zentrum auf die Heimfahrt.",
+            "hu": "Érkezés a téli Harkányba, a tiszta levegő fogad az autóbusz-állomáson.\n\nDélben a templomok és a múzeum kínálnak meleg menedéket.\n\nA délutáni gyógyfürdőzés a nap fénypontja, mielőtt visszaindulnánk a buszhoz.\n\nEste a kivilágított központban várjuk a hazautazást.",
+            "ro": "Sosire în Harkány-ul de iarnă, aerul curat ne întâmpină la autogară.\n\nLa prânz, bisericile și muzeul oferă refugii călduroase.\n\nBaia termală de după-amiază este punctul culminant al zilei înainte de întoarcerea la autobuz.\n\nSeara așteptăm călătoria spre casă în centrul iluminat.",
+            "en": "Arrival in wintry Harkány, clear air greets us at the bus station.\n\nAt noon, churches and the museum offer warm retreats.\n\nThe afternoon spa visit is the highlight before heading back to the bus.\n\nIn the evening, we wait for the ride home in the illuminated center."
+          },
+          "stops": [
+            {
+              "name": "Bus station",
+              "tip_5lang": {
+                "de": "Im Wartesaal ist es meist angenehm warm.",
+                "hu": "A váróteremben általában kellemesen meleg van.",
+                "ro": "În sala de așteptare este de obicei plăcut de cald.",
+                "en": "The waiting room is usually pleasantly warm."
+              }
+            },
+            {
+              "name": "Szent Péter és Pál templom",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang zum Aufwärmen nach der Busfahrt.",
+                "hu": "Rövid séta a buszút utáni felfrissüléshez.",
+                "ro": "O scurtă plimbare pentru revigorare după drumul cu autobuzul.",
+                "en": "A short walk to refresh after the bus ride."
+              }
+            },
+            {
+              "name": "Múzeum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Zeit bis zur Abfahrt im Warmen zu verbringen.",
+                "hu": "Tökéletes helyszín az indulásig tartó idő melegben való eltöltésére.",
+                "ro": "Locul perfect pentru a petrece timpul până la plecare la căldură.",
+                "en": "Perfect place to spend time in the warm until departure."
+              }
+            },
+            {
+              "name": "Harka-kút",
+              "tip_5lang": {
+                "de": "Im Winterlicht ein schönes Fotomotiv.",
+                "hu": "A téli fényekben szép fotótéma.",
+                "ro": "Un subiect frumos pentru fotografii în lumina iernii.",
+                "en": "A nice photo subject in the winter light."
+              }
+            },
+            {
+              "name": "Gastro stop",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Café für ein heißes Getränk vor der Abfahrt.",
+                "hu": "Keressen egy kávézót egy forró italra indulás előtt.",
+                "ro": "Căutați o cafenea pentru o băutură caldă înainte de plecare.",
+                "en": "Find a café for a hot drink before departure."
+              }
+            },
+            {
+              "name": "Zsigmondy-sétány",
+              "tip_5lang": {
+                "de": "Die Wege sind im Winter gut begehbar.",
+                "hu": "Az utak télen is jól járhatóak.",
+                "ro": "Aleile sunt ușor practicabile și iarna.",
+                "en": "The paths are easily walkable in winter."
+              }
+            },
+            {
+              "name": "Harkányi Gyógyfürdő",
+              "tip_5lang": {
+                "de": "Die letzte Busverbindung sollte man im Auge behalten.",
+                "hu": "Az utolsó buszjáratot érdemes szem előtt tartani.",
+                "ro": "Merită să aveți în vedere ultima cursă de autobuz.",
+                "en": "It's worth keeping an eye on the last bus service."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse nach Pécs fahren auch im Winter bis spät am Abend.",
+              "Die Wartehallen bieten Schutz vor Wind und Kälte.",
+              "Planen Sie genug Zeit für den Weg zum Busbahnhof ein.",
+              "Im Winter sind die Busse oft gut beheizt.",
+              "Fahrpläne können an Feiertagen abweichen."
+            ],
+            "hu": [
+              "A Pécsre tartó buszok télen is késő estig járnak.",
+              "A várótermek védelmet nyújtanak a szél és a hideg ellen.",
+              "Tervezzen elég időt az autóbusz-állomásig tartó útra.",
+              "Télen a buszok általában jól fűtöttek.",
+              "Az ünnepnapokon a menetrend eltérő lehet."
+            ],
+            "ro": [
+              "Autobuzele spre Pécs circulă până târziu în noapte și iarna.",
+              "Sălile de așteptare oferă protecție împotriva vântului și frigului.",
+              "Planificați destul timp pentru drumul spre autogară.",
+              "Iarna, autobuzele sunt de obicei bine încălzite.",
+              "Programul poate fi diferit în zilele de sărbătoare."
+            ],
+            "en": [
+              "Buses to Pécs run until late evening even in winter.",
+              "Waiting rooms provide protection from wind and cold.",
+              "Plan enough time for the walk to the bus station.",
+              "In winter, buses are usually well-heated.",
+              "Schedules may vary on public holidays."
+            ]
+          }
+        }
       }
     }
   }

@@ -338,6 +338,188 @@
           "Check the museum's opening hours in advance.",
           "Have a camera ready to capture the unique industrial architecture."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Rathaus von Ruda Śląska, wo das Kopfsteinpflaster im Regen glänzt. Mittags bietet die monumentale St.-Joseph-Kirche einen trockenen Rückzugsort mit beeindruckender Backsteinarchitektur. Den Nachmittag verbringen wir ausgiebig im Museum der Volksrepublik Polen, das perfekte Indoor-Programm. Der Tag endet am Mikołaj-Schacht, dessen Förderturm im grauen Regenwetter besonders nostalgisch wirkt.",
+            "hu": "A nap a városházánál indul, ahol az esőben csillogó főtér melankolikus hangulatot áraszt. Délben a Szent József-templom monumentális téglafala nyújt menedéket a csapadék elől. A délutánt a PRL Múzeum fedett kiállításai között töltjük, ami ideális esős időre. Az utat a Mikołaj-akna zárja, amelynek ipari sziluettje a szitáló esőben idézi meg leginkább a bányász múltat.",
+            "ro": "Ziua începe la Primăria din Ruda Śląska, cu trotuarele lucind sub ploaie. La prânz, biserica Sf. Iosif oferă un refugiu uscat și o atmosferă liniștită între zidurile sale de cărămidă. După-amiaza este rezervată Muzeului Republicii Populare Polone, o opțiune excelentă de interior. Turul se încheie la Puțul Mikołaj, unde silueta industrială capătă un aer dramatic în lumina difuză a unei zile ploioase.",
+            "en": "The day starts at the Town Hall, with the square reflecting the rainy sky. By noon, St. Joseph's Church provides a dry sanctuary and a chance to admire Silesian brickwork. The afternoon is best spent inside the Museum of the Polish People's Republic, escaping the weather. We finish at the Mikołaj Shaft, where the industrial tower looks particularly evocative against the grey, misty backdrop."
+          },
+          "stops": [
+            {
+              "name": "Ruda Śląska Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich für den ersten Überblick.",
+                "hu": "Használja a fedett bejárati részt a térkép tanulmányozásához.",
+                "ro": "Folosiți intrarea acoperită pentru a consulta harta orașului.",
+                "en": "Use the covered entrance area to check your map and route."
+              }
+            },
+            {
+              "name": "Aeskulap Pharmacy",
+              "tip_5lang": {
+                "de": "Die historischen Arkaden bieten Schutz vor kurzen Schauern.",
+                "hu": "A történelmi épület eresze alatt megvárhatja az eső végét.",
+                "ro": "Puteți aștepta trecerea ploii sub streașina clădirii istorice.",
+                "en": "Wait out short showers under the eaves of this historic building."
+              }
+            },
+            {
+              "name": "St. Joseph's Church",
+              "tip_5lang": {
+                "de": "Ideal, um die Ruhe im Inneren zu genießen, während es draußen regnet.",
+                "hu": "Ideális hely a belső csend élvezetére, amíg odakint esik.",
+                "ro": "Loc perfect pentru a admira interiorul cât timp plouă afară.",
+                "en": "Perfect time to enjoy the quiet interior while it rains outside."
+              }
+            },
+            {
+              "name": "Ficinus workers' settlement",
+              "tip_5lang": {
+                "de": "Das Informationszentrum in einem der Backsteinhäuser ist beheizt.",
+                "hu": "Az egyik téglaépületben található információs központ fűtött.",
+                "ro": "Centrul de informare dintr-o casă de cărămidă este încălzit.",
+                "en": "The visitor center in one of the brick houses is heated and dry."
+              }
+            },
+            {
+              "name": "Museum of the Polish People's Republic",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, da die meisten Exponate überdacht sind.",
+                "hu": "Töltsön itt több időt, a legtöbb kiállítás fedett csarnokokban van.",
+                "ro": "Petreceți mai mult timp aici, majoritatea exponatelor sunt la adăpost.",
+                "en": "Plan for a longer stay as most exhibits are under cover."
+              }
+            },
+            {
+              "name": "Mikołaj Shaft",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen auf dem unbefestigten Gelände um den Schacht.",
+                "hu": "Vigyázzon a tócsákra az akna körüli burkolatlan talajon.",
+                "ro": "Atenție la bălți pe terenul neasfaltat din jurul puțului.",
+                "en": "Watch out for puddles on the unpaved ground around the shaft."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei den böigen Winden in Oberschlesien wichtig.",
+              "Die Wege zwischen den Schächten können bei Regen matschig sein; festes Schuhwerk wählen.",
+              "Nutzen Sie die Kirchen und Museen als taktische Pausenorte im Trockenen.",
+              "Die öffentlichen Gebäude rund um das Rathaus bieten gute Unterstellmöglichkeiten."
+            ],
+            "hu": [
+              "A sziléziai szélben egy erős esernyő vagy vízhatlan kabát elengedhetetlen.",
+              "Az ipari területek közötti utak sárgásak lehetnek, válasszon vízálló cipőt.",
+              "Használja ki a templomok és múzeumok adta menedéket a záporok idején.",
+              "A városháza környékén több árkádos épület is alkalmas rövid várakozásra."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este necesară din cauza vântului din Silezia de Sus.",
+              "Potecile dintre siturile industriale pot deveni noroioase; purtați încălțăminte adecvată.",
+              "Folosiți bisericile și muzeele ca puncte tactice de odihnă la uscat.",
+              "Clădirile publice din jurul primăriei oferă locuri bune de adăpost temporar."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to gusty Upper Silesian winds.",
+              "Paths between industrial sites can get muddy; wear waterproof boots.",
+              "Use churches and museums as tactical stops to stay dry during downpours.",
+              "The public buildings around the Town Hall offer several sheltered spots."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Rathaus, wo der Raureif die Denkmäler ziert. Mittags wärmen wir uns in der St.-Joseph-Kirche auf, bevor es zur Arbeitersiedlung Ficinus geht, die unter Schnee besonders gemütlich wirkt. Der Nachmittag im Museum bietet Schutz vor der Kälte. Wenn die Dunkelheit gegen 16 Uhr hereinbricht, leuchtet der Mikołaj-Schacht eindrucksvoll unter dem Winterhimmel.",
+            "hu": "Deres reggel a városházánál, ahol a zúzmara díszíti a szobrokat. Délben a Szent József-templomban melegszünk fel, majd a Ficinus-lakótelep hófödte téglaházai között sétálunk. A délutáni múzeumlátogatás védelmet nyújt a metsző szél ellen. Amikor 16 óra körül leszáll az est, a Mikołaj-akna fényei különleges hangulatot árasztanak a téli éjszakában.",
+            "ro": "O dimineață geroasă la Primărie, cu bruma acoperind monumentele locale. La prânz ne încălzim în biserica Sf. Iosif înainte de a vizita colonia Ficinus, care arată pitoresc sub zăpadă. După-amiaza la muzeu oferă protecție împotriva frigului tăios. Pe măsură ce întunericul cade la ora 16, Puțul Mikołaj este iluminat spectaculos sub cerul de iarnă.",
+            "en": "A frosty morning at the Town Hall, with rime ice coating the local monuments. By noon, we warm up in St. Joseph's Church before heading to the Ficinus settlement, which looks cozy under a blanket of snow. The afternoon museum visit provides a welcome break from the cold. As darkness falls around 4 PM, the Mikołaj Shaft stands out beautifully against the winter sky."
+          },
+          "stops": [
+            {
+              "name": "Ruda Śląska Town Hall",
+              "tip_5lang": {
+                "de": "Achten Sie auf glatte Stellen auf dem Marktplatz am frühen Morgen.",
+                "hu": "Kora reggel vigyázzon a jeges foltokra a városháza előtti téren.",
+                "ro": "Atenție la porțiunile înghețate din piața primăriei dimineața devreme.",
+                "en": "Watch out for icy patches on the square during the early morning."
+              }
+            },
+            {
+              "name": "Aeskulap Pharmacy",
+              "tip_5lang": {
+                "de": "Bewundern Sie die winterliche Architektur der Jahrhundertwende.",
+                "hu": "Csodálja meg a századfordulós épület téli, deres homlokzatát.",
+                "ro": "Admirați arhitectura de la începutul secolului sub mantia de iarnă.",
+                "en": "Admire the winter charm of this turn-of-the-century architecture."
+              }
+            },
+            {
+              "name": "St. Joseph's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorraum, um sich kurz vor dem Wind zu schützen.",
+                "hu": "Használja a templom előterét, hogy megpihenjen a hideg szél elől.",
+                "ro": "Folosiți vestibulul pentru a vă adăposti scurt de vântul tăios.",
+                "en": "Use the church vestibule for a brief respite from the biting wind."
+              }
+            },
+            {
+              "name": "Ficinus workers' settlement",
+              "tip_5lang": {
+                "de": "Die Sandsteinhäuser speichern die Kälte; halten Sie sich in Bewegung.",
+                "hu": "A homokkő házak ontják a hideget; maradjon folyamatosan mozgásban.",
+                "ro": "Casele din gresie rețin frigul; rămâneți în mișcare pe parcursul vizitei.",
+                "en": "The sandstone houses retain the cold; keep moving during your walk."
+              }
+            },
+            {
+              "name": "Museum of the Polish People's Republic",
+              "tip_5lang": {
+                "de": "Die Innenräume sind beheizt und bieten eine perfekte Aufwärmpause.",
+                "hu": "A belső terek fűtöttek, tökéletes hely a felmelegedésre.",
+                "ro": "Spațiile interioare sunt încălzite, oferind o pauză de încălzire ideală.",
+                "en": "Indoor sections are heated, offering a perfect mid-afternoon warm-up."
+              }
+            },
+            {
+              "name": "Mikołaj Shaft",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 16:00 Uhr, um noch Tageslicht zu haben.",
+                "hu": "Látogasson el ide 16:00 előtt, hogy még lásson valamit a napfényben.",
+                "ro": "Vizitați acest loc înainte de ora 16:00 pentru a profita de lumină.",
+                "en": "Visit this site before 4 PM to catch the last of the daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In Schlesien kann es im Winter sehr windig sein; Windstopper-Kleidung empfohlen.",
+              "Die Sonne geht bereits gegen 16:15 Uhr unter; planen Sie Außenstopps früh ein.",
+              "Kopfsteinpflaster in Ficinus kann bei Frost extrem rutschig sein.",
+              "Tragen Sie warme, isolierte Schuhe für die unbefestigten Wege an den Industrieschächten."
+            ],
+            "hu": [
+              "Sziléziában télen erős szél fújhat, javasolt a szélálló réteges öltözködés.",
+              "A nap már 16:15 körül lemegy, a szabadtéri látnivalókat vegye előre.",
+              "A Ficinus-telep macskaköves utcái fagyban rendkívül csúszósak lehetnek.",
+              "Válasszon bélelt, meleg lábbelit az ipari műemlékek körüli földutakhoz."
+            ],
+            "ro": [
+              "Vântul poate fi foarte puternic iarna în Silezia; purtați haine rezistente la vânt.",
+              "Soarele apune în jurul orei 16:15; planificați vizitele în exterior devreme.",
+              "Pavajul din colonia Ficinus poate deveni extrem de alunecos pe timp de îngheț.",
+              "Purtați încălțăminte călduroasă pentru potecile neamenajate de lângă puțuri."
+            ],
+            "en": [
+              "Silesian winters can be very windy; windproof clothing is highly recommended.",
+              "Sunset is around 4:15 PM; prioritize outdoor stops for the morning.",
+              "Cobblestones in Ficinus can be extremely slippery when frozen.",
+              "Wear warm, insulated boots for the unpaved paths around the industrial shafts."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -694,6 +876,206 @@
           "Bring a lock to secure your bike at stops.",
           "Plan your route with a map to avoid getting lost."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir am Rathaus auf zwei Rädern. Die Fahrt zur Arbeitersiedlung Ficinus erfordert Vorsicht auf den nassen Ziegelstraßen. Mittags erkunden wir die Kraftwerksruinen, wo der Regen eine düstere, industrielle Ästhetik schafft. Den Nachmittag verbringen wir im trockenen Museum, bevor wir im Nieselregen am St.-Joseph-Kirche vorbeifahren, deren Backstein im Wasser dunkler leuchtet.",
+            "hu": "Az eső ellenére két keréken indulunk a városházától. A Ficinus-telep felé vezető út óvatosságot igényel a nedves téglaburkolaton. Délben az erőműromokat fedezzük fel, ahol az eső sötét, ipari esztétikát kölcsönöz a tájnak. A délutánt a száraz múzeumban töltjük, majd szemerkélő esőben tekerünk el a Szent József-templom mellett, melynek téglái mélyvörösen izzanak a vízben.",
+            "ro": "În ciuda ploii, pornim pe două roți de la Primărie. Drumul spre colonia Ficinus necesită atenție pe străzile umede. La prânz explorăm ruinele centralei electrice, unde ploaia creează o estetică industrială sumbră. După-amiaza o petrecem în muzeul uscat, înainte de a trece prin burniță pe lângă biserica Sf. Iosif, ale cărei cărămizi strălucesc mai intens în apă.",
+            "en": "Rain won't stop our bike tour starting at the Town Hall. The ride to Ficinus requires care on the wet brick surfaces. By noon, we explore the power plant ruins, where the rain adds to the gritty industrial vibe. We spend the afternoon at the dry museum before cycling past St. Joseph's Church, its red bricks looking deep and saturated in the wet weather."
+          },
+          "stops": [
+            {
+              "name": "Ruda Śląska Town Hall",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen auf dem nassen Marktplatz.",
+                "hu": "Ellenőrizze a fékeit a nedves főtéren indulás előtt.",
+                "ro": "Verificați frânele pe asfaltul umed din piața centrală.",
+                "en": "Test your brakes on the wet square before heading out."
+              }
+            },
+            {
+              "name": "Ficinus workers' settlement",
+              "tip_5lang": {
+                "de": "Nasser Sandstein und Kopfsteinpflaster sind rutschig; langsam fahren.",
+                "hu": "A vizes homokkő és macskakő csúszik; haladjon lassabban.",
+                "ro": "Gresia umedă și pavajul sunt alunecoase; rulați cu viteză redusă.",
+                "en": "Wet sandstone and cobblestones are slippery; slow down here."
+              }
+            },
+            {
+              "name": "Double shaft of the mine",
+              "tip_5lang": {
+                "de": "Suchen Sie unter den Förderanlagen Schutz bei starken Güssen.",
+                "hu": "Heves esőben keressen menedéket a szállítószalagok alatt.",
+                "ro": "Căutați adăpost sub structurile metalice în caz de aversă.",
+                "en": "Seek temporary shelter under the conveyors during heavy downpours."
+              }
+            },
+            {
+              "name": "Power plant ruins",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen auf den unebenen Werkswegen.",
+                "hu": "Vigyázzon a mély tócsákra az egyenetlen gyári utakon.",
+                "ro": "Atenție la bălțile adânci de pe drumurile industriale denivelate.",
+                "en": "Watch out for deep puddles on the uneven industrial tracks."
+              }
+            },
+            {
+              "name": "Museum of the Polish People's Republic",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich nahe dem Haupteingang.",
+                "hu": "Biztonságos biciklitárolók találhatók a főbejárat közelében.",
+                "ro": "Rasteluri sigure pentru biciclete se află lângă intrarea principală.",
+                "en": "Secure bike racks are located near the main entrance."
+              }
+            },
+            {
+              "name": "Mikołaj Shaft",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach ab, um den Sattel trocken zu halten.",
+                "hu": "Parkoljon az előtető alatt, hogy szárazon tartsa a nyerget.",
+                "ro": "Parcați sub copertină pentru a păstra șaua uscată.",
+                "en": "Park under the overhang to keep your saddle dry during the visit."
+              }
+            },
+            {
+              "name": "St. Joseph's Church",
+              "tip_5lang": {
+                "de": "Ein schöner Abschluss, bevor es im Regen zurück zum Start geht.",
+                "hu": "Szép zárópont, mielőtt az esőben visszatérne a kiindulóponthoz.",
+                "ro": "Un punct final frumos înainte de întoarcerea prin ploaie.",
+                "en": "A scenic final stop before cycling back through the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind auf den staubigen Industriewegen bei Regen ein Muss.",
+              "Vorsicht vor Straßenbahnschienen in Ruda, die bei Nässe extrem glatt sind.",
+              "Wählen Sie eine Route über asphaltierte Hauptstraßen, um Schlamm zu vermeiden.",
+              "Vermeiden Sie scharfes Bremsen auf dem historischen Pflaster von Ficinus."
+            ],
+            "hu": [
+              "A sárvédő kötelező az ipari utakon, hogy elkerülje a felverődő sarat.",
+              "Vigyázzon a villamossínekre Ruda területén, nedvesen nagyon csúsznak.",
+              "Válassza az aszfaltozott főutakat az erdei vagy földutak helyett a sár miatt.",
+              "Kerülje az erős fékezést a Ficinus-telep történelmi burkolatán."
+            ],
+            "ro": [
+              "Apărătorile sunt obligatorii pe drumurile industriale prăfuite când plouă.",
+              "Atenție la șinele de tramvai din Ruda, care devin extrem de alunecoase.",
+              "Alegeți rute pe drumuri principale asfaltate pentru a evita noroiul.",
+              "Evitați frânarea bruscă pe pavajul istoric din colonia Ficinus."
+            ],
+            "en": [
+              "Mudguards are a must on dusty industrial paths during rain.",
+              "Beware of tram tracks in Ruda; they are treacherous when wet.",
+              "Stick to paved main roads to avoid the mud on industrial shortcuts.",
+              "Avoid sharp braking on the historic cobblestones of the Ficinus area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frühmorgens radeln wir bei Minusgraden vom Rathaus los. Die Luft ist klar und kalt in der Siedlung Ficinus. Mittags erreichen wir die Schächte, wo der Kontrast zwischen schwarzer Kohlegeschichte und weißem Schnee am stärksten ist. Den Nachmittag nutzen wir zum Aufwärmen im Museum, bevor wir bei einsetzender Dämmerung zur St.-Joseph-Kirche fahren, die im Abendlicht warm strahlt.",
+            "hu": "Kora reggel, fagypont alatt indulunk a városházától. A levegő tiszta és csípős a Ficinus-telepen. Délben érjük el az aknákat, ahol a fekete szénmúlt és a fehér hó kontrasztja a leglátványosabb. A délutánt a múzeumban töltjük melegedéssel, majd a szürkületben tekerünk a Szent József-templomhoz, mely melegen ragyog az alkonyatban.",
+            "ro": "Pornim de la Primărie pe un ger tăios dis-de-dimineață. Aerul este curat și rece în colonia Ficinus. La prânz ajungem la puțuri, unde contrastul dintre istoria neagră a cărbunelui și zăpadă este maxim. După-amiaza ne încălzim la muzeu, apoi pedalăm spre biserica Sf. Iosif în amurgul auriu.",
+            "en": "Early morning ride from the Town Hall in freezing temperatures. The air is crisp and cold in the Ficinus settlement. By noon, we reach the mine shafts, where the contrast between black coal heritage and white snow is striking. After warming up in the museum, we cycle to St. Joseph's Church as the winter sun sets, casting long shadows."
+          },
+          "stops": [
+            {
+              "name": "Ruda Śląska Town Hall",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Gangschaltung nicht eingefroren ist.",
+                "hu": "Győződjön meg róla, hogy a váltója nincs-e megfagyva.",
+                "ro": "Asigurați-vă că schimbătorul de viteze nu este înghețat.",
+                "en": "Make sure your gear shifters aren't frozen before starting."
+              }
+            },
+            {
+              "name": "Ficinus workers' settlement",
+              "tip_5lang": {
+                "de": "Glatteisgefahr zwischen den historischen Häusern.",
+                "hu": "Fagyveszély a történelmi házak közötti szűkebb utcákban.",
+                "ro": "Pericol de polei între casele istorice; rulați cu prudență.",
+                "en": "Watch for black ice between the historic stone houses."
+              }
+            },
+            {
+              "name": "Double shaft of the mine",
+              "tip_5lang": {
+                "de": "Fotostopp: Der weiße Schnee auf dem dunklen Stahl sieht toll aus.",
+                "hu": "Fotómegálló: a fehér hó a sötét acélon remekül mutat.",
+                "ro": "Punct foto: zăpada albă pe oțelul negru arată spectaculos.",
+                "en": "Photo op: White snow on dark steel structures looks amazing."
+              }
+            },
+            {
+              "name": "Power plant ruins",
+              "tip_5lang": {
+                "de": "Vermeiden Sie tiefen Schnee, unter dem Trümmer liegen könnten.",
+                "hu": "Kerülje a mély havat, ami alatt törmelék bújhat meg.",
+                "ro": "Evitați zăpada mare care poate ascunde resturi industriale.",
+                "en": "Avoid deep snow patches that might hide industrial debris."
+              }
+            },
+            {
+              "name": "Museum of the Polish People's Republic",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmstation für Hände und Füße.",
+                "hu": "Használja a múzeumi szünetet a kezek és lábak felmelegítésére.",
+                "ro": "Folosiți vizita la muzeu ca punct de încălzire pentru extremități.",
+                "en": "Use the museum visit to warm up your hands and feet."
+              }
+            },
+            {
+              "name": "Mikołaj Shaft",
+              "tip_5lang": {
+                "de": "Vorsicht, die Metallstufen am Schacht können sehr rutschig sein.",
+                "hu": "Vigyázat, az akna fém lépcsői nagyon csúszósak lehetnek.",
+                "ro": "Atenție, treptele metalice de la puț pot fi foarte alunecoase.",
+                "en": "Be careful, the metal steps at the shaft can be very slippery."
+              }
+            },
+            {
+              "name": "St. Joseph's Church",
+              "tip_5lang": {
+                "de": "Überprüfen Sie Ihr Licht für die Rückfahrt im Dunkeln.",
+                "hu": "Ellenőrizze a lámpáit a sötétben való visszatekeréshez.",
+                "ro": "Verificați luminile pentru drumul de întoarcere pe întuneric.",
+                "en": "Check your bike lights for the return trip in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie dicke Handschuhe; die Metalllenker ziehen die Kälte an.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck gibt besseren Grip auf Schnee.",
+              "Vermeiden Sie Nebenwege, die im Winter oft nicht geräumt werden.",
+              "Salz auf den Straßen kann die Kette angreifen; nach der Tour kurz reinigen."
+            ],
+            "hu": [
+              "Viseljen vastag kesztyűt, mert a fém kormány elvonja a hőt.",
+              "Ellenőrizze a guminyomást, a kicsit laposabb gumi jobban tapad a havon.",
+              "Kerülje a mellékutakat, mert télen gyakran nem takarítják őket.",
+              "Az útszóró só kikezdheti a láncot, túra után érdemes letisztítani."
+            ],
+            "ro": [
+              "Purtați mănuși groase; ghidonul metalic atrage frigul.",
+              "Verificați presiunea; o presiune mai mică oferă aderență mai bună pe zăpadă.",
+              "Evitați drumurile secundare care adesea nu sunt deszăpezite.",
+              "Sarea de pe drum poate afecta lanțul; curățați-l după tură."
+            ],
+            "en": [
+              "Wear thick gloves; metal handlebars will pull the heat from your hands.",
+              "Check tire pressure; slightly lower pressure gives better grip on snow.",
+              "Avoid side paths which are often not cleared of snow in winter.",
+              "Road salt can damage your chain; give it a quick wipe after the ride."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1074,6 +1456,224 @@
           "Plan for parking near each cluster.",
           "Be mindful of speed limits and local traffic laws."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten komfortabel im Auto bei den Kraftwerksruinen, während der Regen gegen die Scheiben trommelt. Die Fahrt führt uns weiter zum Doppel-Schacht und zur Siedlung Ficinus, wo wir die historischen Bauten fast vom Fenster aus bewundern können. Mittags halten wir am Rathaus und besuchen die nahegelegene Apotheke und Kirche. Der Nachmittag im Museum ist das Highlight, bevor wir trocken den Mikołaj-Schacht erreichen.",
+            "hu": "Kényelmesen, autóval indulunk az erőműromoktól, miközben az eső veri a szélvédőt. Az utunk a dupla aknához és a Ficinus-telephez vezet, ahol az ablakból is megcsodálhatjuk a történelmi épületeket. Délben a városházánál állunk meg, meglátogatva a közeli gyógyszertárat és templomot. A délutáni múzeumlátogatás a fénypont, majd szárazon érjük el a Mikołaj-aknát.",
+            "ro": "Începem confortabil cu mașina la ruinele centralei, în timp ce ploaia bate în parbriz. Drumul continuă spre puțul dublu și colonia Ficinus, unde admirăm clădirile aproape de la fereastră. La prânz parcăm lângă Primărie pentru a vizita farmacia și biserica. După-amiaza la muzeu este punctul culminant, înainte de a ajunge la Puțul Mikołaj fără a ne uda.",
+            "en": "We start comfortably by car at the power plant ruins while rain drums on the roof. The drive takes us to the Double Shaft and Ficinus settlement, where we can admire the architecture from the car window. At noon, we park by the Town Hall to visit the pharmacy and church. The afternoon museum visit is the highlight, ending the day dry at the Mikołaj Shaft."
+          },
+          "stops": [
+            {
+              "name": "Power plant ruins",
+              "tip_5lang": {
+                "de": "Parken Sie auf festem Grund, um nicht im Matsch stecken zu bleiben.",
+                "hu": "Parkoljon szilárd talajon, hogy ne akadjon el a sárban.",
+                "ro": "Parcați pe teren solid pentru a nu rămâne blocat în noroi.",
+                "en": "Park on solid ground to avoid getting stuck in the mud."
+              }
+            },
+            {
+              "name": "Double shaft of the mine",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp direkt vom Straßenrand aus möglich.",
+                "hu": "Rövid fotómegálló közvetlenül az út széléről is lehetséges.",
+                "ro": "Oprire scurtă pentru poze posibilă chiar de la marginea drumului.",
+                "en": "A quick photo stop is possible directly from the roadside."
+              }
+            },
+            {
+              "name": "Ficinus workers' settlement",
+              "tip_5lang": {
+                "de": "Nutzen Sie den offiziellen Parkplatz am Informationszentrum.",
+                "hu": "Használja az információs központ melletti hivatalos parkolót.",
+                "ro": "Folosiți parcarea oficială de lângă centrul de informare.",
+                "en": "Use the official parking lot near the visitor center."
+              }
+            },
+            {
+              "name": "Ruda Śląska Town Hall",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz vorhanden; idealer Start für den Stadtspaziergang.",
+                "hu": "Központi parkoló elérhető; ideális pont a városi sétához.",
+                "ro": "Parcare centrală disponibilă; punct ideal pentru plimbarea în oraș.",
+                "en": "Central parking available; ideal starting point for the city walk."
+              }
+            },
+            {
+              "name": "St. Joseph's Church",
+              "tip_5lang": {
+                "de": "Kostenloses Parken oft direkt vor dem Kircheneingang möglich.",
+                "hu": "Ingyenes parkolás gyakran közvetlenül a templom előtt lehetséges.",
+                "ro": "Parcare gratuită adesea posibilă chiar în fața bisericii.",
+                "en": "Free parking is often available right in front of the church."
+              }
+            },
+            {
+              "name": "Aeskulap Pharmacy",
+              "tip_5lang": {
+                "de": "Kurzer Halt möglich, um das Gebäude von außen zu betrachten.",
+                "hu": "Rövid megállás lehetséges az épület külső megtekintéséhez.",
+                "ro": "Oprire scurtă posibilă pentru a vedea clădirea de afară.",
+                "en": "Short stop possible to view the building from the outside."
+              }
+            },
+            {
+              "name": "Museum of the Polish People's Republic",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist groß und liegt direkt am Museumseingang.",
+                "hu": "A parkoló tágas és közvetlenül a múzeumi bejáratnál van.",
+                "ro": "Parcarea este spațioasă și se află chiar la intrarea în muzeu.",
+                "en": "The parking lot is spacious and located right at the entrance."
+              }
+            },
+            {
+              "name": "Mikołaj Shaft",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Schachtgelände für minimalen Fußweg im Regen.",
+                "hu": "Parkoljon közvetlenül az akna mellett, hogy ne ázzon meg.",
+                "ro": "Parcați chiar lângă puț pentru a evita mersul prin ploaie.",
+                "en": "Park right next to the shaft to minimize walking in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer; schlesische Regengüsse können heftig sein.",
+              "Viele Parkplätze an Industriesituen sind unbefestigt; Vorsicht vor tiefem Schlamm.",
+              "Nutzen Sie die Sitzheizung nach dem Besuch der zugigen Schachtgelände.",
+              "Vermeiden Sie das Parken unter alten Bäumen bei Sturmböen."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket, a sziléziai záporok hirtelen jönnek.",
+              "Sok ipari parkoló burkolatlan, vigyázzon a mély sárra.",
+              "Használja az ülésfűtést a huzatos bányaterületek látogatása után.",
+              "Viharos szélben kerülje a parkolást az öreg fák alatt."
+            ],
+            "ro": [
+              "Verificați ștergătoarele; ploile din Silezia pot fi foarte intense.",
+              "Multe parcări din zonele industriale sunt neamenajate; atenție la noroi.",
+              "Folosiți încălzirea în scaune după vizitarea puțurilor unde este curent.",
+              "Evitați parcarea sub copaci bătrâni în timpul rafalelor de vânt."
+            ],
+            "en": [
+              "Check your wipers; Silesian downpours can be sudden and heavy.",
+              "Many parking spots at industrial sites are unpaved; watch out for deep mud.",
+              "Use seat heaters to warm up after visiting the breezy shaft areas.",
+              "Avoid parking under old trees during gusty rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Verschneiter Start bei den Kraftwerksruinen. Im warmen Auto geht es zum Doppel-Schacht und durch die winterliche Siedlung Ficinus. Mittags parken wir am Rathaus, wo der Marktplatz festlich wirkt. Nach dem Besuch der Apotheke und Kirche wärmen wir uns im Museum auf. Den Tag beenden wir am Mikołaj-Schacht, dessen Beleuchtung im Schnee besonders strahlt.",
+            "hu": "Havas indulás az erőműromoknál. A fűtött autóval hajtunk a dupla aknához és a téli Ficinus-telephez. Délben a városházánál parkolunk, ahol a főtér ünnepi hangulatot áraszt. A gyógyszertár és a templom után a múzeumban melegszünk fel. A napot a Mikołaj-aknánál zárjuk, melynek fényei ragyognak a hóban.",
+            "ro": "Pornire prin zăpadă la ruinele centralei. Cu mașina încălzită mergem la puțul dublu și prin colonia Ficinus de iarnă. La prânz parcăm la Primărie, unde piața are un aer festiv. După farmacie și biserică, ne încălzim la muzeu. Încheiem ziua la Puțul Mikołaj, a cărui iluminare strălucește în zăpadă.",
+            "en": "A snowy start at the power plant ruins. From the warmth of the car, we visit the Double Shaft and the wintery Ficinus settlement. At noon, we park at the Town Hall, enjoying the festive winter square. After the pharmacy and church, we warm up at the museum, finishing the day at the illuminated Mikołaj Shaft."
+          },
+          "stops": [
+            {
+              "name": "Power plant ruins",
+              "tip_5lang": {
+                "de": "Vorsicht beim Parken; der Schnee könnte tiefe Schlaglöcher verdecken.",
+                "hu": "Vigyázzon a parkolásnál, a hó mély kátyúkat takarhat.",
+                "ro": "Atenție la parcare; zăpada poate ascunde gropi adânci.",
+                "en": "Be careful when parking; snow might hide deep potholes."
+              }
+            },
+            {
+              "name": "Double shaft of the mine",
+              "tip_5lang": {
+                "de": "Der Straßenrand kann glatt sein; parken Sie vorsichtig.",
+                "hu": "Az út széle jeges lehet, parkoljon óvatosan.",
+                "ro": "Marginea drumului poate fi înghețată; parcați cu prudență.",
+                "en": "Road shoulders can be icy; park carefully for your photo."
+              }
+            },
+            {
+              "name": "Ficinus workers' settlement",
+              "tip_5lang": {
+                "de": "Die engen Gassen in Ficinus werden oft zuletzt geräumt.",
+                "hu": "A Ficinus-telep szűk utcáit gyakran utoljára takarítják.",
+                "ro": "Străzile înguste din Ficinus sunt adesea deszăpezite ultimele.",
+                "en": "The narrow lanes of Ficinus are often cleared of snow last."
+              }
+            },
+            {
+              "name": "Ruda Śląska Town Hall",
+              "tip_5lang": {
+                "de": "Parkplätze im Winter oft durch Schneehaufen begrenzt.",
+                "hu": "A parkolóhelyeket télen gyakran hóbuckák szűkítik.",
+                "ro": "Locurile de parcare sunt adesea limitate de mormane de zăpadă.",
+                "en": "Parking spaces may be restricted by snow piles in winter."
+              }
+            },
+            {
+              "name": "St. Joseph's Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eiszapfen an den Dachrinnen der Kirche.",
+                "hu": "Vigyázzon a templom ereszcsatornáiról lógó jégcsapokra.",
+                "ro": "Atenție la țurțurii de pe jgheaburile bisericii.",
+                "en": "Watch out for icicles hanging from the church gutters."
+              }
+            },
+            {
+              "name": "Aeskulap Pharmacy",
+              "tip_5lang": {
+                "de": "Halten Sie kurz an, um das verschneite Baudenkmal zu fotografieren.",
+                "hu": "Álljon meg egy pillanatra a havas műemlék lefotózásához.",
+                "ro": "Opriți scurt pentru a fotografia monumentul înzăpezit.",
+                "en": "Stop briefly to photograph this snowy architectural gem."
+              }
+            },
+            {
+              "name": "Museum of the Polish People's Republic",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird meist gut geräumt; direkter Zugang.",
+                "hu": "A parkolót általában jól takarítják; közvetlen bejárat.",
+                "ro": "Parcarea este de obicei bine curățată; acces direct.",
+                "en": "The parking lot is usually well-cleared; direct entrance access."
+              }
+            },
+            {
+              "name": "Mikołaj Shaft",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den beleuchteten Schacht vom warmen Auto.",
+                "hu": "Élvezze a kivilágított akna látványát a meleg autóból.",
+                "ro": "Admirați vederea puțului iluminat din căldura mașinii.",
+                "en": "Enjoy the view of the illuminated shaft from your warm car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in den hügeligen Straßen von Ruda unerlässlich.",
+              "Führen Sie einen Eiskratzer und Schneebesen mit; Wetterumschwünge sind häufig.",
+              "Die Batterieleistung kann bei extremer Kälte in Oberschlesien sinken.",
+              "Planen Sie mehr Zeit für die Fahrt ein, da Nebenstraßen glatt sein können."
+            ],
+            "hu": [
+              "A téli gumi elengedhetetlen Ruda dombos utcáin.",
+              "Tartson jégkaparót és hókefét az autóban, gyakori a hirtelen hóesés.",
+              "Az akkumulátor teljesítménye csökkenhet a nagy sziléziai hidegben.",
+              "Számoljon hosszabb menetidővel, a mellékutak jegesek lehetnek."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt esențiale pe străzile deluroase din Ruda.",
+              "Țineți în mașină o racletă și o perie; schimbările de vreme sunt bruște.",
+              "Performanța bateriei poate scădea în gerul intens din Silezia de Sus.",
+              "Planificați mai mult timp pentru drum, străzile secundare pot fi alunecoase."
+            ],
+            "en": [
+              "Winter tires are essential for the hilly streets of Ruda Śląska.",
+              "Keep an ice scraper and snow brush handy; weather changes are frequent.",
+              "Battery performance can drop in the extreme Upper Silesian cold.",
+              "Allow extra time for travel as side roads may be icy or unplowed."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1430,6 +2030,206 @@
           "Download a public transport app to check schedules and routes.",
           "Keep some change handy for ticket machines."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn erkunden wir Ruda im Regen. Vom Rathaus geht es zur St.-Joseph-Kirche, wo uns die kurzen Wege zwischen Haltestelle und Eingang trocken halten. Mittags fahren wir zur Siedlung Ficinus und später zum Museum, das mit dem Nahverkehr gut erreichbar ist. Den Tag beenden wir an den Schächten und Ruinen, deren industrielle Größe im Regen beeindruckt.",
+            "hu": "Busszal és villamossal fedezzük fel Rudát az esőben. A városházától a Szent József-templomhoz megyünk, a rövid gyalogút a megállótól segít szárazon maradni. Délben a Ficinus-telepre, majd a múzeumba utazunk, mely tömegközlekedéssel jól elérhető. A napot az aknáknál és romoknál zárjuk, melyek ipari méretei lenyűgözőek az esőben.",
+            "ro": "Explorăm Ruda cu autobuzul și tramvaiul prin ploaie. De la Primărie mergem la biserica Sf. Iosif, unde distanța mică de la stație ne ajută să rămânem uscați. La prânz vizităm colonia Ficinus și apoi muzeul, bine deservit de transportul public. Încheiem ziua la puțuri și ruine, a căror scară industrială impresionează prin ploaie.",
+            "en": "We explore Ruda by bus and tram in the rain. From the Town Hall, we head to St. Joseph's Church; short walks from stops keep us dry. By noon, we visit Ficinus and then the museum, which is well-connected by transit. We finish at the shafts and ruins, where the industrial scale looks imposing through the rainfall."
+          },
+          "stops": [
+            {
+              "name": "Ruda Śląska Town Hall",
+              "tip_5lang": {
+                "de": "Wichtiger Knotenpunkt für Busse; nutzen Sie die Wartehäuschen.",
+                "hu": "Fontos buszcsomópont; használja a várótermeket vagy beállókat.",
+                "ro": "Nod important de autobuz; folosiți adăposturile din stații.",
+                "en": "Major bus hub; use the shelters to stay dry while waiting."
+              }
+            },
+            {
+              "name": "St. Joseph's Church",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist fast direkt vor der Kirche.",
+                "hu": "A buszmegálló szinte közvetlenül a templom előtt van.",
+                "ro": "Stația de autobuz este aproape direct în fața bisericii.",
+                "en": "The bus stop is located almost directly in front of the church."
+              }
+            },
+            {
+              "name": "Ficinus workers' settlement",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg von der Haltestelle; Schirm bereithalten.",
+                "hu": "Rövid séta a megállótól; készítse elő az esernyőjét.",
+                "ro": "O scurtă plimbare de la stație; țineți umbrela la îndemână.",
+                "en": "A short walk from the stop; have your umbrella ready."
+              }
+            },
+            {
+              "name": "Museum of the Polish People's Republic",
+              "tip_5lang": {
+                "de": "Die Buslinie hält in Gehweite; folgen Sie den Schildern im Regen.",
+                "hu": "A busz sétatávolságra áll meg; kövesse a táblákat az esőben.",
+                "ro": "Autobuzul oprește aproape; urmați indicatoarele prin ploaie.",
+                "en": "The bus stops within walking distance; follow signs carefully."
+              }
+            },
+            {
+              "name": "Mikołaj Shaft",
+              "tip_5lang": {
+                "de": "Die Haltestelle bietet nur begrenzten Schutz; schnell zum Schacht.",
+                "hu": "A megálló korlátozott védelmet nyújt; igyekezzen az aknához.",
+                "ro": "Stația oferă adăpost limitat; mergeți rapid spre puț.",
+                "en": "The stop has limited shelter; head quickly towards the site."
+              }
+            },
+            {
+              "name": "Power plant ruins",
+              "tip_5lang": {
+                "de": "Vom Bus aus hat man schon einen guten Blick auf die Ruinen.",
+                "hu": "A buszról már jó kilátás nyílik a romokra az esőben is.",
+                "ro": "Din autobuz aveți deja o vedere bună asupra ruinelor.",
+                "en": "You get a good view of the ruins even from the bus window."
+              }
+            },
+            {
+              "name": "Double shaft of the mine",
+              "tip_5lang": {
+                "de": "Letzter Stopp; prüfen Sie die Rückfahrzeiten im digitalen Display.",
+                "hu": "Utolsó állomás; ellenőrizze a visszaindulást a digitális kijelzőn.",
+                "ro": "Ultima oprire; verificați timpii de întoarcere pe panoul digital.",
+                "en": "Final stop; check return times on the digital display if available."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Jakdojade' für Echtzeit-Infos bei Regen-Verspätungen.",
+              "Die Straßenbahnen in Ruda sind oft eine trockenere Alternative zu Bussen.",
+              "Tragen Sie wasserfeste Schuhe für die Umstiege an großen Kreuzungen.",
+              "Warten Sie in den Museen oder Kirchen, bis der nächste Bus fällig ist."
+            ],
+            "hu": [
+              "Használja a 'Jakdojade' alkalmazást a valós idejű menetrendekhez.",
+              "Ruda villamosai gyakran szárazabb alternatívát jelentenek a buszoknál.",
+              "Viseljen vízálló cipőt a nagyobb kereszteződésekben való átszálláshoz.",
+              "Várjon a múzeumokban vagy templomokban a következő járat indulásáig."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Jakdojade' pentru informații în timp real.",
+              "Tramvaiele din Ruda sunt adesea o alternativă mai uscată la autobuze.",
+              "Purtați încălțăminte impermeabilă pentru schimburile în intersecții mari.",
+              "Așteptați în muzee sau biserici până la ora de plecare a următorului autobuz."
+            ],
+            "en": [
+              "Use the 'Jakdojade' app for real-time updates during rainy weather.",
+              "Trams in Ruda often provide a more comfortable ride than buses in rain.",
+              "Wear waterproof shoes for transfers at busy, unsheltered intersections.",
+              "Wait inside museums or churches until just before your next bus arrives."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Bus durch das verschneite Ruda. Vom frostigen Rathaus fahren wir zur St.-Joseph-Kirche und zur Siedlung Ficinus, wo der Schnee die Backsteine leuchten lässt. Mittags wärmen wir uns während der Fahrt zum Museum auf. Den Nachmittag verbringen wir in den Ausstellungen, bevor wir bei Dunkelheit die beleuchteten Schächte und Ruinen besuchen.",
+            "hu": "Fűtött busszal a havas Rudán keresztül. A fagyos városházától a Szent József-templomhoz és a Ficinus-telephez utazunk, ahol a hó kiemeli a téglák színét. Délben a múzeumba tartó úton melegszünk fel. A délutánt a kiállításokon töltjük, majd sötétedés után keressük fel a kivilágított aknákat és romokat.",
+            "ro": "Cu autobuzul încălzit prin Ruda înzăpezită. De la Primăria geroasă mergem la biserica Sf. Iosif și colonia Ficinus, unde zăpada face cărămizile să strălucească. La prânz ne încălzim în drum spre muzeu. Petrecem după-amiaza la expoziții, iar după lăsarea întunericului vizităm puțurile și ruinele iluminate.",
+            "en": "In a heated bus through snowy Ruda Śląska. From the frosty Town Hall, we travel to St. Joseph's Church and Ficinus, where snow highlights the red brickwork. At noon, we warm up during the transit to the museum. We spend the afternoon indoors, then visit the illuminated shafts and ruins as the winter night falls."
+          },
+          "stops": [
+            {
+              "name": "Ruda Śląska Town Hall",
+              "tip_5lang": {
+                "de": "Die Wartehäuschen schützen vor dem kalten Wind.",
+                "hu": "A buszvárók védenek a metsző hideg szél ellen.",
+                "ro": "Adăposturile din stații vă protejează de vântul rece.",
+                "en": "The bus shelters provide much-needed protection from the cold wind."
+              }
+            },
+            {
+              "name": "St. Joseph's Church",
+              "tip_5lang": {
+                "de": "Die kurzen Wege minimieren die Zeit in der Kälte.",
+                "hu": "A rövid gyalogút minimalizálja a hidegben töltött időt.",
+                "ro": "Distanțele scurte minimizează timpul petrecut în ger.",
+                "en": "The short walking distance minimizes your time in the freezing air."
+              }
+            },
+            {
+              "name": "Ficinus workers' settlement",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen; die Haltestellen können glatt sein.",
+                "hu": "Vigyázzon leszálláskor; a megállók jegesek lehetnek.",
+                "ro": "Atenție la coborâre; zonele din stații pot fi alunecoase.",
+                "en": "Watch your step when getting off; bus stops can be icy."
+              }
+            },
+            {
+              "name": "Museum of the Polish People's Republic",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um sich zwischen den Besichtigungen aufzuwärmen.",
+                "hu": "Használja a buszutat a felmelegedésre két látnivaló között.",
+                "ro": "Folosiți timpul în autobuz pentru a vă încălzi între vizite.",
+                "en": "Use the bus ride to warm up between outdoor sightseeing spots."
+              }
+            },
+            {
+              "name": "Mikołaj Shaft",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt so, dass Sie nicht lange draußen warten müssen.",
+                "hu": "Úgy tervezze a visszautat, hogy ne kelljen sokat várnia kint.",
+                "ro": "Planificați întoarcerea astfel încât să nu așteptați mult afară.",
+                "en": "Plan your return trip to minimize waiting outside in the dark."
+              }
+            },
+            {
+              "name": "Power plant ruins",
+              "tip_5lang": {
+                "de": "Die Ruinen wirken im fahlen Winterlicht besonders imposant.",
+                "hu": "A romok a fakó téli fényben különösen impozánsak.",
+                "ro": "Ruinele par deosebit de impunătoare în lumina palidă de iarnă.",
+                "en": "The ruins look particularly imposing in the pale winter light."
+              }
+            },
+            {
+              "name": "Double shaft of the mine",
+              "tip_5lang": {
+                "de": "Dank digitaler Anzeigen wissen Sie genau, wann der nächste Bus kommt.",
+                "hu": "A digitális kijelzőknek köszönhetően tudja, mikor jön a busz.",
+                "ro": "Panourile digitale vă spun exact când vine următorul autobuz.",
+                "en": "Digital displays will tell you exactly when the next bus is due."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei starkem Schneefall in Schlesien variieren.",
+              "Die Busse sind im Winter meist sehr gut beheizt.",
+              "Tragen Sie griffige Schuhe; Haltestellen werden oft nur verzögert geräumt.",
+              "Nutzen Sie Fahrkartenautomaten in den Bussen, um Kälte-Wartezeiten am Kiosk zu vermeiden."
+            ],
+            "hu": [
+              "A menetrendek erős havazás esetén változhatnak Sziléziában.",
+              "A buszok télen általában nagyon jól fűtöttek.",
+              "Viseljen jó tapadású cipőt, a megállókat néha később takarítják.",
+              "Használja a buszokon lévő jegyautomatákat a kinti várakozás helyett."
+            ],
+            "ro": [
+              "Orarele pot varia în caz de ninsori abundente în Silezia.",
+              "Autobuzele sunt de obicei foarte bine încălzite iarna.",
+              "Purtați încălțăminte antiderapantă; stațiile pot fi curățate cu întârziere.",
+              "Folosiți automatele de bilete din vehicule pentru a evita așteptarea afară."
+            ],
+            "en": [
+              "Schedules may vary during heavy snowfall in the Silesian region.",
+              "Buses and trams are usually very well-heated during the winter months.",
+              "Wear shoes with good grip; bus stops are often cleared of snow late.",
+              "Use onboard ticket machines to avoid waiting at outdoor kiosks in the cold."
+            ]
+          }
+        }
       }
     }
   }

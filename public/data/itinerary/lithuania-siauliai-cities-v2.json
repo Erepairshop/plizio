@@ -346,6 +346,206 @@
           "Many sights are close to each other, making this walk ideal.",
           "Plan a lunch break near the boulevard to try the local cuisine."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Šiauliai-Boulevard bietet viele Passagen und Cafés zum Unterstellen. Mittags dient die massive Kathedrale als trockener Rückzugsort. Der Nachmittag gehört den Museen, in denen man die Geschichte der Fotografie und bürgerliches Leben im Trockenen erkundet. Der Tag endet am Talkša-See, wo der Wind den Regen peitscht, aber der Eisenfuchs standhaft bleibt.",
+            "hu": "A sétálóutca árkádjai és kávézói védelmet nyújtanak a reggeli záporok elől. Délben a székesegyház vastag falai között pihenhetünk meg szárazon. A délutáni múzeumlátogatások alatt elkerülhető az eső, a villa és a fotómúzeum is remek benti program. Az este a tónál szeles és nedves, de a monumentális vasróka látványa borús időben is hatásos.",
+            "ro": "Bulevardul Šiauliai oferă numeroase pasaje și cafenele pentru adăpost. La prânz, catedrala masivă servește ca refugiu uscat. După-amiaza este dedicată muzeelor, unde puteți explora istoria fotografiei și viața burgheză la adăpost de ploaie. Ziua se încheie la lacul Talkša, unde vântul poartă stropii de ploaie, dar Vulpea de Fier rămâne neclintită.",
+            "en": "The Šiauliai Boulevard offers many passages and cafes for shelter. At noon, the massive cathedral serves as a dry sanctuary. The afternoon is dedicated to museums, exploring photography history and bourgeois life indoors. The day ends at Talkša Lake, where the wind whips the rain, but the Iron Fox stands firm against the elements."
+          },
+          "stops": [
+            {
+              "name": "Šiauliai Boulevard",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Geschäfte, um trocken zu bleiben.",
+                "hu": "Használja az üzletek árkádjait, hogy szárazon maradjon.",
+                "ro": "Folosiți arcadele magazinelor pentru a rămâne uscați.",
+                "en": "Use the shop arcades to stay dry while moving between spots."
+              }
+            },
+            {
+              "name": "Sundial Square",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, da der Platz völlig ungeschützt ist.",
+                "hu": "Gyors fotómegálló, a tér teljesen nyitott és szeles.",
+                "ro": "Oprire scurtă pentru poze, piața este complet expusă.",
+                "en": "Quick photo stop as the square is completely unsheltered."
+              }
+            },
+            {
+              "name": "Cathedral of Saints Peter and Paul",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen starken Regenschauer abzuwarten.",
+                "hu": "Ideális helyszín egy intenzívebb zápor átvészelésére.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse severe.",
+                "en": "An ideal place to wait out a heavy rain shower."
+              }
+            },
+            {
+              "name": "Museum of Photography",
+              "tip_5lang": {
+                "de": "Die Dachterrasse bietet trotz Regen einen guten Blick.",
+                "hu": "A tetőterasz esőben is jó kilátást nyújt a városra.",
+                "ro": "Terasa de pe acoperiș oferă o vedere bună chiar și pe ploaie.",
+                "en": "The roof terrace offers a good city view despite the rain."
+              }
+            },
+            {
+              "name": "Chaim Frenkel Villa",
+              "tip_5lang": {
+                "de": "Perfekt für eine ausgiebige Indoor-Besichtigung.",
+                "hu": "Tökéletes választás egy hosszabb benti tárlatvezetéshez.",
+                "ro": "Perfect pentru o vizită interioară prelungită.",
+                "en": "Perfect for an extensive indoor tour during wet weather."
+              }
+            },
+            {
+              "name": "Talkša Lake",
+              "tip_5lang": {
+                "de": "Vorsicht, die Uferwege können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a tóparti sétányok esőben csúszósak lehetnek.",
+                "ro": "Atenție, potecile de pe mal pot fi alunecoase când sunt ude.",
+                "en": "Caution, the lakeside paths can be slippery when wet."
+              }
+            },
+            {
+              "name": "Iron Fox",
+              "tip_5lang": {
+                "de": "Die Metalloberfläche glänzt bei Regen besonders schön.",
+                "hu": "A fémfelület esőben különlegesen csillog a fotókon.",
+                "ro": "Suprafața metalică strălucește frumos în ploaie.",
+                "en": "The metal surface glitters beautifully in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Šiauliai ist windanfällig; ein stabiler Regenschirm ist besser als ein dünner.",
+              "Die Museen sind montags oft geschlossen, prüfen Sie die Termine.",
+              "Der Boulevard hat viele Cafés mit überdachten Außenbereichen.",
+              "Wasserdichte Schuhe sind für die Uferpromenade am See ratsam."
+            ],
+            "hu": [
+              "Šiauliai szeles város, a vékony esernyők helyett válasszon strapabírót.",
+              "A múzeumok hétfőn zárva tarthatnak, ellenőrizze a nyitvatartást.",
+              "A sétálóutcán több fedett teraszos kávézó kínál menedéket.",
+              "A tóparti sétához vízálló lábbeli javasolt a sár miatt."
+            ],
+            "ro": [
+              "Šiauliai este un oraș vântos; o umbrelă rezistentă este necesară.",
+              "Muzeele sunt adesea închise lunea, verificați programul.",
+              "Bulevardul are multe cafenele cu terase acoperite.",
+              "Încălțămintea impermeabilă este recomandată pentru promenada lacului."
+            ],
+            "en": [
+              "Šiauliai is prone to wind; a sturdy umbrella is better than a flimsy one.",
+              "Museums are often closed on Mondays, check schedules beforehand.",
+              "The boulevard has many cafes with covered outdoor seating areas.",
+              "Waterproof shoes are advised for the lakeside promenade."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens knirscht der Schnee auf dem Boulevard unter den Stiefeln. Die Kathedrale wirkt in der Winterlandschaft besonders majestätisch und bietet einen Ort der Stille. Die Museen sind warme Zufluchtsorte für den Nachmittag. Wenn die Sonne gegen 16 Uhr untergeht, leuchtet der Eisenfuchs am zugefrorenen See im künstlichen Licht.",
+            "hu": "Reggel a hó ropog a talpunk alatt a sétálóutcán. A székesegyház látványa a téli tájban méltóságteljes, falai között csendes pihenő vár. A múzeumok fűtött termei délután igazi menedéket jelentenek. Mivel 16 óra körül már sötétedik, a befagyott tó partján a vasróka már díszkivilágításban ragyog.",
+            "ro": "Dimineața, zăpada scârțâie sub cizme pe bulevard. Catedrala arată maiestuos în peisajul de iarnă și oferă un loc de liniște. Muzeele sunt refugii calde pentru după-amiază. Când soarele apune în jurul orei 16:00, Vulpea de Fier de lângă lacul înghețat strălucește în lumina artificială.",
+            "en": "In the morning, snow crunches under your boots on the boulevard. The cathedral looks majestic in the winter landscape and offers a quiet sanctuary. Museums are warm refuges for the afternoon. Since the sun sets around 4 PM, the Iron Fox by the frozen lake glows in artificial light."
+          },
+          "stops": [
+            {
+              "name": "Šiauliai Boulevard",
+              "tip_5lang": {
+                "de": "Genießen Sie die weihnachtliche Beleuchtung am späten Nachmittag.",
+                "hu": "Élvezze az ünnepi kivilágítást a késő délutáni órákban.",
+                "ro": "Bucurați-vă de iluminatul festiv la sfârșitul după-amiezii.",
+                "en": "Enjoy the festive holiday lights in the late afternoon."
+              }
+            },
+            {
+              "name": "Sundial Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor Vereisungen auf der freien Fläche.",
+                "hu": "Vigyázzon a jegesedésre a nyitott téren.",
+                "ro": "Atenție la porțiunile înghețate din piața deschisă.",
+                "en": "Watch out for icy patches on the open square surface."
+              }
+            },
+            {
+              "name": "Cathedral of Saints Peter and Paul",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen.",
+                "hu": "A vastag falak jól tartják a hőt a belső térben.",
+                "ro": "Zidurile groase mențin frigul la exterior.",
+                "en": "The thick walls keep the cold out of the interior."
+              }
+            },
+            {
+              "name": "Museum of Photography",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei einer heißen Tasse Tee im Museumscafé auf.",
+                "hu": "Melegedjen fel egy teával a múzeumi kávézóban.",
+                "ro": "Încălziți-vă cu un ceai fierbinte la cafeneaua muzeului.",
+                "en": "Warm up with a hot tea at the museum's cafe."
+              }
+            },
+            {
+              "name": "Chaim Frenkel Villa",
+              "tip_5lang": {
+                "de": "Besonders gemütliche Atmosphäre im historischen Herrenhaus.",
+                "hu": "Különösen meghitt hangulat a történelmi kúria falai között.",
+                "ro": "Atmosferă deosebit de primitoare în conacul istoric.",
+                "en": "Particularly cozy atmosphere inside the historic manor."
+              }
+            },
+            {
+              "name": "Talkša Lake",
+              "tip_5lang": {
+                "de": "Der See ist oft zugefroren und bietet eine weiße Weite.",
+                "hu": "A tó gyakran befagy, ilyenkor végtelen fehér sivatagnak tűnik.",
+                "ro": "Lacul este adesea înghețat, oferind o întindere albă.",
+                "en": "The lake is often frozen, offering a vast white expanse."
+              }
+            },
+            {
+              "name": "Iron Fox",
+              "tip_5lang": {
+                "de": "Die Statue wirkt im Schnee besonders imposant.",
+                "hu": "A szobor a hóban különösen látványos és fotogén.",
+                "ro": "Statuia arată deosebit de impunător în zăpadă.",
+                "en": "The statue looks particularly imposing in the snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 15:45 Uhr unter.",
+              "Tragen Sie Thermo-Einlegesohlen für den Spaziergang am See.",
+              "Viele Cafés am Boulevard bieten heißen Met (Midus) an.",
+              "Die Wege am See werden im Winter nicht immer geräumt."
+            ],
+            "hu": [
+              "Decemberben a nap már 15:45 körül lemegy.",
+              "A tóparti sétához javasolt a hőtároló talpbetét a bakancsba.",
+              "A sugárút kávézóiban érdemes megkóstolni a meleg mézsört (Midus).",
+              "A tó körüli ösvényeket télen nem mindenhol takarítják."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 15:45 în decembrie.",
+              "Folosiți branțuri termice pentru plimbarea pe malul lacului.",
+              "Multe cafenele de pe bulevard servesc mied fierbinte (Midus).",
+              "Potecile de lângă lac nu sunt întotdeauna curățate iarna."
+            ],
+            "en": [
+              "The sun sets as early as 3:45 PM in December.",
+              "Use thermal insoles for the lakeside walk to stay warm.",
+              "Many cafes on the boulevard serve hot mead (Midus).",
+              "Lakeside paths are not always cleared of snow in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -662,6 +862,188 @@
           "Use the existing bike paths, especially around the lake.",
           "Check your tire pressure before you set off."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Fahrradmuseum ist der perfekte Startpunkt bei Regen. Die kurzen Distanzen zwischen der Villa und der Kathedrale machen das Radfahren trotz Nässe effizient. Am See muss man auf den Wegen vorsichtig sein, da der Untergrund rutschig wird. Der Boulevard mit seinen Geschäften bietet am Ende Schutz für die Fahrräder.",
+            "hu": "A Kerékpármúzeum stílusos és száraz kezdés esős időben is. A villa és a katedrális közti rövid távok miatt biciklivel gyorsan átérhetünk egyik fedett helyről a másikra. A tónál óvatosan kell tekerni a felázott talajon. A sétálóutca árkádjai a túra végén a kerékpároknak is védelmet nyújtanak.",
+            "ro": "Muzeul Bicicletei este punctul de plecare perfect pe ploaie. Distanțele scurte între vilă și catedrală fac ciclismul eficient în ciuda umezelii. La lac trebuie să fiți prudenți pe poteci, deoarece solul devine alunecos. Bulevardul oferă la final protecție pentru biciclete sub arcade.",
+            "en": "The Bicycle Museum is the perfect starting point in the rain. Short distances between the villa and the cathedral make cycling efficient despite the wetness. At the lake, be cautious on the paths as the ground becomes slippery. The boulevard offers shelter for bikes under its arcades at the end."
+          },
+          "stops": [
+            {
+              "name": "Bicycle Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Parken.",
+                "hu": "Használja a múzeum fedett bejáratát a parkoláshoz.",
+                "ro": "Folosiți zona de intrare acoperită pentru parcare.",
+                "en": "Use the covered entrance area for bicycle parking."
+              }
+            },
+            {
+              "name": "Chaim Frenkel Villa",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem Kopfsteinpflaster in der Einfahrt.",
+                "hu": "Vigyázzon a csúszós macskakövekre a villa bejáratánál.",
+                "ro": "Atenție la pavajul alunecos de la intrarea vilei.",
+                "en": "Watch out for slippery cobblestones at the villa entrance."
+              }
+            },
+            {
+              "name": "Sundial Square",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Kurven auf den nassen Fliesen.",
+                "hu": "Kerülje az éles kanyarokat a vizes kövezeten.",
+                "ro": "Evitați virajele strânse pe plăcile umede.",
+                "en": "Avoid sharp turns on the wet tile surface."
+              }
+            },
+            {
+              "name": "Cathedral of Saints Peter and Paul",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich nahe am Haupttor.",
+                "hu": "A kerékpártárolók közvetlenül a főkapu mellett vannak.",
+                "ro": "Rafturile pentru biciclete sunt aproape de poarta principală.",
+                "en": "Bicycle racks are located close to the main gate."
+              }
+            },
+            {
+              "name": "Talkša Lake & Iron Fox",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, Pfützen verbergen oft Schlaglöcher.",
+                "hu": "Hajtson lassan, a tócsák gyakran kátyúkat rejtenek.",
+                "ro": "Mergeți încet, bălțile ascund adesea gropi.",
+                "en": "Ride slowly; puddles often hide deep potholes."
+              }
+            },
+            {
+              "name": "Šiauliai Boulevard",
+              "tip_5lang": {
+                "de": "Absteigen und Schieben ist in den Passagen Pflicht.",
+                "hu": "Az árkádok alatt kötelező leszállni és tolni a biciklit.",
+                "ro": "Este obligatoriu să coborâți și să împingeți bicicleta sub pasaje.",
+                "en": "Dismounting and pushing the bike is mandatory under passages."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie reflektierende Regenkleidung, da die Sicht oft schlecht ist.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Fahrt auf nassem Untergrund.",
+              "Viele öffentliche Fahrradständer sind nicht überdacht.",
+              "Das Fahrradmuseum hat Schließfächer für nasse Helme."
+            ],
+            "hu": [
+              "Viseljen fényvisszaverő esőkabátot a rossz látási viszonyok miatt.",
+              "Ellenőrizze a fékeket a vizes utakon való indulás előtt.",
+              "A legtöbb köztéri kerékpártároló nem fedett.",
+              "A Kerékpármúzeumban vannak szekrények a vizes sisakoknak."
+            ],
+            "ro": [
+              "Purtați pelerine reflectorizante, vizibilitatea este adesea redusă.",
+              "Verificați saboții de frână înainte de a pleca pe drumuri ude.",
+              "Majoritatea rastelurilor publice nu sunt acoperite.",
+              "Muzeul Bicicletei are vestiare pentru căștile ude."
+            ],
+            "en": [
+              "Wear reflective rain gear as visibility is often poor.",
+              "Check your brake pads before riding on wet surfaces.",
+              "Most public bicycle racks are not covered.",
+              "The Bicycle Museum has lockers for wet helmets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterkälte in Šiauliai ist beißend, aber die Museen bieten Aufwärmstopps. Das Fahrradmuseum ist ein Muss für Radbegeisterte. Die Wege am Talkša-See können vereist sein, was Vorsicht erfordert. Der Tag endet gemütlich auf dem festlich beleuchteten Boulevard, wo man das Rad sicher abstellen kann.",
+            "hu": "A téli hideg metsző lehet, de a múzeumok kiváló melegedőpontok útközben. A Kerékpármúzeum a bringásoknak kötelező megálló. A Talkša-tó körüli utak jegesek lehetnek, így fokozott óvatosság kell. A nap a díszkivilágításban úszó sétálóutcán ér véget, ahol biztonságos tárolók várnak.",
+            "ro": "Frigul iernii în Šiauliai este tăios, dar muzeele oferă puncte de încălzire. Muzeul Bicicletei este obligatoriu pentru pasionați. Potecile de la lacul Talkša pot fi înghețate, necesitând prudență. Ziua se încheie plăcut pe bulevardul iluminat festiv, unde bicicleta poate fi lăsată în siguranță.",
+            "en": "The winter cold in Šiauliai can be biting, but museums offer warm-up stops. The Bicycle Museum is a must for enthusiasts. Paths by Talkša Lake can be icy, requiring caution. The day ends comfortably on the festively lit boulevard, where bikes can be safely parked."
+          },
+          "stops": [
+            {
+              "name": "Bicycle Museum",
+              "tip_5lang": {
+                "de": "Drinnen ist es warm, ideal zum Aufwärmen der Hände.",
+                "hu": "Bent meleg van, ideális a kezek átmelegítéséhez.",
+                "ro": "Este cald în interior, ideal pentru încălzirea mâinilor.",
+                "en": "It is warm inside, ideal for thawing out cold hands."
+              }
+            },
+            {
+              "name": "Chaim Frenkel Villa",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad am Zaun nahe dem Eingang an.",
+                "hu": "Zárja le a biciklit a bejárathoz közeli kerítésnél.",
+                "ro": "Legați bicicleta de gardul de lângă intrare.",
+                "en": "Lock your bike to the fence near the entrance."
+              }
+            },
+            {
+              "name": "Sundial Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneeverwehungen in den Ecken.",
+                "hu": "Vigyázzon a sarkokban felgyűlt hóbuckákra.",
+                "ro": "Atenție la troienele de zăpadă din colțuri.",
+                "en": "Watch out for snowdrifts accumulated in the corners."
+              }
+            },
+            {
+              "name": "Cathedral of Saints Peter and Paul",
+              "tip_5lang": {
+                "de": "Der Platz vor der Kirche wird meist gut geräumt.",
+                "hu": "A templom előtti teret általában alaposan letakarítják.",
+                "ro": "Piața din fața bisericii este de obicei bine curățată.",
+                "en": "The square in front of the church is usually well-cleared."
+              }
+            },
+            {
+              "name": "Talkša Lake & Iron Fox",
+              "tip_5lang": {
+                "de": "Starker Wind vom See her möglich, fest treten.",
+                "hu": "Erős szél fújhat a tótól, tekerjen kitartóan.",
+                "ro": "Vânt puternic dinspre lac, pedalați cu forță.",
+                "en": "Strong winds from the lake are likely; pedal steadily."
+              }
+            },
+            {
+              "name": "Šiauliai Boulevard",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger auf den geräumten Pfaden.",
+                "hu": "Figyeljen a gyalogosokra a letakarított sávokban.",
+                "ro": "Fiți atenți la pietonii de pe potecile curățate.",
+                "en": "Watch out for pedestrians on the cleared paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Benutzen Sie im Winter Reifen mit gutem Profil oder Spikes.",
+              "Salz auf den Straßen kann den Fahrradrahmen angreifen.",
+              "Wärmen Sie Ihre Füße regelmäßig in den Museen auf.",
+              "Licht ist ab 15:30 Uhr aufgrund der frühen Dämmerung Pflicht."
+            ],
+            "hu": [
+              "Télen használjon mélyebb profilú vagy szöges gumikat.",
+              "Az utak sózása kárt tehet a kerékpár vázában.",
+              "Rendszeresen melegítse át a lábait a múzeumlátogatások alatt.",
+              "A korai sötétedés miatt 15:30-tól kötelező a világítás."
+            ],
+            "ro": [
+              "Folosiți anvelope cu profil adânc sau cu ținte iarna.",
+              "Sarea de pe drumuri poate ataca cadrul bicicletei.",
+              "Încălziți-vă picioarele regulat în timpul vizitelor la muzeu.",
+              "Luminile sunt obligatorii de la 15:30 din cauza amurgului timpuriu."
+            ],
+            "en": [
+              "Use tires with deep treads or studs during winter.",
+              "Road salt can be corrosive to your bicycle frame.",
+              "Regularly warm up your feet during museum visits.",
+              "Lights are mandatory from 3:30 PM due to early sunset."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1002,6 +1384,206 @@
           "The car allows you to easily reach destinations outside the center, such as the Hill of Crosses.",
           "Plan your route in advance to avoid traffic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ermöglicht es, direkt vor den Museen und der Villa zu parken, was den Kontakt mit Regen minimiert. Die Fahrt zum See ist kurz und komfortabel. Die Museen bieten genug Programm, um die stärksten Schauer trocken zu verbringen. Am Boulevard findet man Parkplätze in den Seitenstraßen nahe der Cafés.",
+            "hu": "Az autó lehetővé teszi, hogy közvetlenül a múzeumok és a villa előtt parkoljunk, minimalizálva az esővel való érintkezést. A tóparti kiruccanás rövid és kényelmes. A múzeumi tárlatok elég hosszúak ahhoz, hogy a nagyobb záporokat szárazon vészeljük át. A sétálóutca melletti utcákban könnyen találunk parkolót a kávézók közelében.",
+            "ro": "Mașina permite parcarea direct în fața muzeelor și a vilei, minimizând contactul cu ploaia. Drumul spre lac este scurt și confortabil. Muzeele oferă suficient program pentru a petrece cele mai puternice averse la adăpost. Pe bulevard veți găsi parcări pe străzile laterale, aproape de cafenele.",
+            "en": "The car allows parking directly in front of museums and the villa, minimizing contact with rain. The trip to the lake is short and comfortable. Museums offer enough indoor activity to stay dry during the heaviest showers. Near the boulevard, parking is available on side streets close to cafes."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Chaim Frenkel Villa & Bicycle Museum",
+              "tip_5lang": {
+                "de": "Kostenlose Parkplätze direkt vor der Villa vorhanden.",
+                "hu": "Ingyenes parkolóhelyek állnak rendelkezésre a villa előtt.",
+                "ro": "Locuri de parcare gratuite disponibile chiar în fața vilei.",
+                "en": "Free parking spaces are available directly in front of the villa."
+              }
+            },
+            {
+              "name": "Bicycle Museum (on foot)",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg vom Parkplatz der Villa entfernt.",
+                "hu": "Mindössze 2 perc séta a villa parkolójától.",
+                "ro": "La doar 2 minute de mers pe jos de parcarea vilei.",
+                "en": "Only a 2-minute walk from the villa parking lot."
+              }
+            },
+            {
+              "name": "Cluster B: Center & Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz am Tilžės-Markt bei Regen.",
+                "hu": "Esőben használja a közeli Tilžės piac parkolóját.",
+                "ro": "Folosiți parcarea de la piața Tilžės în caz de ploaie.",
+                "en": "Use the parking lot near Tilžės market during rain."
+              }
+            },
+            {
+              "name": "Šiauliai Boulevard (on foot)",
+              "tip_5lang": {
+                "de": "Nehmen Sie einen Regenschirm für die Fußgängerzone mit.",
+                "hu": "Vigyen magával esernyőt a gyalogos zónához.",
+                "ro": "Luați o umbrelă pentru zona pietonală.",
+                "en": "Take an umbrella for the pedestrian-only zone."
+              }
+            },
+            {
+              "name": "Museum of Photography (on foot)",
+              "tip_5lang": {
+                "de": "Der Eingang liegt etwas versteckt in einer Passage.",
+                "hu": "A bejárat kicsit rejtve, egy átjáróban található.",
+                "ro": "Intrarea este puțin ascunsă într-un pasaj.",
+                "en": "The entrance is slightly hidden within a passage."
+              }
+            },
+            {
+              "name": "Cluster C: Talkša Lake",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt am Eisenfuchs vorhanden.",
+                "hu": "Tágas parkoló található közvetlenül a Vasróka mellett.",
+                "ro": "Parcare mare disponibilă chiar lângă Vulpea de Fier.",
+                "en": "Large parking lot available right next to the Iron Fox."
+              }
+            },
+            {
+              "name": "Iron Fox (on foot)",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Auto zur Statue für Fotos.",
+                "hu": "Gyors vágta az autótól a szoborig a fotózáshoz.",
+                "ro": "Sprint scurt de la mașină la statuie pentru fotografii.",
+                "en": "Quick sprint from the car to the statue for photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Das Parken im Stadtzentrum ist an Wochentagen gebührenpflichtig.",
+              "Achten Sie auf große Pfützen am Straßenrand beim Aussteigen.",
+              "Die Sicht kann bei starkem Regen in Šiauliai eingeschränkt sein.",
+              "Verwenden Sie Park-Apps für eine stressfreie Zahlung."
+            ],
+            "hu": [
+              "A városközpontban a parkolás hétköznapokon díjköteles.",
+              "Kiszálláskor ügyeljen az útmenti nagy tócsákra.",
+              "Heves esőzéskor a látási viszonyok korlátozottak lehetnek.",
+              "Használjon parkolási alkalmazást a kényelmes fizetéshez."
+            ],
+            "ro": [
+              "Parcarea în centrul orașului este contra cost în timpul săptămânii.",
+              "Atenție la bălțile mari de la marginea drumului la coborâre.",
+              "Vizibilitatea poate fi redusă în Šiauliai în timpul ploilor torențiale.",
+              "Folosiți aplicații de parcare pentru o plată fără stres."
+            ],
+            "en": [
+              "City center parking is paid during weekdays.",
+              "Watch out for large roadside puddles when exiting the car.",
+              "Visibility can be limited in Šiauliai during heavy downpours.",
+              "Use parking apps for a stress-free payment experience."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein vorgewärmtes Auto ist der beste Weg, um Šiauliai im Winter zu erkunden. Die Fahrt zwischen den Clustern ist kurz, sodass man nie lange der Kälte ausgesetzt ist. Die Kathedrale und die Villa wirken im Schnee zauberhaft. Am späten Nachmittag beleuchtet das Auto die dunklen Straßen, während man zum zugefrorenen See fährt.",
+            "hu": "Egy előmelegített autó a legjobb módja Šiauliai felfedezésének télen. A helyszínek közötti utak rövidek, így nem kell sokáig a hidegben lenni. A katedrális és a villa látványa hóban varázslatos. Késő délután az autó fényei segítenek a sötét utcákon a befagyott tóhoz való eljutásban.",
+            "ro": "O mașină preîncălzită este cel mai bun mod de a explora Šiauliai iarna. Drumurile între obiective sunt scurte, deci nu veți fi expuși mult timp la frig. Catedrala și vila arată magic în zăpadă. La sfârșitul după-amiezii, farurile mașinii luminează străzile întunecate spre lacul înghețat.",
+            "en": "A pre-heated car is the best way to explore Šiauliai in winter. Trips between clusters are short, so you are never exposed to the cold for long. The cathedral and villa look magical in the snow. In the late afternoon, your car lights guide you through dark streets to the frozen lake."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Chaim Frenkel Villa & Bicycle Museum",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird im Winter regelmäßig geräumt.",
+                "hu": "A parkolót télen rendszeresen takarítják a hótól.",
+                "ro": "Parcarea este curățată regulat iarna.",
+                "en": "The parking lot is regularly cleared of snow in winter."
+              }
+            },
+            {
+              "name": "Bicycle Museum (on foot)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf dem Gehweg zur Villa.",
+                "hu": "Vigyázzon a jegesedésre a villához vezető járdán.",
+                "ro": "Atenție la polei pe trotuarul spre vilă.",
+                "en": "Watch out for black ice on the sidewalk to the villa."
+              }
+            },
+            {
+              "name": "Cluster B: Center & Cathedral",
+              "tip_5lang": {
+                "de": "Parkplätze nahe dem Boulevard sind im Winter begehrt.",
+                "hu": "A sétálóutca közeli parkolók télen hamar betelnek.",
+                "ro": "Locurile de parcare de lângă bulevard sunt căutate iarna.",
+                "en": "Parking spots near the boulevard are popular in winter."
+              }
+            },
+            {
+              "name": "Šiauliai Boulevard (on foot)",
+              "tip_5lang": {
+                "de": "Der Hauptweg ist meist gut gestreut und sicher.",
+                "hu": "A főútvonalat általában alaposan sózzák és biztonságos.",
+                "ro": "Calea principală este de obicei bine dezapezită și sigură.",
+                "en": "The main path is usually well-salted and safe for walking."
+              }
+            },
+            {
+              "name": "Museum of Photography (on foot)",
+              "tip_5lang": {
+                "de": "Klopfen Sie den Schnee von den Schuhen vor dem Eintritt.",
+                "hu": "Belépés előtt rázza le a havat a cipőjéről.",
+                "ro": "Scuturați zăpada de pe încălțăminte înainte de intrare.",
+                "en": "Shake the snow off your shoes before entering the museum."
+              }
+            },
+            {
+              "name": "Cluster C: Talkša Lake",
+              "tip_5lang": {
+                "de": "Parken Sie nicht zu nah am Ufer bei Schneematsch.",
+                "hu": "Hókásás időben ne parkoljon túl közel a parthoz.",
+                "ro": "Nu parcați prea aproape de mal când e lapoviță.",
+                "en": "Avoid parking too close to the shore in slushy conditions."
+              }
+            },
+            {
+              "name": "Iron Fox (on foot)",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe für Fotos bei Minusgraden.",
+                "hu": "Viseljen kesztyűt a fotózáshoz fagypont alatt.",
+                "ro": "Purtați mănuși pentru poze la temperaturi negative.",
+                "en": "Wear gloves while taking photos in freezing temperatures."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Litauen ab dem 10. November Pflicht.",
+              "Führen Sie einen Eiskratzer und Besen im Auto mit.",
+              "Batterieprüfung vor der Reise wird bei Frost dringend empfohlen.",
+              "Einige kleine Nebenstraßen können sehr glatt sein."
+            ],
+            "hu": [
+              "Litvániában november 10-től kötelező a téli gumi.",
+              "Mindig legyen az autóban jégkaparó és hókefe.",
+              "Erős fagyban javasolt az akkumulátor előzetes ellenőrzése.",
+              "Néhány kisebb mellékutca rendkívül jeges lehet."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Lituania din 10 noiembrie.",
+              "Aveți întotdeauna în mașină o racletă și o perie de zăpadă.",
+              "Verificarea bateriei este recomandată în caz de ger.",
+              "Unele străzi secundare mici pot fi foarte alunecoase."
+            ],
+            "en": [
+              "Winter tires are mandatory in Lithuania from November 10th.",
+              "Always carry an ice scraper and a snow brush in the car.",
+              "Battery checks are highly recommended during deep freezes.",
+              "Some small side streets can remain very slippery."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1318,6 +1900,188 @@
           "Use a public transport app to find the best connections.",
           "Buses run regularly, but check the schedule for the evening."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Busse verbinden die Zentrums-Cluster effizient und halten Sie im Trockenen. Die Wartezeiten an den Bushaltestellen lassen sich durch die App minimieren. Das Fotografiemuseum und die Chaim Frenkel Villa bieten stundenlanges Programm bei Regen. Der Tag endet am Talkša-See, den man mit einer kurzen Busfahrt erreicht.",
+            "hu": "A buszok hatékonyan kötik össze a központi helyszíneket, megvédve az esőtől. A várakozási idő az alkalmazás segítségével minimalizálható. A Fotómúzeum és a villa órákra elegendő benti elfoglaltságot kínál esőben is. A nap a Talkša-tónál ér véget, ahová egy rövid buszúttal juthatunk el.",
+            "ro": "Autobuzele conectează eficient zonele centrale și vă feresc de ploaie. Timpii de așteptare pot fi minimizați folosind aplicația. Muzeul Fotografiei și vila oferă program pentru ore întregi în caz de ploaie. Ziua se încheie la lacul Talkša, unde se ajunge cu o scurtă călătorie cu autobuzul.",
+            "en": "Buses efficiently connect the central clusters, keeping you dry. Waiting times can be minimized using the transit app. The Photography Museum and Chaim Frenkel Villa offer hours of indoor activities during rain. The day ends at Talkša Lake, reachable by a short bus ride."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Center",
+              "tip_5lang": {
+                "de": "Zentrale Bushaltestellen haben meist kleine Unterstände.",
+                "hu": "A központi buszmegállók általában rendelkeznek tetővel.",
+                "ro": "Stațiile centrale de autobuz au de obicei adăposturi mici.",
+                "en": "Central bus stops mostly have small shelters for rain."
+              }
+            },
+            {
+              "name": "Cathedral of Saints Peter and Paul (on foot)",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Schritte entfernt.",
+                "hu": "A megálló mindössze néhány lépésre van a templomtól.",
+                "ro": "Stația este la doar câțiva pași distanță.",
+                "en": "The bus stop is just a few steps away from the church."
+              }
+            },
+            {
+              "name": "Sundial Square (on foot)",
+              "tip_5lang": {
+                "de": "Rechnen Sie mit Windböen auf dem Weg zur Haltestelle.",
+                "hu": "Számítson széllökésekre a megálló felé menet.",
+                "ro": "Așteptați-vă la rafale de vânt spre stație.",
+                "en": "Expect wind gusts on the walk to the bus stop."
+              }
+            },
+            {
+              "name": "Cluster B: Chaim Frenkel Villa",
+              "tip_5lang": {
+                "de": "Die Linie 12 hält direkt in der Nähe der Villa.",
+                "hu": "A 12-es busz közvetlenül a villa közelében áll meg.",
+                "ro": "Linia 12 oprește chiar în apropierea vilei.",
+                "en": "Bus line 12 stops right in the vicinity of the villa."
+              }
+            },
+            {
+              "name": "Cluster C: Talkša Lake",
+              "tip_5lang": {
+                "de": "Gute Verbindung zurück ins Zentrum alle 15-20 Minuten.",
+                "hu": "Jó összeköttetés a központba 15-20 percenként.",
+                "ro": "Conexiune bună spre centru la fiecare 15-20 minute.",
+                "en": "Good connection back to the center every 15-20 minutes."
+              }
+            },
+            {
+              "name": "Iron Fox (on foot)",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle 'Ežero'.",
+                "hu": "Rövid séta az 'Ežero' megállótól.",
+                "ro": "Scurtă plimbare de la stația 'Ežero'.",
+                "en": "A short walk from the 'Ežero' bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrkarten können kontaktlos beim Fahrer oder per App gekauft werden.",
+              "Die Busse in Šiauliai sind meist pünktlich und gut beheizt.",
+              "Nutzen Sie die App 'stops.lt' für Echtzeit-Informationen.",
+              "Vermeiden Sie das Warten an ungeschützten Haltestellen am See."
+            ],
+            "hu": [
+              "Jegyet érintésmentesen a sofőrnél vagy applikációban vehet.",
+              "A buszok Šiauliai-ban pontosak és jól fűtöttek.",
+              "Használja a 'stops.lt' oldalt a valós idejű menetrendhez.",
+              "Kerülje a várakozást a tónál lévő fedetlen megállókban."
+            ],
+            "ro": [
+              "Biletele pot fi cumpărate contactless de la șofer sau prin aplicație.",
+              "Autobuzele din Šiauliai sunt punctuale și bine încălzite.",
+              "Folosiți aplicația 'stops.lt' pentru informații în timp real.",
+              "Evitați așteptarea în stațiile neacoperite de lângă lac."
+            ],
+            "en": [
+              "Tickets can be bought contactless from the driver or via app.",
+              "Buses in Šiauliai are generally punctual and well-heated.",
+              "Use the 'stops.lt' app for real-time schedule information.",
+              "Avoid waiting at unsheltered stops near the lake."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Warme Busse machen den Transport zwischen den verschneiten Clustern im Winter angenehm. Die Museen bieten fantastische Indoor-Erlebnisse während der kalten Stunden. Am späten Nachmittag, wenn es früh dunkel wird, sind die Busse sicher und beleuchtet. Der Eisenfuchs am See wirkt in der klaren Winternacht besonders eindrucksvoll.",
+            "hu": "A fűtött buszok kényelmessé teszik a közlekedést a havas helyszínek között. A múzeumok fantasztikus benti élményeket nyújtanak a leghidegebb órákban. Késő délután, a korai sötétedéskor a buszközlekedés biztonságos és kényelmes. A tónál álló vasróka a tiszta téli éjszakában különösen impozáns látvány.",
+            "ro": "Autobuzele încălzite fac transportul plăcut între punctele înzăpezite. Muzeele oferă experiențe fantastice la interior în orele reci. Seara, când se întunecă devreme, autobuzele sunt sigure și bine iluminate. Vulpea de Fier de lângă lac arată impresionant în noaptea senină de iarnă.",
+            "en": "Warm buses make transit between snowy clusters pleasant in winter. Museums offer fantastic indoor experiences during the coldest hours. In the late afternoon, with early sunset, buses are a safe and bright way to travel. The Iron Fox by the lake looks impressive on a clear winter night."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Center",
+              "tip_5lang": {
+                "de": "Halten Sie sich im Windschatten der Wartehäuschen auf.",
+                "hu": "Várjon a megállók szélvédett oldalán.",
+                "ro": "Așteptați în zona ferită de vânt a stațiilor.",
+                "en": "Stay in the lee of the bus shelters to avoid the wind."
+              }
+            },
+            {
+              "name": "Cathedral of Saints Peter and Paul (on foot)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Ein- und Aussteigen auf vereisten Bordsteinen.",
+                "hu": "Vigyázzon a jeges padkákra le- és felszálláskor.",
+                "ro": "Atenție la bordurile înghețate la urcare și coborâre.",
+                "en": "Be careful on icy curbs when boarding or exiting the bus."
+              }
+            },
+            {
+              "name": "Sundial Square (on foot)",
+              "tip_5lang": {
+                "de": "Der Fußweg zur Haltestelle kann ungeräumt sein.",
+                "hu": "A megállóhoz vezető járda néhol havas maradhat.",
+                "ro": "Poteca spre stație poate fi necurățată de zăpadă.",
+                "en": "The walkway to the stop may not always be cleared."
+              }
+            },
+            {
+              "name": "Cluster B: Chaim Frenkel Villa",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in der Villa auf, bevor Sie zum Bus gehen.",
+                "hu": "Melegedjen át a villában, mielőtt visszaindul a buszhoz.",
+                "ro": "Încălziți-vă în vilă înainte de a merge la autobuz.",
+                "en": "Warm up inside the villa before heading back to the bus stop."
+              }
+            },
+            {
+              "name": "Cluster C: Talkša Lake",
+              "tip_5lang": {
+                "de": "In der Dämmerung ist die Haltestelle gut beleuchtet.",
+                "hu": "Sötétedés után a megálló jól meg van világítva.",
+                "ro": "Stația este bine iluminată după lăsarea întunericului.",
+                "en": "The bus stop is well-lit after sunset for safety."
+              }
+            },
+            {
+              "name": "Iron Fox (on foot)",
+              "tip_5lang": {
+                "de": "Tragen Sie Reflektoren für den Weg im Dunkeln.",
+                "hu": "Viseljen fényvisszaverőt a sötétben való sétához.",
+                "ro": "Purtați elemente reflectorizante pentru mersul în întuneric.",
+                "en": "Wear reflectors for the walk in the dark to stay visible."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können sich bei extremem Schneefall leicht verzögern.",
+              "Im Bus ist es oft sehr warm, kleiden Sie sich im Zwiebelprinzip.",
+              "Die vordere Tür bleibt bei großer Kälte oft geschlossen (Einstieg hinten).",
+              "Haltestellennamen werden im Bus angesagt und angezeigt."
+            ],
+            "hu": [
+              "Extrém hóesésben a buszok menetrendje kicsit módosulhat.",
+              "A buszokon gyakran nagyon meleg van, öltözködjön rétegesen.",
+              "Nagy hidegben az első ajtó zárva maradhat (szálljon fel hátul).",
+              "A megállóneveket bemondják és kijelzőn is mutatják."
+            ],
+            "ro": [
+              "Orarele pot avea mici întârzieri în caz de ninsori abundente.",
+              "În autobuz este adesea foarte cald, îmbrăcați-vă în straturi.",
+              "Ușa din față poate rămâne închisă pe ger (urcați prin spate).",
+              "Numele stațiilor sunt anunțate și afișate în autobuz."
+            ],
+            "en": [
+              "Schedules may experience slight delays during heavy snowfall.",
+              "Buses are often very warm; dress in removable layers.",
+              "The front door may stay closed in extreme cold (board at the back).",
+              "Stop names are both announced and displayed on screens."
+            ]
+          }
+        }
       }
     }
   }

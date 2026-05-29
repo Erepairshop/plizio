@@ -402,6 +402,206 @@
           "The city is compact, and most major attractions are easily within walking distance.",
           "Take your time on the walls; the perspectives constantly change and offer great photo opportunities."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt im Guildhall, wo die neugotische Architektur Schutz vor dem Regen bietet. Mittags führt der Weg über die Stadtmauern; festes Schuhwerk ist bei Nässe auf dem Steinpflaster wichtig. Den Nachmittag verbringen Sie im Tower Museum, das trockenes Kulturprogramm bietet. Den Abschluss bildet der Peace Bridge, wobei der Wind den Regen peitscht.",
+            "hu": "A reggelt a Guildhall neogótikus épületében kezdjük, amely menedéket nyújt az eső elől. Délben a várfalakon sétálunk; a nedves kövezet csúszós lehet, így óvatosan haladjunk. A délutánt a Tower Museumban töltjük, ahol szárazon ismerhetjük meg a város történelmét. Este a Peace Bridge-en az eső és a Foyle-folyó látványa különleges hangulatot áraszt.",
+            "ro": "Dimineața începe la Guildhall, unde arhitectura neogotică oferă adăpost împotriva ploii. La prânz, parcurgem zidurile orașului; pavajul umed poate fi alunecos. După-amiaza este rezervată Muzeului Tower, oferind un program cultural ferit de intemperii. Seara se încheie pe Peace Bridge, unde vântul și ploaia creează o atmosferă dramatică asupra râului Foyle.",
+            "en": "The morning starts inside the Guildhall, where neo-Gothic interiors offer shelter. At midday, walk the City Walls; be careful as the 17th-century stones get slippery when wet. Spend the afternoon in the Tower Museum for a dry cultural experience. The day ends at the Peace Bridge, where the rain reflects beautifully on the river lights."
+          },
+          "stops": [
+            {
+              "name": "Guildhall",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster im großen Saal, während es draußen regnet.",
+                "hu": "Csodálja meg a nagyterem ólomüveg ablakait, miközben kint esik.",
+                "ro": "Admirați vitraliile din sala mare în timp ce afară plouă.",
+                "en": "Admire the stained glass windows in the main hall while it rains outside."
+              }
+            },
+            {
+              "name": "City Walls",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Durchgänge unter den Stadttoren als kurzzeitigen Regenschutz.",
+                "hu": "Használja a városkapuk alatti átjárókat rövid eső elleni menedékként.",
+                "ro": "Folosiți arcadele porților orașului ca adăpost temporar împotriva ploii.",
+                "en": "Use the archways of the city gates as temporary shelter from the rain."
+              }
+            },
+            {
+              "name": "St. Columb's Cathedral",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Kapitelhaus-Museum im Inneren, um trocken zu bleiben.",
+                "hu": "Látogasson el a belső káptalanházi múzeumba, hogy szárazon maradjon.",
+                "ro": "Vizitați muzeul casei capitulare din interior pentru a rămâne uscat.",
+                "en": "Visit the Chapter House museum inside to stay dry."
+              }
+            },
+            {
+              "name": "Tower Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mindestens 90 Minuten ein, um den stärksten Regen abzuwarten.",
+                "hu": "Tervezzen itt legalább 90 percet, hogy kivárja a hevesebb esőt.",
+                "ro": "Planificați cel puțin 90 de minute aici pentru a aștepta trecerea ploii.",
+                "en": "Plan at least 90 minutes here to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "Free Derry Corner",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; der Platz ist komplett ungeschützt.",
+                "hu": "Gyors fotómegálló; a tér teljesen nyitott, nincs fedett rész.",
+                "ro": "Oprire scurtă pentru poze; piața este complet neprotejată.",
+                "en": "Quick photo stop; the square is completely unsheltered."
+              }
+            },
+            {
+              "name": "Bogside Murals",
+              "tip_5lang": {
+                "de": "Ein Regenschirm ist für diesen Abschnitt im Bogside-Viertel unerlässlich.",
+                "hu": "Az esernyő elengedhetetlen ebben a szakaszban a Bogside negyedben.",
+                "ro": "O umbrelă este esențială pentru această secțiune în cartierul Bogside.",
+                "en": "An umbrella is essential for this section in the Bogside area."
+              }
+            },
+            {
+              "name": "Peace Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht bei starkem Wind auf der Brücke; Geländer bieten Halt.",
+                "hu": "Vigyázat az erős széllel a hídon; a korlátok stabil támaszt adnak.",
+                "ro": "Atenție la vântul puternic de pe pod; balustradele oferă sprijin.",
+                "en": "Watch out for high winds on the bridge; the railings provide support."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie einen stabilen 'Storm-Proof' Schirm in der Shipquay Street.",
+              "Die Stadtmauern haben keine Überdachung, meiden Sie die grasbewachsenen Ränder.",
+              "Das Foyleside Shopping Centre bietet eine trockene Verbindung zwischen den Ebenen.",
+              "Cafés in der Waterloo Street sind ideal für kurze Aufwärmpausen."
+            ],
+            "hu": [
+              "Vegyél egy viharálló esernyőt a Shipquay utcában; a szél itt erős.",
+              "A várfalakon nincs tető, kerüld a füves széleket, mert csúsznak.",
+              "A Foyleside bevásárlóközpont száraz átjárót biztosít a szintek között.",
+              "A Waterloo utca kávézói ideálisak rövid melegedő szünetekre."
+            ],
+            "ro": [
+              "Cumpărați o umbrelă rezistentă la furtună de pe strada Shipquay.",
+              "Zidurile orașului nu au acoperiș; evitați marginile cu iarbă.",
+              "Centrul comercial Foyleside oferă o legătură uscată între niveluri.",
+              "Cafenelele de pe strada Waterloo sunt ideale pentru pauze scurte."
+            ],
+            "en": [
+              "Buy a sturdy storm-proof umbrella on Shipquay Street.",
+              "The city walls have no overhead cover; avoid the grassy edges.",
+              "Foyleside Shopping Centre provides a dry connection between city levels.",
+              "Cafes on Waterloo Street are ideal for short drying-off breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Derry ist frostig; die Guildhall bietet eine warme erste Station. Mittags weht auf den Stadtmauern ein schneidender Wind vom Foyle. Der Nachmittag wird in der St. Columb's Kathedrale und im Museum verbracht, bevor die Dämmerung gegen 16:00 Uhr einsetzt. Die Murals im Bogside wirken im fahlen Winterlicht besonders eindringlich, gefolgt von der beleuchteten Peace Bridge.",
+            "hu": "A téli reggel Derryben fagyos; a Guildhall meleg belső tere az első állomás. Délben a várfalakon metsző szél fúj a Foyle felől. A délutánt a Szent Columba katedrálisban és a múzeumban töltjük, mielőtt 16:00 körül leszáll az est. A Bogside falfestményei a téli szürkületben különösen hatásosak, végül a kivilágított Peace Bridge zárja a napot.",
+            "ro": "Dimineața de iarnă în Derry este geroasă; Guildhall oferă o primă oprire caldă. La prânz, pe zidurile orașului suflă un vânt tăios dinspre Foyle. După-amiaza este petrecută în Catedrala St. Columb și în muzeu, înainte de lăsarea întunericului în jur de ora 16:00. Picturile murale din Bogside par mai profunde în lumina iernii, urmate de podul Peace Bridge iluminat.",
+            "en": "Winter mornings in Derry are frosty; the Guildhall provides a warm first stop. At midday, a biting wind blows from the Foyle across the City Walls. Spend the afternoon in the cathedral and museum before sunset at 16:00. The Bogside murals look particularly poignant in the pale winter light, followed by the illuminated Peace Bridge."
+          },
+          "stops": [
+            {
+              "name": "Guildhall",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren und besuchen Sie die Ausstellung zur Plantage.",
+                "hu": "Élvezze a belső meleget és nézze meg a város betelepítéséről szóló kiállítást.",
+                "ro": "Bucurați-vă de căldura din interior și vizitați expoziția despre colonizare.",
+                "en": "Enjoy the warmth inside and visit the exhibition about the Plantation."
+              }
+            },
+            {
+              "name": "City Walls",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; die Kanonen und Geländer sind eiskalt.",
+                "hu": "Viseljen kesztyűt; az ágyúk és a korlátok jéghidegek.",
+                "ro": "Purtați mănuși; tunurile și balustradele sunt înghețate.",
+                "en": "Wear gloves; the cannons and railings are ice cold."
+              }
+            },
+            {
+              "name": "St. Columb's Cathedral",
+              "tip_5lang": {
+                "de": "Ein friedlicher, beheizter Ort für eine Pause während der Mittagszeit.",
+                "hu": "Békés, fűtött hely egy pihenőre a déli órákban.",
+                "ro": "Un loc liniștit și încălzit pentru o pauză în timpul prânzului.",
+                "en": "A peaceful, heated place for a break during midday."
+              }
+            },
+            {
+              "name": "Tower Museum",
+              "tip_5lang": {
+                "de": "Die Aussichtsplattform oben ist im Winter sehr windig, aber sehenswert.",
+                "hu": "A fenti kilátó télen nagyon szeles, de a látvány megéri.",
+                "ro": "Platforma de observație de sus este foarte vântoasă iarna.",
+                "en": "The viewing platform at the top is very windy in winter."
+              }
+            },
+            {
+              "name": "Free Derry Corner",
+              "tip_5lang": {
+                "de": "Gegen 15:45 Uhr beginnt hier bereits die blaue Stunde.",
+                "hu": "15:45 körül itt már elkezdődik a kékóra.",
+                "ro": "În jur de ora 15:45 deja începe ora albastră aici.",
+                "en": "Around 15:45, the blue hour begins here."
+              }
+            },
+            {
+              "name": "Bogside Murals",
+              "tip_5lang": {
+                "de": "Besichtigung im Tageslicht empfohlen; ab 16:30 Uhr ist es dunkel.",
+                "hu": "Nappali fényben javasolt; 16:30 után már sötét van.",
+                "ro": "Vizită recomandată la lumina zilei; după 16:30 este întuneric.",
+                "en": "Daylight visit recommended; it is dark after 16:30."
+              }
+            },
+            {
+              "name": "Peace Bridge",
+              "tip_5lang": {
+                "de": "Die Beleuchtung der Brücke spiegelt sich herrlich im dunklen Fluss.",
+                "hu": "A híd világítása csodásan tükröződik a sötét folyón.",
+                "ro": "Iluminarea podului se reflectă superb în râul întunecat.",
+                "en": "The bridge's lighting reflects beautifully in the dark river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sonnenuntergang ist ca. 16:00 Uhr, planen Sie Außenstopps davor.",
+              "Die Stadtmauern können bei Frost sehr glatt sein; Streusalz ist selten.",
+              "Wollmütze und Schal sind wegen des Windes am Fluss Pflicht.",
+              "Besuchen Sie den Weihnachtsmarkt im Guildhall Square (Dezember)."
+            ],
+            "hu": [
+              "A naplemente 16:00 körül van, a kinti megállókat időzítse korábbra.",
+              "A várfalak fagyban nagyon csúszósak lehetnek.",
+              "A folyóparti szél miatt a gyapjúsapka és sál kötelező.",
+              "Látogasson el a karácsonyi vásárba a Guildhall téren (december)."
+            ],
+            "ro": [
+              "Apusul este în jur de ora 16:00; planificați vizitele externe înainte.",
+              "Zidurile orașului pot fi foarte alunecoase în caz de îngheț.",
+              "Căciula și fularul sunt obligatorii din cauza vântului de pe râu.",
+              "Vizitați târgul de Crăciun din Piața Guildhall (în decembrie)."
+            ],
+            "en": [
+              "Sunset is around 16:00; plan outdoor stops before then.",
+              "The city walls can be very slippery during frost.",
+              "A woolly hat and scarf are mandatory due to the wind by the river.",
+              "Visit the Christmas market in Guildhall Square (December)."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -822,6 +1022,224 @@
           "Always lock your bike securely, even if leaving it for just a short time.",
           "Some areas within the city walls have cobblestones which can be bumpy for bikes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist die Fahrt über die Peace Bridge ein Erlebnis, wenn man wasserfeste Kleidung trägt. Der Vormittag führt zum Ebrington Square, gefolgt von Innenbesichtigungen in der Guildhall und dem Tower Museum zur Mittagszeit. Nachmittags geht es zu den Kathedralen und den Murals, wobei Pfützen in der Bogside-Senke beachtet werden müssen.",
+            "hu": "Az eső ellenére a Peace Bridge-en való átkelés élmény, ha van vízálló ruhánk. A délelőtt az Ebrington Square-re vezet, majd délben a Guildhall és a Tower Museum belső terei következnek. Délután a katedrálisokhoz és a falfestményekhez tekerünk, figyelve a Bogside mélyebben fekvő részein kialakuló tócsákra.",
+            "ro": "În ciuda ploii, traversarea podului Peace Bridge este o experiență dacă purtați haine impermeabile. Dimineața duce spre Piața Ebrington, urmată de vizite la Guildhall și Muzeul Tower la prânz. După-amiaza pedalăm spre catedrale și picturi murale, atenți la bălțile din zona Bogside.",
+            "en": "Despite the rain, cycling across the Peace Bridge is an experience if you have waterproof gear. The morning leads to Ebrington Square, followed by indoor visits to the Guildhall and Tower Museum at midday. In the afternoon, cycle to the cathedrals and murals, watching out for puddles in the Bogside hollow."
+          },
+          "stops": [
+            {
+              "name": "Peace Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Metallfugen; diese sind bei Nässe extrem rutschig.",
+                "hu": "Vigyázat a fém illesztéseknél; nedvesen rendkívül csúszósak.",
+                "ro": "Atenție la rosturile metalice; sunt extrem de alunecoase pe timp de ploaie.",
+                "en": "Careful on the metal expansion joints; they are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Ebrington Square",
+              "tip_5lang": {
+                "de": "Wenig Schutz; nutzen Sie das Dach des Pavillons bei starkem Guss.",
+                "hu": "Kevés a fedett rész; heves esőben használja a pavilon tetejét.",
+                "ro": "Puține zone acoperite; folosiți pavilionul în caz de aversă puternică.",
+                "en": "Little shelter; use the pavilion roof during heavy downpours."
+              }
+            },
+            {
+              "name": "Guildhall",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich direkt vor dem Haupteingang.",
+                "hu": "Kerékpártámaszok közvetlenül a főbejárat előtt találhatók.",
+                "ro": "Suporturile pentru biciclete sunt chiar în fața intrării principale.",
+                "en": "Bike racks are located directly in front of the main entrance."
+              }
+            },
+            {
+              "name": "Tower Museum",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz vorhanden; idealer Ort zum Abtrocknen.",
+                "hu": "Biztonságos tárolóhely áll rendelkezésre; ideális hely a megszikkadásra.",
+                "ro": "Loc de parcare sigur disponibil; loc ideal pentru a vă usca.",
+                "en": "Secure parking available; ideal place to dry off."
+              }
+            },
+            {
+              "name": "St. Columb's Cathedral",
+              "tip_5lang": {
+                "de": "Der Anstieg zur Kathedrale ist auf nassem Asphalt anstrengend.",
+                "hu": "A katedrálishoz vezető emelkedő a nedves aszfalton fárasztó.",
+                "ro": "Urcarea spre catedrală este obositoare pe asfaltul umed.",
+                "en": "The climb to the cathedral is strenuous on wet asphalt."
+              }
+            },
+            {
+              "name": "Free Derry Corner & Bogside Murals",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch Pfützen; die Gegend liegt tiefer.",
+                "hu": "Hajtson lassan a tócsákon át; ez a terület mélyebben fekszik.",
+                "ro": "Pedalați încet prin bălți; zona se află la o altitudine mai joasă.",
+                "en": "Ride slowly through puddles; this area lies in a hollow."
+              }
+            },
+            {
+              "name": "St. Eugene's Cathedral",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter Bäumen ab, um den Sattel trocken zu halten.",
+                "hu": "Állítsa a biciklit fák alá, hogy a nyereg száraz maradjon.",
+                "ro": "Parcați bicicleta sub copaci pentru a păstra șaua uscată.",
+                "en": "Park the bike under trees to keep the saddle dry."
+              }
+            },
+            {
+              "name": "Millennium Forum",
+              "tip_5lang": {
+                "de": "Das Foyer ist ein guter Ort, um den Regenradar zu prüfen.",
+                "hu": "Az előcsarnok jó hely az esőradar ellenőrzésére.",
+                "ro": "Foaierul este un loc bun pentru a verifica radarul de ploaie.",
+                "en": "The foyer is a good place to check the rain radar."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und wasserfeste Überhosen.",
+              "Die Bremswege auf den steilen Straßen innerhalb der Mauern verlängern sich.",
+              "Nutzen Sie die Greenway-Pfade am Fluss; dort gibt es weniger Autoverkehr.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter in Derry ein Muss."
+            ],
+            "hu": [
+              "Viselj teljes esőkabátot és vízálló nadrágot.",
+              "A várfalon belüli meredek utcákon a féktávolság megnő.",
+              "Használja a folyóparti Greenway utakat; ott kisebb az autóforgalom.",
+              "A sárvédő kötelező ebben az időben Derryben."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie completă și suprapantaloni impermeabili.",
+              "Distanțele de frânare pe străzile abrupte din interiorul zidurilor cresc.",
+              "Folosiți pistele Greenway de lângă râu; acolo este mai puțin trafic.",
+              "Apărătorile de noroi sunt obligatorii pe acest tip de vreme în Derry."
+            ],
+            "en": [
+              "Wear a full raincoat and waterproof over-trousers.",
+              "Braking distances on the steep streets inside the walls increase.",
+              "Use the riverside Greenway paths; there is less car traffic there.",
+              "Mudguards on your bike are a must in this Derry weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter erfordert in Derry warme Schichten gegen den Windchill am Foyle. Der Morgen startet an der Peace Bridge und dem zugigen Ebrington Square. Mittags bieten Guildhall und Tower Museum willkommene Wärme. Nachmittags geht es bergauf zu den Kathedralen, bevor die Dunkelheit gegen 16:30 Uhr eine gute Beleuchtung am Fahrrad unumgänglich macht.",
+            "hu": "A téli kerékpározáshoz Derryben meleg rétegek kellenek a Foyle felőli szél ellen. A reggel a Peace Bridge-nél és a huzatos Ebrington Square-en indul. Délben a Guildhall és a Tower Museum nyújt menedéket. Délután a katedrálisok felé tekerünk felfelé, 16:30 után pedig a jó világítás már elengedhetetlen.",
+            "ro": "Ciclismul de iarnă în Derry necesită straturi calde împotriva vântului de pe Foyle. Dimineața începe la Peace Bridge și în Piața Ebrington. La prânz, Guildhall și Muzeul Tower oferă căldură. După-amiaza pedalăm la deal spre catedrale, iar după 16:30 iluminarea bună a bicicletei este obligatorie.",
+            "en": "Cycling in winter requires warm layers against the wind chill from the Foyle. The morning starts at the Peace Bridge and the breezy Ebrington Square. At midday, the Guildhall and Tower Museum offer welcome warmth. In the afternoon, climb uphill to the cathedrals; after 16:30, good bike lights are essential."
+          },
+          "stops": [
+            {
+              "name": "Peace Bridge",
+              "tip_5lang": {
+                "de": "Extremer Windchill auf der Brücke; winddichte Handschuhe empfohlen.",
+                "hu": "Erős szélvihar a hídon; szélálló kesztyű ajánlott.",
+                "ro": "Vânt foarte rece pe pod; se recomandă mănuși rezistente la vânt.",
+                "en": "Extreme wind chill on the bridge; windproof gloves recommended."
+              }
+            },
+            {
+              "name": "Ebrington Square",
+              "tip_5lang": {
+                "de": "Freie Fläche, sehr ungeschützt vor Ostwind.",
+                "hu": "Nyitott terület, nagyon védtelen a keleti széllel szemben.",
+                "ro": "Zonă deschisă, foarte neprotejată de vântul de est.",
+                "en": "Open area, very unsheltered from easterly winds."
+              }
+            },
+            {
+              "name": "Guildhall",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich kurz auf, bevor Sie die Hügel der Altstadt erklimmen.",
+                "hu": "Melegedjen fel kicsit, mielőtt nekivág az óváros dombjainak.",
+                "ro": "Încălziți-vă puțin înainte de a urca dealurile orașului vechi.",
+                "en": "Warm up briefly before tackling the Old City hills."
+              }
+            },
+            {
+              "name": "Tower Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufzug, wenn Sie von der Kälte erschöpft sind.",
+                "hu": "Használja a liftet, ha elfáradt a hidegtől.",
+                "ro": "Folosiți liftul dacă sunteți epuizat de frig.",
+                "en": "Use the elevator if you are exhausted from the cold."
+              }
+            },
+            {
+              "name": "St. Columb's Cathedral",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in den schattigen Gassen rund um die Kirche.",
+                "hu": "Ügyeljen a jegesedésre a templom körüli árnyékos utcákban.",
+                "ro": "Atenție la gheață în aleile umbrite din jurul bisericii.",
+                "en": "Watch out for black ice in the shaded alleys around the church."
+              }
+            },
+            {
+              "name": "Free Derry Corner & Bogside Murals",
+              "tip_5lang": {
+                "de": "Kurze Fotostopps einlegen, um nicht auszukühlen.",
+                "hu": "Csak rövid fotómegállókat tartsunk, nehogy áthűljünk.",
+                "ro": "Faceți opriri scurte pentru poze pentru a nu vă răci.",
+                "en": "Take short photo stops to avoid getting chilled."
+              }
+            },
+            {
+              "name": "St. Eugene's Cathedral",
+              "tip_5lang": {
+                "de": "Die Auffahrt hält den Kreislauf in der Winterkälte in Schwung.",
+                "hu": "A felfelé menet segít mozgásban tartani a keringést a hidegben.",
+                "ro": "Urcarea ajută la menținerea circulației sângelui în frigul iernii.",
+                "en": "The uphill ride helps keep your circulation going in the winter cold."
+              }
+            },
+            {
+              "name": "Millennium Forum",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Beleuchtung für den Heimweg in der Dunkelheit.",
+                "hu": "Ellenőrizze a világítást a sötétben való hazatéréshez.",
+                "ro": "Verificați luminile pentru drumul spre casă prin întuneric.",
+                "en": "Check your lights for the journey home in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf gefrierende Nässe auf den hölzernen Stegen am Foyle.",
+              "Gute Vorder- und Rücklichter sind ab 16:00 Uhr lebensnotwendig.",
+              "Tragen Sie Thermounterwäsche; der Wind am Fluss ist oft unterschätzt.",
+              "Der Peace Bridge kann bei Sturm für Radfahrer gesperrt werden."
+            ],
+            "hu": [
+              "Ügyeljen a fagyott nedvességre a Foyle menti fapallókon.",
+              "A jó első és hátsó világítás 16:00 után elengedhetetlen.",
+              "Viselj hőtartó alsóneműt; a folyóparti szelet gyakran alábecsülik.",
+              "A Peace Bridge-et vihar esetén lezárhatják a biciklisek előtt."
+            ],
+            "ro": [
+              "Atenție la porțiunile înghețate de pe pasarelele de lemn de pe Foyle.",
+              "Luminile bune față-spate sunt vitale începând cu ora 16:00.",
+              "Purtați lenjerie termică; vântul de pe râu este adesea subestimat.",
+              "Podul Peace Bridge poate fi închis pentru bicicliști în caz de furtună."
+            ],
+            "en": [
+              "Watch out for freezing moisture on the wooden boardwalks along the Foyle.",
+              "Good front and rear lights are vital after 16:00.",
+              "Wear thermal underwear; the river wind is often underestimated.",
+              "The Peace Bridge may be closed to cyclists during high winds."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1218,6 +1636,206 @@
           "Pay attention to parking restrictions; many areas are for residents only.",
           "The cluster-walking strategy will save you time and money on parking."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich der Regen in Derry gut umgehen. Der Tag startet am Parkplatz an der Stadtmauer, gefolgt von der warmen St. Columb's Kathedrale. Mittags geht es zur Guildhall, wobei kurze Wege zwischen Auto und Sehenswürdigkeit gewählt werden. Nachmittags besuchen wir das Bogside-Viertel und den Peace Bridge, wobei das Auto als trockener Rückzugsort dient.",
+            "hu": "Autóval Derry esős napjai is könnyen kezelhetők. A nap a várfal melletti parkolóban indul, majd a meleg Szent Columba katedrális következik. Délben a Guildhallhoz hajtunk, minimalizálva az autó és a látnivaló közötti távot. Délután a Bogside negyedet és a Peace Bridge-et nézzük meg, az autót száraz menedékként használva.",
+            "ro": "Cu mașina, zilele ploioase din Derry sunt ușor de gestionat. Ziua începe la parcarea de lângă zidurile orașului, urmată de calda Catedrală St. Columb. La prânz mergem la Guildhall, alegând distanțe scurte între mașină și obiective. După-amiaza vizităm cartierul Bogside și Peace Bridge, folosind mașina ca refugiu uscat.",
+            "en": "Derry's rainy days are easily managed by car. The day starts at the City Walls car park, followed by the warm St. Columb's Cathedral. At midday, drive to the Guildhall, minimizing walking distance. In the afternoon, visit the Bogside area and the Peace Bridge, using the car as a dry retreat."
+          },
+          "stops": [
+            {
+              "name": "City Walls Car Park (Cluster 1)",
+              "tip_5lang": {
+                "de": "Überdachtes Parken im Foyleside Shopping Centre in der Nähe möglich.",
+                "hu": "Fedett parkolás a közeli Foyleside bevásárlóközpontban lehetséges.",
+                "ro": "Parcare acoperită disponibilă în centrul comercial Foyleside din apropiere.",
+                "en": "Covered parking available at nearby Foyleside Shopping Centre."
+              }
+            },
+            {
+              "name": "St. Columb's Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz am Bishop's Gate.",
+                "hu": "Használja a Bishop's Gate közeli parkolóját.",
+                "ro": "Folosiți parcarea din apropiere de la Bishop's Gate.",
+                "en": "Use the nearby parking at Bishop's Gate."
+              }
+            },
+            {
+              "name": "City Walls Walk",
+              "tip_5lang": {
+                "de": "Gehen Sie nur kurze Abschnitte und kehren Sie zum Auto zurück.",
+                "hu": "Csak rövid szakaszokat járjon be, majd térjen vissza az autóhoz.",
+                "ro": "Parcurgeți doar secțiuni scurte și reveniți la mașină.",
+                "en": "Walk only short sections and return to the car."
+              }
+            },
+            {
+              "name": "Guildhall",
+              "tip_5lang": {
+                "de": "Kurzzeitparkplätze direkt am Quay vorhanden.",
+                "hu": "Rövid távú parkolók közvetlenül a rakparton (Quay) találhatók.",
+                "ro": "Locuri de parcare pe termen scurt disponibile chiar pe chei (Quay).",
+                "en": "Short-stay parking available directly on the Quay."
+              }
+            },
+            {
+              "name": "Free Derry Corner (Cluster 2)",
+              "tip_5lang": {
+                "de": "Vom Auto aus gut sichtbar; Parken am Straßenrand meist möglich.",
+                "hu": "Az autóból is jól látható; az út szélén általában lehet parkolni.",
+                "ro": "Vizibil din mașină; parcarea pe marginea drumului este de obicei posibilă.",
+                "en": "Clearly visible from the car; roadside parking is usually possible."
+              }
+            },
+            {
+              "name": "Bogside Murals",
+              "tip_5lang": {
+                "de": "Langsame Vorbeifahrt bei starkem Regen bietet guten Überblick.",
+                "hu": "Heves esőben lassú elhajtás is jó rálátást biztosít.",
+                "ro": "O trecere lentă cu mașina oferă o vedere bună în caz de ploaie torențială.",
+                "en": "A slow drive-by provides a good view during heavy rain."
+              }
+            },
+            {
+              "name": "Peace Bridge & Ebrington (Cluster 3)",
+              "tip_5lang": {
+                "de": "Parken Sie am Ebrington-Ende, dort sind die Wege kürzer.",
+                "hu": "Parkoljon az Ebrington felőli oldalon, ott rövidebbek a távok.",
+                "ro": "Parcați la capătul dinspre Ebrington; acolo distanțele sunt mai scurte.",
+                "en": "Park at the Ebrington end; walking distances are shorter there."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Foyleside für komplett trockenes Parken im Stadtzentrum.",
+              "Vermeiden Sie Shipquay Street bei starkem Regen; Wasser fließt den Hügel hinab.",
+              "Die Straßen im Bogside können bei Wolkenbrüchen schnell überfluten.",
+              "Halten Sie Kleingeld für die Parkautomaten bereit (viele nehmen nur Münzen)."
+            ],
+            "hu": [
+              "Használja a Foyleside-ot a teljesen száraz parkoláshoz a központban.",
+              "Kerülje a Shipquay utcát heves esőben; a víz lezúdul a dombról.",
+              "A Bogside utcái felhőszakadáskor gyorsan víz alá kerülhetnek.",
+              "Készítsen aprópénzt a parkolóórákhoz (sok helyen csak érmét fogadnak el)."
+            ],
+            "ro": [
+              "Folosiți Foyleside pentru parcare complet uscată în centrul orașului.",
+              "Evitați strada Shipquay pe ploaie torențială; apa curge la vale.",
+              "Străzile din Bogside se pot inunda rapid în timpul averselor.",
+              "Aveți mărunțiș pentru aparatele de parcare (multe acceptă doar monede)."
+            ],
+            "en": [
+              "Use Foyleside for completely dry parking in the city center.",
+              "Avoid Shipquay Street during heavy rain; water cascades down the hill.",
+              "Bogside streets can flood quickly during cloudbursts.",
+              "Keep change for parking meters (many take coins only)."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterfahrten in Derry bieten den Komfort eines geheizten Innenraums. Der Tag beginnt am frostigen Parkplatz an der Stadtmauer. Mittags besuchen wir die beheizte St. Columb's Kathedrale und die Guildhall. Die Dämmerung ab 16:00 Uhr macht die Fahrt durch die weihnachtlich beleuchteten Straßen zum Erlebnis, besonders im Bogside-Viertel und über den Foyle.",
+            "hu": "A téli autózás Derryben a fűtött utastér kényelmét nyújtja. A nap a fagyos várfal melletti parkolóban indul. Délben a fűtött Szent Columba katedrálist és a Guildhallt látogatjuk meg. A 16:00 utáni szürkületben a karácsonyi fényekben úszó utcák, különösen a Bogside és a Foyle feletti átkelés különleges élmény.",
+            "ro": "Călătoriile de iarnă în Derry oferă confortul unui interior încălzit. Ziua începe la parcarea geroasă de lângă zidurile orașului. La prânz vizităm Catedrala St. Columb și Guildhall, ambele încălzite. Amurgul de după ora 16:00 transformă condusul prin străzile iluminate festiv într-o experiență deosebită.",
+            "en": "Winter drives in Derry offer the comfort of a heated interior. The day starts at the frosty City Walls car park. At midday, visit the heated St. Columb's Cathedral and the Guildhall. After 16:00, the twilight drive through the festively lit streets is a highlight, especially through the Bogside and across the Foyle."
+          },
+          "stops": [
+            {
+              "name": "City Walls Car Park (Cluster 1)",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe bei der Einfahrt.",
+                "hu": "Ügyeljen a lefagyásokra a parkoló bejáratánál.",
+                "ro": "Atenție la porțiunile înghețate la intrarea în parcare.",
+                "en": "Watch out for black ice at the car park entrance."
+              }
+            },
+            {
+              "name": "St. Columb's Cathedral",
+              "tip_5lang": {
+                "de": "Die Heizung im Inneren ist im Winter sehr effektiv.",
+                "hu": "A belső fűtés télen nagyon hatékony.",
+                "ro": "Încălzirea din interior este foarte eficientă iarna.",
+                "en": "The heating inside is very effective during winter."
+              }
+            },
+            {
+              "name": "City Walls Walk",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang reicht; genießen Sie die Winteraussicht.",
+                "hu": "Egy rövid séta is elég; élvezze a téli kilátást.",
+                "ro": "O plimbare scurtă este suficientă; bucurați-vă de vederea de iarnă.",
+                "en": "A short walk is enough; enjoy the winter views."
+              }
+            },
+            {
+              "name": "Guildhall",
+              "tip_5lang": {
+                "de": "Der Vorplatz ist oft mit einem großen Weihnachtsbaum geschmückt.",
+                "hu": "A főtéren gyakran hatalmas karácsonyfa áll.",
+                "ro": "Piața din față este adesea decorată cu un brad mare de Crăciun.",
+                "en": "The square in front is often decorated with a large Christmas tree."
+              }
+            },
+            {
+              "name": "Free Derry Corner (Cluster 2)",
+              "tip_5lang": {
+                "de": "Vom warmen Auto aus fotografieren ist hier bequem.",
+                "hu": "A meleg autóból fotózni itt kényelmes megoldás.",
+                "ro": "Fotografierea din mașina caldă este convenabilă aici.",
+                "en": "Photographing from the warm car is convenient here."
+              }
+            },
+            {
+              "name": "Bogside Murals",
+              "tip_5lang": {
+                "de": "Die Beleuchtung der Wandbilder ist abends stimmungsvoll.",
+                "hu": "A falfestmények megvilágítása este hangulatos.",
+                "ro": "Iluminarea picturilor murale este sugestivă seara.",
+                "en": "The lighting of the murals is atmospheric in the evening."
+              }
+            },
+            {
+              "name": "Peace Bridge & Ebrington (Cluster 3)",
+              "tip_5lang": {
+                "de": "Ebrington Square ist im Winter oft Schauplatz von Events.",
+                "hu": "Az Ebrington Square télen gyakran ad otthont rendezvényeknek.",
+                "ro": "Piața Ebrington este adesea locul unor evenimente iarna.",
+                "en": "Ebrington Square is often the site of winter events."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Scheibenfrostschutz für nordirische Nächte reicht.",
+              "Die Hügel in der Altstadt können bei Glätte tückisch sein.",
+              "Parken Sie im Foyleside-Parkhaus, um das Eiskratzen zu vermeiden.",
+              "Achten Sie auf Fußgänger, die bei Dunkelheit schlecht sichtbar sind."
+            ],
+            "hu": [
+              "Ellenőrizze, hogy a fagyálló megfelelő-e az északír éjszakákhoz.",
+              "Az óvárosi dombok jeges időben csalókák lehetnek.",
+              "Parkoljon a Foyleside parkolóházban, hogy elkerülje a jégkaparást.",
+              "Figyeljen a gyalogosokra, akik a sötétben nehezebben láthatók."
+            ],
+            "ro": [
+              "Asigurați-vă că lichidul de parbriz rezistă la nopțile nord-irlandeze.",
+              "Dealurile din orașul vechi pot fi înșelătoare în caz de polei.",
+              "Parcați în parcarea Foyleside pentru a evita răzuirea gheții.",
+              "Atenție la pietoni, care sunt greu vizibili pe întuneric."
+            ],
+            "en": [
+              "Ensure your screenwash is rated for Northern Irish winter nights.",
+              "The hills in the Old City can be treacherous in icy conditions.",
+              "Park in the Foyleside multi-storey to avoid scraping ice.",
+              "Watch out for pedestrians, who are harder to see in the dark."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1590,6 +2208,188 @@
           "Download the local bus company's app for timetables and real-time tracking.",
           "Most buses are accessible for wheelchairs and pushchairs."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Derrys Busnetz verbindet die Sehenswürdigkeiten auch bei Regen zuverlässig. Der Vormittag startet an der Guildhall, bevor der Bus zum Tower Museum fährt. Mittags geht es zur St. Columb's Kathedrale. Nachmittags nutzen wir den Transit zum Bogside-Viertel, um den Regen im Freien zu minimieren. Den Abschluss bildet die Peace Bridge, wobei die Rückfahrt per Bus erfolgt.",
+            "hu": "Derry buszhálózata esőben is megbízhatóan összeköti a látnivalókat. A reggel a Guildhallnál indul, majd busszal megyünk a Tower Museumhoz. Délben a Szent Columba katedrális következik. Délután tömegközlekedéssel megyünk a Bogside negyedbe, hogy keveset kelljen kint lenni az esőben. A napot a Peace Bridge zárja, ahonnan szintén busszal térünk vissza.",
+            "ro": "Rețeaua de autobuze din Derry conectează obiectivele chiar și pe ploaie. Dimineața începe la Guildhall, înainte de a lua autobuzul spre Muzeul Tower. La prânz mergem la Catedrala St. Columb. După-amiaza folosim transportul public spre Bogside pentru a minimiza timpul petrecut în ploaie. Finalul este la Peace Bridge, cu întoarcere tot cu autobuzul.",
+            "en": "Derry's bus network reliably connects the sights even in the rain. The morning starts at the Guildhall before taking a bus to the Tower Museum. At midday, head to St. Columb's Cathedral. In the afternoon, use transit to reach the Bogside area to minimize outdoor exposure. The day ends at the Peace Bridge, with a bus ride back."
+          },
+          "stops": [
+            {
+              "name": "Guildhall (Cluster 1)",
+              "tip_5lang": {
+                "de": "Haupthaltestellen befinden sich direkt gegenüber am Foyle Embankment.",
+                "hu": "A fő buszmegállók közvetlenül szemben, a Foyle Embankmenten vannak.",
+                "ro": "Stațiile principale sunt direct vizavi, pe Foyle Embankment.",
+                "en": "Main bus stops are directly opposite on Foyle Embankment."
+              }
+            },
+            {
+              "name": "Tower Museum",
+              "tip_5lang": {
+                "de": "Wenige Gehminuten von der Haltestelle 'Waterloo Place' entfernt.",
+                "hu": "Pár perc séta a 'Waterloo Place' megállótól.",
+                "ro": "La câteva minute de mers pe jos de stația 'Waterloo Place'.",
+                "en": "A few minutes' walk from the 'Waterloo Place' stop."
+              }
+            },
+            {
+              "name": "St. Columb's Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie Busse, die durch das Bishop's Gate fahren.",
+                "hu": "Használja a Bishop's Gate-en áthaladó buszokat.",
+                "ro": "Folosiți autobuzele care trec prin Bishop's Gate.",
+                "en": "Use buses that pass through Bishop's Gate."
+              }
+            },
+            {
+              "name": "Bogside Murals (Cluster 2)",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Free Derry Corner' bietet einen trockenen Unterstand.",
+                "hu": "A 'Free Derry Corner' megálló fedett várakozót kínál.",
+                "ro": "Stația 'Free Derry Corner' oferă un adăpost acoperit.",
+                "en": "The 'Free Derry Corner' stop offers a covered shelter."
+              }
+            },
+            {
+              "name": "Free Derry Corner",
+              "tip_5lang": {
+                "de": "Taktung der Busse erlaubt kurze Aufenthalte zwischen den Fahrten.",
+                "hu": "A buszok gyakorisága lehetővé teszi a rövid megállókat.",
+                "ro": "Frecvența autobuzelor permite opriri scurte între curse.",
+                "en": "Bus frequency allows for short stops between rides."
+              }
+            },
+            {
+              "name": "Peace Bridge (Cluster 3)",
+              "tip_5lang": {
+                "de": "Der Busbahnhof 'Foyle Street' ist der ideale Knotenpunkt bei Regen.",
+                "hu": "A 'Foyle Street' buszpályaudvar ideális csomópont esőben.",
+                "ro": "Autogara 'Foyle Street' este nodul ideal de transport pe ploaie.",
+                "en": "Foyle Street bus station is the ideal hub during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die mLink-App für kontaktlose Fahrkarten.",
+              "Der Foyle Street Busbahnhof ist komplett überdacht.",
+              "Bequeme Querverbindungen zwischen Waterside und City Center.",
+              "Die Busse der Linie 'Fy' verkehren sehr häufig."
+            ],
+            "hu": [
+              "Használja az mLink alkalmazást az érintésmentes jegyvásárláshoz.",
+              "A Foyle Street buszpályaudvar teljesen fedett.",
+              "Kényelmes keresztirányú járatok Waterside és a belváros között.",
+              "Az 'Fy' jelzésű buszok nagyon gyakran közlekednek."
+            ],
+            "ro": [
+              "Folosiți aplicația mLink pentru bilete contactless.",
+              "Autogara Foyle Street este complet acoperită.",
+              "Legături transversale convenabile între Waterside și centrul orașului.",
+              "Autobuzele liniei 'Fy' circulă foarte frecvent."
+            ],
+            "en": [
+              "Use the mLink app for contactless tickets.",
+              "Foyle Street bus station is completely covered.",
+              "Convenient cross-river links between Waterside and the City Center.",
+              "The 'Fy' line buses run very frequently."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter sind die beheizten Busse in Derry ein Segen für den Transport zwischen den Hügeln. Der Vormittag beginnt an der Guildhall. Mittags bringt uns der Transit zum Tower Museum und zur Kathedrale. Die frühen Abendstunden ab 16:00 Uhr verbringen wir im Bogside, bevor wir mit dem Bus zur beleuchteten Peace Bridge fahren, wobei wir die Kälte draußen lassen.",
+            "hu": "Télen a fűtött buszok Derryben áldást jelentenek a dombok közötti közlekedésben. A reggel a Guildhallnál indul. Délben tömegközlekedéssel megyünk a Tower Museumhoz és a katedrálishoz. A 16:00 utáni korai estét a Bogside-ban töltjük, majd busszal megyünk a kivilágított Peace Bridge-hez, elkerülve a kinti hideget.",
+            "ro": "Iarna, autobuzele încălzite din Derry sunt o binecuvântare pentru transportul între dealuri. Dimineața începe la Guildhall. La prânz, transportul public ne duce la Muzeul Tower și la catedrală. Serile timpurii de după ora 16:00 sunt petrecute în Bogside, înainte de a lua autobuzul spre Peace Bridge.",
+            "en": "In winter, Derry's heated buses are a blessing for traveling between the hills. The morning starts at the Guildhall. At midday, transit takes us to the Tower Museum and the cathedral. Spend the early evening after 16:00 in the Bogside before taking a bus to the lit Peace Bridge, staying out of the cold."
+          },
+          "stops": [
+            {
+              "name": "Guildhall (Cluster 1)",
+              "tip_5lang": {
+                "de": "Warten Sie im Foyer der Guildhall, bis Ihr Bus angezeigt wird.",
+                "hu": "Várjon a Guildhall előcsarnokában, amíg a busza megérkezik.",
+                "ro": "Așteptați în foaierul Guildhall până când apare autobuzul.",
+                "en": "Wait in the Guildhall foyer until your bus is shown."
+              }
+            },
+            {
+              "name": "Tower Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Transit, um den windigen Weg am Fluss zu vermeiden.",
+                "hu": "Használja a buszt, hogy elkerülje a szeles folyóparti utat.",
+                "ro": "Folosiți transportul public pentru a evita drumul vântos de pe râu.",
+                "en": "Use transit to avoid the windy riverside walk."
+              }
+            },
+            {
+              "name": "St. Columb's Cathedral",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nah am Eingang; minimieren Sie den Aufenthalt im Freien.",
+                "hu": "A megálló közel van a bejárathoz; minimalizálja a kinti tartózkodást.",
+                "ro": "Stația este aproape de intrare; minimizați timpul petrecut afară.",
+                "en": "The stop is near the entrance; minimize time spent outdoors."
+              }
+            },
+            {
+              "name": "Bogside Murals (Cluster 2)",
+              "tip_5lang": {
+                "de": "Abends sind die Busse gut beheizt und bieten eine warme Fahrt.",
+                "hu": "Este a buszok jól fűtöttek és meleg utazást biztosítanak.",
+                "ro": "Seara, autobuzele sunt bine încălzite și oferă o călătorie caldă.",
+                "en": "In the evening, buses are well-heated and provide a warm ride."
+              }
+            },
+            {
+              "name": "Free Derry Corner",
+              "tip_5lang": {
+                "de": "Die Beleuchtung der Haltestelle sorgt für Sicherheit in der Dunkelheit.",
+                "hu": "A megálló világítása biztonságot nyújt a sötétben.",
+                "ro": "Iluminarea stației oferă siguranță pe întuneric.",
+                "en": "The lighting at the stop provides safety in the dark."
+              }
+            },
+            {
+              "name": "Peace Bridge (Cluster 3)",
+              "tip_5lang": {
+                "de": "Die Busse Richtung Waterside bieten einen tollen Blick auf die Brücke.",
+                "hu": "A Waterside felé tartó buszokról remek kilátás nyílik a hídra.",
+                "ro": "Autobuzele spre Waterside oferă o vedere excelentă spre pod.",
+                "en": "Buses towards Waterside offer a great view of the bridge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan; an Feiertagen gibt es Einschränkungen.",
+              "Die Foyle Street Busstation bietet Cafés zum Aufwärmen.",
+              "Nutzen Sie das 'Day-Ticket' für unbegrenzte Fahrten im Stadtgebiet.",
+              "Ab 16:30 Uhr ist die Beleuchtung in den Bussen sehr gemütlich."
+            ],
+            "hu": [
+              "Ellenőrizze a téli menetrendet; ünnepnapokon korlátozások lehetnek.",
+              "A Foyle Street buszpályaudvaron vannak kávézók a melegedéshez.",
+              "Használja a napijegyet a korlátlan utazáshoz a városi zónában.",
+              "16:30 után a buszok belső világítása nagyon hangulatos."
+            ],
+            "ro": [
+              "Verificați orarul de iarnă; de sărbători pot exista restricții.",
+              "Autogara Foyle Street are cafenele unde vă puteți încălzi.",
+              "Folosiți biletul de o zi pentru călătorii nelimitate în zona urbană.",
+              "După ora 16:30, iluminarea din autobuze este foarte primitoare."
+            ],
+            "en": [
+              "Check the winter timetable; there may be restrictions on holidays.",
+              "Foyle Street bus station has cafes for warming up.",
+              "Use a 'Day-Ticket' for unlimited travel within the city zone.",
+              "After 16:30, the lighting inside the buses is very cozy."
+            ]
+          }
+        }
       }
     }
   }

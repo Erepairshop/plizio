@@ -323,6 +323,206 @@
           "Check opening times for the cathedral and museums in advance as they can vary.",
           "Walking around Hereford is the best way to discover its hidden alleys and unique architecture."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt trocken im historischen Black and White House Museum. Mittags bietet die All Saints Church mit ihrem Café einen idealen Zufluchtsort vor dem Regen, gefolgt von der majestätischen Kathedrale und der Mappa Mundi. Nachmittags spazieren wir unter Schirmen am Castle Green vorbei zum Wye. Den Tag lassen wir im überdachten Museum of Cider gemütlich ausklingen.",
+            "hu": "Reggel a fekete-fehér favázas múzeum falaivázai között bújunk el az eső elől. Délben az All Saints templom belső kávézója nyújt menedéket, majd a katedrális és a Mappa Mundi kincseit csodáljuk meg szárazon. Délután esernyővel járjuk be a Castle Green környékét és a Victoria hidat. A napot a Cider Múzeum fedett kiállításain, Hereford almás örökségét kutatva zárjuk.",
+            "ro": "Dimineața începe la adăpost în muzeul istoric cu bârne negre și albe. La prânz, cafeneaua din All Saints Church oferă refugiu împotriva ploii, urmată de vizitarea catedralei și a hărții Mappa Mundi. După-amiaza, o plimbare cu umbrela prin Castle Green ne duce spre râul Wye. Încheiem ziua la Museum of Cider, explorând tradițiile locale într-un mediu interior cald.",
+            "en": "Morning starts under the solid shelter of the historic timber-framed museum. By midday, All Saints Church provides a dry cafe stop before exploring the cathedral's interior and the Mappa Mundi. In the afternoon, we brave the rain with umbrellas for a quick riverside stroll via Castle Green. The day ends perfectly dry inside the Museum of Cider, learning about Hereford's heritage."
+          },
+          "stops": [
+            {
+              "name": "The Black and White House Museum",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen und Schutz vor dem ersten Regenschauer des Tages.",
+                "hu": "Tökéletes menedék az első reggeli zápor elől a belváros szívében.",
+                "ro": "Un loc excelent pentru a te adăposti de prima ploaie a dimineții.",
+                "en": "Perfect spot to hide from the first morning shower in the city center."
+              }
+            },
+            {
+              "name": "All Saints Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie das preisgekrönte Café im Inneren, um trocken zu bleiben.",
+                "hu": "Látogasson el a templomban működő kávézóba, amíg eláll az eső.",
+                "ro": "Vizitați cafeneaua din interiorul bisericii pentru a rămâne uscat.",
+                "en": "Visit the award-winning cafe inside the church to stay dry."
+              }
+            },
+            {
+              "name": "Hereford Cathedral",
+              "tip_5lang": {
+                "de": "Große Innenräume bieten viel Platz zur Erkundung ohne nass zu werden.",
+                "hu": "A hatalmas belső tér órákig tartó elfoglaltságot nyújt szárazon.",
+                "ro": "Interiorul vast oferă mult spațiu de explorare fără a te uda.",
+                "en": "Vast interior offers plenty of space to explore without getting wet."
+              }
+            },
+            {
+              "name": "Mappa Mundi & Chained Library",
+              "tip_5lang": {
+                "de": "Die klimatisierte Ausstellung ist absolut regensicher und faszinierend.",
+                "hu": "A klimatizált tárlat teljesen esőbiztos és lenyűgöző látnivaló.",
+                "ro": "Expoziția climatizată este complet protejată de ploaie și fascinantă.",
+                "en": "The climate-controlled exhibition is fully rain-proof and fascinating."
+              }
+            },
+            {
+              "name": "Castle Green",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind weniger matschig als die Uferpfade.",
+                "hu": "Az aszfaltozott utak kevésbé sarasak, mint a folyóparti ösvények.",
+                "ro": "Aleile asfaltate sunt mai puțin noroioase decât potecile de pe mal.",
+                "en": "The paved paths are less muddy than the riverside trails."
+              }
+            },
+            {
+              "name": "Victoria Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht, die Metallplatten der Brücke können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a híd fémlemezei esőben csúszósak lehetnek.",
+                "ro": "Atenție, plăcile metalice ale podului pot fi alunecoase când sunt ude.",
+                "en": "Careful, the bridge's metal plates can be slippery when wet."
+              }
+            },
+            {
+              "name": "Museum of Cider",
+              "tip_5lang": {
+                "de": "Der ideale trockene Abschluss mit lokalem Flair im Innenbereich.",
+                "hu": "Ideális száraz befejezés, helyi ízekkel a fedett terekben.",
+                "ro": "Finalul ideal la uscat, cu specific local în spații interioare.",
+                "en": "Ideal dry finish with local flair in the indoor galleries."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich in den Gassen Pfützen bilden können.",
+              "Nutzen Sie die Maylord Orchards Einkaufspassage für trockene Abkürzungen.",
+              "Die Kathedrale und das Cider Museum sind die besten langen Regen-Stopps.",
+              "Ein robuster Regenschirm ist wegen des Windes am Fluss Wye ratsam."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óvárosi sikátorokban megállhat a víz.",
+              "A Maylord Orchards bevásárlóközponton keresztül szárazon rövidíthet.",
+              "A katedrális és a Cider Múzeum a legjobb helyszín tartós eső esetén.",
+              "A Wye folyó mentén fújhat a szél, így egy stabil esernyő ajánlott."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pot apărea bălți în oraș.",
+              "Folosiți centrul comercial Maylord Orchards pentru scurtături la uscat.",
+              "Catedrala și Muzeul Ciderului sunt cele mai bune opriri pentru ploaie lungă.",
+              "O umbrelă rezistentă este recomandată din cauza vântului de lângă Wye."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles often form in the narrow streets.",
+              "Use Maylord Orchards shopping centre for dry shortcuts across town.",
+              "The Cathedral and Cider Museum are the best long-duration rain stops.",
+              "A sturdy umbrella is recommended due to potential wind near the river."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen besichtigen wir das Black and White House Museum. Mittags wärmen wir uns in der All Saints Church bei einer Suppe auf, bevor wir die Schätze der Kathedrale erkunden. Wenn die Sonne gegen 16:00 Uhr tief über dem Castle Green steht, genießen wir die frostige Luft am Fluss. Der Tag endet im gemütlichen Cider Museum, bevor die Winterdunkelheit einsetzt.",
+            "hu": "A friss téli reggelen Hereford történelmi központjában kezdünk. Délben az All Saints templom fűtött belső terében melegedünk fel, majd a katedrális csendes falai között csodáljuk meg a Mappa Mundit. A korai naplemente fényei már a Castle Green fagyos pázsitján érnek minket. A túrát a Cider Múzeum ipari emlékei között zárjuk, védve a téli hidegtől.",
+            "ro": "Într-o dimineață crocantă de iarnă, vizităm muzeul istoric din centrul vechi. La prânz, ne încălzim în All Saints Church înainte de a admira comorile din catedrală. Soarele apune devreme peste Castle Green, oferind o lumină aurie peste râul înghețat. Încheiem ziua la Museum of Cider, explorând istoria locală la adăpost de frigul serii.",
+            "en": "On a crisp winter morning, we start at the historic Black and White House. Midday is spent warming up in All Saints Church followed by a visit to the cozy interior of the Cathedral. As the sun sets early over Castle Green around 4 PM, we enjoy the frosty riverside atmosphere. We finish the day at the Museum of Cider, shielded from the biting winter chill."
+          },
+          "stops": [
+            {
+              "name": "The Black and White House Museum",
+              "tip_5lang": {
+                "de": "Das historische Interieur wirkt im Winter besonders behaglich.",
+                "hu": "A történelmi belső tér télen különösen otthonos hangulatot áraszt.",
+                "ro": "Interiorul istoric pare extrem de primitor în timpul iernii.",
+                "en": "The historic interior feels especially cozy during the winter months."
+              }
+            },
+            {
+              "name": "All Saints Church",
+              "tip_5lang": {
+                "de": "Probieren Sie die hausgemachten Suppen zum Aufwärmen am Mittag.",
+                "hu": "Kóstolja meg a házias leveseket a déli felmelegedéshez.",
+                "ro": "Încercați supele de casă pentru a vă încălzi la prânz.",
+                "en": "Try the homemade soups to warm up during the midday break."
+              }
+            },
+            {
+              "name": "Hereford Cathedral",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Choral Evensong für eine feierliche Winterstimmung.",
+                "hu": "Vegyék részt az esti kórus imádságon a meghitt téli hangulatért.",
+                "ro": "Participați la slujba de seară pentru o atmosferă solemnă de iarnă.",
+                "en": "Attend the Choral Evensong for a solemn and warm winter atmosphere."
+              }
+            },
+            {
+              "name": "Mappa Mundi & Chained Library",
+              "tip_5lang": {
+                "de": "Ein perfekt temperierter Ort, um der Kälte draußen zu entfliehen.",
+                "hu": "Tökéletesen temperált helyszín, hogy elmeneküljünk a kinti hideg elől.",
+                "ro": "Un loc cu temperatură controlată, ideal pentru a scăpa de ger.",
+                "en": "A perfectly tempered spot to escape the freezing cold outside."
+              }
+            },
+            {
+              "name": "Castle Green",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf den Wye bei tiefstehender Sonne.",
+                "hu": "Élvezze a Wye folyóra nyíló kilátást az alacsonyan járó téli napnál.",
+                "ro": "Bucurați-vă de priveliștea spre râul Wye sub soarele jos de iarnă.",
+                "en": "Enjoy the expansive views of the Wye under the low winter sun."
+              }
+            },
+            {
+              "name": "Victoria Bridge",
+              "tip_5lang": {
+                "de": "Achtung bei Frost, das Geländer und der Boden können vereist sein.",
+                "hu": "Vigyázat fagy esetén, a korlát és a padló jeges lehet.",
+                "ro": "Atenție la îngheț, balustrada și podeaua pot fi acoperite de gheață.",
+                "en": "Watch out for frost, as the handrails and floor can be icy."
+              }
+            },
+            {
+              "name": "Museum of Cider",
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über heißen Cider – perfekt für die kalte Jahreszeit.",
+                "hu": "Ismerje meg a forró cider történetét – tökéletes a hideg évszakra.",
+                "ro": "Aflați mai multe despre cidrul cald – perfect pentru sezonul rece.",
+                "en": "Learn about the history of hot cider – perfect for the cold season."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Tragen Sie Schichten, da es in der Kathedrale kühler sein kann.",
+              "Warme Getränke gibt es reichlich in den Cafés der Church Street.",
+              "Festes Schuhwerk hilft gegen die Kälte auf den Steinpflastern."
+            ],
+            "hu": [
+              "A nap decemberben már délután 4 óra körül nyugovóra tér.",
+              "Öltözzön rétegesen, mert a katedrális belső tere hűvösebb lehet.",
+              "A Church Street kávézóiban bőségesen talál melegítő italokat.",
+              "A vastag talpú cipő segít a hideg kőburkolatokon való sétánál."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:00 în luna decembrie.",
+              "Îmbrăcați-vă în straturi, interiorul catedralei poate fi răcoros.",
+              "Băuturi calde se găsesc din abundență în cafenelele de pe Church Street.",
+              "Încălțămintea cu talpă groasă ajută împotriva frigului de pe trotuare."
+            ],
+            "en": [
+              "The sun sets as early as 4 PM during the peak of December.",
+              "Dress in layers as the Cathedral's interior can remain quite chilly.",
+              "Hot drinks are plentiful in the local cafes along Church Street.",
+              "Sturdy footwear helps insulate against the cold stone pavements."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -640,6 +840,206 @@
           "Wear a helmet and always lock your bike securely.",
           "Many pubs and cafes are bike-friendly, offering places to park your bike."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Unsere Radtour startet am Waterworks Museum, wo wir im Trockenen Industriegeschichte erleben. Durch den Regen radeln wir zum Cider Museum und weiter ins Zentrum zum Black and White House. Nach einem Stopp bei All Saints und der Kathedrale führt der Weg über das Castle Green. Trotz Nässe bietet die Route entlang des Flusses eine stimmungsvolle Atmosphäre.",
+            "hu": "Biciklitúránk a Waterworks Múzeumnál indul, ahol fedett helyen ismerkedünk a vízművek történetével. Esőben tekerünk át a Cider Múzeumba, majd a belvárosi favázas házhoz. Az All Saints és a Katedrális után a Castle Green aszfaltozott útjait követjük. Bár vizes az út, a folyóparti szakasz ilyenkor is hangulatos Herefordban.",
+            "ro": "Turul pe bicicletă începe la Waterworks Museum, unde explorăm istoria industrială la adăpost. Pedalăm prin ploaie spre Museum of Cider și apoi spre centrul istoric. După vizitarea catedralei, traseul ne poartă prin Castle Green și peste podul Victoria. Deși drumul este ud, malul râului oferă o atmosferă deosebită.",
+            "en": "Our bike tour starts at the Waterworks Museum, offering indoor industrial history. We cycle through the rain to the Cider Museum and onwards to the Black and White House. After visiting All Saints and the Cathedral, the route takes us through Castle Green. Despite the wet conditions, the riverside path remains atmospheric and accessible."
+          },
+          "stops": [
+            {
+              "name": "Waterworks Museum",
+              "tip_5lang": {
+                "de": "Viel Platz im Innenbereich, um die Ausrüstung kurz zu trocknen.",
+                "hu": "Tágas belső terek az esőfelszerelés rövid szárításához.",
+                "ro": "Spațiu amplu în interior pentru a usca echipamentul de ploaie.",
+                "en": "Ample indoor space to let your rain gear dry for a bit."
+              }
+            },
+            {
+              "name": "Museum of Cider",
+              "tip_5lang": {
+                "de": "Gute Fahrradständer in der Nähe des Eingangs vorhanden.",
+                "hu": "Jó kerékpártárolók találhatók közvetlenül a bejárat mellett.",
+                "ro": "Suporturi bune pentru biciclete sunt disponibile lângă intrare.",
+                "en": "Good bicycle racks are available right near the entrance."
+              }
+            },
+            {
+              "name": "The Black and White House Museum",
+              "tip_5lang": {
+                "de": "Zentraler Stopp, um sich kurz unter den Dachüberständen unterzustellen.",
+                "hu": "Központi megálló, az eresz alatt rövid időre meghúzódhatunk.",
+                "ro": "Oprire centrală pentru a te adăposti scurt sub streșini.",
+                "en": "Central stop where you can briefly shelter under the overhangs."
+              }
+            },
+            {
+              "name": "All Saints Church",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine warme Pause mitten in der Stadt.",
+                "hu": "Ideális helyszín egy meleg szünethez a város közepén.",
+                "ro": "Un loc ideal pentru o pauză caldă în centrul orașului.",
+                "en": "An ideal location for a warm break in the middle of town."
+              }
+            },
+            {
+              "name": "Hereford Cathedral & Mappa Mundi",
+              "tip_5lang": {
+                "de": "Überdachte Bereiche im Kreuzgang bieten Schutz beim Abstellen.",
+                "hu": "A kerengő fedett részei védelmet nyújtanak a pihenő alatt.",
+                "ro": "Zonele acoperite din claustru oferă protecție în timpul pauzei.",
+                "en": "Covered areas in the cloisters offer shelter during your visit."
+              }
+            },
+            {
+              "name": "Castle Green",
+              "tip_5lang": {
+                "de": "Meiden Sie bei starkem Regen die unbefestigten Rasenflächen.",
+                "hu": "Heves esőzéskor kerülje a burkolatlan, füves területeket.",
+                "ro": "Evitați zonele cu iarbă neamenajate în timpul ploilor abundente.",
+                "en": "Avoid unpaved grassy areas during heavy rainfall."
+              }
+            },
+            {
+              "name": "Victoria Bridge",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad bei Nässe lieber über die Brücke.",
+                "hu": "Vizes útviszonyoknál inkább tolja át a biciklit a hídon.",
+                "ro": "Mai bine împingeți bicicleta pe pod când este ud pe jos.",
+                "en": "It is safer to wheel your bike across the bridge when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Überschuhen wird empfohlen.",
+              "Vermeiden Sie scharfe Bremsungen auf nassem Kopfsteinpflaster.",
+              "Nutzen Sie die Great Western Way Radwege für weniger Autoverkehr.",
+              "Achten Sie auf tiefere Pfützen am Ufer des Wye."
+            ],
+            "hu": [
+              "Teljes esőruházat és kamásli használata erősen ajánlott.",
+              "Kerülje a hirtelen fékezést a nedves macskaköves utakon.",
+              "Használja a Great Western Way kerékpárutat a kisebb forgalomért.",
+              "Ügyeljen a mélyebb tócsákra a Wye folyó partja mentén."
+            ],
+            "ro": [
+              "Se recomandă echipament complet de ploaie, inclusiv protecții pantofi.",
+              "Evitați frânările bruște pe pavajul umed din centrul vechi.",
+              "Folosiți pistele Great Western Way pentru a evita traficul auto.",
+              "Atenție la bălțile adânci de pe malul râului Wye."
+            ],
+            "en": [
+              "Full waterproof gear including shoe covers is highly recommended.",
+              "Avoid sudden braking on wet cobblestones in the historic centre.",
+              "Use the Great Western Way cycle paths for less traffic interference.",
+              "Watch out for deep puddles along the banks of the River Wye."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winter-Radtour beginnt frostig am Waterworks Museum. Über den Cider Museum Radweg erreichen wir das Herz der Stadt. Bei All Saints und der Kathedrale machen wir längere Pausen, um die Wärme drinnen zu genießen. Die Fahrt durch Castle Green bietet bei tiefstehender Sonne spektakuläre Lichtverhältnisse am Fluss, bevor wir im Dunkeln die Tour beenden.",
+            "hu": "Téli kerékpártúránk fagyos hangulatban indul a Waterworks Múzeumnál. A Cider Múzeum érintésével érünk be a város szívébe, ahol a Black and White House látványa köszönt minket. Az All Saints és a Katedrális belső tereiben melegszünk fel. A Castle Green-en áttekerve élvezzük a téli naplemente fényeit, majd lámpafénynél fejezzük be az utat.",
+            "ro": "Turul de iarnă începe cu ger la Waterworks Museum. Prin traseul spre Museum of Cider ajungem în inima orașului, admirând arhitectura istorică. Facem pauze lungi la catedrală pentru a ne încălzi. Traversarea Castle Green oferă condiții de lumină spectaculoase sub soarele jos de iarnă, înainte de a încheia turul pe întuneric.",
+            "en": "Our winter bike tour starts with a frosty air at the Waterworks Museum. We cycle past the Cider Museum to the heart of the city. Longer breaks are taken at All Saints and the Cathedral to soak up the indoor warmth. Cycling through Castle Green offers spectacular light as the sun sets over the river before finishing in the dark."
+          },
+          "stops": [
+            {
+              "name": "Waterworks Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie vorab die Winteröffnungszeiten der Dampfmaschinen.",
+                "hu": "Ellenőrizze előre a gőzgépek téli üzemelési rendjét.",
+                "ro": "Verificați din timp programul de iarnă al motoarelor cu abur.",
+                "en": "Check the winter steaming schedule before your visit."
+              }
+            },
+            {
+              "name": "Museum of Cider",
+              "tip_5lang": {
+                "de": "Im Shop gibt es lokale Produkte zum Mitnehmen für kalte Abende.",
+                "hu": "A boltban helyi termékeket vehet a hideg téli estékre.",
+                "ro": "Magazinul oferă produse locale perfecte pentru seri reci.",
+                "en": "The shop offers local products perfect for cold winter evenings."
+              }
+            },
+            {
+              "name": "The Black and White House Museum",
+              "tip_5lang": {
+                "de": "Das Gebäude ist im Winter oft festlich geschmückt.",
+                "hu": "Az épület télen gyakran ünnepi díszben pompázik.",
+                "ro": "Clădirea este adesea decorată festiv în timpul iernii.",
+                "en": "The building is often festively decorated during winter."
+              }
+            },
+            {
+              "name": "All Saints Church",
+              "tip_5lang": {
+                "de": "Der beste Ort für einen heißen Kakao nach der Fahrt im Wind.",
+                "hu": "A legjobb hely egy forró kakaóhoz a szeles tekerés után.",
+                "ro": "Cel mai bun loc pentru o ciocolată caldă după pedalat prin vânt.",
+                "en": "The best spot for a hot cocoa after cycling in the wind."
+              }
+            },
+            {
+              "name": "Hereford Cathedral & Mappa Mundi",
+              "tip_5lang": {
+                "de": "Die Chained Library strahlt im Winter eine besondere Ruhe aus.",
+                "hu": "A láncos könyvtár télen különleges nyugalmat áraszt.",
+                "ro": "Biblioteca înlănțuită emană o liniște aparte iarna.",
+                "en": "The Chained Library exudes a special peacefulness in winter."
+              }
+            },
+            {
+              "name": "Castle Green",
+              "tip_5lang": {
+                "de": "Bei Bodenfrost können die Wege sehr glatt sein – fahren Sie vorsichtig.",
+                "hu": "Talajmenti fagy esetén az utak csúszósak lehetnek – óvatosan tekerjen.",
+                "ro": "Drumurile pot fi alunecoase la îngheț – pedalați cu prudență.",
+                "en": "Paths can be very slippery during ground frost – ride carefully."
+              }
+            },
+            {
+              "name": "Victoria Bridge",
+              "tip_5lang": {
+                "de": "Achten Sie auf funktionierende Beleuchtung für den Rückweg.",
+                "hu": "Ügyeljen a működő világításra a visszaút során.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere.",
+                "en": "Ensure your bike lights are working for the journey back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind essenziell für die Fahrt am Fluss.",
+              "Vorder- und Rücklicht sind ab 15:30 Uhr aufgrund der Dämmerung nötig.",
+              "Reifendruck leicht senken für besseren Grip auf gefrorenen Wegen.",
+              "Nutzen Sie die beheizten Räume in den Museen für regelmäßige Pausen."
+            ],
+            "hu": [
+              "A folyó menti tekeréshez elengedhetetlen a meleg kesztyű.",
+              "Délután fél 4-től a szürkület miatt kötelező az első és hátsó lámpa.",
+              "Kicsit csökkentse a guminyomást a jobb tapadásért a fagyos utakon.",
+              "Használja ki a múzeumok fűtött tereit a rendszeres pihenőkhöz."
+            ],
+            "ro": [
+              "Mănușile groase sunt esențiale pentru pedalatul pe lângă râu.",
+              "Luminile față-spate sunt necesare de la ora 15:30 din cauza amurgului.",
+              "Reduceți ușor presiunea în pneuri pentru aderență pe drumuri înghețate.",
+              "Folosiți spațiile încălzite din muzee pentru pauze regulate."
+            ],
+            "en": [
+              "Warm gloves are essential for the ride along the exposed river.",
+              "Front and rear lights are mandatory from 3:30 PM due to early twilight.",
+              "Slightly lower tire pressure can provide better grip on frozen paths.",
+              "Take advantage of heated museum spaces for regular warm-up breaks."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -940,6 +1340,188 @@
           "Plan your route in advance, as mobile signal can be patchy in rural areas.",
           "Many country pubs offer excellent food, perfect for a lunch stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Hereford regengeschützt. Wir parken direkt am Waterworks Museum, fahren dann ins Zentrum nahe der Kathedrale und des Black and White House. Kurze Wege von den Parkplätzen minimieren den Aufenthalt im Freien. Den Nachmittag verbringen wir im Cider Museum, bevor wir entspannt am Castle Green vorbeifahren.",
+            "hu": "Autóval Hereford felfedezése esőben is kényelmes. A Waterworks Múzeumnál kezdünk, majd a katedrálishoz közeli központi parkolóba hajtunk. A rövid gyalogutak a parkolók és a látnivalók között segítenek szárazon maradni. Délután a Cider Múzeum kiállításait látogatjuk meg, majd egy autós körrel zárjuk a napot a Castle Green körül.",
+            "ro": "Explorăm Hereford cu mașina, protejați de ploaie. Parcăm chiar la Waterworks Museum, apoi conducem spre centrul orașului lângă catedrală. Distanțele scurte de la parcări la obiective minimizează expunerea la ploaie. După-amiaza este dedicată muzeului cidrului, înainte de o scurtă trecere pe lângă Castle Green.",
+            "en": "We explore Hereford by car, staying protected from the rain. We park directly at the Waterworks Museum, then drive to the city centre near the Cathedral and Black and White House. Short walks from parking lots minimize outdoor exposure. The afternoon is spent at the Cider Museum before a final drive past Castle Green."
+          },
+          "stops": [
+            {
+              "name": "Parking & Start: Waterworks Museum",
+              "tip_5lang": {
+                "de": "Kostenlose Parkplätze direkt vor Ort erleichtern den Start bei Regen.",
+                "hu": "A helyszíni ingyenes parkolás megkönnyíti az indulást esőben.",
+                "ro": "Parcarea gratuită la fața locului facilitează startul pe ploaie.",
+                "en": "Free on-site parking makes starting in the rain very convenient."
+              }
+            },
+            {
+              "name": "Drive & Park: City Centre (near Cathedral)",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus Gaol Street für überdachtes Parken.",
+                "hu": "Használja a Gaol Street parkolóházat a fedett várakozáshoz.",
+                "ro": "Folosiți parcarea etajată Gaol Street pentru staționare acoperită.",
+                "en": "Use Gaol Street multi-storey for covered parking near the centre."
+              }
+            },
+            {
+              "name": "Hereford Cathedral & Mappa Mundi",
+              "tip_5lang": {
+                "de": "Vom Parkplatz Broad Street sind es nur zwei Minuten zur Kathedrale.",
+                "hu": "A Broad Street parkolótól mindössze két perc séta a katedrális.",
+                "ro": "De la parcarea Broad Street sunt doar două minute până la catedrală.",
+                "en": "It's just a two-minute walk to the Cathedral from Broad Street parking."
+              }
+            },
+            {
+              "name": "The Black and White House Museum",
+              "tip_5lang": {
+                "de": "Direkt in der Fußgängerzone, parken Sie möglichst nah am High Town.",
+                "hu": "Közvetlenül a sétálóövezetben, parkoljon minél közelebb a High Town-hoz.",
+                "ro": "Direct în zona pietonală, parcați cât mai aproape de High Town.",
+                "en": "Right in the pedestrian zone, park as close to High Town as possible."
+              }
+            },
+            {
+              "name": "Drive & Visit: Museum of Cider",
+              "tip_5lang": {
+                "de": "Das Museum verfügt über einen eigenen, bequemen Gästeparkplatz.",
+                "hu": "A múzeumnak saját, kényelmes vendégparkolója van.",
+                "ro": "Muzeul dispune de o parcare proprie și convenabilă pentru vizitatori.",
+                "en": "The museum has its own convenient guest parking area."
+              }
+            },
+            {
+              "name": "Drive & Relax: Castle Green",
+              "tip_5lang": {
+                "de": "Parken Sie am Castle Street, um den Blick auf den Wye kurz zu genießen.",
+                "hu": "Parkoljon a Castle Streeten a Wye folyóra nyíló gyors kilátáshoz.",
+                "ro": "Parcați pe Castle Street pentru a admira rapid priveliștea spre Wye.",
+                "en": "Park on Castle Street to enjoy a quick view of the Wye from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Landstraßen rund um Hereford.",
+              "Halten Sie Kleingeld oder Park-Apps für die städtischen Parkplätze bereit.",
+              "Das Gaol Street Parkhaus bietet Schutz beim Ein- und Aussteigen.",
+              "Vermeiden Sie bei Starkregen das Parken in Flussnähe (Hochwassergefahr)."
+            ],
+            "hu": [
+              "Ügyeljen a vízátfolyásokra a Hereford környéki utakon.",
+              "Készítsen össze aprópénzt vagy telepítse a parkolási appokat.",
+              "A Gaol Street parkolóház védelmet nyújt ki- és beszálláskor.",
+              "Heves esőzéskor kerülje a folyóparti parkolást (árvízveszély)."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile din jurul Hereford-ului.",
+              "Pregătiți monede sau aplicații de parcare pentru parcările publice.",
+              "Parcarea etajată Gaol Street oferă protecție la urcare și coborâre.",
+              "Evitați parcarea lângă râu în timpul ploilor torențiale (risc de inundații)."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the rural roads around Hereford.",
+              "Have coins or parking apps ready for the city-run car parks.",
+              "The Gaol Street multi-storey provides shelter when getting in/out.",
+              "Avoid parking too close to the river during heavy rain (flood risk)."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Unsere winterliche Autotour führt uns zuerst zum Waterworks Museum. Dank der kurzen Wege zwischen den Parkplätzen und den Sehenswürdigkeiten im Zentrum bleiben wir warm. Nach dem Besuch der Kathedrale und des Black and White House wärmen wir uns im Cider Museum auf. Eine späte Fahrt entlang des Wye zeigt Hereford im stimmungsvollen Winterlicht.",
+            "hu": "Téli autós túránk Hereford ipari emlékeivel indul. A parkolók közelsége miatt kevés időt kell a hidegben töltenünk a belváros és a katedrális felfedezése közben. A Cider Múzeum látogatása után, a délutáni szürkületben autózunk el a Castle Green mellett, élvezve a város kivilágított karácsonyi fényeit.",
+            "ro": "Turul nostru auto de iarnă începe la Waterworks Museum. Datorită distanțelor scurte dintre parcări și obiectivele centrale, rămânem la căldură. După vizitarea catedralei și a centrului vechi, ne încălzim la muzeul cidrului. O plimbare târzie cu mașina pe lângă râul Wye ne arată orașul sub lumini de iarnă.",
+            "en": "Our winter car tour starts at the Waterworks Museum. Thanks to the proximity of car parks to the main attractions, we stay warm throughout the day. After exploring the Cathedral and the Black and White House, we warm up at the Cider Museum. A late drive along the Wye showcases Hereford in its atmospheric winter light."
+          },
+          "stops": [
+            {
+              "name": "Parking & Start: Waterworks Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter gut beheizt und bietet einen warmen Start.",
+                "hu": "A múzeum télen jól fűtött, kellemes kezdést biztosít.",
+                "ro": "Muzeul este bine încălzit iarna, oferind un start confortabil.",
+                "en": "The museum is well-heated in winter, ensuring a warm start to the day."
+              }
+            },
+            {
+              "name": "Drive & Park: City Centre (near Cathedral)",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze sparen lange Gehwege in der Kälte.",
+                "hu": "A központi parkolók megkímélik a hosszú gyaloglástól a hidegben.",
+                "ro": "Parcările centrale vă scutesc de mersul pe jos prin ger.",
+                "en": "Central parking spots save you from long walks in the freezing cold."
+              }
+            },
+            {
+              "name": "Hereford Cathedral & Mappa Mundi",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe in der Kathedrale an einem kalten Wintertag.",
+                "hu": "Élvezze a katedrális nyugalmát egy hideg téli napon.",
+                "ro": "Bucurați-vă de liniștea din catedrală într-o zi rece de iarnă.",
+                "en": "Enjoy the peacefulness of the Cathedral on a cold winter day."
+              }
+            },
+            {
+              "name": "The Black and White House Museum",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Museumsshop für originelle Wintergeschenke.",
+                "hu": "Látogasson el a múzeumi boltba eredeti téli ajándékokért.",
+                "ro": "Vizitați magazinul muzeului pentru cadouri de iarnă inedite.",
+                "en": "Visit the museum shop for unique winter-themed gifts."
+              }
+            },
+            {
+              "name": "Drive & Visit: Museum of Cider",
+              "tip_5lang": {
+                "de": "Probieren Sie im Café warme Apfelgetränke gegen den Frost.",
+                "hu": "Próbálja ki a kávézó meleg almás italait a fagy ellen.",
+                "ro": "Încercați băuturile calde cu mere din cafenea împotriva gerului.",
+                "en": "Try the cafe's warm apple drinks to counter the frost."
+              }
+            },
+            {
+              "name": "Drive & Relax: Castle Green",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Ufer bietet tolle Fotomotive bei Frost.",
+                "hu": "Egy rövid megálló a parton remek fotótémát kínál zúzmara esetén.",
+                "ro": "O scurtă oprire pe mal oferă oportunități foto excelente la îngheț.",
+                "en": "A brief stop by the river offers great photo ops during frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf überfrierende Nässe auf den Brücken über den Wye.",
+              "Nutzen Sie die Sitzheizung für die kurzen Fahrten zwischen den Stopps.",
+              "Parkhäuser sind im Winter oft wärmer als offene Parkplätze.",
+              "Kontrollieren Sie vor der Abfahrt den Frostschutz der Scheibenwaschanlage."
+            ],
+            "hu": [
+              "Ügyeljen a hajnali fagyokra a Wye folyó hídjain.",
+              "Használja az ülésfűtést a megállók közötti rövid szakaszokon.",
+              "A parkolóházak télen gyakran melegebbek a nyitott parkolóknál.",
+              "Indulás előtt ellenőrizze a szélvédőmosó fagyállóságát."
+            ],
+            "ro": [
+              "Atenție la polei pe podurile de peste râul Wye.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte dintre opriri.",
+              "Parcările etajate sunt adesea mai calde decât cele deschise iarna.",
+              "Verificați lichidul de parbriz antigel înainte de plecare."
+            ],
+            "en": [
+              "Be cautious of black ice on the bridges over the River Wye.",
+              "Use seat heaters for the short drives between city attractions.",
+              "Multi-storey car parks are often warmer than open-air lots in winter.",
+              "Check your screenwash antifreeze levels before starting the trip."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1182,6 +1764,170 @@
           "Buses can be busier on market days (Wednesday and Saturday).",
           "Check the time of the last bus back to your starting point."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nach der Ankunft am Busbahnhof nutzen wir die kurzen Wege ins Stadtzentrum. Das Black and White House und die Kathedrale sind schnell erreichbar, während wir zwischen den Schauern die Mappa Mundi bewundern. Mit dem Bus fahren wir zum Cider Museum, um trocken zu bleiben. Den Abschluss bildet eine kurze Fahrt Richtung Castle Green, wobei wir die Aussicht aus dem warmen Bus genießen.",
+            "hu": "A buszállomásra érkezve a belváros felé vesszük az irányt, kihasználva a fedett buszvárókat. A Black and White House és a Katedrális látogatása után busszal utazunk a Cider Múzeumba, így elkerülve a nagyobb ázást. A nap végén a Castle Green környékére is tömegközlekedéssel jutunk el, élvezve a kilátást a száraz buszból.",
+            "ro": "După sosirea la autogară, folosim rutele scurte spre centrul orașului. Vizităm muzeul istoric și catedrala, adăpostindu-ne în interior în timpul ploii. Luăm autobuzul spre Museum of Cider pentru a rămâne uscați. Încheiem ziua cu o scurtă călătorie spre Castle Green, admirând râul de la fereastra autobuzului.",
+            "en": "After arriving at the bus station, we make use of short walking routes to the centre. We visit the Black and White House and Cathedral, seeking shelter inside during showers. A bus ride to the Cider Museum keeps us dry in the afternoon. We wrap up the day with a trip towards Castle Green, enjoying the views from the warm bus interior."
+          },
+          "stops": [
+            {
+              "name": "Arrival: Bus Station & Walk",
+              "tip_5lang": {
+                "de": "Überdachte Wartebereiche am Bahnhof bieten ersten Schutz.",
+                "hu": "A buszállomás fedett várói nyújtják az első menedéket.",
+                "ro": "Zonele de așteptare acoperite din autogară oferă protecție.",
+                "en": "Covered waiting areas at the station provide initial shelter."
+              }
+            },
+            {
+              "name": "The Black and White House Museum",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg von den meisten zentralen Haltestellen.",
+                "hu": "Mindössze 5 perc séta a legtöbb központi buszmegállótól.",
+                "ro": "La doar 5 minute de mers pe jos de majoritatea stațiilor centrale.",
+                "en": "Just a 5-minute walk from most central bus stops."
+              }
+            },
+            {
+              "name": "Hereford Cathedral & Mappa Mundi",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Haltestelle Broad Street für einen minimalen Fußweg.",
+                "hu": "Használja a Broad Street megállót a minimális gyalogláshoz.",
+                "ro": "Folosiți stația Broad Street pentru a merge cât mai puțin pe jos.",
+                "en": "Use the Broad Street bus stop for a minimal walk in the rain."
+              }
+            },
+            {
+              "name": "Bus Ride & Visit: Museum of Cider",
+              "tip_5lang": {
+                "de": "Die Buslinie 71 hält direkt in der Nähe des Museums.",
+                "hu": "A 71-es buszjárat közvetlenül a múzeum közelében áll meg.",
+                "ro": "Linia de autobuz 71 oprește chiar lângă muzeu.",
+                "en": "The 71 bus service stops conveniently near the museum entrance."
+              }
+            },
+            {
+              "name": "Bus Ride & Relax: Castle Green",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stadtrundfahrt im Trockenen bis zum Ausstieg.",
+                "hu": "Élvezze a városi buszozást szárazon a leszállásig.",
+                "ro": "Bucurați-vă de drumul prin oraș la uscat până la coborâre.",
+                "en": "Enjoy the bus ride through town in the dry until you arrive."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die 'First Bus' App für Echtzeit-Infos bei Regen.",
+              "Halten Sie Ihren Schirm beim Einsteigen in den Bus griffbereit.",
+              "Die zentralen Haltestellen in High Town sind teilweise überdacht.",
+              "Nutzen Sie das Tagesticket für beliebig viele trockene Fahrten."
+            ],
+            "hu": [
+              "Töltse le a 'First Bus' alkalmazást az eső alatti valós idejű infókért.",
+              "Tartsa kéznél az esernyőt a buszra való fel- és leszálláskor.",
+              "A High Town központi megállói részben fedettek.",
+              "Váltson napijegyet a korlátlan számú száraz utazáshoz."
+            ],
+            "ro": [
+              "Descărcați aplicația 'First Bus' pentru info în timp real pe ploaie.",
+              "Țineți umbrela la îndemână când urcați sau coborâți din autobuz.",
+              "Stațiile centrale din High Town sunt parțial acoperite.",
+              "Folosiți un bilet de o zi pentru călătorii nelimitate la uscat."
+            ],
+            "en": [
+              "Download the 'First Bus' app for real-time updates during rainfall.",
+              "Keep your umbrella handy when boarding and alighting the bus.",
+              "The central stops in High Town offer partial overhead shelter.",
+              "Get a day ticket for unlimited dry transfers between attractions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ankunft in Hereford am winterlichen Busbahnhof. Wir erkunden das Black and White House und die Kathedrale, wobei wir die Wärme in den Bussen zwischen den Zielen schätzen. Der Besuch im Cider Museum am Nachmittag bietet Schutz vor der Kälte. Bei Einbruch der Dunkelheit fahren wir mit dem Bus am Castle Green vorbei und sehen die Stadt im festlichen Lichterglanz.",
+            "hu": " Hereford buszállomására érkezünk a fagyos reggelen. A Black and White House és a Katedrális felfedezése közben a fűtött buszokon melegszünk fel. A Cider Múzeum délutáni látogatása ideális búvóhely a hideg elől. A naplementét már a buszból nézzük a Castle Green mellett, csodálva a kivilágított belvárost.",
+            "ro": "Sosim în Hereford la autogara de iarnă. Explorăm muzeul istoric și catedrala, apreciind căldura din autobuze între obiective. Vizita la Museum of Cider de după-amiază oferă protecție împotriva gerului. La lăsarea serii, călătoria cu autobuzul pe lângă Castle Green ne arată orașul sub lumini festive.",
+            "en": "Arrival in Hereford at the wintry bus station. We explore the Black and White House and the Cathedral, appreciating the warmth of the buses between stops. The afternoon visit to the Cider Museum provides a welcome refuge from the cold. As darkness falls, the bus ride past Castle Green showcases the city's festive winter glow."
+          },
+          "stops": [
+            {
+              "name": "Arrival: Bus Station & Walk",
+              "tip_5lang": {
+                "de": "Im Bahnhofsgebäude gibt es kleine Kioske für heiße Getränke.",
+                "hu": "Az állomás épületében kis büfék kínálnak forró italokat.",
+                "ro": "În clădirea gării există chioșcuri pentru băuturi calde.",
+                "en": "Small kiosks at the station offer hot drinks for a warm start."
+              }
+            },
+            {
+              "name": "The Black and White House Museum",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint durch die Kälte vom Busstopp Shire Hall.",
+                "hu": "Rövid futás a hidegben a Shire Hall buszmegállótól.",
+                "ro": "Un scurt sprint prin frig de la stația de autobuz Shire Hall.",
+                "en": "A quick sprint through the cold from the Shire Hall bus stop."
+              }
+            },
+            {
+              "name": "Hereford Cathedral & Mappa Mundi",
+              "tip_5lang": {
+                "de": "Die Kathedrale bietet im Winter oft stimmungsvolle Orgelproben.",
+                "hu": "A katedrálisban télen gyakran tartanak hangulatos orgonapróbákat.",
+                "ro": "Catedrala oferă adesea repetiții de orgă impresionante iarna.",
+                "en": "The Cathedral often hosts atmospheric organ rehearsals in winter."
+              }
+            },
+            {
+              "name": "Bus Ride & Visit: Museum of Cider",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter gut beheizt – ideal zum Aufwärmen.",
+                "hu": "A buszok télen jól fűtöttek – ideális a felmelegedéshez.",
+                "ro": "Autobuzele sunt bine încălzite iarna – ideal pentru încălzire.",
+                "en": "Buses are well-heated in winter – perfect for a quick warm-up."
+              }
+            },
+            {
+              "name": "Bus Ride & Relax: Castle Green",
+              "tip_5lang": {
+                "de": "Beobachten Sie das winterliche Treiben am Fluss aus dem Fenster.",
+                "hu": "Figyelje a folyóparti téli nyüzsgést a busz ablakából.",
+                "ro": "Urmăriți animația de iarnă de lângă râu de la fereastră.",
+                "en": "Watch the wintry riverside activities from the bus window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter nach dem Standard-Fahrplan, oft bis spät.",
+              "Warten Sie in den beheizten Innenbereichen, wenn möglich.",
+              "Die Dämmerung beginnt früh, nutzen Sie die hellen Stunden mittags.",
+              "Ein heißer Tee am Busbahnhof wärmt vor der Weiterfahrt auf."
+            ],
+            "hu": [
+              "A buszok télen is a szokásos menetrend szerint, gyakran későig járnak.",
+              "Ahol lehetséges, várjon a fűtött belső váróhelyiségekben.",
+              "A szürkület korán kezdődik, használja ki a déli világos órákat.",
+              "Egy forró tea a buszállomáson segít a továbbindulás előtt."
+            ],
+            "ro": [
+              "Autobuzele circulă după programul standard, adesea până târziu.",
+              "Așteptați în zonele interioare încălzite unde este posibil.",
+              "Amurgul începe devreme, profitați de orele luminoase de la prânz.",
+              "Un ceai cald la autogară vă va încălzi înainte de plecare."
+            ],
+            "en": [
+              "Buses run on the standard schedule in winter, often until late evening.",
+              "Wait in heated indoor areas whenever they are available.",
+              "Twilight starts early, so make the most of the bright midday hours.",
+              "A hot tea at the bus station will warm you up before your journey."
+            ]
+          }
+        }
       }
     }
   }

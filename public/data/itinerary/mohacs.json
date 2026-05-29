@@ -322,6 +322,196 @@
           "Most attractions are located close to each other.",
           "Take your time for lunch at a traditional Csárda."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am regnerischen Széchenyi-Platz, wo die Fassaden im nassen Licht glänzen. Das Rathaus bietet erste Zuflucht unter den Arkaden. Mittags tauchen Sie im Busó-Hof in die faszinierende Welt der Masken ein, während es draußen gießt. Nachmittags erkunden Sie die Exponate des Kanizsai Dorottya Museums. Den Tag lassen Sie mit einem kurzen, erfrischenden Gang an der Donaupromenade ausklingen.",
+            "hu": "Kezdje a napot a Széchenyi téren, ahol az esőben megcsillanó épületek különleges látványt nyújtanak. A Városháza árkádjai védelmet adnak a zápor elől. Délben látogasson el a Busóudvarba, ahol a fedett kiállítótérben ismerkedhet meg a néphagyományokkal. Délután a Kanizsai Dorottya Múzeum tárlatait fedezheti fel. Az estét egy esernyős séta zárja a Duna-parton, élvezve a folyó illatát.",
+            "ro": "Începeți ziua în Piața Széchenyi, unde clădirile strălucesc în lumina ploii. Arcadele Primăriei oferă un prim refugiu împotriva apei. La prânz, vizitați Curtea Busó, unde expoziția interioară vă protejează de intemperii. După-amiaza este dedicată Muzeului Dorottya Kanizsai. Încheiați ziua cu o scurtă plimbare cu umbrela pe faleza Dunării, admirând cursul apei.",
+            "en": "Start your morning at Széchenyi Square, where the wet pavement reflects the historic facades. The Town Hall arcades offer a quick escape from the showers. At noon, dive into the folk traditions at the Busó Yard, a perfect indoor activity. Spend the afternoon exploring the Dorottya Kanizsai Museum. End the day with a brisk walk along the Danube promenade under your umbrella."
+          },
+          "stops": [
+            {
+              "name": "Széchenyi Square",
+              "tip_5lang": {
+                "de": "Die Cafés rund um den Platz bieten gemütliche Plätze zum Aufwärmen.",
+                "hu": "A tér körüli kávézók tökéletesek egy meleg teára az eső elől.",
+                "ro": "Cafenelele din jurul pieței oferă locuri confortabile pentru a scăpa de ploaie.",
+                "en": "The cafes around the square offer cozy spots to warm up from the rain."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Die breiten Arkaden des Rathauses sind ein trockener Unterstand.",
+                "hu": "A Városháza széles árkádjai alatt szárazon maradhat egy rövid zápor alatt.",
+                "ro": "Arcadele largi ale primăriei reprezintă un adăpost uscat excelent.",
+                "en": "The town hall's wide arcades are an excellent dry shelter during showers."
+              }
+            },
+            {
+              "name": "Votive Church",
+              "tip_5lang": {
+                "de": "Das massive Innere der Kirche ist der ideale Ort, um dem Regen zu entkommen.",
+                "hu": "A templom hatalmas belső tere ideális hely a csapadék elől való menekülésre.",
+                "ro": "Interiorul masiv al bisericii este locul ideal pentru a scăpa de ploaie.",
+                "en": "The church's massive interior is the ideal place to escape the downpour."
+              }
+            },
+            {
+              "name": "Busó Yard",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, da die Ausstellung komplett überdacht ist.",
+                "hu": "Töltsön itt több időt, mivel a kiállítás teljes egészében fedett.",
+                "ro": "Alocați mai mult timp aici, deoarece expoziția este complet acoperită.",
+                "en": "Spend more time here, as the exhibition is entirely indoors and dry."
+              }
+            },
+            {
+              "name": "Dorottya Kanizsai Museum",
+              "tip_5lang": {
+                "de": "Perfekt für den Nachmittag, um die lokale Geschichte im Trockenen zu studieren.",
+                "hu": "Tökéletes délutáni program a helytörténet megismerésére fedett helyen.",
+                "ro": "Perfect pentru după-amiază pentru a studia istoria locală la adăpost.",
+                "en": "Perfect for the afternoon to study local history while staying dry."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Der Blick auf die graue Donau im Regen hat eine melancholische Schönheit.",
+                "hu": "Az esőben úszó szürke Duna látványa melankolikus szépséget áraszt.",
+                "ro": "Vederea Dunării gri în ploaie are o frumusețe melancolică aparte.",
+                "en": "The sight of the gray Danube in the rain has a unique, melancholic beauty."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Arkaden des Rathauses als strategischen Regenschutz.",
+              "Die Museen liegen nah beieinander, was die Zeit im Freien minimiert.",
+              "Tragen Sie wasserfeste Schuhe für die kopfsteingepflasterten Gassen.",
+              "Die Votivkirche bietet viel Platz zum Trocknen und Ausruhen.",
+              "Halten Sie einen Regenschirm für den Uferabschnitt bereit."
+            ],
+            "hu": [
+              "Használja a Városháza árkádjait stratégiai esővédelemként.",
+              "A múzeumok sétatávolságra vannak, így keveset kell az esőben lenni.",
+              "Viseljen vízálló cipőt a macskaköves utcák miatt.",
+              "A Fogadalmi templom tágas belső tere alkalmas a pihenésre.",
+              "Készítsen esernyőt a Duna-parti szakaszhoz."
+            ],
+            "ro": [
+              "Folosiți arcadele primăriei ca adăpost strategic împotriva ploii.",
+              "Muzeele sunt la mică distanță, minimizând timpul petrecut în exterior.",
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "Biserica Votivă oferă spațiu generos pentru a vă usca și odihni.",
+              "Aveți pregătită o umbrelă pentru secțiunea de pe malul Dunării."
+            ],
+            "en": [
+              "Use the town hall arcades as strategic rain shelters.",
+              "The museums are within walking distance, minimizing outdoor exposure.",
+              "Wear waterproof shoes for the cobblestone streets.",
+              "The Votive Church provides plenty of space to dry off and rest.",
+              "Keep an umbrella ready for the riverside section."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den frostigen Morgen am Széchenyi-Platz, wo der Nebel über der Donau hängt. Das Rathaus wirkt in der Winterstille besonders majestätisch. Mittags bietet die Votivkirche einen ruhigen Ort zum Innehalten. Im Busó-Hof erfahren Sie alles über das Winteraustreiben, was in der Kälte besonders authentisch wirkt. Vor dem frühen Sonnenuntergang genießen Sie die klare Luft an der Donaupromenade.",
+            "hu": "Kezdje a fagyos reggelt a Széchenyi téren, ahol a köd még a Duna felett gomolyog. A Városháza a téli csendben különösen fenségesnek tűnik. Délben a Fogadalmi templom nyújt nyugodt helyet az elmélyüléshez. A Busóudvarban a télűzés hagyományairól tanulhat, ami a hidegben még hitelesebb élmény. A korai naplemente előtt élvezze a friss levegőt a Duna-parton.",
+            "ro": "Începeți dimineața geroasă în Piața Széchenyi, unde ceața plutește peste Dunăre. Primăria pare deosebit de maiestuoasă în liniștea iernii. La prânz, Biserica Votivă oferă un loc liniștit de reculegere. La Curtea Busó învățați despre alungarea iernii, o experiență autentică pe timp de ger. Înainte de apusul devreme, bucurați-vă de aerul curat de pe faleza Dunării.",
+            "en": "Begin a frosty morning at Széchenyi Square, with mist often hanging over the Danube. The Town Hall looks majestic in the winter silence. At noon, the Votive Church offers a quiet place for reflection. At the Busó Yard, learn about the winter-scaring traditions, which feel especially authentic in the cold. Enjoy the crisp air at the Danube promenade before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Széchenyi Square",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wichtig, da der Wind hier oft pfeift.",
+                "hu": "Öltözzön rétegesen, mert a téren gyakran fúj a hideg szél.",
+                "ro": "Îmbrăcămintea groasă este esențială, deoarece vântul suflă des aici.",
+                "en": "Warm clothing is essential as the wind often picks up in the square."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Im Winter ist die Beleuchtung des Rathauses am späten Nachmittag prachtvoll.",
+                "hu": "Télen a Városháza díszkivilágítása már késő délután gyönyörű.",
+                "ro": "Iarna, iluminatul primăriei este splendid încă de după-amiaza târziu.",
+                "en": "In winter, the town hall's lighting is magnificent by late afternoon."
+              }
+            },
+            {
+              "name": "Votive Church",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, die großen Kirchenräume bleiben kühl.",
+                "hu": "Öltözzön melegen, a templom nagy terei télen hűvösek maradnak.",
+                "ro": "Îmbrăcați-vă gros, spațiile mari ale bisericii rămân reci iarna.",
+                "en": "Dress warmly; the large church interiors remain chilly in winter."
+              }
+            },
+            {
+              "name": "Busó Yard",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich zwischen den Besichtigungen aufzuwärmen.",
+                "hu": "Tökéletes helyszín a felmelegedésre a városnézés közben.",
+                "ro": "Locul perfect pentru a vă încălzi între vizitarea obiectivelor.",
+                "en": "The perfect place to warm up between outdoor sightseeing stops."
+              }
+            },
+            {
+              "name": "Dorottya Kanizsai Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die geheizten Ausstellungsräume für eine längere Pause.",
+                "hu": "Használja ki a fűtött kiállítótereket egy hosszabb pihenőre.",
+                "ro": "Profitați de sălile de expoziție încălzite pentru o pauză mai lungă.",
+                "en": "Take advantage of the heated exhibition halls for a longer break."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter bereits gegen 16:30 Uhr.",
+                "hu": "A naplemente télen már 16:30 körül bekövetkezik.",
+                "ro": "Apusul de soare are loc deja în jurul orei 16:30 pe timp de iarnă.",
+                "en": "The winter sunset occurs early, around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Aktivitäten im Freien vor 16:00 Uhr ein.",
+              "Die Donaupromenade kann im Winter sehr zugig sein.",
+              "Kombinieren Sie Spaziergänge mit Aufenthalten in warmen Museen.",
+              "Achten Sie auf vereiste Stellen auf dem Kopfsteinpflaster.",
+              "Ein heißer Tee in den Cafés am Széchenyi-Platz ist ein Muss."
+            ],
+            "hu": [
+              "A kültéri programokat érdemes 16:00 óra előtt befejezni.",
+              "A Duna-part télen nagyon huzatos és hideg lehet.",
+              "Kombinálja a sétát a fűtött múzeumok meglátogatásával.",
+              "Ügyeljen a jeges foltokra a macskaköves utcákon.",
+              "Egy forró tea a Széchenyi téri kávézókban kötelező program."
+            ],
+            "ro": [
+              "Planificați activitățile în aer liber înainte de ora 16:00.",
+              "Faleza Dunării poate fi foarte expusă vântului iarna.",
+              "Combinați plimbările cu opriri în muzeele încălzite.",
+              "Atenție la porțiunile înghețate de pe străzile cu piatră cubică.",
+              "Un ceai fierbinte la cafenelele din Piața Széchenyi este obligatoriu."
+            ],
+            "en": [
+              "Plan outdoor activities to finish before 4:00 PM.",
+              "The Danube promenade can be very drafty and cold in winter.",
+              "Combine your walks with visits to heated museums.",
+              "Watch out for icy patches on the cobblestone streets.",
+              "A hot tea in the cafes at Széchenyi Square is a must."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -662,6 +852,214 @@
           "A bike lock is essential.",
           "The roads outside the city can be unpaved."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotzen Sie dem Regen auf zwei Rädern. Morgens erkunden Sie die Innenstadt, bevor Sie zum Gedenkpark radeln, wo der nasse Boden die Ernsthaftigkeit des Ortes unterstreicht. Mittags bietet die St. Nikolaus Wassermühle einen gemütlichen, trockenen Halt. Nachmittags kehren Sie für Museumsbesuche ins Zentrum zurück. Der Tag endet mit einer schnellen Fahrt entlang der regnerischen Donau.",
+            "hu": "Dacoljon az esővel két keréken. Reggel a belvárost járja be, majd az Emlékparkhoz kerekezik, ahol a nedves föld még komorabbá teszi a helyszínt. Délben a Szent Miklós vízimalom nyújt száraz menedéket. Délután térjen vissza a központba múzeumlátogatásra. A napot egy gyors tekerés zárja a Duna-parton a szemerkélő esőben.",
+            "ro": "Înfruntați ploaia pe două roți. Dimineața explorați centrul, apoi pedalați spre Parcul Memorial, unde solul umed subliniază solemnitatea locului. La prânz, Moara de Apă Sf. Nicolae oferă o oprire uscată și primitoare. După-amiaza reveniți în centru pentru vizite la muzee. Ziua se încheie cu o cursă rapidă de-a lungul Dunării ploioase.",
+            "en": "Brave the rain on two wheels. In the morning, explore the center before cycling to the Memorial Park, where the wet earth adds to the gravity of the site. At noon, St. Nicholas Watermill provides a cozy, dry stop. Return to the center for museum visits in the afternoon. End the day with a quick ride along the rainy Danube."
+          },
+          "stops": [
+            {
+              "name": "Széchenyi Square",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster beim Anfahren.",
+                "hu": "Vigyázat, a vizes macskakő csúszós lehet induláskor.",
+                "ro": "Atenție la pavajul umed când porniți de pe loc.",
+                "en": "Be careful on the wet cobblestones when starting your ride."
+              }
+            },
+            {
+              "name": "Votive Church",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich in der Nähe des Kircheneingangs.",
+                "hu": "Kerékpártárolók a templom bejárata közelében találhatók.",
+                "ro": "Suporturile de biciclete se află lângă intrarea în biserică.",
+                "en": "Bicycle racks are located near the entrance of the church."
+              }
+            },
+            {
+              "name": "Busó Yard",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um die Kleidung etwas zu trocknen.",
+                "hu": "Használja ki a múzeumi időt a ruházat megszárítására.",
+                "ro": "Folosiți timpul din muzeu pentru a vă usca puțin hainele.",
+                "en": "Use the time inside the museum to dry off your gear slightly."
+              }
+            },
+            {
+              "name": "Historical Memorial Park",
+              "tip_5lang": {
+                "de": "Die Wege können bei Regen matschig sein, bleiben Sie auf Asphalt.",
+                "hu": "Az utak esőben sárosak lehetnek, maradjon az aszfaltozott részeken.",
+                "ro": "Drumurile pot fi noroioase pe ploaie, rămâneți pe asfalt.",
+                "en": "Paths can be muddy in the rain; stick to the paved sections."
+              }
+            },
+            {
+              "name": "St. Nicholas Watermill",
+              "tip_5lang": {
+                "de": "Ein hervorragender Unterschlupf für eine Pause während eines Schauers.",
+                "hu": "Kiváló menedék egy pihenőhöz egy nagyobb zápor idején.",
+                "ro": "Un adăpost excelent pentru o pauză în timpul unei averse.",
+                "en": "An excellent shelter for a break during a heavy downpour."
+              }
+            },
+            {
+              "name": "Dorottya Kanizsai Museum",
+              "tip_5lang": {
+                "de": "Gute Fahrradabstellplätze direkt vor dem Gebäude.",
+                "hu": "Jó kerékpárparkolóhelyek közvetlenül az épület előtt.",
+                "ro": "Locuri bune de parcare pentru biciclete chiar în fața clădirii.",
+                "en": "Good bicycle parking spots are available right in front of the building."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf dem Radweg am Fluss.",
+                "hu": "Ügyeljen a tócsákra a folyó menti kerékpárúton.",
+                "ro": "Atenție la bălțile de pe pista de biciclete de lângă râu.",
+                "en": "Watch out for puddles on the riverside bicycle path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist für diese Tour unerlässlich.",
+              "Vermeiden Sie abrupte Bremsmanöver auf nassem Kopfsteinpflaster.",
+              "Schutzbleche am Fahrrad verhindern das Hochspritzen von Schmutzwasser.",
+              "Nutzen Sie die überdachten Bereiche der Mühle für Pausen.",
+              "Die Fahrt zum Gedenkpark führt über exponiertes Gelände."
+            ],
+            "hu": [
+              "A teljes esőruházat elengedhetetlen ehhez a túrához.",
+              "Kerülje a hirtelen fékezést a vizes macskakövön.",
+              "A sárvédő segít elkerülni a felcsapódó vizet és sarat.",
+              "Használja ki a malom fedett részeit pihenésre.",
+              "Az Emlékparkhoz vezető út nyílt terepen halad."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este esențial pentru acest tur.",
+              "Evitați frânările bruște pe pavajul umed.",
+              "Apărătorile de noroi sunt necesare pentru a evita stropirea.",
+              "Folosiți zonele acoperite ale morii pentru pauze.",
+              "Drumul spre Parcul Memorial traversează teren deschis."
+            ],
+            "en": [
+              "Full rain gear is essential for this cycling tour.",
+              "Avoid sudden braking on wet cobblestone surfaces.",
+              "Mudguards are highly recommended to prevent splashing.",
+              "Utilize the covered areas of the watermill for breaks.",
+              "The road to the Memorial Park is quite exposed to wind and rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Wintertour durch Mohács. Morgens radeln Sie durch das ruhige Zentrum zur Votivkirche. Die Fahrt zum historischen Gedenkpark bietet weite Blicke über die winterliche Landschaft. Mittags wärmen Sie sich in der Wassermühle auf. Der Nachmittag gehört den Museen in der Stadt. Beenden Sie die Tour an der Promenade, während die Sonne früh hinter dem Horizont verschwindet.",
+            "hu": "Frissítő téli túra Mohácson. Reggel a csendes belvároson át kerekezik a Fogadalmi templomhoz. Az Emlékparkhoz vezető út tágas kilátást nyújt a téli tájra. Délben a vízimalomban melegedhet fel. A délután a városi múzeumoké. Zárja a túrát a Duna-parton, ahogy a nap korán eltűnik a horizont mögött.",
+            "ro": "Un tur de iarnă revigorant în Mohács. Dimineața pedalați prin centrul liniștit spre Biserica Votivă. Drumul spre Parcul Memorial oferă vederi largi asupra peisajului hibernal. La prânz vă încălziți la moara de apă. După-amiaza este dedicată muzeelor din oraș. Încheiați turul pe faleză, în timp ce soarele apune devreme.",
+            "en": "A refreshing winter tour through Mohács. In the morning, cycle through the quiet center to the Votive Church. The ride to the Memorial Park offers vast views of the winter landscape. At noon, warm up at the watermill. The afternoon is for the city's museums. Finish the tour on the promenade as the sun sets early over the horizon."
+          },
+          "stops": [
+            {
+              "name": "Széchenyi Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Reifglätte in den frühen Morgenstunden.",
+                "hu": "Ügyeljen a zúzmarás, csúszós útfelületekre a reggeli órákban.",
+                "ro": "Atenție la porțiunile cu chiciură în orele dimineții.",
+                "en": "Watch out for frosty, slippery surfaces in the early morning hours."
+              }
+            },
+            {
+              "name": "Votive Church",
+              "tip_5lang": {
+                "de": "Kurze Pause zum Aufwärmen im Vorraum möglich.",
+                "hu": "Rövid melegedési lehetőség a templom előterében.",
+                "ro": "Posibilitate de scurtă încălzire în vestibulul bisericii.",
+                "en": "A short opportunity to warm up in the church's vestibule."
+              }
+            },
+            {
+              "name": "Busó Yard",
+              "tip_5lang": {
+                "de": "Im Winter sind die Innenräume angenehm temperiert.",
+                "hu": "Télen a belső terek kellemes hőmérsékletűek.",
+                "ro": "Iarna, spațiile interioare sunt încălzite corespunzător.",
+                "en": "The indoor spaces are comfortably heated during winter."
+              }
+            },
+            {
+              "name": "Historical Memorial Park",
+              "tip_5lang": {
+                "de": "Exponierte Lage, der Wind kann hier sehr schneidend sein.",
+                "hu": "Nyitott helyszín, a szél itt nagyon metsző lehet.",
+                "ro": "Locație expusă, vântul poate fi foarte tăios aici.",
+                "en": "Open location; the wind can be very biting here in winter."
+              }
+            },
+            {
+              "name": "St. Nicholas Watermill",
+              "tip_5lang": {
+                "de": "Besonders gemütlich, wenn es draußen friert.",
+                "hu": "Különösen hangulatos, amikor kint röpködnek a mínuszok.",
+                "ro": "Deosebit de primitoare când afară este ger.",
+                "en": "Particularly atmospheric and cozy when it is freezing outside."
+              }
+            },
+            {
+              "name": "Dorottya Kanizsai Museum",
+              "tip_5lang": {
+                "de": "Idealer Stopp, um die Kälte der Fahrt kurz zu vergessen.",
+                "hu": "Ideális megálló, hogy elfelejtse a tekerés közbeni hideget.",
+                "ro": "Oprire ideală pentru a uita de frigul îndurat pe bicicletă.",
+                "en": "Ideal stop to forget the cold endured during the ride."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Das Eis auf der Donau bietet im harten Winter tolle Fotomotive.",
+                "hu": "A jeges Duna kemény teleken kiváló fotótéma.",
+                "ro": "Dunărea înghețată oferă oportunități foto excelente în iernile grele.",
+                "en": "The icy Danube offers great photo opportunities during harsh winters."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und Winterschuhe sind absolut notwendig.",
+              "Die Tage sind kurz; sorgen Sie für funktionierende Beleuchtung.",
+              "Der Wind vom Fluss verstärkt die gefühlte Kälte erheblich.",
+              "Trinken Sie ausreichend warme Flüssigkeiten während der Tour.",
+              "Planen Sie die Rückfahrt vom Gedenkpark vor Einbruch der Dunkelheit."
+            ],
+            "hu": [
+              "Meleg kesztyű és téli cipő elengedhetetlen a túrához.",
+              "A nappalok rövidek, gondoskodjon a megfelelő világításról.",
+              "A folyó felől fújó szél jelentősen növeli a hidegérzetet.",
+              "Fogyasszon elegendő meleg folyadékot a túra alatt.",
+              "Az Emlékparkból való visszautat még sötétedés előtt tervezze be."
+            ],
+            "ro": [
+              "Mănușile groase și încălțămintea de iarnă sunt absolut necesare.",
+              "Zilele sunt scurte; asigurați-vă că aveți lumini funcționale.",
+              "Vântul de pe râu crește considerabil senzația de frig.",
+              "Beți suficiente lichide calde pe parcursul turului.",
+              "Planificați întoarcerea de la Parcul Memorial înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "Warm gloves and winter shoes are absolutely necessary.",
+              "Days are short; ensure your bicycle lights are working correctly.",
+              "The wind from the river significantly increases the chill factor.",
+              "Drink plenty of warm fluids during your winter tour.",
+              "Plan your return from the Memorial Park before darkness falls."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -954,6 +1352,178 @@
           "Plan enough time to visit the memorial park, it is very spacious.",
           "The streets can be narrow, drive carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein komfortabler Regentag in Mohács. Parken Sie im Zentrum und besuchen Sie den Busó-Hof und die Museen, ohne nass zu werden. Mittags besichtigen Sie den Széchenyi-Platz und die Votivkirche. Die kurze Fahrt zum historischen Gedenkpark ermöglicht es Ihnen, die Denkmäler auch bei schlechtem Wetter zu sehen. Schließen Sie den Tag mit einem Blick auf die regnerische Donau vom Auto aus ab.",
+            "hu": "Kényelmes esős nap Mohácson. Parkoljon a központban, és látogassa meg a Busóudvart és a múzeumokat anélkül, hogy elázna. Délben tekintse meg a Széchenyi teret és a Fogadalmi templomot. Az Emlékparkhoz tett rövid autóút rossz időben is lehetővé teszi a látogatást. Zárja a napot a folyó látványával, akár az autóból figyelve a szemerkélő esőt.",
+            "ro": "O zi ploioasă confortabilă în Mohács. Parcați în centru și vizitați Curtea Busó și muzeele fără a vă uda. La prânz vizitați Piața Széchenyi și Biserica Votivă. Scurta deplasare spre Parcul Memorial vă permite să vedeți monumentele chiar și pe vreme rea. Încheiați ziua admirând Dunărea ploioasă, eventual din mașină.",
+            "en": "A comfortable rainy day in Mohács. Park in the center and visit the Busó Yard and museums without getting soaked. At noon, see Széchenyi Square and the Votive Church. The short drive to the Memorial Park allows you to visit even in bad weather. Close the day with a view of the rainy Danube, perhaps from the comfort of your car."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz, idealer Startpunkt bei Regen.",
+                "hu": "Központi parkoló, ideális kiindulópont esőben.",
+                "ro": "Parcare centrală, punct de plecare ideal pe ploaie.",
+                "en": "Central parking lot, an ideal starting point in the rain."
+              }
+            },
+            {
+              "name": "Busó Yard and Museums",
+              "tip_5lang": {
+                "de": "Wenige Schritte vom Parkplatz entfernt, kaum Regenkontakt.",
+                "hu": "Pár lépésre a parkolótól, minimális idő az esőben.",
+                "ro": "La câțiva pași de parcare, contact minim cu ploaia.",
+                "en": "Just a few steps from parking, minimal exposure to rain."
+              }
+            },
+            {
+              "name": "Széchenyi Square and Votive Church",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Kircheneingang.",
+                "hu": "Parkoljon a lehető legközelebb a templom bejáratához.",
+                "ro": "Parcați cât mai aproape posibil de intrarea în biserică.",
+                "en": "Try to park as close to the church entrance as possible."
+              }
+            },
+            {
+              "name": "Historical Memorial Park",
+              "tip_5lang": {
+                "de": "Direkter Parkplatz am Eingang des Parks vorhanden.",
+                "hu": "Közvetlen parkolóhelyek a park bejáratánál.",
+                "ro": "Locuri de parcare directe disponibile la intrarea în parc.",
+                "en": "Direct parking spaces are available at the park entrance."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Vom Uferparkplatz aus lässt sich der Fluss im Trockenen beobachten.",
+                "hu": "A parti parkolóból szárazon is figyelheti a folyót.",
+                "ro": "Din parcarea de pe mal puteți observa râul stând la adăpost.",
+                "en": "You can observe the river from the riverside parking while staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die zentralen Parkplätze, um Laufwege im Regen zu verkürzen.",
+              "Der Gedenkpark hat einen eigenen Parkplatz direkt am Empfangsgebäude.",
+              "Vermeiden Sie bei starkem Regen tiefgelegene Parkflächen am Fluss.",
+              "Hinterlassen Sie keine Wertsachen sichtbar im geparkten Auto.",
+              "Ein Regenschirm im Auto ist für die kurzen Wege zwischen Ziel und Parkplatz nützlich."
+            ],
+            "hu": [
+              "Használja a központi parkolókat az esőben való gyaloglás rövidítésére.",
+              "Az Emlékparknak saját parkolója van közvetlenül a fogadóépületnél.",
+              "Heves esőzéskor kerülje a folyóparti mélyebben fekvő parkolókat.",
+              "Ne hagyjon értéktárgyat látható helyen a parkoló autóban.",
+              "Az autóban tartott esernyő hasznos a rövid távok megtételéhez."
+            ],
+            "ro": [
+              "Folosiți parcările centrale pentru a scurta mersul prin ploaie.",
+              "Parcul Memorial are parcare proprie chiar lângă clădirea de recepție.",
+              "Evitați parcările joase de pe malul râului în timpul ploilor torențiale.",
+              "Nu lăsați obiecte de valoare la vedere în mașina parcată.",
+              "O umbrelă în mașină este utilă pentru distanțele scurte spre obiective."
+            ],
+            "en": [
+              "Use central parking lots to shorten walking distances in the rain.",
+              "The Memorial Park has its own parking lot right by the visitor center.",
+              "Avoid low-lying parking areas near the river during heavy rain.",
+              "Do not leave valuables visible in your parked car.",
+              "Keeping an umbrella in the car is useful for short walks to the attractions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Mohács im Winter mit dem Auto. Starten Sie im Zentrum und genießen Sie die Wärme zwischen den kulturellen Stopps im Busó-Hof und den Museen. Besichtigen Sie die majestätische Votivkirche und fahren Sie anschließend zum historischen Gedenkpark, der im Winterlicht eine besondere Atmosphäre ausstrahlt. Den Tag beenden Sie gemütlich an der Donaupromenade, bevor die Kälte des Abends einsetzt.",
+            "hu": "Fedezze fel Mohácsot télen autóval. Kezdje a központban, és élvezze az autó melegét a Busóudvar és a múzeumok közötti szakaszokon. Tekintse meg a fenséges Fogadalmi templomot, majd hajtson az Emlékparkhoz, amely a téli fényekben különleges hangulatot áraszt. A napot a Duna-parton zárhatja, mielőtt beállna az esti fagy.",
+            "ro": "Descoperiți Mohács iarna cu mașina. Începeți în centru și bucurați-vă de căldura mașinii între opririle culturale de la Curtea Busó și muzee. Vizitați maiestuoasa Biserică Votivă, apoi conduceți spre Parcul Memorial, care are o atmosferă deosebită în lumina iernii. Încheiați ziua pe faleză înainte de lăsarea gerului de seară.",
+            "en": "Explore Mohács in winter by car. Start in the center and enjoy the warmth of your vehicle between cultural stops at the Busó Yard and museums. Visit the majestic Votive Church and then drive to the Memorial Park, which radiates a special atmosphere in winter light. End the day comfortably at the Danube promenade before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Bei Frost können Parkflächen rutschig sein, Vorsicht beim Aussteigen.",
+                "hu": "Fagy esetén a parkolófelület csúszós lehet, vigyázzon a kiszállásnál.",
+                "ro": "Suprafața parcării poate fi alunecoasă în caz de îngheț, atenție la coborâre.",
+                "en": "Parking surfaces can be slippery in freezing weather; be careful when exiting."
+              }
+            },
+            {
+              "name": "Busó Yard and Museums",
+              "tip_5lang": {
+                "de": "Das Auto bietet eine willkommene Aufwärmpause zwischen den Museen.",
+                "hu": "Az autó kellemes melegedési lehetőséget nyújt a múzeumlátogatások között.",
+                "ro": "Mașina oferă o oportunitate de încălzire între vizitele la muzee.",
+                "en": "The car provides a welcome warm-up break between museum visits."
+              }
+            },
+            {
+              "name": "Széchenyi Square and Votive Church",
+              "tip_5lang": {
+                "de": "Die Kirche ist im Winter kühl, lassen Sie die Jacke im Auto nicht zurück.",
+                "hu": "A templom télen hűvös, ne hagyja a kabátot az autóban.",
+                "ro": "Biserica este rece iarna, nu lăsați haina în mașină.",
+                "en": "The church is chilly in winter; do not leave your coat in the car."
+              }
+            },
+            {
+              "name": "Historical Memorial Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten vor der Abfahrt.",
+                "hu": "Indulás előtt ellenőrizze a téli nyitvatartási időt.",
+                "ro": "Verificați programul de iarnă înainte de plecare.",
+                "en": "Check the winter opening hours before heading out."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Windschutz für den Blick auf den Fluss.",
+                "hu": "Használja az autót szélfogóként a folyóra nyíló kilátáshoz.",
+                "ro": "Folosiți mașina ca protecție împotriva vântului pentru a admira râul.",
+                "en": "Use the car as a windshield while enjoying the view of the river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glatteis auf den Straßen außerhalb des Zentrums.",
+              "Die Parkplätze im Zentrum sind im Winter oft leichter zu finden.",
+              "Führen Sie Eiskratzer und Schneebesen im Fahrzeug mit.",
+              "Lassen Sie den Motor beim Warten nicht unnötig laufen.",
+              "Planen Sie die Fahrt zum Gedenkpark bei Tageslicht ein."
+            ],
+            "hu": [
+              "Ügyeljen a jegesedésre a központon kívüli utakon.",
+              "A központi parkolókban télen általában könnyebb helyet találni.",
+              "Tartson jégkaparót és hókefét a járműben.",
+              "Várakozás közben ne járassa feleslegesen a motort.",
+              "Az Emlékpark meglátogatását még nappali fényben tervezze be."
+            ],
+            "ro": [
+              "Atenție la polei pe drumurile din afara centrului.",
+              "Parcările centrale sunt adesea mai ușor de găsit iarna.",
+              "Aveți în mașină racletă și perie pentru zăpadă.",
+              "Nu lăsați motorul pornit inutil în timpul așteptării.",
+              "Planificați vizita la Parcul Memorial pe timp de zi."
+            ],
+            "en": [
+              "Watch out for black ice on roads outside the town center.",
+              "Central parking spots are often easier to find in winter.",
+              "Keep an ice scraper and snow brush in your vehicle.",
+              "Do not leave the engine idling unnecessarily while waiting.",
+              "Plan your trip to the Memorial Park during daylight hours."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1270,6 +1840,196 @@
           "Check the bus schedule in advance.",
           "Everything is within walking distance from the center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Regentag mit dem Bus. Nach der Ankunft erreichen Sie schnell den Széchenyi-Platz und die Votivkirche. Der Busó-Hof bietet perfekten Schutz vor den Schauern am Mittag. Den Nachmittag verbringen Sie im Kanizsai Dorottya Museum. Die kurzen Wege zwischen den Haltestellen und Sehenswürdigkeiten halten Sie weitgehend trocken, bevor Sie am Abend zur Promenade aufbrechen.",
+            "hu": "Kényelmes esős nap tömegközlekedéssel. Érkezés után gyorsan elérheti a Széchenyi teret és a Fogadalmi templomot. A Busóudvar tökéletes menedék a déli záporok elől. A délutánt a Kanizsai Dorottya Múzeumban töltheti. A megállók és a látnivalók közötti rövid távolságok segítenek szárazon maradni az esti parti séta előtt.",
+            "ro": "O zi ploioasă relaxată cu autobuzul. După sosire, ajungeți rapid la Piața Széchenyi și Biserica Votivă. Curtea Busó oferă protecție perfectă împotriva averselor de la prânz. După-amiaza o petreceți la Muzeul Dorottya Kanizsai. Distanțele scurte între stații și obiective vă ajută să rămâneți uscat înainte de plimbarea de seară.",
+            "en": "A relaxed rainy day by bus. After arrival, quickly reach Széchenyi Square and the Votive Church. The Busó Yard offers perfect protection from midday showers. Spend the afternoon at the Dorottya Kanizsai Museum. The short distances between stops and sights help keep you dry before heading to the promenade in the evening."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Bus Station",
+              "tip_5lang": {
+                "de": "Überdachter Wartebereich am Busbahnhof vorhanden.",
+                "hu": "Fedett váróhelyiség áll rendelkezésre a buszállomáson.",
+                "ro": "Zonă de așteptare acoperită disponibilă în autogară.",
+                "en": "A covered waiting area is available at the bus station."
+              }
+            },
+            {
+              "name": "Széchenyi Square",
+              "tip_5lang": {
+                "de": "Vom Busbahnhof nur wenige Minuten Fußweg zum Platz.",
+                "hu": "A buszállomástól mindössze pár perc gyalog a tér.",
+                "ro": "La doar câteva minute de mers pe jos de la autogară.",
+                "en": "Only a few minutes' walk from the bus station to the square."
+              }
+            },
+            {
+              "name": "Votive Church",
+              "tip_5lang": {
+                "de": "Der Kircheneingang bietet Schutz beim Warten auf die Gruppe.",
+                "hu": "A templom bejárata védelmet nyújt a várakozás közben.",
+                "ro": "Intrarea în biserică oferă adăpost în timp ce așteptați.",
+                "en": "The church entrance provides shelter while waiting for others."
+              }
+            },
+            {
+              "name": "Busó Yard",
+              "tip_5lang": {
+                "de": "Ideales Ziel, wenn der Regen am stärksten ist.",
+                "hu": "Ideális célpont, amikor a legintenzívebb az esőzés.",
+                "ro": "Destinație ideală când ploaia este cea mai intensă.",
+                "en": "An ideal destination for when the rainfall is most intense."
+              }
+            },
+            {
+              "name": "Dorottya Kanizsai Museum",
+              "tip_5lang": {
+                "de": "Hinterlegen Sie nasse Schirme im Garderobenbereich.",
+                "hu": "A vizes esernyőket a ruhatárnál tudja leadni.",
+                "ro": "Lăsați umbrelele umede la zona de garderobă.",
+                "en": "You can leave wet umbrellas at the cloakroom area."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es Haltestellen für die Rückfahrt zum Bahnhof.",
+                "hu": "A közelben több megálló is található a visszaúthoz.",
+                "ro": "În apropiere există stații pentru întoarcerea la autogară.",
+                "en": "There are several stops nearby for the return trip to the station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die zentralen Haltestellen, um Wege im Regen zu sparen.",
+              "Die Museen liegen in der Nähe von ÖPNV-Knotenpunkten.",
+              "Der Busbahnhof bietet Schutz vor Wind und Wetter.",
+              "Tragen Sie Schuhe mit gutem Grip für nasse Busstufen.",
+              "Prüfen Sie Fahrpläne vorab online, um Wartezeiten im Freien zu vermeiden."
+            ],
+            "hu": [
+              "Használja a központi megállókat az esőben gyaloglás lerövidítésére.",
+              "A múzeumok a tömegközlekedési csomópontok közelében vannak.",
+              "A buszállomás védelmet nyújt a szél és az eső elől.",
+              "Viseljen jó tapadású cipőt a vizes buszlépcsők miatt.",
+              "Ellenőrizze a menetrendet előre, hogy ne kelljen kint várnia."
+            ],
+            "ro": [
+              "Folosiți stațiile centrale pentru a minimiza mersul prin ploaie.",
+              "Muzeele sunt situate aproape de nodurile de transport public.",
+              "Autogara oferă protecție împotriva vântului și a ploii.",
+              "Purtați încălțăminte cu aderență bună pentru treptele umede ale autobuzului.",
+              "Verificați orarul în avans pentru a evita așteptarea în exterior."
+            ],
+            "en": [
+              "Use central bus stops to minimize walking in the rain.",
+              "The museums are located near public transport hubs.",
+              "The bus station provides shelter from wind and rain.",
+              "Wear shoes with good grip for wet bus steps.",
+              "Check schedules online in advance to avoid waiting outdoors."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Mohács stressfrei mit dem ÖPNV. Nach der Ankunft am Busbahnhof führt ein kurzer Weg zum frostigen Széchenyi-Platz. Die Votivkirche bietet eine ruhige, ehrfürchtige Atmosphäre im Winter. Mittags wärmen Sie sich im modernen Busó-Hof auf. Nachmittags besuchen Sie das Kanizsai Dorottya Museum, bevor Sie die klare Winterluft an der Donau genießen und rechtzeitig zum warmen Bus zurückkehren.",
+            "hu": "Fedezze fel a téli Mohácsot stresszmentesen tömegközlekedéssel. A buszállomásról rövid séta vezet a fagyos Széchenyi térre. A Fogadalmi templom csendes, meghitt hangulatot áraszt télen. Délben a modern Busóudvarban melegedhet fel. Délután látogassa meg a Kanizsai Dorottya Múzeumot, majd élvezze a friss levegőt a Duna-parton a busz indulása előtt.",
+            "ro": "Explorați Mohács-ul hibernal fără stres cu transportul public. De la autogară, o scurtă plimbare duce în Piața Széchenyi geroasă. Biserica Votivă oferă o atmosferă liniștită și pioasă iarna. La prânz vă încălziți la Curtea Busó modernă. După-amiaza vizitați Muzeul Dorottya Kanizsai, apoi bucurați-vă de aerul curat pe malul Dunării înainte de plecarea autobuzului.",
+            "en": "Explore wintery Mohács stress-free using public transport. After arriving at the bus station, a short walk leads to the frosty Széchenyi Square. The Votive Church offers a quiet, reverent atmosphere in winter. Warm up at the modern Busó Yard at noon. In the afternoon, visit the Dorottya Kanizsai Museum before enjoying the crisp air at the Danube and returning to your warm bus."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Bus Station",
+              "tip_5lang": {
+                "de": "Im Wartesaal des Bahnhofs kann man sich kurz aufwärmen.",
+                "hu": "A pályaudvar várótermében lehetőség van egy rövid melegedésre.",
+                "ro": "Vă puteți încălzi scurt în sala de așteptare a autogării.",
+                "en": "You can warm up briefly in the station's waiting room."
+              }
+            },
+            {
+              "name": "Széchenyi Square",
+              "tip_5lang": {
+                "de": "Die Wege sind im Zentrum meist gut geräumt.",
+                "hu": "A belvárosban az utakat általában jól letakarítják.",
+                "ro": "Căile de acces din centru sunt de obicei bine curățate.",
+                "en": "Paths in the center are usually well-cleared of snow and ice."
+              }
+            },
+            {
+              "name": "Votive Church",
+              "tip_5lang": {
+                "de": "Besonders stimmungsvoll bei winterlicher Dämmerung.",
+                "hu": "Különösen hangulatos a téli szürkületben.",
+                "ro": "Deosebit de sugestivă în amurgul de iarnă.",
+                "en": "Particularly atmospheric during the winter twilight."
+              }
+            },
+            {
+              "name": "Busó Yard",
+              "tip_5lang": {
+                "de": "Ein moderner, gut beheizter Komplex.",
+                "hu": "Modern, jól fűtött épületegyüttes.",
+                "ro": "Un complex modern și bine încălzit.",
+                "en": "A modern and well-heated building complex."
+              }
+            },
+            {
+              "name": "Dorottya Kanizsai Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Kälte draußen kurz zu vergessen.",
+                "hu": "Ideális hely, hogy rövid időre elfelejtse a kinti hideget.",
+                "ro": "Locul ideal pentru a uita scurt de frigul de afară.",
+                "en": "An ideal place to forget the outdoor cold for a while."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Die Haltestellen für die Rückfahrt sind gut beleuchtet.",
+                "hu": "A visszaúthoz használt megállók jól megvilágítottak.",
+                "ro": "Stațiile pentru întoarcere sunt bine iluminate.",
+                "en": "The stops for the return journey are well-lit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Wartezeiten im beheizten Busbahnhof.",
+              "Die Busse sind im Winter meist angenehm warm.",
+              "Achten Sie bei Glätte auf rutschige Haltestellenbereiche.",
+              "Planen Sie die Rückreise vor dem späten Abend ein.",
+              "Tragen Sie warme Schuhe, da das Warten an Haltestellen auskühlen kann."
+            ],
+            "hu": [
+              "Használja ki a várakozási időt a fűtött buszállomáson.",
+              "A buszok télen általában kellemesen fűtöttek.",
+              "Vigyázzon a megállók környékén az esetleges jegesedésre.",
+              "Tervezze meg a visszautat a késő esti fagyok előtt.",
+              "Viseljen meleg lábbelit, mert a várakozás közben könnyen áthűlhet."
+            ],
+            "ro": [
+              "Profitați de timpul de așteptare în autogara încălzită.",
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Atenție la zonele de stație care pot fi alunecoase.",
+              "Planificați întoarcerea înainte de orele târzii ale serii.",
+              "Purtați încălțăminte groasă, deoarece așteptarea în stații poate fi răcoroasă."
+            ],
+            "en": [
+              "Utilize the waiting times in the heated bus station.",
+              "Buses are usually comfortably heated in winter.",
+              "Be careful of slippery surfaces around the bus stop areas.",
+              "Plan your return journey before late evening frosts.",
+              "Wear warm footwear, as waiting at stops can lead to getting cold quickly."
+            ]
+          }
+        }
       }
     }
   }

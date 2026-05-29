@@ -386,6 +386,206 @@
           "Try a local beer at one of the many cafes on the Grote Markt.",
           "Kortrijk is a bike-friendly city, but as a pedestrian, be aware of cyclists."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Beginenhof, wo die nassen Pflastersteine glänzen. Der Belfried bietet Schutz, während Sie zum Rathaus eilen. Mittags dient die St.-Martins-Kirche als prachtvoller Zufluchtsort vor dem Regen. Der Nachmittag gehört dem Texture Museum – der perfekte Ort, um zwei Stunden im Trockenen zu verbringen. Den Tag lassen Sie bei den Broel-Türmen an der Leie ausklingen.",
+            "hu": "A napot a Beginahofban kezdjük, ahol az esőtől fénylenek a kövek. A harangtorony és a városháza rövid menedéket nyújt a záporok elől. Délben a Szent Márton-templom belső tereiben pihenhetünk meg. A délutánt a Texture Múzeumban töltjük, amely ideális kétórás program fedél alatt. Az estét a Broel-tornyoknál zárjuk, figyelve a megduzzadt Leie folyót.",
+            "ro": "Începeți ziua în Beguinage, unde piatra cubică lucește sub ploaie. Turnul Belfry oferă un scurt adăpost în drum spre primărie. La prânz, Biserica Sf. Martin este refugiul perfect și liniștit. După-amiaza este rezervată Muzeului Texture, un spațiu interior fascinant pentru a evita vremea rea. Seara se încheie lângă Turnurile Broel, admirând râul Leie sub cerul de plumb.",
+            "en": "Start your morning in the Beguinage, where wet cobblestones reflect the historic houses. The Belfry and Town Hall provide quick covers between showers. At noon, Saint Martin's Church offers a majestic indoor retreat. Spend the afternoon at the Texture Museum, the perfect rainy-day sanctuary. End your walk at the moody Broel Towers as the rain settles over the Leie river."
+          },
+          "stops": [
+            {
+              "name": "Beguinage of Kortrijk",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster, es ist bei Nässe extrem rutschig.",
+                "hu": "Vigyázat, a macskaköves utcák esőben nagyon csúszósak lehetnek.",
+                "ro": "Atenție la pavajul de piatră, devine foarte alunecos când este ud.",
+                "en": "Be careful on the cobblestones; they become very slippery when wet."
+              }
+            },
+            {
+              "name": "Kortrijk Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie den prachtvollen Eingangsbereich als kurzen Regenschutz.",
+                "hu": "Használja a díszes bejáratot rövid menedékként a zápor elől.",
+                "ro": "Folosiți intrarea monumentală ca scurt adăpost împotriva ploii.",
+                "en": "Use the grand entrance area as a brief shelter from the downpour."
+              }
+            },
+            {
+              "name": "Belfry of Kortrijk",
+              "tip_5lang": {
+                "de": "Die Treppen im Inneren sind sicher und trocken zum Aufstieg.",
+                "hu": "A belső lépcsők biztonságosak és szárazak a kilátáshoz.",
+                "ro": "Scările interioare sunt sigure și uscate pentru urcare.",
+                "en": "The interior stairs are safe and dry for reaching the top view."
+              }
+            },
+            {
+              "name": "Saint Martin's Church",
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um den stärksten Regen trocken abzuwarten.",
+                "hu": "Kiváló helyszín a hevesebb záporok szárazon történő megvárására.",
+                "ro": "Un loc excelent pentru a aștepta trecerea ploii abundente.",
+                "en": "A great spot to wait out the heaviest rain in a dry environment."
+              }
+            },
+            {
+              "name": "Broel Towers",
+              "tip_5lang": {
+                "de": "Die Brücke kann windig sein; halten Sie Ihren Schirm gut fest.",
+                "hu": "A híd szeles lehet; fogja szorosan az esernyőjét a folyó felett.",
+                "ro": "Podul poate fi vântos; țineți umbrela bine când traversați.",
+                "en": "The bridge can be windy; hold your umbrella firmly over the river."
+              }
+            },
+            {
+              "name": "Texture Museum",
+              "tip_5lang": {
+                "de": "Ideales Ziel für zwei Stunden im Trockenen mit Schließfächern.",
+                "hu": "Ideális kétórás fedett program szekrényekkel a vizes kabátoknak.",
+                "ro": "Destinație ideală pentru două ore la interior, cu dulapuri disponibile.",
+                "en": "Ideal two-hour indoor destination with lockers for wet coats."
+              }
+            },
+            {
+              "name": "International Rose Garden",
+              "tip_5lang": {
+                "de": "Der Pavillon bietet Schutz, falls ein plötzlicher Schauer einsetzt.",
+                "hu": "A pavilon menedéket nyújt, ha hirtelen eleredne az eső a kertben.",
+                "ro": "Pavilionul oferă protecție în cazul unei averse neașteptate în grădină.",
+                "en": "The pavilion provides shelter if a sudden shower starts in the garden."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine windfeste Regenjacke, da belgische Schauer oft böig sind.",
+              "Die Einkaufspassage 'K in Kortrijk' bietet trockene Abkürzungen im Zentrum.",
+              "Prüfen Sie die App 'Buienradar' für minutengenaue Regenvorhersagen.",
+              "Kopfsteinpflaster in der Altstadt erfordern Schuhe mit gutem Profil."
+            ],
+            "hu": [
+              "Viseljen szélálló esőkabátot, mert a belga záporok gyakran szelesek.",
+              "A 'K in Kortrijk' bevásárlóközpont száraz átjárót biztosít a belvárosban.",
+              "Használja a 'Buienradar' alkalmazást a percre pontos esőelőrejelzéshez.",
+              "Az óvárosi macskakövek miatt javasolt a jól tapadó talpú cipő."
+            ],
+            "ro": [
+              "Purtați o pelerină rezistentă la vânt, ploile belgiene sunt adesea vijelioase.",
+              "Centrul comercial 'K in Kortrijk' oferă pasaje uscate prin centrul orașului.",
+              "Verificați aplicația 'Buienradar' pentru prognoze de ploaie minut cu minut.",
+              "Pavelele din centrul vechi necesită încălțăminte cu talpă aderentă."
+            ],
+            "en": [
+              "Wear a windproof raincoat as Belgian showers are often gusty.",
+              "The 'K in Kortrijk' shopping mall provides dry shortcuts through the center.",
+              "Check the 'Buienradar' app for minute-by-minute local rain forecasts.",
+              "Old town cobblestones require shoes with good grip when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die winterliche Stille im Beginenhof am frühen Morgen. Der Aufstieg zum Belfried bietet einen klaren Blick über die frostige Stadt. Mittags wärmen Sie sich in der St.-Martins-Kirche auf, bevor Sie die Broel-Türme im winterlichen Licht bewundern. Der Nachmittag im Texture Museum ist gemütlich und informativ. Da es gegen 17:00 Uhr dunkel wird, genießen Sie die beleuchtete Leie zum Abschluss.",
+            "hu": "Élje át a Beginahof téli csendjét a kora reggeli órákban. A harangtoronyból tiszta kilátás nyílik a deres városra. Délben a Szent Márton-templom fűtött sarkaiban melegedhetünk fel. A délutáni látogatás a Texture Múzeumban egyszerre hangulatos és tanulságos. Mivel 17:00 körül sötétedik, a napot a kivilágított Leie folyó partján fejezzük be.",
+            "ro": "Experimentați liniștea iernii în Beguinage la primele ore ale dimineții. Urcarea în Belfry oferă o priveliște clară peste orașul înghețat. La prânz, încălziți-vă în Biserica Sf. Martin înainte de a admira Turnurile Broel. După-amiaza la Muzeul Texture este confortabilă și informativă. Deoarece se întunecă în jur de ora 17:00, încheiați ziua pe malul luminat al râului Leie.",
+            "en": "Experience the winter serenity of the Beguinage in the early morning light. Climbing the Belfry offers crisp views over the frost-covered city. Warm up inside Saint Martin's Church at noon before heading to the iconic Broel Towers. The afternoon in the Texture Museum is a cozy retreat. As darkness falls around 17:00, enjoy the beautifully illuminated Leie banks to finish your day."
+          },
+          "stops": [
+            {
+              "name": "Beguinage of Kortrijk",
+              "tip_5lang": {
+                "de": "In den frühen Morgenstunden kann das Pflaster mit Raureif glatt sein.",
+                "hu": "Kora reggel a kövek zúzmarásak és csúszósak lehetnek.",
+                "ro": "Dimineața devreme pavajul poate fi acoperit cu promoroacă și alunecos.",
+                "en": "Early in the morning, the stones may be frosty and slippery."
+              }
+            },
+            {
+              "name": "Kortrijk Town Hall",
+              "tip_5lang": {
+                "de": "Achten Sie auf die prachtvollen Kamine im Inneren, die Wärme ausstrahlen.",
+                "hu": "Figyelje meg a belső díszes kandallókat, amelyek meleget sugároznak.",
+                "ro": "Admirați șemineele sculptate din interior care sugerează căldura de odinioară.",
+                "en": "Observe the ornate interior fireplaces that radiate a sense of warmth."
+              }
+            },
+            {
+              "name": "Belfry of Kortrijk",
+              "tip_5lang": {
+                "de": "Oben kann es sehr kalt sein; Handschuhe sind beim Aufstieg ratsam.",
+                "hu": "A tetőn nagyon hideg lehet; javasolt a kesztyű használata.",
+                "ro": "Sus poate fi foarte frig; purtați mănuși pentru urcare și vizionare.",
+                "en": "It can be very cold at the top; gloves are recommended for the climb."
+              }
+            },
+            {
+              "name": "Saint Martin's Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte ab; ein guter Ort für eine Pause.",
+                "hu": "A vastag falak kint tartják a fagyot; remek hely egy pihenőre.",
+                "ro": "Zidurile groase țin frigul afară; un loc bun pentru o pauză.",
+                "en": "The thick walls keep the frost out; a great spot for a quiet rest."
+              }
+            },
+            {
+              "name": "Broel Towers",
+              "tip_5lang": {
+                "de": "In der Dämmerung sind die Türme wunderschön beleuchtet.",
+                "hu": "Sötétedéskor a tornyok és a híd gyönyörű díszkivilágítást kapnak.",
+                "ro": "La amurg, turnurile și podul beneficiază de un iluminat superb.",
+                "en": "At dusk, the towers and bridge are beautifully illuminated."
+              }
+            },
+            {
+              "name": "Texture Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Ausstellungsräume für eine längere Pause.",
+                "hu": "Élvezze a fűtött kiállítótereket egy hosszabb délutáni pihenőhöz.",
+                "ro": "Bucurați-vă de sălile de expoziție încălzite pentru o pauză lungă.",
+                "en": "Enjoy the heated exhibition spaces for a long afternoon break."
+              }
+            },
+            {
+              "name": "International Rose Garden",
+              "tip_5lang": {
+                "de": "Auch ohne Blüten bietet der Garten eine klare, grafische Struktur.",
+                "hu": "Virágtalanul is különleges látvány a kert geometrikus szerkezete.",
+                "ro": "Chiar și fără flori, grădina oferă o structură grafică deosebită.",
+                "en": "Even without blooms, the garden offers a striking graphic structure."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 16:45 Uhr unter; planen Sie Außenbesuche frühzeitig.",
+              "Tragen Sie Thermosocken, da die Steinböden in Kirchen sehr kalt sind.",
+              "Nutzen Sie die vielen Cafés am Grote Markt zum Aufwärmen zwischendurch.",
+              "In Belgien kann Winterwetter feucht-kalt sein; Schichtenkleidung ist wichtig."
+            ],
+            "hu": [
+              "A nap 16:45 körül nyugszik; a kültéri programokat időzítse korábbra.",
+              "Viseljen vastag zoknit, mert a templomok kőpadlója nagyon hideg lehet.",
+              "Használja a Grote Markt kávézóit egy-egy gyors átmelegedéshez.",
+              "A belga tél gyakran nyirkos; a réteges öltözködés elengedhetetlen."
+            ],
+            "ro": [
+              "Soarele apune în jur de 16:45; planificați vizitele externe mai devreme.",
+              "Purtați șosete termice, podelele de piatră din biserici sunt foarte reci.",
+              "Folosiți cafenelele din Grote Markt pentru a vă încălzi rapid între opriri.",
+              "Iarna belgiană este adesea umedă; îmbrăcămintea în straturi este vitală."
+            ],
+            "en": [
+              "Sunset is around 16:45; plan your outdoor visits for earlier in the day.",
+              "Wear thermal socks as the stone floors in churches are very cold.",
+              "Use the many cafes at Grote Markt for warming up between stops.",
+              "Belgian winter is often damp; layering your clothes is essential for comfort."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -790,6 +990,224 @@
           "Use the well-developed cycle paths along the Leie.",
           "Always lock your bike securely, especially in the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Kortrijk bei Regen erfordert gute Vorbereitung. Starten Sie am Rathaus und radeln Sie vorsichtig zum Beginenhof. Die St.-Martins-Kirche bietet mittags Schutz. Nach einem schnellen Stopp bei 'K in Kortrijk' verbringen Sie den Nachmittag im trockenen Texture Museum. Die Fahrt entlang der Leie-Ufer ist trotz Regen stimmungsvoll, bevor Sie die Tour beenden.",
+            "hu": "Az esős kortrijki kerékpározás jó felszerelést igényel. A városházától indulva óvatosan tekerjen a Beginahofhoz. Délben a Szent Márton-templom nyújt menedéket. A 'K in Kortrijk' gyors érintése után töltse a délutánt a száraz Texture Múzeumban. A Leie partján való tekerés esőben is hangulatos, mielőtt befejezné a kört.",
+            "ro": "O tură cu bicicleta prin Kortrijk pe ploaie necesită echipament adecvat. Plecați de la primărie și pedalați cu grijă spre Beguinage. Biserica Sf. Martin oferă adăpost la prânz. După o oprire rapidă la 'K in Kortrijk', petreceți după-amiaza la Muzeul Texture. Pedalatul pe malul râului Leie rămâne atmosferic chiar și pe ploaie.",
+            "en": "Cycling through Kortrijk in the rain requires good gear. Start at the Town Hall and cycle carefully to the Beguinage. Saint Martin's Church offers a dry midday break. After a quick stop at 'K in Kortrijk', spend the afternoon in the dry Texture Museum. Riding along the Leie banks is atmospheric even in the rain before you finish your trip."
+          },
+          "stops": [
+            {
+              "name": "Town Hall & Belfry",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich in der Nähe des Marktplatzes.",
+                "hu": "Fedett kerékpártárolók találhatók a főtér közelében.",
+                "ro": "Suporturi de biciclete acoperite se află în apropierea pieței centrale.",
+                "en": "Covered bike racks are located near the main market square."
+              }
+            },
+            {
+              "name": "Beguinage of Kortrijk",
+              "tip_5lang": {
+                "de": "Schieben Sie Ihr Rad auf dem nassen Kopfsteinpflaster im Beginenhof.",
+                "hu": "A Beginahof belső területén tolja a kerékpárt a csúszós kövek miatt.",
+                "ro": "Împingeți bicicleta pe pavajul ud din interiorul Beguinage-ului.",
+                "en": "Walk your bike on the wet cobblestones inside the Beguinage area."
+              }
+            },
+            {
+              "name": "Saint Martin's Church",
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad nahe am Eingang unter dem Dachvorsprung.",
+                "hu": "Zárja le a kerékpárt a bejárat közelében az ereszt alatt.",
+                "ro": "Securizați bicicleta aproape de intrare, sub streșina acoperișului.",
+                "en": "Secure your bike near the entrance under the roof overhang."
+              }
+            },
+            {
+              "name": "K in Kortrijk",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgarage für einen absolut trockenen Stellplatz.",
+                "hu": "Használja a mélygarázst a teljesen száraz parkoláshoz.",
+                "ro": "Folosiți parcarea subterană pentru un loc de parcare complet uscat.",
+                "en": "Use the underground parking for a completely dry bike spot."
+              }
+            },
+            {
+              "name": "Broel Towers",
+              "tip_5lang": {
+                "de": "Vorsicht auf der Brücke, die Metallfugen können rutschig sein.",
+                "hu": "Vigyázzon a hídon, a fém illesztések nagyon csúszhatnak.",
+                "ro": "Atenție pe pod, rosturile metalice pot fi alunecoase pe ploaie.",
+                "en": "Be careful on the bridge; metal joints can be slippery in the rain."
+              }
+            },
+            {
+              "name": "Texture Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Regenkleidung im Spind zu verstauen.",
+                "hu": "Tökéletes hely az ázott esőruházat szekrénybe helyezéséhez.",
+                "ro": "Locul perfect pentru a lăsa hainele ude în vestiar.",
+                "en": "The perfect place to leave your wet rain gear in a locker."
+              }
+            },
+            {
+              "name": "International Rose Garden",
+              "tip_5lang": {
+                "de": "Die Wege sind befestigt, aber achten Sie auf Pfützen in Senken.",
+                "hu": "Az utak burkoltak, de figyeljen a mélyedésekben megálló vízre.",
+                "ro": "Aleile sunt pavate, dar atenție la bălțile din zonele joase.",
+                "en": "Paths are paved, but watch out for puddles in lower sections."
+              }
+            },
+            {
+              "name": "Leie Banks",
+              "tip_5lang": {
+                "de": "Der neue Radweg am Ufer bietet auch bei Nässe guten Halt.",
+                "hu": "A folyóparti új kerékpárút nedvesen is jól tapad.",
+                "ro": "Noua pistă de biciclete de pe mal oferă aderență bună și pe ud.",
+                "en": "The new riverside bike path provides good grip even when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserdichte Überschuhe, um Ihre Füße beim Treten trocken zu halten.",
+              "Verringern Sie den Reifendruck leicht für bessere Haftung auf nassem Stein.",
+              "Scheibenbremsen sind bei Regen deutlich zuverlässiger als Felgenbremsen.",
+              "Nutzen Sie die kostenlosen überdachten Parkplätze in der Station."
+            ],
+            "hu": [
+              "Viseljen vízálló kamáslit, hogy lábai szárazak maradjanak tekerés közben.",
+              "Csökkentse kissé a guminyomást a jobb tapadás érdekében a vizes kövön.",
+              "Az esőben a tárcsafékek sokkal megbízhatóbbak, mint a felnifékek.",
+              "Használja az állomás ingyenes, fedett kerékpártárolóit."
+            ],
+            "ro": [
+              "Purtați protecții impermeabile pentru încălțăminte în timpul pedalatului.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe piatră.",
+              "Frânele pe disc sunt mult mai sigure pe ploaie decât cele pe jantă.",
+              "Folosiți parcările acoperite gratuite din zona gării centrale."
+            ],
+            "en": [
+              "Wear waterproof shoe covers to keep your feet dry while pedaling.",
+              "Lower your tire pressure slightly for better grip on wet cobblestones.",
+              "Disc brakes are significantly more reliable in the rain than rim brakes.",
+              "Utilize the free covered bike parking facilities at the main station."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour dick eingepackt am Rathaus. Der Beginenhof strahlt eine friedliche Kälte aus. Nach dem Besuch der St.-Martins-Kirche bietet 'K in Kortrijk' eine warme Pause. Bewundern Sie die Broel-Türme im klaren Winterlicht, bevor Sie den Nachmittag im beheizten Texture Museum verbringen. Beenden Sie die Fahrt entlang der Leie, wenn die Lichter der Stadt im frühen Abendrot angehen.",
+            "hu": "Kezdje a téli túrát jól felöltözve a városházánál. A Beginahof békés hideget áraszt reggel. A Szent Márton-templom után a 'K in Kortrijk' kínál meleg pihenőt. Csodálja meg a Broel-tornyokat a tiszta téli fényben, majd töltse a délutánt a fűtött Texture Múzeumban. Zárja a tekerést a Leie mentén, ahogy a város fényei felgyúlnak a korai alkonyatban.",
+            "ro": "Începeți tura de iarnă bine echipat de la primărie. Beguinage-ul emană o liniște înghețată dimineața. După Biserica Sf. Martin, 'K in Kortrijk' oferă o pauză caldă. Admirați Turnurile Broel în lumina clară de iarnă, apoi vizitați Muzeul Texture. Încheiați plimbarea pe malul râului Leie, când luminile orașului se aprind la amurg.",
+            "en": "Start your winter ride bundled up at the Town Hall. The Beguinage radiates peaceful cold in the morning. After Saint Martin's Church, 'K in Kortrijk' offers a warm indoor break. Admire the Broel Towers in the crisp winter light before spending the afternoon at the heated Texture Museum. Finish along the Leie banks as the city lights flicker on in the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Town Hall & Belfry",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die Fahrt zwischen den Stopps unerlässlich.",
+                "hu": "A megállók közötti tekeréshez a kesztyű elengedhetetlen.",
+                "ro": "Mănușile sunt indispensabile pentru deplasarea între opriri.",
+                "en": "Gloves are essential for cycling between the stops in winter."
+              }
+            },
+            {
+              "name": "Beguinage of Kortrijk",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den historischen Steinwegen.",
+                "hu": "Figyeljen a jegesedésre a történelmi kőutakon a Beginahofban.",
+                "ro": "Atenție la porțiunile înghețate de pe aleile istorice de piatră.",
+                "en": "Watch out for black ice on the historic stone paths in the Beguinage."
+              }
+            },
+            {
+              "name": "Saint Martin's Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Inneren hilft, die Hände aufzuwärmen.",
+                "hu": "Egy rövid benti megálló segít felmelegíteni az átfagyott kezeket.",
+                "ro": "O scurtă oprire în interior ajută la încălzirea mâinilor înghețate.",
+                "en": "A short stop inside helps to warm up your hands from the cold."
+              }
+            },
+            {
+              "name": "K in Kortrijk",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für ein warmes Getränk in der Mall.",
+                "hu": "Használja ki a megállót egy forró italra a bevásárlóközpontban.",
+                "ro": "Profitați de oprire pentru o băutură caldă în centrul comercial.",
+                "en": "Take advantage of this stop for a hot drink inside the mall."
+              }
+            },
+            {
+              "name": "Broel Towers",
+              "tip_5lang": {
+                "de": "Der Wind vom Wasser kann die gefühlte Temperatur senken.",
+                "hu": "A folyó felőli szél jelentősen csökkentheti a hőérzetet.",
+                "ro": "Vântul dinspre râu poate scădea considerabil temperatura resimțită.",
+                "en": "The wind from the water can significantly lower the felt temperature."
+              }
+            },
+            {
+              "name": "Texture Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kälte für längere Zeit zu vergessen.",
+                "hu": "Ideális helyszín, hogy hosszabb időre elfelejtse a kinti fagyot.",
+                "ro": "Un loc ideal pentru a uita de gerul de afară pentru o perioadă.",
+                "en": "An ideal place to escape the freezing temperatures for a while."
+              }
+            },
+            {
+              "name": "International Rose Garden",
+              "tip_5lang": {
+                "de": "Bei Schnee verwandelt sich der Garten in eine weiße Geometrie.",
+                "hu": "Hóban a kert különleges, fehér geometriai formákat ölt.",
+                "ro": "Dacă ninge, grădina se transformă într-o geometrie albă superbă.",
+                "en": "In snow, the garden transforms into a beautiful white geometry."
+              }
+            },
+            {
+              "name": "Leie Banks",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Beleuchtung für die Dämmerung funktioniert.",
+                "hu": "Győződjön meg róla, hogy a világítás megfelelően működik az alkonyatban.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează pentru amurg.",
+                "en": "Ensure your bike lights are working perfectly for the early dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig, da Metallbrücken bei Frost sehr glatt sein können.",
+              "Tragen Sie eine winddichte Schicht als äußerste Kleidung.",
+              "Prüfen Sie den Akku Ihres E-Bikes, da die Reichweite bei Kälte sinkt.",
+              "Die Sonne verschwindet gegen 16:45; gute Sichtbarkeit ist Pflicht."
+            ],
+            "hu": [
+              "Tekerjen óvatosan, a fémhidak fagyban rendkívül csúszósak lehetnek.",
+              "Viseljen szélálló réteget legkívül a menetszél ellen.",
+              "Ellenőrizze az e-bike akkumulátorát, mert hidegben csökken a hatótáv.",
+              "A nap 16:45 körül lemegy; a jó láthatóság ilyenkor kötelező."
+            ],
+            "ro": [
+              "Pedalați cu prudență, podurile metalice pot fi extrem de glisante la ger.",
+              "Purtați un strat exterior rezistent la vânt pentru a combate curentul.",
+              "Verificați bateria bicicletei electrice, autonomia scade la temperaturi mici.",
+              "Soarele apune în jur de 16:45; vizibilitatea bună este obligatorie."
+            ],
+            "en": [
+              "Cycle cautiously as metal bridges can be extremely slippery in frost.",
+              "Wear a windproof outer layer to shield against the cold riding wind.",
+              "Check your e-bike battery, as range decreases significantly in the cold.",
+              "The sun sets around 16:45; being highly visible is a safety requirement."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1170,6 +1588,206 @@
           "Parking garages are often the easiest option in the center, but also the most expensive.",
           "Plan extra time for finding a parking spot, especially on market days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Kortrijk bequem vom Auto aus. Parken Sie im trockenen Parkhaus Zentrum und besuchen Sie das Rathaus und den Beginenhof. Mittags fahren Sie direkt zu den Broel-Türmen und verbringen den regnerischen Nachmittag im Texture Museum. Ein Lunch am Wasser bietet trotz Regen einen schönen Ausblick. Beenden Sie den Tag beim Shopping im trockenen 'K in Kortrijk'.",
+            "hu": "Élvezze Kortrijkot kényelmesen az autóból. Parkoljon a száraz Centrum garázsban, majd látogassa meg a városházát és a Beginahofot. Délben guruljon el a Broel-tornyokhoz, a délutánt pedig töltse a Texture Múzeumban. Az ebéd a vízparton esőben is szép kilátást nyújt. A napot zárja vásárlással a fedett 'K in Kortrijk' központban.",
+            "ro": "Bucurați-vă de Kortrijk confortabil din mașină. Parcați în garajul subteran Center și vizitați primăria și Beguinage. La prânz, conduceți direct spre Turnurile Broel, apoi petreceți după-amiaza la Muzeul Texture. Prânzul pe malul apei oferă o priveliște frumoasă chiar și pe ploaie. Încheiați ziua la cumpărături în centrul comercial acoperit.",
+            "en": "Enjoy Kortrijk comfortably by car. Park in the dry Center garage and visit the Town Hall and Beguinage nearby. At noon, drive directly to the Broel Towers area and spend the rainy afternoon at the Texture Museum. A lunch by the water offers great views despite the weather. Finish your day shopping at the fully covered 'K in Kortrijk' mall."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Center",
+              "tip_5lang": {
+                "de": "Das Parkhaus P-Centrum bietet einen absolut trockenen Zugang zur Stadt.",
+                "hu": "A P-Centrum parkolóház teljesen száraz kijutást biztosít a belvárosba.",
+                "ro": "Parcarea P-Centrum oferă un acces complet uscat către centrul orașului.",
+                "en": "The P-Centrum parking garage provides a completely dry exit to the city."
+              }
+            },
+            {
+              "name": "Town Hall & Belfry",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz minimieren die Zeit im Regen.",
+                "hu": "A rövid sétatáv a parkolótól minimalizálja az esőben töltött időt.",
+                "ro": "Distanța scurtă de la parcare minimizează timpul petrecut în ploaie.",
+                "en": "Short walking distances from the parking minimize time spent in the rain."
+              }
+            },
+            {
+              "name": "Beguinage of Kortrijk",
+              "tip_5lang": {
+                "de": "Lassen Sie Passagiere nah am Eingang aussteigen, um trocken zu bleiben.",
+                "hu": "Az utasok kiszállhatnak a bejárat közelében, hogy szárazon maradjanak.",
+                "ro": "Lăsați pasagerii aproape de intrare pentru a rămâne uscați.",
+                "en": "Drop off passengers near the entrance to keep them dry from the rain."
+              }
+            },
+            {
+              "name": "Broel Towers & Texture Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor dem Museumseingang.",
+                "hu": "Használja a közvetlenül a múzeumi bejárat előtti parkolóhelyeket.",
+                "ro": "Folosiți locurile de parcare direct în fața intrării muzeului.",
+                "en": "Utilize the parking spots directly in front of the museum entrance."
+              }
+            },
+            {
+              "name": "Lunch by the water",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit großen Fenstern für den Blick auf die Leie.",
+                "hu": "Válasszon nagy ablakos éttermet, hogy élvezhesse a Leie látványát.",
+                "ro": "Alegeți un restaurant cu ferestre mari pentru a vedea râul Leie.",
+                "en": "Choose a restaurant with large windows to enjoy the view of the Leie."
+              }
+            },
+            {
+              "name": "International Rose Garden",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Pavillon, falls der Regen stärker wird.",
+                "hu": "Parkoljon a pavilon közelében, ha felerősödne az eső látogatás közben.",
+                "ro": "Parcați aproape de pavilion în cazul în care ploaia se intensifică.",
+                "en": "Park close to the pavilion in case the rain gets heavier during your visit."
+              }
+            },
+            {
+              "name": "K in Kortrijk",
+              "tip_5lang": {
+                "de": "Direkte Einfahrt vom Parkhaus in die Mall ohne einen Tropfen Regen.",
+                "hu": "Közvetlen behajtás a garázsból a plázába, egy csepp eső nélkül.",
+                "ro": "Intrare directă din parcare în mall, fără nicio picătură de ploaie.",
+                "en": "Direct entry from the parking garage into the mall without a drop of rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App '4411' für einfaches Parkplatz-Bezahlen vom Auto aus.",
+              "Vermeiden Sie das Parken unter Bäumen bei starkem Wind und Regen.",
+              "Die Tiefgaragen P-Centrum und P-Schouwburg sind am besten gelegen.",
+              "Achten Sie auf Radfahrer, die bei Regen oft schlechter sichtbar sind."
+            ],
+            "hu": [
+              "Használja a '4411' alkalmazást az egyszerű parkolási fizetéshez.",
+              "Erős szél és eső esetén kerülje a fák alatti parkolást.",
+              "A P-Centrum és P-Schouwburg mélygarázsok helyezkednek el a legjobban.",
+              "Figyeljen a kerékpárosokra, akik esőben nehezebben észrevehetőek."
+            ],
+            "ro": [
+              "Folosiți aplicația '4411' pentru plata facilă a parcării din mașină.",
+              "Evitați parcarea sub copaci în caz de vânt puternic și ploaie.",
+              "Parcările subterane P-Centrum și P-Schouwburg sunt cele mai bine plasate.",
+              "Atenție la bicicliști, care sunt mai greu de observat pe timp de ploaie."
+            ],
+            "en": [
+              "Use the '4411' app for easy parking payments directly from your car.",
+              "Avoid parking under trees during heavy wind and rain for safety.",
+              "The P-Centrum and P-Schouwburg underground garages are the best located.",
+              "Watch out for cyclists, who are often less visible during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihren Wintertag bequem im beheizten Wagen. Nach dem Parken im Zentrum besuchen Sie das Rathaus und den frostigen Beginenhof. Mittags bestaunen Sie die Broel-Türme und wärmen sich anschließend ausgiebig im Texture Museum auf. Nach einem gemütlichen Lunch fahren Sie zur Rose Garden, die im Winter eine klare Ästhetik hat. Der Tag endet im warm beleuchteten 'K in Kortrijk'.",
+            "hu": "Kezdje a téli napot kényelmesen a fűtött autóban. A központi parkolás után látogassa meg a városházát és a deres Beginahofot. Délben csodálja meg a Broel-tornyokat, majd melegedjen fel alaposan a Texture Múzeumban. Egy kellemes ebéd után guruljon el a Rose Gardenhez, amely télen is szép. A napot a melegen kivilágított 'K in Kortrijk'-ban zárjuk.",
+            "ro": "Începeți ziua de iarnă confortabil în mașina încălzită. După ce parcați central, vizitați primăria și Beguinage-ul înghețat. La prânz admirați Turnurile Broel, apoi încălziți-vă pe îndelete la Muzeul Texture. După un prânz plăcut, conduceți spre Rose Garden, care are o estetică clară iarna. Ziua se încheie în atmosfera caldă din 'K in Kortrijk'.",
+            "en": "Start your winter day comfortably in a pre-heated car. After parking centrally, visit the Town Hall and the frost-dusted Beguinage. At noon, admire the Broel Towers before warming up thoroughly at the Texture Museum. After a cozy lunch, drive to the Rose Garden, which retains a stark winter beauty. The day ends in the warm, festive atmosphere of the 'K in Kortrijk' mall."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Center",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Eiskratzen, indem Sie in der Tiefgarage parken.",
+                "hu": "Kerülje el a jégkaparást a mélygarázsban történő parkolással.",
+                "ro": "Evitați curățarea gheții de pe parbriz parcând în subteran.",
+                "en": "Avoid ice scraping by choosing an underground parking spot."
+              }
+            },
+            {
+              "name": "Town Hall & Belfry",
+              "tip_5lang": {
+                "de": "Kurze Gehwege halten die Kälte zwischen Auto und Gebäude fern.",
+                "hu": "A rövid sétatáv segít elkerülni a fagyoskodást az autó és az épület között.",
+                "ro": "Distanțele scurte pe jos mențin frigul la distanță între mașină și clădiri.",
+                "en": "Short walking distances help keep the cold at bay between car and buildings."
+              }
+            },
+            {
+              "name": "Beguinage of Kortrijk",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen, das Kopfsteinpflaster kann vereist sein.",
+                "hu": "Vigyázzon kiszálláskor, a macskakő jeges lehet a Beginahof körül.",
+                "ro": "Atenție la coborâre, pavajul poate fi înghețat în jurul Beguinage-ului.",
+                "en": "Be careful when exiting the car; cobblestones can be icy around here."
+              }
+            },
+            {
+              "name": "Broel Towers & Texture Museum",
+              "tip_5lang": {
+                "de": "Vom Parkplatz sind es nur wenige Schritte ins warme Museum.",
+                "hu": "A parkolótól csak pár lépés a múzeum fűtött belső tere.",
+                "ro": "De la parcare sunt doar câțiva pași până în muzeul încălzit.",
+                "en": "It's only a few steps from the parking to the warm museum interior."
+              }
+            },
+            {
+              "name": "Lunch by the water",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Leie bei einem heißen Getränk am Fenster.",
+                "hu": "Élvezze a téli Leie látványát egy forró itallal az ablak mellett.",
+                "ro": "Bucurați-vă de priveliștea râului Leie cu o băutură caldă la fereastră.",
+                "en": "Enjoy the winter view of the Leie with a hot drink by the window."
+              }
+            },
+            {
+              "name": "International Rose Garden",
+              "tip_5lang": {
+                "de": "Bei starkem Frost ist der Besuch vom Auto aus am angenehmsten.",
+                "hu": "Erős fagyban az autóból történő megtekintés a legkellemesebb.",
+                "ro": "În caz de ger puternic, vizitarea din mașină este cea mai plăcută.",
+                "en": "In case of severe frost, viewing from the car is most pleasant."
+              }
+            },
+            {
+              "name": "K in Kortrijk",
+              "tip_5lang": {
+                "de": "Perfekt temperierte Mall für den winterlichen Tagesabschluss.",
+                "hu": "Tökéletesen temperált pláza a téli nap befejezéséhez.",
+                "ro": "Mall cu temperatură perfectă pentru încheierea unei zile de iarnă.",
+                "en": "Perfectly temperature-controlled mall for ending a winter day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Wischwasser für Frost geeignet ist.",
+              "Die Parkhäuser sind im Winter oft wärmer als Außenstellplätze.",
+              "Achten Sie auf vereiste Stellen in den schmalen Gassen der Altstadt.",
+              "Die Dunkelheit setzt früh ein; prüfen Sie Ihre Scheinwerfer."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a szélvédőmosó folyadék fagyálló.",
+              "A mélygarázsok télen sokkal melegebbek, mint a kültéri parkolók.",
+              "Figyeljen a jeges foltokra az óváros szűk utcáiban.",
+              "Korán sötétedik; ellenőrizze a fényszórók megfelelő működését."
+            ],
+            "ro": [
+              "Asigurați-vă că lichidul de parbriz este rezistent la îngheț.",
+              "Parcările subterane sunt mult mai calde iarna decât locurile externe.",
+              "Atenție la porțiunile înghețate de pe străzile înguste din centrul vechi.",
+              "Se întunecă devreme; verificați funcționarea farurilor."
+            ],
+            "en": [
+              "Ensure your windshield washer fluid is rated for freezing temperatures.",
+              "Underground parking garages are much warmer in winter than outdoor spots.",
+              "Watch for icy patches in the narrow alleys of the old town.",
+              "Darkness falls early; check that all your headlights are working well."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1550,6 +2168,206 @@
           "Most buses are accessible for people with disabilities.",
           "Signal the driver if you want to get off at the next stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie Busse, um Kortrijk bei Regen trocken zu erkunden. Starten Sie am Marktplatz und besuchen Sie Beginenhof und Rathaus. Mittags bietet die St.-Martins-Kirche Schutz. Mit dem Bus geht es zu den Broel-Türmen und zum Texture Museum für einen trockenen Nachmittag. Der Abschluss im Internationalen Rosengarten wird durch den Pavillon gesichert, bevor Sie am Bahnhof enden.",
+            "hu": "Használja a buszokat Kortrijk esőben való felfedezéséhez. Kezdjen a Grote Markton, látogassa meg a Beginahofot és a városházát. Délben a Szent Márton-templom nyújt menedéket. Busszal menjen tovább a Broel-tornyokhoz és a Texture Múzeumba. A délutánt töltse fedett helyen, majd a nap végén az állomáson fejezze be a kört.",
+            "ro": "Folosiți autobuzele pentru a explora Kortrijk pe ploaie fără a vă uda. Începeți în piața centrală și vizitați Beguinage și primăria. La prânz, Biserica Sf. Martin oferă adăpost. Luați autobuzul spre Turnurile Broel și Muzeul Texture. Încheiați ziua la gara centrală, după o vizită rapidă la grădina de trandafiri.",
+            "en": "Use local buses to explore Kortrijk while staying dry in the rain. Start at Grote Markt and visit the nearby Beguinage and Town Hall. Saint Martin's Church offers a solid midday refuge. Take a bus to the Broel Towers and Texture Museum for a sheltered afternoon. Finish your journey at the station after a quick stop at the Rose Garden's pavilion."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Grote Markt",
+              "tip_5lang": {
+                "de": "Überdachte Bushaltestellen direkt am Marktplatz verfügbar.",
+                "hu": "Fedett buszmegállók találhatók közvetlenül a főtérnél.",
+                "ro": "Stații de autobuz acoperite disponibile chiar în piața centrală.",
+                "en": "Covered bus stops are available directly at the main market square."
+              }
+            },
+            {
+              "name": "Beguinage & Town Hall",
+              "tip_5lang": {
+                "de": "Sehr kurze Fußwege zwischen den Bushaltestellen und Sehenswürdigkeiten.",
+                "hu": "Nagyon rövid sétatávok a buszmegállók és a látnivalók között.",
+                "ro": "Distanțe foarte scurte pe jos între stațiile de autobuz și obiective.",
+                "en": "Very short walking distances between bus stops and the main sights."
+              }
+            },
+            {
+              "name": "Saint Martin's Church",
+              "tip_5lang": {
+                "de": "Warten Sie auf den nächsten Bus im trockenen Kirchenvorraum.",
+                "hu": "Várja meg a következő buszt a templom száraz előterében.",
+                "ro": "Așteptați următorul autobuz în vestibulul uscat al bisericii.",
+                "en": "Wait for your next bus inside the dry vestibule of the church."
+              }
+            },
+            {
+              "name": "Broel Towers",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Dam' ist am nächsten und bietet Regenschutz.",
+                "hu": "A 'Dam' megálló van a legközelebb, és védelmet nyújt az eső ellen.",
+                "ro": "Stația 'Dam' este cea mai apropiată și oferă protecție contra ploii.",
+                "en": "The 'Dam' stop is the closest and offers protection from the rain."
+              }
+            },
+            {
+              "name": "Texture Museum",
+              "tip_5lang": {
+                "de": "Busse halten fast direkt vor dem Museumseingang.",
+                "hu": "A buszok szinte közvetlenül a múzeum bejárata előtt állnak meg.",
+                "ro": "Autobuzele opresc aproape direct în fața intrării muzeului.",
+                "en": "Buses stop almost directly in front of the museum entrance."
+              }
+            },
+            {
+              "name": "International Rose Garden",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehäuschen an der Haltestelle 'Kortrijk Marksburg'.",
+                "hu": "Használja a 'Kortrijk Marksburg' megálló váróhelyiségét.",
+                "ro": "Folosiți adăpostul din stația 'Kortrijk Marksburg' pentru așteptare.",
+                "en": "Utilize the shelter at the 'Kortrijk Marksburg' bus stop while waiting."
+              }
+            },
+            {
+              "name": "Finish at the Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet eine große, trockene Wartehalle für Ihre Rückreise.",
+                "hu": "Az állomás nagy, száraz várótermet kínál a hazautazáshoz.",
+                "ro": "Gara oferă o sală de așteptare mare și uscată pentru călătoria de retur.",
+                "en": "The station offers a large, dry waiting hall for your return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die De Lijn-App für Echtzeit-Infos und Ticketkauf.",
+              "Zahlen Sie kontaktlos im Bus, um Zeit im Regen zu sparen.",
+              "Die Busse sind in Kortrijk sehr pünktlich und gut beheizt.",
+              "Kombinieren Sie Busfahrten mit kurzen Sprints zwischen Unterständen."
+            ],
+            "hu": [
+              "Használja a De Lijn alkalmazást valós idejű infókért és jegyekért.",
+              "Fizessen érintésmentesen a buszon, hogy ne ázzon feleslegesen.",
+              "A kortrijki buszok pontosak és esőben is kényelmesen fűtöttek.",
+              "Kombinálja a buszozást rövid sprintekkel a fedett helyek között."
+            ],
+            "ro": [
+              "Folosiți aplicația De Lijn pentru info în timp real și bilete.",
+              "Plătiți contactless în autobuz pentru a economisi timp în ploaie.",
+              "Autobuzele din Kortrijk sunt punctuale și bine încălzite pe ploaie.",
+              "Combinați drumul cu autobuzul cu sprinturi scurte între adăposturi."
+            ],
+            "en": [
+              "Use the De Lijn app for real-time bus info and mobile tickets.",
+              "Pay contactless on the bus to save time and stay out of the rain.",
+              "Buses in Kortrijk are punctual and comfortably heated during rain.",
+              "Combine bus rides with short sprints between sheltered spots."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Kortrijk mit dem Bus, um sich zwischendurch aufzuwärmen. Starten Sie am Marktplatz und sehen Sie das Rathaus und den Beginenhof. Die St.-Martins-Kirche ist mittags ein besinnlicher, warmer Ort. Die Broel-Türme und das Texture Museum erreichen Sie bequem per Transit. Genießen Sie den Rosengarten im Winterlicht und beenden Sie den Tag im hell erleuchteten Bahnhofsbereich.",
+            "hu": "Fedezze fel a téli Kortrijkot busszal, így útközben mindig felmelegedhet. Kezdjen a főtéren a városházával és a Beginahof csendjével. A Szent Márton-templom délben békés és meleg helyszín. A Broel-tornyok és a Texture Múzeum könnyen elérhető busszal. Csodálja meg a téli fényeket a Rosengartenben, majd zárja a napot a kivilágított állomásnál.",
+            "ro": "Explorați Kortrijk de iarnă cu autobuzul pentru a vă încălzi între opriri. Începeți în piața centrală cu primăria și liniștea din Beguinage. Biserica Sf. Martin este un loc cald și liniștit la prânz. Turnurile Broel și Muzeul Texture sunt ușor accesibile cu tranzitul. Admirați grădina în lumina iernii și încheiați ziua în zona gării iluminate.",
+            "en": "Explore wintery Kortrijk by bus to stay warm between your outdoor stops. Start at Grote Markt to see the Town Hall and the quiet Beguinage. Saint Martin's Church is a peaceful, warm refuge at noon. Reach the Broel Towers and the Texture Museum comfortably via transit. Enjoy the Rose Garden in the crisp winter light and finish your day at the brightly lit station area."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Grote Markt",
+              "tip_5lang": {
+                "de": "Die Cafés rund um den Markt bieten Wärme direkt nach der Ankunft.",
+                "hu": "A főtér körüli kávézók azonnali felmelegedést kínálnak érkezés után.",
+                "ro": "Cafenelele din jurul pieței oferă căldură imediat după sosire.",
+                "en": "The cafes around the market offer warmth immediately after arrival."
+              }
+            },
+            {
+              "name": "Beguinage & Town Hall",
+              "tip_5lang": {
+                "de": "Gehen Sie zügig zwischen den Haltestellen, um nicht auszukühlen.",
+                "hu": "Sétáljon tempósan a megállók között, hogy ne hűljön ki a fagyban.",
+                "ro": "Mergeți vioi între stații pentru a nu vă răci în aerul înghețat.",
+                "en": "Walk briskly between bus stops to keep your body temperature up."
+              }
+            },
+            {
+              "name": "Saint Martin's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Inneren, um sich für die nächste Fahrt zu regenerieren.",
+                "hu": "Használja ki a benti időt a következő úthoz való regenerálódáshoz.",
+                "ro": "Folosiți timpul în interior pentru a vă recupera înainte de drum.",
+                "en": "Use the time inside to recover and warm up before the next bus."
+              }
+            },
+            {
+              "name": "Broel Towers",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stufen an der Haltestelle 'Dam'.",
+                "hu": "Vigyázzon a jeges lépcsőkre a 'Dam' megálló környékén.",
+                "ro": "Atenție la treptele înghețate din zona stației de autobuz 'Dam'.",
+                "en": "Watch out for icy steps near the 'Dam' bus stop in winter."
+              }
+            },
+            {
+              "name": "Texture Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist hervorragend beheizt und bietet eine Garderobe.",
+                "hu": "A múzeum kiválóan fűtött, és ruhatárral is rendelkezik.",
+                "ro": "Muzeul este excelent încălzit și dispune de garderobă.",
+                "en": "The museum is excellently heated and features a cloakroom."
+              }
+            },
+            {
+              "name": "International Rose Garden",
+              "tip_5lang": {
+                "de": "Bei Dunkelheit ist die Haltestelle gut beleuchtet und sicher.",
+                "hu": "Sötétedés után a megálló jól kivilágított és biztonságos.",
+                "ro": "După lăsarea întunericului, stația este bine iluminată și sigură.",
+                "en": "The bus stop is well-lit and safe after the early winter sunset."
+              }
+            },
+            {
+              "name": "Finish at the Station",
+              "tip_5lang": {
+                "de": "Der beheizte Wartebereich im Bahnhof ist ideal zum Aufwärmen.",
+                "hu": "Az állomás fűtött váróterme ideális az utolsó felmelegedéshez.",
+                "ro": "Zona de așteptare încălzită din gară este ideală pentru încălzire.",
+                "en": "The heated waiting area in the station is ideal for warming up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter oft mit verlässlicher Heizung.",
+              "Prüfen Sie Abfahrtszeiten online, um langes Warten in der Kälte zu vermeiden.",
+              "In der Dämmerung ist der Weg vom Bus zu den Türmen gut beleuchtet.",
+              "Tragen Sie Mütze und Handschuhe, auch für kurze Wege zum Bus."
+            ],
+            "hu": [
+              "A buszok télen megbízható fűtéssel közlekednek.",
+              "Ellenőrizze az indulásokat online, hogy ne várjon sokat a hidegben.",
+              "Szürkületben a busztól a tornyokig vezető út jól kivilágított.",
+              "Viseljen sapkát és kesztyűt a buszmegállóig tartó rövid úton is."
+            ],
+            "ro": [
+              "Autobuzele circulă iarna cu sisteme de încălzire fiabile.",
+              "Verificați orele de plecare online pentru a nu aștepta mult în frig.",
+              "La amurg, drumul de la autobuz spre turnuri este bine iluminat.",
+              "Purtați căciulă și mănuși chiar și pentru drumuri scurte spre stație."
+            ],
+            "en": [
+              "Local buses are reliably heated during the winter months.",
+              "Check departure times online to avoid long waits in the cold air.",
+              "The path from the bus stop to the towers is well-lit at dusk.",
+              "Wear a hat and gloves even for short walks to and from the bus."
+            ]
+          }
+        }
       }
     }
   }

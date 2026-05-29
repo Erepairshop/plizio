@@ -316,6 +316,196 @@
           "Check the museum's opening times in advance.",
           "A picnic in Whatman Park is a great option for lunch."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Start im Fremlin Walk, wo die Überdachungen Schutz bieten. Mittag: Das Maidstone Museum ist der perfekte Rückzugsort vor dem Regen. Nachmittag: Besichtigung des Archbishop's Palace und der All Saints Church im Trockenen, gefolgt von einem kurzen, windigen Spaziergang am Medway. Abend: Ein grauer Abschluss im Whatman Park, bevor es zurück in die gemütliche Innenstadt geht.",
+            "hu": "Reggel: Kezdés a Fremlin Walk fedett részein az eső elől menekülve. Délben: A Maidstone Múzeum kiváló menedéket nyújt a záporok idejére. Délután: Az Érseki Palota és a Mindenszentek temploma belső tereinek felfedezése, majd egy vizes séta a Medway partján. Este: Szürke, borongós hangulat a Whatman Parkban, érdemes korán fedett helyre húzódni.",
+            "ro": "Dimineața: Începeți la Fremlin Walk, profitând de zonele acoperite. Prânz: Muzeul Maidstone este refugiul ideal împotriva ploii. După-amiaza: Vizitați Palatul Arhiepiscopal și Biserica All Saints la adăpost, apoi o scurtă plimbare umedă pe malul râului Medway. Seara: O încheiere cenușie în Whatman Park, înainte de a căuta confortul unui pub local.",
+            "en": "Morning: Start at Fremlin Walk, utilizing the partially covered areas. Lunch: Maidstone Museum provides a perfect indoor sanctuary from the rain. Afternoon: Explore the Archbishop's Palace and All Saints Church indoors, followed by a damp riverside walk. Evening: A misty finish at Whatman Park before heading back to the cozy town centre."
+          },
+          "stops": [
+            {
+              "name": "Fremlin Walk Shopping Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Passagen zwischen den Geschäften.",
+                "hu": "Használja a boltok közötti fedett átjárókat.",
+                "ro": "Folosiți pasajele acoperite dintre magazine.",
+                "en": "Use the covered walkways between shops to stay dry."
+              }
+            },
+            {
+              "name": "Maidstone Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um einen starken Regenguss abzuwarten.",
+                "hu": "Tökéletes hely egy kiadós zápor átvészelésére.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "The perfect place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Archbishop's Palace",
+              "tip_5lang": {
+                "de": "Die historischen Innenräume sind absolut regenfest.",
+                "hu": "A történelmi belső terek teljesen esőbiztosak.",
+                "ro": "Interioarele istorice sunt complet ferite de ploaie.",
+                "en": "The historic interiors are completely rain-proof."
+              }
+            },
+            {
+              "name": "All Saints Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Akustik, während es draußen prasselt.",
+                "hu": "Csodálja meg az akusztikát, miközben kint kopog az eső.",
+                "ro": "Admirați acustica în timp ce ploaia bate în geamuri.",
+                "en": "Admire the acoustics while the rain beats outside."
+              }
+            },
+            {
+              "name": "River Medway Walk",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen auf dem Uferweg.",
+                "hu": "Vigyázzon a tócsákra a folyóparti ösvényen.",
+                "ro": "Atenție la bălțile de pe poteca de pe malul râului.",
+                "en": "Watch out for puddles on the riverside path."
+              }
+            },
+            {
+              "name": "Whatman Park",
+              "tip_5lang": {
+                "de": "Wasserdichte Schuhe sind für die Parkwege ratsam.",
+                "hu": "A parki utakhoz vízálló cipő ajánlott.",
+                "ro": "Încălțămintea impermeabilă este recomandată pentru poteci.",
+                "en": "Waterproof shoes are advised for the park trails."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Maidstone hat viele historische Arkaden zum Unterstellen.",
+              "Die Wege am Medway können bei Regen rutschig sein.",
+              "Das Museum bietet kostenlose Schließfächer für nasse Mäntel.",
+              "Ein Regenschirm ist bei den Abständen zwischen den Sehenswürdigkeiten Pflicht.",
+              "Viele Cafés in der High Street haben gemütliche Fensterplätze."
+            ],
+            "hu": [
+              "Maidstone számos történelmi árkáddal rendelkezik a várakozáshoz.",
+              "A Medway menti utak esőben csúszósak lehetnek.",
+              "A múzeumban ingyenes szekrények vannak a vizes kabátoknak.",
+              "Az látnivalók közötti távolság miatt az esernyő kötelező.",
+              "A High Street kávézói kényelmes ablak melletti helyeket kínálnak."
+            ],
+            "ro": [
+              "Maidstone are multe arcade istorice pentru adăpost.",
+              "Potecile de pe malul râului Medway pot fi alunecoase pe ploaie.",
+              "Muzeul oferă vestiare gratuite pentru haina umedă.",
+              "Umbrela este obligatorie din cauza distanțelor dintre obiective.",
+              "Multe cafenele de pe High Street au locuri primitoare la fereastră."
+            ],
+            "en": [
+              "Maidstone has many historic arcades to shelter under.",
+              "The Medway paths can be slippery in the rain.",
+              "The museum offers free lockers for wet coats.",
+              "An umbrella is a must given the distances between sights.",
+              "Many High Street cafes offer cozy window seating."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Ein frostiger Bummel durch den Fremlin Walk mit winterlicher Deko. Mittag: Aufwärmen bei den Exponaten im Maidstone Museum. Nachmittag: Die tiefstehende Wintersonne beleuchtet den Archbishop's Palace spektakulär. Abend: Ein kurzer Spaziergang am gefrorenen Medway und im Whatman Park, bevor die Dunkelheit früh einsetzt.",
+            "hu": "Reggel: Jeges séta a Fremlin Walk-on a téli díszítések között. Délben: Felmelegedés a Maidstone Múzeum kiállításai mellett. Délután: Az alacsonyan járó téli nap fénye különlegesen világítja meg az Érseki Palotát. Este: Rövid séta a jeges Medway partján és a Whatman Parkban a korai naplemente előtt.",
+            "ro": "Dimineața: O plimbare geroasă prin Fremlin Walk printre decorațiunile de iarnă. Prânz: Încălziți-vă lângă exponatele din Muzeul Maidstone. După-amiaza: Soarele palid de iarnă luminează spectaculos Palatul Arhiepiscopal. Seara: O scurtă plimbare pe malul înghețat al râului Medway înainte de lăsarea timpurie a întunericului.",
+            "en": "Morning: A frosty stroll through Fremlin Walk among winter decorations. Lunch: Warm up while exploring the Maidstone Museum collections. Afternoon: The low winter sun illuminates the Archbishop's Palace beautifully. Evening: A crisp walk by the icy Medway and Whatman Park before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Fremlin Walk Shopping Centre",
+              "tip_5lang": {
+                "de": "Genießen Sie die festliche Beleuchtung am Morgen.",
+                "hu": "Élvezze az ünnepi kivilágítást a reggeli órákban.",
+                "ro": "Bucurați-vă de iluminatul festiv la prima oră.",
+                "en": "Enjoy the festive lighting in the early morning."
+              }
+            },
+            {
+              "name": "Maidstone Museum",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Café für ein heißes Getränk.",
+                "hu": "Látogasson el a kávézóba egy forró italra.",
+                "ro": "Vizitați cafeneaua pentru o băutură caldă.",
+                "en": "Visit the cafe for a hot drink to warm up."
+              }
+            },
+            {
+              "name": "Archbishop's Palace",
+              "tip_5lang": {
+                "de": "Die alten Steinmauern können im Winter recht kühl sein.",
+                "hu": "A régi kőfalak télen elég hűvösek lehetnek.",
+                "ro": "Zidurile vechi de piatră pot fi destul de reci iarna.",
+                "en": "The old stone walls can be quite chilly in winter."
+              }
+            },
+            {
+              "name": "All Saints Church",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz nahe der Heizung für das Gebet.",
+                "hu": "Keressen egy helyet a fűtőtestek közelében.",
+                "ro": "Căutați un loc lângă calorifere pentru confort.",
+                "en": "Find a spot near the heaters for comfort."
+              }
+            },
+            {
+              "name": "River Medway Walk",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf den Holzstegen.",
+                "hu": "Vigyázzon a csúszós fafelületekre a parton.",
+                "ro": "Atenție la suprafețele de lemn alunecoase de pe mal.",
+                "en": "Be careful of slippery wooden surfaces by the river."
+              }
+            },
+            {
+              "name": "Whatman Park",
+              "tip_5lang": {
+                "de": "Der Park schließt im Winter bereits um 16:00 Uhr.",
+                "hu": "A park télen már 16:00-kor bezár.",
+                "ro": "Parcul se închide deja la ora 16:00 iarna.",
+                "en": "The park closes as early as 4:00 PM in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Einlagen in den Schuhen für die Steinböden.",
+              "Die Sonne geht in Kent im Dezember gegen 16:00 Uhr unter.",
+              "Öffentliche Toiletten sind im Winter oft beheizt.",
+              "Die Museen sind die besten Orte zum Aufwärmen.",
+              "Ein Schal schützt vor dem kalten Wind am Fluss."
+            ],
+            "hu": [
+              "Viseljen hőtartó talpbetétet a kőpadlók miatt.",
+              "Kentben a nap decemberben már 16:00 körül lemegy.",
+              "A nyilvános illemhelyek télen gyakran fűtöttek.",
+              "A múzeumok a legjobb helyek a felmelegedésre.",
+              "Egy sál megvéd a folyóparti hideg széltől."
+            ],
+            "ro": [
+              "Purtați branțuri termice pentru podelele de piatră.",
+              "Soarele apune în Kent în jurul orei 16:00 în decembrie.",
+              "Toaletele publice sunt adesea încălzite iarna.",
+              "Muzeele sunt cele mai bune locuri pentru încălzire.",
+              "Un fular vă protejează de vântul rece de pe râu."
+            ],
+            "en": [
+              "Wear thermal insoles for the cold stone floors.",
+              "Sunset in Kent occurs around 4:00 PM in December.",
+              "Public toilets are often heated during the winter.",
+              "The museums are the best places to warm up.",
+              "A scarf will protect you from the cold river wind."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -610,6 +800,196 @@
           "The riverside path is flat and suitable for most abilities.",
           "Plan extra time for spontaneous stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Eine nasse Fahrt durch den Mote Park auf befestigten Wegen. Mittag: Trockenpause im Museum und im Erzbischofspalast. Nachmittag: Ein regnerisches Mittagessen am Flussufer, gefolgt von einer zügigen Fahrt durch den Whatman Park. Abend: Ein schlammiger Abschluss bei Kent Life, wo die historischen Gebäude Schutz bieten.",
+            "hu": "Reggel: Vizes tekerés a Mote Park aszfaltozott útjain. Délben: Száraz pihenő a múzeumban és az Érseki Palotában. Délután: Esős ebéd a folyóparton, majd gyors tekerés a Whatman Parkon keresztül. Este: Sáros befejezés a Kent Life-nál, ahol a történelmi épületek menedéket nyújtanak.",
+            "ro": "Dimineața: O cursă umedă prin Mote Park pe aleile asfaltate. Prânz: Pauză uscată la muzeu și la Palatul Arhiepiscopal. După-amiaza: Prânz ploios pe malul râului, urmat de o cursă rapidă prin Whatman Park. Seara: Un final noroios la Kent Life, unde clădirile istorice oferă adăpost.",
+            "en": "Morning: A wet ride through Mote Park on paved paths. Lunch: Dry break at the museum and Archbishop's Palace. Afternoon: A rainy lunch by the riverside followed by a brisk ride through Whatman Park. Evening: A muddy finish at Kent Life, where the historic buildings provide shelter."
+          },
+          "stops": [
+            {
+              "name": "Mote Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Hauptwegen.",
+                "hu": "Maradjon a főbb aszfaltozott utakon.",
+                "ro": "Rămâneți pe aleile principale asfaltate.",
+                "en": "Stick to the main paved paths to avoid mud."
+              }
+            },
+            {
+              "name": "Maidstone Museum",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Kerékpártárolók a bejárat közelében találhatók.",
+                "ro": "Rastelurile de biciclete sunt lângă intrare.",
+                "en": "Cycle racks are located near the main entrance."
+              }
+            },
+            {
+              "name": "Archbishop's Palace",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Palasthof zum kurzen Unterstellen.",
+                "hu": "Használja a palota udvarát rövid várakozásra.",
+                "ro": "Folosiți curtea palatului pentru un scurt adăpost.",
+                "en": "Use the palace courtyard for a quick shelter."
+              }
+            },
+            {
+              "name": "Lunch by the riverside",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal mit überdachter Terrasse.",
+                "hu": "Válasszon fedett terasszal rendelkező helyet.",
+                "ro": "Alegeți un local cu terasă acoperită.",
+                "en": "Choose a spot with a covered terrace."
+              }
+            },
+            {
+              "name": "Whatman Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf nasse Blätter auf dem Radweg.",
+                "hu": "Vigyázzon a vizes levelekre a kerékpárúton.",
+                "ro": "Atenție la frunzele ude de pe pista de biciclete.",
+                "en": "Watch out for wet leaves on the cycle path."
+              }
+            },
+            {
+              "name": "Kent Life",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen in den Scheunen.",
+                "hu": "Látogasson el a pajtákban lévő kiállításokra.",
+                "ro": "Vizitați expozițiile din interiorul hambarelor.",
+                "en": "Visit the exhibits inside the barns."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist für diese Route unerlässlich.",
+              "Prüfen Sie Ihre Bremsen, da die Wege rutschig sein können.",
+              "Benutzen Sie Schutzbleche, um Schlammspritzer zu vermeiden.",
+              "Das Museum bietet Platz zum Trocknen der Ausrüstung.",
+              "Fahren Sie in Kurven besonders vorsichtig."
+            ],
+            "hu": [
+              "A teljes esőruházat elengedhetetlen ehhez az útvonalhoz.",
+              "Ellenőrizze a fékeket, mert az utak csúszósak lehetnek.",
+              "Használjon sárvédőt a sárfelverődés elkerülésére.",
+              "A múzeumban van hely a felszerelés megszárítására.",
+              "A kanyarokban legyen különösen óvatos."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este esențial pentru acest traseu.",
+              "Verificați frânele, deoarece aleile pot fi alunecoase.",
+              "Folosiți apărători de noroi pentru a evita stropirea.",
+              "Muzeul oferă spațiu pentru uscarea echipamentului.",
+              "Fiți extrem de precauți în curbe."
+            ],
+            "en": [
+              "Full waterproof gear is essential for this route.",
+              "Check your brakes as paths can be slippery.",
+              "Use mudguards to avoid being splashed.",
+              "The museum offers space to dry off your gear.",
+              "Be extra cautious when taking corners."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Eine belebende Fahrt durch den frostigen Mote Park. Mittag: Kultur und Wärme im Museum und Palast. Nachmittag: Ein herzhaftes Mittagessen am Medway, bevor es durch den kahlen Whatman Park geht. Abend: Ein stimmungsvoller Besuch bei Kent Life, bevor die Winterkälte zu stark wird.",
+            "hu": "Reggel: Frissítő tekerés a fagyos Mote Parkban. Délben: Kultúra és meleg a múzeumban és a palotában. Délután: Kiadós ebéd a Medway partján, majd tekerés a kopár Whatman Parkon át. Este: Hangulatos látogatás a Kent Life-nál, mielőtt a téli hideg túl erőssé válna.",
+            "ro": "Dimineața: O cursă revigorantă prin Mote Park înghețat. Prânz: Cultură și căldură la muzeu și palat. După-amiaza: Un prânz consistent pe malul râului Medway, apoi prin Whatman Park golaș. Seara: O vizită atmosferică la Kent Life înainte ca frigul să se intensifice.",
+            "en": "Morning: An invigorating ride through the frosty Mote Park. Lunch: Culture and warmth at the museum and palace. Afternoon: A hearty lunch by the Medway before riding through the bare Whatman Park. Evening: An atmospheric visit to Kent Life before the winter chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Mote Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen auf den Wegen.",
+                "hu": "Vigyázzon a fagyott tócsákra az utakon.",
+                "ro": "Atenție la bălțile înghețate de pe alei.",
+                "en": "Watch out for frozen puddles on the paths."
+              }
+            },
+            {
+              "name": "Maidstone Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände im Museumscafé auf.",
+                "hu": "Melegítse fel a kezeit a múzeum kávézójában.",
+                "ro": "Încălziți-vă mâinile în cafeneaua muzeului.",
+                "en": "Warm up your hands in the museum cafe."
+              }
+            },
+            {
+              "name": "Archbishop's Palace",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster kann bei Frost glatt sein.",
+                "hu": "A macskakő fagyban nagyon csúszós lehet.",
+                "ro": "Pavelele pot fi alunecoase în caz de îngheț.",
+                "en": "The cobblestones can be slippery in frosty weather."
+              }
+            },
+            {
+              "name": "Lunch by the riverside",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz am Kamin oder an der Heizung.",
+                "hu": "Keressen helyet a kandalló vagy a fűtés közelében.",
+                "ro": "Căutați un loc lângă șemineu sau calorifer.",
+                "en": "Look for a table near the fireplace or heater."
+              }
+            },
+            {
+              "name": "Whatman Park",
+              "tip_5lang": {
+                "de": "Fahren Sie zügig, um warm zu bleiben.",
+                "hu": "Tekerjen tempósan, hogy ne fázzon.",
+                "ro": "Pedalați susținut pentru a vă menține căldura.",
+                "en": "Ride at a steady pace to keep your body warm."
+              }
+            },
+            {
+              "name": "Kent Life",
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der winterlichen Farm.",
+                "hu": "Élvezze a téli farm látványát.",
+                "ro": "Bucurați-vă de peisajul de iarnă al fermei.",
+                "en": "Enjoy the sights of the winter farm scenery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie geschichtete Kleidung und winddichte Handschuhe.",
+              "Prüfen Sie den Reifendruck für besseren Grip auf Eis.",
+              "Die Sonne geht früh unter, Licht am Fahrrad ist Pflicht.",
+              "Vermeiden Sie schattige Waldwege, dort hält sich Eis länger.",
+              "Ein heißer Tee in der Thermoskanne ist Gold wert."
+            ],
+            "hu": [
+              "Viseljen réteges öltözetet és szélálló kesztyűt.",
+              "Ellenőrizze a keréknyomást a jobb tapadásért a jégen.",
+              "A nap korán lemegy, a kerékpáros lámpa kötelező.",
+              "Kerülje az árnyékos utakat, ott tovább megmarad a jég.",
+              "Egy termosznyi forró tea aranyat ér."
+            ],
+            "ro": [
+              "Purtați haine stratificate și mănuși rezistente la vânt.",
+              "Verificați presiunea anvelopelor pentru aderență pe gheață.",
+              "Soarele apune devreme, luminile la bicicletă sunt obligatorii.",
+              "Evitați aleile umbrite, unde gheața rezistă mai mult.",
+              "Un ceai fierbinte în termos este de mare ajutor."
+            ],
+            "en": [
+              "Wear layered clothing and windproof gloves.",
+              "Check tyre pressure for better grip on icy patches.",
+              "Sunset is early, so working bike lights are mandatory.",
+              "Avoid shaded paths where ice stays longer.",
+              "A thermos of hot tea is worth its weight in gold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -910,6 +1290,196 @@
           "Town centre parking can be expensive; use designated long-stay car parks.",
           "Check for traffic, especially on the M20, before setting off."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Ein mystischer Anblick von Leeds Castle im Nebel und Regen. Mittag: Gemütliches Mittagessen in einem warmen Country Pub. Nachmittag: Bequemes Parken im Stadtzentrum, gefolgt von kurzen Wegen zum Archbishop's Palace und der All Saints Church. Abend: Ein Blick auf den regnerischen Mote Park aus dem Autofenster, bevor es nach Hause geht.",
+            "hu": "Reggel: Misztikus látvány a Leeds-i kastély a ködben és az esőben. Délben: Kényelmes ebéd egy meleg vidéki fogadóban. Délután: Egyszerű parkolás a városközpontban, rövid séta az Érseki Palotához és a Mindenszentek templomához. Este: Pillantás az esős Mote Parkra az autó ablakából a hazaindulás előtt.",
+            "ro": "Dimineața: O vedere mistică a Castelului Leeds în ceață și ploaie. Prânz: Prânz confortabil într-un pub rural călduros. După-amiaza: Parcare facilă în centrul orașului, urmată de vizite scurte la Palat și Biserică. Seara: O privire spre Mote Park ploios din mașină înainte de plecare.",
+            "en": "Morning: A mystical view of Leeds Castle shrouded in mist and rain. Lunch: Cozy lunch at a warm country pub. Afternoon: Convenient parking in the town centre followed by short walks to the Palace and Church. Evening: A glance at the rainy Mote Park from the car window before heading home."
+          },
+          "stops": [
+            {
+              "name": "Leeds Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Innenräume des Schlosses.",
+                "hu": "Látogassa meg a kastély belső termeit.",
+                "ro": "Vizitați interiorul castelului.",
+                "en": "Visit the castle interiors to stay dry."
+              }
+            },
+            {
+              "name": "Lunch at a Country Pub",
+              "tip_5lang": {
+                "de": "Genießen Sie die Atmosphäre am prasselnden Kamin.",
+                "hu": "Élvezze a hangulatot a pattogó tűz mellett.",
+                "ro": "Bucurați-vă de atmosferă lângă șemineu.",
+                "en": "Enjoy the atmosphere by the crackling fire."
+              }
+            },
+            {
+              "name": "Park in Maidstone Town Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus für einen trockenen Ausstieg.",
+                "hu": "Használja a parkolóházat a száraz kiszálláshoz.",
+                "ro": "Folosiți parcarea etajată pentru a nu vă uda.",
+                "en": "Use the multi-storey car park for a dry exit."
+              }
+            },
+            {
+              "name": "Archbishop's Palace",
+              "tip_5lang": {
+                "de": "Der Eingang ist nur wenige Meter vom Parkplatz entfernt.",
+                "hu": "A bejárat csak pár méterre van a parkolótól.",
+                "ro": "Intrarea este la doar câțiva metri de parcare.",
+                "en": "The entrance is just a few meters from parking."
+              }
+            },
+            {
+              "name": "All Saints Church",
+              "tip_5lang": {
+                "de": "Hören Sie dem Regen auf dem Kirchendach zu.",
+                "hu": "Hallgassa az eső kopogását a templomtetőn.",
+                "ro": "Ascultați ploaia pe acoperișul bisericii.",
+                "en": "Listen to the rain hitting the church roof."
+              }
+            },
+            {
+              "name": "Mote Park",
+              "tip_5lang": {
+                "de": "Parken Sie nah am See für die beste Aussicht.",
+                "hu": "Parkoljon a tó közelében a legjobb kilátásért.",
+                "ro": "Parcați lângă lac pentru cea mai bună vedere.",
+                "en": "Park near the lake for the best view from your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser 'The Mall' oder 'Fremlin Walk'.",
+              "Die Landstraßen um Leeds Castle können Pfützen bilden.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Viele Pubs haben im Winter und bei Regen extra Garderoben.",
+              "Das Parken am Mote Park ist kostenpflichtig, aber nah am Geschehen."
+            ],
+            "hu": [
+              "Használja a 'The Mall' vagy 'Fremlin Walk' parkolóházakat.",
+              "A Leeds-i kastély körüli utak vízelvezetése néhol gyenge.",
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Sok pub rendelkezik külön ruhatárral a vizes kabátoknak.",
+              "A Mote Park parkolója fizetős, de közel van a látnivalókhoz."
+            ],
+            "ro": [
+              "Folosiți parcările 'The Mall' sau 'Fremlin Walk'.",
+              "Drumurile rurale spre Leeds Castle pot avea bălți mari.",
+              "Verificați ștergătoarele înainte de plecare.",
+              "Multe pub-uri au spații speciale pentru hainele ude.",
+              "Parcarea la Mote Park este cu plată, dar aproape de lac."
+            ],
+            "en": [
+              "Use 'The Mall' or 'Fremlin Walk' multi-storey car parks.",
+              "Country lanes near Leeds Castle can get flooded in spots.",
+              "Check your wipers before you set off.",
+              "Many pubs offer coat racks for wet outerwear.",
+              "Mote Park parking is paid but very close to the viewpoints."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Leeds Castle in einer glitzernden Winterlandschaft. Mittag: Aufwärmen bei traditioneller Kost im Country Pub. Nachmittag: Ein kurzer Bummel durch das winterliche Stadtzentrum von Maidstone. Abend: Der Sonnenuntergang über dem Mote Park See ist im Winter besonders klar und schön.",
+            "hu": "Reggel: A Leeds-i kastély csillogó téli tájban. Délben: Felmelegedés hagyományos ételekkel a vidéki fogadóban. Délután: Rövid séta a téli hangulatú Maidstone belvárosában. Este: A naplemente a Mote Park tava felett télen különösen tiszta és szép.",
+            "ro": "Dimineața: Castelul Leeds într-un peisaj de iarnă sclipitor. Prânz: Încălziți-vă cu mâncare tradițională la un pub rural. După-amiaza: O scurtă plimbare prin centrul iernatic al orașului Maidstone. Seara: Apusul peste lacul Mote Park este extrem de clar și frumos iarna.",
+            "en": "Morning: Leeds Castle set in a sparkling winter landscape. Lunch: Warm up with traditional food at a country pub. Afternoon: A brief stroll through the winter atmosphere of Maidstone town centre. Evening: The sunset over Mote Park lake is especially clear and beautiful in winter."
+          },
+          "stops": [
+            {
+              "name": "Leeds Castle",
+              "tip_5lang": {
+                "de": "Genießen Sie die weihnachtliche Dekoration im Inneren.",
+                "hu": "Élvezze a karácsonyi díszítést a belső terekben.",
+                "ro": "Bucurați-vă de decorațiunile de Crăciun din interior.",
+                "en": "Enjoy the Christmas decorations inside the castle."
+              }
+            },
+            {
+              "name": "Lunch at a Country Pub",
+              "tip_5lang": {
+                "de": "Ein 'Sunday Roast' ist im Winter besonders zu empfehlen.",
+                "hu": "Egy 'Sunday Roast' télen különösen ajánlott.",
+                "ro": "Un 'Sunday Roast' este recomandat iarna.",
+                "en": "A 'Sunday Roast' is highly recommended in winter."
+              }
+            },
+            {
+              "name": "Park in Maidstone Town Centre",
+              "tip_5lang": {
+                "de": "Die Parkhäuser sind angenehm temperiert.",
+                "hu": "A parkolóházak mérsékelten temperáltak.",
+                "ro": "Parcările etajate au o temperatură plăcută.",
+                "en": "Multi-storey car parks are slightly warmer than outside."
+              }
+            },
+            {
+              "name": "Archbishop's Palace",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur in der klaren Winterluft.",
+                "hu": "Csodálja meg az építészetet a tiszta téli levegőben.",
+                "ro": "Admirați arhitectura în aerul curat de iarnă.",
+                "en": "Admire the architecture in the crisp winter air."
+              }
+            },
+            {
+              "name": "All Saints Church",
+              "tip_5lang": {
+                "de": "Die Kirche ist oft stimmungsvoll beleuchtet.",
+                "hu": "A templom gyakran hangulatosan van kivilágítva.",
+                "ro": "Biserica este adesea iluminată atmosferic.",
+                "en": "The church is often atmospheric with winter lighting."
+              }
+            },
+            {
+              "name": "Mote Park",
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wasservögel auf dem Eis.",
+                "hu": "Figyelje meg a vízimadarakat a jégen.",
+                "ro": "Observați păsările de apă pe gheață.",
+                "en": "Watch the water birds on the icy lake surface."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in Ihrem Wischwasser.",
+              "Vorsicht vor Blitzeis auf den kleinen Landstraßen.",
+              "Parkhäuser bieten Schutz vor gefrorenen Scheiben.",
+              "Die Parkplätze in Leeds Castle können im Winter matschig sein.",
+              "Nehmen Sie eine Decke für Pausen im Auto mit."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Vigyázzon a fekete jégre a kis mellékutakon.",
+              "A parkolóházak megvédik az autót a lefagyástól.",
+              "A Leeds-i kastély parkolója télen néhol sáros lehet.",
+              "Vigyen magával takarót az autóba a pihenőkhöz."
+            ],
+            "ro": [
+              "Verificați antigelul din lichidul de parbriz.",
+              "Atenție la poleiul de pe drumurile rurale mici.",
+              "Parcările acoperite vă scutesc de dezghețarea parbrizului.",
+              "Parcarea de la Leeds Castle poate fi noroioasă iarna.",
+              "Luați o pătură în mașină pentru momentele de odihnă."
+            ],
+            "en": [
+              "Check the antifreeze in your screenwash.",
+              "Be wary of black ice on small country lanes.",
+              "Indoor car parks prevent windows from frosting over.",
+              "Leeds Castle parking areas can be muddy in winter.",
+              "Keep a blanket in the car for during breaks."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1210,6 +1780,196 @@
           "Download a local bus app to track real-time schedules.",
           "Check the times of the last buses back to the centre, especially from Kent Life."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Ankunft am Maidstone East Station unter dem Bahnhofsdach. Mittag: Das Museum bietet den perfekten Schutz vor dem Regen direkt im Zentrum. Nachmittag: Kurze Busfahrt zum Mote Park und Kent Life, um das Gehen im Regen zu minimieren. Abend: Ein warmer Abschluss in der Cafeteria von Kent Life, bevor es mit dem Bus zurück zum Bahnhof geht.",
+            "hu": "Reggel: Érkezés a Maidstone East állomásra a peron fedele alá. Délben: A múzeum tökéletes védelmet nyújt az eső elől a központban. Délután: Rövid buszozás a Mote Parkhoz és a Kent Life-hoz a gyaloglás minimalizálása érdekében. Este: Meleg befejezés a Kent Life kávézójában a vasútállomásra való visszatérés előtt.",
+            "ro": "Dimineața: Sosire la Gara Maidstone East sub protecția peronului. Prânz: Muzeul oferă protecție perfectă împotriva ploii chiar în centru. După-amiaza: O scurtă călătorie cu autobuzul spre Mote Park și Kent Life. Seara: Un final călduros la cafeneaua Kent Life înainte de întoarcerea cu autobuzul la gară.",
+            "en": "Morning: Arrival at Maidstone East Station under the platform roof. Lunch: The museum provides perfect rain protection right in the centre. Afternoon: Short bus rides to Mote Park and Kent Life to minimize walking in the rain. Evening: A warm finish at the Kent Life cafe before heading back to the station by bus."
+          },
+          "stops": [
+            {
+              "name": "Arrive at Maidstone East Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle auf den Regenstop.",
+                "hu": "Várjon az állomáscsarnokban, amíg eláll az eső.",
+                "ro": "Așteptați în holul gării până trece ploaia.",
+                "en": "Wait in the station hall for the rain to ease."
+              }
+            },
+            {
+              "name": "Maidstone Museum",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg vom Bahnhof entfernt.",
+                "hu": "Csak 2 perc séta a vasútállomástól.",
+                "ro": "La doar 2 minute de mers pe jos de gară.",
+                "en": "Only a 2-minute walk from the station."
+              }
+            },
+            {
+              "name": "Archbishop's Palace & All Saints Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, wenn der Regen zu stark ist.",
+                "hu": "Használja a buszt, ha túl erősen esik.",
+                "ro": "Folosiți autobuzul dacă plouă prea tare.",
+                "en": "Take the bus if the rain is too heavy to walk."
+              }
+            },
+            {
+              "name": "Bus to Mote Park",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Bushäuschen.",
+                "hu": "Várjon a fedett buszmegállóban.",
+                "ro": "Așteptați în stația de autobuz acoperită.",
+                "en": "Wait inside the covered bus shelter."
+              }
+            },
+            {
+              "name": "Mote Park & Lunch",
+              "tip_5lang": {
+                "de": "Das Besucherzentrum bietet Schutz und Verpflegung.",
+                "hu": "A látogatóközpont menedéket és ételt kínál.",
+                "ro": "Centrul de vizitare oferă adăpost și mâncare.",
+                "en": "The visitor centre offers shelter and food."
+              }
+            },
+            {
+              "name": "Bus to Kent Life",
+              "tip_5lang": {
+                "de": "Der Bus bringt Sie direkt zum Eingang.",
+                "hu": "A busz közvetlenül a bejárathoz viszi.",
+                "ro": "Autobuzul vă lasă chiar la intrare.",
+                "en": "The bus drops you off right by the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App von Arriva für Live-Buszeiten.",
+              "Die Bahnhöfe haben beheizte Warteräume.",
+              "Kaufen Sie ein Tagesticket für die Busse ('Day Saver').",
+              "Der Fußweg zum Palast ist bei Regen recht kurz.",
+              "Tragen Sie wasserfeste Kleidung für die Busumstiege."
+            ],
+            "hu": [
+              "Használja az Arriva alkalmazást az élő buszinfókért.",
+              "A vasútállomásokon fűtött várótermek vannak.",
+              "Vásároljon napijegyet a buszokra ('Day Saver').",
+              "A palotához vezető séta esőben is rövid.",
+              "Viseljen vízálló ruhát a buszos átszállásokhoz."
+            ],
+            "ro": [
+              "Folosiți aplicația Arriva pentru orele reale ale autobuzelor.",
+              "Gările au săli de așteptare încălzite.",
+              "Cumpărați un bilet de o zi pentru autobuze.",
+              "Plimbarea spre Palat este destul de scurtă pe ploaie.",
+              "Purtați haine impermeabile pentru schimbarea autobuzelor."
+            ],
+            "en": [
+              "Use the Arriva app for live bus arrival times.",
+              "The train stations have heated waiting rooms.",
+              "Buy a 'Day Saver' bus ticket for unlimited travel.",
+              "The walk to the Palace is short enough even in rain.",
+              "Wear waterproof clothing for bus transfers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Ankunft im kalten Maidstone East, schneller Weg zur Wärme im Museum. Mittag: Kultur im Palast und in der Kirche, gefolgt von einer gemütlichen Busfahrt. Nachmittag: Ein winterlicher Spaziergang im Mote Park, bevor es zum Aufwärmen nach Kent Life geht. Abend: Ein stimmungsvoller Abschluss, bevor die Winterdunkelheit die Heimreise einläutet.",
+            "hu": "Reggel: Érkezés a hideg Maidstone East-re, gyors út a múzeum melegébe. Délben: Kultúra a palotában és a templomban, majd kényelmes buszozás. Délután: Téli séta a Mote Parkban, majd felmelegedés a Kent Life-nál. Este: Hangulatos befejezés a téli sötétség és a hazautazás előtt.",
+            "ro": "Dimineața: Sosire în Maidstone East răcoros, drum rapid spre căldura muzeului. Prânz: Cultură la palat și biserică, apoi o cursă confortabilă cu autobuzul. După-amiaza: O plimbare de iarnă în Mote Park, apoi încălzire la Kent Life. Seara: Un final atmosferic înainte de drumul spre casă pe întuneric.",
+            "en": "Morning: Arrival at chilly Maidstone East, quick walk to the warmth of the museum. Lunch: Culture at the palace and church followed by a cozy bus ride. Afternoon: A winter stroll in Mote Park before warming up at Kent Life. Evening: An atmospheric finish before the winter darkness sets in for the journey home."
+          },
+          "stops": [
+            {
+              "name": "Arrive at Maidstone East Station",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Tee am Bahnhofskiosk.",
+                "hu": "Vegyen egy forró teát az állomási büfénél.",
+                "ro": "Luați un ceai fierbinte de la chioșcul gării.",
+                "en": "Grab a hot tea at the station kiosk."
+              }
+            },
+            {
+              "name": "Maidstone Museum",
+              "tip_5lang": {
+                "de": "Die Heizung in den Galerien ist sehr effizient.",
+                "hu": "A galériák fűtése nagyon hatékony.",
+                "ro": "Încălzirea din galerii este foarte eficientă.",
+                "en": "The heating in the galleries is very efficient."
+              }
+            },
+            {
+              "name": "Archbishop's Palace & All Saints Church",
+              "tip_5lang": {
+                "de": "In der Kirche kann es im Winter ziehen.",
+                "hu": "A templomban télen huzat lehet.",
+                "ro": "În biserică poate fi curent iarna.",
+                "en": "The church can be drafty in winter weather."
+              }
+            },
+            {
+              "name": "Bus to Mote Park",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter nach dem Standardplan.",
+                "hu": "A buszok télen is a szokásos menetrend szerint járnak.",
+                "ro": "Autobuzele circulă după programul standard iarna.",
+                "en": "Buses run on their standard schedule in winter."
+              }
+            },
+            {
+              "name": "Mote Park & Lunch",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den frostigen Park.",
+                "hu": "Élvezze a kilátást a fagyos parkra.",
+                "ro": "Bucurați-vă de vederea spre parcul înghețat.",
+                "en": "Enjoy the view of the frosty park landscape."
+              }
+            },
+            {
+              "name": "Bus to Kent Life",
+              "tip_5lang": {
+                "de": "Achten Sie auf die letzten Busse vor der Dunkelheit.",
+                "hu": "Figyeljen az utolsó buszokra sötétedés előtt.",
+                "ro": "Atenție la ultimele autobuze înainte de întuneric.",
+                "en": "Check for the last buses before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warten Sie in den beheizten Innenräumen der Bahnhöfe.",
+              "Die Busse sind im Winter meist gut beheizt.",
+              "Prüfen Sie mögliche Fahrplanänderungen an Feiertagen.",
+              "Ein heißer Kakao im Museumscafé hilft gegen die Kälte.",
+              "Die Wege zwischen den Haltestellen sind kurz und gestreut."
+            ],
+            "hu": [
+              "Várjon a vasútállomások fűtött belső tereiben.",
+              "A buszok télen általában jól fűtöttek.",
+              "Ellenőrizze az ünnepi menetrendi változásokat.",
+              "Egy forró kakaó a múzeumi kávézóban segít a hideg ellen.",
+              "A megállók közötti utak rövidek és szórtak."
+            ],
+            "ro": [
+              "Așteptați în spațiile interioare încălzite ale gărilor.",
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Verificați modificările de program în zilele de sărbătoare.",
+              "O cacao fierbinte la cafeneaua muzeului ajută contra frigului.",
+              "Drumurile între stații sunt scurte și deszăpezite."
+            ],
+            "en": [
+              "Wait inside the heated station buildings.",
+              "Buses are usually well-heated during the winter.",
+              "Check for any holiday schedule changes.",
+              "A hot cocoa in the museum cafe helps fight the chill.",
+              "The paths between stops are short and salted."
+            ]
+          }
+        }
       }
     }
   }

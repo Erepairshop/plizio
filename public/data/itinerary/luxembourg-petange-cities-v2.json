@@ -304,6 +304,188 @@
           "Allow plenty of time for Fond-de-Gras as there is much to explore.",
           "Check opening hours, especially for the museums at Fond-de-Gras."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag in Petingen beginnt am Monument, doch bald bietet die neugotische St.-Hubert-Kirche trockenen Unterschlupf für Besinnung. Mittags verlagert sich das Geschehen ins Kulturzentrum A Guddest, wo Kunst und Architektur vor dem Regen schützen. Am Nachmittag trotzen Sie dem Wetter im Parc de la Chiers mit festem Schuhwerk, bevor Sie zum Titelberg aufbrechen. Der Abend klingt im geschichtsträchtigen Fond-de-Gras aus, wo die alten Industriehallen eine mystische Atmosphäre im Regen bieten.",
+            "hu": "A reggel a Monumentnél indul, de a Szent Hubert-templom neogótikus belső tere hamar menedéket nyújt az eső elől. Délben az A Guddest Kulturális Központ várja, ahol a kiállítások közben elfelejtheti a kinti szürkeséget. Délután a Chiers-park ösvényein haladunk, ahol az eső illata frissíti fel a levegőt a Titelberg felé. A nap a Fond-de-Gras ipari műemlékei között ér véget, melyek az esőben még karakteresebb látványt nyújtanak.",
+            "ro": "Dimineața în Petingen începe la Monument, dar Biserica Sf. Hubert oferă rapid un adăpost neogotic pentru reflecție. La prânz, activitatea se mută la centrul cultural A Guddest, unde arta și arhitectura vă protejează de ploaie. După-amiaza, înfruntați vremea în Parcul de la Chiers cu încălțăminte adecvată, înainte de a urca spre Titelberg. Seara se încheie la Fond-de-Gras, unde halele industriale vechi capătă o atmosferă mistică sub ploaie.",
+            "en": "The morning in Petingen starts at the Monument, but St. Hubert's neo-Gothic church soon provides dry shelter for reflection. At noon, the focus shifts to the A Guddest Cultural Center, where art and architecture protect you from the rain. In the afternoon, brave the weather in Parc de la Chiers with sturdy boots before heading to Titelberg. The evening concludes at the historic Fond-de-Gras, where the old industrial halls offer a mystical atmosphere in the rain."
+          },
+          "stops": [
+            {
+              "name": "Monument to the Fallen",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt für Fotos; bei starkem Regen bietet das nahe Kirchenportal Schutz.",
+                "hu": "Gyors fotómegálló; heves esőben a közeli templomportál nyújt védelmet.",
+                "ro": "Oprire scurtă pentru poze; în caz de ploaie torențială, portalul bisericii din apropiere oferă adăpost.",
+                "en": "Short stop for photos; in case of heavy rain, the nearby church portal offers shelter."
+              }
+            },
+            {
+              "name": "Saint Hubert Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit, um die neugotischen Details im trockenen Innenraum zu bewundern.",
+                "hu": "Használja ki az időt a neogótikus részletek megcsodálására a száraz belső térben.",
+                "ro": "Folosiți timpul pentru a admira detaliile neogotice în interiorul uscat.",
+                "en": "Use the time to admire the neo-Gothic details in the dry interior."
+              }
+            },
+            {
+              "name": "A Guddest Cultural Center",
+              "tip_5lang": {
+                "de": "Idealer Ort für eine längere Pause, während Sie auf ein Nachlassen des Regens warten.",
+                "hu": "Ideális hely egy hosszabb szünetre, amíg várja az eső csendesedését.",
+                "ro": "Loc ideal pentru o pauză mai lungă în timp ce așteptați oprirea ploii.",
+                "en": "Ideal spot for a longer break while waiting for the rain to subside."
+              }
+            },
+            {
+              "name": "Parc de la Chiers",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind weniger matschig; halten Sie sich unter den dichten Baumkronen.",
+                "hu": "Az aszfaltozott utak kevésbé sárosak; maradjon a sűrű lombkoronák alatt.",
+                "ro": "Potecile asfaltate sunt mai puțin noroioase; stați sub coronamentul dens al copacilor.",
+                "en": "Asphalt paths are less muddy; keep under the dense tree canopies for extra cover."
+              }
+            },
+            {
+              "name": "Titelberg",
+              "tip_5lang": {
+                "de": "Vorsicht auf den unbefestigten Pfaden; festes, wasserdichtes Schuhwerk ist hier Pflicht.",
+                "hu": "Vigyázat a nem aszfaltozott ösvényeken; a vízálló lábbeli itt kötelező.",
+                "ro": "Atenție pe cărările neamenajate; încălțămintea impermeabilă este obligatorie aici.",
+                "en": "Caution on unpaved paths; waterproof hiking boots are a must-have here."
+              }
+            },
+            {
+              "name": "Fond-de-Gras",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den Museumswaggons oder den restaurierten Industriegebäuden.",
+                "hu": "Keressen menedéket a múzeumi vagonokban vagy a felújított ipari épületekben.",
+                "ro": "Căutați adăpost în vagoanele muzeului sau în clădirile industriale restaurate.",
+                "en": "Seek shelter inside the museum carriages or the restored industrial buildings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein großer Stockschirm ist windstabiler als ein kleiner Knirps auf den Freiflächen.",
+              "Die Wege zum Titelberg können bei Regen rutschig sein; gehen Sie langsam.",
+              "Fond-de-Gras bietet viele überdachte Bereiche in den alten Bahnhöfen.",
+              "Trocknen Sie Ihre Kleidung in den lokalen Cafés im Zentrum von Petingen."
+            ],
+            "hu": [
+              "Egy nagy botszernyő ellenállóbb a széllel szemben a nyílt területeken, mint a zsebesernyő.",
+              "A Titelberg felé vezető utak esőben csúszósak lehetnek; haladjon óvatosan.",
+              "Fond-de-Gras számos fedett részt kínál a régi vasútállomások épületeiben.",
+              "Szárítsa meg ruháit Petingen központjának hangulatos kávézóiban."
+            ],
+            "ro": [
+              "O umbrelă mare este mai stabilă în vânt pe spațiile deschise decât una pliabilă.",
+              "Drumurile spre Titelberg pot fi alunecoase pe ploaie; mergeți cu atenție.",
+              "Fond-de-Gras oferă multe zone acoperite în clădirile vechilor gări.",
+              "Uscați-vă hainele în cafenelele locale din centrul orașului Petingen."
+            ],
+            "en": [
+              "A large golf umbrella is more wind-resistant than a small one in open areas.",
+              "Paths to Titelberg can be slippery when wet; walk slowly and carefully.",
+              "Fond-de-Gras offers many covered areas within the old railway station buildings.",
+              "Dry off your gear in the cozy local cafés in Petingen's town center."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Petingen ist frisch, die St.-Hubert-Kirche bietet eine andächtige, kühle Stille. Mittags wärmt man sich im Kulturzentrum auf, bevor man den frostigen Parc de la Chiers durchquert, wo der Raureif die Brücken ziert. Am Nachmittag ist der Aufstieg zum Titelberg bei klarer Winterluft besonders erfrischend, mit weitem Blick über das verschneite Tal. Der Tag endet früh bei Sonnenuntergang im Fond-de-Gras, wo die alten Züge im Winterlicht fast wie Geisterzüge wirken.",
+            "hu": "A téli reggel Petingenben frissítő, a Szent Hubert-templom hűvös csendje áhítatos hangulatot áraszt. Délben a kulturális központban melegedhetünk fel, mielőtt átvágnánk a deres Chiers-parkon. Délután a Titelbergre való feljutás a tiszta téli levegőben különösen élénkítő, pazar kilátással a havas völgyre. A nap korán, naplementekor ér véget Fond-de-Gras-ban, ahol a régi vonatok kísértetiesen szépek a téli fényben.",
+            "ro": "Dimineața de iarnă în Petingen este proaspătă, Biserica Sf. Hubert oferind o liniște rece și pioasă. La prânz, vă puteți încălzi în centrul cultural înainte de a traversa Parcul de la Chiers înghețat. După-amiaza, urcarea pe Titelberg în aerul curat de iarnă este revigorantă, cu o vedere panoramică asupra văii înzăpezite. Ziua se încheie devreme la apus în Fond-de-Gras, unde trenurile vechi par desprinse din legende sub lumina iernii.",
+            "en": "The winter morning in Petingen is crisp, with St. Hubert's Church offering a solemn, cool silence. At noon, warm up in the cultural center before crossing the frosty Parc de la Chiers, where rime covers the bridges. In the afternoon, the ascent to Titelberg in the clear winter air is particularly refreshing, offering wide views over the snowy valley. The day ends early at sunset in Fond-de-Gras, where the vintage trains look almost spectral in the winter light."
+          },
+          "stops": [
+            {
+              "name": "Monument to the Fallen",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; die Metallgeländer und Gedenktafeln sind im Winter eiskalt.",
+                "hu": "Viseljen kesztyűt; a fémkorlátok és emléktáblák télen jéghidegek.",
+                "ro": "Purtați mănuși; balustradele metalice și plăcile comemorative sunt înghețate iarna.",
+                "en": "Wear gloves; the metal railings and commemorative plaques are ice-cold in winter."
+              }
+            },
+            {
+              "name": "Saint Hubert Church",
+              "tip_5lang": {
+                "de": "Der Innenraum ist kühl; behalten Sie Ihren Mantel während des Besuchs an.",
+                "hu": "A belső tér hűvös; látogatás közben hagyja magán a kabátját.",
+                "ro": "Interiorul este răcoros; păstrați haina pe dumneavoastră în timpul vizitei.",
+                "en": "The interior is cool; keep your coat on during the visit for comfort."
+              }
+            },
+            {
+              "name": "A Guddest Cultural Center",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um sich zwischen den Etappen bei einer heißen Schokolade aufzuwärmen.",
+                "hu": "Tökéletes hely, hogy a szakaszok között egy forró csokoládéval felmelegedjen.",
+                "ro": "Locul perfect pentru a vă încălzi cu o ciocolată caldă între etape.",
+                "en": "Perfect spot to warm up with a hot chocolate between the walking stages."
+              }
+            },
+            {
+              "name": "Parc de la Chiers",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Holzbrücken über den Fluss Chiers.",
+                "hu": "Ügyeljen a jegesedésre a Chiers-folyó feletti fahidakon.",
+                "ro": "Atenție la gheață pe podurile de lemn de peste râul Chiers.",
+                "en": "Watch out for black ice on the wooden bridges crossing the Chiers river."
+              }
+            },
+            {
+              "name": "Titelberg",
+              "tip_5lang": {
+                "de": "Der Wind auf dem Hügel kann schneidend sein; Schal und Mütze sind unerlässlich.",
+                "hu": "A dombtetőn metsző lehet a szél; a sál és a sapka elengedhetetlen.",
+                "ro": "Vântul pe deal poate fi tăios; fularul și căciula sunt esențiale.",
+                "en": "The wind on the hill can be biting; a scarf and hat are essential for the plateau."
+              }
+            },
+            {
+              "name": "Fond-de-Gras",
+              "tip_5lang": {
+                "de": "Beachten Sie die frühen Schließzeiten im Winter; planen Sie den Besuch vor 16 Uhr.",
+                "hu": "Ügyeljen a korai téli zárórára; tervezze a látogatást délután 4 óra elé.",
+                "ro": "Atenție la orele de închidere timpurii iarna; planificați vizita înainte de ora 16:00.",
+                "en": "Note the early winter closing times; plan to finish your visit before 4 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 16:45 Uhr unter; beenden Sie die Außenbesuche frühzeitig.",
+              "Tragen Sie Zwiebel-Look, um zwischen Kälte draußen und Wärme drinnen zu regulieren.",
+              "Thermoskanne mit Tee ist für die Wanderung zum Titelberg sehr zu empfehlen.",
+              "Festes Profil ist wichtig, da die Waldwege gefroren und rutschig sein können."
+            ],
+            "hu": [
+              "A nap 16:45 körül nyugszik; a szabadtéri látogatásokat fejezze be időben.",
+              "Öltözzön rétegesen, hogy könnyen alkalmazkodjon a kinti hideghez és a benti meleghez.",
+              "Egy termosz forró tea erősen ajánlott a Titelberg felé vezető túrához.",
+              "A barázdált talpú cipő fontos, mert az erdei utak fagyottak és csúszósak lehetnek."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 16:45; încheiați vizitele în aer liber din timp.",
+              "Îmbrăcați-vă în straturi pentru a regla temperatura între frigul de afară și căldura din interior.",
+              "Un termos cu ceai este recomandat pentru drumeția spre Titelberg.",
+              "Talpa aderentă este importantă, deoarece potecile forestiere pot fi înghețate."
+            ],
+            "en": [
+              "The sun sets around 4:45 PM; finish your outdoor explorations early.",
+              "Dress in layers to adjust between the outdoor cold and indoor heating.",
+              "A thermos with hot tea is highly recommended for the hike to Titelberg.",
+              "Good tread on your boots is vital as forest paths can be frozen and slippery."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -602,6 +784,188 @@
           "Bring enough water for the tour.",
           "Check if you can take your bike on the Train 1900 if you want to shorten a section."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag beginnt an der St.-Hubert-Kirche, wo Sie unter dem Vordach Ihre Ausrüstung prüfen. Die Fahrt durch den Parc de la Chiers erfordert Vorsicht auf nassen Kurven, führt aber schnell zum schützenden Titelberg-Plateau. Mittags erreichen Sie Fond-de-Gras; die alten Bahnhöfe sind perfekte Verstecke vor dem Guss. Der Nachmittag steht im Zeichen der historischen Züge, bevor die Rückfahrt auf regennassen Straßen nach Petingen ansteht.",
+            "hu": "Az esős kerékpáros nap a Szent Hubert-templomnál indul, ahol az előtető alatt ellenőrizheti felszerelését. A Chiers-parkon át vezető út óvatosságot igényel a vizes kanyarokban, de hamar eléri a Titelberg-fennsíkot. Délben érkezik Fond-de-Gras-ba; a régi állomások tökéletes rejtekhelyek a zápor elől. A délután a történelmi vonatoké, mielőtt a vizes utakon visszakerekezne Petingenbe.",
+            "ro": "O zi ploioasă pe bicicletă începe la Biserica Sf. Hubert, unde vă verificați echipamentul sub copertină. Drumul prin Parcul de la Chiers necesită prudență în curbele umede, dar vă duce rapid la platoul Titelberg. La prânz ajungeți la Fond-de-Gras; gările vechi sunt ascunzători perfecte împotriva aversei. După-amiaza este dedicată trenurilor istorice, înainte de întoarcerea spre Petingen pe șoselele umede.",
+            "en": "A rainy cycling day starts at St. Hubert's Church, where you can check your gear under the porch. The ride through Parc de la Chiers requires caution on wet corners but leads quickly to the Titelberg plateau. At noon, you reach Fond-de-Gras; the old stations are perfect hideouts from the downpour. The afternoon is dedicated to historic trains before the ride back to Petingen on rain-slicked roads."
+          },
+          "stops": [
+            {
+              "name": "Saint Hubert Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Kirchenportal zum Unterstellen, während Sie Ihre Regenjacke anlegen.",
+                "hu": "Használja a templomportált menedékként, amíg felveszi az esőkabátját.",
+                "ro": "Folosiți portalul bisericii ca adăpost în timp ce vă puneți pelerina de ploaie.",
+                "en": "Use the church porch as a staging area while putting on your rain gear."
+              }
+            },
+            {
+              "name": "Parc de la Chiers",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem Laub und nassen Holzstegen; reduzieren Sie Ihr Tempo.",
+                "hu": "Vigyázat a csúszós levelekkel és a vizes fapadlókkal; csökkentse a sebességét.",
+                "ro": "Atenție la frunzele alunecoase și podețele de lemn umede; reduceți viteza.",
+                "en": "Beware of slippery leaves and wet wooden boardwalks; reduce your speed."
+              }
+            },
+            {
+              "name": "Titelberg",
+              "tip_5lang": {
+                "de": "Die Auffahrt kann schlammig sein; prüfen Sie Ihre Bremsen vor der Abfahrt.",
+                "hu": "A felfelé vezető út sáros lehet; lejtmenet előtt ellenőrizze a fékeket.",
+                "ro": "Urcarea poate fi noroioasă; verificați frânele înainte de coborâre.",
+                "en": "The climb can be muddy; check your brakes thoroughly before the descent."
+              }
+            },
+            {
+              "name": "Fond-de-Gras",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter den Vordächern des alten Bahnhofs trocken ab.",
+                "hu": "Támassza le kerékpárját száraz helyen a régi vasútállomás előtetői alatt.",
+                "ro": "Parcați bicicleta la loc uscat sub copertinele vechii gări.",
+                "en": "Park your bike in a dry spot under the eaves of the old railway station."
+              }
+            },
+            {
+              "name": "Train 1900 Museum Train",
+              "tip_5lang": {
+                "de": "Genießen Sie die trockene Fahrt in den historischen Waggons, während es draußen regnet.",
+                "hu": "Élvezze a száraz utazást a történelmi vagonokban, miközben kint esik.",
+                "ro": "Bucurați-vă de călătoria uscată în vagoanele istorice în timp ce afară plouă.",
+                "en": "Enjoy the dry ride in the historic carriages while it rains outside."
+              }
+            },
+            {
+              "name": "Minièresbunn Mining Railway",
+              "tip_5lang": {
+                "de": "Die Fahrt unter Tage ist absolut regensicher; idealer Abschluss für einen nassen Tag.",
+                "hu": "A föld alatti vasutazás teljesen esőbiztos; ideális zárása egy vizes napnak.",
+                "ro": "Călătoria în subteran este complet ferită de ploaie; finalul ideal pentru o zi umedă.",
+                "en": "The underground mine train ride is perfectly rain-proof; an ideal end to a wet day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter in Petingen unerlässlich gegen Spritzwasser.",
+              "Vermeiden Sie scharfe Bremsmanöver auf den nassen Waldwegen zum Titelberg.",
+              "Wasserdichte Packtaschen halten Ihre Ersatzkleidung und Kamera trocken.",
+              "Ein kleiner Lappen zum Trocknen des Sattels nach jedem Stopp ist sehr hilfreich."
+            ],
+            "hu": [
+              "A sárvédők ebben az időben elengedhetetlenek a felcsapódó víz ellen.",
+              "Kerülje az éles fékezést a Titelberg felé vezető vizes erdei utakon.",
+              "A vízálló táskák szárazon tartják a pótruhát és a fényképezőgépet.",
+              "Egy kis rongy a nyereg letörléséhez minden megálló után nagyon hasznos."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt esențiale pe această vreme împotriva stropilor.",
+              "Evitați frânările bruște pe potecile forestiere umede spre Titelberg.",
+              "Gentile impermeabile vă vor păstra hainele de schimb și camera uscate.",
+              "O cârpă mică pentru a șterge șaua după fiecare oprire este foarte utilă."
+            ],
+            "en": [
+              "Mudguards are essential in this weather to protect against road spray.",
+              "Avoid sudden braking on the wet forest paths leading to Titelberg.",
+              "Waterproof panniers will keep your spare clothes and camera dry.",
+              "A small rag to dry your saddle after each stop is a simple but great help."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour per Rad beginnt bei frostigen Temperaturen an der St.-Hubert-Kirche. Der Weg durch den Parc de la Chiers ist magisch, wenn der Nebel über dem gefrorenen Fluss hängt. Mittags fordert der Anstieg zum Titelberg Ihre Kondition und wärmt den Körper auf, belohnt durch weite, klare Aussichten. In Fond-de-Gras tauchen Sie in die industrielle Vergangenheit ein, bevor Sie bei einsetzender Dämmerung mit Licht die Rückreise nach Petingen antreten.",
+            "hu": "A téli kerékpártúra fagyos hőmérsékletben indul a Szent Hubert-templomnál. A Chiers-parkon át vezető út varázslatos, amikor köd ül a befagyott folyó felett. Délben a Titelbergre való felkapaszkodás próbára teszi az állóképességét és felmelegíti, de a tiszta kilátás kárpótolja. Fond-de-Gras-ban elmerülünk az ipari múltban, mielőtt a szürkületben, lámpafénynél visszaindulnánk Petingenbe.",
+            "ro": "Turul de iarnă pe bicicletă începe la temperaturi de îngheț la Biserica Sf. Hubert. Drumul prin Parcul de la Chiers este magic când ceața plutește peste râul înghețat. La prânz, urcarea pe Titelberg vă solicită condiția fizică și vă încălzește, fiind răsplătită cu vederi clare. În Fond-de-Gras vă cufundați în trecutul industrial, înainte de a porni spre Petingen la lăsarea serii, cu luminile aprinse.",
+            "en": "The winter bike tour starts in freezing temperatures at St. Hubert's Church. The route through Parc de la Chiers is magical when mist hangs over the frozen river. At noon, the climb to Titelberg tests your fitness and warms you up, rewarded by wide, clear views. In Fond-de-Gras, dive into the industrial past before heading back to Petingen at dusk with your lights on."
+          },
+          "stops": [
+            {
+              "name": "Saint Hubert Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Aufwärmen im Vorraum der Kirche, bevor es weitergeht.",
+                "hu": "Rövid megálló a templom előterében melegedni, mielőtt tovább indulna.",
+                "ro": "Scurtă oprire pentru încălzire în vestibulul bisericii înainte de a continua.",
+                "en": "Brief stop to warm up in the church vestibule before continuing the ride."
+              }
+            },
+            {
+              "name": "Parc de la Chiers",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Pfützen; halten Sie die Reifen auf dem trockenen Asphalt.",
+                "hu": "Vigyázat a befagyott tócsákkal; tartsa a gumikat a száraz aszfalton.",
+                "ro": "Atenție la bălțile înghețate; păstrați anvelopele pe asfaltul uscat.",
+                "en": "Watch out for frozen puddles; keep your tires on the dry patches of asphalt."
+              }
+            },
+            {
+              "name": "Titelberg",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Auffahrt, um die Durchblutung in den Zehen anzuregen; oben ist es windig.",
+                "hu": "Használja ki a felfelé utat a lábujjak vérkeringésének serkentésére; fent szeles az idő.",
+                "ro": "Folosiți urcarea pentru a stimula circulația în degete; sus este vânt.",
+                "en": "Use the climb to get the blood flowing to your toes; it will be windy at the top."
+              }
+            },
+            {
+              "name": "Fond-de-Gras",
+              "tip_5lang": {
+                "de": "Im Winter sind weniger Besucher hier; genießen Sie die stille, industrielle Kulisse.",
+                "hu": "Télen kevesebb a látogató; élvezze a csendes, ipari díszleteket.",
+                "ro": "Iarna sunt mai puțini vizitatori; bucurați-vă de decorul industrial liniștit.",
+                "en": "Fewer visitors are here in winter; enjoy the silent, industrial scenery."
+              }
+            },
+            {
+              "name": "Train 1900 Museum Train",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Kohleöfen in den Waggons befeuert sind – pure Wintergemütlichkeit.",
+                "hu": "Ellenőrizze, begyújtottak-e a vagonok kályháiba – tiszta téli hangulat.",
+                "ro": "Verificați dacă sobele cu cărbune din vagoane sunt aprinse – confort pur de iarnă.",
+                "en": "Check if the coal stoves in the carriages are lit – pure winter coziness."
+              }
+            },
+            {
+              "name": "Minièresbunn Mining Railway",
+              "tip_5lang": {
+                "de": "Die Temperatur im Stollen ist konstant und oft wärmer als die Außenluft im Winter.",
+                "hu": "A tárnában a hőmérséklet állandó, és télen gyakran melegebb, mint kint.",
+                "ro": "Temperatura în mină este constantă și adesea mai mare decât cea de afară iarna.",
+                "en": "The temperature inside the mine is constant and often warmer than the winter air."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe; der Fahrtwind kühlt die Hände extrem schnell aus.",
+              "Ein Helm-Unterzieher hält die Ohren bei Minustemperaturen warm.",
+              "Achten Sie auf die Akkulaufzeit Ihres E-Bikes, die bei Kälte deutlich sinkt.",
+              "Stellen Sie sicher, dass Ihre Beleuchtung funktioniert; es wird früh dunkel."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt; a menetszél rendkívül gyorsan lehűti a kezeket.",
+              "A bukósisak alá való sapka melegen tartja a füleket mínusz fokokban.",
+              "Ügyeljen az e-bike akkumulátorára, amely hidegben gyorsabban merül.",
+              "Győződjön meg róla, hogy a világítás működik; korán sötétedik."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt; curentul de aer răcește mâinile foarte repede.",
+              "O cagulă sub cască vă va ține urechile calde la temperaturi negative.",
+              "Atenție la bateria e-bike-ului, care se descarcă mult mai repede la frig.",
+              "Asigurați-vă că luminile funcționează; se întunecă foarte devreme."
+            ],
+            "en": [
+              "Wear windproof gloves; the wind chill cools your hands down extremely fast.",
+              "A skull cap under your helmet keeps your ears warm in sub-zero temperatures.",
+              "Monitor your e-bike's battery life, as it drops significantly in the cold.",
+              "Ensure your lights are working perfectly; it gets dark very early."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -929,6 +1293,206 @@
           "The parking lot at Fond-de-Gras is large and usually free.",
           "Check the historic train schedules in advance to plan your visit."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Regentag beginnt mit dem Parken im Zentrum, von wo aus die St.-Hubert-Kirche nur wenige Schritte entfernt ist. Mittags bietet die Fahrt durch den Parc de la Chiers einen Blick auf die Natur vom trockenen Auto aus. Nach einer kurzen Fahrt durch die sanften Hügel erreichen Sie Fond-de-Gras, wo das Auto als Basis für Erkundungen dient. Der Nachmittag wird zwischen historischen Zügen und dem schützenden Bergbaumuseum verbracht, bevor es zurück geht.",
+            "hu": "Egy pihentető esős nap a központban való parkolással indul, ahonnan a Szent Hubert-templom csak pár lépés. Délben a Chiers-parkon át autózva a száraz kocsiból csodálhatjuk a természetet. Rövid autózás után a lankás dombokon át érjük el Fond-de-Gras-t, ahol az autó bázisként szolgál a felfedezéshez. A délután a történelmi vonatok és a védelmet nyújtó bányamúzeum között telik, mielőtt hazaindulnánk.",
+            "ro": "O zi relaxantă pe ploaie începe cu parcarea în centru, de unde Biserica Sf. Hubert este la doar câțiva pași. La prânz, drumul prin Parcul de la Chiers oferă o privire asupra naturii din mașina uscată. După o scurtă plimbare prin dealurile blânde, ajungeți la Fond-de-Gras, unde mașina servește ca bază pentru explorare. După-amiaza este petrecută între trenurile istorice și muzeul minier protector, înainte de întoarcere.",
+            "en": "A relaxed rainy day starts with parking in the center, from where St. Hubert's Church is just a few steps away. At noon, the drive through Parc de la Chiers offers a glimpse of nature from the dry car. After a short drive through the rolling hills, you reach Fond-de-Gras, where the car serves as a base for exploration. The afternoon is spent between historic trains and the sheltering mining museum before heading back."
+          },
+          "stops": [
+            {
+              "name": "Parking in the City Center",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Parkplatz nah am Ausgang, um die Zeit im Regen zu minimieren.",
+                "hu": "Válasszon parkolóhelyet a kijárathoz közel, hogy minimalizálja az esőben töltött időt.",
+                "ro": "Alegeți un loc de parcare aproape de ieșire pentru a minimiza timpul în ploaie.",
+                "en": "Pick a parking spot close to the exit to minimize your time in the rain."
+              }
+            },
+            {
+              "name": "St. Hubert Church & Monument",
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren nassen Schirm im Vorraum der Kirche abtropfen.",
+                "hu": "Hagyja a vizes esernyőt a templom előterében lecsepegni.",
+                "ro": "Lăsați umbrela umedă la scurs în vestibulul bisericii.",
+                "en": "Leave your wet umbrella to drip-dry in the church vestibule."
+              }
+            },
+            {
+              "name": "Parc de la Chiers",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze direkt am Parkeingang für einen schnellen Zugang zum Grün.",
+                "hu": "Használja a park bejáratánál lévő parkolókat a gyors bejutáshoz.",
+                "ro": "Folosiți parcările de la intrarea în parc pentru acces rapid la zona verde.",
+                "en": "Use the parking spaces right at the park entrance for quick access to the greenery."
+              }
+            },
+            {
+              "name": "Drive to Fond-de-Gras",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht auf die nebligen Täler Luxemburgs während der Fahrt.",
+                "hu": "Élvezze a kilátást Luxemburg ködös völgyeire vezetés közben.",
+                "ro": "Bucurați-vă de vederea spre văile cețoase ale Luxemburgului în timpul condusului.",
+                "en": "Enjoy the view of Luxembourg's misty valleys during the drive."
+              }
+            },
+            {
+              "name": "Fond-de-Gras & Train 1900",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Bahnsteig; die Wege zwischen den Attraktionen sind kurz.",
+                "hu": "Parkoljon közvetlenül a peronnál; az attrakciók közötti utak rövidek.",
+                "ro": "Parcați chiar lângă peron; distanțele dintre atracții sunt scurte.",
+                "en": "Park right by the platform; the distances between attractions are short."
+              }
+            },
+            {
+              "name": "Minièresbunn Mining Railway",
+              "tip_5lang": {
+                "de": "Ideal bei Regen; die Tour findet komplett geschützt im Berginneren statt.",
+                "hu": "Ideális esőben; a túra teljesen védve, a hegy belsejében zajlik.",
+                "ro": "Ideal pe ploaie; turul are loc complet protejat, în interiorul muntelui.",
+                "en": "Ideal for rainy weather; the tour takes place completely sheltered inside the mountain."
+              }
+            },
+            {
+              "name": "Titelberg",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie das Panorama vom Parkplatz aus.",
+                "hu": "Heves esőben maradjon az autóban, és élvezze a panorámát a parkolóból.",
+                "ro": "Rămâneți în mașină în caz de ploaie torențială și admirați panorama din parcare.",
+                "en": "Stay in the car during heavy downpours and enjoy the panorama from the parking lot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt durch die hügeligen Straßen.",
+              "Die schmalen Wege nach Fond-de-Gras können bei Nässe rutschig sein.",
+              "Nutzen Sie die Heizung im Auto, um Kleidung nach kurzen Außenbesuchen zu trocknen.",
+              "Ein kleiner Schirm in der Seitentür ist immer griffbereit für kurze Wege."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket a dombos utakra való tekintettel.",
+              "A Fond-de-Gras-ba vezető keskeny utak nedvesen csúszósak lehetnek.",
+              "Használja az autó fűtését a ruhák szárítására a rövid kinti látogatások után.",
+              "Az ajtórekeszben tartott kis esernyő mindig kéznél van a rövid távokhoz."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a pleca pe drumurile deluroase.",
+              "Drumurile înguste spre Fond-de-Gras pot fi alunecoase când sunt ude.",
+              "Folosiți încălzirea mașinii pentru a usca hainele după vizitele scurte afară.",
+              "O umbrelă mică în portieră este mereu la îndemână pentru distanțe scurte."
+            ],
+            "en": [
+              "Check your wipers before setting off through the hilly Luxembourgish roads.",
+              "The narrow lanes to Fond-de-Gras can be slick when wet; drive cautiously.",
+              "Use the car's heater to dry off your gear after brief outdoor stops.",
+              "Keep a small umbrella in the door pocket for quick dashes to the stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag beginnt mit einer warmen Fahrt ins Zentrum von Petingen zur St.-Hubert-Kirche. Der Parc de la Chiers zeigt sich im Frost von seiner schönsten Seite, bevor die Fahrt zum Fond-de-Gras durch tief verschneite Wälder führt. Mittags wärmt man sich in den historischen Zügen auf, die im Winter eine ganz besondere Behaglichkeit ausstrahlen. Der krönende Abschluss ist der Titelberg, wo man den Sonnenuntergang über dem winterlichen Tal direkt vom Auto aus beobachten kann.",
+            "hu": "A téli nap egy meleg autózással indul Petingen központjába, a Szent Hubert-templomhoz. A Chiers-park dérlepte arca lenyűgöző, mielőtt a havas erdőkön át Fond-de-Gras-ba hajtanánk. Délben a történelmi vonatokon melegedhetünk fel, melyek télen különleges meghittséget árasztanak. A nap fénypontja a Titelberg, ahol a téli völgy feletti naplementét közvetlenül az autóból csodálhatjuk meg.",
+            "ro": "Ziua de iarnă începe cu o călătorie călduroasă spre centrul orașului Petingen, la Biserica Sf. Hubert. Parcul de la Chiers arată superb sub brumă, înainte ca drumul spre Fond-de-Gras să treacă prin păduri înzăpezite. La prânz, vă încălziți în trenurile istorice, care iarna emană un confort deosebit. Finalul perfect este la Titelberg, unde puteți urmări apusul peste valea înzăpezită direct din mașină.",
+            "en": "The winter day begins with a warm drive to Petingen center for St. Hubert's Church. Parc de la Chiers looks its best under frost before the drive to Fond-de-Gras through snowy forests. At noon, warm up in the historic trains, which radiate a special coziness in winter. The crowning glory is Titelberg, where you can watch the sunset over the wintry valley directly from your car."
+          },
+          "stops": [
+            {
+              "name": "Parking in the City Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf geräumte Parkflächen, um nicht im Schnee stecken zu bleiben.",
+                "hu": "Figyeljen a letakarított parkolóhelyekre, nehogy elakadjon a hóban.",
+                "ro": "Căutați locuri de parcare deszăpezite pentru a nu rămâne blocat în zăpadă.",
+                "en": "Look for cleared parking spaces to avoid getting stuck in accumulated snow."
+              }
+            },
+            {
+              "name": "St. Hubert Church & Monument",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Kondenswasser auf den Steinstufen vor der Kirche.",
+                "hu": "Vigyázat a templom előtti kőlépcsőkön megfagyott páralecsapódással.",
+                "ro": "Atenție la condensul înghețat pe treptele de piatră din fața bisericii.",
+                "en": "Watch out for frozen condensation on the stone steps in front of the church."
+              }
+            },
+            {
+              "name": "Parc de la Chiers",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang für Fotos; das Auto bleibt zum Aufwärmen in der Nähe.",
+                "hu": "Rövid séta fotózáshoz; az autó a közelben marad a gyors felmelegedéshez.",
+                "ro": "Scurtă plimbare pentru poze; mașina rămâne aproape pentru încălzire.",
+                "en": "Short walk for photos; keep the car nearby for a quick warm-up session."
+              }
+            },
+            {
+              "name": "Drive to Fond-de-Gras",
+              "tip_5lang": {
+                "de": "Winterreifen sind auf den steilen Zufahrtswegen absolut notwendig.",
+                "hu": "A téli gumi a meredek bekötőutakon abszolút nélkülözhetetlen.",
+                "ro": "Anvelopele de iarnă sunt absolut necesare pe drumurile de acces abrupte.",
+                "en": "Winter tires are strictly necessary on the steep access roads to the site."
+              }
+            },
+            {
+              "name": "Fond-de-Gras & Train 1900",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen dem kalten Metall der Züge und der warmen Heizung.",
+                "hu": "Élvezze a vonatok hideg fémváza és a belső fűtés közötti kontrasztot.",
+                "ro": "Bucurați-vă de contrastul dintre metalul rece al trenurilor și încălzirea interioară.",
+                "en": "Enjoy the contrast between the cold metal of the trains and the warm interior heating."
+              }
+            },
+            {
+              "name": "Minièresbunn Mining Railway",
+              "tip_5lang": {
+                "de": "Lassen Sie dicke Mäntel im Auto; im Stollen ist es windstill und mild.",
+                "hu": "Hagyja a vastag kabátokat az autóban; a tárnában szélcsend és enyhe idő van.",
+                "ro": "Lăsați haina groasă în mașină; în mină este liniște și o temperatură blândă.",
+                "en": "Leave heavy coats in the car; it is windless and relatively mild inside the mine."
+              }
+            },
+            {
+              "name": "Titelberg",
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet eine tolle Aussicht; ideal, wenn es draußen zu kalt für einen Rundgang ist.",
+                "hu": "A parkolóból nagyszerű a kilátás; ideális, ha kint túl hideg van a sétához.",
+                "ro": "Parcarea oferă o vedere excelentă; ideal dacă afară este prea frig pentru o plimbare.",
+                "en": "The parking lot offers a great view; ideal if it's too cold for a walk outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und Frostschutzmittel im Auto mit.",
+              "Die Bergstraßen um Petingen können bei Frost tückisch sein; fahren Sie vorsichtig.",
+              "Lassen Sie den Motor nicht unnötig im Stand laufen, nutzen Sie die Sitzheizung.",
+              "Planen Sie mehr Zeit für die Anfahrt ein, falls Schnee die Räumung verzögert."
+            ],
+            "hu": [
+              "Vigyen magával jégkaparót és fagyálló folyadékot az autóban.",
+              "A Petingen környéki hegyi utak fagyban trükkösek lehetnek; vezessen óvatosan.",
+              "Ne járassa feleslegesen a motort álló helyzetben, használja az ülésfűtést.",
+              "Tervezzen több időt az útra, ha a hóesés lassítja a közlekedést."
+            ],
+            "ro": [
+              "Aveți mereu o racletă și lichid antigrizant în mașină.",
+              "Drumurile montane din jurul Petingen pot fi înșelătoare pe îngheț.",
+              "Nu lăsați motorul să meargă inutil la ralanti; folosiți încălzirea în scaune.",
+              "Planificați mai mult timp pentru deplasare în caz că deszăpezirea întârzie."
+            ],
+            "en": [
+              "Keep an ice scraper and anti-freeze fluid in your car at all times.",
+              "The mountain roads around Petingen can be treacherous in frost; drive slowly.",
+              "Avoid idling the engine unnecessarily; use seat heaters for warmth instead.",
+              "Allow extra time for travel in case snow clearing delays your progress."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1233,6 +1797,188 @@
           "Many destinations are easily accessible from Petange station.",
           "Be prepared for walking between the stops and the actual sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ihre Reise beginnt am Bahnhof Petingen, der guten Schutz vor dem Regen bietet. Ein kurzer Sprint bringt Sie zur St.-Hubert-Kirche, gefolgt von einem Besuch im Parc de la Chiers, wo die Buswartehäuschen als trockene Ankerpunkte dienen. Mittags bringt Sie der Bus bequem zum Fond-de-Gras, direkt vor die Tür der historischen Stätten. Den regnerischen Nachmittag verbringen Sie geschützt in den Museumszügen, bevor Sie mit dem Zug die Heimreise antreten.",
+            "hu": "Utazása a petingeni vasútállomáson kezdődik, amely jó védelmet nyújt az eső ellen. Egy rövid sprint a Szent Hubert-templomhoz, majd a Chiers-park következik, ahol a buszmegállók száraz bázisként szolgálnak. Délben a busz kényelmesen repíti Fond-de-Gras-ba, egyenesen a történelmi helyszínek kapujába. Az esős délutánt a múzeumvonatok védelmében töltheti, mielőtt vonattal hazaindulna.",
+            "ro": "Călătoria începe la gara Petingen, care oferă o bună protecție împotriva ploii. Un sprint scurt vă duce la Biserica Sf. Hubert, urmată de Parcul de la Chiers, unde stațiile de autobuz servesc ca puncte uscate. La prânz, autobuzul vă duce confortabil la Fond-de-Gras, chiar la poarta siturilor istorice. După-amiaza ploioasă o petreceți protejat în trenurile muzeu, înainte de a pleca spre casă cu trenul.",
+            "en": "Your journey begins at Petingen station, which offers good shelter from the rain. A short sprint takes you to St. Hubert's Church, followed by Parc de la Chiers, where bus shelters serve as dry anchor points. At noon, the bus takes you comfortably to Fond-de-Gras, right to the doorstep of the historic sites. Spend the rainy afternoon protected in the museum trains before heading home by rail."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Petange Station",
+              "tip_5lang": {
+                "de": "Bleiben Sie unter der Bahnsteigüberdachung, während Sie die Busverbindung prüfen.",
+                "hu": "Maradjon a perontető alatt, amíg ellenőrzi a buszcsatlakozást.",
+                "ro": "Rămâneți sub copertina peronului în timp ce verificați conexiunea de autobuz.",
+                "en": "Stay under the platform canopy while checking your bus connection."
+              }
+            },
+            {
+              "name": "Saint Hubert Church",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg vom Bahnhof; nutzen Sie die Zeit für ein Gebet im Trockenen.",
+                "hu": "Csak 5 perc séta az állomástól; használja ki az időt egy száraz benti látogatásra.",
+                "ro": "La doar 5 minute de mers pe jos de gară; folosiți timpul pentru o vizită la adăpost.",
+                "en": "Only a 5-minute walk from the station; use the time for a dry indoor visit."
+              }
+            },
+            {
+              "name": "Parc de la Chiers",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen am Parkrand sind modern und bieten guten Regenschutz.",
+                "hu": "A park szélén lévő buszmegállók modernek és jó esővédelmet nyújtanak.",
+                "ro": "Stațiile de autobuz de la marginea parcului sunt moderne și oferă protecție bună.",
+                "en": "The bus stops at the park's edge are modern and provide excellent rain cover."
+              }
+            },
+            {
+              "name": "Trip to Fond-de-Gras",
+              "tip_5lang": {
+                "de": "Der Bus ist die trockenste Art, die Steigung nach Fond-de-Gras zu überwinden.",
+                "hu": "A busz a legszárazabb módja, hogy leküzdje a Fond-de-Gras-ba vezető emelkedőt.",
+                "ro": "Autobuzul este cea mai uscată cale de a urca panta spre Fond-de-Gras.",
+                "en": "The bus is the driest way to navigate the climb up to Fond-de-Gras."
+              }
+            },
+            {
+              "name": "Fond-de-Gras & Museums",
+              "tip_5lang": {
+                "de": "Die Bahnhöfe sind nah beieinander; Sie müssen nur kurz durch den Regen huschen.",
+                "hu": "Az állomások közel vannak egymáshoz; csak rövid ideig kell az esőben lennie.",
+                "ro": "Gările sunt aproape una de alta; trebuie să stați în ploaie doar pentru scurt timp.",
+                "en": "The stations are close together; you only need to dash through the rain briefly."
+              }
+            },
+            {
+              "name": "Titelberg",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Rückfahrplan genau, um unnötige Wartezeit im Freien zu vermeiden.",
+                "hu": "Pontosan ellenőrizze a menetrendet, hogy elkerülje a kinti várakozást.",
+                "ro": "Verificați bine orarul de întoarcere pentru a evita așteptarea în aer liber.",
+                "en": "Check the return schedule carefully to avoid unnecessary waiting outdoors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Mobiliteit.lu' App für Echtzeit-Infos bei wetterbedingten Verspätungen.",
+              "Im Zug und Bus können Sie sich aufwärmen und Ihre Sachen trocknen.",
+              "Der Transport in Luxemburg ist kostenlos, nutzen Sie ihn flexibel bei Schauern.",
+              "Die Haltestellen in Fond-de-Gras sind teilweise überdacht."
+            ],
+            "hu": [
+              "Használja a 'Mobiliteit.lu' alkalmazást a valós idejű információkhoz esőben is.",
+              "A vonaton és a buszon felmelegedhet és megszáríthatja a holmiját.",
+              "A közlekedés Luxemburgban ingyenes, használja rugalmasan a záporok idején.",
+              "A Fond-de-Gras-i buszmegállók részben fedettek."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Mobiliteit.lu' pentru informații în timp real în caz de întârzieri.",
+              "În tren și autobuz vă puteți încălzi și vă puteți usca lucrurile.",
+              "Transportul în Luxemburg este gratuit; folosiți-l flexibil în timpul averselor.",
+              "Stațiile de autobuz din Fond-de-Gras sunt parțial acoperite."
+            ],
+            "en": [
+              "Use the 'Mobiliteit.lu' app for real-time updates during weather-related delays.",
+              "Trains and buses are great places to warm up and dry your gear.",
+              "Public transport in Luxembourg is free; use it flexibly during heavy showers.",
+              "Bus stops in Fond-de-Gras provide some partial cover from the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen beginnt in der beheizten Wartehalle des Bahnhofs Petingen. Nach einem Besuch in der kühlen St.-Hubert-Kirche bietet die Fahrt durch die frostige Landschaft ein ruhiges Panorama. Mittags bringt Sie der Bus durch den verschneiten Wald zum Fond-de-Gras, wo die Zeit stehen geblieben scheint. Die historischen Züge sind im Winter ein besonderes Erlebnis, bevor Sie bei Einbruch der Dunkelheit mit dem beleuchteten Regionalzug die Rückreise antreten.",
+            "hu": "A téli reggel a petingeni vasútállomás fűtött várótermében indul. A hűvös Szent Hubert-templom meglátogatása után a jeges tájon átvezető út nyugodt panorámát nyújt. Délben a busz a havas erdőn át visz Fond-de-Gras-ba, ahol megállt az idő. A történelmi vonatok télen különleges élményt jelentenek, mielőtt sötétedéskor a kivilágított vonattal visszautaznánk.",
+            "ro": "O dimineață de iarnă începe în sala de așteptare încălzită a gării Petingen. După o vizită la răcoroasa Biserică Sf. Hubert, drumul prin peisajul înghețat oferă o panoramă liniștită. La prânz, autobuzul vă duce prin pădurea înzăpezită la Fond-de-Gras, unde timpul pare să fi stat în loc. Trenurile istorice sunt o experiență deosebită iarna, înainte de a pleca înapoi cu trenul regional iluminat.",
+            "en": "A winter morning starts in the heated waiting hall of Petingen station. After a visit to the cool St. Hubert's Church, the journey through the frosty landscape offers a peaceful panorama. At noon, the bus carries you through the snowy forest to Fond-de-Gras, where time seems to stand still. The historic trains are a special treat in winter before you return on the brightly lit regional train at dusk."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Petange Station",
+              "tip_5lang": {
+                "de": "Die Wartehalle im Bahnhof ist beheizt; ideal zum Warten auf den Anschluss.",
+                "hu": "Az állomás váróterme fűtött; ideális a csatlakozásra való várakozáshoz.",
+                "ro": "Sala de așteptare din gară este încălzită; ideală pentru a aștepta conexiunea.",
+                "en": "The station waiting room is heated; an ideal place to wait for your connection."
+              }
+            },
+            {
+              "name": "Saint Hubert Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche zügig; die Steinmauern strahlen im Winter viel Kälte ab.",
+                "hu": "Látogassa meg gyorsan a templomot; a kőfalak télen sok hideget árasztanak.",
+                "ro": "Vizitați biserica rapid; pereții de piatră emană mult frig iarna.",
+                "en": "Visit the church briskly; the stone walls radiate a lot of cold in winter."
+              }
+            },
+            {
+              "name": "Parc de la Chiers",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Stille; die Busse fahren auch bei Schnee zuverlässig.",
+                "hu": "Élvezze a téli csendet; a buszok hóban is megbízhatóan közlekednek.",
+                "ro": "Bucurați-vă de liniștea iernii; autobuzele circulă regulat chiar și pe zăpadă.",
+                "en": "Enjoy the wintry silence; buses run reliably even in snowy conditions here."
+              }
+            },
+            {
+              "name": "Trip to Fond-de-Gras",
+              "tip_5lang": {
+                "de": "Die Busfahrt bietet tolle Fotomotive der verschneiten Minenregion.",
+                "hu": "A buszozás nagyszerű fotótémákat kínál a havas bányavidékről.",
+                "ro": "Călătoria cu autobuzul oferă ocazii bune de fotografiat regiunea minieră înzăpezită.",
+                "en": "The bus ride offers great photo opportunities of the snowy mining region."
+              }
+            },
+            {
+              "name": "Fond-de-Gras & Museums",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den kleinen Museumsshops oder Cafés zwischendurch auf.",
+                "hu": "Melegedjen fel időnként a kis múzeumi boltokban vagy kávézókban.",
+                "ro": "Încălziți-vă din când în când în micile magazine ale muzeului sau în cafenele.",
+                "en": "Warm up occasionally in the small museum shops or nearby cafés."
+              }
+            },
+            {
+              "name": "Titelberg",
+              "tip_5lang": {
+                "de": "Bei Glätte wird der Busverkehr manchmal angepasst; checken Sie die App regelmäßig.",
+                "hu": "Jegesedéskor a buszközlekedés néha módosulhat; ellenőrizze rendszeresen az appot.",
+                "ro": "În caz de polei, traficul de autobuze poate fi modificat; verificați aplicația des.",
+                "en": "In case of icy roads, bus services may be adjusted; check the app regularly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die kostenlosen Züge als mobile Aussichtsplattformen im Warmen.",
+              "Die Bahnhöfe in Luxemburg sind im Winter gut beleuchtet und sicher.",
+              "Nehmen Sie einen heißen Tee in einem Mehrwegbecher für die Busfahrt mit.",
+              "Planen Sie Pufferzeiten ein, da Schnee den Verkehr leicht verlangsamen kann."
+            ],
+            "hu": [
+              "Használja az ingyenes vonatokat mozgó, meleg kilátóként.",
+              "A luxemburgi vasútállomások télen jól kivilágítottak és biztonságosak.",
+              "Vigyen magával forró teát egy hordozható pohárban a buszútra.",
+              "Tervezzen be ráhagyást, mert a hóesés kissé lassíthatja a közlekedést."
+            ],
+            "ro": [
+              "Folosiți trenurile gratuite ca platforme de vizionare mobile și călduroase.",
+              "Gările din Luxemburg sunt bine iluminate și sigure pe timp de iarnă.",
+              "Luați un ceai fierbinte într-o cană termos pentru călătoria cu autobuzul.",
+              "Planificați timp suplimentar, deoarece zăpada poate încetini traficul."
+            ],
+            "en": [
+              "Use the free trains as mobile, warm viewing platforms for the landscape.",
+              "Railway stations in Luxembourg are well-lit and safe during winter evenings.",
+              "Bring a hot tea in a reusable cup for the bus ride to Fond-de-Gras.",
+              "Allow for buffer times as snow can slightly slow down public transport."
+            ]
+          }
+        }
       }
     }
   }

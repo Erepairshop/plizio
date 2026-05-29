@@ -362,6 +362,188 @@
           "Check the opening hours of Fryštát Chateau in advance.",
           "A small backpack is useful for carrying snacks and souvenirs."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Karwin beginnt grau, aber der Masaryk-Platz bietet unter den Arkaden guten Schutz. Mittags führt der Weg zum Schloss Fryštát, wo die Innenräume eine trockene Flucht in die Geschichte bieten. Am Nachmittag trotzen wir dem Regen im Park, während wir zur schiefen Kirche wandern. Den Tag lassen wir in den Kureinrichtungen von Darkov ausklingen, wo das Prasseln des Regens die Ruhe der Heilquellen unterstreicht.",
+            "hu": "A reggel Karviná főterén ér minket, ahol az árkádok alatt védve maradunk az esőtől. Délben a Fryštát-kastély belső tárlatai nyújtanak menedéket és kulturális élményt. Délután az esernyők alatt sétálunk a dőlt templom felé, figyelve a talaj süllyedésének nyomait. Az estét a Darkov gyógyfürdő környékén zárjuk, ahol a sós víz illata keveredik a friss, eső utáni levegővel.",
+            "ro": "Dimineața în Karviná începe sub umbrelă în Piața Masaryk, profitând de porțiunile acoperite. La prânz, interiorul castelului Fryštát oferă un refugiu uscat și o incursiune în istoria locală. După-amiaza este dedicată bisericii înclinate, unde ploaia accentuează atmosfera dramatică a locului. Seara se încheie la stațiunea Darkov, unde sunetul ploii completează perfect liniștea parcului balnear.",
+            "en": "The morning starts under the arcades of Masaryk Square, keeping us dry while admiring the architecture. At noon, the interior of Fryštát Chateau provides a perfect refuge from the rain. In the afternoon, we head to the leaning church, where the overcast sky adds to the unique atmosphere of the subsided landscape. The day ends at the Darkov Spa, where the sound of rain pairs well with the therapeutic surroundings."
+          },
+          "stops": [
+            {
+              "name": "Masaryk Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge an der Nordseite des Platzes.",
+                "hu": "Használja az északi oldal árkádos folyosóit a száraz nézelődéshez.",
+                "ro": "Folosiți arcadele din partea de nord a pieței pentru a rămâne uscați.",
+                "en": "Use the arcades on the north side of the square to stay dry."
+              }
+            },
+            {
+              "name": "Karviná Town Hall",
+              "tip_5lang": {
+                "de": "Das Renaissance-Portal ist auch bei Regen gut aus der Nähe zu sehen.",
+                "hu": "A reneszánsz kapuzat közelről is megcsodálható az esőben.",
+                "ro": "Portalul renascentist poate fi admirat de aproape chiar și pe ploaie.",
+                "en": "The Renaissance portal can be admired from close up even in the rain."
+              }
+            },
+            {
+              "name": "Church of St. Peter of Alcantara",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem feuchten Rasen rund um die schiefe Kirche.",
+                "hu": "Vigyázzon a csúszós fűre a dőlt templom környékén.",
+                "ro": "Atenție la iarba umedă din jurul bisericii înclinate.",
+                "en": "Be careful on the wet grass around the leaning church."
+              }
+            },
+            {
+              "name": "Fryštát Chateau",
+              "tip_5lang": {
+                "de": "Ideale Zeit für eine ausführliche Innenführung durch die Säle.",
+                "hu": "Ideális időpont egy hosszú belső vezetésre a kastélytermeiben.",
+                "ro": "Moment ideal pentru un tur detaliat al interioarelor castelului.",
+                "en": "Ideal time for an extensive indoor guided tour of the rooms."
+              }
+            },
+            {
+              "name": "Božena Němcová Park",
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen bieten zeitweise Schutz vor leichtem Niesel.",
+                "hu": "A sűrű lombozat ideiglenes védelmet nyújt a szemerkélő esőben.",
+                "ro": "Coroanele dese oferă adăpost temporar împotriva ploii ușoare.",
+                "en": "Dense tree canopies provide temporary shelter from light drizzle."
+              }
+            },
+            {
+              "name": "Darkov Spa",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Kurhaus für eine warme Jod-Sole-Anwendung.",
+                "hu": "Látogasson el a gyógyépületbe egy meleg jódos-sós kezelésre.",
+                "ro": "Vizitați clădirea băilor pentru un tratament cald cu iod și sare.",
+                "en": "Visit the spa building for a warm iodine-bromine treatment."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da es im offenen Gelände windig sein kann.",
+              "Die Arkaden am Masaryk-Platz sind der beste Treffpunkt bei Schauern.",
+              "Das Schloss Fryštát ist das wichtigste Indoor-Highlight für Regentage.",
+              "Tragen Sie wasserfeste Schuhe für den Weg zur schiefen Kirche."
+            ],
+            "hu": [
+              "Vigyen strapabíró esernyőt, mert a nyíltabb tereken fújhat a szél.",
+              "A főtér árkádjai a legjobb találkozási pontok zápor esetén.",
+              "A Fryštát-kastély a legfontosabb fedett látnivaló rossz időben.",
+              "A dőlt templom környékén vízálló cipő ajánlott a nedves talaj miatt."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, deoarece vântul poate fi puternic în spațiile deschise.",
+              "Arcadele din Piața Masaryk sunt cel mai bun punct de întâlnire în caz de aversă.",
+              "Castelul Fryštát este principala atracție de interior pentru zilele ploioase.",
+              "Purtați încălțăminte impermeabilă pentru zona bisericii înclinate."
+            ],
+            "en": [
+              "Take a sturdy umbrella, as it can be windy in open areas.",
+              "The arcades at Masaryk Square are the best meeting points during showers.",
+              "Fryštát Chateau is the key indoor highlight for rainy days.",
+              "Wear waterproof shoes for the path to the leaning church."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Karwin zeigt sich im Winter von seiner ruhigen Seite, wenn der Frost auf dem Masaryk-Platz glitzert. Mittags wärmen wir uns im Schloss auf, bevor wir die frostige Parklandschaft durchqueren. Am frühen Nachmittag besuchen wir die schiefe Kirche, deren Neigung im kahlen Winterlicht besonders markant wirkt. Da die Sonne früh untergeht, genießen wir das beleuchtete Darkov und die warme Atmosphäre der Kurhäuser.",
+            "hu": "A téli Karviná csendes és fagyos, a főtér kövei csillognak a dértől. Délben a kastély meleg termeiben pihenünk meg, majd átvágunk a zúzmarás parkon. Kora délután látogatjuk meg a dőlt templomot, melynek dőlése a kopár fák között még látványosabb. Mivel korán sötétedik, a kivilágított Darkov fürdő környékén fejezzük be a napot, élvezve a gyógyhely melegét.",
+            "ro": "Karviná iarna are un farmec auster, cu gerul sclipind în Piața Masaryk. La prânz ne încălzim în camerele castelului, înainte de o plimbare prin parcul înghețat. După-amiaza devreme vizităm biserica înclinată, a cărei asimetrie este mai vizibilă prin ramurile goale. Deoarece soarele apune devreme, ne bucurăm de luminile serii în Darkov și de confortul stațiunii.",
+            "en": "Karviná shows its quiet side in winter, with frost glistening on Masaryk Square. At noon, we warm up inside the chateau before crossing the frozen park landscape. In the early afternoon, we visit the leaning church, where its tilt looks even more striking against the bare winter trees. As the sun sets early, we enjoy the illuminated Darkov area and the warm spa atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Masaryk Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem historischen Pflaster.",
+                "hu": "Vigyázzon a csúszós foltokra a történelmi macskakövön.",
+                "ro": "Atenție la porțiunile alunecoase pe pavajul istoric.",
+                "en": "Watch out for slippery spots on the historical cobblestones."
+              }
+            },
+            {
+              "name": "Karviná Town Hall",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es gemütliche Cafés zum Aufwärmen.",
+                "hu": "A közelben barátságos kávézók várják a melegedni vágyókat.",
+                "ro": "Există cafenele primitoare în apropiere pentru a vă încălzi.",
+                "en": "There are cozy cafes nearby to warm up."
+              }
+            },
+            {
+              "name": "Church of St. Peter of Alcantara",
+              "tip_5lang": {
+                "de": "Besuch vor 16 Uhr planen, da es früh dunkel wird.",
+                "hu": "Tervezze a látogatást 16 óra elé a korai sötétedés miatt.",
+                "ro": "Planificați vizita înainte de ora 16, deoarece se întunecă devreme.",
+                "en": "Plan your visit before 4 PM due to the early sunset."
+              }
+            },
+            {
+              "name": "Fryštát Chateau",
+              "tip_5lang": {
+                "de": "Die Innenräume sind angenehm temperiert für eine Pause.",
+                "hu": "A belső terek kellemesen fűtöttek egy kis pihenőhöz.",
+                "ro": "Interioarele sunt încălzite, oferind o pauză binevenită.",
+                "en": "The interiors are comfortably heated for a break."
+              }
+            },
+            {
+              "name": "Božena Němcová Park",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk für eventuell verschneite Wege nötig.",
+                "hu": "Havas utak esetén stabil, meleg lábbeli szükséges.",
+                "ro": "Încălțăminte solidă este necesară pentru potecile eventual înzăpezite.",
+                "en": "Sturdy footwear is needed for potentially snowy paths."
+              }
+            },
+            {
+              "name": "Darkov Spa",
+              "tip_5lang": {
+                "de": "Genießen Sie die Abendbeleuchtung der historischen Kurbrücke.",
+                "hu": "Élvezze a történelmi gyógyhíd esti kivilágítását.",
+                "ro": "Bucurați-vă de iluminarea de seară a podului istoric din stațiune.",
+                "en": "Enjoy the evening illumination of the historical spa bridge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip für den Wechsel zwischen Drinnen und Draußen.",
+              "Die Sonne sinkt im Dezember bereits gegen 16:00 Uhr.",
+              "Warme Getränke sind in den Lokalen rund um den Platz erhältlich.",
+              "Der Weg zur schiefen Kirche kann bei Frost rutschig sein."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a kinti hideg és a benti fűtés közötti váltáshoz.",
+              "Decemberben a nap már délután 4 körül lemegy.",
+              "Meleg italok bőségesen kaphatók a főtér körüli helyeken.",
+              "A dőlt templomhoz vezető út fagy esetén csúszós lehet."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru tranziția între frigul de afară și căldura din interior.",
+              "Soarele apune deja în jurul orei 16:00 în luna decembrie.",
+              "Băuturi calde sunt disponibile în localurile din jurul pieței.",
+              "Drumul către biserica înclinată poate fi alunecos în caz de îngheț."
+            ],
+            "en": [
+              "Dress in layers for the transition between the cold outside and heated interiors.",
+              "The sun sets around 4 PM in December.",
+              "Warm drinks are readily available in the venues around the square.",
+              "The path to the leaning church can be slippery during frost."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +924,206 @@
           "Use the designated cycle paths wherever possible.",
           "Always lock your bike when leaving it unattended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Karwin bei Regen erfordert Vorsicht auf dem Kopfsteinpflaster des Masaryk-Platzes. Mittags steuern wir das Schloss an, um die Räder sicher abzustellen und trocken Kultur zu genießen. Die Route führt weiter über die Darkov-Brücke, wobei der Fluss Olsa bei Regen oft imposant anschwillt. Wir beenden die Tour an der schiefen Kirche, bevor wir schnell zurück in den trockenen Stadtkern radeln.",
+            "hu": "Az esős Karvinában való kerékpározás óvatosságot igényel a főtér macskakövein. Délben a kastély felé vesszük az irányt, ahol biztonságban hagyhatjuk a bringákat a látogatás idejére. Az útvonal a Darkov-hídon át vezet, ahol az Olza folyó esőben látványosan megduzzad. A túrát a dőlt templomnál zárjuk, majd gyorsan visszatekerünk a szárazabb belvárosba.",
+            "ro": "Ciclismul în Karviná pe ploaie necesită atenție sporită pe pavajul din piață. La prânz ne îndreptăm spre castel pentru o pauză uscată și un tur cultural. Traseul continuă peste podul Darkov, unde râul Olza capătă un aspect impunător sub ploaie. Încheiem tura la biserica înclinată, înainte de a pedala rapid înapoi spre centrul orașului.",
+            "en": "Cycling in Karviná during rain requires caution on the cobblestones of Masaryk Square. At noon, we head to the chateau to park the bikes and enjoy some dry culture. The route continues across the Darkov Bridge, with the Olza river often swelling impressively in the rain. We finish the tour at the leaning church before cycling back to the dry city center."
+          },
+          "stops": [
+            {
+              "name": "Masaryk Square",
+              "tip_5lang": {
+                "de": "Vorsicht, das Pflaster wird bei Nässe extrem rutschig.",
+                "hu": "Vigyázat, a macskakő vizesen rendkívül csúszós.",
+                "ro": "Atenție, pavajul devine extrem de alunecos când este ud.",
+                "en": "Caution, the cobblestones become extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Fryštát Chateau & Božena Němcová Park",
+              "tip_5lang": {
+                "de": "Unterstellmöglichkeiten für Räder beim Schlosseingang suchen.",
+                "hu": "Keressen fedett biciklitárolót a kastély bejáratánál.",
+                "ro": "Căutați locuri acoperite pentru biciclete lângă intrarea castelului.",
+                "en": "Look for covered bike parking near the chateau entrance."
+              }
+            },
+            {
+              "name": "Church of the Exaltation of the Holy Cross",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für einen Blick ins trockene Kirchenschiff.",
+                "hu": "Rövid megálló egy pillantásra a száraz templomhajóba.",
+                "ro": "O scurtă oprire pentru a vizita interiorul uscat al bisericii.",
+                "en": "Short stop for a look into the dry nave."
+              }
+            },
+            {
+              "name": "Darkov Bridge",
+              "tip_5lang": {
+                "de": "Absteigen und schieben, um auf den Metallteilen nicht zu rutschen.",
+                "hu": "Szálljon le és tolja a gépet, a fémrészek csúszhatnak.",
+                "ro": "Coborâți și împingeți bicicleta pentru a nu aluneca pe metal.",
+                "en": "Dismount and push to avoid slipping on metal parts."
+              }
+            },
+            {
+              "name": "Darkov Spa",
+              "tip_5lang": {
+                "de": "Pause im Kurcafé einlegen, um die Kleidung zu trocknen.",
+                "hu": "Tartson szünetet a gyógykávézóban a ruházat szárításához.",
+                "ro": "Faceți o pauză la cafenea pentru a vă usca hainele.",
+                "en": "Take a break at the spa cafe to dry your clothes."
+              }
+            },
+            {
+              "name": "Church of St. Peter of Alcantara",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Radfahren direkt auf dem nassen Gras.",
+                "hu": "Kerülje a kerékpározást közvetlenül a vizes fűvön.",
+                "ro": "Evitați să pedalați direct pe iarba udă.",
+                "en": "Avoid cycling directly on the wet grass."
+              }
+            },
+            {
+              "name": "Wind-down at Masaryk Square",
+              "tip_5lang": {
+                "de": "Belohnen Sie sich mit einem warmen Tee im Arkadencafé.",
+                "hu": "Jutalmazza meg magát egy forró teával az árkádok alatt.",
+                "ro": "Răsplătiți-vă cu un ceai cald la o cafenea sub arcade.",
+                "en": "Reward yourself with a warm tea at a cafe under the arcades."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei den Wegen durch den Park unerlässlich.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nassem Stein.",
+              "Nutzen Sie die Schlossbesichtigung als längere Regenpause.",
+              "Warnweste tragen, da die Sicht für Autofahrer eingeschränkt sein kann."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a parkon átvezető utakon.",
+              "Csökkentse kissé a guminyomást a jobb tapadásért a vizes kövön.",
+              "Használja a kastélylátogatást hosszabb esőszünetnek.",
+              "Viseljen láthatósági mellényt a korlátozott látási viszonyok miatt."
+            ],
+            "ro": [
+              "Aripile de protecție sunt esențiale pe potecile din parc.",
+              "Reduceți ușor presiunea în pneuri pentru aderență mai bună pe piatră.",
+              "Folosiți vizita la castel ca o pauză prelungită de ploaie.",
+              "Purtați vestă reflectorizantă, deoarece vizibilitatea este redusă."
+            ],
+            "en": [
+              "Mudguards are essential for the paths through the park.",
+              "Slightly reduce tire pressure for better grip on wet stones.",
+              "Use the chateau visit as a longer rain break.",
+              "Wear a hi-vis vest as visibility for drivers may be limited."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Winterradtour durch Karwin bietet klare Luft und frostige Aussichten. Morgens gleiten wir vorsichtig über den Masaryk-Platz zum Schloss Fryštát, wo wir die erste Aufwärmpause einlegen. Die Fahrt führt weiter zur Darkov-Brücke, deren Stahlkonstruktion bei Frost weiß glänzt. Vor Sonnenuntergang erreichen wir die schiefe Kirche, die einsam in der Winterlandschaft steht, bevor wir uns auf den Rückweg zum beleuchteten Zentrum machen.",
+            "hu": "A téli kerékpározás Karvinában friss levegőt és fagyos látványt kínál. Reggel óvatosan gurulunk át a főtéren a kastélyhoz az első melegedő szünetre. Az út a Darkov-hídhoz vezet, melynek acélszerkezete fehéren csillog a fagyban. Naplemente előtt érjük el a dőlt templomot, mely magányosan áll a téli tájban, majd visszatérünk a kivilágított központba.",
+            "ro": "O tură de iarnă cu bicicleta prin Karviná oferă aer curat și priveliști înghețate. Dimineața pedalăm cu grijă spre castel pentru prima pauză de încălzire. Traseul continuă spre podul Darkov, a cărui structură de oțel sclipește albă de la ger. Înainte de apus ajungem la biserica înclinată, solitară în peisajul de iarnă, apoi revenim spre centrul luminat.",
+            "en": "A winter bike tour through Karviná offers crisp air and frosty views. In the morning, we glide carefully across Masaryk Square to the chateau for our first warm-up break. The ride continues to Darkov Bridge, its steel structure glistening white in the frost. Before sunset, we reach the leaning church standing lonely in the winter landscape, then return to the illuminated center."
+          },
+          "stops": [
+            {
+              "name": "Masaryk Square",
+              "tip_5lang": {
+                "de": "Besonders in den Schattenbereichen auf Glatteis achten.",
+                "hu": "Különösen az árnyékos részeken figyeljen a jegesedésre.",
+                "ro": "Atenție la polei, în special în zonele umbrite.",
+                "en": "Watch out for black ice, especially in shaded areas."
+              }
+            },
+            {
+              "name": "Fryštát Chateau & Božena Němcová Park",
+              "tip_5lang": {
+                "de": "Die Parkwege werden geräumt, können aber festgefahren sein.",
+                "hu": "A parki utakat takarítják, de letaposott hó előfordulhat.",
+                "ro": "Potecile din parc sunt curățate, dar pot fi acoperite cu zăpadă.",
+                "en": "Park paths are cleared but may have packed snow."
+              }
+            },
+            {
+              "name": "Church of the Exaltation of the Holy Cross",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht, um die Kälte kurz zu vergessen.",
+                "hu": "Egy rövid megálló elég, hogy kicsit elfelejtse a hideget.",
+                "ro": "O scurtă oprire este suficientă pentru a uita de frig.",
+                "en": "A short stop is enough to briefly forget the cold."
+              }
+            },
+            {
+              "name": "Darkov Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Auffahrt auf die Brücke (Glatteisgefahr).",
+                "hu": "Vigyázzon a hídra való felhajtáskor (jegesedés veszélye).",
+                "ro": "Atenție la urcarea pe pod (pericol de polei).",
+                "en": "Careful when approaching the bridge (risk of ice)."
+              }
+            },
+            {
+              "name": "Darkov Spa",
+              "tip_5lang": {
+                "de": "Warmer Kräutertee im Kurort wirkt Wunder gegen kalte Hände.",
+                "hu": "A gyógyhelyi gyógytea csodákra képes a fázós kezekkel.",
+                "ro": "Un ceai cald de plante în stațiune face minuni pentru mâini.",
+                "en": "Warm herbal tea at the spa works wonders for cold hands."
+              }
+            },
+            {
+              "name": "Church of St. Peter of Alcantara",
+              "tip_5lang": {
+                "de": "Lichtcheck: Das Rücklicht sollte frühzeitig an sein.",
+                "hu": "Világítás-ellenőrzés: a hátsó lámpa időben legyen bekapcsolva.",
+                "ro": "Verificați luminile: stopul trebuie să fie aprins din timp.",
+                "en": "Light check: make sure your rear light is on early."
+              }
+            },
+            {
+              "name": "Wind-down at Masaryk Square",
+              "tip_5lang": {
+                "de": "Der Platz ist im Advent oft stimmungsvoll dekoriert.",
+                "hu": "A tér advent idején gyakran hangulatos díszítésben pompázik.",
+                "ro": "Piața este adesea decorată festiv în perioada adventului.",
+                "en": "The square is often atmospherically decorated during Advent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Handschuhe sind für die Abfahrten unerlässlich.",
+              "Prüfen Sie den Akku Ihres E-Bikes, da dieser bei Kälte schneller entlädt.",
+              "Planen Sie die Tour so, dass Sie um 16:30 Uhr zurück sind.",
+              "Vermeiden Sie hektische Lenkbewegungen auf gefrorenem Boden."
+            ],
+            "hu": [
+              "A termokesztyű elengedhetetlen a gurulós szakaszokon.",
+              "Ellenőrizze az e-bike akkumulátorát, mert hidegben gyorsabban merül.",
+              "Úgy tervezze a túrát, hogy fél 5-re visszaérjen.",
+              "Kerülje a hirtelen kormánymozdulatokat a fagyott talajon."
+            ],
+            "ro": [
+              "Mănușile termice sunt esențiale pentru coborâri.",
+              "Verificați bateria e-bike-ului, se descarcă mai repede la frig.",
+              "Planificați tura astfel încât să reveniți până la ora 16:30.",
+              "Evitați mișcările bruște de ghidon pe solul înghețat."
+            ],
+            "en": [
+              "Thermal gloves are essential for the descents.",
+              "Check your e-bike battery, it drains faster in the cold.",
+              "Plan the tour to be back by 4:30 PM.",
+              "Avoid sudden steering movements on frozen ground."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1480,188 @@
           "Do not leave valuables visible in the car.",
           "Allow enough time for traffic, especially during peak hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Karwin auch bei Regen bequem zu erkunden. Wir parken direkt am Masaryk-Platz und huschen unter die Arkaden. Mittags bietet das Schloss Fryštát eine trockene Oase der Kultur. Danach fahren wir zur schiefen Kirche, wobei das Auto als mobiler Unterstand zwischen den Fotostopps dient. Den Tag beenden wir im Kurviertel Darkov, wo man vom Parkplatz aus schnell ins Warme gelangt.",
+            "hu": "Autóval Karviná esőben is kényelmesen felfedezhető. Közvetlenül a főtéren parkolunk, és az árkádok alá húzódunk. Délben a Fryštát-kastély kínál száraz kulturális oázist. Ezután a dőlt templomhoz autózunk, ahol a kocsi mozgó menedékként szolgál a fotómegállók között. A napot a Darkov negyedben zárjuk, ahol a parkolóból gyorsan bejuthatunk a melegbe.",
+            "ro": "Cu mașina, Karviná este ușor de explorat chiar și pe ploaie. Parcăm chiar în Piața Masaryk și ne adăpostim sub arcade. La prânz, castelul Fryštát oferă o oază culturală uscată. Apoi conducem spre biserica înclinată, mașina servind drept refugiu mobil între opririle pentru poze. Încheiem ziua în zona balneară Darkov, unde accesul la interior este rapid de la parcare.",
+            "en": "By car, Karviná is easy to explore even in the rain. We park right at Masaryk Square and slip under the arcades. At noon, Fryštát Chateau offers a dry oasis of culture. Afterward, we drive to the leaning church, with the car acting as a mobile shelter between photo stops. We end the day in the Darkov spa district, where warm interiors are quickly accessible from the parking lot."
+          },
+          "stops": [
+            {
+              "name": "Cluster Start: Parking at Masaryk Square",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz, ideal um Besorgungen trocken zu erledigen.",
+                "hu": "Központi parkoló, ideális a szárazon elintézhető dolgokhoz.",
+                "ro": "Parcare centrală, ideală pentru a rezolva treburi fără a vă uda.",
+                "en": "Central parking, ideal for getting things done while staying dry."
+              }
+            },
+            {
+              "name": "Fryštát Chateau",
+              "tip_5lang": {
+                "de": "Parken Sie direkt vor dem Schlosspark-Eingang.",
+                "hu": "Parkoljon közvetlenül a kastélypark bejárata előtt.",
+                "ro": "Parcați chiar în fața intrării în parcul castelului.",
+                "en": "Park directly in front of the chateau park entrance."
+              }
+            },
+            {
+              "name": "Church of St. Peter of Alcantara",
+              "tip_5lang": {
+                "de": "Es gibt einen kleinen Parkplatz direkt bei der Kirche.",
+                "hu": "Közvetlenül a templomnál található egy kis parkoló.",
+                "ro": "Există o mică parcare chiar lângă biserică.",
+                "en": "There is a small parking lot right by the church."
+              }
+            },
+            {
+              "name": "Drive to Lázně Darkov Cluster",
+              "tip_5lang": {
+                "de": "Kurze Fahrt, die Scheibenheizung gegen Beschlagen nutzen.",
+                "hu": "Rövid út, használja a szélvédőfűtést a párásodás ellen.",
+                "ro": "Drum scurt, folosiți dezaburirea pentru parbriz.",
+                "en": "Short drive, use the windshield heater against fogging."
+              }
+            },
+            {
+              "name": "Darkov Bridge",
+              "tip_5lang": {
+                "de": "Bester Fotostopp aus dem Autofenster bei starkem Regen.",
+                "hu": "Legjobb fotómegálló az autóablakból erős eső esetén.",
+                "ro": "Cel mai bun punct foto din fereastra mașinii în caz de ploaie grea.",
+                "en": "Best photo stop from the car window during heavy rain."
+              }
+            },
+            {
+              "name": "Conclusion at Božena Němcová Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz beim Bootsverleih für kurze Wege.",
+                "hu": "Használja a csónakkikötőnél lévő parkolót a rövid utakhoz.",
+                "ro": "Folosiți parcarea de lângă debarcader pentru distanțe scurte.",
+                "en": "Use the parking by the boat rental for short walking distances."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Pfützen in den tiefer gelegenen Gebieten um die schiefe Kirche.",
+              "Parkmünzen bereithalten, viele Automaten sind nicht überdacht.",
+              "Nutzen Sie die Fahrtzeit zum Aufwärmen und Trocknen der Kleidung.",
+              "Die Sicht an der Darkov-Brücke kann durch Spritzwasser beeinträchtigt sein."
+            ],
+            "hu": [
+              "Ügyeljen a tócsákra a dőlt templom körüli mélyebben fekvő részeken.",
+              "Készítsen elő aprópénzt a parkoláshoz, sok automata nincs fedél alatt.",
+              "Használja az utazási időt a ruházat szárítására.",
+              "A Darkov-hídnál a felverődő víz ronthatja a látási viszonyokat."
+            ],
+            "ro": [
+              "Atenție la bălți în zonele joase din jurul bisericii înclinate.",
+              "Pregătiți monede pentru parcare, multe automate nu sunt acoperite.",
+              "Folosiți timpul de condus pentru a vă încălzi și a vă usca hainele.",
+              "Vizibilitatea la podul Darkov poate fi redusă de apa împroșcată."
+            ],
+            "en": [
+              "Watch out for puddles in the lower-lying areas around the leaning church.",
+              "Keep parking coins ready, as many meters are not covered.",
+              "Use the driving time to warm up and dry your clothes.",
+              "Visibility near Darkov Bridge may be affected by spray."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto die wärmste Basis für eine Tour durch Karwin. Wir starten am frostigen Masaryk-Platz und genießen die beheizten Innenräume des Schlosses zur Mittagszeit. Die Fahrt zur schiefen Kirche ist kurz und sicher, wobei man die Neigung auch bequem vom Wagen aus betrachten kann. Zum Abschluss besuchen wir das winterliche Darkov, wo die Kurhäuser eine gemütliche Atmosphäre ausstrahlen.",
+            "hu": "Télen az autó kínálja a legmelegebb bázist a karvinái túrához. A fagyos főtéren kezdünk, majd délben a kastély fűtött termeit élvezzük. A dőlt templomhoz vezető út rövid és biztonságos, a dőlést akár a kocsiból is kényelmesen megfigyelhetjük. Végezetül a téli Darkovot látogatjuk meg, ahol a gyógyépületek barátságos hangulatot árasztanak.",
+            "ro": "Iarna, mașina oferă cea mai caldă bază pentru un tur în Karviná. Începem în Piața Masaryk înghețată și ne bucurăm de interioarele încălzite ale castelului la prânz. Drumul spre biserica înclinată este scurt și sigur, asimetria putând fi observată și din mașină. La final vizităm zona Darkov, unde clădirile balneare emană o atmosferă primitoare.",
+            "en": "In winter, the car provides the warmest base for a tour through Karviná. We start at the frosty Masaryk Square and enjoy the heated interiors of the chateau at noon. The drive to the leaning church is short and safe, and the tilt can even be viewed comfortably from the vehicle. To finish, we visit wintery Darkov, where the spa buildings radiate a cozy atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Cluster Start: Parking at Masaryk Square",
+              "tip_5lang": {
+                "de": "Parkflächen können morgens noch glatt sein.",
+                "hu": "A parkolófelületek reggel még jegesek lehetnek.",
+                "ro": "Zonele de parcare pot fi încă alunecoase dimineața.",
+                "en": "Parking surfaces can still be slippery in the morning."
+              }
+            },
+            {
+              "name": "Fryštát Chateau",
+              "tip_5lang": {
+                "de": "Nahegelegene Parkplätze ermöglichen schnellen Zugang ins Warme.",
+                "hu": "A közeli parkolók gyors bejutást tesznek lehetővé a melegbe.",
+                "ro": "Parcările din apropiere permit accesul rapid la căldură.",
+                "en": "Nearby parking allows for quick access to the warmth."
+              }
+            },
+            {
+              "name": "Church of St. Peter of Alcantara",
+              "tip_5lang": {
+                "de": "Der Parkplatz bei der Kirche wird oft als letztes geräumt.",
+                "hu": "A templom melletti parkolót gyakran utoljára takarítják.",
+                "ro": "Parcarea de lângă biserică este adesea ultima curățată de zăpadă.",
+                "en": "The parking lot by the church is often the last to be cleared."
+              }
+            },
+            {
+              "name": "Drive to Lázně Darkov Cluster",
+              "tip_5lang": {
+                "de": "Vorsicht bei Frost auf den Nebenstraßen zum Kurort.",
+                "hu": "Vigyázzon a fagyra a gyógyhelyhez vezető mellékutakon.",
+                "ro": "Atenție la îngheț pe drumurile secundare spre stațiune.",
+                "en": "Watch out for frost on the side roads to the spa."
+              }
+            },
+            {
+              "name": "Darkov Bridge",
+              "tip_5lang": {
+                "de": "Kurzer Stopp am Straßenrand für ein Winterfoto möglich.",
+                "hu": "Rövid megállás az út szélén lehetséges egy téli fotóhoz.",
+                "ro": "O scurtă oprire pe marginea drumului este posibilă pentru o poză.",
+                "en": "A short stop on the roadside is possible for a winter photo."
+              }
+            },
+            {
+              "name": "Conclusion at Božena Němcová Park",
+              "tip_5lang": {
+                "de": "Die Parkplatzauffahrt kann bei Schnee tückisch sein.",
+                "hu": "A parkoló feljárója havas időben trükkös lehet.",
+                "ro": "Accesul în parcare poate fi dificil în caz de zăpadă.",
+                "en": "The parking entrance can be tricky during snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Wischwasser frostgeschützt ist.",
+              "Die Dunkelheit setzt früh ein, prüfen Sie alle Fahrzeuglichter.",
+              "In den Senken bei der schieften Kirche ist oft Nebel oder Glätte.",
+              "Nutzen Sie Parkhäuser, falls verfügbar, um Eiskratzen zu vermeiden."
+            ],
+            "hu": [
+              "Ellenőrizze, hogy a szélvédőmosó fagyálló-e.",
+              "Korán sötétedik, ellenőrizze a gépjármű összes lámpáját.",
+              "A dőlt templom körüli mélyedésekben gyakori a köd vagy a jegesedés.",
+              "Használja a parkolóházakat, ha van rá mód, a jégkaparás elkerülésére."
+            ],
+            "ro": [
+              "Asigurați-vă că lichidul de parbriz este rezistent la îngheț.",
+              "Întunericul se lasă devreme, verificați toate luminile mașinii.",
+              "În zonele joase de lângă biserica înclinată apare des ceața sau poleiul.",
+              "Folosiți parcările acoperite dacă sunt disponibile pentru a evita gheața."
+            ],
+            "en": [
+              "Make sure your windshield washer fluid is frost-resistant.",
+              "Darkness sets in early, check all vehicle lights.",
+              "Fog or ice is frequent in the hollows near the leaning church.",
+              "Use parking garages if available to avoid scraping ice."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2018,188 @@
           "A power bank for your smartphone is useful for navigation and schedule lookups.",
           "Validate your ticket at the start of your journey to avoid fines."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind an Regentagen in Karwin eine kluge Wahl. Vom Bahnhof gelangen wir schnell ins Zentrum zum Masaryk-Platz. Die Busverbindung zum Schloss Fryštát erspart uns lange Wege im Regen. Nachmittags bringt uns der Bus zur schiefen Kirche, wobei wir die Wartezeiten an den überdachten Haltestellen verbringen. Den Abschluss macht eine Fahrt nach Darkov, bevor wir bequem zum Bahnhof zurückkehren.",
+            "hu": "A tömegközlekedés okos választás az esős napokon Karvinában. A vasútállomásról gyorsan bejutunk a központba, a Masaryk-térre. A Fryštát-kastélyhoz közlekedő busz megkímél minket a hosszú esős gyaloglástól. Délután busszal megyünk a dőlt templomhoz, a várakozási időt fedett megállókban töltve. A napot egy darkovi utazás zárja, mielőtt kényelmesen visszatérnénk a pályaudvarra.",
+            "ro": "Transportul public este o alegere inteligentă în zilele ploioase în Karviná. De la gară ajungem rapid în centru, în Piața Masaryk. Autobuzul spre castelul Fryštát ne scutește de drumurile lungi prin ploaie. După-amiaza folosim autobuzul pentru biserica înclinată, așteptând în stațiile acoperite. Încheiem cu o călătorie spre Darkov, înainte de a reveni confortabil la gară.",
+            "en": "Public transport is a smart choice on rainy days in Karviná. From the station, we quickly reach the center at Masaryk Square. The bus connection to Fryštát Chateau saves us from long walks in the rain. In the afternoon, the bus takes us to the leaning church, while we spend wait times in covered shelters. The day ends with a trip to Darkov before a comfortable return to the station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Main Train/Bus Station",
+              "tip_5lang": {
+                "de": "Die Wartehalle bietet Schutz und aktuelle Abfahrtsinfos.",
+                "hu": "A várócsarnok védelmet és aktuális indulási infókat kínál.",
+                "ro": "Sala de așteptare oferă adăpost și informații actualizate.",
+                "en": "The waiting hall offers shelter and up-to-date departure info."
+              }
+            },
+            {
+              "name": "Center Cluster: Masaryk Square",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen im Zentrum sind meist überdacht.",
+                "hu": "A belvárosi buszmegállók többnyire fedettek.",
+                "ro": "Stațiile de autobuz din centru sunt în mare parte acoperite.",
+                "en": "The bus stops in the center are mostly covered."
+              }
+            },
+            {
+              "name": "Fryštát Chateau",
+              "tip_5lang": {
+                "de": "Haltestelle 'Fryštát, náměstí' ist nur wenige Schritte entfernt.",
+                "hu": "A 'Fryštát, náměstí' megálló csak pár lépésre van.",
+                "ro": "Stația 'Fryštát, náměstí' se află la doar câțiva pași distanță.",
+                "en": "The 'Fryštát, náměstí' stop is just a few steps away."
+              }
+            },
+            {
+              "name": "Trip to Lázně Darkov Cluster",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Linie 511 oder 512 für eine trockene Fahrt.",
+                "hu": "Használja az 511-es vagy 512-es járatot a száraz utazáshoz.",
+                "ro": "Folosiți liniile 511 sau 512 pentru o călătorie uscată.",
+                "en": "Use line 511 or 512 for a dry journey."
+              }
+            },
+            {
+              "name": "Darkov Bridge",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Lázně Darkov' liegt direkt beim Kurpark.",
+                "hu": "A 'Lázně Darkov' megálló közvetlenül a győgyparknál van.",
+                "ro": "Stația 'Lázně Darkov' este situată chiar lângă parcul balnear.",
+                "en": "The 'Lázně Darkov' stop is located right by the spa park."
+              }
+            },
+            {
+              "name": "Return to Center & St. Peter of Alcantara Church",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Doly, kostel' bringt Sie direkt zur Kirche.",
+                "hu": "A 'Doly, kostel' megálló közvetlenül a templomhoz visz.",
+                "ro": "Stația 'Doly, kostel' vă lasă chiar lângă biserică.",
+                "en": "The 'Doly, kostel' stop drops you right at the church."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die 'Můj vagon' oder 'IDOS' App für Echtzeit-Busdaten.",
+              "Die Busse in Karviná sind meist modern und gut beheizt.",
+              "An Sonntagen verkehren die Busse seltener, Fahrplan prüfen.",
+              "Halten Sie Kleingeld oder eine Kontaktlos-Karte für das Ticket bereit."
+            ],
+            "hu": [
+              "Töltse le a 'Můj vagon' vagy 'IDOS' appot a valós idejű adatokhoz.",
+              "A karvinái buszok modernek és jól fűtöttek.",
+              "Vasárnaponként a buszok ritkábban járnak, ellenőrizze a menetrendet.",
+              "Készítsen elő aprópénzt vagy érintős kártyát a jegyvásárláshoz."
+            ],
+            "ro": [
+              "Descărcați aplicația 'Můj vagon' sau 'IDOS' pentru date în timp real.",
+              "Autobuzele din Karviná sunt moderne și bine încălzite.",
+              "Duminica autobuzele circulă mai rar, verificați mersul autobuzelor.",
+              "Pregătiți mărunțiș sau un card contactless pentru bilet."
+            ],
+            "en": [
+              "Download the 'Můj vagon' or 'IDOS' app for real-time bus data.",
+              "Buses in Karviná are modern and well-heated.",
+              "Buses run less frequently on Sundays, check the timetable.",
+              "Have small change or a contactless card ready for the ticket."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn lässt sich Karwin im Winter ohne Sorgen um glatte Straßen erkunden. Wir starten am Bahnhof und erreichen schnell das Stadtzentrum. Die Mittagsstunden verbringen wir im Schlosshof, wobei der Bus uns direkt dorthin bringt. Vor dem frühen Einbruch der Dunkelheit besuchen wir die schiefe Kirche. Den Abend genießen wir im beleuchteten Darkov, bevor uns der Linienbus sicher zurück zum Bahnhof transportiert.",
+            "hu": "Busszal és vonattal Karviná télen is gond nélkül bejárható, anélkül, hogy a jeges utak miatt aggódnánk. A pályaudvarról indulva gyorsan elérjük a belvárost. A délutánt a kastélynál töltjük, ahová a busz közvetlenül elvisz minket. A korai sötétedés előtt látogatunk el a dőlt templomhoz. Az estét a kivilágított Darkovban élvezzük, mielőtt a menetrend szerinti járat visszavisz a vasútra.",
+            "ro": "Cu autobuzul și trenul, Karviná poate fi explorată iarna fără grija drumurilor alunecoase. Pornim de la gară și ajungem rapid în centrul orașului. Orele prânzului le petrecem la castel, autobuzul lăsându-ne chiar acolo. Înainte de lăsarea timpurie a întunericului vizităm biserica înclinată. Seara ne bucurăm de zona Darkov luminată, apoi autobuzul ne duce în siguranță înapoi la gară.",
+            "en": "With bus and train, Karviná can be explored in winter without worrying about slippery roads. We start at the station and quickly reach the city center. We spend the midday hours at the chateau, with the bus taking us directly there. Before the early onset of darkness, we visit the leaning church. We enjoy the evening in illuminated Darkov before the local bus transports us safely back to the station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Main Train/Bus Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizte Wartehalle bei Zugverspätungen.",
+                "hu": "Használja a fűtött várócsarnokot vonatpésés esetén.",
+                "ro": "Folosiți sala de așteptare încălzită în caz de întârzieri ale trenurilor.",
+                "en": "Use the heated waiting hall in case of train delays."
+              }
+            },
+            {
+              "name": "Center Cluster: Masaryk Square",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Haltestellen und den Cafés.",
+                "hu": "Rövid távolságok a megállók és a kávézók között.",
+                "ro": "Distanțe scurte între stații și cafenele.",
+                "en": "Short distances between stops and cafes."
+              }
+            },
+            {
+              "name": "Fryštát Chateau",
+              "tip_5lang": {
+                "de": "Die Busse fahren im 15-Minuten-Takt in Richtung Zentrum.",
+                "hu": "A buszok 15 percenként járnak a központ irányába.",
+                "ro": "Autobuzele circulă la fiecare 15 minute spre centru.",
+                "en": "Buses run every 15 minutes towards the center."
+              }
+            },
+            {
+              "name": "Trip to Lázně Darkov Cluster",
+              "tip_5lang": {
+                "de": "Warme Kleidung für die kurzen Fußwege ab der Haltestelle.",
+                "hu": "Meleg ruházat szükséges a megállótól számított rövid sétához.",
+                "ro": "Îmbrăcăminte groasă necesară pentru scurta plimbare de la stație.",
+                "en": "Warm clothing is needed for the short walks from the stop."
+              }
+            },
+            {
+              "name": "Darkov Bridge",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist beleuchtet und auch abends sicher.",
+                "hu": "A megálló kivilágított és este is biztonságos.",
+                "ro": "Stația este iluminată și sigură chiar și seara.",
+                "en": "The stop is illuminated and safe even in the evening."
+              }
+            },
+            {
+              "name": "Return to Center & St. Peter of Alcantara Church",
+              "tip_5lang": {
+                "de": "Letzte Rückfahrt vor 19 Uhr prüfen (Wochenende).",
+                "hu": "Ellenőrizze az utolsó visszautat 19 óra előtt (hétvégén).",
+                "ro": "Verificați ultima cursă de întoarcere înainte de ora 19 (weekend).",
+                "en": "Check the last return trip before 7 PM (weekends)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haltestellen können bei Schneefall glatt sein, Vorsicht beim Einsteigen.",
+              "Die IDOS-App zeigt auch Verspätungen durch Wintereinbrüche an.",
+              "Sammelkarten (ODISka) machen das Umsteigen günstiger.",
+              "Abends sind die Busse oft leerer und sehr gemütlich temperiert."
+            ],
+            "hu": [
+              "A megállók havazáskor csúszhatnak, vigyázzon a felszálláskor.",
+              "Az IDOS app jelzi a tél miatti esetleges késéseket is.",
+              "A gyűjtőkártyák (ODISka) olcsóbbá teszik az átszállást.",
+              "Este a buszok gyakran üresebbek és kellemesen melegek."
+            ],
+            "ro": [
+              "Stațiile pot fi alunecoase când ninge, atenție la urcare.",
+              "Aplicația IDOS arată și întârzierile cauzate de condițiile de iarnă.",
+              "Cardurile de transport (ODISka) fac transferurile mai ieftine.",
+              "Seara autobuzele sunt adesea mai goale și foarte bine încălzite."
+            ],
+            "en": [
+              "Stops can be slippery during snowfall, be careful when boarding.",
+              "The IDOS app also shows delays due to winter weather.",
+              "Transport cards (ODISka) make transfers cheaper.",
+              "In the evening, buses are often less crowded and very comfortably heated."
+            ]
+          }
+        }
       }
     }
   }

@@ -306,6 +306,188 @@
           "The parks can be muddy after rain, so choose your footwear accordingly.",
           "Check St Alphege's Church opening times as it may be closed for services."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im überdachten Touchwood, um dem Regen zu entgehen. Mittags bieten die St. Alphege's Church und das Core Theatre trockene Kulturräume. Nachmittags führt der Weg durch die erfrischend feuchten Malvern und Brueton Parks, wo die Natur besonders intensiv duftet. Den Abend lassen Sie im Tudor Grange Park ausklingen, während die Lichter sich in den Pfützen spiegeln.",
+            "hu": "Kezdje a napot a fedett Touchwood központban, elkerülve az esőt. Délben a St. Alphege templom és a Core Theatre nyújt száraz menedéket. Délután egy frissítő, bár párás séta vár a Malvern és Brueton parkokban, ahol az eső utáni természet illata dominál. Az estét a Tudor Grange parkban zárja, ahol az utcai lámpák fénye megcsillan a vizes aszfalton.",
+            "ro": "Începeți ziua în confortul acoperit de la Touchwood, evitând ploaia. La prânz, Biserica St. Alphege și Teatrul Core oferă spații culturale uscate. După-amiaza include o plimbare revigorantă, deși umedă, prin parcurile Malvern și Brueton. Seara se încheie în parcul Tudor Grange, unde luminile stradale se reflectă frumos în bălțile de pe alei.",
+            "en": "Start your day in the sheltered comfort of Touchwood, perfect for dodging showers. At midday, St Alphege's Church and The Core Theatre provide dry cultural havens. The afternoon involves a refreshing, albeit damp, trek through Malvern and Brueton Parks. Evening concludes at Tudor Grange Park, where the city lights glisten on the wet surfaces."
+          },
+          "stops": [
+            {
+              "name": "Touchwood Shopping Centre",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um trocken zu bleiben.",
+                "hu": "Tökéletes hely, hogy száraz maradjon.",
+                "ro": "Locul perfect pentru a rămâne uscat.",
+                "en": "Perfect place to stay dry."
+              }
+            },
+            {
+              "name": "St Alphege's Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im Trockenen.",
+                "hu": "Csodálja az építészetet a szárazban.",
+                "ro": "Admirați arhitectura la adăpost.",
+                "en": "Admire the architecture while staying dry."
+              }
+            },
+            {
+              "name": "The Core Theatre",
+              "tip_5lang": {
+                "de": "Kurze Pause im Foyer bei starkem Regen.",
+                "hu": "Rövid pihenő a lobbyban erős esőben.",
+                "ro": "Scurtă pauză în foaier în caz de ploaie.",
+                "en": "Quick break in the foyer during heavy rain."
+              }
+            },
+            {
+              "name": "Malvern Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind weniger matschig.",
+                "hu": "Az aszfaltozott utak kevésbé sárosak.",
+                "ro": "Potecile asfaltate sunt mai puțin noroioase.",
+                "en": "Paved paths are less muddy."
+              }
+            },
+            {
+              "name": "Brueton Park",
+              "tip_5lang": {
+                "de": "Das Seeufer wirkt bei Regen mystisch.",
+                "hu": "A tópart esőben misztikus hangulatú.",
+                "ro": "Malul lacului are o atmosferă mistică.",
+                "en": "The lakeside has a mystical vibe in the rain."
+              }
+            },
+            {
+              "name": "Tudor Grange Park",
+              "tip_5lang": {
+                "de": "Regenschirm für die offeneren Flächen nötig.",
+                "hu": "Esernyő kell a nyíltabb területeken.",
+                "ro": "Umbrela este necesară în zonele deschise.",
+                "en": "Umbrella needed for the open areas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Touchwood als zentralen Knotenpunkt für trockene Pausen.",
+              "Tragen Sie wasserfeste Schuhe für die Parkabschnitte.",
+              "Die Kirche bietet eine ruhige, überdachte Atmosphäre.",
+              "Das Theaterfoyer ist ideal, um einen Schauer abzuwarten."
+            ],
+            "hu": [
+              "Használja a Touchwoodot központi menedékként az esőben.",
+              "Viseljen vízálló cipőt a parki szakaszokhoz.",
+              "A templom csendes és fedett pihenőhelyet kínál.",
+              "A színház előcsarnoka ideális egy zápor kivárásához."
+            ],
+            "ro": [
+              "Folosiți Touchwood ca punct central pentru pauze uscate.",
+              "Purtați încălțăminte impermeabilă pentru secțiunile din parcuri.",
+              "Biserica oferă o atmosferă liniștită și adăpostită.",
+              "Foaierul teatrului este ideal pentru a aștepta trecerea unei ploi."
+            ],
+            "en": [
+              "Use Touchwood as a central hub for dry breaks.",
+              "Wear waterproof shoes for the park sections.",
+              "The church offers a quiet, sheltered atmosphere.",
+              "The theatre foyer is ideal for waiting out a heavy shower."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt im gemütlichen Touchwood. Mittags wärmen Sie sich in der historischen Kirche und im Theater auf. Der Nachmittag bietet klare Winterluft in den Malvern und Brueton Parks, ideal für einen zügigen Spaziergang. Da es früh dunkel wird, sorgt die Abenddämmerung im Tudor Grange Park für eine stimmungsvolle Atmosphäre vor dem Abendessen.",
+            "hu": "Friss téli reggel indul a barátságos Touchwoodban. Délben a történelmi templomban és a színházban melegedhet fel. A délután tiszta téli levegőt kínál a Malvern és Brueton parkokban, ami ideális egy tempós sétához. Mivel korán sötétedik, a Tudor Grange park szürkületi fényei hangulatos lezárást adnak a napnak.",
+            "ro": "O dimineață răcoroasă de iarnă începe în confortabilul Touchwood. La prânz, vă puteți încălzi în biserica istorică și la teatru. După-amiaza oferă aer curat de iarnă în parcurile Malvern și Brueton, ideal pentru o plimbare vioaie. Deoarece se întunecă devreme, amurgul din parcul Tudor Grange oferă o atmosferă deosebită.",
+            "en": "A crisp winter morning starts in the cozy Touchwood. At midday, warm up inside the historic church and theatre. The afternoon offers clear winter air in Malvern and Brueton Parks, ideal for a brisk walk. As darkness falls early, the twilight in Tudor Grange Park creates a moody atmosphere before dinner."
+          },
+          "stops": [
+            {
+              "name": "Touchwood Shopping Centre",
+              "tip_5lang": {
+                "de": "Genießen Sie ein heißes Getränk im Warmen.",
+                "hu": "Élvezzen egy forró italt a melegben.",
+                "ro": "Savurați o băutură caldă la căldură.",
+                "en": "Enjoy a hot drink in the warmth."
+              }
+            },
+            {
+              "name": "St Alphege's Church",
+              "tip_5lang": {
+                "de": "In historischen Mauern ist es oft kühl.",
+                "hu": "A történelmi falak között gyakran hűvös van.",
+                "ro": "Zidurile istorice pot fi destul de reci.",
+                "en": "It can be chilly inside historic walls."
+              }
+            },
+            {
+              "name": "The Core Theatre",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine Aufwärmpause.",
+                "hu": "Tökéletes hely egy kis melegedéshez.",
+                "ro": "Locul perfect pentru o pauză de încălzire.",
+                "en": "Perfect spot for a warming break."
+              }
+            },
+            {
+              "name": "Malvern Park",
+              "tip_5lang": {
+                "de": "Der Frost auf den Wiesen sieht magisch aus.",
+                "hu": "A zúzmarás fű látványa varázslatos.",
+                "ro": "Bruma pe iarbă arată magic.",
+                "en": "The frost on the grass looks magical."
+              }
+            },
+            {
+              "name": "Brueton Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen am Wasser.",
+                "hu": "Vigyázat, a vízparton csúszós lehet az út.",
+                "ro": "Atenție la porțiunile alunecoase de lângă apă.",
+                "en": "Watch out for slippery patches near the water."
+              }
+            },
+            {
+              "name": "Tudor Grange Park",
+              "tip_5lang": {
+                "de": "Ab 16:00 Uhr wird es hier dunkel.",
+                "hu": "Délután 4 után már sötétedik.",
+                "ro": "Se întunecă după ora 16:00.",
+                "en": "It gets dark here after 4 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schichten, um für drinnen und draußen bereit zu sein.",
+              "Planen Sie die Parkbesuche vor 16:00 Uhr ein.",
+              "Ein Schal ist wegen des Winds auf den Freiflächen ratsam.",
+              "Nutzen Sie die Cafés im Touchwood zum Aufwärmen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a kinti és benti helyszínekhez.",
+              "A parklátogatást tervezze délután 4 előttre.",
+              "A nyílt tereken a szél miatt sál ajánlott.",
+              "Használja a Touchwood kávézóit melegedéshez."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru interior și exterior.",
+              "Planificați vizitarea parcurilor înainte de ora 16:00.",
+              "Se recomandă un fular din cauza vântului în zonele deschise.",
+              "Folosiți cafenelele din Touchwood pentru a vă încălzi."
+            ],
+            "en": [
+              "Wear layers to be ready for both indoor and outdoor stops.",
+              "Plan your park visits before 4 PM sunset.",
+              "A scarf is recommended due to wind in open areas.",
+              "Use the cafes in Touchwood to warm up."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -606,6 +788,188 @@
           "Some paths in the parks are shared, so be mindful of pedestrians.",
           "Plan your route in advance as some roads can be busy."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet Solihull gute Radwege. Am Vormittag geht es durch den Tudor Grange Park zur Kirche. Mittags bietet Touchwood einen trockenen Stopp für Besorgungen. Der Nachmittag führt durch die Parks Malvern und Brueton, wo Vorsicht auf nassem Laub geboten ist. Den Tag beenden Sie mit einer Fahrt zum Shirley Park, wobei Schutzbleche heute Ihr bester Freund sind.",
+            "hu": "Az eső ellenére Solihull jó kerékpárutakat kínál. Délelőtt a Tudor Grange parkon át tekerhet a templomhoz. Délben a Touchwood száraz pihenőt nyújt. Délután a Malvern és Brueton parkokon át vezet az út, ahol vigyázni kell a nedves leveleken. A napot a Shirley park felé zárja; a sárvédő ma a legjobb barátja.",
+            "ro": "În ciuda ploii, Solihull oferă piste bune de biciclete. Dimineața treceți prin parcul Tudor Grange spre biserică. La prânz, Touchwood oferă o oprire uscată. După-amiaza continuă prin parcurile Malvern și Brueton, unde trebuie atenție la frunzele ude. Încheiați ziua cu o plimbare spre parcul Shirley; aripile de protecție sunt esențiale azi.",
+            "en": "Despite the rain, Solihull offers decent cycling paths. The morning starts through Tudor Grange towards the church. At midday, Touchwood provides a dry stop for errands. The afternoon leads through Malvern and Brueton Parks, where caution is needed on wet leaves. End the day with a ride to Shirley Park; mudguards are your best friend today."
+          },
+          "stops": [
+            {
+              "name": "Tudor Grange Park",
+              "tip_5lang": {
+                "de": "Vorsicht in scharfen Kurven auf nassem Asphalt.",
+                "hu": "Vigyázat az éles kanyarokban a vizes aszfalton.",
+                "ro": "Atenție la virajele strânse pe asfalt ud.",
+                "en": "Caution in sharp turns on wet asphalt."
+              }
+            },
+            {
+              "name": "St Alphege's Church",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter Bäume ab.",
+                "hu": "Parkoljon a fák alá a kerékpárral.",
+                "ro": "Parcați bicicleta sub copaci.",
+                "en": "Park your bike under the trees."
+              }
+            },
+            {
+              "name": "Touchwood",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe suchen.",
+                "hu": "Keressen fedett biciklitárolót a közelben.",
+                "ro": "Căutați rastele de biciclete acoperite în apropiere.",
+                "en": "Look for sheltered bike racks nearby."
+              }
+            },
+            {
+              "name": "Malvern Park",
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig vor Kreuzungen.",
+                "hu": "Fékezzen időben a kereszteződések előtt.",
+                "ro": "Frânați din timp înainte de intersecții.",
+                "en": "Brake early before intersections."
+              }
+            },
+            {
+              "name": "Brueton Park",
+              "tip_5lang": {
+                "de": "Pfützen können tiefer sein als sie aussehen.",
+                "hu": "A tócsák mélyebbek lehetnek, mint látszanak.",
+                "ro": "Bălțile pot fi mai adânci decât par.",
+                "en": "Puddles can be deeper than they look."
+              }
+            },
+            {
+              "name": "Shirley Park",
+              "tip_5lang": {
+                "de": "Ein nasser Sattel lässt sich leicht abwischen.",
+                "hu": "A vizes nyerget könnyű letörölni.",
+                "ro": "Șeaua udă se șterge ușor.",
+                "en": "A wet saddle is easily wiped down."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und Regenhose.",
+              "Vermeiden Sie das Überfahren von Fahrbahnmarkierungen bei Nässe.",
+              "Stellen Sie sicher, dass Ihre Bremsen gut gewartet sind.",
+              "Verwenden Sie helle Lichter, auch tagsüber bei Regen."
+            ],
+            "hu": [
+              "Viseljen teljes esőkabátot és esőnadrágot.",
+              "Kerülje az útburkolati jeleken való áthaladást nedves időben.",
+              "Győződjön meg róla, hogy a fékek jól működnek.",
+              "Használjon erős lámpákat, nappali esőben is."
+            ],
+            "ro": [
+              "Purtați o jachetă și pantaloni de ploaie complet impermeabili.",
+              "Evitați să treceți peste marcajele rutiere când sunt ude.",
+              "Asigurați-vă că frânele sunt bine întreținute.",
+              "Folosiți lumini strălucitoare, chiar și ziua pe ploaie."
+            ],
+            "en": [
+              "Wear a full waterproof jacket and trousers.",
+              "Avoid riding directly over road markings when wet.",
+              "Ensure your brakes are in top condition.",
+              "Use bright lights even during daytime rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalte, klare Luft begleitet Ihre Radtour durch Solihull. Vormittags wärmt die Bewegung im Tudor Grange Park. Ein langer Stopp im Touchwood um die Mittagszeit ist ideal, um die Finger aufzuwärmen. Nachmittags geht es durch die frostige Landschaft der Parks Malvern und Brueton. Beenden Sie die Tour in Shirley, bevor die eisige Abendluft und die Dunkelheit einsetzen.",
+            "hu": "Hideg, tiszta levegő kíséri kerékpártúráját Solihullban. Délelőtt a mozgás felmelegíti a Tudor Grange parkban. Egy hosszabb megálló a Touchwoodban délidőben ideális az ujjak felmelegítésére. Délután a Malvern és Brueton parkok deres tájain tekerhet át. Zárja a túrát Shirley-ben, mielőtt beáll a jeges esti levegő és a sötétség.",
+            "ro": "Aerul rece și curat vă însoțește în tura cu bicicleta prin Solihull. Dimineața, mișcarea vă va încălzi în parcul Tudor Grange. O oprire lungă la Touchwood la prânz este ideală pentru a vă încălzi degetele. După-amiaza treceți prin peisajul înghețat al parcurilor Malvern și Brueton. Încheiați tura în Shirley înainte de lăsarea gerului de seară.",
+            "en": "Cold, crisp air accompanies your cycling tour through Solihull. In the morning, movement warms you up in Tudor Grange Park. A long stop at Touchwood around midday is ideal for warming up cold fingers. The afternoon takes you through the frosty landscape of Malvern and Brueton Parks. Finish the tour in Shirley before the icy evening air and darkness set in."
+          },
+          "stops": [
+            {
+              "name": "Tudor Grange Park",
+              "tip_5lang": {
+                "de": "Handschuhe sind bei diesem Fahrtwind Pflicht.",
+                "hu": "A kesztyű kötelező a menetszélben.",
+                "ro": "Mănușile sunt obligatorii din cauza vântului.",
+                "en": "Gloves are mandatory against the wind chill."
+              }
+            },
+            {
+              "name": "St Alphege's Church",
+              "tip_5lang": {
+                "de": "Vorsicht auf Kopfsteinpflaster bei Frost.",
+                "hu": "Vigyázat a macskakövön fagyos időben.",
+                "ro": "Atenție pe piatra cubică în caz de îngheț.",
+                "en": "Caution on cobblestones during frost."
+              }
+            },
+            {
+              "name": "Touchwood",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit zum Aufwärmen.",
+                "hu": "Használja ki az időt a melegedésre.",
+                "ro": "Folosiți timpul pentru a vă încălzi.",
+                "en": "Take the time to warm up inside."
+              }
+            },
+            {
+              "name": "Malvern Park",
+              "tip_5lang": {
+                "de": "Tiefe Sonne kann Radfahrer blenden.",
+                "hu": "Az alacsony nap elvakíthatja a biciklistát.",
+                "ro": "Soarele jos poate orbi bicicliștii.",
+                "en": "Low winter sun can blind cyclists."
+              }
+            },
+            {
+              "name": "Brueton Park",
+              "tip_5lang": {
+                "de": "Brücken über das Wasser können glatt sein.",
+                "hu": "A vízi hidak jegesek és csúszósak lehetnek.",
+                "ro": "Podurile peste apă pot fi alunecoase.",
+                "en": "Bridges over water can be slippery."
+              }
+            },
+            {
+              "name": "Shirley Park",
+              "tip_5lang": {
+                "de": "Beleuchtung für die Heimfahrt prüfen.",
+                "hu": "Ellenőrizze a világítást a hazatéréshez.",
+                "ro": "Verificați luminile pentru drumul spre casă.",
+                "en": "Check your lights for the ride home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung und warme Socken.",
+              "Achten Sie auf schwarzes Eis auf den Parkwegen.",
+              "Der Akku Ihres E-Bikes hält bei Kälte weniger lange.",
+              "Verkürzen Sie die Standzeiten im Freien."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot és meleg zoknit.",
+              "Ügyeljen a fekete jégre a parki utakon.",
+              "Az elektromos kerékpár akkumulátora kevesebbet bír hidegben.",
+              "Rövidítse le a szabadban töltött várakozási időt."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt și șosete groase.",
+              "Atenție la gheața neagră pe aleile din parcuri.",
+              "Bateria bicicletei electrice durează mai puțin la frig.",
+              "Scurtați perioadele de staționare în aer liber."
+            ],
+            "en": [
+              "Wear windproof clothing and warm socks.",
+              "Watch out for black ice on park paths.",
+              "E-bike batteries drain faster in the cold.",
+              "Minimize time spent standing still outdoors."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -930,6 +1294,206 @@
           "Check opening times for all attractions as they can vary seasonally.",
           "Factor in extra money for parking in the town centre and at attractions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto lässt sich der Regen in Solihull bequem ignorieren. Vormittags besuchen Sie die historischen Häuser Baddesley Clinton und Packwood House, wo Sie meist drinnen sind. Mittags wartet das riesige National Motorcycle Museum, ein perfekter Ort für regnerische Stunden. Nachmittags parken Sie trocken im Touchwood-Parkhaus und machen einen kurzen Abstecher zur Kirche, bevor der Tag bei einem gemütlichen Abendessen endet.",
+            "hu": "Autóval kényelmesen figyelmen kívül hagyható a solihulli eső. Délelőtt a Baddesley Clinton és Packwood házakat látogatja meg, ahol többnyire bent maradhat. Délben a hatalmas Motoros Múzeum várja, ami tökéletes hely az esős órákra. Délután a Touchwood parkolóházában szárazon parkolhat, majd tehet egy rövid kitérőt a templomhoz, mielőtt a nap egy kellemes vacsorával zárul.",
+            "ro": "Cu mașina, ploaia din Solihull poate fi ignorată confortabil. Dimineața vizitați casele istorice Baddesley Clinton și Packwood House, stând mai mult în interior. La prânz vă așteaptă uriașul Muzeu al Motocicletelor, un loc perfect pentru orele ploioase. După-amiaza parcați la adăpost în parcarea Touchwood și faceți o scurtă vizită la biserică înainte de cină.",
+            "en": "By car, the rain in Solihull is easily ignored. Spend the morning at Baddesley Clinton and Packwood House, staying mostly indoors. At midday, the massive National Motorcycle Museum is a perfect refuge for rainy hours. In the afternoon, park in the dry Touchwood car park and take a quick trip to the church before ending the day with a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Baddesley Clinton",
+              "tip_5lang": {
+                "de": "Parkplatz ist nah am Eingang.",
+                "hu": "A parkoló közel van a bejárathoz.",
+                "ro": "Parcarea este aproape de intrare.",
+                "en": "Parking is close to the entrance."
+              }
+            },
+            {
+              "name": "Packwood House",
+              "tip_5lang": {
+                "de": "Trockener Weg vom Auto zum Haus.",
+                "hu": "Száraz út az autótól a házig.",
+                "ro": "Drum uscat de la mașină la casă.",
+                "en": "Short, dry walk from car to house."
+              }
+            },
+            {
+              "name": "National Motorcycle Museum",
+              "tip_5lang": {
+                "de": "Riesige Innenfläche, komplett trocken.",
+                "hu": "Hatalmas benti terület, teljesen száraz.",
+                "ro": "Spațiu interior uriaș, complet uscat.",
+                "en": "Huge indoor area, completely dry."
+              }
+            },
+            {
+              "name": "Touchwood Centre (Parking)",
+              "tip_5lang": {
+                "de": "Direkter Zugang zum Einkaufszentrum.",
+                "hu": "Közvetlen bejárat a bevásárlóközpontba.",
+                "ro": "Acces direct în centrul comercial.",
+                "en": "Direct access to the shopping centre."
+              }
+            },
+            {
+              "name": "St Alphege's Church",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz nötig.",
+                "hu": "Rövid futás kell a parkolótól.",
+                "ro": "Este necesar un scurt sprint de la parcare.",
+                "en": "Short sprint from the car might be needed."
+              }
+            },
+            {
+              "name": "Malvern Park",
+              "tip_5lang": {
+                "de": "Vom Auto aus die Aussicht genießen.",
+                "hu": "Élvezze a kilátást az autóból.",
+                "ro": "Bucurați-vă de priveliște din mașină.",
+                "en": "Enjoy the view from the comfort of your car."
+              }
+            },
+            {
+              "name": "Dinner in Town Centre",
+              "tip_5lang": {
+                "de": "Parkhaus Touchwood nutzen.",
+                "hu": "Használja a Touchwood parkolóházat.",
+                "ro": "Folosiți parcarea Touchwood.",
+                "en": "Use the Touchwood multi-storey car park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser im Stadtzentrum für trockene Wege.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Die Zufahrtswege zu den historischen Häusern können eng sein.",
+              "Planen Sie mehr Zeit für den Verkehr bei Regen ein."
+            ],
+            "hu": [
+              "Használja a belvárosi parkolóházakat a száraz közlekedéshez.",
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "A történelmi házakhoz vezető utak keskenyek lehetnek.",
+              "Számoljon több idővel a forgalomra esőben."
+            ],
+            "ro": [
+              "Folosiți parcările etajate din centru pentru acces uscat.",
+              "Verificați ștergătoarele înainte de plecare.",
+              "Drumurile spre casele istorice pot fi înguste.",
+              "Planificați mai mult timp pentru trafic pe ploaie."
+            ],
+            "en": [
+              "Use multi-storey car parks for dry access to shops.",
+              "Check your wipers before setting off.",
+              "Access roads to historic houses can be narrow and slippery.",
+              "Allow extra time for traffic during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine gemütliche Wintertour im beheizten Auto. Die historischen Anwesen Baddesley Clinton und Packwood House strahlen im Winter eine besondere Ruhe aus. Mittags bietet das Motorcycle Museum stundenlange Unterhaltung im Warmen. Nachmittags erledigen Sie Einkäufe im festlich beleuchteten Touchwood, bevor Sie den Tag bei einem warmen Abendessen im Stadtzentrum ausklingen lassen.",
+            "hu": "Élvezze a kényelmes téli túrát a fűtött autóban. A Baddesley Clinton és Packwood házak télen különleges nyugalmat árasztanak. Délben a Motoros Múzeum órákig tartó szórakozást nyújt a melegben. Délután a díszesen kivilágított Touchwoodban vásárolhat be, majd a napot egy meleg vacsorával zárhatja a belvárosban.",
+            "ro": "Bucurați-vă de o tură confortabilă de iarnă în mașina încălzită. Domeniile istorice Baddesley Clinton și Packwood House emană o liniște aparte iarna. La prânz, Muzeul Motocicletelor oferă divertisment la căldură. După-amiaza puteți face cumpărături în Touchwood, luminat festiv, înainte de o cină caldă în centru.",
+            "en": "Enjoy a cozy winter tour in the comfort of your heated car. The historic estates of Baddesley Clinton and Packwood House radiate a special peace in winter. At midday, the Motorcycle Museum offers hours of indoor entertainment. In the afternoon, enjoy shopping in the festively lit Touchwood before ending the day with a warm dinner in the town centre."
+          },
+          "stops": [
+            {
+              "name": "Baddesley Clinton",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten.",
+                "hu": "Ellenőrizze a téli nyitvatartást.",
+                "ro": "Verificați programul de iarnă.",
+                "en": "Check the winter opening hours."
+              }
+            },
+            {
+              "name": "Packwood House",
+              "tip_5lang": {
+                "de": "Die Gärten sind oft gefroren.",
+                "hu": "A kertek gyakran fagyottak.",
+                "ro": "Grădinile sunt adesea înghețate.",
+                "en": "The gardens are often frosted over."
+              }
+            },
+            {
+              "name": "National Motorcycle Museum",
+              "tip_5lang": {
+                "de": "Gut beheizte Ausstellungsräume.",
+                "hu": "Jól fűtött kiállítóterek.",
+                "ro": "Săli de expoziție bine încălzite.",
+                "en": "Well-heated exhibition halls."
+              }
+            },
+            {
+              "name": "Touchwood Centre (Parking)",
+              "tip_5lang": {
+                "de": "Vermeiden Sie die Kälte im Parkhaus.",
+                "hu": "Kerülje el a hideget a parkolóházban.",
+                "ro": "Evitați frigul folosind parcarea acoperită.",
+                "en": "Avoid the cold by using the covered car park."
+              }
+            },
+            {
+              "name": "St Alphege's Church",
+              "tip_5lang": {
+                "de": "Warme Kleidung für die Kirche nötig.",
+                "hu": "Meleg ruha kell a templomba.",
+                "ro": "Este nevoie de haine groase în biserică.",
+                "en": "Warm layers needed inside the church."
+              }
+            },
+            {
+              "name": "Malvern Park",
+              "tip_5lang": {
+                "de": "Schöne Aussicht auf den Winterpark.",
+                "hu": "Szép kilátás a téli parkra.",
+                "ro": "Vedere frumoasă asupra parcului iarna.",
+                "en": "Beautiful view of the winter park."
+              }
+            },
+            {
+              "name": "Dinner in Town Centre",
+              "tip_5lang": {
+                "de": "Parkplatzsuche in der Dunkelheit.",
+                "hu": "Parkolóhely-keresés a sötétben.",
+                "ro": "Căutarea parcării pe întuneric.",
+                "en": "Looking for parking in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Frostschutzmittel aufgefüllt ist.",
+              "Achten Sie auf Glatteis auf den Landstraßen.",
+              "Planen Sie die Rückfahrt vor Einsetzen des Berufsverkehrs.",
+              "Nutzen Sie Sitzheizung für maximalen Komfort."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy van elég fagyálló.",
+              "Ügyeljen a jegesedésre az országutakon.",
+              "Tervezze a hazautat a csúcsforgalom előtt.",
+              "Használja az ülésfűtést a maximális kényelemért."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți suficient lichid de parbriz anti-îngheț.",
+              "Atenție la gheață pe drumurile secundare.",
+              "Planificați drumul spre casă înainte de ora de vârf.",
+              "Folosiți încălzirea în scaune pentru confort maxim."
+            ],
+            "en": [
+              "Ensure your antifreeze and screenwash levels are topped up.",
+              "Watch out for icy patches on country roads.",
+              "Plan your return trip before the peak rush hour.",
+              "Use seat heaters for maximum comfort."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1234,6 +1798,188 @@
           "Download a local transport app for real-time information.",
           "Be prepared for walks between bus stops and the actual attractions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie Bus und Bahn, um trocken durch Solihull zu kommen. Nach der Ankunft am Bahnhof bietet Touchwood sofortigen Schutz. Mittags besuchen Sie die Kirche und machen einen kurzen Spaziergang. Der Bus bringt Sie dann zum Motorcycle Museum, dem idealen Indoor-Ziel. Nachmittags geht es zurück zum Brueton Park und schließlich zum Abendessen in Bahnhofsnähe.",
+            "hu": "Használja a buszt és a vonatot, hogy szárazon közlekedjen Solihullban. A vasútállomásra érkezés után a Touchwood azonnali menedéket nyújt. Délben látogassa meg a templomot egy rövid séta keretében. A busz ezután a Motoros Múzeumba viszi, ami ideális benti célpont. Délután térjen vissza a Brueton parkba, majd vacsorázzon az állomás közelében.",
+            "ro": "Folosiți autobuzul și trenul pentru a circula uscat prin Solihull. După sosirea la gară, Touchwood oferă adăpost imediat. La prânz, vizitați biserica printr-o scurtă plimbare. Autobuzul vă va duce apoi la Muzeul Motocicletelor, destinația ideală de interior. După-amiaza reveniți spre parcul Brueton și cinați lângă gară.",
+            "en": "Use bus and train to get around Solihull while staying dry. Upon arrival at the station, Touchwood offers immediate shelter. At midday, visit the church with a short walk. The bus then takes you to the Motorcycle Museum, the ideal indoor destination. In the afternoon, return towards Brueton Park and finally enjoy dinner near the station."
+          },
+          "stops": [
+            {
+              "name": "Solihull Station",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Bereich.",
+                "hu": "Várjon a fedett területen.",
+                "ro": "Așteptați în zona acoperită.",
+                "en": "Wait in the sheltered area."
+              }
+            },
+            {
+              "name": "Touchwood (Centre)",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Haltestelle.",
+                "hu": "Rövid út a megállótól.",
+                "ro": "Drum scurt de la stație.",
+                "en": "Short walk from the bus stop."
+              }
+            },
+            {
+              "name": "St Alphege's Church & Malvern Park",
+              "tip_5lang": {
+                "de": "Unter Bäumen Schutz suchen.",
+                "hu": "Keressen menedéket a fák alatt.",
+                "ro": "Căutați adăpost sub copaci.",
+                "en": "Seek shelter under the trees."
+              }
+            },
+            {
+              "name": "Trip to Motorcycle Museum",
+              "tip_5lang": {
+                "de": "Busse fahren regelmäßig und trocken.",
+                "hu": "A buszok rendszeresen és szárazon járnak.",
+                "ro": "Autobuzele circulă regulat și sunt uscate.",
+                "en": "Buses are frequent and provide a dry ride."
+              }
+            },
+            {
+              "name": "Brueton Park",
+              "tip_5lang": {
+                "de": "Feste Schuhe für den nassen Rasen.",
+                "hu": "Zárt cipő a vizes fűhöz.",
+                "ro": "Încălțăminte rezistentă pentru iarba udă.",
+                "en": "Sturdy shoes for wet grass paths."
+              }
+            },
+            {
+              "name": "Dinner near the station",
+              "tip_5lang": {
+                "de": "Schneller Zugang zum Zug nach dem Essen.",
+                "hu": "Gyors kijutás a vonathoz vacsora után.",
+                "ro": "Acces rapid la tren după cină.",
+                "en": "Quick access to the train after dinner."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Swift-App für digitale Tickets.",
+              "Die Busverbindung zum Museum ist zuverlässig.",
+              "Wartezeiten an Haltestellen im Regen minimieren.",
+              "Ein kleiner Regenschirm ist für die Umstiege ideal."
+            ],
+            "hu": [
+              "Használja a Swift alkalmazást a digitális jegyekhez.",
+              "A múzeumi buszjárat megbízható.",
+              "Minimalizálja a várakozási időt az esőben.",
+              "Egy kis esernyő ideális az átszállásokhoz."
+            ],
+            "ro": [
+              "Folosiți aplicația Swift pentru bilete digitale.",
+              "Conexiunea cu autobuzul către muzeu este de încredere.",
+              "Minimizați timpul de așteptare în stații pe ploaie.",
+              "O umbrelă mică este ideală pentru transferuri."
+            ],
+            "en": [
+              "Use the Swift app for digital tickets.",
+              "The bus connection to the museum is reliable.",
+              "Minimize waiting time at stops during rain.",
+              "A small umbrella is ideal for bus transfers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Solihull im Winter mit den warmen öffentlichen Verkehrsmitteln. Nach der Ankunft am Bahnhof ist das Touchwood der ideale Ort für den Vormittag. Mittags besuchen Sie die Kirche und den Park, bevor Sie den geheizten Bus zum Motorcycle Museum nehmen. Da es früh dunkel wird, ist das Museum am Nachmittag ein tolles Ziel. Der Tag endet gemütlich im Stadtzentrum nahe dem Bahnhof.",
+            "hu": "Fedezze fel Solihullt télen a fűtött tömegközlekedéssel. A vasútállomásra érkezés után a Touchwood az ideális helyszín. Délben látogassa meg a templomot és a parkot, majd szálljon fel a fűtött buszra a Motoros Múzeum felé. Mivel korán sötétedik, a múzeum délután remek célpont. A nap kényelmesen zárul a belvárosban, az állomás közelében.",
+            "ro": "Explorați Solihull iarna folosind transportul public încălzit. După sosirea la gară, Touchwood este locul ideal pentru dimineață. La prânz, vizitați biserica și parcul, apoi luați autobuzul încălzit spre Muzeul Motocicletelor. Deoarece se întunecă devreme, muzeul este o destinație excelentă. Ziua se încheie confortabil în centrul orașului.",
+            "en": "Explore Solihull in winter using warm public transport. After arriving at the station, Touchwood is the ideal morning spot. At midday, visit the church and park before taking the heated bus to the Motorcycle Museum. As darkness falls early, the museum is a great afternoon destination. The day ends comfortably in the town centre near the station."
+          },
+          "stops": [
+            {
+              "name": "Solihull Station",
+              "tip_5lang": {
+                "de": "Der Warteraum ist meist beheizt.",
+                "hu": "A váróterem általában fűtött.",
+                "ro": "Sala de așteptare este de obicei încălzită.",
+                "en": "The waiting room is usually heated."
+              }
+            },
+            {
+              "name": "Touchwood (Centre)",
+              "tip_5lang": {
+                "de": "Winterliche Dekoration genießen.",
+                "hu": "Élvezze a téli dekorációt.",
+                "ro": "Bucurați-vă de decorațiunile de iarnă.",
+                "en": "Enjoy the festive winter decorations."
+              }
+            },
+            {
+              "name": "St Alphege's Church & Malvern Park",
+              "tip_5lang": {
+                "de": "Wintersonne im Park nutzen.",
+                "hu": "Használja ki a téli napsütést.",
+                "ro": "Bucurați-vă de soarele de iarnă în parc.",
+                "en": "Make the most of the winter sun in the park."
+              }
+            },
+            {
+              "name": "Trip to Motorcycle Museum",
+              "tip_5lang": {
+                "de": "Im Bus ist es angenehm warm.",
+                "hu": "A buszon kellemesen meleg van.",
+                "ro": "În autobuz este plăcut și cald.",
+                "en": "It's pleasantly warm inside the bus."
+              }
+            },
+            {
+              "name": "Brueton Park",
+              "tip_5lang": {
+                "de": "Letztes Tageslicht am See nutzen.",
+                "hu": "Használja ki az utolsó fényeket a tónál.",
+                "ro": "Bucurați-vă de ultima lumină la lac.",
+                "en": "Enjoy the last daylight by the lake."
+              }
+            },
+            {
+              "name": "Dinner near the station",
+              "tip_5lang": {
+                "de": "Beleuchtete Wege zum Bahnhof.",
+                "hu": "Kivilágított utak az állomásig.",
+                "ro": "Căi iluminate spre gară.",
+                "en": "Well-lit paths back to the station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan auf Winterverspätungen.",
+              "Tragen Sie warme Kleidung für die Wartezeiten.",
+              "Die Busse sind im Winter ein guter Ort zum Aufwärmen.",
+              "Nutzen Sie den Bahnhofsvorraum bei Kälte."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet a téli késések miatt.",
+              "Viseljen meleg ruhát a várakozáshoz.",
+              "A buszok télen jó helyek a melegedésre.",
+              "Használja a vasúti várótermet hidegben."
+            ],
+            "ro": [
+              "Verificați orarul pentru eventuale întârzieri de iarnă.",
+              "Purtați haine groase pentru perioadele de așteptare.",
+              "Autobuzele sunt locuri bune pentru încălzire iarna.",
+              "Folosiți sala de așteptare din gară în caz de ger."
+            ],
+            "en": [
+              "Check the timetable for potential winter delays.",
+              "Wear warm clothing for wait times at stops.",
+              "Buses are a good place to warm up between stops.",
+              "Use the station waiting room in extreme cold."
+            ]
+          }
+        }
       }
     }
   }

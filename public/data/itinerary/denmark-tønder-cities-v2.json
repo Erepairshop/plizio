@@ -339,6 +339,206 @@
           "Most sights in the city center are within easy walking distance.",
           "Allow plenty of time for the museums; they are quite extensive."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Tønder bei Regen beginnt am Marktplatz, wo die nassen Pflastersteine den historischen Charme reflektieren. In der Uldgade bieten die alten Fassaden etwas Schutz, bevor das Drøhse-Haus einen trockenen Einblick in die Spitzenklöppelei gewährt. Der Mittag wird in einem gemütlichen Café im Zentrum verbracht. Der Nachmittag gehört den Museen, die Schutz vor dem Küstenwind bieten.",
+            "hu": "Az esős Tønder a főtéren kezdődik, ahol a nedves macskakövek tükrözik a történelmi házakat. Az Uldgade szűk utcái némi védelmet nyújtanak, mielőtt a Drøhse-házban megismernénk a csipkeverés művészetét. Az ebédet egy barátságos belvárosi helyen költjük el. A délutánt a múzeumi negyedben töltjük, fedett helyen bújva el a szél és az eső elől.",
+            "ro": "Tønder pe ploaie începe în piața centrală, unde pavajul umed reflectă farmecul clădirilor istorice. Străduțele din Uldgade oferă puțin adăpost înainte de a vizita Casa Drøhse pentru a descoperi arta dantelei. Prânzul este savurat într-o cafenea primitoare din centru. După-amiaza este dedicată muzeelor, oferind un refugiu perfect împotriva vântului de coastă.",
+            "en": "A rainy Tønder starts at the town square, where wet cobblestones reflect the historic facades. Uldgade's narrow streets offer some cover before heading into Drøhse's House for a dry look at lace-making history. Lunch is spent in a cozy city center spot. The afternoon is dedicated to the museum quarter, providing a perfect indoor escape from the coastal drizzle."
+          },
+          "stops": [
+            {
+              "name": "The Old Town Hall and Town Square",
+              "tip_4lang": {
+                "de": "Suchen Sie Schutz unter den Arkaden der umliegenden Cafés.",
+                "hu": "Keressen menedéket a környező kávézók árkádjai alatt.",
+                "ro": "Căutați adăpost sub arcadele cafenelelor din jur.",
+                "en": "Seek shelter under the arcades of the surrounding cafes."
+              }
+            },
+            {
+              "name": "Uldgade Street",
+              "tip_4lang": {
+                "de": "Die schmalen Gassen bieten etwas Schutz vor dem Wind.",
+                "hu": "A szűk utcák némi védelmet nyújtanak a szél ellen.",
+                "ro": "Străzile înguste oferă puțină protecție împotriva vântului.",
+                "en": "The narrow alleys provide some protection from the wind."
+              }
+            },
+            {
+              "name": "Drøhse's House",
+              "tip_4lang": {
+                "de": "Perfekter Ort, um die Regenkleidung kurz zu trocknen.",
+                "hu": "Tökéletes hely az esőkabátok rövid szárítására.",
+                "ro": "Locul perfect pentru a usca scurt hainele de ploaie.",
+                "en": "Perfect place to dry off your rain gear for a while."
+              }
+            },
+            {
+              "name": "Christ Church (Kristkirken)",
+              "tip_4lang": {
+                "de": "Genießen Sie die Stille und Trockenheit im Inneren.",
+                "hu": "Élvezze a belső tér csendjét és szárazságát.",
+                "ro": "Bucurați-vă de liniștea și uscăciunea din interior.",
+                "en": "Enjoy the silence and dryness of the interior."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_4lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
+                "hu": "Válasszon olyan éttermet, ahol van hely a vizes kabátoknak.",
+                "ro": "Alegeți un restaurant cu garderobă pentru haine ude.",
+                "en": "Choose a restaurant with a cloakroom for wet coats."
+              }
+            },
+            {
+              "name": "Art Museum in Tønder",
+              "tip_4lang": {
+                "de": "Der Wasserturm bietet eine tolle Aussicht auf den Regen.",
+                "hu": "A víztoronyból remek kilátás nyílik az esős tájra.",
+                "ro": "Turnul de apă oferă o priveliște excelentă asupra ploii.",
+                "en": "The water tower offers a great view of the rainy landscape."
+              }
+            },
+            {
+              "name": "Museum of Cultural History Tønder",
+              "tip_4lang": {
+                "de": "Verweilen Sie länger in den Ausstellungen bis der Schauer abzieht.",
+                "hu": "Maradjon tovább a kiállításokon, amíg eláll a zápor.",
+                "ro": "Rămâneți mai mult la expoziții până trece aversa.",
+                "en": "Stay longer at the exhibitions until the shower passes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster rutschig wird.",
+              "Nutzen Sie die vielen Museen als Etappenziele im Trockenen.",
+              "Ein stabiler Regenschirm ist wegen des Nordseewinds oft besser als ein Knirps.",
+              "Viele Cafés bieten 'Hygge' mit Kerzenschein bei grauem Wetter."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskakövek csúszóssá válnak.",
+              "Használja a múzeumokat száraz pihenőpontokként.",
+              "Az északi-tengeri szél miatt egy erős esernyő jobb, mint az összecsukható.",
+              "Sok kávézó kínál 'Hygge' hangulatot gyertyafénnyel szürke időben."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pavajul devine alunecos.",
+              "Folosiți numeroasele muzee ca puncte de oprire la uscat.",
+              "O umbrelă rezistentă este adesea mai bună decât una pliabilă din cauza vântului.",
+              "Multe cafenele oferă atmosferă 'Hygge' cu lumânări pe timp gri."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones become slippery.",
+              "Use the many museums as dry waypoints during your walk.",
+              "A sturdy umbrella is often better than a compact one due to North Sea winds.",
+              "Many cafes offer 'Hygge' with candlelight during grey weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter verwandelt sich Tønder in Dänemarks Weihnachtsstadt. Der Rundgang beginnt am festlich beleuchteten Marktplatz. Durch die Uldgade geht es zum Drøhse-Haus, wo man sich aufwärmen kann. Nach einem wärmenden Mittagessen erkunden wir die Museen. Da es früh dunkel wird, leuchten die Lichter der Stadt am späten Nachmittag besonders stimmungsvoll.",
+            "hu": "Télen Tønder Dánia karácsonyi városává válik. A séta az ünnepi fényekben úszó főtéren kezdődik. Az Uldgade utcán át jutunk a Drøhse-házhoz, ahol felmelegedhetünk. Egy forró ebéd után a múzeumokat fedezzük fel. Mivel korán sötétedik, a város fényei már késő délután hangulatosan világítanak.",
+            "ro": "Iarna, Tønder devine orașul Crăciunului din Danemarca. Turul începe în piața centrală luminată festiv. Prin Uldgade ajungem la Casa Drøhse, unde ne putem încălzi. După un prânz cald, explorăm muzeele. Deoarece se întunecă devreme, luminile orașului strălucesc pline de atmosferă după-amiaza târziu.",
+            "en": "In winter, Tønder transforms into Denmark's Christmas town. The walk begins at the festively lit market square. Through Uldgade, we head to Drøhse's House to warm up. After a warming lunch, we explore the museums. As it gets dark early, the city lights shine atmospherically by the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "The Old Town Hall and Town Square",
+              "tip_4lang": {
+                "de": "Besuchen Sie die Weihnachtshütte für einen Glögg.",
+                "hu": "Látogasson el a karácsonyi bódéhoz egy forralt borra.",
+                "ro": "Vizitați căsuța de Crăciun pentru un Glögg.",
+                "en": "Visit the Christmas hut for a warm Glögg."
+              }
+            },
+            {
+              "name": "Uldgade Street",
+              "tip_4lang": {
+                "de": "Achten Sie auf Glatteis auf dem alten Pflaster.",
+                "hu": "Vigyázzon a jegesedésre a régi kövezeteken.",
+                "ro": "Atenție la polei pe pavajul vechi.",
+                "en": "Watch out for icy patches on the old pavement."
+              }
+            },
+            {
+              "name": "Drøhse's House",
+              "tip_4lang": {
+                "de": "Ein gemütlicher Ort zum Aufwärmen zwischen den Stopps.",
+                "hu": "Hangulatos hely a felmelegedéshez a megállók között.",
+                "ro": "Un loc primitor pentru încălzire între opriri.",
+                "en": "A cozy place to warm up between stops."
+              }
+            },
+            {
+              "name": "Christ Church (Kristkirken)",
+              "tip_4lang": {
+                "de": "Häufig finden hier im Winter Abendkonzerte statt.",
+                "hu": "Télen gyakran tartanak itt esti koncerteket.",
+                "ro": "Aici au loc frecvent concerte de seară în timpul iernii.",
+                "en": "Evening concerts are frequently held here in winter."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_4lang": {
+                "de": "Probieren Sie dänische Winterspezialitäten wie Æbleskiver.",
+                "hu": "Kóstolja meg a dán téli különlegességeket, mint az Æbleskiver.",
+                "ro": "Încercați specialități daneze de iarnă, cum ar fi Æbleskiver.",
+                "en": "Try Danish winter specialties like Æbleskiver."
+              }
+            },
+            {
+              "name": "Art Museum in Tønder",
+              "tip_4lang": {
+                "de": "Die Aussicht vom Turm ist in der Dämmerung magisch.",
+                "hu": "A kilátás a toronyból varázslatos a szürkületben.",
+                "ro": "Priveliștea din turn este magică la crepuscul.",
+                "en": "The view from the tower is magical at twilight."
+              }
+            },
+            {
+              "name": "Museum of Cultural History Tønder",
+              "tip_4lang": {
+                "de": "Besuchen Sie den Museumsshop für traditionelle Geschenke.",
+                "hu": "Látogasson el a múzeumi boltba hagyományos ajándékokért.",
+                "ro": "Vizitați magazinul muzeului pentru cadouri tradiționale.",
+                "en": "Visit the museum shop for traditional gifts."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung und Handschuhe sind wegen der Meeresbrise unerlässlich.",
+              "Die Sonne geht gegen 16:00 Uhr unter, planen Sie Außenfotos davor.",
+              "Tønder ist berühmt für seine Weihnachtsdekoration ab November.",
+              "Nutzen Sie die kurzen Wege im Zentrum, um nicht zu unterkühlen."
+            ],
+            "hu": [
+              "A tengeri szél miatt a meleg ruházat és kesztyű elengedhetetlen.",
+              "A nap 16:00 körül nyugszik, a fotókat tervezze korábbra.",
+              "Tønder híres a novembertől látható karácsonyi díszítéséről.",
+              "Használja ki a rövid távolságokat a központban a lehűlés ellen."
+            ],
+            "ro": [
+              "Hainele groase și mănușile sunt esențiale din cauza brizei marine.",
+              "Soarele apune în jur de ora 16:00, planificați pozele înainte.",
+              "Tønder este faimos pentru decorațiunile de Crăciun din noiembrie.",
+              "Folosiți distanțele scurte din centru pentru a nu îngheța."
+            ],
+            "en": [
+              "Warm clothing and gloves are essential due to the sea breeze.",
+              "The sun sets around 4:00 PM, plan outdoor photos before that.",
+              "Tønder is famous for its Christmas decorations starting in November.",
+              "Take advantage of the short distances in the center to avoid getting too cold."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -672,6 +872,206 @@
           "Be aware of the wind in the open marsh landscape.",
           "Bring water and snacks, as there are few supply options outside the towns."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen durch Tønder erfordert gute Ausrüstung. Wir starten im Zentrum und fahren zur Uldgade. Der Höhepunkt ist die Fahrt durch das Tønder Marschland, wo der Regen die Landschaft dramatisch wirken lässt. Zum Aufwärmen gibt es Mittagessen in Møgeltønder und eine Schlossbesichtigung, bevor wir zum Kunstmuseum zurückkehren.",
+            "hu": "Az esős kerékpártúra Tønderben jó felszerelést igényel. A központból indulunk az Uldgade felé. A csúcspont a Tønder-mocsárvidéken át vezető út, ahol az eső drámaivá teszi a tájat. Felmelegedésként Møgeltønderben ebédelünk, megtekintjük a kastélyt, majd visszatérünk a művészeti múzeumba.",
+            "ro": "O tură cu bicicleta pe ploaie prin Tønder necesită echipament bun. Începem în centru și pedalăm spre Uldgade. Punctul culminant este drumul prin mlaștinile Tønder, unde ploaia face peisajul dramatic. Pentru încălzire, luăm prânzul în Møgeltønder și vizităm castelul, apoi revenim la muzeul de artă.",
+            "en": "A rainy bike tour through Tønder requires proper gear. We start in the center and ride to Uldgade. The highlight is cycling through the Tønder Marsh, where the rain adds a dramatic feel to the landscape. To warm up, we have lunch in Møgeltønder and visit the castle before returning to the art museum."
+          },
+          "stops": [
+            {
+              "name": "Tønder City Center",
+              "tip_4lang": {
+                "de": "Prüfen Sie Ihre Bremsen, nasses Kopfsteinpflaster ist rutschig.",
+                "hu": "Ellenőrizze a fékeket, a vizes macskakő csúszik.",
+                "ro": "Verificați frânele, pavajul umed este alunecos.",
+                "en": "Check your brakes; wet cobblestones are slippery."
+              }
+            },
+            {
+              "name": "Uldgade & Drøhse's House",
+              "tip_4lang": {
+                "de": "Parken Sie das Rad im Windschatten der Häuser.",
+                "hu": "Parkolja a kerékpárt a házak szélárnyékos oldalán.",
+                "ro": "Parcați bicicleta la adăpostul vântului lângă case.",
+                "en": "Park your bike in the lee of the buildings."
+              }
+            },
+            {
+              "name": "Christ Church (Kristkirken)",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Stopp für eine kurze Regenpause.",
+                "hu": "Használja ki a megállót egy rövid esőszünetre.",
+                "ro": "Folosiți oprirea pentru o scurtă pauză de ploaie.",
+                "en": "Use this stop for a short break from the rain."
+              }
+            },
+            {
+              "name": "Ride through the Tønder Marsh",
+              "tip_4lang": {
+                "de": "Achtung bei starkem Seitenwind auf den offenen Wegen.",
+                "hu": "Vigyázat az erős oldalszéllel a nyílt utakon.",
+                "ro": "Atenție la vântul lateral puternic pe drumurile deschise.",
+                "en": "Watch out for strong crosswinds on open paths."
+              }
+            },
+            {
+              "name": "Lunch in Møgeltønder",
+              "tip_4lang": {
+                "de": "Ideal, um die Regenhose kurz abzutrocknen.",
+                "hu": "Ideális alkalom az esőnadrág megszárítására.",
+                "ro": "Ideal pentru a usca puțin pantalonii de ploaie.",
+                "en": "Ideal time to dry off your rain trousers."
+              }
+            },
+            {
+              "name": "Schackenborg Castle",
+              "tip_4lang": {
+                "de": "Besichtigen Sie das Innere, während es draußen regnet.",
+                "hu": "Nézze meg a belső teret, amíg kint esik.",
+                "ro": "Vizitați interiorul în timp ce afară plouă.",
+                "en": "Visit the interior while it's raining outside."
+              }
+            },
+            {
+              "name": "Art Museum in Tønder",
+              "tip_4lang": {
+                "de": "Sicherer Fahrradständer vorhanden, Kleidung abgeben.",
+                "hu": "Biztonságos kerékpártároló van, a vizes ruhát le lehet adni.",
+                "ro": "Rastel sigur pentru biciclete disponibil, lăsați hainele ude.",
+                "en": "Secure bike racks available; leave your wet gear at the cloakroom."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung (Hose, Jacke, Überschuhe) einplanen.",
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können.",
+              "Die Marschwege können bei Nässe etwas schlammig sein.",
+              "Licht am Fahrrad einschalten, da die Sicht bei Regen stark sinkt."
+            ],
+            "hu": [
+              "Tervezzen teljes esőruházatot (nadrág, kabát, cipővédő).",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek.",
+              "A mocsári utak nedves időben sárosak lehetnek.",
+              "Kapcsolja be a lámpákat, mert esőben jelentősen romlik a látótávolság."
+            ],
+            "ro": [
+              "Planificați echipament complet de ploaie (pantaloni, jachetă).",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci.",
+              "Drumurile prin mlaștină pot fi noroioase pe timp umed.",
+              "Aprindeți luminile, vizibilitatea scade mult pe ploaie."
+            ],
+            "en": [
+              "Plan for full rain gear (trousers, jacket, shoe covers).",
+              "Avoid puddles as they can hide deep potholes.",
+              "Marsh paths can be muddy when wet.",
+              "Turn on your bike lights as visibility drops significantly in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im winterlichen Tønder ist erfrischend. Wir starten im geschmückten Zentrum und fahren zur Christuskirche. Die Tour durch das Marschland bietet weite Blicke über die frostige Ebene. In Møgeltønder stärken wir uns bei einem warmen Essen und besuchen das Schloss Schackenborg, bevor wir im Museumsquartier den Tag beenden.",
+            "hu": "A téli kerékpározás Tønderben felfrissítő élmény. A díszes központból indulunk a Krisztus-templomhoz. A mocsárvidéki túra tágas kilátást nyújt a fagyos síkságra. Møgeltønderben forró étellel erősítünk és meglátogatjuk a Schackenborg-kastélyt, majd a múzeumi negyedben zárjuk a napot.",
+            "ro": "Mersul cu bicicleta în Tønder iarna este revigorant. Începem în centrul decorat și pedalăm spre Biserica lui Hristos. Turul prin mlaștină oferă priveliști largi peste câmpia înghețată. În Møgeltønder ne refacem cu o masă caldă și vizităm castelul Schackenborg, terminând ziua în cartierul muzeelor.",
+            "en": "Cycling in winter Tønder is refreshing. We start in the decorated center and ride to Christ Church. The tour through the marshland offers wide views over the frosty plains. In Møgeltønder, we refuel with a warm meal and visit Schackenborg Castle before ending the day in the museum quarter."
+          },
+          "stops": [
+            {
+              "name": "Tønder City Center",
+              "tip_4lang": {
+                "de": "Vorsicht vor überfrorener Nässe in den Morgenstunden.",
+                "hu": "Vigyázzon a lefagyott nedvességre a reggeli órákban.",
+                "ro": "Atenție la polei în orele dimineții.",
+                "en": "Be careful of black ice in the early morning hours."
+              }
+            },
+            {
+              "name": "Uldgade & Drøhse's House",
+              "tip_4lang": {
+                "de": "Handschuhe beim Abschließen des Rads nicht ausziehen.",
+                "hu": "Ne vegye le a kesztyűt a kerékpár lezárásakor.",
+                "ro": "Nu vă scoateți mănușile când încuiați bicicleta.",
+                "en": "Don't take off your gloves while locking the bike."
+              }
+            },
+            {
+              "name": "Christ Church (Kristkirken)",
+              "tip_4lang": {
+                "de": "Kurze Aufwärmpause im Inneren einlegen.",
+                "hu": "Tartson egy rövid melegedő szünetet odabent.",
+                "ro": "Faceți o scurtă pauză de încălzire în interior.",
+                "en": "Take a short warming break inside."
+              }
+            },
+            {
+              "name": "Ride through the Tønder Marsh",
+              "tip_4lang": {
+                "de": "Die frostige Luft kann auf dem Rad sehr beißend sein.",
+                "hu": "A fagyos levegő a kerékpáron nagyon csípős lehet.",
+                "ro": "Aerul înghețat poate fi foarte tăios pe bicicletă.",
+                "en": "The frosty air can be very biting while cycling."
+              }
+            },
+            {
+              "name": "Lunch in Møgeltønder",
+              "tip_4lang": {
+                "de": "Warme Getränke auffüllen für den Rückweg.",
+                "hu": "Töltse fel a meleg italos készletét a visszaútra.",
+                "ro": "Reumpleți băuturile calde pentru drumul de întoarcere.",
+                "en": "Refill your warm drinks for the ride back."
+              }
+            },
+            {
+              "name": "Schackenborg Castle",
+              "tip_4lang": {
+                "de": "Die Parkanlagen sind im Frost besonders fotogen.",
+                "hu": "A parkok a zúzmarában különösen fotogének.",
+                "ro": "Parcurile sunt deosebit de fotogenice pe timp de îngheț.",
+                "en": "The park grounds are especially photogenic in the frost."
+              }
+            },
+            {
+              "name": "Art Museum in Tønder",
+              "tip_4lang": {
+                "de": "Das Museum ist bis zum frühen Abend beheizt.",
+                "hu": "A múzeum kora estig fűtött és látogatható.",
+                "ro": "Muzeul este încălzit până seara devreme.",
+                "en": "The museum is heated and open until early evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten und winddichte Kleidung.",
+              "Achten Sie auf verkürzte Tageslichtzeiten für den Rückweg.",
+              "Salz auf den Straßen kann den Fahrradrahmen angreifen; nachher kurz abwischen.",
+              "Thermoskanne mit Tee für die Fahrt durch die Marsch mitnehmen."
+            ],
+            "hu": [
+              "Viseljen több rétegű és szélálló ruházatot.",
+              "Ügyeljen a rövid nappalokra a visszaút tervezésekor.",
+              "Az utak sózása károsíthatja a vázat; utána törölje le.",
+              "Vigyen termoszban teát a mocsári szakaszra."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine rezistente la vânt.",
+              "Atenție la durata scurtă a zilei pentru drumul de întoarcere.",
+              "Sarea de pe drumuri poate afecta cadrul bicicletei; ștergeți-l după.",
+              "Luați un termos cu ceai pentru drumul prin mlaștină."
+            ],
+            "en": [
+              "Wear multiple layers and windproof clothing.",
+              "Mind the shorter daylight hours for your return journey.",
+              "Road salt can damage the bike frame; wipe it down after.",
+              "Bring a thermos with tea for the ride through the marsh."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1012,6 +1412,206 @@
           "Parking is generally easy in Tønder, but pay attention to parking time restrictions.",
           "A car allows you to explore the more remote parts of the marsh."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Tønder bei Regen bequem zu erkunden. Wir parken zentral und besuchen das Rathaus und das Drøhse-Haus. Danach fahren wir zum prachtvollen Schloss Schackenborg in Møgeltønder, wo wir im Trockenen parken können. Den Nachmittag verbringen wir ausgiebig im Museumsquartier, während der Regen gegen die Scheiben trommelt.",
+            "hu": "Autóval Tønder esőben is kényelmesen felfedezhető. Központilag parkolunk, meglátogatjuk a városházát és a Drøhse-házat. Ezután a pompás Schackenborg-kastélyhoz hajtunk Møgeltønderbe, ahol fedett helyen parkolhatunk. A délutánt a múzeumi negyedben töltjük, miközben az eső kopog az ablakokon.",
+            "ro": "Cu mașina, Tønder este ușor de explorat pe ploaie. Parcăm central și vizităm primăria și Casa Drøhse. Apoi conducem spre splendidul castel Schackenborg din Møgeltønder, unde putem parca la adăpost. După-amiaza o petrecem în cartierul muzeelor, în timp ce ploaia bate în geamuri.",
+            "en": "By car, Tønder is easy to explore even in the rain. We park centrally and visit the town hall and Drøhse's House. Then we drive to the magnificent Schackenborg Castle in Møgeltønder, where sheltered parking is available. The afternoon is spent extensively in the museum quarter while the rain drums on the windows."
+          },
+          "stops": [
+            {
+              "name": "Central Parking & Old Town Hall",
+              "tip_4lang": {
+                "de": "Nutzen Sie Parkplätze nahe am Eingang, um nicht nass zu werden.",
+                "hu": "Használja a bejárathoz közeli parkolókat, hogy ne ázzon meg.",
+                "ro": "Folosiți parcările apropiate de intrare pentru a nu vă uda.",
+                "en": "Use parking spaces close to the entrance to avoid getting wet."
+              }
+            },
+            {
+              "name": "Uldgade & Drøhse's House",
+              "tip_4lang": {
+                "de": "In der Nähe gibt es Parkplätze mit kurzem Fußweg.",
+                "hu": "A közelben rövid sétával elérhető parkolók vannak.",
+                "ro": "Există parcări în apropiere cu acces pietonal scurt.",
+                "en": "There are parking spots nearby with a short walk."
+              }
+            },
+            {
+              "name": "Christ Church (Kristkirken)",
+              "tip_4lang": {
+                "de": "Parken Sie direkt an der Kirche für schnellen Zugang.",
+                "hu": "Parkoljon közvetlenül a templomnál a gyors bejutáshoz.",
+                "ro": "Parcați direct lângă biserică pentru acces rapid.",
+                "en": "Park right by the church for quick access."
+              }
+            },
+            {
+              "name": "Schackenborg Castle",
+              "tip_4lang": {
+                "de": "Der Parkplatz ist gut befestigt, keine Matschgefahr.",
+                "hu": "A parkoló jól burkolt, nincs sárveszély.",
+                "ro": "Parcarea este bine amenajată, nu există risc de noroi.",
+                "en": "The parking lot is well-paved, no risk of mud."
+              }
+            },
+            {
+              "name": "Slotsgaden, Møgeltønder",
+              "tip_4lang": {
+                "de": "Vom Auto aus hat man einen guten Blick auf die Häuserzeilen.",
+                "hu": "Az autóból is jó kilátás nyílik a házsorokra.",
+                "ro": "Din mașină aveți o vedere bună asupra șirului de case.",
+                "en": "You have a good view of the house rows from the car."
+              }
+            },
+            {
+              "name": "Tønder Marsh Viewpoint",
+              "tip_4lang": {
+                "de": "Bleiben Sie bei starkem Regen für den Ausblick im Wagen.",
+                "hu": "Erős esőben maradjon az autóban a kilátáshoz.",
+                "ro": "Rămâneți în mașină pentru priveliște dacă plouă tare.",
+                "en": "Stay in the car for the view if the rain is heavy."
+              }
+            },
+            {
+              "name": "Tønder Museum Quarter",
+              "tip_4lang": {
+                "de": "Großer Parkplatz direkt vor dem Museumseingang.",
+                "hu": "Nagy parkoló közvetlenül a múzeum bejárata előtt.",
+                "ro": "Parcare mare direct în fața intrării muzeului.",
+                "en": "Large parking lot directly in front of the museum entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Lassen Sie Regenschirme im Auto griffbereit.",
+              "Achten Sie auf Aquaplaning auf den Marschstraßen.",
+              "Parkgebühren können oft per App bezahlt werden, um den Automaten im Regen zu meiden.",
+              "Die Scheibenheizung hilft gegen Beschlagen bei nasser Kleidung."
+            ],
+            "hu": [
+              "Tartsa az esernyőket kéznél az autóban.",
+              "Vigyázzon a vízfelúszásra (aquaplaning) a mocsári utakon.",
+              "A parkolást gyakran appal is fizetheti, elkerülve az automatát esőben.",
+              "A szélvédőfűtés segít a párásodás ellen vizes ruházat esetén."
+            ],
+            "ro": [
+              "Țineți umbrelele la îndemână în mașină.",
+              "Atenție la acvaplanare pe drumurile din mlaștină.",
+              "Taxa de parcare poate fi plătită prin aplicație pentru a evita automatele pe ploaie.",
+              "Dezaburirea parbrizului ajută dacă aveți haine ude."
+            ],
+            "en": [
+              "Keep umbrellas handy in the car.",
+              "Watch out for aquaplaning on marsh roads.",
+              "Parking fees can often be paid via app to avoid machines in the rain.",
+              "Window heating helps against fogging with wet clothing."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Autotour durch das winterliche Tønder ist stimmungsvoll und warm. Nach dem Start im Weihnachts-Zentrum fahren wir zur Christuskirche. Die Weiterfahrt nach Møgeltønder zeigt die weite, frostige Marschlandschaft. Ein Besuch im Schloss Schackenborg und ein ausgiebiger Nachmittag in den geheizten Museen runden den Tag ab.",
+            "hu": "Az autós túra a téli Tønderben hangulatos és meleg. A karácsonyi központból indulva a Krisztus-templomhoz hajtunk. A Møgeltønder felé vezető út a tágas, fagyos mocsárvidéket mutatja be. A Schackenborg-kastély meglátogatása és egy hosszú délután a fűtött múzeumokban teszi teljessé a napot.",
+            "ro": "Turul cu mașina prin Tønder iarna este plin de atmosferă și călduros. După startul în centrul de Crăciun, conducem spre Biserica lui Hristos. Drumul spre Møgeltønder arată peisajul vast și înghețat al mlaștinii. O vizită la castelul Schackenborg și o după-amiază lungă în muzeele încălzite completează ziua.",
+            "en": "A car tour through winter Tønder is atmospheric and warm. After starting in the Christmas-themed center, we drive to Christ Church. The drive to Møgeltønder reveals the vast, frosty marsh landscape. A visit to Schackenborg Castle and a long afternoon in the heated museums round off the day."
+          },
+          "stops": [
+            {
+              "name": "Central Parking & Old Town Hall",
+              "tip_4lang": {
+                "de": "Parkplätze im Winter oft schnell belegt wegen des Marktes.",
+                "hu": "Télen a parkolók gyorsan megtelnek a vásár miatt.",
+                "ro": "Parcările se ocupă repede iarna din cauza târgului.",
+                "en": "Parking spots fill up quickly in winter due to the market."
+              }
+            },
+            {
+              "name": "Uldgade & Drøhse's House",
+              "tip_4lang": {
+                "de": "Gehen Sie vorsichtig auf den evtl. glatten Gehwegen.",
+                "hu": "Óvatosan járjon az esetlegesen csúszós járdákon.",
+                "ro": "Mergeți cu atenție pe trotuarele care pot fi alunecoase.",
+                "en": "Walk carefully on potentially slippery sidewalks."
+              }
+            },
+            {
+              "name": "Christ Church (Kristkirken)",
+              "tip_4lang": {
+                "de": "Kurzer Fußweg vom Parkplatz, mütze aufsetzen.",
+                "hu": "Rövid séta a parkolótól, vegyen fel sapkát.",
+                "ro": "Drum scurt de la parcare, puneți-vă căciula.",
+                "en": "Short walk from the parking lot; put on your hat."
+              }
+            },
+            {
+              "name": "Schackenborg Castle",
+              "tip_4lang": {
+                "de": "Achten Sie auf Winterdienst-Fahrzeuge in der Schlosszufahrt.",
+                "hu": "Ügyeljen a hókotrókra a kastély bejáratánál.",
+                "ro": "Atenție la utilajele de deszăpezire la intrarea castelului.",
+                "en": "Watch out for snow removal vehicles at the castle entrance."
+              }
+            },
+            {
+              "name": "Slotsgaden, Møgeltønder",
+              "tip_4lang": {
+                "de": "Die beleuchteten Fenster der Reetdachhäuser sind wunderschön.",
+                "hu": "A nádtetős házak kivilágított ablakai gyönyörűek.",
+                "ro": "Ferestrele luminate ale caselor cu stuf sunt superbe.",
+                "en": "The lit windows of the thatched-roof houses are beautiful."
+              }
+            },
+            {
+              "name": "Tønder Marsh Viewpoint",
+              "tip_4lang": {
+                "de": "Bei Eiswind ist der Blick aus dem warmen Auto am besten.",
+                "hu": "Jeges szélben a meleg autóból a legjobb a kilátás.",
+                "ro": "Pe vânt înghețat, vederea din mașina caldă e cea mai bună.",
+                "en": "In icy winds, the view from the warm car is best."
+              }
+            },
+            {
+              "name": "Tønder Museum Quarter",
+              "tip_4lang": {
+                "de": "Gönnen Sie sich eine Kaffeepause im warmen Museumscafé.",
+                "hu": "Igyon egy kávét a meleg múzeumi kávézóban.",
+                "ro": "Savurați o cafea în cafeneaua caldă a muzeului.",
+                "en": "Treat yourself to a coffee in the warm museum cafe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Dänemark bei Frost dringend empfohlen.",
+              "Enteiser und Eiskratzer griffbereit haben.",
+              "Die Landstraßen in der Marsch können schnell verwehen.",
+              "Nutzen Sie die Sitzheizung nach längeren Außenaufenthalten."
+            ],
+            "hu": [
+              "Téli gumi Dániában fagy esetén erősen ajánlott.",
+              "Legyen kéznél jégoldó és jégkaparó.",
+              "A mocsári országutakon a szél gyorsan behordhatja a havat.",
+              "Használja az ülésfűtést a hosszabb kinti tartózkodás után."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt puternic recomandate în Danemarca pe îngheț.",
+              "Aveți la îndemână spray de dezghețare și răzuitoare.",
+              "Drumurile județene din mlaștină pot fi troienite repede.",
+              "Folosiți încălzirea în scaune după perioade lungi afară."
+            ],
+            "en": [
+              "Winter tires are highly recommended in Denmark during frost.",
+              "Keep de-icer and an ice scraper handy.",
+              "Country roads in the marsh can quickly drift with snow.",
+              "Use seat heating after spending longer periods outside."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1332,6 +1932,188 @@
           "Tønder is small enough to explore a lot on foot without a bus, but the bus conveniently connects the outer sights.",
           "Most buses are wheelchair accessible."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Tønder mit Bus und Bahn ist bei Regen eine gute Wahl. Von der Station aus geht es direkt ins Museumsquartier. Der Weg ins Zentrum ist kurz, dort laden das Rathaus und das Drøhse-Haus zum Besuch ein. Ein warmes Mittagessen und die Christuskirche lassen den Regen vergessen, bevor man trocken die Heimreise antritt.",
+            "hu": "A busszal és vonattal történő közlekedés Tønderben jó választás esőben. Az állomástól közvetlenül a múzeumi negyedbe megyünk. A központba vezető út rövid, ott a városháza és a Drøhse-ház várja a látogatókat. Egy meleg ebéd és a Krisztus-templom elfeledteti az esőt a hazautazás előtt.",
+            "ro": "Transportul cu autobuzul și trenul în Tønder este o alegere bună pe ploaie. De la stație mergem direct în cartierul muzeelor. Drumul spre centru este scurt, unde primăria și Casa Drøhse își așteaptă vizitatorii. Un prânz cald și Biserica lui Hristos ne fac să uităm de ploaie înainte de plecare.",
+            "en": "Taking the bus and train in Tønder is a good choice in the rain. From the station, we head straight to the museum quarter. The walk to the center is short, where the town hall and Drøhse's House welcome visitors. A warm lunch and Christ Church help you forget the rain before your dry journey home."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Tønder Bus Station",
+              "tip_4lang": {
+                "de": "Warten Sie im überdachten Bereich auf den Anschluss.",
+                "hu": "Várjon a fedett részen a csatlakozásra.",
+                "ro": "Așteptați în zona acoperită pentru legătură.",
+                "en": "Wait in the sheltered area for your connection."
+              }
+            },
+            {
+              "name": "Art Museum & Museum of Cultural History",
+              "tip_4lang": {
+                "de": "Nur 5 Min. Fußweg von der Haltestelle, kaum Regenrisiko.",
+                "hu": "Csak 5 perc séta a megállótól, minimális eső-kockázat.",
+                "ro": "Doar 5 minute de mers de la stație, risc minim de ploaie.",
+                "en": "Only a 5-minute walk from the stop, minimal rain risk."
+              }
+            },
+            {
+              "name": "Trip to the City Center",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Bus, um trocken ins Zentrum zu kommen.",
+                "hu": "Használja a buszt, hogy szárazon jusson a központba.",
+                "ro": "Folosiți autobuzul pentru a ajunge uscat în centru.",
+                "en": "Use the bus to get to the center dry."
+              }
+            },
+            {
+              "name": "Old Town Hall & Lunch",
+              "tip_4lang": {
+                "de": "Zentrale Restaurants sind in unmittelbarer Nähe.",
+                "hu": "A központi éttermek közvetlen közelben vannak.",
+                "ro": "Restaurantele centrale sunt în imediata apropiere.",
+                "en": "Central restaurants are in the immediate vicinity."
+              }
+            },
+            {
+              "name": "Uldgade & Drøhse's House",
+              "tip_4lang": {
+                "de": "Kurze Gassen halten den Wind etwas ab.",
+                "hu": "A rövid utcák valamelyest felfogják a szelet.",
+                "ro": "Străzile scurte blochează puțin vântul.",
+                "en": "Short alleys block the wind somewhat."
+              }
+            },
+            {
+              "name": "Christ Church (Kristkirken)",
+              "tip_4lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten per App im Inneren.",
+                "hu": "Ellenőrizze az indulási időket appon belülről.",
+                "ro": "Verificați orele de plecare pe aplicație din interior.",
+                "en": "Check departure times via app while inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Rejseplanen' App für Echtzeit-Infos.",
+              "Die Bahnhöfe haben Warteräume, nutzen Sie diese bei Schauern.",
+              "Busse fahren im Zentrum recht nah an die Sehenswürdigkeiten.",
+              "Ein Tagesticket lohnt sich oft für kurze Hüpfer zwischen den Stopps."
+            ],
+            "hu": [
+              "Használja a 'Rejseplanen' alkalmazást a valós idejű infókért.",
+              "Az állomásokon vannak várótermek, használja őket zápor idején.",
+              "A buszok a központban közel állnak meg a látnivalókhoz.",
+              "A napijegy megéri a rövid szakaszokra a megállók között."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Rejseplanen' pentru informații în timp real.",
+              "Stațiile au săli de așteptare, folosiți-le în timpul averselor.",
+              "Autobuzele opresc destul de aproape de obiective în centru.",
+              "Un bilet de o zi merită pentru distanțele scurte între opriri."
+            ],
+            "en": [
+              "Use the 'Rejseplanen' app for real-time information.",
+              "Stations have waiting rooms; use them during rain showers.",
+              "Buses in the center stop quite close to the sights.",
+              "A day ticket is often worth it for short hops between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Transit-Trip ins winterliche Tønder ist komfortabel. Von der warmen Bahnstation erreichen wir schnell die Museen. Der Weg ins beleuchtete Zentrum führt an festlichen Schaufenstern vorbei zum Rathaus. Ein heißer Tee im Café und ein Besuch der Christuskirche wärmen auf, bevor es mit dem Bus oder Zug zurück geht.",
+            "hu": "A tömegközlekedés a téli Tønderbe kényelmes megoldás. A meleg vasútállomástól gyorsan elérjük a múzeumokat. Az út a kivilágított központba ünnepi kirakatok mellett vezet a városházáig. Egy forró tea a kávézóban és a Krisztus-templom felmelegít a hazaút előtt.",
+            "ro": "Călătoria cu transportul public în Tønder iarna este confortabilă. De la gara călduroasă ajungem rapid la muzee. Drumul spre centrul luminat trece pe lângă vitrine festive până la primărie. Un ceai fierbinte la cafenea și o vizită la Biserica lui Hristos ne încălzesc înainte de plecare.",
+            "en": "A transit trip to winter Tønder is comfortable. From the warm train station, we quickly reach the museums. The walk to the lit center passes festive shop windows on the way to the town hall. A hot tea in a cafe and a visit to Christ Church warm you up before heading back by bus or train."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Tønder Bus Station",
+              "tip_4lang": {
+                "de": "Der Warteraum ist im Winter beheizt.",
+                "hu": "A váróterem télen fűtött.",
+                "ro": "Sala de așteptare este încălzită iarna.",
+                "en": "The waiting room is heated in winter."
+              }
+            },
+            {
+              "name": "Art Museum & Museum of Cultural History",
+              "tip_4lang": {
+                "de": "Geben Sie schwere Wintermäntel an der Garderobe ab.",
+                "hu": "Adja le a nehéz téli kabátokat a ruhatárban.",
+                "ro": "Lăsați hainele groase de iarnă la garderobă.",
+                "en": "Leave heavy winter coats at the cloakroom."
+              }
+            },
+            {
+              "name": "Trip to the City Center",
+              "tip_4lang": {
+                "de": "Busse sind im Winter zuverlässig geheizt.",
+                "hu": "A buszok télen megbízhatóan fűtöttek.",
+                "ro": "Autobuzele sunt încălzite corespunzător iarna.",
+                "en": "Buses are reliably heated in winter."
+              }
+            },
+            {
+              "name": "Old Town Hall & Lunch",
+              "tip_4lang": {
+                "de": "Der Marktplatz ist beleuchtet und sehr sicher.",
+                "hu": "A főtér ki van világítva és nagyon biztonságos.",
+                "ro": "Piața centrală este iluminată și foarte sigură.",
+                "en": "The market square is well-lit and very safe."
+              }
+            },
+            {
+              "name": "Uldgade & Drøhse's House",
+              "tip_4lang": {
+                "de": "Ein kurzer Spaziergang, der bei Frost gut machbar ist.",
+                "hu": "Rövid séta, ami fagyban is jól bírható.",
+                "ro": "O plimbare scurtă, ușor de făcut pe ger.",
+                "en": "A short walk that is manageable even in the frost."
+              }
+            },
+            {
+              "name": "Christ Church (Kristkirken)",
+              "tip_4lang": {
+                "de": "In der Nähe hält der Bus für den Rückweg zum Bahnhof.",
+                "hu": "A közelben áll meg a busz a pályaudvar felé.",
+                "ro": "Autobuzul spre gară oprește în apropiere.",
+                "en": "The bus back to the station stops nearby."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Pufferzeiten ein, falls Schnee die Fahrpläne verzögert.",
+              "Die Züge bieten oft WLAN zum Planen der weiteren Schritte.",
+              "Warten Sie im Bahnhofsgebäude statt draußen am Gleis.",
+              "Dunkelheit setzt früh ein; alle Stationen sind gut beleuchtet."
+            ],
+            "hu": [
+              "Tervezzen tartalékidőt, ha a hó késleltetné a menetrendet.",
+              "A vonatokon gyakran van wifi a további lépések tervezéséhez.",
+              "Az állomásépületben várjon, ne kint a peronon.",
+              "A sötét korán beáll; minden állomás jól ki van világítva."
+            ],
+            "ro": [
+              "Planificați timp suplimentar în caz că zăpada întârzie graficul.",
+              "Trenurile oferă adesea Wi-Fi pentru planificarea traseului.",
+              "Așteptați în clădirea gării, nu afară pe peron.",
+              "Se întunecă devreme; toate stațiile sunt bine iluminate."
+            ],
+            "en": [
+              "Plan extra time in case snow delays the schedules.",
+              "Trains often offer Wi-Fi for planning your next steps.",
+              "Wait inside the station building instead of out on the platform.",
+              "Darkness sets in early; all stations are well-lit."
+            ]
+          }
+        }
       }
     }
   }

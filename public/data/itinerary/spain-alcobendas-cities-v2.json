@@ -310,6 +310,196 @@
           "Check the opening hours of museums in advance.",
           "Many shops and restaurants have a 'siesta' break in the afternoon."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt besinnlich in der Kirche San Pedro, ein idealer Zufluchtsort vor dem Morgenregen. Mittags bietet das Kunstzentrum Alcobendas trockene Korridore voller Inspiration. Am Nachmittag spazieren wir mit dem Schirm durch den Parque de Cataluña, wo die Natur besonders intensiv duftet. Den Abschluss bildet das MUNCYT, ein perfektes Indoor-Erlebnis für einen verregneten Abend.",
+            "hu": "A nap a San Pedro-templom csendjében indul, amely kiváló menedék a reggeli eső elől. Délben az Alcobendas Művészeti Központ kínál száraz és inspiráló tereket. Délután esernyővel járjuk be a Parque de Cataluña ösvényeit, ahol az eső friss illata kísér. A napot a MUNCYT fedett kiállításai zárják, így az este garantáltan száraz és érdekes marad.",
+            "ro": "Ziua începe liniștit în biserica San Pedro, un refugiu ideal împotriva ploii de dimineață. La prânz, Centrul de Artă Alcobendas oferă spații uscate pline de inspirație. După-amiaza, explorăm Parque de Cataluña cu umbrela, bucurându-ne de prospețimea aerului. Seara se încheie la MUNCYT, un loc perfect în interior pentru a evita vremea nefavorabilă.",
+            "en": "The day begins peacefully in the Church of San Pedro, an ideal shelter from the morning rain. At noon, the Alcobendas Art Centre offers dry corridors filled with inspiration. In the afternoon, we walk through Parque de Cataluña with an umbrella, where the rain brings out fresh scents. The day ends at MUNCYT, a perfect indoor experience for a rainy evening."
+          },
+          "stops": [
+            {
+              "name": "Church of San Pedro Apóstol",
+              "tip_5lang": {
+                "de": "Schütteln Sie Ihren Schirm am Eingang gut aus.",
+                "hu": "Rázza ki alaposan az esernyőt a bejáratnál.",
+                "ro": "Scuturați bine umbrela la intrare.",
+                "en": "Shake your umbrella thoroughly at the entrance."
+              }
+            },
+            {
+              "name": "Alcobendas Art Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Mäntel.",
+                "hu": "Használja a ruhatárat a vizes kabátokhoz.",
+                "ro": "Folosiți garderoba pentru hainele ude.",
+                "en": "Use the cloakroom for wet coats."
+              }
+            },
+            {
+              "name": "Parque de Cataluña",
+              "tip_5lang": {
+                "de": "Die gepflasterten Wege können rutschig sein.",
+                "hu": "A kövezett utak csúszósak lehetnek az esőben.",
+                "ro": "Aleile pietruite pot fi alunecoase.",
+                "en": "Paved paths can be slippery when wet."
+              }
+            },
+            {
+              "name": "The Bell of Peace",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach möglich.",
+                "hu": "Rövid megálló, az eresz alatt védelmet talál.",
+                "ro": "Oprire scurtă, puteți găsi adăpost sub streșini.",
+                "en": "Short stop, you can find shelter under the eaves."
+              }
+            },
+            {
+              "name": "Jardín de la Vega",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den dichten Bäumen.",
+                "hu": "Keressen menedéket a sűrű lombú fák alatt.",
+                "ro": "Căutați adăpost sub copacii deși.",
+                "en": "Seek shelter under the dense trees."
+              }
+            },
+            {
+              "name": "MUNCYT (National Museum of Science and Technology)",
+              "tip_5lang": {
+                "de": "Bester Ort, um den restlichen Regen auszusitzen.",
+                "hu": "A legjobb hely az eső elől való bujkáláshoz.",
+                "ro": "Cel mai bun loc pentru a aștepta trecerea ploii.",
+                "en": "Best place to wait out the remaining rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Parkwege.",
+              "Das MUNCYT bietet kostenlose Schließfächer.",
+              "In der Nähe des Kunstzentrums gibt es viele Cafés.",
+              "Vermeiden Sie die Rasenflächen in den Gärten.",
+              "Ein Taschenschirm ist handlicher als ein Stockschirm."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a parki utakhoz.",
+              "A MUNCYT ingyenes zárható szekrényeket kínál.",
+              "A művészeti központ közelében sok a fedett kávézó.",
+              "Kerülje a füves területeket a kertekben.",
+              "Egy összecsukható esernyő praktikusabb séta közben."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru parcuri.",
+              "MUNCYT oferă dulapuri gratuite pentru bagaje.",
+              "Există multe cafenele lângă centrul de artă.",
+              "Evitați zonele cu iarbă din grădini.",
+              "O umbrelă pliabilă este mai practică la plimbare."
+            ],
+            "en": [
+              "Wear waterproof shoes for the park paths.",
+              "MUNCYT offers free lockers for your gear.",
+              "There are many covered cafes near the art centre.",
+              "Avoid the grassy areas in the gardens.",
+              "A compact umbrella is more practical for walking."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt in der beheizten Kirche San Pedro. Mittags wärmen wir uns bei zeitgenössischer Kunst im Centro de Arte auf. Der Nachmittagsspaziergang durch den Parque de Cataluña nutzt das goldene Winterlicht vor dem frühen Sonnenuntergang. Den Abend verbringen wir gemütlich in den faszinierenden Hallen des MUNCYT.",
+            "hu": "A friss téli reggel a San Pedro-templom fűtött falai között indul. Délben a művészeti központ modern kiállításainál melegszünk fel. Délután a Parque de Cataluña ösvényein élvezzük a téli napsütést a korai naplemente előtt. Az estet a MUNCYT izgalmas és meleg csarnokaiban zárjuk.",
+            "ro": "O dimineață răcoroasă de iarnă începe în biserica încălzită San Pedro. La prânz, ne încălzim admirând arta contemporană la centru. Plimbarea de după-amiază prin parcul Cataluña profită de lumina aurie înainte de apusul timpuriu. Seara este petrecută confortabil în sălile fascinante de la MUNCYT.",
+            "en": "A crisp winter morning starts inside the heated Church of San Pedro. At noon, we warm up with contemporary art at the Centro de Arte. The afternoon walk through Parque de Cataluña catches the golden winter light before the early sunset. We spend the evening comfortably in the fascinating halls of MUNCYT."
+          },
+          "stops": [
+            {
+              "name": "Church of San Pedro Apóstol",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe und die Wärme im Inneren.",
+                "hu": "Élvezze a benti csendet és a meleget.",
+                "ro": "Bucurați-vă de liniștea și căldura din interior.",
+                "en": "Enjoy the quiet and the warmth inside."
+              }
+            },
+            {
+              "name": "Alcobendas Art Centre",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine Pause bei Zimmertemperatur.",
+                "hu": "Tökéletes hely egy pihenőhöz szobahőmérsékleten.",
+                "ro": "Loc perfect pentru o pauză la temperatura camerei.",
+                "en": "Perfect place for a break at room temperature."
+              }
+            },
+            {
+              "name": "Parque de Cataluña",
+              "tip_5lang": {
+                "de": "Sonnige Plätze suchen, der Wind kann kalt sein.",
+                "hu": "Keressen napos helyet, a szél hideg lehet.",
+                "ro": "Căutați locuri însorite, vântul poate fi rece.",
+                "en": "Look for sunny spots, the wind can be chilly."
+              }
+            },
+            {
+              "name": "The Bell of Peace",
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für ein Foto im Winterlicht.",
+                "hu": "Gyors fotómegálló a szép téli fényekben.",
+                "ro": "O oprire rapidă pentru o poză în lumina iernii.",
+                "en": "A quick photo stop in the winter light."
+              }
+            },
+            {
+              "name": "Jardín de la Vega",
+              "tip_5lang": {
+                "de": "Zügig gehen, um warm zu bleiben.",
+                "hu": "Sétáljon tempósan, hogy ne fázzon.",
+                "ro": "Mergeți vioi pentru a vă menține căldura.",
+                "en": "Walk briskly to stay warm."
+              }
+            },
+            {
+              "name": "MUNCYT (National Museum of Science and Technology)",
+              "tip_5lang": {
+                "de": "Die Cafeteria bietet heiße Getränke an.",
+                "hu": "A büfé forró italokat is kínál.",
+                "ro": "Cafeneaua oferă băuturi calde.",
+                "en": "The cafeteria offers hot beverages."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 18:00 Uhr unter.",
+              "Zwiebelprinzip bei der Kleidung wird empfohlen.",
+              "Museen sind montags oft geschlossen.",
+              "Trinken Sie zwischendurch einen warmen 'Café con leche'.",
+              "Die Luft ist im Winter in Madrid sehr trocken."
+            ],
+            "hu": [
+              "A nap 18:00 körül nyugszik télen.",
+              "Öltözzön rétegesen a kinti és benti váltás miatt.",
+              "Hétfőnként a múzeumok zárva tarthatnak.",
+              "Igyon meg egy forró kávét a séta közben.",
+              "Télen Madrid környékén a levegő nagyon száraz."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 18:00.",
+              "Se recomandă îmbrăcămintea în straturi.",
+              "Muzeele sunt adesea închise lunea.",
+              "Savurați un 'café con leche' cald pe drum.",
+              "Aerul este foarte uscat iarna în Madrid."
+            ],
+            "en": [
+              "The sun sets around 18:00 in winter.",
+              "Dressing in layers is highly recommended.",
+              "Check Monday opening hours for museums.",
+              "Grab a warm 'café con leche' between stops.",
+              "The air is quite dry in the Madrid region in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -317,7 +507,7 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "17:18",
-      "total_km": 4.7,
+      "total_km": 11.5,
       "stop_count": 7,
       "stops": [
         {
@@ -638,6 +828,214 @@
           "Always lock your bike securely at stops.",
           "A light backpack is sufficient for water and snacks."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet Alcobendas gute Radwege für einen sportlichen Tag. Wir starten am Parque de Cataluña und fahren vorsichtig zum Bonsai-Museum. Mittags finden wir Schutz im Kunstzentrum, bevor wir durch den Jardín de la Vega zum MUNCYT radeln. Die Museen am Ende der Tour sind die ideale Belohnung für die nasse Fahrt.",
+            "hu": "Az eső ellenére Alcobendas jó kerékpárutakat kínál egy sportos naphoz. A Parque de Cataluña-tól indulunk óvatosan a Bonsai Múzeum felé. Délben a művészeti központban találunk menedéket, majd a Jardín de la Vegán át tekerünk a MUNCYT-hoz. A túra végi múzeumok ideális jutalmat jelentenek a vizes út után.",
+            "ro": "În ciuda ploii, Alcobendas oferă piste de biciclete bune pentru o zi sportivă. Pornim din Parque de Cataluña spre Muzeul Bonsai cu prudență. La prânz găsim adăpost la centrul de artă, apoi pedalăm prin Jardín de la Vega către MUNCYT. Muzeele de la final sunt recompensa ideală după drumul ud.",
+            "en": "Despite the rain, Alcobendas offers good bike paths for a sporty day. We start at Parque de Cataluña and cycle carefully to the Bonsai Museum. At noon, we find shelter at the art centre before riding through Jardín de la Vega to MUNCYT. The museums at the end of the tour are the ideal reward for the wet ride."
+          },
+          "stops": [
+            {
+              "name": "Parque de Cataluña",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Asphalt.",
+                "hu": "Fékezzen óvatosan a vizes aszfalton.",
+                "ro": "Frânați cu grijă pe asfaltul ud.",
+                "en": "Brake carefully on wet asphalt."
+              }
+            },
+            {
+              "name": "Bonsai Museum",
+              "tip_5lang": {
+                "de": "Überdachte Bereiche schützen die Miniaturen.",
+                "hu": "A fedett részek védik a miniatűröket.",
+                "ro": "Zonele acoperite protejează miniaturile.",
+                "en": "Covered areas protect the miniatures."
+              }
+            },
+            {
+              "name": "Alcobendas Art Centre",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer direkt am Eingang.",
+                "hu": "Biztonságos biciklitárolók a bejáratnál.",
+                "ro": "Rafturi sigure pentru biciclete la intrare.",
+                "en": "Secure bike racks right at the entrance."
+              }
+            },
+            {
+              "name": "Church of San Pedro Apóstol",
+              "tip_5lang": {
+                "de": "Kurze Pause, um die Regenkleidung zu richten.",
+                "hu": "Rövid szünet az esőruházat igazításához.",
+                "ro": "Pauză scurtă pentru a ajusta pelerina de ploaie.",
+                "en": "Short break to adjust your rain gear."
+              }
+            },
+            {
+              "name": "Jardín de la Vega",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf kurvigen Parkwegen.",
+                "hu": "Tekerjen lassan a kanyargós parki utakon.",
+                "ro": "Pedalați încet pe aleile curbate din parc.",
+                "en": "Ride slowly on winding park paths."
+              }
+            },
+            {
+              "name": "MUNCYT",
+              "tip_5lang": {
+                "de": "Trocknen Sie sich vor dem Ausstellungsbesuch.",
+                "hu": "Törölközzön meg a kiállítás megtekintése előtt.",
+                "ro": "Ștergeți-vă de apă înainte de vizitare.",
+                "en": "Dry yourself off before entering the exhibits."
+              }
+            },
+            {
+              "name": "CosmoCaixa",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den Tag trocken zu beenden.",
+                "hu": "A tökéletes hely a nap száraz befejezéséhez.",
+                "ro": "Locul perfect pentru a încheia ziua la adăpost.",
+                "en": "The perfect place to end the day dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie Pfützen, sie könnten tief sein.",
+              "Vollständige Regenbekleidung ist ein Muss.",
+              "Weiße Fahrbahnmarkierungen sind extrem rutschig.",
+              "Reinigen Sie Ihre Bremsen nach der Tour.",
+              "Beleuchtung am Rad ist bei Regen wichtig."
+            ],
+            "hu": [
+              "Kerülje a tócsákat, mert mélyek lehetnek.",
+              "A teljes esőruházat kötelező ezen a napon.",
+              "Az útburkolati jelek esőben nagyon csúsznak.",
+              "Tisztítsa meg a fékeket a túra után.",
+              "Az esőben való láthatóság miatt használjon lámpát."
+            ],
+            "ro": [
+              "Evitați bălțile, pot fi adânci.",
+              "Echipamentul complet de ploaie este obligatoriu.",
+              "Marcajele rutiere albe sunt extrem de alunecoase.",
+              "Curățați frânele după finalizarea turului.",
+              "Luminile sunt esențiale pentru vizibilitate pe ploaie."
+            ],
+            "en": [
+              "Avoid puddles, they might be deeper than they look.",
+              "Full rain gear is a must for this trip.",
+              "White road markings are extremely slippery when wet.",
+              "Clean your brakes after the tour.",
+              "Bike lights are essential for visibility in rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine belebende Winterradtour durch Alcobendas startet am Parque de Cataluña. Wir besuchen das Bonsai-Museum und wärmen uns anschließend im Kunstzentrum auf. Über die kühlen Wege des Jardín de la Vega erreichen wir die großen Museen MUNCYT und CosmoCaixa. Die körperliche Aktivität hält uns warm, während wir die Stadt im klaren Winterlicht erkunden.",
+            "hu": "Élénkítő téli kerékpártúra Alcobendas-ban, a Parque de Cataluña-tól indulva. Meglátogatjuk a Bonsai Múzeumot, majd a művészeti központban melegszünk fel. A Jardín de la Vega hűvös ösvényein át érjük el a MUNCYT és CosmoCaixa múzeumokat. A mozgás melegen tart, miközben tiszta téli fényekben látjuk a várost.",
+            "ro": "Un tur revigorant cu bicicleta prin Alcobendas începe în parcul Cataluña. Vizităm Muzeul Bonsai și ne încălzim ulterior la centrul de artă. Prin aleile răcoroase din Jardín de la Vega ajungem la muzeele MUNCYT și CosmoCaixa. Activitatea fizică ne menține calzi în timp ce explorăm orașul sub lumina clară de iarnă.",
+            "en": "An invigorating winter bike tour through Alcobendas starts at Parque de Cataluña. We visit the Bonsai Museum and then warm up at the art centre. Through the cool paths of Jardín de la Vega, we reach the MUNCYT and CosmoCaixa museums. The physical activity keeps us warm while we explore the city in clear winter light."
+          },
+          "stops": [
+            {
+              "name": "Parque de Cataluña",
+              "tip_5lang": {
+                "de": "Handschuhe sind bei der Abfahrt unerlässlich.",
+                "hu": "A kesztyű elengedhetetlen a tekeréshez.",
+                "ro": "Mănușile sunt esențiale pentru pedalat.",
+                "en": "Gloves are essential for the ride."
+              }
+            },
+            {
+              "name": "Bonsai Museum",
+              "tip_5lang": {
+                "de": "Schützen Sie Ihre Ohren vor dem kalten Wind.",
+                "hu": "Védje fülét a hideg menetszéltől.",
+                "ro": "Protejați-vă urechile de vântul rece.",
+                "en": "Protect your ears from the cold wind."
+              }
+            },
+            {
+              "name": "Alcobendas Art Centre",
+              "tip_5lang": {
+                "de": "Nehmen Sie einen heißen Tee in der Nähe ein.",
+                "hu": "Igyon egy forró teát a közelben.",
+                "ro": "Beți un ceai cald în apropiere.",
+                "en": "Grab a hot tea nearby."
+              }
+            },
+            {
+              "name": "Church of San Pedro Apóstol",
+              "tip_5lang": {
+                "de": "Kurze Pause zum Aufwärmen der Finger.",
+                "hu": "Rövid pihenő az ujjak átmelegítéséhez.",
+                "ro": "Pauză scurtă pentru a vă încălzi degetele.",
+                "en": "Short break to warm up your fingers."
+              }
+            },
+            {
+              "name": "Jardín de la Vega",
+              "tip_5lang": {
+                "de": "In schattigen Zonen kann es deutlich kühler sein.",
+                "hu": "Az árnyékos részeken sokkal hűvösebb lehet.",
+                "ro": "Poate fi mult mai rece în zonele umbrite.",
+                "en": "It can be much cooler in shaded areas."
+              }
+            },
+            {
+              "name": "MUNCYT",
+              "tip_5lang": {
+                "de": "Schließen Sie Helm und Jacke im Schließfach ein.",
+                "hu": "Zárja a sisakot és kabátot a szekrénybe.",
+                "ro": "Închideți casca și jacheta în dulap.",
+                "en": "Lock your helmet and jacket in a locker."
+              }
+            },
+            {
+              "name": "CosmoCaixa",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang vom Museum aus.",
+                "hu": "Élvezze a naplementét a múzeum környékéről.",
+                "ro": "Bucurați-vă de apus de la muzeu.",
+                "en": "Enjoy the sunset from the museum area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Raureif am frühen Morgen.",
+              "Warme Socken verhindern kalte Füße beim Radeln.",
+              "Die Wintersonne steht tief und kann blenden.",
+              "Der Akku von E-Bikes entlädt sich bei Kälte schneller.",
+              "Beenden Sie die Tour vor Einbruch der Dunkelheit."
+            ],
+            "hu": [
+              "Kora reggel figyeljen a dérre az utakon.",
+              "A meleg zokni megvédi a lábát a lehűléstől.",
+              "A téli nap alacsonyan jár, vakíthat tekerés közben.",
+              "Az elektromos kerékpárok akkuja gyorsabban merül hidegben.",
+              "Sötétedés előtt fejezze be a túrát."
+            ],
+            "ro": [
+              "Atenție la brumă pe drumurile de dimineață.",
+              "Șosetele groase previn răcirea picioarelor.",
+              "Soarele de iarnă este jos și poate fi orbitor.",
+              "Bateria bicicletelor electrice se descarcă mai repede la frig.",
+              "Finalizați turul înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "Watch out for frost on the roads in the morning.",
+              "Warm socks prevent cold feet while cycling.",
+              "The winter sun is low and can be blinding.",
+              "E-bike batteries drain faster in the cold.",
+              "Finish your tour before it gets dark."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -942,6 +1340,196 @@
           "A GPS is essential for navigating between clusters.",
           "Do not leave valuables visible in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Alcobendas bei Regen bequem zu erkunden. Wir starten bei den Museen MUNCYT und CosmoCaixa, die beide über Parkgaragen verfügen. Danach geht es zum historischen Zentrum zur Kirche San Pedro, wobei kurze Wege vom Auto den Regen minimieren. Der Tag endet am Parque de Cataluña, wo wir die Aussicht trocken aus dem Fahrzeug genießen können.",
+            "hu": "Autóval Alcobendas esőben is kényelmesen felfedezhető. A MUNCYT és CosmoCaixa múzeumoknál kezdünk, mindkettő rendelkezik mélygarázzsal. Ezután a történelmi központ San Pedro-templomához hajtunk, minimalizálva az esőben töltött időt. A napot a Parque de Cataluña-nál zárjuk, ahol a kilátást az autóból is élvezhetjük.",
+            "ro": "Cu mașina, Alcobendas este ușor de explorat pe ploaie. Începem la muzeele MUNCYT și CosmoCaixa, ambele având parcări acoperite. Continuăm spre centrul istoric la biserica San Pedro, minimizând timpul petrecut în ploaie. Ziua se încheie la Parque de Cataluña, unde putem admira peisajul din confortul mașinii.",
+            "en": "By car, Alcobendas is easy to explore even in the rain. We start at the MUNCYT and CosmoCaixa museums, both featuring indoor parking. Next, we head to the historic center's San Pedro Church, minimizing the walk in the rain. The day ends at Parque de Cataluña, where we can enjoy the view from the dry interior of the car."
+          },
+          "stops": [
+            {
+              "name": "MUNCYT & CosmoCaixa Cluster",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus unter dem MUNCYT.",
+                "hu": "Használja a MUNCYT alatti parkolóházat.",
+                "ro": "Folosiți parcarea subterană de sub MUNCYT.",
+                "en": "Use the underground parking under MUNCYT."
+              }
+            },
+            {
+              "name": "MUNCYT",
+              "tip_5lang": {
+                "de": "Verstauen Sie nasse Schirme im Kofferraum.",
+                "hu": "A vizes ernyőket tegye a csomagtartóba.",
+                "ro": "Puneți umbrelele ude în portbagaj.",
+                "en": "Store wet umbrellas in the trunk."
+              }
+            },
+            {
+              "name": "CosmoCaixa",
+              "tip_5lang": {
+                "de": "Kurzer überdachter Weg vom Parkplatz.",
+                "hu": "Rövid, fedett út a parkolótól.",
+                "ro": "Drum scurt acoperit de la parcare.",
+                "en": "Short covered walk from the parking area."
+              }
+            },
+            {
+              "name": "Historic Center Cluster",
+              "tip_5lang": {
+                "de": "Parkhäuser im Zentrum sind bei Regen oft voll.",
+                "hu": "Az esőben a belvárosi parkolók hamar megtelnek.",
+                "ro": "Parcările centrale se umplu repede pe ploaie.",
+                "en": "Central parking garages fill up quickly in rain."
+              }
+            },
+            {
+              "name": "Church of San Pedro Apóstol",
+              "tip_5lang": {
+                "de": "Lassen Sie Passagiere direkt vor dem Tor aussteigen.",
+                "hu": "Az utasok kiszállhatnak közvetlenül a kapunál.",
+                "ro": "Lăsați pasagerii să coboare chiar la poartă.",
+                "en": "Drop off passengers right at the gate."
+              }
+            },
+            {
+              "name": "Parque de Cataluña Cluster",
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf den Parksee.",
+                "hu": "Parkoljon a park tavára néző helyen.",
+                "ro": "Parcați cu vedere spre lacul din parc.",
+                "en": "Park with a view of the park lake."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Schnellstraßen.",
+              "Die Sicht kann bei starkem Regen eingeschränkt sein.",
+              "Nutzen Sie die Park-Apps zur Platzsuche.",
+              "Lüftung einschalten, um beschlagene Scheiben zu vermeiden.",
+              "Planen Sie mehr Zeit für den Stadtverkehr ein."
+            ],
+            "hu": [
+              "Figyeljen a vízenfutásra a gyorsforgalmi utakon.",
+              "A látási viszonyok korlátozottak lehetnek nagy esőben.",
+              "Használjon parkolási appot a helykereséshez.",
+              "Kapcsolja be a párátlanítót az ablakokon.",
+              "Számoljon több idővel a városi forgalom miatt."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile rapide.",
+              "Vizibilitatea poate fi redusă în timpul ploii torențiale.",
+              "Folosiți aplicații de parcare pentru a găsi locuri.",
+              "Porniți ventilația pentru a dezaburi geamurile.",
+              "Alocați mai mult timp pentru traficul urban."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the main roads.",
+              "Visibility can be limited during heavy rain.",
+              "Use parking apps to find available spots.",
+              "Keep the ventilation on to prevent fogged windows.",
+              "Allow extra time for city traffic."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Roadtrip durch Alcobendas bietet Komfort und Wärme. Wir beginnen bei den Museen MUNCYT und CosmoCaixa, wo die Ausstellungen perfekt klimatisiert sind. Danach fahren wir zum historischen Kern und besuchen die Kirche San Pedro. Der Tag endet im Parque de Cataluña, wo wir das winterliche Panorama genießen, bevor wir uns wieder ins warme Auto zurückziehen.",
+            "hu": "A téli autós kirándulás Alcobendas-ban kényelmet és meleget nyújt. A MUNCYT és CosmoCaixa múzeumoknál kezdünk, ahol a kiállítások tökéletesen fűtöttek. Ezután a történelmi magba hajtunk a San Pedro-templomhoz. A napot a Parque de Cataluña-nál zárjuk, élvezve a téli panorámát, mielőtt visszatérnénk a meleg autóba.",
+            "ro": "O excursie de iarnă cu mașina prin Alcobendas oferă confort și căldură. Începem la muzeele MUNCYT și CosmoCaixa, unde expozițiile sunt bine climatizate. Apoi conducem spre centrul istoric pentru biserica San Pedro. Ziua se încheie în parcul Cataluña, admirând panorama de iarnă înainte de a ne retrage în mașina caldă.",
+            "en": "A winter road trip through Alcobendas offers comfort and warmth. We start at the MUNCYT and CosmoCaixa museums, where the exhibits are perfectly climate-controlled. Next, we drive to the historic core to visit San Pedro Church. The day ends at Parque de Cataluña, where we enjoy the winter panorama before retreating to the warm car."
+          },
+          "stops": [
+            {
+              "name": "MUNCYT & CosmoCaixa Cluster",
+              "tip_5lang": {
+                "de": "Vorgewärmtes Auto macht den Umstieg angenehm.",
+                "hu": "Az előfűtött autó kellemessé teszi a váltást.",
+                "ro": "Mașina preîncălzită face transferul plăcut.",
+                "en": "A pre-heated car makes the transition pleasant."
+              }
+            },
+            {
+              "name": "MUNCYT",
+              "tip_5lang": {
+                "de": "Geben Sie dicke Jacken an der Museumsgarderobe ab.",
+                "hu": "Adja le a vastag kabátokat a múzeumi ruhatárban.",
+                "ro": "Lăsați jachetele groase la garderoba muzeului.",
+                "en": "Leave heavy jackets at the museum cloakroom."
+              }
+            },
+            {
+              "name": "CosmoCaixa",
+              "tip_5lang": {
+                "de": "Vom Parkhaus gelangen Sie direkt ins Warme.",
+                "hu": "A garázsból közvetlenül a melegbe juthat.",
+                "ro": "Din parcare ajungeți direct la căldură.",
+                "en": "Enter the warmth directly from the parking garage."
+              }
+            },
+            {
+              "name": "Historic Center Cluster",
+              "tip_5lang": {
+                "de": "Kurze Parkplatzsuche im Winter oft einfacher.",
+                "hu": "Télen gyakran könnyebb parkolóhelyet találni.",
+                "ro": "Găsirea unui loc de parcare este mai ușoară iarna.",
+                "en": "Finding a parking spot is often easier in winter."
+              }
+            },
+            {
+              "name": "Church of San Pedro Apóstol",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem Kirchenbesuch.",
+                "hu": "Használja az ülésfűtést a templomlátogatás után.",
+                "ro": "Folosiți încălzirea în scaune după vizită.",
+                "en": "Use the seat heaters after visiting the church."
+              }
+            },
+            {
+              "name": "Parque de Cataluña Cluster",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang bequem im Auto.",
+                "hu": "Élvezze a naplementét kényelmesen az autóból.",
+                "ro": "Bucurați-vă de apus confortabil din mașină.",
+                "en": "Enjoy the sunset comfortably from inside the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei niedrigen Temperaturen.",
+              "Eiskratzer im Winter in Madrid selten nötig, aber gut.",
+              "Die Straßen sind im Winter meist trocken und frei.",
+              "Vermeiden Sie es, den Motor im Stand warm laufen zu lassen.",
+              "Trinken Sie im Auto keinen heißen Kaffee während der Fahrt."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást az alacsony hőmérsékleten.",
+              "Jégkaparó ritkán kell Madridban, de legyen kéznél.",
+              "Az utak télen többnyire szárazak és jól járhatóak.",
+              "Ne járassa álló helyzetben a motort a bemelegítéshez.",
+              "Vezetés közben ne fogyasszon túl forró italt az autóban."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope la temperaturi joase.",
+              "Răzuitoarea de gheață e rar necesară, dar utilă.",
+              "Drumurile sunt de obicei uscate și libere iarna.",
+              "Evitați încălzirea motorului la ralanti.",
+              "Nu consumați băuturi foarte fierbinți în timp ce conduceți."
+            ],
+            "en": [
+              "Check tire pressure as it drops in cold weather.",
+              "Ice scrapers are rarely needed in Madrid, but keep one.",
+              "Roads are mostly dry and clear in winter here.",
+              "Avoid idling the engine to warm it up.",
+              "Avoid drinking very hot beverages while driving."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1222,6 +1810,178 @@
           "Be mindful of peak hours as buses can get crowded.",
           "Validate your ticket each time you board to avoid fines."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Metro bleibt die Tour durch Alcobendas auch bei Regen trocken. Wir starten im Zentrum bei der Kirche San Pedro, wobei die Metrostationen guten Schutz bieten. Danach geht es zum Kunstzentrum und weiter zum Parque de Cataluña. Den Abschluss bilden die Museen MUNCYT und CosmoCaixa, die hervorragend an den öffentlichen Nahverkehr angebunden sind.",
+            "hu": "Busszal és metróval az Alcobendas-i túra esőben is száraz marad. A központban kezdünk a San Pedro-templomnál, a metrómegállók jó védelmet nyújtanak. Ezután a művészeti központ, majd a Parque de Cataluña következik. A napot a MUNCYT és CosmoCaixa múzeumok zárják, amelyek kiválóan elérhetőek tömegközlekedéssel.",
+            "ro": "Cu autobuzul și metroul, turul prin Alcobendas rămâne uscat chiar și pe ploaie. Începem în centru la biserica San Pedro, stațiile de metrou oferind protecție. Continuăm la centrul de artă și apoi spre parcul Cataluña. Finalul aparține muzeelor MUNCYT și CosmoCaixa, foarte bine conectate la transportul public.",
+            "en": "By bus and metro, the tour of Alcobendas stays dry even in the rain. We start in the center at San Pedro Church, where metro stations provide good shelter. Then we visit the art centre and Parque de Cataluña. The day ends at the MUNCYT and CosmoCaixa museums, which are excellently connected by public transport."
+          },
+          "stops": [
+            {
+              "name": "Centro Cluster",
+              "tip_5lang": {
+                "de": "Nutzen Sie die unterirdischen Passagen der Metro.",
+                "hu": "Használja a metró aluljáróit a közlekedéshez.",
+                "ro": "Folosiți pasajele subterane de la metrou.",
+                "en": "Use the underground metro passages to move around."
+              }
+            },
+            {
+              "name": "Church of San Pedro Apóstol",
+              "tip_5lang": {
+                "de": "Warten Sie in der Kirche, bis der nächste Bus kommt.",
+                "hu": "Várjon a templomban a következő busz érkezéséig.",
+                "ro": "Așteptați în biserică până vine următorul autobuz.",
+                "en": "Wait inside the church until your bus is due."
+              }
+            },
+            {
+              "name": "Alcobendas Art Centre",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist nur wenige Schritte entfernt.",
+                "hu": "A buszmegálló csak pár lépésre van.",
+                "ro": "Stația de autobuz este la doar câțiva pași.",
+                "en": "The bus stop is just a few steps away."
+              }
+            },
+            {
+              "name": "Parque de Cataluña Cluster",
+              "tip_5lang": {
+                "de": "Warten Sie unter den überdachten Haltestellen.",
+                "hu": "Várjon a fedett buszvárók alatt.",
+                "ro": "Așteptați sub stațiile de autobuz acoperite.",
+                "en": "Wait under the covered bus shelters."
+              }
+            },
+            {
+              "name": "Museums Cluster",
+              "tip_5lang": {
+                "de": "Direkte Metroverbindung zurück ins Zentrum.",
+                "hu": "Közvetlen metrókapcsolat vissza a központba.",
+                "ro": "Legătură directă de metrou înapoi spre centru.",
+                "en": "Direct metro connection back to the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Ankunftszeiten per App im Trockenen.",
+              "In der Metro ist es immer warm und trocken.",
+              "Halten Sie Ihr Ticket griffbereit, um langes Stehen zu vermeiden.",
+              "Bussen können bei Regen mehr Verspätung haben.",
+              "Die Station 'Marqués de la Valdavia' ist zentral."
+            ],
+            "hu": [
+              "Ellenőrizze az érkezési időket appon a fedett helyről.",
+              "A metróban mindig meleg és száraz az idő.",
+              "Tartsa készenlétben a jegyét a gyors belépéshez.",
+              "Az autóbuszok esőben többet késhetnek.",
+              "A 'Marqués de la Valdavia' állomás központi helyen van."
+            ],
+            "ro": [
+              "Verificați timpii de sosire pe aplicație la adăpost.",
+              "În metrou este întotdeauna cald și uscat.",
+              "Țineți biletul la îndemână pentru acces rapid.",
+              "Autobuzele pot avea întârzieri mai mari pe ploaie.",
+              "Stația 'Marqués de la Valdavia' este centrală."
+            ],
+            "en": [
+              "Check arrival times on the app while staying dry.",
+              "The metro is always warm and dry inside.",
+              "Have your ticket ready to avoid standing in the rain.",
+              "Buses may experience more delays during rain.",
+              "The 'Marqués de la Valdavia' station is centrally located."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel machen die winterliche Erkundung von Alcobendas angenehm warm. Wir beginnen im historischen Zentrum bei der Kirche San Pedro. Die Metro bringt uns komfortabel zum Kunstzentrum und zum Parque de Cataluña. Der Tag gipfelt in einem Besuch der Museen MUNCYT und CosmoCaixa, die perfekte Winterziele mit guter Busanbindung sind.",
+            "hu": "A tömegközlekedés kellemesen meleggé teszi Alcobendas téli felfedezését. A történelmi központban kezdünk a San Pedro-templomnál. A metró kényelmesen visz minket a művészeti központhoz és a Parque de Cataluña-hoz. A nap fénypontja a MUNCYT és CosmoCaixa múzeumok, amelyek kiváló téli célpontok jó buszkapcsolattal.",
+            "ro": "Transportul public face explorarea de iarnă a orașului Alcobendas plăcută și caldă. Începem în centrul istoric la biserica San Pedro. Metroul ne duce confortabil la centrul de artă și la parcul Cataluña. Ziua culminează cu vizitarea muzeelor MUNCYT și CosmoCaixa, destinații perfecte de iarnă.",
+            "en": "Public transport makes winter exploration of Alcobendas pleasantly warm. We start in the historic center at San Pedro Church. The metro comfortably takes us to the art centre and Parque de Cataluña. The day culminates in a visit to the MUNCYT and CosmoCaixa museums, which are perfect winter destinations with good bus links."
+          },
+          "stops": [
+            {
+              "name": "Centro Cluster",
+              "tip_5lang": {
+                "de": "Die Metrostationen sind im Winter gut beheizt.",
+                "hu": "A metróállomások télen jól fűtöttek.",
+                "ro": "Stațiile de metrou sunt bine încălzite iarna.",
+                "en": "Metro stations are well-heated in winter."
+              }
+            },
+            {
+              "name": "Church of San Pedro Apóstol",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg zur nächsten Haltestelle.",
+                "hu": "Rövid séta a legközelebbi megállóig.",
+                "ro": "O scurtă plimbare până la cea mai apropiată stație.",
+                "en": "A short walk to the nearest stop."
+              }
+            },
+            {
+              "name": "Alcobendas Art Centre",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme während der Ausstellung.",
+                "hu": "Élvezze a meleget a kiállítás alatt.",
+                "ro": "Bucurați-vă de căldură în timpul expoziției.",
+                "en": "Enjoy the warmth during the exhibition."
+              }
+            },
+            {
+              "name": "Parque de Cataluña Cluster",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die Kälte draußen zu lassen.",
+                "hu": "Használja a buszt, hogy kint hagyja a hideget.",
+                "ro": "Folosiți autobuzul pentru a evita frigul de afară.",
+                "en": "Use the bus to stay away from the cold outside."
+              }
+            },
+            {
+              "name": "Museums Cluster",
+              "tip_5lang": {
+                "de": "Helle Stationen sorgen für Sicherheit am Abend.",
+                "hu": "A kivilágított megállók biztonságosak este.",
+                "ro": "Stațiile luminate oferă siguranță seara.",
+                "en": "Brightly lit stations ensure safety in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Metro fährt bis spät in die Nacht.",
+              "Tragen Sie Kleidung, die sich im Bus leicht öffnen lässt.",
+              "Die Luft in der Metro kann im Winter sehr trocken sein.",
+              "Nutzen Sie die Mehrfahrtenkarte 'Tarjeta Multi'.",
+              "Die Taktung der Busse ist auch im Winter zuverlässig."
+            ],
+            "hu": [
+              "A metró késő éjszakáig közlekedik.",
+              "Viseljen könnyen kigombolható ruhát a buszon.",
+              "A metróban télen nagyon száraz lehet a levegő.",
+              "Használja a 'Tarjeta Multi' gyűjtőjegyet.",
+              "A buszjáratok télen is megbízhatóan sűrűn járnak."
+            ],
+            "ro": [
+              "Metroul circulă până târziu în noapte.",
+              "Purtați haine ușor de desfăcut în autobuz.",
+              "Aerul din metrou poate fi foarte uscat iarna.",
+              "Folosiți cardul de călătorie 'Tarjeta Multi'.",
+              "Frecvența autobuzelor este fiabilă și iarna."
+            ],
+            "en": [
+              "The metro runs until late at night.",
+              "Wear layers that are easy to open on the bus.",
+              "The air in the metro can be very dry in winter.",
+              "Use the 'Tarjeta Multi' travel card for savings.",
+              "Bus frequencies remain reliable during winter."
+            ]
+          }
+        }
       }
     }
   }

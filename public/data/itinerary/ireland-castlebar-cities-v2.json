@@ -346,6 +346,188 @@
           "Castlebar is compact, making walking the ideal way to explore.",
           "Take your time at Lough Lannagh; it's a local favourite for relaxation."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Vormittag geschützt in der Christ Church und dem Linenhall Arts Centre. Mittags bietet die Jackie Clarke Collection stundenlangen trockenen Aufenthalt inmitten faszinierender Geschichte. Nachmittags ist der Spaziergang am Lough Lannagh kurz, aber erfrischend; nutzen Sie das Besucherzentrum bei Schauern. Der Abend klingt gemütlich in einem der Pubs im Stadtzentrum aus.",
+            "hu": "A reggelt töltse fedett helyen, a Christ Church falai között és a Linenhall Művészeti Központban. Délben a Jackie Clarke gyűjtemény nyújt menedéket az eső elől, ahol órákig böngészheti a történelmi kincseket. Délután a Lough Lannagh-tó körüli séta frissítő, de készüljön fel a szélre. Az estét zárja egy hangulatos belvárosi pubban, távol a felhőszakadástól.",
+            "ro": "Începeți dimineața la adăpost în Christ Church și Centrul de Arte Linenhall. La prânz, Colecția Jackie Clarke oferă ore de explorare uscată printre artefacte istorice. După-amiaza, plimbarea pe lângă lacul Lough Lannagh este scurtă dar revigorantă; folosiți centrul de vizitatori în caz de aversă. Seara se încheie confortabil într-un pub din centrul orașului.",
+            "en": "Start the morning sheltered inside Christ Church and the Linenhall Arts Centre. At noon, the Jackie Clarke Collection provides hours of dry exploration through fascinating history. In the afternoon, the walk at Lough Lannagh is brief but refreshing; use the visitor centre if showers intensify. The evening ends cozily in a town centre pub away from the downpour."
+          },
+          "stops": [
+            {
+              "name": "Christ Church",
+              "tip_5lang": {
+                "de": "Trockener Rückzugsort mit schöner Architektur.",
+                "hu": "Száraz menedék gyönyörű építészettel.",
+                "ro": "Refugiu uscat cu arhitectură frumoasă.",
+                "en": "Dry retreat with beautiful architecture."
+              }
+            },
+            {
+              "name": "Linenhall Arts Centre",
+              "tip_5lang": {
+                "de": "Perfekt für regnerische Vormittage im Café.",
+                "hu": "Tökéletes esős délelőttökhöz a kávézóban.",
+                "ro": "Perfect pentru dimineți ploioase la cafenea.",
+                "en": "Perfect for rainy mornings in the café."
+              }
+            },
+            {
+              "name": "The Jackie Clarke Collection",
+              "tip_5lang": {
+                "de": "Großartige Innenausstellung, ideal bei Regen.",
+                "hu": "Nagyszerű beltéri kiállítás, ideális esőben.",
+                "ro": "Expoziție interioară grozavă, ideală pe ploaie.",
+                "en": "Great indoor exhibition, ideal when raining."
+              }
+            },
+            {
+              "name": "Mayo Peace Park",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter Bäumen möglich.",
+                "hu": "Rövid megálló a fák alatt lehetséges.",
+                "ro": "Scurt popas sub copaci dacă plouă.",
+                "en": "Short stop possible under the trees."
+              }
+            },
+            {
+              "name": "Castlebar Town Park",
+              "tip_5lang": {
+                "de": "Befestigte Wege vermeiden Schlamm.",
+                "hu": "A burkolt utak segítenek elkerülni a sarat.",
+                "ro": "Potecile pavate evită noroiul.",
+                "en": "Paved paths avoid the mud."
+              }
+            },
+            {
+              "name": "Lough Lannagh",
+              "tip_5lang": {
+                "de": "Winddichte Kleidung ist hier am See Pflicht.",
+                "hu": "Szélálló ruházat kötelező itt a tónál.",
+                "ro": "Hainele rezistente la vânt sunt obligatorii aici.",
+                "en": "Windproof clothing is essential here by the lake."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Passage-Abkürzungen im Zentrum.",
+              "Das Linenhall Café ist ein idealer Regenunterstand.",
+              "Wasserdichte Schuhe für den Seeweg einplanen.",
+              "Die Museen haben kostenlose Garderoben."
+            ],
+            "hu": [
+              "Használja a belvárosi átjárókat rövidítésnek.",
+              "A Linenhall kávézója ideális esőhelyszín.",
+              "Vízálló cipő javasolt a tóparti sétához.",
+              "A múzeumokban van ingyenes ruhatár."
+            ],
+            "ro": [
+              "Folosiți pasajele din centru pentru scurtături.",
+              "Cafeneaua Linenhall este un adăpost ideal.",
+              "Se recomandă încălțăminte impermeabilă pentru lac.",
+              "Muzeele au garderobe gratuite."
+            ],
+            "en": [
+              "Use town centre passages for shortcuts.",
+              "The Linenhall café is an ideal rain shelter.",
+              "Waterproof shoes recommended for the lake walk.",
+              "Museums offer free cloakrooms."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Vormittag beginnt in der historischen Christ Church. Mittags wärmen Sie sich in den Archiven der Jackie Clarke Collection auf. Da die Sonne früh untergeht, besuchen Sie den Lough Lannagh bereits am frühen Nachmittag, um das goldene Winterlicht einzufangen. Der Abend gehört der lebhaften Pub-Kultur, wo der Kaminofen bereits brennt.",
+            "hu": "A fagyos délelőtt a történelmi Christ Church falai között indul. Délben melegedjen fel a Jackie Clarke gyűjtemény archívumai között. Mivel korán sötétedik, már kora délután látogasson el a Lough Lannagh-tóhoz, hogy elkapja a téli fényeket. Az este a nyüzsgő puboké, ahol a kandalló melege várja a kirándulókat.",
+            "ro": "O dimineață geroasă începe în istorica Christ Church. La prânz, încălziți-vă printre arhivele Colecției Jackie Clarke. Deoarece soarele apune devreme, vizitați lacul Lough Lannagh la începutul după-amiezii pentru lumina de iarnă. Seara aparține pub-urilor animate, unde șemineul este deja aprins.",
+            "en": "A frosty morning starts in the historic Christ Church. At noon, warm up among the archives of the Jackie Clarke Collection. Since the sun sets early, visit Lough Lannagh in the early afternoon to catch the winter light. The evening belongs to the lively pub culture, where the fireplace is already burning."
+          },
+          "stops": [
+            {
+              "name": "Christ Church",
+              "tip_5lang": {
+                "de": "Im Winter oft kühl, Schal mitnehmen.",
+                "hu": "Télen hűvös lehet, vigyen sálat.",
+                "ro": "Adesea răcoare iarna, luați un fular.",
+                "en": "Often chilly in winter, bring a scarf."
+              }
+            },
+            {
+              "name": "Linenhall Arts Centre",
+              "tip_5lang": {
+                "de": "Gemütliche Wärme und heiße Suppen.",
+                "hu": "Meghitt meleg és forró levesek.",
+                "ro": "Căldură primitoare și supe fierbinți.",
+                "en": "Cozy warmth and hot soups available."
+              }
+            },
+            {
+              "name": "The Jackie Clarke Collection",
+              "tip_5lang": {
+                "de": "Gut beheizte Räume, ideal zum Verweilen.",
+                "hu": "Jól fűtött termek, ideális pihenőhely.",
+                "ro": "Săli bine încălzite, ideale pentru popas.",
+                "en": "Well-heated rooms, ideal for staying long."
+              }
+            },
+            {
+              "name": "Mayo Peace Park",
+              "tip_5lang": {
+                "de": "Bei Frost können die Gedenktafeln glatt sein.",
+                "hu": "Fagyban az emlékhelyek csúszósak lehetnek.",
+                "ro": "Plăcile comemorative pot fi alunecoase pe ger.",
+                "en": "Memorial plaques can be slippery in frost."
+              }
+            },
+            {
+              "name": "Castlebar Town Park",
+              "tip_5lang": {
+                "de": "Schöne Winterbeleuchtung am späten Nachmittag.",
+                "hu": "Szép téli kivilágítás késő délután.",
+                "ro": "Iluminat de iarnă frumos după-amiaza târziu.",
+                "en": "Beautiful winter lighting in late afternoon."
+              }
+            },
+            {
+              "name": "Lough Lannagh",
+              "tip_5lang": {
+                "de": "Sonnenuntergang gegen 16:30 Uhr genießen.",
+                "hu": "Élvezze a naplementét 16:30 körül.",
+                "ro": "Bucurați-vă de apus în jur de ora 16:30.",
+                "en": "Enjoy the sunset around 16:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Dämmerung beginnt früh, planen Sie Outdoor-Aktivitäten vor 16 Uhr.",
+              "Tragen Sie Schichten gegen den feuchtkalten Mayo-Wind.",
+              "Lokale Pubs haben oft echtes Torffeuer.",
+              "Die Wege am See können morgens überfroren sein."
+            ],
+            "hu": [
+              "A sötétedés korai, tervezze a kinti programot 16 óra elé.",
+              "Réteges öltözködés javasolt a nyirkos szél ellen.",
+              "A helyi pubokban gyakran tőzeggel fűtenek.",
+              "A tóparti utak reggel jegesek lehetnenk."
+            ],
+            "ro": [
+              "Amurgul începe devreme, planificați exteriorul înainte de ora 16.",
+              "Purtați straturi contra vântului umed din Mayo.",
+              "Pub-urile locale au adesea foc de turbă.",
+              "Potecile de lângă lac pot fi înghețate dimineața."
+            ],
+            "en": [
+              "Dusk starts early, plan outdoor activities before 4 PM.",
+              "Wear layers against the damp Mayo wind.",
+              "Local pubs often have real peat fires.",
+              "Lake paths can be icy in the mornings."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -674,6 +856,206 @@
           "Carry water and snacks, especially for the ride out to Turlough.",
           "A helmet is highly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt erfordert Vorsicht, aber die Museen bieten perfekten Schutz. Starten Sie bei Jackie Clarke, bevor Sie zum See radeln. Mittags wärmt ein Lunch in der Stadt auf. Der Nachmittag führt zum Country Life Museum, wo Sie Ihr Rad sicher abstellen und die umfangreichen Innenausstellungen genießen können, während es draußen regnet.",
+            "hu": "Az esős út óvatosságot igényel, de a múzeumok tökéletes menedéket nyújtanak. Kezdjen a Jackie Clarke-nál, mielőtt a tóhoz tekerne. Ebédeljen a városban, hogy felmelegedjen. Délután irány a Country Life Múzeum, ahol biztonságban hagyhatja a biciklit, és élvezheti a benti kiállításokat a zápor alatt.",
+            "ro": "O plimbare udă necesită prudență, dar muzeele oferă adăpostul perfect. Începeți la Jackie Clarke înainte de a pedala spre lac. La prânz, încălziți-vă cu un prânz în oraș. După-amiaza mergeți la Muzeul Country Life, unde puteți lăsa bicicleta în siguranță pentru a explora interiorul.",
+            "en": "A wet ride requires caution, but the museums offer perfect shelter. Start at Jackie Clarke before cycling to the lake. Have lunch in town to warm up. The afternoon leads to the Country Life Museum, where you can safely park your bike and enjoy the extensive indoor exhibits while it rains outside."
+          },
+          "stops": [
+            {
+              "name": "The Jackie Clarke Collection",
+              "tip_5lang": {
+                "de": "Stellen Sie Räder im Innenhof unter.",
+                "hu": "A belső udvarban védett helyen hagyhatja a gépet.",
+                "ro": "Lăsați bicicletele sub acoperiș în curte.",
+                "en": "Park bikes under cover in the courtyard."
+              }
+            },
+            {
+              "name": "Christ Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Pflaster.",
+                "hu": "Vigyázzon a leszálláskor a vizes kövezeten.",
+                "ro": "Atenție la descălecare pe pavajul ud.",
+                "en": "Caution when dismounting on wet pavement."
+              }
+            },
+            {
+              "name": "Lough Lannagh",
+              "tip_5lang": {
+                "de": "Der Asphaltweg bleibt bei Regen gut befahrbar.",
+                "hu": "Az aszfaltút esőben is jól tekerhető marad.",
+                "ro": "Drumul asfaltat rămâne practicabil pe ploaie.",
+                "en": "The tarmac path remains rideable in rain."
+              }
+            },
+            {
+              "name": "Lunch in Town",
+              "tip_5lang": {
+                "de": "Suchen Sie Lokale mit sichtbaren Fahrradständern.",
+                "hu": "Keressen kerékpártárolós éttermeket.",
+                "ro": "Căutați localuri cu rastele vizibile.",
+                "en": "Look for eateries with visible bike racks."
+              }
+            },
+            {
+              "name": "National Museum of Country Life",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer am Haupteingang.",
+                "hu": "Fedett biciklitárolók a főbejáratnál.",
+                "ro": "Rastele acoperite la intrarea principală.",
+                "en": "Covered bike racks at the main entrance."
+              }
+            },
+            {
+              "name": "Turlough Round Tower",
+              "tip_5lang": {
+                "de": "Weg dorthin kann windig und exponiert sein.",
+                "hu": "Az odavezető út szeles és kitett lehet.",
+                "ro": "Drumul spre turn poate fi vântos și expus.",
+                "en": "Path there can be windy and exposed."
+              }
+            },
+            {
+              "name": "Return to Castlebar",
+              "tip_5lang": {
+                "de": "Sichtbarkeit erhöhen bei starkem Regen.",
+                "hu": "Fokozza a láthatóságot erős esőben.",
+                "ro": "Măriți vizibilitatea pe ploaie torențială.",
+                "en": "Increase visibility during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter unverzichtbar.",
+              "Bremsen Sie auf nassem Laub vorsichtig.",
+              "Tragen Sie helle, wasserfeste Kleidung.",
+              "Nutzen Sie den Great Western Greenway Abschnitt."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Óvatosan fékezzen a vizes leveleken.",
+              "Viseljen világos, vízálló ruházatot.",
+              "Használja a Great Western Greenway szakaszait."
+            ],
+            "ro": [
+              "Aripile la roți sunt esențiale pe această vreme.",
+              "Frânați cu grijă pe frunzele ude.",
+              "Purtați haine reflectorizante și impermeabile.",
+              "Folosiți secțiunile din Great Western Greenway."
+            ],
+            "en": [
+              "Mudguards are essential in this weather.",
+              "Brake carefully on wet leaves.",
+              "Wear bright, waterproof clothing.",
+              "Utilize the Great Western Greenway sections."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag ist herrlich zum Radeln, solange man warm bleibt. Besuchen Sie morgens die Ausstellungen und radeln Sie mittags zum Turlough Park. Das tiefstehende Licht am Round Tower ist ein Highlight. Kehren Sie vor Einbruch der Dunkelheit nach Castlebar zurück, um die beleuchteten Straßen und die warme Atmosphäre der Stadt zu genießen.",
+            "hu": "Egy tiszta téli nap csodás a biciklizéshez, amíg melegen öltözik. Reggel nézze meg a kiállításokat, délben pedig tekerjen el a Turlough Parkba. Az alacsonyan járó nap fénye a kerek toronynál felejthetetlen. Érjen vissza Castlebarba sötétedés előtt, hogy élvezhesse a kivilágított utcákat.",
+            "ro": "O zi senină de iarnă este minunată pentru pedalat, cât timp rămâneți încălziți. Vizitați expozițiile dimineața și mergeți la Turlough Park la prânz. Lumina joasă la Round Tower este un punct forte. Reveniți în Castlebar înainte de întuneric pentru atmosfera caldă a orașului.",
+            "en": "A clear winter day is wonderful for cycling as long as you stay warm. Visit the exhibits in the morning and cycle to Turlough Park at noon. The low winter light at the Round Tower is a highlight. Return to Castlebar before dark to enjoy the illuminated streets and the town's warm atmosphere."
+          },
+          "stops": [
+            {
+              "name": "The Jackie Clarke Collection",
+              "tip_5lang": {
+                "de": "Handschuhe am Empfang kurz trocknen lassen.",
+                "hu": "A recepciónál hagyja száradni a kesztyűket.",
+                "ro": "Lăsați mănușile la uscat la recepție.",
+                "en": "Let gloves dry briefly near the entrance."
+              }
+            },
+            {
+              "name": "Christ Church",
+              "tip_5lang": {
+                "de": "Kopfsteinpflaster kann morgens glatt sein.",
+                "hu": "A macskakő reggel jeges/csúszós lehet.",
+                "ro": "Pavajul poate fi alunecos dimineața.",
+                "en": "Cobblestones can be slick in the morning."
+              }
+            },
+            {
+              "name": "Lough Lannagh",
+              "tip_5lang": {
+                "de": "Herrliche klare Sicht über den See.",
+                "hu": "Csodálatos tiszta kilátás a tóra.",
+                "ro": "Vedere clară și superbă peste lac.",
+                "en": "Magnificent clear views over the lake."
+              }
+            },
+            {
+              "name": "Lunch in Town",
+              "tip_5lang": {
+                "de": "Heiße Getränke für die Weiterfahrt einpacken.",
+                "hu": "Vigyen forró italt a további útra.",
+                "ro": "Luați băuturi fierbinți pentru drum.",
+                "en": "Pack hot drinks for the onward ride."
+              }
+            },
+            {
+              "name": "National Museum of Country Life",
+              "tip_5lang": {
+                "de": "Museumsshop bietet warme Wollartikel an.",
+                "hu": "A múzeumi boltban meleg gyapjútermékek vannak.",
+                "ro": "Magazinul muzeului are articole din lână.",
+                "en": "Museum shop offers warm woollen items."
+              }
+            },
+            {
+              "name": "Turlough Round Tower",
+              "tip_5lang": {
+                "de": "Besuch vor 16 Uhr planen (Tageslicht).",
+                "hu": "Tervezze a látogatást 16 óra előtt.",
+                "ro": "Vizitați înainte de ora 16 pentru lumină.",
+                "en": "Plan visit before 4 PM for daylight."
+              }
+            },
+            {
+              "name": "Return to Castlebar",
+              "tip_5lang": {
+                "de": "Beleuchtung für die Rückfahrt prüfen.",
+                "hu": "Ellenőrizze a lámpákat a visszautashoz.",
+                "ro": "Verificați luminile pentru drumul de întoarcere.",
+                "en": "Check bike lights for the return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermohandschuhe und eine Mütze.",
+              "Achten Sie auf überfrierende Nässe im Schatten.",
+              "Die Fahrt nach Turlough dauert ca. 30-40 Min.",
+              "Ab 16:30 Uhr ist es im Winter meist dunkel."
+            ],
+            "hu": [
+              "Viseljen termokesztyűt és sapkát.",
+              "Vigyázzon a lefagyásokra az árnyékos részeken.",
+              "A Turlough-ba tartó út kb. 30-40 perc.",
+              "Télen 16:30 után már sötét van."
+            ],
+            "ro": [
+              "Purtați mănuși termice și căciulă.",
+              "Atenție la porțiunile înghețate la umbră.",
+              "Drumul spre Turlough durează 30-40 min.",
+              "După 16:30 este de obicei întuneric iarna."
+            ],
+            "en": [
+              "Wear thermal gloves and a hat.",
+              "Watch out for black ice in shaded areas.",
+              "The ride to Turlough takes about 30-40 mins.",
+              "It is usually dark after 4:30 PM in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1002,6 +1384,206 @@
           "Check the National Museum's opening hours in advance.",
           "A GPS is helpful for navigating to the rural sites."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist die komfortabelste Wahl für diesen Regentag. Beginnen Sie im Turlough Park, wo der Parkplatz nah am Museum liegt. Mittags fahren Sie direkt vor die Restaurants im Zentrum. Den Nachmittag verbringen Sie in den Museen der Stadt, wobei Sie zwischen den Stopps stets trocken bleiben. Ein entspannter Tag trotz irischem Wetter.",
+            "hu": "Az autó a legkényelmesebb választás ezen az esős napon. Kezdjen a Turlough Parkban, ahol a parkoló közel van a múzeumhoz. Ebédidőben hajtson közvetlenül a belvárosi éttermekhez. A délutánt töltse a városi múzeumokban, így a megállók között is száraz marad. Pihentető nap az ír eső ellenére is.",
+            "ro": "Mașina este cea mai confortabilă alegere pentru această zi ploioasă. Începeți la Turlough Park, unde parcarea este aproape de muzeu. La prânz, conduceți direct lângă restaurantele din centru. Petreceți după-amiaza în muzeele orașului, rămânând uscat între opriri.",
+            "en": "The car is the most comfortable choice for this rainy day. Start at Turlough Park, where the car park is close to the museum. At lunchtime, drive directly to the town centre restaurants. Spend the afternoon in the town's museums, staying dry between stops. A relaxing day despite the Irish weather."
+          },
+          "stops": [
+            {
+              "name": "National Museum of Country Life",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt am Museum.",
+                "hu": "Nagy parkoló közvetlenül a múzeumnál.",
+                "ro": "Parcare mare chiar lângă muzeu.",
+                "en": "Large car park right at the museum."
+              }
+            },
+            {
+              "name": "Turlough Round Tower",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz zum Turm.",
+                "hu": "Rövid futás a parkolótól a toronyig.",
+                "ro": "Scurt sprint de la parcare la turn.",
+                "en": "Short sprint from the parking to the tower."
+              }
+            },
+            {
+              "name": "Lough Lannagh",
+              "tip_5lang": {
+                "de": "Blick auf den See aus dem Auto möglich.",
+                "hu": "A tavi kilátás az autóból is élvezhető.",
+                "ro": "Vedere la lac posibilă din mașină.",
+                "en": "Lake views possible from the car."
+              }
+            },
+            {
+              "name": "Lunch in Town Centre",
+              "tip_5lang": {
+                "de": "Parkhaus 'Dunnes Stores' ist nah und trocken.",
+                "hu": "A Dunnes Stores parkolóháza közeli és száraz.",
+                "ro": "Parcarea Dunnes Stores este aproape și uscată.",
+                "en": "Dunnes Stores car park is nearby and dry."
+              }
+            },
+            {
+              "name": "The Jackie Clarke Collection",
+              "tip_5lang": {
+                "de": "Parken am Marktplatz (Pay & Display).",
+                "hu": "Parkolás a piactéren (fizetős).",
+                "ro": "Parcare în piață (plată la automat).",
+                "en": "Park at the Market Square (Pay & Display)."
+              }
+            },
+            {
+              "name": "Christ Church",
+              "tip_5lang": {
+                "de": "Halten Sie kurz in der Mall zum Aussteigen.",
+                "hu": "Álljon meg rövid időre a Mall-nál kiszállni.",
+                "ro": "Opriți scurt pe Mall pentru a coborî.",
+                "en": "Stop briefly on the Mall for drop-off."
+              }
+            },
+            {
+              "name": "Drive to Hotel/Dinner",
+              "tip_5lang": {
+                "de": "Vorsicht bei Aquaplaning auf Nebenstraßen.",
+                "hu": "Vigyázzon a vízenfutásra a mellékutakon.",
+                "ro": "Atenție la acvaplanare pe drumurile secundare.",
+                "en": "Watch out for aquaplaning on side roads."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parken Sie in der Nähe der Linenhall Street.",
+              "Regenschirm griffbereit im Fahrgastraum lassen.",
+              "Licht einschalten bei starkem Sprühregen.",
+              "Die Museen sind gut ausgeschildert."
+            ],
+            "hu": [
+              "Parkoljon a Linenhall Street közelében.",
+              "Tartsa az esernyőt az utastérben.",
+              "Kapcsoljon lámpát erős szitálásban is.",
+              "A múzeumok jól ki vannak táblázva."
+            ],
+            "ro": [
+              "Parcați aproape de strada Linenhall.",
+              "Țineți umbrela la îndemână în cabină.",
+              "Aprindeți farurile pe burniță densă.",
+              "Muzeele sunt bine semnalizate."
+            ],
+            "en": [
+              "Park near Linenhall Street.",
+              "Keep your umbrella handy in the cabin.",
+              "Turn on lights during heavy drizzle.",
+              "Museums are well signposted."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die winterliche Landschaft von Mayo bequem aus dem beheizten Auto. Vormittags besuchen Sie das Country Life Museum in Turlough. Nach einem stärkenden Mittagessen im Stadtzentrum erkunden Sie die Jackie Clarke Collection. Wenn es draußen dämmert, bietet eine Fahrt am Lough Lannagh vorbei schöne Ausblicke, bevor Sie den Tag gemütlich beenden.",
+            "hu": "Élvezze Mayo téli tájait a fűtött autó kényelméből. Délelőtt látogassa meg a Country Life Múzeumot Turlough-ban. Egy kiadós belvárosi ebéd után fedezze fel a Jackie Clarke gyűjteményt. Ahogy alkonyodik, a Lough Lannagh melletti autózás szép kilátást nyújt, mielőtt kényelmesen zárná a napot.",
+            "ro": "Bucurați-vă de peisajele de iarnă din Mayo din confortul mașinii încălzite. Dimineața vizitați Muzeul Country Life din Turlough. După un prânz consistent în centru, explorați Colecția Jackie Clarke. La amurg, o plimbare pe lângă lac oferă vederi frumoase înainte de finalul zilei.",
+            "en": "Enjoy Mayo's winter landscapes from the comfort of a heated car. In the morning, visit the Country Life Museum in Turlough. After a hearty town centre lunch, explore the Jackie Clarke Collection. As dusk falls, a drive past Lough Lannagh offers beautiful views before ending the day comfortably."
+          },
+          "stops": [
+            {
+              "name": "National Museum of Country Life",
+              "tip_5lang": {
+                "de": "Scheibenheizung nutzen (oft Beschlag).",
+                "hu": "Használja a páramentesítőt.",
+                "ro": "Folosiți dezaburirea parbrizului.",
+                "en": "Use the defroster (often misty)."
+              }
+            },
+            {
+              "name": "Turlough Round Tower",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp im Winterlicht.",
+                "hu": "Rövid fotómegálló a téli fényekben.",
+                "ro": "Scurtă oprire foto în lumina de iarnă.",
+                "en": "Short photo stop in winter light."
+              }
+            },
+            {
+              "name": "Lough Lannagh",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Wasser (warmer Blick).",
+                "hu": "Parkoló közvetlenül a víznél (meleg kilátás).",
+                "ro": "Parcare chiar lângă apă (vedere caldă).",
+                "en": "Parking right by the water (warm view)."
+              }
+            },
+            {
+              "name": "Lunch in Town Centre",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze sparen Gehzeit im Kühlen.",
+                "hu": "A központi parkolókkal spórolhat a hidegben.",
+                "ro": "Parcările centrale economisesc mersul în frig.",
+                "en": "Central parking saves walking in the cold."
+              }
+            },
+            {
+              "name": "The Jackie Clarke Collection",
+              "tip_5lang": {
+                "de": "Hintereingang vom Parkplatz nutzen.",
+                "hu": "Használja a hátsó bejáratot a parkolótól.",
+                "ro": "Folosiți intrarea spate de la parcare.",
+                "en": "Use the rear entrance from the parking."
+              }
+            },
+            {
+              "name": "Christ Church",
+              "tip_5lang": {
+                "de": "Die Mall ist im Winter oft festlich beleuchtet.",
+                "hu": "A Mall télen gyakran ünnepi díszben van.",
+                "ro": "Mall-ul este adesea luminat festiv iarna.",
+                "en": "The Mall is often festively lit in winter."
+              }
+            },
+            {
+              "name": "Drive to Hotel/Dinner",
+              "tip_5lang": {
+                "de": "Auf Glätte in schattigen Kurven achten.",
+                "hu": "Vigyázzon a csúszós kanyarokra az árnyékban.",
+                "ro": "Atenție la gheață în curbele umbrite.",
+                "en": "Watch for ice in shaded corners."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überprüfen Sie den Frostschutz in der Waschanlage.",
+              "Die Tage sind kurz (Sonnenuntergang 16:30).",
+              "Planen Sie Zeit zum Scheibenkratzen ein.",
+              "Abgelegene Straßen können glatt sein."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót az ablakmosóban.",
+              "A nappalok rövidek (naplemente 16:30).",
+              "Hagyjon időt a jégkaparásra reggel.",
+              "A félreeső utak jegesek lehetnek."
+            ],
+            "ro": [
+              "Verificați antigelul la lichidul de parbriz.",
+              "Zilele sunt scurte (apus la 16:30).",
+              "Rezervați timp pentru dezghețarea geamurilor.",
+              "Drumurile izolate pot fi alunecoase."
+            ],
+            "en": [
+              "Check antifreeze in the screen wash.",
+              "Days are short (sunset 16:30).",
+              "Allow time for de-icing in the morning.",
+              "Remote roads can be slippery."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1306,6 +1888,188 @@
           "Have cash ready for the bus fare in case cards aren't accepted.",
           "The Bus Éireann app is useful for real-time updates."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie Busse und lokale Verbindungen, um trocken durch Castlebar zu kommen. Starten Sie im Zentrum bei der Christ Church. Der Bus nach Turlough bringt Sie direkt zum Country Life Museum, einem perfekten Rückzugsort bei Regen. Nachmittags kehren Sie ins Zentrum zurück, wo Sie in der Jackie Clarke Collection Geschichte atmen können, während es draußen stürmt.",
+            "hu": "Használja a buszokat és a helyi járatokat, hogy szárazon járja be Castlebart. Kezdjen a belvárosban, a Christ Church-nél. A Turlough-ba tartó busz közvetlenül a Country Life Múzeumhoz viszi, ami tökéletes menedék esőben. Délután térjen vissza a központba a Jackie Clarke gyűjteményhez, ahol a történelem várja a vihar elől.",
+            "ro": "Folosiți autobuzele și legăturile locale pentru a rămâne uscat în Castlebar. Începeți în centru la Christ Church. Autobuzul spre Turlough vă lasă chiar la Muzeul Country Life, un refugiu perfect. După-amiaza reveniți în centru pentru Colecția Jackie Clarke, unde istoria vă așteaptă la adăpost.",
+            "en": "Use buses and local links to stay dry while exploring Castlebar. Start in the centre at Christ Church. The bus to Turlough drops you right at the Country Life Museum, a perfect rain retreat. In the afternoon, return to the centre for the Jackie Clarke Collection, where history awaits you away from the storm."
+          },
+          "stops": [
+            {
+              "name": "Town Centre Cluster: Christ Church",
+              "tip_5lang": {
+                "de": "Busstopps sind meist überdacht.",
+                "hu": "A buszmegállók többnyire fedettek.",
+                "ro": "Stațiile de autobuz sunt în general acoperite.",
+                "en": "Bus stops are mostly covered."
+              }
+            },
+            {
+              "name": "The Jackie Clarke Collection",
+              "tip_5lang": {
+                "de": "Nur 2 Min. Fußweg vom Busbahnhof.",
+                "hu": "Csak 2 perc séta a buszállomástól.",
+                "ro": "Doar 2 min. de mers de la autogară.",
+                "en": "Only 2 mins walk from the bus station."
+              }
+            },
+            {
+              "name": "Transit to Turlough",
+              "tip_5lang": {
+                "de": "Bus 440 oder lokale Verbindungen nutzen.",
+                "hu": "Használja a 440-es buszt vagy helyi járatot.",
+                "ro": "Folosiți bus 440 sau legături locale.",
+                "en": "Use bus 440 or local connections."
+              }
+            },
+            {
+              "name": "National Museum of Country Life",
+              "tip_5lang": {
+                "de": "Eingangsbereich bietet Schutz beim Warten.",
+                "hu": "A bejáratnál fedett részen várhat a buszra.",
+                "ro": "Intrarea oferă adăpost în timp ce așteptați.",
+                "en": "Entrance area offers shelter while waiting."
+              }
+            },
+            {
+              "name": "Turlough Round Tower",
+              "tip_5lang": {
+                "de": "Weg vom Museum zum Turm ist ungeschützt.",
+                "hu": "A múzeumtól a toronyig vezető út nyílt.",
+                "ro": "Drumul de la muzeu la turn este expus.",
+                "en": "Path from museum to tower is unsheltered."
+              }
+            },
+            {
+              "name": "Transit back to Castlebar & Lake Walk",
+              "tip_5lang": {
+                "de": "Bei starkem Regen im Bus bis zum Zentrum.",
+                "hu": "Erős esőben maradjon a buszon a központig.",
+                "ro": "Pe ploaie grea, mergeți cu bus-ul până în centru.",
+                "en": "In heavy rain, stay on the bus until the centre."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die TFI Live App für Echtzeitdaten.",
+              "Bus Eireann 440 hält direkt in Turlough.",
+              "Haben Sie Kleingeld oder Leap Card bereit.",
+              "Wartezeiten im Museumscafé überbrücken."
+            ],
+            "hu": [
+              "Töltse le a TFI Live appot a menetrendhez.",
+              "A Bus Eireann 440 megáll Turlough-ban.",
+              "Legyen kéznél apró vagy Leap Card.",
+              "Várjon a múzeumi kávézóban a buszra."
+            ],
+            "ro": [
+              "Descărcați aplicația TFI Live pentru orar.",
+              "Autobuzul 440 oprește chiar în Turlough.",
+              "Aveți mărunțiș sau Leap Card pregătit.",
+              "Așteptați autobuzul în cafeneaua muzeului."
+            ],
+            "en": [
+              "Download the TFI Live app for real-time info.",
+              "Bus Eireann 440 stops right in Turlough.",
+              "Have change or a Leap Card ready.",
+              "Wait for the bus in the museum café."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die gemütliche Fahrt durch das winterliche Mayo. Beginnen Sie im historischen Zentrum und nutzen Sie den warmen Bus nach Turlough, um das Country Life Museum zu besuchen. Das Winterlicht am Round Tower ist kurz, aber magisch. Zurück in Castlebar laden die beleuchteten Pubs und Geschäfte zu einem warmen Ausklang des Tages ein.",
+            "hu": "Élvezze a kényelmes utazást a téli Mayo-n keresztül. Kezdjen a történelmi központban, majd utazzon a fűtött busszal Turlough-ba a Country Life Múzeumhoz. A kerek toronynál a téli fények rövidek, de varázslatosak. Visszatérve Castlebarba, a kivilágított pubok és boltok várják a melegben.",
+            "ro": "Bucurați-vă de o călătorie confortabilă prin Mayo de iarnă. Începeți în centrul istoric și luați autobuzul încălzit spre Turlough pentru Muzeul Country Life. Lumina de iarnă la Round Tower este scurtă dar magică. Reveniți în Castlebar pentru pub-urile și magazinele iluminate.",
+            "en": "Enjoy a comfortable ride through wintery Mayo. Start in the historic centre and take the warm bus to Turlough to visit the Country Life Museum. The winter light at the Round Tower is brief but magical. Back in Castlebar, the illuminated pubs and shops invite you for a warm end to the day."
+          },
+          "stops": [
+            {
+              "name": "Town Centre Cluster: Christ Church",
+              "tip_5lang": {
+                "de": "Nahegelegene Cafés zum Aufwärmen nutzen.",
+                "hu": "Használja a közeli kávézókat melegedni.",
+                "ro": "Folosiți cafenelele din apropiere pentru căldură.",
+                "en": "Use nearby cafés to warm up."
+              }
+            },
+            {
+              "name": "The Jackie Clarke Collection",
+              "tip_5lang": {
+                "de": "Innenräume sind angenehm beheizt.",
+                "hu": "A belső terek kellemesen fűtöttek.",
+                "ro": "Spațiile interioare sunt încălzite plăcut.",
+                "en": "Interior spaces are pleasantly heated."
+              }
+            },
+            {
+              "name": "Transit to Turlough",
+              "tip_5lang": {
+                "de": "Busse sind im Winter gut beheizt.",
+                "hu": "A buszok télen jól fűtöttek.",
+                "ro": "Autobuzele sunt bine încălzite iarna.",
+                "en": "Buses are well-heated in winter."
+              }
+            },
+            {
+              "name": "National Museum of Country Life",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten.",
+                "hu": "Ellenőrizze a téli nyitvatartást.",
+                "ro": "Verificați orarul de iarnă.",
+                "en": "Check the winter opening hours."
+              }
+            },
+            {
+              "name": "Turlough Round Tower",
+              "tip_5lang": {
+                "de": "Besuch bei Tageslicht (vor 16:30 Uhr).",
+                "hu": "Nappali fényben látogassa (16:30 előtt).",
+                "ro": "Vizitați pe lumină (înainte de 16:30).",
+                "en": "Visit during daylight (before 16:30)."
+              }
+            },
+            {
+              "name": "Transit back to Castlebar & Lake Walk",
+              "tip_5lang": {
+                "de": "Der letzte Bus zurück ist oft voll.",
+                "hu": "Az utolsó busz visszafelé gyakran tömött.",
+                "ro": "Ultimul bus de întoarcere e adesea plin.",
+                "en": "The last bus back can be crowded."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit.",
+              "In der TFI Live App gibt es Verspätungs-Infos.",
+              "Tragen Sie warme Kleidung für die Wartezeit.",
+              "Die Busstation ist im Stadtzentrum zentral."
+            ],
+            "hu": [
+              "Tervezze a visszautat sötétedés előtt.",
+              "A TFI Live appban láthatja a késéseket.",
+              "Viseljen meleg ruhát a várakozáshoz.",
+              "A buszállomás központi helyen van."
+            ],
+            "ro": [
+              "Planificați întoarcerea înainte de întuneric.",
+              "Aplicația TFI Live arată întârzierile.",
+              "Purtați haine groase pentru așteptare.",
+              "Autogara este centrală în oraș."
+            ],
+            "en": [
+              "Plan your return before dark.",
+              "Check the TFI Live app for delays.",
+              "Wear warm clothes for waiting times.",
+              "The bus station is central in the town."
+            ]
+          }
+        }
       }
     }
   }

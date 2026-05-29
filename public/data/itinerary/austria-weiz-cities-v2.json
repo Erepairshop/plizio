@@ -356,6 +356,196 @@
           "Plan enough time for the Basilica on the Weizberg to enjoy both the church and the view.",
           "Check opening hours, as some places may be closed at noon."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am verregneten Hauptplatz, doch das Weberhaus bietet sofortigen Unterschlupf. Mittags bietet das Schloss Radmannsdorf trockene Korridore für die Erkundung. Am Nachmittag steigen wir zur Basilika am Weizberg hinauf, die ein prächtiges und trockenes Refugium darstellt. Der Abend endet gemütlich in den beheizten Räumen der Weizer Gastronomie, während es draußen weiter regnet.",
+            "hu": "A reggel a szemerkélő esőben indul a Főtéren, de a Weber-ház azonnali menedéket nyújt. Délben a Radmannsdorf-kastély száraz folyosói hívogatnak felfedezésre. Délután felkapaszkodunk a Weizberg-bazilikához, amely pompás és védett menedék az eső elől. Az este a helyi gasztronómia fűtött belső tereiben ér véget, miközben odakint kitartóan kopog az eső.",
+            "ro": "Dimineața începe în Piața Principală ploioasă, dar Casa Weber oferă adăpost imediat. La prânz, coridoarele uscate ale Castelului Radmannsdorf vă invită la explorare. După-amiaza urcăm la Basilica de pe Weizberg, care reprezintă un refugiu splendid și protejat. Seara se încheie confortabil în spațiile încălzite ale gastronomiei locale, în timp ce afară plouă în continuare.",
+            "en": "The morning begins at the rainy Main Square, but Weber House offers immediate shelter. At noon, the dry corridors of Radmannsdorf Castle invite exploration. In the afternoon, we climb to the Basilica on Weizberg, which provides a magnificent and dry refuge. The evening ends cozily in the heated interiors of local restaurants while the rain continues outside."
+          },
+          "stops": [
+            {
+              "name": "Main Square & Weber House",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Weberhaus als ersten trockenen Stopp.",
+                "hu": "Használja a Weber-házat az első száraz megállóként.",
+                "ro": "Folosiți Casa Weber ca primă oprire uscată.",
+                "en": "Use Weber House as your first dry stop."
+              }
+            },
+            {
+              "name": "Tabor Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten Sie beim Besichtigen trocken.",
+                "hu": "A vastag falak szárazon tartják a nézelődés közben.",
+                "ro": "Zidurile groase vă vor ține uscat în timpul vizitei.",
+                "en": "The thick walls will keep you dry during the visit."
+              }
+            },
+            {
+              "name": "Weiz Art House",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine längere Regenpause.",
+                "hu": "Tökéletes hely egy hosszabb esőszünetre.",
+                "ro": "Loc perfect pentru o pauză mai lungă de ploaie.",
+                "en": "Perfect place for a longer rain break."
+              }
+            },
+            {
+              "name": "Radmannsdorf Castle",
+              "tip_5lang": {
+                "de": "Drinnen gibt es viel zu sehen, weit weg vom Regen.",
+                "hu": "Bent sok látnivaló akad, távol az esőtől.",
+                "ro": "În interior sunt multe de văzut, departe de ploaie.",
+                "en": "There is plenty to see inside, away from the rain."
+              }
+            },
+            {
+              "name": "Basilica on the Weizberg",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille, während draußen der Regen fällt.",
+                "hu": "Élvezze a csendet, miközben kint esik az eső.",
+                "ro": "Bucurați-vă de liniște în timp ce afară plouă.",
+                "en": "Enjoy the silence while the rain falls outside."
+              }
+            },
+            {
+              "name": "Gemini House",
+              "tip_5lang": {
+                "de": "Ein kurzer, nasser Sprint für ein schnelles Foto.",
+                "hu": "Egy rövid, vizes sprint egy gyors fotóért.",
+                "ro": "Un sprint scurt și umed pentru o fotografie rapidă.",
+                "en": "A short, wet sprint for a quick photo."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für den Anstieg zum Weizberg.",
+              "Das Kunsthaus ist die beste Indoor-Option bei starkem Guss.",
+              "Kombinieren Sie die Besichtigungen mit Kaffeepausen im Zentrum.",
+              "Ein stabiler Regenschirm trotzt dem Wind am Berg.",
+              "Planen Sie mehr Zeit für die Innenräume der Kirchen ein."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a Weizbergre való felkapaszkodáshoz.",
+              "A Kunsthaus a legjobb beltéri opció erős felhőszakadás esetén.",
+              "Kombinálja a városnézést kávészünetekkel a központban.",
+              "Egy stabil esernyő ellenáll a hegyi szélnek.",
+              "Tervezzen több időt a templomok belső tereinek megtekintésére."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru urcarea pe Weizberg.",
+              "Kunsthaus este cea mai bună opțiune de interior în caz de aversă puternică.",
+              "Combinați vizitarea obiectivelor turistice cu pauze de cafea în centru.",
+              "O umbrelă stabilă rezistă vântului de pe munte.",
+              "Planificați mai mult timp pentru interiorul bisericilor."
+            ],
+            "en": [
+              "Wear waterproof shoes for the climb up to Weizberg.",
+              "The Kunsthaus is the best indoor option during a heavy downpour.",
+              "Combine sightseeing with coffee breaks in the center.",
+              "A sturdy umbrella will withstand the wind on the hill.",
+              "Plan more time for the interiors of the churches."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am beleuchteten Hauptplatz weckt die Lebensgeister. Mittags bietet das Kunsthaus moderne Inspiration in angenehmer Wärme. Zum Nachmittag erklimmen wir den Weizberg für einen Blick auf das verschneite Umland im frühen Dämmerlicht. Der Abend wird bei einem wärmenden Getränk in der Altstadt verbracht, während die Lichter von Weiz hell erstrahlen.",
+            "hu": "A kivilágított Főtér fagyos reggele felfrissíti a lelket. Délben a Kunsthaus modern inspirációt nyújt kellemes melegben. Délután felmászunk a Weizbergre, hogy a korai szürkületben megcsodáljuk a havas környéket. Az estét egy melengető ital mellett töltjük az óvárosban, miközben Weiz fényei fényesen ragyognak.",
+            "ro": "O dimineață geroasă în Piața Principală iluminată trezește spiritul. La prânz, Kunsthaus oferă inspirație modernă într-o căldură plăcută. După-amiaza urcăm pe Weizberg pentru o vedere asupra împrejurimilor înzăpezite în amurgul timpuriu. Seara este petrecută cu o băutură caldă în orașul vechi, în timp ce luminile din Weiz strălucesc puternic.",
+            "en": "A frosty morning at the illuminated Main Square awakens the spirit. At noon, the Kunsthaus offers modern inspiration in pleasant warmth. In the afternoon, we climb Weizberg for a view of the snowy surroundings in the early twilight. The evening is spent with a warming drink in the old town while the lights of Weiz shine brightly."
+          },
+          "stops": [
+            {
+              "name": "Main Square & Weber House",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Atmosphäre am Markt.",
+                "hu": "Élvezze a piac télies hangulatát.",
+                "ro": "Bucurați-vă de atmosfera de iarnă din piață.",
+                "en": "Enjoy the wintry atmosphere at the market."
+              }
+            },
+            {
+              "name": "Tabor Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche für einen Moment der Stille.",
+                "hu": "Látogasson el a templomba egy pillanatnyi csendért.",
+                "ro": "Vizitați biserica pentru un moment de liniște.",
+                "en": "Visit the church for a moment of silence."
+              }
+            },
+            {
+              "name": "Weiz Art House",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich zwischen den Ausstellungsstücken auf.",
+                "hu": "Melegedjen fel a kiállítási tárgyak között.",
+                "ro": "Încălziți-vă printre piesele de expoziție.",
+                "en": "Warm up among the exhibition pieces."
+              }
+            },
+            {
+              "name": "Radmannsdorf Castle",
+              "tip_5lang": {
+                "de": "Die historischen Mauern sind im Winter besonders stimmungsvoll.",
+                "hu": "A történelmi falak télen különösen hangulatosak.",
+                "ro": "Zidurile istorice sunt deosebit de atmosferice iarna.",
+                "en": "The historic walls are especially atmospheric in winter."
+              }
+            },
+            {
+              "name": "Basilica on the Weizberg",
+              "tip_5lang": {
+                "de": "Achten Sie auf den frühen Sonnenuntergang gegen 16:30 Uhr.",
+                "hu": "Ügyeljen a korai naplementére 16:30 körül.",
+                "ro": "Atenție la apusul devreme, în jur de ora 16:30.",
+                "en": "Watch out for the early sunset around 4:30 PM."
+              }
+            },
+            {
+              "name": "Gemini House",
+              "tip_5lang": {
+                "de": "Ein futuristischer Anblick im glitzernden Schnee.",
+                "hu": "Futurisztikus látvány a csillogó hóban.",
+                "ro": "O priveliște futuristă în zăpada sclipitoare.",
+                "en": "A futuristic sight in the glittering snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung ist für den Weg zur Basilika unerlässlich.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Nutzen Sie die beheizten Museen für längere Aufenthalte.",
+              "Vorsicht vor vereisten Gehwegen in den steilen Gassen.",
+              "Ein Heißgetränk am Hauptplatz gehört zum Wintererlebnis."
+            ],
+            "hu": [
+              "A meleg ruházat elengedhetetlen a bazilikához vezető úton.",
+              "A nap télen már 16:30 körül lenyugszik.",
+              "Használja a fűtött múzeumokat hosszabb tartózkodásra.",
+              "Vigyázzon a jeges járdákra a meredek utcákban.",
+              "Egy forró ital a Főtéren a téli élmény része."
+            ],
+            "ro": [
+              "Îmbrăcămintea groasă este esențială pentru drumul spre bazilică.",
+              "Soarele apune deja în jurul orei 16:30 iarna.",
+              "Folosiți muzeele încălzite pentru șederi mai lungi.",
+              "Atenție la trotuarele înghețate de pe străzile abrupte.",
+              "O băutură caldă în Piața Principală face parte din experiența de iarnă."
+            ],
+            "en": [
+              "Warm clothing is essential for the path to the Basilica.",
+              "The sun sets as early as 4:30 PM in winter.",
+              "Use heated museums for longer stays.",
+              "Beware of icy sidewalks in the steep alleys.",
+              "A hot drink at the Main Square is part of the winter experience."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +896,196 @@
           "A bike lock is essential to explore the sights without worry.",
           "The cycle paths are well signposted, but a map or GPS is still helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt spritzig am Hauptplatz, wobei Vorsicht auf dem nassen Pflaster geboten ist. Mittags nutzen wir das Schloss für eine ausgiebige Pause im Trockenen. Nachmittags führt der Weg entlang der Feistritz, wo der Regen eine mystische Atmosphäre schafft. Der Tag endet am Bahnhof der Feistritztalbahn, bevor wir die Heimreise im Schutz der Züge antreten.",
+            "hu": "A gurulás fröccsenő vízzel indul a Főtéren, óvatosan a nedves köveken. Délben a kastélyt használjuk egy kiadós, száraz pihenőre. Délután az út a Feistritz mentén vezet, ahol az eső misztikus hangulatot áraszt. A nap a Feistritztalbahn megállójánál ér véget, mielőtt a vonatok oltalmában hazaindulnánk.",
+            "ro": "Călătoria începe cu stropi în Piața Principală, fiind necesară prudență pe pavajul umed. La prânz folosim castelul pentru o pauză lungă și uscată. După-amiaza drumul duce de-a lungul Feistritz, unde ploaia creează o atmosferă mistică. Ziua se încheie la stația Feistritztalbahn, înainte de a pleca spre casă sub protecția trenurilor.",
+            "en": "The ride starts splashily at the Main Square, with caution needed on the wet pavement. At noon, we use the castle for an extensive dry break. In the afternoon, the path leads along the Feistritz, where the rain creates a mystical atmosphere. The day ends at the Feistritztalbahn stop before heading home under the shelter of the trains."
+          },
+          "stops": [
+            {
+              "name": "Main Square & Tabor Church",
+              "tip_5lang": {
+                "de": "Vorsicht bei Kurven auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a kanyarokban a nedves macskaköveken.",
+                "ro": "Atenție la viraje pe pavajul umed.",
+                "en": "Watch out for turns on wet cobblestones."
+              }
+            },
+            {
+              "name": "Radmannsdorf Castle & Art House",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder unter dem Dach.",
+                "hu": "Biztonságos kerékpártároló a tető alatt.",
+                "ro": "Loc de parcare sigur pentru biciclete sub acoperiș.",
+                "en": "Safe parking spot for bikes under the roof."
+              }
+            },
+            {
+              "name": "Basilica on the Weizberg",
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Regen rutschig, fahren Sie langsam.",
+                "hu": "Az emelkedő esőben csúszós, haladjon lassan.",
+                "ro": "Urcarea este alunecoasă pe ploaie, mergeți încet.",
+                "en": "The climb is slippery in the rain, ride slowly."
+              }
+            },
+            {
+              "name": "Gemini House",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, bevor es weitergeht.",
+                "hu": "Rövid fotómegálló, mielőtt továbbmenne.",
+                "ro": "Scurtă oprire foto înainte de a merge mai departe.",
+                "en": "Short photo stop before moving on."
+              }
+            },
+            {
+              "name": "Along the Feistritz River",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Pfützen auf den unbefestigten Wegen.",
+                "hu": "Kerülje a tócsákat a burkolatlan utakon.",
+                "ro": "Evitați bălțile de pe drumurile neasfaltate.",
+                "en": "Avoid puddles on unpaved paths."
+              }
+            },
+            {
+              "name": "Feistritztalbahn Stop",
+              "tip_5lang": {
+                "de": "Stellen Sie sich unter, während Sie auf den Zug warten.",
+                "hu": "Álljon be a fedél alá, amíg a vonatra vár.",
+                "ro": "Stați la adăpost în timp ce așteptați trenul.",
+                "en": "Stay under cover while waiting for the train."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Überschuhen ist ratsam.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Weizberg.",
+              "Der Radweg am Fluss kann schlammig sein.",
+              "Nutzen Sie die Bahnhofsgebäude als Unterstand.",
+              "Wählen Sie asphaltierte Wege statt Waldpfade."
+            ],
+            "hu": [
+              "Teljes esőruházat, beleértve a kamáslit is, tanácsos.",
+              "Ellenőrizze a fékeit a Weizbergről való leereszkedés előtt.",
+              "A folyóparti kerékpárút sáros lehet.",
+              "Használja az állomásépületeket menedékként.",
+              "Válassza az aszfaltozott utakat az erdei ösvények helyett."
+            ],
+            "ro": [
+              "Se recomandă echipament complet de ploaie, inclusiv protecții pentru pantofi.",
+              "Verificați frânele înainte de a coborî de pe Weizberg.",
+              "Pista de biciclete de lângă râu poate fi noroioasă.",
+              "Folosiți clădirile gării ca adăpost.",
+              "Alegeți drumurile asfaltate în locul potecilor prin pădure."
+            ],
+            "en": [
+              "Full rain gear including shoe covers is advisable.",
+              "Check your brakes before descending from Weizberg.",
+              "The riverside bike path can be muddy.",
+              "Use station buildings as shelters.",
+              "Choose paved paths instead of forest trails."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start führt uns über den glitzernden Hauptplatz. Die Kälte beißt, doch der Besuch im Kunsthaus wärmt uns zur Mittagszeit wieder auf. Der Nachmittagssprint zum Weizberg bringt den Kreislauf in Schwung, bevor wir die Aussicht genießen. Wir beenden die Tour an der Feistritztalbahn, wo die Industriegeschichte im Winterlicht besonders markant wirkt.",
+            "hu": "A fagyos rajt a csillogó Főtéren vezet keresztül. A hideg harapós, de a Kunsthaus látogatása délidőben újra felmelegít. A délutáni sprint a Weizbergre felpörgeti a keringést, mielőtt élveznénk a kilátást. A túrát a Feistritztalbahn-nál zárjuk, ahol az ipari történelem különösen markánsnak tűnik a téli fényben.",
+            "ro": "Un start înghețat ne poartă prin Piața Principală sclipitoare. Frigul pișcă, dar vizita la Kunsthaus ne încălzește din nou la prânz. Sprintul de după-amiază spre Weizberg pune sângele în mișcare înainte de a ne bucura de priveliște. Încheiem turul la Feistritztalbahn, unde istoria industrială pare deosebit de marcantă în lumina iernii.",
+            "en": "A frosty start takes us across the glittering Main Square. The cold bites, but a visit to the Kunsthaus warms us up again at noon. The afternoon sprint to Weizberg gets the circulation going before we enjoy the view. We end the tour at the Feistritztalbahn, where industrial history looks particularly striking in the winter light."
+          },
+          "stops": [
+            {
+              "name": "Main Square & Tabor Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Steinen.",
+                "hu": "Vigyázzon a köveken lévő jegesedésre.",
+                "ro": "Atenție la poleiul de pe pietre.",
+                "en": "Watch out for ice on the stones."
+              }
+            },
+            {
+              "name": "Radmannsdorf Castle & Art House",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für eine ausgiebige Pause.",
+                "hu": "Meleg hely egy kiadós pihenőhöz.",
+                "ro": "Un loc cald pentru o pauză lungă.",
+                "en": "A warm place for an extensive break."
+              }
+            },
+            {
+              "name": "Basilica on the Weizberg",
+              "tip_5lang": {
+                "de": "Der Wind oben am Berg kann sehr kalt sein.",
+                "hu": "A szél a hegytetőn nagyon hideg lehet.",
+                "ro": "Vântul de sus de pe munte poate fi foarte rece.",
+                "en": "The wind up on the hill can be very cold."
+              }
+            },
+            {
+              "name": "Gemini House",
+              "tip_5lang": {
+                "de": "Schnelles Foto, um nicht auszukühlen.",
+                "hu": "Gyors fotó, nehogy áthűljön.",
+                "ro": "Fotografie rapidă pentru a nu îngheța.",
+                "en": "Quick photo to avoid getting cold."
+              }
+            },
+            {
+              "name": "Along the Feistritz River",
+              "tip_5lang": {
+                "de": "Der Weg kann gefroren und rutschig sein.",
+                "hu": "Az út fagyott és csúszós lehet.",
+                "ro": "Drumul poate fi înghețat și alunecos.",
+                "en": "The path can be frozen and slippery."
+              }
+            },
+            {
+              "name": "Feistritztalbahn Stop",
+              "tip_5lang": {
+                "de": "Beleuchtung für die Heimfahrt prüfen.",
+                "hu": "Ellenőrizze a világítást a hazaúthoz.",
+                "ro": "Verificați luminile pentru drumul spre casă.",
+                "en": "Check lights for the ride home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung und gute Handschuhe.",
+              "Prüfen Sie den Reifendruck für besseren Grip auf Schnee.",
+              "Die Dämmerung setzt früh ein, Licht ist Pflicht.",
+              "Vermeiden Sie lange Stehzeiten im Freien.",
+              "Ein heißer Tee in der Thermoskanne hilft gegen die Kälte."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot és jó kesztyűt.",
+              "Ellenőrizze a guminyomást a jobb tapadásért a havon.",
+              "A szürkület korán beköszönt, a világítás kötelező.",
+              "Kerülje a hosszú várakozást a szabadban.",
+              "Egy forró tea termoszban segít a hideg ellen."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt și mănuși bune.",
+              "Verificați presiunea în anvelope pentru o aderență mai bună pe zăpadă.",
+              "Amurgul se lasă devreme, lumina este obligatorie.",
+              "Evitați perioadele lungi de staționare în aer liber.",
+              "Un ceai fierbinte într-un termos ajută împotriva frigului."
+            ],
+            "en": [
+              "Wear windproof clothing and good gloves.",
+              "Check tire pressure for better grip on snow.",
+              "Twilight sets in early, lights are mandatory.",
+              "Avoid long periods of standing outdoors.",
+              "A hot tea in a thermos helps against the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1086,6 +1466,214 @@
           "A GPS is essential for navigating between the more distant destinations.",
           "Parking is available at most attractions outside the center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem starten wir die Fahrt trotz Regen am Parkplatz im Zentrum. Mittags erkunden wir das Weberhaus, während der Wagen sicher abgestellt ist. Nachmittags führt uns die Route zur beeindruckenden Grasslhöhle – dem perfekten Zufluchtsort unter Tage bei jedem Wetter. Der Tag endet mit einem entspannten Abendessen in Weiz, während wir die Regentropfen am Fenster beobachten.",
+            "hu": "Kényelmesen indítjuk az utat az eső ellenére a központi parkolóból. Délben a Weber-házat fedezzük fel, miközben az autó biztonságban pihen. Délután az út a lenyűgöző Grassl-barlanghoz vezet – ez a tökéletes föld alatti menedék bármilyen időben. A nap egy pihentető vacsorával zárul Weizben, miközben az ablakon lecsorgó esőcseppeket figyeljük.",
+            "ro": "Începem călătoria confortabil, în ciuda ploii, din parcarea din centru. La prânz explorăm Casa Weber în timp ce mașina este parcată în siguranță. După-amiaza, traseul ne duce la impresionanta Peșteră Grassl – refugiul subteran perfect în orice condiții meteo. Ziua se încheie cu o cină relaxantă în Weiz, în timp ce privim picăturile de ploaie pe fereastră.",
+            "en": "We comfortably start the drive despite the rain from the central parking lot. At noon, we explore Weber House while the car is safely parked. In the afternoon, the route takes us to the impressive Grassl Cave – the perfect underground refuge in any weather. The day ends with a relaxed dinner in Weiz while watching the raindrops on the window."
+          },
+          "stops": [
+            {
+              "name": "Parking & Old Town Cluster",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz mit kurzem Weg ins Trockene.",
+                "hu": "Központi parkoló rövid úttal a szárazba.",
+                "ro": "Parcare centrală cu un drum scurt spre adăpost.",
+                "en": "Central parking with a short walk to cover."
+              }
+            },
+            {
+              "name": "Main Square & Tabor Church",
+              "tip_5lang": {
+                "de": "Kurzer Sprint zur Kirche, um nicht nass zu werden.",
+                "hu": "Rövid sprint a templomig, hogy ne ázzon el.",
+                "ro": "Sprint scurt până la biserică pentru a nu vă uda.",
+                "en": "Short sprint to the church to avoid getting wet."
+              }
+            },
+            {
+              "name": "Art House & Weber House",
+              "tip_5lang": {
+                "de": "Genießen Sie Kunst im Trockenen.",
+                "hu": "Élvezze a művészetet szárazon.",
+                "ro": "Bucurați-vă de artă la adăpost.",
+                "en": "Enjoy art while staying dry."
+              }
+            },
+            {
+              "name": "Basilica on the Weizberg",
+              "tip_5lang": {
+                "de": "Direkte Anfahrt zum Portal möglich.",
+                "hu": "Közvetlen behajtás a bejáratig lehetséges.",
+                "ro": "Acces direct la portal este posibil.",
+                "en": "Direct access to the portal is possible."
+              }
+            },
+            {
+              "name": "Grassl Cave",
+              "tip_5lang": {
+                "de": "Unter der Erde ist es immer trocken.",
+                "hu": "A föld alatt mindig száraz az idő.",
+                "ro": "Sub pământ este întotdeauna uscat.",
+                "en": "It is always dry underground."
+              }
+            },
+            {
+              "name": "Feistritztalbahn (Birkfeld Station)",
+              "tip_5lang": {
+                "de": "Überdachte Bereiche am Bahnsteig nutzen.",
+                "hu": "Használja a peron fedett részeit.",
+                "ro": "Folosiți zonele acoperite de pe peron.",
+                "en": "Use the covered areas on the platform."
+              }
+            },
+            {
+              "name": "Dinner in Weiz",
+              "tip_5lang": {
+                "de": "Parken Sie direkt beim Restaurant.",
+                "hu": "Parkoljon közvetlenül az étteremnél.",
+                "ro": "Parcați direct lângă restaurant.",
+                "en": "Park directly by the restaurant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Grasslhöhle ist das ultimative Schlechtwetterziel.",
+              "Nutzen Sie Parkhäuser, um trockenen Fußes in die Stadt zu kommen.",
+              "Achten Sie auf Aquaplaning auf der Straße nach Birkfeld.",
+              "Die Basilika bietet ausreichend Parkplätze direkt vor der Tür.",
+              "Halten Sie einen Schirm für den Weg vom Auto bereit."
+            ],
+            "hu": [
+              "A Grassl-barlang a tökéletes célpont rossz időben.",
+              "Használjon parkolóházakat, hogy száraz lábbal jusson a városba.",
+              "Ügyeljen a vízfelúszásra a Birkfeld felé vezető úton.",
+              "A bazilikánál bőséges parkolóhely áll rendelkezésre a bejáratnál.",
+              "Legyen kéznél esernyő az autótól való sétához."
+            ],
+            "ro": [
+              "Peștera Grassl este destinația supremă pentru vreme rea.",
+              "Folosiți parcările supraetajate pentru a ajunge în oraș fără să vă udați.",
+              "Atenție la acvaplanare pe drumul spre Birkfeld.",
+              "Bazilica oferă locuri de parcare suficiente chiar în față.",
+              "Aveți pregătită o umbrelă pentru drumul de la mașină."
+            ],
+            "en": [
+              "Grassl Cave is the ultimate bad-weather destination.",
+              "Use parking garages to get into the city dry-shod.",
+              "Watch out for aquaplaning on the road to Birkfeld.",
+              "The Basilica offers plenty of parking right in front.",
+              "Keep an umbrella ready for the walk from the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt mit der Fahrt durch das verschneite Weiz. Mittags bietet das Kunsthaus moderne Inspiration in angenehmer Wärme. Nachmittags führt uns die Route zur Grasslhöhle, die mit konstanten Temperaturen ein angenehmer Zufluchtsort vor dem Frost ist. Den Tag lassen wir bei einem festlichen Abendessen im Stadtzentrum ausklingen, während draußen der Schnee leise fällt.",
+            "hu": "A fagyos reggel a havas Weizen keresztülvezető úttal indul. Délben a Kunsthaus modern inspirációt nyújt kellemes melegben. Délután az út a Grassl-barlanghoz vezet, amely állandó hőmérsékletével kellemes menedék a fagy elől. A napot egy ünnepi vacsorával zárjuk a városközpontban, miközben odakint halkan hull a hó.",
+            "ro": "O dimineață geroasă începe cu un drum prin Weiz-ul înzăpezit. La prânz, Kunsthaus oferă inspirație modernă într-o căldură plăcută. După-amiaza, traseul ne duce la Peștera Grassl, care, cu temperaturile sale constante, este un refugiu plăcut împotriva gerului. Încheiem ziua cu o cină festivă în centrul orașului, în timp ce afară zăpada cade încet.",
+            "en": "A frosty morning begins with a drive through snowy Weiz. At noon, the Kunsthaus offers modern inspiration in pleasant warmth. In the afternoon, the route leads to Grassl Cave, which, with its constant temperatures, is a pleasant refuge from the frost. We end the day with a festive dinner in the city center while the snow falls quietly outside."
+          },
+          "stops": [
+            {
+              "name": "Parking & Old Town Cluster",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen beim Parken.",
+                "hu": "Vigyázzon a hóbuckákra parkoláskor.",
+                "ro": "Atenție la mormanele de zăpadă la parcare.",
+                "en": "Watch out for snow piles when parking."
+              }
+            },
+            {
+              "name": "Main Square & Tabor Church",
+              "tip_5lang": {
+                "de": "Die Beleuchtung am Hauptplatz ist im Winter magisch.",
+                "hu": "A Főtér kivilágítása télen varázslatos.",
+                "ro": "Iluminatul din Piața Principală este magic iarna.",
+                "en": "The lighting at the Main Square is magical in winter."
+              }
+            },
+            {
+              "name": "Art House & Weber House",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Stopp für kalte Tage.",
+                "hu": "Jól fűtött megálló a hideg napokra.",
+                "ro": "O oprire bine încălzită pentru zilele reci.",
+                "en": "A well-heated stop for cold days."
+              }
+            },
+            {
+              "name": "Basilica on the Weizberg",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Auffahrt bei Schneeglätte.",
+                "hu": "Vigyázzon a felhajtásnál havas út esetén.",
+                "ro": "Atenție la urcare în caz de polei.",
+                "en": "Be careful when driving up in snowy conditions."
+              }
+            },
+            {
+              "name": "Grassl Cave",
+              "tip_5lang": {
+                "de": "Angenehme 8-10 Grad, wärmer als draußen.",
+                "hu": "Kellemes 8-10 fok, melegebb, mint kint.",
+                "ro": "O temperatură plăcută de 8-10 grade, mai cald decât afară.",
+                "en": "Pleasant 8-10 degrees, warmer than outside."
+              }
+            },
+            {
+              "name": "Feistritztalbahn (Birkfeld Station)",
+              "tip_5lang": {
+                "de": "Die Winterlandschaft entlang der Bahn ist sehenswert.",
+                "hu": "A vasút menti téli táj látványos.",
+                "ro": "Peisajul de iarnă de-a lungul căii ferate merită văzut.",
+                "en": "The winter landscape along the railway is worth seeing."
+              }
+            },
+            {
+              "name": "Dinner in Weiz",
+              "tip_5lang": {
+                "de": "Genießen Sie regionale Wintergerichte.",
+                "hu": "Élvezze a regionális téli ételeket.",
+                "ro": "Bucurați-vă de mâncăruri regionale de iarnă.",
+                "en": "Enjoy regional winter dishes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und eventuell Schneeketten sind für Birkfeld wichtig.",
+              "Die Grasslhöhle ist im Winter ein warmer Rückzugsort.",
+              "Starten Sie früh, da es im Gebirge zeitig dunkel wird.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Auffahrt zum Weizberg kann bei Glätte tückisch sein."
+            ],
+            "hu": [
+              "A téli gumi és esetleg a hólánc fontos Birkfeld felé.",
+              "A Grassl-barlang télen meleg menedéket nyújt.",
+              "Induljon korán, mert a hegyekben hamar sötétedik.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A Weizbergre való feljutás jegesedéskor trükkös lehet."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și eventual lanțurile sunt importante pentru Birkfeld.",
+              "Peștera Grassl este un refugiu cald iarna.",
+              "Porniți devreme, deoarece se întunecă repede în munți.",
+              "Verificați antigelul din lichidul de parbriz.",
+              "Urcarea pe Weizberg poate fi înșelătoare în caz de polei."
+            ],
+            "en": [
+              "Winter tires and possibly snow chains are important for Birkfeld.",
+              "Grassl Cave is a warm retreat in winter.",
+              "Start early, as it gets dark early in the mountains.",
+              "Check the antifreeze in the windshield washer system.",
+              "The drive up to Weizberg can be tricky in icy conditions."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1418,6 +2006,178 @@
           "The Grassl Cave and the Feistritztalbahn are difficult to reach by public transport and are not included in this plan.",
           "Many buses are wheelchair accessible, but check this in advance if necessary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ankunft im regnerischen Weiz, doch die nahen Bushaltestellen bringen uns schnell ins Zentrum. Mittags erkunden wir das Schloss Radmannsdorf, ideal erreichbar mit kurzen Fußwegen. Der Nachmittag gehört der Basilika am Weizberg, die wir mit dem Bus anfahren, um den Regen zu meiden. Der Tag klingt bei einem ausgiebigen Kaffeebesuch im Zentrum aus, während wir auf die nächste Verbindung warten.",
+            "hu": "Érkezés az esős Weizbe, de a közeli buszmegállók gyorsan a központba visznek. Délben a Radmannsdorf-kastélyt fedezzük fel, amely rövid sétával elérhető. A délután a Weizberg-bazilikáé, ahová busszal megyünk, elkerülve az esőt. A nap egy kiadós kávéházi látogatással zárul a központban, miközben a következő járatra várunk.",
+            "ro": "Sosire în Weiz-ul ploios, dar stațiile de autobuz din apropiere ne duc rapid în centru. La prânz explorăm Castelul Radmannsdorf, ușor accesibil cu scurte plimbări. După-amiaza aparține Basilicii de pe Weizberg, unde mergem cu autobuzul pentru a evita ploaia. Ziua se încheie cu o vizită lungă la cafenea în centru, în timp ce așteptăm următoarea legătură.",
+            "en": "Arrival in rainy Weiz, but the nearby bus stops take us quickly to the center. At noon, we explore Radmannsdorf Castle, easily accessible with short walks. The afternoon belongs to the Basilica on Weizberg, which we reach by bus to avoid the rain. The day concludes with an extensive coffee visit in the center while waiting for the next connection."
+          },
+          "stops": [
+            {
+              "name": "Arrival in Weiz & City Center Cluster",
+              "tip_5lang": {
+                "de": "Bushaltestelle bietet Schutz vor Regen.",
+                "hu": "A buszmegálló védelmet nyújt az eső ellen.",
+                "ro": "Stația de autobuz oferă protecție împotriva ploii.",
+                "en": "Bus stop provides shelter from the rain."
+              }
+            },
+            {
+              "name": "Main Square & Tabor Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Wege zwischen den Gebäuden.",
+                "hu": "Használja ki az épületek közötti rövid távokat.",
+                "ro": "Folosiți distanțele scurte dintre clădiri.",
+                "en": "Take advantage of the short distances between buildings."
+              }
+            },
+            {
+              "name": "Radmannsdorf Castle & Art House",
+              "tip_5lang": {
+                "de": "Perfekt für eine längere Zeit im Trockenen.",
+                "hu": "Tökéletes egy hosszabb száraz időtöltéshez.",
+                "ro": "Perfect pentru o perioadă mai lungă la adăpost.",
+                "en": "Perfect for a longer time in the dry."
+              }
+            },
+            {
+              "name": "Basilica on the Weizberg",
+              "tip_5lang": {
+                "de": "Mit dem Bus fast direkt vor das Portal.",
+                "hu": "Busszal szinte közvetlenül a bejáratig.",
+                "ro": "Cu autobuzul aproape direct în fața portalului.",
+                "en": "By bus almost directly in front of the portal."
+              }
+            },
+            {
+              "name": "Walk and Café in the Center",
+              "tip_5lang": {
+                "de": "Bester Ort, um das Ende des Regens abzuwarten.",
+                "hu": "A legjobb hely az eső végének megvárására.",
+                "ro": "Cel mai bun loc pentru a aștepta oprirea ploii.",
+                "en": "Best place to wait for the rain to end."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Busverbindungen zum Weizberg vorab online.",
+              "Die Haltestellen im Zentrum sind meist überdacht.",
+              "Nutzen Sie die Wartezeiten für Besuche im Kunsthaus.",
+              "Halten Sie Kleingeld oder eine App für Tickets bereit.",
+              "Die Basilika ist eine gute Endstation bei Regen."
+            ],
+            "hu": [
+              "Előzetesen ellenőrizze online a buszjáratokat a Weizbergre.",
+              "A központban a megállók többnyire fedettek.",
+              "Használja ki a várakozási időt a Kunsthaus meglátogatására.",
+              "Legyen kéznél aprópénz vagy applikáció a jegyekhez.",
+              "A bazilika jó végállomás eső esetén."
+            ],
+            "ro": [
+              "Verificați legăturile de autobuz către Weizberg online în prealabil.",
+              "Stațiile din centru sunt în mare parte acoperite.",
+              "Folosiți timpii de așteptare pentru a vizita Kunsthaus.",
+              "Aveți pregătit mărunțiș sau o aplicație pentru bilete.",
+              "Bazilica este o stație finală bună în caz de ploaie."
+            ],
+            "en": [
+              "Check bus connections to Weizberg online in advance.",
+              "The stops in the center are mostly covered.",
+              "Use waiting times to visit the Kunsthaus.",
+              "Have small change or an app ready for tickets.",
+              "The Basilica is a good final stop in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ankunft am frostigen Bahnhof, von wo uns beheizte Busse ins Zentrum bringen. Mittags wärmen wir uns im Kunsthaus auf und bewundern die Ausstellungen. Nachmittags führt die Fahrt zur Basilika am Weizberg, um die verschneite Aussicht im sanften Winterlicht zu genießen. Der Tag endet gemütlich in einem Café in der Altstadt, bevor uns der Zug zurück in die Wärme bringt.",
+            "hu": "Érkezés a fagyos állomásra, ahonnan fűtött buszok visznek a központba. Délben a Kunsthausban melegedünk fel, és megcsodáljuk a kiállításokat. Délután a Weizberg-bazilikához utazunk, hogy élvezzük a havas kilátást a lágy téli fényben. A nap egy óvárosi kávézóban zárul, mielőtt a vonat visszavisz minket a melegbe.",
+            "ro": "Sosire la gara înghețată, de unde autobuzele încălzite ne duc în centru. La prânz ne încălzim la Kunsthaus și admirăm expozițiile. După-amiaza, călătoria ne duce la Basilica de pe Weizberg pentru a ne bucura de priveliștea înzăpezită în lumina blândă a iernii. Ziua se încheie confortabil într-o cafenea din orașul vechi, înainte ca trenul să ne ducă înapoi la căldură.",
+            "en": "Arrival at the frosty station, from where heated buses take us to the center. At noon, we warm up in the Kunsthaus and admire the exhibitions. In the afternoon, the journey leads to the Basilica on Weizberg to enjoy the snowy view in the soft winter light. The day ends cozily in a cafe in the old town before the train takes us back to the warmth."
+          },
+          "stops": [
+            {
+              "name": "Arrival in Weiz & City Center Cluster",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist beheizt und bietet Komfort.",
+                "hu": "Az állomás fűtött és kényelmet nyújt.",
+                "ro": "Gara este încălzită și oferă confort.",
+                "en": "The station is heated and offers comfort."
+              }
+            },
+            {
+              "name": "Main Square & Tabor Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche für eine kurze Aufwärmpause.",
+                "hu": "Látogasson el a templomba egy rövid melegedő szünetre.",
+                "ro": "Vizitați biserica pentru o scurtă pauză de încălzire.",
+                "en": "Visit the church for a short warming break."
+              }
+            },
+            {
+              "name": "Radmannsdorf Castle & Art House",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um der Winterkälte zu entfliehen.",
+                "hu": "Ideális hely a téli hideg elöli meneküléshez.",
+                "ro": "Un loc ideal pentru a scăpa de frigul iernii.",
+                "en": "An ideal place to escape the winter cold."
+              }
+            },
+            {
+              "name": "Basilica on the Weizberg",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das verschneite Weiz.",
+                "hu": "Élvezze a kilátást a havas Weizre.",
+                "ro": "Bucurați-vă de vederea asupra Weiz-ului înzăpezit.",
+                "en": "Enjoy the view of snowy Weiz."
+              }
+            },
+            {
+              "name": "Walk and Café in the Center",
+              "tip_5lang": {
+                "de": "Ein heißer Punsch wärmt Sie vor der Rückfahrt auf.",
+                "hu": "Egy forró puncs felmelegíti a hazaút előtt.",
+                "ro": "Un punch fierbinte vă va încălzi înainte de drumul de întoarcere.",
+                "en": "A hot punch will warm you up before the return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie die selteneren Fahrzeiten an Winterwochenenden.",
+              "Die Busse sind gut beheizt, ideal zum Aufwärmen.",
+              "Die Dämmerung beginnt früh, planen Sie den Bergbesuch zeitig.",
+              "Halten Sie sich im beheizten Wartebereich des Bahnhofs auf.",
+              "Ein kurzes Stück zu Fuß zur Altstadt ist im Schnee malerisch."
+            ],
+            "hu": [
+              "Ügyeljen a ritkább menetrendre a téli hétvégéken.",
+              "A buszok jól fűtöttek, ideálisak a felmelegedéshez.",
+              "A szürkület korán kezdődik, tervezze időben a hegyi látogatást.",
+              "Várakozzon az állomás fűtött várótermében.",
+              "Egy rövid séta az óvárosig a hóban festői látvány."
+            ],
+            "ro": [
+              "Atenție la orarul mai rar din weekendurile de iarnă.",
+              "Autobuzele sunt bine încălzite, ideale pentru încălzire.",
+              "Amurgul începe devreme, planificați vizita pe munte din timp.",
+              "Stați în zona de așteptare încălzită a gării.",
+              "O scurtă plimbare până în orașul vechi prin zăpadă este pitorească."
+            ],
+            "en": [
+              "Note the less frequent schedules on winter weekends.",
+              "Buses are well-heated, ideal for warming up.",
+              "Twilight begins early, plan your hill visit in time.",
+              "Stay in the heated waiting area of the station.",
+              "A short walk to the old town in the snow is picturesque."
+            ]
+          }
+        }
       }
     }
   }

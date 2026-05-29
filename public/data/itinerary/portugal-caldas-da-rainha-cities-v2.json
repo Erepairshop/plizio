@@ -378,6 +378,196 @@
           "Bring cash for the farmer's market, although many vendors now accept cards.",
           "Try the local pastry 'Cavacas' for a sweet treat."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Vormittag am Markt, wo die bunten Planen Schutz vor dem ersten Nieselregen bieten. Mittags finden Sie in der Kirche Nossa Senhora do Pópulo und im historischen Thermalkrankenhaus trockene Zuflucht. Der Nachmittag gehört der Kunst im Keramikmuseum, fernab der nassen Straßen. Den Abend lassen Sie in einem gemütlichen Café ausklingen, während der Regen gegen die Scheiben prasselt.",
+            "hu": "Az esős reggelt kezdje a Praça da Fruta színes ernyői alatt, ahol a friss gyümölcsök illata keveredik a nedves aszfaltéval. Délben a Termálkórház és a közeli templom nyújt menedéket a záporok elől. Délután a Kerámiamúzeum tárlatai között merülhet el a város művészetében, teljesen szárazon maradva. Este egy forró kávé mellett nézheti az esőcseppeket egy hangulatos belvárosi cukrászdában.",
+            "ro": "Începeți dimineața ploioasă sub copertinele pieței, unde culorile fructelor strălucesc în ciuda vremii. La prânz, interiorul bisericii și al spitalului termal vă oferă un adăpost istoric și uscat. După-amiaza este dedicată Muzeului de Ceramică, un spațiu interior generos și fascinant. Seara se încheie perfect într-o ceainărie locală, ascultând ritmul ploii pe străzile pavate.",
+            "en": "Start your rainy morning under the colorful market stalls, where the fresh produce scents fill the damp air. At noon, the Church and the Thermal Hospital provide a dry, historic sanctuary from the showers. Spend your afternoon immersed in art at the Ceramics Museum, staying warm and dry. Finish the evening in a cozy cafe, watching the rain wash over the cobblestone streets."
+          },
+          "stops": [
+            {
+              "name": "Praça da Fruta (Fruit Market Square)",
+              "tip_5lang": {
+                "de": "Die Marktschirme bieten begrenzten Schutz; Cafés in der Nähe sind ideal für Pausen.",
+                "hu": "Az árusok ernyői alatt viszonylag szárazon nézelődhet; a közeli árkádok jó menedékek.",
+                "ro": "Umbrelele comercianților oferă adăpost; cafenelele din jur sunt ideale pentru pauze.",
+                "en": "Market umbrellas offer some cover; nearby cafes are perfect for quick rain retreats."
+              }
+            },
+            {
+              "name": "Church of Nossa Senhora do Pópulo",
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um einen heftigen Regenschauer im Trockenen abzuwarten.",
+                "hu": "Kiváló helyszín egy hirtelen zápor átvészelésére a gyönyörű csempék között.",
+                "ro": "Un loc excelent pentru a aștepta trecerea unei averse sub bolțile istorice.",
+                "en": "An excellent place to wait out a heavy downpour among beautiful azulejos."
+              }
+            },
+            {
+              "name": "Thermal Hospital Queen D. Leonor",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenbesichtigung, um den Regen im ältesten Thermalkrankenhaus zu vergessen.",
+                "hu": "A belső vezetés során védve van az esőtől a világ legrégebbi termálkórházában.",
+                "ro": "Vizita interioară vă protejează de ploaie în cel mai vechi spital termal.",
+                "en": "Take the indoor tour to stay dry in the world's oldest thermal hospital."
+              }
+            },
+            {
+              "name": "Ceramics Museum",
+              "tip_5lang": {
+                "de": "Die weitläufigen Galerien im Inneren sind der perfekte Ort für einen regnerischen Nachmittag.",
+                "hu": "A tágas belső galériák tökéletes helyszínt biztosítanak egy esős délutánhoz.",
+                "ro": "Galeriile interioare spațioase sunt refugiul perfect pentru o după-amiază ploioasă.",
+                "en": "The extensive indoor galleries are the perfect refuge for a rainy afternoon."
+              }
+            },
+            {
+              "name": "Dom Carlos I Park",
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen bieten Schutz; nutzen Sie die asphaltierten Wege gegen Matsch.",
+                "hu": "A sűrű lombok némi védelmet adnak; maradjon a kövezett utakon a sár elkerülésére.",
+                "ro": "Coroanele dese oferă adăpost; folosiți aleile pavate pentru a evita noroiul.",
+                "en": "Dense tree canopies provide some cover; stick to paved paths to avoid mud."
+              }
+            },
+            {
+              "name": "José Malhoa Museum",
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt im Museum, bis die Regenwolken weiterziehen.",
+                "hu": "Töltsön el több időt a festmények között, amíg elvonulnak az esőfelhők.",
+                "ro": "Prelungiți vizita la muzeu până când norii de ploaie se risipesc.",
+                "en": "Extend your stay among the paintings until the rain clouds pass."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Das Keramikmuseum ist der beste Ort für längere Regengüsse.",
+              "Viele Cafés rund um die Praça da Fruta haben überdachte Sitzplätze.",
+              "Nutzen Sie die Thermal-Hospital-Tour als fixen Indoor-Programmpunkt.",
+              "Die Luftfeuchtigkeit lässt die Farben der Azulejos besonders strahlen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a csúszós macskakövek miatt.",
+              "A Kerámiamúzeum a legjobb hely a hosszabb záporok idejére.",
+              "A Praça da Fruta környékén sok kávézó rendelkezik fedett terasszal.",
+              "A Termálkórház látogatása fix beltéri programnak kiváló.",
+              "Az eső utáni pára különleges fényt ad a városi csempéknek."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile cu piatră cubică.",
+              "Muzeul de Ceramică este cel mai bun loc pentru perioadele cu ploaie densă.",
+              "Multe cafenele din jurul Praça da Fruta au terase acoperite.",
+              "Turul spitalului termal este o opțiune excelentă de activitate interioară.",
+              "Umiditatea face ca culorile plăcilor de azulejos să pară mai vii."
+            ],
+            "en": [
+              "Wear waterproof shoes for the slippery cobblestone streets.",
+              "The Ceramics Museum is your best bet during prolonged downpours.",
+              "Many cafes around Praça da Fruta have covered outdoor seating.",
+              "Use the Thermal Hospital tour as a reliable indoor activity.",
+              "Rainwater highlights the vibrant colors of the city's ceramic tiles."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen belebt die frische Atlantikluft den Marktbesuch. Mittags wärmt die Geschichte in den Mauern des Thermalkrankenhauses, während die tiefstehende Sonne lange Schatten wirft. Der Nachmittag im Dom Carlos I Park bietet eine melancholische Schönheit, bevor es früh dunkel wird. Den Abend verbringen Sie am besten in einer Weinstube bei lokalen Spezialitäten.",
+            "hu": "A tiszta téli reggelen az atlanti szellő felfrissíti a piaclátogatást. Délben a Termálkórház falai között kereshetünk melegséget, miközben az alacsonyan járó nap hosszú árnyékokat vet. A délutáni séta a Dom Carlos I parkban melankolikus szépséget áraszt a korai naplemente előtt. Az estét érdemes egy helyi borozóban tölteni, élvezve a nyugodt városi hangulatot.",
+            "ro": "O dimineață senină de iarnă aduce un aer revigorant peste piața centrală. La prânz, istoria spitalului termal oferă o atmosferă caldă, în timp ce soarele de iarnă luminează fațadele. Parcul Dom Carlos I are o frumusețe aparte în sezonul rece, înainte de apusul timpuriu. Seara este ideală pentru a degusta vinurile locale într-un cadru intim.",
+            "en": "A crisp winter morning brings refreshing Atlantic air to your market visit. At noon, the thick walls of the Thermal Hospital offer a sense of warmth while the winter sun casts long shadows. The afternoon in Dom Carlos I Park has a serene, wintry beauty before the early sunset. Spend your evening in a local wine bar, enjoying the quiet seasonal charm of the city."
+          },
+          "stops": [
+            {
+              "name": "Praça da Fruta (Fruit Market Square)",
+              "tip_5lang": {
+                "de": "Probieren Sie heiße Kastanien, die im Winter oft an den Straßenecken verkauft werden.",
+                "hu": "Kóstolja meg a sült gesztenyét, amelyet télen gyakran árulnak az utcasarkokon.",
+                "ro": "Gustați castanele coapte, vândute adesea la colț de stradă în timpul iernii.",
+                "en": "Try roasted chestnuts, often sold by street vendors during the winter months."
+              }
+            },
+            {
+              "name": "Church of Nossa Senhora do Pópulo",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen; ideal für eine besinnliche Pause.",
+                "hu": "A vastag falak kint tartják a téli hideget; tökéletes egy rövid, csendes pihenőre.",
+                "ro": "Zidurile groase țin frigul la distanță; ideal pentru o pauză liniștită.",
+                "en": "The thick walls keep the winter chill out; ideal for a quiet, reflective break."
+              }
+            },
+            {
+              "name": "Thermal Hospital Queen D. Leonor",
+              "tip_5lang": {
+                "de": "Die Wärme der historischen Thermalanlagen ist im Winter besonders spürbar.",
+                "hu": "A történelmi termálvizes környezet melegsége télen különösen kellemes érzés.",
+                "ro": "Căldura instalațiilor termale istorice este reconfortantă în timpul iernii.",
+                "en": "The warmth of the historic thermal environment is especially welcome in winter."
+              }
+            },
+            {
+              "name": "Ceramics Museum",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Ort, um die Meisterschätze der lokalen Keramikkunst zu bewundern.",
+                "hu": "Kellemesen fűtött épület a helyi kerámiaművészet remekeinek megtekintéséhez.",
+                "ro": "Un loc bine încălzit pentru a admira capodoperele artei ceramice locale.",
+                "en": "A well-heated indoor space to admire the masterpieces of local ceramic art."
+              }
+            },
+            {
+              "name": "Dom Carlos I Park",
+              "tip_5lang": {
+                "de": "Genießen Sie das klare Licht für Fotos, bevor die Sonne gegen 17:30 Uhr untergeht.",
+                "hu": "Élvezze a tiszta fényeket a fotózáshoz, mielőtt a nap 17:30 körül lenyugszik.",
+                "ro": "Bucurați-vă de lumina clară pentru fotografii înainte de apusul de la ora 17:30.",
+                "en": "Enjoy the crisp light for photos before the sun sets around 17:30."
+              }
+            },
+            {
+              "name": "José Malhoa Museum",
+              "tip_5lang": {
+                "de": "Perfekt für den späten Nachmittag, wenn es draußen kühler wird.",
+                "hu": "Tökéletes program késő délutánra, amikor kint már hűvösebbé válik a levegő.",
+                "ro": "Perfect pentru sfârșitul după-amiezii, când aerul de afară devine mai rece.",
+                "en": "Perfect for the late afternoon as the outdoor air begins to cool down."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 17:30 Uhr unter; planen Sie Outdoor-Aktivitäten früh.",
+              "Tragen Sie Zwiebelschichten, da die Meeresbrise kühl sein kann.",
+              "Winter ist die beste Zeit für Thermal-Themen-Touren.",
+              "Probieren Sie 'Cavacas das Caldas' in einer örtlichen Konditorei.",
+              "Besuchen Sie die Parks am frühen Nachmittag für das beste Licht."
+            ],
+            "hu": [
+              "A nap télen 17:30 körül nyugszik; a szabadtéri programokat időzítse korábbra.",
+              "Öltözzön rétegesen, mert a tenger felől érkező szél metsző lehet.",
+              "A tél a legjobb időszak a termálvizes témájú sétákhoz.",
+              "Kóstolja meg a 'Cavacas das Caldas' édességet egy helyi cukrászdában.",
+              "A parkokat kora délután látogassa meg a legszebb fényekért."
+            ],
+            "ro": [
+              "Soarele apune în jur de 17:30; planificați activitățile în aer liber devreme.",
+              "Îmbrăcați-vă în straturi, deoarece briza mării poate fi tăioasă.",
+              "Iarna este cel mai bun moment pentru tururile tematice termale.",
+              "Gustați 'Cavacas das Caldas' la o patiserie locală.",
+              "Vizitați parcurile la începutul după-amiezii pentru cea mai bună lumină."
+            ],
+            "en": [
+              "Sunset is around 17:30 in winter; plan outdoor activities for earlier in the day.",
+              "Dress in layers as the Atlantic breeze can be quite chilly.",
+              "Winter is the peak time to appreciate the thermal heritage of the city.",
+              "Try the traditional 'Cavacas das Caldas' at a local pastry shop.",
+              "Visit the parks in the early afternoon for the most beautiful lighting."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -774,6 +964,214 @@
           "Many streets in the centre are one-way, pay attention to the signs.",
           "A water bottle is essential, especially on warm days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag auf zwei Rädern erfordert gute Vorbereitung, bietet aber leere Radwege. Vormittags radeln Sie zum Markt und weiter zur Bordallo-Fabrik, wo Sie im Trockenen stöbern können. Mittags bieten die Museen im Park eine ideale Pause vom Wetter. Der Nachmittag führt Sie zum Thermalkrankenhaus, bevor Sie den Tag an den überdachten Fünf Ausgüssen beenden.",
+            "hu": "Az esős nap két keréken jó felszerelést igényel, de cserébe üres kerékpárutakat kapunk. Délelőtt guruljon el a piachoz, majd a Bordallo gyárhoz, ahol fedett helyen nézelődhet. Délben a park múzeumaiban tarthat hosszabb pihenőt az időjárás elől. Délután látogassa meg a Termálkórházat, majd zárja a napot a Chafariz das Cinco Bicas kútnál.",
+            "ro": "O zi ploioasă pe bicicletă necesită echipament bun, dar oferă piste libere. Dimineața pedalați spre piață și fabrica Bordallo, unde puteți sta la adăpost. La prânz, muzeele din parc oferă pauza ideală de la intemperii. După-amiaza vă duce la spitalul termal, înainte de a încheia ziua la fântâna istorică acoperită.",
+            "en": "A rainy day on two wheels requires good gear but offers quiet cycling paths. In the morning, ride to the market and the Bordallo Factory for indoor exploration. At noon, the park's museums provide the perfect break from the weather. The afternoon takes you to the Thermal Hospital before finishing at the historic Five Spouts fountain."
+          },
+          "stops": [
+            {
+              "name": "Praça da Fruta (Fruit Market Square)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster rund um den Platz.",
+                "hu": "Vigyázzon a fékezéssel a nedves macskakövön a tér környékén.",
+                "ro": "Atenție la frânare pe pavajul umed din jurul pieței.",
+                "en": "Be careful when braking on wet cobblestones around the square."
+              }
+            },
+            {
+              "name": "Fábrica Bordallo Pinheiro",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und wärmen Sie sich im Ausstellungsraum auf.",
+                "hu": "Parkolja le biztonságosan a bringát, és melegedjen fel a bemutatóteremben.",
+                "ro": "Parcați bicicleta în siguranță și încălziți-vă în showroom.",
+                "en": "Park your bike securely and warm up inside the exhibition room."
+              }
+            },
+            {
+              "name": "Ceramics Museum",
+              "tip_5lang": {
+                "de": "Ein langer Stopp hier lohnt sich, um den stärksten Regen abzuwarten.",
+                "hu": "Érdemes itt hosszabb időt tölteni, hogy kivárja a nagyobb zápor végét.",
+                "ro": "Merită o oprire lungă aici pentru a lăsa ploaia torențială să treacă.",
+                "en": "A long stop here is worthwhile to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "Dom Carlos I Park",
+              "tip_5lang": {
+                "de": "Die Wege können rutschig sein; fahren Sie in Kurven besonders vorsichtig.",
+                "hu": "Az utak csúszósak lehetnek; a kanyarokban legyen különösen óvatos.",
+                "ro": "Aleile pot fi alunecoase; conduceți cu prudență sporită în curbe.",
+                "en": "The paths can be slippery; exercise extra caution when cornering."
+              }
+            },
+            {
+              "name": "José Malhoa Museum",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradständer vorhanden; genießen Sie die Kunst im Trockenen.",
+                "hu": "Biztonságos kerékpártároló elérhető; élvezze a művészetet szárazon.",
+                "ro": "Rafturi de biciclete sigure disponibile; bucurați-vă de artă la adăpost.",
+                "en": "Secure bike racks available; enjoy the art while staying dry."
+              }
+            },
+            {
+              "name": "Thermal Hospital Queen D. Leonor",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Führung, um sich vom Radfahren im Regen zu erholen.",
+                "hu": "Használja ki a vezetést, hogy kipihenje az esőben való tekerést.",
+                "ro": "Folosiți turul ghidat pentru a vă odihni după pedalatul prin ploaie.",
+                "en": "Use the guided tour to take a break from cycling in the rain."
+              }
+            },
+            {
+              "name": "Chafariz das Cinco Bicas",
+              "tip_5lang": {
+                "de": "Die steinerne Struktur bietet nur wenig Schutz; ein kurzes Foto genügt.",
+                "hu": "A kőszerkezet kevés védelmet nyújt; egy gyors fotó is elég esőben.",
+                "ro": "Structura de piatră oferă puțin adăpost; o fotografie rapidă este suficientă.",
+                "en": "The stone structure offers little cover; a quick photo is enough in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Bremsen auf bemalten Straßenmarkierungen bei Nässe.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Die Gandra-Radwege sind bei Regen meist gut befahrbar.",
+              "Nutzen Sie die Bordallo-Fabrik als strategischen Pausenpunkt.",
+              "Trocknen Sie Ihre Bremsen nach der Fahrt kurz ab."
+            ],
+            "hu": [
+              "Kerülje a fékezést a felfestett útburkolati jeleken esőben.",
+              "Viseljen élénk színű esőkabátot a jobb láthatóságért.",
+              "A Gandra kerékpárutak esőben is jól használhatóak maradnak.",
+              "Használja a Bordallo gyárat stratégiai pihenőhelyként.",
+              "Tekerés után érdemes röviden áttörölni a fékeket."
+            ],
+            "ro": [
+              "Evitați frânarea pe marcajele rutiere vopsite atunci când sunt ude.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate.",
+              "Pistele de biciclete Gandra rămân în general practicabile pe ploaie.",
+              "Folosiți fabrica Bordallo ca punct strategic de odihnă.",
+              "Ștergeți scurt frânele după ce ați terminat traseul."
+            ],
+            "en": [
+              "Avoid braking on painted road markings when they are wet.",
+              "Wear a bright, high-visibility raincoat for safety.",
+              "The Gandra cycling paths generally remain navigable in the rain.",
+              "Use the Bordallo Factory as a strategic rest stop.",
+              "Give your brakes a quick wipe-down after your ride."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Caldas ist dank des milden Klimas angenehm, aber windig. Starten Sie erfrischt am Markt und wärmen Sie sich später in der Bordallo-Fabrik auf. Mittags bietet der Park mit seinen Museen Schutz vor der kühlen Brise. Der späte Nachmittag am Thermalkrankenhaus nutzt das letzte Tageslicht, bevor Sie die beleuchteten Fünf Ausgüsse erreichen.",
+            "hu": "A téli biciklizés Caldasban az enyhe klímának köszönhetően kellemes, de szeles. Kezdje a reggelt frissen a piacon, majd melegedjen fel a Bordallo gyárban. Délben a park és múzeumai nyújtanak szélvédett pihenőt. A késő délutáni órákban a Termálkórháznál még elkaphatja az utolsó fényeket, mielőtt elérné a kivilágított Cinco Bicas kutat.",
+            "ro": "Pedalatul pe timp de iarnă în Caldas este plăcut datorită climei blânde, dar poate fi vântos. Începeți dimineața în forță la piață și încălziți-vă ulterior la fabrica Bordallo. La prânz, parcul și muzeele oferă adăpost împotriva brizelor reci. După-amiaza târzie la spitalul termal profită de ultima lumină înainte de a ajunge la fântâna iluminată.",
+            "en": "Winter cycling in Caldas is pleasant thanks to the mild climate, though often breezy. Start your morning refreshed at the market and warm up later at the Bordallo Factory. At noon, the park and its museums offer shelter from the cool breeze. The late afternoon at the Thermal Hospital catches the last light before you reach the illuminated Five Spouts."
+          },
+          "stops": [
+            {
+              "name": "Praça da Fruta (Fruit Market Square)",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Snack am Markt für die Weiterfahrt.",
+                "hu": "Vásároljon egy meleg harapnivalót a piacon a további útra.",
+                "ro": "Luați o gustare caldă din piață pentru continuarea traseului.",
+                "en": "Pick up a warm snack at the market to fuel the rest of your ride."
+              }
+            },
+            {
+              "name": "Fábrica Bordallo Pinheiro",
+              "tip_5lang": {
+                "de": "Ideal, um die Hände in der warmen Verkaufshalle aufzutauen.",
+                "hu": "Ideális hely a kezek felmelegítésére a fűtött eladótérben.",
+                "ro": "Locul ideal pentru a vă încălzi mâinile în magazinul încălzit.",
+                "en": "The perfect spot to thaw your hands in the heated showroom."
+              }
+            },
+            {
+              "name": "Ceramics Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Museum für eine längere Aufwärmpause.",
+                "hu": "Használja ki a múzeumi időt egy hosszabb melegedő szünetre.",
+                "ro": "Folosiți timpul petrecut în muzeu pentru o pauză lungă de încălzire.",
+                "en": "Use your time in the museum for an extended warm-up break."
+              }
+            },
+            {
+              "name": "Dom Carlos I Park",
+              "tip_5lang": {
+                "de": "Die Wintersonne im Park ist perfekt für klare Landschaftsfotos.",
+                "hu": "A téli napsütés a parkban tökéletes a tiszta tájképek készítéséhez.",
+                "ro": "Soarele de iarnă din parc este perfect pentru fotografii clare de peisaj.",
+                "en": "The winter sun in the park is perfect for capturing crisp landscape photos."
+              }
+            },
+            {
+              "name": "José Malhoa Museum",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Indoor-Stopp, wenn der Wind am Nachmittag auffrischt.",
+                "hu": "Kellemes beltéri megálló, amikor délután feltámad a szél.",
+                "ro": "O oprire interioară plăcută când vântul se intensifică după-amiaza.",
+                "en": "A comfortable indoor stop when the wind picks up in the afternoon."
+              }
+            },
+            {
+              "name": "Thermal Hospital Queen D. Leonor",
+              "tip_5lang": {
+                "de": "Die Führung durch die Thermen ist im kühlen Winter besonders behaglich.",
+                "hu": "A termálfürdő-túra a hűvös téli napon különösen otthonos program.",
+                "ro": "Turul spitalului termal este deosebit de plăcut într-o zi răcoroasă de iarnă.",
+                "en": "The thermal hospital tour is especially cozy on a cool winter day."
+              }
+            },
+            {
+              "name": "Chafariz das Cinco Bicas",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Punkt vor 17:00 Uhr für die beste Sicht.",
+                "hu": "Látogassa meg ezt a pontot 17:00 előtt a legjobb látási viszonyokért.",
+                "ro": "Vizitați acest punct înainte de ora 17:00 pentru cea mai bună vizibilitate.",
+                "en": "Visit this spot before 17:00 for the best visibility in winter light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe; der Fahrtwind ist kühler als man denkt.",
+              "Die Tage sind kurz; sorgen Sie für funktionierendes Fahrradlicht.",
+              "Genießen Sie die Ruhe, da im Winter weniger Touristen unterwegs sind.",
+              "Die Bordallo-Fabrik bietet gute Unterstellmöglichkeiten.",
+              "Ein heißer Tee in der Nähe des Parks wirkt Wunder."
+            ],
+            "hu": [
+              "Viseljen kesztyűt; a menetszél hűvösebb, mint gondolná.",
+              "A nappalok rövidek; ellenőrizze a kerékpárlámpák működését.",
+              "Élvezze a csendet, ilyenkor sokkal kevesebb a turista.",
+              "A Bordallo gyár jó megállóhely a szelesebb szakaszok után.",
+              "Egy forró tea a park környékén csodákra képes."
+            ],
+            "ro": [
+              "Purtați mănuși; vântul din timpul mersului este mai rece decât pare.",
+              "Zilele sunt scurte; asigurați-vă că luminile bicicletei funcționează.",
+              "Bucurați-vă de liniște, iarna sunt mult mai puțini turiști.",
+              "Fabrica Bordallo oferă un bun punct de adăpost după segmentele cu vânt.",
+              "Un ceai fierbinte lângă parc face minuni în timpul iernii."
+            ],
+            "en": [
+              "Wear gloves; the wind chill while riding is colder than you might expect.",
+              "Days are short; ensure your bike lights are in good working order.",
+              "Enjoy the tranquility as there are fewer tourists in winter.",
+              "The Bordallo Factory is a great sheltered stop between rides.",
+              "A hot tea near the park works wonders on a cold winter afternoon."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1146,6 +1544,196 @@
           "Plan your drive to Fábrica Bordallo Pinheiro as it's slightly out of the centre.",
           "Be mindful of the narrow streets in the historic center if driving."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regentage in Caldas lassen sich im Auto komfortabel meistern. Parken Sie nahe dem Dom Carlos I Park und besuchen Sie die Museen ohne nass zu werden. Mittags bietet das Auto Schutz auf dem Weg zum Keramikmuseum. Der Nachmittag am Markt und in der Bordallo-Fabrik ist dank naher Parkplätze unkompliziert, bevor Sie den Tag an der Kirche beenden.",
+            "hu": "Az esős napok Caldasban autóval kényelmesen abszolválhatók. Parkoljon a Dom Carlos I park közelében, és látogassa meg a múzeumokat anélkül, hogy megázna. Délben az autó menedéket nyújt a Kerámiamúzeum felé vezető úton. A délutáni piacozás és a Bordallo gyár meglátogatása a közeli parkolók miatt egyszerű, mielőtt a napot a templomnál zárná.",
+            "ro": "Zilele ploioase în Caldas pot fi parcurse confortabil cu mașina. Parcați lângă Parcul Dom Carlos I și vizitați muzeele fără a vă uda. La prânz, mașina oferă protecție în drum spre Muzeul de Ceramică. După-amiaza la piață și fabrica Bordallo este simplă datorită parcărilor apropiate, înainte de a încheia ziua la biserică.",
+            "en": "Rainy days in Caldas are easily managed by car. Park near Dom Carlos I Park and visit the museums without getting soaked. At noon, the car provides shelter on your way to the Ceramics Museum. Afternoon visits to the market and Bordallo Factory are seamless with nearby parking, finishing your day at the historic church."
+          },
+          "stops": [
+            {
+              "name": "Parking near Dom Carlos I Park",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz nahe dem Ausgang, um den Weg im Regen zu verkürzen.",
+                "hu": "Válasszon kijárathoz közeli helyet, hogy lerövidítse az esőben való gyaloglást.",
+                "ro": "Alegeți un loc lângă ieșire pentru a scurta drumul prin ploaie.",
+                "en": "Choose a spot near the exit to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Dom Carlos I Park & José Malhoa Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Malhoa-Museum als Hauptaufenthaltsort bei starkem Regen.",
+                "hu": "Használja a Malhoa múzeumot fő tartózkodási helyként erős esőben.",
+                "ro": "Folosiți muzeul Malhoa ca refugiu principal în caz de ploaie torențială.",
+                "en": "Use the Malhoa Museum as your primary base during heavy rain."
+              }
+            },
+            {
+              "name": "Ceramics Museum",
+              "tip_5lang": {
+                "de": "Direkt vor dem Museum gibt es begrenzte Parkmöglichkeiten; ideal bei Regen.",
+                "hu": "Közvetlenül a múzeum előtt korlátozott számú parkoló van; esőben ideális.",
+                "ro": "Există parcări limitate chiar în fața muzeului; ideale pe timp de ploaie.",
+                "en": "Limited parking is available right in front of the museum; ideal for rainy days."
+              }
+            },
+            {
+              "name": "Praça da Fruta (Fruit Market Square)",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus CCC, um trocken zum Markt zu gelangen.",
+                "hu": "Parkoljon a CCC mélygarázsban, hogy szárazon jusson el a piacig.",
+                "ro": "Parcați în garajul CCC pentru a ajunge uscat la piață.",
+                "en": "Park in the CCC underground garage to reach the market while staying dry."
+              }
+            },
+            {
+              "name": "Fábrica Bordallo Pinheiro",
+              "tip_5lang": {
+                "de": "Großer Kundenparkplatz vorhanden; perfekt für den Einkauf im Trockenen.",
+                "hu": "Nagy ügyfélparkoló áll rendelkezésre; tökéletes a szárazon való vásárláshoz.",
+                "ro": "Parcare mare pentru clienți disponibilă; perfectă pentru cumpărături la adăpost.",
+                "en": "Large customer parking available; perfect for shopping without getting wet."
+              }
+            },
+            {
+              "name": "Church of Nossa Senhora do Pópulo",
+              "tip_5lang": {
+                "de": "Lassen Sie Mitfahrer direkt vor dem Eingang aussteigen.",
+                "hu": "Az utasokat közvetlenül a bejárat előtt teheti ki az autóból.",
+                "ro": "Lăsați pasagerii să coboare chiar în fața intrării.",
+                "en": "Drop off passengers directly in front of the entrance to avoid the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Parkhäuser (wie CCC), um komplett trocken zu bleiben.",
+              "Vorsicht in den engen Gassen; das Kopfsteinpflaster kann rutschig sein.",
+              "Halten Sie einen Regenschirm im Auto für die kurzen Wege bereit.",
+              "Die Bordallo-Fabrik ist ein exzellenter Stopp bei Starkregen.",
+              "Die Sicht kann bei Küstennebel und Regen eingeschränkt sein."
+            ],
+            "hu": [
+              "Használja a parkolóházakat (pl. CCC), hogy teljesen száraz maradjon.",
+              "Vigyázzon a szűk utcákban; a macskakő csúszós lehet.",
+              "Tartson esernyőt az autóban a rövid szakaszokra.",
+              "A Bordallo gyár kiváló megállóhely heves esőzés idején.",
+              "A látási viszonyok korlátozottak lehetnek parti köd és eső esetén."
+            ],
+            "ro": [
+              "Folosiți parcările etajate (ca CCC) pentru a rămâne complet uscat.",
+              "Atenție în intersecțiile înguste; pavajul poate fi alunecos.",
+              "Țineți o umbrelă în mașină pentru segmentele scurte de mers pe jos.",
+              "Fabrica Bordallo este un loc excelent de oprire în timpul ploii abundente.",
+              "Vizibilitatea poate fi redusă în caz de ceață de coastă și ploaie."
+            ],
+            "en": [
+              "Utilize parking garages (like CCC) to stay completely dry.",
+              "Be cautious in narrow streets; wet cobblestones can be slippery for tires.",
+              "Keep an umbrella in the car for short walks between stops.",
+              "The Bordallo Factory is an excellent stop during heavy rainfall.",
+              "Visibility may be reduced during coastal mist and rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag in Caldas mit dem Auto ist angenehm warm und flexibel. Starten Sie am Park, wo die Morgensonne die Museen beleuchtet. Mittags erreichen Sie das Keramikmuseum bequem ohne Kältestress. Der Nachmittag am Markt und in der Fabrik nutzt das Tageslicht optimal aus, bevor Sie die beleuchtete Kirche am Abend in wohliger Wärme erreichen.",
+            "hu": "A téli nap Caldasban autóval kellemesen meleg és rugalmas programot kínál. Kezdjen a parknál, ahol a reggeli nap megvilágítja a múzeumokat. Délben kényelmesen, a hideg szél nélkül érheti el a Kerámiamúzeumot. A délutáni piacozás és gyárlátogatás optimálisan kihasználja a fényt, mielőtt este a kivilágított templomhoz érne az autó melegében.",
+            "ro": "O zi de iarnă în Caldas cu mașina este caldă și flexibilă. Începeți la parc, unde soarele de dimineață luminează muzeele. La prânz ajungeți confortabil la Muzeul de Ceramică fără stresul vântului rece. După-amiaza la piață și fabrică profită optim de lumină înainte de a ajunge seara la biserica iluminată.",
+            "en": "A winter day in Caldas by car is warm, comfortable, and flexible. Start at the park where the morning sun illuminates the museums. At noon, reach the Ceramics Museum comfortably without the chill of the wind. Your afternoon market and factory visits make the most of the daylight before reaching the illuminated church in the warmth of your car."
+          },
+          "stops": [
+            {
+              "name": "Parking near Dom Carlos I Park",
+              "tip_5lang": {
+                "de": "Sonnige Parkplätze wählen, um das Auto aufzuheizen.",
+                "hu": "Válasszon napos parkolóhelyet, hogy az autó átmelegedjen.",
+                "ro": "Alegeți locuri de parcare însorite pentru a încălzi mașina.",
+                "en": "Choose sunny parking spots to help warm up the car."
+              }
+            },
+            {
+              "name": "Dom Carlos I Park & José Malhoa Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie den Parkspaziergang, solange die Sonne hoch steht.",
+                "hu": "Élvezze a parkbeli sétát, amíg magasan jár a nap.",
+                "ro": "Bucurați-vă de plimbarea în parc cât timp soarele este sus.",
+                "en": "Enjoy your stroll through the park while the sun is at its highest."
+              }
+            },
+            {
+              "name": "Ceramics Museum",
+              "tip_5lang": {
+                "de": "Perfekt für eine warme Mittagspause in den Ausstellungsräumen.",
+                "hu": "Tökéletes helyszín egy meleg déli pihenőhöz a kiállítótermekben.",
+                "ro": "Perfect pentru o pauză de prânz călduroasă în sălile de expoziție.",
+                "en": "A perfect location for a warm midday break in the exhibition halls."
+              }
+            },
+            {
+              "name": "Praça da Fruta (Fruit Market Square)",
+              "tip_5lang": {
+                "de": "Kaufen Sie regionale Winterfrüchte wie Äpfel aus Alcobaça.",
+                "hu": "Vásároljon helyi téli gyümölcsöket, például alcobaçai almát.",
+                "ro": "Cumpărați fructe locale de iarnă, cum ar fi merele din Alcobaça.",
+                "en": "Buy regional winter fruits, such as the famous Alcobaça apples."
+              }
+            },
+            {
+              "name": "Fábrica Bordallo Pinheiro",
+              "tip_5lang": {
+                "de": "Der Shop ist im Winter ein gemütlicher Ort für Souvenirkäufe.",
+                "hu": "Az üzlet télen is barátságos hely az ajándékok beszerzéséhez.",
+                "ro": "Magazinul este un loc primitor iarna pentru achiziționarea de suveniruri.",
+                "en": "The shop is a cozy place in winter to browse for unique souvenirs."
+              }
+            },
+            {
+              "name": "Church of Nossa Senhora do Pópulo",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am späten Nachmittag für die Abendbeleuchtung.",
+                "hu": "Látogassa meg a templomot késő délután az esti kivilágítás miatt.",
+                "ro": "Vizitați biserica după-amiaza târziu pentru a vedea iluminatul de seară.",
+                "en": "Visit the church in the late afternoon to see it beautifully illuminated."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkplatzsuche am Markt ist im Winter einfacher.",
+              "Nutzen Sie die Heizung zwischen den Stopps, um fit zu bleiben.",
+              "Die Tage sind kurz; fahren Sie vorausschauend bei Dämmerung.",
+              "Besuchen Sie die Bordallo-Fabrik für ein entspanntes Indoor-Erlebnis.",
+              "Genießen Sie die klare Sicht auf die Küstenlandschaft bei der Anfahrt."
+            ],
+            "hu": [
+              "Télen sokkal egyszerűbb parkolóhelyet találni a piac környékén.",
+              "Használja az autó fűtését a megállók között a felfrissüléshez.",
+              "A nappalok rövidek; vezessen óvatosan a szürkületben.",
+              "A Bordallo gyár kiváló beltéri program téli napokra.",
+              "Élvezze a tiszta kilátást a tengerparti tájra az odaút során."
+            ],
+            "ro": [
+              "Găsirea unui loc de parcare lângă piață este mai ușoară iarna.",
+              "Folosiți încălzirea mașinii între opriri pentru a vă revigora.",
+              "Zilele sunt scurte; conduceți preventiv pe timp de amurg.",
+              "Vizitați fabrica Bordallo pentru o experiență relaxantă în interior.",
+              "Bucurați-vă de vizibilitatea clară asupra peisajului de coastă pe drum."
+            ],
+            "en": [
+              "Finding a parking spot near the market is much easier in winter.",
+              "Use the car's heater between stops to stay refreshed and warm.",
+              "Days are short; drive carefully as dusk approaches early.",
+              "Visit the Bordallo Factory for a relaxed and warm indoor experience.",
+              "Enjoy the crisp, clear views of the coastal landscape during your drive."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1518,6 +2106,196 @@
           "Be aware of the last bus back, especially if visiting the factory.",
           "Validate your ticket each time you board the bus."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Toma-Stadtbus, um Caldas an einem Regentag trocken zu erkunden. Vormittags bringt Sie der Bus direkt zum Markt und zur Kirche. Mittags erreichen Sie den Park und die Museen, ohne weite Strecken im Regen laufen zu müssen. Den Nachmittag verbringen Sie in der Bordallo-Fabrik, bevor der Bus Sie abends wieder sicher zurückbringt.",
+            "hu": "Használja a Toma városi buszt Caldas esős napon történő felfedezéséhez. Délelőtt a busz közvetlenül a piachoz és a templomhoz viszi. Délben a parkot és múzeumait érheti el anélkül, hogy sokat kellene gyalogolnia az esőben. A délutánt töltse a Bordallo gyárban, majd este a busz biztonságban visszaszállítja a kiindulópontra.",
+            "ro": "Utilizați autobuzul urban Toma pentru a explora Caldas într-o zi ploioasă. Dimineața, autobuzul vă duce direct la piață și biserică. La prânz, ajungeți la parc și muzee fără a merge mult prin ploaie. Petreceți după-amiaza la fabrica Bordallo înainte ca autobuzul să vă aducă înapoi seara.",
+            "en": "Use the 'Toma' city bus to explore Caldas comfortably on a rainy day. In the morning, the bus drops you right near the market and the church. At noon, reach the park and museums without long walks in the rain. Spend your afternoon at the Bordallo Factory before the bus brings you back safely in the evening."
+          },
+          "stops": [
+            {
+              "name": "Bus Stop at Praça da Fruta",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Unterstand; die Busse sind meist pünktlich.",
+                "hu": "Várjon a fedett megállóban; a buszok általában pontosak.",
+                "ro": "Așteptați sub adăpostul stației; autobuzele sunt de obicei punctuale.",
+                "en": "Wait under the shelter; the city buses are usually very punctual."
+              }
+            },
+            {
+              "name": "Praça da Fruta & Church",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Markt und Kirche minimieren die Zeit im Regen.",
+                "hu": "A piac és a templom közötti rövid táv minimalizálja az esőben töltött időt.",
+                "ro": "Distanța scurtă dintre piață și biserică reduce timpul petrecut în ploaie.",
+                "en": "Short distances between market and church minimize your time in the rain."
+              }
+            },
+            {
+              "name": "Bus stop near the Park",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint bringt Sie trocken in das Malhoa-Museum.",
+                "hu": "Egy rövid futással szárazon érheti el a Malhoa múzeumot.",
+                "ro": "Un scurt sprint vă duce la adăpost în muzeul Malhoa.",
+                "en": "A quick sprint will get you into the Malhoa Museum while staying dry."
+              }
+            },
+            {
+              "name": "Parque Dom Carlos I & Museums",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit zwischen den Schauern für den Weg zwischen den Museen.",
+                "hu": "Használja ki a záporok közötti szünetet a múzeumok közötti átjutáshoz.",
+                "ro": "Profitați de pauzele dintre averse pentru a vă deplasa între muzee.",
+                "en": "Use breaks between showers to move between the different museum buildings."
+              }
+            },
+            {
+              "name": "Bus stop at the Factory",
+              "tip_5lang": {
+                "de": "Der Stopp liegt fast direkt vor dem Fabrikeingang.",
+                "hu": "A megálló szinte közvetlenül a gyár bejárata előtt van.",
+                "ro": "Stația este situată aproape direct în fața intrării în fabrică.",
+                "en": "The bus stop is located almost directly in front of the factory entrance."
+              }
+            },
+            {
+              "name": "Fábrica Bordallo Pinheiro",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um auf den nächsten Bus im Trockenen zu warten.",
+                "hu": "Ideális helyszín a következő busz megvárására fedett helyen.",
+                "ro": "Locul ideal pentru a aștepta următorul autobuz la adăpost.",
+                "en": "An ideal location to wait for the next bus while staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan des Toma-Busses vorab online.",
+              "Die Busse sind im Winter und bei Regen eine warme Alternative.",
+              "Halten Sie Kleingeld oder eine Karte für das Ticket bereit.",
+              "Nutzen Sie die zentralen Haltestellen als Orientierungspunkte.",
+              "Der Bus hält oft direkt vor den wichtigsten Sehenswürdigkeiten."
+            ],
+            "hu": [
+              "Ellenőrizze előre a Toma busz menetrendjét online.",
+              "A buszok télen és esőben is meleg alternatívát nyújtanak.",
+              "Készítsen elő aprópénzt vagy kártyát a jegyvásárláshoz.",
+              "Használja a központi megállókat tájékozódási pontként.",
+              "A busz gyakran közvetlenül a legfontosabb látnivalók előtt áll meg."
+            ],
+            "ro": [
+              "Verificați programul autobuzului Toma online înainte de plecare.",
+              "Autobuzele oferă o alternativă caldă pe timp de iarnă sau ploaie.",
+              "Pregătiți mărunțiș sau un card pentru plata biletului.",
+              "Folosiți stațiile centrale ca puncte de orientare.",
+              "Autobuzul oprește adesea direct în fața principalelor atracții."
+            ],
+            "en": [
+              "Check the 'Toma' bus schedule online before you head out.",
+              "Buses offer a warm and dry alternative during rain or winter.",
+              "Have small change or a card ready for purchasing your ticket.",
+              "Use central bus stops as convenient landmarks for navigation.",
+              "The bus often stops directly in front of the major sights."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Caldas lässt sich im Winter hervorragend mit dem Toma-Bus erkunden. Starten Sie am Markt, wo der Bus Sie bequem absetzt. Mittags bietet die Fahrt zum Park eine willkommene Pause vom kühlen Wind. Den Nachmittag verbringen Sie in den Museen und der Fabrik, bevor Sie der Bus im warmen Innenraum zurück zu Ihrem Ausgangspunkt bringt.",
+            "hu": "Caldas télen is kiválóan felfedezhető a Toma busszal. Kezdjen a piacon, ahol a busz kényelmesen leteszi. Délben a park felé tartó utazás kellemes pihenőt nyújt a hűvös szélben. A délutánt a múzeumokban és a gyárban töltheti, majd a busz meleg utasterében térhet vissza a kiindulópontra.",
+            "ro": "Caldas poate fi explorat excelent iarna cu autobuzul Toma. Începeți la piață, unde autobuzul vă lasă convenabil. La prânz, drumul spre parc oferă o pauză binemeritată de vântul rece. Petreceți după-amiaza în muzee și la fabrică, înainte ca autobuzul să vă aducă înapoi în confortul său termic.",
+            "en": "Caldas is excellent to explore by the 'Toma' bus in winter. Start at the market, where the bus drops you off conveniently. At noon, the ride towards the park offers a welcome break from the cool winter wind. Spend your afternoon in the museums and factory, then return to your starting point in the warmth of the bus interior."
+          },
+          "stops": [
+            {
+              "name": "Bus Stop at Praça da Fruta",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den winterlichen Markt vom Busfenster aus.",
+                "hu": "Élvezze a téli piac látványát a busz ablakából.",
+                "ro": "Bucurați-vă de vederea pieței de iarnă de la fereastra autobuzului.",
+                "en": "Enjoy the view of the winter market from the comfort of the bus window."
+              }
+            },
+            {
+              "name": "Praça da Fruta & Church",
+              "tip_5lang": {
+                "de": "Der Busstopp ist ein guter Treffpunkt bei kühler Witterung.",
+                "hu": "A buszmegálló jó találkozási pont hűvös időben.",
+                "ro": "Stația de autobuz este un punct bun de întâlnire pe vreme rece.",
+                "en": "The bus stop is a good meeting point when the weather is cool."
+              }
+            },
+            {
+              "name": "Bus stop near the Park",
+              "tip_5lang": {
+                "de": "Vom Bus aus sehen Sie die winterliche Pracht des Parks.",
+                "hu": "A buszból láthatja a park téli pompáját.",
+                "ro": "Din autobuz puteți vedea splendoarea de iarnă a parcului.",
+                "en": "You can see the winter beauty of the park right from the bus."
+              }
+            },
+            {
+              "name": "Parque Dom Carlos I & Museums",
+              "tip_5lang": {
+                "de": "Die Museen sind im Winter wohltemperiert und einladend.",
+                "hu": "A múzeumok télen is kellemes hőmérsékletűek és hívogatóak.",
+                "ro": "Muzeele sunt bine încălzite și primitoare în timpul iernii.",
+                "en": "The museums are well-heated and inviting during the winter months."
+              }
+            },
+            {
+              "name": "Bus stop at the Factory",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die kühle Strecke zur Fabrik zu überbrücken.",
+                "hu": "Használja a buszt, hogy kiváltsa a hűvös utat a gyárig.",
+                "ro": "Folosiți autobuzul pentru a evita segmentul răcoros până la fabrică.",
+                "en": "Use the bus to cover the chilly stretch of road to the factory."
+              }
+            },
+            {
+              "name": "Fábrica Bordallo Pinheiro",
+              "tip_5lang": {
+                "de": "Der Bus fährt regelmäßig zurück in das Stadtzentrum.",
+                "hu": "A busz rendszeresen jár vissza a városközpontba.",
+                "ro": "Autobuzul circulă regulat înapoi spre centrul orașului.",
+                "en": "The bus runs regularly back towards the city center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Toma-Bus ist die entspannteste Art, die Stadt im Winter zu sehen.",
+              "Die Fahrpläne sind an den Haltestellen gut sichtbar angebracht.",
+              "Kombinieren Sie den Bus mit kurzen Spaziergängen im Park.",
+              "Der Bus ist im Winter oft weniger überfüllt als im Sommer.",
+              "Fragen Sie den Fahrer nach der nächsten Haltestelle zum Museum."
+            ],
+            "hu": [
+              "A Toma busz a legpihentetőbb módja a város téli felfedezésének.",
+              "A menetrendek jól láthatóan ki vannak függesztve a megállókban.",
+              "Kombinálja a buszozást rövid parkbeli sétákkal.",
+              "A busz télen gyakran kevésbé zsúfolt, mint nyáron.",
+              "Kérdezze a sofőrt a múzeumhoz legközelebbi megállóról."
+            ],
+            "ro": [
+              "Autobuzul Toma este cel mai relaxant mod de a vedea orașul iarna.",
+              "Orarele sunt afișate clar în fiecare stație.",
+              "Combinați mersul cu autobuzul cu scurte plimbări prin parc.",
+              "Autobuzul este adesea mai puțin aglomerat iarna decât vara.",
+              "Întrebați șoferul despre cea mai apropiată stație de muzeu."
+            ],
+            "en": [
+              "The 'Toma' bus is the most relaxing way to see the city in winter.",
+              "Schedules are clearly displayed at each bus stop.",
+              "Combine bus rides with short, brisk walks through the park.",
+              "The bus is often less crowded in winter than during the peak season.",
+              "Ask the driver for the stop closest to your chosen museum."
+            ]
+          }
+        }
       }
     }
   }

@@ -338,6 +338,196 @@
           "Check the opening hours of the museums in advance.",
           "Most sights in the center are easily accessible on foot."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Morgen am Marktplatz, das Rote Haus glänzt im Nass. Mittags bietet die Inatura ein perfektes trockenes Refugium mit Naturkunde. Nachmittags bestaunen Sie die Rolls-Royce Flotte wettergeschützt in der Gütle. Abends lassen Sie den Tag gemütlich in der Mohren Brauwelt bei einem Bier ausklingen.",
+            "hu": "Esős reggel a piactéren, a Vörös Ház vizesen is impozáns. Délben az Inatura interaktív kiállítása nyújt menedéket a csapadék elől. Délután a Rolls-Royce múzeum csarnokaiban kalandozhat szárazon. Az estét a Mohren sörfőzde látogatóközpontjában, fedett helyen zárhatja egy helyi különlegességgel.",
+            "ro": "Dimineață ploioasă în piață, unde Casa Roșie strălucește în ciuda vremii. La prânz, Inatura oferă un refugiu perfect și interactiv. După-amiaza admirați colecția Rolls-Royce la adăpost de ploaie. Seara se încheie confortabil la lumea berii Mohren, savurând o băutură locală într-un cadru uscat.",
+            "en": "A rainy morning at the market square, where the Red House glows in the wet. At noon, Inatura provides a perfect indoor escape with nature exhibits. In the afternoon, explore the Rolls-Royce collection safely undercover. End your day cozily at the Mohren Brewery World, staying dry with a local beer."
+          },
+          "stops": [
+            {
+              "name": "Market Square and Red House",
+              "tip_5lang": {
+                "de": "Schirm am Brunnen bereithalten.",
+                "hu": "Készítse elő az esernyőt a kútnál.",
+                "ro": "Pregătiți umbrela lângă fântână.",
+                "en": "Have your umbrella ready by the fountain."
+              }
+            },
+            {
+              "name": "St. Martin Parish Church",
+              "tip_5lang": {
+                "de": "Idealer Ort für eine kurze Regenpause.",
+                "hu": "Ideális hely egy rövid esőszünetre.",
+                "ro": "Loc ideal pentru o scurtă pauză de ploaie.",
+                "en": "Ideal spot for a short rain break."
+              }
+            },
+            {
+              "name": "Inatura Experience Nature Show",
+              "tip_5lang": {
+                "de": "Großzügiger Indoor-Bereich, perfekt heute.",
+                "hu": "Tágas beltéri rész, ma tökéletes választás.",
+                "ro": "Zonă interioară generoasă, perfectă azi.",
+                "en": "Spacious indoor area, perfect for today."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal mit Garderobe.",
+                "hu": "Válasszon ruhatárral rendelkező helyet.",
+                "ro": "Alegeți un local cu garderobă.",
+                "en": "Choose a place with a cloakroom."
+              }
+            },
+            {
+              "name": "Rolls-Royce Museum",
+              "tip_5lang": {
+                "de": "Komplett überdacht in der alten Fabrik.",
+                "hu": "Teljesen fedett, régi gyárépületben.",
+                "ro": "Complet acoperit în vechea fabrică.",
+                "en": "Fully undercover in the old factory."
+              }
+            },
+            {
+              "name": "Mohren Brewery World of Beer",
+              "tip_5lang": {
+                "de": "Warmes Ambiente trotz Regen draußen.",
+                "hu": "Meleg hangulat, hiába esik odakint.",
+                "ro": "Ambiantă caldă, chiar dacă plouă afară.",
+                "en": "Warm atmosphere despite the rain outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die kurzen Wege in der Innenstadt.",
+              "Die Inatura ist das beste Schlechtwetterprogramm.",
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Viele Cafés am Markt haben Markisen.",
+              "Der Stadtbus bringt Sie trocken zum Rolls-Royce Museum."
+            ],
+            "hu": [
+              "Használja ki a belváros rövid sétálóutcáit.",
+              "Az Inatura a legjobb program rossz idő esetén.",
+              "Viseljen vízálló cipőt a macskaköveken.",
+              "A piaci kávézók többsége fedett teraszos.",
+              "A városi busz szárazon visz a Rolls-Royce múzeumhoz."
+            ],
+            "ro": [
+              "Profitați de distanțele scurte din centru.",
+              "Inatura este cel mai bun program de vreme rea.",
+              "Purtați pantofi impermeabili pentru pavaj.",
+              "Multe cafenele din piață au copertine.",
+              "Autobuzul urban vă duce la muzeu fără să vă udați."
+            ],
+            "en": [
+              "Take advantage of short distances in the center.",
+              "Inatura is the best bad-weather option.",
+              "Wear waterproof shoes for the cobblestones.",
+              "Many cafes at the square have awnings.",
+              "The city bus keeps you dry on the way to the museum."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kühler Wintermorgen mit Blick auf verschneite Gipfel am Markt. Mittags wärmen Sie sich in der modernen Inatura zwischen Exponaten auf. Nachmittags glänzt der Chrom der Rolls-Royce Wagen im winterlichen Licht der Gütle. Ein kräftiges Bier in der gemütlichen Mohren Brauwelt rundet den kurzen Wintertag perfekt ab.",
+            "hu": "Hűvös téli reggel, kilátással a havas hegycsúcsokra a piacról. Délben a modern Inatura fűtött termeiben melegedhet fel. Délután a Rolls-Royce autók krómja csillog a Gütle téli fényében. Egy tartalmas sör a hangulatos Mohren sörfőzdében tökéletesen zárja a rövid téli nappalt.",
+            "ro": "O dimineață răcoroasă de iarnă cu vedere spre vârfurile înzăpezite. La prânz, încălziți-vă în sălile moderne de la Inatura. După-amiaza, cromul mașinilor Rolls-Royce strălucește în lumina de iarnă. O bere consistentă în atmosfera caldă de la Mohren încheie perfect ziua scurtă de iarnă.",
+            "en": "A crisp winter morning with views of snowy peaks from the square. At noon, warm up inside the modern Inatura exhibits. In the afternoon, the chrome of the Rolls-Royce cars gleams in the wintry light. A hearty beer in the cozy Mohren Brewery World perfectly rounds off the short winter day."
+          },
+          "stops": [
+            {
+              "name": "Market Square and Red House",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf dem Pflaster.",
+                "hu": "Vigyázat, a macskakő csúszós lehet.",
+                "ro": "Atenție la pavajul alunecos.",
+                "en": "Watch out for slippery cobblestones."
+              }
+            },
+            {
+              "name": "St. Martin Parish Church",
+              "tip_5lang": {
+                "de": "Kurz innehalten und aufwärmen.",
+                "hu": "Álljon meg egy pillanatra felmelegedni.",
+                "ro": "Opriți-vă un moment pentru a vă încălzi.",
+                "en": "Stop for a moment to warm up."
+              }
+            },
+            {
+              "name": "Inatura Experience Nature Show",
+              "tip_5lang": {
+                "de": "Garderobe für dicke Jacken nutzen.",
+                "hu": "Használja a ruhatárat a vastag kabátnak.",
+                "ro": "Folosiți garderoba pentru hainele groase.",
+                "en": "Use the cloakroom for heavy coats."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Probieren Sie Käsknöpfle zum Aufwärmen.",
+                "hu": "Kóstolja meg a Käsknöpfle-t melegítésnek.",
+                "ro": "Încercați Käsknöpfle pentru încălzire.",
+                "en": "Try Käsknöpfle to warm you up."
+              }
+            },
+            {
+              "name": "Rolls-Royce Museum",
+              "tip_5lang": {
+                "de": "Hintergrundheizung sorgt für Komfort.",
+                "hu": "A háttérfűtés kellemes hőmérsékletet ad.",
+                "ro": "Încălzirea asigură un confort sporit.",
+                "en": "Background heating ensures comfort."
+              }
+            },
+            {
+              "name": "Mohren Brewery World of Beer",
+              "tip_5lang": {
+                "de": "Der Shop hat tolle Winter-Souvenirs.",
+                "hu": "A boltban remek téli ajándékok vannak.",
+                "ro": "Magazinul are suveniruri de iarnă grozave.",
+                "en": "The shop has great winter souvenirs."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 16:30 Uhr unter.",
+              "Inatura und Museen sind gut beheizt.",
+              "Warme Handschuhe sind für den Weg zur Gütle wichtig.",
+              "Genießen Sie die beleuchtete Altstadt ab 17 Uhr.",
+              "Feste Sohlen verhindern Ausrutschen auf Schnee."
+            ],
+            "hu": [
+              "Télen a nap 16:30 körül nyugszik.",
+              "Az Inatura és a múzeumok jól fűtöttek.",
+              "Meleg kesztyű fontos a Gütle felé vezető úton.",
+              "Élvezze a kivilágított óvárost 17 órától.",
+              "A vastag talpú cipő véd a csúszástól és a hidegtől."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 16:30 iarna.",
+              "Inatura și muzeele sunt bine încălzite.",
+              "Mănușile groase sunt esențiale spre Gütle.",
+              "Bucurați-vă de orașul vechi luminat de la ora 17.",
+              "Tălpile aderente previn alunecarea pe zăpadă."
+            ],
+            "en": [
+              "Sunset is around 4:30 PM in winter.",
+              "Inatura and museums are well heated.",
+              "Warm gloves are essential for the walk to Gütle.",
+              "Enjoy the illuminated old town from 5 PM.",
+              "Sturdy soles prevent slipping on snow."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -670,6 +860,196 @@
           "Pay attention to the cycle path signs.",
           "A helmet is strongly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendliche Fahrt durch den Regen zum Marktplatz. Mittags parken Sie das Rad trocken an der Inatura für eine lange Pause. Nachmittags geht es auf nassen Wegen zur Rolls-Royce Sammlung in der Gütle. Den Abschluss bildet die Fahrt zur Mohren Brauwelt, bevor Sie das Rad im Zentrum wieder abgeben.",
+            "hu": "Reggeli tekerés az esőben a piactér felé. Délben parkoljon le fedett helyen az Inaturánál egy hosszú pihenőre. Délután vizes utakon gurulhat a Rolls-Royce gyűjteményhez a Gütle negyedbe. Zárásként látogasson el a Mohren sörfőzdébe, mielőtt visszaadná a biciklit a központban.",
+            "ro": "Călătorie matinală prin ploaie spre piața centrală. La prânz, parcați bicicleta la adăpost la Inatura. După-amiaza urmați drumurile umede spre colecția Rolls-Royce din Gütle. Finalul este marcat de o vizită la Mohren, înainte de a returna bicicleta în centru.",
+            "en": "A morning ride through the rain towards the market square. At noon, park your bike undercover at Inatura for a long break. In the afternoon, pedal along wet paths to the Rolls-Royce collection in Gütle. Conclude with a visit to Mohren Brewery before returning your bike in the center."
+          },
+          "stops": [
+            {
+              "name": "Market Square and Red House",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázat a vizes macskakövön.",
+                "ro": "Atenție pe pavajul ud.",
+                "en": "Be careful on wet cobblestones."
+              }
+            },
+            {
+              "name": "Inatura Experience Nature Show",
+              "tip_5lang": {
+                "de": "Fahrradständer meist unüberdacht.",
+                "hu": "A biciklitárolók többsége nem fedett.",
+                "ro": "Suporturile de biciclete sunt descoperite.",
+                "en": "Bike racks are mostly uncovered."
+              }
+            },
+            {
+              "name": "Rolls-Royce Museum",
+              "tip_5lang": {
+                "de": "Ansteigender Weg, bei Regen rutschig.",
+                "hu": "Emelkedő út, esőben csúszós lehet.",
+                "ro": "Drum în urcare, alunecos pe ploaie.",
+                "en": "Uphill path, can be slippery in rain."
+              }
+            },
+            {
+              "name": "Lunch near the museum",
+              "tip_5lang": {
+                "de": "Ideal zum Trocknen der Regenkleidung.",
+                "hu": "Ideális a vizes ruhák szárítására.",
+                "ro": "Ideal pentru uscarea hainelor de ploaie.",
+                "en": "Ideal for drying your rain gear."
+              }
+            },
+            {
+              "name": "Mohren Brewery World of Beer",
+              "tip_5lang": {
+                "de": "Zentral gelegen, kurze Fahrt zurück.",
+                "hu": "Központi fekvés, rövid út vissza.",
+                "ro": "Locație centrală, drum scurt înapoi.",
+                "en": "Central location, short ride back."
+              }
+            },
+            {
+              "name": "Return to the center/Wind down",
+              "tip_5lang": {
+                "de": "Rad gut abwischen vor der Rückgabe.",
+                "hu": "Törölje le a gépet leadás előtt.",
+                "ro": "Ștergeți bicicleta înainte de returnare.",
+                "en": "Wipe down the bike before returning."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie vollständige Regenbekleidung.",
+              "Vermeiden Sie scharfes Bremsen auf Markierungen.",
+              "Die Radwege in Dornbirn sind gut asphaltiert.",
+              "Nutzen Sie Schutzbleche, falls vorhanden.",
+              "Inatura bietet Schließfächer für Helme."
+            ],
+            "hu": [
+              "Viseljen teljes esővédő ruházatot.",
+              "Kerülje az erős fékezést az útburkolati jeleken.",
+              "Dornbirn kerékpárútjai jól aszfaltozottak.",
+              "Használjon sárvédőt, ha van a gépen.",
+              "Az Inaturában vannak sisaktároló szekrények."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie.",
+              "Evitați frânarea bruscă pe marcajele rutiere.",
+              "Pistele de biciclete sunt bine asfaltate.",
+              "Folosiți apărători de noroi dacă aveți.",
+              "Inatura oferă dulapuri pentru căști."
+            ],
+            "en": [
+              "Wear full rain gear for the ride.",
+              "Avoid sharp braking on road markings.",
+              "Bike paths in Dornbirn are well paved.",
+              "Use mudguards if available on your bike.",
+              "Inatura has lockers for helmets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frischer Start am Morgen bei klarem Winterwetter. Mittags parken Sie das Rad und verbringen viel Zeit im warmen Inatura Museum. Die Nachmittagsfahrt zur Gütle erfordert wegen der Kälte gute Ausrüstung. Nach dem Museumsbesuch wärmen Sie sich bei Mohren auf, bevor Sie im Dunkeln ins Zentrum zurückkehren.",
+            "hu": "Friss reggeli rajt tiszta téli időben. Délben parkolja le a gépet, és töltsön több időt a meleg Inatura múzeumban. A délutáni tekerés a Gütle negyedbe jó felszerelést igényel a hideg miatt. A múzeumlátogatás után melegedjen fel a Mohrenben, mielőtt sötétben visszatérne a központba.",
+            "ro": "Start revigorant în dimineața senină de iarnă. La prânz parcați bicicleta și petreceți timp în muzeul cald Inatura. Călătoria de după-amiază spre Gütle necesită echipament bun contra frigului. După muzeu, încălziți-vă la Mohren înainte de a reveni în centru pe întuneric.",
+            "en": "A refreshing start on a clear winter morning. At noon, park your bike and spend plenty of time in the warm Inatura museum. The afternoon ride to Gütle requires good gear due to the cold. After the museum, warm up at Mohren before returning to the center in the dark."
+          },
+          "stops": [
+            {
+              "name": "Market Square and Red House",
+              "tip_5lang": {
+                "de": "Reifenluftdruck bei Kälte prüfen.",
+                "hu": "Ellenőrizze a guminyomást a hidegben.",
+                "ro": "Verificați presiunea roților la frig.",
+                "en": "Check tire pressure in cold weather."
+              }
+            },
+            {
+              "name": "Inatura Experience Nature Show",
+              "tip_5lang": {
+                "de": "Lange Aufwärmpause einplanen.",
+                "hu": "Tervezzen hosszú melegedő pihenőt.",
+                "ro": "Planificați o pauză lungă de încălzire.",
+                "en": "Plan a long warm-up break."
+              }
+            },
+            {
+              "name": "Rolls-Royce Museum",
+              "tip_5lang": {
+                "de": "Beleuchtung für Rückfahrt checken.",
+                "hu": "Ellenőrizze a lámpákat a visszaúthoz.",
+                "ro": "Verificați luminile pentru retur.",
+                "en": "Check your lights for the ride back."
+              }
+            },
+            {
+              "name": "Lunch near the museum",
+              "tip_5lang": {
+                "de": "Heiße Suppe gibt neue Energie.",
+                "hu": "A forró leves új energiát ad.",
+                "ro": "Supa fierbinte vă dă energie nouă.",
+                "en": "Hot soup will give you new energy."
+              }
+            },
+            {
+              "name": "Mohren Brewery World of Beer",
+              "tip_5lang": {
+                "de": "Sichere Radwege direkt ab hier.",
+                "hu": "Biztonságos kerékpárutak innen.",
+                "ro": "Piste sigure chiar de aici.",
+                "en": "Safe bike paths directly from here."
+              }
+            },
+            {
+              "name": "Return to the center/Wind down",
+              "tip_5lang": {
+                "de": "Vorsicht bei überfrierender Nässe.",
+                "hu": "Vigyázat a lefagyott nedvességre.",
+                "ro": "Atenție la polei pe drum.",
+                "en": "Watch out for black ice on the road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf funktionierende Lichter.",
+              "Tragen Sie Schichten gegen den Fahrtwind.",
+              "Ein Schlauchtuch schützt das Gesicht.",
+              "Bremsen Sie vorsichtig auf Streusalz.",
+              "Die Akkulaufzeit von E-Bikes ist kürzer."
+            ],
+            "hu": [
+              "Ügyeljen a működő világításra.",
+              "Öltözzön rétegesen a menetszél ellen.",
+              "A csősál védi az arcot a hidegtől.",
+              "Óvatosan fékezzen az útsózott részeken.",
+              "Az e-bike akkumulátora gyorsabban merül."
+            ],
+            "ro": [
+              "Asigurați-vă că luminile funcționează.",
+              "Purtați straturi contra vântului.",
+              "Un fular tip tub vă protejează fața.",
+              "Frânați cu grijă pe porțiunile cu sare.",
+              "Bateria e-bike-ului se descarcă mai repede."
+            ],
+            "en": [
+              "Ensure your lights are working.",
+              "Wear layers against the wind chill.",
+              "A neck warmer protects your face.",
+              "Brake carefully on salted roads.",
+              "E-bike battery life is shorter in cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1026,6 +1406,214 @@
           "Check the status of the Rappenloch Gorge, as it is sometimes closed for maintenance.",
           "The car gives you the flexibility to visit more remote places."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens parken Sie im Zentrum für einen kurzen Gang zum Marktplatz. Mittags geht es zur Karren-Seilbahn; das Panorama-Restaurant bietet auch bei Regen tolle Blicke. Nachmittags besuchen Sie die Rappenlochschlucht, die bei Regen besonders mystisch wirkt. Danach folgen die Inatura und das Rolls-Royce Museum als trockene Highlights.",
+            "hu": "Reggel parkoljon a központban egy rövid sétához a piactérre. Délben irány a Karren felvonó; a panoráma étterem esőben is remek kilátást nyújt. Délután látogassa meg a Rappenloch-szurdokot, amely esőben különösen misztikus. Ezután az Inatura és a Rolls-Royce múzeum következik száraz fénypontként.",
+            "ro": "Dimineața parcați în centru pentru o scurtă plimbare în piață. La prânz mergeți la telecabina Karren; restaurantul oferă vederi superbe și pe ploaie. După-amiaza vizitați cheile Rappenloch, care par mistice pe ploaie. Urmează Inatura și muzeul Rolls-Royce ca puncte forte la adăpost.",
+            "en": "In the morning, park in the center for a quick stroll to the market. At noon, head to the Karren cable car; the panorama restaurant offers great views even in the rain. In the afternoon, visit the Rappenloch Gorge, which looks mystical in wet weather. Then, Inatura and the Rolls-Royce Museum follow as indoor highlights."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking & Walk to Market Square",
+              "tip_5lang": {
+                "de": "Tiefgarage schützt das Auto vor Nässe.",
+                "hu": "A mélygarázs védi az autót az esőtől.",
+                "ro": "Parcarea subterană protejează mașina.",
+                "en": "Underground parking keeps the car dry."
+              }
+            },
+            {
+              "name": "Red House & St. Martin Parish Church",
+              "tip_5lang": {
+                "de": "Nur wenige Schritte vom Parkplatz.",
+                "hu": "Csak pár lépésre a parkolótól.",
+                "ro": "La doar câțiva pași de parcare.",
+                "en": "Just a few steps from the parking."
+              }
+            },
+            {
+              "name": "Drive to Karren Cable Car & Mountain Ride",
+              "tip_5lang": {
+                "de": "Gondelfahrt ist komplett überdacht.",
+                "hu": "A felvonó kabinja teljesen zárt.",
+                "ro": "Cabina telecabinei este închisă.",
+                "en": "The cable car cabin is fully enclosed."
+              }
+            },
+            {
+              "name": "Karren Summit & Panorama Restaurant",
+              "tip_5lang": {
+                "de": "Bester Platz bei Regen: am Fenster.",
+                "hu": "Legjobb hely esőben: az ablak mellett.",
+                "ro": "Cel mai bun loc pe ploaie: la fereastră.",
+                "en": "Best spot in the rain: by the window."
+              }
+            },
+            {
+              "name": "Drive to Rappenloch Gorge",
+              "tip_5lang": {
+                "de": "Vorsicht, rutschige Felsenwege.",
+                "hu": "Vigyázat, csúszós sziklaösvények.",
+                "ro": "Atenție, poteci stâncoase alunecoase.",
+                "en": "Caution, slippery rocky paths."
+              }
+            },
+            {
+              "name": "Drive to the Museum Quarter: Inatura",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor dem Eingang.",
+                "hu": "Parkoló közvetlenül a bejárat előtt.",
+                "ro": "Parcare chiar în fața intrării.",
+                "en": "Parking right in front of the entrance."
+              }
+            },
+            {
+              "name": "Rolls-Royce Museum",
+              "tip_5lang": {
+                "de": "Großer Parkplatz in der Gütle.",
+                "hu": "Nagy parkoló a Gütle negyedben.",
+                "ro": "Parcare mare în zona Gütle.",
+                "en": "Large parking area in Gütle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Parkhäuser in der Innenstadt.",
+              "Prüfen Sie die Webcams am Karren.",
+              "Die Rappenlochschlucht ist bei Starkregen gesperrt.",
+              "Fahren Sie vorsichtig auf den Bergstraßen.",
+              "Scheibenwischer vor der Fahrt prüfen."
+            ],
+            "hu": [
+              "Használja a belvárosi parkolóházakat.",
+              "Ellenőrizze a Karren webkameráit.",
+              "A Rappenloch-szurdokot erős esőben lezárhatják.",
+              "Vezessen óvatosan a hegyi utakon.",
+              "Indulás előtt ellenőrizze az ablaktörlőket."
+            ],
+            "ro": [
+              "Folosiți parcările etajate din centru.",
+              "Verificați camerele web de pe Karren.",
+              "Cheile Rappenloch pot fi închise la ploaie torențială.",
+              "Conduceți cu grijă pe drumurile montane.",
+              "Verificați ștergătoarele înainte de drum."
+            ],
+            "en": [
+              "Use multi-story car parks in the center.",
+              "Check the Karren webcams for visibility.",
+              "Rappenloch Gorge may close in heavy rain.",
+              "Drive carefully on mountain roads.",
+              "Check your wipers before setting off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Start im Zentrum mit kurzem Marktplatz-Besuch. Die Fahrt zur Karren-Seilbahn bietet mittags einen fantastischen Blick auf das verschneite Rheintal. Nachmittags ist die Rappenlochschlucht ein eisiges Naturwunder (festes Schuhwerk!). Zum Aufwärmen geht es anschließend in die Inatura und das Rolls-Royce Museum.",
+            "hu": "Téli kezdés a központban rövid piactéri látogatással. A Karren felvonóhoz vezető út délben fantasztikus kilátást nyújt a havas Rajna-völgyre. Délután a Rappenloch-szurdok jeges természeti csoda (bakancs kötelező!). Végül az Inatura és a Rolls-Royce múzeum fűtött termei várják.",
+            "ro": "Start de iarnă în centru cu o vizită scurtă în piață. Drumul spre telecabina Karren oferă la prânz o vedere superbă asupra văii Rinului înzăpezite. După-amiaza, cheile Rappenloch sunt o minune înghețată. Pentru încălzire, mergeți apoi la Inatura și la muzeul Rolls-Royce.",
+            "en": "A wintry start in the center with a short visit to the market. The drive to the Karren cable car offers fantastic views of the snowy Rhine Valley at noon. In the afternoon, Rappenloch Gorge is an icy natural wonder (sturdy boots required!). Finally, warm up at Inatura and the Rolls-Royce Museum."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking & Walk to Market Square",
+              "tip_5lang": {
+                "de": "Kurze Wege minimieren Kälte-Exposition.",
+                "hu": "Rövid utak, kevés idő a hidegben.",
+                "ro": "Drumurile scurte reduc expunerea la frig.",
+                "en": "Short walks minimize cold exposure."
+              }
+            },
+            {
+              "name": "Red House & St. Martin Parish Church",
+              "tip_5lang": {
+                "de": "Toll beleuchtet in der Dämmerung.",
+                "hu": "Szuper kivilágítás szürkületben.",
+                "ro": "Luminat superb la amurg.",
+                "en": "Great lighting at dusk."
+              }
+            },
+            {
+              "name": "Drive to Karren Cable Car & Mountain Ride",
+              "tip_5lang": {
+                "de": "Winterreifen sind hier Pflicht.",
+                "hu": "Téli gumi itt kötelező.",
+                "ro": "Anvelopele de iarnă sunt obligatorii.",
+                "en": "Winter tires are mandatory here."
+              }
+            },
+            {
+              "name": "Karren Summit & Panorama Restaurant",
+              "tip_5lang": {
+                "de": "Blick auf verschneite Alpen genießen.",
+                "hu": "Élvezze a havas Alpok látványát.",
+                "ro": "Bucurați-vă de Alpii înzăpeziți.",
+                "en": "Enjoy the view of the snowy Alps."
+              }
+            },
+            {
+              "name": "Drive to Rappenloch Gorge",
+              "tip_5lang": {
+                "de": "Vorsicht bei Eis auf den Wegen.",
+                "hu": "Vigyázat, jegesek lehetnek az utak.",
+                "ro": "Atenție la gheața de pe poteci.",
+                "en": "Watch out for ice on the paths."
+              }
+            },
+            {
+              "name": "Drive to the Museum Quarter: Inatura",
+              "tip_5lang": {
+                "de": "Innenräume sind angenehm geheizt.",
+                "hu": "A belső terek kellemesen fűtöttek.",
+                "ro": "Spațiile interioare sunt bine încălzite.",
+                "en": "Indoor spaces are comfortably heated."
+              }
+            },
+            {
+              "name": "Rolls-Royce Museum",
+              "tip_5lang": {
+                "de": "Parkplatz kann im Schatten glatt sein.",
+                "hu": "A parkoló az árnyékban csúszós lehet.",
+                "ro": "Parcarea poate fi alunecoasă la umbră.",
+                "en": "Parking might be slippery in the shade."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Eiskratzer mitführen.",
+              "Brücke zur Rappenlochschlucht kann glatt sein.",
+              "Seilbahn fährt auch bei Schneefall.",
+              "Abblendlicht auch tagsüber einschalten.",
+              "Batteriekapazität bei Kälte beachten."
+            ],
+            "hu": [
+              "Téli gumi és jégkaparó legyen kéznél.",
+              "A szurdok hídja nagyon csúszós lehet.",
+              "A felvonó hóesésben is közlekedik.",
+              "Használjon tompított fényt nappal is.",
+              "Figyeljen az akkumulátorra a hidegben."
+            ],
+            "ro": [
+              "Aveți anvelope de iarnă și răzuitor de gheață.",
+              "Podul spre Rappenloch poate fi alunecos.",
+              "Telecabina circulă și când ninge.",
+              "Aprindeți faza scurtă și ziua.",
+              "Atenție la baterie pe timp de frig."
+            ],
+            "en": [
+              "Carry winter tires and an ice scraper.",
+              "The bridge to Rappenloch can be slippery.",
+              "The cable car runs even during snowfall.",
+              "Keep your headlights on during the day.",
+              "Check battery capacity in the cold."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1358,6 +1946,196 @@
           "Buses run regularly, but check the schedule for the evening.",
           "Many sights are just a short walk from a bus stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bringt Sie der Bus trocken zum Marktplatz. Mittags erreichen Sie die Inatura bequem mit der Linie 1. Nachmittags fährt der Stadtbus direkt zur Gütle zum Rolls-Royce Museum. Den Abschluss bildet der Besuch der Mohren Brauwelt, bevor Sie mit dem Zug oder Bus die Heimreise vom Bahnhof antreten.",
+            "hu": "Reggel a busz szárazon visz a piactérre. Délben az 1-es vonallal kényelmesen elérheti az Inaturát. Délután a városi busz közvetlenül a Gütle negyedbe, a Rolls-Royce múzeumhoz szállítja. Zárásként látogasson el a Mohren sörfőzdébe, mielőtt busszal vagy vonattal indulna haza az állomásról.",
+            "ro": "Dimineața autobuzul vă duce la piață fără să vă udați. La prânz ajungeți la Inatura cu linia 1. După-amiaza autobuzul urban merge direct la Gütle pentru muzeul Rolls-Royce. Finalul este la Mohren, înainte de a pleca spre gară cu autobuzul sau trenul.",
+            "en": "In the morning, the bus takes you dry to the market square. At noon, reach Inatura easily with line 1. In the afternoon, the city bus goes directly to Gütle for the Rolls-Royce Museum. Conclude with a visit to Mohren Brewery before heading back to the station by bus or train."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the train station & bus to Market Square",
+              "tip_5lang": {
+                "de": "Unterstand am Bahnhof nutzen.",
+                "hu": "Használja az állomási várót.",
+                "ro": "Folosiți adăpostul din gară.",
+                "en": "Use the shelter at the station."
+              }
+            },
+            {
+              "name": "Red House & St. Martin Parish Church",
+              "tip_5lang": {
+                "de": "Bus hält fast direkt vor der Kirche.",
+                "hu": "A busz szinte a templom előtt áll meg.",
+                "ro": "Autobuzul oprește aproape de biserică.",
+                "en": "The bus stops almost in front of the church."
+              }
+            },
+            {
+              "name": "Bus to Inatura",
+              "tip_5lang": {
+                "de": "Häufige Verbindungen, wenig Warten.",
+                "hu": "Gyakori járatok, kevés várakozás.",
+                "ro": "Conexiuni frecvente, așteptare scurtă.",
+                "en": "Frequent connections, little waiting."
+              }
+            },
+            {
+              "name": "Lunch near Inatura",
+              "tip_5lang": {
+                "de": "Viele Lokale direkt an der Busroute.",
+                "hu": "Sok hely van közvetlen a buszvonalon.",
+                "ro": "Multe localuri sunt pe ruta autobuzului.",
+                "en": "Many places are right on the bus route."
+              }
+            },
+            {
+              "name": "Bus to the Rolls-Royce Museum",
+              "tip_5lang": {
+                "de": "Linie 7 fährt bis zur Gütle.",
+                "hu": "A 7-es busz megy egészen a Gütle-ig.",
+                "ro": "Linia 7 merge până la Gütle.",
+                "en": "Line 7 goes all the way to Gütle."
+              }
+            },
+            {
+              "name": "Mohren Brewery World of Beer",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt gegenüber.",
+                "hu": "Buszmegálló közvetlenül szemben.",
+                "ro": "Stație de autobuz chiar vizavi.",
+                "en": "Bus stop right across the street."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'VMOBIL' App für Echtzeitdaten.",
+              "Tageskarten sind im Bus erhältlich.",
+              "Haltestellen sind meist überdacht.",
+              "Der Stadtbus ist bei Regen die beste Wahl.",
+              "Vermeiden Sie das Umsteigen im Freien."
+            ],
+            "hu": [
+              "Használja a 'VMOBIL' appot a valós idejű adatokhoz.",
+              "Napijegy kapható a buszon.",
+              "A megállók többsége fedett.",
+              "Esőben a városi busz a legjobb választás.",
+              "Kerülje a szabadtéri átszállásokat."
+            ],
+            "ro": [
+              "Folosiți aplicația 'VMOBIL' pentru date live.",
+              "Biletele de o zi se iau din autobuz.",
+              "Stațiile sunt în general acoperite.",
+              "Autobuzul este cea mai bună alegere pe ploaie.",
+              "Evitați transferurile în aer liber."
+            ],
+            "en": [
+              "Use the 'VMOBIL' app for real-time data.",
+              "Day tickets are available on the bus.",
+              "Bus stops are mostly covered.",
+              "The city bus is the best choice in the rain.",
+              "Avoid transfers in unsheltered areas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Start mit dem Bus zum Marktplatz. Mittags wärmen Sie sich während der kurzen Busfahrt zur Inatura auf. Die Nachmittagsfahrt zur Gütle bietet einen Blick auf die verschneite Landschaft vom warmen Bus aus. Zum Abschluss genießen Sie die gemütliche Atmosphäre bei Mohren, bevor Sie den Abend im Zentrum ausklingen lassen.",
+            "hu": "Téli kezdés busszal a piactér felé. Délben melegedjen fel az Inatura felé tartó rövid buszúton. A délutáni utazás a Gütle negyedbe rálátást enged a havas tájra a fűtött buszból. Zárásként élvezze a Mohren sörfőzde barátságos hangulatát, mielőtt visszatérne a központba.",
+            "ro": "Start de iarnă cu autobuzul spre piață. La prânz încălziți-vă în timpul drumului scurt spre Inatura. Călătoria de după-amiază spre Gütle oferă o vedere spre peisajul înzăpezit din autobuzul cald. La final, bucurați-vă de atmosfera de la Mohren înainte de seară.",
+            "en": "A wintry start by bus to the market square. At noon, warm up during the short bus ride to Inatura. The afternoon journey to Gütle offers views of the snowy landscape from the warm bus. To finish, enjoy the cozy atmosphere at Mohren before spending your evening in the center."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the train station & bus to Market Square",
+              "tip_5lang": {
+                "de": "Warme Wartehalle im Bahnhof nutzen.",
+                "hu": "Használja a fűtött várót az állomáson.",
+                "ro": "Folosiți sala de așteptare din gară.",
+                "en": "Use the heated waiting hall at the station."
+              }
+            },
+            {
+              "name": "Red House & St. Martin Parish Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg zur Haltestelle.",
+                "hu": "Rövid séta a buszmegállóig.",
+                "ro": "Drum scurt până la stație.",
+                "en": "Short walk to the bus stop."
+              }
+            },
+            {
+              "name": "Bus to Inatura",
+              "tip_5lang": {
+                "de": "Busse sind gut beheizt.",
+                "hu": "A buszok jól fűtöttek.",
+                "ro": "Autobuzele sunt bine încălzite.",
+                "en": "Buses are well heated."
+              }
+            },
+            {
+              "name": "Lunch near Inatura",
+              "tip_5lang": {
+                "de": "In Laufnähe zur Haltestelle.",
+                "hu": "Sétatávolságra a megállótól.",
+                "ro": "La mică distanță de mers de stație.",
+                "en": "Within walking distance of the stop."
+              }
+            },
+            {
+              "name": "Bus to the Rolls-Royce Museum",
+              "tip_5lang": {
+                "de": "Schöne Aussicht auf verschneite Hänge.",
+                "hu": "Szép kilátás a havas lankákra.",
+                "ro": "Vedere frumoasă spre pantele ninse.",
+                "en": "Beautiful views of snowy slopes."
+              }
+            },
+            {
+              "name": "Mohren Brewery World of Beer",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt in der Nähe.",
+                "hu": "Központi csomópont a közelben.",
+                "ro": "Nod central de transport în apropiere.",
+                "en": "Central transit hub nearby."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren auch bei starkem Schneefall.",
+              "Nutzen Sie die Zeit im Bus zum Aufwärmen.",
+              "Abends fahren die Busse seltener.",
+              "An Bahnhöfen gibt es oft Schließfächer.",
+              "Warme Kleidung für die Wartezeit nötig."
+            ],
+            "hu": [
+              "A buszok erős hóesésben is járnak.",
+              "Használja a buszos utazást melegedésre.",
+              "Este ritkábban járnak a buszok.",
+              "Az állomásokon gyakran van csomagmegőrző.",
+              "Meleg ruha kell a várakozáshoz."
+            ],
+            "ro": [
+              "Autobuzele circulă și pe ninsoare abundentă.",
+              "Folosiți timpul din autobuz pentru încălzire.",
+              "Seara autobuzele circulă mai rar.",
+              "Gările au adesea dulapuri pentru bagaje.",
+              "Haine groase necesare pentru așteptare."
+            ],
+            "en": [
+              "Buses run even during heavy snowfall.",
+              "Use your time on the bus to warm up.",
+              "Buses run less frequently in the evening.",
+              "Stations often have luggage lockers.",
+              "Warm clothing is needed while waiting."
+            ]
+          }
+        }
       }
     }
   }

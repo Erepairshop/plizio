@@ -352,6 +352,188 @@
           "Most sights in the center are easily within walking distance.",
           "Take time to admire the details of the historic buildings."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden Sie das Alte Rathaus unter dem Schutz der Arkaden. Mittags bietet das Schloss Mladá Boleslav ein trockenes Refugium mit historischen Ausstellungen. Am Nachmittag tauchen Sie im Škoda-Museum in die Welt der Technik ein, ideal um dem Regen zu entfliehen. Den Abend lassen Sie gemütlich bei tschechischer Küche im Stadtzentrum ausklingen, während draußen der Regen prasselt.",
+            "hu": "Reggel az Óvárosi Városháza árkádjai alatt kezdünk, védve az esőtől. Délben a vár belső kiállításai nyújtanak száraz menedéket és történelmi látnivalókat. Délután a Škoda Múzeum modern csarnokaiban kalandozunk, ami tökéletes beltéri program rossz idő esetén. Az estét a központ egyik hangulatos éttermében zárjuk, élvezve a helyi gasztronómiát a kopogó eső mellett.",
+            "ro": "Dimineața explorăm Primăria Veche sub protecția arcadelor sale. La prânz, Castelul Mladá Boleslav oferă un refugiu uscat cu expoziții istorice fascinante. După-amiaza este dedicată Muzeului Škoda, locul ideal pentru a scăpa de ploaie printre mașini clasice. Seara se încheie confortabil într-un restaurant central, savurând preparate cehești în timp ce afară plouă.",
+            "en": "Morning starts at the Old Town Hall, utilizing the arcades for shelter. At noon, the Mladá Boleslav Castle provides a dry haven with its indoor historical exhibits. The afternoon is perfect for the Škoda Museum, an excellent indoor escape from the weather. Finish the evening in a cozy city center restaurant, enjoying local flavors while staying dry indoors."
+          },
+          "stops": [
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadenbögen am Platz als Regenschutz.",
+                "hu": "Használja a tér árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele din piață pentru a vă adăposti de ploaie.",
+                "en": "Use the square's arcades as shelter from the rain."
+              }
+            },
+            {
+              "name": "Templar Palace",
+              "tip_5lang": {
+                "de": "Die Ausstellungen im Innenbereich sind komplett wetterfest.",
+                "hu": "A belső kiállítások teljesen időjárásálló programot kínálnak.",
+                "ro": "Expozițiile interioare sunt perfecte pentru vreme ploioasă.",
+                "en": "The indoor exhibitions are completely weatherproof."
+              }
+            },
+            {
+              "name": "Mladá Boleslav Castle",
+              "tip_5lang": {
+                "de": "Der Innenhof kann rutschig sein, bleiben Sie auf den Wegen.",
+                "hu": "A belső udvar csúszós lehet, maradjon a kijelölt utakon.",
+                "ro": "Curtea interioară poate fi alunecoasă, rămâneți pe poteci.",
+                "en": "The courtyard can be slippery; stick to the paved paths."
+              }
+            },
+            {
+              "name": "St. Vitus Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine kurze Regenpause in Stille.",
+                "hu": "Csendes hely egy rövid esőszünetre és elmélkedésre.",
+                "ro": "Un loc liniștit pentru o scurtă pauză de ploaie în liniște.",
+                "en": "A quiet spot for a brief rain break and contemplation."
+              }
+            },
+            {
+              "name": "Škoda Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort für lange Regengüsse mit großem Café.",
+                "hu": "Tökéletes hely hosszabb esőzés idejére, kiváló kávézóval.",
+                "ro": "Locul perfect pentru ploi de durată, cu o cafenea excelentă.",
+                "en": "Perfect spot for long rain spells, featuring a great cafe."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
+                "hu": "Válasszon ruhatárral rendelkező éttermet a vizes kabátoknak.",
+                "ro": "Alegeți un restaurant cu garderobă pentru haine ude.",
+                "en": "Choose a restaurant with a cloakroom for wet coats."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen der Windböen am Schlossberg ratsam.",
+              "Die Altstadtpflaster können bei Nässe sehr rutschig werden.",
+              "Nutzen Sie die Durchgänge zwischen den Gebäuden als Abkürzung.",
+              "Das Škoda-Museum ist der beste Rückzugsort bei starkem Dauerregen."
+            ],
+            "hu": [
+              "A várhegyi széllökések miatt egy stabil esernyő ajánlott.",
+              "Az óvárosi macskakövek nedvesen nagyon csúszóssá válhatnak.",
+              "Használja az épületek közötti átjárókat rövidítésként és fedezékként.",
+              "A Škoda Múzeum a legjobb menedék tartós, heves esőzés esetén."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este recomandată din cauza vântului de pe deal.",
+              "Pavajul din orașul vechi devine foarte alunecos când este ud.",
+              "Folosiți pasajele dintre clădiri ca scurtături și adăpost.",
+              "Muzeul Škoda este cel mai bun refugiu în caz de ploaie torențială."
+            ],
+            "en": [
+              "A sturdy umbrella is advised due to wind gusts on the castle hill.",
+              "Old town cobblestones can become very slippery when wet.",
+              "Use passages between buildings as shortcuts and temporary shelter.",
+              "The Škoda Museum is the premier indoor retreat during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch am Rathaus, bevor Sie sich im Templerpalast aufwärmen. Mittags bietet das Schloss einen Blick auf die verschneite Stadt aus beheizten Räumen. Am Nachmittag wärmt die Technikgeschichte im Škoda-Museum Körper und Geist. Der Tag endet früh bei Kerzenschein und deftiger tschechischer Küche, wenn die Dunkelheit über Mladá Boleslav hereinbricht.",
+            "hu": "A téli reggel frissen indul a városházánál, majd a Templomos palotában melegszünk fel. Délben a várból csodáljuk a havas várost a fűtött termekből. Délután a Škoda Múzeum technikai vívmányai között töltődünk fel a hideg elől menekülve. A nap korán, gyertyafényes vacsorával zárul a belvárosban, ahogy a sötétség leszáll a városra.",
+            "ro": "Dimineața de iarnă începe proaspăt la primărie, înainte de a ne încălzi în Palatul Templier. La prânz, castelul oferă o priveliște asupra orașului înzăpezit din camerele încălzite. După-amiaza, istoria tehnologiei de la Muzeul Škoda ne încălzește trupul și spiritul. Ziua se încheie devreme cu o cină la lumina lumânărilor când întunericul coboară peste oraș.",
+            "en": "The winter morning starts crisp at the town hall before warming up in the Templar Palace. At noon, the castle offers views of the snowy city from heated interior rooms. In the afternoon, the Škoda Museum's halls provide a warm escape into automotive history. The day ends early with a cozy dinner as darkness falls over Mladá Boleslav."
+          },
+          "stops": [
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, bevor Sie in die Wärme gehen.",
+                "hu": "Gyors fotómegálló, mielőtt visszatérne a melegbe.",
+                "ro": "Scurt popas pentru poze înainte de a intra la căldură.",
+                "en": "Quick photo stop before heading into a warm building."
+              }
+            },
+            {
+              "name": "Templar Palace",
+              "tip_5lang": {
+                "de": "Perfekt zum Aufwärmen nach dem Spaziergang.",
+                "hu": "Tökéletes hely a felmelegedésre a séta után.",
+                "ro": "Perfect pentru a vă încălzi după plimbarea prin frig.",
+                "en": "Ideal for warming up after your outdoor walk."
+              }
+            },
+            {
+              "name": "Mladá Boleslav Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum im Inneren für wohlige Wärme.",
+                "hu": "Látogassa meg a belső múzeumot a kellemes melegért.",
+                "ro": "Vizitați muzeul interior pentru o căldură plăcută.",
+                "en": "Visit the internal museum sections for comfortable warmth."
+              }
+            },
+            {
+              "name": "St. Vitus Church",
+              "tip_5lang": {
+                "de": "Achtung, Kirchenräume können im Winter sehr kühl sein.",
+                "hu": "Vigyázat, a templomterek télen nagyon hűvösek lehetnek.",
+                "ro": "Atenție, interiorul bisericii poate fi foarte rece iarna.",
+                "en": "Note that church interiors can be quite chilly in winter."
+              }
+            },
+            {
+              "name": "Škoda Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie eine heiße Schokolade im Museumscafé.",
+                "hu": "Élvezzen egy forró csokoládét a múzeum kávézójában.",
+                "ro": "Savurați o ciocolată caldă în cafeneaua muzeului.",
+                "en": "Enjoy a hot chocolate in the museum's cozy cafe."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Probieren Sie tschechische Suppen zum Aufwärmen.",
+                "hu": "Kóstolja meg a cseh leveseket a belső melegségért.",
+                "ro": "Încercați supele cehești tradiționale pentru încălzire.",
+                "en": "Try traditional Czech soups for a perfect warm-up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schichten, da Museen gut beheizt, Wege aber eisig sind.",
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Der Schlossberg kann bei Schnee sehr rutschig sein.",
+              "Kleine Cafés in der Altstadt sind ideale Aufwärmstationen."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen, a múzeumok fűtöttek, de az utak jegesek.",
+              "A nap decemberben már 16:00 óra körül lemegy.",
+              "A várdomb havas időben fokozottan csúszós lehet.",
+              "Az óvárosi kis kávézók ideális megállóhelyek melegedni."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi: muzeele sunt calde, dar străzile sunt înghețate.",
+              "Soarele apune în decembrie în jurul orei 16:00.",
+              "Dealul castelului poate fi foarte alunecos pe zăpadă.",
+              "Cafenelele mici din orașul vechi sunt puncte ideale de încălzire."
+            ],
+            "en": [
+              "Wear layers: museums are well-heated, but paths can be icy.",
+              "Sunset occurs as early as 4:00 PM in mid-winter.",
+              "The castle hill can be particularly slippery in snowy conditions.",
+              "Small cafes in the old town are perfect for warming up."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -721,6 +903,206 @@
           "Some routes outside the center can be hilly.",
           "Always lock your bike securely, especially near tourist attractions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Start per Rad zum Rathaus, geschützt durch Regenbekleidung. Über das Schloss führt der Weg zum Metallpfad, der im Regen eine mystische Atmosphäre ausstrahlt. Das Škoda-Museum bietet eine ausgiebige trockene Pause für Radfahrer. Nach dem Luftfahrtmuseum radeln Sie zurück zum Abendessen, begleitet vom rhythmischen Rauschen des Regens.",
+            "hu": "Frissítő rajt kerékpárral a városházához, esőálló ruházatban. A váron át vezet az út a Fémes útvonalhoz, amely esőben misztikus hangulatot áraszt. A Škoda Múzeum bőséges száraz pihenőt kínál a bicikliseknek. A repülési múzeum után visszakerekezünk a vacsorához, az eső ritmikus kopogása mellett.",
+            "ro": "Un început răcoros cu bicicleta spre primărie, protejați de echipamentul de ploaie. Drumul trece pe la castel spre Cărarea Metalului, care are o aură mistică pe ploaie. Muzeul Škoda oferă o pauză lungă și uscată pentru bicicliști. După muzeul aviației, pedalăm înapoi spre cină în sunetul ploii.",
+            "en": "A refreshing bike start to the town hall, equipped with waterproof gear. The route via the castle leads to the Metal Path, which feels mystical in the rain. The Škoda Museum provides an extensive dry break for cyclists. After the aviation museum, cycle back for dinner accompanied by the rhythmic sound of rain."
+          },
+          "stops": [
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht beim Abbremsen auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázat a fékezéskor a nedves macskakövön.",
+                "ro": "Atenție la frânare pe pavajul umed din piață.",
+                "en": "Be careful when braking on wet cobblestones."
+              }
+            },
+            {
+              "name": "Mladá Boleslav Castle",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradabstellplatz im geschützten Bereich.",
+                "hu": "Biztonságos és védett kerékpártároló a közelben.",
+                "ro": "Parcare sigură pentru biciclete în zonă protejată.",
+                "en": "Safe bicycle parking available in a sheltered area."
+              }
+            },
+            {
+              "name": "Metal Path",
+              "tip_5lang": {
+                "de": "Die Skulpturen glänzen im Regen besonders schön.",
+                "hu": "A szobrok esőben különleges fényben tündökölnek.",
+                "ro": "Sculpturile strălucesc spectaculos în bătaia ploii.",
+                "en": "The sculptures have a unique shine in the rain."
+              }
+            },
+            {
+              "name": "Škoda Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Trocknen der Kleidung.",
+                "hu": "Használja ki a múzeumi időt a ruházat szárítására.",
+                "ro": "Folosiți vizita la muzeu pentru a vă usca hainele.",
+                "en": "Use the museum visit time to dry off your gear."
+              }
+            },
+            {
+              "name": "Metoděj Vlach Aviation Museum",
+              "tip_5lang": {
+                "de": "Große Hangarhallen bieten perfekten Regenschutz.",
+                "hu": "A hatalmas hangárok tökéletes védelmet nyújtanak.",
+                "ro": "Hangarele mari oferă protecție perfectă contra ploii.",
+                "en": "Large hangars offer perfect protection from the rain."
+              }
+            },
+            {
+              "name": "Michalovice Castle Ruin",
+              "tip_5lang": {
+                "de": "Achtung: Die Ruinenwege können schlammig sein.",
+                "hu": "Vigyázat: a romokhoz vezető utak sárosak lehetnek.",
+                "ro": "Atenție: căile spre ruină pot fi noroioase.",
+                "en": "Warning: paths to the ruins can be muddy."
+              }
+            },
+            {
+              "name": "Dinner",
+              "tip_5lang": {
+                "de": "Fahrradständer direkt vor dem Restaurant vorhanden.",
+                "hu": "Kerékpártárolók közvetlenül az étterem előtt.",
+                "ro": "Suporturi de biciclete disponibile chiar în fața locației.",
+                "en": "Bicycle racks are available directly in front of the venue."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie schnelle Kurvenfahrten auf nassem Marktplatzpflaster.",
+              "Ein Sattelüberzug hält Ihren Sitz während der Stopps trocken.",
+              "Tragen Sie auffällige Regenbekleidung für bessere Sichtbarkeit.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt im Regen."
+            ],
+            "hu": [
+              "Kerülje a gyors kanyarodást a nedves főtéri köveken.",
+              "A nyeregvédő szárazon tartja az ülést a megállók alatt.",
+              "Viseljen feltűnő esőruházatot a jobb láthatóságért.",
+              "Indulás előtt ellenőrizze a fékeket az esős úton."
+            ],
+            "ro": [
+              "Evitați virajele rapide pe pavajul umed din piață.",
+              "O husă de șa vă menține scaunul uscat în timpul opririlor.",
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate.",
+              "Verificați frânele înainte de a porni la drum pe ploaie."
+            ],
+            "en": [
+              "Avoid sharp turns on the wet main square pavement.",
+              "A saddle cover keeps your seat dry during indoor stops.",
+              "Wear high-visibility rain gear for better safety.",
+              "Test your brakes before starting your ride in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintertag auf dem Rad beginnt in der Altstadt. Nach dem Schlossbesuch geht es zum Metallpfad, wo die Frostkristalle die Kunstwerke zieren. Das Škoda-Museum bietet eine willkommene Aufwärmpause auf halber Strecke. Nach dem Ausflug zum Luftfahrtmuseum kehren Sie rechtzeitig vor Einbruch der frühen Dämmerung zum Abendessen zurück.",
+            "hu": "Hűvös téli kerékpározás indul az óvárosban. A várlátogatás után a Fémes útvonal következik, ahol zúzmara díszíti az alkotásokat. A Škoda Múzeum kiváló melegedőhely az út felénél. A repülési múzeumi kitérő után még a korai sötétedés előtt visszaérünk a városba vacsorázni.",
+            "ro": "O zi rece de iarnă pe bicicletă începe în orașul vechi. După castel, mergem pe Cărarea Metalului unde cristalele de chiciură decorează arta. Muzeul Škoda oferă o pauză de încălzire binevenită la jumătatea drumului. După muzeul aviației, revenim la cină înainte de amurgul timpuriu.",
+            "en": "A crisp winter day on bike starts in the old town. After the castle, head to the Metal Path where frost crystals decorate the art. The Škoda Museum serves as a perfect mid-way warming station. After visiting the aviation museum, cycle back in time for dinner before the early winter dusk."
+          },
+          "stops": [
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe in Schattenbereichen.",
+                "hu": "Vigyázat a lefagyásokkal az árnyékos részeken.",
+                "ro": "Atenție la gheața din zonele umbrite ale pieței.",
+                "en": "Watch out for black ice in shaded areas of the square."
+              }
+            },
+            {
+              "name": "Mladá Boleslav Castle",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad windgeschützt an der Mauer ab.",
+                "hu": "Parkolja a gépet szélvédett helyre a fal mellett.",
+                "ro": "Parcați bicicleta într-un loc ferit de vânt lângă zid.",
+                "en": "Park your bike in a wind-sheltered spot by the wall."
+              }
+            },
+            {
+              "name": "Metal Path",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf schneebedeckten Wegen.",
+                "hu": "Közlekedjen óvatosan a hóval borított utakon.",
+                "ro": "Pedalați cu prudență pe potecile acoperite de zăpadă.",
+                "en": "Ride carefully on paths covered with snow or slush."
+              }
+            },
+            {
+              "name": "Škoda Museum",
+              "tip_5lang": {
+                "de": "Garderobe für schwere Winterkleidung vorhanden.",
+                "hu": "Ruhatár áll rendelkezésre a nehéz téli ruháknak.",
+                "ro": "Garderobă disponibilă pentru hainele grele de iarnă.",
+                "en": "Cloakroom available for your heavy winter gear."
+              }
+            },
+            {
+              "name": "Metoděj Vlach Aviation Museum",
+              "tip_5lang": {
+                "de": "Die Cafeteria bietet heiße Getränke zum Aufwärmen.",
+                "hu": "A büfé forró italokat kínál a felmelegedéshez.",
+                "ro": "Cafeneaua oferă băuturi fierbinți pentru încălzire.",
+                "en": "The cafeteria serves hot drinks for a quick warm-up."
+              }
+            },
+            {
+              "name": "Michalovice Castle Ruin",
+              "tip_5lang": {
+                "de": "Der Anstieg kann im Winter sehr mühsam sein.",
+                "hu": "A felfelé vezető út télen kimerítő lehet.",
+                "ro": "Urcarea poate fi epuizantă în condiții de iarnă.",
+                "en": "The climb up can be strenuous in winter conditions."
+              }
+            },
+            {
+              "name": "Dinner",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme nach der kalten Rückfahrt.",
+                "hu": "Élvezze a meleget a hideg visszaút után.",
+                "ro": "Bucurați-vă de căldură după drumul rece de întoarcere.",
+                "en": "Enjoy the warmth after the chilly ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine warme Mütze.",
+              "Prüfen Sie den Reifendruck für besseren Grip auf Schnee.",
+              "Achten Sie auf funktionierende Beleuchtung für die frühe Dunkelheit.",
+              "Halten Sie sich bei Glätte an die Hauptstraßen."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és meleg sapkát.",
+              "Ellenőrizze a guminyomást a jobb tapadásért a havon.",
+              "Ügyeljen a világításra a korai sötétedés miatt.",
+              "Jegesedés esetén maradjon a főutakon."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă călduroasă.",
+              "Verificați presiunea roților pentru aderență pe zăpadă.",
+              "Asigurați-vă că luminile funcționează pentru amurgul timpuriu.",
+              "Rămâneți pe drumurile principale dacă este polei."
+            ],
+            "en": [
+              "Wear windproof gloves and a warm winter hat.",
+              "Check tire pressure for better grip on snow or ice.",
+              "Ensure your lights are working for the early sunset.",
+              "Stick to main roads if side paths are icy."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1096,6 +1478,206 @@
           "Plan your route in advance, especially when driving to the more remote sights.",
           "Be mindful of parking fees in the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Dank Auto erkunden Sie Mladá Boleslav komfortabel und trocken. Vom Parkplatz an der Altstadt geht es zum Schloss und Templerpalast. Die Museen Škoda und Metoděj Vlach sind perfekte Ziele für regnerische Stunden, da sie weite Innenräume bieten. Auch die Ruine Michalovice lässt sich mit dem Wagen schnell erreichen, bevor Sie zum gemütlichen Abendessen zurückkehren.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel Mladá Boleslavot. Az óvárosi parkolóból könnyen elérhető a vár és a palota. A Škoda és a Metoděj Vlach múzeumok tökéletes célpontok esős időben tágas belső tereikkel. A Michalovice romok is gyorsan megközelíthetők, mielőtt visszatérne egy kellemes vacsorára.",
+            "ro": "Cu mașina, explorați Mladá Boleslav confortabil și fără grija ploii. Din parcarea centrală ajungeți rapid la castel și palat. Muzeele Škoda și Metoděj Vlach sunt destinații ideale pentru orele ploioase. Chiar și ruina Michalovice este ușor accesibilă, înainte de a reveni în centru pentru cină.",
+            "en": "Explore Mladá Boleslav comfortably and dry by car. From the old town parking, the castle and palace are easily reachable. The Škoda and Metoděj Vlach museums are perfect rainy-day destinations with their vast indoor spaces. Even the Michalovice ruin is a quick drive away before returning for a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Old Town - Park & Walk",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus für einen komplett trockenen Ausstieg.",
+                "hu": "Használja a parkolóházat a teljesen száraz kiszálláshoz.",
+                "ro": "Folosiți parcarea etajată pentru a coborî la uscat.",
+                "en": "Use the parking garage for a completely dry exit."
+              }
+            },
+            {
+              "name": "Mladá Boleslav Castle",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor dem Eingang oft verfügbar.",
+                "hu": "Parkolóhelyek gyakran elérhetők közvetlenül a bejáratnál.",
+                "ro": "Locuri de parcare disponibile adesea chiar la intrare.",
+                "en": "Parking spots are often available right by the entrance."
+              }
+            },
+            {
+              "name": "Templar Palace",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Wagen, halten Sie den Schirm bereit.",
+                "hu": "Rövid séta az autótól, tartsa készenlétben az ernyőt.",
+                "ro": "Drum scurt de la mașină, aveți umbrela pregătită.",
+                "en": "Short walk from the car; keep your umbrella handy."
+              }
+            },
+            {
+              "name": "Cluster 2: Škoda & Aviation - Museums",
+              "tip_5lang": {
+                "de": "Großer, bewachter Parkplatz direkt am Škoda-Museum.",
+                "hu": "Nagy, őrzött parkoló közvetlenül a Škoda Múzeumnál.",
+                "ro": "Parcare mare supravegheată chiar la Muzeul Škoda.",
+                "en": "Large, guarded parking right at the Škoda Museum."
+              }
+            },
+            {
+              "name": "Metoděj Vlach Aviation Museum",
+              "tip_5lang": {
+                "de": "Überdachter Zugang vom Parkplatz zum Eingangsbereich.",
+                "hu": "Fedett bejárat a parkolótól a fogadótérig.",
+                "ro": "Acces acoperit de la parcare până la intrare.",
+                "en": "Covered access from the parking lot to the entrance."
+              }
+            },
+            {
+              "name": "Cluster 3: Michalovice Castle Ruin",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Regen etwas matschig sein.",
+                "hu": "A parkoló esőben kissé sáros lehet.",
+                "ro": "Parcarea poate fi puțin noroioasă pe ploaie.",
+                "en": "The parking area can be a bit muddy in the rain."
+              }
+            },
+            {
+              "name": "Dinner",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch in der Nähe des Eingangs.",
+                "hu": "Foglaljon asztalt a bejárathoz közel.",
+                "ro": "Rezervați o masă aproape de intrarea principală.",
+                "en": "Book a table near the entrance for convenience."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Pfützen in den tiefer gelegenen Parkbereichen.",
+              "Die Sicht kann bei starkem Regen auf den Landstraßen eingeschränkt sein.",
+              "Nutzen Sie die Park-Apps der Stadt für kontaktloses Bezahlen.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto liegen."
+            ],
+            "hu": [
+              "Ügyeljen a tócsákra az alacsonyabban fekvő parkolókban.",
+              "Heves esőben a látótávolság korlátozott lehet az utakon.",
+              "Használja a városi parkolóalkalmazásokat a fizetéshez.",
+              "Ne hagyjon értéktárgyat látható helyen az autóban."
+            ],
+            "ro": [
+              "Atenție la bălți în zonele de parcare mai joase.",
+              "Vizibilitatea poate fi redusă pe drumurile secundare pe ploaie.",
+              "Folosiți aplicațiile de parcare ale orașului pentru plată.",
+              "Nu lăsați obiecte de valoare la vedere în mașină."
+            ],
+            "en": [
+              "Watch out for deep puddles in lower parking areas.",
+              "Visibility can be limited on local roads during heavy downpours.",
+              "Use local parking apps for convenient digital payment.",
+              "Do not leave valuables visible inside the vehicle."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Wagen lassen sich die winterlichen Sehenswürdigkeiten von Mladá Boleslav entspannt erreichen. Nach dem Stadtrundgang bieten das Schloss und die großen Museen angenehme Wärme. Die Fahrt zur Ruine Michalovice zeigt die verschneite böhmische Landschaft, bevor Sie den Tag in einem gemütlichen Restaurant im Stadtzentrum bei lokaler Küche beenden.",
+            "hu": "A fűtött autóban ülve Mladá Boleslav téli látnivalói stresszmentesen elérhetők. A városi séta után a vár és a múzeumok kínálnak kellemes meleget. A Michalovice romokhoz vezető út a havas cseh tájat mutatja be, mielőtt a napot egy hangulatos belvárosi étteremben zárná helyi ételekkel.",
+            "ro": "În mașina încălzită, atracțiile de iarnă ale orașului sunt ușor de vizitat. După turul orașului, castelul și muzeele mari oferă o căldură plăcută. Drumul spre ruina Michalovice dezvăluie peisajul boem înzăpezit, înainte de a încheia ziua într-un restaurant primitor din centru.",
+            "en": "The heated car makes visiting Mladá Boleslav's winter sights a relaxed experience. After exploring the town, the castle and major museums provide comfortable warmth. The drive to the Michalovice ruin showcases the snowy Bohemian landscape before ending the day in a cozy central restaurant."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Old Town - Park & Walk",
+              "tip_5lang": {
+                "de": "Die Parkplätze werden meist gut geräumt und gestreut.",
+                "hu": "A parkolókat általában jól takarítják és sózzák.",
+                "ro": "Parcările sunt de obicei bine curățate și deszăpezite.",
+                "en": "Parking lots are usually well-cleared and salted."
+              }
+            },
+            {
+              "name": "Mladá Boleslav Castle",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf eventuellen Eisplatten.",
+                "hu": "Vigyázat a kiszálláskor az esetleges jégfoltokon.",
+                "ro": "Atenție la coborâre pe eventualele porțiuni cu gheață.",
+                "en": "Be careful when exiting the car onto potential icy patches."
+              }
+            },
+            {
+              "name": "Templar Palace",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für eine Kulturpause zwischendurch.",
+                "hu": "Meleg hely egy kulturális pihenőhöz két állomás között.",
+                "ro": "Un loc cald pentru o pauză culturală între obiective.",
+                "en": "A warm spot for a cultural break between stops."
+              }
+            },
+            {
+              "name": "Cluster 2: Škoda & Aviation - Museums",
+              "tip_5lang": {
+                "de": "Ideale Ziele, um der Kälte für mehrere Stunden zu entfliehen.",
+                "hu": "Ideális célpontok, hogy órákra elmeneküljön a hideg elől.",
+                "ro": "Destinații ideale pentru a scăpa de frig timp de câteva ore.",
+                "en": "Ideal destinations to escape the cold for several hours."
+              }
+            },
+            {
+              "name": "Metoděj Vlach Aviation Museum",
+              "tip_5lang": {
+                "de": "Gut beheizte Hallen machen den Besuch sehr angenehm.",
+                "hu": "A jól fűtött csarnokok kellemessé teszik a látogatást.",
+                "ro": "Halele bine încălzite fac vizita foarte plăcută.",
+                "en": "Well-heated halls make the visit very comfortable."
+              }
+            },
+            {
+              "name": "Cluster 3: Michalovice Castle Ruin",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Neuschnee etwas rutschig sein.",
+                "hu": "A felvezető út friss hóban kissé csúszós lehet.",
+                "ro": "Drumul de acces poate fi alunecos în caz de zăpadă proaspătă.",
+                "en": "The access road can be slippery with fresh snow."
+              }
+            },
+            {
+              "name": "Dinner",
+              "tip_5lang": {
+                "de": "Nahegelegene Parkplätze ermöglichen kurzen Weg in die Wärme.",
+                "hu": "A közeli parkolók gyors bejutást tesznek lehetővé a melegbe.",
+                "ro": "Parcările din apropiere permit accesul rapid la căldură.",
+                "en": "Nearby parking allows for a quick entrance into the warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Wagen wintertauglich ausgerüstet ist.",
+              "Rechnen Sie mit mehr Zeit für die Parkplatzsuche bei Schneehaufen.",
+              "Das Licht sollte auch tagsüber eingeschaltet sein.",
+              "Die Scheibenwischer können bei Frost an der Scheibe festfrieren."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy autója fel van készítve a télre.",
+              "Hókupacok esetén számoljon több idővel a parkolóhelykeresésre.",
+              "A világítást nappal is érdemes bekapcsolva tartani.",
+              "Az ablaktörlők fagyban rátapadhatnak a szélvédőre."
+            ],
+            "ro": [
+              "Asigurați-vă că mașina este echipată corespunzător pentru iarnă.",
+              "Alocați mai mult timp pentru parcare în caz de mormane de zăpadă.",
+              "Luminile ar trebui să fie aprinse și pe timpul zilei.",
+              "Ștergătoarele pot îngheța pe parbriz în caz de ger."
+            ],
+            "en": [
+              "Ensure your vehicle is fully equipped for winter conditions.",
+              "Allow extra time for parking if snow piles limit space.",
+              "Keep your headlights on even during daylight hours.",
+              "Windshield wipers can freeze to the glass overnight."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1423,6 +2005,170 @@
           "Check the bus schedule in advance, especially on weekends.",
           "Most buses are modern and air-conditioned."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen Sie die Highlights von Mladá Boleslav trocken und bequem. Nach der Altstadt bringt Sie der Stadtbus direkt zum Škoda-Museum, wo Sie der Regen nicht stört. Die weiten Hallen der Museen bieten den ganzen Nachmittag über Schutz. Zum Abendessen kehren Sie unkompliziert mit dem ÖPNV ins Zentrum zurück, während Sie den Regen durch die Busfenster beobachten.",
+            "hu": "Busszal szárazon és kényelmesen érheti el Mladá Boleslav nevezetességeit. Az óváros után a helyi járat közvetlenül a Škoda Múzeumhoz viszi, ahol az eső nem zavarja. A múzeumok tágas terei egész délután védelmet nyújtanak. Vacsorára egyszerűen térhet vissza a központba tömegközlekedéssel, miközben az ablakon túli esőt figyeli.",
+            "ro": "Cu autobuzul, ajungeți la punctele cheie din Mladá Boleslav confortabil. După orașul vechi, autobuzul local vă duce direct la Muzeul Škoda, unde ploaia nu vă afectează. Halele muzeelor oferă adăpost pentru întreaga după-amiază. Reveniți la cină în centru cu transportul public, privind ploaia prin geamul autobuzului.",
+            "en": "Reach Mladá Boleslav's highlights dry and comfortable by bus. After the old town, local transit takes you directly to the Škoda Museum, away from the rain. The vast museum halls provide shelter all afternoon. Return to the center for dinner easily via public transport while watching the rain through the bus windows."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Old Town (on foot)",
+              "tip_5lang": {
+                "de": "Warten Sie in den Arkaden auf den nächsten Bus.",
+                "hu": "Várjon a következő buszra az árkádok alatt.",
+                "ro": "Așteptați următorul autobuz sub arcadele pieței.",
+                "en": "Wait for the next bus under the shelter of the arcades."
+              }
+            },
+            {
+              "name": "Mladá Boleslav Castle",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle befindet sich nur wenige Gehminuten entfernt.",
+                "hu": "A buszmegálló mindössze pár perc sétára található.",
+                "ro": "Stația de autobuz se află la doar câteva minute de mers.",
+                "en": "The bus stop is located just a few minutes' walk away."
+              }
+            },
+            {
+              "name": "St. Vitus Church",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Zeit bis zum Bus im Trockenen zu verbringen.",
+                "hu": "Jó hely a buszig hátralévő idő szárazon való eltöltésére.",
+                "ro": "Un loc bun pentru a aștepta autobuzul la adăpost.",
+                "en": "A good place to wait for your bus connection in the dry."
+              }
+            },
+            {
+              "name": "Cluster 2: Škoda Museum (bus ride)",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor dem Museumseingang.",
+                "hu": "A busz szinte közvetlenül a múzeum bejárata előtt áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața muzeului.",
+                "en": "The bus stops almost directly in front of the museum entry."
+              }
+            },
+            {
+              "name": "Dinner in the Center",
+              "tip_5lang": {
+                "de": "Zentraler Busknotenpunkt in Gehweite zum Restaurant.",
+                "hu": "Központi buszcsomópont sétatávolságra az étteremtől.",
+                "ro": "Nod central de transport la mică distanță de restaurant.",
+                "en": "Central bus hub within walking distance of the restaurant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Fahrpläne vorab online, um Wartezeiten im Regen zu vermeiden.",
+              "Halten Sie Kleingeld oder eine Karte für das Ticket bereit.",
+              "Die Busse sind in der Regel gut beheizt und trocken.",
+              "Einige Haltestellen haben nur begrenzten Regenschutz."
+            ],
+            "hu": [
+              "Ellenőrizze előre a menetrendet, hogy elkerülje az esőben várakozást.",
+              "Készítsen elő aprópénzt vagy kártyát a jegyvásárláshoz.",
+              "A buszok általában jól fűtöttek és szárazak.",
+              "Néhány megálló csak korlátozott védelmet nyújt az eső ellen."
+            ],
+            "ro": [
+              "Verificați orarul online pentru a evita așteptarea în ploaie.",
+              "Aveți pregătit mărunt sau cardul pentru bilet.",
+              "Autobuzele sunt de regulă bine încălzite și uscate.",
+              "Unele stații au protecție limitată împotriva ploii."
+            ],
+            "en": [
+              "Check schedules online beforehand to minimize waiting in the rain.",
+              "Have small change or a card ready for ticket purchases.",
+              "Buses are generally well-heated and keep you dry.",
+              "Be aware that some stops have limited rain shelter."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das dichte Busnetz, um im winterlichen Mladá Boleslav mobil zu bleiben. Nach dem Rundgang durch die frostige Altstadt bieten die Museen spannende Einblicke und wohlige Wärme. Die Busfahrt bietet Ihnen zudem eine kleine Pause, um die winterliche Stadt aus dem Warmen zu betrachten, bevor Sie den Abend bei einem traditionellen Essen genießen.",
+            "hu": "Használja a kiterjedt buszhálózatot, hogy mozgásban maradjon a téli Mladá Boleslavban. A jeges óvárosi séta után a múzeumok kínálnak izgalmas látnivalókat és meleget. A buszozás közben megpihenhet és a fűtött járműből szemlélheti a téli várost, mielőtt elfogyasztana egy tradicionális vacsorát.",
+            "ro": "Folosiți rețeaua de autobuze pentru a rămâne mobil în orașul de iarnă. După plimbarea prin centrul înghețat, muzeele oferă exponate fascinante și căldură. Drumul cu autobuzul vă oferă o mică pauză pentru a admira orașul înzăpezit la căldură, înainte de cina tradițională.",
+            "en": "Use the extensive bus network to stay mobile in wintery Mladá Boleslav. After exploring the frosty old town, the museums provide fascinating insights and warmth. The bus ride also offers a chance to rest and view the winter scenery from a heated interior before enjoying a traditional evening meal."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Old Town (on foot)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis an den Bushaltestellen.",
+                "hu": "Ügyeljen a jegesedésre a buszmegállók környékén.",
+                "ro": "Atenție la polei în zona stațiilor de autobuz.",
+                "en": "Watch out for icy patches near the bus stops."
+              }
+            },
+            {
+              "name": "Mladá Boleslav Castle",
+              "tip_5lang": {
+                "de": "Gehen Sie rechtzeitig los, um den Bus nicht zu verpassen.",
+                "hu": "Induljon időben, hogy ne maradjon le a buszról.",
+                "ro": "Porniți la timp pentru a nu pierde conexiunea.",
+                "en": "Leave a few minutes early to catch your bus on time."
+              }
+            },
+            {
+              "name": "St. Vitus Church",
+              "tip_5lang": {
+                "de": "Guter Treffpunkt, um kurz aus der Kälte zu kommen.",
+                "hu": "Jó találkozási pont, hogy rövid időre bemeneküljön a hidegről.",
+                "ro": "Un loc bun pentru a ieși scurt timp din frig.",
+                "en": "A good meeting point to escape the cold briefly."
+              }
+            },
+            {
+              "name": "Cluster 2: Škoda Museum (bus ride)",
+              "tip_5lang": {
+                "de": "Der Bus ist die bequemste Verbindung bei eisigem Wind.",
+                "hu": "A busz a legkényelmesebb közlekedés metsző szélben.",
+                "ro": "Autobuzul este cea mai confortabilă opțiune pe vânt tăios.",
+                "en": "Taking the bus is the most comfortable option in biting winds."
+              }
+            },
+            {
+              "name": "Dinner in the Center",
+              "tip_5lang": {
+                "de": "Abendliche Busfrequenz ist auch im Winter gut.",
+                "hu": "Az esti buszjáratok sűrűsége télen is megfelelő.",
+                "ro": "Frecvența autobuzelor de seară este bună și iarna.",
+                "en": "Evening bus frequency remains reliable during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bei Schneefall kann es zu kleineren Verzögerungen im Fahrplan kommen.",
+              "Warten Sie in beheizten Geschäften, falls der Bus Verspätung hat.",
+              "Tragen Sie warme Schuhe für die Wege zu den Haltestellen.",
+              "Die letzte Rückfahrt ins Hotel sollte vorab geprüft werden."
+            ],
+            "hu": [
+              "Hóesésben kisebb késések fordulhatnak elő a menetrendben.",
+              "Várjon fűtött üzletekben, ha késik a busz.",
+              "Viseljen meleg cipőt a megállókhoz vezető utakhoz.",
+              "Érdemes előre ellenőrizni az utolsó járatokat a szállás felé."
+            ],
+            "ro": [
+              "În caz de ninsoare, pot apărea mici întârzieri în program.",
+              "Așteptați în magazine încălzite dacă autobuzul întârzie.",
+              "Purtați încălțăminte călduroasă pentru drumul spre stație.",
+              "Verificați din timp ora ultimului autobuz spre cazare."
+            ],
+            "en": [
+              "Expect minor delays in the schedule during heavy snowfall.",
+              "Wait inside heated shops if the bus is running late.",
+              "Wear warm, insulated shoes for the walks to the stops.",
+              "Check the time for the last bus back to your hotel in advance."
+            ]
+          }
+        }
       }
     }
   }

@@ -13,7 +13,7 @@
       "speed_kmh": 3,
       "start": "09:00",
       "end_estimate": "17:45",
-      "total_km": 1.8,
+      "total_km": 4.8,
       "stop_count": 6,
       "stops": [
         {
@@ -356,6 +356,196 @@
           "A reusable water bottle is essential in the heat.",
           "Don't forget sunscreen and a hat."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Hadrianstor schützt der massive Stein vor dem ersten Nieselregen. Mittags bieten die verwinkelten Gassen von Kaleiçi und die Yivli-Minare-Moschee perfekten Schutz vor den Schauern. Am Nachmittag wirkt der alte Hafen bei Regen besonders mystisch und ruhig. Der Tag endet mit einem Spaziergang durch den Karaalioğlu-Park, wo die nassen Blätter im Licht der Straßenlaternen glänzen.",
+            "hu": "Reggel a Hadrianus-kapu boltívei alatt várakozunk, amíg elvonul az első zápor. Délben a Kaleiçi negyed szűk utcái és a mecset belső tere nyújt menedéket a csapadék elől. Délután a régi kikötő párás, ködös látványa különleges hangulatot áraszt. Az este a Karaalioğlu parkban ér véget, ahol a vizes kövezeten csillognak a város fényei.",
+            "ro": "Dimineața la Poarta lui Hadrian, arcadele oferă un scurt adăpost împotriva burniței. La prânz, străzile înguste din Kaleiçi și moscheea sunt locuri ideale pentru a scăpa de ploaie. După-amiaza, portul vechi are o atmosferă melancolică sub picăturile de apă. Ziua se încheie în parcul Karaalioğlu, unde aleile umede reflectă luminile orașului.",
+            "en": "In the morning, the arches of Hadrian's Gate provide a quick refuge from the drizzle. At noon, the narrow alleys of Kaleiçi and the mosque interior offer perfect shelter from showers. The afternoon brings a moody, misty atmosphere to the old harbour. The day ends at Karaalioğlu Park, where the wet paths glisten under the streetlights."
+          },
+          "stops": [
+            {
+              "name": "Hadrian's Gate",
+              "tip_5lang": {
+                "de": "Nutzen Sie die massiven Bögen als Unterstand bei plötzlichen Schauern.",
+                "hu": "Használd a kapu boltíveit menedékként egy hirtelen zápor esetén.",
+                "ro": "Folosiți arcadele masive ca adăpost în timpul averselor bruște.",
+                "en": "Use the massive arches as a shelter during sudden rain showers."
+              }
+            },
+            {
+              "name": "Yivli Minare Mosque",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine ruhige Pause im Trockenen.",
+                "hu": "Ideális hely egy csendes, száraz pihenőhöz.",
+                "ro": "Un loc ideal pentru o pauză liniștită la adăpost de ploaie.",
+                "en": "An ideal place for a quiet, dry break."
+              }
+            },
+            {
+              "name": "Clock Tower (Saat Kulesi)",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; die Steine sind bei Nässe rutschig.",
+                "hu": "Gyors fotómegálló; a kövezet vizesen csúszós lehet.",
+                "ro": "Scurtă oprire foto; pavajul poate fi alunecos când este umed.",
+                "en": "Quick photo stop; the pavement can be slippery when wet."
+              }
+            },
+            {
+              "name": "Kaleiçi Harbour",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café mit überdachter Terrasse für den Blick aufs Meer.",
+                "hu": "Válassz egy fedett teraszos kávézót a tengeri kilátáshoz.",
+                "ro": "Alegeți o cafenea cu terasă acoperită pentru vederea la mare.",
+                "en": "Choose a cafe with a covered terrace for the sea view."
+              }
+            },
+            {
+              "name": "Hıdırlık Tower",
+              "tip_5lang": {
+                "de": "Die Felsen am Meer können bei Regen sehr glatt sein.",
+                "hu": "A tengerparti sziklák esőben nagyon csúszósak lehetnek.",
+                "ro": "Stâncile de lângă mare pot fi foarte alunecoase în ploaie.",
+                "en": "The rocks near the sea can be very slippery in the rain."
+              }
+            },
+            {
+              "name": "Karaalioğlu Park",
+              "tip_5lang": {
+                "de": "Ein Regenschirm ist auf den offenen Promenadenwegen unverzichtbar.",
+                "hu": "A nyitott sétányokon az esernyő elengedhetetlen.",
+                "ro": "O umbrelă este indispensabilă pe aleile deschise ale promenadei.",
+                "en": "An umbrella is essential on the open promenade paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Kalksteine in der Altstadt Kaleiçi werden bei Regen extrem rutschig.",
+              "Nutzen Sie die vielen überdachten Passagen des Basars zum Shoppen.",
+              "Viele Cafés im Hafen haben Heizstrahler auf den überdachten Terrassen.",
+              "Die Sicht auf das Taurusgebirge ist bei Regen oft wolkenverhangen.",
+              "Ein Besuch im Stadtmuseum ist eine gute trockene Alternative."
+            ],
+            "hu": [
+              "A Kaleiçi óváros mészkő burkolata esőben rendkívül csúszóssá válik.",
+              "Használd ki a bazár fedett passzázsait a vásárláshoz.",
+              "A kikötő kávézóiban gyakran van hősugárzó a fedett teraszokon.",
+              "A Toros-hegység látványa esőben gyakran felhőkbe vész.",
+              "A városi múzeum meglátogatása kiváló esőnapi program."
+            ],
+            "ro": [
+              "Pavajul de calcar din centrul vechi devine extrem de alunecos pe ploaie.",
+              "Profitați de pasajele acoperite ale bazarului pentru cumpărături.",
+              "Multe cafenele din port au radiatoare pe terasele acoperite.",
+              "Vederea spre Munții Taurus este adesea acoperită de nori în timpul ploii.",
+              "O vizită la muzeul orașului este o alternativă excelentă pe timp de ploaie."
+            ],
+            "en": [
+              "The limestone pavement in Kaleiçi becomes extremely slippery when wet.",
+              "Take advantage of the bazaar's covered passages for shopping.",
+              "Many harbour cafes have heaters on their covered terraces.",
+              "Views of the Taurus Mountains are often obscured by clouds during rain.",
+              "Visiting the city museum is a great dry alternative."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Hadrianstor ist erfrischend kühl und ohne Touristenmassen. Mittags wärmt die milde Sonne die Mauern von Kaleiçi, ideal für eine Pause im Freien. Am Nachmittag bietet der Hafen eine klare Sicht bis zum verschneiten Taurusgebirge. Da die Sonne bereits gegen 17:30 Uhr untergeht, genießen wir das goldene Licht im Park frühzeitig.",
+            "hu": "A téli reggel a Hadrianus-kapunál frissítően hűvös és mentes a tömegtől. Délben az enyhe napsütés kellemesen melegíti Kaleiçi falait, tökéletes egy szabadtéri pihenőhöz. Délután a kikötőből tiszta kilátás nyílik a hófödte Toros-hegységre. Mivel a nap 17:30 körül lebukik, a park arany fényeit már korábban élvezzük.",
+            "ro": "Dimineața de iarnă la Poarta lui Hadrian este răcoroasă și lipsită de mulțimile de turiști. La prânz, soarele blând încălzește zidurile din Kaleiçi, ideal pentru o pauză afară. După-amiaza, portul oferă o vedere clară spre Munții Taurus înzăpeziți. Deoarece soarele apune în jur de 17:30, ne bucurăm devreme de lumina aurie din parc.",
+            "en": "The winter morning at Hadrian's Gate is refreshingly cool and free of tourist crowds. At noon, the mild sun warms the walls of Kaleiçi, ideal for an outdoor break. In the afternoon, the harbour offers clear views all the way to the snow-capped Taurus Mountains. Since the sun sets around 5:30 PM, we enjoy the golden light in the park early."
+          },
+          "stops": [
+            {
+              "name": "Hadrian's Gate",
+              "tip_5lang": {
+                "de": "Genießen Sie das Monument ohne die sommerlichen Warteschlangen.",
+                "hu": "Élvezd az emlékművet a nyári sorban állás nélkül.",
+                "ro": "Bucurați-vă de monument fără cozile lungi din timpul verii.",
+                "en": "Enjoy the monument without the summer crowds and queues."
+              }
+            },
+            {
+              "name": "Yivli Minare Mosque",
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Restwärme der Wintersonne.",
+                "hu": "A vastag falak jól tartják a téli napsütés maradék melegét.",
+                "ro": "Zidurile groase păstrează căldura reziduală a soarelui de iarnă.",
+                "en": "The thick walls retain the residual heat of the winter sun."
+              }
+            },
+            {
+              "name": "Clock Tower (Saat Kulesi)",
+              "tip_5lang": {
+                "de": "Das klare Winterlicht ist perfekt für scharfe Architekturfotos.",
+                "hu": "A tiszta téli fény tökéletes az éles építészeti fotókhoz.",
+                "ro": "Lumina clară de iarnă este perfectă pentru fotografii de arhitectură.",
+                "en": "The clear winter light is perfect for sharp architectural photos."
+              }
+            },
+            {
+              "name": "Kaleiçi Harbour",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen sonnigen Platz; im Schatten wird es kühl.",
+                "hu": "Keress egy napsütötte helyet; az árnyékban gyorsan lehűl.",
+                "ro": "Căutați un loc însorit; la umbră se face destul de răcoare.",
+                "en": "Find a sunny spot; it gets chilly quickly in the shade."
+              }
+            },
+            {
+              "name": "Hıdırlık Tower",
+              "tip_5lang": {
+                "de": "Der Wind vom Meer kann hier im Winter recht kräftig sein.",
+                "hu": "A tenger felől fújó szél télen elég erős lehet itt.",
+                "ro": "Vântul dinspre mare poate fi destul de puternic aici iarna.",
+                "en": "The wind from the sea can be quite strong here in winter."
+              }
+            },
+            {
+              "name": "Karaalioğlu Park",
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang über den Bergen gegen 17:30 Uhr.",
+                "hu": "Nézd meg a hegyek feletti naplementét 17:30 körül.",
+                "ro": "Urmăriți apusul peste munți în jurul orei 17:30.",
+                "en": "Watch the sunset over the mountains around 5:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Zwiebelkleidung; die Sonne wärmt, aber im Schatten ist es kühl.",
+              "Die Fernsicht auf die schneebedeckten Gipfel ist im Winter am besten.",
+              "Genießen Sie einen heißen türkischen Tee oder Salep in der Altstadt.",
+              "Sonnenuntergang ist bereits gegen 17:30 Uhr, planen Sie den Tag früher.",
+              "Die Museen sind weniger überlaufen und angenehm temperiert."
+            ],
+            "hu": [
+              "Öltözz rétegesen; a nap melegít, de az árnyékban hűvös van.",
+              "A távoli, hófödte hegycsúcsok látványa télen a legszebb.",
+              "Élvezz egy forró török teát vagy salepet az óvárosban.",
+              "A naplemente már 17:30 körül bekövetkezik, tervezd korábbra a napot.",
+              "A múzeumok kevésbé zsúfoltak és kellemes hőmérsékletűek."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; soarele încălzește, dar la umbră este răcoare.",
+              "Vizibilitatea spre vârfurile înzăpezite este cea mai bună iarna.",
+              "Savurați un ceai turcesc fierbinte sau un salep în centrul vechi.",
+              "Apusul este deja în jurul orei 17:30, planificați ziua mai devreme.",
+              "Muzeele sunt mai puțin aglomerate și au o temperatură plăcută."
+            ],
+            "en": [
+              "Wear layers; the sun is warm but it gets cool in the shade.",
+              "Visibility towards the snow-capped peaks is best in winter.",
+              "Enjoy a hot Turkish tea or Salep in the old town.",
+              "Sunset is already around 5:30 PM, so plan your day earlier.",
+              "Museums are less crowded and comfortably tempered."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -683,6 +873,178 @@
           "A helmet is strongly recommended.",
           "Plan for breaks in the shade to avoid the midday heat."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten die Tour am regnerischen Konyaaltı-Strand, wo der Asphalt glänzt. Das Antalya-Museum bietet eine ausgiebige trockene Pause am Vormittag. Mittags radeln wir vorsichtig durch den nassen Karaalioğlu-Park zum Hafen. Die Küstenfahrt zum Düden-Park ist bei Wind und Regen eine sportliche Herausforderung, belohnt aber mit gewaltigen Wassermassen.",
+            "hu": "A bringás túrát az esős Konyaaltı strandon kezdjük, ahol csillog az aszfalt. Az Antalya Múzeum bőséges száraz pihenőt kínál délelőtt. Délben óvatosan tekerünk át a vizes Karaalioğlu parkon a kikötőbe. A Düden parkba vezető parti út szélben és esőben sportos kihívás, de a vízesés látványa kárpótol.",
+            "ro": "Începem turul pe plaja Konyaaltı, unde asfaltul strălucește sub ploaie. Muzeul Antalya oferă o pauză lungă și uscată în cursul dimineții. La prânz, pedalăm cu grijă prin parcul Karaalioğlu spre port. Drumul de coastă spre Parcul Düden este o provocare sportivă pe vânt și ploaie, dar recompensează cu vederi spectaculoase.",
+            "en": "We start the ride at rainy Konyaaltı Beach, where the asphalt glistens. Antalya Museum provides a long, dry break in the morning. At noon, we pedal carefully through the wet Karaalioğlu Park towards the harbour. The coastal ride to Düden Park is a sporting challenge in wind and rain, but the waterfall is powerful."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental at Konyaaltı Beach",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Rad mit guten Schutzblechen.",
+                "hu": "Kérj olyan kerékpárt, amin jó sárvédő van.",
+                "ro": "Cereți o bicicletă cu apărători de noroi bune.",
+                "en": "Ask for a bike with good mudguards."
+              }
+            },
+            {
+              "name": "Antalya Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Fahrradständer direkt am Eingang und trocknen Sie sich ab.",
+                "hu": "Használd a bejáratnál lévő tárolót, és szárítkozz meg kicsit.",
+                "ro": "Folosiți suportul de biciclete de la intrare și uscați-vă puțin.",
+                "en": "Use the bike rack at the entrance and dry off a bit."
+              }
+            },
+            {
+              "name": "Karaalioğlu Park & Hıdırlık Tower",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Laubblättern auf den Wegen.",
+                "hu": "Vigyázz a vizes levelekre és a csúszós utakra.",
+                "ro": "Atenție la frunzele ude și alunecoase de pe alei.",
+                "en": "Watch out for slippery leaves on the paths."
+              }
+            },
+            {
+              "name": "Kaleiçi Harbour",
+              "tip_5lang": {
+                "de": "Die steilen Rampen zum Hafen sind bei Nässe extrem gefährlich.",
+                "hu": "A kikötőbe vezető meredek lejtők esőben nagyon veszélyesek.",
+                "ro": "Rampele abrupte spre port sunt extrem de periculoase pe ud.",
+                "en": "The steep ramps to the harbour are extremely dangerous when wet."
+              }
+            },
+            {
+              "name": "Coastal Ride to Düden Park",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung; die Böen am Meer sind stark.",
+                "hu": "Viselj szélálló ruhát; a tengeri széllökések erősek.",
+                "ro": "Purtați haine rezistente la vânt; rafalele de pe coastă sunt puternice.",
+                "en": "Wear windproof gear; the sea gusts are strong."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie die weißen Markierungen auf der Straße, sie sind spiegelglatt.",
+              "Die Radwege direkt am Meer können von Gischt überspült werden.",
+              "Prüfen Sie die Bremsen vor der Abfahrt nach Kaleiçi besonders gründlich.",
+              "Ein Poncho ist beim Radfahren praktischer als ein Regenschirm.",
+              "Sollte der Regen zu stark werden, nehmen Sie die Tram (Fahrradmitnahme begrenzt)."
+            ],
+            "hu": [
+              "Kerüld a fehér útburkolati jeleket, mert vizesen tükörsimák.",
+              "A tengerparti kerékpárutakat néhol átcsapó hullámok érhetik.",
+              "A Kaleiçibe való leereszkedés előtt ellenőrizd a fékeket.",
+              "A poncsó praktikusabb kerékpározáshoz, mint az esernyő.",
+              "Ha túl intenzív az eső, használd a villamost (bicikliszállítás korlátozott)."
+            ],
+            "ro": [
+              "Evitați marcajele albe de pe asfalt, sunt extrem de alunecoase pe ploaie.",
+              "Pistele de biciclete de pe malul mării pot fi stropite de valuri.",
+              "Verificați frânele cu atenție înainte de a coborî spre Kaleiçi.",
+              "O pelerină este mai practică pentru ciclism decât o umbrelă.",
+              "Dacă ploaia devine prea puternică, folosiți tramvaiul (transport biciclete limitat)."
+            ],
+            "en": [
+              "Avoid riding on white road markings; they are slippery when wet.",
+              "Bike paths directly by the sea may be sprayed by waves.",
+              "Check your brakes thoroughly before descending into Kaleiçi.",
+              "A poncho is more practical for cycling than an umbrella.",
+              "If the rain gets too heavy, use the tram (bike transport is limited)."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen starten wir die Radtour am Konyaaltı-Strand bei frischer Meeresbrise. Das Museum bietet am Vormittag angenehme Wärme und faszinierende Geschichte. Mittags genießen wir die Sonne im Park und radeln zum Hafen. Die 15 km lange Fahrt zum Düden-Park ist im Winter durch die kühle Luft sehr angenehm, erfordert aber ein Ende vor dem frühen Sonnenuntergang.",
+            "hu": "Tiszta téli reggelen indulunk a Konyaaltı strandról, friss tengeri szélben. A múzeum délelőtt kellemes meleget és lenyűgöző történelmet kínál. Délben a parkban élvezzük a napsütést, majd legurulunk a kikötőbe. A 15 km-es út a Düden parkig a hűvös levegőben nagyon kellemes, de a korai naplemente miatt időben be kell fejezni.",
+            "ro": "Într-o dimineață senină de iarnă, începem turul de pe plaja Konyaaltı, cu o briză proaspătă. Muzeul oferă căldură plăcută și istorie fascinantă în cursul dimineții. La prânz, ne bucurăm de soare în parc și pedalăm spre port. Drumul de 15 km spre Parcul Düden este plăcut în aerul răcoros, dar trebuie încheiat înainte de apus.",
+            "en": "On a clear winter morning, we start the ride at Konyaaltı Beach with a fresh sea breeze. The museum offers pleasant warmth and fascinating history in the morning. At noon, we enjoy the sun in the park and cycle to the harbour. The 15km ride to Düden Park is very pleasant in the cool air, but must be finished before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental at Konyaaltı Beach",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Rad mit gut funktionierender Beleuchtung für den Rückweg.",
+                "hu": "Válassz jól működő lámpákkal felszerelt bringát a hazajutáshoz.",
+                "ro": "Alegeți o bicicletă cu lumini funcționale pentru drumul de întoarcere.",
+                "en": "Choose a bike with functional lights for the return journey."
+              }
+            },
+            {
+              "name": "Antalya Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Winterjacken abzulegen.",
+                "hu": "Használd a ruhatárat a nehéz téli kabátok leadásához.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele grele de iarnă.",
+                "en": "Use the cloakroom to store heavy winter jackets."
+              }
+            },
+            {
+              "name": "Karaalioğlu Park & Hıdırlık Tower",
+              "tip_5lang": {
+                "de": "Perfekter Ort für ein Picknick in der milden Mittagssonne.",
+                "hu": "Tökéletes hely egy piknikhez az enyhe déli napsütésben.",
+                "ro": "Loc perfect pentru un picnic în soarele blând de la prânz.",
+                "en": "Perfect spot for a picnic in the mild midday sun."
+              }
+            },
+            {
+              "name": "Kaleiçi Harbour",
+              "tip_5lang": {
+                "de": "Die Cafés sind im Winter weniger überlaufen und sehr gemütlich.",
+                "hu": "A kávézók télen kevésbé zsúfoltak és nagyon hangulatosak.",
+                "ro": "Cafenelele sunt mai puțin aglomerate iarna și foarte primitoare.",
+                "en": "Cafes are less crowded in winter and very cozy."
+              }
+            },
+            {
+              "name": "Coastal Ride to Düden Park",
+              "tip_5lang": {
+                "de": "Planen Sie die Ankunft spätestens für 16:30 Uhr ein.",
+                "hu": "Legkésőbb 16:30-ra tervezd az ideérkezést.",
+                "ro": "Planificați sosirea cel târziu la ora 16:30.",
+                "en": "Plan to arrive by 4:30 PM at the latest."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Handschuhe sind für die Fahrt entlang der Küste sehr zu empfehlen.",
+              "Die Sonne geht gegen 17:30 Uhr unter; das Licht wird danach schnell kalt.",
+              "Der Küstenradweg bietet im Winter fantastische, klare Panoramablicke.",
+              "Trinken Sie ausreichend; man unterschätzt den Flüssigkeitsbedarf bei Kälte.",
+              "Die Rückgabe des Fahrrads sollte vor Einbruch der Dunkelheit erfolgen."
+            ],
+            "hu": [
+              "A tengerparti tekeréshez egy vékony kesztyű erősen ajánlott.",
+              "A nap 17:30 körül nyugszik; utána a levegő gyorsan lehűl.",
+              "A parti kerékpárút télen fantasztikus, tiszta panorámát kínál.",
+              "Igyál eleget; hidegben hajlamosak vagyunk elfelejteni a hidratálást.",
+              "A kerékpár visszajuttatását érdemes sötétedés előttre időzíteni."
+            ],
+            "ro": [
+              "Mănușile sunt recomandate pentru plimbarea de-a lungul coastei.",
+              "Soarele apune în jur de 17:30; după aceea se face repede frig.",
+              "Pista de biciclete oferă panorame fantastice și clare în timpul iernii.",
+              "Hidratați-vă corespunzător; necesarul de apă este subestimat la frig.",
+              "Returnarea bicicletei ar trebui făcută înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "Gloves are highly recommended for the coastal ride.",
+              "The sun sets around 5:30 PM; the air gets cold quickly after that.",
+              "The coastal bike path offers fantastic, clear panoramic views in winter.",
+              "Drink enough water; it's easy to underestimate hydration needs in the cold.",
+              "Plan to return the bike before it gets dark."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1063,6 +1425,214 @@
           "Check the opening hours of the attractions in advance.",
           "A car gives you the flexibility to explore more distant destinations as well."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bei Regen ist das Auto ideal, um trocken zwischen den Highlights zu wechseln. Wir parken nah am Hadrianstor und besuchen die Altstadt. Mittags bietet das Antalya-Museum zwei Stunden Schutz vor dem Wetter. Nach dem Mittagessen fahren wir zum Düden-Wasserfall, der bei Regen besonders kraftvoll ins Meer stürzt. Den Abschluss bildet eine Fahrt entlang der Küste zum Düden-Park.",
+            "hu": "Esőben az autó ideális, hogy szárazon közlekedjünk a látnivalók között. A Hadrianus-kapu mellett parkolunk, és megnézzük az óvárost. Délben az Antalya Múzeum két órás menedéket nyújt az időjárás elől. Ebéd után a Düden-vízeséshez hajtunk, amely esőben különösen monumentális. A napot a parti autózás zárja a Düden parkig.",
+            "ro": "Pe ploaie, mașina este ideală pentru a circula uscat între atracții. Parcăm aproape de Poarta lui Hadrian și vizităm centrul vechi. La prânz, Muzeul Antalya oferă două ore de protecție împotriva vremii. După prânz, mergem la Cascada Düden, care este extrem de puternică pe ploaie. Încheiem cu o plimbare cu mașina pe coastă spre Parcul Düden.",
+            "en": "In the rain, the car is ideal for moving dry between highlights. We park near Hadrian's Gate and visit the old town. At noon, Antalya Museum provides two hours of shelter from the weather. After lunch, we drive to Düden Waterfall, which is especially powerful in the rain. We finish with a coastal drive to Düden Park."
+          },
+          "stops": [
+            {
+              "name": "Parking near Hadrian's Gate",
+              "tip_5lang": {
+                "de": "Überdachte Parkhäuser sind bei Starkregen die beste Wahl.",
+                "hu": "Heves esőzés esetén a fedett parkolóházak a legjobbak.",
+                "ro": "Parcările acoperite sunt cea mai bună alegere în caz de ploaie torențială.",
+                "en": "Covered parking garages are the best choice during heavy rain."
+              }
+            },
+            {
+              "name": "Hadrian's Gate & Clock Tower",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Auto und Monument minimieren das Nasswerden.",
+                "hu": "A rövid táv az autó és a kapu között segít szárazon maradni.",
+                "ro": "Distanțele scurte între mașină și monument vă ajută să rămâneți uscați.",
+                "en": "Short walks between the car and the monument minimize getting wet."
+              }
+            },
+            {
+              "name": "Kaleiçi Harbour",
+              "tip_5lang": {
+                "de": "Parken Sie oben und nutzen Sie den gläsernen Lift zum Hafen.",
+                "hu": "Parkolj fent, és használd az üvegliftet a kikötőbe való lejutáshoz.",
+                "ro": "Parcați sus și folosiți liftul de sticlă pentru a ajunge în port.",
+                "en": "Park at the top and use the glass elevator to reach the harbour."
+              }
+            },
+            {
+              "name": "Antalya Museum",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden; ideal für einen längeren Regen-Stopp.",
+                "hu": "Nagy parkoló áll rendelkezésre; ideális hosszabb esős megállóhoz.",
+                "ro": "Parcare mare disponibilă; ideal pentru o oprire mai lungă pe ploaie.",
+                "en": "Large parking lot available; ideal for a longer rain stop."
+              }
+            },
+            {
+              "name": "Lunch near the Museum",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Parkmöglichkeit direkt vor der Tür.",
+                "hu": "Válassz olyan éttermet, ahol közvetlenül az ajtó előtt lehet parkolni.",
+                "ro": "Alegeți un restaurant cu parcare direct în față.",
+                "en": "Choose a restaurant with parking right in front of the door."
+              }
+            },
+            {
+              "name": "Lower Düden Waterfall",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Wind für Fotos im Auto.",
+                "hu": "Erős szél esetén maradj az autóban a fotózáshoz.",
+                "ro": "Rămâneți în mașină pentru fotografii în caz de vânt puternic.",
+                "en": "Stay in the car for photos if the wind is too strong."
+              }
+            },
+            {
+              "name": "Walk in Düden Park",
+              "tip_5lang": {
+                "de": "Die Wege können Pfützen bilden; festes Schuhwerk empfohlen.",
+                "hu": "Az utakon tócsák alakulhatnak ki; zárt cipő ajánlott.",
+                "ro": "Pe alei se pot forma bălți; se recomandă încălțăminte adecvată.",
+                "en": "Paths can have puddles; sturdy footwear is recommended."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bei Regen nimmt der Verkehr in Antalya stark zu, planen Sie mehr Zeit ein.",
+              "Vermeiden Sie tiefere Wasseransammlungen auf den Straßen.",
+              "Parkhäuser in der Innenstadt sind oft eng, fahren Sie vorsichtig.",
+              "Der gläserne Lift am Hafen spart Ihnen den nassen Aufstieg zu Fuß.",
+              "Prüfen Sie, ob Ihre Scheibenwischer in gutem Zustand sind."
+            ],
+            "hu": [
+              "Esőben jelentősen megnő a forgalom Antalyában, számolj több idővel.",
+              "Kerüld a mélyebb víztócsákat az utakon.",
+              "A belvárosi parkolóházak gyakran szűkek, vezess óvatosan.",
+              "A kikötőnél lévő üveglift megkímél a vizes, gyalogos emelkedőtől.",
+              "Ellenőrizd, hogy az ablaktörlők jó állapotban vannak-e."
+            ],
+            "ro": [
+              "Traficul în Antalya crește semnificativ pe ploaie; planificați mai mult timp.",
+              "Evitați acumulările mari de apă de pe șosele.",
+              "Parcările etajate din centru sunt adesea înguste; conduceți cu atenție.",
+              "Liftul de sticlă de la port vă scutește de urcarea pe jos prin ploaie.",
+              "Verificați dacă ștergătoarele sunt în stare bună."
+            ],
+            "en": [
+              "Traffic in Antalya increases significantly in the rain; allow extra time.",
+              "Avoid driving through deep water accumulations on the roads.",
+              "City center parking garages are often narrow; drive carefully.",
+              "The glass elevator at the harbour saves you a wet climb on foot.",
+              "Check that your windshield wipers are in good condition."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag beginnt mit einer entspannten Fahrt zum Hadrianstor bei klarem Wetter. Ohne Parkplatznot erkunden wir die Altstadt. Mittags ist das Museum ein kulturelles Highlight im Warmen. Nach einem gemütlichen Mittagessen fahren wir zum Düden-Wasserfall, um das Panorama der Küste im Winterlicht zu genießen. Der Tag endet im Düden-Park vor dem frühen Sonnenuntergang.",
+            "hu": "A téli nap egy pihentető autózással indul a Hadrianus-kapuhoz tiszta időben. Parkolási nehézségek nélkül fedezzük fel az óvárost. Délben a múzeum kulturális fénypont a melegben. Egy kellemes ebéd után a Düden-vízeséshez hajtunk, hogy élvezzük a parti panorámát a téli fényekben. A nap a Düden parkban zárul a korai naplemente előtt.",
+            "ro": "Ziua de iarnă începe cu o plimbare relaxantă spre Poarta lui Hadrian pe vreme senină. Fără probleme de parcare, explorăm centrul vechi. La prânz, muzeul este un punct cultural călduros. După un prânz plăcut, mergem la Cascada Düden pentru a savura panorama coastei în lumina iernii. Ziua se încheie în Parcul Düden înainte de apus.",
+            "en": "The winter day begins with a relaxed drive to Hadrian's Gate in clear weather. With no parking issues, we explore the old town. At noon, the museum is a warm cultural highlight. After a pleasant lunch, we drive to Düden Waterfall to enjoy the coastal panorama in winter light. The day ends at Düden Park before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Parking near Hadrian's Gate",
+              "tip_5lang": {
+                "de": "Im Winter finden Sie leichter einen Parkplatz direkt im Zentrum.",
+                "hu": "Télen sokkal könnyebb parkolót találni közvetlenül a központban.",
+                "ro": "Iarna veți găsi mai ușor un loc de parcare direct în centru.",
+                "en": "In winter, it's easier to find a parking spot right in the center."
+              }
+            },
+            {
+              "name": "Hadrian's Gate & Clock Tower",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kühlen Temperaturen für eine ausgiebige Besichtigung.",
+                "hu": "Használd ki a hűvösebb időt egy alapos városnézéshez.",
+                "ro": "Profitați de temperaturile răcoroase pentru o vizită detaliată.",
+                "en": "Take advantage of the cooler temperatures for an extensive tour."
+              }
+            },
+            {
+              "name": "Kaleiçi Harbour",
+              "tip_5lang": {
+                "de": "Parkplätze am Hafen sind im Winter reichlich vorhanden.",
+                "hu": "Télen bőségesen van parkolóhely a kikötőnél.",
+                "ro": "Locurile de parcare de lângă port sunt din abundență iarna.",
+                "en": "Parking spaces at the harbour are plentiful in winter."
+              }
+            },
+            {
+              "name": "Antalya Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe in den Ausstellungshallen ohne Touristengruppen.",
+                "hu": "Élvezd a kiállítótermek nyugalmát turistacsoportok nélkül.",
+                "ro": "Bucurați-vă de liniștea din sălile de expoziție fără grupuri de turiști.",
+                "en": "Enjoy the peace of the exhibition halls without tourist groups."
+              }
+            },
+            {
+              "name": "Lunch near the Museum",
+              "tip_5lang": {
+                "de": "Viele Restaurants haben im Winter gemütliche Innenräume.",
+                "hu": "Sok étteremnek van nagyon hangulatos belső tere télire.",
+                "ro": "Multe restaurante au interioare primitoare în timpul iernii.",
+                "en": "Many restaurants have cozy indoor areas in winter."
+              }
+            },
+            {
+              "name": "Lower Düden Waterfall",
+              "tip_5lang": {
+                "de": "Das Licht für Fotos ist am frühen Nachmittag am besten.",
+                "hu": "A fotózáshoz kora délután a legjobbak a fények.",
+                "ro": "Lumina pentru fotografii este cea mai bună la începutul după-amiezii.",
+                "en": "The light for photos is best in the early afternoon."
+              }
+            },
+            {
+              "name": "Walk in Düden Park",
+              "tip_5lang": {
+                "de": "Ideal für einen Spaziergang in der klaren Winterluft.",
+                "hu": "Ideális egy sétához a tiszta téli levegőben.",
+                "ro": "Ideal pentru o plimbare în aerul curat de iarnă.",
+                "en": "Ideal for a walk in the clear winter air."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Mietwagen sind im Winter in Antalya oft deutlich günstiger.",
+              "Die Straßen sind weniger verstopft, das Fahren ist entspannter.",
+              "Nutzen Sie die Klimaanlage im Auto zum Heizen am Morgen.",
+              "Planen Sie die Rückfahrt vor 17:30 Uhr ein (Dämmerung).",
+              "Einige Bergstraßen im Hinterland können bei Kälte glatt sein."
+            ],
+            "hu": [
+              "A bérautók télen gyakran sokkal olcsóbbak Antalyában.",
+              "Az utak kevésbé zsúfoltak, a vezetés sokkal nyugodtabb.",
+              "Használd az autó légkondicionálóját fűtésre a reggeli órákban.",
+              "Tervezd meg a visszautat 17:30 előtt (szürkület).",
+              "Néhány háttérországi hegyi út hidegben csúszós lehet."
+            ],
+            "ro": [
+              "Mașinile de închiriat sunt adesea mult mai ieftine iarna în Antalya.",
+              "Șoselele sunt mai puțin aglomerate, condusul este mai relaxat.",
+              "Folosiți aerul condiționat pentru încălzire în orele dimineții.",
+              "Planificați întoarcerea înainte de 17:30 (amurg).",
+              "Unele drumuri montane din interior pot fi alunecoase la frig."
+            ],
+            "en": [
+              "Rental cars are often significantly cheaper in Antalya during winter.",
+              "Roads are less congested, making driving much more relaxed.",
+              "Use the car's air conditioning for heating in the morning.",
+              "Plan your return trip before 5:30 PM (dusk).",
+              "Some mountain roads in the hinterland can be slippery in the cold."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1419,6 +1989,196 @@
           "Rush hours in the morning and evening can make buses and trams very crowded.",
           "The nostalgia tram is more of a tourist attraction than a fast means of transport, but very charming."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die moderne Straßenbahn bringt uns trocken zur Haltestelle İsmetpaşa. Von dort ist es nur ein kurzer Sprint zur Moschee und zum Uhrturm. Mittags nutzen wir die Tram zum Museum, um dem Regen zu entkommen. Am Nachmittag bietet der Hafen trotz Nässe eine tolle Kulisse. Der Tag endet im Karaalioğlu-Park, wobei die Tram-Haltestellen stets nah sind.",
+            "hu": "A modern villamos szárazon visz minket az İsmetpaşa megállóig. Onnan csak egy rövid futás a mecset és az óratorony. Délben a villamossal megyünk a múzeumhoz, hogy elmeneküljünk az eső elől. Délután a kikötő a nedves idő ellenére is remek helyszín. A nap a Karaalioğlu parkban zárul, a villamosmegállók pedig mindig a közelben vannak.",
+            "ro": "Tramvaiul modern ne duce uscați până la stația İsmetpaşa. De acolo, este doar un scurt sprint până la moschee și turnul cu ceas. La prânz, folosim tramvaiul spre muzeu pentru a scăpa de ploaie. După-amiaza, portul oferă un cadru minunat în ciuda umidității. Ziua se încheie în parcul Karaalioğlu, stațiile de tramvai fiind mereu aproape.",
+            "en": "The modern tram takes us dry to the İsmetpaşa stop. From there, it's just a short sprint to the mosque and clock tower. At noon, we use the tram to reach the museum and escape the rain. In the afternoon, the harbour remains a great backdrop despite the wet. The day ends at Karaalioğlu Park, with tram stops always nearby."
+          },
+          "stops": [
+            {
+              "name": "İsmetpaşa Tram Stop",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist teilweise überdacht; halten Sie den Schirm bereit.",
+                "hu": "A megálló részben fedett; tartsd készenlétben az esernyőt.",
+                "ro": "Stația este parțial acoperită; aveți umbrela pregătită.",
+                "en": "The stop is partially covered; have your umbrella ready."
+              }
+            },
+            {
+              "name": "Yivli Minare Mosque & Clock Tower",
+              "tip_5lang": {
+                "de": "Der Weg von der Tram ist kurz, aber bei Regen windig.",
+                "hu": "A villamostól vezető út rövid, de esőben szeles lehet.",
+                "ro": "Drumul de la tramvai este scurt, dar poate fi vântos pe ploaie.",
+                "en": "The walk from the tram is short but can be windy in the rain."
+              }
+            },
+            {
+              "name": "Kaleiçi Harbour",
+              "tip_5lang": {
+                "de": "Der Abstieg zum Hafen ist bei Regen zu Fuß mühsam.",
+                "hu": "A kikötőbe való lejutás gyalogosan fárasztó esőben.",
+                "ro": "Coborârea spre port este anevoioasă pe jos când plouă.",
+                "en": "The descent to the harbour is tedious on foot in the rain."
+              }
+            },
+            {
+              "name": "Antalya Museum",
+              "tip_5lang": {
+                "de": "Die Nostalgie-Tram hält direkt vor dem Museumseingang.",
+                "hu": "A nosztalgia villamos közvetlenül a múzeum bejárata előtt áll meg.",
+                "ro": "Tramvaiul nostalgic oprește chiar în fața intrării muzeului.",
+                "en": "The nostalgia tram stops right in front of the museum entrance."
+              }
+            },
+            {
+              "name": "Karaalioğlu Park",
+              "tip_5lang": {
+                "de": "Die Haltestelle Belediye ist der schnellste Weg zurück ins Trockene.",
+                "hu": "A Belediye megálló a leggyorsabb út vissza a szárazra.",
+                "ro": "Stația Belediye este cea mai rapidă cale de a reveni la adăpost.",
+                "en": "The Belediye stop is the quickest way back to shelter."
+              }
+            },
+            {
+              "name": "Hıdırlık Tower",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick und suchen Sie schnell wieder die Tram auf.",
+                "hu": "Élvezd a kilátást, majd keress hamar menedéket a villamosnál.",
+                "ro": "Bucurați-vă de vedere și reveniți rapid la tramvai.",
+                "en": "Enjoy the view and head back to the tram quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie eine AntalyaKart an den Automaten (auch mit Kreditkarte).",
+              "Die moderne Tram (Antray) ist beheizt und bietet guten Schutz.",
+              "Die Nostalgie-Tram ist oft weniger frequentiert bei Regen.",
+              "Nutzen Sie die Google Maps App für Echtzeit-Abfahrten.",
+              "Einige Busse können bei Regen sehr voll sein; die Tram ist zuverlässiger."
+            ],
+            "hu": [
+              "Vásárolj AntalyaKart-ot az automatáknál (bankkártyával is lehet).",
+              "A modern villamos (Antray) fűtött és jól véd az eső ellen.",
+              "A nosztalgia villamos esőben gyakran kevésbé zsúfolt.",
+              "Használd a Google Maps-et a valós idejű indulásokhoz.",
+              "Néhány busz nagyon megtelhet esőben; a villamos megbízhatóbb."
+            ],
+            "ro": [
+              "Cumpărați un AntalyaKart de la automate (acceptă și card bancar).",
+              "Tramvaiul modern (Antray) este încălzit și oferă protecție bună.",
+              "Tramvaiul nostalgic este adesea mai puțin aglomerat pe ploaie.",
+              "Folosiți Google Maps pentru orele de plecare în timp real.",
+              "Unele autobuze pot fi foarte pline pe ploaie; tramvaiul e mai sigur."
+            ],
+            "en": [
+              "Buy an AntalyaKart at the kiosks (credit cards are accepted).",
+              "The modern Antray tram is heated and offers good protection.",
+              "The nostalgia tram is often less crowded during the rain.",
+              "Use Google Maps for real-time departure information.",
+              "Some buses can get very crowded in the rain; the tram is more reliable."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen bringt uns die Tram entspannt in die Innenstadt. Ohne Hitze erkunden wir die historischen Stätten zu Fuß. Mittags ist der Besuch im Museum ein warmer Rückzugsort. Nachmittags spazieren wir durch den Park zum Hafen. Durch die gute Anbindung der Tram können wir den Tag flexibel gestalten und vor der Dunkelheit heimkehren.",
+            "hu": "Tiszta téli reggelen a villamos kényelmesen repít minket a belvárosba. Hőség nélkül fedezzük fel a történelmi helyszíneket gyalog. Délben a múzeumlátogatás meleg menedéket nyújt. Délután a parkon keresztül sétálunk a kikötőbe. A villamos jó összeköttetései miatt rugalmasan tervezhetünk, és sötétedés előtt hazaérünk.",
+            "ro": "Într-o dimineață senină de iarnă, tramvaiul ne duce relaxați în centrul orașului. Explorăm siturile istorice pe jos, fără căldură excesivă. La prânz, vizita la muzeu este un refugiu călduros. După-amiaza, ne plimbăm prin parc spre port. Datorită conexiunilor bune, putem fi flexibili și ne întoarcem înainte de întuneric.",
+            "en": "On a clear winter morning, the tram takes us comfortably to the city center. Without the heat, we explore the historical sites on foot. At noon, the museum visit is a warm retreat. In the afternoon, we walk through the park to the harbour. Thanks to the good tram connections, we can be flexible and return home before dark."
+          },
+          "stops": [
+            {
+              "name": "İsmetpaşa Tram Stop",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt, perfekt um die Stadttour zu beginnen.",
+                "hu": "Központi csomópont, tökéletes a városnézés megkezdéséhez.",
+                "ro": "Nod central, perfect pentru a începe turul orașului.",
+                "en": "Central hub, perfect for starting your city tour."
+              }
+            },
+            {
+              "name": "Yivli Minare Mosque & Clock Tower",
+              "tip_5lang": {
+                "de": "Im Winter sind die Plätze hier angenehm leer für Fotos.",
+                "hu": "Télen a terek itt kellemesen üresek a fotózáshoz.",
+                "ro": "Iarna, piețele de aici sunt plăcut de goale pentru fotografii.",
+                "en": "In winter, the squares here are pleasantly empty for photos."
+              }
+            },
+            {
+              "name": "Kaleiçi Harbour",
+              "tip_5lang": {
+                "de": "Genießen Sie den Aufstieg zu Fuß; es ist im Winter nicht zu heiß.",
+                "hu": "Élvezd a gyalogos emelkedőt; télen nincs túl meleg hozzá.",
+                "ro": "Bucurați-vă de urcarea pe jos; nu este prea cald iarna.",
+                "en": "Enjoy the climb on foot; it's not too hot in winter."
+              }
+            },
+            {
+              "name": "Antalya Museum",
+              "tip_5lang": {
+                "de": "Die Tramhaltestelle ist nur wenige Schritte entfernt.",
+                "hu": "A villamosmegálló mindössze néhány lépésre van.",
+                "ro": "Stația de tramvai este la doar câțiva pași distanță.",
+                "en": "The tram stop is just a few steps away."
+              }
+            },
+            {
+              "name": "Karaalioğlu Park",
+              "tip_5lang": {
+                "de": "Die Wintersonne auf den Bänken im Park ist herrlich.",
+                "hu": "A téli napsütés a park padjain csodálatos.",
+                "ro": "Soarele de iarnă pe băncile din parc este minunat.",
+                "en": "The winter sun on the park benches is wonderful."
+              }
+            },
+            {
+              "name": "Hıdırlık Tower",
+              "tip_5lang": {
+                "de": "Ein schöner Abschluss, bevor es zur nächsten Tram geht.",
+                "hu": "Szép zárása a napnak, mielőtt a következő villamoshoz mész.",
+                "ro": "Un final frumos înainte de a merge la următorul tramvai.",
+                "en": "A beautiful finish before heading to the next tram."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßenbahnen fahren im Winter nach dem regulären Fahrplan.",
+              "In der Tram ist es angenehm warm; perfekt zum Aufwärmen zwischendurch.",
+              "Nutzen Sie die Tram, um längere Strecken in der kühlen Luft zu überbrücken.",
+              "Abends sind die Bahnen gut beleuchtet und sicher.",
+              "Die Nostalgie-Tram bietet eine tolle Sicht auf das winterliche Kaleiçi."
+            ],
+            "hu": [
+              "A villamosok télen is a rendes menetrend szerint közlekednek.",
+              "A villamoson kellemes meleg van; tökéletes útközbeni felmelegedéshez.",
+              "Használd a villamost a hosszabb távok megtételére a hűvös időben.",
+              "Este a járatok jól kivilágítottak és biztonságosak.",
+              "A nosztalgia villamosról remek kilátás nyílik a téli Kaleiçire."
+            ],
+            "ro": [
+              "Tramvaiele circulă după programul normal și în timpul iernii.",
+              "În tramvai este o temperatură plăcută; perfect pentru a vă încălzi.",
+              "Folosiți tramvaiul pentru a parcurge distanțe lungi în aerul rece.",
+              "Seara, vagoanele sunt bine luminate și sigure.",
+              "Tramvaiul nostalgic oferă o vedere minunată asupra cartierului Kaleiçi."
+            ],
+            "en": [
+              "Trams run according to their regular schedule in winter.",
+              "The tram interior is comfortably warm; perfect for a quick warm-up.",
+              "Use the tram to cover longer distances in the cool air.",
+              "In the evening, the trams are well-lit and safe.",
+              "The nostalgia tram offers a great view of wintery Kaleiçi."
+            ]
+          }
+        }
       }
     }
   }

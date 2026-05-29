@@ -362,6 +362,188 @@
           "Be mindful of the dress code in churches; shoulders and knees should be covered.",
           "The pavements can be uneven, so watch your step."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der majestätischen Rotunda, wo das gewaltige Dach sicheren Schutz vor dem Regen bietet. Mittags tauchen Sie in die Tiefe der WWII-Unterstände und Katakomben ab – ideal, um trocken zu bleiben. Der Nachmittag führt zum Tal, wo die Wege rutschig sein können. Beenden Sie den Tag entspannt, während der Regen auf die Blätter im Mosta Garden prasselt.",
+            "hu": "Kezdje a napot a fenséges Rotundában, ahol a hatalmas kupola biztos menedéket nyújt az eső elől. Délben ereszkedjen le a II. világháborús óvóhelyre és a katakombákba – ezek a legjobb helyszínek csapadékos időben. Délután a völgy felé vegye az irányt, de vigyázzon, az ösvények csúszósak lehetnek. A napot a Mosta Gardenben zárja, élvezve az eső illatát a buja növények között.",
+            "ro": "Începeți ziua în maiestuoasa Rotunda, unde cupola imensă oferă adăpost sigur împotriva ploii. La prânz, coborâți în adăposturile din al Doilea Război Mondial și în catacombe – locuri ideale pentru a rămâne uscat. După-amiaza vă duce spre vale, unde potecile pot fi alunecoase. Încheiați ziua relaxat în Grădina Mosta, ascultând ploaia care cade pe vegetația bogată.",
+            "en": "Start your day in the majestic Rotunda, where the massive dome provides safe shelter from the rain. At noon, head underground to the WWII shelters and catacombs – perfect for staying dry. The afternoon leads to the valley, where paths can be slippery, so watch your step. End the day peacefully in Mosta Garden, enjoying the fresh scent of rain among the lush greenery."
+          },
+          "stops": [
+            {
+              "name": "Rotunda of Mosta",
+              "tip_5lang": {
+                "de": "Perfekter Ort bei Regen, das riesige Innere bleibt absolut trocken.",
+                "hu": "Tökéletes helyszín esőben, a hatalmas belsőtér teljesen száraz marad.",
+                "ro": "Locație perfectă pe ploaie, interiorul imens rămâne complet uscat.",
+                "en": "Perfect location for rain, the vast interior stays completely dry."
+              }
+            },
+            {
+              "name": "WWII Air-Raid Shelter",
+              "tip_5lang": {
+                "de": "Unterirdisch und wetterfest, ein idealer Zufluchtsort bei Schauern.",
+                "hu": "Föld alatti és időjárásálló, ideális menedék záporok idején.",
+                "ro": "Subteran și rezistent la intemperii, un refugiu ideal în timpul ploii.",
+                "en": "Underground and weatherproof, an ideal refuge during showers."
+              }
+            },
+            {
+              "name": "Ta' Bistra Catacombs",
+              "tip_5lang": {
+                "de": "Die in den Fels gehauenen Gänge bieten guten Schutz vor Nässe.",
+                "hu": "A sziklába vájt járatok jó védelmet nyújtanak a nedvesség ellen.",
+                "ro": "Pasajele săpate în stâncă oferă o bună protecție împotriva umezelii.",
+                "en": "The rock-cut passages offer good protection from the wet weather."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café mit Innenplätzen, um sich aufzuwärmen.",
+                "hu": "Válasszon belső térrel rendelkező kávézót a felmelegedéshez.",
+                "ro": "Alegeți o cafenea cu locuri în interior pentru a vă încălzi.",
+                "en": "Choose a café with indoor seating to dry off and warm up."
+              }
+            },
+            {
+              "name": "Speranza Chapel & Wied il-Għasel Valley",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Naturpfaden, die Steine werden sehr glatt.",
+                "hu": "Vigyázat a natúr ösvényeken, a kövek nagyon csúszóssá válnak.",
+                "ro": "Atenție pe potecile naturale, pietrele devin foarte alunecoase.",
+                "en": "Caution on natural paths, the limestone becomes very slippery."
+              }
+            },
+            {
+              "name": "Mosta Garden",
+              "tip_5lang": {
+                "de": "Die Pavillons bieten kurzzeitigen Schutz vor kleinen Schauern.",
+                "hu": "A pavilonok rövid távú védelmet nyújtanak a kisebb záporok ellen.",
+                "ro": "Pavilioanele oferă protecție pe termen scurt împotriva ploilor mici.",
+                "en": "The gazebos provide short-term shelter from passing showers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil für die glatten Kalksteinwege.",
+              "Die Rotunda und die Schutzräume sind die besten 'trockenen' Stopps.",
+              "Ein stabiler Regenschirm ist wegen des Windes oft besser als ein Poncho.",
+              "Nutzen Sie die Mittagspause in der Altstadt zum Trocknen der Kleidung."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt a csúszós mészkő utak miatt.",
+              "A Rotunda és az óvóhelyek a legjobb száraz megállók a nap során.",
+              "A szél miatt egy erős esernyő gyakran praktikusabb, mint az esőponcsó.",
+              "Használja ki az óvárosi ebédet a ruházat megszárítására."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență bună pentru drumurile alunecoase.",
+              "Rotunda și adăposturile sunt cele mai bune opriri uscate ale zilei.",
+              "Din cauza vântului, o umbrelă rezistentă e mai practică decât o pelerină.",
+              "Folosiți pauza de prânz în orașul vechi pentru a vă usca hainele."
+            ],
+            "en": [
+              "Wear shoes with good grip for the slippery limestone paths.",
+              "The Rotunda and shelters are the best 'dry' stops for the day.",
+              "A sturdy umbrella is often more practical than a poncho due to wind.",
+              "Use the old town lunch break to dry off your gear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die milde Wintersonne Maltas beleuchtet die Rotunda am Morgen wunderschön. Ohne die Sommerhitze sind die Katakomben und Unterstände angenehm zu erkunden. Mittags genießen Sie die ruhige Atmosphäre der Altstadt bei einem warmen Pastizz. Da die Sonne gegen 17:00 Uhr untergeht, bietet das Wied il-Għasel Tal ein magisches Licht, bevor der Tag im kühlen Garten endet.",
+            "hu": "A máltai téli napsütés reggel gyönyörűen világítja meg a Rotundát. A nyári hőség nélkül a katakombák és óvóhelyek felfedezése kifejezetten kellemes. Délben élvezze az óváros nyugodt hangulatát egy meleg pastizz mellett. Mivel a nap 17:00 körül nyugszik, a Wied il-Għasel völgy mágikus fényeket kínál, mielőtt a nap a hűvös kertben véget érne.",
+            "ro": "Soarele blând de iarnă din Malta luminează superb Rotunda dimineața. Fără căldura verii, explorarea catacombelor și a adăposturilor este foarte plăcută. La prânz, bucurați-vă de atmosfera liniștită a orașului vechi cu un pastizz cald. Deoarece soarele apune în jurul orei 17:00, Valea Wied il-Għasel oferă o lumină magică înainte ca ziua să se încheie în grădina răcoroasă.",
+            "en": "Malta's mild winter sun illuminates the Rotunda beautifully in the morning. Without the summer heat, exploring the catacombs and shelters is very pleasant. At noon, enjoy the quiet atmosphere of the old town with a warm pastizz. As the sun sets around 17:00, the Wied il-Għasel valley offers magical light before the day ends in the cool garden."
+          },
+          "stops": [
+            {
+              "name": "Rotunda of Mosta",
+              "tip_5lang": {
+                "de": "Angenehme Innentemperatur, ideal zum Aufwärmen am Morgen.",
+                "hu": "Kellemes belső hőmérséklet, ideális reggeli felmelegedéshez.",
+                "ro": "Temperatură interioară plăcută, ideală pentru încălzire dimineața.",
+                "en": "Pleasant indoor temperature, ideal for warming up in the morning."
+              }
+            },
+            {
+              "name": "WWII Air-Raid Shelter",
+              "tip_5lang": {
+                "de": "Die konstante Temperatur unter der Erde wirkt im Winter mild.",
+                "hu": "A föld alatti állandó hőmérséklet télen enyhének hat.",
+                "ro": "Temperatura constantă de sub pământ pare blândă iarna.",
+                "en": "The constant underground temperature feels mild in winter."
+              }
+            },
+            {
+              "name": "Ta' Bistra Catacombs",
+              "tip_5lang": {
+                "de": "Wenig Besucher im Winter ermöglichen eine ruhige Besichtigung.",
+                "hu": "A kevés téli látogató nyugodt megtekintést tesz lehetővé.",
+                "ro": "Puținii vizitatori de iarnă permit o vizionare liniștită.",
+                "en": "Few winter visitors allow for a very peaceful exploration."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Probieren Sie eine warme maltesische Suppe oder einen Imbiss.",
+                "hu": "Kóstoljon meg egy meleg máltai levest vagy helyi finomságot.",
+                "ro": "Gustați o supă malteză caldă sau o gustare locală.",
+                "en": "Try a warm Maltese soup or local snack to stay energized."
+              }
+            },
+            {
+              "name": "Speranza Chapel & Wied il-Għasel Valley",
+              "tip_5lang": {
+                "de": "Die Vegetation ist nach dem Regen grüner als im Sommer.",
+                "hu": "A növényzet az esők után zöldebb, mint a nyári hőségben.",
+                "ro": "Vegetația este mai verde după ploi decât în timpul verii.",
+                "en": "The vegetation is greener after the rains than in the summer."
+              }
+            },
+            {
+              "name": "Mosta Garden",
+              "tip_5lang": {
+                "de": "Beachten Sie den frühen Sonnenuntergang gegen 17 Uhr.",
+                "hu": "Ügyeljen a korai, 17 óra körüli naplementére.",
+                "ro": "Aveți în vedere apusul devreme, în jurul orei 17:00.",
+                "en": "Keep the early sunset around 17:00 in mind for your visit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Schichtenprinzip, da es im Schatten kühl sein kann.",
+              "Die Sonne geht früh unter (ca. 17:00 Uhr), planen Sie das Tal früher ein.",
+              "Die Landschaft ist im Winter viel grüner und lebendiger als im August.",
+              "Kirchen und Museen bieten guten Schutz vor kühlem Seewind."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert az árnyékban hűvös lehet a levegő.",
+              "A nap korán nyugszik (kb. 17:00), a völgyet tervezze korábbra.",
+              "A táj télen sokkal zöldebb és élettel telibb, mint augusztusban.",
+              "A templomok és múzeumok jó védelmet nyújtanak a hűvös tengeri szél ellen."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, deoarece la umbră poate fi răcoare.",
+              "Soarele apune devreme (aprox. 17:00), planificați valea mai devreme.",
+              "Peisajul este mult mai verde și plin de viață iarna decât în august.",
+              "Bisericile și muzeele oferă protecție bună împotriva vântului rece."
+            ],
+            "en": [
+              "Dress in layers as it can get chilly in the shade or when the wind picks up.",
+              "Sun sets early (around 17:00), so visit the valley before dusk.",
+              "The landscape is much greener and more vibrant in winter than in August.",
+              "Churches and museums provide good shelter from the cool sea breeze."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +924,206 @@
           "Some hills can be steep. An e-bike might be a good option.",
           "Always lock your bike when leaving it unattended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf Mostas Straßen. Starten Sie bei der Rotunda, wo Sie das Rad kurz trocken parken können. Die Fahrt zu den Katakomben und dem Tal führt über teils rutschigen Asphalt. Ein Stopp beim Fort Mosta bietet weite, wenn auch graue Ausblicke. Mittags wärmen Sie sich in einem Café auf, bevor die Tour vorsichtig im Garden endet.",
+            "hu": "Az esős bringázás óvatosságot igényel Mosta utcáin. Kezdjen a Rotundánál, ahol rövid időre szárazon parkolhat. A katakombákhoz és a völgyhöz vezető út néhol csúszós aszfalton visz. A Fort Mosta megálló szürke, de tágas kilátást nyújt. Ebédnél melegedjen fel egy kávézóban, mielőtt a túra óvatosan véget érne a kertben.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe străzile din Mosta. Începeți la Rotundă, unde puteți parca scurt la adăpost. Drumul spre catacombe și vale trece pe asfalt parțial alunecos. O oprire la Fort Mosta oferă vederi largi, deși gri. La prânz, încălziți-vă într-o cafenea înainte ca turul să se încheie cu atenție în grădină.",
+            "en": "Cycling in the rain requires extra caution on Mosta's streets. Start at the Rotunda, where you can park briefly under cover. The ride to the catacombs and valley involves some slippery asphalt. A stop at Fort Mosta offers wide, albeit grey, views. Warm up in a café at lunch before carefully finishing the tour at the garden."
+          },
+          "stops": [
+            {
+              "name": "Rotunda of Mosta",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad nah an den Mauern für einen trockenen Sitz.",
+                "hu": "Parkolja a bringát a falakhoz közel, hogy az ülés száraz maradjon.",
+                "ro": "Parcați bicicleta aproape de ziduri pentru a păstra șaua uscată.",
+                "en": "Park your bike close to the walls to keep the seat dry."
+              }
+            },
+            {
+              "name": "Ta' Bistra Catacombs",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Zufahrt, die Nebenstraßen können Pfützen haben.",
+                "hu": "Vigyázat a behajtásnál, a mellékutcákban tócsák lehetnek.",
+                "ro": "Atenție la acces, străzile secundare pot avea bălți.",
+                "en": "Caution on the approach, side streets may have deep puddles."
+              }
+            },
+            {
+              "name": "Speranza Chapel & Wied il-Għasel Valley",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, Bremswege verlängern sich auf nassem Fels.",
+                "hu": "Hajtson lassan, a fékút meghosszabbodik a nedves sziklán.",
+                "ro": "Conduceți încet, distanța de frânare crește pe stânca umedă.",
+                "en": "Ride slowly, braking distances increase on wet limestone."
+              }
+            },
+            {
+              "name": "Fort Mosta",
+              "tip_5lang": {
+                "de": "Exponierte Lage, der Wind kann den Regen hier peitschen.",
+                "hu": "Kitett helyszín, a szél itt erősen fújhatja az esőt.",
+                "ro": "Locație expusă, vântul poate biciui ploaia aici.",
+                "en": "Exposed location, wind can whip the rain here significantly."
+              }
+            },
+            {
+              "name": "Lunch at a local café",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz mit Sicht auf Ihr Rad im Regen.",
+                "hu": "Keressen olyan helyet, ahonnan látja a bringáját az esőben.",
+                "ro": "Căutați un loc cu vedere la bicicletă în timp ce plouă.",
+                "en": "Find a spot where you can keep an eye on your bike in the rain."
+              }
+            },
+            {
+              "name": "Cumbo Tower",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, bleiben Sie für besseren Halt auf dem Asphalt.",
+                "hu": "Rövid fotómegálló, a jobb tapadásért maradjon az aszfalton.",
+                "ro": "Oprire foto scurtă, rămâneți pe asfalt pentru o aderență mai bună.",
+                "en": "Short photo stop, stay on the asphalt for better grip."
+              }
+            },
+            {
+              "name": "Mosta Garden",
+              "tip_5lang": {
+                "de": "Glatte Wege im Park, schieben Sie das Rad bei starkem Regen.",
+                "hu": "Csúszós utak a parkban, erős esőben tolja a bringát.",
+                "ro": "Alei alunecoase în parc, împingeți bicicleta pe ploaie torențială.",
+                "en": "Slippery paths in the park, push your bike during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Vermeiden Sie Markierungen auf der Straße, diese sind extrem glatt.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt ins Wied il-Għasel Tal.",
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können."
+            ],
+            "hu": [
+              "Használjon sárvédőt, hogy megvédje magát a felcsapódó víztől.",
+              "Kerülje az útburkolati jeleket, mert azok rendkívül csúszósak.",
+              "Ellenőrizze a fékeket, mielőtt leereszkedik a Wied il-Għasel völgybe.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi pentru a vă proteja de stropi.",
+              "Evitați marcajele rutiere, acestea sunt extrem de alunecoase.",
+              "Verificați frânele înainte de a coborî în Valea Wied il-Għasel.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from road spray.",
+              "Avoid road markings as they become extremely slick when wet.",
+              "Check your brakes before descending into the Wied il-Għasel valley.",
+              "Avoid puddles as they can hide deep potholes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Mosta bietet klare Luft und milde Temperaturen. Die Rotunda glänzt in der tiefstehenden Sonne, während Sie zu den Ta' Bistra Katakomben rollen. Das Wied il-Għasel Tal zeigt sich im Winter von seiner grünsten Seite. Nach einem Abstecher zum windigen Fort Mosta lädt ein warmes Mittagessen zur Pause ein, bevor die Tour bei Cumbo Tower und im ruhigen Garten endet.",
+            "hu": "A téli bringázás Mostában tiszta levegőt és enyhe hőmérsékletet kínál. A Rotunda ragyog az alacsonyan járó napfényben, miközve a Ta' Bistra katakombák felé gurul. A Wied il-Għasel völgy télen a legzöldebb arcát mutatja. A szeles Fort Mosta után egy meleg ebéd hívogat pihenőre, mielőtt a túra a Cumbo toronynál és a csendes kertben véget érne.",
+            "ro": "Ciclismul de iarnă în Mosta oferă aer curat și temperaturi blânde. Rotunda strălucește în soarele de joasă altitudine în timp ce rulați spre catacombele Ta' Bistra. Valea Wied il-Għasel își arată cea mai verde față iarna. După o vizită la Fort Mosta, un prânz cald vă invită la odihnă înainte ca turul să se încheie la Turnul Cumbo și în grădina liniștită.",
+            "en": "Winter cycling in Mosta offers crisp air and mild temperatures. The Rotunda shines in the low sun as you roll towards the Ta' Bistra catacombs. The Wied il-Għasel valley shows its greenest side in winter. After a detour to the windy Fort Mosta, a warm lunch invites you for a break before the tour ends at Cumbo Tower and the quiet garden."
+          },
+          "stops": [
+            {
+              "name": "Rotunda of Mosta",
+              "tip_5lang": {
+                "de": "Sonnige Plätze am Platz nutzen, um vor der Fahrt Sonne zu tanken.",
+                "hu": "Használja ki a napos helyeket a téren, mielőtt elindulna.",
+                "ro": "Folosiți locurile însorite din piață pentru a vă încălzi înainte de drum.",
+                "en": "Enjoy the sunny spots in the square to warm up before the ride."
+              }
+            },
+            {
+              "name": "Ta' Bistra Catacombs",
+              "tip_5lang": {
+                "de": "Die Auffahrt hält Sie warm, im Inneren ist es windstill.",
+                "hu": "A felfelé menet melegen tartja, belül pedig szélcsend van.",
+                "ro": "Urcarea vă menține cald, iar în interior nu bate vântul.",
+                "en": "The ride uphill keeps you warm, and it's calm inside."
+              }
+            },
+            {
+              "name": "Speranza Chapel & Wied il-Għasel Valley",
+              "tip_5lang": {
+                "de": "Genießen Sie die frische, kühle Luft im grünen Tal.",
+                "hu": "Élvezze a friss, hűvös levegőt a zöldellő völgyben.",
+                "ro": "Bucurați-vă de aerul proaspăt și răcoros în valea verde.",
+                "en": "Enjoy the fresh, cool air in the verdant valley."
+              }
+            },
+            {
+              "name": "Fort Mosta",
+              "tip_5lang": {
+                "de": "Windjacke empfohlen, auf dem Hügel zieht es im Winter stark.",
+                "hu": "Széldzseki ajánlott, a dombtetőn télen erősen fúj a szél.",
+                "ro": "Se recomandă jachetă de vânt, pe deal bate vântul puternic iarna.",
+                "en": "Windbreaker recommended, the hilltop is very breezy in winter."
+              }
+            },
+            {
+              "name": "Lunch at a local café",
+              "tip_5lang": {
+                "de": "Suchen Sie ein sonniges Plätzchen hinter Glas für die Pause.",
+                "hu": "Keressen egy napos helyet az ablak mögött a pihenőhöz.",
+                "ro": "Căutați un loc însorit în spatele geamului pentru pauză.",
+                "en": "Look for a sunny spot behind glass for your lunch break."
+              }
+            },
+            {
+              "name": "Cumbo Tower",
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist ideal für Fotos des Turms.",
+                "hu": "A délutáni fények ideálisak a torony fotózásához.",
+                "ro": "Lumina de după-amiază este ideală pentru fotografii ale turnului.",
+                "en": "The afternoon light is ideal for taking photos of the tower."
+              }
+            },
+            {
+              "name": "Mosta Garden",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um die Tour vor dem frühen Abend zu beenden.",
+                "hu": "Csendes hely a túra befejezéséhez a kora este előtt.",
+                "ro": "Un loc liniștit pentru a încheia turul înainte de lăsarea serii.",
+                "en": "A quiet spot to wrap up your tour before the early evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe, der Fahrtwind kann im Winter beißen.",
+              "Planen Sie Ihre Route so, dass Sie vor 17:00 Uhr zurück sind.",
+              "Die Straßen sind im Winter oft sauberer (weniger Staub) als im Sommer.",
+              "Nutzen Sie die kühleren Stunden für die steileren Anstiege zum Fort."
+            ],
+            "hu": [
+              "Viseljen kesztyűt, a menetszél télen metsző lehet.",
+              "Úgy tervezze az útvonalat, hogy 17:00 előtt visszaérjen.",
+              "Az utak télen gyakran tisztábbak (kevesebb a por), mint nyáron.",
+              "Használja ki a hűvösebb időt a Fort felé vezető meredekebb emelkedőkhöz."
+            ],
+            "ro": [
+              "Purtați mănuși, vântul din timpul mersului poate fi tăios iarna.",
+              "Planificați ruta astfel încât să vă întoarceți înainte de ora 17:00.",
+              "Drumurile sunt adesea mai curate iarna (mai puțin praf) decât vara.",
+              "Folosiți orele mai răcoroase pentru urcările mai abrupte spre fort."
+            ],
+            "en": [
+              "Wear full-finger gloves, the headwind can be biting in winter.",
+              "Plan your route to be back before the sunset at 17:00.",
+              "Roads are often cleaner (less dust) in winter than in the dry summer.",
+              "Take advantage of the cooler air for the steeper climbs to the Fort."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1074,6 +1456,170 @@
           "Use a GPS app for navigation.",
           "Be aware of one-way streets in the town centre."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Mosta auch bei Regen bequem zu erkunden. Parken Sie nahe der Rotunda für einen trockenen Start. Die Fahrt zum WWII-Schutzraum und den Ta' Bistra Katakomben bietet Schutz vor den Schauern. Mittags erreichen Sie das Fort Mosta und Wied il-Għasel, wo Sie die Aussicht teils aus dem Wagen genießen können, bevor der Tag im Mosta Garden entspannt ausklingt.",
+            "hu": "Autóval Mosta esőben is kényelmesen felfedezhető. Parkoljon a Rotunda közelében a száraz kezdéshez. A II. világháborús óvóhely és a Ta' Bistra katakombák felé vezető út védelmet nyújt a záporoktól. Délben érje el Fort Mostát és Wied il-Għaselt, ahol a kilátást részben a kocsiból is élvezheti, mielőtt a nap a Mosta Gardenben érne véget.",
+            "ro": "Cu mașina, Mosta poate fi explorată confortabil chiar și pe ploaie. Parcați aproape de Rotundă pentru un început uscat. Drumul spre adăpostul din al Doilea Război Mondial și catacombele Ta' Bistra vă protejează de ploaie. La prânz, ajungeți la Fort Mosta și Wied il-Għasel, unde puteți admira vederea parțial din mașină, înainte ca ziua să se încheie în Grădina Mosta.",
+            "en": "By car, Mosta is easy to explore even in the rain. Park near the Rotunda for a dry start. The drive to the WWII shelter and Ta' Bistra catacombs keeps you away from the showers. At noon, reach Fort Mosta and Wied il-Għasel, where you can enjoy the views partly from the car before the day ends at Mosta Garden."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Mosta Historic Centre",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus oder nahe dem Zentrum, um Pfützen zu meiden.",
+                "hu": "Parkoljon parkolóházban vagy a központ közelében a tócsák elkerülésére.",
+                "ro": "Parcați într-o parcare sau aproape de centru pentru a evita bălțile.",
+                "en": "Park in a garage or near the centre to avoid the biggest puddles."
+              }
+            },
+            {
+              "name": "WWII Air-Raid Shelter",
+              "tip_5lang": {
+                "de": "Kurzer Weg vom Auto zum Eingang, ideal bei Regen.",
+                "hu": "Rövid út az autótól a bejáratig, ideális esőben.",
+                "ro": "Drum scurt de la mașină la intrare, ideal pe ploaie.",
+                "en": "Very short walk from the car to the entrance, ideal for rain."
+              }
+            },
+            {
+              "name": "Ta' Bistra Catacombs",
+              "tip_5lang": {
+                "de": "Parkplätze direkt am Standort ermöglichen trockenen Zugang.",
+                "hu": "A közvetlen parkolóhelyek száraz bejutást tesznek lehetővé.",
+                "ro": "Locurile de parcare direct la locație permit accesul uscat.",
+                "en": "Parking spots right at the site allow for a dry entry."
+              }
+            },
+            {
+              "name": "Cluster 2: Wied il-Għasel & Fort Mosta",
+              "tip_5lang": {
+                "de": "Vorsicht bei schmalen Wegen, das Wasser steht hier oft tief.",
+                "hu": "Vigyázat a szűk utakon, a víz itt gyakran megáll.",
+                "ro": "Atenție pe drumurile înguste, apa poate fi adâncă aici.",
+                "en": "Caution on narrow roads, water often collects in deep pools here."
+              }
+            },
+            {
+              "name": "Wind-down at Mosta Garden",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz nah am Ausgang für ein schnelles Ende.",
+                "hu": "Keressen parkolót a kijárat közelében a gyors befejezéshez.",
+                "ro": "Căutați un loc de parcare aproape de ieșire pentru final.",
+                "en": "Look for a parking spot near the exit for a quick departure."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf tiefes Wasser in Senken, maltesische Straßen fluten schnell.",
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben.",
+              "Die Rotunda bietet den besten Innenraum-Stopp bei Starkregen.",
+              "Halten Sie Abstände ein, Bremswege auf nassem Teer sind länger."
+            ],
+            "hu": [
+              "Ügyeljen a mély vízre az úthajlatokban, a máltai utak gyorsan áradnak.",
+              "Használja a légkondicionálót a szélvédő párátlanítására.",
+              "A Rotunda kínálja a legjobb fedett megállót heves esőzéskor.",
+              "Tartson követési távolságot, a fékút hosszabb a nedves aszfalton."
+            ],
+            "ro": [
+              "Atenție la apa adâncă în depresiuni, străzile malteze se inundă rapid.",
+              "Folosiți aerul condiționat pentru a dezaburi parbrizul.",
+              "Rotunda oferă cea mai bună oprire în interior în caz de ploaie torențială.",
+              "Păstrați distanța, spațiul de frânare pe asfalt ud este mai mare."
+            ],
+            "en": [
+              "Watch out for deep water in dips, Maltese roads flood very quickly.",
+              "Use the air conditioning to keep the windows from fogging up.",
+              "The Rotunda is your best indoor sanctuary during heavy downpours.",
+              "Increase following distance as wet tarmac is very slick in Malta."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Mosta im Winter entspannt mit dem Auto bei klarer Sicht. Beginnen Sie im historischen Zentrum bei der Rotunda, bevor Sie zu den Unterständen und Katakomben fahren. Das milde Wetter ist ideal für die Fahrt zum Wied il-Għasel und Fort Mosta, wo die Landschaft nun in sattem Grün erstrahlt. Beenden Sie die Tour im ruhigen Mosta Garden, bevor die kühle Abendluft einsetzt.",
+            "hu": "Fedezze fel Mostát télen autóval, élvezve a tiszta látási viszonyokat. Kezdjen a történelmi központban a Rotundánál, majd hajtson az óvóhelyekhez és katakombákhoz. Az enyhe idő ideális a Wied il-Għasel és Fort Mosta felé, ahol a táj most üde zöldben pompázik. Zárja a túrát a csendes Mosta Gardenben, mielőtt beállna a hűvös esti levegő.",
+            "ro": "Explorați Mosta iarna cu mașina, bucurându-vă de vizibilitatea clară. Începeți în centrul istoric la Rotundă, apoi conduceți spre adăposturi și catacombe. Vremea blândă este ideală pentru drumul spre Wied il-Għasel și Fort Mosta, unde peisajul este acum de un verde crud. Încheiați turul în Grădina Mosta, înainte de lăsarea aerului rece de seară.",
+            "en": "Explore Mosta in winter by car, enjoying the clear visibility and mild air. Start in the historic centre at the Rotunda before driving to the shelters and catacombs. The mild weather is ideal for the trip to Wied il-Għasel and Fort Mosta, where the landscape is now lush and green. Finish your tour at Mosta Garden before the cool evening air sets in."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Mosta Historic Centre",
+              "tip_5lang": {
+                "de": "Weniger Verkehr im Winter erleichtert die Parkplatzsuche.",
+                "hu": "A kevesebb téli forgalom megkönnyíti a parkolóhely-keresést.",
+                "ro": "Traficul redus iarna ușurează găsirea unui loc de parcare.",
+                "en": "Reduced winter traffic makes finding a parking spot much easier."
+              }
+            },
+            {
+              "name": "WWII Air-Raid Shelter",
+              "tip_5lang": {
+                "de": "Guter Stopp, um der kühlen Brise kurz zu entkommen.",
+                "hu": "Jó megálló, hogy rövid időre elmeneküljön a hűvös szél elől.",
+                "ro": "Oprire bună pentru a scăpa scurt de briza răcoroasă.",
+                "en": "Good stop to briefly escape the cool winter breeze."
+              }
+            },
+            {
+              "name": "Ta' Bistra Catacombs",
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos der Anlage.",
+                "hu": "Használja ki a tiszta téli fényt a terület fotózásához.",
+                "ro": "Folosiți lumina clară de iarnă pentru fotografii ale sitului.",
+                "en": "Take advantage of the clear winter light for site photos."
+              }
+            },
+            {
+              "name": "Cluster 2: Wied il-Għasel & Fort Mosta",
+              "tip_5lang": {
+                "de": "Die grünen Hügel sind im Winter ein echtes Highlight der Fahrt.",
+                "hu": "A zöldellő dombok télen az autózás igazi fénypontjai.",
+                "ro": "Dealurile verzi sunt un punct culminant al drumului iarna.",
+                "en": "The green hills are a true highlight of the drive in winter."
+              }
+            },
+            {
+              "name": "Wind-down at Mosta Garden",
+              "tip_5lang": {
+                "de": "Ideal am späten Nachmittag, bevor es um 17 Uhr dunkel wird.",
+                "hu": "Ideális késő délután, mielőtt 17 órakor besötétedik.",
+                "ro": "Ideal după-amiaza târziu, înainte de a se întuneca la ora 17:00.",
+                "en": "Ideal in the late afternoon before it gets dark at 17:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkplatzsituation ist im Winter entspannter als im Sommer.",
+              "Planen Sie Besuche im Freien vor dem Sonnenuntergang um 17:00 Uhr.",
+              "Nutzen Sie die Heizung, wenn der kühle Seewind auffrischt.",
+              "Das grüne Wied il-Għasel Tal ist im Winter fotogener."
+            ],
+            "hu": [
+              "A parkolási helyzet télen sokkal nyugodtabb, mint nyáron.",
+              "A kültéri látogatásokat a 17:00-s naplemente elé időzítse.",
+              "Használja a fűtést, ha feltámad a hűvös tengeri szél.",
+              "A zöldellő Wied il-Għasel völgy télen sokkal fotogénebb."
+            ],
+            "ro": [
+              "Situația parcărilor este mult mai relaxată iarna decât vara.",
+              "Planificați vizitele în aer liber înainte de apusul de la ora 17:00.",
+              "Folosiți încălzirea dacă briza mării devine prea rece.",
+              "Valea verde Wied il-Għasel este mult mai fotogenică iarna."
+            ],
+            "en": [
+              "The parking situation is much more relaxed in winter than in summer.",
+              "Plan your outdoor visits before the early sunset at 17:00.",
+              "Use the heater if the cool sea breeze starts to feel too chilly.",
+              "The green Wied il-Għasel valley is much more photogenic in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1406,6 +1952,170 @@
           "Buses can be crowded during peak hours, so allow extra time.",
           "Wave at the bus driver to signal for them to stop for you."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mostas Zentrum ist gut mit Bussen erreichbar, auch bei Regen. Starten Sie bei der Rotunda, die direkt bei den Haltestellen liegt. Der WWII-Schutzraum und die Katakomben sind kurze Wege von den Busstopps entfernt und bieten trockenen Unterschlupf. Mittags erkunden Sie das Wied il-Għasel Tal, bevor Sie mit dem Bus zurück zum Garten und Zentrum fahren, um den Tag gemütlich zu beenden.",
+            "hu": "Mosta központja esőben is jól elérhető busszal. Kezdjen a Rotundánál, amely közvetlenül a megállók mellett található. A II. világháborús óvóhely és a katakombák rövid sétára vannak a busztól, és száraz menedéket nyújtanak. Délben fedezze fel a Wied il-Għasel völgyet, majd busszal térjen vissza a kerthez és a központhoz a nap lezárásaként.",
+            "ro": "Centrul din Mosta este ușor accesibil cu autobuzul chiar și pe ploaie. Începeți la Rotundă, care este chiar lângă stații. Adăpostul și catacombele sunt la scurtă distanță de mers pe jos, oferind refugiu uscat. La prânz, explorați Valea Wied il-Għasel, apoi reveniți cu autobuzul la grădină și în centru pentru a încheia ziua.",
+            "en": "Mosta's centre is well-connected by bus, even in the rain. Start at the Rotunda, which is located right by the main stops. The WWII shelter and catacombs are short walks from the bus, providing dry shelter. At noon, explore the Wied il-Għasel valley before taking the bus back to the garden and centre to wrap up the day comfortably."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival & Mosta Centre",
+              "tip_5lang": {
+                "de": "Warten Sie unter den Vordächern der Geschäfte nahe der Haltestelle.",
+                "hu": "Várjon a megálló közeli üzletek előtetői alatt.",
+                "ro": "Așteptați sub copertinele magazinelor de lângă stație.",
+                "en": "Wait under the shop awnings near the bus stop to stay dry."
+              }
+            },
+            {
+              "name": "WWII Air-Raid Shelter",
+              "tip_5lang": {
+                "de": "Ideal, um eine Regenpause trocken zu verbringen.",
+                "hu": "Ideális helyszín az esőszünet száraz eltöltéséhez.",
+                "ro": "Ideal pentru a petrece o pauză de ploaie la adăpost.",
+                "en": "Ideal location to spend a rain break while staying dry."
+              }
+            },
+            {
+              "name": "Cluster 2: Ta' Bistra & Lunch",
+              "tip_5lang": {
+                "de": "Einige Bushaltestellen hier haben leider keine Überdachung.",
+                "hu": "Néhány itteni buszmegállónak sajnos nincs fedele.",
+                "ro": "Unele stații de autobuz de aici nu au, din păcate, acoperiș.",
+                "en": "Some bus stops in this area unfortunately lack shelters."
+              }
+            },
+            {
+              "name": "Cluster 3: Wied il-Għasel Valley",
+              "tip_5lang": {
+                "de": "Kalksteinpfade zum Tal werden bei Nässe sehr rutschig.",
+                "hu": "A völgybe vezető mészkő ösvények nedvesen nagyon csúszósak.",
+                "ro": "Potecile de calcar spre vale devin foarte alunecoase la umezeală.",
+                "en": "Limestone paths to the valley become very slick when wet."
+              }
+            },
+            {
+              "name": "Return to Centre & Gardens",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Echtzeit-App, um Wartezeiten im Regen zu minimieren.",
+                "hu": "Használja az élő alkalmazást, hogy minimálisat várjon az esőben.",
+                "ro": "Folosiți aplicația live pentru a reduce timpul de așteptare în ploaie.",
+                "en": "Use the real-time app to minimize waiting in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Tallinja-App zeigt Busse in Echtzeit an – warten Sie drinnen.",
+              "Haltestellen im Zentrum von Mosta bieten oft guten Wetterschutz.",
+              "Ein Regenschirm ist beim Umsteigen unverzichtbar.",
+              "Busse können bei starkem Regen aufgrund von Flutungen verspätet sein."
+            ],
+            "hu": [
+              "A Tallinja app valós időben mutatja a buszokat – várjon fedett helyen.",
+              "Mosta központi megállói gyakran jó védelmet nyújtanak az időjárás ellen.",
+              "Az átszállásoknál elengedhetetlen egy esernyő.",
+              "Heves esőzéskor a buszok késhetnek az utakon álló víz miatt."
+            ],
+            "ro": [
+              "Aplicația Tallinja arată autobuzele în timp real – așteptați la adăpost.",
+              "Stațiile centrale din Mosta oferă adesea protecție bună.",
+              "O umbrelă este indispensabilă la schimbarea autobuzelor.",
+              "Autobuzele pot întârzia în caz de ploaie torențială din cauza inundațiilor."
+            ],
+            "en": [
+              "Use the Tallinja app for real-time tracking to wait indoors.",
+              "Mosta's central bus stops often provide decent weather protection.",
+              "An umbrella is essential for the walks between stops.",
+              "Buses may be delayed during heavy rain due to localized flooding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter sind die Busse in Mosta weniger überfüllt und angenehm temperiert. Starten Sie im Zentrum bei der Rotunda und nutzen Sie die kurzen Wege zu den Schutzräumen. Eine Busfahrt bringt Sie zum Ta' Bistra Bereich für Katakomben und Lunch. Nachmittags erkunden Sie das Wied il-Għasel Tal in der milden Winterluft, bevor Sie mit dem Bus zum Garden zurückkehren, pünktlich zum frühen Sonnenuntergang.",
+            "hu": "Télen a mostai buszok kevésbé zsúfoltak és kellemes hőmérsékletűek. Kezdjen a központban a Rotundánál, kihasználva a közeli óvóhelyeket. Busszal menjen a Ta' Bistra környékére katakombákért és ebédért. Délután fedezze fel a Wied il-Għasel völgyet az enyhe téli levegőben, majd térjen vissza busszal a kerthez a korai naplemente előtt.",
+            "ro": "Iarna, autobuzele din Mosta sunt mai puțin aglomerate și au o temperatură plăcută. Începeți în centru la Rotundă, profitând de adăposturile din apropiere. Mergeți cu autobuzul în zona Ta' Bistra pentru catacombe și prânz. După-amiaza, explorați Valea Wied il-Għasel în aerul blând de iarnă, apoi reveniți cu autobuzul la grădină înainte de apus.",
+            "en": "In winter, buses in Mosta are less crowded and comfortably tempered. Start in the centre at the Rotunda, making use of the nearby shelters. Take a bus to the Ta' Bistra area for catacombs and lunch. In the afternoon, explore the Wied il-Għasel valley in the mild winter air before returning by bus to the garden just in time for the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival & Mosta Centre",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter seltener überhitzt als im Sommer.",
+                "hu": "A buszok télen ritkábban vannak túlmelegedve, mint nyáron.",
+                "ro": "Autobuzele sunt mai rar supraîncălzite iarna decât vara.",
+                "en": "Buses are less likely to be overheated in winter than in summer."
+              }
+            },
+            {
+              "name": "WWII Air-Raid Shelter",
+              "tip_5lang": {
+                "de": "Innentemperaturen sind im Winter oft wärmer als draußen.",
+                "hu": "A benti hőmérséklet télen gyakran melegebb, mint kint.",
+                "ro": "Temperatura interioară este adesea mai mare decât afară iarna.",
+                "en": "Indoor temperatures are often warmer than outside in winter."
+              }
+            },
+            {
+              "name": "Cluster 2: Ta' Bistra & Lunch",
+              "tip_5lang": {
+                "de": "Genießen Sie den Spaziergang vom Bus zum Restaurant in der kühlen Luft.",
+                "hu": "Élvezze a sétát a busztól az étteremig a hűvös levegőben.",
+                "ro": "Bucurați-vă de plimbarea de la autobuz la restaurant în aerul răcoros.",
+                "en": "Enjoy the short walk from the bus to the restaurant in the fresh air."
+              }
+            },
+            {
+              "name": "Cluster 3: Wied il-Għasel Valley",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt zum Bus vor der Dämmerung um 17 Uhr.",
+                "hu": "A buszhoz való visszatérést tervezze a 17 órás szürkület elé.",
+                "ro": "Planificați întoarcerea la autobuz înainte de amurgul de la ora 17:00.",
+                "en": "Plan your return to the bus stop before dusk at 17:00."
+              }
+            },
+            {
+              "name": "Return to Centre & Gardens",
+              "tip_5lang": {
+                "de": "Die Abendbrise an der Haltestelle kann im Winter kühl sein.",
+                "hu": "Az esti szél a megállóban télen hűvös lehet.",
+                "ro": "Briza de seară în stație poate fi rece iarna.",
+                "en": "The evening breeze at the bus stop can be quite chilly in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne sind meist identisch mit den Sommerplänen.",
+              "Nutzen Sie die kühleren Temperaturen für Besichtigungen zu Fuß.",
+              "Die Sonne geht gegen 17:00 Uhr unter, danach wird es schnell kühler.",
+              "Kaufen Sie eine Tallinja-Karte für bequemeres Umsteigen."
+            ],
+            "hu": [
+              "A téli menetrendek általában megegyeznek a nyáriakkal.",
+              "Használja ki a hűvösebb időt a gyalogos városnézéshez.",
+              "A nap 17:00 körül nyugszik, utána gyorsan lehűl a levegő.",
+              "Vásároljon Tallinja kártyát a kényelmesebb átszálláshoz."
+            ],
+            "ro": [
+              "Orarele de iarnă sunt în mare parte identice cu cele de vară.",
+              "Folosiți temperaturile mai scăzute pentru vizitarea obiectivelor la pas.",
+              "Soarele apune în jurul orei 17:00, după care se răcește rapid.",
+              "Cumpărați un card Tallinja pentru o transbordare mai ușoară."
+            ],
+            "en": [
+              "Winter bus schedules are mostly identical to summer ones.",
+              "Take advantage of the cooler temperatures for walking between stops.",
+              "Sun sets around 17:00, and it gets chilly quickly afterwards.",
+              "Get a Tallinja card for more convenient transfers between routes."
+            ]
+          }
+        }
       }
     }
   }

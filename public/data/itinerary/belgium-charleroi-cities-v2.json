@@ -326,6 +326,196 @@
           "Lots of street art is hidden in the side streets.",
           "Look out for the comic strip murals around the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Place Charles II, wo das Rathaus Schutz bietet. Besuchen Sie die St.-Christoph-Kirche mit ihren Mosaiken, um dem Regen zu entkommen. Der Nachmittag im BPS22 bietet zeitgenössische Kunst in einer trockenen Industriehalle. Ein regnerischer Spaziergang an der Sambre zeigt den rauen, industriellen Charme der Stadt, bevor der Park den Tag ruhig abschließt.",
+            "hu": "Kezdje a napot a Károly téren, ahol a Városháza árkádjai védelmet nyújtanak. A Szent Kristóf-templom mozaikjai alatt szárazon maradhat délben. Délután a BPS22 művészeti csarnoka tökéletes menedék a zord idő elől. A Sambre partján tett esernyős séta kiemeli a város ipari romantikáját, majd a Queen Astrid park csendje zárja a napot.",
+            "ro": "Începeți în Place Charles II, unde primăria oferă adăpost. Vizitați Biserica Sf. Cristofor pentru a admira mozaicurile și a scăpa de ploaie. După-amiaza la BPS22 oferă artă contemporană într-un spațiu industrial protejat. O plimbare cu umbrela pe malul Sambre dezvăluie farmecul brutalist al orașului sub cerul gri, încheind ziua în parcul liniștit.",
+            "en": "Start at Charles II Square, using the City Hall arcades for cover. Seek refuge in Saint Christopher's Church to admire the mosaics. The afternoon is best spent inside the BPS22 Art Museum's industrial halls. A rainy stroll along the Sambre highlights the city's raw industrial character, finishing with a damp but peaceful walk through Queen Astrid Park."
+          },
+          "stops": [
+            {
+              "name": "Charles II Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Rathauses als Unterstand bei schweren Schauern.",
+                "hu": "Használja a Városháza árkádjait menedékként a hevesebb záporok idején.",
+                "ro": "Folosiți arcadele primăriei ca adăpost în timpul averselor puternice.",
+                "en": "Use the City Hall arcades as a quick shelter during heavy downpours."
+              }
+            },
+            {
+              "name": "City Hall (Hôtel de Ville)",
+              "tip_5lang": {
+                "de": "Der Glockenturm ist bei Regen oft wolkenverhangen, der Innenraum bleibt trocken.",
+                "hu": "A harangtorony esőben gyakran ködbe vész, a belső terek viszont szárazak.",
+                "ro": "Turnul cu clopotniță este adesea în nori pe ploaie; interiorul rămâne uscat.",
+                "en": "The belfry is often shrouded in mist during rain; focus on the dry interior."
+              }
+            },
+            {
+              "name": "Saint Christopher's Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie das riesige Goldmosaik, während draußen der Regen prasselt.",
+                "hu": "Csodálja meg a hatalmas aranymozaikot, miközben kint dobol az eső.",
+                "ro": "Admirați mozaicul auriu uriaș în timp ce ploaia bate în geamuri afară.",
+                "en": "Admire the massive gold mosaic while the rain patters outside."
+              }
+            },
+            {
+              "name": "BPS22 Art Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort für lange Regenstunden; das Glasdach sorgt für dramatisches Licht.",
+                "hu": "Ideális hely a hosszú esős órákra; az üvegtető drámai fényt ad a térnek.",
+                "ro": "Loc ideal pentru orele ploioase; acoperișul de sticlă oferă o lumină dramatică.",
+                "en": "Ideal spot for long rainy hours; the glass roof provides dramatic lighting."
+              }
+            },
+            {
+              "name": "Banks of the Sambre River",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen auf dem Treidelpfad; die Industriekulisse wirkt bei Regen mystisch.",
+                "hu": "Vigyázzon a tócsákra a rakparton; az ipari táj esőben misztikus látványt nyújt.",
+                "ro": "Atenție la bălți pe mal; peisajul industrial arată mistic pe ploaie.",
+                "en": "Watch out for puddles on the towpath; the industrial backdrop looks mystic in the rain."
+              }
+            },
+            {
+              "name": "Queen Astrid Park",
+              "tip_5lang": {
+                "de": "Die dichten Bäume bieten etwas Schutz, aber wasserfeste Schuhe sind Pflicht.",
+                "hu": "A sűrű lombok némi védelmet adnak, de a vízálló cipő elengedhetetlen.",
+                "ro": "Copacii deși oferă puțină protecție, dar încălțămintea impermeabilă este obligatorie.",
+                "en": "Dense trees offer some cover, but waterproof shoes are a must."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke, da der Wind in den Schluchten von Charleroi böig sein kann.",
+              "Nutzen Sie die Passage de la Bourse für trockene Shopping-Pausen.",
+              "Die Metrostationen im Zentrum sind gut verbunden und bieten trockene Wege.",
+              "Viele Cafés rund um die Rive Gauche bieten gemütliche Zuflucht.",
+              "Achten Sie auf rutschige Pflastersteine in der Oberstadt."
+            ],
+            "hu": [
+              "Viseljen minőségi esőkabátot, mert a szél Charleroi utcáin felerősödhet.",
+              "Használja a Passage de la Bourse-t száraz bevásárló szünetekhez.",
+              "A belvárosi metróállomások jó összeköttetést és száraz útvonalakat kínálnak.",
+              "A Rive Gauche környékén számos kávézó kínál meghitt menedéket.",
+              "Vigyázzon a csúszós macskakövekre a felsővárosban."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie de calitate, vântul poate fi puternic pe străzile din Charleroi.",
+              "Folosiți Passage de la Bourse pentru pauze de cumpărături la adăpost.",
+              "Stațiile de metrou din centru sunt bine conectate și oferă căi uscate.",
+              "Multe cafenele din jurul Rive Gauche oferă refugiu primitor.",
+              "Atenție la pavajul alunecos din orașul de sus."
+            ],
+            "en": [
+              "Wear a high-quality raincoat, as wind can gust through Charleroi's urban canyons.",
+              "Utilize the Passage de la Bourse for dry shopping breaks.",
+              "Central metro stations are well-connected and offer dry transit paths.",
+              "Many cafes around Rive Gauche provide cozy refuge from the weather.",
+              "Be careful of slippery cobblestones in the upper town."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die frostige Morgenluft am Place Charles II, beleuchtet von Winterlichtern. Das Rathaus und die Kirche bieten warme Momente der Stille. Mittags lockt das BPS22 mit moderner Kunst in beheizten Industriehallen. Ein kurzer Gang an der Sambre bei Dämmerung zeigt das raue Wintergesicht Belgiens, bevor der beleuchtete Park den Tag beendet.",
+            "hu": "Élje át a fagyos reggelt a Károly téren, téli fényekkel megvilágítva. A Városháza és a templom csendes, meleg pillanatokat kínál. Délben a BPS22 fűtött csarnokai várják a modern művészet kedvelőit. A Sambre partján tett rövid séta a szürkületben megmutatja Belgium zord téli arcát, végül a kivilágított park zárja a napot.",
+            "ro": "Experimentați aerul înghețat al dimineții în Place Charles II, iluminată de lumini de iarnă. Primăria și biserica oferă momente calde de liniște. La prânz, BPS22 atrage cu artă modernă în hale industriale încălzite. O scurtă plimbare pe Sambre la amurg arată fața aspră a iernii belgiene, încheind ziua în parcul luminat.",
+            "en": "Experience the frosty morning air at Charles II Square, lit by winter decorations. The City Hall and Church offer warm moments of silence. At midday, BPS22 invites you with modern art in heated industrial halls. A short walk along the Sambre at dusk reveals Belgium's raw winter face, finishing in the festively lit Queen Astrid Park."
+          },
+          "stops": [
+            {
+              "name": "Charles II Square",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Beleuchtung; morgens kann es hier sehr zugig sein.",
+                "hu": "Élvezze a téli kivilágítást; reggelente itt nagyon huzatos lehet az idő.",
+                "ro": "Bucurați-vă de iluminatul de iarnă; dimineața poate fi mult curent aici.",
+                "en": "Enjoy the winter lighting; it can be quite drafty here in the mornings."
+              }
+            },
+            {
+              "name": "City Hall (Hôtel de Ville)",
+              "tip_5lang": {
+                "de": "Das warme Foyer des Rathauses ist ein guter Ort, um kurz aufzutauen.",
+                "hu": "A Városháza meleg előcsarnoka kiváló hely egy rövid felmelegedéshez.",
+                "ro": "Foaierul cald al primăriei este un loc bun pentru o scurtă încălzire.",
+                "en": "The warm foyer of the City Hall is a good place to thaw out briefly."
+              }
+            },
+            {
+              "name": "Saint Christopher's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die andächtige Stille und die relative Wärme des Kirchenschiffs.",
+                "hu": "Használja ki az áhítatos csendet és a templomhajó viszonylagos melegét.",
+                "ro": "Profitați de liniștea solemnă și de căldura relativă a naosului.",
+                "en": "Take advantage of the solemn silence and relative warmth of the nave."
+              }
+            },
+            {
+              "name": "BPS22 Art Museum",
+              "tip_5lang": {
+                "de": "Die Cafeteria bietet heißen Kakao, ideal zum Aufwärmen nach dem Fußweg.",
+                "hu": "A kávézó forró kakaót kínál, ideális a gyaloglás utáni felmelegedéshez.",
+                "ro": "Cafeneaua oferă ciocolată caldă, ideală pentru încălzire după mersul pe jos.",
+                "en": "The cafeteria offers hot cocoa, ideal for warming up after the walk."
+              }
+            },
+            {
+              "name": "Banks of the Sambre River",
+              "tip_5lang": {
+                "de": "Die Sonne geht früh unter (ca. 16:30); das Licht am Wasser ist dann besonders klar.",
+                "hu": "A nap korán nyugszik (kb. 16:30); a víz feletti fény ilyenkor különösen tiszta.",
+                "ro": "Soarele apune devreme (cca. 16:30); lumina de pe apă este deosebit de clară.",
+                "en": "The sun sets early (approx. 16:30); the light over the water is especially clear then."
+              }
+            },
+            {
+              "name": "Queen Astrid Park",
+              "tip_5lang": {
+                "de": "Der Park schließt bei Dunkelheit; genießen Sie die winterliche Einsamkeit.",
+                "hu": "A park sötétedéskor bezár; élvezze a téli magányos sétát.",
+                "ro": "Parcul se închide la lăsarea întunericului; bucurați-vă de singurătatea iernii.",
+                "en": "The park closes at dark; enjoy the wintry solitude before it shuts."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung: draußen frostig, in Museen oft sehr warm.",
+              "Sonnenuntergang ist gegen 16:30, planen Sie Ihre Außenaktivitäten davor.",
+              "Ein Thermobecher mit heißem Tee ist auf den windigen Straßen Gold wert.",
+              "Besuchen Sie den kleinen Weihnachtsmarkt, falls verfügbar.",
+              "Die Metro-Stationen bieten windgeschützte Wartebereiche."
+            ],
+            "hu": [
+              "Réteges öltözködés javasolt: kint fagyos, a múzeumokban gyakran nagyon meleg van.",
+              "A naplemente 16:30 körül van, tervezze a kinti programokat ez elé.",
+              "Egy termosz forró tea aranyat ér a szeles utcákon.",
+              "Látogassa meg a kis karácsonyi vásárt, ha épp tart.",
+              "A metróállomások szélvédett várakozóhelyeket biztosítanak."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi: ger afară, adesea foarte cald în muzee.",
+              "Apusul este în jur de 16:30, planificați activitățile exterioare înainte.",
+              "Un termos cu ceai fierbinte valorează aur pe străzile vântoase.",
+              "Vizitați micul târg de Crăciun dacă este disponibil.",
+              "Stațiile de metrou oferă zone de așteptare protejate de vânt."
+            ],
+            "en": [
+              "Layer your clothing: frosty outside, often very warm inside museums.",
+              "Sunset is around 16:30, plan your outdoor activities before then.",
+              "A thermos with hot tea is worth gold on the windy streets.",
+              "Visit the small Christmas market if available during your visit.",
+              "Metro stations provide wind-sheltered waiting areas."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -622,6 +812,178 @@
           "The city is hillier than it looks.",
           "Use the RAVeL network for longer, safer rides."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotzen Sie dem Regen auf dem Weg zum Place Charles II. Die Fahrt entlang der Sambre ist bei Nässe eine Herausforderung, aber die Aussicht auf die Industrieanlagen ist gewaltig. Verbringen Sie ausgiebige Pausen im Fotomuseum und BPS22, um trocken zu bleiben. Der Tag endet mit einer schnellen Fahrt durch den feuchten Queen Astrid Park.",
+            "hu": "Dacoljon az esővel a Károly tér felé vezető úton. A Sambre menti tekerés esőben kihívás, de az ipari létesítmények látványa lenyűgöző. Tartson hosszabb szüneteket a Fotómúzeumban és a BPS22-ben, hogy száraz maradjon. A nap a nedves Queen Astrid parkon át vezető gyors tekeréssel zárul.",
+            "ro": "Înfruntați ploaia spre Place Charles II. Mersul pe bicicletă de-a lungul Sambre este o provocare pe carosabil ud, dar priveliștea instalațiilor industriale este impresionantă. Petreceți pauze lungi la Muzeul de Fotografie și BPS22 pentru a rămâne uscați. Ziua se încheie cu o tură rapidă prin parcul Queen Astrid umed.",
+            "en": "Brave the rain on your way to Charles II Square. Cycling along the Sambre is a challenge in the wet, but the industrial views are powerful. Spend long breaks at the Photography Museum and BPS22 to stay dry. The day ends with a quick ride through the damp Queen Astrid Park."
+          },
+          "stops": [
+            {
+              "name": "Charles II Square",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster; bremsen Sie frühzeitig.",
+                "hu": "Vigyázzon a nedves macskaköveken; fékezzen időben.",
+                "ro": "Atenție la pavajul ud; frânați din timp.",
+                "en": "Be careful on the wet cobblestones; brake early."
+              }
+            },
+            {
+              "name": "Along the Sambre",
+              "tip_5lang": {
+                "de": "Der Radweg kann rutschig sein; achten Sie auf tief hängende Wolken über den Kränen.",
+                "hu": "A kerékpárút csúszós lehet; ügyeljen a daruk felett lógó alacsony felhőkre.",
+                "ro": "Pista de biciclete poate fi alunecoasă; atenție la norii joși de deasupra macaralelor.",
+                "en": "The bike path can be slippery; watch for low-hanging clouds over the cranes."
+              }
+            },
+            {
+              "name": "Museum of Photography",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradständer vorhanden; nutzen Sie die Zeit für eine trockene Pause.",
+                "hu": "Biztonságos kerékpártároló van; használja ki az időt egy száraz pihenőre.",
+                "ro": "Suport de biciclete sigur disponibil; folosiți timpul pentru o pauză uscată.",
+                "en": "Secure bike parking available; use the time for a dry break inside."
+              }
+            },
+            {
+              "name": "BPS22 Art Museum",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihre Ausrüstung im Foyer, bevor Sie die Ausstellungen besuchen.",
+                "hu": "Szárítsa meg felszerelését az előtérben, mielőtt megnézi a kiállításokat.",
+                "ro": "Uscați-vă echipamentul în foaier înainte de a vizita expozițiile.",
+                "en": "Dry your gear in the foyer before heading into the exhibitions."
+              }
+            },
+            {
+              "name": "Queen Astrid Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Kurven auf dem nassen Laub der Parkwege.",
+                "hu": "Kerülje az éles kanyarokat a parki utak nedves levelein.",
+                "ro": "Evitați virajele strânse pe frunzele ude de pe aleile parcului.",
+                "en": "Avoid sharp turns on the wet leaves along the park paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Charlerois Industriegrund unerlässlich.",
+              "Vermeiden Sie die weißen Markierungen auf der Straße, sie sind extrem rutschig.",
+              "Wasserfeste Packtaschen schützen Ihre Kamera und Dokumente.",
+              "Planen Sie mehr Zeit für Bremsmanöver auf Kopfsteinpflaster ein.",
+              "Die Sambre-Route bietet bei Regen eine dramatische Atmosphäre."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen Charleroi ipari övezeteiben.",
+              "Kerülje az útfestéseket, mert vizesen rendkívül csúszósak.",
+              "Vízálló táskák védik az értékeit és iratait.",
+              "Hagyjon több időt a fékezésre a macskaköves szakaszokon.",
+              "A Sambre-útvonal esőben különösen drámai hangulatot áraszt."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt esențiale pe terenul industrial din Charleroi.",
+              "Evitați marcajele albe de pe drum, sunt extrem de alunecoase.",
+              "Gențile impermeabile vă protejează aparatul foto și documentele.",
+              "Alocați mai mult timp pentru frânare pe pavaj.",
+              "Traseul Sambre oferă o atmosferă dramatică pe timp de ploaie."
+            ],
+            "en": [
+              "Mudguards are essential given Charleroi's industrial terrain.",
+              "Avoid riding on white road markings as they become extremely slick.",
+              "Waterproof panniers will protect your camera and documents.",
+              "Allow extra time for braking maneuvers on cobblestone sections.",
+              "The Sambre route offers a dramatic atmosphere during rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frostige Radtour beginnt am Place Charles II. Der Wind entlang der Sambre kann eisig sein, bietet aber klare Sichten auf die Industriekultur. Die Museen dienen als wichtige Wärmestationen auf Ihrer Route. Beenden Sie die Tour im Queen Astrid Park, während die Lichter der Stadt in der frühen Dunkelheit zu funkeln beginnen.",
+            "hu": "Fagyos kerékpártúra indul a Károly téren. A Sambre menti szél metsző lehet, de tiszta kilátást nyújt az ipari műemlékekre. A múzeumok fontos melegedőpontként szolgálnak az útvonalon. Zárja a túrát a Queen Astrid parkban, miközben a város fényei elkezdenek csillogni a korai sötétségben.",
+            "ro": "O tură înghețată cu bicicleta începe în Place Charles II. Vântul de-a lungul Sambre poate fi tăios, dar oferă vederi clare asupra culturii industriale. Muzeele servesc ca stații importante de încălzire pe traseu. Încheiați tura în parcul Queen Astrid, în timp ce luminile orașului încep să sclipească în întunericul timpuriu.",
+            "en": "A frosty bike tour starts at Charles II Square. The wind along the Sambre can be biting but offers clear views of industrial heritage. Museums serve as vital warming stations along your route. Finish the tour in Queen Astrid Park as city lights begin to sparkle in the early darkness."
+          },
+          "stops": [
+            {
+              "name": "Charles II Square",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Abfahrten in der Oberstadt.",
+                "hu": "Viseljen szélálló kesztyűt a felsővárosi lejtőkön.",
+                "ro": "Purtați mănuși rezistente la vânt pentru coborârile din orașul de sus.",
+                "en": "Wear windproof gloves for the descents in the upper town."
+              }
+            },
+            {
+              "name": "Along the Sambre",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteisstellen im Schatten der Industriebrücken.",
+                "hu": "Ügyeljen a jeges foltokra az ipari hidak árnyékában.",
+                "ro": "Atenție la porțiunile cu polei la umbra podurilor industriale.",
+                "en": "Watch out for icy patches in the shadows of industrial bridges."
+              }
+            },
+            {
+              "name": "Museum of Photography",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände in der Museumscafeteria auf.",
+                "hu": "Melegítse fel a kezeit a múzeumi kávézóban.",
+                "ro": "Încălziți-vă mâinile în cafeneaua muzeului.",
+                "en": "Warm up your hands in the museum's cafeteria."
+              }
+            },
+            {
+              "name": "BPS22 Art Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre schwere Winterausrüstung.",
+                "hu": "Használja a ruhatárat a nehéz téli felszereléséhez.",
+                "ro": "Folosiți garderoba pentru echipamentul greu de iarnă.",
+                "en": "Use the cloakroom for your heavy winter gear."
+              }
+            },
+            {
+              "name": "Queen Astrid Park",
+              "tip_5lang": {
+                "de": "Kurze Fahrt empfohlen, da die Kälte bei Stillstand schnell zusetzt.",
+                "hu": "Rövid tekerés javasolt, mert a hideg gyorsan átjárja az embert megálláskor.",
+                "ro": "Se recomandă o tură scurtă, deoarece frigul pătrunde repede la oprire.",
+                "en": "Short ride recommended as the cold sets in quickly when stationary."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Unterwäsche ist bei Radtouren im belgischen Winter ein Muss.",
+              "Prüfen Sie Ihren Reifendruck; etwas weniger Druck gibt mehr Grip auf Frost.",
+              "Vermeiden Sie Fahrten nach 17:00 Uhr ohne starke Beleuchtung.",
+              "Streusalz kann Ihr Fahrrad angreifen, wischen Sie es abends kurz ab.",
+              "Planen Sie kurze Etappen zwischen den Museen ein."
+            ],
+            "hu": [
+              "A termo-aláöltözet kötelező a belga téli kerékpározáshoz.",
+              "Ellenőrizze a guminyomást; a kissé alacsonyabb nyomás jobb tapadást ad a fagyon.",
+              "Ne kerékpározzon 17:00 után erős világítás nélkül.",
+              "Az útszóró só károsíthatja a biciklit, este törölje át a vázat.",
+              "Tervezzen rövid szakaszokat a múzeumok között."
+            ],
+            "ro": [
+              "Lenjeria termică este obligatorie pentru turele de iarnă în Belgia.",
+              "Verificați presiunea în pneuri; o presiune mai mică oferă aderență pe îngheț.",
+              "Evitați deplasările după ora 17:00 fără iluminare puternică.",
+              "Sarea de pe drum poate ataca bicicleta, ștergeți-o scurt seara.",
+              "Planificați etape scurte între muzee."
+            ],
+            "en": [
+              "Thermal underwear is a must for cycling in the Belgian winter.",
+              "Check your tire pressure; slightly lower pressure gives better grip on frost.",
+              "Avoid riding after 17:00 without powerful lighting.",
+              "Road salt can damage your bike; give it a quick wipe-down in the evening.",
+              "Plan short stages between the museums to stay warm."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -966,6 +1328,214 @@
           "GPS is essential as the road layout can be confusing.",
           "Plan for extra time to travel between sites."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Fahrt durch das Zentrum beginnt am Parkhaus nahe Place Charles II. Die Route führt zu den großen Museen, die bei schlechtem Wetter glänzen. BPS22, das Fotomuseum und das Bois du Cazier bieten stundenlangen Schutz und tiefe Einblicke. Das Glasmuseum und der Park bilden den perfekten Abschluss, während draußen der belgische Regen fällt.",
+            "hu": "Az esős autózás a belvárosban kezdődik a Károly tér közeli parkolóháznál. Az útvonal a nagy múzeumokhoz vezet, amelyek rossz időben a legvonzóbbak. A BPS22, a Fotómúzeum és a Bois du Cazier órákig tartó menedéket és mély betekintést nyújt. Az Üvegmúzeum és a park tökéletes zárás, miközben kint esik a belga eső.",
+            "ro": "O călătorie ploioasă prin centru începe la parcarea de lângă Place Charles II. Traseul duce la marile muzee care strălucesc pe vreme rea. BPS22, Muzeul de Fotografie și Bois du Cazier oferă ore de adăpost și perspective profunde. Muzeul Sticlei și parcul formează încheierea perfectă în timp ce plouă afară.",
+            "en": "A rainy drive through the center starts at the parking garage near Charles II Square. The route leads to the major museums that shine in bad weather. BPS22, the Photography Museum, and Bois du Cazier offer hours of shelter and deep insights. The Glass Museum and the park form the perfect conclusion while the Belgian rain falls outside."
+          },
+          "stops": [
+            {
+              "name": "Park in Center & Charles II Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie ein Parkhaus, um beim Aussteigen trocken zu bleiben.",
+                "hu": "Használjon parkolóházat, hogy kiszálláskor száraz maradjon.",
+                "ro": "Folosiți o parcare acoperită pentru a rămâne uscat la coborâre.",
+                "en": "Use a parking garage to stay dry when getting out of the car."
+              }
+            },
+            {
+              "name": "City Hall & Belfry",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; parken Sie so nah wie möglich am Eingang.",
+                "hu": "Rövid megálló; parkoljon a lehető legközelebb a bejárathoz.",
+                "ro": "Oprire scurtă; parcați cât mai aproape de intrare.",
+                "en": "Short stop; park as close to the entrance as possible."
+              }
+            },
+            {
+              "name": "BPS22 Art Museum",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt vor dem Museum; kurzer Weg im Regen.",
+                "hu": "Nagy parkoló közvetlenül a múzeum előtt; rövid séta az esőben.",
+                "ro": "Parcare mare direct în fața muzeului; drum scurt prin ploaie.",
+                "en": "Large parking lot right in front of the museum; short walk in the rain."
+              }
+            },
+            {
+              "name": "Museum of Photography",
+              "tip_5lang": {
+                "de": "Parken Sie im Innenhof des ehemaligen Klosters, um nah am Geschehen zu sein.",
+                "hu": "Parkoljon az egykori kolostor belső udvarán, hogy közel legyen a bejárathoz.",
+                "ro": "Parcați în curtea interioară a fostei mănăstiri pentru a fi aproape.",
+                "en": "Park in the inner courtyard of the former convent to stay close to the entry."
+              }
+            },
+            {
+              "name": "Bois du Cazier",
+              "tip_5lang": {
+                "de": "Die Anlage ist weitläufig; halten Sie den Regenschirm für den Weg zwischen den Gebäuden bereit.",
+                "hu": "A terület kiterjedt; tartsa készenlétben az esernyőt az épületek közötti sétához.",
+                "ro": "Complexul este vast; țineți umbrela pregătită pentru drumul dintre clădiri.",
+                "en": "The site is extensive; keep your umbrella ready for the walk between buildings."
+              }
+            },
+            {
+              "name": "Glass Museum",
+              "tip_5lang": {
+                "de": "Ideal bei Regen; die filigranen Glasobjekte wirken bei diffusem Licht besonders schön.",
+                "hu": "Ideális esőben; a finom üvegtárgyak szórt fényben különösen szépek.",
+                "ro": "Ideal pe ploaie; obiectele delicate din sticlă arată superb în lumină difuză.",
+                "en": "Ideal in the rain; delicate glass objects look especially beautiful in diffused light."
+              }
+            },
+            {
+              "name": "Queen Astrid Park",
+              "tip_5lang": {
+                "de": "Parken Sie entlang der Rue du Parc für einen schnellen Blick ins Grüne.",
+                "hu": "Parkoljon a Rue du Parc mentén egy gyors zöld kitérőhöz.",
+                "ro": "Parcați de-a lungul Rue du Parc pentru o privire rapidă spre verdeață.",
+                "en": "Park along Rue du Parc for a quick glimpse of the greenery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Park-and-Ride-Plätze am Stadtrand bei starkem Regen.",
+              "Vorsicht vor Aquaplaning auf der R3-Ringstraße.",
+              "Bewahren Sie einen stabilen Regenschirm im Kofferraum auf.",
+              "Die Rive Gauche Tiefgarage ist ideal für einen trockenen Stadtbummel.",
+              "Achten Sie auf Pfützen in den tiefer gelegenen Unterführungen."
+            ],
+            "hu": [
+              "Használja a város szélén lévő P+R parkolókat heves esőzéskor.",
+              "Vigyázzon a vízenfutásra (aquaplaning) az R3-as körgyűrűn.",
+              "Tartson egy masszív esernyőt a csomagtartóban.",
+              "A Rive Gauche mélygarázs ideális egy száraz városi sétához.",
+              "Ügyeljen a tócsákra az alacsonyabban fekvő aluljárókban."
+            ],
+            "ro": [
+              "Folosiți parcările P+R de la marginea orașului în caz de ploaie torențială.",
+              "Atenție la acvaplanare pe șoseaua de centură R3.",
+              "Păstrați o umbrelă robustă în portbagaj.",
+              "Parcarea subterană Rive Gauche este ideală pentru o plimbare uscată.",
+              "Atenție la bălțile din pasajele inferioare."
+            ],
+            "en": [
+              "Use P+R parking lots on the outskirts during heavy downpours.",
+              "Watch out for aquaplaning on the R3 ring road.",
+              "Keep a sturdy umbrella in the trunk for museum hops.",
+              "The Rive Gauche underground parking is ideal for a dry city stroll.",
+              "Be careful of deep puddles in low-lying underpasses."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Winterfahrt beginnt im Herzen von Charleroi. Das Auto bietet Wärme zwischen den beeindruckenden Museumsbesuchen im BPS22 und Bois du Cazier. Erleben Sie die Industriegeschichte im Winterlicht, bevor Sie den Tag am frühen Abend im Queen Astrid Park ausklingen lassen, wenn die Frostnächte beginnen.",
+            "hu": "Meghitt téli autózás indul Charleroi szívében. Az autó meleget ad a BPS22 és a Bois du Cazier lenyűgöző múzeumi látogatásai között. Élje át az ipari történelmet a téli fényekben, mielőtt a napot kora este a Queen Astrid parkban zárná, amikor beállnak a fagyos éjszakák.",
+            "ro": "O călătorie confortabilă de iarnă începe în inima orașului Charleroi. Mașina oferă căldură între vizitele impresionante la muzeele BPS22 și Bois du Cazier. Experimentați istoria industrială în lumina iernii, înainte de a încheia ziua devreme în parcul Queen Astrid, pe măsură ce încep nopțile geroase.",
+            "en": "A cozy winter drive starts in the heart of Charleroi. The car provides warmth between impressive museum visits at BPS22 and Bois du Cazier. Experience industrial history in the winter light before ending the day early at Queen Astrid Park as the frosty nights begin."
+          },
+          "stops": [
+            {
+              "name": "Park in Center & Charles II Square",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Einfahrt in Parkhäuser; Rampen können glatt sein.",
+                "hu": "Vigyázzon a parkolóházak bejáratánál; a rámpák jegesek lehetnek.",
+                "ro": "Atenție la intrarea în parcări; rampele pot fi alunecoase.",
+                "en": "Be careful at parking garage entrances; ramps can be slick."
+              }
+            },
+            {
+              "name": "City Hall & Belfry",
+              "tip_5lang": {
+                "de": "Die Winterbeleuchtung des Belfrieds ist ab 16:00 Uhr besonders schön.",
+                "hu": "A harangtorony téli kivilágítása 16:00 után a legszebb.",
+                "ro": "Iluminatul de iarnă al turnului este superb după ora 16:00.",
+                "en": "The winter lighting of the belfry is particularly beautiful after 16:00."
+              }
+            },
+            {
+              "name": "BPS22 Art Museum",
+              "tip_5lang": {
+                "de": "Die Heizung in den großen Hallen braucht Zeit; lassen Sie die Jacke anfangs an.",
+                "hu": "A nagy csarnokok fűtése időt igényel; az elején hagyja magán a kabátot.",
+                "ro": "Încălzirea în halele mari durează; păstrați jacheta pe voi la început.",
+                "en": "Heating the large halls takes time; keep your coat on initially."
+              }
+            },
+            {
+              "name": "Museum of Photography",
+              "tip_5lang": {
+                "de": "Die Gärten des Klosters wirken im Frost besonders verwunschen.",
+                "hu": "A kolostor kertjei a fagyban különösen elvarázsoltnak tűnnek.",
+                "ro": "Grădinile mănăstirii par fermecate în timpul gerului.",
+                "en": "The convent gardens look particularly enchanted in the frost."
+              }
+            },
+            {
+              "name": "Bois du Cazier",
+              "tip_5lang": {
+                "de": "Die Fördertürme vor dem dunklen Winterhimmel sind ein tolles Fotomotiv.",
+                "hu": "A sötét téli égbolt előtti aknatornyok nagyszerű fotótémát adnak.",
+                "ro": "Turnurile de extracție pe fundalul cerului de iarnă sunt un motiv foto excelent.",
+                "en": "The headframes against the dark winter sky make for a great photo."
+              }
+            },
+            {
+              "name": "Glass Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um den Nachmittag stilvoll zu beenden.",
+                "hu": "Meleg hely a délután stílusos befejezéséhez.",
+                "ro": "Un loc cald pentru a încheia după-amiaza cu stil.",
+                "en": "A warm place to end the afternoon in style."
+              }
+            },
+            {
+              "name": "Queen Astrid Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus dem warmen Auto auf die verschneiten oder frostigen Bäume.",
+                "hu": "Élvezze a kilátást a meleg autóból a havas vagy fagyos fákra.",
+                "ro": "Bucurați-vă de priveliștea copacilor înghețați din mașina caldă.",
+                "en": "Enjoy the view of the frosty trees from the warmth of your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Wischwasser Frostschutz enthält.",
+              "Planen Sie Fahrten bei Dämmerung sorgfältig; Wildwechsel am Stadtrand möglich.",
+              "Die Parkplätze am Bois du Cazier können morgens vereist sein.",
+              "Nutzen Sie die Sitzheizung für die Fahrten zwischen den Vororten.",
+              "Achten Sie auf die kürzeren Öffnungszeiten der Parks im Winter."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a szélvédőmosó fagyálló.",
+              "Tervezze meg a szürkületi vezetést; a város szélén vadállatok bukkanhatnak fel.",
+              "A Bois du Cazier parkolói reggelente jegesek lehetnek.",
+              "Használja az ülésfűtést a külvárosi szakaszokon.",
+              "Ügyeljen a parkok rövidebb téli nyitvatartási idejére."
+            ],
+            "ro": [
+              "Asigurați-vă că lichidul de parbriz conține antigel.",
+              "Planificați cu grijă condusul la amurg; posibile animale pe drum la marginea orașului.",
+              "Parcările de la Bois du Cazier pot fi înghețate dimineața.",
+              "Folosiți încălzirea în scaune pentru deplasările între suburbii.",
+              "Atenție la programul mai scurt al parcurilor în timpul iernii."
+            ],
+            "en": [
+              "Ensure your windshield washer fluid contains antifreeze.",
+              "Plan dusk driving carefully; wildlife might cross roads on the outskirts.",
+              "Parking lots at Bois du Cazier can be icy in the morning.",
+              "Use heated seats for the drives between the suburbs.",
+              "Check for shorter park opening hours during the winter season."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1286,6 +1856,196 @@
           "Validate your ticket each time you ride.",
           "The TEC (Transport En Commun) app is useful for route planning."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Hauptbahnhof Charleroi-Central und nutzen Sie die U-Bahn, um trocken zum Place Charles II zu gelangen. Die Busse bringen Sie bequem zum Fotomuseum und zum Bois du Cazier, während es draußen regnet. Das BPS22 ist nur einen kurzen Sprung von der Haltestelle entfernt. Beenden Sie den Tag mit einem Blick auf die Sambre, bevor Sie in den warmen Zug steigen.",
+            "hu": "Kezdje a Charleroi-Central főpályaudvaron, és használja a metrót, hogy szárazon jusson el a Károly térre. A buszok kényelmesen elviszik a Fotómúzeumhoz és a Bois du Cazier-hez, miközben kint esik. A BPS22 csak egy ugrásra van a megállótól. Zárja a napot a Sambre látványával, mielőtt felszállna a meleg vonatra.",
+            "ro": "Începeți la gara centrală Charleroi-Central și folosiți metroul pentru a ajunge uscați în Place Charles II. Autobuzele vă duc confortabil la Muzeul de Fotografie și Bois du Cazier în timp ce plouă afară. BPS22 este la doar un pas de stație. Încheiați ziua cu o privire asupra Sambre înainte de a urca în trenul cald.",
+            "en": "Start at Charleroi-Central station and use the metro to reach Charles II Square dry. Buses will take you comfortably to the Photography Museum and Bois du Cazier while it rains outside. BPS22 is just a short hop from the stop. End the day with a view of the Sambre before boarding your warm train."
+          },
+          "stops": [
+            {
+              "name": "Charleroi-Central Station & Charles II Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die unterirdischen Passagen des Bahnhofs als Regenschutz.",
+                "hu": "Használja az állomás földalatti átjáróit esővédelemként.",
+                "ro": "Folosiți pasajele subterane ale gării ca protecție împotriva ploii.",
+                "en": "Use the station's underground passages as protection from the rain."
+              }
+            },
+            {
+              "name": "City Hall",
+              "tip_5lang": {
+                "de": "Die Metrostation 'Beaux-Arts' ist der ideale Ausstiegspunkt bei Regen.",
+                "hu": "A 'Beaux-Arts' metróállomás az ideális kiszállási pont esőben.",
+                "ro": "Stația de metrou 'Beaux-Arts' este punctul ideal de coborâre pe ploaie.",
+                "en": "The 'Beaux-Arts' metro station is the ideal exit point during rain."
+              }
+            },
+            {
+              "name": "Museum of Photography",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nah am Eingang; halten Sie den Schirm bereit.",
+                "hu": "A buszmegálló közel van a bejárathoz; tartsa készenlétben az ernyőt.",
+                "ro": "Stația de autobuz este aproape de intrare; țineți umbrela pregătită.",
+                "en": "The bus stop is close to the entrance; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Bois du Cazier",
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Rückfahrt vorab, um langes Warten im Regen zu vermeiden.",
+                "hu": "Tervezze meg előre a visszautat, hogy elkerülje a hosszú várakozást az esőben.",
+                "ro": "Planificați călătoria de întoarcere în avans pentru a evita așteptarea în ploaie.",
+                "en": "Plan your return trip in advance to avoid long waits in the rain."
+              }
+            },
+            {
+              "name": "BPS22 Art Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Metro M2 oder M3 für den direkten, trockenen Zugang.",
+                "hu": "Használja az M2-es vagy M3-as metrót a közvetlen, száraz kijutáshoz.",
+                "ro": "Folosiți metroul M2 sau M3 pentru acces direct și uscat.",
+                "en": "Use metro M2 or M3 for direct, dry access near the museum."
+              }
+            },
+            {
+              "name": "Banks of the Sambre River",
+              "tip_5lang": {
+                "de": "Vom Bahnhof aus haben Sie einen tollen Blick auf den Fluss, ohne nass zu werden.",
+                "hu": "Az állomásról nagyszerű kilátás nyílik a folyóra anélkül, hogy megázna.",
+                "ro": "Din gară aveți o vedere excelentă asupra râului fără a vă uda.",
+                "en": "From the station, you have a great view of the river without getting wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket in der TEC-App für nahtloses Umsteigen.",
+              "Die Metrostationen in Charleroi sind oft kleine Kunstwerke; erkunden Sie diese bei Regen.",
+              "Achten Sie auf die Echtzeit-Anzeigen an den Haltestellen.",
+              "Halten Sie Kleingeld für die Schließfächer am Bahnhof bereit.",
+              "Die Busse zum Bois du Cazier fahren regelmäßig, aber seltener am Wochenende."
+            ],
+            "hu": [
+              "Vásároljon napijegyet a TEC alkalmazásban a zökkenőmentes átszálláshoz.",
+              "Charleroi metróállomásai gyakran kis műalkotások; fedezze fel őket esőben.",
+              "Ügyeljen a megállók valós idejű kijelzőire.",
+              "Tartson aprópénzt az állomási csomagmegőrzőkhöz.",
+              "A Bois du Cazier-hez tartó buszok rendszeresen járnak, de hétvégén ritkábban."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi din aplicația TEC pentru transferuri fără probleme.",
+              "Stațiile de metrou din Charleroi sunt adesea mici opere de artă; explorați-le pe ploaie.",
+              "Urmăriți afișajele în timp real din stații.",
+              "Păstrați mărunțiș pentru dulapurile de bagaje din gară.",
+              "Autobuzele spre Bois du Cazier circulă regulat, dar mai rar în weekend."
+            ],
+            "en": [
+              "Buy a day ticket in the TEC app for seamless transfers.",
+              "Charleroi's metro stations are often minor artworks; explore them during rain.",
+              "Watch the real-time displays at the stops for updates.",
+              "Keep small change ready for the station lockers.",
+              "Buses to Bois du Cazier run regularly but less frequently on weekends."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintertag im beleuchteten Bahnhof Charleroi-Central. Die beheizten Busse und Bahnen bringen Sie sicher zum Place Charles II und zu den großen Museen der Region. Genießen Sie die winterliche Industriestadt aus dem Fenster der Straßenbahn, bevor Sie sich in den Ausstellungen des BPS22 und Bois du Cazier aufwärmen. Ein frostiger Blick auf die Sambre schließt den Tag ab.",
+            "hu": "Kezdje a téli napot a kivilágított Charleroi-Central állomáson. A fűtött buszok és vonatok biztonságban elviszik a Károly térre és a régió nagy múzeumaiba. Élvezze a téli iparvárost a villamos ablakából, mielőtt felmelegedne a BPS22 és a Bois du Cazier kiállításain. A napot a Sambre fagyos látványa zárja.",
+            "ro": "Începeți ziua de iarnă în gara iluminată Charleroi-Central. Autobuzele și trenurile încălzite vă duc în siguranță în Place Charles II și la marile muzee din regiune. Bucurați-vă de orașul industrial de iarnă de la fereastra tramvaiului, înainte de a vă încălzi în expozițiile de la BPS22 și Bois du Cazier. O privire înghețată asupra Sambre încheie ziua.",
+            "en": "Begin your winter day at the illuminated Charleroi-Central station. Heated buses and trains take you safely to Charles II Square and the region's great museums. Enjoy the wintry industrial city from the tram window before warming up in the exhibitions at BPS22 and Bois du Cazier. A frosty view of the Sambre closes the day."
+          },
+          "stops": [
+            {
+              "name": "Charleroi-Central Station & Charles II Square",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle, bis Ihr Zug oder Bus kurz vor der Abfahrt steht.",
+                "hu": "Várjon az állomáscsarnokban, amíg a vonata vagy busza indulni nem készül.",
+                "ro": "Așteptați în holul gării până când trenul sau autobuzul este aproape de plecare.",
+                "en": "Wait in the station hall until your train or bus is about to depart."
+              }
+            },
+            {
+              "name": "City Hall",
+              "tip_5lang": {
+                "de": "Die Metrostationen sind windgeschützt, ideal für kurze Wartezeiten.",
+                "hu": "A metróállomások szélvédettek, ideálisak a rövid várakozáshoz.",
+                "ro": "Stațiile de metrou sunt protejate de vânt, ideale pentru așteptări scurte.",
+                "en": "Metro stations are sheltered from the wind, ideal for short waits."
+              }
+            },
+            {
+              "name": "Museum of Photography",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Stufen an der Bushaltestelle bei Frost.",
+                "hu": "Ügyeljen a csúszós lépcsőkre a buszmegállóban fagy esetén.",
+                "ro": "Atenție la treptele alunecoase din stația de autobuz pe timp de ger.",
+                "en": "Watch out for slippery steps at the bus stop during frost."
+              }
+            },
+            {
+              "name": "Bois du Cazier",
+              "tip_5lang": {
+                "de": "Der Bus 52 bringt Sie direkt zum Eingang; nutzen Sie den Fahrplan genau.",
+                "hu": "Az 52-es busz közvetlenül a bejárathoz viszi; használja pontosan a menetrendet.",
+                "ro": "Autobuzul 52 vă duce direct la intrare; urmăriți programul cu atenție.",
+                "en": "Bus 52 takes you right to the entrance; follow the schedule closely."
+              }
+            },
+            {
+              "name": "BPS22 Art Museum",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg von der Metrostation Palais; ziehen Sie sich warm an.",
+                "hu": "Rövid séta a Palais metróállomástól; öltözzön fel melegen.",
+                "ro": "O scurtă plimbare de la stația de metrou Palais; îmbrăcați-vă gros.",
+                "en": "A short walk from Palais metro station; dress warmly for the transfer."
+              }
+            },
+            {
+              "name": "Banks of the Sambre River",
+              "tip_5lang": {
+                "de": "Genießen Sie das klare Winterlicht am Flussufer bei der Rückkehr zum Bahnhof.",
+                "hu": "Élvezze a tiszta téli fényt a folyóparton, amikor visszatér az állomásra.",
+                "ro": "Bucurați-vă de lumina clară de iarnă de pe malul râului la întoarcerea spre gară.",
+                "en": "Enjoy the clear winter light on the riverbank when returning to the station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Verspätungen bei extremem Schneefall auf der TEC-Website.",
+              "Die Metrostation 'Sud' ist gut beheizt und bietet Kioske.",
+              "Tragen Sie Schuhe mit gutem Profil für die Wege zwischen den Haltestellen.",
+              "Nutzen Sie die App, um Ihre Route im Warmen zu planen.",
+              "Abends sind die Bahnhöfe gut beleuchtet und sicher."
+            ],
+            "hu": [
+              "Extrém havazás esetén ellenőrizze a késéseket a TEC honlapján.",
+              "A 'Sud' metróállomás jól fűtött és újságosok is vannak.",
+              "Viseljen jó tapadású cipőt a megállók közötti szakaszokon.",
+              "Használja az alkalmazást az útvonal megtervezéséhez a melegben.",
+              "Este az állomások jól kivilágítottak és biztonságosak."
+            ],
+            "ro": [
+              "Verificați întârzierile pe site-ul TEC în caz de ninsori abundente.",
+              "Stația de metrou 'Sud' este bine încălzită și are chioșcuri.",
+              "Purtați încălțăminte cu talpă aderentă pentru drumurile între stații.",
+              "Folosiți aplicația pentru a vă planifica traseul la căldură.",
+              "Seara, gările sunt bine iluminate și sigure."
+            ],
+            "en": [
+              "Check for delays on the TEC website in case of extreme snowfall.",
+              "The 'Sud' metro station is well-heated and features kiosks.",
+              "Wear shoes with good grip for the walks between transit stops.",
+              "Use the mobile app to plan your route while staying warm inside.",
+              "Stations are well-lit and safe during the early winter evenings."
+            ]
+          }
+        }
       }
     }
   }

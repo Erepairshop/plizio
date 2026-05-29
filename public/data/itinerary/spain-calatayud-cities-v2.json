@@ -402,6 +402,214 @@
           "Plan for a late lunch after visiting the castle.",
           "Most churches close in the early afternoon, so schedule your visits for the morning."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag unter den Arkaden der Plaza de España, die guten Schutz vor dem Regen bieten. Vormittags erkunden Sie die prächtigen Innenräume der Kirchen Santa María und Santo Sepulcro, wo das Mudéjar-Erbe im gedämpften Licht glänzt.\n\nMittags finden Sie in den engen Gassen des jüdischen Viertels Schutz, während Sie zur Kirche San Pedro schlendern. Der Regen verstärkt die Farben der Ziegelbauten und verleiht der Altstadt eine melancholische Atmosphäre.\n\nAm Nachmittag führt der Weg hinauf zur Burg von Ayub. Die befestigten Mauern bieten zwar wenig Schutz, aber der Blick auf das regenverhangene Jalón-Tal ist einzigartig. Festes Schuhwerk ist für den Aufstieg auf dem feuchten Untergrund unerlässlich.\n\nDer Tag endet bei den Ruinen von Bilbilis. Da das Gelände offen ist, empfiehlt sich ein kurzer Besuch mit festem Schirm, bevor die Dämmerung und die Nässe den Aufenthalt ungemütlich machen.",
+            "hu": "A napot a Plaza de España árkádjai alatt kezdjük, amelyek kiváló menedéket nyújtanak az eső elől. Délelőtt a Santa María és a Szent Sír templomok belső tereit fedezzük fel, ahol a mudéjar örökség részletei a szűrt fényben is lenyűgözőek.\n\nDélben a zsidó negyed szűk utcáin haladunk tovább a San Pedro templom felé, ahol az eső kiemeli a téglaépületek mélyvörös színeit. A város ilyenkor csendesebb, az óváros hangulata pedig különösen bensőséges.\n\nDélután az Ayub vára felé vesszük az irányt. Bár a falak között kevés a fedett rész, a borús Jalón-völgy látványa megéri a fáradságot. A csúszós ösvényeken a túracipő és a jó esernyő elengedhetetlen.\n\nA napot Bilbilis romjainál zárjuk. A nyitott régészeti területen az eső megnehezíti a közlekedést, ezért csak a legfontosabb részeket érintjük, mielőtt a sár és a szürkület miatt visszatérnénk a városba.",
+            "ro": "Începeți ziua sub arcadele din Plaza de España, care oferă un adăpost excelent împotriva ploii. Dimineața este dedicată interiorului bisericilor Santa María și Santo Sepulcro, unde detaliile stilului mudéjar strălucesc chiar și în lumină slabă.\n\nLa prânz, străzile înguste ale cartierului evreiesc oferă o oarecare protecție în drum spre biserica San Pedro. Ploaia accentuează culorile cărămizii ale clădirilor vechi, oferind orașului o atmosferă melancolică și autentică.\n\nDupă-amiaza, urcați spre Castelul Ayub. Deși zidurile oferă puțin adăpost, vederea asupra văii Jalón sub ploaie este spectaculoasă. Încălțămintea aderentă este obligatorie pentru potecile umede de pe deal.\n\nZiua se încheie la ruinele Bilbilis. Fiind un sit deschis, vizita va fi scurtă și concentrată pe punctele principale, protejați de umbrele rezistente la vântul care însoțește adesea ploaia aici.",
+            "en": "Start the day under the arches of Plaza de España, which provide excellent shelter from the rain. Spend the morning exploring the interiors of Santa María and the Holy Sepulchre, where the Mudéjar brickwork glows in the soft light.\n\nAt midday, navigate the narrow streets of the old Jewish quarter towards San Pedro Church. The rain deepens the red hues of the historic buildings, creating a quiet and reflective atmosphere in the city center.\n\nIn the afternoon, head up to the Castle of Ayub. While the fortifications offer little cover, the view of the misty Jalón Valley is unique. Sturdy boots are essential for the damp and potentially slippery paths.\n\nEnd the day at the ruins of Bilbilis. As the site is completely exposed, keep the visit brief and focus on the Roman forum area before the mud and fading light make walking difficult."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als trockenen Treffpunkt.",
+                "hu": "Használja az épületek alatti árkádokat, hogy szárazon maradjon a séta elején.",
+                "ro": "Folosiți arcadele clădirilor din jur pentru a rămâne uscați la începutul plimbării.",
+                "en": "Use the building arcades around the square to stay dry while starting your tour."
+              }
+            },
+            {
+              "name": "Collegiate Church of Santa María",
+              "tip_5lang": {
+                "de": "Die UNESCO-gelistete Mudéjar-Decke ist ein perfekter Zufluchtsort bei Regen.",
+                "hu": "Az UNESCO világörökség részét képező mudéjar belső kiváló menedék az eső elől.",
+                "ro": "Interiorul mudéjar inclus în UNESCO este un refugiu perfect împotriva ploii.",
+                "en": "The UNESCO-listed Mudéjar interior is a perfect sanctuary from the downpour."
+              }
+            },
+            {
+              "name": "Collegiate Church of the Holy Sepulchre",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Barockaltäre im Trockenen während eines heftigen Schauers.",
+                "hu": "Csodálja meg a barokk oltárokat a száraz belső térben egy heves zápor alatt.",
+                "ro": "Admirați altarele baroce la adăpost în timpul unei averse puternice.",
+                "en": "Admire the Baroque altars in the dry interior during a heavy downpour."
+              }
+            },
+            {
+              "name": "Church of San Pedro de los Francos",
+              "tip_5lang": {
+                "de": "Achten Sie auf den leicht geneigten Turm, der bei Regen markant wirkt.",
+                "hu": "Figyelje meg az enyhén dőlt tornyot, amely az esőben még különösebb látvány.",
+                "ro": "Observați turnul ușor înclinat, care arată spectaculos în lumina difuză a ploii.",
+                "en": "Observe the slightly leaning tower, which looks striking in the misty rain."
+              }
+            },
+            {
+              "name": "Puerta de Terrer",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp unter dem Torbogen, um trocken zu bleiben.",
+                "hu": "Rövid fotómegálló a kapuboltív alatt, hogy ne ázzon meg a felszerelés.",
+                "ro": "Scurt popas foto sub arcada porții pentru a proteja echipamentul de ploaie.",
+                "en": "Quick photo stop under the gate's arch to keep your gear dry."
+              }
+            },
+            {
+              "name": "Castle of Ayub",
+              "tip_5lang": {
+                "de": "Vorsicht auf den unbefestigten Pfaden; der Lehmboden wird bei Nässe sehr rutschig.",
+                "hu": "Vigyázat az ösvényeken; az agyagos talaj esőben rendkívül csúszóssá válik.",
+                "ro": "Atenție pe poteci; solul argilos devine foarte alunecos când este ud.",
+                "en": "Caution on the unpaved paths; the clay soil becomes very slippery when wet."
+              }
+            },
+            {
+              "name": "Ruins of Bilbilis",
+              "tip_5lang": {
+                "de": "Besuchen Sie nur das Forum; der Rest des Geländes ist bei Regen schwer begehbar.",
+                "hu": "Csak a fórumot látogassa meg; a terület többi része sárban nehezen járható.",
+                "ro": "Vizitați doar forul; restul sitului este greu accesibil din cauza noroiului.",
+                "en": "Visit only the forum; the rest of the site is hard to navigate in the mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für den Aufstieg zum Castle of Ayub.",
+              "Die Kirchen in Calatayud haben oft Mittagspausen; planen Sie Museumsbesuche für die regenreichsten Stunden.",
+              "Ein großer Schirm ist besser als ein Regenponcho, da der Wind in den Gassen moderat ist.",
+              "Die Plaza de España bietet viele Cafés mit überdachten Außenbereichen.",
+              "Vermeiden Sie die steilsten Abkürzungen am Burgberg bei starkem Regen."
+            ],
+            "hu": [
+              "Viseljen vízálló túrabakancsot az Ayub vára felé vezető kaptatón.",
+              "A templomok gyakran bezárnak délben; időzítse a látogatást a legintenzívebb eső idejére.",
+              "Egy stabil esernyő hasznosabb a poncsónál, mert a szűk utcákban nem túl erős a szél.",
+              "A Plaza de España kávézói fedett teraszokkal várják a megpihenni vágyókat.",
+              "Erős esőben kerülje a várhegy legmeredekebb, földes ösvényeit."
+            ],
+            "ro": [
+              "Purtați bocanci impermeabili pentru urcarea spre Castelul Ayub.",
+              "Bisericile au adesea pauză la prânz; planificați vizitele în interior pentru orele cu ploaie densă.",
+              "O umbrelă solidă este mai utilă decât o pelerină, vântul fiind moderat între clădiri.",
+              "Plaza de España are numeroase cafenele cu terase acoperite pentru odihnă.",
+              "Evitați scurtăturile abrupte de pe dealul castelului în timpul ploii torențiale."
+            ],
+            "en": [
+              "Wear waterproof hiking boots for the climb to the Castle of Ayub.",
+              "Churches often have a midday break; time your indoor visits for the heaviest rain.",
+              "A sturdy umbrella is more practical than a poncho as wind is moderate in the streets.",
+              "Plaza de España features many cafes with covered outdoor seating.",
+              "Avoid the steepest dirt shortcuts on the castle hill during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Calatayud beginnt oft mit frostigen Temperaturen. Starten Sie an der Plaza de España bei einem heißen Kaffee, bevor Sie die mudéjar-gotische Architektur von Santa María bewundern, deren Ziegel in der tiefstehenden Wintersonne warm leuchten.\n\nMittags erkunden Sie die Gassen der Altstadt. Die kühle Luft ist klar, und die Kirchenbauten bieten einen windgeschützten Ort der Besinnung. Probieren Sie lokale Spezialitäten wie Ternasco, um sich für den Nachmittag aufzuwärmen.\n\nAm frühen Nachmittag steigen Sie zum Castle of Ayub auf. Der Weg ist im Winter trocken, aber der Wind auf dem Hügel kann beißend kalt sein. Die Aussicht auf die schneebedeckten Gipfel der Ferne ist an klaren Tagen unvergesslich.\n\nBeenden Sie die Tour zeitig bei den Ruinen von Bilbilis. Da die Sonne bereits gegen 17:30 Uhr hinter den Bergen verschwindet, sollten Sie die archäologische Stätte im letzten Tageslicht besuchen, bevor die nächtliche Kälte einsetzt.",
+            "hu": "A téli reggel Calatayudban gyakran fagyos. Kezdje a napot egy forró kávéval a Plaza de Españán, majd csodálja meg a Santa María templom mudéjar-gótikus téglahomlokzatát, amely melegen csillog az alacsonyan járó napfényben.\n\nDélben az óváros hűvös, de tiszta levegőjű utcáin sétálunk. A templomok vastag falai között szélvédett nyugalomra lelhetünk. Érdemes megkóstolni a helyi sült bárányt (ternasco), hogy energiát gyűjtsünk a délutánhoz.\n\nKora délután másszunk fel az Ayub várához. Az ösvény télen általában száraz, de a dombtetőn a szél metsző lehet. Tiszta időben a távoli, hófödte csúcsok látványa kárpótol a hidegért.\n\nA túrát Bilbilis romjainál zárjuk, még a naplemente előtt. Mivel 17:30 körül már eltűnik a nap a hegyek mögött, használjuk ki az utolsó fényeket a régészeti park felfedezésére, mielőtt leszáll az éjszakai fagy.",
+            "ro": "Dimineața de iarnă în Calatayud începe adesea cu temperaturi scăzute. Savurați o cafea fierbinte în Plaza de España înainte de a vizita Santa María, unde cărămida stilului mudéjar strălucește cald sub soarele palid de iarnă.\n\nLa prânz, explorați centrul istoric. Aerul este rece și curat, iar bisericile oferă un refugiu ferit de vânt. Profitați de ocazie pentru a gusta specialități locale calde, precum ternasco, pentru a vă încălzi.\n\nDupă-amiaza devreme, urcați la Castelul Ayub. Potecile sunt de obicei uscate iarna, dar vântul pe culme poate fi tăios. Vederea spre vârfurile înzăpezite din depărtare este memorabilă în zilele senine.\n\nÎncheiați vizita la ruinele Bilbilis înainte de apus. Deoarece soarele coboară după dealuri în jurul orei 17:30, vizitați situl arheologic în ultima lumină a zilei, înainte ca frigul nopții să devină pătrunzător.",
+            "en": "Winter mornings in Calatayud are often frosty. Start with a hot coffee at Plaza de España before visiting Santa María, where the Mudéjar-Gothic brickwork glows warmly in the low winter sun.\n\nAt midday, explore the historic center. The air is crisp and clear, and the massive church walls offer a wind-sheltered space for contemplation. Try local specialties like Ternasco (lamb) to warm up for the afternoon.\n\nIn the early afternoon, hike up to the Castle of Ayub. The trails are usually dry in winter, but the wind on the ridge can be biting. On clear days, the views of the distant snow-capped peaks are unforgettable.\n\nWrap up the tour at the ruins of Bilbilis before sunset. As the sun dips behind the hills around 5:30 PM, enjoy the archaeological site in the golden hour light before the nighttime chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Suchen Sie Cafés mit Heizstrahlern im Außenbereich für den ersten Kaffee.",
+                "hu": "Keressen fűtőtesttel ellátott kávézóteraszokat a reggeli indításhoz.",
+                "ro": "Căutați cafenele cu încălzitoare pe terasă pentru prima cafea a zilei.",
+                "en": "Look for cafes with outdoor heaters for your starting morning coffee."
+              }
+            },
+            {
+              "name": "Collegiate Church of Santa María",
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte; behalten Sie Ihre Jacke im Inneren an.",
+                "hu": "A vastag falak tartják a hideget; ne vegye le a kabátját a templomban sem.",
+                "ro": "Zidurile groase păstrează frigul; păstrați haina pe dvs. și în interior.",
+                "en": "The thick walls keep the cold inside; keep your coat on during the visit."
+              }
+            },
+            {
+              "name": "Collegiate Church of the Holy Sepulchre",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um der kalten Brise der Gassen kurz zu entkommen.",
+                "hu": "Csendes hely, ahol rövid időre elmenekülhet az utcák hideg szele elől.",
+                "ro": "Un loc liniștit pentru a scăpa scurt de briza rece de pe străzile înguste.",
+                "en": "A quiet place to briefly escape the cold breeze of the narrow streets."
+              }
+            },
+            {
+              "name": "Church of San Pedro de los Francos",
+              "tip_5lang": {
+                "de": "Das Licht der Wintersonne betont die Textur der Ziegel am Vormittag.",
+                "hu": "A téli napsütés délelőtt szépen kiemeli a téglák textúráját.",
+                "ro": "Lumina soarelui de iarnă subliniază textura cărămizilor în cursul dimineții.",
+                "en": "The winter sunlight highlights the brick texture beautifully in the morning."
+              }
+            },
+            {
+              "name": "Puerta de Terrer",
+              "tip_5lang": {
+                "de": "Ein windiger Korridor; ziehen Sie Schal und Handschuhe fest an.",
+                "hu": "Szeles folyosó; húzza szorosabbra a sálat és a kesztyűt.",
+                "ro": "Un coridor vântos; strângeți bine fularul și mănușile aici.",
+                "en": "A windy corridor; tighten your scarf and gloves before passing through."
+              }
+            },
+            {
+              "name": "Castle of Ayub",
+              "tip_5lang": {
+                "de": "Harte Winde auf dem Gipfel; eine winddichte Jacke ist hier zwingend notwendig.",
+                "hu": "Erős szél a csúcson; a szélálló dzseki itt elengedhetetlen.",
+                "ro": "Vânt puternic pe culme; o jachetă rezistentă la vânt este obligatorie.",
+                "en": "Strong winds on the summit; a windproof jacket is mandatory here."
+              }
+            },
+            {
+              "name": "Ruins of Bilbilis",
+              "tip_5lang": {
+                "de": "Besuch bis spätestens 17:00 Uhr planen, bevor es schlagartig kalt wird.",
+                "hu": "Tervezze a látogatást legkésőbb 17:00-ig, mielőtt hirtelen lehűl a levegő.",
+                "ro": "Planificați vizita până la ora 17:00, înainte de scăderea bruscă a temperaturii.",
+                "en": "Plan your visit by 5:00 PM at the latest, before the temperature drops sharply."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung: Die Sonne wärmt mittags, aber der Schatten bleibt eiskalt.",
+              "Die Sonne geht früh unter (ca. 17:30); planen Sie Outdoor-Aktivitäten für den Vormittag.",
+              "Ternasco asado (gebratenes Lamm) ist das perfekte wärmende Mittagessen der Region.",
+              "Achten Sie auf Raureif auf den Kopfsteinpflastern in den frühen Morgenstunden.",
+              "Trinken Sie zwischendurch heiße Schokolade in der Nähe der Plaza de España."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen: a napon meleg lehet, de az árnyékban fagyos marad a levegő.",
+              "A nap korán nyugszik (17:30 körül); a szabadtéri programokat időzítse délelőttre.",
+              "A sült bárány (ternasco) a legjobb melengető ebéd a helyi éttermekben.",
+              "Vigyázzon a kora reggeli zúzmarával a macskaköves utcákon.",
+              "Igyon egy forró csokoládét a Plaza de España környékén két látnivaló között."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi: soarele încălzește la prânz, dar umbra rămâne înghețată.",
+              "Soarele apune devreme (cca. 17:30); planificați activitățile în aer liber dimineața.",
+              "Ternasco asado (miel fript) este prânzul perfect pentru a vă încălzi.",
+              "Atenție la chiciura de pe pavajul de piatră în primele ore ale dimineții.",
+              "Savurați o ciocolată caldă lângă Plaza de España între două vizite."
+            ],
+            "en": [
+              "Dress in layers: the sun warms you at noon, but the shade remains freezing.",
+              "The sun sets early (around 5:30 PM); schedule outdoor activities for the morning.",
+              "Ternasco asado (roasted lamb) is the perfect warming local lunch.",
+              "Watch out for frost on the cobblestones during the early morning hours.",
+              "Stop for a hot chocolate near Plaza de España to warm up between sites."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -798,6 +1006,214 @@
           "The streets in the city center can be narrow, ride with caution.",
           "A helmet is highly recommended, especially for the ride out of town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Calatayud Konzentration auf dem rutschigen Pflaster der Altstadt. Starten Sie an der Plaza de España und nutzen Sie die kurzen Wege zwischen den Mudéjar-Kirchen, um bei Schauern schnell unterzuschlüpfen.\n\nMittags führt die Route durch das Puerta de Terrer. Das Spritzwasser auf dem Asphalt macht die Fahrt zum Castle of Ayub anstrengend. Die Steigungen erfordern gute Traktion und vorsichtiges Bremsen auf dem nassen Untergrund.\n\nDer anstrengendste Teil ist die Fahrt zu den Ruinen von Bilbilis. Der Weg außerhalb der Stadt kann schlammig sein, was die 4 km lange Strecke zu einer echten Herausforderung macht. Der Ausblick auf das graue Tal belohnt die Mühe.\n\nZurück in der Stadt beenden Sie die Tour an der Kirche San Andrés. Die nassen Reifen sollten vor dem Abstellen kurz gereinigt werden, um den Schlamm der Ausgrabungsstätte nicht zu verteilen.",
+            "hu": "Az esőben való kerékpározás Calatayudban nagy figyelmet igényel a csúszós óvárosi köveken. Kezdje a Plaza de Españán, és használja ki a templomok közelségét, hogy egy-egy zápor idejére behúzódjon fedett helyre.\n\nDélben a Puerta de Terrer felé haladva az aszfaltról felverődő víz nehezíti a haladást az Ayub vára felé. Az emelkedőkön fontos a jó tapadás és az óvatos fékezés a vizes talajon.\n\nA legnehezebb szakasz a Bilbilis romjaihoz vezető út. A városon kívüli szakasz saras lehet, ami a 4 km-es távot komoly kihívássá teszi. A szürke ködbe burkolózó völgy látványa azonban különleges.\n\nVisszatérve a városba, a San Andrés templomnál zárjuk a kört. A sárvédő és a jó fékek elengedhetetlenek ezen a napon, hogy biztonságban érjünk vissza a központba.",
+            "ro": "Ciclismul pe ploaie în Calatayud necesită concentrare sporită pe pavajul alunecos din centrul vechi. Începeți din Plaza de España și profitați de distanțele scurte între bisericile mudéjar pentru a vă adăposti rapid în caz de aversă.\n\nLa prânz, traseul trece prin Puerta de Terrer. Apa împroșcată de pe asfalt face urcarea spre Castelul Ayub mai solicitantă. Pantele necesită tracțiune bună și frânare atentă pe suprafața umedă.\n\nCea mai grea parte este drumul spre ruinele Bilbilis. Traseul din afara orașului poate fi noroios, transformând cei 4 km într-o provocare tehnică. Vederea asupra văii cenușii răsplătește efortul depus.\n\nReveniți în oraș și încheiați turul la biserica San Andrés. Apărătorile de noroi și frânele bine reglate sunt esențiale pentru a naviga în siguranță pe acest traseu umed.",
+            "en": "Cycling in the rain in Calatayud requires focus on the slippery cobblestones of the old town. Start at Plaza de España and use the short distances between Mudéjar churches to quickly find cover during showers.\n\nAt midday, the route passes through Puerta de Terrer. Surface spray makes the climb to the Castle of Ayub more strenuous. The inclines require good tire traction and careful braking on the wet ground.\n\nThe most challenging part is the ride to the ruins of Bilbilis. The path outside the city can be muddy, turning the 4 km stretch into a real physical test. The view of the grey, misty valley is a rewarding sight.\n\nBack in the city, end the tour at San Andrés Church. Mudguards and reliable brakes are essential today to ensure a safe return to the city center after visiting the archaeological site."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf nassem Kopfsteinpflaster; Rutschgefahr.",
+                "hu": "Óvatosan induljon el a vizes macskakövön; fennáll az elcsúszás veszélye.",
+                "ro": "Atenție la pornirea de pe loc pe pavajul ud; risc de alunecare.",
+                "en": "Be careful when starting on wet cobblestones; high risk of slipping."
+              }
+            },
+            {
+              "name": "Puerta de Terrer",
+              "tip_5lang": {
+                "de": "Enge Durchfahrt; achten Sie auf Pfützen und glatte Metallschienen.",
+                "hu": "Szűk áthajtó; ügyeljen a tócsákra és a csúszós fémrészekre.",
+                "ro": "Pasaj îngust; atenție la bălți și elementele metalice alunecoase.",
+                "en": "Narrow passage; watch out for puddles and slippery metal elements."
+              }
+            },
+            {
+              "name": "Collegiate Church of Santa María",
+              "tip_5lang": {
+                "de": "Fahrradständer sind oft nicht überdacht; Sattel mit Plastik schützen.",
+                "hu": "A kerékpártárolók nem fedettek; védje az ülést nejlonnal.",
+                "ro": "Suporturile de biciclete nu sunt acoperite; protejați șaua cu plastic.",
+                "en": "Bike racks are often uncovered; protect your saddle with a plastic cover."
+              }
+            },
+            {
+              "name": "Collegiate Church of the Holy Sepulchre",
+              "tip_5lang": {
+                "de": "Kurze Pause im Inneren, während das Fahrrad draußen im Regen steht.",
+                "hu": "Rövid pihenő odabent, amíg a bicikli kint ázik az esőben.",
+                "ro": "Scurtă pauză în interior în timp ce bicicleta rămâne afară în ploaie.",
+                "en": "Take a short break inside while your bike stays out in the rain."
+              }
+            },
+            {
+              "name": "Castle of Ayub",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist steil; Schlamm kann die Kette blockieren.",
+                "hu": "Az emelkedő meredek; a sár blokkolhatja a láncot.",
+                "ro": "Urcarea este abruptă; noroiul poate bloca lanțul bicicletei.",
+                "en": "The climb is steep; mud can potentially clog your bike chain."
+              }
+            },
+            {
+              "name": "Ruins of Bilbilis",
+              "tip_5lang": {
+                "de": "Nur für erfahrene Fahrer bei Regen; der Weg ist unbefestigt.",
+                "hu": "Esőben csak tapasztaltaknak; az út nem aszfaltozott.",
+                "ro": "Doar pentru cicliști experimentați pe ploaie; drumul este neasfaltat.",
+                "en": "Only for experienced riders in the rain; the path is unpaved."
+              }
+            },
+            {
+              "name": "Church of San Andrés",
+              "tip_5lang": {
+                "de": "Letzter Stopp; prüfen Sie Ihre Bremsbeläge nach der Schlammfahrt.",
+                "hu": "Utolsó megálló; ellenőrizze a fékbetéteket a saras út után.",
+                "ro": "Ultima oprire; verificați saboții de frână după drumul noroios.",
+                "en": "Final stop; check your brake pads after the muddy ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Montieren Sie unbedingt Schutzbleche, um Schlammspritzer von Bilbilis zu vermeiden.",
+              "Bremsen Sie auf Kopfsteinpflaster frühzeitig und sanft mit beiden Bremsen.",
+              "Tragen Sie neongelbe Regenkleidung für bessere Sichtbarkeit im grauen Stadtverkehr.",
+              "Vermeiden Sie die weißen Fahrbahnmarkierungen, diese sind bei Nässe extrem glatt.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck bietet mehr Grip auf nassem Grund."
+            ],
+            "hu": [
+              "Mindenképpen szereljen fel sárvédőt a bilbilisi sár ellen.",
+              "A macskakövön fékezzen időben és finoman mindkét fékkel.",
+              "Viseljen élénk színű esőruházatot a jobb láthatóság érdekében a szürke időben.",
+              "Kerülje a fehér felfestéseket az úton, mert vizesen rendkívül csúsznak.",
+              "Ellenőrizze a guminyomást; a kicsit puhább gumi jobb tapadást ad a vizes úton."
+            ],
+            "ro": [
+              "Montați neapărat apărători de noroi pentru a evita stropirea de la Bilbilis.",
+              "Frânați din timp și ușor cu ambele frâne pe pavajul de piatră.",
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate sporită în trafic.",
+              "Evitați marcajele rutiere albe, acestea devin extrem de alunecoase pe ploaie.",
+              "Verificați presiunea roților; o presiune ușor mai mică oferă aderență mai bună pe ud."
+            ],
+            "en": [
+              "Be sure to install mudguards to avoid spray from the Bilbilis trails.",
+              "Brake early and gently using both brakes on the cobblestone sections.",
+              "Wear high-visibility rain gear for better safety in grey conditions.",
+              "Avoid riding on white road markings, as they are extremely slick when wet.",
+              "Check your tire pressure; slightly lower pressure provides better grip on wet surfaces."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Calatayud ist durch die trockene, aber schneidend kalte Luft geprägt. Beginnen Sie an der Plaza de España und nutzen Sie die Bewegung, um die Körpertemperatur gegen den Frost des Morgens zu halten.\n\nMittags führt die Route an der Puerta de Terrer vorbei zu den großen Kirchen. Die klare Sicht lässt die mudéjarischen Backsteintürme besonders scharf vor dem blauen Winterhimmel erscheinen. Eine Thermoskanne mit Tee ist ein guter Begleiter.\n\nDer Aufstieg zum Castle of Ayub bringt Sie ins Schwitzen, aber oben angekommen kühlt der Wind Sie sofort aus. Winddichte Kleidung ist hier der Schlüssel zum Erfolg. Die Fernsicht auf das Jalón-Tal ist im Winter oft klarer als im Sommer.\n\nZum Abschluss radeln Sie die 4 km zu den Ruinen von Bilbilis. Da die Sonne früh untergeht, sollten Sie die Rückfahrt vor 17:00 Uhr antreten, um nicht in die eisige Abenddämmerung zu geraten. San Andrés markiert das Ende einer erfrischenden Wintertour.",
+            "hu": "A téli kerékpározás Calatayudban a száraz, de metszően hideg levegőről szól. Kezdje a Plaza de Españán, és használja a mozgást a testhőmérséklet fenntartására a reggeli fagyban.\n\nDélben a Puerta de Terrer érintésével haladunk a templomok felé. A tiszta időben a mudéjar téglatornyok élesen rajzolódnak ki a kék téli égbolton. Egy termosz forró teával jó szolgálatot tehet.\n\nAz Ayub vára felé vezető emelkedőn kimelegszik, de a tetőre érve a szél azonnal lehűti. A szélálló ruházat kulcsfontosságú. A kilátás a Jalón-völgyre télen gyakran tisztább, mint nyáron.\n\nA túrát a Bilbilis romjaihoz vezető 4 km-es tekeréssel zárjuk. Mivel a nap korán nyugszik, 17:00 előtt induljon vissza, hogy ne az éjszakai fagyban kelljen tekernie. A San Andrés templom a túra méltó befejezése.",
+            "ro": "Ciclismul de iarnă în Calatayud este marcat de aerul uscat, dar tăios de rece. Începeți din Plaza de España și folosiți mișcarea pentru a menține temperatura corpului împotriva gerului matinal.\n\nLa prânz, traseul trece pe lângă Puerta de Terrer spre marile biserici. Vizibilitatea excelentă face ca turnurile mudéjar să pară foarte clare pe cerul albastru de iarnă. Un termos cu ceai fierbinte este un companion excelent.\n\nUrcarea spre Castelul Ayub vă va încălzi, dar odată ajunși sus, vântul vă va răci imediat. Hainele rezistente la vânt sunt cheia succesului aici. Vederea panoramică este adesea mai clară iarna decât vara.\n\nÎncheiați cu drumul de 4 km spre ruinele Bilbilis. Deoarece soarele apune devreme, porniți înapoi înainte de ora 17:00 pentru a evita amurgul înghețat. Biserica San Andrés marchează finalul acestui tur revigorant.",
+            "en": "Cycling in winter in Calatayud is defined by dry but cuttingly cold air. Start at Plaza de España and keep moving to maintain your body heat against the morning frost.\n\nAt midday, ride past Puerta de Terrer towards the major churches. The clear winter air makes the Mudéjar brick towers stand out sharply against the blue sky. A thermos of hot tea is a great companion for the ride.\n\nThe climb to the Castle of Ayub will warm you up, but the wind at the top will cool you down instantly. Windproof gear is essential. The views over the Jalón Valley are often clearer in winter than in summer.\n\nFinish with the 4 km ride to the ruins of Bilbilis. Since the sun sets early, start your return trip by 5:00 PM to avoid the freezing dusk. San Andrés Church marks the end of a refreshing winter cycling tour."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Starten Sie erst nach 9:30 Uhr, wenn das Eis auf den Steinen geschmolzen ist.",
+                "hu": "Csak 9:30 után induljon, amikor a jég már felszáradt a kövekről.",
+                "ro": "Porniți după ora 9:30, când gheața de pe pietre s-a topit.",
+                "en": "Start after 9:30 AM once any ice on the stones has melted away."
+              }
+            },
+            {
+              "name": "Puerta de Terrer",
+              "tip_5lang": {
+                "de": "Ein schattiger Ort; hier ist es deutlich kälter als auf der Plaza.",
+                "hu": "Árnyékos hely; itt jóval hidegebb van, mint a főtéren.",
+                "ro": "Un loc umbrit; aici este mult mai frig decât în Plaza de España.",
+                "en": "A shaded spot; it is significantly colder here than in the main square."
+              }
+            },
+            {
+              "name": "Collegiate Church of Santa María",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirchenbesichtigung, um die Finger wieder aufzuwärmen.",
+                "hu": "Használja ki a templomlátogatást az ujjai felmelegítésére.",
+                "ro": "Folosiți vizita în biserică pentru a vă reîncălzi degetele.",
+                "en": "Use the church visit as an opportunity to warm up your hands."
+              }
+            },
+            {
+              "name": "Collegiate Church of the Holy Sepulchre",
+              "tip_5lang": {
+                "de": "Parken Sie windgeschützt hinter dem Hauptportal.",
+                "hu": "Parkoljon szélvédett helyen a főbejárat mögött.",
+                "ro": "Parcați bicicleta într-un loc ferit de vânt lângă poarta principală.",
+                "en": "Park your bike in a wind-sheltered spot behind the main portal."
+              }
+            },
+            {
+              "name": "Castle of Ayub",
+              "tip_5lang": {
+                "de": "Ziehen Sie vor der Abfahrt eine zusätzliche Schicht an; der Fahrtwind kühlt stark.",
+                "hu": "Gurulás előtt vegyen fel egy plusz réteget; a menetszél nagyon hűt.",
+                "ro": "Puneți un strat suplimentar înainte de coborâre; vântul răcește rapid.",
+                "en": "Put on an extra layer before descending; the wind chill is significant."
+              }
+            },
+            {
+              "name": "Ruins of Bilbilis",
+              "tip_5lang": {
+                "de": "Harte, gefrorene Wege; gute Reifenprofile sind wichtig.",
+                "hu": "Kemény, fagyott ösvények; a jó gumiprofil fontos.",
+                "ro": "Poteci dure, înghețate; profilul bun al anvelopelor este esențial.",
+                "en": "Hard, frozen paths; having good tire tread is important here."
+              }
+            },
+            {
+              "name": "Church of San Andrés",
+              "tip_5lang": {
+                "de": "Ende der Tour; ein warmer Tee im nahen Café ist jetzt verdient.",
+                "hu": "A túra vége; egy forró tea a közeli kávézóban megérdemelt pihenő.",
+                "ro": "Finalul turului; un ceai cald la o cafenea din apropiere este binevenit.",
+                "en": "End of the tour; you deserve a hot tea in a nearby cafe now."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Vollfinger-Handschuhe; die Bremshebel aus Metall werden extrem kalt.",
+              "Vermeiden Sie schattige Gassen am frühen Morgen wegen möglicher Glätte.",
+              "Licht am Fahrrad ist Pflicht, da es im Winter schon früh dämmrig wird.",
+              "Trinken Sie auch bei Kälte genug Wasser, die trockene Luft dehydriert unbemerkt.",
+              "Wärmen Sie Ihre Muskeln vor dem ersten steilen Anstieg kurz auf."
+            ],
+            "hu": [
+              "Viseljen zárt kesztyűt; a fém fékkarok rendkívül lehűlnek.",
+              "Kora reggel kerülje az árnyékos utcákat az esetleges jegesedés miatt.",
+              "A világítás kötelező, mert télen hamar sötétedik.",
+              "Igyon elég vizet a hidegben is, a száraz levegő észrevétlenül dehidratál.",
+              "Melegítse be az izmait az első meredek emelkedő előtt."
+            ],
+            "ro": [
+              "Purtați mănuși cu degete lungi; manetele de frână metalice devin extrem de reci.",
+              "Evitați străzile umbrite dimineața devreme din cauza posibilului polei.",
+              "Luminile la bicicletă sunt obligatorii, se întunecă devreme iarna.",
+              "Beți suficientă apă și pe frig, aerul uscat deshidratează fără să observați.",
+              "Încălziți-vă mușchii înainte de prima urcare abruptă."
+            ],
+            "en": [
+              "Wear full-finger gloves; metal brake levers get extremely cold in winter.",
+              "Avoid shaded alleys in the early morning due to potential icy patches.",
+              "Bike lights are mandatory as it starts to get dark early in winter.",
+              "Stay hydrated even in the cold; dry air can dehydrate you unnoticed.",
+              "Warm up your muscles briefly before attempting the first steep climb."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1170,6 +1586,196 @@
           "A GPS is essential for navigating the country roads.",
           "Allow extra time for photo stops on your drives."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag in Calatayud lässt sich am besten mit dem Auto bewältigen. Starten Sie direkt am Parkplatz von Bilbilis. Während es draußen regnet, können Sie die Fahrt zu den Ruinen genießen und nur für kurze Erkundungsgänge aussteigen.\n\nMittags fahren Sie zurück in die Stadt zum Castle Parking. Von dort ist es nur ein kurzer, nasser Sprint zu den Festungsmauern. Das Auto bietet einen warmen Rückzugsort zwischen den Besichtigungen.\n\nAm Nachmittag parken Sie im zentralen Parkhaus. So erreichen Sie die Kirche Santa María fast trockenen Fußes. Die mudéjarischen Details lassen sich im Inneren ausgiebig studieren, während draußen der Regen gegen die alten Fenster peitscht.\n\nDer Tag endet gemütlich in der Innenstadt. Das Auto bleibt sicher im Parkhaus, während Sie den Tag in einem der Restaurants nahe der Plaza de España ausklingen lassen.",
+            "hu": "Az esős nap Calatayudban legkényelmesebben autóval hidalható át. Kezdjen a Bilbilis melletti parkolóban. Amíg kint esik, élvezheti az utat a romokig, és csak a legfontosabb látnivalókhoz szálljon ki.\n\nDélben hajtson vissza a városba a vár alatti parkolóba. Innen csak egy rövid, vizes sprint választja el a várfalaktól. Az autó kiváló menedéket nyújt a két helyszín között.\n\nDélután használja a központi parkolóházat. Így szinte száraz lábbal érheti el a Santa María templomot. Bent nyugodtan tanulmányozhatja a mudéjar részleteket, miközben kint veri az eső az ablakokat.\n\nA nap az óvárosban ér véget. Az autó biztonságban marad a garázsban, amíg Ön a Plaza de España környéki éttermek egyikében vacsorázik.",
+            "ro": "O zi ploioasă în Calatayud este cel mai ușor de gestionat cu mașina. Începeți direct la parcarea Bilbilis. În timp ce afară plouă, vă puteți bucura de drumul spre ruine, coborând doar pentru scurte explorări.\n\nLa prânz, reveniți în oraș la parcarea castelului. De acolo, este doar un scurt sprint prin ploaie până la zidurile fortăreței. Mașina oferă un refugiu cald între obiective.\n\nDupă-amiaza, lăsați mașina în parcarea subterană centrală. Astfel ajungeți la biserica Santa María aproape fără să vă udați. Detaliile mudéjar pot fi studiate pe îndelete în interior, feriți de intemperii.\n\nZiua se încheie confortabil în centrul orașului. Mașina rămâne în siguranță în garaj în timp ce luați cina într-un restaurant de lângă Plaza de España.",
+            "en": "A rainy day in Calatayud is best handled by car. Start directly at the Bilbilis parking lot. While it rains outside, you can enjoy the drive to the ruins and step out only for short explorations of the forum area.\n\nAt midday, drive back to the city to the Castle Parking Area. From there, it is just a quick, wet dash to the fortress walls. The car provides a warm and dry sanctuary between site visits.\n\nIn the afternoon, park in the central parking garage. This allows you to reach Santa María Church with minimal exposure to the rain. Inside, you can study the Mudéjar details at leisure while the rain drums against the old windows.\n\nEnd the day comfortably in the city center. Your car remains safe in the garage while you enjoy dinner at one of the restaurants near Plaza de España."
+          },
+          "stops": [
+            {
+              "name": "Parking at Bilbilis",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist unbefestigt; Vorsicht vor tiefen Schlammpfützen.",
+                "hu": "A parkoló nem aszfaltozott; vigyázzon a mély sáros tócsákra.",
+                "ro": "Parcarea este neasfaltată; atenție la bălțile adânci de noroi.",
+                "en": "The parking area is unpaved; watch out for deep muddy puddles."
+              }
+            },
+            {
+              "name": "Ruins of Bilbilis",
+              "tip_5lang": {
+                "de": "Lassen Sie den Schirm im Auto, wenn der Wind zu stark ist; Regenjacke nutzen.",
+                "hu": "Hagyja az esernyőt az autóban, ha erős a szél; használjon esőkabátot.",
+                "ro": "Lăsați umbrela în mașină dacă vântul e prea tare; folosiți pelerina.",
+                "en": "Leave the umbrella in the car if it's too windy; use a raincoat instead."
+              }
+            },
+            {
+              "name": "Castle Parking Area",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Aufgang, um den Weg im Regen zu verkürzen.",
+                "hu": "Parkoljon közel a feljáróhoz, hogy lerövidítse az utat az esőben.",
+                "ro": "Parcați aproape de intrare pentru a scurta drumul prin ploaie.",
+                "en": "Park close to the entrance to shorten your walk through the rain."
+              }
+            },
+            {
+              "name": "Castle of Ayub",
+              "tip_5lang": {
+                "de": "Die Sicht vom Auto aus ist begrenzt; steigen Sie für das Panorama kurz aus.",
+                "hu": "Az autóból korlátozott a kilátás; szálljon ki rövid időre a panorámáért.",
+                "ro": "Vizibilitatea din mașină este limitată; coborâți scurt pentru panoramă.",
+                "en": "Visibility from the car is limited; step out briefly for the panorama."
+              }
+            },
+            {
+              "name": "City Center Parking Garage",
+              "tip_5lang": {
+                "de": "Ideal, um das Auto trocken abzustellen und die Kirchen zu besuchen.",
+                "hu": "Ideális hely az autó száraz leállításához a templomlátogatás idejére.",
+                "ro": "Ideal pentru a lăsa mașina la uscat în timp ce vizitați bisericile.",
+                "en": "Ideal for keeping the car dry while you visit the indoor churches."
+              }
+            },
+            {
+              "name": "Collegiate Church of Santa María",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Inneren, während das Auto sicher parkt.",
+                "hu": "Élvezze a benti nyugalmat, amíg az autó biztonságban parkol.",
+                "ro": "Bucurați-vă de liniștea din interior în timp ce mașina e parcată sigur.",
+                "en": "Enjoy the peace inside while your car is safely parked nearby."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt zu den Ruinen von Bilbilis.",
+              "Die Straßen in der Altstadt sind eng und bei Nässe rutschig; fahren Sie langsam.",
+              "Nutzen Sie überdachte Parkhäuser, um Ein- und Aussteigen angenehmer zu machen.",
+              "Halten Sie ein Handtuch im Auto bereit, um nasse Kleidung abzutrocknen.",
+              "Vermeiden Sie das Parken unter alten Bäumen bei starkem Wind und Regen."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket a Bilbilis felé tartó út előtt.",
+              "Az óváros utcái szűkek és vizesen csúszósak; vezessen lassan.",
+              "Használja a fedett parkolóházakat a kényelmesebb ki- és beszálláshoz.",
+              "Tartson egy törölközőt az autóban a vizes ruhák áttörléséhez.",
+              "Erős szélben és esőben kerülje a régi fák alatti parkolást."
+            ],
+            "ro": [
+              "Verificați ștergătoarele de parbriz înainte de drumul spre Bilbilis.",
+              "Străzile din centrul vechi sunt înguste și alunecoase; conduceți cu atenție.",
+              "Folosiți parcările subterane pentru un acces mai confortabil la mașină.",
+              "Păstrați un prosop în mașină pentru a vă șterge după reprizele de ploaie.",
+              "Evitați parcarea sub arbori bătrâni în timpul vântului puternic."
+            ],
+            "en": [
+              "Check your windshield wipers before heading out to the ruins of Bilbilis.",
+              "Old town streets are narrow and slippery when wet; drive slowly and carefully.",
+              "Use covered parking garages to make getting in and out of the car easier.",
+              "Keep a towel in the car to dry off after returning from outdoor stops.",
+              "Avoid parking under old trees during heavy wind and rain conditions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintertage in Calatayud können frostig sein, daher ist das Auto der ideale Wärmespeicher. Starten Sie früh am Parkplatz von Bilbilis. Die klare Winterluft bietet eine fantastische Sicht auf die Ruinen, und Sie können sich im Auto zwischendurch aufwärmen.\n\nMittags fahren Sie zum Castle Parking. Die Sonne steht tief und taucht die Burg Ayub in ein goldenes Licht. Die kurzen Wege vom Auto zu den Aussichtspunkten machen den Winterbesuch auch bei eisigem Wind angenehm.\n\nAm Nachmittag bietet das zentrale Parkhaus Schutz vor der Kälte. Von dort aus erreichen Sie die Santa María Kirche in wenigen Minuten. Die prachtvolle Mudéjar-Architektur ist ein Highlight, das man am besten ohne Zeitdruck im warmen Inneren genießt.\n\nDie Tour endet, wenn die Sonne früh hinter den Hügeln verschwindet. Dank des Autos sind Sie flexibel und können die Rückreise antreten, sobald die Temperaturen nach Sonnenuntergang rapide sinken.",
+            "hu": "A téli napok Calatayudban fagyosak lehetnek, így az autó kiváló menedék. Kezdjen korán a Bilbilis melletti parkolóban. A tiszta téli levegő fantasztikus kilátást nyújt a romokra, az autóban pedig bármikor felmelegedhet.\n\nDélben hajtson a vár alatti parkolóba. Az alacsonyan járó nap arany fénybe vonja az Ayub várat. Az autó és a kilátópontok közötti rövid távolságok miatt a jeges szélben is élvezhető a látogatás.\n\nDélután a központi parkolóházban hagyja az autót, védve a hidegtől. Innen pár perc alatt elérhető a Santa María templom. A mudéjar építészet remekeit a fűtött belső terek közelében a legjobb felfedezni.\n\nA túra a korai naplemente után ér véget. Az autónak köszönhetően rugalmas maradhat, és elindulhat haza, amint a hőmérséklet drasztikusan csökkenni kezd a sötétedéssel.",
+            "ro": "Zilele de iarnă în Calatayud pot fi geroase, de aceea mașina este refugiul ideal. Începeți devreme la parcarea Bilbilis. Aerul clar de iarnă oferă o vizibilitate fantastică asupra ruinelor, iar mașina vă permite să vă încălziți rapid.\n\nLa prânz, conduceți spre parcarea castelului. Soarele palid scaldă Castelul Ayub într-o lumină aurie. Distanțele scurte de la mașină la punctele de observație fac vizita plăcută chiar și în vânt înghețat.\n\nDupă-amiaza, parcarea subterană centrală oferă protecție împotriva frigului. De acolo, ajungeți la biserica Santa María în câteva minute. Arhitectura mudéjar este un punct culminant care merită savurat în interior.\n\nTurul se încheie odată cu apusul devreme. Datorită mașinii, sunteți flexibil și puteți porni la drum imediat ce temperaturile scad drastic după lăsarea întunericului.",
+            "en": "Winter days in Calatayud can be frosty, making your car the perfect mobile heater. Start early at the Bilbilis parking lot. The crisp winter air offers fantastic visibility over the ruins, and you can warm up in the car between photo stops.\n\nAt midday, drive to the Castle Parking Area. The low winter sun bathes the Castle of Ayub in golden light. The short walks from the car to the viewpoints make the winter visit enjoyable even when the wind is biting.\n\nIn the afternoon, the central parking garage provides protection from the cold. From there, you can reach Santa María Church in just a few minutes. The magnificent Mudéjar architecture is best enjoyed in the calm interior.\n\nThe tour ends as the sun dips behind the hills early. Thanks to the car, you remain flexible and can head back as soon as the temperature drops rapidly after sunset."
+          },
+          "stops": [
+            {
+              "name": "Parking at Bilbilis",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Boden am Morgen; Glättegefahr beim Parken.",
+                "hu": "Vigyázzon a reggeli fagyott talajjal; csúszásveszély parkoláskor.",
+                "ro": "Atenție la solul înghețat dimineața; risc de derapare la parcare.",
+                "en": "Watch out for frozen ground in the morning; risk of slipping while parking."
+              }
+            },
+            {
+              "name": "Ruins of Bilbilis",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Windschutz für Pausen während der Erkundung.",
+                "hu": "Használja az autót szélfogóként a romok felfedezése közbeni szünetekben.",
+                "ro": "Folosiți mașina ca paravan împotriva vântului în timpul pauzelor.",
+                "en": "Use the car as a windbreak for breaks during your exploration of the site."
+              }
+            },
+            {
+              "name": "Castle Parking Area",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen; die Aussicht ist auch so schön.",
+                "hu": "Ne járassa feleslegesen a motort; a kilátás álló helyzetben is szép.",
+                "ro": "Nu lăsați motorul pornit inutil; vederea este frumoasă și de pe loc.",
+                "en": "Don't leave the engine idling unnecessarily; the view is great regardless."
+              }
+            },
+            {
+              "name": "Castle of Ayub",
+              "tip_5lang": {
+                "de": "Die Burgmauern sind im Winter oft mit Reif bedeckt; Vorsicht beim Gehen.",
+                "hu": "A várfalakat télen gyakran zúzmara borítja; óvatosan járjon a köveken.",
+                "ro": "Zidurile castelului sunt adesea acoperite de chiciură; atenție la mers.",
+                "en": "Castle walls are often covered in frost in winter; be careful while walking."
+              }
+            },
+            {
+              "name": "City Center Parking Garage",
+              "tip_5lang": {
+                "de": "Die Temperatur im Parkhaus ist meist angenehmer als auf der Straße.",
+                "hu": "A parkolóház hőmérséklete általában kellemesebb, mint az utcán.",
+                "ro": "Temperatura în garaj este de obicei mai blândă decât pe stradă.",
+                "en": "The garage temperature is usually more pleasant than on the street."
+              }
+            },
+            {
+              "name": "Collegiate Church of Santa María",
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine gute Gelegenheit, sich vor der Rückfahrt aufzuwärmen.",
+                "hu": "A templom jó lehetőség a felmelegedésre a hazaút előtt.",
+                "ro": "Biserica oferă o oportunitate bună de încălzire înainte de drumul de întoarcere.",
+                "en": "The church provides a good chance to warm up before your drive back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutzgehalt Ihres Kühlwassers vor der Reise nach Aragonien.",
+              "Ein Eiskratzer im Handschuhfach ist für die Morgenstunden unerlässlich.",
+              "Die tiefstehende Sonne kann blenden; halten Sie eine Sonnenbrille bereit.",
+              "Planen Sie die Fahrt zu den Ruinen von Bilbilis für die Mittagsstunden (höchste Temperatur).",
+              "Achten Sie auf Brücken auf mögliche Glatteisbildung bei Temperaturen um 0°C."
+            ],
+            "hu": [
+              "Ellenőrizze a hűtőfolyadék fagyállóságát az aragóniai út előtt.",
+              "A jégkaparó elengedhetetlen a reggeli induláshoz.",
+              "Az alacsonyan járó nap elvakíthat; tartson készenlétben napszemüveget.",
+              "A Bilbilis romjaihoz vezető utat a déli órákra időzítse a legmagasabb hőmérséklet miatt.",
+              "A hidakon figyeljen az esetleges jegesedésre 0°C körüli hőmérsékletnél."
+            ],
+            "ro": [
+              "Verificați antigelul înainte de călătoria în regiunea Aragon.",
+              "O racletă pentru gheață este esențială pentru pornirea de dimineață.",
+              "Soarele jos poate fi orbitor; aveți la îndemână ochelari de soare.",
+              "Planificați drumul spre Bilbilis în jurul prânzului pentru temperaturi maxime.",
+              "Atenție la formarea poleiului pe poduri când temperaturile sunt aproape de 0°C."
+            ],
+            "en": [
+              "Check your antifreeze levels before traveling to the Aragon region.",
+              "An ice scraper is essential for the early morning starts in Calatayud.",
+              "The low sun can be blinding; keep your sunglasses handy for driving.",
+              "Schedule the drive to Bilbilis for midday to benefit from the highest temperatures.",
+              "Watch out for icy patches on bridges when temperatures are near freezing."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1542,6 +2148,196 @@
           "Have some small change ready for bus tickets.",
           "Be prepared for some walking between the bus stops and the actual sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel in Calatayud sind bei Regen eine gute Wahl, um trocken zwischen den Stadtteilen zu pendeln. Starten Sie an der Plaza de España, wo Cafés unter Arkaden das Warten auf den Bus angenehm machen.\n\nMittags erreichen Sie die großen Kirchen Santa María und San Pedro per Bus. Die kurzen Wege von den Haltestellen minimieren die Zeit im Regen. Die Mudéjar-Architektur wirkt im diffusen Licht der Wolken besonders authentisch.\n\nAm Nachmittag bringt Sie der Bus in die Nähe des Castle of Ayub. Das Warten an der Bushaltestelle bietet Schutz, aber der letzte Anstieg zum Burgberg bleibt eine nasse Angelegenheit. Ein guter Zeitplan ist hier wichtig, um nicht unnötig im Regen zu stehen.\n\nDie Tour endet mit der Busfahrt zu den Ruinen von Bilbilis. Da die Haltestelle etwas entfernt liegt, sollten Sie für das letzte Stück einen festen Schirm einplanen. Die Rückfahrt in die Stadt bietet die Möglichkeit, die nasse Kleidung kurz zu trocknen.",
+            "hu": "A közösségi közlekedés Calatayudban esőben jó választás a városrészek közötti száraz közlekedéshez. Kezdjen a Plaza de Españán, ahol az árkádos kávézókban kényelmesen várhatja a buszt.\n\nDélben busszal érheti el a Santa María és San Pedro templomokat. A megállóktól való rövid séta minimalizálja az esőben töltött időt. A mudéjar építészet a szórt fényben különösen hiteles látványt nyújt.\n\nDélután a vár közelébe viszi a busz. A megállóban várakozva védve van, de a várhegyre való feljutás esőben is vizes marad. A menetrend pontos ismerete fontos, hogy ne álljon feleslegesen a csapadékban.\n\nA túra a Bilbilis romjaihoz vezető buszúttal zárul. Mivel a megálló távolabb van, az utolsó szakaszra készüljön stabil esernyővel. A városba való visszatérés lehetőséget ad a vizes ruhák rövid száradására.",
+            "ro": "Transportul public în Calatayud este o opțiune bună pe ploaie pentru a naviga între cartiere. Începeți în Plaza de España, unde cafenelele de sub arcade fac așteptarea autobuzului mai plăcută.\n\nLa prânz, ajungeți la bisericile Santa María și San Pedro cu autobuzul. Distanțele scurte de la stații minimizează timpul petrecut în ploaie. Stilul mudéjar arată deosebit de autentic sub cerul înnorat.\n\nDupă-amiaza, autobuzul vă lasă aproape de Castelul Ayub. Stația oferă protecție, dar urcarea finală pe deal rămâne o experiență umedă. Un program bine stabilit este esențial pentru a nu aștepta inutil în ploaie.\n\nVizita se încheie cu drumul spre Bilbilis. Deoarece stația este la o anumită distanță, aveți nevoie de o umbrelă rezistentă pentru ultima porțiune. Drumul de întoarcere în oraș oferă ocazia de a vă usca puțin hainele.",
+            "en": "Public transit in Calatayud is a sensible choice in the rain to move between districts while staying dry. Start at Plaza de España, where arcaded cafes make waiting for your bus quite pleasant.\n\nAt midday, reach the Santa María and San Pedro churches by bus. The short distances from the stops minimize your exposure to the rain. The Mudéjar architecture looks particularly authentic under the diffuse light of the clouds.\n\nIn the afternoon, take a bus near the Castle of Ayub. The bus stop provides some shelter, but the final ascent to the fortress remains a wet climb. Good timing is key to avoid standing in the downpour unnecessarily.\n\nEnd the tour with a bus trip towards the ruins of Bilbilis. As the stop is a bit far from the site, bring a sturdy umbrella for the final stretch. The bus ride back to the city gives you a chance to dry off slightly."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Warten Sie in den Arkaden, bis der Bus einfährt.",
+                "hu": "Várjon az árkádok alatt, amíg a busz be nem érkezik.",
+                "ro": "Așteptați sub arcade până când vedeți autobuzul sosind.",
+                "en": "Wait under the arcades until you see your bus approaching."
+              }
+            },
+            {
+              "name": "Collegiate Church of Santa María",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nah; rennen Sie bei Schauern zum Eingang.",
+                "hu": "A megálló közel van; zápor esetén fusson a bejáratig.",
+                "ro": "Stația este aproape; alergați spre intrare în caz de aversă.",
+                "en": "The stop is very close; make a quick dash to the entrance if it rains."
+              }
+            },
+            {
+              "name": "Church of San Pedro de los Francos",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Rückfahrplan digital, um Wartezeiten im Freien zu vermeiden.",
+                "hu": "Ellenőrizze a menetrendet digitálisan, hogy ne kelljen kint várnia.",
+                "ro": "Verificați programul online pentru a evita așteptarea în ploaie.",
+                "en": "Check the schedule online to avoid waiting outside in the wet."
+              }
+            },
+            {
+              "name": "Bus Stop near Castle",
+              "tip_5lang": {
+                "de": "Bietet ein kleines Dach; bleiben Sie während der Schauer hier.",
+                "hu": "Kis tetővel rendelkezik; maradjon itt a leghevesebb eső alatt.",
+                "ro": "Are un mic acoperiș; rămâneți aici în timpul ploii torențiale.",
+                "en": "Has a small roof; stay here during the heaviest parts of the downpour."
+              }
+            },
+            {
+              "name": "Castle of Ayub",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Haltestelle ist steil und kann rutschig sein.",
+                "hu": "A gyalogút a megállótól meredek és csúszós lehet.",
+                "ro": "Drumul de la stație este abrupt și poate fi alunecos.",
+                "en": "The walk from the bus stop is steep and can be slippery when wet."
+              }
+            },
+            {
+              "name": "Bilbilis Bus Stop",
+              "tip_5lang": {
+                "de": "Verlassen Sie den Bus erst, wenn der Regen etwas nachlässt.",
+                "hu": "Csak akkor szálljon le a buszról, ha az eső alábbhagy.",
+                "ro": "Coborâți din autobuz doar când ploaia se mai potolește.",
+                "en": "Only get off the bus when the rain lets up a little bit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die lokale Verkehrs-App für Echtzeit-Infos herunter.",
+              "Halten Sie Kleingeld oder eine Fahrkarte bereit, um den Einstieg im Regen zu beschleunigen.",
+              "Tragen Sie wasserfeste Kleidung; die Busse können bei Regen sehr voll sein.",
+              "Nutzen Sie die Wartezeiten an den Haltestellen für kurze Café-Besuche in der Nähe.",
+              "Der Bus nach Bilbilis fährt seltener; planen Sie die Rückfahrt genau ein."
+            ],
+            "hu": [
+              "Töltse le a helyi közlekedési alkalmazást a valós idejű infókért.",
+              "Készítsen elő aprópénzt vagy jegyet a gyors felszálláshoz az esőben.",
+              "Viseljen vízálló ruhát; a buszok esőben zsúfoltak lehetnek.",
+              "Használja ki a várakozási időt egy gyors kávéra a közeli helyeken.",
+              "A Bilbilis felé tartó busz ritkábban jár; tervezze meg pontosan a visszautat."
+            ],
+            "ro": [
+              "Descărcați aplicația locală de transport pentru informații în timp real.",
+              "Pregătiți mărunțiș sau biletul pentru a urca rapid în autobuz pe ploaie.",
+              "Purtați haine impermeabile; autobuzele pot fi aglomerate când plouă.",
+              "Folosiți timpul de așteptare pentru o vizită scurtă la o cafenea din zonă.",
+              "Autobuzul spre Bilbilis circulă rar; planificați exact ora de întoarcere."
+            ],
+            "en": [
+              "Download the local transit app for real-time schedule information.",
+              "Have your change or ticket ready to speed up boarding during a downpour.",
+              "Wear waterproof clothing; buses can get quite crowded on rainy days.",
+              "Use the waiting time at stops for quick cafe visits nearby.",
+              "The bus to Bilbilis runs less frequently; plan your return trip carefully."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Nutzung öffentlicher Verkehrsmittel in Calatayud im Winter ist eine kluge Strategie, um der eisigen Brise zu entkommen. Starten Sie an der Plaza de España, wo Sie in den umliegenden Geschäften bis zur Abfahrt im Warmen bleiben können.\n\nMittags bringen Sie die Busse zuverlässig zu den mudéjarischen Sehenswürdigkeiten. In den beheizten Fahrzeugen können Sie die Kälte der Gassen kurz vergessen. Die klare Wintersonne lässt die Backsteinbauten der Kirchen in einem besonderen Glanz erstrahlen.\n\nAm Nachmittag führt die Fahrt zum Castle of Ayub. Die Haltestelle bietet Schutz vor dem kalten Wind, aber der Aufstieg zum Gipfel erfordert gute Winterkleidung. Die Fernsicht auf die gefrorenen Landschaften ist in der klaren Luft atemberaubend.\n\nBeenden Sie die Tour mit dem Bus nach Bilbilis. Achten Sie auf den Fahrplan, da die Frequenz im Winter reduziert sein kann. Kehren Sie vor Sonnenuntergang (17:30) zur Haltestelle zurück, um die frostige Abenddämmerung im Bus zu verbringen.",
+            "hu": "A közösségi közlekedés Calatayudban télen okos stratégia a fagyos szél elkerülésére. Kezdjen a Plaza de Españán, ahol a közeli üzletekben melegedhet a busz indulásáig.\n\nDélben a buszok megbízhatóan viszik a mudéjar látnivalókhoz. A fűtött járműveken rövid időre elfelejtheti az utcák hidegét. A tiszta téli napsütésben a templomok téglafalai különleges fényben tündökölnek.\n\nDélután a vár felé veheti az irányt. A megálló védelmet nyújt a hideg szél ellen, de a várhegyre való feljutáshoz jó téli ruházat kell. A fagyos táj látványa a tiszta levegőben lenyűgöző.\n\nA túrát a Bilbilis felé tartó busszal zárjuk. Ügyeljen a menetrendre, mert télen ritkábbak lehetnek a járatok. Térjen vissza a megállóba naplemente (17:30) előtt, hogy az esti fagyot már a buszon töltse.",
+            "ro": "Utilizarea transportului public în Calatayud iarna este o strategie inteligentă pentru a scăpa de briza înghețată. Începeți în Plaza de España, unde puteți sta la căldură în magazinele din jur până la sosirea autobuzului.\n\nLa prânz, autobuzele vă transportă eficient spre obiectivele mudéjar. În vehiculele încălzite puteți uita pentru scurt timp de frigul de pe străzi. Soarele clar de iarnă pune într-o lumină specială cărămizile bisericilor.\n\nDupă-amiaza, călătoriți spre Castelul Ayub. Stația oferă protecție împotriva vântului rece, dar urcarea pe deal necesită haine groase de iarnă. Vederea spre peisajele înghețate este spectaculoasă în aerul curat.\n\nÎncheiați vizita cu autobuzul spre Bilbilis. Atenție la program, frecvența curselor poate fi redusă iarna. Reveniți la stație înainte de apus (17:30) pentru a petrece amurgul geroas în interiorul autobuzului.",
+            "en": "Using public transit in Calatayud during winter is a smart strategy to escape the icy breeze. Start at Plaza de España, where you can stay warm in the surrounding shops until your bus arrives.\n\nAt midday, buses reliably transport you to the Mudéjar landmarks. Inside the heated vehicles, you can briefly forget the chill of the narrow streets. The clear winter sun makes the brickwork of the churches shine with a special glow.\n\nIn the afternoon, head towards the Castle of Ayub. The bus stop provides shelter from the cold wind, but the climb to the summit requires proper winter gear. The panoramic views of the frozen landscapes are breathtaking in the crisp air.\n\nFinish your tour with a bus trip to the ruins of Bilbilis. Keep an eye on the schedule, as frequency might be reduced in winter. Return to the stop before sunset (5:30 PM) to spend the freezing dusk inside the warmth of the bus."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für einen schnellen Kaffee zum Aufwärmen.",
+                "hu": "Használja ki az időt egy gyors felmelegítő kávéra.",
+                "ro": "Folosiți timpul pentru o cafea rapidă ca să vă încălziți.",
+                "en": "Use the waiting time to grab a quick coffee and warm up."
+              }
+            },
+            {
+              "name": "Collegiate Church of Santa María",
+              "tip_5lang": {
+                "de": "Die dicken Mauern sind kälter als der beheizte Bus; Jacke anlassen.",
+                "hu": "A vastag falak hidegebbek, mint a fűtött busz; hagyja magán a kabátot.",
+                "ro": "Zidurile groase sunt mai reci decât autobuzul; păstrați haina pe dvs.",
+                "en": "The thick walls are colder than the heated bus; keep your coat on."
+              }
+            },
+            {
+              "name": "Church of San Pedro de los Francos",
+              "tip_5lang": {
+                "de": "Nahegelegene Cafés bieten eine gute Aufwärmpause nach dem Besuch.",
+                "hu": "A közeli kávézók jó lehetőséget adnak a melegedésre a látogatás után.",
+                "ro": "Cafenelele din apropiere oferă o pauză bună de încălzire după vizită.",
+                "en": "Nearby cafes offer a great warm-up break after your visit."
+              }
+            },
+            {
+              "name": "Bus Stop near Castle",
+              "tip_5lang": {
+                "de": "Oft windig; suchen Sie den windgeschütztesten Winkel am Wartehäuschen.",
+                "hu": "Gyakran szeles; keresse a legvédettebb sarkot a váróban.",
+                "ro": "Adesea vântos; căutați colțul cel mai ferit din stație.",
+                "en": "Often windy; find the most sheltered corner of the bus shelter."
+              }
+            },
+            {
+              "name": "Castle of Ayub",
+              "tip_5lang": {
+                "de": "Gehen Sie stramm, um die Körperwärme auf dem Weg nach oben zu halten.",
+                "hu": "Gyalogoljon tempósan, hogy megőrizze testhőjét a felfelé vezető úton.",
+                "ro": "Mergeți vioi pentru a menține căldura corpului pe drumul spre culme.",
+                "en": "Walk briskly to maintain your body heat on the way up the hill."
+              }
+            },
+            {
+              "name": "Bilbilis Bus Stop",
+              "tip_5lang": {
+                "de": "Letzter Bus fährt oft pünktlich zum Sonnenuntergang; nicht verpassen.",
+                "hu": "Az utolsó busz gyakran pontosan naplementekor indul; ne késse le.",
+                "ro": "Ultimul autobuz pleacă adesea fix la apus; nu îl ratați.",
+                "en": "The last bus often departs right at sunset; make sure not to miss it."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Socken; das Warten auf kalten Gehwegen kühlt die Füße schnell aus.",
+              "Nutzen Sie die beheizten Busse als Gelegenheit, Ihre Akkus von Kamera oder Handy warm zu halten.",
+              "Die Fahrpläne können an Feiertagen im Winter stark variieren; vorab prüfen.",
+              "Nehmen Sie einen Thermobecher mit einem heißen Getränk mit in den Bus.",
+              "Bevorzugen Sie Haltestellen mit geschlossenen Wartehäuschen."
+            ],
+            "hu": [
+              "Viseljen meleg zoknit; a hideg járdán való várakozás hamar lehűti a lábat.",
+              "Használja a fűtött buszokat a kamera vagy telefon akkumulátorának melegen tartására.",
+              "A menetrendek téli ünnepekkor változhatnak; ellenőrizze előre.",
+              "Vigyen magával termoszpohárban forró italt a buszra.",
+              "Részesítse előnyben a zártabb váróval rendelkező megállókat."
+            ],
+            "ro": [
+              "Purtați șosete groase; așteptarea pe trotuarul rece răcește rapid picioarele.",
+              "Folosiți autobuzele încălzite pentru a menține bateriile camerei sau telefonului calde.",
+              "Orarele pot varia semnificativ în timpul sărbătorilor de iarnă; verificați din timp.",
+              "Luați o cană termos cu o băutură caldă în autobuz.",
+              "Preferați stațiile care au adăposturi închise pentru așteptare."
+            ],
+            "en": [
+              "Wear warm socks; waiting on cold pavements will chill your feet quickly.",
+              "Use the heated buses as an opportunity to keep your camera or phone batteries warm.",
+              "Transit schedules may vary during winter holidays; check in advance.",
+              "Bring a thermos mug with a hot drink to enjoy during the bus rides.",
+              "Prefer bus stops that feature enclosed shelters to stay out of the wind."
+            ]
+          }
+        }
       }
     }
   }

@@ -281,6 +281,170 @@
           "Check the opening hours of the church as they can vary.",
           "Bring a camera to capture the picturesque landscapes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Dübendorf zeigt sich bei Regen von seiner gemütlichen Seite. Beginnen Sie den Morgen in der schützenden Obere Mühle, bevor Sie die spirituelle Ruhe in Gfenn genießen. Mittags bietet die Waldmannsburg einen historischen Unterschlupf. Der Nachmittag am Glatt-Ufer erfordert gute Regenbekleidung, führt aber zum Milandia, wo Sport- und Wellnessbereiche das perfekte Indoor-Finale bilden.",
+            "hu": "Dübendorf esőben is tartogat kellemes meglepetéseket. Kezdje a reggelt az Obere Mühle kulturális központ fedett tereiben, majd látogasson el a Gfenn-i templomba. Ebédidőben a Waldmannsburg fala nyújt menedéket. A Glatt menti séta esőben frissítő, a napot pedig a Milandia hatalmas fedett sport- és szabadidőközpontjában zárhatja, ahol garantáltan szárazon marad.",
+            "ro": "Dübendorf oferă un farmec aparte chiar și pe ploaie. Începeți dimineața la centrul cultural Obere Mühle, un refugiu ideal. Vizita la biserica din Gfenn oferă liniște interioară, iar prânzul la Waldmannsburg vă ferește de intemperii. După-amiaza pe malul râului Glatt necesită o umbrelă solidă, dar finalul la Milandia asigură activități indoor variate pentru toate vârstele.",
+            "en": "Dübendorf remains accessible even under rainy skies. Start your morning at the sheltered Obere Mühle cultural center. The Gfenn church provides a peaceful indoor stop before a lunch break at the historic Waldmannsburg. While the Glatt path requires rain gear, the day concludes perfectly at Milandia, offering extensive indoor sports and wellness facilities to dry off."
+          },
+          "stops": [
+            {
+              "name": "Obere Mühle (Upper Mill)",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Bistro im Inneren, um den ersten Regenguss trocken abzuwarten.",
+                "hu": "Használja a belső bisztrót, hogy szárazon várja meg az első zápor végét.",
+                "ro": "Folosiți bistroul din interior pentru a aștepta trecerea primei averse.",
+                "en": "Use the indoor bistro to wait out the first rain shower in comfort."
+              }
+            },
+            {
+              "name": "Lazarite Church Gfenn",
+              "tip_5lang": {
+                "de": "Die dicken Kirchenmauern bieten exzellenten Schutz und eine ruhige Atmosphäre.",
+                "hu": "A vastag templomfalak kiváló védelmet és nyugodt légkört biztosítanak.",
+                "ro": "Zidurile groase ale bisericii oferă protecție excelentă și o atmosferă liniștită.",
+                "en": "The thick church walls offer excellent shelter and a calm atmosphere."
+              }
+            },
+            {
+              "name": "Waldmannsburg Castle",
+              "tip_5lang": {
+                "de": "Genießen Sie den Ausblick auf die verregnete Landschaft vom sicheren Restaurant aus.",
+                "hu": "Élvezze a kilátást az esős tájra a biztonságos étterem ablakából.",
+                "ro": "Bucurați-vă de priveliștea peisajului ploios din interiorul restaurantului.",
+                "en": "Enjoy the view of the rainy landscape from the safety of the restaurant."
+              }
+            },
+            {
+              "name": "Glatt Riverside Path",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen; die asphaltierten Abschnitte sind bei Nässe am besten begehbar.",
+                "hu": "Vigyázzon a tócsákra; az aszfaltozott szakaszok a legjobbak esős időben.",
+                "ro": "Atenție la bălți; porțiunile asfaltate sunt cele mai bune pe timp de ploaie.",
+                "en": "Watch out for puddles; the paved sections are best for walking in the wet."
+              }
+            },
+            {
+              "name": "Milandia Greifensee",
+              "tip_5lang": {
+                "de": "Ein idealer Rückzugsort mit Kletterhalle und Wellness – perfekt bei Schlechtwetter.",
+                "hu": "Ideális búvóhely mászófallal és wellness-részleggel – rossz időben tökéletes.",
+                "ro": "Refugiul ideal cu sală de escaladă și wellness – perfect pe vreme rea.",
+                "en": "The ideal retreat with climbing halls and wellness – perfect for bad weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Sturmschirm ist wegen der Windböen im Glatttal empfehlenswert.",
+              "Tragen Sie wasserfeste Wanderschuhe für den Uferweg.",
+              "Das Milandia bietet Schließfächer, um nasse Kleidung zu verstauen.",
+              "Die Obere Mühle hat oft kurzfristige Indoor-Ausstellungen bei Regen."
+            ],
+            "hu": [
+              "A Glatt-völgyi szél miatt érdemes erős, viharálló esernyőt vinni.",
+              "Viseljen vízálló túracipőt a folyóparti szakaszhoz.",
+              "A Milandiában vannak szekrények, ahol elhelyezheti a vizes ruhákat.",
+              "Az Obere Mühle gyakran kínál rögtönzött beltéri kiállításokat esőben."
+            ],
+            "ro": [
+              "Se recomandă o umbrelă rezistentă la vânt din cauza curenților de pe Valea Glatt.",
+              "Purtați încălțăminte de munte impermeabilă pentru poteca de pe malul râului.",
+              "Milandia oferă vestiare pentru a vă depozita hainele ude.",
+              "Obere Mühle are adesea expoziții indoor temporare în caz de ploaie."
+            ],
+            "en": [
+              "A sturdy storm umbrella is recommended due to wind gusts in the Glatt valley.",
+              "Wear waterproof hiking shoes for the riverside path section.",
+              "Milandia provides lockers to store your wet outer gear.",
+              "Obere Mühle often hosts short-term indoor exhibitions during rainy spells."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Dübendorf im Winter besticht durch klare Luft und gemütliche Pausen. Starten Sie bei der Obere Mühle, wo oft winterliche Veranstaltungen stattfinden. Der Weg nach Gfenn führt durch die kühle Stille der Natur. Mittags wärmen Sie sich in der Waldmannsburg auf, bevor der Marsch entlang der zugefrorenen Glatt zum Milandia führt, wo die Saunalandschaft den gefrorenen Tag perfekt abrundet.",
+            "hu": "A téli Dübendorf tiszta levegővel és barátságos pihenőkkel várja. Kezdjen az Obere Mühle-nél, ahol gyakran tartanak téri rendezvényeket. A Gfenn felé vezető út a természet csendes nyugalmát árasztja. Ebédnél melegedjen fel a Waldmannsburgban, majd a deres Glatt-parti séta után érkezzen meg a Milandiába, ahol a szaunavilág tökéletes befejezést kínál a hideg nap végén.",
+            "ro": "Dübendorf iarna impresionează prin aerul curat și opririle primitoare. Începeți la Obere Mühle, gazda multor evenimente de sezon. Drumul spre Gfenn este marcat de liniștea naturii înghețate. La prânz, încălziți-vă la Waldmannsburg înainte de plimbarea pe malul râului Glatt, finalizând ziua la Milandia, unde zona de saună vă va dezgheța complet.",
+            "en": "Winter in Dübendorf offers crisp air and cozy retreats. Begin at Obere Mühle, which often hosts seasonal events. The walk to Gfenn takes you through the quiet, frozen landscape. Warm up with a hearty lunch at Waldmannsburg before heading along the Glatt riverside to Milandia, where the sauna world provides a perfect warm finish to your winter excursion."
+          },
+          "stops": [
+            {
+              "name": "Obere Mühle (Upper Mill)",
+              "tip_5lang": {
+                "de": "Genießen Sie ein heißes Getränk im Kulturzentrum zum Aufwärmen.",
+                "hu": "Fogyasszon el egy forró italt a kulturális központban a bemelegítéshez.",
+                "ro": "Savurați o băutură caldă la centrul cultural pentru a vă încălzi.",
+                "en": "Enjoy a hot drink at the cultural center to warm up before starting."
+              }
+            },
+            {
+              "name": "Lazarite Church Gfenn",
+              "tip_5lang": {
+                "de": "Die Kirche ist oft kühler als gedacht – behalten Sie Ihren Mantel an.",
+                "hu": "A templom gyakran hűvösebb a vártnál – hagyja magán a kabátját.",
+                "ro": "Biserica este adesea mai răcoroasă decât vă așteptați – păstrați haina pe dvs.",
+                "en": "The church interior can be quite chilly – keep your coat on during the visit."
+              }
+            },
+            {
+              "name": "Waldmannsburg Castle",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch nah am Kamin oder der Heizung für die Mittagspause.",
+                "hu": "Foglaljon asztalt a kandalló vagy a fűtőtest közelében az ebédszünetre.",
+                "ro": "Rezervați o masă lângă șemineu sau calorifer pentru pauza de prânz.",
+                "en": "Book a table near the fireplace or heater for your lunch break."
+              }
+            },
+            {
+              "name": "Glatt Riverside Path",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf den schattigen Abschnitten entlang des Wassers.",
+                "hu": "Vigyázzon a jegesedésre a víz menti árnyékos szakaszokon.",
+                "ro": "Atenție la gheață pe porțiunile umbrite de-a lungul apei.",
+                "en": "Beware of black ice on the shaded sections along the water."
+              }
+            },
+            {
+              "name": "Milandia Greifensee",
+              "tip_5lang": {
+                "de": "Die Wellnessanlage ist im Winter besonders wohltuend nach der Wanderung.",
+                "hu": "A wellness részleg télen különösen jól esik a túrázás után.",
+                "ro": "Zona de wellness este deosebit de plăcută iarna, după drumeție.",
+                "en": "The wellness area is especially rewarding in winter after your hike."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie die Ankunft im Milandia vor 16:30 Uhr, um das Tageslicht zu nutzen.",
+              "Tragen Sie Thermo-Einlegesohlen für die längeren Stehzeiten in den Museen.",
+              "Die Sonne geht gegen 17:00 Uhr unter – Taschenlampe für den Rückweg einpacken.",
+              "Der Uferweg kann bei Schneefall rutschig sein; Wanderstöcke helfen."
+            ],
+            "hu": [
+              "Tervezze a Milandiába érkezést 16:30 előtt, hogy kihasználja a nappali fényt.",
+              "Használjon termő talpbetétet a múzeumi álldogáláshoz.",
+              "A nap 17:00 körül nyugszik – vigyen zseblámpát a visszaúthoz.",
+              "A folyóparti út hóesésben csúszós lehet; a túrabot sokat segít."
+            ],
+            "ro": [
+              "Planificați sosirea la Milandia înainte de 16:30 pentru a profita de lumină.",
+              "Folosiți branțuri termice pentru perioadele lungi de stat în picioare.",
+              "Soarele apune în jur de ora 17:00 – luați o lanternă pentru întoarcere.",
+              "Poteca de pe mal poate fi alunecoasă dacă ninge; bețele de trekking ajută."
+            ],
+            "en": [
+              "Aim to arrive at Milandia before 16:30 to make the most of the daylight.",
+              "Wear thermal insoles for the longer standing periods at the stops.",
+              "Sunset is around 17:00 – bring a small flashlight for the final stretch.",
+              "The riverside path can be slippery after snow; hiking poles are useful."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -579,6 +743,188 @@
           "The paths are mostly flat, but gears are useful.",
           "Bring a lock to secure your bike while you visit the museums."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen durch Dübendorf erfordert die richtige Ausrüstung, bietet aber leere Wege. Starten Sie beim Innovation Park und tauchen Sie im Air Force Center in die Geschichte ein. Das Aviation Museum ist der perfekte Ort, um den stärksten Regen abzuwarten. Nach einem kurzen Stopp bei der Obere Mühle radeln Sie entlang der Glatt zum Milandia, wo warme Duschen auf Sie warten.",
+            "hu": "Egy esős bringatúra Dübendorfban megfelelő felszerelést igényel, de cserébe üresek az utak. Kezdjen az Innovation Parknál, majd merüljön el a történelemben az Air Force Centerben. A repülési múzeum tökéletes hely a nagyobb záporok átvészelésére. Az Obere Mühle után a Glatt mentén tekerjen a Milandiába, ahol meleg zuhany várja a nap végén.",
+            "ro": "O tură cu bicicleta pe ploaie în Dübendorf necesită echipament adecvat, dar oferă trasee libere. Începeți la Innovation Park și vizitați Air Force Center. Muzeul Aviației este locul ideal pentru a lăsa ploaia să treacă. După o scurtă oprire la Obere Mühle, pedalați spre Milandia, unde vă puteți bucura de un duș cald binemeritat.",
+            "en": "Cycling through Dübendorf in the rain requires proper gear but rewards you with quiet paths. Start at the Innovation Park and dive into history at the Air Force Center. The Aviation Museum is the perfect spot to wait out heavy downpours. After a quick stop at Obere Mühle, cycle along the Glatt to Milandia, where warm facilities await your arrival."
+          },
+          "stops": [
+            {
+              "name": "Innovation Park Zurich",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Fahrradständer beim Haupteingang.",
+                "hu": "Használja a főbejáratnál található fedett kerékpártárolókat.",
+                "ro": "Folosiți rastelele de biciclete acoperite de la intrarea principală.",
+                "en": "Make use of the covered bike racks located near the main entrance."
+              }
+            },
+            {
+              "name": "Air Force Center",
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um das Fahrrad trocken zu parken und drinnen zu verweilen.",
+                "hu": "Nagyszerű hely a bicikli száraz leparkolásához és a benti nézelődéshez.",
+                "ro": "Un loc excelent pentru a parca bicicleta la uscat și a sta în interior.",
+                "en": "A great spot to park your bike in the dry and explore the indoors."
+              }
+            },
+            {
+              "name": "Flieger-Flab-Museum (Aviation Museum)",
+              "tip_5lang": {
+                "de": "Die riesigen Hallen sind absolut regensicher und bieten stundenlange Unterhaltung.",
+                "hu": "Az óriási csarnokok teljesen esőbiztosak és órákig tartó szórakozást nyújtanak.",
+                "ro": "Halele uriașe sunt complet protejate de ploaie și oferă ore de divertisment.",
+                "en": "The massive hangars are completely rain-proof and offer hours of exploration."
+              }
+            },
+            {
+              "name": "Obere Mühle (Upper Mill)",
+              "tip_5lang": {
+                "de": "Kurze Pause im Bistro – prüfen Sie die Bremsen nach der Regenfahrt.",
+                "hu": "Rövid pihenő a bisztróban – ellenőrizze a fékeket az esős menet után.",
+                "ro": "Scurtă pauză la bistro – verificați frânele după mersul prin ploaie.",
+                "en": "Short break at the bistro – check your brakes after cycling in the wet."
+              }
+            },
+            {
+              "name": "Glatt Riverside Path",
+              "tip_5lang": {
+                "de": "Vorsicht bei Fahrbahnmarkierungen und Laub, diese können extrem rutschig sein.",
+                "hu": "Vigyázzon az útburkolati jelekkel és a levelekkel, rendkívül csúszósak lehetnek.",
+                "ro": "Atenție la marcajele rutiere și frunze, pot fi extrem de alunecoase.",
+                "en": "Watch out for road markings and wet leaves; they can be extremely slippery."
+              }
+            },
+            {
+              "name": "Milandia Greifensee",
+              "tip_5lang": {
+                "de": "Bringen Sie Wechselkleidung mit; es gibt Duschen und Umkleiden vor Ort.",
+                "hu": "Hozzon váltóruhát; a helyszínen vannak zuhanyzók és öltözők.",
+                "ro": "Aduceți haine de schimb; există dușuri și vestiare disponibile.",
+                "en": "Bring a change of clothes; there are showers and changing rooms on site."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Vermeiden Sie abruptes Bremsen auf den nassen Glatt-Uferwegen.",
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit.",
+              "Prüfen Sie den Reifendruck – etwas weniger Druck erhöht die Haftung."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a kerékpáron ilyen időben.",
+              "Kerülje a hirtelen fékezést a vizes Glatt-parti utakon.",
+              "Viseljen neon esődzsekit a jobb láthatóság érdekében.",
+              "Ellenőrizze a guminyomást – a kicsit alacsonyabb nyomás növeli a tapadást."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe bicicletă în această vreme.",
+              "Evitați frânarea bruscă pe potecile umede de pe malul râului Glatt.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru o vizibilitate mai bună.",
+              "Verificați presiunea – o presiune ușor mai mică crește aderența."
+            ],
+            "en": [
+              "Mudguards on your bike are essential in this kind of weather.",
+              "Avoid sudden braking on the wet Glatt riverside paths.",
+              "Wear a neon-colored rain jacket for better visibility to drivers.",
+              "Check your tire pressure – slightly lower pressure increases grip on wet roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter durch Dübendorf ist erfrischend und hält warm. Starten Sie am Innovation Park und nutzen Sie die Museen für regelmäßige Aufwärmpausen. Das Aviation Museum bietet eine willkommene Wärme für kalte Finger. Der Ritt entlang der Glatt ist bei Frost besonders malerisch. Beenden Sie die Tour im Milandia, wo Sie Ihre Muskeln im Wellnessbereich wiederbeleben können.",
+            "hu": "A téli kerékpározás Dübendorfban frissítő és melegen tart. Kezdjen az Innovation Parknál, és használja a múzeumokat rendszeres bemelegítő pihenőkre. A repülési múzeum kellemes meleget kínál a hideg ujjaknak. A fagyos Glatt menti tekerés különösen festői. Zárja a túrát a Milandiában, ahol a wellness részlegben újjáélesztheti izmait.",
+            "ro": "Ciclismul de iarnă în Dübendorf este revigorant și vă menține activ. Începeți la Innovation Park și folosiți muzeele pentru pauze regulate de încălzire. Muzeul Aviației oferă o căldură binevenită pentru degetele înghețate. Traseul pe malul Glatt este pitoresc pe ger. Încheiați tura la Milandia, unde zona de wellness vă va revigora mușchi.",
+            "en": "Winter cycling in Dübendorf is refreshing and keeps the circulation going. Start at Innovation Park and use the museums as regular warm-up stops. The Aviation Museum offers a welcome break from the cold. The ride along the frozen Glatt is particularly scenic. Finish your tour at Milandia, where you can revive your muscles in the wellness area."
+          },
+          "stops": [
+            {
+              "name": "Innovation Park Zurich",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe – auf dem Flugplatz weht oft ein kalter Wind.",
+                "hu": "Viseljen szélálló kesztyűt – a repülőtéren gyakran fúj hideg szél.",
+                "ro": "Purtați mănuși rezistente la vânt – pe aerodrom suflă adesea un vânt rece.",
+                "en": "Wear windproof gloves; a cold wind often blows across the airfield."
+              }
+            },
+            {
+              "name": "Air Force Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Garderobenbereich, um schwere Winterkleidung kurz abzulegen.",
+                "hu": "Használja a ruhatárat, hogy rövid időre letehesse a nehéz téli ruhákat.",
+                "ro": "Folosiți zona de garderobă pentru a lăsa hainele grele de iarnă.",
+                "en": "Use the cloakroom area to temporarily shed heavy winter layers."
+              }
+            },
+            {
+              "name": "Flieger-Flab-Museum (Aviation Museum)",
+              "tip_5lang": {
+                "de": "Planen Sie hier Ihre längste Pause ein, um sich richtig aufzuwärmen.",
+                "hu": "Itt tervezze a leghosszabb pihenőt, hogy rendesen átmelegedjen.",
+                "ro": "Planificați cea mai lungă pauză aici pentru a vă încălzi cum trebuie.",
+                "en": "Plan your longest break here to thoroughly warm up your core."
+              }
+            },
+            {
+              "name": "Obere Mühle (Upper Mill)",
+              "tip_5lang": {
+                "de": "Ein heißer Tee wirkt Wunder, bevor es auf das letzte Stück geht.",
+                "hu": "Egy forró tea csodákra képes az utolsó szakasz előtt.",
+                "ro": "Un ceai fierbinte face minuni înainte de ultima etapă a drumului.",
+                "en": "A hot tea works wonders before heading out for the final stretch."
+              }
+            },
+            {
+              "name": "Glatt Riverside Path",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen unter dem Schnee – Rutschgefahr!",
+                "hu": "Vigyázzon a hó alatti fagyott tócsákra – csúszásveszély!",
+                "ro": "Atenție la bălțile înghețate de sub zăpadă – pericol de alunecare!",
+                "en": "Watch out for frozen puddles hidden under snow – slip hazard!"
+              }
+            },
+            {
+              "name": "Milandia Greifensee",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Licht für den Rückweg in der Dunkelheit funktioniert.",
+                "hu": "Győződjön meg róla, hogy a lámpája működik a sötétben való hazaúthoz.",
+                "ro": "Asigurați-vă că luminile funcționează pentru drumul de întoarcere pe întuneric.",
+                "en": "Ensure your bike lights are working for the ride back in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fetten Sie die Fahrradkette gut ein, um sie vor Streusalz zu schützen.",
+              "Schichtenprinzip: Tragen Sie mehrere dünne Schichten Kleidung.",
+              "Die Sonne verschwindet früh – schalten Sie das Licht ab 16:30 Uhr ein.",
+              "Ein Thermosbecher im Flaschenhalter sorgt für warmen Nachschub unterwegs."
+            ],
+            "hu": [
+              "Zsírozza be jól a láncot, hogy védje az útszóró sótól.",
+              "Réteges öltözködés: viseljen több vékony réteg ruhát.",
+              "A nap korán lemegy – kapcsolja be a világítást 16:30-tól.",
+              "Egy termoszbögre a kulacstartóban biztosítja a meleg utánpótlást."
+            ],
+            "ro": [
+              "Ungeți bine lanțul bicicletei pentru a-l proteja de sarea de pe drum.",
+              "Principiul straturilor: purtați mai multe straturi subțiri de haine.",
+              "Soarele apune devreme – aprindeți luminile începând cu ora 16:30.",
+              "O cană termos în suportul de bidon vă asigură hidratare caldă pe drum."
+            ],
+            "en": [
+              "Grease your bike chain well to protect it from road salt.",
+              "Layer up: wear several thin layers of clothing to manage heat.",
+              "Daylight fades early – turn on your lights from 16:30 onwards.",
+              "An insulated mug in your bottle cage provides warm drinks on the go."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -907,6 +1253,206 @@
           "The cluster walking method saves time and the search for parking spaces.",
           "Allow enough time for traffic between clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Dübendorf per Auto ist bei Regen die komfortabelste Wahl. Sie springen einfach von einer trockenen Attraktion zur nächsten. Starten Sie im Flieger-Flab-Museum, wo Sie stundenlang im Trockenen bleiben. Das Air Force Center und der Innovation Park sind nur kurze Fahrten entfernt. Besuchen Sie die Kirche in Gfenn und das Schloss Waldmannsburg, bevor Sie den Tag entspannt im Milandia ausklingen lassen.",
+            "hu": "Autóval Dübendorf esőben is kényelmes választás. Egyszerűen egyik száraz látnivalótól a másikig ugorhat. Kezdjen a repülési múzeumban, ahol órákig szárazon maradhat. Az Air Force Center és az Innovation Park csak rövid autóútra van. Látogassa meg a Gfenn-i templomot és a Waldmannsburg kastélyt, majd zárja a napot lazítással a Milandiában.",
+            "ro": "Dübendorf cu mașina este cea mai confortabilă alegere pe ploaie. Treceți rapid de la o atracție la alta, rămânând uscați. Începeți la Muzeul Aviației, unde puteți sta ore întregi la adăpost. Air Force Center și Innovation Park sunt la doar câteva minute distanță. Vizitați biserica din Gfenn și castelul Waldmannsburg, apoi încheiați ziua relaxat la Milandia.",
+            "en": "Driving through Dübendorf is the most comfortable way to see the sights in the rain. Easily hop between dry indoor locations. Start at the Aviation Museum for hours of sheltered exploration. The Air Force Center and Innovation Park are just short drives away. Visit Gfenn Church and Waldmannsburg Castle before ending your day relaxed at Milandia."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Flieger-Flab Aviation Museum",
+              "tip_5lang": {
+                "de": "Parkplätze sind direkt vor dem Museum vorhanden – minimaler Weg im Regen.",
+                "hu": "Parkolóhelyek közvetlenül a múzeum előtt – minimális gyaloglás az esőben.",
+                "ro": "Locuri de parcare chiar în fața muzeului – drum minim prin ploaie.",
+                "en": "Parking is available right in front of the museum – minimal exposure to rain."
+              }
+            },
+            {
+              "name": "Air Force Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regenschirm für den kurzen Weg vom Parkplatz zum Eingang.",
+                "hu": "Használja az esernyőt a parkolótól a bejáratig tartó rövid úton.",
+                "ro": "Folosiți umbrela pentru drumul scurt de la parcare la intrare.",
+                "en": "Keep your umbrella handy for the short walk from the car to the entrance."
+              }
+            },
+            {
+              "name": "Innovation Park Zurich",
+              "tip_5lang": {
+                "de": "Gute Sichtbarkeit beim Einparken ist bei starkem Regen wichtig.",
+                "hu": "A jó láthatóság fontos parkoláskor erős esőben.",
+                "ro": "Vizibilitatea bună este importantă la parcare în caz de ploaie torențială.",
+                "en": "Good visibility is crucial when parking during heavy rainfall."
+              }
+            },
+            {
+              "name": "Cluster 2: Lazarite Church Gfenn",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Kircheneingang, um trocken zu bleiben.",
+                "hu": "Parkoljon a templom bejáratához közel, hogy száraz maradjon.",
+                "ro": "Parcați aproape de intrarea în biserică pentru a rămâne uscați.",
+                "en": "Park as close to the church entrance as possible to stay dry."
+              }
+            },
+            {
+              "name": "Waldmannsburg Castle",
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Nässe etwas rutschig sein; fahren Sie vorsichtig.",
+                "hu": "A feljáró vizesen kissé csúszós lehet; vezessen óvatosan.",
+                "ro": "Aleea de acces poate fi alunecoasă pe umiditate; conduceți cu prudență.",
+                "en": "The access road can be slippery when wet; drive with extra care."
+              }
+            },
+            {
+              "name": "Obere Mühle (Upper Mill)",
+              "tip_5lang": {
+                "de": "Das Parkhaus im Zentrum bietet den besten Schutz für Ihr Fahrzeug.",
+                "hu": "A központi parkolóház nyújtja a legjobb védelmet járművének.",
+                "ro": "Parcarea etajată din centru oferă cea mai bună protecție pentru vehicul.",
+                "en": "The central parking garage offers the best protection for your vehicle."
+              }
+            },
+            {
+              "name": "Cluster 3: Milandia Greifensee",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen und Trocknen nach den Außenstopps.",
+                "hu": "Ideális a felmelegedéshez és száradáshoz a külső megállók után.",
+                "ro": "Ideal pentru încălzire și uscare după opririle în exterior.",
+                "en": "Ideal for warming up and drying off after your outdoor stops."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischerblätter vor der Abfahrt.",
+              "Vermeiden Sie tiefe Pfützen auf den Nebenstraßen in Gfenn.",
+              "Halten Sie ein Handtuch im Auto bereit, um Sitze trocken zu halten.",
+              "Die Parkplatzsuche am Milandia ist bei Regen oft entspannter."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlő lapátokat.",
+              "Kerülje a mély tócsákat Gfenn mellékutcáin.",
+              "Tartson egy törölközőt az autóban az ülések szárazon tartásához.",
+              "Esőben gyakran könnyebb parkolóhelyet találni a Milandiánál."
+            ],
+            "ro": [
+              "Verificați lamelele ștergătoarelor înainte de plecare.",
+              "Evitați bălțile adânci pe străzile secundare din Gfenn.",
+              "Țineți un prosop în mașină pentru a menține scaunele uscate.",
+              "Găsirea unui loc de parcare la Milandia este mai ușoară pe ploaie."
+            ],
+            "en": [
+              "Check your windshield wiper blades before setting off.",
+              "Avoid deep puddles on the side roads in the Gfenn area.",
+              "Keep a towel in the car to wipe down and keep seats dry.",
+              "Finding a parking spot at Milandia is often easier in rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Ausflug per Auto schützt Sie vor der klirrenden Kälte. Starten Sie im warmen Aviation Museum und dem Air Force Center. Die Fahrt durch das verschneite Gfenn bietet malerische Ausblicke aus dem geheizten Wagen. Nach einem Besuch im Schloss Waldmannsburg und der Obere Mühle ist das Milandia das perfekte Ziel, um die Kälte endgültig mit einem Saunabesuch zu vertreiben.",
+            "hu": "A téli autós kirándulás megvédi a metsző hidegtől. Kezdjen a fűtött repülési múzeumban és az Air Force Centerben. A havas Gfenn-en keresztüli autózás festői kilátást nyújt a fűtött utastérből. A Waldmannsburg kastély és az Obere Mühle után a Milandia a tökéletes célpont, hogy a szaunázással végleg elűzze a hideget.",
+            "ro": "O excursie de iarnă cu mașina vă protejează de gerul pătrunzător. Începeți la Muzeul Aviației și Air Force Center, ambele încălzite. Drumul prin Gfenn-ul înzăpezit oferă peisaje pitorești din confortul mașinii. După castelul Waldmannsburg și Obere Mühle, Milandia este destinația ideală pentru a alunga frigul la saună.",
+            "en": "A winter car trip protects you from the biting cold. Start in the warm Aviation Museum and Air Force Center. Driving through snowy Gfenn offers picturesque views from your heated vehicle. After visiting Waldmannsburg Castle and Obere Mühle, Milandia is the perfect destination to finally banish the chill with a visit to the sauna."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Flieger-Flab Aviation Museum",
+              "tip_5lang": {
+                "de": "Achten Sie auf geräumte Parkflächen; das Areal ist weitläufig.",
+                "hu": "Figyeljen a letakarított parkolókra; a terület elég tágas.",
+                "ro": "Atenție la zonele de parcare deszăpezite; perimetrul este vast.",
+                "en": "Look for cleared parking spots; the museum grounds are quite extensive."
+              }
+            },
+            {
+              "name": "Air Force Center",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, während Sie den Stopp planen.",
+                "hu": "Ne járassa feleslegesen a motort, amíg a megállót tervezi.",
+                "ro": "Nu lăsați motorul pornit inutil în timp ce planificați oprirea.",
+                "en": "Don't leave the engine idling while you plan your next stop."
+              }
+            },
+            {
+              "name": "Innovation Park Zurich",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneeverwehungen auf dem offenen Gelände des Flugplatzes.",
+                "hu": "Vigyázzon a hófúvásokkal a repülőtér nyílt területén.",
+                "ro": "Atenție la troienele de zăpadă pe terenul deschis al aerodromului.",
+                "en": "Watch out for snow drifts across the open airfield terrain."
+              }
+            },
+            {
+              "name": "Cluster 2: Lazarite Church Gfenn",
+              "tip_5lang": {
+                "de": "Die Zufahrt nach Gfenn kann bei Schneefall eng und rutschig sein.",
+                "hu": "A Gfenn-be vezető út hóesésben szűk és csúszós lehet.",
+                "ro": "Accesul spre Gfenn poate fi îngust și alunecos dacă ninge.",
+                "en": "The access road to Gfenn can be narrow and slippery during snowfall."
+              }
+            },
+            {
+              "name": "Waldmannsburg Castle",
+              "tip_5lang": {
+                "de": "Genießen Sie das Winterpanorama bei einem heißen Mittagessen.",
+                "hu": "Élvezze a téli panorámát egy forró ebéd mellett.",
+                "ro": "Bucurați-vă de panorama de iarnă în timpul unui prânz fierbinte.",
+                "en": "Enjoy the sweeping winter panorama over a hot lunch inside."
+              }
+            },
+            {
+              "name": "Obere Mühle (Upper Mill)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Wege im Stadtzentrum bei niedrigen Temperaturen.",
+                "hu": "Használja ki a rövid távolságokat a városközpontban alacsony hőmérsékletnél.",
+                "ro": "Profitați de distanțele scurte din centrul orașului la temperaturi scăzute.",
+                "en": "Take advantage of short walking distances in the center in low temperatures."
+              }
+            },
+            {
+              "name": "Cluster 3: Milandia Greifensee",
+              "tip_5lang": {
+                "de": "Ein Sprung in den beheizten Pool ist der beste Abschluss des Tages.",
+                "hu": "Egy csobbanás a fűtött medencében a nap legjobb befejezése.",
+                "ro": "O baie în piscina încălzită este cel mai bun final de zi.",
+                "en": "A dip in the heated pool is the absolute best way to end the day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in der Schweiz bei diesen Bedingungen Pflicht.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage nach.",
+              "Ein Eiskratzer und ein kleiner Besen sollten griffbereit sein.",
+              "Parken Sie am Milandia vorzugsweise in beleuchteten Bereichen."
+            ],
+            "hu": [
+              "Svájcban téli gumi kötelező ilyen körülmények között.",
+              "Töltsön fagyállót a szélvédőmosó tartályba.",
+              "A jégkaparó és egy kis kefe legyen kéznél.",
+              "A Milandiánál lehetőleg kivilágított helyen parkoljon."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Elveția în aceste condiții.",
+              "Completați cu lichid de parbriz rezistent la îngheț.",
+              "Răzuitoarea de gheață și o perie mică ar trebui să fie la îndemână.",
+              "Parcați la Milandia de preferință în zonele bine iluminate."
+            ],
+            "en": [
+              "Winter tires are mandatory in Switzerland during these conditions.",
+              "Top up your windshield washer fluid with anti-freeze.",
+              "Keep an ice scraper and a small brush handy in the vehicle.",
+              "Prefer parking in well-lit areas when visiting Milandia in the evening."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1211,6 +1757,188 @@
           "Pay attention to the last bus connection back, especially in the evening.",
           "Some buses run less frequently on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn bleiben Sie in Dübendorf auch bei Regen trocken und mobil. Die Obere Mühle ist vom Bahnhof aus schnell erreicht. Besuchen Sie Gfenn per Bus, bevor Sie im Aviation Museum tief in die Luftfahrt eintauchen. Der Innovation Park und das Milandia sind hervorragend angebunden, sodass Sie die nassen Wege im Freien auf ein Minimum reduzieren können.",
+            "hu": "Busszal és vonattal Dübendorfban esőben is szárazon és mobilisan maradhat. Az Obere Mühle gyorsan elérhető az állomásról. Látogasson el Gfennbe busszal, mielőtt a repülési múzeumban elmerülne a repülés világában. Az Innovation Park és a Milandia kiválóan megközelíthető, így a szabadban töltött vizes perceket minimálisra csökkentheti.",
+            "ro": "Cu autobuzul și trenul, rămâneți uscat și mobil în Dübendorf chiar și pe ploaie. Obere Mühle este rapid accesibilă de la gară. Vizitați Gfenn cu autobuzul înainte de a explora Muzeul Aviației. Innovation Park și Milandia sunt bine conectate, permițându-vă să reduceți la minimum expunerea la ploaie.",
+            "en": "Public transport keeps you dry and mobile in Dübendorf during rainy spells. Obere Mühle is just a short walk from the station. Take the bus to Gfenn before heading to the Aviation Museum for an indoor experience. Innovation Park and Milandia are well-connected, keeping your time out in the rain to a minimum."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Obere Mühle",
+              "tip_5lang": {
+                "de": "Nur wenige Gehminuten vom Bahnhof Dübendorf entfernt – ideal bei Regen.",
+                "hu": "Csak pár perc séta a dübendorfi állomástól – esőben ideális.",
+                "ro": "La doar câteva minute de mers pe jos de gară – ideal pe ploaie.",
+                "en": "Just a few minutes' walk from Dübendorf station – ideal for rainy days."
+              }
+            },
+            {
+              "name": "Lazarite Church Gfenn",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle Gfenn befindet sich in unmittelbarer Nähe der Kirche.",
+                "hu": "A Gfenn buszmegálló közvetlenül a templom szomszédságában van.",
+                "ro": "Stația de autobuz Gfenn se află în imediata apropiere a bisericii.",
+                "en": "The Gfenn bus stop is located in the immediate vicinity of the church."
+              }
+            },
+            {
+              "name": "Cluster 2: Flieger-Flab Aviation Museum",
+              "tip_5lang": {
+                "de": "Vom Bahnhof Dübendorf führt ein kurzer, meist geteerter Weg zum Museum.",
+                "hu": "A dübendorfi állomástól rövid, többnyire aszfaltozott út vezet a múzeumhoz.",
+                "ro": "De la gara Dübendorf există un drum scurt, în mare parte asfaltat, spre muzeu.",
+                "en": "A short, mostly paved path leads from Dübendorf station to the museum."
+              }
+            },
+            {
+              "name": "Innovation Park Zurich",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Shuttle-Bus, falls verfügbar, um trocken zu bleiben.",
+                "hu": "Használja az ingajáratot, ha elérhető, hogy száraz maradjon.",
+                "ro": "Folosiți autobuzul navetă, dacă este disponibil, pentru a rămâne uscați.",
+                "en": "Use the shuttle bus if available to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Cluster 3: Glatt Riverside Path",
+              "tip_5lang": {
+                "de": "Dieser Stopp ist optional bei starkem Regen; bleiben Sie lieber länger im Museum.",
+                "hu": "Ez a megálló opcionális erős esőben; maradjon inkább tovább a múzeumban.",
+                "ro": "Această oprire este opțională pe ploaie torențială; stați mai mult la muzeu.",
+                "en": "This stop is optional during heavy rain; consider staying longer in the museum."
+              }
+            },
+            {
+              "name": "Milandia Greifensee",
+              "tip_5lang": {
+                "de": "Die S-Bahn Station Schwerzenbach ist der beste Zugangspunkt zum Milandia.",
+                "hu": "Schwerzenbach S-Bahn állomás a legjobb elérési pont a Milandiához.",
+                "ro": "Gara S-Bahn Schwerzenbach este cel mai bun punct de acces spre Milandia.",
+                "en": "Schwerzenbach S-Bahn station is the best access point for Milandia."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die ZVV-App für Echtzeit-Infos bei Verspätungen durch Regen.",
+              "Die Bahnhöfe bieten überdachte Wartebereiche.",
+              "Ein kleiner Taschenschirm passt in jede Tasche für den Weg zwischen den Haltestellen.",
+              "Im Bus können Sie Ihre nassen Sachen kurz abtropfen lassen."
+            ],
+            "hu": [
+              "Használja a ZVV appot a valós idejű infókért eső miatti késéseknél.",
+              "Az állomásokon vannak fedett várakozóhelyek.",
+              "Egy kis összecsukható ernyő elfér bármely táskában a megállók közti útra.",
+              "A buszon rövid időre lecsöpögtetheti vizes dolgait."
+            ],
+            "ro": [
+              "Folosiți aplicația ZVV pentru informații în timp real despre întârzieri.",
+              "Gările oferă zone de așteptare acoperite.",
+              "O umbrelă mică de buzunar este utilă pentru drumul dintre stații.",
+              "În autobuz vă puteți lăsa puțin lucrurile ude la scurs."
+            ],
+            "en": [
+              "Use the ZVV app for real-time info on weather-related delays.",
+              "Railway stations offer sheltered waiting areas.",
+              "A small travel umbrella fits in any bag for the walks between stops.",
+              "Buses offer a short period of shelter to let your gear drip-dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Dübendorf im Winter entspannt mit den öffentlichen Verkehrsmitteln. Die beheizten Busse und Bahnen bieten eine willkommene Wärme zwischen den winterlichen Sehenswürdigkeiten. Starten Sie bei der Obere Mühle und reisen Sie bequem nach Gfenn. Das Aviation Museum ist ein Highlight, das Sie auch an den kältesten Tagen begeistern wird, bevor Sie sich im Milandia aufwärmen.",
+            "hu": "Fedezze fel a téli Dübendorfot kényelmesen, tömegközlekedéssel. A fűtött buszok és vonatok kellemes meleget nyújtanak a téli látnivalók között. Kezdjen az Obere Mühle-nél, majd utazzon kényelmesen Gfennbe. A repülési múzeum még a leghidegebb napokon is lenyűgözi majd, mielőtt a Milandiában átmelegedne.",
+            "ro": "Explorați Dübendorful iarna relaxat cu transportul public. Autobuzele și trenurile încălzite oferă căldură între obiectivele turistice. Începeți la Obere Mühle și călătoriți confortabil spre Gfenn. Muzeul Aviației este un punct forte chiar și în cele mai reci zile, înainte de a vă încălzi la Milandia.",
+            "en": "Explore Dübendorf in winter at your leisure using public transport. Heated buses and trains provide a welcome respite from the chill between stops. Start at Obere Mühle and travel comfortably to Gfenn. The Aviation Museum is a highlight even on the coldest days, followed by a warm session at Milandia."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Obere Mühle",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Bahnsteigen am Bahnhof Dübendorf.",
+                "hu": "Vigyázzon a jeges peronokkal a dübendorfi állomáson.",
+                "ro": "Atenție la peroanele înghețate din gara Dübendorf.",
+                "en": "Watch out for icy platforms at the Dübendorf railway station."
+              }
+            },
+            {
+              "name": "Lazarite Church Gfenn",
+              "tip_5lang": {
+                "de": "Der Bus fährt regelmäßig; warten Sie im beheizten Wartehäuschen, falls vorhanden.",
+                "hu": "A busz rendszeresen jár; várjon a fűtött váróban, ha van ilyen.",
+                "ro": "Autobuzul circulă regulat; așteptați în adăpostul încălzit dacă există.",
+                "en": "Buses run regularly; wait in a sheltered area to stay out of the wind."
+              }
+            },
+            {
+              "name": "Cluster 2: Flieger-Flab Aviation Museum",
+              "tip_5lang": {
+                "de": "Der Fußweg vom Bahnhof kann im Winter etwas länger dauern – planen Sie Zeit ein.",
+                "hu": "Az állomástól gyalog kicsit tovább tarthat az út télen – számoljon rá időt.",
+                "ro": "Drumul pe jos de la gară poate dura mai mult iarna – planificați timp în plus.",
+                "en": "Walking from the station might take longer in winter conditions; allow extra time."
+              }
+            },
+            {
+              "name": "Innovation Park Zurich",
+              "tip_5lang": {
+                "de": "Achten Sie auf die speziellen Winter-Fahrpläne an Feiertagen.",
+                "hu": "Figyeljen a speciális téli menetrendre az ünnepek alatt.",
+                "ro": "Atenție la orarul special de iarnă în timpul sărbătorilor.",
+                "en": "Be aware of special winter schedules during the holiday season."
+              }
+            },
+            {
+              "name": "Cluster 3: Glatt Riverside Path",
+              "tip_5lang": {
+                "de": "Kürzen Sie den Weg ab, wenn es zu kalt wird; die nächste Haltestelle ist nah.",
+                "hu": "Rövidítse le az utat, ha túl hideg van; a következő megálló közel van.",
+                "ro": "Scurtați drumul dacă e prea frig; următoarea stație este aproape.",
+                "en": "Shorten your walk if it gets too cold; the next stop is usually nearby."
+              }
+            },
+            {
+              "name": "Milandia Greifensee",
+              "tip_5lang": {
+                "de": "Vom Bahnhof Schwerzenbach führt ein gut geräumter Weg direkt zum Milandia.",
+                "hu": "A schwerzenbachi állomástól jól letakarított út vezet közvetlenül a Milandiához.",
+                "ro": "De la gara Schwerzenbach există un drum bine deszăpezit direct spre Milandia.",
+                "en": "A well-cleared path leads directly from Schwerzenbach station to Milandia."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In den S-Bahnen ist es oft sehr warm – tragen Sie Kleidung im Zwiebelprinzip.",
+              "Die ZVV-Tageskarte ist die günstigste Option für diesen Ausflug.",
+              "Beachten Sie, dass es ab 17:00 Uhr dunkel wird – Bahnhöfe sind gut beleuchtet.",
+              "Nehmen Sie sich Zeit für die Umstiege, falls der Schnee den Verkehr bremst."
+            ],
+            "hu": [
+              "Az S-Bahn-on gyakran nagyon meleg van – öltözzön rétegesen.",
+              "A ZVV napijegy a legolcsóbb opció ehhez a kiránduláshoz.",
+              "Vegye figyelembe, hogy 17:00-tól sötét van – az állomások jól kivilágítottak.",
+              "Szánjon időt az átszállásokra, ha a hó lassítaná a közlekedést."
+            ],
+            "ro": [
+              "În trenurile S-Bahn este adesea foarte cald – purtați haine în straturi.",
+              "Abonamentul de o zi ZVV este cea mai ieftină opțiune pentru această excursie.",
+              "Rețineți că se întunecă după ora 17:00 – gările sunt bine iluminate.",
+              "Alocați-vă timp pentru conexiuni în cazul în care zăpada încetinește traficul."
+            ],
+            "en": [
+              "S-Bahn trains are often quite warm inside – dress in layers to stay comfortable.",
+              "The ZVV day pass is the most cost-effective option for this itinerary.",
+              "Keep in mind it gets dark from 17:00 – train stations are well-lit for safety.",
+              "Allow extra time for transfers in case snow causes minor traffic delays."
+            ]
+          }
+        }
       }
     }
   }

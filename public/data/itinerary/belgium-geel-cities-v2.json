@@ -306,6 +306,188 @@
           "Most sights are located close to each other.",
           "Take your time to absorb the special, inclusive atmosphere of the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am regnerischen Marktplatz, wo die Cafés Schutz bieten. Die Kirchen von Geel sind ideale Zufluchtsorte vor den Schauern. Am Nachmittag bietet das Gasthuis Museum eine trockene und faszinierende Zeitreise. Der Abend im CC de Werft lässt den Regen bei Kultur vergessen.",
+            "hu": "A reggelt a szemerkélő esőben a főtéren kezdjük, ahol az árkádok alatt kávézhatunk. A templomok belső terei tökéletes menedéket nyújtanak a záporok elől. Délután a Gasthuis Múzeum falai között fedezhetjük fel a város gyógyító múltját. Az estét kulturális programmal zárjuk a De Werft központban.",
+            "ro": "Începeți ziua în piața centrală, unde cafenelele oferă adăpost împotriva ploii. Bisericile din Geel sunt refugii ideale în timpul averselor. După-amiaza, Muzeul Gasthuis oferă o călătorie fascinantă în timp, la adăpost. Seara la CC de Werft vă face să uitați de ploaie prin cultură.",
+            "en": "Start your morning at the rainy Market Square, where cafes provide shelter. Geel's churches are ideal refuges from the showers. In the afternoon, the Gasthuis Museum offers a dry and fascinating journey through time. Spend the evening at CC de Werft, forgetting the rain with some culture."
+          },
+          "stops": [
+            {
+              "name": "Market Square of Geel",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Markisen der Cafés am Marktplatz als Regenschutz.",
+                "hu": "Használja a főtéri kávézók napellenzőit esővédőként.",
+                "ro": "Folosiți copertinele cafenelelor din piață ca protecție împotriva ploii.",
+                "en": "Use the awnings of the square's cafes as shelter from the rain."
+              }
+            },
+            {
+              "name": "Saint Amand's Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Altäre, während draußen ein Schauer niedergeht.",
+                "hu": "Csodálja meg az oltárokat, amíg odakint elvonul a zápor.",
+                "ro": "Admirați altarele în timp ce afară trece o aversă.",
+                "en": "Admire the altars while a shower passes outside."
+              }
+            },
+            {
+              "name": "Freedom House",
+              "tip_5lang": {
+                "de": "Ein kurzes Foto am Denkmal, bevor Sie unter den nächsten Baum flüchten.",
+                "hu": "Egy gyors fotó az emlékműnél, mielőtt a legközelebbi fához menekülne.",
+                "ro": "O fotografie rapidă la monument înainte de a fugi sub următorul copac.",
+                "en": "A quick photo at the monument before fleeing to the nearest tree."
+              }
+            },
+            {
+              "name": "Saint Dymphna's Church",
+              "tip_5lang": {
+                "de": "Das massive Kirchendach garantiert eine trockene Erkundung des Mausoleums.",
+                "hu": "A masszív templomtető garantálja a mauzóleum száraz bejárását.",
+                "ro": "Acoperișul masiv al bisericii garantează o explorare uscată a mausoleului.",
+                "en": "The massive church roof guarantees a dry exploration of the mausoleum."
+              }
+            },
+            {
+              "name": "Gasthuis Museum",
+              "tip_5lang": {
+                "de": "Hinterlassen Sie Ihren nassen Regenschirm im Garderobenbereich am Eingang.",
+                "hu": "Hagyja vizes esernyőjét a bejáratnál található ruhatárban.",
+                "ro": "Lăsați umbrela umedă în zona garderobei de la intrare.",
+                "en": "Leave your wet umbrella in the cloakroom area at the entrance."
+              }
+            },
+            {
+              "name": "CC de Werft Cultural Centre",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den Tag bei einer wetterunabhängigen Aufführung zu beenden.",
+                "hu": "Tökéletes hely a nap lezárására egy időjárásfüggetlen előadással.",
+                "ro": "Locul perfect pentru a încheia ziua cu un spectacol independent de vreme.",
+                "en": "The perfect place to end the day with a weather-independent performance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster am Markt Pfützen bildet.",
+              "Die Kirchenportale bieten schnellen Unterschlupf bei plötzlichen Gussregen.",
+              "Nutzen Sie die Passage im CC de Werft, um trocken zwischen den Gebäuden zu wechseln.",
+              "In Geel gibt es viele gemütliche Teestuben, ideal für eine Pause bei Regen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a főtéri macskaköveken megáll a víz.",
+              "A templomkapuk gyors menedéket nyújtanak hirtelen felhőszakadás esetén.",
+              "Használja a CC de Werft átjáróit a tömbök közötti száraz közlekedéshez.",
+              "Geel számos barátságos teázóval rendelkezik, ideális pihenőhely esőben."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pavajul din piață formează bălți.",
+              "Portalele bisericilor oferă adăpost rapid în caz de averse bruște.",
+              "Folosiți pasajul de la CC de Werft pentru a vă deplasa uscat între clădiri.",
+              "În Geel există multe ceainării primitoare, ideale pentru o pauză pe ploaie."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones on the market square form puddles.",
+              "The church portals provide quick shelter during sudden downpours.",
+              "Use the passages in CC de Werft to move between buildings while staying dry.",
+              "Geel has many cozy tea rooms, ideal for a break when it rains."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am beleuchteten Marktplatz beginnt den Tag. Die Wärme der Kirchenschiffe bietet einen spirituellen Kontrast zur Kälte. Nach einem heißen Mittagessen wärmt das Museum die Seele mit lokaler Geschichte. Der frühe Sonnenuntergang taucht das Kulturzentrum in ein sanftes Licht.",
+            "hu": "Dérlepte reggel fogad a kivilágított főtéren a túra elején. A templomhajók belső melege lelki kontrasztot nyújt a kinti hideggel szemben. Egy forró ebéd után a múzeum falaiban melegedhetünk a helyi történetekkel. A korai naplemente lágy fénybe vonja a kulturális központ környékét.",
+            "ro": "O dimineață geroasă în piața iluminată începe ziua. Căldura navelor bisericii oferă un contrast spiritual cu frigul de afară. După un prânz fierbinte, muzeul încălzește sufletul cu istoria locală. Apusul timpuriu scaldă centrul cultural într-o lumină blândă.",
+            "en": "A frosty morning at the illuminated Market Square starts the day. The warmth of the church naves offers a spiritual contrast to the cold. After a hot lunch, the museum warms the soul with local history. The early sunset bathes the cultural centre in a soft, winter light."
+          },
+          "stops": [
+            {
+              "name": "Market Square of Geel",
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der winterlichen Beleuchtung am frühen Morgen.",
+                "hu": "Élvezze a téli díszkivilágítás látványát a kora reggeli órákban.",
+                "ro": "Bucurați-vă de vederea iluminatului de iarnă la primele ore ale dimineții.",
+                "en": "Enjoy the sight of the winter lights in the early morning hours."
+              }
+            },
+            {
+              "name": "Saint Amand's Church",
+              "tip_5lang": {
+                "de": "Suchen Sie die Nähe der Kerzen für ein wenig zusätzliche Wärme.",
+                "hu": "Keressen egy gyertyát a templomban egy kis extra melegségért.",
+                "ro": "Căutați proximitatea lumânărilor pentru puțină căldură suplimentară.",
+                "en": "Stay near the candles for a little extra warmth inside."
+              }
+            },
+            {
+              "name": "Freedom House",
+              "tip_5lang": {
+                "de": "Halten Sie den Stopp kurz, um nicht im kalten Wind auszukühlen.",
+                "hu": "Tartsa rövidre a megállót, hogy ne hűljön ki a hideg szélben.",
+                "ro": "Păstrați oprirea scurtă pentru a nu îngheța în vântul rece.",
+                "en": "Keep this stop short to avoid chilling in the cold wind."
+              }
+            },
+            {
+              "name": "Saint Dymphna's Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten den Wind ab, aber ziehen Sie sich warm an.",
+                "hu": "A vastag falak felfogják a szelet, de öltözzön fel rétegesen.",
+                "ro": "Zidurile groase opresc vântul, dar îmbrăcați-vă bine.",
+                "en": "The thick walls block the wind, but keep your coat on."
+              }
+            },
+            {
+              "name": "Gasthuis Museum",
+              "tip_5lang": {
+                "de": "Die beheizten Ausstellungsräume sind der ideale Ort für den kalten Mittag.",
+                "hu": "A fűtött kiállítóterek ideálisak a hideg délutáni órákban.",
+                "ro": "Sălile de expoziție încălzite sunt locul ideal pentru amiaza rece.",
+                "en": "The heated exhibition rooms are the ideal place for a cold afternoon."
+              }
+            },
+            {
+              "name": "CC de Werft Cultural Centre",
+              "tip_5lang": {
+                "de": "Nach 17:00 Uhr ist es dunkel; genießen Sie die Abendstimmung im Foyer.",
+                "hu": "17 óra után már sötét van; élvezze az esti hangulatot az előtérben.",
+                "ro": "După ora 17:00 se întunecă; bucurați-vă de atmosfera de seară în foaier.",
+                "en": "It's dark after 17:00; enjoy the evening atmosphere in the foyer."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 16:45 Uhr unter, planen Sie Ihre Fotos vorher ein.",
+              "Tragen Sie Handschuhe, da Metallgeländer an Kirchen sehr kalt sein können.",
+              "Machen Sie Kaffeepausen, um die Körpertemperatur stabil zu halten.",
+              "Vorsicht vor glatten Stellen auf dem Marktplatz bei Frost."
+            ],
+            "hu": [
+              "A nap 16:45 körül nyugszik, a fotózást tervezze ez elé.",
+              "Viseljen kesztyűt, mert a templomok fémkorlátai nagyon hidegek lehetnek.",
+              "Tartson kávészünetet a testhőmérséklet fenntartása érdekében.",
+              "Vigyázzon a csúszós foltokra a főtéren fagy esetén."
+            ],
+            "ro": [
+              "Soarele apune în jur de 16:45, planificați fotografiile înainte.",
+              "Purtați mănuși, deoarece balustradele metalice pot fi foarte reci.",
+              "Faceți pauze de cafea pentru a menține temperatura corpului stabilă.",
+              "Atenție la porțiunile alunecoase din piață în caz de îngheț."
+            ],
+            "en": [
+              "The sun sets around 16:45, plan your outdoor photos before then.",
+              "Wear gloves, as metal railings at churches can be extremely cold.",
+              "Take coffee breaks to keep your body temperature stable.",
+              "Watch out for slippery patches on the market square during frost."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -582,6 +764,170 @@
           "Pay attention to the bike paths and local traffic rules.",
           "A lock is essential when you park your bike to visit sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Fahrt durch die Kempen-Region trotz Regen. Die Mühle von Larum wirkt im grauen Licht besonders imposant. Wir suchen Schutz in der St. Dymphna Kirche, bevor wir das Naturschutzgebiet kurz passieren. Der Tag endet sicher im Museum, weit weg von den nassen Pfaden.",
+            "hu": "Frissítő tekerés a Kempen-vidéken az eső ellenére is. A larumi malom különösen impozáns a szürke fényekben. A Szent Dymphna templomban keresünk menedéket, mielőtt rövid ideig átszelnénk a természetvédelmi területet. A nap biztonságban, a múzeumban ér véget.",
+            "ro": "O plimbare revigorantă prin regiunea Kempen, în ciuda ploii. Moara din Larum pare deosebit de impunătoare în lumina gri. Căutăm adăpost în biserica Sf. Dymphna înainte de a trece scurt prin rezervație. Ziua se încheie în siguranță la muzeu, departe de potecile ude.",
+            "en": "A refreshing ride through the Kempen region despite the rain. The Larum Mill looks particularly imposing in the gray light. We seek shelter in St. Dymphna's Church before a quick pass through the nature reserve. The day ends safely in the museum, away from the wet trails."
+          },
+          "stops": [
+            {
+              "name": "Market Square of Geel",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie auf das nasse Pflaster fahren.",
+                "hu": "Ellenőrizze a fékeket, mielőtt a vizes macskakőre hajtana.",
+                "ro": "Verificați frânele înainte de a intra pe pavajul umed.",
+                "en": "Check your brakes before heading onto the wet cobblestones."
+              }
+            },
+            {
+              "name": "Mill of Larum",
+              "tip_5lang": {
+                "de": "Die hölzerne Mühle bietet nur wenig Schutz; bleiben Sie in Bewegung.",
+                "hu": "A fa malom kevés védelmet nyújt; maradjon mozgásban.",
+                "ro": "Moara de lemn oferă puțin adăpost; rămâneți în mișcare.",
+                "en": "The wooden mill offers little shelter; keep moving to stay warm."
+              }
+            },
+            {
+              "name": "Saint Dymphna's Church",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Vorsprung am Seiteneingang.",
+                "hu": "Támassza le a biciklit az oldalsó bejárat előtetője alá.",
+                "ro": "Parcați bicicleta sub streașina de la intrarea laterală.",
+                "en": "Park your bike under the overhang at the side entrance."
+              }
+            },
+            {
+              "name": "Domein de Putten Nature Reserve",
+              "tip_5lang": {
+                "de": "Vorsicht auf den unbefestigten Wegen; sie können schlammig sein.",
+                "hu": "Vigyázzon a nem aszfaltozott utakon; sárosak lehetnek.",
+                "ro": "Atenție pe potecile neasfaltate; pot fi noroioase.",
+                "en": "Be careful on unpaved paths as they can get muddy."
+              }
+            },
+            {
+              "name": "Gasthuis Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die trockene Atmosphäre nach der nassen Fahrt.",
+                "hu": "Élvezze a száraz környezetet a vizes tekerés után.",
+                "ro": "Bucurați-vă de atmosfera uscată după plimbarea udă.",
+                "en": "Enjoy the dry atmosphere after your wet ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie scharfe Kurven auf nassem Kopfsteinpflaster.",
+              "Regenponchos sind praktischer als Schirme beim Radfahren.",
+              "Die Wege im Naturschutzgebiet sind bei Regen teils rutschig.",
+              "Reinigen Sie Ihre Kette nach der Fahrt von Sand und Nässe."
+            ],
+            "hu": [
+              "Kerülje az éles kanyarokat a vizes macskaköveken.",
+              "A biciklis esőponcsó praktikusabb az esernyőnél tekerés közben.",
+              "A természetvédelmi terület ösvényei esőben csúszósak lehetnek.",
+              "Tekerés után tisztítsa meg a láncot a homoktól és a víztől."
+            ],
+            "ro": [
+              "Evitați virajele strânse pe pavajul umed.",
+              "Poncho-urile de ploaie sunt mai practice decât umbrelele pe bicicletă.",
+              "Potecile din rezervație pot fi alunecoase pe ploaie.",
+              "Curățați lanțul de nisip și umezeală după plimbare."
+            ],
+            "en": [
+              "Avoid sharp turns on wet cobblestones in the town centre.",
+              "A cycling poncho is more practical than an umbrella while riding.",
+              "The paths in the nature reserve can be slippery when wet.",
+              "Clean your chain after the ride to remove sand and moisture."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermärchen auf zwei Rädern durch die flache flämische Landschaft. Der Wind bei der Larumer Mühle ist eisig, aber die Sicht ist klar. Wir besuchen die St. Dymphna Kirche zur inneren Einkehr. Das Naturschutzgebiet wirkt im Frost erstarrt und friedlich, bevor wir uns im Museum aufwärmen.",
+            "hu": "Téli mese két keréken a lapos flamand tájon át. A szél a larumi malomnál jeges, de a kilátás tiszta. A Szent Dymphna templomot a belső nyugalomért látogatjuk meg. A természetvédelmi terület békés a fagyban, mielőtt a múzeumban felmelegednénk.",
+            "ro": "O poveste de iarnă pe două roți prin peisajul plat flamand. Vântul la moara din Larum este înghețat, dar vizibilitatea este clară. Vizităm biserica Sf. Dymphna pentru liniște interioară. Rezervația pare înghețată și pașnică, înainte de a ne încălzi la muzeu.",
+            "en": "A winter fairytale on two wheels through the flat Flemish landscape. The wind at Larum Mill is icy, but the visibility is clear. We visit St. Dymphna's for inner reflection. The nature reserve appears frozen and peaceful before we warm up in the museum."
+          },
+          "stops": [
+            {
+              "name": "Market Square of Geel",
+              "tip_5lang": {
+                "de": "Starten Sie mit warmen Handschuhen; der Lenker ist eiskalt.",
+                "hu": "Induljon meleg kesztyűben; a kormány jéghideg lesz.",
+                "ro": "Porniți cu mănuși calde; ghidonul este înghețat.",
+                "en": "Start with warm gloves; the handlebars are freezing cold."
+              }
+            },
+            {
+              "name": "Mill of Larum",
+              "tip_5lang": {
+                "de": "Vorsicht vor dem starken Wind auf der freien Fläche.",
+                "hu": "Vigyázzon az erős széllel a nyílt terepen.",
+                "ro": "Atenție la vântul puternic în câmp deschis.",
+                "en": "Watch out for strong winds on the open terrain near the mill."
+              }
+            },
+            {
+              "name": "Saint Dymphna's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die steifen Finger wieder zu bewegen.",
+                "hu": "Használja ki a megállót az elgémberedett ujjak átmozgatására.",
+                "ro": "Folosiți oprirea pentru a vă mișca degetele amorțite.",
+                "en": "Use this stop to get your stiff fingers moving again."
+              }
+            },
+            {
+              "name": "Domein de Putten Nature Reserve",
+              "tip_5lang": {
+                "de": "Gefrorene Pfützen können spiegelglatt sein; fahren Sie vorsichtig.",
+                "hu": "A fagyott tócsák tükörsimák lehetnek; tekerjen óvatosan.",
+                "ro": "Bălțile înghețate pot fi alunecoase; conduceți cu atenție.",
+                "en": "Frozen puddles can be slick; ride carefully through the reserve."
+              }
+            },
+            {
+              "name": "Gasthuis Museum",
+              "tip_5lang": {
+                "de": "Hier können Sie Ihre kalten Füße bei einem Museumsrundgang aufwärmen.",
+                "hu": "Itt felmelegítheti hideg lábait a múzeumi séta során.",
+                "ro": "Aici vă puteți încălzi picioarele reci în timpul turului.",
+                "en": "Warm up your cold feet during the museum tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Mehrere Schichten Kleidung schützen vor dem beißenden Fahrtwind.",
+              "Prüfen Sie den Reifendruck; im Winter ist Grip besonders wichtig.",
+              "Trinken Sie auch bei Kälte genug, am besten warmen Tee.",
+              "Die Sonne steht tief; eine Sonnenbrille hilft gegen Blendung."
+            ],
+            "hu": [
+              "Több réteg ruha véd a metsző menetszél ellen.",
+              "Ellenőrizze a guminyomást; télen a tapadás különösen fontos.",
+              "Igyon eleget hidegben is, lehetőleg meleg teát.",
+              "A nap alacsonyan jár; a napszemüveg segít a vakítás ellen."
+            ],
+            "ro": [
+              "Mai multe straturi de haine vă protejează de vântul tăios.",
+              "Verificați presiunea în pneuri; aderența este crucială iarna.",
+              "Beți suficiente lichide, preferabil ceai cald.",
+              "Soarele este jos pe cer; ochelarii de soare ajută împotriva orbirii."
+            ],
+            "en": [
+              "Layered clothing protects against the biting wind chill while riding.",
+              "Check your tire pressure; grip is especially important in winter.",
+              "Stay hydrated even in the cold, preferably with warm tea.",
+              "The sun is low; sunglasses help against the winter glare."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -858,6 +1204,170 @@
           "Check parking regulations in the city center, some areas may be time-limited.",
           "The cluster-walking method saves time and parking fees."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im komfortablen Auto erkunden wir Geel und Umgebung bei Regen. Die Larumer Mühle ist nur einen kurzen Sprint entfernt. Das Naturschutzgebiet De Putten bewundern wir fast trocken vom Parkplatz aus. In der Stadt parken wir direkt am Markt, um schnell in die warmen Kirchen und das Museum zu gelangen.",
+            "hu": "Kényelmes autóval fedezzük fel Geelt az esős időben. A larumi malom csak egy rövid sprintre van a parkolótól. A De Putten természetvédelmi területet szinte szárazon csodálhatjuk meg. A városban a főtéren parkolunk, hogy gyorsan elérjük a templomokat és a múzeumot.",
+            "ro": "Explorăm Geel și împrejurimile din confortul mașinii, pe ploaie. Moara din Larum este la doar un scurt sprint distanță. Admirăm rezervația De Putten aproape uscați din parcare. În oraș parcăm direct în piață pentru a ajunge rapid la biserici și muzeu.",
+            "en": "In a comfortable car, we explore Geel and its surroundings during the rain. The Larum Mill is just a short sprint away. We admire the De Putten nature reserve almost dry from the parking lot. In town, we park at the square to quickly reach the warm churches and museum."
+          },
+          "stops": [
+            {
+              "name": "Cluster Start: Mill of Larum",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Regenweg zu minimieren.",
+                "hu": "Parkoljon közel a bejárathoz, hogy minimalizálja az esőben megtett utat.",
+                "ro": "Parcați aproape de intrare pentru a minimiza drumul prin ploaie.",
+                "en": "Park close to the entrance to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Domein de Putten Nature Reserve",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Teiche aus dem trockenen Auto.",
+                "hu": "Élvezze a tavakra nyíló kilátást a száraz autóból.",
+                "ro": "Bucurați-vă de vederea lacurilor din mașina uscată.",
+                "en": "Enjoy the view of the ponds from the dry interior of your car."
+              }
+            },
+            {
+              "name": "Cluster Start: Parking at the Market Square",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze sparen lange Fußwege bei Schmuddelwetter.",
+                "hu": "A központi parkolók megkímélik a hosszú sétáktól rossz időben.",
+                "ro": "Parcările centrale vă scutesc de plimbări lungi pe vreme rea.",
+                "en": "Central parking saves you from long walks in nasty weather."
+              }
+            },
+            {
+              "name": "Saint Dymphna's Church",
+              "tip_5lang": {
+                "de": "Lassen Sie die nassen Mäntel für die kurze Besichtigung im Auto.",
+                "hu": "Hagyja a vizes kabátokat az autóban a rövid látogatás idejére.",
+                "ro": "Lăsați haina udă în mașină pentru vizita scurtă.",
+                "en": "Leave your wet coats in the car for this brief visit."
+              }
+            },
+            {
+              "name": "Gasthuis Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den museumseigenen Parkplatz für einen kurzen Weg.",
+                "hu": "Használja a múzeum saját parkolóját a rövid besétáláshoz.",
+                "ro": "Folosiți parcarea muzeului pentru un drum cât mai scurt.",
+                "en": "Use the museum's own parking lot for a short walk to the door."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Landstraßen nach Larum.",
+              "Die Parkhäuser im Zentrum bieten komplett trockene Ausstiege.",
+              "Halten Sie ein Tuch bereit, um beschlagene Scheiben schnell zu reinigen.",
+              "Prüfen Sie die Scheibenwischerblätter vor der Abfahrt."
+            ],
+            "hu": [
+              "Ügyeljen a vízátfolyásokra a Larum felé vezető országutakon.",
+              "A belvárosi parkolóházak teljesen száraz kiszállást biztosítanak.",
+              "Tartson kéznél törlőkendőt a párás szélvédő tisztításához.",
+              "Indulás előtt ellenőrizze az ablaktörlő lapátokat."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile spre Larum.",
+              "Parcările supraetajate din centru oferă coborâre complet uscată.",
+              "Țineți o cârpă la îndemână pentru a curăța geamurile aburite.",
+              "Verificați lamelele ștergătoarelor înainte de plecare."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the country roads towards Larum.",
+              "Central parking garages provide completely dry exits from the car.",
+              "Keep a cloth handy to quickly clear fogged-up windows.",
+              "Check your windshield wiper blades before starting the tour."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Sicher und warm gleiten wir durch die winterliche Kempen. Die Mühle von Larum steht stolz im Frost. Im Naturschutzgebiet De Putten beobachten wir die winterlichen Vögel aus der Wärme. Die Stadttour führt uns zu den beeindruckenden Kirchen und dem gemütlich beheizten Museum, wo Geschichte lebendig wird.",
+            "hu": "Biztonságban és melegben gurulunk át a téli Kempen-vidéken. A larumi malom büszkén áll a fagyban. A De Putten területén a melegből figyelhetjük a téli madárvilágot. A városi túra során lenyűgöző templomokat és a kellemesen fűtött múzeumot látogatjuk meg.",
+            "ro": "Conducem în siguranță și căldură prin peisajul de iarnă din Kempen. Moara din Larum stă mândră în ger. În rezervația De Putten observăm păsările de iarnă din căldură. Turul orașului ne duce la bisericile impresionante și la muzeul încălzit.",
+            "en": "Safely and warmly, we glide through the winter Kempen region. The Larum Mill stands proud in the frost. At De Putten, we observe winter birds from the warmth of the car. The city tour takes us to impressive churches and the cozy, heated museum."
+          },
+          "stops": [
+            {
+              "name": "Cluster Start: Mill of Larum",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Do not leave the engine idling unnecessarily while parked."
+              }
+            },
+            {
+              "name": "Domein de Putten Nature Reserve",
+              "tip_5lang": {
+                "de": "Das Fernglas nicht vergessen, um Vögel aus dem Auto zu sehen.",
+                "hu": "Ne felejtse otthon a távcsövet a madármegfigyeléshez.",
+                "ro": "Nu uitați binoclul pentru a vedea păsările din mașină.",
+                "en": "Don't forget your binoculars to spot birds from your car seat."
+              }
+            },
+            {
+              "name": "Cluster Start: Parking at the Market Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie Park-Apps, um das Bezahlen im Freien zu vermeiden.",
+                "hu": "Használjon parkoló-appot, hogy ne kelljen kint fizetnie.",
+                "ro": "Folosiți aplicații de parcare pentru a evita plata în frig.",
+                "en": "Use parking apps to avoid paying at the outdoor machines."
+              }
+            },
+            {
+              "name": "Saint Dymphna's Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Kirche als Kontrast zur Auto-Heizung.",
+                "hu": "Élvezze a templom csendjét az autó fűtése után.",
+                "ro": "Bucurați-vă de liniștea bisericii după căldura din mașină.",
+                "en": "Enjoy the quiet of the church as a contrast to the car heater."
+              }
+            },
+            {
+              "name": "Gasthuis Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, es ist der wärmste Ort des Tages.",
+                "hu": "Tervezzen ide több időt, ez a nap legmelegebb helyszíne.",
+                "ro": "Planificați mai mult timp aici; este cel mai cald loc al zilei.",
+                "en": "Plan more time here; it's the warmest location of the day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Vorsicht vor überfrierender Nässe auf den Brücken über den Kanal.",
+              "Batterie-Check ist vor dem Start bei Minustemperaturen ratsam.",
+              "Nehmen Sie eine Decke mit, falls Sie längere Zeit parken."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosó tartályban.",
+              "Vigyázzon a lefagyásokra a csatorna feletti hidakon.",
+              "Mínuszok esetén tanácsos indítás előtt ellenőrizni az akkumulátort.",
+              "Vigyen magával takarót, ha hosszabb ideig parkolna."
+            ],
+            "ro": [
+              "Verificați antigelul din rezervorul de spălare a parbrizului.",
+              "Atenție la polei pe podurile peste canal.",
+              "Verificarea bateriei este recomandată înainte de plecare pe ger.",
+              "Luați o pătură cu voi dacă parcați pentru o perioadă lungă."
+            ],
+            "en": [
+              "Check the antifreeze levels in your windshield washer fluid.",
+              "Watch out for black ice on the bridges crossing the canal.",
+              "A battery check is advisable before starting in sub-zero temperatures.",
+              "Take a blanket with you if you plan on parking for a longer period."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1134,6 +1644,170 @@
           "Bus schedules can be found online or at the stops.",
           "Be aware that buses may run less frequently in the evening."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn erreichen wir die Highlights von Geel trocken. Der Bahnhof bietet Schutz, während wir auf die Verbindung zum Markt warten. Die Kirchenbesuche sind perfekt getaktet, um Regengüsse im Inneren zu verbringen. Das Museum und das Kulturzentrum sind bequem per Bus erreichbar und bieten ein tolles Indoor-Programm.",
+            "hu": "Busszal és vonattal szárazon érjük el Geel látnivalóit. Az állomás menedéket nyújt, amíg a csatlakozásra várunk. A templomlátogatások tökéletesen ütemezhetők, hogy a záporokat bent tölthessük. A múzeum és a kulturális központ busszal is könnyen elérhető, kiváló beltéri programot kínálva.",
+            "ro": "Cu autobuzul și trenul ajungem la atracțiile din Geel fără să ne udăm. Gara oferă adăpost în timp ce așteptăm legătura. Vizitele la biserici sunt programate perfect pentru a petrece aversele în interior. Muzeul și centrul cultural sunt ușor accesibile cu autobuzul.",
+            "en": "By bus and train, we reach Geel's highlights while staying dry. The station provides shelter while waiting for connections. Church visits are perfectly timed to spend downpours inside. The museum and cultural centre are easily accessible by bus, offering a great indoor program."
+          },
+          "stops": [
+            {
+              "name": "Cluster Start: Market Square of Geel",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle am Markt ist teilweise überdacht.",
+                "hu": "A főtéri buszmegálló részben fedett.",
+                "ro": "Stația de autobuz din piață este parțial acoperită.",
+                "en": "The bus stop at the market square is partially covered."
+              }
+            },
+            {
+              "name": "Saint Amand's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Fußweg von der Haltestelle zur Kirche.",
+                "hu": "Használja ki a megálló és a templom közötti rövid sétát.",
+                "ro": "Profitați de drumul scurt de la stație până la biserică.",
+                "en": "Take advantage of the short walk from the stop to the church."
+              }
+            },
+            {
+              "name": "Saint Dymphna's Church",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten bequem in der App, während Sie im Trockenen sind.",
+                "hu": "Ellenőrizze a menetrendet az appban, amíg bent van a szárazon.",
+                "ro": "Verificați programul în aplicație în timp ce stați la adăpost.",
+                "en": "Check the schedule in the app while staying dry inside the church."
+              }
+            },
+            {
+              "name": "Cluster Start: Gasthuis Museum",
+              "tip_5lang": {
+                "de": "Direkte Busverbindungen bringen Sie fast bis vor die Tür.",
+                "hu": "Közvetlen buszjáratok szinte az ajtóig viszik.",
+                "ro": "Legăturile directe de autobuz vă duc aproape până la ușă.",
+                "en": "Direct bus connections take you almost to the museum's doorstep."
+              }
+            },
+            {
+              "name": "CC de Werft Cultural Centre",
+              "tip_5lang": {
+                "de": "Vom Bahnhof Geel sind es nur wenige Minuten mit dem Bus hierher.",
+                "hu": "A geeli állomástól csak pár perc busszal ez a helyszín.",
+                "ro": "De la gara Geel sunt doar câteva minute cu autobuzul până aici.",
+                "en": "It's only a few minutes by bus from Geel station to here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die 'De Lijn' App zeigt Echtzeit-Infos bei wetterbedingten Verzögerungen.",
+              "Große Bahnhöfe wie Geel haben beheizte Wartesäle.",
+              "In Bussen ist es bei Regen oft voll; halten Sie Abstand.",
+              "Schließen Sie Ihren nassen Schirm vor dem Einsteigen in den Bus."
+            ],
+            "hu": [
+              "A 'De Lijn' app valós idejű infót ad az időjárás miatti késésekről.",
+              "A nagyobb állomásokon, mint Geel, fűtött váróterem található.",
+              "Esőben a buszok gyakran zsúfoltak; ügyeljen a távolságra.",
+              "Felszállás előtt csukja össze vizes esernyőjét."
+            ],
+            "ro": [
+              "Aplicația 'De Lijn' oferă info în timp real despre întârzieri.",
+              "Gările mari precum Geel au săli de așteptare încălzite.",
+              "Autobuzele sunt adesea aglomerate pe ploaie; păstrați distanța.",
+              "Închideți umbrela udă înainte de a urca în autobuz."
+            ],
+            "en": [
+              "The 'De Lijn' app shows real-time info for weather-related delays.",
+              "Major stations like Geel have heated waiting rooms.",
+              "Buses are often crowded when it rains; keep your distance.",
+              "Close your wet umbrella before boarding the bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreise mit öffentlichen Verkehrsmitteln durch Geel. Der Bahnhof ist unser warmer Hub. Wir besuchen die beleuchteten Kirchen im Zentrum und nutzen die kurzen Buswege zum Museum. Das Gasthuis Museum bietet die perfekte Aufwärmpause. Den Abend genießen wir im Kulturzentrum, bevor uns der Zug sicher nach Hause bringt.",
+            "hu": "Téli utazás tömegközlekedéssel Geel városában. Az állomás a meleg központunk. Meglátogatjuk a kivilágított templomokat, és rövid buszozással érjük el a múzeumot. A Gasthuis Múzeum tökéletes hely a felmelegedésre. Az estét a kulturális központban töltjük, majd vonattal indulunk haza.",
+            "ro": "Călătorie de iarnă cu transportul public prin Geel. Gara este centrul nostru cald. Vizităm bisericile iluminate din centru și folosim autobuzul pentru drumuri scurte. Muzeul oferă pauza perfectă de încălzire. Seara o petrecem la centrul cultural înainte de plecare.",
+            "en": "Winter transit trip through Geel. The station serves as our warm hub. We visit the illuminated churches in the centre and use short bus rides to reach the museum. The Gasthuis Museum offers the perfect warm-up break. Enjoy the evening at the cultural centre before taking the train home."
+          },
+          "stops": [
+            {
+              "name": "Cluster Start: Market Square of Geel",
+              "tip_5lang": {
+                "de": "Die Lichter am Markt wirken in der Winterdämmerung magisch.",
+                "hu": "A főtéri fények varázslatosak a téli szürkületben.",
+                "ro": "Luminile din piață par magice în amurgul de iarnă.",
+                "en": "The lights at the market look magical in the winter twilight."
+              }
+            },
+            {
+              "name": "Saint Amand's Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto, bevor der nächste Bus kommt.",
+                "hu": "Egy rövid megálló egy fotóra, mielőtt jön a következő busz.",
+                "ro": "O scurtă oprire pentru o poză înainte de următorul autobuz.",
+                "en": "A quick stop for a photo before the next bus arrives."
+              }
+            },
+            {
+              "name": "Saint Dymphna's Church",
+              "tip_5lang": {
+                "de": "Die Kirche liegt direkt an einer Hauptbuslinie.",
+                "hu": "A templom közvetlenül egy fő buszvonal mellett található.",
+                "ro": "Biserica se află direct pe o linie principală de autobuz.",
+                "en": "The church is located directly on a major bus route."
+              }
+            },
+            {
+              "name": "Cluster Start: Gasthuis Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Wartezeit auf den Bus im Warmen zu verbringen.",
+                "hu": "Ideális hely a buszra való várakozáshoz a melegben.",
+                "ro": "Un loc ideal pentru a aștepta autobuzul la căldură.",
+                "en": "An ideal place to wait for your bus in the warmth."
+              }
+            },
+            {
+              "name": "CC de Werft Cultural Centre",
+              "tip_5lang": {
+                "de": "Nach der Vorstellung ist der Fußweg zum Bahnhof kurz und beleuchtet.",
+                "hu": "Az előadás után az állomáshoz vezető út rövid és kivilágított.",
+                "ro": "După spectacol, drumul spre gară este scurt și iluminat.",
+                "en": "After the show, the walk to the station is short and well-lit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Kleidung, da Wartezeiten im Freien kühl sein können.",
+              "Bahnhöfe bieten oft Schließfächer für schwere Wintermäntel an.",
+              "Vermeiden Sie die Stoßzeiten am Nachmittag bei frühem Dunkelwerden.",
+              "Digitale Tickets sparen das Hantieren mit Münzen bei Kälte."
+            ],
+            "hu": [
+              "Öltözzön melegen, mert a kinti várakozás hűvös lehet.",
+              "Az állomásokon gyakran vannak csomagmegőrzők a nehéz kabátoknak.",
+              "Kerülje a délutáni csúcsforgalmat a korai sötétedés miatt.",
+              "A digitális jegy megkíméli a hidegben való aprópénz-kereséstől."
+            ],
+            "ro": [
+              "Îmbrăcați-vă gros, deoarece așteptarea afară poate fi răcoroasă.",
+              "Gările oferă adesea dulapuri pentru haine de iarnă grele.",
+              "Evitați orele de vârf de după-amiază din cauza întunericului timpuriu.",
+              "Biletele digitale vă scutesc de manevrarea monedelor în frig."
+            ],
+            "en": [
+              "Wear warm clothes as waiting outdoors can be chilly.",
+              "Stations often offer lockers for heavy winter coats.",
+              "Avoid afternoon rush hours due to early darkness.",
+              "Digital tickets save you from fumbling with coins in the cold."
+            ]
+          }
+        }
       }
     }
   }

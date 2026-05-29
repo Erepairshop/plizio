@@ -356,6 +356,196 @@
           "Look out for the many terraces for a coffee break.",
           "A detour into the smaller alleys off the main streets is always worthwhile."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Spaziergang beginnt am Renaissance-Rathaus von 1597, wo die Arkaden ersten Schutz bieten. Mittags bieten die schmalen Gassen der Jodenstraat Zuflucht vor dem Regen. Der Nachmittag gehört der trockenen Pracht der St.-Martins-Kirche und den Ausstellungen im Limburgs Museum. Den Tag lassen wir geschützt in der Nähe des Bahnhofs ausklingen, während der Regen auf die Maas peitscht.",
+            "hu": "A séta az 1597-es reneszánsz városházánál indul, ahol az árkádok nyújtanak elsőként menedéket. Délben a Jodenstraat szűk utcái védenek a szitáló esőtől. A délutánt a Szent Márton-templom belső tereiben és a Limburgs Museum kiállításai között töltjük szárazon. Az estét a vasútállomás környékén zárjuk, miközben az eső a Maas folyó felszínét borzolja.",
+            "ro": "Plimbarea începe la primăria renascentistă din 1597, unde arcadele oferă primul adăpost. La prânz, străzile înguste din Jodenstraat protejează de ploaie. După-amiaza este dedicată interiorului bisericii Sf. Martin și expozițiilor de la Limburgs Museum. Încheiem ziua la adăpost, lângă gară, în timp ce ploaia lovește suprafața râului Maas.",
+            "en": "The walk starts at the 1597 Renaissance City Hall, where the arches offer initial shelter. At noon, the narrow Jodenstraat provides cover from the drizzle. Spend the afternoon dry inside St. Martin's Church and exploring the Limburgs Museum. End the day near the station area, watching the rain hit the Maas river while staying indoors."
+          },
+          "stops": [
+            {
+              "name": "Venlo City Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Rathauses von 1597 als Regenschutz.",
+                "hu": "Használja az 1597-es városháza árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele primăriei din 1597 ca adăpost împotriva ploii.",
+                "en": "Use the arches of the 1597 city hall as shelter from the rain."
+              }
+            },
+            {
+              "name": "Jodenstraat",
+              "tip_5lang": {
+                "de": "Die eng stehenden Häuser bieten hier guten Windschutz bei Böen.",
+                "hu": "A szorosan álló házak jó szélvédelmet nyújtanak széllökések esetén.",
+                "ro": "Casele apropiate oferă o protecție bună împotriva vântului.",
+                "en": "The closely spaced houses provide good wind protection during gusts."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die gotischen Details trocken im Kirchenschiff.",
+                "hu": "Csodálja meg a gótikus részleteket szárazon a templomhajóban.",
+                "ro": "Admirați detaliile gotice stând la uscat în nava bisericii.",
+                "en": "Admire the Gothic details while staying dry in the nave."
+              }
+            },
+            {
+              "name": "Maasboulevard",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Bodenbelägen direkt am Flussufer.",
+                "hu": "Vigyázat, a folyóparti burkolat esőben csúszóssá válhat.",
+                "ro": "Atenție la pavajul alunecos direct pe malul râului.",
+                "en": "Watch out for slippery pavement directly on the riverbank."
+              }
+            },
+            {
+              "name": "Limburgs Museum",
+              "tip_5lang": {
+                "de": "Perfektes Timing für einen längeren Museumsbesuch im Trockenen.",
+                "hu": "Tökéletes időzítés egy hosszabb, fedett múzeumlátogatáshoz.",
+                "ro": "Moment perfect pentru o vizită prelungită la muzeu, la adăpost.",
+                "en": "Perfect timing for an extended indoor museum visit."
+              }
+            },
+            {
+              "name": "Julianapark",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon az aszfaltozott utakon a sár elkerülése érdekében.",
+                "ro": "Rămâneți pe aleile asfaltate pentru a evita noroiul.",
+                "en": "Stay on the paved paths to avoid getting muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster in der Altstadt.",
+              "Das Limburgs Museum ist direkt vom Bahnhof aus fast trocken erreichbar.",
+              "Die Passagen am Maasboulevard bieten überdachte Shopping-Möglichkeiten.",
+              "Die St.-Martins-Kirche bietet eine ruhige, trockene Pause zur Besinnung.",
+              "Prüfen Sie die Windvorhersage, da es am Flussufer sehr zugig sein kann."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt az óváros macskaköves utcáihoz.",
+              "A Limburgs Museum a vasútállomástól szinte végig fedett úton elérhető.",
+              "A Maasboulevard passzázsai fedett vásárlási lehetőséget kínálnak.",
+              "A Szent Márton-templom csendes és száraz helyszín a pihenéshez.",
+              "Ellenőrizze a széljelentést, mert a folyóparton erős lehet a huzat."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru pavajul din centrul vechi.",
+              "Limburgs Museum este accesibil aproape uscat direct din gară.",
+              "Pasajele de pe Maasboulevard oferă opțiuni de cumpărături acoperite.",
+              "Biserica Sf. Martin oferă un loc liniștit și uscat pentru odihnă.",
+              "Verificați prognoza de vânt, malul râului poate fi foarte expus."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestones in the old town.",
+              "Limburgs Museum is reachable almost dry directly from the station.",
+              "The passages at Maasboulevard offer covered shopping opportunities.",
+              "St. Martin's Church provides a quiet, dry spot for a break.",
+              "Check the wind forecast as it can be very drafty by the river."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens liegt oft Frost auf den Giebeln des Rathauses, während wir die historische Tour beginnen. Mittags wärmen wir uns in den Cafés der Jodenstraat auf. Der Nachmittag wird durch den frühen Sonnenuntergang an der Maas geprägt, was den Fluss in goldenes Licht taucht. Wir beenden die Tour im hell erleuchteten Limburgs Museum, bevor es um 17 Uhr bereits dunkel wird.",
+            "hu": "Reggelente gyakran dér fedi a városháza oromzatait a történelmi séta kezdetén. Délben a Jodenstraat kávézóiban melegszünk fel. A délutánt a Maas-parti korai naplemente határozza meg, amely arany fénybe vonja a folyót. A túrát a kivilágított Limburgs Museumban zárjuk, mielőtt délután 5-kor teljesen besötétedik.",
+            "ro": "Dimineața, bruma acoperă adesea frontoanele primăriei la începutul turului istoric. La prânz, ne încălzim în cafenelele de pe Jodenstraat. După-amiaza este marcată de apusul timpuriu pe malul râului Maas. Încheiem turul la Limburgs Museum, bine iluminat, înainte ca întunericul să se lase la ora 17:00.",
+            "en": "Frost often covers the gables of the City Hall as we begin our morning historic tour. At noon, warm up in the cozy cafes of Jodenstraat. The afternoon features an early sunset over the Maas, casting golden light on the water. We conclude the tour at the brightly lit Limburgs Museum before darkness falls at 5 PM."
+          },
+          "stops": [
+            {
+              "name": "Venlo City Hall",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Marktplatz vor dem Rathaus.",
+                "hu": "Vigyázzon a jegesedésre a városháza előtti piactéren.",
+                "ro": "Atenție la polei în piața centrală din fața primăriei.",
+                "en": "Be careful of black ice on the market square in front of City Hall."
+              }
+            },
+            {
+              "name": "Jodenstraat",
+              "tip_5lang": {
+                "de": "Idealer Ort für ein Heißgetränk in einem der historischen Häuser.",
+                "hu": "Ideális hely egy forró italra az egyik történelmi házban.",
+                "ro": "Loc ideal pentru o băutură caldă într-una dintre casele istorice.",
+                "en": "Ideal spot for a hot drink inside one of the historic houses."
+              }
+            },
+            {
+              "name": "St. Martin's Church",
+              "tip_5lang": {
+                "de": "Die Kirche bietet Schutz vor dem kalten Winterwind.",
+                "hu": "A templom jó menedéket nyújt a hideg téli szél elől.",
+                "ro": "Biserica oferă un bun adăpost împotriva vântului rece de iarnă.",
+                "en": "The church offers good shelter from the cold winter wind."
+              }
+            },
+            {
+              "name": "Maasboulevard",
+              "tip_5lang": {
+                "de": "Genießen Sie das Winterlicht an der Maas; ziehen Sie sich warm an.",
+                "hu": "Élvezze a téli fényeket a Maas-parton; öltözzön rétegesen.",
+                "ro": "Bucurați-vă de lumina de iarnă pe faleza Maas; îmbrăcați-vă gros.",
+                "en": "Enjoy the winter light by the Maas; dress in warm layers."
+              }
+            },
+            {
+              "name": "Limburgs Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist gut beheizt und bietet eine warme Zuflucht.",
+                "hu": "A múzeum jól fűtött, kellemes menedéket nyújt a hideg elől.",
+                "ro": "Muzeul este bine încălzit și oferă un refugiu primitor.",
+                "en": "The museum is well-heated and provides a warm refuge."
+              }
+            },
+            {
+              "name": "Julianapark",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park vor 16:30 Uhr, bevor es dunkel wird.",
+                "hu": "Látogasson el a parkba 16:30 előtt, mielőtt sötétedni kezd.",
+                "ro": "Vizitați parcul înainte de ora 16:30, când începe să se întunece.",
+                "en": "Visit the park before 4:30 PM before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:30 Uhr unter.",
+              "Vermeiden Sie das Ufer direkt bei Dunkelheit ohne Beleuchtung.",
+              "Warme Handschuhe sind wegen der Nähe zum Fluss unerlässlich.",
+              "Das Limburgs Museum ist eine hervorragende Aufwärmstation.",
+              "Die historische Altstadt ist im Winter oft festlich beleuchtet."
+            ],
+            "hu": [
+              "A nap decemberben már 16:30 körül nyugszik.",
+              "Kerülje a kivilágítatlan folyóparti szakaszokat sötétedés után.",
+              "A folyó közelsége miatt a meleg kesztyű elengedhetetlen.",
+              "A Limburgs Museum kiváló helyszín a felmelegedéshez.",
+              "A történelmi óváros télen gyakran ünnepi díszkivilágítást kap."
+            ],
+            "ro": [
+              "Soarele apune în decembrie în jurul orei 16:30.",
+              "Evitați malul râului după lăsarea întunericului în zonele neiluminate.",
+              "Mănușile groase sunt esențiale din cauza proximității râului.",
+              "Limburgs Museum este o stație excelentă pentru încălzire.",
+              "Centrul istoric este adesea iluminat festiv în timpul iernii."
+            ],
+            "en": [
+              "The sun sets around 4:30 PM in December.",
+              "Avoid unlit riverbank sections after dark for safety.",
+              "Warm gloves are essential due to the damp river air.",
+              "Limburgs Museum is an excellent indoor warming station.",
+              "The historic old town is often festively lit during winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -683,6 +873,178 @@
           "Pay attention to the 'Fietstraaten' (bicycle streets), where cyclists have priority.",
           "A bike tour along the Meuse offers beautiful views and a flat route."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour führt entlang der Maasboulevards, wo der Asphalt bei Regen glänzt. Mittags bietet das Limburgs Museum eine lange, trockene Pause mit sicheren Abstellplätzen. Nachmittags erkunden wir den Julianapark und das Rosarium, wobei wir auf den befestigten Radwegen bleiben. Trotz Regen bleibt Venlo auf zwei Rädern gut befahrbar, sofern die Kleidung stimmt.",
+            "hu": "A kerékpártúra a Maasboulevardon halad, ahol az aszfalt csillog az esőben. Délben a Limburgs Museum hosszú, száraz szünetet kínál biztonságos tárolókkal. Délután a Julianaparkot és a Rosariumot fedezzük fel, szigorúan a kiépített kerékpárutakon maradva. Az eső ellenére Venlo két keréken is jól bejárható a megfelelő öltözetben.",
+            "ro": "Turul cu bicicleta urmează Maasboulevard, unde asfaltul strălucește sub ploaie. La prânz, Limburgs Museum oferă o pauză lungă și uscată, cu rastele sigure. După-amiaza explorăm Julianapark și Rosarium, rămânând pe pistele betonate. În ciuda ploii, Venlo rămâne accesibil pe două roți cu echipamentul potrivit.",
+            "en": "The bike tour follows the Maasboulevard, where the asphalt glistens in the rain. At noon, the Limburgs Museum offers a long dry break with secure bike racks. In the afternoon, explore Julianapark and the Rosarium, sticking strictly to the paved bike paths. Despite the rain, Venlo remains cyclable with the right waterproof gear."
+          },
+          "stops": [
+            {
+              "name": "Maasboulevard",
+              "tip_5lang": {
+                "de": "Achtung: Markierungen auf dem Radweg können bei Nässe rutschen.",
+                "hu": "Vigyázat: a kerékpárút felfestései nedvesen csúszhatnak.",
+                "ro": "Atenție: marcajele de pe pistă pot fi alunecoase când sunt ude.",
+                "en": "Caution: bike path markings can be slippery when wet."
+              }
+            },
+            {
+              "name": "City Hall and Market Square",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster am Markt erfordert langsame Fahrt bei Regen.",
+                "hu": "A piaci macskakő lassabb tempót igényel esőben.",
+                "ro": "Pavajul de la piață necesită viteză redusă pe ploaie.",
+                "en": "The market cobblestones require slower speeds in the rain."
+              }
+            },
+            {
+              "name": "Limburgs Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Fahrradständer direkt am Eingang.",
+                "hu": "Használja a közvetlenül a bejáratnál lévő fedett tárolókat.",
+                "ro": "Folosiți suporturile de biciclete acoperite de la intrare.",
+                "en": "Use the covered bike racks located right at the entrance."
+              }
+            },
+            {
+              "name": "Julianapark",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Rasenflächen; bleiben Sie auf den Hauptwegen.",
+                "hu": "Kerülje a füves területeket; maradjon a főutakon.",
+                "ro": "Evitați zonele cu iarbă; rămâneți pe aleile principale.",
+                "en": "Avoid grassy areas; stick to the main paved paths."
+              }
+            },
+            {
+              "name": "Rosarium Venlo",
+              "tip_5lang": {
+                "de": "Der Pavillon bietet einen kurzen Unterschlupf bei Schauern.",
+                "hu": "A pavilon rövid menedéket nyújt hirtelen zápor esetén.",
+                "ro": "Pavilionul oferă un scurt adăpost în caz de aversă.",
+                "en": "The pavilion offers short-term shelter during showers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie abruptes Bremsen auf nassem Kopfsteinpflaster.",
+              "Vollständige Regenbekleidung (Hose + Jacke) wird dringend empfohlen.",
+              "Die Sicht kann durch Spritzwasser am Flussufer eingeschränkt sein.",
+              "Nutzen Sie die Fahrradstation am Bahnhof für trockene Lagerung.",
+              "Beleuchtung am Fahrrad ist bei trübem Wetter auch tagsüber Pflicht."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a nedves macskakövön.",
+              "Teljes esőruházat (nadrág + kabát) erősen ajánlott.",
+              "A látási viszonyok a folyóparti vízpermet miatt romolhatnak.",
+              "Használja a vasútállomás kerékpárparkolóját a száraz tároláshoz.",
+              "Borús időben napközben is kötelező a kerékpáros világítás."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe pavajul ud din centru.",
+              "Se recomandă echipament complet de ploaie (pantaloni + jachetă).",
+              "Vizibilitatea poate fi redusă de stropii de apă de pe malul râului.",
+              "Folosiți parcarea de biciclete de la gară pentru depozitare uscată.",
+              "Luminile bicicletei sunt obligatorii ziua pe timp de ceață sau nor."
+            ],
+            "en": [
+              "Avoid sudden braking on wet cobblestones in the city center.",
+              "Full waterproof gear (trousers + jacket) is highly recommended.",
+              "Visibility might be reduced by spray near the riverbank.",
+              "Use the bike station at the railway station for dry storage.",
+              "Bike lights are mandatory during the day in gloomy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winter-Radtour startet frisch am windigen Maasboulevard. Mittags bietet das Limburgs Museum eine ideale Aufwärmpause. Der Nachmittag führt durch den Julianapark, wo die kahlen Bäume weite Sichtachsen bieten. Da es im Winter früh dunkel wird, planen wir die Rückkehr zum Zentrum gegen 16:30 Uhr ein, wenn die Stadtlichter von Venlo angehen.",
+            "hu": "A téli kerékpártúra frissen indul a szeles Maasboulevardon. Délben a Limburgs Museum ideális felmelegedési pontot kínál. Délután a Julianaparkon át tekerünk, ahol a kopasz fák messzi kilátást engednek. Mivel télen korán sötétedik, a központba való visszatérést 16:30-ra tervezzük, amikor kigyúlnak a város fényei.",
+            "ro": "Turul de iarnă cu bicicleta începe în forță pe faleza vântoasă a râului Maas. La prânz, Limburgs Museum oferă o pauză ideală pentru încălzire. După-amiaza trece prin Julianapark, unde arborii desfrunziți permit vizibilitatea la distanță. Deoarece se întunecă devreme, plănuim revenirea în centru la 16:30.",
+            "en": "The winter bike tour starts briskly on the windy Maasboulevard. At noon, the Limburgs Museum provides an ideal warming break. The afternoon route goes through Julianapark, where bare trees offer long vistas. Since it gets dark early in winter, we plan to return to the center by 4:30 PM as the city lights come on."
+          },
+          "stops": [
+            {
+              "name": "Maasboulevard",
+              "tip_5lang": {
+                "de": "Winddichte Kleidung ist hier wegen der exponierten Lage wichtig.",
+                "hu": "A szélálló ruházat itt fontos a nyitott terület miatt.",
+                "ro": "Îmbrăcămintea rezistentă la vânt este esențială aici.",
+                "en": "Windproof clothing is essential here due to the exposed location."
+              }
+            },
+            {
+              "name": "City Hall and Market Square",
+              "tip_5lang": {
+                "de": "Vorsicht bei gefrorenem Tauwasser auf den Steinplatten.",
+                "hu": "Vigyázzon a kőlapokon megfagyott pára miatti csúszásveszélyre.",
+                "ro": "Atenție la riscul de alunecare pe plăcile de piatră înghețate.",
+                "en": "Watch out for slippery conditions on frozen dew on the stone slabs."
+              }
+            },
+            {
+              "name": "Limburgs Museum",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, die steif gefrorenen Finger aufzuwärmen.",
+                "hu": "Jó alkalom az átfagyott ujjak felmelegítésére.",
+                "ro": "O oportunitate bună de a vă încălzi degetele înghețate.",
+                "en": "Great opportunity to warm up your stiff fingers inside."
+              }
+            },
+            {
+              "name": "Julianapark",
+              "tip_5lang": {
+                "de": "Die Wege können bei Bodenfrost sehr hart und rutschig sein.",
+                "hu": "Talajmenti fagy esetén az utak kemények és csúszósak lehetnek.",
+                "ro": "Aleile pot fi foarte tari și alunecoase în caz de îngheț.",
+                "en": "Paths can be very hard and slippery during ground frost."
+              }
+            },
+            {
+              "name": "Rosarium Venlo",
+              "tip_5lang": {
+                "de": "Im Winter kahl, aber architektonisch interessant durch den Reif.",
+                "hu": "Télen kopár, de a zúzmara miatt építészetileg érdekes látvány.",
+                "ro": "Golaș iarna, dar interesant arhitectural datorită chiciurei.",
+                "en": "Bare in winter, but architecturally interesting with the frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe; Metalllenker entziehen den Händen Wärme.",
+              "Prüfen Sie vorab den Luftdruck; Reifen verlieren bei Kälte Druck.",
+              "Beachten Sie den Sonnenuntergang um ca. 16:30 Uhr im Dezember.",
+              "Vermeiden Sie Fahrten direkt am Wasser bei starkem Windfrost.",
+              "Wählen Sie eine Route mit vielen Aufwärmmöglichkeiten (Cafés)."
+            ],
+            "hu": [
+              "Viseljen kesztyűt; a fém kormány elvonja a hőt a kezektől.",
+              "Ellenőrizze a guminyomást; a hidegben csökkenhet a nyomás.",
+              "Vegye figyelembe a korai, délután fél 5-ös naplementét.",
+              "Erős szélvihar esetén kerülje a közvetlen vízparti utakat.",
+              "Válasszon sok felmelegedési lehetőséget (kávézót) érintő útvonalat."
+            ],
+            "ro": [
+              "Purtați mănuși; ghidonul metalic răcește rapid mâinile.",
+              "Verificați presiunea; anvelopele pierd presiune la frig.",
+              "Țineți cont de apusul soarelui în jurul orei 16:30 în decembrie.",
+              "Evitați plimbările pe malul apei în caz de vânt puternic și îngheț.",
+              "Alegeți un traseu cu multe cafenele pentru pauze de încălzire."
+            ],
+            "en": [
+              "Wear gloves; metal handlebars draw heat away from your hands.",
+              "Check tire pressure; cold temperatures cause pressure to drop.",
+              "Note the early sunset around 4:30 PM in December.",
+              "Avoid riding directly by the water during strong wind chill.",
+              "Choose a route with plenty of cafes for warming up."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1008,6 +1370,196 @@
           "The 'cluster-walking' method saves time and parking fees: park once and explore an area on foot.",
           "A trip to the nearby national parks De Maasduinen or De Groote Peel is also a great option for a day."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt im Klosterdorf Steyl, wo die historischen Mauern im Regen besonders dunkel wirken. Mittags parken wir am Maasboulevard und nutzen die kurzen Wege zu den Restaurants. Nachmittags besuchen wir das Rathaus und das Museum van Bommel van Dam, wobei das Auto als trockener Stützpunkt zwischen den Stationen dient. Ein entspannter Kulturtag trotz des nassen Wetters.",
+            "hu": "A túra Steyl kolostorfalujában indul, ahol a történelmi falak az esőben különösen sötétnek tűnnek. Délben a Maasboulevardon parkolunk, kihasználva az éttermek közelségét. Délután a városházát és a Museum van Bommel van Damot keressük fel; az autó száraz bázisként szolgál az állomások között. Pihentető kulturális nap a nedves idő ellenére is.",
+            "ro": "Călătoria începe în satul mănăstiresc Steyl, unde zidurile istorice par mai întunecate pe ploaie. La prânz, parcăm la Maasboulevard pentru acces rapid la restaurante. După-amiaza vizităm primăria și Museum van Bommel van Dam; mașina servește ca bază uscată între opriri. O zi culturală relaxată în ciuda vremii umede.",
+            "en": "The drive begins in the monastery village of Steyl, where the historic walls look particularly dark in the rain. At noon, park at Maasboulevard for quick access to restaurants. In the afternoon, visit the City Hall and Museum van Bommel van Dam; the car serves as a dry base between stops. A relaxed cultural day despite the wet weather."
+          },
+          "stops": [
+            {
+              "name": "Monastery Village Steyl",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um Regenschauer zu überbrücken.",
+                "hu": "Parkoljon közel a bejárathoz a záporok elkerülése érdekében.",
+                "ro": "Parcați aproape de intrare pentru a evita averselor.",
+                "en": "Park close to the entrance to minimize time in the rain."
+              }
+            },
+            {
+              "name": "Mission Museum Steyl",
+              "tip_5lang": {
+                "de": "Ein ideales Ziel für regnerische Vormittage im Innenbereich.",
+                "hu": "Ideális célpont esős délelőttökhöz a fedett terekben.",
+                "ro": "O destinație ideală pentru diminețile ploioase, la interior.",
+                "en": "An ideal destination for rainy mornings spent indoors."
+              }
+            },
+            {
+              "name": "Parking at Maasboulevard",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus für einen trockenen Ausstieg.",
+                "hu": "Használja a parkolóházat a száraz kiszállás érdekében.",
+                "ro": "Folosiți parcarea etajată pentru a coborî la uscat.",
+                "en": "Use the parking garage for a dry exit from the vehicle."
+              }
+            },
+            {
+              "name": "Lunch and stroll on Maasboulevard",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit direktem Blick auf die Maas.",
+                "hu": "Válasszon olyan éttermet, amely közvetlen kilátást nyújt a folyóra.",
+                "ro": "Alegeți un restaurant cu vedere directă la râul Maas.",
+                "en": "Choose a restaurant with a direct view of the Maas river."
+              }
+            },
+            {
+              "name": "City Hall and Old Town",
+              "tip_5lang": {
+                "de": "Kurze Sprints zwischen den historischen Gebäuden einplanen.",
+                "hu": "Tervezzen rövid sprintet a történelmi épületek között.",
+                "ro": "Plănuiți deplasări rapide între clădirile istorice.",
+                "en": "Plan short sprints between the historic buildings."
+              }
+            },
+            {
+              "name": "Museum van Bommel van Dam",
+              "tip_5lang": {
+                "de": "Genießen Sie moderne Kunst in den lichtdurchfluteten, trockenen Hallen.",
+                "hu": "Élvezze a modern művészetet a világos, száraz csarnokokban.",
+                "ro": "Admirați arta modernă în sălile luminoase și uscate.",
+                "en": "Enjoy modern art in the bright, dry exhibition halls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Parkhäuser im Zentrum auf freie Plätze (P-Route).",
+              "Regenschirm im Auto griffbereit halten für den Weg zum Museum.",
+              "Vermeiden Sie bei Starkregen das Parken in Ufernähe (Hochwassergefahr).",
+              "Die Fahrt von Steyl ins Zentrum dauert ca. 10-15 Minuten.",
+              "Nutzen Sie die Park-Apps, um Ticketautomaten im Regen zu vermeiden."
+            ],
+            "hu": [
+              "Ellenőrizze a szabad helyeket a központi parkolóházakban (P-útvonal).",
+              "Tartson esernyőt az autóban a múzeumhoz vezető úthoz.",
+              "Heves esőzéskor kerülje a közvetlen folyóparti parkolást.",
+              "Az út Steylből a központba kb. 10-15 percet vesz igénybe.",
+              "Használjon parkolási appot, hogy ne kelljen az esőben automatázni."
+            ],
+            "ro": [
+              "Verificați locurile libere în parcările acoperite (ruta P).",
+              "Țineți umbrela la îndemână în mașină pentru drumul spre muzeu.",
+              "Evitați parcarea pe malul apei în caz de ploaie torențială.",
+              "Drumul de la Steyl până în centru durează aproximativ 10-15 minute.",
+              "Utilizați aplicații de parcare pentru a evita automatele pe ploaie."
+            ],
+            "en": [
+              "Check for available spots in central parking garages (P-route).",
+              "Keep an umbrella handy in the car for the walk to the museum.",
+              "Avoid parking near the river during heavy rain (flood risk).",
+              "The drive from Steyl to the center takes about 10-15 minutes.",
+              "Use parking apps to avoid using ticket machines in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am Morgen besuchen wir das verschneite Klosterdorf Steyl, wo die Gärten eine stille Winterruhe ausstrahlen. Mittags fahren wir zurück nach Venlo zum Maasboulevard für ein warmes Mittagessen. Der Nachmittag ist der Kultur im van Bommel van Dam gewidmet. Mit dem Auto bleiben wir flexibel und entgehen der beißenden Kälte am Flussufer zwischen den Besichtigungen.",
+            "hu": "Reggel a havas Steyl kolostorfalut keressük fel, ahol a kertek téli nyugalmat árasztanak. Délben visszahajtunk Venloba a Maasboulevardhoz egy meleg ebédre. A délután a van Bommel van Dam múzeumé. Az autóval rugalmasak maradunk, és elkerüljük a folyóparti metsző hideget a látnivalók közötti váltáskor.",
+            "ro": "Dimineața vizităm satul mănăstiresc Steyl, unde grădinile emană o liniște hibernală. La prânz, revenim în Venlo la Maasboulevard pentru un prânz cald. După-amiaza este dedicată culturii la van Bommel van Dam. Cu mașina rămânem flexibili și evităm frigul tăios de pe malul apei între vizite.",
+            "en": "In the morning, visit the snowy monastery village of Steyl, where the gardens radiate winter peace. At noon, drive back to Venlo's Maasboulevard for a warm lunch. The afternoon is dedicated to culture at van Bommel van Dam. By car, we stay flexible and avoid the biting cold along the riverbank between sights."
+          },
+          "stops": [
+            {
+              "name": "Monastery Village Steyl",
+              "tip_5lang": {
+                "de": "Achten Sie auf ungeräumte Parkplätze im historischen Dorf.",
+                "hu": "Vigyázzon a takarítatlan parkolókra a történelmi faluban.",
+                "ro": "Atenție la parcările necurățate de zăpadă în satul istoric.",
+                "en": "Watch out for unplowed parking spots in the historic village."
+              }
+            },
+            {
+              "name": "Mission Museum Steyl",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um die Geschichte der Missionare zu entdecken.",
+                "hu": "Meleg helyszín a misszionáriusok történetének felfedezéséhez.",
+                "ro": "Un loc călduros pentru a descoperi istoria misionarilor.",
+                "en": "A warm place to discover the history of the missionaries."
+              }
+            },
+            {
+              "name": "Parking at Maasboulevard",
+              "tip_5lang": {
+                "de": "Parkhäuser verhindern das Einfrieren der Autoscheiben.",
+                "hu": "A parkolóházak megvédik az autó szélvédőjét a lefagyástól.",
+                "ro": "Parcările acoperite previn înghețarea parbrizului.",
+                "en": "Parking garages prevent your windshield from icing up."
+              }
+            },
+            {
+              "name": "Lunch and stroll on Maasboulevard",
+              "tip_5lang": {
+                "de": "Kürzen Sie den Spaziergang ab, falls der Wind vom Fluss zu kalt ist.",
+                "hu": "Rövidítse le a sétát, ha túl hideg a folyó felől fújó szél.",
+                "ro": "Scurtați plimbarea dacă vântul de pe râu este prea rece.",
+                "en": "Shorten the stroll if the wind from the river is too cold."
+              }
+            },
+            {
+              "name": "City Hall and Old Town",
+              "tip_5lang": {
+                "de": "Der Marktplatz kann bei Frost sehr rutschig sein.",
+                "hu": "A piactér fagy esetén nagyon csúszós lehet.",
+                "ro": "Piața centrală poate fi foarte alunecoasă în caz de îngheț.",
+                "en": "The market square can be very slippery during frost."
+              }
+            },
+            {
+              "name": "Museum van Bommel van Dam",
+              "tip_5lang": {
+                "de": "Idealer Abschluss des Tages im Warmen bei moderner Kunst.",
+                "hu": "Ideális napzárás a melegben, modern művészetek társaságában.",
+                "ro": "Final ideal de zi la căldură, admirând arta modernă.",
+                "en": "Ideal end to the day indoors with modern art."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind bei Schneefall in den Niederlanden ratsam.",
+              "Die Parkhäuser im Zentrum sind meist gut beheizt.",
+              "Beachten Sie die eingeschränkte Sicht durch frühen Nebel an der Maas.",
+              "In Steyl sind einige Gartenbereiche im Winter eventuell gesperrt.",
+              "Sichern Sie sich einen Parkplatz in der Nähe des van Bommel van Dam."
+            ],
+            "hu": [
+              "Hóesés esetén Hollandiában is tanácsos a téli gumi használata.",
+              "A központi parkolóházak általában jól temperáltak.",
+              "Ügyeljen a korai köd miatti korlátozott látási viszonyokra a Maasnál.",
+              "Steylben néhány kertrész télen zárva tarthat.",
+              "Próbáljon meg a van Bommel van Dam múzeum közelében parkolni."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt recomandate în caz de ninsoare.",
+              "Parcările etajate din centru sunt de obicei bine ventilate și ferite.",
+              "Atenție la vizibilitatea redusă din cauza ceții timpurii de pe Maas.",
+              "În Steyl, unele zone ale grădinilor pot fi închise iarna.",
+              "Căutați un loc de parcare aproape de muzeul van Bommel van Dam."
+            ],
+            "en": [
+              "Winter tires are advisable if snow is forecast in the Netherlands.",
+              "Central parking garages are usually sheltered and warmer than outside.",
+              "Watch out for limited visibility due to early mist near the Maas.",
+              "Some garden areas in Steyl might be closed during winter.",
+              "Try to secure a parking spot close to the van Bommel van Dam museum."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1334,6 +1886,196 @@
           "Most buses in the Netherlands are cashless, make sure you have a card to pay.",
           "From the train station, the city center is easily accessible on foot, making the start and end of the tour very convenient."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nach der Ankunft am Bahnhof Venlo ist das Limburgs Museum nur einen Katzensprung entfernt – ideal für den regnerischen Start. Mittags nutzen wir den Bus zum Maasboulevard für ein Essen im Trockenen. Nachmittags fahren wir mit dem Bus 77 ins Klosterdorf Steyl. Die Rückreise erfolgt bequem per ÖPNV, wobei wir die Wartezeiten in den überdachten Wartehallen verbringen.",
+            "hu": "A vasútállomásra való érkezés után a Limburgs Museum csak egy ugrás – ideális esős kezdés. Délben busszal megyünk a Maasboulevardhoz egy száraz ebédre. Délután a 77-es busszal utazunk Steyl kolostorfalujába. A visszautat kényelmesen, tömegközlekedéssel tesszük meg, a várakozási időt fedett várókban töltve.",
+            "ro": "După sosirea la gară, Limburgs Museum este la doar câțiva pași – ideal pentru un început ploios. La prânz, folosim autobuzul spre Maasboulevard pentru o masă la adăpost. După-amiaza luăm autobuzul 77 spre Steyl. Revenirea se face confortabil cu transportul public, așteptând în stațiile acoperite.",
+            "en": "After arriving at Venlo station, the Limburgs Museum is just a stone's throw away – perfect for a rainy start. At noon, take the bus to Maasboulevard for lunch indoors. In the afternoon, ride bus 77 to the monastery village of Steyl. Return comfortably by public transit, spending any wait times in covered shelters."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Venlo Station",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Bahnhofsgebäude, bis Ihr Bus angezeigt wird.",
+                "hu": "Maradjon az állomás épületében, amíg meg nem érkezik a busza.",
+                "ro": "Rămâneți în interiorul gării până când este afișat autobuzul.",
+                "en": "Stay inside the station building until your bus is shown."
+              }
+            },
+            {
+              "name": "Limburgs Museum",
+              "tip_5lang": {
+                "de": "Direkter Zugang vom Bahnhofsvorplatz minimiert die Zeit im Regen.",
+                "hu": "Közvetlen elérés az állomás felől, minimális idő az esőben.",
+                "ro": "Accesul direct din fața gării minimizează timpul petrecut în ploaie.",
+                "en": "Direct access from the station square minimizes time in the rain."
+              }
+            },
+            {
+              "name": "City Hall and Old Town",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle 'Centrum' liegt nah an den Sehenswürdigkeiten.",
+                "hu": "A 'Centrum' buszmegálló közel van a látnivalókhoz.",
+                "ro": "Stația de autobuz 'Centrum' este aproape de atracții.",
+                "en": "The 'Centrum' bus stop is very close to the main sights."
+              }
+            },
+            {
+              "name": "Lunch at Maasboulevard",
+              "tip_5lang": {
+                "de": "Wählen Sie Cafés nahe der Haltestelle für kurze Wege.",
+                "hu": "Válasszon megállóhoz közeli kávézót a rövid séta érdekében.",
+                "ro": "Alegeți cafenele aproape de stație pentru distanțe scurte.",
+                "en": "Choose cafes near the bus stop for shorter walking distances."
+              }
+            },
+            {
+              "name": "Trip to Monastery Village Steyl",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Buslinie 77; die Haltestelle ist überdacht.",
+                "hu": "Használja a 77-es buszjáratot; a megálló fedett.",
+                "ro": "Folosiți linia de autobuz 77; stația este acoperită.",
+                "en": "Take bus line 77; the bus stop is covered."
+              }
+            },
+            {
+              "name": "Grenswerk",
+              "tip_5lang": {
+                "de": "Ein kultureller Hotspot direkt am Fluss, gut per Bus erreichbar.",
+                "hu": "Kulturális központ a folyónál, busszal jól megközelíthető.",
+                "ro": "Un punct cultural pe malul apei, accesibil ușor cu autobuzul.",
+                "en": "A cultural hotspot by the river, easily reachable by bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die OV-chipkaart oder kontaktloses Bezahlen im Bus.",
+              "Die Arriva-App zeigt Echtzeitdaten bei witterungsbedingten Verzögerungen.",
+              "Der Bahnhof Venlo bietet Schließfächer für nasses Gepäck.",
+              "Die Busfrequenz nach Steyl kann an Regentagen variieren.",
+              "Wartehallen im Zentrum sind meist wind- und wetterfest."
+            ],
+            "hu": [
+              "Használjon OV-chipkaartot vagy érintésmentes fizetést a buszon.",
+              "Az Arriva alkalmazás valós idejű adatokat mutat az időjárási késésekről.",
+              "A venloi állomáson csomagmegőrzők is találhatók.",
+              "A Steylbe tartó buszok menetrendje esős napokon eltérhet.",
+              "A központi várócsarnokok általában szél- és időjárásállóak."
+            ],
+            "ro": [
+              "Folosiți cardul OV-chipkaart sau plata contactless în autobuz.",
+              "Aplicația Arriva arată date în timp real despre eventuale întârzieri.",
+              "Gara Venlo oferă dulapuri pentru depozitarea bagajelor umede.",
+              "Frecvența autobuzelor spre Steyl poate varia în zilele ploioase.",
+              "Stațiile din centru sunt de obicei bine protejate de vânt."
+            ],
+            "en": [
+              "Use OV-chipkaart or contactless payment on the bus.",
+              "The Arriva app shows real-time data for any weather delays.",
+              "Venlo station offers lockers for wet luggage or bags.",
+              "Bus frequency to Steyl might vary on rainy days.",
+              "Bus shelters in the center are mostly wind and weather-proof."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erreichen wir das frostige Venlo per Bahn. Das Limburgs Museum direkt am Bahnhof bietet einen warmen Start. Mittags fahren wir mit dem Bus zum winterlichen Maasboulevard. Der Nachmittag führt uns per Bus 77 ins verschneite Steyl, wo die historische Atmosphäre im Winter besonders still ist. Wir beenden den Tag bei Grenswerk, bevor wir den geheizten Zug zurück nehmen.",
+            "hu": "Reggel érkezünk a fagyos Venloba vonattal. Az állomás melletti Limburgs Museum meleg kezdést biztosít. Délben busszal megyünk a téli Maasboulevardhoz. Délután a 77-es busz repít a havas Steylbe, ahol a történelmi hangulat télen különösen csendes. A napot a Grenswerknél zárjuk, mielőtt felszállnunk a fűtött vonatra.",
+            "ro": "Dimineața ajungem în Venlo cu trenul. Limburgs Museum, aflat lângă gară, oferă un început călduros. La prânz, mergem cu autobuzul la Maasboulevard. După-amiaza ne duce cu autobuzul 77 în Steyl, unde atmosfera istorică este foarte liniștită iarna. Încheiem ziua la Grenswerk înainte de a lua trenul încălzit înapoi.",
+            "en": "In the morning, arrive at frosty Venlo by train. The Limburgs Museum right by the station offers a warm start. At noon, take the bus to the wintry Maasboulevard. The afternoon takes us via bus 77 to snowy Steyl, where the historic atmosphere is especially quiet in winter. End the day at Grenswerk before boarding a heated train home."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Venlo Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist gut beheizt; ideal zum Warten auf Anschlüsse.",
+                "hu": "Az állomás jól fűtött; ideális a csatlakozások bevárására.",
+                "ro": "Gara este bine încălzită; ideală pentru așteptarea legăturilor.",
+                "en": "The station is well-heated; ideal for waiting for connections."
+              }
+            },
+            {
+              "name": "Limburgs Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre schwere Winterkleidung.",
+                "hu": "Használja a ruhatárat a nehéz téli kabátok elhelyezéséhez.",
+                "ro": "Folosiți garderoba pentru hainele groase de iarnă.",
+                "en": "Use the cloakroom for your heavy winter clothing."
+              }
+            },
+            {
+              "name": "City Hall and Old Town",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das beleuchtete Rathaus in der Dämmerung.",
+                "hu": "Élvezze a kivilágított városháza látványát a szürkületben.",
+                "ro": "Admirați primăria iluminată la lăsarea serii.",
+                "en": "Enjoy the view of the illuminated City Hall at dusk."
+              }
+            },
+            {
+              "name": "Lunch at Maasboulevard",
+              "tip_5lang": {
+                "de": "Heißgetränke in den Cafés direkt an der Bushaltestelle genießen.",
+                "hu": "Fogyasszon forró italt közvetlenül a buszmegálló melletti kávézókban.",
+                "ro": "Bucurați-vă de băuturi calde în cafenelele de lângă stație.",
+                "en": "Enjoy hot drinks in the cafes located right by the bus stop."
+              }
+            },
+            {
+              "name": "Trip to Monastery Village Steyl",
+              "tip_5lang": {
+                "de": "Der Bus 77 fährt zuverlässig auch bei leichtem Schneefall.",
+                "hu": "A 77-es busz gyenge hóesésben is megbízhatóan közlekedik.",
+                "ro": "Autobuzul 77 circulă regulat chiar și pe ninsoare ușoară.",
+                "en": "Bus 77 runs reliably even during light snowfall."
+              }
+            },
+            {
+              "name": "Grenswerk",
+              "tip_5lang": {
+                "de": "Ein warmer Innenraum für den Abschluss Ihres Wintertages.",
+                "hu": "Meleg belső tér a téli nap méltó lezárásához.",
+                "ro": "Un spațiu interior călduros pentru finalul zilei de iarnă.",
+                "en": "A warm indoor space for the conclusion of your winter day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge und Busse sind im Winter meist gut beheizt.",
+              "Achten Sie auf den Winterfahrplan (weniger Fahrten in den Abendstunden).",
+              "Die Arriva-App informiert über witterungsbedingte Ausfälle.",
+              "Nutzen Sie die beheizten Wartebereiche im Bahnhof Venlo.",
+              "Planen Sie die Rückreise vor 18:00 Uhr für bessere Taktung."
+            ],
+            "hu": [
+              "A vonatok és buszok télen általában jól fűtöttek.",
+              "Ügyeljen a téli menetrendre (kevesebb járat esti órákban).",
+              "Az Arriva alkalmazás tájékoztat az időjárás miatti járatkimaradásokról.",
+              "Használja a venloi állomás fűtött várótermeit.",
+              "Tervezze a visszautat 18:00 előtt a jobb csatlakozásokért."
+            ],
+            "ro": [
+              "Trenurile și autobuzele sunt de obicei bine încălzite iarna.",
+              "Țineți cont de mersul trenurilor de iarnă (mai puține curse seara).",
+              "Aplicația Arriva informează despre anulările cauzate de vreme.",
+              "Folosiți zonele de așteptare încălzite din gara Venlo.",
+              "Plănuiți revenirea înainte de ora 18:00 pentru conexiuni mai bune."
+            ],
+            "en": [
+              "Trains and buses are usually well-heated during winter.",
+              "Check the winter schedule (fewer services in the late evening).",
+              "The Arriva app provides info on weather-related cancellations.",
+              "Use the heated waiting areas inside Venlo station.",
+              "Plan your return journey before 6:00 PM for better frequency."
+            ]
+          }
+        }
       }
     }
   }

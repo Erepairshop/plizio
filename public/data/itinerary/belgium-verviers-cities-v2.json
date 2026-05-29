@@ -370,6 +370,224 @@
           "Be sure to try local Belgian beers in the brasseries around the main square.",
           "The chocolate factory is a major highlight; allocate plenty of time to enjoy it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens starten wir unter den schützenden Arkaden des Rathauses, während der Regen auf das historische Kopfsteinpflaster prasselt. Der Ortmans-Brunnen wirkt im grauen Licht besonders mystisch. Mittags bietet das Wollmuseum einen trockenen Zufluchtsort in die reiche Industriegeschichte der Stadt. Bei Chocolaterie Darcis wärmen wir uns bei einer Verkostung auf. Nachmittags schützen uns die massiven Mauern von Saint-Remacle vor dem Schauer. Die Escalier de la Paix erfordert bei Nässe etwas mehr Vorsicht. Abends glänzen die Lichter der Stadt in den Pfützen am Parc de l'Harmonie. Ein stimmungsvoller Abschluss unter dem Dach des Musikpavillons.",
+            "hu": "Reggel a Városháza árkádjai alatt kezdünk, az eső áztatja a piactér macskaköveit. Az Ortmans-kút vízsugarai eggyé válnak a szemerkélő esővel. Délben a Gyapjúmúzeum falai között lelünk menedéket a belga időjárás elől. Darcis csokoládébirodalma tökéletes hely egy melegítő kóstolóra. Délután a Szent Remacle-templom csendje és vastag falai zárják ki a kinti nedvességet. A Béke-lépcső fokai ilyenkor csúszósak, óvatosan haladjunk. Este a park kivilágított pavilonja nyújt oltalmat. A város fényei megcsillannak a vizes aszfalton, mielőtt véget ér a napunk.",
+            "ro": "Dimineața începe sub arcadele Primăriei, în timp ce ploaia udă pavajul vechi din piață. Fântâna Ortmans se confundă cu stropii reci de toamnă. La prânz, Muzeul Lânii ne oferă un adăpost perfect pentru a descoperi istoria textilă. Ciocolateria Darcis este refugiul ideal pentru o degustare caldă. După-amiaza, zidurile groase ale bisericii Saint-Remacle ne protejează de intemperii. Treptele Escalier de la Paix pot fi alunecoase, deci urcăm cu grijă. Seara, pavilionul din Parc de l'Harmonie strălucește în lumina felinarelor. Orașul reflectat în bălți oferă o perspectivă melancolică și frumoasă.",
+            "en": "Morning begins under the Town Hall arcades as rain patters on the cobblestones. The Ortmans Fountain blends with the mist in the cool air. At noon, the Wool Museum provides a dry sanctuary to explore the local textile heritage. Darcis Chocolaterie is the perfect spot for a warming treat. In the afternoon, the heavy walls of Saint-Remacle Church shut out the damp weather. The Escalier de la Paix requires careful steps on the wet stones. Evening settles in at the illuminated bandstand of Parc de l'Harmonie. The city lights shimmer on the wet streets as we conclude our rainy tour."
+          },
+          "stops": [
+            {
+              "name": "Hôtel de Ville",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Rathauses als trockenen Startpunkt.",
+                "hu": "Használja a városháza árkádjait száraz gyülekezőpontként.",
+                "ro": "Folosiți arcadele primăriei ca punct de plecare uscat.",
+                "en": "Use the town hall arcades as a dry starting point."
+              }
+            },
+            {
+              "name": "Fontaine Ortmans",
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp, bevor es wieder ins Trockene geht.",
+                "hu": "Gyors fotómegálló, mielőtt újra fedett helyre menne.",
+                "ro": "O oprire rapidă pentru poze înainte de a merge la adăpost.",
+                "en": "A quick photo stop before heading back to cover."
+              }
+            },
+            {
+              "name": "Escalier de la Paix",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steinstufen können bei Regen rutschig sein.",
+                "hu": "Vigyázat, a kőlépcsők esőben csúszósak lehetnek.",
+                "ro": "Atenție, treptele de piatră pot fi alunecoase pe ploaie.",
+                "en": "Caution, the stone steps can be slippery when wet."
+              }
+            },
+            {
+              "name": "Centre de la Laine et de la Mode",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen starken Regenschauer auszusitzen.",
+                "hu": "Tökéletes hely egy nagyobb zápor átvészelésére.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei averse.",
+                "en": "Perfect place to wait out a heavy rain shower."
+              }
+            },
+            {
+              "name": "Chocolaterie Darcis",
+              "tip_5lang": {
+                "de": "Genießen Sie eine heiße Schokolade im gemütlichen Café.",
+                "hu": "Élvezzen egy forró csokoládét a hangulatos kávézóban.",
+                "ro": "Savurați o ciocolată caldă în cafeneaua primitoare.",
+                "en": "Enjoy a hot chocolate in the cozy cafe area."
+              }
+            },
+            {
+              "name": "Église Saint-Remacle",
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten hervorragenden Schutz vor Wind.",
+                "hu": "A vastag falak kiváló védelmet nyújtanak a szél ellen.",
+                "ro": "Zidurile groase oferă o protecție excelentă împotriva vântului.",
+                "en": "The thick walls offer excellent protection from the wind."
+              }
+            },
+            {
+              "name": "Grand Théâtre de Verviers",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade unter einem Regenschirm.",
+                "hu": "Csodálja meg a homlokzatot egy esernyő alól.",
+                "ro": "Admirați fațada de sub protecția unei umbrele.",
+                "en": "Admire the facade from under your umbrella."
+              }
+            },
+            {
+              "name": "Parc de l'Harmonie",
+              "tip_5lang": {
+                "de": "Der Musikpavillon bietet Schutz während des Spaziergangs.",
+                "hu": "A zenepavilon menedéket nyújt a séta közben.",
+                "ro": "Pavilionul muzical oferă adăpost în timpul plimbării.",
+                "en": "The bandstand offers shelter during your stroll."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich auf dem Kopfsteinpflaster Pfützen bilden.",
+              "Ein stabiler Regenschirm ist wegen des Windes im Tal empfehlenswert.",
+              "Die Museen sind ideal, um die nassesten Stunden des Tages zu überbrücken.",
+              "Nutzen Sie die Passagen und Arkaden im Stadtzentrum für trockene Wege."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskaköveken megállhat a víz.",
+              "A völgyben fújó szél miatt egy stabil esernyő ajánlott.",
+              "A múzeumok ideálisak a nap legesősebb óráinak áthidalására.",
+              "Használja a városközpont átjáróit és árkádjait a száraz közlekedéshez."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți pe pavaj.",
+              "O umbrelă rezistentă este recomandată din cauza vântului de pe vale.",
+              "Muzeele sunt ideale pentru a petrece orele cele mai ploioase ale zilei.",
+              "Folosiți pasajele și arcadele din centrul orașului pentru a rămâne uscați."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles tend to form on the cobblestones.",
+              "A sturdy umbrella is recommended due to the wind in the valley.",
+              "The museums are ideal for bridging the wettest hours of the day.",
+              "Use the passages and arcades in the city center for dryer routes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft begrüßt uns am Rathaus, wo Frost die barocken Details verziert. Der Ortmans-Brunnen wirkt in der Kälte wie erstarrt. Mittags wärmen wir uns in der Chocolaterie Darcis mit einer heißen Schokolade auf, während draußen der Winterwind weht. Der Aufstieg über die Escalier de la Paix bringt den Kreislauf in Schwung und bietet weite Ausblicke über die verschneiten Dächer. Nachmittags herrscht in Saint-Remacle eine andächtige Stille. Da die Dunkelheit bereits gegen 17:00 Uhr einsetzt, beenden wir den Tag im festlich beleuchteten Parc de l'Harmonie, wo der Musikpavillon im fahlen Licht glänzt.",
+            "hu": "A friss téli levegő fogad minket a Városházánál, ahol zúzmara díszíti a barokk részleteket. Az Ortmans-kút vize szinte megfagy a hidegben. Délben a Darcis csokoládézóban melegszünk fel egy forró itallal, miközben odakint fúj a téli szél. A Béke-lépcső megmászása felpezsdíti a vérkeringést, és szép kilátást nyújt a havas háztetőkre. Délután a Szent Remacle-templomban áhítatos csend fogad. Mivel már 17:00 körül sötétedik, a napot az ünnepi fényekben úszó Parc de l'Harmonie-ban zárjuk, ahol a zenepavilon tündököl a téli estében.",
+            "ro": "Aerul proaspăt de iarnă ne întâmpină la Primărie, unde chiciura decorează detaliile baroce. Fântâna Ortmans pare încremenită în frigul dimineții. La prânz, ne încălzim la Chocolaterie Darcis cu o ciocolată caldă, în timp ce afară suflă vântul rece. Urcarea pe Escalier de la Paix ne pune sângele în mișcare și oferă vederi largi peste acoperișurile înzăpezite. După-amiaza, în biserica Saint-Remacle domnește o liniște deplină. Deoarece întunericul se lasă deja în jurul orei 17:00, încheiem ziua în Parc de l'Harmonie, unde pavilionul muzical strălucește sub luminile festive.",
+            "en": "Crisp winter air greets us at the Town Hall, where frost decorates the baroque details. The Ortmans Fountain stands silent in the cold. At noon, we warm up at Chocolaterie Darcis with a hot chocolate while the winter wind blows outside. Climbing the Escalier de la Paix gets the blood flowing and offers wide views over the snowy rooftops. In the afternoon, Saint-Remacle provides a peaceful, warm refuge. As darkness falls around 17:00, we end the day in the festively lit Parc de l'Harmonie, where the bandstand glows in the winter evening."
+          },
+          "stops": [
+            {
+              "name": "Hôtel de Ville",
+              "tip_5lang": {
+                "de": "Bewundern Sie den Frost auf den barocken Statuen.",
+                "hu": "Csodálja meg a zúzmarát a barokk szobrokon.",
+                "ro": "Admirați chiciura de pe statuile baroce.",
+                "en": "Admire the frost on the baroque statues."
+              }
+            },
+            {
+              "name": "Fontaine Ortmans",
+              "tip_5lang": {
+                "de": "Der Brunnen ist im Winter oft kunstvoll vereist.",
+                "hu": "A kút télen gyakran művészien eljegesedik.",
+                "ro": "Fântâna este adesea înghețată spectaculos iarna.",
+                "en": "The fountain is often artistically iced over in winter."
+              }
+            },
+            {
+              "name": "Escalier de la Paix",
+              "tip_5lang": {
+                "de": "Der Aufstieg hält Sie bei den kalten Temperaturen warm.",
+                "hu": "A lépcsőzés melegen tartja a hideg időben.",
+                "ro": "Urcarea vă va ține de cald în ciuda temperaturilor scăzute.",
+                "en": "The climb will keep you warm in the cold temperatures."
+              }
+            },
+            {
+              "name": "Centre de la Laine et de la Mode",
+              "tip_5lang": {
+                "de": "Ein herrlich beheizter Ort für die Mittagsstunden.",
+                "hu": "Kellemesen fűtött hely a déli órákra.",
+                "ro": "Un loc bine încălzit pentru orele prânzului.",
+                "en": "A wonderfully heated place for the midday hours."
+              }
+            },
+            {
+              "name": "Chocolaterie Darcis",
+              "tip_5lang": {
+                "de": "Der ideale Ort für eine Pause zum Aufwärmen.",
+                "hu": "Ideális hely egy melegítő pihenőre.",
+                "ro": "Locul ideal pentru o pauză de încălzire.",
+                "en": "The ideal spot for a warm-up break."
+              }
+            },
+            {
+              "name": "Église Saint-Remacle",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe und den Schutz vor dem Wind.",
+                "hu": "Élvezze a csendet és a szél elleni védelmet.",
+                "ro": "Bucurați-vă de liniște și de protecția împotriva vântului.",
+                "en": "Enjoy the peace and protection from the wind."
+              }
+            },
+            {
+              "name": "Grand Théâtre de Verviers",
+              "tip_5lang": {
+                "de": "Die Beleuchtung wirkt in der frühen Dämmerung prächtig.",
+                "hu": "A kivilágítás pompásan mutat a korai szürkületben.",
+                "ro": "Iluminatul arată magnific în amurgul timpuriu.",
+                "en": "The lighting looks magnificent in the early twilight."
+              }
+            },
+            {
+              "name": "Parc de l'Harmonie",
+              "tip_5lang": {
+                "de": "Ein winterlicher Spaziergang durch den verschneiten Park.",
+                "hu": "Téli séta a havas parkon keresztül.",
+                "ro": "O plimbare de iarnă prin parcul înzăpezit.",
+                "en": "A wintry stroll through the snowy park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten, da es im Tal sehr zugig sein kann.",
+              "Die Sonne geht bereits gegen 16:45 Uhr unter.",
+              "Viele Cafés bieten im Winter spezielle belgische Waffeln an.",
+              "Vorsicht vor Glatteis auf den historischen Steinflächen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a völgyben nagyon huzatos lehet.",
+              "A nap már 16:45 körül lemegy.",
+              "Sok kávézó kínál télen speciális belga gofrit.",
+              "Vigyázzon a jegesedésre a történelmi kőfelületeken."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, deoarece poate fi curent pe vale.",
+              "Soarele apune deja în jurul orei 16:45.",
+              "Multe cafenele oferă iarna vafe belgiene speciale.",
+              "Atenție la polei pe suprafețele istorice din piatră."
+            ],
+            "en": [
+              "Dress in layers as it can be very drafty in the valley.",
+              "Sunset occurs early, around 16:45.",
+              "Many cafes offer special Belgian waffles during winter.",
+              "Watch out for black ice on the historical stone surfaces."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -734,6 +952,224 @@
           "Always lock your bike securely when exploring the city center.",
           "The paths along the Vesdre river are flat and offer a very pleasant ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen in Verviers verlangt Radfahrern einiges ab, doch die Stadt glänzt auf ihre Weise. Wir starten am Rathaus und radeln vorsichtig zum Ortmans-Brunnen. In Saint-Remacle finden wir einen Moment der Ruhe vor dem prasselnden Nass. Mittags erreichen wir das Wollmuseum, wo wir die Fahrräder geschützt abstellen können. Die Chocolaterie Darcis ist die perfekte Belohnung für die Fahrt durch den Schauer. Den Tag beenden wir mit einem vorsichtigen Abstieg zur Escalier de la Paix, wobei wir die Bremsen auf dem nassen Grund stets im Griff behalten.",
+            "hu": "Az eső Verviers-ben próbára teszi a bringásokat, de a város ilyenkor is ragyog. A Városházánál kezdünk, majd óvatosan gurulunk az Ortmans-kúthoz. A Szent Remacle-templomnál találunk egy nyugodt pillanatot a doboló esőben. Délben érjük el a Gyapjúmúzeumot, ahol védett helyen hagyhatjuk a bicikliket. A Darcis csokoládézó tökéletes jutalom a vizes tekerés után. A napot a Béke-lépcsőnél zárjuk, folyamatosan ügyelve a fékekre a nedves talajon.",
+            "ro": "Ploaia în Verviers provoacă bicicliștii, dar orașul strălucește în felul său. Începem la Primărie și pedalăm cu grijă spre Fântâna Ortmans. La Saint-Remacle găsim un moment de liniște departe de ploaia torențială. La prânz ajungem la Muzeul Lânii, unde putem lăsa bicicletele la adăpost. Ciocolateria Darcis este recompensa perfectă după drumul prin ploaie. Încheiem ziua cu o coborâre prudentă spre Escalier de la Paix, controlând mereu frânele pe solul umed.",
+            "en": "Rain in Verviers challenges cyclists, but the city shines in its own way. We start at the Town Hall and pedal carefully to the Ortmans Fountain. At Saint-Remacle, we find a quiet moment away from the pattering wet. At noon, we reach the Wool Museum, where we can park the bikes under cover. Darcis Chocolaterie is the perfect reward for the ride through the shower. We end the day with a cautious descent to the Escalier de la Paix, always keeping the brakes in check on the wet ground."
+          },
+          "stops": [
+            {
+              "name": "Hôtel de Ville",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf dem nassen Pflaster.",
+                "hu": "Vigyázzon az elindulásnál a nedves köveken.",
+                "ro": "Atenție la plecare pe pavajul umed.",
+                "en": "Careful when starting off on the wet pavement."
+              }
+            },
+            {
+              "name": "Fontaine Ortmans",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, halten Sie Abstand zum rutschigen Rand.",
+                "hu": "Rövid megálló, tartson távolságot a csúszós széltől.",
+                "ro": "Oprire scurtă, păstrați distanța față de marginea alunecoasă.",
+                "en": "Short stop, keep distance from the slippery edge."
+              }
+            },
+            {
+              "name": "Église Saint-Remacle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorplatz für einen kurzen Check der Ausrüstung.",
+                "hu": "Használja az előteret a felszerelés gyors ellenőrzésére.",
+                "ro": "Folosiți curtea pentru o scurtă verificare a echipamentului.",
+                "en": "Use the forecourt for a quick equipment check."
+              }
+            },
+            {
+              "name": "Grand Théâtre de Verviers",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schienen und Gullideckel in der Nähe.",
+                "hu": "Ügyeljen a sínekre és csatornafedelekre a közelben.",
+                "ro": "Atenție la șine și capace de canal în apropiere.",
+                "en": "Watch out for tracks and manhole covers nearby."
+              }
+            },
+            {
+              "name": "Parc de l'Harmonie",
+              "tip_5lang": {
+                "de": "Die Wege können im Park schlammig sein.",
+                "hu": "Az utak a parkban sarasak lehetnek.",
+                "ro": "Potecile din parc pot fi noroioase.",
+                "en": "Paths in the park can be muddy."
+              }
+            },
+            {
+              "name": "Centre de la Laine et de la Mode",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder vorhanden.",
+                "hu": "Biztonságos biciklitároló áll rendelkezésre.",
+                "ro": "Există un loc sigur de parcare pentru biciclete.",
+                "en": "Secure bike parking available."
+              }
+            },
+            {
+              "name": "Chocolaterie Darcis",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände an einer Tasse Kakao.",
+                "hu": "Melegítse fel a kezeit egy csésze kakaóval.",
+                "ro": "Încălziți-vă mâinile cu o cană de cacao.",
+                "en": "Warm your hands with a cup of cocoa."
+              }
+            },
+            {
+              "name": "Escalier de la Paix",
+              "tip_5lang": {
+                "de": "Steigen Sie hier besser ab und schieben Sie kurz.",
+                "hu": "Itt érdemesebb leszállni és tolni a bringát.",
+                "ro": "Este mai bine să coborâți și să împingeți bicicleta.",
+                "en": "It's better to dismount and push here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine gute Regenjacke und Regenhose.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip.",
+              "Vermeiden Sie plötzliches Bremsen auf nassem Kopfsteinpflaster.",
+              "Reinigen Sie Ihre Kette nach der Fahrt von Schmutz und Wasser."
+            ],
+            "hu": [
+              "Viseljen jó esőkabátot és esőnadrágot.",
+              "Kicsit csökkentse a guminyomást a jobb tapadásért.",
+              "Kerülje a hirtelen fékezést a nedves macskaköveken.",
+              "Tekerés után tisztítsa meg a láncot a kosztól és víztől."
+            ],
+            "ro": [
+              "Purtați o jachetă și pantaloni de ploaie de calitate.",
+              "Reduceți ușor presiunea în anvelope pentru o aderență mai bună.",
+              "Evitați frânarea bruscă pe pavajul umed.",
+              "Curățați lanțul de murdărie și apă după plimbare."
+            ],
+            "en": [
+              "Wear a good rain jacket and rain pants.",
+              "Slightly reduce tire pressure for better grip.",
+              "Avoid sudden braking on wet cobblestones.",
+              "Clean your chain from dirt and water after the ride."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Verviers erfordert warme Handschuhe und helle Lichter. Wir starten bei klarem Frost am Rathaus. Der Weg führt uns vorbei am Ortmans-Brunnen zur prächtigen Kirche Saint-Remacle. Mittags erreichen wir das beheizte Wollmuseum, ein idealer Stopp, um die Kälte kurz zu vergessen. Die Chocolaterie Darcis lockt danach mit süßen Spezialitäten. Da die Sonne früh untergeht, radeln wir durch den dämmerigen Parc de l'Harmonie, wo die Lichter bereits die Wege weisen, bevor wir den Tag an der Escalier de la Paix beenden.",
+            "hu": "A téli biciklizés Verviers-ben meleg kesztyűt és erős lámpákat igényel. Tiszta fagyban kezdünk a Városházánál. Utunk az Ortmans-kút mellett vezet a pompás Szent Remacle-templomhoz. Délben érjük el a fűtött Gyapjúmúzeumot, amely ideális megálló a hideg elől. A Darcis csokoládézó édes különlegességekkel vár. Mivel a nap korán nyugszik, a szürkületi Parc de l'Harmonie-n tekerünk keresztül, ahol a fények már mutatják az utat, mielőtt a Béke-lépcsőnél zárjuk a napot.",
+            "ro": "Ciclismul de iarnă în Verviers necesită mănuși groase și lumini puternice. Începem pe un ger uscat la Primărie. Drumul ne poartă pe lângă Fântâna Ortmans către biserica Saint-Remacle. La prânz ajungem la Muzeul Lânii, un popas ideal pentru a uita puțin de frig. Ciocolateria Darcis atrage apoi cu specialități dulci. Deoarece soarele apune devreme, pedalăm prin Parc de l'Harmonie în amurg, unde luminile indică deja drumul, înainte de a încheia ziua la Escalier de la Paix.",
+            "en": "Winter cycling in Verviers requires warm gloves and bright lights. We start in the crisp frost at the Town Hall. The path leads past the Ortmans Fountain to the grand Saint-Remacle Church. At noon, we reach the heated Wool Museum, an ideal stop to escape the cold. Darcis Chocolaterie then lures us with sweet specialties. As the sun sets early, we bike through the twilight Parc de l'Harmonie, where lights already guide the way, before finishing the day at the Escalier de la Paix."
+          },
+          "stops": [
+            {
+              "name": "Hôtel de Ville",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Lichter vor dem Start in die Kälte.",
+                "hu": "Ellenőrizze a lámpákat a hidegben indulás előtt.",
+                "ro": "Verificați luminile înainte de a porni în frig.",
+                "en": "Check your lights before starting in the cold."
+              }
+            },
+            {
+              "name": "Fontaine Ortmans",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe am Brunnenrand.",
+                "hu": "Ügyeljen a felfagyásokra a kút szélénél.",
+                "ro": "Atenție la umezeala care îngheață pe marginea fântânii.",
+                "en": "Watch out for freezing moisture at the fountain edge."
+              }
+            },
+            {
+              "name": "Église Saint-Remacle",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine kurze windgeschützte Pause.",
+                "hu": "Nyugodt hely egy rövid, szélvédett pihenőre.",
+                "ro": "Un loc liniștit pentru o scurtă pauză ferită de vânt.",
+                "en": "A quiet place for a short wind-protected break."
+              }
+            },
+            {
+              "name": "Grand Théâtre de Verviers",
+              "tip_5lang": {
+                "de": "Die Fassade leuchtet in der kalten Winterluft klarer.",
+                "hu": "A homlokzat élesebben látszik a hideg téli levegőben.",
+                "ro": "Fațada se vede mai clar în aerul rece de iarnă.",
+                "en": "The facade looks clearer in the cold winter air."
+              }
+            },
+            {
+              "name": "Parc de l'Harmonie",
+              "tip_5lang": {
+                "de": "Vorsicht vor Laub unter einer dünnen Schneeschicht.",
+                "hu": "Vigyázzon a levelekre a vékony hóréteg alatt.",
+                "ro": "Atenție la frunzele de sub stratul subțire de zăpadă.",
+                "en": "Watch out for leaves under a thin layer of snow."
+              }
+            },
+            {
+              "name": "Centre de la Laine et de la Mode",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme im Inneren zur Regeneration.",
+                "hu": "Használja a benti meleget a regenerálódáshoz.",
+                "ro": "Folosiți căldura din interior pentru a vă recupera.",
+                "en": "Use the indoor warmth to regenerate."
+              }
+            },
+            {
+              "name": "Chocolaterie Darcis",
+              "tip_5lang": {
+                "de": "Heiße Schokolade ist der beste Treibstoff im Winter.",
+                "hu": "A forró csokoládé a legjobb üzemanyag télen.",
+                "ro": "Ciocolata caldă este cel mai bun combustibil iarna.",
+                "en": "Hot chocolate is the best fuel in winter."
+              }
+            },
+            {
+              "name": "Escalier de la Paix",
+              "tip_5lang": {
+                "de": "Der Blick über die Stadt ist bei Frost besonders klar.",
+                "hu": "A város feletti kilátás fagyban különösen tiszta.",
+                "ro": "Vederea asupra orașului este deosebit de clară pe ger.",
+                "en": "The view over the city is particularly clear during frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Handschuhe und eine winddichte Jacke.",
+              "Vermeiden Sie eisige Stellen im Schatten von Gebäuden.",
+              "Halten Sie Ihre Akkus für die Lichter warm (im Haus laden).",
+              "Planen Sie die Rückkehr vor dem frühen Sonnenuntergang (16:45)."
+            ],
+            "hu": [
+              "Viseljen termokesztyűt és szélálló kabátot.",
+              "Kerülje a jeges foltokat az épületek árnyékában.",
+              "Tartsa melegen a lámpák akkumulátorait (benn töltse).",
+              "Tervezze meg a visszautat a korai naplemente (16:45) előtt."
+            ],
+            "ro": [
+              "Purtați mănuși termice și o jachetă rezistentă la vânt.",
+              "Evitați zonele înghețate de la umbra clădirilor.",
+              "Păstrați bateriile luminilor la cald (încărcați în casă).",
+              "Planificați întoarcerea înainte de apusul devreme (16:45)."
+            ],
+            "en": [
+              "Wear thermal gloves and a windproof jacket.",
+              "Avoid icy patches in the shade of buildings.",
+              "Keep your light batteries warm (charge indoors).",
+              "Plan your return before the early sunset (16:45)."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1043,6 +1479,206 @@
           "On weekends, finding central parking might require a bit of patience.",
           "Ensure your car is cool before loading up on edible souvenirs from the chocolate factory."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regenwetter in Verviers lässt sich am besten im Auto bewältigen. Wir starten am Rathaus und finden dank der nahen Parkplätze schnell Schutz. Der Ortmans-Brunnen lässt sich sogar aus dem Wagen bewundern. Mittags steuern wir das Wollmuseum an, wo wir trocken ins Innere gelangen. Die Chocolaterie Darcis bietet eigene Parkflächen, was den Besuch bei Schauern sehr komfortabel macht. Nachmittags besuchen wir Saint-Remacle und beenden den Tag am Parc de l'Harmonie, während die Scheibenwischer den Rhythmus des Tages vorgeben.",
+            "hu": "Az esős időt Verviers-ben a legkönnyebben autóval kezelhetjük. A Városházánál kezdünk, ahol a közeli parkolóknak köszönhetően gyorsan fedett helyre jutunk. Az Ortmans-kút akár a kocsiból is megcsodálható. Délben a Gyapjúmúzeum felé vesszük az irányt, ahol szárazon jutunk be az épületbe. A Darcis csokoládézó saját parkolóval rendelkezik, ami nagyon kényelmessé teszi a látogatást. Délután a Szent Remacle-templomot keressük fel, majd a Parc de l'Harmonie-nál zárjuk a napot, miközben az ablaktörlők adják a nap ritmusát.",
+            "ro": "Vremea ploioasă din Verviers este cel mai ușor de gestionat cu mașina. Începem la Primărie și găsim rapid adăpost datorită parcărilor din apropiere. Fântâna Ortmans poate fi admirată chiar și din vehicul. La prânz ne îndreptăm spre Muzeul Lânii, unde intrăm la adăpost. Ciocolateria Darcis oferă locuri de parcare proprii, ceea ce face vizita foarte confortabilă pe ploaie. După-amiaza vizităm Saint-Remacle și încheiem ziua la Parc de l'Harmonie, în timp ce ștergătoarele dau ritmul zilei.",
+            "en": "Rainy weather in Verviers is best handled by car. We start at the Town Hall, finding quick shelter thanks to nearby parking. The Ortmans Fountain can even be admired from the vehicle. At noon, we head to the Wool Museum, entering the building dry. Darcis Chocolaterie offers its own parking spots, making a visit very comfortable during showers. In the afternoon, we visit Saint-Remacle and end the day at Parc de l'Harmonie, with windshield wipers setting the rhythm of the day."
+          },
+          "stops": [
+            {
+              "name": "Hôtel de Ville",
+              "tip_5lang": {
+                "de": "Parkhaus 'Place du Marché' direkt unter dem Platz nutzen.",
+                "hu": "Használja a 'Place du Marché' mélygarázst közvetlenül a tér alatt.",
+                "ro": "Folosiți parcarea subterană 'Place du Marché' chiar sub piață.",
+                "en": "Use the 'Place du Marché' underground parking right under the square."
+              }
+            },
+            {
+              "name": "Fontaine Ortmans",
+              "tip_5lang": {
+                "de": "Kurz halten am Straßenrand für ein schnelles Foto.",
+                "hu": "Rövid megállás az út szélén egy gyors fotóhoz.",
+                "ro": "Oprire scurtă la marginea drumului pentru o poză rapidă.",
+                "en": "Briefly stop at the roadside for a quick photo."
+              }
+            },
+            {
+              "name": "Église Saint-Remacle",
+              "tip_5lang": {
+                "de": "Parkplätze in den umliegenden Straßen suchen.",
+                "hu": "Keressen parkolóhelyet a környező utcákban.",
+                "ro": "Căutați locuri de parcare pe străzile din jur.",
+                "en": "Look for parking spots in the surrounding streets."
+              }
+            },
+            {
+              "name": "Centre de la Laine et de la Mode",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor dem Museumseingang.",
+                "hu": "Parkolóhely közvetlenül a múzeumi bejárat előtt.",
+                "ro": "Loc de parcare chiar în fața intrării în muzeu.",
+                "en": "Parking spot right in front of the museum entrance."
+              }
+            },
+            {
+              "name": "Chocolaterie Darcis",
+              "tip_5lang": {
+                "de": "Großer privater Parkplatz für Besucher verfügbar.",
+                "hu": "Nagy privát parkoló áll a látogatók rendelkezésére.",
+                "ro": "Parcare privată mare disponibilă pentru vizitatori.",
+                "en": "Large private parking available for visitors."
+              }
+            },
+            {
+              "name": "Escalier de la Paix",
+              "tip_5lang": {
+                "de": "Parken Sie unterhalb und gehen Sie kurz zu Fuß.",
+                "hu": "Parkoljon lentebb, és tegyen egy rövid sétát.",
+                "ro": "Parcați mai jos și faceți o scurtă plimbare.",
+                "en": "Park lower down and take a short walk."
+              }
+            },
+            {
+              "name": "Parc de l'Harmonie",
+              "tip_5lang": {
+                "de": "Parken am Straßenrand direkt am Parkeingang möglich.",
+                "hu": "Parkolás az út szélén közvetlenül a bejáratnál lehetséges.",
+                "ro": "Parcare la marginea drumului posibilă chiar la intrare.",
+                "en": "Roadside parking possible right at the park entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser, um trockenen Fußes ins Zentrum zu gelangen.",
+              "Achten Sie in den engen Einbahnstraßen auf Fußgänger mit Regenschirmen.",
+              "Die Parkplatzsuche ist bei Regen oft einfacher als an sonnigen Tagen.",
+              "Stellen Sie sicher, dass Ihre Windschutzscheibe nicht beschlägt."
+            ],
+            "hu": [
+              "Használja a mélygarázsokat, hogy száraz lábbal jusson a központba.",
+              "A szűk egyirányú utcákban ügyeljen az esernyős gyalogosokra.",
+              "Esőben a parkolóhely-keresés gyakran egyszerűbb, mint napsütésben.",
+              "Ügyeljen rá, hogy a szélvédő ne párásodjon be."
+            ],
+            "ro": [
+              "Folosiți parcările etajate pentru a ajunge în centru fără a vă uda.",
+              "Atenție la pietonii cu umbrele pe străzile strâmte cu sens unic.",
+              "Căutarea unui loc de parcare este adesea mai ușoară pe ploaie.",
+              "Asigurați-vă că parbrizul nu se aburește."
+            ],
+            "en": [
+              "Use parking garages to reach the center with dry feet.",
+              "Watch out for pedestrians with umbrellas in narrow one-way streets.",
+              "Finding parking is often easier on rainy days than sunny ones.",
+              "Ensure your windshield does not fog up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Verviers im Winter komfortabel und warm zu erkunden. Wir starten am Rathaus und nutzen die beheizten Parkhäuser. Der Ortmans-Brunnen glitzert im Winterlicht, während wir zur Kirche Saint-Remacle fahren. Mittags bietet das Wollmuseum eine faszinierende Reise in die Vergangenheit, geschützt vor der Kälte. Die Chocolaterie Darcis ist ein Muss für jeden Winterbesucher. Den Tag lassen wir am Parc de l'Harmonie ausklingen, wo die festliche Beleuchtung der Stadt durch die Autoscheiben besonders behaglich wirkt.",
+            "hu": "Autóval Verviers télen is kényelmesen és melegen fedezhető fel. A Városházánál kezdünk, és a fűtött mélygarázsokat használjuk. Az Ortmans-kút csillog a téli fényben, miközben a Szent Remacle-templomhoz hajtunk. Délben a Gyapjúmúzeum kínál lenyűgöző utazást a múltba, védve a hidegtől. A Darcis csokoládézó minden téli látogató számára kötelező. A napot a Parc de l'Harmonie-nál zárjuk, ahol a város ünnepi kivilágítása az autó ablakán keresztül különösen hangulatos.",
+            "ro": "Cu mașina, Verviers poate fi explorat confortabil și la căldură în timpul iernii. Începem la Primărie și folosim parcările încălzite. Fântâna Ortmans sclipește în lumina iernii în timp ce conducem spre biserica Saint-Remacle. La prânz, Muzeul Lânii oferă o călătorie fascinantă în trecut, protejați de frig. Ciocolateria Darcis este o necesitate pentru orice vizitator de iarnă. Încheiem ziua la Parc de l'Harmonie, unde iluminatul festiv al orașului arată deosebit de primitor prin geamurile mașinii.",
+            "en": "By car, Verviers can be explored comfortably and warmly in winter. We start at the Town Hall and use the heated parking garages. The Ortmans Fountain glitters in the winter light as we drive to Saint-Remacle Church. At noon, the Wool Museum offers a fascinating journey into the past, protected from the cold. Darcis Chocolaterie is a must for every winter visitor. We end the day at Parc de l'Harmonie, where the city's festive lighting looks particularly cozy through the car windows."
+          },
+          "stops": [
+            {
+              "name": "Hôtel de Ville",
+              "tip_5lang": {
+                "de": "Zentrales Parkhaus bietet Schutz vor Frost.",
+                "hu": "A központi mélygarázs védelmet nyújt a fagy ellen.",
+                "ro": "Parcarea centrală oferă protecție împotriva gerului.",
+                "en": "Central parking garage offers protection from frost."
+              }
+            },
+            {
+              "name": "Fontaine Ortmans",
+              "tip_5lang": {
+                "de": "Kurzer Stopp möglich, Vorsicht beim Aussteigen (Glätte).",
+                "hu": "Rövid megállás lehetséges, vigyázzon kiszálláskor (csúszás).",
+                "ro": "Oprire scurtă posibilă, atenție la coborâre (polei).",
+                "en": "Short stop possible, be careful when getting out (slippery)."
+              }
+            },
+            {
+              "name": "Église Saint-Remacle",
+              "tip_5lang": {
+                "de": "Parken in der Nähe der Rue de la Montagne.",
+                "hu": "Parkolás a Rue de la Montagne közelében.",
+                "ro": "Parcare în apropiere de Rue de la Montagne.",
+                "en": "Parking near Rue de la Montagne."
+              }
+            },
+            {
+              "name": "Centre de la Laine et de la Mode",
+              "tip_5lang": {
+                "de": "Naher Parkplatz erspart lange Wege in der Kälte.",
+                "hu": "Közeli parkoló megkíméli a hosszú sétától a hidegben.",
+                "ro": "Parcarea apropiată vă scutește de mersul prin frig.",
+                "en": "Nearby parking saves long walks in the cold."
+              }
+            },
+            {
+              "name": "Chocolaterie Darcis",
+              "tip_5lang": {
+                "de": "Bequemes Parken direkt am Shop und Museum.",
+                "hu": "Kényelmes parkolás közvetlenül a bolt és múzeum mellett.",
+                "ro": "Parcare comodă chiar lângă magazin și muzeu.",
+                "en": "Convenient parking right by the shop and museum."
+              }
+            },
+            {
+              "name": "Escalier de la Paix",
+              "tip_5lang": {
+                "de": "Blickpunkt auch ohne langen Aufstieg erreichbar.",
+                "hu": "A kilátópont hosszú lépcsőzés nélkül is megközelíthető.",
+                "ro": "Punctul de belvedere este accesibil și fără o urcare lungă.",
+                "en": "Viewpoint accessible even without a long climb."
+              }
+            },
+            {
+              "name": "Parc de l'Harmonie",
+              "tip_5lang": {
+                "de": "Abends gut beleuchtete Parkmöglichkeiten.",
+                "hu": "Este jól kivilágított parkolási lehetőségek.",
+                "ro": "Posibilități de parcare bine iluminate seara.",
+                "en": "Well-lit parking options in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei niedrigen Temperaturen.",
+              "Halten Sie Enteisungsspray oder einen Eiskratzer bereit.",
+              "Die Parkplatzsuche ist im Winter meist unproblematisch.",
+              "Genießen Sie die Fahrt durch die beleuchteten Straßen."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást alacsony hőmérsékletnél.",
+              "Legyen kéznél jégoldó spray vagy jégkaparó.",
+              "A parkolóhely-keresés télen általában problémamentes.",
+              "Élvezze az autózást a kivilágított utcákon."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope la temperaturi scăzute.",
+              "Aveți la îndemână un spray de dezghețare sau o răzuitoare.",
+              "Căutarea unui loc de parcare este de obicei fără probleme iarna.",
+              "Bucurați-vă de drumul prin străzile iluminate."
+            ],
+            "en": [
+              "Check tire pressure in low temperatures.",
+              "Have de-icing spray or an ice scraper ready.",
+              "Finding parking is usually problem-free in winter.",
+              "Enjoy the drive through the illuminated streets."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1352,6 +1988,206 @@
           "Central bus stops cover almost all major sights conveniently.",
           "Factor in a little waiting time when connecting between different districts."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der öffentliche Nahverkehr in Verviers ist an Regentagen ein Segen. Wir starten am Grand Théâtre und erreichen bequem das Rathaus. Der Ortmans-Brunnen liegt nur einen kurzen Sprung von der Haltestelle entfernt. Mittags bringt uns der Bus direkt zum Wollmuseum, wo wir trocken die Geschichte der Textilien erkunden. Die Chocolaterie Darcis ist ebenfalls bestens angebunden. Nachmittags besuchen wir Saint-Remacle und lassen den Tag im Parc de l'Harmonie ausklingen, wobei die Busse uns immer wieder ins Trockene bringen.",
+            "hu": "A tömegközlekedés Verviers-ben áldás az esős napokon. A Grand Théâtre-nál kezdünk, és kényelmesen érjük el a Városházát. Az Ortmans-kút csak egy rövid ugrásra van a megállótól. Délben a busz egyenesen a Gyapjúmúzeumhoz visz minket, ahol szárazon fedezhetjük fel a textilipar történetét. A Darcis csokoládézó szintén kiválóan megközelíthető. Délután felkeressük a Szent Remacle-templomot, majd a Parc de l'Harmonie-nál zárjuk a napot, a buszok pedig mindig visszavisznek minket a szárazba.",
+            "ro": "Transportul public din Verviers este o binecuvântare în zilele ploioase. Începem la Grand Théâtre și ajungem confortabil la Primărie. Fântâna Ortmans se află la doar o scurtă plimbare de stație. La prânz, autobuzul ne duce direct la Muzeul Lânii, unde explorăm istoria textilelor la adăpost. Ciocolateria Darcis este, de asemenea, foarte bine conectată. După-amiaza vizităm Saint-Remacle și încheiem ziua în Parc de l'Harmonie, autobuzele aducându-ne mereu la adăpost.",
+            "en": "Public transport in Verviers is a blessing on rainy days. We start at the Grand Théâtre and easily reach the Town Hall. The Ortmans Fountain is just a short hop from the stop. At noon, the bus takes us directly to the Wool Museum, where we explore textile history dry. Darcis Chocolaterie is also perfectly connected. In the afternoon, we visit Saint-Remacle and end the day at Parc de l'Harmonie, with buses always bringing us back to cover."
+          },
+          "stops": [
+            {
+              "name": "Grand Théâtre de Verviers",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle mit Unterstand direkt davor.",
+                "hu": "Központi megálló fedett váróval közvetlenül előtte.",
+                "ro": "Stație centrală cu adăpost chiar în față.",
+                "en": "Central stop with a shelter right in front."
+              }
+            },
+            {
+              "name": "Hôtel de Ville",
+              "tip_5lang": {
+                "de": "Viele Buslinien kreuzen sich hier am Marktplatz.",
+                "hu": "Számos buszjárat találkozik itt a piactéren.",
+                "ro": "Multe linii de autobuz se intersectează aici în piață.",
+                "en": "Many bus lines intersect here at the market square."
+              }
+            },
+            {
+              "name": "Fontaine Ortmans",
+              "tip_5lang": {
+                "de": "Haltestelle 'Verviers Harmonie' ganz in der Nähe.",
+                "hu": "'Verviers Harmonie' megálló egészen közel található.",
+                "ro": "Stația 'Verviers Harmonie' este foarte aproape.",
+                "en": "Stop 'Verviers Harmonie' is located very close by."
+              }
+            },
+            {
+              "name": "Centre de la Laine et de la Mode",
+              "tip_5lang": {
+                "de": "Bus 701 hält fast direkt vor dem Eingang.",
+                "hu": "A 701-es busz szinte közvetlenül a bejáratnál áll meg.",
+                "ro": "Autobuzul 701 oprește aproape direct în fața intrării.",
+                "en": "Bus 701 stops almost directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Chocolaterie Darcis",
+              "tip_5lang": {
+                "de": "Gut erreichbar mit den Linien aus dem Zentrum.",
+                "hu": "Jól megközelíthető a központból induló járatokkal.",
+                "ro": "Ușor accesibil cu liniile care vin din centru.",
+                "en": "Easily accessible with lines coming from the center."
+              }
+            },
+            {
+              "name": "Église Saint-Remacle",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle 'Place du Marché'.",
+                "hu": "Rövid séta a 'Place du Marché' megállótól.",
+                "ro": "Scurtă plimbare de la stația 'Place du Marché'.",
+                "en": "Short walk from the 'Place du Marché' stop."
+              }
+            },
+            {
+              "name": "Parc de l'Harmonie",
+              "tip_5lang": {
+                "de": "Haltestelle direkt am Parkeingang für kurze Wege.",
+                "hu": "Megálló közvetlenül a bejáratnál a rövid sétáért.",
+                "ro": "Stație chiar la intrarea în parc pentru distanțe scurte.",
+                "en": "Stop right at the park entrance for short distances."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Ihr Ticket vorab über die TEC-App.",
+              "Nutzen Sie die Echtzeit-Info an den digitalen Anzeigen.",
+              "Halten Sie Ihren Regenschirm für die Umstiege bereit.",
+              "Die Busse sind im Winter angenehm beheizt."
+            ],
+            "hu": [
+              "Vásárolja meg jegyét előre a TEC alkalmazáson keresztül.",
+              "Használja a valós idejű információkat a digitális kijelzőkön.",
+              "Legyen kéznél az esernyője az átszállásokhoz.",
+              "A buszok télen kellemesen fűtöttek."
+            ],
+            "ro": [
+              "Cumpărați biletul în avans prin aplicația TEC.",
+              "Folosiți informațiile în timp real de pe afișajele digitale.",
+              "Aveți umbrela pregătită pentru transferuri.",
+              "Autobuzele sunt încălzite plăcut în timpul iernii."
+            ],
+            "en": [
+              "Buy your ticket in advance via the TEC app.",
+              "Use real-time info on the digital displays.",
+              "Keep your umbrella ready for transfers.",
+              "Buses are pleasantly heated during winter."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet der Bus in Verviers eine warme Alternative zum Fußmarsch. Wir starten am prachtvollen Grand Théâtre und fahren zum Rathaus, wo die Stadt festlich geschmückt ist. Der Ortmans-Brunnen liegt auf unserem Weg zum Wollmuseum, das uns mit wohliger Wärme und spannender Geschichte empfängt. In der Chocolaterie Darcis gönnen wir uns eine süße Pause. Nachmittags besuchen wir die Kirche Saint-Remacle und beenden die Tour im winterlichen Parc de l'Harmonie, während wir uns bereits auf die nächste warme Busfahrt freuen.",
+            "hu": "Télen a busz Verviers-ben meleg alternatívát kínál a gyalogláshoz. A pompás Grand Théâtre-nál kezdünk, és a Városházához utazunk, ahol az ünnepi díszek várnak. Az Ortmans-kút útba esik a Gyapjúmúzeum felé, amely kellemes meleggel és izgalmas történelemmel fogad. A Darcis csokoládézóban tartunk egy édes pihenőt. Délután felkeressük a Szent Remacle-templomot, és a túrát a téli Parc de l'Harmonie-ban zárjuk, miközben már várjuk a következő meleg buszutat.",
+            "ro": "Iarna, autobuzul din Verviers oferă o alternativă călduroasă la mersul pe jos. Începem la splendidul Grand Théâtre și mergem la Primărie, unde orașul este decorat festiv. Fântâna Ortmans se află în drumul nostru spre Muzeul Lânii, care ne întâmpină cu o căldură plăcută și o istorie captivantă. La Ciocolateria Darcis ne oferim o pauză dulce. După-amiaza vizităm biserica Saint-Remacle și încheiem turul în Parc de l'Harmonie, așteptând deja următoarea cursă caldă cu autobuzul.",
+            "en": "In winter, the bus in Verviers offers a warm alternative to walking. We start at the magnificent Grand Théâtre and travel to the Town Hall, where festive decorations await. The Ortmans Fountain is on our way to the Wool Museum, which welcomes us with cozy warmth and exciting history. At Darcis Chocolaterie, we treat ourselves to a sweet break. In the afternoon, we visit Saint-Remacle Church and finish the tour in the wintry Parc de l'Harmonie, already looking forward to the next warm bus ride."
+          },
+          "stops": [
+            {
+              "name": "Grand Théâtre de Verviers",
+              "tip_5lang": {
+                "de": "Warten Sie im gut beleuchteten Haltestellenbereich.",
+                "hu": "Várjon a jól kivilágított megállóhelyen.",
+                "ro": "Așteptați în zona bine iluminată a stației.",
+                "en": "Wait in the well-lit stop area."
+              }
+            },
+            {
+              "name": "Hôtel de Ville",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt, ideal zum Aufwärmen zwischen Linien.",
+                "hu": "Központi csomópont, ideális melegedő az átszállások között.",
+                "ro": "Nod central, ideal pentru încălzire între linii.",
+                "en": "Central hub, ideal for warming up between lines."
+              }
+            },
+            {
+              "name": "Fontaine Ortmans",
+              "tip_5lang": {
+                "de": "Haltestelle liegt fast direkt an den Gartenanlagen.",
+                "hu": "A megálló szinte közvetlenül a kerteknél található.",
+                "ro": "Stația este situată aproape direct lângă grădini.",
+                "en": "Stop is located almost directly by the gardens."
+              }
+            },
+            {
+              "name": "Centre de la Laine et de la Mode",
+              "tip_5lang": {
+                "de": "Steigen Sie direkt vor dem warmen Museum aus.",
+                "hu": "Szálljon le közvetlenül a meleg múzeum előtt.",
+                "ro": "Coborâți chiar în fața muzeului călduros.",
+                "en": "Get off right in front of the warm museum."
+              }
+            },
+            {
+              "name": "Chocolaterie Darcis",
+              "tip_5lang": {
+                "de": "Beliebter Stopp für einen winterlichen Snack.",
+                "hu": "Népszerű megálló egy téli tízóraira.",
+                "ro": "O oprire populară pentru o gustare de iarnă.",
+                "en": "Popular stop for a wintry snack."
+              }
+            },
+            {
+              "name": "Église Saint-Remacle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die steilen Wege zu meiden.",
+                "hu": "Használja a buszt a meredek utak elkerülésére.",
+                "ro": "Folosiți autobuzul pentru a evita drumurile abrupte.",
+                "en": "Use the bus to avoid the steep paths."
+              }
+            },
+            {
+              "name": "Parc de l'Harmonie",
+              "tip_5lang": {
+                "de": "Die letzte Fahrt des Tages führt zurück zum Bahnhof.",
+                "hu": "A nap utolsó járata visszavisz a pályaudvarra.",
+                "ro": "Ultima cursă a zilei duce înapoi la gară.",
+                "en": "The last ride of the day leads back to the station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse verkehren im Winter nach dem regulären Fahrplan.",
+              "Achten Sie auf eventuelle witterungsbedingte Verzögerungen.",
+              "Tragen Sie warme Schuhe für die Wege zwischen den Haltestellen.",
+              "Die TEC-App zeigt Ihnen Busse in Echtzeit an."
+            ],
+            "hu": [
+              "A buszok télen a rendes menetrend szerint közlekednek.",
+              "Ügyeljen az időjárás okozta esetleges késésekre.",
+              "Viseljen meleg cipőt a megállók közötti sétákhoz.",
+              "A TEC alkalmazás valós időben mutatja a buszokat."
+            ],
+            "ro": [
+              "Autobuzele circulă conform orarului regulat în timpul iernii.",
+              "Fiți atenți la eventualele întârzieri cauzate de vreme.",
+              "Purtați încălțăminte călduroasă pentru drumul dintre stații.",
+              "Aplicația TEC vă arată autobuzele în timp real."
+            ],
+            "en": [
+              "Buses operate on a regular schedule during winter.",
+              "Watch out for potential weather-related delays.",
+              "Wear warm shoes for the walks between stops.",
+              "The TEC app shows you buses in real-time."
+            ]
+          }
+        }
       }
     }
   }

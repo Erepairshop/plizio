@@ -306,6 +306,188 @@
           "Bring a reusable water bottle and fill it up at the Seven Springs.",
           "The hike to the Óház Tower is steep in parts, but the view is worth it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet der Jurisics-Platz Schutz unter den historischen Arkaden. Mittags erkunden Sie die trockenen Museumsräume der Burg, dem Herzstück der Stadtgeschichte. Nachmittags führt ein regnerischer Spaziergang zur Herz-Jesu-Kirche und zum Óház-Aussichtsturm im Nebel. Abends genießen Sie die frische Waldluft bei den Siebenbrünnlein, wo das Blätterdach den Regen abhält.",
+            "hu": "Reggel a Jurisics tér történelmi árkádjai alatt kezdjük a napot az esőben. Délben a vár száraz múzeumi tereiben kalandozunk, amely a város történelmének szíve. Délután esernyővel látogatjuk meg a Jézus Szíve templomot, majd ködös túra következik az Óház-kilátóhoz. Este a Hétforrás friss, eső utáni illata és a lombok védelme zárja a kőszegi napot.",
+            "ro": "Dimineața, Piața Jurisics oferă adăpost sub arcadele istorice. La prânz, explorăm interiorul uscat al Castelului Jurisics, inima istoriei orașului. După-amiaza, o plimbare prin ploaie duce la Biserica Inima lui Isus și spre Turnul Óház învelit în ceață. Seara, aerul proaspăt de pădure de la cele Șapte Izvoare încheie ziua sub protecția coronamentului dens.",
+            "en": "In the morning, Jurisics Square offers shelter under the historic eaves and arcades. At noon, explore the dry museum interiors of the Castle, the town's historical heart. Afternoon brings a rainy walk to the Sacred Heart Church and a misty hike to the Óház tower. Evening ends with the fresh, post-rain scent of the Seven Springs, sheltered by the thick forest canopy."
+          },
+          "stops": [
+            {
+              "name": "Jurisics Square",
+              "tip_5lang": {
+                "de": "Unter Arkaden bleiben.",
+                "hu": "Maradjon az árkádok alatt.",
+                "ro": "Stați sub arcade.",
+                "en": "Stay under the arcades."
+              }
+            },
+            {
+              "name": "Heroes' Gate",
+              "tip_5lang": {
+                "de": "Schnelles Foto im Tor.",
+                "hu": "Gyors fotó a kapu alatt.",
+                "ro": "Poză rapidă sub poartă.",
+                "en": "Quick photo under the gate."
+              }
+            },
+            {
+              "name": "Jurisics Castle",
+              "tip_5lang": {
+                "de": "Perfekter Ort bei Regen.",
+                "hu": "Tökéletes menedék esőben.",
+                "ro": "Refugiu perfect pe ploaie.",
+                "en": "Perfect shelter in the rain."
+              }
+            },
+            {
+              "name": "Sacred Heart Church",
+              "tip_5lang": {
+                "de": "Trockener Rückzugsort.",
+                "hu": "Száraz lelki menedék.",
+                "ro": "Retras la adăpost uscat.",
+                "en": "Dry spiritual retreat."
+              }
+            },
+            {
+              "name": "Óház Lookout Tower",
+              "tip_5lang": {
+                "de": "Rutschiger Pfad, Vorsicht.",
+                "hu": "Csúszós ösvény, óvatosan.",
+                "ro": "Potecă alunecoasă, atenție.",
+                "en": "Slippery path, be careful."
+              }
+            },
+            {
+              "name": "Seven Springs",
+              "tip_5lang": {
+                "de": "Wald schirmt Regen ab.",
+                "hu": "Az erdő véd az esőtől.",
+                "ro": "Pădurea protejează de ploaie.",
+                "en": "Forest canopy blocks rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Waldwege.",
+              "Die Burg bietet stundenlangen Schutz.",
+              "Nutzen Sie die engen Gassen der Altstadt als Windschutz.",
+              "Regenschirme sind im Wald unpraktisch, wählen Sie ein Cape."
+            ],
+            "hu": [
+              "Vízálló túrabakancs ajánlott az erdei utakhoz.",
+              "A vár órákig tartó száraz programot kínál.",
+              "Használja a belváros szűk utcáit szélfogónak.",
+              "Az erdőben az esernyő kényelmetlen, inkább esőkabátot válasszon."
+            ],
+            "ro": [
+              "Purtați ghete de drumeție impermeabile pentru pădure.",
+              "Castelul oferă ore întregi de program uscat.",
+              "Folosiți străzile înguste din centru ca scut împotriva vântului.",
+              "Umbrela este incomodă în pădure, alegeți o pelerină."
+            ],
+            "en": [
+              "Wear waterproof hiking boots for the forest paths.",
+              "The castle provides hours of dry entertainment.",
+              "Use the narrow old town streets as windbreaks.",
+              "Umbrellas are clumsy in the forest; choose a rain cape instead."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens glitzert der Frost auf dem Jurisics-Platz. Mittags wärmen Sie sich in den Ausstellungen der Burg auf, während draußen der Winterwind weht. Nachmittags bietet die Herz-Jesu-Kirche feierliche Stille, bevor Sie den Óház-Turm pünktlich vor dem frühen Sonnenuntergang erreichen. Abends leuchten die Lichter der Stadt von den Siebenbrünnlein aus gesehen in der klaren Luft.",
+            "hu": "Reggel dér csillog a Jurisics téren. Délben a vár gazdag kiállításai között melegedhetünk fel, miközben kint fúj a téli szél. Délután a Jézus Szíve templom nyújt csendes pihenőt, majd még a korai naplemente előtt elérjük az Óház-kilátót. Este a város fényei és a tiszta hegyi levegő vár a Hétforrás környékén.",
+            "ro": "Dimineața, bruma sclipește pe caldarâmul din Piața Jurisics. La prânz, vă puteți încălzi în expozițiile castelului, feriți de vântul de iarnă. După-amiaza, Biserica Inima lui Isus oferă o liniște solemnă, înainte de a urca la Turnul Óház pentru apusul timpuriu. Seara, luminile orașului se văd clar de la Cele Șapte Izvoare prin aerul tăios.",
+            "en": "Morning frost sparkles on the cobbles of Jurisics Square. At noon, warm up within the castle's historical exhibitions while the winter wind blows outside. Afternoon offers solemn quiet at the Sacred Heart Church before reaching the Óház tower just before the early sunset. In the evening, the town lights glow clearly as seen from the Seven Springs area."
+          },
+          "stops": [
+            {
+              "name": "Jurisics Square",
+              "tip_5lang": {
+                "de": "Vorsicht auf Kopfsteinpflaster.",
+                "hu": "Vigyázzon a csúszós köveken.",
+                "ro": "Atenție la pavajul alunecos.",
+                "en": "Watch out for slippery cobbles."
+              }
+            },
+            {
+              "name": "Heroes' Gate",
+              "tip_5lang": {
+                "de": "Zügig durchschreiten, windig.",
+                "hu": "Haladjon tempósan, szeles.",
+                "ro": "Treceți repede, este vânt.",
+                "en": "Move briskly, it's windy."
+              }
+            },
+            {
+              "name": "Jurisics Castle",
+              "tip_5lang": {
+                "de": "Geheizte Museumsräume.",
+                "hu": "Fűtött múzeumi terek.",
+                "ro": "Spații muzeale încălzite.",
+                "en": "Heated museum spaces."
+              }
+            },
+            {
+              "name": "Sacred Heart Church",
+              "tip_5lang": {
+                "de": "Kühl, aber windstill.",
+                "hu": "Hűvös, de szélmentes.",
+                "ro": "Răcoare, dar fără vânt.",
+                "en": "Chilly but windless."
+              }
+            },
+            {
+              "name": "Óház Lookout Tower",
+              "tip_5lang": {
+                "de": "Frühzeitiger Abstieg nötig.",
+                "hu": "Korai leereszkedés javasolt.",
+                "ro": "Coborâre timpurie necesară.",
+                "en": "Early descent recommended."
+              }
+            },
+            {
+              "name": "Seven Springs",
+              "tip_5lang": {
+                "de": "Wasser kann gefroren sein.",
+                "hu": "A források befagyhatnak.",
+                "ro": "Izvoarele pot fi înghețate.",
+                "en": "Springs might be frozen."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht bereits gegen 16 Uhr hinter den Bergen unter.",
+              "Schichten Sie Ihre Kleidung für den Aufstieg zum Óház.",
+              "In der Altstadt gibt es viele gemütliche Cafés zum Aufwärmen.",
+              "Festes Schuhwerk für vereiste Waldwege ist Pflicht."
+            ],
+            "hu": [
+              "A nap már 16 óra körül lemegy a hegyek mögött.",
+              "Öltözzön rétegesen az Óház felé vezető emelkedőhöz.",
+              "A belvárosban sok hangulatos kávézó várja a melegedni vágyókat.",
+              "A fagyott erdei utakhoz kötelező a bakancs."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16 după munți.",
+              "Îmbrăcați-vă în straturi pentru urcarea spre Óház.",
+              "În centrul vechi sunt multe cafenele primitoare pentru încălzire.",
+              "Încălțămintea robustă pentru poteci înghețate este obligatorie."
+            ],
+            "en": [
+              "The sun sets behind the mountains as early as 4 PM.",
+              "Dress in layers for the steep climb toward Óház.",
+              "The old town has many cozy cafes for warming up.",
+              "Sturdy boots are mandatory for frozen forest paths."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -594,6 +776,206 @@
           "A helmet is highly recommended.",
           "Bring enough water and snacks for the longer tour."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens ist der Jurisics-Platz nass, fahren Sie vorsichtig auf dem Kopfsteinpflaster. Mittags bietet die Burg einen trockenen und kulturellen Zwischenstopp. Nachmittags fordern die Siebenbrünnlein und der Óház-Turm Ihre Kondition auf feuchtem Waldboden. Abends führt die Tour zum Geschriebenstein im Nebel und endet gemütlich im warmen Apothekenmuseum.",
+            "hu": "Reggel vizes a Jurisics tér macskaköve, óvatosan tekerjen a belvárosban. Délben a vár száraz és tartalmas kulturális pihenőt kínál. Délután a Hétforrás és az Óház-kilátó próbára teszi az erőnlétet a nedves erdei talajon. Este a túra az Írott-kőhöz vezet a ködben, majd a hangulatos és meleg Patikamúzeumban ér véget.",
+            "ro": "Dimineața, Piața Jurisics este umedă, pedalați cu prudență pe pavaj. La prânz, castelul oferă un popas cultural uscat și binevenit. După-amiaza, Cele Șapte Izvoare și Turnul Óház vă solicită condiția pe potecile umede de pădure. Seara, turul duce la Geschriebenstein prin ceață și se termină la căldura Muzeului Farmaciei.",
+            "en": "In the morning, Jurisics Square is wet; cycle with extreme caution on the cobblestones. At noon, the castle provides a dry and cultural stopover. Afternoon challenges your stamina at Seven Springs and Óház on damp forest soil. Evening leads to the misty Geschriebenstein summit and ends at the warm, welcoming Pharmacy Museum."
+          },
+          "stops": [
+            {
+              "name": "Jurisics Square",
+              "tip_5lang": {
+                "de": "Nasses Kopfsteinpflaster meiden.",
+                "hu": "Kerülje a vizes macskakövet.",
+                "ro": "Evitați pavajul ud.",
+                "en": "Avoid wet cobblestones."
+              }
+            },
+            {
+              "name": "Jurisics Castle",
+              "tip_5lang": {
+                "de": "Fahrradständer im Innenhof.",
+                "hu": "Kerékpártároló az udvarban.",
+                "ro": "Suport biciclete în curte.",
+                "en": "Bike racks in the courtyard."
+              }
+            },
+            {
+              "name": "Sacred Heart Church",
+              "tip_5lang": {
+                "de": "Kurze Pause im Trockenen.",
+                "hu": "Rövid pihenő szárazon.",
+                "ro": "Scurtă pauză la uscat.",
+                "en": "Short break in the dry."
+              }
+            },
+            {
+              "name": "Seven Springs",
+              "tip_5lang": {
+                "de": "Spritzschutz am Rad wichtig.",
+                "hu": "Sárvédő használata fontos.",
+                "ro": "Apărătorile sunt importante.",
+                "en": "Mudguards are important here."
+              }
+            },
+            {
+              "name": "Óház Lookout Tower",
+              "tip_5lang": {
+                "de": "Steiler, rutschiger Anstieg.",
+                "hu": "Meredek, csúszós emelkedő.",
+                "ro": "Urcare abruptă, alunecoasă.",
+                "en": "Steep, slippery climb."
+              }
+            },
+            {
+              "name": "Geschriebenstein",
+              "tip_5lang": {
+                "de": "Gipfel oft in Wolken.",
+                "hu": "A csúcs gyakran felhős.",
+                "ro": "Vârful este adesea în nori.",
+                "en": "Summit is often in the clouds."
+              }
+            },
+            {
+              "name": "Golden Unicorn Pharmacy Museum",
+              "tip_5lang": {
+                "de": "Perfekter Abschluss im Warmen.",
+                "hu": "Tökéletes zárás a melegben.",
+                "ro": "Final perfect la căldură.",
+                "en": "Perfect finish in the warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Geschriebenstein.",
+              "Nutzen Sie wasserdichte Packtaschen.",
+              "Der Kőszeger Wald bietet bei Regen guten Windschutz.",
+              "Vermeiden Sie schnelle Kurven auf nassem Laub."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket az Írott-kőről való leereszkedés előtt.",
+              "Használjon vízálló táskákat.",
+              "A kőszegi erdő jó szélvédelmet nyújt esőben.",
+              "Kerülje a hirtelen kanyarokat a vizes leveleken."
+            ],
+            "ro": [
+              "Verificați frânele înainte de coborârea de pe Geschriebenstein.",
+              "Folosiți genți de bicicletă impermeabile.",
+              "Pădurea Kőszeg oferă protecție bună contra vântului.",
+              "Evitați virajele bruște pe frunzele ude."
+            ],
+            "en": [
+              "Check your brakes before descending from Geschriebenstein.",
+              "Use waterproof panniers for your gear.",
+              "The Kőszeg forest provides good wind protection in rain.",
+              "Avoid sharp turns on wet leaves."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht ein eisiger Wind über den Jurisics-Platz. Mittags bietet die Burg eine willkommene Aufwärmpause in historischem Ambiente. Nachmittags fordern die Anstiege zu den Siebenbrünnlein und zum Óház-Turm trotz Frost vollen Einsatz. Abends erreichen Sie den Geschriebenstein in herrlicher Winterstille und kehren ins gemütliche Apothekenmuseum zurück.",
+            "hu": "Reggel jeges szél fúj át a Jurisics téren. Délben a vár falaiban találunk menedéket és kulturális melegedőt. Délután a Hétforrás és az Óház felé tartó emelkedők a fagy ellenére is komoly erőnlétet kívánnak. Este tiszta téli időben éri el az Írott-kőt, majd a hangulatos és fűtött Patikamúzeumba tér be pihenni.",
+            "ro": "Dimineața, un vânt tăios suflă prin Piața Jurisics. La prânz, castelul oferă o pauză de încălzire binemeritată într-un decor istoric. După-amiaza, urcările spre Cele Șapte Izvoare și Óház vă solicită la maximum în ciuda gerului. Seara, ajungeți la Geschriebenstein într-o liniște hibernală, apoi reveniți la Muzeul Farmaciei.",
+            "en": "In the morning, an icy wind blows across Jurisics Square. At noon, the castle offers a welcome warm-up break in a historic setting. Afternoon climbs toward Seven Springs and Óház demand full effort despite the frost. Evening finds you at the silent Geschriebenstein summit before returning to the cozy, heated Pharmacy Museum."
+          },
+          "stops": [
+            {
+              "name": "Jurisics Square",
+              "tip_5lang": {
+                "de": "Auf Eisstellen achten.",
+                "hu": "Figyeljen a jeges foltokra.",
+                "ro": "Atenție la porțiunile înghețate.",
+                "en": "Watch out for icy patches."
+              }
+            },
+            {
+              "name": "Jurisics Castle",
+              "tip_5lang": {
+                "de": "Hände am Tee aufwärmen.",
+                "hu": "Melegítse fel kezét teával.",
+                "ro": "Încălziți-vă mâinile cu un ceai.",
+                "en": "Warm your hands with tea."
+              }
+            },
+            {
+              "name": "Sacred Heart Church",
+              "tip_5lang": {
+                "de": "Windstiller Ort zur Rast.",
+                "hu": "Szélmentes hely pihenőhöz.",
+                "ro": "Loc ferit de vânt pentru repaus.",
+                "en": "Wind-sheltered spot for rest."
+              }
+            },
+            {
+              "name": "Seven Springs",
+              "tip_5lang": {
+                "de": "Trinkflasche vor Frost schützen.",
+                "hu": "Védje a kulacsot a fagytól.",
+                "ro": "Protejați bidonul de îngheț.",
+                "en": "Protect your bottle from frost."
+              }
+            },
+            {
+              "name": "Óház Lookout Tower",
+              "tip_5lang": {
+                "de": "Kurze Pause, Körper kühlt aus.",
+                "hu": "Rövid pihenő, a test gyorsan hűl.",
+                "ro": "Pauză scurtă, corpul se răcește.",
+                "en": "Short break; body cools fast."
+              }
+            },
+            {
+              "name": "Geschriebenstein",
+              "tip_5lang": {
+                "de": "Extrem windig am Aussichtsturm.",
+                "hu": "Rendkívül szeles a kilátónál.",
+                "ro": "Extrem de vântos la turn.",
+                "en": "Extremely windy at the tower."
+              }
+            },
+            {
+              "name": "Golden Unicorn Pharmacy Museum",
+              "tip_5lang": {
+                "de": "Belohnung durch Wärme.",
+                "hu": "Jutalmazza magát a meleggel.",
+                "ro": "Răsplătiți-vă cu căldură.",
+                "en": "Reward yourself with warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen oder niedriger Reifendruck helfen bei Schnee.",
+              "Tragen Sie Thermo-Handschuhe und eine Sturmhaube.",
+              "Beleuchtung ist im Wald ab 15:30 Uhr unerlässlich.",
+              "Die Abfahrt vom Berg erfordert warme, winddichte Kleidung."
+            ],
+            "hu": [
+              "A téli gumi vagy alacsonyabb nyomás segít a hóban.",
+              "Viseljen termokesztyűt és arcmaszkot.",
+              "Az erdőben 15:30-tól elengedhetetlen a világítás.",
+              "A hegyi lejtőkhöz meleg, szélálló ruházat kell."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sau presiunea mică ajută în zăpadă.",
+              "Purtați mănuși termice și o mască de față.",
+              "Luminile sunt esențiale în pădure de la 15:30.",
+              "Coborârea de pe munte necesită haine rezistente la vânt."
+            ],
+            "en": [
+              "Winter tires or lower pressure help on snow.",
+              "Wear thermal gloves and a face mask.",
+              "Lighting is essential in the forest from 3:30 PM.",
+              "Descending the mountain requires warm, windproof clothing."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -858,6 +1240,188 @@
           "Some roads in the hills can be narrow, drive carefully.",
           "Parking fees may apply in the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens parken Sie bequem nahe dem historischen Zentrum. Mittags erkunden Sie den Jurisics-Platz und die Burg, während der Regen draußen an die alten Mauern prasselt. Nachmittags fahren Sie entspannt zu den Siebenbrünnlein und zum Óház-Turm im mystischen Nebel. Abends genießen Sie die stimmungsvolle Fahrt zum Gipfel des Geschriebenstein über die nassen Bergstraßen.",
+            "hu": "Reggel kényelmesen parkolhat a történelmi központ közelében. Délben a Jurisics teret és a várat fedezi fel, miközben kint az eső veri a régi falakat. Délután kényelmesen autózik a Hétforráshoz és az Óház-kilátóhoz a misztikus ködben. Este élvezze a hangulatos autózást az Írott-kő csúcsára a vizes, kanyargós hegyi utakon.",
+            "ro": "Dimineața, parcați confortabil lângă centrul istoric. La prânz, explorați Piața Jurisics și castelul în timp ce ploaia bate în zidurile vechi. După-amiaza, conduceți relaxat spre Cele Șapte Izvoare și Turnul Óház prin ceața mistică. Seara, bucurați-vă de drumul pitoresc spre vârful Geschriebenstein pe șoselele montane umede.",
+            "en": "In the morning, park conveniently near the historic center. At noon, explore Jurisics Square and the castle while the rain drums against the ancient walls. Afternoon brings a relaxed drive to Seven Springs and Óház tower through the mystical mist. Evening offers an atmospheric drive to the summit of Geschriebenstein on wet, winding mountain roads."
+          },
+          "stops": [
+            {
+              "name": "Parking near the center",
+              "tip_5lang": {
+                "de": "Zentrumsnaher Parkplatz ideal.",
+                "hu": "A központi parkoló ideális.",
+                "ro": "Parcare centrală ideală.",
+                "en": "Central parking is ideal."
+              }
+            },
+            {
+              "name": "Jurisics Sq. & Heroes' Gate",
+              "tip_5lang": {
+                "de": "Kurzer Weg zum Schutz.",
+                "hu": "Rövid út a menedékig.",
+                "ro": "Drum scurt până la adăpost.",
+                "en": "Short walk to shelter."
+              }
+            },
+            {
+              "name": "Jurisics Castle",
+              "tip_5lang": {
+                "de": "Lange Verweildauer im Trockenen.",
+                "hu": "Hosszú időtöltés szárazon.",
+                "ro": "Timp lung petrecut la uscat.",
+                "en": "Long stay in the dry."
+              }
+            },
+            {
+              "name": "Seven Springs",
+              "tip_5lang": {
+                "de": "Parkplatz kann matschig sein.",
+                "hu": "A parkoló sáros lehet.",
+                "ro": "Parcarea poate fi noroioasă.",
+                "en": "Parking area can be muddy."
+              }
+            },
+            {
+              "name": "Óház Lookout Tower",
+              "tip_5lang": {
+                "de": "Licht bei Nebelfahrt nutzen.",
+                "hu": "Használjon ködlámpát.",
+                "ro": "Folosiți farurile de ceață.",
+                "en": "Use fog lights for the drive."
+              }
+            },
+            {
+              "name": "Geschriebenstein",
+              "tip_5lang": {
+                "de": "Fahrt auf nasser Bergstraße.",
+                "hu": "Vezetés vizes hegyi utakon.",
+                "ro": "Condus pe drum montan ud.",
+                "en": "Drive on wet mountain roads."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Bergstraße zum Geschriebenstein ist eng und kurvig.",
+              "Regenschirme im Kofferraum griffbereit halten.",
+              "Bei starkem Regen ist die Sicht im Wald eingeschränkt.",
+              "Parken Sie auf befestigten Flächen, um Schlamm zu meiden."
+            ],
+            "hu": [
+              "Az Írott-kőre vezető út szűk és kanyargós.",
+              "Tartsa az esernyőt kéznél a csomagtartóban.",
+              "Heves esőben a látási viszonyok korlátozottak.",
+              "Burkolt felületen parkoljon a sár elkerülése érdekében."
+            ],
+            "ro": [
+              "Drumul spre Geschriebenstein este îngust și sinuos.",
+              "Țineți umbrela la îndemână în portbagaj.",
+              "Pe ploaie torențială, vizibilitatea în pădure e redusă.",
+              "Parcați pe suprafețe pavate pentru a evita noroiul."
+            ],
+            "en": [
+              "The mountain road to Geschriebenstein is narrow and curvy.",
+              "Keep umbrellas handy in the trunk.",
+              "Visibility in the forest is limited during heavy rain.",
+              "Park on paved surfaces to avoid mud."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens finden Sie schnell einen Parkplatz in der ruhigen Winterstadt. Mittags laden der festliche Jurisics-Platz und die warme Burg zum Verweilen im Trockenen ein. Nachmittags fahren Sie vorsichtig durch den herrlich verschneiten Wald zum Óház-Turm. Abends erleben Sie das echte Winterwunderland auf dem Geschriebenstein, bevor Sie gemütlich zurückkehren.",
+            "hu": "Reggel gyorsan talál parkolót a csendes téli városban. Délben a hangulatos Jurisics tér és a meleg vár hívogat maradásra és felfedezésre. Délután óvatosan autózzon át a gyönyörű havas erdőn az Óház-kilátóhoz. Este tapasztalja meg az igazi téli csodaországot az Írott-kőn, majd térjen vissza a város kényelmébe.",
+            "ro": "Dimineața, găsiți rapid loc de parcare în orașul liniștit de iarnă. La prânz, Piața Jurisics și castelul cald vă invită la un popas prelungit. După-amiaza, conduceți cu prudență prin pădurea superb înzăpezită spre Turnul Óház. Seara, trăiți magia iernii autentice la Geschriebenstein, înainte de a reveni la baza caldă.",
+            "en": "In the morning, quickly find a parking spot in the quiet wintry town. At noon, festive Jurisics Square and the warm castle invite you to stay and explore. Afternoon brings a careful drive through the beautiful snowy forest to the Óház tower. Evening lets you experience a true winter wonderland at Geschriebenstein before returning to town."
+          },
+          "stops": [
+            {
+              "name": "Parking near the center",
+              "tip_5lang": {
+                "de": "Auf Schneehaufen achten.",
+                "hu": "Figyeljen a hórakásokra.",
+                "ro": "Atenție la mormanele de zăpadă.",
+                "en": "Watch out for snow piles."
+              }
+            },
+            {
+              "name": "Jurisics Sq. & Heroes' Gate",
+              "tip_5lang": {
+                "de": "Geräumte Wege im Zentrum.",
+                "hu": "Letakarított utak a központban.",
+                "ro": "Alei curățate în centru.",
+                "en": "Cleared paths in the center."
+              }
+            },
+            {
+              "name": "Jurisics Castle",
+              "tip_5lang": {
+                "de": "Aufwärmen in der Cafeteria.",
+                "hu": "Melegedjen a kávézóban.",
+                "ro": "Încălzire la cafenea.",
+                "en": "Warm up in the cafeteria."
+              }
+            },
+            {
+              "name": "Seven Springs",
+              "tip_5lang": {
+                "de": "Zufahrt kann glatt sein.",
+                "hu": "A bekötőút csúszós lehet.",
+                "ro": "Drumul de acces poate fi lucios.",
+                "en": "Access road can be slick."
+              }
+            },
+            {
+              "name": "Óház Lookout Tower",
+              "tip_5lang": {
+                "de": "Wunderschöne Winterlandschaft.",
+                "hu": "Gyönyörű téli táj.",
+                "ro": "Peisaj de iarnă superb.",
+                "en": "Beautiful winter landscape."
+              }
+            },
+            {
+              "name": "Geschriebenstein",
+              "tip_5lang": {
+                "de": "Winterreifen obligatorisch.",
+                "hu": "Téli gumi kötelező.",
+                "ro": "Anvelope de iarnă obligatorii.",
+                "en": "Winter tires are mandatory."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Bergstraßen werden bei Schneefall zuletzt geräumt.",
+              "Sorgen Sie für ausreichend Frostschutzmittel.",
+              "Parken Sie nicht unter Bäumen mit schwerer Schneelast.",
+              "Ein Eiskratzer ist bei Abendbesuchen wichtig."
+            ],
+            "hu": [
+              "A hegyi utakat hóeséskor utoljára takarítják.",
+              "Gondoskodjon elegendő fagyállóról.",
+              "Ne parkoljon hóval terhelt fák alá.",
+              "Az esti látogatásnál fontos a jégkaparó."
+            ],
+            "ro": [
+              "Drumurile montane sunt deszăpezite ultimele.",
+              "Asigurați-vă că aveți destul antigel.",
+              "Nu parcați sub copaci încărcați de zăpadă.",
+              "Răzuitoarea de gheață e vitală la vizitele de seară."
+            ],
+            "en": [
+              "Mountain roads are cleared last during snowfall.",
+              "Ensure you have enough anti-freeze liquid.",
+              "Do not park under trees heavy with snow.",
+              "An ice scraper is vital for evening visits."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1098,6 +1662,170 @@
           "Check the bus schedule in advance, as services may not be frequent.",
           "Most attractions in the center are easily reachable on foot."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erreichen Sie den Jurisics-Platz bequem und trocken mit dem Bus. Mittags schützt die mächtige Burg perfekt vor dem prasselnden Regen. Nachmittags besuchen Sie das faszinierende Apothekenmuseum und nehmen den Bus zum Kalvarienberg. Abends bietet die Aussicht vom Óház-Turm trotz Regen eine besonders mystische Atmosphäre über den Dächern von Kőszeg.",
+            "hu": "Reggel kényelmesen és szárazon érheti el a Jurisics teret busszal. Délben a hatalmas vár tökéletes védelmet nyújt a szakadó eső elől. Délután látogassa meg a lenyűgöző Patikamúzeumot, majd szálljon buszra a Kálvária-hegy irányába. Este az Óház-kilátó panorámája esőben is különlegesen misztikus hangulatot áraszt a város felett.",
+            "ro": "Dimineața, ajungeți confortabil și uscat în Piața Jurisics cu autobuzul. La prânz, castelul impunător vă protejează perfect de ploaia torențială. După-amiaza, vizitați fascinantul Muzeu al Farmaciei și luați autobuzul spre Dealul Calvariei. Seara, vederea de la Turnul Óház oferă o atmosferă mistică peste acoperișurile orașului, chiar și pe ploaie.",
+            "en": "In the morning, reach Jurisics Square comfortably and dry by local bus. At noon, the mighty castle shields you perfectly from the pouring rain. Afternoon brings a visit to the fascinating Pharmacy Museum and a bus ride toward Calvary Hill. In the evening, the view from Óház tower offers a particularly mystical atmosphere over Kőszeg's rooftops despite the rain."
+          },
+          "stops": [
+            {
+              "name": "Jurisics Square",
+              "tip_5lang": {
+                "de": "Busstation in der Nähe.",
+                "hu": "Buszmegálló a közelben.",
+                "ro": "Stație de autobuz aproape.",
+                "en": "Bus stop located nearby."
+              }
+            },
+            {
+              "name": "Jurisics Castle",
+              "tip_5lang": {
+                "de": "Überdachte Ausstellungen.",
+                "hu": "Fedett kiállítások.",
+                "ro": "Expoziții acoperite.",
+                "en": "Covered exhibitions."
+              }
+            },
+            {
+              "name": "Golden Unicorn Pharmacy Museum",
+              "tip_5lang": {
+                "de": "Drinnen im Trockenen.",
+                "hu": "Benti, száraz program.",
+                "ro": "Program la interior, uscat.",
+                "en": "Indoor, dry program."
+              }
+            },
+            {
+              "name": "Bus to Calvary Hill",
+              "tip_5lang": {
+                "de": "Trockener Transport am Berg.",
+                "hu": "Száraz utazás a hegyre.",
+                "ro": "Transport uscat pe munte.",
+                "en": "Dry transport up the hill."
+              }
+            },
+            {
+              "name": "Óház Lookout Tower",
+              "tip_5lang": {
+                "de": "Weg vom Bus kurz, aber nass.",
+                "hu": "Rövid, de vizes út a busztól.",
+                "ro": "Drum scurt, dar ud de la bus.",
+                "en": "Short but wet walk from bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse fahren bei Regen pünktlich.",
+              "Nutzen Sie die Wartehäuschen als Regenschutz.",
+              "Kaufen Sie Tickets vorab per App.",
+              "Ein kleiner Regenschirm passt in jede Tasche."
+            ],
+            "hu": [
+              "A buszok esőben is pontosak.",
+              "Használja a várókat eső elleni védelemként.",
+              "Vegye meg a jegyet előre applikációban.",
+              "Egy kis esernyő minden táskában elfér."
+            ],
+            "ro": [
+              "Autobuzele circulă punctual pe ploaie.",
+              "Folosiți refugiile ca adăpost contra ploii.",
+              "Cumpărați biletele în avans prin aplicație.",
+              "O umbrelă mică încape în orice geantă."
+            ],
+            "en": [
+              "Buses run on schedule during rainy weather.",
+              "Use the bus shelters for rain protection.",
+              "Purchase tickets in advance via app.",
+              "A small umbrella fits in any bag."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens wärmen Sie sich im beheizten Bus auf dem Weg zum Jurisics-Platz auf. Mittags ist die Burg ein idealer, warmer Zufluchtsort vor der Winterkälte. Nachmittags besuchen Sie das gemütliche Apothekenmuseum und fahren zum Kalvarienberg am Waldrand. Abends genießen Sie den weiten Blick auf das winterlich beleuchtete Kőszeg vom Óház-Turm aus.",
+            "hu": "Reggel melegedjen a fűtött buszon a Jurisics tér felé tartva. Délben a vár ideális és meleg menedék a kőszegi téli hideg elől. Délután látogassa meg a hangulatos Patikamúzeumot, majd utazzon a Kálvária-hegyre az erdő szélén. Este élvezze a tiszta panorámát és a kivilágított Kőszeg látványát az Óház-kilátóról.",
+            "ro": "Dimineața, încălziți-vă în autobuzul încălzit spre Piața Jurisics. La prânz, castelul este un refugiu ideal și cald împotriva gerului de iarnă. După-amiaza, vizitați Muzeul Farmaciei și mergeți cu autobuzul spre Dealul Calvariei la marginea pădurii. Seara, admirați vederea clară spre Kőszegul iluminat festiv de la Óház.",
+            "en": "In the morning, warm up on the heated bus on your way to Jurisics Square. At noon, the castle is an ideal, warm sanctuary from the winter chill. Afternoon brings a visit to the cozy Pharmacy Museum and a bus ride to Calvary Hill at the forest's edge. In the evening, enjoy the clear, wide view of wintry Kőszeg lit up from the Óház tower."
+          },
+          "stops": [
+            {
+              "name": "Jurisics Square",
+              "tip_5lang": {
+                "de": "Beheizte Busse genießen.",
+                "hu": "Élvezze a fűtött buszokat.",
+                "ro": "Bucurați-vă de autobuz cald.",
+                "en": "Enjoy the heated buses."
+              }
+            },
+            {
+              "name": "Jurisics Castle",
+              "tip_5lang": {
+                "de": "Kultur und Wärme verbinden.",
+                "hu": "Kultúra és meleg találkozása.",
+                "ro": "Cultură și căldură laolaltă.",
+                "en": "Combine culture and warmth."
+              }
+            },
+            {
+              "name": "Golden Unicorn Pharmacy Museum",
+              "tip_5lang": {
+                "de": "Historische, warme Räume.",
+                "hu": "Történelmi, meleg terek.",
+                "ro": "Spații istorice calde.",
+                "en": "Historical, warm spaces."
+              }
+            },
+            {
+              "name": "Bus to Calvary Hill",
+              "tip_5lang": {
+                "de": "Fahrt durch Winterwald.",
+                "hu": "Utazás a téli erdőn át.",
+                "ro": "Drum prin pădurea de iarnă.",
+                "en": "Ride through winter forest."
+              }
+            },
+            {
+              "name": "Óház Lookout Tower",
+              "tip_5lang": {
+                "de": "Letzter Bus zurück beachten.",
+                "hu": "Figyeljen az utolsó buszra.",
+                "ro": "Atenție la ultimul autobuz.",
+                "en": "Note the last bus back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft die sicherste Wahl am Berg.",
+              "Fahrpläne können bei starkem Schneefall variieren.",
+              "Tragen Sie warme Schuhe für die Wartezeiten.",
+              "Die Sonne geht früh unter, planen Sie die Rückfahrt."
+            ],
+            "hu": [
+              "Télen a busz a legbiztonságosabb a hegyen.",
+              "Erős havazáskor a menetrend változhat.",
+              "Viseljen meleg cipőt a várakozáshoz.",
+              "A nap korán nyugszik, tervezze meg a visszautat."
+            ],
+            "ro": [
+              "Iarna, autobuzul e cea mai sigură alegere.",
+              "Orarele pot varia la ninsori puternice.",
+              "Purtați încălțări călduroase pentru așteptare.",
+              "Soarele apune devreme, planificați returul."
+            ],
+            "en": [
+              "Buses are often the safest choice in winter.",
+              "Schedules may vary during heavy snowfall.",
+              "Wear warm shoes for waiting times at stops.",
+              "The sun sets early; plan your return trip."
+            ]
+          }
+        }
       }
     }
   }

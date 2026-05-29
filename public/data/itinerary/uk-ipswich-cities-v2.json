@@ -356,6 +356,196 @@
           "Be aware of the tides at the Waterfront, as the landscape can change dramatically.",
           "Use the many alleys and passageways for shortcuts and to discover hidden gems."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt geschützt in der St Mary-le-Tower Kirche, während der Regen auf die alten Fenster prasselt. Ein kurzer Sprint bringt Sie zum Ancient House, dessen kunstvolle Fassade im nassen Glanz erstrahlt. \n\nMittags bietet das Ipswich Museum den idealen Zufluchtsort; verbringen Sie hier ausgiebig Zeit zwischen den Exponaten, um dem Schauer zu entgehen. \n\nAm Nachmittag erkunden Sie die prächtigen Räume der Christchurch Mansion, wo die Tudor-Geschichte Sie trocken hält. \n\nDer Tag endet am Waterfront, wo die Lichter der Pubs und Cafés auf dem nassen Asphalt reflektieren und eine gemütliche Atmosphäre schaffen.",
+            "hu": "A délelőtt a St Mary-le-Tower templom békéjében indul, ahol az eső kopogása csak fokozza a meghittséget. Az Ancient House díszes falai mentén gyorsan haladunk tovább a Willis-épület felé. \n\nDélben az Ipswich Múzeum nyújt tökéletes menedéket; a gyapjúmamut mellett észre sem veszi a kinti felhőszakadást. \n\nDélután a Christchurch Mansion Tudor-termeiben barangolhat, távol a szürke időtől és a széltől. \n\nAz este a kikötőben (Waterfront) ér véget, ahol számos fedett teraszról és kávézóból figyelheti a vízen kopogó esőcseppeket.",
+            "ro": "Dimineața începe la adăpost în Biserica St Mary-le-Tower, în timp ce ploaia cade peste ferestrele istorice. Fațada decorată a Ancient House strălucește sub stropii de apă în drum spre clădirea Willis. \n\nLa prânz, Muzeul Ipswich oferă refugiul ideal; petreceți mai mult timp printre exponate pentru a evita vremea instabilă. \n\nDupă-amiaza este dedicată conacului Christchurch, unde galeriile de artă și istoria Tudor vă țin la uscat și cald. \n\nSeara se încheie la Waterfront, unde luminile reflectate în apa portului creează un peisaj urban dramatic și primitor.",
+            "en": "The morning begins under the shelter of St Mary-le-Tower, finding peace while the drizzle hits the historic stone. The ornate pargeting of Ancient House looks even sharper in the damp air before heading to the Willis Building. \n\nBy midday, Ipswich Museum provides the perfect escape; its Victorian galleries offer hours of dry exploration away from the elements. \n\nIn the afternoon, Christchurch Mansion serves as a grand retreat, where you can wander through Tudor rooms without a thought for the rain outside. \n\nFinish your walk at the Waterfront, ducking into one of the many dockside cafes to watch the rain dance on the Orwell's surface."
+          },
+          "stops": [
+            {
+              "name": "St Mary-le-Tower Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um den Regenschirm in Ruhe zu falten.",
+                "hu": "Használja a templomhajót pihenésre, amíg a kinti zápor elcsendesedik.",
+                "ro": "Interiorul bisericii este perfect pentru a aștepta trecerea unei ploi scurte.",
+                "en": "The church interior is a peaceful and dry spot to plan your next dash through town."
+              }
+            },
+            {
+              "name": "Ancient House",
+              "tip_5lang": {
+                "de": "Die vorspringenden Obergeschosse bieten Passanten einen schmalen trockenen Pfad.",
+                "hu": "A kiugró emeletek alatt keskeny száraz sávot talál a nézelődéshez.",
+                "ro": "Etajele proeminente oferă o mică protecție împotriva ploii în timp ce admirați fațada.",
+                "en": "The overhanging upper floors provide a narrow dry path for viewing the carvings."
+              }
+            },
+            {
+              "name": "Willis Building",
+              "tip_5lang": {
+                "de": "Die schwarze Glasfassade wirkt bei Regen besonders spiegelglatt und modern.",
+                "hu": "Az esőben megázott sötét üvegfelületek látványos tükröződéseket produkálnak.",
+                "ro": "Fațada neagră din sticlă arată spectaculos atunci când este udă și reflectă cerul.",
+                "en": "The dark glass facade creates striking reflections when wet, perfect for mood photography."
+              }
+            },
+            {
+              "name": "Ipswich Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort für eine lange Pause; die Garderobe nimmt nasse Mäntel gerne an.",
+                "hu": "Tökéletes hosszú pihenőhely; a ruhatárban leadhatja a vizes kabátokat.",
+                "ro": "Locul perfect pentru o pauză lungă; garderoba primește cu plăcere hainele ude.",
+                "en": "Excellent long-stay option; the cloakroom is handy for stowing wet umbrellas and coats."
+              }
+            },
+            {
+              "name": "Christchurch Mansion",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den verregneten Park aus den warmen Tudor-Fenstern.",
+                "hu": "Nézze a vizes Christchurch parkot a kastély meleg, Tudor-stílusú ablakai mögül.",
+                "ro": "Admirați parcul ploios prin ferestrele vechi, în timp ce stați la adăpost în interior.",
+                "en": "Enjoy views of the misty park from the warmth of the historic interior galleries."
+              }
+            },
+            {
+              "name": "Ipswich Waterfront",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Hafenblick, um das Treiben geschützt zu beobachten.",
+                "hu": "Válasszon egy közvetlen vízparti bisztrót, hogy fedél alól élvezhesse a látványt.",
+                "ro": "Alegeți o cafenea cu vedere spre docuri pentru a privi portul fără a vă uda.",
+                "en": "Pick a dockside cafe with large windows to enjoy the harbor view while staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ipswich hat viele historische Passagen, die bei plötzlichen Schauern Schutz bieten.",
+              "Das Waterfront-Viertel ist windanfällig; ein stabiler Regenschirm ist hier Pflicht.",
+              "Nutzen Sie die kostenlosen Museen als strategische Trockenpausen.",
+              "Die Pflastersteine in der Nähe der Ancient House können bei Nässe etwas rutschig sein.",
+              "Ipswich Central bietet viele Cafés mit überdachten Außenbereichen für Raucher."
+            ],
+            "hu": [
+              "Ipswich központjában sok a szűk sikátor, ahol esőben is védve haladhat.",
+              "A kikötőben (Waterfront) erős lehet a szél, érdemes strapabíró esernyőt vinni.",
+              "Használja ki az ingyenes múzeumi belépőket a hosszabb száraz szünetekhez.",
+              "Az Ancient House környékén a macskakő csúszós lehet, vigyázzon a lépteire.",
+              "A Waterfront kávézói szinte mindegyike kínál fedett rálátást a hajókra."
+            ],
+            "ro": [
+              "Centrul orașului are pasaje istorice care oferă adăpost în timpul ploilor bruște.",
+              "Zona Waterfront este expusă vântului; o umbrelă rezistentă este esențială aici.",
+              "Folosiți muzeele gratuite ca opriri strategice pentru a vă usca hainele.",
+              "Pavajul din jurul Ancient House poate deveni alunecos când este ud.",
+              "Multe cafenele din port au zone acoperite de unde puteți vedea ambarcațiunile."
+            ],
+            "en": [
+              "Ipswich town centre has several historic alleyways that offer shortcuts and shelter.",
+              "The Waterfront can get very windy during rain; a sturdy umbrella is recommended over a light one.",
+              "Make strategic use of the free museums for long dry-off periods.",
+              "The cobbles around the Ancient House can be slippery when wet; watch your footing.",
+              "Most Waterfront cafes have large windows, making them great spots to wait out a storm."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Ipswich ist oft neblig und atmosphärisch, wenn Sie an der St Mary-le-Tower Kirche starten. Die Kälte beißt, aber der Anblick des Ancient House im sanften Winterlicht ist jede Minute wert. \n\nMittags suchen wir die wohlige Wärme des Ipswich Museums auf, wo die historischen Ausstellungsstücke in einem gemütlichen Licht erscheinen. \n\nAm Nachmittag bietet Christchurch Mansion Schutz vor dem frühen Frost; die dunklen Holzverkleidungen strahlen eine winterliche Behaglichkeit aus. \n\nDa die Sonne bereits gegen 16 Uhr untergeht, endet der Tag am festlich beleuchteten Waterfront, wo die Lichterketten der Schiffe im dunklen Wasser funkeln.",
+            "hu": "A téli reggel Ipswich-ben gyakran ködös és hangulatos, ahogy a St Mary-le-Tower templom felé vesszük az irányt. A hideg szél ellenére az Ancient House látványa a téli napfényben felejthetetlen. \n\nDélben az Ipswich Múzeum fűtött termeiben melegedhetünk fel, felfedezve a város gazdag múltját. \n\nDélután a Christchurch Mansion nyújt menedéket a fagy elől; a régi faburkolatok között igazi békebeli téli hangulat uralkodik. \n\nA korai naplemente miatt az este már sötétben ér a Waterfrontra, ahol a hajók és éttermek ünnepi fényei visszatükröződnek a jeges vízen.",
+            "ro": "Dimineața de iarnă în Ipswich este adesea cețoasă și plină de atmosferă în jurul bisericii St Mary-le-Tower. Frigul este pătrunzător, dar Ancient House arată superb în lumina palidă a soarelui de iarnă. \n\nLa prânz căutăm căldura Muzeului Ipswich, unde colecțiile istorice par și mai fascinante într-o zi geroasă. \n\nDupă-amiaza, conacul Christchurch oferă un refugiu primitor; interioarele sale din lemn masiv creează o ambianță caldă de iarnă. \n\nDeoarece soarele apune devreme, seara începe la Waterfront printre luminițele festive ale bărcilor reflectate în apele întunecate ale portului.",
+            "en": "A winter morning in Ipswich often starts with a crisp frost on the graveyard of St Mary-le-Tower. The cold air makes the historic carvings of Ancient House stand out sharply against the pale sky. \n\nBy midday, the heated galleries of Ipswich Museum are a welcome refuge, offering a cozy environment to explore natural history. \n\nIn the afternoon, head to Christchurch Mansion before the early dusk sets in; the Tudor rooms feel particularly atmospheric in the waning winter light. \n\nWith sunset arriving around 4 PM, the day concludes at the Waterfront, where festive lights from the yachts twinkle in the dark, cold waters of the marina."
+          },
+          "stops": [
+            {
+              "name": "St Mary-le-Tower Church",
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen windgeschützten Ort für eine kurze besinnliche Pause.",
+                "hu": "A templom szélvédett belső tere jó hely egy rövid átmelegedésre.",
+                "ro": "Biserica oferă un spațiu ferit de vântul rece pentru o scurtă pauză.",
+                "en": "The church interior provides a quiet, wind-free space to warm up briefly."
+              }
+            },
+            {
+              "name": "Ancient House",
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die feinen Details der Fassadenverzierung besonders gut hervor.",
+                "hu": "A téli súrolófényben még jobban látszanak a homlokzat finom stukkói.",
+                "ro": "Lumina de iarnă scoate în evidență detaliile fine ale ornamentelor de pe fațadă.",
+                "en": "Low winter sun highlights the intricate details of the facade's pargeting beautifully."
+              }
+            },
+            {
+              "name": "Willis Building",
+              "tip_5lang": {
+                "de": "Achten Sie bei Frost auf die glatten Oberflächen rund um dieses moderne Wahrzeichen.",
+                "hu": "Fagyos időben ügyeljen a modern épület körüli csúszós járdaszakaszokra.",
+                "ro": "Atenție la porțiunile de trotuar înghețat din jurul acestei clădiri moderne.",
+                "en": "Be careful of icy patches on the smooth paved areas around this landmark."
+              }
+            },
+            {
+              "name": "Ipswich Museum",
+              "tip_5lang": {
+                "de": "Die Heizung funktioniert hier hervorragend – ein Muss an frostigen Tagen.",
+                "hu": "A múzeum fűtése kiváló, ideális hely a fagyos ujjak felmelegítésére.",
+                "ro": "Sistemul de încălzire de aici este excelent – o oprire obligatorie în zilele geroase.",
+                "en": "The heating here is reliable, making it the best place to thaw out your fingers."
+              }
+            },
+            {
+              "name": "Christchurch Mansion",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Haus vor 15:30 Uhr, um das Tageslicht in den Räumen zu nutzen.",
+                "hu": "Érdemes 15:30 előtt érkezni, hogy még természetes fénynél lássa a szobákat.",
+                "ro": "Vizitați conacul înainte de 15:30 pentru a profita de lumina naturală din interior.",
+                "en": "Aim to visit before 3:30 PM to catch the last natural light in the period rooms."
+              }
+            },
+            {
+              "name": "Ipswich Waterfront",
+              "tip_5lang": {
+                "de": "Die Reflexionen der Winterbeleuchtung im Hafenwasser sind ein tolles Fotomotiv.",
+                "hu": "A kikötő téli díszkivilágítása gyönyörűen tükröződik a sötét vízen.",
+                "ro": "Reflexiile luminilor de iarnă în apa portului sunt perfecte pentru fotografii.",
+                "en": "The reflection of winter lights in the marina water makes for stunning night photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 15:50 Uhr unter; planen Sie Outdoor-Fotos früh.",
+              "Der Wind vom Fluss Orwell kann im Winter sehr schneidend sein; Schal und Handschuhe sind wichtig.",
+              "Das Christchurch Mansion hat im Winter oft verkürzte Öffnungszeiten; vorher prüfen.",
+              "Ipswich hat einen charmanten Weihnachtsmarkt in der Nähe der Cornhill, falls Sie im Dezember reisen.",
+              "Viele Cafés am Waterfront bieten im Winter Decken und Heizstrahler an."
+            ],
+            "hu": [
+              "A nap decemberben már 15:50 körül lemegy, a szabadtéri fotózást időzítse korábbra.",
+              "Az Orwell-folyó felől fújó szél metsző lehet, a sál és kesztyű elengedhetetlen.",
+              "A Christchurch Mansion nyitvatartása télen rövidülhet, érdemes ellenőrizni.",
+              "Decemberben a Cornhill környékén hangulatos karácsonyi vásárt találhat.",
+              "A Waterfront kávézóiban gyakran adnak pokrócot a kinti fűtött teraszokon."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 15:50 în decembrie; planificați fotografiile de exterior devreme.",
+              "Vântul care vine de pe râul Orwell poate fi tăios iarna; eșarfa și mănușile sunt vitale.",
+              "Programul Christchurch Mansion poate fi redus iarna; verificați înainte de vizită.",
+              "Ipswich are o piață de Crăciun fermecătoare lângă Cornhill dacă vizitați în decembrie.",
+              "Multe cafenele din port oferă pături și încălzitoare pe terasele exterioare."
+            ],
+            "en": [
+              "Sunset is as early as 3:50 PM in December; plan your outdoor sightseeing accordingly.",
+              "The wind off the River Orwell can be biting in winter; gloves and a warm scarf are essential.",
+              "Christchurch Mansion may have shorter winter hours; check their website before heading over.",
+              "Look out for the local Christmas market near Cornhill if visiting during the festive season.",
+              "Many Waterfront bars offer heated outdoor seating and blankets for a cozy evening."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -722,6 +912,196 @@
           "Lock your bike securely in busy areas like the Waterfront.",
           "Many parks are cycle-friendly, but be mindful of pedestrians on shared paths."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ihre Radtour durch das regnerische Ipswich beginnt im Holywells Park, wo die Bäume einen teilweisen Schutz bieten. Die Fahrt zum Waterfront führt über nasse Radwege, die im Regen glänzen. \n\nMittags erreichen wir die St Mary-le-Tower Kirche; parken Sie das Rad sicher und wärmen Sie sich im Inneren auf. \n\nDer Nachmittag gehört den Museen: Erst das Ipswich Museum und dann die Christchurch Mansion bieten stundenlangen Schutz vor dem Dauerregen. \n\nDie Tour endet am New Wolsey Theatre, wo Sie Ihr Rad abstellen und den Tag vielleicht mit einer trockenen Indoor-Aufführung ausklingen lassen.",
+            "hu": "A bringás túra a Holywells Parkban indul, ahol az ősfák lombjai között némi védelmet talál az eső elől. A kikötőbe (Waterfront) vezető út vizes aszfaltja csillog a kerékpár lámpájának fényében. \n\nDélben a St Mary-le-Tower templomhoz érünk; érdemes itt egy hosszabb pihenőt tartani, amíg elvonul a felhőzet. \n\nA délutánt múzeumokban töltjük: az Ipswich Múzeum és a Christchurch Mansion bőséges fedett programot kínál. \n\nA napot a New Wolsey Színháznál zárjuk, ahol a kerékpárt lelakatolva bevetheti magát a város kulturális életébe.",
+            "ro": "Turul pe bicicletă prin Ipswich începe în Parcul Holywells, unde arborii oferă o protecție parțială împotriva stropilor. Drumul spre port trece peste piste de biciclete lucioase din cauza ploii. \n\nLa prânz ajungem la Biserica St Mary-le-Tower; parcați bicicleta și bucurați-vă de liniștea și căldura interiorului. \n\nDupă-amiaza este dedicată muzeelor: Muzeul Ipswich și apoi Christchurch Mansion oferă ore întregi de explorare la adăpost. \n\nTraseul se încheie la Teatrul New Wolsey, unde puteți lăsa bicicleta pentru a vă bucura de un spectacol într-un mediu uscat.",
+            "en": "Your cycling tour starts in Holywells Park, where the dense tree canopy provides some initial cover from the drizzle. The ride to the Waterfront is refreshing, with the wet docks creating a moody atmosphere. \n\nBy midday, reach St Mary-le-Tower; park your bike nearby and step inside to dry off in the historic nave. \n\nThe afternoon is focused on indoor culture, hopping between Ipswich Museum and Christchurch Mansion to minimize time in the open rain. \n\nEnd your ride at the New Wolsey Theatre, where you can secure your bike and transition from the damp outdoors to the warmth of the lobby."
+          },
+          "stops": [
+            {
+              "name": "Holywells Park",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Laubwegen, da diese bei Nässe rutschig sein können.",
+                "hu": "Vigyázzon a faleveles utakon, mert esőben nagyon csúszóssá válhatnak.",
+                "ro": "Pedalați cu prudență pe aleile cu frunze, deoarece devin alunecoase la umezeală.",
+                "en": "Be careful on the leafy paths as they can become very slippery when wet."
+              }
+            },
+            {
+              "name": "Ipswich Waterfront",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer in der Nähe der belebten Cafés für eine trockene Pause.",
+                "hu": "Használja a kávézók közeli tárolókat, és töltsön egy kis időt fedett helyen.",
+                "ro": "Folosiți suporturile de biciclete de lângă cafenele pentru o pauză la uscat.",
+                "en": "Use the bike racks near the busier cafes to take a quick break under cover."
+              }
+            },
+            {
+              "name": "St Mary-le-Tower Church",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Regenkleidung kurz zu lüften und sich zu orientieren.",
+                "hu": "Jó hely az esőkabát meglazítására és a következő útszakasz átnézésére.",
+                "ro": "Un loc bun pentru a vă scutura hainele de ploaie și pentru a vă orienta.",
+                "en": "A good spot to adjust your waterproof gear and check your route map."
+              }
+            },
+            {
+              "name": "Ipswich Museum",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es mehrere überdachte Abstellmöglichkeiten für Fahrräder.",
+                "hu": "A közelben több fedett kerékpártároló is található a látogatók számára.",
+                "ro": "Există mai multe locuri de parcare acoperite pentru biciclete în apropiere.",
+                "en": "There are several sheltered bike parking options nearby for museum visitors."
+              }
+            },
+            {
+              "name": "Christchurch Mansion",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch den Park, um Spritzwasser auf der Kleidung zu vermeiden.",
+                "hu": "Hajtson lassan a parki utakon, hogy elkerülje a felverődő sarat és vizet.",
+                "ro": "Mergeți încet prin parc pentru a evita stropirea hainelor cu apă sau noroi.",
+                "en": "Ride slowly through the park to avoid splashing water onto your trousers."
+              }
+            },
+            {
+              "name": "New Wolsey Theatre",
+              "tip_5lang": {
+                "de": "Das Foyer bietet einen warmen Platz, um die Tour trocken abzuschließen.",
+                "hu": "A színház előcsarnoka meleg és száraz hely a túra befejezéséhez.",
+                "ro": "Foaierul teatrului oferă un spațiu cald pentru a încheia turul la uscat.",
+                "en": "The theatre foyer is a warm and welcoming space to finish your wet ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen; der Bremsweg verlängert sich auf nassen Straßen deutlich.",
+              "Vermeiden Sie das Überfahren von Fahrbahnmarkierungen und Gullydeckeln, da diese extrem glatt sind.",
+              "Ein Schutzblech ist bei Regen in Ipswich unerlässlich, um den Rücken trocken zu halten.",
+              "Ipswich hat viele Einbahnstraßen; planen Sie bei Regen einfache, direkte Routen.",
+              "Tragen Sie helle, reflektierende Regenkleidung, da die Sichtbarkeit für Autofahrer sinkt."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket; a fékút jelentősen meghosszabbodik a vizes utakon.",
+              "Kerülje az útburkolati jeleket és a csatornafedeleket, mert rendkívül csúszósak.",
+              "A sárvédő elengedhetetlen, ha nem akarja, hogy a háta teljesen sáros legyen.",
+              "Ipswich-ben sok az egyirányú utca, esőben tervezzen egyszerűbb útvonalat.",
+              "Viseljen feltűnő, fényvisszaverő esőruhát, mert a látótávolság ilyenkor csökken."
+            ],
+            "ro": [
+              "Verificați frânele; distanța de frânare crește considerabil pe drumurile ude.",
+              "Evitați marcajele rutiere și capacele de canal, deoarece sunt extrem de alunecoase.",
+              "Aripile la bicicletă sunt esențiale pentru a vă menține spatele uscat pe ploaie.",
+              "Ipswich are multe străzi cu sens unic; planificați rute directe pentru a scurta timpul în ploaie.",
+              "Purtați haine de ploaie reflectorizante, deoarece vizibilitatea scade pentru șoferi."
+            ],
+            "en": [
+              "Check your brakes; stopping distances are much longer on wet Ipswich roads.",
+              "Avoid riding over road markings and manhole covers, as they become treacherous.",
+              "Mudguards are essential to prevent a 'skunk stripe' of muddy water up your back.",
+              "Ipswich has many one-way systems; plan a direct route to minimize exposure to rain.",
+              "Wear high-visibility waterproofs, as drivers' visibility is reduced during downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen beginnt mit einer Fahrt durch den Holywells Park, wo die kahlen Bäume eine klare Sicht auf den gefrorenen Teich bieten. Die kühle Brise am Waterfront weckt die Lebensgeister. \n\nMittags machen wir Halt an der St Mary-le-Tower Kirche, um die steifen Finger kurz aufzuwärmen. \n\nDer Nachmittag führt uns zum Ipswich Museum und zur Christchurch Mansion, wo die Heizungen auf Hochtouren laufen und eine willkommene Pause vom Winterwind bieten. \n\nBevor es zu dunkel wird, erreichen wir das New Wolsey Theatre. Die Wintersonne steht tief und taucht die Stadt in ein goldenes Licht, bevor die Kälte der Nacht einsetzt.",
+            "hu": "A fagyos téli reggel a Holywells Parkban indul, ahol a kopasz fák között tiszta kilátás nyílik a deres tájra. A kikötőnél (Waterfront) fújó hideg szél gyorsan felébreszti az embert. \n\nDélben megállunk a St Mary-le-Tower templomnál, hogy egy kicsit felengedjenek az elgémberedett ujjak. \n\nA délután az Ipswich Múzeum és a Christchurch Mansion meleg termeiben folytatódik, ahol a fűtés igazi áldás a téli szél után. \n\nMielőtt teljesen besötétedne, elérjük a New Wolsey Színházat; a lemenő téli nap arany fénybe vonja a várost a fagyos éjszaka előtt.",
+            "ro": "O dimineață geroasă de iarnă începe cu o plimbare prin Parcul Holywells, unde arborii desfrunziți oferă o vedere clară asupra iazului înghețat. Briza rece din port vă va înviora instantaneu. \n\nLa prânz ne oprim la Biserica St Mary-le-Tower pentru a ne încălzi puțin mâinile amorțite de frig. \n\nDupă-amiaza ne duce la Muzeul Ipswich și la Christchurch Mansion, unde interioarele încălzite oferă o pauză binemeritată de vântul de iarnă. \n\nÎnainte de a se lăsa întunericul, ajungem la Teatrul New Wolsey; soarele de iarnă apune spectaculos, scăldând orașul în lumină aurie.",
+            "en": "A crisp winter morning ride starts in Holywells Park, with the frost crunching under your tires and the air feeling fresh. The Waterfront loop is exhilarating, though the wind off the Orwell is sharp. \n\nBy midday, a stop at St Mary-le-Tower provides a needed break from the cold; the historic stone walls shelter you from the breeze. \n\nThe afternoon is spent hopping between the warmth of Ipswich Museum and the stately Christchurch Mansion, perfect spots to recharge. \n\nAs the sun dips low by late afternoon, head to the New Wolsey Theatre. The golden hour in winter is short but beautiful on the red-brick buildings of Ipswich."
+          },
+          "stops": [
+            {
+              "name": "Holywells Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei überfrorener Nässe auf den schattigen Parkwegen.",
+                "hu": "Vigyázzon a lefagyott pára miatti csúszós foltokra az árnyékos utakon.",
+                "ro": "Atenție la porțiunile de gheață care se pot forma pe aleile umbrite din parc.",
+                "en": "Watch out for black ice on shaded sections of the park paths."
+              }
+            },
+            {
+              "name": "Ipswich Waterfront",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung, da es am Wasser deutlich kühler ist.",
+                "hu": "Viseljen szélálló ruhát, a vízparton sokkal hidegebbnek érződik az idő.",
+                "ro": "Purtați haine rezistente la vânt, deoarece temperatura resimțită este mai mică lângă apă.",
+                "en": "Windproof layers are key here as the temperature drops near the water."
+              }
+            },
+            {
+              "name": "St Mary-le-Tower Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um die Handschuhe kurz auszuziehen und sich zu dehnen.",
+                "hu": "Nyugodt hely, ahol leveheti a kesztyűt és egy kicsit átmozgathatja magát.",
+                "ro": "Un loc liniștit pentru a vă scoate mănușile și a vă dezmorți puțin.",
+                "en": "A peaceful spot to take off your gloves and warm up your hands."
+              }
+            },
+            {
+              "name": "Ipswich Museum",
+              "tip_5lang": {
+                "de": "Die Garderobe ist ideal, um schwere Winterjacken während des Besuchs abzugeben.",
+                "hu": "A ruhatárban leadhatja a nehéz téli kabátot a múzeumlátogatás idejére.",
+                "ro": "Garderoba este ideală pentru a lăsa hainele groase de iarnă în timpul vizitei.",
+                "en": "The cloakroom is perfect for stowing heavy winter layers while you explore."
+              }
+            },
+            {
+              "name": "Christchurch Mansion",
+              "tip_5lang": {
+                "de": "Der Parkweg zur Mansion kann bei Frost sehr rutschig sein – langsam fahren.",
+                "hu": "A kastélyhoz vezető út fagyos időben csúszós lehet, hajtson óvatosan.",
+                "ro": "Aleea spre conac poate fi alunecoasă iarna; pedalați cu viteză redusă.",
+                "en": "The path to the Mansion can be icy; ride at a moderate speed to stay safe."
+              }
+            },
+            {
+              "name": "New Wolsey Theatre",
+              "tip_5lang": {
+                "de": "Das warme Foyer ist die perfekte Belohnung nach einer kalten Wintertour.",
+                "hu": "A meleg előcsarnok tökéletes jutalom a hideg téli bringázás után.",
+                "ro": "Foaierul călduros este recompensa ideală după o tură rece prin oraș.",
+                "en": "The warm theatre foyer is the perfect reward after a chilly winter ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert; es wird bereits ab 16 Uhr dunkel.",
+              "Vermeiden Sie bei Frost scharfe Kurven auf Kopfsteinpflaster im Stadtzentrum.",
+              "Halten Sie die Kette gut geölt, um sie vor Streusalz und Feuchtigkeit zu schützen.",
+              "Trinken Sie auch bei Kälte genug; heiße Getränke in den Cafés am Waterfront helfen.",
+              "Winterhandschuhe mit gutem Grip sind für die Bremskontrolle unerlässlich."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy működik a világítás; már 16 órakor sötétedik.",
+              "Fagyos időben kerülje az éles kanyarokat a belvárosi macskaköveken.",
+              "Tartsa a láncot jól olajozottan, hogy védje az útszóró sótól és a nedvességtől.",
+              "Hidegben is igyon eleget; a kikötői kávézók forró italai sokat segítenek.",
+              "A jó tapadású téli kesztyű elengedhetetlen a fékek biztos kezeléséhez."
+            ],
+            "ro": [
+              "Asigurați-vă că luminile bicicletei funcționează; se întunecă deja de la ora 16.",
+              "Evitați virajele bruște pe porțiunile cu piatră cubică dacă este îngheț.",
+              "Mențineți lanțul bine uns pentru a-l proteja de sarea de pe drumuri și de umezeală.",
+              "Hidratați-vă chiar dacă este frig; băuturile calde din port sunt de mare ajutor.",
+              "Mănușile de iarnă cu aderență bună sunt esențiale pentru controlul frânelor."
+            ],
+            "en": [
+              "Ensure your bike lights are fully charged; it starts getting dark as early as 4 PM.",
+              "Avoid sharp turns on cobbles in the town centre if there is a frost.",
+              "Keep your chain well-lubricated to protect it from road salt and slush.",
+              "Stay hydrated even in the cold; a hot drink at a Waterfront cafe is a great motivator.",
+              "Full-finger winter gloves with good grip are essential for maintaining brake control."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1076,6 +1456,196 @@
           "The cluster approach works best if you're prepared to walk between sights within each cluster.",
           "Traffic can be heavy during peak hours, so plan your drives between clusters outside of these times."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ihre Autofahrt durch das verregnete Ipswich beginnt entspannt am Holywells Park, wo Sie die Natur aus dem trockenen Fahrzeug genießen. Die Fahrt zum Waterfront zeigt die moderne Seite der Stadt im grauen Licht. \n\nMittags parken wir in der Nähe der St Mary-le-Tower Kirche, um einen kurzen, aber lohnenswerten Blick in das historische Innere zu werfen. Das Ancient House liegt nur einen kurzen Sprint entfernt. \n\nDer Nachmittag steht ganz im Zeichen der Kultur: Das Ipswich Museum und die Christchurch Mansion sind bequem mit dem Auto erreichbar und bieten stundenlange Unterhaltung im Trockenen. \n\nZum Abschluss parken wir am Waterfront, wo Sie direkt vom Auto in eines der gemütlichen Restaurants wechseln können, um den Regen draußen zu lassen.",
+            "hu": "Az autós túra kényelmesen indul a Holywells Parknál, ahol a szélvédő mögül csodálhatja a zöldellő tájat. A kikötő felé haladva Ipswich modern arca tárul fel a szürke esőfüggöny mögött. \n\nDélben a St Mary-le-Tower templom közelében parkolunk; egy rövid séta is elég, hogy felfedezzük a templom és az Ancient House díszes világát. \n\nA délután a kultúráé: az Ipswich Múzeum és a Christchurch Mansion könnyen megközelíthető autóval, így minimális az esőben töltött idő. \n\nA napot a Waterfront parkolójában zárjuk, ahonnan csak pár lépés a kiválasztott étterem meleg és száraz belső tere.",
+            "ro": "Turul cu mașina prin Ipswich începe relaxat la Parcul Holywells, unde puteți admira natura din confortul vehiculului. Drumul spre port dezvăluie latura modernă a orașului sub cerul gri de ploaie. \n\nLa prânz parcăm în apropierea Bisericii St Mary-le-Tower pentru o scurtă vizită la adăpost; Ancient House este la doar câțiva pași distanță. \n\nDupă-amiaza este dedicată culturii: Muzeul Ipswich și Christchurch Mansion sunt ușor accesibile cu mașina, oferind divertisment de calitate departe de ploaie. \n\nÎncheiem ziua cu o parcare la Waterfront, de unde puteți ajunge rapid într-un restaurant primitor fără a vă uda prea tare.",
+            "en": "Your rainy day drive through Ipswich starts at Holywells Park, allowing you to appreciate the greenery from your dry cabin. Heading to the Waterfront, the modern developments look sleek under the overcast sky. \n\nBy midday, find parking near St Mary-le-Tower to enjoy a short dash into the church and a quick photo of the Ancient House's stunning facade. \n\nThe afternoon is perfectly suited for the car, moving easily between the Ipswich Museum and Christchurch Mansion to keep your time in the rain to a minimum. \n\nConclude the day at the Waterfront parking area, where a short walk leads to warm dockside dining with views of the rain-streaked marina."
+          },
+          "stops": [
+            {
+              "name": "Holywells Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Eingang, um den Weg im Regen zu verkürzen.",
+                "hu": "Használja a bejárat melletti parkolót, hogy lerövidítse az esőben megtett utat.",
+                "ro": "Folosiți parcarea de la intrare pentru a scurta drumul prin ploaie spre foișor.",
+                "en": "Park close to the entrance to minimize the walk to the sheltered areas."
+              }
+            },
+            {
+              "name": "Ipswich Waterfront (Cluster)",
+              "tip_5lang": {
+                "de": "Es gibt mehrere Parkhäuser in der Nähe, die einen trockenen Zugang zu den Docks ermöglichen.",
+                "hu": "Több parkolóház is van a közelben, ahonnan fedett úton érhető el a kikötő.",
+                "ro": "Există mai multe parcări etajate în apropiere care oferă acces uscat spre chei.",
+                "en": "Several multi-storey car parks nearby offer a dry route to the dockside cafes."
+              }
+            },
+            {
+              "name": "St Mary-le-Tower Church (Cluster)",
+              "tip_5lang": {
+                "de": "Das Parken im Stadtzentrum kann bei Regen schwierig sein; nutzen Sie das NCP-Parkhaus.",
+                "hu": "A belvárosi parkolás esőben nehézkes lehet; javasolt az NCP parkolóház használata.",
+                "ro": "Parcarea centrală poate fi aglomerată pe ploaie; folosiți parcările publice mari.",
+                "en": "Central parking can be busy in the rain; the nearby NCP is a reliable dry option."
+              }
+            },
+            {
+              "name": "Ancient House",
+              "tip_5lang": {
+                "de": "Halten Sie kurz in der Nähe, um das Gebäude im Schutz des Autos zu bewundern.",
+                "hu": "Álljon meg egy pillanatra a közelben, és csodálja meg az épületet az autóból.",
+                "ro": "Opriți scurt în apropiere pentru a admira detaliile fațadei din interiorul mașinii.",
+                "en": "Take a slow drive past to admire the ornate pargeting from your dry seat."
+              }
+            },
+            {
+              "name": "Ipswich Museum",
+              "tip_5lang": {
+                "de": "Parken Sie in der High Street, um nur einen sehr kurzen Fußweg zum Museum zu haben.",
+                "hu": "Parkoljon a High Streeten, így csak pár lépést kell megtennie az esőben.",
+                "ro": "Parcați pe High Street pentru a avea cel mai scurt drum pe jos până la muzeu.",
+                "en": "Park on High Street for the shortest possible walk to the museum entrance."
+              }
+            },
+            {
+              "name": "Christchurch Mansion (Cluster)",
+              "tip_5lang": {
+                "de": "Der Parkplatz Soane Street liegt am nächsten zum Eingang der Mansion.",
+                "hu": "A Soane Street parkolója van a legközelebb a kastély bejáratához.",
+                "ro": "Parcarea din Soane Street este cea mai apropiată de intrarea în conac.",
+                "en": "Soane Street car park is the closest option for a quick dash into the Mansion."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie die Rushhour; der Verkehr in Ipswich wird bei Regen oft deutlich langsamer.",
+              "Nutzen Sie Parkhäuser statt offener Parkplätze, um beim Aussteigen trocken zu bleiben.",
+              "Prüfen Sie Ihre Scheibenwischerblätter vor der Abfahrt auf optimale Sicht.",
+              "Einige Straßen in der Nähe des Waterfront können bei extremem Regen Pfützen bilden.",
+              "Ipswich hat ein gutes Park-and-Ride-System, das Sie direkt ins trockene Zentrum bringt."
+            ],
+            "hu": [
+              "Kerülje a csúcsidőt; Ipswich forgalma esőben jelentősen lelassulhat.",
+              "Válasszon fedett parkolóházat a nyitott parkolók helyett a száraz kiszálláshoz.",
+              "Indulás előtt ellenőrizze az ablaktörlőket a maximális látótávolságért.",
+              "A kikötő környéki utakon esőben nagyobb tócsák alakulhatnak ki, vezessen óvatosan.",
+              "Ipswich Park-and-Ride rendszere kényelmes és száraz utat biztosít a központba."
+            ],
+            "ro": [
+              "Evitați orele de vârf; traficul în Ipswich devine mult mai lent pe timp de ploaie.",
+              "Alegeți parcările etajate în locul celor deschise pentru a rămâne uscat la coborâre.",
+              "Verificați lamelele ștergătoarelor înainte de a pleca pentru o vizibilitate optimă.",
+              "Unele străzi de lângă Waterfront pot colecta apă; conduceți cu atenție prin bălți.",
+              "Sistemul Park-and-Ride din Ipswich este o alternativă bună pentru a ajunge în centru."
+            ],
+            "en": [
+              "Avoid rush hour as Ipswich traffic can gridlock quickly during heavy downpours.",
+              "Prefer multi-storey car parks over open lots to stay dry while getting in and out.",
+              "Ensure your wiper blades are in good condition for the best visibility in town.",
+              "Some low-lying roads near the Waterfront may have deep puddles; drive with care.",
+              "The Park-and-Ride service is a great way to access the centre without parking stress."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit der Fahrt zum Holywells Park, wo der Reif auf den Wiesen glitzert. Dank der Sitzheizung genießen Sie die frostige Landschaft ganz ohne zu frieren. \n\nMittags steuern wir das Stadtzentrum an; das Parken in der Nähe der St Mary-le-Tower Kirche ermöglicht einen schnellen Zugang zu den historischen Sehenswürdigkeiten im warmen Winterlicht. \n\nDer Nachmittag ist ideal für das Ipswich Museum und die Christchurch Mansion, die beide gut beheizt sind und einen wunderbaren Kontrast zur kalten Außenluft bilden. \n\nWenn die Dämmerung früh einsetzt, fahren wir zum Waterfront. Die beleuchteten Masten der Schiffe bieten einen festlichen Anblick, den Sie am besten bei einem heißen Getränk im Hafen genießen.",
+            "hu": "A tiszta téli reggel a Holywells Parknál indul, ahol a deres füvön megcsillan az első napsugár. Az autó fűtése mellett kényelmesen csodálhatja a fagyos tájat. \n\nDélben a belváros felé vesszük az irányt; a St Mary-le-Tower templom környékén könnyen találunk parkolót a történelmi látnivalók felfedezéséhez. \n\nA délután tökéletes helyszíne az Ipswich Múzeum és a Christchurch Mansion, ahol a meleg belső terek feledtetik a kinti fagyos szellőt. \n\nA korai sötétedésben a Waterfrontra autózunk; a kivilágított vitorlások látványa ünnepi hangulatot áraszt, mielőtt a hideg éjszaka beállna.",
+            "ro": "O dimineață senină de iarnă începe cu o vizită la Parcul Holywells, unde chiciura strălucește pe iarbă. Încălzirea din mașină face ca peisajul înghețat să fie o plăcere de privit. \n\nLa prânz ne îndreptăm spre centru; parcarea lângă Biserica St Mary-le-Tower oferă acces rapid la inima istorică a orașului în lumina palidă a iernii. \n\nDupă-amiaza este ideală pentru Muzeul Ipswich și conacul Christchurch, ambele bine încălzite, oferind un contrast plăcut cu aerul rece de afară. \n\nPe măsură ce se lasă seara, conducem spre Waterfront. Catargele iluminate ale iahturilor oferă o priveliște festivă, perfectă de admirat înainte de cină.",
+            "en": "A crisp winter morning drive starts at Holywells Park, where the frost-covered trees look magical from your heated car. The drive through Ipswich is scenic as the low sun hits the historic red bricks. \n\nBy midday, park in the centre to visit St Mary-le-Tower; the short walks between stops are refreshing rather than freezing when you have a warm car to return to. \n\nSpend your afternoon at the Ipswich Museum or Christchurch Mansion, both of which are warm sanctuaries from the biting winter wind. \n\nAs darkness falls early, the drive to the Waterfront is a highlight; the festive lights reflecting in the marina are best enjoyed before heading to a cozy dockside restaurant."
+          },
+          "stops": [
+            {
+              "name": "Holywells Park",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken auf möglicherweise vereisten Parkplätzen am Morgen.",
+                "hu": "Vigyázzon a reggeli jegesedésre a parkoló bejáratánál és a várakozóhelyeken.",
+                "ro": "Atenție la polei în parcare, în special în zonele umbrite de dimineață.",
+                "en": "Be cautious of icy patches in the parking lot during the early morning hours."
+              }
+            },
+            {
+              "name": "Ipswich Waterfront (Cluster)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Hafen aus dem warmen Auto, bevor Sie aussteigen.",
+                "hu": "Élvezze a kikötői kilátást a fűtött autóból, mielőtt kiszállna a hidegbe.",
+                "ro": "Admirați vederea spre port din mașina caldă înainte de a coborî în frig.",
+                "en": "Take a moment to enjoy the marina views from your car before stepping out."
+              }
+            },
+            {
+              "name": "St Mary-le-Tower Church (Cluster)",
+              "tip_5lang": {
+                "de": "Kurze Parkdauer nutzen, um schnell zwischen den historischen Gebäuden zu wechseln.",
+                "hu": "Használja a rövid távú parkolást a történelmi épületek gyors eléréséhez.",
+                "ro": "Folosiți parcările cu timp limitat pentru a vizita rapid clădirile istorice.",
+                "en": "Use short-stay parking to quickly hop between the main historic landmarks."
+              }
+            },
+            {
+              "name": "Ancient House",
+              "tip_5lang": {
+                "de": "Das warme Licht der Schaufenster wirkt im Winter besonders einladend.",
+                "hu": "A kirakatok meleg fénye télen különösen hívogatóvá teszi az épületet.",
+                "ro": "Lumina caldă din vitrine face clădirea să pară foarte primitoare iarna.",
+                "en": "The warm glow from the windows makes this historic shop look very inviting."
+              }
+            },
+            {
+              "name": "Ipswich Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist ein hervorragender Ort, um sich an einem kalten Tag aufzuwärmen.",
+                "hu": "A múzeum kiváló hely a felmelegedésre egy igazán fagyos téli napon.",
+                "ro": "Muzeul este un loc excelent pentru a vă încălzi într-o zi geroasă.",
+                "en": "The museum is an excellent place to thaw out during a cold winter day."
+              }
+            },
+            {
+              "name": "Christchurch Mansion (Cluster)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fussgänger im Park, die bei Glätte unsicher sein können.",
+                "hu": "Figyeljen a parkban közlekedő gyalogosokra, akik a csúszós utakon bizonytalanok lehetnek.",
+                "ro": "Atenție la pietonii din parc care pot fi nesiguri pe aleile alunecoase.",
+                "en": "Watch out for pedestrians in the park who may be unsteady on icy paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in Ihrem Wischwasser vor der Fahrt durch Ipswich.",
+              "Achten Sie auf vereiste Stellen auf Brücken und in der Nähe des Flusses Orwell.",
+              "Nutzen Sie die Parkhäuser im Stadtzentrum, um Ihr Auto eisfrei zu halten.",
+              "Die Batterie kann bei extremer Kälte leiden; stellen Sie sicher, dass sie geladen ist.",
+              "Ipswich hat im Winter oft dichten Nebel; prüfen Sie Ihre Nebelscheinwerfer."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fagyállót a szélvédőmosó folyadékban.",
+              "Ügyeljen a jegesedésre a hidakon és az Orwell-folyó közeli útszakaszokon.",
+              "Használjon fedett parkolóházat, hogy autója ne fagyjon le a városnézés alatt.",
+              "A hideg megterhelheti az akkumulátort, győződjön meg róla, hogy jó állapotban van.",
+              "Ipswich környékén télen gyakori a köd, ellenőrizze a ködlámpákat."
+            ],
+            "ro": [
+              "Verificați lichidul de parbriz antigel înainte de a porni la drum prin oraș.",
+              "Fiți atenți la gheața de pe poduri și din zonele apropiate de râul Orwell.",
+              "Folosiți parcările etajate pentru a vă păstra mașina ferită de îngheț.",
+              "Bateria mașinii poate fi solicitată de frig; asigurați-vă că este în stare bună.",
+              "Ceața este frecventă iarna în Ipswich; verificați funcționarea farurilor de ceață."
+            ],
+            "en": [
+              "Check your antifreeze levels in the screenwash before driving around Ipswich.",
+              "Be wary of black ice on bridges and roads close to the River Orwell.",
+              "Use multi-storey car parks to keep your vehicle frost-free during your visit.",
+              "Battery performance can drop in cold weather; ensure your car is in top shape.",
+              "Winter fog is common in the area; make sure your fog lights are operational."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1431,6 +2001,196 @@
           "Buses can be crowded during peak school or work hours, so allow extra time.",
           "Be aware of stop names, as some attractions are located between two stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ihr Regentag in Ipswich beginnt bequem im Bus zum Ipswich Museum, wo Sie trocken und direkt am Eingang ankommen. Die viktorianischen Hallen lassen Sie das schlechte Wetter schnell vergessen. \n\nMittags bringt Sie der Bus zum New Wolsey Theatre; ein kurzer Spaziergang unter dem Regenschirm führt Sie in die Welt der Kultur. \n\nDer Nachmittag wird in der Christchurch Mansion verbracht; die Busverbindungen ermöglichen einen schnellen Wechsel zwischen den warmen Ausstellungsräumen und der nächsten Station. \n\nDer Tag endet am Waterfront. Die kurzen Wege von der Bushaltestelle zu den beleuchteten Restaurants am Hafen machen den Abend trotz des Regens zu einem Vergnügen.",
+            "hu": "Az esős nap kényelmesen indul: a busz szinte a múzeum kapujában teszi le, így szárazon érkezik meg Ipswich múltjába. A viktoriánus galériákban észre sem veszi a kinti zivatart. \n\nDélben a busz a New Wolsey Színházhoz repíti; egy rövid esernyős séta után már a kulturális központban pihenhet. \n\nA délután a Christchurch Mansion látogatásával folytatódik; a jó buszközlekedés révén minimális időt kell a szabadban töltenie. \n\nA napot a Waterfronton zárjuk; a buszmegállók közelsége miatt gyorsan bevetheti magát egy hangulatos vízparti étterembe.",
+            "ro": "Ziua ploioasă începe confortabil cu autobuzul spre Muzeul Ipswich, ajungând la uscat chiar lângă intrare. Sălile victoriene vă fac să uitați rapid de vremea urâtă de afară. \n\nLa prânz, transportul public vă duce spre Teatrul New Wolsey; o scurtă plimbare sub umbrelă vă introduce în inima culturală a orașului. \n\nDupă-amiaza este petrecută la conacul Christchurch; conexiunile bune de autobuz permit deplasarea rapidă între spațiile expoziționale încălzite. \n\nZiua se încheie la Waterfront. Distanțele scurte de la stația de autobuz la restaurantele luminate din port fac seara plăcută în ciuda ploii.",
+            "en": "Start your rainy exploration by taking a bus directly to the Ipswich Museum, avoiding the wet streets entirely. The grand galleries offer a perfect dry sanctuary for the morning. \n\nBy midday, a quick transit ride brings you to the New Wolsey Theatre, keeping your exposure to the drizzle to a minimum. \n\nIn the afternoon, head to Christchurch Mansion; the frequent bus services mean you can move from one indoor site to another without getting soaked. \n\nFinish at the Waterfront, where the short walk from the transit stops allows you to quickly settle into a cozy dockside eatery and enjoy the view of the rain on the marina."
+          },
+          "stops": [
+            {
+              "name": "Ipswich Museum (Cluster)",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle direkt davor ist ideal, um trocken ins Museum zu gelangen.",
+                "hu": "A közvetlenül a múzeum előtti megálló tökéletes a száraz érkezéshez.",
+                "ro": "Stația de autobuz chiar din față este ideală pentru a intra uscat în muzeu.",
+                "en": "The bus stop right outside is perfect for getting into the museum dry."
+              }
+            },
+            {
+              "name": "New Wolsey Theatre",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Wartebereich an der Haltestelle Civic Drive.",
+                "hu": "Használja a Civic Drive megálló fedett várakozóhelyét eső esetén.",
+                "ro": "Folosiți zona de așteptare acoperită din stația Civic Drive.",
+                "en": "Take advantage of the sheltered waiting area at the Civic Drive stop."
+              }
+            },
+            {
+              "name": "Christchurch Mansion (Cluster)",
+              "tip_5lang": {
+                "de": "Der Bus hält in der Nähe des Parkeingangs; ein kurzer Sprint führt zur Mansion.",
+                "hu": "A busz a park bejárata közelében áll meg, innen csak egy rövid futás a kastély.",
+                "ro": "Autobuzul oprește aproape de intrarea în parc; un drum scurt vă duce la conac.",
+                "en": "The bus stops near the park gate; it is a short dash through the trees to the Mansion."
+              }
+            },
+            {
+              "name": "St Mary-le-Tower Church",
+              "tip_5lang": {
+                "de": "Die Haltestellen im Zentrum bieten oft guten Schutz vor Wind und Regen.",
+                "hu": "A központi buszmegállók többnyire jól védenek a széltől és az esőtől.",
+                "ro": "Stațiile din centru oferă de obicei o protecție bună împotriva ploii.",
+                "en": "Town centre bus shelters are generally well-positioned to block the wind."
+              }
+            },
+            {
+              "name": "Ipswich Waterfront (Cluster)",
+              "tip_5lang": {
+                "de": "Vom Busknotenpunkt am Old Cattle Market ist es nur ein kurzer Weg zum Hafen.",
+                "hu": "Az Old Cattle Market buszpályaudvartól csak egy rövid séta a kikötő.",
+                "ro": "De la autogara Old Cattle Market este doar un drum scurt până în port.",
+                "en": "It is only a short walk from the Old Cattle Market bus station to the docks."
+              }
+            },
+            {
+              "name": "Willis Building",
+              "tip_5lang": {
+                "de": "Die Haltestellen in der Friars Street liegen direkt gegenüber dem Gebäude.",
+                "hu": "A Friars Street-i megállók közvetlenül az épülettel szemben találhatók.",
+                "ro": "Stațiile de pe Friars Street sunt situate chiar vizavi de clădire.",
+                "en": "The bus stops on Friars Street are located directly opposite the building."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die App der Ipswich Buses herunter, um Live-Ankunftszeiten im Trockenen zu prüfen.",
+              "Der Busbahnhof Tower Ramparts ist zentral und bietet viele überdachte Warteplätze.",
+              "Halten Sie Ihr Ticket oder Ihre Kontaktlos-Karte bereit, um Verzögerungen beim Einsteigen zu vermeiden.",
+              "Busse in Ipswich sind bei Regen oft voll; planen Sie etwas mehr Zeit ein.",
+              "Nutzen Sie die 'Cattle Market' Station für den einfachsten Zugang zum Waterfront-Viertel."
+            ],
+            "hu": [
+              "Töltse le az Ipswich Buses alkalmazást, hogy fedett helyen várhassa meg a járatot.",
+              "A Tower Ramparts buszpályaudvar központi és sok fedett várakozóhelye van.",
+              "Készítse elő jegyét vagy bankkártyáját a gyors felszállás érdekében.",
+              "Esőben a buszok zsúfoltabbak lehetnek, számoljon hosszabb menetidővel.",
+              "Használja a 'Cattle Market' állomást a kikötő leggyorsabb eléréséhez."
+            ],
+            "ro": [
+              "Descărcați aplicația Ipswich Buses pentru a verifica timpii de sosire în timp ce stați la adăpost.",
+              "Autogara Tower Ramparts este centrală și are multe locuri de așteptare acoperite.",
+              "Pregătiți biletul sau cardul contactless pentru a urca rapid în autobuz.",
+              "Autobuzele pot fi mai aglomerate pe ploaie; planificați-vă timpul cu marjă.",
+              "Folosiți stația 'Cattle Market' pentru cel mai facil acces către zona Waterfront."
+            ],
+            "en": [
+              "Download the Ipswich Buses app to track arrivals in real-time from inside a cafe.",
+              "Tower Ramparts bus station is central and offers plenty of undercover waiting space.",
+              "Have your ticket or contactless card ready to speed up boarding during heavy rain.",
+              "Buses in Ipswich can get crowded when it pours; allow extra time for your journey.",
+              "Use the 'Cattle Market' stops for the easiest access to the Waterfront restaurants."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit einer Busfahrt zum Ipswich Museum. Die beheizten Busse sind ein Segen bei den frostigen Außentemperaturen. Drinnen erwartet Sie die faszinierende Geschichte der Stadt. \n\nMittags bringt Sie der Transit zum New Wolsey Theatre. Die kurzen Wege zwischen den Haltestellen halten den Aufenthalt in der winterlichen Kälte kurz. \n\nDer Nachmittag wird in der Christchurch Mansion verbracht; die Fahrt durch die Stadt bietet Ausblicke auf die winterlich geschmückten Straßen von Ipswich. \n\nZum Abendessen am Waterfront ist der Bus die beste Wahl. Während die Sonne früh untergeht, genießen Sie den Blick auf den beleuchteten Hafen, bevor Sie im warmen Transit die Heimreise antreten.",
+            "hu": "A tiszta téli reggel az Ipswich Múzeumba tartó buszon indul. A fűtött járatok igazi áldást jelentenek a fagyos időben. A múzeum falai között pedig megelevenedik a város történelme. \n\nDélben a tömegközlekedés a New Wolsey Színházhoz repíti; a megállók közötti rövid távolságok miatt nem kell sokat a hidegben tartózkodnia. \n\nA délután a Christchurch Mansion meleg termeiben folytatódik; útközben az ablakból csodálhatja az ünnepi díszbe öltözött utcákat. \n\nA Waterfrontra tartó esti utazáshoz a busz a legjobb választás. A korai sötétedésben a kikötő fényei ünnepi hangulatot árasztanak, mielőtt visszatérne a fűtött járatra.",
+            "ro": "O dimineață senină de iarnă începe cu o călătorie spre Muzeul Ipswich. Autobuzele încălzite sunt o binecuvântare în gerul de afară. În interior, vă așteaptă istoria fascinantă a orașului. \n\nLa prânz, transportul public vă duce spre Teatrul New Wolsey; distanțele mici între stații limitează expunerea la frigul iernii. \n\nDupă-amiaza este dedicată conacului Christchurch; drumul prin oraș oferă perspective asupra străzilor decorate festiv. \n\nPentru cina la Waterfront, autobuzul este cea mai bună opțiune. În timp ce soarele apune devreme, vă puteți bucura de portul iluminat înainte de a vă întoarce acasă cu un vehicul cald.",
+            "en": "Kick off a crisp winter day by taking a warm bus to the Ipswich Museum. It is a great way to start the morning without feeling the chill of the frost. \n\nBy midday, transit connects you effortlessly to the New Wolsey Theatre, ensuring you spend more time enjoying the sights and less time walking in the cold wind. \n\nThe afternoon journey to Christchurch Mansion offers a view of Ipswich's winter streets from the comfort of your window seat. \n\nAs the winter sun sets early, head to the Waterfront by bus. The festive marina lights are a beautiful sight, and knowing a warm transit ride awaits for the return journey makes the cold evening much more enjoyable."
+          },
+          "stops": [
+            {
+              "name": "Ipswich Museum (Cluster)",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Bus auf, bevor Sie den kurzen Weg zum Museumseingang gehen.",
+                "hu": "Melegedjen fel a buszon, mielőtt megtenné azt a pár lépést a múzeumig.",
+                "ro": "Încălziți-vă în autobuz înainte de a parcurge drumul scurt spre intrare.",
+                "en": "Thaw out on the bus before making the brief walk to the museum entrance."
+              }
+            },
+            {
+              "name": "New Wolsey Theatre",
+              "tip_5lang": {
+                "de": "Das Theaterfoyer ist beheizt und bietet einen angenehmen Warteplatz.",
+                "hu": "A színház előcsarnoka fűtött, kellemes hely a busz érkezéséig.",
+                "ro": "Foaierul teatrului este încălzit și oferă un loc plăcut de așteptare.",
+                "en": "The theatre foyer is heated and serves as a comfortable spot to wait for your bus."
+              }
+            },
+            {
+              "name": "Christchurch Mansion (Cluster)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte an den Haltestellen in Parknähe.",
+                "hu": "Ügyeljen a csúszós járdákra a park közeli buszmegállókban.",
+                "ro": "Atenție la porțiunile înghețate din stațiile de lângă parc.",
+                "en": "Watch out for icy pavement at the bus stops located near the park entrance."
+              }
+            },
+            {
+              "name": "St Mary-le-Tower Church",
+              "tip_5lang": {
+                "de": "Zentraler Umstiegspunkt; nutzen Sie die Zeit für ein heißes Getränk in der Nähe.",
+                "hu": "Központi átszállóhely; használja ki az időt egy forró italra a közelben.",
+                "ro": "Punct central de transfer; profitați de timp pentru o băutură caldă în apropiere.",
+                "en": "Central transfer point; use the time to grab a hot drink from a nearby cafe."
+              }
+            },
+            {
+              "name": "Ipswich Waterfront (Cluster)",
+              "tip_5lang": {
+                "de": "Abends sind die Haltestellen gut beleuchtet und sicher.",
+                "hu": "Este a megállók jól megvilágítottak és biztonságosak.",
+                "ro": "Seara, stațiile sunt bine iluminate și sigure pentru călători.",
+                "en": "The stops are well-lit and safe for those traveling after dark in winter."
+              }
+            },
+            {
+              "name": "Willis Building",
+              "tip_5lang": {
+                "de": "Der Bus bietet Schutz vor der schneidenden Brise in der Friars Street.",
+                "hu": "A busz védelmet nyújt a Friars Street metsző téli szele ellen.",
+                "ro": "Autobuzul oferă protecție împotriva vântului tăios de pe Friars Street.",
+                "en": "The bus provides a welcome shield from the biting breeze on Friars Street."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können sich bei extremem Winterwetter kurzfristig ändern; App prüfen.",
+              "Die Busse in Ipswich sind im Winter gut beheizt – ideal für Aufwärmpausen.",
+              "Tragen Sie feste Schuhe; die Stufen in den Bussen können bei Schnee rutschig sein.",
+              "Die Tower Ramparts Station ist der beste Ort, um bei Kälte auf Anschlüsse zu warten.",
+              "In der Weihnachtszeit sind die Busse oft festlich geschmückt."
+            ],
+            "hu": [
+              "Szélsőséges téli időjárás esetén a menetrend változhat; ellenőrizze az alkalmazást.",
+              "Az ipswichi buszok télen jól fűtöttek, kiválóan alkalmasak egy kis melegedésre.",
+              "Viseljen stabil lábbelit, mert a buszok lépcsői havas időben csúszósak lehetnek.",
+              "A Tower Ramparts állomás a legjobb hely a csatlakozásra való várakozáshoz.",
+              "A karácsonyi időszakban a buszok gyakran ünnepi díszítést kapnak."
+            ],
+            "ro": [
+              "Orarele se pot schimba în caz de vreme severă; verificați aplicația transportului local.",
+              "Autobuzele din Ipswich sunt bine încălzite iarna – ideale pentru a vă dezgheța.",
+              "Purtați încălțăminte aderentă; treptele autobuzelor pot fi alunecoase iarna.",
+              "Stația Tower Ramparts este cel mai bun loc pentru a aștepta conexiunile în frig.",
+              "În perioada sărbătorilor, autobuzele sunt adesea decorate festiv."
+            ],
+            "en": [
+              "Check the bus app for service alerts if there is heavy frost or snow in the area.",
+              "Ipswich buses are generally well-heated, providing a much-needed break from the cold.",
+              "Wear boots with good grip as bus steps and floors can get slushy and slippery.",
+              "Tower Ramparts bus station is the most sheltered spot for major bus transfers.",
+              "Look out for festive messages on the bus destination screens during December."
+            ]
+          }
+        }
       }
     }
   }

@@ -233,6 +233,152 @@
           "Bring water and snacks as there are few shops.",
           "Check the opening hours of the churches in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Kirche von Herlufmagle Schutz vor dem dänischen Regen. Mittags führt ein kurzer, erfrischender Spaziergang entlang der Susåen unter dem Regenschirm. Nachmittags besichtigen wir die historische Kirche von Tybjerg, bevor wir den Tag gemütlich in einem lokalen Café bei einem heißen Getränk ausklingen lassen. Der Regen verstärkt die grüne Atmosphäre der ländlichen Umgebung.",
+            "hu": "Reggel a Herlufmagle templom belső tere nyújt menedéket a dán eső elől. Délben egy rövid, esernyős séta következik a Susåen-folyó partján, ahol a víz felszíne különleges látványt nyújt. Délután a tybjergi templom csendjét élvezzük, majd egy helyi kávézó melegében zárjuk a napot. Az eső még intenzívebbé teszi a környező vidék zöld színeit.",
+            "ro": "Dimineața, biserica din Herlufmagle oferă adăpost împotriva ploii daneze. La prânz, urmează o scurtă plimbare cu umbrela de-a lungul râului Susåen, admirând reflexiile picăturilor pe apă. După-amiaza vizităm biserica istorică din Tybjerg, iar seara ne retragem într-o cafenea locală pentru o băutură caldă. Ploaia accentuează prospețimea peisajului rural din jur.",
+            "en": "Morning starts with the shelter of Herlufmagle Church during the Danish rain. At noon, a brisk umbrella walk along the Susåen River offers misty views. Afternoon is spent exploring the historic Tybjerg Church before warming up in a local café for the evening. The rain brings out a vibrant green hue in the surrounding countryside, creating a moody, peaceful atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Herlufmagle Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause zur Innenbesichtigung der mittelalterlichen Fresken.",
+                "hu": "Használja ki az esőmentes perceket a középkori freskók megtekintésére.",
+                "ro": "Profitați de pauza de ploaie pentru a vedea frescele medievale din interior.",
+                "en": "Use the rain break to admire the medieval frescoes inside the church."
+              }
+            },
+            {
+              "name": "Walk along the Susåen River",
+              "tip_5lang": {
+                "de": "Wasserdichte Schuhe sind für die unbefestigten Wege am Flussufer ratsam.",
+                "hu": "A folyóparti fövenyes utakhoz vízálló cipő viselése ajánlott.",
+                "ro": "Se recomandă încălțăminte impermeabilă pentru potecile de pe malul râului.",
+                "en": "Waterproof shoes are recommended for the unpaved paths along the riverbank."
+              }
+            },
+            {
+              "name": "Tybjerg Church",
+              "tip_5lang": {
+                "de": "Die massive Steinstruktur bietet einen trockenen Rückzugsort während Schauern.",
+                "hu": "A masszív kőépület száraz menedéket nyújt a záporok idején.",
+                "ro": "Structura masivă de piatră oferă un refugiu uscat în timpul averselor.",
+                "en": "The massive stone structure provides a dry refuge during heavy showers."
+              }
+            },
+            {
+              "name": "Local Café",
+              "tip_5lang": {
+                "de": "Bestellen Sie ein lokales Gebäck zum Aufwärmen nach dem Spaziergang.",
+                "hu": "Rendeljen egy helyi süteményt, hogy felmelegedjen a séta után.",
+                "ro": "Comandați o patiserie locală pentru a vă încălzi după plimbare.",
+                "en": "Order a local pastry to warm up properly after your wet walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke, da der Wind Schirme unbrauchbar machen kann.",
+              "Die Wege an der Susåen können bei Regen schlammig und rutschig sein.",
+              "Prüfen Sie die Öffnungszeiten der Kirchen, da sie ideale Unterstände bieten.",
+              "Ein kleiner Rucksack mit Regenhülle schützt Ihre Habseligkeiten zuverlässig."
+            ],
+            "hu": [
+              "Viseljen jó minőségű esőkabátot, mert a szél tönkreteheti az esernyőt.",
+              "A Susåen melletti utak esőben sárosak és csúszósak lehetnek.",
+              "Ellenőrizze a templomok nyitvatartását, mert ideális menedéket jelentenek.",
+              "Egy esővédő huzattal ellátott hátizsák megvédi az értékeit."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie de calitate, vântul poate distruge umbrelele.",
+              "Potecile de lângă Susåen pot deveni noroioase și alunecoase pe ploaie.",
+              "Verificați orarul bisericilor, deoarece sunt locuri ideale de adăpost.",
+              "Un rucsac cu husă impermeabilă vă va proteja eficient bunurile."
+            ],
+            "en": [
+              "Wear a high-quality raincoat as strong winds can make umbrellas useless.",
+              "River paths along the Susåen can become muddy and slippery when wet.",
+              "Check church opening hours, as they provide perfect indoor shelter.",
+              "A backpack with a rain cover will keep your belongings dry and safe."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt in der kühlen Stille der Kirche von Herlufmagle. Mittags wandern wir durch die frostige Landschaft entlang der Susåen, wo das Eis am Ufer glitzert. Nachmittags besuchen wir die Kirche von Tybjerg, bevor wir vor dem frühen Sonnenuntergang gegen 16:00 Uhr die Wärme eines gemütlichen Cafés aufsuchen. Die kahlen Bäume geben weite Ausblicke auf die flache dänische Landschaft frei.",
+            "hu": "A téli reggel a Herlufmagle templom hűvös csendjében indul. Délben a zúzmarás Susåen-parton sétálunk, ahol a jég csillog a nádasban. Délután a tybjergi templomot érintjük, majd a korai, 16 órai naplemente előtt egy kávézó melegébe húzódunk. A kopár fák között ilyenkor messzebbre ellátni a dán vidéken.",
+            "ro": "Dimineața de iarnă începe în liniștea răcoroasă a bisericii din Herlufmagle. La prânz, ne plimbăm pe malul înghețat al râului Susåen, unde gheața sclipește printre trestii. După-amiaza vizităm biserica din Tybjerg, apoi ne retragem la căldura unei cafenele înainte de apusul devreme de la ora 16:00. Copacii desfrunziți permit vederi largi asupra câmpiei daneze.",
+            "en": "Winter morning starts in the cool silence of Herlufmagle Church. At noon, we hike along the frosty banks of the Susåen, where ice glitters in the reeds. Afternoon includes a visit to Tybjerg Church before retreating to the warmth of a café before the early 4:00 PM sunset. The leafless trees offer wide, clear views across the flat Danish landscape."
+          },
+          "stops": [
+            {
+              "name": "Herlufmagle Church",
+              "tip_5lang": {
+                "de": "Beachten Sie, dass historische Kirchen im Winter oft sehr kühl sind.",
+                "hu": "Vegye figyelembe, hogy a történelmi templomok télen nagyon hűvösek.",
+                "ro": "Rețineți că bisericile istorice sunt adesea foarte răcoroase iarna.",
+                "en": "Be aware that historic churches can be quite chilly during winter months."
+              }
+            },
+            {
+              "name": "Walk along the Susåen River",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Stellen auf den Brücken und am Wasser.",
+                "hu": "Vigyázzon a lefagyott szakaszokra a hidakon és a vízpart mentén.",
+                "ro": "Atenție la porțiunile înghețate de pe poduri și de lângă apă.",
+                "en": "Watch out for icy patches on bridges and near the water's edge."
+              }
+            },
+            {
+              "name": "Tybjerg Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft auf dem erhöht gelegenen Friedhof.",
+                "hu": "Élvezze a tiszta téli levegőt a magasabban fekvő temetőkertben.",
+                "ro": "Bucurați-vă de aerul curat de iarnă în cimitirul situat la înălțime.",
+                "en": "Enjoy the crisp winter air from the elevated graveyard viewpoint."
+              }
+            },
+            {
+              "name": "Local Café",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz am Fenster, um das blaue Winterlicht zu beobachten.",
+                "hu": "Keressen ablak melletti helyet a téli alkonyati fények megtekintéséhez.",
+                "ro": "Căutați un loc la fereastră pentru a observa lumina albastră a iernii.",
+                "en": "Find a seat near the window to enjoy the blue winter twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip mit warmer Wolle.",
+              "Die Sonne geht in Dänemark im Winter bereits gegen 16:00 Uhr unter.",
+              "Nehmen Sie eine Thermoskanne mit Tee für die Pause am Fluss mit.",
+              "Feste Stiefel mit gutem Profil sind bei Frost und Reif notwendig."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen, gyapjú ruhadarabokat használva.",
+              "Dániában télen a nap már 16:00 óra körül lemegy.",
+              "Vigyen magával teát termoszban a folyóparti pihenőhöz.",
+              "A fagyott talajon a bordázott talpú bakancs elengedhetetlen."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, folosind articole din lână călduroasă.",
+              "În Danemarca, soarele apune deja în jurul orei 16:00 iarna.",
+              "Luați un termos cu ceai pentru pauza de pe malul râului.",
+              "Ghetele cu talpă aderentă sunt esențiale pe solul înghețat."
+            ],
+            "en": [
+              "Dress in layers using warm wool or thermal base layers.",
+              "The sun sets as early as 4:00 PM in Denmark during winter.",
+              "Bring a thermos of hot tea for your break by the river.",
+              "Sturdy boots with good grip are necessary for frosty ground."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -515,6 +661,170 @@
           "Bring a reusable water bottle.",
           "Check the weather and dress in layers."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Vormittag beginnt an der Kirche von Herlufmagle, gefolgt von einer Fahrt durch die nasse Landschaft zum Holmegaard Værk. Mittags bietet das Museum mit seinen Glasausstellungen perfekten Schutz. Nachmittags radeln wir trotz Regen entlang der Susåen und besuchen die Herlufsholm Schule. Die dänische Natur wirkt in der Nässe besonders mystisch und ruhig.",
+            "hu": "Esős délelőtt indul a Herlufmagle templomnál, majd a vizes tájon át a Holmegaard Værk felé tekerünk. Délben a múzeum üvegkiállításai tökéletes menedéket adnak. Délután az eső ellenére a Susåen mentén folytatjuk utunkat a Herlufsholm iskoláig. A dán természet ilyenkor különösen misztikus és csendes.",
+            "ro": "O dimineață ploioasă începe la biserica Herlufmagle, urmată de o cursă prin peisajul umed spre Holmegaard Værk. La prânz, expozițiile de sticlă ale muzeului oferă adăpostul perfect. După-amiaza continuăm pe lângă Susåen până la școala Herlufsholm, în ciuda ploii. Natura daneză pare deosebit de mistică și liniștită.",
+            "en": "A rainy morning starts at Herlufmagle Church, followed by a ride through the wet landscape to Holmegaard Værk. At noon, the museum's glass exhibitions provide perfect shelter. In the afternoon, we cycle along the Susåen despite the rain to reach Herlufsholm School. The Danish nature feels particularly mystical and quiet in the damp weather."
+          },
+          "stops": [
+            {
+              "name": "Herlufmagle Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Anlegen der Regenkleidung.",
+                "hu": "Használja a fedett bejáratot az esőruházat kényelmes felvételéhez.",
+                "ro": "Folosiți zona de intrare acoperită pentru a vă pune echipamentul de ploaie.",
+                "en": "Use the covered entrance area to put on your rain gear comfortably."
+              }
+            },
+            {
+              "name": "Holmegaard Værk",
+              "tip_5lang": {
+                "de": "Es gibt ausreichend Platz zum Trocknen nasser Mäntel im Eingangsbereich.",
+                "hu": "A bejáratnál bőséges hely áll rendelkezésre a vizes kabátok szárításához.",
+                "ro": "Există suficient spațiu pentru uscarea hainelor ude la intrare.",
+                "en": "There is plenty of space to dry wet coats near the entrance area."
+              }
+            },
+            {
+              "name": "Lunch near Holmegaard",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Fahrradständern direkt vor der Tür.",
+                "hu": "Válasszon olyan éttermet, ahol közvetlenül az ajtó előtt van kerékpártároló.",
+                "ro": "Alegeți un restaurant cu suporturi de biciclete chiar în fața ușii.",
+                "en": "Choose a restaurant with bike racks located right in front of the entrance."
+              }
+            },
+            {
+              "name": "Ride along the Susåen River",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig, da die Wege am Fluss aufweichen können.",
+                "hu": "Hajtson óvatosan, mert a folyóparti utak felázhatnak.",
+                "ro": "Conduceți cu atenție, deoarece potecile de pe râu se pot înmuia.",
+                "en": "Ride carefully as the river trails can become soft and muddy."
+              }
+            },
+            {
+              "name": "Herlufsholm School",
+              "tip_5lang": {
+                "de": "Die alten Gebäude wirken im Regen besonders atmosphärisch.",
+                "hu": "A régi épületek esőben különösen hangulatos látványt nyújtanak.",
+                "ro": "Clădirile vechi par deosebit de atmosferice în ploaie.",
+                "en": "The old school buildings look exceptionally atmospheric in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um sich vor aufspritzendem Wasser zu schützen.",
+              "Vorsicht auf nassem Laub in Waldstücken, es besteht Rutschgefahr.",
+              "Packen Sie Ersatzsocken und Handschuhe wasserdicht ein.",
+              "Überprüfen Sie Ihre Bremsen, da der Bremsweg auf nasser Fahrbahn länger ist."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó víz és sár ellen.",
+              "Vigyázzon a vizes levelekre az erdős szakaszokon, csúszásveszélyesek.",
+              "Csomagoljon tartalék zoknit és kesztyűt vízhatlan zacskóba.",
+              "Ellenőrizze a fékeket, mert vizes úton hosszabb a féktávolság."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi pentru a vă proteja de apă și noroi.",
+              "Atenție la frunzele ude în zonele împădurite, există risc de alunecare.",
+              "Împachetați șosete și mănuși de rezervă în pungi impermeabile.",
+              "Verificați frânele, deoarece distanța de frânare este mai mare pe carosabil ud."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from splashing water and mud.",
+              "Be careful with wet leaves in forested areas, as they can be slippery.",
+              "Pack spare socks and gloves in a waterproof bag.",
+              "Check your brakes, as stopping distances are longer on wet roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir bei klarer, kalter Luft von der Herlufmagle Kirche zum Holmegaard Værk. Mittags genießen wir die Wärme des Museums und die faszinierende Glaskunst. Nachmittags geht die Fahrt durch die winterliche Landschaft entlang der Susåen weiter, wobei das Licht am Nachmittag oft magisch ist. Die Tour endet bei Einbruch der Dunkelheit an der beeindruckenden Herlufsholm Schule.",
+            "hu": "Reggel a tiszta, hideg levegőben tekerünk a Herlufmagle templomtól a Holmegaard Værkig. Délben a múzeum melegét és a lenyűgöző üvegművészetet élvezzük. Délután a Susåen menti téli tájban folytatjuk utunkat, ahol a délutáni fények gyakran varázslatosak. A túra a sötétedés beálltával az impozáns Herlufsholm iskolánál ér véget.",
+            "ro": "Dimineața pedalăm în aerul rece și curat de la biserica Herlufmagle la Holmegaard Værk. La prânz ne bucurăm de căldura muzeului și de arta fascinantă a sticlei. După-amiaza, călătoria continuă prin peisajul de iarnă de-a lungul râului Susåen, unde lumina este adesea magică. Turul se încheie la lăsarea întunericului la impresionanta școală Herlufsholm.",
+            "en": "In the morning, we cycle through the crisp, cold air from Herlufmagle Church to Holmegaard Værk. At noon, we enjoy the warmth of the museum and its fascinating glass art. In the afternoon, the ride continues through the winter landscape along the Susåen, where the light is often magical. The tour ends as darkness falls at the impressive Herlufsholm School."
+          },
+          "stops": [
+            {
+              "name": "Herlufmagle Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen im Vorraum ist möglich.",
+                "hu": "Egy rövid melegedő pihenő a templom előterében lehetséges.",
+                "ro": "O scurtă oprire pentru încălzire în vestibul este posibilă.",
+                "en": "A short warm-up break in the church vestibule is possible."
+              }
+            },
+            {
+              "name": "Holmegaard Værk",
+              "tip_5lang": {
+                "de": "Die Glasöfen strahlen auch im Winter eine angenehme Wärme aus.",
+                "hu": "Az üvegfúvó kemencék télen is kellemes meleget árasztanak.",
+                "ro": "Cuptoarele de sticlă emană o căldură plăcută chiar și iarna.",
+                "en": "The glass furnaces radiate a pleasant warmth even during winter."
+              }
+            },
+            {
+              "name": "Lunch near Holmegaard",
+              "tip_5lang": {
+                "de": "Eine heiße Suppe ist die ideale Stärkung für die Weiterfahrt.",
+                "hu": "Egy forró leves ideális energiapótlás a továbbhaladáshoz.",
+                "ro": "O supă fierbinte este energizarea ideală pentru continuarea drumului.",
+                "en": "A hot soup is the ideal fuel for the rest of your winter ride."
+              }
+            },
+            {
+              "name": "Ride along the Susåen River",
+              "tip_5lang": {
+                "de": "Vorsicht vor Windböen, die auf den freien Flächen kälter wirken.",
+                "hu": "Vigyázzon a széllökésekre, amelyek a nyílt terepen hidegebbnek hatnak.",
+                "ro": "Atenție la rafalele de vânt, care par mai reci în zonele deschise.",
+                "en": "Watch out for wind gusts, which feel much colder in open areas."
+              }
+            },
+            {
+              "name": "Herlufsholm School",
+              "tip_5lang": {
+                "de": "Sorgen Sie für gute Beleuchtung, da es früh dunkel wird.",
+                "hu": "Gondoskodjon a jó világításról, mert korán sötétedik.",
+                "ro": "Asigurați o iluminare bună, deoarece se întunecă devreme.",
+                "en": "Ensure you have good bike lights as it gets dark very early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme, winddichte Handschuhe und Überschuhe.",
+              "Vermeiden Sie starkes Schwitzen, um nicht auszukühlen.",
+              "Die Radwege können im Winter stellenweise glatt sein.",
+              "Ein Multifunktionstuch schützt das Gesicht vor eisigem Fahrtwind."
+            ],
+            "hu": [
+              "Viseljen meleg, szélálló kesztyűt és kamáslit.",
+              "Kerülje az erős izzadást, hogy ne hűljön le később.",
+              "A kerékpárutak télen helyenként csúszósak lehetnek.",
+              "Egy csősál megvédi az arcát a jeges menetszéltől."
+            ],
+            "ro": [
+              "Purtați mănuși călduroase, rezistente la vânt și huse pentru pantofi.",
+              "Evitați transpirația excesivă pentru a nu vă răci ulterior.",
+              "Pistele de biciclete pot fi alunecoase pe alocuri iarna.",
+              "O eșarfă multifuncțională protejează fața de vântul înghețat."
+            ],
+            "en": [
+              "Wear warm, windproof gloves and cycling shoe covers.",
+              "Avoid excessive sweating to prevent getting chilled later.",
+              "Cycle paths can be slippery in patches during winter.",
+              "A neck gaiter or buff protects your face from icy winds."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -861,6 +1171,206 @@
           "Plan for extra time for traffic on country roads.",
           "The car gives you the flexibility to also discover smaller, remote places."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag ist ideal für eine Schlössertour per Auto. Morgens erkunden wir die prunkvollen Innenräume von Schloss Gavnø. Mittags besuchen wir das Holmegaard Værk Museum, gefolgt von einem Lunch im Trockenen. Nachmittags steht das beeindruckende Gisselfeld Kloster auf dem Programm, wo wir die Architektur ohne nass zu werden bewundern können. Die Fahrt durch die grüne, dänische Landschaft ist auch bei Regen entspannend.",
+            "hu": "Az esős idő ideális egy autós kastélytúrához. Reggel a Gavnø-kastély díszes termeit fedezzük fel. Délben a Holmegaard Værk múzeumba látogatunk, majd száraz helyen ebédelünk. Délután a lenyűgöző Gisselfeld kolostor következik, ahol az építészetet anélkül csodálhatjuk meg, hogy eláznánk. Az utazás a zöld dán tájon át esőben is pihentető.",
+            "ro": "O zi ploioasă este ideală pentru un tur al castelelor cu mașina. Dimineața explorăm sălile fastuoase ale Castelului Gavnø. La prânz vizităm muzeul Holmegaard Værk, urmat de un prânz la adăpost. După-amiaza este programată impresionanta mănăstire Gisselfeld, unde putem admira arhitectura fără a ne uda. Drumul prin peisajul verde danez este relaxant chiar și pe ploaie.",
+            "en": "A rainy day is perfect for a castle tour by car. In the morning, we explore the opulent interiors of Gavnø Castle. At noon, we visit the Holmegaard Værk museum, followed by a dry lunch. In the afternoon, the impressive Gisselfeld Abbey is on the program, where we can admire the architecture without getting wet. Driving through the green Danish countryside is relaxing even in the rain."
+          },
+          "stops": [
+            {
+              "name": "Gavnø Castle",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Weg im Regen kurzzuhalten.",
+                "hu": "Parkoljon közel a bejárathoz, hogy lerövidítse az utat az esőben.",
+                "ro": "Parcați aproape de intrare pentru a scurta drumul prin ploaie.",
+                "en": "Park close to the entrance to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Walk in the Castle Park",
+              "tip_5lang": {
+                "de": "Ein Schirm ist für die kurzen Wege zwischen den Gebäuden nötig.",
+                "hu": "Az épületek közötti rövid utakhoz esernyő szükséges.",
+                "ro": "O umbrelă este necesară pentru distanțele scurte dintre clădiri.",
+                "en": "An umbrella is necessary for the short distances between buildings."
+              }
+            },
+            {
+              "name": "Holmegaard Værk",
+              "tip_5lang": {
+                "de": "Perfektes Ziel bei Dauerregen mit großen Innenflächen.",
+                "hu": "Tökéletes célpont tartós esőben a nagy belső terek miatt.",
+                "ro": "Destinație perfectă în caz de ploaie continuă datorită spațiilor mari.",
+                "en": "A perfect destination during continuous rain with large indoor areas."
+              }
+            },
+            {
+              "name": "Lunch at the Museum Café",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verregnete Natur aus dem Warmen.",
+                "hu": "Élvezze a kilátást az esős természetre a meleg belső térből.",
+                "ro": "Bucurați-vă de vederea naturii ploiase din interiorul călduros.",
+                "en": "Enjoy the view of the rainy nature from the warm indoor café."
+              }
+            },
+            {
+              "name": "Gisselfeld Abbey",
+              "tip_5lang": {
+                "de": "Die Innenausstattung ist ein Highlight an grauen Tagen.",
+                "hu": "A belső berendezés igazi fénypont a szürke napokon.",
+                "ro": "Amenajările interioare sunt un punct forte în zilele gri.",
+                "en": "The interior furnishings are a true highlight on grey days."
+              }
+            },
+            {
+              "name": "View from the Paradehuset",
+              "tip_5lang": {
+                "de": "Das Gewächshaus bietet exotische Pflanzen und Schutz vor Regen.",
+                "hu": "Az üvegház egzotikus növényeket és védelmet nyújt az eső elől.",
+                "ro": "Sera oferă plante exotice și protecție împotriva ploii.",
+                "en": "The greenhouse offers exotic plants and protection from the rain."
+              }
+            },
+            {
+              "name": "Villa Galina",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort für einen Kaffee am späten Nachmittag.",
+                "hu": "Hangulatos hely egy délutáni kávéhoz esős időben.",
+                "ro": "Un loc primitor pentru o cafea după-amiaza târziu.",
+                "en": "A cozy spot for an afternoon coffee during rainy weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze direkt bei den Sehenswürdigkeiten.",
+              "Lassen Sie nasse Schirme im Kofferraum, um die Sicht nicht zu behindern.",
+              "Die Landstraßen können bei starkem Regen Aquaplaning-Gefahr bieten.",
+              "Schlösser haben oft Garderoben für nasse Kleidung."
+            ],
+            "hu": [
+              "Használja a látnivalók közvetlen közelében lévő parkolókat.",
+              "A vizes esernyőt a csomagtartóban tárolja a pára elkerülése végett.",
+              "Az országutakon heves esőzéskor fennáll a vízenfutás veszélye.",
+              "A kastélyokban gyakran van ruhatár a vizes kabátoknak."
+            ],
+            "ro": [
+              "Folosiți parcările situate chiar lângă obiectivele turistice.",
+              "Lăsați umbrelele ude în portbagaj pentru a nu aburi geamurile.",
+              "Drumurile naționale pot prezenta risc de acvaplanare la ploaie torențială.",
+              "Castelele au adesea garderobe pentru hainele ude."
+            ],
+            "en": [
+              "Utilize the parking lots located directly at the attractions.",
+              "Keep wet umbrellas in the trunk to prevent windows from fogging up.",
+              "Be aware of aquaplaning risks on rural roads during heavy rain.",
+              "Castles often have cloakrooms where you can leave wet clothing."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt führt uns morgens zum Schloss Gavnø, das in der klaren Kälte majestätisch wirkt. Mittags besuchen wir das Holmegaard Værk, wo die Glasherstellung eine warme Atmosphäre schafft. Nachmittags geht es zum Gisselfeld Kloster und zum Paradehuset, einem warmen Refugium mit grünen Pflanzen. Der Tag endet bei einsetzender Dunkelheit an der Villa Galina, während wir die beleuchtete Winterlandschaft genießen.",
+            "hu": "A téli autós utazás reggel a Gavnø-kastélyhoz vezet, amely méltóságteljes a hidegben. Délben a Holmegaard Værkbe látogatunk, ahol az üveggyártás meleg hangulatot áraszt. Délután a Gisselfeld kolostor és a Paradehuset üvegháza következik, amely zöld menedék a télben. A nap a Villa Galinánál zárul, miközben a kivilágított téli tájat csodáljuk.",
+            "ro": "O călătorie de iarnă cu mașina ne duce dimineața la Castelul Gavnø, care arată maiestuos în frigul clar. La prânz vizităm Holmegaard Værk, unde fabricarea sticlei creează o atmosferă caldă. După-amiaza mergem la mănăstirea Gisselfeld și la Paradehuset, un refugiu cald cu plante verzi. Ziua se încheie la Villa Galina, admirând peisajul luminat de iarnă.",
+            "en": "A winter drive takes us to Gavnø Castle in the morning, which looks majestic in the crisp cold. At noon, we visit Holmegaard Værk, where the glassmaking creates a warm atmosphere. In the afternoon, we head to Gisselfeld Abbey and the Paradehuset, a warm refuge with green plants. The day ends at Villa Galina as we enjoy the illuminated winter scenery."
+          },
+          "stops": [
+            {
+              "name": "Gavnø Castle",
+              "tip_5lang": {
+                "de": "Die Innenräume sind im Winter oft stimmungsvoll beleuchtet.",
+                "hu": "A belső tereket télen gyakran hangulatosan világítják meg.",
+                "ro": "Interioarele sunt adesea iluminate atmosferic iarna.",
+                "en": "The interiors are often atmospheric and beautifully lit in winter."
+              }
+            },
+            {
+              "name": "Walk in the Castle Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die frostigen Gärten vom Schlosstor aus.",
+                "hu": "Élvezze a zúzmarás kertek látványát a kastélykapuból.",
+                "ro": "Bucurați-vă de vederea grădinilor înghețate de la poarta castelului.",
+                "en": "Enjoy the view of the frosty gardens from the castle gate."
+              }
+            },
+            {
+              "name": "Holmegaard Værk",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um der Kälte für einige Stunden zu entfliehen.",
+                "hu": "Ideális hely, hogy néhány órára elmeneküljön a hideg elől.",
+                "ro": "Un loc ideal pentru a scăpa de frig timp de câteva ore.",
+                "en": "An ideal place to escape the biting cold for a few hours."
+              }
+            },
+            {
+              "name": "Lunch at the Museum Café",
+              "tip_5lang": {
+                "de": "Probieren Sie typisch dänische Winterspezialitäten.",
+                "hu": "Kóstolja meg a tipikus dán téli különlegességeket.",
+                "ro": "Gustați specialități tipice daneze de iarnă.",
+                "en": "Try some typical Danish winter specialties for lunch."
+              }
+            },
+            {
+              "name": "Gisselfeld Abbey",
+              "tip_5lang": {
+                "de": "Das Kloster wirkt in der kargen Winterlandschaft sehr imposant.",
+                "hu": "A kolostor nagyon impozáns a kopár téli tájban.",
+                "ro": "Mănăstirea arată foarte impunător în peisajul arid de iarnă.",
+                "en": "The abbey looks very imposing in the barren winter landscape."
+              }
+            },
+            {
+              "name": "View from the Paradehuset",
+              "tip_5lang": {
+                "de": "Im Winter ist dies der wärmste und grünste Ort der Tour.",
+                "hu": "Télen ez a túra legmelegebb és legzöldebb pontja.",
+                "ro": "Iarna, acesta este cel mai cald și mai verde loc al turului.",
+                "en": "In winter, this is the warmest and greenest spot on the tour."
+              }
+            },
+            {
+              "name": "Villa Galina",
+              "tip_5lang": {
+                "de": "Die Lichter am Gebäude sorgen für eine gemütliche Abendstimmung.",
+                "hu": "Az épület fényei meghitt esti hangulatot árasztanak.",
+                "ro": "Luminile clădirii creează o atmosferă primitoare de seară.",
+                "en": "The building's lights create a cozy evening atmosphere."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Winterreifen und Eiskratzer im Auto.",
+              "Die Landstraßen können bei Frost sehr glatt sein.",
+              "Nutzen Sie die Sitzheizung für zusätzlichen Komfort zwischen den Stopps.",
+              "Beachten Sie die verkürzten Öffnungszeiten mancher Schlösser im Winter."
+            ],
+            "hu": [
+              "Ügyeljen a téli gumikra és a jégkaparóra az autóban.",
+              "Az országutak fagy esetén nagyon csúszósak lehetnek.",
+              "Használja az ülésfűtést a kényelemért a megállók között.",
+              "Ügyeljen egyes kastélyok rövidített téli nyitvatartására."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți anvelope de iarnă și racletă în mașină.",
+              "Drumurile naționale pot fi foarte alunecoase în caz de îngheț.",
+              "Folosiți încălzirea în scaune pentru confort între opriri.",
+              "Respectați programul redus de iarnă al unor castele."
+            ],
+            "en": [
+              "Ensure your car has winter tires and an ice scraper.",
+              "Rural roads can be very slippery during frosty weather.",
+              "Use the seat heating for extra comfort between stops.",
+              "Be aware of shortened winter opening hours for some castles."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1100,6 +1610,170 @@
           "A day pass is often cheaper than single tickets.",
           "Be mindful of the last bus connection back to Herlufmagle."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens nehmen wir den Bus zur Herlufmagle Kirche, die Schutz vor dem Regen bietet. Mittags geht es mit dem ÖPNV zum Holmegaard Værk, wo die Ausstellungen im Trockenen erkundet werden können. Nach einem Lunch fahren wir zur Herlufsholm Schule. Ein kurzer Spaziergang entlang der Susåen in Næstved schließt den Tag ab, wobei die Busverbindungen das Warten im Regen minimieren.",
+            "hu": "Reggel busszal utazunk a Herlufmagle templomhoz, amely védelmet nyújt az eső elől. Délben tömegközlekedéssel megyünk a Holmegaard Værkhez, ahol szárazon nézhetjük meg a kiállításokat. Ebéd után a Herlufsholm iskolához utazunk. A napot egy rövid Susåen menti séta zárja Næstvedben, a buszjáratok pedig minimalizálják az esőben való várakozást.",
+            "ro": "Dimineața luăm autobuzul spre biserica Herlufmagle, care oferă protecție împotriva ploii. La prânz mergem cu transportul public la Holmegaard Værk, unde expozițiile pot fi explorate la uscat. După prânz, mergem la școala Herlufsholm. Ziua se încheie cu o scurtă plimbare pe lângă Susåen în Næstved, conexiunile de autobuz minimizând așteptarea în ploaie.",
+            "en": "In the morning, we take the bus to Herlufmagle Church, which offers shelter from the rain. At noon, we travel by public transport to Holmegaard Værk to explore the exhibitions while staying dry. After lunch, we take the bus to Herlufsholm School. The day concludes with a short walk along the Susåen in Næstved, with bus schedules timed to minimize waiting in the rain."
+          },
+          "stops": [
+            {
+              "name": "Herlufmagle Church",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nur wenige Gehminuten entfernt.",
+                "hu": "A buszmegálló mindössze néhány perc sétára található.",
+                "ro": "Stația de autobuz este la doar câteva minute de mers pe jos.",
+                "en": "The bus stop is located just a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Holmegaard Værk",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch passend zu den Busabfahrtszeiten.",
+                "hu": "Tervezze a látogatást a busz indulási idejéhez igazítva.",
+                "ro": "Planificați vizita în funcție de orele de plecare ale autobuzului.",
+                "en": "Plan your visit to coincide with the bus departure times."
+              }
+            },
+            {
+              "name": "Lunch nearby",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal in der Nähe der Haltestelle.",
+                "hu": "Válasszon egy helyet a buszmegálló közelében.",
+                "ro": "Alegeți un local situat aproape de stația de autobuz.",
+                "en": "Choose a dining spot located close to the bus stop."
+              }
+            },
+            {
+              "name": "Herlufsholm School",
+              "tip_5lang": {
+                "de": "Der Weg vom Bus zur Schule führt durch eine schöne Allee.",
+                "hu": "A busztól az iskoláig vezető út egy szép fasoron visz keresztül.",
+                "ro": "Drumul de la autobuz la școală trece printr-o alee frumoasă.",
+                "en": "The path from the bus to the school leads through a lovely alley."
+              }
+            },
+            {
+              "name": "Walk along Susåen in Næstved",
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour am Bahnhof für eine trockene Heimreise.",
+                "hu": "Zárja a túrát a vasútállomáson a száraz hazatérés érdekében.",
+                "ro": "Încheiați turul la gară pentru o călătorie spre casă uscată.",
+                "en": "End the tour at the train station for a dry journey home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Rejseplanen' für Echtzeit-Infos bei Regen.",
+              "Suchen Sie überdachte Haltestellen für die Wartezeit.",
+              "Ein Regenschirm ist für die Wege zwischen Haltestelle und Ziel nötig.",
+              "Achten Sie auf mögliche Verspätungen bei starkem Regen."
+            ],
+            "hu": [
+              "Használja a 'Rejseplanen' alkalmazást az élő információkért.",
+              "Keressen fedett megállókat a várakozási időhöz.",
+              "Esernyőre szükség lesz a megálló és a célpont közötti úton.",
+              "Ügyeljen a heves esőzés miatti esetleges késésekre."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Rejseplanen' pentru informații în timp real.",
+              "Căutați stații acoperite pentru timpul de așteptare.",
+              "O umbrelă este necesară pentru drumul dintre stație și destinație.",
+              "Atenție la posibilele întârzieri cauzate de ploaia torențială."
+            ],
+            "en": [
+              "Use the 'Rejseplanen' app for real-time transit info during rain.",
+              "Look for covered bus shelters while waiting for your connection.",
+              "An umbrella is needed for the walk between the stop and attractions.",
+              "Be aware of potential transit delays during heavy rainstorms."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am Wintermorgen bringt uns der Bus zur Herlufmagle Kirche, wo wir die Stille genießen. Mittags fahren wir zum Holmegaard Værk, einem warmen Ort voller Geschichte. Nachmittags geht es weiter zur Herlufsholm Schule, deren Gebäude im Winterlicht beeindrucken. Der Tag endet mit einem kurzen Gang an der Susåen in Næstved, bevor wir uns in den beheizten Zug oder Bus für die Rückreise begeben.",
+            "hu": "Téli reggelen busz visz a Herlufmagle templomhoz, ahol élvezzük a csendet. Délben a Holmegaard Værkbe utazunk, amely meleg és történelemmel teli hely. Délután a Herlufsholm iskola következik, melynek épületei lenyűgözőek a téli fényben. A nap Næstvedben a Susåen-parti sétával zárul, mielőtt felszállnánk a fűtött vonatra vagy buszra.",
+            "ro": "În dimineața de iarnă, autobuzul ne duce la biserica Herlufmagle, unde ne bucurăm de liniște. La prânz mergem la Holmegaard Værk, un loc cald și plin de istorie. După-amiaza urmează școala Herlufsholm, ale cărei clădiri sunt impresionante în lumina iernii. Ziua se încheie cu o plimbare pe lângă Susåen în Næstved, înainte de a urca în trenul sau autobuzul încălzit.",
+            "en": "On a winter morning, the bus takes us to Herlufmagle Church where we enjoy the peace. At noon, we travel to Holmegaard Værk, a warm place full of history. In the afternoon, we visit Herlufsholm School, its buildings looking impressive in the winter light. The day ends with a short walk along the Susåen in Næstved before boarding the heated train or bus for the return trip."
+          },
+          "stops": [
+            {
+              "name": "Herlufmagle Church",
+              "tip_5lang": {
+                "de": "Im Bus ist es angenehm warm im Vergleich zur Außenluft.",
+                "hu": "A buszon kellemes meleg van a kinti levegőhöz képest.",
+                "ro": "În autobuz este plăcut și cald comparativ cu aerul de afară.",
+                "en": "The bus is comfortably warm compared to the cold outside air."
+              }
+            },
+            {
+              "name": "Holmegaard Værk",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum vollständigen Aufwärmen.",
+                "hu": "Használja ki a múzeumlátogatást a teljes felmelegedéshez.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi complet.",
+                "en": "Use the museum visit to fully warm up from the cold."
+              }
+            },
+            {
+              "name": "Lunch nearby",
+              "tip_5lang": {
+                "de": "Ein warmes Getränk verkürzt die Wartezeit auf den nächsten Bus.",
+                "hu": "Egy meleg ital lerövidíti a várakozási időt a következő buszig.",
+                "ro": "O băutură caldă scurtează timpul de așteptare pentru următorul autobuz.",
+                "en": "A warm drink makes the wait for the next bus feel shorter."
+              }
+            },
+            {
+              "name": "Herlufsholm School",
+              "tip_5lang": {
+                "de": "Die Anlage ist im Winter oft weniger besucht und sehr ruhig.",
+                "hu": "A terület télen gyakran kevésbé látogatott és nagyon csendes.",
+                "ro": "Zona este adesea mai puțin vizitată și foarte liniștită iarna.",
+                "en": "The site is often less crowded and very peaceful in winter."
+              }
+            },
+            {
+              "name": "Walk along Susåen in Næstved",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Fahrplan, um nicht im Dunkeln zu warten.",
+                "hu": "Ügyeljen a menetrendre, hogy ne kelljen a sötétben várnia.",
+                "ro": "Verificați mersul autobuzelor pentru a nu aștepta în întuneric.",
+                "en": "Check the schedule to avoid waiting in the dark for your ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Schuhe, da das Stehen an Haltestellen auskühlen kann.",
+              "Die Busse in Dänemark sind im Winter gut beheizt.",
+              "Prüfen Sie den Winterfahrplan, da es Abweichungen geben kann.",
+              "Nehmen Sie Reflektoren mit, um an dunklen Haltestellen gesehen zu werden."
+            ],
+            "hu": [
+              "Viseljen meleg cipőt, mert a megállókban való várakozás lehűtheti.",
+              "A dániai buszok télen jól fűtöttek.",
+              "Ellenőrizze a téli menetrendet az esetleges eltérések miatt.",
+              "Vigyen magával fényvisszaverőt, hogy látható legyen a sötét megállókban."
+            ],
+            "ro": [
+              "Purtați încălțăminte călduroasă, așteptarea în stații poate fi rece.",
+              "Autobuzele din Danemarca sunt bine încălzite iarna.",
+              "Verificați orarul de iarnă pentru eventuale modificări.",
+              "Luați elemente reflectorizante pentru a fi vizibili în stațiile întunecate."
+            ],
+            "en": [
+              "Wear very warm shoes, as waiting at stops can lead to cold feet.",
+              "Buses in Denmark are generally well-heated during winter.",
+              "Check the winter schedule for any seasonal changes or deviations.",
+              "Carry reflectors so bus drivers can see you at dark stops."
+            ]
+          }
+        }
       }
     }
   }

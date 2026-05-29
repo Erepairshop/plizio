@@ -286,6 +286,170 @@
           "Check the opening times of museums in advance, as they can vary.",
           "A walk along the Trent and Mersey Canal offers a different perspective of the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Potteries Museum, einem idealen Zufluchtsort vor dem Regen. Nach einem kurzen Spaziergang zur Bethesda Chapel genießen Sie ein gemütliches Mittagessen in Hanley. Den Nachmittag verbringen Sie in der Middleport Pottery, wo Sie die Industriegeschichte im Trockenen erleben können. Ein Tag voller Kultur, perfekt geschützt vor britischem Wetter.",
+            "hu": "Kezdje a napot a Potteries Múzeumban, amely tökéletes menedék az eső elől. Egy rövid séta után a Bethesda kápolnához, élvezze a meleg ebédet Hanley-ben. A délutánt a Middleport Pottery fedett műhelyeiben töltjük, ahol testközelből láthatja a kerámiagyártást. Tartalmas kulturális program, ahol az eső sem akadály.",
+            "ro": "Începeți ziua la Muzeul Potteries, un refugiu ideal împotriva ploii. După o scurtă plimbare spre Capela Bethesda, savurați un prânz cald în Hanley. Petreceți după-amiaza la Middleport Pottery, explorând atelierele acoperite și istoria industrială. O zi plină de cultură, perfect protejată de vremea britanică tipică.",
+            "en": "Start your day at the Potteries Museum, an ideal refuge from the rain. After a short dash to Bethesda Chapel, enjoy a cozy lunch in Hanley's indoor spots. Spend the afternoon at Middleport Pottery, where you can explore industrial heritage while staying dry. A day of culture, perfectly shielded from the damp British weather."
+          },
+          "stops": [
+            {
+              "name": "Potteries Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Große Garderobe vorhanden, ideal um nasse Mäntel und Schirme abzugeben.",
+                "hu": "Tágas ruhatár áll rendelkezésre az esernyők és vizes kabátok számára.",
+                "ro": "Garderobă spațioasă disponibilă pentru haine ude și umbrele.",
+                "en": "Spacious cloakroom available to drop off wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Bethesda Chapel",
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtige Decke, während Sie sich kurz unterstellen.",
+                "hu": "Csodálja meg a mennyezetet, miközben kicsit védve van az esőtől.",
+                "ro": "Admirați tavanul magnific în timp ce vă adăpostiți pentru scurt timp.",
+                "en": "Admire the magnificent ceiling while taking a brief shelter from the rain."
+              }
+            },
+            {
+              "name": "Lunch in Hanley",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café im Potteries Centre für einen komplett trockenen Aufenthalt.",
+                "hu": "Válasszon egy kávézót a Potteries Centre-ben a garantáltan száraz pihenőhöz.",
+                "ro": "Alegeți o cafenea în Potteries Centre pentru o pauză complet uscată.",
+                "en": "Choose a café in the Potteries Centre for a completely dry break."
+              }
+            },
+            {
+              "name": "Hanley Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die asphaltierten Wege, um Schlamm zu vermeiden.",
+                "hu": "Használja az aszfaltozott utakat, hogy elkerülje a sarat.",
+                "ro": "Folosiți aleile asfaltate pentru a evita noroiul.",
+                "en": "Stick to the paved paths to avoid mud during your walk."
+              }
+            },
+            {
+              "name": "Middleport Pottery",
+              "tip_5lang": {
+                "de": "Die Tour findet größtenteils im Inneren der historischen Gebäude statt.",
+                "hu": "A túra nagy része a történelmi épületek belsejében zajlik.",
+                "ro": "Turul se desfășoară în mare parte în interiorul clădirilor istorice.",
+                "en": "The tour takes place mostly inside the historic buildings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Innenstadt von Hanley hat viele überdachte Passagen.",
+              "Tragen Sie wasserfeste Schuhe für den Weg zwischen den Museen.",
+              "Die meisten Töpfereien haben exzellente Indoor-Cafés.",
+              "Nutzen Sie die App des öffentlichen Nahverkehrs für kurze Regenschauer."
+            ],
+            "hu": [
+              "Hanley belvárosa sok fedett átjáróval rendelkezik.",
+              "Viseljen vízálló cipőt a múzeumok közötti szakaszokon.",
+              "A legtöbb fazekasműhely kiváló beltéri kávézóval várja.",
+              "Rövid záporok idején használja a helyi buszokat a szakaszok áthidalására."
+            ],
+            "ro": [
+              "Centrul orașului Hanley are multe pasaje acoperite.",
+              "Purtați încălțăminte impermeabilă pentru traseele dintre muzee.",
+              "Majoritatea atelierelor de ceramică au cafenele interioare excelente.",
+              "Folosiți transportul public pentru a evita ploile scurte."
+            ],
+            "en": [
+              "Hanley city center has many covered walkways.",
+              "Wear waterproof shoes for the walks between museums.",
+              "Most potteries have excellent indoor cafes to dry off.",
+              "Use a local bus app to bridge distances during heavy downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das industrielle Erbe im winterlichen Glanz. Morgens wärmen Sie sich in den Galerien auf, mittags genießen Sie lokale Spezialitäten in Hanley. Der kurze Spaziergang durch den frostigen Hanley Park führt Sie zur Middleport Pottery. Da es früh dunkel wird, endet der Tag in der gemütlichen Atmosphäre der historischen Werkstätten.",
+            "hu": "Fedezze fel az ipari örökséget téli fényekben. Reggel a galériákban melegedhet fel, délben kóstolja meg a helyi zablepényt Hanley-ben. A fagyos Hanley Parkon át vezető rövid séta után a Middleport Pottery várja. A korai sötétedés miatt a nap a történelmi műhelyek hangulatos fényeiben ér véget.",
+            "ro": "Explorați moștenirea industrială sub lumina iernii. Dimineața vă încălziți în galerii, iar la prânz savurați specialități locale în Hanley. O scurtă plimbare prin parcul Hanley înghețat vă duce spre Middleport Pottery. Deoarece se întunecă devreme, ziua se încheie în atmosfera primitoare a atelierelor.",
+            "en": "Explore industrial heritage in winter's glow. Warm up in the galleries in the morning, and enjoy local oatcakes in Hanley for lunch. A crisp walk through Hanley Park leads you to Middleport Pottery. As darkness falls early, the day ends in the cozy atmosphere of the historic workshops."
+          },
+          "stops": [
+            {
+              "name": "Potteries Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme bei den Schätzen des Staffordshire Hoard.",
+                "hu": "Élvezze a meleget a Staffordshire-i kincs megtekintése közben.",
+                "ro": "Bucurați-vă de căldură în timp ce vedeți tezaurul din Staffordshire.",
+                "en": "Enjoy the warmth while viewing the Staffordshire Hoard treasures."
+              }
+            },
+            {
+              "name": "Bethesda Chapel",
+              "tip_5lang": {
+                "de": "Warme Kleidung empfohlen, da die Kapelle kühl sein kann.",
+                "hu": "Meleg ruházat ajánlott, mert a kápolna hűvös lehet.",
+                "ro": "Se recomandă haine groase, deoarece capela poate fi răcoroasă.",
+                "en": "Warm clothing recommended as the chapel interior can be chilly."
+              }
+            },
+            {
+              "name": "Lunch in Hanley",
+              "tip_5lang": {
+                "de": "Probieren Sie heiße Staffordshire Oatcakes zum Aufwärmen.",
+                "hu": "Kóstolja meg a forró staffordshire-i zablepényt az átmelegedéshez.",
+                "ro": "Încercați clătitele de ovăz fierbinți din Staffordshire pentru a vă încălzi.",
+                "en": "Try hot Staffordshire oatcakes to warm up during lunch."
+              }
+            },
+            {
+              "name": "Hanley Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei Frost auf den Gehwegen im Park.",
+                "hu": "Vigyázzon a parki utakon az esetleges jegesedés miatt.",
+                "ro": "Atenție la polei pe aleile din parc în zilele geroase.",
+                "en": "Take care on park paths which can be slippery if frosty."
+              }
+            },
+            {
+              "name": "Middleport Pottery",
+              "tip_5lang": {
+                "de": "Der Shop bietet tolle Weihnachtsgeschenke aus lokaler Produktion.",
+                "hu": "A bolt kiváló helyi készítésű karácsonyi ajándékokat kínál.",
+                "ro": "Magazinul oferă cadouri de Crăciun excelente, produse local.",
+                "en": "The shop offers great locally-made Christmas gifts."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Museen sind die besten Orte, um der Kälte zu entfliehen.",
+              "Tragen Sie mehrere Schichten für den Wechsel zwischen Drinnen und Draußen.",
+              "Besuchen Sie die Weihnachtsmärkte, falls diese saisonal stattfinden."
+            ],
+            "hu": [
+              "Decemberben a nap már délután 4 körül lemegy.",
+              "A múzeumok a legjobb helyek a hideg elől való menekülésre.",
+              "Öltözködjön rétegesen a kinti és benti hőmérséklet-különbség miatt.",
+              "Keressen szezonális karácsonyi vásárokat a belvárosban."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:00 în luna decembrie.",
+              "Muzeele sunt cele mai bune locuri pentru a scăpa de frig.",
+              "Purtați haine în mai multe straturi pentru confort termic.",
+              "Căutați târgurile de Crăciun dacă vizitați în perioada sărbătorilor."
+            ],
+            "en": [
+              "Sunset is as early as 4:00 PM in December.",
+              "Museums are the best spots to escape the winter chill.",
+              "Layer up for the frequent transitions between indoors and outdoors.",
+              "Check for seasonal Christmas markets in the city center."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -530,6 +694,170 @@
           "Bring a good lock for your bike as you'll be leaving it at the museums.",
           "A water bottle and snacks are essential for the longer rides."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse, aber lohnende Fahrt durch die Potteries. Radeln Sie zwischen den ikonischen Schornsteinen und nutzen Sie die Museen für trockene Pausen. Von Hanley aus geht es nach Longton und schließlich nach Middleport. Mit der richtigen Ausrüstung wird dieser Industrietrip zu einem echten Abenteuer auf zwei Rädern.",
+            "hu": "Vizes, de megérős tekerés a fazekasok földjén. Tekerjen az ikonikus kémények között, és használja a múzeumokat száraz szünetekre. Hanley-ből Longtonba, majd Middleportba vezet az út. Megfelelő felszereléssel ez az ipari túra valódi kalanddá válik két keréken.",
+            "ro": "O plimbare umedă, dar plină de satisfacții prin Potteries. Pedalați printre coșurile iconice și folosiți muzeele pentru pauze uscate. Din Hanley mergeți spre Longton și apoi spre Middleport. Cu echipamentul potrivit, această tură industrială devine o aventură pe două roți.",
+            "en": "A damp but rewarding ride through the Potteries. Cycle between iconic bottle kilns and use the museums for dry breaks. From Hanley, head to Longton and finally Middleport. With the right gear, this industrial trail becomes a true two-wheeled adventure."
+          },
+          "stops": [
+            {
+              "name": "Potteries Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich direkt vor dem Haupteingang.",
+                "hu": "Kerékpártárolók közvetlenül a főbejárat előtt találhatók.",
+                "ro": "Suporturile de biciclete sunt chiar în fața intrării principale.",
+                "en": "Cycle racks are located directly in front of the main entrance."
+              }
+            },
+            {
+              "name": "Hanley Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen auf den tiefer gelegenen Wegen.",
+                "hu": "Vigyázzon a tócsákra az alacsonyabban fekvő ösvényeken.",
+                "ro": "Atenție la bălți pe potecile din zonele mai joase.",
+                "en": "Watch out for puddles on the lower-lying park paths."
+              }
+            },
+            {
+              "name": "Gladstone Pottery Museum",
+              "tip_5lang": {
+                "de": "Sichere Abstellmöglichkeiten im Innenhof nach Rücksprache.",
+                "hu": "Biztonságos tárolás az udvaron, egyeztetés után lehetséges.",
+                "ro": "Parcare sigură în curtea interioară, disponibilă la cerere.",
+                "en": "Secure parking in the courtyard may be available upon request."
+              }
+            },
+            {
+              "name": "Middleport Pottery",
+              "tip_5lang": {
+                "de": "Das Café am Kanal bietet einen tollen Blick auf den Regen.",
+                "hu": "A csatornaparti kávézó remek kilátást nyújt az esőre.",
+                "ro": "Cafeneaua de lângă canal oferă o priveliște frumoasă pe ploaie.",
+                "en": "The canal-side cafe offers a great view of the rain on the water."
+              }
+            },
+            {
+              "name": "Ford Green Hall",
+              "tip_5lang": {
+                "de": "Der Weg hierher kann bei Regen etwas rutschig sein.",
+                "hu": "Az idevezető út esőben kissé csúszós lehet.",
+                "ro": "Drumul până aici poate fi puțin alunecos pe timp de ploaie.",
+                "en": "The path leading here can be a bit slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter absolut notwendig.",
+              "Vorsicht auf Straßenbahnschienen und Kopfsteinpflaster.",
+              "Viele Cafés erlauben das Mitbringen von nasser Kleidung.",
+              "Nutzen Sie die Radwege entlang der Kanäle für weniger Verkehr."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Vigyázzon a síneken és a macskaköves szakaszokon.",
+              "Sok kávézóban nem gond, ha vizes ruhában érkezik.",
+              "Használja a csatornaparti kerékpárutakat a kisebb forgalomért."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt absolut necesare pe această vreme.",
+              "Atenție la șinele de tramvai și la porțiunile cu pavaj.",
+              "Multe cafenele permit accesul chiar dacă aveți haine ude.",
+              "Folosiți pistele de biciclete de-a lungul canalelor."
+            ],
+            "en": [
+              "Mudguards are absolutely essential in this weather.",
+              "Be extra careful on metal grates and cobbled sections.",
+              "Many cafes are accustomed to cyclists with wet gear.",
+              "Use canal towpaths for a traffic-free but potentially wet ride."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radeln Sie durch die klare Winterluft von Stoke. Die Route verbindet die wichtigsten Keramik-Standorte und bietet genug Stopps zum Aufwärmen. Genießen Sie die winterliche Stille am Kanalweg zwischen Middleport und Ford Green Hall. Ein kurzer, aber intensiver Tag, der die industrielle Landschaft perfekt zur Geltung bringt.",
+            "hu": "Tekerjen Stoke tiszta téli levegőjén. Az útvonal összeköti a legfontosabb kerámia-helyszíneket, és elég megállót kínál a felmelegedéshez. Élvezze a téli csendet a csatorna mentén Middleport és Ford Green Hall között. Rövid, de tartalmas nap, amely kiemeli az ipari táj szépségét.",
+            "ro": "Pedalați prin aerul curat de iarnă din Stoke. Traseul conectează principalele situri de ceramică și oferă suficiente opriri pentru încălzire. Bucurați-vă de liniștea iernii pe drumul de lângă canal între Middleport și Ford Green Hall. O zi scurtă, dar intensă.",
+            "en": "Cycle through the crisp winter air of Stoke. The route connects the key pottery sites and offers plenty of stops to warm up. Enjoy the winter stillness on the canal path between Middleport and Ford Green Hall. A short but intense day that showcases the industrial landscape."
+          },
+          "stops": [
+            {
+              "name": "Potteries Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als erste Aufwärmpause.",
+                "hu": "Használja a múzeumlátogatást az első melegedő szünetként.",
+                "ro": "Folosiți vizita la muzeu ca primă pauză de încălzire.",
+                "en": "Use the museum visit as your first warm-up break."
+              }
+            },
+            {
+              "name": "Hanley Park",
+              "tip_5lang": {
+                "de": "Frostige Bäume bieten tolle Fotomotive beim Durchfahren.",
+                "hu": "A déres fák remek fotótémát kínálnak áthaladás közben.",
+                "ro": "Copacii înghețați oferă oportunități foto deosebite.",
+                "en": "Frosty trees offer great photo opportunities while riding through."
+              }
+            },
+            {
+              "name": "Gladstone Pottery Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in der Nähe der historischen Öfen auf.",
+                "hu": "Melegedjen fel a történelmi kemencék közelében.",
+                "ro": "Încălziți-vă în apropierea cuptoarelor istorice.",
+                "en": "Warm up near the historic kilns and indoor exhibits."
+              }
+            },
+            {
+              "name": "Middleport Pottery",
+              "tip_5lang": {
+                "de": "Heißer Tee im Café ist nach der Fahrt am Kanal Pflicht.",
+                "hu": "A csatornaparti tekerés után kötelező egy forró tea a kávézóban.",
+                "ro": "Un ceai fierbinte la cafenea este obligatoriu după tura pe canal.",
+                "en": "A hot tea at the cafe is a must after the canal ride."
+              }
+            },
+            {
+              "name": "Ford Green Hall",
+              "tip_5lang": {
+                "de": "Beachten Sie die kürzeren Öffnungszeiten im Winter.",
+                "hu": "Ügyeljen a téli időszakban rövidebb nyitvatartásra.",
+                "ro": "Aveți în vedere programul mai scurt pe timp de iarnă.",
+                "en": "Be aware of the shorter winter opening hours here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und Überschuhe sind extrem wichtig.",
+              "Das Tageslicht endet früh, prüfen Sie Ihre Fahrradbeleuchtung.",
+              "Die Kanalwege können bei Frost sehr glatt sein.",
+              "Planen Sie mehr Zeit für Aufwärmpausen in den Museen ein."
+            ],
+            "hu": [
+              "A meleg kesztyű és kamásli rendkívül fontos.",
+              "A nappali fény korán elfogy, ellenőrizze a világítást.",
+              "A csatornaparti utak fagy esetén nagyon csúszósak lehetnek.",
+              "Tervezzen több időt a múzeumi melegedő szünetekre."
+            ],
+            "ro": [
+              "Mănușile groase și protecțiile pentru pantofi sunt esențiale.",
+              "Lumina zilei dispare devreme, verificați luminile bicicletei.",
+              "Drumurile de lângă canal pot fi foarte alunecoase la îngheț.",
+              "Planificați mai mult timp pentru pauze de încălzire în muzee."
+            ],
+            "en": [
+              "Warm gloves and shoe covers are extremely important.",
+              "Daylight ends early, so double-check your bike lights.",
+              "Canal towpaths can be very icy and slippery in winter.",
+              "Schedule extra time for warming up inside the museums."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -814,6 +1142,188 @@
           "Traffic can be heavy during peak times, so allow for extra travel time.",
           "A sat-nav or map app is essential for navigating between the sites."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die komfortabelste Art, die Potteries bei Regen zu erkunden. Fahren Sie vom Trentham Estate zur World of Wedgwood und weiter nach Longton. Das Auto hält Sie zwischen den erstklassigen Indoor-Attraktionen trocken. Beenden Sie den Tag mit einem gemütlichen Abendessen im Cultural Quarter von Hanley, sicher geschützt vor dem Guss.",
+            "hu": "A legkényelmesebb módja a környék felfedezésének esőben. Autózzon a Trentham Estate-től a World of Wedgwood-ig, majd tovább Longtonba. Az autó szárazon tart a világszínvonalú beltéri látnivalók között. Zárja a napot egy kellemes vacsorával Hanley kulturális negyedében.",
+            "ro": "Cea mai confortabilă modalitate de a explora Potteries pe ploaie. Conduceți de la Trentham Estate la World of Wedgwood și apoi la Longton. Mașina vă menține uscat între atracțiile de interior. Încheiați ziua cu o cină plăcută în cartierul cultural din Hanley.",
+            "en": "The most comfortable way to explore the Potteries in the rain. Drive from Trentham Estate to the World of Wedgwood and on to Longton. The car keeps you dry between world-class indoor attractions. End the day with a cozy dinner in Hanley's Cultural Quarter."
+          },
+          "stops": [
+            {
+              "name": "Trentham Estate",
+              "tip_5lang": {
+                "de": "Das Shopping Village ist teilweise überdacht und ideal bei Regen.",
+                "hu": "A bevásárlófalu részben fedett, így esőben is ideális.",
+                "ro": "Satul de cumpărături este parțial acoperit, ideal pe ploaie.",
+                "en": "The shopping village is partially covered, making it ideal for rain."
+              }
+            },
+            {
+              "name": "World of Wedgwood",
+              "tip_5lang": {
+                "de": "Großer, kostenloser Parkplatz direkt am Eingang verfügbar.",
+                "hu": "Nagy, ingyenes parkoló áll rendelkezésre közvetlenül a bejáratnál.",
+                "ro": "Parcare mare și gratuită disponibilă chiar la intrare.",
+                "en": "Large free car park available right by the entrance."
+              }
+            },
+            {
+              "name": "Gladstone Pottery Museum",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem museumseigenen Parkplatz gegenüber.",
+                "hu": "Parkoljon a múzeum saját parkolójában, közvetlenül szemben.",
+                "ro": "Parcați în parcarea proprie a muzeului, situată vizavi.",
+                "en": "Park in the museum's own car park located just opposite."
+              }
+            },
+            {
+              "name": "Potteries Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'The Potteries' für direkten Zugang.",
+                "hu": "Használja a 'The Potteries' parkolóházat a közvetlen bejutáshoz.",
+                "ro": "Folosiți parcarea etajată 'The Potteries' pentru acces direct.",
+                "en": "Use 'The Potteries' multi-storey car park for direct access."
+              }
+            },
+            {
+              "name": "Bethesda Chapel",
+              "tip_5lang": {
+                "de": "Parkplätze an der Straße sind oft begrenzt, nutzen Sie Parkhäuser.",
+                "hu": "Az utcai parkolás korlátozott, érdemes parkolóházat keresni.",
+                "ro": "Parcarea pe stradă este limitată, folosiți parcările publice.",
+                "en": "On-street parking is limited nearby; use public car parks."
+              }
+            },
+            {
+              "name": "Dinner in the Cultural Quarter",
+              "tip_5lang": {
+                "de": "Viele Restaurants liegen nah beieinander, kaum Laufweg im Regen.",
+                "hu": "Sok étterem közel van egymáshoz, így keveset kell ázni.",
+                "ro": "Multe restaurante sunt aproape, reducând mersul prin ploaie.",
+                "en": "Many restaurants are clustered together, minimizing time in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie die Rushhour rund um die A500 bei starkem Regen.",
+              "Die meisten großen Attraktionen bieten kostenloses Parken.",
+              "Halten Sie einen Schirm für den Weg vom Parkplatz bereit.",
+              "Prüfen Sie die Sichtverhältnisse auf den Landstraßen."
+            ],
+            "hu": [
+              "Kerülje a csúcsforgalmat az A500-as úton heves esőzéskor.",
+              "A legtöbb nagy látnivaló ingyenes parkolást kínál.",
+              "Legyen kéznél esernyő a parkolótól a bejáratig tartó útra.",
+              "Ellenőrizze a látási viszonyokat a mellékutakon."
+            ],
+            "ro": [
+              "Evitați orele de vârf pe A500 în timpul ploilor torențiale.",
+              "Majoritatea atracțiilor mari oferă parcare gratuită.",
+              "Aveți o umbrelă la îndemână pentru drumul de la parcare.",
+              "Verificați vizibilitatea pe drumurile secundare."
+            ],
+            "en": [
+              "Avoid peak hours on the A500 during heavy rain.",
+              "Most major pottery attractions offer ample free parking.",
+              "Keep an umbrella handy for the walk from the car to the door.",
+              "Check visibility conditions on local country roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein warmer und flexibler Wintertag in Stoke-on-Trent. Besuchen Sie das Trentham Estate für einen frostigen Morgenspaziergang und wärmen Sie sich danach bei Wedgwood auf. Die kurzen Fahrten zwischen den Museen sind ideal bei niedrigen Temperaturen. Der Tag endet festlich im Cultural Quarter von Hanley.",
+            "hu": "Meleg és rugalmas téli nap Stoke-on-Trentben. Látogasson el a Trentham Estate-re egy friss reggeli sétára, majd melegedjen fel a Wedgwood-nál. A múzeumok közötti rövid autózás ideális alacsony hőmérséklet esetén. A nap ünnepi hangulatban zárul Hanley kulturális negyedében.",
+            "ro": "O zi de iarnă caldă și flexibilă în Stoke-on-Trent. Vizitați Trentham Estate pentru o plimbare matinală revigorantă, apoi încălziți-vă la Wedgwood. Drumurile scurte între muzee sunt ideale la temperaturi scăzute. Ziua se încheie festiv în cartierul cultural din Hanley.",
+            "en": "A warm and flexible winter day in Stoke-on-Trent. Visit Trentham Estate for a crisp morning walk, then warm up at Wedgwood. The short drives between museums are ideal for low temperatures. The day ends festively in Hanley's Cultural Quarter."
+          },
+          "stops": [
+            {
+              "name": "Trentham Estate",
+              "tip_5lang": {
+                "de": "Die Gärten sehen bei Reif und Frost wunderschön aus.",
+                "hu": "A kertek gyönyörűek dérrel és fagyos állapotban.",
+                "ro": "Grădinile arată minunat când sunt acoperite de chiciură.",
+                "en": "The gardens look beautiful when covered in frost or hoar frost."
+              }
+            },
+            {
+              "name": "World of Wedgwood",
+              "tip_5lang": {
+                "de": "Perfekter Ort für hochwertiges Weihnachtsshopping.",
+                "hu": "Tökéletes hely a minőségi karácsonyi bevásárláshoz.",
+                "ro": "Locul perfect pentru cumpărături de Crăciun de calitate.",
+                "en": "Perfect place for some high-quality Christmas shopping."
+              }
+            },
+            {
+              "name": "Gladstone Pottery Museum",
+              "tip_5lang": {
+                "de": "Besuchen Sie die stimmungsvollen viktorianischen Werkstätten.",
+                "hu": "Látogasson el a hangulatos viktoriánus műhelyekbe.",
+                "ro": "Vizitați atelierele victoriene pline de atmosferă.",
+                "en": "Visit the atmospheric Victorian workshops during your stay."
+              }
+            },
+            {
+              "name": "Potteries Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Die Cafeteria bietet warme Suppen und Wintergerichte an.",
+                "hu": "A kávézó meleg leveseket és téli ételeket kínál.",
+                "ro": "Cafeneaua oferă supe calde și preparate de iarnă.",
+                "en": "The cafeteria offers warm soups and winter specials."
+              }
+            },
+            {
+              "name": "Bethesda Chapel",
+              "tip_5lang": {
+                "de": "Frühzeitiger Besuch empfohlen, bevor es dunkel wird.",
+                "hu": "Ajánlott korán érkezni, mielőtt besötétedik.",
+                "ro": "Se recomandă vizitarea timpurie, înainte de lăsarea întunericului.",
+                "en": "Early visit recommended before the light fades."
+              }
+            },
+            {
+              "name": "Dinner in the Cultural Quarter",
+              "tip_5lang": {
+                "de": "Reservierung empfohlen, besonders während der Vorweihnachtszeit.",
+                "hu": "Asztalfoglalás ajánlott, különösen az ünnepi időszakban.",
+                "ro": "Se recomandă rezervarea, mai ales în perioada sărbătorilor.",
+                "en": "Booking recommended, especially during the festive season."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glatteis auf den Parkplätzen am Morgen.",
+              "Lassen Sie keine Wertsachen im geparkten Auto sichtbar liegen.",
+              "Prüfen Sie die Reifendruck bei fallenden Temperaturen.",
+              "Die Hauptstraßen werden meist gut gestreut und geräumt."
+            ],
+            "hu": [
+              "Reggelente ügyeljen a jegesedésre a parkolókban.",
+              "Ne hagyjon értéktárgyat látható helyen az autóban.",
+              "Ellenőrizze a guminyomást a csökkenő hőmérséklet miatt.",
+              "A főutakat általában jól takarítják és sózzák."
+            ],
+            "ro": [
+              "Atenție la polei în parcări în timpul dimineții.",
+              "Nu lăsați obiecte de valoare la vedere în mașină.",
+              "Verificați presiunea în anvelope la scăderea temperaturii.",
+              "Drumurile principale sunt de obicei bine deszăpezite."
+            ],
+            "en": [
+              "Watch out for black ice in car parks during early morning.",
+              "Don't leave valuables visible in the car at any stop.",
+              "Check your tire pressure as temperatures drop.",
+              "Major roads are usually well-gritted and cleared of snow."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1058,6 +1568,170 @@
           "Download a local bus app to track real-time arrivals.",
           "Be aware that bus services may be less frequent in the evenings."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das dichte Busnetz von Stoke, um trocken zwischen den Museen zu reisen. Der Tag beginnt im Potteries Museum und führt Sie durch Hanley Park nach Longton. Die Busse bieten Schutz vor dem Wetter und bringen Sie direkt zu den Eingängen der wichtigsten Keramik-Standorte. Ein entspannter Tag ohne Parkplatzsorgen bei Regen.",
+            "hu": "Használja Stoke sűrű buszhálózatát, hogy szárazon utazzon a múzeumok között. A nap a Potteries Múzeumban indul, majd a Hanley Parkon át Longtonba vezet. A buszok védelmet nyújtanak az időjárás elől, és közvetlenül a legfontosabb helyszínekhez visznek. Kényelmes nap esernyővel is.",
+            "ro": "Folosiți rețeaua densă de autobuze din Stoke pentru a călători fără a vă uda. Ziua începe la Muzeul Potteries și continuă spre Longton. Autobuzele oferă adăpost și vă lasă aproape de intrările siturilor de ceramică. O zi relaxată, fără grija parcării pe ploaie.",
+            "en": "Use Stoke's dense bus network to travel dry between museums. The day starts at the Potteries Museum and leads through Hanley Park to Longton. Buses provide shelter from the weather and drop you close to the entrances of key pottery sites. A relaxed day without parking worries."
+          },
+          "stops": [
+            {
+              "name": "Potteries Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Der Busbahnhof Hanley ist nur wenige Gehminuten entfernt.",
+                "hu": "A Hanley buszpályaudvar csak pár perc séta innen.",
+                "ro": "Autogara Hanley este la doar câteva minute de mers pe jos.",
+                "en": "Hanley bus station is just a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Hanley Park",
+              "tip_5lang": {
+                "de": "Bushaltestellen befinden sich direkt an den Parkeingängen.",
+                "hu": "Buszmegállók találhatók közvetlenül a park bejáratainál.",
+                "ro": "Stațiile de autobuz sunt situate chiar la intrările în parc.",
+                "en": "Bus stops are conveniently located right by the park entrances."
+              }
+            },
+            {
+              "name": "Gladstone Pottery Museum",
+              "tip_5lang": {
+                "de": "Die Buslinie 6 hält in der Nähe und fährt regelmäßig.",
+                "hu": "A 6-os buszjárat a közelben áll meg és gyakran jár.",
+                "ro": "Linia de autobuz 6 oprește în apropiere și circulă regulat.",
+                "en": "The number 6 bus stops nearby and runs frequently."
+              }
+            },
+            {
+              "name": "Middleport Pottery",
+              "tip_5lang": {
+                "de": "Vom Busstopp in Burslem ist es ein kurzer, ebener Fußweg.",
+                "hu": "A burslemi buszmegállótól rövid, sík út vezet ide.",
+                "ro": "De la stația din Burslem este o scurtă plimbare pe teren drept.",
+                "en": "It's a short, flat walk from the Burslem bus stops."
+              }
+            },
+            {
+              "name": "Dinner in Burslem",
+              "tip_5lang": {
+                "de": "Gute Busverbindungen zurück nach Hanley oder zum Bahnhof.",
+                "hu": "Jó buszközlekedés vissza Hanley-be vagy a vasútállomásra.",
+                "ro": "Legături bune de autobuz înapoi spre Hanley sau gară.",
+                "en": "Good bus connections back to Hanley or the railway station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'First Bus' App für Echtzeit-Informationen.",
+              "Tagestickets sind oft günstiger als Einzelfahrten.",
+              "Bushaltestellen bieten oft nur begrenzten Schutz vor Wind.",
+              "In Hanley gibt es einen modernen, überdachten Busbahnhof."
+            ],
+            "hu": [
+              "Használja a 'First Bus' alkalmazást a valós idejű adatokért.",
+              "A napijegy gyakran olcsóbb, mint a vonaljegyek.",
+              "A buszmegállók csak korlátozott védelmet nyújtanak a szél ellen.",
+              "Hanley-ben modern, teljesen fedett buszpályaudvar található."
+            ],
+            "ro": [
+              "Folosiți aplicația 'First Bus' pentru informații în timp real.",
+              "Abonamentul de o zi este adesea mai ieftin decât biletele individuale.",
+              "Stațiile de autobuz oferă adăpost limitat împotriva vântului.",
+              "Hanley are o autogară modernă și complet acoperită."
+            ],
+            "en": [
+              "Use the 'First Bus' app for real-time arrival information.",
+              "Day tickets are often better value than buying single fares.",
+              "Bus shelters can be drafty; stay inside the stations when possible.",
+              "Hanley features a modern, fully covered bus station."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein gemütlicher Wintertag mit den öffentlichen Verkehrsmitteln. Reisen Sie komfortabel zwischen den historischen Vierteln und genießen Sie die Aussicht aus dem Busfenster. Die Route verbindet die kulturellen Highlights und bietet genug Zeit zum Aufwärmen in den Museen. Ein stressfreier Weg, die Potteries in der kalten Jahreszeit zu erleben.",
+            "hu": "Hangulatos téli nap tömegközlekedéssel. Utazzon kényelmesen a történelmi negyedek között, és élvezze a kilátást a buszablakból. Az útvonal összeköti a kulturális fénypontokat, és elég időt hagy a múzeumi melegedésre. Stresszmentes módja a környék felfedezésének hidegben.",
+            "ro": "O zi de iarnă plăcută folosind transportul public. Călătoriți confortabil între cartierele istorice și admirați peisajul de la geam. Traseul conectează punctele culturale importante și oferă timp pentru încălzire. O modalitate fără stres de a vizita Potteries.",
+            "en": "A cozy winter day using public transport. Travel comfortably between historic districts and enjoy the views from the bus window. The route connects cultural highlights and allows plenty of time for warming up in museums. A stress-free way to see the Potteries in winter."
+          },
+          "stops": [
+            {
+              "name": "Potteries Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Warmer Startpunkt direkt im Zentrum von Hanley.",
+                "hu": "Meleg kezdőpont közvetlenül Hanley központjában.",
+                "ro": "Punct de plecare călduros chiar în centrul orașului Hanley.",
+                "en": "A warm starting point right in the heart of Hanley."
+              }
+            },
+            {
+              "name": "Hanley Park",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang vom Bahnhof Stoke zum Park möglich.",
+                "hu": "Rövid séta a stoke-i vasútállomástól a parkig.",
+                "ro": "O scurtă plimbare de la gara Stoke până în parc.",
+                "en": "A short walk from Stoke railway station to the park is possible."
+              }
+            },
+            {
+              "name": "Gladstone Pottery Museum",
+              "tip_5lang": {
+                "de": "Busse halten direkt vor der Tür in der Uttoxeter Road.",
+                "hu": "A buszok közvetlenül az ajtó előtt állnak meg az Uttoxeter Roadon.",
+                "ro": "Autobuzele opresc chiar în fața intrării pe Uttoxeter Road.",
+                "en": "Buses stop right outside on Uttoxeter Road."
+              }
+            },
+            {
+              "name": "Middleport Pottery",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Zug bis Longport für eine schnellere Anreise.",
+                "hu": "Használja a vonatot Longportig a gyorsabb eljutáshoz.",
+                "ro": "Folosiți trenul până la gara Longport pentru acces rapid.",
+                "en": "Take the train to Longport station for quicker access."
+              }
+            },
+            {
+              "name": "Dinner in Burslem",
+              "tip_5lang": {
+                "de": "Achten Sie auf die leicht geänderten Fahrpläne am Abend.",
+                "hu": "Ügyeljen az este némileg ritkább menetrendre.",
+                "ro": "Atenție la programele de circulație modificate seara.",
+                "en": "Be mindful of slightly reduced bus frequencies in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge sind bei Schnee oft zuverlässiger als Busse.",
+              "Tragen Sie warme Kleidung für die Wartezeiten an Haltestellen.",
+              "Die Busse sind im Winter meist gut geheizt.",
+              "Prüfen Sie die letzte Abfahrt, wenn Sie zum Bahnhof müssen."
+            ],
+            "hu": [
+              "Hó esetén a vonatok gyakran megbízhatóbbak a buszoknál.",
+              "Öltözzön melegen a megállókban való várakozáshoz.",
+              "A buszok télen általában jól fűtöttek.",
+              "Ellenőrizze az utolsó járatot, ha a vasútállomásra kell mennie."
+            ],
+            "ro": [
+              "Trenurile sunt adesea mai fiabile decât autobuzele pe zăpadă.",
+              "Purtați haine groase pentru timpul de așteptare în stații.",
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Verificați ora ultimei plecări dacă trebuie să ajungeți la gară."
+            ],
+            "en": [
+              "Trains can be more reliable than buses during snowy conditions.",
+              "Dress warmly for the time spent waiting at outdoor bus stops.",
+              "Buses are generally well-heated during the winter months.",
+              "Always check the time of the last service if heading to the station."
+            ]
+          }
+        }
       }
     }
   }

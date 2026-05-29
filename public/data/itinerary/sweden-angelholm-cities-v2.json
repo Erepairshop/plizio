@@ -338,6 +338,170 @@
           "Check the museum's opening hours in advance.",
           "Ängelholm is very pedestrian-friendly, so enjoy getting lost."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Tingstorget unter dem Schutz der umliegenden Fassaden. Die Storgatan bietet mit ihren zahlreichen Boutiquen und Cafés ideale Unterschlupfmöglichkeiten während der Schauer. Mittags bietet das Eisenbahnmuseum einen weitläufigen, trockenen Raum voller Technikgeschichte. Der Spaziergang am Rönne-Fluss wird durch die Spiegelungen im Wasser bei Regen besonders stimmungsvoll. Den Abschluss bildet der Hembygdsparken, wo gemütliche Holzhütten Schutz bieten.",
+            "hu": "Kezdje a napot a Tingstorget téren, esernyővel felszerelkezve. A Storgatan bevásárlóutcája kiváló menedéket nyújt a záporok elől a kis boltjaival. Délben a Vasúttörténeti Múzeum hatalmas csarnokai tökéletes fedett programot kínálnak. A Rönne-folyó partja ilyenkor misztikus ködbe burkolózik, a sétát pedig a Hembygdsparken faházai között zárhatjuk, ahol a helyi kávézóban melegedhetünk fel.",
+            "ro": "Începeți ziua în Tingstorget, folosind arcadele clădirilor pentru adăpost. Strada Storgatan este ideală pentru shopping și pauze de cafea în timp ce plouă. La prânz, Muzeul Căilor Ferate oferă un spațiu interior vast și fascinant. Malul râului Rönne capătă un aer melancolic sub picăturile de ploaie, iar parcul Hembygdsparken vă așteaptă cu restaurante primitoare unde puteți savura o masă caldă la adăpost.",
+            "en": "Start at Tingstorget with an umbrella ready. Storgatan's shops provide perfect cover during passing showers. Midday is best spent inside the expansive Railway Museum, a top-tier indoor attraction. The Rönne River walk offers atmospheric views even in grey weather. Finish your day in Hembygdsparken, where the historic buildings and cafes offer a cozy refuge from the damp Swedish afternoon."
+          },
+          "stops": [
+            {
+              "name": "Tingstorget Square",
+              "tip_5lang": {
+                "de": "Unter den Vordächern der Bankgebäude am Platz trocken bleiben.",
+                "hu": "Használja a tér körüli épületek ereszeit a várakozáshoz.",
+                "ro": "Adăpostiți-vă sub streșinile clădirilor de lângă piață.",
+                "en": "Use the building overhangs around the square to stay dry."
+              }
+            },
+            {
+              "name": "Storgatan Street",
+              "tip_5lang": {
+                "de": "Perfekt für Schaufensterbummel bei leichtem Nieselregen.",
+                "hu": "Ideális hely a boltok közötti gyors behúzódáshoz.",
+                "ro": "Locul perfect pentru a intra rapid în magazine dacă plouă.",
+                "en": "Perfect for popping into boutiques during sudden showers."
+              }
+            },
+            {
+              "name": "Rönne River",
+              "tip_5lang": {
+                "de": "Die Brücken bieten einen guten Blick ohne matschige Wege.",
+                "hu": "A hidakról jó a kilátás anélkül, hogy sáros lenne a cipőnk.",
+                "ro": "Podurile oferă o priveliște bună fără a merge prin noroi.",
+                "en": "Bridges offer great views without needing to walk on muddy paths."
+              }
+            },
+            {
+              "name": "Railway Museum",
+              "tip_5lang": {
+                "de": "Die beste Indoor-Aktivität der Stadt für Regentage.",
+                "hu": "A város legjobb fedett programja esős időre.",
+                "ro": "Cea mai bună activitate de interior din oraș pentru zile ploioase.",
+                "en": "The best indoor activity in town for a rainy day."
+              }
+            },
+            {
+              "name": "Hembygdsparken Park",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Café Pyrolahuset für eine gemütliche Fika.",
+                "hu": "Látogasson el a Pyrolahuset kávézóba egy benti fika-szünetre.",
+                "ro": "Vizitați cafeneaua Pyrolahuset pentru o pauză caldă în interior.",
+                "en": "Visit the Pyrolahuset cafe for a cozy indoor fika break."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Pflaster in der Altstadt rutschig sein kann.",
+              "Das Eisenbahnmuseum bietet Schließfächer für nasse Mäntel und Regenschirme.",
+              "Viele Cafés auf der Storgatan haben beheizte Außenbereiche mit Markisen.",
+              "Nutzen Sie die kurzen Abstände zwischen den Läden im Zentrum geschickt aus."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óváros macskakövei csúszósak lehetnek.",
+              "A Vasúttörténeti Múzeumban vannak szekrények a vizes kabátoknak és ernyőknek.",
+              "A Storgatan számos kávézója rendelkezik fűtött, fedett terasszal.",
+              "Használja ki a belvárosi üzletek közötti rövid távolságokat."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul vechi poate fi alunecos.",
+              "Muzeul Căilor Ferate oferă dulapuri pentru haine umede și umbrele.",
+              "Multe cafenele de pe Storgatan au terase încălzite cu copertine.",
+              "Profitați de distanțele scurte între magazinele din centrul orașului."
+            ],
+            "en": [
+              "Wear waterproof shoes as the old town pavement can get slippery.",
+              "The Railway Museum has lockers available for wet coats and umbrellas.",
+              "Many cafes on Storgatan feature heated outdoor seating with awnings.",
+              "Make the most of the short walking distances between city center shops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Ängelholm mit frostigen Morgenstunden am Tingstorget. Die Storgatan erstrahlt oft im Glanz der nordischen Weihnachtsbeleuchtung. Ein kurzer Blick auf den Rönne-Fluss zeigt oft Eisschollen, bevor Sie sich im warmen Eisenbahnmuseum aufwärmen. Beachten Sie, dass es gegen 15:30 Uhr dunkel wird. Der Hembygdsparken wirkt im Schnee wie eine Märchenlandschaft, perfekt für einen kurzen Spaziergang vor dem Abendessen.",
+            "hu": "Fedezze fel a téli Ängelholmot a Tingstorget zúzmarás reggelével. A Storgatan ilyenkor díszkivilágításban pompázik, és a fűtött üzletek vonzóak a hideg ellen. A Rönne-folyónál látható jégtáblák után a Vasúttörténeti Múzeum meleg csarnokai nyújtanak menedéket. A nap korán, fél 4 körül nyugszik, így a Hembygdsparken hófödte faházait érdemes még világosban, kora délután meglátogatni.",
+            "ro": "Experimentați Ängelholm iarna, cu dimineți geroase în Tingstorget. Storgatan strălucește sub luminile de Crăciun, oferind refugiu în magazinele încălzite. După o scurtă privire la râul înghețat, încălziți-vă în interiorul Muzeului Căilor Ferate. Soarele apune devreme, în jur de 15:30, așa că vizitați parcul Hembygdsparken spre prânz pentru a vedea peisajul hibernal de basm în lumina zilei.",
+            "en": "Experience winter in Ängelholm starting with a crisp morning at Tingstorget. Storgatan is often beautifully lit with Nordic holiday lights, providing a warm atmosphere despite the cold. After a quick look at the icy Rönne River, head to the heated Railway Museum to defrost. Sunset arrives early, around 3:30 PM, making Hembygdsparken's snow-covered historic buildings a magical sight for a midday stroll."
+          },
+          "stops": [
+            {
+              "name": "Tingstorget Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den großen Granitplatten.",
+                "hu": "Vigyázzon a csúszós jégre a tér nagy gránitlapjain.",
+                "ro": "Atenție la gheața de pe plăcile mari de granit din piață.",
+                "en": "Watch out for black ice on the large granite slabs in the square."
+              }
+            },
+            {
+              "name": "Storgatan Street",
+              "tip_5lang": {
+                "de": "Genießen Sie den Duft von Glögg und Gebäck in den Cafés.",
+                "hu": "Élvezze a forralt bor (glögg) és a sütemények illatát a kávézókban.",
+                "ro": "Savurați mirosul de vin fiert și prăjituri în cafenele.",
+                "en": "Enjoy the scent of glögg and pastries in the local cafes."
+              }
+            },
+            {
+              "name": "Rönne River",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos der winterlichen Uferlandschaft.",
+                "hu": "Gyors fotómegálló a jeges folyóparti tájhoz.",
+                "ro": "Oprire scurtă pentru fotografii cu malurile înghețate.",
+                "en": "Quick photo stop for the wintry riverside scenery."
+              }
+            },
+            {
+              "name": "Railway Museum",
+              "tip_5lang": {
+                "de": "Ideal, um die Kälte für ein paar Stunden zu vergessen.",
+                "hu": "Ideális hely a hideg elfelejtésére néhány órára.",
+                "ro": "Locul ideal pentru a uita de frig timp de câteva ore.",
+                "en": "The perfect place to forget the cold for a few hours."
+              }
+            },
+            {
+              "name": "Hembygdsparken Park",
+              "tip_5lang": {
+                "de": "Die Holzhäuser sind oft festlich beleuchtet.",
+                "hu": "A régi faházak gyakran ünnepi díszkivilágítást kapnak.",
+                "ro": "Casele vechi de lemn sunt adesea iluminate festiv.",
+                "en": "The historic wooden houses are often festively lit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche; der Wind vom Meer kann sehr schneidend sein.",
+              "Die Sonne geht im Dezember bereits gegen 15:30 Uhr unter.",
+              "Nutzen Sie die Mittagszeit für Außenaktivitäten, um das Tageslicht zu nutzen.",
+              "Glatteis ist in Küstennähe häufig; gehen Sie vorsichtig auf Gehwegen."
+            ],
+            "hu": [
+              "Viseljen termo alsóneműt; a tenger felől fújó szél metsző lehet.",
+              "A nap decemberben már délután fél 4-kor lemegy.",
+              "Használja ki a dél körüli órákat a szabadtéri látnivalókra.",
+              "A tenger közelsége miatt gyakori a jegesedés; óvatosan a járdákon."
+            ],
+            "ro": [
+              "Purtați lenjerie termică; vântul de pe mare poate fi tăios.",
+              "Soarele apune în decembrie deja în jurul orei 15:30.",
+              "Folosiți orele prânzului pentru activități în aer liber.",
+              "Gheața este frecventă lângă coastă; mergeți cu atenție pe trotuare."
+            ],
+            "en": [
+              "Wear thermal layers; the wind coming off the sea can be biting.",
+              "The sun sets as early as 3:30 PM in mid-December.",
+              "Plan outdoor activities for around midday to maximize daylight.",
+              "Icy patches are common near the coast; walk carefully on footpaths."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -670,6 +834,170 @@
           "A water bottle is essential on an active day.",
           "Combine your bike tour with a train ride to explore the wider area."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Rüsten Sie sich mit guter Regenkleidung für eine Tour durch Ängelholm aus. Vom Tingstorget führt der Weg schnell zum Eisenbahnmuseum, wo Sie das Rad sicher parken können. Der Radweg am Rönne-Fluss kann bei Regen pfützenreich sein, bietet aber tolle Ausblicke auf das Wasser. Die Fahrt durch den Strandskogen-Wald bietet natürlichen Schutz durch die Bäume, bevor Sie das Klitterhus an der Küste erreichen, um sich bei einer Mahlzeit zu trocknen.",
+            "hu": "Készüljön fel vízálló öltözettel az ängelholmi biciklitúrára. A Tingstorgetről gyorsan elérhető a Vasúttörténeti Múzeum, ahol biztonságban hagyhatja a gépet. A Rönne-folyó menti bringaút ilyenkor tócsás lehet, de a látvány kárpótol. A Strandskogen erdő fái némi védelmet nyújtanak az eső ellen, mielőtt elérné a tengerparti Klitterhus-t, ahol egy kiadós ebéd közben megszáradhat.",
+            "ro": "Echipat cu haine de ploaie bune, porniți într-o tură prin Ängelholm. De la Tingstorget ajungeți rapid la Muzeul Căilor Ferate, unde puteți parca bicicleta în siguranță. Pista de biciclete de-a lungul râului Rönne poate avea bălți, dar oferă vederi frumoase. Pădurea Strandskogen oferă protecție naturală prin coronamentul arborilor înainte de a ajunge la Klitterhus pe coastă pentru a vă usca.",
+            "en": "Gear up with solid rainwear for this cycling tour of Ängelholm. From Tingstorget, it's a quick ride to the Railway Museum for an extended indoor break. The Rönne River bike path can be puddly but remains scenic under the rain. Cycling through the Strandskogen forest provides some natural shelter from the trees before you reach Klitterhus on the coast to dry off over a warm meal."
+          },
+          "stops": [
+            {
+              "name": "Tingstorget Square",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, nasses Pflaster ist rutschig.",
+                "hu": "Ellenőrizze a fékeket, a vizes kőburkolat csúszik.",
+                "ro": "Verificați frânele, pavajul ud este alunecos.",
+                "en": "Check your brakes; wet pavement can be slippery."
+              }
+            },
+            {
+              "name": "Railway Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer am Eingang.",
+                "hu": "Használja a bejáratnál lévő fedett biciklitárolót.",
+                "ro": "Folosiți suportul de biciclete acoperit de la intrare.",
+                "en": "Use the covered bike racks located near the entrance."
+              }
+            },
+            {
+              "name": "Rönne River Bike Path",
+              "tip_5lang": {
+                "de": "Vorsicht in scharfen Kurven auf dem nassen Asphalt.",
+                "hu": "Vigyázzon az éles kanyarokban a vizes aszfalton.",
+                "ro": "Atenție în curbele strânse pe asfaltul umed.",
+                "en": "Take care on sharp turns on the wet asphalt."
+              }
+            },
+            {
+              "name": "Strandskogen (Beach Forest)",
+              "tip_5lang": {
+                "de": "Die Bäume halten den stärksten Regen etwas ab.",
+                "hu": "A fák lombkoronája felfogja a komolyabb esőt.",
+                "ro": "Copacii oferă o barieră naturală împotriva ploii torențiale.",
+                "en": "The tree canopy provides a natural buffer against heavy rain."
+              }
+            },
+            {
+              "name": "Klitterhus",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um nasse Kleidung kurz zu lüften.",
+                "hu": "Meleg hely, ahol kicsit megszárítkozhatunk ebéd közben.",
+                "ro": "Un loc cald unde vă puteți aerisi hainele umede.",
+                "en": "A warm place to dry off while enjoying a seaside meal."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Fahren über weiße Fahrbahnmarkierungen, diese sind sehr glatt.",
+              "Vorder- und Rücklicht sind bei schlechter Sicht auch tagsüber Pflicht.",
+              "Ein Regenschutz für den Sattel ist bei dieser Tour unverzichtbar.",
+              "Klitterhus hat einen windgeschützten Parkplatz für Fahrräder."
+            ],
+            "hu": [
+              "Kerülje az útra festett fehér jelzéseket, mert esőben nagyon csúsznak.",
+              "Az első és hátsó lámpa használata rossz látási viszonyoknál kötelező.",
+              "A nyeregre húzható esővédő huzat elengedhetetlen ezen a túrán.",
+              "A Klitterhusnál van szélvédett parkoló a kerékpárok számára."
+            ],
+            "ro": [
+              "Evitați marcajele rutiere albe, sunt extrem de alunecoase pe ploaie.",
+              "Luminile față și spate sunt obligatorii în condiții de vizibilitate redusă.",
+              "O husă de ploaie pentru șa este indispensabilă în această tură.",
+              "Klitterhus are o zonă de parcare pentru biciclete protejată de vânt."
+            ],
+            "en": [
+              "Avoid riding over white road markings as they become very slick when wet.",
+              "Front and rear lights are mandatory during low visibility, even in daytime.",
+              "A rain cover for your saddle is essential for this tour.",
+              "Klitterhus offers a sheltered bike parking area away from the sea breeze."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour erfordert Schichten und Vorsicht. Starten Sie am Tingstorget und radeln Sie zum Eisenbahnmuseum, um sich aufzuwärmen. Der Weg entlang des Rönne-Flusses bietet eine kühle Brise und oft eine weiße Uferlandschaft. Die Fahrt durch den Strandskogen ist bei Schnee besonders ruhig und friedlich. Erreichen Sie das Klitterhus rechtzeitig zum Sonnenuntergang über dem Kattegat, bevor die Kälte des Abends einsetzt.",
+            "hu": "A téli bringázáshoz réteges öltözet és figyelem kell. A Tingstorgetről indulva a Vasúttörténeti Múzeum az első meleg pont. A Rönne-folyó menti út ilyenkor jeges lehet a szél miatt. A Strandskogen erdőben tekerni a hóban különleges, csendes élmény. Érjen a Klitterhushoz még naplemente előtt, hogy lássa az utolsó fényeket a tenger felett, mielőtt beáll a kemény esti fagy.",
+            "ro": "O tură de iarnă necesită straturi groase și prudență. Porniți din Tingstorget spre Muzeul Căilor Ferate pentru a vă dezmorți. Drumul de-a lungul râului Rönne oferă o briză rece și peisaje înghețate. Mersul prin Strandskogen acoperit de zăpadă este o experiență liniștită. Ajungeți la Klitterhus la timp pentru apusul peste mare, înainte ca gerul serii să devină prea puternic.",
+            "en": "A winter bike ride requires warm layers and focus. Start at Tingstorget and cycle to the Railway Museum for a necessary warm-up. The path along the Rönne River offers a crisp breeze and icy shores. Cycling through Strandskogen is uniquely quiet and peaceful when snow-covered. Aim to reach Klitterhus just before sunset for a stunning view over the Kattegat before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Tingstorget Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrorener Nässe in den Morgenstunden.",
+                "hu": "Vigyázzon a reggeli lefagyásokkal a kőburkolaton.",
+                "ro": "Atenție la porțiunile înghețate în primele ore ale dimineții.",
+                "en": "Beware of frozen patches (black ice) in the early morning."
+              }
+            },
+            {
+              "name": "Railway Museum",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um steif gefrorene Finger aufzuwärmen.",
+                "hu": "Kiváló hely az átfagyott ujjak felmelegítésére.",
+                "ro": "Un loc bun pentru a vă încălzi degetele amorțite de frig.",
+                "en": "A great spot to warm up stiff fingers after the ride."
+              }
+            },
+            {
+              "name": "Rönne River Bike Path",
+              "tip_5lang": {
+                "de": "Der Wind vom Fluss kann die gefühlte Kälte verstärken.",
+                "hu": "A folyó felől fújó szél fokozhatja a hidegérzetet.",
+                "ro": "Vântul dinspre râu poate accentua senzația de frig.",
+                "en": "The river breeze can significantly increase the wind chill."
+              }
+            },
+            {
+              "name": "Strandskogen (Beach Forest)",
+              "tip_5lang": {
+                "de": "Fahren Sie bei Schnee nur auf bereits geräumten Wegen.",
+                "hu": "Hóban csak a már letakarított ösvényeken tekerjen.",
+                "ro": "Circulați doar pe potecile deja curățate dacă este zăpadă.",
+                "en": "Only cycle on paths that have been cleared if there is snow."
+              }
+            },
+            {
+              "name": "Klitterhus",
+              "tip_5lang": {
+                "de": "Belohnen Sie sich mit einer heißen Schokolade am Meer.",
+                "hu": "Jutalmazza meg magát egy forró csokoládéval a tengerparton.",
+                "ro": "Răsplătiți-vă cu o ciocolată caldă lângă mare.",
+                "en": "Reward yourself with a hot chocolate by the frozen sea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf Schnee.",
+              "Die Kälte entleert Akkus von E-Bikes und Handys deutlich schneller.",
+              "Vermeiden Sie schnelle Lenkbewegungen auf möglicherweise glatten Flächen.",
+              "Warme Handschuhe und Windstopper-Kleidung sind absolute Pflicht."
+            ],
+            "hu": [
+              "Csökkentse kicsit a guminyomást a jobb tapadás érdekében a havon.",
+              "A hideg sokkal gyorsabban meríti az e-bike és a telefon akkuját.",
+              "Kerülje a hirtelen kormánymozdulatokat a csúszós felületeken.",
+              "A meleg kesztyű és a szélálló ruházat kötelező ezen a túrán."
+            ],
+            "ro": [
+              "Reduceți ușor presiunea în anvelope pentru o aderență mai bună pe zăpadă.",
+              "Frigul descarcă bateriile bicicletelor electrice și ale telefoanelor mult mai repede.",
+              "Evitați manevrele bruște de direcție pe suprafețele potențial alunecoase.",
+              "Mănușile groase și hainele rezistente la vânt sunt absolut obligatorii."
+            ],
+            "en": [
+              "Slightly reduce tire pressure for better grip on snow or slush.",
+              "Cold temperatures drain e-bike and phone batteries much faster.",
+              "Avoid sudden steering movements on potentially slippery surfaces.",
+              "Warm gloves and wind-stopper clothing are absolute requirements."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1026,6 +1354,188 @@
           "Plan for extra time for traffic, especially in summer.",
           "Note that the museums may have different opening hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Komfort Ihres Autos, um Ängelholm bei Regen zu erkunden. Starten Sie im Zentrum und parken Sie bequem für einen Besuch der Storgatan. Der Hembygdsparken ist auch bei Regen gut erreichbar, da die Wege befestigt sind. Ein Highlight ist das Flygmuseum in Barkåkra, wo die riesigen Hangars perfekten Schutz bieten. Beenden Sie den Tag im Klitterhus mit Blick auf die stürmische See, während Sie im Warmen sitzen.",
+            "hu": "Élvezze az autó kényelmét, miközben esős időben fedezi fel Ängelholmot. Kezdjen a központban, ahol könnyen talál parkolót a Storgatan közelében. A Hembygdsparken útjai burkoltak, így sár nélkül látogatható. A nap fénypontja a Barkåkrán található Repülőmúzeum (Flygmuseum), ahol hatalmas hangárok védenek az esőtől. Zárja a napot a Klitterhusban, figyelve a viharos tengert a meleg ablak mögül.",
+            "ro": "Folosiți confortul mașinii pentru a explora Ängelholm pe ploaie. Începeți în centru și parcați ușor pentru a vizita strada Storgatan. Parcul Hembygdsparken rămâne accesibil datorită aleilor pavate. Un punct culminant este Muzeul Aviației (Flygmuseum) din Barkåkra, unde hangarele imense oferă adăpost perfect. Încheiați ziua la Klitterhus, privind marea agitată din spatele ferestrelor calde.",
+            "en": "Enjoy the comfort of your car while exploring Ängelholm in the rain. Start in the center, with convenient parking near Storgatan's shops. Hembygdsparken remains accessible thanks to its paved paths. A major highlight is the Aviation Museum (Flygmuseum) in Barkåkra, where massive hangars offer total protection. End your day at Klitterhus, watching the stormy sea from the warmth of the restaurant."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Center - Tingstorget",
+              "tip_5lang": {
+                "de": "Parkhäuser im Zentrum nutzen, um trocken zum Ziel zu kommen.",
+                "hu": "Használja a központi parkolóházakat, hogy szárazon jusson a célhoz.",
+                "ro": "Folosiți parcările etajate din centru pentru a rămâne uscat.",
+                "en": "Use multi-story car parks in the center to stay dry."
+              }
+            },
+            {
+              "name": "Storgatan Street",
+              "tip_5lang": {
+                "de": "Kurzparkzonen direkt an den Querstraßen suchen.",
+                "hu": "Keressen rövid távú parkolót közvetlenül a keresztutcákban.",
+                "ro": "Căutați zone de parcare pe termen scurt pe străzile adiacente.",
+                "en": "Look for short-term parking zones directly on the side streets."
+              }
+            },
+            {
+              "name": "Hembygdsparken Park",
+              "tip_5lang": {
+                "de": "Der große Parkplatz ist nah am Restaurant Pyrolahuset.",
+                "hu": "A nagy parkoló közel van a Pyrolahuset étteremhez.",
+                "ro": "Parcarea mare este aproape de restaurantul Pyrolahuset.",
+                "en": "The large parking lot is very close to the Pyrolahuset restaurant."
+              }
+            },
+            {
+              "name": "Cluster 2: Coast - Strandskogen",
+              "tip_5lang": {
+                "de": "Genießen Sie den Meerblick direkt aus dem geparkten Auto.",
+                "hu": "Élvezze a tengeri kilátást közvetlenül a leparkolt autóból.",
+                "ro": "Bucurați-vă de vederea la mare direct din mașina parcată.",
+                "en": "Enjoy the sea view directly from your parked car."
+              }
+            },
+            {
+              "name": "Klitterhus",
+              "tip_5lang": {
+                "de": "Parken Sie direkt vor dem Eingang für minimale Nässe.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, hogy ne ázzon meg.",
+                "ro": "Parcați chiar în fața intrării pentru a evita ploaia.",
+                "en": "Park right in front of the entrance to minimize getting wet."
+              }
+            },
+            {
+              "name": "Cluster 3: Aviation - Flygmuseum",
+              "tip_5lang": {
+                "de": "Großer, kostenloser Parkplatz direkt vor den Museumshallen.",
+                "hu": "Nagy, ingyenes parkoló közvetlenül a múzeumi csarnokok előtt.",
+                "ro": "Parcare mare și gratuită chiar în fața halelor muzeului.",
+                "en": "Large, free parking lot right in front of the museum halls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der E6 und den Küstenstraßen.",
+              "Das Flygmuseum ist montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Die Parkgebühren im Zentrum können bequem per App bezahlt werden.",
+              "Nutzen Sie die Scheibenheizung, um Beschlagen bei Regen zu verhindern."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra (aquaplaning) az E6-oson és a parti utakon.",
+              "A Repülőmúzeum hétfőnként gyakran zárva van, ellenőrizze.",
+              "A központi parkolási díjakat kényelmesen fizetheti mobilalkalmazással.",
+              "Használja a szélvédőfűtést a párásodás ellen az esőben."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe autostrada E6 și pe drumurile de coastă.",
+              "Muzeul Aviației este adesea închis lunea; verificați orarul.",
+              "Taxele de parcare din centru pot fi plătite ușor prin aplicație.",
+              "Folosiți dezaburirea parbrizului pentru a menține vizibilitatea pe ploaie."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the E6 highway and coastal roads.",
+              "The Aviation Museum is often closed on Mondays; check the schedule.",
+              "City center parking fees can be easily paid via mobile apps.",
+              "Use your defroster to prevent window fogging during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ängelholm im Winter lässt sich am besten mit dem Auto erkunden. Genießen Sie die Fahrt durch die verschneiten Straßen zum Storgatan-Viertel. Der Hembygdsparken wirkt im Winterlicht besonders friedlich. Ein Muss ist das Flygmuseum, das auch an kalten Tagen gut beheizt ist. Fahren Sie zur Küste nach Strandskogen, um das gefrorene Kattegat zu sehen, und wärmen Sie sich danach im Klitterhus bei einem traditionellen schwedischen Wintergericht auf.",
+            "hu": "A téli Ängelholm felfedezéséhez az autó a legkényelmesebb. Élvezze a havon siklást a Storgatan környékére, majd látogassa meg a békés Hembygdsparkent. A Repülőmúzeum ilyenkor is fűtött és izgalmas program. Hajtson ki a partra a Strandskogenhez, hogy megnézze a fagyos Kattegat-öblöt, majd melegedjen fel a Klitterhusban egy hagyományos svéd téli étellel.",
+            "ro": "Ängelholm iarna este cel mai bine explorat cu mașina. Bucurați-vă de drumul prin zăpadă spre zona Storgatan. Parcul Hembygdsparken pare foarte liniștit în lumina iernii. Vizitați Flygmuseum, care este bine încălzit chiar și în zilele geroase. Mergeți spre coastă la Strandskogen pentru a vedea marea înghețată, apoi încălziți-vă la Klitterhus cu un preparat tradițional suedez de iarnă.",
+            "en": "The best way to see Ängelholm in winter is by car. Enjoy the drive through snowy streets to the Storgatan district. Hembygdsparken looks particularly peaceful in the winter light. The Aviation Museum is a must, remaining well-heated even on the coldest days. Drive to the coast at Strandskogen to see the icy Kattegat, then warm up at Klitterhus with a traditional Swedish winter meal."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Center - Tingstorget",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken, Schneehaufen verengen die Plätze.",
+                "hu": "Vigyázzon parkoláskor, a hóbuckák szűkítik a helyet.",
+                "ro": "Atenție la parcare, mormanele de zăpadă îngustează locurile.",
+                "en": "Be careful when parking; snow banks can narrow the spaces."
+              }
+            },
+            {
+              "name": "Storgatan Street",
+              "tip_5lang": {
+                "de": "Parkplätze mit Motorvorwärmanschlüssen sind in Schweden üblich.",
+                "hu": "Svédországban gyakoriak a motor-előmelegítővel ellátott helyek.",
+                "ro": "Locurile de parcare cu prize de preîncălzire sunt comune în Suedia.",
+                "en": "Parking spots with engine heater outlets are common in Sweden."
+              }
+            },
+            {
+              "name": "Hembygdsparken Park",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird in der Regel schnell geräumt.",
+                "hu": "A parkolót általában gyorsan letakarítják a hótól.",
+                "ro": "Parcarea este, de regulă, curățată rapid de zăpadă.",
+                "en": "The parking lot is usually cleared of snow very quickly."
+              }
+            },
+            {
+              "name": "Cluster 2: Coast - Strandskogen",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt an der Strandpromenade.",
+                "hu": "Használja közvetlenül a tengerparti sétány melletti parkolót.",
+                "ro": "Folosiți parcarea situată chiar lângă promenada plajei.",
+                "en": "Use the parking lot located directly by the beach promenade."
+              }
+            },
+            {
+              "name": "Klitterhus",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei starkem Schneefall glatt sein.",
+                "hu": "A behajtó út erős havazáskor csúszós lehet.",
+                "ro": "Drumul de acces poate fi alunecos în caz de ninsoare abundentă.",
+                "en": "The access road can be slippery during heavy snowfall."
+              }
+            },
+            {
+              "name": "Cluster 3: Aviation - Flygmuseum",
+              "tip_5lang": {
+                "de": "Ideal, da das Auto während des Besuchs nicht einfriert.",
+                "hu": "Ideális, mert az autó nem hűl ki teljesen a látogatás alatt.",
+                "ro": "Ideal, deoarece mașina nu îngheață complet în timpul vizitei.",
+                "en": "Ideal as the car won't freeze over during your indoor visit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Schweden vom 1. Dezember bis 31. März Pflicht.",
+              "Führen Sie immer einen Eiskratzer und eine Schneeschaufel im Auto mit.",
+              "Die Hauptstraßen werden gut geräumt, Nebenstraßen können eisig sein.",
+              "Achten Sie auf Wildwechsel (Elche/Rehe) in der Dämmerung ab 15:00 Uhr."
+            ],
+            "hu": [
+              "Svédországban dec. 1. és márc. 31. között kötelező a téli gumi.",
+              "Mindig tartson jégkaparót és hólapátot az autóban.",
+              "A főutakat jól takarítják, de a mellékutak jegesek maradhatnak.",
+              "Vigyázzon a vadakra (jávorszarvas) a délután 3-as szürkületben."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Suedia între 1 dec. și 31 mar.",
+              "Țineți întotdeauna în mașină o răzuitoare de gheață și o lopată.",
+              "Drumurile principale sunt bine curățate, dar cele secundare pot fi înghețate.",
+              "Atenție la animale sălbatice (elani) în amurg, începând cu ora 15:00."
+            ],
+            "en": [
+              "Winter tires are mandatory in Sweden from Dec 1st to March 31st.",
+              "Always carry an ice scraper and a small snow shovel in your car.",
+              "Main roads are well-maintained, but side streets can be very icy.",
+              "Watch for wildlife (moose/deer) during twilight starting at 3 PM."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1358,6 +1868,170 @@
           "Buses are usually on time, so plan accordingly.",
           "Ask the bus driver if you're unsure about a stop; they are usually helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit den gelben und grünen Bussen von Skånetrafiken kommen Sie trocken durch Ängelholm. Starten Sie im Zentrum am Tingstorget. Das Eisenbahnmuseum liegt direkt am Bahnhof und ist ideal mit dem Zug oder Bus erreichbar. Der Rönne-Fluss lässt sich gut von den Brücken nahe der Haltestellen beobachten. Der Hembygdsparken ist nur eine kurze Busfahrt entfernt und bietet viele überdachte Sitzmöglichkeiten in seinen historischen Gebäuden.",
+            "hu": "A Skånetrafiken sárga és zöld buszaival szárazon közlekedhet Ängelholmban. Kezdjen a központban, a Tingstorgetnél. A Vasúttörténeti Múzeum közvetlenül a vasútállomás mellett található, így vonatnak vagy busszal is könnyen elérhető. A Rönne-folyót a buszmegállók közeli hidakról csodálhatja meg. A Hembygdsparken egy rövid buszútra van, ahol a régi épületekben sok fedett helyet talál.",
+            "ro": "Autobuzele galbene și verzi ale Skånetrafiken vă ajută să rămâneți uscat în Ängelholm. Începeți în centru la Tingstorget. Muzeul Căilor Ferate este situat chiar lângă gară, fiind ușor accesibil cu trenul sau autobuzul. Râul Rönne poate fi văzut bine de pe podurile de lângă stații. Parcul Hembygdsparken se află la o scurtă călătorie cu autobuzul și oferă multe locuri adăpostite.",
+            "en": "Skånetrafiken's yellow and green buses keep you dry while exploring Ängelholm. Start at Tingstorget in the center. The Railway Museum is conveniently located right by the train station, making it an easy transit hop. View the Rönne River from bridges near bus stops to minimize walking in the rain. Hembygdsparken is just a short bus ride away, offering many sheltered spots within its historic buildings."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Center - Tingstorget",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehäuschen an der Haltestelle Stortorget.",
+                "hu": "Használja a Stortorget megálló fedett váróit.",
+                "ro": "Folosiți adăposturile din stația Stortorget.",
+                "en": "Use the sheltered bus stops at nearby Stortorget."
+              }
+            },
+            {
+              "name": "Storgatan Street",
+              "tip_5lang": {
+                "de": "Die Haltestellen liegen sehr nah an den überdachten Ladenzeilen.",
+                "hu": "A megállók nagyon közel vannak a fedett boltsorokhoz.",
+                "ro": "Stațiile sunt foarte aproape de zonele comerciale acoperite.",
+                "en": "Bus stops are located very close to the covered storefronts."
+              }
+            },
+            {
+              "name": "Cluster 2: Museums & River - Railway Museum",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet einen großen, trockenen Wartebereich.",
+                "hu": "Az állomás nagy, fedett váróteremmel rendelkezik.",
+                "ro": "Gara oferă o zonă de așteptare mare și uscată.",
+                "en": "The train station provides a large, dry waiting area."
+              }
+            },
+            {
+              "name": "Rönne River",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle 'Ängelholm Stadshuset'.",
+                "hu": "Rövid séta az 'Ängelholm Stadshuset' megállótól.",
+                "ro": "Scurtă plimbare de la stația 'Ängelholm Stadshuset'.",
+                "en": "Just a short walk from the 'Ängelholm Stadshuset' stop."
+              }
+            },
+            {
+              "name": "Cluster 3: Park - Hembygdsparken",
+              "tip_5lang": {
+                "de": "Die Linie 2 hält fast direkt vor dem Parkeingang.",
+                "hu": "A 2-es busz szinte közvetlenül a park bejáratánál áll meg.",
+                "ro": "Linia 2 oprește aproape direct în fața intrării în parc.",
+                "en": "Bus line 2 stops almost right at the park entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Skånetrafiken-App zeigt Abfahrten in Echtzeit an.",
+              "Sie können im Bus einfach mit Ihrer kontaktlosen Bankkarte bezahlen.",
+              "Die Busse sind klimatisiert und bieten Schutz vor Feuchtigkeit.",
+              "Züge nach Helsingborg fahren alle 30 Minuten vom Bahnhof ab."
+            ],
+            "hu": [
+              "A Skånetrafiken alkalmazás valós időben mutatja az indulásokat.",
+              "A buszon egyszerűen fizethet érintős bankkártyával.",
+              "A buszok klimatizáltak és védenek a párás, esős időtől.",
+              "Helsingborg felé 30 percenként indulnak vonatok az állomásról."
+            ],
+            "ro": [
+              "Aplicația Skånetrafiken afișează plecările în timp real.",
+              "Puteți plăti în autobuz direct cu cardul bancar contactless.",
+              "Autobuzele sunt climatizate și oferă protecție împotriva umezelii.",
+              "Trenurile spre Helsingborg pleacă la fiecare 30 de minute din gară."
+            ],
+            "en": [
+              "The Skånetrafiken app shows real-time bus and train departures.",
+              "You can pay on the bus simply by tapping your contactless bank card.",
+              "Buses are climate-controlled and offer a break from the damp weather.",
+              "Trains toward Helsingborg depart every 30 minutes from the station."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den zuverlässigen schwedischen Nahverkehr für Ihre Wintertour. Die Busse sind gut beheizt und bringen Sie schnell vom Tingstorget zum Bahnhofsbereich. Das Eisenbahnmuseum ist der perfekte Ort für die kälteste Zeit des Tages. Später bringt Sie der Bus zum Hembygdsparken, der im Schnee glitzert. Denken Sie daran, Ihre Rückfahrt vor dem frühen Einbruch der Dunkelheit zu planen, wenn die Temperaturen in Ängelholm spürbar sinken.",
+            "hu": "Használja a megbízható svéd tömegközlekedést a téli túrához. A buszok jól fűtöttek, és gyorsan elviszik a Tingstorgetről az állomás környékére. A Vasúttörténeti Múzeum tökéletes hely a nap leghidegebb óráira. Később buszozzon el a Hembygdsparkenhez, amely gyönyörű a hóban. Tervezze meg a visszautat még sötétedés előtt, mert Ängelholmban ilyenkor hirtelen leesik a hőmérséklet.",
+            "ro": "Folosiți transportul public suedez de încredere pentru tura de iarnă. Autobuzele sunt bine încălzite și vă duc rapid de la Tingstorget spre gară. Muzeul Căilor Ferate este locul perfect pentru cele mai reci ore ale zilei. Mai târziu, luați autobuzul spre Hembygdsparken, care strălucește sub zăpadă. Planificați întoarcerea înainte de lăsarea serii, când temperaturile scad brusc.",
+            "en": "Rely on the efficient Swedish transit system for your winter visit. Buses are well-heated and run frequently between Tingstorget and the station area. The Railway Museum is the ideal refuge during the coldest part of the day. Later, hop on a bus to Hembygdsparken to see it sparkling in the snow. Plan your return trip before the early sunset when temperatures in Ängelholm drop significantly."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Center - Tingstorget",
+              "tip_5lang": {
+                "de": "Warten Sie in den beheizten Geschäften bis kurz vor Abfahrt.",
+                "hu": "Várjon a fűtött üzletekben közvetlenül az indulásig.",
+                "ro": "Așteptați în magazinele încălzite până aproape de plecare.",
+                "en": "Wait inside the heated shops until just before the bus arrives."
+              }
+            },
+            {
+              "name": "Storgatan Street",
+              "tip_5lang": {
+                "de": "Die Echtzeitanzeigen an den Haltestellen sind sehr präzise.",
+                "hu": "A megállók valós idejű kijelzői nagyon pontosak.",
+                "ro": "Afișajele în timp real din stații sunt foarte precise.",
+                "en": "The real-time displays at the stops are very accurate."
+              }
+            },
+            {
+              "name": "Cluster 2: Museums & River - Railway Museum",
+              "tip_5lang": {
+                "de": "Der Bahnhofsvorplatz kann bei Frost sehr glatt sein.",
+                "hu": "Az állomás előtti tér fagyban nagyon csúszós lehet.",
+                "ro": "Piața din fața gării poate fi foarte alunecoasă pe ger.",
+                "en": "The station square can be very slippery during a frost."
+              }
+            },
+            {
+              "name": "Rönne River",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fotostopp, bevor der nächste Bus kommt.",
+                "hu": "Csak egy rövid fotómegálló a következő busz érkezéséig.",
+                "ro": "Doar o scurtă oprire pentru poze înainte de următorul autobuz.",
+                "en": "Only a quick photo stop before the next bus arrives."
+              }
+            },
+            {
+              "name": "Cluster 3: Park - Hembygdsparken",
+              "tip_5lang": {
+                "de": "Im Winter fahren die Busse seltener am späten Nachmittag.",
+                "hu": "Télen a buszok ritkábban járhatnak késő délután.",
+                "ro": "Iarna, autobuzele pot circula mai rar după-amiaza târziu.",
+                "en": "Buses may run less frequently in the late winter afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge und Busse sind in Schweden im Winter sehr pünktlich.",
+              "Die Skånetrafiken-App ist das beste Werkzeug für Ihre Planung.",
+              "Tragen Sie Reflektoren, da es im Winter lange dunkel ist.",
+              "Der Bahnhof Ängelholm hat ein beheiztes Café für Wartezeiten."
+            ],
+            "hu": [
+              "A vonatok és buszok Svédországban télen is nagyon pontosak.",
+              "A Skånetrafiken alkalmazás a legjobb eszköz a tervezéshez.",
+              "Viseljen fényvisszaverőt, mert télen sokáig van sötét.",
+              "Az ängelholmi állomáson van fűtött kávézó a várakozáshoz."
+            ],
+            "ro": [
+              "Trenurile și autobuzele sunt foarte punctuale în Suedia chiar și iarna.",
+              "Aplicația Skånetrafiken este cel mai bun instrument pentru planificare.",
+              "Purtați elemente reflectorizante, deoarece iarna este întuneric mult timp.",
+              "Gara Ängelholm are o cafenea încălzită pentru timpii de așteptare."
+            ],
+            "en": [
+              "Trains and buses in Sweden remain very punctual during winter.",
+              "The Skånetrafiken app is the best tool for your trip planning.",
+              "Wear reflectors (reflex) as it stays dark for long hours in winter.",
+              "Ängelholm station has a heated cafe to wait in between connections."
+            ]
+          }
+        }
       }
     }
   }

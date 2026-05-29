@@ -260,6 +260,188 @@
           "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
           "A reusable water bottle is useful; there are several public fountains available."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt am Stora Torg, wo Cafés Zuflucht bieten. Mittags erkunden Sie die prächtige Dreifaltigkeitskirche und das Regionmuseet im Trockenen. Nachmittags führt ein kurzer Spaziergang durch den Tivoli-Park zum modernen Naturum. Den Abend verbringen Sie im Besucherzentrum Vattenriket mit Blick auf die nasse Sumpflandschaft.",
+            "hu": "Esős reggel a Stora Torgon, ahol a kávézók nyújtanak menedéket. Délben a Szentháromság-templom és a Regionmuseet fedett tereit járjuk be. Délután egy rövid esernyős séta következik a Tivoli parkon át a színház felé. Az estét a Naturum látogatóközpontban zárjuk, figyelve a víz áztatta bioszféra-rezervátumot.",
+            "ro": "O dimineață ploioasă începe în Stora Torg, cu refugiu în cafenelele locale. La prânz, vizitați Biserica Sfânta Treime și Muzeul Regional, feriți de stropi. După-amiaza, o plimbare scurtă cu umbrela prin Parcul Tivoli duce spre teatru. Seara se încheie la centrul Naturum, admirând peisajul umed al rezervației.",
+            "en": "A rainy morning starts at Stora Torg, seeking shelter in cozy cafes. At midday, explore the Holy Trinity Church and the Regional Museum indoors. In the afternoon, take a brief umbrella walk through Tivoli Park toward the theater. End the evening at the Naturum visitor centre, watching the rain fall over the vast biosphere reserve."
+          },
+          "stops": [
+            {
+              "name": "Stora Torg (Main Square)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden und Cafés am Platz als Regenschutz.",
+                "hu": "Használja a tér körüli árkádokat és kávézókat menedékként.",
+                "ro": "Folosiți arcadele și cafenelele din piață pentru a vă adăposti.",
+                "en": "Use the arcades and cafes around the square for rain cover."
+              }
+            },
+            {
+              "name": "Heliga Trefaldighets kyrka (Holy Trinity Church)",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die Architektur im Trockenen zu bewundern.",
+                "hu": "Tökéletes hely a belső építészet megcsodálására szárazon.",
+                "ro": "Un loc perfect pentru a admira arhitectura la adăpost de ploaie.",
+                "en": "A perfect place to admire the architecture while staying dry."
+              }
+            },
+            {
+              "name": "Regionmuseet Skåne (Regional Museum Skåne)",
+              "tip_5lang": {
+                "de": "Planen Sie hier bei starkem Regen mehr Zeit für die Ausstellungen ein.",
+                "hu": "Heves eső esetén töltsön több időt a kiállítások megtekintésével.",
+                "ro": "Planificați mai mult timp pentru expoziții dacă plouă torențial.",
+                "en": "Plan more time for exhibitions here if the rain is heavy."
+              }
+            },
+            {
+              "name": "Kristianstad Theater",
+              "tip_5lang": {
+                "de": "Das prächtige Gebäude bietet einen schönen Anblick, auch bei grauem Himmel.",
+                "hu": "A pompás épület szürke égbolt mellett is lenyűgöző látványt nyújt.",
+                "ro": "Clădirea magnifică oferă o priveliște frumoasă chiar și sub cer gri.",
+                "en": "The magnificent building offers a beautiful sight even under grey skies."
+              }
+            },
+            {
+              "name": "Tivoli Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind auch bei Nässe gut begehbar.",
+                "hu": "Az aszfaltozott utak esőben is jól járhatóak a parkban.",
+                "ro": "Potecile asfaltate sunt ușor de parcurs chiar și pe timp de ploaie.",
+                "en": "The paved paths are easy to walk even when wet."
+              }
+            },
+            {
+              "name": "Naturum Vattenriket Visitor Centre",
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick auf das Sumpfland durch die großen Glasfronten.",
+                "hu": "Élvezze a panorámát a mocsárvidékre a hatalmas üvegfalakon át.",
+                "ro": "Bucurați-vă de panorama mlaștinii prin fațadele mari de sticlă.",
+                "en": "Enjoy the panorama of the wetlands through the large glass windows."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Wege am Vattenriket feucht sein können.",
+              "Das Naturum ist ein idealer Rückzugsort mit interaktiven Ausstellungen bei Regen.",
+              "Kristianstads Innenstadt bietet viele Passagen zum trockenen Flanieren.",
+              "Ein stabiler Regenschirm ist wegen des Windes in der Ebene ratsam."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a Vattenriket környéki utak nedvesek lehetnek.",
+              "A Naturum ideális menedék interaktív kiállításokkal eső esetén.",
+              "Kristianstad belvárosában sok fedett átjáró segíti a száraz közlekedést.",
+              "A síkság felőli szél miatt egy stabil esernyő ajánlott."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, potecile de lângă Vattenriket pot fi umede.",
+              "Naturum este un refugiu ideal cu expoziții interactive pe timp de ploaie.",
+              "Centrul orașului Kristianstad oferă multe pasaje pentru plimbări uscate.",
+              "O umbrelă rezistentă este recomandată din cauza vântului de pe câmpie."
+            ],
+            "en": [
+              "Wear waterproof shoes as paths near Vattenriket can be soggy.",
+              "The Naturum is an ideal retreat with interactive exhibitions during rain.",
+              "Kristianstad city centre offers many passages for dry strolling.",
+              "A sturdy umbrella is recommended due to the winds across the plains."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Stora Torg führt zur wärmenden Dreifaltigkeitskirche. Mittags bietet das Regionmuseet eine gemütliche Flucht vor der Kälte. Nachmittags glitzert der Tivoli-Park im Winterlicht, bevor es zum Naturum geht. Der Tag endet früh bei Sonnenuntergang mit Blick auf das gefrorene Vattenriket.",
+            "hu": "Deres reggel a Stora Torgon, majd irány a fűtött Szentháromság-templom. Délben a Regionmuseet nyújt barátságos menedéket a hideg elől. Délután a Tivoli park csillog a téli fényben, végül a Naturum felé vesszük az irányt. A nap korán, naplementekor ér véget a befagyott mocsárvidék látványával.",
+            "ro": "O dimineață geroasă în Stora Torg duce spre căldura Bisericii Sfânta Treime. La prânz, Muzeul Regional oferă un refugiu primitor împotriva frigului. După-amiaza, Parcul Tivoli strălucește în lumina iernii înainte de a merge la Naturum. Ziua se încheie devreme, la apus, cu vederea mlaștinii înghețate.",
+            "en": "A frosty morning at Stora Torg leads to the warming Holy Trinity Church. At midday, the Regional Museum offers a cozy escape from the cold. In the afternoon, Tivoli Park glistens in winter light before heading to the Naturum. The day ends early at sunset with a view over the frozen Vattenriket."
+          },
+          "stops": [
+            {
+              "name": "Stora Torg (Main Square)",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Winterbeleuchtung und suchen Sie ein warmes Café.",
+                "hu": "Csodálja meg a téli kivilágítást és keressen egy meleg kávézót.",
+                "ro": "Admirați iluminatul de iarnă și căutați o cafenea călduroasă.",
+                "en": "Admire the winter lights and find a warm cafe."
+              }
+            },
+            {
+              "name": "Heliga Trefaldighets kyrka (Holy Trinity Church)",
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten Schutz vor dem schneidigen Winterwind.",
+                "hu": "A vastag falak védelmet nyújtanak a metsző téli szél ellen.",
+                "ro": "Zidurile groase oferă protecție împotriva vântului tăios de iarnă.",
+                "en": "The thick walls provide protection from the biting winter wind."
+              }
+            },
+            {
+              "name": "Regionmuseet Skåne (Regional Museum Skåne)",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei den Ausstellungen über die Geschichte Schonens auf.",
+                "hu": "Melegedjen fel a Skåne történelmét bemutató kiállítások között.",
+                "ro": "Încălziți-vă printre expozițiile despre istoria regiunii Skåne.",
+                "en": "Warm up while exploring the exhibitions on Scanian history."
+              }
+            },
+            {
+              "name": "Kristianstad Theater",
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im weichen Winterlicht besonders elegant.",
+                "hu": "Az építészet különösen elegánsan mutat a lágy téli fényben.",
+                "ro": "Arhitectura arată deosebit de elegant în lumina blândă a iernii.",
+                "en": "The architecture looks particularly elegant in the soft winter light."
+              }
+            },
+            {
+              "name": "Tivoli Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf glatte Stellen auf den Wegen entlang des Wassers.",
+                "hu": "Ügyeljen a csúszós szakaszokra a víz menti ösvényeken.",
+                "ro": "Atenție la porțiunile alunecoase de pe potecile de-a lungul apei.",
+                "en": "Watch out for slippery spots on the paths along the water."
+              }
+            },
+            {
+              "name": "Naturum Vattenriket Visitor Centre",
+              "tip_5lang": {
+                "de": "Beobachten Sie Wintervögel vom warmen Innenraum aus.",
+                "hu": "Figyelje meg a telelő madarakat a fűtött belső térből.",
+                "ro": "Observați păsările de iarnă din interiorul călduros.",
+                "en": "Observe winter birds from the warmth of the interior."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist im Dezember bereits gegen 15:30 Uhr.",
+              "Kleiden Sie sich im Zwiebelprinzip für den Wechsel zwischen Drinnen und Draußen.",
+              "Die Wege im Vattenriket können bei Frost sehr rutschig sein.",
+              "Nutzen Sie die kurzen Tageslichtstunden für Fotos im Tivoli-Park."
+            ],
+            "hu": [
+              "A naplemente decemberben már délután fél 4 körül bekövetkezik.",
+              "Öltözzön rétegesen a kinti hideg és a benti fűtés közötti váltáshoz.",
+              "A Vattenriket ösvényei fagy esetén nagyon csúszósak lehetnek.",
+              "Használja ki a rövid nappali órákat a Tivoli parki fotózáshoz."
+            ],
+            "ro": [
+              "Apusul soarelui în decembrie are loc deja în jurul orei 15:30.",
+              "Îmbrăcați-vă în straturi pentru tranziția între frigul de afară și căldura din interior.",
+              "Potecile din Vattenriket pot fi foarte alunecoase în caz de îngheț.",
+              "Profită de puținele ore de lumină pentru fotografii în Parcul Tivoli."
+            ],
+            "en": [
+              "Sunset in December is already around 3:30 PM.",
+              "Dress in layers for the transition between outdoor cold and indoor heating.",
+              "Paths in Vattenriket can be very slippery during frost.",
+              "Make use of the short daylight hours for photos in Tivoli Park."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -537,6 +719,206 @@
           "Kristianstad is very bike-friendly, but always lock up your bike.",
           "Check your tire pressure before heading out on a longer ride like the one to Lillö ruin."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein feuchter Start am Stora Torg führt Sie zur geschützten Dreifaltigkeitskirche. Mittags radeln Sie zum Stora Kronohuset und suchen Schutz unter den Bäumen des Tivoli-Parks. Der Nachmittag bringt Sie zum Naturum und weiter zur Ruine Lillö, wo der Regen die Geschichte atmet. Der Tag endet mit einer erfrischenden Rückfahrt ins Zentrum.",
+            "hu": "Nedves kezdés a Stora Torgon, majd irány a védett Szentháromság-templom. Délben a Stora Kronohuset felé tekerünk, menedéket keresve a Tivoli park fái alatt. Délután a Naturum és a Lillö várrom következik, ahol az eső különleges hangulatot áraszt. A nap egy frissítő visszatekeréssel zárul a városközpontba.",
+            "ro": "Un început umed în Stora Torg vă duce spre Biserica Sfânta Treime protejată. La prânz, pedalați spre Stora Kronohuset și căutați adăpost sub copacii din Parcul Tivoli. După-amiaza vă duce la Naturum și la ruinele Lillö, unde ploaia accentuează istoria. Ziua se încheie cu o întoarcere revigorantă în centru.",
+            "en": "A damp start at Stora Torg leads you to the sheltered Holy Trinity Church. At midday, cycle to Stora Kronohuset and find cover under the trees of Tivoli Park. The afternoon brings you to Naturum and onto Lillö Castle ruin, where the rain breathes history. The day ends with a refreshing ride back to the city centre."
+          },
+          "stops": [
+            {
+              "name": "Stora Torg",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschiges Kopfsteinpflaster bei Nässe.",
+                "hu": "Vigyázzon a csúszós macskakövekre nedves időben.",
+                "ro": "Atenție la pavajul alunecos când este ud.",
+                "en": "Watch out for slippery cobblestones when wet."
+              }
+            },
+            {
+              "name": "Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich direkt am Kircheneingang.",
+                "hu": "Kerékpártárolók közvetlenül a templom bejáratánál találhatóak.",
+                "ro": "Suporturile pentru biciclete se află chiar la intrarea în biserică.",
+                "en": "Bike racks are located right by the church entrance."
+              }
+            },
+            {
+              "name": "Stora Kronohuset",
+              "tip_5lang": {
+                "de": "Das historische Gebäude bietet einige überdachte Nischen.",
+                "hu": "A történelmi épület több fedett kiszögeléssel rendelkezik.",
+                "ro": "Clădirea istorică oferă câteva nișe acoperite.",
+                "en": "The historic building offers some covered niches."
+              }
+            },
+            {
+              "name": "Tivoli Park",
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen bieten natürlichen Regenschutz beim Fahren.",
+                "hu": "A sűrű lombkoronák természetes esővédelmet nyújtanak tekerés közben.",
+                "ro": "Coroanele dese ale copacilor oferă protecție naturală împotriva ploii.",
+                "en": "Dense tree canopies offer natural rain protection while riding."
+              }
+            },
+            {
+              "name": "Naturum Vattenriket",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad trocken unter der Brücke oder am Zentrum.",
+                "hu": "Parkolja le kerékpárját szárazon a híd alatt vagy a központnál.",
+                "ro": "Parcați bicicleta la uscat sub pod sau lângă centru.",
+                "en": "Park your bike in a dry spot under the bridge or at the centre."
+              }
+            },
+            {
+              "name": "Lillö Castle Ruin",
+              "tip_5lang": {
+                "de": "Die Wege zur Ruine können bei Regen schlammig sein.",
+                "hu": "A romokhoz vezető utak esőben sárosak lehetnek.",
+                "ro": "Potecile spre ruine pot fi noroioase pe timp de ploaie.",
+                "en": "Paths to the ruins can be muddy during rain."
+              }
+            },
+            {
+              "name": "Return to City Centre",
+              "tip_5lang": {
+                "de": "Eine heiße Dusche oder ein Kaffee wärmt Sie nach der Tour auf.",
+                "hu": "Egy forró zuhany vagy kávé felmelegíti a túra után.",
+                "ro": "Un duș fierbinte sau o cafea vă vor încălzi după tur.",
+                "en": "A hot shower or coffee will warm you up after the tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Regenbekleidung ist für die Fahrt nach Lillö unerlässlich.",
+              "Vermeiden Sie schnelles Bremsen auf nassem Laub im Park.",
+              "Prüfen Sie, ob Ihr Leihrad Schutzbleche hat.",
+              "Das Naturum bietet Schließfächer für nasse Ausrüstung."
+            ],
+            "hu": [
+              "A Lillö felé vezető úton elengedhetetlen a jó esőruházat.",
+              "Kerülje a hirtelen fékezést a park nedves levelein.",
+              "Ellenőrizze, hogy a bérelt kerékpárnak van-e sárvédője.",
+              "A Naturumban vannak értékmegőrzők a nedves felszerelésnek."
+            ],
+            "ro": [
+              "Echipamentul bun de ploaie este esențial pentru drumul spre Lillö.",
+              "Evitați frânarea bruscă pe frunzele ude din parc.",
+              "Verificați dacă bicicleta închiriată are aripi de protecție.",
+              "Naturum oferă dulapuri pentru echipamentul ud."
+            ],
+            "en": [
+              "Good rain gear is essential for the ride to Lillö.",
+              "Avoid sudden braking on wet leaves in the park.",
+              "Check if your rental bike has fenders.",
+              "Naturum provides lockers for wet gear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Wintermorgen beginnt am Stora Torg. Nach einem Stopp an der Kirche radeln Sie am Kronohuset vorbei zum Tivoli-Park, der im Frost glänzt. Mittags bietet das Naturum Wärme. Die Fahrt zur Ruine Lillö führt durch die weite, winterliche Landschaft. Der Tag endet bei Einbruch der Dunkelheit mit der Rückfahrt in das beleuchtete Kristianstad.",
+            "hu": "Hideg téli reggel kezdődik a Stora Torgon. A templomi megálló után a Kronohuset mellett eltekerve érjük el a deres Tivoli parkot. Délben a Naturum ad meleget. A Lillö várromhoz vezető út a tágas, téli tájon át vezet. A nap sötétedéskor ér véget a kivilágított Kristianstadba való visszatéréssel.",
+            "ro": "O dimineață rece de iarnă începe în Stora Torg. După o oprire la biserică, pedalați pe lângă Kronohuset spre Parcul Tivoli, care strălucește de îngheț. La prânz, Naturum oferă căldură. Drumul spre ruinele Lillö trece prin peisajul vast de iarnă. Ziua se încheie la lăsarea întunericului cu întoarcerea în orașul luminat.",
+            "en": "A cold winter morning starts at Stora Torg. After a stop at the church, cycle past Kronohuset to Tivoli Park, glistening in frost. At midday, Naturum provides warmth. The ride to Lillö Castle ruin takes you through the vast winter landscape. The day ends at nightfall with a ride back into illuminated Kristianstad."
+          },
+          "stops": [
+            {
+              "name": "Stora Torg",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe für die Fahrt durch den Wind.",
+                "hu": "Viseljen meleg kesztyűt a szélben való tekeréshez.",
+                "ro": "Purtați mănuși groase pentru plimbarea prin vânt.",
+                "en": "Wear warm gloves for the ride through the wind."
+              }
+            },
+            {
+              "name": "Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kirchenbesuch, um die Finger aufzuwärmen.",
+                "hu": "Használja ki a templomlátogatást az ujjai felmelegítésére.",
+                "ro": "Folosiți vizita la biserică pentru a vă încălzi degetele.",
+                "en": "Use the church visit to warm up your fingers."
+              }
+            },
+            {
+              "name": "Stora Kronohuset",
+              "tip_5lang": {
+                "de": "Das Gebäude schützt vor dem kalten Nordwind.",
+                "hu": "Az épület védelmet nyújt a hideg északi szél ellen.",
+                "ro": "Clădirea protejează împotriva vântului rece de nord.",
+                "en": "The building provides shelter from the cold north wind."
+              }
+            },
+            {
+              "name": "Tivoli Park",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig, da die Brücken im Park vereist sein können.",
+                "hu": "Hajtson óvatosan, mert a park hídjai jegesek lehetnek.",
+                "ro": "Conduceți cu atenție, deoarece podurile din parc pot fi înghețate.",
+                "en": "Ride carefully as the bridges in the park can be icy."
+              }
+            },
+            {
+              "name": "Naturum Vattenriket",
+              "tip_5lang": {
+                "de": "Hier können Sie Ihre Akkus und sich selbst aufwärmen.",
+                "hu": "Itt feltöltheti az akkumulátorait és saját magát is.",
+                "ro": "Aici vă puteți reîncărca bateriile și vă puteți încălzi.",
+                "en": "Here you can recharge your batteries and warm yourself up."
+              }
+            },
+            {
+              "name": "Lillö Castle Ruin",
+              "tip_5lang": {
+                "de": "Die Ruine wirkt im Schnee besonders mystisch.",
+                "hu": "A várrom különösen misztikus látványt nyújt a hóban.",
+                "ro": "Ruinele par deosebit de mistice sub zăpadă.",
+                "en": "The ruins look especially mystical in the snow."
+              }
+            },
+            {
+              "name": "Return to City Centre",
+              "tip_5lang": {
+                "de": "Achten Sie auf funktionierende Lichter bei früher Dunkelheit.",
+                "hu": "Ügyeljen a működő lámpákra a korai sötétedés miatt.",
+                "ro": "Asigurați-vă că luminile funcționează, se întunecă devreme.",
+                "en": "Ensure your lights are working as it gets dark early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck; bei Kälte sinkt dieser oft.",
+              "Die Strecke nach Lillö ist exponiert und kann sehr windig sein.",
+              "Trinken Sie ausreichend Tee oder heißen Kakao unterwegs.",
+              "Vermeiden Sie schattige Wege, die länger vereist bleiben."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást; hidegben ez gyakran lecsökken.",
+              "A Lillö felé vezető szakasz nyitott és nagyon szeles lehet.",
+              "Igyon elegendő teát vagy forró kakaót útközben.",
+              "Kerülje az árnyékos utakat, amelyek tovább maradhatnak jegesek."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope; aceasta scade adesea la frig.",
+              "Traseul spre Lillö este expus și poate fi foarte vântos.",
+              "Beți suficient ceai sau ciocolată caldă pe drum.",
+              "Evitați potecile umbrite, care rămân înghețate mai mult timp."
+            ],
+            "en": [
+              "Check tire pressure; it often drops in the cold.",
+              "The route to Lillö is exposed and can be very windy.",
+              "Drink plenty of tea or hot cocoa along the way.",
+              "Avoid shaded paths that stay icy longer."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -799,6 +1181,188 @@
           "Parking fees can be high in Sweden; a day pass is often cheaper.",
           "Plan your drives between clusters outside of peak hours to avoid traffic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie bequem im Parkhaus und erkunden Sie das Zentrum zu Fuß unter dem Regenschirm. Mittags bietet das Regionmuseet trockene Kultur. Eine kurze Fahrt bringt Sie zur Ruine Lillö, bevor das Naturum mit seinen warmen Ausblicken lockt. Den Nachmittag genießen Sie im Vattenriket, geschützt vor dem nassen Wetter.",
+            "hu": "Kezdje kényelmesen a parkolóházban, majd fedezze fel a központot esernyővel. Délben a Regionmuseet kínál száraz kulturális élményt. Rövid autózás után a Lillö várrom, majd a Naturum következik meleg kilátással. A délutánt a Vattenriketben töltheti, védve a nedves időjárástól.",
+            "ro": "Începeți confortabil într-o parcare și explorați centrul pe jos cu umbrela. La prânz, Muzeul Regional oferă cultură la adăpost. O scurtă călătorie vă duce la ruinele Lillö înainte ca Naturum să vă atragă cu priveliștile sale călduroase. După-amiaza se petrece în Vattenriket, protejat de vremea umedă.",
+            "en": "Start comfortably in a parking garage and explore the centre on foot with an umbrella. At midday, the Regional Museum offers dry culture. A short drive takes you to Lillö Castle ruin before Naturum beckons with its warm views. Enjoy the afternoon in Vattenriket, sheltered from the wet weather."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Park in City Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser für trockenen Ein- und Ausstieg.",
+                "hu": "Használja a parkolóházakat a száraz ki- és beszálláshoz.",
+                "ro": "Folosiți parcările acoperite pentru a intra și ieși pe uscat.",
+                "en": "Use parking garages for dry entry and exit."
+              }
+            },
+            {
+              "name": "Stora Torg & Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten minimieren die Nässe.",
+                "hu": "A látnivalók közötti rövid utak minimalizálják az ázást.",
+                "ro": "Distanțele scurte între obiective reduc expunerea la ploaie.",
+                "en": "Short distances between sights minimize getting wet."
+              }
+            },
+            {
+              "name": "Regionmuseet Skåne",
+              "tip_5lang": {
+                "de": "Idealer Ort für eine längere Regenpause.",
+                "hu": "Ideális hely egy hosszabb esőszünethez.",
+                "ro": "Loc ideal pentru o pauză mai lungă în caz de ploaie.",
+                "en": "Ideal spot for a longer rain break."
+              }
+            },
+            {
+              "name": "Cluster 2: Lillö Castle Ruin",
+              "tip_5lang": {
+                "de": "Parken Sie nah an der Ruine, um den Fußweg kurz zu halten.",
+                "hu": "Parkoljon közel a romokhoz, hogy rövid legyen a séta.",
+                "ro": "Parcați aproape de ruine pentru a scurta mersul pe jos.",
+                "en": "Park close to the ruins to keep the walk short."
+              }
+            },
+            {
+              "name": "Cluster 3: Naturum Vattenriket",
+              "tip_5lang": {
+                "de": "Das Zentrum ist barrierefrei und trocken erreichbar.",
+                "hu": "A központ akadálymentesen és szárazon elérhető.",
+                "ro": "Centrul este accesibil fără bariere și pe uscat.",
+                "en": "The centre is accessible barrier-free and dry."
+              }
+            },
+            {
+              "name": "Walk in Vattenriket & Tivoli Park",
+              "tip_5lang": {
+                "de": "Wählen Sie die befestigten Wege, um Schlamm zu vermeiden.",
+                "hu": "Válassza a kiépített utakat a sár elkerülése érdekében.",
+                "ro": "Alegeți potecile amenajate pentru a evita noroiul.",
+                "en": "Choose the paved paths to avoid mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie ein Handtuch im Auto bereit, um sich abzutrocknen.",
+              "Die Sicht kann bei starkem Regen in der flachen Landschaft eingeschränkt sein.",
+              "Nutzen Sie die Park-Apps, um den Bezahlvorgang im Trockenen zu erledigen.",
+              "Besuchen Sie das Naturum-Café für eine Pause mit Aussicht."
+            ],
+            "hu": [
+              "Tartson egy törölközőt az autóban a szárazra törléshez.",
+              "Heves esőben a látótávolság korlátozott lehet a sík tájon.",
+              "Használjon parkolási alkalmazásokat a fizetéshez szárazon.",
+              "Látogassa meg a Naturum kávézóját egy kilátással egybekötött pihenőre."
+            ],
+            "ro": [
+              "Țineți un prosop în mașină pentru a vă usca.",
+              "Vizibilitatea poate fi limitată pe timp de ploaie puternică în câmpie.",
+              "Folosiți aplicațiile de parcare pentru a plăti din interiorul mașinii.",
+              "Vizitați cafeneaua Naturum pentru o pauză cu priveliște."
+            ],
+            "en": [
+              "Keep a towel in the car to dry off.",
+              "Visibility can be limited during heavy rain in the flat landscape.",
+              "Use parking apps to handle payments from the dry interior.",
+              "Visit the Naturum cafe for a break with a view."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintertag im beheizten Auto und erkunden Sie die historische Mitte. Die Dreifaltigkeitskirche und das Museum bieten wohlige Wärme. Eine Fahrt durch die frostige Landschaft führt Sie zur mystischen Ruine Lillö. Am Nachmittag genießen Sie die winterliche Stille im Naturum und einen kurzen Spaziergang im Tivoli-Park, bevor die Dämmerung einsetzt.",
+            "hu": "Kezdje a téli napot a fűtött autóban, majd fedezze fel a történelmi központot. A Szentháromság-templom és a múzeum kellemes meleget kínál. Autózás a zúzmarás tájon át a misztikus Lillö várromhoz. Délután élvezze a téli csendet a Naturumban és egy rövid sétát a Tivoli parkban, mielőtt leszáll az alkony.",
+            "ro": "Începeți ziua de iarnă în mașina încălzită și explorați centrul istoric. Biserica Sfânta Treime și muzeul oferă o căldură plăcută. O plimbare prin peisajul geros vă duce la ruinele mistice Lillö. După-amiaza, bucurați-vă de liniștea iernii la Naturum și de o scurtă plimbare în Parcul Tivoli înainte de amurg.",
+            "en": "Start your winter day in a heated car and explore the historical centre. The Holy Trinity Church and the museum offer cozy warmth. A drive through the frosty landscape takes you to the mystical Lillö Castle ruin. In the afternoon, enjoy the winter silence at Naturum and a short walk in Tivoli Park before dusk sets in."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Park in City Centre",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Mietwagen über Winterreifen verfügt.",
+                "hu": "Győződjön meg róla, hogy a bérautón van téli gumi.",
+                "ro": "Asigurați-vă că mașina închiriată are anvelope de iarnă.",
+                "en": "Ensure your rental car has winter tires."
+              }
+            },
+            {
+              "name": "Stora Torg & Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Die Parkplätze sind oft geräumt und gut erreichbar.",
+                "hu": "A parkolóhelyeket gyakran letakarítják és jól elérhetőek.",
+                "ro": "Locurile de parcare sunt adesea deszăpezite și ușor accesibile.",
+                "en": "Parking spaces are often cleared and easily accessible."
+              }
+            },
+            {
+              "name": "Regionmuseet Skåne",
+              "tip_5lang": {
+                "de": "Geben Sie schwere Wintermäntel an der Garderobe ab.",
+                "hu": "Adja le a nehéz télikabátokat a ruhatárban.",
+                "ro": "Lăsați hainele grele de iarnă la garderobă.",
+                "en": "Leave heavy winter coats at the cloakroom."
+              }
+            },
+            {
+              "name": "Cluster 2: Lillö Castle Ruin",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schmaleren Zufahrtswegen.",
+                "hu": "Hajtson óvatosan a szűkebb bekötőutakon.",
+                "ro": "Conduceți cu atenție pe drumurile de acces mai înguste.",
+                "en": "Drive carefully on the narrower access roads."
+              }
+            },
+            {
+              "name": "Cluster 3: Naturum Vattenriket",
+              "tip_5lang": {
+                "de": "Die großen Fenster bieten Wärme bei vollem Naturerlebnis.",
+                "hu": "A hatalmas ablakok meleget és teljes természetélményt nyújtanak.",
+                "ro": "Ferestrele mari oferă căldură și o experiență completă a naturii.",
+                "en": "The large windows provide warmth along with a full nature experience."
+              }
+            },
+            {
+              "name": "Walk in Vattenriket & Tivoli Park",
+              "tip_5lang": {
+                "de": "Kürzen Sie den Spaziergang ab, wenn der Wind zu kalt wird.",
+                "hu": "Rövidítse le a sétát, ha túl hideg lesz a szél.",
+                "ro": "Scurtați plimbarea dacă vântul devine prea rece.",
+                "en": "Shorten the walk if the wind gets too cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glatteiswarnungen im Radio oder in Apps.",
+              "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+              "Führen Sie einen Eiskratzer und eventuell eine Decke mit.",
+              "Die Parkgebühren sind im Winter oft identisch zum Sommer."
+            ],
+            "hu": [
+              "Figyelje a jegesedésre vonatkozó figyelmeztetéseket a rádióban vagy appokban.",
+              "Ne járassa feleslegesen a motort álló helyzetben.",
+              "Legyen Önnél jégkaparó és esetleg egy takaró.",
+              "A parkolási díjak télen gyakran megegyeznek a nyáriakkal."
+            ],
+            "ro": [
+              "Atenție la avertizările de polei la radio sau în aplicații.",
+              "Nu lăsați motorul să meargă inutil în timp ce staționați.",
+              "Aveți la îndemână o răzuitoare de gheață și eventual o pătură.",
+              "Taxele de parcare sunt adesea identice iarna ca și vara."
+            ],
+            "en": [
+              "Watch for ice warnings on the radio or in apps.",
+              "Don't leave the engine idling unnecessarily.",
+              "Keep an ice scraper and possibly a blanket in the car.",
+              "Parking fees in winter are often the same as in summer."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1035,6 +1599,170 @@
           "Download the local public transport app, 'Skånetrafiken', to manage timetables and tickets.",
           "Note that buses in Sweden are often cashless; a credit card or the app is required."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Kommen Sie trocken am Bahnhof an und erkunden Sie die Innenstadt. Mittags bieten die Dreifaltigkeitskirche und das Museum Schutz vor Regengüssen. Eine kurze Busfahrt führt Sie zum Tivoli-Park und zum Naturum, wo Sie die Natur gemütlich von drinnen beobachten können. Der Tag endet mit der entspannten Rückfahrt vom zentralen Knotenpunkt.",
+            "hu": "Érkezzen szárazon a vasútállomásra, majd fedezze fel a belvárost. Délben a Szentháromság-templom és a múzeum nyújt menedéket a záporok elől. Rövid buszozás után a Tivoli park és a Naturum következik, ahol kényelmesen, bentről figyelheti a természetet. A nap pihentető visszautazással zárul a központi pályaudvarról.",
+            "ro": "Sosiți la uscat în gară și explorați centrul orașului. La prânz, Biserica Sfânta Treime și muzeul oferă adăpost împotriva averselor. O scurtă călătorie cu autobuzul vă duce la Parcul Tivoli și la Naturum, unde puteți observa natura confortabil din interior. Ziua se încheie cu întoarcerea relaxată din gară.",
+            "en": "Arrive dry at the station and explore the city centre. At midday, the Holy Trinity Church and the museum provide shelter from the showers. A short bus ride takes you to Tivoli Park and Naturum, where you can watch nature comfortably from inside. The day ends with a relaxed return from the central station."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrive at Central Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet beheizte Wartehallen.",
+                "hu": "A vasútállomás fűtött várótermekkel rendelkezik.",
+                "ro": "Gara oferă săli de așteptare încălzite.",
+                "en": "The station offers heated waiting halls."
+              }
+            },
+            {
+              "name": "Stora Torg & Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Vom Bahnhof sind es nur wenige Gehminuten zum Platz.",
+                "hu": "A vasútállomástól csak pár perc séta a tér.",
+                "ro": "Sunt doar câteva minute de mers pe jos de la gară până în piață.",
+                "en": "It's only a few minutes' walk from the station to the square."
+              }
+            },
+            {
+              "name": "Tivoli Park",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen liegen nah an den Parkeingängen.",
+                "hu": "A buszmegállók közel vannak a park bejárataihoz.",
+                "ro": "Stațiile de autobuz sunt aproape de intrările în parc.",
+                "en": "Bus stops are located close to the park entrances."
+              }
+            },
+            {
+              "name": "Cluster 2: Naturum Vattenriket",
+              "tip_5lang": {
+                "de": "Ein gut ausgebauter Weg führt direkt vom Bahnhof hierher.",
+                "hu": "Egy jól kiépített út vezet közvetlenül az állomástól ide.",
+                "ro": "O potecă bine amenajată duce direct de la gară aici.",
+                "en": "A well-maintained path leads directly here from the station."
+              }
+            },
+            {
+              "name": "Return to Central Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App für Echtzeit-Infos bei Wetterverzögerungen.",
+                "hu": "Használja az alkalmazást valós idejű infókért késések esetén.",
+                "ro": "Folosiți aplicația pentru informații în timp real în caz de întârzieri.",
+                "en": "Use the app for real-time info in case of weather delays."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Skånetrafiken-App zeigt alle Verbindungen im Trockenen an.",
+              "Am Bahnhof gibt es Schließfächer für schweres Gepäck.",
+              "Busse fahren regelmäßig und sind eine gute Flucht vor dem Regen.",
+              "Achten Sie auf Pfützen an den Haltestellen."
+            ],
+            "hu": [
+              "A Skånetrafiken alkalmazás minden járatot mutat szárazon.",
+              "Az állomáson vannak értékmegőrzők a nehéz csomagoknak.",
+              "A buszok rendszeresen járnak és jó menekülést nyújtanak az eső elől.",
+              "Ügyeljen a tócsákra a megállókban."
+            ],
+            "ro": [
+              "Aplicația Skånetrafiken afișează toate conexiunile la adăpost.",
+              "În gară există dulapuri pentru bagaje grele.",
+              "Autobuzele circulă regulat și sunt un refugiu bun împotriva ploii.",
+              "Atenție la bălțile din stații."
+            ],
+            "en": [
+              "The Skånetrafiken app shows all connections while you stay dry.",
+              "There are lockers at the station for heavy luggage.",
+              "Buses run regularly and are a good escape from the rain.",
+              "Watch out for puddles at the stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Empfang am Bahnhof leitet Ihren Tag ein. Nach dem Besuch der warmen Kirche und des Museums bringt Sie der Bus durch das winterliche Kristianstad. Mittags wärmen Sie sich im Naturum auf, bevor Sie die frostige Parklandschaft erkunden. Der Tag endet gemütlich im warmen Zug oder Bus bei früh einsetzender Dunkelheit.",
+            "hu": "Deres fogadtatás a vasútállomáson indítja a napot. A meleg templom és múzeum után a busz a téli Kristianstadon át viszi tovább. Délben a Naturumban melegedhet fel, mielőtt felfedezné a zúzmarás parkot. A nap kényelmesen, a meleg vonaton vagy buszon ér véget a korai sötétedésben.",
+            "ro": "O primire geroasă la gară vă începe ziua. După vizitarea bisericii calde și a muzeului, autobuzul vă poartă prin Kristianstadul de iarnă. La prânz vă încălziți la Naturum înainte de a explora parcul înghețat. Ziua se încheie confortabil în trenul sau autobuzul cald, pe măsură ce se întunecă devreme.",
+            "en": "A frosty welcome at the station starts your day. After visiting the warm church and museum, the bus takes you through wintery Kristianstad. At midday, warm up at Naturum before exploring the frozen parkland. The day ends cozily on a warm train or bus as darkness sets in early."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrive at Central Station",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Kaffee direkt am Bahnhof.",
+                "hu": "Élvezzen egy forró kávét közvetlenül az állomáson.",
+                "ro": "Bucurați-vă de o cafea fierbinte chiar în gară.",
+                "en": "Enjoy a hot coffee right at the station."
+              }
+            },
+            {
+              "name": "Stora Torg & Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Die Wege im Zentrum sind meist gut gestreut.",
+                "hu": "A belvárosi utakat általában jól felszórják.",
+                "ro": "Drumurile din centru sunt de obicei bine întreținute.",
+                "en": "Paths in the centre are usually well-gritted."
+              }
+            },
+            {
+              "name": "Tivoli Park",
+              "tip_5lang": {
+                "de": "Warten Sie in den wettergeschützten Wartehäuschen auf den Bus.",
+                "hu": "Várjon a buszra az időjárástól védett várókban.",
+                "ro": "Așteptați autobuzul în stațiile protejate de vreme.",
+                "en": "Wait for the bus in the weather-protected shelters."
+              }
+            },
+            {
+              "name": "Cluster 2: Naturum Vattenriket",
+              "tip_5lang": {
+                "de": "Der Fußweg vom Bahnhof ist kurz, ziehen Sie sich aber warm an.",
+                "hu": "A séta az állomástól rövid, de öltözzön fel melegen.",
+                "ro": "Drumul pe jos de la gară este scurt, dar îmbrăcați-vă gros.",
+                "en": "The walk from the station is short, but dress warmly."
+              }
+            },
+            {
+              "name": "Return to Central Station",
+              "tip_5lang": {
+                "de": "Der beleuchtete Bahnhof ist am Abend ein schöner Anblick.",
+                "hu": "A kivilágított állomás este szép látványt nyújt.",
+                "ro": "Gara iluminată este o priveliște frumoasă seara.",
+                "en": "The illuminated station is a beautiful sight in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können sich bei extremem Schneefall kurzfristig ändern.",
+              "Die Züge und Busse sind gut beheizt.",
+              "Nutzen Sie die Zeit am Bahnhof für Souvenirs im Warmen.",
+              "Tragen Sie Schuhe mit gutem Profil für glatte Bahnsteige."
+            ],
+            "hu": [
+              "Extrém havazás esetén a menetrendek rövid távon változhatnak.",
+              "A vonatok és buszok jól fűtöttek.",
+              "Használja ki az időt az állomáson szuvenírvásárlásra a melegben.",
+              "Viseljen jó profilú cipőt a csúszós peronok miatt."
+            ],
+            "ro": [
+              "Orarele se pot modifica în scurt timp în caz de ninsoare extremă.",
+              "Trenurile și autobuzele sunt bine încălzite.",
+              "Folosiți timpul în gară pentru a cumpăra suveniruri la căldură.",
+              "Purtați încălțăminte cu talpă aderentă pentru peroanele alunecoase."
+            ],
+            "en": [
+              "Schedules may change at short notice during extreme snowfall.",
+              "Trains and buses are well-heated.",
+              "Use time at the station for souvenir shopping in the warmth.",
+              "Wear shoes with good grip for slippery platforms."
+            ]
+          }
+        }
       }
     }
   }

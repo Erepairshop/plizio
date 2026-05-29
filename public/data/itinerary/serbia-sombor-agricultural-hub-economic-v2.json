@@ -339,6 +339,206 @@
           "Most central sights are within easy walking distance.",
           "Take time to admire the architecture, which is a mix of different styles."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Sombor beginnt unter den Vordächern des Holy Trinity Square. Trotz Regen leuchten die alten Fassaden. Mittags bietet die massive Županija perfekten Schutz, wo das riesige Gemälde der Schlacht von Senta beeindruckt. Nachmittags spazieren wir zwischen Museen und Galerien durch die Glavna ulica. Der Abend am Kanal ist grau und melancholisch, aber die frische, feuchte Luft ist belebend.",
+            "hu": "Zombor esőben is elegáns, a Szentháromság tér épületei alatt keresünk menedéket reggel. Délben a Megyeháza (Županija) vastag falai és a Zentai csata monumentális festménye nyújt fedezetett az égi áldás elől. Délután a múzeumok és a Konjović Galéria belső tereiben kalandozunk. Az estét a Ferenc-csatorna partján zárjuk, ahol az eső kopogása a vízen különleges ritmust ad a városnak.",
+            "ro": "Somborul sub ploaie începe în Piața Sfânta Treime, unde ne adăpostim sub arcadele vechi. La prânz, clădirea Županija oferă refugiul perfect pentru a admira pictura uriașă a Bătăliei de la Senta. După-amiaza explorăm muzeele de pe strada principală, evitând bălțile de pe trotuar. Seara la canal este melancolică, aerul umed scoțând în evidență mirosul specific al copacilor Bođoš.",
+            "en": "The morning in Sombor starts under the awnings of Holy Trinity Square. Despite the rain, the old facades shine. At noon, the massive Županija provides perfect shelter, featuring the impressive painting of the Battle of Senta. In the afternoon, we stroll between museums and galleries along Glavna Street. The evening at the canal is grey and melancholic, but the fresh, damp air is invigorating."
+          },
+          "stops": [
+            {
+              "name": "Holy Trinity Square",
+              "tip_4lang": {
+                "de": "Suchen Sie Schutz unter den Markisen der Cafés am Platzrand.",
+                "hu": "Használja a tér szélén lévő kávézók napellenzőit esővédőként.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor de pe marginea pieței.",
+                "en": "Seek shelter under the awnings of the cafes at the square's edge."
+              }
+            },
+            {
+              "name": "Županija (County Hall)",
+              "tip_4lang": {
+                "de": "Ein idealer Ort bei Regen; das Innere ist trocken und prächtig.",
+                "hu": "Tökéletes esős program; a belső terek szárazak és lenyűgözőek.",
+                "ro": "Locație ideală pe ploaie; interiorul este uscat și magnific.",
+                "en": "An ideal place during rain; the interior is dry and magnificent."
+              }
+            },
+            {
+              "name": "Glavna ulica (Main Street)",
+              "tip_4lang": {
+                "de": "Vorsicht auf den glatten Pflastersteinen; nutzen Sie die Ladenpassagen.",
+                "hu": "Vigyázzon a csúszós macskakövön; haladjon az üzletek előtetői alatt.",
+                "ro": "Atenție la pavajul alunecos; folosiți arcadele magazinelor.",
+                "en": "Watch out for slippery cobblestones; use the shop arcades."
+              }
+            },
+            {
+              "name": "Sombor City Museum",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Regenschirme und Mäntel.",
+                "hu": "Használja a ruhatárat a vizes esernyők és kabátok elhelyezésére.",
+                "ro": "Folosiți garderoba pentru umbrelele și pelerinele umede.",
+                "en": "Use the cloakroom for wet umbrellas and coats."
+              }
+            },
+            {
+              "name": "Milan Konjović Gallery",
+              "tip_4lang": {
+                "de": "Die leuchtenden Farben Konjovićs vertreiben das Grau des Regentages.",
+                "hu": "Konjović élénk színei elfeledtetik az esős nap szürkeségét.",
+                "ro": "Culorile vibrante ale lui Konjović alungă griul zilei ploioase.",
+                "en": "Konjović's vibrant colors will chase away the rainy day blues."
+              }
+            },
+            {
+              "name": "National Theatre Sombor",
+              "tip_4lang": {
+                "de": "Prüfen Sie, ob das Foyer für eine kurze trockene Pause offen ist.",
+                "hu": "Nézze meg, nyitva van-e az előcsarnok egy rövid, száraz pihenőre.",
+                "ro": "Verificați dacă foierul este deschis pentru o scurtă pauză uscată.",
+                "en": "Check if the foyer is open for a short dry break."
+              }
+            },
+            {
+              "name": "Great Bačka Canal",
+              "tip_4lang": {
+                "de": "Der Weg kann schlammig sein; bleiben Sie auf den befestigten Abschnitten.",
+                "hu": "Az út saras lehet; maradjon a kövezett szakaszokon a part mentén.",
+                "ro": "Poteca poate fi noroioasă; rămâneți pe secțiunile pavate.",
+                "en": "The path can be muddy; stay on the paved sections along the bank."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sombor ist flach, aber die alten Gehwege können bei Nässe sehr rutschig sein.",
+              "Die Županija und die Museen sind die besten Zufluchtsorte für längere Schauer.",
+              "Tragen Sie wasserfeste Schuhe, da sich in der Fußgängerzone Pfützen bilden können.",
+              "Die vielen 'Bođoš'-Bäume bieten nur begrenzten Schutz vor starkem Regen."
+            ],
+            "hu": [
+              "Zombor sík város, de a régi kövezet esőben rendkívül csúszóssá válhat.",
+              "A Megyeháza és a múzeumok a legjobb menedékek a hosszabb záporok idején.",
+              "Viseljen vízálló cipőt, mert a sétálóutcán könnyen összegyűlik a víz.",
+              "A híres bođoš fák lombkoronája csak gyenge szitálás ellen véd meg."
+            ],
+            "ro": [
+              "Sombor este plat, dar trotuarele vechi pot deveni foarte alunecoase la umezeală.",
+              "Županija și muzeele sunt cele mai bune refugii în timpul averselor prelungite.",
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți în zona pietonală.",
+              "Copacii 'Bođoš' oferă protecție limitată împotriva ploii torențiale."
+            ],
+            "en": [
+              "Sombor is flat, but the old pavements can become very slippery when wet.",
+              "The County Hall and museums are the best refuges during prolonged showers.",
+              "Wear waterproof shoes as puddles tend to form in the pedestrian zone.",
+              "The famous 'Bođoš' trees offer only limited protection from heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Szentháromság tér zeigt das wahre Gesicht des pannonischen Winters. Mittags wärmen wir uns in der prachtvollen Županija auf. Nachmittags wirken die kahlen Bođoš-Bäume in der Glavna ulica wie natürliche Skulpturen. Da die Sonne bereits gegen 16:15 Uhr untergeht, erreichen wir den Kanal in der blauen Stunde, wenn der Frost die Ufer überzieht.",
+            "hu": "A fagyos reggel a Szentháromság téren megmutatja a pannon tél valódi arcát. Délben a Megyeháza fűtött termeiben melegszünk fel a Zentai csata képe előtt. Délután a Glavna utca kopasz bođoš fái természetes szobrokként keretezik utunkat. Mivel a nap 16:15 körül nyugszik, a csatornát már a kék órában érjük el, amikor a dér belepi a partot.",
+            "ro": "O dimineață geroasă în Piața Sfânta Treime dezvăluie fața iernii panonice. La prânz ne încălzim în superba Županija, admirând detaliile istorice. După-amiaza, copacii Bođoš desfrunziți de pe strada principală arată ca niște sculpturi naturale. Soarele apune în jurul orei 16:15, așa că ajungem la canal în ora albastră, sub gerul serii.",
+            "en": "A frosty morning at Holy Trinity Square shows the true face of the Pannonian winter. At noon, we warm up in the magnificent Županija. In the afternoon, the bare Bođoš trees on Glavna Street look like natural sculptures. As the sun sets around 4:15 PM, we reach the canal during the blue hour, when frost covers the banks."
+          },
+          "stops": [
+            {
+              "name": "Holy Trinity Square",
+              "tip_4lang": {
+                "de": "Trinken Sie einen heißen Kaffee in einem der beheizten Cafés am Platz.",
+                "hu": "Igyon egy forró kávét a tér egyik fűtött teraszos kávézójában.",
+                "ro": "Beți o cafea fierbinte într-una dintre cafenelele încălzite din piață.",
+                "en": "Enjoy a hot coffee in one of the heated cafes around the square."
+              }
+            },
+            {
+              "name": "Županija (County Hall)",
+              "tip_4lang": {
+                "de": "Genießen Sie die Wärme der historischen Innenräume während der Führung.",
+                "hu": "Élvezze a történelmi belső terek melegét a vezetés alatt.",
+                "ro": "Bucurați-vă de căldura interioarelor istorice în timpul vizitei.",
+                "en": "Enjoy the warmth of the historic interiors during your visit."
+              }
+            },
+            {
+              "name": "Glavna ulica (Main Street)",
+              "tip_4lang": {
+                "de": "Achten Sie auf Glatteis unter den Bäumen, wo der Schatten bleibt.",
+                "hu": "Vigyázzon a jegesedésre a fák alatti árnyékos részeken.",
+                "ro": "Atenție la polei sub copaci, unde umbra persistă.",
+                "en": "Watch out for black ice under the trees where shadows linger."
+              }
+            },
+            {
+              "name": "Sombor City Museum",
+              "tip_4lang": {
+                "de": "Ein perfekter Ort, um der Kälte für eine Stunde zu entfliehen.",
+                "hu": "Tökéletes hely, hogy egy órára elmeneküljön a kinti fagy elől.",
+                "ro": "Un loc perfect pentru a scăpa de frig timp de o oră.",
+                "en": "A perfect place to escape the cold for an hour."
+              }
+            },
+            {
+              "name": "Milan Konjović Gallery",
+              "tip_4lang": {
+                "de": "Bewundern Sie die Kunst in einer angenehm temperierten Umgebung.",
+                "hu": "Csodálja meg a művészetet kellemesen temperált környezetben.",
+                "ro": "Admirați arta într-un mediu cu temperatură ambientală plăcută.",
+                "en": "Admire the art in a pleasantly warm environment."
+              }
+            },
+            {
+              "name": "National Theatre Sombor",
+              "tip_4lang": {
+                "de": "Das beleuchtete Gebäude wirkt im Winterabend besonders festlich.",
+                "hu": "A kivilágított épület a téli estén különösen ünnepélyesnek hat.",
+                "ro": "Clădirea iluminată arată deosebit de festiv în seara de iarnă.",
+                "en": "The illuminated building looks particularly festive on a winter evening."
+              }
+            },
+            {
+              "name": "Great Bačka Canal",
+              "tip_4lang": {
+                "de": "Warm anziehen; am Wasser ist der Wind im Winter deutlich kälter.",
+                "hu": "Öltözzön rétegesen; a vízparton a szél télen sokkal hidegebb.",
+                "ro": "Îmbrăcați-vă gros; lângă apă vântul este mult mai tăios iarna.",
+                "en": "Dress warmly; the wind by the water is significantly colder in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht früh unter (ca. 16:15), planen Sie Außenaktivitäten davor.",
+              "Die Museen schließen im Winter oft etwas früher, prüfen Sie die Zeiten.",
+              "Sombor ist bekannt für seine Winde; Windschutzkleidung ist ratsam.",
+              "Genießen Sie lokale Winterspezialitäten wie heißen Rakija in den Pubs."
+            ],
+            "hu": [
+              "A nap korán nyugszik (16:15 körül), a kültéri programokat időzítse előre.",
+              "A múzeumok télen gyakran korábban zárnak, ellenőrizze a nyitvatartást.",
+              "Zombor híres a szélről; a szélálló ruházat erősen ajánlott.",
+              "Kóstolja meg a helyi téli különlegességet, a forró rakiját a kocsmákban."
+            ],
+            "ro": [
+              "Soarele apune devreme (cca. 16:15), planificați activitățile externe înainte.",
+              "Muzeele se închid adesea mai devreme iarna, verificați programul.",
+              "Sombor este cunoscut pentru vânt; hainele rezistente la vânt sunt utile.",
+              "Savurați specialități locale de iarnă, cum ar fi rakija fiartă în pub-uri."
+            ],
+            "en": [
+              "Sunset is early (around 4:15 PM), plan outdoor activities before then.",
+              "Museums often close slightly earlier in winter, check their schedules.",
+              "Sombor is known for its winds; windproof clothing is highly recommended.",
+              "Enjoy local winter specialties like hot rakija in the city's pubs."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -669,6 +869,206 @@
           "Watch out for pedestrians on the main streets.",
           "A bike lock is essential."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Auf zwei Rädern durch das nasse Sombor. Das dichte Blätterdach der Bođoš-Bäume bietet anfangs Schutz. Mittags parken wir die Räder sicher an der Županija. Nachmittags radeln wir vorsichtig über das glatte Pflaster zum Museum. Die Tour zum Kanal ist erfrischend, erfordert aber gute Regenbekleidung für die Fahrt entlang des Wassers.",
+            "hu": "Két keréken a vizes Zomborban. A bođoš fák sűrű lombkoronája eleinte véd az esőtől. Délben biztonságban leparkoljuk a bicikliket a Megyeházánál. Délután óvatosan tekerünk a csúszós macskakövön a múzeumok felé. A csatorna felé tartó út frissítő, de jó esőruházatot igényel a vízparti szakaszon.",
+            "ro": "Pe două roți prin Somborul ud. Coronamentul des al copacilor Bođoš oferă protecție inițială. La prânz parcăm bicicletele în siguranță lângă Županija. După-amiaza pedalăm cu grijă pe pavajul alunecos spre muzeu. Tura spre canal este revigorantă, dar necesită echipament de ploaie bun.",
+            "en": "On two wheels through wet Sombor. The thick canopy of Bođoš trees offers initial protection. At noon, we park the bikes securely at the Županija. In the afternoon, we cycle carefully over the slippery pavement to the museum. The ride to the canal is refreshing but requires good rain gear for the section along the water."
+          },
+          "stops": [
+            {
+              "name": "Holy Trinity Square",
+              "tip_4lang": {
+                "de": "Vorsicht beim Bremsen auf dem nassen Marktplatz.",
+                "hu": "Legyen óvatos a fékezéssel a vizes piacon.",
+                "ro": "Atenție la frânare în piața umedă.",
+                "en": "Be careful when braking on the wet market square."
+              }
+            },
+            {
+              "name": "Glavna ulica (Main Street)",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Fahrradständer unter den großen Bäumen.",
+                "hu": "Használja a nagy fák alatti kerékpártárolókat.",
+                "ro": "Folosiți rastelele de biciclete de sub copacii mari.",
+                "en": "Use the bike racks located under the large trees."
+              }
+            },
+            {
+              "name": "Županija (County Hall)",
+              "tip_4lang": {
+                "de": "Überdachte Fahrradparkplätze finden Sie in der Nähe des Eingangs.",
+                "hu": "Fedett kerékpárparkolót a bejárat közelében talál.",
+                "ro": "Găsiți parcări acoperite pentru biciclete lângă intrare.",
+                "en": "Covered bike parking is available near the entrance."
+              }
+            },
+            {
+              "name": "Great Bačka Canal",
+              "tip_4lang": {
+                "de": "Der Uferweg kann rutschig sein; fahren Sie langsam.",
+                "hu": "A part menti út csúszós lehet; hajtson lassan.",
+                "ro": "Poteca de pe mal poate fi alunecoasă; circulați cu viteză redusă.",
+                "en": "The riverside path can be slippery; ride slowly."
+              }
+            },
+            {
+              "name": "Sombor City Museum",
+              "tip_4lang": {
+                "de": "Schließen Sie Ihr Rad an und trocknen Sie den Sattel ab.",
+                "hu": "Zárja le a biciklit és törölje szárazra a nyerget.",
+                "ro": "Încuiați bicicleta și ștergeți șaua.",
+                "en": "Lock your bike and wipe the saddle dry."
+              }
+            },
+            {
+              "name": "National Theatre Sombor",
+              "tip_4lang": {
+                "de": "Kurzer Stopp; achten Sie auf Fußgänger mit Regenschirmen.",
+                "hu": "Rövid megálló; figyeljen az esernyős gyalogosokra.",
+                "ro": "Oprire scurtă; atenție la pietonii cu umbrele.",
+                "en": "Short stop; watch out for pedestrians with umbrellas."
+              }
+            },
+            {
+              "name": "Milan Konjović Gallery",
+              "tip_4lang": {
+                "de": "Die Galerie bietet einen sicheren Platz für Ihre Ausrüstung.",
+                "hu": "A galériában biztonságos helyen hagyhatja a felszerelését.",
+                "ro": "Galeria oferă un loc sigur pentru echipamentul dvs.",
+                "en": "The gallery provides a safe spot to leave your gear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind in Sombor bei Regen ein Muss.",
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können.",
+              "Die Stadt ist sehr fahrradfreundlich, auch bei schlechtem Wetter.",
+              "Tragen Sie eine gelbe Warnweste, da die Sicht im Regen abnimmt."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen Zomborban esős időben.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek.",
+              "A város nagyon kerékpárosbarát, még rossz időben is.",
+              "Viseljen láthatósági mellényt, mert esőben romlanak a látási viszonyok."
+            ],
+            "ro": [
+              "Aripile de protecție sunt obligatorii în Sombor pe ploaie.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci.",
+              "Orașul este foarte prietenos cu bicicliștii, chiar și pe vreme rea.",
+              "Purtați o vestă reflectorizantă, vizibilitatea scade pe ploaie."
+            ],
+            "en": [
+              "Mudguards are a must in Sombor when it rains.",
+              "Avoid puddles as they can hide deep potholes.",
+              "The city is very bike-friendly, even in poor weather.",
+              "Wear a high-visibility vest as visibility decreases in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln durch die 'grünste Stadt'. Die kühle Luft sticht, aber die Fahrt ist belebend. Mittags wärmen wir uns in der Županija auf. Nachmittags erkunden wir die Museen im Zentrum. Die Fahrt zum Kanal ist am späten Nachmittag kurz, da die Kälte bei Sonnenuntergang gegen 16:15 Uhr spürbar zunimmt.",
+            "hu": "Téli tekerés a 'legzöldebb városban'. A hűvös levegő csípős, de az út frissítő. Délben a Megyeházánál melegszünk fel. Délután a központ múzeumait fedezzük fel. A csatornához tartó út késő délután rövid, mivel a napnyugtakor (16:15 körül) a hideg érezhetően fokozódik.",
+            "ro": "Ciclism de iarnă prin 'cel mai verde oraș'. Aerul rece este tăios, dar tura este revigorantă. La prânz ne încălzim la Županija. După-amiaza explorăm muzeele din centru. Drumul spre canal este scurt spre seară, deoarece gerul se intensifică după apus (ora 16:15).",
+            "en": "Winter cycling through the 'greenest city'. The cool air stings, but the ride is invigorating. At noon, we warm up at the Županija. In the afternoon, we explore the museums in the center. The trip to the canal is short in the late afternoon, as the cold increases significantly after sunset around 4:15 PM."
+          },
+          "stops": [
+            {
+              "name": "Holy Trinity Square",
+              "tip_4lang": {
+                "de": "Handschuhe sind für die Fahrt über den Platz unerlässlich.",
+                "hu": "A kesztyű elengedhetetlen a téren való áttekeréshez.",
+                "ro": "Mănușile sunt esențiale pentru tura prin piață.",
+                "en": "Gloves are essential for the ride across the square."
+              }
+            },
+            {
+              "name": "Glavna ulica (Main Street)",
+              "tip_4lang": {
+                "de": "Fahren Sie vorsichtig auf schneebedecktem Kopfsteinpflaster.",
+                "hu": "Hajtson óvatosan a hóval borított macskakövön.",
+                "ro": "Circulați cu grijă pe pavajul acoperit cu zăpadă.",
+                "en": "Ride carefully on snow-covered cobblestones."
+              }
+            },
+            {
+              "name": "Županija (County Hall)",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Halt für eine warme Teepause drinnen.",
+                "hu": "Használja ki a megállót egy meleg teára bent.",
+                "ro": "Folosiți oprirea pentru o pauză de ceai cald în interior.",
+                "en": "Use this stop for a warm tea break inside."
+              }
+            },
+            {
+              "name": "Great Bačka Canal",
+              "tip_4lang": {
+                "de": "Vorsicht vor Eis auf der Brücke über den Kanal.",
+                "hu": "Vigyázzon a jégre a csatorna feletti hídon.",
+                "ro": "Atenție la gheața de pe podul peste canal.",
+                "en": "Watch out for ice on the bridge over the canal."
+              }
+            },
+            {
+              "name": "Sombor City Museum",
+              "tip_4lang": {
+                "de": "Stellen Sie Ihr Rad dort ab, wo es nicht im Weg von Schneeräumern steht.",
+                "hu": "Oda parkoljon, ahol nincs a hókotrók útjában.",
+                "ro": "Parcați bicicleta unde nu încurcă utilajele de deszăpezire.",
+                "en": "Park your bike away from snow removal equipment routes."
+              }
+            },
+            {
+              "name": "National Theatre Sombor",
+              "tip_4lang": {
+                "de": "Kurzer Fotostopp; die Finger werden schnell kalt.",
+                "hu": "Rövid fotómegálló; az ujjak gyorsan lefagynak.",
+                "ro": "Scurtă oprire pentru poze; degetele îngheață repede.",
+                "en": "Short photo stop; fingers freeze quickly."
+              }
+            },
+            {
+              "name": "Milan Konjović Gallery",
+              "tip_4lang": {
+                "de": "Wärmen Sie sich in der Galerie auf, bevor Sie zurückfahren.",
+                "hu": "Melegedjen fel a galériában a visszaút előtt.",
+                "ro": "Încălziți-vă în galerie înainte de drumul de întoarcere.",
+                "en": "Warm up in the gallery before your return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überprüfen Sie den Reifendruck; etwas weniger Grip hilft auf Eis.",
+              "Die Dunkelheit kommt früh; stellen Sie sicher, dass Ihre Lichter funktionieren.",
+              "Achten Sie auf gefrorenes Laub auf den Radwegen.",
+              "Tragen Sie mehrere Schichten, um die Körperwärme zu halten."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást; a kisebb nyomás jobb tapadást ad jégen.",
+              "A sötétség korán jön; győződjön meg róla, hogy a lámpák működnek.",
+              "Ügyeljen a fagyott levelekre a kerékpárutakon.",
+              "Öltözzön rétegesen a testhő megtartása érdekében."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri; o presiune mai mică ajută pe gheață.",
+              "Întunericul vine devreme; asigurați-vă că luminile funcționează.",
+              "Atenție la frunzele înghețate de pe pistele de biciclete.",
+              "Purtați mai multe straturi de haine pentru a menține căldura."
+            ],
+            "en": [
+              "Check your tire pressure; slightly lower pressure helps with grip on ice.",
+              "Darkness comes early; ensure your lights are working properly.",
+              "Watch out for frozen leaves on the bike paths.",
+              "Wear multiple layers to retain body heat."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1009,6 +1409,206 @@
           "Plan your route between clusters in advance.",
           "Driving in the city center is easy, but watch out for one-way streets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Sombor per Auto im Regen ist komfortabel. Wir parken direkt am historischen Zentrum. Mittags besuchen wir die Županija ohne nass zu werden. Nachmittags geht es zum kulturellen Viertel und zur Konjović Galerie. Die kurze Fahrt zum Kanal bietet einen Ausblick auf das stürmische Wasser, bevor wir im warmen Wagen zurückkehren.",
+            "hu": "Zombor felfedezése autóval esőben a legkényelmesebb. Közvetlenül a történelmi központban parkolunk. Délben a Megyeházát látogatjuk meg anélkül, hogy eláznánk. Délután a kulturális negyed és a Konjović Galéria következik. A csatornához tett rövid út alatt a kocsi ablakából nézzük a vizet, mielőtt visszatérnénk.",
+            "ro": "Explorarea Somborului cu mașina pe ploaie este confortabilă. Parcăm direct lângă centrul istoric. La prânz vizităm Županija fără să ne udăm. După-amiaza mergem spre cartierul cultural și Galeria Konjović. Drumul scurt spre canal oferă o vedere spre apă înainte de a ne întoarce în mașina caldă.",
+            "en": "Exploring Sombor by car in the rain is comfortable. We park directly at the historic center. At noon, we visit the Županija without getting wet. In the afternoon, we head to the cultural quarter and the Konjović Gallery. The short drive to the canal offers a view of the water before returning in the warm car."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center",
+              "tip_4lang": {
+                "de": "Parkplätze sind in den Nebenstraßen meist verfügbar.",
+                "hu": "A mellékutcákban általában van szabad parkolóhely.",
+                "ro": "Locurile de parcare sunt de obicei disponibile pe străzile laterale.",
+                "en": "Parking spaces are usually available in the side streets."
+              }
+            },
+            {
+              "name": "Županija (County Hall)",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor dem prachtvollen Gebäude.",
+                "hu": "Használja a közvetlenül a gyönyörű épület előtti parkolót.",
+                "ro": "Folosiți parcarea direct din fața clădirii splendide.",
+                "en": "Use the parking lot directly in front of the magnificent building."
+              }
+            },
+            {
+              "name": "Plebanija",
+              "tip_4lang": {
+                "de": "Kurzer Fußweg vom Auto; halten Sie den Schirm bereit.",
+                "hu": "Rövid séta az autótól; tartsa készenlétben az esernyőt.",
+                "ro": "Scurtă plimbare de la mașină; țineți umbrela la îndemână.",
+                "en": "Short walk from the car; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Cluster 2: Cultural Quarter",
+              "tip_4lang": {
+                "de": "Zentrales Parken ermöglicht schnellen Zugang zu den Museen.",
+                "hu": "A központi parkolás gyors bejutást biztosít a múzeumokba.",
+                "ro": "Parcarea centrală permite accesul rapid la muzee.",
+                "en": "Central parking allows for quick access to the museums."
+              }
+            },
+            {
+              "name": "Milan Konjović Gallery",
+              "tip_4lang": {
+                "de": "Parken Sie in der Nähe, um den Regen zu minimieren.",
+                "hu": "Parkoljon a közelben, hogy minél kevesebbet kelljen az esőben lenni.",
+                "ro": "Parcați în apropiere pentru a minimiza expunerea la ploaie.",
+                "en": "Park nearby to minimize time spent in the rain."
+              }
+            },
+            {
+              "name": "National Theatre Sombor",
+              "tip_4lang": {
+                "de": "Halten Sie kurz zum Fotografieren an, wenn es der Verkehr erlaubt.",
+                "hu": "Álljon meg rövid időre fotózni, ha a forgalom engedi.",
+                "ro": "Opriți scurt pentru poze dacă traficul permite.",
+                "en": "Stop briefly for photos if traffic conditions allow."
+              }
+            },
+            {
+              "name": "Great Bačka Canal",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf den Kanal aus dem trockenen Auto.",
+                "hu": "Élvezze a kilátást a csatornára a száraz autóból.",
+                "ro": "Bucurați-vă de vederea spre canal din mașina uscată.",
+                "en": "Enjoy the view of the canal from the dry car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Fußgänger, die bei Regen oft unvorsichtig die Straße queren.",
+              "Die Straßen im Zentrum können eng sein; fahren Sie langsam.",
+              "Zahlen Sie die Parkgebühren bequem per SMS.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt durch die 'grüne Stadt'."
+            ],
+            "hu": [
+              "Figyeljen a gyalogosokra, akik esőben gyakran óvatlanul vágnak át az úton.",
+              "A központ utcái szűkek lehetnek; hajtson lassan.",
+              "A parkolási díjat kényelmesen, SMS-ben is befizetheti.",
+              "Ellenőrizze az ablaktörlőket a városnézés előtt."
+            ],
+            "ro": [
+              "Atenție la pietonii care traversează imprudent pe ploaie.",
+              "Străzile din centru pot fi înguste; conduceți cu viteză redusă.",
+              "Plătiți taxa de parcare convenabil prin SMS.",
+              "Verificați ștergătoarele înainte de a porni prin orașul verde."
+            ],
+            "en": [
+              "Watch out for pedestrians who may cross the street carelessly in the rain.",
+              "Center streets can be narrow; drive slowly.",
+              "Pay parking fees conveniently via SMS.",
+              "Check your windshield wipers before driving through the 'green city'."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im warmen Auto durch das frostige Sombor. Wir erkunden das Zentrum und die Županija ohne die Kälte zu spüren. Nachmittags besuchen wir das kulturelle Viertel. Zum Sonnenuntergang gegen 16:15 Uhr fahren wir zum Kanal, wo der Raureif die Landschaft in ein magisches Weiß hüllt, bevor wir uns in einem Restaurant aufwärmen.",
+            "hu": "A fűtött autóban a fagyos Zomboron át. A központot és a Megyeházát a hideg érzése nélkül fedezzük fel. Délután a kulturális negyedbe látogatunk. Napnyugtakor (16:15 körül) a csatornához hajtunk, ahol a zúzmara varázslatos fehérbe öltözteti a tájat, majd egy étteremben melegszünk fel.",
+            "ro": "În mașina caldă prin Somborul înghețat. Explorăm centrul și Županija fără a simți gerul. După-amiaza vizităm cartierul cultural. La apus (ora 16:15) mergem la canal, unde chiciura îmbracă peisajul în alb magic, apoi ne încălzim la un restaurant.",
+            "en": "In a warm car through frosty Sombor. We explore the center and the Županija without feeling the cold. In the afternoon, we visit the cultural quarter. At sunset around 4:15 PM, we drive to the canal, where hoarfrost coats the landscape in a magical white, before warming up in a restaurant."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center",
+              "tip_4lang": {
+                "de": "Das Auto bleibt warm, während Sie kurz die Sehenswürdigkeiten besuchen.",
+                "hu": "Az autó meleg marad, amíg Ön rövid időre kiszáll nézelődni.",
+                "ro": "Mașina rămâne caldă în timp ce vizitați rapid obiectivele.",
+                "en": "The car stays warm while you briefly visit the sights."
+              }
+            },
+            {
+              "name": "Županija (County Hall)",
+              "tip_4lang": {
+                "de": "Parken Sie nah am Eingang, um den eisigen Wind zu vermeiden.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje a jeges szelet.",
+                "ro": "Parcați aproape de intrare pentru a evita vântul înghețat.",
+                "en": "Park near the entrance to avoid the icy wind."
+              }
+            },
+            {
+              "name": "Plebanija",
+              "tip_4lang": {
+                "de": "Ein schneller Stopp; genießen Sie die winterliche Architektur.",
+                "hu": "Gyors megálló; élvezze a téli építészet látványát.",
+                "ro": "O oprire rapidă; admirați arhitectura hibernală.",
+                "en": "A quick stop; enjoy the winter architecture."
+              }
+            },
+            {
+              "name": "Cluster 2: Cultural Quarter",
+              "tip_4lang": {
+                "de": "Heizung im Auto aufdrehen zwischen den Museumsbesuchen.",
+                "hu": "Vegyék fel a fűtést a kocsiban a múzeumlátogatások között.",
+                "ro": "Porniți căldura în mașină între vizitele la muzee.",
+                "en": "Turn up the heating in the car between museum visits."
+              }
+            },
+            {
+              "name": "Milan Konjović Gallery",
+              "tip_4lang": {
+                "de": "Parkplätze sind im Winter im Zentrum oft leichter zu finden.",
+                "hu": "Télen a központban gyakran könnyebb parkolóhelyet találni.",
+                "ro": "Locurile de parcare sunt adesea mai ușor de găsit iarna în centru.",
+                "en": "Parking spaces are often easier to find in the center in winter."
+              }
+            },
+            {
+              "name": "National Theatre Sombor",
+              "tip_4lang": {
+                "de": "Sehen Sie sich das Theater im Vorbeifahren an, wenn es zu kalt ist.",
+                "hu": "Nézze meg a színházat az autóból, ha kint túl hideg van.",
+                "ro": "Admirați teatrul din mașină dacă este prea frig afară.",
+                "en": "View the theatre from the car if it's too cold outside."
+              }
+            },
+            {
+              "name": "Great Bačka Canal",
+              "tip_4lang": {
+                "de": "Vorsicht bei der Fahrt auf den Brücken; sie frieren zuerst zu.",
+                "hu": "Vigyázzon a vezetéssel a hidakon; azok fagynak le először.",
+                "ro": "Atenție la condus pe poduri; acestea îngheață primele.",
+                "en": "Be careful when driving over bridges; they freeze first."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind Pflicht; achten Sie auf glatte Stellen im Schatten.",
+              "Die Scheiben können schnell beschlagen; nutzen Sie die Klimaanlage.",
+              "Planen Sie die Rückreise vor 17:00 Uhr, wenn der Berufsverkehr beginnt.",
+              "Haben Sie immer einen Eiskratzer griffbereit."
+            ],
+            "hu": [
+              "A téli gumi kötelező; figyeljen az árnyékos helyeken a jegesedésre.",
+              "Az ablakok gyorsan párásodhatnak; használja a légkondicionálót.",
+              "Tervezze a visszautat 17:00 előtt, mielőtt a csúcsforgalom elkezdődik.",
+              "Mindig legyen kéznél jégkaparó."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii; atenție la gheață în zonele umbrite.",
+              "Geamurile se pot aburi rapid; folosiți aerul condiționat.",
+              "Planificați întoarcerea înainte de ora 17:00, când începe traficul de vârf.",
+              "Aveți întotdeauna o racletă de gheață la îndemână."
+            ],
+            "en": [
+              "Winter tires are mandatory; watch out for icy spots in the shadows.",
+              "Windows can fog up quickly; use the air conditioning.",
+              "Plan your return before 5:00 PM when rush hour starts.",
+              "Always have an ice scraper handy."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1325,6 +1925,188 @@
           "Buses can be crowded, especially during peak hours.",
           "Ask locals for the right bus line, they are usually very helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus durch das regnerische Sombor. Wir starten am Szentháromság tér und nutzen die kurzen Wege zwischen den Haltestellen. Mittags besuchen wir die Županija. Nachmittags erkunden wir die Museen und die Konjović Galerie. Die Fahrt bietet einen trockenen Blick auf die nassen Straßen der Stadt.",
+            "hu": "Busszal a vizes Zomboron át. A Szentháromság térről indulunk, kihasználva a megállók közötti rövid távolságokat. Délben a Megyeházát látogatjuk meg. Délután a múzeumokat és a Konjović Galériát fedezzük fel. Az utazás száraz kilátást biztosít a város vizes utcáira.",
+            "ro": "Cu autobuzul prin Somborul ploios. Pornim din Piața Sfânta Treime, folosind distanțele scurte dintre stații. La prânz vizităm Županija. După-amiaza explorăm muzeele și Galeria Konjović. Călătoria oferă o vedere uscată asupra străzilor ude ale orașului.",
+            "en": "By bus through rainy Sombor. We start at Holy Trinity Square, taking advantage of the short distances between stops. At noon, we visit the Županija. In the afternoon, we explore the museums and the Konjović Gallery. The ride offers a dry view of the city's wet streets."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Holy Trinity Square",
+              "tip_4lang": {
+                "de": "Warten Sie in einem Café, bis der Bus kommt.",
+                "hu": "Várjon egy kávézóban a busz érkezéséig.",
+                "ro": "Așteptați într-o cafenea până vine autobuzul.",
+                "en": "Wait in a cafe until the bus arrives."
+              }
+            },
+            {
+              "name": "Županija (County Hall)",
+              "tip_4lang": {
+                "de": "Die Haltestelle ist nur einen kurzen Sprint vom Eingang entfernt.",
+                "hu": "A megálló csak egy rövid futásnyira van a bejárattól.",
+                "ro": "Stația este la doar un scurt sprint de intrare.",
+                "en": "The stop is just a short sprint from the entrance."
+              }
+            },
+            {
+              "name": "Glavna ulica (Main Street)",
+              "tip_4lang": {
+                "de": "Die Busse fahren regelmäßig durch die Hauptverkehrsader.",
+                "hu": "A buszok rendszeresen járnak a fő közlekedési útvonalon.",
+                "ro": "Autobuzele circulă regulat pe artera principală.",
+                "en": "Buses run regularly along the main artery."
+              }
+            },
+            {
+              "name": "Cluster 2: Cultural Quarter",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Bus, um zwischen den kulturellen Punkten zu pendeln.",
+                "hu": "Használja a buszt a kulturális pontok közötti ingázáshoz.",
+                "ro": "Folosiți autobuzul pentru a naviga între punctele culturale.",
+                "en": "Use the bus to commute between cultural sites."
+              }
+            },
+            {
+              "name": "Milan Konjović Gallery",
+              "tip_4lang": {
+                "de": "Die Galerie ist gut an das lokale Busnetz angebunden.",
+                "hu": "A galéria jól megközelíthető a helyi autóbusz-hálózattal.",
+                "ro": "Galeria este bine conectată la rețeaua locală de autobuze.",
+                "en": "The gallery is well connected to the local bus network."
+              }
+            },
+            {
+              "name": "National Theatre Sombor",
+              "tip_4lang": {
+                "de": "Die letzte Haltestelle bietet einen trockenen Rückzugsort.",
+                "hu": "Az utolsó megálló száraz menedéket nyújt.",
+                "ro": "Ultima stație oferă un refugiu uscat.",
+                "en": "The final stop provides a dry retreat."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld für das Busticket bereit.",
+              "Die Busse können bei Regen etwas verspätet sein.",
+              "Tragen Sie einen kompakten Regenschirm bei sich.",
+              "Prüfen Sie die Fahrpläne an den Haltestellen; sie sind meist aktuell."
+            ],
+            "hu": [
+              "Legyen Önnél aprópénz a buszjegyre.",
+              "Esőben a buszok kicsit késhetnek.",
+              "Tartson magánál egy kompakt esernyőt.",
+              "Ellenőrizze a menetrendet a megállókban; általában naprakészek."
+            ],
+            "ro": [
+              "Aveți pregătit mărunțiș pentru biletul de autobuz.",
+              "Autobuzele pot avea mici întârzieri pe ploaie.",
+              "Aveți la voi o umbrelă compactă.",
+              "Verificați orarele în stații; sunt de obicei actualizate."
+            ],
+            "en": [
+              "Have some small change ready for the bus ticket.",
+              "Buses may experience slight delays during rain.",
+              "Keep a compact umbrella with you.",
+              "Check the schedules at the stops; they are mostly up-to-date."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreise mit Somborer Bussen. Wir genießen die Wärme in den Fahrzeugen, während wir zwischen den historischen Stätten pendeln. Mittags besuchen wir die Županija. Nachmittags führt uns die Tour zum kulturellen Viertel. Die beleuchtete Stadt am frühen Abend wirkt aus dem Busfenster besonders einladend.",
+            "hu": "Téli utazás zombori buszokkal. Élvezzük a járművek melegét a történelmi helyszínek közötti ingázás közben. Délben a Megyeházát látogatjuk meg. Délután a kulturális negyedbe vezet az utunk. A kivilágított város kora este a busz ablakából különösen hívogató.",
+            "ro": "Călătorie de iarnă cu autobuzele din Sombor. Ne bucurăm de căldura din vehicule în timp ce mergem între siturile istorice. La prânz vizităm Županija. După-amiaza turul ne duce spre cartierul cultural. Orașul iluminat seara devreme arată primitor prin geamul autobuzului.",
+            "en": "Winter travel with Sombor buses. We enjoy the warmth in the vehicles while commuting between historic sites. At noon, we visit the Županija. In the afternoon, the tour takes us to the cultural quarter. The illuminated city in the early evening looks particularly inviting through the bus window."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Holy Trinity Square",
+              "tip_4lang": {
+                "de": "Warten Sie drinnen in der Nähe der Haltestelle, um nicht auszukühlen.",
+                "hu": "Várjon bent a megálló közelében, hogy ne hűljön ki.",
+                "ro": "Așteptați în interior lângă stație pentru a nu îngheța.",
+                "en": "Wait indoors near the stop to avoid getting chilled."
+              }
+            },
+            {
+              "name": "Županija (County Hall)",
+              "tip_4lang": {
+                "de": "Die beheizten Busse sind eine willkommene Pause von der Kälte.",
+                "hu": "A fűtött buszok kellemes pihenőt jelentenek a hideg után.",
+                "ro": "Autobuzele încălzite sunt o pauză binevenită de la ger.",
+                "en": "The heated buses are a welcome break from the cold."
+              }
+            },
+            {
+              "name": "Glavna ulica (Main Street)",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf die winterliche Hauptstraße aus der Wärme.",
+                "hu": "Élvezze a téli főutca látványát a melegből.",
+                "ro": "Admirați strada principală iarna din căldura autobuzului.",
+                "en": "Enjoy the view of the winter main street from the warmth."
+              }
+            },
+            {
+              "name": "Cluster 2: Cultural Quarter",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Nahverkehr für die längeren Strecken im Winter.",
+                "hu": "Télen használja a tömegközlekedést a hosszabb szakaszokra.",
+                "ro": "Folosiți transportul public pentru distanțele mai lungi iarna.",
+                "en": "Use public transit for longer sections in winter."
+              }
+            },
+            {
+              "name": "Milan Konjović Gallery",
+              "tip_4lang": {
+                "de": "Informieren Sie sich über die Abfahrtszeiten, um Wartezeiten zu vermeiden.",
+                "hu": "Tájékozódjon az indulási időkről a várakozás elkerülése végett.",
+                "ro": "Informați-vă despre orele de plecare pentru a evita așteptarea.",
+                "en": "Check departure times to avoid waiting in the cold."
+              }
+            },
+            {
+              "name": "National Theatre Sombor",
+              "tip_4lang": {
+                "de": "Die Haltestellen sind abends gut beleuchtet.",
+                "hu": "A megállók este jól kivilágítottak.",
+                "ro": "Stațiile sunt bine iluminate seara.",
+                "en": "The stops are well-lit in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schütteln Sie den Schnee von Ihren Schuhen, bevor Sie in den Bus steigen.",
+              "Die Heizung in den Bussen kann im Winter sehr stark sein.",
+              "Haben Sie Ihre Fahrkarte griffbereit, um nicht lange im Kalten zu suchen.",
+              "Die letzte Fahrt findet oft früher statt als im Sommer."
+            ],
+            "hu": [
+              "Rázza le a havat a cipőjéről, mielőtt felszáll a buszra.",
+              "A fűtés a buszokon télen nagyon erős lehet.",
+              "Legyen kéznél a jegye, ne a hidegben kelljen keresgélnie.",
+              "Az utolsó járatok gyakran korábban indulnak, mint nyáron."
+            ],
+            "ro": [
+              "Scuturați zăpada de pe încălțăminte înainte de a urca în autobuz.",
+              "Încălzirea în autobuze poate fi foarte puternică iarna.",
+              "Aveți biletul la îndemână pentru a nu căuta prin bagaje în frig.",
+              "Ultimele curse pot pleca mai devreme decât în timpul verii."
+            ],
+            "en": [
+              "Shake the snow off your shoes before boarding the bus.",
+              "Bus heating can be very strong in winter.",
+              "Have your ticket ready so you don't have to search in the cold.",
+              "The last bus service often runs earlier than in summer."
+            ]
+          }
+        }
       }
     }
   }

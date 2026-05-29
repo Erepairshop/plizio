@@ -379,6 +379,214 @@
           "Plan for plenty of time at the Designer Outlet at the end of the day.",
           "Check the opening hours of the Tongerlohuys Museum in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Alten Rathaus bietet die Fassade Schutz vor dem ersten Guss. Mittags im Tongerlohuys tauchen Sie tief in die Geschichte ein, während es draußen stürmt. Nachmittags führen die Wege durch die Parks, wo Pfützen die Alleen spiegeln. Den Abend verbringen Sie im Designer Outlet, dessen überdachte Passagen trockenes Einkaufsvergnügen garantieren.",
+            "hu": "Reggel az Óvárosházánál kezdünk, ahol a beugrók védenek az esőtől. Délben a Tongerlohuys Múzeum falai között vészeljük át a záport. Délután a parkok ösvényein sétálunk, figyelve a sármentesített utakra. Az estét a Designer Outlet fedett sétányai alatt töltjük, ahol szárazon válogathatunk a boltok között.",
+            "ro": "Dimineața la Vechea Primărie oferă un adăpost rapid împotriva ploii. La prânz, Muzeul Tongerlohuys este refugiul perfect pentru a explora istoria locală. După-amiaza prin parcuri necesită o umbrelă solidă pe aleile umede. Seara se încheie la Designer Outlet, unde coridoarele acoperite fac cumpărăturile plăcute chiar și pe vreme rea.",
+            "en": "Morning at the Old Town Hall provides a quick architectural shield from the rain. At noon, the Tongerlohuys Museum is the perfect dry sanctuary for history lovers. Afternoon park walks reflect the gray sky in puddles along the paths. The evening ends at the Designer Outlet, where covered walkways ensure a comfortable shopping experience despite the drizzle."
+          },
+          "stops": [
+            {
+              "name": "Old Town Hall (Oude Raadhuis)",
+              "tip_5lang": {
+                "de": "Unter den Arkaden kurz trocken stehen.",
+                "hu": "Az árkádok alatt keress menedéket.",
+                "ro": "Adăpostește-te sub arcadele clădirii.",
+                "en": "Take shelter under the building's arches."
+              }
+            },
+            {
+              "name": "St. John's Church (Sint-Janskerk)",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort zum Innehalten.",
+                "hu": "Csendes és száraz hely a belső elcsendesedéshez.",
+                "ro": "Un loc liniștit și uscat pentru reculegere.",
+                "en": "A quiet and dry place for a brief pause."
+              }
+            },
+            {
+              "name": "Tongerlohuys Museum",
+              "tip_5lang": {
+                "de": "Ideal, um den heftigsten Regen abzuwarten.",
+                "hu": "Ideális hely a nagyobb záporok kivárására.",
+                "ro": "Ideal pentru a aștepta trecerea ploii grele.",
+                "en": "Ideal for waiting out a heavy downpour."
+              }
+            },
+            {
+              "name": "Emile van Loonpark",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Wegen.",
+                "hu": "Maradj az aszfaltozott gyalogutakon.",
+                "ro": "Rămâneți pe aleile asfaltate.",
+                "en": "Stick to the paved walkways to avoid mud."
+              }
+            },
+            {
+              "name": "Vrouwenhof",
+              "tip_5lang": {
+                "de": "Die Bäume bieten nur begrenzten Schutz.",
+                "hu": "A fák csak korlátozott védelmet nyújtanak.",
+                "ro": "Copacii oferă doar o protecție limitată.",
+                "en": "The trees offer only limited shelter."
+              }
+            },
+            {
+              "name": "Roosendaal Railway Station",
+              "tip_5lang": {
+                "de": "Große Bahnhofshalle mit Sitzgelegenheiten.",
+                "hu": "Tágas váróterem, ahol megpihenhetsz.",
+                "ro": "Hol mare cu locuri de așteptare la uscat.",
+                "en": "Large station hall with dry seating areas."
+              }
+            },
+            {
+              "name": "Designer Outlet Roosendaal",
+              "tip_5lang": {
+                "de": "Teilweise überdacht, ideal bei Regen.",
+                "hu": "Részben fedett, kiváló esős időben.",
+                "ro": "Parțial acoperit, excelent pe timp de ploaie.",
+                "en": "Partially covered, excellent for rainy days."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da der Wind in Brabant stark sein kann.",
+              "Das Tongerlohuys Museum ist der beste Ort für eine lange Regenpause.",
+              "Das Designer Outlet bietet viele überdachte Bereiche zwischen den Geschäften.",
+              "Tragen Sie wasserfeste Schuhe für die Wege durch die Parks.",
+              "Nutzen Sie die Schließfächer am Bahnhof für nasse Kleidung."
+            ],
+            "hu": [
+              "Vigyél erős esernyőt, mert a brabanti szél könnyen kifordíthatja.",
+              "A Tongerlohuys Múzeum a legjobb hely egy hosszabb esőszünetre.",
+              "A Designer Outlet sétányai részben fedettek a boltok között.",
+              "Vízálló cipő ajánlott a parkok látogatásához.",
+              "Használd a vasútállomás csomagmegőrzőit a vizes holmiknak."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, vântul din Brabant poate fi puternic.",
+              "Muzeul Tongerlohuys este cel mai bun loc pentru o pauză lungă de ploaie.",
+              "Designer Outlet are multe zone acoperite între magazine.",
+              "Purtați încălțăminte impermeabilă pentru plimbările prin parcuri.",
+              "Folosiți dulapurile de la gară pentru hainele ude."
+            ],
+            "en": [
+              "Bring a sturdy umbrella as the Brabant wind can be quite strong.",
+              "Tongerlohuys Museum is the best spot for a long rain break.",
+              "The Designer Outlet features many covered walkways between stores.",
+              "Wear waterproof shoes for the walks through the parks.",
+              "Use the station lockers to store wet gear if needed."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens glitzert der Frost am Alten Rathaus in der tiefstehenden Sonne. Mittags wärmen Sie sich in den Ausstellungen des Tongerlohuys wieder auf. Nachmittags leuchten die Parks in winterlicher Stille, bevor die Dämmerung früh einsetzt. Den Abend verbringen Sie unter festlicher Beleuchtung im Designer Outlet, wo heißer Kakao auf Sie wartet.",
+            "hu": "Reggel a dér csillog az Óvárosháza falain az alacsonyan járó napfényben. Délben a Tongerlohuys kiállítótermeiben melegedhetünk fel. Délután a parkok téli csendje fogad, mielőtt korán leszállna az alkonyat. Az estét a Designer Outlet ünnepi fényei között zárjuk egy forró ital társaságában.",
+            "ro": "Dimineața, bruma strălucește pe Vechea Primărie sub soarele palid. La prânz, vă puteți încălzi în sălile Muzeului Tongerlohuys. După-amiaza aduce liniștea iernii în parcuri, înainte de amurgul timpuriu. Seara se încheie sub luminile festive de la Designer Outlet, cu o băutură caldă în mână.",
+            "en": "Morning frost glistens on the Old Town Hall under the low winter sun. At noon, warm up inside the cozy exhibition rooms of the Tongerlohuys. Afternoon brings a quiet winter stillness to the parks before the early sunset at 5 PM. The evening concludes under the festive lights of the Designer Outlet with a hot cocoa in hand."
+          },
+          "stops": [
+            {
+              "name": "Old Town Hall (Oude Raadhuis)",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade im Winterlicht.",
+                "hu": "Csodáld meg a homlokzatot a téli fényben.",
+                "ro": "Admirați fațada în lumina iernii.",
+                "en": "Admire the facade in the crisp winter light."
+              }
+            },
+            {
+              "name": "St. John's Church (Sint-Janskerk)",
+              "tip_5lang": {
+                "de": "Achten Sie auf die bunten Glasfenster.",
+                "hu": "Figyeld meg a színes üvegablakok fényeit.",
+                "ro": "Observați detaliile vitraliilor colorate.",
+                "en": "Watch the light through the stained glass."
+              }
+            },
+            {
+              "name": "Tongerlohuys Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort zum Aufwärmen im Zentrum.",
+                "hu": "Tökéletes hely a felmelegedésre a központban.",
+                "ro": "Locul perfect pentru a vă încălzi în centru.",
+                "en": "The perfect place to warm up in the center."
+              }
+            },
+            {
+              "name": "Emile van Loonpark",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der kahlen Bäume.",
+                "hu": "Élvezd a kopár fák nyújtotta téli csendet.",
+                "ro": "Bucurați-vă de liniștea copacilor desfrunziți.",
+                "en": "Enjoy the quiet atmosphere of the bare trees."
+              }
+            },
+            {
+              "name": "Vrouwenhof",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang vor Sonnenuntergang.",
+                "hu": "Rövid séta a korai naplemente előtt.",
+                "ro": "O plimbare scurtă înainte de apus.",
+                "en": "Take a short walk before the early sunset."
+              }
+            },
+            {
+              "name": "Roosendaal Railway Station",
+              "tip_5lang": {
+                "de": "Historisches Gebäude mit festlichem Glanz.",
+                "hu": "Történelmi épület ünnepi díszben.",
+                "ro": "Clădire istorică cu un farmec festiv.",
+                "en": "Historic building with a festive winter charm."
+              }
+            },
+            {
+              "name": "Designer Outlet Roosendaal",
+              "tip_5lang": {
+                "de": "Schöne Weihnachtsbeleuchtung am Abend.",
+                "hu": "Gyönyörű karácsonyi fények este.",
+                "ro": "Lumini de Crăciun superbe în timpul serii.",
+                "en": "Beautiful Christmas lights in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 17:00 Uhr unter.",
+              "Tragen Sie warme Schichten für die Wege zwischen den Sehenswürdigkeiten.",
+              "Das Designer Outlet ist für seine festliche Dekoration bekannt.",
+              "Museen sind montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Ein heißes Getränk am Bahnhof hilft gegen die Kälte beim Warten."
+            ],
+            "hu": [
+              "A nap télen már délután 5 óra körül lemegy.",
+              "Öltözz rétegesen a látnivalók közötti sétákhoz.",
+              "A Designer Outlet híres az ünnepi dekorációjáról.",
+              "A múzeumok hétfőnként zárva lehetnek, ellenőrizd.",
+              "Egy forró ital az állomáson segít a hideg ellen várakozáskor."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 17:00 în timpul iernii.",
+              "Purtați haine groase în straturi pentru traseu.",
+              "Designer Outlet este renumit pentru decorațiunile festive.",
+              "Muzeele sunt adesea închise lunea, verificați orarul.",
+              "O băutură caldă în gară ajută împotriva frigului."
+            ],
+            "en": [
+              "Sunset occurs early, around 5:00 PM in winter.",
+              "Wear warm layers for the walks between landmarks.",
+              "The Designer Outlet is famous for its festive winter decor.",
+              "Museums are often closed on Mondays; check ahead.",
+              "A hot drink at the station helps combat the cold while waiting."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +960,214 @@
           "Bring a water bottle to stay hydrated.",
           "A bike lock is essential for securing your ride at stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Bahnhof rüsten Sie sich mit Regenkleidung aus. Die Fahrt zur Sint-Janskerk ist kurz, aber die Pflastersteine sind rutschig. Mittags bietet das Tongerlohuys einen sicheren Unterstand für Radfahrer. Nachmittags erkunden Sie die Parks auf befestigten Wegen, bevor Sie die längere Strecke zum Designer Outlet antreten, wo überdachte Fahrradparkplätze warten.",
+            "hu": "Reggel a vasútállomásnál öltjük magunkra az esővédőt. A Szent János-templomig rövid az út, de a macskakövek csúszósak lehetnek. Délben a Tongerlohuys biztosít menedéket a bicikliseknek is. Délután a parkok aszfaltozott útjain tekerünk, majd irány a Designer Outlet, ahol fedett biciklitárolók fogadnak.",
+            "ro": "Dimineața la gară vă pregătiți echipamentul de ploaie. Drumul spre Biserica Sf. Ioan este scurt, dar pavajul poate fi alunecos. La prânz, Muzeul Tongerlohuys oferă un adăpost sigur. După-amiaza explorăm parcurile pe piste asfaltate, apoi pedalăm spre Designer Outlet, unde există parcări acoperite pentru biciclete.",
+            "en": "Morning at the station is time to gear up with waterproofs. The ride to St. John's is short, but watch for slippery cobblestones. At noon, the Tongerlohuys provides a dry break for cyclists. Afternoon entails riding through parks on paved tracks before the longer stretch to the Designer Outlet, which offers covered bike parking."
+          },
+          "stops": [
+            {
+              "name": "Roosendaal Railway Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen bei Nässe.",
+                "hu": "Ellenőrizd a fékeket nedves úton.",
+                "ro": "Verificați frânele pe carosabil umed.",
+                "en": "Check your brakes for wet conditions."
+              }
+            },
+            {
+              "name": "St. John's Church (Sint-Janskerk)",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Marktplatz.",
+                "hu": "Vigyázz a csúszós piactéren.",
+                "ro": "Atenție pe pavajul ud din piață.",
+                "en": "Be careful on the wet market square."
+              }
+            },
+            {
+              "name": "Old Town Hall (Oude Raadhuis)",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach.",
+                "hu": "Rövid megálló az előtető alatt.",
+                "ro": "Oprire scurtă sub streașina clădirii.",
+                "en": "Quick stop under the building overhang."
+              }
+            },
+            {
+              "name": "Tongerlohuys Museum",
+              "tip_5lang": {
+                "de": "Fahrradständer direkt vor dem Eingang.",
+                "hu": "Biciklitárolók közvetlenül a bejáratnál.",
+                "ro": "Suporturi de biciclete chiar la intrare.",
+                "en": "Bike racks located right by the entrance."
+              }
+            },
+            {
+              "name": "Vrouwenhof",
+              "tip_5lang": {
+                "de": "Meiden Sie nasse Wiesenwege.",
+                "hu": "Kerüld a vizes, füves ösvényeket.",
+                "ro": "Evitați potecile cu iarbă umedă.",
+                "en": "Avoid wet grassy paths; stay on tarmac."
+              }
+            },
+            {
+              "name": "Emile van Loonpark",
+              "tip_5lang": {
+                "de": "Achten Sie auf nasses Laub auf dem Weg.",
+                "hu": "Vigyázz a vizes levelekre az úton.",
+                "ro": "Atenție la frunzele ude pe pistă.",
+                "en": "Watch out for wet leaves on the path."
+              }
+            },
+            {
+              "name": "Designer Outlet Roosendaal",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer vorhanden.",
+                "hu": "Fedett biciklitárolók állnak rendelkezésre.",
+                "ro": "Parcare acoperită pentru biciclete.",
+                "en": "Covered bike parking is available here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollständige Regenmontur (Hose und Jacke).",
+              "Die Marktplatz-Pflastersteine können bei Nässe sehr glatt sein.",
+              "Nutzen Sie die überdachten Abstellplätze am Outlet.",
+              "Wischen Sie Ihren Sattel vor der Abfahrt immer trocken.",
+              "Fahren Sie in Kurven langsamer als gewöhnlich."
+            ],
+            "hu": [
+              "Viselj teljes esővédő felszerelést (nadrág és kabát).",
+              "A piactér macskakövei nagyon csúszósak lehetnek esőben.",
+              "Használd az Outlet fedett tárolóit a bringának.",
+              "Indulás előtt mindig töröld szárazra a nyerget.",
+              "Kanyarodj lassabban a megszokottnál a csúszásveszély miatt."
+            ],
+            "ro": [
+              "Purtați costum complet de ploaie (pantaloni și jachetă).",
+              "Pavajul din piață poate fi foarte alunecos când este ud.",
+              "Folosiți parcările acoperite de la Outlet.",
+              "Ștergeți întotdeauna șaua înainte de a pleca.",
+              "Reduceți viteza în curbe pentru a evita deraparea."
+            ],
+            "en": [
+              "Wear full rain gear, including waterproof trousers.",
+              "Market square cobblestones get very slippery when wet.",
+              "Take advantage of the covered bike racks at the Outlet.",
+              "Always wipe your saddle dry before setting off.",
+              "Take corners more slowly than usual on wet surfaces."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens am Bahnhof weht ein kalter Wind, Handschuhe sind Pflicht. Der Weg zur Sint-Janskerk führt durch die klare Winterluft. Mittags ist das Museum die ideale Aufwärmstation. Nachmittags radeln Sie durch die ruhigen Parks, bevor Sie mit eingeschaltetem Licht zum Designer Outlet fahren, um die abendliche Feststimmung zu genießen.",
+            "hu": "Reggel a vasútállomásnál fúj a hideg szél, a kesztyű kötelező. A Szent János-templomig tartó út frissítő a téli levegőn. Délben a múzeum az ideális melegedőhely. Délután a csendes parkokon tekerünk át, majd felkapcsolt lámpákkal érkezünk a Designer Outletbe az esti fényekhez.",
+            "ro": "Dimineața la gară vântul este tăios, mănușile sunt obligatorii. Drumul spre Biserica Sf. Ioan este revigorant în aerul rece. La prânz, muzeul este stația ideală de încălzire. După-amiaza pedalăm prin parcurile liniștite, apoi cu luminile aprinse spre Designer Outlet pentru atmosfera de seară.",
+            "en": "Morning at the station brings a biting wind; gloves are mandatory. The ride to St. John's is brisk in the clear winter air. At noon, the museum is the ideal warming station. Afternoon entails cycling through quiet parks before heading to the Designer Outlet with lights on to enjoy the evening festivities."
+          },
+          "stops": [
+            {
+              "name": "Roosendaal Railway Station",
+              "tip_5lang": {
+                "de": "Lichtcheck vor der Abfahrt machen.",
+                "hu": "Indulás előtt ellenőrizd a lámpákat.",
+                "ro": "Verificați luminile înainte de plecare.",
+                "en": "Check your bike lights before starting."
+              }
+            },
+            {
+              "name": "St. John's Church (Sint-Janskerk)",
+              "tip_5lang": {
+                "de": "Kurzer Stopp in der Kälte.",
+                "hu": "Rövid megálló a hidegben.",
+                "ro": "Oprire scurtă în aerul rece.",
+                "en": "A quick stop in the cold air."
+              }
+            },
+            {
+              "name": "Old Town Hall (Oude Raadhuis)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eis auf dem Pflaster.",
+                "hu": "Vigyázz a jégre a macskakövön.",
+                "ro": "Atenție la gheața de pe pavaj.",
+                "en": "Watch out for ice on the cobblestones."
+              }
+            },
+            {
+              "name": "Tongerlohuys Museum",
+              "tip_5lang": {
+                "de": "Gute Garderobe für dicke Winterjacken.",
+                "hu": "Jó ruhatár a vastag télikabátoknak.",
+                "ro": "Garderobă bună pentru haine groase.",
+                "en": "Good cloakroom for heavy winter coats."
+              }
+            },
+            {
+              "name": "Vrouwenhof",
+              "tip_5lang": {
+                "de": "Radwege sind oft geräumt.",
+                "hu": "A kerékpárutakat gyakran takarítják.",
+                "ro": "Pistele sunt adesea curățate de zăpadă.",
+                "en": "Bike paths are usually cleared of snow."
+              }
+            },
+            {
+              "name": "Emile van Loonpark",
+              "tip_5lang": {
+                "de": "Frühe Dämmerung im Park beachten.",
+                "hu": "Figyelj a korai sötétedésre a parkban.",
+                "ro": "Atenție la lăsarea serii în parc.",
+                "en": "Be mindful of early twilight in the park."
+              }
+            },
+            {
+              "name": "Designer Outlet Roosendaal",
+              "tip_5lang": {
+                "de": "Warmes Getränk zur Belohnung.",
+                "hu": "Forró ital jutalmul a tekerés után.",
+                "ro": "O băutură caldă drept recompensă.",
+                "en": "Reward yourself with a hot drink here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Handschuhe und eine warme Mütze sind unerlässlich.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert.",
+              "Vorsicht vor glatten Stellen bei Frost am frühen Morgen.",
+              "Die Sonne sinkt früh, planen Sie Ihre Rückfahrt rechtzeitig.",
+              "Kürzen Sie die Parkwege ab, wenn der Wind zu kalt wird."
+            ],
+            "hu": [
+              "A kesztyű és a meleg sapka elengedhetetlen.",
+              "Győződj meg róla, hogy a bicikli világítása jól működik.",
+              "Vigyázz a lefagyott foltokra kora reggel.",
+              "A nap korán nyugszik, tervezd meg időben a visszautat.",
+              "Rövidítsd le a parki utat, ha túl hideg a szél."
+            ],
+            "ro": [
+              "Mănușile și o căciulă groasă sunt esențiale.",
+              "Asigurați-vă că luminile bicicletei funcționează corect.",
+              "Atenție la porțiunile înghețate dimineața devreme.",
+              "Soarele apune devreme, planificați întoarcerea la timp.",
+              "Scurtați traseul prin parcuri dacă vântul e prea rece."
+            ],
+            "en": [
+              "Gloves and a warm hat are absolutely essential.",
+              "Ensure your bike lights are fully functional for the evening.",
+              "Be wary of icy patches during early morning frost.",
+              "The sun sets early, so plan your return trip accordingly.",
+              "Shorten park routes if the wind chill becomes too much."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1132,6 +1548,214 @@
           "Allow enough time for traffic between clusters, especially on shopping days.",
           "Most parking at the Designer Outlet is free."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens parken Sie bequem im Zentrum und erreichen das Rathaus fast trocken. Mittags bietet das Tongerlohuys eine kulturelle Pause vom Regen. Nachmittags ist das Mariadal ein kurzer, geschützter Halt, bevor Sie zum Vrouwenhof fahren, wo Sie im Auto den Ausblick genießen können. Den Tag schließen Sie im großen Parkhaus des Designer Outlets ab.",
+            "hu": "Reggel kényelmesen parkolunk a központban, szinte szárazon érve a városházához. Délben a Tongerlohuys nyújt kulturális menedéket az eső elől. Délután a Mariadal egy rövid, védett megálló, majd a Vrouwenhof felé vesszük az irányt. A napot a Designer Outlet hatalmas, fedett parkolójában zárjuk.",
+            "ro": "Dimineața parcați confortabil în centru, ajungând aproape uscați la primărie. La prânz, Muzeul Tongerlohuys oferă o pauză culturală de ploaie. După-amiaza, Mariadal este o oprire scurtă și protejată, urmată de Vrouwenhof. Încheiați ziua în parcarea mare și acoperită de la Designer Outlet.",
+            "en": "Morning parking in the center keeps you nearly dry on your way to the Town Hall. At noon, Tongerlohuys offers a cultural escape from the rain. Afternoon stops at Mariadal provide a quick sheltered visit, followed by Vrouwenhof. End your day at the large covered parking structure of the Designer Outlet."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking (Cluster A)",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Parkhaus für Trockenheit.",
+                "hu": "Válassz fedett parkolóházat a szárazságért.",
+                "ro": "Alegeți o parcare etajată pentru a rămâne uscat.",
+                "en": "Choose a multi-story car park to stay dry."
+              }
+            },
+            {
+              "name": "Old Town Hall & St. John's Church",
+              "tip_5lang": {
+                "de": "Kurze Gehwege zwischen den Gebäuden.",
+                "hu": "Rövid gyalogutak az épületek között.",
+                "ro": "Distanțe scurte de mers între clădiri.",
+                "en": "Short walking distances between buildings."
+              }
+            },
+            {
+              "name": "Tongerlohuys Museum",
+              "tip_5lang": {
+                "de": "Parkplätze in der direkten Umgebung.",
+                "hu": "Parkolóhelyek a közvetlen közelben.",
+                "ro": "Locuri de parcare în imediata apropiere.",
+                "en": "Parking spaces available in the vicinity."
+              }
+            },
+            {
+              "name": "Mariadal",
+              "tip_5lang": {
+                "de": "Schneller Stopp, ideal bei Regen.",
+                "hu": "Gyors megálló, ideális esőben.",
+                "ro": "Oprire rapidă, ideală pe timp de ploaie.",
+                "en": "Quick stop, ideal for rainy weather."
+              }
+            },
+            {
+              "name": "Vrouwenhof (Cluster B)",
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus ins Grüne schauen.",
+                "hu": "Nézz körül a parkban az autóból.",
+                "ro": "Priviți parcul direct din parcare.",
+                "en": "View the park scenery from your car."
+              }
+            },
+            {
+              "name": "Emile van Loonpark",
+              "tip_5lang": {
+                "de": "Parken am Straßenrand oft möglich.",
+                "hu": "Utcai parkolás gyakran megoldható.",
+                "ro": "Parcare stradală adesea disponibilă.",
+                "en": "Street parking often available nearby."
+              }
+            },
+            {
+              "name": "Designer Outlet Roosendaal (Cluster C)",
+              "tip_5lang": {
+                "de": "Großes, trockenes Parkhaus direkt am Eingang.",
+                "hu": "Nagy, fedett parkolóház a bejáratnál.",
+                "ro": "Parcare mare acoperită chiar la intrare.",
+                "en": "Large covered parking right at the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Parkhäuser, um beim Ein- und Aussteigen trocken zu bleiben.",
+              "Das Parken am Designer Outlet ist für Besucher besonders komfortabel.",
+              "Behalten Sie einen Regenschirm im Auto für die kurzen Wege.",
+              "Die Sicht kann bei starkem Regen eingeschränkt sein.",
+              "Das Stadtzentrum ist kompakt, parken Sie strategisch."
+            ],
+            "hu": [
+              "Használd a parkolóházakat, hogy szárazon szállhass ki-be.",
+              "A Designer Outlet parkolója kifejezetten kényelmes látogatóknak.",
+              "Tarts esernyőt az autóban a rövid sétákhoz.",
+              "Erős esőben a látási viszonyok korlátozottak lehetnek.",
+              "A belváros kompakt, parkolj stratégiai pontokon."
+            ],
+            "ro": [
+              "Folosiți parcările etajate pentru a rămâne uscați la urcare și coborâre.",
+              "Parcarea de la Designer Outlet este foarte convenabilă.",
+              "Păstrați o umbrelă în mașină pentru distanțele scurte.",
+              "Vizibilitatea poate fi redusă în timpul ploilor torențiale.",
+              "Centrul orașului este compact, parcați strategic."
+            ],
+            "en": [
+              "Use multi-story car parks to stay dry when getting in and out.",
+              "The Designer Outlet parking is very convenient for visitors.",
+              "Keep an umbrella in the car for short walks to entrances.",
+              "Visibility can be limited during heavy Dutch rainfall.",
+              "The city center is compact, so park strategically."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens fahren Sie im warmen Auto zum Stadtzentrum. Das Alte Rathaus wirkt im Frost besonders prächtig. Mittags genießen Sie die Wärme im Museum. Nachmittags besuchen Sie Mariadal und die Parks für kurze, erfrischende Spaziergänge. Den Abend verbringen Sie beim gemütlichen Winter-Shopping im Designer Outlet, bevor Sie entspannt zurückfahren.",
+            "hu": "Reggel a fűtött autóval érkezünk a belvárosba. Az Óvárosháza különösen szép a dérlepte falakkal. Délben a múzeum melegében időzünk. Délután a Mariadal és a parkok következnek rövid, frissítő sétákkal. Az estét kényelmes téli vásárlással zárjuk a Designer Outletben.",
+            "ro": "Dimineața conduceți mașina încălzită spre centrul orașului. Vechea Primărie arată superb în aerul înghețat. La prânz, bucurați-vă de căldura muzeului. După-amiaza vizitați Mariadal și parcurile pentru scurte plimbări revigorante. Seara se încheie cu cumpărături de iarnă la Designer Outlet.",
+            "en": "Morning involves driving in a warm car to the city center. The Old Town Hall looks especially grand in the frost. At noon, enjoy the indoor warmth of the museum. Afternoon visits to Mariadal and the parks allow for short, refreshing walks. Conclude your evening with cozy winter shopping at the Designer Outlet."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking (Cluster A)",
+              "tip_5lang": {
+                "de": "Parkhaus schützt das Auto vor Frost.",
+                "hu": "A parkolóház védi az autót a fagytól.",
+                "ro": "Parcarea acoperită protejează mașina de îngheț.",
+                "en": "A car park protects your vehicle from frost."
+              }
+            },
+            {
+              "name": "Old Town Hall & St. John's Church",
+              "tip_5lang": {
+                "de": "Kurze Wege halten die Kälte fern.",
+                "hu": "Rövid távok, hogy ne fázz meg.",
+                "ro": "Distanțe scurte pentru a evita frigul.",
+                "en": "Short walks help you avoid the cold."
+              }
+            },
+            {
+              "name": "Tongerlohuys Museum",
+              "tip_5lang": {
+                "de": "Gute Heizung im gesamten Gebäude.",
+                "hu": "Jó fűtés az egész épületben.",
+                "ro": "Sistem de încălzire bun în toată clădirea.",
+                "en": "Good heating throughout the building."
+              }
+            },
+            {
+              "name": "Mariadal",
+              "tip_5lang": {
+                "de": "Schöne Winterstimmung am Kloster.",
+                "hu": "Szép téli hangulat a kolostornál.",
+                "ro": "Atmosferă frumoasă de iarnă la mănăstire.",
+                "en": "Beautiful winter ambiance at the monastery."
+              }
+            },
+            {
+              "name": "Vrouwenhof (Cluster B)",
+              "tip_5lang": {
+                "de": "Parkplatz oft nah am Parkeingang.",
+                "hu": "Parkoló gyakran közel a bejárathoz.",
+                "ro": "Parcare adesea aproape de intrare.",
+                "en": "Parking is often close to the park entrance."
+              }
+            },
+            {
+              "name": "Emile van Loonpark",
+              "tip_5lang": {
+                "de": "Ruhiger Halt für Fotos im Schnee.",
+                "hu": "Csendes megálló havas fotókhoz.",
+                "ro": "Oprire liniștită pentru fotografii în zăpadă.",
+                "en": "Quiet stop for photos if it snows."
+              }
+            },
+            {
+              "name": "Designer Outlet Roosendaal (Cluster C)",
+              "tip_5lang": {
+                "de": "Beleuchteter Parkplatz, sicher am Abend.",
+                "hu": "Kivilágított parkoló, este is biztonságos.",
+                "ro": "Parcare iluminată, sigură pe timpul serii.",
+                "en": "Well-lit parking, safe for evening use."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glatteis in den frühen Morgenstunden.",
+              "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+              "Parkhäuser sind im Winter wärmer als Außenparkplätze.",
+              "Prüfen Sie Ihr Wischwasser für winterliche Straßenverhältnisse.",
+              "Das Outlet ist am Abend wunderschön beleuchtet."
+            ],
+            "hu": [
+              "Vigyázz a jeges utakra a kora reggeli órákban.",
+              "Ne járasd feleslegesen a motort álló helyzetben.",
+              "A parkolóházak télen melegebbek a kültéri helyeknél.",
+              "Ellenőrizd a téli szélvédőmosó folyadékot.",
+              "Az Outlet este gyönyörű kivilágítást kap."
+            ],
+            "ro": [
+              "Atenție la polei în orele dimineții.",
+              "Nu lăsați motorul pornit inutil în staționare.",
+              "Parcările etajate sunt mai calde decât cele exterioare.",
+              "Verificați lichidul de parbriz pentru condiții de iarnă.",
+              "Outlet-ul este superb iluminat seara."
+            ],
+            "en": [
+              "Watch out for black ice during early morning hours.",
+              "Avoid idling the engine unnecessarily while stationary.",
+              "Indoor car parks are warmer than outdoor spots in winter.",
+              "Check your screenwash for winter road conditions.",
+              "The Outlet is beautifully illuminated in the evenings."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1512,6 +2136,214 @@
           "Most buses are wheelchair accessible.",
           "Keep an eye on your belongings at busy stops and on the bus."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens kommen Sie am Bahnhof an, wo der Bus direkt vor dem Eingang wartet. Zur Sint-Janskerk ist es nur eine kurze Fahrt. Mittags bietet das Museum Schutz, während draußen der Regen trommelt. Nachmittags nutzen Sie die Busverbindung zum Vrouwenhof, um Fußwege im Regen zu minimieren. Den Abend verbringen Sie im Designer Outlet, das gut an den Nahverkehr angebunden ist.",
+            "hu": "Reggel a vasútállomásra érkezünk, ahol a buszok a bejáratnál várnak. A Szent János-templomig csak pár perc az út. Délben a múzeumban pihenünk, miközben kint kopog az eső. Délután busszal megyünk a Vrouwenhofhoz, minimalizálva az esőben gyaloglást. Az estét a jól megközelíthető Designer Outletben zárjuk.",
+            "ro": "Dimineața ajungeți la gară, unde autobuzele așteaptă chiar la ieșire. Până la Biserica Sf. Ioan este doar o scurtă călătorie. La prânz, muzeul oferă adăpost în timp ce ploaia cade afară. După-amiaza folosiți autobuzul spre Vrouwenhof pentru a evita mersul pe jos prin ploaie. Seara la Designer Outlet este ușor accesibilă cu transportul public.",
+            "en": "Morning arrival at the station places you right where buses wait at the entrance. It is just a short ride to St. John's. At noon, the museum provides shelter while the rain drums outside. Afternoon use of the bus to Vrouwenhof minimizes walking in the rain. Spend your evening at the Designer Outlet, which is well-connected by local transit."
+          },
+          "stops": [
+            {
+              "name": "Roosendaal Station (Cluster A)",
+              "tip_5lang": {
+                "de": "Überdachte Bushaltestellen nutzen.",
+                "hu": "Használd a fedett buszmegállókat.",
+                "ro": "Folosiți stațiile de autobuz acoperite.",
+                "en": "Utilize the covered bus shelters."
+              }
+            },
+            {
+              "name": "St. John's Church",
+              "tip_5lang": {
+                "de": "Zentraler Ausstieg nahe dem Eingang.",
+                "hu": "Központi megálló a bejárat közelében.",
+                "ro": "Coborâre centrală aproape de intrare.",
+                "en": "Central stop located near the entrance."
+              }
+            },
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Bus zum Gebäude.",
+                "hu": "Rövid futás a busztól az épületig.",
+                "ro": "Sprint scurt de la autobuz la clădire.",
+                "en": "A quick dash from the bus to the building."
+              }
+            },
+            {
+              "name": "Tongerlohuys Museum",
+              "tip_5lang": {
+                "de": "Haltstelle in unmittelbarer Nähe.",
+                "hu": "Megálló a közvetlen közelben.",
+                "ro": "Stație situată în imediata apropiere.",
+                "en": "Bus stop located in the immediate vicinity."
+              }
+            },
+            {
+              "name": "Vrouwenhof Bus Stop (Cluster B)",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Unterstand.",
+                "hu": "Várj a buszváró alatt.",
+                "ro": "Așteptați sub copertina stației.",
+                "en": "Wait under the bus stop shelter."
+              }
+            },
+            {
+              "name": "Vrouwenhof & Emile van Loonpark",
+              "tip_5lang": {
+                "de": "Vom Bus aus direkt ins Museum/Park.",
+                "hu": "A busztól egyenesen a múzeumba/parkba.",
+                "ro": "Direct de la autobuz în muzeu sau parc.",
+                "en": "Direct access from bus to museum/park."
+              }
+            },
+            {
+              "name": "Designer Outlet Roosendaal",
+              "tip_5lang": {
+                "de": "Häufige Verbindungen zurück zum Bahnhof.",
+                "hu": "Gyakori járatok vissza a vasútállomásra.",
+                "ro": "Legături frecvente înapoi spre gară.",
+                "en": "Frequent bus connections back to the station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Abfahrtszeiten live per App.",
+              "Bahnhöfe bieten meist gute überdachte Wartebereiche.",
+              "Einige Busse halten direkt am Designer Outlet.",
+              "Halten Sie Ihr Ticket (OV-chipkaart) griffbereit.",
+              "Bei Regen sind die Busse oft voller als sonst."
+            ],
+            "hu": [
+              "Ellenőrizd az indulási időket élőben az applikációban.",
+              "A vasútállomásokon általában jó fedett várók vannak.",
+              "Néhány busz közvetlenül a Designer Outletnél áll meg.",
+              "Tartsd kéznél a jegyedet (OV-chipkaart).",
+              "Esőben a buszok gyakran zsúfoltabbak a szokásosnál."
+            ],
+            "ro": [
+              "Verificați timpii de plecare live prin aplicație.",
+              "Gările oferă de obicei zone de așteptare acoperite bune.",
+              "Unele autobuze opresc direct la Designer Outlet.",
+              "Aveți biletul (OV-chipkaart) la îndemână.",
+              "Autobuzele sunt adesea mai aglomerate pe timp de ploaie."
+            ],
+            "en": [
+              "Check live departure times using a transit app.",
+              "Stations generally offer good sheltered waiting areas.",
+              "Certain bus lines stop directly at the Designer Outlet.",
+              "Keep your ticket or OV-chipkaart ready for boarding.",
+              "Buses can be more crowded than usual during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens empfängt Sie der beheizte Bahnhof von Roosendaal. Die Busfahrt in die Stadt ist warm und komfortabel. Mittags bietet das Tongerlohuys eine geschützte Umgebung. Nachmittags erkunden Sie die Parks kurzzeitig, bevor Sie mit dem Bus zum Designer Outlet fahren. Dort genießen Sie die winterliche Beleuchtung, bevor Sie bequem mit dem Nahverkehr zurückreisen.",
+            "hu": "Reggel a fűtött roosendaali vasútállomás fogad minket. A buszút a városba meleg és kényelmes. Délben a Tongerlohuys védett környezetében időzünk. Délután rövid sétát teszünk a parkokban, majd busszal megyünk a Designer Outletbe. Ott élvezzük a téli fényeket, mielőtt kényelmesen visszautaznánk.",
+            "ro": "Dimineața sunteți întâmpinați de gara încălzită din Roosendaal. Călătoria cu autobuzul în oraș este caldă și confortabilă. La prânz, Muzeul Tongerlohuys oferă un mediu protejat. După-amiaza explorăm scurt parcurile înainte de a lua autobuzul spre Designer Outlet. Acolo vă bucurați de luminile de iarnă înainte de întoarcere.",
+            "en": "Morning greets you at the heated Roosendaal station. The bus ride into town is warm and comfortable. At noon, Tongerlohuys provides a sheltered environment. Afternoon involves brief park explorations before taking the bus to the Designer Outlet. Enjoy the winter illumination there before a cozy transit trip back."
+          },
+          "stops": [
+            {
+              "name": "Roosendaal Station (Cluster A)",
+              "tip_5lang": {
+                "de": "Warten Sie im warmen Bahnhofsgebäude.",
+                "hu": "Várj a meleg állomásépületben.",
+                "ro": "Așteptați în interiorul gării încălzite.",
+                "en": "Wait inside the warm station building."
+              }
+            },
+            {
+              "name": "St. John's Church",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Haltestelle.",
+                "hu": "Rövid gyalogút a megállótól.",
+                "ro": "Distanță scurtă de la stație.",
+                "en": "A very short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Historischer Blick aus dem Busfenster.",
+                "hu": "Történelmi kilátás a busz ablakából.",
+                "ro": "Vedere istorică de pe fereastra autobuzului.",
+                "en": "View historic sights from the bus window."
+              }
+            },
+            {
+              "name": "Tongerlohuys Museum",
+              "tip_5lang": {
+                "de": "Ideale Aufwärmpause zwischen Fahrten.",
+                "hu": "Ideális melegedő a járatok között.",
+                "ro": "Pauză de încălzire ideală între călătorii.",
+                "en": "Ideal warming break between rides."
+              }
+            },
+            {
+              "name": "Vrouwenhof Bus Stop (Cluster B)",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter zuverlässig.",
+                "hu": "A buszok télen is megbízhatóan járnak.",
+                "ro": "Autobuzele circulă regulat și iarna.",
+                "en": "Buses run reliably during winter months."
+              }
+            },
+            {
+              "name": "Vrouwenhof & Emile van Loonpark",
+              "tip_5lang": {
+                "de": "Kurze Gehzeit minimiert Kälteexposition.",
+                "hu": "A rövid séta csökkenti a hideget.",
+                "ro": "Timpul scurt de mers reduce expunerea la frig.",
+                "en": "Short walking time limits cold exposure."
+              }
+            },
+            {
+              "name": "Designer Outlet Roosendaal",
+              "tip_5lang": {
+                "de": "Busshuttle oft verfügbar, prüfen Sie das.",
+                "hu": "Buszjáratok gyakran elérhetők, ellenőrizd.",
+                "ro": "Navete de autobuz adesea disponibile.",
+                "en": "Bus shuttles are often available; check schedules."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bahnhöfe sind gute Orte, um sich zwischen Zügen aufzuwärmen.",
+              "Tragen Sie warme Kleidung für die Wartezeiten an Haltestellen.",
+              "Die Busse sind im Winter meist gut beheizt.",
+              "Prüfen Sie mögliche Fahrplanänderungen bei Wintereinbruch.",
+              "Nutzen Sie den Abend für Shopping im beleuchteten Outlet."
+            ],
+            "hu": [
+              "A vasútállomások jó helyek a felmelegedésre a vonatok között.",
+              "Viselj meleg ruhát a buszmegállóban való várakozáshoz.",
+              "A buszok télen általában jól fűtöttek.",
+              "Ellenőrizd a menetrendet esetleges téli korlátozások miatt.",
+              "Használd ki az estét a kivilágított Outletben való vásárlásra."
+            ],
+            "ro": [
+              "Gările sunt locuri bune pentru a vă încălzi între trenuri.",
+              "Purtați haine groase pentru așteptarea în stații.",
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Verificați eventualele modificări de orar din cauza vremii.",
+              "Profitați de seară pentru cumpărături în Outlet-ul iluminat."
+            ],
+            "en": [
+              "Stations are great places to warm up between train connections.",
+              "Wear warm clothing for the wait at outdoor bus stops.",
+              "Buses are typically well-heated during the winter season.",
+              "Check for any schedule changes due to winter weather conditions.",
+              "Make the most of the evening shopping in the festive Outlet."
+            ]
+          }
+        }
       }
     }
   }

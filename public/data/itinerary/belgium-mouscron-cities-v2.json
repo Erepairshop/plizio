@@ -379,6 +379,206 @@
           "Check museum opening times in advance as they can vary.",
           "Walking is the best way to discover the city's hidden murals."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir den Grand-Place unter den Arkaden des Rathauses, bevor wir in der St. Bartholomäus-Kirche Schutz suchen. Mittags tauchen wir tief in das Folklore-Museum ein, das ein ideales Indoor-Refugium bietet. Am Nachmittag spazieren wir kurz zum Schloss der Grafen und beenden den Tag im kulturellen Marcel-Marlier-Zentrum, weit weg vom Regen.",
+            "hu": "A reggelt a Főtér árkádjai alatt kezdjük, majd a Szent Bertalan-templom falai között lelünk menedékre az eső elől. Délben a Néprajzi Múzeum gazdag beltéri kiállításait fedezzük fel. Délután egy rövid, esernyős séta következik a Grófok kastélyához, a napot pedig a Marcel Marlier központ kulturális programjaival zárjuk, fedett helyen.",
+            "ro": "Dimineața explorăm Grand-Place sub arcadele primăriei, înainte de a ne adăposti în biserica Sfântu Bartolomeu. La prânz ne cufundăm în Muzeul de Folclor, un refugiu ideal de interior. După-amiaza facem o scurtă plimbare cu umbrela spre Castelul Contelui și încheiem ziua la centrul cultural Marcel Marlier, feriți de ploaie.",
+            "en": "Morning starts under the town hall arcades at Grand-Place, before seeking shelter in St. Bartholomew's Church. Midday is spent deep inside the Folklore Museum, a perfect indoor refuge. Afternoon features a quick umbrella walk to the Castle of the Counts, ending the day at the Marcel Marlier cultural centre, safely away from the rain."
+          },
+          "stops": [
+            {
+              "name": "Main Square (Grand-Place)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Rathauses als Regenschutz.",
+                "hu": "Használja a városháza árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele primăriei pentru a vă proteja de ploaie.",
+                "en": "Use the town hall arcades to stay dry while viewing the square."
+              }
+            },
+            {
+              "name": "Mouscron Town Hall",
+              "tip_5lang": {
+                "de": "Besichtigung der Innenräume, um dem Schauer zu entgehen.",
+                "hu": "Látogasson be az épületbe, hogy elkerülje a záport.",
+                "ro": "Vizitați interiorul pentru a evita aversa de ploaie.",
+                "en": "Visit the interior to escape the sudden downpour."
+              }
+            },
+            {
+              "name": "Saint Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort mit beeindruckenden Kunstwerken.",
+                "hu": "Csendes, száraz helyszín lenyűgöző műalkotásokkal.",
+                "ro": "Un loc liniștit și uscat, cu opere de artă impresionante.",
+                "en": "A quiet, dry spot with impressive religious artworks."
+              }
+            },
+            {
+              "name": "Museum of Folklore",
+              "tip_5lang": {
+                "de": "Perfekt für regnerische Stunden mit vielen Exponaten.",
+                "hu": "Tökéletes választás esős órákra, rengeteg látnivalóval.",
+                "ro": "Perfect pentru orele ploioase, cu multe exponate de văzut.",
+                "en": "Ideal for rainy hours with plenty of indoor exhibits."
+              }
+            },
+            {
+              "name": "Castle of the Counts",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Pflastersteinen im Außenbereich.",
+                "hu": "Vigyázzon a nedves macskaköveken a külső részeken.",
+                "ro": "Atenție la pavajul umed în zonele exterioare.",
+                "en": "Watch your step on the wet cobblestones in the outer areas."
+              }
+            },
+            {
+              "name": "Mouscron Town Park",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang unter den Bäumen, die etwas Schutz bieten.",
+                "hu": "Rövid séta a fák alatt, amelyek némi védelmet nyújtanak.",
+                "ro": "O scurtă plimbare sub copaci, care oferă puțin adăpost.",
+                "en": "A brief walk under the trees, which provide some shelter."
+              }
+            },
+            {
+              "name": "Marcel Marlier Centre",
+              "tip_5lang": {
+                "de": "Gemütliches Ende im Trockenen mit Fokus auf Illustrationen.",
+                "hu": "Hangulatos, száraz befejezés illusztrációs kiállításokkal.",
+                "ro": "Un final plăcut la uscat, cu accent pe ilustrații.",
+                "en": "A cozy indoor finish focusing on book illustrations."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Kopfsteinpflastergassen.",
+              "Nutzen Sie die Passage d'Hulst als Abkürzung im Trockenen.",
+              "Viele Cafés rund um den Markt bieten Schirmständer.",
+              "Das Folklore-Museum hat eine Garderobe für nasse Mäntel."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "Használja a Passage d'Hulst átjárót fedett rövidítésként.",
+              "A főtéri kávézók többsége rendelkezik esernyőtartóval.",
+              "A Néprajzi Múzeumban van ruhatár a vizes kabátoknak."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "Folosiți pasajul d'Hulst ca scurtătură acoperită.",
+              "Multe cafenele din piață oferă suporturi pentru umbrele.",
+              "Muzeul de Folclor are garderobă pentru haine ude."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "Use the Passage d'Hulst as a covered shortcut.",
+              "Most cafes around the square have umbrella stands.",
+              "The Folklore Museum provides a cloakroom for wet coats."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen beginnt auf dem beleuchteten Grand-Place, gefolgt von der wärmenden Stille der Kirche. Mittags wärmen wir uns im umfangreichen Folklore-Museum auf. Da es früh dunkel wird, besuchen wir das Schloss im Dämmerlicht und genießen den späten Nachmittag in der beheizten Atmosphäre des Marcel-Marlier-Zentrums.",
+            "hu": "A fagyos reggel a kivilágított Főtéren indul, majd a templom meleg csendjében folytatódik. Délben a Néprajzi Múzeum kiállításai között melegszünk fel. Mivel korán sötétedik, a kastélyt már szürkületben látogatjuk meg, a délutánt pedig a Marcel Marlier központ fűtött termeiben zárjuk.",
+            "ro": "Dimineața geroasă începe în Grand-Place luminată, urmată de liniștea caldă a bisericii. La prânz ne încălzim printre expozițiile Muzeului de Folclor. Deoarece se întunecă devreme, vizităm castelul în amurg și ne bucurăm de după-amiază în atmosfera încălzită a centrului Marcel Marlier.",
+            "en": "The frosty morning starts at the illuminated Grand-Place, followed by the warming silence of the church. At noon, we warm up among the Folklore Museum's exhibits. As it gets dark early, we visit the castle in the twilight and enjoy the afternoon in the heated Marcel Marlier centre."
+          },
+          "stops": [
+            {
+              "name": "Main Square (Grand-Place)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Winterbeleuchtung und einen heißen Kakao.",
+                "hu": "Élvezze a téli kivilágítást és egy forró kakaót.",
+                "ro": "Bucurați-vă de iluminatul de iarnă și de o ciocolată caldă.",
+                "en": "Enjoy the winter lights and a hot cocoa at a nearby cafe."
+              }
+            },
+            {
+              "name": "Mouscron Town Hall",
+              "tip_5lang": {
+                "de": "Die Fassade wirkt im Winterlicht besonders eindrucksvoll.",
+                "hu": "A homlokzat különösen látványos a téli fényekben.",
+                "ro": "Fațada arată deosebit de impresionant în lumina de iarnă.",
+                "en": "The facade looks particularly striking in the crisp winter light."
+              }
+            },
+            {
+              "name": "Saint Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um der Kälte für einen Moment zu entkommen.",
+                "hu": "Csendes helyszín, ahol egy pillanatra elmenekülhet a hideg elől.",
+                "ro": "Un loc liniștit pentru a scăpa de frig pentru un moment.",
+                "en": "A peaceful place to escape the biting cold for a while."
+              }
+            },
+            {
+              "name": "Museum of Folklore",
+              "tip_5lang": {
+                "de": "Heißgetränke im Museumscafé sind nach dem Rundgang ideal.",
+                "hu": "A múzeumi kávézó forró italai ideálisak a séta után.",
+                "ro": "Băuturile calde de la cafeneaua muzeului sunt ideale după tur.",
+                "en": "Hot drinks at the museum cafe are perfect after your visit."
+              }
+            },
+            {
+              "name": "Castle of the Counts",
+              "tip_5lang": {
+                "de": "Die Parkanlage ist bei Raureif ein tolles Fotomotiv.",
+                "hu": "A kastélypark zúzmarásan kiváló fotótéma.",
+                "ro": "Parcul castelului este un subiect foto excelent când e brumă.",
+                "en": "The castle grounds are a great photo spot when covered in frost."
+              }
+            },
+            {
+              "name": "Mouscron Town Park",
+              "tip_5lang": {
+                "de": "Kurzer, zügiger Spaziergang; achten Sie auf glatte Wege.",
+                "hu": "Rövid, tempós séta; ügyeljen a csúszós utakra.",
+                "ro": "O plimbare scurtă și vioaie; atenție la aleile alunecoase.",
+                "en": "A short, brisk walk; be careful of potentially slippery paths."
+              }
+            },
+            {
+              "name": "Marcel Marlier Centre",
+              "tip_5lang": {
+                "de": "Ein warmer, familienfreundlicher Abschluss des Tages.",
+                "hu": "Meleg, családbarát lezárása a napnak.",
+                "ro": "Un final de zi călduros și prietenos pentru familii.",
+                "en": "A warm, family-friendly conclusion to the day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sonnenuntergang ist bereits gegen 16:45 Uhr.",
+              "Tragen Sie Schichten, da Museen gut geheizt sind.",
+              "Warme Handschuhe sind für die Außenbesichtigungen Pflicht.",
+              "Kopfsteinpflaster kann bei Frost sehr glatt sein."
+            ],
+            "hu": [
+              "A naplemente már 16:45 körül bekövetkezik.",
+              "Öltözzön rétegesen, a múzeumok jól fűtöttek.",
+              "A szabadtéri részekhez a meleg kesztyű kötelező.",
+              "A macskakő fagyban nagyon csúszós lehet."
+            ],
+            "ro": [
+              "Apusul soarelui este deja în jurul orei 16:45.",
+              "Îmbrăcați-vă în straturi, muzeele sunt bine încălzite.",
+              "Mănușile groase sunt obligatorii pentru vizitele în exterior.",
+              "Pavelele pot fi foarte alunecoase în caz de îngheț."
+            ],
+            "en": [
+              "Sunset occurs early, around 4:45 PM.",
+              "Dress in layers as museums are well-heated.",
+              "Warm gloves are essential for outdoor sightseeing.",
+              "Cobblestones can be very slippery during frost."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +952,206 @@
           "Always lock your bike securely when parking it.",
           "Many cafes are bike-friendly and offer a place to rest."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir am Grand-Place und nutzen die kurzen Wege zwischen den Sehenswürdigkeiten. Wir radeln zügig zum Folklore-Museum, um die längste Regenzeit drinnen zu verbringen. Nachmittags geht es zum Schloss und Park, bevor wir das Fahrrad am Marcel-Marlier-Zentrum sicher abstellen und uns aufwärmen.",
+            "hu": "Az eső ellenére a Főtéren kezdünk, kihasználva a látnivalók közötti rövid távokat. Gyorsan eltekerünk a Néprajzi Múzeumhoz, hogy a leghosszabb esős időszakot bent töltsük. Délután útba ejtjük a kastélyt és a parkot, majd a kerékpárt a Marcel Marlier központnál lezárva pihenünk meg.",
+            "ro": "În ciuda ploii, începem în Grand-Place, profitând de distanțele scurte dintre obiective. Pedalam rapid spre Muzeul de Folclor pentru a petrece cea mai lungă perioadă ploioasă în interior. După-amiaza mergem la castel și parc, înainte de a lăsa bicicleta la centrul Marcel Marlier pentru a ne încălzi.",
+            "en": "Despite the rain, we start at Grand-Place, taking advantage of the short distances between sights. We cycle quickly to the Folklore Museum to spend the wettest part of the day indoors. In the afternoon, we head to the castle and park before locking the bike at the Marcel Marlier centre to warm up."
+          },
+          "stops": [
+            {
+              "name": "Main Square (Grand-Place)",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad unter Dachüberständen.",
+                "hu": "Parkolja le a biciklit az ereszek alatt.",
+                "ro": "Parcați bicicleta sub streșini pentru a o păstra uscată.",
+                "en": "Park your bike under roof overhangs to keep the seat dry."
+              }
+            },
+            {
+              "name": "Town Hall & St. Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; achten Sie auf rutschige Markierungen.",
+                "hu": "Rövid megálló; vigyázzon a csúszós útburkolati jelekre.",
+                "ro": "Oprire scurtă; atenție la marcajele rutiere alunecoase.",
+                "en": "Short stop; beware of slippery road markings when braking."
+              }
+            },
+            {
+              "name": "Picardy Wall Painting",
+              "tip_5lang": {
+                "de": "Schnelles Foto im Vorbeifahren unter dem Regenponcho.",
+                "hu": "Gyors fotó elhaladás közben, az esővédő alól.",
+                "ro": "O fotografie rapidă din mers, sub pelerina de ploaie.",
+                "en": "A quick photo while passing by under your rain poncho."
+              }
+            },
+            {
+              "name": "Museum of Folklore",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich direkt am Eingang.",
+                "hu": "Kerékpártárolók közvetlenül a bejáratnál találhatók.",
+                "ro": "Rastelurile de biciclete sunt chiar la intrare.",
+                "en": "Bike racks are located conveniently right by the entrance."
+              }
+            },
+            {
+              "name": "Castle of the Counts",
+              "tip_5lang": {
+                "de": "Bremsen Sie vorsichtig auf dem nassen Kiesweg.",
+                "hu": "Fékezzen óvatosan a nedves kavicsos úton.",
+                "ro": "Frânați cu atenție pe aleile cu pietriș umed.",
+                "en": "Brake carefully on the wet gravel paths around the castle."
+              }
+            },
+            {
+              "name": "Mouscron Town Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind bei Regen sicherer.",
+                "hu": "Az aszfaltozott utak biztonságosabbak esőben.",
+                "ro": "Aleile asfaltate sunt mai sigure pe timp de ploaie.",
+                "en": "Stick to the paved paths as they are safer in the rain."
+              }
+            },
+            {
+              "name": "Marcel Marlier Centre",
+              "tip_5lang": {
+                "de": "Endstation; Zeit, die Regenkleidung zu lüften.",
+                "hu": "Végállomás; idő az esővédő ruházat kiszárítására.",
+                "ro": "Stația finală; timp pentru a aerisi hainele de ploaie.",
+                "en": "Final stop; time to dry off your rain gear inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Bremsen auf nassen Metallschienen.",
+              "Ein Sattelschutz hält Ihre Hose trocken.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sicht.",
+              "Die Radwege in Mouscron sind meist gut drainiert."
+            ],
+            "hu": [
+              "Kerülje a fékezést a nedves fémsíneken vagy csatornafedeleken.",
+              "A nyeregvédő szárazon tartja a nadrágját.",
+              "Viseljen feltűnő esődzsekit a jobb láthatóságért.",
+              "Mouscron kerékpárútjai többnyire jól elvezetik a vizet."
+            ],
+            "ro": [
+              "Evitați frânarea pe șinele metalice sau capacele de canal ude.",
+              "O husă de șa vă va menține pantalonii uscați.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate.",
+              "Pistele de biciclete din Mouscron sunt de obicei bine drenate."
+            ],
+            "en": [
+              "Avoid braking on wet metal tracks or manhole covers.",
+              "A saddle cover will keep your trousers dry.",
+              "Wear a bright rain jacket for better visibility.",
+              "Mouscron's bike paths generally drain water well."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Wintertour durch Mouscron. Wir starten am Markt und radeln durch die klare Luft zur Kirche. Der Mittag im Folklore-Museum bietet die nötige Aufwärmpause. Nachmittags geht es zum Schloss, wo die tiefstehende Sonne lange Schatten wirft, bevor wir den Tag gemütlich im Marcel-Marlier-Zentrum beenden.",
+            "hu": "Frissítő téli túra Mouscronban. A piacról indulunk, és a tiszta levegőn tekerünk a templomhoz. A délutáni Néprajzi Múzeum látogatás biztosítja a szükséges melegedőt. Később a kastély felé vesszük az irányt, ahol az alacsonyan járó nap hosszú árnyékokat vet, majd a Marcel Marlier központban zárjuk a napot.",
+            "ro": "Un tur de iarnă revigorant prin Mouscron. Pornim din piață și pedalam prin aerul curat spre biserică. Vizita de prânz la Muzeul de Folclor oferă pauza necesară pentru încălzire. După-amiaza mergem spre castel, unde soarele jos lasă umbre lungi, înainte de a încheia ziua la centrul Marcel Marlier.",
+            "en": "A refreshing winter tour through Mouscron. We start at the market and cycle through the crisp air to the church. The midday visit to the Folklore Museum provides a necessary warm-up break. In the afternoon, we head to the castle where the low sun casts long shadows, before ending the day at the Marcel Marlier centre."
+          },
+          "stops": [
+            {
+              "name": "Main Square (Grand-Place)",
+              "tip_5lang": {
+                "de": "Vorsicht bei Raureif auf dem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a zúzmarás macskaköveken.",
+                "ro": "Atenție la bruma de pe pietrele cubice.",
+                "en": "Be careful of frost on the cobblestones early in the morning."
+              }
+            },
+            {
+              "name": "Town Hall & St. Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Handschuhe beim Abschließen nicht vergessen.",
+                "hu": "Ne felejtse el a kesztyűt a bicikli lezárásakor.",
+                "ro": "Nu uitați mănușile când încuiați bicicleta.",
+                "en": "Don't forget your gloves when locking or unlocking your bike."
+              }
+            },
+            {
+              "name": "Picardy Wall Painting",
+              "tip_5lang": {
+                "de": "Ein kurzer Halt; halten Sie den Körper in Bewegung.",
+                "hu": "Csak rövid megálló; tartsa mozgásban a testét.",
+                "ro": "O scurtă oprire; mențineți corpul în mișcare.",
+                "en": "A brief stop; keep your body moving to stay warm."
+              }
+            },
+            {
+              "name": "Museum of Folklore",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizkörper im Foyer zum Aufwärmen.",
+                "hu": "Használja az előtér fűtőtesteit a felmelegedéshez.",
+                "ro": "Folosiți caloriferele din hol pentru a vă încălzi.",
+                "en": "Use the radiators in the foyer to warm up your hands."
+              }
+            },
+            {
+              "name": "Castle of the Counts",
+              "tip_5lang": {
+                "de": "Tiefstehende Sonne kann beim Radfahren blenden.",
+                "hu": "Az alacsonyan járó nap vakíthat kerékpározás közben.",
+                "ro": "Soarele jos poate fi orbitor în timp ce pedalați.",
+                "en": "The low winter sun can be blinding while cycling; wear shades."
+              }
+            },
+            {
+              "name": "Mouscron Town Park",
+              "tip_5lang": {
+                "de": "Die Wege können bei Minusgraden tückisch glatt sein.",
+                "hu": "Az utak fagypont alatt csalókán csúszósak lehetnek.",
+                "ro": "Aleile pot fi înșelător de alunecoase la temperaturi negative.",
+                "en": "Paths can be treacherously slippery in freezing temperatures."
+              }
+            },
+            {
+              "name": "Marcel Marlier Centre",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Tour gemütlich ausklingen zu lassen.",
+                "hu": "Ideális hely a túra kellemes befejezéséhez.",
+                "ro": "Locul ideal pentru a încheia turul într-un mod plăcut.",
+                "en": "Ideal place to cozy up and end your winter cycling tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck; Kälte lässt ihn sinken.",
+              "Halten Sie die Kette gut geölt gegen Streusalz.",
+              "Licht ist ab 16:30 Uhr zwingend erforderlich.",
+              "Thermo-Sohlen verhindern kalte Füße beim Treten."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást; a hidegben csökkenhet.",
+              "Tartsa a láncot olajozottan a tészta elleni védelemért.",
+              "A világítás 16:30-tól kötelező.",
+              "A talpmelegítő betétek segítenek a hideg ellen."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope; scade la frig.",
+              "Păstrați lanțul bine uns împotriva sării de pe drum.",
+              "Luminile sunt obligatorii începând cu ora 16:30.",
+              "Branțurile termice previn înghețarea picioarelor pe pedale."
+            ],
+            "en": [
+              "Check tire pressure; it drops in cold weather.",
+              "Keep the chain well-oiled against road salt.",
+              "Lights are mandatory from 4:30 PM onwards.",
+              "Thermal insoles help prevent cold feet while pedaling."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1108,6 +1508,188 @@
           "A GPS is helpful for navigating the city and its surroundings.",
           "Be aware of low-emission zones that apply in some Belgian cities."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto navigieren wir bequem zwischen den Clustern. Wir parken nah am Grand-Place für einen schnellen Blick aufs Rathaus, bevor wir zum Folklore-Museum fahren. Der Nachmittag gehört dem Schloss und dem Marcel-Marlier-Zentrum, wobei das Auto uns trocken von Tür zu Tür bringt.",
+            "hu": "Autóval kényelmesen navigálunk a központok között. A Főtér közelében parkolunk egy gyors városnézéshez, majd a Néprajzi Múzeum felé vesszük az irányt. A délután a kastélyé és a Marcel Marlier központé, miközben az autó szárazon juttat el minket egyik ajtótól a másikig.",
+            "ro": "Cu mașina navigăm confortabil între grupuri. Parcăm aproape de Grand-Place pentru o privire rapidă la primărie, înainte de a merge la Muzeul de Folclor. După-amiaza aparține castelului și centrului Marcel Marlier, mașina purtându-ne la uscat de la o ușă la alta.",
+            "en": "By car, we navigate comfortably between the clusters. We park near Grand-Place for a quick look at the town hall before driving to the Folklore Museum. The afternoon is dedicated to the castle and the Marcel Marlier centre, with the car keeping us dry from door to door."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus Grand-Place, um trocken zu bleiben.",
+                "hu": "Használja a Grand-Place parkolóházat, hogy száraz maradjon.",
+                "ro": "Folosiți parcarea subterană Grand-Place pentru a rămâne uscat.",
+                "en": "Use the Grand-Place parking garage to stay completely dry."
+              }
+            },
+            {
+              "name": "Town Hall & Main Square",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Parkplatz und den Gebäuden nutzen.",
+                "hu": "Használja ki a parkoló és az épületek közötti rövid utat.",
+                "ro": "Profitați de distanța scurtă între parcare și clădiri.",
+                "en": "Take advantage of the short walk between parking and sights."
+              }
+            },
+            {
+              "name": "Saint Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Parkplätze direkt an der Kirche sind oft verfügbar.",
+                "hu": "A templom melletti parkolóhelyek gyakran szabadok.",
+                "ro": "Locurile de parcare de lângă biserică sunt adesea libere.",
+                "en": "Parking spaces right by the church are often available."
+              }
+            },
+            {
+              "name": "Cluster 2: Culture & Heritage",
+              "tip_5lang": {
+                "de": "Das Museum hat einen eigenen Parkplatz im Innenhof.",
+                "hu": "A múzeumnak saját parkolója van a belső udvarban.",
+                "ro": "Muzeul are o parcare proprie în curtea interioară.",
+                "en": "The museum has its own parking lot in the inner courtyard."
+              }
+            },
+            {
+              "name": "Cluster 3: Park & Castle",
+              "tip_5lang": {
+                "de": "Parken Sie am Eingang der Avenue du Château.",
+                "hu": "Parkoljon az Avenue du Château bejáratánál.",
+                "ro": "Parcați la intrarea de pe Avenue du Château.",
+                "en": "Park near the entrance on Avenue du Château for easy access."
+              }
+            },
+            {
+              "name": "Marcel Marlier Centre",
+              "tip_5lang": {
+                "de": "Parkmöglichkeiten direkt vor dem Kulturzentrum.",
+                "hu": "Parkolási lehetőség közvetlenül a kulturális központ előtt.",
+                "ro": "Posibilități de parcare chiar în fața centrului cultural.",
+                "en": "Parking is available directly in front of the cultural centre."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie Pfützen beim Einparken in Straßennähe.",
+              "Die Scheiben beschlagen bei Regen schnell; Lüftung prüfen.",
+              "Zentrale Parkhäuser bieten den besten Regenschutz.",
+              "Ein Regenschirm im Kofferraum ist in Mouscron Pflicht."
+            ],
+            "hu": [
+              "Kerülje a tócsákat az út menti parkoláskor.",
+              "Az ablakok esőben gyorsan párásodnak; ellenőrizze a szellőzést.",
+              "A központi parkolóházak nyújtják a legjobb védelmet.",
+              "Egy esernyő a csomagtartóban kötelező Mouscronban."
+            ],
+            "ro": [
+              "Evitați bălțile când parcați pe marginea drumului.",
+              "Geamurile se aburesc repede la ploaie; verificați ventilația.",
+              "Parcările subterane centrale oferă cea mai bună protecție.",
+              "O umbrelă în portbagaj este obligatorie în Mouscron."
+            ],
+            "en": [
+              "Avoid deep puddles when parking near the curbside.",
+              "Windows fog up quickly in the rain; check your ventilation.",
+              "Central parking garages offer the best rain protection.",
+              "Always keep an umbrella in the trunk when in Mouscron."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Wintertag im Auto. Wir bewundern den geschmückten Grand-Place und wärmen uns zwischen den Stopps im Fahrzeug auf. Das Folklore-Museum bietet ein langes Indoor-Programm. Zum Sonnenuntergang erreichen wir das Schloss und lassen den Tag im gemütlichen Marcel-Marlier-Zentrum ausklingen.",
+            "hu": "Szuper téli nap az autó kényelmében. Megcsodáljuk a díszített Főteret, és a megállók között az autóban melegszünk fel. A Néprajzi Múzeum hosszú beltéri programot kínál. Naplementére érünk a kastélyhoz, majd a Marcel Marlier központban fejezzük be a napot.",
+            "ro": "O zi relaxantă de iarnă în mașină. Admirăm Grand-Place decorată și ne încălzim în vehicul între opriri. Muzeul de Folclor oferă un program lung de interior. Ajungem la castel la apus și încheiem ziua la centrul primitor Marcel Marlier.",
+            "en": "A relaxed winter day by car. We admire the decorated Grand-Place and warm up in the vehicle between stops. The Folklore Museum offers an extensive indoor program. We reach the castle by sunset and finish the day at the cozy Marcel Marlier centre."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center",
+              "tip_5lang": {
+                "de": "Beheizte Parkhäuser in der Nähe nutzen.",
+                "hu": "Használja a közeli, védett parkolóházakat.",
+                "ro": "Folosiți parcările acoperite din apropiere.",
+                "en": "Use covered parking garages nearby to keep the car frost-free."
+              }
+            },
+            {
+              "name": "Town Hall & Main Square",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; Motor nicht unnötig laufen lassen.",
+                "hu": "Rövid fotómegálló; ne járassa feleslegesen a motort.",
+                "ro": "Oprire scurtă pentru poze; nu lăsați motorul pornit inutil.",
+                "en": "Quick photo stop; don't leave the engine idling unnecessarily."
+              }
+            },
+            {
+              "name": "Saint Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Der Fußweg vom Parkplatz ist im Winter oft gestreut.",
+                "hu": "A parkolótól vezető utat télen gyakran sózzák.",
+                "ro": "Aleea de la parcare este adesea presărată cu sare iarna.",
+                "en": "The path from the parking area is usually salted in winter."
+              }
+            },
+            {
+              "name": "Cluster 2: Culture & Heritage",
+              "tip_5lang": {
+                "de": "Lassen Sie keine Wertsachen sichtbar im warmen Auto.",
+                "hu": "Ne hagyjon értéktárgyat látható helyen a fűtött autóban.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașina caldă.",
+                "en": "Don't leave valuables visible in the car while inside."
+              }
+            },
+            {
+              "name": "Cluster 3: Park & Castle",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Flächen auf den Parkplätzen.",
+                "hu": "Ügyeljen a jeges foltokra a parkolókban.",
+                "ro": "Atenție la porțiunile înghețate din parcări.",
+                "en": "Watch out for icy patches in the parking areas."
+              }
+            },
+            {
+              "name": "Marcel Marlier Centre",
+              "tip_5lang": {
+                "de": "Gute Heizung im Inneren; dicke Jacken an der Garderobe.",
+                "hu": "Jó fűtés bent; a vastag kabátokat tegye a ruhatárba.",
+                "ro": "Încălzire bună în interior; lăsați hainele groase la garderobă.",
+                "en": "Good heating inside; leave heavy coats at the cloakroom."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutzmittel für die Scheibenwaschanlage ist wichtig.",
+              "Vorsicht vor Blitzeis auf Nebenstraßen.",
+              "Zentrale Parkplätze sind im Winter schneller geräumt.",
+              "Planen Sie Zeit zum Scheibenkratzen ein."
+            ],
+            "hu": [
+              "A fagyálló szélvédőmosó folyadék elengedhetetlen.",
+              "Vigyázzon a fekete jégre a mellékutcákban.",
+              "A központi parkolókat télen gyorsabban letakarítják.",
+              "Számoljon időt a jégkaparásra indulás előtt."
+            ],
+            "ro": [
+              "Lichidul de parbriz antigel este esențial.",
+              "Atenție la polei pe străzile secundare.",
+              "Parcările centrale sunt curățate mai repede iarna.",
+              "Alocați timp pentru curățarea gheții de pe geamuri."
+            ],
+            "en": [
+              "Anti-freeze windshield fluid is essential.",
+              "Beware of black ice on side streets.",
+              "Central parking lots are cleared of snow more quickly.",
+              "Allow extra time for scraping ice off the windows."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1464,6 +2046,188 @@
           "Be aware that buses may run less frequently on weekends.",
           "Plan your walks between stops to make the most of your time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerisches Mouscron bequem mit dem Bus erleben. Wir starten im Zentrum und nutzen die kurzen Wege zur Kirche. Das Folklore-Museum erreichen wir fast trocken per Bus. Nachmittags geht es zum Park und Schloss, wobei die Wartehäuschen guten Schutz bieten, bevor wir im Marcel-Marlier-Zentrum ankommen.",
+            "hu": "Az esős Mouscront kényelmesen, busszal fedezzük fel. A központból indulunk, és rövid sétával érjük el a templomot. A Néprajzi Múzeumhoz busszal megyünk, így szinte szárazon érkezünk. Délután a park és a kastély következik, a várótermek jó védelmet nyújtanak a Marcel Marlier központ felé.",
+            "ro": "Descoperim Mouscron-ul ploios confortabil cu autobuzul. Pornim din centru și ajungem la biserică după o scurtă plimbare. La Muzeul de Folclor ajungem aproape uscați cu autobuzul. După-amiaza mergem spre parc și castel, adăposturile oferind protecție bună în drum spre centrul Marcel Marlier.",
+            "en": "Explore rainy Mouscron comfortably by bus. We start in the center and reach the church after a short walk. We reach the Folklore Museum nearly dry by bus. In the afternoon, we head to the park and castle, with bus shelters providing good cover on the way to the Marcel Marlier centre."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Center Arrival",
+              "tip_5lang": {
+                "de": "Zentrale Bushaltestelle bietet Unterstand bei Regen.",
+                "hu": "A központi buszmegálló fedett váróval rendelkezik.",
+                "ro": "Stația centrală de autobuz are adăpost pentru ploaie.",
+                "en": "The central bus stop provides a shelter during rain."
+              }
+            },
+            {
+              "name": "Town Hall and Saint Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg; halten Sie den Schirm bereit.",
+                "hu": "Rövid séta; tartsa készenlétben az esernyőt.",
+                "ro": "Drum scurt pe jos; țineți umbrela la îndemână.",
+                "en": "Short walk; keep your umbrella ready for the street."
+              }
+            },
+            {
+              "name": "Museum of Folklore",
+              "tip_5lang": {
+                "de": "Haltestelle 'Mouscron Kursaal' liegt direkt in der Nähe.",
+                "hu": "A 'Mouscron Kursaal' megálló közvetlenül a közelben van.",
+                "ro": "Stația 'Mouscron Kursaal' se află chiar în apropiere.",
+                "en": "The 'Mouscron Kursaal' stop is located very close by."
+              }
+            },
+            {
+              "name": "Cluster 2: Park & Culture",
+              "tip_5lang": {
+                "de": "Vom Bus zum Parkeingang sind es nur wenige Meter.",
+                "hu": "A busztól a park bejáratáig csak pár méter a séta.",
+                "ro": "De la autobuz până la intrarea în parc sunt doar câțiva metri.",
+                "en": "It's only a few meters from the bus stop to the park entrance."
+              }
+            },
+            {
+              "name": "Castle of the Counts",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App für Echtzeit-Abfahrten im Regen.",
+                "hu": "Használja az alkalmazást az élő indulásokhoz esőben.",
+                "ro": "Folosiți aplicația pentru plecări în timp real pe ploaie.",
+                "en": "Use the transit app for real-time departures to avoid waiting."
+              }
+            },
+            {
+              "name": "Marcel Marlier Centre",
+              "tip_5lang": {
+                "de": "Endstation; die Linie 1 bringt Sie zurück zum Bahnhof.",
+                "hu": "Végállomás; az 1-es vonal visszavisz a vasútállomásra.",
+                "ro": "Capăt de linie; linia 1 vă duce înapoi la gară.",
+                "en": "Final stop; line 1 takes you back to the train station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "TEC-Busse sind die Hauptverkehrsmittel in Mouscron.",
+              "Kaufen Sie Tickets vorab per App (Digitales Ticket).",
+              "Haltestellen mit Glaswänden bieten den besten Windschutz.",
+              "Achten Sie auf Spritzwasser von Autos an den Haltestellen."
+            ],
+            "hu": [
+              "A TEC buszok a fő közlekedési eszközök Mouscronban.",
+              "Vásároljon jegyet előre az alkalmazásban (digitális jegy).",
+              "Az üvegfalú megállók nyújtják a legjobb szélvédelmet.",
+              "Ügyeljen az autók által felvert vízre a megállókban."
+            ],
+            "ro": [
+              "Autobuzele TEC sunt principalul mijloc de transport.",
+              "Cumpărați bilete în avans prin aplicație (bilet digital).",
+              "Stațiile cu pereți de sticlă oferă cea mai bună protecție.",
+              "Atenție la apa împroșcată de mașini în stații."
+            ],
+            "en": [
+              "TEC buses are the main transit option in Mouscron.",
+              "Buy tickets in advance via the app (digital ticket).",
+              "Bus shelters with glass walls offer the best wind protection.",
+              "Watch out for splashing water from cars near the stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Mouscron entspannt per ÖPNV. Vom Bahnhof geht es direkt zum Grand-Place. Die Busse sind gut beheizt und bieten eine warme Pause zwischen den Sehenswürdigkeiten. Den Nachmittag verbringen wir im Folklore-Museum und im Marcel-Marlier-Zentrum, bevor wir bequem im Dunkeln zurückfahren.",
+            "hu": "Téli kalandozás Mouscronban tömegközlekedéssel. Az állomásról egyenesen a Főtérre megyünk. A buszok jól fűtöttek, így kellemes pihenőt nyújtanak a látnivalók között. A délutánt a Néprajzi Múzeumban és a Marcel Marlier központban töltjük, majd sötétben térünk vissza.",
+            "ro": "Mouscron de iarnă explorat relaxat cu transportul public. Mergem direct din gară spre Grand-Place. Autobuzele sunt bine încălzite, oferind o pauză caldă între vizite. Petrecem după-amiaza la Muzeul de Folclor și centrul Marcel Marlier, revenind confortabil pe întuneric.",
+            "en": "Winter Mouscron explored by public transit. From the station, we head straight to Grand-Place. The buses are well-heated, providing a warm break between sights. We spend the afternoon at the Folklore Museum and the Marcel Marlier centre before returning comfortably in the dark."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Center Arrival",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter zuverlässig nach Fahrplan.",
+                "hu": "A buszok télen is megbízhatóan menetrend szerint járnak.",
+                "ro": "Autobuzele circulă fiabil conform orarului și iarna.",
+                "en": "Buses run reliably according to the schedule in winter."
+              }
+            },
+            {
+              "name": "Town Hall and Saint Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Kurzer, kalter Fußweg; Mütze und Schal sind ratsam.",
+                "hu": "Rövid, hideg séta; sapka és sál ajánlott.",
+                "ro": "Drum scurt și friguros; se recomandă căciulă și fular.",
+                "en": "Short, cold walk; a hat and scarf are highly recommended."
+              }
+            },
+            {
+              "name": "Museum of Folklore",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Bus auf dem Weg hierher.",
+                "hu": "Élvezze a busz melegét útközben idefelé.",
+                "ro": "Bucurați-vă de căldura din autobuz în drum spre muzeu.",
+                "en": "Enjoy the warmth of the bus on your way to the museum."
+              }
+            },
+            {
+              "name": "Cluster 2: Park & Culture",
+              "tip_5lang": {
+                "de": "In der Dämmerung sind die Haltestellen gut beleuchtet.",
+                "hu": "Szürkületben a megállók jól kivilágítottak.",
+                "ro": "Stațiile sunt bine iluminate la lăsarea serii.",
+                "en": "The bus stops are well-illuminated during the twilight hours."
+              }
+            },
+            {
+              "name": "Castle of the Counts",
+              "tip_5lang": {
+                "de": "Prüfen Sie die letzte Abfahrt, bevor es zu kalt wird.",
+                "hu": "Ellenőrizze az utolsó járatot, mielőtt túl hideg lesz.",
+                "ro": "Verificați ultima plecare înainte de a se face prea frig.",
+                "en": "Check the last departure time before it gets too cold."
+              }
+            },
+            {
+              "name": "Marcel Marlier Centre",
+              "tip_5lang": {
+                "de": "Warmer Aufenthalt bis zur Abfahrt des Busses.",
+                "hu": "Melegedjen bent a busz indulásáig.",
+                "ro": "Rămâneți la căldură până la plecarea autobuzului.",
+                "en": "Stay warm inside until it's time for your bus to depart."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In den Bussen ist es oft sehr warm; Schichten tragen.",
+              "Die 'TEC'-App zeigt Verspätungen durch Schnee an.",
+              "Abends fahren die Busse seltener; Taktung prüfen.",
+              "Halten Sie Kleingeld oder Karte für den Ticketkauf bereit."
+            ],
+            "hu": [
+              "A buszokon gyakran nagyon meleg van; viseljen rétegeket.",
+              "A 'TEC' alkalmazás jelzi a hó miatti késéseket.",
+              "Este a buszok ritkábban járnak; ellenőrizze a járatsűrűséget.",
+              "Készítse elő az aprót vagy a kártyát a jegyvásárláshoz."
+            ],
+            "ro": [
+              "În autobuze este adesea foarte cald; purtați straturi.",
+              "Aplicația 'TEC' indică întârzierile cauzate de zăpadă.",
+              "Seara autobuzele circulă mai rar; verificați frecvența.",
+              "Pregătiți mărunțișul sau cardul pentru cumpărarea biletului."
+            ],
+            "en": [
+              "Buses are often very warm; dress in layers to stay comfortable.",
+              "The 'TEC' app shows delays caused by winter weather.",
+              "Buses run less frequently in the evening; check the intervals.",
+              "Have small change or your card ready for ticket purchases."
+            ]
+          }
+        }
       }
     }
   }

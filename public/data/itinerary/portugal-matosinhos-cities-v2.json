@@ -362,7 +362,189 @@
             "en": "Watch the sculpture move and sway with the wind, symbolizing net fishing."
           }
         }
-      ]
+      ],
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in der Markthalle von Matosinhos, wo Sie im Trockenen das geschäftige Treiben beobachten können. Danach bietet die barocke Kirche Schutz vor dem Regen. Mittags laden die Fischrestaurants in der Nähe des Hafens zu einer gemütlichen Pause ein. Den Nachmittag verbringen Sie an der Küste, wobei das Castelo do Queijo als robuster Aussichtspunkt dient.",
+            "hu": "Kezdje a napot a matosinhosi piacon, ahol fedett helyen élvezheti a helyi nyüzsgést. Az Igreja do Bom Jesus barokk belső tere tökéletes menedék az eső elől. Ebédre válasszon egyet a híres haléttermek közül. Délután a tengerparti sétányon az óceán erejét figyelheti meg, a Sajtvár vastag falai között pedig szárazon maradhat a viharosabb percekben is.",
+            "ro": "Începeți ziua în piața municipală, un spațiu acoperit plin de viață. Biserica Bom Jesus oferă un refugiu spiritual și uscat în fața ploii. La prânz, restaurantele de pe Rua Heróis de França sunt ideale pentru a savura pește proaspăt. După-amiaza, admirați valurile Atlanticului de la adăpostul oferit de Castelo do Queijo, care veghează coasta.",
+            "en": "Start your day at the municipal market, a vibrant indoor space perfect for a rainy morning. The Church of Bom Jesus provides a beautiful dry sanctuary. For lunch, the local seafood restaurants offer a cozy escape. Spend your afternoon watching the dramatic rainy Atlantic from the sturdy shelter of the Cheese Castle before seeing the Anemone sculpture."
+          },
+          "stops": [
+            {
+              "name": "Mercado Municipal de Matosinhos",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den Regen bei einem Kaffee zu überbrücken.",
+                "hu": "Kiváló hely egy kávéra, amíg eláll az eső.",
+                "ro": "Loc perfect pentru a aștepta oprirea ploii cu o cafea.",
+                "en": "Great indoor spot to wait out a heavy downpour with a coffee."
+              }
+            },
+            {
+              "name": "Igreja do Bom Jesus de Matosinhos",
+              "tip_5lang": {
+                "de": "Bewundern Sie die goldene Schnitzerei, während es draußen regnet.",
+                "hu": "Csodálja meg az aranyozott oltárt, amíg kint esik.",
+                "ro": "Admirați sculpturile aurite în timp ce afară plouă.",
+                "en": "Admire the gilded woodcarvings while staying dry inside."
+              }
+            },
+            {
+              "name": "Praia de Matosinhos",
+              "tip_5lang": {
+                "de": "Der Asphalt kann rutschig sein; nutzen Sie die überdachten Cafés.",
+                "hu": "Az aszfalt csúszós lehet; keressen egy fedett teraszt.",
+                "ro": "Asfaltul poate fi alunecos; folosiți cafenelele acoperite.",
+                "en": "Pavement can be slippery; use the covered beach cafes for views."
+              }
+            },
+            {
+              "name": "Castelo do Queijo (Cheese Castle)",
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten hervorragenden Schutz vor Wind und Gischt.",
+                "hu": "A vastag falak kiváló védelmet nyújtanak a szél ellen.",
+                "ro": "Zidurile groase oferă protecție excelentă împotriva vântului.",
+                "en": "The thick stone walls offer great protection from sea spray."
+              }
+            },
+            {
+              "name": "Tragedy at Sea Monument",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp; bei starkem Wind ist Vorsicht geboten.",
+                "hu": "Csak rövid megálló; erős szélben kapaszkodjon a korlátba.",
+                "ro": "O oprire scurtă; atenție sporită în caz de vânt puternic.",
+                "en": "A quick stop; the wind can be very strong here during rain."
+              }
+            },
+            {
+              "name": "She Changes (The Anemone)",
+              "tip_5lang": {
+                "de": "Die Skulptur wirkt im Regen besonders dynamisch.",
+                "hu": "A szobor esőben és szélben különösen látványos.",
+                "ro": "Sculptura arată foarte dinamic în condiții de ploaie.",
+                "en": "The net sculpture looks particularly dynamic in wet weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserfeste Jacke, da der Wind Regenschirme zerstören kann.",
+              "Die Fischmarkthalle ist montags geschlossen, planen Sie entsprechend.",
+              "Nutzen Sie die vielen Cafés an der Küste als strategische Wärmepunkte.",
+              "Die Steine am Castelo do Queijo können bei Nässe extrem rutschig sein."
+            ],
+            "hu": [
+              "Viseljen vízálló kabátot, mert a tengerparti szél tönkreteheti az esernyőt.",
+              "A halpiac hétfőnként zárva tart, így olyankor csak az épületet nézheti meg.",
+              "Használja a parti kávézókat stratégiai melegedőpontként.",
+              "A Sajtvár környéki kövek vizesen rendkívül csúszósak lehetnek."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă; vântul de pe coastă rupe umbrelele.",
+              "Piața de pește este închisă lunea, deci planificați vizita în altă zi.",
+              "Folosiți numeroasele cafenele de pe mal ca puncte de încălzire.",
+              "Pietrele de lângă Castelo do Queijo sunt foarte alunecoase când sunt ude."
+            ],
+            "en": [
+              "Wear a waterproof jacket as coastal winds often destroy umbrellas.",
+              "The fish market is closed on Mondays, so plan your visit accordingly.",
+              "Use the numerous beachfront cafes as strategic warming-up points.",
+              "The stones around the Cheese Castle can be extremely slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch am Markt, wo heißer Kaffee und frisches Gebäck wärmen. Die Sonne steht tief über dem Bom Jesus, was für tolles Licht sorgt. Am Strand weht eine steife Brise, perfekt für einen belebenden Spaziergang vor dem frühen Sonnenuntergang gegen 17:30 Uhr. Den Abend lassen Sie in einem der beheizten Restaurants ausklingen.",
+            "hu": "A téli reggel frissen indul a piacon, ahol a forró kávé és a friss pékáru ad energiát. A nap alacsonyan jár a Bom Jesus felett, csodás fényeket festve a barokk homlokzatra. A tengerparton csípős szél fúj, ami frissítővé teszi a sétát a korai, 17:30 körüli naplemente előtt. Az estét töltse egy fűtött tengerparti étteremben.",
+            "ro": "Dimineața de iarnă începe cu prospețime în piață, unde cafeaua fierbinte este esențială. Soarele coborât oferă o lumină aurie bisericii Bom Jesus. Pe plajă, briza rece a Atlanticului este revigorantă pentru o plimbare înainte de apusul devreme, în jur de ora 17:30. Încheiați ziua într-un restaurant primitor cu încălzire.",
+            "en": "Winter mornings start crisp at the market, where hot coffee is a must. The low winter sun creates beautiful light on the Church of Bom Jesus. A brisk walk along the beach is invigorating before the early sunset around 5:30 PM. Warm up in the evening at one of the cozy seafood grills with indoor seating."
+          },
+          "stops": [
+            {
+              "name": "Mercado Municipal de Matosinhos",
+              "tip_5lang": {
+                "de": "Probieren Sie heiße 'Leite Creme' zur Aufwärmung.",
+                "hu": "Kóstolja meg a meleg 'Leite Creme'-t a reggeli mellé.",
+                "ro": "Încercați o porție de 'Leite Creme' caldă pentru încălzire.",
+                "en": "Try some warm 'Leite Creme' to start your winter morning."
+              }
+            },
+            {
+              "name": "Igreja do Bom Jesus de Matosinhos",
+              "tip_5lang": {
+                "de": "Die Innentemperatur ist oft kühler als draußen; behalten Sie die Jacke an.",
+                "hu": "Bent gyakran hűvösebb van, mint kint, ne vegye le a kabátját.",
+                "ro": "Interiorul este adesea mai rece; nu vă scoateți jacheta.",
+                "en": "The interior is often cooler than outside; keep your coat on."
+              }
+            },
+            {
+              "name": "Praia de Matosinhos",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick bei klarer Winterluft.",
+                "hu": "Élvezze a tiszta kilátást a friss téli levegőn.",
+                "ro": "Bucurați-vă de vizibilitatea clară a aerului rece de iarnă.",
+                "en": "Enjoy the clear, far-reaching views in the crisp winter air."
+              }
+            },
+            {
+              "name": "Castelo do Queijo (Cheese Castle)",
+              "tip_5lang": {
+                "de": "Bester Ort für Fotos des Sonnenuntergangs gegen 17:30 Uhr.",
+                "hu": "A legjobb hely a naplemente fotózásához 17:30 körül.",
+                "ro": "Cel mai bun loc pentru fotografii la apus, în jur de 17:30.",
+                "en": "Prime spot for sunset photos around 5:30 PM in winter."
+              }
+            },
+            {
+              "name": "Tragedy at Sea Monument",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne wirft lange, dramatische Schatten.",
+                "hu": "Az alacsony napállás drámai árnyékokat vet a szobrokra.",
+                "ro": "Soarele jos creează umbre dramatice asupra sculpturilor.",
+                "en": "The low sun casts long, dramatic shadows on the statues."
+              }
+            },
+            {
+              "name": "She Changes (The Anemone)",
+              "tip_5lang": {
+                "de": "Abends beleuchtet wirkt das Netz besonders imposant.",
+                "hu": "Az esti kivilágításban a háló különösen látványos.",
+                "ro": "Plasa arată spectaculos sub iluminarea de seară.",
+                "en": "The net looks spectacular when illuminated in the early evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip für den kalten Wind.",
+              "Die Sonne geht im Winter bereits gegen 17:30 Uhr unter.",
+              "Winterwellen können sehr hoch sein; halten Sie Abstand zur Kaimauer.",
+              "Besuchen Sie die Konditoreien für warme portugiesische Spezialitäten."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a hideg tengerparti szél miatt.",
+              "A nap télen korán, már 17:30 körül lenyugszik.",
+              "A téli hullámok hatalmasak lehetnek, tartson távolságot a parttól.",
+              "Látogassa meg a cukrászdákat egy forró süteményért."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru a vă proteja de vântul rece.",
+              "Soarele apune devreme în timpul iernii, în jur de ora 17:30.",
+              "Valurile de iarnă pot fi mari; păstrați distanța față de dig.",
+              "Vizitați patiseriile locale pentru specialități calde portugeze."
+            ],
+            "en": [
+              "Dress in layers to protect yourself from the biting Atlantic wind.",
+              "Sunset occurs early in winter, usually around 5:30 PM.",
+              "Winter swells can be huge; keep a safe distance from the sea wall.",
+              "Visit local pastry shops for warm Portuguese treats like 'Bolos'."
+            ]
+          }
+        }
+      }
     },
     "bike": {
       "mode": "bike",
@@ -742,7 +924,207 @@
             "en": "A fantastic spot to end the day and take photos."
           }
         }
-      ]
+      ],
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den Radwegen entlang der Küste. Starten Sie bei den Gezeitenbecken und nutzen Sie die festen Wege. Die Fahrt zur Markthalle bietet zwischendurch Schutz. Mittags können Sie Ihr Rad sicher parken und in der Kirche oder im Markt verweilen, während die schwersten Schauer vorbeiziehen. Achten Sie auf rutschige Abschnitte am Castelo do Queijo.",
+            "hu": "Az esős bringázás óvatosságot igényel a tengerparti kerékpárutakon. Kezdjen az árapály-medencéknél, és használja a kijelölt utakat. A piac felé vezető úton több fedett megállót is találhat. Ebédidőben parkoljon le biztonságosan, és élvezze a templom vagy a piac nyugalmát, amíg a nagyobb záporok elvonulnak. Vigyázzon a Sajtvár környéki csúszós szakaszokon.",
+            "ro": "Ciclismul pe ploaie necesită atenție pe pistele de pe coastă. Începeți la piscinele mareice și folosiți traseele pavate. Drumul spre piață oferă câteva puncte de adăpost. La prânz, parcați bicicleta într-un loc sigur și vizitați biserica sau piața până trece ploaia torențială. Atenție la zonele cu pavaj umed lângă Castelo do Queijo.",
+            "en": "Cycling in the rain requires care on the coastal paths. Start at the tidal pools and stick to the paved cycle lanes. The route to the market offers several spots to take cover. During lunch, park your bike securely and enjoy the market's atmosphere while waiting for heavy showers to pass. Be wary of slippery patches near the Cheese Castle."
+          },
+          "stops": [
+            {
+              "name": "Piscina das Marés (Tidal Pools)",
+              "tip_5lang": {
+                "de": "Schwimmen entfällt, aber die Architektur ist im Regen mystisch.",
+                "hu": "Az úszás elmarad, de az építészet esőben is lenyűgöző.",
+                "ro": "Înotul nu e recomandat, dar arhitectura e mistică pe ploaie.",
+                "en": "Swimming is off, but the architecture looks mystical in the rain."
+              }
+            },
+            {
+              "name": "Praia de Matosinhos",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den Holzstegen; sie sind extrem glatt.",
+                "hu": "Lassan haladjon a fapallókon; rendkívül csúszósak.",
+                "ro": "Circulați încet pe platformele de lemn; sunt foarte alunecoase.",
+                "en": "Ride slowly on wooden boardwalks; they get extremely slippery."
+              }
+            },
+            {
+              "name": "Castelo do Queijo (Cheese Castle)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorplatz als windgeschützten Sammelpunkt.",
+                "hu": "Használja az előteret szélvédett gyülekezőpontként.",
+                "ro": "Folosiți curtea ca punct de adunare protejat de vânt.",
+                "en": "Use the castle forecourt as a wind-sheltered gathering point."
+              }
+            },
+            {
+              "name": "Tragedy at Sea Monument",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfes Bremsen auf den nassen Fliesen.",
+                "hu": "Kerülje a hirtelen fékezést a nedves burkolaton.",
+                "ro": "Evitați frânarea bruscă pe plăcile umede.",
+                "en": "Avoid sharp braking on the wet tiled surfaces here."
+              }
+            },
+            {
+              "name": "Mercado Municipal de Matosinhos",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe vorhanden.",
+                "hu": "Fedett biciklitárolók találhatók a közelben.",
+                "ro": "Există rastele de biciclete acoperite în apropiere.",
+                "en": "Covered bike racks are available nearby for a dry break."
+              }
+            },
+            {
+              "name": "Igreja do Bom Jesus de Matosinhos",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, die Regenkleidung kurz zu trocknen.",
+                "hu": "Jó alkalom a vizes ruhák rövid szárítására.",
+                "ro": "O oportunitate bună de a vă usca puțin hainele.",
+                "en": "A good opportunity to let your rain gear drip dry for a bit."
+              }
+            },
+            {
+              "name": "She Changes (The Anemone)",
+              "tip_5lang": {
+                "de": "Bei Windböen Lenker fest im Griff halten.",
+                "hu": "Széllökések esetén tartsa erősen a kormányt.",
+                "ro": "Țineți bine ghidonul în caz de rafale de vânt.",
+                "en": "Keep a firm grip on the handlebars in windy gusts."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie Pfützen, sie könnten tiefer sein als gedacht.",
+              "Bremsen Sie auf nassem Kopfsteinpflaster frühzeitig und sanft.",
+              "Tragen Sie eine Warnweste, da die Sicht bei Regen stark abnimmt.",
+              "Prüfen Sie, ob Ihr Leihrad Schutzbleche hat."
+            ],
+            "hu": [
+              "Kerülje a tócsákat, mert mélyebbek lehetnek, mint aminek látszanak.",
+              "Nedves macskakövön fékezzen korábban és óvatosabban.",
+              "Viseljen láthatósági mellényt a csökkent látási viszonyok miatt.",
+              "Ellenőrizze, hogy a bérbiciklinek van-e sárvédője."
+            ],
+            "ro": [
+              "Evitați bălțile, pot fi mai adânci decât par la prima vedere.",
+              "Frânați din timp și ușor pe pavajul umed.",
+              "Purtați o vestă reflectorizantă; vizibilitatea scade mult pe ploaie.",
+              "Verificați dacă bicicleta închiriată are apărători de noroi."
+            ],
+            "en": [
+              "Avoid puddles as they might be deeper than they look.",
+              "Brake early and gently on wet cobblestone sections.",
+              "Wear high-visibility gear as visibility drops significantly in rain.",
+              "Ensure your rental bike has fenders to avoid water spray."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger Wintertag ist ideal für eine Radtour an der Atlantikküste. Die Luft ist klar, aber der Wind kann eisig sein. Starten Sie bei den Piscina das Marés und genießen Sie die freie Fahrt auf den breiten Wegen. Mittags wärmt die Sonne auf dem Markt. Denken Sie daran, die Tour vor Einbruch der Dunkelheit zu beenden, da es an der Küste schnell abkühlt.",
+            "hu": "Egy napos téli nap tökéletes a kerékpározáshoz az Atlanti-parton. A levegő tiszta, de a szél metsző lehet. Kezdjen az árapály-medencéknél, és élvezze a szabad haladást a széles utakon. Ebédidőben a piac környékén sütkérezhet. Ne felejtse el befejezni a túrát sötétedés előtt, mert a parton gyorsan lehűl az idő.",
+            "ro": "O zi însorită de iarnă este ideală pentru ciclism pe coasta Atlanticului. Aerul e curat, dar vântul poate fi înghețat. Începeți la piscinele mareice și profitați de pistele libere. La prânz, bucurați-vă de soarele din zona pieței. Finalizați turul înainte de lăsarea întunericului, când temperatura scade brusc.",
+            "en": "A sunny winter day is perfect for cycling along the Atlantic coast. The air is crisp, but the wind can be biting. Start at the tidal pools and enjoy the relatively empty cycle paths. Warm up in the afternoon sun near the market. Finish your ride before dusk, as the temperature drops quickly by the water."
+          },
+          "stops": [
+            {
+              "name": "Piscina das Marés (Tidal Pools)",
+              "tip_5lang": {
+                "de": "Im Winter fast menschenleer, toll für Architekturfotos.",
+                "hu": "Télen szinte néptelen, kiváló építészeti fotókhoz.",
+                "ro": "Aproape pustii iarna, ideale pentru fotografii de arhitectură.",
+                "en": "Nearly empty in winter, perfect for architectural photography."
+              }
+            },
+            {
+              "name": "Praia de Matosinhos",
+              "tip_5lang": {
+                "de": "Gegenwind kann die Fahrt anstrengender machen als im Sommer.",
+                "hu": "A szembeszél fárasztóbbá teheti a tekerést, mint nyáron.",
+                "ro": "Vântul din față poate face pedalarea mai grea decât vara.",
+                "en": "Headwinds can make cycling much tougher than in summer."
+              }
+            },
+            {
+              "name": "Castelo do Queijo (Cheese Castle)",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich kurz im Museumsbereich auf.",
+                "hu": "Melegedjen fel egy kicsit a belső múzeumi részben.",
+                "ro": "Încălziți-vă puțin în zona muzeului din interior.",
+                "en": "Take a quick break inside the museum area to warm up."
+              }
+            },
+            {
+              "name": "Tragedy at Sea Monument",
+              "tip_5lang": {
+                "de": "Kurze Fotopause, bevor die Finger zu kalt werden.",
+                "hu": "Gyors fotómegálló, mielőtt megfagynának az ujjai.",
+                "ro": "Pauză scurtă de poze înainte să vă înghețe degetele.",
+                "en": "Quick photo stop before your fingers get too cold."
+              }
+            },
+            {
+              "name": "Mercado Municipal de Matosinhos",
+              "tip_5lang": {
+                "de": "Holen Sie sich eine heiße Suppe zur Stärkung.",
+                "hu": "Egyen egy forró levest az energiapótláshoz.",
+                "ro": "Luați o supă fierbinte pentru a vă recăpăta energia.",
+                "en": "Grab a hot soup at the market to recharge your energy."
+              }
+            },
+            {
+              "name": "Igreja do Bom Jesus de Matosinhos",
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine gute Pause vom kalten Seewind.",
+                "hu": "A templom jó menedék a hideg tengeri szél elől.",
+                "ro": "Biserica oferă un răgaz bun de la vântul rece de mare.",
+                "en": "The church provides a calm break from the chilly sea breeze."
+              }
+            },
+            {
+              "name": "She Changes (The Anemone)",
+              "tip_5lang": {
+                "de": "Das Licht der tiefstehenden Sonne ist hier fantastisch.",
+                "hu": "Az alacsony napállás fényei itt fantasztikusak.",
+                "ro": "Lumina soarelui de iarnă este fantastică în acest punct.",
+                "en": "The low winter sunlight is fantastic at this seaside spot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe, der Fahrtwind kühlt die Hände schnell aus.",
+              "Prüfen Sie den Reifendruck, kalte Luft mindert ihn leicht.",
+              "Nutzen Sie die Mittagsstunden für die längsten Fahrtstrecken.",
+              "Die Sonne blendet im Winter tiefer; Sonnenbrille mitnehmen."
+            ],
+            "hu": [
+              "Viseljen kesztyűt, mert a menetszél hamar lehűti a kezét.",
+              "Ellenőrizze a guminyomást, a hidegben kicsit csökkenhet.",
+              "A leghosszabb távokat a déli órákra időzítse.",
+              "A nap télen alacsonyabban van és vakíthat; vigyen napszemüveget."
+            ],
+            "ro": [
+              "Purtați mănuși; vântul de mișcare răcește rapid mâinile.",
+              "Verificați presiunea în anvelope; aerul rece o poate reduce.",
+              "Planificați segmentele lungi de drum pentru orele prânzului.",
+              "Soarele iernii este jos și orbitor; nu uitați ochelarii de soare."
+            ],
+            "en": [
+              "Wear gloves; the wind chill will freeze your hands quickly.",
+              "Check your tire pressure as cold air can slightly reduce it.",
+              "Schedule your longest riding segments for the midday hours.",
+              "The low winter sun can be blinding; bring sunglasses."
+            ]
+          }
+        }
+      }
     },
     "car": {
       "mode": "car",
@@ -1098,7 +1480,189 @@
             "en": "An architectural masterpiece. Check the opening hours as they are seasonal."
           }
         }
-      ]
+      ],
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Matosinhos auch bei Regen gut zu erkunden. Starten Sie am Markt, wo es Parkmöglichkeiten gibt. Die Fahrt zur barocken Kirche ist kurz und trocken. Das Castelo do Queijo bietet Parkplätze direkt davor, sodass Sie die Aussicht genießen können, ohne nass zu werden. Den Nachmittag verbringen Sie entspannt bei den Tidal Pools, die auch als architektonisches Highlight im Regen glänzen.",
+            "hu": "Autóval Matosinhos esőben is kényelmesen felfedezhető. Kezdjen a piacon, ahol a közelben több parkoló is található. Az út a barokk templomig rövid és száraz marad. A Sajtvár előtt közvetlenül leparkolhat, így anélkül élvezheti a kilátást, hogy bőrig ázna. A délutánt töltse az árapály-medencéknél, amelyek építészeti szempontból esőben is lenyűgözőek.",
+            "ro": "Cu mașina, Matosinhos rămâne accesibil chiar și pe ploaie. Începeți la piață, unde găsiți parcare în apropiere. Drumul spre biserica barocă este scurt. Castelo do Queijo are parcare chiar în față, permițându-vă să vedeți marea fără a vă uda. După-amiaza, vizitați piscinele mareice, un reper arhitectural care impresionează și sub cerul gri.",
+            "en": "Exploring Matosinhos by car is the most comfortable option on a rainy day. Start at the market with convenient nearby parking. The drive to the Baroque church is quick and keeps you dry. Park right in front of the Cheese Castle to admire the coast without getting wet. Spend your afternoon at the tidal pools, appreciating the architecture from the shelter of your car."
+          },
+          "stops": [
+            {
+              "name": "Mercado Municipal de Matosinhos",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus direkt gegenüber.",
+                "hu": "Használja a közvetlenül szemben lévő parkolóházat.",
+                "ro": "Folosiți parcarea etajată direct vizavi de piață.",
+                "en": "Use the multi-story parking garage directly across from the market."
+              }
+            },
+            {
+              "name": "Igreja do Bom Jesus de Matosinhos",
+              "tip_5lang": {
+                "de": "Parkplätze finden Sie oft direkt in den Seitenstraßen.",
+                "hu": "A környező utcákban általában könnyű parkolóhelyet találni.",
+                "ro": "Găsiți locuri de parcare adesea pe străzile laterale.",
+                "en": "Parking is usually available on the side streets nearby."
+              }
+            },
+            {
+              "name": "Castelo do Queijo (Cheese Castle)",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden; idealer Aussichtspunkt im Auto.",
+                "hu": "Nagy parkoló várja; az autóból is remek a kilátás.",
+                "ro": "Parcare mare disponibilă; punct de belvedere din mașină.",
+                "en": "Large parking lot available; a great viewpoint from inside your car."
+              }
+            },
+            {
+              "name": "Tragedy at Sea Monument",
+              "tip_5lang": {
+                "de": "Kurz anhalten, Foto machen und weiter zum Strand.",
+                "hu": "Csak egy rövid megálló egy fotó erejéig.",
+                "ro": "O scurtă oprire pentru poze și apoi continuați drumul.",
+                "en": "A quick stop for a photo before continuing to the beach."
+              }
+            },
+            {
+              "name": "Praia de Matosinhos (Lunch)",
+              "tip_5lang": {
+                "de": "Zahlreiche Restaurants mit Tiefgarage in der Nähe.",
+                "hu": "Számos étterem közelében található mélygarázs.",
+                "ro": "Numeroase restaurante au parcări subterane în apropiere.",
+                "en": "Many nearby restaurants offer underground parking."
+              }
+            },
+            {
+              "name": "Piscina das Marés (Tidal Pools)",
+              "tip_5lang": {
+                "de": "Parken Sie entlang der Avenida Marginal.",
+                "hu": "Parkoljon az Avenida Marginal mentén.",
+                "ro": "Parcați de-a lungul bulevardului Avenida Marginal.",
+                "en": "Park along Avenida Marginal to stay close to the pools."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie die Küstenstraße bei Sturm wegen starker Gischt.",
+              "Die Markierung der Parkzonen ist bei Regen schwerer zu sehen.",
+              "Nutzen Sie Park-Apps, um das Bezahlen im Regen zu vermeiden.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto liegen."
+            ],
+            "hu": [
+              "Viharos szélben kerülje a parti utat a sós tengerpermet miatt.",
+              "Esőben nehezebb észrevenni a parkolózónák felfestéseit.",
+              "Használjon parkolási appot, hogy ne kelljen az esőben automatát keresni.",
+              "Ne hagyjon értéktárgyat látható helyen az autóban."
+            ],
+            "ro": [
+              "Evitați drumul de coastă în timpul furtunilor din cauza valurilor.",
+              "Marcajele zonelor de parcare sunt greu de văzut pe ploaie.",
+              "Folosiți aplicații de parcare pentru a evita plata la automat în ploaie.",
+              "Nu lăsați obiecte de valoare la vedere în mașină."
+            ],
+            "en": [
+              "Avoid the coastal road during heavy storms due to sea spray.",
+              "Parking zone markings can be hard to see in heavy rain.",
+              "Use parking apps to avoid searching for meters in the rain.",
+              "Never leave valuables visible inside your parked car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit dem Auto bietet Flexibilität und Wärme. Starten Sie am Markt und genießen Sie lokale Köstlichkeiten. Die Fahrt zur Kirche Bom Jesus führt durch das ruhige Matosinhos. Am Nachmittag ist die Küstenfahrt zum Castelo do Queijo besonders bei tiefstehender Sonne malerisch. Beenden Sie den Tag bei den Piscina das Marés, bevor es nach dem Sonnenuntergang kühler wird.",
+            "hu": "Egy téli nap autóval rugalmasságot és meleget kínál. Kezdjen a piacon, és kóstolja meg a helyi finomságokat. Az Igreja do Bom Jesus felé vezető út a nyugodt Matosinhoson át vezet. Délután a Sajtvár felé tartó parti autózás különösen látványos az alacsony napállásnál. Zárja a napot az árapály-medencéknél a naplemente előtt.",
+            "ro": "O zi de iarnă cu mașina oferă flexibilitate și confort termic. Începeți la piață pentru delicatese locale. Drumul spre biserica Bom Jesus trece prin zonele liniștite ale orașului. După-amiaza, condusul pe coastă spre Castelo do Queijo este pitoresc sub soarele blând. Încheiați la piscinele mareice înainte de răcirea serii.",
+            "en": "A winter day by car offers flexibility and warmth between stops. Start at the market to sample local seasonal treats. The drive to the Church of Bom Jesus takes you through quiet Matosinhos streets. In the afternoon, the coastal drive to the Cheese Castle is scenic under the low winter sun. Finish at the tidal pools before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Mercado Municipal de Matosinhos",
+              "tip_5lang": {
+                "de": "Am frühen Morgen ist es hier angenehm belebt.",
+                "hu": "Kora reggel kellemesen nyüzsgő itt az élet.",
+                "ro": "Piața este plăcut de animată la primele ore ale dimineții.",
+                "en": "The market is pleasantly lively in the early morning."
+              }
+            },
+            {
+              "name": "Igreja do Bom Jesus de Matosinhos",
+              "tip_5lang": {
+                "de": "Der Vorplatz ist im Winter oft weniger überlaufen.",
+                "hu": "A templom előtti tér télen sokkal csendesebb.",
+                "ro": "Piața din fața bisericii este mult mai liberă iarna.",
+                "en": "The square in front of the church is much less crowded in winter."
+              }
+            },
+            {
+              "name": "Castelo do Queijo (Cheese Castle)",
+              "tip_5lang": {
+                "de": "Perfekt, um den Sonnenuntergang windgeschützt zu sehen.",
+                "hu": "Tökéletes hely a naplemente megtekintéséhez, szélvédett módon.",
+                "ro": "Loc ideal pentru a vedea apusul ferit de vântul rece.",
+                "en": "Perfect for watching the sunset while staying warm inside the car."
+              }
+            },
+            {
+              "name": "Tragedy at Sea Monument",
+              "tip_5lang": {
+                "de": "Gute Beleuchtung für Fotos am späten Nachmittag.",
+                "hu": "Késő délután kiválóak a fények a fotózáshoz.",
+                "ro": "Lumină excelentă pentru fotografii la sfârșitul după-amiezii.",
+                "en": "Excellent lighting for photos in the late afternoon."
+              }
+            },
+            {
+              "name": "Praia de Matosinhos (Lunch)",
+              "tip_5lang": {
+                "de": "Suchen Sie Restaurants mit Kamin oder guter Heizung.",
+                "hu": "Keressen kandallós vagy jól fűtött éttermet.",
+                "ro": "Căutați restaurante cu șemineu sau încălzire bună.",
+                "en": "Look for restaurants with a fireplace or good indoor heating."
+              }
+            },
+            {
+              "name": "Piscina das Marés (Tidal Pools)",
+              "tip_5lang": {
+                "de": "Spaziergang an der Mauer vor dem Rückweg.",
+                "hu": "Egy rövid séta a fal mentén, mielőtt visszaindulna.",
+                "ro": "O scurtă plimbare pe dig înainte de plecare.",
+                "en": "A short walk along the sea wall before heading back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Straßenglätte bei frostigen Nächten.",
+              "Die Parkgebühren sind im Winter oft niedriger oder entfallen teils.",
+              "Heizen Sie das Auto vor, bevor Sie von der Küste aufbrechen.",
+              "Die Sonne blendet beim Fahren Richtung Westen sehr stark."
+            ],
+            "hu": [
+              "Figyeljen az útra a fagyos éjszakák utáni csúszásveszély miatt.",
+              "A parkolási díjak télen néha kedvezőbbek egyes zónákban.",
+              "Fűtse be az autót, mielőtt elindulna a szeles partról.",
+              "Nyugat felé autózva a naplemente erősen vakíthat."
+            ],
+            "ro": [
+              "Atenție la polei după nopțile geroase, chiar și lângă mare.",
+              "Taxele de parcare pot fi mai mici în extrasezon în unele zone.",
+              "Încălziți mașina înainte de a pleca de pe coasta vântoasă.",
+              "Soarele de iarnă poate fi foarte orbitor când conduceți spre vest."
+            ],
+            "en": [
+              "Watch out for black ice after frosty nights, even near the sea.",
+              "Parking fees might be lower in some zones during the off-season.",
+              "Warm up the car before leaving the windy coastal areas.",
+              "The low winter sun can be very blinding when driving west."
+            ]
+          }
+        }
+      }
     },
     "transit": {
       "mode": "transit",
@@ -1454,7 +2018,189 @@
             "en": "Check if public access to the breakwater is open."
           }
         }
-      ]
+      ],
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Metro-Linie A bringt Sie trocken ins Zentrum von Matosinhos. Beginnen Sie am Markt, der direkt an einer Haltestelle liegt. Der kurze Weg zur Kirche ist auch bei Regen machbar. Mit dem Bus geht es weiter zum Castelo do Queijo und zum Strand, wobei die Haltestellen oft Unterstände bieten. Der Nachmittag am Terminal Leixões ist ein architektonisches Highlight, das Sie bequem per Transit erreichen.",
+            "hu": "Az A metróvonal (kék vonal) szárazon repíti Matosinhos központjába. Kezdjen a piacon, amely közvetlenül egy megálló mellett található. Az Igreja do Bom Jesus felé tartó rövid séta esőben is vállalható. Busszal menjen tovább a Sajtvár és a tengerpart felé; a megállók többsége fedett. A délutánt töltse a Leixões terminálnál, amely tömegközlekedéssel könnyen elérhető.",
+            "ro": "Linia A de metrou vă aduce la adăpost în centrul orașului Matosinhos. Începeți la piață, aflată chiar lângă o stație. Drumul scurt spre biserică este practicabil chiar și pe ploaie. Folosiți autobuzul spre Castelo do Queijo; stațiile au de obicei refugii. După-amiaza, terminalul Leixões este un obiectiv modern ușor accesibil cu transportul public.",
+            "en": "The Metro Line A (Blue Line) keeps you dry as you travel to Matosinhos. Start at the market, located right by a station. The short walk to the church is manageable even in rain. Take the bus towards the Cheese Castle and the beach; most stops offer shelter. Spend your afternoon at the Leixões Cruise Terminal, easily reached by public transit."
+          },
+          "stops": [
+            {
+              "name": "Mercado Municipal de Matosinhos",
+              "tip_5lang": {
+                "de": "Die Metrostation 'Mercado' ist nur wenige Schritte entfernt.",
+                "hu": "A 'Mercado' metrómegálló mindössze pár lépésre van.",
+                "ro": "Stația de metrou 'Mercado' este la doar câțiva pași distanță.",
+                "en": "The 'Mercado' metro station is just a few steps away."
+              }
+            },
+            {
+              "name": "Igreja do Bom Jesus de Matosinhos",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus 507, um näher an den Eingang zu kommen.",
+                "hu": "Az 507-es busszal közelebb juthat a bejárathoz.",
+                "ro": "Folosiți autobuzul 507 pentru a ajunge mai aproape de intrare.",
+                "en": "Take bus 507 to get closer to the entrance during heavy rain."
+              }
+            },
+            {
+              "name": "Castelo do Queijo (Cheese Castle)",
+              "tip_5lang": {
+                "de": "Haltestelle direkt an der Burg; wenig Fußweg im Regen.",
+                "hu": "A megálló közvetlenül a várnál van; kevés séta az esőben.",
+                "ro": "Stația este chiar lângă castel; puțin mers pe jos prin ploaie.",
+                "en": "The bus stop is right by the castle; minimal walking in the rain."
+              }
+            },
+            {
+              "name": "Tragedy at Sea Monument",
+              "tip_5lang": {
+                "de": "Haltestelle 'Matosinhos Praia' bietet Unterstand.",
+                "hu": "A 'Matosinhos Praia' buszmegálló fedett.",
+                "ro": "Stația de autobuz 'Matosinhos Praia' oferă adăpost.",
+                "en": "The 'Matosinhos Praia' bus stop has a shelter to keep you dry."
+              }
+            },
+            {
+              "name": "Praia de Matosinhos",
+              "tip_5lang": {
+                "de": "Die Metrostation 'Matosinhos Sul' ist eine gute Alternative.",
+                "hu": "A 'Matosinhos Sul' metrómegálló jó alternatíva.",
+                "ro": "Stația de metrou 'Matosinhos Sul' este o alternativă bună.",
+                "en": "The 'Matosinhos Sul' metro station is a good nearby alternative."
+              }
+            },
+            {
+              "name": "Leixões Cruise Terminal",
+              "tip_5lang": {
+                "de": "Beeindruckende Architektur, auch vom Busfenster aus.",
+                "hu": "Lenyűgöző építészet, még a busz ablakából is.",
+                "ro": "Arhitectură impresionantă, chiar și din geamul autobuzului.",
+                "en": "Stunning architecture, visible even from the bus window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie die Andante-Karte im Voraus, um Wartezeiten zu vermeiden.",
+              "Die Metro fährt alle 10-15 Minuten und ist sehr zuverlässig.",
+              "Busse können bei starkem Regen Verspätung haben.",
+              "Laden Sie die 'Move-it' oder 'STCP' App für Echtzeit-Infos."
+            ],
+            "hu": [
+              "Vásárolja meg előre az Andante kártyát a sorban állás elkerülésére.",
+              "A metró 10-15 percenként jár és nagyon megbízható.",
+              "Heves esőzéskor a buszoknál előfordulhat némi késés.",
+              "Töltse le a 'STCP' alkalmazást a valós idejű menetrendhez."
+            ],
+            "ro": [
+              "Cumpărați cardul Andante în avans pentru a evita cozile la automate.",
+              "Metroul circulă la fiecare 10-15 minute și este foarte punctual.",
+              "Autobuzele pot avea întârzieri în caz de ploaie torențială.",
+              "Descărcați aplicația 'STCP' pentru informații în timp real."
+            ],
+            "en": [
+              "Buy your Andante card in advance to avoid queuing at machines.",
+              "The metro runs every 10-15 minutes and is very reliable.",
+              "Buses may experience slight delays during heavy downpours.",
+              "Download the 'STCP' app for real-time bus and metro arrival info."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintertage in Matosinhos lassen sich wunderbar mit der Metro und Bussen organisieren. Starten Sie gemütlich am Markt. Die kurzen Fahrten zwischen den Sehenswürdigkeiten schützen vor dem kalten Seewind. Genießen Sie den Nachmittag am Strand von Matosinhos, bevor Sie mit dem Bus zum modernen Cruise Terminal fahren. Die beleuchtete Metrostation bietet einen stilvollen Abschluss Ihrer Tour.",
+            "hu": "A téli napokat Matosinhosban remekül meg lehet szervezni metróval és busszal. Kezdjen kényelmesen a piacon. A látnivalók közötti rövid utazások megvédik a hideg tengeri széltől. Élvezze a délutánt a tengerparton, mielőtt busszal a modern hajóterminálhoz menne. A kivilágított metrómegálló stílusos befejezése a túrának.",
+            "ro": "Zilele de iarnă în Matosinhos sunt ușor de gestionat cu metroul și autobuzul. Începeți relaxat la piață. Călătoriile scurte între obiective vă protejează de briza rece. Bucurați-vă de plajă după-amiaza, apoi luați autobuzul spre terminalul de croaziere. Stația de metrou luminată oferă un final plăcut excursiei.",
+            "en": "Winter days in Matosinhos are easily managed using the metro and bus network. Start comfortably at the market. Short transit trips between sights protect you from the biting sea wind. Enjoy the beach in the afternoon before heading to the modern Cruise Terminal by bus. The brightly lit metro station provides a stylish end to your day."
+          },
+          "stops": [
+            {
+              "name": "Mercado Municipal de Matosinhos",
+              "tip_5lang": {
+                "de": "Drinnen ist es deutlich wärmer als an der Küste.",
+                "hu": "Bent lényegesen melegebb van, mint a parton.",
+                "ro": "În interior este mult mai cald decât pe malul mării.",
+                "en": "The indoor market is significantly warmer than the coast."
+              }
+            },
+            {
+              "name": "Igreja do Bom Jesus de Matosinhos",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Metrostation 'Senhor de Matosinhos'.",
+                "hu": "Rövid séta a 'Senhor de Matosinhos' metrómegállótól.",
+                "ro": "Scurtă plimbare de la stația de metrou 'Senhor de Matosinhos'.",
+                "en": "Just a short walk from the 'Senhor de Matosinhos' metro station."
+              }
+            },
+            {
+              "name": "Castelo do Queijo (Cheese Castle)",
+              "tip_5lang": {
+                "de": "Bus 500 bietet eine tolle Aussicht entlang der Küste.",
+                "hu": "Az 500-as busz útvonala csodás kilátást nyújt a part mentén.",
+                "ro": "Autobuzul 500 oferă o priveliște superbă de-a lungul coastei.",
+                "en": "Bus 500 offers a great scenic route along the coastline."
+              }
+            },
+            {
+              "name": "Tragedy at Sea Monument",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Windschatten der Wartehäuschen.",
+                "hu": "Használja ki a buszvárók szélvédelmét.",
+                "ro": "Folosiți adăpostul stațiilor pentru a vă feri de vânt.",
+                "en": "Make use of the bus shelters to stay out of the wind."
+              }
+            },
+            {
+              "name": "Praia de Matosinhos",
+              "tip_5lang": {
+                "de": "Letzte Metro Richtung Porto fährt bis spät in die Nacht.",
+                "hu": "Az utolsó metró Porto felé késő éjszakáig közlekedik.",
+                "ro": "Ultimul metrou spre Porto circulă până târziu în noapte.",
+                "en": "The last metro back to Porto runs until late at night."
+              }
+            },
+            {
+              "name": "Leixões Cruise Terminal",
+              "tip_5lang": {
+                "de": "Abends ist das beleuchtete Gebäude ein tolles Fotomotiv.",
+                "hu": "Este a kivilágított épület remek fotótéma.",
+                "ro": "Seara, clădirea iluminată este un subiect excelent de poze.",
+                "en": "The illuminated terminal building is a great photo subject at dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie mit dem Bus 500 (Doppeldecker) für die beste Aussicht.",
+              "Die Metrostationen sind oft halboffen, ziehen Sie sich warm an.",
+              "In der Winterzeit gibt es oft weniger Kontrollen, aber entwerten Sie immer.",
+              "Halten Sie Kleingeld für die Busfahrer bereit."
+            ],
+            "hu": [
+              "Utazzon az 500-as (emeletes) busszal a legjobb kilátásért.",
+              "A metrómegállók gyakran nyitottak, öltözzön melegen.",
+              "Télen kevesebb az ellenőrzés, de mindig érvényesítse a jegyét.",
+              "Legyen Önnél aprópénz a buszvezetőnek."
+            ],
+            "ro": [
+              "Luați autobuzul etajat 500 pentru cele mai bune vederi de coastă.",
+              "Stațiile de metrou sunt adesea semi-deschise; purtați haine groase.",
+              "Iarna pot fi mai puține controale, dar validați întotdeauna biletul.",
+              "Aveți pregătit mărunțiș pentru plata biletului la șoferul de autobuz."
+            ],
+            "en": [
+              "Ride the 500 double-decker bus for the best coastal views.",
+              "Metro stations are often semi-open, so dress warmly while waiting.",
+              "Always validate your ticket, even if the stations seem quiet in winter.",
+              "Have small change ready if you need to buy a ticket from the bus driver."
+            ]
+          }
+        }
+      }
     }
   }
 }

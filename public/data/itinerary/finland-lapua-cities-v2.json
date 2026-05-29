@@ -318,6 +318,170 @@
           "A light raincoat is always a good idea, even on sunny days.",
           "Most places accept cards, but having some cash is useful for small purchases."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens besuchen wir das Denkmal und die Kathedrale, die bei Regen eine besonders andächtige Atmosphäre bietet. Mittags bietet das Kulturzentrum Vanha Paukku perfekten Schutz vor dem Wetter. Nachmittags erkunden wir die Museen im Inneren des Komplexes. Abends beenden wir den Tag mit einem kurzen, erfrischenden Spaziergang durch den nebligen Jokilaakso-Garten.",
+            "hu": "Reggel a Lapua-mozgalom emlékművét és a katedrálist látogatjuk meg, utóbbi kiváló menedék az eső elől. Délben a Vanha Paukku kulturális központ fedett tereiben bújunk el a csapadék elől. Délután a múzeumok kiállításait böngésszük szárazon. Este egy rövid, frissítő sétát teszünk a Jokilaakso kertben, ahol az eső utáni illatok és a pára különleges hangulatot árasztanak.",
+            "ro": "Dimineața vizităm monumentul și catedrala, care oferă un adăpost liniștit împotriva ploii. La prânz, centrul cultural Vanha Paukku este locul ideal pentru a rămâne la uscat. După-amiaza explorăm muzeele din interiorul complexului istoric. Seara încheiem cu o scurtă plimbare prin grădina Jokilaakso, unde ploaia conferă un aer mistic peisajului.",
+            "en": "Morning starts at the monument and the cathedral, providing a peaceful refuge from the rain. At noon, the Vanha Paukku Cultural Centre offers perfect indoor shelter. Afternoon is spent exploring the various museums within the complex. Evening concludes with a brief, refreshing walk through the misty Jokilaakso Garden, enjoying the petrichor and calm atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Monument of the Lapua Movement",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; nutzen Sie die Bäume als natürlichen Regenschutz.",
+                "hu": "Rövid megálló; az emlékmű melletti fák némi védelmet nyújtanak.",
+                "ro": "Oprire scurtă; folosiți copacii din jur pentru protecție naturală.",
+                "en": "Short stop; use the nearby trees for natural shelter from the drizzle."
+              }
+            },
+            {
+              "name": "Lapua Cathedral",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen und Trocknen während der Besichtigung.",
+                "hu": "Tökéletes hely a felmelegedésre és száradásra nézelődés közben.",
+                "ro": "Ideal pentru a vă încălzi și usca în timpul vizitei.",
+                "en": "Perfect place to warm up and dry off while admiring the interior."
+              }
+            },
+            {
+              "name": "Vanha Paukku Cultural Centre",
+              "tip_5lang": {
+                "de": "Vollständig überdachter Komplex, ideal für regnerische Stunden.",
+                "hu": "Teljesen fedett komplexum, ideális az esős órák eltöltésére.",
+                "ro": "Complex complet acoperit, ideal pentru orele ploioase.",
+                "en": "Fully covered complex, ideal for spending rainy hours indoors."
+              }
+            },
+            {
+              "name": "Lapua Art Museum & Radio and TV Museum",
+              "tip_5lang": {
+                "de": "Bleiben Sie länger drinnen und genießen Sie die Ausstellungen.",
+                "hu": "Maradjon tovább bent, és élvezze a kiállításokat szárazon.",
+                "ro": "Rămâneți mai mult timp înăuntru și bucurați-vă de expoziții.",
+                "en": "Stay longer inside and enjoy the extensive museum collections."
+              }
+            },
+            {
+              "name": "Jokilaakso Garden",
+              "tip_5lang": {
+                "de": "Die Wege können rutschig sein; tragen Sie wasserfeste Schuhe.",
+                "hu": "Az utak csúszósak lehetnek; viseljen vízálló cipőt.",
+                "ro": "Potecile pot fi alunecoase; purtați încălțăminte impermeabilă.",
+                "en": "Paths can be slippery; wear waterproof shoes for the garden walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei finnischem Wind unerlässlich.",
+              "Nutzen Sie die Garderoben im Vanha Paukku für nasse Mäntel.",
+              "Wasserdichte Wanderschuhe sind für den Gartenbesuch ratsam.",
+              "Genießen Sie eine heiße Schokolade im Café des Kulturzentrums."
+            ],
+            "hu": [
+              "A finn szélben egy stabil esernyő elengedhetetlen kellék.",
+              "Használja a Vanha Paukku ruhatárát a vizes kabátoknak.",
+              "A kerti sétához javasolt a vízálló túracipő viselete.",
+              "Igyon egy forró csokoládét a kulturális központ kávézójában."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza vântului finlandez.",
+              "Folosiți garderobele de la Vanha Paukku pentru hainele ude.",
+              "Pantofii de drumeție impermeabili sunt recomandați pentru grădină.",
+              "Savurați o ciocolată caldă în cafeneaua centrului cultural."
+            ],
+            "en": [
+              "A sturdy umbrella is essential against the Finnish wind.",
+              "Use the cloakrooms at Vanha Paukku for your wet coats.",
+              "Waterproof hiking shoes are recommended for the garden visit.",
+              "Enjoy a hot chocolate at the cultural centre's cozy cafe."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Denkmal ist klirrend kalt, aber die Kathedrale bietet einen majestätischen, warmen Rückzugsort. Mittags ist das Kulturzentrum der soziale Mittelpunkt, wo man sich aufwärmen kann. Nachmittags tauchen wir in die Geschichte der Museen ein, während es draußen früh dunkel wird. Abends bewundern wir den schneebedeckten Jokilaakso-Garten unter dem Sternenhimmel.",
+            "hu": "A téli reggel az emlékműnél csípős, de a katedrális méltóságteljes, meleg menedéket nyújt. Délben a kulturális központ a találkozóhely, ahol jól felmelegedhetünk. Délután a múzeumok történetében merülünk el, miközben kint korán sötétedik. Este a hófödte Jokilaakso kertet csodáljuk meg a csillagos égbolt alatt.",
+            "ro": "Dimineața de iarnă la monument este geroasă, dar catedrala oferă un refugiu cald și maiestuos. La prânz, centrul cultural este locul ideal pentru reîncărcarea bateriilor. După-amiaza ne cufundăm în istoria muzeelor, în timp ce afară se întunecă devreme. Seara admirăm grădina Jokilaakso acoperită de zăpadă sub cerul înstelat.",
+            "en": "The winter morning at the monument is crisp, but the cathedral provides a majestic, warm sanctuary. At noon, the cultural centre is the social hub where you can defrost. Afternoon is for diving into museum history as darkness falls early outside. Evening features a magical stroll through the snow-covered Jokilaakso Garden under the stars."
+          },
+          "stops": [
+            {
+              "name": "Monument of the Lapua Movement",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe; Metalloberflächen sind extrem kalt.",
+                "hu": "Viseljen meleg kesztyűt; a fémfelületek rendkívül hidegek.",
+                "ro": "Purtați mănuși groase; suprafețele metalice sunt extrem de reci.",
+                "en": "Wear warm gloves; metal surfaces are extremely cold in winter."
+              }
+            },
+            {
+              "name": "Lapua Cathedral",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und Wärme; achten Sie auf glatte Stufen.",
+                "hu": "A csend és a meleg helye; vigyázzon a jeges lépcsőkre.",
+                "ro": "Un loc de liniște și căldură; atenție la treptele înghețate.",
+                "en": "A place of peace and warmth; watch out for icy entrance steps."
+              }
+            },
+            {
+              "name": "Vanha Paukku Cultural Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Innenräume für eine lange Pause.",
+                "hu": "Használja a fűtött belső tereket egy hosszabb pihenőre.",
+                "ro": "Folosiți spațiile interioare încălzite pentru o pauză lungă.",
+                "en": "Take advantage of the heated interiors for a long warm break."
+              }
+            },
+            {
+              "name": "Lapua Art Museum & Radio and TV Museum",
+              "tip_5lang": {
+                "de": "Perfekt für den Nachmittag, wenn die Sonne früh untergeht.",
+                "hu": "Tökéletes délutáni program, amikor a nap korán lebukik.",
+                "ro": "Perfect pentru după-amiază, când soarele apune devreme.",
+                "en": "Perfect afternoon activity as the sun sets very early in winter."
+              }
+            },
+            {
+              "name": "Jokilaakso Garden",
+              "tip_5lang": {
+                "de": "Genießen Sie die Winterlandschaft; Vorsicht vor tiefem Schnee.",
+                "hu": "Élvezze a téli tájat; vigyázzon a mély hóra a bokroknál.",
+                "ro": "Bucurați-vă de peisajul de iarnă; atenție la zăpada adâncă.",
+                "en": "Enjoy the snowy landscape; watch out for deep snow off-path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten (Zwiebelprinzip) gegen die Kälte.",
+              "Die Sonne geht im Winter bereits gegen 15:00 Uhr unter.",
+              "Tragen Sie Schuhe mit gutem Profil gegen Glatteis.",
+              "Reflektoren an der Kleidung sind in der Dunkelheit wichtig."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a kemény téli hideg ellen.",
+              "A nap télen már délután 3 óra körül lenyugszik.",
+              "Viseljen bordázott talpú cipőt a jegesedés ellen.",
+              "A sötétben fontos a fényvisszaverő viselése a ruházaton."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru a rezista gerului năprasnic.",
+              "Soarele apune în jurul orei 15:00 pe timpul iernii.",
+              "Purtați încălțăminte cu talpă aderentă împotriva poleiului.",
+              "Elementele reflectorizante sunt vitale pe timp de noapte."
+            ],
+            "en": [
+              "Dress in layers (onion principle) against the biting cold.",
+              "The sun sets as early as 3:00 PM during the winter months.",
+              "Wear shoes with good grip to prevent slipping on ice.",
+              "Reflectors are important for safety during the long dark hours."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -654,6 +818,188 @@
           "Pack plenty of water and energy-rich snacks for the long ride.",
           "Check your bike before you leave, especially the brakes and tires."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt bei leichtem Nieselregen an der Kathedrale. Mittags finden wir im Vanha Paukku und den Museen Schutz. Nachmittags fahren wir vorsichtig zur Patruuna Arena und durch den Jokilaakso-Garten. Der Aufstieg zum Simpsiö Hill am Abend erfordert bei Nässe gute Kondition, bietet aber eine mystische Aussicht durch die Regenwolken.",
+            "hu": "A kerékpártúra szemerkélő esőben indul a katedrálistól. Délben a Vanha Paukku és a múzeumok nyújtanak menedéket. Délután óvatosan tekerünk a Patruuna Arena felé és a Jokilaakso kerten át. Az esti felmenet a Simpsiö-hegyre nedves időben jó kondíciót igényel, de a kilátás misztikus a felhők közül.",
+            "ro": "Turul cu bicicleta începe cu o ploaie ușoară la catedrală. La prânz, găsim adăpost la Vanha Paukku și la muzee. După-amiaza pedalăm cu atenție spre Patruuna Arena și prin grădina Jokilaakso. Urcarea de seară pe dealul Simpsiö necesită condiție fizică pe carosabil ud, dar vederea este mistică.",
+            "en": "The bike tour starts at the cathedral under a light drizzle. At noon, we find refuge at Vanha Paukku and the museums. Afternoon cycling continues carefully towards Patruuna Arena and through Jokilaakso Garden. The evening climb to Simpsiö Hill requires good fitness in the wet, but the view through the rain clouds is mystical."
+          },
+          "stops": [
+            {
+              "name": "Lapua Cathedral",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter einen Dachvorsprung.",
+                "hu": "Parkolja le a kerékpárt az ereszek alá, ha lehetséges.",
+                "ro": "Parcați bicicleta sub o streașină pentru a o păstra uscată.",
+                "en": "Park your bike under an eave if possible to keep it dry."
+              }
+            },
+            {
+              "name": "Vanha Paukku Cultural Centre",
+              "tip_5lang": {
+                "de": "Großartige Pause; es gibt viele Fahrradständer in der Nähe.",
+                "hu": "Kiváló pihenőhely; sok kerékpártároló van a közelben.",
+                "ro": "Pauză excelentă; există multe rastele de biciclete aproape.",
+                "en": "Great break spot; plenty of bike racks available nearby."
+              }
+            },
+            {
+              "name": "Lapua Art Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für einen ausgiebigen Museumsbesuch.",
+                "hu": "Használja ki az időt egy alapos múzeumlátogatásra.",
+                "ro": "Profită de timp pentru o vizită detaliată la muzeu.",
+                "en": "Use the rainy time for an extensive indoor museum visit."
+              }
+            },
+            {
+              "name": "Patruuna Arena",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen auf dem Weg zur Arena.",
+                "hu": "Vigyázzon a pocsolyákra az aréna felé vezető úton.",
+                "ro": "Atenție la bălți pe drumul spre arenă.",
+                "en": "Watch out for large puddles on the path to the arena."
+              }
+            },
+            {
+              "name": "Jokilaakso Garden",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den nassen Gartenwegen.",
+                "hu": "Tekerjen lassan a kert vizes, csúszós útjain.",
+                "ro": "Pedalați încet pe aleile umede din grădină.",
+                "en": "Cycle slowly on the wet and potentially slippery garden paths."
+              }
+            },
+            {
+              "name": "Simpsiö Hill",
+              "tip_5lang": {
+                "de": "Der Boden kann schlammig sein; prüfen Sie Ihre Bremsen.",
+                "hu": "A talaj sáros lehet; ellenőrizze a fékeit az ereszkedés előtt.",
+                "ro": "Solul poate fi noroios; verificați frânele înainte de coborâre.",
+                "en": "Ground might be muddy; check your brakes before descending."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und Regenhose.",
+              "Vorsicht auf Straßenmarkierungen, diese sind bei Nässe glatt.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Licht einschalten, da die Sicht bei Regen deutlich schlechter ist."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot (dzseki és nadrág).",
+              "Vigyázzon az útburkolati jelekre, mert nedvesen csúsznak.",
+              "A sárvédő elengedhetetlen ilyen időben a kerékpáron.",
+              "Kapcsolja be a lámpákat, mert esőben rosszabb a láthatóság."
+            ],
+            "ro": [
+              "Purtați costum de ploaie complet (jachetă și pantaloni).",
+              "Atenție la marcajele rutiere, sunt foarte alunecoase pe ud.",
+              "Aripile la bicicletă sunt obligatorii pe această vreme.",
+              "Aprindeți luminile, vizibilitatea scade semnificativ pe ploaie."
+            ],
+            "en": [
+              "Wear full rain gear, including a jacket and trousers.",
+              "Be careful on road markings; they are slippery when wet.",
+              "Mudguards on your bike are a must in this weather.",
+              "Turn on your lights as visibility is reduced during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour erfordert Mut und Ausrüstung. Morgens besuchen wir die Kathedrale, bevor wir im Vanha Paukku Zuflucht suchen. Mittags und nachmittags wärmen wir uns in den Museen auf. Der Weg zur Patruuna Arena führt durch tiefen Schnee. Abends ist die Fahrt zum Simpsiö Hill eine echte Herausforderung, belohnt aber mit einer glitzernden Winterlandschaft.",
+            "hu": "A téli kerékpártúra bátorságot és felszerelést igényel. Reggel a katedrálist nézzük meg, mielőtt a Vanha Paukkuban keresnénk menedéket. Délben és délután a múzeumokban melegszünk fel. Az út a Patruuna Arena felé mély havon át vezethet. Este a Simpsiö-hegyre való feljutás igazi kihívás, de a csillogó téli táj kárpótol.",
+            "ro": "Un tur de iarnă cu bicicleta necesită curaj și echipament. Dimineața vizităm catedrala, apoi căutăm adăpost la Vanha Paukku. La prânz și după-amiaza ne încălzim în muzee. Drumul spre Patruuna Arena poate fi prin zăpadă mare. Seara, urcarea pe dealul Simpsiö este o provocare, dar peisajul merită.",
+            "en": "A winter bike tour requires courage and proper gear. Morning visit to the cathedral followed by refuge at Vanha Paukku. Noon and afternoon are spent warming up in the museums. The path to Patruuna Arena might be snowy. In the evening, the ride to Simpsiö Hill is a real challenge, but the sparkling winter landscape is a great reward."
+          },
+          "stops": [
+            {
+              "name": "Lapua Cathedral",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eisplatten auf dem Parkplatz.",
+                "hu": "Vigyázzon a jégfoltokra a parkolóban.",
+                "ro": "Atenție la porțiunile de gheață din parcare.",
+                "en": "Watch out for black ice patches in the parking area."
+              }
+            },
+            {
+              "name": "Vanha Paukku Cultural Centre",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, eingefrorene Schlösser aufzutauen.",
+                "hu": "Jó alkalom a befagyott zárak felolvasztására.",
+                "ro": "Ocazie bună pentru a dezgheța încuietorile înghețate.",
+                "en": "Good opportunity to thaw out frozen locks if needed."
+              }
+            },
+            {
+              "name": "Lapua Art Museum",
+              "tip_5lang": {
+                "de": "Drinnen ist es warm; lassen Sie nasse Handschuhe trocknen.",
+                "hu": "Bent meleg van; hagyja a vizes kesztyűket megszáradni.",
+                "ro": "În interior este cald; lăsați mănușile ude la uscat.",
+                "en": "It's warm inside; let your damp gloves dry during the visit."
+              }
+            },
+            {
+              "name": "Patruuna Arena",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneeverwehungen auf dem Radweg.",
+                "hu": "Vigyázzon a hóátfúvásokra a kerékpárúton.",
+                "ro": "Atenție la troienele de zăpadă de pe pista de biciclete.",
+                "en": "Watch out for snowdrifts blocking parts of the cycle path."
+              }
+            },
+            {
+              "name": "Jokilaakso Garden",
+              "tip_5lang": {
+                "de": "Die Wege sind oft geräumt, aber trotzdem glatt.",
+                "hu": "Az utakat gyakran takarítják, de így is csúszhatnak.",
+                "ro": "Aleile sunt adesea curățate, dar pot rămâne alunecoase.",
+                "en": "Paths are often cleared but can still be very slippery."
+              }
+            },
+            {
+              "name": "Simpsiö Hill",
+              "tip_5lang": {
+                "de": "Anstrengender Aufstieg im Schnee; tragen Sie Thermokleidung.",
+                "hu": "Fárasztó emelkedő hóban; viseljen hőtartó ruházatot.",
+                "ro": "Urcare obositoare prin zăpadă; purtați haine termice.",
+                "en": "Strenuous climb in the snow; wear thermal clothing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen sind auf vereisten Wegen absolut notwendig.",
+              "Schmieren Sie die Kette häufiger wegen des Streusalzes.",
+              "Tragen Sie eine winddichte Maske unter dem Helm.",
+              "Akku-Lichter entladen sich in der Kälte schneller; Reserve mitnehmen."
+            ],
+            "hu": [
+              "A szöges gumiabroncs elengedhetetlen a jeges utakon.",
+              "Az útszóró só miatt gyakrabban kenje a láncot.",
+              "Viseljen szélálló maszkot a sisak alatt.",
+              "Az akkumulátorok gyorsabban merülnek a hidegben; vigyen tartalékot."
+            ],
+            "ro": [
+              "Anvelopele cu ținte sunt absolut necesare pe drumuri înghețate.",
+              "Lubrifiați lanțul mai des din cauza sării de pe drumuri.",
+              "Purtați o mască rezistentă la vânt sub cască.",
+              "Bateriile se descarcă mai repede la frig; luați rezerve."
+            ],
+            "en": [
+              "Studded tires are absolutely necessary on icy paths.",
+              "Lubricate your chain more often due to road salt.",
+              "Wear a windproof face mask under your helmet.",
+              "Battery lights drain faster in the cold; bring spares."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -990,6 +1336,188 @@
           "Keep a navigation app handy, as some smaller roads can be confusing.",
           "Be mindful of speed limits, which change frequently in Finland."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Lapua komfortabel bei Regen. Morgens genießen wir die Aussicht vom Simpsiö Hill, geschützt im Fahrzeug. Mittags parken wir direkt am Vanha Paukku für einen trockenen Übergang. Nachmittags besuchen wir die Kathedrale, bevor wir den Tag im Jokilaakso-Garten ausklingen lassen, wo wir bei Bedarf schnell wieder ins Auto schlüpfen können.",
+            "hu": "Autóval kényelmesen fedezzük fel Lapuát esőben is. Reggel a Simpsiö-hegyről gyönyörködünk a kilátásban az autó oltalmából. Délben közvetlenül a Vanha Paukkunál parkolunk a száraz átjutás érdekében. Délután a katedrálist látogatjuk meg, majd a Jokilaakso kertben zárjuk a napot, ahonnan szükség esetén gyorsan visszaülhetünk az autóba.",
+            "ro": "Cu mașina explorăm Lapua confortabil chiar și pe ploaie. Dimineața admirăm vederea de pe dealul Simpsiö din interiorul vehiculului. La prânz parcăm direct la Vanha Paukku pentru un acces uscat. După-amiaza vizităm catedrala, apoi încheiem ziua în grădina Jokilaakso, de unde ne putem întoarce rapid la mașină.",
+            "en": "By car, we explore Lapua comfortably even in the rain. Morning views from Simpsiö Hill can be enjoyed from inside the vehicle. At noon, we park directly at Vanha Paukku for a dry transition. Afternoon features a visit to the cathedral before ending the day at Jokilaakso Garden, where we can quickly return to the car if the rain intensifies."
+          },
+          "stops": [
+            {
+              "name": "Parking at Simpsiö Hill",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie die Sicht.",
+                "hu": "Heves esőben maradjon az autóban, és onnan nézzen körül.",
+                "ro": "Rămâneți în mașină în caz de ploaie torențială și admirați vederea.",
+                "en": "Stay in the car during heavy rain and enjoy the view from inside."
+              }
+            },
+            {
+              "name": "Simpsiö Hill Viewpoint",
+              "tip_5lang": {
+                "de": "Kurzer Sprint zum Aussichtspunkt; Boden kann rutschig sein.",
+                "hu": "Gyors vágta a kilátóhoz; a talaj csúszós lehet.",
+                "ro": "Sprint scurt până la punctul de belvedere; solul poate fi alunecos.",
+                "en": "Short sprint to the viewpoint; the ground may be slippery."
+              }
+            },
+            {
+              "name": "Parking in the Centre (near Vanha Paukku)",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz nah am Eingang des Kulturzentrums.",
+                "hu": "Keressen helyet a kulturális központ bejáratához közel.",
+                "ro": "Căutați un loc aproape de intrarea centrului cultural.",
+                "en": "Look for a spot as close to the cultural centre entrance as possible."
+              }
+            },
+            {
+              "name": "Vanha Paukku Cultural Centre & Museums",
+              "tip_5lang": {
+                "de": "Perfektes Ziel für regnerische Stunden im Trockenen.",
+                "hu": "Tökéletes célpont esős órákra, végig fedett helyen.",
+                "ro": "Destinație perfectă pentru orele ploioase, în interior.",
+                "en": "Perfect destination for rainy hours spent entirely indoors."
+              }
+            },
+            {
+              "name": "Lapua Cathedral",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze direkt vor der Kirche.",
+                "hu": "Közvetlenül a templom előtt találhatók parkolóhelyek.",
+                "ro": "Există locuri de parcare chiar în fața bisericii.",
+                "en": "There are parking spaces available right in front of the church."
+              }
+            },
+            {
+              "name": "Jokilaakso Garden",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Garten für eine schnelle Flucht vor Schauern.",
+                "hu": "Parkoljon a kert mellett, hogy gyorsan menekülhessen a zápor elől.",
+                "ro": "Parcați aproape de grădină pentru a evita aversele bruște.",
+                "en": "Park near the garden for a quick escape if a heavy shower starts."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt.",
+              "Vorsicht vor Aquaplaning auf der Straße zum Simpsiö.",
+              "Halten Sie einen Regenschirm im Auto griffbereit.",
+              "Die Parkplätze in Lapua sind bei Regen meist weniger belegt."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Vigyázzon a vízenfutásra (aquaplaning) a Simpsiö felé vezető úton.",
+              "Tartson egy esernyőt az autóban, kézközelben.",
+              "Lapua parkolói esőben általában kevésbé zsúfoltak."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a pleca la drum.",
+              "Atenție la acvaplanare pe drumul spre dealul Simpsiö.",
+              "Păstrați o umbrelă la îndemână în interiorul mașinii.",
+              "Parcările din Lapua sunt de obicei mai libere pe timp de ploaie."
+            ],
+            "en": [
+              "Check your windshield wipers before starting your trip.",
+              "Watch out for aquaplaning on the road to Simpsiö Hill.",
+              "Keep an umbrella handy inside the car for quick stops.",
+              "Parking lots in Lapua are usually less crowded during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterfahrten in Finnland erfordern Vorsicht. Morgens fahren wir zum Simpsiö Hill, wo die verschneite Straße eine tolle Kulisse bietet. Mittags und nachmittags ist das Auto unsere Wärmestation zwischen dem Besuch im Vanha Paukku und den Museen. Abends besuchen wir die Kathedrale und den beleuchteten Garten, bevor wir sicher und warm zurückkehren.",
+            "hu": "A téli autózás Finnországban óvatosságot igényel. Reggel a Simpsiö-hegyre hajtunk, ahol a havas út gyönyörű látványt nyújt. Délben és délután az autó a bázisunk, ahol felmelegedhetünk a Vanha Paukku és a múzeumok látogatása között. Este megnézzük a katedrálist és a kivilágított kertet, majd biztonságban hazautazunk.",
+            "ro": "Condusul pe timp de iarnă în Finlanda necesită prudență. Dimineața mergem pe dealul Simpsiö, unde drumul înzăpezit oferă un cadru superb. La prânz și după-amiaza, mașina este refugiul nostru cald între vizitele la muzee. Seara vizităm catedrala și grădina iluminată înainte de a pleca spre casă.",
+            "en": "Winter driving in Finland requires caution and preparation. Morning drive to Simpsiö Hill offers a beautiful snowy backdrop. At noon and afternoon, the car serves as our heating station between visits to Vanha Paukku and the museums. In the evening, we visit the cathedral and the lit garden before returning home warm and safe."
+          },
+          "stops": [
+            {
+              "name": "Parking at Simpsiö Hill",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Handbremse nicht einfriert.",
+                "hu": "Vigyázzon, nehogy befagyjon a kézifék a nagy hidegben.",
+                "ro": "Aveți grijă ca frâna de mână să nu înghețe la temperaturi scăzute.",
+                "en": "Be careful not to let your parking brake freeze in deep cold."
+              }
+            },
+            {
+              "name": "Simpsiö Hill Viewpoint",
+              "tip_5lang": {
+                "de": "Die Straße kann extrem glatt sein; Winterreifen sind Pflicht.",
+                "hu": "Az út rendkívül csúszós lehet; a téli gumi kötelező.",
+                "ro": "Drumul poate fi extrem de alunecos; anvelopele de iarnă sunt obligatorii.",
+                "en": "The road can be extremely icy; winter tires are mandatory."
+              }
+            },
+            {
+              "name": "Parking in the Centre (near Vanha Paukku)",
+              "tip_5lang": {
+                "de": "Parken Sie nicht unter Dächern mit Eiszapfen oder Dachlawinengefahr.",
+                "hu": "Ne parkoljon jégcsapos tetők vagy hóomlás-veszélyes helyek alá.",
+                "ro": "Nu parcați sub streșini cu țurțuri sau pericol de căderi de zăpadă.",
+                "en": "Avoid parking under eaves with icicles or risk of snow slides."
+              }
+            },
+            {
+              "name": "Vanha Paukku Cultural Centre & Museums",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für den ganzen Nachmittag.",
+                "hu": "Meleg és barátságos hely az egész délután eltöltésére.",
+                "ro": "Un loc cald și primitor pentru a petrece întreaga după-amiază.",
+                "en": "A warm and welcoming place to spend the entire afternoon."
+              }
+            },
+            {
+              "name": "Lapua Cathedral",
+              "tip_5lang": {
+                "de": "Vorsicht beim Ein- und Aussteigen auf vereisten Parkplätzen.",
+                "hu": "Vigyázzon a ki- és beszállásnál a jeges parkolóban.",
+                "ro": "Atenție la urcarea și coborârea din mașină în parcarea înghețată.",
+                "en": "Watch your step when getting in or out of the car on icy lots."
+              }
+            },
+            {
+              "name": "Jokilaakso Garden",
+              "tip_5lang": {
+                "de": "Der Garten ist im Winter wunderschön beleuchtet.",
+                "hu": "A kert télen gyönyörűen ki van világítva este.",
+                "ro": "Grădina este superb iluminată seara pe timpul iernii.",
+                "en": "The garden is beautifully illuminated during winter evenings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen mit Spikes sind in dieser Region Standard.",
+              "Halten Sie einen Eiskratzer und einen kleinen Besen bereit.",
+              "Vermeiden Sie hastiges Bremsen auf verschneiten Straßen.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage."
+            ],
+            "hu": [
+              "A szöges téli gumi alapfelszereltség ebben a régióban.",
+              "Tartson jégkaparót és egy kis seprűt az autóban.",
+              "Kerülje a hirtelen fékezést a havas utakon.",
+              "Töltse fel a szélvédőmosót fagyálló folyadékkal."
+            ],
+            "ro": [
+              "Anvelopele de iarnă cu ținte sunt standard în această regiune.",
+              "Păstrați o racletă și o măturică în mașină.",
+              "Evitați frânarea bruscă pe drumurile înzăpezite.",
+              "Umpleți rezervorul de lichid de parbriz cu soluție anti-îngheț."
+            ],
+            "en": [
+              "Studded winter tires are standard in this region.",
+              "Keep an ice scraper and a small snow brush in the car.",
+              "Avoid sudden braking or acceleration on snowy roads.",
+              "Fill your washer fluid reservoir with anti-freeze solution."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1270,6 +1798,170 @@
           "Be aware that buses in rural areas may run infrequently, so plan ahead.",
           "Wave to the bus driver when you're waiting at the stop to ensure they stop for you."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir die Kathedrale und das Stadtzentrum trocken. Morgens starten wir an der Haltestelle und besuchen die Kirche. Mittags und nachmittags verbringen wir die Zeit im Vanha Paukku Komplex, der viele Indoor-Aktivitäten bietet. Abends bringt uns der Bus Richtung Simpsiö, wobei wir die Regenschauer aus dem Fenster beobachten können.",
+            "hu": "Busszal szárazon érhetjük el a katedrálist és a városközpontot. Reggel a megállótól indulva látogatjuk meg a templomot. Délben és délután a Vanha Paukku komplexumban töltjük az időt, amely sok beltéri programot kínál. Este a busz Simpsiö felé visz minket, miközben az ablakból figyelhetjük az esőt.",
+            "ro": "Cu autobuzul ajungem la catedrală și în centrul orașului fără să ne udăm. Dimineața începem de la stație și vizităm biserica. La prânz și după-amiaza petrecem timpul în complexul Vanha Paukku, care oferă multe activități de interior. Seara, autobuzul ne duce spre Simpsiö în timp ce privim ploaia de la fereastră.",
+            "en": "By bus, we reach the cathedral and city centre while staying dry. Morning starts with a short walk from the stop to the church. Noon and afternoon are spent in the Vanha Paukku complex, which offers plenty of indoor activities. In the evening, the bus takes us towards Simpsiö while we watch the rain from the window."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Bereich der Haltestelle.",
+                "hu": "Várjon a buszmegálló fedett részén.",
+                "ro": "Așteptați în zona acoperită a stației de autobuz.",
+                "en": "Wait in the covered area of the bus stop to stay dry."
+              }
+            },
+            {
+              "name": "Lapua Cathedral",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Weg von der Haltestelle zum Kircheneingang.",
+                "hu": "Csak egy rövid séta a megállótól a templom bejáratáig.",
+                "ro": "Doar o scurtă plimbare de la stație până la intrarea în biserică.",
+                "en": "Only a short walk from the stop to the church entrance."
+              }
+            },
+            {
+              "name": "Monument of the Lapua Movement",
+              "tip_5lang": {
+                "de": "Halten Sie den Schirm bereit für den kurzen Fußweg.",
+                "hu": "Tartsa készenlétben az esernyőt a rövid gyalogúthoz.",
+                "ro": "Țineți umbrela pregătită pentru scurta plimbare pe jos.",
+                "en": "Have your umbrella ready for the short walk from the stop."
+              }
+            },
+            {
+              "name": "Vanha Paukku Cultural Centre & Museums",
+              "tip_5lang": {
+                "de": "Ideal erreichbar; die Haltestelle ist fast direkt davor.",
+                "hu": "Könnyen elérhető; a megálló szinte közvetlenül előtte van.",
+                "ro": "Ușor accesibil; stația este aproape direct în față.",
+                "en": "Easily accessible; the stop is almost directly in front."
+              }
+            },
+            {
+              "name": "Bus Stop for Simpsiö",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten bei Regen genau.",
+                "hu": "Esőben pontosan ellenőrizze a visszaindulási időpontokat.",
+                "ro": "Verificați cu atenție orele de retur pe timp de ploaie.",
+                "en": "Check the return schedule carefully during rainy weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Echtzeit-App für Busabfahrten.",
+              "Busse in Lapua sind meist pünktlich, auch bei Regen.",
+              "Halten Sie Kleingeld oder eine Fahrkarte bereit.",
+              "Die Haltestellen bieten oft nur wenig Schutz vor Wind."
+            ],
+            "hu": [
+              "Használja a valós idejű menetrendi alkalmazást.",
+              "A buszok Lapuában esőben is általában pontosak.",
+              "Készítse elő az aprópénzt vagy a menetjegyet.",
+              "A megállók gyakran csak korlátozott védelmet nyújtanak a szél ellen."
+            ],
+            "ro": [
+              "Folosiți aplicația în timp real pentru plecările autobuzelor.",
+              "Autobuzele din Lapua sunt de obicei punctuale și pe ploaie.",
+              "Pregătiți mărunțișul sau biletul de călătorie.",
+              "Stațiile oferă adesea protecție limitată împotriva vântului."
+            ],
+            "en": [
+              "Use the real-time app for bus departures and arrivals.",
+              "Buses in Lapua are usually punctual even in rainy weather.",
+              "Have your change or transit card ready for boarding.",
+              "Bus stops often provide limited protection against driving wind."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher ÖPNV in Finnland ist zuverlässig. Morgens nehmen wir den Bus zur Kathedrale und genießen die Wärme im Inneren. Mittags und nachmittags verbringen wir viel Zeit im Kulturzentrum Vanha Paukku, um der Kälte zu entfliehen. Abends bringt uns der Bus zur Haltestelle bei Simpsiö, wobei die schneebedeckten Straßen im Scheinwerferlicht magisch wirken.",
+            "hu": "A téli tömegközlekedés Finnországban megbízható. Reggel busszal megyünk a katedrálishoz, és élvezzük a benti meleget. Délben és délután sok időt töltünk a Vanha Paukku kulturális központban, hogy elkerüljük a hideget. Este a busz Simpsiö melletti megállóba visz, miközben a havas utak varázslatosak a fényszórók fényében.",
+            "ro": "Transportul public de iarnă în Finlanda este de încredere. Dimineața luăm autobuzul spre catedrală și ne bucurăm de căldura din interior. La prânz și după-amiaza stăm la centrul cultural Vanha Paukku pentru a scăpa de ger. Seara autobuzul ne lasă lângă Simpsiö, unde drumurile înzăpezite par magice în lumina farurilor.",
+            "en": "Winter transit in Finland is reliable and warm. Morning bus ride to the cathedral lets you enjoy the heat inside. Noon and afternoon are best spent at the Vanha Paukku cultural centre to avoid the freeze. In the evening, the bus takes us to the stop near Simpsiö, where snowy roads look magical in the headlights."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis auf der Einstiegsplattform.",
+                "hu": "Vigyázzon a jégre a felszállóperonon.",
+                "ro": "Atenție la gheața de pe peronul de îmbarcare.",
+                "en": "Watch out for slippery ice on the boarding platform."
+              }
+            },
+            {
+              "name": "Lapua Cathedral",
+              "tip_5lang": {
+                "de": "Im Winter herrscht hier eine besonders friedliche Stille.",
+                "hu": "Télen különösen békés csend honol a templomban.",
+                "ro": "Iarna aici domnește o liniște deosebit de pașnică.",
+                "en": "There is an especially peaceful silence here during winter."
+              }
+            },
+            {
+              "name": "Monument of the Lapua Movement",
+              "tip_5lang": {
+                "de": "Nur kurz besichtigen; es ist hier sehr windexponiert.",
+                "hu": "Csak rövid ideig maradjon; ez a hely nagyon szeles.",
+                "ro": "Vizitați doar scurt; locul este foarte expus la vânt.",
+                "en": "Keep the visit brief as this spot is very exposed to wind."
+              }
+            },
+            {
+              "name": "Vanha Paukku Cultural Centre & Museums",
+              "tip_5lang": {
+                "de": "Ein idealer Ort zum Aufwärmen zwischen den Fahrten.",
+                "hu": "Ideális hely a felmelegedésre a buszjáratok között.",
+                "ro": "Un loc ideal pentru încălzire între călătoriile cu autobuzul.",
+                "en": "An ideal place to warm up between bus departures."
+              }
+            },
+            {
+              "name": "Bus Stop for Simpsiö",
+              "tip_5lang": {
+                "de": "Gehen Sie vorsichtig von der Haltestelle zum Ziel.",
+                "hu": "Óvatosan gyalogoljon a megállótól az úticélig a hóban.",
+                "ro": "Mergeți cu atenție de la stație până la destinație prin zăpadă.",
+                "en": "Walk carefully from the stop to your destination in the snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Schuhe, da das Warten an Haltestellen kalt ist.",
+              "Busse können bei starkem Schneefall leichte Verspätungen haben.",
+              "Nutzen Sie die beheizten Warteräume, wo vorhanden.",
+              "Winken Sie dem Busfahrer deutlich zu, damit er Sie sieht."
+            ],
+            "hu": [
+              "Viseljen meleg cipőt, mert a várakozás a megállóban hideg.",
+              "Erős havazáskor a buszok kis késéssel közlekedhetnek.",
+              "Használja a fűtött váróhelyiségeket, ahol elérhető.",
+              "Integessen egyértelműen a sofőrnek, hogy észrevegye a sötétben."
+            ],
+            "ro": [
+              "Purtați încălțăminte groasă, așteptarea în stație este rece.",
+              "Autobuzele pot avea mici întârzieri în caz de ninsoare abundentă.",
+              "Folosiți sălile de așteptare încălzite unde sunt disponibile.",
+              "Faceți semn clar șoferului de autobuz pentru a vă observa."
+            ],
+            "en": [
+              "Wear very warm shoes as waiting at stops can be freezing.",
+              "Buses may have slight delays during heavy snowfall.",
+              "Use heated waiting rooms wherever they are available.",
+              "Wave clearly to the bus driver so they see you in the dark."
+            ]
+          }
+        }
       }
     }
   }

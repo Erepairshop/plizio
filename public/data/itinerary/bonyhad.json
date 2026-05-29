@@ -307,6 +307,214 @@
           "Check the museum's opening hours in advance.",
           "Bring water, especially for the climb to Calvary Hill."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag geschützt unter den Arkaden des Rathauses, während der Regen auf den Marktplatz prasselt. Die Kirchen bieten trockene Zuflucht für stille Momente. Mittags verlagert sich das Programm in das Perczel-Schloss und das Völgység-Museum, wo Sie tief in die schwäbische Geschichte eintauchen können, ohne nass zu werden. Der Nachmittag endet mit einem kurzen, erfrischenden Spaziergang zum Kalvarienberg.",
+            "hu": "Kezdje a napot a Városháza árkádjai alatt védve, miközben az eső a főteret mossa. A templomok száraz menedéket nyújtanak az elmélyüléshez. Délben a program a Perczel-kúriába és a Völgység Múzeumba költözik, ahol a sváb történelemben merülhet el anélkül, hogy elázna. A délután egy rövid, frissítő sétával zárul a Kálvária-dombra, ahol az eső utáni pára különleges hangulatot áraszt.",
+            "ro": "Începeți ziua la adăpostul arcadelor primăriei, în timp ce ploaia spală piața centrală. Bisericile oferă un refugiu uscat pentru momente de liniște. La prânz, programul se mută în conacul Perczel și Muzeul Völgység, unde puteți explora istoria șvabilor fără a vă uda. După-amiaza se încheie cu o scurtă plimbare revigorantă spre Dealul Calvariei, unde ceața de după ploaie creează o atmosferă aparte.",
+            "en": "Start your day sheltered under the Town Hall's arcades as rain washes the main square. The local churches provide dry havens for quiet reflection. At noon, move indoors to the Perczel Mansion and Völgység Museum to dive into Swabian history without getting wet. The afternoon concludes with a short, refreshing walk to Calvary Hill, where the post-rain mist creates a unique atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Trinity Column",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem Vordach des Rathauses.",
+                "hu": "Használja a városháza bejáratánál lévő fedett részt.",
+                "ro": "Folosiți zona acoperită de la intrarea primăriei.",
+                "en": "Use the sheltered area at the town hall entrance."
+              }
+            },
+            {
+              "name": "Church of the Immaculate Conception",
+              "tip_5lang": {
+                "de": "Perfekt für eine trockene Besichtigung des Barock-Interieurs.",
+                "hu": "Tökéletes hely a barokk belső tér száraz felfedezéséhez.",
+                "ro": "Loc perfect pentru explorarea interiorului baroc la uscat.",
+                "en": "Perfect place for exploring the Baroque interior while staying dry."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Stufen am Kircheneingang.",
+                "hu": "Vigyázzon a templombejárat csúszós lépcsőire.",
+                "ro": "Atenție la treptele alunecoase de la intrarea în biserică.",
+                "en": "Watch out for slippery steps at the church entrance."
+              }
+            },
+            {
+              "name": "Perczel Mansion",
+              "tip_5lang": {
+                "de": "Der Innenbereich ist ideal, um den stärksten Regen abzuwarten.",
+                "hu": "A belső tér ideális a hevesebb eső kivárására.",
+                "ro": "Interiorul este ideal pentru a aștepta trecerea ploii torențiale.",
+                "en": "The interior is ideal for waiting out heavier rain."
+              }
+            },
+            {
+              "name": "Völgység Museum",
+              "tip_5lang": {
+                "de": "Verlängern Sie den Besuch, bis der Regen nachlässt.",
+                "hu": "Hosszabbítsa meg a látogatást, amíg alábbhagy az eső.",
+                "ro": "Prelungiți vizita până când ploaia se mai potolește.",
+                "en": "Extend your visit until the rain subsides."
+              }
+            },
+            {
+              "name": "Perczel Garden",
+              "tip_5lang": {
+                "de": "Die Wege können schlammig sein; bleiben Sie auf dem Hauptweg.",
+                "hu": "Az utak sárosak lehetnek; maradjon a főútvonalon.",
+                "ro": "Potecile pot fi noroioase; rămâneți pe drumul principal.",
+                "en": "Paths can be muddy; stick to the main route."
+              }
+            },
+            {
+              "name": "Calvary Hill",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aufstieg, die Steinstufen sind bei Nässe glatt.",
+                "hu": "Óvatosan a felfelé úton, a kőlépcsők nedvesen csúsznak.",
+                "ro": "Atenție la urcare, treptele de piatră sunt alunecoase când sunt ude.",
+                "en": "Be careful on the way up; the stone steps are slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen der Windböen im Völgység-Tal ratsam.",
+              "Nutzen Sie die Kirchen als kostenlose und trockene Kulturstopps.",
+              "Das Völgység-Museum bietet genug Exponate für eine längere Regenpause.",
+              "Tragen Sie wasserfeste Schuhe für den Aufstieg zum Kalvarienberg.",
+              "Die Cafés im Zentrum haben gemütliche Innenräume für die Mittagszeit."
+            ],
+            "hu": [
+              "A Völgység szeles völgye miatt egy stabil esernyő ajánlott.",
+              "Használja a templomokat ingyenes és száraz kulturális megállóként.",
+              "A Völgység Múzeum elég látnivalót kínál egy hosszabb esőpause-hoz.",
+              "Vízálló cipőt viseljen a Kálvária-dombra való feljutáshoz.",
+              "A központ kávézóinak barátságos belső tere kiváló az ebédidőhöz."
+            ],
+            "ro": [
+              "Se recomandă o umbrelă stabilă din cauza vântului din valea Völgység.",
+              "Folosiți bisericile ca opriri culturale gratuite și uscate.",
+              "Muzeul Völgység oferă destule exponate pentru o pauză mai lungă de ploaie.",
+              "Purtați încălțăminte impermeabilă pentru urcarea pe Dealul Calvariei.",
+              "Cafenelele din centru au interioare primitoare pentru ora prânzului."
+            ],
+            "en": [
+              "A sturdy umbrella is recommended due to wind gusts in the Völgység valley.",
+              "Use the churches as free and dry cultural stops.",
+              "The Völgység Museum offers enough exhibits for a longer rain break.",
+              "Wear waterproof shoes for the climb up Calvary Hill.",
+              "Downtown cafes have cozy interiors perfect for lunchtime."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bonyhád zeigt sich im Winter von seiner ruhigen, frostigen Seite. Der Vormittag im Zentrum ist geprägt von klarer Luft und der Besichtigung der beheizten Kirchen. Das Perczel-Schloss und das Museum bieten eine warme Zuflucht für kulturelle Entdeckungen am Mittag. Da die Sonne bereits gegen 16:30 Uhr untergeht, ist der Besuch des Kalvarienbergs am späten Nachmittag perfekt, um die Stadt im Dämmerlicht zu sehen.",
+            "hu": "Bonyhád télen a nyugodt, fagyos arcát mutatja. A délelőttöt a központban a friss levegő és a fűtött templomok látogatása határozza meg. A Perczel-kúria és a múzeum meleg menedéket nyújt a déli kulturális felfedezésekhez. Mivel a nap már 16:30 körül nyugszik, a Kálvária-domb kora délutáni látogatása tökéletes, hogy szürkületben lássuk a várost.",
+            "ro": "Bonyhád arată iarna o față liniștită și geroasă. Dimineața în centru este marcată de aerul curat și vizitarea bisericilor încălzite. Conacul Perczel și muzeul oferă un refugiu cald pentru descoperiri culturale la prânz. Deoarece soarele apune deja în jur de ora 16:30, vizitarea Dealului Calvariei după-amiaza devreme este perfectă pentru a vedea orașul în amurg.",
+            "en": "Bonyhád shows a calm, frosty side in winter. The morning in the center is defined by crisp air and visits to heated churches. The Perczel Mansion and museum provide a warm haven for cultural discoveries at noon. Since the sun sets around 4:30 PM, an early afternoon visit to Calvary Hill is perfect to see the town in the twilight."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Trinity Column",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, bevor es in die Wärme geht.",
+                "hu": "Gyors fotómegálló, mielőtt bemenne a melegre.",
+                "ro": "Scurtă oprire pentru poze înainte de a intra la căldură.",
+                "en": "Quick photo stop before heading into the warmth."
+              }
+            },
+            {
+              "name": "Church of the Immaculate Conception",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und die (meist) milde Innentemperatur.",
+                "hu": "Élvezze a csendet és a (többnyire) enyhe belső hőmérsékletet.",
+                "ro": "Bucurați-vă de liniște și de temperatura interioară (de obicei) blândă.",
+                "en": "Enjoy the silence and the (mostly) mild interior temperature."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisglätte auf den Gehwegen vor der Kirche.",
+                "hu": "Vigyázzon a jegesedésre a templom előtti járdákon.",
+                "ro": "Atenție la gheața de pe trotuarele din fața bisericii.",
+                "en": "Watch out for icy patches on the sidewalks in front of the church."
+              }
+            },
+            {
+              "name": "Perczel Mansion",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um mehr über die lokale Adelsfamilie zu erfahren.",
+                "hu": "Meleg helyszín, ahol többet tudhat meg a helyi nemesi családról.",
+                "ro": "Un loc cald pentru a afla mai multe despre familia nobiliară locală.",
+                "en": "A warm venue to learn more about the local noble family."
+              }
+            },
+            {
+              "name": "Völgység Museum",
+              "tip_5lang": {
+                "de": "Die Ausstellungen sind gut beheizt und laden zum Verweilen ein.",
+                "hu": "A kiállítások jól fűtöttek, érdemes itt többet időzni.",
+                "ro": "Expozițiile sunt bine încălzite și merită să zăboviți mai mult.",
+                "en": "The exhibits are well-heated and worth spending extra time in."
+              }
+            },
+            {
+              "name": "Perczel Garden",
+              "tip_5lang": {
+                "de": "Ein zügiger Winterspaziergang zwischen den kahlen Bäumen.",
+                "hu": "Gyors téli séta a kopár fák között.",
+                "ro": "O plimbare rapidă de iarnă printre copacii desfrunziți.",
+                "en": "A brisk winter walk among the bare trees."
+              }
+            },
+            {
+              "name": "Calvary Hill",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch vor 16:30 Uhr ein (Sonnenuntergang).",
+                "hu": "Tervezze a látogatást 16:30 előttre (naplemente).",
+                "ro": "Planificați vizita înainte de ora 16:30 (apusul soarelui).",
+                "en": "Plan your visit before 4:30 PM (sunset)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind für den windigen Kalvarienberg unverzichtbar.",
+              "Die Museen sind die besten Orte zum Aufwärmen zwischen den Stopps.",
+              "Beachten Sie den frühen Sonnenuntergang gegen 16:15-16:30 Uhr.",
+              "In Bonyhád kann es im Tal oft neblig und kälter als auf den Hügeln sein.",
+              "Gönnen Sie sich einen heißen Tee in einer der Konditoreien im Zentrum."
+            ],
+            "hu": [
+              "Meleg kesztyű elengedhetetlen a szeles Kálvária-dombon.",
+              "A múzeumok a legjobb helyek a felmelegedésre a megállók között.",
+              "Vegye figyelembe a korai naplementét 16:15-16:30 körül.",
+              "Bonyhádon a völgyben gyakran ködösebb és hidegebb lehet, mint a dombokon.",
+              "Igyon egy forró teát a központ egyik cukrászdájában."
+            ],
+            "ro": [
+              "Mănușile groase sunt indispensabile pe Dealul Calvariei unde bate vântul.",
+              "Muzeele sunt cele mai bune locuri pentru încălzire între opriri.",
+              "Țineți cont de apusul devreme, în jur de 16:15-16:30.",
+              "În Bonyhád poate fi adesea mai multă ceață și mai frig în vale decât pe dealuri.",
+              "Savurați un ceai fierbinte într-una dintre cofetăriile din centru."
+            ],
+            "en": [
+              "Warm gloves are essential for the windy Calvary Hill.",
+              "Museums are the best places to warm up between outdoor stops.",
+              "Keep the early sunset (around 4:15-4:30 PM) in mind.",
+              "In Bonyhád, the valley can often be foggier and colder than the hills.",
+              "Treat yourself to a hot tea in one of the downtown pastry shops."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -608,6 +816,214 @@
           "Bring a bike lock for sightseeing stops.",
           "The paths are mostly flat, but Calvary Hill is a challenge."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Bonyhád bei Regen erfordert die richtige Ausrüstung. Das Stadtzentrum ist kompakt, sodass Sie schnell zwischen den architektonischen Highlights wechseln können. Nutzen Sie die ausgedehnte Mittagspause im Perczel-Museum, um die Kleidung zu trocknen. Am Nachmittag bietet der Kalvarienberg trotz Nässe eine weite Sicht über das Völgység-Tal, wenn die Wolken aufreißen.",
+            "hu": "Egy esős bringatúra Bonyhádon megfelelő felszerelést igényel. A városközpont kompakt, így gyorsan válthat az építészeti látnivalók között. Használja ki a Perczel Múzeumban töltött hosszabb időt a ruházat szárítására. Délután a Kálvária-domb a nedvesség ellenére is tágas kilátást nyújt a Völgységre, ha felszakadozik a felhőzet.",
+            "ro": "O tură cu bicicleta prin Bonyhád pe ploaie necesită echipament adecvat. Centrul orașului este compact, permițând trecerea rapidă între obiectivele arhitecturale. Profitați de pauza prelungită de la Muzeul Perczel pentru a vă usca hainele. După-amiaza, Dealul Calvariei oferă o vedere panoramică asupra văii Völgység chiar și pe umezeală, dacă se risipește norii.",
+            "en": "A rainy bike tour in Bonyhád requires the right gear. The town center is compact, allowing you to hop quickly between architectural highlights. Use the extended lunch break at the Perczel Museum to dry your clothes. In the afternoon, Calvary Hill offers wide views over the Völgység valley despite the dampness if the clouds break."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Trinity Column",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad im trockenen Eingangsbereich.",
+                "hu": "Parkolja le a bringát a fedett bejáratnál.",
+                "ro": "Parcați bicicleta la intrarea acoperită.",
+                "en": "Park your bike at the sheltered entrance."
+              }
+            },
+            {
+              "name": "Church of the Immaculate Conception",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die barocke Pracht im Trockenen zu bewundern.",
+                "hu": "Rövid megálló, a barokk pompa száraz megtekintéséhez.",
+                "ro": "Oprire scurtă pentru a admira splendoarea barocă la adăpost.",
+                "en": "Short stop to admire the Baroque splendor while dry."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Vorsicht bei Bremsungen auf nassem Asphalt.",
+                "hu": "Vigyázzon a fékezéssel a nedves aszfalton.",
+                "ro": "Atenție la frânare pe asfaltul umed.",
+                "en": "Be careful when braking on wet asphalt."
+              }
+            },
+            {
+              "name": "Perczel Mansion and Museum",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder vorhanden.",
+                "hu": "Biztonságos kerékpártároló rendelkezésre áll.",
+                "ro": "Există un loc sigur pentru depozitarea bicicletelor.",
+                "en": "Safe bike storage available on-site."
+              }
+            },
+            {
+              "name": "Lunch in town",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Sicht auf Ihr abgestelltes Rad.",
+                "hu": "Válasszon olyan éttermet, ahonnan rálát a lezárt bringára.",
+                "ro": "Alegeți un restaurant cu vedere la bicicleta parcată.",
+                "en": "Choose a restaurant where you can see your parked bike."
+              }
+            },
+            {
+              "name": "Perczel Garden",
+              "tip_5lang": {
+                "de": "Schlammgefahr! Fahren Sie vorsichtig auf den Parkwegen.",
+                "hu": "Sárveszély! Óvatosan hajtson a parki utakon.",
+                "ro": "Pericol de noroi! Conduceți cu prudență pe aleile parcului.",
+                "en": "Mud hazard! Ride carefully on the park paths."
+              }
+            },
+            {
+              "name": "Calvary Hill",
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Regen rutschig; ggf. das Rad schieben.",
+                "hu": "Az emelkedő esőben csúszós; szükség esetén tolja a bringát.",
+                "ro": "Urcarea este alunecoasă pe ploaie; dacă e nevoie, împingeți bicicleta.",
+                "en": "The incline is slippery in the rain; push the bike if necessary."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie abrupte Bremsmanöver auf dem Kopfsteinpflaster im Zentrum.",
+              "Wasserdichte Packtaschen sind für Kameras und Handys wichtig.",
+              "Nutzen Sie die Kirchenbesichtigungen als kurze Regenpausen.",
+              "Prüfen Sie den Reifendruck für bessere Haftung auf nassen Wegen.",
+              "Die Wege im Perczel-Garten können nach Regen sehr weich sein."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a belvárosi macskaköveken.",
+              "Vízálló táska javasolt a fényképezőgépnek és telefonnak.",
+              "Használja a templomlátogatásokat rövid esőpause-ként.",
+              "Ellenőrizze a guminyomást a jobb tapadás érdekében nedves úton.",
+              "A Perczel-kert útjai eső után nagyon felázhatnak."
+            ],
+            "ro": [
+              "Evitați frânările bruște pe pavajul din centrul vechi.",
+              "Gențile impermeabile sunt importante pentru camere și telefoane.",
+              "Folosiți vizitele la biserici ca scurte pauze de ploaie.",
+              "Verificați presiunea în pneuri pentru o aderență mai bună pe drum ud.",
+              "Aleile din Grădina Perczel pot fi foarte moi după ploaie."
+            ],
+            "en": [
+              "Avoid sudden braking on the cobblestones in the town center.",
+              "Waterproof panniers are important for cameras and phones.",
+              "Use church visits as short rain breaks.",
+              "Check tire pressure for better grip on wet roads.",
+              "Paths in Perczel Garden can become very soft after rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Bonyhád erfordert Kälteschutz und Aufmerksamkeit. Die Tour führt durch die klare, frostige Luft des Völgység-Tals. Während die Vormittagsstopps kurz gehalten werden, bietet der Aufenthalt im Perczel-Viertel die nötige Wärme. Der finale Anstieg zum Kalvarienberg belohnt mit einem weiten Blick über die schneebedeckten (oder gefrorenen) Dächer der Stadt bei Sonnenuntergang.",
+            "hu": "A téli kerékpározás Bonyhádon hideg elleni védelmet és figyelmet igényel. A túra a Völgység tiszta, fagyos levegőjén vezet keresztül. Míg a délelőtti megállók rövidek, a Perczel-negyedben tett látogatás biztosítja a szükséges meleget. A végső emelkedő a Kálvária-dombra pazar kilátással ajándékoz meg a város hófödte (vagy fagyott) háztetőire naplementekor.",
+            "ro": "Ciclismul de iarnă în Bonyhád necesită protecție împotriva frigului și atenție. Turul trece prin aerul curat și înghețat al văii Völgység. În timp ce opririle de dimineață sunt scurte, vizita în cartierul Perczel oferă căldura necesară. Urcarea finală pe Dealul Calvariei oferă o priveliște superbă asupra acoperișurilor înzăpezite (sau înghețate) ale orașului la apus.",
+            "en": "Winter cycling in Bonyhád requires cold protection and focus. The tour takes you through the crisp, frosty air of the Völgység valley. While morning stops are kept brief, the visit to the Perczel Quarter provides the necessary warmth. The final climb to Calvary Hill rewards you with a wide view over the snow-covered (or frozen) rooftops of the town at sunset."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Trinity Column",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe auf dem Marktplatz.",
+                "hu": "Vigyázzon a felfagyásokra a főtéren.",
+                "ro": "Atenție la poleiul din piața centrală.",
+                "en": "Watch out for black ice in the main square."
+              }
+            },
+            {
+              "name": "Church of the Immaculate Conception",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad windgeschützt ab.",
+                "hu": "Szélvédett helyen parkolja le a bringát.",
+                "ro": "Parcați bicicleta într-un loc ferit de vânt.",
+                "en": "Park your bike in a spot sheltered from the wind."
+              }
+            },
+            {
+              "name": "Evangelical Church",
+              "tip_5lang": {
+                "de": "Kurze Besichtigung zum Aufwärmen.",
+                "hu": "Rövid látogatás a bemelegedéshez.",
+                "ro": "Vizită scurtă pentru a vă încălzi.",
+                "en": "Short visit to warm up."
+              }
+            },
+            {
+              "name": "Perczel Mansion and Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre schwere Winterkleidung.",
+                "hu": "Használja a ruhatárat a nehéz téli ruházathoz.",
+                "ro": "Folosiți garderoba pentru hainele grele de iarnă.",
+                "en": "Use the cloakroom for your heavy winter gear."
+              }
+            },
+            {
+              "name": "Lunch in town",
+              "tip_5lang": {
+                "de": "Warme Suppen sind jetzt genau das Richtige.",
+                "hu": "A meleg levesek most a legjobbak.",
+                "ro": "Supele calde sunt exact ce trebuie acum.",
+                "en": "Hot soups are just the thing right now."
+              }
+            },
+            {
+              "name": "Perczel Garden",
+              "tip_5lang": {
+                "de": "Zügiges Durchfahren, da es im Schatten der Bäume kälter ist.",
+                "hu": "Gyors áthaladás, mert a fák árnyékában hidegebb van.",
+                "ro": "Traversare rapidă, e mai frig la umbra copacilor.",
+                "en": "Ride through quickly, as it's colder in the shade of the trees."
+              }
+            },
+            {
+              "name": "Calvary Hill",
+              "tip_5lang": {
+                "de": "Abstieg bei Tageslicht planen, da die Sicht schnell abnimmt.",
+                "hu": "Nappali fénynél tervezze a lejövetelt, mert a látótávolság gyorsan csökken.",
+                "ro": "Planificați coborârea pe lumină, vizibilitatea scade rapid.",
+                "en": "Plan your descent during daylight, as visibility drops quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme, winddichte Handschuhe und Schuhüberzieher sind ein Muss.",
+              "Achten Sie auf Streusalz, das die Kette angreifen kann; danach reinigen.",
+              "Der Sonnenuntergang um 16:15 Uhr markiert das Ende der sicheren Fahrt.",
+              "Kalte Luft im Tal kann die Akkuleistung von E-Bikes drastisch senken.",
+              "Nutzen Sie die Museen als Etappenziele zum Durchwärmen."
+            ],
+            "hu": [
+              "Meleg, szélálló kesztyű és kamásli kötelező.",
+              "Ügyeljen az útszóró sóra, ami károsíthatja a láncot; túra után tisztítsa le.",
+              "A 16:15-ös naplemente jelzi a biztonságos bringázás végét.",
+              "A völgy hideg levegője drasztikusan csökkentheti az e-bike akkukapacitását.",
+              "Használja a múzeumokat a felmelegedés állomásaiként."
+            ],
+            "ro": [
+              "Mănușile groase, rezistente la vânt și protecțiile pentru pantofi sunt obligatorii.",
+              "Atenție la sarea de pe drum care poate ataca lanțul; curățați-l după tură.",
+              "Apusul de la 16:15 marchează sfârșitul cursei în siguranță.",
+              "Aerul rece din vale poate reduce drastic performanța bateriei la e-bike.",
+              "Folosiți muzeele ca puncte de oprire pentru a vă încălzi."
+            ],
+            "en": [
+              "Warm, windproof gloves and shoe covers are a must.",
+              "Watch out for road salt which can damage the chain; clean it after the ride.",
+              "Sunset at 4:15 PM marks the end of safe riding.",
+              "Cold valley air can drastically reduce e-bike battery performance.",
+              "Use museums as milestones to warm up thoroughly."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -868,6 +1284,178 @@
           "Plan enough time for walking within the clusters.",
           "Most sights are concentrated in the center and the Perczel Quarter."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Bonyhád bequem vom Auto aus, während der Regen die Landschaft des Völgység auffrischt. Parken Sie direkt im Zentrum für die Kirchenbesichtigungen und wechseln Sie dann zum Perczel-Viertel. Das Auto dient als trockene Basis zwischen den Stopps. Der Tag endet mit einer Fahrt zum Kalvarienberg, wo Sie die Aussicht bei Bedarf auch kurz aus dem Wagen genießen können.",
+            "hu": "Élvezze Bonyhádot kényelmesen az autóból, miközben az eső felfrissíti a Völgység táját. Parkoljon közvetlenül a központban a templomlátogatásokhoz, majd váltson a Perczel-negyedre. Az autó száraz bázisként szolgál a megállók között. A nap a Kálvária-dombra való felhajtással zárul, ahol szükség esetén a kocsiból is élvezheti a kilátást.",
+            "ro": "Bucurați-vă de Bonyhád confortabil din mașină, în timp ce ploaia împrospătează peisajul din Völgység. Parcați direct în centru pentru vizitarea bisericilor, apoi mutați-vă în cartierul Perczel. Mașina servește ca bază uscată între opriri. Ziua se încheie cu o plimbare spre Dealul Calvariei, unde puteți admira vederea și din mașină dacă este necesar.",
+            "en": "Enjoy Bonyhád comfortably from your car while the rain refreshes the Völgység landscape. Park directly in the center for church visits, then move to the Perczel Quarter. The car serves as a dry base between stops. The day ends with a drive to Calvary Hill, where you can enjoy the view from the car if needed."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Calvary Hill & Parking",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Aussichtspunkt, um den Regen zu meiden.",
+                "hu": "Parkoljon közel a kilátóponthoz, hogy elkerülje az esőt.",
+                "ro": "Parcați aproape de punctul de belvedere pentru a evita ploaia.",
+                "en": "Park close to the viewpoint to avoid the rain."
+              }
+            },
+            {
+              "name": "Cluster 2: Downtown on Foot",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz ermöglicht schnellen Zugang zu den Kirchen.",
+                "hu": "A központi parkoló gyors hozzáférést biztosít a templomokhoz.",
+                "ro": "Parcarea centrală permite accesul rapid la biserici.",
+                "en": "Central parking allows quick access to the churches."
+              }
+            },
+            {
+              "name": "Cluster 3: Perczel Cultural Quarter",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Museumseingang.",
+                "hu": "Parkoljon közvetlenül a múzeum bejáratánál.",
+                "ro": "Parcați chiar la intrarea muzeului.",
+                "en": "Park right at the museum entrance."
+              }
+            },
+            {
+              "name": "Lunch near Perczel Quarter",
+              "tip_5lang": {
+                "de": "Parkplätze vor dem Restaurant sind meist verfügbar.",
+                "hu": "Az étterem előtti parkolók általában szabadok.",
+                "ro": "Locurile de parcare din fața restaurantului sunt de obicei disponibile.",
+                "en": "Parking spots in front of the restaurant are usually available."
+              }
+            },
+            {
+              "name": "Farewell Coffee in the Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie Kurzzeitparkplätze für den schnellen Kaffeestopp.",
+                "hu": "Használja a rövid távú parkolókat a gyors kávészünethez.",
+                "ro": "Folosiți parcările de scurtă durată pentru o pauză rapidă de cafea.",
+                "en": "Use short-term parking for a quick coffee break."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkplätze im Zentrum sind bei Regen oft schneller belegt.",
+              "Halten Sie einen Regenschirm für den Weg vom Parkplatz bereit.",
+              "Die Sicht vom Kalvarienberg kann bei starkem Regen eingeschränkt sein.",
+              "Achten Sie auf Aquaplaning auf den Landstraßen rund um Bonyhád.",
+              "Nutzen Sie die Sitzheizung für extra Komfort zwischen den Stopps."
+            ],
+            "hu": [
+              "Az esőben a központi parkolók gyorsabban megtelhetnek.",
+              "Tartson kéznél esernyőt a parkolótól a bejáratig tartó útra.",
+              "A kilátás a Kálvária-dombról erős esőben korlátozott lehet.",
+              "Ügyeljen a vízfelúszásra a Bonyhád környéki utakon.",
+              "Használja az ülésfűtést az extra kényelemért a megállók között."
+            ],
+            "ro": [
+              "Parcările din centru se pot ocupa mai repede pe timp de ploaie.",
+              "Aveți la îndemână o umbrelă pentru drumul de la parcare la obiective.",
+              "Vizibilitatea de pe Dealul Calvariei poate fi limitată pe ploaie torențială.",
+              "Atenție la acvaplanare pe drumurile din jurul orașului Bonyhád.",
+              "Folosiți încălzirea în scaune pentru confort sporit între opriri."
+            ],
+            "en": [
+              "Central parking spots often fill up faster when it's raining.",
+              "Keep an umbrella handy for the walk from the parking lot.",
+              "Visibility from Calvary Hill may be limited during heavy rain.",
+              "Watch out for aquaplaning on the roads around Bonyhád.",
+              "Use seat heating for extra comfort between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch Bonyhád ist sicher und gemütlich. Erkunden Sie die historischen Stätten, während das Auto zwischen den Clustern aufwärmt. Der Vormittag am Kalvarienberg bietet oft einen klaren Blick auf die frostige Völgység. Nachmittags ist das Perczel-Viertel ein warmer Anlaufpunkt, bevor Sie den Tag bei einem heißen Getränk im Zentrum ausklingen lassen.",
+            "hu": "A téli autós körút Bonyhádon biztonságos és hangulatos. Fedezze fel a történelmi helyszíneket, miközben az autó bemelegszik a megállók között. A délelőtt a Kálvária-dombon gyakran tiszta rálátást nyújt a fagyos Völgységre. Délután a Perczel-negyed meleg találkozópont, mielőtt a napot egy forró itallal zárná a központban.",
+            "ro": "Un tur cu mașina iarna prin Bonyhád este sigur și primitor. Explorați siturile istorice în timp ce mașina se încălzește între opriri. Dimineața pe Dealul Calvariei oferă adesea o vedere clară asupra văii înghețate Völgység. După-amiaza, cartierul Perczel este un punct cald de oprire înainte de a încheia ziua cu o băutură fierbinte în centru.",
+            "en": "A winter car tour through Bonyhád is safe and cozy. Explore historical sites while the car warms up between clusters. The morning at Calvary Hill often provides a clear view of the frosty Völgység. In the afternoon, the Perczel Quarter is a warm destination before ending the day with a hot drink in the center."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Calvary Hill & Parking",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf der Zufahrtsstraße zum Hügel.",
+                "hu": "Vigyázzon a jegesedésre a dombra vezető úton.",
+                "ro": "Atenție la polei pe drumul de acces spre deal.",
+                "en": "Watch out for icy patches on the access road to the hill."
+              }
+            },
+            {
+              "name": "Cluster 2: Downtown on Foot",
+              "tip_5lang": {
+                "de": "Parken Sie zentral, um Laufwege im Frost kurz zu halten.",
+                "hu": "Parkoljon központilag, hogy lerövidítse a fagyos gyalogutat.",
+                "ro": "Parcați central pentru a scurta drumul pe jos prin ger.",
+                "en": "Park centrally to keep walking distances short in the frost."
+              }
+            },
+            {
+              "name": "Cluster 3: Perczel Cultural Quarter",
+              "tip_5lang": {
+                "de": "Gute Heizung in den Museumsräumen.",
+                "hu": "Jó fűtés a múzeumi termekben.",
+                "ro": "Încălzire bună în sălile muzeului.",
+                "en": "Good heating in the museum rooms."
+              }
+            },
+            {
+              "name": "Lunch near Perczel Quarter",
+              "tip_5lang": {
+                "de": "Warmer Stopp direkt neben dem Parkplatz.",
+                "hu": "Meleg megálló közvetlenül a parkoló mellett.",
+                "ro": "Oprire la căldură chiar lângă parcare.",
+                "en": "Warm stop right next to the parking lot."
+              }
+            },
+            {
+              "name": "Farewell Coffee in the Center",
+              "tip_5lang": {
+                "de": "Parkplatzsuche im Winter meist unproblematisch.",
+                "hu": "A parkolóhely-keresés télen általában problémamentes.",
+                "ro": "Căutarea locului de parcare este de obicei fără probleme iarna.",
+                "en": "Finding a parking spot is usually easy in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind für die hügelige Umgebung von Bonyhád Pflicht.",
+              "Achten Sie auf gefrierenden Nebel in der Tallage am Morgen.",
+              "Der Parkplatz am Kalvarienberg kann bei Schnee ungeräumt sein.",
+              "Planen Sie die Fahrt zum Aussichtspunkt vor Einbruch der Dunkelheit.",
+              "Ein Eiskratzer sollte im Wagen für die Abendstunden bereitliegen."
+            ],
+            "hu": [
+              "A téli gumi kötelező Bonyhád dombos környékén.",
+              "Ügyeljen a zúzmarás ködre a völgyben a reggeli órákban.",
+              "A Kálvária-dombi parkoló hó esetén letakarítatlan lehet.",
+              "A kilátópont meglátogatását sötétedés előttre tervezze.",
+              "A jégkaparó legyen kéznél az autóban az esti órákra."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii pentru zona deluroasă din Bonyhád.",
+              "Atenție la ceața care îngheață în vale în orele dimineții.",
+              "Parcarea de pe Dealul Calvariei poate fi nedezpezită în caz de ninsoare.",
+              "Planificați vizita la punctul de belvedere înainte de lăsarea întunericului.",
+              "Răzuitoarea de gheață trebuie să fie la îndemână pentru orele serii."
+            ],
+            "en": [
+              "Winter tires are mandatory for the hilly surroundings of Bonyhád.",
+              "Watch out for freezing fog in the valley during morning hours.",
+              "The Calvary Hill parking lot may not be cleared in case of snow.",
+              "Plan your drive to the viewpoint before darkness falls.",
+              "An ice scraper should be ready in the car for the evening hours."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1132,6 +1720,196 @@
           "Have small change ready for bus tickets.",
           "Most distances in the center are easily walkable, use the bus for longer hops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bonyhád lässt sich auch bei Regen gut mit öffentlichen Verkehrsmitteln und kurzen Fußwegen erkunden. Starten Sie am Busbahnhof und nutzen Sie die Kirchen als trockene Kulturstopps. Der Bus bringt Sie bequem zum Perczel-Viertel, wo Sie im Museum dem Wetter entfliehen können. Ein kurzer Bus-Trip zum Kalvarienberg rundet den Tag ab, bevor es zurück zum Bahnhof geht.",
+            "hu": "Bonyhád esőben is jól felfedezhető tömegközlekedéssel és rövid sétákkal. Kezdjen az autóbusz-állomáson, és használja a templomokat száraz kulturális megállóként. A busz kényelmesen elviszi a Perczel-negyedbe, ahol a múzeumban elmenekülhet az időjárás elől. Egy rövid buszos út a Kálvária-dombra zárja a napot, mielőtt visszatérne az állomásra.",
+            "ro": "Bonyhád poate fi explorat bine și pe ploaie folosind transportul public și scurte plimbări. Începeți la autogară și folosiți bisericile ca opriri culturale uscate. Autobuzul vă duce confortabil în cartierul Perczel, unde vă puteți adăposti de vreme în muzeu. O scurtă călătorie cu autobuzul spre Dealul Calvariei încheie ziua înainte de întoarcerea la gară.",
+            "en": "Bonyhád can be explored well even in the rain using public transport and short walks. Start at the bus station and use the churches as dry cultural stops. The bus takes you comfortably to the Perczel Quarter, where you can escape the weather in the museum. A short bus trip to Calvary Hill rounds off the day before returning to the station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus Station & Walk to Center",
+              "tip_5lang": {
+                "de": "Überdachte Wartebereiche am Busbahnhof vorhanden.",
+                "hu": "Fedett váróhelyek találhatók az autóbusz-állomáson.",
+                "ro": "Există zone de așteptare acoperite la autogară.",
+                "en": "Sheltered waiting areas are available at the bus station."
+              }
+            },
+            {
+              "name": "Catholic & Evangelical Churches",
+              "tip_5lang": {
+                "de": "Perfekte Indoor-Stopps zwischen den Busverbindungen.",
+                "hu": "Tökéletes beltéri megállók a buszjáratok között.",
+                "ro": "Opriri interioare perfecte între conexiunile de autobuz.",
+                "en": "Perfect indoor stops between bus connections."
+              }
+            },
+            {
+              "name": "Bus ride to Perczel Quarter",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrtzeit, um trocken zu bleiben.",
+                "hu": "Használja ki az utazási időt a szárazon maradáshoz.",
+                "ro": "Folosiți timpul de călătorie pentru a rămâne uscat.",
+                "en": "Use the travel time to stay dry."
+              }
+            },
+            {
+              "name": "Perczel Mansion, Museum & Garden",
+              "tip_5lang": {
+                "de": "Längerer Aufenthalt im Museum bei Regen empfohlen.",
+                "hu": "Esőben hosszabb múzeumi tartózkodás javasolt.",
+                "ro": "Se recomandă o ședere mai lungă la muzeu pe timp de ploaie.",
+                "en": "A longer stay at the museum is recommended during rain."
+              }
+            },
+            {
+              "name": "Bus ride to Calvary Hill",
+              "tip_5lang": {
+                "de": "Haltestelle direkt am Fuße des Hügels.",
+                "hu": "Megálló közvetlenül a domb lábánál.",
+                "ro": "Stație chiar la poalele dealului.",
+                "en": "Stop located right at the foot of the hill."
+              }
+            },
+            {
+              "name": "Return to Bus Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan per App, um Wartezeiten im Regen zu vermeiden.",
+                "hu": "Ellenőrizze a menetrendet appon, hogy elkerülje az esőben várakozást.",
+                "ro": "Verificați orarul pe aplicație pentru a evita așteptarea în ploaie.",
+                "en": "Check the schedule via app to avoid waiting in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Kleidung für die Wege zwischen den Haltestellen.",
+              "Die Fahrpläne der lokalen Busse sind im Museum oft ausgehängt.",
+              "Kirchen bieten guten Schutz, falls ein Bus Verspätung hat.",
+              "Haben Sie Kleingeld für Fahrkarten bereit, falls keine App genutzt wird.",
+              "Der Fußweg zum Kalvarienberg ist kurz, aber bei Regen rutschig."
+            ],
+            "hu": [
+              "Viseljen vízálló ruházatot a megállók közötti szakaszokra.",
+              "A helyi buszok menetrendje gyakran ki van függesztve a múzeumban.",
+              "A templomok jó védelmet nyújtanak, ha késik a busz.",
+              "Legyen kéznél aprópénz a jegyhez, ha nem appot használ.",
+              "A Kálvária-dombi gyalogút rövid, de esőben csúszós."
+            ],
+            "ro": [
+              "Purtați haine impermeabile pentru segmentele dintre stații.",
+              "Orarele autobuzelor locale sunt adesea afișate în muzeu.",
+              "Bisericile oferă protecție bună dacă autobuzul întârzie.",
+              "Aveți mărunt pentru bilete dacă nu folosiți o aplicație.",
+              "Drumul pe jos spre Dealul Calvariei este scurt, dar alunecos pe ploaie."
+            ],
+            "en": [
+              "Wear waterproof clothing for the segments between stops.",
+              "Local bus schedules are often posted in the museum.",
+              "Churches offer good shelter if a bus is delayed.",
+              "Have small change ready for tickets if not using an app.",
+              "The walk to Calvary Hill is short but slippery in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Bonyhád im Winter stressfrei mit dem Bus. Die beheizten Fahrzeuge bringen Sie sicher durch die Stadt. Der Vormittag im historischen Zentrum wird durch Besuche in den Kirchen und im Völgység-Museum bereichert. Mittags bietet das Perczel-Viertel eine gemütliche, warme Atmosphäre. Beenden Sie Ihre Tour am Kalvarienberg rechtzeitig vor Sonnenuntergang, bevor Sie zum warmen Busbahnhof zurückkehren.",
+            "hu": "Fedezze fel Bonyhádot télen stresszmentesen, busszal. A fűtött járművek biztonságosan viszik végig a városon. A délelőttöt a történelmi központban a templomok és a Völgység Múzeum látogatása teszi teljessé. Délben a Perczel-negyed hangulatos, meleg légkört kínál. Fejezze be a túrát a Kálvária-dombon időben a naplemente előtt, mielőtt visszatérne a fűtött állomásra.",
+            "ro": "Descoperiți Bonyhád iarna fără stres, cu autobuzul. Vehiculele încălzite vă poartă în siguranță prin oraș. Dimineața în centrul istoric este completată de vizitele la biserici și la Muzeul Völgység. La prânz, cartierul Perczel oferă o atmosferă caldă și primitoare. Încheiați turul pe Dealul Calvariei la timp înainte de apus, înainte de a reveni la autogara încălzită.",
+            "en": "Discover Bonyhád in winter stress-free by bus. The heated vehicles take you safely through the town. The morning in the historical center is enriched by visits to the churches and the Völgység Museum. At noon, the Perczel Quarter offers a cozy, warm atmosphere. Finish your tour on Calvary Hill in time before sunset, then head back to the heated bus station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus Station & Walk to Center",
+              "tip_5lang": {
+                "de": "Der Warteraum am Bahnhof ist beheizt.",
+                "hu": "Az állomás váróterme fűtött.",
+                "ro": "Sala de așteptare din autogară este încălzită.",
+                "en": "The waiting room at the station is heated."
+              }
+            },
+            {
+              "name": "Catholic & Evangelical Churches",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirchen als warme Zwischenstopps.",
+                "hu": "Használja a templomokat meleg köztes megállóként.",
+                "ro": "Folosiți bisericile ca opriri intermediare calde.",
+                "en": "Use the churches as warm intermediate stops."
+              }
+            },
+            {
+              "name": "Bus ride to Perczel Quarter",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht aus dem warmen Bus.",
+                "hu": "Élvezze a kilátást a meleg buszból.",
+                "ro": "Bucurați-vă de vedere din autobuzul încălzit.",
+                "en": "Enjoy the view from the warm bus."
+              }
+            },
+            {
+              "name": "Perczel Mansion, Museum & Garden",
+              "tip_5lang": {
+                "de": "Museumsbesuch ist ideal bei winterlichen Temperaturen.",
+                "hu": "A múzeumlátogatás ideális téli hőmérséklet mellett.",
+                "ro": "Vizita la muzeu este ideală la temperaturi de iarnă.",
+                "en": "A museum visit is ideal in winter temperatures."
+              }
+            },
+            {
+              "name": "Bus ride to Calvary Hill",
+              "tip_5lang": {
+                "de": "Kurze Fahrzeit zum Aussichtspunkt.",
+                "hu": "Rövid utazási idő a kilátóponthoz.",
+                "ro": "Timp scurt de călătorie spre punctul de belvedere.",
+                "en": "Short travel time to the viewpoint."
+              }
+            },
+            {
+              "name": "Return to Bus Station",
+              "tip_5lang": {
+                "de": "Letzte Busse vor dem Abend für die Rückreise nutzen.",
+                "hu": "Használja az esti előtti utolsó buszokat a hazajutáshoz.",
+                "ro": "Folosiți ultimele autobuze de dinainte de seară pentru retur.",
+                "en": "Use the last buses before evening for your return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie die selteneren Busverbindungen an Winterwochenenden.",
+              "Warme Kleidung ist für die Wartezeiten an den Haltestellen wichtig.",
+              "Nutzen Sie die beheizte Wartehalle am Hauptbusbahnhof.",
+              "Die Sonne geht früh unter; planen Sie die Rückfahrt gegen 16:30 Uhr.",
+              "Kameras beim Betreten warmer Räume vor Kondenswasser schützen."
+            ],
+            "hu": [
+              "Vegye figyelembe a ritkább buszjáratokat a téli hétvégéken.",
+              "Meleg ruházat fontos a megállókban való várakozáshoz.",
+              "Használja a fő autóbusz-állomás fűtött várótermét.",
+              "A nap korán nyugszik; tervezze a visszautat 16:30 körül.",
+              "Védje a fényképezőgépet a páralecsapódástól meleg helyre érve."
+            ],
+            "ro": [
+              "Țineți cont de frecvența redusă a autobuzelor în weekendurile de iarnă.",
+              "Îmbrăcămintea groasă este importantă pentru așteptarea în stații.",
+              "Folosiți sala de așteptare încălzită din autogara principală.",
+              "Soarele apune devreme; planificați drumul de întoarcere în jur de 16:30.",
+              "Protejați aparatele foto de condens la intrarea în spații calde."
+            ],
+            "en": [
+              "Be aware of less frequent bus services on winter weekends.",
+              "Warm clothing is important for waiting times at bus stops.",
+              "Use the heated waiting hall at the main bus station.",
+              "The sun sets early; plan your return trip around 4:30 PM.",
+              "Protect cameras from condensation when entering warm rooms."
+            ]
+          }
+        }
       }
     }
   }

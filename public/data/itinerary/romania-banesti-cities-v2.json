@@ -320,6 +320,188 @@
           "Respect the silence in the church.",
           "Some paths can be uneven, so be careful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Tag am Aurel-Vlaicu-Denkmal, wo der graue Himmel eine dramatische Kulisse bildet. Den Mittag verbringen Sie trocken im Heimatmuseum, dem idealen Rückzugsort. Am Nachmittag bietet der Park trotz Nässe eine melancholische Schönheit, gefolgt von der alten Steinbrücke. Den Abschluss bildet der Aussichtspunkt Prahova, von dem aus man die vorbeiziehenden Regenwolken über dem Tal beobachten kann.",
+            "hu": "A reggelt az Aurel Vlaicu emlékműnél kezdjük, ahol az esőfüggöny drámai hátteret ad a repülőgépnek. A délidőt a Helytörténeti Múzeumban töltjük, amely tökéletes menedék a zivatar elől. Délután a park és a régi kőhíd vizes kövei melankolikus hangulatot árasztanak. Az estét a Prahova-kilátónál zárjuk, figyelve a völgy felett gomolygó párát és felhőket.",
+            "ro": "Începeți dimineața ploioasă la Monumentul Aurel Vlaicu, unde cerul gri oferă un fundal dramatic. Amiaza este rezervată Muzeului de Istorie Locală, refugiul ideal împotriva ploii. După-amiaza, parcul și podul vechi de piatră capătă o frumusețe melancolică sub picăturile de apă. Seara se încheie la punctul de belvedere Prahova, de unde puteți observa norii care trec peste vale.",
+            "en": "Start your rainy morning at the Aurel Vlaicu Monument, where the grey skies provide a dramatic backdrop. Midday is best spent inside the Local History Museum, the perfect refuge from the downpour. In the afternoon, the park and the old stone bridge offer a moody, atmospheric walk. The evening concludes at the Prahova Viewpoint, watching the mist roll over the valley."
+          },
+          "stops": [
+            {
+              "name": "Aurel Vlaicu Monument",
+              "tip_4lang": {
+                "de": "Unter den Flügeln des Denkmals findet man kurzzeitig Schutz vor dem Nieselregen.",
+                "hu": "Az emlékmű szárnyai alatt rövid ideig menedéket találhatunk a szemerkélő eső elől.",
+                "ro": "Sub aripile monumentului puteți găsi un adăpost temporar împotriva burniței.",
+                "en": "You can find temporary shelter from the drizzle under the wings of the monument."
+              }
+            },
+            {
+              "name": "Local History Museum",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Zeit hier, um den stärksten Regenguss im Trockenen abzuwarten.",
+                "hu": "Használja ki az időt, hogy itt várja meg a leghevesebb zápor végét.",
+                "ro": "Folosiți timpul aici pentru a aștepta trecerea celei mai puternice averse.",
+                "en": "Use the time here to wait out the heaviest downpour in the dry."
+              }
+            },
+            {
+              "name": "St. George's Church",
+              "tip_4lang": {
+                "de": "Ein friedlicher, überdachter Ort für eine kurze Pause vom Regen.",
+                "hu": "Békés, fedett helyszín egy rövid pihenőhöz az eső elől.",
+                "ro": "Un loc liniștit și acoperit pentru o scurtă pauză de ploaie.",
+                "en": "A peaceful, covered spot for a short break from the rain."
+              }
+            },
+            {
+              "name": "Bănești Park",
+              "tip_4lang": {
+                "de": "Die asphaltierten Wege sind auch bei Nässe gut begehbar.",
+                "hu": "Az aszfaltozott utak esőben is jól járhatóak maradnak.",
+                "ro": "Potecile asfaltate rămân ușor de parcurs chiar și pe ploaie.",
+                "en": "The paved paths remain easily walkable even in wet conditions."
+              }
+            },
+            {
+              "name": "Old Stone Bridge",
+              "tip_4lang": {
+                "de": "Vorsicht, die alten Steine können bei Regen rutschig sein.",
+                "hu": "Vigyázat, a régi kövek esőben csúszósak lehetnek.",
+                "ro": "Atenție, pietrele vechi pot fi alunecoase pe ploaie.",
+                "en": "Caution, the old stones can be slippery when wet."
+              }
+            },
+            {
+              "name": "Prahova Viewpoint",
+              "tip_4lang": {
+                "de": "Bietet eine dramatische Aussicht auf das wolkenverhangene Tal.",
+                "hu": "Drámai kilátást nyújt a felhőkbe burkolózó völgyre.",
+                "ro": "Oferă o vedere dramatică asupra văii învăluite în nori.",
+                "en": "Offers a dramatic view of the cloud-covered valley."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Wege zwischen den Sehenswürdigkeiten.",
+              "Das Museum ist der beste Ort, um eine Regenpause einzulegen.",
+              "Ein Taschenschirm ist bei den windigen Abschnitten am Aussichtspunkt hilfreich.",
+              "Die Kirche bietet Schutz und Stille während eines Schauers."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a látnivalók közötti közlekedéshez.",
+              "A múzeum a legjobb hely egy hosszabb esőszünet tartására.",
+              "Egy összecsukható esernyő hasznos lehet a szeles kilátópontnál.",
+              "A templom menedéket és csendet nyújt a záporok idején."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru traseele dintre obiective.",
+              "Muzeul este cel mai bun loc pentru o pauză prelungită de ploaie.",
+              "O umbrelă pliabilă este utilă în secțiunile vântoase de la belvedere.",
+              "Biserica oferă adăpost și liniște în timpul unei averse."
+            ],
+            "en": [
+              "Wear waterproof shoes for the paths between attractions.",
+              "The museum is the best place for a longer rain break.",
+              "A compact umbrella is useful for the windy sections at the viewpoint.",
+              "The church provides shelter and quiet during a downpour."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie einen klaren Wintermorgen am Denkmal, wenn der Frost die Metallstruktur glitzern lässt. Mittags wärmen Sie sich in den Ausstellungsräumen des Heimatmuseums auf. Der Nachmittag führt durch den verschneiten Park zur alten Brücke, die im Winterlicht besonders malerisch wirkt. Der Tag endet früh mit einem Sonnenuntergang am Prahova-Aussichtspunkt, bevor die Kälte des Abends einsetzt.",
+            "hu": "A reggel friss és fagyos az emlékműnél, ahol a dér csillog a fémszerkezeten. Délben a Helytörténeti Múzeum fűtött termeiben melegedhetünk fel. Délután a havas parkon át vezet az út a régi kőhídhoz, amely téli fényben különösen festői. A nap korán ér véget a Prahova-kilátónál, még a sötétedés és az esti lehűlés előtt.",
+            "ro": "Dimineața este proaspătă și geroasă la monument, unde chiciura strălucește pe structura metalică. La amiază vă puteți încălzi în sălile muzeului de istorie. După-amiaza vă poartă prin parcul înzăpezit spre podul de piatră, care arată pitoresc în lumina iernii. Ziua se încheie devreme cu un apus la punctul de belvedere Prahova, înainte de lăsarea gerului.",
+            "en": "Experience a crisp winter morning at the monument, with frost glistening on the metal structure. At midday, warm up inside the heated rooms of the history museum. The afternoon takes you through the snowy park to the stone bridge, which looks picturesque in the winter light. The day ends early with a sunset at the Prahova Viewpoint before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Aurel Vlaicu Monument",
+              "tip_4lang": {
+                "de": "Morgens kann es hier sehr windig und kalt sein, kleiden Sie sich warm.",
+                "hu": "Reggelente itt nagyon szeles és hideg lehet, öltözzön rétegesen.",
+                "ro": "Dimineața poate fi foarte vântos și frig aici, îmbrăcați-vă gros.",
+                "en": "It can be very windy and cold here in the morning, dress warmly."
+              }
+            },
+            {
+              "name": "Local History Museum",
+              "tip_4lang": {
+                "de": "Ein idealer Ort, um die Kälte draußen für eine Weile zu vergessen.",
+                "hu": "Ideális hely, hogy egy időre elfelejtse a kinti hideget.",
+                "ro": "Un loc ideal pentru a uita de frigul de afară pentru o vreme.",
+                "en": "An ideal place to forget the cold outside for a while."
+              }
+            },
+            {
+              "name": "St. George's Church",
+              "tip_4lang": {
+                "de": "Beachten Sie die kürzeren Öffnungszeiten in der Wintersaison.",
+                "hu": "Ügyeljen a téli szezonban érvényes rövidebb nyitvatartási időre.",
+                "ro": "Atenție la programul mai scurt din timpul sezonului de iarnă.",
+                "en": "Note the shorter opening hours during the winter season."
+              }
+            },
+            {
+              "name": "Bănești Park",
+              "tip_4lang": {
+                "de": "Genießen Sie die Ruhe des winterlichen Parks, aber achten Sie auf Eis.",
+                "hu": "Élvezze a téli park nyugalmát, de ügyeljen a jeges foltokra.",
+                "ro": "Bucurați-vă de liniștea parcului hibernal, dar atenție la gheață.",
+                "en": "Enjoy the silence of the winter park, but watch out for icy patches."
+              }
+            },
+            {
+              "name": "Old Stone Bridge",
+              "tip_4lang": {
+                "de": "Die Brücke bietet ein tolles Fotomotiv bei Schnee.",
+                "hu": "A híd nagyszerű fotótéma, ha hó borítja a tájat.",
+                "ro": "Podul oferă un subiect excelent pentru fotografii când este zăpadă.",
+                "en": "The bridge makes for a great photo subject when covered in snow."
+              }
+            },
+            {
+              "name": "Prahova Viewpoint",
+              "tip_4lang": {
+                "de": "Planen Sie Ihre Ankunft vor 16:30 Uhr, um den Sonnenuntergang zu sehen.",
+                "hu": "Tervezze az érkezést 16:30 előtt, hogy láthassa a naplementét.",
+                "ro": "Planificați sosirea înainte de 16:30 pentru a prinde apusul.",
+                "en": "Plan to arrive before 4:30 PM to catch the winter sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Mehrlagige Kleidung ist für den Wechsel zwischen Drinnen und Draußen wichtig.",
+              "Die Sonne geht im Winter gegen 16:45 Uhr unter, planen Sie entsprechend.",
+              "Ein heißes Getränk in einer Thermoskanne hält Sie bei den Spaziergängen warm.",
+              "Achten Sie auf gestreute Wege, besonders in der Nähe des Flusses."
+            ],
+            "hu": [
+              "A réteges öltözködés fontos a kinti és benti helyszínek közötti váltáskor.",
+              "A nap télen 16:45 körül nyugszik, tervezze ehhez a napját.",
+              "Egy termoszban vitt forró ital melegen tartja a séták alatt.",
+              "Figyeljen a felszórt utakra, különösen a folyó közelében."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este esențială pentru trecerea de la interior la exterior.",
+              "Soarele apune în jur de 16:45 iarna, planificați ziua în consecință.",
+              "O băutură caldă într-un termos vă va prinde bine în timpul plimbărilor.",
+              "Atenție la porțiunile de drum cu polei, mai ales în apropierea râului."
+            ],
+            "en": [
+              "Layered clothing is essential for moving between indoor and outdoor spots.",
+              "The sun sets around 4:45 PM in winter, plan your day accordingly.",
+              "A hot drink in a thermos will keep you warm during the walks.",
+              "Watch for gritted paths, especially near the river area."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -657,6 +839,206 @@
           "Some roads might be steep, be prepared for climbs.",
           "Bring a lock to secure your bike at the stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Radtour durch das regnerische Bănești. Wir starten im Park, wo die Bäume Schutz bieten. Mittags besuchen wir das Vlaicu-Denkmal und die Kirche, die trockene Haltepunkte markieren. Am Nachmittag führt der Weg über die alte Brücke zum nebligen Aussichtspunkt. Der Tag endet sicher und trocken im Kulturhaus, wo man sich nach der Fahrt aufwärmen kann.",
+            "hu": "Frissítő kerékpártúra az esős Bănești-ben. A parkban kezdünk, ahol a fák némi védelmet nyújtanak. Délben az emlékműveket és a templomot érintjük, amelyek száraz megállókat jelentenek. Délután a régi hídon át tekerünk a párás kilátóhoz. A napot a Művelődési Házban zárjuk, ahol a túra után végre megszárítkozhatunk.",
+            "ro": "O tură revigorantă cu bicicleta prin Bănești-ul ploios. Începem în parc, unde copacii oferă oarecare protecție. La amiază vizităm monumentul și biserica, puncte de oprire uscate. După-amiaza drumul ne duce peste podul vechi spre belvederea cețoasă. Ziua se încheie în siguranță la Casa de Cultură, unde vă puteți încălzi după drum.",
+            "en": "A refreshing bike ride through rainy Bănești. We start in the park, where trees offer some cover. At midday, we visit the monument and church, marking dry stopping points. In the afternoon, the path leads over the old bridge to the misty viewpoint. The day ends safely and dry at the Cultural House, where you can warm up after the ride."
+          },
+          "stops": [
+            {
+              "name": "Bănești Park",
+              "tip_4lang": {
+                "de": "Vorsicht vor nassem Laub auf den Radwegen.",
+                "hu": "Vigyázzon a kerékpárutakon lévő nedves levelekre.",
+                "ro": "Atenție la frunzele ude de pe pistele de biciclete.",
+                "en": "Watch out for wet leaves on the bike paths."
+              }
+            },
+            {
+              "name": "Aurel Vlaicu Monument",
+              "tip_4lang": {
+                "de": "Kurzer Halt für ein Foto, bevor es weitergeht.",
+                "hu": "Gyors megálló egy fotóra, mielőtt továbbindulna.",
+                "ro": "O scurtă oprire pentru o fotografie înainte de a continua.",
+                "en": "A quick stop for a photo before moving on."
+              }
+            },
+            {
+              "name": "St. George's Church",
+              "tip_4lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach ab, falls möglich.",
+                "hu": "Ha lehetséges, támassza le a kerékpárt az előtető alatt.",
+                "ro": "Lăsați bicicleta sub streașină, dacă este posibil.",
+                "en": "Park your bike under the overhang if possible."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_4lang": {
+                "de": "Ein exponierter Ort, halten Sie sich bei Wind gut am Lenker fest.",
+                "hu": "Nyitott terület, szeles időben erősen markolja a kormányt.",
+                "ro": "Zonă expusă, țineți bine de ghidon în caz de vânt.",
+                "en": "An exposed spot, keep a firm grip on the handlebars if it's windy."
+              }
+            },
+            {
+              "name": "Old Stone Bridge",
+              "tip_4lang": {
+                "de": "Fahren Sie hier besonders langsam, Rutschgefahr!",
+                "hu": "Itt tekerjen különösen lassan, csúszásveszély!",
+                "ro": "Pedalați cu mare atenție aici, pericol de derapare!",
+                "en": "Cycle very slowly here, risk of slipping!"
+              }
+            },
+            {
+              "name": "Prahova Viewpoint",
+              "tip_4lang": {
+                "de": "Der Anstieg kann bei Regen anstrengender sein.",
+                "hu": "Az emelkedő esőben fárasztóbb lehet.",
+                "ro": "Urcarea poate fi mai solicitantă pe timp de ploaie.",
+                "en": "The climb can be more tiring in the rain."
+              }
+            },
+            {
+              "name": "Bănești Cultural House",
+              "tip_4lang": {
+                "de": "Endstation mit Abstellmöglichkeiten und Wärme.",
+                "hu": "Végállomás tárolóval és meleg belső térrel.",
+                "ro": "Punct final cu locuri de parcare și căldură.",
+                "en": "Final stop with bike racks and indoor warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter ein Muss.",
+              "Vermeiden Sie scharfes Bremsen auf der Steinbrücke.",
+              "Tragen Sie eine gut sichtbare Regenjacke.",
+              "Prüfen Sie vor der Abfahrt den Reifendruck für besseren Grip."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Kerülje a hirtelen fékezést a kőhídon.",
+              "Viseljen jól látható esőkabátot.",
+              "Indulás előtt ellenőrizze a guminyomást a jobb tapadásért."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii pe acest timp.",
+              "Evitați frânarea bruscă pe podul de piatră.",
+              "Purtați o jachetă de ploaie reflectorizantă.",
+              "Verificați presiunea în pneuri pentru o aderență mai bună."
+            ],
+            "en": [
+              "Fenders are a must-have in this weather.",
+              "Avoid sharp braking on the stone bridge.",
+              "Wear a high-visibility raincoat.",
+              "Check tire pressure before heading out for better grip."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start im Park mit glitzernden Wegen. Mittags radeln wir zu den Denkmälern und der Kirche, wobei die Bewegung warm hält. Am Nachmittag bietet die Fahrt zur Brücke und zum Aussichtspunkt klare Winterpanoramen. Wir beenden die Tour im gemütlichen Kulturhaus, wo wir die Fahrräder abstellen und uns aufwärmen können.",
+            "hu": "Fagyos kezdés a parkban, csillogó utakon. Délben az emlékművekhez és a templomhoz tekerünk, a mozgás segít melegen tartani. Délután a híd és a kilátó felé vezető út tiszta téli panorámát kínál. A túrát a barátságos Művelődési Házban zárjuk, ahol biztonságban lelakatolhatjuk a bringákat.",
+            "ro": "Un început geros în parc, cu alei înghețate. La amiază pedalăm spre monumente și biserică, mișcarea menținându-ne calzi. După-amiaza, drumul spre pod și belvedere oferă panorame de iarnă clare. Încheiem turul la Casa de Cultură, unde putem lăsa bicicletele și ne putem încălzi.",
+            "en": "A frosty start in the park with glistening paths. At midday, we cycle to the monuments and church, movement keeping us warm. In the afternoon, the ride to the bridge and viewpoint offers clear winter panoramas. We end the tour at the cozy Cultural House, where we can park the bikes and warm up."
+          },
+          "stops": [
+            {
+              "name": "Bănești Park",
+              "tip_4lang": {
+                "de": "Achten Sie auf gefrorene Pfützen in den Schattenbereichen.",
+                "hu": "Ügyeljen a fagyott tócsákra az árnyékos részeken.",
+                "ro": "Atenție la bălțile înghețate din zonele umbrite.",
+                "en": "Watch out for frozen puddles in shaded areas."
+              }
+            },
+            {
+              "name": "Aurel Vlaicu Monument",
+              "tip_4lang": {
+                "de": "Handschuhe nicht vergessen, der Lenker ist eiskalt.",
+                "hu": "Ne felejtse el a kesztyűt, a kormány jéghideg lesz.",
+                "ro": "Nu uitați mănușile, ghidonul este foarte rece.",
+                "en": "Don't forget gloves, the handlebars will be freezing."
+              }
+            },
+            {
+              "name": "St. George's Church",
+              "tip_4lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen im Inneren ist ratsam.",
+                "hu": "Tanácsos egy rövid megállót tartani bent a melegedéshez.",
+                "ro": "Se recomandă o scurtă oprire în interior pentru încălzire.",
+                "en": "A short stop to warm up inside is recommended."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_4lang": {
+                "de": "Die freie Fläche kann im Winter sehr zugig sein.",
+                "hu": "A nyitott tér télen nagyon huzatos és hideg lehet.",
+                "ro": "Spațiul deschis poate fi foarte vântos iarna.",
+                "en": "The open area can be very drafty and cold in winter."
+              }
+            },
+            {
+              "name": "Old Stone Bridge",
+              "tip_4lang": {
+                "de": "Vorsicht vor Glatteis auf dem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a jegesedésre a macskaköveken.",
+                "ro": "Atenție la polei pe porțiunile cu piatră cubică.",
+                "en": "Watch out for black ice on the cobblestones."
+              }
+            },
+            {
+              "name": "Prahova Viewpoint",
+              "tip_4lang": {
+                "de": "Klare Sicht auf die schneebedeckten Karpaten im Fernen.",
+                "hu": "Tiszta kilátás a távoli, hófödte Kárpátokra.",
+                "ro": "Vedere clară spre Munții Carpați înzăpeziți în depărtare.",
+                "en": "Clear views of the snow-capped Carpathians in the distance."
+              }
+            },
+            {
+              "name": "Bănești Cultural House",
+              "tip_4lang": {
+                "de": "Der perfekte Ort, um die Tour bei einer Tasse Tee zu beenden.",
+                "hu": "Tökéletes hely, hogy egy csésze teával zárja a túrát.",
+                "ro": "Locul perfect pentru a încheia turul cu o cană de ceai.",
+                "en": "The perfect place to end the tour with a cup of tea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche und winddichte Kleidung.",
+              "Achten Sie auf die verkürzte Tageslichtdauer.",
+              "Prüfen Sie Ihre Beleuchtung vor der Abfahrt.",
+              "Vermeiden Sie schattige Waldwege wegen Eisgefahr."
+            ],
+            "hu": [
+              "Viseljen termo-aláöltözetet és szélálló ruházatot.",
+              "Ügyeljen a lerövidült nappali világosságra.",
+              "Indulás előtt ellenőrizze a világítást.",
+              "Kerülje az árnyékos erdei utakat a fagyveszély miatt."
+            ],
+            "ro": [
+              "Purtați lenjerie termică și haine rezistente la vânt.",
+              "Țineți cont de durata scurtă a luminii naturale.",
+              "Verificați luminile bicicletei înainte de plecare.",
+              "Evitați drumurile umbrite prin pădure din cauza gheții."
+            ],
+            "en": [
+              "Wear thermal base layers and windproof outer clothing.",
+              "Be mindful of the shorter daylight hours.",
+              "Check your bike lights before starting.",
+              "Avoid shaded forest paths due to ice risk."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -953,6 +1335,170 @@
           "The roads can be narrow, so drive carefully.",
           "A GPS is helpful for finding the different clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Bănești bequem vom Auto aus. Wir starten bei den zentralen Denkmälern und der Kirche, die nur kurze Wege im Freien erfordern. Den Mittag verbringen wir im Museum, geschützt vor dem Regen. Am Nachmittag fahren wir zum Aussichtspunkt und zur Brücke, wobei wir die Landschaft trocken durch das Fenster bewundern können.",
+            "hu": "Fedezze fel Bănești-t kényelmesen az autóból. A központi emlékműveknél és a templomnál kezdünk, ahol csak rövid ideig kell a szabadban lennünk. A délidőt a múzeumban töltjük, védve az esőtől. Délután a kilátóhoz és a hídhoz autózunk, a tájat az ablakon át, szárazon csodálva.",
+            "ro": "Bucurați-vă de Bănești din confortul mașinii. Începem la monumentele centrale și biserică, ce necesită doar scurte deplasări în exterior. Amiaza o petrecem la muzeu, protejați de ploaie. După-amiaza conducem spre punctul de belvedere și pod, admirând peisajul prin geam, la adăpost.",
+            "en": "Enjoy Bănești from the comfort of your car. We start at the central monuments and church, requiring only short walks outside. Midday is spent at the museum, sheltered from the rain. In the afternoon, we drive to the viewpoint and bridge, admiring the landscape dry through the window."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Aurel Vlaicu Monument",
+              "tip_4lang": {
+                "de": "Parkplätze direkt am Denkmal vorhanden.",
+                "hu": "Parkolóhelyek közvetlenül az emlékmű mellett találhatók.",
+                "ro": "Locuri de parcare disponibile chiar lângă monument.",
+                "en": "Parking spaces available right next to the monument."
+              }
+            },
+            {
+              "name": "Center Cluster: St. George's Church",
+              "tip_4lang": {
+                "de": "Nur ein kurzer Sprint vom Parkplatz zum Eingang.",
+                "hu": "Csak egy rövid sprint a parkolótól a bejáratig.",
+                "ro": "Doar o scurtă fugă de la parcare până la intrare.",
+                "en": "Just a short sprint from the parking spot to the entrance."
+              }
+            },
+            {
+              "name": "Center Cluster: Local History Museum",
+              "tip_4lang": {
+                "de": "Perfekter Ort für einen längeren Aufenthalt bei Regen.",
+                "hu": "Tökéletes hely egy hosszabb tartózkodásra esőben.",
+                "ro": "Locul perfect pentru o ședere prelungită pe timp de ploaie.",
+                "en": "Perfect place for a longer stay during the rain."
+              }
+            },
+            {
+              "name": "Nature Cluster: Prahova Viewpoint",
+              "tip_4lang": {
+                "de": "Die Aussicht lässt sich auch bei Regen aus dem Auto genießen.",
+                "hu": "A kilátás esőben az autóból is élvezhető.",
+                "ro": "Vederea poate fi savurată din mașină chiar și pe ploaie.",
+                "en": "The view can be enjoyed from the car even in the rain."
+              }
+            },
+            {
+              "name": "Nature Cluster: Old Stone Bridge",
+              "tip_4lang": {
+                "de": "Vorsicht bei der Zufahrt, die Straßen können rutschig sein.",
+                "hu": "Vigyázzon a megközelítéskor, az utak csúszósak lehetnek.",
+                "ro": "Atenție la acces, drumurile pot fi alunecoase.",
+                "en": "Be careful on the approach, roads can be slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Scheibenwischer gut funktionieren.",
+              "Nutzen Sie die Parkmöglichkeiten nah an den Eingängen.",
+              "Halten Sie die Fenster einen Spalt offen gegen Beschlagen.",
+              "Vermeiden Sie tiefere Pfützen an den unbefestigten Rändern."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy az ablaktörlők jól működnek.",
+              "Használja a bejáratokhoz közeli parkolóhelyeket.",
+              "Tartsa az ablakot résnyire nyitva a párásodás ellen.",
+              "Kerülje a mélyebb tócsákat a kőpadkák mentén."
+            ],
+            "ro": [
+              "Asigurați-vă că ștergătoarele de parbriz funcționează bine.",
+              "Folosiți locurile de parcare apropiate de intrări.",
+              "Țineți geamul puțin întredeschis împotriva aburirii.",
+              "Evitați bălțile adânci de pe marginile neasfaltate."
+            ],
+            "en": [
+              "Make sure your windshield wipers are working well.",
+              "Use parking spots close to the entrances.",
+              "Keep the window slightly open to prevent fogging.",
+              "Avoid deep puddles along the unpaved edges."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Wintertour durch Bănești im beheizten Auto. Morgens besuchen wir die Denkmäler, wobei das Auto als warmer Rückzugsort dient. Mittags tauchen wir im Museum in die Geschichte ein. Der Nachmittag bietet spektakuläre Winteransichten vom Aussichtspunkt und der Brücke, bevor wir die Fahrt bei früher Dunkelheit beenden.",
+            "hu": "Hangulatos téli túra Bănești-ben a fűtött autó kényelmével. Reggel az emlékműveket keressük fel, az autó meleg menedékként szolgál a megállók között. Délben a múzeumban merülünk el a történelemben. Délután a kilátó és a híd kínál látványos téli panorámát, mielőtt a korai sötétedésben befejeznénk az utat.",
+            "ro": "Un tur de iarnă plăcut prin Bănești, în căldura mașinii. Dimineața vizităm monumentele, mașina servind ca refugiu cald între opriri. La amiază ne cufundăm în istoria locală la muzeu. După-amiaza oferă vederi spectaculoare de la belvedere și pod, înainte de a încheia drumul pe întuneric.",
+            "en": "A cozy winter tour through Bănești in the warmth of your car. In the morning, we visit the monuments, with the car serving as a warm refuge between stops. At midday, we dive into history at the museum. The afternoon offers spectacular winter views from the viewpoint and bridge before ending the trip as darkness falls early."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Aurel Vlaicu Monument",
+              "tip_4lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort várakozás közben.",
+                "ro": "Nu lăsați motorul pornit inutil în timp ce staționați.",
+                "en": "Don't leave the engine idling unnecessarily while stopped."
+              }
+            },
+            {
+              "name": "Center Cluster: St. George's Church",
+              "tip_4lang": {
+                "de": "Vorsicht vor Eis auf dem Gehweg zum Kircheingang.",
+                "hu": "Vigyázzon a templom bejáratához vezető jeges járdán.",
+                "ro": "Atenție la gheața de pe trotuarul spre intrarea în biserică.",
+                "en": "Watch out for ice on the walkway to the church entrance."
+              }
+            },
+            {
+              "name": "Center Cluster: Local History Museum",
+              "tip_4lang": {
+                "de": "Ein warmer Ort für eine ausgiebige Besichtigung.",
+                "hu": "Meleg helyszín egy alapos városnéző pihenőhöz.",
+                "ro": "Un loc cald pentru o vizită detaliată.",
+                "en": "A warm location for an extensive sightseeing break."
+              }
+            },
+            {
+              "name": "Nature Cluster: Prahova Viewpoint",
+              "tip_4lang": {
+                "de": "Prüfen Sie den Straßenzustand bei starkem Schneefall.",
+                "hu": "Erős havazás esetén ellenőrizze az útviszonyokat.",
+                "ro": "Verificați starea drumului în caz de ninsori abundente.",
+                "en": "Check road conditions in case of heavy snowfall."
+              }
+            },
+            {
+              "name": "Nature Cluster: Old Stone Bridge",
+              "tip_4lang": {
+                "de": "Die Brücke sieht im Winterlicht fantastisch aus.",
+                "hu": "A híd fantasztikusan mutat a téli fényekben.",
+                "ro": "Podul arată fantastic în lumina iernii.",
+                "en": "The bridge looks fantastic in the winter light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Rumänien bei Schnee und Eis gesetzlich vorgeschrieben.",
+              "Halten Sie die Scheiben frei von Eis und Beschlag.",
+              "Führen Sie einen Eiskratzer und Handfeger mit.",
+              "Planen Sie mehr Zeit für die Fahrt bei winterlichen Straßen ein."
+            ],
+            "hu": [
+              "Romániában a téli gumi kötelező havas, jeges utakon.",
+              "Tartsa jég- és páramentesen az ablakokat.",
+              "Legyen a kocsiban jégkaparó és kefe.",
+              "Téli útviszonyok között tervezzen hosszabb menetidőt."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în România pe drumuri cu zăpadă sau polei.",
+              "Păstrați geamurile curate, fără gheață sau abur.",
+              "Aveți în mașină o racletă și o perie pentru zăpadă.",
+              "Planificați mai mult timp pentru deplasare în condiții de iarnă."
+            ],
+            "en": [
+              "Winter tires are legally required in Romania on snowy and icy roads.",
+              "Keep the windows clear of ice and fog.",
+              "Carry an ice scraper and a snow brush in the car.",
+              "Allow more time for driving in winter road conditions."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1249,6 +1795,170 @@
           "A day pass can be worthwhile if you are planning several trips.",
           "Be prepared for waiting times at the stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Bănești mit dem Bus an einem regnerischen Tag. Wir beginnen im Park und fahren dann zum Kulturhaus, um trocken zu bleiben. Mittags besuchen wir die Kirche und die Denkmäler, wobei wir die Busverbindungen nutzen, um die Regenzeit draußen zu minimieren. Der Tag endet am Vlaicu-Denkmal, bevor wir den Heimweg antreten.",
+            "hu": "Fedezze fel Bănești-t busszal egy esős napon. A parkban kezdünk, majd a Művelődési Házhoz utazunk, hogy szárazon maradjunk. Délben a templomot és az emlékműveket keressük fel, a buszjáratokat használva, hogy minél kevesebb időt töltsünk az esőben. A napot a Vlaicu-emlékműnél zárjuk.",
+            "ro": "Descoperiți Bănești cu autobuzul într-o zi ploioasă. Începem în parc și apoi mergem la Casa de Cultură pentru a rămâne uscați. La amiază vizităm biserica și monumentele, folosind autobuzele pentru a minimiza timpul petrecut în ploaie. Ziua se încheie la monumentul Aurel Vlaicu.",
+            "en": "Explore Bănești by bus on a rainy day. We start in the park and then travel to the Cultural House to stay dry. At midday, we visit the church and monuments, using bus connections to minimize time spent in the rain. The day concludes at the Vlaicu Monument."
+          },
+          "stops": [
+            {
+              "name": "Park Cluster: Bănești Park",
+              "tip_4lang": {
+                "de": "Suchen Sie Schutz unter den großen Bäumen oder an der Haltestelle.",
+                "hu": "Keressen menedéket a nagy fák alatt vagy a buszmegállóban.",
+                "ro": "Căutați adăpost sub copacii mari sau în stația de autobuz.",
+                "en": "Seek shelter under the large trees or at the bus stop."
+              }
+            },
+            {
+              "name": "Park Cluster: Bănești Cultural House",
+              "tip_4lang": {
+                "de": "Ein hervorragender Ort, um sich im Trockenen aufzuhalten.",
+                "hu": "Kiváló helyszín, hogy fedett helyen töltsön el egy kis időt.",
+                "ro": "Un loc excelent pentru a petrece timpul la adăpost.",
+                "en": "An excellent place to spend some time in the dry."
+              }
+            },
+            {
+              "name": "Historic Cluster: St. George's Church",
+              "tip_4lang": {
+                "de": "Die Haltestelle ist nur wenige Gehminuten entfernt.",
+                "hu": "A buszmegálló csak néhány perc sétára található.",
+                "ro": "Stația de autobuz este la doar câteva minute de mers pe jos.",
+                "en": "The bus stop is just a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Historic Cluster: Heroes' Monument",
+              "tip_4lang": {
+                "de": "Halten Sie den Schirm gut fest, es kann windig sein.",
+                "hu": "Erősen fogja az esernyőt, szeles lehet az idő.",
+                "ro": "Țineți bine umbrela, poate fi vântos în această zonă.",
+                "en": "Hold your umbrella firmly, it can be windy here."
+              }
+            },
+            {
+              "name": "Historic Cluster: Aurel Vlaicu Monument",
+              "tip_4lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten für den Rückweg rechtzeitig.",
+                "hu": "Időben ellenőrizze a visszainduló buszok menetrendjét.",
+                "ro": "Verificați din timp programul autobuzelor de întoarcere.",
+                "en": "Check the return bus schedule in advance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie Kleingeld für Bustickets bereit.",
+              "Nutzen Sie die Wartehäuschen an den Haltestellen.",
+              "Planen Sie Pufferzeiten für mögliche Verzögerungen durch Regen ein.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zur Haltestelle."
+            ],
+            "hu": [
+              "Legyen Önnél aprópénz a buszjegyhez.",
+              "Használja a megállókban lévő várókat az eső elől.",
+              "Számoljon némi késéssel az esős közlekedés miatt.",
+              "Viseljen vízálló ruhát a megállókig tartó sétákhoz."
+            ],
+            "ro": [
+              "Aveți pregătit mărunțiș pentru biletele de autobuz.",
+              "Folosiți refugiile din stații pentru a vă proteja de ploaie.",
+              "Planificați timp suplimentar pentru eventuale întârzieri din cauza ploii.",
+              "Purtați haine impermeabile pentru drumul spre stație."
+            ],
+            "en": [
+              "Have small change ready for bus tickets.",
+              "Use the shelters at the bus stops to stay dry.",
+              "Allow extra time for potential rain-related traffic delays.",
+              "Wear waterproof clothing for the walks to the bus stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Ausflug mit öffentlichen Verkehrsmitteln. Wir starten im verschneiten Park und nutzen den Bus zum Kulturhaus, um uns zwischendurch aufzuwärmen. Mittags erkunden wir die historischen Stätten und beenden die Tour am Aurel-Vlaicu-Denkmal, bevor es am späten Nachmittag zu kalt für Besichtigungen wird.",
+            "hu": "Téli kirándulás tömegközlekedéssel. A havas parkban kezdünk, majd busszal megyünk a Művelődési Házhoz, hogy útközben felmelegedjünk. Délben a történelmi helyszíneket fedezzük fel, a túrát pedig az Aurel Vlaicu emlékműnél zárjuk, mielőtt késő délután túl hideg lenne a városnézéshez.",
+            "ro": "O excursie de iarnă cu transportul public. Începem în parcul înzăpezit și folosim autobuzul spre Casa de Cultură pentru a ne încălzi între opriri. La amiază explorăm siturile istorice și încheiem turul la monumentul Aurel Vlaicu, înainte de lăsarea gerului.",
+            "en": "A winter excursion using public transport. We start in the snowy park and take the bus to the Cultural House to warm up in between. At midday, we explore the historical sites and end the tour at the Aurel Vlaicu Monument before it gets too cold for sightseeing in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Park Cluster: Bănești Park",
+              "tip_4lang": {
+                "de": "Vorsicht bei glatten Wegen zur Bushaltestelle.",
+                "hu": "Vigyázzon a buszmegállóhoz vezető csúszós utakon.",
+                "ro": "Atenție la aleile alunecoase spre stația de autobuz.",
+                "en": "Watch out for slippery paths to the bus stop."
+              }
+            },
+            {
+              "name": "Park Cluster: Bănești Cultural House",
+              "tip_4lang": {
+                "de": "Ein gemütlicher, beheizter Ort zum Verweilen.",
+                "hu": "Kellemes, fűtött helyszín a várakozáshoz.",
+                "ro": "Un loc plăcut și încălzit pentru a petrece timpul.",
+                "en": "A pleasant, heated location to stay for a while."
+              }
+            },
+            {
+              "name": "Historic Cluster: St. George's Church",
+              "tip_4lang": {
+                "de": "Prüfen Sie, ob die Busse im Winter nach Plan fahren.",
+                "hu": "Ellenőrizze, hogy a buszok télen a menetrend szerint járnak-e.",
+                "ro": "Verificați dacă autobuzele circulă conform programului de iarnă.",
+                "en": "Check if buses are running according to the winter schedule."
+              }
+            },
+            {
+              "name": "Historic Cluster: Heroes' Monument",
+              "tip_4lang": {
+                "de": "Halten Sie sich in der Nähe der Haltestelle auf, um nicht auszukühlen.",
+                "hu": "Maradjon a megálló közelében, hogy ne hűljön ki túlságosan.",
+                "ro": "Stați în apropierea stației pentru a nu vă răci prea tare.",
+                "en": "Stay near the bus stop to avoid getting too cold."
+              }
+            },
+            {
+              "name": "Historic Cluster: Aurel Vlaicu Monument",
+              "tip_4lang": {
+                "de": "Beenden Sie die Tour frühzeitig wegen der Dunkelheit.",
+                "hu": "A sötétedés miatt fejezze be korán a városnézést.",
+                "ro": "Încheiați vizita devreme din cauza întunericului.",
+                "en": "Finish your visit early because of the falling darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warten Sie in beheizten Räumen, wann immer es möglich ist.",
+              "Achten Sie auf gestreute Gehwege an den Haltestellen.",
+              "Planen Sie bei Schneefall mehr Zeit für die Busfahrten ein.",
+              "Tragen Sie warme Schuhe für das Warten im Freien."
+            ],
+            "hu": [
+              "Amikor csak lehet, fűtött helyen várjon a buszra.",
+              "Figyeljen a megállóknál a felszórt járdákra.",
+              "Havazás esetén számoljon hosszabb menetidővel.",
+              "Viseljen meleg lábbelit a kinti várakozáshoz."
+            ],
+            "ro": [
+              "Așteptați în spații încălzite ori de câte ori este posibil.",
+              "Atenție la trotuarele cu antiderapant din stații.",
+              "Planificați mai mult timp pentru călătoria cu autobuzul dacă ninge.",
+              "Purtați încălțăminte călduroasă pentru așteptarea în exterior."
+            ],
+            "en": [
+              "Wait in heated spaces whenever possible.",
+              "Watch for gritted walkways at the bus stops.",
+              "Allow more time for bus journeys during snowfall.",
+              "Wear warm shoes for waiting outdoors."
+            ]
+          }
+        }
       }
     }
   }

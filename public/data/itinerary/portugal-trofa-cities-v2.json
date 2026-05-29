@@ -322,6 +322,200 @@
           "Bring a reusable water bottle.",
           "Check the opening hours of the churches in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im trockenen Fórum Trofa XXI, wo Kultur vor dem Regen schützt. Die Matriz-Kirche bietet mittags einen besinnlichen Rückzugsort. Nachmittags führt der Weg am Denkmal vorbei zum alten Bahnhof, dessen Architektur auch bei grauem Himmel glänzt. Den Abschluss bildet ein Spaziergang im Park der Nationen, wobei wasserfeste Kleidung für die Uferwege am Ave unerlässlich ist.",
+            "hu": "A napot a Fórum Trofa XXI fedett tereiben kezdjük, elkerülve az reggeli záport. Délben a központi templom nyújt csendes menedéket a város szívében. Délután a vasutas emlékmű érintésével a régi állomás épületét keressük fel, ahol az azulejo burkolat esőben is ragyog. Az estét a Nemzetek Parkjában zárjuk, ahol a burkolt sétányok sármentes közlekedést biztosítanak a folyóparton.",
+            "ro": "Începeți ziua la Fórum Trofa XXI, un spațiu cultural protejat de ploaie. La prânz, Biserica Matriz oferă un refugiu liniștit și uscat în centrul orașului. După-amiaza, vizitați vechea gară, a cărei arhitectură industrială rămâne impresionantă și pe vreme gri. Seara se încheie în Parcul Națiunilor, unde potecile pavate sunt ideale pentru o plimbare revigorantă pe malul râului Ave.",
+            "en": "Start your day inside Fórum Trofa XXI, a cultural hub perfect for dodging morning showers. By midday, the Mother Church provides a serene indoor retreat. In the afternoon, head to the Old Station to admire its tiled heritage under the safety of its eaves. End the day at the Park of Nations, where the well-paved paths ensure a comfortable walk even when the riverfront is damp."
+          },
+          "stops": [
+            {
+              "name": "Start at Fórum Trofa XXI",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Ausstellungen im Innenraum, um den ersten Regenschauer abzuwarten.",
+                "hu": "Használja ki a belső kiállításokat, amíg eláll a reggeli intenzív eső.",
+                "ro": "Vizitați expozițiile interioare în timp ce așteptați să treacă ploaia de dimineață.",
+                "en": "Enjoy the indoor exhibits while waiting for the morning rain to subside."
+              }
+            },
+            {
+              "name": "Mother Church of Trofa",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine trockene Pause inmitten der historischen Architektur.",
+                "hu": "Tökéletes helyszín egy száraz pihenőre a történelmi falak között.",
+                "ro": "Un loc ideal pentru o pauză uscată în mijlocul arhitecturii istorice.",
+                "en": "A perfect spot for a dry break amidst the historical architecture."
+              }
+            },
+            {
+              "name": "Monument to the Railway Worker",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; der Stein kann bei Nässe etwas rutschig sein.",
+                "hu": "Gyors fotómegálló; a kőburkolat nedvesen csúszóssá válhat.",
+                "ro": "Scurt popas pentru fotografii; pavajul poate fi alunecos când este ud.",
+                "en": "Quick photo stop; the stone pavement can be a bit slippery when wet."
+              }
+            },
+            {
+              "name": "Old Trofa Station",
+              "tip_5lang": {
+                "de": "Die überdachten Bahnsteige bieten Schutz beim Betrachten der Kachelkunst.",
+                "hu": "A fedett peronok védelmet nyújtanak az azulejo burkolatok megcsodálásához.",
+                "ro": "Peronul acoperit oferă protecție în timp ce admirați panourile de azulejos.",
+                "en": "The covered platforms provide shelter while you admire the tile panels."
+              }
+            },
+            {
+              "name": "Lunch near the river",
+              "coords": [
+                -8.568,
+                41.33
+              ],
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Blick auf den Fluss Ave, um trocken zu bleiben.",
+                "hu": "Válasszon folyóra néző éttermet, hogy szárazon élvezze a panorámát.",
+                "ro": "Alegeți un restaurant cu vedere la râul Ave pentru a rămâne la adăpost.",
+                "en": "Choose a restaurant with a view of the Ave river to stay dry."
+              }
+            },
+            {
+              "name": "Park of Nations",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, um Schlamm am Flussufer zu vermeiden.",
+                "hu": "Maradjon a kiépített utakon, hogy elkerülje a sárfoltokat a folyóparton.",
+                "ro": "Rămâneți pe aleile pavate pentru a evita noroiul de pe malul râului.",
+                "en": "Stick to the paved paths to avoid mud patches near the riverbank."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine leichte Regenjacke statt eines Schirms wegen der Windböen am Fluss.",
+              "Der alte Bahnhof bietet hervorragende überdachte Fotomotive.",
+              "Planen Sie mehr Zeit für die Innenbesichtigung der Kirche ein.",
+              "Tragen Sie Schuhe mit gutem Grip für die Kopfsteinpflasterabschnitte.",
+              "Cafés in der Nähe des Forums sind ideal für kurze Regenpausen."
+            ],
+            "hu": [
+              "Viseljen könnyű esőkabátot esernyő helyett a folyóparti szél miatt.",
+              "A régi állomás fedett peronjai kiváló fotóhelyszínek esőben is.",
+              "Szánjon több időt a templom belső terének felfedezésére.",
+              "A macskaköves szakaszokon csúszásmentes talpú cipő ajánlott.",
+              "A Fórum melletti kávézók ideálisak egy rövid kényszerpihenőre."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă ușoară în loc de umbrelă din cauza vântului de pe râu.",
+              "Peronul vechii gări oferă unghiuri excelente pentru poze chiar și pe ploaie.",
+              "Rezervați-vă mai mult timp pentru a explora interiorul bisericii.",
+              "Se recomandă încălțăminte cu talpă aderentă pentru zonele cu pavaj vechi.",
+              "Cafenelele de lângă Forum sunt ideale pentru scurte pauze de ploaie."
+            ],
+            "en": [
+              "Wear a light raincoat instead of an umbrella due to wind gusts near the river.",
+              "The old station's covered platforms offer great photo ops even in rain.",
+              "Allocate more time for exploring the interior of the Mother Church.",
+              "Non-slip footwear is recommended for the cobblestone sections.",
+              "Cafes near the Forum are ideal for short rainy-day breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenluft am Fórum Trofa XXI belebt den Geist vor dem kulturellen Start. Mittags wärmt das milde portugiesische Winterlicht die Fassade der Matriz-Kirche. Der Nachmittag gehört der Industriegeschichte am Bahnhof, bevor die frühe Dämmerung gegen 17:30 Uhr den Park der Nationen in sanftes Licht taucht. Ein wärmendes Abendessen in der Stadtmitte schließt den kühlen, aber klaren Tag ab.",
+            "hu": "A friss téli levegő a Fórum Trofa XXI-nél ébreszti fel a látogatót a kulturális kezdés előtt. Délben az enyhe portugál napsütés világítja meg a templom barokk részleteit. A délutáni séta a vasúti emlékek nyomában telik, majd az 17:30 körül beköszöntő korai alkonyat különleges hangulatot ad a Nemzetek Parkjának. A napot egy forró helyi étellel zárjuk a városközpontban.",
+            "ro": "Aerul proaspăt de iarnă de la Fórum Trofa XXI înviorează vizitatorul înainte de startul cultural. La prânz, soarele blând de iarnă luminează fațada Bisericii Matriz. După-amiaza este dedicată istoriei feroviare, iar amurgul timpuriu de la ora 17:30 scaldă Parcul Națiunilor într-o lumină caldă. Ziua se încheie cu o cină reconfortantă în centrul orașului.",
+            "en": "The crisp winter air at Fórum Trofa XXI energizes you before your cultural start. By midday, the gentle Portuguese winter sun warms the Mother Church's facade. Afternoon is spent tracing railway history at the station, while the early sunset around 5:30 PM paints the Park of Nations in soft hues. Wrap up the cool but clear day with a warm traditional dinner in the town center."
+          },
+          "stops": [
+            {
+              "name": "Start at Fórum Trofa XXI",
+              "tip_5lang": {
+                "de": "Die beheizten Galerien sind perfekt für einen gemütlichen Start am Morgen.",
+                "hu": "A fűtött galériák tökéletesek egy kényelmes reggeli kezdéshez.",
+                "ro": "Galeriile încălzite sunt perfecte pentru un început confortabil de zi.",
+                "en": "The heated galleries are perfect for a comfortable morning start."
+              }
+            },
+            {
+              "name": "Mother Church of Trofa",
+              "tip_5lang": {
+                "de": "Beobachten Sie das tiefe Winterlicht, das durch die Fenster fällt.",
+                "hu": "Figyelje meg az ablakokon beszűrődő alacsony állású téli napfényt.",
+                "ro": "Observați lumina slabă de iarnă care pătrunde prin ferestrele bisericii.",
+                "en": "Observe the low winter sunlight filtering through the church windows."
+              }
+            },
+            {
+              "name": "Monument to the Railway Worker",
+              "tip_5lang": {
+                "de": "Das Metall des Denkmals ist im Winter sehr kalt; Vorsicht beim Anfassen.",
+                "hu": "Az emlékmű fém részei télen nagyon hidegek; óvatosan érjen hozzájuk.",
+                "ro": "Metalul monumentului este foarte rece iarna; atenție dacă îl atingeți.",
+                "en": "The metal parts of the monument are very cold in winter; be careful if touching."
+              }
+            },
+            {
+              "name": "Old Trofa Station",
+              "tip_5lang": {
+                "de": "Windgeschützte Ecken finden sich auf der dem Fluss abgewandten Seite.",
+                "hu": "Szélvédett sarkokat a folyótól távolabbi oldalon találhatunk.",
+                "ro": "Găsiți colțuri ferite de vânt pe partea opusă râului.",
+                "en": "Find wind-sheltered corners on the side facing away from the river."
+              }
+            },
+            {
+              "name": "Lunch near the river",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz am Fenster, um die Wintersonne zu genießen.",
+                "hu": "Keressen ablak melletti asztalt, hogy élvezze a téli napsütést.",
+                "ro": "Căutați un loc la fereastră pentru a profita de soarele blând de iarnă.",
+                "en": "Look for a window seat to enjoy the winter sunshine during lunch."
+              }
+            },
+            {
+              "name": "Park of Nations",
+              "tip_5lang": {
+                "de": "Seien Sie gegen 17:15 Uhr hier, um den Sonnenuntergang über dem Ave zu sehen.",
+                "hu": "Érkezzen 17:15 körül, hogy elcsípje a naplementét az Ave folyó felett.",
+                "ro": "Sosiți în jur de ora 17:15 pentru a vedea apusul peste râul Ave.",
+                "en": "Arrive around 5:15 PM to catch the sunset over the Ave river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichtenkleidung ist wichtig, da es im Schatten am Fluss deutlich kühler ist.",
+              "Die Sonne geht früh unter; beenden Sie die Außenbesichtigungen bis 17:30 Uhr.",
+              "Genießen Sie eine heiße 'Sopa de Pedra' zum Mittagessen gegen die Kälte.",
+              "Morgens kann Raureif auf den Parkwegen liegen; Vorsicht beim Gehen.",
+              "Tragen Sie Handschuhe, wenn Sie die Eisenbahndenkmäler erkunden möchten."
+            ],
+            "hu": [
+              "A réteges öltözködés fontos, mert a folyóparti árnyékban sokkal hűvösebb van.",
+              "A nap korán nyugszik; a kültéri programokat fejezze be 17:30-ig.",
+              "Kóstoljon meg egy forró levest ebédre a hideg ellen.",
+              "Reggelente zúzmara lehet a park útjain; óvatosan közlekedjen.",
+              "Viseljen kesztyűt, ha a vasúti emlékműveket tüzetesebben megvizsgálná."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este esențială, deoarece la umbră, lângă râu, este mult mai rece.",
+              "Soarele apune devreme; terminați vizitele în exterior până la 17:30.",
+              "Savurați o supă caldă la prânz pentru a vă încălzi.",
+              "Dimineața poate apărea brumă pe aleile parcului; mergeți cu atenție.",
+              "Purtați mănuși dacă intenționați să explorați monumentele feroviare din metal."
+            ],
+            "en": [
+              "Layered clothing is essential as it is much cooler in the shade by the river.",
+              "The sun sets early; finish your outdoor sightseeing by 5:30 PM.",
+              "Enjoy a hot traditional soup for lunch to stay warm.",
+              "Frost may be present on park paths in the morning; walk carefully.",
+              "Wear gloves if you plan to closely examine the metal railway monuments."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -662,6 +856,214 @@
           "Wear a helmet.",
           "Some climbs can be challenging, be prepared."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Start im Park der Nationen erfordert heute volle Regenmontur. Die Lousado-Brücke muss wegen Rutschgefahr vorsichtig überquert werden, bevor der alte Bahnhof Unterstand bietet. Nach dem Mittagessen führt die Tour zur Kapelle von Fátima und zum Castro de Alvarelhos, wo die Wege bei Nässe technisch anspruchsvoller sind. Die Rückkehr ins Zentrum erfolgt über asphaltierte Straßen, um Schlamm zu vermeiden.",
+            "hu": "A Nemzetek Parkjából indulva ma teljes esőfelszerelésre lesz szükség. A Lousado-hidat óvatosan kell áttekerni a csúszós kövek miatt, mielőtt a régi állomáson pihenőt tartanánk. Ebéd után a Fátima-kápolna és Castro de Alvarelhos következik, ahol a földutak sárosak lehetnek. A városközpontba aszfaltozott utakon térünk vissza, kerülve a terepszakaszokat.",
+            "ro": "Un început revigorant în Parcul Națiunilor necesită astăzi echipament complet de ploaie. Podul Lousado trebuie traversat cu atenție din cauza riscului de alunecare, înainte de a găsi adăpost la vechea gară. După prânz, turul continuă spre capela Fátima și Castro de Alvarelhos, unde potecile pot fi noroioase. Revenirea în centru se face pe drumuri asfaltate pentru a evita noroiul.",
+            "en": "A refreshing start at the Park of Nations today requires full waterproof gear. Cross the Lousado Bridge carefully due to slippery stones before finding shelter at the Old Station. After lunch, the tour leads to the Fátima Chapel and Castro de Alvarelhos, where off-road sections might be muddy. Return to the center via paved roads to avoid the worst of the wet terrain."
+          },
+          "stops": [
+            {
+              "name": "Start at Parque das Nações",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie auf die nassen Uferwege fahren.",
+                "hu": "Ellenőrizze a fékeket, mielőtt a nedves folyóparti utakra indulna.",
+                "ro": "Verificați frânele înainte de a porni pe aleile umede de pe malul râului.",
+                "en": "Check your brakes before starting on the wet riverside paths."
+              }
+            },
+            {
+              "name": "Lousado Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht: Die alten Steine der Brücke sind bei Regen extrem glatt.",
+                "hu": "Vigyázat: A híd régi kövei esőben rendkívül csúszósak.",
+                "ro": "Atenție: Pietrele vechi ale podului sunt extrem de alunecoase pe ploaie.",
+                "en": "Caution: The old stones of the bridge are extremely slippery in the rain."
+              }
+            },
+            {
+              "name": "Old Trofa Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bereich für einen schnellen Check Ihrer Ausrüstung.",
+                "hu": "Használja a fedett területet a felszerelés gyors ellenőrzésére.",
+                "ro": "Folosiți zona acoperită pentru o verificare rapidă a echipamentului.",
+                "en": "Use the covered area for a quick check of your gear."
+              }
+            },
+            {
+              "name": "Mother Church of Trofa & Lunch",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradabstellplatz in der Nähe des Kircheneingangs verfügbar.",
+                "hu": "Biztonságos kerékpárparkoló a templombejárat közelében elérhető.",
+                "ro": "Parcare sigură pentru biciclete disponibilă lângă intrarea în biserică.",
+                "en": "Secure bike parking available near the church entrance."
+              }
+            },
+            {
+              "name": "Chapel of Our Lady of Fátima",
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Regen rutschig sein; schalten Sie in einen kleinen Gang.",
+                "hu": "Az emelkedő csúszós lehet esőben; váltson kissebb fokozatba.",
+                "ro": "Urcarea poate fi alunecoasă pe ploaie; folosiți o viteză inferioară.",
+                "en": "The climb can be slippery in the rain; switch to a lower gear."
+              }
+            },
+            {
+              "name": "Castro de Alvarelhos",
+              "tip_5lang": {
+                "de": "Meiden Sie die unbefestigten Pfade; bleiben Sie auf den Hauptwegen.",
+                "hu": "Kerülje a földutakat; maradjon a főbb közlekedési útvonalakon.",
+                "ro": "Evitați potecile de pământ; rămâneți pe drumurile principale.",
+                "en": "Avoid dirt tracks; stick to the main access paths."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen, die tiefe Schlaglöcher verbergen könnten.",
+                "hu": "Ügyeljen a tócsákra, amelyek mély kátyúkat rejthetnek.",
+                "ro": "Atenție la bălți, care pot ascunde gropi adânci.",
+                "en": "Watch out for puddles that might hide deep potholes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verringern Sie den Reifendruck leicht für besseren Grip auf nassem Asphalt.",
+              "Vermeiden Sie abruptes Bremsen auf den Kopfsteinpflasterstraßen der Trofa.",
+              "Ein Schutzblech ist heute unerlässlich, um trocken zu bleiben.",
+              "Nutzen Sie helle, reflektierende Kleidung bei schlechter Sicht durch Regen.",
+              "Nach der Tour die Kette reinigen, um Korrosion durch Straßenschmutz zu verhindern."
+            ],
+            "hu": [
+              "Csökkentse kissé a guminyomást a jobb tapadásért a nedves aszfalton.",
+              "Kerülje a hirtelen fékezést Trofa macskaköves utcáin.",
+              "A sárvédő ma elengedhetetlen a szárazon maradáshoz.",
+              "Használjon világos, fényvisszaverő ruházatot a rossz látási viszonyok miatt.",
+              "Túra után tisztítsa meg a láncot az útmenti sár okozta korrózió ellen."
+            ],
+            "ro": [
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe asfalt ud.",
+              "Evitați frânarea bruscă pe străzile pavate din Trofa.",
+              "Apărătorile de noroi sunt esențiale astăzi pentru a rămâne uscat.",
+              "Folosiți îmbrăcăminte reflectorizantă din cauza vizibilității reduse.",
+              "Curățați lanțul după tură pentru a preveni coroziunea cauzată de murdărie."
+            ],
+            "en": [
+              "Slightly lower your tire pressure for better grip on wet asphalt.",
+              "Avoid sudden braking on Trofa's cobblestone streets.",
+              "Mudguards are essential today to stay dry.",
+              "Use bright, reflective clothing due to poor visibility in the rain.",
+              "Clean your chain after the ride to prevent corrosion from road grime."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Wintermorgen beginnt mit einer Fahrt durch den klaren Park der Nationen. Über die Lousado-Brücke geht es zum alten Bahnhof, wo die Wintersonne die Kacheln beleuchtet. Nach einem kräftigen Mittagessen führt die Route bergauf zur Kapelle von Fátima und zum historischen Castro de Alvarelhos. Die Rückfahrt sollte vor Einbruch der Dunkelheit erfolgen, wenn die Temperaturen im Ave-Tal spürbar sinken.",
+            "hu": "A hűvös téli reggel a tiszta levegőjű Nemzetek Parkjában indul. A Lousado-hídon át tekerünk a régi állomáshoz, ahol a téli napfény megvilágítja a csempéket. Egy laktató ebéd után az út felfelé vezet a Fátima-kápolnához és a történelmi Castro de Alvarelhoshoz. A visszautat érdemes sötétedés előtt befejezni, amikor az Ave-völgyben hirtelen lehűl a levegő.",
+            "ro": "Dimineața rece de iarnă începe cu o tură prin Parcul Națiunilor. Treceți peste podul Lousado spre vechea gară, unde soarele de iarnă luminează plăcile ceramice. După un prânz consistent, traseul urcă spre capela Fátima și situl istoric Castro de Alvarelhos. Întoarcerea trebuie planificată înainte de lăsarea întunericului, când temperaturile scad brusc.",
+            "en": "The cool winter morning starts with a ride through the clear Park of Nations. Head over Lousado Bridge to the Old Station, where winter light hits the tiles beautifully. After a hearty lunch, the route climbs to Fátima Chapel and the historical Castro de Alvarelhos. Plan your return before dark, as temperatures in the Ave valley drop significantly after sunset."
+          },
+          "stops": [
+            {
+              "name": "Start at Parque das Nações",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die erste Abfahrt am Fluss.",
+                "hu": "Viseljen szélálló kesztyűt a folyóparti első szakaszhoz.",
+                "ro": "Purtați mănuși rezistente la vânt pentru prima parte a drumului de lângă râu.",
+                "en": "Wear windproof gloves for the first stretch along the river."
+              }
+            },
+            {
+              "name": "Lousado Bridge",
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Reifglätte in den frühen Morgenstunden.",
+                "hu": "Ügyeljen az esetleges zúzmarás, csúszós szakaszokra kora reggel.",
+                "ro": "Atenție la posibila polei sau brumă în orele dimineții.",
+                "en": "Watch out for potential frost or slippery spots in the early morning."
+              }
+            },
+            {
+              "name": "Old Trofa Station",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp hier hilft, die Finger vor der Weiterfahrt aufzuwärmen.",
+                "hu": "Egy rövid megálló itt segít átmelegíteni az ujjakat a folytatás előtt.",
+                "ro": "Un scurt popas aici ajută la încălzirea degetelor înainte de a continua.",
+                "en": "A short stop here helps warm up your fingers before continuing."
+              }
+            },
+            {
+              "name": "Mother Church of Trofa & Lunch",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Mittagssonne auf dem Platz vor der Kirche.",
+                "hu": "Élvezze a meleg déli napsütést a templom előtti téren.",
+                "ro": "Bucurați-vă de soarele cald de la prânz în piața din fața bisericii.",
+                "en": "Enjoy the warm midday sun in the square in front of the church."
+              }
+            },
+            {
+              "name": "Chapel of Our Lady of Fátima",
+              "tip_5lang": {
+                "de": "Durch die Anstrengung beim Aufstieg wird Ihnen hier oben schnell warm.",
+                "hu": "Az emelkedő okozta megerőltetéstől itt hamar át fog melegedni.",
+                "ro": "Efortul depus la urcare vă va ajuta să vă încălziți rapid.",
+                "en": "The effort of the climb will help you warm up quickly."
+              }
+            },
+            {
+              "name": "Castro de Alvarelhos",
+              "tip_5lang": {
+                "de": "Der Hügel ist ungeschützt; eine zusätzliche Schicht gegen den Wind ist ratsam.",
+                "hu": "A dombtető szeles; egy plusz réteg ruházat ajánlott a szél ellen.",
+                "ro": "Dealul este expus; se recomandă un strat suplimentar împotriva vântului.",
+                "en": "The hill is exposed; an extra layer against the wind is recommended."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Schalten Sie Ihr Licht rechtzeitig ein, da die Sicht im Winter schneller abnimmt.",
+                "hu": "Kapcsolja be időben a világítást, mert télen hamarabb romlik a látótávolság.",
+                "ro": "Aprindeți luminile din timp, deoarece vizibilitatea scade rapid iarna.",
+                "en": "Turn on your lights early, as visibility decreases faster in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Benutzen Sie Lippenbalsam gegen den kalten Fahrtwind im Ave-Tal.",
+              "Die Wintersonne steht tief; eine Sonnenbrille ist gegen Blendung nötig.",
+              "Trinken Sie auch bei Kälte genug; warme Getränke in der Thermoskanne helfen.",
+              "Achten Sie auf Schattenbereiche, dort bleibt der Boden länger feucht und kalt.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den frühen Abend voll geladen ist."
+            ],
+            "hu": [
+              "Használjon ajakírt a hideg menetszél ellen az Ave-völgyben.",
+              "A téli nap alacsonyan jár; napszemüveg szükséges a vakítás ellen.",
+              "Igyon eleget hidegben is; a termoszos meleg ital sokat segít.",
+              "Ügyeljen az árnyékos szakaszokra, ott az út tovább marad nedves és hideg.",
+              "Ellenőrizze, hogy a lámpák teljesen fel vannak-e töltve a korai sötétedéshez."
+            ],
+            "ro": [
+              "Folosiți balsam de buze împotriva vântului rece din valea Ave.",
+              "Soarele de iarnă este jos; ochelarii de soare sunt necesari contra orbirii.",
+              "Beți suficiente lichide; o băutură caldă în termos este de mare ajutor.",
+              "Atenție la zonele umbrite, unde drumul rămâne umed și rece mai mult timp.",
+              "Asigurați-vă că luminile bicicletei sunt încărcate pentru amurgul timpuriu."
+            ],
+            "en": [
+              "Use lip balm against the cold wind in the Ave valley.",
+              "The winter sun is low; sunglasses are needed to prevent glare.",
+              "Stay hydrated; warm drinks in a thermos are very helpful.",
+              "Watch out for shaded areas where the road stays damp and cold longer.",
+              "Ensure your bike lights are fully charged for the early sunset."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1026,6 +1428,232 @@
           "Be aware of toll roads in the region.",
           "A GPS is highly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour beginnt am Castro de Alvarelhos, wo man bei Regen kurze Wege zwischen Parkplatz und Ruinen nutzen sollte. Über die Kapelle von Fátima geht es zur Matriz-Kirche zum Mittagessen, wobei das Auto als trockener Rückzugsort dient. Der Nachmittag umfasst das Fórum Trofa XXI und die Lousado-Brücke. Der Tag endet am alten Bahnhof und dem Park der Nationen, wobei kurze Regenschauer im Wagen abgewartet werden können.",
+            "hu": "Az autós túra Castro de Alvarelhosnál indul, ahol esőben érdemes a parkolóhoz közeli romokra koncentrálni. A Fátima-kápolna érintésével érkezünk a központi templomhoz ebédre. Délután a Fórum Trofa XXI kínál fedett programot, majd a Lousado-híd következik. A napot a régi állomásnál és a Nemzetek Parkjánál zárjuk, a záporok alatt az autó kényelmes menedéket nyújt.",
+            "ro": "Turul cu mașina începe la Castro de Alvarelhos, unde pe ploaie e bine să vizitați zonele apropiate de parcare. Treceți pe la capela Fátima spre Biserica Matriz pentru prânz. După-amiaza include Fórum Trofa XXI și podul Lousado. Ziua se încheie la vechea gară și Parcul Națiunilor, mașina fiind refugiul perfect în timpul averselor.",
+            "en": "The car tour begins at Castro de Alvarelhos, where you should minimize walking distance to the ruins during rain. Continue via Fátima Chapel to the Mother Church for lunch. The afternoon features Fórum Trofa XXI and the Lousado Bridge. End the day at the Old Station and the Park of Nations, using the car as a dry base to wait out any sudden heavy showers."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Castro de Alvarelhos",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um im Trockenen zu bleiben.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az ázást.",
+                "ro": "Parcați cât mai aproape de intrare pentru a minimiza expunerea la ploaie.",
+                "en": "Park as close to the entrance as possible to stay dry."
+              }
+            },
+            {
+              "name": "Cluster A: Chapel of Our Lady of Fátima",
+              "tip_5lang": {
+                "de": "Vorsicht beim Ein- und Aussteigen auf der abschüssigen Straße bei Nässe.",
+                "hu": "Vigyázzon a lejtős úton való ki- és beszállásnál esős időben.",
+                "ro": "Atenție la urcarea și coborârea din mașină pe drumul în pantă când plouă.",
+                "en": "Be careful when getting in and out of the car on the sloped road in the rain."
+              }
+            },
+            {
+              "name": "Cluster B: Mother Church & Lunch",
+              "tip_5lang": {
+                "de": "Ein Regenschirm ist für den kurzen Weg vom Parkplatz zum Restaurant nötig.",
+                "hu": "Esernyő szükséges a parkolótól az étteremig tartó rövid szakaszhoz.",
+                "ro": "O umbrelă este necesară pentru distanța scurtă de la parcare la restaurant.",
+                "en": "An umbrella is needed for the short walk from the parking lot to the restaurant."
+              }
+            },
+            {
+              "name": "Cluster B: Monument to the Railway Worker",
+              "tip_5lang": {
+                "de": "Das Denkmal kann gut aus dem Auto heraus fotografiert werden.",
+                "hu": "Az emlékmű az autóból is jól látható és fotózható.",
+                "ro": "Monumentul poate fi fotografiat cu ușurință direct din mașină.",
+                "en": "The monument can be easily photographed from inside the car."
+              }
+            },
+            {
+              "name": "Cluster B: Fórum Trofa XXI",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus des Forums für einen komplett trockenen Zugang.",
+                "hu": "Használja a Fórum parkolóját a teljesen száraz bejutáshoz.",
+                "ro": "Folosiți parcarea Forumului pentru un acces complet uscat.",
+                "en": "Use the Forum's parking for completely dry access."
+              }
+            },
+            {
+              "name": "Cluster C: Lousado Bridge",
+              "tip_5lang": {
+                "de": "Die schmale Brückenzufahrt erfordert bei Regen erhöhte Konzentration.",
+                "hu": "A híd keskeny felhajtója esőben fokozott koncentrációt igényel.",
+                "ro": "Accesul îngust la pod necesită concentrare sporită pe ploaie.",
+                "en": "The narrow bridge access requires extra concentration in the rain."
+              }
+            },
+            {
+              "name": "Cluster C: Old Trofa Station",
+              "tip_5lang": {
+                "de": "Öffentliche Parkplätze befinden sich direkt vor dem Bahnhofsgebäude.",
+                "hu": "Nyilvános parkolók közvetlenül az állomásépület előtt találhatók.",
+                "ro": "Locuri de parcare publice se află chiar în fața clădirii gării.",
+                "en": "Public parking spots are located right in front of the station building."
+              }
+            },
+            {
+              "name": "Cluster C: Park of Nations",
+              "tip_5lang": {
+                "de": "Bei starkem Regen bietet das Auto den besten Panoramablick auf den Ave.",
+                "hu": "Heves esőben az autó nyújtja a legjobb panorámát az Ave folyóra.",
+                "ro": "În caz de ploaie torențială, mașina oferă cea mai bună vedere spre Ave.",
+                "en": "In case of heavy rain, the car offers the best panoramic view of the Ave."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Wischerblätter, da die Sicht im Ave-Tal schnell abnehmen kann.",
+              "Vermeiden Sie das Parken unter großen Bäumen bei Sturmgefahr am Fluss.",
+              "Nutzen Sie die Parkmöglichkeiten der Supermärkte für kurze Erledigungen.",
+              "Achten Sie auf Fußgänger mit Regenschirmen in den engen Gassen des Zentrums.",
+              "Lassen Sie die Klimaanlage laufen, um das Beschlagen der Scheiben zu verhindern."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket, mert a látási viszonyok gyorsan romolhatnak.",
+              "Kerülje a nagy fák alatti parkolást viharos szélben a folyó közelében.",
+              "Használja a szupermarketek parkolóit a gyorsabb megállásokhoz.",
+              "Ügyeljen az esernyős gyalogosokra a belváros szűk utcáiban.",
+              "Használja a klímát a szélvédők páramentesítésére esős időben."
+            ],
+            "ro": [
+              "Verificați ștergătoarele, deoarece vizibilitatea în valea Ave poate scădea rapid.",
+              "Evitați parcarea sub copaci mari dacă există risc de vijelie lângă râu.",
+              "Folosiți parcările supermarketurilor pentru opriri rapide.",
+              "Atenție la pietonii cu umbrele pe străzile înguste din centru.",
+              "Lăsați aerul condiționat pornit pentru a preveni aburirea geamurilor."
+            ],
+            "en": [
+              "Check wiper blades as visibility in the Ave valley can drop quickly.",
+              "Avoid parking under large trees if there's a risk of storms near the river.",
+              "Utilize supermarket parking lots for quick stops.",
+              "Watch out for pedestrians with umbrellas in the narrow center streets.",
+              "Keep the AC running to prevent the windshield from fogging up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag per Auto beginnt am Castro de Alvarelhos, wo die klare Luft weite Sicht bietet. Nach dem Besuch der Kapelle von Fátima lockt die warme Matriz-Kirche und ein gemütliches Mittagessen. Am Nachmittag lassen sich das Fórum Trofa XXI und die Lousado-Brücke bequem kombinieren. Den Abschluss bilden der alte Bahnhof und der Park der Nationen, wobei man im beheizten Wagen den frühen Sonnenuntergang genießen kann.",
+            "hu": "A téli autós nap Castro de Alvarelhosnál indul, ahol a tiszta levegő messzi kilátást enged. A Fátima-kápolna után a templom és egy hangulatos ebéd várja. Délután a Fórum Trofa XXI és a Lousado-híd kényelmesen elérhető autóval. A napot a régi állomásnál és a Nemzetek Parkjánál zárjuk, a fűtött utastérből csodálva a korai naplementét.",
+            "ro": "Ziua de iarnă cu mașina începe la Castro de Alvarelhos, cu vizibilitate maximă datorită aerului curat. După capela Fátima, vă așteaptă Biserica Matriz și un prânz cald. După-amiaza, Fórum Trofa XXI și podul Lousado pot fi vizitate confortabil. Finalul zilei la gară și Parcul Națiunilor oferă priveliștea apusului din confortul mașinii încălzite.",
+            "en": "Start your winter drive at Castro de Alvarelhos, where the crisp air offers far-reaching views. After visiting Fátima Chapel, head to the Mother Church and enjoy a cozy lunch. In the afternoon, Fórum Trofa XXI and Lousado Bridge are easily reached by car. End the day at the Old Station and the Park of Nations, watching the early sunset from your heated vehicle."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Castro de Alvarelhos",
+              "tip_5lang": {
+                "de": "Die Anfahrtshöhe bietet im Winter oft spektakuläre Panoramablicke.",
+                "hu": "A dombtető télen gyakran nyújt látványos panorámát a környékre.",
+                "ro": "Înălțimea sitului oferă adesea vederi panoramice spectaculoase iarna.",
+                "en": "The site's elevation often provides spectacular panoramic views in winter."
+              }
+            },
+            {
+              "name": "Cluster A: Chapel of Our Lady of Fátima",
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet die Kapelle am späten Vormittag besonders schön.",
+                "hu": "A téli napfény délelőtt különösen szépen világítja meg a kápolnát.",
+                "ro": "Soarele de iarnă luminează foarte frumos capela spre sfârșitul dimineții.",
+                "en": "The winter sun illuminates the chapel beautifully in the late morning."
+              }
+            },
+            {
+              "name": "Cluster B: Mother Church & Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz in der Sonne, um den Wagen warm zu halten.",
+                "hu": "Keressen napsütötte parkolóhelyet, hogy az autó melegen maradjon.",
+                "ro": "Căutați un loc de parcare însorit pentru a păstra mașina caldă.",
+                "en": "Look for a sunny parking spot to keep the car interior warm."
+              }
+            },
+            {
+              "name": "Cluster B: Monument to the Railway Worker",
+              "tip_5lang": {
+                "de": "Ein schneller Stopp; das Licht ist ideal für scharfe Kontrastfotos.",
+                "hu": "Gyors megálló; a fényviszonyok ideálisak a kontrasztos fotókhoz.",
+                "ro": "Un popas rapid; lumina este ideală pentru fotografii cu contrast puternic.",
+                "en": "A quick stop; the light is ideal for sharp, high-contrast photos."
+              }
+            },
+            {
+              "name": "Cluster B: Fórum Trofa XXI",
+              "tip_5lang": {
+                "de": "Das beheizte Innere ist ein willkommener Kontrast zur kühlen Außenluft.",
+                "hu": "A fűtött belső tér kellemes kontrasztot nyújt a kinti hűvös levegőhöz.",
+                "ro": "Interiorul încălzit este un contrast binevenit față de aerul rece de afară.",
+                "en": "The heated interior is a welcome contrast to the cool outside air."
+              }
+            },
+            {
+              "name": "Cluster C: Lousado Bridge",
+              "tip_5lang": {
+                "de": "Die Schattenbereiche unter der Brücke sind im Winter sehr frostanfällig.",
+                "hu": "A híd alatti árnyékos részek télen könnyen lefagyhatnak.",
+                "ro": "Zonele umbrite de sub pod sunt predispuse la îngheț iarna.",
+                "en": "The shaded areas under the bridge are prone to frost in winter."
+              }
+            },
+            {
+              "name": "Cluster C: Old Trofa Station",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne bringt die Farben der Kacheln zum Leuchten.",
+                "hu": "Az alacsony állású napfény gyönyörűen kiemeli a csempék színeit.",
+                "ro": "Soarele jos pune în valoare culorile plăcilor ceramice de pe fațadă.",
+                "en": "The low winter sun makes the colors of the tiles glow beautifully."
+              }
+            },
+            {
+              "name": "Cluster C: Park of Nations",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang direkt vom Parkplatz am Fluss.",
+                "hu": "Élvezze a naplementét közvetlenül a folyóparti parkolóból.",
+                "ro": "Bucurați-vă de apus direct din parcarea de lângă râu.",
+                "en": "Enjoy the sunset directly from the riverside parking area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte abfallen kann.",
+              "Morgens kann das Ave-Tal neblig sein; fahren Sie mit eingeschaltetem Licht.",
+              "Haben Sie einen Eiskratzer bereit, falls es über Nacht gefroren hat.",
+              "Die Parkplatzsuche im Zentrum ist im Winter oft entspannter.",
+              "Nutzen Sie die Sitzheizung für die kurzen Etappen zwischen den Sehenswürdigkeiten."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást, mert a hidegben az lecsökkenhet.",
+              "Reggelente az Ave-völgy ködös lehet; közlekedjen bekapcsolt világítással.",
+              "Legyen kéznél jégkaparó, ha éjszaka fagypont alá csökkent a hőmérséklet.",
+              "A belvárosi parkolás télen általában egyszerűbb és nyugodtabb.",
+              "Használja az ülésfűtést a látnivalók közötti rövid szakaszokon."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri, deoarece aceasta poate scădea la frig.",
+              "Dimineața, valea Ave poate fi cețoasă; conduceți cu luminile aprinse.",
+              "Aveți pregătită o racletă pentru gheață în caz de îngheț nocturn.",
+              "Găsirea unui loc de parcare în centru este mai ușoară iarna.",
+              "Folosiți încălzirea în scaune pentru distanțele scurte dintre obiective."
+            ],
+            "en": [
+              "Check tire pressure as it can drop in colder temperatures.",
+              "The Ave valley can be foggy in the morning; drive with lights on.",
+              "Have an ice scraper ready in case of overnight frost.",
+              "Finding parking in the center is usually easier during the winter.",
+              "Use seat heaters for the short drives between sightseeing spots."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1342,6 +1970,196 @@
           "Check bus schedules online.",
           "Have some small change ready for tickets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Bahnhof Trofa, einem idealen trockenen Startpunkt. Das Eisenbahnerdenkmal und die Matriz-Kirche sind nur kurze Wege entfernt. Mittags bietet die Fahrt zum Park der Nationen Entspannung, während man die Regenlandschaft aus dem Bus betrachtet. Nach der Lousado-Brücke endet die Tour im Fórum Trofa XXI, wo kulturelle Angebote im Inneren den Regentag perfekt abschließen.",
+            "hu": "A nap a trofai állomáson indul, amely kiváló fedett bázis esőben is. A vasutas emlékmű és a templom sétatávolságra van. Délben a Nemzetek Parkjába tartó buszozás alatt megcsodálhatjuk az esős tájat. A Lousado-híd után a napot a Fórum Trofa XXI-ben zárjuk, ahol a belső kiállítások és programok feledtetik a borús időjárást.",
+            "ro": "Ziua începe la gara Trofa, un punct de plecare ideal și uscat. Monumentul feroviarului și Biserica Matriz sunt la mică distanță. La prânz, călătoria spre Parcul Națiunilor oferă relaxare în timp ce priviți ploaia pe geamul autobuzului. După podul Lousado, turul se încheie la Fórum Trofa XXI, cu activități interioare perfecte pentru o zi ploioasă.",
+            "en": "The day starts at Trofa Station, an ideal dry base for a rainy day. The Railway Monument and Mother Church are just short walks away. By midday, take a bus to the Park of Nations and enjoy the rainy scenery from your seat. After visiting Lousado Bridge, finish at Fórum Trofa XXI, where indoor cultural offerings provide a perfect end to the day."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Start at Trofa Station",
+              "tip_5lang": {
+                "de": "Das moderne Bahnhofsgebäude bietet perfekten Schutz vor Regen.",
+                "hu": "A modern állomásépület tökéletes védelmet nyújt az eső elől.",
+                "ro": "Clădirea modernă a gării oferă protecție perfectă împotriva ploii.",
+                "en": "The modern station building provides perfect protection from the rain."
+              }
+            },
+            {
+              "name": "Cluster A: Monument to the Railway Worker",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg vom Bahnhof entfernt; ideal für ein schnelles Foto.",
+                "hu": "Csak 2 perc séta az állomástól; ideális egy gyors fotóra két zápor között.",
+                "ro": "La doar 2 minute de mers pe jos de gară; ideal pentru o poză rapidă.",
+                "en": "Only a 2-minute walk from the station; ideal for a quick photo."
+              }
+            },
+            {
+              "name": "Cluster A: Mother Church of Trofa",
+              "tip_5lang": {
+                "de": "Warten Sie hier den nächsten Regenschauer in aller Ruhe ab.",
+                "hu": "Várja meg itt nyugodt körülmények között a következő zápor végét.",
+                "ro": "Așteptați aici în liniște trecerea următoarei averse de ploaie.",
+                "en": "Wait out the next rain shower here in total tranquility."
+              }
+            },
+            {
+              "name": "Cluster B: Ride to Parque das Nações & Lunch",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle befindet sich in unmittelbarer Nähe zum Parkeingang.",
+                "hu": "A buszmegálló közvetlenül a park bejáratának közelében található.",
+                "ro": "Stația de autobuz se află în imediata apropiere a intrării în parc.",
+                "en": "The bus stop is located in the immediate vicinity of the park entrance."
+              }
+            },
+            {
+              "name": "Cluster B: Lousado Bridge",
+              "tip_5lang": {
+                "de": "Vom Bus aus hat man bei Regen oft den besten Blick auf die Brücke.",
+                "hu": "A buszablakból esőben is kiváló kilátás nyílik a hídra.",
+                "ro": "De pe geamul autobuzului aveți adesea cea mai bună vedere spre pod.",
+                "en": "You often get the best view of the bridge from the bus window during rain."
+              }
+            },
+            {
+              "name": "Cluster C: Ride to Fórum Trofa XXI",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor dem Eingang des Kulturzentrums.",
+                "hu": "A busz szinte közvetlenül a kulturális központ bejárata előtt áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața intrării în centrul cultural.",
+                "en": "The bus stops almost directly in front of the cultural center entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die offizielle App für Echtzeit-Infos zu Busverspätungen bei Regen.",
+              "Haben Sie Ihr Ticket oder Kleingeld griffbereit, um nicht im Regen zu suchen.",
+              "Bahnhöfe und Busstationen in Trofa sind meist gut überdacht.",
+              "Achten Sie auf nasse Böden in den Bussen; es besteht Rutschgefahr.",
+              "Wählen Sie einen Fensterplatz auf der rechten Seite für den besten Flussblick."
+            ],
+            "hu": [
+              "Használja a hivatalos alkalmazást a buszok valós idejű követéséhez esőben.",
+              "Tartsa készenlétben a jegyét vagy az aprópénzt, ne az esőben keresgéljen.",
+              "A trofai vasút- és buszmegállók többnyire jól fedettek.",
+              "Vigyázzon a buszok padlójára, esőben csúszóssá válhat.",
+              "Válasszon jobb oldali ablak melletti helyet a legjobb folyóparti kilátáshoz."
+            ],
+            "ro": [
+              "Utilizați aplicația oficială pentru informații în timp real despre autobuze.",
+              "Aveți biletul sau banii pregătiți pentru a nu căuta prin bagaje în ploaie.",
+              "Gările și stațiile de autobuz din Trofa sunt în general bine acoperite.",
+              "Atenție la podeaua autobuzelor, care poate deveni alunecoasă pe ploaie.",
+              "Alegeți un loc la geam pe partea dreaptă pentru cea mai bună vedere spre râu."
+            ],
+            "en": [
+              "Use the official app for real-time bus info during rainy delays.",
+              "Have your ticket or exact change ready to avoid searching in the rain.",
+              "Train and bus stations in Trofa are mostly well-sheltered.",
+              "Be careful on bus floors as they can become slippery when wet.",
+              "Choose a window seat on the right side for the best river views."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt am modernen Bahnhof Trofa. Nach kurzen Wegen zum Eisenbahnerdenkmal und zur Matriz-Kirche wärmt man sich mittags im Bus zum Park der Nationen auf. Der Nachmittag bietet Ausblicke auf die Lousado-Brücke, bevor die Tour im Fórum Trofa XXI endet. Die Rückfahrt zum Bahnhof erfolgt in der frühen Dämmerung, wenn die Stadtlichter von Trofa eine gemütliche Atmosphäre schaffen.",
+            "hu": "A tiszta téli nap a modern trofai állomáson indul. Rövid séta után a vasutas emlékmű és a templom várja, majd délben a Nemzetek Parkjába tartó buszon melegedhetünk fel. Délután a Lousado-híd környékét fedezzük fel, végül a Fórum Trofa XXI programjai zárják a napot. A buszos visszaút alatt a város esti fényei már hangulatos keretet adnak a kirándulásnak.",
+            "ro": "O zi senină de iarnă începe la gara modernă din Trofa. După vizite scurte la monument și biserică, vă puteți încălzi în autobuzul spre Parcul Națiunilor. După-amiaza oferă vederi spre podul Lousado, înainte de a încheia la Fórum Trofa XXI. Întoarcerea cu autobuzul la amurg oferă o perspectivă caldă asupra orașului iluminat.",
+            "en": "A clear winter day starts at the modern Trofa Station. After short walks to the Railway Monument and Mother Church, warm up on the bus ride to the Park of Nations. Afternoon offers views of the Lousado Bridge before concluding at Fórum Trofa XXI. The bus ride back in the early twilight showcases Trofa’s evening lights in a cozy atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Start at Trofa Station",
+              "tip_5lang": {
+                "de": "Die Wartehalle ist im Winter angenehm temperiert.",
+                "hu": "A váróterem télen is kellemes hőmérsékletű.",
+                "ro": "Sala de așteptare este menținută la o temperatură plăcută iarna.",
+                "en": "The waiting hall is kept at a pleasant temperature in winter."
+              }
+            },
+            {
+              "name": "Cluster A: Monument to the Railway Worker",
+              "tip_5lang": {
+                "de": "Das klare Winterlicht ist ideal für detailreiche Fotos der Statue.",
+                "hu": "A tiszta téli fény ideális a szobor részletgazdag fotózásához.",
+                "ro": "Lumina clară de iarnă este ideală pentru fotografii detaliate ale statuii.",
+                "en": "The clear winter light is ideal for detailed photos of the statue."
+              }
+            },
+            {
+              "name": "Cluster A: Mother Church of Trofa",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und die kühle, heilige Atmosphäre im Inneren.",
+                "hu": "Élvezze a csendet és a belső tér hűvös, áhítatos hangulatát.",
+                "ro": "Bucurați-vă de liniștea și atmosfera solemnă din interior.",
+                "en": "Enjoy the silence and the cool, solemn atmosphere inside."
+              }
+            },
+            {
+              "name": "Cluster B: Ride to Parque das Nações & Lunch",
+              "tip_5lang": {
+                "de": "Busse sind im Winter gut beheizt; ideal zum Aufwärmen zwischen den Stopps.",
+                "hu": "A buszok télen jól fűtöttek; ideálisak az átmelegedéshez a megállók között.",
+                "ro": "Autobuzele sunt bine încălzite iarna; ideale pentru a vă încălzi între opriri.",
+                "en": "Buses are well-heated in winter; ideal for warming up between stops."
+              }
+            },
+            {
+              "name": "Cluster B: Lousado Bridge",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne sorgt für lange Schattenwürfe auf der Brücke.",
+                "hu": "Az alacsony állású nap hosszú árnyékokat vet a híd környékén.",
+                "ro": "Soarele jos creează umbre lungi și spectaculoase pe pod.",
+                "en": "The low sun creates long, dramatic shadows around the bridge."
+              }
+            },
+            {
+              "name": "Cluster C: Ride to Fórum Trofa XXI",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Fahrpläne für die Rückfahrt nach 17:00 Uhr.",
+                "hu": "Ügyeljen a menetrendre a 17:00 óra utáni visszautazáshoz.",
+                "ro": "Verificați programul pentru călătoria de întoarcere după ora 17:00.",
+                "en": "Check the schedule for your return trip after 5:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge und Busse verkehren im Winter zuverlässig nach Plan.",
+              "Die Dämmerung beginnt früh; planen Sie Ihre Rückreise zum Bahnhof bis 17:30 Uhr.",
+              "Halten Sie sich in den Wartebereichen in der Nähe der Heizungen auf.",
+              "Warme Kleidung ist für die Wartezeiten an den Bushaltestellen wichtig.",
+              "Nutzen Sie die Zeit im Bus, um Ihre Fotos des Tages zu sichten."
+            ],
+            "hu": [
+              "A vonatok és buszok télen is megbízhatóan, menetrend szerint járnak.",
+              "Korán sötétedik; a vasútállomáshoz való visszautat tervezze 17:30-ig.",
+              "A várótermekben keressen helyet a fűtőtestek közelében.",
+              "A buszmegállókban való várakozáshoz elengedhetetlen a meleg ruházat.",
+              "Használja ki a buszon töltött időt a nap folyamán készült képek válogatására."
+            ],
+            "ro": [
+              "Trenurile și autobuzele circulă conform programului și iarna.",
+              "Se întunecă devreme; planificați întoarcerea la gară până la ora 17:30.",
+              "În sălile de așteptare, căutați locuri lângă sursele de căldură.",
+              "Îmbrăcămintea groasă este esențială pentru timpul petrecut în stații.",
+              "Folosiți timpul din autobuz pentru a revizui fotografiile făcute peste zi."
+            ],
+            "en": [
+              "Trains and buses run reliably according to the schedule in winter.",
+              "Sunset is early; plan your return to the station by 5:30 PM.",
+              "Look for seats near heaters in the waiting areas.",
+              "Warm clothing is essential for waiting at bus stops.",
+              "Use your time on the bus to review the photos you've taken during the day."
+            ]
+          }
+        }
       }
     }
   }

@@ -241,6 +241,224 @@
           "Look out for the hidden coats of arms on the palace walls.",
           "In high season, it's quietest in the morning."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Landtor, wo der glänzende Kalkstein die Regentropfen reflektiert. Ein kurzer Sprint zum Stadtmuseum bietet Schutz und Einblicke in die Geschichte.\n\nMittags suchen wir Zuflucht im Cipiko-Palast und der Kathedrale. Das Trommeln des Regens auf dem Kirchendach schafft eine andächtige Atmosphäre.\n\nNachmittags schlendern wir unter den Arkaden der Stadtloggia und besuchen den Fürstenpalast. Die engen Gassen der Altstadt bieten natürlichen Schutz vor Wind.\n\nDer Tag endet an der Festung Kamerlengo. Der graue Himmel über der Adria verleiht den alten Mauern eine dramatische, fast mystische Ausstrahlung.",
+            "hu": "A reggel a Szárazföldi kapunál indul, ahol a vizes mészkő tükrözi az esőcseppeket. Gyors menedéket találunk a Városi Múzeumban, miközben Trogir múltját ismerjük meg.\n\nDélben a Cipiko-palota és a Székesegyház belső terei nyújtanak oltalmat. Az eső kopogása a tetőn különleges, meghitt hangulatot áraszt a falak között.\n\nDélután a Városi Loggia árkádjai alatt pihenünk, majd a hercegi palota felé vesszük az irányt. A szűk utcák jól védenek a széltől.\n\nAz este a Kamerlengo várnál ér minket. A ködös Adria és a szürke égbolt drámai, történelmi keretbe foglalja a középkori várfalakat.",
+            "ro": "Dimineața începe la Poarta de pe uscat, unde calcarul ud reflectă picăturile de ploaie. Ne adăpostim rapid în Muzeul Orașului pentru o lecție de istorie.\n\nLa prânz, Palatul Cipiko și Catedrala oferă refugiul perfect. Sunetul ploii pe acoperișul vechi creează o atmosferă solemnă în interiorul răcoros.\n\nDupă-amiaza ne plimbăm sub arcadele Loggiei și vizităm Palatul Comunal. Străzile înguste ale centrului vechi ne protejează natural de rafalele de vânt.\n\nSeara se încheie la Fortăreața Kamerlengo. Cerul gri deasupra Adriaticii oferă zidurilor vechi o aură dramatică și plină de mister.",
+            "en": "The morning starts at the Land Gate, where wet limestone reflects the raindrops. A quick dash to the City Museum provides shelter and historical context.\n\nAt noon, we find refuge in the Cipiko Palace and the Cathedral. The sound of rain on the ancient roof creates a solemn and intimate atmosphere inside.\n\nIn the afternoon, we stay dry under the City Loggia and visit the Rector's Palace. The narrow alleys of the old town offer natural protection from the elements.\n\nThe day ends at Kamerlengo Fortress. The misty Adriatic and grey skies give the stone walls a dramatic and powerful historical presence."
+          },
+          "stops": [
+            {
+              "name": "Landtor",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Kopfsteinpflaster am Eingang.",
+                "hu": "Vigyázat, a kapu alatti kövezet esőben nagyon csúszik.",
+                "ro": "Atenție la pavajul alunecos de la intrarea în oraș.",
+                "en": "Careful on the slippery cobblestones under the gate."
+              }
+            },
+            {
+              "name": "Stadtmuseum Trogir",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ersten Regenschauer trocken zu überstehen.",
+                "hu": "Ideális hely az első zápor átvészelésére a falak között.",
+                "ro": "Locul perfect pentru a aștepta trecerea primei ploi.",
+                "en": "The perfect spot to wait out the first rain shower indoors."
+              }
+            },
+            {
+              "name": "Cipiko-Palast",
+              "tip_5lang": {
+                "de": "Bewundern Sie die gotischen Fenster vom trockenen Innenhof aus.",
+                "hu": "Csodálja meg a gótikus ablakokat a fedett udvarról.",
+                "ro": "Admirați ferestrele gotice din curtea interioară ferită de ploaie.",
+                "en": "Admire the Gothic windows from the sheltered courtyard."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Laurentius",
+              "tip_5lang": {
+                "de": "Das Radovan-Portal ist unter dem Vordach gut geschützt.",
+                "hu": "A Radovan-portál az előtető alatt esőben is jól fotózható.",
+                "ro": "Portalul lui Radovan este bine protejat sub baldachin.",
+                "en": "Radovan's portal is well protected under the porch canopy."
+              }
+            },
+            {
+              "name": "Stadtloggia",
+              "tip_5lang": {
+                "de": "Die Arkaden bieten einen trockenen Platz für eine kurze Pause.",
+                "hu": "Az árkádok alatt szárazon pihenhetünk meg egy percre.",
+                "ro": "Arcadele oferă un loc uscat pentru o scurtă pauză.",
+                "en": "The colonnade provides a dry spot for a quick rest."
+              }
+            },
+            {
+              "name": "Fürstenpalast",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume für eine ausgiebige Besichtigung.",
+                "hu": "Használja ki a belső termeket a részletes felfedezéshez.",
+                "ro": "Folosiți interiorul palatului pentru o vizită prelungită.",
+                "en": "Take advantage of the interior rooms for a detailed tour."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Dominikus",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Rückzugsort am Rande der Altstadt.",
+                "hu": "Csendes, száraz menedék az óváros szélén.",
+                "ro": "Un refugiu liniștit și uscat la marginea centrului vechi.",
+                "en": "A quiet, dry retreat at the edge of the old town."
+              }
+            },
+            {
+              "name": "Festung Kamerlengo",
+              "tip_5lang": {
+                "de": "Der Aufstieg auf die Türme ist bei Nässe nicht zu empfehlen.",
+                "hu": "A toronyba való felkapaszkodás vizes időben nem ajánlott.",
+                "ro": "Urcarea în turnuri nu este recomandată pe timp de ploaie.",
+                "en": "Climbing the towers is not recommended when steps are wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Grip, da der polierte Stein extrem rutschig wird.",
+              "Die Stadtloggia ist der beste kostenlose Unterstand im Zentrum.",
+              "Nutzen Sie die Museen für die stärksten Regengüsse.",
+              "Ein Regenschirm ist in den engen Gassen oft praktischer als ein Regenponcho."
+            ],
+            "hu": [
+              "Viseljen tapadós talpú cipőt, a polírozott kő esőben jégpályává válik.",
+              "A Városi Loggia a legjobb ingyenes fedett hely a főtéren.",
+              "A múzeumlátogatásokat időzítse a legintenzívebb eső idejére.",
+              "A szűk utcákban az esernyő praktikusabb, mint a nagy esőköpeny."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu talpă aderentă; piatra lustruită devine extrem de alunecoasă.",
+              "Loggia orașului este cel mai bun adăpost gratuit din centru.",
+              "Planificați vizitele la muzee în momentele cu ploaie torențială.",
+              "O umbrelă este mai practică decât o pelerină în străzile înguste."
+            ],
+            "en": [
+              "Wear shoes with good grip; the polished stone becomes like ice when wet.",
+              "The City Loggia is the best free sheltered spot in the main square.",
+              "Schedule museum visits for periods of heavy downpours.",
+              "An umbrella is often more practical than a poncho in narrow alleys."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen am Landtor zeigt Trogir von seiner stillsten Seite. Im Stadtmuseum wärmen wir uns bei lokaler Geschichte auf.\n\nMittags genießen wir die tiefstehende Sonne auf dem Hauptplatz beim Cipiko-Palast. Die Kathedrale strahlt eine frostige, aber würdevolle Ruhe aus.\n\nNachmittags spazieren wir durch die menschenleeren Gassen zur Stadtloggia. Die klare Winterluft macht die Details der Steinmetzkunst besonders scharf sichtbar.\n\nDer Tag endet früh an der Festung Kamerlengo. Wenn die Sonne gegen 16:30 Uhr untergeht, taucht sie die Stadt in ein sanftes, goldenes Winterlicht.",
+            "hu": "A hűvös téli reggel a Szárazföldi kapunál Trogir legcsendesebb arcát mutatja. A Városi Múzeumban melegedünk fel a történelem nyomai között.\n\nDélben a főtéren, a Cipiko-palota mellett élvezzük a téli napsütést. A Székesegyház ilyenkor méltóságteljes és zavartalan nyugalmat áraszt.\n\nDélután a kihalt utcákon sétálunk a Városi Loggia felé. A tiszta téli levegőben a kőfaragások minden apró részlete élesen kirajzolódik.\n\nA nap korán ér véget a Kamerlengo várnál. A 16:30 körüli naplemente lágy, arany fénybe vonja az egész várost és az öblöt.",
+            "ro": "O dimineață răcoroasă de iarnă la Poarta de pe uscat ne arată Trogirul în cea mai liniștită formă. Ne încălzim la Muzeul Orașului explorând trecutul.\n\nLa prânz ne bucurăm de soarele palid în piața centrală, lângă Palatul Cipiko. Catedrala emană o liniște demnă, departe de mulțimile de turiști.\n\nDupă-amiaza ne plimbăm pe străzile pustii spre Loggia orașului. Aerul curat de iarnă face ca detaliile pietrei sculptate să fie extrem de clare.\n\nZiua se încheie devreme la Fortăreața Kamerlengo. Apusul de la ora 16:30 scaldă orașul într-o lumină aurie și blândă de iarnă.",
+            "en": "A chilly winter morning at the Land Gate shows Trogir at its quietest. We warm up inside the City Museum while exploring local history.\n\nAt noon, we enjoy the low winter sun in the main square by the Cipiko Palace. The Cathedral exudes a dignified and undisturbed peace.\n\nIn the afternoon, we stroll through the empty alleys toward the City Loggia. The crisp winter air makes every detail of the stonework stand out sharply.\n\nThe day ends early at Kamerlengo Fortress. As the sun sets around 16:30, it bathes the city in a soft, golden winter glow."
+          },
+          "stops": [
+            {
+              "name": "Landtor",
+              "tip_5lang": {
+                "de": "Genießen Sie den Eingang ohne die sommerlichen Touristenmassen.",
+                "hu": "Élvezze a bejutást a nyári tömeg és sorban állás nélkül.",
+                "ro": "Bucurați-vă de intrare fără mulțimile de turiști din vară.",
+                "en": "Enjoy entering the city without the usual summer crowds."
+              }
+            },
+            {
+              "name": "Stadtmuseum Trogir",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Ort, um der morgendlichen Kälte zu entfliehen.",
+                "hu": "Kellemesen fűtött helyszín a reggeli hideg elleni védekezéshez.",
+                "ro": "Un spațiu bine încălzit pentru a scăpa de frigul dimineții.",
+                "en": "A well-heated spot to escape the morning chill."
+              }
+            },
+            {
+              "name": "Cipiko-Palast",
+              "tip_5lang": {
+                "de": "Die Fassade leuchtet besonders schön im tiefen Winterlicht.",
+                "hu": "A homlokzat különösen szépen mutat a lapos téli fényben.",
+                "ro": "Fațada strălucește spectaculos în lumina joasă a iernii.",
+                "en": "The facade looks particularly beautiful in the low winter sun."
+              }
+            },
+            {
+              "name": "Kathedrale des Heiligen Laurentius",
+              "tip_5lang": {
+                "de": "Bringen Sie eine Jacke mit, das Innere der Kirche ist recht kühl.",
+                "hu": "Öltözzön fel, a templom belseje télen elég hűvös maradhat.",
+                "ro": "Păstrați haina pe dvs., interiorul bisericii este destul de rece.",
+                "en": "Keep your coat on, the interior of the church is quite chilly."
+              }
+            },
+            {
+              "name": "Stadtloggia",
+              "tip_5lang": {
+                "de": "Der perfekte Ort für ein windgeschütztes Foto auf dem Platz.",
+                "hu": "Tökéletes, szélvédett pont egy fotóhoz a főtéren.",
+                "ro": "Locul perfect pentru o fotografie ferită de vânt în piață.",
+                "en": "A perfect, wind-sheltered spot for a photo in the square."
+              }
+            },
+            {
+              "name": "Fürstenpalast",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten, diese können kürzer sein.",
+                "hu": "Ellenőrizze a téli nyitvatartást, gyakran korábban zárnak.",
+                "ro": "Verificați programul de iarnă, acesta poate fi mai scurt.",
+                "en": "Check winter opening hours as they may be shorter than usual."
+              }
+            },
+            {
+              "name": "Kirche des Heiligen Dominikus",
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort für einen Moment der inneren Einkehr.",
+                "hu": "Békés helyszín egy kis elcsendesedéshez a séta végén.",
+                "ro": "Un loc liniștit pentru un moment de reflexie interioară.",
+                "en": "A peaceful spot for a moment of quiet reflection."
+              }
+            },
+            {
+              "name": "Festung Kamerlengo",
+              "tip_5lang": {
+                "de": "Achtung, oben auf den Mauern weht oft eine kräftige Bura.",
+                "hu": "Vigyázat, a falak tetején gyakran erős Bura szél fúj.",
+                "ro": "Atenție, în vârful zidurilor suflă adesea un vânt Bura puternic.",
+                "en": "Be careful, a strong Bura wind often blows atop the walls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ziehen Sie sich warm an, besonders für den Wind am Meer.",
+              "Die Sonne geht gegen 16:30 Uhr unter, planen Sie das Ende früher ein.",
+              "Viele Cafés an der Riva haben im Winter geschlossen.",
+              "Die Bura kann sich kälter anfühlen, als das Thermometer anzeigt."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, a tengerparti szél nagyon csalóka lehet.",
+              "A nap 16:30 körül nyugszik, tervezze korábbra a program végét.",
+              "A Riva menti kávézók egy része télen zárva tarthat.",
+              "A Bura szél miatt a hőérzet sokkal alacsonyabb a valósnál."
+            ],
+            "ro": [
+              "Îmbrăcați-vă gros, vântul de pe malul mării poate fi tăios.",
+              "Soarele apune în jur de 16:30; planificați finalul turului mai devreme.",
+              "Multe cafenele de pe faleză (Riva) sunt închise iarna.",
+              "Vântul Bura poate face ca temperatura resimțită să fie mult mai mică."
+            ],
+            "en": [
+              "Dress in layers; the coastal wind can be very biting.",
+              "Sunset is around 16:30, so plan to finish your tour earlier.",
+              "Many cafes on the Riva may be closed during the winter season.",
+              "The Bura wind can make it feel much colder than the actual temperature."
+            ]
+          }
+        }
       }
     }
   }

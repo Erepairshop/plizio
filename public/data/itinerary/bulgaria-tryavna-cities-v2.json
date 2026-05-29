@@ -390,6 +390,224 @@
           "Take your time to admire the details in the Revival architecture.",
           "Ask about combined tickets at the museums if available."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Trjawna betont den Charme der Nationalen Wiedergeburt. Morgens glänzen die Steine im Kachaunska-Viertel. Mittags bietet die Schola perfekten Schutz vor dem Guss. Nachmittags bewundern wir die Holzschnitzereien im Daskalov-Haus und die Ikonen im Trockenen. Abends lauschen wir dem Regen bei einem Glas Wein in einer gemütlichen Taverne.",
+            "hu": "Az eső különleges nosztalgiát áraszt Trjavna ódon falai között. Reggel esernyővel járjuk a Kachaunska negyedet, délben pedig a Schola múzeumában keresünk menedéket. Délután a fafaragások és ikonok belső terei nyújtanak száraz élményt. Este a doboló eső mellett, egy meleg tavernabeli vacsorával zárjuk a napot a Balkán szívében.",
+            "ro": "O zi ploioasă în Tryavna accentuează atmosfera de epocă. Dimineața, străzile din Kachaunska strălucesc sub umbrele. La prânz, Vechea Școală oferă un refugiu cultural ideal. După-amiaza explorăm tavanele sculptate din Casa Daskalov și muzeul de icoane. Seara se încheie într-o mehană călduroasă, ascultând ritmul ploii pe acoperișurile vechi.",
+            "en": "Rain adds a poetic touch to Tryavna's Revival architecture. Morning begins under umbrellas in the Kachaunska district. At noon, the Schola museum provides a perfect indoor retreat. Afternoon is dedicated to the wood-carved ceilings of Daskalov House and the Icon museum. Evening finishes with a cozy Bulgarian dinner while rain taps on the windows."
+          },
+          "stops": [
+            {
+              "name": "Kachaunska Neighborhood",
+              "tip_5lang": {
+                "de": "Die Kopfsteinpflaster sind bei Regen sehr rutschig; festes Schuhwerk ist nötig.",
+                "hu": "A macskakő esőben rendkívül csúszós; viseljen tapadós talpú cipőt.",
+                "ro": "Pavelele sunt alunecoase când plouă; purtați încălțăminte cu aderență bună.",
+                "en": "The cobblestones get very slippery when wet; wear shoes with good traction."
+              }
+            },
+            {
+              "name": "The Humpbacked Bridge",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Geländer, da die Steinstufen bei Nässe glatt sein können.",
+                "hu": "Használja a korlátot, mert a kőlépcsők nedvesen nagyon csalókák.",
+                "ro": "Folosiți balustrada, deoarece treptele de piatră pot fi înșelătoare pe ploaie.",
+                "en": "Use the handrails as the stone steps can be treacherous in the rain."
+              }
+            },
+            {
+              "name": "Clock Tower",
+              "tip_5lang": {
+                "de": "Stellen Sie sich unter die Vordächer der nahen Cafés für das beste Foto.",
+                "hu": "A közeli kávézók eresze alól készítheti a legjobb fotót szárazon.",
+                "ro": "Adăpostiți-vă sub streșinile cafenelelor pentru a fotografia turnul.",
+                "en": "Shelter under the eaves of nearby cafes for a dry photo of the tower."
+              }
+            },
+            {
+              "name": "Church of St. Archangel Michael",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort, um die mittelalterlichen Fresken zu bewundern.",
+                "hu": "Csendes, száraz helyszín a középkori freskók alapos megtekintéséhez.",
+                "ro": "Un loc liniștit și uscat pentru a admira frescele medievale.",
+                "en": "A quiet, dry spot to appreciate the medieval frescoes in peace."
+              }
+            },
+            {
+              "name": "The Old School (Schola)",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, um starke Regenschauer abzuwarten.",
+                "hu": "Tervezzen ide hosszabb időt, hogy megvárja a nagyobb záporok elvonulását.",
+                "ro": "Alocați mai mult timp aici pentru a lăsa ploaia torențială să treacă.",
+                "en": "Spend extra time here to wait out any heavy passing rain showers."
+              }
+            },
+            {
+              "name": "Daskalov House",
+              "tip_5lang": {
+                "de": "Die Holzdecken verströmen bei feuchtem Wetter ein wunderbares Aroma.",
+                "hu": "A faragott famennyezetek illata nedves időben még intenzívebb.",
+                "ro": "Mirosul tavanelor de lemn este mai intens și plăcut pe vreme umedă.",
+                "en": "The wooden ceilings exude a wonderful aroma during humid weather."
+              }
+            },
+            {
+              "name": "Museum of Icon Painting",
+              "tip_5lang": {
+                "de": "Perfektes Licht im Inneren, um die Details der Ikonen zu studieren.",
+                "hu": "Tökéletes benti program; az aranyozott ikonok ragyognak a félhomályban.",
+                "ro": "Activitate ideală de interior; icoanele aurite strălucesc în penumbră.",
+                "en": "Perfect indoor activity; the golden icons glow beautifully in the soft light."
+              }
+            },
+            {
+              "name": "Raykov House",
+              "tip_5lang": {
+                "de": "Die überdachte Terrasse bietet Schutz beim Betrachten der Fassade.",
+                "hu": "A fedett terasz védelmet nyújt a homlokzat és az udvar nézegetésekor.",
+                "ro": "Terasa acoperită oferă protecție în timp ce admirați fațada casei.",
+                "en": "The covered porch provides shelter while you observe the architecture."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserdichte Jacke statt eines Schirms wegen der engen Gassen.",
+              "Die Steinbrücke ist bei Regen eine Sturzfalle; gehen Sie extrem langsam.",
+              "Nutzen Sie die vielen kleinen Kunstgalerien als spontane Regenschutzzonen.",
+              "Warme Suppen (Shkembe Chorba) wärmen Sie in den lokalen Gasthöfen auf."
+            ],
+            "hu": [
+              "Vízálló kabát praktikusabb az esernyőnél a szűk óvárosi utcákban.",
+              "A kőhíd esőben igazi csapda; haladjon rajta rendkívül óvatosan.",
+              "Használja ki a kis művészeti galériákat rögtönzött esőmenedékként.",
+              "A helyi mehanákban egy forró pacalleves (Shkembe) kiválóan felmelegít."
+            ],
+            "ro": [
+              "O jachetă impermeabilă este mai utilă decât umbrela pe străzile înguste.",
+              "Podul de piatră este periculos pe ploaie; mergeți foarte încet.",
+              "Folosiți micile galerii de artă ca refugii spontane împotriva ploii.",
+              "O ciorbă fierbinte (Shkembe) în restaurantele locale vă va încălzi rapid."
+            ],
+            "en": [
+              "A waterproof jacket is better than an umbrella in the narrow alleys.",
+              "The stone bridge is a slip hazard; cross it with extreme caution.",
+              "Use small art galleries as spontaneous shelters during heavy rain.",
+              "Try a hot Shkembe Chorba (tripe soup) to warm up in local taverns."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Trjawna im Winter ist wie eine Szene aus einem Märchen. Morgens knirscht der Frost unter den Schuhen im Kachaunska-Viertel. Mittags wärmen wir uns in den historischen Klassenzimmern der Schola auf. Der Nachmittag bringt das frühe Licht über die schneebedeckten Dächer, ideal für Ikonen-Fotos. Abends glühen die Lichter des Uhrturms in der kalten Bergluft.",
+            "hu": "A téli Trjavna olyan, mintha egy mesekönyv elevenedne meg. Reggel a dér csillog a Kachaunska negyed falain, délben pedig a Schola fűtött termeiben melegszünk fel. A délutáni korai szürkületben a havas tetők és az ikonok aranya különleges fényt kap. Este a toronyóra harangját hallgatjuk a kristálytiszta balkáni hidegben.",
+            "ro": "Tryavna iarna pare desprinsă dintr-un basm cu zăpadă. Dimineața, gerul strânge cartierul Kachaunska sub un cer senin. La prânz, ne încălzim în sălile istorice ale școlii vechi. După-amiaza aduce lumina aurie peste acoperișurile troienite, perfectă pentru vizitarea icoanelor. Seara, luminile turnului cu ceas strălucesc în aerul rece de munte.",
+            "en": "Winter in Tryavna feels like a living fairytale scene. Morning frost crunches underfoot in the Kachaunska neighborhood. At noon, we find warmth in the historic classrooms of the Schola. Afternoon brings early twilight over snow-covered roofs, highlighting the icons. Evening settles in with the Clock Tower's chimes echoing through the crisp mountain air."
+          },
+          "stops": [
+            {
+              "name": "Kachaunska Neighborhood",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen zwischen den Pflastersteinen.",
+                "hu": "Ügyeljen a macskakövek közötti alattomos jegesedésekre.",
+                "ro": "Atenție la porțiunile înghețate dintre pietrele de pavaj.",
+                "en": "Watch out for icy patches hidden between the cobblestones."
+              }
+            },
+            {
+              "name": "The Humpbacked Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf dem Scheitelpunkt der Brücke.",
+                "hu": "Fokozott óvatosság: a híd teteje gyakran lefagy télen.",
+                "ro": "Atenție sporită: culmea podului îngheață adesea iarna.",
+                "en": "Extra caution: the top of the bridge often freezes in winter."
+              }
+            },
+            {
+              "name": "Clock Tower",
+              "tip_5lang": {
+                "de": "Der Turm sieht bei Sonnenuntergang gegen 16:30 Uhr am schönsten aus.",
+                "hu": "A torony 16:30 körüli naplementekor a leglátványosabb a hóban.",
+                "ro": "Turnul arată spectaculos la apus, în jur de ora 16:30.",
+                "en": "The tower looks most spectacular at sunset around 4:30 PM."
+              }
+            },
+            {
+              "name": "Church of St. Archangel Michael",
+              "tip_5lang": {
+                "de": "Innen ist es oft kühler als draußen; behalten Sie den Mantel an.",
+                "hu": "Bent gyakran hidegebb van, mint kint; ne vegye le a kabátját.",
+                "ro": "Interiorul este adesea mai rece decât afară; păstrați haina pe dvs.",
+                "en": "The interior is often colder than outside; keep your coat on."
+              }
+            },
+            {
+              "name": "The Old School (Schola)",
+              "tip_5lang": {
+                "de": "Die Heizung in den Museumsräumen macht dies zum idealen Aufwärmstopp.",
+                "hu": "A múzeum fűtött termei miatt ez a legjobb hely a felmelegedéshez.",
+                "ro": "Sălile încălzite fac din acest muzeu locul ideal pentru popas.",
+                "en": "The heated museum rooms make this the ideal warming-up stop."
+              }
+            },
+            {
+              "name": "Daskalov House",
+              "tip_5lang": {
+                "de": "Die 'Sonne' an der Decke wirkt im Winterlicht besonders warm.",
+                "hu": "A mennyezeti fafaragott 'nap' téli fényben különösen ragyogó.",
+                "ro": "Soarele sculptat de pe tavan pare mai luminos în lumina iernii.",
+                "en": "The wood-carved 'sun' on the ceiling looks radiant in winter light."
+              }
+            },
+            {
+              "name": "Museum of Icon Painting",
+              "tip_5lang": {
+                "de": "Besuchen Sie dies vor 16:00 Uhr, um das natürliche Licht zu nutzen.",
+                "hu": "Látogassa meg 16:00 előtt, hogy lássa az ikonokat természetes fénynél.",
+                "ro": "Vizitați înainte de ora 16:00 pentru a prinde lumina naturală.",
+                "en": "Visit before 4:00 PM to see the icons in the best natural light."
+              }
+            },
+            {
+              "name": "Raykov House",
+              "tip_5lang": {
+                "de": "Der Garten ist im Schnee ein tolles Motiv für Winterfotos.",
+                "hu": "A hófödte udvar kiváló téma a hangulatos téli fotókhoz.",
+                "ro": "Curtea înzăpezită este un subiect excelent pentru fotografii de iarnă.",
+                "en": "The snow-covered yard is a great subject for winter photography."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit dicker Sohle, da der Steinboden die Kälte leitet.",
+              "Die Sonne verschwindet früh hinter den Bergen; planen Sie den Tag kompakt.",
+              "Probieren Sie den lokalen Kräutertee mit Honig zum Aufwärmen.",
+              "Achten Sie auf Eiszapfen, die von den alten Holzdächern hängen könnten."
+            ],
+            "hu": [
+              "Vastag talpú cipőt hordjon, a kőpadló átveszi a föld hidegét.",
+              "A nap korán eltűnik a hegyek mögött; végezzen a kinti látnivalókkal 16 óráig.",
+              "Kóstolja meg a helyi gyógyteát mézzel bármelyik kávézóban.",
+              "Vigyázzon az öreg faházak ereszéről lelógó jégcsapokkal."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu talpă groasă, podelele de piatră sunt reci.",
+              "Soarele apune devreme după munți; terminați vizitele exterioare până la 16:00.",
+              "Încercați ceaiul local de plante cu miere pentru a vă încălzi.",
+              "Atenție la țurțurii care pot cădea de pe streșinile caselor vechi."
+            ],
+            "en": [
+              "Wear thick-soled boots as the stone floors conduct the cold.",
+              "The sun sets early behind the mountains; finish outdoor sights by 4 PM.",
+              "Try the local herbal tea with honey in any cafe to warm up.",
+              "Be careful of icicles that might hang from the old wooden eaves."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -774,6 +992,224 @@
           "Tryavna is small, so you can easily reach all the main sights by bike.",
           "Plan to lock up your bike and walk during museum visits."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Trjawna Vorsicht. Morgens erkunden wir das Kachaunska-Viertel auf nassen Reifen. Mittags parken wir trocken bei der Schola. Nachmittags radeln wir zwischen den historischen Häusern, wobei wir die glatten Kurven meiden. Abends belohnen wir uns für die Ausdauer mit einem herzhaften bulgarischen Mahl.",
+            "hu": "Az esőben való biciklizés Trjavnában óvatosságot igényel. Reggel nedves gumiabroncsokon gurulunk át a Kachaunska negyeden, délben pedig a Schola mellett parkolunk le szárazon. Délután a történelmi házak között tekerünk, kerülve a csúszós kanyarokat. Este egy kiadós bolgár vacsorával jutalmazzuk meg magunkat.",
+            "ro": "Ciclismul pe ploaie în Tryavna necesită prudență. Dimineața explorăm cartierul Kachaunska pe anvelope umede. La prânz parcăm în siguranță lângă școală. După-amiaza pedalăm printre casele istorice, evitând virajele strânse pe piatră udă. Seara ne recompensăm cu o masă bulgărească consistentă.",
+            "en": "Cycling in the rain requires focus in Tryavna. Morning starts on wet tires through the Kachaunska district. At noon, we park and dry off at the Schola. Afternoon involves riding between historic landmarks while avoiding slick corners. Evening is a reward for our endurance with a hearty Bulgarian feast."
+          },
+          "stops": [
+            {
+              "name": "Kachaunska Neighborhood",
+              "tip_5lang": {
+                "de": "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nassen Steinen.",
+                "hu": "Csökkentse kissé a guminyomást a jobb tapadásért a vizes köveken.",
+                "ro": "Reduceți ușor presiunea în pneuri pentru aderență pe piatra udă.",
+                "en": "Lower your tire pressure slightly for better grip on wet stones."
+              }
+            },
+            {
+              "name": "The Humpbacked Bridge",
+              "tip_5lang": {
+                "de": "Steigen Sie ab und schieben Sie; das Radfahren auf der Brücke ist bei Regen gefährlich.",
+                "hu": "Szálljon le és tolja; esőben a hídon tekerni veszélyes és tilos.",
+                "ro": "Coborâți și împingeți bicicleta; este periculos să pedalați pe pod pe ploaie.",
+                "en": "Dismount and walk your bike; cycling on the bridge is dangerous when wet."
+              }
+            },
+            {
+              "name": "Clock Tower",
+              "tip_5lang": {
+                "de": "Parken Sie unter einem Vordach, um den Sattel trocken zu halten.",
+                "hu": "Parkoljon egy eresz alá, hogy az ülése száraz maradjon.",
+                "ro": "Parcați sub o streașină pentru a păstra șaua uscată.",
+                "en": "Park under an overhang to keep your saddle dry while looking around."
+              }
+            },
+            {
+              "name": "Church of St. Archangel Michael",
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad an einem festen Punkt und nutzen Sie den Kircheneingang als Schutz.",
+                "hu": "Zárja le a biciklit, és használja a templombejáratot esővédőként.",
+                "ro": "Legat bicicleta și folosiți intrarea bisericii ca adăpost temporar.",
+                "en": "Lock your bike and use the church entrance as a temporary rain shelter."
+              }
+            },
+            {
+              "name": "The Old School (Schola)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den langen Stopp, um Ihre Kleidung etwas zu trocknen.",
+                "hu": "Használja ki a hosszú megállót a ruházata megszárítására.",
+                "ro": "Folosiți oprirea lungă pentru a vă usca puțin echipamentul.",
+                "en": "Use this long indoor stop to dry off your gear and clothing."
+              }
+            },
+            {
+              "name": "Daskalov House",
+              "tip_5lang": {
+                "de": "Es gibt Fahrradständer in der Nähe; achten Sie auf glatte Blätter am Boden.",
+                "hu": "Vannak kerékpártárolók a közelben; ügyeljen a vizes levelekre a földön.",
+                "ro": "Există rastele în apropiere; atenție la frunzele umede de pe jos.",
+                "en": "Bike racks are nearby; watch out for slippery wet leaves on the ground."
+              }
+            },
+            {
+              "name": "Museum of Icon Painting",
+              "tip_5lang": {
+                "de": "Wischen Sie Ihre Felgen ab, bevor Sie weiterfahren, für bessere Bremskraft.",
+                "hu": "Törölje le a felniket indulás előtt a jobb fékerő érdekében.",
+                "ro": "Ștergeți jantele înainte de plecare pentru o frânare mai eficientă.",
+                "en": "Wipe your rims before continuing for better braking performance."
+              }
+            },
+            {
+              "name": "Raykov House",
+              "tip_5lang": {
+                "de": "Der letzte Stopp bietet eine gute Gelegenheit, die Route zum Hotel zu prüfen.",
+                "hu": "Az utolsó megálló jó alkalom a szálláshoz vezető legrövidebb út ellenőrzésére.",
+                "ro": "Ultima oprire e un moment bun să verificați ruta cea mai scurtă spre hotel.",
+                "en": "The final stop is a good time to check the shortest route back to shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie scharfes Bremsen auf dem Kopfsteinpflaster.",
+              "Tragen Sie eine gut sichtbare Regenjacke; die Sicht ist oft eingeschränkt.",
+              "Schutzbleche sind in Trjawna bei Regen unerlässlich gegen Matsch.",
+              "Die Brücken und engen Kurven im alten Teil sind bei Nässe tückisch."
+            ],
+            "hu": [
+              "Kerülje az erős fékezést a vizes macskaköveken.",
+              "Viseljen jól látható esőkabátot, mert a látási viszonyok romlanak.",
+              "Sárvédő nélkül ne induljon el esőben, a sár mindent összeken.",
+              "A hidak és az óvárosi kanyarok rendkívül alattomosak nedvesen."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe pavajul de piatră udă.",
+              "Purtați o pelerină reflectorizantă, vizibilitatea este redusă pe ploaie.",
+              "Aripile la bicicletă sunt esențiale aici împotriva noroiului.",
+              "Podurile și virajele strânse din centrul vechi sunt periculoase pe ud."
+            ],
+            "en": [
+              "Avoid hard braking on the wet cobblestones to prevent sliding.",
+              "Wear high-visibility rain gear as visibility decreases in the rain.",
+              "Mudguards are essential in Tryavna to protect against backsplash.",
+              "Bridges and tight turns in the old quarter are treacherous when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking in den Balkanküsten von Trjawna ist erfrischend. Morgens fahren wir vorsichtig durch den Frost im Kachaunska-Viertel. Mittags ist die Schola unsere Wärmestation. Der Nachmittag bietet klare Sicht auf die schneebedeckten Berge, bevor die Dunkelheit uns früh in die warme Mehana treibt, wo der Kamin bereits knistert.",
+            "hu": "A téli kerékpározás a Balkán lábainál frissítő élmény. Reggel óvatosan vágunk át a Kachaunska negyed jeges utcáin, délben pedig a Schola fűtött termeiben engedünk fel. Délután tiszta rálátás nyílik a havas hegyekre, mielőtt a korai sötétség a kandalló mellé csábítana minket egy meleg tavernábba.",
+            "ro": "Ciclismul de iarnă la poalele Balcanilor este revigorant. Dimineața pedalăm cu grijă prin gerul din Kachaunska. La prânz, școala veche devine stația noastră de încălzire. După-amiaza oferă vederi clare spre munții înzăpeziți, înainte ca întunericul să ne trimită devreme spre o mehană cu șemineu.",
+            "en": "Winter biking at the foot of the Balkans is refreshing but cold. Morning involves careful riding through frozen Kachaunska. At noon, the Schola serves as our warming station. Afternoon offers clear views of snow-capped mountains before early darkness leads us to a warm tavern with a crackling fireplace."
+          },
+          "stops": [
+            {
+              "name": "Kachaunska Neighborhood",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif, der die Steine spiegelglatt machen kann.",
+                "hu": "Ügyeljen a dérre, amely tükörsimává teszi a köveket.",
+                "ro": "Atenție la chiciura care face pietrele extrem de alunecoase.",
+                "en": "Watch out for hoarfrost that can make stones slippery as glass."
+              }
+            },
+            {
+              "name": "The Humpbacked Bridge",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad; das Eis auf der Wölbung ist unvorhersehbar.",
+                "hu": "Tolja a biciklit; a híd ívén lévő jég kiszámíthatatlan.",
+                "ro": "Împingeți bicicleta; gheața de pe curbura podului este înșelătoare.",
+                "en": "Walk your bike; the ice on the bridge's curve is unpredictable."
+              }
+            },
+            {
+              "name": "Clock Tower",
+              "tip_5lang": {
+                "de": "Vermeiden Sie langes Stehenbleiben, um nicht auszukühlen.",
+                "hu": "Ne álljon meg sokáig, hogy elkerülje a test kihűlését.",
+                "ro": "Nu staționați mult timp pentru a evita răcirea corpului.",
+                "en": "Avoid standing still for too long to keep your body temperature up."
+              }
+            },
+            {
+              "name": "Church of St. Archangel Michael",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch für eine kurze Pause vom kalten Fahrtwind.",
+                "hu": "Használja ki a látogatást egy rövid pihenőre a hideg menetszéltől.",
+                "ro": "Folosiți vizita pentru o scurtă pauză de la vântul rece de rulare.",
+                "en": "Use the visit as a brief shield from the biting headwind."
+              }
+            },
+            {
+              "name": "The Old School (Schola)",
+              "tip_5lang": {
+                "de": "Dies ist der wichtigste Stopp, um die Finger wieder beweglich zu machen.",
+                "hu": "Ez a legfontosabb megálló, hogy ujjai újra mozogni tudjanak.",
+                "ro": "Aceasta este cea mai importantă oprire pentru a vă dezmorți degetele.",
+                "en": "This is the most crucial stop to regain feeling in your fingers."
+              }
+            },
+            {
+              "name": "Daskalov House",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen; Gummi wird bei extremer Kälte härter.",
+                "hu": "Ellenőrizze a fékeket; a gumi megkeményedik a nagy hidegben.",
+                "ro": "Verificați frânele; cauciucul saboților se întărește la ger.",
+                "en": "Check your brakes; brake pads can harden in extreme cold."
+              }
+            },
+            {
+              "name": "Museum of Icon Painting",
+              "tip_5lang": {
+                "de": "Die Wärme im Museum schützt Ihre Akkus vor dem schnellen Entladen.",
+                "hu": "A múzeumi meleg védi az elektronikus eszközei akkumulátorát.",
+                "ro": "Căldura din muzeu protejează bateriile dispozitivelor electronice.",
+                "en": "The museum's warmth helps preserve your electronic device batteries."
+              }
+            },
+            {
+              "name": "Raykov House",
+              "tip_5lang": {
+                "de": "Schließen Sie die Tour vor 17:00 Uhr ab, da es dann stockfinster wird.",
+                "hu": "Fejezze be a túrát 17:00-ig, mert hirtelen sötétedik be.",
+                "ro": "Încheiați turul până la ora 17:00, deoarece se întunecă brusc.",
+                "en": "Finish the tour by 5 PM as it gets pitch dark very quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermohandschuhe; Bremsen mit tauben Fingern ist unmöglich.",
+              "Vermeiden Sie schattige Gassen, dort hält sich das Eis am längsten.",
+              "Licht am Fahrrad ist Pflicht, da die Wintertage sehr kurz sind.",
+              "Ein heißer Kräutertee in der Schulpause wirkt Wunder gegen den Frost."
+            ],
+            "hu": [
+              "Viseljen termokesztyűt; fagyott ujjakkal lehetetlen fékezni.",
+              "Kerülje az árnyékos utcákat, ott marad meg legtovább a jég.",
+              "A lámpa kötelező, mert a téli nappalok rendkívül rövidek.",
+              "Egy forró gyógytea a múzeumi szünetben csodákat tesz a fagy ellen."
+            ],
+            "ro": [
+              "Purtați mănuși termice; este imposibil să frânați cu degetele amorțite.",
+              "Evitați străzile umbrite, acolo gheața persistă cel mai mult.",
+              "Luminile sunt obligatorii, zilele de iarnă sunt foarte scurte.",
+              "Un ceai de plante fierbinte în pauza de muzeu face minuni contra gerului."
+            ],
+            "en": [
+              "Wear thermal gloves; braking with numb fingers is impossible.",
+              "Avoid shaded alleys where ice persists the longest throughout the day.",
+              "Bike lights are mandatory as winter days are very short here.",
+              "A hot herbal tea during the museum break works wonders against frost."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1134,6 +1570,206 @@
           "The streets are narrow, so driving in the center is not recommended.",
           "This makes for an ideal day trip if you are traveling in the Gabrovo region."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen in Trjawna lässt sich am besten mit dem Auto meistern. Morgens parken wir zentral und nutzen die kurzen Wege zum Kachaunska-Viertel. Mittags bietet das Auto einen trockenen Ort für Pausen zwischen Schola und den Museen. Der Nachmittag ist den Holzschnitzereien und Ikonen gewidmet, bevor wir abends bequem zum Restaurant fahren.",
+            "hu": "Az eső Trjavnában autóval a legkényelmesebb. Reggel a központi parkolóban hagyjuk a kocsit, és rövid sétákat teszünk a Kachaunska negyedben. Délben az autó száraz menedék a múzeumlátogatások között. A délutánt a fafaragásoknak és ikonoknak szenteljük, este pedig kényelmesen gurulunk el a kiválasztott étteremig.",
+            "ro": "Ploaia în Tryavna este mai ușor de gestionat cu mașina. Dimineața parcăm central și facem plimbări scurte în Kachaunska. La prânz, mașina oferă un refugiu uscat între vizitele la muzee. După-amiaza este dedicată sculpturilor în lemn și icoanelor, iar seara mergem confortabil spre restaurant.",
+            "en": "Rain in Tryavna is best managed by car. Morning starts with central parking followed by short walks to the Kachaunska district. At noon, the car provides a dry haven between museum visits. Afternoon is dedicated to woodcarvings and icons, and evening offers a comfortable drive to a local restaurant."
+          },
+          "stops": [
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz nahe dem Ausgang, um Pfützen zu vermeiden.",
+                "hu": "Válasszon kijárathoz közeli helyet a tócsák elkerülése érdekében.",
+                "ro": "Alegeți un loc aproape de ieșire pentru a evita bălțile mari.",
+                "en": "Choose a spot near the exit to minimize walking through puddles."
+              }
+            },
+            {
+              "name": "Kachaunska Neighborhood & Humpbacked Bridge",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz; ein Taschenschirm reicht aus.",
+                "hu": "Rövid séta a parkolótól; egy összecsukható esernyő is elég.",
+                "ro": "Plimbare scurtă de la parcare; o umbrelă de buzunar e suficientă.",
+                "en": "Short walk from the lot; a compact travel umbrella is sufficient."
+              }
+            },
+            {
+              "name": "Clock Tower & Church of St. Archangel Michael",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als Sammelpunkt bei starkem Regen.",
+                "hu": "Használja a templom bejáratát gyülekezőpontként felhőszakadáskor.",
+                "ro": "Folosiți intrarea bisericii ca punct de întâlnire pe ploaie torențială.",
+                "en": "Use the church entrance as a meeting point during heavy downpours."
+              }
+            },
+            {
+              "name": "The Old School (Schola)",
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor, falls Plätze frei sind, um trocken zu bleiben.",
+                "hu": "Parkoljon közvetlenül előtte, ha van hely, hogy száraz maradjon.",
+                "ro": "Parcați chiar în față dacă sunt locuri libere pentru a rămâne uscați.",
+                "en": "Park directly in front if spots are available to stay dry."
+              }
+            },
+            {
+              "name": "Daskalov House",
+              "tip_5lang": {
+                "de": "Guter Stopp für ein langes Indoor-Erlebnis während eines Regengusses.",
+                "hu": "Kiváló helyszín egy hosszú benti programhoz zuhogó esőben.",
+                "ro": "Locație excelentă pentru o experiență lungă de interior pe ploaie.",
+                "en": "Great stop for a lengthy indoor experience during a rainstorm."
+              }
+            },
+            {
+              "name": "Museum of Icon Painting",
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Mäntel im Auto, um die Luftfeuchtigkeit im Museum zu senken.",
+                "hu": "Hagyja a vizes kabátokat a kocsiban a múzeumi páratartalom miatt.",
+                "ro": "Lăsați haina udă în mașină pentru a nu crește umiditatea în muzeu.",
+                "en": "Leave wet coats in the car to help maintain museum humidity levels."
+              }
+            },
+            {
+              "name": "Raykov House",
+              "tip_5lang": {
+                "de": "Kurze Fahrzeit zurück zum Zentrum; achten Sie auf Aquaplaning.",
+                "hu": "Rövid út vissza a központba; ügyeljen a vízenfutásra az úton.",
+                "ro": "Drum scurt înapoi spre centru; atenție la acvaplanare pe asfalt.",
+                "en": "Short drive back to center; watch out for aquaplaning on the roads."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkplätze im Zentrum können bei Regen schlammig sein.",
+              "Halten Sie ein Handtuch im Auto bereit, um Sitze trocken zu halten.",
+              "Einige Zufahrtsstraßen zum alten Viertel sind sehr schmal und rutschig.",
+              "Besuchen Sie das Museum der Holzschnitzerei, wenn der Regen am stärksten ist."
+            ],
+            "hu": [
+              "A központi parkolók esőben sárosak lehetnek.",
+              "Legyen kéznél egy törölköző az autóban az ülések szárazon tartásához.",
+              "Néhány bekötőút az óvároshoz szűk és csúszós vizesen.",
+              "A fafaragó múzeumot akkor látogassa, amikor a leghevesebben esik."
+            ],
+            "ro": [
+              "Parcările din centru pot deveni noroioase pe timp de ploaie.",
+              "Țineți un prosop în mașină pentru a menține scaunele uscate.",
+              "Unele străzi de acces spre centrul vechi sunt înguste și alunecoase.",
+              "Vizitați muzeul sculpturii în lemn când ploaia este cea mai densă."
+            ],
+            "en": [
+              "Central parking lots can get muddy during rain; park on gravel if possible.",
+              "Keep a towel in the car to dry off before getting back in the seats.",
+              "Some access roads to the old quarter are narrow and slick when wet.",
+              "Schedule the indoor museums for the times when rain is heaviest."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Trjawna im Winter ist mit dem Auto sicher und warm. Morgens parken wir auf geräumten Flächen nahe dem Kachaunska-Viertel. Mittags nutzen wir die Sitzheizung auf dem Weg zur Schola. Der Nachmittag bietet Ausblicke auf das verschneite Balkangebirge durch das Autofenster, bevor wir abends im warmen Licht des Uhrturms parken.",
+            "hu": "A téli Trjavna autóval biztonságos és meleg bázist nyújt. Reggel a letakarított parkolókban hagyjuk a kocsit a Kachaunska negyed mellett, délben pedig az ülésfűtést élvezzük a Schola felé menet. Délután az autóablakon keresztül csodáljuk a havas Balkánt, este pedig a toronyóra fényeiben parkolunk le.",
+            "ro": "Tryavna iarna este sigură și călduroasă cu mașina. Dimineața parcăm în zonele curățate de zăpadă lângă Kachaunska. La prânz, profităm de încălzirea din mașină spre școala veche. După-amiaza admirăm munții înzăpeziți prin geam, iar seara parcăm în lumina caldă a turnului.",
+            "en": "Winter in Tryavna is cozy and secure by car. Morning involves parking in cleared areas near the Kachaunska district. At noon, enjoy the car's heater on the way to the Schola. Afternoon offers views of the snowy Balkan peaks through the windows, and evening finds us parked near the glowing Clock Tower."
+          },
+          "stops": [
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob der Platz von Schnee geräumt ist, um nicht steckenzubleiben.",
+                "hu": "Ellenőrizze, hogy a hely le van-e takarítva, nehogy elakadjon a hóban.",
+                "ro": "Verificați dacă locul este deszăpezit pentru a nu rămâne blocați.",
+                "en": "Check if the spot is cleared of snow to avoid getting stuck."
+              }
+            },
+            {
+              "name": "Kachaunska Neighborhood & Humpbacked Bridge",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz warmlaufen, bevor Sie zum nächsten Stopp fahren.",
+                "hu": "Hagyja kicsit járni a motort, mielőtt a következő állomásra hajtana.",
+                "ro": "Lăsați motorul să se încălzească puțin înainte de următoarea oprire.",
+                "en": "Let the engine warm up briefly before driving to the next stop."
+              }
+            },
+            {
+              "name": "Clock Tower & Church of St. Archangel Michael",
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig; Schneehaufen können die Sicht auf Bordsteine behindern.",
+                "hu": "Parkoljon óvatosan; a hóbuckák elfedhetik a padkát.",
+                "ro": "Parcați cu atenție; mormanele de zăpadă pot ascunde bordurile.",
+                "en": "Park carefully; snow piles can hide curbs and low obstacles."
+              }
+            },
+            {
+              "name": "The Old School (Schola)",
+              "tip_5lang": {
+                "de": "Ein kurzer Fahrweg, aber wichtig, um sich zwischen den Besichtigungen aufzuwärmen.",
+                "hu": "Rövid út, de fontos a felmelegedéshez a látnivalók között.",
+                "ro": "Drum scurt, dar important pentru a vă încălzi între vizite.",
+                "en": "Short drive, but essential for warming up between sights."
+              }
+            },
+            {
+              "name": "Daskalov House",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Neuschnee rutschig sein; nutzen Sie niedrige Gänge.",
+                "hu": "Friss hóban az út csúszós lehet; használjon alacsony sebességfokozatot.",
+                "ro": "Drumul poate fi alunecos pe zăpadă proaspătă; folosiți trepte inferioare.",
+                "en": "The access road can be slick in fresh snow; use low gears."
+              }
+            },
+            {
+              "name": "Museum of Icon Painting",
+              "tip_5lang": {
+                "de": "Decken Sie die Windschutzscheibe ab, damit sie während des Besuchs nicht vereist.",
+                "hu": "Takarja le a szélvédőt, hogy ne fagyjon le a látogatás alatt.",
+                "ro": "Acoperiți parbrizul pentru a nu îngheța în timpul vizitei la muzeu.",
+                "en": "Cover your windshield so it doesn't ice up during your museum visit."
+              }
+            },
+            {
+              "name": "Raykov House",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Scheinwerfer für die Rückfahrt sauber sind.",
+                "hu": "Győződjön meg róla, hogy a fényszórók tiszták a hazafelé úthoz.",
+                "ro": "Asigurați-vă că farurile sunt curate pentru drumul de întoarcere.",
+                "en": "Ensure your headlights are clear of snow for the drive back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser Bergregion von Oktober bis April Pflicht.",
+              "Führen Sie einen Eiskratzer und eine kleine Schaufel im Kofferraum mit.",
+              "Die Bergstraßen um Trjawna können bei plötzlichem Schneefall tückisch sein.",
+              "Nutzen Sie die Tiefgarage Ihres Hotels, falls vorhanden."
+            ],
+            "hu": [
+              "A téli gumi kötelező ebben a hegyvidéki régióban október és április között.",
+              "Tartson jégkaparót és egy kis lapátot a csomagtartóban.",
+              "A Trjavna körüli hegyi utak hirtelen hóesésben veszélyesek lehetnek.",
+              "Használja a szállodája mélygarázsát, ha van ilyen lehetőség."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în această regiune din octombrie.",
+              "Țineți o racletă și o lopată mică de zăpadă în portbagaj.",
+              "Drumurile montane din jurul Tryavnei pot fi grele pe ninsoare bruscă.",
+              "Folosiți parcarea subterană a hotelului dacă este disponibilă."
+            ],
+            "en": [
+              "Winter tires are mandatory in this mountain region from Oct to April.",
+              "Carry an ice scraper and a small snow shovel in your trunk.",
+              "Mountain roads around Tryavna can be tricky during sudden snowfall.",
+              "Use your hotel's underground parking if available to avoid morning ice."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1494,6 +2130,206 @@
           "This option is ideal for those traveling without a car.",
           "Once you are in the center, all sights are within walking distance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel in Trjawna sind bei Regen praktisch. Morgens kommen wir am Busbahnhof an und starten geschützt. Mittags nutzen wir die kurzen Wege zwischen den Museen und der Schola. Der Nachmittag bringt uns zu den Holzschnitzereien und Ikonen, wobei wir die Wartezeiten unter den Busdächern verbringen. Abends kehren wir trocken zum Bahnhof zurück.",
+            "hu": "A tömegközlekedés Trjavnában praktikus választás esőben. Reggel a buszpályaudvaron kezdünk, majd fedett helyeken haladunk tovább. Délben a múzeumok és a Schola közötti rövid távokat tesszük meg. A délutáni fafaragások és ikonok után a buszmegállók eresze alatt várjuk a járatot, este pedig szárazon érünk vissza a szállásra.",
+            "ro": "Transportul public în Tryavna este o soluție practică pe ploaie. Dimineața ajungem la autogară și începem vizita protejați. La prânz folosim rutele scurte între muzee și școală. După-amiaza vizităm icoanele și sculpturile, așteptând autobuzul sub adăpost. Seara ne întoarcem la gară fără a ne uda prea tare.",
+            "en": "Public transit in Tryavna is a practical choice during rain. Morning starts at the bus station with quick access to cover. At noon, we navigate between museums and the Schola. Afternoon features woodcarvings and icons, with wait times spent under bus shelters. Evening sees us returning to the station dry and satisfied."
+          },
+          "stops": [
+            {
+              "name": "Tryavna Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der Halle, bis Ihr Bus zur Abfahrt bereitsteht.",
+                "hu": "Várjon az állomás épületében, amíg a busza be nem áll a peronhoz.",
+                "ro": "Așteptați în interiorul gării până când autobuzul e gata de plecare.",
+                "en": "Wait inside the station building until your bus is ready for boarding."
+              }
+            },
+            {
+              "name": "Kachaunska Neighborhood & Humpbacked Bridge",
+              "tip_5lang": {
+                "de": "Vom nächsten Stopp ist es nur ein kurzer Sprung unter die Dächer der Altstadt.",
+                "hu": "A legközelebbi megállótól csak egy ugrás az óváros fedett eresze.",
+                "ro": "De la cea mai apropiată stație e doar un pas până la adăpostul caselor.",
+                "en": "From the nearest stop, it's just a short dash to the covered old town."
+              }
+            },
+            {
+              "name": "Clock Tower & Church of St. Archangel Michael",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nah; halten Sie Ihren Schirm für den kurzen Weg bereit.",
+                "hu": "A megálló közel van; tartsa készenlétben az esernyőjét a rövid útra.",
+                "ro": "Stația e aproape; pregătiți umbrela pentru drumul scurt până la turn.",
+                "en": "The stop is very close; keep your umbrella ready for the short walk."
+              }
+            },
+            {
+              "name": "The Old School (Schola)",
+              "tip_5lang": {
+                "de": "Die Museen liegen nah beieinander, was das Warten im Regen minimiert.",
+                "hu": "A múzeumok közel vannak egymáshoz, így keveset kell esőben várni.",
+                "ro": "Muzeele sunt grupate, minimizând timpul petrecut afară în ploaie.",
+                "en": "Museums are clustered together, minimizing time spent out in the rain."
+              }
+            },
+            {
+              "name": "Daskalov House",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan per App, um punktgenau zur Haltestelle zu gehen.",
+                "hu": "Ellenőrizze a menetrendet appon, hogy pontosan érkezzen a megállóba.",
+                "ro": "Verificați programul pe aplicație pentru a merge la stație la fix.",
+                "en": "Check the schedule via app to arrive at the stop just in time."
+              }
+            },
+            {
+              "name": "Museum of Icon Painting",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Zeit bis zum nächsten Bus sinnvoll im Trockenen zu nutzen.",
+                "hu": "Jó hely az idő hasznos eltöltésére a következő buszig, szárazon.",
+                "ro": "Un loc bun pentru a petrece timpul util până la următorul autobuz.",
+                "en": "A good place to spend time productively while waiting for the next bus."
+              }
+            },
+            {
+              "name": "Raykov House",
+              "tip_5lang": {
+                "de": "Die Rückfahrt zum Bahnhof bietet einen trockenen Ausklang der Tour.",
+                "hu": "A buszos visszautat az állomásra élvezheti a száraz ablak mögül.",
+                "ro": "Călătoria de întoarcere spre gară oferă un final de tur uscat.",
+                "en": "The bus ride back to the station offers a dry conclusion to your tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten im Voraus am Bahnhof oder beim Fahrer.",
+              "Busse können bei starkem Regen leichte Verspätungen haben.",
+              "Tragen Sie Schuhe, die auch bei kurzen Sprints zum Bus nicht rutschen.",
+              "Nutzen Sie die Wartehallen der Museen als Sammelpunkte."
+            ],
+            "hu": [
+              "Vegye meg a jegyét előre az állomáson vagy a sofőrnél.",
+              "A buszok heves esőzéskor kisebb késéssel közlekedhetnek.",
+              "Viseljen olyan cipőt, amely a buszhoz való futáskor sem csúszik.",
+              "Használja a múzeumi várótermeket gyülekezőhelyként."
+            ],
+            "ro": [
+              "Cumpărați biletele în avans de la gară sau direct de la șofer.",
+              "Autobuzele pot avea mici întârzieri pe timp de ploaie torențială.",
+              "Purtați încălțăminte care nu alunecă dacă trebuie să fugiți la bus.",
+              "Folosiți holurile de intrare ale muzeelor ca puncte de așteptare."
+            ],
+            "en": [
+              "Buy your tickets in advance at the station or from the driver.",
+              "Buses may experience slight delays during heavy rainstorms.",
+              "Wear non-slip shoes in case you need to hurry to catch a bus.",
+              "Use museum entrance halls as gathering points between transit legs."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Trjawna mit Bus und Bahn im Winter ist ein gemütliches Abenteuer. Morgens kommen wir am beheizten Bahnhof an. Mittags nutzen wir die warmen Busse, um zwischen den historischen Stätten zu pendeln. Der Nachmittag zeigt uns das verschneite Panorama aus dem Busfenster, bevor wir abends pünktlich vor der Dunkelheit den Rückzug zum Bahnhof antreten.",
+            "hu": "A téli Trjavna felfedezése busszal és vonattal kényelmes kaland. Reggel a fűtött állomásra érkezünk, délben pedig a meleg buszokkal ingázunk a történelmi helyszínek között. Délután a buszablakból csodáljuk a havas panorámát, este pedig még sötétedés előtt visszatérünk a pályaudvarra.",
+            "ro": "Explorarea Tryavnei cu autobuzul iarna este o aventură confortabilă. Dimineața ajungem la gara încălzită. La prânz folosim autobuzele călduroase pentru a naviga între siturile istorice. După-amiaza admirăm panorama înzăpezită prin geam, iar seara ne întoarcem la gară înainte de lăsarea întunericului.",
+            "en": "Exploring Tryavna by bus and train in winter is a cozy adventure. Morning begins at the heated station. At noon, we use warm buses to commute between historic sites. Afternoon shows off the snowy panorama from the bus window before we make a timely return to the station as darkness falls early."
+          },
+          "stops": [
+            {
+              "name": "Tryavna Bus Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist beheizt; ein guter Ort, um den Tag warm zu beginnen.",
+                "hu": "Az állomásépület fűtött; jó hely a nap meleg indításához.",
+                "ro": "Clădirea gării este încălzită; un loc bun pentru a începe ziua.",
+                "en": "The station building is heated; a great place to start your day warm."
+              }
+            },
+            {
+              "name": "Kachaunska Neighborhood & Humpbacked Bridge",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle wird oft geräumt, aber Vorsicht vor Matsch beim Aussteigen.",
+                "hu": "A megállót takarítják, de vigyázzon a latyakra leszálláskor.",
+                "ro": "Stația este de obicei deszăpezită, dar atenție la fleșcăraie.",
+                "en": "The bus stop is usually cleared, but watch out for slush when exiting."
+              }
+            },
+            {
+              "name": "Clock Tower & Church of St. Archangel Michael",
+              "tip_5lang": {
+                "de": "Warten Sie in der Nähe eines Geschäfts, um dem kalten Wind zu entgehen.",
+                "hu": "Várjon egy közeli bolt közelében, hogy elkerülje a jeges szelet.",
+                "ro": "Așteptați lângă un magazin pentru a evita vântul înghețat.",
+                "en": "Wait near a local shop to avoid the biting winter wind."
+              }
+            },
+            {
+              "name": "The Old School (Schola)",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museumsfoyer als Aufwärmstation vor der nächsten Fahrt.",
+                "hu": "Használja a múzeum előcsarnokát melegedőként a következő járat előtt.",
+                "ro": "Folosiți holul muzeului ca zonă de încălzire înaintea cursei următoare.",
+                "en": "Use the museum foyer as a warming station before your next ride."
+              }
+            },
+            {
+              "name": "Daskalov House",
+              "tip_5lang": {
+                "de": "Die Fahrpläne können im Winter leicht abweichen; prüfen Sie Aushänge.",
+                "hu": "A menetrend télen kissé eltérhet; ellenőrizze a kihelyezett táblákat.",
+                "ro": "Orarele pot varia ușor iarna; verificați afișele din stații.",
+                "en": "Schedules might vary slightly in winter; check the posted timetables."
+              }
+            },
+            {
+              "name": "Museum of Icon Painting",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zum Bus ist bei Kälte besser als langes Warten.",
+                "hu": "Egy rövid sprint a buszhoz jobb a hidegben, mint a hosszú várakozás.",
+                "ro": "Un sprint scurt spre autobuz este preferabil așteptării în frig.",
+                "en": "A short sprint to the bus is better than long waits in the cold."
+              }
+            },
+            {
+              "name": "Raykov House",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Sie den letzten Bus vor 18:00 Uhr erwischen.",
+                "hu": "Győződjön meg róla, hogy eléri az utolsó buszt 18:00 előtt.",
+                "ro": "Asigurați-vă că prindeți ultimul autobuz înainte de ora 18:00.",
+                "en": "Make sure you catch the last convenient bus before 6:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge sind im Winter oft zuverlässiger als Busse bei Schneefall.",
+              "Behalten Sie Ihre Handschuhe an, während Sie am Bahnhof warten.",
+              "Die Heizung in den Regionalbussen ist oft sehr kräftig eingestellt.",
+              "Planen Sie Pufferzeiten für Anschlüsse bei Glätte ein."
+            ],
+            "hu": [
+              "A vonatok télen gyakran megbízhatóbbak a buszoknál nagy hóban.",
+              "Tartsa magán a kesztyűjét, amíg az állomáson várakozik.",
+              "A helyi buszokon a fűtés gyakran nagyon intenzív, öltözzön rétegesen.",
+              "Tervezzen be ráhagyást a csatlakozásokhoz jeges útviszonyok esetén."
+            ],
+            "ro": [
+              "Trenurile sunt adesea mai fiabile decât autobuzele pe ninsoare mare.",
+              "Păstrați mănușile pe mâini în timp ce așteptați în stație.",
+              "Încălzirea în autobuzele locale este adesea foarte puternică.",
+              "Alocați timp suplimentar pentru conexiuni în caz de polei pe drum."
+            ],
+            "en": [
+              "Trains are often more reliable than buses during heavy snowfall.",
+              "Keep your gloves on while waiting at the outdoor bus stops.",
+              "Heating in local buses is often set quite high; dress in layers.",
+              "Allow extra time for connections if roads are icy or snow-covered."
+            ]
+          }
+        }
       }
     }
   }

@@ -277,6 +277,178 @@
           "Bring water and snacks, especially for the walk to the river.",
           "Check opening hours if you plan to visit the interior of any buildings."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem schützenden Vordach der St. Demetrius Kirche, während der Regen leise auf das Pflaster trommelt. Mittags bietet das Nicolau-Herrenhaus einen trockenen Rückzugsort voller Geschichte, fernab der nassen Alleen. Am Nachmittag wirkt das Ufer der Prahova im Regen melancholisch, mit tief hängenden Wolken über dem Fluss. Der Tag endet mit glänzenden Reflexionen der Straßenlaternen in den Pfützen von Brazi.",
+            "hu": "A reggel a Szent Demeter-templom eresze alatt indul, miközben az eső lágyan kopog a bádogtetőn. Délben a Nicolau-kúria vastag falai és belső terei nyújtanak tökéletes menedéket a felhőszakadás elől. Délután a Prahova-part szürke és lucskos, a folyó vize zavarosabb, de a látvány így is megnyugtató. Estére a városi fények megcsillannak a vizes aszfalton, miközben befejezzük ezt a párás sétát.",
+            "ro": "Dimineața începe sub streașina Bisericii Sf. Dumitru, în timp ce ploaia bate ușor în trotuar. La prânz, Conacul Nicolau oferă un refugiu uscat și plin de istorie, departe de aleile ude ale parcului. După-amiaza, malul râului Prahova pare melancolic sub cerul plumburiu, cu apa tulburată de picături. Ziua se încheie cu reflexiile luminilor stradale în bălțile formate pe străzile din Brazi.",
+            "en": "The morning starts under the protective eaves of St. Demetrius Church as rain gently drums on the pavement. At noon, the Nicolau Mansion provides a dry sanctuary filled with history, away from the wet park alleys. In the afternoon, the bank of the Prahova River looks melancholy under the heavy clouds, with water ruffled by the raindrops. The day ends with streetlights reflecting in the puddles along the streets of Brazi."
+          },
+          "stops": [
+            {
+              "name": "St. Demetrius Church",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem Kircheneingang; das Innere ist angenehm trocken.",
+                "hu": "Használja a templom bejáratát esővédőként; a belső tér csendes és száraz.",
+                "ro": "Folosiți intrarea bisericii ca adăpost; interiorul este liniștit și uscat.",
+                "en": "Use the church entrance as shelter; the interior is quiet and dry."
+              }
+            },
+            {
+              "name": "Brazi Heroes' Monument",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für ein Foto; der offene Platz bietet wenig Schutz.",
+                "hu": "Gyors fotómegálló; a nyitott tér nem nyújt védelmet az eső ellen.",
+                "ro": "Oprire scurtă pentru poze; piața deschisă nu oferă protecție împotriva ploii.",
+                "en": "Quick photo stop; the open square offers little protection from the rain."
+              }
+            },
+            {
+              "name": "Nicolau Mansion",
+              "tip_5lang": {
+                "de": "Ideal bei Regen: Verbringen Sie mehr Zeit mit den Ausstellungen im Inneren.",
+                "hu": "Ideális esőben: töltsön több időt a belső kiállítások megtekintésével.",
+                "ro": "Ideal pe ploaie: petreceți mai mult timp vizitând expozițiile interioare.",
+                "en": "Ideal for rain: spend more time viewing the interior exhibitions."
+              }
+            },
+            {
+              "name": "Nicolau Park",
+              "tip_5lang": {
+                "de": "Meiden Sie unbefestigte Wege; nutzen Sie die asphaltierten Pfade unter den Bäumen.",
+                "hu": "Kerülje a földutakat; maradjon az aszfaltozott ösvényeken a fák alatt.",
+                "ro": "Evitați potecile de pământ; rămâneți pe aleile asfaltate de sub copaci.",
+                "en": "Avoid dirt paths; stick to the paved alleys under the trees."
+              }
+            },
+            {
+              "name": "Prahova River Bank near Brazi",
+              "tip_5lang": {
+                "de": "Vorsicht am Ufer; der Boden kann bei Nässe sehr rutschig und schlammig sein.",
+                "hu": "Vigyázat a parton; a talaj nagyon csúszós és sáros lehet eső után.",
+                "ro": "Atenție pe mal; solul poate fi foarte alunecos și noroios după ploaie.",
+                "en": "Caution on the bank; the ground can be very slippery and muddy after rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen der offenen Flächen am Flussufer unerlässlich.",
+              "Das Nicolau-Herrenhaus ist der beste Ort, um einen starken Schauer abzuwarten.",
+              "Tragen Sie wasserfeste Schuhe, da sich im Park und am Fluss Pfützen bilden.",
+              "Die St. Demetrius Kirche bietet einen guten überdachten Treffpunkt.",
+              "Halten Sie Ausschau nach kleinen Cafés in der Nähe des Bahnhofs für eine Pause."
+            ],
+            "hu": [
+              "A folyóparti nyitott részek miatt egy stabil esernyő elengedhetetlen.",
+              "A Nicolau-kúria a legjobb hely egy nagyobb zápor átvészelésére.",
+              "Viseljen vízálló cipőt, mert a parkban és a folyónál tócsák alakulhatnak ki.",
+              "A Szent Demeter-templom jó fedett találkozási pontot nyújt.",
+              "Keressen kis kávézókat a vasútállomás környékén egy meleg italhoz."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza zonelor deschise de lângă râu.",
+              "Conacul Nicolau este cel mai bun loc pentru a aștepta trecerea unei averse.",
+              "Purtați încălțăminte impermeabilă, deoarece în parc se pot forma bălți mari.",
+              "Biserica Sf. Dumitru oferă un punct de întâlnire acoperit foarte bun.",
+              "Căutați mici cafenele în apropierea gării pentru o pauză la căldură."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to the open areas near the riverbank.",
+              "The Nicolau Mansion is the best place to wait out a heavy downpour.",
+              "Wear waterproof shoes as large puddles can form in the park and by the river.",
+              "St. Demetrius Church provides a good covered meeting point.",
+              "Look for small cafes near the train station for a warm break."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt an der St. Demetrius Kirche, wo der Raureif die alten Mauern ziert. Mittags weht ein kalter Wind durch den Nicolau-Park, was den Besuch im beheizten Herrenhaus umso gemütlicher macht. Am Nachmittag liegt das Prahova-Ufer starr und friedlich unter einer dünnen Eisschicht. Die Dämmerung setzt früh ein und hüllt Brazi in ein blaues, winterliches Licht, während man sich nach Wärme sehnt.",
+            "hu": "Deres reggel köszönt ránk a Szent Demeter-templomnál, ahol a zúzmara díszíti az ősi falakat. Délben metsző szél fúj át a Nicolau-parkon, ami még vonzóbbá teszi a fűtött kúria látogatását. Délután a Prahova-part mozdulatlan és békés, a víz szélét vékony jéghártya borítja. A szürkület korán érkezik, kékesszürke téli fénybe vonva Brazit, miközben a meleg után vágyódunk.",
+            "ro": "O dimineață geroasă începe la Biserica Sf. Dumitru, unde chiciura împodobește zidurile vechi. La prânz, un vânt rece suflă prin Parcul Nicolau, făcând vizita la conacul încălzit și mai plăcută. După-amiaza, malul Prahovei este încremenit și liniștit, cu marginea apei acoperită de o pojghiță de gheață. Amurgul coboară devreme, îmbrăcând Braziul într-o lumină albăstruie de iarnă.",
+            "en": "A frosty morning begins at St. Demetrius Church, where hoarfrost decorates the old walls. At noon, a biting wind blows through Nicolau Park, making the visit to the heated mansion even more inviting. In the afternoon, the Prahova riverbank is still and peaceful, with a thin layer of ice at the water's edge. Dusk falls early, wrapping Brazi in a blue wintry light as you long for warmth."
+          },
+          "stops": [
+            {
+              "name": "St. Demetrius Church",
+              "tip_5lang": {
+                "de": "Vorsicht auf den vereisten Stufen am Kircheneingang.",
+                "hu": "Vigyázzon a templom bejáratánál lévő jeges lépcsőkkel.",
+                "ro": "Atenție la treptele înghețate de la intrarea în biserică.",
+                "en": "Watch out for the icy steps at the church entrance."
+              }
+            },
+            {
+              "name": "Brazi Heroes' Monument",
+              "tip_5lang": {
+                "de": "Der Wind auf dem freien Platz kann sehr schneidig sein; warm anziehen.",
+                "hu": "A nyitott téren a szél nagyon metsző lehet; öltözzön rétegesen.",
+                "ro": "Vântul în piața deschisă poate fi foarte tăios; îmbrăcați-vă bine.",
+                "en": "The wind in the open square can be very biting; dress in layers."
+              }
+            },
+            {
+              "name": "Nicolau Mansion",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum, um sich zwischen den Spaziergängen aufzuwärmen.",
+                "hu": "Használja ki a belső teret, hogy felmelegedjen a séták között.",
+                "ro": "Profită de interior pentru a te încălzi între plimbări.",
+                "en": "Take advantage of the interior to warm up between walks."
+              }
+            },
+            {
+              "name": "Nicolau Park",
+              "tip_5lang": {
+                "de": "Die Wege können glatt sein; festes Schuhwerk mit Profil ist wichtig.",
+                "hu": "Az utak csúszósak lehetnek; fontos a jó tapadású téli lábbeli.",
+                "ro": "Aleile pot fi alunecoase; încălțămintea cu talpă aderentă este esențială.",
+                "en": "The paths can be slippery; footwear with good grip is essential."
+              }
+            },
+            {
+              "name": "Prahova River Bank near Brazi",
+              "tip_5lang": {
+                "de": "Die Sonne geht gegen 16:30 Uhr unter; planen Sie den Rückweg rechtzeitig.",
+                "hu": "A nap 16:30 körül nyugszik; tervezze meg időben a visszautat.",
+                "ro": "Soarele apune în jurul orei 16:30; planificați drumul de întoarcere din timp.",
+                "en": "The sun sets around 4:30 PM; plan your return journey in time."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Wegen der Nähe zu offenen Feldern ist der Windchill-Effekt in Brazi oft hoch.",
+              "Die Sonne geht im Winter bereits vor 17:00 Uhr unter.",
+              "Tragen Sie Handschuhe und eine Mütze, besonders für den Abschnitt am Fluss.",
+              "Kombinieren Sie Außenstopps mit längeren Pausen in Innenräumen.",
+              "Die Gehwege in der Stadt werden nicht immer sofort geräumt."
+            ],
+            "hu": [
+              "A nyílt mezők közelsége miatt a szélérzet Braziban gyakran alacsonyabb.",
+              "Télen a nap már 17:00 előtt lemegy, tervezzen eszerint.",
+              "Viseljen kesztyűt és sapkát, különösen a folyóparti szakaszon.",
+              "Kombinálja a külső megállókat hosszabb benti tartózkodással.",
+              "A városi járdákat nem mindig takarítják le azonnal a hóesés után."
+            ],
+            "ro": [
+              "Din cauza câmpurilor deschise, vântul se simte mult mai rece în Brazi.",
+              "Iarna, soarele apune înainte de ora 17:00; grăbiți vizitele exterioare.",
+              "Purtați mănuși și căciulă, mai ales pentru porțiunea de lângă râu.",
+              "Combinați opririle în aer liber cu pauze lungi în spații încălzite.",
+              "Trotuarele din oraș nu sunt întotdeauna curățate imediat după ninsoare."
+            ],
+            "en": [
+              "Due to the open fields nearby, the wind chill in Brazi is often high.",
+              "In winter, the sun sets before 5:00 PM; plan your daylight hours carefully.",
+              "Wear gloves and a hat, especially for the section along the river.",
+              "Combine outdoor stops with longer breaks in heated indoor spaces.",
+              "City sidewalks are not always cleared immediately after snowfall."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -571,6 +743,196 @@
           "Bring a lock to secure your bike at the stops.",
           "Be aware of traffic, especially near the industrial areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet am Bahnhof Brazi unter grauem Himmel. Die Fahrt zum Raffinerie-Aussichtspunkt erfordert Konzentration auf den nassen Straßen, während die Industrieanlagen im Regen monumental wirken. Am Prahova-Ufer spritzt das Wasser von den Reifen, und der Wind fordert die Ausdauer heraus. Nach einem kurzen Halt an der Kirche endet die Tour am Stadion, wo der Regen allmählich nachlässt.",
+            "hu": "A biciklitúra a brazi vasútállomástól indul szürke égbolt alatt. A finomító kilátópontjához vezető út koncentrációt igényel a vizes úton, miközben az ipari komplexum monumentálisnak tűnik az esőben. A Prahova-parton a sárvédők teszik a dolgukat, a szél pedig próbára teszi a kitartást. A templomi megálló után a túra a stadionnál ér véget, ahol az eső lassan csendesedik.",
+            "ro": "Turul cu bicicleta pornește de la Gara Brazi sub un cer cenușiu. Drumul spre punctul de belvedere al rafinăriei necesită concentrare pe șoseaua udă, în timp ce instalațiile industriale par monumentale în ploaie. Pe malul Prahovei, apa sare de pe roți, iar vântul testează rezistența. După o scurtă oprire la biserică, turul se încheie la stadion, unde ploaia începe să se potolească.",
+            "en": "The bike tour starts at Brazi Train Station under a grey sky. The ride to the refinery viewpoint requires concentration on the wet roads, while the industrial plants look monumental in the rain. On the Prahova bank, water splashes from the tires, and the wind challenges your stamina. After a brief stop at the church, the tour ends at the stadium as the rain begins to subside."
+          },
+          "stops": [
+            {
+              "name": "Brazi Train Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Bahnhofsdach, um Ihre Regenbekleidung zu ordnen.",
+                "hu": "Használja a vasútállomás tetejét az esőruházat elrendezéséhez.",
+                "ro": "Folosiți copertina gării pentru a vă aranja echipamentul de ploaie.",
+                "en": "Use the station canopy to organize your rain gear."
+              }
+            },
+            {
+              "name": "Petrobrazi Refinery (Viewing Point)",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Radweg; Markierungen können bei Nässe rutschig sein.",
+                "hu": "Vigyázzon a kerékpárúton; a felfestések vizesen csúszhatnak.",
+                "ro": "Atenție pe pista de biciclete; marcajele pot fi alunecoase când sunt ude.",
+                "en": "Caution on the bike path; road markings can be slippery when wet."
+              }
+            },
+            {
+              "name": "Prahova River Bank near Brazi",
+              "tip_5lang": {
+                "de": "Reduzieren Sie die Geschwindigkeit auf unbefestigten Abschnitten.",
+                "hu": "Csökkentse a sebességet a nem aszfaltozott szakaszokon.",
+                "ro": "Reduceți viteza pe porțiunile neasfaltate.",
+                "en": "Reduce your speed on unpaved sections."
+              }
+            },
+            {
+              "name": "St. Demetrius Church",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz unter Bäumen oder am Kirchenzaun.",
+                "hu": "Biztonságos tárolóhely a fák alatt vagy a templom kerítésénél.",
+                "ro": "Loc de parcare sigur sub copaci sau lângă gardul bisericii.",
+                "en": "Safe parking spot under trees or near the church fence."
+              }
+            },
+            {
+              "name": "Nicolau Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf tief hängende Äste, die durch den Regen schwerer sind.",
+                "hu": "Ügyeljen a belógó ágakra, amelyek az esőtől elnehezültek.",
+                "ro": "Atenție la ramurile joase, îngreunate de ploaie.",
+                "en": "Watch out for low-hanging branches heavy from the rain."
+              }
+            },
+            {
+              "name": "Chimia Brazi Stadium",
+              "tip_5lang": {
+                "de": "Das Stadion bietet einige überdachte Bereiche zum Ausruhen.",
+                "hu": "A stadion környékén van néhány fedett rész a pihenéshez.",
+                "ro": "Stadionul oferă câteva zone acoperite pentru odihnă.",
+                "en": "The stadium area offers some covered spots for resting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind auf den oft schmutzigen Industrierouten von Brazi ein Muss.",
+              "Vermeiden Sie plötzliches Bremsen auf den nassen Asphaltwegen.",
+              "Tragen Sie eine auffällige Warnweste, da die Sicht bei Regen eingeschränkt ist.",
+              "Die Route führt teilweise über offene Straßen mit LKW-Verkehr.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt zum Flussufer."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen Brazi gyakran koszos ipari útjain.",
+              "Kerülje a hirtelen fékezést a vizes aszfalton.",
+              "Viseljen láthatósági mellényt, mert esőben rosszabbak a látási viszonyok.",
+              "Az útvonal részben kamionforgalmú nyílt utakon halad.",
+              "Ellenőrizze a fékeket a folyóparti szakasz előtt."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii pe drumurile industriale din Brazi.",
+              "Evitați frânarea bruscă pe porțiunile de asfalt ud.",
+              "Purtați o vestă reflectorizantă, vizibilitatea scade semnificativ pe ploaie.",
+              "Traseul trece parțial pe drumuri deschise cu trafic de camioane.",
+              "Verificați frânele înainte de a coborî spre malul râului."
+            ],
+            "en": [
+              "Mudguards are a must on Brazi's often dirty industrial routes.",
+              "Avoid sudden braking on wet asphalt surfaces.",
+              "Wear a high-visibility vest as visibility is reduced in the rain.",
+              "The route partly follows open roads with truck traffic.",
+              "Check your brakes before heading towards the riverbank section."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour beginnt am Bahnhof Brazi bei klarem, eisigem Wetter. Der Weg zur Raffinerie führt durch kalte Luftmassen, während der Dampf aus den Schornsteinen in den Himmel steigt. Am Prahova-Ufer ist der Boden hart gefroren und die Reifen knirschen auf dem Untergrund. Nach einem Besuch im Nicolau-Park endet die Fahrt am Stadion, kurz bevor die Kälte des Abends die Finger erstarren lässt.",
+            "hu": "A téli túra a vasútállomástól indul tiszta, jeges időben. A finomító felé vezető út hideg légtömegeken vág át, miközben a gyárkémények gőze magasra száll. A Prahova-parton a talaj keményre fagyott, a kerekek ropognak a talajon. A Nicolau-parki látogatás után a stadionnál fejezzük be a tekerést, épp mielőtt az esti fagy elzsibbasztaná az ujjainkat.",
+            "ro": "Turul de iarnă începe la Gara Brazi pe o vreme senină și geroasă. Drumul spre rafinărie trece prin mase de aer rece, în timp ce aburul din coșuri se ridică sus pe cer. Pe malul Prahovei, solul este înghețat bocnă, iar roțile scârțâie pe pământ. După o vizită în Parcul Nicolau, încheiem turul la stadion, chiar înainte ca gerul serii să ne amorțească degetele.",
+            "en": "The winter tour starts at Brazi Train Station in clear, icy weather. The path to the refinery cuts through cold air masses while steam from the chimneys rises high into the sky. On the Prahova bank, the ground is frozen hard, and the tires crunch on the surface. After a visit to Nicolau Park, we end the ride at the stadium just before the evening frost numbs our fingers."
+          },
+          "stops": [
+            {
+              "name": "Brazi Train Station",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich kurz in der Bahnhofshalle auf, bevor Sie losfahren.",
+                "hu": "Melegedjen fel a váróteremben, mielőtt útnak indulna.",
+                "ro": "Încălziți-vă în sala de așteptare înainte de a porni la drum.",
+                "en": "Warm up in the waiting hall before you start your ride."
+              }
+            },
+            {
+              "name": "Petrobrazi Refinery (Viewing Point)",
+              "tip_5lang": {
+                "de": "Vorsicht vor 'Black Ice' auf den Brücken in der Nähe der Raffinerie.",
+                "hu": "Vigyázzon a fekete jéggel a finomító környéki hidakon.",
+                "ro": "Atenție la gheața neagră de pe podurile din apropierea rafinăriei.",
+                "en": "Beware of black ice on the bridges near the refinery."
+              }
+            },
+            {
+              "name": "Prahova River Bank near Brazi",
+              "tip_5lang": {
+                "de": "Die Luft am Fluss ist im Winter deutlich kälter; Gesichtsschutz empfohlen.",
+                "hu": "A folyóparti levegő télen jóval hidegebb; arcvédő javasolt.",
+                "ro": "Aerul de lângă râu este mult mai rece iarna; masca facială e recomandată.",
+                "en": "The air by the river is much colder in winter; face protection is advised."
+              }
+            },
+            {
+              "name": "St. Demetrius Church",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad so ab, dass es den geräumten Weg nicht blockiert.",
+                "hu": "Úgy parkoljon, hogy ne akadályozza a letakarított járdát.",
+                "ro": "Parcați astfel încât să nu blocați calea curățată de zăpadă.",
+                "en": "Park your bike so it doesn't block the cleared path."
+              }
+            },
+            {
+              "name": "Nicolau Park",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den kurvigen Parkwegen; Gefahr von Glätte.",
+                "hu": "Óvatosan haladjon a kanyargós parki utakon; csúszásveszély áll fenn.",
+                "ro": "Circulați cu grijă pe aleile curbe din parc; risc de derapaj.",
+                "en": "Ride carefully on the winding park paths; there's a risk of skidding."
+              }
+            },
+            {
+              "name": "Chimia Brazi Stadium",
+              "tip_5lang": {
+                "de": "Prüfen Sie das Licht an Ihrem Rad; es wird früh dunkel.",
+                "hu": "Ellenőrizze a világítást; hamar sötétedik.",
+                "ro": "Verificați luminile bicicletei; se întunecă devreme.",
+                "en": "Check your bike lights; it gets dark early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Winterhandschuhe sind wegen des Fahrtwinds bei Minusgraden kritisch.",
+              "Der Reifendruck sollte im Winter etwas niedriger sein für mehr Grip.",
+              "Batteriebetriebene Lichter entladen sich bei Kälte schneller.",
+              "Salz auf den Straßen kann den Fahrradrahmen angreifen; nach der Tour reinigen.",
+              "Planen Sie mehr Zeit für die gleiche Strecke ein."
+            ],
+            "hu": [
+              "A jó téli kesztyű kritikus a menetszél miatt mínusz fokokban.",
+              "A guminyomás legyen kicsit alacsonyabb a jobb tapadás érdekében.",
+              "Az akkumulátoros lámpák hamarabb lemerülnek a hidegben.",
+              "Az utakon lévő só kikezdheti a vázat; túra után tisztítsa meg.",
+              "Tervezzen több időt ugyanarra a távra a nehezebb útviszonyok miatt."
+            ],
+            "ro": [
+              "Mănușile de iarnă sunt critice din cauza curentului de aer la temperaturi negative.",
+              "Presiunea în pneuri ar trebui să fie puțin mai mică pentru aderență sporită.",
+              "Luminile cu acumulator se descarcă mult mai repede la frig.",
+              "Sarea de pe drumuri poate ataca cadrul bicicletei; curățați-o după tur.",
+              "Alocați mai mult timp pentru același traseu din cauza condițiilor dificile."
+            ],
+            "en": [
+              "Good winter gloves are critical due to wind chill at sub-zero temperatures.",
+              "Lower your tire pressure slightly for better grip on frozen surfaces.",
+              "Battery-powered lights drain much faster in the cold.",
+              "Road salt can corrode the bike frame; clean it after the tour.",
+              "Allow more time for the same distance due to tougher conditions."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -871,6 +1233,196 @@
           "A GPS is essential for navigating between clusters.",
           "Fill up on gas before heading into more rural areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt am Nicolau-Park, während dicke Regentropfen auf das Autodach trommeln. Der Weg zum Herrenhaus und zur Kirche ist kurz, doch die Sicht ist durch den Niederschlag eingeschränkt. Am Nachmittag führt die Route zur Raffinerie, deren Lichter sich in den nassen Straßen spiegeln. Die Tour endet am Flussufer, wo man das Naturschauspiel bequem vom trockenen Innenraum des Wagens aus beobachten kann.",
+            "hu": "Az út a Nicolau-parknál indul, miközben sűrű esőcseppek dobognak az autó tetején. A kúria és a templom közötti táv rövid, de a látótávolság korlátozott a csapadék miatt. Délután az útvonal a finomítóhoz vezet, melynek fényei megcsillannak a vizes aszfalton. A túra a folyóparton ér véget, ahol az autó száraz belső teréből kényelmesen figyelhetjük a természetet.",
+            "ro": "Călătoria începe la Parcul Nicolau, în timp ce picături mari de ploaie bat în plafonul mașinii. Drumul spre conac și biserică este scurt, dar vizibilitatea este limitată de precipitații. După-amiaza, traseul duce spre rafinărie, ale cărei lumini se reflectă în șoseaua udă. Turul se încheie pe malul râului, unde puteți observa spectacolul naturii confortabil, din interiorul uscat al mașinii.",
+            "en": "The journey starts at Nicolau Park as thick raindrops drum on the car roof. The drive to the mansion and church is short, but visibility is limited by the precipitation. In the afternoon, the route leads to the refinery, whose lights reflect in the wet streets. The tour ends at the riverbank, where you can watch the natural spectacle comfortably from the dry interior of the car."
+          },
+          "stops": [
+            {
+              "name": "Nicolau Park (Cluster A Parking)",
+              "tip_5lang": {
+                "de": "Parken Sie unter Bäumen, um beim Aussteigen weniger Regen abzubekommen.",
+                "hu": "Parkoljon a fák közelében, hogy kiszálláskor kevesebb eső érje.",
+                "ro": "Parcați aproape de copaci pentru a fi mai protejat de ploaie la coborâre.",
+                "en": "Park near trees to get less rain on you when exiting the car."
+              }
+            },
+            {
+              "name": "Nicolau Mansion",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist direkt am Eingang; kurzer Weg im Regen.",
+                "hu": "A parkoló közvetlenül a bejáratnál van; rövid séta az esőben.",
+                "ro": "Parcarea este chiar lângă intrare; drum scurt prin ploaie.",
+                "en": "The parking is right by the entrance; a short walk in the rain."
+              }
+            },
+            {
+              "name": "St. Demetrius Church",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Zufahrt; auf den Nebenstraßen können sich tiefe Pfützen bilden.",
+                "hu": "Vigyázzon a behajtásnál; a mellékutcákban mély tócsák alakulhatnak ki.",
+                "ro": "Atenție la acces; pe străzile secundare se pot forma bălți adânci.",
+                "en": "Caution during access; deep puddles can form on side streets."
+              }
+            },
+            {
+              "name": "Petrobrazi Refinery (Cluster B Parking)",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen für den Ausblick einfach im Auto sitzen.",
+                "hu": "Heves esőben maradjon az autóban a kilátás megtekintéséhez.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină pentru a vedea panorama.",
+                "en": "In case of heavy rain, stay in the car to enjoy the view."
+              }
+            },
+            {
+              "name": "Brazi Train Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kurzzeitparkplatz direkt vor dem Bahnhofsgebäude.",
+                "hu": "Használja a vasútállomás előtti rövid távú parkolót.",
+                "ro": "Folosiți parcarea de scurtă durată din fața clădirii gării.",
+                "en": "Use the short-term parking directly in front of the station building."
+              }
+            },
+            {
+              "name": "Prahova River Bank (Cluster C)",
+              "tip_5lang": {
+                "de": "Befahren Sie keine unbefestigten Wege am Ufer; steckbleiben möglich.",
+                "hu": "Ne hajtson rá a földutakra a parton; könnyen elakadhat a sárban.",
+                "ro": "Nu intrați pe drumurile de pământ de pe mal; riscați să rămâneți împotmolit.",
+                "en": "Do not drive on unpaved paths by the bank; you might get stuck in mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Abfahrt.",
+              "Die Straßen um die Raffinerie können bei Regen durch Industrierückstände rutschig sein.",
+              "Nutzen Sie die Parkplätze so nah wie möglich an den Gebäudeeingängen.",
+              "Halten Sie die Fenster leicht geöffnet oder nutzen Sie die Klimaanlage gegen Beschlag.",
+              "Vermeiden Sie das Parken in tiefen Senken wegen Überflutungsgefahr."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "A finomító körüli utak az ipari lerakódások miatt esőben csúszósabbak lehetnek.",
+              "Használja az épületek bejáratához legközelebbi parkolóhelyeket.",
+              "Használja a klímát a szélvédő páramentesítésére.",
+              "Kerülje a mélyebben fekvő területeken való parkolást a vízfelgyülemlés miatt."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de a porni la drum.",
+              "Drumurile din jurul rafinăriei pot fi alunecoase din cauza reziduurilor industriale.",
+              "Folosiți locurile de parcare cât mai aproape de intrările clădirilor.",
+              "Folosiți aerul condiționat pentru a dezaburi parbrizul rapid.",
+              "Evitați parcarea în zonele joase unde se poate acumula apa."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers before starting.",
+              "Roads around the refinery can be slippery due to industrial residue when wet.",
+              "Use parking spots as close to building entrances as possible.",
+              "Use the air conditioning to keep the windshield from fogging up.",
+              "Avoid parking in low-lying areas due to potential water accumulation."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour beginnt im Nicolau-Park, wo die Bäume schwer von Schnee oder Reif sind. Im warmen Auto geht es sicher durch die verschneiten Straßen von Brazi zur Kirche und zum Herrenhaus. Die industrielle Silhouette der Raffinerie wirkt im klaren Winterlicht besonders scharf gezeichnet. Am Flussufer angekommen, genießt man die frostige Stille, bevor die Heizung im Wagen wieder für wohlige Wärme sorgt.",
+            "hu": "A téli túra a Nicolau-parknál indul, ahol a fákat hó vagy zúzmara nehezíti. A fűtött autóban biztonságosan haladhatunk Brazi havas utcáin a templom és a kúria felé. A finomító ipari sziluettje a tiszta téli fényben különösen élesnek tűnik. A folyóparthoz érve élvezhetjük a fagyos csendet, mielőtt az autó fűtése újra kellemes meleget adna.",
+            "ro": "Turul de iarnă începe la Parcul Nicolau, unde copacii sunt încărcați de zăpadă sau chiciură. Din mașina încălzită, parcurgeți în siguranță străzile înzăpezite ale Braziului spre biserică și conac. Silueta industrială a rafinăriei pare deosebit de clară în lumina rece de iarnă. Ajunși pe malul râului, vă puteți bucura de liniștea înghețată înainte ca încălzirea mașinii să vă ofere din nou confort.",
+            "en": "The winter tour starts at Nicolau Park, where the trees are heavy with snow or frost. From the heated car, you can safely travel through the snowy streets of Brazi to the church and mansion. The industrial silhouette of the refinery looks particularly sharp in the clear winter light. Arriving at the riverbank, you can enjoy the frozen silence before the car's heater provides cozy warmth again."
+          },
+          "stops": [
+            {
+              "name": "Nicolau Park (Cluster A Parking)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen, die Parkplätze blockieren könnten.",
+                "hu": "Ügyeljen a hóbuckákra, amelyek elzárhatják a parkolóhelyeket.",
+                "ro": "Atenție la mormanele de zăpadă care pot bloca locurile de parcare.",
+                "en": "Watch out for snow piles that might block parking spots."
+              }
+            },
+            {
+              "name": "Nicolau Mansion",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort várakozás közben.",
+                "ro": "Nu lăsați motorul pornit inutil în timp ce staționați.",
+                "en": "Do not leave the engine idling unnecessarily while waiting."
+              }
+            },
+            {
+              "name": "St. Demetrius Church",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße zur Kirche kann bei Glätte tückisch sein.",
+                "hu": "A templomhoz vezető út jegesedéskor trükkös lehet.",
+                "ro": "Drumul de acces spre biserică poate fi înșelător în caz de polei.",
+                "en": "The access road to the church can be tricky in case of ice."
+              }
+            },
+            {
+              "name": "Petrobrazi Refinery (Cluster B Parking)",
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie bei Schneefall leicht wieder ausparken können.",
+                "hu": "Úgy parkoljon, hogy havazás esetén is könnyen ki tudjon állni.",
+                "ro": "Parcați astfel încât să puteți ieși ușor în caz de ninsoare.",
+                "en": "Park in a way that allows you to exit easily even if it snows."
+              }
+            },
+            {
+              "name": "Brazi Train Station",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eiszapfen an den Vordächern des Bahnhofs.",
+                "hu": "Vigyázzon a vasútállomás ereszeiről lelógó jégcsapokkal.",
+                "ro": "Atenție la țurțurii de gheață de pe streșinile gării.",
+                "en": "Beware of icicles hanging from the station eaves."
+              }
+            },
+            {
+              "name": "Prahova River Bank (Cluster C)",
+              "tip_5lang": {
+                "de": "Die Zufahrt zum Ufer wird im Winter oft nicht geräumt.",
+                "hu": "A folyóparthoz vezető utat télen gyakran nem takarítják.",
+                "ro": "Drumul spre malul râului nu este adesea deszăpezit iarna.",
+                "en": "The access road to the riverbank is often not cleared in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Rumänien bei Eis und Schnee gesetzlich vorgeschrieben.",
+              "Führen Sie einen Eiskratzer und Handfeger im Auto mit.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Planen Sie mehr Zeit für das morgendliche Enteisen des Fahrzeugs ein.",
+              "Achten Sie auf Streufahrzeuge auf der Hauptstraße zur Raffinerie."
+            ],
+            "hu": [
+              "Romániában a téli gumi kötelező jeges vagy havas útviszonyok között.",
+              "Legyen az autóban jégkaparó és hókefe.",
+              "Ellenőrizze a fagyállót a szélvédőmosó tartályban.",
+              "Tervezzen több időt reggel az autó jégmentesítésére.",
+              "Figyeljen a hókotrókra a finomítóhoz vezető főúton."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în România pe drumuri cu gheață sau zăpadă.",
+              "Aveți în mașină o racletă și o perie pentru zăpadă.",
+              "Verificați antigelul și lichidul de parbriz de iarnă.",
+              "Alocați mai mult timp dimineața pentru degivrarea vehiculului.",
+              "Atenție la utilajele de deszăpezire pe drumul principal spre rafinărie."
+            ],
+            "en": [
+              "Winter tires are mandatory in Romania on icy or snowy roads.",
+              "Keep an ice scraper and a snow brush in your car.",
+              "Check the antifreeze levels in your windshield washer fluid.",
+              "Allow extra time in the morning for de-icing the vehicle.",
+              "Watch out for snowplows on the main road to the refinery."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1127,6 +1679,178 @@
           "Have small change ready for bus tickets.",
           "Plan for buffer times for possible delays."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt an der St. Demetrius Kirche, während der Bus sicher durch die nassen Straßen steuert. Im Nicolau-Park angekommen, bieten die Bäume und Pavillons Schutz, bevor es weiter zum Bahnhof geht. Die Wartezeiten verbringt man am besten in den überdachten Haltestellen, während man den Regen beobachtet. Die Tour endet an der Raffinerie, wo die industriellen Lichter im feuchten Dunst leuchten.",
+            "hu": "Az út a Szent Demeter-templomnál indul, miközben a busz biztonságosan halad a vizes utcákon. A Nicolau-parkba érve a fák és pavilonok nyújtanak oltalmat, mielőtt továbbmennénk az állomásra. A várakozási időt érdemes a fedett megállókban tölteni az esőt figyelve. A túra a finomítónál zárul, ahol az ipari fények világítanak a párás ködben.",
+            "ro": "Călătoria începe la Biserica Sf. Dumitru, în timp ce autobuzul circulă în siguranță pe străzile ude. Ajunși în Parcul Nicolau, copacii și pavilioanele oferă adăpost înainte de a continua spre gară. Timpul de așteptare este cel mai bine petrecut în stațiile acoperite, privind ploaia. Turul se încheie la rafinărie, unde luminile industriale strălucesc prin ceața umedă.",
+            "en": "The journey starts at St. Demetrius Church as the bus travels safely through the wet streets. Arriving at Nicolau Park, the trees and pavilions offer shelter before continuing to the station. Waiting times are best spent in the covered stops while watching the rain. The tour ends at the refinery, where the industrial lights shine through the damp mist."
+          },
+          "stops": [
+            {
+              "name": "St. Demetrius Church (Cluster A)",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nah; warten Sie unter dem Vordach der Kirche.",
+                "hu": "A megálló közeli; várjon a templom eresze alatt.",
+                "ro": "Stația este aproape; așteptați sub streașina bisericii.",
+                "en": "The stop is close by; wait under the church eaves."
+              }
+            },
+            {
+              "name": "Brazi Heroes' Monument",
+              "tip_5lang": {
+                "de": "Nutzen Sie die nächstgelegene überdachte Bushaltestelle als Schutz.",
+                "hu": "Használja a legközelebbi fedett buszmegállót esővédőként.",
+                "ro": "Folosiți cea mai apropiată stație de autobuz acoperită ca adăpost.",
+                "en": "Use the nearest covered bus stop as shelter."
+              }
+            },
+            {
+              "name": "Nicolau Park",
+              "tip_5lang": {
+                "de": "Planen Sie den Weg zur Haltestelle so, dass Sie nicht durch tiefen Matsch müssen.",
+                "hu": "Úgy tervezze a megállóhoz vezető utat, hogy elkerülje a mély sarat.",
+                "ro": "Planificați drumul spre stație astfel încât să evitați noroiul adânc.",
+                "en": "Plan your path to the stop to avoid deep mud."
+              }
+            },
+            {
+              "name": "Brazi Train Station (Cluster B)",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet einen großen, trockenen Wartebereich.",
+                "hu": "A vasútállomás tágas, száraz váróteremmel rendelkezik.",
+                "ro": "Gara are o zonă de așteptare spațioasă și uscată.",
+                "en": "The train station has a spacious, dry waiting area."
+              }
+            },
+            {
+              "name": "Petrobrazi Refinery (Viewing Point)",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Fahrplan, um die Wartezeit im Regen zu minimieren.",
+                "hu": "Figyelje a menetrendet, hogy minimálisra csökkentse az esőben várakozást.",
+                "ro": "Verificați orarul pentru a minimiza timpul de așteptare în ploaie.",
+                "en": "Check the schedule to minimize waiting time in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die offizielle App der lokalen Verkehrsbetriebe für Echtzeitdaten.",
+              "Die Haltestellen in Brazi sind teilweise nicht vollständig überdacht.",
+              "Haben Sie Kleingeld oder eine Karte für das Ticket bereit.",
+              "Vermeiden Sie es, nah am Straßenrand zu stehen, um nicht nassgespritzt zu werden.",
+              "Die Busse sind bei Regen oft vollbesetzt."
+            ],
+            "hu": [
+              "Használja a helyi közlekedési alkalmazást a valós idejű adatokhoz.",
+              "Brazi megállói részben nincsenek teljesen lefedve.",
+              "Legyen kéznél aprópénz vagy kártya a jegyvásárláshoz.",
+              "Ne álljon túl közel az út széléhez, hogy ne fröcsköljék le az autók.",
+              "Esőben a buszok gyakran zsúfoltabbak a szokásosnál."
+            ],
+            "ro": [
+              "Folosiți aplicația locală de transport pentru date în timp real.",
+              "Unele stații din Brazi nu sunt complet acoperite.",
+              "Aveți pregătiți bani mărunți sau un card pentru bilet.",
+              "Evitați să stați prea aproape de marginea drumului pentru a nu fi stropit.",
+              "Autobuzele sunt adesea mai aglomerate când plouă."
+            ],
+            "en": [
+              "Use the local transit app for real-time schedule updates.",
+              "Some stops in Brazi are not fully covered.",
+              "Have small change or a card ready for buying tickets.",
+              "Avoid standing too close to the curb to prevent being splashed by cars.",
+              "Buses are often more crowded during rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterreise beginnt an der St. Demetrius Kirche in der klaren Morgenkälte. Der Bus bringt Sie gemütlich zum gefrorenen Nicolau-Park, wo man die verschneite Landschaft bewundern kann. Am Bahnhof Brazi bietet der beheizte Wartebereich eine willkommene Pause vom Frost. Den Abschluss bildet die Raffinerie, deren dampfende Türme in der frühen Winterdämmerung ein beeindruckendes Bild abgeben.",
+            "hu": "A téli utazás a Szent Demeter-templomnál indul a tiszta reggeli hidegben. A busz kényelmesen repít a fagyos Nicolau-parkhoz, ahol megcsodálhatjuk a havas tájat. A brazi vasútállomás fűtött váróterme szívesen látott pihenőt nyújt a fagy elől. A túrát a finomítónál zárjuk, melynek gőzölgő tornyai a korai téli szürkületben lenyűgöző látványt nyújtanak.",
+            "ro": "Călătoria de iarnă începe la Biserica Sf. Dumitru în gerul clar al dimineții. Autobuzul vă duce confortabil spre Parcul Nicolau înghețat, unde puteți admira peisajul înzăpezit. În Gara Brazi, sala de așteptare încălzită oferă o pauză binemeritată de la frig. Încheiem la rafinărie, ale cărei turnuri care scot aburi oferă o imagine impresionantă în amurgul de iarnă.",
+            "en": "The winter journey starts at St. Demetrius Church in the clear morning cold. The bus takes you comfortably to the frozen Nicolau Park, where you can admire the snowy landscape. At Brazi Train Station, the heated waiting area offers a welcome break from the frost. We finish at the refinery, whose steaming towers provide an impressive sight in the early winter dusk."
+          },
+          "stops": [
+            {
+              "name": "St. Demetrius Church (Cluster A)",
+              "tip_5lang": {
+                "de": "Warten Sie im Windschatten der Kirchenmauern auf den Bus.",
+                "hu": "Várjon a buszra a templom falainak szélárnyékában.",
+                "ro": "Așteptați autobuzul la adăpostul zidurilor bisericii.",
+                "en": "Wait for the bus in the lee of the church walls."
+              }
+            },
+            {
+              "name": "Brazi Heroes' Monument",
+              "tip_5lang": {
+                "de": "Halten Sie sich nur kurz auf, da der Platz im Winter sehr zugig ist.",
+                "hu": "Csak rövid ideig maradjon, mert a tér télen nagyon huzatos.",
+                "ro": "Stați doar puțin timp, deoarece piața este foarte expusă vântului iarna.",
+                "en": "Stay only for a short time as the square is very draughty in winter."
+              }
+            },
+            {
+              "name": "Nicolau Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Weg zur Haltestelle vor glatten Stellen.",
+                "hu": "Vigyázzon a csúszós foltokkal a megállóhoz vezető úton.",
+                "ro": "Atenție la porțiunile alunecoase în drum spre stație.",
+                "en": "Watch out for slippery patches on your way to the stop."
+              }
+            },
+            {
+              "name": "Brazi Train Station (Cluster B)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bahnhof, um sich vor der Weiterfahrt aufzuwärmen.",
+                "hu": "Használja a vasútállomást felmelegedésre a folytatás előtt.",
+                "ro": "Folosiți gara pentru a vă încălzi înainte de a continua drumul.",
+                "en": "Use the train station to warm up before continuing your trip."
+              }
+            },
+            {
+              "name": "Petrobrazi Refinery (Viewing Point)",
+              "tip_5lang": {
+                "de": "Die letzte Fahrt zurück in die Stadt sollte vor Einbruch der Dunkelheit geplant werden.",
+                "hu": "Az utolsó visszautat a városba tervezze a sötétedés elé.",
+                "ro": "Planificați ultima cursă de întoarcere în oraș înainte de lăsarea întunericului.",
+                "en": "Plan the last trip back to the city before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Schneefall Verspätungen haben.",
+              "Die Heizung in den Fahrzeugen ist nicht immer optimal; bleiben Sie warm angezogen.",
+              "Warten Sie bevorzugt in Innenräumen (Bahnhof), wenn möglich.",
+              "Achten Sie auf vereiste Trittstufen beim Ein- und Aussteigen.",
+              "Die Sonne geht im Winter früh unter, prüfen Sie die Abendverbindungen."
+            ],
+            "hu": [
+              "Erős havazás esetén a buszok késhetnek.",
+              "A járművek fűtése nem mindig optimális; maradjon melegen felöltözve.",
+              "Ha teheti, várjon beltérben (pl. vasútállomás).",
+              "Vigyázzon a jeges lépcsőkre le- és felszálláskor.",
+              "A nap télen korán nyugszik, ellenőrizze az esti járatokat."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri în caz de ninsoare puternică.",
+              "Încălzirea în vehicule nu este întotdeauna optimă; rămâneți bine îmbrăcat.",
+              "Așteptați în spații interioare (gară) ori de câte ori este posibil.",
+              "Atenție la treptele înghețate la urcare și coborâre.",
+              "Soarele apune devreme iarna, verificați legăturile de seară."
+            ],
+            "en": [
+              "Buses may experience delays during heavy snowfall.",
+              "Heating in vehicles is not always optimal; stay warmly dressed.",
+              "Prefer waiting indoors (e.g., train station) whenever possible.",
+              "Watch out for icy steps when boarding or alighting.",
+              "The sun sets early in winter; double-check evening connections."
+            ]
+          }
+        }
       }
     }
   }

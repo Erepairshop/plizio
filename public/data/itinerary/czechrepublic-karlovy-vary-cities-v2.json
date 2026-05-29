@@ -418,6 +418,206 @@
           "The funicular to the Diana Tower is a great help if your legs are tired.",
           "Don't forget to bring cash for small purchases and tips."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Vormittag trocken im Jan-Becher-Museum, wo die Geschichte des Kräuterlikörs den Regen vergessen lässt. Mittags bieten die weitläufigen Kolonnaden wie die Mühlbrunnenkolonnade perfekten Schutz, während Sie die heißen Quellen probieren. Am Nachmittag führt der Weg unter dem Schutz des Grandhotels Pupp zur Seilbahn, die Sie bequem zum Diana-Aussichtsturm bringt. Der Abend endet mit einem stimmungsvollen Spaziergang entlang der Teplá, deren Lichter sich in den Pfützen spiegeln.",
+            "hu": "A reggelt a Jan Becher Múzeum védett falaiban indítjuk, ahol a likőrgyártás titkai feledtetik a kinti szemerkélést. Délben a város monumentális oszlopsorai, különösen a Malom-kolonnád nyújtanak tökéletes fedelet a gyógyvíz kóstolgatásához. Délután a patinás Grandhotel Pupp érintésével a siklóval emelkedünk a Diana-toronyhoz, elkerülve a saras erdei ösvényeket. Az estét a Teplá-folyó partján zárjuk, ahol a kivilágított épületek tükröződnek a nedves aszfalton.",
+            "ro": "Începeți dimineața la adăpost în Muzeul Jan Becher, unde istoria lichiorului de plante vă face să uitați de ploaie. La prânz, colonadele orașului, precum Colonada Morii, oferă o protecție perfectă în timp ce degustați izvoarele termale. După-amiaza, treceți pe la legendarul Grandhotel Pupp și luați funicularul spre Turnul Diana pentru a evita potecile noroioase. Seara se încheie cu o plimbare melancolică de-a lungul râului Teplá, cu luminile orașului reflectându-se în apă.",
+            "en": "Start your morning dry inside the Jan Becher Museum, where the history of the herbal liqueur makes you forget the rain. At noon, the city's vast colonnades, like the Mill Colonnade, provide perfect shelter while you sample the hot springs. In the afternoon, head to the iconic Grandhotel Pupp and take the funicular up to the Diana Tower to avoid muddy forest paths. The evening ends with an atmospheric walk along the Teplá river, with city lights reflecting in the puddles."
+          },
+          "stops": [
+            {
+              "name": "Jan Becher Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den ersten Regenschauer bei einer Verkostung abzuwarten.",
+                "hu": "Tökéletes helyszín az első zápor átvészelésére egy kóstoló kíséretében.",
+                "ro": "Locul ideal pentru a aștepta trecerea primei ploi cu o degustare.",
+                "en": "Perfect spot to wait out the first rain shower with a tasting session."
+              }
+            },
+            {
+              "name": "Mill Colonnade",
+              "tip_5lang": {
+                "de": "Nutzen Sie das lange Dach der Kolonnade für einen trockenen Spaziergang.",
+                "hu": "Használja ki az oszlopsor hosszú tetőszerkezetét a száraz sétához.",
+                "ro": "Folosiți acoperișul lung al colonadei pentru o plimbare uscată.",
+                "en": "Take advantage of the long roof of the colonnade for a dry walk."
+              }
+            },
+            {
+              "name": "Market Colonnade",
+              "tip_5lang": {
+                "de": "Die filigrane Holzstruktur bietet guten Schutz vor vertikalem Regen.",
+                "hu": "A filigrán faszerkezet jó védelmet nyújt a függőleges eső ellen.",
+                "ro": "Structura filigranată din lemn oferă o protecție bună împotriva ploii.",
+                "en": "The delicate wooden structure offers good protection from vertical rain."
+              }
+            },
+            {
+              "name": "Sprudel Colonnade (Vřídelní)",
+              "tip_5lang": {
+                "de": "Die moderne Glashalle ist völlig wetterfest und angenehm warm durch den Geysir.",
+                "hu": "A modern üvegcsarnok teljesen időjárásálló és a gejzír miatt kellemesen meleg.",
+                "ro": "Sala modernă de sticlă este complet rezistentă la intemperii și caldă.",
+                "en": "The modern glass hall is completely weatherproof and warmed by the geyser."
+              }
+            },
+            {
+              "name": "Church of St. Mary Magdalene",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Krypta für ein faszinierendes Indoor-Erlebnis.",
+                "hu": "Látogassa meg a kriptát egy izgalmas, fedett helyszíni élményért.",
+                "ro": "Vizitați cripta pentru o experiență interioară fascinantă.",
+                "en": "Visit the crypt for a fascinating indoor underground experience."
+              }
+            },
+            {
+              "name": "Grandhotel Pupp",
+              "tip_5lang": {
+                "de": "Gönnen Sie sich einen Kaffee im prunkvollen Café, um ganz trocken zu bleiben.",
+                "hu": "Igyon meg egy kávét a pompás kávézóban, hogy teljesen száraz maradjon.",
+                "ro": "Savurați o cafea în cafeneaua somptuoasă pentru a rămâne la uscat.",
+                "en": "Treat yourself to a coffee in the grand café to stay perfectly dry."
+              }
+            },
+            {
+              "name": "Diana Observation Tower",
+              "tip_5lang": {
+                "de": "Nutzen Sie unbedingt die Seilbahn und das überdachte Restaurant oben.",
+                "hu": "Mindenképpen használja a siklót és a fenti fedett éttermet.",
+                "ro": "Asigurați-vă că folosiți funicularul și restaurantul acoperit de sus.",
+                "en": "Be sure to use the funicular and the covered restaurant at the top."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Kolonnaden verbinden viele Sehenswürdigkeiten fast lückenlos trocken.",
+              "Tragen Sie Schuhe mit gutem Profil, da das Kopfsteinpflaster rutschig wird.",
+              "Die Sprudelkolonnade ist durch den 72°C heißen Geysir ein natürlicher Wärmespeicher.",
+              "Die Seilbahn zur Diana erspart Ihnen den Aufstieg durch den nassen Wald."
+            ],
+            "hu": [
+              "A kolonnádok szinte teljesen száraz összeköttetést biztosítanak a források között.",
+              "Viseljen jó tapadású cipőt, mert a macskaköves utcák csúszóssá válnak.",
+              "A Vřídelní kolonnád a 72 fokos gejzír miatt természetes melegedőhely esőben.",
+              "A Diana sikló megkíméli Önt a sáros erdei emelkedőktől."
+            ],
+            "ro": [
+              "Colonadele conectează multe obiective turistice aproape complet uscate.",
+              "Purtați pantofi cu talpă aderentă, deoarece pavajul devine alunecos.",
+              "Colonada Sprudel este un loc natural de încălzire datorită gheizerului de 72°C.",
+              "Funicularul către Diana vă scutește de urcarea prin pădurea udă."
+            ],
+            "en": [
+              "The colonnades connect many sights almost seamlessly under cover.",
+              "Wear shoes with good grip as the cobblestones become slippery when wet.",
+              "The Sprudel Colonnade is a natural warming spot due to the 72°C hot geyser.",
+              "The funicular to Diana saves you from the climb through the wet forest."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter beginnt der Tag im Jan-Becher-Museum mit wärmenden Geschichten und einem Schluck 'Becherovka'. Mittags hüllen die dampfenden heißen Quellen die Kolonnaden in einen mystischen Nebel, der Karlsbad verzaubert. Am frühen Nachmittag genießen Sie den Blick auf die verschneiten Dächer vom Diana-Turm, bevor die Dämmerung gegen 16:30 Uhr einsetzt. Der Abend gehört der gemütlichen Beleuchtung der Kaiserbäder und der winterlichen Stille im Kurviertel.",
+            "hu": "Télen a reggelt a Jan Becher Múzeumban kezdjük, ahol a fűszeres likőr melege készít fel a sétára. Délben a gőzölgő hévizek misztikus ködbe burkolják a kolonnádokat, ami varázslatos hangulatot kölcsönöz a városnak. Kora délután a Diana-toronyból csodáljuk meg a hófödte háztetőket, mielőtt 16:30 körül leszállna az éj. Az estét a Császárfürdő díszkivilágítása és a téli fürdőnegyed csendes nyugalma aranyozza be.",
+            "ro": "Iarna, ziua începe la Muzeul Jan Becher cu povești calde și o înghițitură de lichior aromat. La prânz, aburul izvoarelor fierbinți învăluie colonadele într-o ceață mistică, oferind orașului un aer magic. După-amiaza devreme, admirați acoperișurile înzăpezite de la Turnul Diana, înainte de lăsarea serii în jurul orei 16:30. Seara este dedicată iluminatului festiv al Băilor Imperiale și liniștii hibernale din cartierul balnear.",
+            "en": "In winter, the day starts at the Jan Becher Museum with warming tales and a sip of spiced liqueur. At noon, the steaming hot springs wrap the colonnades in a mystical mist, giving the city a magical feel. In the early afternoon, admire the snow-covered rooftops from the Diana Tower before dusk sets in around 4:30 PM. The evening is dedicated to the festive lighting of the Imperial Baths and the winter silence of the spa district."
+          },
+          "stops": [
+            {
+              "name": "Jan Becher Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich innerlich mit einer geführten Likör-Verkostung auf.",
+                "hu": "Melegedjen fel belülről egy vezetett likőrkóstolóval.",
+                "ro": "Încălziți-vă în interior cu o degustare ghidată de lichior.",
+                "en": "Warm yourself up from the inside with a guided liqueur tasting."
+              }
+            },
+            {
+              "name": "Mill Colonnade",
+              "tip_5lang": {
+                "de": "Die heißen Quellen wirken hier wie eine natürliche Heizung.",
+                "hu": "A forró források itt természetes fűtőtestként működnek.",
+                "ro": "Izvoarele fierbinți acționează aici ca un calorifer natural.",
+                "en": "The hot springs act as a natural heater under the stone roof."
+              }
+            },
+            {
+              "name": "Market Colonnade",
+              "tip_5lang": {
+                "de": "Probieren Sie die warme Karlsbader Oblate direkt vom Stand.",
+                "hu": "Kóstolja meg a frissen sütött, meleg karlsbadi ostyát közvetlenül az árusnál.",
+                "ro": "Gustați napolitana caldă de Karlovy Vary direct de la vânzător.",
+                "en": "Try a warm Karlovy Vary wafer fresh from the stand."
+              }
+            },
+            {
+              "name": "Sprudel Colonnade (Vřídelní)",
+              "tip_5lang": {
+                "de": "Der wärmste Ort der Stadt – perfekt bei Minustemperaturen.",
+                "hu": "A város legmelegebb pontja – tökéletes fagypont alatti hőmérsékletnél.",
+                "ro": "Cel mai cald loc din oraș – perfect pentru temperaturi negative.",
+                "en": "The warmest spot in town – perfect for sub-zero temperatures."
+              }
+            },
+            {
+              "name": "Church of St. Mary Magdalene",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und Wärme direkt neben dem heißen Geysir.",
+                "hu": "A nyugalom és meleg szigete közvetlenül a forró gejzír mellett.",
+                "ro": "Un loc de liniște și căldură chiar lângă gheizerul fierbinte.",
+                "en": "A place of peace and warmth right next to the hot geyser."
+              }
+            },
+            {
+              "name": "Grandhotel Pupp",
+              "tip_5lang": {
+                "de": "Genießen Sie eine heiße Schokolade im prachtvollen Interieur.",
+                "hu": "Élvezzen egy forró csokoládét a pompás belső térben.",
+                "ro": "Savurați o ciocolată caldă în interiorul magnific.",
+                "en": "Enjoy a hot chocolate in the magnificent interior."
+              }
+            },
+            {
+              "name": "Diana Observation Tower",
+              "tip_5lang": {
+                "de": "Der Wald unter der Seilbahn sieht tief verschneit wie ein Märchen aus.",
+                "hu": "A sikló alatti erdő hófödte állapotban olyan, mint egy tündérmese.",
+                "ro": "Pădurea de sub funicular arată ca un basm când este înzăpezită.",
+                "en": "The forest under the funicular looks like a fairy tale when snowy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 16:30 Uhr unter, planen Sie die Aussichtstürme früher ein.",
+              "Kaufen Sie eine Porzellan-Schnabeltasse, um das warme Heilwasser stetig zu trinken.",
+              "Das Teplá-Flusswasser ist durch die Quellen oft eisfrei und dampft leicht.",
+              "Die Seilbahn zur Diana fährt im Winter im 15-Minuten-Takt."
+            ],
+            "hu": [
+              "A nap 16:30 körül nyugszik, a kilátókat tervezze kora délutánra.",
+              "Vegyél egy porcelán ivókancsót, hogy folyamatosan kortyolhasd a meleg vizet.",
+              "A Teplá-folyó vize a források miatt gyakran jégmentes és gőzölög.",
+              "A Diana sikló télen is 15 percenként közlekedik."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:30, planificați turnurile de observație mai devreme.",
+              "Cumpărați o cană de porțelan pentru a bea constant apa termală caldă.",
+              "Râul Teplá este adesea fără gheață și scoate aburi datorită izvoarelor.",
+              "Funicularul către Diana circulă la fiecare 15 minute și iarna."
+            ],
+            "en": [
+              "Sunset is around 4:30 PM, so plan your observation tower visits earlier.",
+              "Buy a porcelain drinking cup to sip the warm mineral water constantly.",
+              "The Teplá river often stays ice-free and steams slightly due to the springs.",
+              "The Diana funicular runs every 15 minutes during the winter season."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -830,6 +1030,206 @@
           "Bring a water bottle and fill it up at the public fountains (not the hot springs!).",
           "A helmet is recommended for your safety."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie regengeschützt bei der Moser-Glashütte und erleben Sie die Hitze der Glasöfen. Die Fahrt zum Jan-Becher-Museum führt über nasse Straßen, also fahren Sie vorsichtig. Mittags bieten die Kolonnaden einen Unterstand für eine Pause, während das Fahrrad sicher daneben parkt. Den Nachmittag verbringen Sie auf dem Radweg entlang der Eger, wo der Wald bei Regen besonders intensiv duftet, bevor Sie ins Stadtzentrum zurückkehren.",
+            "hu": "Kezdje a túrát esővédett helyen, a Moser üveggyárban, élvezve az üvegfúvó kemencék melegét. A Jan Becher Múzeum felé vezető út nedves aszfalton halad, legyen óvatos a kanyarokban. Délben a kolonnádok kínálnak menedéket a pihenőhöz, miközben a bringa a közelben pihen. Délutánt az Ohře-folyó menti kerékpárúton töltjük, ahol az erdő illata esőben a legintenzívebb, majd visszatérünk a központba.",
+            "ro": "Începeți turul protejat de ploaie la fabrica de sticlă Moser, bucurându-vă de căldura cuptoarelor. Drumul către Muzeul Jan Becher trece pe străzi ude, așa că mergeți cu prudență. La prânz, colonadele oferă adăpost pentru o pauză, în timp ce bicicleta este parcată în siguranță lângă ele. După-amiaza o petreceți pe pista de biciclete de-a lungul râului Ohře, unde pădurea miroase intens în ploaie.",
+            "en": "Start your ride protected from the rain at the Moser Glassworks, enjoying the heat of the glass furnaces. The route to the Jan Becher Museum follows wet streets, so cycle carefully. At noon, the colonnades provide a shelter for a break while your bike stays parked nearby. Spend the afternoon on the cycle path along the Ohře river, where the forest scent is most intense in the rain, before returning to the center."
+          },
+          "stops": [
+            {
+              "name": "Moser Glassworks",
+              "tip_5lang": {
+                "de": "Die Glashütte ist der perfekte, warme Startpunkt bei schlechtem Wetter.",
+                "hu": "Az üveggyár tökéletes, meleg kiindulópont rossz idő esetén.",
+                "ro": "Fabrica de sticlă este punctul de plecare perfect și cald pe vreme rea.",
+                "en": "The glassworks is the perfect, warm starting point in bad weather."
+              }
+            },
+            {
+              "name": "Jan Becher Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen des Rades.",
+                "hu": "Használja a fedett bejárati részt a kerékpár tárolására.",
+                "ro": "Folosiți zona de intrare acoperită pentru a parca bicicleta.",
+                "en": "Use the covered entrance area for parking your bike temporarily."
+              }
+            },
+            {
+              "name": "Mill Colonnade",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen, das Pflaster ist hier extrem glatt.",
+                "hu": "Vigyázat a leszálláskor, a burkolat itt rendkívül csúszós.",
+                "ro": "Atenție la descălecare, pavajul este extrem de alunecos aici.",
+                "en": "Caution when dismounting, the pavement is extremely slippery here."
+              }
+            },
+            {
+              "name": "Sprudel Colonnade & St. Mary Magdalene Church",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter den Vordächern der umliegenden Cafés ab.",
+                "hu": "Helyezze a bringát a környező kávézók előtetői alá.",
+                "ro": "Parcați bicicleta sub copertinele cafenelelor din jur.",
+                "en": "Place your bike under the awnings of the surrounding cafés."
+              }
+            },
+            {
+              "name": "Grandhotel Pupp",
+              "tip_5lang": {
+                "de": "Ein edler Stopp, um die Kleidung kurz zu trocknen.",
+                "hu": "Elegáns megálló, ahol rövid időre megszáríthatja ruháit.",
+                "ro": "O oprire elegantă pentru a vă usca scurt hainele.",
+                "en": "A grand stop to dry your clothes for a short while."
+              }
+            },
+            {
+              "name": "Ride along the Ohře (Eger) River",
+              "tip_5lang": {
+                "de": "Der asphaltierte Weg ist auch bei Regen gut befahrbar, aber spritzig.",
+                "hu": "Az aszfaltozott út esőben is jól járható, de felcsapódó vízre számítson.",
+                "ro": "Drumul asfaltat este practicabil și pe ploaie, dar apa stropește.",
+                "en": "The paved path is good to ride even in rain, but expect some splashing."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour direkt bei einem warmen Tee im Zentrum.",
+                "hu": "Zárja a túrát közvetlenül egy meleg teával a központban.",
+                "ro": "Încheiați turul direct cu un ceai cald în centru.",
+                "en": "Finish the tour directly with a warm tea in the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Kleidung, der Fahrtwind kühlt bei Nässe stark aus.",
+              "Vermeiden Sie schnelle Kurven auf dem glatten Kurstadt-Pflaster.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Die Moser-Glashütte bietet eine hervorragende Indoor-Alternative zum Start."
+            ],
+            "hu": [
+              "Viseljen vízálló ruhát, a menetszél nedvesen nagyon lehűti a testet.",
+              "Kerülje a gyors kanyarodást a csúszós fürdővárosi macskakövön.",
+              "A sárvédő használata ilyen időben kötelező.",
+              "A Moser üveggyár kiváló fedett alternatívát nyújt a kezdéshez."
+            ],
+            "ro": [
+              "Purtați haine impermeabile, vântul de mișcare vă răcește puternic când sunteți ud.",
+              "Evitați virajele rapide pe pavajul alunecos al orașului balnear.",
+              "Apărătorile de noroi la bicicletă sunt obligatorii pe această vreme.",
+              "Fabrica de sticlă Moser oferă o alternativă interioară excelentă pentru început."
+            ],
+            "en": [
+              "Wear waterproof clothing, as the wind chill is much stronger when wet.",
+              "Avoid sharp turns on the slippery spa town cobblestones.",
+              "Mudguards on your bike are a must in this weather.",
+              "Moser Glassworks offers an excellent indoor alternative for the start."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour in Karlsbad beginnt bei der Moser-Glashütte, wo die Glasöfen wohlige Wärme spenden. Die Fahrt zum Jan-Becher-Museum erfordert warme Handschuhe gegen den eisigen Fahrtwind. Mittags wärmen Sie sich an den dampfenden Kolonnaden auf, bevor es am Fluss entlanggeht, wo die Bäume oft herrlich mit Raureif bedeckt sind. Beenden Sie die Tour frühzeitig, bevor die Kälte nach Sonnenuntergang um 16:30 Uhr zunimmt.",
+            "hu": "A téli bringázás Karlovy Varyban a Moser üveggyárnál indul, ahol a kemencék ontják a meleget. A Jan Becher Múzeum felé tekerve a jeges menetszél ellen meleg kesztyűre lesz szüksége. Délben a gőzölgő kolonnádok mellett melegedhet fel, majd a folyóparti úton folytatjuk, ahol a fák gyakran zúzmarásak. Zárja a túrát időben, mielőtt 16:30-kor lemegy a nap és hirtelen lehűl a levegő.",
+            "ro": "O tură cu bicicleta iarna în Karlovy Vary începe la fabrica Moser, unde cuptoarele oferă o căldură plăcută. Drumul către Muzeul Jan Becher necesită mănuși groase împotriva vântului înghețat. La prânz, vă încălziți lângă colonadele aburinde, apoi mergeți de-a lungul râului, unde copacii sunt adesea acoperiți de chiciură. Încheiați turul devreme, înainte ca gerul să se intensifice după ora 16:30.",
+            "en": "A winter bike tour in Karlovy Vary starts at Moser Glassworks, where the furnaces provide cozy warmth. The ride to the Jan Becher Museum requires warm gloves against the icy wind. At noon, warm up by the steaming colonnades before heading along the river, where trees are often beautifully covered in hoarfrost. Finish your tour early before the cold intensifies after the 4:30 PM sunset."
+          },
+          "stops": [
+            {
+              "name": "Moser Glassworks",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme der Glasmanufaktur, bevor es in den Frost geht.",
+                "hu": "Élvezze az üvegmanufaktúra melegét, mielőtt kimegy a fagyba.",
+                "ro": "Bucurați-vă de căldura manufacturii înainte de a ieși în ger.",
+                "en": "Enjoy the warmth of the glass manufactory before heading out into the frost."
+              }
+            },
+            {
+              "name": "Jan Becher Museum",
+              "tip_5lang": {
+                "de": "Ein kleiner Kräuterlikör hilft gegen die Kälte (nach der Tour!).",
+                "hu": "Egy kis gyógylikőr segít a hideg ellen (csak a túra után!).",
+                "ro": "Un mic lichior de plante ajută împotriva frigului (după tur!).",
+                "en": "A small herbal liqueur helps against the cold (after the ride!)."
+              }
+            },
+            {
+              "name": "Mill Colonnade",
+              "tip_5lang": {
+                "de": "Halten Sie die Hände an die warmen Steinvasen der Quellen.",
+                "hu": "Melegítse kezét a források meleg kővázáin.",
+                "ro": "Țineți mâinile pe vazele de piatră calde ale izvoarelor.",
+                "en": "Warm your hands on the warm stone basins of the springs."
+              }
+            },
+            {
+              "name": "Sprudel Colonnade & St. Mary Magdalene Church",
+              "tip_5lang": {
+                "de": "Der Wasserdampf des Geysirs kann auf der Brille gefrieren.",
+                "hu": "A gejzír vízpárája ráfagyhat a szemüvegére.",
+                "ro": "Aburul gheizerului poate îngheța pe ochelari.",
+                "en": "The water vapor from the geyser can freeze on your glasses."
+              }
+            },
+            {
+              "name": "Grandhotel Pupp",
+              "tip_5lang": {
+                "de": "Die prachtvolle Weihnachtsbeleuchtung ist hier besonders sehenswert.",
+                "hu": "A pompás karácsonyi kivilágítás itt különösen látványos.",
+                "ro": "Iluminatul festiv de iarnă este deosebit de frumos aici.",
+                "en": "The magnificent winter holiday lighting is particularly worth seeing here."
+              }
+            },
+            {
+              "name": "Ride along the Ohře (Eger) River",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteisstellen in Brückennähe.",
+                "hu": "Ügyeljen a jegesedésre a hidak környékén.",
+                "ro": "Atenție la porțiunile cu polei în apropierea podurilor.",
+                "en": "Watch out for icy patches near the bridges."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad und suchen Sie schnell ein beheiztes Café auf.",
+                "hu": "Parkolja le a gépet és keressen gyorsan egy fűtött kávézót.",
+                "ro": "Parcați bicicleta și căutați rapid o cafenea încălzită.",
+                "en": "Park your bike and quickly find a heated café."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Mehrlagige Kleidung (Zwiebelprinzip) ist überlebenswichtig.",
+              "Vermeiden Sie Waldwege, diese sind oft vereist oder matschig.",
+              "Prüfen Sie Ihre Bremsen, bei Frost reagieren sie oft verzögert.",
+              "Die Ohře-Route ist meist geräumt, aber der Wind ist eisig."
+            ],
+            "hu": [
+              "A réteges öltözködés (hagyma-elv) elengedhetetlen.",
+              "Kerülje az erdei utakat, ezek gyakran jegesek vagy sárosak.",
+              "Ellenőrizze a fékeket, fagyban gyakran lassabban reagálnak.",
+              "Az Ohře menti út általában tisztított, de a szél metsző."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este esențială pentru supraviețuire.",
+              "Evitați drumurile forestiere, acestea sunt adesea înghețate sau noroioase.",
+              "Verificați frânele, la ger acestea pot reacționa cu întârziere.",
+              "Traseul Ohře este de obicei curățat, dar vântul este tăios."
+            ],
+            "en": [
+              "Layered clothing (onion principle) is essential for survival.",
+              "Avoid forest paths as they are often icy or slushy.",
+              "Check your brakes, as they can react slower in freezing temperatures.",
+              "The Ohře route is mostly cleared, but the wind is biting."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1266,6 +1666,224 @@
           "A car is useful for reaching more distant sights like the Moser Glassworks.",
           "Allow enough time for traffic, especially during peak season."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto starten Sie komfortabel bei der Moser-Glashütte, wo Sie direkt vor der Tür parken können. Die Fahrt ins Zentrum führt Sie zur Parkgarage 'Libušina', von wo aus Sie fast trocken die Kolonnaden erreichen. Mittags genießen Sie die luxuriöse Vorfahrt am Grandhotel Pupp für einen erstklassigen Lunch. Nachmittags bringt Sie die Seilbahn zur Diana, während das Auto sicher geparkt bleibt, und der Tag endet mit einer kurzen Fahrt zurück ins Stadtzentrum.",
+            "hu": "Autóval kényelmesen indulunk a Moser üveggyárnál, ahol közvetlenül a bejáratnál parkolhatunk. A központba hajtva a 'Libušina' parkolóházat javasoljuk, ahonnan szinte száraz lábbal érhetők el a kolonnádok. Délben élvezze a Grandhotel Pupp előkelő behajtóját egy elegáns ebédhez. Délután a sikló repíti a Diana-toronyhoz, miközben az autó biztonságban pihen, a napot pedig egy rövid belvárosi autózással zárjuk.",
+            "ro": "Cu mașina începeți confortabil la fabrica Moser, unde puteți parca direct la intrare. Drumul spre centru vă duce la parcarea 'Libušina', de unde ajungeți aproape uscați la colonade. La prânz, bucurați-vă de accesul luxos la Grandhotel Pupp pentru un prânz de clasă. După-amiaza, funicularul vă duce la Diana în timp ce mașina rămâne parcată, iar ziua se încheie cu o scurtă plimbare prin centru.",
+            "en": "By car, you start comfortably at Moser Glassworks, where you can park right at the door. The drive to the center leads to the 'Libušina' parking garage, from where you can reach the colonnades almost completely dry. At noon, enjoy the grand entrance at Grandhotel Pupp for a first-class lunch. In the afternoon, the funicular takes you to Diana while the car remains safely parked, finishing with a short drive downtown."
+          },
+          "stops": [
+            {
+              "name": "Park and Start at Moser Glassworks",
+              "tip_5lang": {
+                "de": "Großer Kundenparkplatz direkt vor dem Eingang vorhanden.",
+                "hu": "Nagy ügyfélparkoló található közvetlenül a bejárat előtt.",
+                "ro": "Parcare mare pentru clienți disponibilă direct la intrare.",
+                "en": "Large customer parking available right in front of the entrance."
+              }
+            },
+            {
+              "name": "Drive to the Spa Center & Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Libušina' für den kürzesten Weg zum Sprudel.",
+                "hu": "Használja a 'Libušina' parkolóházat a legrövidebb úthoz a forráshoz.",
+                "ro": "Utilizați parcarea 'Libušina' pentru cel mai scurt drum către izvor.",
+                "en": "Use the 'Libušina' parking garage for the shortest walk to the springs."
+              }
+            },
+            {
+              "name": "Mill Colonnade",
+              "tip_5lang": {
+                "de": "Parken Sie nicht auf der Straße, die Polizei kontrolliert hier streng.",
+                "hu": "Ne parkoljon az utcán, a rendőrség itt szigorúan ellenőriz.",
+                "ro": "Nu parcați pe stradă, poliția controlează strict zona.",
+                "en": "Do not park on the street; police enforce rules strictly here."
+              }
+            },
+            {
+              "name": "Market & Sprudel Colonnades",
+              "tip_5lang": {
+                "de": "Von der Parkgarage sind es nur 5 Minuten Fußweg unter Regenschirmen.",
+                "hu": "A parkolóháztól csak 5 perc séta esernyővel.",
+                "ro": "De la parcare sunt doar 5 minute de mers pe jos cu umbrela.",
+                "en": "Only a 5-minute walk with umbrellas from the parking garage."
+              }
+            },
+            {
+              "name": "Drive to Grandhotel Pupp",
+              "tip_5lang": {
+                "de": "Das Hotel bietet einen Valet-Parkservice für Gäste an.",
+                "hu": "A szálloda inas-parkolást kínál a vendégeknek.",
+                "ro": "Hotelul oferă serviciu de valet parking pentru oaspeți.",
+                "en": "The hotel offers valet parking service for guests."
+              }
+            },
+            {
+              "name": "Diana Observation Tower",
+              "tip_5lang": {
+                "de": "Parken Sie beim Grandhotel Pupp und nehmen Sie die Seilbahn.",
+                "hu": "Parkoljon a Grandhotel Puppnál és vegye igénybe a siklót.",
+                "ro": "Parcați la Grandhotel Pupp și luați funicularul.",
+                "en": "Park near Grandhotel Pupp and take the funicular up."
+              }
+            },
+            {
+              "name": "Drive to the Jan Becher Museum",
+              "tip_5lang": {
+                "de": "Parkmöglichkeiten gibt es im Einkaufszentrum direkt gegenüber.",
+                "hu": "Parkolási lehetőség a közvetlenül szemben lévő bevásárlóközpontban.",
+                "ro": "Posibilități de parcare în centrul comercial de vizavi.",
+                "en": "Parking is available in the shopping center directly opposite."
+              }
+            },
+            {
+              "name": "A final drink downtown",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit eigener Tiefgarage.",
+                "hu": "Válasszon saját mélygarázzsal rendelkező éttermet.",
+                "ro": "Alegeți un restaurant cu parcare subterană proprie.",
+                "en": "Choose a restaurant with its own underground parking."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Einfahrt in die Kurzone ist nur mit Genehmigung oder Hotelreservierung erlaubt.",
+              "Vermeiden Sie die engen Gassen bei starkem Regen wegen schlechter Sicht.",
+              "Parkhäuser sind im Zentrum die einzige stressfreie Option.",
+              "Nutzen Sie die 'Karlovy Vary Region Card' für Parkrabatte."
+            ],
+            "hu": [
+              "A fürdőövezetbe való behajtás csak engedéllyel vagy foglalással lehetséges.",
+              "Kerülje a szűk utcákat heves esőben a rossz látási viszonyok miatt.",
+              "A parkolóházak az egyetlen stresszmentes opciók a központban.",
+              "Használja a Karlovy Vary Region kártyát parkolási kedvezményekért."
+            ],
+            "ro": [
+              "Accesul în zona balneară este permis doar cu autorizație sau rezervare.",
+              "Evitați străzile înguste în timpul ploii abundente din cauza vizibilității reduse.",
+              "Parcările etajate sunt singura opțiune fără stres în centru.",
+              "Folosiți 'Karlovy Vary Region Card' pentru reduceri la parcare."
+            ],
+            "en": [
+              "Entry to the spa zone requires a permit or a hotel reservation.",
+              "Avoid narrow alleys during heavy rain due to poor visibility.",
+              "Parking garages are the only stress-free option in the center.",
+              "Use the 'Karlovy Vary Region Card' for parking discounts."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit dem Auto beginnt bei der Moser-Glashütte, wo die Wärme der Glasöfen die Kälte vertreibt. Die Fahrt durch das verschneite Karlsbad führt Sie zur Parkgarage im Stadtzentrum, von wo aus die dampfenden Quellen nur wenige Schritte entfernt sind. Mittags parken Sie standesgemäß am Grandhotel Pupp und genießen den Winterzauber im Inneren. Nachmittags nutzen Sie die Seilbahn zur Diana, bevor Sie vor dem frühen Sonnenuntergang die Rückfahrt antreten.",
+            "hu": "A téli autós nap a Moser üveggyárnál indul, ahol a kemencék melege elűzi a fagyot. A havas Karlovy Varyn át autózva a belvárosi parkolóházba érkezünk, ahonnan a gőzölgő források pár lépésre vannak. Délben a Grandhotel Puppnál parkolunk le, élvezve a belső téli varázslatot. Délután a Diana siklót választjuk, majd a korai naplemente előtt megkezdjük a kényelmes hazautat.",
+            "ro": "O zi de iarnă cu mașina începe la fabrica Moser, unde căldura cuptoarelor alungă gerul. Drumul prin Karlovy Vary înzăpezit vă duce la parcarea din centru, de unde izvoarele aburinde sunt la doar câțiva pași. La prânz, parcați la Grandhotel Pupp și bucurați-vă de magia iernii în interior. După-amiaza folosiți funicularul spre Diana, înainte de a pleca spre casă înainte de apus.",
+            "en": "A winter day by car starts at Moser Glassworks, where the heat of the glass furnaces dispels the cold. Driving through snowy Karlovy Vary leads you to a central parking garage, just steps away from the steaming springs. At noon, park in style at Grandhotel Pupp and enjoy the winter charm inside. In the afternoon, take the funicular to Diana before starting your drive back before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Park and Start at Moser Glassworks",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneematsch auf dem Parkplatzgelände.",
+                "hu": "Ügyeljen a latyakra a parkoló területén.",
+                "ro": "Atenție la zăpada topită din zona parcării.",
+                "en": "Watch out for slush in the parking lot area."
+              }
+            },
+            {
+              "name": "Drive to the Spa Center & Park",
+              "tip_5lang": {
+                "de": "Winterreifen sind auf den steilen Zufahrten absolut zwingend.",
+                "hu": "A téli gumi a meredek feljárókon abszolút kötelező.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pe drumurile de acces în pantă.",
+                "en": "Winter tires are absolutely mandatory on the steep access roads."
+              }
+            },
+            {
+              "name": "Mill Colonnade",
+              "tip_5lang": {
+                "de": "Die Wege rund um die Kolonnaden werden meist schnell geräumt.",
+                "hu": "A kolonnádok körüli utakat általában gyorsan megtisztítják.",
+                "ro": "Drumurile din jurul colonadelor sunt de obicei curățate rapid.",
+                "en": "The paths around the colonnades are usually cleared quickly."
+              }
+            },
+            {
+              "name": "Market & Sprudel Colonnades",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisbildung durch gefrierenden Wasserdampf der Quellen.",
+                "hu": "Vigyázat a források gőzéből lecsapódó és lefagyó jégre.",
+                "ro": "Atenție la formarea gheții din aburul înghețat al izvoarelor.",
+                "en": "Watch out for ice forming from the freezing steam of the springs."
+              }
+            },
+            {
+              "name": "Drive to Grandhotel Pupp",
+              "tip_5lang": {
+                "de": "Die Anfahrt ist im Winter oft wunderschön beleuchtet.",
+                "hu": "A szállodához vezető út télen gyakran gyönyörűen ki van világítva.",
+                "ro": "Accesul este adesea luminat superb în timpul iernii.",
+                "en": "The drive up is often beautifully lit during the winter season."
+              }
+            },
+            {
+              "name": "Diana Observation Tower",
+              "tip_5lang": {
+                "de": "Fahren Sie nicht selbst hoch, die Waldstraße ist oft gesperrt.",
+                "hu": "Ne hajtson fel saját maga, az erdei út gyakran le van zárva.",
+                "ro": "Nu urcați cu mașina, drumul prin pădure este adesea închis.",
+                "en": "Do not drive up yourself; the forest road is often closed in winter."
+              }
+            },
+            {
+              "name": "Drive to the Jan Becher Museum",
+              "tip_5lang": {
+                "de": "Heizen Sie das Auto vor, bevor Sie die letzte Etappe antreten.",
+                "hu": "Fűtse fel az autót, mielőtt megkezdi az utolsó szakaszt.",
+                "ro": "Preîncălziți mașina înainte de a începe ultima etapă.",
+                "en": "Preheat the car before starting the final leg of the tour."
+              }
+            },
+            {
+              "name": "A final drink downtown",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkplätze nah am Eingang, um Kälte zu vermeiden.",
+                "hu": "Használjon a bejárathoz közeli parkolót a hideg elkerülésére.",
+                "ro": "Folosiți locuri de parcare aproape de intrare pentru a evita frigul.",
+                "en": "Use parking spots close to the entrance to avoid the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glätte bei den steilen Bergauffahrten zum Pupp.",
+              "Führen Sie Schneeketten mit, falls Sie außerhalb des Zentrums wohnen.",
+              "Die Parkhäuser sind frostfrei und schonen das Fahrzeug.",
+              "Die Dämmerung beginnt früh, prüfen Sie Ihre Beleuchtung."
+            ],
+            "hu": [
+              "Ügyeljen a csúszós szakaszokra a Pupphoz vezető emelkedőkön.",
+              "Vigyen hóláncot, ha a központon kívül szállt meg.",
+              "A parkolóházak fagymentesek és kímélik az autót.",
+              "A szürkület korán kezdődik, ellenőrizze a fényszórókat."
+            ],
+            "ro": [
+              "Atenție la polei pe urcările abrupte către Pupp.",
+              "Luați lanțuri antiderapante dacă sunteți cazați în afara centrului.",
+              "Parcările etajate sunt ferite de îngheț și protejează vehiculul.",
+              "Amurgul începe devreme, verificați sistemul de iluminare."
+            ],
+            "en": [
+              "Watch out for icy patches on the steep climbs toward Pupp.",
+              "Carry snow chains if you are staying outside the city center.",
+              "Parking garages are frost-free and better for the vehicle.",
+              "Dusk starts early, so ensure your lights are working properly."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1678,6 +2296,206 @@
           "Note that buses run less frequently in the evening.",
           "Press the stop button in time, as buses do not automatically stop at every stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Busbahnhof Tržnice starten Sie trocken und erreichen schnell das Jan-Becher-Museum. Mit der Linie 2 fahren Sie bequem zur Haltestelle 'Lázně III', direkt bei den überdachten Kolonnaden. Mittags bringen Sie die Busse wettergeschützt zum Divadelní náměstí, von wo aus es nur ein kurzer Sprung zum Grandhotel Pupp und der Seilbahn ist. Den Nachmittag verbringen Sie bei Moser, erreichbar mit einer weiteren kurzen Busfahrt, und bleiben so den ganzen Tag mobil und trocken.",
+            "hu": "A Tržnice buszpályaudvaron fedett helyen kezdünk, és gyorsan elérjük a Jan Becher Múzeumot. A 2-es vonallal kényelmesen utazhatunk a 'Lázně III' megállóig, közvetlenül a fedett kolonnádokhoz. Délben a buszok az esőtől védve visznek a Színház térre, ahonnan csak egy ugrás a Grandhotel Pupp és a sikló. Délutánt a Mosernél töltjük, ahová egy újabb rövid buszút vezet, így egész nap szárazon maradhatunk.",
+            "ro": "La terminalul Tržnice începeți la adăpost și ajungeți rapid la Muzeul Jan Becher. Cu linia 2 călătoriți confortabil până la stația 'Lázně III', chiar lângă colonadele acoperite. La prânz, autobuzele vă duc protejați de ploaie la Divadelní náměstí, de unde e doar un pas până la Grandhotel Pupp. După-amiaza o petreceți la Moser, accesibil cu o altă scurtă călătorie cu autobuzul, rămânând uscați toată ziua.",
+            "en": "At the Tržnice bus terminal, you start under cover and quickly reach the Jan Becher Museum. Take line 2 for a comfortable ride to the 'Lázně III' stop, right by the covered colonnades. At noon, buses transport you protected from the rain to Divadelní náměstí, just steps from Grandhotel Pupp and the funicular. Spend the afternoon at Moser, reached by another short bus ride, staying mobile and dry all day."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Tržnice Bus Terminal",
+              "tip_5lang": {
+                "de": "Die zentrale Wartehalle bietet guten Schutz vor dem Regen.",
+                "hu": "A központi váróterem jó védelmet nyújt az eső ellen.",
+                "ro": "Sala centrală de așteptare oferă o protecție bună împotriva ploii.",
+                "en": "The central waiting hall offers good protection from the rain."
+              }
+            },
+            {
+              "name": "Jan Becher Museum",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg von der Bushaltestelle entfernt.",
+                "hu": "Csak 2 perc séta a buszmegállótól.",
+                "ro": "La doar 2 minute de mers pe jos de stația de autobuz.",
+                "en": "Only a 2-minute walk from the bus stop."
+              }
+            },
+            {
+              "name": "Bus ride to 'Lázně III' stop",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor dem Eingang der Kolonnade.",
+                "hu": "A busz szinte közvetlenül a kolonnád bejárata előtt áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața intrării colonadei.",
+                "en": "The bus stops almost directly in front of the colonnade entrance."
+              }
+            },
+            {
+              "name": "Walk: Mill, Market & Sprudel Colonnades",
+              "tip_5lang": {
+                "de": "Diese Strecke ist durch die Kolonnadendächer weitgehend regensicher.",
+                "hu": "Ez a szakasz a kolonnádok teteje miatt nagyrészt esővédett.",
+                "ro": "Această secțiune este în mare parte protejată de ploaie de acoperișuri.",
+                "en": "This section is mostly rain-proof thanks to the colonnade roofs."
+              }
+            },
+            {
+              "name": "Bus ride to 'Divadelní náměstí' stop",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App 'Doprava v KV' für Live-Abfahrtszeiten.",
+                "hu": "Használja a 'Doprava v KV' alkalmazást az élő indulási időkhöz.",
+                "ro": "Utilizați aplicația 'Doprava v KV' pentru orele de plecare live.",
+                "en": "Use the 'Doprava v KV' app for live departure times."
+              }
+            },
+            {
+              "name": "Grandhotel Pupp & Funicular to Diana",
+              "tip_5lang": {
+                "de": "Die Seilbahnkabine ist komplett geschlossen und trocken.",
+                "hu": "A sikló kabinja teljesen zárt és száraz.",
+                "ro": "Cabina funicularului este complet închisă și uscată.",
+                "en": "The funicular cabin is completely enclosed and dry."
+              }
+            },
+            {
+              "name": "Bus ride to Moser Glassworks",
+              "tip_5lang": {
+                "de": "Nehmen Sie die Linie 1 vom Stadtzentrum aus direkt zur Glashütte.",
+                "hu": "Vegyék az 1-es vonalat a központból közvetlenül az üveggyárhoz.",
+                "ro": "Luați linia 1 din centrul orașului direct către fabrica de sticlă.",
+                "en": "Take line 1 from the city center directly to the glassworks."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrkarten können kontaktlos im Bus bezahlt werden.",
+              "Die Haltestellen in der Kurzone haben oft kleine Wartehäuschen.",
+              "Linie 2 ist die wichtigste Verbindung zwischen den Kurvierteln.",
+              "Die Seilbahn zur Diana ist in einige Kombitickets integriert."
+            ],
+            "hu": [
+              "A jegyek érintésmentesen megvásárolhatók a buszon.",
+              "A fürdőövezet megállói gyakran kis várókkal rendelkeznek.",
+              "A 2-es vonal a legfontosabb összeköttetés a fürdőnegyedek között.",
+              "A Diana sikló bizonyos kombinált jegyekkel is igénybe vehető."
+            ],
+            "ro": [
+              "Biletele pot fi plătite contactless direct în autobuz.",
+              "Stațiile din zona balneară au adesea mici adăposturi.",
+              "Linia 2 este cea mai importantă legătură între cartierele balneare.",
+              "Funicularul către Diana este inclus în unele bilete combinate."
+            ],
+            "en": [
+              "Tickets can be purchased contactless inside the bus.",
+              "Bus stops in the spa zone often have small shelters.",
+              "Line 2 is the most important connection between the spa districts.",
+              "The Diana funicular is included in some combined ticket options."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet der ÖPNV in Karlsbad warme Zuflucht zwischen den Zielen. Starten Sie am beheizten Terminal Tržnice und fahren Sie mit dem Bus zum Jan-Becher-Museum. Mittags bringt Sie die Linie 2 direkt zu den dampfenden Kolonnaden, wo die heißen Quellen die Luft erwärmen. Nachmittags nutzen Sie die Seilbahn zur Diana für einen winterlichen Panoramablick und beenden den Tag mit einer gemütlichen Busfahrt zur Moser-Glashütte, bevor es draußen richtig frostig wird.",
+            "hu": "Télen Karlovy Vary tömegközlekedése meleg menedéket nyújt a látnivalók között. Kezdjen a fűtött Tržnice terminálon, majd busszal menjen a Jan Becher Múzeumhoz. Délben a 2-es vonal közvetlenül a gőzölgő kolonnádokhoz visz, ahol a forró vizek melegítik a levegőt. Délután a siklóval emelkedjen a Diana-toronyhoz a téli panorámáért, a napot pedig egy buszos utazással zárja a Moser üveggyárhoz, mielőtt beállna az esti fagy.",
+            "ro": "Iarna, transportul public din Karlovy Vary oferă un refugiu cald între obiective. Începeți la terminalul încălzit Tržnice și mergeți cu autobuzul la Muzeul Jan Becher. La prânz, linia 2 vă duce direct la colonadele aburinde, unde izvoarele fierbinți încălzesc aerul. După-amiaza folosiți funicularul spre Diana pentru o panoramă hibernală și încheiați ziua cu o călătorie spre Moser înainte de gerul serii.",
+            "en": "In winter, Karlovy Vary’s public transit offers a warm refuge between sights. Start at the heated Tržnice terminal and take the bus to the Jan Becher Museum. At noon, line 2 takes you directly to the steaming colonnades, where the hot springs warm the air. In the afternoon, use the funicular to Diana for a winter panoramic view and finish the day with a cozy bus ride to Moser Glassworks before the evening frost sets in."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Tržnice Bus Terminal",
+              "tip_5lang": {
+                "de": "Warten Sie in der beheizten Wartehalle auf Ihren Anschluss.",
+                "hu": "Várja a csatlakozást a fűtött váróteremben.",
+                "ro": "Așteptați legătura în sala de așteptare încălzită.",
+                "en": "Wait for your connection inside the heated waiting hall."
+              }
+            },
+            {
+              "name": "Jan Becher Museum",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter gut beheizt und fahren pünktlich.",
+                "hu": "A buszok télen jól fűtöttek és pontosan közlekednek.",
+                "ro": "Autobuzele sunt bine încălzite iarna și circulă punctual.",
+                "en": "Buses are well-heated in winter and run punctually."
+              }
+            },
+            {
+              "name": "Bus ride to 'Lázně III' stop",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das verschneite Ufer während der Fahrt.",
+                "hu": "Élvezze a kilátást a havas folyópartra utazás közben.",
+                "ro": "Bucurați-vă de vederea malului înzăpezit în timpul călătoriei.",
+                "en": "Enjoy the view of the snowy riverbank during the ride."
+              }
+            },
+            {
+              "name": "Walk: Mill, Market & Sprudel Colonnades",
+              "tip_5lang": {
+                "de": "Die Wege zwischen den Haltestellen sind kurz und meist gestreut.",
+                "hu": "A megállók közötti utak rövidek és általában sózottak.",
+                "ro": "Drumurile dintre stații sunt scurte și de obicei curățate.",
+                "en": "The paths between stops are short and usually salted for safety."
+              }
+            },
+            {
+              "name": "Bus ride to 'Divadelní náměstí' stop",
+              "tip_5lang": {
+                "de": "Ideal, um sich zwischen zwei Spaziergängen kurz aufzuwärmen.",
+                "hu": "Ideális egy rövid melegedésre két séta között.",
+                "ro": "Ideal pentru o scurtă încălzire între două plimbări.",
+                "en": "Ideal for a quick warm-up between two walks."
+              }
+            },
+            {
+              "name": "Grandhotel Pupp & Funicular to Diana",
+              "tip_5lang": {
+                "de": "Die Seilbahn bietet einen windgeschützten Aufstieg zum Aussichtspunkt.",
+                "hu": "A sikló szélvédett feljutást biztosít a kilátóhoz.",
+                "ro": "Funicularul oferă o urcare protejată de vânt către punctul de observație.",
+                "en": "The funicular provides a wind-protected ascent to the viewpoint."
+              }
+            },
+            {
+              "name": "Bus ride to Moser Glassworks",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Winterfahrplan, einige Linien enden früher.",
+                "hu": "Ügyeljen a téli menetrendre, néhány vonal korábban leáll.",
+                "ro": "Atenție la orarul de iarnă, unele linii se termină mai devreme.",
+                "en": "Check the winter schedule, as some lines may end service earlier."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App, um Wartezeiten an zugigen Haltestellen zu minimieren.",
+              "Im Winter sind die Busse oft weniger überfüllt als im Sommer.",
+              "Kombinieren Sie Busfahrten mit dem Besuch der dampfenden Quellen.",
+              "Die Seilbahn zur Diana ist auch bei Schnee ein zuverlässiges Verkehrsmittel."
+            ],
+            "hu": [
+              "Használja az alkalmazást, hogy minimálisra csökkentse a várakozást a huzatos megállókban.",
+              "Télen a buszok gyakran kevésbé zsúfoltak, mint nyáron.",
+              "Kombinálja a buszos utakat a gőzölgő források meglátogatásával.",
+              "A Diana sikló hóesésben is megbízható közlekedési eszköz."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru a minimiza timpul de așteptare în stații.",
+              "Iarna, autobuzele sunt adesea mai puțin aglomerate decât vara.",
+              "Combinați călătoriile cu autobuzul cu vizitarea izvoarelor aburinde.",
+              "Funicularul către Diana este un mijloc de transport fiabil și pe zăpadă."
+            ],
+            "en": [
+              "Use the app to minimize waiting times at draughty bus stops.",
+              "In winter, buses are often less crowded than in the summer season.",
+              "Combine bus rides with visits to the steaming hot springs.",
+              "The Diana funicular is a reliable transport method even in snow."
+            ]
+          }
+        }
       }
     }
   }

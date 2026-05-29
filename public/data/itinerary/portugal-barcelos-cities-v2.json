@@ -406,6 +406,224 @@
           "Many shops close for a lunch break (siesta), so plan accordingly.",
           "Be sure to try a local Vinho Verde at one of the bars."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen am Campo da República, wo die Arkaden Schutz vor dem Regen bieten. Besuchen Sie den Tempel Bom Jesus, bevor Sie den Mittag im Keramikmuseum verbringen, um dem Wetter zu entfliehen. Am Nachmittag erkunden Sie die Kirchen und den Turm der Stadtmauer. Trotz des Regens bietet die mittelalterliche Brücke einen dramatischen Blick auf den anschwellenden Fluss Cávado.",
+            "hu": "Kezdje a reggelt a Campo da Repúblicán, ahol az árkádok alatt védve marad az esőtől. Látogasson el a Bom Jesus templomba, majd töltse a délutánt a Fazekasmúzeumban, ami tökéletes menedék a záporok elől. A nap végén a középkori híd és a várkastély romjai melletti séta esőben is különleges hangulatot áraszt, de vigyázzon a csúszós macskaköveken.",
+            "ro": "Începeți dimineața în Campo da República, unde arcadele oferă adăpost împotriva ploii. Vizitați Templul Bom Jesus înainte de a petrece amiaza la Muzeul Ceramicii pentru a scăpa de vremea rea. După-amiaza, explorați bisericile și turnul cetății. În ciuda ploii, podul medieval oferă o priveliște dramatică asupra râului Cávado, care curge rapid sub arcadele sale.",
+            "en": "Start your morning at Campo da República, where the arcades provide shelter from the rain. Visit the Bom Jesus Temple before spending the midday at the Pottery Museum to escape the wet weather. In the afternoon, explore the historic churches and the Keep Tower. Despite the rain, the medieval bridge offers a dramatic view of the rising Cávado River before finishing in the gardens."
+          },
+          "stops": [
+            {
+              "name": "Campo da República (Republic Square)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die umliegenden Arkaden als Regenschutz.",
+                "hu": "Használja a tér körüli árkádokat eső elleni védelemként.",
+                "ro": "Folosiți arcadele din jurul pieței pentru a vă adăposti.",
+                "en": "Use the surrounding arcades for shelter from the rain."
+              }
+            },
+            {
+              "name": "Temple of the Lord Bom Jesus da Cruz",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Azulejos im trockenen Innenraum.",
+                "hu": "Csodálja meg az azulejo csempéket a száraz belső térben.",
+                "ro": "Admirați panourile de azulejos în interiorul uscat.",
+                "en": "Admire the azulejos inside the dry interior."
+              }
+            },
+            {
+              "name": "Pottery Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um eine längere Regenfront abzuwarten.",
+                "hu": "Ideális helyszín egy hosszabb eső elkerülésére.",
+                "ro": "Locul ideal pentru a aștepta trecerea ploii.",
+                "en": "The perfect place to wait out a long rain front."
+              }
+            },
+            {
+              "name": "Keep Tower (Torre de Menagem)",
+              "tip_5lang": {
+                "de": "Das Tourismusbüro im Turm bietet einen trockenen Rastplatz.",
+                "hu": "A toronyban lévő turisztikai iroda száraz pihenőhely.",
+                "ro": "Biroul de turism din turn oferă un loc de odihnă uscat.",
+                "en": "The tourist office inside the tower is a dry rest spot."
+              }
+            },
+            {
+              "name": "Main Church of Barcelos",
+              "tip_5lang": {
+                "de": "Besichtigung der gotischen Architektur im Trockenen.",
+                "hu": "A gótikus építészet megtekintése fedett helyen.",
+                "ro": "Vizitați arhitectura gotică la adăpost.",
+                "en": "Visit the Gothic architecture while staying dry."
+              }
+            },
+            {
+              "name": "Palace of the Counts of Barcelos",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Steinen der Ruine.",
+                "hu": "Vigyázat, a várrom kövei esőben csúszósak lehetne.",
+                "ro": "Atenție la pietrele alunecoase din ruinele palatului.",
+                "en": "Be careful on the slippery stones of the palace ruins."
+              }
+            },
+            {
+              "name": "Barcelos Bridge",
+              "tip_5lang": {
+                "de": "Starker Wind auf der Brücke; Regenschirm gut festhalten.",
+                "hu": "Erős szél a hídon; fogja szorosan az esernyőt.",
+                "ro": "Vânt puternic pe pod; țineți bine umbrela.",
+                "en": "Strong wind on the bridge; hold your umbrella firmly."
+              }
+            },
+            {
+              "name": "Garden of Barrocas",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen.",
+                "hu": "Maradjon a kiépített, kövezett ösvényeken.",
+                "ro": "Rămâneți pe aleile pavate ale grădinii.",
+                "en": "Stay on the paved paths of the garden."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Kopfsteinpflastergassen.",
+              "Das Keramikmuseum ist der beste Zufluchtsort bei Starkregen.",
+              "Viele Cafés am Campo da República bieten überdachte Plätze.",
+              "Nutzen Sie den Torre de Menagem für Informationen und Schutz."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "A Fazekasmúzeum a legjobb menedék heves esőzés esetén.",
+              "A Campo da República kávézói fedett teraszokkal várják.",
+              "A Torre de Menagem belső tere kiváló információs pont."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "Muzeul Ceramicii este cel mai bun refugiu în caz de ploaie torențială.",
+              "Multe cafenele din Campo da República au terase acoperite.",
+              "Folosiți Torre de Menagem pentru informații și adăpost."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "The Pottery Museum is the best refuge during heavy rain.",
+              "Many cafes at Campo da República offer covered seating.",
+              "Use the Torre de Menagem for information and shelter."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen in Barcelos beginnt am Campo da República. Die klare Luft macht den Besuch der Kirchen besonders angenehm. Mittags wärmen Sie sich im Keramikmuseum auf, bevor Sie die historischen Ruinen erkunden. Da die Sonne bereits gegen 17:30 Uhr untergeht, genießen Sie das goldene Licht auf der mittelalterlichen Brücke und beenden den Tag bei den festlich beleuchteten Barrocas-Gärten.",
+            "hu": "A hűvös téli reggel a Campo da Repúblicán indul Barcelosban. A friss levegőn kellemes a séta a Bom Jesus templomhoz, majd délben a Fazekasmúzeum kiállításai nyújtanak melegséget. A napnyugta korán, fél hat körül érkezik, így érdemes időben a középkori hídhoz érni az utolsó fényekért, mielőtt a Barrocas kert díszkivilágítása felgyúlna.",
+            "ro": "O dimineață răcoroasă de iarnă în Barcelos începe în Campo da República. Aerul curat face vizita la biserici foarte plăcută. La prânz, încălziți-vă în Muzeul Ceramicii înainte de a explora ruinele istorice. Deoarece soarele apune în jurul orei 17:30, bucurați-vă de lumina aurie de pe podul medieval și încheiați ziua la grădinile Barrocas iluminate festiv.",
+            "en": "A crisp winter morning in Barcelos starts at Campo da República. The cool air makes visiting the churches particularly pleasant. At noon, warm up in the Pottery Museum before exploring the historic ruins. Since the sun sets around 17:30, enjoy the golden light on the medieval bridge and end the day at the festively lit Barrocas gardens."
+          },
+          "stops": [
+            {
+              "name": "Campo da República (Republic Square)",
+              "tip_5lang": {
+                "de": "Morgens kann es im Winter neblig und kühl sein.",
+                "hu": "Télen a reggelek gyakran ködösek és hűvösek.",
+                "ro": "Diminețile de iarnă pot fi cețoase și răcoroase.",
+                "en": "Winter mornings can be misty and chilly here."
+              }
+            },
+            {
+              "name": "Temple of the Lord Bom Jesus da Cruz",
+              "tip_5lang": {
+                "de": "Ein windgeschützter Ort für stille Einkehr.",
+                "hu": "Szélvédett helyszín a csendes elmélyüléshez.",
+                "ro": "Un loc ferit de vânt pentru reculegere.",
+                "en": "A sheltered spot away from the winter wind."
+              }
+            },
+            {
+              "name": "Pottery Museum",
+              "tip_5lang": {
+                "de": "Perfekt beheizt, ideal zum Aufwärmen zur Mittagszeit.",
+                "hu": "Fűtött belső tér, ideális a déli felmelegedéshez.",
+                "ro": "Interior încălzit, ideal pentru a vă încălzi la prânz.",
+                "en": "Well-heated interior, ideal for warming up at noon."
+              }
+            },
+            {
+              "name": "Keep Tower (Torre de Menagem)",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Fernsicht vom Turm.",
+                "hu": "Élvezze a tiszta kilátást a torony tetejéről.",
+                "ro": "Bucurați-vă de vizibilitatea clară din turn.",
+                "en": "Enjoy the clear long-distance views from the tower."
+              }
+            },
+            {
+              "name": "Main Church of Barcelos",
+              "tip_5lang": {
+                "de": "Dicke Mauern halten die Kälte draußen.",
+                "hu": "A vastag falak jól tartják a benti hőt.",
+                "ro": "Zidurile groase țin frigul afară.",
+                "en": "Thick walls keep the winter chill outside."
+              }
+            },
+            {
+              "name": "Palace of the Counts of Barcelos",
+              "tip_5lang": {
+                "de": "Tiefstehende Wintersonne beleuchtet die Ruinen perfekt.",
+                "hu": "Az alacsony téli nap tökéletesen megvilágítja a romokat.",
+                "ro": "Soarele de iarnă luminează perfect ruinele.",
+                "en": "Low winter sun illuminates the ruins perfectly."
+              }
+            },
+            {
+              "name": "Barcelos Bridge",
+              "tip_5lang": {
+                "de": "Bester Ort für Fotos vor dem frühen Sonnenuntergang.",
+                "hu": "A legjobb hely fotózáshoz a korai naplemente előtt.",
+                "ro": "Cel mai bun loc pentru fotografii înainte de apus.",
+                "en": "Best spot for photos before the early sunset."
+              }
+            },
+            {
+              "name": "Garden of Barrocas",
+              "tip_5lang": {
+                "de": "Im Winter oft mit weihnachtlicher Beleuchtung.",
+                "hu": "Télen gyakran ünnepi díszkivilágítással várja a látogatókat.",
+                "ro": "Iarna are adesea iluminat festiv de Crăciun.",
+                "en": "Often features festive Christmas lighting in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip für kühle Morgenstunden.",
+              "Der Sonnenuntergang ist im Winter bereits gegen 17:30 Uhr.",
+              "Genießen Sie geröstete Kastanien von lokalen Straßenhändlern.",
+              "Die Innenräume der Kirchen sind oft wärmer als die Gassen."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a hűvös reggeli órákban.",
+              "A naplemente télen már fél hat körül bekövetkezik.",
+              "Kóstolja meg a helyi árusok sült gesztenyéjét.",
+              "A templomok belseje gyakran melegebb, mint az utcák."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru orele răcoroase ale dimineții.",
+              "Apusul soarelui este iarna în jurul orei 17:30.",
+              "Savurați castanele coapte de la vânzătorii ambulanți.",
+              "Interioarele bisericilor sunt adesea mai calde decât străzile."
+            ],
+            "en": [
+              "Dress in layers for the chilly morning hours.",
+              "Sunset in winter is already around 17:30.",
+              "Enjoy roasted chestnuts from local street vendors.",
+              "Church interiors are often warmer than the narrow streets."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -783,6 +1001,206 @@
           "Always lock your bike securely when leaving it unattended.",
           "The river paths are mostly flat and suitable for all fitness levels."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Barcelos bei Regen erfordert Vorsicht auf dem glatten Kopfsteinpflaster. Starten Sie vorsichtig am Campo da República und nutzen Sie den Tempel und das Keramikmuseum für längere Pausen im Trockenen. Der Weg entlang des Flusses Cávado kann schlammig sein, bietet aber eine erfrischende Atmosphäre, bevor Sie die Tour sicher am Barrocas-Garten beenden.",
+            "hu": "Az esős kerékpártúra Barcelosban óvatosságot igényel a csúszós macskaköveken. Induljon a Campo da Repúblicáról, és használja a templomot és a Fazekasmúzeumot hosszabb pihenőkre. A Cávado-folyó menti út saras lehet, de frissítő élményt nyújt, mielőtt biztonságosan befejezné az utat a Barrocas kertnél.",
+            "ro": "O tură cu bicicleta prin Barcelos pe ploaie necesită prudență pe pavajul alunecos. Porniți cu grijă din Campo da República și folosiți templul și Muzeul Ceramicii pentru pauze lungi la uscat. Drumul de-a lungul râului Cávado poate fi noroios, dar oferă o atmosferă revigorantă înainte de a încheia turul în siguranță la Grădina Barrocas.",
+            "en": "A bike tour through Barcelos in the rain requires caution on the slippery cobblestones. Start carefully at Campo da República and use the temple and Pottery Museum for long breaks in the dry. The path along the Cávado River might be muddy but offers a refreshing atmosphere before safely ending the tour at the Barrocas Garden."
+          },
+          "stops": [
+            {
+              "name": "Campo da República (Republic Square)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf nassem Pflaster.",
+                "hu": "Vigyázat az indulásnál a nedves kövezet miatt.",
+                "ro": "Atenție la plecare pe pavajul umed.",
+                "en": "Be careful when starting on the wet pavement."
+              }
+            },
+            {
+              "name": "Temple of the Lord Bom Jesus da Cruz",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad unter den Bäumen am Rand.",
+                "hu": "Parkolja le a bringát a szélső fák védelmében.",
+                "ro": "Parcați bicicleta sub copacii de pe margine.",
+                "en": "Park your bike under the peripheral trees."
+              }
+            },
+            {
+              "name": "Pottery Museum",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder vorhanden.",
+                "hu": "Biztonságos kerékpártároló áll rendelkezésre.",
+                "ro": "Există un loc sigur pentru parcarea bicicletelor.",
+                "en": "Secure bicycle parking is available here."
+              }
+            },
+            {
+              "name": "Counts' Palace & Main Church",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad in den engen, nassen Gassen.",
+                "hu": "Tolja a biciklit a szűk, nedves utcákban.",
+                "ro": "Împingeți bicicleta pe străzile înguste și ude.",
+                "en": "Push your bike in the narrow, wet streets."
+              }
+            },
+            {
+              "name": "Barcelos Bridge",
+              "tip_5lang": {
+                "de": "Bei Seitenwind auf der Brücke besonders vorsichtig fahren.",
+                "hu": "Oldalszélben fokozott óvatossággal hajtson át a hídon.",
+                "ro": "Conduceți cu prudență sporită în caz de vânt lateral.",
+                "en": "Ride with extra caution if there are crosswinds."
+              }
+            },
+            {
+              "name": "Bike ride along Cávado River",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen und rutschigen Untergrund.",
+                "hu": "Ügyeljen a tócsákra és a csúszós talajra.",
+                "ro": "Atenție la bălți și la terenul alunecos.",
+                "en": "Watch out for puddles and slippery ground."
+              }
+            },
+            {
+              "name": "Garden of Barrocas",
+              "tip_5lang": {
+                "de": "Kurze Pause unter den Pavillons möglich.",
+                "hu": "Rövid pihenő a pavilonok alatt lehetséges.",
+                "ro": "Pauză scurtă posibilă sub pavilioane.",
+                "en": "Short breaks possible under the pavilions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und Regenhose.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt zum Fluss.",
+              "Vermeiden Sie schnelle Kurven auf nassem Kopfsteinpflaster.",
+              "Nutzen Sie Schutzbleche, um Schlammspritzer zu vermeiden."
+            ],
+            "hu": [
+              "Viseljen teljes esővédő ruházatot és nadrágot.",
+              "Ellenőrizze a fékeket a folyóhoz való leereszkedés előtt.",
+              "Kerülje a hirtelen kanyarodást a vizes macskakövön.",
+              "Használjon sárvédőt a sárfelverődés ellen."
+            ],
+            "ro": [
+              "Purtați jachetă și pantaloni de ploaie complet impermeabili.",
+              "Verificați frânele înainte de coborârea spre râu.",
+              "Evitați virajele bruște pe pavajul ud.",
+              "Folosiți apărători pentru a evita stropirea cu noroi."
+            ],
+            "en": [
+              "Wear a full raincoat and waterproof trousers.",
+              "Check your brakes before descending to the river.",
+              "Avoid sharp turns on wet cobblestones.",
+              "Use fenders to avoid mud splashes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Barcelos an einem klaren Wintertag mit dem Fahrrad. Die frische Brise am Vormittag am Campo da República weckt die Lebensgeister. Nach einem aufwärmenden Besuch im Keramikmuseum führt die Tour hinunter zum Fluss Cávado, wo die Wintersonne glitzert. Beenden Sie die Fahrt rechtzeitig vor der Abendkühle in den Barrocas-Gärten.",
+            "hu": "Fedezze fel Barcelost kerékpárral egy tiszta téli napon. A Campo da Repúblicán fújó friss délelőtti szellő felélénkíti. A Fazekasmúzeumban tett melegítő látogatás után az út a Cávado-folyóhoz vezet, ahol megcsillan a téli napsütés. Fejezze be a tekerést az esti lehűlés előtt a Barrocas kertben.",
+            "ro": "Explorați Barcelos cu bicicleta într-o zi senină de iarnă. Briza proaspătă de dimineață din Campo da República vă va revigora. După o vizită de încălzire la Muzeul Ceramicii, turul coboară spre râul Cávado, unde soarele de iarnă strălucește. Încheiați plimbarea înainte de lăsarea frigului serii în grădinile Barrocas.",
+            "en": "Explore Barcelos by bike on a clear winter day. The fresh morning breeze at Campo da República will invigorate you. After a warming visit to the Pottery Museum, the tour leads down to the Cávado River, where the winter sun glitters. Finish your ride before the evening chill sets in at the Barrocas Gardens."
+          },
+          "stops": [
+            {
+              "name": "Campo da República (Republic Square)",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe gegen den kalten Fahrtwind.",
+                "hu": "Viseljen kesztyűt a hideg menetszél ellen.",
+                "ro": "Purtați mănuși împotriva vântului rece.",
+                "en": "Wear gloves against the cold riding wind."
+              }
+            },
+            {
+              "name": "Temple of the Lord Bom Jesus da Cruz",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Muskeln aufzuwärmen.",
+                "hu": "Rövid megálló az izmok átmozgatásához.",
+                "ro": "Scurt popas pentru a vă încălzi mușchii.",
+                "en": "Short stop to keep your muscles warm."
+              }
+            },
+            {
+              "name": "Pottery Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause.",
+                "hu": "Használja a múzeumlátogatást melegedő szünetként.",
+                "ro": "Folosiți vizita la muzeu ca pauză de încălzire.",
+                "en": "Use the museum visit as a warming break."
+              }
+            },
+            {
+              "name": "Counts' Palace & Main Church",
+              "tip_5lang": {
+                "de": "Die Gassen im historischen Zentrum sind schattig und kühl.",
+                "hu": "A történelmi negyed utcái árnyékosak és hűvösek.",
+                "ro": "Străzile din centrul istoric sunt umbroase și reci.",
+                "en": "Streets in the historic center are shady and cool."
+              }
+            },
+            {
+              "name": "Barcelos Bridge",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick bei klarer Winterluft.",
+                "hu": "Élvezze a tágas kilátást a tiszta téli levegőben.",
+                "ro": "Bucurați-vă de priveliște în aerul curat de iarnă.",
+                "en": "Enjoy the wide view in the clear winter air."
+              }
+            },
+            {
+              "name": "Bike ride along Cávado River",
+              "tip_5lang": {
+                "de": "Sonnige Abschnitte entlang des Ufers suchen.",
+                "hu": "Keresse a napsütötte szakaszokat a folyóparton.",
+                "ro": "Căutați porțiunile însorite de-a lungul malului.",
+                "en": "Look for sunny sections along the riverbank."
+              }
+            },
+            {
+              "name": "Garden of Barrocas",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für die goldene Stunde am Nachmittag.",
+                "hu": "Szép helyszín a délutáni 'aranyóra' fényeihez.",
+                "ro": "Un loc frumos pentru lumina caldă a după-amiezii.",
+                "en": "A beautiful spot for the afternoon golden hour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie eine winddichte Jacke für die Abfahrten.",
+              "Die Tage sind kurz; sorgen Sie für funktionierende Lichter.",
+              "Ein heißer Tee in einer Thermoskanne ist sehr hilfreich.",
+              "Schützen Sie Ihre Ohren mit einer Mütze oder einem Stirnband."
+            ],
+            "hu": [
+              "Használjon szélálló dzsekit a lejtőkhöz.",
+              "A nappalok rövidek; ügyeljen a működő lámpákra.",
+              "Egy termosz forró tea sokat segíthet a túra alatt.",
+              "Védje füleit sapkával vagy fejpánttal."
+            ],
+            "ro": [
+              "Folosiți o jachetă rezistentă la vânt pentru coborâri.",
+              "Zilele sunt scurte; asigurați-vă că aveți lumini funcționale.",
+              "Un ceai fierbinte într-un termos este foarte util.",
+              "Protejați-vă urechile cu o căciulă sau o bentiță."
+            ],
+            "en": [
+              "Use a windproof jacket for the downhill sections.",
+              "Days are short; ensure your bike lights are working.",
+              "A hot tea in a thermos is very helpful.",
+              "Protect your ears with a hat or headband."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1167,6 +1585,206 @@
           "A car allows you to visit nearby attractions outside the city as well.",
           "Do not leave valuables visible in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Barcelos bequem mit dem Auto, um dem Regen zu trotzen. Nutzen Sie den Parkplatz Cluster A für den Besuch des Campo da República und des Keramikmuseums. Wechseln Sie mittags zum flussnahen Parkplatz Cluster B, um den historischen Kern und die Brücke mit minimalen Fußwegen im Freien zu besichtigen.",
+            "hu": "Fedezze fel Barcelost kényelmesen autóval, dacolva az esővel. Használja az 'A' parkolót a Campo da República és a Fazekasmúzeum megtekintéséhez. Délben váltson a folyóparti 'B' parkolóra, így a történelmi központot és a hidat minimális esőben tett sétával látogathatja meg.",
+            "ro": "Explorați Barcelos confortabil cu mașina pentru a înfrunta ploaia. Folosiți parcarea Cluster A pentru vizitarea pieței Campo da República și a Muzeului Ceramicii. La prânz, mutați mașina în parcarea Cluster B de lângă râu pentru a vedea centrul istoric și podul cu minim de mers pe jos prin ploaie.",
+            "en": "Explore Barcelos comfortably by car to defy the rain. Use the Cluster A parking for visiting Campo da República and the Pottery Museum. At noon, switch to the riverfront Cluster B parking to see the historic core and the bridge with minimal outdoor walking."
+          },
+          "stops": [
+            {
+              "name": "Central Parking (Cluster A)",
+              "tip_5lang": {
+                "de": "Zentraler Ausgangspunkt, nah an überdachten Cafés.",
+                "hu": "Központi kiindulópont, közel a fedett kávézókhoz.",
+                "ro": "Punct central de plecare, aproape de cafenele acoperite.",
+                "en": "Central starting point, close to covered cafes."
+              }
+            },
+            {
+              "name": "Campo da República (Republic Square)",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Sprint vom Parkplatz zum Arkadengang.",
+                "hu": "Csak egy rövid vágta a parkolótól az árkádokig.",
+                "ro": "Doar o scurtă fugă de la parcare până la arcade.",
+                "en": "Just a short dash from the parking to the arcades."
+              }
+            },
+            {
+              "name": "Temple of the Lord Bom Jesus da Cruz",
+              "tip_5lang": {
+                "de": "Der Eingang ist oft direkt von der Straße aus erreichbar.",
+                "hu": "A bejárat gyakran közvetlenül az utcáról elérhető.",
+                "ro": "Intrarea este adesea accesibilă direct din stradă.",
+                "en": "The entrance is often accessible directly from the street."
+              }
+            },
+            {
+              "name": "Pottery Museum",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Museumseingang.",
+                "hu": "Parkoljon a lehető legközelebb a múzeum bejáratához.",
+                "ro": "Parcați cât mai aproape de intrarea muzeului.",
+                "en": "Park as close to the museum entrance as possible."
+              }
+            },
+            {
+              "name": "Riverfront Parking (Cluster B)",
+              "tip_5lang": {
+                "de": "Bietet schnellen Zugang zu den Sehenswürdigkeiten am Fluss.",
+                "hu": "Gyors hozzáférést biztosít a folyóparti látnivalókhoz.",
+                "ro": "Oferă acces rapid la obiectivele de lângă râu.",
+                "en": "Provides quick access to the riverside sights."
+              }
+            },
+            {
+              "name": "Palace, Church & Tower",
+              "tip_5lang": {
+                "de": "Die Gebäude bieten guten Schutz vor Schauern.",
+                "hu": "Az épületek jó védelmet nyújtanak a záporok ellen.",
+                "ro": "Clădirile oferă o protecție bună împotriva ploii.",
+                "en": "The buildings offer good protection from showers."
+              }
+            },
+            {
+              "name": "Bridge & Garden",
+              "tip_5lang": {
+                "de": "Besichtigung vom Auto aus bei extremem Wetter möglich.",
+                "hu": "Extrém időjárás esetén az autóból is megtekinthető.",
+                "ro": "Vizitare din mașină posibilă în caz de vreme extremă.",
+                "en": "Viewing from the car possible in extreme weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie einen Regenschirm im Auto bereit.",
+              "Nutzen Sie Parkhäuser, um trocken ein- und auszusteigen.",
+              "Die Straßen können bei starkem Regen rutschig sein.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche ein."
+            ],
+            "hu": [
+              "Tartson esernyőt az autóban készenlétben.",
+              "Használjon parkolóházakat a száraz ki- és beszálláshoz.",
+              "Az utak heves esőzéskor csúszósak lehetnek.",
+              "Számoljon több idővel a parkolóhely-kereséshez."
+            ],
+            "ro": [
+              "Țineți o umbrelă pregătită în mașină.",
+              "Folosiți parcări acoperite pentru a urca/coborî uscat.",
+              "Drumurile pot fi alunecoase în caz de ploaie puternică.",
+              "Alocați mai mult timp pentru căutarea parcării."
+            ],
+            "en": [
+              "Keep an umbrella ready in the car.",
+              "Use covered parking to stay dry while entering/exiting.",
+              "Roads can be slippery during heavy rain.",
+              "Allow more time for finding a parking spot."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterausflug mit dem Auto nach Barcelos bietet Komfort und Flexibilität. Starten Sie am Campo da República und genießen Sie die kühle Morgenluft. Nutzen Sie die kurzen Wege zwischen den Parkclustern, um die Kirchen und das Keramikmuseum zu besuchen. Am Nachmittag erreichen Sie bequem den Fluss und die Barrocas-Gärten, bevor es am Abend spürbar kälter wird.",
+            "hu": "Az autós téli kirándulás Barcelosba kényelmet és rugalmasságot kínál. Kezdjen a Campo da Repúblicán, élvezve a friss reggeli levegőt. Használja a parkolók közötti rövid távolságokat a templomok és a Fazekasmúzeum felkereséséhez. Délután kényelmesen elérheti a folyót és a Barrocas kertet, még mielőtt este érezhetően lehűlne az idő.",
+            "ro": "O excursie de iarnă cu mașina la Barcelos oferă confort și flexibilitate. Începeți în Campo da República și bucurați-vă de aerul proaspăt de dimineață. Folosiți distanțele scurte dintre parcări pentru a vizita bisericile și Muzeul Ceramicii. După-amiaza ajungeți ușor la râu și la grădinile Barrocas, înainte de răcirea serii.",
+            "en": "A winter trip by car to Barcelos offers comfort and flexibility. Start at Campo da República and enjoy the crisp morning air. Use the short distances between parking clusters to visit the churches and the Pottery Museum. In the afternoon, easily reach the river and the Barrocas gardens before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Central Parking (Cluster A)",
+              "tip_5lang": {
+                "de": "Einfacher Zugang zum beheizten Auto nach dem Rundgang.",
+                "hu": "Könnyű visszatérés a fűtött autóhoz a séta után.",
+                "ro": "Acces ușor la mașina încălzită după tur.",
+                "en": "Easy access to your heated car after the walk."
+              }
+            },
+            {
+              "name": "Campo da República (Republic Square)",
+              "tip_5lang": {
+                "de": "Morgens kann Raureif auf den Parkflächen liegen.",
+                "hu": "Reggelente dér boríthatja a parkolófelületeket.",
+                "ro": "Dimineața poate fi brumă pe suprafețele de parcare.",
+                "en": "Frost may cover the parking surfaces in the morning."
+              }
+            },
+            {
+              "name": "Temple of the Lord Bom Jesus da Cruz",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg schont die winterliche Kondition.",
+                "hu": "Rövid séta, kíméli a téli állóképességet.",
+                "ro": "Mersul scurt pe jos menajează condiția fizică.",
+                "en": "Short walk saves your winter stamina."
+              }
+            },
+            {
+              "name": "Pottery Museum",
+              "tip_5lang": {
+                "de": "Museumsbesuch ist die perfekte Aufwärmpause.",
+                "hu": "A múzeumlátogatás tökéletes melegedő szünet.",
+                "ro": "Vizita la muzeu este pauza perfectă de încălzire.",
+                "en": "The museum visit is the perfect warming break."
+              }
+            },
+            {
+              "name": "Riverfront Parking (Cluster B)",
+              "tip_5lang": {
+                "de": "Idealer Stopp für den Sonnenuntergang am Fluss.",
+                "hu": "Ideális megálló a folyóparti naplementéhez.",
+                "ro": "Oprire ideală pentru apusul de pe râu.",
+                "en": "Ideal stop for the sunset by the river."
+              }
+            },
+            {
+              "name": "Palace, Church & Tower",
+              "tip_5lang": {
+                "de": "Die historischen Gebäude sind im Winter oft wenig besucht.",
+                "hu": "A történelmi épületek télen gyakran kevésbé zsúfoltak.",
+                "ro": "Clădirile istorice sunt adesea mai libere iarna.",
+                "en": "Historic buildings are often less crowded in winter."
+              }
+            },
+            {
+              "name": "Bridge & Garden",
+              "tip_5lang": {
+                "de": "Vermeiden Sie lange Aufenthalte im Freien nach 17 Uhr.",
+                "hu": "Kerülje a hosszú kinti tartózkodást 17 óra után.",
+                "ro": "Evitați șederea prelungită afară după ora 17:00.",
+                "en": "Avoid staying outdoors for long after 17:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Heizung gut funktioniert.",
+              "Die Parkplatzsuche ist im Winter oft unkomplizierter.",
+              "Nutzen Sie das Auto als Basis zum Aufwärmen.",
+              "Achten Sie auf frühzeitig einsetzende Dämmerung."
+            ],
+            "hu": [
+              "Ellenőrizze, hogy az autó fűtése jól működik-e.",
+              "A parkolóhely-keresés télen gyakran egyszerűbb.",
+              "Használja az autót bázispontként a felmelegedéshez.",
+              "Ügyeljen a korai sötétedésre."
+            ],
+            "ro": [
+              "Asigurați-vă că încălzirea mașinii funcționează bine.",
+              "Căutarea parcării este adesea mai simplă iarna.",
+              "Folosiți mașina ca bază pentru a vă încălzi.",
+              "Atenție la amurgul care se lasă devreme."
+            ],
+            "en": [
+              "Ensure your car's heating is working well.",
+              "Finding a parking spot is often easier in winter.",
+              "Use the car as a base for warming up.",
+              "Be aware of the early onset of twilight."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1527,6 +2145,188 @@
           "Have small change ready for tickets.",
           "Signal the driver if you want them to stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den öffentlichen Nahverkehr, um Barcelos bei Regen zu erkunden. Vom Busbahnhof aus erreichen Sie schnell den Campo da República. Das Keramikmuseum bietet Schutz während der stärksten Regenfälle. Mit dem Bus gelangen Sie bequem zum Flussufer, wo Sie den historischen Kern und die Brücke besichtigen können, ohne lange dem Wetter ausgesetzt zu sein.",
+            "hu": "Használja a tömegközlekedést Barcelos felfedezéséhez esőben. A buszpályaudvartól gyorsan elérheti a Campo da Repúblicát. A Fazekasmúzeum védelmet nyújt a heves esőzések alatt. Busszal kényelmesen eljuthat a folyópartra, ahol megnézheti a történelmi központot és a hidat anélkül, hogy sokáig ázna.",
+            "ro": "Folosiți transportul public pentru a explora Barcelos pe ploaie. De la autogară ajungeți rapid în Campo da República. Muzeul Ceramicii oferă adăpost în timpul ploilor torențiale. Cu autobuzul ajungeți ușor la malul râului pentru a vedea centrul istoric și podul fără expunere prelungită la vremea rea.",
+            "en": "Use public transport to explore Barcelos in the rain. From the bus station, you can quickly reach Campo da República. The Pottery Museum provides shelter during heavy rain. By bus, you can easily reach the riverfront to see the historic core and the bridge without long exposure to the weather."
+          },
+          "stops": [
+            {
+              "name": "Bus Station (Cluster A)",
+              "tip_5lang": {
+                "de": "Überdachter Wartebereich am Bahnhof vorhanden.",
+                "hu": "Fedett váróterem áll rendelkezésre a pályaudvaron.",
+                "ro": "Există o zonă de așteptare acoperită la autogară.",
+                "en": "Covered waiting area available at the station."
+              }
+            },
+            {
+              "name": "Campo da República & Temple",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Haltestelle zu den Arkaden.",
+                "hu": "Rövid séta a megállótól az árkádokig.",
+                "ro": "Drum scurt de la stație până la arcade.",
+                "en": "Short walk from the stop to the arcades."
+              }
+            },
+            {
+              "name": "Pottery Museum",
+              "tip_5lang": {
+                "de": "Informieren Sie sich über die Buszeiten im Museum.",
+                "hu": "Tájékozódjon a buszjáratokról a múzeumban.",
+                "ro": "Informați-vă despre orele autobuzelor în muzeu.",
+                "en": "Check bus schedules while inside the museum."
+              }
+            },
+            {
+              "name": "Riverfront Stop (Cluster B)",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Unterstand auf den nächsten Bus.",
+                "hu": "Várja a következő buszt a fedett megállóban.",
+                "ro": "Așteptați următorul autobuz sub copertină.",
+                "en": "Wait for the next bus under the shelter."
+              }
+            },
+            {
+              "name": "Historic Ensemble (Palace, Church, Tower)",
+              "tip_5lang": {
+                "de": "Die Gebäude liegen nah beieinander, ideal bei Schauern.",
+                "hu": "Az épületek közel vannak egymáshoz, ideális esőben.",
+                "ro": "Clădirile sunt aproape una de alta, ideal pe ploaie.",
+                "en": "Buildings are close together, ideal during showers."
+              }
+            },
+            {
+              "name": "Garden of Barrocas",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt am Eingang des Gartens.",
+                "hu": "Buszmegálló közvetlenül a kert bejáratánál.",
+                "ro": "Stație de autobuz chiar la intrarea în grădină.",
+                "en": "Bus stop right at the garden entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Ihr Ticket im Voraus oder beim Fahrer.",
+              "Die Busse fahren bei Regen oft nach Plan.",
+              "Nutzen Sie die App 'TUA' für Echtzeit-Informationen.",
+              "Bleiben Sie an den überdachten Haltestellen trocken."
+            ],
+            "hu": [
+              "Vásárolja meg jegyét előre vagy a sofőrnél.",
+              "A buszok esőben is többnyire menetrend szerint járnak.",
+              "Használja a 'TUA' alkalmazást valós idejű infókért.",
+              "Maradjon szárazon a fedett megállókban."
+            ],
+            "ro": [
+              "Cumpărați biletul în avans sau de la șofer.",
+              "Autobuzele circulă de obicei conform orarului pe ploaie.",
+              "Folosiți aplicația 'TUA' pentru informații în timp real.",
+              "Rămâneți uscat în stațiile acoperite."
+            ],
+            "en": [
+              "Buy your ticket in advance or from the driver.",
+              "Buses usually run on schedule during rain.",
+              "Use the 'TUA' app for real-time information.",
+              "Stay dry under the covered bus stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Barcelos an einem klaren Wintertag bequem mit dem Bus. Starten Sie am zentralen Busbahnhof und erreichen Sie die historischen Plätze im Nu. Nach einem Besuch im warmen Keramikmuseum bringt Sie der Transit zum Flussufer. Genießen Sie die Wintersonne am historischen Ensemble, bevor Sie den Tag in den festlichen Barrocas-Gärten ausklingen lassen.",
+            "hu": "Fedezze fel Barcelost egy tiszta téli napon kényelmesen, busszal. Kezdjen a központi buszpályaudvaron, és pillanatok alatt elérheti a történelmi tereket. A meleg Fazekasmúzeum után a tömegközlekedés elviszi a folyópartra. Élvezze a téli napsütést a történelmi negyedben, majd zárja a napot az ünnepi Barrocas kertben.",
+            "ro": "Explorați Barcelos într-o zi senină de iarnă confortabil cu autobuzul. Porniți de la autogara centrală și ajungeți rapid în piețele istorice. După o vizită la căldurosul Muzeu al Ceramicii, transportul public vă duce la malul râului. Bucurați-vă de soarele de iarnă la ansamblul istoric înainte de a încheia ziua în grădinile festive Barrocas.",
+            "en": "Explore Barcelos on a clear winter day comfortably by bus. Start at the central bus station and reach the historic squares in no time. After visiting the warm Pottery Museum, transit takes you to the riverfront. Enjoy the winter sun at the historic ensemble before ending the day at the festive Barrocas gardens."
+          },
+          "stops": [
+            {
+              "name": "Bus Station (Cluster A)",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist im Winter ein warmer Warteort.",
+                "hu": "A pályaudvar télen meleg várakozóhelyet biztosít.",
+                "ro": "Autogara este un loc de așteptare cald iarna.",
+                "en": "The station provides a warm waiting area in winter."
+              }
+            },
+            {
+              "name": "Campo da República & Temple",
+              "tip_5lang": {
+                "de": "Häufige Verbindungen vom Stadtzentrum aus.",
+                "hu": "Gyakori járatok a városközpontból.",
+                "ro": "Conexiuni frecvente din centrul orașului.",
+                "en": "Frequent connections from the city center."
+              }
+            },
+            {
+              "name": "Pottery Museum",
+              "tip_5lang": {
+                "de": "Museumsbesuch bietet Schutz vor der Mittagskälte.",
+                "hu": "A múzeumlátogatás védelmet nyújt a déli hideg ellen.",
+                "ro": "Vizita la muzeu oferă protecție împotriva frigului.",
+                "en": "The museum visit provides shelter from the midday cold."
+              }
+            },
+            {
+              "name": "Riverfront Stop (Cluster B)",
+              "tip_5lang": {
+                "de": "Vom Bus aus hat man oft einen schönen Blick auf den Fluss.",
+                "hu": "A buszból gyakran szép kilátás nyílik a folyóra.",
+                "ro": "Din autobuz aveți adesea o vedere frumoasă spre râu.",
+                "en": "You often get a nice view of the river from the bus."
+              }
+            },
+            {
+              "name": "Historic Ensemble (Palace, Church, Tower)",
+              "tip_5lang": {
+                "de": "Wintersonne wärmt die Steine der Ruinen auf.",
+                "hu": "A téli napsütés felmelegíti a romok köveit.",
+                "ro": "Soarele de iarnă încălzește pietrele ruinelor.",
+                "en": "The winter sun warms up the stones of the ruins."
+              }
+            },
+            {
+              "name": "Garden of Barrocas",
+              "tip_5lang": {
+                "de": "Letzte Busse vor dem Abend für die Rückfahrt prüfen.",
+                "hu": "Ellenőrizze az utolsó buszokat az esti visszatéréshez.",
+                "ro": "Verificați ultimele autobuze pentru întoarcerea de seară.",
+                "en": "Check for the last buses for your return in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bedenken Sie, dass Busse im Winter seltener fahren könnten.",
+              "Warten Sie in Cafés nahe der Haltestellen, um warm zu bleiben.",
+              "Tragen Sie warme Kleidung für die Wartezeiten im Freien.",
+              "Die Busverbindungen sind am Wochenende eingeschränkt."
+            ],
+            "hu": [
+              "Vegye figyelembe, hogy télen ritkábbak lehetnek a járatok.",
+              "Várjon a megállók közeli kávézókban, hogy melegben maradjon.",
+              "Viseljen meleg ruhát a kinti várakozáshoz.",
+              "A buszjáratok hétvégén korlátozottabbak lehetnek."
+            ],
+            "ro": [
+              "Țineți cont că autobuzele pot circula mai rar iarna.",
+              "Așteptați în cafenelele de lângă stații pentru a sta la cald.",
+              "Purtați haine groase pentru perioadele de așteptare afară.",
+              "Conexiunile de autobuz sunt limitate în weekend."
+            ],
+            "en": [
+              "Keep in mind that buses might run less frequently in winter.",
+              "Wait in cafes near stops to stay warm.",
+              "Wear warm clothes for waiting periods outdoors.",
+              "Bus connections are more limited on weekends."
+            ]
+          }
+        }
       }
     }
   }

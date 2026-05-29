@@ -356,6 +356,188 @@
           "Check the museum's opening hours in advance.",
           "The paths are mostly flat, but there are a few small inclines."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Vormittag am Rathausplatz, wo die Arkaden Schutz vor dem Regen bieten. Besuchen Sie die Michaelskirche für einen Moment der Stille im Trockenen. Den Mittag verbringen Sie im Turm 9, dessen dicke Festungsmauern jedes Wetter vergessen lassen. Nach einem gemütlichen Mittagessen im Zentrum spazieren Sie zum Schloss Bergham. Den Abschluss bildet das Harter Plateau, wo der Regen die Luft klärt und eine besondere Fernsicht ermöglicht.",
+            "hu": "Kezdje a reggelt a Városháza árkádjai alatt, védve az esőtől. A Szent Mihály-templom csendes menedéket nyújt a zápor elől. A délelőtt nagy részét töltse a 9-es torony múzeumában, ahol a vastag falak között észre sem veszi az időjárást. Egy kiadós ebéd után látogasson el a Bergham-kastélyhoz. A napot a Harter-fennsíkon zárja, ahol az eső utáni tiszta levegőben különleges látványt nyújt a környék.",
+            "ro": "Începeți dimineața în Piața Primăriei, folosind arcadele pentru a vă adăposti de ploaie. Vizitați Biserica Sf. Mihail pentru un moment de liniște la uscat. Petreceți prânzul la Turnul 9, unde zidurile groase ale cetății vă fac să uitați de vreme. După un prânz cald în centru, mergeți spre Castelul Bergham. Încheiați pe Podișul Harter, unde aerul curat de după ploaie oferă o vizibilitate specială asupra orașului.",
+            "en": "Start your morning at the Town Hall square, utilizing the arcades for rain cover. Visit St. Michael's Church for a dry, peaceful retreat. Spend the late morning in Tower 9, where the massive fortress walls make you forget the weather. After a cozy lunch in the center, walk to Bergham Castle. Finish at the Harter Plateau, where the rain-cleansed air provides a unique and crisp view of the surrounding landscape."
+          },
+          "stops": [
+            {
+              "name": "Leonding Town Hall & Main Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Rathauses als trockenen Treffpunkt.",
+                "hu": "Használja a városháza árkádjait száraz találkozóhelyként.",
+                "ro": "Folosiți arcadele primăriei ca punct de întâlnire ferit de ploaie.",
+                "en": "Use the Town Hall arcades as a dry meeting point."
+              }
+            },
+            {
+              "name": "Parish Church of St. Michael",
+              "tip_5lang": {
+                "de": "Bewundern Sie die barocke Innenausstattung während eines Schauers.",
+                "hu": "Csodálja meg a barokk belső teret egy zápor alatt.",
+                "ro": "Admirați interiorul baroc în timpul unei averse.",
+                "en": "Admire the baroque interior while waiting out a shower."
+              }
+            },
+            {
+              "name": "Tower 9 - City Museum",
+              "tip_5lang": {
+                "de": "Perfektes Indoor-Ziel; planen Sie hier bei Regen mehr Zeit ein.",
+                "hu": "Tökéletes beltéri program; esőben töltsön itt több időt.",
+                "ro": "Destinație ideală de interior; alocați mai mult timp aici dacă plouă.",
+                "en": "Perfect indoor destination; plan more time here during rain."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
+                "hu": "Válasszon ruhatárral rendelkező éttermet a vizes kabátoknak.",
+                "ro": "Alegeți un restaurant cu garderobă pentru hainele ude.",
+                "en": "Choose a restaurant with a cloakroom for wet coats."
+              }
+            },
+            {
+              "name": "Bergham Castle",
+              "tip_5lang": {
+                "de": "Der Anblick des Schlosses ist auch unter einem Schirm romantisch.",
+                "hu": "A kastély látványa esernyő alól is romantikus élmény.",
+                "ro": "Vederea castelului este romantică chiar și de sub umbrelă.",
+                "en": "The view of the castle is romantic even from under an umbrella."
+              }
+            },
+            {
+              "name": "Walk on the Harter Plateau",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Wegen; festes Schuhwerk ist wichtig.",
+                "hu": "Vigyázat, az utak csúszósak lehetnek; a túrabakancs fontos.",
+                "ro": "Atenție la potecile alunecoase; încălțămintea aderentă este esențială.",
+                "en": "Watch out for slippery paths; sturdy footwear is essential."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein großer Stockschirm ist auf dem Harter Plateau wegen des Windes besser.",
+              "Das Stadtmuseum Turm 9 bietet Garderoben und Schließfächer.",
+              "Kombinieren Sie die Wege mit den City-Bus-Linien, um trocken zu bleiben.",
+              "Viele Cafés im Zentrum haben überdachte Außenbereiche mit Heizstrahlern."
+            ],
+            "hu": [
+              "A Harter-fennsíkon a szél miatt egy stabilabb esernyő javasolt.",
+              "A 9-es torony múzeumban van ruhatár és értékmegőrző.",
+              "Használja a helyi buszokat a megállók közötti gyors közlekedéshez.",
+              "A központ kávézói gyakran rendelkeznek fűtött, fedett terasszal."
+            ],
+            "ro": [
+              "O umbrelă solidă este preferabilă pe podiș din cauza vântului.",
+              "Muzeul Turnul 9 oferă garderobă și dulapuri pentru bagaje.",
+              "Combinați mersul pe jos cu liniile de autobuz locale pentru a rămâne uscat.",
+              "Multe cafenele din centru au terase acoperite și încălzite."
+            ],
+            "en": [
+              "A sturdy stick umbrella is better on the plateau due to the wind.",
+              "Tower 9 museum provides cloakrooms and lockers for wet gear.",
+              "Combine walking with local city bus lines to minimize rain exposure.",
+              "Many central cafes have covered outdoor areas with heaters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die frische Winterluft am Rathausplatz, bevor Sie sich in der Michaelskirche aufwärmen. Die dicken Mauern von Turm 9 halten die Kälte fern, während Sie in die Geschichte eintauchen. Nach einem wärmenden Mittagessen mit regionalen Spezialitäten spazieren Sie zum Schloss Bergham. Das Finale am Harter Plateau bietet bei klarer Winterluft eine fantastische Aussicht, oft über dem Nebelmeer des Linzer Beckens.",
+            "hu": "Élvezze a friss téli levegőt a Városház téren, majd melegedjen fel a Szent Mihály-templomban. A 9-es torony vastag falai távol tartják a fagyot, miközben elmerül a történelemben. Egy melengető, regionális ételekből álló ebéd után sétáljon el a Bergham-kastélyhoz. A napot a Harter-fennsíkon zárja, ahol tiszta téli időben gyakran a linzi medence ködfátyla fölé emelkedhet a kilátás.",
+            "ro": "Experimentați aerul proaspăt de iarnă în Piața Primăriei înainte de a vă încălzi în Biserica Sf. Mihail. Zidurile groase ale Turnului 9 țin frigul la distanță în timp ce explorați istoria locală. După un prânz reconfortant cu specialități regionale, mergeți la Castelul Bergham. Finalul pe Podișul Harter oferă o vedere fantastică, adesea deasupra ceții din bazinul Linz.",
+            "en": "Experience the crisp winter air at Town Hall Square before warming up in St. Michael's Church. The thick walls of Tower 9 keep the cold out while you dive into local history. After a warming lunch with regional specialties, walk to Bergham Castle. The finale on the Harter Plateau offers fantastic views in clear winter air, often rising above the sea of fog in the Linz basin."
+          },
+          "stops": [
+            {
+              "name": "Leonding Town Hall & Main Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf weihnachtliche Beleuchtung in der Dämmerung.",
+                "hu": "Figyelje meg az ünnepi kivilágítást a szürkületben.",
+                "ro": "Admirați luminile de sărbătoare la lăsarea serii.",
+                "en": "Look out for festive holiday lighting at dusk."
+              }
+            },
+            {
+              "name": "Parish Church of St. Michael",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und Wärme während eines Winterspaziergangs.",
+                "hu": "A csend és a meleg szigete egy téli séta során.",
+                "ro": "Un loc de liniște și căldură în timpul unei plimbări de iarnă.",
+                "en": "A place of silence and warmth during a winter walk."
+              }
+            },
+            {
+              "name": "Tower 9 - City Museum",
+              "tip_5lang": {
+                "de": "Die Ausstellungsräume sind angenehm beheizt.",
+                "hu": "A kiállítótermek kellemesen fűtöttek.",
+                "ro": "Sălile de expoziție sunt încălzite confortabil.",
+                "en": "The exhibition rooms are pleasantly heated."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Probieren Sie heißen Apfelmost oder eine kräftige Suppe.",
+                "hu": "Kóstolja meg a forró almafröccsöt vagy egy tartalmas levest.",
+                "ro": "Încercați un must de mere fierbinte sau o supă consistentă.",
+                "en": "Try some hot apple cider or a hearty traditional soup."
+              }
+            },
+            {
+              "name": "Bergham Castle",
+              "tip_5lang": {
+                "de": "Das Schloss wirkt in einer Schneelandschaft besonders märchenhaft.",
+                "hu": "A kastély a havas tájban különösen meseszerű látványt nyújt.",
+                "ro": "Castelul arată ca în basme în mijlocul unui peisaj înzăpezit.",
+                "en": "The castle looks particularly fairytale-like in a snowy landscape."
+              }
+            },
+            {
+              "name": "Walk on the Harter Plateau",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch vor 16:30 Uhr ein, bevor es dunkel wird.",
+                "hu": "Tervezze a látogatást 16:30 előtt, mielőtt besötétedik.",
+                "ro": "Planificați vizita înainte de ora 16:30, înainte de întuneric.",
+                "en": "Plan your visit before 4:30 PM, before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Zwiebelschichten; die Innenräume sind warm, draußen ist es zugig.",
+              "Die Sonne geht im Winter früh hinter dem Kürnberg unter.",
+              "Achten Sie auf Streusalz oder Eis auf den Gehwegen zum Plateau.",
+              "Warme Getränke gibt es in den Bäckereien rund um den Stadtplatz."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen; a belső terek melegek, kint szeles lehet.",
+              "Télen a nap korán lenyugszik a Kürnberg mögött.",
+              "Ügyeljen a sószórókra vagy a jégre a fennsíkra vezető utakon.",
+              "Forró italokat a főtér körüli pékségekben is találhat."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; interioarele sunt calde, dar afară e curent.",
+              "Iarna, soarele apune devreme în spatele dealului Kürnberg.",
+              "Atenție la sarea de degivrare sau gheața de pe drumul spre podiș.",
+              "Băuturi calde sunt disponibile la brutăriile din jurul pieței."
+            ],
+            "en": [
+              "Wear layers; interiors are warm while outdoor areas can be drafty.",
+              "In winter, the sun sets early behind the Kürnberg hill.",
+              "Watch out for road salt or ice on the paths to the plateau.",
+              "Hot drinks are available at the bakeries around the town square."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +911,206 @@
           "Bring a map or GPS device.",
           "A bike lock is essential for the stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Rathausplatz und achten Sie auf rutschiges Pflaster. Die Fahrt zum Schloss Rufling führt durch eine erfrischte Landschaft, die bei Regen besonders intensiv duftet. Nach dem Besuch der Apolloniakirche bietet der Kürnbergwald natürlichen Schutz unter dem Blätterdach. Ein warmes Mittagessen gibt Kraft für den Rückweg, bevor Sie den Tag entspannt im trockenen Stadtmuseum Turm 9 ausklingen lassen.",
+            "hu": "Induljon a Városház térről, ügyelve a csúszós macskakövekre. A Rufling-kastélyhoz vezető út a friss, esőillatú tájon át vezet. Az Apollónia-templom megtekintése után a Kürnberg-erdő lombkoronája nyújt némi természetes védelmet. Egy meleg ebéd erőt ad a visszaúthoz, mielőtt a napot a száraz és kényelmes 9-es torony múzeumban fejezné be.",
+            "ro": "Porniți din Piața Primăriei și atenție la pavajul alunecos. Drumul spre Castelul Rufling traversează un peisaj împrospătat, care miroase intens a ploaie. După vizitarea bisericii Apollonia, pădurea Kürnberg oferă protecție naturală sub coronament. Un prânz cald vă dă putere pentru drumul de întoarcere, înainte de a încheia ziua la adăpostul Turnului 9.",
+            "en": "Start at the Town Hall square, being careful on slippery cobblestones. The ride to Rufling Castle takes you through a refreshed landscape with intense post-rain scents. After visiting Apollonia Church, the Kürnberg Forest canopy provides some natural shelter. A warm lunch provides energy for the ride back before finishing your day in the dry City Museum Tower 9."
+          },
+          "stops": [
+            {
+              "name": "Leonding Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht beim Losfahren auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázat az induláskor a vizes macskaköveken.",
+                "ro": "Atenție la pornire pe pavajul umed.",
+                "en": "Be careful when starting on wet cobblestones."
+              }
+            },
+            {
+              "name": "Rufling Castle",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann matschig sein; Schutzbleche sind ratsam.",
+                "hu": "A feljáró sáros lehet; a sárvédő javasolt.",
+                "ro": "Aleea de acces poate fi noroioasă; aripile sunt recomandate.",
+                "en": "The access path can be muddy; fenders are advisable."
+              }
+            },
+            {
+              "name": "Apollonia Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorbau der Kirche zum Unterstellen.",
+                "hu": "Használja a templom előterét menedékként az eső elől.",
+                "ro": "Folosiți pridvorul bisericii ca adăpost temporar.",
+                "en": "Use the church porch for temporary shelter."
+              }
+            },
+            {
+              "name": "Kürnberg Forest",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Hauptwegen.",
+                "hu": "Maradjon a szilárd burkolatú főutakon.",
+                "ro": "Rămâneți pe drumurile principale pavate.",
+                "en": "Stick to the paved main paths."
+              }
+            },
+            {
+              "name": "Kürnberg Castle Ruins",
+              "tip_5lang": {
+                "de": "Die Steine der Ruine sind bei Nässe sehr glatt.",
+                "hu": "A romok kövei nedvesen nagyon csúszósak.",
+                "ro": "Pietrele ruinelor sunt foarte alunecoase când sunt ude.",
+                "en": "The stones of the ruins are very slick when wet."
+              }
+            },
+            {
+              "name": "Lunch and back to the center",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz mit Blick auf Ihr Fahrrad im Regen.",
+                "hu": "Keressen olyan helyet, ahonnan rálát a biciklijére az esőben.",
+                "ro": "Căutați un loc cu vedere la bicicletă în ploaie.",
+                "en": "Find a spot with a view of your bike in the rain."
+              }
+            },
+            {
+              "name": "Tower 9 - City Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Tour trocken zu beenden.",
+                "hu": "Ideális hely a túra száraz befejezéséhez.",
+                "ro": "Locul ideal pentru a încheia turul la uscat.",
+                "en": "Ideal place to end the tour in a dry environment."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung (Hose und Jacke) ist unerlässlich.",
+              "Prüfen Sie Ihre Bremsen; der Bremsweg verlängert sich bei Nässe.",
+              "Schalten Sie auch tagsüber das Licht ein für bessere Sichtbarkeit.",
+              "Wischfeste Karten oder eine wasserdichte Handyhalterung verwenden."
+            ],
+            "hu": [
+              "A teljes esőruházat (nadrág és dzseki) elengedhetetlen.",
+              "Ellenőrizze a fékeket; vizes úton hosszabb a féktáv.",
+              "Használjon világítást nappal is a jobb láthatóságért.",
+              "Használjon vízálló telefontartót a navigációhoz."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie (pantaloni și jachetă) este esențial.",
+              "Verificați frânele; distanța de frânare crește pe carosabil umed.",
+              "Aprindeți luminile și în timpul zilei pentru o vizibilitate mai bună.",
+              "Folosiți un suport de telefon impermeabil pentru navigare."
+            ],
+            "en": [
+              "Full rain gear (trousers and jacket) is essential.",
+              "Check your brakes; stopping distance increases on wet roads.",
+              "Turn on your lights even during the day for better visibility.",
+              "Use a waterproof phone holder for navigation."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie dick eingepackt am Rathausplatz in den frostigen Morgen. Die Fahrt zum Schloss Rufling führt durch glitzernde Winterfelder. Nach einer kurzen Aufwärmpause in der Apolloniakirche erleben Sie die Ruhe des winterlichen Kürnbergwaldes. Ein kräftiger Eintopf zum Mittag gibt neue Energie, bevor Sie die Ruinen im Reif besichtigen. Den Nachmittag verbringen Sie gemütlich im beheizten Turm 9.",
+            "hu": "Induljon alaposan felöltözve a Városház térről a fagyos reggelen. A Rufling-kastélyhoz vezető út csillogó téli mezőkön át vezet. Egy rövid melegedő után az Apollónia-templomban élvezze a téli Kürnberg-erdő nyugalmát. Egy tartalmas egytálétel ebédre új erőt ad a zúzmarás romok megtekintéséhez. A délutánt töltse kényelmesen a fűtött 9-es toronyban.",
+            "ro": "Porniți bine echipat din Piața Primăriei în dimineața geroasă. Drumul spre Castelul Rufling trece prin câmpuri de iarnă sclipitoare. După o scurtă pauză de încălzire în biserica Apollonia, experimentați liniștea pădurii Kürnberg. O tocană consistentă la prânz vă dă energie pentru a vizita ruinele acoperite de chiciură. Petreceți după-amiaza în confortul Turnului 9.",
+            "en": "Start warmly dressed at the Town Hall square for a frosty morning. The ride to Rufling Castle takes you through sparkling winter fields. After a short warming break in Apollonia Church, experience the silence of the winter Kürnberg Forest. A hearty stew for lunch gives new energy for visiting the frost-covered ruins. Spend the afternoon comfortably in the heated Tower 9."
+          },
+          "stops": [
+            {
+              "name": "Leonding Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Tauwasser auf dem Pflaster.",
+                "hu": "Vigyázat a megfagyott pára miatti csúszós kövekkel.",
+                "ro": "Atenție la condensul înghețat de pe pavaj.",
+                "en": "Watch out for frozen dew on the cobblestones."
+              }
+            },
+            {
+              "name": "Rufling Castle",
+              "tip_5lang": {
+                "de": "Der Anstieg hält Sie bei kalten Temperaturen warm.",
+                "hu": "Az emelkedő segít melegen tartani a testét a hidegben.",
+                "ro": "Urcarea vă va ține de cald la temperaturi scăzute.",
+                "en": "The uphill climb will keep you warm in cold temperatures."
+              }
+            },
+            {
+              "name": "Apollonia Church",
+              "tip_5lang": {
+                "de": "Kurze Rast im Inneren, um die Finger aufzuwärmen.",
+                "hu": "Rövid pihenő bent, hogy felmelegítse az ujjait.",
+                "ro": "Scurt popas în interior pentru a vă încălzi degetele.",
+                "en": "Short rest inside to warm up your fingers."
+              }
+            },
+            {
+              "name": "Kürnberg Forest",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen im Schatten der Bäume.",
+                "hu": "Ügyeljen a jeges foltokra a fák árnyékában.",
+                "ro": "Atenție la porțiunile înghețate la umbra copacilor.",
+                "en": "Watch out for icy patches in the shade of the trees."
+              }
+            },
+            {
+              "name": "Kürnberg Castle Ruins",
+              "tip_5lang": {
+                "de": "Besuch bei Tageslicht; im Wald wird es früh dunkel.",
+                "hu": "Nappali fényben látogassa; az erdőben korán sötétedik.",
+                "ro": "Vizitați pe lumină; în pădure se întunecă devreme.",
+                "en": "Visit during daylight; it gets dark early in the forest."
+              }
+            },
+            {
+              "name": "Lunch and back to the center",
+              "tip_5lang": {
+                "de": "Bestellen Sie ein Heißgetränk zur Rehydrierung.",
+                "hu": "Rendeljen forró italt a hidratáláshoz.",
+                "ro": "Comandați o băutură caldă pentru rehidratare.",
+                "en": "Order a hot drink to stay hydrated and warm."
+              }
+            },
+            {
+              "name": "Tower 9 - City Museum",
+              "tip_5lang": {
+                "de": "Endstation im Warmen; Fahrradständer vor dem Haus.",
+                "hu": "Végállomás a melegben; biciklitároló a ház előtt.",
+                "ro": "Ultima oprire la căldură; rastel de biciclete în față.",
+                "en": "Final stop in the warmth; bike racks in front of the building."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Handschuhe und winddichte Socken.",
+              "Vermeiden Sie steile Waldwege bei Glatteisgefahr.",
+              "Der Akku von E-Bikes entlädt sich bei Kälte schneller.",
+              "Planen Sie die Rückkehr vor Sonnenuntergang (ca. 16:30 Uhr) ein."
+            ],
+            "hu": [
+              "Viseljen termokesztyűt és szélálló zoknit.",
+              "Kerülje a meredek erdei utakat jegesedés esetén.",
+              "Az e-bike akkumulátora hidegben gyorsabban merül.",
+              "Tervezze a visszaérkezést naplemente előtt (kb. 16:30)."
+            ],
+            "ro": [
+              "Purtați mănuși termice și șosete rezistente la vânt.",
+              "Evitați potecile abrupte din pădure dacă există risc de polei.",
+              "Bateria bicicletelor electrice se descarcă mai repede la frig.",
+              "Planificați întoarcerea înainte de apus (aprox. 16:30)."
+            ],
+            "en": [
+              "Wear thermal gloves and windproof socks.",
+              "Avoid steep forest paths if there is a risk of black ice.",
+              "E-bike batteries discharge faster in cold weather.",
+              "Plan to return before sunset (around 4:30 PM)."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1109,6 +1491,206 @@
           "A GPS is essential for finding the different locations.",
           "Be aware of parking fees in the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Komfort des Autos und parken Sie direkt im Zentrum. Nach einem kurzen Sprint zur Michaelskirche bietet das Stadtmuseum Turm 9 ein stundenlanges, trockenes Erlebnis. Die Fahrt zum Schloss Rufling und zur Apolloniakirche bleibt entspannt, egal wie stark es regnet. Genießen Sie ein ausgiebiges Mittagessen und beobachten Sie den Regen im Kürnbergwald gemütlich vom Auto oder vom Waldrand aus.",
+            "hu": "Használja ki az autó kényelmét, és parkoljon közvetlenül a központban. Egy rövid sprint után a templomig, a 9-es torony múzeuma többórás, száraz élményt nyújt. A Rufling-kastélyhoz és az Apollónia-templomhoz vezető út kényelmes marad, bármennyire is esik. Élvezze a hosszú ebédet, majd csodálja meg a Kürnberg-erdő esős táját az autóból vagy az erdőszélről.",
+            "ro": "Profită de confortul mașinii și parchează direct în centru. După un scurt sprint până la biserică, Muzeul Turnul 9 oferă o experiență uscată de câteva ore. Drumul către Castelul Rufling și biserica Apollonia rămâne relaxat, indiferent cât de tare plouă. Savurați un prânz prelungit și observați ploaia în pădurea Kürnberg confortabil din mașină sau de la marginea pădurii.",
+            "en": "Enjoy the comfort of your car and park directly in the center. After a quick dash to the church, Tower 9 City Museum offers hours of dry exploration. The drive to Rufling Castle and Apollonia Church stays relaxed, no matter how hard it rains. Enjoy a long lunch and watch the rain in Kürnberg Forest comfortably from your car or the forest edge."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Parking in the Center",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze minimieren die Gehzeit im Regen.",
+                "hu": "A központi parkolók minimálisra csökkentik az esőben gyaloglást.",
+                "ro": "Parcările centrale minimizează timpul de mers prin ploaie.",
+                "en": "Central parking spots minimize walking time in the rain."
+              }
+            },
+            {
+              "name": "Town Hall & Parish Church of St. Michael",
+              "tip_5lang": {
+                "de": "Halten Sie den Schirm für den kurzen Weg bereit.",
+                "hu": "Készítse elő az esernyőt a rövid sétához.",
+                "ro": "Aveți umbrela pregătită pentru drumul scurt.",
+                "en": "Keep your umbrella ready for the short walk."
+              }
+            },
+            {
+              "name": "Tower 9 - City Museum",
+              "tip_5lang": {
+                "de": "Parken ist oft direkt in der Nähe möglich.",
+                "hu": "Parkolás gyakran közvetlenül a közelben lehetséges.",
+                "ro": "Parcarea este adesea posibilă direct în apropiere.",
+                "en": "Parking is often available directly nearby."
+              }
+            },
+            {
+              "name": "Cluster B: Rufling Castle & Apollonia Church",
+              "tip_5lang": {
+                "de": "Trockener Transfer zwischen den historischen Orten.",
+                "hu": "Száraz átjutás a történelmi helyszínek között.",
+                "ro": "Transfer uscat între locurile istorice.",
+                "en": "Dry transfer between historical sites."
+              }
+            },
+            {
+              "name": "Lunch nearby",
+              "tip_5lang": {
+                "de": "Parken Sie direkt vor dem Restaurant.",
+                "hu": "Parkoljon közvetlenül az étterem előtt.",
+                "ro": "Parcați chiar în fața restaurantului.",
+                "en": "Park directly in front of the restaurant."
+              }
+            },
+            {
+              "name": "Cluster C: Kürnberg Forest & Castle Ruins",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Wald vom Parkplatz aus.",
+                "hu": "Élvezze az erdő látványát a parkolóból.",
+                "ro": "Bucurați-vă de vederea pădurii din parcare.",
+                "en": "Enjoy the forest view from the parking area."
+              }
+            },
+            {
+              "name": "View from Kürnberg Castle Ruins",
+              "tip_5lang": {
+                "de": "Der Dunst über den Ruinen wirkt bei Regen mystisch.",
+                "hu": "A romok feletti pára esőben misztikus hatást kelt.",
+                "ro": "Păura de deasupra ruinelor pare mistică în ploaie.",
+                "en": "The mist over the ruins looks mystical in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Deponieren Sie nasse Schirme im Kofferraum.",
+              "Nutzen Sie die Parkmöglichkeiten direkt am Turm 9.",
+              "Bei starkem Regen ist die Sicht auf den Kürnberg-Straßen eingeschränkt.",
+              "Einige Parkplätze im Zentrum sind zeitlich begrenzt (Parkuhr)."
+            ],
+            "hu": [
+              "A vizes esernyőket a csomagtartóban tárolja.",
+              "Használja ki a közvetlen parkolási lehetőséget a 9-es toronynál.",
+              "Heves esőben a kilátás korlátozott lehet a Kürnberg útjain.",
+              "Néhány központi parkoló időkorlátos (parkolótárcsa)."
+            ],
+            "ro": [
+              "Depozitați umbrelele ude în portbagaj.",
+              "Folosiți opțiunile de parcare direct la Turnul 9.",
+              "În caz de ploaie torențială, vizibilitatea pe drumurile Kürnberg este redusă.",
+              "Unele parcări din centru au limită de timp (necesită disc orar)."
+            ],
+            "en": [
+              "Store wet umbrellas in the trunk to keep the interior dry.",
+              "Take advantage of parking directly at Tower 9.",
+              "In heavy rain, visibility on Kürnberg roads may be limited.",
+              "Some central parking spots are time-limited (parking disc required)."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Wintertag bequem und parken Sie nahe dem Stadtplatz. Nach einem Besuch der Michaelskirche bietet der Turm 9 eine wohlig warme Flucht in die Geschichte. Die Fahrt nach Rufling führt durch eine malerische Schneelandschaft. Nach einem herzhaften Mittagessen erkunden Sie den Kürnbergwald und die Ruinen, bevor Sie zum Sonnenuntergang den perfekten Aussichtspunkt ansteuern.",
+            "hu": "Kezdje kényelmesen a téli napot, és parkoljon a főtér közelében. A templomlátogatás után a 9-es torony kellemesen meleg menedéket nyújt a történelemben. A Ruflingba vezető út festői havas tájon át vezet. Egy kiadós ebéd után fedezze fel a Kürnberg-erdőt és a romokat, majd naplementére hajtson a tökéletes kilátóponthoz.",
+            "ro": "Începeți ziua de iarnă confortabil, parcând aproape de piața centrală. După o vizită la biserică, Turnul 9 oferă o evadare caldă în istorie. Drumul spre Rufling trece printr-un peisaj de iarnă pitoresc. După un prânz copios, explorați pădurea Kürnberg și ruinele, înainte de a merge la punctul de belvedere pentru apus.",
+            "en": "Start your winter day comfortably by parking near the town square. After visiting the church, Tower 9 provides a warm escape into history. The drive to Rufling takes you through a picturesque snowy landscape. After a hearty lunch, explore Kürnberg Forest and the ruins before heading to the perfect viewpoint for sunset."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Parking in the Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneeräumfahrzeuge im Zentrum.",
+                "hu": "Ügyeljen a hókotrókra a központban.",
+                "ro": "Atenție la utilajele de deszăpezire din centru.",
+                "en": "Watch out for snow removal vehicles in the center."
+              }
+            },
+            {
+              "name": "Town Hall & Parish Church of St. Michael",
+              "tip_5lang": {
+                "de": "Kurze Wege verhindern das Auskühlen.",
+                "hu": "A rövid távok megakadályozzák a lehűlést.",
+                "ro": "Distanțele scurte previn răcirea corpului.",
+                "en": "Short walking distances prevent getting too cold."
+              }
+            },
+            {
+              "name": "Tower 9 - City Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren der Festung.",
+                "hu": "Élvezze a meleget az erőd falain belül.",
+                "ro": "Bucurați-vă de căldură în interiorul cetății.",
+                "en": "Enjoy the warmth inside the fortress walls."
+              }
+            },
+            {
+              "name": "Cluster B: Rufling Castle & Apollonia Church",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Straßenverhältnisse am Kürnberg.",
+                "hu": "Ellenőrizze az útviszonyokat a Kürnberg környékén.",
+                "ro": "Verificați starea drumurilor pe dealul Kürnberg.",
+                "en": "Check road conditions around Kürnberg hill."
+              }
+            },
+            {
+              "name": "Lunch nearby",
+              "tip_5lang": {
+                "de": "Spezialitäten der Saison probieren (Wild, Kürbis).",
+                "hu": "Kóstolja meg a szezonális specialitásokat (vad, tök).",
+                "ro": "Încercați specialitățile de sezon (vânat, dovleac).",
+                "en": "Try seasonal specialties like game or pumpkin dishes."
+              }
+            },
+            {
+              "name": "Cluster C: Kürnberg Forest & Castle Ruins",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk für den Weg vom Parkplatz zur Ruine.",
+                "hu": "Zárt túrabakancs a parkoló és a rom közötti útra.",
+                "ro": "Încălțăminte solidă pentru drumul de la parcare la ruine.",
+                "en": "Sturdy footwear for the path from the parking lot to the ruins."
+              }
+            },
+            {
+              "name": "View from Kürnberg Castle Ruins",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter oft klarer.",
+                "hu": "A naplemente télen gyakran tisztább látványt nyújt.",
+                "ro": "Apusul este adesea mai clar în timpul iernii.",
+                "en": "The sunset is often clearer during the winter months."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Frostschutzmittel sind obligatorisch.",
+              "Lassen Sie den Motor bei kurzen Stopps nicht unnötig laufen.",
+              "Die Parkflächen können bei Neuschnee schwer erkennbar sein.",
+              "Fahren Sie vorsichtig auf den kurvigen Bergstraßen."
+            ],
+            "hu": [
+              "A téli gumi és a fagyálló kötelező.",
+              "Rövid megállóknál ne járassa feleslegesen a motort.",
+              "Friss hóban a parkolóhelyek nehezen láthatóak lehetnek.",
+              "Vezessen óvatosan a kanyargós hegyi utakon."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și antigelul sunt obligatorii.",
+              "Nu lăsați motorul pornit inutil în timpul opririlor scurte.",
+              "Locurile de parcare pot fi greu de identificat în zăpadă proaspătă.",
+              "Conduceți cu prudență pe drumurile montane sinuoase."
+            ],
+            "en": [
+              "Winter tires and antifreeze are mandatory in Austria.",
+              "Do not leave the engine running unnecessarily during short stops.",
+              "Parking lines may be hard to see with fresh snow.",
+              "Drive carefully on the winding mountain roads."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1465,6 +2047,188 @@
           "Download the local transport authority's schedule app.",
           "Have small change ready for tickets if you need to buy them from the driver."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Kommen Sie entspannt am Stadtplatz an und nutzen Sie die Wartehäuschen als Schutz. Nach einem Besuch der Michaelskirche verbringen Sie den verregneten Vormittag im Stadtmuseum Turm 9. Ein gemütliches Mittagessen im Zentrum überbrückt den nächsten Schauer. Mit dem Bus geht es zum Kürnbergwald, wo Sie die mystische Atmosphäre der Ruinen im Nebel erleben, bevor Sie trocken die Heimreise antreten.",
+            "hu": "Érkezzen kényelmesen a főtérre, és használja a várókat menedékként. A templomlátogatás után töltse az esős délelőttöt a 9-es torony múzeumban. Egy kellemes ebéd a központban segít átvészelni a következő záport. Busszal utazzon a Kürnberg-erdőhöz, ahol megtapasztalhatja a ködös romok misztikus hangulatát, majd szárazon indulhat haza.",
+            "ro": "Sosiți relaxat în piața centrală și folosiți refugiile din stații ca adăpost. După vizitarea bisericii, petreceți dimineața ploioasă la Muzeul Turnul 9. Un prânz plăcut în centru vă ajută să treceți de următoarea aversă. Luați autobuzul spre pădurea Kürnberg, unde veți experimenta atmosfera mistică a ruinelor în ceață, înainte de a pleca spre casă.",
+            "en": "Arrive relaxed at the main square and use the bus shelters for cover. After visiting the church, spend the rainy morning at Tower 9 City Museum. A cozy lunch in the center bridges the next shower. Take the bus to Kürnberg Forest, where you can experience the mystical atmosphere of the ruins in the mist before heading home dry."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Leonding Main Square",
+              "tip_5lang": {
+                "de": "Wartehäuschen bieten Schutz vor Wind und Regen.",
+                "hu": "A buszvárók védelmet nyújtanak a szél és az eső ellen.",
+                "ro": "Refugiile din stații oferă protecție împotriva vântului și ploii.",
+                "en": "Bus shelters provide protection from wind and rain."
+              }
+            },
+            {
+              "name": "Cluster A: Town Hall & Parish Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle.",
+                "hu": "Rövid séta a buszmegállótól.",
+                "ro": "Scurtă plimbare de la stația de autobuz.",
+                "en": "Very short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Tower 9 - City Museum",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist fast direkt vor dem Museum.",
+                "hu": "A megálló szinte közvetlenül a múzeum előtt van.",
+                "ro": "Stația este aproape direct în fața muzeului.",
+                "en": "The stop is almost directly in front of the museum."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Viele Lokale liegen nah an den Buslinien.",
+                "hu": "Sok étterem közel fekszik a buszvonalakhoz.",
+                "ro": "Multe restaurante sunt aproape de liniile de autobuz.",
+                "en": "Many restaurants are located close to bus lines."
+              }
+            },
+            {
+              "name": "Cluster B: Kürnberg Forest",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten bei Regen genau.",
+                "hu": "Esőben ellenőrizze pontosan a visszaindulási időket.",
+                "ro": "Verificați cu atenție orele de întoarcere când plouă.",
+                "en": "Check return times carefully during rainy weather."
+              }
+            },
+            {
+              "name": "Walk to Kürnberg Castle Ruins",
+              "tip_5lang": {
+                "de": "Der Weg kann rutschig sein; Schirm fest halten.",
+                "hu": "Az út csúszós lehet; tartsa erősen az esernyőt.",
+                "ro": "Drumul poate fi alunecos; țineți bine umbrela.",
+                "en": "The path can be slippery; hold your umbrella firmly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die OÖVV-App für Echtzeit-Infos bei Verzögerungen.",
+              "Die Busse in Leonding sind sauber und trocken.",
+              "Planen Sie Umstiege so, dass Sie nicht lange im Freien warten.",
+              "Ein Tagesticket ist bei Regen oft die bequemste Wahl."
+            ],
+            "hu": [
+              "Használja az OÖVV alkalmazást a valós idejű menetrendhez.",
+              "Leonding buszai tiszták és szárazak.",
+              "Úgy tervezze az átszállást, hogy ne kelljen sokat kint várnia.",
+              "Esőben a napijegy gyakran a legkényelmesebb választás."
+            ],
+            "ro": [
+              "Folosiți aplicația OÖVV pentru informații în timp real.",
+              "Autobuzele din Leonding sunt curate și uscate.",
+              "Planificați conexiunile pentru a nu aștepta mult în aer liber.",
+              "Un bilet de o zi este adesea cea mai confortabilă alegere."
+            ],
+            "en": [
+              "Use the OÖVV app for real-time info in case of delays.",
+              "Leonding buses are clean, dry, and reliable.",
+              "Plan transfers to minimize waiting time outdoors.",
+              "A day ticket is often the most convenient choice in rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie gewärmt im Bus und steigen Sie direkt am Stadtplatz aus. Nach einem kurzen Besuch der Kirche bietet das Museum Turm 9 eine perfekte Flucht vor der Kälte. Ein kräftiges Mittagessen wärmt Sie auf, bevor Sie mit dem Bus zum winterlichen Kürnbergwald fahren. Erleben Sie die Stille der verschneiten Ruinen und kehren Sie rechtzeitig zum Sonnenuntergang mit dem Bus ins Zentrum zurück.",
+            "hu": "Induljon a fűtött buszon, és szálljon le közvetlenül a főtéren. A rövid templomlátogatás után a 9-es torony múzeuma tökéletes menedéket nyújt a hideg elől. Egy tartalmas ebéd felmelegíti, mielőtt busszal a téli Kürnberg-erdőbe utazna. Élvezze a havas romok csendjét, majd érjen vissza időben, naplementére a központba.",
+            "ro": "Porniți cu autobuzul încălzit și coborâți direct în piața centrală. După o scurtă vizită la biserică, Muzeul Turnul 9 oferă o evadare perfectă din frig. Un prânz consistent vă va încălzi înainte de a lua autobuzul spre pădurea Kürnberg. Experimentați liniștea ruinelor înzăpezite și întoarceți-vă la timp pentru apus în centru.",
+            "en": "Start in a warm bus and hop off directly at the town square. After a quick church visit, Tower 9 provides a perfect escape from the cold. A hearty lunch warms you up before taking the bus to the wintery Kürnberg Forest. Experience the silence of the snow-covered ruins and return to the center by bus just in time for sunset."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Leonding Main Square",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter angenehm beheizt.",
+                "hu": "A buszok télen kellemesen fűtöttek.",
+                "ro": "Autobuzele sunt încălzite confortabil iarna.",
+                "en": "Buses are pleasantly heated during the winter."
+              }
+            },
+            {
+              "name": "Cluster A: Town Hall & Parish Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Wege zwischen den Gebäuden.",
+                "hu": "Használja ki az épületek közötti rövid távolságokat.",
+                "ro": "Profitați de distanțele scurte dintre clădiri.",
+                "en": "Take advantage of the short distances between buildings."
+              }
+            },
+            {
+              "name": "Tower 9 - City Museum",
+              "tip_5lang": {
+                "de": "Ein langer Aufenthalt im Warmen ist hier möglich.",
+                "hu": "Itt lehetőség van hosszabb ideig a melegben maradni.",
+                "ro": "Aici este posibil un sejur lung la căldură.",
+                "en": "A long stay in a warm environment is possible here."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal nah an der Bushaltestelle.",
+                "hu": "Válasszon buszmegállóhoz közeli éttermet.",
+                "ro": "Alegeți un local aproape de stația de autobuz.",
+                "en": "Choose a restaurant close to a bus stop."
+              }
+            },
+            {
+              "name": "Cluster B: Kürnberg Forest",
+              "tip_5lang": {
+                "de": "Im Winter können Fahrpläne witterungsbedingt abweichen.",
+                "hu": "Télen a menetrend az időjárás miatt eltérhet.",
+                "ro": "Iarna, orarele pot varia din cauza condițiilor meteo.",
+                "en": "In winter, schedules may vary due to weather conditions."
+              }
+            },
+            {
+              "name": "Walk to Kürnberg Castle Ruins",
+              "tip_5lang": {
+                "de": "Achten Sie auf den letzten Bus vor der Dunkelheit.",
+                "hu": "Ügyeljen az utolsó buszra sötétedés előtt.",
+                "ro": "Atenție la ultimul autobuz înainte de lăsarea întunericului.",
+                "en": "Pay attention to the last bus before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haltestellen mit Glaswänden bieten besseren Windschutz.",
+              "Tragen Sie Schuhe mit gutem Profil für die Wege zum Bus.",
+              "Die OÖVV-App zeigt Verspätungen durch Schnee an.",
+              "Warten Sie im Warmen (Café), bis der Bus laut App kommt."
+            ],
+            "hu": [
+              "Az üvegfalú megállók jobb szélvédelmet nyújtanak.",
+              "Viseljen jó tapadású cipőt a buszhoz vezető úton.",
+              "Az OÖVV app jelzi a hó miatti késéseket.",
+              "Várjon a melegben (kávézó), amíg jön a busz az app szerint."
+            ],
+            "ro": [
+              "Stațiile cu pereți de sticlă oferă protecție mai bună contra vântului.",
+              "Purtați încălțăminte cu profil bun pentru drumul spre stație.",
+              "Aplicația OÖVV afișează întârzierile cauzate de zăpadă.",
+              "Așteptați la căldură (cafenea) până când vine autobuzul."
+            ],
+            "en": [
+              "Glass-walled bus stops offer better wind protection.",
+              "Wear shoes with good grip for the walk to the bus stop.",
+              "The OÖVV app displays delays caused by snow.",
+              "Wait in a warm place (cafe) until the bus is close, according to the app."
+            ]
+          }
+        }
       }
     }
   }

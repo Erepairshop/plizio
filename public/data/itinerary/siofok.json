@@ -379,6 +379,206 @@
           "Most central spots are easily reachable on foot.",
           "Book restaurants in advance, especially in summer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Spaziergang am Fő tér, wo Sie sich in den Arkaden unterstellen können. Vormittags bieten die Kirche und das Kálmán Imre Museum trockene Zufluchtsorte. Mittags ist der Jókai Park auch mit Regenschirm romantisch, während am Platán Strand der Wind peitschen kann. Der späte Nachmittag auf der Villa sor lässt sich gut mit einer warmen Halászlé in der Csárda abschließen.",
+            "hu": "Esős sétánkat a Fő tér árkádjai alatt kezdjük, mielőtt a templom és a Kálmán Imre Múzeum fedett termeit fedeznénk fel. Délben a Jókai Park fái alatt esernyővel sétálhatunk, bár a Platán Strandnál erős szélre számítsunk. A délutáni Villa sor nézegetése után a napot a Halászcsárda meleg, fűszeres halászlevével zárjuk, miközben kint veri az eső az ablakot.",
+            "ro": "Începeți plimbarea ploioasă în Fő tér, unde vă puteți adăposti sub arcade. Dimineața, biserica și Muzeul Kálmán Imre oferă refugiu uscat. La prânz, Parcul Jókai este romantic sub umbrelă, în timp ce la Platán Strand vântul poate fi puternic. După-amiaza, pe Villa sor, încheiați ziua cu o ciorbă de pește caldă la Halászcsárda.",
+            "en": "Start your rainy walk at Fő tér, taking shelter under the arcades. Spend the morning in the dry comfort of the church and Kálmán Imre Museum. By noon, Jókai Park remains charming with an umbrella, though Platán Strand might be blustery. After an afternoon stroll along Villa sor, warm up with a hearty fisherman's soup at Halászcsárda."
+          },
+          "stops": [
+            {
+              "name": "Siófok Fő tér / Széchenyi tér",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Vordächer der Geschäfte bei plötzlichen Schauern.",
+                "hu": "Húzódjon be az üzletek előtetői alá egy hirtelen zápor esetén.",
+                "ro": "Folosiți copertinele magazinelor în caz de ploaie bruscă.",
+                "en": "Use the shop awnings for shelter during sudden downpours."
+              }
+            },
+            {
+              "name": "Siófoki Evangélikus Templom",
+              "tip_5lang": {
+                "de": "Trocknen Sie sich im ruhigen Innenraum etwas ab.",
+                "hu": "A templom csendes belső terében kicsit megszáradhat.",
+                "ro": "Uscați-vă puțin în interiorul liniștit al bisericii.",
+                "en": "Dry off a bit in the quiet interior of the church."
+              }
+            },
+            {
+              "name": "Kálmán Imre Múzeum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, um dem Regen zu entgehen.",
+                "hu": "Töltsön itt több időt, amíg odakint eláll az eső.",
+                "ro": "Petreceți mai mult timp aici pentru a scăpa de ploaie.",
+                "en": "Spend extra time here to wait out the heavy rain."
+              }
+            },
+            {
+              "name": "Jókai Park",
+              "tip_5lang": {
+                "de": "Vorsicht, die nassen Wege können rutschig sein.",
+                "hu": "Vigyázat, a nedves sétautak csúszósak lehetnek.",
+                "ro": "Atenție, aleile umede pot fi alunecoase.",
+                "en": "Careful, the wet paths can get quite slippery."
+              }
+            },
+            {
+              "name": "Platán Strand",
+              "tip_5lang": {
+                "de": "Am Ufer ist es oft sehr windig, Regenschirm gut festhalten.",
+                "hu": "A parton erős a szél, fogja erősen az esernyőt.",
+                "ro": "Pe mal este des vânt puternic, țineți bine umbrela.",
+                "en": "It's often windy on the shore; hold your umbrella tightly."
+              }
+            },
+            {
+              "name": "Villa sor (sétány)",
+              "tip_5lang": {
+                "de": "Die Bäume bieten etwas Schutz vor Nieselregen.",
+                "hu": "A fák lombkoronája némi védelmet nyújt a szitáló eső ellen.",
+                "ro": "Copacii oferă o oarecare protecție împotriva burniței.",
+                "en": "The trees provide some cover from light drizzle."
+              }
+            },
+            {
+              "name": "Halászcsárda Étterem",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich bei einer heißen Suppe aufzuwärmen.",
+                "hu": "Tökéletes menedék egy forró halászlé mellett.",
+                "ro": "Locul perfect pentru a vă încălzi cu o supă fierbinte.",
+                "en": "The perfect place to warm up with a hot soup."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich in Siófok schnell Pfützen bilden.",
+              "Ein windfester Regenschirm ist am Seeufer unerlässlich.",
+              "Verweilen Sie länger in Museen oder Cafés, wenn der Regen zunimmt.",
+              "Die Gehwege im Jókai Park können bei Nässe matschig sein."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a siófoki utcákon hamar kialakulnak a tócsák.",
+              "A tóparton a szél miatt az erős, szélálló esernyő kötelező.",
+              "Húzza el az időt a Kálmán Imre Múzeumban, ha rákezdenek a záporok.",
+              "A Jókai Park sétaútjai sarassá válhatnak, figyeljen a lépéseire."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pe străzile din Siófok apar repede bălți.",
+              "Pe malul lacului, o umbrelă rezistentă la vânt este esențială.",
+              "Zăboviți mai mult în muzee sau cafenele dacă ploaia se întețește.",
+              "Aleile din Parcul Jókai pot deveni noroioase pe ploaie."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles form quickly on Siófok streets.",
+              "A windproof umbrella is essential by the lakeshore.",
+              "Linger in museums or cafes if the rain becomes too heavy.",
+              "The paths in Jókai Park can get muddy, so watch your step."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der winterliche Morgenspaziergang am Fő tér ist erfrischend und ruhig. Die Kirche und das Kálmán Imre Museum bieten eine willkommene Aufwärmpause. Mittags zeigt sich der Balaton am Platán Strand von seiner rauen, oft eisigen Seite. Der Spaziergang entlang der Villa sor in der frühen Dämmerung ist stimmungsvoll, bevor es in die gut geheizte Halászcsárda geht.",
+            "hu": "A téli reggeli séta a Fő téren frissítő és csendes, a nyári tömegnek nyoma sincs. A templom és a Kálmán Imre Múzeum fűtött tereiben jólesik megmelegedni. Délben a Platán Strandnál a Balaton zord, olykor jeges arcát mutatja, csípős széllel. A Villa sor kora esti kivilágítása hangulatos, mielőtt beülnénk a meleg Halászcsárdába.",
+            "ro": "Plimbarea de iarnă în Fő tér este revigorantă și liniștită. Biserica și Muzeul Kálmán Imre oferă o pauză caldă binevenită. La prânz, Balatonul la Platán Strand își arată latura aspră, adesea înghețată. Plimbarea pe Villa sor la amurg este atmosferică, înainte de a intra în Halászcsárda bine încălzită.",
+            "en": "A winter morning stroll at Fő tér is brisk and incredibly peaceful. The church and Kálmán Imre Museum provide a welcome chance to warm up indoors. By noon, the Balaton at Platán Strand shows its stark, often icy beauty. Walking along Villa sor at early dusk feels magical before retreating to the cozy Halászcsárda."
+          },
+          "stops": [
+            {
+              "name": "Siófok Fő tér / Széchenyi tér",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne die sommerlichen Menschenmassen.",
+                "hu": "Élvezze a teret a nyári turistaáradat nélkül.",
+                "ro": "Bucurați-vă de liniște fără aglomerația de vară.",
+                "en": "Enjoy the peacefulness without the summer crowds."
+              }
+            },
+            {
+              "name": "Siófoki Evangélikus Templom",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um sich kurz die Hände aufzuwärmen.",
+                "hu": "Csendes hely, ahol egy kicsit felmelegítheti a kezeit.",
+                "ro": "Un loc liniștit pentru a vă încălzi puțin mâinile.",
+                "en": "A quiet place to briefly warm your hands."
+              }
+            },
+            {
+              "name": "Kálmán Imre Múzeum",
+              "tip_5lang": {
+                "de": "Die Garderobe ist perfekt, um dicke Mäntel abzulegen.",
+                "hu": "A ruhatárban kényelmesen leteheti a vastag télikabátot.",
+                "ro": "Garderoba este perfectă pentru a lăsa paltoanele groase.",
+                "en": "Use the cloakroom to drop off your heavy winter coat."
+              }
+            },
+            {
+              "name": "Jókai Park",
+              "tip_5lang": {
+                "de": "Bei Raureif oder Schnee wirkt der Park besonders malerisch.",
+                "hu": "Dérrel vagy hóval borítva a park különösen festői.",
+                "ro": "Cu brumă sau zăpadă, parcul arată deosebit de pitoresc.",
+                "en": "The park looks especially picturesque covered in frost or snow."
+              }
+            },
+            {
+              "name": "Platán Strand",
+              "tip_5lang": {
+                "de": "Der eisige Wind vom See verlangt nach Schal und Mütze.",
+                "hu": "A tóról fújó jeges szél miatt a sál és sapka kötelező.",
+                "ro": "Vântul înghețat de pe lac necesită fular și căciulă.",
+                "en": "The icy wind off the lake demands a scarf and a hat."
+              }
+            },
+            {
+              "name": "Villa sor (sétány)",
+              "tip_5lang": {
+                "de": "Im Winter wird es hier schon gegen 16:00 Uhr dunkel.",
+                "hu": "Télen itt már 16:00 óra körül sötétedik.",
+                "ro": "Iarna, aici se întunecă deja în jurul orei 16:00.",
+                "en": "In winter, it gets dark here around 4:00 PM."
+              }
+            },
+            {
+              "name": "Halászcsárda Étterem",
+              "tip_5lang": {
+                "de": "Ein dampfender Teller Halászlé weckt die Lebensgeister.",
+                "hu": "Egy gőzölgő tányér halászlé azonnal felmelegít.",
+                "ro": "Un bol aburind de ciorbă de pește vă trezește simțurile.",
+                "en": "A steaming bowl of fisherman's soup will quickly warm you up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ziehen Sie sich warm an (Zwiebelprinzip), besonders für den Strandabschnitt.",
+              "Beachten Sie, dass die Sonne im Winter früh untergeht (ca. 16:00 Uhr).",
+              "Viele Cafés haben Winterpause, verlassen Sie sich auf die bekannten Restaurants.",
+              "Vorsicht vor vereisten Stellen auf den Gehwegen in der Nähe des Sees."
+            ],
+            "hu": [
+              "Öltözzön melegen, rétegesen, mert a parti szél nagyon csípős lehet.",
+              "Készüljön fel a korai, 16:00 óra körüli naplementére.",
+              "Télen sok hely zárva tart, a Halászcsárda viszont megbízható pont.",
+              "A Balaton-közeli sétányokon figyeljen a felfagyott, csúszós tócsákra."
+            ],
+            "ro": [
+              "Îmbrăcați-vă gros (în straturi), mai ales pentru secțiunea de plajă.",
+              "Rețineți că soarele apune devreme iarna (în jur de 16:00).",
+              "Multe cafenele sunt închise iarna, bazați-vă pe restaurantele cunoscute.",
+              "Atenție la porțiunile înghețate de pe aleile din apropierea lacului."
+            ],
+            "en": [
+              "Dress warmly in layers, especially for the lakeside portion of the walk.",
+              "Keep in mind that the sun sets early in winter (around 4:00 PM).",
+              "Many smaller cafes close for the winter; stick to established restaurants.",
+              "Watch out for icy patches on the walkways close to the lake."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -775,6 +975,206 @@
           "The Balaton Bike Ring is mostly flat, but be prepared for wind.",
           "Many beach bars offer bike racks."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ihre Radtour startet am Fő tér mit Regenkleidung. Nach Kulturstopps in der Kirche und im Museum radeln Sie vorsichtig durch den Jókai Park. Am Platán Strand weht Ihnen eine steife, feuchte Brise entgegen, fahren Sie langsam. Die letzte Etappe entlang der Villa sor führt Sie direkt zur rettenden, warmen Csárda.",
+            "hu": "Kerékpártúránk a Fő téren indul, esőruhában. A templom és a múzeum fedett nyugalma után óvatosan tekerünk át a Jókai Parkon. A Platán Strandnál a nedves tavi szél erősen arcba vág, érdemes lassítani. A Villa sor aszfaltján csúszkálva hamar elérjük a jól megérdemelt, meleg vacsorát a csárdában.",
+            "ro": "Turul cu bicicleta începe în Fő tér, cu pelerine de ploaie. După pauze culturale, pedalați cu grijă prin Parcul Jókai. La Platán Strand vă lovește o briză umedă și rece, mergeți încet. Ultima etapă de-a lungul Villa sor vă duce direct la Csárda caldă și primitoare.",
+            "en": "Your bike tour starts at Fő tér in full rain gear. After indoor stops at the church and museum, pedal carefully through Jókai Park. At Platán Strand, you'll face a stiff, wet breeze, so keep your speed down. The final ride along Villa sor leads straight to a warm, welcoming meal at the Csárda."
+          },
+          "stops": [
+            {
+              "name": "Siófok Fő tér / Széchenyi tér",
+              "tip_5lang": {
+                "de": "Überprüfen Sie hier Ihre Bremsen bei Nässe.",
+                "hu": "Nedves időben itt tesztelje le a fékeket indulás előtt.",
+                "ro": "Verificați frânele pe carosabil umed aici.",
+                "en": "Test your brakes in the wet conditions before setting off."
+              }
+            },
+            {
+              "name": "Siófoki Evangélikus Templom",
+              "tip_5lang": {
+                "de": "Suchen Sie einen trockenen Unterstand für das Fahrrad.",
+                "hu": "Keressen egy védett helyet a kerékpár lezárásához.",
+                "ro": "Găsiți un loc uscat pentru a parca bicicleta.",
+                "en": "Find a sheltered spot to lock up your bike."
+              }
+            },
+            {
+              "name": "Kálmán Imre Múzeum",
+              "tip_5lang": {
+                "de": "Nehmen Sie abnehmbare Fahrradlichter mit nach drinnen.",
+                "hu": "A levehető kerékpárlámpákat vigye magával be a múzeumba.",
+                "ro": "Luați cu dumneavoastră luminile de bicicletă detașabile.",
+                "en": "Take any detachable bike lights inside with you."
+              }
+            },
+            {
+              "name": "Jókai Park",
+              "tip_5lang": {
+                "de": "Nasses Laub auf den Wegen erhöht die Rutschgefahr.",
+                "hu": "A nedves avar az utakon nagyon csúszós lehet.",
+                "ro": "Frunzele ude de pe alei cresc riscul de alunecare.",
+                "en": "Wet leaves on the paths significantly increase slipping risk."
+              }
+            },
+            {
+              "name": "Platán Strand",
+              "tip_5lang": {
+                "de": "Seitenwind am See kann Sie leicht aus der Spur bringen.",
+                "hu": "A tóról érkező oldalszél könnyen kibillentheti az egyensúlyából.",
+                "ro": "Vântul lateral de pe lac vă poate dezechilibra ușor.",
+                "en": "Crosswinds from the lake can easily throw you off balance."
+              }
+            },
+            {
+              "name": "Villa sor (sétány)",
+              "tip_5lang": {
+                "de": "Vermeiden Sie abrupte Bremsungen auf dem nassen Pflaster.",
+                "hu": "Kerülje a hirtelen fékezést a nedves burkolaton.",
+                "ro": "Evitați frânările bruște pe pavajul ud.",
+                "en": "Avoid sudden braking on the wet pavement."
+              }
+            },
+            {
+              "name": "Halászcsárda Étterem",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher ab und wärmen Sie sich auf.",
+                "hu": "Zárja le biztonságosan a biciklit, és irány a melegítő halászlé.",
+                "ro": "Parcați bicicleta în siguranță și încălziți-vă înăuntru.",
+                "en": "Park your bike securely and head inside to warm up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein Regenponcho und wasserdichte Packtaschen sind bei diesem Wetter Pflicht.",
+              "Reduzieren Sie Ihre Geschwindigkeit, da die Bremswege bei Nässe länger sind.",
+              "Meiden Sie lackierte Straßenmarkierungen, diese sind bei Regen extrem rutschig.",
+              "Schalten Sie auch tagsüber Ihr Fahrradlicht ein, um besser gesehen zu werden."
+            ],
+            "hu": [
+              "Az esőponcsó és a vízálló kerékpáros táska elengedhetetlen a túrához.",
+              "Csökkentse a sebességet, mert nedves úton a fékút jelentősen megnő.",
+              "Kerülje a festett útburkolati jeleket, nedvesen olyanok, mint a jég.",
+              "Kapcsolja be a lámpákat nappal is a rossz látási viszonyok miatt."
+            ],
+            "ro": [
+              "Un poncho de ploaie și genți impermeabile sunt obligatorii pe această vreme.",
+              "Reduceți viteza, distanțele de frânare sunt mai lungi pe carosabil umed.",
+              "Evitați marcajele rutiere vopsite, sunt extrem de alunecoase pe ploaie.",
+              "Porniți luminile bicicletei și ziua pentru a fi mai vizibil."
+            ],
+            "en": [
+              "A rain poncho and waterproof panniers are mandatory in this weather.",
+              "Reduce your speed, as braking distances are much longer on wet roads.",
+              "Avoid painted road markings, which become extremely slippery when wet.",
+              "Turn on your bike lights even during the day for better visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Winterradtour erfordert warme Kleidung am Fő tér. Nach den kulturellen Zwischenstopps am Vormittag spüren Sie im Jókai Park die knackige Kälte. Am Platán Strand peitscht der eisige Wind vom Balaton, ein echtes Abenteuer! Auf der Villa sor fahren Sie in die frühe Abenddämmerung, bevor die heiße Suppe in der Csárda ruft.",
+            "hu": "A téli kerékpározás a Fő téren vastag kesztyűt követel. A délelőtti múzeumi megállók után a Jókai Parkban harap a hideg. A Platán Strandnál a Balaton jeges szele igazi kihívást jelent a nyeregben! A Villa sor kora esti fényeiben tekerünk el a csárdáig, ahol forró vacsora vár.",
+            "ro": "Turul de iarnă pe bicicletă necesită haine groase în Fő tér. După opririle culturale, simțiți frigul tăios în Parcul Jókai. La Platán Strand, vântul înghețat de pe Balaton este o adevărată aventură! Pe Villa sor pedalați în amurgul timpuriu, înainte să vă cheme supa fierbinte din Csárda.",
+            "en": "A winter bike ride requires thermal gear right from Fő tér. After morning museum stops, you'll feel the crisp cold in Jókai Park. At Platán Strand, the icy wind off Lake Balaton makes for an adventurous ride! Pedal along Villa sor into the early dusk before answering the call of hot soup at the Csárda."
+          },
+          "stops": [
+            {
+              "name": "Siófok Fő tér / Széchenyi tér",
+              "tip_5lang": {
+                "de": "Machen Sie sich vor der Abfahrt etwas warm.",
+                "hu": "Tekerjen pár kört bemelegítésként indulás előtt.",
+                "ro": "Încălziți-vă puțin înainte de plecare.",
+                "en": "Do a quick warm-up ride around the square before leaving."
+              }
+            },
+            {
+              "name": "Siófoki Evangélikus Templom",
+              "tip_5lang": {
+                "de": "Ihre Finger werden sich über die Pause im Warmen freuen.",
+                "hu": "Az ujjai hálásak lesznek egy kis fűtött benti szünetért.",
+                "ro": "Degetele vă vor fi recunoscătoare pentru o pauză la cald.",
+                "en": "Your fingers will appreciate the warm indoor break."
+              }
+            },
+            {
+              "name": "Kálmán Imre Múzeum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit, um Ihre Körpertemperatur wieder zu normalisieren.",
+                "hu": "Használja ki az időt a testhőmérséklete normalizálására.",
+                "ro": "Folosiți timpul pentru a vă normaliza temperatura corpului.",
+                "en": "Use this time to let your core body temperature recover."
+              }
+            },
+            {
+              "name": "Jókai Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrorener Nässe in schattigen Bereichen.",
+                "hu": "Árnyékos részeken figyeljen a jéggé fagyott pocsolyákra.",
+                "ro": "Atenție la porțiunile înghețate în zonele umbrite.",
+                "en": "Watch out for black ice in the shaded parts of the park."
+              }
+            },
+            {
+              "name": "Platán Strand",
+              "tip_5lang": {
+                "de": "Winddichte Kleidung ist hier am offenen Wasser entscheidend.",
+                "hu": "A nyílt víz mellett a szélálló ruházat életmentő.",
+                "ro": "Îmbrăcămintea rezistentă la vânt este crucială aici pe mal.",
+                "en": "Windproof layers are critical here by the open water."
+              }
+            },
+            {
+              "name": "Villa sor (sétány)",
+              "tip_5lang": {
+                "de": "Schalten Sie frühzeitig das Licht ein, die Dämmerung kommt schnell.",
+                "hu": "Kapcsolja be a lámpát időben, hamar sötétedik.",
+                "ro": "Aprindeți lumina devreme, se întunecă repede.",
+                "en": "Turn on your lights early as dusk falls very quickly."
+              }
+            },
+            {
+              "name": "Halászcsárda Étterem",
+              "tip_5lang": {
+                "de": "Nach dieser kalten Tour schmeckt das warme Essen doppelt so gut.",
+                "hu": "A fagyos tekerés után kétszer olyan jól esik a meleg étel.",
+                "ro": "După acest tur rece, mâncarea caldă este de două ori mai gustoasă.",
+                "en": "After a freezing ride, the hot food tastes twice as good."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Vorsicht vor Glatteis, besonders in den frühen Morgen- und späten Nachmittagsstunden.",
+              "Akkus von E-Bikes oder Lichtern entladen sich bei Kälte deutlich schneller.",
+              "Planen Sie wegen der frühen Dunkelheit Ihre Tour rechtzeitig zu beenden."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sisak alatti sapkát a hideg ellen.",
+              "Különösen reggel és késő délután figyeljen a rejtett jégfoltokra az úton.",
+              "Az e-bike akkuk és a lámpák hidegben sokkal gyorsabban merülnek le.",
+              "A korai sötétedés miatt (kb. 16:00) érjen időben a végállomásra."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Atenție la polei, mai ales dimineața devreme și după-amiaza târziu.",
+              "Bateriile de la e-bike-uri sau lumini se descarcă mult mai repede la frig.",
+              "Planificați să terminați turul devreme din cauza întunericului timpuriu."
+            ],
+            "en": [
+              "Wear windproof gloves and a thin hat or balaclava under your helmet.",
+              "Watch out for black ice, especially during early morning and late afternoon.",
+              "Remember that e-bike and light batteries drain significantly faster in the cold.",
+              "Plan to finish your ride early due to the early sunset (around 4:00 PM)."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1131,6 +1531,224 @@
           "Don't leave valuables in the car.",
           "A GPS app on your phone is useful for finding parking spots."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Siófok bei Regen sehr komfortabel. Sie parken im Zentrum für die trockenen Museumsbesuche. Mittags fahren Sie zum Strand-Cluster; vom Auto aus können Sie die wilden Wellen am Platán Strand beobachten, bevor Sie kurz zur Villa sor huschen. Den verregneten Tag runden Sie mit einer kurzen Fahrt nach Zamárdi für ein deftiges Essen ab.",
+            "hu": "Autóval az esős Siófok kifejezetten kényelmes. A belvárosban parkolva szárazon megússzuk a múzeumi viziteket. Délben átgurulunk a parti zónába; az autóból nézhetjük a Platán Strand viharos hullámait, majd egy rövid sétát teszünk a Villa soron. A napot egy rövid zamárdi autózás után meleg vacsorával zárjuk.",
+            "ro": "Cu mașina, Siófok pe ploaie este foarte confortabil. Parcați în centru pentru vizite uscate la muzee. La prânz, conduceți spre zona de plajă; din mașină puteți privi valurile sălbatice la Platán Strand, înainte de a fugi spre Villa sor. Încheiați ziua ploioasă cu un scurt drum spre Zamárdi pentru o masă copioasă.",
+            "en": "By car, exploring Siófok in the rain is quite comfortable. Park centrally for dry visits to the church and museum. At noon, drive to the beach cluster; you can watch the stormy waves at Platán Strand from the car before a quick dash to Villa sor. End the rainy day with a short drive to Zamárdi for a hearty meal."
+          },
+          "stops": [
+            {
+              "name": "Siófok Fő tér (Cluster A: belváros)",
+              "tip_5lang": {
+                "de": "Suchen Sie das Parkhaus am Wasserturm, um trocken auszusteigen.",
+                "hu": "Használja a Víztorony melletti parkolót, így száraz lábbal indulhat.",
+                "ro": "Folosiți parcarea de lângă Turnul de Apă pentru a coborî la uscat.",
+                "en": "Use the parking lot near the Water Tower to start your tour dry."
+              }
+            },
+            {
+              "name": "Siófoki Evangélikus Templom (Cluster A)",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Spaziergang vom Auto im Regen.",
+                "hu": "Csak egy rövid séta az autótól az esőben.",
+                "ro": "Doar o scurtă plimbare de la mașină în ploaie.",
+                "en": "Just a short dash from the car in the rain."
+              }
+            },
+            {
+              "name": "Kálmán Imre Múzeum (Cluster A)",
+              "tip_5lang": {
+                "de": "Verbringen Sie hier gemütlich Zeit, während es draußen schüttet.",
+                "hu": "Töltsön itt kényelmesen időt, amíg odakint szakad az eső.",
+                "ro": "Petreceți timpul confortabil aici în timp ce afară toarnă.",
+                "en": "Spend comfortable time here while it's pouring outside."
+              }
+            },
+            {
+              "name": "Fahrt in den zweiten Cluster – Balaton part",
+              "tip_5lang": {
+                "de": "Scheibenwischer prüfen, bei Starkregen langsam fahren.",
+                "hu": "Ellenőrizze az ablaktörlőket, felhőszakadásban vezessen lassan.",
+                "ro": "Verificați ștergătoarele, conduceți încet pe ploaie torențială.",
+                "en": "Check your wipers and drive slowly in heavy downpours."
+              }
+            },
+            {
+              "name": "Platán Strand (Cluster B)",
+              "tip_5lang": {
+                "de": "Die stürmische See lässt sich oft wunderbar vom Auto aus betrachten.",
+                "hu": "A viharos tó látványa a fűtött autóból is lenyűgöző.",
+                "ro": "Marea furtunoasă poate fi admirată minunat din mașină.",
+                "en": "The stormy lake can be a spectacular sight from the comfort of your car."
+              }
+            },
+            {
+              "name": "Villa sor (Cluster B)",
+              "tip_5lang": {
+                "de": "Parken Sie nah, um schnell unter die Bäume zu flüchten.",
+                "hu": "Parkoljon közel, hogy gyorsan a fák alá menekülhessen az eső elől.",
+                "ro": "Parcați aproape pentru a fugi repede sub copaci.",
+                "en": "Park close by so you can quickly seek shelter under the trees."
+              }
+            },
+            {
+              "name": "Fahrt in den dritten Cluster – Zamárdi",
+              "tip_5lang": {
+                "de": "Auf der Route 7 können sich große Wasserpfützen bilden.",
+                "hu": "A 7-es úton nagy vízátfolyások alakulhatnak ki, vezessen óvatosan.",
+                "ro": "Pe drumul 7 se pot forma bălți mari de apă.",
+                "en": "Large puddles can form on Route 7, so drive carefully."
+              }
+            },
+            {
+              "name": "Zamárdi Szabadstrand (Cluster C) – Alternativ gastro",
+              "tip_5lang": {
+                "de": "Ein perfektes, warmes Restaurant am Ende der nassen Fahrt.",
+                "hu": "Egy tökéletes, meleg étterem a nedves autózás végén.",
+                "ro": "Un restaurant perfect și cald la sfârșitul drumului umed.",
+                "en": "A perfect, warm restaurant at the end of a wet drive."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen Regenschirm im Auto mit für den Weg vom Parkplatz zum Eingang.",
+              "Achten Sie auf beschlagene Scheiben, schalten Sie die Klimaanlage ein.",
+              "Einige küstennahe Parkplätze können bei extremem Regen matschig werden.",
+              "Vermeiden Sie es, Fußgänger an Pfützen nass zu spritzen."
+            ],
+            "hu": [
+              "Mindig tartson esernyőt az autóban a parkolótól a bejáratig tartó sprinthez.",
+              "A párásodó ablakok ellen használja a klímát a szélvédőre irányítva.",
+              "Néhány parthoz közeli, nem aszfaltozott parkoló hamar sarassá válhat.",
+              "Vezessen óvatosan, és ügyeljen rá, hogy ne fröcskölje le a gyalogosokat."
+            ],
+            "ro": [
+              "Luați o umbrelă în mașină pentru drumul de la parcare la intrare.",
+              "Atenție la geamurile aburite, porniți aerul condiționat.",
+              "Unele parcări de lângă coastă pot deveni noroioase la ploi extreme.",
+              "Evitați să stropiți pietonii trecând prin bălți."
+            ],
+            "en": [
+              "Keep an umbrella in the car for the dash from the parking lot to entrances.",
+              "Use your air conditioning to quickly defog the windshield.",
+              "Some unpaved parking spots near the shore can become muddy.",
+              "Drive carefully through puddles to avoid splashing pedestrians."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter zeigt sich der Vorteil des Autos in Siófok. Der morgendliche Stadtbummel ist kurz und knackig, bevor Sie sich im Museum aufwärmen. Die kurze Fahrt zum Ufer (Cluster B) bringt Sie ins Warme, wo Sie die Eisformationen am Platán Strand bewundern können. Bei früher Dämmerung fahren Sie sicher ins benachbarte Zamárdi für ein Abendessen.",
+            "hu": "Télen igazán értékeljük az autót Siófokon. A fagyos reggeli belvárosi séta után jó beülni a fűtött kocsiba. A parti zónába gurulva kényelmesen, a melegből csodálhatjuk meg a Platán Strand jégképződményeit. A korai sötétedés után átautózunk Zamárdiba egy hangulatos, meleg vacsorára.",
+            "ro": "Iarna, avantajul mașinii în Siófok este evident. Plimbarea matinală prin oraș este scurtă, înainte de a vă încălzi la muzeu. Drumul scurt spre țărm (Cluster B) vă aduce la căldură, de unde puteți admira formațiunile de gheață la Platán Strand. La lăsarea întunericului, conduceți spre Zamárdi pentru cină.",
+            "en": "Winter reveals the true advantage of a car in Siófok. The morning city walk is brief and brisk before hopping back into the heated car. Driving down to the shore cluster allows you to view the incredible ice formations at Platán Strand from the warmth of your vehicle. Drive safely to Zamárdi in the early dark for dinner."
+          },
+          "stops": [
+            {
+              "name": "Siófok Fő tér (Cluster A: belváros)",
+              "tip_5lang": {
+                "de": "Parken Sie zentral, um unnötige Wege in der Kälte zu sparen.",
+                "hu": "Parkoljon központian, hogy megspórolja a hosszú sétát a hidegben.",
+                "ro": "Parcați central pentru a economisi drumurile inutile în frig.",
+                "en": "Park centrally to avoid long walks in the freezing cold."
+              }
+            },
+            {
+              "name": "Siófoki Evangélikus Templom (Cluster A)",
+              "tip_5lang": {
+                "de": "Ein schöner, ruhiger Zwischenstopp im冬lichen Siófok.",
+                "hu": "Szép, csendes megálló a téli Siófokon.",
+                "ro": "O oprire frumoasă și liniștită în Siófok iarna.",
+                "en": "A beautiful, quiet stop in wintery Siófok."
+              }
+            },
+            {
+              "name": "Kálmán Imre Múzeum (Cluster A)",
+              "tip_5lang": {
+                "de": "Lassen Sie dicke Jacken am besten nicht im kalten Auto.",
+                "hu": "Ideális benti program, amíg kint röpködnek a mínuszok.",
+                "ro": "Un program ideal în interior, în timp ce afară sunt temperaturi negative.",
+                "en": "An ideal indoor activity while it's freezing outside."
+              }
+            },
+            {
+              "name": "Fahrt in den zweiten Cluster – Balaton part",
+              "tip_5lang": {
+                "de": "Heizung voll aufdrehen für die Fahrt zum See.",
+                "hu": "Tekerje fel a fűtést a tó felé vezető rövid úton.",
+                "ro": "Porniți căldura la maximum pentru drumul spre lac.",
+                "en": "Crank up the heat for the short drive down to the lake."
+              }
+            },
+            {
+              "name": "Platán Strand (Cluster B)",
+              "tip_5lang": {
+                "de": "Bei extremem Frost bilden sich hier faszinierende Eisblöcke.",
+                "hu": "Kemény fagyok idején lenyűgöző jégtorlaszok alakulnak ki itt.",
+                "ro": "La îngheț extrem, aici se formează blocuri de gheață fascinante.",
+                "en": "During deep freezes, fascinating ice formations pile up here."
+              }
+            },
+            {
+              "name": "Villa sor (Cluster B)",
+              "tip_5lang": {
+                "de": "Ein kurzer, knackiger Spaziergang; lassen Sie das Auto nahe stehen.",
+                "hu": "Rövid, fagyos séta; parkoljon a lehető legközelebb.",
+                "ro": "O plimbare scurtă și tăioasă; lăsați mașina aproape.",
+                "en": "A short, brisk walk; keep the car parked nearby."
+              }
+            },
+            {
+              "name": "Fahrt in den dritten Cluster – Zamárdi",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe auf der Landstraße.",
+                "hu": "Vigyázzon a lefagyott páralecsapódásra az úton sötétedés után.",
+                "ro": "Atenție la poleiul de pe șosea după lăsarea întunericului.",
+                "en": "Watch out for black ice on the roads after dark."
+              }
+            },
+            {
+              "name": "Zamárdi Szabadstrand (Cluster C) – Alternativ gastro",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich am Kaminfeuer des Restaurants auf.",
+                "hu": "Melegedjen fel az étterem hívogató belső terében.",
+                "ro": "Încălziți-vă în interiorul primitor al restaurantului.",
+                "en": "Warm up in the inviting and heated interior of the restaurant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie immer einen Eiskratzer und Frostschutzmittel griffbereit.",
+              "Viele Parkzonen sind im Winter kostenlos, achten Sie auf die Beschilderung.",
+              "Vorsicht vor Blitzeis in den Abendstunden in Ufernähe.",
+              "Die Batterie kann bei extremer Kälte schwächeln, achten Sie darauf."
+            ],
+            "hu": [
+              "Mindig legyen kéznél jégkaparó és téli szélvédőmosó folyadék.",
+              "Siófokon télen több fizetős parkolózóna is ingyenes, figyelje a táblákat.",
+              "A tópart közelében az esti órákban gyakori a lefagyás (ónos szitálás).",
+              "A hideg akkumulátor nehezebben indulhat, készüljön fel."
+            ],
+            "ro": [
+              "Aveți mereu la îndemână o racletă de gheață și lichid de parbriz de iarnă.",
+              "Multe zone de parcare sunt gratuite iarna, atenție la semne.",
+              "Atenție la polei în orele de seară, în apropierea țărmului.",
+              "Bateria poate slăbi la frig extrem, aveți grijă."
+            ],
+            "en": [
+              "Always keep an ice scraper and winter windshield fluid handy.",
+              "Many paid parking zones are free during the winter, check the signs.",
+              "Watch out for black ice near the lakeshore during the evening.",
+              "Car batteries can struggle in extreme cold, so ensure yours is in good condition."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1487,6 +2105,224 @@
           "Buses can be crowded in summer, so be patient.",
           "Keep an eye on your belongings on crowded buses."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Busfahren bei Regen ist in Siófok sehr praktisch. Nach den Indoor-Stopps im Zentrum bringt Sie der Bus 1 trocken zum Jókai Park. Zwar müssen Sie dort den Regenschirm aufspannen, aber die Strandpromenade ist nur wenige Schritte entfernt. Der zweite Hop (Bus 2) erspart Ihnen den nassen Weg zur Villa sor, wo der Tag entspannt ausklingt.",
+            "hu": "Az esős Siófokon a buszozás praktikus választás. A belvárosi múzeumi programok után az 1-es busz szárazon átvisz minket a Jókai Parkhoz. Itt már kell az esernyő a strandoláshoz, de nem kell sokat sétálni. A második buszút (2-es busz) megspórolja a saras sétát a Villa sorig, ahol zárt helyen pihenhetünk meg.",
+            "ro": "Mersul cu autobuzul pe ploaie în Siófok este foarte practic. După opririle în interior, autobuzul 1 vă duce uscat la Parcul Jókai. Deși trebuie să deschideți umbrela, plaja este la doar câțiva pași. Al doilea hop (autobuzul 2) vă scutește de drumul ud spre Villa sor, unde ziua se încheie relaxat.",
+            "en": "Taking the bus in Siófok is a smart choice on a rainy day. After indoor stops in the center, Bus 1 takes you dry to Jókai Park. You'll need an umbrella there, but the promenade is close. The second bus hop saves you a wet walk to Villa sor, where you can end your day comfortably indoors."
+          },
+          "stops": [
+            {
+              "name": "Siófok Fő tér (District A: centrum)",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen hier haben meist gute Unterstände.",
+                "hu": "Az itteni buszmegállók fedettek, jól védenek az esőtől.",
+                "ro": "Stațiile de autobuz de aici au adăposturi bune.",
+                "en": "The bus stops here have good shelters to keep you dry."
+              }
+            },
+            {
+              "name": "Siófoki Evangélikus Templom (District A)",
+              "tip_5lang": {
+                "de": "Kurzer, nasser Fußweg, aber die Kirche ist trocken.",
+                "hu": "Rövid, esős séta a megállótól, de odabent száraz a levegő.",
+                "ro": "Scurtă plimbare umedă, dar biserica este uscată.",
+                "en": "A short, wet walk, but the church is dry inside."
+              }
+            },
+            {
+              "name": "Kálmán Imre Múzeum (District A)",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum, um längere Regengüsse abzuwarten.",
+                "hu": "Várja ki a múzeumban a nagyobb felhőszakadásokat.",
+                "ro": "Așteptați în muzeu trecerea ploilor torențiale.",
+                "en": "Wait out heavy downpours inside the museum."
+              }
+            },
+            {
+              "name": "Transit-Hop: Bus 1 to Jókai Park (District B: park+beach)",
+              "tip_5lang": {
+                "de": "Regenschirm im Bus gut ausschütteln, aber auf andere achten.",
+                "hu": "Rázza ki az esernyőt felszálláskor, de ügyeljen a többi utasra.",
+                "ro": "Scuturați bine umbrela în autobuz, atenție la ceilalți.",
+                "en": "Shake off your umbrella before boarding, but watch out for others."
+              }
+            },
+            {
+              "name": "Jókai Park (District B)",
+              "tip_5lang": {
+                "de": "Von der Haltestelle sind es nur wenige Schritte ins Grün.",
+                "hu": "A megállótól csak pár lépés a fák nyújtotta menedék.",
+                "ro": "De la stație sunt doar câțiva pași până la verdeață.",
+                "en": "It's just a few steps from the stop to the tree cover."
+              }
+            },
+            {
+              "name": "Platán Strand (District B)",
+              "tip_5lang": {
+                "de": "Wind und Regen können hier stark sein, bereiten Sie sich vor.",
+                "hu": "A szél és eső itt beerősödhet, készüljön fel rá.",
+                "ro": "Vântul și ploaia pot fi puternice aici, pregătiți-vă.",
+                "en": "Wind and rain can be fierce here, so brace yourself."
+              }
+            },
+            {
+              "name": "Transit-Hop: Bus 2 to Villa sor (District C: historisch)",
+              "tip_5lang": {
+                "de": "Der Bus ist eine willkommene, trockene Pause.",
+                "hu": "A busz egy nagyon is jól eső, száraz pihenőidő.",
+                "ro": "Autobuzul este o pauză uscată binevenită.",
+                "en": "The bus ride offers a very welcome, dry break."
+              }
+            },
+            {
+              "name": "Villa sor (District C)",
+              "tip_5lang": {
+                "de": "Suchen Sie direkt nach dem Aussteigen ein Café.",
+                "hu": "Leszállás után rögtön keressen egy kávézót a közelben.",
+                "ro": "Căutați o cafenea imediat după ce coborâți.",
+                "en": "Find a cafe immediately after getting off the bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Einige Haltestellen außerhalb des Zentrums haben keine Überdachung.",
+              "Busse können bei starkem Regen wegen Verkehr etwas Verspätung haben.",
+              "Halten Sie Ihr Busticket trocken oder nutzen Sie eine App.",
+              "Achten Sie beim Ein- und Aussteigen auf rutschige Stufen im Bus."
+            ],
+            "hu": [
+              "A központon kívüli buszmegállók nem mindegyike fedett, vigyen esernyőt.",
+              "Heves esőzéskor a megnövekedett forgalom miatt a buszok késhetnek.",
+              "Tartsa szárazon a papírjegyet, vagy használjon mobilos jegyalkalmazást.",
+              "Vigyázzon felszálláskor: a busz vizes lépcsői nagyon csúszósak lehetnek."
+            ],
+            "ro": [
+              "Unele stații din afara centrului nu au acoperiș, luați o umbrelă.",
+              "Autobuzele pot avea întârzieri pe ploaie puternică din cauza traficului.",
+              "Păstrați biletul uscat sau folosiți o aplicație mobilă.",
+              "Atenție la treptele alunecoase ale autobuzului la urcare și coborâre."
+            ],
+            "en": [
+              "Some bus stops outside the center lack shelters, so keep your umbrella handy.",
+              "Buses might experience slight delays during heavy rain due to traffic.",
+              "Keep paper tickets dry, or switch to a mobile ticketing app.",
+              "Be careful when boarding; the wet steps on the bus can be very slippery."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die warmen Busse sind an kalten Wintertagen in Siófok ein Segen. Nach dem kühlen Fő tér wärmen Sie sich im Museum auf. Der Transit-Hop zum Jókai Park erspart Ihnen den frostigen Wind. Am Seeufer spüren Sie kurz die winterliche Kälte, bevor Sie der nächste Bus gemütlich zur festlich beleuchteten Villa sor fährt.",
+            "hu": "A fűtött siófoki buszok igazi áldást jelentenek egy fagyos téli napon. A hideg Fő tér után a múzeumban felmelegedünk, majd a buszmegspórolja a metsző szelet a Jókai Parkig. A parton röviden megtapasztaljuk a téli Balaton zordságát, mielőtt a második busszal a kivilágított Villa sorra gurulnánk.",
+            "ro": "Autobuzele calde sunt o binecuvântare în zilele reci de iarnă în Siófok. După Fő tér cel răcoros, vă încălziți în muzeu. Hop-ul spre Parcul Jókai vă scutește de vântul geros. Pe malul lacului simțiți scurt frigul iernii, înainte ca autobuzul să vă ducă la Villa sor iluminată festiv.",
+            "en": "Heated buses are a blessing on cold winter days in Siófok. After a brisk walk at Fő tér, warm up in the museum. The bus hop to Jókai Park spares you the freezing wind. You'll briefly brave the winter cold by the lake before catching the next bus to the beautifully lit Villa sor."
+          },
+          "stops": [
+            {
+              "name": "Siófok Fő tér (District A: centrum)",
+              "tip_5lang": {
+                "de": "Bewegen Sie sich an der Haltestelle, um warm zu bleiben.",
+                "hu": "Mozogjon kicsit a megállóban, amíg várja a buszt.",
+                "ro": "Mișcați-vă în stație pentru a vă menține cald.",
+                "en": "Keep moving at the stop to stay warm while waiting."
+              }
+            },
+            {
+              "name": "Siófoki Evangélikus Templom (District A)",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, der drinnen etwas Kälteschutz bietet.",
+                "hu": "A vastag falak bent megvédenek a legcsípősebb széltől.",
+                "ro": "Un loc frumos care oferă protecție împotriva frigului.",
+                "en": "A beautiful spot that offers some protection from the cold."
+              }
+            },
+            {
+              "name": "Kálmán Imre Múzeum (District A)",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich hier gründlich auf vor der nächsten Busfahrt.",
+                "hu": "Melegedjen fel itt alaposan a következő buszút előtt.",
+                "ro": "Încălziți-vă bine aici înainte de următoarea călătorie.",
+                "en": "Warm up thoroughly here before your next bus ride."
+              }
+            },
+            {
+              "name": "Transit-Hop: Bus 1 to Jókai Park (District B: park+beach)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Heizung im Bus.",
+                "hu": "Élvezze a jó meleg fűtést a buszon.",
+                "ro": "Bucurați-vă de căldura din autobuz.",
+                "en": "Enjoy the strong heating inside the bus."
+              }
+            },
+            {
+              "name": "Jókai Park (District B)",
+              "tip_5lang": {
+                "de": "Packen Sie sich gut ein, wenn Sie den Bus verlassen.",
+                "hu": "Öltözzön fel jól, mielőtt leszáll a hideg levegőre.",
+                "ro": "Înfofoliți-vă bine când coborâți din autobuz.",
+                "en": "Bundle up securely before stepping off the bus."
+              }
+            },
+            {
+              "name": "Platán Strand (District B)",
+              "tip_5lang": {
+                "de": "Der eisige Wind vom See ist nur kurz zu ertragen.",
+                "hu": "A tóról fújó jeges szelet csak rövid ideig kell bírni.",
+                "ro": "Vântul înghețat de pe lac este greu de suportat mult timp.",
+                "en": "The icy wind from the lake is only bearable for a short time."
+              }
+            },
+            {
+              "name": "Transit-Hop: Bus 2 to Villa sor (District C: historisch)",
+              "tip_5lang": {
+                "de": "Eine gute Gelegenheit, kalte Füße wieder aufzuwärmen.",
+                "hu": "Jó alkalom, hogy a lefagyott lábujjak kiolvadjanak.",
+                "ro": "O ocazie bună pentru a vă încălzi picioarele reci.",
+                "en": "A great chance to warm up your freezing toes."
+              }
+            },
+            {
+              "name": "Villa sor (District C)",
+              "tip_5lang": {
+                "de": "Das frühe Abendlicht ist hier im Winter sehr romantisch.",
+                "hu": "A korai esti fények télen itt nagyon romantikusak.",
+                "ro": "Lumina timpurie a serii este foarte romantică aici iarna.",
+                "en": "The early evening lights are quite romantic here in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan, Busse fahren oft seltener als im Sommer.",
+              "Ziehen Sie im beheizten Bus Schal und Mütze ab, um nicht zu schwitzen.",
+              "Erwarten Sie nach 16:00 Uhr Dunkelheit, seien Sie an Haltestellen gut sichtbar.",
+              "Die Busfenster sind oft beschlagen, achten Sie gut auf Ihre Haltestelle."
+            ],
+            "hu": [
+              "Ellenőrizze a téli menetrendet, a helyi járatok ritkábban járhatnak.",
+              "A túlfűtött buszon vegye le a sálat, sapkát, nehogy megizzadjon és megfázzon.",
+              "16:00 után sötét van, a megállókban használja a telefonja lámpáját jelzésre.",
+              "A buszok ablakai gyakran párásak télen, figyeljen erősen a megállókra."
+            ],
+            "ro": [
+              "Verificați orarul de iarnă, autobuzele circulă adesea mai rar decât vara.",
+              "Dați jos fularul și căciula în autobuzul încălzit pentru a nu transpira.",
+              "Așteptați-vă la întuneric după 16:00, fiți vizibil în stații.",
+              "Geamurile sunt des aburite, fiți atenți la stația dumneavoastră."
+            ],
+            "en": [
+              "Check the winter timetable; buses run less frequently than in summer.",
+              "Take off your hat and scarf on the heated bus so you don't overheat.",
+              "Expect it to be dark after 4:00 PM; use your phone flashlight to signal the bus.",
+              "Bus windows are often heavily fogged; pay close attention to your stop."
+            ]
+          }
+        }
       }
     }
   }

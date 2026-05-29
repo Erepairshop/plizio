@@ -346,6 +346,214 @@
           "Most sights in the center are easily within walking distance.",
           "Check the opening hours for the castle and the Green Gate in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag unter den schützenden Arkaden des Pernštejn-Platzes. Das Grüne Tor bietet einen trockenen Aussichtspunkt über die Stadt. Den Mittag verbringen Sie im weitläufigen Schloss Pardubice, wo die Innenräume vor Regen schützen. Nachmittags erkunden Sie die renovierten Winternitz-Mühlen, ein idealer Indoor-Kulturort. Der Tag endet gemütlich am Ostböhmischen Theater.",
+            "hu": "Kezdje a napot a Pernštejn tér védelmet nyújtó árkádjai alatt. A Zöld kapu száraz kilátópontot kínál a város felett. A delet a pardubicei vár tágas belső tereiben töltse, távol az esőtől. Délután fedezze fel a felújított Winternitz-malmokat, amely kiváló fedett kulturális központ. A napot az Kelet-csehországi Színház patinás épületénél zárja egy közeli kávézóban.",
+            "ro": "Începeți ziua sub arcadele protectoare ale Pieței Pernštejn. Poarta Verde oferă un punct de observație uscat deasupra orașului. Petreceți amiaza în interiorul Castelului Pardubice, ferit de ploaie. După-amiaza, explorați Morile Winternitz renovate, un spațiu cultural interior ideal. Ziua se încheie confortabil lângă Teatrul Boemiei de Est, admirând arhitectura din apropiere.",
+            "en": "Start your day under the protective arcades of Pernštejn Square. The Green Gate provides a dry vantage point over the city. Spend midday inside Pardubice Castle, where extensive exhibitions keep you dry. In the afternoon, explore the renovated Winternitz Mills, a perfect indoor cultural hub. The day ends cozily by the East Bohemian Theatre with a view of the illuminated facade."
+          },
+          "stops": [
+            {
+              "name": "Pernštejn Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge, um trocken um den Platz zu spazieren.",
+                "hu": "Használja az árkádokat a tér körüli száraz sétához.",
+                "ro": "Folosiți arcadele pentru a vă plimba în jurul pieței fără a vă uda.",
+                "en": "Use the arcades to walk around the square while staying dry."
+              }
+            },
+            {
+              "name": "Green Gate",
+              "tip_5lang": {
+                "de": "Der Turmaufstieg ist überdacht; oben bietet sich ein regnerisches Panorama.",
+                "hu": "A toronyba vezető út fedett; a fenti kilátás esőben is hangulatos.",
+                "ro": "Urcarea în turn este acoperită; panorama pe ploaie este melancolică.",
+                "en": "The climb up the tower is covered; the top offers a rainy city panorama."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort für eine kurze Regenpause in Stille.",
+                "hu": "Békés hely egy rövid esőszünethez a csendben.",
+                "ro": "Un loc liniștit pentru o scurtă pauză de ploaie în tăcere.",
+                "en": "A peaceful place for a short rain break in silence."
+              }
+            },
+            {
+              "name": "Pardubice Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Ostböhmische Museum im Inneren des Schlosses.",
+                "hu": "Látogasson el a vár falai között található Kelet-csehországi Múzeumba.",
+                "ro": "Vizitați Muzeul Boemiei de Est situat în interiorul castelului.",
+                "en": "Visit the East Bohemian Museum located inside the castle."
+              }
+            },
+            {
+              "name": "Tyrš Gardens",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege vermeiden Schlamm bei leichtem Regen.",
+                "hu": "Az aszfaltozott utak segítenek elkerülni a sarat enyhe esőben.",
+                "ro": "Aleile asfaltate evită noroiul în timpul unei ploi ușoare.",
+                "en": "The paved paths help avoid mud during light rain."
+              }
+            },
+            {
+              "name": "Winternitz Mills",
+              "tip_5lang": {
+                "de": "Ein Highlight für Architekturfans mit viel Platz im Trockenen.",
+                "hu": "Építészeti remekmű, ahol bőséges fedett kiállítótér várja.",
+                "ro": "O capodoperă arhitecturală cu mult spațiu interior de explorat.",
+                "en": "An architectural highlight with plenty of indoor space to explore."
+              }
+            },
+            {
+              "name": "East Bohemian Theatre",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade unter dem Vordach gegenüberliegender Gebäude.",
+                "hu": "Csodálja meg a homlokzatot a szemközti épületek eresze alól.",
+                "ro": "Admirați fațada de sub streșinile clădirilor de vizavi.",
+                "en": "Admire the facade from under the eaves of opposite buildings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Arkaden am Pernštejn-Platz sind der beste Zufluchtsort bei plötzlichem Guss.",
+              "Pardubice ist berühmt für Lebkuchen – idealer Snack für eine Indoor-Pause.",
+              "Das Schloss bietet kombinierte Tickets für mehrere Indoor-Ausstellungen an.",
+              "In den Winternitz-Mühlen gibt es ein modernes Café für Regentage.",
+              "Die Entfernungen im Zentrum sind kurz, ein Schirm reicht völlig aus."
+            ],
+            "hu": [
+              "A Pernštejn tér árkádjai a legjobb menedékek hirtelen zápor esetén.",
+              "Pardubice híres a mézeskalácsról – tökéletes tízórai egy fedett szünetben.",
+              "A vár kombinált jegyeket kínál több beltéri kiállításra is.",
+              "A Winternitz-malmokban modern kávézó várja az esős napokon.",
+              "A központi távolságok rövidek, egy esernyő elegendő a közlekedéshez."
+            ],
+            "ro": [
+              "Arcadele din Piața Pernštejn sunt cel mai bun refugiu în caz de aversă.",
+              "Pardubice este faimos pentru turta dulce – gustarea ideală pentru o pauză.",
+              "Castelul oferă bilete combinate pentru mai multe expoziții interioare.",
+              "Morile Winternitz găzduiesc o cafenea modernă pentru zilele ploioase.",
+              "Distanțele în centru sunt scurte, o umbrelă este suficientă."
+            ],
+            "en": [
+              "The arcades on Pernštejn Square are the best shelter during sudden showers.",
+              "Pardubice is famous for gingerbread – the perfect snack for an indoor break.",
+              "The castle offers combined tickets for several indoor exhibitions.",
+              "Winternitz Mills houses a modern cafe perfect for rainy days.",
+              "Distances in the center are short, so an umbrella is quite sufficient."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die winterliche Stille auf dem Pernštejn-Platz, vielleicht mit Puderzucker auf den Giebeln. Das Grüne Tor bietet Schutz vor kaltem Wind. Mittags wärmen Sie sich in den historischen Sälen des Schlosses auf. Der Spaziergang durch die Tyrš-Gärten ist bei Frost besonders malerisch. Bevor die Sonne früh untergeht, bieten die Winternitz-Mühlen moderne Wärme und Kultur.",
+            "hu": "Élje át a téli csendet a Pernštejn téren, ahol a háztetőkön megül a hó. A Zöld kapu védelmet nyújt a hideg szél ellen. Délben melegedjen fel a vár történelmi termeiben és múzeumaiban. A Tyrš-kertekben tett séta zúzmarás időben különösen festői. Mielőtt korán lenyugodna a nap, a Winternitz-malmok modern melegét és kulturális kínálatát élvezheti.",
+            "ro": "Experimentați liniștea iernii în Piața Pernštejn, cu zăpadă pe acoperișurile baroce. Poarta Verde oferă adăpost împotriva vântului rece. La prânz, încălziți-vă în sălile istorice ale Castelului Pardubice. O plimbare prin Grădinile Tyrš este pitorească în condiții de îngheț. Înainte de apusul timpuriu, Morile Winternitz oferă căldură și cultură modernă.",
+            "en": "Experience the winter silence on Pernštejn Square, perhaps with snow dusting the baroque gables. The Green Gate provides shelter from the cold wind. At noon, warm up in the historical halls of Pardubice Castle. A walk through Tyrš Gardens is particularly picturesque during frost. Before the early sunset, Winternitz Mills offer modern warmth and cultural highlights."
+          },
+          "stops": [
+            {
+              "name": "Pernštejn Square",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Tee oder Punsch in den gemütlichen Cafés am Platz.",
+                "hu": "Élvezzen egy forró teát vagy puncsot a tér hangulatos kávézóiban.",
+                "ro": "Savurați un ceai fierbinte sau un punch în cafenelele primitoare din piață.",
+                "en": "Enjoy a hot tea or punch in the cozy cafes around the square."
+              }
+            },
+            {
+              "name": "Green Gate",
+              "tip_5lang": {
+                "de": "Vom Turm aus sehen Sie die festlich beleuchtete Altstadt.",
+                "hu": "A toronyból rálátni az ünnepi fényekben úszó óvárosra.",
+                "ro": "Din turn puteți vedea orașul vechi luminat festiv.",
+                "en": "From the tower, you can see the festively lit old town."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelle Orgelkonzerte in der Weihnachtszeit.",
+                "hu": "Keressen adventi orgonakoncerteket a karácsonyi időszakban.",
+                "ro": "Căutați eventuale concerte de orgă în perioada Crăciunului.",
+                "en": "Look out for organ concerts during the Christmas season."
+              }
+            },
+            {
+              "name": "Pardubice Castle",
+              "tip_5lang": {
+                "de": "Die Ritterausstellung im Inneren ist auch im Winter sehr sehenswert.",
+                "hu": "A benti lovagi kiállítás télen is kiváló program.",
+                "ro": "Expoziția cavalerilor din interior merită vizitată și iarna.",
+                "en": "The knights' exhibition inside is well worth a visit in winter."
+              }
+            },
+            {
+              "name": "Tyrš Gardens",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf den Brücken im Park.",
+                "hu": "Vigyázzon a jeges szakaszokra a park hídjain.",
+                "ro": "Atenție la porțiunile alunecoase de pe podurile din parc.",
+                "en": "Watch out for icy patches on the bridges in the park."
+              }
+            },
+            {
+              "name": "Winternitz Mills",
+              "tip_5lang": {
+                "de": "Die Galerien sind gut beheizt und bieten moderne Kunst.",
+                "hu": "A galériák jól fűtöttek és izgalmas modern művészetet kínálnak.",
+                "ro": "Galeriile sunt bine încălzite și oferă artă modernă.",
+                "en": "The galleries are well heated and offer great modern art."
+              }
+            },
+            {
+              "name": "East Bohemian Theatre",
+              "tip_5lang": {
+                "de": "Das beleuchtete Gebäude ist ein perfektes Motiv für die blaue Stunde.",
+                "hu": "A kivilágított épület tökéletes téma a kék órában.",
+                "ro": "Clădirea iluminată este un subiect perfect pentru ora albastră.",
+                "en": "The illuminated building is a perfect subject for the blue hour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember gegen 16:00 Uhr unter, planen Sie Außenstopps früh.",
+              "Probieren Sie Pardubitzer Lebkuchen mit Schokolade – gibt Energie bei Kälte.",
+              "Die Gehwege in der Altstadt können bei Frost rutschig sein.",
+              "Die Innenräume des Schlosses sind eine gute Aufwärmstation zur Mittagszeit.",
+              "Warme Kleidung ist wichtig, da der Wind oft ungehindert durch die Gassen zieht."
+            ],
+            "hu": [
+              "A nap decemberben 16:00 körül nyugszik, a kinti programokat tervezze korábbra.",
+              "Kóstolja meg a csokoládés pardubicei mézeskalácsot – energiát ad a hidegben.",
+              "Az óváros macskaköves utcái fagyban csúszósak lehetnek.",
+              "A vár belső terei kiváló melegedőhelyet jelentenek délidőben.",
+              "A réteges öltözködés fontos, mert a szél gyakran végigfúj az utcákon."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 16:00 în decembrie, planificați opririle afară devreme.",
+              "Gustați turta dulce de Pardubice cu ciocolată – oferă energie pe ger.",
+              "Trotuarele din orașul vechi pot fi alunecoase în caz de îngheț.",
+              "Interiorul castelului este o stație bună de încălzire la prânz.",
+              "Îmbrăcămintea groasă este esențială, deoarece vântul suflă prin străduțe."
+            ],
+            "en": [
+              "The sun sets around 4 PM in December; plan outdoor stops for earlier in the day.",
+              "Try Pardubice gingerbread with chocolate – it gives energy in the cold.",
+              "The cobblestones in the old town can be slippery when frozen.",
+              "The castle interiors are a great place to warm up at midday.",
+              "Warm clothing is essential as the wind often blows through the narrow streets."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -710,6 +918,232 @@
           "Use the well-developed cycle paths, especially along the Elbe and Chrudimka rivers.",
           "A good lock is essential when you're sightseeing."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert gute Ausrüstung. Starten Sie am Pernštejn-Platz und nutzen Sie die kurzen Wege zwischen den Sehenswürdigkeiten. Das Schloss Pardubice bietet überdachte Abstellmöglichkeiten. Am Nachmittag führt die Fahrt zu den Winternitz-Mühlen, wo Sie das Rad sicher parken und drinnen verweilen können. Ein Abstecher zur Rennbahn zeigt die Weite auch im Grau.",
+            "hu": "Egy esős biciklitúra jó felszerelést igényel. Kezdjen a Pernštejn téren, kihasználva a látnivalók közötti rövid távolságokat. A pardubicei várnál fedett tárolók találhatók. Délután tekerjen a Winternitz-malmokhoz, ahol biztonságban hagyhatja a gépet a benti látogatás alatt. Egy kitérő a lóversenypályához megmutatja a táj tágasságát szürkületben is.",
+            "ro": "O tură cu bicicleta pe ploaie necesită echipament bun. Începeți în Piața Pernštejn, profitând de distanțele scurte dintre obiective. Castelul Pardubice oferă locuri de parcare acoperite. După-amiaza, pedalați spre Morile Winternitz, unde puteți lăsa bicicleta în siguranță. O vizită la hipodrom vă arată orizontul larg chiar și pe vreme gri.",
+            "en": "A bike tour in the rain requires good gear. Start at Pernštejn Square, taking advantage of the short distances between sights. Pardubice Castle offers covered bike racks. In the afternoon, ride to Winternitz Mills, where you can park safely while visiting the interior. A detour to the Racecourse shows the scale of the landscape even under grey skies."
+          },
+          "stops": [
+            {
+              "name": "Pernštejn Square",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster beim Anfahren.",
+                "hu": "Vigyázzon a vizes macskakövön az elinduláskor.",
+                "ro": "Atenție la pavajul umed când porniți de pe loc.",
+                "en": "Be careful on the wet cobblestones when starting off."
+              }
+            },
+            {
+              "name": "Green Gate",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Arkaden in der Nähe.",
+                "hu": "Parkolja le a biciklit a közeli árkádok alatt.",
+                "ro": "Parcați bicicleta sub arcadele din apropiere.",
+                "en": "Park your bike under the nearby arcades."
+              }
+            },
+            {
+              "name": "Pardubice Castle",
+              "tip_5lang": {
+                "de": "Im Burghof gibt es meist trockene Ecken für Fahrräder.",
+                "hu": "A várudvaron általában találhatók száraz sarkok a bicikliknek.",
+                "ro": "În curtea castelului există de obicei colțuri uscate pentru biciclete.",
+                "en": "There are usually dry corners in the castle courtyard for bikes."
+              }
+            },
+            {
+              "name": "Tyrš Gardens",
+              "tip_5lang": {
+                "de": "Vermeiden Sie bei starkem Regen die unbefestigten Wege.",
+                "hu": "Erős esőben kerülje a nem aszfaltozott utakat.",
+                "ro": "Evitați potecile neasfaltate în caz de ploaie torențială.",
+                "en": "Avoid unpaved paths during heavy rain."
+              }
+            },
+            {
+              "name": "Winternitz Mills",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen.",
+                "hu": "Használja a fedett bejárati részt a parkoláshoz.",
+                "ro": "Folosiți zona de intrare acoperită pentru a lăsa bicicleta.",
+                "en": "Use the covered entrance area to park your bike."
+              }
+            },
+            {
+              "name": "Racecourse",
+              "tip_5lang": {
+                "de": "Die Wege hier sind weit; achten Sie auf Pfützen.",
+                "hu": "Az utak itt tágasak; ügyeljen a tócsákra.",
+                "ro": "Drumurile de aici sunt largi; atenție la bălți.",
+                "en": "The paths here are wide; watch out for puddles."
+              }
+            },
+            {
+              "name": "East Bohemian Theatre",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; halten Sie das Rad griffbereit.",
+                "hu": "Gyors megálló; tartsa kéznél a kerékpárt.",
+                "ro": "Oprire scurtă; țineți bicicleta la îndemână.",
+                "en": "Quick stop; keep your bike ready to move."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad an die Kirchenwand unter den Dachvorsprung.",
+                "hu": "Támassza a biciklit a templomfalhoz az eresz alá.",
+                "ro": "Rezemați bicicleta de zidul bisericii, sub streașină.",
+                "en": "Lean your bike against the church wall under the eaves."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Kleidung; das Kopfsteinpflaster ist bei Nässe sehr rutschig.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt, da der Bremsweg länger ist.",
+              "Die Radwege entlang der Elbe sind gut ausgebaut, aber windanfällig.",
+              "Ein Schutzblech ist bei diesem Wetter unerlässlich.",
+              "Verwenden Sie Lichter, da die Sicht bei Regen stark eingeschränkt sein kann."
+            ],
+            "hu": [
+              "Viseljen vízálló ruházatot; a macskakő nedvesen nagyon csúszik.",
+              "Indulás előtt ellenőrizze a fékeket, mert a féktávolság megnő.",
+              "Az Elba-menti kerékpárutak jók, de esőben szelesek lehetnek.",
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Használjon lámpákat, mert az esőben jelentősen romlanak a látási viszonyok."
+            ],
+            "ro": [
+              "Purtați haine impermeabile; pavajul este foarte alunecos când este ud.",
+              "Verificați frânele înainte de plecare, distanța de frânare crește.",
+              "Pistele de biciclete de-a lungul Elbei sunt bune, dar expuse vântului.",
+              "Aripile la bicicletă sunt esențiale pe această vreme.",
+              "Folosiți lumini, deoarece vizibilitatea scade semnificativ pe ploaie."
+            ],
+            "en": [
+              "Wear waterproof clothing; cobblestones are very slippery when wet.",
+              "Check your brakes before starting, as braking distance increases.",
+              "The bike paths along the Elbe are good but can be windy in the rain.",
+              "Mudguards are essential in this weather.",
+              "Use lights, as visibility can be greatly reduced during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Winter-Radtour durch Pardubice ist erfrischend. Starten Sie warm eingepackt am Pernštejn-Platz. Der Weg zum Schloss führt über festen Untergrund. Mittags bietet die Fahrt zur Rennbahn weite Ausblicke über die frostige Landschaft. Die Winternitz-Mühlen sind eine willkommene Aufwärmstation am Nachmittag, bevor Sie die beleuchtete Stadt bei Dämmerung durchqueren.",
+            "hu": "A téli biciklizés Pardubicében frissítő élmény. Melegen felöltözve induljon a Pernštejn térről. A várhoz vezető út szilárd talajon halad. Délben a lóversenypálya felé tekerve gyönyörködjön a fagyos tájban. A Winternitz-malmok kiváló melegedőhely délután, mielőtt a szürkületben átvágná a kivilágított városon.",
+            "ro": "O tură de iarnă cu bicicleta prin Pardubice este revigorantă. Plecați bine îmbrăcați din Piața Pernštejn. Drumul spre castel este pe teren solid. La prânz, pedalarea spre hipodrom oferă vederi largi asupra peisajului înghețat. Morile Winternitz sunt o stație de încălzire binevenită, înainte de a traversa orașul luminat la crepuscul.",
+            "en": "A winter bike tour through Pardubice is refreshing. Bundle up and start at Pernštejn Square. The path to the castle is on solid ground. At noon, the ride to the Racecourse offers wide views of the frosty landscape. Winternitz Mills are a welcome warming station in the afternoon before you cross the illuminated city at dusk."
+          },
+          "stops": [
+            {
+              "name": "Pernštejn Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrorener Nässe in schattigen Ecken.",
+                "hu": "Vigyázzon a felfagyásokra az árnyékos sarkokban.",
+                "ro": "Atenție la gheața formată în colțurile umbrite.",
+                "en": "Watch out for black ice in shaded corners."
+              }
+            },
+            {
+              "name": "Green Gate",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad kurz ab, um die Aussicht zu genießen.",
+                "hu": "Hagyja ott a biciklit egy rövid időre a kilátásért.",
+                "ro": "Lăsați bicicleta pentru scurt timp pentru a vedea panorama.",
+                "en": "Leave your bike briefly to enjoy the view."
+              }
+            },
+            {
+              "name": "Pardubice Castle",
+              "tip_5lang": {
+                "de": "Der Schlossgraben ist im Winter oft schneebedeckt und ruhig.",
+                "hu": "A várárok télen gyakran havas és nagyon csendes.",
+                "ro": "Șanțul castelului este adesea înzăpezit și liniștit iarna.",
+                "en": "The castle moat is often snow-covered and quiet in winter."
+              }
+            },
+            {
+              "name": "Tyrš Gardens",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam; die Wege können bei Frost glatt sein.",
+                "hu": "Hajtson lassan; az utak fagyosak és csúszósak lehetnek.",
+                "ro": "Mergeți încet; aleile pot fi alunecoase în caz de îngheț.",
+                "en": "Ride slowly; the paths can be slippery during frost."
+              }
+            },
+            {
+              "name": "Winternitz Mills",
+              "tip_5lang": {
+                "de": "Die Innengalerien sind der perfekte Ort zum Aufwärmen.",
+                "hu": "A belső galériák tökéletesek a felmelegedéshez.",
+                "ro": "Galeriile interioare sunt locul perfect pentru încălzire.",
+                "en": "The indoor galleries are the perfect place to warm up."
+              }
+            },
+            {
+              "name": "Racecourse",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, hier weht oft ein kalter Wind.",
+                "hu": "Öltözzön melegen, itt gyakran fúj a hideg szél.",
+                "ro": "Îmbrăcați-vă bine, aici bate adesea un vânt rece.",
+                "en": "Dress warmly; a cold wind often blows here."
+              }
+            },
+            {
+              "name": "East Bohemian Theatre",
+              "tip_5lang": {
+                "de": "Das Licht der Straßenlaternen spiegelt sich im Schnee.",
+                "hu": "Az utcai lámpák fénye szépen megcsillan a havon.",
+                "ro": "Lumina felinarelor se reflectă frumos în zăpadă.",
+                "en": "The light from the streetlamps reflects beautifully in the snow."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Moment der Stille in der geheizten Kirche.",
+                "hu": "Egy rövid csendes pillanat a fűtött templomban.",
+                "ro": "Un scurt moment de liniște în biserica încălzită.",
+                "en": "A brief moment of silence in the heated church."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Handschuhe; die Finger kühlen am Lenker schnell aus.",
+              "Achten Sie auf Streusalz, es kann die Fahrradkette angreifen.",
+              "Der Windchill-Effekt ist auf dem Rad deutlich stärker als zu Fuß.",
+              "Überprüfen Sie den Reifendruck; etwas weniger Druck gibt mehr Grip auf Schnee.",
+              "Da es früh dunkel wird, ist eine funktionierende Beleuchtung Pflicht."
+            ],
+            "hu": [
+              "Viseljen termokesztyűt; az ujjak gyorsan kihűlnek a kormányon.",
+              "Ügyeljen az útszóró sóra, mert károsíthatja a láncot.",
+              "A szél hidegérzete sokkal erősebb biciklin, mint gyalog.",
+              "Ellenőrizze a guminyomást; a kicsit laposabb gumi jobban tapad a havon.",
+              "Mivel korán sötétedik, a működő világítás kötelező."
+            ],
+            "ro": [
+              "Purtați mănuși termice; degetele îngheață repede pe ghidon.",
+              "Atenție la sarea de pe drum, poate afecta lanțul bicicletei.",
+              "Efectul vântului este mult mai puternic pe bicicletă decât pe jos.",
+              "Verificați presiunea; anvelopele ușor mai moi au aderență mai bună pe zăpadă.",
+              "Deoarece se întunecă devreme, luminile funcționale sunt obligatorii."
+            ],
+            "en": [
+              "Wear thermal gloves; fingers cool down quickly on the handlebars.",
+              "Watch out for road salt, as it can damage your bike chain.",
+              "The wind chill effect is much stronger on a bike than on foot.",
+              "Check tire pressure; slightly lower pressure gives better grip on snow.",
+              "As it gets dark early, working lights are mandatory."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1025,6 +1459,196 @@
           "Traffic in the city center can be heavy, especially on weekdays.",
           "Plan your route in advance to avoid one-way streets in the historic center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Pardubice auch bei Regen komfortabel. Starten Sie an der Rennbahn, wo das Parken unkompliziert ist. Danach geht es zum Schlossparkplatz, von wo aus Sie schnell im Trockenen sind. Den Nachmittag verbringen Sie flexibel zwischen dem Pernštejn-Platz und den Winternitz-Mühlen, immer nur wenige Schritte vom Auto zum nächsten Indoor-Highlight entfernt.",
+            "hu": "Autóval esőben is kényelmesen felfedezheti Pardubicét. Kezdjen a lóversenypályánál, ahol a parkolás egyszerű. Ezután hajtson a vár melletti parkolóba, ahonnan gyorsan fedett helyre érhet. A délutánt töltse rugalmasan a Pernštejn tér és a Winternitz-malmok között; az autótól mindig csak pár lépés a következő benti látnivaló.",
+            "ro": "Cu mașina, puteți explora Pardubice confortabil chiar și pe ploaie. Începeți la hipodrom, unde parcarea este simplă. Apoi mergeți spre parcarea castelului, de unde ajungeți repede la adăpost. Petreceți după-amiaza flexibil între Piața Pernštejn și Morile Winternitz, fiind mereu la câțiva pași de următoarea atracție interioară.",
+            "en": "By car, you can explore Pardubice comfortably even in the rain. Start at the Racecourse, where parking is straightforward. Then head to the castle parking lot, from where you can quickly reach cover. Spend the afternoon flexibly between Pernštejn Square and Winternitz Mills, always just a few steps from your car to the next indoor highlight."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Racecourse",
+              "tip_5lang": {
+                "de": "Großer Parkplatz; ideal, um bei Regen direkt umzusteigen.",
+                "hu": "Tágas parkoló; ideális az esőben való gyors megálláshoz.",
+                "ro": "Parcare mare; ideală pentru a opri rapid pe ploaie.",
+                "en": "Large parking lot; ideal for a quick stop during rain."
+              }
+            },
+            {
+              "name": "Racecourse",
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man einen guten Blick auf das Gelände.",
+                "hu": "Az autóból is jó rálátás nyílik a pálya területére.",
+                "ro": "Din mașină aveți o vedere bună asupra terenului.",
+                "en": "You have a good view of the grounds from the car."
+              }
+            },
+            {
+              "name": "Parking at the Castle",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz, ideal für den Zugang zum Museum.",
+                "hu": "Központi parkoló, ideális a múzeum megközelítéséhez.",
+                "ro": "Parcare centrală, ideală pentru accesul la muzeu.",
+                "en": "Central parking lot, ideal for accessing the museum."
+              }
+            },
+            {
+              "name": "Pardubice Castle",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Sprint vom Parkplatz zum Schlosstor.",
+                "hu": "Csak egy rövid futás a parkolótól a várkapuig.",
+                "ro": "Doar o scurtă fugă de la parcare la poarta castelului.",
+                "en": "Just a short sprint from the parking lot to the castle gate."
+              }
+            },
+            {
+              "name": "Pernštejn Square & Green Gate",
+              "tip_5lang": {
+                "de": "Parkhäuser in der Nähe nutzen, um den Regen zu umgehen.",
+                "hu": "Használja a közeli parkolóházakat az eső elkerülésére.",
+                "ro": "Folosiți parcările etajate din apropiere pentru a evita ploaia.",
+                "en": "Use nearby parking garages to avoid the rain."
+              }
+            },
+            {
+              "name": "Winternitz Mills",
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor; der Besuch ist komplett indoor möglich.",
+                "hu": "Parkoljon közvetlenül előtte; a látogatás teljesen fedett.",
+                "ro": "Parcați chiar în față; vizita este complet în interior.",
+                "en": "Park right in front; the visit can be done entirely indoors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkplatzsuche am Pernštejn-Platz kann bei Regen stressig sein; nutzen Sie Parkhäuser.",
+              "Achten Sie auf beschlagene Scheiben; die Klimaanlage hilft beim Entfeuchten.",
+              "Ein Regenschirm im Auto ist für die kurzen Wege zum Eingang unverzichtbar.",
+              "Die Straßen können in der Nähe der Rennbahn bei starkem Regen Pfützen bilden.",
+              "Viele Cafés in der Altstadt sind nur wenige Gehminuten von Parkzonen entfernt."
+            ],
+            "hu": [
+              "A parkolóhely-keresés a Pernštejn térnél nehéz lehet esőben; válassza a parkolóházakat.",
+              "Ügyeljen a párásodó ablakokra; a légkondicionáló segít a páramentesítésben.",
+              "Egy esernyő az autóban nélkülözhetetlen a bejáratig tartó rövid utakhoz.",
+              "A lóversenypálya környéki utakon nagy tócsák alakulhatnak ki heves esőzéskor.",
+              "Az óváros kávézói pár perc sétára vannak a parkolózónáktól."
+            ],
+            "ro": [
+              "Căutarea unui loc de parcare lângă Piața Pernštejn poate fi grea; folosiți parcările etajate.",
+              "Atenție la geamurile aburite; aerul condiționat ajută la dezaburire.",
+              "O umbrelă în mașină este indispensabilă pentru drumurile scurte până la intrare.",
+              "Drumurile din apropierea hipodromului pot avea bălți mari la ploi torențiale.",
+              "Multe cafenele din orașul vechi sunt la câteva minute de mers de zonele de parcare."
+            ],
+            "en": [
+              "Finding a parking spot near Pernštejn Square can be tricky in the rain; use parking garages.",
+              "Watch out for fogged windows; the air conditioning helps with dehumidifying.",
+              "An umbrella in the car is essential for the short walks to entrances.",
+              "Roads near the Racecourse can form large puddles during heavy rain.",
+              "Many cafes in the old town are just a few minutes' walk from parking zones."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Pardubice im Winter bequem vom geheizten Auto aus. Starten Sie an der Rennbahn und bewundern Sie das frostige Gelände. Die Fahrt zum Schloss ist kurz und führt direkt zum Parkplatz am Eingang. Den Nachmittag verbringen Sie in der festlich geschmückten Altstadt und den modernen Winternitz-Mühlen, wo Sie sich zwischendurch immer wieder im Auto aufwärmen können.",
+            "hu": "Élvezze a téli Pardubicét kényelmesen a fűtött autóból. Kezdjen a lóversenypályánál, és csodálja meg a fagyos tájat. A várba vezető út rövid, és közvetlenül a bejárati parkolóhoz visz. A délutánt töltse az ünnepi díszbe öltözött óvárosban és a modern Winternitz-malmoknál, közben pedig bármikor felmelegedhet az autóban.",
+            "ro": "Bucurați-vă de Pardubice iarna, din confortul mașinii încălzite. Începeți la hipodrom și admirați terenul înghețat. Drumul spre castel este scurt și duce direct la parcarea de la intrare. Petreceți după-amiaza în orașul vechi decorat festiv și la Morile Winternitz, încălzindu-vă în mașină între opriri.",
+            "en": "Enjoy winter in Pardubice from the comfort of your heated car. Start at the Racecourse and admire the frosty grounds. The drive to the castle is short and leads directly to the parking lot at the entrance. Spend the afternoon in the festively decorated old town and the modern Winternitz Mills, warming up in the car between stops."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Racecourse",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisglätte auf dem unbefestigten Teil des Parkplatzes.",
+                "hu": "Vigyázzon a jegesedésre a parkoló nem aszfaltozott részein.",
+                "ro": "Atenție la porțiunile cu gheață din partea neasfaltată a parcării.",
+                "en": "Watch out for icy patches on the unpaved parts of the parking lot."
+              }
+            },
+            {
+              "name": "Racecourse",
+              "tip_5lang": {
+                "de": "Das Gelände wirkt im Winter weit und oft geheimnisvoll im Nebel.",
+                "hu": "A pálya télen tágasnak és gyakran titokzatosnak tűnik a ködben.",
+                "ro": "Terenul pare vast și adesea misterios în ceață pe timp de iarnă.",
+                "en": "The grounds look vast and often mysterious in the winter fog."
+              }
+            },
+            {
+              "name": "Parking at the Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplatz-App, um Kälte am Automaten zu vermeiden.",
+                "hu": "Használja a parkolóalkalmazást, hogy ne kelljen a hidegben automatázni.",
+                "ro": "Folosiți aplicația de parcare pentru a evita frigul de la automat.",
+                "en": "Use a parking app to avoid standing in the cold at the machine."
+              }
+            },
+            {
+              "name": "Pardubice Castle",
+              "tip_5lang": {
+                "de": "Die Burgmauern schützen ein wenig vor dem kalten Wind.",
+                "hu": "A várfalak némileg védelmet nyújtanak a hideg szél ellen.",
+                "ro": "Zidurile castelului oferă puțină protecție împotriva vântului rece.",
+                "en": "The castle walls provide some protection from the cold wind."
+              }
+            },
+            {
+              "name": "Pernštejn Square & Green Gate",
+              "tip_5lang": {
+                "de": "Das Parken im Parkhaus 'Grand' ist nur ein paar Schritte entfernt.",
+                "hu": "A 'Grand' parkolóház csak pár lépésnyire van.",
+                "ro": "Parcarea în clădirea 'Grand' este la doar câțiva pași distanță.",
+                "en": "Parking in the 'Grand' garage is just a few steps away."
+              }
+            },
+            {
+              "name": "Winternitz Mills",
+              "tip_5lang": {
+                "de": "Ein moderner Ort, der im Winter besonders einladend strahlt.",
+                "hu": "Modern helyszín, amely télen különösen hívogatóan világít.",
+                "ro": "Un loc modern care strălucește primitor pe timp de iarnă.",
+                "en": "A modern venue that glows invitingly in the winter darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Straßenglätte, besonders auf den Brücken über die Elbe.",
+              "Die Parkhäuser sind im Winter angenehmer als offene Parkplätze.",
+              "Halten Sie Enteiser-Spray und einen Eiskratzer griffbereit.",
+              "Die Batterieleistung kann bei extremer Kälte nachlassen; prüfen Sie diese vorher.",
+              "Nutzen Sie die Sitzheizung für maximalen Komfort zwischen den Besichtigungen."
+            ],
+            "hu": [
+              "Ügyeljen az utak jegesedésére, különösen az Elba feletti hidakon.",
+              "A parkolóházak télen kellemesebbek, mint a nyitott parkolók.",
+              "Tartson jégoldó spray-t és jégkaparót az autóban.",
+              "Extrém hidegben az akkumulátor teljesítménye csökkenhet; ellenőrizze előre.",
+              "Használja az ülésfűtést a maximális kényelemért a látnivalók között."
+            ],
+            "ro": [
+              "Atenție la polei, în special pe podurile peste râul Elba.",
+              "Parcările etajate sunt mai plăcute iarna decât cele deschise.",
+              "Păstrați spray de dezghețare și o răzuitoare de gheață la îndemână.",
+              "Performanța bateriei poate scădea la ger; verificați-o înainte.",
+              "Folosiți încălzirea în scaune pentru confort maxim între vizite."
+            ],
+            "en": [
+              "Watch out for icy roads, especially on bridges over the Elbe.",
+              "Parking garages are more comfortable than open lots in winter.",
+              "Keep de-icer spray and an ice scraper handy in the car.",
+              "Battery performance can drop in extreme cold; check it beforehand.",
+              "Use seat heating for maximum comfort between sightseeing stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1363,6 +1987,214 @@
           "Download the official app for timetables and route planning.",
           "Note that buses and trolleybuses are the main form of transport."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das dichte Busnetz von Pardubice, um im Regen mobil zu bleiben. Starten Sie an der Třída Míru und erreichen Sie schnell das Grüne Tor. Der Bus bringt Sie fast bis vor das Schlosstor. Nachmittags fahren Sie trocken zu den Winternitz-Mühlen und später zur Rennbahn. Die Wartezeiten an den überdachten Haltestellen sind kurz, sodass Sie kaum nass werden.",
+            "hu": "Használja Pardubice sűrű autóbuszhálózatát, hogy esőben is mozgásban maradjon. Kezdjen a Třída Míru megállónál, ahonnan gyorsan elérheti a Zöld kaput. A busz majdnem a várkapuig viszi. Délután utazzon szárazon a Winternitz-malmokhoz, majd később a lóversenypályához. A fedett megállókban a várakozási idő rövid, így alig éri majd víz.",
+            "ro": "Folosiți rețeaua densă de autobuze din Pardubice pentru a rămâne mobil pe ploaie. Începeți la stația Třída Míru și ajungeți rapid la Poarta Verde. Autobuzul vă lasă aproape de poarta castelului. După-amiaza, mergeți la Morile Winternitz și apoi la hipodrom. Timpul de așteptare în stațiile acoperite este scurt, deci nu vă veți uda.",
+            "en": "Use Pardubice's dense bus network to stay mobile in the rain. Start at the Třída Míru stop and quickly reach the Green Gate. The bus takes you almost to the castle gate. In the afternoon, travel dry to Winternitz Mills and later to the Racecourse. Waiting times at covered stops are short, so you'll stay mostly dry."
+          },
+          "stops": [
+            {
+              "name": "Třída Míru Stop",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle mit gutem Regenschutz durch die umliegenden Gebäude.",
+                "hu": "Központi megálló, a környező épületek jó védelmet nyújtanak az eső ellen.",
+                "ro": "Stație centrală cu protecție bună împotriva ploii datorită clădirilor.",
+                "en": "Central stop with good rain protection from the surrounding buildings."
+              }
+            },
+            {
+              "name": "Green Gate & Pernštejn Square",
+              "tip_5lang": {
+                "de": "Kurze Wege zu den Arkaden des Platzes, sobald Sie aussteigen.",
+                "hu": "Rövid séta a tér árkádjaihoz, amint leszáll a buszról.",
+                "ro": "Drum scurt până la arcadele pieței imediat ce coborâți.",
+                "en": "Short walk to the square's arcades as soon as you get off the bus."
+              }
+            },
+            {
+              "name": "Pardubice Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Linien 8 oder 88 für den direkten Weg zum Schloss.",
+                "hu": "Használja a 8-as vagy 88-as vonalat a várhoz való kijutáshoz.",
+                "ro": "Folosiți liniile 8 sau 88 pentru a ajunge direct la castel.",
+                "en": "Use lines 8 or 88 for a direct route to the castle."
+              }
+            },
+            {
+              "name": "Automatické mlýny Stop",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur einen Katzensprung von den Mühlen entfernt.",
+                "hu": "A megálló csak egy ugrásra van a malmoktól.",
+                "ro": "Stația este la doar un pas de mori.",
+                "en": "The stop is just a stone's throw from the mills."
+              }
+            },
+            {
+              "name": "Winternitz Mills",
+              "tip_5lang": {
+                "de": "Ideal für regnerische Nachmittage mit viel Kultur im Inneren.",
+                "hu": "Ideális esős délutánokra, sok benti kulturális programmal.",
+                "ro": "Ideal pentru după-amiezi ploioase cu multă cultură la interior.",
+                "en": "Ideal for rainy afternoons with plenty of indoor culture."
+              }
+            },
+            {
+              "name": "Závodiště Stop",
+              "tip_5lang": {
+                "de": "Überdachte Haltestelle direkt vor dem Eingang der Rennbahn.",
+                "hu": "Fedett megálló közvetlenül a lóversenypálya bejárata előtt.",
+                "ro": "Stație acoperită chiar în fața intrării la hipodrom.",
+                "en": "Covered stop right in front of the Racecourse entrance."
+              }
+            },
+            {
+              "name": "Racecourse",
+              "tip_5lang": {
+                "de": "Die Tribünen bieten bei einem plötzlichen Schauer guten Schutz.",
+                "hu": "A lelátók jó védelmet nyújtanak egy hirtelen zápor esetén.",
+                "ro": "Tribunele oferă protecție bună în caz de aversă bruscă.",
+                "en": "The grandstands provide good protection during a sudden shower."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets kontaktlos direkt im Bus mit Ihrer Bankkarte.",
+              "Die App 'DPMP' zeigt Abfahrten in Echtzeit an – ideal bei Regen.",
+              "Die meisten Haltestellen im Zentrum sind überdacht.",
+              "Die Busse sind gut klimatisiert und halten Sie während der Fahrt trocken.",
+              "Achten Sie auf die Ansagen im Bus, um keine Haltestelle zu verpassen."
+            ],
+            "hu": [
+              "Vásároljon jegyet érintésmentesen a buszon bankkártyával.",
+              "A 'DPMP' alkalmazás valós idejű indulásokat mutat – hasznos az esőben.",
+              "A legtöbb központi megálló fedett.",
+              "A buszok jól fűtöttek/légkondicionáltak, így szárazon utazhat.",
+              "Figyelje a bemondásokat a buszon, hogy ne mulassza el a megállót."
+            ],
+            "ro": [
+              "Cumpărați bilete contactless direct în autobuz cu cardul bancar.",
+              "Aplicația 'DPMP' arată plecările în timp real – util pe ploaie.",
+              "Majoritatea stațiilor din centru sunt acoperite.",
+              "Autobuzele sunt bine climatizate și vă mențin uscat în timpul călătoriei.",
+              "Fiți atenți la anunțurile din autobuz pentru a nu rata stația."
+            ],
+            "en": [
+              "Buy tickets contactless directly on the bus using your bank card.",
+              "The 'DPMP' app shows real-time departures – very useful in the rain.",
+              "Most central bus stops are covered.",
+              "Buses are well air-conditioned and keep you dry during the ride.",
+              "Listen to the announcements on the bus so you don't miss your stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie das winterliche Pardubice stressfrei mit dem öffentlichen Nahverkehr. Die geheizten Busse bringen Sie vom Zentrum direkt zum Schloss und später zu den Winternitz-Mühlen. Ein Ausflug zur frostigen Rennbahn ist dank der guten Anbindung unkompliziert. Genießen Sie die Aussicht auf die schneebedeckte Stadt durch das Busfenster, bevor Sie in die gemütliche Altstadt zurückkehren.",
+            "hu": "Fedezze fel a téli Pardubicét stresszmentesen a tömegközlekedéssel. A fűtött buszok a központból közvetlenül a várhoz, majd a Winternitz-malmokhoz viszik. A lóversenypályához tett kirándulás a jó összeköttetésnek köszönhetően egyszerű. Élvezze a havas város látványát a buszablakból, mielőtt visszatérne a hangulatos óvárosba.",
+            "ro": "Descoperiți Pardubice iarna fără stres, folosind transportul public. Autobuzele încălzite vă duc din centru direct la castel și apoi la Morile Winternitz. O excursie la hipodromul înghețat este simplă datorită conexiunilor bune. Admirați orașul înzăpezit prin fereastra autobuzului înainte de a reveni în centrul istoric.",
+            "en": "Discover winter in Pardubice stress-free using public transit. Heated buses take you from the center directly to the castle and later to Winternitz Mills. A trip to the frosty Racecourse is easy thanks to good connections. Enjoy the view of the snowy city through the bus window before returning to the cozy old town."
+          },
+          "stops": [
+            {
+              "name": "Třída Míru Stop",
+              "tip_5lang": {
+                "de": "Zentrale Drehscheibe; viele Cafés zum Aufwärmen in unmittelbarer Nähe.",
+                "hu": "Központi csomópont; sok kávézó található a közelben melegedéshez.",
+                "ro": "Nod central; multe cafenele pentru încălzire în imediata apropiere.",
+                "en": "Central hub; many cafes nearby for warming up."
+              }
+            },
+            {
+              "name": "Green Gate & Pernštejn Square",
+              "tip_5lang": {
+                "de": "Ein kurzer, kalter Spaziergang führt Sie direkt in die historische Pracht.",
+                "hu": "Egy rövid, hideg séta után máris a történelmi pompában találja magát.",
+                "ro": "O scurtă plimbare în frig vă duce direct în splendoarea istorică.",
+                "en": "A short, cold walk leads you directly into historical splendor."
+              }
+            },
+            {
+              "name": "Pardubice Castle",
+              "tip_5lang": {
+                "de": "Der Bus hält nah am Eingang, so sparen Sie sich lange Wege in der Kälte.",
+                "hu": "A busz közel áll meg a bejárathoz, így megspórolja a hidegben gyaloglást.",
+                "ro": "Autobuzul oprește aproape de intrare, evitând mersul lung prin frig.",
+                "en": "The bus stops near the entrance, saving you a long walk in the cold."
+              }
+            },
+            {
+              "name": "Automatické mlýny Stop",
+              "tip_5lang": {
+                "de": "Die Mühlen sind weithin sichtbar und in wenigen Minuten erreicht.",
+                "hu": "A malmok messziről látszanak, pár perc alatt elérhetőek.",
+                "ro": "Morile sunt vizibile de departe și se ajunge la ele în câteva minute.",
+                "en": "The mills are visible from afar and reached within a few minutes."
+              }
+            },
+            {
+              "name": "Winternitz Mills",
+              "tip_5lang": {
+                "de": "Im Winter ist die moderne Beleuchtung der Mühlen besonders sehenswert.",
+                "hu": "Télen a malmok modern kivilágítása különösen szép látvány.",
+                "ro": "Iarna, iluminarea modernă a morilor este deosebit de frumoasă.",
+                "en": "In winter, the modern lighting of the mills is especially worth seeing."
+              }
+            },
+            {
+              "name": "Závodiště Stop",
+              "tip_5lang": {
+                "de": "Die Haltestelle bietet Schutz vor dem oft beißenden Winterwind.",
+                "hu": "A megálló védelmet nyújt a gyakran metsző téli szél ellen.",
+                "ro": "Stația oferă protecție împotriva vântului tăios de iarnă.",
+                "en": "The stop provides protection from the often biting winter wind."
+              }
+            },
+            {
+              "name": "Racecourse",
+              "tip_5lang": {
+                "de": "Das Gelände ist weitläufig; bleiben Sie auf den geräumten Hauptwegen.",
+                "hu": "A terület tágas; maradjon a letakarított főutakon.",
+                "ro": "Terenul este vast; rămâneți pe căile principale curățate.",
+                "en": "The grounds are vast; stay on the cleared main paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In den Bussen ist es angenehm warm; ideal für kurze Pausen zwischen Stopps.",
+              "Achten Sie auf die Winterfahrpläne, besonders an Feiertagen.",
+              "Der Boden an den Haltestellen kann vereist sein; Vorsicht beim Einsteigen.",
+              "Nutzen Sie die App, um Wartezeiten in der Kälte zu minimieren.",
+              "Ein kleiner Snack (Lebkuchen) verkürzt das Warten auf den nächsten Bus."
+            ],
+            "hu": [
+              "A buszokon kellemes meleg van; ideális rövid pihenőkre a megállók között.",
+              "Ügyeljen a téli menetrendre, különösen ünnepnapokon.",
+              "A megállókban a talaj jeges lehet; vigyázzon a felszálláskor.",
+              "Használja az alkalmazást, hogy minimalizálja a hidegben való várakozást.",
+              "Egy kis mézeskalács segít elütni az időt a következő buszig."
+            ],
+            "ro": [
+              "În autobuze este plăcut și cald; ideal pentru pauze între opriri.",
+              "Fiți atenți la orarul de iarnă, în special de sărbători.",
+              "Podeaua în stații poate fi înghețată; atenție la urcare.",
+              "Folosiți aplicația pentru a minimiza așteptarea în frig.",
+              "O mică gustare (turtă dulce) face așteptarea autobuzului mai ușoară."
+            ],
+            "en": [
+              "Buses are comfortably warm; ideal for short breaks between stops.",
+              "Pay attention to winter schedules, especially during holidays.",
+              "The ground at bus stops can be icy; be careful when boarding.",
+              "Use the app to minimize waiting time in the cold.",
+              "A small snack (gingerbread) makes waiting for the next bus easier."
+            ]
+          }
+        }
       }
     }
   }

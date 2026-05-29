@@ -322,6 +322,188 @@
           "Most sights in the city center are within easy walking distance.",
           "Check museum opening times in advance as they can vary seasonally."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Hallein beginnt unter Regenschirmen am Bayrhamerplatz, wo die bunten Fassaden auch im Grau leuchten. Mittags bietet das Keltenmuseum einen gewaltigen, trockenen Rückzugsort voller Geschichte. Nachmittags spazieren wir kurz zur Stadtmauer, bevor wir die Wärme des Stille-Nacht-Museums genießen. Der Abend klingt gemütlich in einer der traditionellen Gaststätten der Altstadt aus.",
+            "hu": "Hallein reggel esernyők alatt ébred a Bayrhamerplatzon, ahol a színes homlokzatok szürkületben is ragyognak. Délben a Kelta Múzeum nyújt hatalmas, száraz menedéket a történelem kedvelőinek. Délután egy rövid séta következik a városfal mentén, majd a Csendes Éj Múzeum melegében pihenünk meg. Az estét a történelmi óváros egyik hangulatos vendéglőjében, helyi specialitások mellett zárjuk.",
+            "ro": "Dimineața în Hallein începe sub umbrele în Bayrhamerplatz, unde fațadele colorate strălucesc chiar și pe gri. La prânz, Muzeul Celtic oferă un refugiu vast și uscat, plin de istorie. După-amiaza, ne plimbăm scurt pe lângă zidul orașului înainte de a ne bucura de căldura Muzeului Silent Night. Seara se încheie confortabil într-una dintre tavernele tradiționale din centrul istoric.",
+            "en": "Morning in Hallein begins under umbrellas at Bayrhamerplatz, where colorful facades shine even in the grey. At noon, the Celtic Museum provides a massive, dry sanctuary filled with history. Afternoon includes a quick stroll by the city wall before enjoying the warmth of the Silent Night Museum. The evening concludes cozily in one of the old town's traditional inns with local food."
+          },
+          "stops": [
+            {
+              "name": "Bayrhamerplatz",
+              "tip_5lang": {
+                "de": "Nutzen Sie die tiefen Torbögen der alten Bürgerhäuser als natürlichen Regenschutz.",
+                "hu": "Használja a régi polgárházak mély boltíveit természetes esővédőként.",
+                "ro": "Folosiți arcadele adânci ale caselor vechi ca adăpost natural împotriva ploii.",
+                "en": "Use the deep archways of the old townhouses as natural rain shelter."
+              }
+            },
+            {
+              "name": "Hallein Parish Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine Pause, während draußen der Salzburger Schnürlregen fällt.",
+                "hu": "Csendes hely egy rövid pihenőre, miközben kint esik a salzburgi eső.",
+                "ro": "Un loc liniștit pentru o pauză în timp ce afară plouă mărunt.",
+                "en": "A quiet place for a break while the Salzburg 'Schnürlregen' falls outside."
+              }
+            },
+            {
+              "name": "Silent Night Square & Gruber Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist klein und gemütlich – ideal, um dem Regen für eine Stunde zu entfliehen.",
+                "hu": "A múzeum kicsi és hangulatos – ideális, hogy egy órára elmeneküljünk az eső elől.",
+                "ro": "Muzeul este mic și primitor – ideal pentru a scăpa de ploaie timp de o oră.",
+                "en": "The museum is small and cozy – ideal for escaping the rain for an hour."
+              }
+            },
+            {
+              "name": "Celtic Museum Hallein",
+              "tip_5lang": {
+                "de": "Eines der größten Museen für keltische Geschichte; hier bleiben Sie garantiert trocken.",
+                "hu": "Az egyik legnagyobb kelta múzeum; itt garantáltan szárazon marad a látogatás alatt.",
+                "ro": "Unul dintre cele mai mari muzee celtice; aici veți rămâne cu siguranță uscați.",
+                "en": "One of the largest Celtic museums; you are guaranteed to stay dry here."
+              }
+            },
+            {
+              "name": "Walk along the City Wall",
+              "tip_5lang": {
+                "de": "Vorsicht, das Kopfsteinpflaster kann bei Nässe rutschig sein. Festes Schuhwerk empfohlen.",
+                "hu": "Vigyázat, a macskakő vizesen csúszós lehet. Stabil lábbeli ajánlott.",
+                "ro": "Atenție, pavajul poate fi alunecos când este ud. Se recomandă încălțăminte stabilă.",
+                "en": "Caution, the cobblestones can be slippery when wet. Sturdy footwear recommended."
+              }
+            },
+            {
+              "name": "Perner Island",
+              "tip_5lang": {
+                "de": "Die Brücken zur Insel bieten oft einen kurzen Unterstand bei plötzlichen Schauern.",
+                "hu": "A szigetre vezető hidak gyakran nyújtanak rövid menedéket a hirtelen záporok elől.",
+                "ro": "Podurile spre insulă oferă adesea un scurt adăpost în caz de averse bruște.",
+                "en": "The bridges to the island often offer a short shelter from sudden showers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Hallein ist bekannt für den Schnürlregen; ein hochwertiger Regenschirm ist Pflicht.",
+              "Das Keltenmuseum ist die perfekte 'Schlechtwetter-Basis' für mindestens 2 Stunden.",
+              "Viele Cafés in der Altstadt haben überdachte Außenbereiche oder gemütliche Nischen.",
+              "Die Gehwege in der Altstadt sind oft eng, achten Sie auf Pfützen am Straßenrand."
+            ],
+            "hu": [
+              "Hallein híres a 'zsinóresőről'; egy jó minőségű esernyő kötelező kellék.",
+              "A Kelta Múzeum a tökéletes bázis rossz idő esetén, legalább 2 órát rá lehet szánni.",
+              "Sok óvárosi kávézó rendelkezik fedett terasszal vagy barátságos belső fülkékkel.",
+              "Az óvárosi járdák gyakran szűkek, ügyeljen az útmenti tócsákra."
+            ],
+            "ro": [
+              "Hallein este renumit pentru ploaia măruntă; o umbrelă de calitate este obligatorie.",
+              "Muzeul Celtic este baza perfectă pentru vreme rea, alocați-vă cel puțin 2 ore.",
+              "Multe cafenele din orașul vechi au zone exterioare acoperite sau nișe primitoare.",
+              "Trotuarele din centrul vechi sunt adesea înguste, atenție la bălțile de la marginea drumului."
+            ],
+            "en": [
+              "Hallein is famous for its misty rain; a high-quality umbrella is a must-have.",
+              "The Celtic Museum is the perfect 'bad weather base' for at least 2 hours.",
+              "Many cafes in the old town have covered outdoor areas or cozy indoor niches.",
+              "Sidewalks in the old town are often narrow; watch out for puddles near the road."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Salzach-Luft weht frisch durch die Gassen von Hallein. Morgens glitzert der Frost auf dem Bayrhamerplatz, während wir uns im Keltenmuseum aufwärmen. Mittags genießen wir die Stille am Stille-Nacht-Platz, bevor die frühe Dämmerung die Stadtmauer in goldenes Licht taucht. Den Abend verbringen wir bei wärmendem Punsch oder Tee in der weihnachtlich beleuchteten Altstadt.",
+            "hu": "A téli Salzach-parti levegő frissen fúj át Hallein szűk utcáin. Reggel dér csillog a Bayrhamerplatzon, miközben mi a Kelta Múzeumban melegszünk fel. Délben élvezzük a csendet a Csendes Éj téren, mielőtt a korai szürkület arany fénybe vonná a városfalat. Az estét melengető puncs vagy tea mellett töltjük a karácsonyi fényekben úszó óvárosban.",
+            "ro": "Aerul de iarnă de pe Salzach suflă proaspăt prin străzile din Hallein. Dimineața, bruma sclipeste în Bayrhamerplatz în timp ce ne încălzim în Muzeul Celtic. La prânz, ne bucurăm de liniștea din Piața Silent Night înainte ca amurgul timpuriu să scalde zidul orașului în lumină aurie. Seara o petrecem cu un punci cald sau ceai în centrul vechi luminat festiv.",
+            "en": "The wintry Salzach air blows freshly through the alleys of Hallein. In the morning, frost glistens on Bayrhamerplatz while we warm up in the Celtic Museum. At noon, we enjoy the silence at Silent Night Square before the early twilight bathes the city wall in golden light. We spend the evening with warming punch or tea in the festively lit old town."
+          },
+          "stops": [
+            {
+              "name": "Bayrhamerplatz",
+              "tip_5lang": {
+                "de": "Genießen Sie die festliche Beleuchtung, die den Platz am Nachmittag besonders magisch macht.",
+                "hu": "Élvezze az ünnepi kivilágítást, amely délután különösen varázslatossá teszi a teret.",
+                "ro": "Bucurați-vă de iluminatul festiv, care face piața deosebit de magică după-amiaza.",
+                "en": "Enjoy the festive lighting, which makes the square especially magical in the afternoon."
+              }
+            },
+            {
+              "name": "Hallein Parish Church",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für Besinnung; achten Sie auf die Krippenausstellungen in der Weihnachtszeit.",
+                "hu": "Meleg hely az elmélyüléshez; keresse a betlehemi kiállításokat karácsony idején.",
+                "ro": "Un loc cald pentru reflecție; căutați expozițiile de iesle în timpul Crăciunului.",
+                "en": "A warm place for reflection; look out for Nativity scenes during the Christmas season."
+              }
+            },
+            {
+              "name": "Silent Night Square & Gruber Museum",
+              "tip_5lang": {
+                "de": "Im Winter besonders stimmungsvoll, da hier das berühmte Weihnachtslied entstand.",
+                "hu": "Télen különösen hangulatos, hiszen itt született a híres karácsonyi ének.",
+                "ro": "Deosebit de atmosferic iarna, deoarece aici a luat naștere celebrul colind de Crăciun.",
+                "en": "Especially atmospheric in winter, as the famous Christmas carol originated here."
+              }
+            },
+            {
+              "name": "Celtic Museum Hallein",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für schwere Winterjacken, um das Museum entspannt zu erkunden.",
+                "hu": "Használja a ruhatárat a nehéz télikabátokhoz, hogy kényelmesen járhassa be a múzeumot.",
+                "ro": "Folosiți garderoba pentru haine groase de iarnă pentru a explora muzeul relaxat.",
+                "en": "Use the cloakroom for heavy winter coats to explore the museum comfortably."
+              }
+            },
+            {
+              "name": "Walk along the City Wall",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Treppenaufgängen zur Stadtmauer.",
+                "hu": "Ügyeljen a jegesedésre a városfalhoz vezető lépcsőkön.",
+                "ro": "Atenție la gheața de pe scările care duc spre zidul orașului.",
+                "en": "Watch out for black ice on the stairs leading up to the city wall."
+              }
+            },
+            {
+              "name": "Perner Island",
+              "tip_5lang": {
+                "de": "Die Insel ist im Winter oft windig; ziehen Sie sich für den Spaziergang warm an.",
+                "hu": "A sziget télen gyakran szeles; öltözzön melegen a sétához.",
+                "ro": "Insula este adesea vântoasă iarna; îmbrăcați-vă gros pentru plimbare.",
+                "en": "The island is often windy in winter; dress warmly for the walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter; planen Sie Außenstopps früh.",
+              "Suchen Sie nach kleinen Weihnachtsmärkten, die oft auf den Plätzen der Altstadt stattfinden.",
+              "Die Kombination aus Flussnähe und Bergen macht die Luft in Hallein im Winter sehr feucht-kalt.",
+              "Museen sind die besten Orte, um sich zwischendurch aufzuwärmen."
+            ],
+            "hu": [
+              "A nap télen már 16:30 körül lemegy; a szabadtéri megállókat tervezze korábbra.",
+              "Keresse a kis karácsonyi vásárokat, amelyeket gyakran az óváros terein tartanak.",
+              "A folyó és a hegyek közelsége miatt a levegő Halleinben télen nagyon nyirkos és hideg.",
+              "A múzeumok a legjobb helyek arra, hogy két séta között felmelegedjen."
+            ],
+            "ro": [
+              "Soarele apune deja în jur de ora 16:30 iarna; planificați opririle exterioare devreme.",
+              "Căutați micile piețe de Crăciun care au loc adesea în piețele din centrul vechi.",
+              "Combinația dintre râu și munți face aerul din Hallein foarte umed și rece iarna.",
+              "Muzeele sunt cele mai bune locuri pentru a vă încălzi între activități."
+            ],
+            "en": [
+              "Sunset is around 4:30 PM in winter; plan your outdoor stops early in the day.",
+              "Look for small Christmas markets often held in the squares of the old town.",
+              "The proximity to the river and mountains makes the winter air in Hallein very damp and cold.",
+              "Museums are the best places to warm up between walks."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -622,6 +804,188 @@
           "Some paths, especially towards the Salzberg, can be steep. An e-bike might be a good option.",
           "Always lock your bike securely, especially in busy places."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist die Tour entlang der Salzach ein Erlebnis, wenn man die richtige Kleidung trägt. Morgens radeln wir zügig zu den Museen, die trockenen Schutz bieten. Mittags nutzen wir die Pausen im Keltenmuseum, um die Räder sicher abzustellen. Nachmittags geht es entlang des Flusses, wo der Regen eine mystische Stimmung erzeugt, bevor wir den Tag in der Altstadt beenden.",
+            "hu": "Az eső ellenére a Salzach menti túra élmény marad, ha megfelelő ruházatot viselünk. Reggel gyorsan tekerünk a múzeumok felé, amelyek száraz menedéket nyújtanak. Délben a Kelta Múzeumnál tartott szünetet használjuk a kerékpárok biztonságos leállítására. Délután a folyó mentén tekerünk, ahol az eső misztikus hangulatot áraszt, majd az óvárosban zárjuk a napot.",
+            "ro": "În ciuda ploii, turul de-a lungul Salzach este o experiență dacă purtați hainele potrivite. Dimineața pedalăm rapid spre muzee, care oferă protecție uscată. La prânz, folosim pauzele de la Muzeul Celtic pentru a lăsa bicicletele în siguranță. După-amiaza mergem de-a lungul râului, unde ploaia creează o atmosferă mistică, înainte de a încheia ziua în orașul vechi.",
+            "en": "Despite the rain, the tour along the Salzach is an experience with the right gear. In the morning, we cycle quickly to the museums offering dry protection. At noon, we use the break at the Celtic Museum to park the bikes safely. In the afternoon, we head along the river where the rain creates a mystic atmosphere before ending the day in the old town."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Modell mit guten Schutzblechen, um Spritzwasser zu vermeiden.",
+                "hu": "Kérjen jó sárvédővel felszerelt modellt a felfröccsenő víz elkerülése érdekében.",
+                "ro": "Cereți un model cu apărători bune pentru a evita stropirea cu apă.",
+                "en": "Ask for a model with good mudguards to avoid water splashes."
+              }
+            },
+            {
+              "name": "Silent Night Square & Gruber Museum",
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad unter dem Dachvorsprung, falls möglich.",
+                "hu": "Ha lehetséges, rögzítse a kerékpárt az ereszkedő tető alatt.",
+                "ro": "Asigurați-vă bicicleta sub streașină, dacă este posibil.",
+                "en": "Secure your bike under the roof overhang if possible."
+              }
+            },
+            {
+              "name": "Celtic Museum Hallein",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Fahrradständer direkt am Museumseingang.",
+                "hu": "Használja a múzeum bejáratánál található fedett kerékpártárolókat.",
+                "ro": "Folosiți suporturile de biciclete acoperite direct de la intrarea în muzeu.",
+                "en": "Use the covered bike racks located directly at the museum entrance."
+              }
+            },
+            {
+              "name": "Perner Island",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Brückenbelägen, diese können bei Regen sehr rutschig sein.",
+                "hu": "Vigyázat a hidak burkolatán, ezek esőben nagyon csúszósak lehetnak.",
+                "ro": "Atenție pe suprafața podurilor, acestea pot fi foarte alunecoase pe ploaie.",
+                "en": "Be careful on the bridge surfaces, they can be very slippery in the rain."
+              }
+            },
+            {
+              "name": "Along the Salzach River",
+              "tip_5lang": {
+                "de": "Der Radweg ist gut asphaltiert, aber achten Sie auf Pfützen in Senken.",
+                "hu": "A kerékpárút jól aszfaltozott, de ügyeljen a mélyedésekben megálló tócsákra.",
+                "ro": "Pista de biciclete este bine asfaltată, dar atenție la bălțile din zonele joase.",
+                "en": "The bike path is well paved, but watch out for puddles in low spots."
+              }
+            },
+            {
+              "name": "Bike Return & Old Town Stroll",
+              "tip_5lang": {
+                "de": "Wischen Sie den Sattel vor der Rückgabe kurz trocken.",
+                "hu": "Visszaadás előtt rövid időre törölje szárazra a nyerget.",
+                "ro": "Ștergeți șaua înainte de a returna bicicleta.",
+                "en": "Wipe the saddle dry briefly before returning the bike."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie abruptes Bremsen auf nassem Kopfsteinpflaster in der Altstadt.",
+              "Ein einfacher Regenponcho ist oft praktischer als eine Jacke beim Radfahren.",
+              "Beleuchtung am Rad ist bei Regen auch tagsüber für die Sichtbarkeit wichtig.",
+              "Die Salzach-Radwege sind meist flach und auch bei Nässe gut befahrbar."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a vizes macskakövön az óvárosban.",
+              "Egy egyszerű esőponcsó gyakran praktikusabb kerékpározáskor, mint egy kabát.",
+              "A kerékpáros világítás esőben nappal is fontos a láthatóság miatt.",
+              "A Salzach menti kerékpárutak többnyire síkak és esőben is jól használhatóak."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe pavajul ud din orașul vechi.",
+              "Un pelerină de ploaie simplă este adesea mai practică decât o jachetă la ciclism.",
+              "Iluminarea bicicletei este importantă pentru vizibilitate chiar și ziua pe timp de ploaie.",
+              "Pistele de biciclete de pe Salzach sunt în mare parte plate și practicabile pe ud."
+            ],
+            "en": [
+              "Avoid abrupt braking on wet cobblestones in the old town.",
+              "A simple rain poncho is often more practical than a jacket while cycling.",
+              "Bike lights are important for visibility during rain, even during the day.",
+              "The Salzach bike paths are mostly flat and remain manageable even when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Hallein erfordert warme Handschuhe und Vorsicht. Morgens gleiten wir durch die klare, kalte Luft zum Bayrhamerplatz. Die Museumsbesuche mittags sind willkommene Aufwärmpausen für eingefrorene Finger. Nachmittags folgen wir dem Salzachradweg, wobei wir die tiefstehende Wintersonne genießen, bevor wir die Räder vor Einbruch der Dunkelheit zurückgeben.",
+            "hu": "A téli kerékpározás Halleinben meleg kesztyűt és óvatosságot igényel. Reggel a tiszta, hideg levegőben suhanunk a Bayrhamerplatz felé. A déli múzeumlátogatások szívesen látott melegedő szünetek az átfagyott ujjaknak. Délután a Salzach kerékpárutat követjük, élvezve az alacsonyan járó téli napot, mielőtt sötétedés előtt visszaadnánk a bringákat.",
+            "ro": "Ciclismul de iarnă în Hallein necesită mănuși groase și prudență. Dimineața alunecăm prin aerul rece și curat spre Bayrhamerplatz. Vizitele la muzee de la prânz sunt pauze binevenite pentru degetele înghețate. După-amiaza urmăm pista de biciclete de pe Salzach, bucurându-ne de soarele slab de iarnă înainte de a returna bicicletele înainte de lăsarea întunericului.",
+            "en": "Cycling in winter in Hallein requires warm gloves and caution. In the morning, we glide through the clear, cold air towards Bayrhamerplatz. Midday museum visits are welcome warming breaks for frozen fingers. In the afternoon, we follow the Salzach bike path, enjoying the low winter sun before returning the bikes before dark."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; etwas weniger Druck bietet mehr Grip auf kaltem Asphalt.",
+                "hu": "Ellenőrizze a guminyomást; a valamivel alacsonyabb nyomás jobb tapadást biztosít a hideg aszfalton.",
+                "ro": "Verificați presiunea anvelopelor; o presiune puțin mai mică oferă aderență mai bună pe asfalt rece.",
+                "en": "Check the tire pressure; slightly lower pressure offers more grip on cold asphalt."
+              }
+            },
+            {
+              "name": "Silent Night Square & Gruber Museum",
+              "tip_5lang": {
+                "de": "Achten Sie beim Absteigen auf eventuelle Eisplatten im Schatten der Gebäude.",
+                "hu": "Leszálláskor ügyeljen az épületek árnyékában előforduló jégfoltokra.",
+                "ro": "Atenție la descălecare la eventualele pete de gheață din umbra clădirilor.",
+                "en": "Watch out for potential ice patches in the shadows of buildings when dismounting."
+              }
+            },
+            {
+              "name": "Celtic Museum Hallein",
+              "tip_5lang": {
+                "de": "Der Aufenthalt hier hilft, die Körpertemperatur für die nächste Etappe zu halten.",
+                "hu": "Az itt tartózkodás segít fenntartani a testhőmérsékletet a következő szakaszra.",
+                "ro": "Șederea aici ajută la menținerea temperaturii corpului pentru următoarea etapă.",
+                "en": "Staying here helps maintain your body temperature for the next leg of the trip."
+              }
+            },
+            {
+              "name": "Perner Island",
+              "tip_5lang": {
+                "de": "Auf der Insel kann es durch die Nähe zum Wasser besonders frostig sein.",
+                "hu": "A szigeten a víz közelsége miatt különösen fagyos lehet az idő.",
+                "ro": "Pe insulă poate fi deosebit de geros din cauza proximității față de apă.",
+                "en": "The island can be especially frosty due to its proximity to the water."
+              }
+            },
+            {
+              "name": "Along the Salzach River",
+              "tip_5lang": {
+                "de": "Meiden Sie bei Frost die direkt am Ufer liegenden, unbefestigten Wege.",
+                "hu": "Fagy esetén kerülje a közvetlenül a parton fekvő, nem szilárd burkolatú utakat.",
+                "ro": "Evitați drumurile neasfaltate direct de pe mal în caz de îngheț.",
+                "en": "Avoid unpaved paths directly on the riverbank during freezing conditions."
+              }
+            },
+            {
+              "name": "Bike Return & Old Town Stroll",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückgabe bis 16:00 Uhr ein, da es danach schnell sehr kalt wird.",
+                "hu": "Tervezze a visszaadást 16:00-ig, mert utána hirtelen nagyon lehűl a levegő.",
+                "ro": "Planificați returnarea până la ora 16:00, deoarece după aceea se face foarte frig.",
+                "en": "Plan to return by 4:00 PM, as it gets very cold quickly after that."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Kleidung nach dem Zwiebelprinzip und winddichte Handschuhe.",
+              "Die Bremswirkung kann bei Kälte und Reif leicht verzögert sein.",
+              "Der Salzachradweg wird meist geräumt, kann aber im Schatten glatt sein.",
+              "Trinken Sie zwischendurch heißen Tee, um die innere Wärme zu bewahren."
+            ],
+            "hu": [
+              "Öltözzön rétegesen és viseljen szélálló kesztyűt.",
+              "Hidegben és zúzmara esetén a fékhatás kissé lassabb lehet.",
+              "A Salzach menti kerékpárutat általában takarítják, de árnyékban csúszós lehet.",
+              "Igyon időnként forró teát, hogy megőrizze belső melegét."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi și purtați mănuși rezistente la vânt.",
+              "Eficiența frânării poate fi ușor întârziată în caz de frig și polei.",
+              "Pista de biciclete Salzach este de obicei curățată, dar poate fi alunecoasă la umbră.",
+              "Beți ceai fierbinte din când în când pentru a vă menține căldura interioară."
+            ],
+            "en": [
+              "Wear layered clothing and windproof gloves.",
+              "Braking performance may be slightly delayed in cold and frosty conditions.",
+              "The Salzach bike path is usually cleared, but it can be slippery in shaded areas.",
+              "Drink hot tea occasionally to maintain internal body warmth."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -898,6 +1262,170 @@
           "The temperature in the mine is a constant 10°C (50°F). Bring a jacket and sturdy shoes.",
           "Parking in Hallein's old town is paid. Plan for this in your budget."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Tage sind ideal für die Kombination aus Halleiner Altstadt und dem Salzbergwerk. Morgens parken wir bequem im Zentrum und besuchen das Keltenmuseum. Mittags fahren wir die kurze Strecke hinauf zum Dürrnberg, wo das Bergwerk wetterunabhängige Erlebnisse unter Tage bietet. Den Nachmittag verbringen wir tief im Berg, bevor wir trocken zurück zum Auto kehren.",
+            "hu": "Az esős napok ideálisak a halleini óváros és a sóbánya felfedezésére. Reggel kényelmesen parkolunk a központban, és meglátogatjuk a Kelta Múzeumot. Délben felautózunk a Dürrnbergre, ahol a bánya az időjárástól független élményeket kínál a föld alatt. A délutánt a hegy mélyén töltjük, majd szárazon térünk vissza az autóhoz.",
+            "ro": "Zilele ploioase sunt ideale pentru a combina orașul vechi din Hallein cu mina de sare. Dimineața parcăm confortabil în centru și vizităm Muzeul Celtic. La prânz urcăm cu mașina pe Dürrnberg, unde mina oferă experiențe subterane independente de vreme. Petrecem după-amiaza în interiorul muntelui înainte de a ne întoarce uscați la mașină.",
+            "en": "Rainy days are ideal for combining Hallein's old town with the salt mine. In the morning, we park conveniently in the center and visit the Celtic Museum. At noon, we drive up to Dürrnberg, where the mine offers weather-independent underground experiences. We spend the afternoon deep in the mountain before returning dry to the car."
+          },
+          "stops": [
+            {
+              "name": "Parking & Old Town Cluster",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus Altstadt, um direkt im trockenen Zentrum zu starten.",
+                "hu": "Használja az óvárosi parkolóházat, hogy közvetlenül a száraz központban kezdhessen.",
+                "ro": "Folosiți parcarea acoperită din centrul vechi pentru a porni direct din zona uscată.",
+                "en": "Use the Old Town parking garage to start directly in the dry city center."
+              }
+            },
+            {
+              "name": "Celtic Museum & Bayrhamerplatz",
+              "tip_5lang": {
+                "de": "Das Museum ist nur wenige Schritte von den Parkmöglichkeiten entfernt.",
+                "hu": "A múzeum mindössze néhány lépésre található a parkolási lehetőségektől.",
+                "ro": "Muzeul se află la doar câțiva pași de locurile de parcare.",
+                "en": "The museum is only a few steps away from the parking facilities."
+              }
+            },
+            {
+              "name": "Silent Night Square & Gruber Museum",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten minimieren den Kontakt mit dem Regen.",
+                "hu": "A látnivalók közötti rövid távolságok minimalizálják az esővel való érintkezést.",
+                "ro": "Distanțele scurte între atracții minimizează contactul cu ploaia.",
+                "en": "Short distances between attractions minimize exposure to the rain."
+              }
+            },
+            {
+              "name": "Drive to the Salt Mine",
+              "tip_5lang": {
+                "de": "Die Bergstraße zum Dürrnberg ist gut ausgebaut, aber bei starkem Regen vorsichtig fahren.",
+                "hu": "A Dürrnbergre vezető hegyi út jól kiépített, de heves esőben vezessen óvatosan.",
+                "ro": "Drumul montan spre Dürrnberg este bine întreținut, dar conduceți cu prudență pe ploaie torențială.",
+                "en": "The mountain road to Dürrnberg is well-maintained, but drive carefully during heavy rain."
+              }
+            },
+            {
+              "name": "Hallein Salt Mine",
+              "tip_5lang": {
+                "de": "Das ultimative Schlechtwetterziel: Unter Tage ist es immer trocken bei konstanten 12 Grad.",
+                "hu": "A tökéletes úticél rossz időben: a föld alatt mindig száraz az idő, állandó 12 fokban.",
+                "ro": "Destinația supremă pentru vreme rea: în subteran este mereu uscat, la 12 grade constante.",
+                "en": "The ultimate bad weather destination: underground it's always dry at a constant 12 degrees."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parken Sie im 'Parkhaus Altstadt' für den kürzesten Weg zum Keltenmuseum.",
+              "Die Salzwelten Hallein haben ein großes Besucherzentrum, wo man trocken warten kann.",
+              "Lassen Sie nasse Schirme im Kofferraum, bevor Sie ins Bergwerk gehen.",
+              "Die Sicht auf der Bergstraße kann bei Regen und tiefen Wolken eingeschränkt sein."
+            ],
+            "hu": [
+              "Parkoljon az 'Altstadt' parkolóházban a Kelta Múzeumhoz vezető legrövidebb úthoz.",
+              "A halleini sóvilág nagy látogatóközponttal rendelkezik, ahol szárazon várakozhatunk.",
+              "A vizes esernyőket hagyja a csomagtartóban, mielőtt belépne a bányába.",
+              "A hegyi úton esőben és alacsony felhőzetnél a látótávolság korlátozott lehet."
+            ],
+            "ro": [
+              "Parcați în 'Parkhaus Altstadt' pentru cel mai scurt drum către Muzeul Celtic.",
+              "Lumea Sării din Hallein are un centru mare pentru vizitatori unde puteți aștepta la uscat.",
+              "Lăsați umbrelele ude în portbagaj înainte de a intra în mină.",
+              "Vizibilitatea pe drumul montan poate fi limitată în caz de ploaie și nori joși."
+            ],
+            "en": [
+              "Park in the 'Altstadt' garage for the shortest walk to the Celtic Museum.",
+              "Hallein Salt Worlds has a large visitor center where you can wait indoors.",
+              "Leave wet umbrellas in the trunk before entering the mine tour.",
+              "Visibility on the mountain road can be limited during rain and low clouds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag in Hallein ist per Auto entspannt zu meistern. Morgens parken wir im Zentrum und erkunden die frostigen Gassen und Museen. Mittags fahren wir auf den Dürrnberg; die verschneite Landschaft bietet herrliche Ausblicke. In den Salzwelten entfliehen wir der Kälte unter Tage. Nach der Tour genießen wir den Sonnenuntergang über dem Salzachtal, bevor wir die Rückreise antreten.",
+            "hu": "Egy téli nap Halleinben autóval kényelmesen teljesíthető. Reggel a központban parkolunk, és felfedezzük a déres utcákat és múzeumokat. Délben felhajtunk a Dürrnbergre; a havas táj csodálatos kilátást nyújt. A sóvilágban a föld alatt menekülünk el a hideg elől. A túra után élvezzük a naplementét a Salzach-völgy felett, mielőtt elindulnánk haza.",
+            "ro": "O zi de iarnă în Hallein poate fi parcursă relaxat cu mașina. Dimineața parcăm în centru și explorăm străzile înghețate și muzeele. La prânz urcăm pe Dürrnberg; peisajul înzăpezit oferă priveliști superbe. În Lumea Sării scăpăm de frig în subteran. După tur, ne bucurăm de apusul peste valea Salzach înainte de plecare.",
+            "en": "A winter day in Hallein is easily managed by car. In the morning, we park in the center and explore the frosty alleys and museums. At noon, we drive up Dürrnberg; the snowy landscape offers magnificent views. In the Salt Worlds, we escape the cold underground. After the tour, we enjoy the sunset over the Salzach valley before heading back."
+          },
+          "stops": [
+            {
+              "name": "Parking & Old Town Cluster",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkplätze mit einfachem Zugang, um Zeit im Freien zu minimieren.",
+                "hu": "Használjon könnyen elérhető parkolókat, hogy minimalizálja a szabadban töltött időt.",
+                "ro": "Folosiți locuri de parcare cu acces facil pentru a minimiza timpul petrecut afară.",
+                "en": "Use parking spots with easy access to minimize time spent outdoors."
+              }
+            },
+            {
+              "name": "Celtic Museum & Bayrhamerplatz",
+              "tip_5lang": {
+                "de": "Im Winter sind die Straßen im Zentrum meist gut geräumt und gestreut.",
+                "hu": "Télen a központi utcák általában jól takarítottak és sózottak.",
+                "ro": "Iarna, străzile din centru sunt de obicei bine deszăpezite.",
+                "en": "In winter, the streets in the center are usually well cleared and sanded."
+              }
+            },
+            {
+              "name": "Silent Night Square & Gruber Museum",
+              "tip_5lang": {
+                "de": "Der Platz ist besonders in der Dämmerung mit Winterbeleuchtung sehenswert.",
+                "hu": "A tér különösen sötétedéskor, téli kivilágítással látványos.",
+                "ro": "Piața merită văzută mai ales la amurg cu iluminatul de iarnă.",
+                "en": "The square is worth seeing, especially at twilight with winter lighting."
+              }
+            },
+            {
+              "name": "Drive to the Salt Mine",
+              "tip_5lang": {
+                "de": "Winterreifen sind auf der Strecke zum Dürrnberg absolut zwingend erforderlich.",
+                "hu": "A Dürrnbergre vezető úton a téli gumi abszolút kötelező.",
+                "ro": "Anvelopele de iarnă sunt absolut obligatorii pe traseul spre Dürrnberg.",
+                "en": "Winter tires are absolutely mandatory for the route to Dürrnberg."
+              }
+            },
+            {
+              "name": "Hallein Salt Mine",
+              "tip_5lang": {
+                "de": "Unter Tage herrschen konstante Temperaturen, eine leichte Jacke reicht für die Tour.",
+                "hu": "A föld alatt állandó a hőmérséklet, egy könnyű kabát is elég a túrához.",
+                "ro": "În subteran sunt temperaturi constante, o jachetă ușoară este suficientă pentru tur.",
+                "en": "Constant temperatures prevail underground; a light jacket is enough for the tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf die Schneeräumfahrzeuge auf der schmalen Bergstraße.",
+              "Die Parkplätze am Dürrnberg können bei Neuschnee rutschig sein.",
+              "Nutzen Sie die Sitzheizung nach dem Spaziergang durch die frostige Altstadt.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage vor der Fahrt."
+            ],
+            "hu": [
+              "Ügyeljen a hókotrókra a szűk hegyi úton.",
+              "A dürrnbergi parkolók friss hó esetén csúszósak lehetnek.",
+              "Használja az ülésfűtést a fagyos óvárosi séta után.",
+              "Indulás előtt töltsön fagyállót a szélvédőmosóba."
+            ],
+            "ro": [
+              "Atenție la utilajele de deszăpezire pe drumul montan îngust.",
+              "Parcările de pe Dürrnberg pot fi alunecoase în caz de zăpadă proaspătă.",
+              "Folosiți încălzirea în scaune după plimbarea prin orașul vechi înghețat.",
+              "Umpleți rezervorul de lichid de parbriz cu soluție anti-îngheț înainte de drum."
+            ],
+            "en": [
+              "Watch out for snowplows on the narrow mountain road.",
+              "Parking lots at Dürrnberg can be slippery with fresh snow.",
+              "Make use of seat heating after your walk through the frosty old town.",
+              "Ensure your windshield washer fluid has antifreeze before the trip."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1178,6 +1706,170 @@
           "The S-Bahn train from Salzburg to Hallein is fast and efficient.",
           "Download the Salzburg Verkehr app to see real-time schedules and ticket options."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn bleibt man in Hallein auch bei Regen mobil. Morgens kommen wir trocken am Bahnhof an und erreichen das Keltenmuseum in wenigen Minuten zu Fuß. Mittags bringt uns der Linienbus bequem direkt vor den Eingang der Salzwelten am Dürrnberg. Nachmittags nutzen wir die trockenen Wartehallen für die Rückfahrt ins Zentrum, wo wir den Tag entspannt ausklingen lassen.",
+            "hu": "Busszal és vonattal Halleinben esőben is mobilak maradhatunk. Reggel szárazon érkezünk a vasútállomásra, és pár perc sétával elérjük a Kelta Múzeumot. Délben a menetrend szerinti busz kényelmesen elvisz minket a dürrnbergi sóvilág bejáratához. Délután a fedett várótermeket használjuk a központba való visszatéréshez, ahol pihentetően zárjuk a napot.",
+            "ro": "Cu autobuzul și trenul rămâneți mobili în Hallein chiar și pe ploaie. Dimineața ajungem uscați la gară și ajungem la Muzeul Celtic în câteva minute de mers pe jos. La prânz, autobuzul local ne duce confortabil direct la intrarea în Lumea Sării de pe Dürrnberg. După-amiaza folosim sălile de așteptare uscate pentru drumul de întoarcere în centru.",
+            "en": "By bus and train, you stay mobile in Hallein even in the rain. In the morning, we arrive dry at the station and reach the Celtic Museum in a few minutes on foot. At noon, the local bus takes us comfortably directly to the entrance of the Salt Worlds on Dürrnberg. In the afternoon, we use the dry waiting areas for the return trip to the center."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Hallein Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet überdachte Bahnsteige und eine Wartehalle.",
+                "hu": "A vasútállomás fedett peronokkal és váróteremmel rendelkezik.",
+                "ro": "Gara oferă peroane acoperite și o sală de așteptare.",
+                "en": "The station offers covered platforms and a waiting hall."
+              }
+            },
+            {
+              "name": "Celtic Museum Hallein",
+              "tip_5lang": {
+                "de": "Vom Bahnhof zum Museum sind es ca. 500m; ein Schirm ist für das kurze Stück nötig.",
+                "hu": "Az állomástól a múzeumig kb. 500 méter az út; esernyő szükséges ehhez a rövid szakaszhoz.",
+                "ro": "De la gară la muzeu sunt aproximativ 500 m; o umbrelă este necesară pentru această distanță scurtă.",
+                "en": "It's about 500m from the station to the museum; an umbrella is needed for this short stretch."
+              }
+            },
+            {
+              "name": "Silent Night Square",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen in der Nähe sind oft überdacht.",
+                "hu": "A közelben lévő buszmegállók gyakran fedettek.",
+                "ro": "Stațiile de autobuz din apropiere sunt adesea acoperite.",
+                "en": "Bus stops in the vicinity are often covered."
+              }
+            },
+            {
+              "name": "Bus to the Salt Mine",
+              "tip_5lang": {
+                "de": "Der Bus 41 bringt Sie trocken den Berg hinauf; prüfen Sie den Takt bei Regen.",
+                "hu": "A 41-es busz szárazon viszi fel a hegyre; esőben ellenőrizze a járatsűrűséget.",
+                "ro": "Autobuzul 41 vă duce uscat sus pe munte; verificați frecvența pe timp de ploaie.",
+                "en": "Bus 41 takes you dry up the mountain; check the schedule during rain."
+              }
+            },
+            {
+              "name": "Salt Mine & Return Trip",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt sehr nah am Eingang des Besucherzentrums.",
+                "hu": "A buszmegálló nagyon közel van a látogatóközpont bejáratához.",
+                "ro": "Stația de autobuz este foarte aproape de intrarea în centrul pentru vizitatori.",
+                "en": "The bus stop is located very close to the visitor center entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Salzburg Verkehr' App für Echtzeit-Infos bei wetterbedingten Verzögerungen.",
+              "Die S-Bahn S3 verbindet Hallein halbstündlich mit Salzburg.",
+              "Der Bus zum Dürrnberg (Linie 41) ist die beste Wahl bei Regen.",
+              "Kaufen Sie Tickets online oder per App, um Wartezeiten im Regen zu vermeiden."
+            ],
+            "hu": [
+              "Használja a 'Salzburg Verkehr' alkalmazást a valós idejű infókért késések esetén.",
+              "Az S3-as HÉV félóránként köti össze Halleint Salzburggal.",
+              "A Dürrnbergre tartó busz (41-es vonal) a legjobb választás esőben.",
+              "Vegye meg a jegyet online, hogy elkerülje az esőben való várakozást."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Salzburg Verkehr' pentru informații în timp real despre întârzieri.",
+              "Trenul S3 conectează Hallein cu Salzburg la fiecare jumătate de oră.",
+              "Autobuzul spre Dürrnberg (linia 41) este cea mai bună alegere pe ploaie.",
+              "Cumpărați bilete online pentru a evita așteptarea în ploaie."
+            ],
+            "en": [
+              "Use the 'Salzburg Verkehr' app for real-time info on weather-related delays.",
+              "The S3 suburban train connects Hallein with Salzburg every half hour.",
+              "The bus to Dürrnberg (Line 41) is your best option when it rains.",
+              "Purchase tickets online or via app to avoid waiting at outdoor machines."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind im Winter in Hallein besonders zuverlässig. Morgens erreichen wir den Bahnhof und genießen den kurzen Fußweg durch die winterliche Altstadt. Mittags bringt uns der beheizte Bus sicher hinauf zum Dürrnberg, während wir die Aussicht auf die verschneiten Gipfel genießen. Nach der Tour unter Tage kehren wir gemütlich per Bus und Bahn zurück, während draußen die Winterkälte herrscht.",
+            "hu": "A tömegközlekedés télen Halleinben különösen megbízható. Reggel megérkezünk az állomásra, és élvezzük a rövid sétát a téli óvároson át. Délben a fűtött busz biztonságosan felvisz minket a Dürrnbergre, miközben a havas csúcsok látványában gyönyörködünk. A föld alatti túra után kényelmesen térünk vissza busszal és vonattal a téli hidegben.",
+            "ro": "Transportul public este deosebit de fiabil iarna în Hallein. Dimineața ajungem la gară și ne bucurăm de scurta plimbare prin orașul vechi de iarnă. La prânz, autobuzul încălzit ne duce în siguranță pe Dürrnberg în timp ce admirăm vârfurile înzăpezite. După turul subteran, ne întoarcem confortabil cu autobuzul și trenul.",
+            "en": "Public transport is particularly reliable in Hallein during winter. In the morning, we reach the station and enjoy the short walk through the wintry old town. At noon, the heated bus takes us safely up Dürrnberg while we enjoy the view of snowy peaks. After the underground tour, we return comfortably by bus and train while the winter cold reigns outside."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Hallein Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Warteraum, falls Sie auf einen Anschluss warten müssen.",
+                "hu": "Használja a fűtött várótermet, ha csatlakozásra kell várnia.",
+                "ro": "Folosiți sala de așteptare încălzită dacă trebuie să așteptați o legătură.",
+                "en": "Use the heated waiting room if you have to wait for a connection."
+              }
+            },
+            {
+              "name": "Celtic Museum Hallein",
+              "tip_5lang": {
+                "de": "Der Fußweg vom Bahnhof ist meist gut gestreut, dennoch Vorsicht vor Glätte.",
+                "hu": "Az állomástól vezető gyalogút általában jól sózott, de ügyeljen a csúszós szakaszokra.",
+                "ro": "Drumul de la gară este de obicei bine deszăpezit, dar atenție la polei.",
+                "en": "The walk from the station is usually well-sanded, but still watch out for slippery spots."
+              }
+            },
+            {
+              "name": "Silent Night Square",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es Cafés zum Aufwärmen vor der Busfahrt.",
+                "hu": "A közelben vannak kávézók, ahol felmelegedhet a buszindulás előtt.",
+                "ro": "În apropiere există cafenele unde vă puteți încălzi înainte de drumul cu autobuzul.",
+                "en": "There are cafes nearby to warm up before your bus trip."
+              }
+            },
+            {
+              "name": "Bus to the Salt Mine",
+              "tip_5lang": {
+                "de": "Busse in der Region sind sehr gut auf winterliche Straßenverhältnisse eingestellt.",
+                "hu": "A régió buszai nagyon jól fel vannak készítve a téli útviszonyokra.",
+                "ro": "Autobuzele din regiune sunt foarte bine echipate pentru condiții de iarnă.",
+                "en": "Buses in the region are very well prepared for wintry road conditions."
+              }
+            },
+            {
+              "name": "Salt Mine & Return Trip",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten für die Rückfahrt genau, da die Takte im Winter variieren können.",
+                "hu": "Pontosan ellenőrizze a visszautat, mert a menetrend télen változhat.",
+                "ro": "Verificați exact orele de plecare pentru întoarcere, frecvența poate varia iarna.",
+                "en": "Check the return departure times carefully, as schedules can vary in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge und Busse sind im Winter meist die sicherste Art, den Dürrnberg zu erreichen.",
+              "Tragen Sie warme Schuhe, da das Warten an Haltestellen kalt sein kann.",
+              "Die S-Bahn S3 ist oft pünktlicher als Autos im winterlichen Straßenverkehr.",
+              "Das Salzburger Klimaticket ist auch in Hallein für alle Öffis gültig."
+            ],
+            "hu": [
+              "A vonatok és buszok télen általában a legbiztonságosabb módjai a Dürrnberg elérésének.",
+              "Viseljen meleg cipőt, mert a megállókban való várakozás hideg lehet.",
+              "Az S3-as HÉV gyakran pontosabb, mint az autók a téli forgalomban.",
+              "A Salzburgi Klímabérlet Halleinben is érvényes minden tömegközlekedési eszközre."
+            ],
+            "ro": [
+              "Trenurile și autobuzele sunt de obicei cele mai sigure moduri de a ajunge pe Dürrnberg iarna.",
+              "Purtați încălțăminte groasă, deoarece așteptarea în stații poate fi rece.",
+              "Trenul S3 este adesea mai punctual decât mașinile în traficul de iarnă.",
+              "Biletul climatic Salzburg este valabil și în Hallein pentru toate mijloacele de transport."
+            ],
+            "en": [
+              "Trains and buses are usually the safest way to reach Dürrnberg in winter.",
+              "Wear warm shoes as waiting at bus stops can be chilly.",
+              "The S3 train is often more punctual than cars in wintry traffic conditions.",
+              "The Salzburg Climate Ticket is valid for all public transport in Hallein too."
+            ]
+          }
+        }
       }
     }
   }

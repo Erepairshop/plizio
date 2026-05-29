@@ -270,6 +270,188 @@
           "A reusable water bottle is a good idea.",
           "The zoo is quite large, so plan enough time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag unter den schützenden Arkaden des Rathauses am Beneš-Platz. Die Wallenstein-Häuser bieten in der Gasse guten Windschutz. Mittags verbringen wir viel Zeit im Nordböhmischen Museum, das komplett überdacht ist. Der Nachmittag gehört den Gewächshäusern des Botanischen Gartens, wo man völlig trocken bleibt. Den Abend lassen wir im Foyer des F. X. Šalda Theaters ausklingen.",
+            "hu": "A napot a Beneš tér városházájának védett árkádjai alatt kezdjük. A Wallenstein-házak szűk utcája jó szélfogó az esőben. Délben az Észak-csehországi Múzeum fedett kiállítótereiben bújunk el a csapadék elől. Délután a Botanikus Kert fűtött üvegházaiban élvezhetjük a trópusi klímát, miközben kint esik. Az estét a Šalda Színház kivilágított környékén, vizes aszfalton tükröződő fények közt zárjuk.",
+            "ro": "Începem ziua sub arcadele protectoare ale primăriei din Piața Beneš. Casele Wallenstein oferă un bun adăpost împotriva vântului pe străzile înguste. La prânz, vizităm Muzeul Boemiei de Nord, un spațiu vast și complet acoperit. După-amiaza este rezervată serelor Grădinii Botanice, unde rămâneți complet uscați. Seara se încheie în foierul teatrului F. X. Šalda, admirând luminile orașului prin ploaie.",
+            "en": "Start the day under the protective arcades of the Town Hall on Beneš Square. The Wallenstein Houses provide good wind shelter in the narrow alley. At noon, spend time in the North Bohemian Museum, which is fully indoor. The afternoon belongs to the greenhouses of the Botanical Garden, staying completely dry. Finish the evening near the F. X. Šalda Theatre, watching city lights reflect on wet streets."
+          },
+          "stops": [
+            {
+              "name": "Liberec Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie die tiefen Arkaden des Gebäudes als Regenschutz beim Fotografieren.",
+                "hu": "Használja az épület mély árkádjait esővédőként a fotózáshoz.",
+                "ro": "Folosiți arcadele adânci ale clădirii ca adăpost împotriva ploii în timp ce fotografiați.",
+                "en": "Use the building's deep arcades as rain cover while taking photos."
+              }
+            },
+            {
+              "name": "Wallenstein Houses",
+              "tip_5lang": {
+                "de": "Die hölzernen Vordächer bieten nur begrenzten Schutz; Schirm unbedingt mitnehmen.",
+                "hu": "A fa előtetők csak korlátozott védelmet adnak, esernyő mindenképp szükséges.",
+                "ro": "Copertinele din lemn oferă protecție limitată; umbrela este obligatorie.",
+                "en": "The wooden eaves offer limited protection; an umbrella is essential."
+              }
+            },
+            {
+              "name": "F. X. Šalda Theatre",
+              "tip_5lang": {
+                "de": "Das prächtige Foyer ist ein trockener Ort, um auf die nächste Regenpause zu warten.",
+                "hu": "A pompás előcsarnok száraz helyszín a következő esőszünet megvárásához.",
+                "ro": "Foaierul magnific este un loc uscat pentru a aștepta următoarea pauză de ploaie.",
+                "en": "The magnificent foyer is a dry spot to wait for the next rain break."
+              }
+            },
+            {
+              "name": "North Bohemian Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort für lange Regengüsse; besuchen Sie die Textil- und Glasausstellungen.",
+                "hu": "Ideális helyszín tartós esőben; nézze meg a textil- és üvegkiállításokat.",
+                "ro": "Loc ideal pentru ploi de durată; vizitați expozițiile de textile și sticlă.",
+                "en": "Ideal location during steady rain; visit the textile and glass exhibitions."
+              }
+            },
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Die vernetzten Gewächshäuser ermöglichen einen Rundgang ohne nass zu werden.",
+                "hu": "Az összekapcsolt üvegházak lehetővé teszik a körutat anélkül, hogy megáznánk.",
+                "ro": "Serele interconectate permit un tur complet fără a vă uda.",
+                "en": "The interconnected greenhouses allow a full tour without getting wet."
+              }
+            },
+            {
+              "name": "Zoo Liberec",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Pavillons für Raubtiere und Elefanten, um trocken zu bleiben.",
+                "hu": "Keresse fel a ragadozók és elefántok pavilonjait, hogy szárazon maradjon.",
+                "ro": "Vizitați pavilioanele pentru prădători și elefanți pentru a rămâne uscați.",
+                "en": "Visit the predator and elephant pavilions to stay dry indoors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Liberec ist für sein wechselhaftes Wetter bekannt; Regenschutz ist hier Pflicht.",
+              "Die Passage im Zentrum bietet gute Abkürzungen zwischen den Einkaufsstraßen.",
+              "Botanischer Garten und Museum liegen nah beieinander, ideal bei Dauerregen.",
+              "Viele Cafés rund um das Rathaus haben gemütliche Innenräume für Pausen."
+            ],
+            "hu": [
+              "Liberec híres a változékony időjárásáról, az esőkabát alapfelszerelés.",
+              "A központ passzázsai jó rövidítéseket kínálnak a bevásárlóutcák között.",
+              "A Botanikus Kert és a múzeum közel vannak, ideális párosítás tartós esőben.",
+              "A városháza körüli kávézók belső terei kényelmes menedéket nyújtanak."
+            ],
+            "ro": [
+              "Liberec este renumit pentru vremea schimbătoare; pelerina de ploaie este esențială.",
+              "Pasajele din centru oferă scurtături bune între străzile comerciale.",
+              "Grădina Botanică și muzeul sunt aproape, o combinație ideală pe ploaie.",
+              "Multe cafenele din jurul primăriei au interioare primitoare pentru pauze."
+            ],
+            "en": [
+              "Liberec is famous for its changeable weather; rain gear is mandatory here.",
+              "The passages in the center offer good shortcuts between shopping streets.",
+              "The Botanical Garden and the museum are close by, ideal during steady rain.",
+              "Many cafes around the Town Hall have cozy interiors for dry breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens glitzert der Frost auf dem Neorenaissance-Rathaus. Die historischen Wallenstein-Häuser wirken im Schnee wie aus einem Märchen. Mittags wärmen wir uns in den Galerien des Museums auf. Nachmittags ist der Besuch im Zoo besonders, wenn die Weißen Tiger im Schnee spielen. Der Tag endet früh bei Sonnenuntergang gegen 16:30 Uhr in der beleuchteten Innenstadt.",
+            "hu": "Reggel dér csillog a neoreneszánsz városházán. A történelmi Wallenstein-házak a hóban olyanok, mint egy mesekönyv lapjai. Délben a múzeum galériáiban melegszünk fel. Délután az állatkert látogatása különleges, amikor a fehér tigrisek a hóban játszanak. A nap korán, a 16:30 körüli naplementekor ér véget a kivilágított belvárosban.",
+            "ro": "Dimineața, promoroaca strălucește pe primăria neorenascentistă. Casele istorice Wallenstein par desprinse din basme sub zăpadă. La prânz, ne încălzim în galeriile muzeului. După-amiaza, vizita la grădina zoologică este specială, mai ales când tigrii albi se joacă în zăpadă. Ziua se încheie devreme, la apusul de la ora 16:30, în centrul luminat.",
+            "en": "In the morning, frost glistens on the Neo-Renaissance Town Hall. The historic Wallenstein Houses look like a fairytale scene in the snow. At noon, warm up inside the museum galleries. The afternoon zoo visit is special when the white tigers play in the snow. The day ends early with sunset around 16:30 in the illuminated city center."
+          },
+          "stops": [
+            {
+              "name": "Liberec Town Hall",
+              "tip_5lang": {
+                "de": "Der Platz davor ist im Winter oft vereist; tragen Sie festes Schuhwerk.",
+                "hu": "A tér télen gyakran jeges; viseljen csúszásmentes lábbelit.",
+                "ro": "Piața din față este adesea înghețată iarna; purtați încălțăminte aderentă.",
+                "en": "The square in front is often icy in winter; wear shoes with good grip."
+              }
+            },
+            {
+              "name": "Wallenstein Houses",
+              "tip_5lang": {
+                "de": "Die schneebedeckten Holzhäuser sind ein perfektes Motiv für Winterfotos.",
+                "hu": "A hófödte faházak tökéletes témát szolgáltatnak a téli fotókhoz.",
+                "ro": "Casele din lemn acoperite de zăpadă sunt un subiect perfect pentru fotografii.",
+                "en": "The snow-covered wooden houses are a perfect subject for winter photos."
+              }
+            },
+            {
+              "name": "F. X. Šalda Theatre",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Abendspielplan; ein Opernbesuch ist perfekt für kalte Abende.",
+                "hu": "Nézze meg az esti műsort; egy operalátogatás ideális a hideg estéken.",
+                "ro": "Verificați programul de seară; o vizită la operă este ideală în serile reci.",
+                "en": "Check the evening schedule; an opera visit is perfect for cold winter nights."
+              }
+            },
+            {
+              "name": "North Bohemian Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Wintermäntel für den Rundgang abzugeben.",
+                "hu": "Használja a ruhatárat, hogy levegye a nehéz télikabátot a nézelődéshez.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă în timpul vizitei.",
+                "en": "Use the cloakroom to drop off heavy winter coats during your tour."
+              }
+            },
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Ein starker Kontrast: Tropische Hitze drinnen, während draußen Schnee liegt.",
+                "hu": "Erős kontraszt: trópusi hőség bent, miközben kint áll a hó.",
+                "ro": "Un contrast puternic: căldură tropicală la interior, în timp ce afară e zăpadă.",
+                "en": "A sharp contrast: tropical heat inside while snow lies on the ground outside."
+              }
+            },
+            {
+              "name": "Zoo Liberec",
+              "tip_5lang": {
+                "de": "Einige Außenanlagen sind leer; konzentrieren Sie sich auf die Wintertiere.",
+                "hu": "Néhány külső kifutó üres; koncentráljon a telet jól tűrő állatokra.",
+                "ro": "Unele țarcuri exterioare sunt goale; concentrați-vă pe animalele de iarnă.",
+                "en": "Some outdoor enclosures may be empty; focus on winter-hardy animals."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung ist wichtig, da Liberec am Fuße des Isergebirges oft sehr kalt ist.",
+              "Die Sonne geht im Dezember bereits vor 16:30 Uhr unter; planen Sie Fotos früh.",
+              "Die Straßenbahn zur Haltestelle 'Lidové sady' ist im Winter gut beheizt.",
+              "In der Adventszeit gibt es am Rathausplatz einen gemütlichen Weihnachtsmarkt."
+            ],
+            "hu": [
+              "Réteges öltözködés fontos, Liberec a Jizera-hegység lábánál gyakran igen hideg.",
+              "A nap decemberben már 16:30 előtt lemegy; a fotókat tervezze korábbra.",
+              "A 'Lidové sady' megállóhoz menő villamosok télen jól fűtöttek.",
+              "Adventi időszakban a városháza előtti téren hangulatos karácsonyi vásár van."
+            ],
+            "ro": [
+              "Îmbrăcămintea groasă e vitală; Liberec e adesea foarte rece la poalele munților.",
+              "Soarele apune înainte de 16:30 în decembrie; planificați fotografiile devreme.",
+              "Tramvaiul către stația 'Lidové sady' este bine încălzit pe timp de iarnă.",
+              "În perioada adventului, în piața primăriei se organizează un târg de Crăciun."
+            ],
+            "en": [
+              "Warm clothing is vital as Liberec is often very cold at the foot of the mountains.",
+              "The sun sets before 16:30 in December; plan your outdoor photos early.",
+              "The tram to the 'Lidové sady' stop is well-heated during the winter months.",
+              "During Advent, there is a cozy Christmas market in the Town Hall square."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -558,6 +740,206 @@
           "Liberec is hilly, so be prepared for some climbs.",
           "Bring a good lock for your bike."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Liberec bei Regen erfordert Vorsicht auf den Straßenbahnschienen. Vom Rathaus aus geht es auf nassen Wegen zum Schloss. Mittags bietet das Museum einen langen, trockenen Aufenthalt für Radfahrer in Regenmontur. Nachmittags radeln wir am Botanischen Garten vorbei zum Zoo, wo die Wege bewaldet und teilweise geschützt sind. Die Tour endet am Theater im Stadtzentrum.",
+            "hu": "Az esős Liberecben a kerékpározás óvatosságot igényel a villamossínek miatt. A városházától vizes utakon tekerünk a kastélyig. Délben a múzeum hosszú, száraz pihenőt kínál az esőruhás bringásoknak. Délután a Botanikus Kert mellett elhaladva az állatkertig tekerünk, ahol az utak fásak és részben védettek. A túra a belvárosi színháznál ér véget.",
+            "ro": "Ciclismul în Liberec pe ploaie necesită prudență sporită la liniile de tramvai. De la primărie, pedalăm pe drumuri ude spre castel. La prânz, muzeul oferă un popas lung și uscat pentru bicicliștii echipați. După-amiaza pedalăm pe lângă Grădina Botanică spre grădina zoologică, unde aleile sunt parțial protejate de arbori. Turul se încheie la teatru.",
+            "en": "Cycling in Liberec in the rain requires extra caution on the tram tracks. From the Town Hall, ride on wet paths to the chateau. At noon, the museum offers a long, dry break for cyclists in rain gear. In the afternoon, cycle past the Botanical Garden to the Zoo, where paths are wooded and partly sheltered. The tour ends at the theater in the city center."
+          },
+          "stops": [
+            {
+              "name": "Liberec Town Hall",
+              "tip_5lang": {
+                "de": "Achtung bei der Abfahrt vom Platz; das Kopfsteinpflaster ist sehr rutschig.",
+                "hu": "Vigyázat a térről való lehajtáskor; a macskakő nagyon csúszós.",
+                "ro": "Atenție la plecarea din piață; pavajul cu piatră cubică este foarte alunecos.",
+                "en": "Careful when leaving the square; the cobblestones are very slippery when wet."
+              }
+            },
+            {
+              "name": "Wallenstein Houses",
+              "tip_5lang": {
+                "de": "Enge Gassen können Windböen verstärken; halten Sie den Lenker fest.",
+                "hu": "A szűk utcák felerősíthetik a széllökéseket; fogja erősen a kormányt.",
+                "ro": "Străzile înguste pot amplifica rafalele de vânt; țineți bine ghidonul.",
+                "en": "Narrow alleys can amplify wind gusts; keep a firm grip on the handlebars."
+              }
+            },
+            {
+              "name": "Liberec Chateau",
+              "tip_5lang": {
+                "de": "Der Schlosshof bietet wenig Unterstand; halten Sie den Aufenthalt kurz.",
+                "hu": "A kastélyudvar kevés fedezéket nyújt; tartsa rövidre a megállót.",
+                "ro": "Curtea castelului oferă puțin adăpost; faceți o oprire scurtă.",
+                "en": "The castle courtyard offers little cover; keep this stop brief in heavy rain."
+              }
+            },
+            {
+              "name": "North Bohemian Museum",
+              "tip_5lang": {
+                "de": "Fahrradständer sind vorhanden; sichern Sie Ihr Rad und gehen Sie ins Trockene.",
+                "hu": "Vannak kerékpártárolók; zárja le a biciklit és menjen be a szárazra.",
+                "ro": "Există rastele pentru biciclete; asigurați bicicleta și intrați la adăpost.",
+                "en": "Bike racks are available; secure your bike and head inside to dry off."
+              }
+            },
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad nah am Eingang ab, um schnell ins Warme zu gelangen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy gyorsan bejusson a melegre.",
+                "ro": "Parcați bicicleta aproape de intrare pentru a ajunge rapid la căldură.",
+                "en": "Park your bike near the entrance to get inside the warm greenhouses quickly."
+              }
+            },
+            {
+              "name": "Zoo Liberec",
+              "tip_5lang": {
+                "de": "Die Wege im Zoo sind teils steil und bei Regen rutschig; schieben ist sicherer.",
+                "hu": "Az állatkerti utak néhol meredekek és csúszósak; a tolás biztonságosabb.",
+                "ro": "Aleile din zoo sunt parțial abrupte și alunecoase; împinsul este mai sigur.",
+                "en": "Zoo paths are partly steep and slippery; walking your bike is safer here."
+              }
+            },
+            {
+              "name": "F. X. Šalda Theatre",
+              "tip_5lang": {
+                "de": "Das Ziel der Tour; trocknen Sie Ihre Ausrüstung in einem nahen Café.",
+                "hu": "A túra célja; szárítsa meg felszerelését egy közeli kávézóban.",
+                "ro": "Destinația turului; uscați-vă echipamentul într-o cafenea din apropiere.",
+                "en": "The tour's end; dry your gear in one of the nearby cafes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Liberec hat viele Straßenbahnschienen; kreuzen Sie diese immer im rechten Winkel.",
+              "Vermeiden Sie bei Regen starkes Bremsen auf dem Kopfsteinpflaster im Zentrum.",
+              "Vollständige wasserdichte Kleidung ist für diese 9,5 km Tour unerlässlich.",
+              "Nutzen Sie die Radwege entlang der Hauptstraßen, wo der Belag griffiger ist."
+            ],
+            "hu": [
+              "Liberecben sok a villamossín; ezeket mindig merőlegesen keresztezze.",
+              "Esőben kerülje az erős fékezést a belvárosi macskaköveken.",
+              "A teljes vízálló ruházat elengedhetetlen ehhez a 9,5 km-es túrához.",
+              "Használja a főutak menti kerékpársávokat, ahol az aszfalt kevésbé csúszik."
+            ],
+            "ro": [
+              "Liberec are multe linii de tramvai; traversați-le întotdeauna în unghi drept.",
+              "Evitați frânările bruște pe pavajul din centru când este umed.",
+              "Echipamentul impermeabil complet este esențial pentru acest tur de 9,5 km.",
+              "Folosiți pistele de biciclete de pe drumurile principale pentru aderență mai bună."
+            ],
+            "en": [
+              "Liberec has many tram tracks; always cross them at a right angle to avoid falls.",
+              "Avoid sudden braking on the city center cobblestones when they are wet.",
+              "Full waterproof clothing is essential for this 9.5 km cycling tour.",
+              "Use the bike lanes along main roads where the asphalt offers better grip."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln erfordert Vorsicht vor Eisplatten auf dem Beneš-Platz. Die Fahrt zum Schloss führt durch klare, kalte Luft. Mittags ist das Museum der perfekte Ort, um steif gefrorene Finger aufzuwärmen. Nachmittags geht es auf teils geräumten Wegen Richtung Zoo. Da es früh dunkel wird, ist eine gute Beleuchtung am Fahrrad für den Rückweg zum Theater lebenswichtig.",
+            "hu": "A téli tekerés óvatosságot igényel a Beneš téri jégfoltok miatt. A kastélyhoz vezető út friss, hideg levegőn át visz. Délben a múzeum tökéletes hely a lefagyott ujjak felmelegítésére. Délután a részben letakarított utakon haladunk az állatkert felé. Mivel korán sötétedik, a jó világítás elengedhetetlen a színházhoz való visszatéréshez.",
+            "ro": "Ciclismul de iarnă necesită atenție la porțiunile înghețate din Piața Beneš. Drumul spre castel trece prin aer rece și curat. La prânz, muzeul este locul perfect pentru a vă încălzi mâinile înghețate. După-amiaza pedalăm spre zoo pe alei curățate parțial. Deoarece se întunecă devreme, luminile bune sunt vitale pentru drumul de întoarcere.",
+            "en": "Winter cycling requires caution due to icy patches on Beneš Square. The ride to the chateau leads through crisp, cold air. At noon, the museum is the perfect spot to warm up frozen fingers. In the afternoon, head towards the zoo on partly cleared paths. As it gets dark early, good bike lights are vital for the return journey to the theater."
+          },
+          "stops": [
+            {
+              "name": "Liberec Town Hall",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenes Schmelzwasser in den Schattenbereichen des Platzes.",
+                "hu": "Ügyeljen a lefolyt és megfagyott hólére a tér árnyékos részein.",
+                "ro": "Atenție la apa înghețată din zonele umbrite ale pieței.",
+                "en": "Watch out for frozen meltwater in the shaded areas of the square."
+              }
+            },
+            {
+              "name": "Wallenstein Houses",
+              "tip_5lang": {
+                "de": "In der engen Gasse kann es sehr zugig und eisig sein; warm einpacken.",
+                "hu": "A szűk utcában nagyon huzatos és jeges lehet az idő; öltözzön melegen.",
+                "ro": "Aleea îngustă poate fi foarte expusă vântului și gheții; îmbrăcați-vă bine.",
+                "en": "The narrow alley can be very drafty and icy; keep yourself warm."
+              }
+            },
+            {
+              "name": "Liberec Chateau",
+              "tip_5lang": {
+                "de": "Der Park um das Schloss wird im Winter nur eingeschränkt geräumt.",
+                "hu": "A kastély körüli parkot télen csak korlátozottan takarítják.",
+                "ro": "Parcul din jurul castelului este curățat limitat pe timp de iarnă.",
+                "en": "The park around the chateau is only partially cleared of snow in winter."
+              }
+            },
+            {
+              "name": "North Bohemian Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Schloss bei Minusgraden nicht einfriert.",
+                "hu": "Győződjön meg róla, hogy a lakatja nem fagy be a mínuszokban.",
+                "ro": "Asigurați-vă că antifurtul nu îngheață la temperaturi negative.",
+                "en": "Make sure your bike lock doesn't freeze up in sub-zero temperatures."
+              }
+            },
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Der Temperaturwechsel beim Betreten der Gewächshäuser ist extrem; Zwiebelprinzip.",
+                "hu": "Az üvegházba lépéskor a hőmérsékletváltozás extrém; öltözzön rétegesen.",
+                "ro": "Schimbarea de temperatură la intrarea în sere este extremă; purtați straturi.",
+                "en": "The temperature change when entering the greenhouses is extreme; use layers."
+              }
+            },
+            {
+              "name": "Zoo Liberec",
+              "tip_5lang": {
+                "de": "Die Anfahrt zum Zoo hat eine leichte Steigung, die bei Schnee rutschig ist.",
+                "hu": "Az állatkerthez vezető út enyhén emelkedik, ami hóban csúszós lehet.",
+                "ro": "Drumul spre zoo are o pantă ușoară, care poate fi alunecoasă pe zăpadă.",
+                "en": "The road to the zoo has a slight incline that can be slippery in the snow."
+              }
+            },
+            {
+              "name": "F. X. Šalda Theatre",
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor Einbruch der Dunkelheit oder prüfen Sie Ihr Licht.",
+                "hu": "Fejezze be a túrát sötétedés előtt, vagy ellenőrizze a világítását.",
+                "ro": "Încheiați turul înainte de lăsarea întunericului sau verificați luminile.",
+                "en": "Finish the tour before dark or ensure your lights are working properly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen für Fahrräder oder Reifen mit tiefem Profil sind dringend empfohlen.",
+              "Die Kälte entlädt E-Bike-Akkus deutlich schneller; planen Sie Reserven ein.",
+              "Vermeiden Sie die steilen Nebenstraßen, nutzen Sie die geräumten Hauptwege.",
+              "Tragen Sie Reflektoren, da Nebel und früher Abend die Sicht stark einschränken."
+            ],
+            "hu": [
+              "Téli kerékpárgumi vagy mély profilú abroncs használata erősen ajánlott.",
+              "A hideg gyorsabban meríti az e-bike akkumulátorokat; tervezzen tartalékkal.",
+              "Kerülje a meredek mellékutcákat, maradjon a letakarított főutakon.",
+              "Viseljen fényvisszaverőt, mert a köd és a korai este rontja a láthatóságot."
+            ],
+            "ro": [
+              "Se recomandă anvelope de iarnă pentru bicicletă sau cu profil adânc.",
+              "Frigul descarcă bateriile e-bike mult mai rapid; planificați rezerve.",
+              "Evitați străzile secundare abrupte; folosiți drumurile principale curățate.",
+              "Purtați elemente reflectorizante; ceața și amurgul reduc mult vizibilitatea."
+            ],
+            "en": [
+              "Winter bike tires or tires with deep tread are strongly recommended.",
+              "Cold temperatures drain e-bike batteries much faster; plan for reserves.",
+              "Avoid steep side streets; stick to the main paths cleared of snow.",
+              "Wear reflectors, as fog and early dusk significantly reduce visibility."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -822,6 +1204,188 @@
           "Ještěd Tower can be in the clouds during bad weather.",
           "Buy zoo tickets online to avoid queues."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Tage sind ideal für die Fahrt zum Ještěd, da die Wolkenformationen am Gipfel dramatisch wirken. Morgens parken wir im Zentrum und besichtigen das Rathaus. Mittags bietet das Nordböhmische Museum Schutz. Danach fahren wir zum Gipfel des Ještěd, wo man das markante Hotel im Nebel sieht. Der Tag endet gemütlich im Botanischen Garten oder Zoo, wo es viele Innenpavillons gibt.",
+            "hu": "Az esős napok ideálisak a Ještěd felkeresésére, mert a felhők drámai látványt nyújtanak a csúcson. Reggel a belvárosban parkolunk és megnézzük a városházát. Délben az Észak-csehországi Múzeum ad menedéket. Ezután felautózunk a Ještěd csúcsára, ahol a ködben úszó ikonikus tévétorony különleges látvány. A napot az állatkert vagy a Botanikus Kert belső pavilonjaiban zárjuk.",
+            "ro": "Zilele ploioase sunt ideale pentru o călătorie la Ještěd, unde norii creează un peisaj dramatic la vârf. Dimineața parcăm în centru pentru a vizita primăria. La prânz, Muzeul Boemiei de Nord ne oferă adăpost. Apoi conducem până la vârful Ještěd, unde turnul TV în ceață arată spectaculos. Ziua se încheie la grădina zoologică sau botanică, vizitând pavilioanele interioare.",
+            "en": "Rainy days are ideal for a trip to Ještěd, as cloud formations look dramatic at the summit. In the morning, park in the center to visit the Town Hall. At noon, the North Bohemian Museum provides shelter. Then drive up to the Ještěd summit, where the iconic TV tower looks striking in the mist. End the day at the Zoo or Botanical Garden, exploring their indoor pavilions."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser wie das 'Forum', um trockenen Fußes ins Zentrum zu gelangen.",
+                "hu": "Használja a 'Forum' típusú parkolóházakat, hogy száraz lábbal jusson a központba.",
+                "ro": "Folosiți parcări etajate precum 'Forum' pentru a ajunge în centru fără a vă uda.",
+                "en": "Use multi-story car parks like 'Forum' to reach the center while staying dry."
+              }
+            },
+            {
+              "name": "Town Hall and Square",
+              "tip_5lang": {
+                "de": "Vom Parkhaus sind es nur wenige Gehminuten unter Vordächern zum Rathaus.",
+                "hu": "A parkolóháztól csak pár perc séta a városháza, sokszor előtetők alatt.",
+                "ro": "De la parcare sunt doar câteva minute de mers pe jos până la primărie.",
+                "en": "It's only a few minutes' walk from the car park to the Town Hall, mostly sheltered."
+              }
+            },
+            {
+              "name": "North Bohemian Museum",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor dem Museum erleichtern den Zugang bei starkem Regen.",
+                "hu": "A múzeum előtti parkolók megkönnyítik a bejutást heves esőzésben is.",
+                "ro": "Parcările chiar în fața muzeului facilitează accesul în caz de ploaie torențială.",
+                "en": "Parking spaces right in front of the museum make access easier during heavy rain."
+              }
+            },
+            {
+              "name": "Ještěd TV Tower",
+              "tip_5lang": {
+                "de": "Die Bergstraße ist kurvig; fahren Sie bei Nässe und Nebel besonders vorsichtig.",
+                "hu": "A hegyi út kanyargós; esőben és ködben vezessen fokozott óvatossággal.",
+                "ro": "Drumul montan este virajat; conduceți cu atenție sporită pe ploaie și ceață.",
+                "en": "The mountain road is winding; drive with extra caution in wet and foggy conditions."
+              }
+            },
+            {
+              "name": "Zoo Liberec",
+              "tip_5lang": {
+                "de": "Der Zoo-Parkplatz kann bei Regen matschig sein; nutzen Sie befestigte Flächen.",
+                "hu": "Az állatkerti parkoló esőben sáros lehet; keresse a szilárd burkolatú helyeket.",
+                "ro": "Parcarea de la zoo poate fi noroioasă; folosiți zonele cu suprafață dură.",
+                "en": "The zoo parking lot can be muddy; try to find a spot on a paved surface."
+              }
+            },
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Regen kurz zu halten.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az ázást.",
+                "ro": "Parcați cât mai aproape de intrare pentru a minimiza expunerea la ploaie.",
+                "en": "Park as close to the entrance as possible to minimize your time in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Auffahrt zum Ještěd ist mautpflichtig; stellen Sie sicher, dass Sie Kleingeld haben.",
+              "Bei dichtem Nebel am Ještěd ist das Restaurant ein toller Ort für die Aussicht.",
+              "Nutzen Sie die Parkhäuser der Einkaufszentren für längere Aufenthalte im Zentrum.",
+              "Die Straßen in Liberec können bei Regen durch Straßenbahnschienen tückisch sein."
+            ],
+            "hu": [
+              "A Ještěd-re vezető út díjköteles; készüljön aprópénzzel vagy kártyával.",
+              "Sűrű ködben a Ještěd étterme a legjobb hely a 'kilátás' élvezetéhez.",
+              "Hosszabb belvárosi tartózkodáshoz használja a bevásárlóközpontok parkolóit.",
+              "Liberec utcái esőben a villamossínek miatt trükkösek lehetnek."
+            ],
+            "ro": [
+              "Drumul spre Ještěd este cu taxă; asigurați-vă că aveți numerar sau card.",
+              "În caz de ceață densă pe Ještěd, restaurantul este cel mai bun loc pentru vedere.",
+              "Folosiți parcările centrelor comerciale pentru șederi lungi în centru.",
+              "Străzile din Liberec pot fi înșelătoare pe ploaie din cauza liniilor de tramvai."
+            ],
+            "en": [
+              "The road to Ještěd is a toll road; ensure you have change or a card ready.",
+              "In thick fog at Ještěd, the indoor restaurant is the best place to enjoy the mood.",
+              "Use shopping mall parking garages for longer stays in the city center.",
+              "Liberec streets can be tricky in the rain due to the numerous tram tracks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Liberec im Winter bedeutet oft Schnee und Eis. Wir starten im Zentrum, wo die Räumfahrzeuge für freie Fahrt sorgen. Das Museum ist mittags eine warme Zuflucht. Das Highlight ist die Fahrt zum Ještěd, der oft über den Wolken in der Sonne liegt. Achten Sie auf die Straßenverhältnisse am Berg. Der Tag endet im Zoo, wo man die Tiere im Schnee beobachten kann, bevor es früh dunkel wird.",
+            "hu": "Liberec télen gyakran havat és jeget jelent. A belvárosban kezdünk, ahol a hókotrók biztosítják a haladást. A múzeum délben meleg menedéket nyújt. A fénypont a Ještěd-re való felautózás, amely gyakran a felhők felett, napsütésben úszik. Ügyeljen a hegyi útviszonyokra. A nap az állatkertben zárul, ahol a hóban is aktív állatokat láthatjuk sötétedés előtt.",
+            "ro": "Liberec iarna înseamnă adesea zăpadă și gheață. Începem în centru, unde utilajele de deszăpezire asigură circulația. Muzeul este un refugiu cald la prânz. Punctul culminant este drumul spre Ještěd, care este adesea deasupra norilor, în soare. Atenție la condițiile rutiere de pe munte. Ziua se încheie la zoo, observând animalele în zăpadă înainte de lăsarea serii.",
+            "en": "Liberec in winter often means snow and ice. We start in the center where snowplows ensure clear roads. The museum is a warm refuge at noon. The highlight is the drive to Ještěd, which is often above the clouds in the sun. Watch out for road conditions on the mountain. The day ends at the zoo, watching animals in the snow before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Überdachte Parkhäuser verhindern das Einfrieren der Scheiben während des Besuchs.",
+                "hu": "A fedett parkolóházak megakadályozzák a szélvédő befagyását a látogatás alatt.",
+                "ro": "Parcările acoperite previn înghețarea parbrizului în timpul vizitei.",
+                "en": "Covered parking garages prevent windshields from freezing during your visit."
+              }
+            },
+            {
+              "name": "Town Hall and Square",
+              "tip_5lang": {
+                "de": "Die Gehwege am Platz werden meist gut geräumt, können aber glatt sein.",
+                "hu": "A téren a járdákat általában jól takarítják, de csúszósak maradhatnak.",
+                "ro": "Trotuarele din piață sunt de obicei curățate, dar pot rămâne alunecoase.",
+                "en": "Footpaths in the square are usually cleared but can still be slippery."
+              }
+            },
+            {
+              "name": "North Bohemian Museum",
+              "tip_5lang": {
+                "de": "Vorsicht beim Ein- und Ausparken; Schneehaufen können die Sicht einschränken.",
+                "hu": "Vigyázat parkoláskor; a hóbuckák korlátozhatják a kilátást.",
+                "ro": "Atenție la parcare; mormanele de zăpadă pot limita vizibilitatea.",
+                "en": "Be careful when parking; snow banks can restrict your visibility."
+              }
+            },
+            {
+              "name": "Ještěd TV Tower",
+              "tip_5lang": {
+                "de": "Winterreifen sind Pflicht; bei extremem Schneefall kann die Straße gesperrt sein.",
+                "hu": "Téli gumi kötelező; extrém hóesésben az utat lezárhatják.",
+                "ro": "Anvelopele de iarnă sunt obligatorii; drumul poate fi închis la ninsori extreme.",
+                "en": "Winter tires are mandatory; the road may be closed during extreme snowfall."
+              }
+            },
+            {
+              "name": "Zoo Liberec",
+              "tip_5lang": {
+                "de": "Der Zoo liegt höher als das Zentrum; hier liegt oft deutlich mehr Schnee.",
+                "hu": "Az állatkert magasabban fekszik, mint a központ; itt gyakran több a hó.",
+                "ro": "Grădina zoologică e mai sus decât centrul; aici e adesea mult mai multă zăpadă.",
+                "en": "The zoo is higher than the center; there is often significantly more snow here."
+              }
+            },
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Klopfen Sie den Schnee von den Schuhen, bevor Sie die feuchten Gewächshäuser betreten.",
+                "hu": "Rázza le a havat a cipőjéről, mielőtt belép a párás üvegházakba.",
+                "ro": "Scuturați zăpada de pe încălțăminte înainte de a intra în serele umede.",
+                "en": "Shake the snow off your shoes before entering the humid greenhouses."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie Schneeketten mit, wenn Sie zum Gipfel des Ještěd fahren möchten.",
+              "Die Batteriekapazität kann bei extremer Kälte sinken; parken Sie am besten drinnen.",
+              "Scheinwerfer immer sauber halten, da Matsch und Salz die Sicht verschlechtern.",
+              "Planen Sie mehr Zeit für die Fahrt ein, da der Winterdienst oft im Einsatz ist."
+            ],
+            "hu": [
+              "Vigyen magával hóláncot, ha a Ještěd csúcsáig szeretne felvezetni.",
+              "Az akkumulátor kapacitása csökkenhet a hidegben; parkoljon lehetőleg bent.",
+              "Tartsa tisztán a fényszórókat, mert a sár és a só rontja a láthatóságot.",
+              "Tervezzen több időt az utazásra, mert a hóeltakarítás lassíthatja a forgalmat."
+            ],
+            "ro": [
+              "Luați lanțuri de zăpadă dacă doriți să conduceți până în vârful Ještěd.",
+              "Capacitatea bateriei poate scădea la frig extrem; parcați în interior dacă puteți.",
+              "Păstrați farurile curate; noroiul și sarea reduc vizibilitatea pe timp de noapte.",
+              "Alocați mai mult timp călătoriei, deoarece deszăpezirea poate încetini traficul."
+            ],
+            "en": [
+              "Carry snow chains if you plan to drive all the way to the summit of Ještěd.",
+              "Battery capacity can drop in extreme cold; indoor parking is recommended.",
+              "Keep your headlights clean as slush and salt significantly reduce visibility.",
+              "Allow extra time for travel as snow removal services may slow down traffic."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1062,6 +1626,170 @@
           "Always check the operational status of the Ještěd cable car as it's sensitive to wind.",
           "The public transport app can be very helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der ÖPNV in Liberec ist bei Regen ideal, da die Haltestelle Fügnerova komplett überdacht ist. Wir starten dort und fahren mit der Straßenbahn zum Rathaus. Mittags geht es mit der Linie 2 oder 3 zum Botanischen Garten und Zoo, wo man direkt vor den Eingängen aussteigt. Der Nachmittag endet mit einer Fahrt zum Fuße des Ještěd, wobei die Seilbahnfahrt im Regen ein mystisches Erlebnis ist.",
+            "hu": "A libereci tömegközlekedés esőben ideális, mert a Fügnerova központi megálló teljesen fedett. Innen indulunk villamossal a városházához. Délben a 2-es vagy 3-as vonallal utazunk a Botanikus Kerthez és az állatkerthez, ahol közvetlenül a bejáratnál szállhatunk le. A délután a Ještěd lábához vezet, a kabinos felvonó esőben is misztikus élményt nyújt.",
+            "ro": "Transportul public din Liberec este ideal pe ploaie, deoarece stația centrală Fügnerova este complet acoperită. Începem acolo și luăm tramvaiul spre primărie. La prânz, folosim linia 2 sau 3 către grădina botanică și zoo, coborând chiar la intrare. După-amiaza include o călătorie spre baza muntelui Ještěd; urcarea cu telecabina pe ploaie este o experiență mistică.",
+            "en": "Public transit in Liberec is ideal in the rain because the Fügnerova hub is completely covered. We start there and take a tram to the Town Hall. At noon, take line 2 or 3 to the Botanical Garden and Zoo, getting off right at the entrance. The afternoon ends with a trip to the foot of Ještěd; the cable car ride in the rain is a mystical experience."
+          },
+          "stops": [
+            {
+              "name": "Fügnerova Stop",
+              "tip_5lang": {
+                "de": "Das große Glasdach bietet perfekten Schutz beim Umsteigen zwischen Bus und Bahn.",
+                "hu": "A nagy üvegtető tökéletes védelmet nyújt a busz és villamos közti átszálláshoz.",
+                "ro": "Acoperișul mare de sticlă oferă protecție perfectă la schimbarea între autobuz și tramvai.",
+                "en": "The large glass roof provides perfect protection when changing between bus and tram."
+              }
+            },
+            {
+              "name": "Town Hall and Square",
+              "tip_5lang": {
+                "de": "Die Haltestellen 'Šaldovo náměstí' liegen nah an den überdachten Passagen.",
+                "hu": "A 'Šaldovo náměstí' megállók közel vannak a fedett passzázsokhoz.",
+                "ro": "Stațiile 'Šaldovo náměstí' sunt aproape de pasajele acoperite.",
+                "en": "The 'Šaldovo náměstí' stops are located close to sheltered shopping passages."
+              }
+            },
+            {
+              "name": "Botanical Garden & Zoo",
+              "tip_5lang": {
+                "de": "Die Endhaltestelle der Linien 2 und 3 ist nur 2 Minuten Fußweg vom Zoo entfernt.",
+                "hu": "A 2-es és 3-as villamos végállomása mindössze 2 perc séta az állatkerttől.",
+                "ro": "Capătul liniilor de tramvai 2 și 3 este la doar 2 minute de mers pe jos de zoo.",
+                "en": "The terminus of tram lines 2 and 3 is only a 2-minute walk from the zoo entrance."
+              }
+            },
+            {
+              "name": "North Bohemian Museum",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Muzeum' befindet sich direkt gegenüber dem Haupteingang.",
+                "hu": "A 'Muzeum' megálló közvetlenül a főbejárattal szemben található.",
+                "ro": "Stația 'Muzeum' se află chiar vizavi de intrarea principală.",
+                "en": "The 'Muzeum' stop is located directly opposite the main entrance."
+              }
+            },
+            {
+              "name": "Ještěd TV Tower",
+              "tip_5lang": {
+                "de": "Die Kabinenseilbahn bringt Sie trocken zum Gipfel, auch wenn es regnet.",
+                "hu": "A kabinos felvonó szárazon viszi fel a csúcsra, akkor is, ha esik.",
+                "ro": "Telecabina vă duce uscat până la vârf, chiar dacă plouă.",
+                "en": "The cable car takes you to the summit in a dry cabin, even if it's raining."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie ein 24-Stunden-Ticket direkt am Automaten in Fügnerova.",
+              "Die Straßenbahnen fahren alle 10-15 Minuten, man wartet nie lange im Regen.",
+              "Nutzen Sie die App 'IDOS' für Echtzeit-Infos zu Verspätungen bei Unwetter.",
+              "Die Seilbahn zum Ještěd fährt bei sehr starkem Wind eventuell nicht."
+            ],
+            "hu": [
+              "Vásároljon 24 órás jegyet közvetlenül a Fügnerova automatáinál.",
+              "A villamosok 10-15 percenként járnak, nem kell sokat várni az esőben.",
+              "Használja az 'IDOS' alkalmazást a valós idejű közlekedési információkhoz.",
+              "A Ještěd felvonó nagyon erős szél esetén ideiglenesen leállhat."
+            ],
+            "ro": [
+              "Cumpărați un bilet de 24 de ore direct de la automatele din Fügnerova.",
+              "Tramvaiele circulă la fiecare 10-15 minute; nu veți aștepta mult în ploaie.",
+              "Folosiți aplicația 'IDOS' pentru informații în timp real despre întârzieri.",
+              "Telecabina spre Ještěd s-ar putea să nu circule în caz de vânt foarte puternic."
+            ],
+            "en": [
+              "Purchase a 24-hour ticket directly from the vending machines at Fügnerova.",
+              "Trams run every 10-15 minutes, so you won't wait long in the rain.",
+              "Use the 'IDOS' app for real-time information and delays during bad weather.",
+              "The Ještěd cable car may stop operating during periods of very high wind."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die beheizten Straßenbahnen sind im Winter der beste Weg, um Liberec zu erkunden. Morgens bietet der Umstieg in Fügnerova Schutz vor der Kälte. Nach dem Rathausbesuch wärmen wir uns in der Bahn zum Museum auf. Der Nachmittag im Zoo ist herrlich, wenn die Landschaft verschneit ist. Zum Abschluss bringt uns die Seilbahn zum Ještěd, von wo aus man die Lichter der Stadt in der frühen Dunkelheit sieht.",
+            "hu": "A fűtött villamosok télen a legjobb módot kínálják Liberec felfedezésére. Reggel a Fügnerova csomópont védelmet nyújt a hideg ellen. A városháza után a villamoson melegszünk fel a múzeumig. Az állatkerti délután csodás a havas tájban. Zárásként a felvonó felvisz a Ještěd-re, ahonnan a korai sötétségben látni a város fényeit.",
+            "ro": "Tramvaiele încălzite sunt cea mai bună cale de a explora Liberec iarna. Dimineața, stația Fügnerova oferă adăpost împotriva frigului. După primărie, ne încălzim în tramvai spre muzeu. După-amiaza la zoo este superbă în peisajul înzăpezit. La final, telecabina ne duce pe Ještěd, de unde vedem luminile orașului în întunericul serii.",
+            "en": "Heated trams are the best way to explore Liberec in winter. In the morning, the Fügnerova hub provides shelter from the biting cold. After the Town Hall, warm up on the tram to the museum. The afternoon at the zoo is wonderful in the snowy scenery. Finally, the cable car takes us to Ještěd to see the city lights in the early dusk."
+          },
+          "stops": [
+            {
+              "name": "Fügnerova Stop",
+              "tip_5lang": {
+                "de": "Die Wartebereiche sind oft zugig; nutzen Sie die beheizten Fahrzeuge zum Warten.",
+                "hu": "A váróterületek huzatosak lehetnek; várjon inkább a már bent álló járműveken.",
+                "ro": "Zonele de așteptare pot fi expuse vântului; așteptați în vehiculele încălzite.",
+                "en": "Waiting areas can be drafty; it's warmer to wait inside the vehicles if possible."
+              }
+            },
+            {
+              "name": "Town Hall and Square",
+              "tip_5lang": {
+                "de": "Die Bahnen der Linien 2 und 3 bringen Sie alle paar Minuten zurück ins Warme.",
+                "hu": "A 2-es és 3-as villamosok pár percenként visszaviszik a melegbe.",
+                "ro": "Tramvaiele 2 și 3 vă duc înapoi la căldură la intervale de câteva minute.",
+                "en": "Lines 2 and 3 trams will take you back to the warmth every few minutes."
+              }
+            },
+            {
+              "name": "Botanical Garden & Zoo",
+              "tip_5lang": {
+                "de": "Die Endstation hat einen beheizten Kiosk für eine kurze Aufwärmpause.",
+                "hu": "A végállomáson van egy fűtött büfé egy rövid melegedő pihenőhöz.",
+                "ro": "Capătul de linie are un chioșc încălzit pentru o scurtă pauză de încălzire.",
+                "en": "The terminus has a heated kiosk for a quick warm-up break."
+              }
+            },
+            {
+              "name": "North Bohemian Museum",
+              "tip_5lang": {
+                "de": "Vom Museum zur Haltestelle sind es nur 30 Meter durch den Schnee.",
+                "hu": "A múzeumtól a megállóig mindössze 30 méter séta a hóban.",
+                "ro": "De la muzeu până la stație sunt doar 30 de metri de mers prin zăpadă.",
+                "en": "From the museum to the tram stop is only a 30-meter walk through the snow."
+              }
+            },
+            {
+              "name": "Ještěd TV Tower",
+              "tip_5lang": {
+                "de": "Die Seilbahn bietet einen fantastischen Blick auf das verschneite Isergebirge.",
+                "hu": "A felvonó fantasztikus kilátást nyújt a havas Jizera-hegységre.",
+                "ro": "Telecabina oferă o vedere fantastică asupra munților Jizera înzăpeziți.",
+                "en": "The cable car offers a fantastic view of the snow-covered Jizera Mountains."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit dicker Sohle, da man an Haltestellen auf kaltem Boden steht.",
+              "Die Straßenbahnen in Liberec sind im Winter meist sehr gut beheizt.",
+              "Letzte Talfahrt der Ještěd-Seilbahn beachten; im Winter oft früher.",
+              "Karten können kontaktlos direkt im Fahrzeug an den Terminals gekauft werden."
+            ],
+            "hu": [
+              "Viseljen vastag talpú cipőt, mert a megállókban a beton nagyon hideg.",
+              "A libereci villamosok télen általában nagyon jól fűtöttek.",
+              "Ügyeljen a Ještěd-felvonó utolsó menetrendjére; télen gyakran korábbi.",
+              "A jegyek érintőkártyával közvetlenül a járműveken is megvásárolhatók."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu talpă groasă, deoarece solul e rece în stații.",
+              "Tramvaiele din Liberec sunt de obicei foarte bine încălzite iarna.",
+              "Verificați ultima cursă a telecabinei spre Ještěd; iarna e adesea mai devreme.",
+              "Biletele pot fi cumpărate contactless direct din vehicule la terminale."
+            ],
+            "en": [
+              "Wear thick-soled shoes as standing on cold concrete at stops drains body heat.",
+              "Trams in Liberec are generally very well-heated during the winter season.",
+              "Check the time for the last descent of the Ještěd cable car; it's often earlier.",
+              "Tickets can be bought contactless directly on the vehicles at the terminals."
+            ]
+          }
+        }
       }
     }
   }

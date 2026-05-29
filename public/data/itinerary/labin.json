@@ -307,6 +307,206 @@
           "Visit the museum in the morning to avoid the crowds.",
           "Combine the visit with a trip to the Dubrova Sculpture Park."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am San Fior Tor, wo der Stein im Regen glänzt. Die engen Gassen der Altstadt bieten natürlichen Schutz vor den Tropfen. Mittags ziehen Sie sich in das Nationalmuseum zurück, um die Bergbaugeschichte im trockenen Stollen zu erkunden. Der Nachmittag führt Sie zur Kirche und zum Palazzo Negri, beides ideale Orte zum Aufwärmen. Der Blick von der Fortica ist bei Regen besonders mystisch, wenn der Nebel über Rabac aufsteigt. Den Tag beenden Sie beim Bergbauerbe von Podlabin, wo das industrielle Erbe eine melancholische Atmosphäre versprüht.",
+            "hu": "Kezdje a napot a San Fior kapunál, ahol az esőben csillognak a kövek. Az óváros szűk utcái némi védelmet nyújtanak a záporok elől. Délben vonuljon be a Nemzeti Múzeumba, ahol a bányajáratok között szárazon fedezheti fel a múltat. Délután a Mária születése templom és a Palazzo Negri kínál menedéket a csapadék elől. A Fortica kilátó esőben különösen misztikus, ahogy a köd ráül a tengerpartra. Az estét Podlabin ipari örökségénél zárja, ahol az eső áztatta aknatorony látványa különleges hangulatot áraszt.",
+            "ro": "Începeți ziua la Poarta San Fior, unde piatra strălucește sub ploaie. Străzile înguste ale centrului vechi oferă adăpost natural împotriva picăturilor. La prânz, retrageți-vă la Muzeul Național pentru a explora istoria mineritului în tunelurile uscate. După-amiaza, vizitați Biserica Nașterii Maicii Domnului și Palazzo Negri pentru a rămâne la adăpost. Vederea de la Fortica este mistică pe ploaie, cu ceața ridicându-se peste Rabac. Încheiați ziua la moștenirea minieră din Podlabin, unde atmosfera industrială devine melancolică sub cerul gri.",
+            "en": "Start your day at San Fior Gate, where the stones glisten in the rain. The narrow streets of the Old Town offer some natural cover from the showers. At noon, retreat to the National Museum to explore mining history inside the dry tunnels. The afternoon leads you to the Church and Palazzo Negri, both perfect spots to stay warm. The view from Fortica is particularly mystical in the rain as mist rises over Rabac. End the day at the Podlabin Mining Heritage, where the industrial atmosphere feels uniquely evocative under the rain."
+          },
+          "stops": [
+            {
+              "name": "San Fior Gate",
+              "tip_5lang": {
+                "de": "Vorsicht, das Kopfsteinpflaster unter dem Tor ist bei Nässe sehr rutschig.",
+                "hu": "Vigyázat, a kapu alatti macskakő vizesen nagyon csúszós.",
+                "ro": "Atenție, pavajul de sub poartă este foarte alunecos când este ud.",
+                "en": "Be careful, the cobblestones under the gate are very slippery when wet."
+              }
+            },
+            {
+              "name": "Labin Old Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie die schmalen Gassen als Wind- und Regenschutz beim Gehen.",
+                "hu": "Használja a szűk utcákat szél- és esővédőként séta közben.",
+                "ro": "Folosiți străzile înguste ca protecție împotriva vântului și ploii.",
+                "en": "Use the narrow alleys as wind and rain protection while walking."
+              }
+            },
+            {
+              "name": "Labin National Museum",
+              "tip_5lang": {
+                "de": "Der rekonstruierte Bergwerkstollen ist der perfekte Ort für einen Regentag.",
+                "hu": "A rekonstruált bányajárat tökéletes helyszín egy esős napon.",
+                "ro": "Tunelul minier reconstruit este locul perfect pentru o zi ploioasă.",
+                "en": "The reconstructed mining tunnel is the perfect spot for a rainy day."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Blessed Virgin Mary",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und den trockenen Innenraum dieser historischen Kirche.",
+                "hu": "Élvezze a csendet és a száraz belsőt ebben a történelmi templomban.",
+                "ro": "Bucurați-vă de liniștea și interiorul uscat al acestei biserici istorice.",
+                "en": "Enjoy the silence and the dry interior of this historic church."
+              }
+            },
+            {
+              "name": "Palazzo Negri",
+              "tip_5lang": {
+                "de": "Ein großartiger Ort für eine kurze Pause unter den Arkaden oder im Inneren.",
+                "hu": "Nagyszerű hely egy rövid szünetre az árkádok alatt vagy bent.",
+                "ro": "Un loc excelent pentru o scurtă pauză sub arcade sau în interior.",
+                "en": "A great spot for a short break under the arches or inside."
+              }
+            },
+            {
+              "name": "Fortica Viewpoint",
+              "tip_5lang": {
+                "de": "Halten Sie den Regenschirm fest, da es hier oben sehr windig sein kann.",
+                "hu": "Fogja erősen az esernyőt, mert itt fent nagyon szeles lehet az idő.",
+                "ro": "Țineți bine umbrela, deoarece aici sus poate fi foarte vânt.",
+                "en": "Hold your umbrella firmly as it can be very windy up here."
+              }
+            },
+            {
+              "name": "Podlabin Mining Heritage",
+              "tip_5lang": {
+                "de": "Die industriellen Strukturen bieten einige überdachte Bereiche zum Erkunden.",
+                "hu": "Az ipari építmények több fedett részt is kínálnak a felfedezéshez.",
+                "ro": "Structurile industriale oferă câteva zone acoperite pentru explorare.",
+                "en": "The industrial structures offer several covered areas for exploration."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich in der Altstadt Pfützen bilden können.",
+              "Das Nationalmuseum bietet stundenlangen Schutz vor starkem Regen.",
+              "Nutzen Sie die zahlreichen Cafés in der Altstadt für Aufwärmpausen.",
+              "Die Aussicht von der Fortica ist trotz Regen wegen der Lichtspiele sehenswert."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óvárosban megállhat a víz a mélyedésekben.",
+              "A Nemzeti Múzeum órákig tartó védelmet nyújt a heves eső elől.",
+              "Használja ki az óváros kávézóit egy-egy melegítő szünetre.",
+              "A Fortica kilátása esőben is élmény a fények és a pára játéka miatt."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece în orașul vechi se pot forma bălți.",
+              "Muzeul Național oferă adăpost timp de câteva ore împotriva ploii torențiale.",
+              "Profitați de cafenelele din centrul vechi pentru pauze de încălzire.",
+              "Vederea de la Fortica merită vizitată și pe ploaie pentru jocurile de lumină."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles can form in the uneven old town streets.",
+              "The National Museum provides hours of shelter from heavy rain.",
+              "Take advantage of the many cafes in the old town for warming breaks.",
+              "The view from Fortica is worth visiting even in rain for the light and mist."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Winterspaziergang am kühlen San Fior Tor. Die Altstadt von Labin ist im Winter ruhig und charmant, ohne die Sommermassen. Mittags wärmen Sie sich im Nationalmuseum auf, während Sie in die Tiefe des Stollens eintauchen. Am Nachmittag bietet die Kirche einen Moment der Besinnung in kühler, aber windgeschützter Umgebung. Beobachten Sie den frühen Sonnenuntergang gegen 16:30 Uhr von der Fortica aus, wenn die Lichter von Rabac unten zu funkeln beginnen. Beenden Sie den Tag in Podlabin, wo die kalte Luft die industrielle Silhouette scharf hervorhebt.",
+            "hu": "Kezdje téli sétáját a hűvös San Fior kapunál. Labin óvárosa télen csendes és bájos, a nyári tömeg nélkül. Délben melegedjen fel a Nemzeti Múzeumban, miközben elmerül a bányászat mélységeiben. Délután a templom nyújt egy pillanatnyi nyugalmat a hűvös, de szélvédett környezetben. Nézze meg a korai naplementét 16:30 körül a Fortica kilátóból, amikor Rabac fényei kigyúlnak odalent. Zárja a napot Podlabinban, ahol a hideg levegő élesen kirajzolja az ipari táj sziluettjét.",
+            "ro": "Începeți plimbarea de iarnă la răcoroasa Poartă San Fior. Orașul vechi Labin este liniștit și fermecător iarna, fără mulțimile de vară. La prânz, încălziți-vă în Muzeul Național în timp ce explorați adâncimile minei. După-amiaza, biserica oferă un moment de reflecție într-un mediu răcoros, dar protejat de vânt. Urmăriți apusul devreme, în jurul orei 16:30, de la Fortica, când luminile din Rabac încep să sclipească. Încheiați ziua în Podlabin, unde aerul rece scoate în evidență silueta industrială.",
+            "en": "Begin your winter walk at the chilly San Fior Gate. Labin's Old Town is quiet and charming in winter, devoid of summer crowds. At noon, warm up in the National Museum while diving into the depths of the mine. In the afternoon, the church offers a moment of reflection in a cool but wind-protected environment. Watch the early sunset around 4:30 PM from Fortica as the lights of Rabac begin to twinkle below. End the day in Podlabin, where the cold air sharply highlights the industrial silhouette."
+          },
+          "stops": [
+            {
+              "name": "San Fior Gate",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, der Wind zieht oft durch das geöffnete Tor.",
+                "hu": "Öltözzön rétegesen, a kapun keresztül gyakran behúz a hideg szél.",
+                "ro": "Îmbrăcați-vă gros, vântul trece adesea prin poarta deschisă.",
+                "en": "Dress warmly, as the wind often whistles through the open gate."
+              }
+            },
+            {
+              "name": "Labin Old Town",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Ruhe in den fast leeren mittelalterlichen Gassen.",
+                "hu": "Élvezze a téli nyugalmat a szinte üres középkori utcákon.",
+                "ro": "Bucurați-vă de liniștea iernii pe străzile medievale aproape goale.",
+                "en": "Enjoy the winter tranquility in the nearly empty medieval streets."
+              }
+            },
+            {
+              "name": "Labin National Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um der Winterkälte für eine Weile zu entkommen.",
+                "hu": "Ideális helyszín, hogy egy időre elmeneküljön a téli hideg elől.",
+                "ro": "Un loc ideal pentru a scăpa de frigul iernii pentru o vreme.",
+                "en": "An ideal place to escape the winter cold for a while."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Blessed Virgin Mary",
+              "tip_5lang": {
+                "de": "Die dicken Mauern schützen gut vor dem beißenden Winterwind.",
+                "hu": "A vastag falak jól védenek a metsző téli szél ellen.",
+                "ro": "Zidurile groase protejează bine împotriva vântului tăios de iarnă.",
+                "en": "The thick walls provide good protection against the biting winter wind."
+              }
+            },
+            {
+              "name": "Palazzo Negri",
+              "tip_5lang": {
+                "de": "Suchen Sie hier einen sonnigen Platz an der Fassade zum Aufwärmen.",
+                "hu": "Keressen itt egy napos helyet a homlokzatnál a felmelegedéshez.",
+                "ro": "Căutați un loc însorit lângă fațadă pentru a vă încălzi.",
+                "en": "Look for a sunny spot near the facade here to warm up."
+              }
+            },
+            {
+              "name": "Fortica Viewpoint",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist hier im Winter wegen der klaren Luft spektakulär.",
+                "hu": "A naplemente itt télen a tiszta levegő miatt lenyűgöző.",
+                "ro": "Apusul de soare aici este spectaculos iarna datorită aerului curat.",
+                "en": "The sunset here is spectacular in winter due to the clear air."
+              }
+            },
+            {
+              "name": "Podlabin Mining Heritage",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor Einbruch der Dunkelheit für die besten Fotos.",
+                "hu": "Látogasson el ide sötétedés előtt a legjobb fotók készítéséhez.",
+                "ro": "Vizitați acest loc înainte de lăsarea întunericului pentru cele mai bune poze.",
+                "en": "Visit this spot before dark for the best photographic lighting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Tragen Sie eine winddichte Jacke, besonders für den Aufenthalt an der Fortica.",
+              "Einige Cafés haben im Winter reduzierte Öffnungszeiten.",
+              "Die klare Winterluft ermöglicht weite Sicht bis zur Insel Cres."
+            ],
+            "hu": [
+              "A nap télen már 16:30 körül lemegy, tervezzen eszerint.",
+              "Viseljen szélálló kabátot, különösen a Fortica kilátónál.",
+              "Néhány kávézó télen rövidített nyitvatartással üzemel.",
+              "A tiszta téli levegőben ellátni egészen a Cres-szigetig."
+            ],
+            "ro": [
+              "Soarele apune iarna deja în jurul orei 16:30.",
+              "Purtați o jachetă rezistentă la vânt, mai ales pentru Fortica.",
+              "Unele cafenele au program redus pe timpul iernii.",
+              "Aerul curat de iarnă permite vizibilitate până la insula Cres."
+            ],
+            "en": [
+              "The sun sets as early as 4:30 PM in winter, so plan accordingly.",
+              "Wear a windproof jacket, especially for the time spent at Fortica.",
+              "Some cafes may have reduced operating hours during the winter season.",
+              "The clear winter air allows for views all the way to Cres Island."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -510,6 +710,188 @@
           "Dubrova is best visited in the early morning.",
           "Book a table for lunch during high season."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie komfortabel im regnerischen Labin. Das Auto ermöglicht es Ihnen, trocken zwischen der Altstadt und dem Nationalmuseum zu wechseln. Mittags fahren Sie nach Podlabin, um das industrielle Erbe zu sehen, ohne nass zu werden. Der Höhepunkt ist die Fahrt zum Strand von Rabac, wo Sie die beeindruckende Brandung sicher vom Auto oder einem ufernahen Café aus beobachten können. Am Nachmittag besuchen Sie den Dubrova Skulpturenpark, bevor Sie zur Fortica zurückkehren, um den stürmischen Ausblick zu genießen.",
+            "hu": "Kezdje kényelmesen a napot az esős Labinban. Az autó lehetővé teszi, hogy szárazon váltson az óváros és a múzeum között. Délben hajtson Podlabinba az ipari örökség megtekintéséhez, anélkül, hogy elázna. A nap fénypontja a rabaci tengerpart, ahol a viharos hullámokat biztonságban figyelheti az autóból vagy egy parti kávézóból. Délután látogasson el a Dubrova Szoborparkba, majd térjen vissza a Forticához a drámai kilátásért.",
+            "ro": "Începeți ziua confortabil în Labinul ploios. Mașina vă permite să treceți uscat între orașul vechi și muzeu. La prânz, conduceți spre Podlabin pentru a vedea moștenirea industrială fără a vă uda. Punctul culminant este drumul spre plaja Rabac, unde puteți observa valurile impresionante în siguranță din mașină sau dintr-o cafenea de pe mal. După-amiaza vizitați parcul Dubrova, apoi reveniți la Fortica pentru vederea dramatică.",
+            "en": "Start your day comfortably in rainy Labin. The car allows you to move dry between the Old Town and the National Museum. At noon, drive to Podlabin to see the industrial heritage without getting soaked. The highlight is the trip to Rabac Beach, where you can watch the impressive surf safely from your car or a seaside cafe. In the afternoon, visit the Dubrova Sculpture Park before returning to Fortica for the stormy views."
+          },
+          "stops": [
+            {
+              "name": "Labin Old Town",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem großen Platz direkt am Eingang zur Altstadt.",
+                "hu": "Parkoljon a nagy téren, közvetlenül az óváros bejáratánál.",
+                "ro": "Parcați în piața mare chiar la intrarea în orașul vechi.",
+                "en": "Park in the large square right at the entrance to the Old Town."
+              }
+            },
+            {
+              "name": "National Museum",
+              "tip_5lang": {
+                "de": "Kurze Gehwege vom Parkplatz minimieren den Kontakt mit dem Regen.",
+                "hu": "Rövid séta a parkolótól, így minimális az esővel való érintkezés.",
+                "ro": "Distanța scurtă de la parcare minimizează contactul cu ploaia.",
+                "en": "Short walking distances from the parking lot minimize rain exposure."
+              }
+            },
+            {
+              "name": "Podlabin Soso",
+              "tip_5lang": {
+                "de": "Man kann den Turm gut vom Fahrzeug aus betrachten.",
+                "hu": "A torony kényelmesen megtekinthető akár a járműből is.",
+                "ro": "Turnul poate fi observat confortabil chiar și din vehicul.",
+                "en": "The tower can be viewed comfortably even from the vehicle."
+              }
+            },
+            {
+              "name": "Rabac Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Meer aus dem warmen Auto.",
+                "hu": "Élvezze a tenger látványát a meleg autóból.",
+                "ro": "Bucurați-vă de vederea mării din mașina caldă.",
+                "en": "Enjoy the view of the sea from the warmth of your car."
+              }
+            },
+            {
+              "name": "Dubrova Sculpture Park",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem unbefestigten Parkplatz (Schlammgefahr).",
+                "hu": "Hajtson lassan a nem aszfaltozott parkolóban a sár miatt.",
+                "ro": "Conduceți încet în parcarea neasfaltată din cauza noroiului.",
+                "en": "Drive slowly in the unpaved parking area due to mud risk."
+              }
+            },
+            {
+              "name": "Fortica",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Aussichtspunkt, ideal bei Schauern.",
+                "hu": "A parkoló közel van a kilátóhoz, ideális záporok idején.",
+                "ro": "Parcarea este aproape de punctul de observație, ideal pe ploaie.",
+                "en": "The parking is close to the viewpoint, ideal during showers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf die rutschigen Straßenverhältnisse beim Abstieg nach Rabac.",
+              "Halten Sie die Scheiben beschlagfrei für optimale Sicht.",
+              "Nutzen Sie die Parkplätze in der Nähe der Museen.",
+              "Regenschirm immer griffbereit im Auto lassen."
+            ],
+            "hu": [
+              "Figyeljen a csúszós útviszonyokra a Rabacba vezető szerpentinen.",
+              "Tartsa páramentesen a szélvédőt az optimális látási viszonyokért.",
+              "Használja a múzeumokhoz közeli parkolóhelyeket.",
+              "Az esernyőt tartsa mindig kéznél az autóban."
+            ],
+            "ro": [
+              "Atenție la condițiile de drum alunecos la coborârea spre Rabac.",
+              "Păstrați parbrizul dezaburit pentru vizibilitate optimă.",
+              "Folosiți parcările din apropierea muzeelor.",
+              "Țineți umbrela întotdeauna la îndemână în mașină."
+            ],
+            "en": [
+              "Watch out for slippery road conditions on the descent to Rabac.",
+              "Keep your windows defogged for optimal visibility.",
+              "Utilize parking spots located close to the museums.",
+              "Always keep an umbrella within reach inside the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie gemütlich im winterlichen Labin. Die Heizung sorgt für eine angenehme Fahrt zwischen den historischen Orten. Nach dem Museumsbesuch in der Altstadt fahren Sie nach Podlabin, um die Industriekultur zu bewundern. Mittags geht es hinunter nach Rabac, wo der Strand im Winter leer und friedlich ist. Am Nachmittag besuchen Sie den Skulpturenpark Dubrova, bevor Sie pünktlich zum Sonnenuntergang an der Fortica eintreffen. Die Fahrt zurück bietet einen schönen Blick auf die beleuchtete Stadt unter dem klaren Winterhimmel.",
+            "hu": "Induljon kényelmesen a téli Labinban. A fűtés kellemes utazást biztosít a történelmi helyszínek között. Az óvárosi múzeumlátogatás után hajtson Podlabinba az ipari kultúra megtekintéséhez. Délben ereszkedjen le Rabacba, ahol a strand télen üres és békés. Délután látogasson el a Dubrova Szoborparkba, majd érkezzen meg a Forticához pontosan a naplementére. A visszaút szép látványt nyújt a kivilágított városra a tiszta téli égbolt alatt.",
+            "ro": "Porniți confortabil în Labinul de iarnă. Încălzirea asigură o călătorie plăcută între siturile istorice. După vizita la muzeu, conduceți spre Podlabin pentru a admira cultura industrială. La prânz, coborâți spre Rabac, unde plaja este goală și liniștită iarna. După-amiaza vizitați parcul Dubrova, apoi ajungeți la Fortica exact la apus. Drumul de întoarcere oferă o vedere frumoasă asupra orașului iluminat sub cerul senin.",
+            "en": "Start comfortably in winter Labin. The heater ensures a pleasant drive between historical sites. After the museum visit in the Old Town, drive to Podlabin to admire the industrial culture. At noon, descend to Rabac, where the beach is empty and peaceful in winter. In the afternoon, visit the Dubrova Sculpture Park, then arrive at Fortica exactly for the sunset. The drive back offers a beautiful view of the illuminated city under the clear winter sky."
+          },
+          "stops": [
+            {
+              "name": "Labin Old Town",
+              "tip_5lang": {
+                "de": "Parken Sie im Windschatten von Gebäuden, um das Auto warm zu halten.",
+                "hu": "Parkoljon az épületek szélvédett oldalán, hogy az autó meleg maradjon.",
+                "ro": "Parcați la adăpostul clădirilor pentru a menține mașina caldă.",
+                "en": "Park in the lee of buildings to keep the car warmer."
+              }
+            },
+            {
+              "name": "National Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist gut beheizt und bietet eine willkommene Aufwärmpause.",
+                "hu": "A múzeum jól fűtött, kellemes felmelegedési lehetőséget kínál.",
+                "ro": "Muzeul este bine încălzit și oferă o pauză de încălzire binevenită.",
+                "en": "The museum is well-heated and offers a welcome warming break."
+              }
+            },
+            {
+              "name": "Podlabin Soso",
+              "tip_5lang": {
+                "de": "Die Parkmöglichkeiten sind im Winter direkt am Turm reichlich vorhanden.",
+                "hu": "Télen bőségesen van parkolóhely közvetlenül a toronynál.",
+                "ro": "Locurile de parcare sunt abundente iarna chiar lângă turn.",
+                "en": "Parking spots are plentiful in winter right by the tower."
+              }
+            },
+            {
+              "name": "Rabac Beach",
+              "tip_5lang": {
+                "de": "Verlassen Sie das Auto nur kurz für einen Spaziergang an der Meeresbrise.",
+                "hu": "Csak rövid időre szálljon ki egy sétára a tengeri szélben.",
+                "ro": "Ieșiți din mașină doar scurt pentru o plimbare în briza mării.",
+                "en": "Leave the car only briefly for a walk in the crisp sea breeze."
+              }
+            },
+            {
+              "name": "Dubrova Sculpture Park",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße kann bei Frost stellenweise glatt sein.",
+                "hu": "A bekötőút fagyos időben helyenként csúszós lehet.",
+                "ro": "Drumul de acces poate fi alunecos pe alocuri în caz de îngheț.",
+                "en": "The access road can be slippery in patches if there is frost."
+              }
+            },
+            {
+              "name": "Fortica",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang bequem von den Parkplätzen aus.",
+                "hu": "Élvezze a naplementét kényelmesen a parkolóhelyekről.",
+                "ro": "Bucurați-vă de apus confortabil direct din parcare.",
+                "en": "Enjoy the sunset comfortably right from the parking area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind Pflicht, wenn Sie in die höheren Lagen fahren.",
+              "Frostschutzmittel in der Scheibenwaschanlage nicht vergessen.",
+              "Die Bergstraßen um Labin können im Schatten vereist sein.",
+              "Heizung im Stand nur kurz nutzen, um die Batterie zu schonen."
+            ],
+            "hu": [
+              "Téli gumi használata kötelező, ha a magasabb részekre utazik.",
+              "Ne felejtse el a fagyállót a szélvédőmosó folyadékba.",
+              "A Labin környéki hegyi utak árnyékos részei jegesek lehetnek.",
+              "Álló helyzetben csak rövid ideig használja a fűtést."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii dacă mergeți spre zonele înalte.",
+              "Nu uitați antigelul în lichidul de spălare a parbrizului.",
+              "Drumurile montane din jurul Labinului pot fi înghețate la umbră.",
+              "Folosiți încălzirea pe loc doar scurt pentru a proteja bateria."
+            ],
+            "en": [
+              "Winter tires are mandatory if traveling to higher elevations.",
+              "Don't forget antifreeze in your windshield washer fluid.",
+              "Mountain roads around Labin can be icy in shaded areas.",
+              "Use the heater sparingly while stationary to save battery."
+            ]
+          }
+        }
       }
     }
   }

@@ -342,6 +342,196 @@
           "Most sights in the city center are within easy walking distance.",
           "Allow time for spontaneous discoveries in the small alleys."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Morgen in der Altstadt von Cazin führt Sie durch charmante, nasse Gassen zur Moschee. Mittags bietet die Festung einen dramatischen Blick auf die neblige Landschaft, während Sie Schutz unter alten Torbögen suchen. Der Nachmittag gehört den historischen Häusern, deren Innenräume eine gemütliche Flucht vor dem Wetter bieten. Der Abend klingt ruhig in einem lokalen Café im Zentrum aus.",
+            "hu": "Az esős reggel Cazin óvárosának vizes macskakövein és a mecset hűvös falai között indul. Délben a vár bástyái alatt keresünk menedéket a ködös panoráma mellett. Délután a történelmi lakóházak belső terei nyújtanak száraz és kulturális élményt. Az estét egy központi kávézó melegében zárjuk, hallgatva az eső kopogását a háztetőkön.",
+            "ro": "O dimineață ploioasă în orașul vechi din Cazin vă poartă prin străduțe umede către moschee. La prânz, cetatea oferă o vedere dramatică asupra peisajului cețos sub arcadele vechi. După-amiaza este dedicată caselor istorice, ale căror interioare oferă un refugiu primitor. Seara se încheie liniștit într-o cafenea locală din centru.",
+            "en": "A rainy morning in Cazin's old town leads you through charming, wet streets to the mosque. At noon, the fortress offers a dramatic view of the misty landscape while you find shelter under ancient arches. The afternoon belongs to the historical houses, where interiors offer a cozy escape from the weather. The evening ends quietly in a local cafe in the center."
+          },
+          "stops": [
+            {
+              "name": "Old Town of Cazin",
+              "tip_5lang": {
+                "de": "Regenschirm bereit halten, die Gassen sind eng.",
+                "hu": "Legyen kéznél esernyő a szűk utcákban.",
+                "ro": "Țineți umbrela la îndemână pe străzile înguste.",
+                "en": "Keep an umbrella handy in the narrow streets."
+              }
+            },
+            {
+              "name": "Cazin Town Mosque",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort für Besinnung.",
+                "hu": "Csendes, száraz hely az elmélyüléshez.",
+                "ro": "Un loc liniștit și uscat pentru reflecție.",
+                "en": "A quiet, dry place for reflection."
+              }
+            },
+            {
+              "name": "Cazin Fortress",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steine können bei Nässe glatt sein.",
+                "hu": "Vigyázat, a kövek nedvesen csúszhatnak.",
+                "ro": "Atenție, pietrele pot fi alunecoase când sunt ude.",
+                "en": "Caution, the stones can be slippery when wet."
+              }
+            },
+            {
+              "name": "Radetina Tower",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt im Freien, wasserfeste Schuhe nutzen.",
+                "hu": "Rövid kinti megálló, vízálló cipő javasolt.",
+                "ro": "Oprire scurtă afară, folosiți încălțăminte impermeabilă.",
+                "en": "Short outdoor stop, use waterproof shoes."
+              }
+            },
+            {
+              "name": "House of Nurija Pozderac",
+              "tip_5lang": {
+                "de": "Perfekter Zufluchtsort vor dem Regen.",
+                "hu": "Tökéletes menedék az eső elől.",
+                "ro": "Refugiul perfect împotriva ploii.",
+                "en": "Perfect refuge from the rain."
+              }
+            },
+            {
+              "name": "House of Ibro Alajbegović",
+              "tip_5lang": {
+                "de": "Genießen Sie die historische Atmosphäre im Trockenen.",
+                "hu": "Élvezze a történelmi hangulatot szárazon.",
+                "ro": "Bucurați-vă de atmosfera istorică la adăpost.",
+                "en": "Enjoy the historical atmosphere in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Passagen der Altstadt als Regenschutz.",
+              "Wasserfeste Wanderschuhe sind für die Festungshügel Pflicht.",
+              "Planen Sie längere Pausen in den historischen Häusern ein.",
+              "Die Cafés rund um den Busbahnhof sind gute Unterstände.",
+              "Ein kompakter Regenschirm ist praktischer als ein großer."
+            ],
+            "hu": [
+              "Használja az óváros árkádjait eső elleni védelemként.",
+              "Vízálló túrabakancs kötelező a várhoz vezető dombon.",
+              "Tervezzen hosszabb megállókat a történelmi házakban.",
+              "A buszállomás környéki kávézók jó menedékhelyek.",
+              "Egy kompakt esernyő praktikusabb a szűk utcákban."
+            ],
+            "ro": [
+              "Folosiți pasajele orașului vechi ca protecție contra ploii.",
+              "Ghetele impermeabile sunt obligatorii pentru dealul cetății.",
+              "Planificați pauze mai lungi în casele istorice.",
+              "Cafenelele din jurul autogării sunt bune adăposturi.",
+              "O umbrelă compactă este mai practică pe străzile înguste."
+            ],
+            "en": [
+              "Use the old town passages as rain protection.",
+              "Waterproof hiking boots are mandatory for the fortress hill.",
+              "Plan longer breaks inside the historical houses.",
+              "Cafes around the bus station are good shelters.",
+              "A compact umbrella is more practical in narrow streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Cazin im Winter glänzt unter einer Frostschicht. Der Morgen in der Altstadt ist frisch, die Moschee wirkt im grauen Licht erhaben. Mittags peitscht der Wind auf der Festung, doch die Aussicht auf die verschneiten Dächer ist herrlich. Nachmittags wärmen Sie sich in den historischen Wohnhäusern auf. Der Abend endet früh bei heißem Tee und lokaler Küche.",
+            "hu": "A téli Cazin deres háztetőkkel várja. A reggeli séta az óvárosban frissítő, a mecset látványa ilyenkor különösen fenséges. Délben a vár fokán csípős a szél, de a behavazott völgy látványa kárpótolja. Délután a régi lakóházak vastag falai között melegszünk fel. Az este korán kezdődik egy forró tea és helyi ételek mellett.",
+            "ro": "Cazin în timpul iernii strălucește sub un strat de brumă. Dimineața în orașul vechi este proaspătă, iar moscheea pare impunătoare. La prânz, vântul bate tare la cetate, dar vederea acoperișurilor înzăpezite este superbă. După-amiaza vă încălziți în casele istorice. Seara se încheie devreme cu un ceai fierbinte și bucătărie locală.",
+            "en": "Cazin in winter shines under a layer of frost. The morning in the old town is fresh, and the mosque looks grand in the cool light. At noon, the wind whips at the fortress, but the view of snowy rooftops is magnificent. In the afternoon, warm up inside the historical residences. The evening ends early with hot tea and local cuisine."
+          },
+          "stops": [
+            {
+              "name": "Old Town of Cazin",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stufen in der Altstadt.",
+                "hu": "Vigyázzon a jeges lépcsőkre az óvárosban.",
+                "ro": "Atenție la treptele înghețate din orașul vechi.",
+                "en": "Watch out for icy steps in the old town."
+              }
+            },
+            {
+              "name": "Cazin Town Mosque",
+              "tip_5lang": {
+                "de": "Im Winter oft angenehm beheizt.",
+                "hu": "Télen gyakran kellemesen fűtött.",
+                "ro": "Aesea încălzit plăcut în timpul iernii.",
+                "en": "Often pleasantly heated during winter."
+              }
+            },
+            {
+              "name": "Cazin Fortress",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind wegen des Winds nötig.",
+                "hu": "A szél miatt meleg kesztyű szükséges.",
+                "ro": "Mănușile groase sunt necesare din cauza vântului.",
+                "en": "Warm gloves are necessary because of the wind."
+              }
+            },
+            {
+              "name": "Radetina Tower",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, bevor es zu kalt wird.",
+                "hu": "Rövid fotómegálló, mielőtt túl hideg lenne.",
+                "ro": "Oprire foto scurtă înainte de a deveni prea frig.",
+                "en": "Short photo stop before it gets too cold."
+              }
+            },
+            {
+              "name": "House of Nurija Pozderac",
+              "tip_5lang": {
+                "de": "Kultur pur in warmer Umgebung.",
+                "hu": "Tiszta kultúra meleg környezetben.",
+                "ro": "Cultură pură într-un mediu cald.",
+                "en": "Pure culture in a warm environment."
+              }
+            },
+            {
+              "name": "House of Ibro Alajbegović",
+              "tip_5lang": {
+                "de": "Ein schöner Abschluss im warmen Interieur.",
+                "hu": "Szép zárás a meleg belső terekben.",
+                "ro": "Un final frumos în interiorul cald.",
+                "en": "A nice finish in the warm interior."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermokleidung für den Aufstieg zur Festung.",
+              "Die Sonne geht im Dezember bereits gegen 16:15 Uhr unter.",
+              "Wollsocken helfen gegen die Kälte auf den Steinböden.",
+              "Suchen Sie Cafés mit Kamin für die Mittagspause.",
+              "Vorsicht vor Eiszapfen an den alten Häusern."
+            ],
+            "hu": [
+              "Viseljen termaruházat a várba való felkapaszkodáshoz.",
+              "A nap decemberben már 16:15 körül lemegy.",
+              "A gyapjúzokni segít a hideg kőpadlókon.",
+              "Keressen kandallós kávézót a déli pihenőhöz.",
+              "Vigyázzon a jégcsapokra a régi házak ereszein."
+            ],
+            "ro": [
+              "Purtați haine termice pentru urcarea la cetate.",
+              "Soarele apune deja în jurul orei 16:15 în decembrie.",
+              "Șosetele de lână ajută împotriva frigului de pe podelele de piatră.",
+              "Căutați cafenele cu șemineu pentru pauza de prânz.",
+              "Atenție la țurțurii de gheață de pe casele vechi."
+            ],
+            "en": [
+              "Wear thermal clothing for the climb to the fortress.",
+              "The sun sets around 16:15 in December.",
+              "Woolen socks help against the cold on stone floors.",
+              "Look for cafes with fireplaces for your midday break.",
+              "Watch out for icicles on the old houses."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -622,6 +812,178 @@
           "Bring a lock to secure your bike.",
           "The route to the Una River is scenic, but be prepared for some hills."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein herausfordernder Radtag beginnt in der feuchten Altstadt. Der Weg zur Festung erfordert volle Konzentration auf dem nassen Untergrund. Mittags erreichen Sie den Una-Aussichtspunkt, wo der Regen den Fluss besonders mächtig erscheinen lässt. Nachmittags suchen Sie Schutz bei der Moschee und den historischen Häusern. Der Tag endet mit einer verdienten warmen Mahlzeit.",
+            "hu": "Kihívást jelentő kerékpáros nap indul a nyirkos óvárosban. A vár felé vezető út koncentrációt igényel a vizes talajon. Délben az Una-kilátóhoz érve a folyó különösen vadnak tűnik az esőben. Délután a mecset és a történelmi házak környékén keresünk fedett helyet. A nap egy megérdemelt meleg étellel zárul.",
+            "ro": "O zi provocatoare de ciclism începe în orașul vechi umed. Drumul spre cetate necesită concentrare maximă pe terenul ud. La prânz ajungeți la punctul de belvedere Una, unde ploaia face râul să pară impunător. După-amiaza căutați adăpost lângă moschee și casele istorice. Ziua se încheie cu o masă caldă meritată.",
+            "en": "A challenging cycling day starts in the damp old town. The path to the fortress requires full concentration on the wet ground. At noon, you reach the Una viewpoint, where the rain makes the river appear especially powerful. In the afternoon, seek shelter near the mosque and historical houses. The day ends with a well-deserved warm meal."
+          },
+          "stops": [
+            {
+              "name": "Old Town of Cazin",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster.",
+                "hu": "Vigyázzon a vizes macskakövön.",
+                "ro": "Atenție pe pavajul umed.",
+                "en": "Be careful on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Cazin Fortress",
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Regen rutschig.",
+                "hu": "Az emelkedő esőben csúszós.",
+                "ro": "Urcarea este alunecoasă pe ploaie.",
+                "en": "The climb is slippery in the rain."
+              }
+            },
+            {
+              "name": "Una River Viewpoint",
+              "tip_5lang": {
+                "de": "Spektakuläre, neblige Aussicht – Regenjacke fest verschließen.",
+                "hu": "Látványos ködös kilátás – zárt esőkabát ajánlott.",
+                "ro": "Vedere spectaculoasă și cețoasă – închideți bine pelerina.",
+                "en": "Spectacular misty view – keep your raincoat closed."
+              }
+            },
+            {
+              "name": "Cazin Town Mosque",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter das Vordach gegenüber.",
+                "hu": "Támassza a biciklit a szemközti előtető alá.",
+                "ro": "Parcați bicicleta sub copertina de vizavi.",
+                "en": "Park your bike under the canopy opposite."
+              }
+            },
+            {
+              "name": "House of Nurija Pozderac",
+              "tip_5lang": {
+                "de": "Kurze Pause im Trockenen einlegen.",
+                "hu": "Tartson egy rövid szünetet a szárazon.",
+                "ro": "Luați o scurtă pauză la adăpost.",
+                "en": "Take a short break in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine komplette Regenmontur mit Überschuhen.",
+              "Prüfen Sie Ihre Bremsen vor den steilen Abfahrten.",
+              "Schutzbleche am Rad verhindern Schlammspritzer.",
+              "Meiden Sie unbefestigte Waldwege bei starkem Regen.",
+              "Suchen Sie Tankstellen für kurze Trockenpausen auf."
+            ],
+            "hu": [
+              "Viseljen teljes esőfelszerelést cipővédővel.",
+              "Ellenőrizze a fékeket a meredek lejtők előtt.",
+              "A sárvédő elengedhetetlen a sárfelcsapódás ellen.",
+              "Erős esőben kerülje a burkolatlan erdei utakat.",
+              "Használja a benzinkutakat rövid száraz pihenőkre."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie cu protecții pentru pantofi.",
+              "Verificați frânele înainte de coborârile abrupte.",
+              "Aripile la bicicletă previn stropirea cu noroi.",
+              "Evitați drumurile forestiere neasfaltate pe ploaie torențială.",
+              "Opriți la benzinării pentru scurte pauze de uscare."
+            ],
+            "en": [
+              "Wear full rain gear with shoe covers.",
+              "Check your brakes before steep descents.",
+              "Mudguards on the bike prevent mud splashes.",
+              "Avoid unpaved forest paths during heavy rain.",
+              "Use gas stations for short dry breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Cazin ist nur etwas für Hartgesottene. Die kalte Morgenluft in der Altstadt beißt, die Auffahrt zur Festung bringt den Kreislauf in Schwung. Mittags bietet der Una-Blick ein frostiges Panorama. Der Nachmittag führt zurück in die Stadt, wo die Moschee und die alten Häuser im sanften Winterlicht leuchten. Ein heißes Getränk am Ende ist Pflicht.",
+            "hu": "A téli kerékpározás Cazinban csak a legkeményebbeknek való. A hideg reggeli levegő az óvárosban harap, a várba vezető emelkedő viszont felpörgeti a keringést. Délben az Una-kilátó fagyos panorámát nyújt. Délután visszatérünk a városba, ahol a mecset és a régi házak lágy téli fényben úsznak. A végén egy forró ital kötelező.",
+            "ro": "Ciclismul de iarnă în Cazin este doar pentru cei rezistenți. Aerul rece de dimineață în orașul vechi pișcă, dar urcarea la cetate vă încălzește. La prânz, vederea spre Una oferă o panoramă înghețată. După-amiaza vă întoarceți în oraș, unde moscheea și casele vechi strălucesc în lumina blândă de iarnă. O băutură fierbinte la final este obligatorie.",
+            "en": "Winter cycling in Cazin is only for the hardy. The cold morning air in the old town bites, but the climb to the fortress gets your circulation going. At noon, the Una view offers a frosty panorama. The afternoon leads back to town, where the mosque and old houses shine in the soft winter light. A hot drink at the end is mandatory."
+          },
+          "stops": [
+            {
+              "name": "Old Town of Cazin",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Pfützen auf dem Pflaster.",
+                "hu": "Vigyázzon a fagyott tócsákra a kövön.",
+                "ro": "Atenție la bălțile înghețate de pe pavaj.",
+                "en": "Watch out for frozen puddles on the pavement."
+              }
+            },
+            {
+              "name": "Cazin Fortress",
+              "tip_5lang": {
+                "de": "Der Wind oben ist extrem kalt – Kopfschutz!",
+                "hu": "Fent a szél rendkívül hideg – védje a fejét!",
+                "ro": "Vântul sus este extrem de rece – protejați capul!",
+                "en": "The wind up there is extremely cold – head protection!"
+              }
+            },
+            {
+              "name": "Una River Viewpoint",
+              "tip_5lang": {
+                "de": "Kurz anhalten, Kälte zieht schnell in die Finger.",
+                "hu": "Csak rövid megálló, az ujjak gyorsan átfagynak.",
+                "ro": "Oprire scurtă, frigul pătrunde repede la degete.",
+                "en": "Short stop, the cold gets to your fingers quickly."
+              }
+            },
+            {
+              "name": "Cazin Town Mosque",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorplatz für eine kurze Dehnung.",
+                "hu": "Használja az előteret egy rövid nyújtáshoz.",
+                "ro": "Folosiți curtea pentru o scurtă încălzire.",
+                "en": "Use the courtyard for a brief stretch."
+              }
+            },
+            {
+              "name": "House of Nurija Pozderac",
+              "tip_5lang": {
+                "de": "Besichtigung als Aufwärmpause nutzen.",
+                "hu": "Használja a látogatást melegedő szünetnek.",
+                "ro": "Folosiți vizita ca pauză de încălzire.",
+                "en": "Use the visit as a warming break."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Schichten (Zwiebelprinzip).",
+              "Vorsicht vor Glatteis im Schatten der Hügel.",
+              "Die Reifen sollten weniger Druck für mehr Grip haben.",
+              "Starten Sie spät und enden Sie vor Sonnenuntergang.",
+              "Ein isolierter Becher mit heißem Tee ist Gold wert."
+            ],
+            "hu": [
+              "Viseljen szélálló rétegeket (hagyma-elv).",
+              "Vigyázzon a jégbordákra a dombok árnyékos oldalán.",
+              "Kicsit laposabb gumik jobb tapadást adnak.",
+              "Kezdjen későn és fejezze be naplemente előtt.",
+              "Egy termosz forró tea aranyat ér."
+            ],
+            "ro": [
+              "Purtați straturi rezistente la vânt (principiul cepei).",
+              "Atenție la polei în umbra dealurilor.",
+              "Anvelopele ar trebui să aibă presiune mai mică pentru aderență.",
+              "Începeți târziu și terminați înainte de apus.",
+              "Un termos cu ceai fierbinte valorează aur."
+            ],
+            "en": [
+              "Wear windproof layers (layering principle).",
+              "Watch out for black ice in the shadows of hills.",
+              "Lower tire pressure can provide better grip.",
+              "Start late and finish before sunset.",
+              "An insulated mug with hot tea is worth its weight in gold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -926,6 +1288,196 @@
           "A GPS is highly recommended for navigating outside the city.",
           "Check the opening hours for Ostrožac Castle in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt beim nebligen Schloss Ostrožac, das im Regen besonders mystisch wirkt. Danach geht es ins Zentrum von Cazin, wo Sie die Altstadt und die Moschee zwischen den Schauern erkunden. Der Nachmittag führt zur Festung und zum Una-Blick, wobei das Auto stets ein trockenes Refugium bleibt. Der Abend endet bei einem gemütlichen Dinner mit Panoramablick.",
+            "hu": "A túra a ködös Ostrožac váránál indul, amely esőben különösen misztikus. Ezután Cazin központja következik, ahol a záporok között fedezzük fel az óvárost és a mecsetet. Délután a vár és az Una-kilátó a cél, az autó pedig mindig biztosítja a száraz menedéket. A nap egy hangulatos, panorámás vacsorával zárul.",
+            "ro": "Călătoria începe la castelul Ostrožac, care pare mistic în ceață și ploaie. Urmează centrul orașului Cazin, unde explorați orașul vechi și moscheea între averse. După-amiaza duce la cetate și punctul de belvedere Una, mașina fiind un refugiu uscat permanent. Seara se încheie cu o cină plăcută cu vedere panoramică.",
+            "en": "The journey begins at the misty Ostrožac Castle, which looks particularly mystical in the rain. Then it's on to Cazin center, where you explore the old town and mosque between showers. The afternoon leads to the fortress and Una view, with the car always providing a dry refuge. The evening ends with a cozy dinner with a panoramic view."
+          },
+          "stops": [
+            {
+              "name": "Ostrožac Castle",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, Wege sind unbefestigt.",
+                "hu": "Parkoljon közel a bejárathoz, az utak burkolatlanok.",
+                "ro": "Parcați aproape de intrare, drumurile nu sunt asfaltate.",
+                "en": "Park close to the entrance, paths are unpaved."
+              }
+            },
+            {
+              "name": "Cazin Old Town (Cluster)",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz nutzen, um schnell im Trockenen zu sein.",
+                "hu": "Használja a központi parkolót a gyors bejutáshoz.",
+                "ro": "Folosiți parcarea centrală pentru a ajunge repede la adăpost.",
+                "en": "Use the central parking lot for quick access to shelter."
+              }
+            },
+            {
+              "name": "Cazin Town Mosque",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Auto, ideal bei Regen.",
+                "hu": "Rövid séta az autótól, ideális esőben.",
+                "ro": "Scurtă plimbare de la mașină, ideal pe ploaie.",
+                "en": "Short walk from the car, ideal in the rain."
+              }
+            },
+            {
+              "name": "Cazin Fortress",
+              "tip_5lang": {
+                "de": "Aussicht genießen, auch wenn es bewölkt ist.",
+                "hu": "Élvezze a kilátást felhős időben is.",
+                "ro": "Bucurați-vă de vedere chiar dacă este înnorat.",
+                "en": "Enjoy the view even if it is cloudy."
+              }
+            },
+            {
+              "name": "Una River Viewpoint",
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man oft auch eine gute Sicht.",
+                "hu": "Az autóból is gyakran jó a kilátás.",
+                "ro": "Din mașină aveți adesea o vedere bună.",
+                "en": "You often have a good view from the car as well."
+              }
+            },
+            {
+              "name": "Dinner with a view",
+              "tip_5lang": {
+                "de": "Perfekt, um den Regen draußen zu beobachten.",
+                "hu": "Tökéletes az eső megfigyelésére a melegből.",
+                "ro": "Perfect pentru a urmări ploaia de la căldură.",
+                "en": "Perfect for watching the rain from the warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Landstraßen.",
+              "Parken Sie an der Festung auf befestigten Flächen.",
+              "Halten Sie ein Handtuch im Auto bereit.",
+              "Nutzen Sie die Nebelscheinwerfer in den Flusstälern.",
+              "Planen Sie mehr Zeit für die Fahrt zwischen den Spots ein."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra az országutakon.",
+              "A várnál szilárd burkolatú helyen parkoljon.",
+              "Legyen kéznél törölköző az autóban.",
+              "Használja a ködfényszórót a folyóvölgyekben.",
+              "Tervezzen több időt a helyszínek közötti útra."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile naționale.",
+              "Parcați la cetate pe suprafețe consolidate.",
+              "Țineți un prosop la îndemână în mașină.",
+              "Folosiți farurile de ceață în văile râurilor.",
+              "Planificați mai mult timp pentru condus între puncte."
+            ],
+            "en": [
+              "Watch out for aquaplaning on country roads.",
+              "Park on paved surfaces near the fortress.",
+              "Keep a towel ready in the car.",
+              "Use fog lights in the river valleys.",
+              "Plan more time for driving between spots."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermärchen beginnt am verschneiten Schloss Ostrožac. Die Fahrt durch die weiße Landschaft nach Cazin ist beeindruckend. Mittags erkunden Sie die Altstadt, während der Schnee die Geräusche dämpft. Der Besuch der Festung bietet ein weites, frostiges Panorama über das Tal. Der Una-Blick am Nachmittag ist kurz, aber intensiv, bevor Sie sich beim Dinner aufwärmen.",
+            "hu": "Téli tündérmese indul a havas Ostrožac váránál. Az út a fehér tájon át Cazinba lenyűgöző. Délben az óvárost fedezzük fel, miközben a hó elnyeli a város zajait. A várlátogatás fagyos, tágas panorámát kínál a völgy felett. Az Una-kilátó délután rövid, de intenzív élmény, mielőtt a vacsoránál felmelegednénk.",
+            "ro": "O poveste de iarnă începe la castelul înzăpezit Ostrožac. Drumul prin peisajul alb spre Cazin este impresionant. La prânz explorați orașul vechi, în timp ce zăpada atenuează zgomotele. Vizita la cetate oferă o panoramă vastă și înghețată peste vale. Vederea spre Una este scurtă, dar intensă, înainte de încălzirea la cină.",
+            "en": "A winter fairytale begins at the snowy Ostrožac Castle. The drive through the white landscape to Cazin is impressive. At noon, explore the old town while the snow muffles the city sounds. The fortress visit offers a wide, frosty panorama over the valley. The Una view in the afternoon is short but intense before warming up at dinner."
+          },
+          "stops": [
+            {
+              "name": "Ostrožac Castle",
+              "tip_5lang": {
+                "de": "Vorsicht, die Auffahrt kann glatt sein.",
+                "hu": "Vigyázat, a feljáró jeges lehet.",
+                "ro": "Atenție, urcarea poate fi alunecoasă.",
+                "en": "Caution, the driveway can be slippery."
+              }
+            },
+            {
+              "name": "Cazin Old Town (Cluster)",
+              "tip_5lang": {
+                "de": "Parkplätze sind oft schlechter geräumt.",
+                "hu": "A parkolókat gyakran rosszabbul takarítják.",
+                "ro": "Parcările sunt adesea curățate mai greu.",
+                "en": "Parking lots are often not as well cleared."
+              }
+            },
+            {
+              "name": "Cazin Town Mosque",
+              "tip_5lang": {
+                "de": "Ein kurzer, besinnlicher Stopp im Warmen.",
+                "hu": "Rövid, meghitt megálló a melegben.",
+                "ro": "O oprire scurtă și liniștită la căldură.",
+                "en": "A short, contemplative stop in the warmth."
+              }
+            },
+            {
+              "name": "Cazin Fortress",
+              "tip_5lang": {
+                "de": "Herrlicher Blick auf das verschneite Cazin.",
+                "hu": "Pazar kilátás a havas Cazinra.",
+                "ro": "Vedere superbă asupra orașului Cazin înzăpezit.",
+                "en": "Magnificent view of snowy Cazin."
+              }
+            },
+            {
+              "name": "Una River Viewpoint",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneeverwehungen am Rand.",
+                "hu": "Vigyázzon a hóátfúvásokra az út szélén.",
+                "ro": "Atenție la troienele de zăpadă de pe margine.",
+                "en": "Watch out for snowdrifts on the edge."
+              }
+            },
+            {
+              "name": "Dinner with a view",
+              "tip_5lang": {
+                "de": "Genießen Sie lokale Winterspezialitäten.",
+                "hu": "Kóstolja meg a helyi téli specialitásokat.",
+                "ro": "Gustați specialitățile locale de iarnă.",
+                "en": "Enjoy local winter specialties."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Schneeketten sind in Bosnien Pflicht.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Straßen zur Una können bei starkem Schneefall gesperrt sein.",
+              "Lassen Sie das Auto für die Altstadt-Erkundung stehen.",
+              "Achten Sie auf die frühe Dunkelheit bei der Rückfahrt."
+            ],
+            "hu": [
+              "Téli gumi és hólánc kötelező Boszniában.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Az Una felé vezető utak erős havazáskor lezárhatók.",
+              "Az óvárosi részhez hagyja az autót egy parkolóban.",
+              "Figyeljen a korai sötétedésre a hazaúton."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și lanțurile sunt obligatorii în Bosnia.",
+              "Verificați antigelul în lichidul de parbriz.",
+              "Drumurile spre Una pot fi închise la ninsoare puternică.",
+              "Lăsați mașina în parcare pentru explorarea orașului vechi.",
+              "Atenție la întunericul care se lasă devreme la întoarcere."
+            ],
+            "en": [
+              "Winter tires and snow chains are mandatory in Bosnia.",
+              "Check the antifreeze in your windshield washer fluid.",
+              "Roads to Una can be closed during heavy snowfall.",
+              "Leave the car in a lot for exploring the old town.",
+              "Be mindful of early darkness on the return trip."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1186,6 +1738,178 @@
           "Be prepared for buses to be crowded, especially during peak hours.",
           "The ride to Ostrožac offers nice views of the countryside."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Busbahnhof, während der Regen auf das Dach trommelt. Der Vormittag in der Altstadt und Festung wird durch strategische Pausen in Cafés unterbrochen. Mittags bringt Sie der Bus nach Ostrožac, wo das Schloss im grauen Licht thront. Nachmittags erkunden Sie die Schlossanlage im Schutz der alten Mauern, bevor es zurück nach Cazin geht.",
+            "hu": "A nap a buszállomáson indul, miközben az eső a tetőn kopog. A délelőttöt az óvárosban és a várban kávéházi szünetek szakítják meg. Délben busz visz Ostrožacba, ahol a vár szürke fényben trónol. Délután a várfalak védelmében fedezzük fel a komplexumot, majd visszatérünk Cazinba.",
+            "ro": "Ziua începe la autogară, în timp ce ploaia bate în acoperiș. Dimineața în orașul vechi și la cetate este marcată de pauze strategice în cafenele. La prânz, autobuzul vă duce la Ostrožac, unde castelul tronează în lumina gri. După-amiaza explorați complexul sub protecția zidurilor vechi, înainte de întoarcerea în Cazin.",
+            "en": "The day begins at the bus station while rain drums on the roof. The morning in the old town and fortress is punctuated by strategic breaks in cafes. At noon, the bus takes you to Ostrožac, where the castle reigns in the grey light. In the afternoon, explore the castle complex under the protection of old walls before returning to Cazin."
+          },
+          "stops": [
+            {
+              "name": "Cazin Bus Station (Arrival)",
+              "tip_5lang": {
+                "de": "Warten Sie im Gebäude auf den Anschluss.",
+                "hu": "Várjon az épületben a csatlakozásra.",
+                "ro": "Așteptați în interiorul clădirii legătura.",
+                "en": "Wait inside the building for your connection."
+              }
+            },
+            {
+              "name": "Cazin Old Town & Fortress (Cluster)",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten nutzen.",
+                "hu": "Használja a látnivalók közötti rövid utakat.",
+                "ro": "Folosiți distanțele scurte între obiective.",
+                "en": "Take advantage of the short distances between sights."
+              }
+            },
+            {
+              "name": "Bus to Ostrožac",
+              "tip_5lang": {
+                "de": "Einstieg ist oft unüberdacht, Schirm bereit halten.",
+                "hu": "A felszállóhely gyakran fedetlen, legyen kint az ernyő.",
+                "ro": "Locul de îmbarcare este adesea neacoperit, pregătiți umbrela.",
+                "en": "The boarding area is often uncovered, have your umbrella ready."
+              }
+            },
+            {
+              "name": "Ostrožac Castle",
+              "tip_5lang": {
+                "de": "Das Schloss bietet viele überdachte Bereiche.",
+                "hu": "A várban sok a fedett terület.",
+                "ro": "Castelul oferă multe zone acoperite.",
+                "en": "The castle offers many covered areas."
+              }
+            },
+            {
+              "name": "Return trip to Cazin",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten bei Regen genau.",
+                "hu": "Esőben pontosan ellenőrizze a visszaindulást.",
+                "ro": "Verificați exact orele de întoarcere pe ploaie.",
+                "en": "Check return times carefully in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fragen Sie den Fahrer nach dem genauen Ausstieg für das Schloss.",
+              "Kleine Scheine für das Busticket bereithalten.",
+              "Busse können bei starkem Regen leichte Verspätung haben.",
+              "Nutzen Sie die Wartehalle im Bahnhof Cazin.",
+              "Ein Regenponcho ist im Bus platzsparender als ein Schirm."
+            ],
+            "hu": [
+              "Kérdezze a sofőrt a várnál lévő pontos megállóról.",
+              "Készítsen elő aprópénzt a buszjegyre.",
+              "Erős esőben a buszoknak lehet némi késése.",
+              "Használja a cazini állomás várótermét.",
+              "A buszon az esőponcho helytakarékosabb, mint az ernyő."
+            ],
+            "ro": [
+              "Întrebați șoferul despre stația exactă pentru castel.",
+              "Pregătiți bancnote mici pentru biletul de autobuz.",
+              "Autobuzele pot avea mici întârzieri pe ploaie torențială.",
+              "Folosiți sala de așteptare din gara Cazin.",
+              "O pelerină de ploaie ocupă mai puțin loc în autobuz decât o umbrelă."
+            ],
+            "en": [
+              "Ask the driver for the exact stop for the castle.",
+              "Have small bills ready for the bus ticket.",
+              "Buses may have slight delays during heavy rain.",
+              "Use the waiting hall at Cazin station.",
+              "A rain poncho is more space-saving on the bus than an umbrella."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Busbahnhof von Cazin. Der Vormittag in der verschneiten Altstadt ist ruhig und stimmungsvoll. Mittags wärmen Sie sich im Bus nach Ostrožac auf, wo das Schloss wie aus einem Märchen in der weißen Landschaft steht. Nachmittags erkunden Sie die gefrorenen Zinnen des Schlosses, bevor Sie rechtzeitig vor der Dunkelheit den Bus zurück nach Cazin nehmen.",
+            "hu": "Fagyos kezdés Cazin buszállomásán. A délelőtt a havas óvárosban csendes és hangulatos. Délben a buszon melegszünk fel Ostrožac felé, ahol a vár mesebeli látvány a fehér tájban. Délután a vár fagyos bástyáit fedezzük fel, majd még sötétedés előtt visszabuszozunk Cazinba.",
+            "ro": "Un început înghețat la autogara din Cazin. Dimineața în orașul vechi înzăpezit este liniștită și plină de atmosferă. La prânz vă încălziți în autobuzul spre Ostrožac, unde castelul arată ca într-o poveste. După-amiaza explorați crestele înghețate ale castelului, înainte de a lua autobuzul înapoi spre Cazin înainte de lăsarea întunericului.",
+            "en": "A frosty start at the Cazin bus station. The morning in the snowy old town is quiet and atmospheric. At noon, warm up on the bus to Ostrožac, where the castle looks like something out of a fairytale in the white landscape. In the afternoon, explore the frozen battlements of the castle before taking the bus back to Cazin before dark."
+          },
+          "stops": [
+            {
+              "name": "Cazin Bus Station (Arrival)",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist beim Warten im Freien nötig.",
+                "hu": "Meleg ruha kell a kinti várakozáshoz.",
+                "ro": "Hainele groase sunt necesare pentru așteptarea afară.",
+                "en": "Warm clothing is necessary while waiting outside."
+              }
+            },
+            {
+              "name": "Cazin Old Town & Fortress (Cluster)",
+              "tip_5lang": {
+                "de": "Besuchen Sie Cafés zwischen den Besichtigungen.",
+                "hu": "Látogasson kávézókat a városnézés között.",
+                "ro": "Vizitați cafenele între obiective.",
+                "en": "Visit cafes between sightseeing stops."
+              }
+            },
+            {
+              "name": "Bus to Ostrožac",
+              "tip_5lang": {
+                "de": "Busse sind im Winter meist gut beheizt.",
+                "hu": "A buszok télen általában jól fűtöttek.",
+                "ro": "Autobuzele sunt de obicei bine încălzite iarna.",
+                "en": "Buses are usually well-heated in winter."
+              }
+            },
+            {
+              "name": "Ostrožac Castle",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefem Schnee auf den Wegen.",
+                "hu": "Vigyázzon a mély hóra az utakon.",
+                "ro": "Atenție la zăpada mare de pe poteci.",
+                "en": "Watch out for deep snow on the paths."
+              }
+            },
+            {
+              "name": "Return trip to Cazin",
+              "tip_5lang": {
+                "de": "Nehmen Sie einen frühen Bus, es wird früh dunkel.",
+                "hu": "Szálljon korai buszra, korán sötétedik.",
+                "ro": "Luați un autobuz devreme, se întunecă repede.",
+                "en": "Take an early bus, it gets dark early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können sich bei starkem Schneefall ändern.",
+              "Warten Sie in der Nähe der Heizung im Bahnhof.",
+              "Tragen Sie rutschfeste Schuhe für den Weg zur Bushaltestelle.",
+              "Ein heißes Getränk im Thermobecher ist ideal für die Fahrt.",
+              "Informieren Sie sich vorab über die letzte Rückfahrt."
+            ],
+            "hu": [
+              "A menetrend erős havazáskor változhat.",
+              "Várjon a fűtőtest közelében az állomáson.",
+              "Viseljen csúszásmentes cipőt a buszmegállóhoz.",
+              "Egy termosz forró ital ideális az útra.",
+              "Tájékozódjon előre az utolsó visszajáratról."
+            ],
+            "ro": [
+              "Orarele se pot modifica la ninsori puternice.",
+              "Așteptați lângă calorifer în gară.",
+              "Purtați încălțăminte antiderapantă pentru drumul spre stație.",
+              "O băutură fierbinte într-un termos este ideală pentru drum.",
+              "Informați-vă din timp despre ultima cursă de întoarcere."
+            ],
+            "en": [
+              "Timetables may change during heavy snowfall.",
+              "Wait near the heater in the station.",
+              "Wear non-slip shoes for the walk to the bus stop.",
+              "A hot drink in a thermal mug is ideal for the journey.",
+              "Check the time of the last return bus in advance."
+            ]
+          }
+        }
       }
     }
   }

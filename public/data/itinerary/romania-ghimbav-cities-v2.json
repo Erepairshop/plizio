@@ -346,6 +346,196 @@
           "Check the opening hours of the Fortified Church in advance.",
           "A small picnic in the park is a great alternative to eating at a restaurant."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag am Rathaus unter dem Schutz Ihres Regenschirms. Mittags bietet die massive Kirchenburg von Weidenbach den perfekten trockenen Rückzugsort zur Besichtigung. Nachmittags wird der Ghimbav-Park durch den Regen besonders grün, auch wenn die Wege am Flussufer etwas matschig sein können. Den Abend lassen Sie bei lokaler Küche in der Nähe des Stadtzentrums ausklingen.",
+            "hu": "A városházánál kezdje a reggelt, esernyővel felszerelkezve. Délben a szász erődtemplom vastag falai nyújtanak menedéket és történelmi látnivalót az eső elől. Délután a park és a folyóparti szakasz friss, esőillatú, de a talaj néhol felázhat, így a vízálló cipő ajánlott. Az estét töltse egy hangulatos helyi vendéglőben, figyelve a város esti fényeit.",
+            "ro": "Începeți dimineața la Primărie, protejați de umbrelă. La prânz, zidurile groase ale Bisericii Fortificate Evanghelice oferă un adăpost perfect și o lecție de istorie. După-amiaza, plimbarea prin parcul Ghimbav este revigorantă, deși poteca de pe malul râului poate fi noroioasă. Seara este momentul ideal pentru a savura o cină caldă într-un local primitor din centru.",
+            "en": "Start your morning at the Town Hall, equipped with a sturdy umbrella. At midday, the fortified church provides an excellent indoor escape while exploring Saxon history. In the afternoon, the park turns vibrant green in the rain, though riverside paths may be soft. Spend your evening enjoying Transylvanian hospitality in a dry, cozy restaurant downtown."
+          },
+          "stops": [
+            {
+              "name": "Ghimbav Town Hall",
+              "tip_5lang": {
+                "de": "Überdachter Eingangsbereich bietet kurzzeitigen Schutz vor Schauern.",
+                "hu": "A bejáratnál fedett rész található, ahol megvárható az eső elvonulása.",
+                "ro": "Zona de intrare oferă un scurt adăpost în caz de aversă neprevăzută.",
+                "en": "The entrance area provides a brief shelter if a heavy shower starts."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Der Platz ist gepflastert, keine Pfützenbildung direkt am Denkmal.",
+                "hu": "A tér kövezett, így nem kell tartani a sártól a monumentumnál.",
+                "ro": "Piața este pavată, evitându-se acumularea de noroi lângă monument.",
+                "en": "The square is paved, preventing mud buildup around the monument."
+              }
+            },
+            {
+              "name": "Evangelical Fortified Church",
+              "tip_5lang": {
+                "de": "Idealer Ort für regnerische Tage, die Innenräume sind trocken und kühl.",
+                "hu": "Tökéletes menedék esőben, a belső terek szárazak és csendesek.",
+                "ro": "Refugiu ideal pe ploaie, interioarele sunt uscate și pline de istorie.",
+                "en": "Perfect rainy-day stop; the interior is dry and rich with history."
+              }
+            },
+            {
+              "name": "Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Ikonen im Trockenen, während es draußen regnet.",
+                "hu": "Csodálja meg az ikonokat bent, miközben kint esik az eső.",
+                "ro": "Admirați picturile interioare în timp ce sunteți protejați de ploaie.",
+                "en": "Admire the interior icons while staying dry from the outdoor drizzle."
+              }
+            },
+            {
+              "name": "Ghimbav Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die asphaltierten Wege, um nasse Wiesen zu vermeiden.",
+                "hu": "Használja az aszfaltozott sétányokat a vizes fű elkerülésére.",
+                "ro": "Folosiți aleile asfaltate pentru a evita iarba udă din parc.",
+                "en": "Stick to the paved paths to avoid walking on the wet grass."
+              }
+            },
+            {
+              "name": "Ghimbav Riverside",
+              "tip_5lang": {
+                "de": "Achtung: Die Uferwege können bei starkem Regen rutschig sein.",
+                "hu": "Vigyázat: a folyóparti ösvények sárban csúszóssá válhatnak.",
+                "ro": "Atenție: potecile de pe mal pot deveni alunecoase pe timp de ploaie.",
+                "en": "Caution: the riverside trails can become slippery when muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für den Uferabschnitt.",
+              "Die Kirchenburg ist der beste Ort für längere Regenschauer.",
+              "Ein großer Schirm ist aufgrund des Windes auf freien Flächen besser.",
+              "Cafés im Zentrum bieten gute Trockenmöglichkeiten für Kleidung.",
+              "Prüfen Sie die Bodenbeschaffenheit im Park vor dem Betreten der Rasenflächen."
+            ],
+            "hu": [
+              "Vízálló túrabakancs ajánlott a folyóparti szakaszhoz.",
+              "Az erődtemplom a legjobb hely a hosszabb záporok kivárására.",
+              "A nyílt tereken a szél miatt az erős vázú esernyő praktikusabb.",
+              "A központ kávézói ideálisak a ruházat megszárítására egy tea mellett.",
+              "A parkban maradjon a szilárd burkolatú utakon."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru secțiunea de pe malul râului.",
+              "Biserica fortificată este cel mai bun loc pentru a aștepta trecerea ploii.",
+              "O umbrelă rezistentă este necesară din cauza vântului pe spațiile deschise.",
+              "Cafenelele din centru sunt locuri excelente pentru a vă încălzi și usca.",
+              "Evitați zonele cu iarbă din parc pentru a nu vă uda picioarele."
+            ],
+            "en": [
+              "Wear waterproof hiking boots for the riverside portion of the walk.",
+              "The fortified church is the best spot to wait out heavy downpours.",
+              "A sturdy umbrella is recommended due to wind in open areas.",
+              "Central cafes are perfect for drying off over a warm drink.",
+              "Stick to paved paths in the park to keep your feet dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie den winterlichen Charme von Weidenbach. Morgens liegt oft Frost auf den Denkmälern im Zentrum. Mittags wärmt der Besuch der Kirchenburg auf, auch wenn die dicken Mauern die Kälte speichern – ziehen Sie sich warm an. Der Ghimbav-Park glänzt oft im Schnee, und die Dämmerung am Flussufer setzt gegen 16:30 Uhr ein. Ein heißer Glühwein rundet den Tag ab.",
+            "hu": "Fedezze fel Barcaság téli arcát Ghimbavban. Reggel zúzmarás főtér fogadja, délben pedig az erődtemplom hűvös, de impozáns falai között kalandozhat – réteges öltözet kötelező. Délután a havas park látványa kárpótol a hidegért, a naplemente pedig korán, fél öt körül érkezik a folyóparton. Zárja a napot egy forró itallal a központban.",
+            "ro": "Descoperiți farmecul iernii în Ghimbav. Dimineața, centrul este adesea acoperit de chiciură. La prânz, vizita la biserica fortificată este impresionantă, dar zidurile rețin frigul, deci îmbrăcați-vă gros. Parcul oferă peisaje superbe de iarnă, iar amurgul coboară devreme peste râu, în jurul orei 16:30. Seara, retrageți-vă într-un restaurant pentru o masă caldă.",
+            "en": "Experience the winter charm of Ghimbav. Morning frost coats the central monuments, creating a serene atmosphere. Midday is spent in the fortified church; remember that thick stone walls stay cold, so dress in layers. The park often sparkles in the snow, with sunset arriving early by the river around 4:30 PM. Warm up in the evening with local Transylvanian tea."
+          },
+          "stops": [
+            {
+              "name": "Ghimbav Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht bei gefrorenen Stufen am frühen Morgen.",
+                "hu": "Vigyázzon a lefagyott lépcsőkkel a kora reggeli órákban.",
+                "ro": "Atenție la treptele înghețate în primele ore ale dimineții.",
+                "en": "Be careful of frozen steps during the early morning hours."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Das Denkmal wirkt im Schnee besonders würdevoll.",
+                "hu": "A monumentum a hóesésben különösen méltóságteljes látvány.",
+                "ro": "Monumentul are un aspect solemn când este acoperit de zăpadă.",
+                "en": "The monument looks especially dignified when covered in snow."
+              }
+            },
+            {
+              "name": "Evangelical Fortified Church",
+              "tip_5lang": {
+                "de": "Zwei Paar Socken empfohlen, die Steinfußböden sind im Winter eiskalt.",
+                "hu": "Réteges öltözet ajánlott, a kőpadló télen nagyon hideg.",
+                "ro": "Se recomandă îmbrăcăminte groasă, podelele de piatră sunt reci iarna.",
+                "en": "Layered clothing is a must; stone floors are very cold in winter."
+              }
+            },
+            {
+              "name": "Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und kurzzeitigen Wärme während der Tour.",
+                "hu": "A nyugalom és a rövid felmelegedés helyszíne a séta közben.",
+                "ro": "Un loc de liniște și scurtă încălzire în timpul traseului.",
+                "en": "A place for quiet reflection and a brief warm-up during your tour."
+              }
+            },
+            {
+              "name": "Ghimbav Park",
+              "tip_5lang": {
+                "de": "Die Wege werden geräumt, aber Vorsicht vor Glatteis.",
+                "hu": "Az utakat takarítják, de figyeljen a jeges foltokra.",
+                "ro": "Aleile sunt curățate, dar aveți grijă la porțiunile de gheață.",
+                "en": "Paths are cleared, but watch out for patches of black ice."
+              }
+            },
+            {
+              "name": "Ghimbav Riverside",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind nötig, da der Wind am Fluss schneidend ist.",
+                "hu": "Meleg kesztyű szükséges, a folyóparton metsző lehet a szél.",
+                "ro": "Mănușile groase sunt necesare, vântul de pe mal poate fi tăios.",
+                "en": "Warm gloves are essential; the wind by the river can be biting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 16:30 Uhr unter, planen Sie das Flussufer früher ein.",
+              "Tragen Sie Schuhe mit gutem Profil wegen möglicher Vereisung.",
+              "In der Kirchenburg ist es kälter als draußen, Mütze aufbehalten.",
+              "Nehmen Sie eine Thermoskanne mit Tee für die Parkrunde mit.",
+              "Die meisten Denkmäler sind beleuchtet, was abends toll aussieht."
+            ],
+            "hu": [
+              "A nap 16:30 körül nyugszik, a folyóparti részt vegye előrébb a tervben.",
+              "Jó tapadású talppal rendelkező cipőt válasszon a jegesedés miatt.",
+              "Az erődtemplomban hidegebb van, mint kint, ne vegye le a sapkát.",
+              "Vigyen magával termoszban teát a parki sétához.",
+              "A kivilágított műemlékek sötétedés után is szép látványt nyújtanak."
+            ],
+            "ro": [
+              "Soarele apune în jur de 16:30, planificați vizita la râu mai devreme.",
+              "Alegeți încălțăminte cu talpă aderentă pentru zonele înghețate.",
+              "În biserica fortificată este mai frig decât afară, păstrați căciula.",
+              "Luați un termos cu ceai cald pentru plimbarea prin parc.",
+              "Monumentele iluminate arată spectaculos după lăsarea întunericului."
+            ],
+            "en": [
+              "Sunset is around 4:30 PM, so visit the riverside earlier in the day.",
+              "Wear shoes with good grip to handle potentially icy patches.",
+              "It's often colder inside the church than outside; keep your hat on.",
+              "Carry a thermos with hot tea for the walk through the park.",
+              "Most monuments are illuminated, looking beautiful after dark."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -650,6 +840,196 @@
           "Ghimbav is relatively flat, but some small climbs are possible.",
           "Plan enough time for photo stops, especially at the Fortified Church."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht. Starten Sie im Zentrum und nutzen Sie die Kirchenburg als längere Pause. Die Fahrt zum Flughafen IAR Brașov führt über offene Flächen, wo der Regen peitschen kann. Die Wege am Ghimbav-Fluss können rutschig sein, daher ist eine defensive Fahrweise wichtig. Belohnen Sie sich am Ende mit einer heißen Dusche und lokaler Kost.",
+            "hu": "Az esős biciklizés óvatosságot igényel. Kezdjen a központban, és használja az erődtemplomot egy hosszabb pihenőre. Az IAR Brașov repülőtér felé vezető út nyílt terepen visz, ahol az eső intenzívebb lehet. A folyóparti utak csúszóssá válhatnak, ezért vezessen lassan. A nap végén jól fog esni a meleg vacsora.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență. Începeți în centru și folosiți vizita la biserică pentru o pauză lungă. Drumul spre aeroportul IAR Brașov trece prin câmp deschis, unde ploaia poate fi densă. Potecile de pe malul râului Ghimbav pot fi alunecoase, deci mergeți încet. La final, o masă caldă va fi binevenită.",
+            "en": "Cycling in the rain requires focus. Start in the center and use the church visit as a long dry break. The route towards the airport crosses open fields where rain can be heavy. Riverside paths might be slick, so maintain a defensive riding style. Reward your efforts with a hot meal at a local tavern in the evening."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Center",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster im Zentrum.",
+                "hu": "Vigyázzon a fékezéssel a vizes macskaköveken a központban.",
+                "ro": "Atenție la frânare pe pavajul umed din zona centrală.",
+                "en": "Be careful when braking on wet cobblestones in the center."
+              }
+            },
+            {
+              "name": "Evangelical Fortified Church",
+              "tip_5lang": {
+                "de": "Überdachte Abstellmöglichkeiten für Fahrräder im Innenhof vorhanden.",
+                "hu": "Fedett biciklitárolási lehetőség az udvaron belül.",
+                "ro": "Posibilitate de parcare acoperită pentru biciclete în curte.",
+                "en": "Covered bicycle parking is available inside the courtyard."
+              }
+            },
+            {
+              "name": "IAR Brașov",
+              "tip_5lang": {
+                "de": "Der Asphalt ist hier gut, aber achten Sie auf Pfützen am Straßenrand.",
+                "hu": "Az aszfalt jó minőségű, de figyeljen a tócsákra az út szélén.",
+                "ro": "Asfaltul este bun, dar atenție la bălțile de pe marginea drumului.",
+                "en": "The asphalt is good here, but watch out for puddles on the roadside."
+              }
+            },
+            {
+              "name": "Brașov-Ghimbav Airport",
+              "tip_5lang": {
+                "de": "Modernes Terminal bietet Wind- und Regenschutz für eine Pause.",
+                "hu": "A modern terminál szél- és esővédelmet nyújt egy pihenőhöz.",
+                "ro": "Terminalul modern oferă protecție contra vântului și ploii.",
+                "en": "The modern terminal provides shelter from wind and rain for a break."
+              }
+            },
+            {
+              "name": "Ghimbav River",
+              "tip_5lang": {
+                "de": "Schutzbleche sind hier ein Muss, um Matschspritzer zu vermeiden.",
+                "hu": "A sárvédő itt kötelező a felverődő sár elkerülése érdekében.",
+                "ro": "Apărătorile sunt esențiale aici pentru a evita stropii de noroi.",
+                "en": "Mudguards are essential here to avoid splashes from the trail."
+              }
+            },
+            {
+              "name": "Ghimbav Park",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den Parkwegen, um Fußgänger nicht zu bespritzen.",
+                "hu": "Hajtson lassan, hogy ne fröcskölje le a parkban sétálókat.",
+                "ro": "Mergeți încet pe alei pentru a nu stropi pietonii din parc.",
+                "en": "Ride slowly on park paths to avoid splashing pedestrians."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, da Nässe die Bremswirkung verzögert.",
+              "Vermeiden Sie Markierungen auf der Straße, diese sind bei Regen sehr rutschig.",
+              "Ein Regenponcho ist praktischer als eine Jacke beim Radfahren.",
+              "Schützen Sie Ihr Gepäck mit wasserfesten Hüllen.",
+              "Nutzen Sie die Kirchenburg für eine ausgiebige Trockenpause."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, a vizes felni lassabban fog.",
+              "Kerülje az útburkolati jeleket, mert esőben nagyon csúsznak.",
+              "A biciklis esőponcsó praktikusabb mozgást tesz lehetővé, mint a kabát.",
+              "Használjon vízálló huzatot a táskájára.",
+              "Az erődtemplomban tartson egy hosszabb pihenőt, amíg megszárad."
+            ],
+            "ro": [
+              "Verificați frânele, umezeala reduce eficiența frânării.",
+              "Evitați marcajele rutiere, sunt extrem de alunecoase pe ploaie.",
+              "Pelerina de ploaie este mai practică decât o jachetă la pedalat.",
+              "Protejați-vă rucsacul cu o husă impermeabilă.",
+              "Folosiți vizita la biserică pentru o pauză lungă de uscare."
+            ],
+            "en": [
+              "Check your brakes, as wet rims increase stopping distance.",
+              "Avoid road markings as they become very slick when wet.",
+              "A cycling poncho offers better coverage than a standard jacket.",
+              "Use waterproof covers for any bags or equipment.",
+              "Take a long break at the fortified church to dry off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren in Ghimbav im Winter ist erfrischend, erfordert aber Vorbereitung. Morgens sind die Straßen oft glatt, besonders auf der Brücke über den Fluss. Der Weg zum Flughafen ist flach, aber der kalte Wind kann die gefühlte Temperatur senken. Die Kirchenburg bietet Kultur und Windschutz. Beenden Sie die Tour vor Einbruch der Dunkelheit um 16:30 Uhr.",
+            "hu": "A téli biciklizés Ghimbavban frissítő, de felkészülést igényel. Reggel az utak jegesek lehetnek, különösen a folyó feletti hídon. A repülőtér felé vezető út sík, de a hideg szél miatt a hőérzet alacsonyabb. Az erődtemplom szélvédett udvara jó pihenőhely. Fejezze be a túrát sötétedés előtt, fél ötkor.",
+            "ro": "Pedalatul iarna în Ghimbav este revigorant, dar necesită echipament adecvat. Dimineața străzile pot fi înghețate, mai ales pe podul peste râu. Drumul spre aeroport este plat, dar vântul rece scade temperatura resimțită. Biserica fortificată oferă adăpost contra vântului. Încheiați tura înainte de ora 16:30.",
+            "en": "Winter cycling in Ghimbav is brisk and requires preparation. Morning roads can be icy, especially on the river bridge. The route to the airport is flat, but cold winds can lower the perceived temperature. The fortified church provides a sheltered spot for a rest. Aim to finish your ride by 4:30 PM before it gets dark."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Center",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Tau auf den Schattenseiten der Gebäude.",
+                "hu": "Vigyázzon a fagyott párával az épületek árnyékos oldalán.",
+                "ro": "Atenție la bruma înghețată pe zonele umbrite de clădiri.",
+                "en": "Watch out for frozen dew on the shaded sides of buildings."
+              }
+            },
+            {
+              "name": "Evangelical Fortified Church",
+              "tip_5lang": {
+                "de": "Im Innenhof ist es windgeschützt, ideal für einen kurzen Check.",
+                "hu": "A belső udvar szélvédett, ideális egy rövid technikai ellenőrzésre.",
+                "ro": "Curtea interioară este ferită de vânt, ideală pentru o pauză scurtă.",
+                "en": "The inner courtyard is sheltered from wind, perfect for a quick check."
+              }
+            },
+            {
+              "name": "IAR Brașov",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind auf dieser langen Geraden unerlässlich.",
+                "hu": "Meleg kesztyű kötelező ezen a hosszú egyenes szakaszon.",
+                "ro": "Mănușile groase sunt esențiale pe această linie dreaptă lungă.",
+                "en": "Warm gloves are essential on this long, exposed straight."
+              }
+            },
+            {
+              "name": "Brașov-Ghimbav Airport",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraßen sind meist gut geräumt und gestreut.",
+                "hu": "A bekötőutakat általában jól takarítják és sózzák.",
+                "ro": "Drumurile de acces sunt de obicei bine deszăpezite.",
+                "en": "The access roads are usually well-cleared and salted."
+              }
+            },
+            {
+              "name": "Ghimbav River",
+              "tip_5lang": {
+                "de": "Vorsicht vor Reifglätte auf der Brücke, fahren Sie hier besonders langsam.",
+                "hu": "Vigyázzon a zúzmarás csúszóssággal a hídon, hajtson lassan.",
+                "ro": "Atenție la chiciura de pe pod, circulați cu viteză redusă.",
+                "en": "Be careful of frost on the bridge; slow down when crossing."
+              }
+            },
+            {
+              "name": "Ghimbav Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie schnelle Kurven auf den festgetretenen Schneewegen.",
+                "hu": "Kerülje a hirtelen kanyarodást a letaposott havas utakon.",
+                "ro": "Evitați virajele bruște pe aleile cu zăpadă bătătorită.",
+                "en": "Avoid sharp turns on paths with packed snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip).",
+              "Prüfen Sie Ihre Beleuchtung, da es früh dunkel wird.",
+              "Verringern Sie den Reifendruck leicht für besseren Grip auf Schnee.",
+              "Vermeiden Sie plötzliches Bremsen auf glatten Flächen.",
+              "Nehmen Sie ein warmes Getränk in einer isolierten Flasche mit."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, a menetszél sokat ront a hőérzeten.",
+              "Ellenőrizze a világítást, mert korán sötétedik.",
+              "Csökkentse kicsit a guminyomást a jobb tapadás érdekében.",
+              "Kerülje a hirtelen fékezést csúszós felületen.",
+              "Vigyen magával meleg italt hőszigetelt kulacsban."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru a menține căldura corporală.",
+              "Verificați luminile, întunericul coboară devreme iarna.",
+              "Reduceți ușor presiunea din pneuri pentru aderență mai bună.",
+              "Evitați frânarea bruscă pe suprafețe alunecoase.",
+              "Luați o băutură caldă într-un recipient izolant."
+            ],
+            "en": [
+              "Dress in layers to adjust to the wind chill while riding.",
+              "Check your lights as daylight fades very early.",
+              "Slightly lower your tire pressure for better traction on snow.",
+              "Avoid sudden braking on potentially icy surfaces.",
+              "Carry a hot drink in an insulated bottle to stay warm."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -954,6 +1334,196 @@
           "Plan the drive between clusters outside of peak hours if possible.",
           "Don't forget to lock the car and leave no valuables visible."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Ghimbav auch bei Regen bequem zu erkunden. Starten Sie im Zentrum, wo Parkplätze in der Nähe des Rathauses vorhanden sind. Die Kirchenburg bietet einen trockenen Programmpunkt. Besuchen Sie das Airport-Areal, ohne nass zu werden. Der Park und das Flussufer lassen sich mit kurzen Wegen vom Parkplatz aus genießen, bevor Sie den Abend gemütlich ausklingen lassen.",
+            "hu": "Autóval kényelmesen felfedezhető Ghimbav esőben is. Kezdjen a központban, ahol a városháza közelében talál parkolót. Az erődtemplom száraz menedék a városnézés alatt. Látogasson el a repülőtérhez, ahol az autóban maradva is nézelődhet. A park és a folyópart rövid sétával elérhető a parkolókból, végül zárja a napot egy kellemes vacsorával.",
+            "ro": "Cu mașina, Ghimbav este ușor de explorat chiar și pe ploaie. Începeți în centru, cu parcare lângă Primărie. Biserica fortificată oferă un obiectiv la adăpost. Vizitați zona aeroportului fără a vă uda. Parcul și malul râului pot fi admirate cu scurte plimbări de la parcare, înainte de o cină relaxantă.",
+            "en": "Exploring Ghimbav by car is convenient during rainy weather. Start in the center with parking near the Town Hall. The fortified church serves as a great indoor stop. Drive to the airport area to see the modern developments while staying dry. The park and riverside are just short walks from their parking lots, perfect for a quick visit before dinner."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center (Parking)",
+              "tip_5lang": {
+                "de": "Parkplätze direkt am Zentrum sparen lange Wege im Regen.",
+                "hu": "A központi parkolók révén elkerülhető a hosszú séta az esőben.",
+                "ro": "Parcările centrale vă scutesc de mersul lung prin ploaie.",
+                "en": "Central parking spots minimize walking time in the rain."
+              }
+            },
+            {
+              "name": "Town Hall and Heroes' Monument",
+              "tip_5lang": {
+                "de": "Ein Schirm für den kurzen Weg vom Parkplatz ist ratsam.",
+                "hu": "Egy esernyő ajánlott a parkolótól a városházáig tartó rövid útra.",
+                "ro": "O umbrelă este utilă pentru distanța scurtă de la parcare.",
+                "en": "An umbrella is useful for the short distance from the car."
+              }
+            },
+            {
+              "name": "Evangelical Fortified Church",
+              "tip_5lang": {
+                "de": "Der Zugangsweg ist befestigt, kaum Schlammgefahr.",
+                "hu": "A bejárat burkolt, nincs sárveszély az erődtemplomnál.",
+                "ro": "Calea de acces este pavată, fără risc de noroi la biserică.",
+                "en": "The access path is paved, so there is no risk of mud."
+              }
+            },
+            {
+              "name": "Cluster 2: Modern & Industrial (Airport Parking)",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Terminalgebäude für eine trockene Kaffeepause.",
+                "hu": "Használja a terminál épületét egy száraz kávészünetre.",
+                "ro": "Folosiți clădirea terminalului pentru o pauză de cafea.",
+                "en": "Use the terminal building for a dry coffee break."
+              }
+            },
+            {
+              "name": "Cluster 3: Nature & Relaxation (Riverside Parking)",
+              "tip_5lang": {
+                "de": "Parken Sie auf befestigten Flächen, um nicht im Schlamm steckenzubleiben.",
+                "hu": "Parkoljon szilárd burkolaton, hogy ne akadjon el a sárban.",
+                "ro": "Parcați pe suprafețe dure pentru a nu rămâne în noroi.",
+                "en": "Park on hard surfaces to avoid getting stuck in soft mud."
+              }
+            },
+            {
+              "name": "Ghimbav Park",
+              "tip_5lang": {
+                "de": "Die Parkplatzeinfahrt kann bei Starkregen große Pfützen haben.",
+                "hu": "A parkoló bejáratánál nagyobb tócsák alakulhatnak ki esőben.",
+                "ro": "La intrarea în parcare se pot forma bălți mari pe ploaie.",
+                "en": "Large puddles may form at the parking entrance during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Verbindungsstraße nach Brașov.",
+              "Halten Sie einen Schirm im Auto für die Besichtigungen bereit.",
+              "Nutzen Sie die Parkplätze direkt bei den Sehenswürdigkeiten.",
+              "Prüfen Sie die Wischerblätter vor der Abfahrt.",
+              "Das Airport-Terminal ist ein guter Ort für eine Pause bei Starkregen."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra (aquaplaning) a Brassó felé vezető úton.",
+              "Mindig legyen kéznél esernyő az autóban a kiszálláshoz.",
+              "Használja a látnivalókhoz legközelebbi parkolókat.",
+              "Ellenőrizze az ablaktörlők állapotát indulás előtt.",
+              "A repülőtér terminálja jó menedék egy nagyobb felhőszakadás idején."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul spre Brașov.",
+              "Țineți o umbrelă la îndemână în mașină pentru vizite.",
+              "Folosiți parcările situate cel mai aproape de obiective.",
+              "Verificați ștergătoarele înainte de a pleca la drum.",
+              "Terminalul aeroportului este un loc bun de popas pe ploaie torențială."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the main road to Brașov.",
+              "Keep an umbrella handy in the car for sightseeing stops.",
+              "Utilize parking spots directly adjacent to the attractions.",
+              "Check your windshield wipers before starting your journey.",
+              "The airport terminal is a great spot to wait out a heavy downpour."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Tour mit dem Auto durch Ghimbav ist sicher und warm. Besuchen Sie das Zentrum und die historische Kirchenburg, wo Sie die Kälte nur kurz spüren. Eine Fahrt zum modernen Flughafen zeigt das Transsilvanien von heute im Wintergewand. Der Park bietet schöne Fotomotive im Schnee, bevor Sie sich abends in ein beheiztes Restaurant zurückziehen.",
+            "hu": "A téli autós túra Ghimbavban biztonságos és meleg. Látogassa meg a központot és a történelmi erődtemplomot, ahol csak rövid ideig kell a hidegben lennie. A repülőtér felé vezető út téli tájat kínál modern környezetben. A park hófödte fái remek fotótémák, az estét pedig töltse egy jól fűtött étteremben.",
+            "ro": "Turul cu mașina prin Ghimbav iarna este confortabil. Vizitați centrul și biserica fortificată, expunându-vă doar scurt timp la frig. O cursă spre aeroport vă arată peisajul hibernal modern al zonei. Parcul este superb sub zăpadă, iar seara vă puteți retrage într-un restaurant încălzit.",
+            "en": "A winter drive through Ghimbav is cozy and safe. Visit the historic center and the fortified church, spending only limited time in the cold. A trip to the modern airport showcases the winter landscape of the region. The park offers beautiful snowy photo ops before you retreat to a heated restaurant for the evening."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center (Parking)",
+              "tip_5lang": {
+                "de": "Parkplätze werden meist vorrangig geräumt.",
+                "hu": "A központi parkolókat általában elsőként takarítják le.",
+                "ro": "Parcările centrale sunt de obicei primele deszăpezite.",
+                "en": "Central parking areas are usually the first to be cleared of snow."
+              }
+            },
+            {
+              "name": "Town Hall and Heroes' Monument",
+              "tip_5lang": {
+                "de": "Kurze Wege minimieren die Zeit in der Kälte.",
+                "hu": "A rövid távolságok miatt kevés időt kell a hidegben tölteni.",
+                "ro": "Distanțele scurte reduc timpul petrecut în frig.",
+                "en": "Short distances minimize your exposure to the cold."
+              }
+            },
+            {
+              "name": "Evangelical Fortified Church",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Zufahrt, die Nebenstraßen können glatt sein.",
+                "hu": "Vigyázzon a behajtásnál, a mellékutcák jegesek lehetnek.",
+                "ro": "Atenție la acces, străzile secundare pot fi alunecoase.",
+                "en": "Careful when approaching; side streets can be icy."
+              }
+            },
+            {
+              "name": "Cluster 2: Modern & Industrial (Airport Parking)",
+              "tip_5lang": {
+                "de": "Das Auto heizt während der Fahrt zum Flughafen gut auf.",
+                "hu": "Az autó jól bemelegszik a repülőtér felé vezető úton.",
+                "ro": "Mașina se va încălzi bine în timpul drumului spre aeroport.",
+                "en": "The car will warm up nicely on the drive to the airport."
+              }
+            },
+            {
+              "name": "Cluster 3: Nature & Relaxation (Riverside Parking)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneewechten am Rand der Parkplätze.",
+                "hu": "Vigyázzon a hóbuckákkal a parkolók szélén.",
+                "ro": "Atenție la troienele de zăpadă de la marginea parcărilor.",
+                "en": "Watch out for snowdrifts at the edges of the parking lots."
+              }
+            },
+            {
+              "name": "Ghimbav Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick des verschneiten Parks vom warmen Auto aus.",
+                "hu": "Élvezze a havas park látványát a meleg autóból.",
+                "ro": "Admirați parcul înzăpezit din confortul mașinii încălzite.",
+                "en": "Enjoy the view of the snowy park from your warm car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Rumänien bei Schnee und Eis gesetzlich vorgeschrieben.",
+              "Führen Sie einen Eiskratzer und Schneebesen im Auto mit.",
+              "Achten Sie auf Glatteis auf Brücken über den Ghimbav-Fluss.",
+              "Halten Sie den Tank ausreichend gefüllt für die Heizung im Stand.",
+              "Die Hauptstraßen nach Brașov sind meist sehr gut geräumt."
+            ],
+            "hu": [
+              "A téli gumi Romániában kötelező havas, jeges útviszonyok esetén.",
+              "Legyen az autóban jégkaparó és hóseprű.",
+              "Vigyázzon a jegesedéssel a folyó feletti hidakon.",
+              "Legyen elég üzemanyag az autóban az állóhelyzeti fűtéshez.",
+              "A Brassó felé vezető főutakat rendszeresen takarítják."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii pe drumuri cu zăpadă sau gheață.",
+              "Aveți în mașină o racletă și o perie pentru zăpadă.",
+              "Atenție la polei pe podurile peste râul Ghimbav.",
+              "Păstrați rezervorul plin pentru a asigura încălzirea în caz de staționare.",
+              "Drumurile principale spre Brașov sunt de obicei bine întreținute."
+            ],
+            "en": [
+              "Winter tires are mandatory in Romania on snowy or icy roads.",
+              "Keep an ice scraper and a snow brush in your vehicle.",
+              "Be cautious of black ice on bridges crossing the Ghimbav river.",
+              "Keep your fuel tank at least half full to run the heater if needed.",
+              "Main roads to Brașov are generally well-maintained and cleared."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1214,6 +1784,178 @@
           "Have small change with you for the tickets.",
           "Not all stops are announced, follow the route on a map."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Busverbindungen von Brașov nach Ghimbav, um trocken anzukommen. Starten Sie im Zentrum und besuchen Sie die Kirchenburg, die nur einen kurzen Fußweg von der Haltestelle entfernt ist. Mittags bietet der Park trotz Regen eine erfrischende Pause. Nachmittags erkunden Sie das Flussufer, bevor Sie bequem mit dem Bus zurückfahren und den Abend in der Stadt verbringen.",
+            "hu": "Használja a Brassóból Ghimbavba tartó buszjáratokat az eső elleni védelemért. Kezdjen a központban, az erődtemplom csak rövid séta a megállótól. Délben a park az esőben is frissítő élmény, délután pedig látogasson el a folyóparthoz. A nap végén kényelmesen visszabuszozhat a központba egy meleg vacsorára.",
+            "ro": "Folosiți liniile de autobuz dinspre Brașov pentru a ajunge confortabil în Ghimbav. Începeți în centru, biserica fiind aproape de stație. La prânz, parcul oferă o atmosferă revigorantă pe ploaie. După-amiaza vizitați malul râului înainte de a lua autobuzul înapoi spre centru pentru seară.",
+            "en": "Take advantage of bus connections from Brașov to Ghimbav to stay dry. Start in the center, where the fortified church is just a short walk from the stop. In the afternoon, explore the park and riverside, using the transit system to minimize time in the rain. End your day with a warm dinner back in the city center."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Center (Bus Stop)",
+              "tip_5lang": {
+                "de": "Wartehäuschen bieten Schutz vor dem ersten Regenguss.",
+                "hu": "A buszmegálló várója védelmet nyújt az első záporok ellen.",
+                "ro": "Adăpostul din stație oferă protecție contra ploii.",
+                "en": "The bus stop shelter provides protection from the rain."
+              }
+            },
+            {
+              "name": "Evangelical Fortified Church & Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Nur 3 Minuten Fußweg von der Haltestelle im Zentrum.",
+                "hu": "Mindössze 3 perc séta a központi buszmegállótól.",
+                "ro": "Doar 3 minute de mers pe jos de la stația din centru.",
+                "en": "Only a 3-minute walk from the central bus stop."
+              }
+            },
+            {
+              "name": "Cluster 2: Park & River (Bus Stop)",
+              "tip_5lang": {
+                "de": "Halten Sie die App für Echtzeit-Abfahrten im Regen bereit.",
+                "hu": "Használja az alkalmazást a buszok valós idejű követéséhez az esőben.",
+                "ro": "Verificați timpii de sosire pe aplicație pentru a nu sta în ploaie.",
+                "en": "Check real-time arrival apps to minimize waiting in the rain."
+              }
+            },
+            {
+              "name": "Ghimbav Riverside",
+              "tip_5lang": {
+                "de": "Etwas längerer Fußweg zur Haltestelle, Schirm einplanen.",
+                "hu": "Hosszabb séta a megállóig, készüljön esernyővel.",
+                "ro": "Mers pe jos ceva mai lung până la stație, luați umbrela.",
+                "en": "Longer walk back to the stop; make sure to have an umbrella."
+              }
+            },
+            {
+              "name": "Back to the center",
+              "tip_5lang": {
+                "de": "Die Busse verkehren regelmäßig, auch bei schlechtem Wetter.",
+                "hu": "A buszok rendszeresen járnak rossz időben is.",
+                "ro": "Autobuzele circulă regulat, chiar și pe vreme nefavorabilă.",
+                "en": "Buses run regularly, even during inclement weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten vorab per App oder Karte, um langes Stehen im Regen zu vermeiden.",
+              "Die Haltestelle im Zentrum ist am besten ausgebaut.",
+              "Achten Sie auf Spritzwasser von vorbeifahrenden Autos an den Haltestellen.",
+              "Buskarten für die Region Brașov (RATBV) gelten auch hier.",
+              "Nutzen Sie die Wartezeiten für einen Blick in die Kirchenburg."
+            ],
+            "hu": [
+              "Vegye meg a jegyet előre alkalmazásban, hogy ne az esőben kelljen keresgélni.",
+              "A központi buszmegálló a legjobban felszerelt váróval.",
+              "Vigyázzon a felcsapódó vízre a megállókban várakozva.",
+              "A brassói (RATBV) bérletek és jegyek itt is érvényesek.",
+              "Használja ki a várakozási időt az erődtemplom megtekintésére."
+            ],
+            "ro": [
+              "Cumpărați biletele online sau prin aplicație pentru a evita așteptarea.",
+              "Stația din centrul orașului este cea mai bine dotată cu adăpost.",
+              "Atenție la stropii de apă de la mașinile care trec pe lângă stație.",
+              "Biletele RATBV Brașov sunt valabile și pe aceste linii.",
+              "Folosiți timpul de așteptare pentru a vizita obiectivele din apropiere."
+            ],
+            "en": [
+              "Purchase tickets via app or card to avoid waiting at kiosks in the rain.",
+              "The central bus stop has the best shelter facilities.",
+              "Watch out for splashes from passing cars while waiting at stops.",
+              "Brașov transit (RATBV) tickets and passes are valid here.",
+              "Coordinate your visits with the bus schedule to minimize outdoor time."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Busfahrt von Brașov nach Ghimbav ist im Winter eine warme Alternative. Starten Sie im Zentrum und erkunden Sie die Kirchenburg. Die Busse sind gut beheizt und bringen Sie nahe an die Sehenswürdigkeiten. Der winterliche Park und das Flussufer sind gut erreichbar. Planen Sie Ihre Rückfahrt vor 16:30 Uhr, um die Dämmerung im Warmen zu erleben.",
+            "hu": "A Brassó és Ghimbav közötti buszozás télen meleg alternatívát kínál. Kezdjen a központban, látogassa meg az erődtemplomot. A buszok fűtöttek és közel tesznek le a látnivalókhoz. A téli park és a folyópart könnyen elérhető, a visszautat pedig tervezze meg fél öt előtt, hogy a sötétedés már a buszon érje.",
+            "ro": "Călătoria cu autobuzul între Brașov și Ghimbav este o opțiune călduroasă iarna. Începeți în centru și vizitați biserica fortificată. Autobuzele sunt încălzite și opresc aproape de obiective. Parcul înzăpezit este accesibil, iar drumul de întoarcere este bine de planificat înainte de 16:30.",
+            "en": "Taking the bus from Brașov to Ghimbav is a warm alternative in winter. Start in the center and visit the fortified church. The buses are well-heated and stop close to the main sites. The snowy park and riverside are easy to reach; plan your return trip before 4:30 PM to avoid the winter darkness."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Center (Bus Stop)",
+              "tip_5lang": {
+                "de": "Halten Sie sich im Bus warm, bevor Sie aussteigen.",
+                "hu": "Használja ki a busz melegét, mielőtt kiszállna a hidegbe.",
+                "ro": "Bucurați-vă de căldura din autobuz înainte de a coborî.",
+                "en": "Enjoy the warmth of the bus before stepping out into the cold."
+              }
+            },
+            {
+              "name": "Evangelical Fortified Church & Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg verhindert Auskühlen nach der Busfahrt.",
+                "hu": "A rövid séta segít, hogy ne hűljön ki a buszról leszállva.",
+                "ro": "Mersul scurt pe jos previne răcirea după drumul cu autobuzul.",
+                "en": "The short walk keeps you from getting too cold after the bus ride."
+              }
+            },
+            {
+              "name": "Cluster 2: Park & River (Bus Stop)",
+              "tip_5lang": {
+                "de": "Die Haltestelle kann im Winter zugig sein, warm anziehen.",
+                "hu": "A megálló télen huzatos lehet, öltözzön melegen.",
+                "ro": "Stația poate fi expusă vântului, îmbrăcați-vă gros.",
+                "en": "The stop can be breezy in winter; make sure you're bundled up."
+              }
+            },
+            {
+              "name": "Ghimbav Riverside",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneehaufen an den Straßenrändern zur Haltestelle.",
+                "hu": "Vigyázzon a hóbuckákkal az út szélén a megálló felé menet.",
+                "ro": "Atenție la mormanele de zăpadă de pe marginea drumului spre stație.",
+                "en": "Watch out for snow piles on the roadside on your way to the stop."
+              }
+            },
+            {
+              "name": "Back to the center",
+              "tip_5lang": {
+                "de": "Abends sind die Busse oft voll, planen Sie Zeit ein.",
+                "hu": "Este a buszok zsúfoltabbak lehetnek, számoljon több idővel.",
+                "ro": "Seara autobuzele pot fi aglomerate, planificați-vă timpul.",
+                "en": "Buses can be crowded in the evening; allow extra time."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können sich bei starkem Schneefall leicht verzögern.",
+              "Die Busse der Linie 28 und 210 verbinden Ghimbav mit Brașov.",
+              "Tragen Sie warme Schuhe für die Wartezeiten an den Haltestellen.",
+              "Die Haltestellenanzeigen im Bus sind im Winter sehr hilfreich.",
+              "Ein heißer Tee am Busbahnhof Brașov ist ein guter Abschluss."
+            ],
+            "hu": [
+              "Erős hóesésben a menetrend kismértékben módosulhat.",
+              "A 28-as és 210-es járatok kötik össze Ghimbavot Brassóval.",
+              "Viseljen meleg lábbelit a megállóban való várakozáshoz.",
+              "A busz belső kijelzői segítenek a tájékozódásban a téli párában.",
+              "Egy forró tea a brassói buszpályaudvaron jó lezárása a napnak."
+            ],
+            "ro": [
+              "Orarele pot suferi mici întârzieri în caz de ninsoare abundentă.",
+              "Liniile 28 și 210 fac legătura între Ghimbav și Brașov.",
+              "Purtați încălțăminte călduroasă pentru timpul de așteptare în stații.",
+              "Afișajele din interiorul autobuzelor sunt utile pentru orientare.",
+              "Un ceai cald la autogara din Brașov este un final perfect de zi."
+            ],
+            "en": [
+              "Schedules may experience minor delays during heavy snowfall.",
+              "Lines 28 and 210 connect Ghimbav with the city of Brașov.",
+              "Wear warm, insulated shoes for any waiting time at bus stops.",
+              "Digital displays inside the buses are very helpful for navigation.",
+              "A hot tea at the Brașov bus station is a great way to end your trip."
+            ]
+          }
+        }
       }
     }
   }

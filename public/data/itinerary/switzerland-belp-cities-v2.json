@@ -241,6 +241,170 @@
           "Check the opening hours of the local museum in advance.",
           "Some paths along the Gürbe can be slippery after rain."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der reformierten Kirche, einem ruhigen Rückzugsort vor dem Regen. Das Ortsmuseum im Schloss bietet stundenlangen Schutz und tiefe Einblicke in die lokale Geschichte. Nach einem gemütlichen Mittagessen im Zentrum führt der Weg unter dem schützenden Blätterdach der Gürbe-Promenade, wo das Plätschern des Wassers eine fast meditative Atmosphäre schafft.",
+            "hu": "Kezdje a napot a belpi református templomban, amely csendes menedéket nyújt az eső elől. A helytörténeti múzeumban és a várkastély falai között szárazon fedezheti fel a környék múltját. Egy kiadós központi ebéd után a Gürbe-sétány mentén tehet egy frissítő sétát, ahol az eső kopogása a leveleken és a folyó zúgása különleges, békés hangulatot áraszt.",
+            "ro": "Începeți ziua la biserica reformată, un refugiu liniștit împotriva ploii. Muzeul local din castel oferă adăpost pentru câteva ore și o incursiune în istoria zonei. După un prânz cald în centru, plimbarea pe promenada Gürbe devine o experiență meditativă, sunetul ploii completând perfect curgerul râului sub baldachinul natural al copacilor.",
+            "en": "Start your day at the Reformed Church, a quiet sanctuary from the rain. The local museum inside the castle provides a dry space to explore history for hours. After a cozy lunch in the center, walk along the Gürbe Promenade; the sound of raindrops on the leaves and the rushing river creates a peaceful, refreshing atmosphere despite the grey skies."
+          },
+          "stops": [
+            {
+              "name": "Reformed Church of Belp",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den ersten Regenschauer trocken abzuwarten.",
+                "hu": "Tökéletes hely az első záporok átvészelésére.",
+                "ro": "Loc ideal pentru a aștepta trecerea primei averse.",
+                "en": "Ideal spot to wait out the first rain shower in silence."
+              }
+            },
+            {
+              "name": "Belp Local Museum",
+              "tip_5lang": {
+                "de": "Große Ausstellungsräume, perfekt für regnerische Vormittage.",
+                "hu": "Tágas kiállítóterek, ideálisak egy esős délelőtthöz.",
+                "ro": "Spații expoziționale mari, perfecte pentru diminețile ploioase.",
+                "en": "Spacious exhibition rooms, perfect for rainy mornings."
+              }
+            },
+            {
+              "name": "Belp Castle",
+              "tip_5lang": {
+                "de": "Überdachte Bereiche bieten Schutz beim Bewundern der Architektur.",
+                "hu": "A fedett részek oltalmat adnak az építészet csodálata közben.",
+                "ro": "Zonele acoperite oferă protecție în timp ce admirați arhitectura.",
+                "en": "Covered areas provide shelter while admiring the architecture."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
+                "hu": "Válasszon ruhatárral rendelkező helyet a vizes kabátoknak.",
+                "ro": "Alegeți un restaurant cu garderobă pentru hainele ude.",
+                "en": "Choose a restaurant with a cloakroom for wet coats."
+              }
+            },
+            {
+              "name": "Gürbe Promenade",
+              "tip_5lang": {
+                "de": "Asphaltierte Wege minimieren Schlamm bei Regenwetter.",
+                "hu": "Az aszfaltozott utak esőben is sármentes járást biztosítanak.",
+                "ro": "Potecile asfaltate minimizează noroiul pe vreme ploioasă.",
+                "en": "Paved paths minimize mud during rainy weather conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Gürbe-Promenade.",
+              "Das Museum bietet ausreichend Platz zum Trocknen von Regenschirmen.",
+              "Im Dorfzentrum gibt es mehrere Cafés mit gemütlichen Innenbereichen.",
+              "Die Gürbe führt bei Regen oft mehr Wasser, was beeindruckend aussieht."
+            ],
+            "hu": [
+              "Viseljen vízálló túrabakancsot a Gürbe-sétányhoz.",
+              "A múzeumban van kijelölt hely az esernyők szárítására.",
+              "A falu központjában több hangulatos, fedett kávézót talál.",
+              "A Gürbe folyó esőzés után látványosabb és sebesebb."
+            ],
+            "ro": [
+              "Purtați încălțăminte de munte impermeabilă pentru promenada Gürbe.",
+              "Muzeul oferă spațiu suficient pentru uscarea umbrelelor.",
+              "În centrul satului există mai multe cafenele cu interioare primitoare.",
+              "Râul Gürbe este mult mai spectaculos după ploaie."
+            ],
+            "en": [
+              "Wear waterproof hiking boots for the Gürbe Promenade.",
+              "The museum has designated spots to dry your umbrellas.",
+              "The village center offers several cafes with cozy indoor seating.",
+              "The Gürbe river flows faster and looks more impressive in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Belp im sanften Winterlicht. Die reformierte Kirche strahlt morgens eine besondere Ruhe aus. Im beheizten Ortsmuseum wärmen Sie sich auf, während Sie in die Geschichte eintauchen. Nach einem kräftigen Mittagessen bietet die Gürbe-Promenade bei klarer Luft eine erfrischende Wanderung, bevor die frühe Dämmerung das Schloss in eine magische Atmosphäre taucht.",
+            "hu": "Fedezze fel Belpet a lágy téli fényekben. A református templom reggelente különleges nyugalmat áraszt. A fűtött helytörténeti múzeumban felmelegedhet a történelmi barangolás közben. Egy tartalmas ebéd után a Gürbe-sétány friss levegője várja, mielőtt a korai szürkületben a várkastély fényei megteremtik a karácsonyi hangulatot.",
+            "ro": "Descoperiți Belp în lumina blândă a iernii. Biserica reformată emană o liniște aparte dimineața. În muzeul local încălzit vă puteți relaxa explorând istoria. După un prânz consistent, promenada Gürbe oferă o plimbare revigorantă în aerul rece, înainte ca amurgul timpuriu să îmbrace castelul într-o atmosferă magică.",
+            "en": "Experience Belp in the soft winter light. The Reformed Church radiates a special calm in the morning. Warm up in the heated local museum while diving into history. After a hearty lunch, the Gürbe Promenade offers a refreshing walk in the crisp air before early dusk wraps the castle and the village in a magical, wintry atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Reformed Church of Belp",
+              "tip_5lang": {
+                "de": "Morgens oft frostig, ziehen Sie sich warm an.",
+                "hu": "Reggelente gyakran fagyos, öltözzön rétegesen.",
+                "ro": "Adesea înghețat dimineața, îmbrăcați-vă gros.",
+                "en": "Often frosty in the morning, dress in warm layers."
+              }
+            },
+            {
+              "name": "Belp Local Museum",
+              "tip_5lang": {
+                "de": "Angenehm beheizt, idealer Ort zum Aufwärmen.",
+                "hu": "Kellemesen fűtött, ideális hely a felmelegedésre.",
+                "ro": "Încălzit plăcut, locul ideal pentru a vă încălzi.",
+                "en": "Pleasantly heated, an ideal place to warm up."
+              }
+            },
+            {
+              "name": "Belp Castle",
+              "tip_5lang": {
+                "de": "Vorsicht bei gefrorenem Kopfsteinpflaster im Hof.",
+                "hu": "Vigyázat, az udvar macskakövei jegesek lehetnek.",
+                "ro": "Atenție la pavajul înghețat din curtea castelului.",
+                "en": "Be careful of frozen cobblestones in the courtyard."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Probieren Sie eine warme Schweizer Käsespezialität.",
+                "hu": "Kóstoljon meg egy forró svájci sajtos különlegességet.",
+                "ro": "Încercați o specialitate caldă cu brânză elvețiană.",
+                "en": "Try a warm Swiss cheese specialty to stay energized."
+              }
+            },
+            {
+              "name": "Gürbe Promenade",
+              "tip_5lang": {
+                "de": "Frühzeitiger Sonnenuntergang gegen 16:30 Uhr beachten.",
+                "hu": "Ügyeljen a korai, 16:30 körüli naplementére.",
+                "ro": "Atenție la apusul timpuriu, în jur de ora 16:30.",
+                "en": "Note the early sunset around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Gürbe-Promenade kann bei Frost stellenweise glatt sein.",
+              "Kombinieren Sie den Besuch mit einem heißen Tee im Zentrum.",
+              "Die Museen sind im Winter weniger überlaufen.",
+              "Tragen Sie griffige Schuhe für die verschneiten Abschnitte."
+            ],
+            "hu": [
+              "A Gürbe-sétány fagyos időben helyenként csúszós lehet.",
+              "Egy forró tea a központban segít átvészelni a hideget.",
+              "Télen a múzeumok sokkal nyugodtabbak, kevesebb a látogató.",
+              "Viseljen jó tapadású talpú cipőt a havas szakaszokon."
+            ],
+            "ro": [
+              "Promenada Gürbe poate fi alunecoasă pe alocuri în caz de îngheț.",
+              "Combinați vizita cu un ceai fierbinte în centrul satului.",
+              "Muzeele sunt mult mai puțin aglomerate în timpul iernii.",
+              "Purtați încălțăminte cu aderență bună pentru porțiunile cu zăpadă."
+            ],
+            "en": [
+              "The Gürbe Promenade can be slippery in patches during frost.",
+              "Combine your walk with a hot tea in the village center.",
+              "Museums are much quieter and less crowded in winter.",
+              "Wear shoes with good grip for potentially snowy sections."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -499,6 +663,188 @@
           "Take enough water with you, especially for the ride to the floodplain landscape.",
           "Pay attention to agricultural traffic on the smaller roads."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Tour rund um Belp reizvolle Einblicke. Das Schloss und die Campagne Oberried sind auch bei Bewölkung beeindruckende Fotomotive. Die Strecke zum Flughafen Bern-Belp ist gut ausgebaut und führt durch die mystische Auenlandschaft Selhofen-Zulg, wo der Nebel über den Feldern liegt, bevor die Gürbe-Promenade Sie zurück ins Dorf führt.",
+            "hu": "Az eső ellenére a Belp környéki kerékpártúra izgalmas látnivalókat kínál. A várkastély és a Campagne Oberried felhős időben is tekintélyt parancsoló. A Bern-Belp repülőtér felé vezető út jól kiépített, a Selhofen-Zulg ártéri táj pedig misztikus arcát mutatja a ködben, mielőtt a Gürbe-sétányon visszakerekezne a faluba.",
+            "ro": "În ciuda ploii, turul cu bicicleta în jurul Belp oferă perspective fascinante. Castelul și Campagne Oberried rămân subiecte foto impresionante și pe cer noros. Traseul spre aeroportul Bern-Belp este bine întreținut, trecând prin peisajul mistic Selhofen-Zulg, unde ceața plutește peste câmpuri înainte de revenirea în sat.",
+            "en": "Despite the rain, the bike tour around Belp offers charming views. The Castle and Campagne Oberried are impressive photo subjects even under grey skies. The route to Bern-Belp Airport is well-paved, leading through the mystical Selhofen-Zulg floodplains where mist hangs over the fields, before the Gürbe Promenade leads you back to the village center."
+          },
+          "stops": [
+            {
+              "name": "Belp Castle & Church",
+              "tip_5lang": {
+                "de": "Unterstände beim Schloss nutzen, um die Karte zu prüfen.",
+                "hu": "Használja a vár alatti beállókat a térkép ellenőrzéséhez.",
+                "ro": "Folosiți adăposturile de lângă castel pentru a verifica harta.",
+                "en": "Use shelters near the castle to check your map."
+              }
+            },
+            {
+              "name": "Campagne Oberried",
+              "tip_5lang": {
+                "de": "Die Zufahrtswege sind befestigt und gut befahrbar.",
+                "hu": "A bekötőutak burkoltak és esőben is jól járhatóak.",
+                "ro": "Drumurile de acces sunt pavate și ușor de parcurs.",
+                "en": "Access roads are paved and easy to cycle on even in rain."
+              }
+            },
+            {
+              "name": "Bern-Belp Airport Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht vor Windböen auf der offenen Fläche.",
+                "hu": "Vigyázzon az erős széllökésekre a nyílt terepen.",
+                "ro": "Atenție la rafalele de vânt pe teren deschis.",
+                "en": "Watch out for strong wind gusts in the open areas."
+              }
+            },
+            {
+              "name": "Lunch near the airport",
+              "tip_5lang": {
+                "de": "Restaurants am Flughafen haben oft überdachte Veloständer.",
+                "hu": "A repülőtéri éttermeknél gyakran van fedett biciklitároló.",
+                "ro": "Restaurantele de la aeroport au adesea rastele acoperite.",
+                "en": "Airport restaurants often have covered bike racks."
+              }
+            },
+            {
+              "name": "Auenlandschaft Selhofen-Zulg",
+              "tip_5lang": {
+                "de": "Schutzbleche am Velo sind hier sehr vorteilhaft.",
+                "hu": "A sárvédő használata ezen a szakaszon erősen ajánlott.",
+                "ro": "Apărătorile de noroi sunt foarte utile pe această porțiune.",
+                "en": "Mudguards are highly beneficial on this section."
+              }
+            },
+            {
+              "name": "Gürbe Promenade",
+              "tip_5lang": {
+                "de": "Bremsen bei Nässe frühzeitig betätigen.",
+                "hu": "Nedves úton korábban kezdje meg a fékezést.",
+                "ro": "Acționați frânele mai devreme pe carosabil umed.",
+                "en": "Apply brakes earlier on wet surfaces."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung (Hose und Jacke) wird empfohlen.",
+              "Vermeiden Sie bei Nässe scharfe Kurven auf unbefestigten Wegen.",
+              "Die Sicht am Flughafen kann bei starkem Regen eingeschränkt sein.",
+              "Nutzen Sie die Mittagspause, um die Kleidung etwas zu trocknen."
+            ],
+            "hu": [
+              "Teljes esőruházat (nadrág és dzseki) viselése javasolt.",
+              "Kerülje az éles kanyarokat a vizes, nem burkolt utakon.",
+              "Erős esőben a kilátás a repülőtérnél korlátozott lehet.",
+              "Használja ki az ebédszünetet a ruházat szárítására."
+            ],
+            "ro": [
+              "Se recomandă echipament complet de ploaie (pantaloni și jachetă).",
+              "Evitați virajele strânse pe potecile neasfaltate umede.",
+              "Vizibilitatea la aeroport poate fi redusă în caz de ploaie densă.",
+              "Folosiți pauza de prânz pentru a vă usca puțin hainele."
+            ],
+            "en": [
+              "Full rain gear (trousers and jacket) is highly recommended.",
+              "Avoid sharp turns on wet, unpaved paths.",
+              "Visibility at the airport viewpoint may be limited in heavy rain.",
+              "Use your lunch break to dry your clothes a bit."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Biketour durch das Gürbetal erfordert warme Schichten, belohnt aber mit glitzernden Landschaften. Nach dem Schlossbesuch führt der Weg vorbei an der Campagne Oberried zum Flughafen, wo die startenden Flugzeuge einen Kontrast zur stillen Winterwelt bilden. Die Fahrt durch die Selhofen-Zulg Auen bietet Ruhe pur, bevor Sie entlang der Gürbe zurück nach Belp radeln.",
+            "hu": "A Gürbe-völgyi téli kerékpártúra réteges öltözetet igényel, de csillogó tájakkal jutalmaz. A várkastély után az út az Oberried birtok mellett vezet a repülőtérhez, ahol a felszálló gépek kontrasztot alkotnak a csendes téli világgal. A Selhofen-Zulg ártér nyugalma után a Gürbe mentén kerekezhet vissza Belp központjába.",
+            "ro": "Un tur de iarnă cu bicicleta prin valea Gürbe necesită straturi groase, dar răsplătește cu peisaje sclipitoare. După castel, drumul trece pe lângă Campagne Oberried spre aeroport, unde decolările contrastează cu liniștea iernii. Traversarea luncii Selhofen-Zulg oferă relaxare totală înainte de întoarcerea în Belp.",
+            "en": "A winter bike tour through the Gürbe Valley requires warm layers but rewards you with sparkling landscapes. After the castle, the route passes Campagne Oberried towards the airport, where departing planes contrast with the silent winter world. Cycling through the Selhofen-Zulg floodplains offers pure tranquility before heading back to Belp along the Gürbe."
+          },
+          "stops": [
+            {
+              "name": "Belp Castle & Church",
+              "tip_5lang": {
+                "de": "Starten Sie nicht zu früh, um Glatteis zu vermeiden.",
+                "hu": "Ne induljon túl korán a reggeli jegesedés miatt.",
+                "ro": "Nu porniți prea devreme pentru a evita poleiul.",
+                "en": "Don't start too early to avoid morning black ice."
+              }
+            },
+            {
+              "name": "Campagne Oberried",
+              "tip_5lang": {
+                "de": "Sonnige Abschnitte auf dem Weg zum Aufwärmen nutzen.",
+                "hu": "Használja ki a napsütötte szakaszokat a felmelegedéshez.",
+                "ro": "Folosiți porțiunile însorite ale drumului pentru a vă încălzi.",
+                "en": "Utilize sunny sections of the road to warm up."
+              }
+            },
+            {
+              "name": "Bern-Belp Airport Viewpoint",
+              "tip_5lang": {
+                "de": "Ein Thermosbecher mit heißem Tee ist hier Gold wert.",
+                "hu": "Egy termosz forró teával itt aranyat ér.",
+                "ro": "Un termos cu ceai fierbinte este binevenit aici.",
+                "en": "A thermos with hot tea is priceless at this viewpoint."
+              }
+            },
+            {
+              "name": "Lunch near the airport",
+              "tip_5lang": {
+                "de": "Heißgetränke füllen die Energiereserven wieder auf.",
+                "hu": "A forró italok segítenek az energiapótlásban.",
+                "ro": "Băuturile calde vă vor reîncărca rezervele de energie.",
+                "en": "Hot drinks will help replenish your energy reserves."
+              }
+            },
+            {
+              "name": "Auenlandschaft Selhofen-Zulg",
+              "tip_5lang": {
+                "de": "Vorsicht bei gefrorenen Pfützen auf den Wegen.",
+                "hu": "Vigyázzon az utakon lévő befagyott tócsákra.",
+                "ro": "Atenție la bălțile înghețate de pe poteci.",
+                "en": "Watch out for frozen puddles on the paths."
+              }
+            },
+            {
+              "name": "Gürbe Promenade",
+              "tip_5lang": {
+                "de": "Gegen 16:00 Uhr wird es spürbar kälter.",
+                "hu": "Délután 4 után a hőmérséklet gyorsan csökken.",
+                "ro": "După ora 16:00 se face considerabil mai frig.",
+                "en": "It gets significantly colder after 4:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck gibt mehr Grip.",
+              "Die Akkus von E-Bikes entladen sich bei Kälte schneller.",
+              "Halten Sie die Tour bei extremen Minustemperaturen kürzer."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sisak alá vehető sapkát.",
+              "Ellenőrizze a guminyomást; a kisebb nyomás jobb tapadást ad.",
+              "Az e-bike akkumulátorok hidegben gyorsabban merülnek.",
+              "Extrém hidegben tervezzen rövidebb útvonalat."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Verificați presiunea; o presiune mai mică oferă aderență mai bună.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Scurtați turul în caz de temperaturi extrem de scăzute."
+            ],
+            "en": [
+              "Wear windproof gloves and a thin hat under your helmet.",
+              "Check tire pressure; slightly lower pressure offers better grip.",
+              "E-bike batteries discharge faster in cold weather.",
+              "Keep the tour shorter if temperatures drop significantly."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -783,6 +1129,188 @@
           "The road to Belpberg can be narrow, drive carefully.",
           "Combine your visit to the airport with a walk in the floodplain to optimize parking."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Belp bequem und trocken. Nach dem Besuch der Kirche und des Schlosses führt die Fahrt hinauf auf den Belpberg, wo der Regen oft für eine mystische Wolkenstimmung über dem Aaretal sorgt. Ein Mittagessen mit Aussicht und ein Abstecher zum Flughafen Bern-Belp runden den Tag ab, bevor ein kurzer Spaziergang in der Auenlandschaft für frische Luft sorgt.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel Belp környékét. A templom és a vár meglátogatása után az út felvezet a Belpbergre, ahol az eső gyakran misztikus felhőjátékot teremt az Aare-völgy felett. Egy panorámás ebéd és a repülőtéri kitérő után az ártéri táj friss levegője várja, mielőtt visszatérne a fűtött utastérbe.",
+            "ro": "Cu mașina puteți explora Belp în confort și uscat. După vizitarea bisericii și a castelului, drumul urcă pe Belpberg, unde ploaia creează adesea un joc mistic de nori peste valea Aare. Un prânz cu vedere și o oprire la aeroport completează ziua, înainte de o scurtă plimbare revigorantă în zona de luncă.",
+            "en": "Explore Belp comfortably and dry by car. After visiting the church and castle, drive up to Belpberg, where the rain often creates a mystical cloud display over the Aare Valley. A panoramic lunch and a detour to Bern-Belp Airport round off the day, before a short walk in the floodplains provides some fresh air before heading home."
+          },
+          "stops": [
+            {
+              "name": "Parking in the center & walk to the church",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze ermöglichen kurze Wege im Regen.",
+                "hu": "A központi parkolók rövid sétát jelentenek az esőben.",
+                "ro": "Parcările centrale permit acces rapid pe ploaie.",
+                "en": "Central parking allows for short walks in the rain."
+              }
+            },
+            {
+              "name": "Local Museum and Belp Castle",
+              "tip_5lang": {
+                "de": "Parken Sie direkt beim Schlossareal.",
+                "hu": "Parkoljon közvetlenül a várkastély területénél.",
+                "ro": "Parcați direct în zona castelului.",
+                "en": "Park directly at the castle grounds for convenience."
+              }
+            },
+            {
+              "name": "Drive to Belpberg",
+              "tip_5lang": {
+                "de": "Vorsicht auf der kurvigen Straße bei Aquaplaning-Gefahr.",
+                "hu": "Vigyázzon a kanyargós úton a vízkifutás veszélye miatt.",
+                "ro": "Atenție la acvaplanare pe drumul sinuos spre Belpberg.",
+                "en": "Be careful on the winding road due to aquaplaning risk."
+              }
+            },
+            {
+              "name": "Lunch on the mountain or back in the valley",
+              "tip_5lang": {
+                "de": "Bergrestaurants bieten bei Regen eine gemütliche Atmosphäre.",
+                "hu": "A hegyi éttermek esőben különösen hangulatosak.",
+                "ro": "Restaurantele montane oferă o atmosferă caldă pe ploaie.",
+                "en": "Mountain restaurants offer a very cozy atmosphere in the rain."
+              }
+            },
+            {
+              "name": "Drive to Bern-Belp Airport",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt am Aussichtspunkt vorhanden.",
+                "hu": "Közvetlenül a kilátópontnál nagy parkoló található.",
+                "ro": "Parcare mare disponibilă chiar lângă punctul de observație.",
+                "en": "Large parking lot available directly at the viewpoint."
+              }
+            },
+            {
+              "name": "Walk in the floodplain landscape",
+              "tip_5lang": {
+                "de": "Halten Sie den Regenschirm im Kofferraum bereit.",
+                "hu": "Tartsa az esernyőt készenlétben a csomagtartóban.",
+                "ro": "Țineți umbrela la îndemână în portbagaj.",
+                "en": "Keep your umbrella ready in the trunk for this walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand der Wischerblätter vor der Fahrt.",
+              "Die Sicht vom Belpberg kann bei tiefen Wolken eingeschränkt sein.",
+              "Nutzen Sie die Parkhäuser im Zentrum für längeres Parken.",
+              "Fahren Sie bei starkem Regen auf den Bergstraßen defensiv."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Alacsony felhőzet esetén a kilátás korlátozott a Belpbergről.",
+              "Hosszabb tartózkodáshoz használja a központi parkolóházakat.",
+              "Heves esőben vezessen óvatosan a hegyi utakon."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "Vizibilitatea de pe Belpberg poate fi redusă de norii joși.",
+              "Folosiți parcările etajate din centru pentru staționări lungi.",
+              "Conduceți defensiv pe drumurile montane în caz de ploaie torențială."
+            ],
+            "en": [
+              "Check the condition of your wiper blades before the trip.",
+              "Visibility from Belpberg can be limited during low cloud cover.",
+              "Use central parking garages for longer stays.",
+              "Drive defensively on mountain roads during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour zum Belpberg bietet spektakuläre Ausblicke auf die verschneiten Berner Alpen. Starten Sie im Dorfzentrum und wärmen Sie sich im Schlossmuseum auf. Die Fahrt auf den Berg erfordert Winterausrüstung, belohnt aber mit Wintersonne über dem Nebelmeer. Am Flughafen können Sie das Wintertreiben beobachten, bevor der Tag in der stillen Selhofen-Aue ausklingt.",
+            "hu": "A Belpbergre tett téli autós kirándulás látványos kilátást nyújt a havas Berni-Alpokra. Kezdjen a központban, és melegedjen fel a várkastély múzeumában. A hegyi út téli felszerelést igényel, de a ködtenger feletti téli napsütés kárpótolja. A repülőtérnél megfigyelheti a téli üzemet, majd a csendes Selhofen-ártéren zárhatja a napot.",
+            "ro": "O excursie de iarnă cu mașina pe Belpberg oferă vederi spectaculoase asupra Alpilor Bernezi înzăpeziți. Începeți în centru și încălziți-vă în muzeul castelului. Drumul spre munte necesită echipament de iarnă, dar răsplătește cu soare peste marea de ceață. La aeroport puteți observa activitatea hibernală înainte de finalul zilei.",
+            "en": "A winter drive to Belpberg offers spectacular views of the snow-capped Bernese Alps. Start in the village center and warm up in the castle museum. The drive up the mountain requires winter gear but rewards you with winter sun above the sea of fog. Observe the winter operations at the airport before the day ends in the quiet Selhofen floodplains."
+          },
+          "stops": [
+            {
+              "name": "Parking in the center & walk to the church",
+              "tip_5lang": {
+                "de": "Achten Sie auf geräumte Parkflächen im Zentrum.",
+                "hu": "Figyeljen a letakarított parkolóhelyekre a központban.",
+                "ro": "Căutați locuri de parcare deszăpezite în centru.",
+                "en": "Look for cleared parking spaces in the village center."
+              }
+            },
+            {
+              "name": "Local Museum and Belp Castle",
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter eine wohltemperierte Oase.",
+                "hu": "A múzeum télen egy kellemesen fűtött oázis.",
+                "ro": "Muzeul este o oază bine încălzită pe timp de iarnă.",
+                "en": "The museum is a well-heated oasis during winter."
+              }
+            },
+            {
+              "name": "Drive to Belpberg",
+              "tip_5lang": {
+                "de": "Winterreifen und ggf. Schneeketten sind obligatorisch.",
+                "hu": "Téli gumi és szükség esetén hólánc kötelező.",
+                "ro": "Anvelopele de iarnă și eventual lanțurile sunt obligatorii.",
+                "en": "Winter tires and snow chains may be mandatory."
+              }
+            },
+            {
+              "name": "Lunch on the mountain or back in the valley",
+              "tip_5lang": {
+                "de": "Genießen Sie das Panorama über dem Nebel bei einem Fondue.",
+                "hu": "Élvezze a ködtenger feletti panorámát egy fondue mellett.",
+                "ro": "Bucurați-vă de panorama de deasupra ceții cu un fondue.",
+                "en": "Enjoy the panorama above the fog with a warm fondue."
+              }
+            },
+            {
+              "name": "Drive to Bern-Belp Airport",
+              "tip_5lang": {
+                "de": "Die Straßen zum Flughafen werden vorrangig geräumt.",
+                "hu": "A repülőtérre vezető utakat elsőként takarítják le.",
+                "ro": "Drumurile spre aeroport sunt curățate cu prioritate.",
+                "en": "Roads to the airport are prioritized for snow clearance."
+              }
+            },
+            {
+              "name": "Walk in the floodplain landscape",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk für eventuell vereiste Wege nötig.",
+                "hu": "Bakancs szükséges az esetlegesen jeges utakra.",
+                "ro": "Încălțăminte robustă necesară pentru potecile înghețate.",
+                "en": "Sturdy footwear needed for potentially icy paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer einen Eiskratzer und Handfeger mit.",
+              "Die Bergstraße zum Belpberg kann bei Neuschnee gesperrt sein.",
+              "Nutzen Sie die Standheizung, falls vorhanden.",
+              "Tanken Sie rechtzeitig, im Winter ist der Verbrauch höher."
+            ],
+            "hu": [
+              "Mindig legyen az autóban jégkaparó és kefe.",
+              "Friss hó esetén a Belpbergre vezető utat lezárhatják.",
+              "Ha van az autóban állófűtés, használja ki.",
+              "Tankoljon időben, télen magasabb az üzemanyag-fogyasztás."
+            ],
+            "ro": [
+              "Aveți întotdeauna în mașină o răzuitoare de gheață și o perie.",
+              "Drumul spre Belpberg poate fi închis în caz de ninsoare proaspătă.",
+              "Folosiți încălzirea auxiliară dacă mașina este dotată.",
+              "Alimentați la timp, consumul este mai mare iarna."
+            ],
+            "en": [
+              "Always carry an ice scraper and a snow brush in your car.",
+              "The mountain road to Belpberg might be closed during heavy snowfall.",
+              "Use the auxiliary heater if your car is equipped with one.",
+              "Refuel in time; fuel consumption is typically higher in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1023,6 +1551,170 @@
           "Check the bus schedules, as frequencies may decrease in the afternoon.",
           "Some stops are 'stop on request' - press the button in time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das dichte ÖV-Netz, um Belp wetterunabhängig zu erleben. Vom Bahnhof erreichen Sie schnell die Kirche und das Schlossmuseum. Der Bus bringt Sie bequem zum Flughafen Bern-Belp, wo Sie das Geschehen aus dem trockenen Terminal beobachten können. Ein Ausflug in die Selhofen-Aue ist auch bei Regen reizvoll, bevor der Zug Sie sicher zurückbringt.",
+            "hu": "Használja ki a sűrű közösségi közlekedést Belp esőmentes felfedezéséhez. A vasútállomástól gyorsan elérhető a templom és a várkastély. A busz kényelmesen kiviszi a Bern-Belp repülőtérre, ahol a terminál szárazából figyelheti a forgalmat. Az ártéri táj esőben is különleges élmény, mielőtt a vonat biztonságban hazavinné.",
+            "ro": "Folosiți rețeaua densă de transport public pentru a descoperi Belp indiferent de vreme. De la gară ajungeți rapid la biserică și la muzeul castelului. Autobuzul vă duce confortabil la aeroportul Bern-Belp, unde puteți urmări activitatea din terminalul uscat, înainte de întoarcerea cu trenul.",
+            "en": "Utilize the dense public transport network to experience Belp regardless of the weather. From the station, you can quickly reach the church and the castle museum. The bus takes you comfortably to Bern-Belp Airport, where you can watch the action from the dry terminal, before heading back safely by train."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Belp station, walk to the church",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet überdachte Wartebereiche.",
+                "hu": "A vasútállomás fedett várótermekkel rendelkezik.",
+                "ro": "Gara oferă zone de așteptare acoperite.",
+                "en": "The station offers covered waiting areas for passengers."
+              }
+            },
+            {
+              "name": "Local Museum and Belp Castle",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Bahnhof, ideal bei Schauern.",
+                "hu": "Rövid séta az állomástól, ideális záporok idején.",
+                "ro": "Drum scurt pe jos de la gară, ideal între averse.",
+                "en": "Short walk from the station, ideal between showers."
+              }
+            },
+            {
+              "name": "Bus ride to Bern-Belp Airport",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt vor dem Terminalgebäude.",
+                "hu": "A busz közvetlenül a terminálépület előtt áll meg.",
+                "ro": "Autobuzul oprește chiar în fața terminalului.",
+                "en": "The bus stops directly in front of the terminal building."
+              }
+            },
+            {
+              "name": "Bus ride to Selhofen & floodplain landscape",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten per App bei Regen.",
+                "hu": "Esőben ellenőrizze az indulási időket az applikációban.",
+                "ro": "Verificați orele de plecare în aplicație pe ploaie.",
+                "en": "Check departure times via app during rainy weather."
+              }
+            },
+            {
+              "name": "Walk along the Gürbe before departure",
+              "tip_5lang": {
+                "de": "Weg zum Bahnhof ist gut beleuchtet und befestigt.",
+                "hu": "Az állomásra vezető út jól kivilágított és burkolt.",
+                "ro": "Drumul spre gară este bine iluminat și pavat.",
+                "en": "The path to the station is well-lit and paved."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die SBB Mobile App für Echtzeit-Infos.",
+              "Die Busse sind klimatisiert und bieten Schutz vor Nässe.",
+              "Am Flughafen gibt es Schließfächer für nasses Gepäck.",
+              "Planen Sie bei starkem Regen etwas mehr Umstiegszeit ein."
+            ],
+            "hu": [
+              "Használja az SBB Mobile alkalmazást a valós idejű infókért.",
+              "A buszok fűtöttek/légkondicionáltak, védenek a nedvességtől.",
+              "A repülőtéren találhatók csomagmegőrzők a vizes holmiknak.",
+              "Heves esőben tervezzen kicsivel több időt az átszállásra."
+            ],
+            "ro": [
+              "Folosiți aplicația SBB Mobile pentru informații în timp real.",
+              "Autobuzele sunt climatizate și oferă protecție împotriva umezelii.",
+              "La aeroport există dulapuri pentru depozitarea bagajelor ude.",
+              "Planificați puțin mai mult timp de transfer în caz de ploaie torențială."
+            ],
+            "en": [
+              "Use the SBB Mobile app for real-time traffic information.",
+              "Buses are climate-controlled and protect you from the wet.",
+              "Lockers are available at the airport for wet luggage or gear.",
+              "Allow a bit more time for transfers during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Belp im Winter lässt sich hervorragend mit Bahn und Bus entdecken. Die Züge sind warm und bringen Sie direkt ins Herz des Dorfes. Nach dem Besuch der reformierten Kirche und des Schlosses fährt der Bus zum Flughafen, wo die verschneite Piste ein toller Anblick ist. Die Rückfahrt entlang der Gürbe bietet winterliche Impressionen aus dem warmen Abteil, bevor Sie Belp verlassen.",
+            "hu": "Belp télen is kiválóan felfedezhető vonattal és busszal. A vonatok fűtöttek, és egyenesen a falu szívébe repítik. A református templom és a vár után a repülőtérre induló buszról csodálhatja meg a havas kifutópályát. A hazaút során a Gürbe menti téli tájat a meleg kocsiból is megcsodálhatja, mielőtt elhagyná Belpet.",
+            "ro": "Belp poate fi descoperit excelent iarna cu trenul și autobuzul. Trenurile sunt calde și vă duc direct în inima satului. După biserică și castel, autobuzul spre aeroport oferă o vedere frumoasă asupra pistei înzăpezite. La întoarcere, puteți admira peisajul hibernal al râului Gürbe din compartimentul cald.",
+            "en": "Belp in winter is easy to explore by train and bus. The trains are warm and take you directly to the heart of the village. After visiting the Reformed Church and the castle, take the bus to the airport to see the snowy runway. On the return trip, enjoy wintry impressions of the Gürbe from the warm carriage before leaving Belp."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Belp station, walk to the church",
+              "tip_5lang": {
+                "de": "Beheizte Warteräume im Bahnhof nutzen.",
+                "hu": "Használja a vasútállomás fűtött várótermeit.",
+                "ro": "Folosiți sălile de așteptare încălzite din gară.",
+                "en": "Make use of the heated waiting rooms at the station."
+              }
+            },
+            {
+              "name": "Local Museum and Belp Castle",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Zeit bis zum nächsten Bus zu überbrücken.",
+                "hu": "Ideális hely a következő buszig hátralévő idő eltöltésére.",
+                "ro": "Loc ideal pentru a aștepta următorul autobuz la căldură.",
+                "en": "Ideal place to bridge the time until the next bus."
+              }
+            },
+            {
+              "name": "Bus ride to Bern-Belp Airport",
+              "tip_5lang": {
+                "de": "Busse verkehren auch bei Schneefall zuverlässig.",
+                "hu": "A buszok havazás esetén is megbízhatóan közlekednek.",
+                "ro": "Autobuzele circulă regulat chiar și în caz de ninsoare.",
+                "en": "Buses operate reliably even during snowfall."
+              }
+            },
+            {
+              "name": "Bus ride to Selhofen & floodplain landscape",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf glatten Haltestellen.",
+                "hu": "Vigyázzon a leszálláskor a csúszós megállókban.",
+                "ro": "Atenție la coborâre, stațiile pot fi alunecoase.",
+                "en": "Be careful when getting off at potentially slippery bus stops."
+              }
+            },
+            {
+              "name": "Walk along the Gürbe before departure",
+              "tip_5lang": {
+                "de": "Kurze Intervalle der S-Bahn am Abend beachten.",
+                "hu": "Ügyeljen az S-Bahn sűrű esti menetrendjére.",
+                "ro": "Atenție la intervalele scurte ale trenurilor S-Bahn seara.",
+                "en": "Note the frequent S-Bahn intervals in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie bei Wartezeiten an Haltestellen eine warme Jacke.",
+              "Die S-Bahn Linien S4/S44 bieten schnelle Verbindungen nach Bern.",
+              "Bahnhöfe sind oft windanfällig, Mützen sind ratsam.",
+              "Bei extremem Wetter können Verspätungen auftreten, App prüfen."
+            ],
+            "hu": [
+              "A megállókban való várakozáshoz viseljen meleg kabátot.",
+              "Az S4/S44-es vonalak gyors összeköttetést adnak Bernnel.",
+              "Az állomások gyakran huzatosak, a sapka viselése ajánlott.",
+              "Extrém időjáráskor előfordulhatnak késések, nézze az appot."
+            ],
+            "ro": [
+              "Purtați o jachetă groasă pentru timpul de așteptare în stații.",
+              "Liniile S-Bahn S4/S44 oferă conexiuni rapide spre Berna.",
+              "Gările sunt adesea expuse vântului, căciulile sunt recomandate.",
+              "În caz de vreme extremă pot apărea întârzieri, verificați aplicația."
+            ],
+            "en": [
+              "Wear a warm jacket for waiting periods at bus stops or stations.",
+              "S-Bahn lines S4/S44 provide quick connections to Bern.",
+              "Train stations are often windy; hats are highly advisable.",
+              "Check the app for potential delays during extreme weather."
+            ]
+          }
+        }
       }
     }
   }

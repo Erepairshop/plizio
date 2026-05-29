@@ -306,6 +306,188 @@
           "Bring water with you, especially for the climb to the fortress.",
           "Most sights in the center are easily within walking distance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Denkmal unter grauem Himmel. Die Moschee und die Antoniuskirche bieten bald darauf trockene Zuflucht für Besinnung. Mittags verbringen Sie viel Zeit im Ethnographischen Museum, dem perfekten Ort, um dem Regen zu entgehen. Den Nachmittag beschließen Sie an der Festung und der Milješ-Brücke, wo die feuchten Steine eine ganz besondere, melancholische Atmosphäre versprühen.",
+            "hu": "A napot a szemerkélő esőben kezdjük a monumentális emlékműnél. A mecset és a Szent Antal-templom belső terei hamarosan száraz menedéket nyújtanak. A déli órákat az Néprajzi Múzeumban töltjük, amely ideális helyszín a záporok idejére. Délután a vár romjai és a Milješ-híd zárja a programot, ahol az eső áztatta kövek és a ködös táj különleges, titokzatos hangulatot áraszt.",
+            "ro": "Ziua începe la monument sub un cer plumburiu. Moscheea și Biserica Sf. Anton oferă curând un refugiu uscat pentru reflecție. La prânz, petreceți mai mult timp în Muzeul Etnografic, locul perfect pentru a evita ploaia. După-amiaza se încheie la fortăreață și la podul Milješ, unde pietrele umede și peisajul cețos creează o atmosferă melancolică și plină de istorie.",
+            "en": "The day starts at the monument under a grey sky. The Mosque and St. Anthony's Church soon provide dry refuge for reflection. Spend mid-day at the Ethnographic Museum, the perfect spot to escape the rain. The afternoon concludes at the fortress and the Milješ Bridge, where the damp stones and misty landscape create a uniquely atmospheric and historic experience."
+          },
+          "stops": [
+            {
+              "name": "Monument of the 1911 Uprising",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt, da das Denkmal im Freien steht.",
+                "hu": "Rövid megálló, mivel az emlékmű teljesen nyitott.",
+                "ro": "Oprire scurtă, deoarece monumentul este în aer liber.",
+                "en": "Brief stop as the monument is completely exposed."
+              }
+            },
+            {
+              "name": "Mosque of Tuzi",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den ersten Schauer abzuwarten.",
+                "hu": "Csendes hely az első záporok megvárására.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea primei ploi.",
+                "en": "A quiet place to wait out the first showers."
+              }
+            },
+            {
+              "name": "Church of St. Anthony",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Vorhalle zum Unterstellen.",
+                "hu": "Használja az előteret az eső elleni védekezésre.",
+                "ro": "Folosiți pridvorul pentru a vă adăposti de ploaie.",
+                "en": "Use the porch area to shelter from the rain."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Bestes Schlechtwetterprogramm mit viel Innenraum.",
+                "hu": "A legjobb program rossz időben, bőséges beltéri látnivalóval.",
+                "ro": "Cea mai bună activitate pe timp de ploaie, cu multe exponate la interior.",
+                "en": "Best rainy day activity with extensive indoor exhibits."
+              }
+            },
+            {
+              "name": "Tuzi Fortress",
+              "tip_5lang": {
+                "de": "Vorsicht, die Pfade können sehr schlammig sein.",
+                "hu": "Vigyázat, az ösvények sárosak és csúszósak lehetnek.",
+                "ro": "Atenție, potecile pot fi foarte noroioase.",
+                "en": "Caution, the paths can become very muddy."
+              }
+            },
+            {
+              "name": "Bridge of Milješ",
+              "tip_5lang": {
+                "de": "Das Rauschen des Flusses ist bei Regen besonders laut.",
+                "hu": "A folyó zúgása esőben különösen intenzív élmény.",
+                "ro": "Vuetul râului este deosebit de intens pe timp de ploaie.",
+                "en": "The sound of the river is particularly intense in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie die unbefestigten Wege zur Festung bei starkem Regen.",
+              "Das Museum bietet die längste überdachte Aufenthaltsdauer.",
+              "Ein stabiler Regenschirm ist wegen des Windes oft besser als ein Cape.",
+              "Die religiösen Stätten sind ideale Zwischenstopps zum Trocknen."
+            ],
+            "hu": [
+              "Erős esőben kerülje a várhoz vezető földutakat.",
+              "A múzeum kínálja a leghosszabb fedett időtöltést.",
+              "A szél miatt egy erős esernyő praktikusabb lehet az esőkabátnál.",
+              "A vallási helyszínek kiváló pihenőpontok a megszáradáshoz."
+            ],
+            "ro": [
+              "Evitați drumurile neasfaltate spre fortăreață în caz de ploaie torențială.",
+              "Muzeul oferă cea mai lungă durată de activitate la adăpost.",
+              "O umbrelă rezistentă este adesea mai utilă decât o pelerină din cauza vântului.",
+              "Lăcașurile de cult sunt puncte intermediare ideale pentru a vă usca."
+            ],
+            "en": [
+              "Avoid unpaved paths to the fortress during heavy downpours.",
+              "The museum offers the longest indoor activity duration.",
+              "A sturdy umbrella is often better than a poncho due to local winds.",
+              "Religious sites are ideal intermediate stops to dry off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Aufstandsdenkmal belebt die Sinne. Die Besuche der Moschee und der Antoniuskirche bieten willkommene Momente der Stille in geschützten Räumen. Mittags wärmt die reiche Kultur im Ethnographischen Museum das Herz. Da die Sonne früh hinter den Hügeln versinkt, erreichen Sie die Festung und die Milješ-Brücke im goldenen, kalten Abendlicht.",
+            "hu": "A friss téli reggel az emlékműnél felfrissíti az érzékeket. A mecset és a Szent Antal-templom látogatása a nyugalom és a szélvédett belső terek élményét nyújtja. Délben a Néprajzi Múzeum gazdag tárlata melengeti meg a látogatót. Mivel a nap korán nyugszik a dombok mögött, a várat és a Milješ-hidat már a hideg, aranyló alkonyi fényekben érjük el.",
+            "ro": "O dimineață răcoroasă de iarnă la monument revigorează simțurile. Vizitele la moschee și la Biserica Sf. Anton oferă momente de liniște în spații protejate. La prânz, cultura bogată din Muzeul Etnografic încălzește inima vizitatorului. Deoarece soarele apune devreme după dealuri, veți ajunge la fortăreață și la podul Milješ în lumina aurie și rece a serii.",
+            "en": "A crisp winter morning at the monument invigorates the senses. Visits to the Mosque and St. Anthony's Church offer peaceful moments in sheltered interiors. At noon, the rich culture of the Ethnographic Museum warms the traveler. As the sun sets early behind the hills, you reach the fortress and Milješ Bridge in the cold, golden evening light."
+          },
+          "stops": [
+            {
+              "name": "Monument of the 1911 Uprising",
+              "tip_5lang": {
+                "de": "Warm anziehen, der Wind pfeift hier oben oft kalt.",
+                "hu": "Öltözzön melegen, itt gyakran erős a hideg szél.",
+                "ro": "Îmbrăcați-vă bine, vântul bate adesea cu putere aici.",
+                "en": "Dress warmly, as the wind often bites at this location."
+              }
+            },
+            {
+              "name": "Mosque of Tuzi",
+              "tip_5lang": {
+                "de": "Ein ruhiger, windgeschützter Ort für eine Pause.",
+                "hu": "Csendes, szélvédett hely egy rövid pihenőre.",
+                "ro": "Un loc liniștit și ferit de vânt pentru o pauză.",
+                "en": "A quiet, wind-sheltered spot for a short break."
+              }
+            },
+            {
+              "name": "Church of St. Anthony",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die schlimmste Kälte ab.",
+                "hu": "A vastag falak felfogják a legzordabb hideget is.",
+                "ro": "Zidurile groase oferă protecție împotriva frigului de afară.",
+                "en": "The thick walls provide a buffer against the winter chill."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier die längste Zeit im Warmen ein.",
+                "hu": "Itt tervezze a leghosszabb időt a melegben.",
+                "ro": "Planificați aici cea mai lungă perioadă de timp la căldură.",
+                "en": "Plan to spend your longest warm interval here."
+              }
+            },
+            {
+              "name": "Tuzi Fortress",
+              "tip_5lang": {
+                "de": "Früher Aufstieg nötig, da es ab 16:30 Uhr dunkelt.",
+                "hu": "Korai indulás szükséges, 16:30 után már sötétedik.",
+                "ro": "Urcați devreme, deoarece se întunecă după ora 16:30.",
+                "en": "Start the climb early as it gets dark after 4:30 PM."
+              }
+            },
+            {
+              "name": "Bridge of Milješ",
+              "tip_5lang": {
+                "de": "Das klare Winterlicht bietet tolle Fotomotive.",
+                "hu": "A tiszta téli fények remek fotótémát szolgáltatnak.",
+                "ro": "Lumina clară de iarnă oferă oportunități foto excelente.",
+                "en": "The crisp winter light offers excellent photo opportunities."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne verschwindet im Winter sehr früh hinter den Bergen.",
+              "Tragen Sie mehrere Schichten Kleidung gegen den böigen Wind.",
+              "Ein heißes Getränk im Zentrum vor dem Museumsbesuch hilft.",
+              "Feste Sohlen sind wichtig für den gefrorenen Boden zur Festung."
+            ],
+            "hu": [
+              "A nap télen nagyon korán eltűnik a hegyek mögött.",
+              "Viseljen réteges öltözéket a felerősödő szél ellen.",
+              "Egy forró ital a központban a múzeumlátogatás előtt sokat segít.",
+              "A fagyott talaj miatt fontos a stabil talpú cipő a várhoz."
+            ],
+            "ro": [
+              "Soarele dispare foarte devreme după munți în timpul iernii.",
+              "Purtați mai multe straturi de haine împotriva vântului tăios.",
+              "O băutură caldă în centru înainte de muzeu este binevenită.",
+              "Talpa aderentă este esențială pentru solul înghețat spre cetate."
+            ],
+            "en": [
+              "The sun disappears very early behind the mountains in winter.",
+              "Wear multiple layers to protect against the gusty Balkan winds.",
+              "Grab a hot drink in the center before heading to the museum.",
+              "Sturdy soles are important for the frozen ground near the fortress."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -606,6 +788,188 @@
           "The road to the waterfalls can be busy, ride carefully.",
           "A helmet is strongly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig zu den Niagarafällen; der aufgewirbelte Nebel mischt sich mit dem Regen. Über die Milješ-Brücke geht es zurück in den Ort, wo Kirchen und das Museum trockene Pausen ermöglichen. Die Auffahrt zur Festung ist bei Nässe eine sportliche Herausforderung, belohnt aber mit dramatischer Aussicht. Der Tag endet im Zentrum beim geschichtsträchtigen Denkmal.",
+            "hu": "Óvatosan indulunk a Niagara-vízeséshez, ahol a permet és az eső eggyé válik. A Milješ-hídon át térünk vissza a városba, ahol a templomok és a múzeum kínál száraz pihenőt. A várba vezető emelkedő esőben igazi sportteljesítmény, de a drámai kilátás kárpótol. A napot a központban, a történelmi emlékműnél zárjuk.",
+            "ro": "Porniți cu atenție spre cascadele Nijagara; ceața se amestecă cu ploaia într-un spectacol natural. Treceți peste podul Milješ înapoi în oraș, unde bisericile și muzeul permit pauze uscate. Urcarea spre fortăreață este o provocare sportivă pe ploaie, dar oferă vederi dramatice. Ziua se încheie în centru, la monumentul plin de istorie.",
+            "en": "Start cautiously towards the Nijagara waterfalls; the mist blends with the rain. Cross the Milješ Bridge back to town, where churches and the museum provide dry breaks. The climb to the fortress is a sporting challenge in the wet, but rewards with dramatic views. The day ends in the center at the historic monument."
+          },
+          "stops": [
+            {
+              "name": "Cijevna Waterfalls (Nijagara)",
+              "tip_5lang": {
+                "de": "Achtung, die Felsen am Ufer sind extrem rutschig.",
+                "hu": "Vigyázat, a folyóparti sziklák rendkívül csúszósak.",
+                "ro": "Atenție, stâncile de pe mal sunt extrem de alunecoase.",
+                "en": "Caution, the rocks by the river are extremely slippery."
+              }
+            },
+            {
+              "name": "Bridge of Milješ",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Belag der Brücke.",
+                "hu": "Óvatosan közlekedjen a híd síkos burkolatán.",
+                "ro": "Circulați cu prudență pe suprafața alunecoasă a podului.",
+                "en": "Ride carefully on the slippery surface of the bridge."
+              }
+            },
+            {
+              "name": "Church of St. Anthony",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter das Vordach.",
+                "hu": "Parkolja le a biciklit az előtető alá.",
+                "ro": "Parcați bicicleta sub streașina bisericii.",
+                "en": "Park your bike under the overhanging roof."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pause, um die Kleidung zu trocknen.",
+                "hu": "Használja ki a szünetet a ruházat szárítására.",
+                "ro": "Profită de pauză pentru a-ți usca echipamentul.",
+                "en": "Use the break to dry off your gear."
+              }
+            },
+            {
+              "name": "Tuzi Fortress",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Auffahrt sehr mühsam.",
+                "hu": "Erős esőben a feljutás nagyon kimerítő lehet.",
+                "ro": "Urcarea este foarte obositoare în caz de ploaie puternică.",
+                "en": "The ascent is very grueling during heavy rain."
+              }
+            },
+            {
+              "name": "Monument of the 1911 Uprising",
+              "tip_5lang": {
+                "de": "Kurzer Foto-Stopp im Schutz eines Baumes.",
+                "hu": "Gyors fotómegálló egy fa oltalma alatt.",
+                "ro": "Oprire foto rapidă sub adăpostul unui copac.",
+                "en": "Quick photo stop under the shelter of a tree."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen; nasse Felgen brauchen längeren Bremsweg.",
+              "Vermeiden Sie tiefere Pfützen, da Löcher unsichtbar sein können.",
+              "Ein Schutzblech ist bei diesen Wegen unerlässlich.",
+              "Fahren Sie auf den Steinwegen der Festung besonders langsam."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket; a vizes abroncsnak hosszabb a fékútja.",
+              "Kerülje a mély tócsákat, mert elrejthetik az úthibákat.",
+              "Sárvédő nélkülözhetetlen ezeken az utakon.",
+              "A vár köves útjain közlekedjen különösen lassan."
+            ],
+            "ro": [
+              "Verificați frânele; jantele ude necesită o distanță mai mare de frânare.",
+              "Evitați bălțile adânci, deoarece pot ascunde gropi periculoase.",
+              "Aripile la bicicletă sunt indispensabile pe aceste drumuri.",
+              "Circulați foarte încet pe secțiunile cu piatră de la cetate."
+            ],
+            "en": [
+              "Check your brakes; wet rims require longer stopping distances.",
+              "Avoid deep puddles as they can hide dangerous potholes.",
+              "Mudguards are essential for these local paths.",
+              "Ride very slowly on the stone paths near the fortress."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt frostig an den Wasserfällen, wo der Wind vom Cijevna-Fluss weht. Über die Milješ-Brücke radeln Sie zur Antoniuskirche und finden Aufwärmzeit im Museum. Die Auffahrt zur Festung hält den Kreislauf in Schwung, bevor Sie die Abfahrt im schwindenden Tageslicht antreten. Der Tag endet am Monument bei klirrender Kälte und klarem Sternenhimmel.",
+            "hu": "A bringatúra fagyosan indul a vízeséseknél, ahol a Cijevna-folyó felől fúj a szél. A Milješ-hídon át tekerünk a Szent Antal-templomhoz, majd a múzeumban melegszünk fel. A várba vezető út segít fenntartani a testhőt, mielőtt a fogyatkozó fényben megkezdjük a leereszkedést. A nap az emlékműnél zárul a csípős hidegben és tiszta égbolt alatt.",
+            "ro": "Turul cu bicicleta începe înghețat la cascade, unde vântul suflă dinspre râul Cijevna. Pedalați spre Biserica Sf. Anton și încălziți-vă la muzeu. Urcarea spre cetate vă menține circulația activă înainte de a începe coborârea în lumina slabă a serii. Ziua se încheie la monument sub un cer senin, dar la temperaturi scăzute.",
+            "en": "The bike tour starts frostily at the waterfalls, with winds blowing from the Cijevna River. Pedal through Milješ Bridge to St. Anthony's Church and find warmth in the museum. The climb to the fortress keeps your circulation going before the descent in fading light. The day ends at the monument under a biting cold but clear sky."
+          },
+          "stops": [
+            {
+              "name": "Cijevna Waterfalls (Nijagara)",
+              "tip_5lang": {
+                "de": "Windfeste Kleidung ist am Fluss obligatorisch.",
+                "hu": "Szélálló öltözet kötelező a folyóparton.",
+                "ro": "Îmbrăcămintea rezistentă la vânt este obligatorie la râu.",
+                "en": "Windproof clothing is mandatory by the river."
+              }
+            },
+            {
+              "name": "Bridge of Milješ",
+              "tip_5lang": {
+                "de": "Achtung bei Reifglätte auf den Planken.",
+                "hu": "Vigyázat, a deszkák zúzmarásak és csúszósak lehetnek.",
+                "ro": "Atenție la poleiul care se poate forma pe pod.",
+                "en": "Watch out for frost on the bridge planks."
+              }
+            },
+            {
+              "name": "Church of St. Anthony",
+              "tip_5lang": {
+                "de": "Kurzes Innehalten zum Aufwärmen der Hände.",
+                "hu": "Rövid megálló a kezek felmelegítésére.",
+                "ro": "O scurtă oprire pentru a vă încălzi mâinile.",
+                "en": "A short pause to warm up your hands."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Ideale Pause, um die Kälte aus den Knochen zu bekommen.",
+                "hu": "Ideális szünet, hogy kiűzzük a hideget a tagjainkból.",
+                "ro": "Pauza ideală pentru a scăpa de frigul pătrunzător.",
+                "en": "Ideal break to get the chill out of your bones."
+              }
+            },
+            {
+              "name": "Tuzi Fortress",
+              "tip_5lang": {
+                "de": "Vermeiden Sie die Abfahrt nach Sonnenuntergang.",
+                "hu": "Kerülje a leereszkedést naplemente után.",
+                "ro": "Evitați coborârea după apusul soarelui.",
+                "en": "Avoid descending after the sun has set."
+              }
+            },
+            {
+              "name": "Monument of the 1911 Uprising",
+              "tip_5lang": {
+                "de": "Ziel erreicht! Schnell zurück ins Warme.",
+                "hu": "Cél elérése után irány vissza a melegre.",
+                "ro": "Țintă atinsă! Mergeți repede la căldură.",
+                "en": "Goal reached! Head back to the warmth quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Windchill-Effekt: Bei 5 Grad fühlen sich 20 km/h wie Minusgrade an.",
+              "Vorder- und Rücklicht sind ab 16:00 Uhr lebenswichtig.",
+              "Warme Handschuhe und Überschuhe verhindern Taubheit.",
+              "Die Bergstrecken können vereiste Stellen im Schatten haben."
+            ],
+            "hu": [
+              "Szélhűtés: 5 fokban a 20 km/h-s sebesség mínusznak érződik.",
+              "Az első és hátsó lámpa 16:00 után életfontosságú.",
+              "Meleg kesztyű és kamásli segít elkerülni a zsibbadást.",
+              "A hegyi szakaszok árnyékos részei jegesek maradhatnak."
+            ],
+            "ro": [
+              "Efectul de răcire: la 5 grade, viteza de 20 km/h se simte ca sub zero.",
+              "Luminile față-spate sunt vitale începând cu ora 16:00.",
+              "Mănușile groase și protecțiile de încălțăminte sunt necesare.",
+              "Secțiunile montane pot avea porțiuni înghețate la umbră."
+            ],
+            "en": [
+              "Windchill: at 5°C, riding at 20 km/h feels like sub-zero temperatures.",
+              "Front and rear lights are vital after 4:00 PM.",
+              "Warm gloves and shoe covers prevent numbness while riding.",
+              "Mountain sections may have icy patches in shaded areas."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -946,6 +1310,206 @@
           "Be mindful of parking in the town center, which can be limited.",
           "A GPS is helpful for finding the more remote locations."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erleben Sie die Niagarafälle in ihrer vollen, regengeschwollenen Pracht. Die perfekte Flucht vor dem Wetter bietet der Shipčanik Weinkeller, ein ehemaliger Flugzeughangar tief im Fels. Nachmittags besichtigen Sie die Festung und die religiösen Stätten bequem per Pkw. Der Tag endet im Museum und am Denkmal, während der Regen gegen die Scheiben trommelt.",
+            "hu": "Reggel a Niagara-vízesést teljes, eső áztatta pompájában láthatjuk. A legjobb menekülést az időjárás elől a Shipčanik borpince nyújtja, amely egy sziklába vájt egykori repülőgéphangár. Délután kényelmesen, autóval keressük fel a várat és a templomokat. A nap a múzeumban és az emlékműnél zárul, miközben az eső kopog a szélvédőn.",
+            "ro": "Dimineața vedeți cascadele Nijagara în toată splendoarea lor alimentată de ploaie. Evadarea perfectă de vremea rea este crama Shipčanik, un fost hangar de avioane săpat în stâncă. După-amiaza vizitați cetatea și lăcașurile de cult confortabil, cu mașina. Ziua se încheie la muzeu și la monument, în timp ce ploaia bate în geam.",
+            "en": "In the morning, see the Nijagara waterfalls in their full, rain-swollen glory. The perfect escape from the weather is the Shipčanik Wine Cellar, a former aircraft hangar deep in the rock. In the afternoon, visit the fortress and religious sites comfortably by car. The day ends at the museum and monument while the rain drums against the windows."
+          },
+          "stops": [
+            {
+              "name": "Cijevna Waterfalls (Nijagara)",
+              "tip_5lang": {
+                "de": "Spektakuläre Wassermassen, Sicht aus dem Auto möglich.",
+                "hu": "Látványos víztömeg, akár az autóból is megfigyelhető.",
+                "ro": "Mase de apă spectaculoase, vizibile chiar și din mașină.",
+                "en": "Spectacular water flow, viewable even from the car."
+              }
+            },
+            {
+              "name": "Shipčanik Wine Cellar",
+              "tip_5lang": {
+                "de": "Absolut trockenes Highlight unter Tage.",
+                "hu": "Tökéletesen száraz, föld alatti látványosság.",
+                "ro": "Atractie subterană, complet ferită de ploaie.",
+                "en": "A perfectly dry underground highlight."
+              }
+            },
+            {
+              "name": "Tuzi Fortress",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Aufgang, um nicht nass zu werden.",
+                "hu": "Parkoljon közel a feljáróhoz, hogy elkerülje az ázást.",
+                "ro": "Parcați aproape de urcare pentru a nu vă uda.",
+                "en": "Park close to the ascent to minimize walking in rain."
+              }
+            },
+            {
+              "name": "Church of St. Anthony",
+              "tip_5lang": {
+                "de": "Gute Parkmöglichkeit direkt vor der Tür.",
+                "hu": "Jó parkolási lehetőség közvetlenül a bejáratnál.",
+                "ro": "Posibilitate bună de parcare chiar în fața porții.",
+                "en": "Good parking available right in front of the entrance."
+              }
+            },
+            {
+              "name": "Mosque of Tuzi",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Parkplatz und Eingang.",
+                "hu": "Rövid séta a parkoló és a bejárat között.",
+                "ro": "Distanță scurtă între parcare și intrare.",
+                "en": "Short walking distance between parking and entrance."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum für die stärkste Regenphase.",
+                "hu": "A múzeumlátogatást a leghevesebb eső idejére időzítse.",
+                "ro": "Programați vizita la muzeu în timpul celei mai mari ploi.",
+                "en": "Time your museum visit during the heaviest rain."
+              }
+            },
+            {
+              "name": "Monument of the 1911 Uprising",
+              "tip_5lang": {
+                "de": "Foto-Stopp ohne Aussteigen bei starkem Guss.",
+                "hu": "Fotómegálló kiszállás nélkül, ha nagyon esik.",
+                "ro": "Oprire foto fără a coborî din mașină în caz de aversă.",
+                "en": "Photo stop without leaving the car during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Einige Zufahrten zur Festung können bei Schlamm rutschig sein.",
+              "Der Weinkeller ist die beste Option für ein zweistündiges Gewitter.",
+              "Achten Sie auf Aquaplaning auf der Hauptstraße nach Podgorica.",
+              "Halten Sie die Scheibenbelüftung gegen Beschlagen aktiv."
+            ],
+            "hu": [
+              "A várfeljáró egyes részei sárban csúszósak lehetnek.",
+              "A borpince a legjobb opció egy kétórás zivatar idejére.",
+              "Ügyeljen a vízenfutásra a Podgorica felé vezető főúton.",
+              "Használja a páramentesítőt a belső ablakfelületeken."
+            ],
+            "ro": [
+              "Unele căi de acces spre cetate pot fi alunecoase în caz de noroi.",
+              "Crama este cea mai bună opțiune pentru o furtună de durată.",
+              "Atenție la acvaplanare pe drumul principal spre Podgorica.",
+              "Mențineți ventilația activă pentru a preveni aburirea geamurilor."
+            ],
+            "en": [
+              "Some access roads to the fortress can be slippery when muddy.",
+              "The wine cellar is your best bet for a 2-hour thunderstorm.",
+              "Watch out for aquaplaning on the main road to Podgorica.",
+              "Keep the defroster active to prevent interior fogging."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie gemütlich im beheizten Wagen zu den Niagarafällen, die im Winterlicht oft magisch wirken. Die konstante Temperatur im Shipčanik Weinkeller bietet eine willkommene Abwechslung zur Kälte. Nachmittags fahren Sie hinauf zur Festung für den Panoramablick und besuchen die warmen religiösen Stätten. Der Tag endet kulturreich im Museum und am zentralen Denkmal.",
+            "hu": "Induljunk kényelmesen, a fűtött autóval a Niagara-vízeséshez, amely téli fényben gyakran varázslatos. A Shipčanik borpince állandó hőmérséklete kellemes felüdülést nyújt a kinti hideg után. Délután autózzunk fel a várba a panorámáért, majd látogassuk meg a templomokat. A nap kulturális élményekkel zárul a múzeumban és a központi emlékműnél.",
+            "ro": "Porniți confortabil în mașina încălzită spre cascadele Nijagara, care par magice în lumina iernii. Temperatura constantă din crama Shipčanik oferă o schimbare binevenită față de frigul de afară. După-amiaza urcați la cetate pentru panorama spectaculoasă și vizitați lăcașurile de cult. Ziua se încheie cultural la muzeu și la monumentul central.",
+            "en": "Start comfortably in a heated car towards the Nijagara waterfalls, which often look magical in winter light. The constant temperature in the Shipčanik Wine Cellar offers a welcome change from the cold. In the afternoon, drive up to the fortress for the panoramic view and visit the religious sites. The day ends with culture at the museum and the central monument."
+          },
+          "stops": [
+            {
+              "name": "Cijevna Waterfalls (Nijagara)",
+              "tip_5lang": {
+                "de": "Heizung anlassen, wenn man nur kurz schaut.",
+                "hu": "Hagyja járni a fűtést a rövid nézelődés alatt.",
+                "ro": "Lăsați căldura pornită pentru o oprire scurtă.",
+                "en": "Leave the heater on for a quick photo session."
+              }
+            },
+            {
+              "name": "Shipčanik Wine Cellar",
+              "tip_5lang": {
+                "de": "Im Inneren ist es wärmer als draußen.",
+                "hu": "Bent sokkal melegebb van, mint a kinti levegőn.",
+                "ro": "În interior este mai cald decât afară.",
+                "en": "It is notably warmer inside than outside."
+              }
+            },
+            {
+              "name": "Tuzi Fortress",
+              "tip_5lang": {
+                "de": "Die Bergstraße kann im Schatten vereist sein.",
+                "hu": "A hegyi út az árnyékos részeken jeges lehet.",
+                "ro": "Drumul montan poate fi înghețat în zonele cu umbră.",
+                "en": "The mountain road can be icy in shaded spots."
+              }
+            },
+            {
+              "name": "Church of St. Anthony",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für eine kurze Rast.",
+                "hu": "Meleg helyszín egy rövid pihenéshez.",
+                "ro": "Un loc cald pentru un scurt popas.",
+                "en": "A warm location for a short rest."
+              }
+            },
+            {
+              "name": "Mosque of Tuzi",
+              "tip_5lang": {
+                "de": "Windgeschützter Zugang vom Parkplatz.",
+                "hu": "Szélvédett bejutás a parkoló felől.",
+                "ro": "Acces ferit de vânt dinspre parcare.",
+                "en": "Wind-sheltered access from the parking area."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Perfekt temperierte Innenräume zum Aufwärmen.",
+                "hu": "Kellemes hőmérsékletű belső terek a felmelegedéshez.",
+                "ro": "Spații interioare cu temperatură plăcută pentru încălzire.",
+                "en": "Well-tempered interiors perfect for warming up."
+              }
+            },
+            {
+              "name": "Monument of the 1911 Uprising",
+              "tip_5lang": {
+                "de": "Dämmerung beginnt früh, Scheinwerfer prüfen.",
+                "hu": "A szürkület korán kezdődik, ellenőrizze a fényszórókat.",
+                "ro": "Amurgul începe devreme, verificați farurile.",
+                "en": "Twilight starts early, check your headlights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser Region Pflicht.",
+              "Die Bergstraße zur Festung kann bei Frost tückisch sein.",
+              "Vermeiden Sie Nachtfahrten auf unbekannten Nebenstraßen.",
+              "Packen Sie eine warme Decke für Notfälle ein."
+            ],
+            "hu": [
+              "A téli gumi kötelező ebben a régióban.",
+              "A várhoz vezető hegyi út fagyban trükkös lehet.",
+              "Kerülje az ismeretlen mellékutakon való éjszakai vezetést.",
+              "Készítsen be egy meleg takarót vészhelyzet esetére."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în această regiune.",
+              "Drumul spre cetate poate fi înșelător în caz de îngheț.",
+              "Evitați condusul noaptea pe drumuri secundare necunoscute.",
+              "Puneți o pătură caldă în mașină pentru urgențe."
+            ],
+            "en": [
+              "Winter tires are mandatory in this region.",
+              "The mountain road to the fortress can be tricky in frost.",
+              "Avoid driving at night on unfamiliar secondary roads.",
+              "Pack a warm blanket in the car for emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1246,6 +1810,188 @@
           "Check bus schedules in advance as they can be infrequent.",
           "Ask locals for the right bus stop; they are usually very helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag an den Niagarafällen, die bei Regen besonders imposant sind. Mit dem Bus geht es zur Milješ-Brücke und weiter ins Zentrum, wo Moschee und Kirche trockenen Unterschlupf bieten. Das Ethnographische Museum ist die ideale Station für den Nachmittag, um den Schauern zu entkommen. Der Tag endet am Monument, bevor Sie den Bus zurück nehmen.",
+            "hu": "Kezdjük a napot a Niagara-vízesésnél, amely esőben különösen impozáns. Busszal megyünk tovább a Milješ-hídhoz, majd a központba, ahol a mecset és a templom nyújt száraz menedéket. A Néprajzi Múzeum ideális délutáni állomás a záporok elkerülésére. A nap az emlékműnél zárul, mielőtt visszaszállnánk a buszra.",
+            "ro": "Începeți ziua la cascadele Nijagara, care sunt deosebit de impresionante pe ploaie. Luați autobuzul spre podul Milješ și apoi spre centru, unde moscheea și biserica oferă adăpost uscat. Muzeul Etnografic este stația ideală pentru după-amiază pentru a evita aversele. Ziua se încheie la monument înainte de a lua autobuzul înapoi.",
+            "en": "Begin the day at the Nijagara waterfalls, which are especially imposing in the rain. Take the bus to Milješ Bridge and continue to the center, where the mosque and church offer dry shelter. The Ethnographic Museum is an ideal afternoon stop to escape the showers. The day ends at the monument before taking the bus back."
+          },
+          "stops": [
+            {
+              "name": "Cijevna Waterfalls (Nijagara)",
+              "tip_5lang": {
+                "de": "Planen Sie Zeit für den Weg zur Haltestelle ein.",
+                "hu": "Számoljon a megállóhoz vezető sétaidővel.",
+                "ro": "Luați în calcul timpul de mers până la stație.",
+                "en": "Allow extra time for the walk to the bus stop."
+              }
+            },
+            {
+              "name": "Bridge of Milješ",
+              "tip_5lang": {
+                "de": "Überdachte Warteflächen sind hier rar.",
+                "hu": "A fedett várakozóhelyek itt ritkák.",
+                "ro": "Locurile de așteptare acoperite sunt rare aici.",
+                "en": "Sheltered waiting areas are scarce at this location."
+              }
+            },
+            {
+              "name": "Mosque of Tuzi",
+              "tip_5lang": {
+                "de": "Gute Anbindung an die zentralen Buslinien.",
+                "hu": "Jó összeköttetés a központi buszjáratokkal.",
+                "ro": "Conexiune bună cu liniile centrale de autobuz.",
+                "en": "Good connection to the central bus lines."
+              }
+            },
+            {
+              "name": "Church of St. Anthony",
+              "tip_5lang": {
+                "de": "Warten Sie im Eingangsbereich, wenn es gießt.",
+                "hu": "Várjon a bejáratnál, ha szakad az eső.",
+                "ro": "Așteptați la intrare dacă plouă torențial.",
+                "en": "Wait at the entrance if it's pouring rain."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Längster Indoor-Stopp des Tages.",
+                "hu": "A nap leghosszabb beltéri helyszíne.",
+                "ro": "Cea mai lungă oprire la interior din zi.",
+                "en": "Longest indoor stop of the day."
+              }
+            },
+            {
+              "name": "Monument of the 1911 Uprising",
+              "tip_5lang": {
+                "de": "Bushaltestelle in unmittelbarer Nähe.",
+                "hu": "A buszmegálló közvetlen közelben van.",
+                "ro": "Stație de autobuz în imediata apropiere.",
+                "en": "Bus stop is located in the immediate vicinity."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Buskarten sollten im Voraus gekauft oder Kleingeld bereitgehalten werden.",
+              "Die Fahrpläne können bei starkem Regen unregelmäßig sein.",
+              "Warten Sie lieber in Cafés nahe der Haltestellen.",
+              "Vermeiden Sie weite Fußwege zwischen den Stationen."
+            ],
+            "hu": [
+              "Vegye meg a jegyet előre, vagy tartson magánál aprópénzt.",
+              "A menetrend heves esőzéskor kiszámíthatatlan lehet.",
+              "Inkább a megállók közeli kávézókban várakozzon.",
+              "Kerülje a hosszú gyaloglást az állomások között."
+            ],
+            "ro": [
+              "Cumpărați biletele în avans sau aveți bani mărunți la voi.",
+              "Orarele pot fi neregulate în caz de ploaie torențială.",
+              "Mai degrabă așteptați în cafenelele de lângă stații.",
+              "Evitați distanțele mari de mers pe jos între opriri."
+            ],
+            "en": [
+              "Buy bus tickets in advance or have exact change ready.",
+              "Bus schedules can be erratic during heavy rainfall.",
+              "Better to wait in cafes near the bus stops.",
+              "Avoid long walking distances between the transit stations."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour startet frostig an den Wasserfällen, erreichbar per Transit. Über die Milješ-Brücke führt der Weg zu den sakralen Stätten im Zentrum. Das Museum bietet die perfekte Wärme für die Mittagszeit. Den Nachmittag verbringen Sie am geschichtsträchtigen Denkmal, bevor Sie in der frühen Dunkelheit den Bus zurück nehmen. Ein Tag voller Stille und winterlicher Klarheit.",
+            "hu": "A téli túra fagyosan indul a vízeséseknél, ahová busszal jutunk el. A Milješ-hídon át vezet az út a központi templomokhoz. A múzeum tökéletes menedéket és meleget kínál délidőben. A délutánt a történelmi emlékműnél töltjük, majd a korai sötétedésben szállunk fel a visszatérő buszra. A csend és a téli tisztaság napja.",
+            "ro": "Turul de iarnă începe înghețat la cascade, accesibile cu transportul în comun. Prin podul Milješ drumul duce spre lăcașurile de cult din centru. Muzeul oferă căldura perfectă pentru ora prânzului. După-amiaza o petreceți la monumentul istoric, înainte de a lua autobuzul înapoi în întunericul serii. O zi plină de liniște și claritate hibernală.",
+            "en": "The winter tour starts frostily at the waterfalls, accessible by transit. The path through Milješ Bridge leads to the sacred sites in the center. The museum provides perfect warmth for midday. Spend the afternoon at the historic monument before taking the bus back in the early darkness. A day of stillness and winter clarity."
+          },
+          "stops": [
+            {
+              "name": "Cijevna Waterfalls (Nijagara)",
+              "tip_5lang": {
+                "de": "Warten Sie im Bus, wenn er früher da ist.",
+                "hu": "Várjon a buszon, ha az korábban érkezik.",
+                "ro": "Așteptați în autobuz dacă ajunge mai devreme.",
+                "en": "Wait inside the bus if it arrives ahead of schedule."
+              }
+            },
+            {
+              "name": "Bridge of Milješ",
+              "tip_5lang": {
+                "de": "Kalter Wind am Fluss, schnell zur Haltestelle.",
+                "hu": "Hideg szél a folyónál, siessen a megállóba.",
+                "ro": "Vânt rece la râu, mergeți repede spre stație.",
+                "en": "Cold wind by the river, hurry to the stop."
+              }
+            },
+            {
+              "name": "Mosque of Tuzi",
+              "tip_5lang": {
+                "de": "Ein geschützter Raum zum Innehalten.",
+                "hu": "Védett belső tér az elmélyüléshez.",
+                "ro": "Un spațiu protejat pentru reculegere.",
+                "en": "A sheltered space for a quiet moment."
+              }
+            },
+            {
+              "name": "Church of St. Anthony",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirchenbank zum Ausruhen.",
+                "hu": "Használja a templompadot egy rövid pihenőre.",
+                "ro": "Folosiți băncile din biserică pentru odihnă.",
+                "en": "Use the pews for a brief rest."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Aufwärmen zwischen den Exponaten.",
+                "hu": "Melegedjen fel a kiállítási tárgyak között.",
+                "ro": "Încălziți-vă printre exponate.",
+                "en": "Warm up while exploring the exhibits."
+              }
+            },
+            {
+              "name": "Monument of the 1911 Uprising",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan für die Rückfahrt.",
+                "hu": "Ellenőrizze a visszautat biztosító menetrendet.",
+                "ro": "Verificați orarul pentru drumul de întoarcere.",
+                "en": "Check the schedule for your return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter oft stark beheizt – Zwiebelprinzip!",
+              "Achten Sie auf die verfrühten Betriebsenden einiger Linien.",
+              "Wartehäuschen bieten Schutz vor dem kalten Balkanwind.",
+              "Halten Sie die App für Echtzeitdaten bereit."
+            ],
+            "hu": [
+              "A buszok télen gyakran túl vannak fűtve – öltözzön rétegesen!",
+              "Ügyeljen egyes járatok korai üzemidejére.",
+              "A váróterek oltalmat adnak a hideg balkáni szél ellen.",
+              "Használja az alkalmazást a valós idejű adatokhoz."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea foarte încălzite iarna – purtați straturi!",
+              "Atenție la orele de retragere mai timpurii ale unor linii.",
+              "Stațiile acoperite oferă protecție împotriva vântului balcanic.",
+              "Aveți aplicația pregătită pentru date în timp real."
+            ],
+            "en": [
+              "Buses are often heavily heated in winter – wear layers!",
+              "Be aware of the early end of service for some transit lines.",
+              "Waiting shelters provide cover from the cold Balkan wind.",
+              "Keep a transit app ready for real-time schedule updates."
+            ]
+          }
+        }
       }
     }
   }

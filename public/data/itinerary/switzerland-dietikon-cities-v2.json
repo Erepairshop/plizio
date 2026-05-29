@@ -352,6 +352,196 @@
           "Bring a reusable water bottle; there are many public fountains.",
           "Check the opening hours of the Bruno Weber Park in advance, as they can vary seasonally."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen am Rapidplatz erfordert heute einen Schirm. Die St. Agatha Kirche bietet danach ein trockenes Refugium.\nMittags wärmen wir uns bei einem gemütlichen Essen in der Altstadt auf.\nAm Nachmittag hat die Limmat-Promenade eine mystische Ausstrahlung im Regen, bevor wir den Bruno Weber Park besuchen.\nDer Abend klingt mit den Reflexionen der Stadtlichter auf den nassen Straßen sanft aus.",
+            "hu": "A reggel a Rapid téren ma esernyőt igényel. A Szent Ágota-templom ezután száraz menedéket nyújt.\nEbédidőben az óváros egyik hangulatos éttermében melegedünk fel.\nDélután a Limmat sétány misztikus arcát mutatja az esőben, majd a Bruno Weber Park mozaikjait csodáljuk.\nAz este a vizes aszfalton tükröződő városi fények látványával zárul.",
+            "ro": "Dimineața în Rapid Square necesită astăzi o umbrelă. Biserica Sf. Agata oferă apoi un refugiu uscat.\nLa prânz ne încălzim cu o masă copioasă în centrul vechi.\nDupă-amiaza, promenada Limmat are o aură mistică în ploaie, înainte de a vizita parcul Bruno Weber.\nSeara se încheie plăcut cu reflexiile luminilor orașului pe străzile umede.",
+            "en": "Morning at Rapid Square requires an umbrella today. St. Agatha's Church provides a dry sanctuary afterward.\nAt noon, we warm up with a cozy meal in the old town.\nIn the afternoon, the Limmat Promenade has a mystical aura in the rain before we visit Bruno Weber Park.\nThe evening concludes gently with city light reflections on the wet streets."
+          },
+          "stops": [
+            {
+              "name": "Rapid Square",
+              "tip_5lang": {
+                "de": "Unter den Arkaden der modernen Gebäude bleiben Sie trocken.",
+                "hu": "A modern épületek árkádjai alatt szárazon maradhat.",
+                "ro": "Rămâneți uscat sub arcadele clădirilor moderne.",
+                "en": "Stay dry under the arcades of the modern buildings."
+              }
+            },
+            {
+              "name": "St. Agatha's Church",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um den stärksten Schauer abzuwarten.",
+                "hu": "Tökéletes hely a legnagyobb zápor kivárására.",
+                "ro": "Un loc perfect pentru a aștepta trecerea celei mai mari averse.",
+                "en": "A perfect place to wait out the heaviest shower."
+              }
+            },
+            {
+              "name": "Limmat Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht, die Uferwege können an einigen Stellen pfützig sein.",
+                "hu": "Vigyázat, a parti utak néhol tócsásak lehetnek.",
+                "ro": "Atenție, potecile de pe mal pot fi pline de bălți pe alocuri.",
+                "en": "Caution, the riverside paths can be puddly in places."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Fensterplatz, um dem Regen zuzusehen.",
+                "hu": "Válasszon ablak melletti asztalt az eső látványához.",
+                "ro": "Alegeți un loc la fereastră pentru a privi ploaia.",
+                "en": "Choose a window seat to watch the rain fall."
+              }
+            },
+            {
+              "name": "Marmori Pond",
+              "tip_5lang": {
+                "de": "Das Blätterdach bietet einen gewissen natürlichen Schutz.",
+                "hu": "A lombok sűrűje természetes védelmet nyújt.",
+                "ro": "Baldachinul frunzelor oferă o anumită protecție naturală.",
+                "en": "The leafy canopy offers some natural protection."
+              }
+            },
+            {
+              "name": "Bruno Weber Park",
+              "tip_5lang": {
+                "de": "Die bunten Mosaike leuchten im nassen Zustand besonders kräftig.",
+                "hu": "A színes mozaikok vizesen különösen élénken ragyognak.",
+                "ro": "Mozaicurile colorate strălucesc intens când sunt ude.",
+                "en": "The colorful mosaics glow intensely when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stabile Schirme sind bei Windböen an der Limmat wichtig.",
+              "Die St. Agatha Kirche ist der beste kostenlose Unterstand.",
+              "Bruno Weber Park hat teilweise überdachte Skulpturenhallen.",
+              "Warme Getränke in der Altstadt einplanen.",
+              "Wasserdichtes Schuhwerk für die Limmat-Promenade empfohlen."
+            ],
+            "hu": [
+              "A szeles Limmat-parton stabil esernyőre lesz szükség.",
+              "A Szent Ágota-templom a legjobb ingyenes menedék.",
+              "A Bruno Weber Parkban vannak fedett szoborcsarnokok is.",
+              "Tervezzen be meleg italokat az óvárosban.",
+              "Vízálló lábbeli ajánlott a Limmat sétányhoz."
+            ],
+            "ro": [
+              "Umbrelele stabile sunt importante pe malul vântos al Limmatului.",
+              "Biserica Sf. Agata este cel mai bun adăpost gratuit.",
+              "Parcul Bruno Weber are și săli de sculptură parțial acoperite.",
+              "Planificați băuturi calde în orașul vechi.",
+              "Se recomandă încălțăminte impermeabilă pentru promenada Limmat."
+            ],
+            "en": [
+              "Sturdy umbrellas are essential for windy gusts by the Limmat.",
+              "St. Agatha's Church is the best free indoor shelter.",
+              "Bruno Weber Park has some partially covered sculpture halls.",
+              "Plan for hot drinks in the old town.",
+              "Waterproof footwear recommended for the Limmat Promenade."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Rapidplatz weckt die Lebensgeister. Die Kirche ist festlich geschmückt.\nMittags lockt ein wärmendes Schweizer Gericht in der Dietiker Altstadt.\nDer Nachmittag am Marmori-Weiher ist friedlich und frostig, bevor wir die Skulpturen besuchen.\nDer Abend bricht früh an und taucht die Stadt in ein gemütliches, warmes Lichtermeer.",
+            "hu": "A friss téli reggel a Rapid téren felébreszti az érzékeket. A templom ünnepi díszben áll.\nEbédre egy melengető svájci étel vár ránk Dietikon óvárosában.\nDélután a Marmori-tó környéke békés és deres, mielőtt a szobrokhoz indulnánk.\nAz este korán köszönt be, meghitt fényárba öltöztetve a várost.",
+            "ro": "O dimineață răcoroasă de iarnă în Rapid Square trezește simțurile. Biserica este decorată festiv.\nLa prânz, un preparat elvețian cald ne așteaptă în orașul vechi din Dietikon.\nDupă-amiaza la iazul Marmori este liniștită și geroasă, înainte de a vizita sculpturile.\nSeara vine devreme și scaldă orașul într-o mare de lumini primitoare.",
+            "en": "A crisp winter morning at Rapid Square awakens the senses. The church is festively decorated.\nAt noon, a warming Swiss dish awaits in Dietikon's old town.\nThe afternoon at Marmori Pond is peaceful and frosty before we visit the sculptures.\nThe evening sets in early, bathing the city in a cozy sea of lights."
+          },
+          "stops": [
+            {
+              "name": "Rapid Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem modernen Pflaster.",
+                "hu": "Vigyázzon a csúszós foltokra a modern burkolaton.",
+                "ro": "Atenție la porțiunile alunecoase de pe pavajul modern.",
+                "en": "Watch out for slippery patches on the modern pavement."
+              }
+            },
+            {
+              "name": "St. Agatha's Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe und die milde Innentemperatur.",
+                "hu": "Élvezze a csendet és a kellemes belső hőmérsékletet.",
+                "ro": "Bucurați-se de liniște și de temperatura interioară blândă.",
+                "en": "Enjoy the silence and the mild indoor temperature."
+              }
+            },
+            {
+              "name": "Limmat Promenade",
+              "tip_5lang": {
+                "de": "Der Winternebel über dem Fluss wirkt sehr malerisch.",
+                "hu": "A folyó feletti téli köd nagyon festői látvány.",
+                "ro": "Ceața de iarnă de deasupra râului este foarte pitorească.",
+                "en": "The winter mist over the river looks very picturesque."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Probieren Sie eine lokale Tagessuppe zum Aufwärmen.",
+                "hu": "Kóstoljon meg egy helyi napi levest a felmelegedéshez.",
+                "ro": "Încercați o supă a zilei locală pentru a vă încălzi.",
+                "en": "Try a local soup of the day to warm up."
+              }
+            },
+            {
+              "name": "Marmori Pond",
+              "tip_5lang": {
+                "de": "Die gefrorenen Uferränder bieten tolle Fotomotive.",
+                "hu": "A befagyott tóparti szegélyek remek fotótémát adnak.",
+                "ro": "Marginile înghețate ale iazului oferă cadre foto superbe.",
+                "en": "The frozen pond edges offer great photo opportunities."
+              }
+            },
+            {
+              "name": "Bruno Weber Park",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park früh, da es ab 16:30 Uhr dämmert.",
+                "hu": "Látogasson el korán, mert 16:30-kor már szürkül.",
+                "ro": "Vizitați parcul devreme, deoarece se înserează de la 16:30.",
+                "en": "Visit the park early, as dusk starts from 16:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sonnenuntergang ist im Winter bereits gegen 16:45 Uhr.",
+              "Tragen Sie Schichten, der Wind an der Limmat ist kalt.",
+              "Die Altstadt ist abends wunderschön beleuchtet.",
+              "Kopfbedeckung und Handschuhe sind für längere Wege nötig.",
+              "Einige Wege am Marmori-Weiher werden nicht geräumt."
+            ],
+            "hu": [
+              "Télen a naplemente már 16:45 körül bekövetkezik.",
+              "Öltözzön rétegesen, a Limmat menti szél hideg.",
+              "Az óváros este gyönyörű díszkivilágítást kap.",
+              "Sapka és kesztyű szükséges a hosszabb sétákhoz.",
+              "A Marmori-tónál egyes utakat nem takarítanak."
+            ],
+            "ro": [
+              "Apusul este deja în jurul orei 16:45 iarna.",
+              "Purtați straturi, vântul de pe Limmat este rece.",
+              "Orașul vechi este luminat superb seara.",
+              "Căciula și mănușile sunt necesare pentru plimbări lungi.",
+              "Unele poteci de la iazul Marmori nu sunt curățate de zăpadă."
+            ],
+            "en": [
+              "Sunset occurs as early as 16:45 in winter.",
+              "Wear layers, the wind along the Limmat is cold.",
+              "The old town is beautifully illuminated in the evening.",
+              "Hat and gloves are necessary for longer walks.",
+              "Some paths at Marmori Pond may not be cleared of snow."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -698,6 +888,196 @@
           "The paths along the rivers are mostly flat, but the climbs to the viewpoints can be challenging.",
           "Bring enough water and some snacks for the journey."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Start am Rapidplatz verlangt gute Kleidung. Das Kloster Fahr ist ein ruhiger Haltepunkt.\nMittags stärken wir uns am Flussufer, während der Regen auf die Limmat prasselt.\nNachmittags erkunden wir das Reppischtal, dessen Wald einen gewissen Schutz bietet.\nDer Abend endet nach einer erfrischenden, feuchten Tour durch das Limmattal.",
+            "hu": "Az esős kezdés a Rapid téren jó felszerelést igényel. A Fahr kolostor nyugodt pihenőhely.\nEbédnél a folyóparton frissülünk fel, miközben az eső a Limmatot veri.\nDélután a Reppischtal erdőit járjuk, melyek némi védelmet nyújtanak.\nAz este egy frissítő, nedves limmat-völgyi túra után ér véget.",
+            "ro": "Un început ploios în Rapid Square necesită echipament bun. Mănăstirea Fahr este un punct de oprire liniștit.\nLa prânz ne refacem pe malul râului, în timp ce ploaia bate în Limmat.\nDupă-amiaza explorăm valea Reppischtal, a cărei pădure oferă o anumită protecție.\nSeara se încheie după un tur răcoritor și umed prin valea Limmat.",
+            "en": "A rainy start at Rapid Square demands good gear. Fahr Monastery is a peaceful stopping point.\nAt lunch, we recharge by the river as the rain patters on the Limmat.\nIn the afternoon, we explore the Reppischtal valley, whose forest offers some protection.\nThe evening ends after a refreshing, wet tour through the Limmat valley."
+          },
+          "stops": [
+            {
+              "name": "Rapid Square",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihren Reifendruck für bessere Haftung bei Nässe.",
+                "hu": "Ellenőrizze a guminyomást a jobb tapadásért a vizes úton.",
+                "ro": "Verificați presiunea anvelopelor pentru aderență pe carosabil ud.",
+                "en": "Check your tire pressure for better grip on wet roads."
+              }
+            },
+            {
+              "name": "Fahr Monastery",
+              "tip_5lang": {
+                "de": "Die Steinböden im Innenhof können sehr rutschig sein.",
+                "hu": "A belső udvar kőpadlója nagyon csúszós lehet.",
+                "ro": "Podelele de piatră din curtea interioară pot fi alunecoase.",
+                "en": "The stone floors in the inner courtyard can be very slippery."
+              }
+            },
+            {
+              "name": "Limmat Promenade",
+              "tip_5lang": {
+                "de": "Schutzbleche sind hier bei Regen absolut notwendig.",
+                "hu": "A sárvédő itt esőben elengedhetetlen.",
+                "ro": "Apărătorile de noroi sunt absolut necesare aici pe ploaie.",
+                "en": "Mudguards are absolutely necessary here in the rain."
+              }
+            },
+            {
+              "name": "Lunch by the river",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz mit Blick auf die Fahrradständer.",
+                "hu": "Keressen olyan helyet, ahonnan rálát a biciklitárolóra.",
+                "ro": "Căutați un loc cu vedere la suporturile pentru biciclete.",
+                "en": "Look for a spot with a view of the bike racks."
+              }
+            },
+            {
+              "name": "Reppischtal Valley",
+              "tip_5lang": {
+                "de": "Der Waldboden kann an einigen Stellen weich und matschig sein.",
+                "hu": "Az erdőtalaj néhol puha és saras lehet.",
+                "ro": "Solul pădurii poate fi moale și noroios pe alocuri.",
+                "en": "The forest floor can be soft and muddy in places."
+              }
+            },
+            {
+              "name": "Guggenbühl",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Sicht vom Aussichtspunkt eingeschränkt.",
+                "hu": "Heves esőben a kilátás korlátozott lehet.",
+                "ro": "În caz de ploaie abundentă, vizibilitatea este limitată.",
+                "en": "In heavy rain, visibility from the viewpoint is limited."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Wasserdichte Packtaschen schützen Ihre Ausrüstung.",
+              "Vorsicht beim Bremsen auf nassen Fahrbahnmarkierungen.",
+              "Das Kloster Fahr bietet gute Unterstellmöglichkeiten.",
+              "Eine Regenponcho ist bei Schauern sehr praktisch.",
+              "Beleuchtung auch tagsüber einschalten für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "A vízálló táskák megvédik a felszerelését.",
+              "Vigyázzon a fékezéssel a vizes útburkolati jeleken.",
+              "A Fahr kolostor jó búvóhelyet kínál.",
+              "Az esőponcsó nagyon praktikus záporok idején.",
+              "Kapcsolja be a lámpákat nappal is a láthatóságért."
+            ],
+            "ro": [
+              "Gențile impermeabile vă protejează echipamentul.",
+              "Atenție la frânare pe marcajele rutiere umede.",
+              "Mănăstirea Fahr oferă locuri bune de adăpost.",
+              "Un poncho de ploaie este foarte practic în timpul averselor.",
+              "Aprindeți luminile și ziua pentru o mai bună vizibilitate."
+            ],
+            "en": [
+              "Waterproof panniers will protect your gear.",
+              "Be careful when braking on wet road markings.",
+              "Fahr Monastery offers good shelter options.",
+              "A rain poncho is very practical during showers.",
+              "Keep lights on even during the day for visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Rapidplatz erfordert warme Handschuhe. Der Weg zum Kloster Fahr ist herrlich klar.\nMittags genießen wir eine heiße Schokolade am Limmatufer.\nNachmittags geht es durch das Reppischtal, wo der Frost die Bäume in Kristalle verwandelt.\nDer Abend endet mit einer zügigen Fahrt zurück durch die beleuchtete Stadt.",
+            "hu": "A deres reggel a Rapid téren meleg kesztyűt kíván. Az út a Fahr kolostorig csodásan tiszta.\nEbédidőben egy forró csokoládét kortyolunk a Limmat partján.\nDélután a Reppischtal következik, ahol a zúzmara kristályokká varázsolja az ágakat.\nAz este egy gyors visszatekeréssel zárul a kivilágított városon át.",
+            "ro": "O dimineață geroasă în Rapid Square necesită mănuși calde. Drumul spre mănăstirea Fahr este limpede.\nLa prânz ne bucurăm de o ciocolată caldă pe malul Limmatului.\nDupă-amiaza trecem prin valea Reppischtal, unde gerul transformă copacii în cristale.\nSeara se încheie cu o cursă rapidă înapoi prin orașul iluminat.",
+            "en": "A frosty morning at Rapid Square calls for warm gloves. The path to Fahr Monastery is wonderfully clear.\nAt noon, we enjoy a hot chocolate on the banks of the Limmat.\nIn the afternoon, we ride through the Reppischtal, where frost turns trees into crystals.\nThe evening ends with a brisk ride back through the illuminated city."
+          },
+          "stops": [
+            {
+              "name": "Rapid Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf den freien Flächen am Morgen.",
+                "hu": "Vigyázzon a reggeli jegesedésre a nyílt tereken.",
+                "ro": "Atenție la polei pe suprafețele deschise dimineața.",
+                "en": "Watch out for black ice on the open spaces in the morning."
+              }
+            },
+            {
+              "name": "Fahr Monastery",
+              "tip_5lang": {
+                "de": "Im Winter ist dies der ruhigste Ort der gesamten Tour.",
+                "hu": "Télen ez a túra legcsendesebb pontja.",
+                "ro": "Iarna, acesta este cel mai liniștit loc din tot turul.",
+                "en": "In winter, this is the quietest spot of the entire tour."
+              }
+            },
+            {
+              "name": "Limmat Promenade",
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne kann über dem Wasser blenden.",
+                "hu": "Az alacsonyan járó téli nap elvakíthat a víz felett.",
+                "ro": "Soarele de iarnă jos poate fi orbitor deasupra apei.",
+                "en": "The low winter sun can be blinding over the water."
+              }
+            },
+            {
+              "name": "Lunch by the river",
+              "tip_5lang": {
+                "de": "Ein warmes Getränk ist jetzt wichtig für die Weiterfahrt.",
+                "hu": "Egy meleg ital most fontos a folytatáshoz.",
+                "ro": "O băutură caldă este importantă acum pentru continuarea drumului.",
+                "en": "A warm drink is important now for the rest of the ride."
+              }
+            },
+            {
+              "name": "Reppischtal Valley",
+              "tip_5lang": {
+                "de": "In den schattigen Waldabschnitten bleibt der Frost lange liegen.",
+                "hu": "Az árnyékos erdei szakaszokon a dér sokáig megmarad.",
+                "ro": "În secțiunile umbrite de pădure, gerul persistă mult timp.",
+                "en": "Frost lingers long in the shaded forest sections."
+              }
+            },
+            {
+              "name": "Guggenbühl",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für das Foto, dann in Bewegung bleiben.",
+                "hu": "Csak rövid fotómegálló, utána maradjon mozgásban.",
+                "ro": "Oprire scurtă pentru poză, apoi rămâneți în mișcare.",
+                "en": "Short photo stop only, then keep moving to stay warm."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Kleidung und winddichte Schichten sind Pflicht.",
+              "Achten Sie auf gefrorenes Laub auf den Waldwegen.",
+              "Die Akkulaufzeit von E-Bikes ist bei Kälte geringer.",
+              "Früher Aufbruch empfohlen, da es ab 17 Uhr dunkel ist.",
+              "Trinkflasche nah am Körper tragen gegen Einfrieren."
+            ],
+            "hu": [
+              "A termo-ruházat és szélálló rétegek kötelezőek.",
+              "Ügyeljen a fagyott levelekre az erdei utakon.",
+              "Az e-bike akkumulátorok bírják kevésbé a hideget.",
+              "Ajánlott korán indulni, mert 17 órakor sötétedik.",
+              "Tartsa a kulacsot a testéhez közel a fagyás ellen."
+            ],
+            "ro": [
+              "Îmbrăcămintea termică și straturile rezistente la vânt sunt obligatorii.",
+              "Atenție la frunzele înghețate de pe potecile din pădure.",
+              "Autonomia bateriei bicicletelor electrice este mai mică la frig.",
+              "Se recomandă plecarea devreme, deoarece se întunecă de la ora 17.",
+              "Țineți bidonul de apă aproape de corp pentru a nu îngheța."
+            ],
+            "en": [
+              "Thermal clothing and windproof layers are mandatory.",
+              "Watch out for frozen leaves on the forest paths.",
+              "E-bike battery life is shorter in the cold.",
+              "Recommended to start early as it gets dark by 17:00.",
+              "Keep your water bottle close to your body to prevent freezing."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1050,6 +1430,196 @@
           "A GPS or navigation app is essential.",
           "Pay attention to speed limits, especially in residential areas and on country roads."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag beginnt im Bruno Weber Park, dessen Skulpturen im Regen glänzen.\nMittags führt die Fahrt zum Kloster Fahr für ein gemütliches Essen im Trockenen.\nNachmittags genießen wir die Aussicht vom Guggenbühl aus dem warmen Auto.\nDer Abend endet mit einer entspannten Fahrt durch das beleuchtete, regnerische Dietikon.",
+            "hu": "Az esős nap a Bruno Weber Parkban kezdődik, ahol a szobrok csillognak a víztől.\nEbédre a Fahr kolostorhoz autózunk egy kellemes, fedett étkezésre.\nDélután a Guggenbühl kilátását élvezzük a meleg autóból.\nAz este egy pihentető autózással zárul a kivilágított, eső áztatta Dietikonban.",
+            "ro": "O zi ploioasă începe în parcul Bruno Weber, ale cărui sculpturi strălucesc în ploaie.\nLa prânz, drumul ne duce la mănăstirea Fahr pentru o masă plăcută la adăpost.\nDupă-amiaza ne bucurăm de vederea de la Guggenbühl din mașina caldă.\nSeara se încheie cu o plimbare relaxantă cu mașina prin Dietikonul iluminat și ploios.",
+            "en": "A rainy day begins at Bruno Weber Park, where sculptures glisten in the rain.\nAt noon, the drive leads to Fahr Monastery for a cozy indoor meal.\nIn the afternoon, we enjoy the view from Guggenbühl from the comfort of the car.\nThe evening ends with a relaxed drive through illuminated, rainy Dietikon."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Bruno Weber Park",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem oberen Parkplatz für kürzere Gehwege.",
+                "hu": "Parkoljon a felső parkolóban a rövidebb gyalogútért.",
+                "ro": "Parcați în parcarea de sus pentru a merge mai puțin pe jos.",
+                "en": "Park in the upper lot for shorter walking distances."
+              }
+            },
+            {
+              "name": "Guggenbühl View",
+              "tip_5lang": {
+                "de": "Genießen Sie das Panorama direkt aus dem trockenen Fahrzeug.",
+                "hu": "Élvezze a panorámát közvetlenül a száraz járműből.",
+                "ro": "Bucurați-vă de panoramă direct din vehiculul uscat.",
+                "en": "Enjoy the panorama directly from your dry vehicle."
+              }
+            },
+            {
+              "name": "Cluster 2: Fahr Monastery & Limmat",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nur wenige Schritte vom Klostereingang entfernt.",
+                "hu": "A parkoló csak néhány lépésre van a kolostor bejáratától.",
+                "ro": "Parcarea este la doar câțiva pași de intrarea în mănăstire.",
+                "en": "The parking lot is just steps away from the monastery entrance."
+              }
+            },
+            {
+              "name": "Lunch at the Monastery Restaurant",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen starken Regenschauer zu überbrücken.",
+                "hu": "Ideális hely egy heves zápor átvészelésére.",
+                "ro": "Un loc ideal pentru a lăsa să treacă o ploaie torențială.",
+                "en": "An ideal place to wait out a heavy rain shower."
+              }
+            },
+            {
+              "name": "Cluster 3: Dietikon Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus im Zentrum für einen trockenen Ausstieg.",
+                "hu": "Használja a központi parkolóházat a száraz kiszálláshoz.",
+                "ro": "Folosiți parcarea etajată din centru pentru a coborî la uscat.",
+                "en": "Use the multi-storey car park in the center to stay dry."
+              }
+            },
+            {
+              "name": "Walk in Reppischtal Valley",
+              "tip_5lang": {
+                "de": "Die befestigten Waldstraßen sind auch bei Regen gut befahrbar.",
+                "hu": "A burkolt erdei utak esőben is jól járhatóak.",
+                "ro": "Drumurile forestiere pavate sunt ușor de parcurs și pe ploaie.",
+                "en": "The paved forest roads are easily accessible even in rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Schnellstraße.",
+              "Regenschirm griffbereit im Türfach lassen.",
+              "Die Parkhäuser im Zentrum bieten Schutz vor dem Wetter.",
+              "Gute Scheibenwischer sind für die Panoramafahrt wichtig.",
+              "Kloster Fahr hat einen gut befestigten Parkplatz."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra a gyorsforgalmi utakon.",
+              "Tartsa az esernyőt kéznél az ajtózsebben.",
+              "A központi parkolóházak védenek az időjárástól.",
+              "A jó ablaktörlők fontosak a panorámautazáshoz.",
+              "A Fahr kolostornál jól kiépített parkoló várja."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile rapide.",
+              "Țineți umbrela la îndemână în buzunarul portierei.",
+              "Parcările etajate din centru oferă protecție împotriva vremii.",
+              "Ștergătoarele bune sunt importante pentru drumul panoramic.",
+              "Mănăstirea Fahr are o parcare bine amenajată."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the main roads.",
+              "Keep your umbrella handy in the door pocket.",
+              "Multi-storey car parks in the center offer weather protection.",
+              "Good windshield wipers are essential for the scenic drive.",
+              "Fahr Monastery has a well-paved parking area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag beginnt magisch im verschneiten Bruno Weber Park.\nMittags führt die Fahrt zum Kloster Fahr, wo die Abteikirche festlich leuchtet.\nNachmittags bewundern wir das Alpenpanorama vom Guggenbühl aus.\nDer Abend endet mit einer Fahrt durch das weihnachtlich beleuchtete Dietikon.",
+            "hu": "A téli nap varázslatosan indul a havas Bruno Weber Parkban.\nEbédre a Fahr kolostorhoz megyünk, ahol az apátság ünnepi fényben úszik.\nDélután a Guggenbühlről csodáljuk az Alpok panorámáját.\nAz este a karácsonyi fényekkel díszített Dietikonban ér véget.",
+            "ro": "O zi de iarnă începe magic în parcul Bruno Weber înzăpezit.\nLa prânz mergem la mănăstirea Fahr, unde biserica mănăstirii strălucește festiv.\nDupă-amiaza admirăm panorama Alpilor de la Guggenbühl.\nSeara se încheie cu o plimbare prin Dietikonul luminat de Crăciun.",
+            "en": "A winter day begins magically in the snowy Bruno Weber Park.\nAt noon, the drive leads to Fahr Monastery, where the abbey church glows festively.\nIn the afternoon, we admire the Alpine panorama from Guggenbühl.\nThe evening ends with a drive through Christmas-lit Dietikon."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Bruno Weber Park",
+              "tip_5lang": {
+                "de": "Die Skulpturen wirken mit einer Schneehaube besonders surreal.",
+                "hu": "A szobrok hóval fedve különösen szürreális hatást keltenek.",
+                "ro": "Sculpturile par deosebit de ireale cu o mantie de zăpadă.",
+                "en": "The sculptures look particularly surreal with a cap of snow."
+              }
+            },
+            {
+              "name": "Guggenbühl View",
+              "tip_5lang": {
+                "de": "Bei klarer Winterluft ist die Fernsicht auf die Alpen am besten.",
+                "hu": "Tiszta téli levegőben a legjobb a kilátás az Alpokra.",
+                "ro": "În aerul curat de iarnă, vizibilitatea spre Alpi este maximă.",
+                "en": "In clear winter air, the distant view of the Alps is at its best."
+              }
+            },
+            {
+              "name": "Cluster 2: Fahr Monastery & Limmat",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Klosterladen für winterliche Spezialitäten.",
+                "hu": "Látogasson el a kolostori boltba téli különlegességekért.",
+                "ro": "Vizitați magazinul mănăstirii pentru specialități de iarnă.",
+                "en": "Visit the monastery shop for winter specialties."
+              }
+            },
+            {
+              "name": "Lunch at the Monastery Restaurant",
+              "tip_5lang": {
+                "de": "Probieren Sie ein kräftiges Wildgericht oder Käsefondue.",
+                "hu": "Kóstoljon meg egy tartalmas vadételt vagy sajtfonduet.",
+                "ro": "Încercați un preparat vânătoresc consistent sau fondue de brânză.",
+                "en": "Try a hearty game dish or cheese fondue."
+              }
+            },
+            {
+              "name": "Cluster 3: Dietikon Center",
+              "tip_5lang": {
+                "de": "Die Winterbeleuchtung im Zentrum ist ab 16 Uhr sehenswert.",
+                "hu": "A központ téli kivilágítása 16 órától látványos.",
+                "ro": "Iluminatul de iarnă din centru merită văzut de la ora 16.",
+                "en": "The winter lighting in the center is worth seeing from 16:00."
+              }
+            },
+            {
+              "name": "Walk in Reppischtal Valley",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Straßenglätte in schattigen Waldkurven.",
+                "hu": "Ügyeljen az út jegesedésére az árnyékos erdei kanyarokban.",
+                "ro": "Atenție la drumul alunecos în curbele umbrite din pădure.",
+                "en": "Watch out for icy roads in shaded forest curves."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Eiskratzer sind absolut notwendig.",
+              "Die Zufahrt zum Guggenbühl kann bei Neuschnee steil sein.",
+              "Heizung im Auto sorgt für gemütliche Pausen zwischen den Stopps.",
+              "Parkplätze am Kloster Fahr werden regelmäßig geräumt.",
+              "Im Winter ist mit früher Dämmerung ab 16:30 Uhr zu rechnen."
+            ],
+            "hu": [
+              "A téli gumi és a jégkaparó elengedhetetlen.",
+              "A Guggenbühl felé vezető út friss hóban meredek lehet.",
+              "Az autó fűtése kényelmes pihenést biztosít a megállók között.",
+              "A Fahr kolostor parkolóját rendszeresen takarítják.",
+              "Télen korai sötétedéssel kell számolni 16:30-tól."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și racleta pentru gheață sunt absolut necesare.",
+              "Accesul spre Guggenbühl poate fi abrupt în caz de zăpadă proaspătă.",
+              "Căldura din mașină asigură pauze plăcute între opriri.",
+              "Parcările de la mănăstirea Fahr sunt curățate regulat.",
+              "Iarna, așteptați-vă la amurg timpuriu de la ora 16:30."
+            ],
+            "en": [
+              "Winter tires and an ice scraper are absolutely necessary.",
+              "The access road to Guggenbühl can be steep in fresh snow.",
+              "Car heating ensures cozy breaks between stops.",
+              "Parking at Fahr Monastery is cleared regularly.",
+              "Expect early dusk from 16:30 in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1378,6 +1948,178 @@
           "Download the ZVV timetable app to track your connections in real time.",
           "Note that some bus lines run less frequently on weekends or in the evenings."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag startet im Zentrum von Dietikon. Der Bus bringt uns trocken zur Kirche.\nMittags geht es mit der Limmattalbahn zum Kloster Fahr.\nNachmittags genießen wir die Fahrt entlang der Limmat und besuchen den Bruno Weber Park.\nDer Abend endet entspannt mit einer Busfahrt zurück zum Bahnhof Dietikon.",
+            "hu": "Az esős nap Dietikon központjában indul. A busz szárazon visz minket a templomhoz.\nEbédidőben a Limmattalbahn-nal utazunk a Fahr kolostorhoz.\nDélután a Limmat menti utazást élvezzük, majd a Bruno Weber Parkba látogatunk.\nAz este egy pihentető buszozással zárul vissza a dietikoni állomásra.",
+            "ro": "O zi ploioasă începe în centrul Dietikonului. Autobuzul ne duce la uscat la biserică.\nLa prânz mergem cu Limmattalbahn spre mănăstirea Fahr.\nDupă-amiaza ne bucurăm de călătoria de-a lungul Limmatului și vizităm parcul Bruno Weber.\nSeara se încheie relaxat cu o călătorie cu autobuzul înapoi la gara Dietikon.",
+            "en": "A rainy day starts in the center of Dietikon. The bus takes us dry to the church.\nAt noon, we ride the Limmattalbahn to Fahr Monastery.\nIn the afternoon, we enjoy the ride along the Limmat and visit Bruno Weber Park.\nThe evening ends in a relaxed way with a bus ride back to Dietikon station."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Dietikon Center",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle auf Ihren Anschlussbus.",
+                "hu": "Várja a csatlakozó buszt az állomás várótermében.",
+                "ro": "Așteptați autobuzul de legătură în holul gării.",
+                "en": "Wait for your connecting bus inside the station hall."
+              }
+            },
+            {
+              "name": "St. Agatha's Church",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nur wenige Meter vom Kircheneingang entfernt.",
+                "hu": "A buszmegálló csak pár méterre van a templom bejáratától.",
+                "ro": "Stația de autobuz este la doar câțiva metri de intrarea în biserică.",
+                "en": "The bus stop is just a few meters from the church entrance."
+              }
+            },
+            {
+              "name": "Cluster 2: Limmat & Monastery",
+              "tip_5lang": {
+                "de": "Die Limmattalbahn bietet eine tolle Aussicht, während Sie trocken bleiben.",
+                "hu": "A Limmattalbahn remek kilátást nyújt, miközben Ön száraz marad.",
+                "ro": "Limmattalbahn oferă o vedere excelentă în timp ce stați la uscat.",
+                "en": "The Limmattalbahn offers great views while you stay dry."
+              }
+            },
+            {
+              "name": "Lunch and walk along the Limmat",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant in unmittelbarer Nähe zur Haltestelle.",
+                "hu": "Válasszon éttermet közvetlenül a megálló közelében.",
+                "ro": "Alegeți un restaurant aflat în imediata apropiere a stației.",
+                "en": "Choose a restaurant in the immediate vicinity of the stop."
+              }
+            },
+            {
+              "name": "Cluster 3: Bruno Weber Park",
+              "tip_5lang": {
+                "de": "Vom Bus aus ist ein kleiner Fußweg im Freien nötig, Schirm bereit halten.",
+                "hu": "A busztól egy rövid szabadtéri séta várható, legyen kéznél esernyő.",
+                "ro": "De la autobuz e necesar un scurt drum pe jos, țineți umbrela gata.",
+                "en": "A short outdoor walk is needed from the bus, keep your umbrella ready."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'ZVV Fahrplan' App für Echtzeit-Updates.",
+              "Die Bahnhöfe sind oft der beste Ort, um trocken zu warten.",
+              "Limmattalbahn-Züge sind modern und gut klimatisiert.",
+              "Kurzstrecken-Tickets sind oft ausreichend für Dietikon.",
+              "Ein stabiler Schirm ist für den Weg zum Bruno Weber Park nötig."
+            ],
+            "hu": [
+              "Használja a 'ZVV Fahrplan' alkalmazást a valós idejű adatokhoz.",
+              "Az állomások a legjobb helyek a száraz várakozáshoz.",
+              "A Limmattalbahn szerelvényei modernek és jól klimatizáltak.",
+              "A rövid szakaszos jegyek gyakran elegendőek Dietikonon belül.",
+              "Stabil esernyő kell a Bruno Weber Parkhoz vezető úthoz."
+            ],
+            "ro": [
+              "Folosiți aplicația „ZVV Fahrplan” pentru actualizări în timp real.",
+              "Gările sunt adesea cel mai bun loc pentru a aștepta la uscat.",
+              "Trenurile Limmattalbahn sunt moderne și bine climatizate.",
+              "Biletele pentru distanțe scurte sunt adesea suficiente pentru Dietikon.",
+              "O umbrelă stabilă este necesară pentru drumul spre parcul Bruno Weber."
+            ],
+            "en": [
+              "Use the 'ZVV Fahrplan' app for real-time updates.",
+              "Stations are often the best place to wait while staying dry.",
+              "Limmattalbahn trains are modern and well-climatized.",
+              "Short-distance tickets are often sufficient for Dietikon.",
+              "A sturdy umbrella is needed for the walk to Bruno Weber Park."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen startet im belebten Zentrum von Dietikon.\nMittags bringt uns die Bahn durch die verschneite Landschaft zum Kloster Fahr.\nNachmittags genießen wir die winterliche Aussicht auf die Limmat aus dem Zugfenster.\nDer Abend endet mit der Rückkehr in die festlich beleuchtete Stadt.",
+            "hu": "A tiszta téli reggel Dietikon nyüzsgő központjában indul.\nEbédidőben a vonat a havas tájon át repít minket a Fahr kolostorhoz.\nDélután a téli Limmat látványában gyönyörködünk a vonatablakból.\nAz este a visszatéréssel zárul az ünnepi fényekbe öltözött városba.",
+            "ro": "O dimineață senină de iarnă începe în centrul animat al Dietikonului.\nLa prânz, trenul ne duce prin peisajul înzăpezit spre mănăstirea Fahr.\nDupă-amiaza admirăm vederea hibernală asupra Limmatului de la fereastra trenului.\nSeara se încheie cu întoarcerea în orașul luminat festiv.",
+            "en": "A clear winter morning starts in the lively center of Dietikon.\nAt noon, the train takes us through the snowy landscape to Fahr Monastery.\nIn the afternoon, we enjoy the wintry view of the Limmat from the train window.\nThe evening ends with the return to the festively lit city."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Dietikon Center",
+              "tip_5lang": {
+                "de": "Die beheizten Warteräume im Bahnhof sind im Winter ideal.",
+                "hu": "A vasútállomás fűtött várótermei télen ideálisak.",
+                "ro": "Sălile de așteptare încălzite din gară sunt ideale iarna.",
+                "en": "The heated waiting rooms in the station are ideal in winter."
+              }
+            },
+            {
+              "name": "St. Agatha's Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg vom Bus sorgt für eine frische Brise.",
+                "hu": "A busztól egy rövid séta frissítően hathat.",
+                "ro": "O scurtă plimbare de la autobuz aduce o briză răcoroasă.",
+                "en": "A short walk from the bus provides a fresh breeze."
+              }
+            },
+            {
+              "name": "Cluster 2: Limmat & Monastery",
+              "tip_5lang": {
+                "de": "Die Abenddämmerung lässt den Fluss im Winter silbern wirken.",
+                "hu": "A téli alkonyatban a folyó ezüstösen csillog.",
+                "ro": "Amurgul de iarnă face ca râul să pară argintiu.",
+                "en": "The winter dusk makes the river look silvery."
+              }
+            },
+            {
+              "name": "Lunch and walk along the Limmat",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich nach dem Spaziergang in einem Café auf.",
+                "hu": "A séta után melegedjen fel az egyik kávézóban.",
+                "ro": "Încălziți-vă într-o cafenea după plimbare.",
+                "en": "Warm up in a café after your walk."
+              }
+            },
+            {
+              "name": "Cluster 3: Bruno Weber Park",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park früh, um das Tageslicht voll auszunutzen.",
+                "hu": "Látogasson el korán, hogy kihasználja a nappali fényt.",
+                "ro": "Vizitați parcul devreme pentru a profita din plin de lumina zilei.",
+                "en": "Visit the park early to make the most of the daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrzeuge des ÖV sind im Winter angenehm beheizt.",
+              "Achten Sie auf geänderte Fahrpläne an Feiertagen.",
+              "Tragen Sie warme Schuhe für die Wartezeiten an Haltestellen.",
+              "Die Limmattalbahn fährt im dichten Takt durch das Tal.",
+              "Am Bahnhof Dietikon gibt es warme Verpflegungsmöglichkeiten."
+            ],
+            "hu": [
+              "A tömegközlekedési eszközök télen kellemesen fűtöttek.",
+              "Ügyeljen az ünnepnapi menetrendváltozásokra.",
+              "Viseljen meleg cipőt a megállókban való várakozáshoz.",
+              "A Limmattalbahn sűrűn közlekedik a völgyben.",
+              "A dietikoni állomáson meleg étkezési lehetőségek vannak."
+            ],
+            "ro": [
+              "Vehiculele de transport public sunt încălzite plăcut iarna.",
+              "Atenție la orarele modificate de sărbători.",
+              "Purtați încălțăminte călduroasă pentru timpul de așteptare în stații.",
+              "Limmattalbahn circulă cu frecvență mare prin vale.",
+              "La gara Dietikon există opțiuni de mâncare caldă."
+            ],
+            "en": [
+              "Public transport vehicles are pleasantly heated in winter.",
+              "Watch out for modified schedules on public holidays.",
+              "Wear warm shoes for waiting times at bus stops.",
+              "The Limmattalbahn runs frequently through the valley.",
+              "Hot food options are available at Dietikon station."
+            ]
+          }
+        }
       }
     }
   }

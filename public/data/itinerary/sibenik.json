@@ -276,6 +276,206 @@
           "Wear comfortable shoes for the many stone stairs.",
           "The climb to the fortresses is steep, take water."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens schützt die Loggia des Rathauses vor dem Guss. Mittags bietet die Kathedrale trockenen Unterschlupf und spirituelle Ruhe. Nachmittags laden die Museen im Rektorenpalast zur Erkundung ein. Abends endet der Tag gemütlich bei dalmatinischer Küche in den engen, regennassen Gassen der Altstadt.",
+            "hu": "A reggelt a Városháza árkádjai alatt kezdjük, védve az esőtől. Délben a katedrális belső tere nyújt száraz menedéket. Délután a Rektori Palota múzeuma tökéletes beltéri program. Az este a szűk sikátorok egyik hangulatos éttermében zárul, ahol a vizes kövek csillogása különleges hangulatot áraszt.",
+            "ro": "Dimineața începe sub arcadele Primăriei, protejați de ploaie. La prânz, interiorul catedralei oferă un refugiu uscat și liniștit. După-amiaza, muzeul din Palatul Rectorului este ideal pentru explorare la interior. Seara se încheie confortabil într-un restaurant din orașul vechi, pe străzile lucioase de ploaie.",
+            "en": "Morning starts under the arches of the Town Hall, sheltered from the downpour. At noon, the cathedral's interior offers a dry sanctuary. Afternoon is spent exploring the indoor exhibits of the Rector's Palace. The evening concludes cozily in an old town eatery as the rain glistens on the limestone."
+          },
+          "stops": [
+            {
+              "name": "Šibenik Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden als Regenschutz.",
+                "hu": "Használja az árkádokat esővédőként.",
+                "ro": "Folosiți arcadele pentru protecție.",
+                "en": "Use the arches for rain shelter."
+              }
+            },
+            {
+              "name": "The Four Wells",
+              "tip_5lang": {
+                "de": "Der Boden ist hier extrem rutschig.",
+                "hu": "A kövezet itt nagyon csúszós.",
+                "ro": "Piatra este extrem de alunecoasă.",
+                "en": "The stone floor is extremely slippery."
+              }
+            },
+            {
+              "name": "Church of St. Barbara",
+              "tip_5lang": {
+                "de": "Kleiner, trockener Kunstraum.",
+                "hu": "Apró, száraz művészeti tér.",
+                "ro": "Mic spațiu de artă la interior.",
+                "en": "Small, dry art space inside."
+              }
+            },
+            {
+              "name": "St. James Cathedral",
+              "tip_5lang": {
+                "de": "Idealer Ort, um starken Regen abzuwarten.",
+                "hu": "Ideális hely a zápor kivárására.",
+                "ro": "Loc ideal pentru a aștepta oprirea ploii.",
+                "en": "Ideal place to wait out a heavy shower."
+              }
+            },
+            {
+              "name": "Rector's Palace",
+              "tip_5lang": {
+                "de": "Umfangreiche Ausstellungen im Trockenen.",
+                "hu": "Bőséges beltéri kiállítások.",
+                "ro": "Expoziții interioare bogate.",
+                "en": "Extensive indoor exhibitions."
+              }
+            },
+            {
+              "name": "Medieval Monastery Garden",
+              "tip_5lang": {
+                "de": "Das Café bietet überdachte Sitzplätze.",
+                "hu": "A kávézó fedett ülőhelyeket kínál.",
+                "ro": "Cafeneaua are locuri acoperite.",
+                "en": "The cafe offers covered seating."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal mit Innenräumen.",
+                "hu": "Válasszon belső teres éttermet.",
+                "ro": "Alegeți un local cu spațiu interior.",
+                "en": "Choose a place with indoor seating."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie rutschfeste Schuhe auf dem nassen Kalkstein.",
+              "Ein Regenmantel ist bei Wind besser als ein Schirm.",
+              "Die Kathedrale ist der beste Ort bei Starkregen.",
+              "Nutzen Sie die vielen Cafés für Pausen."
+            ],
+            "hu": [
+              "Viseljen csúszásmentes talpú cipőt a vizes kövön.",
+              "A szél miatt az esőkabát praktikusabb az ernyőnél.",
+              "A katedrális a legjobb menedék felhőszakadáskor.",
+              "Használja ki a kávézókat rövid pihenőkre."
+            ],
+            "ro": [
+              "Purtați încălțăminte antiderapantă pe piatra udă.",
+              "Pelerina e mai bună decât umbrela din cauza vântului.",
+              "Catedrala este cel mai bun refugiu în caz de furtună.",
+              "Profitați de cafenele pentru pauze scurte."
+            ],
+            "en": [
+              "Wear non-slip shoes on the wet limestone.",
+              "A raincoat is better than an umbrella due to wind.",
+              "The cathedral is the best shelter during heavy rain.",
+              "Utilize local cafes for dry breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt frisch auf dem Rathausplatz ohne die Sommerhitze. Mittags strahlt die Kathedrale in klarem Winterlicht. Nachmittags bietet der Klostergarten eine friedliche, kühle Oase. Der Abend wird früh bei Kerzenschein und warmen Getränken in einer der gemütlichen Konobas der Altstadt verbracht.",
+            "hu": "A reggel frissen indul a városházi téren, nyári tömeg nélkül. Délben a katedrális falai a tiszta téli fényben ragyognak. Délután a kolostorkert békés, hűvös nyugalmat áraszt. Az este korán érkezik, gyertyafénnyel és forró italokkal zárjuk a napot az óváros egyik barátságos vendéglőjében.",
+            "ro": "Dimineața începe proaspăt în piața primăriei, fără aglomerație. La prânz, catedrala strălucește în lumina clară de iarnă. După-amiaza, grădina mănăstirii oferă o liniște deplină. Seara vine devreme, fiind petrecută la lumina lumânărilor cu băuturi calde într-o tavernă primitoare.",
+            "en": "Morning starts fresh at the Town Hall square without summer crowds. At noon, the cathedral glows in the clear winter light. Afternoon brings peaceful quiet to the monastery garden. Evening arrives early, spent with candlelight and warm drinks in a cozy old town tavern."
+          },
+          "stops": [
+            {
+              "name": "Šibenik Town Hall",
+              "tip_5lang": {
+                "de": "Genießen Sie den Platz ohne Touristenmassen.",
+                "hu": "Élvezze a teret a tömeg nélkül.",
+                "ro": "Bucurați-vă de piață fără aglomerație.",
+                "en": "Enjoy the square without the crowds."
+              }
+            },
+            {
+              "name": "The Four Wells",
+              "tip_5lang": {
+                "de": "Kalte Luft staut sich hier; warm anziehen.",
+                "hu": "Itt megreked a hideg; öltözzön rétegesen.",
+                "ro": "Aerul rece stagnează aici; îmbrăcați-vă gros.",
+                "en": "Cold air lingers here; dress warmly."
+              }
+            },
+            {
+              "name": "Church of St. Barbara",
+              "tip_5lang": {
+                "de": "Kurze Öffnungszeiten im Winter prüfen.",
+                "hu": "Ellenőrizze a téli nyitvatartást.",
+                "ro": "Verificați programul scurt de iarnă.",
+                "en": "Check shorter winter opening hours."
+              }
+            },
+            {
+              "name": "St. James Cathedral",
+              "tip_5lang": {
+                "de": "Wunderschönes Licht durch die Fenster.",
+                "hu": "Gyönyörű fények az ablakokon át.",
+                "ro": "Lumină superbă prin ferestre.",
+                "en": "Beautiful light through the windows."
+              }
+            },
+            {
+              "name": "Rector's Palace",
+              "tip_5lang": {
+                "de": "Angenehm temperierte Ausstellungsräume.",
+                "hu": "Kellemesen temperált kiállítóterek.",
+                "ro": "Săli de expoziție încălzite ușor.",
+                "en": "Pleasantly tempered exhibition rooms."
+              }
+            },
+            {
+              "name": "Medieval Monastery Garden",
+              "tip_5lang": {
+                "de": "Viele Pflanzen sind im Winterschlaf.",
+                "hu": "A növények nagy része téli álmot alszik.",
+                "ro": "Multe plante sunt în repaus hibernal.",
+                "en": "Many plants are dormant in winter."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einer heißen Suppe.",
+                "hu": "Kérjen egy forró házi levest.",
+                "ro": "Cereți o supă fierbinte de casă.",
+                "en": "Ask for a hot homemade soup."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht bereits gegen 16:30 Uhr unter.",
+              "Der Bura-Wind kann sehr kalt sein.",
+              "Zwiebelprinzip bei der Kleidung ist ratsam.",
+              "Einige kleine Läden haben reduzierte Stunden."
+            ],
+            "hu": [
+              "A nap már délután fél öt körül lemegy.",
+              "A Bura szél metszően hideg lehet.",
+              "Öltözzön rétegesen a szél ellen.",
+              "Néhány kisbolt korábban zárhat télen."
+            ],
+            "ro": [
+              "Soarele apune deja în jur de ora 16:30.",
+              "Vântul Bura poate fi extrem de rece.",
+              "Se recomandă îmbrăcămintea în straturi.",
+              "Unele magazine mici au program redus."
+            ],
+            "en": [
+              "Sunset is early, around 16:30.",
+              "The Bura wind can be very biting and cold.",
+              "Dress in layers to adjust to the wind.",
+              "Some small shops may have reduced hours."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -484,6 +684,188 @@
           "Rent an e-bike for the slopes in the channel.",
           "The route is mostly flat but sunny."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittags geht es vorsichtig entlang der Riva. Der Aufstieg zur Barone-Festung ist anstrengend, aber das Besucherzentrum bietet Schutz. Mittags erkunden wir die Festungshallen. Nachmittags ist die Fahrt zum Strand Banj kurz und erfrischend. Den Tag lassen wir bei einem warmen Snack mit Blick auf die graue Adria ausklingen.",
+            "hu": "Délelőtt óvatosan haladunk a parton. A Barone erődbe vezető út esőben nehezebb, de a látogatóközpont menedéket ad. Délben az erődök belső tereit járjuk be. Délután egy rövid tekerés következik a Banj strandig. A napot egy meleg harapnivalóval zárjuk a szürke Adria látványával.",
+            "ro": "Dimineața pedalăm cu grijă de-a lungul falezei. Urcarea la Barone este grea pe ploaie, dar centrul oferă adăpost. La prânz explorăm interiorul fortărețelor. După-amiaza facem o cursă scurtă spre plaja Banj. Încheiem ziua cu o gustare caldă admirând marea cenușie.",
+            "en": "Morning ride is cautious along the waterfront. The climb to Barone is tough in rain, but the visitor center provides cover. At noon, we explore the fortress interiors. Afternoon brings a quick ride to Banj beach. The day ends with a warm snack overlooking the grey Adriatic sea."
+          },
+          "stops": [
+            {
+              "name": "Šibenik Waterfront",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen und Algen auf Stein.",
+                "hu": "Vigyázzon a tócsákra és a csúszós algákra.",
+                "ro": "Atenție la bălți și alge pe piatră.",
+                "en": "Watch out for puddles and slippery algae."
+              }
+            },
+            {
+              "name": "Barone Fortress",
+              "tip_5lang": {
+                "de": "Das Bistro ist ein toller Regenschutz.",
+                "hu": "A bisztró kiváló esővédő hely.",
+                "ro": "Bistroul este un adăpost excelent.",
+                "en": "The bistro is a great rain shelter."
+              }
+            },
+            {
+              "name": "St. John's Fortress",
+              "tip_5lang": {
+                "de": "Der Pfad kann schlammig sein.",
+                "hu": "Az ösvény sáros lehet.",
+                "ro": "Poteca poate fi noroioasă.",
+                "en": "The path can be muddy."
+              }
+            },
+            {
+              "name": "St. Michael's Fortress",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen im Keller.",
+                "hu": "Nézze meg az alsó szint kiállításait.",
+                "ro": "Vizitați expozițiile de la subsol.",
+                "en": "Visit the exhibitions in the basement."
+              }
+            },
+            {
+              "name": "Banj Beach",
+              "tip_5lang": {
+                "de": "Bei Wind hohe Wellen an der Promenade.",
+                "hu": "Szeles időben nagy hullámok a parton.",
+                "ro": "Valuri mari la promenadă pe vânt.",
+                "en": "High waves at the promenade if windy."
+              }
+            },
+            {
+              "name": "Coastal Snack",
+              "tip_5lang": {
+                "de": "Warme Getränke wärmen nach der Fahrt.",
+                "hu": "A forró italok jól esnek a tekerés után.",
+                "ro": "Băuturile calde prind bine după drum.",
+                "en": "Hot drinks are great after the ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bremsen Sie auf nassen Steinen sehr vorsichtig.",
+              "Vermeiden Sie schnelle Kurven auf der Riva.",
+              "Nutzen Sie wasserfeste Packtaschen.",
+              "Beleuchtung ist bei grauem Wetter wichtig."
+            ],
+            "hu": [
+              "Vizes kövön nagyon óvatosan fékezzen.",
+              "Kerülje a hirtelen kanyarokat a parton.",
+              "Használjon vízálló kerékpáros táskát.",
+              "Szürke időben is használjon világítást."
+            ],
+            "ro": [
+              "Frânați cu mare atenție pe piatra udă.",
+              "Evitați virajele bruște pe faleză.",
+              "Folosiți genți de bicicletă impermeabile.",
+              "Luminile sunt esențiale pe vreme gri."
+            ],
+            "en": [
+              "Brake very carefully on wet stones.",
+              "Avoid sharp turns on the waterfront.",
+              "Use waterproof bike panniers.",
+              "Lights are essential even in grey weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen an der Riva mit frischer Meeresbrise. Der Anstieg zu den Festungen hält warm. Mittags genießen wir das Panorama bei strahlendem Sonnenschein. Nachmittags radeln wir zum Banj-Strand, bevor die Kälte anzieht. Den Abend verbringen wir bei einem heißen Tee in der Nähe des Hafens.",
+            "hu": "Tiszta téli reggel a parton friss tengeri szellővel. Az erődökhöz vezető emelkedő segít bemelegedni. Délben élvezzük a panorámát a ragyogó napsütésben. Délután a Banj strandig tekerünk, mielőtt beáll a hideg. Az estét egy forró tea mellett töltjük a kikötő közelében.",
+            "ro": "O dimineață senină de iarnă pe faleză cu briză proaspătă. Urcarea spre fortărețe ne ține de cald. La prânz admirăm panorama în soarele strălucitor. După-amiaza pedalăm spre Banj înainte să se lase frigul. Seara ne încălzim cu un ceai lângă port.",
+            "en": "A clear winter morning at the waterfront with fresh sea breeze. The climb to the fortresses keeps the body warm. At noon, enjoy the panorama in the bright sun. Afternoon ride to Banj beach before the cold sets in. Evening is spent with hot tea near the harbor."
+          },
+          "stops": [
+            {
+              "name": "Šibenik Waterfront",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe.",
+                "hu": "Viseljen szélálló kesztyűt.",
+                "ro": "Purtați mănuși rezistente la vânt.",
+                "en": "Wear windproof gloves."
+              }
+            },
+            {
+              "name": "Barone Fortress",
+              "tip_5lang": {
+                "de": "Spektakuläre Fernsicht im Winter.",
+                "hu": "Télen látványos a távolabbi kilátás.",
+                "ro": "Vizibilitate spectaculoasă iarna.",
+                "en": "Spectacular long-distance views in winter."
+              }
+            },
+            {
+              "name": "St. John's Fortress",
+              "tip_5lang": {
+                "de": "Perfekter Ort für die Wintersonne.",
+                "hu": "Tökéletes hely a téli napsütéshez.",
+                "ro": "Loc perfect pentru soarele de iarnă.",
+                "en": "Perfect spot for the winter sun."
+              }
+            },
+            {
+              "name": "St. Michael's Fortress",
+              "tip_5lang": {
+                "de": "Windig; Kopfbedeckung empfohlen.",
+                "hu": "Szeles hely; sapka ajánlott.",
+                "ro": "Vânt puternic; se recomandă căciulă.",
+                "en": "Windy spot; headwear recommended."
+              }
+            },
+            {
+              "name": "Banj Beach",
+              "tip_5lang": {
+                "de": "Ruhige Atmosphäre ohne Badegäste.",
+                "hu": "Csendes hangulat fürdőzők nélkül.",
+                "ro": "Atmosferă liniștită fără turiști.",
+                "en": "Quiet atmosphere without swimmers."
+              }
+            },
+            {
+              "name": "Coastal Snack",
+              "tip_5lang": {
+                "de": "Wählen Sie einen sonnigen Außenplatz.",
+                "hu": "Keressen egy napos külső asztalt.",
+                "ro": "Căutați un loc însorit la exterior.",
+                "en": "Look for a sunny outdoor spot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schützen Sie Ihr Gesicht vor dem kalten Fahrtwind.",
+              "Warme Socken sind bei Winterfahrten Pflicht.",
+              "Prüfen Sie den Luftdruck bei Kälte.",
+              "Fahren Sie vor Einbruch der Dunkelheit heim."
+            ],
+            "hu": [
+              "Védje arcát a hideg menetszéltől.",
+              "A meleg zokni alapfeltétel télen.",
+              "Hidegben ellenőrizze a guminyomást.",
+              "Sötétedés előtt érjen vissza a szállásra."
+            ],
+            "ro": [
+              "Protejați-vă fața de curentul rece.",
+              "Șosetele groase sunt obligatorii iarna.",
+              "Verificați presiunea pneurilor la frig.",
+              "Întoarceți-vă înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "Protect your face from the cold wind.",
+              "Warm socks are mandatory for winter rides.",
+              "Check tire pressure in cold weather.",
+              "Return home before it gets dark."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -692,6 +1074,170 @@
           "Book Krka tickets online in advance.",
           "In high season, parking in Šibenik is challenging."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir Šibenik per Auto mit kurzen Wegen. Mittags ist die St. Nikolaus Festung ein mystischer Anblick im Regen. Danach geht es zum Krka Nationalpark, wo die Wasserfälle bei Regen besonders kraftvoll sind. Abends genießen wir ein Panorama von der Barone-Festung und ein warmes Abendessen.",
+            "hu": "Reggel autóval fedezzük fel Šibeniket, minimalizálva az esőt. Délben a Szent Miklós erőd misztikus látványt nyújt az esőben. Ezután a Krka Nemzeti Parkba megyünk; a vízesések ilyenkor a legerősebbek. Este a Barone erőd panorámája és egy meleg vacsora vár ránk.",
+            "ro": "Dimineața explorăm Šibenik cu mașina, evitând ploaia. La prânz, fortăreața Sf. Nicolae arată mistic prin picăturile de apă. Urmează Parcul Krka, unde cascadele sunt spectaculoase pe ploaie. Seara admirăm panorama de la Barone și luăm o cină caldă.",
+            "en": "Morning explore Šibenik by car with minimal walking. At noon, St. Nicholas fortress looks mystical in the rain. Then off to Krka National Park; waterfalls are most powerful during rain. Evening brings a panorama from Barone and a warm dinner."
+          },
+          "stops": [
+            {
+              "name": "Šibenik Old Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser für trockenes Aussteigen.",
+                "hu": "Használjon parkolóházat a száraz kiszálláshoz.",
+                "ro": "Folosiți parcările acoperite.",
+                "en": "Use parking garages for dry exit."
+              }
+            },
+            {
+              "name": "St. Nicholas Fortress",
+              "tip_5lang": {
+                "de": "Besichtigung per Boot ist oft überdacht.",
+                "hu": "A hajós túra gyakran fedett.",
+                "ro": "Turul cu barca este adesea acoperit.",
+                "en": "The boat tour is often covered."
+              }
+            },
+            {
+              "name": "Skradinski buk (Krka National Park)",
+              "tip_5lang": {
+                "de": "Regenschutz für Kameras nicht vergessen.",
+                "hu": "Ne felejtse el a fényképezőgép védelmét.",
+                "ro": "Nu uitați protecția pentru cameră.",
+                "en": "Don't forget rain protection for cameras."
+              }
+            },
+            {
+              "name": "Barone Fortress Panorama",
+              "tip_5lang": {
+                "de": "Toller Blick direkt aus dem Bistro.",
+                "hu": "Nagyszerű kilátás közvetlenül a bisztróból.",
+                "ro": "Vedere superbă direct din bistro.",
+                "en": "Great view directly from the bistro."
+              }
+            },
+            {
+              "name": "Dalmatian Dinner",
+              "tip_5lang": {
+                "de": "Restaurants am Stadtrand bieten Parkplätze.",
+                "hu": "A peremkerületi éttermeknél könnyebb parkolni.",
+                "ro": "Restaurantele de la marginea orașului au parcări.",
+                "en": "Suburban restaurants offer easier parking."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig auf kurvigen Küstenstraßen.",
+              "Parken Sie nah am Ziel, um Regen zu meiden.",
+              "Krka ist bei Regen weniger überlaufen.",
+              "Heizung im Auto hilft gegen beschlagene Scheiben."
+            ],
+            "hu": [
+              "Vezessen óvatosan a kanyargós parti utakon.",
+              "Parkoljon közel a célhoz az eső miatt.",
+              "A Krka esőben sokkal kevésbé zsúfolt.",
+              "Az autó fűtése segít a páramentesítésben."
+            ],
+            "ro": [
+              "Conduceți cu atenție pe drumurile de coastă.",
+              "Parcați aproape de destinație din cauza ploii.",
+              "Krka este mult mai liberă pe ploaie.",
+              "Încălzirea ajută la dezaburirea parbrizului."
+            ],
+            "en": [
+              "Drive carefully on winding coastal roads.",
+              "Park close to destinations to avoid rain.",
+              "Krka is much less crowded during rain.",
+              "Car heating helps with defogging windows."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt entspannt in der Altstadt. Die Fahrt zur St. Nikolaus Festung bietet klare Ausblicke auf den Kanal. Mittags erkunden wir den Krka Nationalpark in absoluter Stille. Nachmittags genießen wir den Sonnenuntergang von Barone. Ein herzhaftes dalmatinisches Abendessen bildet den perfekten Abschluss.",
+            "hu": "A téli reggel nyugodtan indul az óvárosban. A Szent Miklós erődhöz vezető út tiszta kilátást nyújt a csatornára. Délben a Krka Nemzeti Parkot járjuk be teljes csendben. Délután élvezzük a naplementét a Barone erődből. Egy bőséges dalmát vacsora teszi teljessé a napot.",
+            "ro": "Dimineața de iarnă începe relaxat în orașul vechi. Drumul spre Sf. Nicolae oferă vederi clare asupra canalului. La prânz explorăm Parcul Krka în liniște deplină. După-amiaza admirăm apusul de la Barone. O cină dalmată consistentă încheie ziua perfect.",
+            "en": "Winter morning starts relaxed in the old town. The drive to St. Nicholas offers clear views of the channel. At noon, explore Krka National Park in absolute silence. Afternoon brings a sunset view from Barone. A hearty Dalmatian dinner completes the day."
+          },
+          "stops": [
+            {
+              "name": "Šibenik Old Town",
+              "tip_5lang": {
+                "de": "Parkplätze im Winter leicht zu finden.",
+                "hu": "Télen könnyű parkolóhelyet találni.",
+                "ro": "Parcări ușor de găsit în timpul iernii.",
+                "en": "Parking is easy to find in winter."
+              }
+            },
+            {
+              "name": "St. Nicholas Fortress",
+              "tip_5lang": {
+                "de": "Warmer Wind im Auto genießen.",
+                "hu": "Élvezze a meleget az autóban a parton.",
+                "ro": "Bucurați-vă de căldură în mașină pe țărm.",
+                "en": "Enjoy the warmth in the car by the shore."
+              }
+            },
+            {
+              "name": "Skradinski buk (Krka National Park)",
+              "tip_5lang": {
+                "de": "Günstigere Eintrittspreise im Winter.",
+                "hu": "Télen sokkal olcsóbb a belépő.",
+                "ro": "Prețuri de intrare reduse iarna.",
+                "en": "Lower entrance fees during winter."
+              }
+            },
+            {
+              "name": "Barone Fortress Panorama",
+              "tip_5lang": {
+                "de": "Warmer Tee im Bistro bei Sonnenuntergang.",
+                "hu": "Forró tea a bisztróban naplementekor.",
+                "ro": "Ceai cald la bistro la apus.",
+                "en": "Hot tea at the bistro during sunset."
+              }
+            },
+            {
+              "name": "Dalmatian Dinner",
+              "tip_5lang": {
+                "de": "Probieren Sie den lokalen Rotwein.",
+                "hu": "Kóstolja meg a helyi vörösborokat.",
+                "ro": "Gustați vinul roșu local.",
+                "en": "Try the local red wines."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überprüfen Sie den Frostschutz im Kühler.",
+              "Einige Nebenstraßen können glatt sein.",
+              "Tagfahrlicht ist im Winter obligatorisch.",
+              "Profitieren Sie von kurzen Wegen dank wenig Verkehr."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a hűtőben.",
+              "Néhány mellékút csúszós lehet.",
+              "A nappali menetfény télen kötelező.",
+              "Használja ki a kis forgalmat és a gyors haladást."
+            ],
+            "ro": [
+              "Verificați antigelul în radiator.",
+              "Unele drumuri secundare pot fi alunecoase.",
+              "Luminile de zi sunt obligatorii iarna.",
+              "Profitați de traficul redus și drumurile libere."
+            ],
+            "en": [
+              "Check the antifreeze in your radiator.",
+              "Some side roads might be slippery.",
+              "Daytime running lights are mandatory in winter.",
+              "Benefit from low traffic and quick travel."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -900,6 +1446,188 @@
           "Buy bus tickets from the driver or at the kiosk.",
           "Buses are often crowded in summer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Poljana-Platz nutzen wir den Bus für kurze Wege. Mittags ist die Kathedrale ein trockenes Highlight. Die Festung St. Michael bietet im Inneren interessante Ausstellungen. Nachmittags ist die Fahrt zum Banj-Strand im Bus gemütlich. Der Tag endet mit einem Besuch in einer traditionellen Konoba im Schutze der Gassen.",
+            "hu": "Reggel a Poljana téren szállunk buszra, elkerülve az ázást. Délben a katedrális a legfőbb száraz látnivaló. A Szent Mihály erőd belső terei érdekes kiállításokat rejtenek. Délután kényelmes buszozás következik a Banj strandig. A napot egy hagyományos konobában zárjuk a védett sikátorok mélyén.",
+            "ro": "Dimineața la Poljana folosim autobuzul pentru a evita ploaia. La prânz, catedrala este atracția principală la uscat. Cetatea Sf. Mihail oferă expoziții interioare interesante. După-amiaza mergem cu autobuzul spre Banj. Ziua se încheie într-o tavernă tradițională în adăpostul străzilor.",
+            "en": "Morning at Poljana square, we take the bus to stay dry. At noon, the cathedral is a dry highlight. St. Michael's fortress offers interesting indoor exhibits. Afternoon ride to Banj beach is comfortable by bus. The day ends in a traditional tavern deep in the sheltered alleys."
+          },
+          "stops": [
+            {
+              "name": "Poljana Square (Central Bus Hub)",
+              "tip_5lang": {
+                "de": "Die Tiefgarage bietet trockene Wartebereiche.",
+                "hu": "A mélygarázs fedett várakozóhelyet kínál.",
+                "ro": "Parcarea subterană oferă zonă de așteptare.",
+                "en": "The underground garage offers dry waiting."
+              }
+            },
+            {
+              "name": "St. James Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle.",
+                "hu": "Rövid séta a buszmegállótól.",
+                "ro": "Drum scurt pe jos de la stație.",
+                "en": "Short walk from the bus stop."
+              }
+            },
+            {
+              "name": "St. Michael's Fortress",
+              "tip_5lang": {
+                "de": "Zuschauerraum unter der Bühne ist trocken.",
+                "hu": "A színpad alatti nézőtér fedett.",
+                "ro": "Zona de sub scenă este acoperită.",
+                "en": "The area under the stage is covered."
+              }
+            },
+            {
+              "name": "Banj Beach",
+              "tip_5lang": {
+                "de": "Busse halten direkt an der Promenade.",
+                "hu": "A buszok közvetlenül a parton állnak meg.",
+                "ro": "Autobuzele opresc chiar lângă faleză.",
+                "en": "Buses stop right by the promenade."
+              }
+            },
+            {
+              "name": "Church of St. Barbara",
+              "tip_5lang": {
+                "de": "Kulturstopp im Regen.",
+                "hu": "Kulturális megálló esőben.",
+                "ro": "Popas cultural pe ploaie.",
+                "en": "Cultural stop during rain."
+              }
+            },
+            {
+              "name": "Konoba Visit",
+              "tip_5lang": {
+                "de": "Genießen Sie den Abend ohne Parkplatzsuche.",
+                "hu": "Élvezze az estét parkolási gondok nélkül.",
+                "ro": "Savurați seara fără grija parcării.",
+                "en": "Enjoy the evening without parking worries."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die ÖPNV-App für Echtzeit-Infos.",
+              "Poljana ist der beste Umsteigepunkt bei Regen.",
+              "Busse sind bei Schmuddelwetter oft voll.",
+              "Halten Sie Kleingeld für das Ticket bereit."
+            ],
+            "hu": [
+              "Töltse le a közlekedési appot a menetrendhez.",
+              "A Poljana a legjobb átszállóhely esőben.",
+              "Rossz időben a buszok zsúfoltabbak lehetnek.",
+              "Készítsen elő aprópénzt a jegyvásárláshoz."
+            ],
+            "ro": [
+              "Descărcați aplicația de transport pentru info.",
+              "Poljana e cel mai bun loc de schimb pe ploaie.",
+              "Autobuzele pot fi aglomerate pe vreme rea.",
+              "Pregătiți mărunțiș pentru bilet."
+            ],
+            "en": [
+              "Download the transit app for real-time info.",
+              "Poljana is the best transfer point in rain.",
+              "Buses can be crowded during bad weather.",
+              "Have exact change ready for the ticket."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens herrscht am Poljana-Zentrum reges Wintertreiben. Die Kathedrale wirkt im klaren Licht der Nebensaison majestätisch. Mittags bietet St. Michael tolle Ausblicke über die winterliche Stadt. Nachmittags spazieren wir am Banj-Strand, bevor der Bus uns zurückbringt. Der Tag endet warm und gesellig in einer lokalen Konoba.",
+            "hu": "Reggel a Poljana központban zajlik a téli élet. A katedrális fenséges a szezonon kívüli tiszta fényben. Délben a Szent Mihály erőd remek kilátást nyújt a téli városra. Délután a Banj strandon sétálunk, mielőtt a busz visszavisz. A nap meleg és barátságos hangulatban zárul egy helyi konobában.",
+            "ro": "Dimineața în centrul Poljana e plină de viață. Catedrala pare maiestuoasă în lumina clară de iarnă. La prânz, Sf. Mihail oferă vederi superbe asupra orașului. După-amiaza ne plimbăm la Banj înainte de întoarcere. Ziua se termină călduros într-o tavernă locală.",
+            "en": "Morning at Poljana hub is full of local winter life. The cathedral looks majestic in the clear off-season light. At noon, St. Michael provides great views over the winter city. Afternoon brings a stroll at Banj before the bus ride back. The day ends warmly in a local tavern."
+          },
+          "stops": [
+            {
+              "name": "Poljana Square (Central Bus Hub)",
+              "tip_5lang": {
+                "de": "Beleuchtung im Winter sehr stimmungsvoll.",
+                "hu": "A téli kivilágítás nagyon hangulatos.",
+                "ro": "Iluminatul de iarnă este foarte plăcut.",
+                "en": "Winter lighting is very atmospheric."
+              }
+            },
+            {
+              "name": "St. James Cathedral",
+              "tip_5lang": {
+                "de": "Keine Warteschlangen vor dem Eingang.",
+                "hu": "Nincsenek sorok a bejáratnál.",
+                "ro": "Nu există cozi la intrare.",
+                "en": "No queues at the entrance."
+              }
+            },
+            {
+              "name": "St. Michael's Fortress",
+              "tip_5lang": {
+                "de": "Windjacke für die obere Ebene nötig.",
+                "hu": "Széldzseki szükséges a felső szinten.",
+                "ro": "Jachetă de vânt necesară la etaj.",
+                "en": "Windbreaker needed for the upper level."
+              }
+            },
+            {
+              "name": "Banj Beach",
+              "tip_5lang": {
+                "de": "Wintersonne am Meer genießen.",
+                "hu": "Élvezze a téli napsütést a tengerparton.",
+                "ro": "Bucurați-vă de soarele de iarnă la mare.",
+                "en": "Enjoy the winter sun by the sea."
+              }
+            },
+            {
+              "name": "Church of St. Barbara",
+              "tip_5lang": {
+                "de": "Kleines Museum im Inneren besuchen.",
+                "hu": "Látogassa meg a belső kis múzeumot.",
+                "ro": "Vizitați micul muzeu din interior.",
+                "en": "Visit the small museum inside."
+              }
+            },
+            {
+              "name": "Konoba Visit",
+              "tip_5lang": {
+                "de": "Reservierung im Winter oft nicht nötig.",
+                "hu": "Télen gyakran nem kell asztalt foglalni.",
+                "ro": "Rezervarea nu e necesară iarna de obicei.",
+                "en": "Reservations are often not needed in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter nach reduziertem Plan.",
+              "Warme Kleidung für die Wartezeiten an Haltestellen.",
+              "Die letzte Rückfahrt ist oft früher.",
+              "Poljana ist ein guter Treffpunkt."
+            ],
+            "hu": [
+              "A buszok télen ritkábban járhatnak.",
+              "Öltözzön melegen a megállóban való várakozáshoz.",
+              "Az utolsó járatok korábban indulhatnak.",
+              "A Poljana remek találkozási pont."
+            ],
+            "ro": [
+              "Autobuzele au program redus iarna.",
+              "Îmbrăcați-vă gros pentru așteptarea în stație.",
+              "Ultimele curse pleacă adesea mai devreme.",
+              "Poljana este un punct bun de întâlnire."
+            ],
+            "en": [
+              "Buses run on a reduced winter schedule.",
+              "Dress warmly for waiting at bus stops.",
+              "Last return trips are often earlier.",
+              "Poljana is a great meeting point."
+            ]
+          }
+        }
       }
     }
   }

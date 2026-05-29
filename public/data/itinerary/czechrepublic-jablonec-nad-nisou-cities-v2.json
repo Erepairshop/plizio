@@ -386,6 +386,206 @@
           "Bring a reusable water bottle; there are several fountains in the city.",
           "Some smaller shops may not accept credit cards, so have some cash handy."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Morgen an den Rathäusern. Mittags bietet das Glasmuseum perfekten Schutz vor den Tropfen. Nachmittags erkunden wir die Kirchen im Trockenen. Abends wirkt die Mšeno-Talsperre im Nebel besonders mystisch und ruhig.",
+            "hu": "Esős reggel a városházák környékén. Délben az Üvegmuzeum nyújt menedéket a zápor elől. Délután a templomok belső tereit fedezzük fel. Este a Mšeno-gát ködös látványa zárja a napot, esernyő alatt sétálva.",
+            "ro": "Dimineață ploioasă la primării. La prânz, Muzeul Sticlei oferă refugiul perfect. După-amiaza explorăm bisericile la adăpost. Seara, barajul Mšeno arată mistic prin ceață, o plimbare liniștită sub umbrelă.",
+            "en": "Rainy morning by the town halls. At noon, the Glass Museum provides the perfect escape from the rain. Afternoon is spent inside the serene churches. Evening concludes with a misty, atmospheric walk by the Mšeno Dam."
+          },
+          "stops": [
+            {
+              "name": "New Town Hall",
+              "tip_5lang": {
+                "de": "Unter den Arkaden des Platzes Schutz suchen.",
+                "hu": "Használja a tér árkádjait az eső elleni védelemhez.",
+                "ro": "Folosiți arcadele pieței pentru a vă proteja de ploaie.",
+                "en": "Use the square's arcades for a quick dry spot."
+              }
+            },
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Sprint zum Eingang, innen ist es trocken.",
+                "hu": "Gyors sprint a bejáratig, bent száraz a könyvtár.",
+                "ro": "Sprint scurt până la intrare, interiorul este uscat.",
+                "en": "Quick sprint to the entrance, it is dry inside."
+              }
+            },
+            {
+              "name": "Museum of Glass and Jewellery",
+              "tip_5lang": {
+                "de": "Idealer Ort für lange Regenschauer.",
+                "hu": "Ideális helyszín hosszú záporok idejére.",
+                "ro": "Locul ideal pentru a aștepta trecerea ploii.",
+                "en": "The ultimate spot to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Church of the Sacred Heart",
+              "tip_5lang": {
+                "de": "Die Ziegelmauer bietet außen wenig Schutz, schnell rein.",
+                "hu": "A téglafal kívül kevés védelmet ad, menjen beljebb.",
+                "ro": "Zidul de cărămidă oferă puțin adăpost, intrați rapid.",
+                "en": "The brick exterior offers little cover, head inside."
+              }
+            },
+            {
+              "name": "St. Ann's Church",
+              "tip_5lang": {
+                "de": "Ruhiger, trockener Rückzugsort im Stadtzentrum.",
+                "hu": "Csendes, száraz menedék a városközpontban.",
+                "ro": "Un refugiu liniștit și uscat în centrul orașului.",
+                "en": "A quiet and dry retreat in the city center."
+              }
+            },
+            {
+              "name": "Mšeno Dam",
+              "tip_5lang": {
+                "de": "Fester Uferweg, aber Pfützen möglich. Schirm fest halten.",
+                "hu": "Szilárd út, de tócsák lehetnek. Tartsa erősen az ernyőt.",
+                "ro": "Drum stabil, dar sunt posibile bălți. Țineți umbrela bine.",
+                "en": "Solid path, but watch for puddles. Hold your umbrella tight."
+              }
+            },
+            {
+              "name": "Petřín Lookout Tower",
+              "tip_5lang": {
+                "de": "Bei tiefen Wolken ist die Fernsicht eingeschränkt.",
+                "hu": "Alacsony felhőzetnél a kilátás korlátozott lehet.",
+                "ro": "Vizibilitatea poate fi redusă dacă norii sunt joși.",
+                "en": "Visibility may be limited if the clouds are low."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen der Bergwinde wichtig.",
+              "Das Glasmuseum ist das beste 'Schlechtwetter-Backup'.",
+              "Die Wege an der Talsperre sind asphaltiert und gut begehbar.",
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster."
+            ],
+            "hu": [
+              "A hegyi szelek miatt erős esernyő javasolt.",
+              "Az Üvegmuzeum a legjobb választás rossz idő esetén.",
+              "A gát menti utak aszfaltozottak, így nem sarasak.",
+              "Viseljen vízálló cipőt a macskaköves utcákon."
+            ],
+            "ro": [
+              "Se recomandă o umbrelă rezistentă din cauza vântului.",
+              "Muzeul Sticlei este cea mai bună opțiune pe ploaie.",
+              "Drumurile de lângă baraj sunt asfaltate și accesibile.",
+              "Purtați încălțăminte impermeabilă pentru străzile pavate."
+            ],
+            "en": [
+              "A sturdy umbrella is recommended due to mountain winds.",
+              "The Glass Museum is the best indoor backup for rain.",
+              "Paths near the dam are paved and stay mud-free.",
+              "Wear waterproof shoes for the cobblestone streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Verschneiter Morgen am Neuen Rathaus. Mittags wärmen wir uns im prächtigen Glasmuseum auf. Nachmittags glitzern die Kirchen im Frost. Der Tag endet an der gefrorenen Talsperre vor dem frühen Sonnenuntergang.",
+            "hu": "Havas reggel az Új Városházánál. Délben a pompás Üvegmuzeumban melegszünk fel. Délután a templomok fagyos fényben tündökölnek. A nap a befagyott gátnál ér véget a korai naplemente előtt.",
+            "ro": "Dimineață cu zăpadă la Noua Primărie. La prânz ne încălzim în splendidul Muzeu al Sticlei. După-amiaza, bisericile sclipesc în ger. Ziua se încheie la barajul înghețat, înainte de apusul timpuriu.",
+            "en": "Snowy morning at the New Town Hall. At noon, we warm up in the magnificent Glass Museum. Afternoon sees the churches glittering in the frost. The day ends at the frozen dam before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "New Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht auf den glatten Stufen vor dem Eingang.",
+                "hu": "Vigyázzon a csúszós lépcsőkre a bejárat előtt.",
+                "ro": "Atenție la treptele alunecoase de la intrare.",
+                "en": "Watch out for slippery steps at the entrance."
+              }
+            },
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Drinnen ist es gemütlich geheizt, ideal für eine Pause.",
+                "hu": "Bent kellemes fűtés várja, ideális egy rövid szünetre.",
+                "ro": "Interiorul este încălzit, ideal pentru o pauză scurtă.",
+                "en": "It is warmly heated inside, perfect for a short break."
+              }
+            },
+            {
+              "name": "Museum of Glass and Jewellery",
+              "tip_5lang": {
+                "de": "Garderobe nutzen, um die dicke Jacke abzugeben.",
+                "hu": "Használja a ruhatárat a vastag kabátokhoz.",
+                "ro": "Folosiți garderoba pentru haine groase.",
+                "en": "Use the cloakroom to leave your heavy winter gear."
+              }
+            },
+            {
+              "name": "Church of the Sacred Heart",
+              "tip_5lang": {
+                "de": "In der Kirche ist es oft kühler als im Museum.",
+                "hu": "A templomban gyakran hűvösebb van, mint a múzeumban.",
+                "ro": "În biserică este adesea mai rece decât în muzeu.",
+                "en": "The church interior is often chillier than the museum."
+              }
+            },
+            {
+              "name": "St. Ann's Church",
+              "tip_5lang": {
+                "de": "Kleiner Weihnachtsmarkt oft direkt davor im Advent.",
+                "hu": "Advent idején gyakran kis karácsonyi vásár van előtte.",
+                "ro": "În timpul Adventului, adesea e un mic târg de Crăciun.",
+                "en": "Small Christmas market often held nearby during Advent."
+              }
+            },
+            {
+              "name": "Mšeno Dam",
+              "tip_5lang": {
+                "de": "Eis auf der Talsperre niemals ohne Freigabe betreten.",
+                "hu": "Soha ne menjen a jégre hivatalos engedély nélkül.",
+                "ro": "Nu intrați niciodată pe gheață fără permisiune oficială.",
+                "en": "Never step on the ice without official permission."
+              }
+            },
+            {
+              "name": "Petřín Lookout Tower",
+              "tip_5lang": {
+                "de": "Aufstieg zum Turm kann bei Vereisung gesperrt sein.",
+                "hu": "Jegesedés esetén a toronyba vezető út lezárható.",
+                "ro": "Accesul la turn poate fi închis în caz de îngheț.",
+                "en": "Access to the tower may be closed during heavy icing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind für den Aufstieg zum Petřín nötig.",
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Jablonec ist für viel Schnee bekannt, gute Sohlen sind Pflicht.",
+              "Genießen Sie heißen Tee in den Cafés am Unteren Markt."
+            ],
+            "hu": [
+              "Meleg kesztyű szükséges a Petřín dombra való feljutáshoz.",
+              "A nap decemberben már 16:00 körül lemegy.",
+              "Jablonec híres a hóról, a bordázott talpú bakancs kötelező.",
+              "Élvezze a forró teát az Alsó tér kávézóiban."
+            ],
+            "ro": [
+              "Mănușile groase sunt necesare pentru urcarea la Petřín.",
+              "Soarele apune deja în jur de ora 16:00 în decembrie.",
+              "Jablonec e cunoscut pentru multă zăpadă, tălpile aderente sunt obligatorii.",
+              "Savurați un ceai fierbinte în cafenelele din Piața de Jos."
+            ],
+            "en": [
+              "Warm gloves are necessary for the climb to Petřín.",
+              "The sun sets around 16:00 in December.",
+              "Jablonec is famous for heavy snow; good treads are a must.",
+              "Enjoy hot tea in the cafés around the Lower Market."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +942,188 @@
           "Use the marked cycle paths, especially outside the center.",
           "A helmet is highly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Sportliche Fahrt durch den Regen. Vormittags gleiten wir über nasse Straßen zum Museum. Mittags Pause im Trockenen. Nachmittags ist die Runde um die Talsperre erfrischend, aber vorsichtig in den Kurven.",
+            "hu": "Sportos tekerés az esőben. Délelőtt vizes utakon gurulunk a múzeumhoz. Délben pihenő a szárazon. Délután a gát körüli kör frissítő, de vigyázzon a kanyarokban.",
+            "ro": "Cursă sportivă prin ploaie. Dimineața pedalăm pe străzi ude spre muzeu. La prânz facem o pauză la uscat. După-amiaza turul barajului este revigorant, dar atenție la curbe.",
+            "en": "A sporty ride through the rain. Morning involves gliding over wet streets to the museum. Noon break stays dry indoors. Afternoon at the dam is refreshing but requires caution on turns."
+          },
+          "stops": [
+            {
+              "name": "New Town Hall",
+              "tip_5lang": {
+                "de": "Achtung, das Kopfsteinpflaster ist bei Nässe extrem glatt.",
+                "hu": "Vigyázat, a macskaköves út nedvesen rendkívül csúszós.",
+                "ro": "Atenție, pavajul este extrem de alunecos pe ploaie.",
+                "en": "Caution, the cobblestones are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Museum of Glass and Jewellery",
+              "tip_5lang": {
+                "de": "Fahrradständer sind vorhanden, Helm mit reinnehmen.",
+                "hu": "Kerékpártárolók vannak, a sisakot vigye be magával.",
+                "ro": "Există rastele pentru biciclete, luați casca înăuntru.",
+                "en": "Bike racks available, take your helmet inside with you."
+              }
+            },
+            {
+              "name": "Jablonec Municipal Theatre",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, unter dem Vordach trocken bleiben.",
+                "hu": "Rövid fotómegálló, maradjon szárazon az előtető alatt.",
+                "ro": "Scurt popas foto, stați la uscat sub copertină.",
+                "en": "Brief photo stop, stay dry under the entrance canopy."
+              }
+            },
+            {
+              "name": "Mšeno Dam",
+              "tip_5lang": {
+                "de": "Schutzbleche sind hier Gold wert gegen den Spritzschlamm.",
+                "hu": "A sárvédő itt aranyat ér a felverődő sár ellen.",
+                "ro": "Apărătorile sunt esențiale împotriva noroiului împroșcat.",
+                "en": "Fenders are worth their weight in gold against splashes."
+              }
+            },
+            {
+              "name": "Petřín Lookout Tower",
+              "tip_5lang": {
+                "de": "Der Anstieg ist anstrengend, bei Regen im Sattel bleiben.",
+                "hu": "Az emelkedő fárasztó, esőben maradjon a nyeregben.",
+                "ro": "Urcarea este obositoare, stați în șa pe timp de ploaie.",
+                "en": "The climb is tough; stay seated for better traction."
+              }
+            },
+            {
+              "name": "Church of the Sacred Heart",
+              "tip_5lang": {
+                "de": "Sicheres Abstellen am oberen Markt möglich.",
+                "hu": "Biztonságos parkolás lehetséges a felső piacon.",
+                "ro": "Parcare sigură posibilă în piața de sus.",
+                "en": "Secure parking is possible at the upper market area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsbeläge vor der Fahrt bei Nässe.",
+              "Wasserdichte Kleidung ist in dieser Mittelgebirgslage Pflicht.",
+              "Vermeiden Sie schnelle Fahrten über Markierungen auf der Straße.",
+              "Beleuchtung auch tagsüber bei starkem Regen einschalten."
+            ],
+            "hu": [
+              "Ellenőrizze a fékbetéteket esős indulás előtt.",
+              "Vízálló ruházat kötelező ebben a középhegységi régióban.",
+              "Kerülje a gyors áthajtást az útburkolati jeleken.",
+              "Erős esőben nappal is kapcsolja be a világítást."
+            ],
+            "ro": [
+              "Verificați saboții de frână înainte de plecare pe ploaie.",
+              "Îmbrăcămintea impermeabilă este obligatorie în acest relief.",
+              "Evitați viteza mare peste marcajele rutiere umede.",
+              "Aprindeți luminile chiar și ziua în caz de ploaie torențială."
+            ],
+            "en": [
+              "Check your brake pads before starting in wet weather.",
+              "Waterproof gear is mandatory in this mountainous region.",
+              "Avoid high speeds over painted road markings.",
+              "Turn on your lights even during the day in heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kühle Wintertour durch Jablonec. Die klirrende Luft am Rathaus weckt die Geister. Im Museum tauchen wir in Wärme und Kunst ab. Die Talsperre bietet eine weiße Kulisse, bevor wir zum Petřín hochstrampeln.",
+            "hu": "Hűvös téli túra Jablonecben. A városházánál a csípős levegő felébreszt. A múzeumban melegség és művészet vár. A gát fehér díszletet kínál, mielőtt feltekernénk a Petřínre.",
+            "ro": "Tur de iarnă răcoros prin Jablonec. Aerul tăios de la primărie te trezește. În muzeu ne cufundăm în căldură și artă. Barajul oferă un decor alb înainte de a urca spre Petřín.",
+            "en": "Cool winter tour through Jablonec. The biting air at the town hall wakes the spirit. In the museum, we dive into warmth and art. The dam offers a white backdrop before the climb to Petřín."
+          },
+          "stops": [
+            {
+              "name": "New Town Hall",
+              "tip_5lang": {
+                "de": "Achtung vor Streusalz-Resten auf der Fahrbahn.",
+                "hu": "Vigyázzon az úton lévő útszórósó-maradványokra.",
+                "ro": "Atenție la resturile de sare de pe carosabil.",
+                "en": "Watch out for road salt residue on the pavement."
+              }
+            },
+            {
+              "name": "Museum of Glass and Jewellery",
+              "tip_5lang": {
+                "de": "Langes Abschließen draußen lässt das Schloss einfrieren.",
+                "hu": "A kinti hosszú tárolás során a lakat befagyhat.",
+                "ro": "Dacă lăsați bicicleta mult timp, antifurtul poate îngheța.",
+                "en": "Leaving the bike outside too long can freeze the lock."
+              }
+            },
+            {
+              "name": "Jablonec Municipal Theatre",
+              "tip_5lang": {
+                "de": "Schneller Halt, Finger an den Bremsgriffen warm halten.",
+                "hu": "Gyors megálló, tartsa melegen az ujjait a fékkarokon.",
+                "ro": "Oprire rapidă, păstrați degetele calde pe manetele de frână.",
+                "en": "Quick stop; keep your fingers warm on the brake levers."
+              }
+            },
+            {
+              "name": "Mšeno Dam",
+              "tip_5lang": {
+                "de": "Der Wind weht hier im Winter sehr schneidend.",
+                "hu": "A szél itt télen nagyon metsző tud lenni.",
+                "ro": "Vântul bate foarte tăios aici pe timpul iernii.",
+                "en": "The winter wind can be very biting around the water."
+              }
+            },
+            {
+              "name": "Petřín Lookout Tower",
+              "tip_5lang": {
+                "de": "Nur für erfahrene Fahrer bei Schnee, Rutschgefahr.",
+                "hu": "Hóban csak tapasztaltaknak, nagy a csúszásveszély.",
+                "ro": "Doar pentru bicicliști experimentați pe zăpadă.",
+                "en": "Only for experienced riders in snow; high slip risk."
+              }
+            },
+            {
+              "name": "Church of the Sacred Heart",
+              "tip_5lang": {
+                "de": "Die Ziegelmauer strahlt im Winter Kälte ab.",
+                "hu": "A téglafal télen sugározza a hideget.",
+                "ro": "Zidul de cărămidă emană frig pe timpul iernii.",
+                "en": "The brick walls radiate cold during the winter months."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen oder niedriger Luftdruck helfen bei Glätte.",
+              "Akkus von E-Bikes entladen sich bei Kälte deutlich schneller.",
+              "Tragen Sie mehrere Schichten und winddichte Handschuhe.",
+              "Reinigen Sie das Rad nach der Tour vom ätzenden Streusalz."
+            ],
+            "hu": [
+              "A téli gumik vagy az alacsonyabb guminyomás segítenek.",
+              "Az e-bike akkumulátorok hidegben gyorsabban merülnek.",
+              "Viseljen több réteg ruhát és szélálló kesztyűt.",
+              "Túra után tisztítsa le a bringát a maró útszórósótól."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sau presiunea scăzută ajută pe polei.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Purtați mai multe straturi și mănuși rezistente la vânt.",
+              "Curățați bicicleta de sarea corozivă după cursă."
+            ],
+            "en": [
+              "Winter tires or lower tire pressure help on slippery paths.",
+              "E-bike batteries drain significantly faster in the cold.",
+              "Wear multiple layers and windproof gloves.",
+              "Clean your bike after the ride to remove corrosive road salt."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1480,188 @@
           "A navigation system is helpful for finding the different clusters.",
           "Do not leave valuables visible in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequeme Fahrt durch das verregnete Jablonec. Wir parken trocken im Zentrum für das Rathaus und das Museum. Die Fahrt zur Talsperre bietet schöne Ausblicke durch die Scheibenwischer, gefolgt von der Auffahrt zum Petřín.",
+            "hu": "Kényelmes autózás az esős Jablonecben. A központban parkolunk a városháza és a múzeum közelében. A gáthoz vezető út szép kilátást nyújt az ablaktörlők mögül, majd felhajtunk a Petřínre.",
+            "ro": "Călătorie confortabilă prin Jablonec-ul ploios. Parcăm în centru pentru primărie și muzeu. Drumul spre baraj oferă vederi frumoase prin ștergătoare, urmat de urcarea spre Petřín.",
+            "en": "Comfortable drive through rainy Jablonec. We park centrally for the town hall and museum. The drive to the dam offers scenic views through the wipers, followed by the ascent to Petřín."
+          },
+          "stops": [
+            {
+              "name": "Cluster Start: Parking in the City Center",
+              "tip_5lang": {
+                "de": "Zentrales Parkhaus nutzen, um trocken auszusteigen.",
+                "hu": "Használja a központi parkolóházat, hogy szárazon szálljon ki.",
+                "ro": "Folosiți parcarea centrală pentru a coborî la uscat.",
+                "en": "Use the central parking garage to stay dry while exiting."
+              }
+            },
+            {
+              "name": "New Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz, Schirm nicht vergessen.",
+                "hu": "Rövid séta a parkolótól, ne felejtse el az esernyőt.",
+                "ro": "Drum scurt de la parcare, nu uitați umbrela.",
+                "en": "Short walk from the car, don't forget your umbrella."
+              }
+            },
+            {
+              "name": "Museum of Glass and Jewellery",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor dem Gebäude oft belegt.",
+                "hu": "Az épület előtti parkolók gyakran foglaltak.",
+                "ro": "Locurile de parcare din fața clădirii sunt adesea ocupate.",
+                "en": "Parking spots directly in front are often full."
+              }
+            },
+            {
+              "name": "Mšeno Dam",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Ufer bietet Regenschutz im Auto.",
+                "hu": "A közvetlenül a parton lévő parkoló védelmet ad az autóban.",
+                "ro": "Parcarea de pe mal oferă adăpost în mașină pe ploaie.",
+                "en": "The lakeside parking allows for rain-watching from the car."
+              }
+            },
+            {
+              "name": "Petřín Lookout Tower",
+              "tip_5lang": {
+                "de": "Auffahrt schmal, bei Gegenverkehr und Regen Vorsicht.",
+                "hu": "Szűk felvezető út, esőben és szembejövő forgalomnál vigyázzon.",
+                "ro": "Drum de urcare îngust, atenție la trafic pe ploaie.",
+                "en": "Narrow access road; be careful in rain with oncoming traffic."
+              }
+            },
+            {
+              "name": "Church of the Sacred Heart",
+              "tip_5lang": {
+                "de": "Parken am Horní náměstí ist meist unkompliziert.",
+                "hu": "A parkolás a Horní náměstí-n általában egyszerű.",
+                "ro": "Parcarea în Horní náměstí este de obicei simplă.",
+                "en": "Parking at Horní náměstí is usually straightforward."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Fußgänger mit Regenschirmen in der Innenstadt.",
+              "Parkhäuser im Zentrum sind die trockenste Option.",
+              "Scheibenwischerblätter vor der Tour im Gebirge prüfen.",
+              "Die Straßen können bei erstem Regen sehr rutschig sein."
+            ],
+            "hu": [
+              "Figyeljen az esernyős gyalogosokra a belvárosban.",
+              "A központi parkolóházak a legszárazabb opciók.",
+              "Hegyi túra előtt ellenőrizze az ablaktörlő lapátokat.",
+              "Az utak az első esőnél nagyon csúszósak lehetnek."
+            ],
+            "ro": [
+              "Atenție la pietonii cu umbrele în centrul orașului.",
+              "Parcările etajate din centru sunt cea mai uscată opțiune.",
+              "Verificați ștergătoarele înainte de drumul la munte.",
+              "Străzile pot fi foarte alunecoase la prima ploaie."
+            ],
+            "en": [
+              "Watch out for pedestrians with umbrellas in the city center.",
+              "Indoor parking garages are your best bet to stay dry.",
+              "Check wiper blades before a mountain-area trip.",
+              "Roads can be very slick during the first rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Roadtrip durch Jablonec. Die beheizte Kabine macht die Tour bei Minusgraden angenehm. Von den Rathäusern zum Glasmuseum ist es nur ein Katzensprung. Die Talsperre glänzt weiß, und der Petřín bietet ein Winterpanorama.",
+            "hu": "Téli autós túra Jablonecben. A fűtött utastér kellemessé teszi az utat a mínuszokban. A városházától a múzeumig csak egy ugrás. A gát fehéren csillog, a Petřín pedig téli panorámát kínál.",
+            "ro": "Roadtrip de iarnă prin Jablonec. Cabina încălzită face turul plăcut la temperaturi negative. De la primării la muzeu e doar un pas. Barajul strălucește în alb, iar Petřín oferă o panoramă de iarnă.",
+            "en": "Winter road trip through Jablonec. The heated cabin makes the tour pleasant in freezing temps. It's just a short drive from the town halls to the museum. The dam shines in white, and Petřín offers a winter panorama."
+          },
+          "stops": [
+            {
+              "name": "Cluster Start: Parking in the City Center",
+              "tip_5lang": {
+                "de": "Untergrundparkplatz spart das Eiskratzen am Abend.",
+                "hu": "A földalatti parkolóval megspórolja az esti jégkaparást.",
+                "ro": "Parcarea subterană vă scutește de curățat gheața seara.",
+                "en": "Underground parking saves you from scraping ice later."
+              }
+            },
+            {
+              "name": "New Town Hall",
+              "tip_5lang": {
+                "de": "Parkplatzsuche im Schnee kann länger dauern.",
+                "hu": "A parkolóhely-keresés hóban tovább tarthat.",
+                "ro": "Căutarea unui loc de parcare în zăpadă poate dura mai mult.",
+                "en": "Finding a parking spot in snow may take longer."
+              }
+            },
+            {
+              "name": "Museum of Glass and Jewellery",
+              "tip_5lang": {
+                "de": "Haupteingang ist meist gut geräumt und gestreut.",
+                "hu": "A főbejárat általában jól le van takarítva és sózva.",
+                "ro": "Intrarea principală este de obicei bine curățată.",
+                "en": "The main entrance is usually well-cleared of snow."
+              }
+            },
+            {
+              "name": "Mšeno Dam",
+              "tip_5lang": {
+                "de": "Zufahrt zum Uferparkplatz bei Neuschnee teils schwierig.",
+                "hu": "A parti parkolóhoz való bejutás friss hóban nehéz lehet.",
+                "ro": "Accesul la parcarea de pe mal poate fi greu pe ninsoare.",
+                "en": "Lakeside parking access can be tricky in fresh snow."
+              }
+            },
+            {
+              "name": "Petřín Lookout Tower",
+              "tip_5lang": {
+                "de": "Winterreifen mit gutem Profil für den Hügel nötig.",
+                "hu": "Jó profilmélységű téli gumi szükséges a dombra.",
+                "ro": "Anvelope de iarnă cu profil bun necesare pentru deal.",
+                "en": "Winter tires with good tread are essential for the hill."
+              }
+            },
+            {
+              "name": "Church of the Sacred Heart",
+              "tip_5lang": {
+                "de": "Zentrale Lage sorgt für schnell geräumte Straßen.",
+                "hu": "A központi fekvés gyorsan letakarított utakat jelent.",
+                "ro": "Locația centrală garantează străzi curățate rapid.",
+                "en": "Central location ensures roads are plowed quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterausrüstung (Eiskratzer, Besen) ist in Jablonec Pflicht.",
+              "Vorsicht vor Schneepflügen im engen Stadtzentrum.",
+              "Lassen Sie das Auto bei extremem Glatteis lieber stehen.",
+              "Frostschutz für die Scheibenwaschanlage nicht vergessen."
+            ],
+            "hu": [
+              "Téli felszerelés (jégkaparó, kefe) kötelező Jablonecben.",
+              "Vigyázzon a hókotrókra a szűk belvárosban.",
+              "Extrém jegesedés esetén inkább hagyja az autót a parkolóban.",
+              "Ne felejtse el a fagyálló szélvédőmosó folyadékot."
+            ],
+            "ro": [
+              "Echipamentul de iarnă (răzuitoare, perie) e obligatoriu.",
+              "Atenție la utilajele de deszăpezire în centrul îngust.",
+              "În caz de polei extrem, lăsați mașina în parcare.",
+              "Nu uitați lichidul de parbriz rezistent la îngheț."
+            ],
+            "en": [
+              "Winter gear (ice scraper, brush) is a must in Jablonec.",
+              "Watch out for snow plows in the narrow city center.",
+              "Leave the car parked if extreme black ice is reported.",
+              "Don't forget anti-freeze windshield washer fluid."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2018,188 @@
           "Pay attention to the last bus connection of the day, especially from the outer sights.",
           "Validate your ticket on every ride to avoid fines."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Entspannt durch den Regen mit Bus und Bahn. Vormittags erreichen wir das Zentrum trocken. Das Glasmuseum ist ein Highlight im Warmen. Nachmittags bringt uns der Bus direkt zur Talsperre, wo wir das Wetter vom Ufer aus beobachten.",
+            "hu": "Pihentető utazás busszal és villamossal az esőben. Délelőtt szárazon érjük el a központot. Az Üvegmuzeum meleg menedék. Délután a busz egyenesen a gáthoz visz, ahol a partról figyeljük az időjárást.",
+            "ro": "Călătorie relaxantă cu autobuzul prin ploaie. Dimineața ajungem la uscat în centru. Muzeul Sticlei este un refugiu călduros. După-amiaza autobuzul ne duce la baraj, unde admirăm vremea de pe mal.",
+            "en": "Relaxing transit trip through the rain. Morning sees us arriving dry in the center. The Glass Museum is a warm highlight. In the afternoon, the bus takes us directly to the dam to watch the weather from the shore."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Bus Station (Center Cluster)",
+              "tip_5lang": {
+                "de": "Überdachte Bussteige bieten sofortigen Schutz.",
+                "hu": "A fedett peronok azonnali védelmet nyújtanak.",
+                "ro": "Peroanele acoperite oferă adăpost imediat.",
+                "en": "Covered bus platforms provide immediate shelter."
+              }
+            },
+            {
+              "name": "New Town Hall",
+              "tip_5lang": {
+                "de": "Haltestelle direkt am Platz, nur wenige Schritte.",
+                "hu": "Megálló közvetlenül a téren, csak pár lépés.",
+                "ro": "Stație direct în piață, la doar câțiva pași.",
+                "en": "The stop is right on the square, only a few steps away."
+              }
+            },
+            {
+              "name": "Museum of Glass and Jewellery",
+              "tip_5lang": {
+                "de": "Haupthaltestelle 'U Muzea' ist ganz nah.",
+                "hu": "Az 'U Muzea' főmegálló nagyon közel van.",
+                "ro": "Stația principală 'U Muzea' este foarte aproape.",
+                "en": "The 'U Muzea' main stop is very close by."
+              }
+            },
+            {
+              "name": "Mšeno Dam (Nature Cluster)",
+              "tip_5lang": {
+                "de": "Buslinie 101 oder 104 hält direkt am Wasser.",
+                "hu": "A 101-es vagy 104-es busz közvetlenül a víznél áll meg.",
+                "ro": "Autobuzul 101 sau 104 oprește direct lângă apă.",
+                "en": "Bus lines 101 or 104 stop right by the water."
+              }
+            },
+            {
+              "name": "Petřín Lookout Tower",
+              "tip_5lang": {
+                "de": "Längerer Fußweg von der Haltestelle, bergauf bei Regen.",
+                "hu": "Hosszabb séta a megállótól, esőben felfelé.",
+                "ro": "Drum mai lung de la stație, în urcare pe ploaie.",
+                "en": "Longer walk from the stop, uphill in the rain."
+              }
+            },
+            {
+              "name": "Church of the Sacred Heart",
+              "tip_5lang": {
+                "de": "Zentrale Haltestellen am Horní náměstí nutzen.",
+                "hu": "Használja a Horní náměstí központi megállóit.",
+                "ro": "Folosiți stațiile centrale din Horní náměstí.",
+                "en": "Use the central bus stops at Horní náměstí."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'IDOL' für Echtzeit-Infos bei Regen.",
+              "Fahrkarten können kontaktlos im Bus gekauft werden.",
+              "Haltestellenhäuschen sind meist gut gegen Wind geschützt.",
+              "Die Straßenbahn nach Liberec ist eine gute Regen-Alternative."
+            ],
+            "hu": [
+              "Használja az 'IDOL' appot valós idejű infókért.",
+              "A jegyek érintésmentesen megvásárolhatók a buszon.",
+              "A várók általában jól védettek a szél ellen.",
+              "A Liberecbe tartó villamos remek esős alternatíva."
+            ],
+            "ro": [
+              "Folosiți aplicația 'IDOL' pentru info în timp real.",
+              "Biletele pot fi cumpărate contactless în autobuz.",
+              "Refugiile din stații sunt bine protejate de vânt.",
+              "Tramvaiul spre Liberec este o alternativă bună pe ploaie."
+            ],
+            "en": [
+              "Use the 'IDOL' app for real-time info during rain.",
+              "Tickets can be purchased contactless inside the bus.",
+              "Bus shelters are generally well-protected from wind.",
+              "The tram to Liberec is a great rainy-day alternative."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kuschelige Transit-Tour durch das verschneite Jablonec. Die warmen Busse sind ein Segen bei Frost. Wir erkunden die Architektur und die Glaskunst, während draußen die Schneeflocken tanzen. Die Talsperre ist im Winterkleid besonders schön.",
+            "hu": "Kuckózós tömegközlekedési túra a havas Jablonecben. A meleg buszok áldásosak a fagyban. Felfedezzük az építészetet és az üvegművészetet, miközben kint táncolnak a pelyhek. A gát téli ruhájában különösen szép.",
+            "ro": "Tur confortabil cu transportul public prin Jablonec-ul înzăpezit. Autobuzele calde sunt o binecuvântare pe ger. Explorăm arhitectura și arta sticlei în timp ce afară ninge. Barajul e superb în haine de iarnă.",
+            "en": "Cozy transit tour through snowy Jablonec. Warm buses are a blessing in the frost. We explore architecture and glass art while snowflakes dance outside. The dam is especially beautiful in its winter coat."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Bus Station (Center Cluster)",
+              "tip_5lang": {
+                "de": "Warteräume sind im Winter beheizt.",
+                "hu": "A várótermek télen fűtöttek.",
+                "ro": "Sălile de așteptare sunt încălzite iarna.",
+                "en": "Waiting rooms are heated during the winter season."
+              }
+            },
+            {
+              "name": "New Town Hall",
+              "tip_5lang": {
+                "de": "Gehwege am Platz sind meist vorbildlich geräumt.",
+                "hu": "A téren a járdák általában példásan le vannak takarítva.",
+                "ro": "Trotuarele din piață sunt de obicei bine curățate.",
+                "en": "Sidewalks on the square are usually well-cleared."
+              }
+            },
+            {
+              "name": "Museum of Glass and Jewellery",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor der Tür.",
+                "hu": "A busz szinte közvetlenül az ajtó előtt áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața ușii.",
+                "en": "The bus stops almost right in front of the door."
+              }
+            },
+            {
+              "name": "Mšeno Dam (Nature Cluster)",
+              "tip_5lang": {
+                "de": "Im Winter seltenerer Takt, Fahrplan genau prüfen.",
+                "hu": "Télen ritkább menetrend, ellenőrizze pontosan.",
+                "ro": "Intervale mai lungi iarna, verificați bine orarul.",
+                "en": "Less frequent service in winter; check the schedule."
+              }
+            },
+            {
+              "name": "Petřín Lookout Tower",
+              "tip_5lang": {
+                "de": "Fester Tritt bei Schnee für den Aufstieg nötig.",
+                "hu": "A feljutáshoz biztos léptek kellenek a hóban.",
+                "ro": "E nevoie de pași siguri pe zăpadă pentru urcare.",
+                "en": "Sure footing is required for the snowy climb."
+              }
+            },
+            {
+              "name": "Church of the Sacred Heart",
+              "tip_5lang": {
+                "de": "Kurze Intervalle der Linien im Stadtzentrum.",
+                "hu": "Sűrű buszjáratok a városközpontban.",
+                "ro": "Intervale scurte pentru liniile din centrul orașului.",
+                "en": "Frequent bus service within the city center area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Schneefall Verspätung haben.",
+              "Die Heizung in den Fahrzeugen ist meist sehr kräftig.",
+              "Tragen Sie rutschfeste Schuhe für die Wege zur Haltestelle.",
+              "Im Winter ist die Aussicht vom Busfenster oft traumhaft."
+            ],
+            "hu": [
+              "Erős havazáskor a buszok késhetnek.",
+              "A járművek fűtése általában nagyon erős.",
+              "Viseljen csúszásgátló talpú cipőt a megállóig.",
+              "Télen a buszablakból gyakran álomszerű a kilátás."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri pe ninsoare abundentă.",
+              "Încălzirea în vehicule este de obicei foarte puternică.",
+              "Purtați pantofi antiderapanți pentru drumul spre stație.",
+              "Iarna, priveliștea de la geamul autobuzului e de vis."
+            ],
+            "en": [
+              "Buses may experience delays during heavy snowfall.",
+              "Vehicle heating is usually very powerful here.",
+              "Wear non-slip shoes for the walks to/from stops.",
+              "The winter views from the bus windows are often magical."
+            ]
+          }
+        }
       }
     }
   }

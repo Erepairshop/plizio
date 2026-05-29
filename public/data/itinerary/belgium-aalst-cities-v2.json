@@ -296,6 +296,188 @@
           "The 't Gasthuys museum is closed on Mondays.",
           "Wear comfortable shoes for the cobblestones in the historic center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Aalst bei Regen beginnt am Grote Markt, wo die Arkaden Schutz bieten. Vormittags erkunden wir das Belfried und die imposante Sint-Martinuskerk, die ideale Zufluchtsorte vor Schauern sind. Mittags wärmen wir uns im Stadtmuseum 't Gasthuys auf. Der Spaziergang endet im Stadtpark, dessen dichte Alleen auch bei leichtem Nieselregen ihren Reiz behalten, bevor wir in ein lokales Café einkehren.",
+            "hu": "Aalst esős napokon is hangulatos: a Grote Markt árkádjai alatt kezdünk, majd a világörökség részét képező belfort és a monumentális Szent Márton-templom nyújt menedéket a záporok elől. Délután az egykori kórházépületben berendezett 't Gasthuys múzeumban merülünk el a helytörténetben. A sétát a városligetben zárjuk, ahol a fák koronája alatt hallgathatjuk az eső kopogását.",
+            "ro": "Aalst pe ploaie începe în Grote Markt, profitând de porțiunile acoperite. Dimineața vizităm turnul belfort și biserica Sint-Martinus, locuri perfecte pentru a rămâne la adăpost. Prânzul și după-amiaza sunt dedicate muzeului 't Gasthuys, un spațiu interior fascinant. Încheiem ziua cu o scurtă plimbare prin parcul orașului, unde umbrela este indispensabilă pentru a admira peisajul verde.",
+            "en": "Rainy Aalst starts at the Grote Markt, using the historic facades for cover. The morning is spent inside the Belfry and the grand St. Martin's Church, avoiding the heaviest showers. At noon, the 't Gasthuys museum provides a deep dive into local lore in a dry environment. We wrap up at the City Park, where the wet paths offer a unique, moody atmosphere before heading to a cozy tavern."
+          },
+          "stops": [
+            {
+              "name": "Grote Markt",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Eingänge der Geschäfte rund um den Platz als Regenschutz.",
+                "hu": "Használja a tér körüli üzletek bejáratait és árkádjait esővédőként.",
+                "ro": "Folosiți intrările magazinelor din jurul pieței pentru a vă adăposti.",
+                "en": "Use the shop entrances and arcades around the square as temporary rain cover."
+              }
+            },
+            {
+              "name": "Dirk Martensbeeld",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; die Statue glänzt besonders schön im Regen.",
+                "hu": "Csak egy gyors fotó; a szobor felülete különlegesen csillog az esőben.",
+                "ro": "Oprire rapidă pentru poze; statuia strălucește frumos sub ploaie.",
+                "en": "Quick photo stop; the statue has a unique metallic sheen in the rain."
+              }
+            },
+            {
+              "name": "Belfort van Aalst",
+              "tip_5lang": {
+                "de": "Perfekt bei Regen: Erkunden Sie das Innere dieses UNESCO-Erbes.",
+                "hu": "Tökéletes esőhelyszín: fedezze fel az UNESCO világörökségi torony belsejét.",
+                "ro": "Perfect pe ploaie: explorați interiorul acestui turn inclus în patrimoniul UNESCO.",
+                "en": "Ideal for rain: explore the interior of this UNESCO-listed belfry tower."
+              }
+            },
+            {
+              "name": "Sint-Martinuskerk",
+              "tip_5lang": {
+                "de": "Trockener Rückzugsort mit beeindruckenden Rubens-Gemälden.",
+                "hu": "Száraz menedék lenyűgöző Rubens-festményekkel a falakon.",
+                "ro": "Refugiu uscat cu picturi impresionante de Rubens în interior.",
+                "en": "A dry sanctuary featuring impressive paintings by Rubens."
+              }
+            },
+            {
+              "name": "'t Gasthuys",
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt hier, wenn der Schauer draußen anhält.",
+                "hu": "Maradjon tovább a kiállításokon, ha kint éppen eleredt az eső.",
+                "ro": "Prelungiți vizita aici dacă afară plouă torențial.",
+                "en": "Stay longer in the exhibits if there is a heavy downpour outside."
+              }
+            },
+            {
+              "name": "Stadspark Aalst",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind weniger schlammig; ideal für den Regen.",
+                "hu": "Az aszfaltozott utak kevésbé sárosak, esőben is jól járhatóak.",
+                "ro": "Aleile asfaltate sunt mai puțin noroioase; ideale pentru ploaie.",
+                "en": "The paved paths are less muddy and better for walking in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster im Zentrum Pfützen bilden kann.",
+              "Die Sint-Martinuskerk bietet viel Platz für eine trockene Besichtigungspause.",
+              "Museen in Aalst sind montags oft geschlossen; prüfen Sie die Öffnungszeiten.",
+              "Ein großer Schirm ist bei Wind in den engen Gassen stabiler als ein kleiner."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a belvárosi macskaköveken megállhat a víz.",
+              "A Szent Márton-templom tágas belső tere ideális egy hosszabb száraz szünetre.",
+              "Az 't Gasthuys kávézójában megvárhatja a nagyobb záporok végét.",
+              "Erős szél esetén a szűk utcákban a viharálló esernyő a legjobb választás."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul din centru poate reține apa.",
+              "Biserica Sint-Martinus este spațioasă și oferă un refugiu excelent.",
+              "Cafenelele din Grote Markt sunt perfecte pentru a aștepta trecerea ploii.",
+              "O umbrelă rezistentă la vânt este necesară în apropierea zonelor deschise."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles tend to form on the old cobblestones.",
+              "St. Martin's Church is very spacious and perfect for a dry rest stop.",
+              "Museum cafes in Aalst are great spots to wait out sudden showers.",
+              "A sturdy umbrella is recommended for the windier sections near the park."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der winterliche Rundgang durch Aalst konzentriert sich auf die warmen Innenräume. Nach einem kurzen Stopp am Grote Markt lockt die Wärme der Sint-Martinuskerk. Der Nachmittag gehört dem 't Gasthuys Museum, wo man die Geschichte der Stadt gemütlich erkunden kann. Da es bereits gegen 17:00 Uhr dunkel wird, beenden wir den Tag im beleuchteten Stadtpark, bevor wir uns bei einer heißen Schokolade aufwärmen.",
+            "hu": "A téli Aalst a belső terek melegéről szól. A Grote Markt hideg kövei után a Szent Márton-templom fűtött csendje vár. A délutánt a 't Gasthuys múzeumban töltjük, ahol kényelmesen megismerhetjük a város múltját. Mivel korán sötétedik, a kivilágított városligeti sétát egy forró csokoládéval zárjuk az egyik hangulatos belvárosi cukrászdában.",
+            "ro": "Circuitul de iarnă în Aalst se concentrează pe interioarele primitoare. După o scurtă vizită în Grote Markt, ne încălzim în biserica Sint-Martinus. După-amiaza este dedicată muzeului 't Gasthuys, ferit de gerul de afară. Deoarece se întunecă devreme, vizităm parcul orașului la crepuscul, admirând luminile stradale înainte de a căuta un loc cu ciocolată caldă.",
+            "en": "Winter in Aalst is all about finding cozy indoor gems. After a brisk start at Grote Markt, seek warmth inside the grand St. Martin's Church. Spend the afternoon at 't Gasthuys museum, where history keeps you entertained and dry. As sunset hits around 5 PM, enjoy the atmospheric lighting of the City Park before retreating to a warm local pub or cafe."
+          },
+          "stops": [
+            {
+              "name": "Grote Markt",
+              "tip_5lang": {
+                "de": "Besuchen Sie die umliegenden Cafés für ein warmes Getränk zwischendurch.",
+                "hu": "Térjen be a tér körüli kávézókba egy gyors melegítő italra.",
+                "ro": "Vizitați cafenelele din jur pentru o băutură caldă rapidă.",
+                "en": "Pop into the surrounding cafes for a quick warm beverage."
+              }
+            },
+            {
+              "name": "Dirk Martensbeeld",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Stopp; bei Frost können die Stufen rutschig sein.",
+                "hu": "Csak rövid megálló; fagy esetén a lépcsők csúszósak lehetnek.",
+                "ro": "Oprire scurtă; treptele pot fi alunecoase în caz de îngheț.",
+                "en": "Quick stop only; steps may be slippery if there is frost."
+              }
+            },
+            {
+              "name": "Belfort van Aalst",
+              "tip_5lang": {
+                "de": "Die Ausstellungen im Inneren bieten Schutz vor der winterlichen Kälte.",
+                "hu": "A belső kiállítások védelmet nyújtanak a téli hideg ellen.",
+                "ro": "Expozițiile din interior oferă protecție împotriva frigului de iarnă.",
+                "en": "The indoor exhibits provide shelter from the winter chill."
+              }
+            },
+            {
+              "name": "Sint-Martinuskerk",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort zum Aufwärmen und Bewundern der sakralen Kunst.",
+                "hu": "Csendes hely a felmelegedésre és a szakrális művészet csodálatára.",
+                "ro": "Un loc liniștit pentru a vă încălzi și a admira arta sacră.",
+                "en": "A peaceful spot to warm up while admiring sacred art."
+              }
+            },
+            {
+              "name": "'t Gasthuys",
+              "tip_5lang": {
+                "de": "Ideal, um den kältesten Teil des Nachmittags im Warmen zu verbringen.",
+                "hu": "Ideális helyszín a délután leghidegebb óráinak eltöltésére.",
+                "ro": "Ideal pentru a petrece cea mai rece parte a amiezii la căldură.",
+                "en": "Perfect for spending the coldest part of the afternoon indoors."
+              }
+            },
+            {
+              "name": "Stadspark Aalst",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Ruhe; ziehen Sie sich warm an.",
+                "hu": "Élvezze a téli nyugalmat; öltözzön rétegesen a sétához.",
+                "ro": "Bucurați-vă de liniștea iernii; îmbrăcați-vă bine pentru plimbare.",
+                "en": "Enjoy the winter silence; dress in warm layers for the walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Außenaktivitäten vor 16:30 Uhr ein, da es danach dunkel wird.",
+              "Tragen Sie griffige Schuhe, da das Kopfsteinpflaster bei Frost glatt ist.",
+              "Die Kirchen in Belgien können im Winter recht kühl sein; behalten Sie die Jacke an.",
+              "Probieren Sie lokale Winterspezialitäten wie herzhafte Eintöpfe in den Tavernen."
+            ],
+            "hu": [
+              "A szabadtéri programokat 16:30-ig fejezze be a korai sötétedés miatt.",
+              "Viseljen jó tapadású talpú cipőt a fagyos macskakövek miatt.",
+              "A templomok télen is hűvösek lehetnek, ne vegye le a kabátját odabent.",
+              "Kóstolja meg a helyi téli söröket vagy egy forró flamand gulyást."
+            ],
+            "ro": [
+              "Planificați vizitele în aer liber înainte de 16:30, când se lasă întunericul.",
+              "Purtați încălțăminte cu talpă aderentă pentru pavajul înghețat.",
+              "Bisericile pot fi destul de reci iarna; păstrați haina pe dvs.",
+              "Căutați restaurante care servesc preparate calde tradiționale belgiene."
+            ],
+            "en": [
+              "Finish outdoor sightseeing by 4:30 PM due to early sunset.",
+              "Wear shoes with good grip as cobblestones become slippery when frozen.",
+              "Belgian churches can be chilly in winter; keep your coat on inside.",
+              "Warm up with local winter beers or a hearty Flemish stew."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -582,6 +764,188 @@
           "Use the bike paths along the Dender river.",
           "Always lock your bike securely, especially at the station."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Aalst bei Regen erfordert gute Kleidung. Wir starten am Statieplein und radeln zum Kulturzentrum Netwerk. Nach einem schnellen Halt am Grote Markt bietet die Sint-Martinuskerk Schutz. Das 't Gasthuys Museum ist das Highlight am Nachmittag, bevor wir die Tour im Stadspark beenden. Die Wege sind meist asphaltiert, aber Vorsicht vor rutschigen Markierungen auf den Straßen.",
+            "hu": "Az esős aalsti kerékpározáshoz elengedhetetlen a vízálló ruházat. A Statiepleinről indulunk a Netwerk kulturális központ felé. A Grote Markt érintése után a Szent Márton-templom nyújt fedett pihenőt. Délután az 't Gasthuys múzeum termeiben száradhatunk meg, majd a városliget aszfaltozott útjain zárjuk a kört, ügyelve a csúszós útburkolati jelekre.",
+            "ro": "O tură cu bicicleta prin Aalst pe ploaie necesită echipament adecvat. Pornim de la Statieplein spre centrul cultural Netwerk. După o scurtă oprire în Grote Markt, ne adăpostim în biserica Sint-inus. Muzeul 't Gasthuys este destinația principală de după-amiază, terminând traseul în parcul orașului pe alei asfaltate, evitând marcajele rutiere alunecoase.",
+            "en": "Cycling through Aalst in the rain requires waterproof gear. Start at Statieplein and head to Netwerk Aalst for some indoor culture. After Grote Markt, seek cover in St. Martin's Church. The 't Gasthuys museum is the perfect afternoon sanctuary. Finish the loop at the City Park, staying on paved paths and being careful of slippery road markings in the wet."
+          },
+          "stops": [
+            {
+              "name": "Statieplein",
+              "tip_5lang": {
+                "de": "Es gibt überdachte Fahrradständer direkt am Bahnhofseingang.",
+                "hu": "Közvetlenül az állomás bejáratánál fedett kerékpártárolók találhatók.",
+                "ro": "Există suporturi de biciclete acoperite chiar la intrarea în gară.",
+                "en": "Covered bike racks are available right at the station entrance."
+              }
+            },
+            {
+              "name": "Netwerk Aalst",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nah am Eingang, um schnell ins Trockene zu kommen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy gyorsan fedett helyre érjen.",
+                "ro": "Parcați bicicleta aproape de intrare pentru a ajunge rapid la adăpost.",
+                "en": "Park your bike close to the entrance to get indoors quickly."
+              }
+            },
+            {
+              "name": "Grote Markt",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf dem nassen Kopfsteinpflaster.",
+                "hu": "Óvatosan fékezzen a vizes, csúszós macskaköveken.",
+                "ro": "Frânați cu grijă pe pavajul umed și alunecos.",
+                "en": "Brake carefully on the wet and slippery cobblestones."
+              }
+            },
+            {
+              "name": "Sint-Martinuskerk",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für eine kurze Trocknungspause in der Kirche.",
+                "hu": "Használja ki a megállót egy rövid száradásra a templomban.",
+                "ro": "Folosiți oprirea pentru o scurtă pauză de uscare în biserică.",
+                "en": "Use this stop for a short drying-off break inside the church."
+              }
+            },
+            {
+              "name": "'t Gasthuys",
+              "tip_5lang": {
+                "de": "Sichere Fahrradabstellplätze befinden sich im Innenhof oder davor.",
+                "hu": "Biztonságos kerékpárparkolók találhatók az udvarban vagy a bejáratnál.",
+                "ro": "Locuri sigure de parcare pentru biciclete se află în curte sau în față.",
+                "en": "Secure bike parking spots are located in the courtyard or out front."
+              }
+            },
+            {
+              "name": "Stadspark Aalst",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den Hauptwegen, um Pfützen und Matsch zu vermeiden.",
+                "hu": "Maradjon a főutakon, hogy elkerülje a nagyobb tócsákat és a sarat.",
+                "ro": "Rămâneți pe aleile principale pentru a evita bălțile și noroiul.",
+                "en": "Stick to the main paths to avoid large puddles and mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie weiße Straßenmarkierungen, da diese bei Regen extrem glatt sind.",
+              "Ein Sattelschutz hält Ihren Sitz während der Besichtigungen trocken.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit im Verkehr.",
+              "Die Radwege in Aalst sind gut ausgebaut, aber das Zentrum hat viel Kopfsteinpflaster."
+            ],
+            "hu": [
+              "Kerülje a fehér útburkolati jeleket, mert esőben rendkívül csúszósak.",
+              "Használjon nyeregvédőt, hogy az ülése száraz maradjon a látogatások alatt.",
+              "Viseljen élénk színű esőkabátot a jobb láthatóság érdekében.",
+              "Aalst kerékpárútjai jók, de a központban sok a macskaköves szakasz."
+            ],
+            "ro": [
+              "Evitați marcajele rutiere albe, deoarece sunt extrem de alunecoase pe ploaie.",
+              "O protecție pentru șa vă va menține scaunul uscat în timpul vizitelor.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate în trafic.",
+              "Pistele de biciclete sunt bune, dar centrul are multe zone cu pavaj."
+            ],
+            "en": [
+              "Avoid white road markings as they become extremely slick in the rain.",
+              "A saddle cover will keep your seat dry while you are exploring indoors.",
+              "Wear high-visibility rain gear to stay safe in city traffic.",
+              "Aalst's bike lanes are well-maintained, but watch out for cobblestones in the center."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren in Aalst im Winter ist erfrischend, wenn man warm angezogen ist. Vom Statieplein geht es zum warmen Netwerk Aalst. Der Grote Markt wirkt im Winterlicht besonders malerisch. Wir verbringen viel Zeit in der Sint-Martinuskerk und im 't Gasthuys, um der Kälte zu entfliehen. Der Stadspark bietet eine klare Winterluft, bevor die Tour bei Einbruch der Dunkelheit am Bahnhof endet.",
+            "hu": "A téli biciklizés Aalstban frissítő élmény megfelelő öltözetben. A Statiepleintől a fűtött Netwerk központba tekerünk. A Grote Markt különleges arcát mutatja a téli fényekben. Hosszabb időt töltünk a Szent Márton-templomban és az 't Gasthuys múzeumban, hogy átmelegedjünk. A városliget tiszta téli levegője után a sötétedéssel egy időben érünk vissza az állomásra.",
+            "ro": "Mersul cu bicicleta prin Aalst iarna este revigorant cu haine groase. De la Statieplein mergem spre căldura din Netwerk Aalst. Grote Markt arată pitoresc în lumina de iarnă. Petrecem timp în biserica Sint-Martinus și muzeul 't Gasthuys pentru a evita gerul. Parcul orașului oferă un aer curat de iarnă înainte ca tura să se încheie la gară odată cu lăsarea serii.",
+            "en": "Cycling Aalst in winter is refreshing if you are dressed in layers. Head from Statieplein to the warmth of Netwerk Aalst. The Grote Markt looks particularly scenic in the winter light. We spend extra time at St. Martin's Church and 't Gasthuys museum to escape the cold. The City Park offers crisp winter air before the tour ends at the station as darkness falls."
+          },
+          "stops": [
+            {
+              "name": "Statieplein",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihren Reifendruck; bei Kälte sinkt dieser oft leicht.",
+                "hu": "Ellenőrizze a guminyomást; a hidegben gyakran csökken a nyomás.",
+                "ro": "Verificați presiunea în pneuri; aceasta scade adesea la temperaturi joase.",
+                "en": "Check your tire pressure; it often drops slightly in cold weather."
+              }
+            },
+            {
+              "name": "Netwerk Aalst",
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um sich bei Kunst und Kaffee aufzuwärmen.",
+                "hu": "Nagyszerű hely a felmelegedésre művészet és kávé társaságában.",
+                "ro": "Un loc excelent pentru a vă încălzi cu artă și o cafea.",
+                "en": "A great place to warm up with contemporary art and coffee."
+              }
+            },
+            {
+              "name": "Grote Markt",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisglätte zwischen den Pflastersteinen.",
+                "hu": "Vigyázzon a macskakövek közötti esetleges jegesedésre.",
+                "ro": "Atenție la porțiunile înghețate dintre pietrele de pavaj.",
+                "en": "Watch out for icy patches between the cobblestones."
+              }
+            },
+            {
+              "name": "Sint-Martinuskerk",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher; die Kälte entlädt E-Bike-Akkus schneller.",
+                "hu": "Parkoljon biztonságosan; a hideg gyorsabban meríti az e-bike akkukat.",
+                "ro": "Parcați sigur; frigul descarcă mai repede bateriile bicicletelor electrice.",
+                "en": "Park securely; cold weather drains e-bike batteries faster."
+              }
+            },
+            {
+              "name": "'t Gasthuys",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Winterkleidung kurz abzulegen.",
+                "hu": "Használja a ruhatárat, hogy levehesse a nehéz téli kabátot a látogatás idejére.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele groase în timpul vizitei.",
+                "en": "Use the cloakroom to drop off heavy winter gear during your visit."
+              }
+            },
+            {
+              "name": "Stadspark Aalst",
+              "tip_5lang": {
+                "de": "Bei Sonnenuntergang (ca. 17 Uhr) wird es im Park schnell sehr kalt.",
+                "hu": "Naplemente után (kb. 17 óra) a parkban hirtelen lehűl a levegő.",
+                "ro": "După apus (aprox. ora 17), temperatura în parc scade rapid.",
+                "en": "After sunset (around 5 PM), it gets very cold in the park quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe und eine Mütze unter dem Helm gegen den Fahrtwind.",
+              "Die Tage sind kurz; stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert.",
+              "Streusalz kann Ihr Fahrrad angreifen; wischen Sie es nach der Tour kurz ab.",
+              "Planen Sie mehr Zeit für Besichtigungen im Warmen ein als für das Fahren."
+            ],
+            "hu": [
+              "Viseljen kesztyűt és sisak alá vehető sapkát a menetszél ellen.",
+              "Rövidek a nappalok; ellenőrizze, hogy jól működnek-e a lámpái.",
+              "Az útszóró só károsíthatja a bringát, törölje le a túra után.",
+              "Több időt szánjon a benti melegedésre, mint a tényleges tekerésre."
+            ],
+            "ro": [
+              "Purtați mănuși și o căciulă sub cască împotriva curentului de aer.",
+              "Zilele sunt scurte; asigurați-vă că luminile bicicletei funcționează bine.",
+              "Sarea de pe drum poate afecta bicicleta; ștergeți-o după utilizare.",
+              "Alocați mai mult timp vizitelor la căldură decât pedalatului propriu-zis."
+            ],
+            "en": [
+              "Wear gloves and a thin hat under your helmet to block the cold wind.",
+              "Days are short; ensure your bike lights are in perfect working order.",
+              "Road salt can corrode your bike; give it a quick wipe after the ride.",
+              "Schedule more time for indoor breaks than for actual cycling time."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -851,6 +1215,206 @@
           "Leave the car parked while visiting the central attractions on foot.",
           "Parking at the Stadspark is usually hassle-free."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Aalst bei Regen bequem erkunden. Wir nutzen zentrale Parkhäuser wie Keizershallen oder Hopmarkt. Die Highlights wie der Grote Markt und das Belfried sind nur kurze Wege vom Parkplatz entfernt. Den Nachmittag verbringen wir trocken in der Sint-Martinuskerk und im 't Gasthuys. Der Stadspark wird zum Abschluss kurz besucht, bevor wir entspannt im Auto zurückfahren.",
+            "hu": "Autóval az esős Aalst is kényelmesen felfedezhető. A központi parkolóházakat (Keizershallen, Hopmarkt) használjuk bázisként. A látnivalók, mint a Grote Markt és a belfort, csak rövid sétára vannak a parkolótól. A délutánt szárazon töltjük a Szent Márton-templomban és az 't Gasthuys múzeumban. A napot egy rövid ligeti kitérővel zárjuk, majd kényelmesen indulunk haza.",
+            "ro": "Cu mașina, Aalst poate fi explorat confortabil chiar și pe ploaie. Folosim parcări centrale precum Keizershallen sau Hopmarkt. Obiectivele principale sunt la mică distanță de mers pe jos. După-amiaza rămânem la adăpost în biserica Sint-Martinus și muzeul 't Gasthuys. Încheiem ziua cu o scurtă vizită în parcul orașului, apoi ne întoarcem relaxați la mașină.",
+            "en": "Exploring Aalst by car is a breeze in the rain. Use central parking garages like Keizershallen or Hopmarkt as your base. Major sights like Grote Markt and the Belfry are just a short dash from your vehicle. Spend a dry afternoon at St. Martin's Church and 't Gasthuys museum. Finish with a quick drive-by or short walk at the City Park before heading out."
+          },
+          "stops": [
+            {
+              "name": "Keizershallen",
+              "tip_5lang": {
+                "de": "Großer Parkplatz; idealer Startpunkt, um schnell ins Trockene zu kommen.",
+                "hu": "Tágas parkoló; ideális kiindulópont, hogy gyorsan fedett helyre érjen.",
+                "ro": "Parcare spațioasă; punct de pornire ideal pentru a ajunge rapid la adăpost.",
+                "en": "Spacious parking; an ideal starting point to get indoors quickly."
+              }
+            },
+            {
+              "name": "Statieplein",
+              "tip_5lang": {
+                "de": "Kurzparkzone; nutzen Sie den Halt für ein schnelles Foto vom Bahnhof.",
+                "hu": "Rövid távú parkolózóna; álljon meg egy gyors fotóra az állomásnál.",
+                "ro": "Zonă de parcare pe termen scurt; opriți pentru o poză rapidă la gară.",
+                "en": "Short-term parking zone; stop for a quick photo of the station."
+              }
+            },
+            {
+              "name": "Grote Markt",
+              "tip_5lang": {
+                "de": "Parken Sie im nahen Hopmarkt-Parkhaus für den kürzesten Fußweg.",
+                "hu": "Parkoljon a közeli Hopmarkt parkolóházban a legrövidebb gyalogútért.",
+                "ro": "Parcați în parcarea Hopmarkt pentru cel mai scurt drum pe jos.",
+                "en": "Park at the nearby Hopmarkt garage for the shortest walk to the square."
+              }
+            },
+            {
+              "name": "Belfort van Aalst",
+              "tip_5lang": {
+                "de": "Vom Hopmarkt-Parkhaus sind es nur 2 Minuten Fußweg zum Belfried.",
+                "hu": "A Hopmarkt parkolóháztól mindössze 2 perc séta a belfort.",
+                "ro": "Din parcarea Hopmarkt sunt doar 2 minute de mers până la belfort.",
+                "en": "It is only a 2-minute walk to the Belfry from the Hopmarkt garage."
+              }
+            },
+            {
+              "name": "Sint-Martinuskerk",
+              "tip_5lang": {
+                "de": "Lassen Sie den Schirm im Auto, wenn Sie im Hopmarkt parken (kurzer Weg).",
+                "hu": "Az esernyőt a kocsiban hagyhatja, ha a Hopmarktban parkol (nagyon közeli).",
+                "ro": "Puteți lăsa umbrela în mașină dacă parcați la Hopmarkt (drum foarte scurt).",
+                "en": "You can leave your umbrella in the car if parking at Hopmarkt (very close)."
+              }
+            },
+            {
+              "name": "'t Gasthuys",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es begrenzte Parkplätze an der Straße; Parkhaus ist sicherer.",
+                "hu": "A közelben korlátozott utcai parkolás van; a parkolóház biztosabb választás.",
+                "ro": "Parcare limitată pe stradă în apropiere; parcarea etajată e mai sigură.",
+                "en": "Limited street parking nearby; a parking garage is a safer bet in the rain."
+              }
+            },
+            {
+              "name": "Stadspark Aalst",
+              "tip_5lang": {
+                "de": "Der Parkplatz am Desmetstraat bietet direkten Zugang zum Park.",
+                "hu": "A Desmetstraat felőli parkoló közvetlen bejutást kínál a ligetbe.",
+                "ro": "Parcarea de pe strada Desmet oferă acces direct în parc.",
+                "en": "The parking lot at Desmetstraat provides direct access to the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App '4411' für einfaches Parkplatz-Bezahlen in Aalst.",
+              "Zentrale Parkhäuser halten Sie beim Aussteigen länger im Trockenen.",
+              "Vermeiden Sie die engen Gassen im Zentrum bei starkem Regen (Sichtbarkeit).",
+              "Die meisten Sehenswürdigkeiten liegen in der Fußgängerzone; planen Sie Parklaufzeit ein."
+            ],
+            "hu": [
+              "Használja a '4411' alkalmazást a kényelmes parkolási fizetéshez.",
+              "A központi parkolóházakból kijőve rövidebb ideig kell az esőben gyalogolnia.",
+              "Heves esőben kerülje a belváros szűk utcáit a korlátozott látási viszonyok miatt.",
+              "A legtöbb látnivaló gyalogos zónában van, számoljon a parkolótól való sétával."
+            ],
+            "ro": [
+              "Folosiți aplicația '4411' pentru plata ușoară a parcării în Aalst.",
+              "Parcările etajate centrale vă mențin uscat mai mult timp la coborâre.",
+              "Evitați străzile foarte înguste din centru în timpul ploilor torențiale.",
+              "Majoritatea obiectivelor sunt în zonă pietonală; alocați timp pentru mersul pe jos."
+            ],
+            "en": [
+              "Use the '4411' app for easy mobile parking payments in Aalst.",
+              "Central multi-story car parks keep you dry for longer when exiting.",
+              "Avoid very narrow streets in the center during heavy rain for better safety.",
+              "Most sights are in pedestrian zones; factor in walking time from the garage."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Aalst mit dem Auto bedeutet kurze Wege an der kalten Luft. Wir parken zentral und besuchen die festlich beleuchtete Grote Markt. Die Sint-Martinuskerk bietet einen ruhigen, geschützten Ort. Der Nachmittag im 't Gasthuys Museum ist ideal, um sich aufzuwärmen. Bevor es dunkel wird, fahren wir zum Stadspark für einen kurzen Winterspaziergang und genießen die warme Heizung im Auto auf dem Rückweg.",
+            "hu": "A téli Aalst autóval a hidegben töltött idő minimalizálásáról szól. Központi helyen parkolunk, és megcsodáljuk a kivilágított Grote Marktot. A Szent Márton-templom védett menedék. A délután az 't Gasthuys múzeumban telik, ahol teljesen átmelegedhetünk. Sötétedés előtt még teszünk egy rövid kört a városligetben, majd élvezzük az autó fűtését a hazaúton.",
+            "ro": "Aalst iarna cu mașina înseamnă drumuri scurte prin aerul rece. Parcăm central și vizităm Grote Markt iluminat festiv. Biserica Sint-Martinus oferă un spațiu liniștit și protejat. După-amiaza la muzeul 't Gasthuys este ideală pentru încălzire. Înainte de lăsarea serii, mergem la parcul orașului pentru o scurtă plimbare, apoi ne bucurăm de căldura din mașină.",
+            "en": "Winter in Aalst by car means minimizing time spent in the freezing air. Park centrally to see the festively lit Grote Markt. St. Martin's Church provides a quiet, sheltered sanctuary. An afternoon at 't Gasthuys museum is the perfect way to stay warm. Before dark, drive to the City Park for a brisk winter stroll, then enjoy the car's heater on the way home."
+          },
+          "stops": [
+            {
+              "name": "Keizershallen",
+              "tip_5lang": {
+                "de": "Oft weniger überlaufen als der Hopmarkt; ideal im Winter.",
+                "hu": "Gyakran kevésbé zsúfolt, mint a Hopmarkt; télen ideális választás.",
+                "ro": "Adesea mai puțin aglomerat decât Hopmarkt; ideal iarna.",
+                "en": "Often less crowded than the Hopmarkt garage; ideal for winter."
+              }
+            },
+            {
+              "name": "Statieplein",
+              "tip_5lang": {
+                "de": "Der beleuchtete Bahnhof ist im Winter ein schönes Fotomotiv.",
+                "hu": "A kivilágított állomásépület télen szép fotótéma.",
+                "ro": "Gara iluminată este un subiect frumos pentru fotografii iarna.",
+                "en": "The illuminated station building is a great photo subject in winter."
+              }
+            },
+            {
+              "name": "Grote Markt",
+              "tip_5lang": {
+                "de": "Parken Sie im Hopmarkt-Parkhaus, um direkt im warmen Zentrum zu sein.",
+                "hu": "Parkoljon a Hopmarkt parkolóházban, hogy rögtön a meleg központban legyen.",
+                "ro": "Parcați la Hopmarkt pentru a ajunge direct în centrul primitor.",
+                "en": "Park at Hopmarkt to be immediately in the heart of the city."
+              }
+            },
+            {
+              "name": "Belfort van Aalst",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg vom Auto, um nicht auszukühlen.",
+                "hu": "Használja ki a rövid gyalogutat az autótól, hogy ne fázzon meg.",
+                "ro": "Profitați de drumul scurt de la mașină pentru a nu vă răci.",
+                "en": "Take advantage of the short walk from your car to avoid the cold."
+              }
+            },
+            {
+              "name": "Sint-Martinuskerk",
+              "tip_5lang": {
+                "de": "Im Inneren ist es windgeschützt, aber ziehen Sie sich dennoch warm an.",
+                "hu": "Odabent szélvédett a hely, de azért öltözzön fel melegen.",
+                "ro": "Interiorul este ferit de vânt, dar îmbrăcați-vă totuși bine.",
+                "en": "The interior is sheltered from the wind, but still dress warmly."
+              }
+            },
+            {
+              "name": "'t Gasthuys",
+              "tip_5lang": {
+                "de": "Das Museum ist gut beheizt; ideal für eine längere Pause.",
+                "hu": "A múzeum jól fűtött; ideális helyszín egy hosszabb pihenőre.",
+                "ro": "Muzeul este bine încălzit; ideal pentru o pauză mai lungă.",
+                "en": "The museum is well-heated; perfect for a longer indoor break."
+              }
+            },
+            {
+              "name": "Stadspark Aalst",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Parkplatz am Park.",
+                "hu": "Ügyeljen a jeges foltokra a liget melletti parkolóban.",
+                "ro": "Atenție la porțiunile înghețate din parcarea de lângă parc.",
+                "en": "Watch out for icy spots in the parking lot next to the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Frostschutzmittel aufgefüllt ist.",
+              "Parkhäuser schützen Ihr Auto vor dem Einfrieren der Scheiben während des Besuchs.",
+              "Die Parkgebühren können im Winter per App aus dem Warmen verlängert werden.",
+              "Vorsicht auf dem Kopfsteinpflaster im Zentrum, wenn es geschneit hat (Rutschgefahr)."
+            ],
+            "hu": [
+              "Ellenőrizze, hogy fel van-e töltve a fagyálló folyadék az autóban.",
+              "A parkolóházak megvédik az autó szélvédőjét a jegesedéstől a látogatás alatt.",
+              "A parkolási díjat az applikáción keresztül a melegből is meghosszabbíthatja.",
+              "Havon vagy fagyon a belvárosi macskakövek nagyon csúszósak lehetnek."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți suficient lichid de parbriz anti-îngheț.",
+              "Parcările etajate protejează parbrizul împotriva înghețului în timpul vizitei.",
+              "Puteți prelungi timpul de parcare prin aplicație, stând la căldură.",
+              "Atenție sporită pe pavajul din centru dacă a nins (pericol de derapare)."
+            ],
+            "en": [
+              "Ensure your car's anti-freeze levels are topped up before the trip.",
+              "Indoor parking garages keep your windshield from icing up while you visit.",
+              "You can extend your parking time via mobile app from inside a warm cafe.",
+              "Be extra careful on cobblestones in the city center if it has snowed."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1097,6 +1661,188 @@
           "Buy a day pass for the De Lijn bus network.",
           "The distances between the center and Stadspark can also be walked if the bus is delayed."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn durch Aalst bleibt man auch bei Regen trocken. Vom Bahnhof (Statieplein) bringen uns Busse nah an den Grote Markt. Die Sint-Martinuskerk und das 't Gasthuys Museum sind die perfekten Indoor-Ziele für den nassen Vormittag und Nachmittag. Zum Stadspark fahren wir mit der Linie 1, um die Laufwege im Regen zu minimieren, bevor es zurück zum Bahnhof geht.",
+            "hu": "Tömegközlekedéssel az esős Aalstban is szárazon maradhatunk. Az állomástól (Statieplein) buszok visznek közel a Grote Markthoz. A Szent Márton-templom és az 't Gasthuys múzeum tökéletes benti célpontok a vizes délelőttre és délutánra. A városligethez az 1-es busszal megyünk, hogy minimalizáljuk az esőben való gyaloglást, majd onnan vissza az állomásra.",
+            "ro": "Folosind transportul public în Aalst, rămâneți uscat chiar și pe ploaie. De la gară (Statieplein), autobuzele vă duc aproape de Grote Markt. Biserica Sint-Martinus și muzeul 't Gasthuys sunt destinații interioare perfecte. Mergem la parcul orașului cu linia 1 pentru a minimiza mersul prin ploaie, înainte de a ne întoarce la gară.",
+            "en": "Public transport in Aalst keeps you dry even when it's pouring. From the station (Statieplein), buses drop you close to Grote Markt. St. Martin's Church and 't Gasthuys museum are ideal indoor stops for a wet morning and afternoon. Take bus line 1 to the City Park to minimize walking in the rain before returning to the station."
+          },
+          "stops": [
+            {
+              "name": "Statieplein",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle, bis Ihr Bus oder Zug abfährt.",
+                "hu": "Várjon az állomás várótermében, amíg a busza vagy vonata indul.",
+                "ro": "Așteptați în holul gării până când pleacă autobuzul sau trenul.",
+                "en": "Wait inside the station hall until your bus or train is ready."
+              }
+            },
+            {
+              "name": "Grote Markt",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen 'Aalst Grote Markt' liegen direkt am Platz.",
+                "hu": "Az 'Aalst Grote Markt' buszmegállók közvetlenül a téren találhatók.",
+                "ro": "Stațiile de autobuz 'Aalst Grote Markt' sunt chiar lângă piață.",
+                "en": "The 'Aalst Grote Markt' bus stops are located right on the square."
+              }
+            },
+            {
+              "name": "Belfort van Aalst",
+              "tip_5lang": {
+                "de": "Vom Grote Markt sind es nur wenige Schritte unter den Arkaden.",
+                "hu": "A Grote Markttól csak pár lépés az árkádok védelmében.",
+                "ro": "Sunt doar câțiva pași de la Grote Markt, sub porțiuni acoperite.",
+                "en": "It is just a few steps from Grote Markt, partly under cover."
+              }
+            },
+            {
+              "name": "Sint-Martinuskerk",
+              "tip_5lang": {
+                "de": "Die Kirche ist ein idealer Ort, um die Zeit bis zum nächsten Bus zu überbrücken.",
+                "hu": "A templom ideális hely a következő buszig hátralévő idő eltöltésére.",
+                "ro": "Biserica este un loc ideal pentru a aștepta următorul autobuz.",
+                "en": "The church is a great place to pass the time until the next bus."
+              }
+            },
+            {
+              "name": "'t Gasthuys",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten der Busse bequem per App im Museum.",
+                "hu": "Ellenőrizze a buszok indulását kényelmesen az appban a múzeumból.",
+                "ro": "Verificați orele de plecare ale autobuzelor prin aplicație, din muzeu.",
+                "en": "Check bus departure times via app while still inside the museum."
+              }
+            },
+            {
+              "name": "Stadspark Aalst",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Stadspark' bringt Sie fast direkt zum Parkeingang.",
+                "hu": "A 'Stadspark' megálló szinte közvetlenül a liget bejáratához visz.",
+                "ro": "Stația 'Stadspark' vă lasă aproape direct la intrarea în parc.",
+                "en": "The 'Stadspark' stop drops you off almost right at the park entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die De Lijn App für Echtzeit-Abfahrtszeiten und Tickets.",
+              "Die Busse in Aalst fahren regelmäßig und verbinden alle Hauptsehenswürdigkeiten.",
+              "Halten Sie Ihren Schirm bereit für die kurzen Wege zwischen Haltestelle und Ziel.",
+              "Der Bahnhof Aalst bietet einen großen, trockenen Wartebereich."
+            ],
+            "hu": [
+              "Használja a De Lijn alkalmazást a valós idejű menetrendhez és jegyekhez.",
+              "Aalst buszai sűrűn járnak és összekötik a főbb látnivalókat.",
+              "Tartsa készenlétben az esernyőjét a megálló és a bejárat közötti rövid útra.",
+              "Az aalsti állomáson tágas, száraz váróterem áll rendelkezésre."
+            ],
+            "ro": [
+              "Folosiți aplicația De Lijn pentru orare în timp real și bilete.",
+              "Autobuzele din Aalst circulă regulat și leagă principalele obiective.",
+              "Aveți umbrela pregătită pentru distanțele scurte dintre stație și obiective.",
+              "Gara din Aalst are o zonă de așteptare spațioasă și uscată."
+            ],
+            "en": [
+              "Use the De Lijn app for real-time departures and mobile tickets.",
+              "Buses in Aalst run frequently and connect all the major sightseeing spots.",
+              "Keep your umbrella handy for the short walks between stops and entrances.",
+              "Aalst station provides a large, dry waiting area for travelers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Aalst mit öffentlichen Verkehrsmitteln im Winter ist eine warme Wahl. Vom Statieplein gelangen wir schnell ins Zentrum. Den kalten Vormittag verbringen wir in der Sint-Martinuskerk und den Nachmittag im gemütlichen 't Gasthuys Museum. Dank der guten Busverbindungen zum Stadspark müssen wir kaum in der Kälte warten. Die Tour endet am Bahnhof, wo man im Warmen auf den Zug warten kann.",
+            "hu": "A tömegközlekedés Aalstban télen a legmelegebb választás. Az állomástól gyorsan a központba érünk. A hideg délelőttöt a Szent Márton-templomban, a délutánt pedig a barátságos 't Gasthuys múzeumban töltjük. A jó buszközlekedésnek köszönhetően alig kell a hidegben várakoznunk a városligetnél. A túra az állomáson zárul, ahol fűtött váróterem vár.",
+            "ro": "Transportul public în Aalst iarna este alegerea cea mai călduroasă. De la gară ajungem rapid în centru. Petrecem dimineața rece în biserica Sint-Martinus și după-amiaza în muzeul primitor 't Gasthuys. Datorită legăturilor bune de autobuz spre parcul orașului, nu trebuie să așteptăm mult în frig. Tura se încheie la gară, într-o zonă încălzită.",
+            "en": "Using public transport in Aalst during winter is a warm and smart choice. Get from Statieplein to the center quickly. Spend the chilly morning at St. Martin's Church and the afternoon in the cozy 't Gasthuys museum. Excellent bus connections to the City Park mean very little waiting in the cold. End your tour at the station, where you can wait for your train in the warmth."
+          },
+          "stops": [
+            {
+              "name": "Statieplein",
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Wartebereiche im Bahnhofsgebäude.",
+                "hu": "Használja ki az állomásépület fűtött várótermeit.",
+                "ro": "Folosiți zonele de așteptare încălzite din clădirea gării.",
+                "en": "Make use of the heated waiting areas inside the station building."
+              }
+            },
+            {
+              "name": "Grote Markt",
+              "tip_5lang": {
+                "de": "Die Busse halten sehr nah an den beheizten Cafés des Marktplatzes.",
+                "hu": "A buszok nagyon közel állnak meg a főtér fűtött kávézóihoz.",
+                "ro": "Autobuzele opresc foarte aproape de cafenelele încălzite din piață.",
+                "en": "Buses stop very close to the heated cafes on the main square."
+              }
+            },
+            {
+              "name": "Belfort van Aalst",
+              "tip_5lang": {
+                "de": "Ein kurzer, knackiger Spaziergang von der Bushaltestelle zum Turm.",
+                "hu": "Rövid, frissítő séta a buszmegállótól a toronyig.",
+                "ro": "O plimbare scurtă și revigorantă de la stația de autobuz la turn.",
+                "en": "A short, brisk walk from the bus stop to the tower."
+              }
+            },
+            {
+              "name": "Sint-Martinuskerk",
+              "tip_5lang": {
+                "de": "Die Kirche bietet Schutz vor dem eisigen Winterwind.",
+                "hu": "A templom jó védelmet nyújt a jeges téli szél ellen.",
+                "ro": "Biserica oferă o bună protecție împotriva vântului înghețat.",
+                "en": "The church provides excellent shelter from the icy winter wind."
+              }
+            },
+            {
+              "name": "'t Gasthuys",
+              "tip_5lang": {
+                "de": "Perfekt beheiztes Museum; planen Sie hier Ihren längsten Aufenthalt.",
+                "hu": "Kiválóan fűtött múzeum; ide tervezze a leghosszabb tartózkodást.",
+                "ro": "Muzeu excelent încălzit; planificați aici cea mai lungă oprire.",
+                "en": "Perfectly heated museum; plan your longest stop here."
+              }
+            },
+            {
+              "name": "Stadspark Aalst",
+              "tip_5lang": {
+                "de": "Nehmen Sie den Bus direkt zurück zum Bahnhof, sobald es dunkel wird.",
+                "hu": "Amint sötétedni kezd, szálljon buszra közvetlenül az állomás felé.",
+                "ro": "Luați autobuzul direct spre gară imediat ce se întunecă.",
+                "en": "Take the bus directly back to the station as soon as it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft die wärmere Alternative zum Laufen.",
+              "Prüfen Sie Abfahrtszeiten vorab, um die Wartezeit im Freien zu minimieren.",
+              "Tragen Sie warme Kleidung, da die Türen der Busse oft geöffnet werden.",
+              "Kaufen Sie Ihr Ticket vorab in der App, um nicht am Automaten in der Kälte zu stehen."
+            ],
+            "hu": [
+              "A busz télen gyakran melegebb alternatíva, mint a gyaloglás.",
+              "Ellenőrizze előre az indulást, hogy minimálisat kelljen kint fagyoskodnia.",
+              "Öltözzön melegen, mert a buszajtók nyitogatása miatt bejöhet a hideg.",
+              "Vegye meg a jegyét előre az appban, hogy ne a hidegben kelljen az automatánál állnia."
+            ],
+            "ro": [
+              "Autobuzul este adesea o alternativă mai călduroasă decât mersul pe jos.",
+              "Verificați orarele în avans pentru a minimiza timpul de așteptare afară.",
+              "Îmbrăcați-vă gros, deoarece ușile autobuzelor se deschid des și intră frigul.",
+              "Cumpărați biletul prin aplicație pentru a evita așteptarea la automatele din exterior."
+            ],
+            "en": [
+              "Buses are often a much warmer alternative to walking in winter.",
+              "Check schedules in advance to minimize waiting time at outdoor stops.",
+              "Dress in warm layers as bus doors opening frequently can let in cold air.",
+              "Buy your ticket via the mobile app to avoid standing at outdoor vending machines."
+            ]
+          }
+        }
       }
     }
   }

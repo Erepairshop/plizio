@@ -362,6 +362,188 @@
           "Look out for the 'Struikelstenen' (stumbling stones), commemorating victims of the Holocaust.",
           "A walk along the boulevard at sunset is highly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Vischpoort, wo die dicken Mauern Schutz vor dem ersten Regenschauer bieten. Mittags tauchen wir im Stadsmuseum tief in die Geschichte von Harderwijk ein, während draußen die Tropfen fallen. Am Nachmittag lassen wir uns von den humorvollen Werken im Marius van Dokkum Museum verzaubern. Den Tag beenden wir sicher im Trockenen in einem der gemütlichen Restaurants am Marktplatz.",
+            "hu": "A reggel a Vischpoortnál indul, ahol a vastag falak menedéket nyújtanak az eső elől. Délben a Városi Múzeumban merülünk el Harderwijk történelmében, miközben kint kopog az eső. Délután Marius van Dokkum humoros festményei vidítanak fel minket a múzeumban. Az estét egy hangulatos, fedett étteremben zárjuk a főtéren, távol a tó felől fújó nedves széltől.",
+            "ro": "Dimineața începe la Vischpoort, unde zidurile groase oferă adăpost împotriva ploii. La prânz, explorăm istoria orașului la Stadsmuseum, în timp ce picăturile cad afară. După-amiaza, ne lăsăm încântați de lucrările umoristice de la Muzeul Marius van Dokkum. Încheiem ziua la căldură, într-unul dintre restaurantele primitoare din piața centrală.",
+            "en": "Morning starts at Vischpoort, where thick walls provide shelter from the rain. At midday, we dive into local history at the City Museum while the rain taps on the windows. In the afternoon, the humorous art of Marius van Dokkum brightens the mood. We end the day in the cozy warmth of a restaurant in the old town, safe from the damp wind off the lake."
+          },
+          "stops": [
+            {
+              "name": "Vischpoort (Fish Gate)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Torbogen als Unterstand bei plötzlichem Guss.",
+                "hu": "Használd a kapualjat menedékként egy hirtelen zápor esetén.",
+                "ro": "Folosiți arcada porții ca adăpost în caz de aversă bruscă.",
+                "en": "Use the archway as shelter during a sudden downpour."
+              }
+            },
+            {
+              "name": "Grote Kerk (Great Church)",
+              "tip_5lang": {
+                "de": "Der Innenraum ist der ideale Ort, um kurz abzutrocknen.",
+                "hu": "A belső tér ideális hely a rövid száradáshoz.",
+                "ro": "Interiorul este locul ideal pentru a vă usca puțin.",
+                "en": "The interior is the ideal place to dry off for a bit."
+              }
+            },
+            {
+              "name": "Stadsmuseum Harderwijk (City Museum)",
+              "tip_5lang": {
+                "de": "Garderobe vorhanden – geben Sie nasse Mäntel einfach ab.",
+                "hu": "Ruhatár elérhető – add le a vizes kabátodat bátran.",
+                "ro": "Garderobă disponibilă – lăsați haina udă la intrare.",
+                "en": "Cloakroom available – feel free to leave your wet coat."
+              }
+            },
+            {
+              "name": "Marius van Dokkum Museum",
+              "tip_5lang": {
+                "de": "Perfekt für Regentage: Die lustigen Bilder heben die Stimmung.",
+                "hu": "Tökéletes esős napra: a vidám képek feldobják a kedved.",
+                "ro": "Perfect pentru zile ploioase: picturile vesele vă vor bine dispune.",
+                "en": "Perfect for rainy days: the cheerful paintings will boost your mood."
+              }
+            },
+            {
+              "name": "Smeepoort",
+              "tip_5lang": {
+                "de": "Ein kurzer, überdachter Durchgang auf dem Weg zum nächsten Ziel.",
+                "hu": "Egy rövid, fedett átjáró a következő állomás felé.",
+                "ro": "O scurtă trecere acoperită spre următoarea destinație.",
+                "en": "A short, covered passage on the way to your next stop."
+              }
+            },
+            {
+              "name": "Molen De Hoop (The Hope Windmill)",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Besichtigung des Inneren ratsam.",
+                "hu": "Heves esőben érdemes a malom belsejét megtekinteni.",
+                "ro": "În caz de ploaie abundentă, se recomandă vizitarea interiorului.",
+                "en": "In case of heavy rain, visiting the interior is recommended."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen des Windes vom See her wichtig.",
+              "Die Pflastersteine in der Altstadt können bei Nässe rutschig sein.",
+              "Besuchen Sie die Museen in der Mittagszeit, wenn es meist am stärksten regnet.",
+              "Viele Cafés in der Stadt bieten gemütliche Fensterplätze mit Blick auf den Regen."
+            ],
+            "hu": [
+              "A tó felől fújó szél miatt egy stabil esernyő elengedhetetlen.",
+              "Az óváros macskakövei nedvesen csúszósak lehetnek.",
+              "Tervezd a múzeumlátogatást délidőre, amikor általában a legtöbb eső esik.",
+              "A város számos kávézója kínál hangulatos ablak melletti helyeket."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza vântului de pe lac.",
+              "Pavelele din orașul vechi pot fi alunecoase când sunt ude.",
+              "Planificați vizita la muzee la prânz, când plouă de obicei cel mai tare.",
+              "Multe cafenele din oraș oferă locuri primitoare la geam."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to the wind blowing off the lake.",
+              "The cobblestones in the old town can be slippery when wet.",
+              "Plan your museum visits for midday when rain is often heaviest.",
+              "Many cafes in town offer cozy window seats to watch the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Vischpoort wird durch den Blick auf das zugefrorene Wasser belohnt. Mittags wärmen wir uns in der Grote Kerk auf, bevor wir die Ausstellungen im Stadsmuseum besuchen. Der frühe Sonnenuntergang gegen 17:00 Uhr taucht die historische Smeepoort in ein goldenes Licht. Den Abend genießen wir bei einem heißen Getränk in der weihnachtlich beleuchteten Altstadt.",
+            "hu": "A fagyos reggel a Vischpoortnál indul, kilátással a jeges vízre. Délben a Grote Kerk csendjében melegszünk fel, majd a Városi Múzeum tárlatait böngésszük. A korai, 17:00 óra körüli naplemente arany színbe öltözteti a Smeepoort kapuját. Az estét egy forró ital mellett élvezzük a karácsonyi fényekben úszó óvárosban.",
+            "ro": "Dimineața geroasă la Vischpoort este răsplătită cu vederea apei înghețate. La prânz, ne încălzim în Grote Kerk înainte de a vizita expozițiile de la Stadsmuseum. Apusul devreme, în jurul orei 17:00, scaldă poarta Smeepoort în lumină aurie. Seara ne bucurăm de o băutură caldă în orașul vechi luminat festiv.",
+            "en": "A frosty morning at Vischpoort offers beautiful views of the icy waters. Midday is spent warming up in the Grote Kerk and exploring the City Museum's collections. The early sunset around 5 PM casts a golden glow over the Smeepoort gate. We enjoy the evening with a hot drink in the festively lit old town."
+          },
+          "stops": [
+            {
+              "name": "Vischpoort (Fish Gate)",
+              "tip_5lang": {
+                "de": "Vorsicht bei Frost auf den Stufen nahe dem Wasser.",
+                "hu": "Vigyázz a faggyal a vízpart közeli lépcsőkön.",
+                "ro": "Atenție la îngheț pe treptele de lângă apă.",
+                "en": "Watch out for frost on the steps near the water."
+              }
+            },
+            {
+              "name": "Grote Kerk (Great Church)",
+              "tip_5lang": {
+                "de": "Oft finden hier stimmungsvolle Winterkonzerte statt.",
+                "hu": "Gyakran tartanak itt hangulatos téli koncerteket.",
+                "ro": "Aici au loc adesea concerte de iarnă pline de atmosferă.",
+                "en": "Atmospheric winter concerts are often held here."
+              }
+            },
+            {
+              "name": "Stadsmuseum Harderwijk (City Museum)",
+              "tip_5lang": {
+                "de": "Das Museumscafé ist ideal für eine heiße Schokolade.",
+                "hu": "A múzeumi kávézó ideális egy forró csokoládéhoz.",
+                "ro": "Cafeneaua muzeului este ideală pentru o ciocolată caldă.",
+                "en": "The museum cafe is ideal for a hot chocolate."
+              }
+            },
+            {
+              "name": "Marius van Dokkum Museum",
+              "tip_5lang": {
+                "de": "Eine warme, humorvolle Pause im winterlichen Rundgang.",
+                "hu": "Meleg és humoros pihenő a téli séta közben.",
+                "ro": "O pauză caldă și plină de umor în turul de iarnă.",
+                "en": "A warm and humorous break during your winter walk."
+              }
+            },
+            {
+              "name": "Smeepoort",
+              "tip_5lang": {
+                "de": "Die Beleuchtung am Abend wirkt im Winter besonders magisch.",
+                "hu": "Az esti kivilágítás télen különösen varázslatos.",
+                "ro": "Iluminatul de seară pare deosebit de magic iarna.",
+                "en": "The evening lighting looks especially magical in winter."
+              }
+            },
+            {
+              "name": "Molen De Hoop (The Hope Windmill)",
+              "tip_5lang": {
+                "de": "Warm anziehen, da es im Inneren der Mühle kühl sein kann.",
+                "hu": "Öltözz rétegesen, mert a malom belsejében hűvös lehet.",
+                "ro": "Îmbrăcați-vă bine, deoarece poate fi răcoare în interiorul morii.",
+                "en": "Dress warmly as it can be chilly inside the mill."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht bereits gegen 17:00 Uhr unter, planen Sie Fotos früher.",
+              "Tragen Sie winddichte Kleidung wegen der steifen Brise vom Veluwemeer.",
+              "In der Altstadt gibt es im Winter oft kleine Eislaufbahnen.",
+              "Wärmen Sie sich regelmäßig in den zahlreichen Teestuben auf."
+            ],
+            "hu": [
+              "A nap már 17:00 körül lemegy, fotózz korábban.",
+              "Viselj szélálló ruhát a Veluwemeer felől fújó hideg szél miatt.",
+              "Télen az óvárosban gyakran alakítanak ki kis korcsolyapályákat.",
+              "Melegedj fel rendszeresen a számos teázó egyikében."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 17:00, planificați fotografiile mai devreme.",
+              "Purtați haine rezistente la vânt din cauza brizei reci de pe Veluwemeer.",
+              "În orașul vechi există adesea mici patinoare pe timp de iarnă.",
+              "Încălziți-vă regulat în numeroasele ceainării."
+            ],
+            "en": [
+              "The sun sets around 5 PM, so plan your photos for earlier in the day.",
+              "Wear windproof clothing due to the stiff breeze from Veluwemeer.",
+              "In winter, small ice rinks are often set up in the old town.",
+              "Warm up regularly in the numerous tea rooms."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -718,6 +900,188 @@
           "Always lock your bike, even for short stops.",
           "The ride to the Dolfinarium is mostly flat and scenic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir die Radtour an der Molen De Hoop, wo wir den ersten Schauer abwarten. Mittags geht es zügig durch die Smeepoort zu den Museen, die trockenen Unterschlupf bieten. Nachmittags radeln wir am Vischpoort vorbei zur Onze-Lieve-Vrouwekerk, um die Architektur zu bewundern. Den Tag beenden wir im Dolfinarium, wo viele Shows unter schützenden Dächern stattfinden.",
+            "hu": "Az eső ellenére a Molen De Hoopnál kezdjük a bringázást, ahol kivárjuk az első záport. Délben gyorsan áthajtunk a Smeepoort kapun a múzeumok felé, amelyek száraz menedéket nyújtanak. Délután a Vischpoort mellett eltekerve érjük el az Onze-Lieve-Vrouwekerk templomot. A napot a Dolfinariumban zárjuk, ahol sok bemutató fedett helyen van.",
+            "ro": "În ciuda ploii, începem tura cu bicicleta la Molen De Hoop, unde așteptăm să treacă prima aversă. La prânz, trecem rapid prin Smeepoort spre muzee, care oferă adăpost uscat. După-amiaza, pedalăm pe lângă Vischpoort spre Onze-Lieve-Vrouwekerk. Încheiem ziua la Dolfinarium, unde multe spectacole au loc sub acoperiș.",
+            "en": "Despite the rain, we start our bike tour at Molen De Hoop, waiting out the first shower. At midday, we ride quickly through Smeepoort to the museums, which offer dry shelter. In the afternoon, we pedal past Vischpoort to the Onze-Lieve-Vrouwekerk. We end the day at the Dolfinarium, where many shows are held under protective roofs."
+          },
+          "stops": [
+            {
+              "name": "Molen De Hoop (The Hope Windmill)",
+              "tip_5lang": {
+                "de": "Gute Schutzmöglichkeit unter der Mühlenbrücke.",
+                "hu": "Jó védelmet nyújt a malom hídja alatti rész.",
+                "ro": "O bună posibilitate de adăpost sub podul morii.",
+                "en": "Good shelter available under the mill's gallery."
+              }
+            },
+            {
+              "name": "Smeepoort",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf dem nassen Pflaster.",
+                "hu": "Vigyázz a fékezéssel a nedves macskakövön.",
+                "ro": "Atenție la frânare pe pavajul umed.",
+                "en": "Be careful when braking on wet cobblestones."
+              }
+            },
+            {
+              "name": "Stadsmuseum & Marius van Dokkum Museum",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe nutzen.",
+                "hu": "Használd a közeli fedett kerékpártárolókat.",
+                "ro": "Folosiți suporturile de biciclete acoperite din apropiere.",
+                "en": "Use the nearby covered bike racks."
+              }
+            },
+            {
+              "name": "Vischpoort",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Torbogen, um die Karte zu prüfen.",
+                "hu": "Rövid megálló a kapualjban a térkép ellenőrzéséhez.",
+                "ro": "Scurtă oprire sub arcada porții pentru a verifica harta.",
+                "en": "Short stop under the archway to check the map."
+              }
+            },
+            {
+              "name": "Onze-Lieve-Vrouwekerk",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad nah an die Kirchenmauer.",
+                "hu": "Állítsd a biciklidet közvetlenül a templom fala mellé.",
+                "ro": "Parcați bicicleta aproape de zidul bisericii.",
+                "en": "Park your bike close to the church wall."
+              }
+            },
+            {
+              "name": "Dolfinarium",
+              "tip_5lang": {
+                "de": "Die Shows bieten Schutz vor Wind und Wetter.",
+                "hu": "Az előadások védelmet nyújtanak a szél és az eső elől.",
+                "ro": "Spectacolele oferă protecție împotriva vântului și ploii.",
+                "en": "The shows provide protection from wind and rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Regenhose ist ratsam.",
+              "Achten Sie auf Pfützen, die tiefe Schlaglöcher verbergen könnten.",
+              "Nutzen Sie Fahrradtaschen, um Ihre Wertsachen trocken zu halten.",
+              "Bremsen Sie frühzeitig, da der Bremsweg auf nassem Grund länger ist."
+            ],
+            "hu": [
+              "Teljes esőruházat, beleértve az esőnadrágot is, ajánlott.",
+              "Ügyelj a tócsákra, amelyek mély kátyúkat rejthetnek.",
+              "Használj vízálló táskákat az értékeid szárazon tartásához.",
+              "Fékezz időben, mert a fékút hosszabb nedves talajon."
+            ],
+            "ro": [
+              "Se recomandă echipament complet de ploaie, inclusiv pantaloni.",
+              "Atenție la bălțile care pot ascunde gropi adânci.",
+              "Folosiți genți de bicicletă impermeabile pentru obiectele de valoare.",
+              "Frânați din timp, deoarece distanța de frânare e mai mare pe ud."
+            ],
+            "en": [
+              "Full rain gear, including rain pants, is highly recommended.",
+              "Watch out for puddles that might hide deep potholes.",
+              "Use waterproof bike bags to keep your valuables dry.",
+              "Brake early as stopping distance is longer on wet ground."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch an der Molen De Hoop, während der Frost auf den Feldern glitzert. Mittags suchen wir Wärme in den Museen der Altstadt, nachdem wir durch die Smeepoort geradelt sind. Am Nachmittag führt uns der Weg am Vischpoort vorbei zur stillen Onze-Lieve-Vrouwekerk. Den Tag krönen wir mit einem Besuch im Dolfinarium, wo die winterliche Atmosphäre am Wasser besonders ruhig ist.",
+            "hu": "A téli reggel frissen indul a Molen De Hoopnál, miközben dér csillog a mezőkön. Délben a Smeepoort kapun átekerve az óváros múzeumaiban keresünk meleget. Délután az utunk a Vischpoort mellett vezet a csendes Onze-Lieve-Vrouwekerk templomhoz. A napot a Dolfinariumban koronázzuk meg, ahol a vízparti téli hangulat különösen nyugodt.",
+            "ro": "Dimineața de iarnă începe proaspăt la Molen De Hoop, în timp ce bruma strălucește pe câmpuri. La prânz, căutăm căldură în muzeele din orașul vechi. După-amiaza, drumul ne poartă pe lângă Vischpoort spre liniștita biserică Onze-Lieve-Vrouwekerk. Încheiem ziua cu o vizită la Dolfinarium, unde atmosfera de iarnă de lângă apă este foarte calmă.",
+            "en": "The winter morning starts fresh at Molen De Hoop, with frost glistening on the fields. At midday, we seek warmth in the old town's museums after cycling through Smeepoort. In the afternoon, our path leads past Vischpoort to the quiet Onze-Lieve-Vrouwekerk. We crown the day with a visit to the Dolfinarium, where the winter atmosphere by the water is uniquely peaceful."
+          },
+          "stops": [
+            {
+              "name": "Molen De Hoop (The Hope Windmill)",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind bei der Fahrt zur Mühle wichtig.",
+                "hu": "A malomhoz vezető úton fontos a meleg kesztyű.",
+                "ro": "Mănușile călduroase sunt importante în drumul spre moară.",
+                "en": "Warm gloves are important during the ride to the mill."
+              }
+            },
+            {
+              "name": "Smeepoort",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe im Torbereich.",
+                "hu": "Ügyelj a felfagyásokra a kapu környékén.",
+                "ro": "Atenție la polei în zona porții.",
+                "en": "Watch out for black ice in the gate area."
+              }
+            },
+            {
+              "name": "Stadsmuseum & Marius van Dokkum Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pause, um die Finger wieder aufzuwärmen.",
+                "hu": "Használd ki a szünetet az ujjaid felmelegítésére.",
+                "ro": "Folosiți pauza pentru a vă reîncălzi degetele.",
+                "en": "Use the break to warm up your fingers again."
+              }
+            },
+            {
+              "name": "Vischpoort",
+              "tip_5lang": {
+                "de": "Der Wind vom See kann hier besonders schneidend sein.",
+                "hu": "A tó felől fújó szél itt különösen metsző lehet.",
+                "ro": "Vântul de pe lac poate fi deosebit de tăios aici.",
+                "en": "The wind off the lake can be particularly biting here."
+              }
+            },
+            {
+              "name": "Onze-Lieve-Vrouwekerk",
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine friedliche, windgeschützte Rast.",
+                "hu": "A templom békés, szélvédett pihenőt nyújt.",
+                "ro": "Biserica oferă un popas liniștit, ferit de vânt.",
+                "en": "The church offers a peaceful, wind-sheltered rest."
+              }
+            },
+            {
+              "name": "Dolfinarium",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Indoor-Lagune, um der Kälte zu entgehen.",
+                "hu": "Látogasd meg a belső lagúnát, hogy elkerüld a hideget.",
+                "ro": "Vizitați laguna interioară pentru a scăpa de frig.",
+                "en": "Visit the indoor lagoon to escape the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glatteis, besonders auf Brücken und am Wasser.",
+              "Die Sonne geht früh unter, prüfen Sie Ihre Fahrradbeleuchtung.",
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip).",
+              "Planen Sie kürzere Etappen ein, da das Radeln bei Kälte anstrengender ist."
+            ],
+            "hu": [
+              "Ügyelj a csúszós utakra, különösen a hidakon és a víz mellett.",
+              "A nap korán lemegy, ellenőrizd a kerékpár kivilágítását.",
+              "Viselj több réteg ruhát (hagyma-elv).",
+              "Tervezz rövidebb szakaszokat, mert a hidegben tekerés fárasztóbb."
+            ],
+            "ro": [
+              "Atenție la polei, în special pe poduri și lângă apă.",
+              "Soarele apune devreme, verificați luminile bicicletei.",
+              "Purtați mai multe straturi de haine (principiul cepei).",
+              "Planificați etape mai scurte, pedalatul în frig este mai obositor."
+            ],
+            "en": [
+              "Watch out for black ice, especially on bridges and near the water.",
+              "The sun sets early, so check your bike lights.",
+              "Wear several layers of clothing (onion principle).",
+              "Plan shorter legs as cycling in the cold is more exhausting."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1074,6 +1438,188 @@
           "Book Dolfinarium tickets online in advance to avoid queues and possibly save money.",
           "Be aware of low-emission zones (milieuzones) in or around Dutch cities."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Tage in Harderwijk lassen sich am besten mit dem Auto meistern. Wir parken zentral am Smeepoort und laufen nur ein kurzes Stück. Mittags besuchen wir das Stadsmuseum, während das Auto sicher und trocken steht. Nach einem gemütlichen Lunch in der Altstadt fahren wir zum Dolfinarium, wo Parkplätze nah am Eingang liegen. Den Abschluss bildet die Molen De Hoop, die wir bequem ansteuern.",
+            "hu": "Az esős napokat Harderwijkben legkönnyebben autóval vészelhetjük át. Központilag parkolunk a Smeepoortnál, így csak keveset kell sétálnunk. Délben a Városi Múzeumba látogatunk, miközben az autó biztonságban áll. Egy óvárosi ebéd után a Dolfinariumba hajtunk, ahol a parkolók közel vannak a bejárathoz. A napot a Molen De Hoop malomnál zárjuk.",
+            "ro": "Zilele ploioase în Harderwijk sunt cel mai ușor de gestionat cu mașina. Parcăm central la Smeepoort și mergem doar puțin pe jos. La prânz vizităm Stadsmuseum, în timp ce mașina stă la loc sigur. După un prânz în orașul vechi, mergem la Dolfinarium, unde parcările sunt aproape de intrare. Încheiem la Molen De Hoop.",
+            "en": "Rainy days in Harderwijk are best managed by car. We park centrally at Smeepoort, keeping walking distances short. At midday, we visit the City Museum while the car stays dry nearby. After a cozy lunch in the old town, we drive to the Dolfinarium, where parking is close to the entrance. We finish the day at Molen De Hoop, easily reached by car."
+          },
+          "stops": [
+            {
+              "name": "Parking Center & Smeepoort",
+              "tip_5lang": {
+                "de": "Parken Sie im überdachten Parkhaus, um trocken zu bleiben.",
+                "hu": "Parkolj fedett parkolóházban, hogy száraz maradj.",
+                "ro": "Parcați într-o parcare acoperită pentru a rămâne uscați.",
+                "en": "Park in a covered parking garage to stay dry."
+              }
+            },
+            {
+              "name": "Stadsmuseum Harderwijk",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Haupteingang für kurze Wege im Regen.",
+                "hu": "Használd a főbejáratot a rövid gyalogút érdekében.",
+                "ro": "Folosiți intrarea principală pentru drumuri scurte prin ploaie.",
+                "en": "Use the main entrance to keep walking distance short."
+              }
+            },
+            {
+              "name": "Vischpoort & Harbor",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg möglich, Parkplätze direkt am Hafen.",
+                "hu": "Rövid kiszállás lehetséges, parkolók közvetlenül a kikötőnél.",
+                "ro": "Oprire scurtă posibilă, parcări chiar lângă port.",
+                "en": "Short stop possible with parking right by the harbor."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Viele Restaurants haben Parkplätze in der Nähe.",
+                "hu": "Sok étteremnek van közeli parkolási lehetősége.",
+                "ro": "Multe restaurante au locuri de parcare în apropiere.",
+                "en": "Many restaurants have parking options nearby."
+              }
+            },
+            {
+              "name": "Dolfinarium",
+              "tip_5lang": {
+                "de": "Das Parken auf dem P1-Gelände verkürzt den Fußweg.",
+                "hu": "A P1 jelű parkoló használata lerövidíti a sétát.",
+                "ro": "Parcarea în zona P1 scurtează drumul pe jos.",
+                "en": "Parking in the P1 area shortens the walk to the entrance."
+              }
+            },
+            {
+              "name": "Molen De Hoop",
+              "tip_5lang": {
+                "de": "Halten Sie direkt davor für ein schnelles Foto im Regen.",
+                "hu": "Állj meg közvetlenül előtte egy gyors fotóra az esőben.",
+                "ro": "Opriți chiar în față pentru o fotografie rapidă în ploaie.",
+                "en": "Stop right in front for a quick photo in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Scheibenwischer in gutem Zustand sind.",
+              "Nutzen Sie die App 'Parkmobile' für stressfreies Parken.",
+              "Halten Sie einen Schirm im Auto bereit für den Weg zum Eingang.",
+              "Die Sicht kann bei starkem Regen am See eingeschränkt sein."
+            ],
+            "hu": [
+              "Ellenőrizd, hogy az ablaktörlőid jó állapotban legyenek.",
+              "Használd a 'Parkmobile' alkalmazást a stresszmentes parkoláshoz.",
+              "Legyen esernyő az autóban a bejáratig tartó útra.",
+              "A látási viszonyok korlátozottak lehetnek a tónál heves esőben."
+            ],
+            "ro": [
+              "Asigurați-vă că ștergătoarele sunt în stare bună.",
+              "Folosiți aplicația 'Parkmobile' pentru o parcare fără stres.",
+              "Aveți o umbrelă în mașină pentru drumul spre intrare.",
+              "Vizibilitatea poate fi redusă pe malul lacului în caz de ploaie."
+            ],
+            "en": [
+              "Ensure your windshield wipers are in good condition.",
+              "Use the 'Parkmobile' app for stress-free parking.",
+              "Keep an umbrella in the car for the walk to the entrance.",
+              "Visibility can be limited near the lake during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto den Komfort einer warmen Basis für die Tour. Wir starten am Smeepoort und genießen die frostige Aussicht. Mittags wärmen wir uns im Stadsmuseum auf, bevor wir weiter durch die geschmückte Stadt fahren. Der Sonnenuntergang am Hafen gegen 17:00 Uhr ist vom Auto aus wunderbar zu beobachten. Den Tag lassen wir entspannt am Dolfinarium und der beleuchteten Mühle ausklingen.",
+            "hu": "Télen az autó meleg bázist nyújt a városnézéshez. A Smeepoortnál kezdünk, élvezve a fagyos kilátást. Délben a Városi Múzeumban melegszünk fel, majd továbbhajtunk a díszes városon át. A kikötői naplemente 17:00 körül az autóból is csodásan látható. A napot a Dolfinariumnál és a kivilágított malomnál zárjuk pihentetően.",
+            "ro": "Iarna, mașina oferă confortul unei baze calde pentru tur. Începem la Smeepoort și ne bucurăm de vederea geroasă. La prânz ne încălzim la Stadsmuseum, apoi continuăm drumul prin orașul decorat. Apusul în port, în jurul orei 17:00, se vede minunat din mașină. Încheiem ziua relaxat la Dolfinarium și la moara iluminată.",
+            "en": "In winter, the car provides a warm base for your tour. We start at Smeepoort, enjoying the frosty views. At midday, we warm up in the City Museum before driving through the decorated town. The sunset at the harbor around 5 PM is wonderful to watch from the car. We end the day in a relaxed way at the Dolfinarium and the lit-up windmill."
+          },
+          "stops": [
+            {
+              "name": "Parking Center & Smeepoort",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte bei der Ein- und Ausfahrt.",
+                "hu": "Ügyelj a csúszós utakra a ki- és behajtásnál.",
+                "ro": "Atenție la polei la intrare și ieșire.",
+                "en": "Watch out for ice at the entrance and exit."
+              }
+            },
+            {
+              "name": "Stadsmuseum Harderwijk",
+              "tip_5lang": {
+                "de": "Das Parken in der Nähe spart Zeit im kalten Wind.",
+                "hu": "A közeli parkolás időt spórol a hideg szélben.",
+                "ro": "Parcarea în apropiere economisește timp în vântul rece.",
+                "en": "Parking nearby saves time in the cold wind."
+              }
+            },
+            {
+              "name": "Vischpoort & Harbor",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Eis direkt vom Fahrersitz.",
+                "hu": "Élvezd a jeges kilátást közvetlenül a vezetőülésből.",
+                "ro": "Bucurați-vă de vederea gheții direct de la volan.",
+                "en": "Enjoy the view of the ice directly from the driver's seat."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Suchen Sie Restaurants mit Parkplätzen vor der Tür.",
+                "hu": "Keress olyan éttermeket, ahol közvetlenül az ajtó előtt parkolhatsz.",
+                "ro": "Căutați restaurante cu locuri de parcare chiar în față.",
+                "en": "Look for restaurants with parking right in front."
+              }
+            },
+            {
+              "name": "Dolfinarium",
+              "tip_5lang": {
+                "de": "Im Winter sind oft mehr Parkplätze in der ersten Reihe frei.",
+                "hu": "Télen gyakran több parkoló szabad az első sorokban.",
+                "ro": "Iarna sunt adesea mai multe locuri de parcare libere în față.",
+                "en": "In winter, more front-row parking spots are usually available."
+              }
+            },
+            {
+              "name": "Molen De Hoop",
+              "tip_5lang": {
+                "de": "Die Mühle ist abends im Winter wunderschön beleuchtet.",
+                "hu": "A malom este, télen gyönyörűen ki van világítva.",
+                "ro": "Moara este iluminată minunat seara pe timp de iarnă.",
+                "en": "The mill is beautifully lit up on winter evenings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Frostschutzmittel für Ihre Scheibenwaschanlage.",
+              "Planen Sie Zeit zum Eiskratzen ein, falls das Auto draußen steht.",
+              "Die Parkplätze am Wasser können bei Wind sehr zugig sein.",
+              "Fahren Sie vorsichtig, da Nebenstraßen nicht immer geräumt sind."
+            ],
+            "hu": [
+              "Használj fagyállót a szélvédőmosó folyadékhoz.",
+              "Számolj időt a jégkaparásra, ha az autó kint áll.",
+              "A vízparti parkolók szeles időben nagyon huzatosak lehetnek.",
+              "Vezess óvatosan, mert a mellékutcákat nem mindig takarítják."
+            ],
+            "ro": [
+              "Folosiți lichid de parbriz cu antigel.",
+              "Planificați timp pentru curățarea gheții dacă mașina stă afară.",
+              "Parcările de lângă apă pot fi foarte expuse vântului.",
+              "Conduceți cu atenție, străzile secundare nu sunt mereu deszăpezite."
+            ],
+            "en": [
+              "Use antifreeze in your windshield washer fluid.",
+              "Allow extra time for scraping ice if the car is parked outside.",
+              "Parking lots by the water can be very drafty in the wind.",
+              "Drive carefully as side streets may not always be cleared of snow."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1406,6 +1952,170 @@
           "Download a Dutch public transport app like 9292 to plan your journey in real-time.",
           "A day ticket for the bus might be cheaper if you plan multiple trips."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bei Regen ist der Bus der beste Freund in Harderwijk. Wir kommen am Bahnhof an und fahren direkt ins Zentrum. Mittags erkunden wir das Stadsmuseum, nur wenige Schritte von der Bushaltestelle entfernt. Am Nachmittag bringt uns der Shuttle bequem zum Dolfinarium, wo wir die meisten Attraktionen überdacht erleben. Den Tag beenden wir mit einer entspannten Busfahrt zurück zum Bahnhof.",
+            "hu": "Esőben a busz a legjobb barát Harderwijkben. Megérkezünk a vasútállomásra, és közvetlenül a központba utazunk. Délben a Városi Múzeumot fedezzük fel, amely csak pár lépésre van a buszmegállótól. Délután a shuttle busz kényelmesen elvisz a Dolfinariumba, ahol a legtöbb látnivaló fedett. A napot egy pihentető buszúttal zárjuk vissza az állomásra.",
+            "ro": "Pe ploaie, autobuzul este cel mai bun prieten în Harderwijk. Sosim la gară și mergem direct în centru. La prânz explorăm Stadsmuseum, aflat la doar câțiva pași de stația de autobuz. După-amiaza, naveta ne duce confortabil la Dolfinarium, unde majoritatea atracțiilor sunt acoperite. Încheiem ziua cu o călătorie relaxantă înapoi la gară.",
+            "en": "In the rain, the bus is your best friend in Harderwijk. We arrive at the station and take a bus directly to the center. At midday, we explore the City Museum, just steps from the bus stop. In the afternoon, the shuttle takes us comfortably to the Dolfinarium, where most attractions are under cover. We end the day with a relaxed bus ride back to the station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Station & Bus to Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Wartebereiche am Bahnhof.",
+                "hu": "Használd a vasútállomás fedett várakozóhelyeit.",
+                "ro": "Folosiți zonele de așteptare acoperite de la gară.",
+                "en": "Use the covered waiting areas at the train station."
+              }
+            },
+            {
+              "name": "Stadsmuseum Harderwijk",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt fast direkt vor dem Museum.",
+                "hu": "A buszmegálló szinte közvetlenül a múzeum előtt van.",
+                "ro": "Stația de autobuz este aproape chiar în fața muzeului.",
+                "en": "The bus stop is almost right in front of the museum."
+              }
+            },
+            {
+              "name": "Vischpoort & Harbor",
+              "tip_5lang": {
+                "de": "Vom Hafen fahren regelmäßig Busse zurück zum Zentrum.",
+                "hu": "A kikötőtől rendszeresen járnak buszok vissza a központba.",
+                "ro": "Din port pleacă regulat autobuze înapoi spre centru.",
+                "en": "Buses run regularly from the harbor back to the center."
+              }
+            },
+            {
+              "name": "Bus to Dolfinarium",
+              "tip_5lang": {
+                "de": "Der Bus hält sehr nah am Eingangsbereich.",
+                "hu": "A busz nagyon közel áll meg a bejárathoz.",
+                "ro": "Autobuzul oprește foarte aproape de zona de intrare.",
+                "en": "The bus stops very close to the entrance area."
+              }
+            },
+            {
+              "name": "Return to Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie die App '9292' für Echtzeit-Infos bei Regen.",
+                "hu": "Ellenőrizd a '9292' alkalmazást a valós idejű infókért.",
+                "ro": "Verificați aplicația '9292' pentru informații în timp real.",
+                "en": "Check the '9292' app for real-time info during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse in Harderwijk sind sauber und trocken.",
+              "Ein OV-chipkaart macht das Umsteigen unkompliziert.",
+              "Nutzen Sie die Wartehäuschen, um trocken auf den Bus zu warten.",
+              "Bei starkem Regen können die Busse etwas verspätet sein."
+            ],
+            "hu": [
+              "A buszok Harderwijkben tiszták és szárazak.",
+              "Az OV-chipkaart egyszerűvé teszi az átszállást.",
+              "Használd a buszvárókat, hogy szárazon várakozhass.",
+              "Heves esőben a buszok kissé késhetnek."
+            ],
+            "ro": [
+              "Autobuzele din Harderwijk sunt curate și uscate.",
+              "Un card OV-chipkaart face transferul simplu.",
+              "Folosiți adăposturile din stații pentru a aștepta autobuzul.",
+              "În caz de ploaie abundentă, autobuzele pot avea mici întârzieri."
+            ],
+            "en": [
+              "The buses in Harderwijk are clean and dry.",
+              "An OV-chipkaart makes transferring very simple.",
+              "Use the bus shelters to stay dry while waiting.",
+              "Buses may be slightly delayed during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit den Öffentlichen beginnt im beheizten Bahnhof von Harderwijk. Der Bus bringt uns schnell ins Herz der Altstadt zum Stadsmuseum. Mittags genießen wir die Wärme in den historischen Gebäuden, bevor wir am Hafen die klare Winterluft schnappen. Gegen 17:00 Uhr erleben wir den frühen Sonnenuntergang, während wir auf den Bus zum Dolfinarium warten. Der Tag endet gemütlich mit der Rückfahrt zum Bahnhof.",
+            "hu": "A téli nap a tömegközlekedéssel Harderwijk fűtött vasútállomásán kezdődik. A busz gyorsan az óváros szívébe, a Városi Múzeumhoz visz. Délben élvezzük a történelmi épületek melegét, majd a kikötőben szívunk friss téli levegőt. 17:00 körül nézzük a korai naplementét, miközben a Dolfinarium buszára várunk. A nap kényelmesen zárul a visszautazással.",
+            "ro": "O zi de iarnă cu transportul public începe în gara încălzită din Harderwijk. Autobuzul ne duce rapid în inima orașului vechi. La prânz ne bucurăm de căldura clădirilor istorice, apoi luăm aer curat de iarnă în port. În jurul orei 17:00 vedem apusul devreme în timp ce așteptăm autobuzul. Ziua se încheie confortabil cu drumul înapoi spre gară.",
+            "en": "A winter day using public transit starts in the heated Harderwijk station. The bus quickly takes us to the heart of the old town. At midday, we enjoy the warmth of historic buildings before catching some fresh winter air at the harbor. Around 5 PM, we experience the early sunset while waiting for the bus. The day ends comfortably with the return trip to the station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Station & Bus to Center",
+              "tip_5lang": {
+                "de": "Der Bahnhof hat einen beheizten Wartesaal.",
+                "hu": "Az állomáson fűtött váróterem található.",
+                "ro": "Gara are o sală de așteptare încălzită.",
+                "en": "The station has a heated waiting room."
+              }
+            },
+            {
+              "name": "Stadsmuseum Harderwijk",
+              "tip_5lang": {
+                "de": "Guter Ort, um sich zwischen den Fahrten aufzuwärmen.",
+                "hu": "Jó hely a felmelegedésre az utazások között.",
+                "ro": "Un loc bun pentru a vă încălzi între călătorii.",
+                "en": "A good place to warm up between rides."
+              }
+            },
+            {
+              "name": "Vischpoort & Harbor",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan, um langes Warten in der Kälte zu vermeiden.",
+                "hu": "Ellenőrizd a menetrendet, hogy elkerüld a felesleges várakozást.",
+                "ro": "Verificați orarul pentru a evita așteptarea lungă în frig.",
+                "en": "Check the schedule to avoid waiting too long in the cold."
+              }
+            },
+            {
+              "name": "Bus to Dolfinarium",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter angenehm geheizt.",
+                "hu": "A buszok télen kellemesen fűtöttek.",
+                "ro": "Autobuzele sunt încălzite plăcut iarna.",
+                "en": "Buses are comfortably heated in winter."
+              }
+            },
+            {
+              "name": "Return to Station",
+              "tip_5lang": {
+                "de": "Abends fahren die Busse seltener, planen Sie voraus.",
+                "hu": "Este a buszok ritkábban járnak, tervezz előre.",
+                "ro": "Seara autobuzele circulă mai rar, planificați din timp.",
+                "en": "Buses run less frequently in the evening, so plan ahead."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Wärme der Busse zum Aufwärmen zwischen den Stopps.",
+              "Die Züge und Busse sind im Winter sehr zuverlässig.",
+              "Ein heißer Kaffee am Bahnhofskiosk verkürzt die Wartezeit.",
+              "Achten Sie auf geänderte Fahrpläne während der Feiertage."
+            ],
+            "hu": [
+              "Használd ki a buszok melegét a megállók közötti felmelegedésre.",
+              "A vonatok és buszok télen is nagyon megbízhatóak.",
+              "Egy forró kávé az állomási büfében lerövidíti a várakozást.",
+              "Ügyelj az ünnepi menetrendi változásokra."
+            ],
+            "ro": [
+              "Folosiți căldura din autobuze pentru a vă încălzi între opriri.",
+              "Trenurile și autobuzele sunt foarte de încredere iarna.",
+              "O cafea caldă de la chioșcul gării scurtează timpul de așteptare.",
+              "Atenție la orarele modificate în timpul sărbătorilor."
+            ],
+            "en": [
+              "Use the warmth of the buses to warm up between stops.",
+              "Trains and buses are very reliable in winter.",
+              "A hot coffee at the station kiosk makes waiting easier.",
+              "Watch out for modified holiday schedules."
+            ]
+          }
+        }
       }
     }
   }

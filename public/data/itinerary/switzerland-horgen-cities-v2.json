@@ -362,6 +362,196 @@
           "Check the museum's opening hours in advance.",
           "Binoculars are useful for birdwatching at the lake and pond."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Bahnhof Horgen, wo das graue Wetter dem Zürichsee eine mystische Stimmung verleiht. Ein kurzer Spaziergang am Seeufer führt Sie zum Sust Museum, dem idealen Rückzugsort vor dem Regen, um die lokale Geschichte zu erkunden. Nachmittags bietet die reformierte Kirche Schutz und Stille, bevor Sie den etwas matschigen, aber erfrischenden Weg zum Bergweiher antreten. Den Abend lassen Sie in den gemütlichen Gassen der Altstadt bei einem warmen Getränk ausklingen.",
+            "hu": "Kezdje a napot a horgeni pályaudvaron, ahol az eső misztikus hangulatot áraszt a Zürichi-tóra. Egy rövid séta a tóparton a Sust Múzeumhoz vezet, amely tökéletes menedék az eső elől a helyi történelem felfedezéséhez. Délután a református templom nyújt nyugalmat, mielőtt nekivágna a frissítő, bár kissé sáros útnak a hegyi tóhoz. Az estét a óváros hangulatos, eső áztatta utcáin zárhatja egy meleg ital társaságában.",
+            "ro": "Începeți ziua la gara Horgen, unde ploaia oferă o atmosferă mistică peste Lacul Zürich. O scurtă plimbare pe faleză vă duce la Muzeul Sust, refugiul ideal împotriva ploii pentru a explora istoria locală. După-amiaza, biserica reformată oferă liniște înainte de a porni pe drumul răcoros, deși puțin noroios, către iazul montan. Încheiați seara pe străzile primitoare ale centrului vechi, savurând o băutură caldă în timp ce plouă afară.",
+            "en": "Start your day at Horgen station, where the rain adds a mystical mood to Lake Zurich. A short walk along the lakeside leads to the Sust Museum, the perfect shelter to explore local history while staying dry. In the afternoon, the Reformed Church offers peace before you head out on the refreshing, though slightly muddy, path to the mountain pond. End your evening in the cozy alleys of the old town with a warm drink as the rain continues to fall."
+          },
+          "stops": [
+            {
+              "name": "Horgen Train Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Unterführung, um trocken zum See zu gelangen.",
+                "hu": "Használja az aluljárót, hogy szárazon jusson el a tóhoz.",
+                "ro": "Folosiți pasajul subteran pentru a ajunge uscat la lac.",
+                "en": "Use the underpass to reach the lakeside while staying dry."
+              }
+            },
+            {
+              "name": "Horgen Lakeside Promenade",
+              "tip_5lang": {
+                "de": "Ein Regenschirm ist wegen des Windes vom See her unerlässlich.",
+                "hu": "A tavi szél miatt az esernyő elengedhetetlen.",
+                "ro": "O umbrelă este esențială din cauza vântului de pe lac.",
+                "en": "An umbrella is essential due to the wind coming off the lake."
+              }
+            },
+            {
+              "name": "Sust Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den stärksten Regen im Trockenen abzuwarten.",
+                "hu": "Tökéletes hely a legnagyobb eső kivárására.",
+                "ro": "Locul perfect pentru a aștepta trecerea celei mai mari ploi.",
+                "en": "The perfect place to wait out the heaviest rain indoors."
+              }
+            },
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Die Dachvorsprünge der alten Häuser bieten kurzen Schutz.",
+                "hu": "A régi házak ereszei rövid menedéket nyújtanak.",
+                "ro": "Ereșurile caselor vechi oferă un scurt adăpost.",
+                "en": "The eaves of the old houses provide brief shelter."
+              }
+            },
+            {
+              "name": "Reformed Church of Horgen",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und das Prasseln des Regens auf das Dach.",
+                "hu": "Élvezze a csendet és az eső kopogását a tetőn.",
+                "ro": "Bucurați-vă de liniște și de sunetul ploii pe acoperiș.",
+                "en": "Enjoy the silence and the sound of rain drumming on the roof."
+              }
+            },
+            {
+              "name": "Horgener Mountain Pond",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk ist wegen der rutschigen Waldwege nötig.",
+                "hu": "A csúszós erdei utak miatt túrabakancs ajánlott.",
+                "ro": "Încălțămintea solidă este necesară pentru potecile alunecoase.",
+                "en": "Sturdy footwear is needed for the slippery forest paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für den Weg zum Weiher.",
+              "Das Sust Museum bietet ein exzellentes Indoor-Programm.",
+              "Kombinieren Sie den Spaziergang mit einer kurzen Schifffahrt.",
+              "Die Altstadt hat viele Cafés zum Aufwärmen und Trocknen.",
+              "Vorsicht vor rutschigem Laub auf den Kopfsteinpflastergassen."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a hegyi tóhoz vezető úton.",
+              "A Sust Múzeum kiváló beltéri programot kínál.",
+              "Kombinálja a sétát egy rövid hajózással a tavon.",
+              "Az óvárosban számos kávézó várja a melegedni vágyókat.",
+              "Vigyázzon a csúszós levelekre a macskaköves utcákon."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru drumul spre iaz.",
+              "Muzeul Sust oferă un program excelent de interior.",
+              "Combinați plimbarea cu o scurtă călătorie cu vaporul pe lac.",
+              "Orașul vechi are multe cafenele pentru a vă încălzi.",
+              "Atenție la frunzele alunecoase de pe străzile pietruite."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the path to the pond.",
+              "The Sust Museum offers an excellent indoor alternative.",
+              "Combine your walk with a short boat ride on the lake.",
+              "The old town has many cafes to warm up and dry off.",
+              "Watch out for slippery leaves on the cobblestone streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Horgen in winterlichem Glanz, beginnend am frostigen Seeufer. Nach einem belebenden Spaziergang an der Seepromenande wärmen Sie sich im Sust Museum auf, während draußen der Schnee leise fällt. Die historische Altstadt wirkt mit ihren Lichtern besonders festlich, und die reformierte Kirche bietet einen Ort der Besinnung. Eine Wanderung zum oft zugefrorenen Bergweiher zeigt die Stille der Natur, bevor Sie rechtzeitig vor dem frühen Sonnenuntergang in die warme Stube zurückkehren.",
+            "hu": "Tapasztalja meg Horgen téli fényét, kezdve a fagyos tóparton. Egy élénkítő séta után a tóparti sétányon, melegedjen fel a Sust Múzeumban, miközben odakint halkan hull a hó. A történelmi óváros az ünnepi fényekkel különösen varázslatos, a református templom pedig a nyugalom szigete. A gyakran befagyott hegyi tóhoz vezető túra a természet csendjét mutatja be, mielőtt a korai naplemente előtt visszatérne a melegbe.",
+            "ro": "Experimentați strălucirea iernii în Horgen, începând de pe malul înghețat al lacului. După o plimbare revigorantă pe faleză, încălziți-vă în Muzeul Sust în timp ce afară ninge încet. Orașul vechi istoric pare festiv cu luminile sale, iar biserica reformată oferă un loc de reflecție. O drumeție către iazul montan, adesea înghețat, dezvăluie liniștea naturii înainte de a vă întoarce la căldură înainte de apus.",
+            "en": "Experience Horgen in its winter glory, starting at the frosty lakeside. After an invigorating stroll along the promenade, warm up in the Sust Museum while snow falls quietly outside. The historic old town looks festive with its lights, and the Reformed Church offers a place for reflection. A hike to the often frozen mountain pond shows the silence of nature before you return to warmth just in time for the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Horgen Train Station",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stufen an den Bahnsteigen.",
+                "hu": "Ügyeljen a jeges lépcsőkre a peronokon.",
+                "ro": "Atenție la treptele înghețate de pe peroane.",
+                "en": "Watch out for icy steps on the train platforms."
+              }
+            },
+            {
+              "name": "Horgen Lakeside Promenade",
+              "tip_5lang": {
+                "de": "Die Bise vom See kann sehr schneidend kalt sein.",
+                "hu": "A tavi szél (Bise) metszően hideg lehet.",
+                "ro": "Vântul de pe lac poate fi extrem de tăios.",
+                "en": "The lake breeze can be very biting and cold."
+              }
+            },
+            {
+              "name": "Sust Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die wohlige Wärme in den historischen Räumen.",
+                "hu": "Élvezze a kellemes meleget a történelmi falak között.",
+                "ro": "Bucurați-vă de căldura plăcută din încăperile istorice.",
+                "en": "Enjoy the cozy warmth inside the historic rooms."
+              }
+            },
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Die Beleuchtung am späten Nachmittag ist sehr fotogen.",
+                "hu": "A késő délutáni kivilágítás nagyon fotogén.",
+                "ro": "Iluminatul de după-amiază târziu este foarte fotogenic.",
+                "en": "The late afternoon lighting is very photogenic."
+              }
+            },
+            {
+              "name": "Reformed Church of Horgen",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um der Winterkälte kurz zu entfliehen.",
+                "hu": "Csendes hely a téli hideg előli rövid meneküléshez.",
+                "ro": "Un loc liniștit pentru a scăpa scurt de frigul iernii.",
+                "en": "A quiet place to escape the winter cold for a moment."
+              }
+            },
+            {
+              "name": "Horgener Mountain Pond",
+              "tip_5lang": {
+                "de": "Das Betreten der Eisfläche ist meist lebensgefährlich.",
+                "hu": "A jégre lépni általában életveszélyes.",
+                "ro": "Călcarea pe gheață este de obicei extrem de periculoasă.",
+                "en": "Stepping onto the ice is usually life-threatening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung schützt vor der Seebrise.",
+              "Die Sonne geht im Winter bereits gegen 16:45 Uhr unter.",
+              "Heißer Tee in der Thermoskanne ist ideal für den Bergweiher.",
+              "Planen Sie mehr Zeit für den Aufstieg im Schnee ein.",
+              "Die Seepromenade wird bei Frost oft sehr rutschig."
+            ],
+            "hu": [
+              "A réteges öltözködés véd a hideg tavi széltől.",
+              "A nap télen már 16:45 körül lemegy.",
+              "A termoszos forró tea ideális a hegyi tóhoz.",
+              "Számoljon több idővel a havas emelkedőkre.",
+              "A tóparti sétány fagy idején nagyon csúszós lehet."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi vă protejează de briza lacului.",
+              "Soarele apune iarna în jurul orei 16:45.",
+              "Ceaiul fierbinte în termos este ideal pentru iazul montan.",
+              "Alocați mai mult timp pentru urcarea prin zăpadă.",
+              "Faleza lacului devine foarte alunecoasă în caz de îngheț."
+            ],
+            "en": [
+              "Layered clothing protects against the biting lake breeze.",
+              "The sun sets as early as 4:45 PM in winter.",
+              "Hot tea in a thermos is ideal for the mountain pond trip.",
+              "Allow more time for the ascent if there is snow.",
+              "The lakeside promenade often gets very slippery in frost."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -718,6 +908,196 @@
           "Bring enough water, especially for the uphill ride.",
           "A bike lock is essential when you visit museums."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet Horgen eine dynamische Radtour entlang des Zürichsees. Starten Sie spritzgeschützt am Bahnhof und fahren Sie zur Villa Seerose, wo die Architektur auch im Regen beeindruckt. Das Sust Museum und das Bergwerk Käpfnach sind perfekte Zwischenstopps, um im Trockenen zu bleiben und faszinierende Einblicke zu gewinnen. Die Auffahrt zum Bergweiher erfordert Vorsicht auf nassem Asphalt, belohnt aber mit frischer Waldluft, bevor es zur Kirche im Zentrum zurückgeht.",
+            "hu": "Az eső ellenére Horgen dinamikus kerékpártúrát kínál a Zürichi-tó mentén. Induljon sárvédővel a pályaudvartól a Villa Seerose felé, ahol az építészet esőben is lenyűgöző. A Sust Múzeum és a Käpfnach bánya tökéletes megállóhelyek, hogy szárazon maradjon és érdekességeket tudjon meg. A hegyi tóhoz vezető emelkedő óvatosságot igényel a nedves aszfalton, de friss erdei levegővel jutalmaz, mielőtt visszatérne a központi templomhoz.",
+            "ro": "În ciuda ploii, Horgen oferă un tur ciclist dinamic de-a lungul lacului. Porniți cu protecție împotriva stropilor de la gară spre Villa Seerose, unde arhitectura impresionează și pe ploaie. Muzeul Sust și mina Käpfnach sunt opriri perfecte pentru a rămâne uscat și a obține informații fascinante. Urcarea spre iaz necesită prudență pe asfaltul ud, dar răsplătește cu aer curat de pădure înainte de întoarcerea la biserica centrală.",
+            "en": "Despite the rain, Horgen offers a dynamic bike tour along Lake Zurich. Start with mudguards from the station towards Villa Seerose, where the architecture impresses even in the wet. The Sust Museum and the Käpfnach Mine are perfect stops to stay dry and gain fascinating insights. The climb to the mountain pond requires caution on wet asphalt but rewards you with fresh forest air before returning to the church in the center."
+          },
+          "stops": [
+            {
+              "name": "Horgen Train Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start im Regen.",
+                "hu": "Indulás előtt ellenőrizze a fékeket az esőben.",
+                "ro": "Verificați frânele înainte de a porni pe ploaie.",
+                "en": "Check your brakes before starting in the rain."
+              }
+            },
+            {
+              "name": "Lakeside Promenade and Villa Seerose",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassen Holzstegen am Seeufer.",
+                "hu": "Vigyázzon a nedves fapallókon a tóparton.",
+                "ro": "Atenție la punțile de lemn umede de pe mal.",
+                "en": "Be careful on wet wooden walkways along the shore."
+              }
+            },
+            {
+              "name": "Sust Museum & Old Town Hall",
+              "tip_5lang": {
+                "de": "Sichere Fahrradparkplätze befinden sich direkt vor dem Museum.",
+                "hu": "Biztonságos bicikliparkolók vannak közvetlenül a múzeumnál.",
+                "ro": "Parcările sigure pentru biciclete sunt chiar în fața muzeului.",
+                "en": "Secure bike parking is located right in front of the museum."
+              }
+            },
+            {
+              "name": "Käpfnach Mine",
+              "tip_5lang": {
+                "de": "Das Bergwerk ist der ultimative Ort für Regentage.",
+                "hu": "A bánya a végső menedék esős napokon.",
+                "ro": "Mina este locul suprem pentru zilele ploioase.",
+                "en": "The mine is the ultimate indoor spot for rainy days."
+              }
+            },
+            {
+              "name": "Horgener Mountain Pond",
+              "tip_5lang": {
+                "de": "Der Boden kann in Kurven sehr rutschig sein.",
+                "hu": "A talaj a kanyarokban nagyon csúszós lehet.",
+                "ro": "Solul poate fi foarte alunecos în curbe.",
+                "en": "The ground can be very slippery in the curves."
+              }
+            },
+            {
+              "name": "Reformed Church of Horgen",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Vordächern der nahen Häuser ab.",
+                "hu": "Támassza le a biciklit a közeli házak eresze alá.",
+                "ro": "Parcați bicicleta sub streșinile caselor din apropiere.",
+                "en": "Park your bike under the eaves of nearby buildings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Fahrten am Seeufer ein Muss.",
+              "Vermeiden Sie schnelle Bremsmanöver auf nassem Asphalt.",
+              "Das Bergwerk Käpfnach bietet eine lange trockene Pause.",
+              "Vorsicht vor Markierungen auf der Straße, diese werden rutschig.",
+              "Nutzen Sie die Regenpause im Museum für die Routenplanung."
+            ],
+            "hu": [
+              "A sárvédő kötelező a tóparti tekeréshez.",
+              "Kerülje a hirtelen fékezést a nedves aszfalton.",
+              "A Käpfnach bánya hosszú, száraz pihenőt kínál.",
+              "Vigyázzon az útburkolati jelekre, mert csúszóssá válnak.",
+              "Használja ki a múzeumi pihenőt az útvonal újratervezéséhez."
+            ],
+            "ro": [
+              "Aripile de protecție sunt obligatorii pe malul lacului.",
+              "Evitați frânările bruște pe asfaltul umed.",
+              "Mina Käpfnach oferă o pauză lungă și uscată.",
+              "Atenție la marcajele rutiere, acestea devin alunecoase.",
+              "Folosiți pauza de la muzeu pentru planificarea rutei."
+            ],
+            "en": [
+              "Mudguards are a must for rides along the lakeshore.",
+              "Avoid sudden braking maneuvers on wet asphalt.",
+              "Käpfnach Mine offers a long, dry break during the tour.",
+              "Watch out for road markings, as they become very slippery.",
+              "Use the museum break to re-evaluate your route if needed."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Rad durch Horgen erfordert gute Vorbereitung, bietet aber klare Luft und tolle Aussichten. Starten Sie warm eingepackt am Bahnhof und radeln Sie zur frostigen Villa Seerose. Das Sust Museum und das Käpfnach Bergwerk sind wichtige Wärmestopps auf Ihrer Route. Der Anstieg zum Bergweiher bringt Sie ins Schwitzen, während oben die winterliche Stille wartet. Beenden Sie die Tour an der beleuchteten Kirche, bevor die Kälte des Abends einsetzt.",
+            "hu": "Egy téli kerékpártúra Horgenben jó felkészülést igényel, de tiszta levegőt és remek kilátást kínál. Induljon melegen felöltözve a pályaudvartól a fagyos Villa Seerose felé. A Sust Múzeum és a Käpfnach bánya fontos melegedőhelyek az útvonalon. A hegyi tóhoz vezető emelkedő megizzasztja, de fent a téli csend várja. Zárja a túrát a kivilágított templomnál, mielőtt beállna az esti hideg.",
+            "ro": "Un tur de iarnă cu bicicleta prin Horgen necesită pregătire, dar oferă aer curat și vederi superbe. Porniți bine echipat de la gară spre Villa Seerose înghețată. Muzeul Sust și mina Käpfnach sunt puncte esențiale de încălzire pe traseu. Urcarea spre iaz vă va face să transpirați, în timp ce sus vă așteaptă liniștea iernii. Încheiați turul la biserica iluminată înainte de lăsarea gerului serii.",
+            "en": "A winter bike tour through Horgen requires good preparation but offers crisp air and great views. Start warmly dressed at the station and cycle to the frosty Villa Seerose. The Sust Museum and Käpfnach Mine are important warming stops on your route. The climb to the mountain pond will make you sweat, while winter silence awaits at the top. Finish the tour at the illuminated church before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Horgen Train Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; bei Kälte sinkt dieser oft.",
+                "hu": "Ellenőrizze a guminyomást, hidegben gyakran csökken.",
+                "ro": "Verificați presiunea anvelopelor; scade adesea la frig.",
+                "en": "Check your tire pressure; it often drops in cold weather."
+              }
+            },
+            {
+              "name": "Lakeside Promenade and Villa Seerose",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrierender Nässe in Ufernähe.",
+                "hu": "Vigyázzon a lefagyott nedvességre a part közelében.",
+                "ro": "Atenție la umezeala care îngheață lângă mal.",
+                "en": "Watch out for freezing moisture near the shore."
+              }
+            },
+            {
+              "name": "Sust Museum & Old Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pause, um die Finger wieder aufzuwärmen.",
+                "hu": "Használja ki a szünetet az ujjai felmelegítésére.",
+                "ro": "Folosiți pauza pentru a vă reîncălzi degetele.",
+                "en": "Use the break to warm up your fingers again."
+              }
+            },
+            {
+              "name": "Käpfnach Mine",
+              "tip_5lang": {
+                "de": "Unter Tage ist es oft wärmer als draußen im Wind.",
+                "hu": "A föld alatt gyakran melegebb van, mint kint a szélben.",
+                "ro": "În subteran este adesea mai cald decât afară în vânt.",
+                "en": "It is often warmer underground than outside in the wind."
+              }
+            },
+            {
+              "name": "Horgener Mountain Pond",
+              "tip_5lang": {
+                "de": "Abfahrt im Schatten kann extrem kalt werden.",
+                "hu": "Az árnyékos lejtőkön a gurulás extrém hideg lehet.",
+                "ro": "Coborârea la umbră poate deveni extrem de rece.",
+                "en": "The descent in the shade can be extremely cold."
+              }
+            },
+            {
+              "name": "Reformed Church of Horgen",
+              "tip_5lang": {
+                "de": "Kurzer Stopp vor der Rückgabe des Rads im Dunkeln.",
+                "hu": "Rövid megálló a bicikli sötétben való leadása előtt.",
+                "ro": "O scurtă oprire înainte de returnarea bicicletei pe întuneric.",
+                "en": "A quick stop before returning the bike in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe für die Abfahrten.",
+              "Stellen Sie sicher, dass Ihre Beleuchtung funktioniert.",
+              "Vermeiden Sie eisige Stellen auf den Waldwegen zum Weiher.",
+              "Trinken Sie auch bei Kälte genug, am besten Warmes.",
+              "Die Dämmerung beginnt früh, planen Sie die Rückkehr ein."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt a lejtőkhöz.",
+              "Győződjön meg róla, hogy a világítás megfelelően működik.",
+              "Kerülje a jeges foltokat a tóhoz vezető erdei utakon.",
+              "Hidegben is igyon eleget, lehetőleg valami meleged.",
+              "A szürkület korán kezdődik, tervezze meg a visszatérést."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt pentru coborâri.",
+              "Asigurați-vă că luminile bicicletei funcționează corect.",
+              "Evitați zonele înghețate de pe drumurile spre iaz.",
+              "Beți suficiente lichide chiar și la frig, de preferat calde.",
+              "Amurgul începe devreme, planificați întoarcerea la timp."
+            ],
+            "en": [
+              "Wear windproof gloves for the downhill sections.",
+              "Make sure your bike lights are working perfectly.",
+              "Avoid icy spots on the forest paths to the pond.",
+              "Drink enough even in the cold, preferably warm fluids.",
+              "Twilight starts early, plan your return accordingly."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1050,6 +1430,178 @@
           "Allow enough time for traffic, especially during rush hour.",
           "Check if an advance reservation is required for the mine."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Horgen lässt sich bei Regen bequem mit dem Auto erkunden. Parken Sie direkt am See und genießen Sie die Aussicht aus dem trockenen Fahrzeug, bevor Sie zum Sust Museum spazieren. Das historische Zentrum und die Kirche sind nur kurze Wege vom Parkplatz entfernt. Ein Highlight ist das Käpfnach Bergwerk, das komplett überdacht ist. Zum Abschluss fahren Sie zum Bergweiher, wo Sie die mystische Regenstimmung im Wald fast direkt vom Auto aus erleben können.",
+            "hu": "Horgen esőben is kényelmesen felfedezhető autóval. Parkoljon közvetlenül a tónál, és élvezze a kilátást a száraz autóból, mielőtt a Sust Múzeumhoz sétálna. A történelmi központ és a templom csak rövid sétára van a parkolótól. A Käpfnach bánya igazi fénypont, hiszen teljesen fedett. Végül hajtson fel a hegyi tóhoz, ahol az eső áztatta erdő misztikus hangulatát szinte az autóból élvezheti.",
+            "ro": "Horgen poate fi explorat confortabil cu mașina pe ploaie. Parcați chiar lângă lac și bucurați-vă de vedere din vehiculul uscat înainte de a merge la Muzeul Sust. Centrul istoric și biserica sunt la doar câțiva pași de parcare. Un punct culminant este mina Käpfnach, care este complet acoperită. La final, conduceți spre iazul montan pentru a experimenta atmosfera mistică a pădurii aproape direct din mașină.",
+            "en": "Horgen is easily explored by car during rainy weather. Park right by the lake and enjoy the views from your dry vehicle before walking to the Sust Museum. The historic center and church are just short steps from the parking areas. A highlight is the Käpfnach Mine, which is entirely undercover. Finally, drive up to the mountain pond, where you can experience the mystical rainy forest atmosphere almost directly from your car."
+          },
+          "stops": [
+            {
+              "name": "Lakeside Car Park",
+              "tip_5lang": {
+                "de": "Zahlen Sie bequem per App, um nicht im Regen zu stehen.",
+                "hu": "Fizessen kényelmesen alkalmazással, hogy ne kelljen az esőben állnia.",
+                "ro": "Plătiți confortabil prin aplicație pentru a nu sta în ploaie.",
+                "en": "Pay conveniently via app to avoid standing in the rain."
+              }
+            },
+            {
+              "name": "Sust Museum & Old Town",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz Schinzenhof zum Museum.",
+                "hu": "Rövid séta a Schinzenhof parkolótól a múzeumig.",
+                "ro": "Distanță scurtă de la parcarea Schinzenhof la muzeu.",
+                "en": "Short walk from the Schinzenhof car park to the museum."
+              }
+            },
+            {
+              "name": "Reformed Church of Horgen",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als schnellen Regenschutz.",
+                "hu": "Használja a templomkaput gyors esővédőként.",
+                "ro": "Folosiți intrarea bisericii ca protecție rapidă contra ploii.",
+                "en": "Use the church entrance as quick shelter from the rain."
+              }
+            },
+            {
+              "name": "Käpfnach Mine",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt am Eingang des Bergwerks.",
+                "hu": "Nagy parkoló közvetlenül a bánya bejáratánál.",
+                "ro": "Parcare mare chiar la intrarea în mină.",
+                "en": "Large parking lot directly at the mine entrance."
+              }
+            },
+            {
+              "name": "Horgener Mountain Pond",
+              "tip_5lang": {
+                "de": "Die Straße zum Weiher kann bei Starkregen rutschig sein.",
+                "hu": "A tóhoz vezető út heves esőben csúszós lehet.",
+                "ro": "Drumul spre iaz poate fi alunecos în caz de ploaie torențială.",
+                "en": "The road to the pond can be slippery during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Parkhäuser für komplett trockenes Einsteigen.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt in die Berge.",
+              "Das Bergwerk Käpfnach ist das beste Ziel bei Schlechtwetter.",
+              "In der Altstadt sind Parkplätze oft zeitlich begrenzt.",
+              "Horgen hat viele Parkmöglichkeiten direkt am Seeufer."
+            ],
+            "hu": [
+              "Használjon parkolóházakat a teljesen száraz beszálláshoz.",
+              "Ellenőrizze az ablaktörlőket a hegyi menet előtt.",
+              "A Käpfnach bánya a legjobb célpont rossz időben.",
+              "Az óvárosban a parkolás gyakran időben korlátozott.",
+              "Horgenben számos parkolóhely található közvetlenül a tóparton."
+            ],
+            "ro": [
+              "Folosiți parcările etajate pentru a urca în mașină la uscat.",
+              "Verificați ștergătoarele înainte de drumul spre munte.",
+              "Mina Käpfnach este cea mai bună destinație pe vreme rea.",
+              "În centrul vechi, parcările sunt adesea limitate ca timp.",
+              "Horgen are multe locuri de parcare chiar pe malul lacului."
+            ],
+            "en": [
+              "Use multi-story car parks for completely dry boarding.",
+              "Check your wipers before driving up into the hills.",
+              "Käpfnach Mine is the best destination for bad weather days.",
+              "Parking in the old town is often time-restricted.",
+              "Horgen has plenty of parking options right on the lakeshore."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie das winterliche Horgen mit dem Komfort Ihres Autos. Beginnen Sie am frostigen Seeufer, wo der Parkplatz einen tollen Blick bietet. Das Sust Museum und die festlich beleuchtete Altstadt sind bequem erreichbar und bieten Wärme nach kurzen Erkundungsgängen. Ein besonderes Erlebnis ist die Fahrt hinauf zum Bergweiher, der in der Winterlandschaft oft märchenhaft wirkt. Genießen Sie die winterliche Stille und die Wärme Ihres Wagens auf dem Rückweg ins Zentrum.",
+            "hu": "Fedezze fel a téli Horgent autója kényelméből. Kezdje a fagyos tóparton, ahol a parkolóból remek kilátás nyílik. A Sust Múzeum és az ünnepi fényben úszó óváros könnyen elérhető, és melegséget kínál a rövid felfedezőutak után. Különleges élmény a hegyi tóhoz vezető út, amely a téli tájban gyakran mesébe illő. Élvezze a téli csendet és kocsija melegét a központba vezető visszaúton.",
+            "ro": "Descoperiți Horgenul de iarnă din confortul mașinii dumneavoastră. Începeți pe malul înghețat al lacului, unde parcarea oferă o vedere superbă. Muzeul Sust și orașul vechi luminat festiv sunt ușor accesibile și oferă căldură după scurte explorări. O experiență deosebită este drumul spre iazul montan, care pare de basm în peisajul de iarnă. Bucurați-vă de liniștea iernii și de căldura mașinii la întoarcerea spre centru.",
+            "en": "Discover winter in Horgen from the comfort of your car. Start at the frosty lakeshore, where the car park offers great views. The Sust Museum and the festively lit old town are easily accessible and provide warmth after short explorations. A special experience is the drive up to the mountain pond, which often looks like a fairytale in the winter landscape. Enjoy the winter silence and the warmth of your car on the way back to the center."
+          },
+          "stops": [
+            {
+              "name": "Lakeside Car Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe auf dem Parkplatzgelände.",
+                "hu": "Vigyázzon a lefagyott nedvességre a parkoló területén.",
+                "ro": "Atenție la porțiunile înghețate din zona parcării.",
+                "en": "Watch out for black ice on the parking lot surface."
+              }
+            },
+            {
+              "name": "Sust Museum & Old Town",
+              "tip_5lang": {
+                "de": "In den historischen Gassen kann es bei Frost rutschig sein.",
+                "hu": "A történelmi utcák fagyban csúszósak lehetnek.",
+                "ro": "Pe străzile istorice poate fi alunecos în caz de îngheț.",
+                "en": "The historic alleys can be slippery in freezing conditions."
+              }
+            },
+            {
+              "name": "Reformed Church of Horgen",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; die Heizung im Wagen laufen lassen.",
+                "hu": "Rövid megálló; hagyja járni a fűtést az autóban.",
+                "ro": "Oprire scurtă; lăsați căldura pornită în mașină.",
+                "en": "Short stop; keep the heater running in the car."
+              }
+            },
+            {
+              "name": "Käpfnach Mine",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird bei Schnee geräumt, aber Vorsicht.",
+                "hu": "A parkolót hóban takarítják, de legyen óvatos.",
+                "ro": "Parcarea este deszăpezită, dar fiți atenți.",
+                "en": "The car park is cleared of snow, but still be cautious."
+              }
+            },
+            {
+              "name": "Horgener Mountain Pond",
+              "tip_5lang": {
+                "de": "Winterreifen und Erfahrung bei Schnee sind hier Pflicht.",
+                "hu": "Téli gumi és havas vezetési tapasztalat itt kötelező.",
+                "ro": "Anvelopele de iarnă și experiența pe zăpadă sunt obligatorii.",
+                "en": "Winter tires and experience in snow are mandatory here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in den höheren Lagen absolut notwendig.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Die Parkhäuser im Zentrum sind im Winter angenehm warm.",
+              "Bei Schneefall kann die Sicht am See stark eingeschränkt sein.",
+              "Nutzen Sie die Sitzheizung für maximale Gemütlichkeit."
+            ],
+            "hu": [
+              "A téli gumi elengedhetetlen a magasabban fekvő részeken.",
+              "Legyen Önnél jégkaparó és fagyálló folyadék.",
+              "A központi parkolóházak télen kellemesen melegek.",
+              "Hóesésben a látótávolság a tónál erősen korlátozott lehet.",
+              "Használja az ülésfűtést a maximális kényelemért."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt absolut necesare în zonele înalte.",
+              "Aveți la voi o răzuitoare de gheață și lichid de parbriz.",
+              "Parcările etajate din centru sunt plăcut de calde iarna.",
+              "În caz de ninsoare, vizibilitatea la lac poate fi redusă.",
+              "Folosiți încălzirea în scaune pentru confort maxim."
+            ],
+            "en": [
+              "Winter tires are absolutely necessary in the higher areas.",
+              "Carry an ice scraper and anti-freeze fluid with you.",
+              "The multi-story car parks in the center are warm in winter.",
+              "Visibility by the lake can be severely limited during snowfall.",
+              "Use the seat heating for maximum coziness."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1382,6 +1934,178 @@
           "Note that buses may run less frequently in more rural areas.",
           "Always validate your ticket before the first ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem öffentlichen Verkehr bleibt Horgen auch bei Regen ein Genuss. Die S-Bahn bringt Sie trocken zum Bahnhof, von wo Busse Sie direkt zur Altstadt und zum Sust Museum fahren. Das Highlight, das Käpfnach Bergwerk, ist bequem mit dem Bus erreichbar und bietet Schutz vor den Elementen. Auch der Bergweiher ist durch das dichte Busnetz erschlossen, sodass Sie die nasse Natur ohne langes Warten erleben können, bevor Sie im warmen Zug wieder Richtung Zürich fahren.",
+            "hu": "A tömegközlekedéssel Horgen esőben is élvezet marad. Az S-Bahn szárazon viszi a pályaudvarra, ahonnan buszok viszik közvetlenül az óvároshoz és a Sust Múzeumhoz. A Käpfnach bánya kényelmesen elérhető busszal, és védelmet nyújt az időjárás ellen. A hegyi tó is elérhető a sűrű buszhálózattal, így várakozás nélkül élvezheti a természetet, mielőtt a meleg vonattal visszaindulna Zürich felé.",
+            "ro": "Cu transportul public, Horgen rămâne o plăcere chiar și pe ploaie. Trenul S-Bahn vă aduce la gară, de unde autobuzele vă duc direct în centrul vechi și la Muzeul Sust. Mina Käpfnach este ușor accesibilă cu autobuzul și oferă protecție împotriva elementelor. Iazul montan este de asemenea deservit de rețeaua de autobuze, astfel încât să puteți vedea natura fără așteptări lungi înainte de retur.",
+            "en": "With public transport, Horgen remains a joy even in the rain. The S-Bahn brings you dry to the station, from where buses take you directly to the old town and the Sust Museum. The highlight, the Käpfnach Mine, is easily accessible by bus and offers protection from the elements. The mountain pond is also served by the dense bus network, allowing you to experience nature without long waits before heading back on a warm train."
+          },
+          "stops": [
+            {
+              "name": "Horgen Train Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle, um trocken zu bleiben.",
+                "hu": "Várjon az állomás várótermében, hogy száraz maradjon.",
+                "ro": "Așteptați în holul gării pentru a rămâne uscat.",
+                "en": "Wait in the station hall to stay dry."
+              }
+            },
+            {
+              "name": "Lakeside & Sust Museum",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle 'Horgen, Sust' liegt fast direkt am Eingang.",
+                "hu": "A 'Horgen, Sust' buszmegálló szinte közvetlenül a bejáratnál van.",
+                "ro": "Stația de autobuz 'Horgen, Sust' este chiar lângă intrare.",
+                "en": "The bus stop 'Horgen, Sust' is almost right at the entrance."
+              }
+            },
+            {
+              "name": "Old Town Hall & Church",
+              "tip_5lang": {
+                "de": "Gedeckte Wartehäuschen an den zentralen Bushaltestellen.",
+                "hu": "Fedett várók a központi buszmegállókban.",
+                "ro": "Adăposturi acoperite în stațiile centrale de autobuz.",
+                "en": "Covered waiting areas at the central bus stops."
+              }
+            },
+            {
+              "name": "Käpfnach Mine",
+              "tip_5lang": {
+                "de": "Der Bus 121 hält in der Nähe des Bergwerks.",
+                "hu": "A 121-es busz megáll a bánya közelében.",
+                "ro": "Autobuzul 121 oprește în apropierea minei.",
+                "en": "Bus line 121 stops near the mine entrance."
+              }
+            },
+            {
+              "name": "Horgener Mountain Pond",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten der Busse ab Bergweiher.",
+                "hu": "Ellenőrizze a buszok visszaindulási idejét a hegyi tótól.",
+                "ro": "Verificați orele de retur ale autobuzelor de la iaz.",
+                "en": "Check the return bus times from the mountain pond."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die ZVV-App für Echtzeit-Fahrpläne im Regen.",
+              "Die Busse in Horgen sind sehr pünktlich und gut beheizt.",
+              "Eine Tageskarte Zone 150 ist am kosteneffizientesten.",
+              "Die meisten Haltestellen im Zentrum sind überdacht.",
+              "Kombinieren Sie Bus und Bahn für minimale Gehwege."
+            ],
+            "hu": [
+              "Használja a ZVV appot a valós idejű menetrendhez esőben.",
+              "A horgeni buszok nagyon pontosak és jól fűtöttek.",
+              "A 150-es zónára érvényes napijegy a legköltséghatékonyabb.",
+              "A legtöbb központi buszmegálló fedett.",
+              "Kombinálja a buszt és a vonatot a minimális gyalogláshoz."
+            ],
+            "ro": [
+              "Folosiți aplicația ZVV pentru orare în timp real pe ploaie.",
+              "Autobuzele din Horgen sunt punctuale și bine încălzite.",
+              "Un bilet de o zi pentru zona 150 este cel mai rentabil.",
+              "Majoritatea stațiilor din centru sunt acoperite.",
+              "Combinați autobuzul și trenul pentru a merge cât mai puțin pe jos."
+            ],
+            "en": [
+              "Use the ZVV app for real-time schedules in the rain.",
+              "Horgen's buses are very punctual and well-heated.",
+              "A day pass for Zone 150 is the most cost-effective option.",
+              "Most central bus stops have covered waiting areas.",
+              "Combine bus and train to minimize walking distances."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter in Horgen ist mit Bahn und Bus besonders entspannt. Die S-Bahn bringt Sie direkt zum See, wo Sie die winterliche Luft genießen können, bevor Sie in den warmen Bus zum Sust Museum umsteigen. Die historische Altstadt ist festlich beleuchtet und bietet gemütliche Cafés nahe der Haltestellen. Der Bus bringt Sie auch hinauf zum Bergweiher, wo Sie die verschneite Natur bewundern können, um schließlich bequem und gewärmt die Heimreise mit dem öffentlichen Verkehr anzutreten.",
+            "hu": "A horgeni tél különösen pihentető vonattal és busszal. Az S-Bahn közvetlenül a tóhoz viszi, ahol élvezheti a téli levegőt, mielőtt átszállna a Sust Múzeumhoz tartó meleg buszra. A történelmi óváros ünnepi kivilágításban pompázik, és barátságos kávézókat kínál a megállók közelében. A busz felviszi a hegyi tóhoz is, ahol megcsodálhatja a havas természetet, majd kényelemben és melegben térhet haza.",
+            "ro": "Iarna în Horgen este relaxantă cu trenul și autobuzul. Trenul S-Bahn vă aduce direct la lac, unde puteți savura aerul de iarnă înainte de a urca în autobuzul cald spre Muzeul Sust. Orașul vechi istoric este luminat festiv și oferă cafenele primitoare lângă stații. Autobuzul vă duce și la iazul montan pentru a admira natura înzăpezită, înainte de a porni spre casă în confort și căldură.",
+            "en": "Winter in Horgen is especially relaxing by train and bus. The S-Bahn takes you directly to the lake, where you can enjoy the winter air before hopping on a warm bus to the Sust Museum. The historic old town is festively lit and offers cozy cafes near the stops. The bus also takes you up to the mountain pond to admire the snowy nature, letting you finally head home comfortably and warmed by public transport."
+          },
+          "stops": [
+            {
+              "name": "Horgen Train Station",
+              "tip_5lang": {
+                "de": "Die Wartehalle ist im Winter angenehm geheizt.",
+                "hu": "A váróterem télen kellemesen fűtött.",
+                "ro": "Sala de așteptare este încălzită plăcut iarna.",
+                "en": "The waiting hall is comfortably heated in winter."
+              }
+            },
+            {
+              "name": "Lakeside & Sust Museum",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Stellen beim Aussteigen.",
+                "hu": "Ügyeljen a csúszós részekre leszálláskor.",
+                "ro": "Atenție la zonele alunecoase la coborâre.",
+                "en": "Watch out for slippery spots when getting off the bus."
+              }
+            },
+            {
+              "name": "Old Town Hall & Church",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Lichter aus dem Busfenster.",
+                "hu": "Élvezze a fények látványát a busz ablakából.",
+                "ro": "Bucurați-vă de vederea luminilor de la geamul autobuzului.",
+                "en": "Enjoy the view of the lights from the bus window."
+              }
+            },
+            {
+              "name": "Käpfnach Mine",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter nach normalem Fahrplan.",
+                "hu": "A buszok télen a normál menetrend szerint közlekednek.",
+                "ro": "Autobuzele circulă conform orarului normal iarna.",
+                "en": "Buses run according to the regular schedule in winter."
+              }
+            },
+            {
+              "name": "Horgener Mountain Pond",
+              "tip_5lang": {
+                "de": "Bei starkem Schneefall können Busse Verspätung haben.",
+                "hu": "Erős hóesésben a buszok késhetnek.",
+                "ro": "În caz de ninsoare abundentă, autobuzele pot avea întârzieri.",
+                "en": "Buses may be delayed during heavy snowfall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warten Sie bei Kälte in den geheizten Bahnhofsgebäuden.",
+              "Die Busse fahren Sie fast bis zum Ufer des Bergweihers.",
+              "Prüfen Sie Abfahrtszeiten vorab, um Stehzeiten zu minimieren.",
+              "Im Winter sind die Züge oft weniger überfüllt.",
+              "Tragen Sie Schuhe mit gutem Profil für den Weg zur Haltestelle."
+            ],
+            "hu": [
+              "Hidegben várjon a fűtött állomásépületekben.",
+              "A buszok szinte a hegyi tó partjáig viszik fel.",
+              "Ellenőrizze előre az indulást, hogy keveset kelljen várni.",
+              "Télen a vonatok gyakran kevésbé zsúfoltak.",
+              "Viseljen jó tapadású cipőt a megállóhoz vezető úton."
+            ],
+            "ro": [
+              "Așteptați în clădirile gării încălzite în caz de frig.",
+              "Autobuzele vă duc aproape până la malul iazului montan.",
+              "Verificați orarul în avans pentru a minimiza timpul de așteptare.",
+              "Iarna trenurile sunt adesea mai puțin aglomerate.",
+              "Purtați pantofi cu talpă aderentă pentru drumul spre stație."
+            ],
+            "en": [
+              "Wait inside the heated station buildings during cold spells.",
+              "Buses take you almost to the shore of the mountain pond.",
+              "Check departure times in advance to minimize waiting outside.",
+              "Trains are often less crowded during the winter season.",
+              "Wear shoes with good grip for the walk to the bus stop."
+            ]
+          }
+        }
       }
     }
   }

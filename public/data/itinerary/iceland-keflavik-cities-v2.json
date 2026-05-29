@@ -362,6 +362,188 @@
           "Many cafes offer free Wi-Fi if you need a break.",
           "The walk to Stekkjarkot is long; bring water and a snack."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Rock 'n' Roll Museum, um dem Regen zu entkommen. Mittags bietet das Duus-Museum kulturelle Wärme, während der Hafen im Nebel eine mystische Atmosphäre ausstrahlt. Nachmittags besuchen Sie die Riesin in ihrer trockenen Höhle. Der Abend endet gemütlich in einem Restaurant am Wasser, während der Wind um die Ecken pfeift.",
+            "hu": "Kezdje a napot a Rock 'n' Roll Múzeumban, hogy elkerülje az esőt. Délben a Duus Múzeum kulturális melegében pihenhet meg, miközben a kikötő ködös, misztikus arcát mutatja. Délután látogassa meg az Óriásasszonyt a száraz barlangjában. Az este egy hangulatos vízparti étteremben ér véget, miközben kint fütyül a szél.",
+            "ro": "Începeți ziua la Muzeul Rock 'n' Roll pentru a scăpa de ploaie. La prânz, Muzeul Duus oferă căldură culturală, în timp ce portul are o atmosferă mistică în ceață. După-amiaza, vizitați Uriașa în peștera ei uscată. Seara se încheie confortabil într-un restaurant de pe malul apei, în timp ce vântul șuieră la colțuri.",
+            "en": "Start the day at the Rock 'n' Roll Museum to escape the rain. At noon, the Duus Museum provides cultural warmth while the harbor shows a mystical face in the mist. In the afternoon, visit the Giantess in her dry cave. The evening ends cozily in a waterfront restaurant while the wind whistles outside."
+          },
+          "stops": [
+            {
+              "name": "Icelandic Rock 'n' Roll Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um trocken zu bleiben und isländische Musikgeschichte zu genießen.",
+                "hu": "Tökéletes hely, hogy szárazon maradjon és megismerje az izlandi zene történelmét.",
+                "ro": "Locul perfect pentru a rămâne uscat și a vă bucura de istoria muzicii islandeze.",
+                "en": "Perfect place to stay dry and enjoy Icelandic music history."
+              }
+            },
+            {
+              "name": "Keflavíkurkirkja",
+              "tip_5lang": {
+                "de": "Ein kurzer, besinnlicher Stopp im Inneren schützt vor den schlimmsten Güssen.",
+                "hu": "Egy rövid, belső látogatás megvédi a leghevesebb záporoktól.",
+                "ro": "O scurtă oprire în interior vă protejează de cele mai puternice averse.",
+                "en": "A short, reflective stop inside protects you from the worst downpours."
+              }
+            },
+            {
+              "name": "Duus Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Café und die Ausstellungen, bis der Regen nachlässt.",
+                "hu": "Használja ki a kávézót és a kiállításokat, amíg alábbhagy az eső.",
+                "ro": "Profitați de cafenea și expoziții până când ploaia se potolește.",
+                "en": "Enjoy the cafe and exhibitions until the rain lets up."
+              }
+            },
+            {
+              "name": "The Giantess in the Cave",
+              "tip_5lang": {
+                "de": "Die Höhle ist komplett überdacht und bietet Schutz vor Wind und Wetter.",
+                "hu": "A barlang teljesen fedett, védelmet nyújt a szél és az eső ellen.",
+                "ro": "Peștera este complet acoperită, oferind protecție împotriva vântului și ploii.",
+                "en": "The cave is completely covered, providing shelter from wind and rain."
+              }
+            },
+            {
+              "name": "Anchor Monument",
+              "tip_5lang": {
+                "de": "Nur ein schneller Fotostopp; am Hafen weht der Regen meist waagerecht.",
+                "hu": "Csak egy gyors fotó; a kikötőnél az eső gyakran vízszintesen esik.",
+                "ro": "Doar o scurtă oprire pentru poze; în port, ploaia cade adesea orizontal.",
+                "en": "Just a quick photo stop; at the harbor, the rain often blows horizontally."
+              }
+            },
+            {
+              "name": "Stekkjarkot",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Graspfaden, diese können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázzon a füves ösvényeken, esőben nagyon csúszósak lehetnek.",
+                "ro": "Atenție pe potecile cu iarbă, acestea pot fi foarte alunecoase când sunt ude.",
+                "en": "Be careful on the grass paths, they can be very slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Regenschirme sind wegen des starken Windes oft nutzlos; wählen Sie gute Regenkleidung.",
+              "Die Museen in Keflavík liegen nah beieinander, ideal für kurze Wege im Regen.",
+              "Achten Sie auf Pfützen in den unebenen Straßen rund um den Hafen.",
+              "Ein heißer Kaffee im Duus Museum wärmt nach dem Spaziergang auf."
+            ],
+            "hu": [
+              "Az esernyők a nagy szél miatt gyakran haszontalanok; válasszon jó esőkabátot.",
+              "Keflavík múzeumai közel vannak egymáshoz, ideális a rövid sétákhoz az esőben.",
+              "Vigyázzon a tócsákra a kikötő körüli egyenetlen utcákon.",
+              "Egy forró kávé a Duus Múzeumban jól felmelegíti a séta után."
+            ],
+            "ro": [
+              "Umbrelele sunt adesea inutile din cauza vântului puternic; alegeți haine de ploaie bune.",
+              "Muzeele din Keflavík sunt aproape unele de altele, ideale pentru plimbări scurte.",
+              "Atenție la bălțile de pe străzile denivelate din jurul portului.",
+              "O cafea fierbinte la Muzeul Duus vă va încălzi după plimbare."
+            ],
+            "en": [
+              "Umbrellas are often useless due to strong winds; choose good rain gear instead.",
+              "Keflavík's museums are close to each other, ideal for short walks in the rain.",
+              "Watch out for puddles on the uneven streets around the harbor.",
+              "A hot coffee at the Duus Museum warms you up after the walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die winterliche Stille am Polarkreis. Der Tag beginnt spät im warmen Rock-Museum. Mittags nutzen wir das rare Tageslicht für einen Blick auf die schneebedeckte Kirche und den Hafen. Die Riesin in ihrer Höhle wirkt im Winter noch magischer. Abends suchen wir die Wärme lokaler Cafés auf, während draußen vielleicht Polarlichter tanzen.",
+            "hu": "Élje át a sarkvidéki tél csendjét. A nap későn indul a meleg Rock-múzeumban. Délben kihasználjuk a kevés nappali fényt a havas templom és a kikötő megtekintésére. Az óriásasszony barlangja télen még varázslatosabb. Este a helyi kávézók melegét keressük, miközben odakint talán felgyúlnak az északi fények.",
+            "ro": "Experimentați liniștea iernii arctice. Ziua începe târziu în muzeul cald al muzicii rock. La prânz profităm de puțina lumină pentru a vedea biserica înzăpezită și portul. Peștera uriașei pare și mai magică iarna. Seara căutăm căldura cafenelelor locale, în timp ce afară s-ar putea să apară aurora boreală.",
+            "en": "Experience the silence of the Arctic winter. The day starts late in the warm Rock Museum. At noon, we use the rare daylight to see the snowy church and harbor. The Giantess's cave feels even more magical in winter. In the evening, we seek the warmth of local cafes while the Northern Lights might dance outside."
+          },
+          "stops": [
+            {
+              "name": "Icelandic Rock 'n' Roll Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um auf den späten Sonnenaufgang zu warten.",
+                "hu": "Ideális hely, hogy megvárja a késői napfelkeltét.",
+                "ro": "Un loc ideal pentru a aștepta răsăritul târziu al soarelui.",
+                "en": "An ideal place to wait for the late sunrise."
+              }
+            },
+            {
+              "name": "Keflavíkurkirkja",
+              "tip_5lang": {
+                "de": "Die weiße Kirche sieht im Schnee besonders malerisch aus.",
+                "hu": "A fehér templom különösen festői a hóban.",
+                "ro": "Biserica albă arată deosebit de pitoresc în zăpadă.",
+                "en": "The white church looks particularly picturesque in the snow."
+              }
+            },
+            {
+              "name": "Duus Museum",
+              "tip_5lang": {
+                "de": "Gönnen Sie sich eine heiße Schokolade im Museumscafé.",
+                "hu": "Kényeztesse magát egy forró csokoládéval a múzeum kávézójában.",
+                "ro": "Răsfățați-vă cu o ciocolată caldă la cafeneaua muzeului.",
+                "en": "Treat yourself to a hot chocolate in the museum cafe."
+              }
+            },
+            {
+              "name": "The Giantess in the Cave",
+              "tip_5lang": {
+                "de": "Schutz vor dem eisigen Wind; die Höhle ist ein Highlight für Kinder.",
+                "hu": "Védelem a jeges szél ellen; a barlang igazi élmény a gyerekeknek.",
+                "ro": "Protecție împotriva vântului înghețat; peștera este un punct de atracție pentru copii.",
+                "en": "Shelter from the icy wind; the cave is a highlight for children."
+              }
+            },
+            {
+              "name": "Anchor Monument",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eis auf den Wegen direkt am Ufer.",
+                "hu": "Vigyázzon a jégre a közvetlenül a parton vezető utakon.",
+                "ro": "Atenție la gheața de pe potecile de pe malul mării.",
+                "en": "Watch out for ice on the paths right by the shore."
+              }
+            },
+            {
+              "name": "Stekkjarkot",
+              "tip_5lang": {
+                "de": "Die historischen Torfhäuser sind bei Sonnenuntergang oft wunderschön beleuchtet.",
+                "hu": "A történelmi gyepházak naplementekor gyakran gyönyörűen ki vannak világítva.",
+                "ro": "Casele istorice din turbă sunt adesea iluminate frumos la apus.",
+                "en": "The historical turf houses are often beautifully lit at sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Das Tageslicht ist begrenzt (ca. 11 bis 16 Uhr), planen Sie Außenstopps für mittags.",
+              "Tragen Sie mehrere Schichten Wolle und winddichte Kleidung.",
+              "Wanderschuhe mit gutem Profil sind bei gefrorenem Boden unerlässlich.",
+              "Halten Sie nach 18 Uhr Ausschau nach Nordlichtern über dem Meer."
+            ],
+            "hu": [
+              "A nappali fény korlátozott (kb. 11 és 16 óra között), a kinti megállókat délre tervezze.",
+              "Viseljen több réteg gyapjút és szélálló ruházatot.",
+              "A jó tapadású túrabakancs elengedhetetlen a fagyott talajon.",
+              "18 óra után keressen északi fényt a tenger felett."
+            ],
+            "ro": [
+              "Lumina zilei este limitată (aprox. 11 - 16), planificați opririle exterioare pentru prânz.",
+              "Purtați mai multe straturi de lână și haine rezistente la vânt.",
+              "Bocancii de drumeție cu talpă aderentă sunt esențiali pe solul înghețat.",
+              "Căutați aurora boreală deasupra mării după ora 18:00."
+            ],
+            "en": [
+              "Daylight is limited (approx. 11 AM to 4 PM), plan outdoor stops for midday.",
+              "Wear multiple layers of wool and windproof clothing.",
+              "Hiking boots with good grip are essential on frozen ground.",
+              "Keep an eye out for Northern Lights over the sea after 6 PM."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +924,206 @@
           "The roads are good, but be aware of gravel on side paths.",
           "Always lock your bike at the attractions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Küste spektakuläre Aussichten. Starten Sie bei Viking World, wo das Wikingerschiff trocken erkundet werden kann. Die Radtour führt entlang der Küste nach Stekkjarkot. Mittags wärmen Sie sich in den Museen der Stadt auf. Der Wind am Hólmsberg Lighthouse kann fordernd sein, aber die raue Natur ist unvergesslich.",
+            "hu": "Az eső ellenére a part látványos kilátást nyújt. Kezdjen a Viking Worldnél, ahol szárazon nézheti meg a hajót. A biciklitúra a part mentén vezet Stekkjarkot felé. Délben melegedjen fel a város múzeumaiban. A szél a Hólmsberg világítótoronynál erős lehet, de a vad természet felejthetetlen.",
+            "ro": "În ciuda ploii, coasta oferă priveliști spectaculoase. Începeți la Viking World, unde nava vikingă poate fi explorată la uscat. Turul cu bicicleta trece pe lângă coastă spre Stekkjarkot. La prânz, încălziți-vă în muzeele orașului. Vântul de la farul Hólmsberg poate fi solicitant, dar natura sălbatică este de neuitat.",
+            "en": "Despite the rain, the coast offers spectacular views. Start at Viking World, where the Viking ship can be explored while dry. The bike tour leads along the coast to Stekkjarkot. At noon, warm up in the city's museums. The wind at Hólmsberg Lighthouse can be demanding, but the raw nature is unforgettable."
+          },
+          "stops": [
+            {
+              "name": "Viking World",
+              "tip_5lang": {
+                "de": "Viel Platz im Innenbereich, um die Ausrüstung zu ordnen, bevor es losgeht.",
+                "hu": "Tágas beltér, ahol rendezheti felszerelését az indulás előtt.",
+                "ro": "Spațiu interior generos pentru a vă organiza echipamentul înainte de plecare.",
+                "en": "Plenty of indoor space to organize your gear before heading out."
+              }
+            },
+            {
+              "name": "Stekkjarkot",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; die Torfhäuser bieten wenig Unterstand bei Regen.",
+                "hu": "Rövid megálló; a gyepházak kevés menedéket nyújtanak esőben.",
+                "ro": "Oprire scurtă; casele de turbă oferă puțin adăpost în caz de ploaie.",
+                "en": "Short stop; the turf houses offer little shelter from the rain."
+              }
+            },
+            {
+              "name": "Icelandic Rock 'n' Roll Museum",
+              "tip_5lang": {
+                "de": "Sichere Fahrradabstellplätze und ein warmes Foyer erwarten Sie.",
+                "hu": "Biztonságos kerékpártárolók és meleg aula várja.",
+                "ro": "Vă așteaptă locuri sigure de parcare pentru biciclete și un foaier cald.",
+                "en": "Safe bike parking and a warm foyer await you."
+              }
+            },
+            {
+              "name": "Keflavíkurkirkja",
+              "tip_5lang": {
+                "de": "Die Fassade glänzt im Regen; ein schöner Ort für einen kurzen Halt.",
+                "hu": "A homlokzat csillog az esőben; szép hely egy rövid megállásra.",
+                "ro": "Fațada strălucește în ploaie; un loc frumos pentru o scurtă pauză.",
+                "en": "The facade shines in the rain; a beautiful spot for a quick stop."
+              }
+            },
+            {
+              "name": "Duus Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort für eine längere Pause, um Kleidung zu trocknen.",
+                "hu": "Ideális hely egy hosszabb szünetre, hogy megszárítsa ruháit.",
+                "ro": "Loc ideal pentru o pauză mai lungă pentru a vă usca hainele.",
+                "en": "Ideal spot for a longer break to dry your clothes."
+              }
+            },
+            {
+              "name": "The Giantess in the Cave",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad draußen ab und genießen Sie die Stille in der Höhle.",
+                "hu": "Hagyja kint a biciklit, és élvezze a barlang csendjét.",
+                "ro": "Lăsați bicicleta afară și bucurați-vă de liniștea din peșteră.",
+                "en": "Park your bike outside and enjoy the silence in the cave."
+              }
+            },
+            {
+              "name": "Hólmsberg Lighthouse",
+              "tip_5lang": {
+                "de": "Achtung: Sehr exponiert und windig. Halten Sie den Lenker fest!",
+                "hu": "Vigyázat: Nagyon kitett és szeles hely. Erősen fogja a kormányt!",
+                "ro": "Atenție: Foarte expus și vântos. Țineți bine ghidonul!",
+                "en": "Caution: Very exposed and windy. Hold onto your handlebars!"
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein kompletter Regenanzug und wasserdichte Handschuhe sind beim Radfahren Pflicht.",
+              "Die Küstenwege können bei Seitenwind gefährlich sein; fahren Sie vorsichtig.",
+              "Vermeiden Sie Pfützen, da diese tiefer sein können als sie aussehen.",
+              "Kürzen Sie die Tour ab, wenn der Wind zu stark wird."
+            ],
+            "hu": [
+              "A teljes esőruha és a vízálló kesztyű kötelező a biciklizéshez.",
+              "A parti utak oldalszélben veszélyesek lehetnek; vezessen óvatosan.",
+              "Kerülje a tócsákat, mert mélyebbek lehetnek, mint amilyennek látszanak.",
+              "Rövidítse le a túrát, ha a szél túl erősre fordul."
+            ],
+            "ro": [
+              "Costumul complet de ploaie și mănușile impermeabile sunt obligatorii pentru ciclism.",
+              "Drumurile de coastă pot fi periculoase în caz de vânt lateral; conduceți cu atenție.",
+              "Evitați bălțile, deoarece pot fi mai adânci decât par.",
+              "Scurtați turul dacă vântul devine prea puternic."
+            ],
+            "en": [
+              "A full rain suit and waterproof gloves are mandatory for cycling.",
+              "Coastal paths can be dangerous in crosswinds; ride carefully.",
+              "Avoid puddles, as they may be deeper than they look.",
+              "Shorten the tour if the wind becomes too strong."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Island ist ein Abenteuer. Beginnen Sie bei Viking World, solange es noch dämmert. Der Weg entlang der Küste bietet dramatische Ausblicke auf gefrorene Wellen. Nutzen Sie die Museen für regelmäßige Aufwärmpausen. Der Hólmsberg Lighthouse ist am Nachmittag ein einsamer, aber beeindruckender Ort unter dem Winterhimmel.",
+            "hu": "A téli kerékpározás Izlandon igazi kaland. Kezdjen a Viking Worldnél, amíg még szürkület van. A part menti út drámai kilátást nyújt a fagyott hullámokra. Használja a múzeumokat rendszeres melegedő szünetekre. A Hólmsberg világítótorony délután magányos, de lenyűgöző hely a téli égbolt alatt.",
+            "ro": "Ciclismul de iarnă în Islanda este o aventură. Începeți la Viking World cât timp este încă amurg. Drumul de-a lungul coastei oferă priveliști dramatice ale valurilor înghețate. Folosiți muzeele pentru pauze regulate de încălzire. Farul Hólmsberg este un loc singuratic, dar impresionant sub cerul de iarnă.",
+            "en": "Winter cycling in Iceland is an adventure. Start at Viking World while it's still twilight. The path along the coast offers dramatic views of frozen waves. Use the museums for regular warming breaks. Hólmsberg Lighthouse is a lonely but impressive spot under the winter sky in the afternoon."
+          },
+          "stops": [
+            {
+              "name": "Viking World",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Reifen und die Beleuchtung im warmen Innenbereich.",
+                "hu": "Ellenőrizze a gumikat és a világítást a meleg beltérben.",
+                "ro": "Verificați anvelopele și luminile în spațiul interior cald.",
+                "en": "Check your tires and lights in the warm indoor area."
+              }
+            },
+            {
+              "name": "Stekkjarkot",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen auf den schmalen Pfaden.",
+                "hu": "Vigyázzon a jeges foltokra a keskeny ösvényeken.",
+                "ro": "Atenție la porțiunile înghețate de pe potecile înguste.",
+                "en": "Beware of icy patches on the narrow paths."
+              }
+            },
+            {
+              "name": "Icelandic Rock 'n' Roll Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um Ihre Hände wieder aufzuwärmen.",
+                "hu": "Használja ki a megállót, hogy felmelegítse a kezeit.",
+                "ro": "Profitați de oprire pentru a vă reîncălzi mâinile.",
+                "en": "Take advantage of the stop to warm up your hands."
+              }
+            },
+            {
+              "name": "Keflavíkurkirkja",
+              "tip_5lang": {
+                "de": "Im Winterlicht ein tolles Motiv für ein schnelles Foto.",
+                "hu": "A téli fényekben remek téma egy gyors fotóhoz.",
+                "ro": "O temă grozavă pentru o poză rapidă în lumina iernii.",
+                "en": "A great subject for a quick photo in the winter light."
+              }
+            },
+            {
+              "name": "Duus Museum",
+              "tip_5lang": {
+                "de": "Laden Sie Ihre elektronischen Geräte auf, Kälte leert Akkus schneller.",
+                "hu": "Töltse fel eszközeit, a hideg gyorsabban meríti az akkukat.",
+                "ro": "Încărcați-vă dispozitivele, frigul descarcă bateriile mai repede.",
+                "en": "Charge your electronics, cold drains batteries faster."
+              }
+            },
+            {
+              "name": "The Giantess in the Cave",
+              "tip_5lang": {
+                "de": "Ein geschützter Ort, um der eisigen Brise kurz zu entfliehen.",
+                "hu": "Védett hely, hogy rövid időre elmeneküljön a jeges szellő elől.",
+                "ro": "Un loc protejat pentru a scăpa scurt de briza înghețată.",
+                "en": "A sheltered spot to briefly escape the icy breeze."
+              }
+            },
+            {
+              "name": "Hólmsberg Lighthouse",
+              "tip_5lang": {
+                "de": "Besuch nur bei moderatem Wind; die Küstenfelsen können glatt sein.",
+                "hu": "Csak mérsékelt szélben látogassa; a parti sziklák csúszósak lehetnek.",
+                "ro": "Vizitați doar dacă vântul este moderat; stâncile de pe coastă pot fi alunecoase.",
+                "en": "Only visit in moderate wind; coastal rocks can be slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikes-Reifen sind im isländischen Winter für Radfahrer sehr zu empfehlen.",
+              "Die gefühlte Temperatur ist durch den Wind viel niedriger; kleiden Sie sich extrem warm.",
+              "Vermeiden Sie Fahrten nach Einbruch der Dunkelheit auf unbeleuchteten Wegen.",
+              "Informieren Sie jemanden über Ihre geplante Route und Rückkehrzeit."
+            ],
+            "hu": [
+              "A szöges gumik használata erősen ajánlott az izlandi téli kerékpározáshoz.",
+              "A hőérzet a szél miatt sokkal alacsonyabb; öltözzön rendkívül melegen.",
+              "Sötétedés után kerülje a kivilágítatlan utakat.",
+              "Tájékoztasson valakit a tervezett útvonaláról és a visszaérkezés idejéről."
+            ],
+            "ro": [
+              "Anvelopele cu ținte sunt foarte recomandate pentru ciclismul de iarnă în Islanda.",
+              "Temperatura resimțită este mult mai scăzută din cauza vântului; îmbrăcați-vă extrem de gros.",
+              "Evitați deplasările după lăsarea întunericului pe drumuri neiluminate.",
+              "Informați pe cineva despre traseul planificat și ora de întoarcere."
+            ],
+            "en": [
+              "Studded tires are highly recommended for winter cycling in Iceland.",
+              "The wind chill makes it feel much colder; dress extremely warmly.",
+              "Avoid riding after dark on unlit paths.",
+              "Inform someone of your planned route and expected return time."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1146,6 +1528,224 @@
           "A car gives you the flexibility to explore the wider Reykjanes Peninsula.",
           "Be mindful of speed limits, which are strictly enforced."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist die beste Wahl für einen regnerischen Tag in Keflavík. Besuchen Sie Viking World und genießen Sie die Aussicht am Hólmsberg Lighthouse aus der Wärme des Fahrzeugs. Parken Sie bequem am Hafen, um das Duus-Museum und die Riesin zu besuchen. Den Abschluss bildet das Rock 'n' Roll Museum, während der Regen draußen an die Scheiben trommelt.",
+            "hu": "Az autó a legjobb választás egy esős napra Keflavíkban. Látogassa meg a Viking Worldöt, és élvezze a kilátást a Hólmsberg világítótoronynál a jármű melegéből. Parkoljon kényelmesen a kikötőben a Duus Múzeum és az Óriásasszony meglátogatásához. A napot a Rock 'n' Roll Múzeum zárja, miközben az eső kint az ablakon kopog.",
+            "ro": "Mașina este cea mai bună alegere pentru o zi ploioasă în Keflavík. Vizitați Viking World și bucurați-vă de priveliștea de la farul Hólmsberg din căldura vehiculului. Parcați confortabil în port pentru a vizita Muzeul Duus și Uriașa. Ziua se încheie la Muzeul Rock 'n' Roll, în timp ce ploaia bate în geamuri.",
+            "en": "The car is the best choice for a rainy day in Keflavík. Visit Viking World and enjoy the view at Hólmsberg Lighthouse from the warmth of the vehicle. Park conveniently at the harbor to visit the Duus Museum and the Giantess. The day concludes at the Rock 'n' Roll Museum while the rain drums on the windows outside."
+          },
+          "stops": [
+            {
+              "name": "Viking World",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt vor dem Eingang, kaum Gehweg im Regen.",
+                "hu": "Nagy parkoló közvetlenül a bejáratnál, alig kell sétálni az esőben.",
+                "ro": "Parcare mare chiar în fața intrării, aproape deloc de mers prin ploaie.",
+                "en": "Large parking lot right in front of the entrance, minimal walking in the rain."
+              }
+            },
+            {
+              "name": "Hólmsberg Lighthouse",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die tosenden Wellen direkt aus dem Auto.",
+                "hu": "Élvezze a tajtékzó hullámok látványát közvetlenül az autóból.",
+                "ro": "Bucurați-vă de vederea valurilor înspumate direct din mașină.",
+                "en": "Enjoy the view of the crashing waves directly from the car."
+              }
+            },
+            {
+              "name": "Parking at the Harbor",
+              "tip_5lang": {
+                "de": "Zentraler Standort, um schnell zwischen Museen und Auto zu wechseln.",
+                "hu": "Központi helyszín, gyors váltás a múzeumok és az autó között.",
+                "ro": "Locație centrală pentru a schimba rapid între muzee și mașină.",
+                "en": "Central location to quickly switch between museums and the car."
+              }
+            },
+            {
+              "name": "Duus Museum",
+              "tip_5lang": {
+                "de": "Der Eingang ist nur wenige Schritte vom Hafenparkplatz entfernt.",
+                "hu": "A bejárat csak pár lépésre van a kikötői parkolótól.",
+                "ro": "Intrarea este la doar câțiva pași de parcarea din port.",
+                "en": "The entrance is just a few steps from the harbor parking lot."
+              }
+            },
+            {
+              "name": "The Giantess in the Cave",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto reicht aus, um ins Trockene zu kommen.",
+                "hu": "Egy rövid sprint az autótól elég, hogy beérjen a szárazra.",
+                "ro": "Un scurt sprint de la mașină este suficient pentru a ajunge la adăpost.",
+                "en": "A quick sprint from the car is enough to get inside."
+              }
+            },
+            {
+              "name": "Anchor Monument",
+              "tip_5lang": {
+                "de": "Kann auch gut von der Straße aus im Vorbeifahren betrachtet werden.",
+                "hu": "Az útról, elhaladva is jól megtekinthető.",
+                "ro": "Poate fi văzut bine și de pe drum, în trecere.",
+                "en": "Can also be viewed well from the road as you drive by."
+              }
+            },
+            {
+              "name": "Parking near Hljómahöll",
+              "tip_5lang": {
+                "de": "Sicherer Parkplatz direkt hinter dem Kulturzentrum.",
+                "hu": "Biztonságos parkoló közvetlenül a kulturális központ mögött.",
+                "ro": "Parcare sigură chiar în spatele centrului cultural.",
+                "en": "Safe parking lot right behind the cultural center."
+              }
+            },
+            {
+              "name": "Icelandic Rock 'n' Roll Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den Tag gemütlich und trocken ausklingen zu lassen.",
+                "hu": "Tökéletes hely a nap hangulatos és száraz lezárásához.",
+                "ro": "Locul perfect pentru a încheia ziua într-un mod plăcut și uscat.",
+                "en": "The perfect place to end the day cozily and dryly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie beim Öffnen der Autotüren auf den starken Wind (Türen festhalten!).",
+              "Die Straßen können bei starkem Regen rutschig sein; fahren Sie defensiv.",
+              "Nutzen Sie die Sitzheizung, um nach kurzen Stopps draußen schnell aufzuwärmen.",
+              "Planen Sie etwas mehr Zeit für die Parkplatzsuche in Hafennähe ein."
+            ],
+            "hu": [
+              "Az ajtók nyitásakor vigyázzon a szélre (mindig fogja az ajtót!).",
+              "Az utak heves esőzéskor csúszósak lehetnek; vezessen óvatosan.",
+              "Használja az ülésfűtést, hogy a kinti megállók után gyorsan felmelegedjen.",
+              "Szánjon kicsit több időt a parkolóhely keresésére a kikötő közelében."
+            ],
+            "ro": [
+              "Atenție la vântul puternic când deschideți portierele (țineți-le bine!).",
+              "Drumurile pot fi alunecoase în caz de ploaie puternică; conduceți defensiv.",
+              "Folosiți încălzirea în scaune pentru a vă încălzi rapid după opririle de afară.",
+              "Alocați puțin mai mult timp pentru găsirea unui loc de parcare lângă port."
+            ],
+            "en": [
+              "Hold onto car doors firmly when opening them in strong winds.",
+              "Roads can be slippery during heavy rain; drive defensively.",
+              "Use seat heaters to warm up quickly after short outdoor stops.",
+              "Allow a bit more time for finding parking near the harbor."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto Sicherheit und Wärme. Beginnen Sie bei Viking World und bewundern Sie das schneebedeckte Hólmsberg Lighthouse. In der Stadt parken Sie nah an den Sehenswürdigkeiten, um die Kältephasen kurz zu halten. Das Rock 'n' Roll Museum ist am späten Nachmittag ein warmer Rückzugsort, bevor die Dunkelheit über die Lavafelder hereinbricht.",
+            "hu": "Télen az autó biztonságot és meleget nyújt. Kezdjen a Viking Worldnél, és csodálja meg a havas Hólmsberg világítótoronyt. A városban parkoljon közel a látnivalókhoz, hogy rövidre fogja a hidegben töltött időt. A Rock 'n' Roll Múzeum késő délután meleg menedék, mielőtt a sötétség leszáll a lávamezőkre.",
+            "ro": "Iarna, mașina oferă siguranță și căldură. Începeți la Viking World și admirați farul Hólmsberg înzăpezit. În oraș, parcați aproape de obiective pentru a scurta timpul petrecut în frig. Muzeul Rock 'n' Roll este un refugiu cald după-amiaza târziu, înainte ca întunericul să cuprindă câmpurile de lavă.",
+            "en": "In winter, the car provides safety and warmth. Start at Viking World and admire the snowy Hólmsberg Lighthouse. In town, park close to the sights to keep cold exposure brief. The Rock 'n' Roll Museum is a warm retreat in the late afternoon before darkness descends over the lava fields."
+          },
+          "stops": [
+            {
+              "name": "Viking World",
+              "tip_5lang": {
+                "de": "Idealer Startpunkt, um das Auto aufzuwärmen, während man drinnen ist.",
+                "hu": "Ideális kezdőpont, az autó bemelegszik, amíg Ön bent van.",
+                "ro": "Punct de plecare ideal, mașina se încălzește în timp ce sunteți înăuntru.",
+                "en": "Ideal starting point; the car warms up while you are inside."
+              }
+            },
+            {
+              "name": "Hólmsberg Lighthouse",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei Sturm im Auto; die Aussicht ist auch so beeindruckend.",
+                "hu": "Viharban maradjon az autóban; a kilátás így is lenyűgöző.",
+                "ro": "Rămâneți în mașină în caz de furtună; priveliștea este impresionantă oricum.",
+                "en": "Stay in the car during storms; the view is impressive regardless."
+              }
+            },
+            {
+              "name": "Parking at the Harbor",
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf Glatteis auf dem Parkplatz.",
+                "hu": "Kiszálláskor vigyázzon a tükörjégre a parkolóban.",
+                "ro": "Atenție la gheață pe suprafața parcării când coborâți.",
+                "en": "Watch out for black ice in the parking lot when getting out."
+              }
+            },
+            {
+              "name": "Duus Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterlichen Kunstausstellungen im Warmen.",
+                "hu": "Élvezze a téli művészeti kiállításokat a melegben.",
+                "ro": "Bucurați-vă de expozițiile de artă de iarnă la căldură.",
+                "en": "Enjoy the winter art exhibitions in the warmth."
+              }
+            },
+            {
+              "name": "The Giantess in the Cave",
+              "tip_5lang": {
+                "de": "Ein Highlight, das auch bei eisigen Temperaturen gut machbar ist.",
+                "hu": "Egy látnivaló, amely fagyos hőmérsékletben is jól látogatható.",
+                "ro": "O atracție care poate fi vizitată bine chiar și la temperaturi înghețate.",
+                "en": "A highlight that is easily accessible even in freezing temperatures."
+              }
+            },
+            {
+              "name": "Anchor Monument",
+              "tip_5lang": {
+                "de": "Im Winter oft von einer dünnen Eisschicht überzogen, sieht toll aus.",
+                "hu": "Télen gyakran vékony jégréteg borítja, remekül néz ki.",
+                "ro": "Iarna este adesea acoperit de un strat subțire de gheață, arată grozav.",
+                "en": "Often covered in a thin layer of ice in winter, looks great."
+              }
+            },
+            {
+              "name": "Parking near Hljómahöll",
+              "tip_5lang": {
+                "de": "Gut beleuchteter Parkplatz, sicher für den frühen Winterabend.",
+                "hu": "Jól kivilágított parkoló, biztonságos a korai téli estén.",
+                "ro": "Parcare bine iluminată, sigură pentru seara timpurie de iarnă.",
+                "en": "Well-lit parking lot, safe for the early winter evening."
+              }
+            },
+            {
+              "name": "Icelandic Rock 'n' Roll Museum",
+              "tip_5lang": {
+                "de": "Perfekt, um auf die Polarlichter zu warten, bevor man zurückfährt.",
+                "hu": "Tökéletes hely az északi fényre várni a visszautazás előtt.",
+                "ro": "Locul perfect pentru a aștepta aurora boreală înainte de plecare.",
+                "en": "Perfect spot to wait for the Northern Lights before driving back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein Mietwagen mit Allradantrieb (4WD) und Winterreifen ist im Winter Pflicht.",
+              "Prüfen Sie morgens immer die Straßenzustände auf road.is.",
+              "Halten Sie den Tank immer mindestens halb voll.",
+              "Entfernen Sie Schnee und Eis komplett von allen Scheiben vor der Fahrt."
+            ],
+            "hu": [
+              "A 4WD bérautó és a téli gumi télen kötelező Izlandon.",
+              "Reggelente mindig ellenőrizze az útviszonyokat a road.is oldalon.",
+              "Az üzemanyagtartályt mindig tartsa legalább félig tele.",
+              "Indulás előtt teljesen tisztítsa meg az ablakokat a hótól és jégtől."
+            ],
+            "ro": [
+              "O mașină închiriată cu tracțiune integrală (4WD) și anvelope de iarnă este obligatorie.",
+              "Verificați întotdeauna starea drumurilor dimineața pe road.is.",
+              "Păstrați rezervorul de combustibil cel puțin pe jumătate plin.",
+              "Curățați complet zăpada și gheața de pe toate geamurile înainte de drum."
+            ],
+            "en": [
+              "A 4WD rental car and winter tires are mandatory in winter.",
+              "Always check road conditions in the morning on road.is.",
+              "Keep your fuel tank at least half full at all times.",
+              "Completely clear snow and ice from all windows before driving."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1502,6 +2102,188 @@
           "Bus schedules can be less frequent on weekends, so plan accordingly.",
           "Be prepared for some walking between bus stops and the actual sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Bus, um trocken zwischen den Hauptattraktionen zu pendeln. Starten Sie am Hringbraut Terminal und fahren Sie direkt zum Rock 'n' Roll Museum. Ein weiterer Bus bringt Sie nach Viking World. Mittags kehren Sie zum Hafen zurück, wo Museen und die Riesin nah beieinander liegen. Das Warten an den Haltestellen ist dank Unterständen auch bei Regen erträglich.",
+            "hu": "Használja a buszt, hogy szárazon közlekedjen a fő látnivalók között. Kezdjen a Hringbraut terminálnál, és menjen direkt a Rock 'n' Roll Múzeumhoz. Egy másik busz elviszi a Viking Worldhöz. Délben térjen vissza a kikötőhöz, ahol a múzeumok és az Óriásasszony közel vannak egymáshoz. A várakozás a megállókban a fedett beállóknak köszönhetően esőben is kibírható.",
+            "ro": "Folosiți autobuzul pentru a naviga între atracțiile principale fără a vă uda. Începeți la terminalul Hringbraut și mergeți direct la Muzeul Rock 'n' Roll. Un alt autobuz vă duce la Viking World. La prânz reveniți în port, unde muzeele și Uriașa sunt aproape. Așteptarea în stații este suportabilă chiar și pe ploaie datorită copertinelor.",
+            "en": "Use the bus to commute dryly between the main attractions. Start at the Hringbraut terminal and go directly to the Rock 'n' Roll Museum. Another bus takes you to Viking World. At noon, return to the harbor, where museums and the Giantess are close to each other. Waiting at stops is bearable even in rain thanks to shelters."
+          },
+          "stops": [
+            {
+              "name": "Start: Hringbraut Bus Terminal",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt mit gutem Wetterschutz.",
+                "hu": "Központi csomópont jó időjárás elleni védelemmel.",
+                "ro": "Nod central cu protecție bună împotriva intemperiilor.",
+                "en": "Central hub with good weather protection."
+              }
+            },
+            {
+              "name": "Icelandic Rock 'n' Roll Museum",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist fast direkt vor der Tür.",
+                "hu": "A megálló szinte közvetlenül az ajtó előtt van.",
+                "ro": "Stația este aproape direct în fața ușii.",
+                "en": "The stop is almost right in front of the door."
+              }
+            },
+            {
+              "name": "Keflavíkurkirkja",
+              "tip_5lang": {
+                "de": "Vom Bus aus gut sichtbar; kurzer Fußweg zur nächsten Haltestelle.",
+                "hu": "A buszból jól látható; rövid séta a következő megállóig.",
+                "ro": "Vizibilă bine din autobuz; scurtă plimbare până la următoarea stație.",
+                "en": "Well visible from the bus; short walk to the next stop."
+              }
+            },
+            {
+              "name": "Viking World",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Rückfahrplan genau, um Wartezeiten im Freien zu minimieren.",
+                "hu": "Pontosan ellenőrizze a menetrendet, hogy minimális legyen a kinti várakozás.",
+                "ro": "Verificați bine orarul de întoarcere pentru a minimiza așteptarea afară.",
+                "en": "Check the return schedule carefully to minimize outdoor waiting time."
+              }
+            },
+            {
+              "name": "Bus Stop at the Harbor",
+              "tip_5lang": {
+                "de": "Perfekter Ausstiegspunkt für die Museen am Hafen.",
+                "hu": "Tökéletes leszállási pont a kikötői múzeumokhoz.",
+                "ro": "Punct perfect de coborâre pentru muzeele din port.",
+                "en": "Perfect drop-off point for the harbor museums."
+              }
+            },
+            {
+              "name": "Duus Museum",
+              "tip_5lang": {
+                "de": "Ein kurzer, nasser Sprint zum Eingang lohnt sich.",
+                "hu": "Egy rövid, vizes sprint a bejáratig megéri a fáradtságot.",
+                "ro": "Un scurt sprint prin ploaie până la intrare merită efortul.",
+                "en": "A short, wet sprint to the entrance is worth it."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Klappið' für Tickets und Echtzeit-Fahrpläne.",
+              "Die Busse in Keflavík sind meist pünktlich und gut beheizt.",
+              "Tragen Sie trotzdem Regenkleidung für die Wege zur Haltestelle.",
+              "An Sonntagen fahren die Busse seltener; prüfen Sie den Plan vorab."
+            ],
+            "hu": [
+              "Használja a 'Klappið' appot a jegyekhez és a valós idejű menetrendhez.",
+              "A buszok Keflavíkban általában pontosak és jól fűtöttek.",
+              "Ennek ellenére viseljen esőruhát a megállóig tartó sétákhoz.",
+              "Vasárnap ritkábban járnak a buszok; előre ellenőrizze a tervet."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Klappið' pentru bilete și orare în timp real.",
+              "Autobuzele din Keflavík sunt de obicei punctuale și bine încălzite.",
+              "Purtați totuși haine de ploaie pentru drumul până în stație.",
+              "Duminica autobuzele circulă mai rar; verificați orarul în avans."
+            ],
+            "en": [
+              "Use the 'Klappið' app for tickets and real-time schedules.",
+              "Buses in Keflavík are usually punctual and well-heated.",
+              "Wear rain gear regardless for the walks to the bus stops.",
+              "Buses run less frequently on Sundays; check the schedule in advance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Bus ist eine warme Alternative zum eisigen Wind. Starten Sie gemütlich am Terminal. Besuchen Sie das Rock-Museum und Viking World, ohne sich um glatte Straßen sorgen zu müssen. Mittags bietet der Hafenbereich eine schöne Kulisse für einen kurzen Spaziergang zwischen den Bushaltestellen. Abends bringt Sie der Bus sicher zurück zu Ihrer Unterkunft.",
+            "hu": "A busz meleg alternatívát kínál a jeges széllel szemben. Kezdjen kényelmesen a terminálnál. Látogassa meg a Rock-múzeumot és a Viking Worldöt anélkül, hogy aggódnia kellene a csúszós utak miatt. Délben a kikötő környéke szép díszletet nyújt egy rövid sétához a buszmegállók között. Este a busz biztonságban visszaviszi a szállására.",
+            "ro": "Autobuzul oferă o alternativă caldă la vântul înghețat. Începeți confortabil la terminal. Vizitați muzeul Rock și Viking World fără să vă faceți griji pentru drumurile alunecoase. La prânz, zona portului oferă un decor frumos pentru o scurtă plimbare între stațiile de autobuz. Seara, autobuzul vă duce în siguranță înapoi la cazare.",
+            "en": "The bus offers a warm alternative to the icy wind. Start comfortably at the terminal. Visit the Rock Museum and Viking World without worrying about slippery roads. At noon, the harbor area provides a beautiful backdrop for a short walk between bus stops. In the evening, the bus takes you safely back to your accommodation."
+          },
+          "stops": [
+            {
+              "name": "Start: Hringbraut Bus Terminal",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um auf den ersten Bus des Tages zu warten.",
+                "hu": "Meleg hely, ahol megvárhatja a nap első buszát.",
+                "ro": "Un loc cald pentru a aștepta primul autobuz al zilei.",
+                "en": "A warm place to wait for the first bus of the day."
+              }
+            },
+            {
+              "name": "Icelandic Rock 'n' Roll Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren, während Sie draußen den Schnee beobachten.",
+                "hu": "Élvezze a benti meleget, miközben odakint a havat figyeli.",
+                "ro": "Bucurați-vă de căldura din interior în timp ce priviți zăpada afară.",
+                "en": "Enjoy the warmth inside while watching the snow outside."
+              }
+            },
+            {
+              "name": "Keflavíkurkirkja",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp; der Bus hält ganz in der Nähe.",
+                "hu": "Rövid megálló; a busz egészen közel áll meg.",
+                "ro": "O oprire scurtă; autobuzul oprește foarte aproape.",
+                "en": "A short stop; the bus stops very close by."
+              }
+            },
+            {
+              "name": "Viking World",
+              "tip_5lang": {
+                "de": "Der Weg von der Haltestelle kann im Winter windig sein; warm einpacken.",
+                "hu": "A megállótól vezető út télen szeles lehet; öltözzön be melegen.",
+                "ro": "Drumul de la stație poate fi vântos iarna; îmbrăcați-vă bine.",
+                "en": "The walk from the stop can be windy in winter; dress warmly."
+              }
+            },
+            {
+              "name": "Bus Stop at the Harbor",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Spritzwasser an der Haltestelle.",
+                "hu": "Vigyázzon a megállónál a megfagyott felfröccsenő vízre.",
+                "ro": "Atenție la apa înghețată din stație.",
+                "en": "Watch out for frozen sea spray at the stop."
+              }
+            },
+            {
+              "name": "Duus Museum",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Abschluss, bevor es mit dem Bus heimgeht.",
+                "hu": "Hangulatos lezárás, mielőtt busszal hazamenne.",
+                "ro": "Un final plăcut înainte de a pleca acasă cu autobuzul.",
+                "en": "A cozy conclusion before heading home by bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei extremem Schneefall Verspätungen haben; prüfen Sie die App.",
+              "Haltestellen ohne Häuschen können im Winter sehr ungemütlich sein.",
+              "Die Heizung in den Bussen ist meist sehr stark eingestellt.",
+              "Tragen Sie Reflektoren an Ihrer Kleidung, um im Dunkeln gesehen zu werden."
+            ],
+            "hu": [
+              "Rendkívüli havazáskor a buszok késhetnek; ellenőrizze az appot.",
+              "A beálló nélküli megállók télen nagyon kényelmetlenek lehetnek.",
+              "A buszokon a fűtés általában nagyon erősre van állítva.",
+              "Viseljen fényvisszaverőt a ruháján, hogy a sötétben is látható legyen."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri în caz de ninsoare extremă; verificați aplicația.",
+              "Stațiile fără adăpost pot fi foarte inconfortabile iarna.",
+              "Încălzirea în autobuze este de obicei setată la maximum.",
+              "Purtați elemente reflectorizante pe haine pentru a fi văzuți pe întuneric."
+            ],
+            "en": [
+              "Buses may be delayed during extreme snowfall; check the app.",
+              "Stops without shelters can be very uncomfortable in winter.",
+              "The heating in the buses is usually set very high.",
+              "Wear reflectors on your clothing to be seen in the dark."
+            ]
+          }
+        }
       }
     }
   }

@@ -356,6 +356,188 @@
           "Many museums are closed on Mondays, check the opening hours.",
           "Be sure to try the fresh seafood from the stalls near the harbour."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in der neugotischen St.-Petrus-und-Paulus-Kirche, einem perfekten Zufluchtsort vor dem Morgenniesel. Das Innere bietet Ruhe und Schutz. Später spazieren Sie zum Hafen, wo die Mercator im Regen eine mystische Atmosphäre ausstrahlt.\n\nMittags bietet die Strandpromenade dank der Venezianischen Galerien einen geschützten Weg am Meer. Sie können die salzige Luft genießen, ohne völlig durchnässt zu werden. Ein kurzer Stopp im Kursaal bietet Architektur unter einem festen Dach.\n\nDer Nachmittag gehört der Kunst im Mu.ZEE. Es ist der ideale Ort, um Stunden im Trockenen zu verbringen und die Entwicklung der belgischen Kunst zu bestaunen. Die modernen Galerien sind hell und einladend, selbst wenn es draußen grau ist.\n\nBeenden Sie den Tag beim Wellington Hippodrome. Der Wind peitscht hier oft den Regen vom Meer herüber, also halten Sie Ihren Schirm fest, bevor Sie in eines der gemütlichen Restaurants am Fischmarkt einkehren.",
+            "hu": "Kezdje a napot a neogótikus Szent Péter és Szent Pál templomban, amely tökéletes menedék a reggeli szitálás elől. A belső tér csendet és védelmet nyújt. Később sétáljon el a kikötőbe, ahol a Mercator hajó misztikus hangulatot áraszt az esőben.\n\nDélben a tengerparti sétány a Királyi Galériák árkádjai alatt védett útvonalat kínál. Élvezheti a sós levegőt anélkül, hogy teljesen elázna. Rövid megálló a Kursaalnál, ahol fedél alatt csodálhatja az építészetet.\n\nA délután az művészeté a Mu.ZEE-ben. Ez az ideális hely, hogy órákat töltsön szárazon, a belga művészet fejlődését tanulmányozva. A modern galériák világosak és hívogatóak, még akkor is, ha kint szürke minden.\n\nZárja a napot a Wellington Hippodromnál. A szél gyakran korbácsolja az esőt a tenger felől, így fogja erősen az esernyőjét, mielőtt betérne a halpiac melletti hangulatos éttermek egyikébe.",
+            "ro": "Începeți ziua la Biserica Sf. Petru și Pavel, un refugiu neogotic perfect împotriva burniței de dimineață. Interiorul oferă liniște și protecție. Mai târziu, mergeți în port, unde nava Mercator emană o atmosferă mistică sub ploaie.\n\nLa prânz, faleza oferă un parcurs protejat datorită Galeriilor Venețiene. Puteți savura aerul sărat fără a fi udat complet. O scurtă oprire la Kursaal vă oferă arhitectură sub un acoperiș solid.\n\nDupă-amiaza este dedicată artei la Mu.ZEE. Este locul ideal pentru a petrece ore în șir la adăpost, admirând evoluția artei belgiene. Galeriile moderne sunt luminoase și primitoare, chiar dacă afară este gri.\n\nÎncheiați ziua la Wellington Hippodrome. Vântul împinge adesea ploaia dinspre mare, așa că țineți bine umbrela înainte de a intra într-unul dintre restaurantele primitoare de lângă piața de pește.",
+            "en": "Start your day at the neo-Gothic Saint Peter and Saint Paul Church, a perfect sanctuary from the morning drizzle. The interior offers peace and shelter. Later, walk to the harbor where the Mercator ship exudes a mystical atmosphere in the rain.\n\nAt midday, the beach promenade offers a protected path thanks to the Royal Galleries. You can enjoy the salty air without getting completely soaked. A quick stop at Kursaal provides architecture under a solid roof.\n\nSpend the afternoon with art at Mu.ZEE. It is the ideal place to spend hours in the dry, marveling at the evolution of Belgian art. The modern galleries are bright and inviting, even when it is grey outside.\n\nEnd the day at the Wellington Hippodrome. The wind often whips the rain from the sea here, so hold your umbrella tight before heading to one of the cozy restaurants near the fish market."
+          },
+          "stops": [
+            {
+              "name": "Saint Peter and Saint Paul Church",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen und Trocknen bei plötzlichen Schauern.",
+                "hu": "Ideális hely a felmelegedésre és száradásra hirtelen zápor esetén.",
+                "ro": "Loc ideal pentru a vă încălzi și usca în caz de ploaie bruscă.",
+                "en": "Ideal place to warm up and dry off during sudden showers."
+              }
+            },
+            {
+              "name": "Mercator Ship",
+              "tip_5lang": {
+                "de": "Vorsicht, die Holzplanken an Deck können bei Regen sehr glatt sein.",
+                "hu": "Vigyázat, a fedélzet fa pallói esőben nagyon csúszósak lehetnek.",
+                "ro": "Atenție, scândurile de lemn de pe punte pot fi foarte alunecoase.",
+                "en": "Caution: the wooden planks on deck can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Beach Promenade",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Galeries Royales als Regenschutz.",
+                "hu": "Használja a Galeries Royales árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele de la Galeries Royales pentru a vă feri de ploaie.",
+                "en": "Use the arches of the Galeries Royales for rain protection."
+              }
+            },
+            {
+              "name": "Kursaal Oostende",
+              "tip_5lang": {
+                "de": "Das Foyer bietet eine großartige Aussicht auf das stürmische Meer.",
+                "hu": "Az előcsarnokból nagyszerű kilátás nyílik a viharos tengerre.",
+                "ro": "Foaierul oferă o vedere minunată asupra mării învolburate.",
+                "en": "The foyer offers a great view of the stormy sea while staying dry."
+              }
+            },
+            {
+              "name": "Mu.ZEE",
+              "tip_5lang": {
+                "de": "Perfekter Ort für lange Regenschauer; Garderobe für nasse Mäntel vorhanden.",
+                "hu": "Tökéletes hely hosszú esőzés idejére; ruhatár az esőkabátoknak.",
+                "ro": "Loc perfect pentru ploi de lungă durată; garderobă disponibilă.",
+                "en": "Perfect spot for long rain spells; cloakroom available for wet coats."
+              }
+            },
+            {
+              "name": "Wellington Hippodrome",
+              "tip_5lang": {
+                "de": "Wenig Unterstand im Außenbereich; halten Sie Regenkleidung bereit.",
+                "hu": "Kevés fedett rész kint; tartsa készenlétben az esőruházatot.",
+                "ro": "Puține adăposturi în exterior; pregătiți pelerina de ploaie.",
+                "en": "Limited outdoor shelter; keep your rain gear ready."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Königlichen Galerien an der Promenade bieten über hunderte Meter trockenen Gehweg.",
+              "Vermeiden Sie einfache Regenschirme bei starkem Küstenwind; Sturmschirme sind hier Pflicht.",
+              "Die meisten Museen haben Schließfächer für nasse Ausrüstung.",
+              "Bei Starkregen ist die Küstenstraßenbahn eine trockene Alternative für Teilstrecken."
+            ],
+            "hu": [
+              "A sétányon található Királyi Galériák több száz méteren át száraz utat biztosítanak.",
+              "Kerülje az egyszerű esernyőket az erős parti szélben; a viharernyő itt kötelező.",
+              "A legtöbb múzeumban van szekrény a vizes felszereléseknek.",
+              "Heves esőben a parti villamos száraz alternatíva egyes szakaszokra."
+            ],
+            "ro": [
+              "Galeriile Regale de pe faleză oferă sute de metri de trotuar uscat.",
+              "Evitați umbrelele simple în vântul puternic de coastă; umbrelele de furtună sunt obligatorii.",
+              "Majoritatea muzeelor au vestiare pentru echipamentul ud.",
+              "În caz de ploaie torențială, tramvaiul de coastă este o alternativă uscată."
+            ],
+            "en": [
+              "The Royal Galleries on the promenade provide hundreds of meters of dry walkway.",
+              "Avoid simple umbrellas in strong coastal winds; storm umbrellas are a must here.",
+              "Most museums have lockers for wet gear and umbrellas.",
+              "During heavy rain, the Coastal Tram is a dry alternative for moving between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen in Ostende beginnt erfrischend an der St.-Petrus-und-Paulus-Kirche. Die kalte Luft lässt die Steine der Neugotik hell erstrahlen. Ein kurzer Gang zum Hafen führt Sie zur Mercator, deren Masten stolz im Winterwind stehen.\n\nMittags ist die Promenade Schauplatz für das raue Meer. Der Nordwind ist beißend, aber die klare Sicht auf die Nordsee ist unvergleichlich. Ein wärmender Kaffee im Kursaal ist nach dem Strandspaziergang fast obligatorisch.\n\nAm Nachmittag bietet das Mu.ZEE eine beheizte Oase der Kultur. Wenn die Sonne gegen 16:30 Uhr untergeht, taucht das goldene Winterlicht die Galerien in eine besondere Atmosphäre. Die Kunstwerke Ensores wirken im Winterlicht besonders authentisch.\n\nDer frühe Abend am Wellington Hippodrome ist dunkel und ruhig. Die Lichter der Stadt spiegeln sich im feuchten Asphalt. Es ist die beste Zeit, um die beleuchtete Weihnachtsdekoration im Stadtzentrum zu bewundern.",
+            "hu": "A téli reggel Ostendében frissítően indul a Szent Péter és Szent Pál templomnál. A hideg levegőben a neogótikus kövek fehéren ragyognak. Egy rövid séta a kikötőbe a Mercatorhoz vezet, melynek árbocai büszkén dacolnak a téli széllel.\n\nDélben a sétány a zord tenger színpada. Az északi szél metsző, de az Északi-tengerre nyíló tiszta kilátás páratlan. Egy melengető kávé a Kursaalban szinte kötelező a parti séta után.\n\nDélután a Mu.ZEE fűtött kulturális oázist kínál. Amikor a nap 16:30 körül lenyugszik, az aranyló téli fény különleges hangulatba öltözteti a galériákat. Ensor művei ilyenkor különösen hitelesnek tűnnek.\n\nA kora este a Wellington Hippodromnál sötét és csendes. A város fényei tükröződnek a nedves aszfalton. Ez a legjobb időszak arra, hogy megcsodáljuk a városközpont kivilágított karácsonyi díszeit.",
+            "ro": "O dimineață de iarnă în Oostende începe revigorant la Biserica Sf. Petru și Pavel. Aerul rece face ca pietrele neogotice să strălucească. O scurtă plimbare spre port vă duce la Mercator, ale cărei catarge stau mândre în vântul de iarnă.\n\nLa prânz, faleza este scena mării brute. Vântul de nord este tăios, dar vederea clară asupra Mării Nordului este de neegalat. O cafea caldă la Kursaal este aproape obligatorie după plimbarea pe plajă.\n\nDupă-amiaza, Mu.ZEE oferă o oază culturală încălzită. Când soarele apune în jurul orei 16:30, lumina aurie de iarnă îmbracă galeriile într-o atmosferă specială. Operele lui Ensor par deosebit de autentice acum.\n\nSeara devreme la Wellington Hippodrome este întunecată și liniștită. Luminile orașului se oglindesc în asfaltul umed. Este cel mai bun moment pentru a admira decorațiunile de Crăciun luminate din centrul orașului.",
+            "en": "A winter morning in Ostend starts refreshingly at Saint Peter and Saint Paul Church. The cold air makes the neo-Gothic stones shine brightly. A short walk to the harbor leads you to the Mercator, its masts standing proud in the winter wind.\n\nAt midday, the promenade is a stage for the raw sea. The north wind is biting, but the clear view of the North Sea is incomparable. A warming coffee at Kursaal is almost mandatory after the beach walk.\n\nIn the afternoon, Mu.ZEE offers a heated cultural oasis. As the sun sets around 16:30, the golden winter light bathes the galleries in a special atmosphere. Ensor's artworks feel particularly authentic in this light.\n\nThe early evening at Wellington Hippodrome is dark and quiet. The city lights reflect on the damp asphalt. It is the best time to admire the illuminated Christmas decorations in the city center."
+          },
+          "stops": [
+            {
+              "name": "Saint Peter and Saint Paul Church",
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte draußen; windstiller Ort.",
+                "hu": "A vastag kőfalak kint tartják a hideget; szélvédett hely.",
+                "ro": "Zidurile groase de piatră țin frigul afară; loc ferit de vânt.",
+                "en": "The thick stone walls keep the cold out; a windless spot."
+              }
+            },
+            {
+              "name": "Mercator Ship",
+              "tip_5lang": {
+                "de": "Metallteile können extrem kalt sein; Handschuhe tragen.",
+                "hu": "A fém részek rendkívül hidegek lehetnek; viseljen kesztyűt.",
+                "ro": "Elementele metalice pot fi extrem de reci; purtați mănuși.",
+                "en": "Metal parts can be extremely cold; wear gloves while exploring the decks."
+              }
+            },
+            {
+              "name": "Beach Promenade",
+              "tip_5lang": {
+                "de": "Extremer Windchill am Meer; Mütze und Schal sind lebensnotwendig.",
+                "hu": "Extrém szélhideg a tengernél; sapka és sál elengedhetetlen.",
+                "ro": "Senzație de frig extrem la mare; căciula și fularul sunt esențiale.",
+                "en": "Extreme wind chill by the sea; hat and scarf are essential."
+              }
+            },
+            {
+              "name": "Kursaal Oostende",
+              "tip_5lang": {
+                "de": "Idealer Ort für eine heiße Schokolade mit Blick auf den Winterstrand.",
+                "hu": "Ideális hely egy forró csokoládéra, kilátással a téli strandra.",
+                "ro": "Loc ideal pentru o ciocolată caldă cu vedere la plaja de iarnă.",
+                "en": "Ideal spot for a hot chocolate with a view of the winter beach."
+              }
+            },
+            {
+              "name": "Mu.ZEE",
+              "tip_5lang": {
+                "de": "Gut beheizt; nutzen Sie die Zeit hier während der kältesten Stunden.",
+                "hu": "Jól fűtött; töltse itt az időt a leghidegebb órákban.",
+                "ro": "Bine încălzit; profitați de timp aici în cele mai reci ore.",
+                "en": "Well-heated; utilize your time here during the coldest hours of the day."
+              }
+            },
+            {
+              "name": "Wellington Hippodrome",
+              "tip_5lang": {
+                "de": "Früher Sonnenuntergang; besuchen Sie diesen Ort vor 16:30 Uhr.",
+                "hu": "Korai naplemente; látogassa meg ezt a helyet 16:30 előtt.",
+                "ro": "Apus devreme; vizitați acest loc înainte de ora 16:30.",
+                "en": "Early sunset; visit this location before 16:30 for better visibility."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Zwiebelschichten; der Wind am Meer ist kälter als in der Stadt.",
+              "Sonnenuntergang ist im Winter bereits gegen 16:30 Uhr.",
+              "Viele Strandcafés sind im Winter geschlossen, suchen Sie Plätze im Zentrum.",
+              "Die Eisbahn im Leopoldpark (Dezember) ist eine tolle Winterergänzung."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen; a szél a tengernél sokkal hidegebb, mint a városban.",
+              "A naplemente télen már 16:30 körül bekövetkezik.",
+              "Sok parti kávézó zárva van télen, keressen helyeket a központban.",
+              "A Leopoldpark jégpályája (decemberben) remek téli kiegészítő."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; vântul la mare este mult mai rece decât în oraș.",
+              "Apusul soarelui este deja în jurul orei 16:30 iarna.",
+              "Multe cafenele de pe plajă sunt închise, căutați locuri în centru.",
+              "Patinoarul din Leopoldpark (decembrie) este o completare excelentă."
+            ],
+            "en": [
+              "Wear multiple layers; the wind at the sea is much colder than in the city.",
+              "Sunset occurs as early as 16:30 in winter; plan outdoor stops accordingly.",
+              "Many beach clubs are closed in winter; look for inland cafes and bistros.",
+              "The ice rink in Leopoldpark (December) is a great winter addition to the walk."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +888,188 @@
           "Take advantage of the well-developed cycle paths along the coast.",
           "Always lock your bike securely, especially in busy places."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Fort Napoleon. Die Fahrt durch die Dünen ist bei Regen dramatisch, aber der Weg ist fest. Danach geht es zur Kirche im Zentrum, wo Sie das Fahrrad kurz sicher abstellen und sich abtrocknen können.\n\nMittags radeln Sie zum Hafen zur Mercator. Die feuchten Decks des Schiffes glänzen im Regen. Die Weiterfahrt zur Promenade erfordert Konzentration, da die Kacheln bei Nässe rutschig werden können.\n\nNachmittags ist die Strecke zum Wellington Hippodrome kurz. Nutzen Sie die Zeit danach für das Mu.ZEE, um das Fahrrad zu parken und die nächsten zwei Stunden im warmen, trockenen Museum zu verbringen.\n\nDer Tag endet mit einer kühlen Fahrt zurück. Die salzige Gischt vermischt sich mit dem Regen, was die Fahrt zu einem echten Nordsee-Erlebnis macht. Ein warmer Eintopf in einer lokalen Kneipe ist die beste Belohnung.",
+            "hu": "Kezdje a Fort Napóleonnál. A dűnéken keresztüli tekerés esőben drámai, de az út szilárd. Ezután irány a központi templom, ahol biztonságosan leállíthatja a biciklit és megszárítkozhat.\n\nDélben tekerjen a kikötőbe a Mercatorhoz. A hajó nedves fedélzete csillog az esőben. A sétány felé vezető út koncentrációt igényel, mert a csempék nedvesen csúszósak lehetnek.\n\nDélután a Wellington Hippodromig tartó szakasz rövid. Használja ki az időt utána a Mu.ZEE-re: parkolja le a gépet, és töltse a következő két órát a meleg, száraz múzeumban.\n\nA nap egy hűvös visszatekeréssel zárul. A sós tengerpermet keveredik az esővel, ami igazi északi-tengeri élménnyé teszi az utat. Egy meleg egytálétel egy helyi kocsmában a legjobb jutalom.",
+            "ro": "Începeți la Fort Napoleon. Drumul prin dune pe ploaie este dramatic, dar poteca este solidă. Apoi mergeți spre biserica din centru, unde puteți lăsa bicicleta în siguranță pentru a vă usca.\n\nLa prânz, pedalați spre port la Mercator. Punțile umede ale navei strălucesc sub ploaie. Drumul spre faleză necesită concentrare, deoarece plăcile pot deveni alunecoase când sunt ude.\n\nDupă-amiaza, distanța până la Wellington Hippodrome este scurtă. Folosiți timpul de după pentru Mu.ZEE: parcați bicicleta și petreceți următoarele două ore în muzeul cald și uscat.\n\nZiua se încheie cu o tură răcoroasă înapoi. Aerul sărat se amestecă cu ploaia, făcând drumul o adevărată experiență la Marea Nordului. O mâncare caldă într-o tavernă locală este cea mai bună recompensă.",
+            "en": "Start at Fort Napoleon. The ride through the dunes in the rain is dramatic, but the path is solid. Then head to the church in the center, where you can safely park the bike and dry off briefly.\n\nAt midday, cycle to the harbor to the Mercator. The ship's damp decks glisten in the rain. The ride to the promenade requires concentration, as tiles can be slippery when wet.\n\nIn the afternoon, the stretch to Wellington Hippodrome is short. Use the time after for Mu.ZEE: park your bike and spend the next two hours in the warm, dry museum.\n\nThe day ends with a cool ride back. The salty sea spray mixes with the rain, making the trip a true North Sea experience. A warm stew in a local pub is the best reward."
+          },
+          "stops": [
+            {
+              "name": "Fort Napoleon",
+              "tip_5lang": {
+                "de": "Der Weg durch die Dünen kann bei Wind und Regen anstrengend sein.",
+                "hu": "A dűnéken átvezető út szélben és esőben fárasztó lehet.",
+                "ro": "Drumul prin dune poate fi obositor pe vânt și ploaie.",
+                "en": "The path through the dunes can be strenuous in wind and rain."
+              }
+            },
+            {
+              "name": "Saint Peter and Saint Paul Church",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich auf dem Platz vor der Kirche.",
+                "hu": "Kerékpártárolók a templom előtti téren találhatók.",
+                "ro": "Suporturile de biciclete se află în piața din fața bisericii.",
+                "en": "Bicycle racks are located in the square in front of the church."
+              }
+            },
+            {
+              "name": "Mercator Ship",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad am Kai gut ab; starker Wind kann leichte Räder umwehen.",
+                "hu": "Zárja le jól a gépet a rakparton; az erős szél felboríthatja a könnyű bicikliket.",
+                "ro": "Asigurați bine bicicleta la chei; vântul puternic poate răsturna bicicletele ușoare.",
+                "en": "Lock your bike securely at the quay; strong winds can blow over light bikes."
+              }
+            },
+            {
+              "name": "Beach Promenade & Lunch",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Bodenbelägen bei Nässe.",
+                "hu": "Vigyázat, a burkolat nedvesen csúszós lehet.",
+                "ro": "Atenție la pavajul alunecos când este ud.",
+                "en": "Watch out for slippery ground surfaces on the promenade when wet."
+              }
+            },
+            {
+              "name": "Wellington Hippodrome",
+              "tip_5lang": {
+                "de": "Offenes Gelände; kaum Schutz vor Regen während der Fahrt.",
+                "hu": "Nyitott terep; alig van védelem az eső elől tekerés közben.",
+                "ro": "Teren deschis; aproape niciun adăpost împotriva ploii în timpul mersului.",
+                "en": "Open terrain; very little shelter from rain while cycling."
+              }
+            },
+            {
+              "name": "Mu.ZEE",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, nasse Kleidung im Museum zu trocknen.",
+                "hu": "Jó alkalom a vizes ruhák megszárítására a múzeumban.",
+                "ro": "Oportunitate bună de a vă usca hainele ude în muzeu.",
+                "en": "Great opportunity to dry off wet clothing inside the museum."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und Regenhose; der Wind drückt Wasser überall hin.",
+              "Vermeiden Sie scharfes Bremsen auf den nassen Fliesen der Promenade.",
+              "Wischen Sie Kette und Bremsen nach der Fahrt ab, da das Salzwasser Korrosion fördert.",
+              "Nutzen Sie die kostenlose Fähre (mit Rad) zur Ostseite, um Wind zu sparen."
+            ],
+            "hu": [
+              "Viseljen teljes esődzsekit és esőnadrágot; a szél mindenhová benyomja a vizet.",
+              "Kerülje az erős fékezést a sétány nedves csempéin.",
+              "Tekerés után törölje le a láncot és a fékeket, mert a sós víz korróziót okozhat.",
+              "Használja az ingyenes kompot (biciklivel) a keleti oldalra, hogy spóroljon a széllel."
+            ],
+            "ro": [
+              "Purtați jachetă și pantaloni de ploaie completi; vântul împinge apa peste tot.",
+              "Evitați frânarea bruscă pe plăcile ude de pe faleză.",
+              "Ștergeți lanțul și frânele după tură, deoarece apa sărată favorizează coroziunea.",
+              "Folosiți feribotul gratuit (cu bicicleta) spre partea de est pentru a evita vântul."
+            ],
+            "en": [
+              "Wear a full rain jacket and trousers; the wind will push water into every gap.",
+              "Avoid sharp braking on the wet tiles of the promenade to prevent skidding.",
+              "Wipe down your chain and brakes after the ride; saltwater causes fast corrosion.",
+              "Use the free ferry (with bike) to the East side to save energy against the wind."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag beginnt am Fort Napoleon. Die kalte Meeresbrise weckt Ihre Lebensgeister auf dem Rad. Danach radeln Sie ins Zentrum zur warmen St.-Petrus-und-Paulus-Kirche.\n\nMittags geht es zum Hafen. Die Mercator wirkt im Winterlicht wie aus einer anderen Zeit. Auf der Promenade peitscht der kalte Winterwind, was das Radfahren anstrengend, aber erfrischend macht.\n\nNachmittags radeln Sie zum Wellington Hippodrome, bevor die frühe Dämmerung einsetzt. Das Mu.ZEE bietet danach den perfekten Abschluss in einer beheizten Umgebung, während es draußen dunkel wird.\n\nAm Abend ist die Fahrt durch das beleuchtete Ostende kurz und knackig. Die kalte Luft beißt, aber die Aussicht auf ein warmes Getränk in einer der gemütlichen Bars am Hafen lässt Sie schneller in die Pedale treten.",
+            "hu": "A téli nap a Fort Napóleonnál indul. A hideg tengeri szellő felébreszti az életerejét a biciklin. Ezután tekerjen a központba a meleg Szent Péter és Szent Pál templomhoz.\n\nDélben irány a kikötő. A Mercator a téli fényben olyan, mintha egy másik korból származna. A sétányon metsző téli szél fúj, ami fárasztóvá, de frissítővé teszi a tekerést.\n\nDélután tekerjen a Wellington Hippodromhoz, még mielőtt leszállna a korai szürkület. A Mu.ZEE ezután tökéletes lezárást kínál fűtött környezetben, miközben kint sötétedik.\n\nEste a kivilágított Ostendén keresztüli tekerés rövid és pörgős. A hideg levegő harap, de a kikötői bárok meleg itala gyorsabb tekerésre ösztönöz.",
+            "ro": "O zi de iarnă începe la Fort Napoleon. Briza rece a mării vă trezește energia pe bicicletă. Apoi pedalați spre centru, la biserica caldă Sf. Petru și Pavel.\n\nLa prânz, mergeți în port. Mercator arată în lumina iernii de parcă ar fi din altă epocă. Pe faleză, vântul rece de iarnă bate cu putere, făcând pedalatul obositor, dar revigorant.\n\nDupă-amiaza, pedalați spre Wellington Hippodrome înainte de lăsarea amurgului. Mu.ZEE oferă apoi finalul perfect într-un mediu încălzit, în timp ce afară se întunecă.\n\nSeara, tura prin Oostende luminat este scurtă și intensă. Aerul rece ciupește, dar perspectiva unei băuturi calde într-unul dintre barurile primitoare din port vă face să pedalați mai repede.",
+            "en": "A winter day starts at Fort Napoleon. The cold sea breeze wakes up your spirits on the bike. Then cycle to the center to the warm Saint Peter and Saint Paul Church.\n\nAt midday, head to the harbor. The Mercator in winter light looks like it's from another era. On the promenade, the cold winter wind whips, making cycling strenuous but refreshing.\n\nIn the afternoon, cycle to Wellington Hippodrome before the early twilight sets in. Mu.ZEE then offers the perfect conclusion in a heated environment while it gets dark outside.\n\nIn the evening, the ride through illuminated Ostend is short and crisp. The cold air bites, but the prospect of a warm drink in one of the cozy harbor bars makes you pedal faster."
+          },
+          "stops": [
+            {
+              "name": "Fort Napoleon",
+              "tip_5lang": {
+                "de": "Handschuhe sind bei der Fahrt durch die exponierten Dünen unerlässlich.",
+                "hu": "A kesztyű elengedhetetlen a nyitott dűnéken való tekeréskor.",
+                "ro": "Mănușile sunt esențiale în timpul mersului prin dunele expuse.",
+                "en": "Gloves are essential when cycling through the exposed dunes."
+              }
+            },
+            {
+              "name": "Saint Peter and Saint Paul Church",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause im Inneren einlegen.",
+                "hu": "Tartson egy rövid melegedő szünetet odabent.",
+                "ro": "Faceți o scurtă pauză de încălzire în interior.",
+                "en": "Take a short warming break inside the church."
+              }
+            },
+            {
+              "name": "Mercator Ship",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen; der Boden kann gefroren und glatt sein.",
+                "hu": "Vigyázat a leszálláskor; a talaj fagyott és csúszós lehet.",
+                "ro": "Atenție la descălecare; solul poate fi înghețat și alunecos.",
+                "en": "Be careful when dismounting; the ground can be frozen and slippery."
+              }
+            },
+            {
+              "name": "Beach Promenade & Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Café mit Fahrradparkplätzen in Sichtweite.",
+                "hu": "Keressen olyan kávézót, ahol rálát a bicikli-parkolóra.",
+                "ro": "Căutați o cafenea cu locuri de parcare pentru biciclete la vedere.",
+                "en": "Look for a cafe with bike parking within your sight."
+              }
+            },
+            {
+              "name": "Wellington Hippodrome",
+              "tip_5lang": {
+                "de": "Geringes Tageslicht; prüfen Sie Ihre Fahrradbeleuchtung.",
+                "hu": "Kevés nappali fény; ellenőrizze a kerékpár világítását.",
+                "ro": "Lumină naturală redusă; verificați luminile bicicletei.",
+                "en": "Low daylight; ensure your bike lights are functioning properly."
+              }
+            },
+            {
+              "name": "Mu.ZEE",
+              "tip_5lang": {
+                "de": "Sicheres Abstellen des Rades vor dem Museumseingang.",
+                "hu": "A kerékpár biztonságos leállítása a múzeum bejárata előtt.",
+                "ro": "Parcare sigură a bicicletei în fața intrării muzeului.",
+                "en": "Secure bike parking available right in front of the museum entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche; der Fahrtwind ist im Winter extrem auskühlend.",
+              "Prüfen Sie Ihre Lichter; im Winter ist es oft schon um 16:30 Uhr dunkel.",
+              "Achten Sie auf Glatteis auf der Promenade durch gefrorene Gischt.",
+              "Ein heißer Kakao oder 'Koffie' im Zentrum hilft gegen die Kälte."
+            ],
+            "hu": [
+              "Viseljen termo alsóneműt; a menetszél télen rendkívül hűt.",
+              "Ellenőrizze a lámpákat; télen gyakran már 16:30-kor sötét van.",
+              "Ügyeljen a jegesedésre a sétányon a megfagyott tengerpermet miatt.",
+              "Egy forró kakaó vagy kávé a központban segít a hideg ellen."
+            ],
+            "ro": [
+              "Purtați lenjerie termică; vântul în timpul mersului este extrem de rece iarna.",
+              "Verificați luminile; iarna este adesea întuneric deja la ora 16:30.",
+              "Atenție la polei pe faleză din cauza spumei mării înghețate.",
+              "O ciocolată caldă sau o cafea în centru ajută împotriva frigului."
+            ],
+            "en": [
+              "Wear thermal underwear; the wind chill while cycling is extreme in winter.",
+              "Check your lights; it often gets dark by 16:30 in the winter months.",
+              "Watch out for black ice on the promenade caused by frozen sea spray.",
+              "A hot cocoa or 'Koffie' in the city center helps fight the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1086,6 +1450,206 @@
           "A 'Kusttram' day ticket is a good alternative if you want to leave the car.",
           "Be aware of Low Emission Zones (LEZ) that might apply to certain vehicles."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Atlantikwall Raversyde. Die Bunker bieten zwar Schutz, aber der Weg dazwischen ist dem Regen ausgesetzt. Danach fahren Sie bequem zum Wellington Hippodrome.\n\nMittags ist das Auto ein Segen für den Weg zur Promenade. Während es draußen stürmt, genießen Sie ein entspanntes Mittagessen in Meeresnähe, bevor Sie zum Mu.ZEE weiterfahren.\n\nDer Nachmittag im Mu.ZEE ist trocken und inspirierend. Danach fahren Sie zur St.-Petrus-und-Paulus-Kirche im Stadtzentrum, wo Sie direkt in der Nähe parken können.\n\nZum Abschluss geht es zur Mercator und zum Fort Napoleon. Das Auto hält Sie zwischen den Stationen trocken, während Sie die maritimen Wahrzeichen von Ostende erkunden. Der Tag endet mit einer gemütlichen Fahrt durch das regennasse Zentrum.",
+            "hu": "A nap az Atlantikwall Raversyde-nál kezdődik. A bunkerek ugyan védelmet nyújtanak, de a köztük lévő út ki van téve az esőnek. Ezután kényelmesen hajtson a Wellington Hippodromhoz.\n\nDélben az autó áldás a sétány felé vezető úton. Miközben kint viharos az idő, élvezze a nyugodt ebédet a tenger közelében, mielőtt továbbindulna a Mu.ZEE-hez.\n\nA délután a Mu.ZEE-ben száraz és inspiráló. Ezután hajtson a Szent Péter és Szent Pál templomhoz a városközpontban, ahol közvetlenül a közelben parkolhat.\n\nZárásként irány a Mercator és a Fort Napóleon. Az autó szárazon tartja az állomások között, miközben felfedezi Ostende tengeri látnivalóit. A nap egy hangulatos autózással zárul a regő áztatta központon keresztül.",
+            "ro": "Ziua începe la Atlantikwall Raversyde. Buncărele oferă protecție, dar drumul dintre ele este expus ploii. Apoi conduceți confortabil spre Wellington Hippodrome.\n\nLa prânz, mașina este o binecuvântare pentru drumul spre faleză. În timp ce afară e furtună, savurați un prânz relaxat lângă mare înainte de a merge la Mu.ZEE.\n\nDupă-amiaza la Mu.ZEE este uscată și plină de inspirație. Apoi conduceți spre Biserica Sf. Petru și Pavel din centrul orașului, unde puteți parca chiar în apropiere.\n\nLa final, mergeți la Mercator și Fort Napoleon. Mașina vă menține uscat între stații în timp ce explorați reperele maritime. Ziua se încheie cu o plimbare plăcută prin centrul udat de ploaie.",
+            "en": "The day begins at Atlantikwall Raversyde. The bunkers offer protection, but the paths between them are exposed to the rain. Afterward, drive comfortably to the Wellington Hippodrome.\n\nAt midday, the car is a blessing for the trip to the promenade. While it storms outside, enjoy a relaxed lunch near the sea before moving on to Mu.ZEE.\n\nThe afternoon at Mu.ZEE is dry and inspiring. Then drive to Saint Peter and Saint Paul Church in the city center, where you can park very close by.\n\nTo finish, head to the Mercator and Fort Napoleon. The car keeps you dry between stops while you explore Ostend's maritime landmarks. The day ends with a cozy drive through the rain-soaked center."
+          },
+          "stops": [
+            {
+              "name": "Atlantikwall Raversyde",
+              "tip_5lang": {
+                "de": "Parkplätze vorhanden; Bunker bieten guten Schutz vor Regen.",
+                "hu": "Parkolóhelyek rendelkezésre állnak; a bunkerek jó védelmet nyújtanak az eső ellen.",
+                "ro": "Locuri de parcare disponibile; buncărele oferă protecție bună.",
+                "en": "Parking available; bunkers provide good protection from the rain."
+              }
+            },
+            {
+              "name": "Wellington Hippodrome",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Gelände.",
+                "hu": "Használja közvetlenül a területnél található parkolót.",
+                "ro": "Folosiți parcarea direct de la fața locului.",
+                "en": "Use the parking lot located directly at the site."
+              }
+            },
+            {
+              "name": "Beach Promenade & Lunch",
+              "tip_5lang": {
+                "de": "Parkhäuser im Zentrum nutzen, um das Auto trocken zu verlassen.",
+                "hu": "Használja a központi parkolóházakat, hogy szárazon szállhasson ki.",
+                "ro": "Folosiți parcările supraetajate pentru a ieși din mașină la adăpost.",
+                "en": "Use central parking garages to leave the car under cover."
+              }
+            },
+            {
+              "name": "Mu.ZEE",
+              "tip_5lang": {
+                "de": "Parkplatz 'Zeeparking' ist nur wenige Gehminuten entfernt.",
+                "hu": "A 'Zeeparking' parkoló csak pár perc sétára van.",
+                "ro": "Parcarea 'Zeeparking' este la doar câteva minute de mers pe jos.",
+                "en": "The 'Zeeparking' garage is only a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Saint Peter and Saint Paul Church",
+              "tip_5lang": {
+                "de": "Parken in der Nähe des Bahnhofs ist oft am einfachsten.",
+                "hu": "A vasútállomás közelében a legkönnyebb parkolni.",
+                "ro": "Parcarea lângă gară este adesea cea mai simplă opțiune.",
+                "en": "Parking near the train station is often the easiest option."
+              }
+            },
+            {
+              "name": "Mercator Ship",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz am Kai.",
+                "hu": "Rövid séta a rakparti parkolótól.",
+                "ro": "Scurtă plimbare de la parcarea de pe chei.",
+                "en": "Short walk from the parking area at the quay."
+              }
+            },
+            {
+              "name": "Fort Napoleon",
+              "tip_5lang": {
+                "de": "Großer kostenloser Parkplatz direkt am Fort.",
+                "hu": "Nagy ingyenes parkoló közvetlenül a erőd mellett.",
+                "ro": "Parcare mare gratuită direct la fort.",
+                "en": "Large free parking lot located directly at the fort."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Tiefgaragen im Zentrum (z.B. Kursaal oder Visserskaai).",
+              "Die Straßen können bei Küstenregen durch Sand und Wasser rutschig sein.",
+              "Raversyde erfordert trotz Auto Regenschutzkleidung für die Außenwege.",
+              "Vermeiden Sie das Parken direkt am Kai bei Sturmwarnung wegen Hochwasser."
+            ],
+            "hu": [
+              "Használja a központi mélygarázsokat (pl. Kursaal vagy Visserskaai).",
+              "Az utak a parti esőben a homok és víz miatt csúszósak lehetnek.",
+              "Raversyde az autó ellenére esővédő ruházatot igényel a külső utakhoz.",
+              "Viharjelzés esetén kerülje a közvetlen rakparti parkolást a magas vízállás miatt."
+            ],
+            "ro": [
+              "Folosiți parcările subterane din centru (ex. Kursaal sau Visserskaai).",
+              "Drumurile pot fi alunecoase din cauza nisipului și apei în timpul ploilor.",
+              "Raversyde necesită pelerină de ploaie pentru potecile exterioare, în ciuda mașinii.",
+              "Evitați parcarea direct pe chei în caz de avertizare de furtună."
+            ],
+            "en": [
+              "Utilize underground parking garages in the center (e.g., Kursaal or Visserskaai).",
+              "Roads can be slippery due to a mix of sand and water during coastal rain.",
+              "Raversyde requires rain gear for the outdoor paths even if arriving by car.",
+              "Avoid parking directly at the quay during storm warnings due to potential flooding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag beginnt am Atlantikwall Raversyde. Die Bunker sind im Winter besonders stimmungsvoll. Danach fahren Sie zum Wellington Hippodrome, während die Heizung im Auto für wohlige Wärme sorgt.\n\nMittags genießen Sie den Blick auf die winterliche Nordsee von der Promenade aus. Das Auto bietet einen warmen Rückzugsort zwischen den Spaziergängen. Ein Lunch in der Nähe des Kursaals rundet den Mittag ab.\n\nDer Nachmittag im Mu.ZEE ist der perfekte Ort, um der Kälte zu entkommen. Danach fahren Sie zur St.-Petrus-und-Paulus-Kirche, deren neugotische Türme im klaren Winterlicht besonders scharf gezeichnet sind.\n\nZum Abschluss besuchen Sie die Mercator und das Fort Napoleon. Da es früh dunkel wird, sind die beleuchteten Schiffe und Gebäude besonders sehenswert. Der Tag endet mit einer Fahrt durch das weihnachtlich beleuchtete Ostende.",
+            "hu": "A téli nap az Atlantikwall Raversyde-nál kezdődik. A bunkerek télen különösen hangulatosak. Ezután hajtson a Wellington Hippodromhoz, miközben az autó fűtése kellemes meleget ad.\n\nDélben élvezze a téli Északi-tenger látványát a sétányról. Az autó meleg menedéket nyújt a séták között. Egy ebéd a Kursaal közelében teszi teljessé a delet.\n\nA délután a Mu.ZEE-ben a tökéletes hely a hideg elől való menekülésre. Ezután hajtson a Szent Péter és Szent Pál templomhoz, melynek neogótikus tornyai élesen rajzolódnak ki a tiszta téli fényben.\n\nZárásként látogasson el a Mercatorhoz és a Fort Napóleonhoz. Mivel korán sötétedik, a kivilágított hajók és épületek különösen szépek. A nap az ünnepi díszben úszó Ostendén keresztüli autózással zárul.",
+            "ro": "O zi de iarnă începe la Atlantikwall Raversyde. Buncărele sunt deosebit de sugestive iarna. Apoi conduceți spre Wellington Hippodrome, în timp ce încălzirea din mașină oferă confort.\n\nLa prânz, savurați vederea Mării Nordului iarna de pe faleză. Mașina oferă un refugiu cald între plimbări. Un prânz lângă Kursaal completează amiaza.\n\nDupă-amiaza la Mu.ZEE este locul perfect pentru a scăpa de frig. Apoi conduceți spre Biserica Sf. Petru și Pavel, ale cărei turnuri neogotice se profilează clar în lumina iernii.\n\nLa final, vizitați Mercator și Fort Napoleon. Deoarece se întunecă devreme, navele și clădirile iluminate sunt deosebit de frumoase. Ziua se încheie cu o plimbare prin Oostende luminat de sărbătoare.",
+            "en": "A winter day starts at Atlantikwall Raversyde. The bunkers are particularly atmospheric in winter. Then drive to the Wellington Hippodrome while the car heater keeps you cozy.\n\nAt midday, enjoy the view of the wintry North Sea from the promenade. The car offers a warm retreat between walks. A lunch near the Kursaal completes the midday program.\n\nThe afternoon at Mu.ZEE is the perfect place to escape the cold. Then drive to Saint Peter and Saint Paul Church, its neo-Gothic towers sharply defined in the clear winter light.\n\nTo finish, visit the Mercator and Fort Napoleon. Since it gets dark early, the illuminated ships and buildings are a sight to behold. The day ends with a drive through the festively lit Ostend."
+          },
+          "stops": [
+            {
+              "name": "Atlantikwall Raversyde",
+              "tip_5lang": {
+                "de": "Öffnungszeiten im Winter prüfen; oft nur an Wochenenden offen.",
+                "hu": "Ellenőrizze a téli nyitvatartást; gyakran csak hétvégén van nyitva.",
+                "ro": "Verificați programul de iarnă; adesea deschis doar în weekend.",
+                "en": "Check winter opening hours; the site is often only open on weekends."
+              }
+            },
+            {
+              "name": "Wellington Hippodrome",
+              "tip_5lang": {
+                "de": "Parkplatz kann bei Frost glatt sein.",
+                "hu": "A parkoló fagy esetén csúszós lehet.",
+                "ro": "Parcarea poate fi alunecoasă în caz de îngheț.",
+                "en": "The parking lot can be slippery in freezing conditions."
+              }
+            },
+            {
+              "name": "Beach Promenade & Lunch",
+              "tip_5lang": {
+                "de": "Warmer Rückzugsort im Auto nach dem windigen Strandgang.",
+                "hu": "Meleg menedék az autóban a szeles parti séta után.",
+                "ro": "Refugiu cald în mașină după plimbarea vântoasă pe plajă.",
+                "en": "Warm retreat in the car after a windy walk on the beach."
+              }
+            },
+            {
+              "name": "Mu.ZEE",
+              "tip_5lang": {
+                "de": "Das Parkhaus gegenüber ist beheizt und beleuchtet.",
+                "hu": "A szemközti parkolóház fűtött és kivilágított.",
+                "ro": "Parcarea supraetajată de vizavi este încălzită și iluminată.",
+                "en": "The parking garage opposite is heated and well-lit."
+              }
+            },
+            {
+              "name": "Saint Peter and Saint Paul Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp möglich; Parkplätze am Kai oft frei.",
+                "hu": "Rövid megálló lehetséges; a rakparti parkolók gyakran szabadok.",
+                "ro": "Oprire scurtă posibilă; parcările de pe chei sunt adesea libere.",
+                "en": "Short stop possible; parking spots at the quay are often available."
+              }
+            },
+            {
+              "name": "Mercator Ship",
+              "tip_5lang": {
+                "de": "Das beleuchtete Schiff ist ein tolles Fotomotiv am frühen Abend.",
+                "hu": "A kivilágított hajó remek fotótéma kora este.",
+                "ro": "Nava iluminată este un subiect foto excelent seara devreme.",
+                "en": "The illuminated ship is a great photo opportunity in the early evening."
+              }
+            },
+            {
+              "name": "Fort Napoleon",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Schneeverwehungen schwierig sein.",
+                "hu": "A behajtás nehéz lehet hóátfúvások esetén.",
+                "ro": "Accesul poate fi dificil în caz de troiene de zăpadă.",
+                "en": "Access might be difficult during heavy snow drifts."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Parkhäuser, um das Auto eisfrei zu halten.",
+              "Die Sichtweite kann bei Winternebel an der Küste stark eingeschränkt sein.",
+              "Sitzheizung und Standheizung sind bei diesem Küstenausflug Gold wert.",
+              "Die Parkgebühren sind in der Nebensaison oft günstiger."
+            ],
+            "hu": [
+              "Használjon parkolóházakat, hogy az autó jégmentes maradjon.",
+              "A látótávolság téli ködben a parton erősen korlátozott lehet.",
+              "Az ülésfűtés és az állóhelyzeti fűtés aranyat ér ezen a parti kiránduláson.",
+              "A parkolási díjak a főszezonon kívül gyakran kedvezőbbek."
+            ],
+            "ro": [
+              "Folosiți parcări acoperite pentru a menține mașina fără gheață.",
+              "Vizibilitatea poate fi redusă semnificativ în caz de ceață de iarnă pe coastă.",
+              "Încălzirea în scaune este extrem de utilă în această excursie la malul mării.",
+              "Tarifele de parcare sunt adesea mai mici în extrasezon."
+            ],
+            "en": [
+              "Use indoor parking garages to keep the car ice-free.",
+              "Visibility can be severely limited during winter fog on the coast.",
+              "Seat heaters and climate control are a godsend on this coastal trip.",
+              "Parking fees are often lower during the off-season months."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1442,6 +2006,188 @@
           "The Kusttram can get very crowded in summer, allow extra time.",
           "Many stops are equipped with digital displays showing the next departures."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Atlantikwall Raversyde. Die Küstenstraßenbahn (Kusttram) bringt Sie bequem dorthin. Die Bunker bieten guten Schutz, während der Regen auf die Dünen prasselt. Danach geht es mit der Tram zurück zum Wellington Hippodrome.\n\nMittags erreichen Sie den Kursaal und die Promenade per Tram. Sie steigen fast direkt vor dem Gebäude aus, was die Zeit im Regen minimiert. Ein Mittagessen im Trockenen ist hier leicht zu finden.\n\nDer Nachmittag im Mu.ZEE ist nur eine kurze Busfahrt oder einen kurzen Gang von der Haltestelle entfernt. Es ist der perfekte Ort für die nassesten Stunden des Tages. Die Kunstgalerien sind warm und einladend.\n\nAm Abend bringt Sie die Tram zur St.-Petrus-und-Paulus-Kirche und zum Fort Napoleon (mit der Fähre). Die öffentlichen Verkehrsmittel sind in Ostende zuverlässig und halten Sie trocken, während Sie die maritimen Schätze der Stadt entdecken.",
+            "hu": "Kezdje az Atlantikwall Raversyde-nál. A parti villamos (Kusttram) kényelmesen elviszi oda. A bunkerek jó védelmet nyújtanak, miközben az eső a dűnékre kopog. Ezután villamossal menjen vissza a Wellington Hippodromhoz.\n\nDélben villamossal érheti el a Kursaalt és a sétányt. Szinte közvetlenül az épület előtt szállhat le, minimalizálva az esőben töltött időt. Egy ebéd szárazon itt könnyen megoldható.\n\nA délután a Mu.ZEE-ben csak egy rövid buszút vagy séta a megállótól. Ez a tökéletes hely a nap legvizesebb óráira. A művészeti galériák melegek és hívogatóak.\n\nEste a villamos elviszi a Szent Péter és Szent Pál templomhoz és a Fort Napóleonhoz (komppal). A tömegközlekedés Ostendében megbízható és szárazon tartja, miközben felfedezi a város tengeri kincseit.",
+            "ro": "Începeți la Atlantikwall Raversyde. Tramvaiul de coastă (Kusttram) vă duce confortabil acolo. Buncărele oferă protecție bună în timp ce ploaia cade pe dune. Apoi reveniți cu tramvaiul la Wellington Hippodrome.\n\nLa prânz, ajungeți la Kursaal și faleză cu tramvaiul. Coborâți aproape direct în fața clădirii, minimizând timpul în ploaie. Un prânz la adăpost este ușor de găsit aici.\n\nDupă-amiaza la Mu.ZEE este la doar o scurtă călătorie cu autobuzul sau o plimbare de la stație. Este locul perfect pentru cele mai ploioase ore. Galeriile de artă sunt calde și primitoare.\n\nSeara, tramvaiul vă duce la Biserica Sf. Petru și Pavel și la Fort Napoleon (cu feribotul). Transportul public din Oostende este de încredere și vă menține uscat în timp ce descoperiți orașul.",
+            "en": "Start at Atlantikwall Raversyde. The Coastal Tram (Kusttram) takes you there comfortably. The bunkers offer good protection while the rain falls on the dunes. Then take the tram back to Wellington Hippodrome.\n\nAt midday, reach the Kursaal and the promenade by tram. You get off almost directly in front of the building, minimizing time in the rain. Finding a dry place for lunch is easy here.\n\nThe afternoon at Mu.ZEE is just a short bus ride or walk from the stop. It is the perfect place for the wettest hours of the day. The art galleries are warm and inviting.\n\nIn the evening, the tram takes you to Saint Peter and Saint Paul Church and Fort Napoleon (via ferry). Public transport in Ostend is reliable and keeps you dry while you discover the city's maritime treasures."
+          },
+          "stops": [
+            {
+              "name": "Atlantikwall Raversyde",
+              "tip_5lang": {
+                "de": "Tramstation 'Raversyde' ist direkt am Eingang.",
+                "hu": "A 'Raversyde' villamosmegálló közvetlenül a bejáratnál van.",
+                "ro": "Stația de tramvai 'Raversyde' este chiar la intrare.",
+                "en": "The 'Raversyde' tram station is located right at the entrance."
+              }
+            },
+            {
+              "name": "Wellington Hippodrome",
+              "tip_5lang": {
+                "de": "Haltestelle 'Oostende Renbaan' nutzen.",
+                "hu": "Használja az 'Oostende Renbaan' megállót.",
+                "ro": "Folosiți stația 'Oostende Renbaan'.",
+                "en": "Use the 'Oostende Renbaan' stop for the easiest access."
+              }
+            },
+            {
+              "name": "Kursaal & Promenade",
+              "tip_5lang": {
+                "de": "Überdachte Haltestellen an der Promenade verfügbar.",
+                "hu": "Fedett megállók állnak rendelkezésre a sétánynál.",
+                "ro": "Stații acoperite disponibile pe faleză.",
+                "en": "Covered tram stops are available along the promenade."
+              }
+            },
+            {
+              "name": "Mu.ZEE",
+              "tip_5lang": {
+                "de": "Zentral gelegen; viele Buslinien halten in der Nähe.",
+                "hu": "Központi fekvésű; számos buszjárat megáll a közelben.",
+                "ro": "Locație centrală; multe linii de autobuz opresc în apropiere.",
+                "en": "Centrally located; many bus lines stop within a short distance."
+              }
+            },
+            {
+              "name": "Saint Peter and Saint Paul Church",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg vom Hauptbahnhof entfernt.",
+                "hu": "Mindössze 5 perc séta a főpályaudvartól.",
+                "ro": "La doar 5 minute de mers pe jos de gara centrală.",
+                "en": "Only a 5-minute walk from the main train station."
+              }
+            },
+            {
+              "name": "Fort Napoleon",
+              "tip_5lang": {
+                "de": "Fähre ist bei starkem Regen und Wind oft eingeschränkt.",
+                "hu": "A komp erős esőben és szélben gyakran korlátozottan jár.",
+                "ro": "Feribotul este adesea restricționat în caz de ploaie și vânt puternic.",
+                "en": "The ferry service may be restricted during heavy rain and strong winds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Kusttram-App für Echtzeit-Infos bei wetterbedingten Verzögerungen.",
+              "Die Küstenstraßenbahn fährt im 15- oder 20-Minuten-Takt.",
+              "Die Haltestellen am Meer sind oft dem Wind ausgesetzt; suchen Sie Schutz in Gebäuden.",
+              "Ein Tagesticket ist die günstigste Wahl für diese Route."
+            ],
+            "hu": [
+              "Használja a Kusttram alkalmazást a valós idejű infókért időjárási késések esetén.",
+              "A parti villamos 15-20 percenként jár.",
+              "A tengerparti megállók gyakran szelesek; keressen menedéket a közeli épületekben.",
+              "A napijegy a leggazdaságosabb választás ehhez az útvonalhoz."
+            ],
+            "ro": [
+              "Utilizați aplicația Kusttram pentru informații în timp real în caz de întârzieri.",
+              "Tramvaiul de coastă circulă la fiecare 15 sau 20 de minute.",
+              "Stațiile de la malul mării sunt expuse vântului; căutați adăpost în clădiri.",
+              "Un bilet de o zi este cea mai economică alegere pentru această rută."
+            ],
+            "en": [
+              "Use the Kusttram app for real-time info in case of weather-related delays.",
+              "The Coastal Tram runs every 15 to 20 minutes during the day.",
+              "Tram stops by the sea are very exposed; wait inside nearby buildings if possible.",
+              "A day pass (dagpas) is the most cost-effective choice for this itinerary."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintertag am Atlantikwall Raversyde mit der Tram. Die Fahrt entlang der Küste bietet tolle Ausblicke auf den winterlichen Strand. Danach geht es zum Wellington Hippodrome, während Sie in der beheizten Tram wieder auftauen.\n\nMittags erreichen Sie den Kursaal. Der kurze Weg von der Haltestelle ist bei der Kälte ideal. Genießen Sie die winterliche Atmosphäre der Promenade, bevor Sie mit dem Bus zum Mu.ZEE weiterfahren.\n\nDer Nachmittag im Mu.ZEE ist der perfekte warme Rückzugsort. Wenn es draußen dunkel wird, bietet das Museum eine gemütliche Atmosphäre. Danach geht es per Bus oder zu Fuß zur nahegelegenen St.-Petrus-und-Paulus-Kirche.\n\nAm Abend bringt Sie die Tram zurück zum Bahnhof und zum Hafen. Das beleuchtete Fort Napoleon ist per Fähre erreichbar (wetterabhängig). Der Tag endet mit einer warmen Tramfahrt durch das festlich beleuchtete Ostende.",
+            "hu": "Kezdje a téli napot az Atlantikwall Raversyde-nál villamossal. A parti utazás nagyszerű kilátást nyújt a téli strandra. Ezután irány a Wellington Hippodrom, miközben a fűtött villamoson újra felenged.\n\nDélben érkezzen meg a Kursaalhoz. A megállótól vezető rövid út ideális a hidegben. Élvezze a sétány téli hangulatát, mielőtt busszal továbbutazna a Mu.ZEE-hez.\n\nA délután a Mu.ZEE-ben a tökéletes meleg menedék. Amikor kint sötétedik, a múzeum meghitt hangulatot áraszt. Ezután busszal vagy gyalog menjen a közeli Szent Péter és Szent Pál templomhoz.\n\nEste a villamos visszaviszi a pályaudvarhoz és a kikötőbe. A kivilágított Fort Napóleon komppal érhető el (időjárásfüggő). A nap egy meleg villamosozással zárul az ünnepi díszbe öltözött Ostendén keresztül.",
+            "ro": "Începeți ziua de iarnă la Atlantikwall Raversyde cu tramvaiul. Călătoria de-a lungul coastei oferă vederi superbe asupra plajei de iarnă. Apoi mergeți la Wellington Hippodrome, încălzindu-vă în tramvai.\n\nLa prânz, ajungeți la Kursaal. Distanța scurtă de la stație este ideală pe frig. Savurați atmosfera de iarnă a falezei înainte de a continua cu autobuzul spre Mu.ZEE.\n\nDupă-amiaza la Mu.ZEE este refugiul cald perfect. Când se întunecă afară, muzeul oferă o atmosferă primitoare. Apoi mergeți cu autobuzul sau pe jos la Biserica Sf. Petru și Pavel.\n\nSeara, tramvaiul vă aduce înapoi la gară și în port. Fort Napoleon iluminat este accesibil cu feribotul (în funcție de vreme). Ziua se încheie cu o călătorie caldă cu tramvaiul prin Oostende luminat festiv.",
+            "en": "Start your winter day at Atlantikwall Raversyde by tram. The ride along the coast offers great views of the wintry beach. Then head to the Wellington Hippodrome, thawing out in the heated tram along the way.\n\nAt midday, reach the Kursaal. The short walk from the stop is ideal in the cold. Enjoy the wintry atmosphere of the promenade before continuing by bus to Mu.ZEE.\n\nThe afternoon at Mu.ZEE is the perfect warm retreat. As it gets dark outside, the museum offers a cozy atmosphere. Afterward, take a bus or walk to the nearby Saint Peter and Saint Paul Church.\n\nIn the evening, the tram brings you back to the station and the harbor. The illuminated Fort Napoleon is accessible by ferry (weather permitting). The day ends with a warm tram ride through the festively lit Ostend."
+          },
+          "stops": [
+            {
+              "name": "Atlantikwall Raversyde",
+              "tip_5lang": {
+                "de": "Im Winter sind die Wartebereiche an den Tramstationen oft sehr zugig.",
+                "hu": "Télen a villamosmegállók várótermei gyakran nagyon huzatosak.",
+                "ro": "Iarna, zonele de așteptare din stațiile de tramvai sunt adesea foarte expuse curentului.",
+                "en": "In winter, the waiting areas at tram stations can be very draughty."
+              }
+            },
+            {
+              "name": "Wellington Hippodrome",
+              "tip_5lang": {
+                "de": "Tram 'Oostende Renbaan' hält direkt gegenüber.",
+                "hu": "Az 'Oostende Renbaan' villamos közvetlenül szemben áll meg.",
+                "ro": "Tramvaiul 'Oostende Renbaan' oprește chiar vizavi.",
+                "en": "The 'Oostende Renbaan' tram stops directly across from the site."
+              }
+            },
+            {
+              "name": "Kursaal & Promenade",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tram zur Erholung von der Kälte.",
+                "hu": "Használja a villamost a hideg utáni pihenésre.",
+                "ro": "Folosiți tramvaiul pentru a vă recupera după frig.",
+                "en": "Use the heated tram to recover after spending time in the cold."
+              }
+            },
+            {
+              "name": "Mu.ZEE",
+              "tip_5lang": {
+                "de": "Gut angebunden an das Busnetz für kurze Wege.",
+                "hu": "Jól kapcsolódik a buszhálózathoz a rövid távok érdekében.",
+                "ro": "Bine conectat la rețeaua de autobuze pentru distanțe scurte.",
+                "en": "Well-connected to the bus network for minimizing outdoor walking."
+              }
+            },
+            {
+              "name": "Saint Peter and Saint Paul Church",
+              "tip_5lang": {
+                "de": "In der Nähe des Bahnhofs gibt es viele beheizte Cafés.",
+                "hu": "A vasútállomás közelében számos fűtött kávézó található.",
+                "ro": "Lângă gară există multe cafenele încălzite.",
+                "en": "There are many heated cafes located near the train station."
+              }
+            },
+            {
+              "name": "Fort Napoleon",
+              "tip_5lang": {
+                "de": "Die Fähre ist im Winter windanfällig; Fahrplan prüfen.",
+                "hu": "A komp télen szélérzékeny; ellenőrizze a menetrendet.",
+                "ro": "Feribotul este sensibil la vânt iarna; verificați orarul.",
+                "en": "The ferry is susceptible to wind in winter; check the schedule beforehand."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Kusttram ist im Winter gut beheizt und bietet eine Pause vom Wind.",
+              "Achten Sie auf die verkürzten Fahrpläne am späten Abend.",
+              "Die Stationen sind im Winter oft leerer, aber kälter.",
+              "Verwenden Sie die 'De Lijn' App für alle Bus- und Tramverbindungen."
+            ],
+            "hu": [
+              "A parti villamos télen jól fűtött, és pihenőt nyújt a szél elől.",
+              "Ügyeljen a késő esti rövidített menetrendekre.",
+              "A megállók télen gyakran üresebbek, de hidegebbek.",
+              "Használja a 'De Lijn' alkalmazást az összes busz- és villamosjárathoz."
+            ],
+            "ro": [
+              "Tramvaiul de coastă este bine încălzit iarna și oferă o pauză de la vânt.",
+              "Atenție la orarul redus în timpul serii târziu.",
+              "Stațiile sunt adesea mai goale iarna, dar mai reci.",
+              "Folosiți aplicația 'De Lijn' pentru toate conexiunile de autobuz și tramvai."
+            ],
+            "en": [
+              "The Coastal Tram is well-heated in winter, offering a break from the wind.",
+              "Be aware of potentially reduced schedules during late winter evenings.",
+              "Stations are often less crowded in winter but can be very cold while waiting.",
+              "Use the 'De Lijn' app for all bus and tram connections and real-time info."
+            ]
+          }
+        }
       }
     }
   }

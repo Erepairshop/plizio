@@ -322,6 +322,188 @@
           "Check the opening times for the Harris Museum in advance.",
           "Many city centre pubs serve traditional Lancashire meals."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendlicher Spaziergang am Winckley Square, wo die Bäume teilweisen Schutz bieten. Das Harris Museum ist der perfekte Ort, um den Vormittag trocken zu verbringen. Mittags erreichen Sie die St. Walburge's Church, deren gewaltiges Dach prasselnden Regen akustisch untermalt. Der Nachmittag gehört der Guild Hall und dem Museum of Lancashire, während die Parks am Flussufer im Nebel liegen.",
+            "hu": "Reggeli séta a Winckley Square fái alatt, melyek felfogják az esőcseppeket. A Harris Múzeum neoklasszicista épülete hosszú, száraz menedéket nyújt a tárlatok között. Délben a St. Walburge templom hatalmas belső tere vár, majd a Guild Hall kulturális központja következik. A napot a Lancashire Múzeumban zárjuk, elkerülve az ázott parki ösvényeket a folyóparton.",
+            "ro": "Plimbare de dimineață în Winckley Square, unde copacii oferă adăpost parțial. Muzeul Harris este refugiul perfect pentru a rămâne uscat explorând arta. La prânz, biserica St. Walburge impresionează prin interiorul său vast. După-amiaza continuă la Guild Hall și Muzeul Lancashire, în timp ce parcurile de pe malul râului Ribble rămân învăluite în ceață.",
+            "en": "Morning walk through Winckley Square where old trees provide some cover. The Harris Museum offers a grand, dry sanctuary for the late morning hours. Midday finds you inside the vast St. Walburge's Church. Afternoon is spent exploring the Guild Hall and the Museum of Lancashire, keeping you indoors while the rain falls over the Ribble valley and the riverfront parks."
+          },
+          "stops": [
+            {
+              "name": "Winckley Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die dichten Baumkronen am Rand des Platzes als natürlichen Regenschutz.",
+                "hu": "Használja a tér szélén álló sűrű lombkoronákat természetes esővédőként.",
+                "ro": "Folosiți coronamentul des al copacilor de la marginea pieței ca adăpost natural.",
+                "en": "Use the thick tree canopies at the edge of the square as natural rain cover."
+              }
+            },
+            {
+              "name": "Harris Museum, Art Gallery & Library",
+              "tip_5lang": {
+                "de": "Hervorragender Ort, um längere Regenschauer in den Galerien abzuwarten.",
+                "hu": "Kiváló helyszín a hosszabb záporok átvészelésére a galériák között.",
+                "ro": "Loc excelent pentru a aștepta trecerea averselor lungi în galerii.",
+                "en": "Excellent place to wait out long rain showers within the art galleries."
+              }
+            },
+            {
+              "name": "St. Walburge's Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur von innen, während der Regen gegen die Fenster peitscht.",
+                "hu": "Csodálja meg a belső építészetet, miközben az eső veri az ablakokat.",
+                "ro": "Admirați arhitectura interioară în timp ce ploaia bate în ferestre.",
+                "en": "Admire the interior architecture while the rain lashes against the windows."
+              }
+            },
+            {
+              "name": "Preston Guild Hall",
+              "tip_5lang": {
+                "de": "Das Foyer bietet einen trockenen Treffpunkt mit Cafés im Innenbereich.",
+                "hu": "Az előcsarnok száraz találkozóhelyet kínál belső kávézókkal.",
+                "ro": "Foaierul oferă un punct de întâlnire uscat, cu cafenele interioare.",
+                "en": "The foyer provides a dry meeting point with indoor cafes available."
+              }
+            },
+            {
+              "name": "Avenham & Miller Parks",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Wegen, um Schlamm auf den Rasenflächen zu vermeiden.",
+                "hu": "Maradjon az aszfaltozott utakon, elkerülve a saras pázsitot.",
+                "ro": "Rămâneți pe aleile asfaltate pentru a evita noroiul de pe gazon.",
+                "en": "Stay on the paved paths to avoid mud on the grassy areas."
+              }
+            },
+            {
+              "name": "Museum of Lancashire",
+              "tip_5lang": {
+                "de": "Schließen Sie den Tag gemütlich im Trockenen mit lokaler Geschichte ab.",
+                "hu": "Zárja a napot kényelmesen, szárazon, a helyi történelem felfedezésével.",
+                "ro": "Încheiați ziua confortabil la adăpost, explorând istoria locală.",
+                "en": "End the day comfortably in the dry, exploring local history."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Wege in den Parks.",
+              "Das Harris Museum bietet kostenloses WLAN und Sitzgelegenheiten zum Trocknen.",
+              "Vermeiden Sie die Uferpfade des Ribble bei starkem Wind und Regen.",
+              "Die Guild Hall Passage bietet eine Abkürzung im Trockenen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a parki sétányokhoz.",
+              "A Harris Múzeumban ingyenes wifi és pihenőhelyek várnak a szárítkozáshoz.",
+              "Erős szélben kerülje a Ribble-folyó menti nyitott ösvényeket.",
+              "A Guild Hall passzázsa száraz rövidítést kínál a belvárosban."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru aleile din parcuri.",
+              "Muzeul Harris oferă Wi-Fi gratuit și locuri de relaxare pentru uscare.",
+              "Evitați potecile de pe malul râului Ribble în caz de vânt puternic și ploaie.",
+              "Pasajul Guild Hall oferă o scurtătură la adăpost în centrul orașului."
+            ],
+            "en": [
+              "Wear waterproof footwear for the paths in the parks.",
+              "Harris Museum offers free Wi-Fi and seating areas to dry off.",
+              "Avoid the Ribble riverbank paths during heavy wind and rain.",
+              "The Guild Hall passage offers a dry shortcut through the city center."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostiger Morgen am Winckley Square mit kahlen, imposanten Bäumen. Die Wärme des Harris Museums lädt zum Verweilen ein, bevor Sie die neogotische Pracht von St. Walburge's besichtigen. Mittags bieten die Cafés der Guild Hall heiße Getränke. Da die Sonne bereits gegen 16 Uhr untergeht, leuchten die Lichter von Avenham Park in der Dämmerung, gefolgt von einem Besuch im Museum of Lancashire.",
+            "hu": "Deres reggel a Winckley Square-en a kopasz, impozáns fák között. A Harris Múzeum melege hívogat, mielőtt megtekintenénk a St. Walburge neogótikus pompáját. Délben a Guild Hall kávézói kínálnak forró italokat. Mivel a nap már délután 4 körül lemegy, az Avenham Park fényei már szürkületben felgyúlnak, mielőtt a Lancashire Múzeumba érnénk.",
+            "ro": "Dimineață geroasă în Winckley Square printre copacii goliți de frunze. Căldura Muzeului Harris invită la popas înainte de a vizita splendoarea neogotică a bisericii St. Walburge. La prânz, cafenelele din Guild Hall oferă băuturi fierbinți. Deoarece soarele apune în jurul orei 16, luminile din Avenham Park se aprind devreme, urmate de o vizită la Muzeul Lancashire.",
+            "en": "Frosty morning at Winckley Square among bare, imposing trees. The warmth of the Harris Museum is welcoming before visiting the neo-Gothic splendor of St. Walburge's. At midday, Guild Hall cafes offer hot beverages. With sunset around 4 PM, the lights of Avenham Park glow in the twilight, followed by a final indoor stop at the Museum of Lancashire."
+          },
+          "stops": [
+            {
+              "name": "Winckley Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf den gusseisernen Bänken und Gehwegen.",
+                "hu": "Vigyázzon a jeges foltokra az öntöttvas padokon és a járdákon.",
+                "ro": "Atenție la porțiunile alunecoase de pe băncile de fontă și trotuare.",
+                "en": "Watch out for icy patches on the cast-iron benches and pavements."
+              }
+            },
+            {
+              "name": "Harris Museum, Art Gallery & Library",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Wintermäntel während des Besuchs abzugeben.",
+                "hu": "Használja a ruhatárat a nehéz télikabátok leadására a látogatás alatt.",
+                "ro": "Folosiți garderoba pentru a lăsa paltoanele grele pe durata vizitei.",
+                "en": "Use the cloakroom to drop off heavy winter coats during your visit."
+              }
+            },
+            {
+              "name": "St. Walburge's Church",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Kleidung, da die hohen Kirchenschiffe schwer zu beheizen sind.",
+                "hu": "Öltözzön melegen, mert a magas templomhajókat nehéz kifűteni.",
+                "ro": "Îmbrăcați-vă gros, deoarece naosul înalt este greu de încălzit.",
+                "en": "Dress warmly as the high church naves are difficult to heat."
+              }
+            },
+            {
+              "name": "Preston Guild Hall",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Aufwärmpause mit heißem Tee oder Kaffee.",
+                "hu": "Ideális helyszín egy melegítő szünetre forró teával vagy kávéval.",
+                "ro": "Loc ideal pentru o pauză de încălzire cu ceai sau cafea fierbinte.",
+                "en": "An ideal spot for a warming break with hot tea or coffee."
+              }
+            },
+            {
+              "name": "Avenham & Miller Parks",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park vor 16:00 Uhr, um das Tageslicht optimal zu nutzen.",
+                "hu": "Látogasson el a parkba délután 4 előtt a természetes fény kihasználásához.",
+                "ro": "Vizitați parcul înainte de ora 16:00 pentru a profita de lumina zilei.",
+                "en": "Visit the park before 4 PM to make the most of the daylight."
+              }
+            },
+            {
+              "name": "Museum of Lancashire",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ausstellungen in der angenehm temperierten Umgebung.",
+                "hu": "Élvezze a kiállításokat a kellemes hőmérsékletű környezetben.",
+                "ro": "Bucurați-vă de expoziții într-un mediu cu temperatură plăcută.",
+                "en": "Enjoy the exhibitions in the pleasantly heated environment."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht früh unter, planen Sie Außenaktivitäten vor 15:30 Uhr.",
+              "Tragen Sie griffige Schuhe, da die Parkwege gefrieren können.",
+              "Die Luftfeuchtigkeit vom Ribble macht die Kälte spürbarer.",
+              "Prüfen Sie die Winteröffnungszeiten der Museen vorab."
+            ],
+            "hu": [
+              "A nap korán nyugszik, tervezze a kinti programokat 15:30 elé.",
+              "Viseljen jó tapadású cipőt, mert a parki utak lefagyhatnak.",
+              "A Ribble felől érkező pára miatt a hideg metszőbbnek érződik.",
+              "Ellenőrizze előre a múzeumok téli nyitvatartását."
+            ],
+            "ro": [
+              "Soarele apune devreme, planificați activitățile în aer liber înainte de 15:30.",
+              "Purtați încălțăminte cu talpă aderentă, aleile pot îngheța.",
+              "Umiditatea de la râul Ribble face frigul să pară mai tăios.",
+              "Verificați în prealabil programul de iarnă al muzeelor."
+            ],
+            "en": [
+              "Sunset is early; plan outdoor activities before 3:30 PM.",
+              "Wear high-grip shoes as park paths can freeze over.",
+              "Humidity from the Ribble makes the cold feel more biting.",
+              "Check winter opening hours for museums in advance."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -622,6 +804,188 @@
           "Use the Guild Wheel route for safer and more scenic rides.",
           "Always lock your bike in busy, well-lit areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Start am Deepdale Stadium mit wind- und wasserfester Ausrüstung. Die Fahrt zum Harris Museum führt über nasse Straßen, daher ist Vorsicht geboten. Der Winckley Square bietet unter Bäumen eine kurze Pause. Entlang des Ribble im Avenham Park peitscht der Regen seitlich, doch das Ribble Steam Railway Museum bietet eine trockene Endstation vor dem Besuch von St. Walburge's.",
+            "hu": "Indulás a Deepdale Stadiontól szél- és vízálló felszerelésben. A Harris Múzeumig vezető út vizes aszfalton halad, óvatosság szükséges. A Winckley Square fái alatt tarthatunk egy rövid szünetet. A Ribble mentén az Avenham Parkban oldalról veri az eső, de a Vasúti Múzeum száraz végállomást kínál a St. Walburge megtekintése előtt.",
+            "ro": "Pornire de la Stadionul Deepdale cu echipament rezistent la vânt și apă. Drumul spre Muzeul Harris trece peste străzi ude, fiind necesară prudență. Winckley Square oferă o scurtă pauză sub copaci. De-a lungul râului Ribble ploaia bate din lateral, dar Muzeul Căii Ferate oferă o destinație uscată înainte de St. Walburge.",
+            "en": "Start at Deepdale Stadium with wind and waterproof gear. The ride to Harris Museum involves wet roads, so caution is needed. Winckley Square's trees offer a brief shelter. Along the Ribble in Avenham Park, rain lashes from the side, but the Ribble Steam Railway Museum provides a dry haven before visiting St. Walburge's."
+          },
+          "stops": [
+            {
+              "name": "Deepdale Stadium",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Markierungen auf dem Stadionparkplatz.",
+                "hu": "Ügyeljen a csúszós felfestésekre a stadion parkolójában.",
+                "ro": "Atenție la marcajele alunecoase din parcarea stadionului.",
+                "en": "Watch out for slippery road markings in the stadium parking lot."
+              }
+            },
+            {
+              "name": "Harris Museum, Art Gallery & Library",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich in der Nähe des Haupteingangs.",
+                "hu": "Biztonságos kerékpártárolók találhatók a főbejárat közelében.",
+                "ro": "Suporturi de biciclete securizate se află lângă intrarea principală.",
+                "en": "Secure bike racks are located near the main entrance."
+              }
+            },
+            {
+              "name": "Winckley Square",
+              "tip_5lang": {
+                "de": "Das Laub auf den Wegen kann bei Nässe extrem glatt sein.",
+                "hu": "Az útra hullott levelek nedvesen rendkívül csúszósak lehetnek.",
+                "ro": "Frunzișul de pe alei poate fi extrem de alunecos când este ud.",
+                "en": "Wet leaves on the paths can be extremely slippery."
+              }
+            },
+            {
+              "name": "Avenham & Miller Parks",
+              "tip_5lang": {
+                "de": "Reduzieren Sie die Geschwindigkeit in Kurven auf den abschüssigen Wegen.",
+                "hu": "Csökkentse a sebességet a kanyarokban a lejtős ösvényeken.",
+                "ro": "Reduceți viteza în curbe pe potecile în pantă.",
+                "en": "Reduce speed in curves on the sloping park paths."
+              }
+            },
+            {
+              "name": "Ribble Steam Railway and Museum",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um das Fahrrad abzustellen und sich im Inneren aufzuwärmen.",
+                "hu": "Tökéletes hely a bringa leállítására és a benti melegedésre.",
+                "ro": "Un loc perfect pentru a lăsa bicicleta și a vă încălzi în interior.",
+                "en": "A perfect place to park the bike and warm up inside."
+              }
+            },
+            {
+              "name": "St. Walburge's Church",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Bremsen auf den Kopfsteinpflasterabschnitten davor.",
+                "hu": "Kerülje a fékezést a templom előtti macskaköves szakaszokon.",
+                "ro": "Evitați frânarea pe secțiunile cu piatră cubică din față.",
+                "en": "Avoid heavy braking on the cobblestone sections in front."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter für die Parkwege unerlässlich.",
+              "Nutzen Sie die Guild Wheel Route, da diese meist gut asphaltiert ist.",
+              "Tragen Sie neongelbe Regenkleidung für bessere Sichtbarkeit.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt zum Flussufer."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a parki utakon ebben az időben.",
+              "Használja a Guild Wheel útvonalat, mert az nagyrészt jól aszfaltozott.",
+              "Viseljen neonszínű esőkabátot a jobb láthatóságért.",
+              "Indulás előtt ellenőrizze a fékeket a folyóparti lejtők miatt."
+            ],
+            "ro": [
+              "Aripile de protecție sunt esențiale pe aleile din parc pe această vreme.",
+              "Folosiți ruta Guild Wheel, deoarece este în mare parte bine asfaltată.",
+              "Purtați haine de ploaie reflectorizante pentru o vizibilitate mai bună.",
+              "Verificați frânele înainte de coborârea spre malul râului."
+            ],
+            "en": [
+              "Mudguards are essential for the park paths in this weather.",
+              "Stick to the Guild Wheel route as it is mostly well-paved.",
+              "Wear high-visibility rain gear for better visibility in the mist.",
+              "Check your brakes before heading down to the riverfront."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalter Start am Deepdale Stadium, der Fahrtwind ist im Winter schneidend. Das Harris Museum bietet eine willkommene Aufwärmpause, gefolgt von einer frostigen Runde um den Winckley Square. Die Fahrt durch die Parks am Ribble erfordert warme Handschuhe. Vor der Dunkelheit erreichen Sie das Ribble Steam Railway Museum, bevor die beleuchtete St. Walburge's Church den Tag abschließt.",
+            "hu": "Hideg indulás a Deepdale Stadiontól, a menetszél télen metsző. A Harris Múzeum hívogató melegítő szünetet kínál, majd egy fagyos kör következik a Winckley Square-en. A Ribble menti parkokon való áttekerés meleg kesztyűt igényel. Még sötétedés előtt érjük el a Vasúti Múzeumot, majd a kivilágított St. Walburge zárja a napot.",
+            "ro": "Pornire rece de la Stadionul Deepdale, vântul este tăios iarna. Muzeul Harris oferă o pauză de încălzire binevenită, urmată de o tură geroasă prin Winckley Square. Traversarea parcurilor de lângă Ribble necesită mănuși groase. Înainte de lăsarea întunericului ajungeți la Muzeul Căii Ferate, iar biserica St. Walburge iluminată încheie ziua.",
+            "en": "Cold start at Deepdale Stadium; the winter headwind is biting. Harris Museum offers a welcome warming break, followed by a frosty loop around Winckley Square. Riding through the Ribble parks requires thermal gloves. Reach the Ribble Steam Railway Museum before dark, finishing the day with the illuminated St. Walburge's Church."
+          },
+          "stops": [
+            {
+              "name": "Deepdale Stadium",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem windgeschützten Ort.",
+                "hu": "Parkolja le kerékpárját szélvédett helyen.",
+                "ro": "Parcați bicicleta într-un loc ferit de vânt.",
+                "en": "Park your bike in a spot sheltered from the wind."
+              }
+            },
+            {
+              "name": "Harris Museum, Art Gallery & Library",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände im Inneren auf, bevor Sie weiterfahren.",
+                "hu": "Melegítse fel a kezeit bent, mielőtt tovább indulna.",
+                "ro": "Încălziți-vă mâinile în interior înainte de a porni mai departe.",
+                "en": "Warm up your hands inside before continuing your ride."
+              }
+            },
+            {
+              "name": "Winckley Square",
+              "tip_5lang": {
+                "de": "Vorsicht bei Raureif auf den schattigen Abschnitten des Platzes.",
+                "hu": "Vigyázzon a zúzmarás részeken a tér árnyékos oldalán.",
+                "ro": "Atenție la brumă pe porțiunile umbrite ale pieței.",
+                "en": "Watch out for hoarfrost on the shaded sections of the square."
+              }
+            },
+            {
+              "name": "Avenham & Miller Parks",
+              "tip_5lang": {
+                "de": "Die Brücken über den Ribble können besonders zugig und kalt sein.",
+                "hu": "A Ribble feletti hidak különösen huzatosak és hidegek lehetnek.",
+                "ro": "Podurile peste Ribble pot fi extrem de reci și cu vânt puternic.",
+                "en": "The bridges over the Ribble can be especially drafty and cold."
+              }
+            },
+            {
+              "name": "Ribble Steam Railway and Museum",
+              "tip_5lang": {
+                "de": "Die Cafeteria bietet heiße Suppen zur Stärkung an.",
+                "hu": "A kávézó forró leveseket kínál az újult erőhöz.",
+                "ro": "Cafeneaua oferă supe fierbinți pentru refacerea energiei.",
+                "en": "The cafeteria offers hot soups to boost your energy."
+              }
+            },
+            {
+              "name": "St. Walburge's Church",
+              "tip_5lang": {
+                "de": "Gute Beleuchtung am Fahrrad ist für den Rückweg unerlässlich.",
+                "hu": "A jó kerékpár-világítás elengedhetetlen a hazaúthoz.",
+                "ro": "Iluminarea bună a bicicletei este esențială pentru drumul de întoarcere.",
+                "en": "Good bike lighting is essential for the ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie helles Licht, da es bereits ab 15:45 Uhr dämmert.",
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip).",
+              "Halten Sie die Kette gut geölt, um sie vor Streusalz zu schützen.",
+              "Vermeiden Sie bei Frost die steilsten Wege im Avenham Park."
+            ],
+            "hu": [
+              "Használjon erős világítást, mert már 15:45-kor szürkül.",
+              "Öltözzön rétegesen (hagyma-elv).",
+              "Tartsa olajozottan a láncot a sós hólé elleni védelem érdekében.",
+              "Fagyos időben kerülje az Avenham Park legmeredekebb útjait."
+            ],
+            "ro": [
+              "Folosiți lumini puternice, deoarece se întunecă deja de la 15:45.",
+              "Îmbrăcați-vă în straturi (principiul foilor de ceapă).",
+              "Păstrați lanțul bine uns pentru a-l proteja de sarea de pe drum.",
+              "Evitați cele mai abrupte poteci din Avenham Park pe timp de îngheț."
+            ],
+            "en": [
+              "Use bright lights as it starts getting dark from 3:45 PM.",
+              "Dress in multiple layers to stay warm.",
+              "Keep the chain well-oiled to protect it from road salt.",
+              "Avoid the steepest paths in Avenham Park during frosty conditions."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -962,6 +1326,206 @@
           "Check for Preston North End match days as traffic around Deepdale will be heavy.",
           "Preston's roads can be busy during peak hours, plan your drives accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequeme Fahrt zum Deepdale Stadium, geschützt vor dem englischen Regen. Die Parkhäuser im Stadtzentrum ermöglichen einen trockenen Zugang zum Harris Museum und Winckley Square. Die Fahrt zum Ribble-Gebiet bietet Ausblicke auf den geschwollenen Fluss, während das Dampfeisenbahnmuseum ein ideales Indoor-Ziel bleibt, bevor der Tag in den Parks endet.",
+            "hu": "Kényelmes autózás a Deepdale Stadionhoz, védve az angol esőtől. A belvárosi parkolóházak száraz kijutást biztosítanak a Harris Múzeumhoz és a Winckley Square-hez. A Ribble-negyed felé vezető út látványt nyújt a megáradt folyóra, míg a gőzmozdony-múzeum ideális benti célpont marad, mielőtt a parkokban zárnánk a napot.",
+            "ro": "Călătorie confortabilă spre Stadionul Deepdale, protejat de ploaia englezească. Parcările supraetajate din centru permit accesul uscat la Muzeul Harris și Winckley Square. Drumul spre zona Ribble oferă vederi asupra râului umflat, în timp ce muzeul căii ferate rămâne o destinație ideală de interior.",
+            "en": "Comfortable drive to Deepdale Stadium, sheltered from the English rain. City center car parks allow for dry access to Harris Museum and Winckley Square. The drive to the Ribble area offers views of the swollen river, while the steam railway museum remains an ideal indoor destination before finishing at the parks."
+          },
+          "stops": [
+            {
+              "name": "Deepdale Stadium",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Sir Tom Finney Way.",
+                "hu": "Használja a közvetlenül a Sir Tom Finney Way melletti parkolót.",
+                "ro": "Folosiți parcarea situată direct pe Sir Tom Finney Way.",
+                "en": "Use the parking lot located directly on Sir Tom Finney Way."
+              }
+            },
+            {
+              "name": "City Centre Cluster: Car Park",
+              "tip_5lang": {
+                "de": "Wählen Sie ein überdachtes Parkhaus wie das am Busbahnhof.",
+                "hu": "Válasszon fedett parkolóházat, például a buszpályaudvarnál.",
+                "ro": "Alegeți o parcare acoperită, cum este cea de la autogară.",
+                "en": "Choose a covered multi-story car park, like the one at the bus station."
+              }
+            },
+            {
+              "name": "Harris Museum, Art Gallery & Library",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg vom Parkhaus, nehmen Sie einen Regenschirm mit.",
+                "hu": "Csak rövid séta a parkolótól, vigyen magával esernyőt.",
+                "ro": "Doar o scurtă plimbare de la parcare, luați o umbrelă.",
+                "en": "Just a short walk from the car park; bring an umbrella."
+              }
+            },
+            {
+              "name": "Winckley Square",
+              "tip_5lang": {
+                "de": "Parken am Straßenrand ist oft nur kurzzeitig erlaubt.",
+                "hu": "Az utcai parkolás gyakran csak rövid ideig engedélyezett.",
+                "ro": "Parcarea la marginea drumului este adesea permisă doar pe termen scurt.",
+                "en": "On-street parking is often limited to short stays only."
+              }
+            },
+            {
+              "name": "Ribble Cluster: Riverside Parking",
+              "tip_5lang": {
+                "de": "Stellen Sie das Auto nahe dem Eingang des Eisenbahnmuseums ab.",
+                "hu": "Álljon meg az autóval a vasúti múzeum bejárata közelében.",
+                "ro": "Parcați mașina aproape de intrarea muzeului căii ferate.",
+                "en": "Park your car close to the steam railway museum entrance."
+              }
+            },
+            {
+              "name": "Ribble Steam Railway and Museum",
+              "tip_5lang": {
+                "de": "Ein hervorragender Zwischenstopp, um dem Regen zu entkommen.",
+                "hu": "Kiváló köztes megálló az eső elöli meneküléshez.",
+                "ro": "O oprire intermediară excelentă pentru a scăpa de ploaie.",
+                "en": "An excellent intermediate stop to escape the rain."
+              }
+            },
+            {
+              "name": "Avenham & Miller Parks",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz am Avenham Colonnade für kurzen Zugang.",
+                "hu": "Használja az Avenham Colonnade parkolóját a gyors bejutáshoz.",
+                "ro": "Folosiți parcarea de la Avenham Colonnade pentru acces rapid.",
+                "en": "Use the Avenham Colonnade car park for quick access."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie tiefe Pfützen in der Nähe der Docks.",
+              "Halten Sie einen Regenschirm im Auto griffbereit.",
+              "Das Parkhaus am Busbahnhof bietet den besten Schutz im Zentrum.",
+              "Achten Sie auf Spritzwasser von anderen Fahrzeugen auf der A59."
+            ],
+            "hu": [
+              "Kerülje a mély tócsákat a dokkok környékén.",
+              "Tartson kéznél esernyőt az autóban.",
+              "A buszpályaudvar parkolóháza nyújtja a legjobb védelmet a központban.",
+              "Ügyeljen a többi autó által felcsapott vízre az A59-es úton."
+            ],
+            "ro": [
+              "Evitați bălțile adânci din apropierea docurilor.",
+              "Țineți o umbrelă la îndemână în mașină.",
+              "Parcarea de la autogară oferă cea mai bună protecție în centru.",
+              "Atenție la apa împroșcată de alte vehicule pe drumul A59."
+            ],
+            "en": [
+              "Avoid deep puddles near the docks area.",
+              "Keep an umbrella handy in the car.",
+              "The bus station car park offers the best shelter in the center.",
+              "Watch out for spray from other vehicles on the A59 road."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Warme Fahrt zum Deepdale Stadium, während draußen der Frost glitzert. Im Stadtzentrum parken Sie im beheizten Umfeld und genießen die Kultur im Harris Museum. Der Winckley Square wirkt im Winterlicht besonders elegant. Die Fahrt entlang des Ribble führt Sie zum Dampfeisenbahnmuseum, bevor Sie den Tag bei Sonnenuntergang in den beleuchteten Parks ausklingen lassen.",
+            "hu": "Meleg autózás a Deepdale Stadionhoz, miközben kint csillog a zúzmara. A belvárosban fűtött környezetben parkolhat, élvezve a Harris Múzeum kultúráját. A Winckley Square téli fényben különösen elegáns. A Ribble menti út a gőzmozdony-múzeumhoz vezet, mielőtt naplementekor a kivilágított parkokban zárná a napot.",
+            "ro": "Călătorie călduroasă spre Stadionul Deepdale în timp ce afară strălucește bruma. În centru parcați într-un mediu protejat, bucurându-vă de cultura din Muzeul Harris. Winckley Square pare deosebit de elegant în lumina iernii. Drumul de-a lungul râului Ribble vă duce la muzeul căii ferate înainte de apus.",
+            "en": "Warm drive to Deepdale Stadium while frost glistens outside. Park in a sheltered environment in the city center and enjoy the culture at Harris Museum. Winckley Square looks particularly elegant in the winter light. The drive along the Ribble leads to the steam railway museum before finishing in the illuminated parks at sunset."
+          },
+          "stops": [
+            {
+              "name": "Deepdale Stadium",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Flächen auf dem offenen Parkplatz.",
+                "hu": "Vigyázzon a jeges felületekre a nyitott parkolóban.",
+                "ro": "Atenție la suprafețele înghețate din parcarea deschisă.",
+                "en": "Watch out for icy surfaces in the open parking lot."
+              }
+            },
+            {
+              "name": "City Centre Cluster: Car Park",
+              "tip_5lang": {
+                "de": "Überdachte Parkhäuser verhindern das Einfrieren der Scheiben.",
+                "hu": "A fedett parkolóházak megakadályozzák a szélvédő lefagyását.",
+                "ro": "Parcările acoperite previn înghețarea parbrizului.",
+                "en": "Covered car parks prevent your windscreen from icing up."
+              }
+            },
+            {
+              "name": "Harris Museum, Art Gallery & Library",
+              "tip_5lang": {
+                "de": "Ein kurzer, kalter Weg vom Parkhaus zum Eingang.",
+                "hu": "Rövid, hideg út a parkolóháztól a bejáratig.",
+                "ro": "Un drum scurt și rece de la parcare la intrare.",
+                "en": "A short, cold walk from the car park to the entrance."
+              }
+            },
+            {
+              "name": "Winckley Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenes Tauwasser an Bordsteinkanten.",
+                "hu": "Ügyeljen a megfagyott olvadékvízre a járdaszegélyeknél.",
+                "ro": "Atenție la apa înghețată de la marginea trotuarelor.",
+                "en": "Watch out for frozen meltwater near the curbs."
+              }
+            },
+            {
+              "name": "Ribble Cluster: Riverside Parking",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Wind vom Fluss her sehr kalt sein.",
+                "hu": "A parkoló a folyó felőli szél miatt nagyon hideg lehet.",
+                "ro": "Parcarea poate fi foarte rece din cauza vântului de la râu.",
+                "en": "The parking lot can be very cold due to wind from the river."
+              }
+            },
+            {
+              "name": "Ribble Steam Railway and Museum",
+              "tip_5lang": {
+                "de": "Heizungen im Museum sorgen für angenehme Temperaturen.",
+                "hu": "A múzeum fűtése kellemes hőmérsékletet biztosít.",
+                "ro": "Sistemele de încălzire din muzeu asigură temperaturi plăcute.",
+                "en": "Museum heating ensures pleasant indoor temperatures."
+              }
+            },
+            {
+              "name": "Avenham & Miller Parks",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als warme Basis zwischen kurzen Spaziergängen.",
+                "hu": "Használja az autót meleg bázisként a rövid séták között.",
+                "ro": "Folosiți mașina ca bază caldă între plimbările scurte.",
+                "en": "Use the car as a warm base between short walks."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Planen Sie mehr Zeit für das Parken in der Vorweihnachtszeit ein.",
+              "Vorsicht vor Blitzeis auf den Brücken über den Ribble.",
+              "Die Parkhäuser schließen im Winter oft früher."
+            ],
+            "hu": [
+              "Töltsön fagyállót a szélvédőmosóba.",
+              "Tervezzen több időt a parkolásra a karácsony előtti időszakban.",
+              "Vigyázzon az ónos esőre a Ribble feletti hidakon.",
+              "A parkolóházak télen gyakran korábban zárnak."
+            ],
+            "ro": [
+              "Puneți lichid de parbriz rezistent la îngheț.",
+              "Planificați mai mult timp pentru parcare în perioada sărbătorilor.",
+              "Atenție la polei pe podurile de peste râul Ribble.",
+              "Parcările supraetajate se închid adesea mai devreme iarna."
+            ],
+            "en": [
+              "Refill your screenwash with antifreeze.",
+              "Allow extra time for parking during the pre-Christmas season.",
+              "Watch out for black ice on the bridges over the Ribble.",
+              "Car parks often close earlier during the winter months."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1278,6 +1842,188 @@
           "The Preston Bus app is useful for real-time schedules.",
           "Most buses are accessible, but they can get crowded at peak times."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Start am ikonischen Preston Busbahnhof, einem brutalistischen Meisterwerk, das perfekten Regenschutz bietet. Kurze Busfahrten bringen Sie trocken zum Harris Museum und Winckley Square. Mittags geht es mit dem Bus Richtung Deepdale und später zum Ribble-Viertel. Der Tag endet mit einem kurzen, regenfesten Spaziergang im Avenham Park, bevor der Bus Sie zurückbringt.",
+            "hu": "Indulás az ikonikus Preston buszpályaudvarról, amely brutalista remekműként tökéletes esővédelmet nyújt. Rövid buszutak visznek szárazon a Harris Múzeumhoz és a Winckley Square-hez. Délben buszozás Deepdale felé, majd később a Ribble-negyedbe. A nap rövid, esőálló sétával zárul az Avenham Parkban, mielőtt a busz visszavinne.",
+            "ro": "Pornire de la iconica autogară din Preston, o capodoperă brutalistă ce oferă protecție perfectă contra ploii. Curse scurte de autobuz vă duc la Muzeul Harris și Winckley Square. La prânz mergeți spre Deepdale și apoi spre zona Ribble. Ziua se încheie cu o scurtă plimbare în Avenham Park înainte de întoarcere.",
+            "en": "Start at the iconic Preston Bus Station, a Brutalist masterpiece providing perfect rain cover. Short bus rides keep you dry on your way to Harris Museum and Winckley Square. At midday, head towards Deepdale and later to the Ribble area. The day ends with a short, rain-resistant walk in Avenham Park before catching a bus back."
+          },
+          "stops": [
+            {
+              "name": "Preston Bus Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie die riesige Überdachung, um im Trockenen auf den Bus zu warten.",
+                "hu": "Használja a hatalmas előtetőt, hogy szárazon várja a buszt.",
+                "ro": "Folosiți copertina uriașă pentru a aștepta autobuzul la adăpost.",
+                "en": "Use the massive overhang to wait for your bus in the dry."
+              }
+            },
+            {
+              "name": "Harris Museum, Art Gallery & Library",
+              "tip_5lang": {
+                "de": "Mehrere Buslinien halten direkt vor dem Museum am Market Place.",
+                "hu": "Számos buszjárat megáll közvetlenül a múzeum előtt a Market Place-en.",
+                "ro": "Mai multe linii de autobuz opresc direct în fața muzeului, în Market Place.",
+                "en": "Multiple bus lines stop directly in front of the museum at Market Place."
+              }
+            },
+            {
+              "name": "Winckley Square & Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie sich ein Café in der Fishergate, nahe der Bushaltestellen.",
+                "hu": "Keressen egy kávézót a Fishergate-en, a buszmegállók közelében.",
+                "ro": "Căutați o cafenea pe Fishergate, aproape de stațiile de autobuz.",
+                "en": "Find a cafe on Fishergate, close to the bus stops."
+              }
+            },
+            {
+              "name": "Bus to Deepdale",
+              "tip_5lang": {
+                "de": "Die Linien 19 und 19A fahren regelmäßig zum Stadion.",
+                "hu": "A 19-es és 19A járatok rendszeresen közlekednek a stadionhoz.",
+                "ro": "Liniile 19 și 19A circulă regulat către stadion.",
+                "en": "Lines 19 and 19A run regularly to the stadium."
+              }
+            },
+            {
+              "name": "Bus to Ribble Area",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Haltestellen in der Nähe der Docks für kurzen Fußweg.",
+                "hu": "Használja a dokkok közeli megállókat a rövid séta érdekében.",
+                "ro": "Folosiți stațiile din apropierea docurilor pentru un drum scurt pe jos.",
+                "en": "Use the stops near the docks for a shorter walk."
+              }
+            },
+            {
+              "name": "Walk in Avenham Park",
+              "tip_5lang": {
+                "de": "Warten Sie in einem Unterstand, falls ein heftiger Schauer einsetzt.",
+                "hu": "Várjon egy esőbeállóban, ha heves zápor kezdődne.",
+                "ro": "Așteptați într-un adăpost dacă începe o aversă puternică.",
+                "en": "Wait in a shelter if a heavy downpour starts."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Preston Bus App für Echtzeit-Infos bei Verspätungen.",
+              "Der Busbahnhof bietet Cafés und Toiletten im Trockenen.",
+              "Kaufen Sie ein Tagesticket (Day Rider) direkt beim Fahrer.",
+              "Viele Haltestellen im Zentrum sind überdacht."
+            ],
+            "hu": [
+              "Használja a Preston Bus alkalmazást a valós idejű infókért.",
+              "A buszpályaudvaron kávézók és mosdók találhatók száraz helyen.",
+              "Vásároljon napijegyet (Day Rider) közvetlenül a sofőrtől.",
+              "A központban sok megálló fedett."
+            ],
+            "ro": [
+              "Folosiți aplicația Preston Bus pentru informații în timp real.",
+              "Autogara oferă cafenele și toalete la adăpost.",
+              "Cumpărați un bilet de o zi (Day Rider) direct de la șofer.",
+              "Multe stații din centru sunt acoperite."
+            ],
+            "en": [
+              "Use the Preston Bus app for real-time info during delays.",
+              "The bus station offers cafes and toilets in the dry.",
+              "Buy a Day Rider ticket directly from the driver.",
+              "Many stops in the city center are sheltered."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Start am geschützten Busbahnhof. Die kurzen Wege zwischen den Haltestellen und den Sehenswürdigkeiten wie dem Harris Museum sind bei Kälte ideal. Mittags wärmen Sie sich im Bus nach Deepdale auf. Vor Einbruch der Dunkelheit besuchen Sie das Ribble-Gebiet, wobei die Busse eine warme Verbindung zwischen den frostigen Parks und der Innenstadt bieten.",
+            "hu": "Téli indulás a védett buszpályaudvarról. A megállók és a látnivalók, mint a Harris Múzeum közötti rövid távok ideálisak hidegben. Délben a Deepdale felé tartó buszon melegedhet fel. Még sötétedés előtt látogasson el a Ribble-negyedbe; a buszok meleg kapcsolatot biztosítanak a fagyos parkok és a belváros között.",
+            "ro": "Pornire de iarnă din autogara protejată. Distanțele scurte între stații și obiective precum Muzeul Harris sunt ideale pe timp de frig. La prânz vă încălziți în autobuzul spre Deepdale. Vizitați zona Ribble înainte de lăsarea serii; autobuzele oferă o conexiune caldă între parcurile geroase și centru.",
+            "en": "Winter start at the sheltered bus station. Short distances between stops and sights like the Harris Museum are ideal in the cold. At midday, warm up on the bus to Deepdale. Visit the Ribble area before dark; buses provide a warm link between the frosty parks and the city center."
+          },
+          "stops": [
+            {
+              "name": "Preston Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie im beheizten Innenbereich der Station.",
+                "hu": "Várjon az állomás fűtött belső részén.",
+                "ro": "Așteptați în zona interioară încălzită a gării.",
+                "en": "Wait in the heated indoor area of the station."
+              }
+            },
+            {
+              "name": "Harris Museum, Art Gallery & Library",
+              "tip_5lang": {
+                "de": "Die Haltestellen befinden sich nur wenige Schritte vom Eingang entfernt.",
+                "hu": "A megállók csak néhány lépésre vannak a bejárattól.",
+                "ro": "Stațiile se află la doar câțiva pași de intrare.",
+                "en": "Stops are located just a few steps from the entrance."
+              }
+            },
+            {
+              "name": "Winckley Square & Lunch",
+              "tip_5lang": {
+                "de": "Gehen Sie nach dem Essen direkt zur nahen Haltestelle an der Fishergate.",
+                "hu": "Ebéd után menjen közvetlenül a közeli Fishergate megállóhoz.",
+                "ro": "După masă mergeți direct la stația apropiată de pe Fishergate.",
+                "en": "Head directly to the nearby Fishergate stop after lunch."
+              }
+            },
+            {
+              "name": "Bus to Deepdale",
+              "tip_5lang": {
+                "de": "Bussen fahren im Winter oft im 10-Minuten-Takt.",
+                "hu": "A buszok télen gyakran 10 percenként járnak.",
+                "ro": "Autobuzele circulă adesea la intervale de 10 minute iarna.",
+                "en": "Buses often run every 10 minutes during the winter."
+              }
+            },
+            {
+              "name": "Bus to Ribble Area",
+              "tip_5lang": {
+                "de": "Achten Sie auf die letzte Rückfahrt vor der frühen Dunkelheit.",
+                "hu": "Ügyeljen az utolsó visszajáratra a korai sötétedés előtt.",
+                "ro": "Atenție la ultima cursă de întoarcere înainte de lăsarea serii.",
+                "en": "Check the last return service before it gets dark early."
+              }
+            },
+            {
+              "name": "Walk in Avenham Park",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg zur Bushaltestelle vor 16:30 Uhr ein.",
+                "hu": "Tervezze a buszmegállóhoz való visszautat délután fél 5 elé.",
+                "ro": "Planificați întoarcerea la stația de autobuz înainte de 16:30.",
+                "en": "Plan your walk back to the bus stop before 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei Schneefall kurzfristig geändert werden.",
+              "Die Busse sind gut beheizt und bieten Schutz vor dem Wind.",
+              "Vermeiden Sie das Warten an ungeschützten Haltestellen am Fluss.",
+              "Nutzen Sie kontaktloses Bezahlen für einen schnellen Zustieg."
+            ],
+            "hu": [
+              "A menetrendek hóesés esetén rövid időn belül változhatnak.",
+              "A buszok jól fűtöttek és védelmet nyújtanak a szél ellen.",
+              "Kerülje a várakozást a folyómenti, nem védett megállókban.",
+              "Használjon érintéses fizetést a gyorsabb felszállásért."
+            ],
+            "ro": [
+              "Orarele se pot modifica rapid în caz de ninsoare.",
+              "Autobuzele sunt bine încălzite și oferă protecție contra vântului.",
+              "Evitați așteptarea în stațiile neprotejate de lângă râu.",
+              "Folosiți plata contactless pentru o îmbarcare rapidă."
+            ],
+            "en": [
+              "Schedules may change quickly in case of snowfall.",
+              "Buses are well-heated and offer protection from the wind.",
+              "Avoid waiting at unsheltered stops near the river.",
+              "Use contactless payment for faster boarding."
+            ]
+          }
+        }
       }
     }
   }

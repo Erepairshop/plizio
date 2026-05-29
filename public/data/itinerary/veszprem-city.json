@@ -386,6 +386,206 @@
           "Buy a combination ticket if you plan to visit multiple museums and the Fire Tower.",
           "Check opening hours as some places may vary seasonally."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet der Tűztorony Schutz vor dem ersten Guss. Mittags laden die gewölbten Keller der Burg zum gemütlichen Essen ein. Nachmittags verbringen Sie viel Zeit im Laczkó-Dezső-Museum, während der Regen gegen die Fenster prasselt. Den Tag lassen wir mit einem Blick auf das neblige Viadukt ausklingen.",
+            "hu": "Reggel a Tűztorony nyújt menedéket az első zápor elől. Ebédre a várnegyed boltíves pincéi várnak, ahol a kopogó eső elől elbújhatunk. Délután a Laczkó Dezső Múzeum kiállításai között repül az idő. A napot a ködös völgyhíd látványával zárjuk, ami esőben is méltóságteljes.",
+            "ro": "Dimineața, Turnul de Foc oferă adăpost în fața primelor picături. La prânz, pivnițele boltite din cartierul cetății vă așteaptă pentru o masă liniștită. După-amiaza, explorăm Muzeul Laczkó Dezső în timp ce ploaia bate în geamuri. Încheiem ziua cu imaginea viaductului învăluit în ceață.",
+            "en": "In the morning, the Fire Tower provides shelter from the first showers. For lunch, the vaulted cellars of the Castle Quarter offer a cozy refuge. Spend the afternoon dry inside the Laczkó Dezső Museum. End the day with a view of the misty Viaduct, which remains majestic even in the rain."
+          },
+          "stops": [
+            {
+              "name": "Fire Tower (Tűztorony)",
+              "tip_5lang": {
+                "de": "Enge Treppen können bei Feuchtigkeit rutschig sein.",
+                "hu": "A szűk lépcsők a pára miatt csúszósak lehetnek.",
+                "ro": "Scările înguste pot fi alunecoase din cauza umidității.",
+                "en": "The narrow stairs can be slippery due to the humidity."
+              }
+            },
+            {
+              "name": "St. Michael's Cathedral",
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um den Regenschirm kurz zu trocknen.",
+                "hu": "Kiváló helyszín az esernyők rövid szárítására.",
+                "ro": "Un loc excelent pentru a usca umbrela pentru scurt timp.",
+                "en": "An excellent place to briefly dry your umbrella."
+              }
+            },
+            {
+              "name": "Gisela Chapel",
+              "tip_5lang": {
+                "de": "Kleine Kapelle, idealer Schutz während eines Schauers.",
+                "hu": "Apró kápolna, ideális menedék egy zápor idejére.",
+                "ro": "Capelă mică, adăpost ideal în timpul unei averse.",
+                "en": "Small chapel, ideal shelter during a sudden downpour."
+              }
+            },
+            {
+              "name": "Archbishop's Palace",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume für eine ausgiebige Besichtigung.",
+                "hu": "Használja ki a belső tereket egy alapos látogatásra.",
+                "ro": "Profită de spațiile interioare pentru o vizită detaliată.",
+                "en": "Take advantage of the interior spaces for a thorough visit."
+              }
+            },
+            {
+              "name": "Lunch in the Castle Quarter",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Tisch fernab der zugigen Tür.",
+                "hu": "Kérjen asztalt távol a huzatos bejárattól.",
+                "ro": "Cereți o masă departe de intrarea unde este curent.",
+                "en": "Ask for a table away from the drafty entrance."
+              }
+            },
+            {
+              "name": "Laczkó Dezső Museum",
+              "tip_5lang": {
+                "de": "Das Garderoben-Team bewahrt nasse Mäntel gerne auf.",
+                "hu": "A ruhatárban szívesen tárolják a vizes kabátokat.",
+                "ro": "Personalul de la garderobă vă poate păstra hainele ude.",
+                "en": "The cloakroom staff will happily store your wet coats."
+              }
+            },
+            {
+              "name": "Veszprém Viaduct (St. Stephen's Valley Bridge)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen auf den Gehwegen der Brücke.",
+                "hu": "Vigyázzon a tócsákra a híd járdáin.",
+                "ro": "Atenție la bălțile de pe trotuarele podului.",
+                "en": "Watch out for puddles on the bridge's walkways."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster in der Burg.",
+              "Das Museum bietet fast zwei Stunden trockenen Aufenthalt.",
+              "Die Burgmauer bietet bei Wind wenig Schutz, bleiben Sie in den Gassen.",
+              "Halten Sie einen kleinen Regenschirm bereit."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a vár macskaköves utcáihoz.",
+              "A múzeum majdnem két órányi száraz programot kínál.",
+              "A várfal szeles időben kevés védelmet ad, maradjon a sikátorokban.",
+              "Mindig legyen kéznél egy összecsukható esernyő."
+            ],
+            "ro": [
+              "Purtați pantofi impermeabili pentru străzile cu piatră cubică.",
+              "Muzeul oferă aproape două ore de program la adăpost.",
+              "Zidul cetății oferă puțină protecție la vânt, stați pe străduțe.",
+              "Aveți la îndemână o umbrelă pliabilă."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets in the castle.",
+              "The museum offers nearly two hours of dry indoor activity.",
+              "The castle wall provides little wind protection; stay in the alleys.",
+              "Keep a small foldable umbrella ready at all times."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Tűztorony zeigt die Stadt im Winterlicht. Mittags wärmen wir uns in der Kathedrale auf, bevor eine heiße Suppe in der Burg serviert wird. Der Nachmittag im Museum ist der perfekte Kontrast zur Kälte draußen. Den Sonnenuntergang erleben wir schon früh am Viadukt.",
+            "hu": "Dérlepte reggel a Tűztoronynál, ahol a téli fényekben úszik a város. Délben a székesegyházban melegszünk fel, mielőtt egy forró levest ennénk a várban. A délutáni múzeumlátogatás tökéletes menedék a hideg elől. A naplementét már korán a Viadukton csodálhatjuk meg.",
+            "ro": "O dimineață geroasă la Turnul de Foc arată orașul în lumini de iarnă. La prânz ne încălzim în catedrală înainte de o supă fierbinte în cetate. După-amiaza la muzeu este contrastul perfect față de frigul de afară. Experimentăm apusul devreme la viaduct.",
+            "en": "A frosty start at the Fire Tower shows the city in winter light. At noon, we warm up in the Cathedral before hot soup is served in the Castle. The afternoon museum visit is the perfect refuge from the cold. We experience the sunset early at the Viaduct."
+          },
+          "stops": [
+            {
+              "name": "Fire Tower (Tűztorony)",
+              "tip_5lang": {
+                "de": "Der Wind weht oben auf dem Balkon sehr schneidend.",
+                "hu": "A kilátószinten nagyon metsző tud lenni a szél.",
+                "ro": "Vântul suflă tăios sus pe balconul de observație.",
+                "en": "The wind can be very biting up on the observation balcony."
+              }
+            },
+            {
+              "name": "St. Michael's Cathedral",
+              "tip_5lang": {
+                "de": "Ein friedlicher, windgeschützter Ort zur inneren Einkehr.",
+                "hu": "Békés, szélvédett hely az elcsendesedéshez.",
+                "ro": "Un loc liniștit și protejat de vânt pentru reculegere.",
+                "en": "A peaceful, wind-protected place for quiet reflection."
+              }
+            },
+            {
+              "name": "Gisela Chapel",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte gut ab.",
+                "hu": "A vastag falak jól kint tartják a hideget.",
+                "ro": "Zidurile groase țin frigul la distanță destul de bine.",
+                "en": "The thick walls keep the cold out quite well."
+              }
+            },
+            {
+              "name": "Archbishop's Palace",
+              "tip_5lang": {
+                "de": "Genießen Sie die wohlige Wärme in den Ausstellungsräumen.",
+                "hu": "Élvezze a kellemes meleget a kiállítótermekben.",
+                "ro": "Bucurați-vă de căldura plăcută din sălile de expoziție.",
+                "en": "Enjoy the cozy warmth in the exhibition rooms."
+              }
+            },
+            {
+              "name": "Lunch in the Castle Quarter",
+              "tip_5lang": {
+                "de": "Probieren Sie lokale Winterspezialitäten wie Wildgerichte.",
+                "hu": "Kóstolja meg a helyi téli vadételeket.",
+                "ro": "Gustați specialitățile locale de iarnă, cum ar fi vânatul.",
+                "en": "Try local winter specialties like venison dishes."
+              }
+            },
+            {
+              "name": "Laczkó Dezső Museum",
+              "tip_5lang": {
+                "de": "Ideale Zeit, um die volkskundliche Sammlung zu studieren.",
+                "hu": "Ideális időszak a néprajzi gyűjtemény tanulmányozására.",
+                "ro": "Moment ideal pentru a studia colecția etnografică.",
+                "en": "Ideal time to study the ethnographic collection indoors."
+              }
+            },
+            {
+              "name": "Veszprém Viaduct (St. Stephen's Valley Bridge)",
+              "tip_5lang": {
+                "de": "Achtung, die Brücke kann bei Frost spiegelglatt sein.",
+                "hu": "Vigyázat, fagyban tükörsima lehet a híd burkolata.",
+                "ro": "Atenție, suprafața podului poate fi extrem de lunecoasă.",
+                "en": "Caution: the bridge surface can be ice-slick in frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung für den Wechsel zwischen Innen und Außen.",
+              "Der Sonnenuntergang ist bereits gegen 16:30 Uhr.",
+              "Die Burgberg-Steigungen halten den Kreislauf in Schwung.",
+              "Kopfbedeckung und Handschuhe sind in Veszprém Pflicht."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a kinti és benti hőmérséklet miatt.",
+              "A naplemente már 16:30 körül bekövetkezik.",
+              "A várnegyed emelkedői segítenek melegen tartani a testet.",
+              "Sapka és kesztyű kötelező Veszprém szeles dombjain."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru trecerile interior-exterior.",
+              "Apusul soarelui are loc deja în jurul orei 16:30.",
+              "Pantele dealului cetății vă vor ține sângele în mișcare.",
+              "Căciula și mănușile sunt obligatorii pe dealurile orașului."
+            ],
+            "en": [
+              "Layer your clothing for the transitions between inside and outside.",
+              "Sunset occurs as early as 4:30 PM.",
+              "The slopes of the Castle Hill will keep your circulation going.",
+              "Hats and gloves are mandatory on the windy hills of Veszprém."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +942,188 @@
           "Veszprém has some designated bike paths; use them whenever possible.",
           "Bring a water bottle, especially for the climbs on a warm day."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start im Tal, doch die Radwege am Séd-Bach sind gut befestigt. Mittags parken wir die Räder sicher für einen langen Museumsbesuch. Die Fahrt zum Zoo durch den Regen erfordert Disziplin, belohnt aber mit leeren Wegen. Den Tag beenden wir mit einer kurzen Fahrt entlang des dampfenden Baches.",
+            "hu": "Vizes kezdés a völgyben, de a Séd-patak menti utak jól bírják. Délben biztonságban leparkoljuk a bringákat a múzeumi látogatáshoz. Az állatkerti tekerés az esőben fegyelmet igényel, de üres utakkal jutalmaz. A napot a gőzölgő patak menti rövid túrával zárjuk.",
+            "ro": "Un început umed în vale, dar pistele de biciclete de-a lungul pârâului Séd sunt bine consolidate. La prânz parcăm bicicletele pentru vizita la muzeu. Drumul spre grădina zoologică prin ploaie necesită disciplină, dar oferă poteci libere. Încheiem ziua cu o plimbare scurtă.",
+            "en": "A wet start in the valley, but the paths along the Séd stream are well-paved. At noon, we park the bikes securely for a long museum visit. The ride to the Zoo through the rain requires discipline but rewards with empty paths. We end the day with a short ride along the steaming stream."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start at the Viaduct",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Rad mit gutem Spritzschutz.",
+                "hu": "Kérjen sárvédővel felszerelt kerékpárt.",
+                "ro": "Cereți o bicicletă cu apărători de noroi bune.",
+                "en": "Ask for a bike with good mudguards."
+              }
+            },
+            {
+              "name": "Laczkó Dezső Museum",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer sind in der Nähe vorhanden.",
+                "hu": "Fedett kerékpártárolók találhatók a közelben.",
+                "ro": "Există rastele de biciclete acoperite în apropiere.",
+                "en": "Covered bike racks are available nearby."
+              }
+            },
+            {
+              "name": "Ascent to the Castle Quarter",
+              "tip_5lang": {
+                "de": "Die nassen Pflastersteine beim Aufstieg sind tückisch.",
+                "hu": "A vizes macskakő az emelkedőn csalóka lehet.",
+                "ro": "Piatra cubică umedă pe urcare poate fi înșelătoare.",
+                "en": "The wet cobblestones on the ascent can be tricky."
+              }
+            },
+            {
+              "name": "Lunch in the Castle Quarter",
+              "tip_5lang": {
+                "de": "Ein Helm-Beutel schützt das Futter vor Feuchtigkeit.",
+                "hu": "A sisakzsák megvédi a bélést a nedvességtől.",
+                "ro": "O husă pentru cască va proteja interiorul de umiditate.",
+                "en": "A helmet bag will protect the lining from moisture."
+              }
+            },
+            {
+              "name": "Descent to Veszprém Zoo",
+              "tip_5lang": {
+                "de": "Bremsen Sie vorsichtig auf dem abschüssigen Waldweg.",
+                "hu": "Óvatosan fékezzen a lejtős erdei úton.",
+                "ro": "Frânați cu grijă pe drumul forestier în pantă.",
+                "en": "Brake carefully on the sloping forest path."
+              }
+            },
+            {
+              "name": "Relax at the Séd Stream Promenade",
+              "tip_5lang": {
+                "de": "Meiden Sie tiefe Pfützen am Uferrand.",
+                "hu": "Kerülje a mély tócsákat a patakparton.",
+                "ro": "Evitați bălțile adânci de pe malul pârâului.",
+                "en": "Avoid deep puddles on the stream bank."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Eine Regenhose ist für diese Tour unerlässlich.",
+              "Die Wege im Betekints-Tal können Laub und Schlamm führen.",
+              "Bremsen Sie auf nassem Untergrund früher ab.",
+              "Nutzen Sie wasserdichte Packtaschen."
+            ],
+            "hu": [
+              "Az esőnadrág elengedhetetlen ehhez a túrához.",
+              "A Betekints-völgy útjai sárosak vagy levelesek lehetnek.",
+              "Nedves talajon fékezzen korábban.",
+              "Használjon vízálló kerékpáros táskákat."
+            ],
+            "ro": [
+              "Pantalonii de ploaie sunt esențiali pentru acest tur.",
+              "Potecile din Valea Betekints pot avea noroi sau frunze.",
+              "Frânați mai devreme pe suprafețe umede.",
+              "Folosiți genți de bicicletă impermeabile."
+            ],
+            "en": [
+              "Rain pants are essential for this tour.",
+              "The paths in the Betekints Valley can be muddy or leaf-covered.",
+              "Brake earlier on wet surfaces.",
+              "Use waterproof panniers for your belongings."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir durch die klare, kalte Luft unter dem Viadukt. Das Museum bietet die nötige Aufwärmpause. Der Aufstieg zur Burg hält uns warm, während die Aussicht auf die verschneiten Dächer grandios ist. Nachmittags geht es zum Zoo, wo viele Tiere in den Innengehegen zu sehen sind.",
+            "hu": "Reggel a tiszta, hideg levegőben tekerünk a Viadukt alatt. A múzeum adja meg a szükséges felmelegedést. A várba való felkapaszkodás mozgásban tart, a kilátás a havas tetőkre pedig pazar. Délután az állatkertbe látogatunk, ahol sok állat benti házban látható.",
+            "ro": "Dimineața pedalăm prin aerul rece și curat de sub viaduct. Muzeul oferă pauza necesară pentru încălzire. Urcarea spre cetate ne ține de cald, iar priveliștea acoperișurilor înzăpezite este grandioasă. După-amiaza mergem la zoo, unde multe animale sunt în adăposturi.",
+            "en": "In the morning, we cycle through the clear, cold air under the Viaduct. The museum provides the necessary warm-up break. The climb to the Castle keeps us warm, while the view of snowy rooftops is grand. Afternoon is for the Zoo, where many animals can be seen in indoor enclosures."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start at the Viaduct",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck für besseren Grip auf Eis.",
+                "hu": "Ellenőrizze a guminyomást a jobb tapadásért.",
+                "ro": "Verificați presiunea în pneuri pentru aderență pe gheață.",
+                "en": "Check tire pressure for better grip on icy patches."
+              }
+            },
+            {
+              "name": "Laczkó Dezső Museum",
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit zum Auftauen in der Ausstellung.",
+                "hu": "Szánjon időt a felengedésre a kiállításon.",
+                "ro": "Acordați-vă timp pentru a vă dezgheța în expoziție.",
+                "en": "Take your time to thaw out in the exhibition rooms."
+              }
+            },
+            {
+              "name": "Ascent to the Castle Quarter",
+              "tip_5lang": {
+                "de": "Streusalz auf der Straße kann die Kette angreifen.",
+                "hu": "Az útszóró só károsíthatja a láncot.",
+                "ro": "Sarea de pe drum poate ataca lanțul bicicletei.",
+                "en": "Road salt can be corrosive to your bike chain."
+              }
+            },
+            {
+              "name": "Lunch in the Castle Quarter",
+              "tip_5lang": {
+                "de": "Füllen Sie Ihre Thermoskanne mit heißem Tee auf.",
+                "hu": "Töltse fel a termoszát forró teával.",
+                "ro": "Umpleți-vă termosul cu ceai fierbinte.",
+                "en": "Refill your thermos with hot tea here."
+              }
+            },
+            {
+              "name": "Descent to Veszprém Zoo",
+              "tip_5lang": {
+                "de": "Achtung bei Schattenstellen im Wald, hier hält sich Eis.",
+                "hu": "Vigyázzon az árnyékos részeken, ott megmarad a jég.",
+                "ro": "Atenție la porțiunile umbrite din pădure, gheața persistă.",
+                "en": "Watch out for shaded spots in the woods; ice stays longer there."
+              }
+            },
+            {
+              "name": "Relax at the Séd Stream Promenade",
+              "tip_5lang": {
+                "de": "Bei Dämmerung ist gute Beleuchtung am Rad wichtig.",
+                "hu": "Szürkületben fontos a jó világítás a biciklin.",
+                "ro": "Luminile bune la bicicletă sunt importante la amurg.",
+                "en": "Good bike lighting is crucial as dusk falls early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe sind das wichtigste Accessoire.",
+              "Meiden Sie gefrorene Pfützen entlang des Séd-Baches.",
+              "Das Betekints-Tal kühlt nach Sonnenuntergang schnell ab.",
+              "Wählen Sie eine Route ohne extremes Glatteis."
+            ],
+            "hu": [
+              "A szélálló kesztyű a legfontosabb kiegészítő.",
+              "Kerülje a befagyott tócsákat a Séd-patak mentén.",
+              "A Betekints-völgy gyorsan lehűl naplemente után.",
+              "Válasszon jegesedéstől mentes útvonalat."
+            ],
+            "ro": [
+              "Mănușile rezistente la vânt sunt cel mai important accesoriu.",
+              "Evitați bălțile înghețate de-a lungul pârâului Séd.",
+              "Valea Betekints se răcește rapid după apus.",
+              "Alegeți o rută fără polei extrem."
+            ],
+            "en": [
+              "Windproof gloves are the most important accessory.",
+              "Avoid frozen puddles along the Séd stream.",
+              "The Betekints Valley cools down rapidly after sunset.",
+              "Choose a route free of extreme ice patches."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1480,188 @@
           "A GPS is helpful for navigating the one-way streets in the older parts of town.",
           "Do not leave valuables visible in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequemer Start mit dem Auto bis zum Fuße des Burgbergs. Den Vormittag verbringen wir trocken in der Burg und dem Tűztorony. Nach einem gemütlichen Mittagessen fahren wir direkt zum Zoo, wo die Elefanten im Innenhaus warten. Der Tag endet mit einem kurzen Stopp am regnerischen Viadukt.",
+            "hu": "Kényelmes kezdés autóval a várhegy lábánál. A délelőttöt szárazon töltjük a várban és a Tűztoronynál. Egy kellemes ebéd után egyenesen az állatkertbe hajtunk, ahol az elefántház nyújt menedéket. A napot egy rövid megállóval zárjuk az esős Viaduktnál.",
+            "ro": "Început confortabil cu mașina până la poalele dealului cetății. Petrecem dimineața la adăpost în cetate și Turnul de Foc. După un prânz plăcut, conducem direct la zoo, unde elefanții vă așteaptă în casa lor. Ziua se încheie la viaductul ploios.",
+            "en": "Comfortable start by car to the foot of Castle Hill. Spend the morning dry in the Castle and the Fire Tower. After a pleasant lunch, drive directly to the Zoo, where the elephant house offers shelter. The day ends with a short stop at the rainy Viaduct."
+          },
+          "stops": [
+            {
+              "name": "Parking at the foot of Castle Hill",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei starkem Regen matschig sein.",
+                "hu": "A parkoló nagy esőben sáros lehet.",
+                "ro": "Parcarea poate fi noroioasă în caz de ploaie abundentă.",
+                "en": "The parking lot can be muddy during heavy rain."
+              }
+            },
+            {
+              "name": "Fire Tower & Castle Quarter",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten minimieren Nässe.",
+                "hu": "A látnivalók közti rövid távok minimalizálják az ázást.",
+                "ro": "Distanțele scurte între atracții reduc expunerea la ploaie.",
+                "en": "Short distances between sights minimize getting wet."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus der 'Hangvilla' für trockenen Zugang.",
+                "hu": "Parkoljon a Hangvilla mélygarázsában a száraz bejutáshoz.",
+                "ro": "Parcați în garajul subteran Hangvilla pentru acces uscat.",
+                "en": "Park in the Hangvilla underground garage for dry access."
+              }
+            },
+            {
+              "name": "Drive to Veszprém Zoo",
+              "tip_5lang": {
+                "de": "Der Zoo-Parkplatz ist befestigt und sauber.",
+                "hu": "Az állatkert parkolója burkolt és tiszta.",
+                "ro": "Parcarea grădinii zoologice este pavată și curată.",
+                "en": "The Zoo parking lot is paved and stays clean."
+              }
+            },
+            {
+              "name": "Drive to Laczkó Dezső Museum",
+              "tip_5lang": {
+                "de": "Direkte Vorfahrt zum Eingang zum Aussteigen möglich.",
+                "hu": "A bejárat elé lehet hajtani a kiszálláshoz.",
+                "ro": "Puteți opri direct în fața intrării pentru debarcare.",
+                "en": "You can drive right up to the entrance for drop-off."
+              }
+            },
+            {
+              "name": "Walk to Veszprém Viaduct",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht bei starkem Regen vom Auto aus.",
+                "hu": "Nagy esőben élvezze a kilátást az autóból.",
+                "ro": "Bucurați-vă de priveliște din mașină în caz de ploaie.",
+                "en": "In heavy rain, enjoy the view from inside the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Parkhäuser in der Innenstadt.",
+              "Lassen Sie nasse Schirme im Kofferraum.",
+              "Die Fahrt zwischen Zoo und Museum dauert nur 5 Minuten.",
+              "Achten Sie auf schlechte Sicht bei Starkregen im Tal."
+            ],
+            "hu": [
+              "Használja a belvárosi parkolóházakat.",
+              "A vizes esernyőket hagyja a csomagtartóban.",
+              "Az út az állatkert és a múzeum között csak 5 perc.",
+              "Vigyázzon a rossz látási viszonyokra a völgyben."
+            ],
+            "ro": [
+              "Folosiți parcările etajate din centrul orașului.",
+              "Lăsați umbrelele ude în portbagaj.",
+              "Drumul între zoo și muzeu durează doar 5 minute.",
+              "Atenție la vizibilitatea redusă în vale în timpul ploii."
+            ],
+            "en": [
+              "Use multi-story car parks in the city center.",
+              "Keep wet umbrellas in the trunk between stops.",
+              "The drive between the Zoo and Museum takes only 5 minutes.",
+              "Be aware of poor visibility in the valley during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir im geheizten Wagen zum Burgberg. Die historische Altstadt wirkt im Frost besonders edel. Nach der Burgbesichtigung wärmt uns ein Mittagessen im Zentrum auf. Im Zoo besuchen wir die exotischen Häuser, bevor wir im Museum in die Geschichte eintauchen. Das beleuchtete Viadukt ist das Highlight im Dunkeln.",
+            "hu": "Reggel fűtött autóval érkezünk a várhegyhez. A történelmi óváros dérlepte falai között sétálunk. A várnézés után a belvárosi ebéd melegít fel minket. Az állatkertben az egzotikus házakat keressük fel, majd a múzeumban mélyedünk el a múltban. A kivilágított Viadukt az esti sötétben a csúcspont.",
+            "ro": "Dimineața conducem mașina încălzită către dealul cetății. Orașul vechi istoric pare deosebit sub ger. După vizitarea cetății, un prânz în centru ne încălzește. La zoo vizităm pavilioanele exotice, apoi ne cufundăm în istorie la muzeu. Viaductul iluminat este punctul culminant.",
+            "en": "In the morning, we drive in a heated car to Castle Hill. The historic old town looks especially noble in the frost. After the castle tour, lunch in the center warms us up. At the Zoo, we visit the exotic houses before diving into history at the museum. The illuminated Viaduct is the highlight in the dark."
+          },
+          "stops": [
+            {
+              "name": "Parking at the foot of Castle Hill",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eisplatten auf dem Parkplatzgelände.",
+                "hu": "Figyeljen a jeges foltokra a parkoló területén.",
+                "ro": "Atenție la porțiunile de gheață din zona parcării.",
+                "en": "Watch out for ice patches in the parking area."
+              }
+            },
+            {
+              "name": "Fire Tower & Castle Quarter",
+              "tip_5lang": {
+                "de": "Das Auto bleibt warm, während Sie die Burg erkunden.",
+                "hu": "Az autó meleg marad, amíg Ön a várat fedezi fel.",
+                "ro": "Mașina rămâne caldă în timp ce explorați cetatea.",
+                "en": "The car stays warm while you explore the castle."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Viele Restaurants haben im Winter gemütliche Kamine.",
+                "hu": "Sok étteremben van télen hangulatos kandalló.",
+                "ro": "Multe restaurante au șemineuri primitoare iarna.",
+                "en": "Many restaurants have cozy fireplaces in winter."
+              }
+            },
+            {
+              "name": "Drive to Veszprém Zoo",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Haupteingang, um Kälte zu meiden.",
+                "hu": "Parkoljon közel a főbejárathoz a hideg elkerülésére.",
+                "ro": "Parcați aproape de intrarea principală pentru a evita frigul.",
+                "en": "Park close to the main entrance to avoid the cold walk."
+              }
+            },
+            {
+              "name": "Drive to Laczkó Dezső Museum",
+              "tip_5lang": {
+                "de": "Die Heizung im Museum läuft im Winter auf Hochtouren.",
+                "hu": "A múzeum fűtése télen kiválóan működik.",
+                "ro": "Încălzirea muzeului funcționează la capacitate maximă iarna.",
+                "en": "The museum's heating runs at full capacity in winter."
+              }
+            },
+            {
+              "name": "Walk to Veszprém Viaduct",
+              "tip_5lang": {
+                "de": "Das Viadukt wird im Winter oft schon um 16 Uhr beleuchtet.",
+                "hu": "A Viaduktot télen gyakran már délután 4-kor kivilágítják.",
+                "ro": "Viaductul este adesea iluminat deja de la ora 16 iarna.",
+                "en": "The Viaduct is often illuminated as early as 4 PM in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind für die Hügel von Veszprém Pflicht.",
+              "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+              "Frostschutzmittel für die Scheibenwischer nicht vergessen.",
+              "Parken Sie bevorzugt in der Sonne."
+            ],
+            "hu": [
+              "A téli gumi kötelező Veszprém dombjai között.",
+              "Ne járassa feleslegesen álló helyzetben a motort.",
+              "Ne felejtse el a fagyálló szélvédőmosót.",
+              "Lehetőleg napos helyen parkoljon."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii pentru dealurile orașului.",
+              "Nu lăsați motorul pornit inutil în staționare.",
+              "Nu uitați lichidul de parbriz antigel.",
+              "Parcați de preferință la soare."
+            ],
+            "en": [
+              "Winter tires are mandatory for the hills of Veszprém.",
+              "Do not leave the engine idling unnecessarily.",
+              "Don't forget the antifreeze windshield washer fluid.",
+              "Preferably park in sunny spots if available."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2018,188 @@
           "Be aware that buses might be less frequent in the evening.",
           "Keep an eye on the schedule, especially for the last bus back to your accommodation."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom Busbahnhof geht es schnell in die Burg, wo wir den Regen ignorieren. Mittags finden wir ein Lokal direkt an der Bushaltestelle. Der Nachmittag im Zoo ist dank der Tierhäuser auch bei Nässe machbar. Zurück zum Museum geht es im trockenen Bus, bevor wir den Tag mit dem Blick aus dem Busfenster aufs Viadukt krönen.",
+            "hu": "A buszállomástól gyorsan a várba jutunk, ahol nem zavar az eső. Ebédre keressünk egy helyet közvetlenül a buszmegálló mellett. Az állatkerti délután az állatházaknak köszönhetően esőben is vállalható. Száraz buszon utazunk vissza a múzeumhoz, a napot pedig a buszablakból zárjuk a Viadukt látványával.",
+            "ro": "De la autogară ajungem rapid în cetate, ignorând ploaia. La prânz găsim un local chiar lângă stația de autobuz. După-amiaza la zoo este fezabilă datorită pavilioanelor. Revenim la muzeu cu autobuzul uscat, încheind ziua cu priveliștea viaductului prin geam.",
+            "en": "From the bus station, we quickly reach the Castle, ignoring the rain. For lunch, find a spot right by the bus stop. The afternoon at the Zoo is manageable even in the wet thanks to the animal houses. We ride back to the museum in a dry bus, ending the day with a view of the Viaduct from the window."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der überdachten Wartehalle.",
+                "hu": "Várjon a fedett váróteremben.",
+                "ro": "Așteptați în sala de așteptare acoperită.",
+                "en": "Wait in the covered waiting hall."
+              }
+            },
+            {
+              "name": "Bus to the Castle Quarter",
+              "tip_5lang": {
+                "de": "Die Linie 1 hält sehr nah am Burgeingang.",
+                "hu": "Az 1-es járat nagyon közel áll meg a várkapuhoz.",
+                "ro": "Linia 1 oprește foarte aproape de intrarea în cetate.",
+                "en": "Line 1 stops very close to the castle entrance."
+              }
+            },
+            {
+              "name": "Lunch near the Castle",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Bushaltestelle in Sichtweite.",
+                "hu": "Válasszon éttermet, ahonnan rálátni a buszmegállóra.",
+                "ro": "Alegeți un restaurant cu stația de autobuz la vedere.",
+                "en": "Choose a restaurant with the bus stop in sight."
+              }
+            },
+            {
+              "name": "Bus to Veszprém Zoo",
+              "tip_5lang": {
+                "de": "Der Bus 15 fährt direkt zum Eingang des Zoos.",
+                "hu": "A 15-ös busz közvetlenül az állatkert bejáratához visz.",
+                "ro": "Autobuzul 15 merge direct la intrarea grădinii zoologice.",
+                "en": "Bus 15 takes you directly to the Zoo entrance."
+              }
+            },
+            {
+              "name": "Bus to Laczkó Dezső Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App für Echtzeit-Infos bei Regen.",
+                "hu": "Használja az alkalmazást az élő adatokhoz esőben.",
+                "ro": "Folosiți aplicația pentru informații în timp real pe ploaie.",
+                "en": "Use the transit app for real-time info during rain."
+              }
+            },
+            {
+              "name": "Stroll to the Viaduct",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Bus zum Aussichtspunkt reicht.",
+                "hu": "Egy rövid futás a busztól a kilátópontig is elég.",
+                "ro": "Un sprint scurt de la autobuz până la belvedere e suficient.",
+                "en": "A short sprint from the bus to the viewpoint is enough."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab über die App 'V-Busz'.",
+              "Alle Busse sind klimatisiert und trocken.",
+              "Meiden Sie Wartezeiten an zugigen Haltestellen.",
+              "Die Busse fahren im 20-Minuten-Takt."
+            ],
+            "hu": [
+              "Vásárolja meg jegyeit előre a V-Busz alkalmazásban.",
+              "Minden busz klimatizált és száraz.",
+              "Kerülje a várakozást a huzatos megállókban.",
+              "A buszok 20 percenként követik egymást."
+            ],
+            "ro": [
+              "Cumpărați biletele în avans prin aplicația V-Busz.",
+              "Toate autobuzele sunt climatizate și uscate.",
+              "Evitați așteptarea în stațiile unde este curent.",
+              "Autobuzele circulă la intervale de 20 de minute."
+            ],
+            "en": [
+              "Buy your tickets in advance via the V-Busz app.",
+              "All buses are climate-controlled and dry.",
+              "Avoid long waits at drafty bus stops.",
+              "Buses generally run every 20 minutes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens bringt uns der Bus zum winterlichen Burgberg. Die Kälte draußen macht den Besuch der beheizten Kathedrale umso schöner. Mittags wärmen wir uns bei einer Mahlzeit auf, bevor der Bus 15 uns zum Zoo fährt. Der späte Nachmittag im Museum ist der ideale Ort, um das Tageslicht zu verabschieden. Die Rückfahrt bietet Ausblicke auf die Lichter der Stadt.",
+            "hu": "Reggel busszal érkezünk a téli várhegyhez. A kinti hideg még szebbé teszi a fűtött székesegyház látogatását. Ebéd közben felmelegedünk, mielőtt a 15-ös busz az állatkertbe vinne minket. A késő délután a múzeumban ideális a nappali fény búcsúztatására. A visszauton a város fényei látszanak.",
+            "ro": "Dimineața autobuzul ne duce la dealul cetății înzăpezit. Frigul de afară face vizita la catedrala încălzită și mai plăcută. Ne încălzim la prânz înainte ca autobuzul 15 să ne ducă la zoo. După-amiaza târziu la muzeu este locul ideal. Revenirea oferă priveliști asupra luminilor orașului.",
+            "en": "In the morning, the bus takes us to the wintry Castle Hill. The cold outside makes visiting the heated Cathedral even more special. We warm up over lunch before Bus 15 takes us to the Zoo. Late afternoon in the museum is the ideal place to say goodbye to daylight. The return trip offers views of the city lights."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Bus Station",
+              "tip_5lang": {
+                "de": "Der Kiosk am Bahnhof verkauft heißen Kaffee.",
+                "hu": "Az állomási büfében árulnak forró kávét.",
+                "ro": "Chioșcul din autogară vinde cafea fierbinte.",
+                "en": "The kiosk at the station sells hot coffee."
+              }
+            },
+            {
+              "name": "Bus to the Castle Quarter",
+              "tip_5lang": {
+                "de": "Busse sind im Winter meist sehr gut geheizt.",
+                "hu": "A buszok télen általában nagyon jól fűtöttek.",
+                "ro": "Autobuzele sunt de obicei foarte bine încălzite iarna.",
+                "en": "Buses are usually very well heated in winter."
+              }
+            },
+            {
+              "name": "Lunch near the Castle",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal nah am 'Óváros tér'.",
+                "hu": "Válasszon egy helyet az Óváros tér közelében.",
+                "ro": "Alegeți un local aproape de Piața Orașului Vechi.",
+                "en": "Choose a place close to Old Town Square (Óváros tér)."
+              }
+            },
+            {
+              "name": "Bus to Veszprém Zoo",
+              "tip_5lang": {
+                "de": "Vom Bus zum Zoo-Eingang sind es nur wenige Schritte.",
+                "hu": "A busztól az állatkert bejáratáig csak pár lépés.",
+                "ro": "De la autobuz până la intrarea zoo sunt doar câțiva pași.",
+                "en": "It's only a few steps from the bus to the Zoo entrance."
+              }
+            },
+            {
+              "name": "Bus to Laczkó Dezső Museum",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Egyetem' liegt direkt am Museum.",
+                "hu": "Az 'Egyetem' megálló közvetlenül a múzeumnál van.",
+                "ro": "Stația 'Egyetem' este chiar lângă muzeu.",
+                "en": "The 'Egyetem' stop is located right by the museum."
+              }
+            },
+            {
+              "name": "Stroll to the Viaduct",
+              "tip_5lang": {
+                "de": "Das Viadukt glitzert im Winterlicht besonders schön.",
+                "hu": "A Viadukt különösen szépen csillog a téli fényben.",
+                "ro": "Viaductul sclipește frumos în lumina de iarnă.",
+                "en": "The Viaduct glitters beautifully in the winter light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Behalten Sie den Fahrplan im Auge, um kurzes Warten zu garantieren.",
+              "Im Bus beschlagen die Fenster oft – wischen Sie sich eine Guckstelle frei.",
+              "Das Umsteigen am 'Hotel' ist der zentrale Knotenpunkt.",
+              "Abends fahren die Busse seltener."
+            ],
+            "hu": [
+              "Figyelje a menetrendet, hogy keveset kelljen várnia.",
+              "A buszokon gyakran párás az ablak – töröljön egy kis helyet.",
+              "A 'Hotel' megálló a központi átszállási pont.",
+              "Este a buszok ritkábban közlekednek."
+            ],
+            "ro": [
+              "Urmăriți programul pentru a garanta o așteptare scurtă.",
+              "Geamurile se aburesc adesea în autobuz – ștergeți un loc.",
+              "Stația 'Hotel' este principalul punct de transfer.",
+              "Seara autobuzele circulă mai rar."
+            ],
+            "en": [
+              "Keep an eye on the schedule to ensure minimal waiting time.",
+              "Bus windows often fog up; wipe a small spot to see out.",
+              "The 'Hotel' stop is the central transfer hub.",
+              "Buses run less frequently in the evening."
+            ]
+          }
+        }
       }
     }
   }

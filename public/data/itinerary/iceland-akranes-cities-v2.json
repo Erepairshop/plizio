@@ -264,6 +264,196 @@
           "The weather can change quickly, so dress in layers.",
           "Check the lighthouse opening hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie in der Kirche, um trocken zu starten. Das Volksmuseum ist der perfekte Zufluchtsort für die regnerischen Mittagsstunden. Das Schiffswrack und die Leuchttürme wirken im Nebel dramatisch, aber eine Regenjacke ist Pflicht. Die Guðlaug-Bäder sind bei Regen sogar noch besser – der Dampf fühlt sich magisch an. Den Abschluss bildet der stürmische Strandspaziergang.",
+            "hu": "Kezdje a templomnál, ahol fedél alatt indíthat. A Néprajzi Múzeum a legjobb menedék az esős déli órákban. A hajóroncs és a világítótornyok drámai látványt nyújtanak a ködben, de a vízhatlan kabát kötelező. A Guðlaug fürdő esőben is kiváló, a forró gőz és a hideg cseppek kontrasztja különleges. A napot a viharos tengerparti kilátás zárja.",
+            "ro": "Începeți la biserică pentru un start uscat. Muzeul Satului este refugiul perfect pentru orele ploioase de la prânz. Epava și farurile arată dramatic în ceață, dar pelerina de ploaie este obligatorie. Băile Guðlaug sunt și mai bune pe ploaie – aburul se simte magic sub picăturile reci. Încheiați cu o vedere furtunoasă de pe plaja Langisandur.",
+            "en": "Start at the church for a dry beginning. The Folk Museum is the perfect refuge for the rainy midday hours. The shipwreck and lighthouses look dramatic in the mist, but a heavy raincoat is a must. Guðlaug baths are even better when it's raining – the steam feels magical against the cold drops. End at the beach with a stormy coastal view."
+          },
+          "stops": [
+            {
+              "name": "Akraneskirkja Church",
+              "tip_5lang": {
+                "de": "Trockener Startpunkt für die Besichtigung.",
+                "hu": "Fedett és csendes kezdőpont az eső elől.",
+                "ro": "Un punct de plecare uscat și liniștit.",
+                "en": "A dry and quiet starting point away from the rain."
+              }
+            },
+            {
+              "name": "Akranes Folk Museum",
+              "tip_5lang": {
+                "de": "Bester Ort, um den stärksten Regen abzuwarten.",
+                "hu": "A legjobb hely a legnagyobb eső kivárására.",
+                "ro": "Cel mai bun loc pentru a aștepta trecerea ploii.",
+                "en": "The best place to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "Garðar BA 64 Shipwreck",
+              "tip_5lang": {
+                "de": "Vorsicht, der Boden um das Wrack ist rutschig.",
+                "hu": "Vigyázat, a roncs körüli talaj csúszós és sáros.",
+                "ro": "Atenție, terenul din jurul epavei este alunecos.",
+                "en": "Caution, the ground around the wreck is slippery."
+              }
+            },
+            {
+              "name": "Akranes Lighthouses",
+              "tip_5lang": {
+                "de": "Starker Wind am Kap, halten Sie die Kapuze fest.",
+                "hu": "Erős szél a foknál, szorítsa meg a kapucnit.",
+                "ro": "Vânt puternic la capăt, țineți bine gluga.",
+                "en": "Strong wind at the cape, hold onto your hood."
+              }
+            },
+            {
+              "name": "Guðlaug Geothermal Baths",
+              "tip_5lang": {
+                "de": "Das warme Wasser ist bei Regen herrlich entspannend.",
+                "hu": "A meleg víz esőben különösen pihentető élmény.",
+                "ro": "Apa caldă este extrem de relaxantă pe ploaie.",
+                "en": "The warm water is incredibly relaxing in the rain."
+              }
+            },
+            {
+              "name": "Langisandur Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie die wilde Brandung vom Ufer aus.",
+                "hu": "Élvezze a vad hullámzást a part biztonságából.",
+                "ro": "Bucurați-vă de valurile sălbatice de pe mal.",
+                "en": "Enjoy the wild surf from the safety of the shore."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie hochwertige Gore-Tex-Kleidung.",
+              "Die Cafés am Museum bieten warmen Unterschlupf.",
+              "Die Bäder haben beheizte Umkleiden.",
+              "Achten Sie auf tief hängende Wolken am Berg.",
+              "Windböen können an der Küste sehr plötzlich auftreten."
+            ],
+            "hu": [
+              "Viseljen jó minőségű, vízhatlan ruházatot.",
+              "A múzeum melletti kávézók meleg menedéket nyújtanak.",
+              "A fürdő öltözői fűtöttek és modernek.",
+              "Figyeljen a hirtelen érkező tengeri széllökésekre.",
+              "A köves utak esőben csúszóssá válhatnak."
+            ],
+            "ro": [
+              "Purtați haine impermeabile de înaltă calitate.",
+              "Cafenelele de lângă muzeu oferă adăpost cald.",
+              "Vestiarele băilor sunt încălzite și moderne.",
+              "Atenție la rafalele de vânt bruște pe coastă.",
+              "Potecile cu pietriș devin alunecoase pe ploaie."
+            ],
+            "en": [
+              "Wear high-quality waterproof Gore-Tex gear.",
+              "Cafes near the museum offer warm shelter.",
+              "The bath changing rooms are heated and modern.",
+              "Watch out for sudden wind gusts on the coast.",
+              "Gravel paths can become slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgendlicher Besuch der Kirche in der blauen Stunde. Das Museum bietet Wärme und isländische Geschichte. Die tiefstehende Wintersonne wirft lange Schatten auf das Schiffswrack. Die Leuchttürme wirken gegen den arktischen Himmel majestätisch. Guðlaug ist im Winter unverzichtbar, um sich aufzuwärmen. Der Sonnenuntergang kommt früh, genießen Sie die Dämmerung am Strand.",
+            "hu": "Reggeli látogatás a templomban a kék órában. A múzeum meleget és izlandi történelmet kínál. Az alacsonyan járó téli nap hosszú árnyékot vet a hajóroncsra. A világítótornyok fenségesek az északi égbolt alatt. A Guðlaug fürdő télen elengedhetetlen a felmelegedéshez. A nap korán nyugszik, élvezze a szürkületet a parton.",
+            "ro": "Vizită matinală la biserică în ora albastră. Muzeul oferă căldură și istorie islandeză. Soarele jos de iarnă aruncă umbre lungi asupra epavei. Farurile arată maiestuos sub cerul arctic. Băile Guðlaug sunt esențiale iarna pentru a vă încălzi. Apusul vine devreme, bucurați-vă de amurg pe plajă.",
+            "en": "Morning visit to the church during the blue hour. The museum provides warmth and Icelandic history. The low winter sun casts long shadows on the shipwreck. The lighthouses look majestic against the Arctic sky. Guðlaug is essential in winter to stay warm and cozy. Sunset comes early, so enjoy the twilight atmosphere at the beach."
+          },
+          "stops": [
+            {
+              "name": "Akraneskirkja Church",
+              "tip_5lang": {
+                "de": "Innen ist es angenehm warm für ein kurzes Gebet.",
+                "hu": "Bent kellemes meleg fogadja a látogatót.",
+                "ro": "Interiorul este plăcut și cald pentru o vizită.",
+                "en": "The interior is pleasantly warm for a quick visit."
+              }
+            },
+            {
+              "name": "Akranes Folk Museum",
+              "tip_5lang": {
+                "de": "Tauchen Sie in die Geschichte ein, während es friert.",
+                "hu": "Merüljön el a múltban, amíg kint fagy.",
+                "ro": "Explorați istoria în timp ce afară e îngheț.",
+                "en": "Dive into history while it freezes outside."
+              }
+            },
+            {
+              "name": "Garðar BA 64 Shipwreck",
+              "tip_5lang": {
+                "de": "Das Wrack ist oft mit Reif oder Eis bedeckt.",
+                "hu": "A roncsot gyakran zúzmara vagy jég borítja.",
+                "ro": "Epava este adesea acoperită de chiciură sau gheață.",
+                "en": "The wreck is often covered in frost or ice."
+              }
+            },
+            {
+              "name": "Akranes Lighthouses",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind für Fotos hier wichtig.",
+                "hu": "A fotózáshoz meleg kesztyűre lesz szüksége.",
+                "ro": "Mănușile groase sunt esențiale pentru fotografii.",
+                "en": "Warm gloves are essential for taking photos here."
+              }
+            },
+            {
+              "name": "Guðlaug Geothermal Baths",
+              "tip_5lang": {
+                "de": "Der beste Ort, um den Körper wieder aufzuwärmen.",
+                "hu": "A legjobb hely a test átmelegítésére a fagyban.",
+                "ro": "Cel mai bun loc pentru a vă reîncălzi corpul.",
+                "en": "The best place to warm up your body in the frost."
+              }
+            },
+            {
+              "name": "Langisandur Beach",
+              "tip_5lang": {
+                "de": "Der Sand kann bei Frost hart gefroren sein.",
+                "hu": "A homok fagy esetén keményre fagyhat.",
+                "ro": "Nisipul poate fi înghețat bocnă în zilele geroase.",
+                "en": "The sand can be frozen hard on frosty days."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht bereits gegen 16:00 Uhr unter.",
+              "Tragen Sie Wollschichten direkt auf der Haut.",
+              "Achten Sie auf vereiste Wege an der Küste.",
+              "Nehmen Sie eine Thermoskanne mit warmem Tee mit.",
+              "Planen Sie mehr Zeit für die Fortbewegung ein."
+            ],
+            "hu": [
+              "A nap már 16:00 körül lenyugszik.",
+              "Viseljen gyapjú réteget közvetlenül a bőrön.",
+              "Vigyázzon a jeges utakra a part mentén.",
+              "Vigyen magával termoszt forró teával.",
+              "Számoljon több idővel a lassabb közlekedés miatt."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:00.",
+              "Purtați straturi de lână direct pe piele.",
+              "Atenție la potecile înghețate de pe coastă.",
+              "Luați un termos cu ceai cald la voi.",
+              "Alocați mai mult timp pentru deplasare."
+            ],
+            "en": [
+              "The sun sets as early as 4:00 PM.",
+              "Wear wool layers directly against your skin.",
+              "Watch out for icy paths along the coast.",
+              "Carry a thermos with hot tea for the walk.",
+              "Allow extra time for movement due to ice."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -522,6 +712,196 @@
           "The wind can be strong, be prepared.",
           "Wear a helmet and bright clothing."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Strand, solange der Wind noch moderat ist. Die Bäder bieten die erste Aufwärmpause. Die Leuchttürme und das Schiffswrack sind nass, achten Sie auf rutschige Wege. Das Museum dient als lange, trockene Pause am Nachmittag. Beenden Sie die Tour an der schützenden Kirche, wenn der Regen zunimmt.",
+            "hu": "Induljon a parton, amíg a szél még mérsékelt. A fürdő kínálja az első felmelegedési szünetet. A világítótornyok és a roncs vizesek, ügyeljen a csúszós szakaszokra. A múzeum hosszú, száraz pihenőként szolgál délután. A túrát a védelmet nyújtó templomnál fejezze be, ahogy erősödik az eső.",
+            "ro": "Începeți pe plajă cât timp vântul este moderat. Băile oferă prima pauză de încălzire. Farurile și epava sunt ude, atenție la drumurile alunecoase. Muzeul servește ca o pauză lungă și uscată după-amiaza. Încheiați turul la biserica protectoare când ploaia se întețește.",
+            "en": "Start at the beach while the wind is still moderate. The baths offer the first warm-up break. The lighthouses and shipwreck are wet, so watch out for slippery paths. The museum serves as a long, dry break in the afternoon. Finish your tour at the protective church as the rain intensifies."
+          },
+          "stops": [
+            {
+              "name": "Langisandur Beach",
+              "tip_5lang": {
+                "de": "Radweg am Strand kann Pfützen aufweisen.",
+                "hu": "A tengerparti kerékpárút pocsolyás lehet.",
+                "ro": "Pista de biciclete de pe plajă poate avea bălți.",
+                "en": "The bike path by the beach may have puddles."
+              }
+            },
+            {
+              "name": "Guðlaug Geothermal Baths",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad sicher vor dem Wind.",
+                "hu": "Parkolja le a bringát szélvédett helyen.",
+                "ro": "Parcați bicicleta într-un loc ferit de vânt.",
+                "en": "Park your bike in a spot sheltered from the wind."
+              }
+            },
+            {
+              "name": "Akranes Lighthouses",
+              "tip_5lang": {
+                "de": "Seitenwind am Kap kann gefährlich sein.",
+                "hu": "Az oldalszél a foknál veszélyes lehet.",
+                "ro": "Vântul lateral la capăt poate fi periculos.",
+                "en": "Side winds at the cape can be dangerous."
+              }
+            },
+            {
+              "name": "Garðar BA 64 Shipwreck",
+              "tip_5lang": {
+                "de": "Nasse Steine sind für Radschuhe rutschig.",
+                "hu": "A vizes kövek csúsznak a bringás cipőben.",
+                "ro": "Pietrele ude sunt alunecoase pentru pantofi.",
+                "en": "Wet stones are slippery for cycling shoes."
+              }
+            },
+            {
+              "name": "Akranes Folk Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie die nasse Ausrüstung am Eingang.",
+                "hu": "Hagyja a vizes felszerelést a bejáratnál.",
+                "ro": "Lăsați echipamentul ud la intrare.",
+                "en": "Leave your wet gear at the entrance area."
+              }
+            },
+            {
+              "name": "Akraneskirkja Church",
+              "tip_5lang": {
+                "de": "Ein würdevoller, trockener Ort zum Ausruhen.",
+                "hu": "Méltóságteljes, száraz hely a pihenéshez.",
+                "ro": "Un loc demn și uscat pentru odihnă.",
+                "en": "A dignified, dry place to rest at the end."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche gegen Spritzwasser.",
+              "Vermeiden Sie schnelles Bremsen auf nassem Asphalt.",
+              "Eine wasserdichte Handyhülle ist ratsam.",
+              "Prüfen Sie den Windbericht vor der Abfahrt.",
+              "Tragen Sie eine gut sichtbare Regenjacke."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "Kerülje a hirtelen fékezést vizes aszfalton.",
+              "A vízálló telefontok erősen ajánlott.",
+              "Indulás előtt ellenőrizze a széljelentést.",
+              "Viseljen jól látható, fényvisszaverő esőkabátot."
+            ],
+            "ro": [
+              "Folosiți apărători împotriva apei împroșcate.",
+              "Evitați frânarea bruscă pe asfalt ud.",
+              "O husă de telefon impermeabilă este recomandată.",
+              "Verificați raportul de vânt înainte de plecare.",
+              "Purtați o pelerină de ploaie reflectorizantă."
+            ],
+            "en": [
+              "Use mudguards against splashing water.",
+              "Avoid sudden braking on wet asphalt.",
+              "A waterproof phone case is highly recommended.",
+              "Check the wind report before starting.",
+              "Wear a highly visible, reflective raincoat."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Verschneite Radtour entlang der Küste am Morgen. Die Bäder sind der einzige Weg, um zwischendurch aufzutauen. Vorsicht vor Glatteis in der Nähe der Leuchttürme. Die kurzen Tageslichtstunden bedeuten, dass Sie das Museum und die Kirche in der Dunkelheit besichtigen werden. Eine gute Beleuchtung am Rad ist lebenswichtig.",
+            "hu": "Havas kerékpártúra a part mentén reggel. A fürdő az egyetlen mód a közbeni felengedésre. Vigyázzon a jégre a világítótornyok közelében. A rövid nappalok miatt a múzeumot és a templomot már sötétben fogja felkeresni. A kerékpár jó világítása életmentő lehet.",
+            "ro": "Tur cu bicicleta prin zăpadă pe coastă dimineața. Băile sunt singura cale de a vă dezgheța pe parcurs. Atenție la gheață lângă faruri. Zilele scurte înseamnă că veți vizita muzeul și biserica pe întuneric. Iluminarea bună a bicicletei este vitală.",
+            "en": "Snowy bike ride along the coast in the morning. The baths are the only way to thaw out during the trip. Be careful of black ice near the lighthouses. Short daylight hours mean you will visit the museum and church in the dark. Good bike lighting is essential for safety."
+          },
+          "stops": [
+            {
+              "name": "Langisandur Beach",
+              "tip_5lang": {
+                "de": "Reifendruck für besseren Halt leicht senken.",
+                "hu": "Csökkentse a keréknyomást a jobb tapadásért.",
+                "ro": "Scădeți presiunea în pneuri pentru aderență.",
+                "en": "Lower tire pressure slightly for better grip."
+              }
+            },
+            {
+              "name": "Guðlaug Geothermal Baths",
+              "tip_5lang": {
+                "de": "Das Thermalwasser rettet Sie vor dem Erfrieren.",
+                "hu": "A termálvíz megment a megfagyástól.",
+                "ro": "Apa termală vă salvează de la îngheț.",
+                "en": "The thermal water saves you from freezing."
+              }
+            },
+            {
+              "name": "Akranes Lighthouses",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrierender Gischt auf dem Weg.",
+                "hu": "Vigyázzon az útra fagyó tengeri permettel.",
+                "ro": "Atenție la pulverizarea mării care îngheață.",
+                "en": "Watch out for freezing sea spray on the path."
+              }
+            },
+            {
+              "name": "Garðar BA 64 Shipwreck",
+              "tip_5lang": {
+                "de": "Metallteile des Rads können sehr kalt werden.",
+                "hu": "A bringa fém részei nagyon lehűlhetnek.",
+                "ro": "Părțile metalice pot deveni extrem de reci.",
+                "en": "Metal bike parts can become extremely cold."
+              }
+            },
+            {
+              "name": "Akranes Folk Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände an den Heizkörpern.",
+                "hu": "Melegítse fel kezeit a fűtőtesteknél.",
+                "ro": "Încălziți-vă mâinile la caloriferele din muzeu.",
+                "en": "Warm up your hands by the museum radiators."
+              }
+            },
+            {
+              "name": "Akraneskirkja Church",
+              "tip_5lang": {
+                "de": "Das Licht der Kirche leitet Sie im Dunkeln.",
+                "hu": "A templom fényei utat mutatnak a sötétben.",
+                "ro": "Luminile bisericii vă ghidează în întuneric.",
+                "en": "The church lights guide you in the darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spülen Sie das Salz vom Rad nach der Tour.",
+              "Tragen Sie eine Sturmhaube unter dem Helm.",
+              "Starke Vorder- und Rücklichter sind Pflicht.",
+              "Winterreifen mit Spikes sind sehr empfohlen.",
+              "Fahren Sie defensiv auf möglicherweise vereistem Untergrund."
+            ],
+            "hu": [
+              "A túra után mossa le a sót a bringáról.",
+              "Viseljen maszkot a sisak alatt a szél ellen.",
+              "Az erős első-hátsó lámpa kötelező.",
+              "A szöges téli gumi erősen ajánlott.",
+              "Vezessen óvatosan a jeges szakaszokon."
+            ],
+            "ro": [
+              "Clătiți sarea de pe bicicletă după tur.",
+              "Purtați o cagulă sub cască împotriva vântului.",
+              "Luminile puternice față-spate sunt obligatorii.",
+              "Anvelopele de iarnă cu ținte sunt recomandate.",
+              "Conduceți defensiv pe porțiunile înghețate."
+            ],
+            "en": [
+              "Rinse the salt off your bike after the tour.",
+              "Wear a balaclava under your helmet for wind.",
+              "Strong front and rear lights are mandatory.",
+              "Studded winter tires are highly recommended.",
+              "Ride defensively on potentially icy patches."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -803,6 +1183,214 @@
           "Parking fees may apply.",
           "Fill up on gas before leaving town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahrt zum Mount Akrafjall (Sichtweite oft gering). Das Museum ist eine sichere Bank für den Vormittag. Nutzen Sie das Auto, um trocken zwischen Leuchtturm und Wrack zu pendeln. Die Bäder sind herrlich, gefolgt von einem kurzen Blick auf den Strand aus dem geschützten Fahrzeuginneren. Ein entspannter Tag trotz des Wetters.",
+            "hu": "Autózás az Akrafjall-hegyhez (a látótávolság gyakran kicsi). A múzeum biztos pont délelőttre. Használja az autót a világítótorony és a roncs közötti gyors, száraz átjutáshoz. A fürdőzés után vessen egy utolsó pillantást a partra a védett utastérből. Kényelmes nap a rossz idő ellenére is.",
+            "ro": "Conduceți spre Muntele Akrafjall (vizibilitate redusă). Muzeul este o opțiune sigură pentru dimineață. Folosiți mașina pentru a pendula uscat între far și epavă. Băile sunt minunate, urmate de o scurtă privire spre plajă din interiorul protejat al mașinii. O zi relaxată.",
+            "en": "Drive to Mount Akrafjall (visibility often low). The museum is a safe bet for the morning. Use the car to shuttle dryly between the lighthouse and the shipwreck. The baths are wonderful, followed by a quick look at the beach from the sheltered interior. A comfortable day despite the wet weather."
+          },
+          "stops": [
+            {
+              "name": "Mount Akrafjall",
+              "tip_5lang": {
+                "de": "Wanderwege können bei Regen sehr schlammig sein.",
+                "hu": "Az ösvények esőben nagyon sárosak lehetnek.",
+                "ro": "Potecile pot fi foarte noroioase pe ploaie.",
+                "en": "Hiking trails can be very muddy in the rain."
+              }
+            },
+            {
+              "name": "Akranes Folk Museum",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor dem Eingang vorhanden.",
+                "hu": "Parkoló közvetlenül a bejárat előtt található.",
+                "ro": "Parcare disponibilă chiar în fața intrării.",
+                "en": "Parking is available right in front of the entry."
+              }
+            },
+            {
+              "name": "Akraneskirkja Church",
+              "tip_5lang": {
+                "de": "Kurzer Lauf vom Parkplatz zur Kirche.",
+                "hu": "Rövid futás a parkolótól a templomig.",
+                "ro": "Fuga scurtă de la parcare până la biserică.",
+                "en": "A short dash from the parking lot to the church."
+              }
+            },
+            {
+              "name": "Akranes Lighthouses",
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wellen aus dem Auto.",
+                "hu": "Figyelje a hullámokat az autó kényelméből.",
+                "ro": "Observați valurile din confortul mașinii.",
+                "en": "Watch the waves from the comfort of the car."
+              }
+            },
+            {
+              "name": "Garðar BA 64 Shipwreck",
+              "tip_5lang": {
+                "de": "Der Boden ist bei Regen sehr rutschig.",
+                "hu": "A talaj esőben rendkívül csúszós itt.",
+                "ro": "Terenul este extrem de alunecos aici pe ploaie.",
+                "en": "The ground is extremely slippery here in rain."
+              }
+            },
+            {
+              "name": "Guðlaug Geothermal Baths",
+              "tip_5lang": {
+                "de": "Warme Kleidung für nach dem Bad bereitlegen.",
+                "hu": "Készítsen be meleg ruhát a fürdő utánra.",
+                "ro": "Pregătiți haine calde pentru după baie.",
+                "en": "Have warm clothes ready for after the bath."
+              }
+            },
+            {
+              "name": "Langisandur Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie den Meerblick durch die Scheibe.",
+                "hu": "Élvezze a tengeri kilátást az ablakon át.",
+                "ro": "Bucurați-vă de mare prin geamul mașinii.",
+                "en": "Enjoy the sea view through the car window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand der Scheibenwischer.",
+              "Achten Sie auf Aquaplaning auf der Küstenstraße.",
+              "Halten Sie Handtücher im Auto bereit.",
+              "Die Parkplätze am Kap sind dem Wind ausgesetzt.",
+              "Nutzen Sie die Sitzheizung nach den Bädern."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlők állapotát.",
+              "Vigyázzon a felfutó vízre a part menti úton.",
+              "Tartson törölközőket az autóban.",
+              "A foknál lévő parkolók szélnek kitettek.",
+              "Használja az ülésfűtést a fürdőzés után."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor de parbriz.",
+              "Atenție la acvaplanare pe drumul de coastă.",
+              "Țineți prosoape de rezervă în mașină.",
+              "Parcările de la capăt sunt expuse vântului.",
+              "Folosiți încălzirea în scaune după băi."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers.",
+              "Watch out for aquaplaning on coastal roads.",
+              "Keep spare towels ready in the car.",
+              "Parking lots at the cape are exposed to wind.",
+              "Use seat heating after visiting the baths."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Bergstraße kann vereist sein, fahren Sie vorsichtig. Das Museum ist ein gemütlicher Stopp am Mittag. Nutzen Sie den Wagen, um zwischen dem windigen Leuchtturm und dem Wrack zu springen. Die Thermalbäder sind das Highlight an einem kalten Wintertag. Beenden Sie die Tour am Strand bei Mondschein, bevor die Straßen glatt werden.",
+            "hu": "A hegyi út jeges lehet, vezessen óvatosan. A múzeum barátságos megálló délidőben. Használja az autót, hogy gyorsan váltson a szeles világítótorony és a roncs között. A termálfürdő a fénypont egy hideg téli napon. Zárja a túrát a parton holdfénynél, mielőtt az utak lefagynának.",
+            "ro": "Drumul spre munte poate fi înghețat, conduceți atent. Muzeul este o oprire primitoare la prânz. Folosiți mașina pentru a sări între farul vântos și epavă. Băile termale sunt punctul culminant al unei zile reci. Încheiați pe plajă la lumina lunii, înainte de îngheț.",
+            "en": "The mountain road can be icy, so drive carefully. The museum is a cozy stop during midday. Use the car to hop between the windy lighthouse and the shipwreck. The geothermal baths are the highlight of a cold winter day. Finish at the beach under the moonlight before roads freeze over."
+          },
+          "stops": [
+            {
+              "name": "Mount Akrafjall",
+              "tip_5lang": {
+                "de": "Allradantrieb für die Bergstraße empfohlen.",
+                "hu": "Összkerékhajtás ajánlott a hegyi útra.",
+                "ro": "Tracțiune integrală recomandată pentru munte.",
+                "en": "4WD is recommended for the mountain road."
+              }
+            },
+            {
+              "name": "Akranes Folk Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Zufluchtsort vor dem Frost.",
+                "hu": "Meleg menedék a kinti fagy elől.",
+                "ro": "Un refugiu cald în fața gerului de afară.",
+                "en": "A warm sanctuary from the frost outside."
+              }
+            },
+            {
+              "name": "Akraneskirkja Church",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen.",
+                "hu": "Ne járassa feleslegesen a motort a templomnál.",
+                "ro": "Nu lăsați motorul pornit inutil la biserică.",
+                "en": "Do not leave the engine idling at the church."
+              }
+            },
+            {
+              "name": "Akranes Lighthouses",
+              "tip_5lang": {
+                "de": "Die Autotüren beim Öffnen gut festhalten.",
+                "hu": "Szélben erősen fogja az ajtót nyitáskor.",
+                "ro": "Țineți bine ușa mașinii când o deschideți.",
+                "en": "Hold the car door firmly when opening in wind."
+              }
+            },
+            {
+              "name": "Garðar BA 64 Shipwreck",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf dem Parkplatz.",
+                "hu": "Vigyázzon a tükörjégre a parkolóban.",
+                "ro": "Atenție la gheața neagră din parcare.",
+                "en": "Watch out for black ice in the parking lot."
+              }
+            },
+            {
+              "name": "Guðlaug Geothermal Baths",
+              "tip_5lang": {
+                "de": "Das Auto kühlt während des Badens stark aus.",
+                "hu": "Az autó nagyon lehűl a fürdőzés alatt.",
+                "ro": "Mașina se va răci mult în timpul băii.",
+                "en": "The car will cool down significantly during your bath."
+              }
+            },
+            {
+              "name": "Langisandur Beach",
+              "tip_5lang": {
+                "de": "Schalten Sie das Fernlicht für die Aussicht ein.",
+                "hu": "Kapcsolja fel a távolsági fényt a kilátáshoz.",
+                "ro": "Folosiți faza lungă pentru a vedea marea.",
+                "en": "Use high beams to see the sea in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer eine Schneeschaufel mit.",
+              "Achten Sie auf die aktuelle Straßenwetter-App.",
+              "Winterreifen mit Spikes sind ein Muss.",
+              "Halten Sie den Tank mindestens halb voll.",
+              "Vorsicht vor Rentieren auf der Fahrbahn."
+            ],
+            "hu": [
+              "Mindig tartson hólapátot a csomagtartóban.",
+              "Figyelje az útinformációs alkalmazást.",
+              "A szöges gumi télen kötelező felszerelés.",
+              "Tartsa az üzemanyagszintet félig töltve.",
+              "Vigyázzon az úton kószáló rénszarvasokra."
+            ],
+            "ro": [
+              "Aveți mereu o lopată de zăpadă în portbagaj.",
+              "Urmăriți aplicația cu starea drumurilor.",
+              "Anvelopele cu ținte sunt obligatorii iarna.",
+              "Țineți rezervorul cel puțin pe jumătate plin.",
+              "Atenție la renii care pot apărea pe carosabil."
+            ],
+            "en": [
+              "Always carry a snow shovel in the trunk.",
+              "Monitor the road conditions app constantly.",
+              "Studded tires are a must-have in winter.",
+              "Keep your fuel tank at least half full.",
+              "Watch out for reindeer on the roadway."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1061,6 +1649,196 @@
           "Check the bus schedule in advance.",
           "Be on time at the bus stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Bus, um zwischen Kirche und Museum zu pendeln. Der Weg zum Strand ist nass, verwenden Sie einen stabilen Regenschirm. Die Bäder sind die perfekte Aktivität bei Regen. Fahren Sie mit dem Bus vom Leuchtturmviertel zurück, um nicht durchnässt zu werden. Die Wartezeiten an den Haltestellen sind kurz, aber ein Unterstand ist ratsam.",
+            "hu": "Használja a buszt a templom és a múzeum közötti közlekedéshez. A tengerpartra vezető út vizes, vigyen erős esernyőt. A fürdőzés tökéletes program esőben. A világítótorony környékéről busszal térjen vissza, hogy ne ázzon el. A várakozási idő rövid, de keressen fedett megállót.",
+            "ro": "Folosiți autobuzul între biserică și muzeu. Drumul spre plajă este ud, folosiți o umbrelă rezistentă. Băile sunt activitatea perfectă pe ploaie. Reveniți cu autobuzul din zona farului pentru a nu vă uda. Timpul de așteptare este scurt, dar căutați stații acoperite.",
+            "en": "Use the bus to commute between the church and the museum. The walk to the beach is wet, so carry a sturdy umbrella. The baths are a perfect activity for a rainy day. Take the bus back from the lighthouse area to avoid getting soaked. Waiting times are short, but look for sheltered stops."
+          },
+          "stops": [
+            {
+              "name": "Akraneskirkja Church",
+              "tip_5lang": {
+                "de": "Bushaltestelle ist nur wenige Gehminuten entfernt.",
+                "hu": "A buszmegálló csak pár perc sétára van.",
+                "ro": "Stația de autobuz este la câteva minute de mers.",
+                "en": "The bus stop is just a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Akranes Folk Museum",
+              "tip_5lang": {
+                "de": "Das Museum bietet Schutz vor dem Regenschauer.",
+                "hu": "A múzeum védelmet nyújt a záporok elől.",
+                "ro": "Muzeul oferă protecție împotriva averselor.",
+                "en": "The museum offers protection from rain showers."
+              }
+            },
+            {
+              "name": "Langisandur Beach",
+              "tip_5lang": {
+                "de": "Ein nasser Spaziergang, der sich dennoch lohnt.",
+                "hu": "Vizes séta, de a látvány megéri a fáradtságot.",
+                "ro": "O plimbare udă, dar priveliștea merită.",
+                "en": "A wet walk, but the view is worth the effort."
+              }
+            },
+            {
+              "name": "Guðlaug Geothermal Baths",
+              "tip_5lang": {
+                "de": "Entspannen Sie, während es draußen regnet.",
+                "hu": "Lazítson a medencében, amíg kint esik.",
+                "ro": "Relaxați-vă în timp ce afară plouă.",
+                "en": "Relax in the pool while it rains outside."
+              }
+            },
+            {
+              "name": "Akranes Lighthouses",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtzeiten vor dem Rundgang.",
+                "hu": "Ellenőrizze a menetrendet a körséta előtt.",
+                "ro": "Verificați orarul înainte de a porni la drum.",
+                "en": "Check the schedule before starting your walk."
+              }
+            },
+            {
+              "name": "Garðar BA 64 Shipwreck",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg zur Haltestelle ein.",
+                "hu": "Számoljon a megállóig tartó visszúttal.",
+                "ro": "Alocați timp pentru drumul înapoi spre stație.",
+                "en": "Allow time for the walk back to the bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die Strætó-App für Echtzeitdaten.",
+              "Tragen Sie wasserfeste Schuhe für den Umstieg.",
+              "Ein Regencape ist handlicher als ein Schirm.",
+              "Warten Sie in Cafés, falls der Bus Verspätung hat.",
+              "Halten Sie Kleingeld oder die App bereit."
+            ],
+            "hu": [
+              "Töltse le a Strætó alkalmazást a menetrendhez.",
+              "Viseljen vízálló cipőt az átszállásokhoz.",
+              "Az esőponcsó praktikusabb, mint az esernyő.",
+              "Késés esetén várjon egy közeli kávézóban.",
+              "Legyen kéznél a jegy vagy az alkalmazás."
+            ],
+            "ro": [
+              "Descărcați aplicația Strætó pentru orar.",
+              "Purtați încălțăminte impermeabilă.",
+              "Poncoul de ploaie e mai practic decât umbrela.",
+              "În caz de întârziere, așteptați într-o cafenea.",
+              "Aveți biletul sau aplicația pregătită."
+            ],
+            "en": [
+              "Download the Strætó app for real-time data.",
+              "Wear waterproof shoes for bus transfers.",
+              "A rain poncho is more practical than an umbrella.",
+              "Wait in a nearby cafe if the bus is delayed.",
+              "Have your ticket or app ready for boarding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bleiben Sie morgens so lange wie möglich im beheizten Bus. Das Museum ist ein warmer Zufluchtsort. Der Weg zum Leuchtturm ist bei Wind sehr kalt, kleiden Sie sich nach dem Zwiebelprinzip. Die Guðlaug-Bäder sind der beste Teil eines Winterausflugs mit dem Transit. Nutzen Sie die Abendstunden für die Rückfahrt, wenn die Lichter der Stadt leuchten.",
+            "hu": "Reggel maradjon a fűtött buszon, ameddig csak lehet. A múzeum meleg menedék a hidegben. A világítótoronyhoz vezető út szélben nagyon fagyos, öltözzön rétegesen. A Guðlaug fürdő a téli közösségi közlekedős túra legjobb része. Használja az esti órákat a visszautazásra, amikor kigyúlnak a fények.",
+            "ro": "Stați în autobuzul încălzit cât mai mult dimineața. Muzeul este un refugiu cald. Drumul spre far este foarte rece pe vânt, îmbrăcați-vă în straturi. Băile Guðlaug sunt cea mai bună parte a excursiei de iarnă. Folosiți orele serii pentru retur, când se aprind luminile orașului.",
+            "en": "Stay in the heated bus as long as possible in the morning. The museum is a warm sanctuary. The walk to the lighthouse is very cold in the wind, so dress in layers. Guðlaug baths are the best part of a winter transit trip. Use the evening hours for your return journey when the city lights are glowing."
+          },
+          "stops": [
+            {
+              "name": "Akraneskirkja Church",
+              "tip_5lang": {
+                "de": "Die Kirche ist oft beleuchtet und sehr einladend.",
+                "hu": "A templom díszkivilágítása nagyon hívogató.",
+                "ro": "Biserica este adesea luminată și primitoare.",
+                "en": "The church is often lit up and very welcoming."
+              }
+            },
+            {
+              "name": "Akranes Folk Museum",
+              "tip_5lang": {
+                "de": "Perfekt, um sich zwischen den Fahrten aufzuwärmen.",
+                "hu": "Tökéletes hely a felmelegedésre a járatok közt.",
+                "ro": "Perfect pentru a vă încălzi între călătorii.",
+                "en": "Perfect for warming up between bus rides."
+              }
+            },
+            {
+              "name": "Langisandur Beach",
+              "tip_5lang": {
+                "de": "Kurzer, erfrischender Stopp in der Kälte.",
+                "hu": "Rövid, frissítő megálló a nagy hidegben.",
+                "ro": "O oprire scurtă și revigorantă în ger.",
+                "en": "A short, refreshing stop in the deep cold."
+              }
+            },
+            {
+              "name": "Guðlaug Geothermal Baths",
+              "tip_5lang": {
+                "de": "Das heiße Wasser ist im Winter ein Muss.",
+                "hu": "A forró víz télen kötelező élmény itt.",
+                "ro": "Apa fierbinte este obligatorie pe timp de iarnă.",
+                "en": "The hot water is a must-do experience in winter."
+              }
+            },
+            {
+              "name": "Akranes Lighthouses",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an für den Fußweg vom Bus.",
+                "hu": "Öltözzön fel jól a busztól tartó sétához.",
+                "ro": "Îmbrăcați-vă gros pentru mersul de la stație.",
+                "en": "Dress warmly for the walk from the bus stop."
+              }
+            },
+            {
+              "name": "Garðar BA 64 Shipwreck",
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der Rückfahrt im warmen Bus.",
+                "hu": "Utolsó megálló a fűtött buszos hazatérés előtt.",
+                "ro": "Ultima oprire înainte de returul cu autobuzul.",
+                "en": "Last stop before returning in the warm bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter gut beheizt.",
+              "Warten Sie in Gebäuden, nicht an der Haltestelle.",
+              "Planen Sie mit winterbedingten Verzögerungen.",
+              "Tragen Sie Reflektoren an Ihrer Kleidung.",
+              "Die letzte Verbindung nach Reykjavík prüfen."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek és kényelmesek.",
+              "Épületben várjon, ne a nyitott megállóban.",
+              "Számoljon a téli időjárás okozta késésekkel.",
+              "Viseljen fényvisszaverőt a sötétben.",
+              "Ellenőrizze az utolsó járatot Reykjavík felé."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite iarna.",
+              "Așteptați în clădiri, nu în stația deschisă.",
+              "Luați în calcul întârzierile cauzate de vreme.",
+              "Purtați elemente reflectorizante pe haine.",
+              "Verificați ultima conexiune spre Reykjavík."
+            ],
+            "en": [
+              "Buses are well-heated and comfortable in winter.",
+              "Wait inside buildings, not at open bus stops.",
+              "Account for potential winter weather delays.",
+              "Wear reflectors on your clothing in the dark.",
+              "Double-check the last connection to Reykjavík."
+            ]
+          }
+        }
       }
     }
   }

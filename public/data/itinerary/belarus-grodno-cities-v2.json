@@ -379,6 +379,206 @@
           "Keep a small amount of cash handy for entrance fees or small purchases.",
           "Start early to beat the crowds at the castles."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter der prächtigen Kuppel der Kathedrale, wo Sie dem Regen entfliehen können. Mittags erkunden Sie die weitläufigen Ausstellungen des Alten und Neuen Schlosses, die fast vollständig im Innenbereich liegen.\n\nAm Nachmittag bietet die Große Synagoge einen monumentalen Rückzugsort vor den grauen Wolken. Die dramatische Architektur des Theaters wirkt bei Regen besonders markant.\n\nDer Abend klingt im Zhilibera-Park aus, wo die beleuchteten Wege trotz der Nässe eine romantische Atmosphäre versprühen.",
+            "hu": "A reggelt a katedrális monumentális belső terében kezdjük, ahol az eső kopogása csak fokozza a barokk hangulatot. Délben a két vár kiállításai nyújtanak tökéletes menedéket a csapadék elől.\n\nA délután folyamán a Zsinagóga hatalmas belső tere fogad be minket, mielőtt a színház modern épületét megcsodálnánk a szürke égbolt alatt. Az esős utcák fényeit a vizes aszfalton tükröződve élvezhetjük.\n\nEste a Zhilibera-park aszfaltozott sétányain, esernyő alatt zárjuk a sétát, élvezve a város csendesebb, vizesebb arcát.",
+            "ro": "Dimineața începe sub cupola magnifică a Catedralei, oferind un adăpost perfect împotriva ploii. La prânz, explorăm interioarele Castelului Vechi și ale Castelului Nou, ambele oferind expoziții bogate la adăpost.\n\nDupă-amiaza, Marea Sinagogă oferă un refugiu monumental în fața norilor gri. Arhitectura dramatică a Teatrului de Dramă arată spectaculos sub cerul înnorat.\n\nSeara se încheie în Parcul Zhilibera, unde aleile pavate permit o plimbare confortabilă chiar și pe vreme umedă, profitând de luminile orașului reflectate în bălți.",
+            "en": "The morning starts under the magnificent dome of the Cathedral, a perfect escape from the rain. At noon, explore the extensive indoor exhibits of the Old and New Castles.\n\nIn the afternoon, the Great Synagogue provides a monumental sanctuary from the gray clouds. The dramatic architecture of the Drama Theater looks particularly striking in the rain.\n\nThe evening ends in Zhilibera Park, where the paved paths allow for a comfortable walk despite the wet weather, enjoying the city lights reflected on the ground."
+          },
+          "stops": [
+            {
+              "name": "St. Francis Xavier Cathedral",
+              "tip_5lang": {
+                "de": "Bewundern Sie die hölzernen Altäre, während Sie sich im Trockenen aufwärmen.",
+                "hu": "Csodálja meg a faoltárokat, miközben bent szárad az eső elől.",
+                "ro": "Admirați altarele sculptate în lemn în timp ce vă adăpostiți de ploaie.",
+                "en": "Admire the wooden altars while staying dry inside the sanctuary."
+              }
+            },
+            {
+              "name": "Great Synagogue",
+              "tip_5lang": {
+                "de": "Das massive Dach bietet perfekten Schutz; erkunden Sie die Innenausstattung in Ruhe.",
+                "hu": "A masszív tető tökéletes védelmet nyújt; fedezze fel nyugodtan a belső tereket.",
+                "ro": "Acoperișul masiv oferă protecție perfectă; explorați interiorul în liniște.",
+                "en": "The massive roof provides perfect shelter; explore the interior at your leisure."
+              }
+            },
+            {
+              "name": "Old Castle",
+              "tip_5lang": {
+                "de": "Verbringen Sie mehr Zeit in den Museumssälen, um dem Regenguss draußen zu entgehen.",
+                "hu": "Töltsön több időt a múzeumi termekben, hogy elkerülje a kinti záport.",
+                "ro": "Petreceți mai mult timp în sălile muzeului pentru a evita ploaia de afară.",
+                "en": "Spend more time in the museum halls to escape the downpour outside."
+              }
+            },
+            {
+              "name": "New Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg zwischen den Schlössern, um die Nässe zu minimieren.",
+                "hu": "Használja ki a várak közötti rövid távolságot, hogy minél kevesebbet ázzon.",
+                "ro": "Profitați de distanța scurtă dintre castele pentru a minimiza expunerea la ploaie.",
+                "en": "Take advantage of the short distance between castles to minimize getting wet."
+              }
+            },
+            {
+              "name": "Kalozha Church",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Uferpfad, die Steine können bei Nässe rutschig sein.",
+                "hu": "Vigyázat a parti ösvényen, a kövek nedvesen csúszósak lehetnek.",
+                "ro": "Atenție pe poteca de pe malul râului, pietrele pot fi alunecoase când sunt ude.",
+                "en": "Be careful on the riverbank path; the stones can be slippery when wet."
+              }
+            },
+            {
+              "name": "Hrodna Drama Theater",
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp unter dem Vordach reicht aus, um die Fassade zu sehen.",
+                "hu": "Egy rövid fotómegálló az előtető alatt elég, hogy megcsodálja a homlokzatot.",
+                "ro": "O scurtă oprire pentru fotografii sub streșină este suficientă pentru a vedea fațada.",
+                "en": "A short photo stop under the overhang is enough to admire the facade."
+              }
+            },
+            {
+              "name": "Shilibera Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon a burkolt utakon, hogy elkerülje a sarat.",
+                "ro": "Rămâneți pe aleile pavate pentru a evita noroiul.",
+                "en": "Stay on the paved paths to avoid the mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster in der Altstadt Pfützen bilden kann.",
+              "Nutzen Sie die Kirchen und Museen als taktische Pausenorte während heftiger Schauer.",
+              "Ein stabiler Regenschirm ist wegen des Windes vom Memel-Fluss her besser als ein leichter.",
+              "Die Cafés rund um den Sowjetskaja-Platz sind ideal zum Aufwärmen zwischen den Stopps."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óvárosi macskakő között könnyen megáll a víz.",
+              "Használja a templomokat és múzeumokat taktikai pihenőhelyként a záporok alatt.",
+              "A Nyeman-folyó felőli szél miatt egy strapabíró esernyő jobb választás, mint egy vékony.",
+              "A Szovjetszkaja tér környéki kávézók ideálisak egy meleg italra két látnivaló között."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pavajul din orașul vechi poate reține apa.",
+              "Folosiți bisericile și muzeele ca locuri de odihnă tactice în timpul averselor.",
+              "O umbrelă rezistentă este de preferat uneia ușoare din cauza vântului de pe râul Neman.",
+              "Cafenelele din jurul Pieței Sovetskaya sunt ideale pentru a vă încălzi între opriri."
+            ],
+            "en": [
+              "Wear waterproof shoes, as puddles can form between the cobblestones in the old town.",
+              "Use churches and museums as tactical rest stops during heavy showers.",
+              "A sturdy umbrella is better than a light one due to the wind from the Neman River.",
+              "Cafes around Sovetskaya Square are ideal for warming up between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Hrodna im Winter ist magisch, wenn der Frost an den Fenstern der alten Kathedrale klebt. Der Vormittag gehört der spirituellen Stille des barocken Innenraums.\n\nMittags bieten die dicken Mauern des Alten Schlosses wohlige Wärme, während Sie in die Geschichte eintauchen. Nachmittags, wenn die Dämmerung früh einsetzt, leuchten die Lichter der Synagoge besonders warm.\n\nDer Abend im verschneiten Zhilibera-Park bietet eine märchenhafte Kulisse, bevor Sie sich in eines der gemütlichen Restaurants der Innenstadt zurückziehen.",
+            "hu": "Hrodna télen varázslatos, amikor a fagy rátapad a régi katedrális ablakaira. A délelőtt a barokk belső tér szakrális nyugalmáé.\n\nDélben az Öregvár vastag falai kínálnak menedéket a hideg elől, miközben elmerülünk a történelemben. Délután, a korai szürkületben a Zsinagóga fényei különösen melegen hívogatnak.\n\nA havas Zhilibera-park mesebeli díszletet nyújt az estéhez, mielőtt visszahúzódnánk a belváros egyik hangulatos éttermébe.",
+            "ro": "Hrodna iarna este magică, când gerul se prinde de ferestrele vechii catedrale. Dimineața aparține liniștii spirituale a interiorului baroc.\n\nLa prânz, zidurile groase ale Castelului Vechi oferă o căldură plăcută în timp ce explorați istoria. După-amiaza, când amurgul vine devreme, luminile sinagogii strălucesc deosebit de cald.\n\nSeara în parcul Zhilibera înzăpezit oferă un decor de basm înainte de a vă retrage într-unul dintre restaurantele primitoare din centru.",
+            "en": "Hrodna in winter is magical, with frost clinging to the windows of the old Cathedral. The morning belongs to the spiritual silence of the Baroque interior.\n\nAt noon, the thick walls of the Old Castle offer cozy warmth while you delve into history. In the afternoon, as twilight sets in early, the lights of the Synagogue glow particularly warmly.\n\nEvening in the snowy Zhilibera Park provides a fairytale setting before retiring to one of the cozy downtown restaurants."
+          },
+          "stops": [
+            {
+              "name": "St. Francis Xavier Cathedral",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und Wärme des prachtvoll dekorierten Innenraums.",
+                "hu": "Élvezze a pompásan díszített belső tér nyugalmát és viszonylagos melegét.",
+                "ro": "Bucurați-vă de liniștea și căldura interiorului decorat magnific.",
+                "en": "Enjoy the silence and warmth of the magnificently decorated interior."
+              }
+            },
+            {
+              "name": "Great Synagogue",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum im Inneren, um sich während der Besichtigung aufzuwärmen.",
+                "hu": "Látogassa meg a belső múzeumot, hogy átmelegedjen a nézelődés közben.",
+                "ro": "Vizitați muzeul din interior pentru a vă încălzi în timpul vizitei.",
+                "en": "Visit the museum inside to warm up during your exploration."
+              }
+            },
+            {
+              "name": "Old Castle",
+              "tip_5lang": {
+                "de": "Die Ausstellungen sind gut beheizt und bieten Schutz vor dem Winterwind.",
+                "hu": "A kiállítások jól fűtöttek, védelmet nyújtanak a téli szél elől.",
+                "ro": "Expozițiile sunt bine încălzite și oferă protecție împotriva vântului de iarnă.",
+                "en": "The exhibits are well-heated and provide shelter from the winter wind."
+              }
+            },
+            {
+              "name": "New Castle",
+              "tip_5lang": {
+                "de": "Bewundern Sie die verschneite Aussicht auf den Memel durch die Schlosshistorie.",
+                "hu": "Csodálja meg a havas Nyeman-parti kilátást a vár ablakain keresztül.",
+                "ro": "Admirați priveliștea înzăpezită a râului Neman prin ferestrele castelului.",
+                "en": "Admire the snowy views of the Neman through the castle windows."
+              }
+            },
+            {
+              "name": "Kalozha Church",
+              "tip_5lang": {
+                "de": "Die alte Backsteinkirche wirkt im Kontrast zum weißen Schnee besonders antik.",
+                "hu": "A régi téglafalak különösen antik hatást keltenek a fehér hóval szemben.",
+                "ro": "Vechea biserică de cărămidă pare deosebit de antică în contrast cu zăpada albă.",
+                "en": "The old brick church looks particularly ancient in contrast to the white snow."
+              }
+            },
+            {
+              "name": "Hrodna Drama Theater",
+              "tip_5lang": {
+                "de": "Die beleuchtete Fassade ist in der frühen Winterdämmerung ein tolles Fotomotiv.",
+                "hu": "A kivilágított homlokzat a korai téli szürkületben remek fotótéma.",
+                "ro": "Fațada iluminată este un motiv fotografic excelent în amurgul timpuriu de iarnă.",
+                "en": "The illuminated facade is a great photo subject in the early winter twilight."
+              }
+            },
+            {
+              "name": "Shilibera Park",
+              "tip_5lang": {
+                "de": "Kleiden Sie sich warm an, da die Wege durch den Park dem Wind ausgesetzt sind.",
+                "hu": "Öltözzön rétegesen, mert a parki utak kitettek a szélnek.",
+                "ro": "Îmbrăcați-vă gros, deoarece aleile din parc sunt expuse vântului.",
+                "en": "Dress warmly as the paths through the park are exposed to the wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In Belarus wird es im Winter gegen 16:30 Uhr dunkel; planen Sie Außenstopps für den Vormittag.",
+              "Achtung vor Glatteis auf dem Kopfsteinpflaster, besonders in Hanglagen.",
+              "Trinken Sie 'Sbiten', ein traditionelles heißes Honiggetränk, um warm zu bleiben.",
+              "Die Innenräume der Kirchen sind meist angenehm temperiert, aber nicht heiß."
+            ],
+            "hu": [
+              "Fehéroroszországban télen 16:30 körül sötétedik; a kinti megállókat délelőttre időzítse.",
+              "Vigyázat a jegesedéssel a macskaköveken, különösen a lejtős részeken.",
+              "Kóstolja meg a 'Sbiten'-t, egy hagyományos forró mézes italt az átmelegedéshez.",
+              "A templomok belseje temperált, de érdemes rétegesen öltözni."
+            ],
+            "ro": [
+              "În Belarus se întunecă în jur de ora 16:30 iarna; planificați opririle exterioare dimineața.",
+              "Atenție la polei pe pavajul din piatră, în special în zonele în pantă.",
+              "Beți 'Sbiten', o băutură caldă tradițională cu miere, pentru a vă încălzi.",
+              "Interioarele bisericilor sunt de obicei temperate, dar nu foarte calde."
+            ],
+            "en": [
+              "In Belarus, it gets dark around 16:30 in winter; plan outdoor stops for the morning.",
+              "Watch out for black ice on cobblestones, especially on slopes.",
+              "Drink 'Sbiten', a traditional hot honey drink, to stay warm.",
+              "Church interiors are usually tempered but not hot; dress in layers."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -775,6 +975,224 @@
           "Bring a water bottle and a lock for your bike.",
           "The city is relatively flat, but the climbs to the castles can be challenging."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerisches Wetter in Hrodna verlangt nach einer vorsichtigen Fahrt durch den Zhilibera-Park. Vormittags nutzen wir die breiten Wege, während der Boden noch fest ist.\n\nMittags bietet die Altstadt viele Möglichkeiten, das Rad unterzustellen und die Schlösser zu besichtigen. Der Blick vom Feuerturm ist auch bei Regen imposant, wenn die Tropfen gegen das Glas peitschen.\n\nNachmittags radeln wir zur Kalozha-Kirche, wobei wir den rutschigen Asphalt am Ufer meiden. Der Tag endet mit einer schnellen Fahrt zurück ins Zentrum.",
+            "hu": "Az esős idő Grodnóban óvatos tekerést kíván a Zhilibera-parkon keresztül. Délelőtt a széles utakat használjuk, amíg a talaj még tartja magát.\n\nDélben az óváros számos lehetőséget kínál a bicikli leállítására, amíg megnézzük a várakat. A Tűztorony kilátása esőben is lenyűgöző, ahogy a cseppek dobolnak az üvegen.\n\nDélután a Kalozha-templomhoz tekerünk, kerülve a csúszós parti aszfaltot. A nap egy gyors városközponti visszatéréssel zárul.",
+            "ro": "Vremea ploioasă în Grodno necesită o plimbare prudentă prin Parcul Zhilibera. Dimineața folosim aleile late cât timp solul este încă ferm.\n\nLa prânz, orașul vechi oferă multe locuri unde puteți lăsa bicicleta pentru a vizita castelele. Vederea din Turnul de Foc este impresionantă chiar și pe ploaie.\n\nDupă-amiaza pedalăm spre Biserica Kalozha, evitând asfaltul alunecos de pe mal. Ziua se încheie cu o cursă rapidă înapoi spre centru.",
+            "en": "Rainy weather in Grodno calls for a cautious ride through Zhilibera Park. In the morning, we use the wide paths while the ground is still firm.\n\nAt noon, the old town offers plenty of places to park the bike while visiting the castles. The view from the Fire Tower is impressive even in the rain. \n\nIn the afternoon, we cycle to Kalozha Church, avoiding the slippery asphalt by the river. The day ends with a quick ride back to the center."
+          },
+          "stops": [
+            {
+              "name": "Shilibera Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Rasenflächen; die Hauptwege sind sicherer bei Nässe.",
+                "hu": "Kerülje a füves területeket; a főutak biztonságosabbak esőben.",
+                "ro": "Evitați zonele cu iarbă; aleile principale sunt mai sigure pe ploaie.",
+                "en": "Avoid grassy areas; the main paths are safer when wet."
+              }
+            },
+            {
+              "name": "Hrodna Drama Theater",
+              "tip_5lang": {
+                "de": "Kurze Pause unter dem Dachüberhang, um die Ausrüstung zu prüfen.",
+                "hu": "Rövid pihenő a tető alatt a felszerelés ellenőrzéséhez.",
+                "ro": "Scurtă pauză sub streșină pentru a verifica echipamentul.",
+                "en": "Short break under the overhang to check your gear."
+              }
+            },
+            {
+              "name": "St. Francis Xavier Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorplatz zum sicheren Abstellen des Rades.",
+                "hu": "Használja az előteret a bicikli biztonságos leállításához.",
+                "ro": "Folosiți piațeta din față pentru a parca bicicleta în siguranță.",
+                "en": "Use the square in front to park the bike safely."
+              }
+            },
+            {
+              "name": "Fire Lookout Tower",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist überdacht; lassen Sie das Rad unten angeschlossen.",
+                "hu": "A feljutás fedett; hagyja a biciklit lent lelakatolva.",
+                "ro": "Urcarea este acoperită; lăsați bicicleta legată jos.",
+                "en": "The climb is covered; leave the bike locked below."
+              }
+            },
+            {
+              "name": "Great Synagogue",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um schnell ins Trockene zu kommen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy gyorsan fedél alá érjen.",
+                "ro": "Parcați aproape de intrare pentru a ajunge rapid la adăpost.",
+                "en": "Park close to the entrance to get indoors quickly."
+              }
+            },
+            {
+              "name": "Old Castle",
+              "tip_5lang": {
+                "de": "Längere Pause hier planen; es gibt überdachte Fahrradständer.",
+                "hu": "Tervezzen ide hosszabb pihenőt; vannak fedett biciklitárolók.",
+                "ro": "Planificați o pauză mai lungă aici; există rastele acoperite.",
+                "en": "Plan a longer break here; there are covered bike racks nearby."
+              }
+            },
+            {
+              "name": "New Castle",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Weg vom Alten Schloss; achten Sie auf Pfützen.",
+                "hu": "Csak rövid szakasz az Öregvártól; ügyeljen a tócsákra.",
+                "ro": "Doar o scurtă distanță de la Castelul Vechi; atenție la bălți.",
+                "en": "Just a short ride from the Old Castle; watch out for puddles."
+              }
+            },
+            {
+              "name": "Kalozha Church",
+              "tip_5lang": {
+                "de": "Der Abhang zum Fluss kann schlammig sein; schieben Sie das Rad.",
+                "hu": "A folyóhoz vezető lejtő saras lehet; tolja a biciklit.",
+                "ro": "Panta spre râu poate fi noroioasă; împingeți bicicleta.",
+                "en": "The slope to the river can be muddy; push your bike here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine komplette Regenmontur; der Wind am Fluss kühlt schnell aus.",
+              "Prüfen Sie Ihre Bremsen, da das Kopfsteinpflaster extrem rutschig wird.",
+              "Vermeiden Sie bei Regen die unbefestigten Wege entlang des Memels.",
+              "Nutzen Sie Fahrradständer in der Nähe von Hauseingängen für besseren Schutz."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot; a folyóparti szél gyorsan lehűt.",
+              "Ellenőrizze a fékeket, a vizes macskakő rendkívül csúszós.",
+              "Esőben kerülje a Nyeman menti nem aszfaltozott utakat.",
+              "Használja a házbejáratok közeli biciklitárolókat a jobb védelemért."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie; vântul de pe râu răcește rapid.",
+              "Verificați frânele, pavajul ud este extrem de alunecos.",
+              "Evitați drumurile nepavate de-a lungul râului Neman pe ploaie.",
+              "Folosiți rastelele de biciclete de lângă intrările clădirilor pentru protecție."
+            ],
+            "en": [
+              "Wear full rain gear; the wind by the river cools you down quickly.",
+              "Check your brakes as wet cobblestones become extremely slippery.",
+              "Avoid unpaved paths along the Neman River during rain.",
+              "Use bike racks near building entrances for better shelter while parking."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren in Hrodna im Winter ist nur etwas für Hartgesottene. Vormittags gleiten wir durch den frostigen Park, wobei wir auf vereiste Stellen achten.\n\nMittags suchen wir die Kathedrale und die Schlösser auf, um uns zwischen den Etappen aufzuwärmen. Die klare Winterluft bietet weite Sicht über den Fluss.\n\nNachmittags erreichen wir den Feuerturm und die Synagoge, bevor die Kälte bei Sonnenuntergang zunimmt. Die Tour endet früh, um der nächtlichen Glätte zu entgehen.",
+            "hu": "A téli biciklizés Grodnóban csak a legelszántabbaknak ajánlott. Délelőtt a fagyos parkon suhanunk át, ügyelve a jeges foltokra.\n\nDélben a katedrálist és a várakat keressük fel, hogy átmelegedjünk az etapok között. A tiszta téli levegő nagy látótávolságot biztosít a folyó felett.\n\nDélután elérjük a Tűztornyot és a Zsinagógát, mielőtt a hideg a naplementével fokozódna. A túra korán véget ér, elkerülve az éjszakai fagyot.",
+            "ro": "Ciclismul în Grodno iarna este doar pentru cei curajoși. Dimineața alunecăm prin parcul înghețat, fiind atenți la porțiunile cu gheață.\n\nLa prânz vizităm catedrala și castelele pentru a ne încălzi între etape. Aerul curat de iarnă oferă o vizibilitate largă peste râu.\n\nDupă-amiaza ajungem la Turnul de Foc și la Sinagogă, înainte ca gerul să se intensifice la apus. Turul se încheie devreme pentru a evita poleiul nocturn.",
+            "en": "Cycling in Grodno in winter is only for the hardy. In the morning, we glide through the frosty park, watching out for icy patches.\n\nAt noon, we visit the cathedral and the castles to warm up between stages. The clear winter air offers wide views across the river.\n\nIn the afternoon, we reach the Fire Tower and the Synagogue before the cold intensifies at sunset. The tour ends early to avoid the nighttime ice."
+          },
+          "stops": [
+            {
+              "name": "Shilibera Park",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig in Kurven; Frost kann unter Blättern lauern.",
+                "hu": "Óvatosan a kanyarokban; a fagy megbújhat a levelek alatt.",
+                "ro": "Conduceți cu prudență în curbe; înghețul poate fi sub frunze.",
+                "en": "Ride carefully in curves; frost can hide under fallen leaves."
+              }
+            },
+            {
+              "name": "Hrodna Drama Theater",
+              "tip_5lang": {
+                "de": "Hinter dem Gebäude ist es windgeschützter für eine kurze Trinkpause.",
+                "hu": "Az épület mögött szélvédettebb a hely egy rövid ivószünethez.",
+                "ro": "În spatele clădirii este mai ferit de vânt pentru o scurtă pauză.",
+                "en": "It's more sheltered behind the building for a short drink break."
+              }
+            },
+            {
+              "name": "St. Francis Xavier Cathedral",
+              "tip_5lang": {
+                "de": "Binden Sie das Rad sicher an; Handschuhe beim Aufschließen anlassen.",
+                "hu": "Kösse le biztonságosan a gépet; hagyja magán a kesztyűt a nyitáskor.",
+                "ro": "Legați bine bicicleta; păstrați mănușile când desfaceți lacătul.",
+                "en": "Lock your bike securely; keep your gloves on when unlocking."
+              }
+            },
+            {
+              "name": "Fire Lookout Tower",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Abstellen des Rades im Schneematsch.",
+                "hu": "Kerülje a bicikli leállítását a latyakos részeken.",
+                "ro": "Evitați parcarea bicicletei în zăpadă topită.",
+                "en": "Avoid parking the bike in slushy areas."
+              }
+            },
+            {
+              "name": "Great Synagogue",
+              "tip_5lang": {
+                "de": "Die Ziegelwände strahlen bei Sonnenschein etwas Wärme ab.",
+                "hu": "A téglafalak napsütésben némi hőt sugároznak vissza.",
+                "ro": "Zidurile de cărămidă radiază puțină căldură în bătaia soarelui.",
+                "en": "The brick walls radiate some heat when the sun is out."
+              }
+            },
+            {
+              "name": "Old Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenhof für eine windstille Pause.",
+                "hu": "Használja a belső udvart egy szélmentes pihenőhöz.",
+                "ro": "Folosiți curtea interioară pentru o pauză fără vânt.",
+                "en": "Use the inner courtyard for a wind-free break."
+              }
+            },
+            {
+              "name": "New Castle",
+              "tip_5lang": {
+                "de": "Achten Sie auf herabfallenden Schnee von den Dachkanten.",
+                "hu": "Vigyázzon a tetőkről lecsúszó hóra a várfalak mentén.",
+                "ro": "Atenție la zăpada care poate cădea de pe marginea acoperișurilor.",
+                "en": "Watch out for falling snow from the roof edges."
+              }
+            },
+            {
+              "name": "Kalozha Church",
+              "tip_5lang": {
+                "de": "Der Boden ist hier oft gefroren; fahren Sie extrem langsam.",
+                "hu": "A talaj itt gyakran fagyott; haladjon extrém lassan.",
+                "ro": "Solul este adesea înghețat aici; mergeți extrem de încet.",
+                "en": "The ground here is often frozen; ride extremely slowly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe; die Finger werden am Lenker schnell taub.",
+              "Verringern Sie den Reifendruck leicht für besseren Grip auf Schnee.",
+              "Reinigen Sie Kette und Bremsen nach der Fahrt vom Streusalz.",
+              "Planen Sie alle 30 Minuten einen Aufwärmstopp in Innenräumen ein."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt; az ujjak gyorsan elzsibbadnak a kormányon.",
+              "Csökkentse kissé a guminyomást a jobb tapadásért a havon.",
+              "A túra után tisztítsa meg a láncot és a fékeket az útszóró sótól.",
+              "Tervezzen 30 percenként egy benti átmelegedő szünetet."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt; degetele amorțesc repede pe ghidon.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe zăpadă.",
+              "Curățați lanțul și frânele de sarea de pe drum după cursă.",
+              "Planificați o pauză de încălzire la interior la fiecare 30 de minute."
+            ],
+            "en": [
+              "Wear windproof gloves; fingers go numb quickly on the handlebars.",
+              "Reduce tire pressure slightly for better grip on snow.",
+              "Clean the chain and brakes from road salt after the ride.",
+              "Plan an indoor warm-up stop every 30 minutes."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1148,6 +1566,206 @@
           "A GPS is essential for navigating the city.",
           "Check museum opening times as they can vary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen in Hrodna macht das Fahren auf den historischen Straßen zu einem Erlebnis. Wir beginnen bei der Kalozha-Kirche, wo der Parkplatz direkt am Eingang liegt.\n\nMittags parken wir im Bereich der Schlösser und nutzen die kurzen Wege zwischen den Sehenswürdigkeiten. Am Nachmittag führt die Fahrt zur Synagoge, wobei wir die gute Sicht durch die Scheibenwischer genießen.\n\nDer Tag endet am Sowjetskaja-Platz, wo das Parkhaus Schutz bietet, während wir die Kathedrale besuchen.",
+            "hu": "Az eső Grodnóban élménnyé teszi az autózást a történelmi utcákon. A Kalozha-templomnál kezdünk, ahol a parkoló közvetlenül a bejáratnál van.\n\nDélben a várak környékén parkolunk, kihasználva a látnivalók közötti rövid távolságokat. Délután a Zsinagógához hajtunk, élvezve a kilátást az ablaktörlők mögül.\n\nA nap a Szovjetszkaja téren ér véget, ahol a parkoló védelmet nyújt, amíg meglátogatjuk a katedrálist.",
+            "ro": "Ploaia în Grodno transformă condusul pe străzile istorice într-o experiență. Începem la Biserica Kalozha, unde parcarea este chiar lângă intrare.\n\nLa prânz parcăm în zona castelelor și profităm de distanțele scurte dintre obiective. După-amiaza drumul duce la Sinagogă, bucurându-ne de vizibilitate prin ștergătoare.\n\nZiua se încheie în Piața Sovetskaya, unde parcarea oferă protecție în timp ce vizităm catedrala.",
+            "en": "Rain in Grodno makes driving on the historic streets an experience. We start at Kalozha Church, where the parking lot is right at the entrance.\n\nAt noon, we park in the castle area and take advantage of the short distances between sights. In the afternoon, the drive leads to the Synagogue, enjoying the view through the windshield wipers.\n\nThe day ends at Sovetskaya Square, where the parking area provides protection while we visit the cathedral."
+          },
+          "stops": [
+            {
+              "name": "Kalozha Church",
+              "tip_5lang": {
+                "de": "Parken Sie rückwärts ein, um bei Regen schneller abfahren zu können.",
+                "hu": "Parkoljon tolatva, hogy esőben gyorsabban tudjon indulni.",
+                "ro": "Parcați cu spatele pentru a putea pleca mai repede pe ploaie.",
+                "en": "Park backwards for a quicker departure in the rain."
+              }
+            },
+            {
+              "name": "Cluster Parking: Castle Area",
+              "tip_5lang": {
+                "de": "Bleiben Sie kurz im Auto, bis ein stärkerer Schauer vorbeizieht.",
+                "hu": "Maradjon kicsit az autóban, amíg egy erősebb zápor elvonul.",
+                "ro": "Rămâneți puțin în mașină până trece o aversă mai puternică.",
+                "en": "Stay in the car for a moment until a heavy shower passes."
+              }
+            },
+            {
+              "name": "Old Castle",
+              "tip_5lang": {
+                "de": "Der Eingang ist nah; lassen Sie die schweren Jacken im Kofferraum.",
+                "hu": "A bejárat közel van; a nehéz kabátokat hagyja a csomagtartóban.",
+                "ro": "Intrarea este aproape; lăsați jachetele grele în portbagaj.",
+                "en": "The entrance is close; leave heavy jackets in the trunk."
+              }
+            },
+            {
+              "name": "New Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Gang, falls vorhanden, zum Parkplatz.",
+                "hu": "Használja a fedett átjárót, ha van, a parkoló felé.",
+                "ro": "Folosiți culoarul acoperit, dacă există, spre parcare.",
+                "en": "Use a covered walkway, if available, towards the parking area."
+              }
+            },
+            {
+              "name": "Great Synagogue",
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefe Pfützen am Straßenrand beim Aussteigen.",
+                "hu": "Kiszálláskor ügyeljen a mély tócsákra az út szélén.",
+                "ro": "Atenție la bălțile adânci de la marginea drumului la coborâre.",
+                "en": "Watch out for deep puddles at the roadside when exiting the car."
+              }
+            },
+            {
+              "name": "Cluster Parking: Sovetskaya Square",
+              "tip_5lang": {
+                "de": "Zentrale Lage verkürzt den Weg im Regen zur Kathedrale.",
+                "hu": "A központi elhelyezkedés lerövidíti az utat az esőben a katedrálishoz.",
+                "ro": "Locația centrală scurtează drumul prin ploaie spre catedrală.",
+                "en": "The central location shortens the walk to the cathedral in the rain."
+              }
+            },
+            {
+              "name": "St. Francis Xavier Cathedral",
+              "tip_5lang": {
+                "de": "Die Beleuchtung spiegelt sich bei Regen toll auf dem nassen Platz.",
+                "hu": "A kivilágítás esőben remekül tükröződik a vizes téren.",
+                "ro": "Iluminatul se reflectă superb pe piața udă în timpul ploii.",
+                "en": "The lighting reflects beautifully on the wet square during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die beheizbaren Seitenspiegel für bessere Sicht bei Regen.",
+              "Parkhäuser im Zentrum sind meist trocken und sicher.",
+              "Das Kopfsteinpflaster kann bei Nässe den Bremsweg verlängern.",
+              "Halten Sie Kleingeld für Parkautomaten bereit, die nicht alle Kartenleser haben."
+            ],
+            "hu": [
+              "Használja a fűthető visszapillantókat a jobb látásért esőben.",
+              "A belvárosi parkolóházak többnyire szárazak és biztonságosak.",
+              "A vizes macskakő megnövelheti a féktávot.",
+              "Legyen Önnél aprópénz a parkolóautomatákhoz, nem mindenhol van kártyaolvasó."
+            ],
+            "ro": [
+              "Folosiți oglinzile încălzite pentru o vizibilitate mai bună pe ploaie.",
+              "Parcările etajate din centru sunt de obicei uscate și sigure.",
+              "Pavajul umed poate prelungi distanța de frânare.",
+              "Aveți mărunțiș pentru automatele de parcare care nu acceptă carduri."
+            ],
+            "en": [
+              "Use heated side mirrors for better visibility during rain.",
+              "Downtown parking garages are usually dry and safe.",
+              "Wet cobblestones can increase your braking distance.",
+              "Keep small change ready for parking meters that may not take cards."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch Hrodna erfordert Geduld beim Enteisen. Wir starten an der Kalozha-Kirche, wo der Blick auf den gefrorenen Fluss atemberaubend ist.\n\nMittags parken wir strategisch nah an den Schlössern, um die Kältephasen draußen kurz zu halten. Die Straßen sind meist gut geräumt, aber Vorsicht in den Nebenstraßen.\n\nAm Nachmittag besuchen wir die Synagoge und parken schließlich am Sowjetskaja-Platz, wo die Winterbeleuchtung der Kathedrale eine festliche Stimmung verbreitet.",
+            "hu": "A téli autózás Grodnóban türelmet igényel a jégtelenítésnél. A Kalozha-templomnál kezdünk, ahol a kilátás a befagyott folyóra lélegzetelállító.\n\nDélben stratégiailag közel parkolunk a várakhoz, hogy lerövidítsük a kinti hidegben töltött időt. Az utak többnyire tiszták, de a mellékutcákban óvatosan.\n\nDélután meglátogatjuk a Zsinagógát, végül a Szovjetszkaja téren parkolunk, ahol a katedrális téli kivilágítása ünnepi hangulatot áraszt.",
+            "ro": "O călătorie cu mașina prin Hrodna iarna necesită răbdare la dezghețare. Începem la Biserica Kalozha, unde vederea râului înghețat este uluitoare.\n\nLa prânz parcăm strategic aproape de castele pentru a minimiza timpul petrecut în ger. Drumurile sunt de obicei deszăpezite, dar atenție pe străzile secundare.\n\nDupă-amiaza vizităm Sinagoga și parcăm în Piața Sovetskaya, unde iluminatul de iarnă al catedralei creează o atmosferă festivă.",
+            "en": "A winter drive through Hrodna requires patience during de-icing. We start at Kalozha Church, where the view of the frozen river is breathtaking.\n\nAt noon, we park strategically close to the castles to keep outdoor time in the cold short. Roads are mostly cleared, but be careful on side streets.\n\nIn the afternoon, we visit the Synagogue and finally park at Sovetskaya Square, where the cathedral's winter lighting spreads a festive mood."
+          },
+          "stops": [
+            {
+              "name": "Kalozha Church",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz warmlaufen, während Sie die Aussicht genießen.",
+                "hu": "Hagyja a motort kicsit melegedni, amíg élvezi a kilátást.",
+                "ro": "Lăsați motorul să se încălzească puțin în timp ce admirați priveliștea.",
+                "en": "Let the engine warm up for a bit while you enjoy the view."
+              }
+            },
+            {
+              "name": "Cluster Parking: Castle Area",
+              "tip_5lang": {
+                "de": "Achten Sie beim Parken auf Schneehaufen am Rand.",
+                "hu": "Parkoláskor ügyeljen a széleken lévő hóbuckákra.",
+                "ro": "Atenție la mormanele de zăpadă de pe margine când parcați.",
+                "en": "Watch out for snow piles at the edge when parking."
+              }
+            },
+            {
+              "name": "Old Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem Schlossrundgang.",
+                "hu": "Használja az ülésfűtést a várnéző körút után.",
+                "ro": "Folosiți încălzirea în scaune după vizitarea castelului.",
+                "en": "Use the seat heating after your castle tour."
+              }
+            },
+            {
+              "name": "New Castle",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann glatt sein; steigen Sie vorsichtig aus.",
+                "hu": "A parkoló csúszós lehet; óvatosan szálljon ki.",
+                "ro": "Parcarea poate fi alunecoasă; coborâți cu atenție.",
+                "en": "The parking area can be slippery; exit the car carefully."
+              }
+            },
+            {
+              "name": "Great Synagogue",
+              "tip_5lang": {
+                "de": "Halten Sie Abstand zu anderen Fahrzeugen wegen möglicher Rutschgefahr.",
+                "hu": "Tartson távolságot más járművektől az esetleges csúszásveszély miatt.",
+                "ro": "Păstrați distanța față de alte vehicule din cauza riscului de derapare.",
+                "en": "Keep your distance from other vehicles due to potential skidding."
+              }
+            },
+            {
+              "name": "Cluster Parking: Sovetskaya Square",
+              "tip_5lang": {
+                "de": "Das Parkhaus schützt das Auto vor erneutem Einschneien.",
+                "hu": "A parkolóház megvédi az autót az újabb behavazódástól.",
+                "ro": "Parcarea acoperită protejează mașina de ninsori noi.",
+                "en": "The parking garage protects the car from getting covered in fresh snow."
+              }
+            },
+            {
+              "name": "St. Francis Xavier Cathedral",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche zum Aufwärmen vor der Rückfahrt.",
+                "hu": "Látogasson el a templomba átmelegedni a visszautat megelőzően.",
+                "ro": "Vizitați biserica pentru a vă încălzi înainte de drumul de întoarcere.",
+                "en": "Visit the church to warm up before your return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Belarus gesetzlich vorgeschrieben und hier absolut notwendig.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Vermeiden Sie steile Gassen in der Nähe des Memels bei Glatteis.",
+              "Ein kleiner Eiskratzer im Handschuhfach spart viel Zeit am Morgen."
+            ],
+            "hu": [
+              "A téli gumi Fehéroroszországban kötelező és itt elengedhetetlen.",
+              "Töltsön fagyállót a szélvédőmosó tartályba.",
+              "Jegesedéskor kerülje a Nyeman közeli meredek utcákat.",
+              "Egy kis jégkaparó a kesztyűtartóban sok időt spórol reggelente."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Belarus și sunt esențiale aici.",
+              "Puneți lichid de parbriz rezistent la îngheț.",
+              "Evitați străzile abrupte de lângă râul Neman în caz de polei.",
+              "O racletă mică în torpedou economisește mult timp dimineața."
+            ],
+            "en": [
+              "Winter tires are legally required in Belarus and absolutely necessary here.",
+              "Fill your windshield washer reservoir with anti-freeze fluid.",
+              "Avoid steep alleys near the Neman River when ice is expected.",
+              "A small ice scraper in the glove box saves a lot of time in the morning."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1498,6 +2116,188 @@
           "Routes can be confusing, so use a map app to plan your journey.",
           "Always validate your ticket to avoid a fine."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der öffentliche Nahverkehr in Hrodna bietet einen trockenen Weg durch die Geschichte. Wir starten am Schlosshügel, wo die Haltestellen meist überdacht sind.\n\nMittags pendeln wir zwischen dem Alten und Neuen Schloss, wobei wir die Buswartezeiten zur Erholung nutzen. Nachmittags bringt uns der Bus zum Sowjetskaja-Platz, direkt vor die Tore der Kathedrale.\n\nDie Fahrt zur Synagoge erfolgt mit einer der zentralen Linien, wobei wir den Blick auf die verregnete Stadt aus dem Fenster genießen.",
+            "hu": "Grodnó tömegközlekedése száraz utat biztosít a történelemben. A Várhegynél kezdünk, ahol a megállók többnyire fedettek.\n\nDélben az Öreg- és Újvár között ingázunk, kihasználva a buszra várás idejét a pihenésre. Délután a busz a Szovjetszkaja térre visz, közvetlenül a katedrális kapujához.\n\nA Zsinagógához az egyik központi járattal jutunk el, élvezve az esős város látványát az ablakból.",
+            "ro": "Transportul public din Grodno oferă o cale uscată prin istorie. Începem la Dealul Castelului, unde stațiile sunt în mare parte acoperite.\n\nLa prânz pendulăm între Castelul Vechi și cel Nou, folosind timpii de așteptare pentru odihnă. După-amiaza autobuzul ne duce în Piața Sovetskaya, chiar la porțile catedralei.\n\nDrumul spre Sinagogă se face cu una dintre liniile centrale, bucurându-ne de vederea orașului ploios de pe fereastră.",
+            "en": "Hrodna's public transit provides a dry way through history. We start at Castle Hill, where the stops are mostly covered.\n\nAt noon, we commute between the Old and New Castles, using the bus waiting times to rest. In the afternoon, the bus takes us to Sovetskaya Square, right to the cathedral gates.\n\nThe journey to the Synagogue is via one of the central lines, enjoying the view of the rainy city from the window."
+          },
+          "stops": [
+            {
+              "name": "District: Castle Hill",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Wartehäuschen, um die Route im Trockenen zu planen.",
+                "hu": "Használja a várótermet az útvonal szárazon történő megtervezéséhez.",
+                "ro": "Folosiți adăpostul stației pentru a planifica ruta la uscat.",
+                "en": "Use the bus shelter to plan your route while staying dry."
+              }
+            },
+            {
+              "name": "Old Castle",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Schritte vom Museumseingang entfernt.",
+                "hu": "A megálló csak néhány lépésre van a múzeum bejáratától.",
+                "ro": "Stația este la doar câțiva pași de intrarea în muzeu.",
+                "en": "The stop is only a few steps away from the museum entrance."
+              }
+            },
+            {
+              "name": "New Castle",
+              "tip_5lang": {
+                "de": "Kurze Fahrzeit bedeutet weniger Zeit im Regen.",
+                "hu": "A rövid utazási idő kevesebb esőben töltött időt jelent.",
+                "ro": "Timpul scurt de călătorie înseamnă mai puțin timp petrecut în ploaie.",
+                "en": "Short travel time means less time spent in the rain."
+              }
+            },
+            {
+              "name": "District: Sovetskaya Square",
+              "tip_5lang": {
+                "de": "Dies ist ein wichtiger Umsteigepunkt mit vielen überdachten Bereichen.",
+                "hu": "Ez egy fontos átszállópont sok fedett területtel.",
+                "ro": "Acesta este un punct important de transfer, cu multe zone acoperite.",
+                "en": "This is a key transfer point with many sheltered areas."
+              }
+            },
+            {
+              "name": "St. Francis Xavier Cathedral",
+              "tip_5lang": {
+                "de": "Steigen Sie direkt vor der Kirche aus, um Nässe zu vermeiden.",
+                "hu": "Szálljon le közvetlenül a templom előtt, hogy elkerülje az ázást.",
+                "ro": "Coborâți chiar în fața bisericii pentru a evita ploaia.",
+                "en": "Get off right in front of the church to avoid getting wet."
+              }
+            },
+            {
+              "name": "Great Synagogue",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan per App, um Wartezeiten im Regen zu minimieren.",
+                "hu": "Ellenőrizze a menetrendet applikáción, hogy minimálisra csökkentse az esőben várakozást.",
+                "ro": "Verificați programul prin aplicație pentru a minimiza așteptarea în ploaie.",
+                "en": "Check the schedule via app to minimize waiting time in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten beim Fahrer oder an Kiosken im Voraus.",
+              "Nutzen Sie die O-Busse; sie sind oft weniger überfüllt bei Regen.",
+              "Achten Sie auf beschlagene Scheiben; Ansagen helfen bei der Orientierung.",
+              "Die Haltestellenanzeigen im Inneren sind meist zuverlässig."
+            ],
+            "hu": [
+              "Vásároljon jegyet előre a sofőrnél vagy az újságárusoknál.",
+              "Használja a trolibuszokat; esőben gyakran kevésbé zsúfoltak.",
+              "Ügyeljen a bepárásodott ablakokra; a hangosbemondó segít a tájékozódásban.",
+              "A járműveken belüli megállójelzők többnyire megbízhatóak."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans de la șofer sau de la chioșcuri.",
+              "Folosiți troleibuzele; sunt adesea mai puțin aglomerate pe ploaie.",
+              "Atenție la geamurile aburite; anunțurile vocale ajută la orientare.",
+              "Afișajele stațiilor din interior sunt de obicei de încredere."
+            ],
+            "en": [
+              "Buy tickets in advance from the driver or at kiosks.",
+              "Use trolleybuses; they are often less crowded during rain.",
+              "Watch out for fogged-up windows; voice announcements help with orientation.",
+              "The stop displays inside the vehicles are usually reliable."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Transit in Hrodna ist die komfortabelste Art, die Stadt zu sehen. Wir starten am Schlosshügel und genießen die wohlige Wärme in den Bussen.\n\nMittags bieten die Fahrten zwischen den historischen Schlössern eine willkommene Aufwärmpause. Nachmittags erreichen wir den beleuchteten Sowjetskaja-Platz, während draußen der Schnee fällt.\n\nDie Tour endet an der Synagoge, wobei die beheizten Fahrzeuge den Kontrast zur klirrenden Kälte draußen perfekt machen.",
+            "hu": "A téli tömegközlekedés Grodnóban a legkényelmesebb módja a városnézésnek. A Várhegyen kezdünk, élvezve a buszok melengető belső terét.\n\nDélben a történelmi várak közötti utazás örömteli felmelegedési szünetet kínál. Délután elérjük a kivilágított Szovjetszkaja teret, miközben odakint esik a hó.\n\nA túra a Zsinagógánál ér véget, ahol a fűtött járművek tökéletes kontrasztot alkotnak a kinti metsző hideggel.",
+            "ro": "Transportul de iarnă în Grodno este cel mai confortabil mod de a vedea orașul. Începem la Dealul Castelului și ne bucurăm de căldura plăcută din autobuze.\n\nLa prânz, călătoriile între castelele istorice oferă o pauză de încălzire binevenită. După-amiaza ajungem în Piața Sovetskaya iluminată, în timp ce afară ninge.\n\nTurul se încheie la Sinagogă, unde vehiculele încălzite fac contrastul perfect cu gerul de afară.",
+            "en": "Winter transit in Hrodna is the most comfortable way to see the city. We start at Castle Hill and enjoy the cozy warmth in the buses.\n\nAt noon, the rides between the historic castles offer a welcome warm-up break. In the afternoon, we reach the illuminated Sovetskaya Square while snow falls outside.\n\nThe tour ends at the Synagogue, where the heated vehicles provide a perfect contrast to the biting cold outside."
+          },
+          "stops": [
+            {
+              "name": "District: Castle Hill",
+              "tip_5lang": {
+                "de": "Warten Sie in nahegelegenen Gebäuden, falls der Bus Verspätung hat.",
+                "hu": "Várjon a közeli épületekben, ha a busz késik.",
+                "ro": "Așteptați în clădirile din apropiere dacă autobuzul întârzie.",
+                "en": "Wait in nearby buildings if the bus is delayed."
+              }
+            },
+            {
+              "name": "Old Castle",
+              "tip_5lang": {
+                "de": "Der Weg zur Haltestelle kann vereist sein; gehen Sie vorsichtig.",
+                "hu": "A megállóhoz vezető út jeges lehet; járjon óvatosan.",
+                "ro": "Drumul spre stație poate fi înghețat; mergeți cu atenție.",
+                "en": "The path to the stop can be icy; walk carefully."
+              }
+            },
+            {
+              "name": "New Castle",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verschneite Stadt während der Fahrt.",
+                "hu": "Élvezze a havas város látványát utazás közben.",
+                "ro": "Bucurați-vă de vederea orașului înzăpezit în timpul călătoriei.",
+                "en": "Enjoy the view of the snowy city during the ride."
+              }
+            },
+            {
+              "name": "District: Sovetskaya Square",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle mit guter Anbindung zu warmen Cafés.",
+                "hu": "Központi megálló jó összeköttetéssel a meleg kávézókhoz.",
+                "ro": "Stație centrală cu acces bun la cafenele calde.",
+                "en": "Central stop with good connections to warm cafes."
+              }
+            },
+            {
+              "name": "St. Francis Xavier Cathedral",
+              "tip_5lang": {
+                "de": "Die Wärme im Inneren der Kathedrale ist nach der Busfahrt angenehm.",
+                "hu": "A katedrális belső melege kellemes a buszozás után.",
+                "ro": "Căldura din interiorul catedralei este plăcută după călătoria cu autobuzul.",
+                "en": "The warmth inside the cathedral is pleasant after the bus ride."
+              }
+            },
+            {
+              "name": "Great Synagogue",
+              "tip_5lang": {
+                "de": "Halten Sie Ausschau nach den gelben Bussen; sie sind im Schnee gut sichtbar.",
+                "hu": "Figyelje a sárga buszokat; a hóban jól láthatóak.",
+                "ro": "Căutați autobuzele galbene; sunt bine vizibile în zăpadă.",
+                "en": "Look out for the yellow buses; they are clearly visible in the snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse und O-Busse sind im Winter meist gut beheizt.",
+              "Fahrpläne können sich bei starkem Schneefall leicht verschieben.",
+              "Tragen Sie rutschfeste Schuhe für den Weg von der Haltestelle zum Ziel.",
+              "Nutzen Sie mobile Apps zur Echtzeitverfolgung der Fahrzeuge."
+            ],
+            "hu": [
+              "A buszok és trolibuszok télen többnyire jól fűtöttek.",
+              "Erős havazáskor a menetrendek kismértékben módosulhatnak.",
+              "Viseljen csúszásgátló cipőt a megállótól a célig tartó úton.",
+              "Használjon mobilalkalmazást a járművek valós idejű követéséhez."
+            ],
+            "ro": [
+              "Autobuzele și troleibuzele sunt de obicei bine încălzite iarna.",
+              "Orarele se pot modifica ușor în caz de ninsori abundente.",
+              "Purtați încălțăminte antiderapantă pentru drumul de la stație la destinație.",
+              "Folosiți aplicații mobile pentru urmărirea în timp real a vehiculelor."
+            ],
+            "en": [
+              "Buses and trolleybuses are usually well-heated in winter.",
+              "Schedules may shift slightly during heavy snowfall.",
+              "Wear non-slip shoes for the walk from the stop to your destination.",
+              "Use mobile apps for real-time tracking of vehicles."
+            ]
+          }
+        }
       }
     }
   }

@@ -287,6 +287,206 @@
           "Many cafes offer free Wi-Fi.",
           "Keep an eye out for the many sculptures and artworks throughout the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Rathaus, wo die umliegenden Gassen Schutz vor Wind bieten. Mittags ziehen Sie sich in die Spinderihallerne zurück, ein weitläufiges Kulturzentrum in einer alten Spinnerei. Den Nachmittag verbringen Sie im Økolariet, das komplett überdacht und interaktiv ist. Den Tag schließen Sie am Hafen ab; die Architektur von Fjordenhus wirkt bei grauem Himmel besonders imposant.",
+            "hu": "Kezdje a városházánál, ahol a szűk utcák védenek a széltől. Délben vonuljon be a Spinderihallerne kulturális központba, amely egy régi fonodában kapott helyet. A délutánt töltse az Økolariet interaktív kiállításain, ahol garantáltan száraz marad. Az estét a kikötőben zárja; a Fjordenhus téglafalai és a Bølgen hullámai drámai látványt nyújtanak esős időben is.",
+            "ro": "Începeți la primărie, profitând de străzile înguste pentru adăpost. La prânz, refugiați-vă în Spinderihallerne, un centru cultural vast într-o fostă filatură. Petreceți după-amiaza la Økolariet, care este complet acoperit și interactiv. Încheiați ziua în port; arhitectura clădirii Fjordenhus arată deosebit de impunătoare sub cerul plumburiu al fiordului.",
+            "en": "Start at the Town Hall, using the narrow streets for wind protection. At midday, retreat to Spinderihallerne, a spacious culture center in an old spinning mill. Spend the afternoon at Økolariet, which is entirely indoor and interactive. Finish the day at the harbor; the architecture of Fjordenhus looks particularly imposing under rainy fjord skies."
+          },
+          "stops": [
+            {
+              "name": "Vejle Town Hall",
+              "tip_5lang": {
+                "de": "Unter den Arkaden der Einkaufsstraße bleiben Sie trocken.",
+                "hu": "A sétálóutca árkádjai alatt védve maradhat az esőtől.",
+                "ro": "Rămâneți sub arcadele străzii pietonale pentru a evita ploaia.",
+                "en": "Stay under the shopping street arcades to keep dry."
+              }
+            },
+            {
+              "name": "St. Nicolai Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den stärksten Schauer abzuwarten.",
+                "hu": "Csendes hely a legerősebb záporok kivárására.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea ploii torențiale.",
+                "en": "A peaceful place to wait out the heaviest showers."
+              }
+            },
+            {
+              "name": "Vejle Windmill",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem steilen Weg; das Pflaster kann rutschig sein.",
+                "hu": "Vigyázat a meredek úton; a macskakő csúszós lehet.",
+                "ro": "Atenție pe drumul abrupt; pavajul poate fi alunecos.",
+                "en": "Careful on the steep path; the cobblestones can be slippery."
+              }
+            },
+            {
+              "name": "Culture Museum Spinderihallerne",
+              "tip_5lang": {
+                "de": "Perfektes Indoor-Ziel mit Café und lokaler Geschichte.",
+                "hu": "Tökéletes beltéri célpont kávézóval és helytörténettel.",
+                "ro": "Destinație interioară perfectă, cu cafenea și istorie locală.",
+                "en": "Perfect indoor destination with a café and local history."
+              }
+            },
+            {
+              "name": "Økolariet",
+              "tip_5lang": {
+                "de": "Kostenloser Eintritt und komplett überdachte Ausstellungen.",
+                "hu": "Ingyenes belépés és teljesen fedett kiállítások.",
+                "ro": "Intrare gratuită și expoziții complet acoperite.",
+                "en": "Free entry and entirely indoor exhibitions."
+              }
+            },
+            {
+              "name": "Fjordenhus",
+              "tip_5lang": {
+                "de": "Das Erdgeschoss ist öffentlich und bietet Schutz vor Regen.",
+                "hu": "A földszint nyilvános és védelmet nyújt az eső elől.",
+                "ro": "Parterul este public și oferă adăpost împotriva ploii.",
+                "en": "The ground floor is public and provides shelter from rain."
+              }
+            },
+            {
+              "name": "Bølgen (The Wave)",
+              "tip_5lang": {
+                "de": "Die Architektur spiegelt sich schön in den Pfützen am Kai.",
+                "hu": "Az épület látványosan tükröződik a rakparti tócsákban.",
+                "ro": "Arhitectura se reflectă frumos în bălțile de pe chei.",
+                "en": "The architecture reflects beautifully in the puddles on the quay."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bringen Sie einen stabilen Regenschirm mit, da der Wind am Fjord stark sein kann.",
+              "Das Økolariet ist ein ideales Ziel, um zwei Stunden im Trockenen zu verbringen.",
+              "Die Fußgängerzone bietet viele Cafés für kurze Pausen.",
+              "Nutzen Sie die wetterfesten Informationstafeln am Hafen."
+            ],
+            "hu": [
+              "Vigyen erős esernyőt, mert a fjord felőli szél feltámadhat.",
+              "Az Økolariet ideális hely két óra szárazon töltött időhöz.",
+              "A sétálóutcán sok kávézó kínál menedéket a záporok elől.",
+              "A kikötői utak burkolata esőben is jól járható, de szeles."
+            ],
+            "ro": [
+              "Aduceți o umbrelă rezistentă, deoarece vântul dinspre fiord poate fi puternic.",
+              "Økolariet este o destinație ideală pentru a petrece două ore la adăpost.",
+              "Zona pietonală are multe cafenele pentru pauze scurte.",
+              "Pavajul din port este sigur, dar zona este expusă vântului."
+            ],
+            "en": [
+              "Bring a sturdy umbrella as fjord winds can be quite strong.",
+              "Økolariet is an ideal spot to spend two hours staying dry.",
+              "The pedestrian street offers many cafés for short breaks.",
+              "Harbor paths are well-paved but can be very windy during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Vejle mit seiner gemütlichen Beleuchtung im Zentrum. Mittags bietet die St. Nicolai Kirche einen warmen Rückzugsort. Da es bereits gegen 16:00 Uhr dunkel wird, verbringen Sie den späten Nachmittag am Hafen, wo Fjordenhus und Bølgen spektakulär illuminiert sind. Die kalte Meeresbrise am Fjord wird durch die moderne Architektur und das warme Licht der Stadt ausgeglichen.",
+            "hu": "Fedezze fel a téli Vejle hangulatos fényeit a belvárosban. Délben a Szent Miklós-templom nyújt meleg menedéket. Mivel 16:00 körül már sötétedik, a késő délutánt töltse a kikötőben, ahol a Fjordenhus és a Bølgen díszkivilágítása lenyűgöző látványt nyújt. A fiord felőli hideg szelet ellensúlyozzák a város barátságos kávézói és modern fényei.",
+            "ro": "Experimentați Vejle pe timp de iarnă, cu iluminatul său primitor din centru. La prânz, Biserica Sf. Nicolae oferă un refugiu cald. Deoarece se întunecă în jurul orei 16:00, petreceți sfârșitul după-amiezii în port, unde Fjordenhus și Bølgen sunt iluminate spectaculos. Briza rece a fiordului este compensată de arhitectura modernă și luminile calde ale orașului.",
+            "en": "Experience winter in Vejle with its cozy lighting in the center. At midday, St. Nicolai Church provides a warm sanctuary. Since it gets dark around 16:00, spend the late afternoon at the harbor, where Fjordenhus and Bølgen are spectacularly illuminated. The cold sea breeze is offset by the city's friendly cafés and modern light installations."
+          },
+          "stops": [
+            {
+              "name": "Vejle Town Hall",
+              "tip_5lang": {
+                "de": "Die Weihnachtsbeleuchtung in der Nähe ist ab November aktiv.",
+                "hu": "A közeli ünnepi kivilágítás novembertől látható.",
+                "ro": "Iluminatul festiv din apropiere este activ din noiembrie.",
+                "en": "Festive lighting nearby is active from November onwards."
+              }
+            },
+            {
+              "name": "St. Nicolai Church",
+              "tip_5lang": {
+                "de": "Gut beheizter Innenraum, ideal zum Aufwärmen.",
+                "hu": "Jól fűtött belső tér, ideális átmelegedni.",
+                "ro": "Interior bine încălzit, ideal pentru a vă încălzi.",
+                "en": "Well-heated interior, ideal for warming up."
+              }
+            },
+            {
+              "name": "Vejle Windmill",
+              "tip_5lang": {
+                "de": "Bester Aussichtspunkt für die Stadtlichter bei Dämmerung.",
+                "hu": "Legjobb kilátópont a városi fényekhez szürkületkor.",
+                "ro": "Cel mai bun punct de observație pentru luminile orașului la amurg.",
+                "en": "Best viewpoint for the city lights at twilight."
+              }
+            },
+            {
+              "name": "Culture Museum Spinderihallerne",
+              "tip_5lang": {
+                "de": "Das Museumscafé bietet heiße dänische Spezialitäten.",
+                "hu": "A múzeumi kávézó forró dán különlegességeket kínál.",
+                "ro": "Cafeneaua muzeului oferă specialități daneze calde.",
+                "en": "The museum café offers hot Danish specialties."
+              }
+            },
+            {
+              "name": "Økolariet",
+              "tip_5lang": {
+                "de": "Perfekt, um der Kälte für längere Zeit zu entfliehen.",
+                "hu": "Tökéletes hely, hogy hosszabb időre elmeneküljön a hideg elől.",
+                "ro": "Perfect pentru a scăpa de frig pentru o perioadă mai lungă.",
+                "en": "Perfect for escaping the cold for an extended period."
+              }
+            },
+            {
+              "name": "Fjordenhus",
+              "tip_5lang": {
+                "de": "Die Beleuchtung im Inneren betont die Backsteinstruktur.",
+                "hu": "A belső világítás kiemeli a téglafalak textúráját.",
+                "ro": "Iluminatul interior subliniază textura cărămizii.",
+                "en": "The interior lighting emphasizes the brickwork texture."
+              }
+            },
+            {
+              "name": "Bølgen (The Wave)",
+              "tip_5lang": {
+                "de": "Nach Sonnenuntergang (ca. 16:00 Uhr) am eindrucksvollsten.",
+                "hu": "Naplemente után (kb. 16:00) a leglátványosabb.",
+                "ro": "Cel mai impresionant după apusul soarelui (aprox. 16:00).",
+                "en": "Most impressive after sunset (around 16:00)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung ist wegen des Windes vom Vejle Fjord unerlässlich.",
+              "Die Sonne geht im Dezember bereits gegen 15:45 Uhr unter.",
+              "Viele Museen haben im Winter leicht verkürzte Öffnungszeiten.",
+              "Genießen Sie ein heißes Getränk in den Cafés der Mary's Shopping Mall."
+            ],
+            "hu": [
+              "A Vejle-fjord felőli szél miatt a réteges, meleg öltözet kötelező.",
+              "Decemberben a nap már 15:45 körül lemegy.",
+              "Télen egyes múzeumok nyitvatartása rövidebb lehet.",
+              "Kóstoljon meg egy forró italt a Mary's bevásárlóközpont kávézóiban."
+            ],
+            "ro": [
+              "Îmbrăcămintea groasă este esențială din cauza vântului dinspre fiord.",
+              "Soarele apune deja în jurul orei 15:45 în decembrie.",
+              "Unele muzee pot avea program redus pe timp de iarnă.",
+              "Savurați o băutură caldă în cafenelele din centrul comercial Mary's."
+            ],
+            "en": [
+              "Warm clothing is essential due to the biting winds from the fjord.",
+              "The sun sets as early as 15:45 in mid-December.",
+              "Check museum opening hours as they may be shorter in winter.",
+              "Enjoy a hot drink in the cafés at Mary's Shopping Mall."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -545,6 +745,188 @@
           "Denmark is very bike-friendly, use the designated bike lanes.",
           "A helmet is highly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert gute Ausrüstung, bietet aber leere Wege. Starten Sie am Hafen, wo die glänzenden Oberflächen von Bølgen und Fjordenhus fotogen sind. Mittags bieten die Museen im Zentrum lange Pausen im Trockenen. Die Fahrt zum Brückenaussichtspunkt führt über befestigte Wege, die auch bei Nässe sicher befahrbar sind.",
+            "hu": "Az esőben való kerékpározás jó felszerelést igényel, de üres utakat kínál. Kezdje a kikötőben, ahol a Bølgen és a Fjordenhus vizes felületei fotogének. Délben a belvárosi múzeumok hosszú, száraz pihenőt biztosítanak. A híd kilátópontjához vezető út burkolt, így nedves időben is biztonságosan járható.",
+            "ro": "O plimbare cu bicicleta în ploaie necesită echipament bun, dar oferă trasee libere. Începeți în port, unde suprafețele strălucitoare ale clădirilor sunt fotogenice. La prânz, muzeele din centru oferă pauze lungi la uscat. Drumul spre punctul de observație al podului este pavat și sigur chiar și pe ploaie.",
+            "en": "Cycling in the rain requires good gear but offers empty paths. Start at the harbor, where the wet surfaces of Bølgen and Fjordenhus are very photogenic. At midday, the city center museums provide long, dry breaks. The ride to the bridge viewpoint follows paved paths that remain safe even when wet."
+          },
+          "stops": [
+            {
+              "name": "Bølgen (The Wave)",
+              "tip_5lang": {
+                "de": "Vorsicht bei den Holzstegen am Hafen; sie sind rutschig.",
+                "hu": "Vigyázat a kikötői fapallókkal; vizesen csúsznak.",
+                "ro": "Atenție la pasarelele de lemn din port; sunt alunecoase.",
+                "en": "Be careful on the wooden piers; they get slippery when wet."
+              }
+            },
+            {
+              "name": "Fjordenhus",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich direkt am Eingang unter Dach.",
+                "hu": "Fedett kerékpártárolók találhatók közvetlenül a bejáratnál.",
+                "ro": "Suporturile de biciclete sunt acoperite, chiar lângă intrare.",
+                "en": "Covered bike racks are located right by the entrance."
+              }
+            },
+            {
+              "name": "Økolariet",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz direkt vor dem Gebäude.",
+                "hu": "Biztonságos tárolóhely közvetlenül az épület előtt.",
+                "ro": "Loc de parcare sigur direct în fața clădirii.",
+                "en": "Safe parking spot directly in front of the building."
+              }
+            },
+            {
+              "name": "Culture Museum Spinderihallerne",
+              "tip_5lang": {
+                "de": "Großer Innenhof bietet etwas Schutz beim Abstellen.",
+                "hu": "A nagy belső udvar védelmet nyújt a kerékpároknak.",
+                "ro": "Curtea interioară mare oferă protecție pentru biciclete.",
+                "en": "The large inner courtyard offers some shelter for bikes."
+              }
+            },
+            {
+              "name": "Vejle Town Hall & St. Nicolai Church",
+              "tip_5lang": {
+                "de": "Die Fußgängerzone erfordert bei Nässe langsames Fahren.",
+                "hu": "A sétálóövezetben lassabb tempó javasolt esőben.",
+                "ro": "Zona pietonală necesită viteză redusă pe timp de ploaie.",
+                "en": "The pedestrian zone requires slow riding in wet conditions."
+              }
+            },
+            {
+              "name": "Vejle Fjord Bridge Viewpoint",
+              "tip_5lang": {
+                "de": "Exponierter Punkt; Regenbekleidung ist hier wichtig.",
+                "hu": "Kitett hely; itt elengedhetetlen az esőruházat.",
+                "ro": "Punct expus; pelerina de ploaie este esențială aici.",
+                "en": "Exposed location; rain gear is essential here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie wasserdichte Packtaschen für Ihre Ausrüstung.",
+              "Achten Sie auf rutschige Markierungen auf dem Asphalt.",
+              "Vejle ist hügelig; Bremsen bei Nässe rechtzeitig prüfen.",
+              "Das Hafenviertel ist sehr exponiert gegenüber Seitenwinden."
+            ],
+            "hu": [
+              "Használjon vízálló táskákat a felszereléséhez.",
+              "Ügyeljen a csúszós útburkolati jelekre az aszfalton.",
+              "Vejle dombos; időben ellenőrizze a fékeket nedves úton.",
+              "A kikötői negyedben erős oldalszélre kell számítani."
+            ],
+            "ro": [
+              "Folosiți genți impermeabile pentru echipament.",
+              "Atenție la marcajele rutiere alunecoase de pe asfalt.",
+              "Vejle are dealuri; verificați frânele din timp pe carosabil umed.",
+              "Zona portului este foarte expusă vânturilor laterale."
+            ],
+            "en": [
+              "Use waterproof panniers to keep your belongings dry.",
+              "Watch out for slippery road markings on the asphalt.",
+              "Vejle is hilly; test your brakes early on wet descents.",
+              "The harbor district is very exposed to crosswinds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Vejle bietet klare Luft und tolle Lichtverhältnisse. Starten Sie am Hafen, bevor die kühle Brise zu stark wird. Mittags wärmen Sie sich in den Museen und Kirchen des Zentrums auf. Da die Dämmerung früh einsetzt, ist die Rückfahrt durch das beleuchtete Vejle-Tal besonders stimmungsvoll, mit Blick auf die beleuchtete Fjordbrücke.",
+            "hu": "A téli kerékpározás Vejlében tiszta levegőt és szép fényeket ígér. Kezdje a kikötőben, mielőtt a hűvös szél felerősödne. Délben melegedjen fel a belvárosi múzeumokban és templomokban. Mivel korán sötétedik, a visszaút a kivilágított Vejle-völgyön keresztül különösen hangulatos, rálátással a fjord hídjának fényeire.",
+            "ro": "Mersul cu bicicleta iarna în Vejle oferă aer curat și lumină clară. Începeți în port înainte ca briza rece să devină prea puternică. La prânz, încălziți-vă în muzeele și bisericile din centru. Deoarece amurgul vine devreme, drumul de întoarcere prin valea iluminată este deosebit de pitoresc.",
+            "en": "Winter cycling in Vejle offers crisp air and beautiful light. Start at the harbor before the sea breeze gets too cold. At midday, warm up in the city center museums and churches. Since twilight arrives early, the ride back through the illuminated Vejle valley is particularly atmospheric, with views of the bridge lights."
+          },
+          "stops": [
+            {
+              "name": "Bølgen (The Wave)",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die Fahrt entlang des Wassers nötig.",
+                "hu": "A vízparti tekeréshez kesztyű használata javasolt.",
+                "ro": "Mănușile sunt necesare pentru plimbarea pe malul apei.",
+                "en": "Gloves are essential for the ride along the waterfront."
+              }
+            },
+            {
+              "name": "Fjordenhus",
+              "tip_5lang": {
+                "de": "Das Backsteingebäude speichert etwas Wärme im Inneren.",
+                "hu": "A téglaépület belseje tartja a meleget, jó megálló.",
+                "ro": "Clădirea de cărămidă păstrează puțină căldură la interior.",
+                "en": "The brick building retains some heat inside, a good stop."
+              }
+            },
+            {
+              "name": "Økolariet",
+              "tip_5lang": {
+                "de": "Große Garderobe für sperrige Winterkleidung vorhanden.",
+                "hu": "Nagy ruhatár áll rendelkezésre a téli kabátoknak.",
+                "ro": "Garderobă mare disponibilă pentru hainele groase.",
+                "en": "Large cloakroom available for bulky winter gear."
+              }
+            },
+            {
+              "name": "Culture Museum Spinderihallerne",
+              "tip_5lang": {
+                "de": "Warmes Café ist ein idealer Stopp für Radfahrer.",
+                "hu": "A fűtött kávézó ideális megálló kerékpárosoknak.",
+                "ro": "Cafeneaua încălzită este un popas ideal pentru bicicliști.",
+                "en": "The heated café is an ideal stop for winter cyclists."
+              }
+            },
+            {
+              "name": "Vejle Town Hall & St. Nicolai Church",
+              "tip_5lang": {
+                "de": "Die Innenstadt ist meist gut von Schnee geräumt.",
+                "hu": "A belvárosban általában jól letakarítják a havat.",
+                "ro": "Centrul orașului este de obicei bine curățat de zăpadă.",
+                "en": "The city center is usually well-cleared of snow."
+              }
+            },
+            {
+              "name": "Vejle Fjord Bridge Viewpoint",
+              "tip_5lang": {
+                "de": "Starke Beleuchtung macht den Ort auch nachts sicher.",
+                "hu": "Az erős világítás miatt sötétben is biztonságos.",
+                "ro": "Iluminatul puternic face locul sigur și după lăsarea serii.",
+                "en": "Strong lighting makes the spot safe even after dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Funktionierende Lichter sind ab 15:30 Uhr unverzichtbar.",
+              "Vorsicht vor Glatteis auf den Holzbrücken am Hafen.",
+              "Tragen Sie winddichte Kleidung, besonders am Fjord.",
+              "Die Radwege werden im Winter vorrangig geräumt."
+            ],
+            "hu": [
+              "15:30 után a működő lámpák elengedhetetlenek.",
+              "Vigyázat a kikötői fahidakon előforduló jegesedéssel.",
+              "Viseljen szélálló ruhát, különösen a vízparton.",
+              "A kerékpárutakat télen elsőbbséggel takarítják."
+            ],
+            "ro": [
+              "Luminile funcționale sunt indispensabile după ora 15:30.",
+              "Atenție la gheața de pe podurile de lemn din port.",
+              "Purtați haine rezistente la vânt, mai ales lângă fiord.",
+              "Pistele de biciclete sunt curățate cu prioritate iarna."
+            ],
+            "en": [
+              "Working lights are mandatory and essential after 15:30.",
+              "Watch out for black ice on wooden bridges at the harbor.",
+              "Wear windproof clothing, especially near the open water.",
+              "Main cycle paths are prioritized for snow clearance."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -809,6 +1191,188 @@
           "The cluster-walking method saves time looking for parking.",
           "Plan your route between clusters in advance to avoid traffic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Vejle bei Regen bequem zu erkunden. Starten Sie im Zentrum, wo Parkhäuser direkten Zugang zur Fußgängerzone bieten. Mittags besuchen Sie die Spinderihallerne, die über eigene Parkplätze verfügt. Der Nachmittag am Hafen ist ideal, da Sie Fjordenhus und Bølgen fast direkt vom Parkplatz aus erreichen können, ohne lange im Regen zu stehen.",
+            "hu": "Autóval Vejle esőben is kényelmesen felfedezhető. Kezdje a központban, ahol a parkolóházakból közvetlen út vezet a sétálóutcához. Délben látogasson el a Spinderihallerne-be, amely saját parkolóval rendelkezik. A délutáni kikötői program ideális, mert a Fjordenhus és a Bølgen szinte közvetlenül a parkolóból elérhető.",
+            "ro": "Cu mașina, Vejle este ușor de explorat chiar și pe ploaie. Începeți în centru, unde parcările oferă acces rapid spre zona pietonală. La prânz, vizitați Spinderihallerne, care are parcare proprie. După-amiaza în port este ideală, deoarece puteți ajunge la Fjordenhus și Bølgen rapid din parcare.",
+            "en": "Exploring Vejle by car is very convenient during rain. Start in the center, where parking garages offer direct access to the pedestrian area. At midday, visit Spinderihallerne, which has its own parking lot. The afternoon at the harbor is ideal as you can reach Fjordenhus and Bølgen almost directly from your car."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking & Vejle Town Hall",
+              "tip_5lang": {
+                "de": "Parkhaus 'Tróndur' bietet trockenen Zugang zum Zentrum.",
+                "hu": "A 'Tróndur' parkolóház száraz utat biztosít a központba.",
+                "ro": "Parcarea 'Tróndur' oferă acces acoperit spre centru.",
+                "en": "Parking garage 'Tróndur' offers dry access to the center."
+              }
+            },
+            {
+              "name": "St. Nicolai Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkhaus, Schirm mitnehmen.",
+                "hu": "Rövid séta a parkolótól, vigyen esernyőt.",
+                "ro": "Drum scurt pe jos din parcare, luați umbrela.",
+                "en": "Short walk from the parking garage, bring an umbrella."
+              }
+            },
+            {
+              "name": "Culture Museum Spinderihallerne",
+              "tip_5lang": {
+                "de": "Kostenlose Parkplätze direkt vor dem Haupteingang.",
+                "hu": "Ingyenes parkolóhelyek közvetlenül a főbejárat előtt.",
+                "ro": "Locuri de parcare gratuite chiar în fața intrării.",
+                "en": "Free parking spaces directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Harbor Parking & Fjordenhus",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Kai für minimalen Weg im Regen.",
+                "hu": "Parkoljon közvetlenül a rakparton a rövid séta érdekében.",
+                "ro": "Parcați chiar pe chei pentru a merge cât mai puțin prin ploaie.",
+                "en": "Park right on the quay to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Bølgen (The Wave)",
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man einen tollen Blick auf das Gebäude.",
+                "hu": "Az autóból is remek kilátás nyílik az épületre.",
+                "ro": "Din mașină aveți o priveliște excelentă asupra clădirii.",
+                "en": "You get a great view of the building even from the car."
+              }
+            },
+            {
+              "name": "Vejle Fjord Bridge",
+              "tip_5lang": {
+                "de": "Die Fahrt über die Brücke bietet tolle Aussichten bei Regen.",
+                "hu": "A hídon való áthajtás esőben is remek kilátást nyújt.",
+                "ro": "Traversarea podului oferă priveliști frumoase chiar și pe ploaie.",
+                "en": "Driving across the bridge offers great views despite the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser 'Albert' oder 'Tróndur' im Zentrum.",
+              "Die Park-Apps 'EasyPark' oder 'ParkMan' funktionieren überall.",
+              "Bei starkem Regen kann der Verkehr am Hafen zunehmen.",
+              "Die Brücke kann bei Sturm für hohe Fahrzeuge gesperrt sein."
+            ],
+            "hu": [
+              "Használja az 'Albert' vagy 'Tróndur' parkolóházakat a központban.",
+              "Az 'EasyPark' vagy 'ParkMan' appok mindenhol működnek.",
+              "Erős esőben a forgalom lassabb lehet a kikötő környékén.",
+              "Viharos szélben a hidat lezárhatják a magas járművek elől."
+            ],
+            "ro": [
+              "Folosiți parcările 'Albert' sau 'Tróndur' din centru.",
+              "Aplicațiile 'EasyPark' sau 'ParkMan' funcționează peste tot.",
+              "Traficul în zona portului poate fi mai intens pe ploaie.",
+              "Podul poate fi închis pentru vehicule înalte în caz de furtună."
+            ],
+            "en": [
+              "Use the 'Albert' or 'Tróndur' parking garages in the center.",
+              "Parking apps like 'EasyPark' or 'ParkMan' work everywhere.",
+              "Traffic near the harbor can be heavier during rain.",
+              "The bridge might be closed to high vehicles during heavy storms."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Vejle lässt sich am besten mit dem Auto und kurzen Fußwegen erkunden. Starten Sie im Stadtzentrum, wo die warmen Geschäfte locken. Mittags bietet die Spinderihallerne eine gemütliche Atmosphäre im Inneren. Besuchen Sie den Hafen bei Sonnenuntergang (ca. 16:00 Uhr); die Fahrt über die beleuchtete Fjordbrücke ist im Winter ein echtes Highlight.",
+            "hu": "A téli Vejle autóval és rövid sétákkal fedezhető fel leginkább. Kezdjen a belvárosban, ahol a fűtött üzletek hívogatnak. Délben a Spinderihallerne belső terei nyújtanak kellemes hangulatot. Látogasson el a kikötőbe naplementekor (kb. 16:00); a kivilágított hídon való áthajtás téli fénypont.",
+            "ro": "Vejle pe timp de iarnă se explorează cel mai bine cu mașina și plimbări scurte. Începeți în centru, unde magazinele încălzite sunt primitoare. La prânz, Spinderihallerne oferă o atmosferă plăcută. Vizitați portul la apus (aprox. 16:00); traversarea podului iluminat este un moment special.",
+            "en": "Winter in Vejle is best explored by car combined with short walks. Start in the city center, where warm shops provide a cozy escape. At midday, Spinderihallerne offers a pleasant indoor atmosphere. Visit the harbor at sunset (around 16:00); driving across the illuminated bridge is a winter highlight."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking & Vejle Town Hall",
+              "tip_5lang": {
+                "de": "Parkhäuser sind im Winter angenehm temperiert.",
+                "hu": "A parkolóházak télen is kellemes hőmérsékletűek.",
+                "ro": "Parcările acoperite au o temperatură plăcută iarna.",
+                "en": "Parking garages maintain a manageable temperature in winter."
+              }
+            },
+            {
+              "name": "St. Nicolai Church",
+              "tip_5lang": {
+                "de": "Zentraler Ort für eine kurze, warme Besichtigung.",
+                "hu": "Központi hely egy rövid, fűtött látogatáshoz.",
+                "ro": "Loc central pentru o vizită scurtă și călduroasă.",
+                "en": "Central spot for a short, warm indoor visit."
+              }
+            },
+            {
+              "name": "Culture Museum Spinderihallerne",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Eingang, wenig Kälteexposition.",
+                "hu": "A parkoló közel van a bejárathoz, kevés idő a hidegben.",
+                "ro": "Parcarea este aproape de intrare, expunere minimă la frig.",
+                "en": "Parking is close to the entrance, minimizing cold exposure."
+              }
+            },
+            {
+              "name": "Harbor Parking & Fjordenhus",
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus sieht man die Architekturbeleuchtung.",
+                "hu": "A parkolóból is jól látszik az épületek díszkivilágítása.",
+                "ro": "Din parcare se vede bine iluminatul arhitectural.",
+                "en": "Architectural lighting is clearly visible from the parking area."
+              }
+            },
+            {
+              "name": "Bølgen (The Wave)",
+              "tip_5lang": {
+                "de": "Die weiße Fassade wirkt im Winterlicht besonders rein.",
+                "hu": "A fehér homlokzat különösen tiszta a téli fényben.",
+                "ro": "Fațada albă pare foarte pură în lumina de iarnă.",
+                "en": "The white facade looks particularly crisp in winter light."
+              }
+            },
+            {
+              "name": "Vejle Fjord Bridge",
+              "tip_5lang": {
+                "de": "Achten Sie auf Seitenwinde und eventuelle Straßenglätte.",
+                "hu": "Ügyeljen az oldalszélre és az esetleges jegesedésre.",
+                "ro": "Atenție la vânturile laterale și posibila polei.",
+                "en": "Watch out for crosswinds and potential icy patches."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Dänemark bei diesen Bedingungen Pflicht.",
+              "Eiskratzer und Schneebesen im Auto bereithalten.",
+              "Die Parkhäuser sind ideal, um das Auto schnee- und eisfrei zu halten.",
+              "Die Hauptstraßen in Vejle werden sehr schnell geräumt."
+            ],
+            "hu": [
+              "Téli gumi használata ilyen körülmények között kötelező.",
+              "Legyen az autóban jégkaparó és hóseprű.",
+              "A parkolóházak ideálisak az autó hómentesen tartásához.",
+              "Vejle főútjait nagyon gyorsan megtisztítják a hótól."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în aceste condiții.",
+              "Aveți la îndemână o răzuitoare de gheață și o perie de zăpadă.",
+              "Parcările acoperite sunt ideale pentru a păstra mașina curată.",
+              "Străzile principale din Vejle sunt curățate foarte rapid."
+            ],
+            "en": [
+              "Winter tires are mandatory in Denmark under these conditions.",
+              "Keep an ice scraper and snow brush ready in your car.",
+              "Parking garages are ideal for keeping your car free of snow.",
+              "Major roads in Vejle are cleared of snow very efficiently."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1073,6 +1637,188 @@
           "Check bus schedules in advance, especially on weekends.",
           "Most buses have USB charging ports."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den ÖPNV, um in Vejle trocken von A nach B zu kommen. Starten Sie am Bahnhof, der direkt neben dem Økolariet liegt. Die Busse bringen Sie bequem zum Kulturmuseum und zum Hafen. Da die Haltestellen meist überdacht sind, ist das Warten auch bei Regen kein Problem. Der Tag endet am Hafen, von wo aus Sie mit dem Bus schnell zurück zum Bahnhof gelangen.",
+            "hu": "Használja a tömegközlekedést, hogy szárazon jusson el Vejle látnivalóihoz. Kezdje a vasútállomáson, amely az Økolariet mellett található. A buszok kényelmesen elviszik a kultúrmúzeumhoz és a kikötőbe is. A megállók többnyire fedettek, így a várakozás esőben sem okoz gondot. A nap a kikötőben zárul, ahonnan busszal gyorsan visszajuthat az állomásra.",
+            "ro": "Folosiți transportul public pentru a ajunge la obiectivele din Vejle fără a vă uda. Începeți la gară, situată chiar lângă Økolariet. Autobuzele vă duc confortabil la muzeul de cultură și în port. Stațiile sunt în mare parte acoperite, deci așteptarea nu este o problemă. Ziua se încheie în port, de unde autobuzul vă readuce rapid la gară.",
+            "en": "Use public transport to get around Vejle while staying dry. Start at the station, located right next to Økolariet. Buses take you comfortably to the culture museum and the harbor. Most stops are sheltered, making waiting easy even in the rain. The day ends at the harbor, from where a bus brings you quickly back to the station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Station & Økolariet",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet eine warme Wartehalle und Cafés.",
+                "hu": "Az állomáson fűtött váróterem és kávézók találhatók.",
+                "ro": "Gara oferă o sală de așteptare caldă și cafenele.",
+                "en": "The station offers a warm waiting area and cafés."
+              }
+            },
+            {
+              "name": "Vejle Town Hall",
+              "tip_5lang": {
+                "de": "Nur wenige Schritte von der Bushaltestelle entfernt.",
+                "hu": "Csak pár lépésnyire a buszmegállótól.",
+                "ro": "La doar câțiva pași de stația de autobuz.",
+                "en": "Only a few steps away from the bus stop."
+              }
+            },
+            {
+              "name": "St. Nicolai Church",
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt für viele Stadtbuslinien.",
+                "hu": "Számos városi buszvonal központi átszállópontja.",
+                "ro": "Punct central de transfer pentru multe linii de autobuz.",
+                "en": "Central transfer point for many city bus lines."
+              }
+            },
+            {
+              "name": "Bus Ride & Culture Museum Spinderihallerne",
+              "tip_5lang": {
+                "de": "Linie 2 hält fast direkt vor dem Museumseingang.",
+                "hu": "A 2-es busz szinte közvetlenül a múzeum előtt áll meg.",
+                "ro": "Linia 2 oprește aproape direct în fața muzeului.",
+                "en": "Bus line 2 stops almost directly in front of the museum."
+              }
+            },
+            {
+              "name": "Bus Ride & Fjordenhus",
+              "tip_5lang": {
+                "de": "Die Hafenbusse fahren im 20-Minuten-Takt.",
+                "hu": "A kikötői buszok 20 percenként járnak.",
+                "ro": "Autobuzele spre port circulă la fiecare 20 de minute.",
+                "en": "Harbor buses run every 20 minutes."
+              }
+            },
+            {
+              "name": "Bølgen (The Wave)",
+              "tip_5lang": {
+                "de": "Haltestelle bietet guten Schutz vor Wind und Regen.",
+                "hu": "A buszmegálló jól véd a széltől és az esőtől.",
+                "ro": "Stația de autobuz oferă protecție bună contra vântului.",
+                "en": "The bus stop provides good shelter from wind and rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket in der 'RejseBillet' App.",
+              "Die Busse in Vejle sind pünktlich und sauber.",
+              "Der Bahnhof (Vejle Trafikcenter) ist der ideale Knotenpunkt.",
+              "Nutzen Sie die Echtzeit-Anzeige an den Haltestellen."
+            ],
+            "hu": [
+              "Vásároljon napijegyet a 'RejseBillet' alkalmazásban.",
+              "A vejlei buszok pontosak és tiszták.",
+              "A vasútállomás (Trafikcenter) a tökéletes csomópont.",
+              "Használja a megállók valós idejű kijelzőit."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi prin aplicația 'RejseBillet'.",
+              "Autobuzele din Vejle sunt punctuale și curate.",
+              "Gara (Trafikcenter) este nodul ideal de transport.",
+              "Folosiți afișajele în timp real din stații."
+            ],
+            "en": [
+              "Purchase a day pass using the 'RejseBillet' app.",
+              "Buses in Vejle are punctual and well-maintained.",
+              "The station (Trafikcenter) is the perfect transit hub.",
+              "Check the real-time displays at the bus stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vejle mit dem ÖPNV im Winter ist effizient und warm. Die Busse sind gut beheizt und verbinden die wichtigsten Sehenswürdigkeiten schnell. Starten Sie am Bahnhof und erkunden Sie das Zentrum. Mittags ist das Museum Spinderihallerne ein toller Ort zum Verweilen. Den Abend am Hafen können Sie dank der regelmäßigen Busverbindungen genießen, ohne lange in der Kälte warten zu müssen.",
+            "hu": "Télen a vejlei tömegközlekedés hatékony és meleg. A buszok jól fűtöttek, és gyorsan összekötik a látnivalókat. Kezdje az állomáson, majd fedezze fel a központot. Délben a Spinderihallerne ideális fűtött helyszín. A kikötői estét is élvezheti, mert a sűrű buszjáratok miatt nem kell sokat várnia a hidegben.",
+            "ro": "Transportul public din Vejle este eficient și cald pe timp de iarnă. Autobuzele sunt bine încălzite și fac legătura rapid între obiective. Începeți la gară și explorați centrul. La prânz, Spinderihallerne este un loc primitor. Seara în port este plăcută, deoarece nu trebuie să așteptați mult în frig datorită autobuzelor dese.",
+            "en": "Public transport in Vejle is efficient and warm during winter. Buses are well-heated and connect all major sights quickly. Start at the station and explore the center. At midday, Spinderihallerne is a great indoor location. You can enjoy the evening at the harbor without long waits in the cold, thanks to frequent bus connections."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Station & Økolariet",
+              "tip_5lang": {
+                "de": "Die Bahnhofshalle ist im Winter ein guter Treffpunkt.",
+                "hu": "Az állomáscsarnok télen kiváló találkozóhely.",
+                "ro": "Holul gării este un loc bun de întâlnire iarna.",
+                "en": "The station hall is a great meeting point in winter."
+              }
+            },
+            {
+              "name": "Vejle Town Hall",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es viele beheizte Geschäfte.",
+                "hu": "A közelben számos fűtött üzlet található.",
+                "ro": "În apropiere se află multe magazine încălzite.",
+                "en": "Many heated shops are located in the immediate vicinity."
+              }
+            },
+            {
+              "name": "St. Nicolai Church",
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine friedliche, warme Pause.",
+                "hu": "A templom békés és meleg pihenőt kínál.",
+                "ro": "Biserica oferă o pauză liniștită și caldă.",
+                "en": "The church offers a peaceful and warm break."
+              }
+            },
+            {
+              "name": "Bus Ride & Culture Museum Spinderihallerne",
+              "tip_5lang": {
+                "de": "Der Bus ist die beste Wahl, um den Hügel zu meiden.",
+                "hu": "A busz a legjobb választás a domb elkerülésére.",
+                "ro": "Autobuzul este cea mai bună alegere pentru a evita dealul.",
+                "en": "The bus is the best way to avoid the uphill walk."
+              }
+            },
+            {
+              "name": "Bus Ride & Fjordenhus",
+              "tip_5lang": {
+                "de": "Warme Fahrt mit Blick auf den winterlichen Fjord.",
+                "hu": "Meleg utazás kilátással a téli fiordra.",
+                "ro": "Călătorie călduroasă cu vedere spre fiordul înghețat.",
+                "en": "Warm ride with views of the wintry fjord."
+              }
+            },
+            {
+              "name": "Bølgen (The Wave)",
+              "tip_5lang": {
+                "de": "Helle Beleuchtung macht die Bushaltestelle sicher.",
+                "hu": "Az erős kivilágítás biztonságossá teszi a megállót.",
+                "ro": "Iluminatul puternic face stația de autobuz sigură.",
+                "en": "Bright lighting makes the bus stop feel safe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Rejseplanen-App für aktuelle Fahrpläne.",
+              "Die Busse verkehren auch bei Schnee meist zuverlässig.",
+              "Im Bahnhof gibt es Schließfächer für schweres Gepäck.",
+              "Viele Buslinien enden oder halten am Trafikcenter."
+            ],
+            "hu": [
+              "Használja a Rejseplanen alkalmazást a menetrendhez.",
+              "A buszok hóban is többnyire megbízhatóan közlekednek.",
+              "Az állomáson csomagmegőrző szekrények is vannak.",
+              "Sok buszjárat a Trafikcenterben áll meg vagy végződik."
+            ],
+            "ro": [
+              "Folosiți aplicația Rejseplanen pentru orarul actualizat.",
+              "Autobuzele circulă de obicei regulat și pe zăpadă.",
+              "În gară există dulapuri pentru bagaje grele.",
+              "Multe linii de autobuz opresc sau capătă la Trafikcenter."
+            ],
+            "en": [
+              "Use the Rejseplanen app for real-time schedule updates.",
+              "Buses usually remain reliable even during snowfall.",
+              "Storage lockers for heavy bags are available at the station.",
+              "Most bus lines stop at or terminate at the Trafikcenter."
+            ]
+          }
+        }
       }
     }
   }

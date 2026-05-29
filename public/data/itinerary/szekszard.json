@@ -386,6 +386,214 @@
           "Plan for a steep but short climb to the Calvary Lookout Tower.",
           "Many wine cellars only open in the afternoon, check their hours in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt auf dem Garay-Platz, wo die umliegenden Cafés Schutz vor dem Regen bieten. Mittags erkunden wir die Innenräume des Komitatshauses und die Ausstellungen des Wosinsky-Mór-Museums. Am Nachmittag besuchen wir das Babits-Gedenkhaus und tauchen im Weinmuseum in die lokale Kultur ein. Den Abend verbringen wir gemütlich in einem der tiefen Weinkeller von Szekszárd.",
+            "hu": "A reggelt a Garay téren kezdjük, ahol a környékbeli kávézók nyújtanak menedéket az eső elől. Délben a Vármegyeháza belső tereit és a Wosinsky Mór Múzeum kiállításait fedezzük fel. Délután ellátogatunk a Babits-emlékházba, majd a Bormúzeumban merülünk el a helyi kultúrában. Az estét egy hangulatos, mély szekszárdi borospincében zárjuk.",
+            "ro": "Dimineața începe în Piața Garay, unde cafenelele din jur oferă adăpost împotriva ploii. La prânz, explorăm interiorul Primăriei Județene și expozițiile Muzeului Wosinsky Mór. După-amiaza vizităm casa memorială Babits și ne delectăm cu istoria locală la Muzeul Vinului. Seara se încheie confortabil într-una dintre cramele adânci din Szekszárd.",
+            "en": "The morning starts at Garay Square, where nearby cafes provide shelter from the rain. At noon, we explore the interior of the County Hall and the exhibitions of the Wosinsky Mór Museum. In the afternoon, we visit the Babits Memorial House and immerse ourselves in local culture at the Wine Museum. The evening concludes comfortably in one of Szekszárd's deep wine cellars."
+          },
+          "stops": [
+            {
+              "name": "Garay Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
+                "hu": "Használja a környező épületek árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele clădirilor din jur ca protecție împotriva ploii.",
+                "en": "Use the arcades of the surrounding buildings for rain cover."
+              }
+            },
+            {
+              "name": "King Béla Square",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zwischen den historischen Gebäuden hält Sie trocken.",
+                "hu": "Egy gyors sprint a történelmi épületek között szárazon tartja.",
+                "ro": "Un sprint scurt între clădirile istorice vă va menține uscat.",
+                "en": "A quick sprint between the historical buildings will keep you dry."
+              }
+            },
+            {
+              "name": "County Hall",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Innenausstattung, während es draußen regnet.",
+                "hu": "Csodálja meg a belső díszítést, miközben kint esik az eső.",
+                "ro": "Admirați decorațiunile interioare în timp ce afară plouă.",
+                "en": "Admire the interior decorations while it rains outside."
+              }
+            },
+            {
+              "name": "Wosinsky Mór County Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um zwei Stunden im Trockenen zu verbringen.",
+                "hu": "Ideális helyszín két óra szárazon töltéséhez.",
+                "ro": "Locație ideală pentru a petrece două ore la adăpost.",
+                "en": "Ideal location to spend two hours in the dry."
+              }
+            },
+            {
+              "name": "Wine Museum",
+              "tip_5lang": {
+                "de": "Die Kellerausstellung ist völlig wetterunabhängig.",
+                "hu": "A pincemúzeum kiállítása teljesen időjárásfüggetlen.",
+                "ro": "Expoziția din cramă este complet independentă de vreme.",
+                "en": "The cellar museum exhibition is completely weather-independent."
+              }
+            },
+            {
+              "name": "Mihály Babits Memorial House",
+              "tip_5lang": {
+                "de": "Besichtigen Sie die intimen Innenräume des Dichterhauses.",
+                "hu": "Tekintse meg a költőház meghitt belső tereit.",
+                "ro": "Vizitați interioarele intime ale casei poetului.",
+                "en": "Visit the intimate interiors of the poet's house."
+              }
+            },
+            {
+              "name": "Calvary Lookout Tower",
+              "tip_5lang": {
+                "de": "Vorsicht, die Treppen können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a lépcsők nedvesen csúszósak lehetnek.",
+                "ro": "Atenție, scările pot fi alunecoase când sunt ude.",
+                "en": "Caution, the stairs can be slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Szekszárds Zentrum ist kompakt, Regenschirme sind in den engen Gassen unerlässlich.",
+              "Die Museen der Stadt bieten hervorragende Indoor-Alternativen.",
+              "Viele Weinkeller liegen unter der Erde und sind bei Regen perfekt.",
+              "Tragen Sie wasserfeste Schuhe für den Aufstieg zum Kalvarienberg.",
+              "Cafés rund um den Garay-Platz sind ideal für Pausen."
+            ],
+            "hu": [
+              "Szekszárd belvárosa kompakt, az esernyő elengedhetetlen a szűk utcákban.",
+              "A város múzeumai kiváló beltéri alternatívákat kínálnak.",
+              "Sok borospince a föld alatt található, így esőben is tökéletes.",
+              "Viseljen vízálló cipőt a Kálvária-kilátóhoz vezető úton.",
+              "A Garay tér körüli kávézók ideálisak a pihenőkhöz."
+            ],
+            "ro": [
+              "Centrul orașului Szekszárd este compact, umbrela este esențială pe străzile înguste.",
+              "Muzeele orașului oferă alternative excelente de interior.",
+              "Multe crame sunt subterane, fiind perfecte pe timp de ploaie.",
+              "Purtați încălțăminte impermeabilă pentru urcarea la Calvar.",
+              "Cafenelele din jurul Pieței Garay sunt ideale pentru pauze."
+            ],
+            "en": [
+              "Szekszárd's city center is compact; an umbrella is essential in the narrow streets.",
+              "The city's museums offer excellent indoor alternatives.",
+              "Many wine cellars are underground, making them perfect during rain.",
+              "Wear waterproof shoes for the walk up to the Calvary Lookout.",
+              "Cafes around Garay Square are ideal for breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen auf dem Garay-Platz, gefolgt von einem Besuch der historischen Vármegyeháza. Mittags wärmen wir uns im Wosinsky-Museum auf, bevor wir am Nachmittag das Babits-Haus besuchen. Wir erreichen den Kalvarienberg vor Sonnenuntergang, um das Panorama zu genießen. Der Tag endet mit einer herzhaften Mahlzeit und Glühwein in einer lokalen Weinstube.",
+            "hu": "Hűvös téli reggel a Garay téren, majd látogatás a történelmi Vármegyeházánál. Délben a Wosinsky Múzeumban melegszünk fel, délután pedig a Babits-házat keressük fel. A Kálváriát naplemente előtt érjük el, hogy élvezhessük a panorámát. A napot egy kiadós vacsorával és forralt borral zárjuk egy helyi borozóban.",
+            "ro": "O dimineață răcoroasă de iarnă în Piața Garay, urmată de o vizită la Primăria Județeană istorică. La prânz ne încălzim în Muzeul Wosinsky, iar după-amiaza vizităm casa Babits. Ajungem la Calvar înainte de apus pentru a savura panorama. Ziua se încheie cu o masă copioasă și vin fiert într-o tavernă locală.",
+            "en": "A chilly winter morning at Garay Square, followed by a visit to the historical County Hall. At noon, we warm up in the Wosinsky Museum, and in the afternoon, we visit the Babits House. We reach the Calvary Lookout before sunset to enjoy the panorama. The day ends with a hearty meal and mulled wine in a local wine bar."
+          },
+          "stops": [
+            {
+              "name": "Garay Square",
+              "tip_5lang": {
+                "de": "Genießen Sie die weihnachtliche Beleuchtung in den Abendstunden.",
+                "hu": "Élvezze az ünnepi kivilágítást az esti órákban.",
+                "ro": "Bucurați-vă de iluminatul festiv în orele serii.",
+                "en": "Enjoy the festive lighting during the evening hours."
+              }
+            },
+            {
+              "name": "King Béla Square",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche für einen Moment der Stille und Wärme.",
+                "hu": "Látogasson el a templomba egy pillanatnyi csendre és melegre.",
+                "ro": "Vizitați biserica pentru un moment de liniște și căldură.",
+                "en": "Visit the church for a moment of silence and warmth."
+              }
+            },
+            {
+              "name": "County Hall",
+              "tip_5lang": {
+                "de": "Der Innenhof ist im Winter besonders atmosphärisch.",
+                "hu": "A belső udvar télen különösen hangulatos.",
+                "ro": "Curtea interioară este deosebit de atmosferică iarna.",
+                "en": "The inner courtyard is especially atmospheric in winter."
+              }
+            },
+            {
+              "name": "Wosinsky Mór County Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre schwere Winterkleidung.",
+                "hu": "Használja a ruhatárat a nehéz téli ruhákhoz.",
+                "ro": "Folosiți garderoba pentru hainele groase de iarnă.",
+                "en": "Use the cloakroom for your heavy winter clothes."
+              }
+            },
+            {
+              "name": "Wine Museum",
+              "tip_5lang": {
+                "de": "Die Kellertemperatur ist im Winter oft angenehmer als draußen.",
+                "hu": "A pince hőmérséklete télen gyakran kellemesebb, mint kint.",
+                "ro": "Temperatura din cramă este adesea mai plăcută decât afară iarna.",
+                "en": "The cellar temperature is often more pleasant than outside in winter."
+              }
+            },
+            {
+              "name": "Mihály Babits Memorial House",
+              "tip_5lang": {
+                "de": "Achten Sie auf die verkürzten Winteröffnungszeiten.",
+                "hu": "Ügyeljen a rövidített téli nyitvatartásra.",
+                "ro": "Atenție la programul redus de iarnă.",
+                "en": "Check for shortened winter opening hours."
+              }
+            },
+            {
+              "name": "Calvary Lookout Tower",
+              "tip_5lang": {
+                "de": "Planen Sie den Aufstieg bis 16:00 Uhr ein (Sonnenuntergang).",
+                "hu": "Tervezze a feljutást 16:00-ig a naplemente miatt.",
+                "ro": "Planificați urcarea până la ora 16:00 pentru apus.",
+                "en": "Plan to reach the top by 16:00 for the sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung ist für den windigen Kalvarienberg wichtig.",
+              "Die Sonne geht im Winter gegen 16:30 Uhr unter.",
+              "Szekszárder Rotweine sind perfekt zum Aufwärmen.",
+              "Prüfen Sie, ob Museen im Januar wegen Wartung geschlossen sind.",
+              "Glühwein wird oft auf dem Hauptplatz angeboten."
+            ],
+            "hu": [
+              "A szeles Kálvária-dombon fontos a meleg öltözet.",
+              "A nap télen 16:30 körül nyugszik.",
+              "A szekszárdi vörösborok tökéletesek a felmelegedéshez.",
+              "Ellenőrizze a múzeumok januári karbantartási szüneteit.",
+              "A főtéren gyakran árusítanak forralt bort."
+            ],
+            "ro": [
+              "Îmbrăcămintea groasă este importantă pentru dealul vântos al Calvarului.",
+              "Soarele apune în jur de ora 16:30 iarna.",
+              "Vinurile roșii de Szekszárd sunt perfecte pentru încălzire.",
+              "Verificați dacă muzeele sunt închise pentru întreținere în ianuarie.",
+              "Vinul fiert este adesea disponibil în piața principală."
+            ],
+            "en": [
+              "Warm clothing is important for the windy Calvary Hill.",
+              "The sun sets around 16:30 in winter.",
+              "Szekszárd red wines are perfect for warming up.",
+              "Check if museums have maintenance breaks in January.",
+              "Mulled wine is often available in the main square."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -790,6 +998,232 @@
           "Bring plenty of water, especially on warm days.",
           "Don't combine your bike tour with excessive wine tasting; plan tastings for the end of the day."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine sportliche Regenfahrt durch Szekszárd. Der Vormittag konzentriert sich auf das Zentrum, wo man schnell Schutz findet. Mittags bietet das Museum eine lange Pause im Trockenen. Nachmittags geht es vorsichtig zum Babits-Haus und zum Kalvarienberg, bevor wir uns bei einem warmen Abendessen in der Innenstadt wieder aufwärmen.",
+            "hu": "Sportos esős tekerés Szekszárdon. A délelőtt a belvárosra fókuszál, ahol gyorsan találni menedéket. Délben a múzeum hosszú száraz pihenőt kínál. Délután óvatosan haladunk a Babits-ház és a Kálvária felé, majd a belvárosban egy meleg vacsorával melegszünk fel.",
+            "ro": "O tură sportivă cu bicicleta prin Szekszárd pe ploaie. Dimineața se concentrează pe centru, unde se găsește rapid adăpost. La prânz, muzeul oferă o pauză lungă la uscat. După-amiaza mergem cu atenție spre casa Babits și Calvar, apoi ne încălzim cu o cină caldă în centru.",
+            "en": "A sporty rainy ride through Szekszárd. The morning focuses on the city center, where shelter is easy to find. At noon, the museum offers a long dry break. In the afternoon, we proceed carefully towards the Babits House and Calvary, then warm up with a hot dinner in the center."
+          },
+          "stops": [
+            {
+              "name": "Garay Square",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster, es wird sehr rutschig.",
+                "hu": "Vigyázat a macskakövön, nagyon csúszóssá válik.",
+                "ro": "Atenție pe piatra cubică, devine foarte alunecoasă.",
+                "en": "Watch out on the cobblestones; they get very slippery."
+              }
+            },
+            {
+              "name": "King Béla Square & County Hall",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter einem Dachvorsprung.",
+                "hu": "Parkolja le a kerékpárját egy tetőpárkány alatt.",
+                "ro": "Parcați bicicleta sub o streșină.",
+                "en": "Park your bike under a roof ledge."
+              }
+            },
+            {
+              "name": "Lamb's Well",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Halt für ein Foto im Regen.",
+                "hu": "Csak egy rövid megálló egy fotóra az esőben.",
+                "ro": "Doar o scurtă oprire pentru o fotografie în ploaie.",
+                "en": "Just a quick stop for a photo in the rain."
+              }
+            },
+            {
+              "name": "Wosinsky Mór County Museum",
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad gut und genießen Sie die Ausstellung.",
+                "hu": "Zárja le jól a biciklit, és élvezze a kiállítást.",
+                "ro": "Încuiați bine bicicleta și bucurați-vă de expoziție.",
+                "en": "Lock your bike securely and enjoy the exhibition."
+              }
+            },
+            {
+              "name": "Mihály Babits Memorial House",
+              "tip_5lang": {
+                "de": "Der Anstieg hierher erfordert bei Nässe gute Reifenhaftung.",
+                "hu": "Az ide vezető emelkedő nedvesen jó tapadást igényel.",
+                "ro": "Urcarea spre acest punct necesită o aderență bună pe ud.",
+                "en": "The climb here requires good tire grip when wet."
+              }
+            },
+            {
+              "name": "Calvary Lookout Tower",
+              "tip_5lang": {
+                "de": "Vermeiden Sie steile, unbefestigte Wege im Schlamm.",
+                "hu": "Kerülje a meredek, burkolatlan utakat a sárban.",
+                "ro": "Evitați drumurile abrupte neasfaltate din cauza noroiului.",
+                "en": "Avoid steep, unpaved paths in the mud."
+              }
+            },
+            {
+              "name": "Wine Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad ab und entspannen Sie im Keller.",
+                "hu": "Tegye le a biciklit, és lazítson a pincében.",
+                "ro": "Lăsați bicicleta și relaxați-vă în cramă.",
+                "en": "Leave the bike and relax in the cellar."
+              }
+            },
+            {
+              "name": "Dinner in the City Center",
+              "tip_5lang": {
+                "de": "Ein warmes Getränk hilft gegen die Kälte nach der Fahrt.",
+                "hu": "Egy meleg ital segít a hideg ellen a tekerés után.",
+                "ro": "O băutură caldă ajută împotriva frigului după cursă.",
+                "en": "A warm drink helps against the cold after the ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei den Szekszárder Hügeln im Regen Pflicht.",
+              "Vermeiden Sie bei starkem Regen die steileren Weinbergwege.",
+              "Tragen Sie gut sichtbare Regenbekleidung.",
+              "Bremsen Sie auf nassem Kopfsteinpflaster im Zentrum vorsichtig.",
+              "In der Nähe der Museen gibt es oft überdachte Fahrradständer."
+            ],
+            "hu": [
+              "A sárvédő kötelező a szekszárdi dombokon esőben.",
+              "Heves esőzéskor kerülje a meredekebb szőlőhegyi utakat.",
+              "Viseljen jól látható esőruházatot.",
+              "Óvatosan fékezzen a belvárosi nedves macskakövön.",
+              "A múzeumok közelében gyakran vannak fedett kerékpártárolók."
+            ],
+            "ro": [
+              "Apărătorile sunt obligatorii pe dealurile din Szekszárd pe ploaie.",
+              "Evitați drumurile mai abrupte prin vii în timpul ploilor abundente.",
+              "Purtați haine de ploaie reflectorizante.",
+              "Frânați cu atenție pe piatra cubică umedă din centru.",
+              "Există adesea rastele de biciclete acoperite lângă muzee."
+            ],
+            "en": [
+              "Mudguards are mandatory on Szekszárd hills in the rain.",
+              "Avoid steeper vineyard paths during heavy rain.",
+              "Wear high-visibility rain gear.",
+              "Brake carefully on wet cobblestones in the center.",
+              "Covered bike racks are often available near museums."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren durch die historische Stadt. Wir beginnen frisch im Zentrum und nutzen die Mittagszeit für lange Museumsbesuche zum Aufwärmen. Der Aufstieg zum Kalvarienberg bietet eine tolle Aussicht auf die winterliche Landschaft, sollte aber vor Einbruch der Dunkelheit erfolgen. Der Tag endet gemütlich im Stadtzentrum.",
+            "hu": "Téli kerékpározás a történelmi városon keresztül. Frissen kezdünk a központban, a délidőt pedig hosszú múzeumlátogatásokra használjuk felmelegedéshez. A Kálvária-emelkedő remek kilátást nyújt a téli tájra, de sötétedés előtt érdemes megtenni. A nap kényelmesen a városközpontban ér véget.",
+            "ro": "Ciclism de iarnă prin orașul istoric. Începem în forță în centru și folosim amiaza pentru vizite lungi la muzee pentru a ne încălzi. Urcarea la Calvar oferă o vedere excelentă asupra peisajului de iarnă, dar trebuie făcută înainte de lăsarea întunericului. Ziua se termină confortabil în centrul orașului.",
+            "en": "Winter cycling through the historical city. We start fresh in the center and use midday for long museum visits to warm up. The Calvary climb offers a great view of the winter landscape but should be done before dark. The day ends comfortably in the city center."
+          },
+          "stops": [
+            {
+              "name": "Garay Square",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, der Fahrtwind ist kalt.",
+                "hu": "Viseljen meleg kesztyűt, a menetszél hideg.",
+                "ro": "Purtați mănuși groase, vântul este rece în timpul mersului.",
+                "en": "Wear warm gloves; the wind chill is cold."
+              }
+            },
+            {
+              "name": "King Béla Square & County Hall",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen im Schatten der Gebäude.",
+                "hu": "Ügyeljen a jeges foltokra az épületek árnyékában.",
+                "ro": "Atenție la porțiunile înghețate la umbra clădirilor.",
+                "en": "Watch out for icy patches in the shadow of buildings."
+              }
+            },
+            {
+              "name": "Lamb's Well",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die winterliche Ruhe zu genießen.",
+                "hu": "Rövid megálló a téli nyugalom élvezetéhez.",
+                "ro": "Scurtă oprire pentru a savura liniștea iernii.",
+                "en": "Short stop to enjoy the winter tranquility."
+              }
+            },
+            {
+              "name": "Wosinsky Mór County Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre verschwitzte Kleidung nicht am Körper auskühlen.",
+                "hu": "Ne hagyja, hogy az izzadt ruházat lehűljön a testén.",
+                "ro": "Nu lăsați hainele transpirate să se răcească pe corp.",
+                "en": "Don't let sweaty clothes cool down on your body."
+              }
+            },
+            {
+              "name": "Mihály Babits Memorial House",
+              "tip_5lang": {
+                "de": "Die Auffahrt hält Sie warm, aber oben wird es windig.",
+                "hu": "A felmenet melegen tart, de fent szeles lesz az idő.",
+                "ro": "Urcarea vă va ține cald, dar sus va fi vânt.",
+                "en": "The ride up keeps you warm, but it will be windy at the top."
+              }
+            },
+            {
+              "name": "Calvary Lookout Tower",
+              "tip_5lang": {
+                "de": "Wegen früher Dunkelheit ist gute Beleuchtung wichtig.",
+                "hu": "A korai sötétedés miatt a jó világítás fontos.",
+                "ro": "Datorită întunericului timpuriu, iluminarea bună este importantă.",
+                "en": "Due to early darkness, good lighting is important."
+              }
+            },
+            {
+              "name": "Wine Museum",
+              "tip_5lang": {
+                "de": "Ein Ort zum Aufwärmen vor der letzten Etappe.",
+                "hu": "Egy hely a felmelegedéshez az utolsó szakasz előtt.",
+                "ro": "Un loc pentru încălzire înainte de ultima etapă.",
+                "en": "A place to warm up before the last leg."
+              }
+            },
+            {
+              "name": "Dinner in the City Center",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Licht für die Heimfahrt funktioniert.",
+                "hu": "Győződjön meg róla, hogy a lámpája működik a hazautazáshoz.",
+                "ro": "Asigurați-vă că luminile funcționează pentru drumul spre casă.",
+                "en": "Make sure your lights work for the ride home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung (Zwiebelprinzip).",
+              "Achten Sie auf Raureif auf den Brücken und Hügeln.",
+              "Die Batterie Ihres E-Bikes hält bei Kälte kürzer.",
+              "Die Sonne verschwindet früh hinter den Szekszárder Hügeln.",
+              "Ein Thermosbecher mit Tee ist ein guter Begleiter."
+            ],
+            "hu": [
+              "Rétegesen öltözködjön (hagyma-elv).",
+              "Ügyeljen a zúzmarára a hidakon és a dombokon.",
+              "Az elektromos kerékpár akkumulátora hamarabb lemerül hidegben.",
+              "A nap korán eltűnik a szekszárdi dombok mögött.",
+              "Egy termoszos tea jó társ a túrán."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi.",
+              "Atenție la chiciură pe poduri și dealuri.",
+              "Bateria bicicletei electrice se descarcă mai repede la frig.",
+              "Soarele dispare devreme în spatele dealurilor din Szekszárd.",
+              "Un termos cu ceai este un companion bun."
+            ],
+            "en": [
+              "Dress in layers (onion principle).",
+              "Watch out for hoarfrost on bridges and hills.",
+              "E-bike battery life is shorter in the cold.",
+              "The sun disappears early behind the Szekszárd hills.",
+              "A thermos of tea is a good companion."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1146,6 +1580,196 @@
           "The roads in the vineyards can be narrow and winding, drive carefully.",
           "Check the opening hours of wineries, as many require advance booking."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen ist kein Hindernis mit dem Auto. Wir parken bequem im Zentrum und erkunden die Plätze unter dem Regenschirm. Die Mittagszeit verbringen wir in den großen Museen. Am Nachmittag fahren wir zu den höher gelegenen Aussichtspunkten und beenden den Tag bei einer gemütlichen Weinprobe in einem der Außenbezirke.",
+            "hu": "Az eső nem akadály autóval. Kényelmesen parkolunk a központban, és esernyővel fedezzük fel a tereket. A délidőt a nagy múzeumokban töltjük. Délután felautózunk a magasabban fekvő kilátópontokhoz, a napot pedig egy hangulatos borkóstolóval zárjuk a külvárosban.",
+            "ro": "Ploaia nu este un obstacol cu mașina. Parcăm confortabil în centru și explorăm piețele cu umbrela. Amiaza o petrecem în marile muzee. După-amiaza conducem spre punctele de belvedere mai înalte și încheiem ziua cu o degustare de vinuri într-un cartier periferic.",
+            "en": "Rain is no obstacle by car. We park comfortably in the center and explore the squares with an umbrella. Midday is spent in the large museums. In the afternoon, we drive to the higher viewpoints and end the day with a cozy wine tasting in an outer district."
+          },
+          "stops": [
+            {
+              "name": "Parking in the City Center (Cluster A)",
+              "tip_5lang": {
+                "de": "Überdachte Parkplätze sind im Zentrum begrenzt.",
+                "hu": "A fedett parkolóhelyek száma korlátozott a központban.",
+                "ro": "Locurile de parcare acoperite sunt limitate în centru.",
+                "en": "Covered parking spaces are limited in the center."
+              }
+            },
+            {
+              "name": "Garay Square and King Béla Square",
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren Regenschirm im Auto griffbereit.",
+                "hu": "Tartsa az esernyőt elérhető helyen az autóban.",
+                "ro": "Țineți umbrela la îndemână în mașină.",
+                "en": "Keep your umbrella handy in the car."
+              }
+            },
+            {
+              "name": "County Hall and Wosinsky Mór Museum",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Museumseingang.",
+                "hu": "Parkoljon a lehető legközelebb a múzeum bejáratához.",
+                "ro": "Parcați cât mai aproape de intrarea muzeului.",
+                "en": "Park as close as possible to the museum entrance."
+              }
+            },
+            {
+              "name": "Hillside Cluster (Cluster B)",
+              "tip_5lang": {
+                "de": "Vorsicht bei Aquaplaning auf den steilen Straßen.",
+                "hu": "Vigyázat az aquaplaninggal a meredek utakon.",
+                "ro": "Atenție la acvaplanare pe străzile abrupte.",
+                "en": "Beware of aquaplaning on the steep roads."
+              }
+            },
+            {
+              "name": "Mihály Babits Memorial House and Calvary Lookout Tower",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz zu den Sehenswürdigkeiten.",
+                "hu": "Rövid séta a parkolótól a látnivalókig.",
+                "ro": "Distanțe scurte de la parcare la obiective.",
+                "en": "Short walks from the parking lot to the sights."
+              }
+            },
+            {
+              "name": "Wine Tasting at a Cellar (Cluster C)",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass ein Fahrer nüchtern bleibt.",
+                "hu": "Győződjön meg róla, hogy egy sofőr józan marad.",
+                "ro": "Asigurați-vă că un șofer rămâne treaz.",
+                "en": "Make sure one driver stays sober."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Szekszárds Hügel können bei starkem Regen rutschig sein.",
+              "Nutzen Sie die Parkplätze in der Nähe der Museen.",
+              "Ein Regenschirm pro Person ist bei Stadtwanderungen ratsam.",
+              "In den Weingütern gibt es oft überdachte Parkmöglichkeiten.",
+              "Die Sicht kann auf den Hügeln durch Nebel eingeschränkt sein."
+            ],
+            "hu": [
+              "Szekszárd dombjai heves esőben csúszósak lehetnek.",
+              "Használja a múzeumok közeli parkolókat.",
+              "Városi sétákhoz személyenként egy esernyő javasolt.",
+              "A borászatoknál gyakran van fedett parkolási lehetőség.",
+              "A kilátás a dombokon köd miatt korlátozott lehet."
+            ],
+            "ro": [
+              "Dealurile din Szekszárd pot fi alunecoase în timpul ploilor abundente.",
+              "Folosiți parcările din apropierea muzeelor.",
+              "Se recomandă o umbrelă de persoană pentru plimbările în oraș.",
+              "Vinăriile au adesea locuri de parcare acoperite.",
+              "Vizibilitatea pe dealuri poate fi limitată de ceață."
+            ],
+            "en": [
+              "Szekszárd's hills can be slippery in heavy rain.",
+              "Use the parking lots near the museums.",
+              "One umbrella per person is recommended for city walks.",
+              "Wineries often have covered parking options.",
+              "Visibility on the hills may be limited by fog."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Wintertour mit dem Auto. Wir genießen die geheizte Fahrt zwischen den historischen Sehenswürdigkeiten. Den Vormittag verbringen wir im Stadtzentrum, die Mittagszeit im Museum. Nachmittags fahren wir zum verschneiten Kalvarienberg für ein kurzes Panorama, bevor wir den Tag in einem warmen Weinkeller ausklingen lassen.",
+            "hu": "Kényelmes téli autós túra. Élvezzük a fűtött utazást a történelmi látnivalók között. A délelőttöt a városközpontban, a délidőt a múzeumban töltjük. Délután felautózunk a havas Kálváriához egy rövid panorámáért, majd a napot egy meleg borospincében zárjuk.",
+            "ro": "Un tur confortabil de iarnă cu mașina. Ne bucurăm de călătoria încălzită între obiectivele istorice. Dimineața o petrecem în centrul orașului, iar amiaza la muzeu. După-amiaza conducem spre Calvarul înzăpezit pentru o scurtă panoramă, apoi încheiem ziua într-o cramă caldă.",
+            "en": "A comfortable winter tour by car. We enjoy the heated ride between historical sights. Morning is spent in the city center, midday at the museum. In the afternoon, we drive to the snowy Calvary for a short panorama, then end the day in a warm wine cellar."
+          },
+          "stops": [
+            {
+              "name": "Parking in the City Center (Cluster A)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Parkplatzflächen.",
+                "hu": "Ügyeljen a jegesedésre a parkolófelületeken.",
+                "ro": "Atenție la gheață în zonele de parcare.",
+                "en": "Watch out for ice on the parking surfaces."
+              }
+            },
+            {
+              "name": "Garay Square and King Béla Square",
+              "tip_5lang": {
+                "de": "Die festliche Beleuchtung ist vom Auto aus gut sichtbar.",
+                "hu": "Az ünnepi kivilágítás jól látható az autóból.",
+                "ro": "Iluminatul festiv este clar vizibil din mașină.",
+                "en": "The festive lighting is clearly visible from the car."
+              }
+            },
+            {
+              "name": "County Hall and Wosinsky Mór Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter gut beheizt.",
+                "hu": "A múzeum télen jól fűtött.",
+                "ro": "Muzeul este bine încălzit iarna.",
+                "en": "The museum is well-heated in winter."
+              }
+            },
+            {
+              "name": "Hillside Cluster (Cluster B)",
+              "tip_5lang": {
+                "de": "Winterreifen sind für die steilen Weinbergstraßen unerlässlich.",
+                "hu": "A téli gumi elengedhetetlen a meredek szőlőhegyi utakhoz.",
+                "ro": "Anvelopele de iarnă sunt esențiale pentru drumurile abrupte din vii.",
+                "en": "Winter tires are essential for the steep vineyard roads."
+              }
+            },
+            {
+              "name": "Mihály Babits Memorial House and Calvary Lookout Tower",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht, bevor es um 16:30 Uhr dunkel wird.",
+                "hu": "Élvezze a kilátást, mielőtt 16:30-kor besötétedik.",
+                "ro": "Bucurați-vă de priveliște înainte de a se întuneca la 16:30.",
+                "en": "Enjoy the view before it gets dark at 16:30."
+              }
+            },
+            {
+              "name": "Wine Tasting at a Cellar (Cluster C)",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einer Kellerführung mit Verkostung.",
+                "hu": "Kérjen pincelátogatást kóstolóval.",
+                "ro": "Cereți un tur al cramei cu degustare.",
+                "en": "Ask for a cellar tour with tasting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei plötzlichem Kälteeinbruch.",
+              "Die Straßen zu den Weingütern können schmal und eisig sein.",
+              "Nehmen Sie eine Taschenlampe für den Abend mit.",
+              "In den Kellern herrscht eine konstante, angenehme Temperatur.",
+              "Das Parken im Zentrum ist im Winter oft einfacher."
+            ],
+            "hu": [
+              "Hirtelen lehűléskor ellenőrizze a gumiabroncsok nyomását.",
+              "A borászatokhoz vezető utak szűkek és jegesek lehetnek.",
+              "Vigyen magával zseblámpát az estére.",
+              "A pincékben állandó, kellemes hőmérséklet uralkodik.",
+              "A központban télen gyakran könnyebb a parkolás."
+            ],
+            "ro": [
+              "Verificați presiunea anvelopelor la răcirea bruscă a vremii.",
+              "Drumurile spre vinării pot fi înguste și înghețate.",
+              "Luați o lanternă pentru seară.",
+              "În crame domnește o temperatură constantă și plăcută.",
+              "Parcarea în centru este adesea mai ușoară iarna."
+            ],
+            "en": [
+              "Check tire pressure during sudden cold snaps.",
+              "Roads to wineries can be narrow and icy.",
+              "Take a flashlight for the evening.",
+              "Cellars have a constant, pleasant temperature.",
+              "Parking in the center is often easier in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1502,6 +2126,196 @@
           "Be flexible; sometimes a short walk is faster than waiting for the next bus.",
           "Download the local public transport app if available."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit öffentlichen Verkehrsmitteln durch das regnerische Szekszárd. Wir nutzen die Busse, um trocken zwischen den Clustern zu pendeln. Der Vormittag und Mittag gehören den Museen im Zentrum. Am Nachmittag bringt uns der Bus näher zum Babits-Haus, und wir beschließen den Tag mit einer Weinprobe, bevor wir entspannt mit dem Bus zurückfahren.",
+            "hu": "Tömegközlekedéssel az esős Szekszárdon. A buszokat használjuk, hogy szárazon ingázzunk a helyszínek között. A délelőtt és délidő a központi múzeumoké. Délután a busz közelebb visz a Babits-házhoz, a napot pedig borkóstolóval zárjuk, mielőtt kényelmesen visszabuszoznánk.",
+            "ro": "Cu transportul public prin Szekszárdul ploios. Folosim autobuzele pentru a naveta la uscat între clustere. Dimineața și amiaza aparțin muzeelor din centru. După-amiaza autobuzul ne duce mai aproape de casa Babits, iar ziua se încheie cu o degustare de vinuri înainte de a reveni cu autobuzul.",
+            "en": "By public transport through rainy Szekszárd. We use buses to commute dryly between clusters. Morning and midday belong to the central museums. In the afternoon, the bus takes us closer to the Babits House, and we end the day with a wine tasting before a relaxed bus ride back."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Bus Station (Cluster A)",
+              "tip_5lang": {
+                "de": "Der Warteraum bietet Schutz, während Sie auf den Anschluss warten.",
+                "hu": "A váróterem védelmet nyújt, amíg a csatlakozásra vár.",
+                "ro": "Sala de așteptare oferă protecție în timp ce așteptați legătura.",
+                "en": "The waiting room provides shelter while waiting for connections."
+              }
+            },
+            {
+              "name": "Garay Square and King Béla Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bushaltestellen als Unterstand bei Schauern.",
+                "hu": "Használja a buszmegállókat óvóhelyként zápor esetén.",
+                "ro": "Folosiți stațiile de autobuz ca adăpost în caz de aversă.",
+                "en": "Use bus stops as shelter during showers."
+              }
+            },
+            {
+              "name": "Wosinsky Mór County Museum",
+              "tip_5lang": {
+                "de": "Die Haltestelle befindet sich fast direkt vor dem Museum.",
+                "hu": "A megálló szinte közvetlenül a múzeum előtt található.",
+                "ro": "Stația se află aproape direct în fața muzeului.",
+                "en": "The stop is located almost directly in front of the museum."
+              }
+            },
+            {
+              "name": "Trip to the Hillside Cluster (Cluster B)",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Fahrpläne für die Berglinien bei Regen.",
+                "hu": "Ellenőrizze a hegyi járatok menetrendjét esőben.",
+                "ro": "Verificați orarul liniilor montane pe timp de ploaie.",
+                "en": "Check the schedules for hillside lines during rain."
+              }
+            },
+            {
+              "name": "Calvary Lookout Tower",
+              "tip_5lang": {
+                "de": "Ein kurzer, nasser Fußweg von der Haltestelle zum Turm.",
+                "hu": "Rövid, nedves gyalogút a megállótól a toronyig.",
+                "ro": "Un drum scurt și ud de la stație până la turn.",
+                "en": "A short, wet walk from the stop to the tower."
+              }
+            },
+            {
+              "name": "Wine Museum and Tasting",
+              "tip_5lang": {
+                "de": "Genießen Sie den Wein ohne Sorge um die Rückfahrt.",
+                "hu": "Élvezze a bort anélkül, hogy aggódna a hazautazás miatt.",
+                "ro": "Savurați vinul fără grija drumului de întoarcere.",
+                "en": "Enjoy the wine without worrying about the drive back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Linie 1 verbindet den Bahnhof mit dem Stadtzentrum.",
+              "Kaufen Sie Fahrkarten im Voraus beim Fahrer oder am Kiosk.",
+              "Bushaltestellen im Zentrum sind meist überdacht.",
+              "In Szekszárd verkehren Busse bei Regen zuverlässig.",
+              "Die App für den Nahverkehr ist bei Verspätungen hilfreich."
+            ],
+            "hu": [
+              "Az 1-es vonal összeköti a vasútállomást a városközponttal.",
+              "Vásároljon jegyet előre a sofőrnél vagy a kioszkban.",
+              "A központi buszmegállók többnyire fedettek.",
+              "Szekszárdon a buszok esőben is megbízhatóan közlekednek.",
+              "A helyi közlekedési alkalmazás hasznos késések esetén."
+            ],
+            "ro": [
+              "Linia 1 face legătura între gară și centrul orașului.",
+              "Cumpărați bilete în avans de la șofer sau de la chioșcuri.",
+              "Stațiile de autobuz din centru sunt în mare parte acoperite.",
+              "În Szekszárd, autobuzele circulă fiabil și pe ploaie.",
+              "Aplicația locală de transport este utilă în caz de întârzieri."
+            ],
+            "en": [
+              "Line 1 connects the train station with the city center.",
+              "Buy tickets in advance from the driver or at kiosks.",
+              "Central bus stops are mostly covered.",
+              "In Szekszárd, buses operate reliably even in the rain.",
+              "The local transit app is helpful for any delays."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreise durch Szekszárd mit dem Bus. Wir nutzen die warmen Busse, um die Stadt bequem zu erkunden. Der Vormittag ist dem Zentrum gewidmet, der Mittag den warmen Ausstellungsräumen. Am Nachmittag fahren wir zum Kalvarienberg und genießen den Ausblick, bevor uns der Bus zurück zum gemütlichen Weinmuseum bringt.",
+            "hu": "Téli utazás Szekszárdon busszal. A meleg buszokat használjuk a város kényelmes felfedezéséhez. A délelőtt a központé, a délidő a fűtött kiállítótermeké. Délután felutazunk a Kálváriához a kilátásért, mielőtt a busz visszavinne a hangulatos Bormúzeumba.",
+            "ro": "Călătorie de iarnă prin Szekszárd cu autobuzul. Folosim autobuzele calde pentru a explora orașul confortabil. Dimineața este dedicată centrului, iar amiaza sălilor de expoziție încălzite. După-amiaza urcăm la Calvar pentru priveliște, apoi autobuzul ne duce înapoi la Muzeul Vinului.",
+            "en": "Winter trip through Szekszárd by bus. We use the warm buses to explore the city comfortably. Morning is dedicated to the center, midday to the heated exhibition halls. In the afternoon, we head up to the Calvary for the view before the bus takes us back to the cozy Wine Museum."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Bus Station (Cluster A)",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist im Winter ein guter Ort zum Aufwärmen.",
+                "hu": "Az állomás télen jó hely a felmelegedéshez.",
+                "ro": "Gara este un loc bun pentru încălzire iarna.",
+                "en": "The station is a good place to warm up in winter."
+              }
+            },
+            {
+              "name": "Garay Square and King Béla Square",
+              "tip_5lang": {
+                "de": "Kurze Aufenthalte im Freien zwischen den Busfahrten.",
+                "hu": "Rövid kint tartózkodás a buszutak között.",
+                "ro": "Scurte șederi afară între călătoriile cu autobuzul.",
+                "en": "Short periods outdoors between bus trips."
+              }
+            },
+            {
+              "name": "Wosinsky Mór County Museum",
+              "tip_5lang": {
+                "de": "Die Nähe zur Haltestelle minimiert die Zeit in der Kälte.",
+                "hu": "A megálló közelsége minimalizálja a hidegben töltött időt.",
+                "ro": "Proximitatea stației minimizează timpul petrecut în frig.",
+                "en": "Proximity to the stop minimizes time spent in the cold."
+              }
+            },
+            {
+              "name": "Trip to the Hillside Cluster (Cluster B)",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter gut geheizt.",
+                "hu": "A buszok télen jól fűtöttek.",
+                "ro": "Autobuzele sunt bine încălzite iarna.",
+                "en": "Buses are well-heated in winter."
+              }
+            },
+            {
+              "name": "Calvary Lookout Tower",
+              "tip_5lang": {
+                "de": "Achten Sie auf die letzten Busse vor dem Abend.",
+                "hu": "Ügyeljen az utolsó buszokra az este előtt.",
+                "ro": "Atenție la ultimele autobuze înainte de seară.",
+                "en": "Watch out for the last buses before the evening."
+              }
+            },
+            {
+              "name": "Wine Museum and Tasting",
+              "tip_5lang": {
+                "de": "Idealer Abschluss für einen kalten Wintertag.",
+                "hu": "Ideális befejezés egy hideg téli napon.",
+                "ro": "Final ideal pentru o zi rece de iarnă.",
+                "en": "Ideal conclusion for a cold winter day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können im Winter leicht variieren.",
+              "Einige Buslinien fahren am Wochenende seltener.",
+              "Halten Sie Ihr Kleingeld für Fahrkarten griffbereit.",
+              "Die Abenddämmerung beginnt im Winter sehr früh.",
+              "Nutzen Sie die zentralen Umsteigepunkte zum Aufwärmen."
+            ],
+            "hu": [
+              "A menetrendek télen kismértékben változhatnak.",
+              "Néhány buszvonal hétvégén ritkábban közlekedik.",
+              "Tartsa készenlétben az aprópénzt a jegyekhez.",
+              "A szürkület télen nagyon korán kezdődik.",
+              "Használja a központi átszállópontokat a felmelegedéshez."
+            ],
+            "ro": [
+              "Orarele pot varia ușor iarna.",
+              "Unele linii de autobuz circulă mai rar în weekend.",
+              "Țineți restul pregătit pentru bilete.",
+              "Amurgul începe foarte devreme iarna.",
+              "Folosiți punctele centrale de transfer pentru a vă încălzi."
+            ],
+            "en": [
+              "Schedules may vary slightly in winter.",
+              "Some bus lines run less frequently on weekends.",
+              "Keep your change ready for tickets.",
+              "Twilight starts very early in winter.",
+              "Use central transfer points to warm up."
+            ]
+          }
+        }
       }
     }
   }

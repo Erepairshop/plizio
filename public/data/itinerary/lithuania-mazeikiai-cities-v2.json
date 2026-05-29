@@ -372,6 +372,188 @@
           "Most sights in the city center are within easy walking distance.",
           "Start early to avoid crowds and make the most of your day."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt am Unabhängigkeitsdenkmal. Die St.-Franziskus-Kirche bietet erste Zuflucht. Den Mittag verbringen wir im Museum, perfekt geschützt vor dem Dauerregen. Nachmittags spazieren wir kurz durch den Park zum Kulturzentrum und beenden den Tag in der Herz-Jesu-Kirche. Abends glänzen die nassen Straßen von Mažeikiai im Licht der Laternen.",
+            "hu": "Esős reggel az Emlékműnél, majd menedék a Szent Ferenc templomban. A delet a múzeum falai között töltjük, ami ideális búvóhely a zápor elől. Délután egy gyors séta az Ifjúsági Parkon át a Kulturális Központba, végül a Szív templom megtekintése. Az este a városi fények tükröződésével zárul a vizes aszfalton.",
+            "ro": "O dimineață ploioasă la Monument, urmată de adăpost în Biserica Sf. Francisc. Prânzul este petrecut în siguranță în interiorul muzeului. După-amiaza traversăm rapid parcul spre Centrul Cultural, încheind vizita la Biserica Inima Sacră. Seara, luminile orașului se reflectă frumos pe trotuarele umede din Mažeikiai.",
+            "en": "A rainy morning at the monument is followed by shelter in St. Francis Church. Spend midday inside the museum, the perfect refuge from the drizzle. Afternoon involves a quick walk through the park to the Cultural Centre, finishing at the Sacred Heart Church. Evening brings a quiet atmosphere as the rain-slicked streets reflect the city lights."
+          },
+          "stops": [
+            {
+              "name": "Independence Monument",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp mit Schirm.",
+                "hu": "Gyors fotó az esernyő alatt.",
+                "ro": "Oprire scurtă sub umbrelă.",
+                "en": "Quick photo stop under an umbrella."
+              }
+            },
+            {
+              "name": "St. Francis of Assisi Church",
+              "tip_5lang": {
+                "de": "Trockener Ort für Besinnung.",
+                "hu": "Száraz hely az elmélyüléshez.",
+                "ro": "Loc uscat pentru reflecție.",
+                "en": "Dry spot for quiet reflection."
+              }
+            },
+            {
+              "name": "Mažeikiai Museum",
+              "tip_5lang": {
+                "de": "Ideal für lange Regenschauer.",
+                "hu": "Ideális hosszú záporok idején.",
+                "ro": "Ideal pentru ploi prelungite.",
+                "en": "Ideal for long rain showers."
+              }
+            },
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Befestigte Wege nutzen.",
+                "hu": "Használja a burkolt utakat.",
+                "ro": "Folosiți aleile pavate.",
+                "en": "Stick to the paved paths."
+              }
+            },
+            {
+              "name": "Sacred Heart Church",
+              "tip_5lang": {
+                "de": "Moderne Architektur im Trockenen.",
+                "hu": "Modern belső, védett hely.",
+                "ro": "Arhitectură modernă la adăpost.",
+                "en": "Modern architecture in the dry."
+              }
+            },
+            {
+              "name": "Mažeikiai Cultural Centre",
+              "tip_5lang": {
+                "de": "Überdachter Treffpunkt am Abend.",
+                "hu": "Fedett találkozóhely estére.",
+                "ro": "Punct de întâlnire acoperit.",
+                "en": "Sheltered meeting point for evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Schirm ist wegen des Windes wichtig.",
+              "Wasserdichte Schuhe sind für die Wege zwischen den Kirchen ratsam.",
+              "Das Museum bietet den besten Schutz für längere Zeit.",
+              "Nutzen Sie die kurzen Abstände im Stadtzentrum."
+            ],
+            "hu": [
+              "Az erős szél miatt strapabíró esernyő ajánlott.",
+              "Vízálló cipő javasolt a templomok közötti sétához.",
+              "A múzeum a legjobb hely a hosszabb esőzés kivárására.",
+              "Használja ki a belvárosi helyszínek közelségét."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este necesară din cauza vântului.",
+              "Încălțămintea impermeabilă este recomandată între obiective.",
+              "Muzeul oferă cel mai bun adăpost pentru perioade lungi.",
+              "Profită de distanțele scurte din centrul orașului."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to potential wind.",
+              "Waterproof shoes are recommended for walks between churches.",
+              "The museum is the best long-term shelter option.",
+              "Take advantage of the close proximity of city center spots."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Denkmal, bevor wir uns in der warmen St.-Franziskus-Kirche aufwärmen. Mittags bietet das Museum eine gemütliche Flucht vor der Kälte. Nachmittags genießen wir die frische Winterluft im Park und besuchen das Kulturzentrum. Da es früh dunkel wird, leuchten die Kirchenfenster am Abend besonders stimmungsvoll.",
+            "hu": "Fagyos reggel az Emlékműnél, majd melegedés a Szent Ferenc templomban. Délben a múzeum nyújt menedéket a hideg elől. Délután friss téli séta a parkban, majd látogatás a Kulturális Központban. A korai sötétedés miatt a templomok ablakai este különösen hangulatosan világítanak.",
+            "ro": "O dimineață geroasă la Monument, urmată de încălzire în Biserica Sf. Francisc. La prânz, muzeul oferă un refugiu primitor. După-amiaza ne bucurăm de aerul rece în parc, apoi vizităm Centrul Cultural. Deoarece se întunecă devreme, ferestrele bisericilor luminează feeric seara.",
+            "en": "A frosty morning starts at the monument before warming up in St. Francis Church. Midday offers a cozy escape from the cold inside the museum. Afternoon involves a brisk winter walk in the park and the Cultural Centre. As darkness falls early, the church windows glow beautifully in the evening."
+          },
+          "stops": [
+            {
+              "name": "Independence Monument",
+              "tip_5lang": {
+                "de": "Warm anziehen, exponierte Lage.",
+                "hu": "Öltözzön rétegesen, szeles hely.",
+                "ro": "Îmbrăcați-vă gros, loc expus.",
+                "en": "Dress warmly, exposed location."
+              }
+            },
+            {
+              "name": "St. Francis of Assisi Church",
+              "tip_5lang": {
+                "de": "Ort zum Aufwärmen finden.",
+                "hu": "Keressen egy meleg sarkot.",
+                "ro": "Găsiți un loc pentru încălzire.",
+                "en": "Find a spot to warm up inside."
+              }
+            },
+            {
+              "name": "Mažeikiai Museum",
+              "tip_5lang": {
+                "de": "Garderobe für schwere Jacken.",
+                "hu": "Ruhatár a nehéz kabátoknak.",
+                "ro": "Garderobă pentru haine groase.",
+                "en": "Cloakroom available for coats."
+              }
+            },
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei glatten Wegen.",
+                "hu": "Vigyázat a jeges utakon.",
+                "ro": "Atenție la aleile alunecoase.",
+                "en": "Careful on potentially icy paths."
+              }
+            },
+            {
+              "name": "Sacred Heart Church",
+              "tip_5lang": {
+                "de": "Abendliche Beleuchtung genießen.",
+                "hu": "Élvezze az esti kivilágítást.",
+                "ro": "Bucurați-vă de lumina serii.",
+                "en": "Enjoy the evening illumination."
+              }
+            },
+            {
+              "name": "Mažeikiai Cultural Centre",
+              "tip_5lang": {
+                "de": "Heißgetränk in der Nähe suchen.",
+                "hu": "Keressen forró italt a közelben.",
+                "ro": "Căutați o băutură caldă aproape.",
+                "en": "Look for a hot drink nearby."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Kleidung ist für längere Spaziergänge nötig.",
+              "Die Sonne geht im Winter bereits gegen 16:00 Uhr unter.",
+              "Kirchen und Museen sind gute Orte zum Aufwärmen.",
+              "Achten Sie auf gestreute Wege bei Schneefall."
+            ],
+            "hu": [
+              "Termo ruházat ajánlott a hosszabb sétákhoz.",
+              "A nap télen már 16:00 óra körül lemegy.",
+              "A templomok és múzeumok jó melegedőhelyek.",
+              "Hóesésben figyeljen a felszórt útvonalakra."
+            ],
+            "ro": [
+              "Hainele termice sunt necesare pentru plimbări.",
+              "Soarele apune în jurul orei 16:00 iarna.",
+              "Bisericile și muzeele sunt refugii calde bune.",
+              "Atenție la aleile deszăpezite sau cu nisip."
+            ],
+            "en": [
+              "Thermal layers are necessary for longer walks.",
+              "The sun sets early, around 4:00 PM in winter.",
+              "Churches and museums are great warming-up spots.",
+              "Watch for gritted paths during snowy weather."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -699,6 +881,170 @@
           "A bike lock is essential for securing your ride during stops.",
           "Use bike lanes wherever available."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir die Radtour im Park. Das Denkmal und das Museum bieten kurze Pausen im Trockenen. Die Fahrt zum Venta-Regionalpark ist erfrischend, erfordert aber gute Regenkleidung. Am Nachmittag erkunden wir den alten Friedhof, bevor wir die Tour beenden. Die feuchte Erde verströmt einen intensiven Naturduft.",
+            "hu": "Az eső ellenére a parkban kezdjük a biciklizést. Az Emlékmű és a múzeum rövid száraz pihenőt kínál. A Venta Regionális Park felé vezető út frissítő, de jó esővédő felszerelést igényel. Délután a régi temetőt érintjük, majd zárjuk a túrát. A nedves föld illata betölti a levegőt.",
+            "ro": "În ciuda ploii, începem turul cu bicicleta în parc. Monumentul și muzeul oferă scurte pauze la uscat. Drumul spre Parcul Regional Venta este revigorant, dar necesită echipament de ploaie. După-amiaza explorăm cimitirul vechi înainte de final. Mirosul pământului umed este intens.",
+            "en": "Despite the rain, we start our bike tour in the park. The monument and museum offer short dry breaks. The ride to Venta Regional Park is refreshing but requires good rain gear. In the afternoon, we explore the old cemetery before finishing. The damp earth provides a rich natural scent."
+          },
+          "stops": [
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Vorsicht in scharfen Kurven.",
+                "hu": "Vigyázat az éles kanyarokban.",
+                "ro": "Atenție în curbele strânse.",
+                "en": "Careful in sharp turns today."
+              }
+            },
+            {
+              "name": "Independence Monument",
+              "tip_5lang": {
+                "de": "Rutschfester Untergrund.",
+                "hu": "Csúszásmentes talaj itt.",
+                "ro": "Suprafață nealunecoasă aici.",
+                "en": "Non-slip surface around here."
+              }
+            },
+            {
+              "name": "Mažeikiai Museum",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradständer.",
+                "hu": "Biztonságos biciklitároló.",
+                "ro": "Suport de biciclete sigur.",
+                "en": "Secure bike racks available."
+              }
+            },
+            {
+              "name": "Venta Regional Park",
+              "tip_5lang": {
+                "de": "Schlammige Wege möglich.",
+                "hu": "Saras utakra számítson.",
+                "ro": "Posibile drumuri noroioase.",
+                "en": "Expect muddy paths in nature."
+              }
+            },
+            {
+              "name": "Old Mažeikiai Cemetery",
+              "tip_5lang": {
+                "de": "Ruhiger Halt im Regen.",
+                "hu": "Csendes pihenő az esőben.",
+                "ro": "Oprire liniștită pe ploaie.",
+                "en": "Quiet stop during the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie tiefes Laub, es ist rutschig.",
+              "Prüfen Sie Ihre Bremsen vor der Fahrt im Nassen.",
+              "Schutzbleche sind bei diesem Wetter unverzichtbar.",
+              "Der Regionalpark bietet Unterstände bei Starkregen."
+            ],
+            "hu": [
+              "Kerülje a vizes leveleket, nagyon csúsznak.",
+              "Esőben indulás előtt ellenőrizze a fékeket.",
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "A regionális parkban vannak fedett pihenők."
+            ],
+            "ro": [
+              "Evitați frunzele ude, sunt alunecoase.",
+              "Verificați frânele înainte de plecare pe ploaie.",
+              "Aripile la bicicletă sunt indispensabile acum.",
+              "Parcul regional are adăposturi pentru ploaie."
+            ],
+            "en": [
+              "Avoid wet leaves as they are very slippery.",
+              "Check your brakes before riding in the wet.",
+              "Mudguards are essential in this weather.",
+              "The regional park offers shelters during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine knackige Wintertour beginnt im Park. Das Museum ist ein willkommener Ort zum Auftauen der Finger. Die Fahrt durch den verschneiten Venta-Regionalpark bietet märchenhafte Ausblicke, erfordert aber Konzentration auf dem Rad. Wir besuchen den alten Friedhof in der Dämmerung und beenden die Tour frühzeitig vor der Kälte.",
+            "hu": "Roppanós téli túra a parkban. A múzeum hívogató hely az ujjak felmelegítésére. A havas Venta Regionális Park mesebeli látványt nyújt, de figyelmet igényel a nyeregben. A régi temetőt szürkületben látogatjuk meg, majd a nagy hideg előtt befejezzük a túrát.",
+            "ro": "Un tur de iarnă revigorant începe în parc. Muzeul este un loc binevenit pentru încălzirea degetelor. Parcul Regional Venta înzăpezit oferă vederi de basm, dar necesită concentrare. Vizităm cimitirul vechi la amurg și încheiem turul înainte de gerul serii.",
+            "en": "A crisp winter tour starts in the park. The museum is a welcome spot to thaw out frozen fingers. Riding through a snowy Venta Regional Park offers fairytale views but requires focus. We visit the old cemetery at dusk and finish the tour early before the cold intensifies."
+          },
+          "stops": [
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Reifendruck leicht senken.",
+                "hu": "Csökkentse a keréknyomást.",
+                "ro": "Scădeți presiunea în roți.",
+                "en": "Lower tire pressure slightly."
+              }
+            },
+            {
+              "name": "Independence Monument",
+              "tip_5lang": {
+                "de": "Kurzer Halt, nicht auskühlen.",
+                "hu": "Gyors megálló, ne hűljön ki.",
+                "ro": "Oprire scurtă, nu vă răciți.",
+                "en": "Short stop to avoid cooling down."
+              }
+            },
+            {
+              "name": "Mažeikiai Museum",
+              "tip_5lang": {
+                "de": "Warmer Innenraum genießen.",
+                "hu": "Élvezze a meleg belső teret.",
+                "ro": "Bucurați-vă de interiorul cald.",
+                "en": "Enjoy the warm interior."
+              }
+            },
+            {
+              "name": "Venta Regional Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Eis.",
+                "hu": "Vigyázat a rejtett jéggel.",
+                "ro": "Atenție la gheața ascunsă.",
+                "en": "Watch out for hidden ice."
+              }
+            },
+            {
+              "name": "Old Mažeikiai Cemetery",
+              "tip_5lang": {
+                "de": "Frühe Dämmerung beachten.",
+                "hu": "Figyeljen a korai sötétre.",
+                "ro": "Atenție la amurgul timpuriu.",
+                "en": "Note the early twilight here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe und eine Mütze unter dem Helm.",
+              "Helle Kleidung und Licht sind im Winter Pflicht.",
+              "Die Wege im Park können vereist sein.",
+              "Kürzen Sie die Tour bei extremer Kälte ab."
+            ],
+            "hu": [
+              "Viseljen kesztyűt és sisak alatti sapkát.",
+              "A világos ruházat és lámpa télen kötelező.",
+              "A parki utak jegesek lehetnek.",
+              "Extrém hidegben rövidítse le az útvonalat."
+            ],
+            "ro": [
+              "Purtați mănuși și căciulă sub cască.",
+              "Hainele deschise și luminile sunt obligatorii.",
+              "Potecile din parc pot fi înghețate.",
+              "Scurtați traseul dacă este extrem de frig."
+            ],
+            "en": [
+              "Wear gloves and a thermal cap under your helmet.",
+              "Bright clothing and lights are mandatory in winter.",
+              "Park paths can be icy or slippery.",
+              "Shorten the tour if the cold becomes extreme."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1035,6 +1381,188 @@
           "Plan for extra time for traffic, especially in the afternoon.",
           "Be mindful of speed limits, which can be lower in the countryside."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem im Auto trotzen wir dem Regen. Wir starten im Venta-Regionalpark, wo der Regen auf das Dach trommelt. Weiter geht es zum Friedhof und zur St.-Franziskus-Kirche. Den Mittag verbringen wir im Museum, während draußen der Himmel grau bleibt. Ein kurzer Besuch am Denkmal und ein Blick auf den Park beenden die komfortable Tour im Trockenen.",
+            "hu": "Kényelmesen, autóval dacolunk az esővel. A Venta Regionális Parkban kezdünk, ahol az eső kopog a tetőn. Továbbutazunk a temetőhöz és a Szent Ferenc templomhoz. A delet a múzeumban töltjük, miközben kint szürke az ég. Rövid látogatás az Emlékműnél és a parknál zárja a száraz túrát.",
+            "ro": "Confortabil în mașină, sfidăm ploaia. Începem în Parcul Regional Venta, unde ploaia bate în plafon. Continuăm spre cimitir și Biserica Sf. Francisc. Prânzul îl petrecem la muzeu, în timp ce cerul rămâne gri. O scurtă vizită la Monument și parc încheie turul confortabil.",
+            "en": "Comfortably in the car, we defy the rain. Starting at Venta Regional Park, hearing the rain drum on the roof. We continue to the cemetery and St. Francis Church. Midday is spent at the museum while the sky stays gray outside. A short visit to the monument and park finishes our dry tour."
+          },
+          "stops": [
+            {
+              "name": "Venta Regional Park",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Eingang.",
+                "hu": "Parkoló közvetlen a bejáratnál.",
+                "ro": "Parcare chiar la intrare.",
+                "en": "Parking right at the entrance."
+              }
+            },
+            {
+              "name": "Old Mažeikiai Cemetery",
+              "tip_5lang": {
+                "de": "Zufahrt kann schlammig sein.",
+                "hu": "A behajtó saras lehet.",
+                "ro": "Accesul poate fi noroios.",
+                "en": "Access road might be muddy."
+              }
+            },
+            {
+              "name": "St. Francis of Assisi Church",
+              "tip_5lang": {
+                "de": "Kurzer Weg vom Auto.",
+                "hu": "Rövid séta az autótól.",
+                "ro": "Drum scurt de la mașină.",
+                "en": "Short walk from the car."
+              }
+            },
+            {
+              "name": "Mažeikiai Museum",
+              "tip_5lang": {
+                "de": "Parken in den Seitenstraßen.",
+                "hu": "Parkolás az oldalsó utcákban.",
+                "ro": "Parcare pe străzile laterale.",
+                "en": "Parking in the side streets."
+              }
+            },
+            {
+              "name": "Independence Monument",
+              "tip_5lang": {
+                "de": "Sicht aus dem Auto möglich.",
+                "hu": "Az autóból is jól látható.",
+                "ro": "Vizibil și din mașină.",
+                "en": "Visible from inside the car."
+              }
+            },
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Halt am Parkrand nutzen.",
+                "hu": "Használja a park széli megállót.",
+                "ro": "Opriți la marginea parcului.",
+                "en": "Use the stop at the park edge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Landstraßen.",
+              "Parken Sie nah an den Eingängen der Gebäude.",
+              "Regenschirm griffbereit im Auto lassen.",
+              "Die Sicht kann durch starken Regen eingeschränkt sein."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra az országutakon.",
+              "Parkoljon minél közelebb a bejáratokhoz.",
+              "Tartsa az esernyőt kéznél az autóban.",
+              "A látási viszonyok korlátozottak lehetnek."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile județene.",
+              "Parcați cât mai aproape de intrări.",
+              "Țineți umbrela la îndemână în mașină.",
+              "Vizibilitatea poate fi redusă de ploaie."
+            ],
+            "en": [
+              "Watch for aquaplaning on regional roads.",
+              "Park as close to the entrances as possible.",
+              "Keep your umbrella handy in the car.",
+              "Visibility might be reduced during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour im warmen Auto beginnt im verschneiten Venta-Regionalpark. Nach einem Halt am alten Friedhof besuchen wir die beheizte St.-Franziskus-Kirche. Das Museum bietet mittags Schutz vor dem Frost. Am Nachmittag bewundern wir das Denkmal und den winterlichen Jugendpark, bevor wir den Tag entspannt ausklingen lassen.",
+            "hu": "A téli autós túra a havas Venta Regionális Parkban indul. A régi temető után meglátogatjuk a fűtött Szent Ferenc templomot. A múzeum délben védelmet nyújt a fagy ellen. Délután megcsodáljuk az Emlékművet és a téli Ifjúsági Parkot, majd kényelmesen zárjuk a napot.",
+            "ro": "Turul de iarnă cu mașina începe în Parcul Regional Venta înzăpezit. După o oprire la cimitir, vizităm Biserica Sf. Francisc încălzită. Muzeul oferă protecție împotriva gerului la prânz. După-amiaza admirăm Monumentul și Parcul Tineretului, încheind ziua relaxați.",
+            "en": "The winter car tour begins in a snowy Venta Regional Park. After stopping at the old cemetery, we visit the heated St. Francis Church. The museum provides mid-day protection from the frost. In the afternoon, we admire the monument and the wintry Youth Park before relaxing."
+          },
+          "stops": [
+            {
+              "name": "Venta Regional Park",
+              "tip_5lang": {
+                "de": "Haupteinfahrt nutzen.",
+                "hu": "Használja a főbejáratot.",
+                "ro": "Folosiți intrarea principală.",
+                "en": "Use the main entrance road."
+              }
+            },
+            {
+              "name": "Old Mažeikiai Cemetery",
+              "tip_5lang": {
+                "de": "Parkplatz kann glatt sein.",
+                "hu": "A parkoló jeges lehet.",
+                "ro": "Parcarea poate fi alunecoasă.",
+                "en": "Parking area might be icy."
+              }
+            },
+            {
+              "name": "St. Francis of Assisi Church",
+              "tip_5lang": {
+                "de": "Kirche ist oft beheizt.",
+                "hu": "A templom gyakran fűtött.",
+                "ro": "Biserica este adesea încălzită.",
+                "en": "Church is often heated inside."
+              }
+            },
+            {
+              "name": "Mažeikiai Museum",
+              "tip_5lang": {
+                "de": "Zentrale Lage, gut erreichbar.",
+                "hu": "Központi helyen, jól elérhető.",
+                "ro": "Locație centrală, accesibilă.",
+                "en": "Central location, easy access."
+              }
+            },
+            {
+              "name": "Independence Monument",
+              "tip_5lang": {
+                "de": "Schneller Fotostopp.",
+                "hu": "Gyors fotómegálló.",
+                "ro": "Oprire rapidă pentru poze.",
+                "en": "Quick photo stop today."
+              }
+            },
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Winterlandschaft genießen.",
+                "hu": "Élvezze a téli tájat.",
+                "ro": "Bucurați-vă de peisajul de iarnă.",
+                "en": "Enjoy the winter scenery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Litauen zwingend erforderlich.",
+              "Achten Sie auf Wildwechsel in Waldnähe (Venta).",
+              "Halten Sie den Tank für die Heizung gefüllt.",
+              "Eiskratzer und Besen sollten bereitliegen."
+            ],
+            "hu": [
+              "Téli gumi kötelező Litvániában.",
+              "Figyeljen a vadakra az erdős szakaszon.",
+              "Tartson elég üzemanyagot a fűtéshez.",
+              "Jégkaparó és kefe legyen kéznél."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Lituania.",
+              "Atenție la animale în zona împădurită.",
+              "Păstrați rezervorul plin pentru încălzire.",
+              "Răzuitoarea de gheață trebuie să fie la îndemână."
+            ],
+            "en": [
+              "Winter tires are mandatory in Lithuania.",
+              "Watch for wildlife near forested areas (Venta).",
+              "Keep enough fuel for the car heater.",
+              "Ice scraper and brush should be ready."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1371,6 +1899,188 @@
           "Have small change ready for tickets if paying on the bus.",
           "Be aware that bus services might be less frequent on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus navigieren wir durch das verregnete Mažeikiai. Wir starten am Kulturzentrum und besuchen das Denkmal sowie die St.-Franziskus-Kirche. Der Venta-Regionalpark bietet Natur trotz Nässe. Den Nachmittag verbringen wir im Museum, bevor wir den Tag im Jugendpark ausklingen lassen. Die Busse bieten trockene Pausen zwischen den Stationen.",
+            "hu": "Busszal navigálunk az esős Mažeikiai-ban. A Kulturális Központnál kezdünk, majd az Emlékművet és a Szent Ferenc templomot érintjük. A Venta Regionális Park a nedvesség ellenére is szép. Délutánt a múzeumban töltjük, majd az Ifjúsági Parkkal zárunk. A buszok száraz pihenőt kínálnak.",
+            "ro": "Navigăm cu autobuzul prin Mažeikiai-ul ploios. Începem la Centrul Cultural, vizităm Monumentul și Biserica Sf. Francisc. Parcul Regional Venta oferă natură în ciuda umezelii. După-amiaza o petrecem la muzeu, încheind în Parcul Tineretului. Autobuzele oferă pauze uscate între stații.",
+            "en": "We navigate through rainy Mažeikiai by bus. Starting at the Cultural Centre, we visit the monument and St. Francis Church. Venta Regional Park offers nature despite the wet. Mid-day is spent in the museum, finishing at Youth Park. Buses provide dry breaks between stops."
+          },
+          "stops": [
+            {
+              "name": "Mažeikiai Cultural Centre",
+              "tip_5lang": {
+                "de": "Wartehalle im Trockenen.",
+                "hu": "Váróterem a szárazon.",
+                "ro": "Sală de așteptate la uscat.",
+                "en": "Waiting hall is dry here."
+              }
+            },
+            {
+              "name": "Independence Monument",
+              "tip_5lang": {
+                "de": "Nahegelegene Bushaltestelle.",
+                "hu": "Közeli buszmegálló.",
+                "ro": "Stație de autobuz aproape.",
+                "en": "Bus stop located nearby."
+              }
+            },
+            {
+              "name": "St. Francis of Assisi Church",
+              "tip_5lang": {
+                "de": "Kurzer Sprint zur Kirche.",
+                "hu": "Gyors sprint a templomig.",
+                "ro": "Sprint scurt până la biserică.",
+                "en": "Short dash to the church."
+              }
+            },
+            {
+              "name": "Venta Regional Park",
+              "tip_5lang": {
+                "de": "Fahrplan für Rückfahrt prüfen.",
+                "hu": "Ellenőrizze a visszautat.",
+                "ro": "Verificați orarul de retur.",
+                "en": "Check return bus schedule."
+              }
+            },
+            {
+              "name": "Mažeikiai Museum",
+              "tip_5lang": {
+                "de": "Zentrale Umsteigestelle.",
+                "hu": "Központi átszállópont.",
+                "ro": "Punct central de transfer.",
+                "en": "Central transfer point."
+              }
+            },
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Unterstand an der Haltestelle.",
+                "hu": "Fedett buszmegálló.",
+                "ro": "Adăpost în stație.",
+                "en": "Shelter at the bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeit-Buszeiten.",
+              "Ein kleiner Schirm passt gut in die Tasche.",
+              "Planen Sie Pufferzeiten bei starkem Regen ein.",
+              "Haupthaltestellen sind meist überdacht."
+            ],
+            "hu": [
+              "Használja az appot a valós idejű menetrendhez.",
+              "Egy kis esernyő jól elfér a táskában.",
+              "Számoljon rá az időre nagy esőben.",
+              "A fő megállók többnyire fedettek."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru orarul în timp real.",
+              "O umbrelă mică încape bine în geantă.",
+              "Planificați timp extra în caz de ploaie torențială.",
+              "Stațiile principale sunt de obicei acoperite."
+            ],
+            "en": [
+              "Use the app for real-time bus tracking.",
+              "A small umbrella fits well in a bag.",
+              "Allow extra time during heavy rain for delays.",
+              "Main bus stops are usually sheltered."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Bustour beginnt am Kulturzentrum. Wir besuchen das Denkmal und die St.-Franziskus-Kirche, wobei der Bus uns vor dem Wind schützt. Der verschneite Venta-Regionalpark ist ein Highlight. Den Mittag verbringen wir im warmen Museum und beenden den Tag im frostigen Jugendpark. Die beheizten Busse sind im Winter ein Segen.",
+            "hu": "A téli buszos túra a Kulturális Központnál indul. Az Emlékművet és a Szent Ferenc templomot érintjük, a busz megvéd a széltől. A havas Venta Regionális Park fénypontja a napnak. Delet a meleg múzeumban töltjük, majd a fagyos Ifjúsági Parkkal zárunk. A fűtött buszok áldásosak télen.",
+            "ro": "Turul de iarnă cu autobuzul începe la Centrul Cultural. Vizităm Monumentul și Biserica Sf. Francisc, autobuzul protejându-ne de vânt. Parcul Regional Venta înzăpezit este punctul culminant. Prânzul îl petrecem în muzeu, încheind în Parcul Tineretului. Autobuzele încălzite sunt o binecuvântare.",
+            "en": "Our winter bus tour starts at the Cultural Centre. We visit the monument and St. Francis Church, with the bus sheltering us from the wind. The snowy Venta Regional Park is a highlight. Mid-day is spent in the warm museum, finishing at the frosty Youth Park. Heated buses are a blessing in winter."
+          },
+          "stops": [
+            {
+              "name": "Mažeikiai Cultural Centre",
+              "tip_5lang": {
+                "de": "Warmes Foyer zum Warten.",
+                "hu": "Meleg aula a várakozáshoz.",
+                "ro": "Foaier cald pentru așteptare.",
+                "en": "Warm foyer for waiting."
+              }
+            },
+            {
+              "name": "Independence Monument",
+              "tip_5lang": {
+                "de": "Windgeschützte Haltestelle.",
+                "hu": "Szélvédett buszmegálló.",
+                "ro": "Stație protejată de vânt.",
+                "en": "Wind-sheltered bus stop."
+              }
+            },
+            {
+              "name": "St. Francis of Assisi Church",
+              "tip_5lang": {
+                "de": "Gute Frequenz der Busse.",
+                "hu": "Gyakori buszjáratok.",
+                "ro": "Frecvență bună a autobuzelor.",
+                "en": "Good bus frequency here."
+              }
+            },
+            {
+              "name": "Venta Regional Park",
+              "tip_5lang": {
+                "de": "Laufwege können glatt sein.",
+                "hu": "A gyalogutak csúszhatnak.",
+                "ro": "Potecile pot fi alunecoase.",
+                "en": "Walking paths may be slippery."
+              }
+            },
+            {
+              "name": "Mažeikiai Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich auf.",
+                "hu": "Melegedjen fel bent.",
+                "ro": "Încălziți-vă în interior.",
+                "en": "Warm up inside the museum."
+              }
+            },
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Frühe Rückfahrt planen.",
+                "hu": "Tervezzen korai visszautat.",
+                "ro": "Planificați returul devreme.",
+                "en": "Plan an early return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter zuverlässig.",
+              "Warten Sie in Geschäften oder Cafés.",
+              "Kleingeld oder Karte bereithalten.",
+              "Fahrpläne können bei Schnee variieren."
+            ],
+            "hu": [
+              "A buszok télen is megbízhatóak.",
+              "Várjon üzletekben vagy kávézókban.",
+              "Készítse elő az aprót vagy kártyát.",
+              "Hóban a menetrend változhat."
+            ],
+            "ro": [
+              "Autobuzele sunt fiabile și iarna.",
+              "Așteptați în magazine sau cafenele.",
+              "Pregătiți mărunțișul sau cardul.",
+              "Orarele pot varia în caz de zăpadă."
+            ],
+            "en": [
+              "Buses are reliable even in winter.",
+              "Wait inside nearby shops or cafes.",
+              "Have small change or card ready.",
+              "Schedules may vary slightly with snow."
+            ]
+          }
+        }
       }
     }
   }

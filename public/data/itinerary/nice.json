@@ -366,6 +366,196 @@
           "Stay hydrated, especially during summer walks on the Promenade.",
           "Watch out for pickpockets in crowded market areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Beginnen Sie unter den Arkaden der Place Masséna, um trocken zu bleiben und die Statuen zu bewundern. Mittag: Tauchen Sie in die engen Gassen von Vieux Nice ein und besuchen Sie den Markt Cours Saleya. Nachmittag: Suchen Sie Schutz in der Kathedrale Sainte-Réparate und nutzen Sie den Aufzug zum Schlosshügel. Abend: Beenden Sie den Tag mit einem windigen Spaziergang an der Promenade.",
+            "hu": "Reggel: Kezdje a Place Masséna árkádjai alatt, hogy szárazon maradva csodálhassa meg a szökőkutakat. Délben: Merüljön el az Óváros szűk utcáiban és látogassa meg a Cours Saleya piacot. Délután: Keressen menedéket a katedrálisban, majd vegye igénybe a várliftet a kilátásért. Este: Zárja a napot egy szeles sétával a Promenade des Anglais partján, esernyővel felszerelkezve.",
+            "ro": "Dimineața: Începeți sub arcadele din Place Masséna pentru a rămâne uscați în timp ce admirați statuile. La prânz: Intrați pe străzile înguste din Vieux Nice și vizitați piața Cours Saleya. După-amiaza: Adăpostiți-vă în Catedrala Sainte-Réparate și folosiți liftul pentru a urca pe Dealul Castelului. Seara: Încheiați ziua cu o plimbare vântoasă pe faleză, protejați de o umbrelă solidă.",
+            "en": "Morning: Start under the arcades of Place Masséna to stay dry while admiring the iconic statues. Noon: Deep dive into the narrow alleys of Vieux Nice and browse the covered stalls of Cours Saleya. Afternoon: Seek shelter in the Sainte-Réparate Cathedral, then take the elevator up Castle Hill. Evening: End the day with a brisk walk on the Promenade des Anglais, braving the sea wind."
+          },
+          "stops": [
+            {
+              "name": "Place Masséna",
+              "tip_5lang": {
+                "de": "Nutzen Sie die roten Arkaden als Regenschutz.",
+                "hu": "Használja a vörös árkádokat eső elleni védelemként.",
+                "ro": "Folosiți arcadele roșii ca adăpost împotriva ploii.",
+                "en": "Use the red arcades as a natural rain shelter."
+              }
+            },
+            {
+              "name": "Old Town (Vieux Nice)",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Kopfsteinpflaster.",
+                "hu": "Vigyázzon a csúszós macskaköveken.",
+                "ro": "Atenție la pavajul alunecos din piatră cubică.",
+                "en": "Be careful on the slippery cobblestone streets."
+              }
+            },
+            {
+              "name": "Cours Saleya Market",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Markisen der Cafés.",
+                "hu": "Keressen menedéket a kávézók napellenzői alatt.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor.",
+                "en": "Find shelter under the large cafe awnings."
+              }
+            },
+            {
+              "name": "Sainte-Réparate Cathedral",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine trockene Kulturpause.",
+                "hu": "Ideális helyszín egy száraz kulturális pihenőhöz.",
+                "ro": "Un loc ideal pentru o pauză culturală uscată.",
+                "en": "An ideal spot for a dry cultural break."
+              }
+            },
+            {
+              "name": "Castle Hill (Colline du Château)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufzug statt der nassen Treppen.",
+                "hu": "Használja a liftet a vizes lépcsők helyett.",
+                "ro": "Folosiți liftul în locul scărilor ude.",
+                "en": "Take the elevator instead of the wet stairs."
+              }
+            },
+            {
+              "name": "Promenade des Anglais",
+              "tip_5lang": {
+                "de": "Halten Sie Ihren Regenschirm bei Wind fest.",
+                "hu": "Erős szélben fogja szorosan az esernyőjét.",
+                "ro": "Țineți umbrela strâns în cazul vântului puternic.",
+                "en": "Hold your umbrella firmly against the sea breeze."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Arkaden am Place Masséna bieten perfekten Schutz bei kurzen Schauern.",
+              "Tragen Sie Schuhe mit gutem Profil, da die Altstadtgassen bei Nässe sehr rutschig sind.",
+              "Der Aufzug zum Schlosshügel (Ascenseur du Château) ist bei Regen die beste Wahl.",
+              "Viele Cafés in der Altstadt haben beheizte Außenbereiche mit Markisen.",
+              "Die Promenade kann bei Sturm gesperrt werden, achten Sie auf Warnschilder."
+            ],
+            "hu": [
+              "A Place Masséna árkádjai tökéletes védelmet nyújtanak a hirtelen záporok ellen.",
+              "Viseljen jó tapadású cipőt, mert az óvárosi utcák nagyon csúsznak esőben.",
+              "A Várhegyre vezető lift (Ascenseur du Château) a legjobb választás ilyenkor.",
+              "Sok óvárosi kávézó rendelkezik fűtött, fedett kültéri résszel.",
+              "Viharos szélben a Promenade egy részét lezárhatják, figyelje a táblákat."
+            ],
+            "ro": [
+              "Arcadele din Place Masséna oferă o protecție perfectă în timpul averselor scurte.",
+              "Purtați încălțăminte cu talpă aderentă, străzile vechi sunt foarte alunecoase.",
+              "Liftul către Dealul Castelului este cea mai bună opțiune pe timp de ploaie.",
+              "Multe cafenele din orașul vechi au terase acoperite și încălzite.",
+              "Faleza poate fi închisă în caz de furtună, urmăriți panourile de avertizare."
+            ],
+            "en": [
+              "The arcades at Place Masséna provide perfect shelter during sudden showers.",
+              "Wear shoes with good grip as the old town's limestone floors get very slick.",
+              "The Castle Hill elevator (Ascenseur du Château) is the best way up in the rain.",
+              "Many cafes in Vieux Nice offer heated outdoor seating under sturdy awnings.",
+              "The Promenade can be closed during heavy storms; check for local warnings."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Genießen Sie die milde Wintersonne am Place Masséna. Mittag: Erkunden Sie die Altstadt und probieren Sie heiße Socca am Markt. Nachmittag: Besuchen Sie die Kathedrale und erleben Sie den frühen Sonnenuntergang vom Schlosshügel. Abend: Spazieren Sie entlang der beleuchteten Promenade.",
+            "hu": "Reggel: Élvezze az enyhe téli napsütést a Place Masséna téren. Délben: Fedezze fel az Óvárost és kóstoljon forró soccát a piacon. Délután: Látogasson el a katedrálisba, majd nézze meg a korai naplementét a Várhegyről. Este: Sétáljon a kivilágított Promenade des Anglais mentén.",
+            "ro": "Dimineața: Bucurați-vă de soarele blând de iarnă în Place Masséna. La prânz: Explorați orașul vechi și gustați Socca fierbinte în piață. După-amiaza: Vizitați catedrala și admirați apusul devreme de pe Dealul Castelului. Seara: Plimbați-vă pe faleza iluminată festiv.",
+            "en": "Morning: Enjoy the mild winter sun on the bright red buildings of Place Masséna. Noon: Wander through the Old Town and try hot Socca at the market. Afternoon: Visit the Cathedral and catch the early sunset from the top of Castle Hill. Evening: Take a peaceful stroll along the beautifully lit Promenade des Anglais."
+          },
+          "stops": [
+            {
+              "name": "Place Masséna",
+              "tip_5lang": {
+                "de": "Die Wintersonne lässt die roten Fassaden strahlen.",
+                "hu": "A téli napfény ragyogóvá teszi a vörös homlokzatokat.",
+                "ro": "Soarele de iarnă face fațadele roșii să strălucească.",
+                "en": "The winter sun makes the red facades glow beautifully."
+              }
+            },
+            {
+              "name": "Old Town (Vieux Nice)",
+              "tip_5lang": {
+                "de": "In den engen Gassen ist es oft wärmer als am Meer.",
+                "hu": "A szűk utcákban gyakran melegebb van, mint a parton.",
+                "ro": "Pe străzile înguste este adesea mai cald decât la mare.",
+                "en": "It is often warmer in the narrow alleys than by the sea."
+              }
+            },
+            {
+              "name": "Cours Saleya Market",
+              "tip_5lang": {
+                "de": "Probieren Sie saisonale Produkte wie kandierte Früchte.",
+                "hu": "Kóstolja meg a szezonális kandírozott gyümölcsöket.",
+                "ro": "Gustați fructele confiate, specifice sezonului de iarnă.",
+                "en": "Try seasonal winter treats like candied fruits."
+              }
+            },
+            {
+              "name": "Sainte-Réparate Cathedral",
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtige Barockarchitektur in aller Ruhe.",
+                "hu": "Csodálja meg a barokk építészetet a téli nyugalomban.",
+                "ro": "Admirați arhitectura barocă în liniștea iernii.",
+                "en": "Admire the Baroque architecture in the winter quiet."
+              }
+            },
+            {
+              "name": "Castle Hill (Colline du Château)",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter bereits gegen 17:00 Uhr.",
+                "hu": "Télen a naplemente már 17:00 óra körül bekövetkezik.",
+                "ro": "Apusul de soare are loc deja în jurul orei 17:00.",
+                "en": "Sunset occurs as early as 5:00 PM in the winter."
+              }
+            },
+            {
+              "name": "Promenade des Anglais",
+              "tip_5lang": {
+                "de": "Die Meeresluft ist erfrischend; ziehen Sie sich warm an.",
+                "hu": "A tengeri levegő frissítő, öltözzön fel rétegesen.",
+                "ro": "Aerul mării este revigorant; îmbrăcați-vă gros.",
+                "en": "The sea air is crisp and refreshing; dress in layers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist bereits gegen 17:00 Uhr, planen Sie Ihren Schlosshügel-Besuch rechtzeitig.",
+              "Im Dezember gibt es einen Weihnachtsmarkt am Place Masséna.",
+              "Die Temperaturen sind mild (8-15°C), aber der Wind vom Meer kann kühl sein.",
+              "Winter ist die beste Zeit für klare Fotos der schneebedeckten Seealpen im Hintergrund.",
+              "Die meisten Museen haben im Winter verkürzte Öffnungszeiten."
+            ],
+            "hu": [
+              "A naplemente már 17:00 körül van, tervezze ehhez a várhegyi látogatást.",
+              "Decemberben karácsonyi vásár várja a látogatókat a Place Masséna téren.",
+              "A hőmérséklet enyhe (8-15°C), de a tengeri szél hűvös lehet.",
+              "A tél a legjobb időszak a háttérben lévő havas Alpok tiszta fotózásához.",
+              "A legtöbb múzeum téli nyitvatartása rövidebb, ellenőrizze előre."
+            ],
+            "ro": [
+              "Apusul este în jur de ora 17:00, planificați vizita pe Dealul Castelului din timp.",
+              "În decembrie, există un târg de Crăciun în Place Masséna.",
+              "Temperaturile sunt blânde (8-15°C), dar vântul mării poate fi rece.",
+              "Iarna este cel mai bun moment pentru fotografii clare cu Alpii înzăpeziți în fundal.",
+              "Majoritatea muzeelor au program redus pe timpul iernii."
+            ],
+            "en": [
+              "Sunset is around 5:00 PM, so plan your Castle Hill visit for the late afternoon.",
+              "In December, look out for the charming Christmas market at Place Masséna.",
+              "Expect mild temperatures (8-15°C), but be prepared for a chilly sea breeze.",
+              "Winter offers the clearest views of the snow-capped Alps in the distance.",
+              "Check opening hours as many sites close earlier during the winter season."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -605,6 +795,178 @@
           "Wearing a helmet is recommended.",
           "Always lock your bike securely."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Radeln Sie vorsichtig entlang der Promenade. Mittag: Machen Sie Pause am Port Lympia und suchen Sie ein Café. Nachmittag: Erkunden Sie den Mont Boron Park bei kühlerer Luft. Abend: Kehren Sie zur Place Garibaldi zurück und nutzen Sie die Arkaden.",
+            "hu": "Reggel: Kerékpározzon óvatosan a Promenade mentén. Délben: Tartson szünetet a Port Lympia kikötőben egy kávézóban. Délután: Fedezze fel a Mont Boron parkot a hűvösebb időben. Este: Térjen vissza a Place Garibaldihoz és használja az árkádok védelmét.",
+            "ro": "Dimineața: Pedalați cu atenție pe faleză. La prânz: Luați o pauză în Port Lympia și căutați o cafenea. După-amiaza: Explorați Parcul Mont Boron în aerul răcoros. Seara: Reveniți în Place Garibaldi și folosiți protecția arcadelor.",
+            "en": "Morning: Cycle carefully along the Promenade des Anglais. Noon: Take a break at Port Lympia and find a cozy harbor-side cafe. Afternoon: Explore Mont Boron Park in the fresh, rainy air. Evening: Return to Place Garibaldi and park under the protective porticos."
+          },
+          "stops": [
+            {
+              "name": "Promenade des Anglais",
+              "tip_5lang": {
+                "de": "Vermeiden Sie die weißen Bodenmarkierungen, sie sind rutschig.",
+                "hu": "Kerülje a fehér útburkolati jeleket, mert csúsznak.",
+                "ro": "Evitați marcajele albe de pe asfalt, sunt foarte alunecoase.",
+                "en": "Avoid riding on the white floor markings; they get slippery."
+              }
+            },
+            {
+              "name": "Port Lympia (Harbor)",
+              "tip_5lang": {
+                "de": "Achten Sie auf nasse Holzstege am Hafenbecken.",
+                "hu": "Ügyeljen a vizes fapadlókra a kikötő mellett.",
+                "ro": "Atenție la pontoanele de lemn ude din port.",
+                "en": "Watch out for wet wooden boardwalks around the harbor."
+              }
+            },
+            {
+              "name": "Mont Boron Park",
+              "tip_5lang": {
+                "de": "Die Abfahrten können bei Nässe gefährlich sein.",
+                "hu": "A lejtők veszélyesek lehetnek esőben.",
+                "ro": "Coborârile pot fi periculoase pe timp de ploaie.",
+                "en": "Descents can be dangerous on wet asphalt; brake early."
+              }
+            },
+            {
+              "name": "Villefranche-sur-Mer",
+              "tip_5lang": {
+                "de": "Die Küstenstraße bietet wenig Schutz vor Regen.",
+                "hu": "A tengerparti út kevés menedéket nyújt az eső elől.",
+                "ro": "Drumul de coastă oferă puțin adăpost împotriva ploii.",
+                "en": "The coastal road offers little shelter from the rain."
+              }
+            },
+            {
+              "name": "Place Garibaldi",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Arkaden ab.",
+                "hu": "Parkolja le kerékpárját az árkádok alatt.",
+                "ro": "Parcați bicicleta sub arcadele pieței.",
+                "en": "Park your bike under the square's porticos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrradwege in Nizza können bei Regen sehr rutschig werden, besonders die Farbe.",
+              "Bringen Sie ein Tuch mit, um den Sattel der Leihräder abzuwischen.",
+              "Vermeiden Sie steile Anstiege zum Mont Boron bei starkem Regen.",
+              "Tragen Sie auffällige Regenkleidung für bessere Sichtbarkeit.",
+              "Die Küstenstraße nach Villefranche ist bei Nässe mit Vorsicht zu befahren."
+            ],
+            "hu": [
+              "A nizzai kerékpárutak festése esőben rendkívül csúszóssá válik.",
+              "Vigyen magával törlőkendőt a bérelt biciklik nyergének letörléséhez.",
+              "Heves esőben kerülje a meredek emelkedőket a Mont Boron felé.",
+              "Viseljen feltűnő esőruházatot a jobb láthatóság érdekében.",
+              "A Villefranche-ba vezető parti úton fokozott óvatossággal közlekedjen."
+            ],
+            "ro": [
+              "Pistele de biciclete pot deveni foarte alunecoase, mai ales zonele vopsite.",
+              "Aduceți o cârpă pentru a șterge șaua bicicletelor de închiriat.",
+              "Evitați urcările abrupte spre Mont Boron în caz de ploaie torențială.",
+              "Purtați haine de ploaie reflectorizante pentru o vizibilitate mai bună.",
+              "Drumul de coastă spre Villefranche trebuie parcurs cu prudență sporită."
+            ],
+            "en": [
+              "Bike paths in Nice get very slippery when wet, especially the painted lines.",
+              "Bring a small towel to dry the seat of your rental bike.",
+              "Avoid the steep climbs to Mont Boron if visibility is low due to rain.",
+              "Wear high-visibility waterproof gear to stay safe in traffic.",
+              "The coastal road to Villefranche requires extra caution on wet bends."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Radeln Sie in der klaren Winterluft am Meer entlang. Mittag: Genießen Sie die Sonne am Hafenbecken des Port Lympia. Nachmittag: Nutzen Sie das gute Licht für Fotos im Mont Boron Park. Abend: Ein kurzer Stop in Villefranche, bevor es im Dunkeln zurückgeht.",
+            "hu": "Reggel: Kerékpározzon a tiszta téli levegőben a tengerparton. Délben: Élvezze a napsütést a Port Lympia kikötőben. Délután: Használja ki a jó fényeket fotózáshoz a Mont Boron parkban. Este: Egy rövid megálló Villefranche-ban, mielőtt sötétben visszatérne.",
+            "ro": "Dimineața: Pedalați în aerul curat de iarnă de-a lungul mării. La prânz: Bucurați-vă de soare în Port Lympia. După-amiaza: Folosiți lumina bună pentru fotografii în Parcul Mont Boron. Seara: O scurtă oprire în Villefranche înainte de întoarcerea pe întuneric.",
+            "en": "Morning: Cycle along the coast in the crisp, refreshing winter air. Noon: Soak up the sun at the colorful Port Lympia harbor. Afternoon: Take advantage of the clear winter light for photos in Mont Boron Park. Evening: A quick stop in Villefranche before heading back as dusk falls."
+          },
+          "stops": [
+            {
+              "name": "Promenade des Anglais",
+              "tip_5lang": {
+                "de": "Der kühle Seewind erfordert winddichte Kleidung.",
+                "hu": "A hűvös tengeri szél miatt viseljen szélálló ruhát.",
+                "ro": "Vântul rece al mării necesită haine rezistente la vânt.",
+                "en": "The cool sea breeze requires windproof clothing."
+              }
+            },
+            {
+              "name": "Port Lympia (Harbor)",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne spiegelt sich wunderschön im Wasser.",
+                "hu": "Az alacsonyan járó nap gyönyörűen tükröződik a vízen.",
+                "ro": "Soarele jos se reflectă superb în apa portului.",
+                "en": "The low sun reflects beautifully off the harbor water."
+              }
+            },
+            {
+              "name": "Mont Boron Park",
+              "tip_5lang": {
+                "de": "Beste Sicht auf die verschneiten Seealpen.",
+                "hu": "Ilyenkor a legjobb a kilátás a havas Alpokra.",
+                "ro": "Cea mai bună vizibilitate asupra Alpilor înzăpeziți.",
+                "en": "Best views of the snow-capped Alps in the distance."
+              }
+            },
+            {
+              "name": "Villefranche-sur-Mer",
+              "tip_5lang": {
+                "de": "Weniger Verkehr macht die Küstenstraße sicherer.",
+                "hu": "A kisebb forgalom miatt a tengerparti út biztonságosabb.",
+                "ro": "Traficul redus face drumul de coastă mai sigur.",
+                "en": "Less traffic makes the coastal road much safer for bikes."
+              }
+            },
+            {
+              "name": "Place Garibaldi",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz in der Wintersonne.",
+                "hu": "Keressen egy napsütötte helyet a téren.",
+                "ro": "Căutați un loc însorit în piață.",
+                "en": "Find a sun-drenched spot in the square for a break."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Winterluft ist meist sehr klar, ideal für weite Panoramablicke.",
+              "Ziehen Sie Handschuhe an, da der Fahrtwind am Meer recht kalt sein kann.",
+              "Ab 17:00 Uhr ist es dunkel, prüfen Sie Ihre Fahrradbeleuchtung.",
+              "Die Steigungen wärmen Sie auf, nutzen Sie Schichten zum An- und Ausziehen.",
+              "Im Winter sind weniger Touristen auf den Radwegen unterwegs."
+            ],
+            "hu": [
+              "A téli levegő nagyon tiszta, ideális a távoli panorámákhoz.",
+              "Viseljen kesztyűt, mert a menetszél a tengerparton hideg lehet.",
+              "17:00 után már sötét van, ellenőrizze a kerékpár lámpáit.",
+              "Az emelkedők felmelegítik, használjon könnyen levehető rétegeket.",
+              "Télen jóval kevesebb turista van a kerékpárutakon."
+            ],
+            "ro": [
+              "Aerul de iarnă este foarte clar, ideal pentru vederi panoramice.",
+              "Purtați mănuși, deoarece vântul în timpul mersului poate fi tăios.",
+              "Se întunecă după ora 17:00, verificați sistemul de iluminare al bicicletei.",
+              "Urcările vă vor încălzi, folosiți haine în straturi.",
+              "Iarna sunt mult mai puțini turiști pe pistele de biciclete."
+            ],
+            "en": [
+              "Winter air is very clear, making it perfect for distant panoramic views.",
+              "Wear gloves, as the sea breeze can feel very cold while cycling.",
+              "Sunset is early (around 5 PM), so make sure your bike lights work.",
+              "Climbing will warm you up; use layers that are easy to add or remove.",
+              "There are significantly fewer tourists on the cycle paths in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -844,6 +1206,178 @@
           "Coastal roads are beautiful but narrow.",
           "A navigation system is highly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Fahren Sie vorsichtig zur Grande Corniche bei Nebelgefahr. Mittag: Erkunden Sie das mittelalterliche Èze Village im Regen. Nachmittag: Besuchen Sie Saint-Jean-Cap-Ferrat und die Villa Ephrussi. Abend: Kehren Sie zum Parken am Place Masséna zurück.",
+            "hu": "Reggel: Vezessen óvatosan a Grande Corniche úton a ködveszély miatt. Délben: Fedezze fel a középkori Èze falut az esőben. Délután: Látogassa meg Saint-Jean-Cap-Ferrat-t és az Ephrussi villát. Este: Térjen vissza a Place Masséna alatti parkolóba.",
+            "ro": "Dimineața: Conduceți cu prudență pe Grande Corniche, atenție la ceață. La prânz: Explorați satul medieval Èze pe ploaie. După-amiaza: Vizitați Saint-Jean-Cap-Ferrat și Villa Ephrussi. Seara: Reveniți pentru parcare în zona Place Masséna.",
+            "en": "Morning: Drive carefully up to the Grande Corniche; watch for low visibility. Noon: Explore the medieval streets of Èze Village between showers. Afternoon: Visit the lush Saint-Jean-Cap-Ferrat and the indoor Villa Ephrussi. Evening: Return to Nice and park in the underground lots near Place Masséna."
+          },
+          "stops": [
+            {
+              "name": "Grande Corniche Viewpoint",
+              "tip_5lang": {
+                "de": "Bei starkem Regen kann die Sicht stark eingeschränkt sein.",
+                "hu": "Heves esőben a látótávolság jelentősen lecsökkenhet.",
+                "ro": "În caz de ploaie torențială, vizibilitatea poate fi redusă.",
+                "en": "Visibility can be very limited during heavy rain or mist."
+              }
+            },
+            {
+              "name": "Èze Village",
+              "tip_5lang": {
+                "de": "Die steilen Pfade sind bei Nässe sehr rutschig.",
+                "hu": "A meredek ösvények vizesen nagyon csúszósak.",
+                "ro": "Cărările abrupte sunt foarte alunecoase când sunt ude.",
+                "en": "The steep paths are very slippery when wet; wear boots."
+              }
+            },
+            {
+              "name": "Saint-Jean-Cap-Ferrat",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Villa Ephrussi als regensichere option.",
+                "hu": "Látogassa meg az Ephrussi villát, ami jó esőnapra.",
+                "ro": "Vizitați Villa Ephrussi ca opțiune protejată de ploaie.",
+                "en": "Visit Villa Ephrussi de Rothschild for an indoor alternative."
+              }
+            },
+            {
+              "name": "Promenade des Anglais (West)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf der Fahrbahn.",
+                "hu": "Ügyeljen a nagy tócsákra az úttesten.",
+                "ro": "Atenție la bălțile mari de pe carosabil.",
+                "en": "Watch out for large puddles on the main roadway."
+              }
+            },
+            {
+              "name": "Place Masséna",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Parking Masséna'.",
+                "hu": "Használja a 'Parking Masséna' mélygarázst.",
+                "ro": "Folosiți parcarea subterană 'Parking Masséna'.",
+                "en": "Use the underground 'Parking Masséna' to stay dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Corniche-Straßen sind bei Regen anspruchsvoll, fahren Sie langsam.",
+              "Parkhäuser im Zentrum (Masséna, Saleya) sind trocken und sicher.",
+              "Bei schlechter Sicht lohnen sich die Aussichtspunkte an der Grande Corniche kaum.",
+              "Nutzen Sie Regentage für Besuche der prachtvollen Villen am Cap-Ferrat.",
+              "Vermeiden Sie das Parken unter Bäumen bei Sturmgefahr."
+            ],
+            "hu": [
+              "A Corniche utak esőben nehezen vezethetőek, haladjon lassan.",
+              "A belvárosi mélygarázsok (Masséna, Saleya) szárazak és biztonságosak.",
+              "Rossz látási viszonyok mellett a Grande Corniche kilátói kevésbé élvezetesek.",
+              "Használja az esős időt a Cap-Ferrat pompás villáinak meglátogatására.",
+              "Viharos szélben kerülje a fák alatti parkolást."
+            ],
+            "ro": [
+              "Drumurile Corniche sunt dificile pe ploaie, conduceți cu viteză redusă.",
+              "Parcările subterane din centru sunt sigure și vă mențin uscați.",
+              "Dacă vizibilitatea este redusă, punctele de belvedere nu merită oprirea.",
+              "Folosiți zilele ploioase pentru a vizita vilele luxoase de pe Cap-Ferrat.",
+              "Evitați parcarea sub copaci dacă există risc de furtună."
+            ],
+            "en": [
+              "The Corniche roads are challenging in the rain; drive slowly on bends.",
+              "Underground parking (Masséna, Saleya) is the best way to stay dry in town.",
+              "Skip the viewpoints on Grande Corniche if the clouds are too low.",
+              "Rainy days are perfect for touring the historic villas on Cap-Ferrat.",
+              "Avoid parking under trees during high wind warnings."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Genießen Sie die klare Sicht von der Grande Corniche. Mittag: Erkunden Sie das ruhige Èze Village ohne Sommertouristen. Nachmittag: Ein entspannter Drive um das Cap-Ferrat. Abend: Erleben Sie die Weihnachtsbeleuchtung am Place Masséna.",
+            "hu": "Reggel: Élvezze a tiszta kilátást a Grande Corniche útról. Délben: Fedezze fel a csendes Èze falut a nyári tömeg nélkül. Délután: Egy nyugodt autózás a Cap-Ferrat körül. Este: Csodálja meg a karácsonyi fényeket a Place Masséna téren.",
+            "ro": "Dimineața: Bucurați-vă de vederea clară de pe Grande Corniche. La prânz: Explorați satul Èze, mult mai liniștit iarna. După-amiaza: O plimbare relaxantă cu mașina în jurul Cap-Ferrat. Seara: Admirați luminile de sărbătoare din Place Masséna.",
+            "en": "Morning: Enjoy the crystal-clear panoramic views from the Grande Corniche. Noon: Explore the peaceful Èze Village without the summer crowds. Afternoon: Take a relaxed drive around the scenic loop of Saint-Jean-Cap-Ferrat. Evening: Experience the festive winter lights around Place Masséna."
+          },
+          "stops": [
+            {
+              "name": "Grande Corniche Viewpoint",
+              "tip_5lang": {
+                "de": "Das Licht ist im Winter oft klarer für Fernsichten.",
+                "hu": "A téli fények gyakran tisztábbak a távoli kilátáshoz.",
+                "ro": "Lumina de iarnă este adesea mai clară pentru vederi la distanță.",
+                "en": "Winter light is often clearer for long-distance views."
+              }
+            },
+            {
+              "name": "Èze Village",
+              "tip_5lang": {
+                "de": "Im Winter finden Sie leichter einen Parkplatz.",
+                "hu": "Télen sokkal könnyebben talál parkolóhelyet.",
+                "ro": "Iarna găsiți mult mai ușor un loc de parcare.",
+                "en": "It is much easier to find a parking spot in winter."
+              }
+            },
+            {
+              "name": "Saint-Jean-Cap-Ferrat",
+              "tip_5lang": {
+                "de": "Die Gärten der Villa Ephrussi blühen teils auch im Winter.",
+                "hu": "Az Ephrussi villa kertjei télen is részben virágoznak.",
+                "ro": "Grădinile Vilei Ephrussi sunt frumoase și pe timp de iarnă.",
+                "en": "Villa Ephrussi's gardens are still beautiful in winter."
+              }
+            },
+            {
+              "name": "Promenade des Anglais (West)",
+              "tip_5lang": {
+                "de": "Genießen Sie die freie Fahrt ohne Stau.",
+                "hu": "Élvezze a szabad haladást dugók nélkül.",
+                "ro": "Bucurați-vă de drumul liber, fără ambuteiaje.",
+                "en": "Enjoy the smooth drive without summer traffic jams."
+              }
+            },
+            {
+              "name": "Place Masséna",
+              "tip_5lang": {
+                "de": "Die Weihnachtsbeleuchtung ist ab Ende November zu sehen.",
+                "hu": "A karácsonyi kivilágítás november végétől látható.",
+                "ro": "Luminile de Crăciun sunt aprinse de la sfârșitul lui noiembrie.",
+                "en": "Festive lights are visible from late November onwards."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winter ist die beste Zeit für die Corniche-Straßen wegen weniger Verkehr.",
+              "Die Parkplatzsuche in Èze ist im Winter wesentlich entspannter.",
+              "Achten Sie auf Frost in höheren Lagen am frühen Morgen.",
+              "Klimaanlage nutzen, um das Beschlagen der Scheiben bei Feuchtigkeit zu vermeiden.",
+              "In der Nebensaison sind die Mietwagenpreise oft deutlich günstiger."
+            ],
+            "hu": [
+              "A tél a legjobb időszak a Corniche utakra a kisebb forgalom miatt.",
+              "A parkolás Èze-ben télen lényegesen egyszerűbb.",
+              "Kora reggel figyeljen a fagyfoltokra a magasabb szakaszokon.",
+              "Használja a klímát a szélvédő párátlanítására hűvös időben.",
+              "Szezonon kívül a bérautók ára gyakran jóval kedvezőbb."
+            ],
+            "ro": [
+              "Iarna este cel mai bun moment pentru drumurile Corniche, traficul fiind redus.",
+              "Parcarea în satul Èze este mult mai relaxată pe timp de iarnă.",
+              "Atenție la polei în zonele mai înalte, dimineața devreme.",
+              "Folosiți climatizarea pentru a dezaburi geamurile eficient.",
+              "Prețurile la închirierea mașinilor sunt adesea mult mai mici în extrasezon."
+            ],
+            "en": [
+              "Winter is the best time for driving the Corniches due to low traffic.",
+              "Parking in Èze is much easier than during the hectic summer months.",
+              "Watch out for frost in higher elevations early in the morning.",
+              "Use the A/C to quickly defog your windows in cool, damp weather.",
+              "Car rental prices are significantly lower during the off-season."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1060,6 +1594,178 @@
           "Always validate your ticket when boarding.",
           "Download the 'Lignes d'Azur' app for schedules."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Nutzen Sie den Bus zum Chagall Museum. Mittag: Weiter zum Matisse Museum in Cimiez, ideal bei Regen. Nachmittag: Kurzer Blick auf die Ruinen und Fahrt zur russischen Kathedrale. Abend: Rückkehr zum Place Masséna mit der Straßenbahn.",
+            "hu": "Reggel: Használja a buszt a Chagall múzeumhoz. Délben: Folytassa az utat a Matisse múzeumba, ami ideális esőben. Délután: Rövid megálló a romoknál, majd utazás az orosz katedrálishoz. Este: Visszatérés a Place Massénához villamossal.",
+            "ro": "Dimineața: Luați autobuzul către Muzeul Chagall. La prânz: Continuați spre Muzeul Matisse, ideal pe timp de ploaie. După-amiaza: O scurtă vizită la ruine și drumul spre Catedrala Rusă. Seara: Revenire în Place Masséna cu tramvaiul.",
+            "en": "Morning: Take the bus directly to the Marc Chagall Museum to stay dry. Noon: Continue to the Matisse Museum in Cimiez, a perfect indoor retreat. Afternoon: A quick look at the Roman ruins before heading to the Russian Cathedral. Evening: Return to the city center via the modern tramway."
+          },
+          "stops": [
+            {
+              "name": "Marc Chagall National Museum",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um dem Regen für Stunden zu entfliehen.",
+                "hu": "Tökéletes hely az eső elől való menekülésre órákon át.",
+                "ro": "Un loc perfect pentru a scăpa de ploaie timp de câteva ore.",
+                "en": "A perfect indoor spot to escape the rain for hours."
+              }
+            },
+            {
+              "name": "Matisse Museum (Cimiez)",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle befindet sich direkt vor dem Park.",
+                "hu": "A buszmegálló közvetlenül a park előtt található.",
+                "ro": "Stația de autobuz este chiar în fața parcului.",
+                "en": "The bus stop is located right in front of the park area."
+              }
+            },
+            {
+              "name": "Cimiez Arenas (Roman Ruins)",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist dieser Stopp draußen weniger angenehm.",
+                "hu": "Heves esőben ez a kültéri megálló kevésbé ajánlott.",
+                "ro": "Pe ploaie torențială, această oprire în aer liber este neplăcută.",
+                "en": "This outdoor stop is less pleasant during heavy rain."
+              }
+            },
+            {
+              "name": "Russian Orthodox Cathedral",
+              "tip_5lang": {
+                "de": "Vom Bahnhof aus sind es nur 10 Minuten zu Fuß.",
+                "hu": "A vasútállomástól mindössze 10 perc séta.",
+                "ro": "Sunt doar 10 minute de mers pe jos de la gară.",
+                "en": "It is only a 10-minute walk from the main train station."
+              }
+            },
+            {
+              "name": "Place Masséna (Center)",
+              "tip_5lang": {
+                "de": "Die Straßenbahn L1 bringt Sie trocken ins Zentrum.",
+                "hu": "Az L1-es villamos szárazon juttatja be a központba.",
+                "ro": "Tramvaiul L1 vă aduce în centru fără să vă udați.",
+                "en": "The L1 tram is the best way to reach the center while dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Museen in Cimiez sind perfekt für Regentage geeignet.",
+              "Nutzen Sie die App 'Lignes d'Azur', um Busse in Echtzeit zu verfolgen.",
+              "Die Straßenbahn ist bei Regen oft überfüllt, planen Sie Pufferzeit ein.",
+              "An den Automaten der Haltestellen können Sie trocken Tickets kaufen.",
+              "Viele Busse nach Cimiez fahren direkt ab dem Stadtzentrum."
+            ],
+            "hu": [
+              "A Cimiez negyed múzeumai kiválóak az esős napokra.",
+              "Használja a 'Lignes d'Azur' appot a buszok valós idejű követéséhez.",
+              "A villamosok esőben zsúfoltabbak lehetnek, számoljon több idővel.",
+              "A megállók automatáinál fedett helyen vehet jegyet.",
+              "Számos buszjárat közvetlenül a belvárosból indul Cimiez felé."
+            ],
+            "ro": [
+              "Muzeele din Cimiez sunt perfecte pentru zilele ploioase.",
+              "Folosiți aplicația 'Lignes d'Azur' pentru a urmări autobuzele în timp real.",
+              "Tramvaiele sunt adesea aglomerate pe ploaie, planificați-vă timpul.",
+              "Puteți cumpăra bilete de la automatele aflate în stații.",
+              "Multe autobuze spre Cimiez pleacă direct din centrul orașului."
+            ],
+            "en": [
+              "The museums in the Cimiez district are perfect indoor options for rain.",
+              "Use the 'Lignes d'Azur' app to track bus arrivals in real-time.",
+              "Trams get very crowded when it rains; allow extra travel time.",
+              "Buy tickets at the tram stop machines to stay undercover.",
+              "Many buses to Cimiez depart directly from the central hubs."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Besuchen Sie das Chagall Museum in der ruhigen Nebensaison. Mittag: Weiterfahrt nach Cimiez zum Matisse Museum. Nachmittag: Spaziergang durch die Olivenhaine bei Cimiez. Abend: Besichtigung der russischen Kathedrale und Rückfahrt ins Zentrum.",
+            "hu": "Reggel: Látogassa meg a Chagall múzeumot a csendes utószezonban. Délben: Utazás tovább Cimiez-be a Matisse múzeumhoz. Délután: Séta a Cimiez-i olajfaligetekben. Este: Az orosz katedrális megtekintése, majd visszatérés a központba.",
+            "ro": "Dimineața: Vizitați Muzeul Chagall în extrasezonul liniștit. La prânz: Mergeți mai departe spre Cimiez la Muzeul Matisse. După-amiaza: O plimbare prin livezile de măslini din Cimiez. Seara: Vizitarea Catedralei Ruse și întoarcerea în centru.",
+            "en": "Morning: Visit the Marc Chagall Museum during the quiet off-season. Noon: Take the bus up to Cimiez for the Matisse Museum. Afternoon: Enjoy a crisp walk through the ancient olive groves near the ruins. Evening: Admire the Russian Cathedral before returning to the city center."
+          },
+          "stops": [
+            {
+              "name": "Marc Chagall National Museum",
+              "tip_5lang": {
+                "de": "Wenig Andrang im Winter ermöglicht ein intensives Erlebnis.",
+                "hu": "Télen kevés a látogató, így intenzívebb az élmény.",
+                "ro": "Puțini vizitatori iarna, ceea ce permite o experiență liniștită.",
+                "en": "Fewer crowds in winter allow for a more intimate experience."
+              }
+            },
+            {
+              "name": "Matisse Museum (Cimiez)",
+              "tip_5lang": {
+                "de": "Das rote Gebäude leuchtet schön in der Wintersonne.",
+                "hu": "A vörös épület szépen mutat a téli napsütésben.",
+                "ro": "Clădirea roșie strălucește frumos în soarele de iarnă.",
+                "en": "The red villa glows beautifully in the crisp winter sun."
+              }
+            },
+            {
+              "name": "Cimiez Arenas (Roman Ruins)",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier wunderbar ruhig für einen Spaziergang.",
+                "hu": "Télen csodálatosan nyugodt hely egy sétához.",
+                "ro": "Iarna este un loc minunat de liniștit pentru o plimbare.",
+                "en": "It is wonderfully peaceful here for a stroll in winter."
+              }
+            },
+            {
+              "name": "Russian Orthodox Cathedral",
+              "tip_5lang": {
+                "de": "Die Zwiebeltürme glänzen besonders im klaren Winterlicht.",
+                "hu": "A hagymakupolák különösen szépek a tiszta téli fényben.",
+                "ro": "Cupolele strălucesc spectaculos în lumina clară de iarnă.",
+                "en": "The onion domes shine brightly in the clear winter light."
+              }
+            },
+            {
+              "name": "Place Masséna (Center)",
+              "tip_5lang": {
+                "de": "Die Straßenbahnen sind im Winter gut beheizt.",
+                "hu": "A villamosok télen jól fűtöttek.",
+                "ro": "Tramvaiele sunt bine încălzite pe timp de iarnă.",
+                "en": "The trams are well-heated and comfortable in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busfrequenz nach Cimiez kann im Winter leicht reduziert sein.",
+              "Kombinieren Sie die Museen in Cimiez, um Fahrzeit zu sparen.",
+              "Die Gärten von Cimiez sind auch im Winter ein schöner Rückzugsort.",
+              "Im Winter ist die russische Kathedrale weniger überlaufen.",
+              "Die Straßenbahn ist die zuverlässigste Verbindung bei jedem Wetter."
+            ],
+            "hu": [
+              "Télen a Cimiez-be tartó buszok járatsűrűsége némileg csökkenhet.",
+              "Kösse össze a Cimiez-i múzeumokat az utazási idő megtakarításához.",
+              "A Cimiez-i kertek télen is kellemes helyszínt biztosítanak a pihenéshez.",
+              "Télen az orosz katedrális sokkal nyugodtabban látogatható.",
+              "A villamos a legmegbízhatóbb közlekedési eszköz minden időben."
+            ],
+            "ro": [
+              "Frecvența autobuzelor spre Cimiez poate fi redusă iarna.",
+              "Combinați vizita la muzeele din Cimiez pentru a economisi timp.",
+              "Grădinile din Cimiez rămân un loc frumos de relaxare și iarna.",
+              "Catedrala Rusă este mult mai puțin aglomerată în extrasezon.",
+              "Tramvaiul este cel mai de încredere mijloc de transport pe orice vreme."
+            ],
+            "en": [
+              "Bus frequency to Cimiez might be slightly reduced in winter.",
+              "Visit both Cimiez museums in one trip to save travel time.",
+              "The Cimiez gardens offer a serene escape even in the colder months.",
+              "The Russian Cathedral is much quieter and easier to photograph in winter.",
+              "The tramway remains the most reliable transit option in any weather."
+            ]
+          }
+        }
       }
     }
   }

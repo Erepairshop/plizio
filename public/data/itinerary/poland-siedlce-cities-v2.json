@@ -366,6 +366,206 @@
           "Check the museum's opening hours in advance.",
           "A light raincoat is always a good idea, even in summer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Schutz des Rathauses 'Jack', wo das Dach Sie vor dem Morgengrauen schützt. Die nahegelegenen Kirchen bieten trockene Zufluchtsorte für die Besichtigung am Vormittag.\n\nMittags finden Sie Wärme und Komfort in einem lokalen Restaurant, während der Regen gegen die Fenster prasselt. Dies ist die perfekte Zeit für eine ausgedehnte Pause.\n\nDer Nachmittag gehört dem Ogiński-Palast. Das Regionalmuseum bietet stundenlange Unterhaltung im Trockenen und schützt Sie vor dem nassen Wetter draußen.\n\nBeenden Sie den Tag mit einem kurzen, erfrischenden Spaziergang durch den Aleksandria-Park. Die Bäume bieten begrenzten Schutz, aber die Atmosphäre im Regen ist einzigartig friedlich.",
+            "hu": "Kezdje a napot a 'Jack' városháza árkádjai alatt, ahol menedéket talál az eső elől. A közeli templomok belső terei száraz és spirituális élményt nyújtanak délelőtt.\n\nEbédidőben keressen egy barátságos éttermet, ahol a gőzölgő lengyel ételek mellett várhatja meg a zápor csendesedését. Ideális időpont a lassú gasztronómiai élvezetekhez.\n\nA délutánt töltse az Ogiński-palotában. A Regionális Múzeum gazdag tárlata tökéletes fedett program, amely órákra elfeledteti a kinti barátságtalan időjárást.\n\nA napot egy rövid, frissítő sétával zárja az Aleksandria parkban. Az esőben illatozó fák és a csendes utak különleges, melankolikus hangulatot árasztanak este.",
+            "ro": "Începeți ziua sub arcadele primăriei 'Jack', profitând de adăpost împotriva ploii de dimineață. Bisericile din apropiere oferă refugii uscate și liniștite pentru explorare.\n\nLa prânz, bucurați-vă de atmosfera caldă a unui restaurant local în timp ce ploaia bate în geam. Este momentul perfect pentru o masă lungă și relaxantă.\n\nDupă-amiaza este dedicată Palatului Ogiński. Muzeul Regional oferă adăpost excelent și exponate fascinante, protejându-vă complet de vremea umedă de afară.\n\nÎncheiați ziua cu o scurtă plimbare prin Parcul Aleksandria. Deși umed, aerul curat și sunetul ploii printre copaci creează o atmosferă deosebit de calmă.",
+            "en": "Start your day under the shelter of the 'Jack' Town Hall, using its architecture to stay dry. The nearby churches provide excellent indoor sanctuaries for your morning visits.\n\nAt lunchtime, find warmth in a cozy local eatery while the rain falls outside. This is the perfect opportunity for an extended break and hearty Polish cuisine.\n\nSpend the afternoon inside the Ogiński Palace. The Regional Museum offers hours of indoor exploration, keeping you completely shielded from the wet weather.\n\nEnd the day with a brief, refreshing stroll through Aleksandria Park. The scent of the rain-washed trees and the quiet paths offer a unique, peaceful evening experience."
+          },
+          "stops": [
+            {
+              "name": "'Jack' Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Eingangsbereich als Regenschutz.",
+                "hu": "Használja a bejáratot eső elleni menedékként.",
+                "ro": "Folosiți zona intrării ca adăpost împotriva ploii.",
+                "en": "Use the entrance area as a quick rain shelter."
+              }
+            },
+            {
+              "name": "St. Stanislaus Church",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine trockene Pause.",
+                "hu": "Tökéletes helyszín egy száraz pihenőhöz.",
+                "ro": "Loc perfect pentru o pauză uscată.",
+                "en": "Perfect spot for a dry interior break."
+              }
+            },
+            {
+              "name": "Pope John Paul II Monument",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, achten Sie auf rutschige Fliesen.",
+                "hu": "Gyors fotómegálló, vigyázzon a csúszós kövezetre.",
+                "ro": "Oprire scurtă pentru poze, atenție la pavajul alunecos.",
+                "en": "Quick photo stop, watch out for slippery tiles."
+              }
+            },
+            {
+              "name": "Cathedral of the Immaculate Conception",
+              "tip_5lang": {
+                "de": "Großer Innenraum bietet viel Schutz.",
+                "hu": "A hatalmas belső tér remek menedéket nyújt.",
+                "ro": "Interiorul vast oferă mult adăpost.",
+                "en": "The vast interior provides great shelter."
+              }
+            },
+            {
+              "name": "Ogiński Palace & Regional Museum",
+              "tip_5lang": {
+                "de": "Idealer Rückzugsort bei starkem Regen.",
+                "hu": "Ideális búvóhely heves esőzés esetén.",
+                "ro": "Refugiu ideal în caz de ploaie torențială.",
+                "en": "Ideal hideout during heavy rainfall."
+              }
+            },
+            {
+              "name": "Lunch Break",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
+                "hu": "Válasszon ruhatáras éttermet a vizes kabátoknak.",
+                "ro": "Alegeți un restaurant cu garderobă pentru haine ude.",
+                "en": "Choose a place with a cloakroom for wet coats."
+              }
+            },
+            {
+              "name": "Aleksandria Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf den unbefestigten Wegen.",
+                "hu": "Ügyeljen a tócsákra a burkolatlan utakon.",
+                "ro": "Atenție la bălți pe cărările neasfaltate.",
+                "en": "Watch out for puddles on the unpaved paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Parkwege.",
+              "Die Museen in Siedlce sind montags oft geschlossen.",
+              "Ein Regenschirm ist bei Wind in Stadtnähe nützlicher als ein Poncho.",
+              "Nutzen Sie die Kirchen für kurze Aufwärmpausen im Trockenen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a parki utakhoz.",
+              "A siedlcei múzeumok hétfőnként gyakran zárva tartanak.",
+              "A városi szélben az esernyő hasznosabb lehet, mint az esőkabát.",
+              "Használja a templomokat rövid, száraz pihenőkre."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru aleile din parc.",
+              "Muzeele din Siedlce sunt adesea închise lunea.",
+              "O umbrelă este mai utilă decât o pelerină în vântul urban.",
+              "Folosiți bisericile pentru scurte pauze la uscat."
+            ],
+            "en": [
+              "Wear waterproof shoes for the park pathways.",
+              "Siedlce museums are often closed on Mondays.",
+              "An umbrella is more practical than a poncho in urban wind.",
+              "Utilize the churches for quick dry-off breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Rathaus 'Jack' beginnt Ihre Tour. Die klare Winterluft lässt die historischen Gebäude in hellem Licht erstrahlen, während Sie sich zügig bewegen.\n\nMittags suchen Sie die Wärme der Kathedrale auf, bevor Sie ein herzhaftes polnisches Mittagessen genießen, das die nötige Energie für den Nachmittag liefert.\n\nDer Nachmittag im Ogiński-Palast ist perfekt, um der Kälte zu entfliehen. Die beheizten Räume des Museums laden zum Verweilen und Entdecken der regionalen Geschichte ein.\n\nDa die Sonne früh untergeht, besuchen Sie den Aleksandria-Park in der Dämmerung. Die Winterbeleuchtung und der eventuelle Schnee verwandeln den Park in eine magische Kulisse.",
+            "hu": "A 'Jack' városházánál tett fagyos reggeli látogatással indul a nap. A friss téli levegőben a történelmi épületek éles kontúrjai lenyűgöző látványt nyújtanak.\n\nDélben melegedjen fel a székesegyházban, majd fogyasszon el egy laktató lengyel ebédet, amely energiát ad a hideg elleni harchoz.\n\nA délutáni program az Ogiński-palotában ideális a fagy elkerülésére. A fűtött termekben kényelmesen merülhet el a helyi történelem titkaiban.\n\nMivel a nap korán nyugszik, az Aleksandria parkot szürkületben látogassa meg. A téli fények és az esetleges hótakaró mesebeli hangulatot árasztanak este.",
+            "ro": "O dimineață geroasă la primăria 'Jack' dă startul turului. Aerul curat de iarnă face ca clădirile istorice să strălucească sub lumina palidă a soarelui.\n\nLa prânz, căutați căldura catedralei înainte de a savura un prânz polonez consistent, care vă va oferi energia necesară pentru restul zilei.\n\nDupă-amiaza la Palatul Ogiński este perfectă pentru a scăpa de frig. Sălile încălzite ale muzeului vă invită să descoperiți istoria regională în confort.\n\nDeoarece soarele apune devreme, vizitați Parcul Aleksandria la amurg. Luminile de iarnă și eventuala zăpadă transformă parcul într-un decor magic.",
+            "en": "A frosty morning at 'Jack' Town Hall starts your tour. The crisp winter air makes the historical buildings stand out sharply as you move between sites.\n\nAt noon, seek the warmth of the Cathedral before enjoying a hearty Polish lunch to fuel up for the cold afternoon ahead.\n\nSpend the afternoon inside the Ogiński Palace to escape the freezing temperatures. The heated museum rooms are perfect for a comfortable historical deep-dive.\n\nAs the sun sets early, visit Aleksandria Park at dusk. The winter lighting and potential snow cover turn the park into a magical evening setting."
+          },
+          "stops": [
+            {
+              "name": "'Jack' Town Hall",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eis auf den Treppenstufen.",
+                "hu": "Vigyázzon a jeges lépcsőfokokra.",
+                "ro": "Atenție la gheața de pe trepte.",
+                "en": "Watch out for ice on the steps."
+              }
+            },
+            {
+              "name": "St. Stanislaus Church",
+              "tip_5lang": {
+                "de": "Oft beheizt, ideal zum Aufwärmen.",
+                "hu": "Gyakran fűtött, ideális felmelegedni.",
+                "ro": "Adesea încălzită, ideală pentru încălzire.",
+                "en": "Often heated, ideal for warming up."
+              }
+            },
+            {
+              "name": "Pope John Paul II Monument",
+              "tip_5lang": {
+                "de": "Handschuhe für Fotos kurz ausziehen.",
+                "hu": "A fotózáshoz csak rövid időre vegye le a kesztyűt.",
+                "ro": "Scoateți mănușile doar scurt pentru poze.",
+                "en": "Take off gloves only briefly for photos."
+              }
+            },
+            {
+              "name": "Cathedral of the Immaculate Conception",
+              "tip_5lang": {
+                "de": "Wunderschöne Krippe in der Weihnachtszeit.",
+                "hu": "Gyönyörű betlehem látható karácsonykor.",
+                "ro": "Iesle de Crăciun superbă în timpul sărbătorilor.",
+                "en": "Beautiful nativity scene during Christmas time."
+              }
+            },
+            {
+              "name": "Ogiński Palace & Regional Museum",
+              "tip_5lang": {
+                "de": "Garderobe vorhanden, um schwere Mäntel abzugeben.",
+                "hu": "Van ruhatár a nehéz téli kabátoknak.",
+                "ro": "Garderobă disponibilă pentru hainele grele.",
+                "en": "Cloakroom available to drop off heavy coats."
+              }
+            },
+            {
+              "name": "Lunch Break",
+              "tip_5lang": {
+                "de": "Probieren Sie heißen Tee mit Himbeersaft.",
+                "hu": "Kóstolja meg a forró teát málnaszörppel.",
+                "ro": "Încercați un ceai fierbinte cu sirop de zmeură.",
+                "en": "Try hot tea with raspberry syrup (Polish style)."
+              }
+            },
+            {
+              "name": "Aleksandria Park",
+              "tip_5lang": {
+                "de": "Früher Sonnenuntergang gegen 16:00 Uhr beachten.",
+                "hu": "Figyeljen a korai naplementére 16:00 körül.",
+                "ro": "Atenție la apusul devreme, în jur de ora 16:00.",
+                "en": "Note early sunset around 4:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Kleidung ist bei Temperaturen unter Null Pflicht.",
+              "Die Parkwege können bei Frost sehr glatt sein.",
+              "Heißer 'Grzaniec' (Glühwein) ist in lokalen Pubs beliebt.",
+              "Museen schließen im Winter oft eine Stunde früher."
+            ],
+            "hu": [
+              "Termo öltözet kötelező nulla fok alatti hőmérsékletnél.",
+              "A parki utak fagyban nagyon csúszósak lehetnek.",
+              "A forró 'Grzaniec' (forralt bor) népszerű a helyi pubokban.",
+              "A múzeumok télen gyakran egy órával korábban zárnak."
+            ],
+            "ro": [
+              "Îmbrăcămintea termică este obligatorie sub zero grade.",
+              "Aleile din parc pot fi foarte alunecoase pe îngheț.",
+              "Băutura 'Grzaniec' (vin fiert) este populară în pub-uri.",
+              "Muzeele se închid adesea cu o oră mai devreme iarna."
+            ],
+            "en": [
+              "Thermal layers are mandatory for sub-zero weather.",
+              "Park paths can be very slippery during frost.",
+              "Hot 'Grzaniec' (mulled wine) is popular in local pubs.",
+              "Museums often close an hour earlier in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -694,6 +894,206 @@
           "A helmet is recommended for your safety.",
           "Be mindful of pedestrians on shared paths in the park."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Radtour vorsichtig am Rathaus. Bei Regen ist die Stadt ruhig, aber die Straßen können rutschig sein, besonders auf Kopfsteinpflaster.\n\nMittags suchen Sie Schutz in der Nähe der Kathedrale. Kurze Fahrwege zwischen den Sehenswürdigkeiten minimieren Ihre Zeit im Regen.\n\nDer Nachmittag am Muchawka-Stausee ist nur für Hartgesottene. Die Wege können matschig sein, aber die Aussicht auf das graue Wasser hat einen rauen Charme.\n\nKehren Sie abends schnell ins Zentrum zurück, um sich in einem warmen Café zu trocknen und die nasse Ausrüstung abzulegen.",
+            "hu": "Kezdje óvatosan a kerékpártúrát a városházánál. Esőben a város csendesebb, de az utak, különösen a macskaköves részek, csúszósak lehetnek.\n\nDélben keressen menedéket a székesegyház környékén. A látnivalók közötti rövid távolságok segítenek minimalizálni az esőben töltött időt.\n\nA délutáni tekerés a Muchawka-víztározóhoz csak a legelszántabbaknak ajánlott. Az utak sarasak lehetnek, de a szürke víztükör látványa különleges hangulatot áraszt.\n\nEste térjen vissza gyorsan a központba, hogy egy meleg kávézóban száradjon meg és pihentesse átázott felszerelését.",
+            "ro": "Începeți turul cu bicicleta cu prudență la primărie. Pe ploaie orașul este liniștit, dar străzile pot fi alunecoase, mai ales zonele cu pavaj.\n\nLa prânz, căutați adăpost lângă catedrală. Distanțele scurte între obiective vă ajută să minimizați timpul petrecut în ploaie.\n\nDupă-amiaza la lacul Muchawka este doar pentru cei curajoși. Cărările pot fi noroioase, dar priveliștea apei cenușii are un farmec aparte.\n\nSeara, reveniți rapid în centru pentru a vă usca într-o cafenea caldă și pentru a vă lăsa echipamentul ud.",
+            "en": "Start your bike tour carefully at the Town Hall. The city is quieter in the rain, but streets—especially cobbled ones—can be slippery.\n\nAt noon, find shelter near the Cathedral. Short cycling distances between sites help minimize your exposure to the rain.\n\nAn afternoon ride to the Muchawka Reservoir is only for the brave. Paths may be muddy, but the view of the grey water has a raw, unique charm.\n\nIn the evening, return quickly to the center to dry off in a warm café and store your wet gear."
+          },
+          "stops": [
+            {
+              "name": "'Jack' Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Kopfsteinpflaster.",
+                "hu": "Vigyázzon a csúszós macskakövön.",
+                "ro": "Atenție pe pavajul alunecos.",
+                "en": "Be careful on the slippery cobblestones."
+              }
+            },
+            {
+              "name": "St. Stanislaus Church & Cathedral",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe suchen.",
+                "hu": "Keressen fedett biciklitárolót a közelben.",
+                "ro": "Căutați suporturi de biciclete acoperite în apropiere.",
+                "en": "Look for covered bike racks nearby."
+              }
+            },
+            {
+              "name": "Ogiński Palace & Regional Museum",
+              "tip_5lang": {
+                "de": "Fahrrad sicher abschließen und innen aufwärmen.",
+                "hu": "Zárja le biztonságosan a gépet, és melegedjen bent.",
+                "ro": "Încuiați bine bicicleta și încălziți-vă în interior.",
+                "en": "Lock your bike securely and warm up inside."
+              }
+            },
+            {
+              "name": "Lunch Break",
+              "tip_5lang": {
+                "de": "Ein Platz am Fenster, um das Rad im Blick zu haben.",
+                "hu": "Üljön az ablak mellé, hogy lássa a biciklit.",
+                "ro": "Așezați-vă la geam pentru a supraveghea bicicleta.",
+                "en": "Sit by the window to keep an eye on your bike."
+              }
+            },
+            {
+              "name": "Aleksandria Park",
+              "tip_5lang": {
+                "de": "Langsam fahren, um Spritzwasser zu vermeiden.",
+                "hu": "Hajtson lassan, hogy elkerülje a felverődő vizet.",
+                "ro": "Mergeți încet pentru a evita stropirea.",
+                "en": "Ride slowly to avoid water splashes."
+              }
+            },
+            {
+              "name": "Muchawka Reservoir",
+              "tip_5lang": {
+                "de": "Achtung, die Uferwege können sehr matschig sein.",
+                "hu": "Vigyázat, a parti utak nagyon sarasak lehetnek.",
+                "ro": "Atenție, cărările de pe mal pot fi foarte noroioase.",
+                "en": "Warning: lakeside paths can be very muddy."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_5lang": {
+                "de": "Bremsen bei Nässe frühzeitig betätigen.",
+                "hu": "Nedves úton fékezzen időben.",
+                "ro": "Frânați din timp pe carosabil umed.",
+                "en": "Apply brakes early on wet surfaces."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung (Hose und Jacke) wird empfohlen.",
+              "Vermeiden Sie Markierungen auf der Straße, diese sind extrem glatt.",
+              "Prüfen Sie Ihre Beleuchtung, da die Sicht schlechter ist.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar."
+            ],
+            "hu": [
+              "Teljes esőruházat (nadrág és kabát) ajánlott.",
+              "Kerülje az útburkolati jeleket, mert rendkívül csúsznak.",
+              "Ellenőrizze a világítást a romló látási viszonyok miatt.",
+              "A sárvédő elengedhetetlen ilyen időben."
+            ],
+            "ro": [
+              "Se recomandă echipament complet de ploaie (pantaloni și jachetă).",
+              "Evitați marcajele rutiere, sunt extrem de alunecoase.",
+              "Verificați luminile, vizibilitatea este redusă.",
+              "Apărătorile de noroi sunt indispensabile pe această vreme."
+            ],
+            "en": [
+              "Full rain gear (trousers and jacket) is highly recommended.",
+              "Avoid road markings as they become extremely slippery.",
+              "Check your lights due to reduced visibility.",
+              "Mudguards are essential in this weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein knackig kalter Morgen am Rathaus erfordert gute Handschuhe. Die Radwege im Zentrum sind meist geräumt, aber Vorsicht vor überfrierender Nässe.\n\nMittags ist die Fahrt kurz und knackig. Nutzen Sie die Kirchenbesuche, um Ihre Finger und Zehen wieder auf Temperatur zu bringen.\n\nDer Nachmittag am See ist windig und kalt. Die weite Fläche bietet keinen Windschutz, aber die winterliche Stille am Wasser ist beeindruckend.\n\nBeenden Sie die Tour im Licht der Stadtlaternen. Die Rückfahrt zum Zentrum bei Dunkelheit erfordert volle Aufmerksamkeit und gute Reflektoren.",
+            "hu": "A városházánál töltött csípős reggelhez jó kesztyű kell. A központi bicikliutakat többnyire takarítják, de vigyázzon a lefagyásokkal.\n\nDélben a tekerés rövid és frissítő. Használja ki a templomlátogatásokat az ujjai és lábfejei átmelegítésére.\n\nA délután a tónál szeles és hideg. A nyílt terepen nincs szélfogó, de a vízparti téli csend lenyűgöző élmény.\n\nA túrát a városi lámpák fényében zárja. A sötétben való visszatérés a központba teljes figyelmet és jó fényvisszaverőket igényel.",
+            "ro": "O dimineață geroasă la primărie necesită mănuși bune. Pistele de biciclete din centru sunt de obicei curățate, dar atenție la polei.\n\nLa prânz, deplasarea este scurtă și revigorantă. Folosiți vizitele la biserici pentru a vă încălzi degetele de la mâini și picioare.\n\nDupă-amiaza la lac este vântoasă și rece. Suprafața deschisă nu oferă protecție contra vântului, dar liniștea iernii de pe mal este impresionantă.\n\nÎncheiați turul la lumina felinarelor. Întoarcerea în centru pe întuneric necesită atenție maximă și reflectorizante bune.",
+            "en": "A crisp, cold morning at the Town Hall requires good gloves. Central bike paths are mostly cleared, but watch out for black ice.\n\nAt noon, the ride is short and bracing. Use church visits to bring your fingers and toes back to a comfortable temperature.\n\nThe afternoon at the lake is windy and cold. The open space offers no windbreak, but the winter silence by the water is impressive.\n\nFinish the tour under the city lights. Returning to the center in the dark requires full focus and high-quality reflectors."
+          },
+          "stops": [
+            {
+              "name": "'Jack' Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisplatten im Schatten des Gebäudes.",
+                "hu": "Vigyázzon a jégfoltokra az épület árnyékában.",
+                "ro": "Atenție la porțiunile înghețate din umbra clădirii.",
+                "en": "Watch out for ice patches in the building's shadow."
+              }
+            },
+            {
+              "name": "St. Stanislaus Church & Cathedral",
+              "tip_5lang": {
+                "de": "Kurze Fahrzeit, ideal gegen das Auskühlen.",
+                "hu": "Rövid menetidő, ideális a kihűlés ellen.",
+                "ro": "Timp scurt de pedalat, ideal contra frigului.",
+                "en": "Short riding time, ideal to prevent cooling down."
+              }
+            },
+            {
+              "name": "Ogiński Palace & Regional Museum",
+              "tip_5lang": {
+                "de": "E-Bike Akkus bei Kälte schneller leer.",
+                "hu": "Az e-bike akkuk hidegben gyorsabban merülnek.",
+                "ro": "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+                "en": "E-bike batteries drain faster in the cold."
+              }
+            },
+            {
+              "name": "Lunch Break",
+              "tip_5lang": {
+                "de": "Heiße Suppe (Zurek) ist der beste Energielieferant.",
+                "hu": "A forró leves (Zurek) a legjobb energiaforrás.",
+                "ro": "Supa fierbinte (Zurek) este cea mai bună sursă de energie.",
+                "en": "Hot soup (Zurek) is the best energy booster."
+              }
+            },
+            {
+              "name": "Aleksandria Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf schneebedeckten Wegen.",
+                "hu": "Vigyázzon a hóval borított utakon.",
+                "ro": "Atenție pe aleile acoperite de zăpadă.",
+                "en": "Be careful on snow-covered paths."
+              }
+            },
+            {
+              "name": "Muchawka Reservoir",
+              "tip_5lang": {
+                "de": "Extremer Windchill am Wasser beachten.",
+                "hu": "Figyeljen az extrém szélhűtésre a víznél.",
+                "ro": "Atenție la vântul tăios de lângă apă.",
+                "en": "Beware of extreme wind chill by the water."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_5lang": {
+                "de": "Gute Beleuchtung ist ab 15:30 Uhr Pflicht.",
+                "hu": "Jó világítás kötelező 15:30-tól.",
+                "ro": "Iluminarea bună este obligatorie după ora 15:30.",
+                "en": "Good lighting is mandatory after 3:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip.",
+              "Vermeiden Sie hektische Lenkbewegungen auf Schnee.",
+              "Tragen Sie eine winddichte Schicht über der Isolierung.",
+              "Nehmen Sie eine Thermoskanne mit heißem Getränk mit."
+            ],
+            "hu": [
+              "Csökkentse kicsit a guminyomást a jobb tapadásért.",
+              "Kerülje a hirtelen kormánymozdulatokat havon.",
+              "Viseljen szélálló réteget a hőszigetelés felett.",
+              "Vigyen magával termoszt forró itallal."
+            ],
+            "ro": [
+              "Reduceți ușor presiunea din pneuri pentru aderență mai bună.",
+              "Evitați mișcările bruște de ghidon pe zăpadă.",
+              "Purtați un strat rezistent la vânt peste izolația termică.",
+              "Luați un termos cu băutură fierbinte la drum."
+            ],
+            "en": [
+              "Slightly reduce tire pressure for better grip on ice/snow.",
+              "Avoid sudden steering movements on snow.",
+              "Wear a windproof layer over your insulation.",
+              "Carry a thermos with a hot drink."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -998,6 +1398,188 @@
           "A navigation system is helpful for finding the best routes between clusters.",
           "Do not leave valuables visible in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Komfort Ihres Autos, während Sie das Zentrum von Siedlce erkunden. Parken Sie zentral, um die wichtigsten Monumente zu Fuß im Regen zu erreichen.\n\nMittags ist das Auto der perfekte Ort, um trocken zwischen den Clustern zu wechseln. Die Fahrt zur Kathedrale ist kurz und bequem.\n\nDer Nachmittag am Muchawka-Stausee ist aus dem Auto heraus besonders entspannend. Beobachten Sie den Regen auf der Wasseroberfläche vom Parkplatz aus.\n\nBeenden Sie den Tag im Aleksandria-Park. Ein kurzer Sprint vom Parkplatz zum Schloss sorgt dafür, dass Sie kaum nass werden.",
+            "hu": "Élvezze autója kényelmét, miközben Siedlce központját fedezi fel. Parkoljon le a centrumban, hogy a legfontosabb emlékműveket esőben is gyorsan elérje.\n\nDélben az autó tökéletes menedék a városrészek közötti váltáshoz. A székesegyházhoz vezető út rövid és kényelmes.\n\nA délután a Muchawka-víztározónál az autóból nézve a legnyugodtabb. Figyelje a vízfelszínen kopogó esőt a parkolóból.\n\nA napot az Aleksandria parkban zárja. Egy gyors vágta a parkolótól a kastélyig, és alig lesz vizes.",
+            "ro": "Bucurați-vă de confortul mașinii în timp ce explorați centrul orașului Siedlce. Parcați central pentru a ajunge rapid la monumentele principale pe ploaie.\n\nLa prânz, mașina este locul perfect pentru a vă deplasa uscat între punctele de interes. Drumul spre catedrală este scurt și comod.\n\nDupă-amiaza la lacul Muchawka este relaxantă privită din mașină. Observați ploaia pe suprafața apei direct din parcare.\n\nÎncheiați ziua în Parcul Aleksandria. Un sprint scurt de la parcare la palat vă va menține aproape uscat.",
+            "en": "Enjoy the comfort of your car while exploring the center of Siedlce. Park centrally to reach the main monuments quickly, even in the rain.\n\nAt noon, the car is the perfect sanctuary for moving between clusters dryly. The drive to the Cathedral is short and convenient.\n\nThe afternoon at Muchawka Reservoir is particularly relaxing from inside the car. Watch the rain dance on the water's surface from the parking lot.\n\nFinish the day at Aleksandria Park. A quick dash from the parking lot to the palace ensures you stay mostly dry."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Park in the City Center",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz spart Laufwege im Regen.",
+                "hu": "A központi parkolóval megúszható a gyaloglás az esőben.",
+                "ro": "Parcarea centrală reduce mersul pe jos prin ploaie.",
+                "en": "Central parking saves walking time in the rain."
+              }
+            },
+            {
+              "name": "'Jack' Town Hall & St. Stanislaus Church",
+              "tip_5lang": {
+                "de": "Direkt vor dem Eingang kurz halten zum Aussteigen.",
+                "hu": "Álljon meg rövid időre közvetlenül a bejáratnál.",
+                "ro": "Opriți scurt chiar în fața intrării pentru debarcare.",
+                "en": "Short stop right in front of the entrance for drop-off."
+              }
+            },
+            {
+              "name": "Cathedral & Pope Monument",
+              "tip_5lang": {
+                "de": "Parkplätze direkt an der Kathedrale nutzen.",
+                "hu": "Használja a közvetlenül a székesegyháznál lévő parkolókat.",
+                "ro": "Folosiți parcările chiar de lângă catedrală.",
+                "en": "Use the parking spots directly by the Cathedral."
+              }
+            },
+            {
+              "name": "Ogiński Palace & Regional Museum",
+              "tip_5lang": {
+                "de": "Überdachter Eingangsbereich für Museumsbesucher.",
+                "hu": "Fedett bejárati rész a múzeumlátogatóknak.",
+                "ro": "Zonă de intrare acoperită pentru vizitatori.",
+                "en": "Covered entrance area for museum visitors."
+              }
+            },
+            {
+              "name": "Cluster 2: Drive to Muchawka Reservoir",
+              "tip_5lang": {
+                "de": "Gute Sicht durch Scheibenwischer sicherstellen.",
+                "hu": "Ellenőrizze az ablaktörlőket a jó kilátásért.",
+                "ro": "Asigurați-vă că ștergătoarele funcționează bine.",
+                "en": "Ensure good visibility with working wipers."
+              }
+            },
+            {
+              "name": "Aleksandria Park",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Parkeingang wählen.",
+                "hu": "Válasszon parkolót közvetlenül a park bejáratánál.",
+                "ro": "Alegeți o parcare chiar la intrarea în parc.",
+                "en": "Choose a parking spot right at the park entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Nationalstraße 2.",
+              "Nutzen Sie Park-Apps, um das Bezahlen im Regen zu vermeiden.",
+              "Vermeiden Sie das Parken unter großen Bäumen bei Wind.",
+              "Halten Sie ein Tuch bereit, um beschlagene Scheiben zu reinigen."
+            ],
+            "hu": [
+              "Ügyeljen a vízenfutásra (aquaplaning) a 2-es főúton.",
+              "Használjon parkolási appot, hogy ne kelljen az esőben fizetni.",
+              "Szeles időben ne parkoljon nagy fák alá.",
+              "Legyen kéznél törlőkendő a párás szélvédőre."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul național 2.",
+              "Folosiți aplicații de parcare pentru a evita plata în ploaie.",
+              "Evitați parcarea sub arbori mari în caz de vânt.",
+              "Țineți o lavetă la îndemână pentru geamurile aburite."
+            ],
+            "en": [
+              "Watch out for aquaplaning on National Road 2.",
+              "Use parking apps to avoid paying at machines in the rain.",
+              "Avoid parking under large trees during windy conditions.",
+              "Keep a cloth handy to clear fogged-up windows."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start mit dem Auto bedeutet zuerst: Scheiben kratzen. Sobald der Wagen warm ist, ist die Fahrt durch das winterliche Siedlce sehr angenehm.\n\nMittags erreichen Sie die Kathedrale schnell. Das Auto dient als mobile Aufwärmstation zwischen den Besichtigungen der historischen Orte.\n\nDie Fahrt zum Muchawka-Stausee am Nachmittag zeigt Ihnen die verschneite polnische Landschaft. Bleiben Sie auf den geräumten Wegen rund um den Parkplatz.\n\nDer Tag endet im Aleksandria-Park. Da es früh dunkel wird, ist die beleuchtete Auffahrt zum Ogiński-Palast ein glanzvoller Abschluss Ihrer Tour.",
+            "hu": "A fagyos reggel az autóval jégkaparással indul. Amint bemelegszik a kocsi, a téli Siedlce felfedezése kényelmes élménnyé válik.\n\nDélben gyorsan eléri a székesegyházat. Az autó mobil melegedőként szolgál a történelmi helyszínek látogatása között.\n\nA délutáni út a Muchawka-víztározóhoz a havas lengyel tájat mutatja be. Maradjon a letakarított utakon a parkoló környékén.\n\nA nap az Aleksandria parkban ér véget. Mivel korán sötétedik, az Ogiński-palota kivilágított látványa méltó zárása a túrának.",
+            "ro": "O dimineață geroasă cu mașina începe cu răzuirea gheții. Odată ce s-a încălzit, drumul prin Siedlce-ul de iarnă este foarte plăcut.\n\nLa prânz, ajungeți rapid la catedrală. Mașina servește ca stație de încălzire mobilă între vizitele la locurile istorice.\n\nDrumul spre lacul Muchawka de după-amiază vă arată peisajul polonez înzăpezit. Rămâneți pe drumurile curățate din jurul parcării.\n\nZiua se încheie în Parcul Aleksandria. Deoarece se întunecă devreme, aleea luminată spre Palatul Ogiński este un final strălucitor.",
+            "en": "A frosty start with the car means scraping ice first. Once warmed up, the drive through wintery Siedlce becomes a very comfortable experience.\n\nAt noon, you'll reach the Cathedral quickly. The car serves as a mobile warming station between visits to historical sites.\n\nThe afternoon drive to Muchawka Reservoir showcases the snowy Polish countryside. Stick to cleared paths around the parking area.\n\nThe day ends at Aleksandria Park. Since it gets dark early, the illuminated drive to the Ogiński Palace is a brilliant conclusion to your tour."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Park in the City Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen am Straßenrand.",
+                "hu": "Vigyázzon a hóbuckákra az út mentén.",
+                "ro": "Atenție la mormanele de zăpadă de pe marginea drumului.",
+                "en": "Watch out for snow piles at the roadside."
+              }
+            },
+            {
+              "name": "'Jack' Town Hall & St. Stanislaus Church",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul să meargă inutil în staționare.",
+                "en": "Avoid idling the engine unnecessarily."
+              }
+            },
+            {
+              "name": "Cathedral & Pope Monument",
+              "tip_5lang": {
+                "de": "Parkplätze könnten durch Schnee reduziert sein.",
+                "hu": "A parkolóhelyek száma a hó miatt kevesebb lehet.",
+                "ro": "Locurile de parcare pot fi reduse din cauza zăpezii.",
+                "en": "Parking spots might be reduced due to snow."
+              }
+            },
+            {
+              "name": "Ogiński Palace & Regional Museum",
+              "tip_5lang": {
+                "de": "Innenräume sind gut beheizt, idealer Stopp.",
+                "hu": "A belső terek jól fűtöttek, ideális megálló.",
+                "ro": "Interioarele sunt bine încălzite, oprire ideală.",
+                "en": "Interiors are well heated, ideal stop."
+              }
+            },
+            {
+              "name": "Cluster 2: Drive to Muchawka Reservoir",
+              "tip_5lang": {
+                "de": "Vorsicht vor Straßenglätte auf den Zubringern.",
+                "hu": "Vigyázzon az úttest jegesedésére a bekötőutakon.",
+                "ro": "Atenție la polei pe drumurile secundare.",
+                "en": "Beware of icy road conditions on feeder roads."
+              }
+            },
+            {
+              "name": "Aleksandria Park",
+              "tip_5lang": {
+                "de": "Parkplatzbeleuchtung ist im Winter essenziell.",
+                "hu": "A parkoló világítása télen elengedhetetlen.",
+                "ro": "Iluminatul parcării este esențial iarna.",
+                "en": "Parking lot lighting is essential in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Polen von Oktober bis März ratsam.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Prüfen Sie den Batteriestatus vor langen Standzeiten.",
+              "Achten Sie auf Fußgänger, die bei Glätte länger brauchen."
+            ],
+            "hu": [
+              "Téli gumi használata ajánlott októbertől márciusig.",
+              "Legyen a kocsiban jégkaparó és fagyálló folyadék.",
+              "Ellenőrizze az akkumulátort a hidegindítás előtt.",
+              "Vigyázzon a gyalogosokra, akik lassabban haladnak a csúszós úton."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt recomandate din octombrie până în martie.",
+              "Purtați o racletă și lichid de parbriz anti-îngheț.",
+              "Verificați starea bateriei înainte de pornirea la rece.",
+              "Atenție la pietoni, aceștia se mișcă mai greu pe polei."
+            ],
+            "en": [
+              "Winter tires are strongly advised from October to March.",
+              "Carry an ice scraper and anti-freeze fluid.",
+              "Check battery status before cold starts.",
+              "Watch out for pedestrians moving slower on icy surfaces."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1302,6 +1884,188 @@
           "Download a public transport app to make navigation easier.",
           "Peak hours in the morning and late afternoon can lead to fuller buses."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Tour entspannt mit dem Bus. Die Haltestellen im Zentrum von Siedlce bieten oft Wartehäuschen, die Sie vor dem Regen schützen.\n\nMittags erreichen Sie die Kathedrale bequem mit einer der zentralen Linien. Die kurzen Intervalle minimieren Ihre Wartezeit im Freien.\n\nDer Nachmittag am Muchawka-Stausee erfordert eine Busfahrt. Nutzen Sie die Fahrtzeit, um Ihre Kleidung zu trocknen und die Aussicht aus dem trockenen Bus zu genießen.\n\nKehren Sie abends ins Zentrum zurück. Die Busse sind warm und beleuchtet, was die Rückfahrt nach einem nassen Tag sehr angenehm macht.",
+            "hu": "Kezdje a túrát kényelmesen busszal. Siedlce központjában a megállók többsége fedett, így védve van az esőtől várakozás közben.\n\nDélben a székesegyházat a központi járatokkal érheti el. A sűrű menetrendnek köszönhetően keveset kell a szabadban várakoznia.\n\nA délutáni út a Muchawka-víztározóhoz buszozást igényel. Használja ki az időt a szárítkozásra, és élvezze a kilátást a száraz buszból.\n\nEste térjen vissza a központba. A buszok fűtöttek és világosak, ami egy esős nap után különösen jóllesik.",
+            "ro": "Începeți turul relaxat cu autobuzul. Stațiile din centrul orașului Siedlce oferă adesea adăposturi care vă protejează de ploaie.\n\nLa prânz, ajungeți la catedrală comod cu una dintre liniile centrale. Intervalele scurte minimizează timpul de așteptare în aer liber.\n\nDupă-amiaza la lacul Muchawka necesită o călătorie cu autobuzul. Folosiți timpul pentru a vă usca hainele și bucurați-vă de peisaj din autobuzul uscat.\n\nReveniți seara în centru. Autobuzele sunt calde și luminate, făcând drumul de întoarcere foarte plăcut după o zi umedă.",
+            "en": "Start your tour relaxed by bus. Many bus stops in central Siedlce have shelters to keep you dry while waiting.\n\nAt noon, reach the Cathedral comfortably using central bus lines. Frequent service minimizes your time spent waiting outside in the rain.\n\nThe afternoon trip to Muchawka Reservoir involves a bus ride. Use this time to dry off and enjoy the rainy views from the dry interior.\n\nReturn to the center in the evening. The buses are warm and well-lit, making the ride back very pleasant after a wet day."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival in the City Center",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle mit gutem Regenschutz.",
+                "hu": "Központi megálló jó eső elleni védelemmel.",
+                "ro": "Stație centrală cu protecție bună contra ploii.",
+                "en": "Central bus stop with good rain protection."
+              }
+            },
+            {
+              "name": "Town Hall, St. Stanislaus Church, Cathedral",
+              "tip_5lang": {
+                "de": "Kurze Fußwege zwischen den Gebäuden einplanen.",
+                "hu": "Tervezzen rövid sétákat az épületek között.",
+                "ro": "Planificați distanțe scurte de mers între clădiri.",
+                "en": "Plan for short walking distances between buildings."
+              }
+            },
+            {
+              "name": "Ogiński Palace & Regional Museum",
+              "tip_5lang": {
+                "de": "Haltestelle fast direkt vor dem Palast.",
+                "hu": "A megálló szinte közvetlenül a palota előtt van.",
+                "ro": "Stația este aproape chiar în fața palatului.",
+                "en": "Bus stop is located almost right in front of the palace."
+              }
+            },
+            {
+              "name": "Lunch Break",
+              "tip_5lang": {
+                "de": "Cafés in der Nähe von Bushaltestellen wählen.",
+                "hu": "Válasszon buszmegálló közeli kávézót.",
+                "ro": "Alegeți cafenele aflate lângă stațiile de autobuz.",
+                "en": "Choose cafés located near bus stops."
+              }
+            },
+            {
+              "name": "Cluster 2: Bus ride to Muchawka Reservoir",
+              "tip_5lang": {
+                "de": "Fahrplan-App nutzen, um Wartezeit im Regen zu verkürzen.",
+                "hu": "Használjon menetrend alkalmazást a várakozás csökkentésére.",
+                "ro": "Folosiți aplicația de transport pentru a reduce așteptarea.",
+                "en": "Use a transit app to minimize waiting in the rain."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_5lang": {
+                "de": "Bussen bei Nässe mehr Platz beim Einfahren lassen.",
+                "hu": "Hagyjon több helyet a beálló buszoknak esőben.",
+                "ro": "Lăsați mai mult loc autobuzelor care intră în stație.",
+                "en": "Give buses more space when they pull in during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab am Kiosk oder per App.",
+              "Halten Sie Kleingeld bereit, falls der Automat im Bus streikt.",
+              "Achten Sie auf Pfützen beim Ein- und Aussteigen.",
+              "Die Linie 3 oder 4 bedient oft die wichtigsten Punkte."
+            ],
+            "hu": [
+              "Vegyen jegyet előre újságosnál vagy applikációban.",
+              "Legyen kéznél apró, ha a buszon lévő automata nem működne.",
+              "Ügyeljen a tócsákra le- és felszálláskor.",
+              "A 3-as vagy 4-es vonalak érintik a legtöbb látnivalót."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans de la chioșcuri sau prin aplicație.",
+              "Aveți mărunt la voi în caz că automatul din autobuz nu merge.",
+              "Atenție la bălți la urcare și coborâre.",
+              "Liniile 3 sau 4 deservesc majoritatea punctelor de interes."
+            ],
+            "en": [
+              "Buy tickets in advance at kiosks or via mobile app.",
+              "Keep small change ready for on-board ticket machines.",
+              "Watch out for deep puddles at bus stops.",
+              "Lines 3 or 4 usually cover the main tourist spots."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintertag warm im Bus. Die Heizung in den öffentlichen Verkehrsmitteln von Siedlce funktioniert zuverlässig und bietet einen guten Start.\n\nMittags ist die Fahrt zwischen den Kirchen kurz. Nutzen Sie die Wartehäuschen als Windschutz, während Sie auf den nächsten Bus warten.\n\nDer Nachmittag am Muchawka-Stausee ist bei Kälte nur mit dem Bus zu empfehlen. So bleiben Sie bis kurz vor Erreichen des Ziels im Warmen.\n\nKehren Sie abends ins beleuchtete Zentrum zurück. Die Fahrt in der Dämmerung bietet schöne Ausblicke auf die Weihnachtsbeleuchtung der Stadt.",
+            "hu": "Kezdje a téli napot a busz melegében. A siedlcei tömegközlekedés fűtése megbízható, így kellemesen indul a reggel.\n\nDélben a templomok közötti távokat tegye meg busszal. Használja a várókat szélfogóként, amíg a következő járatra vár.\n\nA Muchawka-víztározóhoz télen a busz a legjobb választás. Így az út nagy részét fűtött utastérben töltheti.\n\nEste térjen vissza a kivilágított központba. A szürkületi buszozás alatt gyönyörködhet a város ünnepi fényeiben.",
+            "ro": "Începeți ziua de iarnă în căldura autobuzului. Încălzirea în transportul public din Siedlce este fiabilă, oferind un start bun.\n\nLa prânz, distanțele între biserici sunt parcurse ușor cu autobuzul. Folosiți adăposturile din stații contra vântului tăios.\n\nDupă-amiaza la lacul Muchawka este recomandată cu autobuzul pe ger. Astfel stați la căldură până aproape de destinație.\n\nReveniți seara în centrul luminat. Călătoria la amurg oferă vederi frumoase asupra iluminatului festiv al orașului.",
+            "en": "Start your winter day warmly inside the bus. Heating in Siedlce's public transport is reliable and provides a great start.\n\nAt noon, hopping between churches is easy by bus. Use bus shelters as windbreaks while waiting for your next connection.\n\nThe afternoon trip to Muchawka Reservoir is best done by bus in the cold. It keeps you warm until just before you reach the lakeside.\n\nReturn to the illuminated center in the evening. Riding the bus at dusk offers lovely views of the city's festive winter lights."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival in the City Center",
+              "tip_5lang": {
+                "de": "Suchen Sie Haltestellen mit Windschutzwänden.",
+                "hu": "Keressen szélfogó fallal ellátott megállókat.",
+                "ro": "Căutați stații dotate cu pereți de protecție contra vântului.",
+                "en": "Look for bus stops with wind protection panels."
+              }
+            },
+            {
+              "name": "Town Hall, St. Stanislaus Church, Cathedral",
+              "tip_5lang": {
+                "de": "Zentrale Umstiegspunkte sind im Winter gut beleuchtet.",
+                "hu": "A központi átszállóhelyek télen jól kivilágítottak.",
+                "ro": "Punctele centrale de transfer sunt bine luminate iarna.",
+                "en": "Central transfer points are well-lit in winter."
+              }
+            },
+            {
+              "name": "Ogiński Palace & Regional Museum",
+              "tip_5lang": {
+                "de": "Heizung im Museum ist sehr effektiv.",
+                "hu": "A múzeum fűtése nagyon hatékony.",
+                "ro": "Încălzirea în muzeu este foarte eficientă.",
+                "en": "The museum's heating is very effective."
+              }
+            },
+            {
+              "name": "Lunch Break",
+              "tip_5lang": {
+                "de": "Restaurants an den Hauptbuslinien bevorzugen.",
+                "hu": "Válasszon éttermet a fő buszvonalak mentén.",
+                "ro": "Preferați restaurantele de pe liniile principale de autobuz.",
+                "en": "Prefer restaurants along the main bus routes."
+              }
+            },
+            {
+              "name": "Cluster 2: Bus ride to Muchawka Reservoir",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter manchmal mit Verspätung.",
+                "hu": "A buszok télen néha késhetnek a hó miatt.",
+                "ro": "Autobuzele pot avea întârzieri iarna din cauza zăpezii.",
+                "en": "Buses may sometimes be delayed in winter conditions."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_5lang": {
+                "de": "Im Bus ist es warm, perfekt zum Ausruhen.",
+                "hu": "A buszon meleg van, ideális pihenni.",
+                "ro": "În autobuz este cald, perfect pentru odihnă.",
+                "en": "It's warm on the bus, perfect for resting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Pufferzeiten für witterungsbedingte Verzögerungen ein.",
+              "Vermeiden Sie langes Stehen auf kalten Betonflächen.",
+              "Nutzen Sie die App 'Jakdojade' für Echtzeit-Infos.",
+              "Tragen Sie Schuhe mit dicker Sohle gegen Bodenkälte."
+            ],
+            "hu": [
+              "Tervezzen plusz időt az időjárás miatti késésekre.",
+              "Ne álljon sokáig a hideg betonon várakozás közben.",
+              "Használja a 'Jakdojade' appot a valós idejű infókért.",
+              "Viseljen vastag talpú cipőt a talajmenti fagy ellen."
+            ],
+            "ro": [
+              "Planificați timp suplimentar pentru eventuale întârzieri.",
+              "Evitați statul prelungit pe suprafețe reci de beton.",
+              "Folosiți aplicația 'Jakdojade' pentru informații în timp real.",
+              "Purtați încălțăminte cu talpă groasă contra gerului de la sol."
+            ],
+            "en": [
+              "Allow extra time for potential weather-related delays.",
+              "Avoid standing too long on cold concrete surfaces.",
+              "Use the 'Jakdojade' app for real-time transit info.",
+              "Wear thick-soled shoes to insulate against ground cold."
+            ]
+          }
+        }
       }
     }
   }

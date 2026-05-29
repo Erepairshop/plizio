@@ -399,6 +399,206 @@
           "Most shops close in the afternoon for a siesta. Plan your shopping accordingly.",
           "Respect the quiet in the residential areas away from the port."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag am Hafen unter einem Regenschirm. Die Bastionen bieten wenig Schutz, also nutzen Sie die Museen als trockene Zufluchtsorte. Ein langes Mittagessen in einer gemütlichen Taverne wärmt auf. Der Nachmittag im Kountouriotis-Haus ist ideal, um dem Regen zu entkommen. Der Abendspaziergang ist kurz, aber die Spiegelungen der Lichter auf den nassen Steinen sind magisch.",
+            "hu": "Kezdje a napot a kikötőben esernyővel. A bástyáknál kevés a fedett rész, így a múzeumok lesznek a legjobb menedékek. Egy hosszú ebéd egy hangulatos tavernában segít átvészelni a záport. A délután a Kountouriotis-kúriában tökéletes a behúzódásra. Az esti séta rövidebb lesz, de a vizes macskaköveken megcsillanó fények látványa kárpótol mindenért.",
+            "ro": "Începeți ziua în port cu o umbrelă. Bastioanele oferă puțin adăpost, așa că folosiți muzeele ca refugii uscate. Un prânz prelungit într-o tavernă primitoare vă va încălzi. După-amiaza la Conacul Kountouriotis este ideală pentru a scăpa de ploaie. Plimbarea de seară va fi scurtă, dar reflexiile luminilor pe pietrele ude sunt magice.",
+            "en": "Start the day at the harbour with an umbrella. The bastions offer little cover, so use the museums as dry havens. A long lunch in a cozy taverna will warm you up. The afternoon at the Kountouriotis Mansion is ideal for escaping the rain. The evening stroll will be shorter, but the sight of lights reflecting on the wet cobblestones is magical."
+          },
+          "stops": [
+            {
+              "name": "Hydra Harbour",
+              "tip_4lang": {
+                "de": "Vorsicht, die glatten Steine sind bei Nässe sehr rutschig.",
+                "hu": "Vigyázat, a fényes kövek esőben rendkívül csúszósak.",
+                "ro": "Atenție, pietrele lustruite devin foarte alunecoase pe ploaie.",
+                "en": "Careful, the polished stones are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Bastions with Cannons",
+              "tip_4lang": {
+                "de": "Suchen Sie bei starkem Wind Schutz unter den Torbögen.",
+                "hu": "Erős szél esetén keressen menedéket a boltívek alatt.",
+                "ro": "Căutați adăpost sub arcade în caz de vânt puternic.",
+                "en": "Seek shelter under the archways if the wind picks up."
+              }
+            },
+            {
+              "name": "Historical Archive Museum",
+              "tip_4lang": {
+                "de": "Perfekter Ort, um einen heftigen Schauer trocken abzuwarten.",
+                "hu": "Tökéletes hely egy heves zápor száraz megvárásához.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei averse.",
+                "en": "Perfect place to wait out a heavy downpour in the dry."
+              }
+            },
+            {
+              "name": "Monastery of the Assumption of the Virgin Mary",
+              "tip_4lang": {
+                "de": "Der Innenhof bietet begrenzten Schutz vor dem Regen.",
+                "hu": "A belső udvar korlátozott védelmet nyújt az eső elől.",
+                "ro": "Curtea interioară oferă adăpost limitat împotriva ploii.",
+                "en": "The inner courtyard offers limited shelter from the rain."
+              }
+            },
+            {
+              "name": "Greek Lunch",
+              "tip_4lang": {
+                "de": "Wählen Sie einen Platz im hinteren Bereich, fernab vom Eingang.",
+                "hu": "Válasszon asztalt a belső részben, távol a bejárattól.",
+                "ro": "Alegeți o masă în interior, departe de intrare.",
+                "en": "Choose a table in the back area, away from the entrance."
+              }
+            },
+            {
+              "name": "Lazaros Kountouriotis Mansion",
+              "tip_4lang": {
+                "de": "Genießen Sie die historischen Räume, während es draußen regnet.",
+                "hu": "Élvezze a történelmi szobákat, miközben kint esik.",
+                "ro": "Bucurați-vă de camerele istorice în timp ce afară plouă.",
+                "en": "Enjoy the historical rooms while it rains outside."
+              }
+            },
+            {
+              "name": "Sunset Stroll",
+              "tip_4lang": {
+                "de": "Ein kurzer Blick aufs Meer reicht heute völlig aus.",
+                "hu": "Egy gyors pillantás a tengerre ma bőven elegendő.",
+                "ro": "O privire scurtă spre mare este suficientă astăzi.",
+                "en": "A quick glance at the sea is quite enough for today."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Grip für die glatten Gassen.",
+              "Ein stabiler Regenschirm ist wegen der Meeresbrise wichtig.",
+              "Planen Sie längere Aufenthalte in den Museen ein.",
+              "Kaffeepausen sind ideal, um nasse Kleidung zu trocknen."
+            ],
+            "hu": [
+              "Viseljen tapadós talpú cipőt a csúszós sikátorok miatt.",
+              "A tengeri szél miatt erős esernyőre lesz szüksége.",
+              "Tervezzen hosszabb időt a múzeumi látogatásokra.",
+              "A kávészünetek ideálisak a ruházat megszárítására."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență pentru străzile alunecoase.",
+              "O umbrelă rezistentă este necesară din cauza brizei marine.",
+              "Planificați vizite mai lungi la muzee.",
+              "Pauzele de cafea sunt ideale pentru a vă usca hainele."
+            ],
+            "en": [
+              "Wear shoes with good grip for the slippery alleys.",
+              "A sturdy umbrella is essential due to the sea breeze.",
+              "Plan for longer stays during museum visits.",
+              "Coffee breaks are ideal for drying off wet gear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Hydra im Winter ist friedlich und authentisch. Der Morgen am Hafen gehört den Fischern. Die Bastionen bieten klare Sicht auf die Ägäis. Besuchen Sie die Museen ohne die sommerlichen Massen. Das Mittagessen ist herzlich und lokal. Nach dem Besuch des Kountouriotis-Hauses sollten Sie den Sonnenuntergang früh planen, da es gegen 17:15 Uhr dunkel wird. Ein gemütlicher Abend rundet den Tag ab.",
+            "hu": "Hydra télen békés és autentikus. A reggel a kikötőben a halászoké. A bástyákról tiszta kilátás nyílik az Égei-tengerre. Látogassa meg a múzeumokat a nyári tömeg nélkül. Az ebéd ilyenkor kiadós és helyi jellegű. A Kountouriotis-ház után tervezze korán a naplementét, mert 17:15 körül sötétedik. Egy meghitt este zárja a napot.",
+            "ro": "Hydra iarna este pașnică și autentică. Dimineața în port aparține pescarilor. Bastioanele oferă o vedere clară asupra Egeei. Vizitați muzeele fără mulțimile de vară. Prânzul este consistent și local. După vizitarea Conacului Kountouriotis, planificați apusul devreme, deoarece se întunecă în jurul orei 17:15. O seară liniștită încheie ziua.",
+            "en": "Hydra in winter is peaceful and authentic. The morning at the harbour belongs to the fishermen. The bastions offer clear views of the Aegean. Visit the museums without the summer crowds. Lunch is hearty and local. After visiting the Kountouriotis Mansion, plan for an early sunset as it gets dark around 17:15. A cozy evening rounds off the day."
+          },
+          "stops": [
+            {
+              "name": "Hydra Harbour",
+              "tip_4lang": {
+                "de": "Genießen Sie die Ruhe ohne die Touristenströme.",
+                "hu": "Élvezze a nyugalmat a turisták áradata nélkül.",
+                "ro": "Bucurați-vă de liniște fără fluxul de turiști.",
+                "en": "Enjoy the tranquility without the tourist crowds."
+              }
+            },
+            {
+              "name": "Bastions with Cannons",
+              "tip_4lang": {
+                "de": "Die Wintersonne ist perfekt für Fotos ohne Dunst.",
+                "hu": "A téli nap tökéletes a páramentes fotókhoz.",
+                "ro": "Soarele de iarnă este perfect pentru fotografii clare.",
+                "en": "The winter sun is perfect for photos without haze."
+              }
+            },
+            {
+              "name": "Historical Archive Museum",
+              "tip_4lang": {
+                "de": "Prüfen Sie die kürzeren Winteröffnungszeiten vorab.",
+                "hu": "Ellenőrizze előre a rövidebb téli nyitvatartást.",
+                "ro": "Verificați programul scurt de iarnă în prealabil.",
+                "en": "Check the shorter winter opening hours in advance."
+              }
+            },
+            {
+              "name": "Monastery of the Assumption of the Virgin Mary",
+              "tip_4lang": {
+                "de": "Ein Ort der Stille für einen Moment der Besinnung.",
+                "hu": "A csend helyszíne egy pillanatnyi elmélyüléshez.",
+                "ro": "Un loc al liniștii pentru un moment de reflecție.",
+                "en": "A place of silence for a moment of reflection."
+              }
+            },
+            {
+              "name": "Greek Lunch",
+              "tip_4lang": {
+                "de": "Probieren Sie saisonale Eintöpfe, die es nur jetzt gibt.",
+                "hu": "Kóstolja meg a szezonális, téli egytálételeket.",
+                "ro": "Gustați tocănițele sezoniere disponibile doar acum.",
+                "en": "Try seasonal stews that are only available now."
+              }
+            },
+            {
+              "name": "Lazaros Kountouriotis Mansion",
+              "tip_4lang": {
+                "de": "Die Innenräume sind angenehm temperiert und leer.",
+                "hu": "A belső terek kellemes hőmérsékletűek és üresek.",
+                "ro": "Interioarele sunt plăcut temperate și libere.",
+                "en": "The interiors are pleasantly warm and empty."
+              }
+            },
+            {
+              "name": "Sunset Stroll",
+              "tip_4lang": {
+                "de": "Seien Sie spätestens um 17:00 Uhr am Aussichtspunkt.",
+                "hu": "Legyen a kilátónál legkésőbb 17:00 órakor.",
+                "ro": "Fiți la punctul de belvedere cel târziu la ora 17:00.",
+                "en": "Be at the viewpoint by 17:00 at the latest."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip für kühle Brisen.",
+              "Die Sonne wärmt tagsüber, aber im Schatten ist es frisch.",
+              "Viele Geschäfte haben geschlossen, nutzen Sie die Lokalen.",
+              "Der Sonnenuntergang ist im Winter besonders farbintensiv."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a hűvös tengeri szél miatt.",
+              "A nap nappal melegít, de árnyékban hűvös van.",
+              "Sok bolt zárva tart, keresse a helyi kisüzleteket.",
+              "A téli naplementék gyakran intenzívebb színűek."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru briza răcoroasă.",
+              "Soarele încălzește ziua, dar la umbră este răcoare.",
+              "Multe magazine sunt închise, folosiți-le pe cele locale.",
+              "Apusul este deosebit de colorat în timpul iernii."
+            ],
+            "en": [
+              "Dress in layers for the cool sea breezes.",
+              "The sun warms during the day, but it's chilly in the shade.",
+              "Many shops are closed, so patronize the local ones.",
+              "Winter sunsets are often particularly intense in color."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -753,6 +953,188 @@
           "Check the opening times of the taverna in Vlychos during the off-season.",
           "A water taxi is an option for the return trip if you are too tired to walk."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert gute Ausrüstung auf dem Küstenweg. Der Wind am Hafen kann kräftig sein. In Vlychos finden Sie in einer Taverne Schutz. Der Rückweg führt an nassen Klippen entlang, was Konzentration erfordert. Ein warmes Getränk am Hafen ist der ideale Abschluss nach der feuchten Fahrt.",
+            "hu": "Egy esős kerékpározás jó felszerelést igényel a parti úton. A kikötőben a szél erős lehet. Vlychosban egy tavernában találhat menedéket. A visszautat a nedves sziklák mentén kell megtenni, ami nagy koncentrációt igényel. Egy meleg ital a kikötőben ideális lezárás a nedves túra után.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită echipament bun pe drumul de coastă. Vântul în port poate fi puternic. În Vlychos veți găsi adăpost într-o tavernă. Drumul de întoarcere trece pe lângă stânci ude, necesitând concentrare. O băutură caldă în port este finalul ideal după cursa umedă.",
+            "en": "A bike ride in the rain requires good gear on the coastal path. The wind at the harbour can be strong. In Vlychos, you can find shelter in a taverna. The return journey leads along wet cliffs, requiring concentration. A warm drink at the harbour is the ideal finish after the wet ride."
+          },
+          "stops": [
+            {
+              "name": "Hydra Harbour",
+              "tip_4lang": {
+                "de": "Prüfen Sie die Bremsen vor dem Start im Regen.",
+                "hu": "Ellenőrizze a fékeket az esős indulás előtt.",
+                "ro": "Verificați frânele înainte de plecarea pe ploaie.",
+                "en": "Check your brakes before starting in the rain."
+              }
+            },
+            {
+              "name": "Coastal Path West",
+              "tip_4lang": {
+                "de": "Achten Sie auf Pfützen und rutschigen Schlamm.",
+                "hu": "Ügyeljen a tócsákra és a csúszós sárra.",
+                "ro": "Atenție la bălți și noroiul alunecos.",
+                "en": "Watch out for puddles and slippery mud."
+              }
+            },
+            {
+              "name": "Vlychos Beach",
+              "tip_4lang": {
+                "de": "Der Strand ist bei Regen verlassen und stürmisch.",
+                "hu": "A strand esőben elhagyatott és viharos.",
+                "ro": "Plaja este pustie și furtunoasă pe ploaie.",
+                "en": "The beach is deserted and stormy in the rain."
+              }
+            },
+            {
+              "name": "Lunch in Vlychos",
+              "tip_4lang": {
+                "de": "Ein trockener Platz am Kamin ist jetzt Gold wert.",
+                "hu": "Egy száraz hely a kandallónál most aranyat ér.",
+                "ro": "Un loc uscat lângă șemineu valorează aur acum.",
+                "en": "A dry spot by the fireplace is worth gold now."
+              }
+            },
+            {
+              "name": "Return to Hydra Town",
+              "tip_4lang": {
+                "de": "Fahren Sie vorsichtig an den exponierten Stellen.",
+                "hu": "Óvatosan haladjon a kitett szakaszokon.",
+                "ro": "Conduceți cu prudență în zonele expuse.",
+                "en": "Ride carefully in the exposed sections."
+              }
+            },
+            {
+              "name": "Ice Cream at the Harbour",
+              "tip_4lang": {
+                "de": "Vielleicht lieber eine heiße Waffel als Eis.",
+                "hu": "Talán jobb egy forró gofri a fagyi helyett.",
+                "ro": "Poate o vafă caldă ar fi mai bună decât înghețata.",
+                "en": "Maybe a hot waffle instead of ice cream today."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie die Klippenkante bei starkem Wind.",
+              "Wasserdichte Kleidung ist auf dem offenen Weg Pflicht.",
+              "Achten Sie auf Esel, die bei Regen auch rutschen können.",
+              "Halten Sie die Fahrt kurz, wenn die Sicht nachlässt."
+            ],
+            "hu": [
+              "Erős szélben kerülje a sziklák szélét.",
+              "A nyílt úton kötelező a vízálló ruházat.",
+              "Ügyeljen a szamarakra, ők is megcsúszhatnak az esőben.",
+              "Rövidítse le az utat, ha romlanak a látási viszonyok."
+            ],
+            "ro": [
+              "Evitați marginea stâncilor în caz de vânt puternic.",
+              "Îmbrăcămintea impermeabilă este obligatorie pe drum.",
+              "Atenție la măgari, pot aluneca și ei pe ploaie.",
+              "Scurtați cursa dacă vizibilitatea scade."
+            ],
+            "en": [
+              "Avoid the cliff edge during strong winds.",
+              "Waterproof clothing is mandatory on the open path.",
+              "Watch out for donkeys, they can also slip in the rain.",
+              "Keep the ride short if visibility decreases."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren auf Hydra bietet klare Luft und leere Wege. Der Küstenweg im Westen ist erfrischend. Vlychos wirkt im Winterschlaf fast mystisch. Das Mittagessen ist ruhig, da nur wenige Lokale offen sind. Die Rückfahrt bei tiefstehender Sonne taucht die Klippen in goldenes Licht. Den Tag beenden Sie am besten mit einem lokalen Dessert am Hafen.",
+            "hu": "A téli kerékpározás Hydrán friss levegőt és üres utakat kínál. A nyugati parti út felüdítő. Vlychos a téli álmában szinte misztikusnak tűnik. Az ebéd nyugodt, mivel csak néhány hely van nyitva. A visszautat az alacsony napállás arany fénybe vonja. A napot érdemes egy helyi desszerttel zárni a kikötőben.",
+            "ro": "Ciclismul de iarnă în Hydra oferă aer curat și drumuri libere. Drumul de coastă din vest este revigorant. Vlychos pare aproape mistic în somnul său de iarnă. Prânzul este liniștit, puține localuri fiind deschise. Drumul de întoarcere în lumina joasă a soarelui scaldă stâncile în aur. Încheiați ziua cu un desert local în port.",
+            "en": "Winter cycling on Hydra offers crisp air and empty paths. The coastal path to the west is refreshing. Vlychos feels almost mystical in its winter sleep. Lunch is quiet, as only a few places remain open. The return trip in the low sun bathes the cliffs in golden light. End the day with a local dessert at the harbour."
+          },
+          "stops": [
+            {
+              "name": "Hydra Harbour",
+              "tip_4lang": {
+                "de": "Die kühle Morgenluft erfordert Handschuhe.",
+                "hu": "A hűvös reggeli levegő kesztyűt igényel.",
+                "ro": "Aerul răcoros al dimineții necesită mănuși.",
+                "en": "The cool morning air requires gloves."
+              }
+            },
+            {
+              "name": "Coastal Path West",
+              "tip_4lang": {
+                "de": "Genießen Sie die uneingeschränkte Sicht aufs Meer.",
+                "hu": "Élvezze a korlátlan kilátást a tengerre.",
+                "ro": "Bucurați-vă de vederea nelimitată spre mare.",
+                "en": "Enjoy the unobstructed views of the sea."
+              }
+            },
+            {
+              "name": "Vlychos Beach",
+              "tip_4lang": {
+                "de": "Ein einsamer Ort für stille Beobachtungen.",
+                "hu": "Magányos hely a csendes megfigyeléshez.",
+                "ro": "Un loc solitar pentru observații liniștite.",
+                "en": "A lonely place for quiet observation."
+              }
+            },
+            {
+              "name": "Lunch in Vlychos",
+              "tip_4lang": {
+                "de": "Fragen Sie nach dem Tagesgericht für Einheimische.",
+                "hu": "Kérdezze a helyieknek szánt napi ajánlatot.",
+                "ro": "Întrebați de meniul zilei pentru localnici.",
+                "en": "Ask for the daily special intended for locals."
+              }
+            },
+            {
+              "name": "Return to Hydra Town",
+              "tip_4lang": {
+                "de": "Nutzen Sie das letzte Tageslicht für die Rückfahrt.",
+                "hu": "Használja ki az utolsó nappali fényt a visszaúthoz.",
+                "ro": "Folosiți ultima lumină a zilei pentru întoarcere.",
+                "en": "Use the last daylight for the return journey."
+              }
+            },
+            {
+              "name": "Ice Cream at the Harbour",
+              "tip_4lang": {
+                "de": "Ein warmer Milchreis ist eine gute Alternative.",
+                "hu": "Egy meleg tejberizs kiváló alternatíva.",
+                "ro": "O budincă de orez caldă este o alternativă bună.",
+                "en": "A warm rice pudding is a great alternative."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht früh unter, planen Sie Licht ein.",
+              "Der Wind kann im Winter schneidend kalt sein.",
+              "Nehmen Sie eine Thermoskanne mit warmem Tee mit.",
+              "Prüfen Sie, welche Tavernen in Vlychos offen sind."
+            ],
+            "hu": [
+              "A nap korán nyugszik, legyen Önnél világítás.",
+              "A szél télen metszően hideg lehet.",
+              "Vigyen magával termoszt meleg teával.",
+              "Ellenőrizze, mely tavernák vannak nyitva Vlychosban."
+            ],
+            "ro": [
+              "Soarele apune devreme, planificați surse de lumină.",
+              "Vântul poate fi tăios de rece în timpul iernii.",
+              "Luați un termos cu ceai cald la voi.",
+              "Verificați ce taverne sunt deschise în Vlychos."
+            ],
+            "en": [
+              "The sun sets early, plan for lighting.",
+              "The wind can be piercingly cold in winter.",
+              "Take a thermos with warm tea with you.",
+              "Check which tavernas are open in Vlychos."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1088,6 +1470,170 @@
           "Sun protection is essential even on a boat trip.",
           "This itinerary combines beach relaxation with in-town culture."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Wassertaxi im Regen ist ein Abenteuer für sich. Die Fahrt nach Mandraki kann spritzig sein, da der Seegang bei Regen oft zunimmt. Der Strand wirkt grau, aber das Mittagessen im Trockenen ist gemütlich. Zurück in Hydra Town bietet das Kountouriotis-Haus einen prachtvollen, regenfesten Abschluss des Tages.",
+            "hu": "A vízitaxi esőben önmagában is kaland. A Mandraki felé vezető út fröcskölős lehet, mivel esőben gyakran feltámad a tenger. A strand szürkének tűnik, de a száraz helyen elköltött ebéd hangulatos. Visszatérve Hydra városába, a Kountouriotis-ház pompás, esőbiztos zárása a napnak.",
+            "ro": "Taxiul pe apă pe ploaie este o aventură în sine. Călătoria spre Mandraki poate fi agitată, deoarece marea se montează des pe ploaie. Plaja pare gri, dar prânzul la adăpost este plăcut. Reveniți în orașul Hydra, unde Conacul Kountouriotis oferă un final de zi splendid și ferit de ploaie.",
+            "en": "The water taxi in the rain is an adventure in itself. The ride to Mandraki can be splashy, as the sea often gets rougher with rain. The beach looks grey, but lunch in the dry is cozy. Back in Hydra Town, the Kountouriotis Mansion offers a grand, rain-proof conclusion to the day."
+          },
+          "stops": [
+            {
+              "name": "Water Taxi from the Harbour",
+              "tip_4lang": {
+                "de": "Bitten Sie um ein Boot mit Überdachung.",
+                "hu": "Kérjen fedett kabinnal rendelkező csónakot.",
+                "ro": "Cereți o barcă cu acoperiș.",
+                "en": "Ask for a boat with a canopy or cover."
+              }
+            },
+            {
+              "name": "Mandraki Beach",
+              "tip_4lang": {
+                "de": "Der Sand ist nass, bleiben Sie unter dem Vordach.",
+                "hu": "A homok nedves, maradjon az előtető alatt.",
+                "ro": "Nisipul este ud, rămâneți sub copertină.",
+                "en": "The sand is wet, stay under the awning."
+              }
+            },
+            {
+              "name": "Lunch in Mandraki",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf das regnerische Meer.",
+                "hu": "Élvezze a kilátást az esős tengerre.",
+                "ro": "Bucurați-vă de vederea mării pe ploaie.",
+                "en": "Enjoy the view of the rainy sea from inside."
+              }
+            },
+            {
+              "name": "Back in Hydra Town",
+              "tip_4lang": {
+                "de": "Vorsicht beim Aussteigen auf den nassen Pier.",
+                "hu": "Vigyázat a kiszálláskor a nedves mólónál.",
+                "ro": "Atenție la debarcarea pe cheiul ud.",
+                "en": "Be careful when disembarking onto the wet pier."
+              }
+            },
+            {
+              "name": "Lazaros Kountouriotis Mansion",
+              "tip_4lang": {
+                "de": "Ein großartiger Ort, um den Tag trocken ausklingen zu lassen.",
+                "hu": "Nagyszerű hely a nap száraz befejezéséhez.",
+                "ro": "Un loc minunat pentru a încheia ziua la adăpost.",
+                "en": "A great place to finish the day in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Wassertaxis können bei starkem Sturm den Betrieb einstellen.",
+              "Halten Sie Wertsachen in wasserdichten Taschen.",
+              "Mandraki ist ruhiger, aber die Wege sind schlammig.",
+              "Ein heißer Kaffee nach der Bootsfahrt wirkt Wunder."
+            ],
+            "hu": [
+              "Erős vihar esetén a vízitaxik leállhatnak.",
+              "Tartsa értékeit vízhatlan táskában.",
+              "Mandraki csendesebb, de az utak sárosak.",
+              "Egy forró kávé a hajózás után csodákra képes."
+            ],
+            "ro": [
+              "Taxiurile pe apă pot suspenda serviciul în caz de furtună.",
+              "Păstrați obiectele de valoare în pungi impermeabile.",
+              "Mandraki este mai liniștit, dar drumurile sunt noroioase.",
+              "O cafea fierbinte după barcă face minuni."
+            ],
+            "en": [
+              "Water taxis may stop operating during heavy storms.",
+              "Keep valuables in waterproof bags.",
+              "Mandraki is quieter, but paths can be muddy.",
+              "A hot coffee after the boat ride works wonders."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wassertaxifahrt im Winter ist kurz und erfrischend. Mandraki im Winterschlaf bietet einsame Spaziergänge am Meer. Das Mittagessen ist ruhig und persönlich. Zurück im Hafen von Hydra Town genießen Sie die Architektur ohne Gedränge. Das Kountouriotis-Haus bietet einen tiefen Einblick in die Geschichte der Insel, bevor die frühe Abenddämmerung einsetzt.",
+            "hu": "A téli vízitaxi út rövid és frissítő. A téli álmát alvó Mandraki magányos tengerparti sétákat kínál. Az ebéd nyugodt és személyes. Visszatérve Hydra kikötőjébe, tömeg nélkül csodálhatja az építészetet. A Kountouriotis-ház mély betekintést nyújt a sziget történelmébe, mielőtt beállna a korai alkonyat.",
+            "ro": "Cursa cu taxiul pe apă iarna este scurtă și revigorantă. Mandraki în somnul de iarnă oferă plimbări solitare pe malul mării. Prânzul este liniștit și personal. Reveniți în portul Hydra pentru a admira arhitectura fără aglomerație. Conacul Kountouriotis oferă o perspectivă asupra istoriei înainte de amurg.",
+            "en": "The winter water taxi ride is short and refreshing. Mandraki in its winter sleep offers solitary walks by the sea. Lunch is quiet and personal. Back at Hydra harbour, enjoy the architecture without the crowds. The Kountouriotis Mansion provides deep insight into the island's history before the early dusk sets in."
+          },
+          "stops": [
+            {
+              "name": "Water Taxi from the Harbour",
+              "tip_4lang": {
+                "de": "Die Überfahrt ist im Winter kühler, Jacke schließen.",
+                "hu": "Az átkelés télen hűvösebb, húzza fel a kabátját.",
+                "ro": "Traversarea este mai rece iarna, închideți jacheta.",
+                "en": "The crossing is cooler in winter, zip up your jacket."
+              }
+            },
+            {
+              "name": "Mandraki Beach",
+              "tip_4lang": {
+                "de": "Genießen Sie die Einsamkeit an diesem sonst vollen Ort.",
+                "hu": "Élvezze a magányt ezen az egyébként zsúfolt helyen.",
+                "ro": "Bucurați-vă de singurătate în acest loc de obicei plin.",
+                "en": "Enjoy the solitude in this otherwise crowded spot."
+              }
+            },
+            {
+              "name": "Lunch in Mandraki",
+              "tip_4lang": {
+                "de": "Oft ist nur ein lokales Bistro für Fischer offen.",
+                "hu": "Gyakran csak egy helyi bisztró van nyitva a halászoknak.",
+                "ro": "Deseori este deschis doar un bistro local pentru pescari.",
+                "en": "Often only one local bistro is open for fishermen."
+              }
+            },
+            {
+              "name": "Back in Hydra Town",
+              "tip_4lang": {
+                "de": "Das goldene Licht am Hafen ist ideal für Fotos.",
+                "hu": "Az aranyló fény a kikötőben ideális fotózáshoz.",
+                "ro": "Lumina aurie din port este ideală pentru fotografii.",
+                "en": "The golden light at the harbour is ideal for photos."
+              }
+            },
+            {
+              "name": "Lazaros Kountouriotis Mansion",
+              "tip_4lang": {
+                "de": "Besuchen Sie das Haus früh, bevor es schließt.",
+                "hu": "Látogassa meg a házat korán, mielőtt bezár.",
+                "ro": "Vizitați conacul devreme, înainte de închidere.",
+                "en": "Visit the mansion early before it closes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Es fahren weniger Taxis, vereinbaren Sie die Rückfahrt.",
+              "Die Luft auf dem Wasser ist deutlich kälter als an Land.",
+              "Mandraki wirkt im Winter wie ein verschlafenes Fischerdorf.",
+              "Nutzen Sie die Zeit für Gespräche mit den Kapitänen."
+            ],
+            "hu": [
+              "Kevesebb taxi jár, beszélje meg előre a visszautat.",
+              "A vízen a levegő jóval hidegebb, mint a szárazföldön.",
+              "Mandraki télen egy álmos halászfalu képét nyújtja.",
+              "Használja ki az időt a kapitányokkal való beszélgetésre."
+            ],
+            "ro": [
+              "Circulă mai puține taxiuri, stabiliți ora de întoarcere.",
+              "Aerul pe apă este mult mai rece decât pe uscat.",
+              "Mandraki arată iarna ca un sat pescăresc adormit.",
+              "Folosiți timpul pentru a sta de vorbă cu căpitanii."
+            ],
+            "en": [
+              "Fewer taxis operate, arrange your return trip in advance.",
+              "The air on the water is significantly colder than on land.",
+              "Mandraki looks like a sleepy fishing village in winter.",
+              "Take the opportunity to chat with the captains."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1423,6 +1969,170 @@
           "Keep small change handy for water taxis and small purchases.",
           "Be flexible; water taxis may stop running in very rough weather."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Wassertaxi geht es trotz Regen nach Vlychos. Der Strand ist grau, aber die Tavernen bieten Wärme. Zurück im Hafen von Hydra Town ist ein Besuch im Historischen Archivmuseum die beste Wahl, um trocken zu bleiben. Der Tag endet mit einem Blick auf den stürmischen Hafen von einem geschützten Café aus.",
+            "hu": "Vízitaxival indulunk Vlychosba az eső ellenére is. A strand szürke, de a tavernák meleget adnak. Visszatérve Hydra kikötőjébe, a Történeti Archívum Múzeum a legjobb választás, hogy szárazon maradjunk. A nap egy védett kávézóból, a viharos kikötő látványával zárul.",
+            "ro": "Cu taxiul pe apă mergem la Vlychos în ciuda ploii. Plaja este gri, dar tavernele oferă căldură. Reveniți în portul Hydra, unde Arhiva Istorică este cea mai bună alegere pentru a rămâne uscat. Ziua se încheie cu vederea portului furtunos dintr-o cafenea protejată.",
+            "en": "We take a water taxi to Vlychos despite the rain. The beach is grey, but the tavernas offer warmth. Back at Hydra harbour, a visit to the Historical Archive Museum is the best choice to stay dry. The day ends with a view of the stormy harbour from a sheltered café."
+          },
+          "stops": [
+            {
+              "name": "Hydra Harbour (Water Taxi Stop)",
+              "tip_4lang": {
+                "de": "Warten Sie unter den Arkaden auf Ihr Boot.",
+                "hu": "Várja a csónakját az árkádok alatt.",
+                "ro": "Așteptați barca sub arcade.",
+                "en": "Wait for your boat under the arcades."
+              }
+            },
+            {
+              "name": "Vlychos Beach",
+              "tip_4lang": {
+                "de": "Der Regen wäscht den Sand weg, nur kurzer Aufenthalt.",
+                "hu": "Az eső elmossa a homokot, csak rövid tartózkodás.",
+                "ro": "Ploaia spală nisipul, stați doar puțin.",
+                "en": "The rain washes the sand away, only a short stay."
+              }
+            },
+            {
+              "name": "Lunch at a Taverna",
+              "tip_4lang": {
+                "de": "Fragen Sie nach einem Platz nah am Ofen.",
+                "hu": "Kérjen asztalt a kályha közelében.",
+                "ro": "Cereți o masă lângă sobă.",
+                "en": "Ask for a table near the stove or heater."
+              }
+            },
+            {
+              "name": "Back to Hydra Town",
+              "tip_4lang": {
+                "de": "Genießen Sie die raue Fahrt übers Meer.",
+                "hu": "Élvezze a tenger hullámai feletti utazást.",
+                "ro": "Bucurați-vă de cursa agitată pe mare.",
+                "en": "Enjoy the rough ride across the sea."
+              }
+            },
+            {
+              "name": "Historical Archive Museum",
+              "tip_4lang": {
+                "de": "Ein idealer Rückzugsort für Geschichtsfans bei Regen.",
+                "hu": "Ideális menedék a történelemkedvelőknek esőben.",
+                "ro": "Refugiul ideal pentru fanii istoriei pe ploaie.",
+                "en": "An ideal retreat for history fans during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Wassertaxis sind die einzige 'Transit'-Option hier.",
+              "Vermeiden Sie offene Boote bei starkem Regen.",
+              "Die Museen sind Ihre besten Freunde an Regentagen.",
+              "Ein Poncho ist praktischer als ein Regenschirm am Boot."
+            ],
+            "hu": [
+              "A vízitaxi az egyetlen 'tömegközlekedési' opció.",
+              "Kerülje a nyitott csónakokat heves esőben.",
+              "A múzeumok a legjobb barátai esős napokon.",
+              "A poncsó praktikusabb a hajón, mint az esernyő."
+            ],
+            "ro": [
+              "Taxiurile pe apă sunt singura opțiune de tranzit.",
+              "Evitați bărcile deschise pe ploaie torențială.",
+              "Muzeele sunt cei mai buni prieteni în zilele ploioase.",
+              "O pelerină este mai practică decât umbrela pe barcă."
+            ],
+            "en": [
+              "Water taxis are the only 'transit' option here.",
+              "Avoid open boats during heavy rain.",
+              "Museums are your best friends on rainy days.",
+              "A poncho is more practical than an umbrella on the boat."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Transit auf Hydra bedeutet eine ruhige Fahrt nach Vlychos. Der Strand ist leer, ideal für stille Gedanken. Das Mittagessen ist gemütlich und bietet lokale Winterspezialitäten. Zurück im Hauptort Hydra lädt das Historische Archivmuseum zu einer Reise in die maritime Vergangenheit ein. Der Abend beginnt früh mit einem Spaziergang am leuchtenden Kai.",
+            "hu": "A téli közlekedés Hydrán egy nyugodt utazást jelent Vlychosba. A strand üres, ideális a csendes gondolatokhoz. Az ebéd hangulatos, helyi téli különlegességeket kínál. Visszatérve Hydra központjába, a Történeti Archívum Múzeum hívogat a tengeri múltba. Az este korán kezdődik egy sétával a kivilágított rakparton.",
+            "ro": "Tranzitul de iarnă în Hydra înseamnă o cursă liniștită spre Vlychos. Plaja este goală, ideală pentru gânduri liniștite. Prânzul este plăcut și oferă specialități locale de iarnă. Reveniți în orașul Hydra, unde Arhiva Istorică vă invită într-o călătorie în trecutul maritim. Seara începe devreme cu o plimbare pe cheiul luminat.",
+            "en": "Winter transit on Hydra means a quiet ride to Vlychos. The beach is empty, ideal for quiet thoughts. Lunch is cozy and offers local winter specialties. Back in Hydra town, the Historical Archive Museum invites you on a journey into the maritime past. The evening begins early with a stroll along the lit quay."
+          },
+          "stops": [
+            {
+              "name": "Hydra Harbour (Water Taxi Stop)",
+              "tip_4lang": {
+                "de": "Die Boote fahren seltener, Fahrplan beachten.",
+                "hu": "A csónakok ritkábban járnak, figyelje a menetrendet.",
+                "ro": "Bărcile circulă mai rar, atenție la program.",
+                "en": "Boats run less frequently, check the schedule."
+              }
+            },
+            {
+              "name": "Vlychos Beach",
+              "tip_4lang": {
+                "de": "Ein Ort der totalen Ruhe im Winter.",
+                "hu": "A teljes nyugalom helyszíne télen.",
+                "ro": "Un loc de liniște totală iarna.",
+                "en": "A place of total tranquility in winter."
+              }
+            },
+            {
+              "name": "Lunch at a Taverna",
+              "tip_4lang": {
+                "de": "Genießen Sie den persönlichen Service im Winter.",
+                "hu": "Élvezze a személyes kiszolgálást télen.",
+                "ro": "Bucurați-vă de serviciul personalizat iarna.",
+                "en": "Enjoy the personal service in winter."
+              }
+            },
+            {
+              "name": "Back to Hydra Town",
+              "tip_4lang": {
+                "de": "Der Hafen wirkt im Winterlicht besonders malerisch.",
+                "hu": "A kikötő a téli fényben különösen festői.",
+                "ro": "Portul pare deosebit de pitoresc în lumina iernii.",
+                "en": "The harbour looks particularly picturesque in winter light."
+              }
+            },
+            {
+              "name": "Historical Archive Museum",
+              "tip_4lang": {
+                "de": "Die Ausstellungen sind im Winter entspannt besuchbar.",
+                "hu": "A kiállítások télen kényelmesen látogathatók.",
+                "ro": "Expozițiile pot fi vizitate relaxat iarna.",
+                "en": "Exhibitions can be visited in a relaxed way in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sprechen Sie mit den Bootsführern über die Inselgeschichte.",
+              "Nehmen Sie warme Kleidung für die Fahrt mit.",
+              "Die Museen schließen im Winter oft schon um 15:30 Uhr.",
+              "Genießen Sie die Stille, die nur der Winter bietet."
+            ],
+            "hu": [
+              "Beszélgessen a csónakosokkal a sziget történetéről.",
+              "Vigyen meleg ruhát a hajóútra.",
+              "A múzeumok télen gyakran már 15:30-kor bezárnak.",
+              "Élvezze a csendet, amit csak a tél adhat."
+            ],
+            "ro": [
+              "Stați de vorbă cu barcagiii despre istoria insulei.",
+              "Luați haine groase pentru călătorie.",
+              "Muzeele se închid iarna deseori la ora 15:30.",
+              "Bucurați-vă de liniștea pe care o oferă doar iarna."
+            ],
+            "en": [
+              "Talk to the boatmen about the island's history.",
+              "Take warm clothing for the boat trip.",
+              "Museums often close as early as 15:30 in winter.",
+              "Enjoy the silence that only winter provides."
+            ]
+          }
+        }
       }
     }
   }

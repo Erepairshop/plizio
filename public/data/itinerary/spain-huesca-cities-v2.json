@@ -318,6 +318,224 @@
           "Be aware of the siesta hours of many small shops.",
           "Comfortable shoes are recommended for the cobblestones."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die Arkaden der Plaza de López Allué perfekten Schutz vor dem Regen. Mittags verbringen wir viel Zeit im trockenen Inneren der Kathedrale und des Museums. Am Nachmittag bewundern wir das Casino und die Kirche San Lorenzo. Abends schlendern wir kurz durch den regnerischen Miguel-Servet-Park, bevor wir uns in ein gemütliches Café flüchten.",
+            "hu": "Reggel a Plaza de López Allué árkádjai alatt kezdünk, amelyek tökéletes menedéket nyújtanak az eső elől. Délben a katedrális és a múzeum fedett tereiben mélyedünk el a történelemben. Délután a San Lorenzo templom és a Kaszinó eleganciáját élvezzük. Este egy rövid, frissítő séta vár a Miguel Servet parkban, majd behúzódunk egy közeli bárba.",
+            "ro": "Dimineața, arcadele din Plaza de López Allué oferă adăpostul perfect împotriva ploii. La prânz, explorăm interiorul uscat al catedralei și al muzeului. După-amiaza vizităm biserica San Lorenzo și impresionantul Casino. Seara, încheiem cu o scurtă plimbare prin parcul Miguel Servet, bucurându-ne de aerul curat înainte de a ne retrage la căldură.",
+            "en": "In the morning, the arcades of Plaza de López Allué provide excellent shelter from the rain. At midday, we focus on the indoor wonders of the Cathedral and the Museum. The afternoon is spent between San Lorenzo and the historic Casino. In the evening, we take a brief walk through the rainy Miguel Servet Park before finding a cozy spot indoors."
+          },
+          "stops": [
+            {
+              "name": "Plaza de López Allué",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden rund um den Platz als Regenschutz.",
+                "hu": "Használja a tér körüli árkádokat eső elleni védelemként.",
+                "ro": "Folosiți arcadele din jurul pieței pentru a vă proteja de ploaie.",
+                "en": "Use the arcades around the square for shelter from the rain."
+              }
+            },
+            {
+              "name": "Murallas de Huesca",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steine der Stadtmauer können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a városfal kövei nedvesen csúszósak lehetnek.",
+                "ro": "Atenție, pietrele zidului pot fi alunecoase când sunt ude.",
+                "en": "Be careful, the wall stones can be slippery when wet."
+              }
+            },
+            {
+              "name": "Kathedrale von Huesca",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den stärksten Regen im Trockenen zu überdauern.",
+                "hu": "Ideális hely, hogy fedett helyen várjuk meg a nagyobb esőt.",
+                "ro": "Un loc ideal pentru a aștepta trecerea ploii la adăpost.",
+                "en": "An ideal place to stay dry during heavy rain showers."
+              }
+            },
+            {
+              "name": "Museo de Huesca",
+              "tip_5lang": {
+                "de": "Nutzen Sie die ausgiebige Besichtigung für eine lange Regenpause.",
+                "hu": "Használja ki a múzeumi látogatást egy hosszú esőszünetre.",
+                "ro": "Profită de vizită pentru o pauză lungă ferit de ploaie.",
+                "en": "Take advantage of the museum visit for a long rain break."
+              }
+            },
+            {
+              "name": "Iglesia de San Lorenzo",
+              "tip_5lang": {
+                "de": "Das prächtige Interieur lässt das graue Wetter draußen vergessen.",
+                "hu": "A pompás belső tér feledteti a kinti szürke időjárást.",
+                "ro": "Interiorul splendid vă va face să uitați de vremea gri.",
+                "en": "The splendid interior will make you forget the grey weather."
+              }
+            },
+            {
+              "name": "Casino de Huesca",
+              "tip_5lang": {
+                "de": "Perfekt für eine heiße Schokolade im historischen Café-Bereich.",
+                "hu": "Tökéletes hely egy forró csokoládéra a történelmi kávézóban.",
+                "ro": "Perfect pentru o ciocolată caldă în zona cafenelei istorice.",
+                "en": "Perfect for a hot chocolate in the historic cafe area."
+              }
+            },
+            {
+              "name": "Monasterio de San Pedro el Viejo",
+              "tip_5lang": {
+                "de": "Der Kreuzgang ist teilweise überdacht und sehr stimmungsvoll.",
+                "hu": "A kolostorkert részben fedett és nagyon hangulatos esőben.",
+                "ro": "Claustrul este parțial acoperit și foarte atmosferic.",
+                "en": "The cloister is partially covered and very atmospheric."
+              }
+            },
+            {
+              "name": "Parque de Miguel Servet",
+              "tip_5lang": {
+                "de": "Die dichten Bäume bieten einen gewissen natürlichen Schutz.",
+                "hu": "A sűrű lombok természetes esernyőként szolgálnak.",
+                "ro": "Copacii deși oferă o anumită protecție naturală.",
+                "en": "The dense trees provide some natural shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Kopfsteinpflastergassen.",
+              "Die Arkaden am Hauptplatz sind der beste Treffpunkt bei Regen.",
+              "Museen sind montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Ein Regenschirm ist bei den Windböen in Huesca oft unpraktisch, Regenjacken sind besser."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "A főtér árkádjai a legjobb találkozási pontok esőben.",
+              "A múzeumok hétfőn gyakran zárva vannak, ellenőrizze az időpontokat.",
+              "Az esernyő a szél miatt gyakran használhatatlan, az esőkabát praktikusabb."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "Arcadele din piața principală sunt cel mai bun loc de întâlnire.",
+              "Muzeele sunt adesea închise lunea, verificați programul.",
+              "Umbrela este adesea inutilă din cauza vântului, pelerinele sunt mai bune."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "The main square arcades are the best meeting point in rain.",
+              "Museums are often closed on Mondays, check the schedule.",
+              "Umbrellas are often impractical due to wind, rain jackets are better."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am klaren Wintermorgen starten wir an der belebten Plaza. Mittags wärmen wir uns in der Kathedrale und im Museum auf. Nachmittags besuchen wir San Lorenzo und genießen den Jugendstil des Casinos bei einem Heißgetränk. Zum frühen Sonnenuntergang spazieren wir durch den Miguel-Servet-Park, während die Pyrenäen im Hintergrund leuchten.",
+            "hu": "Tiszta téli reggelen indulunk a nyüzsgő főtérről. Délben a katedrális és a múzeum falaiban keresünk enyhülést a hideg ellen. Délután San Lorenzo után a Kaszinó szecessziós kávézójában melegszünk fel. A korai naplementét a Miguel Servet parkban töltjük, miközben a távoli Pireneusok csúcsai vöröslenek.",
+            "ro": "Începem dimineața de iarnă în piața principală animată. La prânz, ne încălzim în catedrală și în muzeu. După-amiaza vizităm San Lorenzo și savurăm o băutură caldă la Casino. La apusul devreme, ne plimbăm prin parcul Miguel Servet, admirând vârfurile Pirineilor luminate în depărtare.",
+            "en": "We start a crisp winter morning at the main square. At midday, we warm up inside the Cathedral and the Museum. In the afternoon, after San Lorenzo, we enjoy a hot drink at the Casino's Modernist cafe. For the early sunset, we stroll through Miguel Servet Park while the Pyrenees glow in the distance."
+          },
+          "stops": [
+            {
+              "name": "Plaza de López Allué",
+              "tip_5lang": {
+                "de": "Genießen Sie die Sonne in den unbeschatteten Bereichen des Platzes.",
+                "hu": "Élvezze a napsütést a tér árnyékmentes részein.",
+                "ro": "Bucurați-vă de soare în zonele neumbrite ale pieței.",
+                "en": "Enjoy the sun in the unshaded areas of the square."
+              }
+            },
+            {
+              "name": "Murallas de Huesca",
+              "tip_5lang": {
+                "de": "Der Wind an der Stadtmauer kann im Winter sehr schneidend sein.",
+                "hu": "A városfalnál télen nagyon metsző lehet a szél.",
+                "ro": "Vântul la zidurile orașului poate fi foarte tăios iarna.",
+                "en": "The wind at the city walls can be very biting in winter."
+              }
+            },
+            {
+              "name": "Kathedrale von Huesca",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, in der Kathedrale ist es meist kühler als draußen.",
+                "hu": "Öltözzön rétegesen, a katedrálisban hidegebb lehet, mint kint.",
+                "ro": "Îmbrăcați-vă bine, în catedrală este de obicei mai rece decât afară.",
+                "en": "Dress warmly, it's usually cooler inside the Cathedral than outside."
+              }
+            },
+            {
+              "name": "Museo de Huesca",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um den schweren Wintermantel abzulegen.",
+                "hu": "Használja a ruhatárat, hogy letegye a nehéz télikabátot.",
+                "ro": "Folosiți garderoba pentru a lăsa haina groasă de iarnă.",
+                "en": "Use the cloakroom to leave your heavy winter coat."
+              }
+            },
+            {
+              "name": "Iglesia de San Lorenzo",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und Wärme während des Stadtrundgangs.",
+                "hu": "A nyugalom és melegség szigete a városi séta során.",
+                "ro": "Un loc de liniște și căldură în timpul turului orașului.",
+                "en": "A place of silence and warmth during the city walk."
+              }
+            },
+            {
+              "name": "Casino de Huesca",
+              "tip_5lang": {
+                "de": "Das Highlight für eine Aufwärmpause im prachtvollen Interieur.",
+                "hu": "A legjobb hely egy melegedő szünetre a pompás belső térben.",
+                "ro": "Punctul culminant pentru o pauză de încălzire în interior.",
+                "en": "The highlight for a warming break in the magnificent interior."
+              }
+            },
+            {
+              "name": "Monasterio de San Pedro el Viejo",
+              "tip_5lang": {
+                "de": "Das Winterlicht im Kreuzgang bietet fantastische Fotomotive.",
+                "hu": "A téli fények a kolostorkertben remek fotótémát szolgáltatnak.",
+                "ro": "Lumina de iarnă din claustru oferă oportunități foto superbe.",
+                "en": "The winter light in the cloister offers fantastic photo opportunities."
+              }
+            },
+            {
+              "name": "Parque de Miguel Servet",
+              "tip_5lang": {
+                "de": "Beachten Sie den frühen Sonnenuntergang gegen 17:30 Uhr.",
+                "hu": "Ügyeljen a korai naplementére, ami 17:30 körül várható.",
+                "ro": "Atenție la apusul devreme, în jurul orei 17:30.",
+                "en": "Watch out for the early sunset around 5:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Huesca liegt nah an den Pyrenäen, Windschutz ist wichtig.",
+              "Die Sonne verschwindet früh hinter den Gebäuden der Altstadt.",
+              "Warme Handschuhe sind für den Weg zur Stadtmauer ratsam.",
+              "Kombinieren Sie Außenstopps immer mit einem Besuch im Casino."
+            ],
+            "hu": [
+              "Huesca közel van a Pireneusokhoz, a szélvédelem fontos.",
+              "A nap korán eltűnik az óváros épületei mögött.",
+              "Meleg kesztyű javasolt a városfal felé vezető úton.",
+              "A külső megállókat mindig kombinálja egy kaszinóbeli pihenővel."
+            ],
+            "ro": [
+              "Huesca este aproape de Pirinei, protecția contra vântului e vitală.",
+              "Soarele dispare devreme în spatele clădirilor din centrul vechi.",
+              "Mănușile călduroase sunt recomandate pentru zona zidurilor.",
+              "Combinați opririle exterioare cu o vizită la Casino."
+            ],
+            "en": [
+              "Huesca is near the Pyrenees, wind protection is important.",
+              "The sun disappears early behind old town buildings.",
+              "Warm gloves are advised for the walk to the city walls.",
+              "Always combine outdoor stops with a visit to the Casino."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -630,6 +848,224 @@
           "Bicycle parking spots are available in many squares.",
           "Pay attention to the one-way street system."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir radeln vorsichtig durch das regnerische Huesca. Vormittags nutzen wir die Arkaden am Hauptplatz als Basislager. Mittags lassen wir die Räder sicher stehen und erkunden Kathedrale und Museum. Nachmittags führt uns der Weg zum Casino. Den Tag beenden wir mit einer kurzen Fahrt durch den Miguel-Servet-Park.",
+            "hu": "Óvatosan tekerünk az esős Huesca utcáin. Délelőtt a főtér árkádjai alatt tartunk pihenőt. Délben biztonságosan lezárjuk a bicikliket a katedrális és a múzeum látogatása alatt. Délután a Kaszinó felé vesszük az irányt, majd egy rövid gurulással zárjuk a napot a parkban.",
+            "ro": "Pedalăm cu atenție prin Huesca pe ploaie. Dimineața folosim arcadele din piață ca punct de sprijin. La prânz lăsăm bicicletele asigurate pentru a vizita catedrala și muzeul. După-amiaza mergem spre Casino, încheind ziua cu o scurtă tură prin parcul Miguel Servet.",
+            "en": "We cycle carefully through rainy Huesca. In the morning, we use the square's arcades as a base. At midday, we lock the bikes securely to explore the Cathedral and Museum. The afternoon leads us to the Casino, ending the day with a quick ride through Miguel Servet Park."
+          },
+          "stops": [
+            {
+              "name": "Plaza de López Allué",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Pflaster unter den Arkaden.",
+                "hu": "Vigyázzon a fékezéssel a nedves kövön az árkádok alatt.",
+                "ro": "Atenție la frânare pe pavajul umed de sub arcade.",
+                "en": "Be careful when braking on wet pavement under the arcades."
+              }
+            },
+            {
+              "name": "Murallas de Huesca",
+              "tip_5lang": {
+                "de": "Der Weg entlang der Mauer kann schlammig und rutschig sein.",
+                "hu": "A fal menti út sáros és csúszós lehet.",
+                "ro": "Drumul de-a lungul zidului poate fi noroios și alunecos.",
+                "en": "The path along the wall can be muddy and slippery."
+              }
+            },
+            {
+              "name": "Kathedrale von Huesca",
+              "tip_5lang": {
+                "de": "Suchen Sie einen überdachten Fahrradständer in der Nähe.",
+                "hu": "Keressen fedett biciklitárolót a közelben.",
+                "ro": "Căutați un loc de parcare acoperit pentru biciclete în apropiere.",
+                "en": "Look for a covered bike rack nearby."
+              }
+            },
+            {
+              "name": "Museo de Huesca",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um die Regenkleidung zu trocknen.",
+                "hu": "Használja ki a múzeumlátogatást az esőruházat szárítására.",
+                "ro": "Profită de vizita la muzeu pentru a-ți usca echipamentul.",
+                "en": "Take advantage of the museum visit to dry your rain gear."
+              }
+            },
+            {
+              "name": "Iglesia de San Lorenzo",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad so ab, dass es den Kircheneingang nicht blockiert.",
+                "hu": "Úgy parkoljon, hogy ne akadályozza a templom bejáratát.",
+                "ro": "Parcați bicicleta astfel încât să nu blocheze intrarea.",
+                "en": "Park your bike so it doesn't block the church entrance."
+              }
+            },
+            {
+              "name": "Casino de Huesca",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint durch den Regen zum warmen Café lohnt sich.",
+                "hu": "Megéri egy rövid sprint az esőben a meleg kávézóig.",
+                "ro": "Merită un sprint scurt prin ploaie până la cafeneaua caldă.",
+                "en": "A short sprint through the rain to the warm cafe is worth it."
+              }
+            },
+            {
+              "name": "Monasterio de San Pedro el Viejo",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger in den engen, nassen Gassen.",
+                "hu": "Figyeljen a gyalogosokra a szűk, nedves utcákon.",
+                "ro": "Atenție la pietoni pe străzile înguste și umede.",
+                "en": "Watch out for pedestrians in the narrow, wet streets."
+              }
+            },
+            {
+              "name": "Parque de Miguel Servet",
+              "tip_5lang": {
+                "de": "Meiden Sie tiefe Pfützen auf den unbefestigten Parkwegen.",
+                "hu": "Kerülje a mély tócsákat a park burkolatlan útjain.",
+                "ro": "Evitați bălțile adânci pe aleile neasfaltate din parc.",
+                "en": "Avoid deep puddles on the unpaved park paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, bevor Sie in die Altstadt fahren.",
+              "Schutzbleche sind bei diesem Wetter in Huesca unerlässlich.",
+              "Vermeiden Sie schnelle Kurven auf nassem Kopfsteinpflaster.",
+              "Nutzen Sie die Arkaden der Plaza zum Unterstellen bei Schauern."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, mielőtt az óvárosba hajtana.",
+              "A sárvédő elengedhetetlen ilyenkor Huesca utcáin.",
+              "Kerülje a gyors kanyarodást a nedves macskakövön.",
+              "Használja a főtér árkádjait menedékként záporok idején."
+            ],
+            "ro": [
+              "Verificați frânele înainte de a intra în centrul vechi.",
+              "Aripile la bicicletă sunt esențiale pe această vreme.",
+              "Evitați virajele rapide pe piatra cubică umedă.",
+              "Folosiți arcadele din Plaza pentru a vă adăposti de averse."
+            ],
+            "en": [
+              "Check your brakes before entering the old town.",
+              "Mudguards are essential in this weather in Huesca.",
+              "Avoid fast turns on wet cobblestones.",
+              "Use the Plaza arcades for shelter during showers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frisch und kalt beginnt unsere Radtour an der Plaza. Wir radeln zügig zu den Stadtmauern und wärmen uns mittags in der Kathedrale auf. Nachmittags führt uns die Route zum Casino, wo wir uns bei einem Tee aufwärmen. Wir beenden die Tour im winterlichen Park, bevor die Dunkelheit einsetzt.",
+            "hu": "Friss és hideg időben indul a bringázás a főtérről. Gyorsan eltekerünk a városfalig, délben pedig a katedrálisban melegszünk. Délután a Kaszinó érintésével haladunk, ahol egy tea mellett pihenünk meg. A túrát a téli parkban zárjuk, még mielőtt ránk sötétedne.",
+            "ro": "Turul cu bicicleta începe vioi și rece în Plaza. Pedalăm rapid spre ziduri și ne încălzim la prânz în catedrală. După-amiaza traseul ne duce la Casino pentru un ceai cald. Încheiem tura în parcul de iarnă, înainte de lăsarea întunericului.",
+            "en": "Our bike tour starts fresh and cold at the Plaza. We cycle quickly to the walls and warm up at midday in the Cathedral. The afternoon route takes us to the Casino for a hot tea. We finish the tour in the wintery park before darkness sets in."
+          },
+          "stops": [
+            {
+              "name": "Plaza de López Allué",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe im Schatten der Gebäude.",
+                "hu": "Vigyázzon a fagyott foltokra az épületek árnyékában.",
+                "ro": "Atenție la gheața din umbra clădirilor.",
+                "en": "Watch out for icy patches in the shadows of buildings."
+              }
+            },
+            {
+              "name": "Murallas de Huesca",
+              "tip_5lang": {
+                "de": "Der Cierzo-Wind kann das Radfahren hier sehr anstrengend machen.",
+                "hu": "A Cierzo szél itt nagyon megnehezítheti a tekerést.",
+                "ro": "Vântul Cierzo poate face pedalarea foarte obositoare aici.",
+                "en": "The Cierzo wind can make cycling very tiring here."
+              }
+            },
+            {
+              "name": "Kathedrale von Huesca",
+              "tip_5lang": {
+                "de": "Bewegung hilft gegen die Kälte, aber Pausen drinnen sind nötig.",
+                "hu": "A mozgás segít a hideg ellen, de a benti szünetek szükségesek.",
+                "ro": "Mișcarea ajută contra frigului, dar pauzele în interior sunt necesare.",
+                "en": "Moving helps with the cold, but indoor breaks are necessary."
+              }
+            },
+            {
+              "name": "Museo de Huesca",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem gut sichtbaren Ort.",
+                "hu": "Jól látható helyen parkolja le a kerékpárt.",
+                "ro": "Parcați bicicleta într-un loc bine vizibil.",
+                "en": "Park your bike in a clearly visible spot."
+              }
+            },
+            {
+              "name": "Iglesia de San Lorenzo",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause im Inneren ist sehr willkommen.",
+                "hu": "A rövid benti melegedés nagyon jól fog esni.",
+                "ro": "O scurtă pauză de încălzire în interior este binevenită.",
+                "en": "A short warming break inside is very welcome."
+              }
+            },
+            {
+              "name": "Casino de Huesca",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen Außenkälte und Innenpracht.",
+                "hu": "Élvezze a kinti hideg és a benti pompa közötti kontrasztot.",
+                "ro": "Bucurați-vă de contrastul dintre frigul de afară și splendoarea de interior.",
+                "en": "Enjoy the contrast between the outdoor cold and indoor splendor."
+              }
+            },
+            {
+              "name": "Monasterio de San Pedro el Viejo",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Stellen im schattigen Kreuzgang.",
+                "hu": "Vigyázzon a csúszós részekre az árnyékos kolostorkertben.",
+                "ro": "Atenție la porțiunile alunecoase din claustrul umbrit.",
+                "en": "Watch out for slippery spots in the shaded cloister."
+              }
+            },
+            {
+              "name": "Parque de Miguel Servet",
+              "tip_5lang": {
+                "de": "Planen Sie das Ende der Tour vor 17:30 Uhr ein.",
+                "hu": "Tervezze a túra végét 17:30 előttre.",
+                "ro": "Planificați finalul turei înainte de ora 17:30.",
+                "en": "Plan the end of the tour before 5:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind das wichtigste Zubehör im Winter.",
+              "Die Luft in Huesca ist trocken und kalt, achten Sie auf Schutz.",
+              "Vermeiden Sie verschattete Gassen, wenn es Frost gab.",
+              "Nutzen Sie die kurzen Wege zwischen den Sehenswürdigkeiten."
+            ],
+            "hu": [
+              "A meleg kesztyű a legfontosabb kiegészítő télen.",
+              "Huesca levegője száraz és hideg, védekezzen ellene.",
+              "Kerülje az árnyékos utcákat fagy esetén.",
+              "Használja ki a látnivalók közötti rövid távolságokat."
+            ],
+            "ro": [
+              "Mănușile călduroase sunt cel mai important accesoriu iarna.",
+              "Aerul în Huesca este uscat și rece, protejați-vă.",
+              "Evitați străzile umbrite dacă a înghețat.",
+              "Profitați de distanțele scurte dintre obiective."
+            ],
+            "en": [
+              "Warm gloves are the most important accessory in winter.",
+              "Huesca's air is dry and cold, protect yourself.",
+              "Avoid shaded alleys if there was a frost.",
+              "Take advantage of the short distances between sights."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -942,6 +1378,224 @@
           "Pay attention to paid parking zones.",
           "Parking near Servet Park is usually easier."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Tage in Huesca lassen sich am besten mit dem Auto meistern. Wir starten am Park und steuern gezielt die Parkhäuser nahe der Altstadt an. Mittags verbringen wir viel Zeit im Museum und in der Kathedrale. Den Nachmittag genießen wir im Casino, bevor wir bequem durch den nassen Abend fahren.",
+            "hu": "Az esős napokat Huescában autóval a legkönnyebb átvészelni. A parknál kezdünk, majd az óváros közeli parkolóházakat keressük fel. Délben sok időt töltünk a múzeumban és a katedrálisban. A délutánt a Kaszinóban élvezzük, majd kényelmesen gurulunk át a vizes estén.",
+            "ro": "Zilele ploioase în Huesca sunt mai ușor de gestionat cu mașina. Începem la parc și ne îndreptăm spre parcările din apropierea centrului. La prânz petrecem timp în muzeu și catedrală. După-amiaza ne bucurăm de Casino, apoi conducem confortabil prin seara umedă.",
+            "en": "Rainy days in Huesca are best managed by car. We start at the park and head for parking garages near the old town. At midday, we spend plenty of time in the Museum and Cathedral. We enjoy the afternoon at the Casino before a comfortable drive through the wet evening."
+          },
+          "stops": [
+            {
+              "name": "Parque de Miguel Servet",
+              "tip_5lang": {
+                "de": "Parken Sie auf den befestigten Plätzen nahe dem Eingang.",
+                "hu": "A bejárat közeli aszfaltozott helyeken parkoljon.",
+                "ro": "Parcați pe locurile asfaltate de lângă intrare.",
+                "en": "Park in the paved spots near the entrance."
+              }
+            },
+            {
+              "name": "Casino de Huesca",
+              "tip_5lang": {
+                "de": "Es gibt Kurzzeitparkplätze direkt in den umliegenden Straßen.",
+                "hu": "A környező utcákban vannak rövid távú parkolóhelyek.",
+                "ro": "Există locuri de parcare pe termen scurt în străzile adiacente.",
+                "en": "There are short-term parking spots in the surrounding streets."
+              }
+            },
+            {
+              "name": "Plaza de López Allué",
+              "tip_5lang": {
+                "de": "Nutzen Sie das nahegelegene Parkhaus Plaza de San Antonio.",
+                "hu": "Használja a közeli Plaza de San Antonio parkolóházat.",
+                "ro": "Folosiți parcarea subterană Plaza de San Antonio din apropiere.",
+                "en": "Use the nearby Plaza de San Antonio parking garage."
+              }
+            },
+            {
+              "name": "Iglesia de San Lorenzo",
+              "tip_5lang": {
+                "de": "Bei Regen ist das Absetzen direkt vor der Kirche praktisch.",
+                "hu": "Esőben praktikus közvetlenül a templomnál kiszállni.",
+                "ro": "Pe ploaie, este practic să coborâți direct în fața bisericii.",
+                "en": "In rain, it's practical to drop off right in front of the church."
+              }
+            },
+            {
+              "name": "Monasterio de San Pedro el Viejo",
+              "tip_5lang": {
+                "de": "Achten Sie auf Einbahnstraßen in der engen Altstadt.",
+                "hu": "Figyeljen az egyirányú utcákra a szűk óvárosban.",
+                "ro": "Atenție la străzile cu sens unic din centrul vechi.",
+                "en": "Watch out for one-way streets in the narrow old town."
+              }
+            },
+            {
+              "name": "Kathedrale von Huesca",
+              "tip_5lang": {
+                "de": "Parken Sie am Plaza de la Universidad und gehen Sie ein Stück.",
+                "hu": "Parkoljon a Plaza de la Universidadnál és sétáljon egy kicsit.",
+                "ro": "Parcați la Plaza de la Universidad și mergeți puțin pe jos.",
+                "en": "Park at Plaza de la Universidad and walk a short distance."
+              }
+            },
+            {
+              "name": "Museo de Huesca",
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt am Museum ist bei Regen oft belegt.",
+                "hu": "A közvetlen múzeumi parkoló esőben gyakran telt házas.",
+                "ro": "Parcarea de la muzeu este adesea plină când plouă.",
+                "en": "The parking right at the museum is often full when it rains."
+              }
+            },
+            {
+              "name": "Murallas de Huesca",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Mauern aus dem trockenen Auto.",
+                "hu": "Élvezze a városfal látványát a száraz autóból.",
+                "ro": "Admirați zidurile din confortul mașinii uscate.",
+                "en": "Enjoy the view of the walls from the dry car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkhäuser sind die trockenste Option für den Stadtkern.",
+              "Die Gassen der Altstadt sind extrem eng, nutzen Sie kleine Autos.",
+              "Achten Sie auf Fußgänger mit Regenschirmen in Kurven.",
+              "Planen Sie Zeit für die Parkplatzsuche in der Nähe des Casinos ein."
+            ],
+            "hu": [
+              "A parkolóházak a legszárazabb opciók a városközpontban.",
+              "Az óvárosi utcák nagyon szűkek, kisautóval érkezzen.",
+              "Figyeljen az esernyős gyalogosokra a kanyarokban.",
+              "Szánjon időt a parkolóhely keresésére a Kaszinó környékén."
+            ],
+            "ro": [
+              "Parcările subterane sunt cea mai uscată opțiune în centru.",
+              "Străzile din centrul vechi sunt extrem de înguste.",
+              "Atenție la pietonii cu umbrele în viraje.",
+              "Alocați timp pentru găsirea unui loc de parcare lângă Casino."
+            ],
+            "en": [
+              "Parking garages are the driest option for the city center.",
+              "Old town alleys are extremely narrow, use small cars.",
+              "Watch out for pedestrians with umbrellas in turns.",
+              "Allow time for finding parking near the Casino."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag in Huesca lässt sich bequem mit dem Auto erkunden. Wir starten am frostigen Park und nutzen die Heizung zwischen den Stopps. Mittags besuchen wir die Kathedrale und das Museum. Der Nachmittag im warmen Casino ist das Highlight, bevor wir zum Sonnenuntergang an den Mauern vorbeifahren.",
+            "hu": "Egy tiszta téli nap Huescában kényelmesen felfedezhető autóval. A fagyos parkban kezdünk, és élvezzük a fűtést a megállók között. Délben a katedrálist és a múzeumot látogatjuk meg. A meleg Kaszinóban töltött délután a fénypont, mielőtt a naplementében elhajtanánk a falak mellett.",
+            "ro": "O zi senină de iarnă în Huesca poate fi explorată confortabil cu mașina. Începem în parcul înghețat și folosim încălzirea între opriri. La prânz vizităm catedrala și muzeul. După-amiaza la Casino este punctul culminant, înainte de a trece pe lângă ziduri la apus.",
+            "en": "A clear winter day in Huesca can be explored comfortably by car. We start at the frosty park and enjoy the heater between stops. At midday, we visit the Cathedral and the Museum. The afternoon in the warm Casino is the highlight before driving past the walls at sunset."
+          },
+          "stops": [
+            {
+              "name": "Parque de Miguel Servet",
+              "tip_5lang": {
+                "de": "Vorsicht bei Frost auf den Parkplatz-Zufahrten.",
+                "hu": "Vigyázzon a fagyra a parkoló bejáratainál.",
+                "ro": "Atenție la gheață pe căile de acces în parcare.",
+                "en": "Watch out for frost on the parking access roads."
+              }
+            },
+            {
+              "name": "Casino de Huesca",
+              "tip_5lang": {
+                "de": "Parken Sie etwas weiter weg, um die Heizung kurz zu genießen.",
+                "hu": "Parkoljon kicsit távolabb, hogy élvezze a fűtést az úton.",
+                "ro": "Parcați puțin mai departe pentru a savura încălzirea în mașină.",
+                "en": "Park a bit further away to enjoy the heater for a moment."
+              }
+            },
+            {
+              "name": "Plaza de López Allué",
+              "tip_5lang": {
+                "de": "Im Winter sind die Parkhäuser oft weniger überlaufen.",
+                "hu": "Télen a parkolóházak gyakran kevésbé zsúfoltak.",
+                "ro": "Iarna, parcările subterane sunt adesea mai libere.",
+                "en": "In winter, parking garages are often less crowded."
+              }
+            },
+            {
+              "name": "Iglesia de San Lorenzo",
+              "tip_5lang": {
+                "de": "Die Heizung im Auto hilft, nach dem Kirchenbesuch aufzutauen.",
+                "hu": "Az autó fűtése segít felengedni a templomlátogatás után.",
+                "ro": "Încălzirea din mașină ajută la dezghețare după vizita la biserică.",
+                "en": "The car heater helps you thaw out after the church visit."
+              }
+            },
+            {
+              "name": "Monasterio de San Pedro el Viejo",
+              "tip_5lang": {
+                "de": "Kopfsteinpflaster kann bei Raureif sehr tückisch sein.",
+                "hu": "A macskakő zúzmara esetén nagyon csalóka lehet.",
+                "ro": "Piatra cubică poate fi înșelătoare în caz de brumă.",
+                "en": "Cobblestones can be very treacherous during frost."
+              }
+            },
+            {
+              "name": "Kathedrale von Huesca",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Weg zur Kathedrale für einen kurzen Frischluft-Stopp.",
+                "hu": "Használja a katedrálishoz vezető utat egy rövid frisslevegő-szünetre.",
+                "ro": "Folosiți drumul spre catedrală pentru o scurtă gură de aer.",
+                "en": "Use the walk to the Cathedral for a quick fresh air stop."
+              }
+            },
+            {
+              "name": "Museo de Huesca",
+              "tip_5lang": {
+                "de": "Achten Sie auf die veränderten Winteröffnungszeiten.",
+                "hu": "Ügyeljen a módosult téli nyitvatartási időkre.",
+                "ro": "Atenție la programul de iarnă modificat.",
+                "en": "Watch out for changed winter opening hours."
+              }
+            },
+            {
+              "name": "Murallas de Huesca",
+              "tip_5lang": {
+                "de": "Die Beleuchtung der Mauern beginnt im Winter bereits früh.",
+                "hu": "A falak díszkivilágítása télen már korán megkezdődik.",
+                "ro": "Iluminatul zidurilor începe devreme în timpul iernii.",
+                "en": "The wall illumination starts early in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei sinkenden Temperaturen.",
+              "Eiskratzer nicht vergessen, Huesca kann frostige Nächte haben.",
+              "Die Parkplatzsuche ist im Winter meist entspannter.",
+              "Nutzen Sie das Auto als mobile Basis für Kleidungsschichten."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást a süllyedő hőmérsékletnél.",
+              "Ne felejtse a jégkaparót, Huescában fagyosak az éjszakák.",
+              "A parkolóhely-keresés télen általában nyugodtabb.",
+              "Használja az autót mobil bázisként a ruharétegek tárolására."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri când scade temperatura.",
+              "Nu uitați racleta, Huesca poate avea nopți geroase.",
+              "Căutarea locului de parcare este mai relaxată iarna.",
+              "Folosiți mașina ca bază mobilă pentru straturile de haine."
+            ],
+            "en": [
+              "Check tire pressure as temperatures drop.",
+              "Don't forget the ice scraper, Huesca can have frosty nights.",
+              "Finding parking is usually more relaxed in winter.",
+              "Use the car as a mobile base for clothing layers."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1254,6 +1908,224 @@
           "Bus stops are distributed around the historical center.",
           "For short distances in the old town, waiting for a bus is often not worth it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus bewegen wir uns trocken durch das regnerische Huesca. Wir starten an der Plaza und nutzen die Linien, um zwischen den historischen Vierteln zu pendeln. Mittags konzentrieren wir uns auf die Kathedrale und das Museum. Den Nachmittag verbringen wir im Casino, bevor wir mit dem Bus zurückfahren.",
+            "hu": "Busszal szárazon közlekedünk az esős Huesca utcáin. A főtérnél kezdünk, és a helyi járatokat használjuk a történelmi negyedek közötti ingázáshoz. Délben a katedrálisra és a múzeumra koncentrálunk. A délutánt a Kaszinóban töltjük, majd busszal indulunk vissza.",
+            "ro": "Ne deplasăm fără să ne udăm prin Huesca folosind autobuzul. Începem în Plaza și folosim liniile locale între cartierele istorice. La prânz ne concentrăm pe catedrală și muzeu. După-amiaza o petrecem la Casino, apoi revenim cu autobuzul.",
+            "en": "We move dryly through rainy Huesca by bus. We start at the Plaza and use local lines to commute between historic districts. At midday, we focus on the Cathedral and Museum. We spend the afternoon at the Casino before taking the bus back."
+          },
+          "stops": [
+            {
+              "name": "Plaza de López Allué",
+              "tip_5lang": {
+                "de": "Die nächsten Bushaltestellen sind nur wenige Gehminuten entfernt.",
+                "hu": "A legközelebbi buszmegállók csak pár perc sétára vannak.",
+                "ro": "Cele mai apropiate stații de autobuz sunt la câteva minute.",
+                "en": "The nearest bus stops are just a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Iglesia de San Lorenzo",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus L1 für die Verbindung zum Park.",
+                "hu": "Használja az L1-es buszt a parkhoz való csatlakozáshoz.",
+                "ro": "Folosiți autobuzul L1 pentru legătura cu parcul.",
+                "en": "Use bus L1 for the connection to the park."
+              }
+            },
+            {
+              "name": "Casino de Huesca",
+              "tip_5lang": {
+                "de": "Warten Sie im Casino, bis die nächste Abfahrt kurz bevorsteht.",
+                "hu": "Várjon a Kaszinóban a következő indulásig.",
+                "ro": "Așteptați în Casino până aproape de ora plecării.",
+                "en": "Wait in the Casino until shortly before the next departure."
+              }
+            },
+            {
+              "name": "Monasterio de San Pedro el Viejo",
+              "tip_5lang": {
+                "de": "Regenschirm bereithalten für den kurzen Weg zur Haltestelle.",
+                "hu": "Készítse ki az esernyőt a megállóig tartó rövid útra.",
+                "ro": "Pregătiți umbrela pentru drumul scurt până în stație.",
+                "en": "Have your umbrella ready for the short walk to the stop."
+              }
+            },
+            {
+              "name": "Parque de Miguel Servet",
+              "tip_5lang": {
+                "de": "Die Haltestellen am Parkrand bieten gute Unterstände.",
+                "hu": "A park szélén lévő megállók jó várótermekkel bírnak.",
+                "ro": "Stațiile de la marginea parcului oferă adăpost bun.",
+                "en": "The stops at the park edge offer good shelters."
+              }
+            },
+            {
+              "name": "Kathedrale von Huesca",
+              "tip_5lang": {
+                "de": "In der Altstadt müssen Sie trotz Bus etwas zu Fuß gehen.",
+                "hu": "Az óvárosban a busz ellenére is kell egy kicsit sétálni.",
+                "ro": "În centrul vechi va trebui să mergeți puțin pe jos.",
+                "en": "In the old town, you'll still have to walk a bit despite the bus."
+              }
+            },
+            {
+              "name": "Museo de Huesca",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Taktzeiten bei Regen, Busse können verspätet sein.",
+                "hu": "Ellenőrizze a menetrendet esőben, a buszok késhetnek.",
+                "ro": "Verificați orarul pe ploaie, autobuzele pot avea întârzieri.",
+                "en": "Check the frequency in rain, buses might be delayed."
+              }
+            },
+            {
+              "name": "Murallas de Huesca",
+              "tip_5lang": {
+                "de": "Die Buslinie L2 hält in der Nähe der nördlichen Stadtmauer.",
+                "hu": "Az L2-es busz a északi városfal közelében áll meg.",
+                "ro": "Linia de autobuz L2 oprește aproape de zidul nordic.",
+                "en": "Bus line L2 stops near the northern city walls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die lokale Nahverkehrs-App für Echtzeitdaten.",
+              "Ein Tagesticket lohnt sich bei mehreren kurzen Fahrten.",
+              "Halten Sie Kleingeld oder eine Karte für den Ticketkauf bereit.",
+              "Die Busse in Huesca sind sauber und eine gute Regen-Alternative."
+            ],
+            "hu": [
+              "Töltse le a helyi közlekedési appot a valós idejű adatokhoz.",
+              "A napijegy megéri több rövid utazás esetén.",
+              "Készítsen elő aprópénzt vagy kártyát a jegyvásárláshoz.",
+              "A huescai buszok tiszták és jó alternatívát jelentenek esőben."
+            ],
+            "ro": [
+              "Descărcați aplicația de transport local pentru date în timp real.",
+              "Un bilet de o zi merită pentru mai multe călătorii scurte.",
+              "Pregătiți mărunțiș sau un card pentru cumpărarea biletului.",
+              "Autobuzele din Huesca sunt curate și o alternativă bună pe ploaie."
+            ],
+            "en": [
+              "Download the local transit app for real-time data.",
+              "A day pass is worth it for multiple short trips.",
+              "Have small change or a card ready for ticket purchase.",
+              "Buses in Huesca are clean and a good rain alternative."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintertage in Huesca sind perfekt für Busfahrten zwischen den Highlights. Wir starten an der Plaza und nutzen die Wärme im Bus. Mittags besuchen wir die Kathedrale und das Museum. Den Nachmittag genießen wir im Casino, bevor uns der Bus komfortabel durch den kühlen Abend bringt.",
+            "hu": "A téli napok Huescában tökéletesek a buszos közlekedésre a látnivalók között. A főtérnél kezdünk, és élvezzük a busz melegét. Délben a katedrálist és a múzeumot látogatjuk meg. A délutánt a Kaszinóban töltjük, majd a busz kényelmesen repít át a hűvös estén.",
+            "ro": "Zilele de iarnă în Huesca sunt perfecte pentru deplasări cu autobuzul între obiective. Începem în Plaza și profităm de căldura din autobuz. La prânz vizităm catedrala și muzeul. După-amiaza o petrecem la Casino, apoi autobuzul ne duce confortabil prin seara răcoroasă.",
+            "en": "Winter days in Huesca are perfect for bus trips between highlights. We start at the Plaza and enjoy the warmth of the bus. At midday, we visit the Cathedral and Museum. We enjoy the afternoon at the Casino before the bus takes us comfortably through the chilly evening."
+          },
+          "stops": [
+            {
+              "name": "Plaza de López Allué",
+              "tip_5lang": {
+                "de": "Die Wartezeit an der Haltestelle im Winter kurz halten.",
+                "hu": "Télen tartsa röviden a várakozási időt a megállóban.",
+                "ro": "Reduceți timpul de așteptare în stație pe timpul iernii.",
+                "en": "Keep waiting time at the stop short during winter."
+              }
+            },
+            {
+              "name": "Iglesia de San Lorenzo",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter oft pünktlicher als bei Schneefall.",
+                "hu": "A buszok télen gyakran pontosabbak, mint havazáskor.",
+                "ro": "Autobuzele sunt de obicei punctuale iarna în Huesca.",
+                "en": "Buses are usually punctual in winter in Huesca."
+              }
+            },
+            {
+              "name": "Casino de Huesca",
+              "tip_5lang": {
+                "de": "Die Haltestelle Santo Domingo ist ein guter Knotenpunkt.",
+                "hu": "A Santo Domingo megálló jó csomópont a környéken.",
+                "ro": "Stația Santo Domingo este un nod bun de transport în zonă.",
+                "en": "The Santo Domingo stop is a good transit hub nearby."
+              }
+            },
+            {
+              "name": "Monasterio de San Pedro el Viejo",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich während der Busfahrt kurz auf.",
+                "hu": "Melegedjen fel egy kicsit a buszos utazás alatt.",
+                "ro": "Încălziți-vă puțin în timpul călătoriei cu autobuzul.",
+                "en": "Warm up a bit during the bus ride."
+              }
+            },
+            {
+              "name": "Parque de Miguel Servet",
+              "tip_5lang": {
+                "de": "Die L1 bringt Sie direkt zum Haupteingang des Parks.",
+                "hu": "Az L1-es járat közvetlenül a park főbejáratához viszi.",
+                "ro": "Linia L1 vă duce direct la intrarea principală a parcului.",
+                "en": "Line L1 takes you directly to the main park entrance."
+              }
+            },
+            {
+              "name": "Kathedrale von Huesca",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter gut geheizt.",
+                "hu": "A buszok télen jól fűtöttek.",
+                "ro": "Autobuzele sunt bine încălzite iarna.",
+                "en": "The buses are well-heated in winter."
+              }
+            },
+            {
+              "name": "Museo de Huesca",
+              "tip_5lang": {
+                "de": "Planen Sie den letzten Bus vor Einbruch der Dunkelheit.",
+                "hu": "Tervezze meg az utolsó buszt sötétedés előtt.",
+                "ro": "Planificați ultima cursă de autobuz înainte de lăsarea serii.",
+                "en": "Plan for the last bus before darkness falls."
+              }
+            },
+            {
+              "name": "Murallas de Huesca",
+              "tip_5lang": {
+                "de": "Ein schöner Blick aus dem Busfenster auf die Stadtmauern.",
+                "hu": "Szép kilátás nyílik a buszablakból a városfalakra.",
+                "ro": "O vedere frumoasă asupra zidurilor de la fereastra autobuzului.",
+                "en": "A nice view of the city walls from the bus window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter die wärmste Art der Fortbewegung.",
+              "Prüfen Sie den Winterfahrplan, besonders an Feiertagen.",
+              "Tragen Sie Schichten, die im Bus leicht zu öffnen sind.",
+              "Die Hauptlinien L1 und L2 decken fast alle Sehenswürdigkeiten ab."
+            ],
+            "hu": [
+              "A busz télen a legmelegebb közlekedési mód.",
+              "Ellenőrizze a téli menetrendet, különösen ünnepekkor.",
+              "Viseljen réteges ruhát, amit a buszon könnyű kicipzározni.",
+              "Az L1 és L2 fővonalak szinte minden látnivalót érintenek."
+            ],
+            "ro": [
+              "Autobuzul este cel mai călduros mod de transport iarna.",
+              "Verificați orarul de iarnă, mai ales de sărbători.",
+              "Purtați haine în straturi care pot fi desfăcute ușor în bus.",
+              "Liniile principale L1 și L2 acoperă aproape toate obiectivele."
+            ],
+            "en": [
+              "Buses are the warmest way to get around in winter.",
+              "Check the winter schedule, especially on holidays.",
+              "Wear layers that are easy to open on the bus.",
+              "The main lines L1 and L2 cover almost all sights."
+            ]
+          }
+        }
       }
     }
   }

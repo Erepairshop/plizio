@@ -1,7 +1,7 @@
 {
   "city_id": "poland-czestochowa-cities-v2",
   "anchor": {
-    "name": "Tschenstochau",
+    "name": "Częstochowa Town Hall",
     "coords": [
       19.1203,
       50.8118
@@ -12,1093 +12,1180 @@
       "mode": "walk",
       "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "19:21",
-      "total_km": 5.2,
-      "stop_count": 7,
+      "end_estimate": "17:40",
+      "total_km": 3.8,
+      "stop_count": 6,
       "stops": [
         {
-          "name_4lang": {
-            "de": "Rathaus und Alter Markt",
-            "hu": "Városháza és a Régi Piactér",
+          "name": {
+            "de": "Rathaus & Marktplatz",
+            "hu": "Városháza és piactér",
             "ro": "Primăria și Piața Veche",
-            "en": "Town Hall and Old Market Square"
+            "en": "Town Hall & Old Square"
           },
           "coords": [
-            19.122,
-            50.8095
+            19.1245,
+            50.8115
           ],
           "category": "squares/old-town",
           "arrive_at": "09:10",
-          "stay_min": 30,
-          "hop_from_prev_min": 10,
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
           "hop_from_prev_km": 0,
-          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Beginnen Sie hier mit einem Kaffee, um die Atmosphäre aufzusaugen.",
-            "hu": "Kezdje a napot egy kávéval itt, hogy magába szívja a hangulatot.",
-            "ro": "Începeți ziua aici cu o cafea pentru a absorbi atmosfera.",
-            "en": "Start here with a coffee to soak in the atmosphere."
+            "de": "Besuchen Sie das Stadtmuseum im Inneren des neoklassizistischen Gebäudes.",
+            "hu": "Nézze meg a városi múzeumot a neoklasszicista épületben.",
+            "ro": "Vizitați Muzeul Orașului în interiorul clădirii neoclasice.",
+            "en": "Visit the city museum inside the neoclassical building."
           }
         },
         {
-          "name_4lang": {
+          "name": {
+            "de": "St.-Jakobs-Kirche",
+            "hu": "Szent Jakab-templom",
+            "ro": "Biserica Sfântul Iacob",
+            "en": "St. James Church"
+          },
+          "coords": [
+            19.1242,
+            50.8112
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine ehemalige orthodoxe Kirche mit markanten byzantinischen Elementen.",
+            "hu": "Egykori ortodox templom jellegzetes bizánci elemekkel.",
+            "ro": "O fostă biserică ortodoxă cu elemente bizantine distinctive.",
+            "en": "A former Orthodox church with distinctive Byzantine elements."
+          }
+        },
+        {
+          "name": {
             "de": "Allee der Heiligen Maria",
             "hu": "Szűz Mária sugárút",
-            "ro": "Bulevardul Sfintei Fecioare Maria",
-            "en": "Avenue of the Holy Virgin Mary"
+            "ro": "Bulevardul Sfânta Maria",
+            "en": "Holy Virgin Mary Avenue"
           },
           "coords": [
-            19.115,
-            50.811
+            19.112,
+            50.8118
           ],
           "category": "parks/promenades/beaches",
-          "arrive_at": "09:50",
+          "arrive_at": "10:35",
           "stay_min": 45,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
-          "hop_mode": "walk",
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
           "tip_5lang": {
-            "de": "Achten Sie auf die vielen kleinen Statuen und Gedenktafeln entlang des Weges.",
-            "hu": "Figyelje a sok kis szobrot és emléktáblát az út mentén.",
-            "ro": "Fiți atenți la numeroasele statui mici și plăci comemorative de-a lungul aleii.",
-            "en": "Look out for the many small statues and commemorative plaques along the way."
+            "de": "Die zentrale Achse der Stadt, ideal für einen Spaziergang und Kaffee.",
+            "hu": "A város központi tengelye, ideális sétához és kávézáshoz.",
+            "ro": "Axa centrală a orașului, ideală pentru o plimbare și o cafea.",
+            "en": "The central axis of the city, ideal for a walk and coffee."
           }
         },
         {
-          "name_4lang": {
-            "de": "Kathedrale der Heiligen Familie",
-            "hu": "Szent Család-székesegyház",
-            "ro": "Catedrala Sfânta Familie",
-            "en": "Cathedral of the Holy Family"
-          },
-          "coords": [
-            19.125,
-            50.809
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "10:45",
-          "stay_min": 60,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Bewundern Sie die beeindruckenden neugotischen Türme und die Glasmalereien.",
-            "hu": "Csodálja meg a lenyűgöző neogótikus tornyokat és az ólomüveg ablakokat.",
-            "ro": "Admirați turnurile neo-gotice impresionante și vitraliile.",
-            "en": "Admire the impressive neo-Gothic towers and the stained-glass windows."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Museum der Streichholzproduktion",
-            "hu": "Gyufagyártási Múzeum",
-            "ro": "Muzeul Producției de Chibrituri",
-            "en": "Museum of Match Production"
-          },
-          "coords": [
-            19.135,
-            50.805
-          ],
-          "category": "industrial heritage",
-          "arrive_at": "12:03",
-          "stay_min": 75,
-          "hop_from_prev_min": 18,
-          "hop_from_prev_km": 0.9,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Ein einzigartiges Museum in einer alten Fabrik. Die Vorführungen sind faszinierend.",
-            "hu": "Egy egyedülálló múzeum egy régi gyárban. A bemutatók lenyűgözőek.",
-            "ro": "Un muzeu unic într-o fabrică veche. Demonstrațiile sunt fascinante.",
-            "en": "A unique museum in an old factory. The demonstrations are fascinating."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Museum des Eisenerzbergbaus",
-            "hu": "Vasércbányászati Múzeum",
-            "ro": "Muzeul Mineritului de Minereu de Fier",
-            "en": "Museum of Iron Ore Mining"
-          },
-          "coords": [
-            19.12,
-            50.825
-          ],
-          "category": "museums",
-          "arrive_at": "13:58",
-          "stay_min": 90,
-          "hop_from_prev_min": 40,
-          "hop_from_prev_km": 2,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Steigen Sie in den Untergrund hinab und erfahren Sie mehr über die harte Arbeit der Bergleute.",
-            "hu": "Szálljon le a föld alá, és tudjon meg többet a bányászok kemény munkájáról.",
-            "ro": "Coborâți în subteran pentru a învăța despre munca grea a minerilor.",
-            "en": "Descend underground to learn about the hard work of the miners."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Kloster Jasna Góra",
-            "hu": "Jasna Góra-i kolostor",
-            "ro": "Mănăstirea Jasna Góra",
-            "en": "Jasna Góra Monastery"
-          },
-          "coords": [
-            19.097,
-            50.813
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "16:08",
-          "stay_min": 120,
-          "hop_from_prev_min": 40,
-          "hop_from_prev_km": 2,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Der wichtigste Wallfahrtsort Polens. Verpassen Sie nicht die Schwarze Madonna.",
-            "hu": "Lengyelország legfontosabb zarándokhelye. Ne hagyja ki a Fekete Madonnát.",
-            "ro": "Cel mai important loc de pelerinaj din Polonia. Nu ratați Madona Neagră.",
-            "en": "The most important pilgrimage site in Poland. Don't miss the Black Madonna."
-          }
-        },
-        {
-          "name_4lang": {
+          "name": {
             "de": "Staszic-Park",
-            "hu": "Staszic-park",
+            "hu": "Staszic Park",
             "ro": "Parcul Staszic",
             "en": "Staszic Park"
           },
           "coords": [
-            19.1,
-            50.815
+            19.1005,
+            50.8115
           ],
           "category": "parks/promenades/beaches",
-          "arrive_at": "18:14",
-          "stay_min": 30,
-          "hop_from_prev_min": 6,
-          "hop_from_prev_km": 0.3,
-          "hop_mode": "walk",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
           "tip_5lang": {
-            "de": "Ein ruhiger Ort, um die Eindrücke des Tages nach einem Besuch in Jasna Góra zu verarbeiten.",
-            "hu": "Egy csendes hely a nap benyomásainak feldolgozására a Jasna Góra-i látogatás után.",
-            "ro": "Un loc liniștit pentru a procesa impresiile zilei după o vizită la Jasna Góra.",
-            "en": "A quiet place to process the day's impressions after visiting Jasna Góra."
+            "de": "Ein ruhiger Park am Fuße des Klosters Jasna Góra.",
+            "hu": "Csendes park a Jasna Góra kolostor lábánál.",
+            "ro": "Un parc liniștit la poalele mănăstirii Jasna Góra.",
+            "en": "A quiet park at the foot of Jasna Góra Monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Eisenerzbergbaus",
+            "hu": "Vasércbányászati Múzeum",
+            "ro": "Muzeul Mineritului de Minereu de Fier",
+            "en": "Iron Ore Mining Museum"
+          },
+          "coords": [
+            19.1002,
+            50.811
+          ],
+          "category": "museums",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Einzigartiges unterirdisches Museum in ehemaligen Bergbaustollen.",
+            "hu": "Egyedülálló föld alatti múzeum egykori bányavágatokban.",
+            "ro": "Muzeu subteran unic în fostele tuneluri miniere.",
+            "en": "Unique underground museum in former mining tunnels."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Jasna Góra",
+            "hu": "Jasna Góra kolostor",
+            "ro": "Mănăstirea Jasna Góra",
+            "en": "Jasna Góra Monastery"
+          },
+          "coords": [
+            19.0972,
+            50.8125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:55",
+          "stay_min": 135,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Heimat der Schwarzen Madonna, das wichtigste Pilgerziel Polens.",
+            "hu": "A Fekete Madonna otthona, Lengyelország legfontosabb zarándokhelye.",
+            "ro": "Casa Madonei Negre, cea mai importantă destinație de pelerinaj din Polonia.",
+            "en": "Home of the Black Madonna, Poland's most important pilgrimage site."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Ihr Tag in Tschenstochau beginnt im Herzen der Stadt, am Alten Markt. Nach einem Spaziergang entlang der belebten Allee der Heiligen Maria, der Hauptschlagader der Stadt, widmen Sie sich den sakralen und industriellen Schätzen. Der Vormittag steht im Zeichen der beeindruckenden Kathedrale und des einzigartigen Streichholzmuseums, eine Zeitreise in die industrielle Vergangenheit. Am Nachmittag erkunden Sie die Tiefen des Eisenerzbergbaus, bevor Sie zum spirituellen Höhepunkt aufsteigen: dem Kloster Jasna Góra. Lassen Sie den Tag im angrenzenden Park ausklingen und reflektieren Sie die tiefen Eindrücke dieses besonderen Ortes.",
-        "hu": "Częstochowai napja a város szívében, a Régi Piactéren kezdődik. Miután végigsétált a város fő ütőerén, a forgalmas Szűz Mária sugárúton, felfedezheti a szakrális és ipari kincseket. A délelőtt a lenyűgöző székesegyház és az egyedülálló Gyufagyártási Múzeum jegyében telik, ami időutazás az ipari múltba. Délután a vasércbányászat mélységeit kutatja, mielőtt a spirituális csúcspontra, a Jasna Góra-i kolostorhoz érkezne. A napot a szomszédos parkban zárja, elmélkedve e különleges hely mély benyomásain.",
-        "ro": "Ziua dumneavoastră în Częstochowa începe în inima orașului, în Piața Veche. După o plimbare pe animatul Bulevard al Sfintei Fecioare Maria, artera principală a orașului, vă veți dedica comorilor sacre și industriale. Dimineața este marcată de impunătoarea Catedrală și de unicul Muzeu al Producției de Chibrituri, o călătorie înapoi în timp în trecutul industrial. După-amiaza, explorați adâncurile mineritului de fier înainte de a urca la punctul culminant spiritual: Mănăstirea Jasna Góra. Încheiați ziua în parcul adiacent, reflectând la impresiile profunde ale acestui loc special.",
-        "en": "Your day in Częstochowa begins in the heart of the city, at the Old Market Square. After a stroll along the bustling Avenue of the Holy Virgin Mary, the city's main artery, you'll turn to its sacred and industrial treasures. The morning is dedicated to the impressive Cathedral and the unique Museum of Match Production, a journey back to the industrial past. In the afternoon, you'll explore the depths of the iron ore mine before ascending to the spiritual climax: the Jasna Góra Monastery. End your day in the adjacent park, reflecting on the deep impressions of this special place."
+        "de": "Ihr Tag beginnt am historischen Rathaus und führt über die prachtvolle Allee der Heiligen Maria direkt zum geistlichen Zentrum Polens. Nach einem entspannten Spaziergang durch den Staszic-Park erkunden Sie die industrielle Geschichte im Eisenerzmuseum, bevor Sie den Nachmittag im beeindruckenden Kloster Jasna Góra verbringen.",
+        "hu": "Napja a történelmi városházánál kezdődik, majd a pompás Szűz Mária sugárúton halad Lengyelország szellemi központja felé. A Staszic Parkban tett pihentető séta után felfedezheti az ipari múltat a vasércmúzeumban, mielőtt a délutánt a lenyűgöző Jasna Góra kolostorban töltené.",
+        "ro": "Ziua începe la primăria istorică și continuă pe frumosul bulevard Sfânta Maria direct spre centrul spiritual al Poloniei. După o plimbare relaxantă prin parcul Staszic, veți explora istoria industrială la muzeul mineritului, înainte de a petrece după-amiaza la impresionanta mănăstire Jasna Góra.",
+        "en": "Your day starts at the historic Town Hall and follows the magnificent Holy Virgin Mary Avenue straight to Poland's spiritual heart. After a relaxing stroll through Staszic Park, you will explore the industrial history at the iron ore museum before spending the afternoon at the impressive Jasna Góra Monastery."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Pierogi",
-            "tip": "Probieren Sie die klassischen gefüllten Teigtaschen, besonders die 'Ruskie' mit Kartoffeln und Käse."
-          },
-          {
-            "name": "Żurek",
-            "tip": "Eine traditionelle Sauermehlsuppe, oft mit Wurst und Ei serviert. Herzhaft und köstlich."
-          },
-          {
-            "name": "Restauracja Gospoda",
-            "tip": "Ein Restaurant mit traditioneller polnischer Küche in der Nähe der Allee."
+            "name": "Browar Częstochowski",
+            "tip": "Probieren Sie das lokale Bier und traditionelle schlesische Piroggen."
           }
         ],
         "hu": [
           {
-            "name": "Pierogi",
-            "tip": "Kóstolja meg a klasszikus töltött táskákat, különösen a 'ruskie'-t burgonyával és túróval."
-          },
-          {
-            "name": "Żurek",
-            "tip": "Hagyományos savanyú leves, gyakran kolbásszal és tojással tálalva. Kiadós és finom."
-          },
-          {
-            "name": "Gospoda Étterem",
-            "tip": "Hagyományos lengyel ételeket kínáló étterem a sugárút közelében."
+            "name": "Browar Częstochowski",
+            "tip": "Kóstolja meg a helyi sört és a hagyományos sziléziai pierogit."
           }
         ],
         "ro": [
           {
-            "name": "Pierogi",
-            "tip": "Încercați găluștele umplute clasice, în special 'ruskie' cu cartofi și brânză."
-          },
-          {
-            "name": "Żurek",
-            "tip": "O supă acră tradițională, adesea servită cu cârnați și ou. consistentă și delicioasă."
-          },
-          {
-            "name": "Restaurant Gospoda",
-            "tip": "Un restaurant cu bucătărie tradițională poloneză lângă bulevard."
+            "name": "Browar Częstochowski",
+            "tip": "Încercați berea locală și colțunașii silezieni tradiționali."
           }
         ],
         "en": [
           {
-            "name": "Pierogi",
-            "tip": "Try the classic filled dumplings, especially the 'Ruskie' with potatoes and cheese."
-          },
-          {
-            "name": "Żurek",
-            "tip": "A traditional sour rye soup, often served with sausage and egg. Hearty and delicious."
-          },
-          {
-            "name": "Gospoda Restaurant",
-            "tip": "A restaurant with traditional Polish cuisine near the Avenue."
+            "name": "Browar Częstochowski",
+            "tip": "Try the local beer and traditional Silesian pierogi."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Staszic-Park",
-            "tip": "Ein friedlicher Rückzugsort direkt neben dem belebten Jasna Góra.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Gärten von Jasna Góra",
-            "tip": "Die inneren Gärten des Klosters bieten Momente der stillen Kontemplation.",
+            "name": "Klostergärten",
+            "tip": "Die Gärten hinter den Mauern bieten absolute Stille.",
             "emoji": "🧘"
-          },
-          {
-            "name": "Blick vom Klosterturm",
-            "tip": "Genießen Sie die weite Aussicht über die Stadt in relativer Ruhe.",
-            "emoji": "🌅"
           }
         ],
         "hu": [
           {
-            "name": "Staszic-park",
-            "tip": "Békés menedék a nyüzsgő Jasna Góra mellett.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Jasna Góra kertjei",
-            "tip": "A kolostor belső kertjei a csendes elmélkedés pillanatait kínálják.",
+            "name": "Kolostorkert",
+            "tip": "A falak mögötti kertek tökéletes nyugalmat árasztanak.",
             "emoji": "🧘"
-          },
-          {
-            "name": "Kilátás a kolostor tornyából",
-            "tip": "Élvezze a városra nyíló széles kilátást viszonylagos nyugalomban.",
-            "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Parcul Staszic",
-            "tip": "Un refugiu pașnic chiar lângă aglomerata Jasna Góra.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Grădinile de la Jasna Góra",
-            "tip": "Grădinile interioare ale mănăstirii oferă momente de contemplație tăcută.",
+            "name": "Grădinile mănăstirii",
+            "tip": "Grădinile din spatele zidurilor oferă liniște absolută.",
             "emoji": "🧘"
-          },
-          {
-            "name": "Vedere din turnul mănăstirii",
-            "tip": "Bucurați-vă de vederea panoramică asupra orașului într-o liniște relativă.",
-            "emoji": "🌅"
           }
         ],
         "en": [
           {
-            "name": "Staszic Park",
-            "tip": "A peaceful retreat right next to the bustling Jasna Góra.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Jasna Góra Gardens",
-            "tip": "The inner gardens of the monastery offer moments of quiet contemplation.",
+            "name": "Monastery Gardens",
+            "tip": "The gardens behind the walls offer absolute silence.",
             "emoji": "🧘"
-          },
-          {
-            "name": "View from the Monastery Tower",
-            "tip": "Enjoy the wide view over the city in relative tranquility.",
-            "emoji": "🌅"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Souvenirläden bei Jasna Góra",
-            "tip": "Finden Sie religiöse Ikonen, Rosenkränze und Nachbildungen der Schwarzen Madonna."
-          },
-          {
-            "name": "Geschäfte in der Allee",
-            "tip": "Eine Mischung aus lokalen Boutiquen und bekannten Marken."
+            "name": "Jasna Góra Souvenirs",
+            "tip": "Religiöse Kunst und lokales Kunsthandwerk."
           }
         ],
         "hu": [
           {
-            "name": "Ajándékboltok a Jasna Góránál",
-            "tip": "Vallási ikonokat, rózsafüzéreket és a Fekete Madonna másolatait találja itt."
-          },
-          {
-            "name": "Üzletek a sugárúton",
-            "tip": "Helyi butikok és ismert márkák keveréke."
+            "name": "Jasna Góra ajándékbolt",
+            "tip": "Vallási műtárgyak és helyi kézműves termékek."
           }
         ],
         "ro": [
           {
-            "name": "Magazine de suveniruri la Jasna Góra",
-            "tip": "Găsiți icoane religioase, rozarii și replici ale Madonei Negre."
-          },
-          {
-            "name": "Magazine pe Bulevard",
-            "tip": "Un amestec de buticuri locale și mărci cunoscute."
+            "name": "Suveniruri Jasna Góra",
+            "tip": "Artă religioasă și obiecte de meșteșugărit local."
           }
         ],
         "en": [
           {
-            "name": "Souvenir shops at Jasna Góra",
-            "tip": "Find religious icons, rosaries, and replicas of the Black Madonna."
-          },
-          {
-            "name": "Shops on the Avenue",
-            "tip": "A mix of local boutiques and well-known brands."
+            "name": "Jasna Góra Souvenirs",
+            "tip": "Religious art and local handicrafts."
           }
         ]
       },
       "tips": {
         "de": [
-          "Tragen Sie bequeme Schuhe, da Sie viel laufen werden.",
-          "Tschenstochau ist ein wichtiger religiöser Ort; kleiden Sie sich respektvoll, besonders in Jasna Góra (Schultern und Knie bedeckt).",
-          "Prüfen Sie die Öffnungszeiten der Museen im Voraus, da diese variieren können.",
-          "Nehmen Sie eine wiederverwendbare Wasserflasche mit, um hydriert zu bleiben."
+          "Die Hauptallee ist fast 2 km lang, tragen Sie bequeme Schuhe.",
+          "Im Kloster Jasna Góra ist angemessene Kleidung erforderlich.",
+          "Das Bergbaumuseum ist montags oft geschlossen."
         ],
         "hu": [
-          "Viseljen kényelmes cipőt, mert sokat fog gyalogolni.",
-          "Częstochowa fontos vallási hely; öltözzön tisztelettudóan, különösen a Jasna Górán (fedett vállak és térdek).",
-          "Előre ellenőrizze a múzeumok nyitvatartási idejét, mert az változhat.",
-          "Hozzon magával újratölthető vizes palackot, hogy hidratált maradjon."
+          "A fő sugárút majdnem 2 km hosszú, viseljen kényelmes cipőt.",
+          "A Jasna Góra kolostorban elvárt a visszafogott öltözet.",
+          "A bányászati múzeum hétfőnként gyakran zárva tart."
         ],
         "ro": [
-          "Purtați încălțăminte confortabilă, deoarece veți merge mult pe jos.",
-          "Częstochowa este un loc religios important; îmbrăcați-vă respectuos, mai ales la Jasna Góra (umerii și genunchii acoperiți).",
-          "Verificați în avans orele de funcționare ale muzeelor, deoarece acestea pot varia.",
-          "Luați o sticlă de apă reutilizabilă pentru a rămâne hidratați."
+          "Bulevardul principal are aproape 2 km, purtați pantofi confortabili.",
+          "În mănăstirea Jasna Góra este necesară o ținută decentă.",
+          "Muzeul mineritului este adesea închis lunea."
         ],
         "en": [
-          "Wear comfortable shoes as you will be doing a lot of walking.",
-          "Częstochowa is an important religious site; dress respectfully, especially at Jasna Góra (shoulders and knees covered).",
-          "Check museum opening times in advance as they can vary.",
-          "Bring a reusable water bottle to stay hydrated."
+          "The main avenue is almost 2 km long, wear comfortable shoes.",
+          "Appropriate clothing is required in Jasna Góra Monastery.",
+          "The mining museum is often closed on Mondays."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Biegański-Platz unter den Arkaden des Rathauses. Mittags bietet das Zündholzmuseum einen faszinierenden, trockenen Zufluchtsort. Am Nachmittag führt der Weg zur Jasna Góra, wo die Basilika Schutz vor dem Regen bietet. Der Abend klingt gemütlich in einem der Kellerrestaurants entlang der Aleja NMP aus, während draußen der Regen auf das Kopfsteinpflaster prasselt.",
+            "hu": "A reggel az esernyők alatt indul a Biegański téren, a városháza árkádjai védelmet nyújtanak. Délben a Gyufagyári Múzeum fedett tereiben kalandozunk. Délután a Jasna Góra kolostora nyújt menedéket a záporok elől. Az estét az Aleja NMP egyik hangulatos alagsori éttermében zárjuk, hallgatva a macskaköveken kopogó esőt.",
+            "ro": "Dimineața începe sub umbrele în Piața Biegański, arcadele primăriei oferind adăpost. La prânz, Muzeul de Chibrituri oferă un refugiu interior fascinant. După-amiaza, drumul duce la Jasna Góra, unde bazilica oferă protecție împotriva ploii. Seara se încheie confortabil într-unul dintre restaurantele de la subsol de pe Aleja NMP.",
+            "en": "The morning starts under umbrellas at Biegański Square, with the town hall arcades providing cover. At noon, the Match Factory Museum offers a fascinating indoor refuge. In the afternoon, the path leads to Jasna Góra, where the basilica provides shelter from the showers. The evening ends cozily in one of the basement restaurants along Aleja NMP."
+          },
+          "stops": [
+            {
+              "name": "Plac Biegańskiego",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Arkaden des Rathauses als Regenschutz.",
+                "hu": "Használja a városháza árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele primăriei pentru a vă adăposti de ploaie.",
+                "en": "Use the town hall arcades as shelter from the rain."
+              }
+            },
+            {
+              "name": "Park im. Staszica",
+              "tip_4lang": {
+                "de": "Die dichten Baumkronen bieten bei leichtem Nieselregen Schutz.",
+                "hu": "A sűrű lombok enyhe szitálásban védelmet nyújtanak.",
+                "ro": "Coroanele dese ale copacilor oferă protecție la burniță.",
+                "en": "Dense tree canopies offer protection during light drizzle."
+              }
+            },
+            {
+              "name": "Kościół św. Zygmunta",
+              "tip_4lang": {
+                "de": "Ein idealer Ort für eine trockene, besinnliche Pause.",
+                "hu": "Ideális hely egy száraz, elmélyült pihenőhöz.",
+                "ro": "Un loc ideal pentru o pauză uscată și meditativă.",
+                "en": "An ideal spot for a dry, contemplative break."
+              }
+            },
+            {
+              "name": "Muzeum Produkcji Zapałek",
+              "tip_4lang": {
+                "de": "Komplett überdacht – perfekt für regnerische Mittagsstunden.",
+                "hu": "Teljesen fedett – tökéletes a szélsőséges esős órákra.",
+                "ro": "Complet acoperit – perfect pentru orele de prânz ploioase.",
+                "en": "Completely indoor – perfect for rainy midday hours."
+              }
+            },
+            {
+              "name": "Ratusz / Galeria",
+              "tip_4lang": {
+                "de": "Verlängern Sie den Aufenthalt in den Ausstellungsräumen.",
+                "hu": "Hosszabbítsa meg a tartózkodást a kiállítótermekben.",
+                "ro": "Prelungiți șederea în sălile de expoziție.",
+                "en": "Extend your stay in the exhibition halls."
+              }
+            },
+            {
+              "name": "Jasna Góra",
+              "tip_4lang": {
+                "de": "Die weitläufigen Gänge des Klosters sind fast überall trocken.",
+                "hu": "A kolostor tágas folyosói szinte mindenhol szárazak.",
+                "ro": "Coridoarele vaste ale mănăstirii sunt uscate peste tot.",
+                "en": "The monastery's vast corridors are dry almost everywhere."
+              }
+            },
+            {
+              "name": "Park pod Jasną Górą",
+              "tip_4lang": {
+                "de": "Ein kurzer Blick auf die Statuen, dann schnell ins Café.",
+                "hu": "Gyors pillantás a szobrokra, aztán irány egy kávézó.",
+                "ro": "O privire rapidă la statui, apoi fuguța la cafenea.",
+                "en": "A quick look at the statues, then head to a cafe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Schirm mit, da der Wind in den Alleen stark sein kann.",
+              "Die Aleja NMP hat viele Passagen mit Geschäften zum Unterstellen.",
+              "Wasserdichtes Schuhwerk ist für die teils unebenen Gehwege ratsam.",
+              "Nutzen Sie die Zeit für ausgiebige Museumsbesuche.",
+              "Die Kellerrestaurants bieten die beste Atmosphäre bei Regen."
+            ],
+            "hu": [
+              "Vigyen erős esernyőt, mert a sugárutakon felerősödhet a szél.",
+              "Az Aleja NMP mentén sok az üzletsor, ahová be lehet húzódni.",
+              "A helyenként egyenetlen járdák miatt vízálló cipő javasolt.",
+              "Használja ki az időt a múzeumok alaposabb felfedezésére.",
+              "Az alagsori éttermek adják a legjobb hangulatot esőben."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, vântul poate fi puternic pe bulevarde.",
+              "Aleja NMP are multe pasaje cu magazine unde vă puteți adăposti.",
+              "Se recomandă încălțăminte impermeabilă pentru trotuarele denivelate.",
+              "Folosiți timpul pentru vizite prelungite la muzee.",
+              "Restaurantele de la subsol oferă cea mai bună atmosferă pe ploaie."
+            ],
+            "en": [
+              "Bring a sturdy umbrella as wind can pick up in the avenues.",
+              "Aleja NMP has many shop passages to duck into for cover.",
+              "Waterproof shoes are advised for the sometimes uneven pavements.",
+              "Use the time for more extensive museum visits.",
+              "Basement restaurants offer the best atmosphere when it rains."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am glitzernden Biegański-Platz führt in die verschneiten Parks. Mittags wärmen die Industriehallen des Zündholzmuseums auf. Am Nachmittag erstrahlt die Aleja NMP im festlichen Lichterglanz, während man zur Jasna Góra stapft. Der Abend endet bei einer heißen Schokolade mit Blick auf die beleuchtete Silhouette des Klosters in der frühen Dunkelheit.",
+            "hu": "A fagyos reggel a csillogó Biegański téren indul, majd a havas parkok felé vezet. Délben a Gyufagyár falai között melegedünk fel. Délután az Aleja NMP ünnepi fényei kísérnek a Jasna Góra felé a korai szürkületben. Az este egy forró csokoládé mellett zárul, csodálva a kolostor kivilágított sziluettjét a téli sötétségben.",
+            "ro": "O dimineață geroasă în Piața Biegański duce spre parcurile înzăpezite. La prânz, ne încălzim în halele Muzeului de Chibrituri. După-amiaza, Aleja NMP strălucește în lumini de sărbătoare în drum spre Jasna Góra. Seara se încheie cu o ciocolată caldă, admirând silueta iluminată a mănăstirii în întunericul timpuriu.",
+            "en": "A frosty morning at the glittering Biegański Square leads to the snowy parks. At noon, warm up within the industrial walls of the Match Museum. In the afternoon, Aleja NMP shines with festive lights during the trek to Jasna Góra. The evening ends with a hot chocolate, admiring the illuminated silhouette of the monastery in the early darkness."
+          },
+          "stops": [
+            {
+              "name": "Plac Biegańskiego",
+              "tip_4lang": {
+                "de": "Genießen Sie die Weihnachtsbeleuchtung auf dem Platz.",
+                "hu": "Élvezze a tér karácsonyi díszkivilágítását.",
+                "ro": "Bucurați-vă de iluminatul de Crăciun din piață.",
+                "en": "Enjoy the festive Christmas illuminations in the square."
+              }
+            },
+            {
+              "name": "Park im. Staszica",
+              "tip_4lang": {
+                "de": "Vorsicht vor vereisten Wegen in den Parkanlagen.",
+                "hu": "Vigyázat, a parki utak jegesek lehetnek.",
+                "ro": "Atenție la aleile înghețate din parcuri.",
+                "en": "Watch out for icy paths in the park areas."
+              }
+            },
+            {
+              "name": "Kościół św. Zygmunta",
+              "tip_4lang": {
+                "de": "Bewundern Sie die traditionelle polnische Weihnachtskrippe.",
+                "hu": "Csodálja meg a hagyományos lengyel betlehemet.",
+                "ro": "Admirați ieslea de Crăciun tradițională poloneză.",
+                "en": "Admire the traditional Polish Christmas nativity scene."
+              }
+            },
+            {
+              "name": "Muzeum Produkcji Zapałek",
+              "tip_4lang": {
+                "de": "Die alten Maschinen wirken im Winterlicht besonders rustikal.",
+                "hu": "A régi gépek különösen rusztikusak a téli fényben.",
+                "ro": "Mașinile vechi par deosebit de rustice în lumina iernii.",
+                "en": "The old machines look especially rustic in the winter light."
+              }
+            },
+            {
+              "name": "Ratusz / Galeria",
+              "tip_4lang": {
+                "de": "Perfekt, um sich zwischen den Spaziergängen aufzuwärmen.",
+                "hu": "Tökéletes hely a séták közötti felmelegedéshez.",
+                "ro": "Perfect pentru a vă încălzi între plimbări.",
+                "en": "Perfect for warming up between walks."
+              }
+            },
+            {
+              "name": "Jasna Góra",
+              "tip_4lang": {
+                "de": "Besuchen Sie die Weihnachtskrippe unter freiem Himmel.",
+                "hu": "Látogassa meg a szabadtéri betlehemet a várfalnál.",
+                "ro": "Vizitați ieslea de Crăciun în aer liber de lângă ziduri.",
+                "en": "Visit the open-air nativity scene near the walls."
+              }
+            },
+            {
+              "name": "Park pod Jasną Górą",
+              "tip_4lang": {
+                "de": "Die Bäume sind bei Frost oft herrlich mit Raureif bedeckt.",
+                "hu": "A fák zúzmarás ágai csodás látványt nyújtanak fagyban.",
+                "ro": "Copacii sunt adesea acoperiți superb cu chiciură.",
+                "en": "The trees are often beautifully covered in hoarfrost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche, da der Wind die Allee hinaufpfeift.",
+              "In Polen wird es im Winter gegen 16:00 Uhr dunkel.",
+              "Suchen Sie Cafés mit 'Grzaniec' (Glühwein/Bier) für Wärme.",
+              "Der Weg zur Jasna Góra kann bei Schnee rutschig sein.",
+              "Die Museen sind gut geheizt und bieten Komfort."
+            ],
+            "hu": [
+              "Viseljen termo alsóneműt, mert a szél végigfúj a sugárúton.",
+              "Lengyelországban télen már 16:00 körül sötétedik.",
+              "Keresse a kávézókban a 'Grzaniec'-et (forralt bor/sör).",
+              "A Jasna Górához vezető út hóban csúszós lehet.",
+              "A múzeumok jól fűtöttek és kényelmesek."
+            ],
+            "ro": [
+              "Purtați lenjerie termică, deoarece vântul suflă tare pe bulevard.",
+              "În Polonia se întunecă în jur de ora 16:00 iarna.",
+              "Căutați cafenele care servesc 'Grzaniec' (vin/bere fiartă).",
+              "Drumul spre Jasna Góra poate fi alunecos în zăpadă.",
+              "Muzeele sunt bine încălzite și oferă confort."
+            ],
+            "en": [
+              "Wear thermal layers as the wind whistles up the main avenue.",
+              "In Poland, it gets dark around 16:00 in winter.",
+              "Look for cafes serving 'Grzaniec' (mulled wine/beer) for warmth.",
+              "The path up to Jasna Góra can be slippery in snow.",
+              "Museums are well-heated and provide comfort."
+            ]
+          }
+        }
       }
     },
     "bike": {
       "mode": "bike",
-      "speed_kmh": 10,
+      "speed_kmh": 12,
       "start": "09:00",
-      "end_estimate": "18:44",
-      "total_km": 11.5,
-      "stop_count": 8,
+      "end_estimate": "17:15",
+      "total_km": 8.5,
+      "stop_count": 7,
       "stops": [
         {
-          "name_4lang": {
+          "name": {
+            "de": "Museum der Streichholzproduktion",
+            "hu": "Gyufagyártási Múzeum",
+            "ro": "Muzeul Producției de Chibrituri",
+            "en": "Museum of Match Production"
+          },
+          "coords": [
+            19.1382,
+            50.8135
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Sehen Sie die funktionierende Produktionslinie aus den 1930er Jahren.",
+            "hu": "Nézze meg az 1930-as évekből származó működő gyártósort.",
+            "ro": "Vedeți linia de producție funcțională din anii 1930.",
+            "en": "See the working production line from the 1930s."
+          }
+        },
+        {
+          "name": {
             "de": "Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
             "en": "Town Hall"
           },
           "coords": [
-            19.122,
-            50.8095
+            19.1245,
+            50.8115
           ],
           "category": "squares/old-town",
-          "arrive_at": "09:10",
-          "stay_min": 20,
+          "arrive_at": "11:05",
+          "stay_min": 25,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0,
-          "hop_mode": "bike",
+          "hop_from_prev_km": 1.5,
           "tip_5lang": {
-            "de": "Perfekter Ausgangspunkt. Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
-            "hu": "Tökéletes kiindulópont. Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a teret.",
-            "ro": "Punct de plecare perfect. Asigurați-vă bicicleta înainte de a explora piața.",
-            "en": "Perfect starting point. Lock your bike securely before exploring the square."
+            "de": "Ein schöner Ort für eine kurze Trinkpause.",
+            "hu": "Szép hely egy rövid frissítőre.",
+            "ro": "Un loc frumos pentru o scurtă pauză de hidratare.",
+            "en": "A nice spot for a quick drink break."
           }
         },
         {
-          "name_4lang": {
+          "name": {
             "de": "Kathedrale der Heiligen Familie",
             "hu": "Szent Család-székesegyház",
             "ro": "Catedrala Sfânta Familie",
             "en": "Cathedral of the Holy Family"
           },
           "coords": [
-            19.125,
-            50.809
+            19.1275,
+            50.8062
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "09:33",
-          "stay_min": 50,
-          "hop_from_prev_min": 3,
-          "hop_from_prev_km": 0.5,
-          "hop_mode": "bike",
+          "arrive_at": "11:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
           "tip_5lang": {
-            "de": "Nur eine kurze Fahrt vom Rathaus entfernt. Die neugotische Architektur ist beeindruckend.",
-            "hu": "Csak egy rövid biciklizésre a Városházától. A neogótikus építészet lenyűgöző.",
-            "ro": "La o scurtă plimbare cu bicicleta de Primărie. Arhitectura neogotică este impresionantă.",
-            "en": "Just a short ride from the Town Hall. The neo-Gothic architecture is impressive."
+            "de": "Eine der größten neugotischen Kirchen in Europa.",
+            "hu": "Európa egyik legnagyobb neogótikus temploma.",
+            "ro": "Una dintre cele mai mari biserici neogotice din Europa.",
+            "en": "One of the largest neo-Gothic churches in Europe."
           }
         },
         {
-          "name_4lang": {
-            "de": "Museum der Streichholzproduktion",
-            "hu": "Gyufagyártási Múzeum",
-            "ro": "Muzeul Producției de Chibrituri",
-            "en": "Museum of Match Production"
+          "name": {
+            "de": "Allee der Heiligen Maria",
+            "hu": "Szűz Mária sugárút",
+            "ro": "Bulevardul Sfânta Maria",
+            "en": "Holy Virgin Mary Avenue"
           },
           "coords": [
-            19.135,
-            50.805
+            19.112,
+            50.8118
           ],
-          "category": "industrial heritage",
-          "arrive_at": "10:29",
-          "stay_min": 70,
-          "hop_from_prev_min": 6,
-          "hop_from_prev_km": 1,
-          "hop_mode": "bike",
-          "tip_5lang": {
-            "de": "Ein faszinierender Einblick in ein fast vergessenes Handwerk.",
-            "hu": "Lenyűgöző bepillantás egy szinte elfeledett mesterségbe.",
-            "ro": "O privire fascinantă asupra unei meserii aproape uitate.",
-            "en": "A fascinating glimpse into an almost forgotten craft."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "St.-Jakobs-Kirche",
-            "hu": "Szent Jakab-templom",
-            "ro": "Biserica Sfântul Iacob",
-            "en": "St. James's Church"
-          },
-          "coords": [
-            19.128,
-            50.81
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "11:47",
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:05",
           "stay_min": 30,
-          "hop_from_prev_min": 8,
-          "hop_from_prev_km": 1.2,
-          "hop_mode": "bike",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
           "tip_5lang": {
-            "de": "Eine kleinere, aber historisch bedeutsame Kirche auf dem Weg.",
-            "hu": "Egy kisebb, de történelmileg jelentős templom útközben.",
-            "ro": "O biserică mai mică, dar semnificativă din punct de vedere istoric, pe traseu.",
-            "en": "A smaller but historically significant church on your route."
+            "de": "Nutzen Sie den breiten Radweg in der Mitte der Allee.",
+            "hu": "Használja a sugárút közepén lévő széles kerékpárutat.",
+            "ro": "Folosiți pista de biciclete largă din mijlocul bulevardului.",
+            "en": "Use the wide bike path in the middle of the avenue."
           }
         },
         {
-          "name_4lang": {
-            "de": "Museum des Eisenerzbergbaus",
-            "hu": "Vasércbányászati Múzeum",
-            "ro": "Muzeul Mineritului de Minereu de Fier",
-            "en": "Museum of Iron Ore Mining"
-          },
-          "coords": [
-            19.12,
-            50.825
-          ],
-          "category": "museums",
-          "arrive_at": "12:29",
-          "stay_min": 90,
-          "hop_from_prev_min": 12,
-          "hop_from_prev_km": 2,
-          "hop_mode": "bike",
-          "tip_5lang": {
-            "de": "Die Radtour hierher gibt einen guten Überblick über die nördlichen Stadtteile.",
-            "hu": "Az ide vezető kerékpártúra jó áttekintést ad az északi városrészekről.",
-            "ro": "Plimbarea cu bicicleta până aici oferă o bună perspectivă asupra cartierelor nordice.",
-            "en": "The bike ride here gives you a good overview of the northern parts of the city."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Kloster Jasna Góra",
-            "hu": "Jasna Góra-i kolostor",
-            "ro": "Mănăstirea Jasna Góra",
-            "en": "Jasna Góra Monastery"
-          },
-          "coords": [
-            19.097,
-            50.813
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "14:19",
-          "stay_min": 120,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 3.3,
-          "hop_mode": "bike",
-          "tip_5lang": {
-            "de": "Stellen Sie Ihr Fahrrad am Fuße des Hügels ab und gehen Sie den Rest des Weges zu Fuß.",
-            "hu": "Hagyja a kerékpárt a domb lábánál, és tegye meg a maradék utat gyalog.",
-            "ro": "Lăsați bicicleta la poalele dealului și urcați restul drumului pe jos.",
-            "en": "Park your bike at the bottom of the hill and walk the rest of the way."
-          }
-        },
-        {
-          "name_4lang": {
+          "name": {
             "de": "Staszic-Park",
-            "hu": "Staszic-park",
+            "hu": "Staszic Park",
             "ro": "Parcul Staszic",
             "en": "Staszic Park"
           },
           "coords": [
-            19.1,
-            50.815
+            19.1005,
+            50.8115
           ],
           "category": "parks/promenades/beaches",
-          "arrive_at": "16:22",
-          "stay_min": 45,
-          "hop_from_prev_min": 3,
-          "hop_from_prev_km": 0.5,
-          "hop_mode": "bike",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
           "tip_5lang": {
-            "de": "Ein großartiger Ort für eine Pause, bevor Sie die letzte Etappe in Angriff nehmen.",
-            "hu": "Nagyszerű hely egy kis szünetre, mielőtt nekivágna az utolsó szakasznak.",
-            "ro": "Un loc excelent pentru o pauză înainte de a aborda ultima parte a traseului.",
-            "en": "A great spot for a break before tackling the final leg of your journey."
+            "de": "Perfekt, um das Rad kurz zu schieben und die Teiche zu genießen.",
+            "hu": "Tökéletes hely a bringa tolásához és a tavak élvezetéhez.",
+            "ro": "Perfect pentru a merge pe lângă bicicletă și a savura iazurile.",
+            "en": "Perfect for walking the bike and enjoying the ponds."
           }
         },
         {
-          "name_4lang": {
-            "de": "Allee der Heiligen Maria (Rückweg)",
-            "hu": "Szűz Mária sugárút (visszaút)",
-            "ro": "Bulevardul Sfintei Fecioare Maria (întoarcere)",
-            "en": "Avenue of the Holy Virgin Mary (Return)"
+          "name": {
+            "de": "Museum des Eisenerzbergbaus",
+            "hu": "Vasércbányászati Múzeum",
+            "ro": "Muzeul Mineritului de Minereu de Fier",
+            "en": "Iron Ore Mining Museum"
           },
           "coords": [
-            19.115,
+            19.1002,
             50.811
           ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "17:25",
-          "stay_min": 45,
-          "hop_from_prev_min": 18,
-          "hop_from_prev_km": 3,
-          "hop_mode": "bike",
+          "category": "museums",
+          "arrive_at": "14:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
           "tip_5lang": {
-            "de": "Radeln Sie am späten Nachmittag die Allee hinunter, um das Abendlicht zu genießen.",
-            "hu": "Tekerjen le a sugárúton késő délután, hogy élvezze az esti fényeket.",
-            "ro": "Plimbați-vă cu bicicleta pe bulevard după-amiaza târziu pentru a vă bucura de lumina serii.",
-            "en": "Cycle down the avenue in the late afternoon to enjoy the evening light."
+            "de": "Schließen Sie Ihr Rad am Parkeingang sicher ab.",
+            "hu": "Zárja le biztonságosan a biciklit a park bejáratánál.",
+            "ro": "Încuiați bicicleta în siguranță la intrarea în parc.",
+            "en": "Lock your bike securely at the park entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Jasna Góra",
+            "hu": "Jasna Góra kolostor",
+            "ro": "Mănăstirea Jasna Góra",
+            "en": "Jasna Góra Monastery"
+          },
+          "coords": [
+            19.0972,
+            50.8125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahren Sie bis zum Tor und gehen Sie das letzte Stück zu Fuß.",
+            "hu": "Tekerjen a kapuig, majd az utolsó szakaszt tegye meg gyalog.",
+            "ro": "Mergeți cu bicicleta până la poartă, apoi pe jos pe ultima porțiune.",
+            "en": "Ride to the gate, then walk the last section."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Mit dem Fahrrad erkunden Sie Tschenstochau flexibel und hautnah. Vom Rathaus aus radeln Sie zu den wichtigsten Kirchen und Museen der Stadt. Der Vormittag führt Sie zur Kathedrale und zum kuriosen Streichholzmuseum. Nach einer kurzen Pause bei der St.-Jakobs-Kirche geht es weiter zum Bergbaumuseum, das einen tiefen Einblick in die regionale Geschichte bietet. Der Nachmittag ist dem spirituellen Zentrum Polens gewidmet: Jasna Góra. Nach diesem intensiven Erlebnis entspannen Sie im Staszic-Park, bevor Sie gemütlich die Allee der Heiligen Maria hinunterrollen und den Tag ausklingen lassen.",
-        "hu": "Kerékpárral rugalmasan és testközelből fedezheti fel Częstochowát. A Városházától indulva elteker a város legfontosabb templomaihoz és múzeumaihoz. A délelőtt a székesegyházhoz és a különös Gyufagyártási Múzeumhoz vezet. A Szent Jakab-templomnál tartott rövid szünet után a Bányászati Múzeum felé veszi az irányt, amely mély betekintést nyújt a régió történelmébe. A délután Lengyelország spirituális központjának, a Jasna Górának van szentelve. Ezen intenzív élmény után a Staszic-parkban pihenhet, mielőtt kényelmesen legurulna a Szűz Mária sugárúton, és lezárná a napot.",
-        "ro": "Cu bicicleta, explorați Częstochowa în mod flexibil și de aproape. De la Primărie, pedalați spre cele mai importante biserici și muzee ale orașului. Dimineața vă duce la Catedrală și la curiosul Muzeu al Producției de Chibrituri. După o scurtă pauză la Biserica Sfântul Iacob, continuați spre Muzeul Mineritului, care oferă o perspectivă profundă asupra istoriei regionale. După-amiaza este dedicată centrului spiritual al Poloniei: Jasna Góra. După această experiență intensă, relaxați-vă în Parcul Staszic înainte de a coborî agale pe Bulevardul Sfintei Fecioare Maria pentru a încheia ziua.",
-        "en": "By bike, you can explore Częstochowa flexibly and up close. Starting from the Town Hall, you'll cycle to the city's most important churches and museums. The morning takes you to the Cathedral and the curious Museum of Match Production. After a short break at St. James's Church, you'll continue to the Mining Museum, which offers a deep insight into the region's history. The afternoon is dedicated to Poland's spiritual center: Jasna Góra. After this intense experience, relax in Staszic Park before leisurely rolling down the Avenue of the Holy Virgin Mary to end your day."
+        "de": "Entdecken Sie Częstochowa auf zwei Rädern! Von der faszinierenden Streichholzfabrik geht es zur imposanten Kathedrale und über den Radweg der Hauptallee bis zum Kloster Jasna Góra. Diese Route verbindet industrielle Industriekultur mit tiefem Glauben und grünen Parks.",
+        "hu": "Fedezze fel Csesztokovát két keréken! A lenyűgöző gyufagyártól az impozáns székesegyházig, majd a fő sugárút kerékpárútján át egészen a Jasna Góra kolostorig. Ez az útvonal ötvözi az ipari örökséget a hittel és a zöld parkokkal.",
+        "ro": "Descoperiți Częstochowa pe două roți! De la fascinanta fabrică de chibrituri la catedrala impunătoare și pe pista de biciclete de pe bulevardul principal până la mănăstirea Jasna Góra. Acest traseu îmbină cultura industrială cu credința profundă și parcurile verzi.",
+        "en": "Explore Częstochowa on two wheels! From the fascinating match factory to the imposing cathedral, and along the bike path of the main avenue to Jasna Góra Monastery. This route combines industrial heritage with faith and green parks."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Pierogi",
-            "tip": "Probieren Sie die klassischen gefüllten Teigtaschen, besonders die 'Ruskie' mit Kartoffeln und Käse."
-          },
-          {
-            "name": "Żurek",
-            "tip": "Eine traditionelle Sauermehlsuppe, oft mit Wurst und Ei serviert. Herzhaft und köstlich."
-          },
-          {
-            "name": "Restauracja Gospoda",
-            "tip": "Ein Restaurant mit traditioneller polnischer Küche in der Nähe der Allee."
+            "name": "Gospoda Złoty Garniec",
+            "tip": "Rustikales Restaurant mit herzhafter polnischer Küche."
           }
         ],
         "hu": [
           {
-            "name": "Pierogi",
-            "tip": "Kóstolja meg a klasszikus töltött táskákat, különösen a 'ruskie'-t burgonyával és túróval."
-          },
-          {
-            "name": "Żurek",
-            "tip": "Hagyományos savanyú leves, gyakran kolbásszal és tojással tálalva. Kiadós és finom."
-          },
-          {
-            "name": "Gospoda Étterem",
-            "tip": "Hagyományos lengyel ételeket kínáló étterem a sugárút közelében."
+            "name": "Gospoda Złoty Garniec",
+            "tip": "Rusztikus étterem kiadós lengyel ételekkel."
           }
         ],
         "ro": [
           {
-            "name": "Pierogi",
-            "tip": "Încercați găluștele umplute clasice, în special 'ruskie' cu cartofi și brânză."
-          },
-          {
-            "name": "Żurek",
-            "tip": "O supă acră tradițională, adesea servită cu cârnați și ou. consistentă și delicioasă."
-          },
-          {
-            "name": "Restaurant Gospoda",
-            "tip": "Un restaurant cu bucătărie tradițională poloneză lângă bulevard."
+            "name": "Gospoda Złoty Garniec",
+            "tip": "Restaurant rustic cu mâncare poloneză consistentă."
           }
         ],
         "en": [
           {
-            "name": "Pierogi",
-            "tip": "Try the classic filled dumplings, especially the 'Ruskie' with potatoes and cheese."
-          },
-          {
-            "name": "Żurek",
-            "tip": "A traditional sour rye soup, often served with sausage and egg. Hearty and delicious."
-          },
-          {
-            "name": "Gospoda Restaurant",
-            "tip": "A restaurant with traditional Polish cuisine near the Avenue."
+            "name": "Gospoda Złoty Garniec",
+            "tip": "Rustic restaurant with hearty Polish cuisine."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Staszic-Park",
-            "tip": "Ein friedlicher Rückzugsort direkt neben dem belebten Jasna Góra.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Gärten von Jasna Góra",
-            "tip": "Die inneren Gärten des Klosters bieten Momente der stillen Kontemplation.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Blick vom Klosterturm",
-            "tip": "Genießen Sie die weite Aussicht über die Stadt in relativer Ruhe.",
-            "emoji": "🌅"
+            "name": "Warta-Uferweg",
+            "tip": "Ruhiger Weg entlang des Flusses abseits des Zentrums.",
+            "emoji": "🏞️"
           }
         ],
         "hu": [
           {
-            "name": "Staszic-park",
-            "tip": "Békés menedék a nyüzsgő Jasna Góra mellett.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Jasna Góra kertjei",
-            "tip": "A kolostor belső kertjei a csendes elmélkedés pillanatait kínálják.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Kilátás a kolostor tornyából",
-            "tip": "Élvezze a városra nyíló széles kilátást viszonylagos nyugalomban.",
-            "emoji": "🌅"
+            "name": "Warta-parti út",
+            "tip": "Csendes út a folyó mentén, távol a központtól.",
+            "emoji": "🏞️"
           }
         ],
         "ro": [
           {
-            "name": "Parcul Staszic",
-            "tip": "Un refugiu pașnic chiar lângă aglomerata Jasna Góra.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Grădinile de la Jasna Góra",
-            "tip": "Grădinile interioare ale mănăstirii oferă momente de contemplație tăcută.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Vedere din turnul mănăstirii",
-            "tip": "Bucurați-vă de vederea panoramică asupra orașului într-o liniște relativă.",
-            "emoji": "🌅"
+            "name": "Traseul de pe malul Wartei",
+            "tip": "Cale liniștită de-a lungul râului, departe de centru.",
+            "emoji": "🏞️"
           }
         ],
         "en": [
           {
-            "name": "Staszic Park",
-            "tip": "A peaceful retreat right next to the bustling Jasna Góra.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Jasna Góra Gardens",
-            "tip": "The inner gardens of the monastery offer moments of quiet contemplation.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "View from the Monastery Tower",
-            "tip": "Enjoy the wide view over the city in relative tranquility.",
-            "emoji": "🌅"
+            "name": "Warta Riverside Path",
+            "tip": "Quiet path along the river away from the center.",
+            "emoji": "🏞️"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Souvenirläden bei Jasna Góra",
-            "tip": "Finden Sie religiöse Ikonen, Rosenkränze und Nachbildungen der Schwarzen Madonna."
-          },
-          {
-            "name": "Geschäfte in der Allee",
-            "tip": "Eine Mischung aus lokalen Boutiquen und bekannten Marken."
+            "name": "Hala Targowa",
+            "tip": "Lokale Markthalle für frische Produkte und Honig."
           }
         ],
         "hu": [
           {
-            "name": "Ajándékboltok a Jasna Góránál",
-            "tip": "Vallási ikonokat, rózsafüzéreket és a Fekete Madonna másolatait találja itt."
-          },
-          {
-            "name": "Üzletek a sugárúton",
-            "tip": "Helyi butikok és ismert márkák keveréke."
+            "name": "Hala Targowa",
+            "tip": "Helyi piac friss termékekkel és mézzel."
           }
         ],
         "ro": [
           {
-            "name": "Magazine de suveniruri la Jasna Góra",
-            "tip": "Găsiți icoane religioase, rozarii și replici ale Madonei Negre."
-          },
-          {
-            "name": "Magazine pe Bulevard",
-            "tip": "Un amestec de buticuri locale și mărci cunoscute."
+            "name": "Hala Targowa",
+            "tip": "Piață locală pentru produse proaspete și miere."
           }
         ],
         "en": [
           {
-            "name": "Souvenir shops at Jasna Góra",
-            "tip": "Find religious icons, rosaries, and replicas of the Black Madonna."
-          },
-          {
-            "name": "Shops on the Avenue",
-            "tip": "A mix of local boutiques and well-known brands."
+            "name": "Hala Targowa",
+            "tip": "Local market hall for fresh products and honey."
           }
         ]
       },
       "tips": {
         "de": [
-          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
-          "Nutzen Sie Fahrradwege, wo immer möglich.",
-          "Ein gutes Schloss ist unerlässlich, besonders an touristischen Hotspots.",
-          "Planen Sie Ihre Route im Voraus, aber seien Sie bereit für spontane Abstecher."
+          "Die Allee NMP hat separate Radwege.",
+          "Parken Sie Ihr Rad nicht direkt vor Kircheneingängen.",
+          "Częstochowa ist weitgehend flach und fahrradfreundlich."
         ],
         "hu": [
-          "Indulás előtt ellenőrizze a kerékpárját, különösen a fékeket és a gumikat.",
-          "Ahol csak lehetséges, használja a kerékpárutakat.",
-          "Egy jó lakat elengedhetetlen, különösen a turisztikai központokban.",
-          "Tervezze meg előre az útvonalat, de legyen készen spontán kitérőkre."
+          "Az NMP sugárút külön kerékpárúttal rendelkezik.",
+          "Ne parkoljon közvetlenül a templombejáratok előtt.",
+          "Csesztokova nagyrészt sík és kerékpárosbarát."
         ],
         "ro": [
-          "Verificați-vă bicicleta înainte de a pleca, în special frânele și anvelopele.",
-          "Folosiți pistele de biciclete ori de câte ori este posibil.",
-          "Un lacăt bun este esențial, mai ales în zonele turistice aglomerate.",
-          "Planificați-vă traseul în avans, dar fiți pregătiți pentru ocoluri spontane."
+          "Bulevardul NMP are piste de biciclete separate.",
+          "nu parcați bicicleta direct în fața intrărilor în biserici.",
+          "Częstochowa este în mare parte plată și prietenoasă cu bicicliștii."
         ],
         "en": [
-          "Check your bike before setting off, especially the brakes and tires.",
-          "Use bike lanes wherever possible.",
-          "A good lock is essential, especially at tourist hotspots.",
-          "Plan your route in advance, but be prepared for spontaneous detours."
+          "NMP Avenue has separate bicycle paths.",
+          "Do not park your bike directly in front of church entrances.",
+          "Częstochowa is mostly flat and bike-friendly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start am Biegański-Platz erfordert volle Regenmontur. Das Radeln entlang der Alleen ist dank breiter Wege sicher, aber spritzig. Mittags bietet das Zündholzmuseum eine lange, trockene Pause. Nachmittags geht es hinauf zur Jasna Góra, wo die Reifen auf nassem Kopfsteinpflaster geprüft werden. Der Abend endet nach einer schnellen Abfahrt in einer gemütlichen Radler-Ecke.",
+            "hu": "A vizes indulás a Biegański téren teljes esőfelszerelést igényel. A sugárutakon a széles utak miatt biztonságos, de fröcskölős a tekerés. Délben a Gyufagyár nyújt hosszú, száraz pihenőt. Délután a Jasna Górára kaptatunk fel, ahol a vizes macskakő próbára teszi a gumikat. Az este egy gyors legurulás után egy barátságos bringás helyen zárul.",
+            "ro": "Un început umed în Piața Biegański necesită echipament complet de ploaie. Pedalatul pe bulevarde este sigur datorită pistelor late, dar stropitor. La prânz, Muzeul de Chibrituri oferă o pauză lungă și uscată. După-amiaza urcăm la Jasna Góra, unde pavajul ud testează aderența. Seara se încheie într-un loc prietenos pentru bicicliști.",
+            "en": "A wet start at Biegański Square requires full rain gear. Cycling along the avenues is safe but splashy thanks to wide paths. At noon, the Match Factory offers a long, dry break. In the afternoon, we head up to Jasna Góra, where wet cobblestones test the tires. The evening ends after a quick descent in a cozy cyclist-friendly spot."
+          },
+          "stops": [
+            {
+              "name": "Plac Biegańskiego",
+              "tip_4lang": {
+                "de": "Vorsicht beim Anfahren auf nassem Pflaster.",
+                "hu": "Vigyázzon az indulásnál a vizes köveken.",
+                "ro": "Atenție la plecarea de pe loc pe pavajul ud.",
+                "en": "Be careful when starting off on wet pavement."
+              }
+            },
+            {
+              "name": "Katedra św. Rodziny",
+              "tip_4lang": {
+                "de": "Sicherer Fahrradabstellplatz vor dem Eingang.",
+                "hu": "Biztonságos biciklitároló a bejárat előtt.",
+                "ro": "Rastel de biciclete sigur în fața intrării.",
+                "en": "Secure bike rack available in front of the entrance."
+              }
+            },
+            {
+              "name": "Muzeum Zapałek",
+              "tip_4lang": {
+                "de": "Parken Sie unter dem Vordach, falls möglich.",
+                "hu": "Parkoljon az előtető alatt, ha lehetséges.",
+                "ro": "Parcați sub copertină, dacă este posibil.",
+                "en": "Park under the overhang if possible."
+              }
+            },
+            {
+              "name": "Kościół św. Jakuba",
+              "tip_4lang": {
+                "de": "Kurzer Stopp, um die Regenkleidung zu richten.",
+                "hu": "Rövid megálló az esőruha megigazításához.",
+                "ro": "Oprire scurtă pentru a ajusta haina de ploaie.",
+                "en": "Short stop to adjust your rain gear."
+              }
+            },
+            {
+              "name": "Ratusz",
+              "tip_4lang": {
+                "de": "Die Innenstadtwege sind bei Regen gut befahrbar.",
+                "hu": "A belvárosi utak esőben is jól tekerhetők.",
+                "ro": "Drumurile din centru sunt practicabile pe ploaie.",
+                "en": "City center paths are easily navigable in rain."
+              }
+            },
+            {
+              "name": "Jasna Góra",
+              "tip_4lang": {
+                "de": "Vermeiden Sie hastige Bremsmanöver auf dem Hügel.",
+                "hu": "Kerülje a hirtelen fékezést az emelkedőn.",
+                "ro": "Evitați frânarea bruscă pe deal.",
+                "en": "Avoid sudden braking on the hill."
+              }
+            },
+            {
+              "name": "Parki podjasnogórskie",
+              "tip_4lang": {
+                "de": "Achten Sie auf rutschiges Laub auf den Wegen.",
+                "hu": "Ügyeljen a csúszós levelekre az utakon.",
+                "ro": "Atenție la frunzele alunecoase de pe alei.",
+                "en": "Watch out for slippery leaves on the paths."
+              }
+            },
+            {
+              "name": "Aleja NMP",
+              "tip_4lang": {
+                "de": "Nutzen Sie den breiten Mittelstreifen zum Fahren.",
+                "hu": "Használja a széles középső sávot a haladáshoz.",
+                "ro": "Folosiți banda centrală lată pentru deplasare.",
+                "en": "Use the wide central strip for cycling."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bremsen Sie auf nassem Kopfsteinpflaster frühzeitig.",
+              "Nutzen Sie Schutzbleche, um Schlammspritzer zu vermeiden.",
+              "Wählen Sie die Aleja NMP für eine flache, sichere Route.",
+              "Prüfen Sie den Reifendruck für besseren Halt auf Nässe.",
+              "Beleuchtung ist bei trübem Regenwetter Pflicht."
+            ],
+            "hu": [
+              "A vizes macskakövön fékezzen időben.",
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "Válassza az Aleja NMP-t a sík, biztonságos útvonalért.",
+              "Ellenőrizze a guminyomást a jobb tapadásért.",
+              "Szürke, esős időben is kötelező a világítás."
+            ],
+            "ro": [
+              "Frânați din timp pe pavajul umed.",
+              "Folosiți aripi la bicicletă pentru a evita stropirea.",
+              "Alegeți Aleja NMP pentru o rută plană și sigură.",
+              "Verificați presiunea în pneuri pentru aderență pe ud.",
+              "Luminile sunt obligatorii pe vreme ploioasă și mohorâtă."
+            ],
+            "en": [
+              "Brake early on wet cobblestones.",
+              "Use fenders to avoid mud splashes.",
+              "Choose Aleja NMP for a flat, safe route.",
+              "Check tire pressure for better grip on wet surfaces.",
+              "Lights are mandatory in gloomy rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start am frostigen Biegański-Platz lässt die Reifen knirschen. Die Fahrt über die verschneiten Alleen bietet herrliche Winteransichten. Mittags wärmt man sich beim Museumsbesuch gründlich auf. Nachmittags geht es zur Jasna Góra, wo die Auffahrt bei Kälte den Kreislauf in Schwung bringt. Der Abend endet früh bei festlicher Beleuchtung und einem heißen Getränk in der Altstadt.",
+            "hu": "Hűvös indulás a fagyos Biegański téren, a kerekek ropognak a havon. A havas sugárutakon való tekerés csodás téli látványt nyújt. Délben a múzeumlátogatás során alaposan felmelegszünk. Délután a Jasna Góra felé az emelkedő megmozgatja a vérkeringést a hidegben. Az este korán, ünnepi fények és egy forró ital mellett zárul az óvárosban.",
+            "ro": "Un început răcoros în Piața Biegański face cauciucurile să scârțâie pe ger. Pedalatul pe bulevardele înzăpezite oferă vederi de iarnă superbe. La prânz, ne încălzim bine în timpul vizitei la muzeu. După-amiaza, urcarea spre Jasna Góra pune sângele în mișcare pe frig. Seara se încheie devreme cu lumini festive și o băutură caldă.",
+            "en": "A cool start at frosty Biegański Square makes the tires crunch. Cycling through snowy avenues offers wonderful winter views. At noon, warm up thoroughly during the museum visit. In the afternoon, the climb to Jasna Góra gets the circulation going in the cold. The evening ends early with festive lights and a hot drink in the Old Town."
+          },
+          "stops": [
+            {
+              "name": "Plac Biegańskiego",
+              "tip_4lang": {
+                "de": "Achten Sie auf gefrorene Pfützen am Rand.",
+                "hu": "Ügyeljen a széli fagyott tócsákra.",
+                "ro": "Atenție la bălțile înghețate de pe margine.",
+                "en": "Watch out for frozen puddles at the edges."
+              }
+            },
+            {
+              "name": "Katedra św. Rodziny",
+              "tip_4lang": {
+                "de": "Das Metall der Fahrradständer kann sehr kalt sein.",
+                "hu": "A biciklitárolók féme nagyon hideg lehet.",
+                "ro": "Metalul rastelului poate fi foarte rece.",
+                "en": "The metal of bike racks can be very cold."
+              }
+            },
+            {
+              "name": "Muzeum Zapałek",
+              "tip_4lang": {
+                "de": "Stellen Sie das Rad an einem windgeschützten Ort ab.",
+                "hu": "Állítsa a bringát szélvédett helyre.",
+                "ro": "Lăsați bicicleta într-un loc ferit de vânt.",
+                "en": "Park your bike in a wind-sheltered spot."
+              }
+            },
+            {
+              "name": "Kościół św. Jakuba",
+              "tip_4lang": {
+                "de": "Kurze Pause, um die Finger zu bewegen.",
+                "hu": "Rövid szünet az ujjak megmozgatásához.",
+                "ro": "Pauză scurtă pentru a vă mișca degetele.",
+                "en": "Short break to wiggle your fingers."
+              }
+            },
+            {
+              "name": "Ratusz",
+              "tip_4lang": {
+                "de": "Meiden Sie die glatten Granitplatten am Rathaus.",
+                "hu": "Kerülje a csúszós gránitlapokat a városházánál.",
+                "ro": "Evitați plăcile de granit alunecoase de la primărie.",
+                "en": "Avoid the slippery granite slabs near the town hall."
+              }
+            },
+            {
+              "name": "Jasna Góra",
+              "tip_4lang": {
+                "de": "Die Abfahrt im Fahrtwind kann sehr auskühlen.",
+                "hu": "A leguruláskor a menetszél nagyon lehűthet.",
+                "ro": "Coborârea în viteză vă poate răci foarte tare.",
+                "en": "The descent in the wind can be very chilling."
+              }
+            },
+            {
+              "name": "Parki podjasnogórskie",
+              "tip_4lang": {
+                "de": "Die Wege werden oft geräumt, aber Vorsicht vor Eis.",
+                "hu": "Az utakat takarítják, de vigyázzon a jéggel.",
+                "ro": "Aleile sunt curățate, dar atenție la gheață.",
+                "en": "Paths are often cleared, but watch out for ice."
+              }
+            },
+            {
+              "name": "Aleja NMP",
+              "tip_4lang": {
+                "de": "Genießen Sie das Radeln unter dem Lichtertunnel.",
+                "hu": "Élvezze a tekerést a fényalagút alatt.",
+                "ro": "Bucurați-vă de pedalat sub tunelul de lumini.",
+                "en": "Enjoy cycling under the tunnel of lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Streusalz kann die Kette angreifen, nach der Tour reinigen.",
+              "Halten Sie die Fahrtzeiten kurz und planen Sie Aufwärmstopps.",
+              "Vermeiden Sie bei Glätte starke Schräglagen in Kurven.",
+              "Ein Thermosbecher im Flaschenhalter ist Gold wert."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "Az útszóró só kikezdheti a láncot, túra után tisztítsa le.",
+              "Tartsa röviden a menetidőt, tervezzen melegedőket.",
+              "Csúszós úton kerülje a hirtelen kanyarodást.",
+              "Egy termosztartó a kulacstartóban aranyat ér."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și căciulă sub cască.",
+              "Sarea de pe drum poate afecta lanțul, curățați-l după tură.",
+              "Mențineți timpii de mers scurți și planificați opriri de încălzire.",
+              "Evitați înclinările bruște în curbe pe polei.",
+              "Un suport de termos în locul bidonului este ideal."
+            ],
+            "en": [
+              "Wear windproof gloves and a cap under your helmet.",
+              "Road salt can damage the chain; clean it after the tour.",
+              "Keep riding times short and plan warm-up stops.",
+              "Avoid leaning hard into turns if it is slippery.",
+              "A thermos in the bottle cage is worth its weight in gold."
+            ]
+          }
+        }
       }
     },
     "car": {
       "mode": "car",
       "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "18:51",
-      "total_km": 8.4,
+      "end_estimate": "17:45",
+      "total_km": 35.0,
       "stop_count": 7,
       "stops": [
         {
-          "name_4lang": {
-            "de": "Cluster A: Rathaus",
-            "hu": "A csoport: Városháza",
-            "ro": "Cluster A: Primăria",
-            "en": "Cluster A: Town Hall"
+          "name": {
+            "de": "Museum der Streichholzproduktion (Cluster Ost)",
+            "hu": "Gyufagyártási Múzeum",
+            "ro": "Muzeul Producției de Chibrituri",
+            "en": "Museum of Match Production"
           },
           "coords": [
-            19.122,
-            50.8095
+            19.1382,
+            50.8135
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken auf dem Museumshof möglich.",
+            "hu": "Parkolás a múzeum udvarán lehetséges.",
+            "ro": "Parcare disponibilă în curtea muzeului.",
+            "en": "Parking available in the museum courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus (Cluster Zentrum)",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            19.1245,
+            50.8115
           ],
           "category": "squares/old-town",
-          "arrive_at": "09:10",
-          "stay_min": 20,
+          "arrive_at": "11:00",
+          "stay_min": 25,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0,
-          "hop_mode": "car",
+          "hop_from_prev_km": 2.0,
           "tip_5lang": {
-            "de": "Parken Sie in einem nahegelegenen Parkhaus, um den ersten Cluster zu Fuß zu erkunden.",
-            "hu": "Parkoljon egy közeli parkolóházban, hogy gyalog fedezze fel az első látnivalócsoportot.",
-            "ro": "Parcați într-o parcare din apropiere pentru a explora primul cluster pe jos.",
-            "en": "Park in a nearby garage to explore the first cluster on foot."
+            "de": "Nutzen Sie die Parkzone in den Seitenstraßen.",
+            "hu": "Használja az oldalsó utcák parkolási zónáit.",
+            "ro": "Folosiți zona de parcare de pe străzile laterale.",
+            "en": "Use the parking zone in the side streets."
           }
         },
         {
-          "name_4lang": {
-            "de": "Allee der Heiligen Maria",
-            "hu": "Szűz Mária sugárút",
-            "ro": "Bulevardul Sfintei Fecioare Maria",
-            "en": "Avenue of the Holy Virgin Mary"
-          },
-          "coords": [
-            19.115,
-            50.811
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "09:34",
-          "stay_min": 40,
-          "hop_from_prev_min": 4,
-          "hop_from_prev_km": 0.2,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Ein kurzer Spaziergang vom Rathaus. Genießen Sie die Atmosphäre dieser zentralen Promenade.",
-            "hu": "Rövid séta a Városházától. Élvezze a központi sétány hangulatát.",
-            "ro": "O scurtă plimbare de la Primărie. Bucurați-vă de atmosfera acestei promenade centrale.",
-            "en": "A short walk from the Town Hall. Enjoy the atmosphere of this central promenade."
-          }
-        },
-        {
-          "name_4lang": {
+          "name": {
             "de": "Kathedrale der Heiligen Familie",
             "hu": "Szent Család-székesegyház",
             "ro": "Catedrala Sfânta Familie",
             "en": "Cathedral of the Holy Family"
           },
           "coords": [
-            19.125,
-            50.809
+            19.1275,
+            50.8062
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "10:22",
-          "stay_min": 60,
-          "hop_from_prev_min": 8,
-          "hop_from_prev_km": 0.4,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Die Kathedrale liegt ebenfalls in diesem Fußgängercluster.",
-            "hu": "A székesegyház szintén ebben a gyalogos zónában található.",
-            "ro": "Catedrala se află, de asemenea, în acest cluster pietonal.",
-            "en": "The Cathedral is also within this walking cluster."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Cluster B: Museum der Streichholzproduktion",
-            "hu": "B csoport: Gyufagyártási Múzeum",
-            "ro": "Cluster B: Muzeul Producției de Chibrituri",
-            "en": "Cluster B: Museum of Match Production"
-          },
-          "coords": [
-            19.135,
-            50.805
-          ],
-          "category": "industrial heritage",
-          "arrive_at": "11:32",
-          "stay_min": 80,
+          "arrive_at": "11:35",
+          "stay_min": 75,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 2.5,
-          "hop_mode": "car",
+          "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Fahren Sie zum nächsten Cluster. Hier gibt es normalerweise Parkplätze in der Nähe.",
-            "hu": "Vezessen a következő látnivalócsoporthoz. Itt általában van parkoló a közelben.",
-            "ro": "Conduceți la următorul cluster. De obicei, există parcare în apropiere.",
-            "en": "Drive to the next cluster. There is usually parking available nearby."
+            "de": "Zu Fuß vom Rathaus erreichbar (Walk-Cluster).",
+            "hu": "Gyalogosan elérhető a városházától.",
+            "ro": "Accesibil pe jos de la primărie.",
+            "en": "Accessible on foot from the Town Hall."
           }
         },
         {
-          "name_4lang": {
-            "de": "Museum des Eisenerzbergbaus",
-            "hu": "Vasércbányászati Múzeum",
-            "ro": "Muzeul Mineritului de Minereu de Fier",
-            "en": "Museum of Iron Ore Mining"
+          "name": {
+            "de": "Burg Olsztyn (Ausflug)",
+            "hu": "Olsztyn vára (kirándulás)",
+            "ro": "Castelul Olsztyn (excursie)",
+            "en": "Olsztyn Castle (trip)"
           },
           "coords": [
-            19.12,
-            50.825
+            19.2735,
+            50.7505
           ],
-          "category": "museums",
-          "arrive_at": "13:08",
-          "stay_min": 100,
-          "hop_from_prev_min": 16,
-          "hop_from_prev_km": 3,
-          "hop_mode": "car",
+          "category": "historical",
+          "arrive_at": "13:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 16.0,
           "tip_5lang": {
-            "de": "Eine weitere kurze Fahrt zu einem faszinierenden unterirdischen Erlebnis.",
-            "hu": "Újabb rövid autóút egy lenyűgöző földalatti élményhez.",
-            "ro": "O altă scurtă călătorie cu mașina pentru o experiență subterană fascinantă.",
-            "en": "Another short drive to a fascinating underground experience."
+            "de": "Imposante Burgruine auf dem Jura-Kalkstein.",
+            "hu": "Lenyűgöző várrom a jura mészkősziklákon.",
+            "ro": "Ruine impunătoare de castel pe calcarul din Jura.",
+            "en": "Imposing castle ruins on the Jura limestone."
           }
         },
         {
-          "name_4lang": {
-            "de": "Cluster C: Kloster Jasna Góra",
-            "hu": "C csoport: Jasna Góra-i kolostor",
-            "ro": "Cluster C: Mănăstirea Jasna Góra",
-            "en": "Cluster C: Jasna Góra Monastery"
+          "name": {
+            "de": "Kloster Jasna Góra (Cluster West)",
+            "hu": "Jasna Góra kolostor",
+            "ro": "Mănăstirea Jasna Góra",
+            "en": "Jasna Góra Monastery"
           },
           "coords": [
-            19.097,
-            50.813
+            19.0972,
+            50.8125
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "15:02",
-          "stay_min": 120,
-          "hop_from_prev_min": 14,
-          "hop_from_prev_km": 2,
-          "hop_mode": "car",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 15.0,
           "tip_5lang": {
-            "de": "Der Höhepunkt des Tages. Es gibt große Parkplätze für Besucher.",
-            "hu": "A nap fénypontja. Nagy parkolók állnak a látogatók rendelkezésére.",
-            "ro": "Punctul culminant al zilei. Există parcări mari pentru vizitatori.",
-            "en": "The highlight of the day. There are large parking lots for visitors."
+            "de": "Großer Pilgerparkplatz direkt unterhalb des Klosters.",
+            "hu": "Nagy zarándokparkoló közvetlenül a kolostor alatt.",
+            "ro": "Parcare mare pentru pelerini chiar sub mănăstire.",
+            "en": "Large pilgrim parking lot right below the monastery."
           }
         },
         {
-          "name_4lang": {
+          "name": {
             "de": "Staszic-Park",
-            "hu": "Staszic-park",
+            "hu": "Staszic Park",
             "ro": "Parcul Staszic",
             "en": "Staszic Park"
           },
           "coords": [
-            19.1,
-            50.815
+            19.1005,
+            50.8115
           ],
           "category": "parks/promenades/beaches",
-          "arrive_at": "17:08",
-          "stay_min": 75,
-          "hop_from_prev_min": 6,
-          "hop_from_prev_km": 0.3,
-          "hop_mode": "walk",
+          "arrive_at": "17:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Lassen Sie das Auto stehen und gehen Sie für einen entspannten Abschluss in den Park.",
-            "hu": "Hagyja az autót, és sétáljon el a parkba egy pihentető befejezésért.",
-            "ro": "Lăsați mașina și faceți o plimbare în parc pentru o încheiere relaxantă.",
-            "en": "Leave the car and walk to the park for a relaxing conclusion."
+            "de": "Ein schöner Abschluss des Tages im Grünen.",
+            "hu": "A nap szép lezárása a zöldben.",
+            "ro": "O încheiere frumoasă a zilei în natură.",
+            "en": "A nice end to the day in the greenery."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Mit dem Auto können Sie Tschenstochau in thematischen Clustern erkunden. Der Morgen beginnt im Stadtzentrum, wo Sie das Rathaus und die berühmte Allee zu Fuß entdecken. Anschließend fahren Sie zum Museumscluster, um in die einzigartige Welt der Streichholzherstellung und des Bergbaus einzutauchen. Der Nachmittag ist für den unbestrittenen Höhepunkt reserviert: das Kloster Jasna Góra. Parken Sie Ihr Auto und nehmen Sie sich Zeit für diesen spirituellen Ort und den angrenzenden Park, bevor Sie den Tag beenden.",
-        "hu": "Autóval tematikus csoportokban fedezheti fel Częstochowát. A reggel a városközpontban kezdődik, ahol gyalogosan fedezi fel a Városházát és a híres sugárutat. Ezután a múzeumi negyedbe hajt, hogy elmerüljön a gyufagyártás és a bányászat egyedülálló világában. A délután a vitathatatlan csúcspontra van fenntartva: a Jasna Góra-i kolostorra. Parkolja le az autóját, és szánjon időt erre a spirituális helyre és a szomszédos parkra, mielőtt befejezné a napot.",
-        "ro": "Cu mașina, puteți explora Częstochowa în clustere tematice. Dimineața începe în centrul orașului, unde descoperiți Primăria și faimosul Bulevard pe jos. Apoi, conduceți la clusterul muzeal pentru a vă cufunda în lumea unică a producției de chibrituri și a mineritului. După-amiaza este rezervată pentru punctul culminant de necontestat: Mănăstirea Jasna Góra. Parcați mașina și acordați-vă timp pentru acest loc spiritual și parcul adiacent înainte de a încheia ziua.",
-        "en": "By car, you can explore Częstochowa in thematic clusters. The morning begins in the city center, where you'll discover the Town Hall and the famous Avenue on foot. Then, you'll drive to the museum cluster to immerse yourself in the unique world of match production and mining. The afternoon is reserved for the undisputed highlight: the Jasna Góra Monastery. Park your car and take your time for this spiritual place and the adjacent park before ending your day."
+        "de": "Mit dem Auto kombinieren Sie die Highlights von Częstochowa mit der dramatischen Ruine der Burg Olsztyn. Nach dem Besuch der Streichholzfabrik und der Altstadt fahren Sie hinaus in die malerische Jura-Landschaft, bevor Sie den Tag am heiligen Berg Jasna Góra ausklingen lassen.",
+        "hu": "Autóval kombinálhatja Csesztokova látnivalóit az olsztyni vár drámai romjaival. A gyufagyár és az óváros megtekintése után kihajthat a festői Jura vidékére, mielőtt a napot a szent Jasna Góra-hegyen fejezné be.",
+        "ro": "Cu mașina, combinați punctele de atracție din Częstochowa cu ruinele dramatice ale castelului Olsztyn. După vizitarea fabricii de chibrituri și a centrului vechi, conduceți spre peisajul pitoresc din Jura, înainte de a încheia ziua pe muntele sfânt Jasna Góra.",
+        "en": "By car, you combine the highlights of Częstochowa with the dramatic ruins of Olsztyn Castle. After visiting the match factory and the old town, drive out into the picturesque Jura landscape before ending the day at the holy Jasna Góra mountain."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Pierogi",
-            "tip": "Probieren Sie die klassischen gefüllten Teigtaschen, besonders die 'Ruskie' mit Kartoffeln und Käse."
-          },
-          {
-            "name": "Żurek",
-            "tip": "Eine traditionelle Sauermehlsuppe, oft mit Wurst und Ei serviert. Herzhaft und köstlich."
-          },
-          {
-            "name": "Restauracja Gospoda",
-            "tip": "Ein Restaurant mit traditioneller polnischer Küche in der Nähe der Allee."
+            "name": "Restauracja Spichlerz",
+            "tip": "Probieren Sie Ente oder Wildschwein in historischem Ambiente."
           }
         ],
         "hu": [
           {
-            "name": "Pierogi",
-            "tip": "Kóstolja meg a klasszikus töltött táskákat, különösen a 'ruskie'-t burgonyával és túróval."
-          },
-          {
-            "name": "Żurek",
-            "tip": "Hagyományos savanyú leves, gyakran kolbásszal és tojással tálalva. Kiadós és finom."
-          },
-          {
-            "name": "Gospoda Étterem",
-            "tip": "Hagyományos lengyel ételeket kínáló étterem a sugárút közelében."
+            "name": "Restauracja Spichlerz",
+            "tip": "Kóstolja meg a kacsát vagy vaddisznót történelmi környezetben."
           }
         ],
         "ro": [
           {
-            "name": "Pierogi",
-            "tip": "Încercați găluștele umplute clasice, în special 'ruskie' cu cartofi și brânză."
-          },
-          {
-            "name": "Żurek",
-            "tip": "O supă acră tradițională, adesea servită cu cârnați și ou. consistentă și delicioasă."
-          },
-          {
-            "name": "Restaurant Gospoda",
-            "tip": "Un restaurant cu bucătărie tradițională poloneză lângă bulevard."
+            "name": "Restauracja Spichlerz",
+            "tip": "Încercați rața sau mistrețul într-o ambianță istorică."
           }
         ],
         "en": [
           {
-            "name": "Pierogi",
-            "tip": "Try the classic filled dumplings, especially the 'Ruskie' with potatoes and cheese."
-          },
-          {
-            "name": "Żurek",
-            "tip": "A traditional sour rye soup, often served with sausage and egg. Hearty and delicious."
-          },
-          {
-            "name": "Gospoda Restaurant",
-            "tip": "A restaurant with traditional Polish cuisine near the Avenue."
+            "name": "Restauracja Spichlerz",
+            "tip": "Try duck or wild boar in a historical setting."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Staszic-Park",
-            "tip": "Ein friedlicher Rückzugsort direkt neben dem belebten Jasna Góra.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Gärten von Jasna Góra",
-            "tip": "Die inneren Gärten des Klosters bieten Momente der stillen Kontemplation.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Blick vom Klosterturm",
-            "tip": "Genießen Sie die weite Aussicht über die Stadt in relativer Ruhe.",
+            "name": "Burgberg Olsztyn",
+            "tip": "Panoramablick über die weiten Wälder des Jura.",
             "emoji": "🌅"
           }
         ],
         "hu": [
           {
-            "name": "Staszic-park",
-            "tip": "Békés menedék a nyüzsgő Jasna Góra mellett.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Jasna Góra kertjei",
-            "tip": "A kolostor belső kertjei a csendes elmélkedés pillanatait kínálják.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Kilátás a kolostor tornyából",
-            "tip": "Élvezze a városra nyíló széles kilátást viszonylagos nyugalomban.",
+            "name": "Olsztyni várhegy",
+            "tip": "Panorámás kilátás a Jura hatalmas erdőire.",
             "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Parcul Staszic",
-            "tip": "Un refugiu pașnic chiar lângă aglomerata Jasna Góra.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Grădinile de la Jasna Góra",
-            "tip": "Grădinile interioare ale mănăstirii oferă momente de contemplație tăcută.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Vedere din turnul mănăstirii",
-            "tip": "Bucurați-vă de vederea panoramică asupra orașului într-o liniște relativă.",
+            "name": "Dealul Castelului Olsztyn",
+            "tip": "Vedere panoramică peste pădurile vaste din Jura.",
             "emoji": "🌅"
           }
         ],
         "en": [
           {
-            "name": "Staszic Park",
-            "tip": "A peaceful retreat right next to the bustling Jasna Góra.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Jasna Góra Gardens",
-            "tip": "The inner gardens of the monastery offer moments of quiet contemplation.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "View from the Monastery Tower",
-            "tip": "Enjoy the wide view over the city in relative tranquility.",
+            "name": "Olsztyn Castle Hill",
+            "tip": "Panoramic view over the vast forests of Jura.",
             "emoji": "🌅"
           }
         ]
@@ -1106,426 +1193,706 @@
       "shopping_picks": {
         "de": [
           {
-            "name": "Souvenirläden bei Jasna Góra",
-            "tip": "Finden Sie religiöse Ikonen, Rosenkränze und Nachbildungen der Schwarzen Madonna."
-          },
-          {
-            "name": "Geschäfte in der Allee",
-            "tip": "Eine Mischung aus lokalen Boutiquen und bekannten Marken."
+            "name": "Galeria Jurajska",
+            "tip": "Großes Einkaufszentrum mit vielen polnischen Marken."
           }
         ],
         "hu": [
           {
-            "name": "Ajándékboltok a Jasna Góránál",
-            "tip": "Vallási ikonokat, rózsafüzéreket és a Fekete Madonna másolatait találja itt."
-          },
-          {
-            "name": "Üzletek a sugárúton",
-            "tip": "Helyi butikok és ismert márkák keveréke."
+            "name": "Galeria Jurajska",
+            "tip": "Nagy bevásárlóközpont számos lengyel márkával."
           }
         ],
         "ro": [
           {
-            "name": "Magazine de suveniruri la Jasna Góra",
-            "tip": "Găsiți icoane religioase, rozarii și replici ale Madonei Negre."
-          },
-          {
-            "name": "Magazine pe Bulevard",
-            "tip": "Un amestec de buticuri locale și mărci cunoscute."
+            "name": "Galeria Jurajska",
+            "tip": "Centru comercial mare cu multe branduri poloneze."
           }
         ],
         "en": [
           {
-            "name": "Souvenir shops at Jasna Góra",
-            "tip": "Find religious icons, rosaries, and replicas of the Black Madonna."
-          },
-          {
-            "name": "Shops on the Avenue",
-            "tip": "A mix of local boutiques and well-known brands."
+            "name": "Galeria Jurajska",
+            "tip": "Large shopping center with many Polish brands."
           }
         ]
       },
       "tips": {
         "de": [
-          "Nutzen Sie Navigations-Apps, um Parkplätze in der Nähe der Cluster-Zentren zu finden.",
-          "Achten Sie auf Parkgebühren und -beschränkungen.",
-          "Die Cluster-Walking-Methode spart Zeit und Stress bei der Parkplatzsuche.",
-          "Planen Sie etwas Pufferzeit für den Verkehr zwischen den Clustern ein."
+          "In Olsztyn gibt es ausreichend Parkplätze am Fuße der Burg.",
+          "Parken im Zentrum ist an Werktagen gebührenpflichtig.",
+          "Die Fahrt nach Olsztyn dauert nur etwa 20 Minuten."
         ],
         "hu": [
-          "Használjon navigációs alkalmazásokat, hogy parkolóhelyet találjon a látnivalócsoportok központjainak közelében.",
-          "Figyeljen a parkolási díjakra és korlátozásokra.",
-          "A csoportos séta módszer időt és stresszt takarít meg a parkolóhely keresésénél.",
-          "Tervezzen be némi pufferidőt a csoportok közötti közlekedésre."
+          "Olsztynban bőséges parkolóhely áll rendelkezésre a vár lábánál.",
+          "A központban a parkolás hétköznapokon fizetős.",
+          "Az út Olsztynba mindössze 20 percet vesz igénybe."
         ],
         "ro": [
-          "Folosiți aplicații de navigație pentru a găsi parcări în apropierea centrelor clusterelor.",
-          "Fiți atenți la taxele și restricțiile de parcare.",
-          "Metoda de plimbare în cluster economisește timp și stres în căutarea unui loc de parcare.",
-          "Planificați un timp tampon pentru traficul dintre clustere."
+          "În Olsztyn există locuri de parcare suficiente la poalele castelului.",
+          "Parcarea în centru este cu plată în zilele lucrătoare.",
+          "Drumul până la Olsztyn durează doar aproximativ 20 de minute."
         ],
         "en": [
-          "Use navigation apps to find parking near the cluster centers.",
-          "Pay attention to parking fees and restrictions.",
-          "The cluster-walking method saves time and stress from finding parking.",
-          "Plan some buffer time for traffic between clusters."
+          "There is ample parking at the foot of the castle in Olsztyn.",
+          "Parking in the center is paid on weekdays.",
+          "The drive to Olsztyn takes only about 20 minutes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt bequem im Auto am nassen Biegański-Platz. Dank kurzer Wege zwischen den Sehenswürdigkeiten bleibt man weitgehend trocken. Mittags bietet das Zündholzmuseum einen sicheren Parkplatz und Schutz. Nachmittags führt die Fahrt zur Jasna Góra, wo man bis nah an die Klostertore fahren kann. Der Abend endet bei einer entspannten Fahrt durch die verregneten, aber beleuchteten Straßen.",
+            "hu": "A nap kényelmesen indul autóval a vizes Biegański téren. A látnivalók közötti rövid távoknak köszönhetően szárazak maradunk. Délben a Gyufagyár biztonságos parkolást és védelmet nyújt. Délután a Jasna Górához autózunk, ahol egészen a kolostorkapuk közeléig lehet jutni. Az este pihentető autózással zárul az esős, de kivilágított utcákon.",
+            "ro": "Ziua începe confortabil cu mașina în Piața Biegański umedă. Datorită distanțelor scurte între obiective, veți rămâne uscați. La prânz, Muzeul de Chibrituri oferă parcare sigură și adăpost. După-amiaza, drumul duce la Jasna Góra, unde puteți parca aproape de porțile mănăstirii. Seara se încheie cu o plimbare relaxată pe străzile ploioase.",
+            "en": "The day begins comfortably by car at the wet Biegański Square. Thanks to short distances between sights, you stay mostly dry. At noon, the Match Factory offers safe parking and shelter. In the afternoon, the drive leads to Jasna Góra, where you can park close to the monastery gates. The evening ends with a relaxed drive through the rainy but illuminated streets."
+          },
+          "stops": [
+            {
+              "name": "Plac Biegańskiego",
+              "tip_4lang": {
+                "de": "Parkplätze direkt am Platz sind bei Regen oft belegt.",
+                "hu": "A közvetlen téri parkolók esőben hamar betelnek.",
+                "ro": "Parcările de lângă piață sunt adesea ocupate pe ploaie.",
+                "en": "Parking spots right at the square are often full when it rains."
+              }
+            },
+            {
+              "name": "Park im. Staszica",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Parkplatz an der ul. 3 Maja.",
+                "hu": "Használja az ul. 3 Maja melletti parkolót.",
+                "ro": "Folosiți parcarea de pe strada 3 Maja.",
+                "en": "Use the parking lot on 3 Maja Street."
+              }
+            },
+            {
+              "name": "Kościół św. Zygmunta",
+              "tip_4lang": {
+                "de": "Kurzer Stopp möglich, achten Sie auf die Einbahnstraßen.",
+                "hu": "Rövid megálló lehetséges, figyeljen az egyirányú utcákra.",
+                "ro": "Oprire scurtă posibilă, atenție la străzile cu sens unic.",
+                "en": "Short stop possible; watch out for one-way streets."
+              }
+            },
+            {
+              "name": "Muzeum Produkcji Zapałek",
+              "tip_4lang": {
+                "de": "Das Museum hat einen eigenen, praktischen Parkhof.",
+                "hu": "A múzeumnak saját, praktikus parkolóudvara van.",
+                "ro": "Muzeul are o curte proprie practică pentru parcare.",
+                "en": "The museum has its own convenient parking courtyard."
+              }
+            },
+            {
+              "name": "Ratusz / Galeria",
+              "tip_4lang": {
+                "de": "Die Tiefgaragen in der Nähe bieten trockenen Zugang.",
+                "hu": "A közeli mélygarázsok száraz kijutást biztosítanak.",
+                "ro": "Parcările subterane din apropiere oferă acces uscat.",
+                "en": "Nearby underground car parks offer dry access."
+              }
+            },
+            {
+              "name": "Jasna Góra",
+              "tip_4lang": {
+                "de": "Großer Parkplatz auf der Westseite des Klosters.",
+                "hu": "Nagy parkoló a kolostor nyugati oldalán.",
+                "ro": "Parcare mare pe latura de vest a mănăstirii.",
+                "en": "Large parking lot available on the west side of the monastery."
+              }
+            },
+            {
+              "name": "Park pod Jasną Górą",
+              "tip_4lang": {
+                "de": "Ideal für einen schnellen Fotostopp aus dem Auto.",
+                "hu": "Ideális egy gyors fotómegállóhoz az autóból.",
+                "ro": "Ideal pentru o scurtă oprire foto din mașină.",
+                "en": "Ideal for a quick photo stop from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Aleja Wojska Polskiego.",
+              "Parken Sie in der Nähe der Eingänge, um Regen zu meiden.",
+              "Nutzen Sie die Scheibenheizung gegen Beschlagen bei Feuchtigkeit.",
+              "Die Aleja NMP ist teilweise für den Durchgangsverkehr gesperrt.",
+              "Haben Sie Kleingeld für die Parkautomaten bereit."
+            ],
+            "hu": [
+              "Vigyázzon a vízenúszásra az Aleja Wojska Polskiego úton.",
+              "Parkoljon a bejáratok közelében, hogy elkerülje az esőt.",
+              "Használja a szélvédőfűtést a párásodás ellen.",
+              "Az Aleja NMP részben le van zárva az átmenő forgalom előtt.",
+              "Legyen aprópénze a parkolóautomatákhoz."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe bulevardul Wojska Polskiego.",
+              "Parcați aproape de intrări pentru a evita ploaia.",
+              "Folosiți dezaburirea parbrizului pe vreme umedă.",
+              "Aleja NMP este parțial închisă traficului de tranzit.",
+              "Aveți mărunțiș pregătit pentru automatele de parcare."
+            ],
+            "en": [
+              "Watch out for aquaplaning on Wojska Polskiego Avenue.",
+              "Park close to entrances to minimize time in the rain.",
+              "Use the windshield heater to prevent fogging in humid weather.",
+              "Aleja NMP is partially closed to through traffic.",
+              "Have small change ready for the parking meters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein warmer Start im beheizten Auto führt zum frostigen Biegański-Platz. Die Fahrt durch das winterliche Tschenstochau ist sicher und komfortabel. Mittags bietet das Zündholzmuseum einen interessanten Stopp ohne langes Frieren. Nachmittags geht es hinauf zur Jasna Góra, wo die Parkplätze oft geräumt sind. Der Abend endet mit einer gemütlichen Fahrt entlang der festlich beleuchteten Hauptallee.",
+            "hu": "A meleg autóban induló nap a fagyos Biegański térre vezet. A téli Częstochowán való átutazás biztonságos és kényelmes. Délben a Gyufagyár érdekes megálló hosszas fagyoskodás nélkül. Délután a Jasna Górához autózunk, ahol a parkolókat általában takarítják. Az este kényelmes kocsikázással zárul az ünnepi fényekbe öltözött sugárúton.",
+            "ro": "O dimineață caldă în mașină duce spre Piața Biegański înghețată. Drumul prin Częstochowa de iarnă este sigur și confortabil. La prânz, Muzeul de Chibrituri oferă o oprire interesantă fără a îngheța afară. După-amiaza, urcăm la Jasna Góra, unde parcările sunt de obicei deszăpezite. Seara se încheie cu o plimbare prin orașul iluminat festiv.",
+            "en": "A warm start in a heated car leads to the frosty Biegański Square. Driving through wintry Częstochowa is safe and comfortable. At noon, the Match Factory offers an interesting stop without a long freeze. In the afternoon, head up to Jasna Góra, where parking lots are usually cleared. The evening ends with a cozy drive along the festively lit main avenue."
+          },
+          "stops": [
+            {
+              "name": "Plac Biegańskiego",
+              "tip_4lang": {
+                "de": "Vorsicht beim Einparken auf festgefahrenem Schnee.",
+                "hu": "Vigyázzon a parkolásnál a letaposott havon.",
+                "ro": "Atenție la parcare pe zăpada bătătorită.",
+                "en": "Be careful when parking on packed snow."
+              }
+            },
+            {
+              "name": "Park im. Staszica",
+              "tip_4lang": {
+                "de": "Der Parkplatz kann bei Glätte tückisch sein.",
+                "hu": "A parkoló jegesedéskor trükkös lehet.",
+                "ro": "Parcarea poate fi înșelătoare pe polei.",
+                "en": "The parking lot can be tricky when it's icy."
+              }
+            },
+            {
+              "name": "Kościół św. Zygmunta",
+              "tip_4lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil staționând.",
+                "en": "Avoid idling the engine unnecessarily while stopped."
+              }
+            },
+            {
+              "name": "Muzeum Produkcji Zapałek",
+              "tip_4lang": {
+                "de": "Gut erreichbar, auch bei schwierigen Straßenverhältnissen.",
+                "hu": "Jól megközelíthető nehéz útviszonyok között is.",
+                "ro": "Ușor accesibil chiar și în condiții grele de drum.",
+                "en": "Easily accessible even in difficult road conditions."
+              }
+            },
+            {
+              "name": "Ratusz / Galeria",
+              "tip_4lang": {
+                "de": "Kurze Wege vom Auto ins warme Museum.",
+                "hu": "Rövid út az autótól a meleg múzeumig.",
+                "ro": "Distanță scurtă de la mașină la muzeul cald.",
+                "en": "Short distances from the car to the warm museum."
+              }
+            },
+            {
+              "name": "Jasna Góra",
+              "tip_4lang": {
+                "de": "Die Auffahrt zum Parkplatz wird meist gut gestreut.",
+                "hu": "A parkolóhoz vezető utat általában jól szórják.",
+                "ro": "Urcarea spre parcare este de obicei bine dezapezită.",
+                "en": "The drive up to the parking lot is usually well-sanded."
+              }
+            },
+            {
+              "name": "Park pod Jasną Górą",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf die verschneite Anlage.",
+                "hu": "Élvezze a kilátást a havas parkra.",
+                "ro": "Bucurați-vă de vederea parcului înzăpezit.",
+                "en": "Enjoy the view of the snow-covered grounds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Tschenstochau absolut notwendig.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche ein.",
+              "Vorsicht vor Räumfahrzeugen in den engen Seitenstraßen.",
+              "Nutzen Sie Sitzheizung für schnellen Komfort nach den Stopps."
+            ],
+            "hu": [
+              "A téli gumi abszolút kötelező Częstochowában.",
+              "Töltsön fagyállót a szélvédőmosóba.",
+              "Tervezzen több időt a parkolóhely keresésére.",
+              "Vigyázzon a hókotrókra a szűk mellékutcákban.",
+              "Használja az ülésfűtést a megállók utáni gyors komfortért."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt absolut necesare în Częstochowa.",
+              "Puneți antigel în lichidul de parbriz.",
+              "Planificați mai mult timp pentru găsirea unui loc de parcare.",
+              "Atenție la utilajele de deszăpezire pe străzile înguste.",
+              "Folosiți încălzirea în scaune pentru confort rapid după opriri."
+            ],
+            "en": [
+              "Winter tires are absolutely necessary in Częstochowa.",
+              "Fill up with anti-freeze windshield washer fluid.",
+              "Allow extra time for finding a parking spot.",
+              "Watch out for snow plows in narrow side streets.",
+              "Use seat heaters for quick comfort after your stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "18:24",
-      "total_km": 6.8,
+      "end_estimate": "17:30",
+      "total_km": 6.5,
       "stop_count": 6,
       "stops": [
         {
-          "name_4lang": {
-            "de": "Cluster A: Kloster Jasna Góra",
-            "hu": "A csoport: Jasna Góra-i kolostor",
-            "ro": "Cluster A: Mănăstirea Jasna Góra",
-            "en": "Cluster A: Jasna Góra Monastery"
-          },
-          "coords": [
-            19.097,
-            50.813
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "09:10",
-          "stay_min": 120,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0,
-          "hop_mode": "transit",
-          "tip_5lang": {
-            "de": "Nehmen Sie einen Bus direkt nach Jasna Góra, um den Tag am wichtigsten Ort zu beginnen.",
-            "hu": "Menjen busszal egyenesen a Jasna Górához, hogy a napot a legfontosabb helyen kezdje.",
-            "ro": "Luați un autobuz direct la Jasna Góra pentru a începe ziua în cel mai important loc.",
-            "en": "Take a bus directly to Jasna Góra to start your day at the most important site."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Staszic-Park",
-            "hu": "Staszic-park",
-            "ro": "Parcul Staszic",
-            "en": "Staszic Park"
-          },
-          "coords": [
-            19.1,
-            50.815
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "11:14",
-          "stay_min": 45,
-          "hop_from_prev_min": 4,
-          "hop_from_prev_km": 0.2,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Ein kurzer Spaziergang vom Kloster für eine ruhige Pause.",
-            "hu": "Rövid séta a kolostortól egy csendes pihenőre.",
-            "ro": "O scurtă plimbare de la mănăstire pentru o pauză liniștită.",
-            "en": "A short walk from the monastery for a quiet break."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Cluster B: Allee der Heiligen Maria",
-            "hu": "B csoport: Szűz Mária sugárút",
-            "ro": "Cluster B: Bulevardul Sfintei Fecioare Maria",
-            "en": "Cluster B: Avenue of the Holy Virgin Mary"
-          },
-          "coords": [
-            19.115,
-            50.811
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "12:13",
-          "stay_min": 60,
-          "hop_from_prev_min": 14,
-          "hop_from_prev_km": 2.5,
-          "hop_mode": "transit",
-          "tip_5lang": {
-            "de": "Nehmen Sie einen Bus ins Stadtzentrum. Steigen Sie an der Allee aus und erkunden Sie sie.",
-            "hu": "Menjen busszal a városközpontba. Szálljon le a sugárúton, és fedezze fel.",
-            "ro": "Luați un autobuz spre centrul orașului. Coborâți la bulevard și explorați-l.",
-            "en": "Take a bus to the city center. Get off at the Avenue and explore."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Rathaus",
-            "hu": "Városháza",
-            "ro": "Primăria",
-            "en": "Town Hall"
-          },
-          "coords": [
-            19.122,
-            50.8095
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "13:21",
-          "stay_min": 30,
-          "hop_from_prev_min": 8,
-          "hop_from_prev_km": 0.4,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Am Ende der Allee finden Sie das Rathaus und den alten Marktplatz.",
-            "hu": "A sugárút végén találja a Városházát és a régi piacteret.",
-            "ro": "La capătul bulevardului veți găsi Primăria și piața veche.",
-            "en": "At the end of the Avenue, you'll find the Town Hall and the old market square."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Cluster C: Museum des Eisenerzbergbaus",
-            "hu": "C csoport: Vasércbányászati Múzeum",
-            "ro": "Cluster C: Muzeul Mineritului de Minereu de Fier",
-            "en": "Cluster C: Museum of Iron Ore Mining"
-          },
-          "coords": [
-            19.12,
-            50.825
-          ],
-          "category": "museums",
-          "arrive_at": "14:11",
-          "stay_min": 90,
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 2.2,
-          "hop_mode": "transit",
-          "tip_5lang": {
-            "de": "Eine weitere Busfahrt bringt Sie zu diesem einzigartigen unterirdischen Museum.",
-            "hu": "Egy újabb buszozás elviszi ehhez az egyedülálló földalatti múzeumhoz.",
-            "ro": "O altă călătorie cu autobuzul vă duce la acest muzeu subteran unic.",
-            "en": "Another bus ride takes you to this unique underground museum."
-          }
-        },
-        {
-          "name_4lang": {
+          "name": {
             "de": "Kathedrale der Heiligen Familie",
             "hu": "Szent Család-székesegyház",
             "ro": "Catedrala Sfânta Familie",
             "en": "Cathedral of the Holy Family"
           },
           "coords": [
-            19.125,
-            50.809
+            19.1275,
+            50.8062
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "16:08",
-          "stay_min": 60,
-          "hop_from_prev_min": 27,
-          "hop_from_prev_km": 1.5,
-          "hop_mode": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Die letzte Fahrt des Tages führt Sie zur beeindruckenden Kathedrale.",
-            "hu": "A nap utolsó útja a lenyűgöző székesegyházhoz vezet.",
-            "ro": "Ultima călătorie a zilei vă duce la impunătoarea catedrală.",
-            "en": "The last ride of the day takes you to the impressive cathedral."
+            "de": "In der Nähe des Hauptbahnhofs gelegen.",
+            "hu": "A főpályaudvar közelében található.",
+            "ro": "Situată în apropierea gării principale.",
+            "en": "Located near the main train station."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus & St. Jakobs",
+            "hu": "Városháza és Szent Jakab-templom",
+            "ro": "Primăria și Sf. Iacob",
+            "en": "Town Hall & St. James"
+          },
+          "coords": [
+            19.1245,
+            50.8115
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Bus oder der Straßenbahn zum Plac Biegańskiego.",
+            "hu": "Menjen busszal vagy villamossal a Plac Biegańskiego-ig.",
+            "ro": "Luați autobuzul sau tramvaiul până la Plac Biegańskiego.",
+            "en": "Take a bus or tram to Plac Biegańskiego."
+          }
+        },
+        {
+          "name": {
+            "de": "Allee der Heiligen Maria",
+            "hu": "Szűz Mária sugárút",
+            "ro": "Bulevardul Sfânta Maria",
+            "en": "Holy Virgin Mary Avenue"
+          },
+          "coords": [
+            19.112,
+            50.8118
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Zu Fuß erkunden, während man Richtung Westen geht.",
+            "hu": "Fedezze fel gyalog, miközben nyugat felé halad.",
+            "ro": "Explorați pe jos în timp ce mergeți spre vest.",
+            "en": "Explore on foot while walking westward."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Jasna Góra",
+            "hu": "Jasna Góra kolostor",
+            "ro": "Mănăstirea Jasna Góra",
+            "en": "Jasna Góra Monastery"
+          },
+          "coords": [
+            19.0972,
+            50.8125
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Bus direkt bis zum Klosterberg.",
+            "hu": "Használja a buszt közvetlenül a kolostorhegyig.",
+            "ro": "Folosiți autobuzul direct până la muntele mănăstirii.",
+            "en": "Use the bus directly to the monastery hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Eisenerzbergbaus",
+            "hu": "Vasércbányászati Múzeum",
+            "ro": "Muzeul Mineritului de Minereu de Fier",
+            "en": "Iron Ore Mining Museum"
+          },
+          "coords": [
+            19.1002,
+            50.811
+          ],
+          "category": "museums",
+          "arrive_at": "14:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Fußweg vom Kloster entfernt.",
+            "hu": "Csak rövid séta a kolostortól.",
+            "ro": "Doar o scurtă plimbare de la mănăstire.",
+            "en": "Just a short walk from the monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Staszic-Park",
+            "hu": "Staszic Park",
+            "ro": "Parcul Staszic",
+            "en": "Staszic Park"
+          },
+          "coords": [
+            19.1005,
+            50.8115
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "16:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vom Park aus erreichen Sie leicht Busverbindungen zurück.",
+            "hu": "A parktól könnyen elérhetők a visszavezető buszjáratok.",
+            "ro": "Din parc aveți acces ușor la autobuzele de întoarcere.",
+            "en": "From the park, you can easily reach return bus connections."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Mit öffentlichen Verkehrsmitteln erleben Sie Tschenstochau wie ein Einheimischer. Beginnen Sie Ihren Tag mit einer Busfahrt direkt zum spirituellen Herzen der Stadt, Jasna Góra. Nach einer Erkundung des Klosters und einer Pause im Staszic-Park bringt Sie ein Bus ins Stadtzentrum. Spazieren Sie die Allee entlang und entdecken Sie das Rathaus. Am Nachmittag nutzen Sie den Bus, um die weiter entfernten, aber lohnenswerten Museen zu erreichen, bevor Sie den Tag mit einem Besuch der majestätischen Kathedrale der Heiligen Familie abschließen.",
-        "hu": "A tömegközlekedéssel úgy élheti át Częstochowát, mint egy helyi. Kezdje a napot egy buszúttal közvetlenül a város spirituális szívéhez, a Jasna Górához. A kolostor felfedezése és a Staszic-parkban tartott szünet után egy busz elviszi a városközpontba. Sétáljon végig a sugárúton, és fedezze fel a Városházát. Délután a busz segítségével éri el a távolabbi, de annál érdemesebb múzeumokat, mielőtt a napot a fenséges Szent Család-székesegyház meglátogatásával zárná.",
-        "ro": "Cu transportul public, veți experimenta Częstochowa ca un localnic. Începeți ziua cu o călătorie cu autobuzul direct la inima spirituală a orașului, Jasna Góra. După ce explorați mănăstirea și faceți o pauză în Parcul Staszic, un autobuz vă va duce în centrul orașului. Plimbați-vă de-a lungul Bulevardului și descoperiți Primăria. După-amiaza, folosiți autobuzul pentru a ajunge la muzeele mai îndepărtate, dar care merită vizitate, înainte de a încheia ziua cu o vizită la maiestuoasa Catedrală a Sfintei Familii.",
-        "en": "Using public transport, you'll experience Częstochowa like a local. Start your day with a bus ride directly to the city's spiritual heart, Jasna Góra. After exploring the monastery and taking a break in Staszic Park, a bus will take you to the city center. Stroll along the Avenue and discover the Town Hall. In the afternoon, use the bus to reach the more distant but worthwhile museums before ending your day with a visit to the majestic Cathedral of the Holy Family."
+        "de": "Dank des gut ausgebauten Bus- und Straßenbahnnetzes erreichen Sie alle wichtigen Sehenswürdigkeiten bequem. Beginnen Sie an der monumentalen Kathedrale und arbeiten Sie sich durch das Zentrum bis zum heiligen Bezirk Jasna Góra vor, ohne sich um Parkplätze sorgen zu müssen.",
+        "hu": "A jól kiépített busz- és villamoshálózatnak köszönhetően minden fontos látnivalót kényelmesen elérhet. Kezdje a monumentális székesegyháznál, és haladjon át a központon a szent Jasna Góra negyedig, parkolási gondok nélkül.",
+        "ro": "Datorită rețelei bine dezvoltate de autobuze și tramvaie, puteți ajunge confortabil la toate atracțiile importante. Începeți de la catedrala monumentală și parcurgeți centrul până la districtul sfânt Jasna Góra, fără grija parcării.",
+        "en": "Thanks to the well-developed bus and tram network, you can reach all the important sights comfortably. Start at the monumental cathedral and work your way through the center to the holy Jasna Góra district, without worrying about parking."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Pierogi",
-            "tip": "Probieren Sie die klassischen gefüllten Teigtaschen, besonders die 'Ruskie' mit Kartoffeln und Käse."
-          },
-          {
-            "name": "Żurek",
-            "tip": "Eine traditionelle Sauermehlsuppe, oft mit Wurst und Ei serviert. Herzhaft und köstlich."
-          },
-          {
-            "name": "Restauracja Gospoda",
-            "tip": "Ein Restaurant mit traditioneller polnischer Küche in der Nähe der Allee."
+            "name": "Setka",
+            "tip": "Probieren Sie kleine polnische Snacks und traditionelle Suppen."
           }
         ],
         "hu": [
           {
-            "name": "Pierogi",
-            "tip": "Kóstolja meg a klasszikus töltött táskákat, különösen a 'ruskie'-t burgonyával és túróval."
-          },
-          {
-            "name": "Żurek",
-            "tip": "Hagyományos savanyú leves, gyakran kolbásszal és tojással tálalva. Kiadós és finom."
-          },
-          {
-            "name": "Gospoda Étterem",
-            "tip": "Hagyományos lengyel ételeket kínáló étterem a sugárút közelében."
+            "name": "Setka",
+            "tip": "Kóstolja meg a kis lengyel falatkákat és hagyományos leveseket."
           }
         ],
         "ro": [
           {
-            "name": "Pierogi",
-            "tip": "Încercați găluștele umplute clasice, în special 'ruskie' cu cartofi și brânză."
-          },
-          {
-            "name": "Żurek",
-            "tip": "O supă acră tradițională, adesea servită cu cârnați și ou. consistentă și delicioasă."
-          },
-          {
-            "name": "Restaurant Gospoda",
-            "tip": "Un restaurant cu bucătărie tradițională poloneză lângă bulevard."
+            "name": "Setka",
+            "tip": "Încercați gustările poloneze mici și supele tradiționale."
           }
         ],
         "en": [
           {
-            "name": "Pierogi",
-            "tip": "Try the classic filled dumplings, especially the 'Ruskie' with potatoes and cheese."
-          },
-          {
-            "name": "Żurek",
-            "tip": "A traditional sour rye soup, often served with sausage and egg. Hearty and delicious."
-          },
-          {
-            "name": "Gospoda Restaurant",
-            "tip": "A restaurant with traditional Polish cuisine near the Avenue."
+            "name": "Setka",
+            "tip": "Try small Polish snacks and traditional soups."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Staszic-Park",
-            "tip": "Ein friedlicher Rückzugsort direkt neben dem belebten Jasna Góra.",
+            "name": "Innenhöfe der Allee NMP",
+            "tip": "Kleine Cafés in den ruhigen Hinterhöfen.",
             "emoji": "🍃"
-          },
-          {
-            "name": "Gärten von Jasna Góra",
-            "tip": "Die inneren Gärten des Klosters bieten Momente der stillen Kontemplation.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Blick vom Klosterturm",
-            "tip": "Genießen Sie die weite Aussicht über die Stadt in relativer Ruhe.",
-            "emoji": "🌅"
           }
         ],
         "hu": [
           {
-            "name": "Staszic-park",
-            "tip": "Békés menedék a nyüzsgő Jasna Góra mellett.",
+            "name": "NMP sugárút belső udvarai",
+            "tip": "Kis kávézók a csendes belső udvarokban.",
             "emoji": "🍃"
-          },
-          {
-            "name": "Jasna Góra kertjei",
-            "tip": "A kolostor belső kertjei a csendes elmélkedés pillanatait kínálják.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Kilátás a kolostor tornyából",
-            "tip": "Élvezze a városra nyíló széles kilátást viszonylagos nyugalomban.",
-            "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Parcul Staszic",
-            "tip": "Un refugiu pașnic chiar lângă aglomerata Jasna Góra.",
+            "name": "Curțile interioare de pe NMP",
+            "tip": "Cafenele mici în curțile interioare liniștite.",
             "emoji": "🍃"
-          },
-          {
-            "name": "Grădinile de la Jasna Góra",
-            "tip": "Grădinile interioare ale mănăstirii oferă momente de contemplație tăcută.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Vedere din turnul mănăstirii",
-            "tip": "Bucurați-vă de vederea panoramică asupra orașului într-o liniște relativă.",
-            "emoji": "🌅"
           }
         ],
         "en": [
           {
-            "name": "Staszic Park",
-            "tip": "A peaceful retreat right next to the bustling Jasna Góra.",
+            "name": "NMP Avenue Courtyards",
+            "tip": "Small cafes in the quiet courtyards.",
             "emoji": "🍃"
-          },
-          {
-            "name": "Jasna Góra Gardens",
-            "tip": "The inner gardens of the monastery offer moments of quiet contemplation.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "View from the Monastery Tower",
-            "tip": "Enjoy the wide view over the city in relative tranquility.",
-            "emoji": "🌅"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Souvenirläden bei Jasna Góra",
-            "tip": "Finden Sie religiöse Ikonen, Rosenkränze und Nachbildungen der Schwarzen Madonna."
-          },
-          {
-            "name": "Geschäfte in der Allee",
-            "tip": "Eine Mischung aus lokalen Boutiquen und bekannten Marken."
+            "name": "Antiquariate am Rathaus",
+            "tip": "Stöbern Sie nach alten Büchern und religiösen Ikonen."
           }
         ],
         "hu": [
           {
-            "name": "Ajándékboltok a Jasna Góránál",
-            "tip": "Vallási ikonokat, rózsafüzéreket és a Fekete Madonna másolatait találja itt."
-          },
-          {
-            "name": "Üzletek a sugárúton",
-            "tip": "Helyi butikok és ismert márkák keveréke."
+            "name": "Antikváriumok a városházánál",
+            "tip": "Böngésszen régi könyvek és vallási ikonok között."
           }
         ],
         "ro": [
           {
-            "name": "Magazine de suveniruri la Jasna Góra",
-            "tip": "Găsiți icoane religioase, rozarii și replici ale Madonei Negre."
-          },
-          {
-            "name": "Magazine pe Bulevard",
-            "tip": "Un amestec de buticuri locale și mărci cunoscute."
+            "name": "Anticariate lângă Primărie",
+            "tip": "Căutați cărți vechi și icoane religioase."
           }
         ],
         "en": [
           {
-            "name": "Souvenir shops at Jasna Góra",
-            "tip": "Find religious icons, rosaries, and replicas of the Black Madonna."
-          },
-          {
-            "name": "Shops on the Avenue",
-            "tip": "A mix of local boutiques and well-known brands."
+            "name": "Antiquarian shops near Town Hall",
+            "tip": "Browse for old books and religious icons."
           }
         ]
       },
       "tips": {
         "de": [
-          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
-          "Laden Sie eine Nahverkehrs-App herunter, um Routen und Fahrpläne zu überprüfen.",
-          "Seien Sie sich der Stoßzeiten bewusst, in denen Busse und Straßenbahnen voll sein können.",
-          "Halten Sie Ihr Ticket zur Kontrolle bereit."
+          "Tickets können beim Fahrer oder am Automaten gekauft werden.",
+          "Die Straßenbahnlinie 1 verbindet den Bahnhof mit dem Zentrum.",
+          "Nutzen Sie die App 'jakdojade' für Echtzeit-Verbindungen."
         ],
         "hu": [
-          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
-          "Töltsön le egy tömegközlekedési alkalmazást az útvonalak és menetrendek ellenőrzéséhez.",
-          "Legyen tisztában a csúcsidővel, amikor a buszok és villamosok zsúfoltak lehetnek.",
-          "Tartsa készenlétben a jegyét az ellenőrzéshez."
+          "Jegyeket a sofőrnél vagy automatákban lehet vásárolni.",
+          "Az 1-es villamos összeköti a vasútállomást a központtal.",
+          "Használja a 'jakdojade' alkalmazást a valós idejű közlekedéshez."
         ],
         "ro": [
-          "Cumpărați un bilet de o zi pentru transportul public pentru a economisi bani.",
-          "Descărcați o aplicație de transport public pentru a verifica rutele și orarele.",
-          "Fiți conștienți de orele de vârf, când autobuzele și tramvaiele pot fi aglomerate.",
-          "Păstrați biletul la îndemână pentru control."
+          "Biletele pot fi cumpărate de la șofer sau de la automate.",
+          "Linia de tramvai 1 leagă gara de centru.",
+          "Folosiți aplicația 'jakdojade' pentru conexiuni în timp real."
         ],
         "en": [
-          "Buy a day pass for public transport to save money.",
-          "Download a public transport app to check routes and timetables.",
-          "Be aware of peak hours when buses and trams can be crowded.",
-          "Keep your ticket ready for inspection."
+          "Tickets can be purchased from the driver or at machines.",
+          "Tram line 1 connects the station with the center.",
+          "Use the 'jakdojade' app for real-time connections."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt trocken im modernen Bus Richtung Jasna Góra. Kurze Wege von den Haltestellen zu den Sehenswürdigkeiten minimieren die Regenzeit. Mittags bringt die Linie zum Zündholzmuseum einen direkt ans Ziel. Nachmittags erkundet man das Kloster, während draußen der Regen fällt. Der Abend endet mit einer gemütlichen Straßenbahnfahrt durch die glitzernden, nassen Alleen.",
+            "hu": "A nap szárazon indul egy modern buszon Jasna Góra felé. A megállóktól való rövid távolságok minimalizálják az esőben töltött időt. Délben a járat közvetlenül a Gyufagyárhoz visz. Délután a kolostort fedezzük fel, miközben odakint esik. Az este kényelmes villamosozással zárul a csillogó, vizes sugárutakon.",
+            "ro": "Ziua începe la uscat într-un autobuz modern spre Jasna Góra. Distanțele scurte de la stații la obiective reduc timpul petrecut în ploaie. La prânz, autobuzul vă lasă chiar lângă Muzeul de Chibrituri. După-amiaza explorăm mănăstirea în timp ce afară plouă. Seara se încheie cu o călătorie cu tramvaiul pe bulevardele umede.",
+            "en": "The day starts dry in a modern bus heading towards Jasna Góra. Short walks from the stops to the sights minimize time in the rain. At noon, the line takes you directly to the Match Factory. In the afternoon, explore the monastery while the rain falls outside. The evening ends with a comfortable tram ride through the glistening, wet avenues."
+          },
+          "stops": [
+            {
+              "name": "Jasna Góra",
+              "tip_4lang": {
+                "de": "Die Haltestelle liegt direkt am Fuß des Hügels.",
+                "hu": "A megálló közvetlenül a domb lábánál található.",
+                "ro": "Stația este chiar la baza dealului.",
+                "en": "The stop is located right at the foot of the hill."
+              }
+            },
+            {
+              "name": "Park pod Jasną Górą",
+              "tip_4lang": {
+                "de": "Unterstände an den Haltestellen bieten Schutz.",
+                "hu": "A megállók várói védelmet nyújtanak.",
+                "ro": "Adăposturile din stații oferă protecție.",
+                "en": "Shelters at the stops provide protection."
+              }
+            },
+            {
+              "name": "Park im. Staszica",
+              "tip_4lang": {
+                "de": "Schneller Umstieg in Busse Richtung Stadtzentrum.",
+                "hu": "Gyors átszállás a városközpont felé tartó buszokra.",
+                "ro": "Transfer rapid la autobuzele spre centrul orașului.",
+                "en": "Quick transfer to buses heading towards the city center."
+              }
+            },
+            {
+              "name": "Plac Biegańskiego",
+              "tip_4lang": {
+                "de": "Zentraler Knotenpunkt mit vielen überdachten Haltestellen.",
+                "hu": "Központi csomópont sok fedett megállóval.",
+                "ro": "Nod central cu multe stații acoperite.",
+                "en": "Central hub with many sheltered bus stops."
+              }
+            },
+            {
+              "name": "Ratusz / Galeria",
+              "tip_4lang": {
+                "de": "Nur wenige Schritte von der Haltestelle ins Trockene.",
+                "hu": "Csak pár lépés a megállótól a száraz épületig.",
+                "ro": "Doar câțiva pași de la stație până la adăpost.",
+                "en": "Only a few steps from the stop to stay dry."
+              }
+            },
+            {
+              "name": "Kościół św. Zygmunta",
+              "tip_4lang": {
+                "de": "Gute Anbindung an das Straßenbahnnetz.",
+                "hu": "Jó összeköttetés a villamoshálózattal.",
+                "ro": "Conexiune bună la rețeaua de tramvaie.",
+                "en": "Good connection to the tram network."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'jakdojade' für Echtzeit-Infos.",
+              "Kaufen Sie Fahrkarten am Kiosk oder im Fahrzeug.",
+              "Die Straßenbahnlinie 1 ist ideal für die Nord-Süd-Achse.",
+              "Meiden Sie Stoßzeiten, um einen Sitzplatz im Trockenen zu haben.",
+              "Einige Busse haben Klimaanlagen zum Entfeuchten."
+            ],
+            "hu": [
+              "Használja a 'jakdojade' appot a valós idejű infókért.",
+              "Vegyen jegyet újságosnál vagy a járművön.",
+              "Az 1-es villamos ideális az észak-déli irányba.",
+              "Kerülje a csúcsidőt a garantált ülőhelyért.",
+              "Néhány busz klimatizált, ami segít a pára ellen."
+            ],
+            "ro": [
+              "Folosiți aplicația 'jakdojade' pentru informații în timp real.",
+              "Cumpărați bilete de la chioșcuri sau din vehicul.",
+              "Linia de tramvai 1 este ideală pentru axa nord-sud.",
+              "Evitați orele de vârf pentru a avea loc pe scaun la uscat.",
+              "Unele autobuze au aer condiționat pentru dezumidificare."
+            ],
+            "en": [
+              "Use the 'jakdojade' app for real-time transit info.",
+              "Buy tickets at kiosks or inside the vehicle.",
+              "Tram line 1 is ideal for the north-south axis.",
+              "Avoid peak hours to ensure a seat in the dry.",
+              "Some buses have air conditioning to help dehumidify."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein warmer Start in der geheizten Straßenbahn führt zum winterlichen Biegański-Platz. Öffentliche Verkehrsmittel sind der beste Weg, um Kälteperioden zwischen den Stopps zu überbrücken. Mittags bringt ein kurzer Bustransfer zum Zündholzmuseum. Nachmittags ist die Fahrt zur Jasna Góra besonders stimmungsvoll. Der Abend endet gemütlich bei einer Fahrt durch das beleuchtete Tschenstochau.",
+            "hu": "A nap meleg indulással kezdődik a fűtött villamoson a téli Biegański tér felé. A tömegközlekedés a legjobb mód a hideg áthidalására a megállók között. Délben egy rövid buszos út visz a Gyufagyárhoz. Délután a Jasna Góra felé tartó utazás különösen hangulatos. Az este kényelmes zötykölődéssel zárul a kivilágított Częstochowán át.",
+            "ro": "Ziua începe la căldură în tramvaiul încălzit spre Piața Biegański. Transportul public este cel mai bun mod de a evita frigul între opriri. La prânz, un transfer scurt cu autobuzul vă duce la Muzeul de Chibrituri. După-amiaza, drumul spre Jasna Góra este deosebit de atmosferic. Seara se încheie cu o călătorie prin orașul iluminat.",
+            "en": "The day starts warmly in a heated tram towards the wintry Biegański Square. Public transport is the best way to bridge cold periods between stops. At noon, a short bus transfer takes you to the Match Factory. In the afternoon, the ride to Jasna Góra is particularly atmospheric. The evening ends cozily with a journey through illuminated Częstochowa."
+          },
+          "stops": [
+            {
+              "name": "Jasna Góra",
+              "tip_4lang": {
+                "de": "Die Wartehäuschen bieten Schutz vor kaltem Wind.",
+                "hu": "A várók védelmet nyújtanak a hideg szél ellen.",
+                "ro": "Adăposturile din stații oferă protecție contra vântului.",
+                "en": "Waiting shelters provide protection from the cold wind."
+              }
+            },
+            {
+              "name": "Park pod Jasną Górą",
+              "tip_4lang": {
+                "de": "Häufige Taktzeiten minimieren das Warten in der Kälte.",
+                "hu": "A sűrű járatok minimalizálják a hidegben való várakozást.",
+                "ro": "Frecvența mare a curselor reduce așteptarea în frig.",
+                "en": "Frequent service minimizes waiting in the cold."
+              }
+            },
+            {
+              "name": "Park im. Staszica",
+              "tip_4lang": {
+                "de": "Gut beleuchtete Haltestellen für die frühe Dunkelheit.",
+                "hu": "Jól megvilágított megállók a korai sötétedéshez.",
+                "ro": "Stații bine iluminate pentru întunericul timpuriu.",
+                "en": "Well-lit stops for the early darkness."
+              }
+            },
+            {
+              "name": "Plac Biegańskiego",
+              "tip_4lang": {
+                "de": "Knotenpunkt mit digitalen Anzeigen der Abfahrtszeiten.",
+                "hu": "Csomópont digitális kijelzőkkel az indulási időkről.",
+                "ro": "Nod de transport cu afișaje digitale pentru plecări.",
+                "en": "Transport hub with digital displays for departure times."
+              }
+            },
+            {
+              "name": "Ratusz / Galeria",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Straßenbahn für kurze Strecken.",
+                "hu": "Használja a villamost rövid távolságokra is.",
+                "ro": "Folosiți tramvaiul chiar și pentru distanțe scurte.",
+                "en": "Use the tram even for short distances."
+              }
+            },
+            {
+              "name": "Kościół św. Zygmunta",
+              "tip_4lang": {
+                "de": "Die Bahnen sind meist sehr gut geheizt.",
+                "hu": "A villamosok általában nagyon jól fűtöttek.",
+                "ro": "Tramvaiele sunt de obicei foarte bine încălzite.",
+                "en": "The trams are usually very well-heated."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe, um die Haltestangen anzufassen.",
+              "Achten Sie auf Verspätungen bei extremem Schneefall.",
+              "Fahrkartenautomaten akzeptieren meist Kontaktloses Zahlen.",
+              "In den Bussen ist es oft wärmer als in der Straßenbahn.",
+              "Nutzen Sie die Zeit zum Aufwärmen zwischen den Spaziergängen."
+            ],
+            "hu": [
+              "Viseljen kesztyűt a kapaszkodók megfogásához.",
+              "Extrém havazásnál számítson késésekre.",
+              "A jegyautomaták általában elfogadnak érintős kártyát.",
+              "A buszokon gyakran melegebb van, mint a villamosokon.",
+              "Használja ki az időt a felmelegedésre a séták között."
+            ],
+            "ro": [
+              "Purtați mănuși pentru a atinge barele de susținere.",
+              "Așteptați-vă la întârzieri în caz de ninsoare abundentă.",
+              "Automatele de bilete acceptă de obicei plata contactless.",
+              "În autobuze este adesea mai cald decât în tramvai.",
+              "Folosiți timpul pentru a vă încălzi între plimbări."
+            ],
+            "en": [
+              "Wear gloves when holding the handrails.",
+              "Expect delays in case of extreme snowfall.",
+              "Ticket machines usually accept contactless payments.",
+              "It is often warmer in buses than in trams.",
+              "Use the transit time to warm up between walks."
+            ]
+          }
+        }
       }
     }
   }

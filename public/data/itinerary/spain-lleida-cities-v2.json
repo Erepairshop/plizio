@@ -356,6 +356,188 @@
           "Buy a combined ticket for Seu Vella and the Museum of Lleida to save money.",
           "Tap water is safe to drink, so refill your bottle to stay hydrated."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt an den Statuen von Indíbil und Mandonio, wo man unter dem Schirm die Geschichte Lleidas spürt. Die Neue Kathedrale und das Institut für Ilerdencs-Studien bieten trockene Zuflucht voller Kultur. Den Nachmittag verbringen wir in den weitläufigen Hallen des Lleida-Museums und der Seu Vella, während das Prasseln des Regens gegen die gotischen Mauern eine mystische Stimmung erzeugt. Der Tag endet im modernen, schützenden Ambiente der La Llotja.",
+            "hu": "Az esős reggel Indíbil és Mandonio szobránál indul, ahol az esernyők alatt is érezni a város történelmi erejét. Az Új Katedrális és az Ilerdens-tanulmányok Intézete kiváló fedett menedéket nyújt a záporok elől. A délutánt a Lleida Múzeum gazdag tárlatai között és a Seu Vella ódon falai alatt töltjük, ahol a köveken koppanó eső különleges hangulatot áraszt. A napot a modern La Llotja épületének oltalma alatt fejezzük be.",
+            "ro": "O dimineață ploioasă începe la statuile lui Indíbil și Mandonio, unde istoria Lleidei se simte chiar și sub umbrelă. Noua Catedrală și Institutul de Studii Ilerdence oferă un refugiu cultural uscat. După-amiaza este dedicată sălilor vaste ale Muzeului Lleida și complexului Seu Vella, unde sunetul ploii pe zidurile gotice creează o atmosferă mistică. Ziua se încheie în ambianța modernă și protectoare a clădirii La Llotja.",
+            "en": "A rainy morning starts at the Statue of Indíbil and Mandonio, where Lleida's history felt even under an umbrella. The New Cathedral and the Institute of Ilerdencs Studies provide dry, cultural havens. Spend the afternoon in the expansive halls of the Museum of Lleida and the Seu Vella, as the rain against the Gothic stones creates a mystical vibe. The day concludes within the sleek, protective architecture of La Llotja."
+          },
+          "stops": [
+            {
+              "name": "Statue of Indíbil and Mandonio",
+              "tip_5lang": {
+                "de": "Schnelles Foto machen und unter den Arkaden am Plaça de la Pau unterstellen.",
+                "hu": "Gyors fotó, majd keressen menedéket a közeli Plaça de la Pau árkádjai alatt.",
+                "ro": "Faceți o poză rapidă și adăpostiți-vă sub arcadele din apropiere de la Plaça de la Pau.",
+                "en": "Take a quick photo and seek shelter under the nearby arcades at Plaça de la Pau."
+              }
+            },
+            {
+              "name": "New Cathedral of Lleida",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille im Inneren, um dem Regen draußen zu entfliehen.",
+                "hu": "Használja ki a benti csendet és szárazságot, amíg kint eláll az eső.",
+                "ro": "Profită de liniștea din interior pentru a scăpa de ploaia de afară.",
+                "en": "Take advantage of the interior silence to escape the rain outside."
+              }
+            },
+            {
+              "name": "Institute of Ilerdencs Studies",
+              "tip_5lang": {
+                "de": "Der gotische Innenhof bietet teilweisen Schutz, die Ausstellungsräume sind trocken.",
+                "hu": "A gótikus udvar részben védett, a kiállítótermek pedig teljesen szárazak.",
+                "ro": "Curtea gotică oferă protecție parțială, iar sălile de expoziție sunt uscate.",
+                "en": "The Gothic courtyard offers partial shelter, and exhibition rooms are fully dry."
+              }
+            },
+            {
+              "name": "Museum of Lleida",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine lange Pause bei Regen; besuchen Sie auch das Museumscafé.",
+                "hu": "Tökéletes hely egy hosszú szünetre esőben; nézzen be a múzeumi kávézóba is.",
+                "ro": "Locul perfect pentru o pauză lungă pe ploaie; vizitați și cafeneaua muzeului.",
+                "en": "Perfect spot for a long break during rain; check out the museum cafe as well."
+              }
+            },
+            {
+              "name": "Seu Vella (Old Cathedral)",
+              "tip_5lang": {
+                "de": "Der Kreuzgang ist überdacht und bietet einen dramatischen Blick auf das graue Tal.",
+                "hu": "A kolostor folyosója fedett, drámai kilátást nyújtva az esős völgyre.",
+                "ro": "Cloastrul este acoperit și oferă o vedere dramatică asupra văii sub ploaie.",
+                "en": "The cloister is covered and offers a dramatic view of the rainy valley."
+              }
+            },
+            {
+              "name": "La Llotja de Lleida",
+              "tip_5lang": {
+                "de": "Großzügiges Foyer zum Aufwärmen und Trocknen vor der Abreise.",
+                "hu": "Tágas előcsarnok a bemelegedéshez és megszáradáshoz indulás előtt.",
+                "ro": "Foaier spațios pentru a vă încălzi și usca înainte de plecare.",
+                "en": "Spacious foyer to warm up and dry off before departure."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Pflastersteine in der Altstadt rutschig sein können.",
+              "Die Arkaden entlang des Segre-Flusses bieten guten Schutz beim Gehen.",
+              "Museen in Lleida sind montags oft geschlossen; planen Sie Ihren Regentag entsprechend.",
+              "Ein Regenschirm mit starkem Gestell ist wegen des Windes auf dem Burgberg ratsam."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óváros macskakövei csúszósak lehetnek.",
+              "A Segre-folyó menti árkádok jó védelmet nyújtanak séta közben.",
+              "A múzeumok hétfőn zárva tarthatnak; igazítsa ehhez az esős napot.",
+              "A várhegyen fújó szél miatt erős vázú esernyő javasolt."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pavajul din orașul vechi poate fi alunecos.",
+              "Arcadele de-a lungul râului Segre oferă o bună protecție în timpul mersului.",
+              "Muzeele din Lleida sunt adesea închise lunea; planificați-vă ziua ploioasă corespunzător.",
+              "O umbrelă cu cadru rezistent este recomandată din cauza vântului de pe dealul castelului."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones in the old town can be slippery.",
+              "The arcades along the Segre river provide good shelter while walking.",
+              "Museums in Lleida are often closed on Mondays; plan your rainy day accordingly.",
+              "A sturdy umbrella is recommended due to the wind on the castle hill."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt frisch am Fuße der Altstadt. Die Kälte des 'Cierzo'-Windes wird durch den Besuch der warmen Kathedralen und Museen gemildert. Am Mittag genießen wir das goldene Winterlicht, das die Sandsteinfassaden der Seu Vella erleuchtet. Wenn die Sonne früh hinter den Bergen versinkt, bietet das festlich beleuchtete Stadtzentrum eine gemütliche Atmosphäre, die wir bei einem heißen Getränk nahe der La Llotja ausklingen lassen.",
+            "hu": "A tiszta téli reggel frissen indul az óváros lábánál. A 'Cierzo' szél hidegét a meleg katedrálisok és múzeumok látogatása enyhíti. Délben a Seu Vella homokkő falait megvilágító aranyló téli fényekben gyönyörködünk. Mivel a nap korán bukik a hegyek mögé, a kora esti díszkivilágításban úszó belváros meghitt hangulatot áraszt, amit egy forró ital mellett élvezhetünk a La Llotja közelében.",
+            "ro": "O dimineață senină de iarnă începe proaspăt la poalele orașului vechi. Frigul vântului 'Cierzo' este atenuat de vizitarea catedralelor și muzeelor călduroase. La prânz ne bucurăm de lumina aurie de iarnă care luminează fațadele de gresie de la Seu Vella. Pe măsură ce soarele apune devreme după munți, centrul orașului iluminat festiv oferă o atmosferă primitoare, pe care o savurăm cu o băutură caldă lângă La Llotja.",
+            "en": "A crisp winter morning starts fresh at the foot of the old town. The bite of the 'Cierzo' wind is softened by visiting warm cathedrals and museums. At noon, enjoy the golden winter light illuminating the sandstone facades of Seu Vella. As the sun sets early behind the mountains, the festively lit city center offers a cozy atmosphere, perfect for a hot drink near La Llotja."
+          },
+          "stops": [
+            {
+              "name": "Statue of Indíbil and Mandonio",
+              "tip_5lang": {
+                "de": "Ziehen Sie Handschuhe an; das Metall der Statuen und Geländer ist eiskalt.",
+                "hu": "Húzzon kesztyűt; a szobrok és korlátok fémfelületei jéghidegek.",
+                "ro": "Puneți-vă mănuși; metalul statuilor și al balustradelor este înghețat.",
+                "en": "Wear gloves; the metal of the statues and railings is ice cold."
+              }
+            },
+            {
+              "name": "New Cathedral of Lleida",
+              "tip_5lang": {
+                "de": "Ein Ort der Ruhe und relativen Wärme im Vergleich zum windigen Platz draußen.",
+                "hu": "A nyugalom és a viszonylagos meleg helye a kinti szeles térhez képest.",
+                "ro": "Un loc de liniște și căldură relativă față de piața vântoasă de afară.",
+                "en": "A place of peace and relative warmth compared to the windy square outside."
+              }
+            },
+            {
+              "name": "Institute of Ilerdencs Studies",
+              "tip_5lang": {
+                "de": "Suchen Sie die sonnigen Ecken im Innenhof, um sich ein wenig aufzuwärmen.",
+                "hu": "Keresse a belső udvar napsütötte sarkait egy kis melegedéshez.",
+                "ro": "Căutați colțurile însorite din curtea interioară pentru a vă încălzi puțin.",
+                "en": "Look for sunny corners in the inner courtyard to warm up a bit."
+              }
+            },
+            {
+              "name": "Museum of Lleida",
+              "tip_5lang": {
+                "de": "Ideale Zeit für die Innenausstellungen, wenn der Nebel ('Boira') die Stadt einhüllt.",
+                "hu": "Ideális idő a belső kiállításokra, amikor a köd ('Boira') beborítja a várost.",
+                "ro": "Timp ideal pentru expozițiile interioare când ceața ('Boira') acoperă orașul.",
+                "en": "Ideal time for indoor exhibitions when the fog ('Boira') covers the city."
+              }
+            },
+            {
+              "name": "Seu Vella (Old Cathedral)",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Turm vor 16:30 Uhr, um das beste Licht vor dem Sonnenuntergang zu sehen.",
+                "hu": "Látogasson el a toronyba 16:30 előtt a naplemente előtti legjobb fényekért.",
+                "ro": "Vizitați turnul înainte de 16:30 pentru cea mai bună lumină înainte de apus.",
+                "en": "Visit the tower before 16:30 for the best light before sunset."
+              }
+            },
+            {
+              "name": "La Llotja de Lleida",
+              "tip_5lang": {
+                "de": "Die Glasfassade reflektiert das blaue Licht der Dämmerung wunderschön.",
+                "hu": "Az üveghomlokzat gyönyörűen veri vissza a szürkület kék fényeit.",
+                "ro": "Fațada de sticlă reflectă frumos lumina albastră a amurgului.",
+                "en": "The glass facade beautifully reflects the blue light of twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Lleida ist bekannt für dichten Winternebel; die Sicht kann morgens stark eingeschränkt sein.",
+              "Tragen Sie Schichten (Zwiebelprinzip), da es in der Sonne warm, im Schatten aber sehr kalt ist.",
+              "Die Sonne geht im Winter gegen 17:30 Uhr unter; planen Sie Outdoor-Fotos vorher.",
+              "Probieren Sie geröstete Kastanien von den Straßenverkäufern im Zentrum."
+            ],
+            "hu": [
+              "Lleida híres a sűrű téli ködről; a látási viszonyok reggel korlátozottak lehetnek.",
+              "Öltözzön rétegesen, mert a napon meleg van, de árnyékban metsző a hideg.",
+              "A nap télen 17:30 körül nyugszik; a kültéri fotókat tervezze korábbra.",
+              "Kóstolja meg az utcai árusok sült gesztenyéjét a belvárosban."
+            ],
+            "ro": [
+              "Lleida este faimoasă pentru ceața densă de iarnă; vizibilitatea poate fi redusă dimineața.",
+              "Îmbrăcați-vă în straturi, deoarece la soare este cald, dar la umbră este foarte frig.",
+              "Soarele apune iarna în jurul orei 17:30; planificați fotografiile în aer liber mai devreme.",
+              "Încercați castanele coapte de la vânzătorii ambulanți din centru."
+            ],
+            "en": [
+              "Lleida is famous for dense winter fog; visibility can be limited in the morning.",
+              "Wear layers as it feels warm in the sun but very cold in the shade.",
+              "The sun sets around 17:30 in winter; plan outdoor photos earlier.",
+              "Try roasted chestnuts from street vendors in the city center."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +888,188 @@
           "Always lock your bike securely, especially in busy areas.",
           "Some cycle paths are shared with pedestrians, be considerate."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Radtour durch den Regen beginnt an der Llotja. Die Fahrt zum Parc de la Mitjana führt über feuchte Wege, während die Natur in sattem Grün erstrahlt. Nach einem kurzen Stopp am Castell de Gardeny radeln wir zur Seu Vella, wo wir uns unter den gotischen Arkaden ausruhen. Trotz der Nässe bietet die Stadt auf zwei Rädern eine dynamische Perspektive, die wir in den Museen und Kathedralen im Trockenen abrunden.",
+            "hu": "Frissítő biciklitúra az esőben, a La Llotja épületétől indulva. A Parc de la Mitjana felé vezető út nedves ösvényeken visz, miközben a természet élénkzöldben pompázik. A Castell de Gardeny után a Seu Vella felé vesszük az irányt, ahol a gótikus árkádok alatt pihenünk meg. A vizes utak ellenére a város két keréken is dinamikus élményt nyújt, amit a múzeumok száraz termei tesznek teljessé.",
+            "ro": "O tură revigorantă cu bicicleta prin ploaie începe de la La Llotja. Drumul spre Parc de la Mitjana trece pe poteci umede, în timp ce natura strălucește în verde crud. După o scurtă oprire la Castell de Gardeny, pedalăm spre Seu Vella, unde ne odihnim sub arcadele gotice. În ciuda umezelii, orașul oferă o perspectivă dinamică pe două roți, pe care o completăm în muzeele uscate.",
+            "en": "A refreshing bike ride through the rain starts at La Llotja. The path to Parc de la Mitjana leads through damp trails while nature glows in deep green. After a quick stop at Castell de Gardeny, we pedal to Seu Vella to rest under Gothic arches. Despite the wetness, the city on two wheels offers a dynamic perspective, rounded off in the dryness of museums and cathedrals."
+          },
+          "stops": [
+            {
+              "name": "Start: Rent a bike near La Llotja",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Fahrrad mit Schutzblechen und einer wasserfesten Tasche.",
+                "hu": "Kérjen sárvédős biciklit és vízálló táskát a kölcsönzőben.",
+                "ro": "Cereți o bicicletă cu aripi de protecție și o geantă impermeabilă.",
+                "en": "Ask for a bike with mudguards and a waterproof bag at the rental shop."
+              }
+            },
+            {
+              "name": "Parc de la Mitjana",
+              "tip_5lang": {
+                "de": "Vorsicht auf den unbefestigten Wegen; sie können schlammig und rutschig sein.",
+                "hu": "Vigyázzon a nem aszfaltozott utakon; sárosak és csúszósak lehetnek.",
+                "ro": "Atenție pe potecile neasfaltate; pot fi noroioase și alunecoase.",
+                "en": "Watch out on unpaved paths; they can be muddy and slippery."
+              }
+            },
+            {
+              "name": "Castell de Gardeny",
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Regen anstrengender; nutzen Sie niedrige Gänge.",
+                "hu": "Az emelkedő esőben fárasztóbb; használjon alacsony sebességfokozatot.",
+                "ro": "Urcarea este mai solicitantă pe ploaie; folosiți viteze inferioare.",
+                "en": "The climb is more taxing in the rain; use low gears."
+              }
+            },
+            {
+              "name": "Seu Vella (Old Cathedral)",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im überdachten Bereich nahe dem Eingang, falls möglich.",
+                "hu": "Parkolja le a biciklit fedett helyen a bejárat közelében, ha lehetséges.",
+                "ro": "Parcați bicicleta într-o zonă acoperită lângă intrare, dacă este posibil.",
+                "en": "Park your bike in a covered area near the entrance if possible."
+              }
+            },
+            {
+              "name": "New Cathedral of Lleida",
+              "tip_5lang": {
+                "de": "Die Straße vor der Kathedrale ist glatt; bremsen Sie vorsichtig.",
+                "hu": "A katedrális előtti utca síkos; fékezzen óvatosan.",
+                "ro": "Strada din fața catedralei este alunecoasă; frânați cu prudență.",
+                "en": "The street in front of the cathedral is slick; brake carefully."
+              }
+            },
+            {
+              "name": "Museum of Lleida",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um Ihre Kleidung zu trocknen.",
+                "hu": "Használja ki a múzeumlátogatást a ruházata megszárítására.",
+                "ro": "Profită de vizita la muzeu pentru a-ți usca hainele.",
+                "en": "Use the museum visit to dry off your clothing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bremsen Sie früher als gewöhnlich, da nasse Felgen weniger Grip haben.",
+              "Tragen Sie eine auffällige Regenjacke, um bei schlechter Sicht gesehen zu werden.",
+              "Vermeiden Sie das Überfahren von nassen Fahrbahnmarkierungen und Gullydeckeln.",
+              "Ein Helmvisier hilft, den Regen aus den Augen zu halten."
+            ],
+            "hu": [
+              "Fékezzen korábban a szokásosnál, mert a vizes felnik lassabban fognak.",
+              "Viseljen feltűnő esőkabátot, hogy látható maradjon a rossz látási viszonyok között.",
+              "Kerülje a vizes útburkolati jeleket és csatornafedeleket.",
+              "A sisakrostély segít távol tartani az esőt a szemétől."
+            ],
+            "ro": [
+              "Frânați mai devreme decât de obicei, deoarece jantele umede au mai puțină aderență.",
+              "Purtați o jachetă de ploaie vizibilă pentru a fi văzut în condiții de vizibilitate redusă.",
+              "Evitați să treceți peste marcajele rutiere umede și capacele de canal.",
+              "Viziera căștii ajută la menținerea ploii departe de ochi."
+            ],
+            "en": [
+              "Brake earlier than usual as wet rims have less grip.",
+              "Wear a bright rain jacket to stay visible in low visibility conditions.",
+              "Avoid riding over wet road markings and manhole covers.",
+              "A helmet visor helps keep rain out of your eyes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch Lleida beginnt im kühlen Schatten der La Llotja. Die Fahrt durch den Parc de la Mitjana ist erfrischend, mit Raureif auf den Bäumen und klarer Luft. Der Aufstieg zum Castell de Gardeny und zur Seu Vella wärmt den Körper auf, während man mit weiten Ausblicken über das neblige Tal belohnt wird. Am Nachmittag gleiten wir durch die historische Unterstadt, besuchen die warmen Kathedralen und beenden die Tour, bevor die klirrende Abendkälte einsetzt.",
+            "hu": "Téli kerékpártúra Lleidában, a La Llotja hűvös árnyékából indulva. A Parc de la Mitjana ösvényei frissítőek a fákra fagyott dérrel és a tiszta levegővel. A Castell de Gardeny-hez és a Seu Vella-hoz vezető emelkedő segít bemelegedni, miközben lenyűgöző kilátás nyílik a ködös völgyre. Délután az óváros utcáin gurulunk át, érintve a fűtött katedrálisokat, és még a csípős esti hideg beállta előtt befejezzük a kört.",
+            "ro": "O tură de iarnă cu bicicleta prin Lleida începe în umbra răcoroasă de la La Llotja. Drumul prin Parc de la Mitjana este înviorător, cu chiciură pe copaci și aer curat. Urcarea spre Castell de Gardeny și Seu Vella încălzește corpul, oferind vederi largi asupra văii cețoase. După-amiaza alunecăm prin orașul istoric de jos, vizităm catedralele calde și încheiem tura înainte de gerul serii.",
+            "en": "A wintry bike ride through Lleida starts in the cool shadow of La Llotja. Riding through Parc de la Mitjana is invigorating, with frost on the trees and crisp air. The climb to Castell de Gardeny and Seu Vella warms the body, rewarding you with vast views over the foggy valley. In the afternoon, glide through the historic lower town, visit warm cathedrals, and finish before the biting evening cold sets in."
+          },
+          "stops": [
+            {
+              "name": "Start: Rent a bike near La Llotja",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; kalte Luft lässt ihn oft sinken.",
+                "hu": "Ellenőrizze a guminyomást; a hideg levegő miatt gyakran csökken.",
+                "ro": "Verificați presiunea în anvelope; aerul rece o face adesea să scadă.",
+                "en": "Check the tire pressure; cold air often causes it to drop."
+              }
+            },
+            {
+              "name": "Parc de la Mitjana",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe an schattigen Stellen am Fluss.",
+                "hu": "Ügyeljen a lefagyott szakaszokra a folyóparti árnyékos helyeken.",
+                "ro": "Atenție la porțiunile înghețate în zonele umbrite de lângă râu.",
+                "en": "Watch out for black ice in shaded spots near the river."
+              }
+            },
+            {
+              "name": "Castell de Gardeny",
+              "tip_5lang": {
+                "de": "Genießen Sie den Windschatten der Burgmauern für eine kurze Pause.",
+                "hu": "Használja ki a várfalak szélvédett oldalát egy rövid pihenőre.",
+                "ro": "Bucurați-vă de adăpostul zidurilor castelului pentru o scurtă pauză.",
+                "en": "Take advantage of the windbreak provided by the castle walls for a short break."
+              }
+            },
+            {
+              "name": "Seu Vella (Old Cathedral)",
+              "tip_5lang": {
+                "de": "Der Wind oben auf dem Hügel kann deutlich kälter sein; Jacke schließen.",
+                "hu": "A dombtetőn a szél sokkal hidegebb lehet; húzza fel a cipzárt.",
+                "ro": "Vântul de pe deal poate fi mult mai rece; închideți jacheta.",
+                "en": "The wind on top of the hill can be significantly colder; zip up your jacket."
+              }
+            },
+            {
+              "name": "New Cathedral of Lleida",
+              "tip_5lang": {
+                "de": "Ketten Sie Ihr Rad sicher an und wärmen Sie sich kurz im Inneren auf.",
+                "hu": "Zárja le biztonságosan a biciklit, és melegedjen fel picit odabent.",
+                "ro": "Legați bicicleta în siguranță și încălziți-vă puțin în interior.",
+                "en": "Lock your bike securely and warm up briefly inside."
+              }
+            },
+            {
+              "name": "Museum of Lleida",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Tour zu beenden und das Fahrrad zurückzugeben.",
+                "hu": "Jó hely a túra befejezésére és a kerékpár visszaszolgáltatására.",
+                "ro": "Un loc bun pentru a încheia tura și a returna bicicleta.",
+                "en": "A good place to end the tour and return the bike."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe, um steife Finger beim Bremsen zu vermeiden.",
+              "Ein Schlauchtuch (Buff) schützt Hals und Gesicht vor dem kalten Fahrtwind.",
+              "Achten Sie auf die Akkulaufzeit Ihres Handys/Navis, die bei Kälte sinkt.",
+              "Trinken Sie auch bei Kälte genug Wasser, um hydriert zu bleiben."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt, hogy elkerülje az ujjak elgémberedését fékezéskor.",
+              "A csősál (Buff) védi a nyakat és az arcot a hideg menetszéltől.",
+              "Ügyeljen a telefonja akkumulátorára, ami hidegben gyorsabban merül.",
+              "Hidegben is igyon elég vizet a hidratáltság megőrzéséhez."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt pentru a evita degetele rigide la frânare.",
+              "Un fular tip tub (Buff) protejează gâtul și fața de vântul rece.",
+              "Atenție la bateria telefonului, care se descarcă mai repede la frig.",
+              "Beți suficientă apă chiar și la frig pentru a rămâne hidratați."
+            ],
+            "en": [
+              "Wear windproof gloves to avoid stiff fingers when braking.",
+              "A neck gaiter (Buff) protects your neck and face from the cold wind.",
+              "Keep an eye on your phone's battery life, which drops in the cold.",
+              "Drink enough water even in the cold to stay hydrated."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1086,6 +1450,206 @@
           "The access roads to the historic hills can be narrow, drive carefully.",
           "Check the opening hours of car parks if you plan to stay late."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Lleida lässt sich bequem mit dem Auto meistern. Wir parken nahe dem Parc de la Mitjana und beobachten das Wasser von geschützten Aussichtspunkten. Die Fahrt zum Castell de Gardeny bietet Panoramablicke ohne nass zu werden. Den Nachmittag verbringen wir in den Parkhäusern der Innenstadt, um die Seu Vella, das Museum und die Kathedralen zu Fuß unter Arkaden zu erreichen. Die Llotja bietet am Abend einen glänzenden Abschluss im Regen.",
+            "hu": "Az esős nap Lleidában kényelmesen megoldható autóval. A Parc de la Mitjana közelében parkolunk, és védett pontokról figyeljük a vizet. A Castell de Gardeny-hez vezető út panorámás kilátást nyújt anélkül, hogy megáznánk. A délutánt a belvárosi parkolóházakban hagyott autóval töltjük, így az árkádok alatt érjük el a Seu Vella-t, a múzeumot és a katedrálisokat. A La Llotja este csillogó zárása a napnak az esőben.",
+            "ro": "O zi ploioasă în Lleida poate fi gestionată confortabil cu mașina. Parcăm lângă Parc de la Mitjana și observăm apa din puncte de belvedere protejate. Drumul spre Castell de Gardeny oferă vederi panoramice fără a ne uda. După-amiaza o petrecem folosind parcările din centru pentru a ajunge la Seu Vella, muzeu și catedrale pe sub arcade. La Llotja oferă seara un final strălucitor în ploaie.",
+            "en": "A rainy day in Lleida is easily managed by car. Park near Parc de la Mitjana and watch the water from sheltered viewpoints. The drive to Castell de Gardeny offers panoramic views without getting wet. Spend the afternoon using city center parking to reach Seu Vella, the museum, and cathedrals under the cover of arcades. La Llotja provides a shimmering conclusion to the rainy day."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Drive and Park at Parc de la Mitjana",
+              "tip_5lang": {
+                "de": "Parken Sie auf befestigten Flächen, um Schlamm zu vermeiden.",
+                "hu": "Aszfaltozott felületen parkoljon, hogy elkerülje a sarat.",
+                "ro": "Parcați pe suprafețe pavate pentru a evita noroiul.",
+                "en": "Park on paved surfaces to avoid mud."
+              }
+            },
+            {
+              "name": "Cluster B: Drive and Park at Castell de Gardeny",
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt an der Burg spart Ihnen den nassen Aufstieg.",
+                "hu": "A közvetlenül a várnál lévő parkoló megkíméli a vizes felfelé sétától.",
+                "ro": "Parcarea direct la castel vă scutește de urcarea prin ploaie.",
+                "en": "The parking lot directly at the castle saves you from a wet walk up."
+              }
+            },
+            {
+              "name": "Cluster C: Drive to Seu Vella Parking",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Sant Joan' für den kürzesten Weg zum Aufzug.",
+                "hu": "Használja a 'Sant Joan' parkolóházat a lift közeli eléréséhez.",
+                "ro": "Folosiți parcarea 'Sant Joan' pentru cel mai scurt drum către lift.",
+                "en": "Use the 'Sant Joan' parking garage for the shortest walk to the elevator."
+              }
+            },
+            {
+              "name": "Seu Vella (Old Cathedral)",
+              "tip_5lang": {
+                "de": "Lassen Sie Schirme im Auto, wenn Sie nur den überdachten Kreuzgang besuchen.",
+                "hu": "Hagyja az esernyőt a kocsiban, ha csak a fedett kolostort látogatja meg.",
+                "ro": "Lăsați umbrelele în mașină dacă vizitați doar cloastrul acoperit.",
+                "en": "Leave umbrellas in the car if you only plan to visit the covered cloister."
+              }
+            },
+            {
+              "name": "Museum of Lleida",
+              "tip_5lang": {
+                "de": "Nahegelegene Tiefgaragen halten Ihr Auto trocken und kühl.",
+                "hu": "A közeli mélygarázsok szárazon és hűvösen tartják az autót.",
+                "ro": "Parcările subterane din apropiere vă mențin mașina uscată.",
+                "en": "Nearby underground parking keeps your car dry."
+              }
+            },
+            {
+              "name": "New Cathedral of Lleida",
+              "tip_5lang": {
+                "de": "Kurzes Halten zum Aussteigen ist schwierig; nutzen Sie offizielle Parkplätze.",
+                "hu": "Rövid megállás kiszálláshoz nehézkes; használja a kijelölt parkolókat.",
+                "ro": "Oprirea scurtă pentru a coborî este dificilă; folosiți parcările oficiale.",
+                "en": "Short stops for dropping off are difficult; use official parking spots."
+              }
+            },
+            {
+              "name": "La Llotja de Lleida",
+              "tip_5lang": {
+                "de": "Das eigene Parkhaus der Llotja führt Sie direkt trocken ins Gebäude.",
+                "hu": "A La Llotja saját parkolóházából közvetlenül, szárazon jut az épületbe.",
+                "ro": "Parcarea proprie a clădirii La Llotja vă duce direct în interior, la uscat.",
+                "en": "La Llotja's own parking garage leads you directly inside, staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schalten Sie das Licht ein, da die Sicht bei starkem Regen in Lleida oft schlecht ist.",
+              "Vermeiden Sie tiefe Pfützen am Straßenrand, um Aquaplaning zu verhindern.",
+              "Nutzen Sie Park-Apps, um schnell trockene Stellplätze zu finden.",
+              "Die Scheibenwischer sollten in gutem Zustand sein; prüfen Sie sie vor der Fahrt."
+            ],
+            "hu": [
+              "Kapcsolja be a fényszórókat, mert erős esőben Lleidában gyakran rosszak a látási viszonyok.",
+              "Kerülje a mély tócsákat az út szélén a felúszás (aquaplaning) elkerülése érdekében.",
+              "Használjon parkolóalkalmazásokat a száraz helyek gyors megtalálásához.",
+              "Az ablaktörlők legyenek jó állapotban; ellenőrizze őket indulás előtt."
+            ],
+            "ro": [
+              "Aprindeți farurile, deoarece vizibilitatea este adesea slabă în Lleida pe ploaie puternică.",
+              "Evitați bălțile adânci de la marginea drumului pentru a preveni acvaplanarea.",
+              "Folosiți aplicații de parcare pentru a găsi rapid locuri uscate.",
+              "Ștergătoarele trebuie să fie în stare bună; verificați-le înainte de drum."
+            ],
+            "en": [
+              "Turn on your headlights as visibility is often poor in Lleida during heavy rain.",
+              "Avoid deep puddles at the roadside to prevent aquaplaning.",
+              "Use parking apps to quickly find dry parking spots.",
+              "Ensure your wipers are in good condition; check them before driving."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Ausflug mit dem Auto durch Lleida beginnt oft im dichten Nebel des Segre-Tals. Die Heizung sorgt für Komfort, während wir zum Parc de la Mitjana fahren. Der Anstieg zum Castell de Gardeny ist per Pkw mühelos, und man entkommt oft dem tiefer liegenden Nebel. Den Nachmittag verbringen wir flexibel zwischen den historischen Monumenten und den modernen Museen, bevor wir den Abend bei den beleuchteten Wahrzeichen der Stadt entspannt ausklingen lassen.",
+            "hu": "Téli autós kirándulás Lleidában, amely gyakran a Segre-völgy sűrű ködében indul. A fűtés kényelmet nyújt, miközben a Parc de la Mitjana felé tartunk. A Castell de Gardeny-hez vezető út autóval megerőltetés nélküli, és gyakran a ködfelhő fölé juthatunk. A délutánt rugalmasan töltjük a történelmi emlékek és modern múzeumok között, majd a kivilágított városnézéssel zárjuk az estét.",
+            "ro": "O excursie de iarnă cu mașina prin Lleida începe adesea în ceața densă a văii Segre. Încălzirea oferă confort în timp ce mergem spre Parc de la Mitjana. Urcarea spre Castell de Gardeny este fără efort cu mașina și adesea scăpați de ceața de jos. După-amiaza o petrecem flexibil între monumentele istorice și muzeele moderne, încheind seara relaxați lângă simbolurile iluminate ale orașului.",
+            "en": "A winter car trip through Lleida often starts in the dense fog of the Segre valley. The car heater provides comfort as we drive to Parc de la Mitjana. The drive to Castell de Gardeny is effortless by car, often letting you rise above the low-lying fog. Spend the afternoon flexibly between historical monuments and modern museums, ending the evening by the city's illuminated landmarks."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Drive and Park at Parc de la Mitjana",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, um die Natur zu schonen.",
+                "hu": "Ne járassa feleslegesen a motort a természet védelme érdekében.",
+                "ro": "Nu lăsați motorul pornit inutil pentru a proteja natura.",
+                "en": "Don't leave the engine idling to protect the environment."
+              }
+            },
+            {
+              "name": "Cluster B: Drive and Park at Castell de Gardeny",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf dem Parkplatz oben am Hügel.",
+                "hu": "Ügyeljen a dérre és jegesedésre a dombtetőn lévő parkolóban.",
+                "ro": "Atenție la chiciură în parcarea din vârful dealului.",
+                "en": "Watch out for frost in the parking lot at the top of the hill."
+              }
+            },
+            {
+              "name": "Cluster C: Drive to Seu Vella Parking",
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Seu Vella kann morgens glatt sein; vorsichtig fahren.",
+                "hu": "A Seu Vella-hoz vezető felhajtó reggelente síkos lehet; vezessen óvatosan.",
+                "ro": "Drumul de acces spre Seu Vella poate fi alunecos dimineața; conduceți cu grijă.",
+                "en": "The access road to Seu Vella can be slick in the morning; drive carefully."
+              }
+            },
+            {
+              "name": "Seu Vella (Old Cathedral)",
+              "tip_5lang": {
+                "de": "Ein warmer Innenraum wartet nach dem kurzen Weg vom Parkplatz.",
+                "hu": "Meleg belső tér várja a parkolótól megtett rövid séta után.",
+                "ro": "Un interior cald vă așteaptă după scurta plimbare de la parcare.",
+                "en": "A warm interior awaits after the short walk from the parking lot."
+              }
+            },
+            {
+              "name": "Museum of Lleida",
+              "tip_5lang": {
+                "de": "Parken Sie in der Sonne, damit sich das Auto für die Weiterfahrt aufwärmt.",
+                "hu": "Parkoljon napos helyen, hogy az autó bemelegedjen a továbbinduláshoz.",
+                "ro": "Parcați la soare pentru ca mașina să se încălzească pentru drum.",
+                "en": "Park in the sun so the car warms up for the next leg of the journey."
+              }
+            },
+            {
+              "name": "New Cathedral of Lleida",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung, wenn Sie nach der Besichtigung zurückkehren.",
+                "hu": "Használja az ülésfűtést, amikor a látogatás után visszatér az autóba.",
+                "ro": "Folosiți încălzirea în scaune când reveniți în mașină după vizită.",
+                "en": "Use seat heating when you return to the car after the visit."
+              }
+            },
+            {
+              "name": "La Llotja de Lleida",
+              "tip_5lang": {
+                "de": "Die Parkhausausfahrt ist gut beleuchtet und sicher bei früher Dunkelheit.",
+                "hu": "A parkolóház kijárata jól megvilágított és biztonságos a korai sötétedéskor.",
+                "ro": "Ieșirea din parcare este bine iluminată și sigură la lăsarea serii.",
+                "en": "The parking garage exit is well-lit and safe during early darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz im Scheibenwischwasser vor der Fahrt.",
+              "Bei dichtem Nebel (Boira) unbedingt die Nebelschlussleuchte benutzen.",
+              "Eiskratzer und ein Enteisungsspray sollten im Winter immer an Bord sein.",
+              "Achten Sie auf Glatteiswarnungen, besonders auf den Brücken über den Segre."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Sűrű ködben (Boira) mindenképpen használja a hátsó ködlámpát.",
+              "Jégkaparó és jégoldó spray mindig legyen az autóban télen.",
+              "Ügyeljen a jegesedésre figyelmeztető jelekre, különösen a Segre hídjain."
+            ],
+            "ro": [
+              "Verificați antigelul din lichidul de parbriz înainte de drum.",
+              "În caz de ceață densă (Boira), folosiți neapărat lampa de ceață spate.",
+              "Răzuitoarea de gheață și spray-ul de dezghețare ar trebui să fie mereu în mașină.",
+              "Atenție la avertizările de polei, în special pe podurile peste Segre."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer fluid before driving.",
+              "In case of dense fog (Boira), be sure to use your rear fog light.",
+              "An ice scraper and de-icer spray should always be on board in winter.",
+              "Watch out for black ice warnings, especially on bridges over the Segre."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1442,6 +2006,188 @@
           "Buses can be crowded during peak hours, plan accordingly.",
           "Validate your ticket each time you board, even when transferring."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit den öffentlichen Verkehrsmitteln durch das regnerische Lleida zu reisen, ist eine kluge Wahl. Busse bringen uns trocken ins Stadtzentrum und hinauf zum Burgberg der Seu Vella. Die Wartezeiten an den überdachten Haltestellen nutzen wir für einen Blick auf das geschäftige Treiben. Zwischen den Fahrten besuchen wir die Museen und Kathedralen, während die Busse uns bequem zum Parc de la Mitjana und zurück bringen, ohne dass wir uns um Parkplätze oder Regen sorgen müssen.",
+            "hu": "Tömegközlekedéssel utazni az esős Lleidában bölcs döntés. A buszok szárazon visznek a belvárosba és fel a Seu Vella várhegyére. A fedett megállókban várakozva megfigyelhetjük a városi pezsgést. A járatok között múzeumokat és katedrálisokat látogatunk meg, míg a buszok kényelmesen elszállítanak a Parc de la Mitjana-hoz és vissza, anélkül, hogy parkolás vagy eső miatt aggódnánk.",
+            "ro": "Călătoria cu transportul public prin Lleida ploioasă este o alegere înțeleaptă. Autobuzele ne duc la uscat în centrul orașului și sus pe dealul Seu Vella. Folosim timpul de așteptare în stațiile acoperite pentru a observa agitația orașului. Între curse vizităm muzeele și catedralele, în timp ce autobuzele ne transportă confortabil spre Parc de la Mitjana și înapoi.",
+            "en": "Traveling by public transit through rainy Lleida is a smart choice. Buses take us dryly to the city center and up to the Seu Vella hill. Use the wait times at covered stops to watch the city bustle. Between trips, visit museums and cathedrals, while buses conveniently transport us to Parc de la Mitjana and back without worrying about parking or rain."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Bus to City Center",
+              "tip_5lang": {
+                "de": "Halten Sie Ihre Fahrkarte bereit, um zügig aus dem Regen einzusteigen.",
+                "hu": "Tartsa készenlétben a jegyét, hogy gyorsan felszállhasson az eső elől.",
+                "ro": "Aveți biletul pregătit pentru a urca rapid și a scăpa de ploaie.",
+                "en": "Have your ticket ready to board quickly and escape the rain."
+              }
+            },
+            {
+              "name": "Statue of Indíbil and Mandonio",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist nur wenige Schritte von der Statue entfernt.",
+                "hu": "A buszmegálló csak néhány lépésre van a szobortól.",
+                "ro": "Stația de autobuz este la doar câțiva pași de statuie.",
+                "en": "The bus stop is just a few steps away from the statue."
+              }
+            },
+            {
+              "name": "New Cathedral of Lleida",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Echtzeit-Anzeige der Busse, um Wartezeiten im Freien zu minimieren.",
+                "hu": "Használja a valós idejű buszkövetést, hogy ne kelljen kint várnia.",
+                "ro": "Folosiți afișajele în timp real pentru a minimiza așteptarea afară.",
+                "en": "Use real-time bus tracking to minimize waiting outside."
+              }
+            },
+            {
+              "name": "Cluster B: Bus to Seu Vella",
+              "tip_5lang": {
+                "de": "Die Linie 2 bringt Sie direkt auf den Hügel; ideal bei schlechtem Wetter.",
+                "hu": "A 2-es vonal közvetlenül a dombra visz; ideális rossz időben.",
+                "ro": "Linia 2 vă duce direct pe deal; ideal pe vreme rea.",
+                "en": "Line 2 takes you directly up the hill; ideal in bad weather."
+              }
+            },
+            {
+              "name": "Museum of Lleida",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint von der Haltestelle bringt Sie ins warme Museum.",
+                "hu": "Egy rövid futás a megállótól, és már a meleg múzeumban is van.",
+                "ro": "Un scurt sprint de la stație vă duce în muzeul călduros.",
+                "en": "A short sprint from the stop gets you into the warm museum."
+              }
+            },
+            {
+              "name": "Cluster C: Bus to Parc de la Mitjana",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Rückfahrplan, da Busse hier seltener fahren könnten.",
+                "hu": "Ellenőrizze a visszautat, mert itt ritkábban járhatnak a buszok.",
+                "ro": "Verificați orarul de întoarcere, autobuzele pot circula mai rar aici.",
+                "en": "Check the return schedule as buses might run less frequently here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse in Lleida akzeptieren kontaktlose Zahlungen; halten Sie Ihre Karte bereit.",
+              "Tragen Sie einen kompakten Knirps-Regenschirm, der im Bus nicht stört.",
+              "Die App 'Lleida Bus' bietet genaue Ankunftszeiten bei Regenverzögerungen.",
+              "Vermeiden Sie es, nasse Schirme auf den Sitzen abzulegen."
+            ],
+            "hu": [
+              "A lleidai buszokon lehet bankkártyával fizetni; tartsa készenlétben.",
+              "Hordjon kisméretű esernyőt, ami nem zavaró a buszon.",
+              "A 'Lleida Bus' alkalmazás pontos érkezési időket mutat esőben is.",
+              "Ne tegye a vizes esernyőt a busz ülésére."
+            ],
+            "ro": [
+              "Autobuzele din Lleida acceptă plăți contactless; aveți cardul pregătit.",
+              "Purtați o umbrelă compactă care să nu deranjeze în autobuz.",
+              "Aplicația 'Lleida Bus' oferă timpi de sosire precisi în caz de întârzieri.",
+              "Evitați să puneți umbrelele ude pe scaunele din autobuz."
+            ],
+            "en": [
+              "Buses in Lleida accept contactless payments; have your card ready.",
+              "Carry a compact umbrella that won't be in the way on the bus.",
+              "The 'Lleida Bus' app provides accurate arrival times during rain delays.",
+              "Avoid placing wet umbrellas on the bus seats."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter durch Lleida mit dem Bus zu fahren, bietet eine gemütliche und warme Möglichkeit, die Stadt zu erkunden. Wir starten an der La Llotja und genießen die beheizten Busse auf dem Weg zum Parc de la Mitjana. Die Fahrt zur Seu Vella erspart den frostigen Aufstieg zu Fuß. Der Nachmittag gehört den Museen und der historischen Altstadt, während wir die stimmungsvolle Winterbeleuchtung bequem aus dem Busfenster beobachten, bevor wir uns in ein gemütliches Café zurückziehen.",
+            "hu": "Télen busszal közlekedni Lleidában kényelmes és meleg módja a város felfedezésének. A La Llotja-tól indulunk, és élvezzük a fűtött buszokat a Parc de la Mitjana felé. A Seu Vella-hoz tartó járat megkímél a fagyos gyalogos emelkedőtől. A délutánt a múzeumoknak és az óvárosnak szenteljük, miközben a hangulatos téli fényeket a busz ablakából csodáljuk, mielőtt beülnénk egy meghitt kávézóba.",
+            "ro": "Iarna, călătoria cu autobuzul prin Lleida oferă o modalitate confortabilă și caldă de a explora orașul. Pornim de la La Llotja și ne bucurăm de autobuzele încălzite spre Parc de la Mitjana. Drumul spre Seu Vella ne scutește de urcarea înghețată pe jos. După-amiaza este dedicată muzeelor și centrului istoric, în timp ce observăm luminile de iarnă din fereastra autobuzului.",
+            "en": "In winter, riding the bus through Lleida offers a cozy and warm way to explore the city. Start at La Llotja and enjoy the heated buses on the way to Parc de la Mitjana. The trip to Seu Vella saves you the frosty walk up. Spend the afternoon visiting museums and the historic old town, watching the atmospheric winter lights from the bus window before heading to a cafe."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Bus to City Center",
+              "tip_5lang": {
+                "de": "Warten Sie in Geschäften nahe der Haltestelle, wenn der Bus Verspätung hat.",
+                "hu": "Várjon a megálló közeli üzletekben, ha késik a busz.",
+                "ro": "Așteptați în magazinele de lângă stație dacă autobuzul întârzie.",
+                "en": "Wait in shops near the stop if the bus is delayed."
+              }
+            },
+            {
+              "name": "Statue of Indíbil and Mandonio",
+              "tip_5lang": {
+                "de": "Die Haltestellenanzeigen sind im Winter bei Nebel besonders hilfreich.",
+                "hu": "A megállók kijelzői téli ködben különösen hasznosak.",
+                "ro": "Afișajele din stații sunt foarte utile pe timp de ceață iarna.",
+                "en": "The stop displays are especially helpful during winter fog."
+              }
+            },
+            {
+              "name": "New Cathedral of Lleida",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen der Kälte draußen und der Wärme im Bus.",
+                "hu": "Élvezze a kinti hideg és a busz belső melege közötti különbséget.",
+                "ro": "Bucurați-vă de contrastul dintre frigul de afară și căldura din autobuz.",
+                "en": "Enjoy the contrast between the cold outside and the warmth inside the bus."
+              }
+            },
+            {
+              "name": "Cluster B: Bus to Seu Vella",
+              "tip_5lang": {
+                "de": "Die Buslinie erspart Ihnen den windigen Weg den Hügel hinauf.",
+                "hu": "A buszjárat megkíméli a szeles dombra való felgyaloglástól.",
+                "ro": "Linia de autobuz vă scutește de drumul vântos de pe deal.",
+                "en": "The bus line saves you from the windy walk up the hill."
+              }
+            },
+            {
+              "name": "Museum of Lleida",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt direkt vor dem Museum; kein langer Fußweg nötig.",
+                "hu": "A megálló közvetlenül a múzeum előtt van; nincs szükség hosszú sétára.",
+                "ro": "Stația este chiar în fața muzeului; nu este nevoie de mult mers pe jos.",
+                "en": "The stop is right in front of the museum; no long walk needed."
+              }
+            },
+            {
+              "name": "Cluster C: Bus to Parc de la Mitjana",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um sich nach dem Naturspaziergang aufzuwärmen.",
+                "hu": "Használja a buszt a melegedéshez a természetjárás után.",
+                "ro": "Folosiți autobuzul pentru a vă încălzi după plimbarea în natură.",
+                "en": "Use the bus to warm up after your nature walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie, dass Busse im dichten Nebel langsamer fahren können.",
+              "Tragen Sie warme Socken, da die Zugluft an den Bustüren kühl sein kann.",
+              "Die Hauptumsteigestelle ist der Bahnhof Lleida-Pirineus.",
+              "In der Dämmerung sind die Busse oft voll; planen Sie Pufferzeiten ein."
+            ],
+            "hu": [
+              "Vegye figyelembe, hogy sűrű ködben a buszok lassabban közlekedhetnek.",
+              "Viseljen meleg zoknit, mert a buszajtóknál huzat lehet.",
+              "A fő átszállási pont a Lleida-Pirineus pályaudvar.",
+              "Szürkületkor a buszok gyakran zsúfoltak; tervezzen be ráhagyást."
+            ],
+            "ro": [
+              "Rețineți că autobuzele pot circula mai lent în caz de ceață densă.",
+              "Purtați șosete groase, deoarece curentul de la ușile autobuzului poate fi rece.",
+              "Principalul punct de transfer este gara Lleida-Pirineus.",
+              "La amurg, autobuzele sunt adesea aglomerate; planificați timp suplimentar."
+            ],
+            "en": [
+              "Keep in mind that buses may run slower in dense fog.",
+              "Wear warm socks as drafts near the bus doors can be chilly.",
+              "The main transfer point is the Lleida-Pirineus station.",
+              "Buses are often crowded at twilight; allow for extra time."
+            ]
+          }
+        }
       }
     }
   }

@@ -402,6 +402,232 @@
           "Many museums and attractions are closed on Mondays; check their schedules.",
           "Be prepared for midday (around 2-4 PM) to be siesta time, where some shops might close."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter den schützenden Arkaden der Plaça de la Independència, wo man den Regen bei einem Kaffee beobachten kann. Mittags bieten die engen Gassen des jüdischen Viertels (El Call) natürlichen Schutz, auch wenn das Kopfsteinpflaster rutschig wird. Am Nachmittag ist die Kathedrale ein trockener Rückzugsort. Der Tag endet gemütlich in den Cafés der Altstadt, während die Stadtmauern bei Regen eher kurz besucht werden.",
+            "hu": "A reggel a Plaça de la Independència árkádjai alatt indul, ahol védve vagyunk az esőtől. Délben a Zsidó negyed szűk utcái adnak némi menedéket, de a macskakő ilyenkor csúszós. Délután a székesegyház monumentális belső tere tökéletes száraz program. Az estét érdemes egy folyóparti kávézóban tölteni, mivel a városfalon esőben nehézkes a közlekedés.",
+            "ro": "Dimineața începe sub arcadele din Plaça de la Independència, oferind adăpost împotriva ploii. La prânz, străzile înguste din cartierul evreiesc oferă protecție parțială, dar atenție la piatra cubică alunecoasă. După-amiaza, Catedrala din Girona este refugiul ideal. Seara se încheie într-o cafenea primitoare, deoarece plimbarea pe zidurile cetății este dificilă pe timp de ploaie.",
+            "en": "Morning starts under the protective arcades of Plaça de la Independència, perfect for watching the rain with a coffee. By midday, the narrow alleys of the Jewish Quarter provide some shelter, though the stones get slippery. The afternoon is best spent inside the dry Cathedral. Finish the day in a cozy Old Town cafe, as the city walls are quite exposed during heavy downpours."
+          },
+          "stops": [
+            {
+              "name": "Plaça de la Independència",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden, um trocken zu bleiben.",
+                "hu": "Használja az árkádokat a várakozáshoz.",
+                "ro": "Folosiți arcadele pentru a rămâne uscați.",
+                "en": "Use the arcades to stay dry while exploring."
+              }
+            },
+            {
+              "name": "Eiffel Bridge (Pont de Ferro)",
+              "tip_5lang": {
+                "de": "Der Metallboden ist bei Nässe sehr rutschig.",
+                "hu": "A fém padló nedvesen rendkívül csúszós.",
+                "ro": "Podeaua metalică este foarte alunecoasă pe ploaie.",
+                "en": "The metal floor is very slippery when wet."
+              }
+            },
+            {
+              "name": "Houses on the Onyar River",
+              "tip_5lang": {
+                "de": "Bester Blick unter dem Vordach der Brücken.",
+                "hu": "A hidak párkánya alól fotózzon.",
+                "ro": "Cea mai bună vedere este de sub streșini.",
+                "en": "Best views are found under bridge overhangs."
+              }
+            },
+            {
+              "name": "Jewish Quarter (El Call)",
+              "tip_5lang": {
+                "de": "Vorsicht auf den steilen, nassen Treppen.",
+                "hu": "Vigyázat a meredek, nedves lépcsőkön.",
+                "ro": "Atenție la scările abrupte și umede.",
+                "en": "Be careful on the steep, wet stone stairs."
+              }
+            },
+            {
+              "name": "Girona Cathedral",
+              "tip_5lang": {
+                "de": "Idealer Ort, um einen starken Schauer abzuwarten.",
+                "hu": "Ideális hely egy nagyobb zápor kivárásához.",
+                "ro": "Locul ideal pentru a aștepta trecerea ploii.",
+                "en": "Ideal place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Arab Baths",
+              "tip_5lang": {
+                "de": "Der Innenhof ist teilweise überdacht.",
+                "hu": "A belső udvar részben fedett.",
+                "ro": "Curtea interioară este parțial acoperită.",
+                "en": "The interior courtyard is partially covered."
+              }
+            },
+            {
+              "name": "Monastery of Sant Pere de Galligants",
+              "tip_5lang": {
+                "de": "Drinnen gibt es interessante archäologische Funde.",
+                "hu": "Bent érdekes régészeti leletek várják.",
+                "ro": "În interior sunt exponate arheologice superbe.",
+                "en": "Excellent indoor archaeological exhibits."
+              }
+            },
+            {
+              "name": "City Walls (Passeig de la Muralla)",
+              "tip_5lang": {
+                "de": "Nur bei leichtem Regen begehbar; Stufen meiden.",
+                "hu": "Csak szemerkélő esőben ajánlott; a lépcsők veszélyesek.",
+                "ro": "Accesibil doar pe ploaie ușoară; evitați treptele.",
+                "en": "Only recommended in light rain; steps are risky."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Arkaden am Unabhängigkeitsplatz sind der beste Zufluchtsort bei plötzlichem Regen.",
+              "Tragen Sie Schuhe mit gutem Profil, da der Stein in der Altstadt extrem glatt wird.",
+              "Das jüdische Museum bietet eine hervorragende Indoor-Alternative im Zentrum.",
+              "Regenschirme sind bei Wind auf den Brücken schwer zu halten; Regenjacken sind besser.",
+              "Die Cafés in der Rambla de la Llibertat haben oft Markisen."
+            ],
+            "hu": [
+              "A Plaça de la Independència árkádjai a legjobb menedékek hirtelen esőben.",
+              "Vigyél tapadós talpú cipőt, mert az óváros kövei tükörsimává válnak.",
+              "A Zsidó Múzeum kiváló beltéri alternatíva a városnézés közben.",
+              "A hidakon a szél miatt az esernyő nehézkes; egy esőkabát praktikusabb.",
+              "A Rambla de la Llibertat kávézói nagy ponyvákkal védik a vendégeket."
+            ],
+            "ro": [
+              "Arcadele din Piața Independenței sunt cel mai bun refugiu în caz de ploaie.",
+              "Purtați încălțăminte cu aderență bună, piatra din orașul vechi devine lucioasă.",
+              "Muzeul de Istorie a Evreilor este o alternativă excelentă de interior.",
+              "Umbrelele sunt greu de controlat pe poduri din cauza vântului; alegeți pelerine.",
+              "Cafenelele de pe Rambla de la Llibertat au de obicei copertine mari."
+            ],
+            "en": [
+              "The arcades at Independence Square are the best refuge during sudden showers.",
+              "Wear shoes with good grip as the Old Town stones become incredibly slick.",
+              "The Jewish History Museum is a great indoor alternative in the heart of the city.",
+              "Umbrellas can be tricky on the bridges due to wind; raincoats are more practical.",
+              "Many cafes along Rambla de la Llibertat feature large, protective awnings."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen an der Plaça de la Independència startet oft mit klarem blauem Himmel. Mittags wärmt die Sonne die Steine des jüdischen Viertels, doch in den Schatten ist es kühl. Der Nachmittag bietet auf den Stadtmauern die beste Aussicht, bevor die Sonne gegen 17:30 Uhr untergeht. Den Abend verbringt man am besten bei einer heißen Schokolade in der Nähe der Onyar-Häuser.",
+            "hu": "A friss téli reggel a Plaça de la Independència téren gyakran tiszta kék éggel indul. Délben a nap felmelegíti a Zsidó negyed köveit, de az árnyékban hűvös van. Délután a városfalról nyílik a legszebb kilátás, mielőtt 17:30 körül lemegy a nap. Az estét érdemes egy forró csokoládéval zárni az Onyar-folyó házai mellett.",
+            "ro": "O dimineață răcoroasă de iarnă în Plaça de la Independència începe adesea cu un cer senin. La prânz, soarele încălzește pietrele din cartierul evreiesc, dar la umbră este frig. După-amiaza oferă cele mai bune priveliști de pe ziduri înainte de apusul de la ora 17:30. Seara se încheie perfect cu o ciocolată caldă lângă râul Onyar.",
+            "en": "A crisp winter morning at Independence Square often starts with brilliant blue skies. By midday, the sun warms the stones of the Jewish Quarter, but the shade remains chilly. The afternoon provides the clearest views from the city walls before the 5:30 PM sunset. Spend the evening enjoying a thick hot chocolate near the Onyar river houses."
+          },
+          "stops": [
+            {
+              "name": "Plaça de la Independència",
+              "tip_5lang": {
+                "de": "Die Cafés haben hier oft Außenheizungen.",
+                "hu": "A kávézók itt gyakran használnak kültéri fűtést.",
+                "ro": "Cafenelele de aici au adesea încălzitoare exterioare.",
+                "en": "Cafes here often have outdoor heaters available."
+              }
+            },
+            {
+              "name": "Eiffel Bridge (Pont de Ferro)",
+              "tip_5lang": {
+                "de": "Perfektes Fotolicht am späten Vormittag.",
+                "hu": "Tökéletes fotófények késő délelőtt.",
+                "ro": "Lumină perfectă pentru fotografii dimineața târziu.",
+                "en": "Perfect photographic light in the late morning."
+              }
+            },
+            {
+              "name": "Houses on the Onyar River",
+              "tip_5lang": {
+                "de": "Die Wintersonne lässt die Farben leuchten.",
+                "hu": "A téli napfény kiemeli a házak színeit.",
+                "ro": "Soarele de iarnă scoate în evidență culorile.",
+                "en": "Winter sun makes the facade colors pop."
+              }
+            },
+            {
+              "name": "Jewish Quarter (El Call)",
+              "tip_5lang": {
+                "de": "In den schmalen Gassen ist es kühler; Schal einpacken.",
+                "hu": "A szűk utcákban hűvösebb van; sál ajánlott.",
+                "ro": "E mai frig pe străzile înguste; luați un fular.",
+                "en": "Narrow alleys stay cool; bring a scarf."
+              }
+            },
+            {
+              "name": "Girona Cathedral",
+              "tip_5lang": {
+                "de": "Die Kirche ist innen sehr kalt; Mantel anlassen.",
+                "hu": "A templom belül nagyon hideg; ne vegye le a kabátot.",
+                "ro": "Catedrala este foarte rece; păstrați haina.",
+                "en": "The interior is very cold; keep your coat on."
+              }
+            },
+            {
+              "name": "Arab Baths",
+              "tip_5lang": {
+                "de": "Im Winter oft weniger überlaufen.",
+                "hu": "Télen gyakran sokkal kevesebb a látogató.",
+                "ro": "Iarna este mult mai puțin aglomerat aici.",
+                "en": "Much less crowded during the winter months."
+              }
+            },
+            {
+              "name": "Monastery of Sant Pere de Galligants",
+              "tip_5lang": {
+                "de": "Die Gärten sind auch im Winter reizvoll.",
+                "hu": "A kertek télen is hangulatosak.",
+                "ro": "Grădinile sunt fermecătoare chiar și iarna.",
+                "en": "The gardens remain charming even in winter."
+              }
+            },
+            {
+              "name": "City Walls (Passeig de la Muralla)",
+              "tip_5lang": {
+                "de": "Beste Fernsicht auf die Pyrenäen im Norden.",
+                "hu": "A legjobb kilátás északra a Pireneusokra.",
+                "ro": "Cea mai bună vedere spre Pirinei la nord.",
+                "en": "Best distant views of the Pyrenees to the north."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 17:25 Uhr unter.",
+              "Auf den Stadtmauern kann es durch den Wind sehr ziehen; Mütze mitnehmen.",
+              "Probieren Sie 'Xuxos', ein lokales Gebäck, das warm am besten schmeckt.",
+              "Die Museen sind beheizt und bieten eine gute Pause zum Aufwärmen.",
+              "Das Licht für Fotos ist im Winter durch den niedrigen Sonnenstand weicher."
+            ],
+            "hu": [
+              "Decemberben a nap már 17:25 körül lemegy, tervezz korán.",
+              "A városfalon a szél miatt sokkal hidegebbnek érződik az idő.",
+              "Kóstold meg a 'Xuxo'-t, a helyi süteményt, ami melegen az igazi.",
+              "A múzeumok fűtöttek, jó megállóhelyek a felmelegedéshez.",
+              "A téli fények lágyabbak, kiválóak az építészeti fotózáshoz."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 17:25 în decembrie; planificați din timp.",
+              "Pe zidurile cetății vântul poate fi tăios; purtați o căciulă.",
+              "Gustați 'Xuxos', un produs de patiserie local care e bun cald.",
+              "Muzeele sunt încălzite și oferă o pauză bună de reîncărcare.",
+              "Lumina de iarnă este mai blândă, ideală pentru fotografii."
+            ],
+            "en": [
+              "Sunset is as early as 5:25 PM in December; plan accordingly.",
+              "The wind on the city walls can be biting; bring a warm hat.",
+              "Try 'Xuxos', a local pastry that is best served warm.",
+              "Local museums are well-heated and offer a good warm-up break.",
+              "Winter light is softer and better for architectural photography."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -775,6 +1001,214 @@
           "Always lock your bike securely, even if leaving it for just a few minutes.",
           "Be mindful of pedestrians, especially in the busy areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens ist Vorsicht auf dem Weg zur Plaça de la Independència geboten, da die Straßen nass sind. Die Eiffel-Brücke überquert man mittags am besten schiebend, da das Metall rutschig ist. Nachmittags im jüdischen Viertel ist das Rad eher hinderlich; parken Sie es sicher. Der Tag endet im Devesa-Park, wo die breiten Wege auch bei Regen gut befahrbar sind.",
+            "hu": "Reggel óvatosan közelítsük meg a Plaça de la Independència teret a vizes aszfalton. Délben az Eiffel-hidat érdemes tolva átlépni a csúszós fémfelület miatt. Délután a Zsidó negyedben a bicikli inkább teher; érdemes lelakatolni. A nap a Devesa parkban zárul, ahol a széles utak esőben is jól járhatóak.",
+            "ro": "Dimineața necesită prudență pe drumul spre Plaça de la Independència din cauza asfaltului umed. La prânz, traversați Podul Eiffel pe lângă bicicletă, metalul este alunecos. După-amiaza în cartierul evreiesc, bicicleta e un impediment; parcați-o sigur. Ziua se încheie în Parcul Devesa, pe alei late și practicabile.",
+            "en": "Morning requires caution on the wet roads leading to Independence Square. By midday, it's best to walk your bike across the Eiffel Bridge as the metal slats are treacherous when wet. In the afternoon, the Jewish Quarter is best explored by parking your bike nearby. End the day at Devesa Park, where wide paths remain rideable even in the rain."
+          },
+          "stops": [
+            {
+              "name": "Plaça de la Independència",
+              "tip_5lang": {
+                "de": "Fahrradständer unter den Arkaden nutzen.",
+                "hu": "Használja az árkádok alatti tárolókat.",
+                "ro": "Folosiți rastelele de sub arcade.",
+                "en": "Use the bike racks under the arcades."
+              }
+            },
+            {
+              "name": "Eiffel Bridge",
+              "tip_5lang": {
+                "de": "Absolut nicht befahren; Sturzgefahr!",
+                "hu": "Szigorúan tilos tekerni rajta; esésveszély!",
+                "ro": "Nu pedalați aici; risc mare de cădere!",
+                "en": "Do not ride across; high risk of falling!"
+              }
+            },
+            {
+              "name": "Onyar Houses",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; Bremsen auf Nässe prüfen.",
+                "hu": "Rövid megálló; ellenőrizze a fékeket.",
+                "ro": "Oprire scurtă; verificați frânele pe ud.",
+                "en": "Short stop; check brakes on wet surfaces."
+              }
+            },
+            {
+              "name": "Jewish Quarter (El Call)",
+              "tip_5lang": {
+                "de": "Rad draußen lassen; Gassen sind zu eng.",
+                "hu": "Hagyja kint a gépet; az utcák túl szűkek.",
+                "ro": "Lăsați bicicleta afară; străzile sunt înguste.",
+                "en": "Leave your bike outside; alleys are too narrow."
+              }
+            },
+            {
+              "name": "Girona Cathedral",
+              "tip_5lang": {
+                "de": "Parken am Fuße der großen Treppe.",
+                "hu": "Parkolás a nagy lépcsősor aljánál.",
+                "ro": "Parcați la baza scărilor mari.",
+                "en": "Park at the base of the grand staircase."
+              }
+            },
+            {
+              "name": "Monastery of Sant Pere de Galligants",
+              "tip_5lang": {
+                "de": "Ruhiger Platz zum Unterstellen.",
+                "hu": "Csendes hely az eső elleni védelemhez.",
+                "ro": "Loc liniștit pentru a vă adăposti.",
+                "en": "Quiet spot to seek temporary shelter."
+              }
+            },
+            {
+              "name": "Devesa Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen auf den Erdwegen.",
+                "hu": "Vigyázat a mély tócsákkal a földutakon.",
+                "ro": "Atenție la bălțile mari de pe alei.",
+                "en": "Watch out for deep puddles on dirt paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen regelmäßig bei Nässe.",
+              "Vermeiden Sie lackierte Fahrbahnmarkierungen; sie sind spiegelglatt.",
+              "Die Metallbrücken in Girona sind die größten Gefahrenquellen für Radfahrer bei Regen.",
+              "Verwenden Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Beleuchtung einschalten, da die Sicht oft eingeschränkt ist."
+            ],
+            "hu": [
+              "Esőben rendszeresen ellenőrizd a fékeket.",
+              "Kerüld a festett útburkolati jeleket, mert nagyon csúsznak.",
+              "A fémhidak a legveszélyesebbek a bicikliseknek esőben.",
+              "Használj sárvédőt a felcsapódó víz ellen.",
+              "Kapcsold be a világítást a korlátozott látási viszonyok miatt."
+            ],
+            "ro": [
+              "Verificați frânele regulat pe timp de ploaie.",
+              "Evitați marcajele rutiere vopsite, sunt extrem de alunecoase.",
+              "Podurile metalice sunt cel mai mare pericol pentru bicicliști pe ploaie.",
+              "Folosiți apărători de noroi pentru a evita stropirea.",
+              "Aprindeți luminile, vizibilitatea este adesea redusă."
+            ],
+            "en": [
+              "Check your brakes frequently when riding in the wet.",
+              "Avoid riding on painted road markings; they are incredibly slippery.",
+              "Girona's metal bridges are the primary hazard for cyclists in rain.",
+              "Use mudguards to protect yourself from road spray.",
+              "Turn on your lights as visibility is often decreased."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Luft klirrend kalt an der Plaça de la Independència, Handschuhe sind Pflicht. Mittags genießt man die Fahrt entlang der Onyar-Häuser bei strahlendem Sonnenschein. Nachmittags im Devesa-Park ist die Luft frisch, aber die Wege sind trocken und gut befahrbar. Den Tag beendet man früh, bevor die Kälte nach Sonnenuntergang schnell zunimmt.",
+            "hu": "Reggel a levegő metszően hideg a Plaça de la Independència környékén, a kesztyű kötelező. Délben a napsütésben élvezetes a tekerés az Onyar-folyó mentén. Délután a Devesa parkban friss a levegő, az utak szárazak és jól járhatóak. Érdemes korán befejezni a túrát, mert naplemente után gyorsan hűl az idő.",
+            "ro": "Dimineața aerul este tăios în Plaça de la Independència, mănușile sunt obligatorii. La prânz, bucurați-vă de drumul de-a lungul râului Onyar sub soarele strălucitor. După-amiaza în Parcul Devesa aerul este proaspăt, iar aleile sunt uscate. Încheiați tura devreme, deoarece frigul se intensifică rapid după apus.",
+            "en": "Morning air is biting cold at Independence Square; gloves are essential. By midday, enjoy riding past the Onyar houses under brilliant winter sunshine. In the afternoon, the Devesa Park paths are crisp and dry, perfect for cycling. Wrap up your ride early as temperatures drop sharply once the sun goes down."
+          },
+          "stops": [
+            {
+              "name": "Plaça de la Independència",
+              "tip_5lang": {
+                "de": "Aufwärmen mit einem Kaffee vor dem Start.",
+                "hu": "Melegedjen fel egy kávéval indulás előtt.",
+                "ro": "Încălziți-vă cu o cafea înainte de start.",
+                "en": "Warm up with a coffee before you start."
+              }
+            },
+            {
+              "name": "Eiffel Bridge",
+              "tip_5lang": {
+                "de": "Der Wind auf der Brücke kann sehr kalt sein.",
+                "hu": "A hídon a szél nagyon hideg lehet.",
+                "ro": "Vântul de pe pod poate fi foarte rece.",
+                "en": "The wind on the bridge can be very cold."
+              }
+            },
+            {
+              "name": "Onyar Houses",
+              "tip_5lang": {
+                "de": "Beste Zeit für helle Winterfotos.",
+                "hu": "A legjobb időpont a világos téli fotókhoz.",
+                "ro": "Cel mai bun moment pentru poze luminoase.",
+                "en": "Best time for bright winter photography."
+              }
+            },
+            {
+              "name": "Jewish Quarter (El Call)",
+              "tip_5lang": {
+                "de": "Zu Fuß erkunden; Rad sicher abstellen.",
+                "hu": "Gyalogosan fedezze fel; zárja le a gépet.",
+                "ro": "Explorați pe jos; parcați bicicleta sigur.",
+                "en": "Explore on foot; park your bike securely."
+              }
+            },
+            {
+              "name": "Girona Cathedral",
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Kathedrale wärmt auf.",
+                "hu": "A katedrálishoz vezető emelkedő felmelegíti.",
+                "ro": "Urcarea spre catedrală vă va încălzi.",
+                "en": "The climb to the cathedral will warm you up."
+              }
+            },
+            {
+              "name": "Monastery of Sant Pere de Galligants",
+              "tip_5lang": {
+                "de": "Sonnige Plätze vor dem Kloster suchen.",
+                "hu": "Keressen napos helyet a kolostor előtt.",
+                "ro": "Căutați locuri însorite în fața mănăstirii.",
+                "en": "Look for sunny spots in front of the monastery."
+              }
+            },
+            {
+              "name": "Devesa Park",
+              "tip_5lang": {
+                "de": "Wunderschön im Winterlicht, aber schattig.",
+                "hu": "Gyönyörű téli fények, de árnyékos helyek.",
+                "ro": "Frumos în lumina iernii, dar cu multă umbră.",
+                "en": "Beautiful in winter light but mostly shaded."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders für die Brückenüberquerungen.",
+              "Die Reifenhaftung kann bei niedrigen Temperaturen nachlassen.",
+              "Vergewissern Sie sich, dass Ihre Akkus (E-Bike/Licht) bei Kälte schneller leer werden.",
+              "Sonnenbrille gegen die tiefstehende Wintersonne mitnehmen.",
+              "Die Wege im Devesa-Park können morgens Reif aufweisen."
+            ],
+            "hu": [
+              "Viselj szélálló ruházatot, különösen a hidakon.",
+              "A gumi tapadása csökkenhet a hideg aszfalton.",
+              "Az akkumulátorok (e-bike/lámpa) gyorsabban merülnek hidegben.",
+              "Vigyél napszemüveget az alacsonyan járó téli nap ellen.",
+              "A Devesa park útjai reggelente deresek lehetnek."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, mai ales pe poduri.",
+              "Aderența anvelopelor scade pe asfaltul rece.",
+              "Bateriile (e-bike/lumini) se descarcă mai repede la frig.",
+              "Luați ochelari de soare pentru soarele jos de iarnă.",
+              "Aleile din Parcul Devesa pot fi înghețate dimineața."
+            ],
+            "en": [
+              "Wear windproof clothing, especially for bridge crossings.",
+              "Tire grip may be reduced on very cold asphalt.",
+              "Be aware that batteries (e-bike/lights) drain faster in the cold.",
+              "Bring sunglasses to combat the low-hanging winter sun.",
+              "The paths in Devesa Park can be frosty in the mornings."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1154,6 +1588,214 @@
           "Be aware of one-way streets and limited traffic zones (ZTLs).",
           "Do not leave valuables visible in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt bequem mit der Parkplatzsuche am Berenguer Carnicer. Mittags nutzt man das Auto, um trocken zwischen den Onyar-Häusern und dem Kathedralen-Viertel zu wechseln. Den Nachmittag verbringt man in den Arabischen Bädern, bevor man zur Stadtmauer fährt. Der Regen stört beim Fahren kaum, macht aber die kurzen Fußwege zwischen Parkplatz und Sehenswürdigkeit nötig.",
+            "hu": "A nap kényelmesen indul a Berenguer Carnicer parkolóban. Délben az autót használjuk, hogy szárazon jussunk át az Onyar-házaktól a Székesegyház környékére. A délutánt az Arab fürdőben töltjük, majd a városfal felé vesszük az irányt. Az eső a vezetést nem zavarja, de a parkoló és a látnivalók közötti rövid sétákhoz esernyő kell.",
+            "ro": "Ziua începe confortabil cu parcarea la Berenguer Carnicer. La prânz folosim mașina pentru a trece uscați de la casele Onyar spre zona Catedralei. După-amiaza o petrecem la Băile Arabe înainte de a merge spre ziduri. Ploaia nu deranjează condusul, dar necesită umbrele pentru distanțele scurte de la parcare.",
+            "en": "The day starts conveniently by parking at Berenguer Carnicer. By midday, use the car to stay dry while moving between the Onyar houses and the Cathedral area. Spend the afternoon at the Arab Baths before driving toward the walls. The rain barely affects driving, but you'll need an umbrella for the short walks from the parking spots."
+          },
+          "stops": [
+            {
+              "name": "Berenguer Carnicer Parking",
+              "tip_5lang": {
+                "de": "Zentraler Startpunkt, oft schnell voll bei Regen.",
+                "hu": "Központi starthely, esőben hamar megtelik.",
+                "ro": "Punct central, se umple rapid pe ploaie.",
+                "en": "Central starting point, fills up fast when raining."
+              }
+            },
+            {
+              "name": "Plaça de la Independència",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz zu den Arkaden.",
+                "hu": "Rövid sprint a parkolótól az árkádokig.",
+                "ro": "Sprint scurt de la parcare la arcade.",
+                "en": "Short dash from the parking to the arcades."
+              }
+            },
+            {
+              "name": "Onyar Houses & Eiffel Bridge",
+              "tip_5lang": {
+                "de": "Parken Sie kurz im Parkhaus 'Plaça del Lleó'.",
+                "hu": "Parkoljon rövid időre a 'Plaça del Lleó' házban.",
+                "ro": "Parcați scurt în parcarea 'Plaça del Lleó'.",
+                "en": "Short-term parking available at 'Plaça del Lleó'."
+              }
+            },
+            {
+              "name": "Cathedral Area Parking",
+              "tip_5lang": {
+                "de": "Wenig überdachte Plätze direkt oben.",
+                "hu": "Kevés fedett hely van közvetlenül fent.",
+                "ro": "Puține locuri acoperite direct sus.",
+                "en": "Few covered spots available directly at the top."
+              }
+            },
+            {
+              "name": "Jewish Quarter & Cathedral",
+              "tip_5lang": {
+                "de": "Regenschirm für den Weg zwischen den Kirchen.",
+                "hu": "Esernyő ajánlott a templomok közötti útra.",
+                "ro": "Umbrelă necesară între biserici.",
+                "en": "Umbrella needed for the path between churches."
+              }
+            },
+            {
+              "name": "Arab Baths",
+              "tip_5lang": {
+                "de": "Trockener Innenraum für Besichtigungen.",
+                "hu": "Száraz belsőtér a látogatáshoz.",
+                "ro": "Interior uscat pentru vizitare.",
+                "en": "Dry interior for comfortable visiting."
+              }
+            },
+            {
+              "name": "City Walls",
+              "tip_5lang": {
+                "de": "Vom Parkplatz an der Uni ist es ein kurzer Weg.",
+                "hu": "Az egyetemi parkolótól csak egy rövid séta.",
+                "ro": "Drum scurt de la parcarea universității.",
+                "en": "Short walk from the university parking lot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkhäuser sind im Zentrum die trockenste Option.",
+              "Vermeiden Sie das Fahren in die ganz engen Gassen der Altstadt bei Starkregen.",
+              "Die Sicht kann durch beschlagene Scheiben eingeschränkt sein.",
+              "Nutzen Sie die Park-Apps, um das Bezahlen im Regen zu vermeiden.",
+              "Einige Parkplätze in Flussnähe könnten bei Hochwassergefahr gesperrt sein."
+            ],
+            "hu": [
+              "A parkolóházak a legszárazabb opciók a központban.",
+              "Nagy esőben kerüld az óváros legszűkebb utcáit.",
+              "A párásodó szélvédő ronthatja a látási viszonyokat.",
+              "Használj parkoló alkalmazást, hogy ne kelljen az esőben fizetned.",
+              "Folyóparti parkolók áradásveszély esetén lezárásra kerülhetnek."
+            ],
+            "ro": [
+              "Parcările etajate sunt cea mai uscată opțiune în centru.",
+              "Evitați străzile foarte înguste din orașul vechi pe ploaie torențială.",
+              "Vizibilitatea poate fi redusă din cauza geamurilor aburite.",
+              "Folosiți aplicații de parcare pentru a nu plăti în ploaie.",
+              "Unele parcări de lângă râu pot fi închise în caz de viitură."
+            ],
+            "en": [
+              "Multi-story car parks are your driest option in the center.",
+              "Avoid driving into the narrowest Old Town streets during heavy rain.",
+              "Visibility can be hampered by fogged-up windshields.",
+              "Use parking apps to avoid paying at machines in the rain.",
+              "River-side parking areas may be closed if there is a flood risk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist das Auto an der Plaça de la Independència schnell geparkt, die Kälte bleibt draußen. Mittags nutzt man das Fahrzeug für den bequemen Wechsel zwischen den historischen Vierteln. Der Nachmittag an der Stadtmauer bietet fantastische klare Fernsichten, bevor man sich im Auto wieder aufwärmt. Der Tag endet stressfrei mit einer kurzen Fahrt zurück durch das beleuchtete Girona.",
+            "hu": "Reggel az autóval gyorsan leparkolunk a Plaça de la Independència mellett, a hideg kint marad. Délben kényelmesen váltunk a történelmi negyedek között a kocsival. A délutáni városfal-látogatás tiszta kilátást ígér, utána jól esik a fűtött utastér. A nap stresszmentesen zárul a kivilágított Gironán keresztül.",
+            "ro": "Dimineața parcăm rapid lângă Plaça de la Independència, lăsând frigul afară. La prânz folosim mașina pentru a ne deplasa comod între cartierele istorice. Vizita de după-amiază la ziduri oferă o vizibilitate clară, urmată de încălzirea în mașină. Ziua se încheie relaxat, traversând Girona luminată.",
+            "en": "Morning parking at Independence Square is quick, keeping the cold at bay. By midday, use your vehicle to move comfortably between the historical districts. The afternoon walk along the city walls offers fantastic clear views, followed by a warm-up session in the car. End the day stress-free with a short drive through beautifully lit Girona."
+          },
+          "stops": [
+            {
+              "name": "Berenguer Carnicer Parking",
+              "tip_5lang": {
+                "de": "Eiskratzen entfällt meist in den tieferen Ebenen.",
+                "hu": "A mélyebb szinteken nem kell jeget kaparni.",
+                "ro": "Nu e nevoie de răzuit gheața la nivelurile de jos.",
+                "en": "No need to scrape ice at the lower levels."
+              }
+            },
+            {
+              "name": "Plaça de la Independència",
+              "tip_5lang": {
+                "de": "Perfekter Start in der warmen Morgensonne.",
+                "hu": "Tökéletes kezdés a meleg reggeli napsütésben.",
+                "ro": "Start perfect sub soarele cald de dimineață.",
+                "en": "Perfect start in the warm morning sunshine."
+              }
+            },
+            {
+              "name": "Onyar Houses & Eiffel Bridge",
+              "tip_5lang": {
+                "de": "Fotostopp; Fenster vor der Weiterfahrt enteisen.",
+                "hu": "Fotómegálló; jégtelenítse az ablakot indulás előtt.",
+                "ro": "Oprire foto; dezghețați geamurile înainte de plecare.",
+                "en": "Photo stop; defrost windows before moving on."
+              }
+            },
+            {
+              "name": "Cathedral Area Parking",
+              "tip_5lang": {
+                "de": "Parkplatzsuche ist im Winter meist entspannt.",
+                "hu": "A parkolókeresés télen általában nyugalmasabb.",
+                "ro": "Căutarea parcării e mai relaxată iarna.",
+                "en": "Finding a spot is usually easier in winter."
+              }
+            },
+            {
+              "name": "Jewish Quarter & Cathedral",
+              "tip_5lang": {
+                "de": "Ein langer Spaziergang durch das kühle Viertel.",
+                "hu": "Hosszabb séta a hűvös negyedben.",
+                "ro": "O plimbare lungă prin cartierul răcoros.",
+                "en": "A long walk through the cool district."
+              }
+            },
+            {
+              "name": "Arab Baths",
+              "tip_5lang": {
+                "de": "Wunderbarer Schutz vor dem kalten Wind.",
+                "hu": "Csodálatos védelem a hideg szél ellen.",
+                "ro": "Adăpost excelent împotriva vântului rece.",
+                "en": "Wonderful shelter from the cold wind."
+              }
+            },
+            {
+              "name": "City Walls",
+              "tip_5lang": {
+                "de": "Warme Jacke für die exponierten Abschnitte.",
+                "hu": "Meleg kabát kell a szélnek kitett részeken.",
+                "ro": "Jachetă groasă pentru porțiunile expuse.",
+                "en": "Warm jacket needed for the exposed sections."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie beheizte Parkgaragen für mehr Komfort.",
+              "Die Straßen sind im Winter in Girona meist schnee- und eisfrei.",
+              "Batteriecheck vor der Reise ist bei niedrigen Temperaturen ratsam.",
+              "Tiefstehende Sonne kann die Sicht beim Fahren stark beeinträchtigen.",
+              "Die Stadtbeleuchtung ist im Winter besonders stimmungsvoll."
+            ],
+            "hu": [
+              "Használd a fűtött parkolóházakat a kényelemért.",
+              "Girona utcái télen általában hó- és jégmentesek.",
+              "Alacsony hőmérsékletnél érdemes ellenőrizni az akkumulátort.",
+              "Az alacsony napállás erősen vakíthat vezetés közben.",
+              "A városi fények télen különösen hangulatosak."
+            ],
+            "ro": [
+              "Folosiți parcările etajate pentru mai mult confort.",
+              "Străzile din Girona sunt de obicei libere de zăpadă și gheață.",
+              "Verificarea bateriei este recomandată la temperaturi scăzute.",
+              "Soarele jos poate afecta puternic vizibilitatea la condus.",
+              "Iluminatul orașului este deosebit de spectaculos iarna."
+            ],
+            "en": [
+              "Use indoor parking garages for maximum comfort.",
+              "Girona's streets are mostly free of snow and ice in winter.",
+              "A battery check before your trip is wise for cold weather.",
+              "Low winter sun can severely impair driving visibility.",
+              "City lights are particularly atmospheric during winter evenings."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1509,6 +2151,196 @@
           "Buses can be crowded in summer. Be prepared for some waiting.",
           "Most central sights are walkable, use the bus to connect longer distances."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Ankunft am Bahnhof ist bei Regen ideal, da man direkt unter das Vordach gelangt. Mittags bringen Busse einen trocken zur Plaça de la Independència und zu den Onyar-Häusern. Der Nachmittag wird in der Kathedrale verbracht, wobei die Busverbindungen die Laufwege im Regen minimieren. Der Tag endet trocken in der Wartehalle des Bahnhofs vor der Rückfahrt.",
+            "hu": "Az állomásra érkezés esőben ideális, mert rögtön fedett helyre kerülünk. Délben a buszok szárazon visznek a Plaça de la Independència és az Onyar-házak felé. A délutánt a Székesegyházban töltjük, a buszjáratok pedig minimalizálják az esőben való gyaloglást. A nap a vasútállomás várótermében zárul szárazon.",
+            "ro": "Sosirea la gară este ideală pe ploaie, fiind un spațiu acoperit. La prânz, autobuzele vă duc uscați spre Piața Independenței și casele Onyar. După-amiaza o petreceți la Catedrală, folosind transportul pentru a evita ploaia. Ziua se încheie în sala de așteptare a gării, la adăpost.",
+            "en": "Arriving at the station is ideal in rain as it provides immediate shelter. By midday, buses keep you dry while moving to Independence Square and the Onyar houses. Spend the afternoon at the Cathedral, utilizing bus connections to minimize walking in the rain. End your day dry in the station's waiting hall before your departure."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus/Train Station",
+              "tip_5lang": {
+                "de": "Große Wartehalle, um den Schirm aufzuspannen.",
+                "hu": "Nagy váróterem az esernyő kinyitásához.",
+                "ro": "Sală mare de așteptare pentru a pregăti umbrela.",
+                "en": "Large waiting hall to get your umbrella ready."
+              }
+            },
+            {
+              "name": "Plaça de la Independència",
+              "tip_5lang": {
+                "de": "Bus L11 hält fast direkt vor den Arkaden.",
+                "hu": "Az L11 busz szinte az árkádok előtt áll meg.",
+                "ro": "Autobuzul L11 oprește aproape de arcade.",
+                "en": "L11 bus stops almost directly in front of the arcades."
+              }
+            },
+            {
+              "name": "Onyar Houses & Eiffel Bridge",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Bushaltestelle 'Jutjats'.",
+                "hu": "Rövid séta a 'Jutjats' buszmegállótól.",
+                "ro": "Drum scurt de la stația de autobuz 'Jutjats'.",
+                "en": "Short walk from 'Jutjats' bus stop."
+              }
+            },
+            {
+              "name": "Jewish Quarter (El Call)",
+              "tip_5lang": {
+                "de": "Vom Zentrum aus leicht mit dem Bus L1 erreichbar.",
+                "hu": "A központból könnyen elérhető az L1 busszal.",
+                "ro": "Accesibil ușor din centru cu L1.",
+                "en": "Easily reachable from the center via L1."
+              }
+            },
+            {
+              "name": "Cathedral & Arab Baths",
+              "tip_5lang": {
+                "de": "Nutzen Sie den L7-Bus für den Bergaufweg.",
+                "hu": "Használja az L7 buszt a felfelé úthoz.",
+                "ro": "Folosiți L7 pentru a urca dealul.",
+                "en": "Use the L7 bus for the uphill climb."
+              }
+            },
+            {
+              "name": "City Walls",
+              "tip_5lang": {
+                "de": "Bushaltestelle 'UdG' ist der nächste trockene Punkt.",
+                "hu": "Az 'UdG' megálló a legközelebbi száraz pont.",
+                "ro": "Stația 'UdG' este cel mai apropiat punct uscat.",
+                "en": "The 'UdG' stop is the nearest dry point."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse L1, L2 und L11 sind die wichtigsten Linien für Touristen.",
+              "Kaufen Sie eine T-10 Karte, um Umstiege günstiger zu machen.",
+              "Die Haltestellen haben meist gute Überdachungen gegen Regen.",
+              "Prüfen Sie die Echtzeit-App, um nicht im Regen warten zu müssen.",
+              "Der Bahnhof bietet Schließfächer für nasse Ausrüstung."
+            ],
+            "hu": [
+              "Az L1, L2 és L11 buszok a legfontosabb járatok a turistáknak.",
+              "Vegyél T-10 kártyát a kedvezőbb átszállásokért.",
+              "A megállók többsége jól védett az eső ellen.",
+              "Ellenőrizd a menetrendet applikáción, hogy ne várj az esőben.",
+              "Az állomáson csomagmegőrzők is vannak a vizes holmiknak."
+            ],
+            "ro": [
+              "Liniile L1, L2 și L11 sunt cele mai utile pentru turiști.",
+              "Cumpărați un card T-10 pentru transferuri mai ieftine.",
+              "Majoritatea stațiilor sunt bine acoperite împotriva ploii.",
+              "Verificați aplicația în timp real pentru a nu aștepta în ploaie.",
+              "Gara oferă dulapuri pentru depozitarea bagajelor umede."
+            ],
+            "en": [
+              "Buses L1, L2, and L11 are the key lines for city explorers.",
+              "Buy a T-10 card for cheaper transfers between lines.",
+              "Most bus stops have good shelters against the rain.",
+              "Check the real-time app to avoid waiting in the downpour.",
+              "The train station provides lockers for storing wet gear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Ankunft am Bahnhof angenehm temperiert. Mit dem Bus geht es mittags schnell zur sonnigen Plaça de la Independència. Der Nachmittag wird für die historischen Stätten genutzt, wobei der Bus den Rückweg vom Hügel der Kathedrale erleichtert. Den Tag beendet man entspannt im warmen Zug oder Bus zurück, während es draußen bereits dunkel ist.",
+            "hu": "Reggel a vasútállomásra érkezéskor kellemes a hőmérséklet. Busszal délben gyorsan elérjük a napos Plaça de la Independència teret. A délutánt a történelmi helyszíneken töltjük, a busz pedig megkönnyíti a lejutást a katedrálistól. A napot a meleg vonatban vagy buszon fejezzük be, miközben kint már sötét van.",
+            "ro": "Dimineața sosirea la gară este confortabilă termic. Cu autobuzul ajungem rapid în însorita Piață a Independenței la prânz. După-amiaza explorăm siturile istorice, autobuzul facilitând coborârea de la Catedrală. Ziua se încheie relaxat în trenul sau autobuzul cald, pe întuneric.",
+            "en": "Morning arrival at the station is comfortably warm. By midday, a quick bus ride takes you to sunny Independence Square. Spend the afternoon exploring historical sites, with buses making the return from the Cathedral hill much easier. Wrap up your day in a warm train or bus as darkness sets in outside."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus/Train Station",
+              "tip_5lang": {
+                "de": "Kiosk für warme Getränke vorhanden.",
+                "hu": "Kioszk forró italokkal az állomáson.",
+                "ro": "Chioșc cu băuturi calde disponibil în gară.",
+                "en": "Kiosk with hot drinks available at the station."
+              }
+            },
+            {
+              "name": "Plaça de la Independència",
+              "tip_5lang": {
+                "de": "Kurze Busfahrt spart den kalten Fußweg.",
+                "hu": "A rövid buszút megkíméli a hideg sétától.",
+                "ro": "Drumul scurt cu autobuzul vă scutește de mersul prin frig.",
+                "en": "Short bus ride saves you from a cold walk."
+              }
+            },
+            {
+              "name": "Onyar Houses & Eiffel Bridge",
+              "tip_5lang": {
+                "de": "Schöne Aussicht aus dem Bus beim Überqueren.",
+                "hu": "Szép kilátás a buszból átkelés közben.",
+                "ro": "Vedere frumoasă din autobuz în timpul traversării.",
+                "en": "Great views from the bus during the crossing."
+              }
+            },
+            {
+              "name": "Jewish Quarter (El Call)",
+              "tip_5lang": {
+                "de": "L1-Bus hält nahe dem Eingang zum Viertel.",
+                "hu": "Az L1 busz a negyed bejárata közelében áll meg.",
+                "ro": "Autobuzul L1 oprește aproape de intrarea în cartier.",
+                "en": "L1 bus stops near the entrance of the quarter."
+              }
+            },
+            {
+              "name": "Cathedral & Arab Baths",
+              "tip_5lang": {
+                "de": "Bus L7 fährt alle 15-30 Minuten.",
+                "hu": "Az L7 busz 15-30 percenként közlekedik.",
+                "ro": "L7 circulă la fiecare 15-30 de minute.",
+                "en": "L7 bus runs every 15-30 minutes."
+              }
+            },
+            {
+              "name": "City Walls",
+              "tip_5lang": {
+                "de": "Vom oberen Ende ist der Bus zurück bequemer.",
+                "hu": "A felső végétől kényelmesebb busszal visszatérni.",
+                "ro": "De la capătul de sus e mai comod să reveniți cu autobuzul.",
+                "en": "Returning by bus from the top end is more comfortable."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter gut beheizt.",
+              "Die T-10 Karte ist am Bahnhofsschalter erhältlich.",
+              "Winterfahrpläne unterscheiden sich kaum vom Sommer.",
+              "Die Busse fahren bis spät in den Abend hinein.",
+              "Der Bahnhof ist ein guter Ort, um die Zeit bis zur Abfahrt im Warmen zu verbringen."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek.",
+              "A T-10 kártya beszerezhető a vasútállomás pénztáránál.",
+              "A téli menetrend alig tér el a nyáritól.",
+              "A buszok késő estig közlekednek.",
+              "Az állomás jó hely a várakozásra a melegben indulás előtt."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite iarna.",
+              "Cardul T-10 poate fi cumpărat de la ghișeul gării.",
+              "Orarele de iarnă nu diferă mult de cele de vară.",
+              "Autobuzele circulă până târziu în noapte.",
+              "Gara este un loc bun pentru a aștepta plecarea la căldură."
+            ],
+            "en": [
+              "Local buses are well-heated during the winter months.",
+              "Purchase a T-10 card at the station ticket counter.",
+              "Winter schedules are very similar to summer ones.",
+              "Buses run frequently until late in the evening.",
+              "The station is a comfortable place to wait for your trip in the heat."
+            ]
+          }
+        }
       }
     }
   }

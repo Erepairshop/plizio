@@ -402,6 +402,206 @@
           "Check cathedral opening times in advance as it may be closed for services.",
           "Derby is quite compact, making it ideal to explore on foot."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt an der Derby Cathedral, deren Turm stolz im Grau aufragt. Das Kirchenschiff bietet einen trockenen Zufluchtsort für die erste Erkundung.\n\nMittags führt der Weg schnell ins Derby Museum oder Pickford's House. Diese historischen Mauern schützen perfekt vor den Schauern und laden zum Verweilen in vergangene Zeiten ein.\n\nAm Nachmittag bietet das Museum of Making am Flussufer großzügige Innenräume. Der Blick aus den Fenstern auf den Regen über dem Derwent ist besonders stimmungsvoll und beruhigend.\n\nDer Abend endet mit einem kurzen Spaziergang zum Darley Park. Die nassen Wege glänzen im Licht, und die frische, gewaschene Luft bildet einen belebenden Abschluss des Stadttages.",
+            "hu": "Az esős reggel a Derby-katedrálisnál kezdődik, ahol a monumentális torony a szürke ég felé magasodik. A templombelső biztonságos menedéket nyújt a záporok elől.\n\nDélben a Derby Múzeum és a Pickford's House kiállításai várnak. Ezek a helyszínek tökéletesek arra, hogy szárazon maradva merüljünk el a város gazdag művészeti és társadalmi múltjában.\n\nDélután az ipari múzeum tágas csarnokai kínálnak fedett programot. A folyóparti épület ablakaiból figyelhetjük a Derwent vizén táncoló esőcseppeket, miközben a technikai vívmányokat csodáljuk.\n\nAz este a Darley Parkban zárul egy rövid, frissítő sétával. Az eső áztatta sétányok csillognak a lámpafényben, a tiszta levegő pedig tökéletes lezárása a napnak.",
+            "ro": "O dimineață ploioasă începe la Catedrala din Derby, al cărei turn veghează prin nori. Interiorul catedralei oferă un refugiu liniștit și uscat pentru primele momente ale vizitei.\n\nLa prânz, explorăm Muzeul Derby și Pickford's House. Aceste spații culturale sunt ideale pentru a evita ploaia, oferind în același timp o incursiune fascinantă în istoria locală.\n\nDupă-amiaza este dedicată Muzeului de Making de pe malul râului. Spațiile sale interioare vaste permit o explorare confortabilă, în timp ce ploaia cade peste apele râului Derwent.\n\nSeara se încheie cu o scurtă plimbare prin Darley Park. Aleile umede reflectă luminile orașului, iar aerul curat de după ploaie oferă o notă revigorantă finalului de zi.",
+            "en": "A rainy morning starts at Derby Cathedral, where the grand tower stands tall against the grey sky. The nave provides a peaceful, dry sanctuary to begin your exploration.\n\nBy midday, seek cover in the Derby Museum and Art Gallery or Pickford's House. These cultural havens are perfect for staying dry while discovering the city's artistic heritage.\n\nIn the afternoon, the Museum of Making offers vast indoor spaces. Watching the rain fall over the River Derwent from the large windows adds a moody charm to the industrial exhibits.\n\nThe evening concludes with a brisk walk to Darley Park. The wet paths glisten under the streetlights, and the fresh, rain-washed air provides a revitalizing end to the tour."
+          },
+          "stops": [
+            {
+              "name": "Derby Cathedral",
+              "tip_5lang": {
+                "de": "Trockener Rückzugsort im Kirchenschiff.",
+                "hu": "Száraz menedék a főhajóban.",
+                "ro": "Refugiu uscat în interiorul catedralei.",
+                "en": "Dry sanctuary inside the nave."
+              }
+            },
+            {
+              "name": "Derby Museum and Art Gallery",
+              "tip_5lang": {
+                "de": "Ideal für regnerische Mittagsstunden.",
+                "hu": "Ideális az esős déli órákban.",
+                "ro": "Ideal pentru orele ploioase de prânz.",
+                "en": "Ideal for rainy midday hours."
+              }
+            },
+            {
+              "name": "Pickford's House Museum",
+              "tip_5lang": {
+                "de": "Gemütliche Innenräume entdecken.",
+                "hu": "Fedezze fel a barátságos belső tereket.",
+                "ro": "Descoperiți interioarele primitoare.",
+                "en": "Discover the cozy indoor spaces."
+              }
+            },
+            {
+              "name": "Museum of Making",
+              "tip_5lang": {
+                "de": "Viel Platz unter dem Industriedach.",
+                "hu": "Tágas terek az ipari tető alatt.",
+                "ro": "Spații vaste sub acoperiș industrial.",
+                "en": "Vast spaces under the industrial roof."
+              }
+            },
+            {
+              "name": "St Mary's Church",
+              "tip_5lang": {
+                "de": "Kurze Pause im Trockenen.",
+                "hu": "Rövid szünet a szárazon.",
+                "ro": "Scurtă pauză la adăpost.",
+                "en": "Short break in the dry."
+              }
+            },
+            {
+              "name": "Guildhall Theatre",
+              "tip_5lang": {
+                "de": "Blick auf die historische Fassade.",
+                "hu": "Pillantás a történelmi homlokzatra.",
+                "ro": "Privire asupra fațadei istorice.",
+                "en": "Quick look at the historic facade."
+              }
+            },
+            {
+              "name": "Darley Park",
+              "tip_5lang": {
+                "de": "Feste Wege nutzen, Wiesen meiden.",
+                "hu": "Használja a járdát, kerülje a füvet.",
+                "ro": "Folosiți aleile pavate, evitați iarba.",
+                "en": "Stick to paths, avoid wet grass."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die überdachten Passagen im Cathedral Quarter.",
+              "Ein stabiler Regenschirm ist bei britischem Wetter Pflicht.",
+              "Die Museen bieten kostenlose Garderoben für nasse Mäntel.",
+              "Feste Lederschuhe verhindern nasse Füße auf dem Pflaster."
+            ],
+            "hu": [
+              "Használja a katedrális negyed fedett átjáróit.",
+              "A brit időjáráshoz elengedhetetlen egy erős esernyő.",
+              "A múzeumokban van ruhatár a vizes kabátoknak.",
+              "A bőrcipő segít szárazon tartani a lábat a kövön."
+            ],
+            "ro": [
+              "Folosiți pasajele acoperite din Cathedral Quarter.",
+              "O umbrelă rezistentă este obligatorie în Derby.",
+              "Muzeele oferă garderobe pentru haine umede.",
+              "Încălțămintea din piele previne picioarele ude pe pavaj."
+            ],
+            "en": [
+              "Use the covered passages in the Cathedral Quarter.",
+              "A sturdy umbrella is essential for British weather.",
+              "Museums offer cloakrooms for your wet coats.",
+              "Solid leather shoes keep your feet dry on the pavement."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen hüllt die Derby Cathedral in eine kühle Aura. Der Atem dampft in der kalten Luft, während man die feinen Steinmetzarbeiten bewundert.\n\nZur Mittagszeit locken die beheizten Säle des Derby Museums und des Pickford's House. Hier kann man sich aufwärmen und gleichzeitig in die lokale Kulturgeschichte eintauchen.\n\nDer Nachmittag im Museum of Making bietet Schutz vor dem beißenden Winterwind. Das warme Licht im Inneren bildet einen gemütlichen Kontrast zur frühen Dämmerung draußen am Fluss.\n\nWenn die Dunkelheit am frühen Abend hereinbricht, leuchtet der Darley Park in der Stadtbeleuchtung. Ein kurzer Spaziergang in der Winterkälte macht die anschließende Rückkehr ins Warme umso schöner.",
+            "hu": "A deres reggel hűvös aurába burkolja a Derby-katedrálist. A lehelet látszik a hideg levegőben, miközben a templom finom kőfaragásait csodáljuk.\n\nDélidőben a Derby Múzeum és a Pickford's House fűtött termei hívogatnak. Itt kényelmesen felmelegedhetünk, miközben a helyi történelem emlékeit böngésszük.\n\nA délután az ipari múzeumban telik, távol a csípős téli széltől. A benti meleg fények barátságos kontrasztot alkotnak a folyóparton korán beköszöntő alkonnyal.\n\nAhogy a sötétség korán leszáll, a Darley Park a városi fényekben úszik. Egy rövid séta a téli hidegben még élvezetesebbé teszi a nap végén a melegbe való visszatérést.",
+            "ro": "O dimineață geroasă învăluie Catedrala din Derby într-o aură rece. Respirația devine vizibilă în aerul tăios în timp ce admirați detaliile arhitecturale.\n\nLa prânz, sălile încălzite ale Muzeului Derby și Pickford's House sunt refugiul perfect. Vă puteți încălzi în timp ce explorați istoria fascinantă a regiunii.\n\nDupă-amiaza la Muzeul de Making oferă protecție împotriva vântului de iarnă. Luminile calde din interior creează un contrast plăcut cu amurgul timpuriu de afară.\n\nPe măsură ce întunericul coboară devreme, Darley Park strălucește sub luminile orașului. O scurtă plimbare prin frigul iernii face revenirea la căldură și mai plăcută.",
+            "en": "A frosty morning wraps Derby Cathedral in a crisp, cool aura. Your breath mists in the cold air while you admire the intricate stonework of the tower.\n\nAt midday, the heated galleries of the Derby Museum and Pickford's House beckon. It's the perfect time to warm up while soaking in the local history.\n\nSpend the afternoon at the Museum of Making, sheltered from the biting winter wind. The warm indoor lighting contrasts beautifully with the early dusk by the river.\n\nAs darkness falls early, Darley Park glows under the city lights. A short walk in the winter chill makes the eventual return to warmth feel even better."
+          },
+          "stops": [
+            {
+              "name": "Derby Cathedral",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den kühlen Turm.",
+                "hu": "Öltözzön rétegesen a hűvös toronyhoz.",
+                "ro": "Haine groase pentru turnul răcoros.",
+                "en": "Wear layers for the cool tower."
+              }
+            },
+            {
+              "name": "Derby Museum and Art Gallery",
+              "tip_5lang": {
+                "de": "Perfekter Ort zum Aufwärmen.",
+                "hu": "Tökéletes hely a felmelegedéshez.",
+                "ro": "Locul perfect pentru încălzire.",
+                "en": "Perfect place to warm up."
+              }
+            },
+            {
+              "name": "Pickford's House Museum",
+              "tip_5lang": {
+                "de": "Gemütliche winterliche Atmosphäre.",
+                "hu": "Meghitt téli hangulat.",
+                "ro": "Atmosferă de iarnă primitoare.",
+                "en": "Cozy winter atmosphere."
+              }
+            },
+            {
+              "name": "Museum of Making",
+              "tip_5lang": {
+                "de": "Winter-Panorama am Flussufer.",
+                "hu": "Téli panoráma a folyóparton.",
+                "ro": "Panoramă de iarnă pe malul râului.",
+                "en": "Winter panorama by the river."
+              }
+            },
+            {
+              "name": "St Mary's Church",
+              "tip_5lang": {
+                "de": "Ruhiger Moment im Halbdunkel.",
+                "hu": "Csendes pillanat a félhomályban.",
+                "ro": "Moment de liniște în semi-întuneric.",
+                "en": "Quiet moment in the dim light."
+              }
+            },
+            {
+              "name": "Guildhall Theatre",
+              "tip_5lang": {
+                "de": "Beleuchtete Fassade am Abend.",
+                "hu": "Kivilágított homlokzat este.",
+                "ro": "Fațadă iluminată seara.",
+                "en": "Illuminated facade in the evening."
+              }
+            },
+            {
+              "name": "Darley Park",
+              "tip_5lang": {
+                "de": "Früher Sonnenuntergang beachten.",
+                "hu": "Figyeljen a korai naplementére.",
+                "ro": "Atenție la apusul timpuriu.",
+                "en": "Mind the early sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Museen sind im Winter gut beheizt.",
+              "Warme Handschuhe sind für längere Wege nötig.",
+              "Ab 16:00 Uhr beginnt die Dämmerung in Derby.",
+              "Ein heißer Tee im Museumscafé stärkt die Geister."
+            ],
+            "hu": [
+              "A múzeumok télen jól fűtöttek.",
+              "Hosszabb sétákhoz meleg kesztyű szükséges.",
+              "Derby-ben már 16:00 körül sötétedik.",
+              "Egy forró tea a múzeumi kávézóban élénkítő."
+            ],
+            "ro": [
+              "Muzeele sunt bine încălzite iarna.",
+              "Mănușile groase sunt necesare pentru plimbări.",
+              "Amurgul începe în jurul orei 16:00 în Derby.",
+              "Un ceai fierbinte la cafenea vă va revigora."
+            ],
+            "en": [
+              "Museums are well-heated during winter.",
+              "Warm gloves are needed for longer walks.",
+              "Sunset in Derby starts around 4 PM in winter.",
+              "A hot tea in the museum cafe is very refreshing."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -774,6 +974,188 @@
           "Some central areas can be busy; be prepared to dismount and walk your bike.",
           "A lightweight bike lock is recommended as you'll be carrying it all day."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start im Markeaton Park, wo die Reifen auf den feuchten Wegen leise spritzen. Die Natur wirkt im Regen besonders intensiv und grün.\n\nDas Museum of Making dient als großer, trockener Ankerpunkt zur Mittagszeit. Die Fahrräder stehen sicher, während man drinnen die Industriekultur erkundet.\n\nNachmittags führt die Route durch das Cathedral Quarter. Die Kathedrale und das Derby Museum bieten willkommene Pausen vom Regen, bevor es weiter zur Pickford's House geht.\n\nDer Tag endet mit einer Fahrt durch den Darley Park. Die Wege am Fluss sind bei Regen oft leerer, was eine fast meditative Fahrt durch die feuchte Luft ermöglicht.",
+            "hu": "Vizes kezdés a Markeaton Parkban, ahol a kerekek halkan fröcskölnek a nedves utakon. A természet az esőben különösen üde és zöld.\n\nAz ipari múzeum kiváló, száraz bázis délidőben. A kerékpárokat biztonságba helyezve fedezhetjük fel bent a technikatörténetet.\n\nDélután az út a Katedrális negyeden át vezet. A katedrális és a Derby Múzeum remek megálló az eső elől, mielőtt továbbgurulnánk a Pickford's House-hoz.\n\nA nap a Darley Parkban zárul. Az esőben a folyóparti utak üresebbek, ami meditatív tekerést tesz lehetővé a friss, párás levegőben.",
+            "ro": "Un început umed în Markeaton Park, unde anvelopele stropesc ușor pe aleile ude. Natura pare deosebit de intensă și verde sub ploaie.\n\nMuzeul de Making servește ca punct de ancorare uscat la prânz. Bicicletele sunt parcate în siguranță cât timp explorați cultura industrială.\n\nDupă-amiaza, traseul trece prin Cathedral Quarter. Catedrala și Muzeul Derby oferă pauze binevenite de ploaie înainte de a merge spre Pickford's House.\n\nZiua se încheie cu o tură prin Darley Park. Aleile de lângă râu sunt mai libere pe ploaie, permițând o plimbare meditativă prin aerul umed.",
+            "en": "A wet start at Markeaton Park, with tires splashing softly on the damp paths. The park scenery looks remarkably lush and green in the rain.\n\nThe Museum of Making serves as a great dry anchor point at midday. Park your bike securely while you explore the industrial history indoors.\n\nIn the afternoon, the route takes you through the Cathedral Quarter. The Cathedral and Derby Museum offer welcome breaks from the rain before heading to Pickford's House.\n\nThe day ends with a ride through Darley Park. The riverside paths are often quieter in the rain, allowing for a peaceful, meditative cycle through the fresh air."
+          },
+          "stops": [
+            {
+              "name": "Markeaton Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen auf den Wegen.",
+                "hu": "Vigyázzon a tócsákra az utakon.",
+                "ro": "Atenție la bălțile de pe alei.",
+                "en": "Watch out for puddles on the paths."
+              }
+            },
+            {
+              "name": "Museum of Making",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer im Trockenen.",
+                "hu": "Biztonságos, száraz biciklitárolók.",
+                "ro": "Rafturi de biciclete în siguranță.",
+                "en": "Secure bike racks in the dry."
+              }
+            },
+            {
+              "name": "Derby Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um trocken zu werden.",
+                "hu": "Rövid megálló a száradáshoz.",
+                "ro": "Scurt popas pentru a vă usca.",
+                "en": "Short stop to dry off."
+              }
+            },
+            {
+              "name": "Derby Museum and Art Gallery",
+              "tip_5lang": {
+                "de": "Hintereingang oft wettergeschützter.",
+                "hu": "A hátsó bejárat védettebb az esőtől.",
+                "ro": "Intrarea din spate e mai protejată.",
+                "en": "Back entrance is more sheltered."
+              }
+            },
+            {
+              "name": "Pickford's House Museum",
+              "tip_5lang": {
+                "de": "Bremsen auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a vizes macskakövön.",
+                "ro": "Frânați cu grijă pe piatra udă.",
+                "en": "Brake carefully on wet cobbles."
+              }
+            },
+            {
+              "name": "Darley Park",
+              "tip_5lang": {
+                "de": "Slippy-Warnung auf Flusswegen.",
+                "hu": "Csúszós utak a folyó mentén.",
+                "ro": "Atenție la aleile alunecoase.",
+                "en": "Slippery paths along the river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserfeste Regenjacke.",
+              "Vermeiden Sie scharfes Bremsen auf nassen Blättern.",
+              "Schutzbleche am Fahrrad sind heute sehr nützlich.",
+              "Wischen Sie den Sattel vor der Abfahrt trocken."
+            ],
+            "hu": [
+              "Viseljen vízálló esőkabátot.",
+              "Kerülje az erős fékezést a vizes leveleken.",
+              "A sárvédő ma nagyon hasznos lesz.",
+              "Indulás előtt törölje szárazra a nyerget."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie impermeabilă.",
+              "Evitați frânarea bruscă pe frunze ude.",
+              "Apărătorile sunt foarte utile astăzi.",
+              "Ștergeți șaua înainte de plecare."
+            ],
+            "en": [
+              "Wear a waterproof rain jacket.",
+              "Avoid sharp braking on wet leaves.",
+              "Mudguards are very useful today.",
+              "Wipe your saddle dry before riding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start im Markeaton Park, wo der Reif auf den Wiesen glitzert. Die klare Winterluft macht das Treten in die Pedale besonders erfrischend.\n\nMittags bietet das Museum of Making die perfekte Gelegenheit, die kalten Finger aufzuwärmen. Die Kombination aus Technik und Wärme ist ein Highlight der Tour.\n\nAm Nachmittag geht es zur Kathedrale und zum Derby Museum. Die kurzen Fahrten zwischen den Gebäuden halten den Körper in Bewegung, ohne auszukühlen.\n\nZum Abschluss führt der Weg in der frühen Dämmerung durch den Darley Park. Die Winterbeleuchtung am Flussufer schafft eine zauberhafte Kulisse für die letzte Etappe des Tages.",
+            "hu": "Hűvös kezdés a Markeaton Parkban, ahol a dér csillog a réteken. A tiszta téli levegőben különösen frissítő a tekerés.\n\nDélben az ipari múzeum tökéletes alkalom a kihűlt ujjak felmelegítésére. A technika és a benti meleg kombinációja a túra csúcspontja.\n\nDélután a katedrális és a Derby Múzeum következik. Az épületek közötti rövid utak mozgásban tartják a testet anélkül, hogy túlságosan lehűlnénk.\n\nZárásként az út a korai szürkületben a Darley Parkon át vezet. A folyóparti téli világítás varázslatos díszletet ad a nap utolsó szakaszának.",
+            "ro": "Un început răcoros în Markeaton Park, unde bruma sclipește pe iarbă. Aerul curat de iarnă face pedalatul deosebit de revigorant.\n\nLa prânz, Muzeul de Making oferă ocazia perfectă de a vă încălzi mâinile reci. Combinația de tehnologie și căldură este un punct forte.\n\nDupă-amiaza vizităm Catedrala și Muzeul Derby. Distanțele scurte dintre clădiri vă mențin corpul în mișcare fără a răci prea tare.\n\nLa final, traseul trece prin Darley Park în amurgul timpuriu. Iluminatul de iarnă de pe malul râului creează un cadru magic pentru ultima etapă.",
+            "en": "A crisp start at Markeaton Park, where frost glitters on the meadows. The clear winter air makes pedaling especially invigorating.\n\nAt midday, the Museum of Making provides a perfect chance to warm up cold fingers. The blend of technology and indoor comfort is a tour highlight.\n\nIn the afternoon, head to the Cathedral and Derby Museum. The short rides between historic sites keep you moving without letting you get too cold.\n\nTo finish, ride through Darley Park as dusk sets in. The winter lights along the riverbank create a magical backdrop for the final leg of the day."
+          },
+          "stops": [
+            {
+              "name": "Markeaton Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei überfrorener Nässe.",
+                "hu": "Vigyázzon a fagyott foltokra.",
+                "ro": "Atenție la porțiunile cu polei.",
+                "en": "Watch out for icy patches."
+              }
+            },
+            {
+              "name": "Museum of Making",
+              "tip_5lang": {
+                "de": "Pause im warmen Foyer einplanen.",
+                "hu": "Tervezzen pihenőt a meleg aulában.",
+                "ro": "Planificați o pauză în foaierul cald.",
+                "en": "Plan a break in the warm foyer."
+              }
+            },
+            {
+              "name": "Derby Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Stopp am warmen Heizkörper.",
+                "hu": "Rövid megálló a fűtőtestnél.",
+                "ro": "Scurt popas lângă calorifer.",
+                "en": "Quick stop near the heater."
+              }
+            },
+            {
+              "name": "Derby Museum and Art Gallery",
+              "tip_5lang": {
+                "de": "Warmer Kakao im Café als Belohnung.",
+                "hu": "Jutalom meleg kakaó a kávézóban.",
+                "ro": "O ciocolată caldă la cafenea.",
+                "en": "Hot cocoa in the cafe as a reward."
+              }
+            },
+            {
+              "name": "Pickford's House Museum",
+              "tip_5lang": {
+                "de": "Kopfsteinpflaster kann glatt sein.",
+                "hu": "A macskakő csúszós lehet.",
+                "ro": "Piatra cubică poate fi lunecoasă.",
+                "en": "Cobblestones can be slippery."
+              }
+            },
+            {
+              "name": "Darley Park",
+              "tip_5lang": {
+                "de": "Fahrradbeleuchtung früh einschalten.",
+                "hu": "Kapcsolja be korán a lámpákat.",
+                "ro": "Aprindeți luminile bicicletei devreme.",
+                "en": "Turn on bike lights early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten Kleidung.",
+              "Handschuhe sind beim Radfahren im Winter kritisch.",
+              "Prüfen Sie den Reifendruck bei Kälte.",
+              "Nutzen Sie ein helles Frontlicht ab 15:30 Uhr."
+            ],
+            "hu": [
+              "Viseljen több réteg ruhát.",
+              "A kesztyű téli bringázásnál alapfeltétel.",
+              "Hidegben ellenőrizze a guminyomást.",
+              "15:30-tól használjon erős első lámpát."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine.",
+              "Mănușile sunt critice pentru ciclism iarna.",
+              "Verificați presiunea roților la frig.",
+              "Folosiți o lumină puternică după 15:30."
+            ],
+            "en": [
+              "Wear several layers of clothing.",
+              "Gloves are critical for cycling in winter.",
+              "Check tire pressure in cold weather.",
+              "Use a bright front light from 3:30 PM."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1170,6 +1552,206 @@
           "Plan your drives outside of peak hours to avoid congestion.",
           "Check parking restrictions carefully, especially near attractions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt bequem mit der Fahrt zum Cathedral Quarter. Der Regen trommelt auf das Autodach, während man direkt am historischen Zentrum parkt.\n\nZur Mittagszeit bieten das Derby Museum und das Museum of Making trockene Ziele. Kurze Wege vom Parkplatz zum Eingang halten die Kleidung weitgehend trocken.\n\nAm Nachmittag führt die Route zu den Parks. Auch im Regen bietet die Fahrt durch den Darley Park und Markeaton Park schöne Ausblicke, ohne nass zu werden.\n\nDer Tag endet beim Pickford's House. Die Fahrt durch die glänzenden, nassen Straßen von Derby vermittelt ein gemütliches Stadtgefühl im geschützten Wagen.",
+            "hu": "A nap kényelmesen indul a Katedrális negyedbe menet. Az eső kopog az autótetőn, miközben közvetlenül a történelmi központban parkolunk.\n\nDélidőben a Derby Múzeum és az ipari múzeum kínál száraz úticélt. A parkolótól a bejáratig tartó rövid út segít szárazon maradni.\n\nDélután a parkok felé vesszük az irányt. Az autóból a Darley és a Markeaton Park is szép látványt nyújt, anélkül, hogy bőrig áznánk.\n\nA nap a Pickford's House-nál zárul. A csillogó, vizes utakon való autózás Derby-ben meghitt városi hangulatot áraszt a védett kocsiból.",
+            "ro": "Ziua începe confortabil cu drumul spre Cathedral Quarter. Ploaia bate în plafonul mașinii în timp ce parcați chiar în centrul istoric.\n\nLa prânz, Muzeul Derby și Muzeul de Making oferă destinații uscate. Distanțele scurte de la parcare la intrare vă mențin hainele uscate.\n\nDupă-amiaza, traseul trece pe lângă parcuri. Chiar și pe ploaie, drumul prin Darley Park și Markeaton Park oferă priveliști frumoase din confortul mașinii.\n\nZiua se încheie la Pickford's House. Condusul prin orașul cu străzi umede și lucioase oferă o senzație plăcută și protejată.",
+            "en": "The day begins comfortably with a drive to the Cathedral Quarter. Rain drums on the car roof as you park right by the historic city center.\n\nAt midday, the Derby Museum and the Museum of Making provide excellent dry destinations. Short walks from parking to entrances keep you mostly dry.\n\nIn the afternoon, the route circles the local parks. Even in the rain, driving through Darley Park and Markeaton Park offers lovely views without getting wet.\n\nThe day concludes at Pickford's House. Cruising through Derby's glistening, rain-slicked streets gives a cozy urban feel from the safety of your car."
+          },
+          "stops": [
+            {
+              "name": "Park at Cathedral Quarter",
+              "tip_5lang": {
+                "de": "Parkhaus bei starkem Regen bevorzugen.",
+                "hu": "Erős esőben válassza a parkolóházat.",
+                "ro": "Alegeți parcarea etajată pe ploaie.",
+                "en": "Prefer multi-story parking in heavy rain."
+              }
+            },
+            {
+              "name": "Derby Cathedral",
+              "tip_5lang": {
+                "de": "Direkter Zugang vom Parkplatz.",
+                "hu": "Közvetlen bejárat a parkolótól.",
+                "ro": "Acces direct dinspre parcare.",
+                "en": "Direct access from the parking area."
+              }
+            },
+            {
+              "name": "Derby Museum and Art Gallery",
+              "tip_5lang": {
+                "de": "Kurzer Sprint zum Haupteingang.",
+                "hu": "Gyors sprint a főbejáratig.",
+                "ro": "Sprint scurt până la intrare.",
+                "en": "Quick sprint to the main entrance."
+              }
+            },
+            {
+              "name": "Museum of Making",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor der Tür.",
+                "hu": "Parkoló közvetlenül az ajtó előtt.",
+                "ro": "Parcare chiar în fața ușii.",
+                "en": "Parking right in front of the door."
+              }
+            },
+            {
+              "name": "Darley Park",
+              "tip_5lang": {
+                "de": "Aussichtspunkte vom Auto aus nutzen.",
+                "hu": "Nézze meg a kilátást az autóból.",
+                "ro": "Admirați priveliștea din mașină.",
+                "en": "Enjoy the viewpoints from your car."
+              }
+            },
+            {
+              "name": "Markeaton Park",
+              "tip_5lang": {
+                "de": "Großer befestigter Parkplatz.",
+                "hu": "Nagy, szilárd burkolatú parkoló.",
+                "ro": "Parcare mare cu pavaj solid.",
+                "en": "Large hard-standing parking area."
+              }
+            },
+            {
+              "name": "Pickford's House Museum",
+              "tip_5lang": {
+                "de": "Zufahrt über enge, nasse Gassen.",
+                "hu": "Behajtás szűk, vizes utcákon.",
+                "ro": "Acces prin străduțe înguste și ude.",
+                "en": "Access via narrow, wet lanes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Park-Apps, um Regenzeit zu sparen.",
+              "Vorsicht bei Aquaplaning auf Stadtstraßen.",
+              "Scheibenwischer und Licht prüfen.",
+              "Parkhäuser bieten Schutz beim Ein- und Aussteigen."
+            ],
+            "hu": [
+              "Használjon parkolási appot az időtakarékosságért.",
+              "Vigyázzon a vízenfutásra a városi utakon.",
+              "Ellenőrizze az ablaktörlőt és a lámpákat.",
+              "A parkolóház védelmet nyújt a ki- és beszálláskor."
+            ],
+            "ro": [
+              "Folosiți aplicații de parcare pentru rapiditate.",
+              "Atenție la acvaplanare pe străzile orașului.",
+              "Verificați ștergătoarele și luminile.",
+              "Parcările etajate oferă adăpost la urcare/coborâre."
+            ],
+            "en": [
+              "Use parking apps to save time in the rain.",
+              "Watch out for aquaplaning on city roads.",
+              "Check your wipers and lights before starting.",
+              "Multi-story car parks provide shelter when exiting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start im Cathedral Quarter. Das Auto ist vorgeheizt, während man die schneebedeckten oder reifigen Dächer der Altstadt bewundert.\n\nMittags bieten die Museen willkommene Wärme. Nach der Fahrt durch die kalte Winterlandschaft von Derby ist das Aufwärmen in den Ausstellungen besonders angenehm.\n\nNachmittags geht es zu den Parks. Die schneebedeckten Wiesen im Markeaton Park wirken vom warmen Auto aus wie eine Postkarte.\n\nDer Tag endet beim Pickford's House. Die frühen Lichter der Stadt spiegeln sich im Frost auf den Scheiben und schaffen eine behagliche Atmosphäre im Wagen.",
+            "hu": "Deres kezdés a Katedrális negyedben. Az autó már bemelegedett, miközben az óváros hófödte vagy deres háztetőit csodáljuk.\n\nDélben a múzeumok nyújtanak menedéket a hideg elől. A téli Derby tájain való autózás után különösen jól esik a benti meleg.\n\nDélután a parkok következnek. A Markeaton Park hófödte mezői a fűtött autóból nézve olyanok, mint egy karácsonyi képeslap.\n\nA nap a Pickford's House-nál ér véget. A város korai fényei megcsillannak az ablakok jeges peremén, meghitt hangulatot teremtve a kocsiban.",
+            "ro": "Un început înghețat în Cathedral Quarter. Mașina este încălzită în timp ce admirați acoperișurile înzăpezite ale orașului vechi.\n\nLa prânz, muzeele oferă o căldură binevenită. După condusul prin peisajul rece de iarnă din Derby, încălzirea la expoziții este plăcută.\n\nDupă-amiaza vizităm parcurile. Câmpiile înzăpezite din Markeaton Park par desprinse dintr-o ilustrată privite din mașina caldă.\n\nZiua se încheie la Pickford's House. Luminile timpurii ale orașului se reflectă în bruma de pe geamuri, creând o atmosferă primitoare în mașină.",
+            "en": "A frosty start in the Cathedral Quarter. The car is pre-heated as you admire the snow-dusted or frosty roofs of the old town.\n\nAt midday, the museums offer a welcome retreat. After driving through Derby's cold winter landscape, warming up in the galleries is a treat.\n\nIn the afternoon, head to the parks. The snow-covered meadows in Markeaton Park look like a postcard from the comfort of your heated car.\n\nThe day ends at Pickford's House. Early city lights glisten through the frost on the windows, creating a cozy atmosphere inside the vehicle."
+          },
+          "stops": [
+            {
+              "name": "Park at Cathedral Quarter",
+              "tip_5lang": {
+                "de": "Scheiben rechtzeitig enteisen.",
+                "hu": "Időben jégtelenítse a szélvédőt.",
+                "ro": "Dezghețați geamurile din timp.",
+                "en": "De-ice your windows early."
+              }
+            },
+            {
+              "name": "Derby Cathedral",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis auf dem Parkplatz.",
+                "hu": "Vigyázzon a jégre a parkolóban.",
+                "ro": "Atenție la gheața din parcare.",
+                "en": "Watch for ice in the parking lot."
+              }
+            },
+            {
+              "name": "Derby Museum and Art Gallery",
+              "tip_5lang": {
+                "de": "Warmer Stopp im Stadtzentrum.",
+                "hu": "Meleg pihenő a belvárosban.",
+                "ro": "Popas călduros în centrul orașului.",
+                "en": "Warm stop in the city center."
+              }
+            },
+            {
+              "name": "Museum of Making",
+              "tip_5lang": {
+                "de": "Freie Parkplatzwahl im Winter.",
+                "hu": "Télen bőséges parkolóhely.",
+                "ro": "Locuri de parcare libere iarna.",
+                "en": "Ample parking available in winter."
+              }
+            },
+            {
+              "name": "Darley Park",
+              "tip_5lang": {
+                "de": "Hinterlassene Spuren im Schnee.",
+                "hu": "Keressen nyomokat a hóban.",
+                "ro": "Căutați urme în zăpadă.",
+                "en": "Look for tracks in the snow."
+              }
+            },
+            {
+              "name": "Markeaton Park",
+              "tip_5lang": {
+                "de": "Winterlandschaft genießen.",
+                "hu": "Élvezze a téli tájat.",
+                "ro": "Admirați peisajul de iarnă.",
+                "en": "Enjoy the winter scenery."
+              }
+            },
+            {
+              "name": "Pickford's House Museum",
+              "tip_5lang": {
+                "de": "Beheizte Ausstellungsräume.",
+                "hu": "Fűtött kiállítótermek.",
+                "ro": "Săli de expoziție încălzite.",
+                "en": "Heated exhibition rooms."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz im Wischwasser.",
+              "Vorsicht bei Glätte in den Nebenstraßen.",
+              "Batterie vor der Wintertour checken.",
+              "Eiskratzer und Besen im Auto bereithalten."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a mosóvízben.",
+              "Vigyázzon a csúszós mellékutcákra.",
+              "Túlzás előtt ellenőrizze az akkumulátort.",
+              "Legyen jégkaparó és kefe az autóban."
+            ],
+            "ro": [
+              "Verificați antigelul în lichidul de parbriz.",
+              "Atenție la polei pe străzile secundare.",
+              "Verificați bateria înainte de plecare.",
+              "Aveți pregătite racleta și peria în mașină."
+            ],
+            "en": [
+              "Check antifreeze levels in your washer fluid.",
+              "Be careful of ice on side streets.",
+              "Check your battery before the winter tour.",
+              "Keep an ice scraper and brush in the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1566,6 +2148,206 @@
           "A day rider ticket is more cost-effective if you plan on making multiple trips.",
           "Check the time of the last bus if you plan to be out late."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt an der Derby Cathedral, gut erreichbar mit dem Bus. Wartehäuschen bieten Schutz vor dem Morgenregen.\n\nMittags geht es mit kurzen Transitwegen zum Derby Museum und Pickford's House. Das Umsteigen im trockenen Bus macht die Stadttour auch bei Wetterwechseln angenehm.\n\nAm Nachmittag führt die Fahrt zum Museum of Making. Die Busse halten oft nah an den Eingängen, was den Kontakt mit dem Regen minimiert.\n\nDer Tag endet mit der Fahrt zum Darley Park. Von der Haltestelle ist es nur ein kurzer Sprung unter den Schirm, während man die frische Regenluft am Fluss genießt.",
+            "hu": "A nap a Derby-katedrálisnál indul, könnyen elérhető busszal. A megállók várói védelmet nyújtanak a reggeli eső ellen.\n\nDélben rövid utazással érjük el a Derby Múzeumot és a Pickford's House-t. A száraz buszon való közlekedés kényelmessé teszi a városnézést esőben is.\n\nDélután az ipari múzeum felé vesszük az irányt. A buszok közel állnak meg a bejáratokhoz, így minimálisra csökken az esőben való várakozás.\n\nA nap a Darley Park felé tartó utazással zárul. A megállótól csak egy ugrás az esernyő alatt a folyóparti friss levegőig.",
+            "ro": "Ziua începe la Catedrala din Derby, ușor accesibilă cu autobuzul. Adăposturile din stații vă protejează de ploaia de dimineață.\n\nLa prânz, deplasările scurte cu transportul public vă duc la Muzeul Derby și Pickford's House. Călătoria la adăpost face turul orașului plăcut.\n\nDupă-amiaza, mergem spre Muzeul de Making. Autobuzele opresc adesea aproape de intrări, minimizând contactul cu ploaia.\n\nZiua se încheie cu drumul spre Darley Park. Din stație este doar o scurtă plimbare sub umbrelă până la aerul curat de pe malul râului.",
+            "en": "The day starts at Derby Cathedral, easily reached by bus. Bus shelters provide cover from the morning drizzle.\n\nAt midday, short transit trips take you to the Derby Museum and Pickford's House. Traveling in a dry bus makes the city tour comfortable even in changing weather.\n\nIn the afternoon, head to the Museum of Making. Buses often stop close to the entrances, minimizing your time out in the rain.\n\nThe day concludes with a trip to Darley Park. From the bus stop, it's just a quick dash under your umbrella to enjoy the fresh riverside air."
+          },
+          "stops": [
+            {
+              "name": "Derby Cathedral",
+              "tip_5lang": {
+                "de": "Haltestelle direkt im Zentrum.",
+                "hu": "Megálló közvetlenül a központban.",
+                "ro": "Stație chiar în centrul orașului.",
+                "en": "Bus stop right in the center."
+              }
+            },
+            {
+              "name": "Guildhall Theatre",
+              "tip_5lang": {
+                "de": "Wartebereich unter dem Vordach.",
+                "hu": "Várkozási lehetőség az előtető alatt.",
+                "ro": "Zonă de așteptare sub copertină.",
+                "en": "Waiting area under the canopy."
+              }
+            },
+            {
+              "name": "Derby Museum and Art Gallery",
+              "tip_5lang": {
+                "de": "Buslinien 1, 6 oder 7 nutzen.",
+                "hu": "Használja az 1, 6 vagy 7-es buszt.",
+                "ro": "Folosiți liniile 1, 6 sau 7.",
+                "en": "Use bus routes 1, 6, or 7."
+              }
+            },
+            {
+              "name": "Pickford's House Museum",
+              "tip_5lang": {
+                "de": "Trockener Weg zur Haustür.",
+                "hu": "Száraz út a bejáratig.",
+                "ro": "Drum uscat până la intrare.",
+                "en": "Dry path to the front door."
+              }
+            },
+            {
+              "name": "St Mary's Church",
+              "tip_5lang": {
+                "de": "Haltestelle in Sichtweite.",
+                "hu": "Megálló látótávolságon belül.",
+                "ro": "Stație în câmpul vizual.",
+                "en": "Bus stop within sight."
+              }
+            },
+            {
+              "name": "Museum of Making",
+              "tip_5lang": {
+                "de": "Zentraler Umstieg am Busbahnhof.",
+                "hu": "Központi átszállás a buszállomáson.",
+                "ro": "Transfer central la autogară.",
+                "en": "Central transfer at the bus station."
+              }
+            },
+            {
+              "name": "Darley Park",
+              "tip_5lang": {
+                "de": "Regenjacke im Bus bereithalten.",
+                "hu": "Legyen kéznél az esőkabát.",
+                "ro": "Aveți jacheta pregătită în autobuz.",
+                "en": "Have your rain jacket ready on the bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Kontaktlos-Zahlung im Bus.",
+              "Echtzeit-Apps zeigen Verspätungen bei Regen.",
+              "Viele Haltestellen sind überdacht.",
+              "Fahren Sie eine Station weiter, um näher am Ziel zu sein."
+            ],
+            "hu": [
+              "Használjon érintéses fizetést a buszon.",
+              "Az appok jelzik az eső miatti késéseket.",
+              "Sok megálló fedett és védett.",
+              "Utazzon egy megállóval tovább a közelebbi célhoz."
+            ],
+            "ro": [
+              "Folosiți plata contactless în autobuz.",
+              "Aplicațiile arată întârzierile cauzate de ploaie.",
+              "Multe stații sunt acoperite.",
+              "Mergeți o stație în plus pentru a fi mai aproape."
+            ],
+            "en": [
+              "Use contactless payment on the bus.",
+              "Apps show real-time rain delays.",
+              "Many bus stops are covered and sheltered.",
+              "Ride one extra stop to be closer to your goal."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start an der Derby Cathedral. Die beheizten Busse sind ein Segen am frühen Wintermorgen.\n\nMittags bieten das Derby Museum und Pickford's House kulturelle Highlights in wohliger Wärme. Der Transit ermöglicht es, die Stadt ohne langes Gehen in der Kälte zu erkunden.\n\nDer Nachmittag im Museum of Making ist perfekt, um der winterlichen Brise zu entkommen. Die Busverbindungen sind auch bei Frost zuverlässig.\n\nDer Abend endet im Darley Park. Die Fahrt zurück ins Zentrum im warmen Bus bietet einen gemütlichen Ausblick auf die beleuchtete Winterstadt.",
+            "hu": "Hűvös kezdés a Derby-katedrálisnál. A fűtött buszok áldást jelentenek a kora téli reggelen.\n\nDélben a Derby Múzeum és a Pickford's House kínál kulturális élményeket kellemes melegben. A tömegközlekedés lehetővé teszi a város felfedezését hosszú hideg séták nélkül.\n\nA délután az ipari múzeumban tökéletes menedék a téli szél elől. A buszjáratok fagyban is megbízhatóak.\n\nAz este a Darley Parkban ér véget. A meleg buszon való visszatérés a központba kényelmes kilátást nyújt a kivilágított téli városra.",
+            "ro": "Un început răcoros la Catedrala din Derby. Autobuzele încălzite sunt o binecuvântare în diminețile de iarnă.\n\nLa prânz, Muzeul Derby și Pickford's House oferă cultură la căldură. Transportul public vă permite să explorați orașul fără plimbări lungi prin frig.\n\nDupă-amiaza la Muzeul de Making este ideală pentru a scăpa de vântul de iarnă. Liniile de autobuz rămân fiabile și pe ger.\n\nSeara se încheie în Darley Park. Drumul de întoarcere spre centru în autobuzul cald oferă o privire plăcută asupra orașului iluminat.",
+            "en": "A crisp start at Derby Cathedral. The heated buses are a blessing on a cold winter morning.\n\nAt midday, the Derby Museum and Pickford's House offer cultural highlights in cozy warmth. Transit allows you to explore the city without long walks in the chill.\n\nSpend the afternoon at the Museum of Making, sheltered from the winter breeze. Bus services remain reliable even in freezing weather.\n\nThe evening finishes at Darley Park. The ride back to the center in a warm bus provides a comfortable view of the illuminated winter city."
+          },
+          "stops": [
+            {
+              "name": "Derby Cathedral",
+              "tip_5lang": {
+                "de": "Aufwärmen während der Fahrt.",
+                "hu": "Melegedjen fel utazás közben.",
+                "ro": "Încălziți-vă în timpul călătoriei.",
+                "en": "Warm up during the ride."
+              }
+            },
+            {
+              "name": "Guildhall Theatre",
+              "tip_5lang": {
+                "de": "Windgeschützte Warteecken.",
+                "hu": "Szélvédett váróhelyek.",
+                "ro": "Colțuri de așteptare ferite de vânt.",
+                "en": "Wind-sheltered waiting areas."
+              }
+            },
+            {
+              "name": "Derby Museum and Art Gallery",
+              "tip_5lang": {
+                "de": "Zentrale Umsteigemöglichkeit.",
+                "hu": "Központi átszállási pont.",
+                "ro": "Punct central de transfer.",
+                "en": "Central transfer point."
+              }
+            },
+            {
+              "name": "Pickford's House Museum",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Bus.",
+                "hu": "Rövid gyalogút a busztól.",
+                "ro": "Drum scurt pe jos de la autobuz.",
+                "en": "Short walk from the bus stop."
+              }
+            },
+            {
+              "name": "St Mary's Church",
+              "tip_5lang": {
+                "de": "Haltestelle im warmen Licht.",
+                "hu": "Megálló meleg fényben.",
+                "ro": "Stație sub lumină caldă.",
+                "en": "Bus stop in warm light."
+              }
+            },
+            {
+              "name": "Museum of Making",
+              "tip_5lang": {
+                "de": "Taktzeiten im Winter prüfen.",
+                "hu": "Ellenőrizze a téli menetrendet.",
+                "ro": "Verificați orarul de iarnă.",
+                "en": "Check winter frequencies."
+              }
+            },
+            {
+              "name": "Darley Park",
+              "tip_5lang": {
+                "de": "Fahrplan für Rückfahrt checken.",
+                "hu": "Nézze meg a visszautat.",
+                "ro": "Verificați orarul de întoarcere.",
+                "en": "Check return trip schedule."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter meist gut beheizt.",
+              "Prüfen Sie den Winterfahrplan.",
+              "Tragen Sie warme Socken für die Haltestellen.",
+              "Suchen Sie Haltestellen mit Echtzeitanzeige."
+            ],
+            "hu": [
+              "A buszok télen általában jól fűtöttek.",
+              "Ellenőrizze a téli menetrendet.",
+              "Viseljen meleg zoknit a várakozáshoz.",
+              "Keressen valós idejű kijelzőket."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite iarna.",
+              "Verificați orarul de iarnă.",
+              "Purtați șosete groase pentru așteptare.",
+              "Căutați stații cu afișaj în timp real."
+            ],
+            "en": [
+              "Buses are usually well-heated in winter.",
+              "Always check the winter timetable.",
+              "Wear warm socks for waiting at stops.",
+              "Look for stops with real-time displays."
+            ]
+          }
+        }
       }
     }
   }

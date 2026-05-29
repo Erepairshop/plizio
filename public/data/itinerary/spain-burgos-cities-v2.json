@@ -378,6 +378,188 @@
           "Take time for a 'Menú del Día' at lunch for an authentic and affordable experience.",
           "The climb to the castle is steep, but the view is worth the effort."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt unter den schützenden Arkaden der Plaza Mayor, während der Regen auf das Kopfsteinpflaster prasselt. Den Vormittag verbringen wir in der majestätischen Kathedrale, deren gewaltiges Interieur uns völlig trocken hält. Am Nachmittag bietet das moderne Evolutionsmuseum einen perfekten Rückzugsort mit viel Platz und Wärme. Den Tag lassen wir bei einer nebligen Aussicht von der Burgruine ausklingen, bevor wir uns in die gemütlichen Gassen der Altstadt zurückziehen.",
+            "hu": "A napot a Plaza Mayor árkádjai alatt kezdjük, menedéket keresve az eső elől a színes házak gyűrűjében. A délelőttöt a katedrális monumentális belső terében töltjük, ahol a gótikus boltozatok alatt teljesen szárazon maradhatunk. Délután a modern Evolúció Múzeuma nyújt tökéletes beltéri programot és kellemes meleget. Estére a várhegyről szemléljük a ködbe burkolózó várost, majd egy közeli borozóban melegszünk fel.",
+            "ro": "Ziua începe sub arcadele protectoare din Plaza Mayor, în timp ce ploaia cade peste orașul vechi. Dimineața este dedicată interiorului maiestuos al Catedralei, un refugiu perfect și uscat sub bolțile gotice. După-amiaza, Muzeul Evoluției Umane oferă un spațiu modern și încălzit pentru explorare. Seara admirăm priveliștea cețoasă de la castel, înainte de a ne retrage pe străzile înguste și primitoare ale centrului istoric.",
+            "en": "The day starts under the protective arcades of Plaza Mayor, sheltering from the drizzle. We spend the morning inside the vast Cathedral, where the Gothic vaults keep us completely dry. In the afternoon, the modern Museum of Human Evolution provides a perfect indoor escape with ample warmth. We finish the day with a misty view from the castle ruins before heading back into the cozy, rain-slicked streets of the old town."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden rund um den Platz, um trocken zu bleiben.",
+                "hu": "Használja a tér körüli árkádokat, hogy szárazon maradjon a séta alatt.",
+                "ro": "Folosiți arcadele din jurul pieței pentru a rămâne la adăpost de ploaie.",
+                "en": "Utilize the arcades around the square to stay dry while observing the city."
+              }
+            },
+            {
+              "name": "Arch of Santa María",
+              "tip_5lang": {
+                "de": "Besichtigen Sie das Innere des Bogens, es dient als kleiner Ausstellungsraum.",
+                "hu": "Menjen be a kapu belsejébe, amely kis kiállítótérként is funkcionál.",
+                "ro": "Vizitați interiorul porții, care servește ca spațiu expozițional ferit de ploaie.",
+                "en": "Go inside the arch; the interior serves as a small, dry exhibition space."
+              }
+            },
+            {
+              "name": "Burgos Cathedral",
+              "tip_5lang": {
+                "de": "Ideal für Regentage; planen Sie extra Zeit für die vielen Kapellen ein.",
+                "hu": "Ideális esős napra; szánjon több időt a belső kápolnák felfedezésére.",
+                "ro": "Ideal pentru zile ploioase; acordați timp suplimentar pentru numeroasele capele.",
+                "en": "Perfect for rainy days; plan extra time to explore the indoor chapels."
+              }
+            },
+            {
+              "name": "Paseo del Espolón",
+              "tip_5lang": {
+                "de": "Die dichte Baumallee bietet begrenzten Schutz vor leichtem Nieselregen.",
+                "hu": "A sűrű fasor korlátozott védelmet nyújt a szemerkélő eső ellen.",
+                "ro": "Aleea densă de copaci oferă o protecție limitată împotriva burniței.",
+                "en": "The dense tree canopy provides limited shelter from light drizzle."
+              }
+            },
+            {
+              "name": "Museum of Human Evolution",
+              "tip_5lang": {
+                "de": "Große Garderobe vorhanden, um nasse Mäntel und Schirme sicher zu verstauen.",
+                "hu": "Tágas ruhatár áll rendelkezésre a vizes kabátok és esernyők számára.",
+                "ro": "Garderobă spațioasă disponibilă pentru a lăsa hainele și umbrelele ude.",
+                "en": "Spacious cloakroom available to store wet coats and umbrellas safely."
+              }
+            },
+            {
+              "name": "Burgos Castle",
+              "tip_5lang": {
+                "de": "Der Aufstieg kann rutschig sein; tragen Sie Schuhe mit gutem Profil.",
+                "hu": "Az emelkedő csúszós lehet; viseljen megfelelő tapadású cipőt.",
+                "ro": "Urcarea poate fi alunecoasă; purtați încălțăminte cu aderență bună.",
+                "en": "The climb can be slippery; wear shoes with good traction on wet paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserfeste Jacke, da der Wind in Burgos Schirme oft unbrauchbar macht.",
+              "Nutzen Sie die vielen Cafés rund um die Kathedrale für kurze Aufwärmpausen.",
+              "Die Steinböden in der Altstadt können bei Nässe sehr rutschig werden.",
+              "Die Kathedrale und das Museum sind die besten Orte, um längere Regengüsse abzuwarten."
+            ],
+            "hu": [
+              "Viseljen vízhatlan kabátot, mert a burgosi szél gyakran tönkreteszi az esernyőket.",
+              "Használja ki a katedrális körüli kávézókat rövid melegedő szünetekre.",
+              "Az óváros kőburkolata nedvesen nagyon csúszóssá válhat.",
+              "A katedrális és a múzeum a legjobb helyek a hosszabb esőzések átvészelésére."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă, deoarece vântul din Burgos face umbrelele inutile.",
+              "Profită de numeroasele cafenele din jurul catedralei pentru scurte pauze de încălzire.",
+              "Pavajul de piatră din centrul vechi poate deveni foarte alunecos când este ud.",
+              "Catedrala și Muzeul sunt cele mai bune locuri pentru a aștepta trecerea ploii."
+            ],
+            "en": [
+              "Wear a waterproof jacket as the wind in Burgos often makes umbrellas useless.",
+              "Take advantage of the many cafes near the Cathedral for short warming breaks.",
+              "The stone pavement in the old town can become very slippery when wet.",
+              "The Cathedral and the Museum are the best places to wait out heavy downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am belebten Hauptplatz, wo der Dampf aus den Kaffeetassen aufsteigt. Die Kathedrale empfängt uns mit einer feierlichen Stille und kühler, aber windstiller Atmosphäre. Mittags wärmen wir uns im modernen Museum auf, bevor wir den Paseo entlang spazieren. Da die Sonne früh hinter dem Burgberg verschwindet, genießen wir das goldene Winterlicht am Nachmittag und kehren für eine heiße Schokolade in die Stadt zurück.",
+            "hu": "Fagyos reggel indul a főtéren, ahol a kávéscsészék gőze száll a hideg levegőben. A katedrális ünnepi csenddel és szélvédett belsővel vár minket. Délben a modern múzeumban melegszünk fel, mielőtt végigsétálnánk a fagyos Paseo mentén. Mivel a nap korán eltűnik a várhegy mögött, kora délután élvezzük az aranybarna téli fényeket, majd forró csokoládéval zárjuk a napot a belvárosban.",
+            "ro": "O dimineață geroasă începe în piața centrală, unde aburul se ridică din ceștile de cafea. Catedrala ne întâmpină cu o liniște solemnă și un interior ferit de vântul tăios. La prânz ne încălzim în muzeul modern, înainte de o plimbare scurtă pe Paseo. Deoarece soarele apune devreme după dealul castelului, profităm de lumina aurie a după-amiezii și ne întoarcem în oraș pentru o ciocolată caldă.",
+            "en": "A frosty morning begins in the main square, with steam rising from coffee cups in the cold air. The Cathedral welcomes us with solemn silence and a wind-free interior. At noon, we warm up in the modern museum before a brisk walk along the Paseo. As the sun sets early behind the castle hill, we enjoy the golden winter light in the mid-afternoon and return to town for a hot chocolate."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Suchen Sie Cafés mit Außenheizung oder genießen Sie den Blick von drinnen.",
+                "hu": "Keressen fűtött teraszú kávézót, vagy élvezze a kilátást az ablakból.",
+                "ro": "Căutați cafenele cu încălzitoare exterioare sau bucurați-vă de vedere din interior.",
+                "en": "Look for cafes with outdoor heaters or enjoy the view from behind the glass."
+              }
+            },
+            {
+              "name": "Arch of Santa María",
+              "tip_5lang": {
+                "de": "Der Stein speichert die Kälte; halten Sie den Aufenthalt hier kurz.",
+                "hu": "A kőfalak ontják a hideget; tartsa rövidre az itt tartózkodást.",
+                "ro": "Piatra reține frigul; păstrați vizita aici scurtă.",
+                "en": "The stone walls hold the cold; keep your stay here relatively brief."
+              }
+            },
+            {
+              "name": "Burgos Cathedral",
+              "tip_5lang": {
+                "de": "Tragen Sie Schichten; das Innere ist windgeschützt, aber oft kühl.",
+                "hu": "Öltözzön rétegesen; a belső tér szélvédett, de gyakran hűvös.",
+                "ro": "Purtați straturi de haine; interiorul este ferit de vânt, dar adesea răcoros.",
+                "en": "Wear layers; the interior is wind-sheltered but can be quite chilly."
+              }
+            },
+            {
+              "name": "Paseo del Espolón",
+              "tip_5lang": {
+                "de": "Mittagsruhe im Sonnenlicht nutzen, bevor der Schatten des Berges kommt.",
+                "hu": "Használja ki a napsütést délidőben, mielőtt a hegy árnyéka elérné a sétányt.",
+                "ro": "Profită de soarele de la prânz înainte ca umbra dealului să acopere aleea.",
+                "en": "Enjoy the midday sun before the hill's shadow covers the promenade."
+              }
+            },
+            {
+              "name": "Museum of Human Evolution",
+              "tip_5lang": {
+                "de": "Hervorragend beheizt; der beste Ort, um die Kälte für zwei Stunden zu vergessen.",
+                "hu": "Kiválóan fűtött; a legjobb hely, hogy két órára elfelejtse a kinti hideget.",
+                "ro": "Excelent încălzit; cel mai bun loc pentru a uita de frig timp de două ore.",
+                "en": "Excellently heated; the best place to forget the cold for two hours."
+              }
+            },
+            {
+              "name": "Burgos Castle",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch vor 17:00 Uhr ein, da es danach schnell dunkel wird.",
+                "hu": "Tervezze a látogatást 17:00 előttre, mert utána gyorsan sötétedik.",
+                "ro": "Planificați vizita înainte de ora 17:00, deoarece se întunecă repede după aceea.",
+                "en": "Plan your visit before 5:00 PM, as it gets dark very quickly afterwards."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Burgos ist eine der kältesten Städte Spaniens; Thermounterwäsche ist ratsam.",
+              "Die Sonne geht im Winter gegen 17:45 Uhr unter, die Dämmerung ist kurz.",
+              "Achten Sie auf Glatteis auf dem Weg zur Burg bei Minustemperaturen.",
+              "Genießen Sie lokale 'Sopa Castellana' (Knoblauchsuppe) zum Aufwärmen mittags."
+            ],
+            "hu": [
+              "Burgos Spanyolország egyik leghidegebb városa; a termo fehérnemű ajánlott.",
+              "A nap télen 17:45 körül nyugszik, a szürkület nagyon rövid.",
+              "Vigyázzon a jeges foltokra a vár felé vezető úton fagy esetén.",
+              "Kóstolja meg a helyi 'Sopa Castellana'-t (fokhagymaleves) melegítő ebédként."
+            ],
+            "ro": [
+              "Burgos este unul dintre cele mai reci orașe din Spania; lenjeria termică e recomandată.",
+              "Soarele apune în jur de ora 17:45 iarna, iar amurgul este foarte scurt.",
+              "Atenție la porțiunile înghețate de pe drumul spre castel în nopțile geroase.",
+              "Savurați o 'Sopa Castellana' (supă de usturoi) locală pentru a vă încălzi la prânz."
+            ],
+            "en": [
+              "Burgos is one of the coldest cities in Spain; thermal underwear is advisable.",
+              "The sun sets around 5:45 PM in winter, and the twilight is very short.",
+              "Watch out for icy patches on the way to the castle during freezing temperatures.",
+              "Enjoy local 'Sopa Castellana' (garlic soup) for a warming lunch."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -750,6 +932,188 @@
           "Always lock your bike securely, especially near tourist attractions.",
           "Check the opening hours of the monasteries in advance as they can vary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour führt uns durch den nebligen Espolón, wo die Reifen auf dem feuchten Asphalt singen. Wir machen einen langen Stopp an der Kathedrale, um den stärksten Schauer abzuwarten. Am Nachmittag radeln wir zügig zum Museum, das eine willkommene Trockenpause bietet. Die Klöster im Umland wirken im Regen besonders mystisch, erfordern aber gute Regenkleidung für die Fahrt durch die offene Landschaft.",
+            "hu": "A biciklitúra a ködös Espolónon át vezet, ahol a kerekek zenélnek a nedves aszfalton. Hosszabb megállót tartunk a katedrálisnál, hogy bevárjuk a hevesebb eső végét. Délután tempósan tekerünk a múzeumhoz, amely kiváló alkalmat ad a száradásra. A külvárosi kolostorok az esőben különösen misztikusak, de a nyílt terepen való tekeréshez jó esővédő felszerelés kell.",
+            "ro": "Turul cu bicicleta ne poartă prin Espolónul cețos, unde cauciucurile șuieră pe asfaltul umed. Facem o oprire lungă la Catedrală pentru a lăsa să treacă ploaia torențială. După-amiaza pedalăm rapid spre muzeu, care oferă o pauză binemeritată la uscat. Mănăstirile de la periferie par mistice în ploaie, dar drumul necesită echipament impermeabil bun.",
+            "en": "The bike tour leads through misty Espolón, with tires humming on the damp asphalt. We take a long break at the Cathedral to wait out the heaviest downpour. In the afternoon, we pedal briskly to the museum for a welcome dry spell. The outlying monasteries look mystical in the rain, but the ride through open areas requires good rain gear."
+          },
+          "stops": [
+            {
+              "name": "Paseo del Espolón",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Steinpflaster bei Nässe.",
+                "hu": "Vigyázzon a csúszós kőburkolaton nedves időben.",
+                "ro": "Atenție la pavajul de piatră care devine alunecos când este ud.",
+                "en": "Be careful on the stone pavement; it becomes slippery when wet."
+              }
+            },
+            {
+              "name": "Burgos Cathedral and Arch of Santa María",
+              "tip_5lang": {
+                "de": "Fahrradständer sind in der Nähe des Bogens vorhanden; Ketten gut ölen.",
+                "hu": "Kerékpártárolók a kapu közelében találhatók; olajozza meg jól a láncot.",
+                "ro": "Suporturile de biciclete sunt lângă poartă; ungeți bine lanțul după ploaie.",
+                "en": "Bike racks are located near the arch; keep your chain well-oiled after the rain."
+              }
+            },
+            {
+              "name": "Museum of Human Evolution",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen der Räder.",
+                "hu": "Használja a fedett bejárati részt a biciklik tárolására.",
+                "ro": "Folosiți zona acoperită de la intrare pentru a lăsa bicicletele la uscat.",
+                "en": "Use the sheltered entrance area to park your bikes out of the rain."
+              }
+            },
+            {
+              "name": "Monastery of Las Huelgas",
+              "tip_5lang": {
+                "de": "Die Strecke dorthin ist flach, aber bei Wind und Regen ungeschützt.",
+                "hu": "Az útvonal sík, de szélben és esőben teljesen kitett.",
+                "ro": "Traseul este plat, dar expus în caz de vânt și ploaie.",
+                "en": "The route is flat but completely exposed during wind and rain."
+              }
+            },
+            {
+              "name": "Miraflores Charterhouse",
+              "tip_5lang": {
+                "de": "Der Parkweg kann matschig sein; bleiben Sie auf den asphaltierten Wegen.",
+                "hu": "A parki út saras lehet; maradjon az aszfaltozott útvonalon.",
+                "ro": "Drumul prin parc poate fi noroios; rămâneți pe pistele asfaltate.",
+                "en": "The park path might be muddy; stay on the paved sections if possible."
+              }
+            },
+            {
+              "name": "Burgos Castle",
+              "tip_5lang": {
+                "de": "Steile Abfahrt auf nassem Asphalt; bremsen Sie vorsichtig.",
+                "hu": "Meredek lejtő nedves aszfalton; fékezzen óvatosan.",
+                "ro": "Coborâre abruptă pe asfalt umed; frânați cu prudență.",
+                "en": "Steep descent on wet asphalt; use your brakes cautiously."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie abruptes Bremsen auf dem Kopfsteinpflaster der Altstadt.",
+              "Ein Poncho ist beim Radfahren praktischer als eine Regenjacke.",
+              "Schutzbleche am Rad sind bei diesem Wetter in Burgos unerlässlich.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck gibt besseren Halt auf Nässe."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést az óváros macskaköves részein.",
+              "A poncsó praktikusabb kerékpározáshoz, mint egy sima esőkabát.",
+              "A sárvédő elengedhetetlen ilyen időben a burgosi utakon.",
+              "Ellenőrizze a guminyomást; a kicsit kisebb nyomás jobb tapadást ad nedves úton."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe pavajul din centrul vechi.",
+              "O pelerină este mai practică pentru ciclism decât o jachetă de ploaie.",
+              "Aripile la bicicletă sunt esențiale pe această vreme în Burgos.",
+              "Verificați presiunea anvelopelor; o presiune mai mică oferă aderență mai bună pe ud."
+            ],
+            "en": [
+              "Avoid sudden braking on the cobblestones of the old town.",
+              "A poncho is more practical for cycling than a standard rain jacket.",
+              "Mudguards are essential in this weather on Burgos roads.",
+              "Check tire pressure; slightly lower pressure gives better grip on wet surfaces."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start führt uns am Fluss entlang, wo Reif die Bäume im Espolón ziert. Die Auffahrt zur Kathedrale bringt den Kreislauf in Schwung, bevor wir uns im Inneren der Kirche kurz ausruhen. Die Fahrt zum Museum ist kurz und knackig in der kalten Luft. Nachmittags fordern uns die Klöster im Umland heraus, da der Wind hier schärfer weht, aber die klare Winterluft bietet eine fantastische Sicht auf das Kastilische Plateau.",
+            "hu": "Deres indítás a folyó mentén, ahol a zúzmara díszíti az Espolón fáit. A katedrálishoz vezető emelkedő segít bemelegedni, mielőtt megpihennénk a templom belsejében. A múzeumhoz vezető út rövid és frissítő a hideg levegőben. Délután a külvárosi kolostorok felé vesszük az irányt, ahol a szél élesebben fúj, de a tiszta téli levegő fantasztikus kilátást nyújt a kasztíliai fennsíkra.",
+            "ro": "Un început geros de-a lungul râului, unde chiciura decorează copacii din Espolón. Urcarea spre Catedrală ne pune sângele în mișcare înainte de o scurtă odihnă în interior. Drumul spre muzeu este scurt și revigorant în aerul rece. După-amiaza, explorăm mănăstirile din jur, unde vântul bate mai tare, dar aerul clar de iarnă oferă o vizibilitate excelentă asupra platoului castilian.",
+            "en": "A frosty start leads along the river, with rime covering the trees in Espolón. The climb to the Cathedral gets the blood flowing before a short rest inside. The ride to the museum is short and crisp in the cold air. In the afternoon, we head to the outlying monasteries where the wind blows sharper, but the clear winter air offers fantastic views across the Castilian plateau."
+          },
+          "stops": [
+            {
+              "name": "Paseo del Espolón",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Pfützen im Schatten der Bäume.",
+                "hu": "Vigyázzon a fagyott tócsákra a fák árnyékában.",
+                "ro": "Atenție la bălțile înghețate din umbra copacilor.",
+                "en": "Watch out for frozen puddles in the shadows of the trees."
+              }
+            },
+            {
+              "name": "Burgos Cathedral and Arch of Santa María",
+              "tip_5lang": {
+                "de": "Bewahren Sie Ihre Handschuhe griffbereit auf; Metalllenker werden extrem kalt.",
+                "hu": "Tartsa kéznél a kesztyűjét; a fém kormányok extrém hidegek lesznek.",
+                "ro": "Păstrați mănușile la îndemână; ghidonul metalic devine extrem de rece.",
+                "en": "Keep your gloves handy; metal handlebars become extremely cold."
+              }
+            },
+            {
+              "name": "Museum of Human Evolution",
+              "tip_5lang": {
+                "de": "Das Fahrradschloss kann bei Frost einfrieren; nutzen Sie WD-40 vorab.",
+                "hu": "A kerékpárzár befagyhat; használjon jégoldót vagy kenőanyagot előre.",
+                "ro": "Antifurtul bicicletei poate îngheța; folosiți un spray degivrant în prealabil.",
+                "en": "Bike locks can freeze; use a bit of lubricant or de-icer beforehand."
+              }
+            },
+            {
+              "name": "Monastery of Las Huelgas",
+              "tip_5lang": {
+                "de": "Tragen Sie Windstopper-Kleidung für die Fahrt über die offenen Felder.",
+                "hu": "Viseljen szélálló ruházatot a nyílt mezőkön való tekeréshez.",
+                "ro": "Purtați haine rezistente la vânt pentru porțiunile de câmp deschis.",
+                "en": "Wear windstopper clothing for the sections across open fields."
+              }
+            },
+            {
+              "name": "Miraflores Charterhouse",
+              "tip_5lang": {
+                "de": "Längste Fahrt des Tages; halten Sie das Tempo hoch, um warm zu bleiben.",
+                "hu": "A nap leghosszabb útja; tartson tempót, hogy melegen tartsa magát.",
+                "ro": "Cea mai lungă cursă a zilei; mențineți ritmul pentru a vă păstra căldura.",
+                "en": "Longest ride of the day; keep up the pace to stay warm."
+              }
+            },
+            {
+              "name": "Burgos Castle",
+              "tip_5lang": {
+                "de": "Bester Ort für den frühen Sonnenuntergang; danach sofortiger Temperaturabfall.",
+                "hu": "A legjobb hely a korai naplementéhez; utána azonnali hőmérséklet-esés várható.",
+                "ro": "Cel mai bun loc pentru apusul devreme; temperatura scade brusc după aceea.",
+                "en": "Best spot for an early sunset; expect an immediate temperature drop after."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermalhandschuhe und eine Mütze unter dem Helm sind in Burgos Pflicht.",
+              "Die Batterien von E-Bikes entladen sich bei dieser Kälte deutlich schneller.",
+              "Das kastilische Plateau ist windanfällig; Windschatten suchen, wo möglich.",
+              "Nach 17:30 Uhr wird es ohne Sonnenlicht schlagartig kälter."
+            ],
+            "hu": [
+              "A termokesztyű és a sisak alatti sapka kötelező Burgosban.",
+              "Az elektromos kerékpárok akkumulátora sokkal gyorsabban merül ebben a hidegben.",
+              "A kasztíliai fennsík szeles; keressen szélvédett helyeket, ahol csak lehet.",
+              "17:30 után, napsütés nélkül, hirtelen sokkal hidegebb lesz."
+            ],
+            "ro": [
+              "Mănușile termice și o căciulă sub cască sunt obligatorii în Burgos.",
+              "Bateriile bicicletelor electrice se descarcă mult mai repede pe acest ger.",
+              "Platoul castilian este expus vântului; căutați adăpost unde este posibil.",
+              "După ora 17:30, fără lumina soarelui, se face brusc mult mai frig."
+            ],
+            "en": [
+              "Thermal gloves and a cap under the helmet are mandatory in Burgos.",
+              "E-bike batteries drain significantly faster in this cold temperature.",
+              "The Castilian plateau is prone to wind; seek drafting/shelter where possible.",
+              "After 5:30 PM, without sunlight, it gets drastically colder very quickly."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1146,6 +1510,206 @@
           "Allow extra time for traffic, especially during peak hours.",
           "Driving in the old town is restricted; stick to the main roads."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir bequem die entlegeneren Klöster, während der Regen gegen die Scheiben peitscht. Den Vormittag verbringen wir im geschützten Las Huelgas, bevor wir ins Zentrum zur Kathedrale fahren. Nachmittags bietet das Evolutionsmuseum ein großes Parkhaus direkt am Eingang, sodass wir trocken zur Ausstellung gelangen. Der Tag endet mit einer Fahrt zum Schlossberg, wo wir den Ausblick aus dem warmen Auto genießen.",
+            "hu": "Autóval kényelmesen fedezzük fel a távolabbi kolostorokat, miközben az eső kopog a szélvédőn. A délelőttöt a védett Las Huelgas-ban töltjük, majd a központba hajtunk a katedrálishoz. Délután az Evolúció Múzeuma nagy parkolóházat kínál közvetlenül a bejáratnál, így szárazon jutunk el a kiállításig. A nap a várhegyen zárul, ahol a meleg autóból élvezzük a kilátást.",
+            "ro": "Cu mașina explorăm confortabil mănăstirile mai îndepărtate, în timp ce ploaia bate în geamuri. Petrecem dimineața la adăpostul mănăstirii Las Huelgas, apoi mergem spre Catedrală. După-amiaza, Muzeul Evoluției oferă o parcare mare chiar lângă intrare, astfel încât ajungem uscați la expoziție. Ziua se încheie cu o urcare la castel, unde admirăm priveliștea din mașina caldă.",
+            "en": "By car, we comfortably explore the remote monasteries while the rain lashes the windshield. We spend the morning in the sheltered Las Huelgas before driving to the central Cathedral. In the afternoon, the Evolution Museum offers a large parking garage right at the entrance, keeping us dry. The day ends with a drive to the castle hill, enjoying the view from the warmth of the car."
+          },
+          "stops": [
+            {
+              "name": "Monastery of Las Huelgas",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor dem Eingang; nutzen Sie den Schirm für den kurzen Weg.",
+                "hu": "Parkolóhelyek közvetlenül a bejárat előtt; használjon esernyőt a rövid úton.",
+                "ro": "Locuri de parcare chiar în fața intrării; folosiți umbrela pentru drumul scurt.",
+                "en": "Parking spots available right in front; use an umbrella for the short walk."
+              }
+            },
+            {
+              "name": "Burgos Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Plaza Mayor' für den trockensten Zugang zum Zentrum.",
+                "hu": "Használja a 'Plaza Mayor' parkolóházat a legszárazabb belvárosi kijutáshoz.",
+                "ro": "Folosiți parcarea subterană 'Plaza Mayor' pentru cel mai scurt drum la uscat.",
+                "en": "Use the 'Plaza Mayor' underground parking for the driest access to the center."
+              }
+            },
+            {
+              "name": "Arch of Santa María",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; halten Sie am Flussufer für den besten Blick im Regen.",
+                "hu": "Rövid fotómegálló; álljon meg a folyóparton a legjobb kilátásért az esőben.",
+                "ro": "Scurt popas pentru poze; opriți pe malul râului pentru cea mai bună vedere.",
+                "en": "Quick photo stop; pull over by the riverbank for the best view in the rain."
+              }
+            },
+            {
+              "name": "Paseo del Espolón",
+              "tip_5lang": {
+                "de": "Vom Auto aus gut zu sehen; Parken im Regen ist hier oft schwierig.",
+                "hu": "Az autóból is jól látható; a parkolás esőben itt gyakran nehézkes.",
+                "ro": "Vizibil bine din mașină; parcarea în zonă este dificilă pe ploaie.",
+                "en": "Clearly visible from the car; street parking here is often difficult in the rain."
+              }
+            },
+            {
+              "name": "Museum of Human Evolution",
+              "tip_5lang": {
+                "de": "Direkter Zugang vom Tiefgaragen-Lift ins Museumsfoyer.",
+                "hu": "Közvetlen feljutás a mélygarázs liftjével a múzeumi előtérbe.",
+                "ro": "Acces direct din liftul parcării subterane în foierul muzeului.",
+                "en": "Direct access from the underground parking lift to the museum foyer."
+              }
+            },
+            {
+              "name": "Miraflores Charterhouse",
+              "tip_5lang": {
+                "de": "Genügend Platz zum Wenden und Parken direkt am Kircheneingang.",
+                "hu": "Elegendő hely a forduláshoz és parkoláshoz közvetlenül a templomnál.",
+                "ro": "Suficient loc pentru întoarcere și parcare chiar lângă intrarea bisericii.",
+                "en": "Plenty of space to turn and park right by the church entrance."
+              }
+            },
+            {
+              "name": "Burgos Castle",
+              "tip_5lang": {
+                "de": "Die Straße nach oben ist gut asphaltiert, aber Vorsicht bei Aquaplaning.",
+                "hu": "Az út felfelé jól aszfaltozott, de vigyázzon a felgyülemlett vízre.",
+                "ro": "Drumul spre culme este bine asfaltat, dar atenție la acvaplanare.",
+                "en": "The road up is well-paved, but watch out for standing water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tiefgaragen sind in Burgos bei Regen Gold wert; meiden Sie Parkplätze im Freien.",
+              "Prüfen Sie Ihre Scheibenwischer; starke Schauer sind in Nordspanien häufig.",
+              "Die Einbahnstraßenregelung in der Nähe der Kathedrale kann bei schlechter Sicht verwirrend sein.",
+              "Kombinieren Sie Stopps, um den Fußweg im Freien zu minimieren."
+            ],
+            "hu": [
+              "A mélygarázsok kincset érnek Burgosban esőben; kerülje a szabadtéri parkolókat.",
+              "Ellenőrizze az ablaktörlőket; az észak-spanyolországi záporok gyakran hevesek.",
+              "Az egyirányú utcák a katedrális közelében zavaróak lehetnek rossz látási viszonyoknál.",
+              "Kombinálja a megállókat, hogy minimalizálja a szabadtéren töltött sétaidőt."
+            ],
+            "ro": [
+              "Parcările subterane sunt prețioase în Burgos pe ploaie; evitați locurile în aer liber.",
+              "Verificați ștergătoarele; ploile torențiale sunt frecvente în nordul Spaniei.",
+              "Sistemul de sensuri unice de lângă Catedrală poate fi derutant pe vizibilitate redusă.",
+              "Combinați opririle pentru a minimiza timpul petrecut mergând prin ploaie."
+            ],
+            "en": [
+              "Underground parking lots are worth gold in Burgos when it rains; avoid outdoor spots.",
+              "Check your wipers; heavy downpours are common in Northern Spain.",
+              "One-way streets near the Cathedral can be confusing during poor visibility.",
+              "Group your stops to minimize the amount of walking in the open air."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit eingeschalteter Heizung fahren wir durch das winterliche Kastilien. Der Morgen im Kloster Las Huelgas ist ruhig und frostig, gefolgt von der imposanten Kathedrale. Das Museum am Nachmittag ist der perfekte Ort, um das Auto mal stehen zu lassen und die Wärme zu genießen. Später fahren wir zur Kartause von Miraflores, die einsam in der Winterlandschaft liegt, und krönen den Tag mit dem Blick vom Schlossberg über die beleuchtete Stadt.",
+            "hu": "Bekapcsolt fűtéssel vágunk neki a téli Kasztíliának. A reggel a Las Huelgas kolostornál csendes és fagyos, ezt követi az impozáns katedrális. A délutáni múzeumlátogatás tökéletes alkalom, hogy kicsit otthagyjuk az autót és élvezzük a benti meleget. Később a Miraflores kartauzi kolostorhoz hajtunk a téli tájban, a napot pedig a kivilágított várost szemlélve zárjuk a várhegyről.",
+            "ro": "Cu încălzirea pornită, traversăm Castilia de iarnă. Dimineața la mănăstirea Las Huelgas este liniștită și geroasă, urmată de impunătoarea Catedrală. Vizita la muzeu de după-amiază este momentul perfect pentru a lăsa mașina și a ne bucura de căldură. Mai târziu conducem spre Miraflores, solitară în peisajul de iarnă, și încheiem ziua cu vederea de la castel peste orașul luminat.",
+            "en": "With the heater on, we drive through wintry Castile. The morning at Las Huelgas monastery is quiet and frosty, followed by the imposing Cathedral. The afternoon museum visit is the perfect time to leave the car and enjoy the warmth. Later, we drive to Miraflores, standing solitary in the winter landscape, and crown the day with the view from the castle over the illuminated city."
+          },
+          "stops": [
+            {
+              "name": "Monastery of Las Huelgas",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach der Besichtigung der kalten Steingebäude.",
+                "hu": "Használja az ülésfűtést a hideg kőépületek megtekintése után.",
+                "ro": "Folosiți încălzirea în scaune după vizitarea clădirilor reci de piatră.",
+                "en": "Utilize your seat heaters after touring the cold stone buildings."
+              }
+            },
+            {
+              "name": "Burgos Cathedral",
+              "tip_5lang": {
+                "de": "Parkhaus Plaza Mayor ist beheizt und schont die Autobatterie.",
+                "hu": "A Plaza Mayor parkolóháza védett, és kíméli az autó akkumulátorát.",
+                "ro": "Parcarea Plaza Mayor este protejată și menajează bateria mașinii.",
+                "en": "The Plaza Mayor parking garage is sheltered and easier on your car battery."
+              }
+            },
+            {
+              "name": "Arch of Santa María",
+              "tip_5lang": {
+                "de": "Kurzes Parken am Flussufer möglich, um Fotos vom Reif auf dem Bogen zu machen.",
+                "hu": "Rövid parkolás a folyóparton lehetséges, hogy lefotózza a deres kaput.",
+                "ro": "Parcare scurtă pe malul râului pentru a poza poarta acoperită de chiciură.",
+                "en": "Quick riverside parking is possible for photos of the frost-covered arch."
+              }
+            },
+            {
+              "name": "Paseo del Espolón",
+              "tip_5lang": {
+                "de": "Bester Blick auf die gefrorenen Platanen direkt beim Vorbeifahren.",
+                "hu": "A legjobb kilátás a fagyott platánfákra közvetlenül elhaladáskor.",
+                "ro": "Cea mai bună vedere asupra platanilor înghețați este direct din mers.",
+                "en": "Best view of the frozen plane trees right from your window as you drive by."
+              }
+            },
+            {
+              "name": "Museum of Human Evolution",
+              "tip_5lang": {
+                "de": "Parken Sie im UG2, dort ist es meist etwas wärmer für das Fahrzeug.",
+                "hu": "Parkoljon a -2. szinten, ott általában valamivel melegebb van az autónak.",
+                "ro": "Parcați la nivelul -2, unde este de obicei puțin mai cald pentru vehicul.",
+                "en": "Park on level -2; it's usually slightly warmer for the vehicle there."
+              }
+            },
+            {
+              "name": "Miraflores Charterhouse",
+              "tip_5lang": {
+                "de": "Vorsicht vor Straßenglätte auf der Allee zum Kloster bei Schattenwurf.",
+                "hu": "Vigyázzon az útra kifagyott foltokra a kolostorhoz vezető sétány árnyékos részein.",
+                "ro": "Atenție la polei pe aleea spre mănăstire în zonele umbrite.",
+                "en": "Watch out for black ice on the avenue to the monastery in shaded areas."
+              }
+            },
+            {
+              "name": "Burgos Castle",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Frostschutzmittel für Temperaturen bis -10°C reicht.",
+                "hu": "Győződjön meg róla, hogy a fagyálló hűtőfolyadék -10°C-ig megfelelő.",
+                "ro": "Asigurați-vă că antigelul este rezistent până la cel puțin -10°C.",
+                "en": "Ensure your antifreeze is rated for temperatures down to at least -10°C."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schneeketten im Kofferraum sind im kastilischen Winter eine gute Absicherung.",
+              "Die Bergstraße zum Schloss kann bei Schneefall sehr kurzfristig gesperrt werden.",
+              "Parkhäuser sind im Winter ideal, um das lästige Eiskratzen zu vermeiden.",
+              "Prüfen Sie den Reifendruck, da dieser bei starker Kälte abfällt."
+            ],
+            "hu": [
+              "Hólánc a csomagtartóban jó óvintézkedés a kasztíliai télben.",
+              "A várhoz vezető hegyi utat havazás esetén nagyon rövid idő alatt lezárhatják.",
+              "A parkolóházak télen ideálisak a kellemetlen jégkaparás elkerülésére.",
+              "Ellenőrizze a guminyomást, mert az jelentősen csökkenhet a nagy hidegben."
+            ],
+            "ro": [
+              "Lanțurile de zăpadă în portbagaj sunt o măsură de siguranță bună în Castilia.",
+              "Drumul spre castel poate fi închis rapid în caz de ninsori abundente.",
+              "Parcările subterane sunt ideale iarna pentru a evita curățarea gheții de pe geamuri.",
+              "Verificați presiunea pneurilor, deoarece aceasta scade la temperaturi foarte scăzute."
+            ],
+            "en": [
+              "Snow chains in the trunk are a good precaution for the Castilian winter.",
+              "The mountain road to the castle can be closed very quickly during snowfall.",
+              "Underground parking garages are ideal in winter to avoid scraping ice off windows.",
+              "Check tire pressure, as it drops significantly in extreme cold."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1518,6 +2082,188 @@
           "Be mindful of the schedules, especially in the evenings and on weekends.",
           "Short walks are often required from bus stops to the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus springen wir von einer Sehenswürdigkeit zur nächsten, ohne nass zu werden. Der Morgen auf der Plaza Mayor bietet viele Cafés zum Unterstellen, bevor der Bus 1 uns zur Kathedrale bringt. Das Museum am Mittag ist ein idealer Stopp, da die Haltestelle fast direkt vor der Tür liegt. Am Nachmittag bringt uns der Nahverkehr bequem zum Kloster Las Huelgas, weit weg vom prasselnden Regen im Freien.",
+            "hu": "Busszal ugrálunk egyik látnivalótól a másikig, anélkül, hogy megáznánk. A reggel a Plaza Mayoron sok beugrót kínál az eső elől, mielőtt az 1-es busz a katedrálishoz vinne. A déli múzeumlátogatás ideális, mivel a megálló szinte az ajtó előtt van. Délután a tömegközlekedés kényelmesen repít a Las Huelgas kolostorhoz, messze a kinti zuhogó esőtől.",
+            "ro": "Cu autobuzul sărim de la un obiectiv la altul fără a ne uda. Dimineața în Plaza Mayor oferă multe locuri de adăpost înainte ca autobuzul 1 să ne ducă la Catedrală. Muzeul de la prânz este o oprire ideală, stația fiind chiar în fața ușii. După-amiaza, transportul public ne duce confortabil la mănăstirea Las Huelgas, departe de ploaia de afară.",
+            "en": "By bus, we hop from one attraction to another without getting soaked. The morning at Plaza Mayor offers many spots to dodge the rain before bus line 1 takes us to the Cathedral. The museum at noon is an ideal stop as the station is almost right outside the door. In the afternoon, transit comfortably whisks us to Las Huelgas monastery, away from the pouring rain."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Warten Sie in einem Café, bis der nächste Bus auf der App angezeigt wird.",
+                "hu": "Várjon egy kávézóban, amíg az applikáció jelzi a következő buszt.",
+                "ro": "Așteptați într-o cafenea până când aplicația afișează următorul autobuz.",
+                "en": "Wait in a cafe until the app shows the next bus is approaching."
+              }
+            },
+            {
+              "name": "Burgos Cathedral",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt; viele Busse halten in unmittelbarer Nähe.",
+                "hu": "Központi csomópont; sok busz megáll a közvetlen közelben.",
+                "ro": "Nod central; multe autobuze opresc în imediata apropiere.",
+                "en": "Central hub; many bus lines stop in the immediate vicinity."
+              }
+            },
+            {
+              "name": "Paseo del Espolón",
+              "tip_5lang": {
+                "de": "Überdachte Bushaltestellen entlang der Hauptstraße nutzen.",
+                "hu": "Használja a fedett buszmegállókat a főút mentén.",
+                "ro": "Folosiți stațiile de autobuz acoperite de-a lungul străzii principale.",
+                "en": "Utilize the sheltered bus stops along the main road."
+              }
+            },
+            {
+              "name": "Museum of Human Evolution",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Museo de la Evolución' ist nur 30m vom Eingang entfernt.",
+                "hu": "A 'Museo de la Evolución' megálló mindössze 30 méterre van a bejárattól.",
+                "ro": "Stația 'Museo de la Evolución' este la doar 30 m de intrare.",
+                "en": "The 'Museo de la Evolución' stop is just 30m from the entrance."
+              }
+            },
+            {
+              "name": "Monastery of Las Huelgas",
+              "tip_5lang": {
+                "de": "Linie 7 bringt Sie trocken bis fast vor die Klostermauern.",
+                "hu": "A 7-es járat szinte a kolostorfalakig viszi, szárazon.",
+                "ro": "Linia 7 vă duce la uscat până aproape de zidurile mănăstirii.",
+                "en": "Line 7 takes you almost to the monastery walls, keeping you dry."
+              }
+            },
+            {
+              "name": "Burgos Castle",
+              "tip_5lang": {
+                "de": "Seltener bedient; prüfen Sie den Fahrplan genau, um Wartezeiten im Regen zu vermeiden.",
+                "hu": "Ritkábban jár; ellenőrizze a menetrendet, hogy elkerülje az esőben való várakozást.",
+                "ro": "Deservit mai rar; verificați orarul pentru a evita așteptarea în ploaie.",
+                "en": "Served less frequently; check the schedule to avoid waiting in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die 'Burgos al móvil' App zeigt Busse in Echtzeit an – ideal bei Regen.",
+              "Kaufen Sie eine Mehrfahrtenkarte beim Tabakladen, um das Hantieren mit Bargeld zu vermeiden.",
+              "Busse in Burgos sind gut beheizt und bieten eine trockene Stadtrundfahrt.",
+              "Die Hauptlinien kreuzen sich alle in der Nähe der Plaza de España."
+            ],
+            "hu": [
+              "A 'Burgos al móvil' app valós időben mutatja a buszokat – ideális esőben.",
+              "Vegyen gyűjtőjegyet a trafikban, hogy elkerülje a készpénzezést a vizes buszon.",
+              "A burgosi buszok jól fűtöttek és száraz városnézést biztosítanak.",
+              "A fő vonalak mind a Plaza de España közelében keresztezik egymást."
+            ],
+            "ro": [
+              "Aplicația 'Burgos al móvil' arată autobuzele în timp real – ideal pe ploaie.",
+              "Cumpărați un card cu mai multe călătorii pentru a evita plata cu numerar.",
+              "Autobuzele din Burgos sunt bine încălzite și oferă un tur al orașului la uscat.",
+              "Liniile principale se intersectează toate în apropiere de Plaza de España."
+            ],
+            "en": [
+              "The 'Burgos al móvil' app shows buses in real-time – perfect for rainy days.",
+              "Buy a multi-trip card at a 'estanco' to avoid handling cash on the bus.",
+              "Burgos buses are well-heated and offer a dry way to see the city.",
+              "Most major lines intersect near Plaza de España."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vom warmen Bus aus beobachten wir die frostigen Straßen von Burgos. Der Morgen beginnt am Hauptplatz, bevor wir uns in die beheizte Kathedrale begeben. Das Museum am Nachmittag ist der wärmste Ort des Tages und leicht mit mehreren Linien erreichbar. Die Fahrt zum Kloster Las Huelgas bietet einen Blick auf das winterliche Umland, während wir es uns im Bus gemütlich machen. Zum Abschluss bringt uns der Transfer zum Schlossberg für das abendliche Lichtermeer.",
+            "hu": "A meleg buszból szemléljük Burgos fagyos utcáit. A reggel a főtéren indul, mielőtt a fűtött katedrálisba vonulnánk. A délutáni múzeum a nap legmelegebb pontja, több járattal is könnyen elérhető. A Las Huelgas kolostorhoz vezető út rálátást ad a téli környékre, miközben mi a buszban melegszünk. Végezetül a transzfer felvisz a várhegyre az esti fények megcsodálásához.",
+            "ro": "Din autobuzul cald observăm străzile înghețate ale orașului. Dimineața începe în piața centrală înainte de a intra în Catedrala încălzită. Muzeul de după-amiază este cel mai cald loc al zilei, accesibil ușor cu mai multe linii. Drumul spre Las Huelgas oferă o privire asupra împrejurimilor de iarnă în timp ce stăm la căldură. La final, transferul ne duce la castel pentru spectacolul de lumini.",
+            "en": "From the warmth of the bus, we observe the frosty streets of Burgos. The morning starts at the main square before we head into the heated Cathedral. The museum in the afternoon is the warmest spot of the day, easily reachable by several lines. The ride to Las Huelgas offers a view of the wintry surroundings while we stay cozy. Finally, the transfer takes us to the castle hill for the evening lights."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Warten Sie in der Nähe der Bushaltestelle im Windschatten der Gebäude.",
+                "hu": "Várjon a buszmegálló közelében, az épületek szélárnyékában.",
+                "ro": "Așteptați în apropierea stației, la adăpost de vânt lângă clădiri.",
+                "en": "Wait near the bus stop in the wind shadow of the buildings."
+              }
+            },
+            {
+              "name": "Burgos Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeit für einen schnellen Kaffee in den umliegenden Bars.",
+                "hu": "Használja ki a várakozási időt egy gyors kávéra a közeli bárokban.",
+                "ro": "Folosiți timpul de așteptare pentru o cafea rapidă în barurile din jur.",
+                "en": "Use the waiting time for a quick coffee in the surrounding bars."
+              }
+            },
+            {
+              "name": "Paseo del Espolón",
+              "tip_5lang": {
+                "de": "Die Busse verkehren hier sehr häufig; minimieren Sie die Stehzeit in der Kälte.",
+                "hu": "A buszok itt nagyon gyakran járnak; minimalizálja a hidegben való állást.",
+                "ro": "Autobuzele circulă foarte des aici; minimizați timpul de stat în frig.",
+                "en": "Buses run very frequently here; minimize your standing time in the cold."
+              }
+            },
+            {
+              "name": "Museum of Human Evolution",
+              "tip_5lang": {
+                "de": "Nach dem Museumsbesuch wärmt die Haltestelle auf der Sonnenseite (falls vorhanden).",
+                "hu": "A múzeumlátogatás után keresse a napos oldali megállót (ha süt a nap).",
+                "ro": "După vizita la muzeu, căutați stația de pe partea însorită.",
+                "en": "After the museum visit, wait at the stop on the sunny side if the sun is out."
+              }
+            },
+            {
+              "name": "Monastery of Las Huelgas",
+              "tip_5lang": {
+                "de": "Letzte Busse zurück in die Stadt fahren im Winter oft seltener; Plan prüfen.",
+                "hu": "Az utolsó buszok a városba télen gyakran ritkábban járnak; ellenőrizze a tervet.",
+                "ro": "Ultimele autobuze spre oraș circulă mai rar iarna; verificați orarul.",
+                "en": "The last buses back to the city often run less frequently in winter; check the plan."
+              }
+            },
+            {
+              "name": "Burgos Castle",
+              "tip_5lang": {
+                "de": "Bei Glatteis kann der Busdienst zum Schloss kurzfristig eingestellt werden.",
+                "hu": "Jegesedés esetén a várhoz közlekedő buszjáratot rövid úton leállíthatják.",
+                "ro": "În caz de polei, serviciul de autobuz spre castel poate fi suspendat rapid.",
+                "en": "In case of black ice, bus service to the castle may be suspended at short notice."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter in Burgos oft voll, da jeder die Kälte meidet.",
+              "Die Glasunterstände der Haltestellen bieten Schutz vor dem schneidenden Wind.",
+              "Halten Sie Ihre Fahrkarte griffbereit, um langes Suchen in der Kälte zu vermeiden.",
+              "Nutzen Sie die Heizung im Bus, um Ihre Füße aufzuwärmen."
+            ],
+            "hu": [
+              "A buszok télen gyakran tömöttek Burgosban, mert mindenki kerüli a hideget.",
+              "A megállók üvegfalú várói védelmet nyújtanak a metsző szél ellen.",
+              "Tartsa a jegyét elérhető helyen, hogy ne kelljen a hidegben kotorásznia érte.",
+              "Használja ki a busz fűtését a lábai felmelegítésére."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea aglomerate iarna în Burgos, fiindcă toată lumea evită gerul.",
+              "Adăposturile din sticlă ale stațiilor oferă protecție împotriva vântului tăios.",
+              "Păstrați biletul la îndemână pentru a nu căuta prin buzunare în frig.",
+              "Folosiți căldura din autobuz pentru a vă dezmorți picioarele."
+            ],
+            "en": [
+              "Buses are often crowded in Burgos during winter as everyone avoids the cold.",
+              "The glass shelters at bus stops provide essential protection from the biting wind.",
+              "Keep your ticket handy to avoid fumbling through bags in the freezing air.",
+              "Use the bus heating system to warm up your feet between stops."
+            ]
+          }
+        }
       }
     }
   }

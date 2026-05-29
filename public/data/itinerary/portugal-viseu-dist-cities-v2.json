@@ -13,1447 +13,1840 @@
       "speed_kmh": 3,
       "start": "09:00",
       "end_estimate": "17:15",
-      "total_km": 2.9,
-      "stop_count": 6,
+      "total_km": 2.2,
+      "stop_count": 7,
       "stops": [
         {
-          "name_4lang": {
-            "de": "Pelourinho von Tondela",
+          "name": {
+            "de": "Fonte da Sereia",
+            "hu": "Szirén-kút",
+            "ro": "Fonte da Sereia",
+            "en": "Siren Fountain"
+          },
+          "coords": [
+            -8.0835,
+            40.5165
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein Wahrzeichen der Stadt aus dem 18. Jahrhundert.",
+            "hu": "A város 18. századi jelképe.",
+            "ro": "Un simbol al orașului din secolul al XVIII-lea.",
+            "en": "An 18th-century landmark of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Pelourinho de Tondela",
             "hu": "Tondela pellengére",
-            "ro": "Pelourinho din Tondela",
+            "ro": "Pelourinho de Tondela",
             "en": "Pelourinho of Tondela"
           },
           "coords": [
-            -8.0831,
-            40.5165
+            -8.083,
+            40.5162
           ],
-          "category": "monuments/statues",
-          "arrive_at": "09:10",
+          "category": "monuments",
+          "arrive_at": "09:30",
           "stay_min": 15,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
           "tip_5lang": {
-            "de": "Bewundern Sie die manuelinischen Details dieses nationalen Monuments, ein Symbol der städtischen Autonomie.",
-            "hu": "Csodálja meg ennek a nemzeti emlékműnek a mánueli stílusú részleteit, a városi autonómia szimbólumát.",
-            "ro": "Admirați detaliile manueline ale acestui monument național, un simbol al autonomiei municipale.",
-            "en": "Admire the Manueline details on this national monument, a symbol of municipal autonomy."
+            "de": "Das Symbol der städtischen Unabhängigkeit.",
+            "hu": "A városi önállóság jelképe.",
+            "ro": "Simbolul independenței municipale.",
+            "en": "The symbol of municipal independence."
           }
         },
         {
-          "name_4lang": {
-            "de": "Meerjungfrauenbrunnen",
-            "hu": "Szirén-kút",
-            "ro": "Fântâna Sirenei",
-            "en": "Fountain of the Mermaid"
-          },
-          "coords": [
-            -8.0825,
-            40.5169
-          ],
-          "category": "monuments/statues",
-          "arrive_at": "09:33",
-          "stay_min": 15,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 8,
-          "hop_from_prev_km": 0.4,
-          "tip_5lang": {
-            "de": "Ein charmantes barockes Wahrzeichen im Herzen der Stadt, perfekt für ein schnelles Foto.",
-            "hu": "Egy bájos barokk nevezetesség a város szívében, tökéletes egy gyors fotóhoz.",
-            "ro": "Un reper baroc fermecător în inima orașului, perfect pentru o fotografie rapidă.",
-            "en": "A charming baroque landmark in the heart of the town, perfect for a quick photo."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Hauptkirche von Tondela",
-            "hu": "Tondelai főtemplom",
-            "ro": "Biserica Matriz din Tondela",
+          "name": {
+            "de": "Igreja Matriz de Tondela",
+            "hu": "Tondela főtemploma",
+            "ro": "Igreja Matriz de Tondela",
             "en": "Main Church of Tondela"
           },
           "coords": [
-            -8.0819,
+            -8.0825,
             40.5175
           ],
-          "category": "churches/cathedrals",
-          "arrive_at": "09:58",
+          "category": "churches",
+          "arrive_at": "09:55",
           "stay_min": 40,
-          "hop_mode": "walk",
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
+          "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Suchen Sie nach dem Grabmal von Fernão Teles de Menezes aus dem 16. Jahrhundert im Inneren.",
-            "hu": "Keresse meg Fernão Teles de Menezes 16. századi síremlékét a templom belsejében.",
-            "ro": "Căutați în interior mormântul din secolul al XVI-lea al lui Fernão Teles de Menezes.",
-            "en": "Look for the 16th-century tomb of Fernão Teles de Menezes inside."
+            "de": "Bewundern Sie die Barockaltäre im Inneren.",
+            "hu": "Csodálja meg a belső barokk oltárokat.",
+            "ro": "Admirați altarele baroce din interior.",
+            "en": "Admire the Baroque altars inside."
           }
         },
         {
-          "name_4lang": {
-            "de": "Museum Terras de Besteiros",
-            "hu": "Terras de Besteiros Múzeum",
-            "ro": "Muzeul Terras de Besteiros",
-            "en": "Museum Terras de Besteiros"
+          "name": {
+            "de": "Museu Terras de Besteiros",
+            "hu": "Besteiros Vidéki Múzeum",
+            "ro": "Museu Terras de Besteiros",
+            "en": "Terras de Besteiros Museum"
           },
           "coords": [
             -8.084,
-            40.518
+            40.515
           ],
           "category": "museums",
-          "arrive_at": "11:00",
+          "arrive_at": "10:50",
           "stay_min": 100,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 22,
-          "hop_from_prev_km": 1.1,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Das Museum befindet sich im alten Solar der Familie Vasconcelos und ist der lokalen Ethnographie gewidmet.",
-            "hu": "A múzeum a régi Vasconcelos-család udvarházában található, és a helyi etnográfiának szentelték.",
-            "ro": "Găzduit în vechiul solar al familiei Vasconcelos, muzeul este dedicat etnografiei locale.",
-            "en": "Housed in the old solar of the Vasconcelos family, the museum is dedicated to local ethnography."
+            "de": "Erfahren Sie mehr über die Archäologie der Region.",
+            "hu": "Ismerje meg a régió régészeti emlékeit.",
+            "ro": "Aflați mai multe despre arheologia regiunii.",
+            "en": "Learn about the region's archaeology."
           }
         },
         {
-          "name_4lang": {
+          "name": {
             "de": "Solar do Casal de Santo António",
-            "hu": "Solar do Casal de Santo António",
+            "hu": "Szent Antal nemesi udvarház",
             "ro": "Solar do Casal de Santo António",
-            "en": "Solar do Casal de Santo António"
+            "en": "Solar do Casal de Santo Antonio"
           },
           "coords": [
-            -8.0855,
-            40.5172
+            -8.081,
+            40.5185
           ],
           "category": "famous residences",
           "arrive_at": "12:50",
-          "stay_min": 80,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
           "tip_5lang": {
-            "de": "Obwohl es sich in Privatbesitz befindet, ist seine Fassade aus dem 18. Jahrhundert ein beeindruckender Anblick.",
-            "hu": "Bár magántulajdonban van, 18. századi homlokzata lenyűgöző látványt nyújt.",
-            "ro": "Deși este o proprietate privată, fațada sa din secolul al XVIII-lea este o priveliște impresionantă.",
-            "en": "Although it's a private property, its 18th-century facade is an impressive sight."
+            "de": "Ein prächtiges Beispiel lokaler Architektur.",
+            "hu": "A helyi építészet pompás példája.",
+            "ro": "Un exemplu magnific de arhitectură locală.",
+            "en": "A magnificent example of local architecture."
           }
         },
         {
-          "name_4lang": {
-            "de": "Freizeitpark Fontelo",
-            "hu": "Fontelo Szabadidőpark",
-            "ro": "Parcul de Agrement Fontelo",
+          "name": {
+            "de": "Capela de Nossa Senhora do Campo",
+            "hu": "Mezei Miasszonyunk kápolna",
+            "ro": "Capela de Nossa Senhora do Campo",
+            "en": "Chapel of Our Lady of the Field"
+          },
+          "coords": [
+            -8.085,
+            40.52
+          ],
+          "category": "churches",
+          "arrive_at": "14:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für Besinnung.",
+            "hu": "Csendes hely az elmélkedésre.",
+            "ro": "Un loc liniștit pentru reflecție.",
+            "en": "A quiet place for reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de Lazer do Fontelo",
+            "hu": "Fontelo szabadidőpark",
+            "ro": "Parque de Lazer do Fontelo",
             "en": "Fontelo Leisure Park"
           },
           "coords": [
             -8.088,
-            40.519
+            40.512
           ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "14:18",
+          "category": "parks",
+          "arrive_at": "15:00",
           "stay_min": 75,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 8,
-          "hop_from_prev_km": 0.4,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.2,
           "tip_5lang": {
-            "de": "Ein großartiger Ort zum Entspannen am Nachmittag. Bringen Sie ein Buch mit oder genießen Sie einfach die Natur.",
-            "hu": "Nagyszerű hely a délutáni pihenésre. Hozzon magával egy könyvet, vagy csak élvezze a természetet.",
-            "ro": "Un loc excelent pentru a vă relaxa după-amiaza. Aduceți o carte sau pur și simplu bucurați-vă de natură.",
-            "en": "A great spot to relax in the afternoon. Bring a book or just enjoy the nature."
+            "de": "Perfekt für einen entspannten Spaziergang.",
+            "hu": "Tökéletes egy pihentető sétához.",
+            "ro": "Perfect pentru o plimbare relaxantă.",
+            "en": "Perfect for a relaxing walk."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Tondela, wo der Pelourinho und der Meerjungfrauenbrunnen Geschichten aus der Vergangenheit erzählen. Der Morgen ist der Erkundung des reichen Erbes der Stadt gewidmet, mit einem Besuch der Hauptkirche, die mit ihrer sakralen Kunst und architektonischen Bedeutung beeindruckt. \nDer Mittag führt Sie ins Museum Terras de Besteiros, wo Sie in die Ethnographie und die Traditionen der Region eintauchen. Nach dieser kulturellen Vertiefung besichtigen Sie das prächtige Solar do Casal de Santo António, ein Zeugnis des lokalen Adels. \nVerbringen Sie Ihren Nachmittag im ruhigen Fontelo-Freizeitpark. Es ist der perfekte Ort, um nach einem Tag voller Erkundungen zu entspannen, spazieren zu gehen und die frische Luft zu genießen. Hier können Sie die gesammelten Eindrücke verarbeiten. \nSchließen Sie Ihren Tag mit einem traditionellen Abendessen ab und genießen Sie die Aromen der Region Beira. Denken Sie über die Mischung aus Geschichte, Kunst und Natur nach, die Tondela zu einem unvergesslichen Reiseziel macht.",
-        "hu": "Kezdje a napot Tondela történelmi szívében, ahol a pellengér és a Szirén-kút a múlt történeteiről mesél. A délelőtt a város gazdag örökségének felfedezésével telik, beleértve a főtemplom meglátogatását, amely lenyűgöz szakrális művészetével és építészeti jelentőségével. \nAz ebédidő a Terras de Besteiros Múzeumba vezet, ahol elmerülhet a régió etnográfiájában és hagyományaiban. Ezt a kulturális elmélyülést követően tekintse meg a csodálatos Solar do Casal de Santo António-t, a helyi nemesség tanúbizonyságát. \nA délutánt a békés Fontelo Szabadidőparkban töltse. Tökéletes hely a pihenésre egy felfedezéssel teli nap után, sétáljon egyet és élvezze a friss levegőt. Itt feldolgozhatja a nap folyamán szerzett benyomásokat. \nZárja a napot egy hagyományos vacsorával, élvezve a Beira régió ízeit. Gondolkodjon el a történelem, a művészet és a természet keverékén, amely Tondelát emlékezetes úti céllá teszi.",
-        "ro": "Începeți ziua în inima istorică a Tondelei, unde Pelourinho și Fântâna Sirenei spun povești din trecut. Dimineața este dedicată explorării patrimoniului bogat al orașului, cu o vizită la Biserica Matriz, impresionantă prin arta sa sacră și importanța arhitecturală. \nMiaza-ziua vă duce la Muzeul Terras de Besteiros pentru o imersiune în etnografia și tradițiile regiunii. După această aprofundare culturală, vizitați splendidul Solar do Casal de Santo António, o mărturie a nobilimii locale. \nPetreceți după-amiaza în liniștitul Parc de Agrement Fontelo. Este locul perfect pentru a vă relaxa după o zi de explorare, pentru a vă plimba și a vă bucura de aerul curat. Aici puteți procesa impresiile adunate. \nÎncheiați ziua cu o cină tradițională, savurând aromele regiunii Beira. Reflectați la amestecul de istorie, artă și natură care face din Tondela o destinație memorabilă.",
-        "en": "Start your day in the historic heart of Tondela, where the Pelourinho and the Mermaid Fountain tell tales of the past. The morning is dedicated to exploring the town's rich heritage, with a visit to the Main Church, impressive for its sacred art and architectural significance. \nMidday takes you to the Museum Terras de Besteiros for an immersion into the region's ethnography and traditions. Following this cultural deep-dive, view the splendid Solar do Casal de Santo António, a testament to the local nobility. \nSpend your afternoon in the tranquil Fontelo Leisure Park. It's the perfect place to unwind after a day of exploration, take a walk, and enjoy the fresh air. Here you can process the impressions gathered throughout the day. \nConclude your day with a traditional dinner, savoring the flavors of the Beira region. Reflect on the blend of history, art, and nature that makes Tondela a memorable destination."
+        "de": "Tondela offenbart seinen Charme am besten zu Fuß. Der Morgen beginnt an den historischen Monumenten im Zentrum, gefolgt vom Besuch der prächtigen Hauptkirche. Nach dem Eintauchen in die Geschichte im Museu Terras de Besteiros führt der Weg zu den eleganten Adelshäusern. Der Tag endet friedlich im Fontelo-Park, wo man die grüne Seele der Besteiros-Region spüren kann.",
+        "hu": "Tondela báját gyalogosan fedezhetjük fel a legjobban. A reggel a központ történelmi emlékeivel indul, majd a pompás főtemplom megtekintésével folytatódik. A Besteiros Múzeumban tett történelmi időutazás után az elegáns udvarházak felé vesszük az irányt. A nap békésen zárul a Fontelo Parkban, ahol átérezhetjük a Besteiros vidék zöld lelkét.",
+        "ro": "Tondela își dezvăluie cel mai bine farmecul la pas. Dimineața începe cu monumentele istorice din centru, urmată de vizitarea magnificei biserici principale. După o incursiune în istorie la Muzeul Besteiros, drumul duce spre conacele elegante. Ziua se încheie liniștit în Parcul Fontelo, unde puteți simți sufletul verde al regiunii Besteiros.",
+        "en": "Tondela reveals its charm best on foot. The morning begins with the historical monuments in the center, followed by a visit to the magnificent main church. After a journey through history at the Besteiros Museum, the path leads to the elegant manor houses. The day ends peacefully in Fontelo Park, where you can feel the green soul of the Besteiros region."
       },
       "gastro_picks": {
         "de": [
           {
             "name": "Vitela de Lafões",
-            "tip": "Probieren Sie dieses berühmte geröstete Kalbfleischgericht, ein regionales Markenzeichen."
-          },
-          {
-            "name": "Arroz de Carqueja",
-            "tip": "Ein einzigartiger Reis, gekocht mit Ginsterblüten, der einen besonderen Geschmack verleiht."
-          },
-          {
-            "name": "Restaurante 3 Pipos",
-            "tip": "Bekannt für seine traditionelle portugiesische Küche und sein rustikales Ambiente."
+            "tip": "Zartes Kalbfleisch, eine regionale Delikatesse."
           }
         ],
         "hu": [
           {
             "name": "Vitela de Lafões",
-            "tip": "Kóstolja meg ezt a híres sült borjúételt, a régió védjegyét."
-          },
-          {
-            "name": "Arroz de Carqueja",
-            "tip": "Egyedi rizsétel rekettyevirággal főzve, ami különleges ízt ad neki."
-          },
-          {
-            "name": "Restaurante 3 Pipos",
-            "tip": "Hagyományos portugál konyhájáról és rusztikus hangulatáról ismert."
+            "tip": "Zsenge borjúhús, a környék specialitása."
           }
         ],
         "ro": [
           {
             "name": "Vitela de Lafões",
-            "tip": "Încercați acest faimos fel de mâncare din vițel la cuptor, o marcă a regiunii."
-          },
-          {
-            "name": "Arroz de Carqueja",
-            "tip": "Un orez unic, gătit cu flori de grozamă, care îi conferă o aromă distinctă."
-          },
-          {
-            "name": "Restaurante 3 Pipos",
-            "tip": "Cunoscut pentru bucătăria sa tradițională portugheză și ambianța rustică."
+            "tip": "Carne de vițel fragedă, o delicatesă regională."
           }
         ],
         "en": [
           {
             "name": "Vitela de Lafões",
-            "tip": "Try this famous roasted veal dish, a regional hallmark."
-          },
-          {
-            "name": "Arroz de Carqueja",
-            "tip": "A unique rice cooked with broom flowers, giving it a distinctive flavor."
-          },
-          {
-            "name": "Restaurante 3 Pipos",
-            "tip": "Known for its traditional Portuguese cuisine and rustic ambiance."
+            "tip": "Tender veal, a regional delicacy."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Parque de Lazer do Fontelo",
-            "tip": "Finden Sie eine ruhige Bank am See und genießen Sie die friedliche Atmosphäre.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Ufer des Flusses Dão",
-            "tip": "Machen Sie einen Spaziergang entlang des Flusses etwas außerhalb der Stadt, um Ruhe zu finden.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Sonnenuntergang über der Serra do Caramulo",
-            "tip": "Wenn Sie mobil sind, bietet ein kurzer Ausflug in die nahegelegenen Berge atemberaubende Ausblicke.",
-            "emoji": "🌅"
+            "name": "Parque do Fontelo",
+            "tip": "Grüne Oase für Ruhe.",
+            "emoji": "🌳"
           }
         ],
         "hu": [
           {
-            "name": "Fontelo Szabadidőpark",
-            "tip": "Keressen egy csendes padot a tó mellett, és élvezze a békés hangulatot.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Dão folyó partja",
-            "tip": "Sétáljon egyet a folyó mentén a városon kívül a csendért és nyugalomért.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Naplemente a Serra do Caramulo felett",
-            "tip": "Ha van rá lehetősége, egy rövid kirándulás a közeli hegyekbe lélegzetelállító kilátást nyújt.",
-            "emoji": "🌅"
+            "name": "Parque do Fontelo",
+            "tip": "Zöld oázis a nyugalomhoz.",
+            "emoji": "🌳"
           }
         ],
         "ro": [
           {
-            "name": "Parcul de Agrement Fontelo",
-            "tip": "Găsiți o bancă liniștită lângă lac și bucurați-vă de atmosfera pașnică.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Malurile râului Dão",
-            "tip": "Faceți o plimbare de-a lungul râului, chiar în afara orașului, pentru liniște și pace.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Apus de soare peste Serra do Caramulo",
-            "tip": "Dacă sunteți mobil, o scurtă călătorie în munții din apropiere oferă priveliști uimitoare.",
-            "emoji": "🌅"
+            "name": "Parque do Fontelo",
+            "tip": "Oază verde pentru liniște.",
+            "emoji": "🌳"
           }
         ],
         "en": [
           {
-            "name": "Fontelo Leisure Park",
-            "tip": "Find a quiet bench by the lake and enjoy the peaceful atmosphere.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Banks of the Dão River",
-            "tip": "Take a walk along the river just outside the town for some peace and quiet.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Sunset over Serra do Caramulo",
-            "tip": "If you're mobile, a short trip to the nearby mountains offers breathtaking views.",
-            "emoji": "🌅"
+            "name": "Parque do Fontelo",
+            "tip": "Green oasis for tranquility.",
+            "emoji": "🌳"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Wochenmarkt",
-            "tip": "Besuchen Sie den lokalen Markt für frische Produkte, Käse und traditionelles Kunsthandwerk."
-          },
-          {
-            "name": "Schwarzkeramik",
-            "tip": "Halten Sie Ausschau nach der berühmten schwarzen Keramik aus dem nahegelegenen Dorf Molelos."
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Traditionelle Keramik aus Molelos."
           }
         ],
         "hu": [
           {
-            "name": "Heti piac",
-            "tip": "Látogasson el a helyi piacra friss termékekért, sajtokért és hagyományos kézműves termékekért."
-          },
-          {
-            "name": "Fekete kerámia",
-            "tip": "Keresse a közeli Molelos faluból származó híres fekete kerámiát."
+            "name": "Helyi kézműves termékek",
+            "tip": "Tradicionális molelos-i kerámiák."
           }
         ],
         "ro": [
           {
-            "name": "Piața săptămânală",
-            "tip": "Vizitați piața locală pentru produse proaspete, brânzeturi și meșteșuguri tradiționale."
-          },
-          {
-            "name": "Ceramică neagră",
-            "tip": "Căutați faimoasa ceramică neagră din satul din apropiere, Molelos."
+            "name": "Artizanat local",
+            "tip": "Ceramică tradițională din Molelos."
           }
         ],
         "en": [
           {
-            "name": "Weekly Market",
-            "tip": "Visit the local market for fresh produce, cheeses, and traditional handicrafts."
-          },
-          {
-            "name": "Black Pottery",
-            "tip": "Look out for the famous black pottery from the nearby village of Molelos."
+            "name": "Local handicrafts",
+            "tip": "Traditional ceramics from Molelos."
           }
         ]
       },
       "tips": {
         "de": [
-          "Tragen Sie bequeme Schuhe, da das Stadtzentrum Kopfsteinpflasterstraßen hat.",
-          "Die meisten historischen Stätten liegen nahe beieinander und sind leicht zu Fuß erreichbar.",
-          "Nehmen Sie Wasser mit, besonders an warmen Tagen.",
-          "Planen Sie zusätzliche Zeit ein, um sich in den engen Gassen zu verirren und versteckte Ecken zu entdecken."
+          "Tragen Sie bequeme Schuhe für die Kopfsteinpflastergassen.",
+          "Probieren Sie die Weine der Dão-Region."
         ],
         "hu": [
-          "Viseljen kényelmes cipőt, mivel a városközpont macskaköves utcákból áll.",
-          "A legtöbb történelmi helyszín közel van egymáshoz, így gyalogosan is könnyen elérhető.",
-          "Vigyen magával vizet, különösen meleg napokon.",
-          "Szánjon extra időt arra, hogy eltévedjen a szűk utcákban és felfedezzen rejtett zugokat."
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Kóstolja meg a Dão borvidék borait."
         ],
         "ro": [
-          "Purtați pantofi confortabili, deoarece centrul orașului are străzi pietruite.",
-          "Majoritatea siturilor istorice sunt apropiate și ușor de explorat pe jos.",
-          "Luați apă cu dumneavoastră, mai ales în zilele calde.",
-          "Planificați timp suplimentar pentru a vă pierde pe străduțele înguste și a descoperi colțuri ascunse."
+          "Purtați încălțăminte confortabilă pentru străzile pietruite.",
+          "Gustați vinurile din regiunea Dão."
         ],
         "en": [
-          "Wear comfortable shoes as the town center has cobblestone streets.",
-          "Most historic sites are close to each other, making them easy to explore on foot.",
-          "Bring water with you, especially on warm days.",
-          "Allow for extra time to get lost in the narrow streets and discover hidden corners."
+          "Wear comfortable shoes for the cobbled streets.",
+          "Taste the wines of the Dão region."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Ein regnerischer Start am Brunnen, Schirm bereit halten. Mittag: Die Kirche bietet trockenen Unterschlupf für Besinnung. Nachmittag: Ausgiebiger Besuch im Museu Terras de Besteiros, um dem Guss zu entkommen. Abend: Ein kurzer Spaziergang durch Pfützen zum Solar do Ferraz und gemütlicher Ausklang im Café.",
+            "hu": "Reggel: Esős kezdés a szökőkútnál, ernyő kötelező. Délben: A templom békéje tökéletes menedék a zápor elől. Délután: Hosszú látogatás a Besteiros Múzeumban, ahol szárazon maradhatunk. Este: Rövid séta a tócsák között a Solar do Ferraz felé, majd meleg vacsora egy közeli vendéglőben.",
+            "ro": "Dimineața: Un început ploios la fântână, umbrela este esențială. Prânz: Biserica oferă un adăpost liniștit împotriva aversei. După-amiaza: Vizită extinsă la Muzeul Terras de Besteiros pentru a rămâne uscați. Seara: O scurtă plimbare printre bălți spre Solar do Ferraz și o cină caldă.",
+            "en": "Morning: A rainy start at the fountain, keep your umbrella ready. Noon: The church provides a peaceful dry shelter from the showers. Afternoon: Extensive visit to the Terras de Besteiros Museum to stay dry. Evening: A short walk through puddles to Solar do Ferraz and a cozy dinner in a local spot."
+          },
+          "stops": [
+            {
+              "name": "Fonte da Sereia",
+              "tip_5lang": {
+                "de": "Schnelles Foto unterm Schirm.",
+                "hu": "Gyors fotó az ernyő alatt.",
+                "ro": "O fotografie rapidă sub umbrelă.",
+                "en": "Quick photo under the umbrella."
+              }
+            },
+            {
+              "name": "Monumento ao Emigrante",
+              "tip_5lang": {
+                "de": "Kurzer Halt, Vorsicht bei Pfützen.",
+                "hu": "Rövid megálló, vigyázz a tócsákra.",
+                "ro": "Oprire scurtă, atenție la bălți.",
+                "en": "Short stop, watch out for puddles."
+              }
+            },
+            {
+              "name": "Igreja Matriz de Tondela",
+              "tip_5lang": {
+                "de": "Trockener Ort für Besinnung.",
+                "hu": "Száraz hely az elmélkedésre.",
+                "ro": "Loc uscat pentru meditație.",
+                "en": "Dry place for reflection."
+              }
+            },
+            {
+              "name": "Museu Terras de Besteiros",
+              "tip_5lang": {
+                "de": "Perfekter Fluchtpunkt vor dem Regen.",
+                "hu": "Tökéletes menekülés az eső elől.",
+                "ro": "Refugiul perfect împotriva ploii.",
+                "en": "Perfect escape from the rain."
+              }
+            },
+            {
+              "name": "Solar do Ferraz",
+              "tip_5lang": {
+                "de": "Historisches Interieur genießen.",
+                "hu": "Élvezze a történelmi belsőt.",
+                "ro": "Bucurați-vă de interiorul istoric.",
+                "en": "Enjoy the historical interior."
+              }
+            },
+            {
+              "name": "Parque Urbano",
+              "tip_5lang": {
+                "de": "Vorsicht, rutschige Wege im Park.",
+                "hu": "Vigyázat, csúszós utak a parkban.",
+                "ro": "Atenție, poteci alunecoase în parc.",
+                "en": "Caution, slippery paths in the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Arkaden im Zentrum.",
+              "Das Museum ist montags oft geschlossen.",
+              "Wasserdichte Schuhe sind in Tondela wichtig.",
+              "Kirchen bieten kostenlosen Regenschutz."
+            ],
+            "hu": [
+              "Használja a központ árkádjait.",
+              "A múzeum hétfőnként zárva tarthat.",
+              "A vízálló cipő fontos Tondelában.",
+              "A templomok ingyenes menedéket nyújtanak."
+            ],
+            "ro": [
+              "Folosiți arcadele din centru.",
+              "Muzeul poate fi închis lunea.",
+              "Încălțămintea impermeabilă e importantă.",
+              "Bisericile oferă adăpost gratuit."
+            ],
+            "en": [
+              "Use the arcades in the center.",
+              "The museum might be closed on Mondays.",
+              "Waterproof shoes are vital in Tondela.",
+              "Churches offer free shelter from rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Frische Winterluft am zentralen Platz. Mittag: Die Sonne wärmt die Kirchenmauern zur Mittagszeit. Nachmittag: Aufwärmen im städtischen Museum zwischen lokalen Exponaten. Abend: Die Dämmerung setzt früh ein, ideal für einen Spaziergang im beleuchteten Stadtpark und ein herzhaftes Winteressen.",
+            "hu": "Reggel: Friss téli levegő a központi téren. Délben: A gyenge téli napsütés megvilágítja a templom falait. Délután: Melegedjen fel a városi múzeumban a helyi kiállítások között. Este: Korán sötétedik, ideális idő a kivilágított városi park felfedezéséhez és egy kiadós téli vacsorához.",
+            "ro": "Dimineața: Aer proaspăt de iarnă în piața centrală. Prânz: Soarele slab de iarnă luminează zidurile bisericii. După-amiaza: Încălziți-vă în muzeul municipal printre exponate. Seara: Întunericul se lasă devreme, ideal pentru parcul luminat și o cină consistentă.",
+            "en": "Morning: Fresh winter air at the central square. Noon: Weak winter sun warms the church walls. Afternoon: Warm up in the municipal museum among local exhibits. Evening: Darkness falls early, ideal for exploring the lit city park and enjoying a hearty winter dinner."
+          },
+          "stops": [
+            {
+              "name": "Fonte da Sereia",
+              "tip_5lang": {
+                "de": "Frischer Morgenwind am Brunnen.",
+                "hu": "Friss reggeli szél a kútnál.",
+                "ro": "Vânt proaspăt de dimineață.",
+                "en": "Fresh morning breeze at the fountain."
+              }
+            },
+            {
+              "name": "Monumento ao Emigrante",
+              "tip_5lang": {
+                "de": "Kurzer Halt im Winterlicht.",
+                "hu": "Rövid megálló a téli fényben.",
+                "ro": "Oprire scurtă în lumina iernii.",
+                "en": "Short stop in the winter light."
+              }
+            },
+            {
+              "name": "Igreja Matriz de Tondela",
+              "tip_5lang": {
+                "de": "Ruhiger, windgeschützter Ort.",
+                "hu": "Csendes, szélvédett helyszín.",
+                "ro": "Loc liniștit, ferit de vânt.",
+                "en": "Quiet place, shielded from wind."
+              }
+            },
+            {
+              "name": "Museu Terras de Besteiros",
+              "tip_5lang": {
+                "de": "Gute Heizung im Inneren.",
+                "hu": "Jó fűtés a belső terekben.",
+                "ro": "Încălzire bună în interior.",
+                "en": "Good heating inside."
+              }
+            },
+            {
+              "name": "Solar do Ferraz",
+              "tip_5lang": {
+                "de": "Warme Kleidung für alte Gemäuer.",
+                "hu": "Meleg ruha kell a régi falak közé.",
+                "ro": "Haine groase pentru ziduri vechi.",
+                "en": "Warm layers for old stone walls."
+              }
+            },
+            {
+              "name": "Parque Urbano",
+              "tip_5lang": {
+                "de": "Sonnenuntergang gegen 17:15 Uhr.",
+                "hu": "Naplemente 17:15 körül.",
+                "ro": "Apusul soarelui în jur de 17:15.",
+                "en": "Sunset around 5:15 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Früher Sonnenuntergang beachten.",
+              "Tragen Sie Zwiebelschichten.",
+              "Warme Getränke in Cafés genießen.",
+              "Öffentliche Gebäude sind gut beheizt."
+            ],
+            "hu": [
+              "Ügyeljen a korai naplementére.",
+              "Öltözzön rétegesen.",
+              "Igyon meleg italokat a kávézókban.",
+              "A középületek jól fűtöttek."
+            ],
+            "ro": [
+              "Atenție la apusul devreme.",
+              "Îmbrăcați-vă în straturi.",
+              "Băuturi calde în cafenele.",
+              "Clădirile publice sunt bine încălzite."
+            ],
+            "en": [
+              "Watch out for the early sunset.",
+              "Dress in layers for warmth.",
+              "Enjoy hot drinks in local cafes.",
+              "Public buildings are well heated."
+            ]
+          }
+        }
       }
     },
     "bike": {
       "mode": "bike",
       "speed_kmh": 10,
       "start": "09:00",
-      "end_estimate": "16:45",
-      "total_km": 7.5,
-      "stop_count": 6,
+      "end_estimate": "16:30",
+      "total_km": 8.5,
+      "stop_count": 8,
       "stops": [
         {
-          "name_4lang": {
+          "name": {
+            "de": "Fonte da Sereia",
+            "hu": "Szirén-kút",
+            "ro": "Fonte da Sereia",
+            "en": "Siren Fountain"
+          },
+          "coords": [
+            -8.0835,
+            40.5165
+          ],
+          "category": "monuments",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im Herzen der Stadt.",
+            "hu": "Kiindulópont a város szívében.",
+            "ro": "Punct de plecare din inima orașului.",
+            "en": "Starting point in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Matriz de Tondela",
+            "hu": "Tondela főtemploma",
+            "ro": "Igreja Matriz de Tondela",
+            "en": "Main Church of Tondela"
+          },
+          "coords": [
+            -8.0825,
+            40.5175
+          ],
+          "category": "churches",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Barockjuwel.",
+            "hu": "Egy barokk ékszerdoboz.",
+            "ro": "O bijuterie barocă.",
+            "en": "A Baroque gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Solar do Casal de Santo António",
+            "hu": "Szent Antal nemesi udvarház",
+            "ro": "Solar do Casal de Santo António",
+            "en": "Solar do Casal de Santo Antonio"
+          },
+          "coords": [
+            -8.081,
+            40.5185
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Historisches Ambiente.",
+            "hu": "Történelmi hangulat.",
+            "ro": "Ambiantă istorică.",
+            "en": "Historical atmosphere."
+          }
+        },
+        {
+          "name": {
             "de": "Ponte de Alfarela",
-            "hu": "Alfarela híd",
+            "hu": "Alfarela-híd",
             "ro": "Ponte de Alfarela",
             "en": "Alfarela Bridge"
           },
           "coords": [
-            -8.095,
-            40.51
+            -8.1,
+            40.53
           ],
-          "category": "bridges/lighthouses",
-          "arrive_at": "09:10",
-          "stay_min": 20,
-          "hop_mode": "bike",
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0,
+          "category": "bridges",
+          "arrive_at": "11:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
           "tip_5lang": {
-            "de": "Eine malerische mittelalterliche Brücke, ein perfekter Startpunkt für eine Radtour.",
-            "hu": "Egy festői középkori híd, tökéletes kiindulópont egy kerékpártúrához.",
-            "ro": "Un pod medieval pitoresc, un punct de plecare perfect pentru un tur cu bicicleta.",
-            "en": "A picturesque medieval bridge, a perfect starting point for a bike tour."
+            "de": "Eine malerische Brücke in der Umgebung.",
+            "hu": "Festői híd a környéken.",
+            "ro": "Un pod pitoresc în împrejurimi.",
+            "en": "A picturesque bridge in the surroundings."
           }
         },
         {
-          "name_4lang": {
+          "name": {
+            "de": "Museu Terras de Besteiros",
+            "hu": "Besteiros Vidéki Múzeum",
+            "ro": "Museu Terras de Besteiros",
+            "en": "Terras de Besteiros Museum"
+          },
+          "coords": [
+            -8.084,
+            40.515
+          ],
+          "category": "museums",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Kultureller Stopp.",
+            "hu": "Kulturális megálló.",
+            "ro": "Popas cultural.",
+            "en": "Cultural stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Pelourinho de Tondela",
+            "hu": "Tondela pellengére",
+            "ro": "Pelourinho de Tondela",
+            "en": "Pelourinho of Tondela"
+          },
+          "coords": [
+            -8.083,
+            40.5162
+          ],
+          "category": "monuments",
+          "arrive_at": "14:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurze Pause im Zentrum.",
+            "hu": "Rövid pihenő a központban.",
+            "ro": "Scurtă pauză în centru.",
+            "en": "Short break in the center."
+          }
+        },
+        {
+          "name": {
             "de": "Capela de Nossa Senhora do Campo",
-            "hu": "Nossa Senhora do Campo kápolna",
-            "ro": "Capela Nossa Senhora do Campo",
+            "hu": "Mezei Miasszonyunk kápolna",
+            "ro": "Capela de Nossa Senhora do Campo",
             "en": "Chapel of Our Lady of the Field"
           },
           "coords": [
-            -8.089,
-            40.513
+            -8.085,
+            40.52
           ],
-          "category": "churches/cathedrals",
-          "arrive_at": "09:42",
+          "category": "churches",
+          "arrive_at": "14:35",
           "stay_min": 30,
-          "hop_mode": "bike",
-          "hop_from_prev_min": 12,
-          "hop_from_prev_km": 2.0,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
           "tip_5lang": {
-            "de": "Eine charmante Kapelle in einer ländlichen Umgebung, ideal für einen ruhigen Moment.",
-            "hu": "Egy bájos kápolna vidéki környezetben, ideális egy csendes pillanathoz.",
-            "ro": "O capelă fermecătoare într-un cadru rural, ideală pentru un moment de liniște.",
-            "en": "A charming chapel in a rural setting, ideal for a quiet moment."
+            "de": "Ruhiger Aussichtspunkt.",
+            "hu": "Csendes kilátópont.",
+            "ro": "Punct de belvedere liniștit.",
+            "en": "Quiet viewpoint."
           }
         },
         {
-          "name_4lang": {
-            "de": "Freizeitpark Fontelo",
-            "hu": "Fontelo Szabadidőpark",
-            "ro": "Parcul de Agrement Fontelo",
+          "name": {
+            "de": "Parque de Lazer do Fontelo",
+            "hu": "Fontelo szabadidőpark",
+            "ro": "Parque de Lazer do Fontelo",
             "en": "Fontelo Leisure Park"
           },
           "coords": [
             -8.088,
-            40.519
+            40.512
           ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "10:18",
-          "stay_min": 60,
-          "hop_mode": "bike",
-          "hop_from_prev_min": 6,
-          "hop_from_prev_km": 1.0,
+          "category": "parks",
+          "arrive_at": "15:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
           "tip_5lang": {
-            "de": "Fahren Sie durch den Park und machen Sie eine Pause am See.",
-            "hu": "Tekerjen át a parkon, és tartson egy kis szünetet a tónál.",
-            "ro": "Pedalați prin parc și faceți o pauză lângă lac.",
-            "en": "Cycle through the park and take a break by the lake."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Pelourinho und Zentrum",
-            "hu": "Pellengér és központ",
-            "ro": "Pelourinho și Centrul",
-            "en": "Pelourinho and Center"
-          },
-          "coords": [
-            -8.0831,
-            40.5165
-          ],
-          "category": "monuments/statues",
-          "arrive_at": "11:30",
-          "stay_min": 45,
-          "hop_mode": "bike",
-          "hop_from_prev_min": 12,
-          "hop_from_prev_km": 2.0,
-          "tip_5lang": {
-            "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie den zentralen Platz zu Fuß.",
-            "hu": "Zárja le a kerékpárt, és fedezze fel gyalog a központi teret.",
-            "ro": "Lăsați bicicleta și explorați piața centrală pe jos.",
-            "en": "Lock up your bike and explore the central square on foot."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Museum Terras de Besteiros",
-            "hu": "Terras de Besteiros Múzeum",
-            "ro": "Muzeul Terras de Besteiros",
-            "en": "Museum Terras de Besteiros"
-          },
-          "coords": [
-            -8.084,
-            40.518
-          ],
-          "category": "museums",
-          "arrive_at": "12:21",
-          "stay_min": 100,
-          "hop_mode": "bike",
-          "hop_from_prev_min": 6,
-          "hop_from_prev_km": 1.0,
-          "tip_5lang": {
-            "de": "Eine kulturelle Pause, um mehr über die reiche Geschichte der Region zu erfahren.",
-            "hu": "Kulturális szünet, hogy többet tudjon meg a régió gazdag történelméről.",
-            "ro": "O pauză culturală pentru a învăța despre istoria bogată a regiunii.",
-            "en": "A cultural break to learn about the region's rich history."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Igreja Matriz de Tondela",
-            "hu": "Tondelai főtemplom",
-            "ro": "Biserica Matriz din Tondela",
-            "en": "Main Church of Tondela"
-          },
-          "coords": [
-            -8.0819,
-            40.5175
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "14:10",
-          "stay_min": 40,
-          "hop_mode": "bike",
-          "hop_from_prev_min": 9,
-          "hop_from_prev_km": 1.5,
-          "tip_5lang": {
-            "de": "Beenden Sie Ihre Tour mit einem Besuch dieser bedeutenden Kirche.",
-            "hu": "Fejezze be a túrát ennek a jelentős templomnak a meglátogatásával.",
-            "ro": "Încheiați turul cu o vizită la această biserică importantă.",
-            "en": "End your tour with a visit to this significant church."
+            "de": "Perfekter Abschluss im Grünen.",
+            "hu": "Tökéletes befejezés a zöldben.",
+            "ro": "Final perfect în natură.",
+            "en": "Perfect end in nature."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Ihre Radtour beginnt an der historischen Ponte de Alfarela und führt Sie durch malerische Landschaften. Der Morgen ist eine Mischung aus ruhiger Besinnung in der Capela de Nossa Senhora do Campo und entspanntem Radfahren im Fontelo-Park. Es ist eine sanfte Einführung in die natürliche Schönheit der Region. \nZur Mittagszeit erreichen Sie das belebte Zentrum von Tondela. Nachdem Sie den zentralen Platz erkundet haben, tauchen Sie im Museum Terras de Besteiros in die lokale Kultur ein. Dies bietet einen faszinierenden Kontrast zur morgendlichen Fahrt durch die Natur. \nDer Nachmittag ist dem spirituellen und architektonischen Erbe der Stadt gewidmet, mit einem abschließenden Besuch in der Hauptkirche. Die Fahrt dorthin gibt Ihnen eine weitere Gelegenheit, die städtische Atmosphäre aufzusaugen. \nSchließen Sie den Tag mit einem wohlverdienten Essen ab und lassen Sie die abwechslungsreiche Reise Revue passieren, von mittelalterlichen Brücken und ländlichen Kapellen bis hin zu den kulturellen Schätzen im Herzen der Stadt.",
-        "hu": "A kerékpártúra a történelmi Alfarela hídnál kezdődik, és festői tájakon vezet keresztül. A délelőtt a csendes elmélkedés keveréke a Nossa Senhora do Campo kápolnában és a pihentető biciklizés a Fontelo parkban. Ez egy szelíd bevezetés a régió természeti szépségeibe. \nEbédidőre Tondela nyüzsgő központjába ér. A főtér felfedezése után merüljön el a helyi kultúrában a Terras de Besteiros Múzeumban. Ez lenyűgöző kontrasztot kínál a reggeli természeti kerékpározáshoz képest. \nA délután a város spirituális és építészeti örökségének szentelt, a túra a főtemplom meglátogatásával zárul. Az odavezető út újabb lehetőséget ad a városi hangulat magába szívására. \nZárja a napot egy jól megérdemelt étkezéssel, visszatekintve a változatos utazásra, a középkori hidaktól és vidéki kápolnáktól a város szívében rejlő kulturális kincsekig.",
-        "ro": "Turul cu bicicleta începe de la istoricul Ponte de Alfarela, purtându-vă prin peisaje pitorești. Dimineața este un amestec de contemplare liniștită la Capela de Nossa Senhora do Campo și ciclism relaxat în Parcul Fontelo. Este o introducere blândă în frumusețea naturală a regiunii. \nLa prânz, ajungeți în centrul plin de viață al Tondelei. După ce explorați piața centrală, vă scufundați în cultura locală la Muzeul Terras de Besteiros. Acesta oferă un contrast fascinant cu plimbarea matinală prin natură. \nDupă-amiaza este dedicată patrimoniului spiritual și arhitectural al orașului, cu o vizită finală la Biserica Matriz. Plimbarea până acolo vă oferă o altă ocazie de a absorbi atmosfera urbană. \nÎncheiați ziua cu o masă binemeritată, reflectând la călătoria variată, de la poduri medievale și capele rurale la comorile culturale din inima orașului.",
-        "en": "Your bike tour starts at the historic Alfarela Bridge, taking you through scenic landscapes. The morning is a mix of quiet contemplation at the Chapel of Our Lady of the Field and relaxed cycling in Fontelo Park. It's a gentle introduction to the region's natural beauty. \nBy midday, you arrive in the bustling center of Tondela. After exploring the central square, you'll dive into local culture at the Museum Terras de Besteiros. This provides a fascinating contrast to the morning's nature ride. \nThe afternoon is dedicated to the town's spiritual and architectural heritage, with a final visit to the Main Church. The ride there gives you another chance to absorb the urban atmosphere. \nConclude the day with a well-deserved meal, reflecting on the varied journey, from medieval bridges and rural chapels to the cultural treasures in the heart of the town."
+        "de": "Mit dem Fahrrad lässt sich Tondela und seine Umgebung wunderbar erkunden. Nach der Besichtigung des barocken Zentrums führt die Tour zur historischen Alfarela-Brücke. Der Rückweg führt über das Museum und elegante Herrenhäuser, bevor man im Fontelo-Park entspannen kann. Die hügelige Landschaft bietet abwechslungsreiche Ausblicke auf die Dão-Region.",
+        "hu": "Kerékpárral Tondela és környéke is könnyen felfedezhető. A barokk központ után a túra a történelmi Alfarela-hídhoz vezet. A visszaút a múzeumot és az elegáns udvarházakat érinti, mielőtt a Fontelo Parkban megpihennénk. A dombos vidék változatos kilátást nyújt a Dão borvidékre.",
+        "ro": "Cu bicicleta, Tondela și împrejurimile sale pot fi explorate minunat. După vizitarea centrului baroc, turul duce la podul istoric Alfarela. Drumul de întoarcere trece pe la muzeu și conace elegante, înainte de a vă relaxa în Parcul Fontelo. Peisajul deluros oferă vederi variate asupra regiunii Dão.",
+        "en": "Tondela and its surroundings are wonderful to explore by bike. After visiting the Baroque center, the tour leads to the historic Alfarela Bridge. The return journey passes the museum and elegant manor houses before relaxing in Fontelo Park. The hilly landscape offers varied views of the Dão region."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Vitela de Lafões",
-            "tip": "Probieren Sie dieses berühmte geröstete Kalbfleischgericht, ein regionales Markenzeichen."
-          },
-          {
-            "name": "Arroz de Carqueja",
-            "tip": "Ein einzigartiger Reis, gekocht mit Ginsterblüten, der einen besonderen Geschmack verleiht."
-          },
-          {
-            "name": "Restaurante 3 Pipos",
-            "tip": "Bekannt für seine traditionelle portugiesische Küche und sein rustikales Ambiente."
+            "name": "Cabrito Assado",
+            "tip": "Gebratenes Zicklein, perfekt nach einer Radtour."
           }
         ],
         "hu": [
           {
-            "name": "Vitela de Lafões",
-            "tip": "Kóstolja meg ezt a híres sült borjúételt, a régió védjegyét."
-          },
-          {
-            "name": "Arroz de Carqueja",
-            "tip": "Egyedi rizsétel rekettyevirággal főzve, ami különleges ízt ad neki."
-          },
-          {
-            "name": "Restaurante 3 Pipos",
-            "tip": "Hagyományos portugál konyhájáról és rusztikus hangulatáról ismert."
+            "name": "Cabrito Assado",
+            "tip": "Sült gödölye, tökéletes választás biciklizés után."
           }
         ],
         "ro": [
           {
-            "name": "Vitela de Lafões",
-            "tip": "Încercați acest faimos fel de mâncare din vițel la cuptor, o marcă a regiunii."
-          },
-          {
-            "name": "Arroz de Carqueja",
-            "tip": "Un orez unic, gătit cu flori de grozamă, care îi conferă o aromă distinctă."
-          },
-          {
-            "name": "Restaurante 3 Pipos",
-            "tip": "Cunoscut pentru bucătăria sa tradițională portugheză și ambianța rustică."
+            "name": "Cabrito Assado",
+            "tip": "Ied la cuptor, perfect după o plimbare cu bicicleta."
           }
         ],
         "en": [
           {
-            "name": "Vitela de Lafões",
-            "tip": "Try this famous roasted veal dish, a regional hallmark."
-          },
-          {
-            "name": "Arroz de Carqueja",
-            "tip": "A unique rice cooked with broom flowers, giving it a distinctive flavor."
-          },
-          {
-            "name": "Restaurante 3 Pipos",
-            "tip": "Known for its traditional Portuguese cuisine and rustic ambiance."
+            "name": "Cabrito Assado",
+            "tip": "Roasted kid, perfect after a bike ride."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Ufer des Flusses Dão",
-            "tip": "Eine Radtour entlang des Flusses bietet viele ruhige Momente.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Capela de Nossa Senhora do Campo",
-            "tip": "Die friedliche Umgebung der Kapelle ist perfekt für eine Pause.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Parque de Lazer do Fontelo",
-            "tip": "Abseits der Hauptwege finden Sie ruhige Plätze.",
-            "emoji": "🍃"
+            "name": "Ponte de Alfarela",
+            "tip": "Ruhiger Ort am Fluss.",
+            "emoji": "🌉"
           }
         ],
         "hu": [
           {
-            "name": "Dão folyó partja",
-            "tip": "A folyó menti kerékpározás számos csendes pillanatot kínál.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Nossa Senhora do Campo kápolna",
-            "tip": "A kápolna békés környezete tökéletes egy szünetre.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Fontelo Szabadidőpark",
-            "tip": "A fő utaktól távolabb csendes helyeket talál.",
-            "emoji": "🍃"
+            "name": "Ponte de Alfarela",
+            "tip": "Csendes folyóparti hely.",
+            "emoji": "🌉"
           }
         ],
         "ro": [
           {
-            "name": "Malurile râului Dão",
-            "tip": "O plimbare cu bicicleta de-a lungul râului oferă multe momente de liniște.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Capela Nossa Senhora do Campo",
-            "tip": "Împrejurimile pașnice ale capelei sunt perfecte pentru o pauză.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Parcul de Agrement Fontelo",
-            "tip": "Veți găsi locuri liniștite departe de căile principale.",
-            "emoji": "🍃"
+            "name": "Ponte de Alfarela",
+            "tip": "Loc liniștit lângă râu.",
+            "emoji": "🌉"
           }
         ],
         "en": [
           {
-            "name": "Banks of the Dão River",
-            "tip": "A bike ride along the river offers many quiet moments.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Chapel of Our Lady of the Field",
-            "tip": "The peaceful surroundings of the chapel are perfect for a break.",
-            "emoji": "🧘"
-          },
-          {
-            "name": "Fontelo Leisure Park",
-            "tip": "You'll find quiet spots away from the main paths.",
-            "emoji": "🍃"
+            "name": "Ponte de Alfarela",
+            "tip": "Quiet spot by the river.",
+            "emoji": "🌉"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Wochenmarkt",
-            "tip": "Besuchen Sie den lokalen Markt für frische Produkte, Käse und traditionelles Kunsthandwerk."
-          },
-          {
-            "name": "Schwarzkeramik",
-            "tip": "Halten Sie Ausschau nach der berühmten schwarzen Keramik aus dem nahegelegenen Dorf Molelos."
+            "name": "Dão-Weine",
+            "tip": "Besuchen Sie eine lokale Quinta."
           }
         ],
         "hu": [
           {
-            "name": "Heti piac",
-            "tip": "Látogasson el a helyi piacra friss termékekért, sajtokért és hagyományos kézműves termékekért."
-          },
-          {
-            "name": "Fekete kerámia",
-            "tip": "Keresse a közeli Molelos faluból származó híres fekete kerámiát."
+            "name": "Dão borok",
+            "tip": "Látogasson el egy helyi borászatba (Quinta)."
           }
         ],
         "ro": [
           {
-            "name": "Piața săptămânală",
-            "tip": "Vizitați piața locală pentru produse proaspete, brânzeturi și meșteșuguri tradiționale."
-          },
-          {
-            "name": "Ceramică neagră",
-            "tip": "Căutați faimoasa ceramică neagră din satul din apropiere, Molelos."
+            "name": "Vinuri de Dão",
+            "tip": "Vizitați o Quinta locală."
           }
         ],
         "en": [
           {
-            "name": "Weekly Market",
-            "tip": "Visit the local market for fresh produce, cheeses, and traditional handicrafts."
-          },
-          {
-            "name": "Black Pottery",
-            "tip": "Look out for the famous black pottery from the nearby village of Molelos."
+            "name": "Dão wines",
+            "tip": "Visit a local Quinta."
           }
         ]
       },
       "tips": {
         "de": [
-          "Prüfen Sie Ihr Fahrrad vor der Abfahrt, insbesondere die Bremsen und Reifen.",
-          "Tondela hat einige Hügel, seien Sie also auf Steigungen vorbereitet.",
-          "Nutzen Sie die Radwege, wo sie verfügbar sind, insbesondere entlang des Flusses.",
-          "Ein Helm wird für die Sicherheit dringend empfohlen."
+          "Die Ecopista do Dão ist in der Nähe und sehr zu empfehlen.",
+          "Achten Sie auf die sommerliche Hitze."
         ],
         "hu": [
-          "Indulás előtt ellenőrizze a kerékpárt, különösen a fékeket és a gumikat.",
-          "Tondelában vannak dombok, ezért készüljön fel az emelkedőkre.",
-          "Használja a kerékpárutakat, ahol elérhetők, különösen a folyó mentén.",
-          "A biztonság érdekében a sisak használata erősen ajánlott."
+          "Az Ecopista do Dão kerékpárút a közelben van, erősen ajánlott.",
+          "Ügyeljen a nyári hőségre."
         ],
         "ro": [
-          "Verificați-vă bicicleta înainte de a porni, în special frânele și anvelopele.",
-          "Tondela are câteva dealuri, așa că fiți pregătiți pentru urcări.",
-          "Folosiți pistele de biciclete acolo unde sunt disponibile, mai ales de-a lungul râului.",
-          "O cască este puternic recomandată pentru siguranță."
+          "Ecopista do Dão este în apropiere și este foarte recomandată.",
+          "Aveți grijă la căldura verii."
         ],
         "en": [
-          "Check your bike before you leave, especially the brakes and tires.",
-          "Tondela has some hills, so be prepared for some climbs.",
-          "Use bike paths where available, especially along the river.",
-          "A helmet is strongly recommended for safety."
+          "The Ecopista do Dão is nearby and highly recommended.",
+          "Watch out for the summer heat."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Radfahrt zur Brücke durch den Morgennebel. Mittag: Kurze Pause an der Kirche, um die Regenjacke auszuschütteln. Nachmittag: Das Fahrrad sicher am Museum abstellen und die Kultur im Trockenen genießen. Abend: Eine nasse Fahrt zurück durch den Park, Vorsicht in den Kurven bei rutschigem Laub.",
+            "hu": "Reggel: Kerékpározás a hídhoz a reggeli ködben. Délben: Rövid pihenő a templomnál, esőkabát rázás. Délután: Biztonságos bicikli parkolás a múzeumnál, kultúra szárazon. Este: Nedves gurulás vissza a parkon át, óvatosan a kanyarokban a csúszós levelek miatt.",
+            "ro": "Dimineața: Pedalare spre pod prin ceața dimineții. Prânz: Scurtă pauză la biserică pentru a scutura pelerina. După-amiaza: Parcați bicicleta la muzeu și vizitați expozițiile. Seara: Drum ud înapoi prin parc, atenție la frunzele alunecoase.",
+            "en": "Morning: Cycling to the bridge through the morning mist. Noon: Short break at the church to shake off the raincoat. Afternoon: Park the bike securely at the museum and enjoy culture in the dry. Evening: A wet ride back through the park, be careful on curves with slippery leaves."
+          },
+          "stops": [
+            {
+              "name": "Ponte sobre o Rio Dinha",
+              "tip_5lang": {
+                "de": "Vorsicht, Metallteile glatt.",
+                "hu": "Vigyázat, a fém részek csúsznak.",
+                "ro": "Atenție, părțile metalice sunt lucioase.",
+                "en": "Caution, metal parts are slippery."
+              }
+            },
+            {
+              "name": "Igreja de Santa Maria",
+              "tip_5lang": {
+                "de": "Überdachter Eingang für Pause.",
+                "hu": "Fedett bejárat pihenőhöz.",
+                "ro": "Intrare acoperită pentru pauză.",
+                "en": "Covered entrance for a break."
+              }
+            },
+            {
+              "name": "Parque Urbano",
+              "tip_5lang": {
+                "de": "Pfützen auf den Radwegen.",
+                "hu": "Tócsák a kerékpárúton.",
+                "ro": "Bălți pe pistele de biciclete.",
+                "en": "Puddles on the bike paths."
+              }
+            },
+            {
+              "name": "Fonte da Sereia",
+              "tip_5lang": {
+                "de": "Vorsicht beim Auf- und Absteigen.",
+                "hu": "Vigyázat a fel- és leszálláskor.",
+                "ro": "Atenție la urcare și coborâre.",
+                "en": "Caution when mounting/dismounting."
+              }
+            },
+            {
+              "name": "Museu Terras de Besteiros",
+              "tip_5lang": {
+                "de": "Fahrradständer im Innenhof.",
+                "hu": "Biciklitároló a belső udvarban.",
+                "ro": "Suport biciclete în curte.",
+                "en": "Bike racks in the courtyard."
+              }
+            },
+            {
+              "name": "Igreja Matriz",
+              "tip_5lang": {
+                "de": "Letzter Halt vor dem Heimweg.",
+                "hu": "Utolsó megálló hazafelé.",
+                "ro": "Ultima oprire înainte de casă.",
+                "en": "Last stop before heading home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind ein Muss.",
+              "Vermeiden Sie weiß markierte Linien.",
+              "Bremsweg verlängert sich bei Nässe.",
+              "Wasserdichte Packtaschen nutzen."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen.",
+              "Kerülje a fehér felfestéseket.",
+              "A fékút megnő vizes úton.",
+              "Használjon vízálló táskákat."
+            ],
+            "ro": [
+              "Apărătorile sunt obligatorii.",
+              "Evitați liniile albe marcate.",
+              "Distanța de frânare crește pe ud.",
+              "Folosiți genți impermeabile."
+            ],
+            "en": [
+              "Mudguards are a must.",
+              "Avoid riding on white road markings.",
+              "Braking distance increases on wet roads.",
+              "Use waterproof panniers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Knackige Kälte bei der Fahrt über den Rio Dinha. Mittag: Sonnige Abschnitte an der Igreja de Santa Maria nutzen. Nachmittag: Der Stadtpark wirkt im Winterlicht karg, aber friedlich. Aufwärmpause im Museum ist obligatorisch. Abend: Vor Einbruch der Dunkelheit und der Kälte die Tour am zentralen Platz beenden.",
+            "hu": "Reggel: Frissítő hideg a Rio Dinha feletti guruláskor. Délben: Használja ki a napos időt a Santa Maria templomnál. Délután: A városi park kopár, de békés téli fényben. A múzeumi melegedő kötelező. Este: Fejezze be a túrát a főtéren, mielőtt leszáll a sötét és a fagy.",
+            "ro": "Dimineața: Frig pătrunzător la trecerea peste Rio Dinha. Prânz: Profitați de soare la Biserica Santa Maria. După-amiaza: Parcul urban e liniștit în lumina iernii. Pauza la muzeu e obligatorie. Seara: Încheiați turul în piață înainte de lăsarea gerului.",
+            "en": "Morning: Crisp cold while riding over the Rio Dinha. Noon: Take advantage of sunny spells at Santa Maria Church. Afternoon: The urban park is bare but peaceful in winter light. A museum warm-up break is mandatory. Evening: Finish the tour in the square before darkness and frost set in."
+          },
+          "stops": [
+            {
+              "name": "Ponte sobre o Rio Dinha",
+              "tip_5lang": {
+                "de": "Eiswind auf der Brücke.",
+                "hu": "Jeges szél a hídon.",
+                "ro": "Vânt înghețat pe pod.",
+                "en": "Icy wind on the bridge."
+              }
+            },
+            {
+              "name": "Igreja de Santa Maria",
+              "tip_5lang": {
+                "de": "Sonniger Platz für kurzes Gebet.",
+                "hu": "Napsütötte hely rövid imához.",
+                "ro": "Loc însorit pentru rugăciune.",
+                "en": "Sunny spot for a quick prayer."
+              }
+            },
+            {
+              "name": "Parque Urbano",
+              "tip_5lang": {
+                "de": "Tiefstehende Wintersonne blendet.",
+                "hu": "Alacsony téli nap elvakíthat.",
+                "ro": "Soarele de iarnă poate orbi.",
+                "en": "Low winter sun can be blinding."
+              }
+            },
+            {
+              "name": "Fonte da Sereia",
+              "tip_5lang": {
+                "de": "Handschuhe nicht vergessen.",
+                "hu": "Ne felejtse el a kesztyűt.",
+                "ro": "Nu uitați mănușile.",
+                "en": "Don't forget your gloves."
+              }
+            },
+            {
+              "name": "Museu Terras de Besteiros",
+              "tip_5lang": {
+                "de": "Lange Pause zum Aufwärmen.",
+                "hu": "Hosszú szünet a melegedéshez.",
+                "ro": "Pauză lungă pentru încălzire.",
+                "en": "Long break to warm up."
+              }
+            },
+            {
+              "name": "Igreja Matriz",
+              "tip_5lang": {
+                "de": "Zentraler Ort zum Abschluss.",
+                "hu": "Központi helyszín a záráshoz.",
+                "ro": "Loc central pentru final.",
+                "en": "Central location for the finish."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Kleidung tragen.",
+              "Reifendruck leicht senken.",
+              "Licht frühzeitig einschalten.",
+              "Thermose mit Tee mitnehmen."
+            ],
+            "hu": [
+              "Viseljen szélálló ruhát.",
+              "Csökkentse kicsit a guminyomást.",
+              "Kapcsolja be korán a lámpákat.",
+              "Vigyen termoszban teát."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt.",
+              "Reduceți puțin presiunea pneurilor.",
+              "Aprindeți luminile devreme.",
+              "Luați un termos cu ceai."
+            ],
+            "en": [
+              "Wear windproof clothing.",
+              "Lower tire pressure slightly.",
+              "Turn on lights early.",
+              "Bring a thermos with tea."
+            ]
+          }
+        }
       }
     },
     "car": {
       "mode": "car",
       "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "17:50",
-      "total_km": 11.8,
-      "stop_count": 7,
+      "end_estimate": "15:45",
+      "total_km": 12.5,
+      "stop_count": 6,
       "stops": [
         {
-          "name_4lang": {
-            "de": "Ponte de Alfarela",
-            "hu": "Alfarela híd",
-            "ro": "Ponte de Alfarela",
-            "en": "Alfarela Bridge"
+          "name": {
+            "de": "Igreja Matriz de Tondela (Zentrum Cluster)",
+            "hu": "Tondela főtemploma (Belvárosi klaszter)",
+            "ro": "Igreja Matriz de Tondela (Cluster Centru)",
+            "en": "Main Church of Tondela (Center Cluster)"
           },
           "coords": [
-            -8.095,
-            40.51
-          ],
-          "category": "bridges/lighthouses",
-          "arrive_at": "09:10",
-          "stay_min": 25,
-          "hop_mode": "car",
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0,
-          "tip_5lang": {
-            "de": "Parken Sie in der Nähe und gehen Sie zur Brücke, um die mittelalterliche Architektur zu bewundern.",
-            "hu": "Parkoljon a közelben, és sétáljon a hídhoz, hogy megcsodálja a középkori építészetet.",
-            "ro": "Parcați în apropiere și mergeți pe jos până la pod pentru a admira arhitectura medievală.",
-            "en": "Park nearby and walk to the bridge to admire the medieval architecture."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Capela de Nossa Senhora do Campo",
-            "hu": "Nossa Senhora do Campo kápolna",
-            "ro": "Capela Nossa Senhora do Campo",
-            "en": "Chapel of Our Lady of the Field"
-          },
-          "coords": [
-            -8.089,
-            40.513
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "09:47",
-          "stay_min": 30,
-          "hop_mode": "car",
-          "hop_from_prev_min": 12,
-          "hop_from_prev_km": 2.5,
-          "tip_5lang": {
-            "de": "Eine kurze Fahrt zu dieser ruhigen Kapelle. Ideal für einen Moment der Besinnung.",
-            "hu": "Rövid autóút ehhez a békés kápolnához. Ideális egy pillanatnyi elmélyüléshez.",
-            "ro": "O scurtă călătorie cu mașina până la această capelă liniștită. Ideal pentru un moment de reflecție.",
-            "en": "A short drive to this peaceful chapel. Ideal for a moment of reflection."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Cluster Zentrum: Parken",
-            "hu": "Központi Klaszter: Parkolás",
-            "ro": "Cluster Centru: Parcare",
-            "en": "Center Cluster: Parking"
-          },
-          "coords": [
-            -8.085,
-            40.516
-          ],
-          "category": "transport",
-          "arrive_at": "10:35",
-          "stay_min": 0,
-          "hop_mode": "car",
-          "hop_from_prev_min": 18,
-          "hop_from_prev_km": 8.0,
-          "tip_5lang": {
-            "de": "Parken Sie Ihr Auto im Zentrum und erkunden Sie die nächsten Ziele zu Fuß.",
-            "hu": "Parkolja le az autót a központban, és fedezze fel a következő helyszíneket gyalog.",
-            "ro": "Parcați mașina în centru și explorați următoarele destinații pe jos.",
-            "en": "Park your car in the center and explore the next few destinations on foot."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Pelourinho und Fonte da Sereia",
-            "hu": "Pellengér és Szirén-kút",
-            "ro": "Pelourinho și Fântâna Sirenei",
-            "en": "Pelourinho and Fountain of the Mermaid"
-          },
-          "coords": [
-            -8.0831,
-            40.5165
-          ],
-          "category": "monuments/statues",
-          "arrive_at": "10:43",
-          "stay_min": 30,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 8,
-          "hop_from_prev_km": 0.4,
-          "tip_5lang": {
-            "de": "Diese beiden Wahrzeichen liegen nahe beieinander und bilden das historische Herzstück.",
-            "hu": "Ez a két nevezetesség közel van egymáshoz, és a történelmi központot alkotják.",
-            "ro": "Aceste două repere sunt apropiate și formează inima istorică.",
-            "en": "These two landmarks are close together and form the historic heart."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Igreja Matriz de Tondela",
-            "hu": "Tondelai főtemplom",
-            "ro": "Biserica Matriz din Tondela",
-            "en": "Main Church of Tondela"
-          },
-          "coords": [
-            -8.0819,
+            -8.0825,
             40.5175
           ],
-          "category": "churches/cathedrals",
-          "arrive_at": "11:21",
+          "category": "churches",
+          "arrive_at": "09:10",
           "stay_min": 40,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 8,
-          "hop_from_prev_km": 0.4,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Ein kurzer Spaziergang vom Platz führt Sie zu dieser beeindruckenden Kirche.",
-            "hu": "Egy rövid séta a térről elvezeti ehhez a lenyűgöző templomhoz.",
-            "ro": "O scurtă plimbare din piață vă duce la această biserică impresionantă.",
-            "en": "A short walk from the square takes you to this impressive church."
+            "de": "Parken Sie im Zentrum für den ersten Cluster.",
+            "hu": "Parkoljon a központban az első klaszterhez.",
+            "ro": "Parcați în centru pentru primul cluster.",
+            "en": "Park in the center for the first cluster."
           }
         },
         {
-          "name_4lang": {
-            "de": "Museum Terras de Besteiros",
-            "hu": "Terras de Besteiros Múzeum",
-            "ro": "Muzeul Terras de Besteiros",
-            "en": "Museum Terras de Besteiros"
+          "name": {
+            "de": "Fonte da Sereia",
+            "hu": "Szirén-kút",
+            "ro": "Fonte da Sereia",
+            "en": "Siren Fountain"
+          },
+          "coords": [
+            -8.0835,
+            40.5165
+          ],
+          "category": "monuments",
+          "arrive_at": "09:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos de la parcare.",
+            "en": "Accessible on foot from the parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Terras de Besteiros (Museum Cluster)",
+            "hu": "Besteiros Múzeum (Múzeumi klaszter)",
+            "ro": "Museu Terras de Besteiros (Cluster Muzeu)",
+            "en": "Terras de Besteiros Museum (Museum Cluster)"
           },
           "coords": [
             -8.084,
-            40.518
+            40.515
           ],
           "category": "museums",
-          "arrive_at": "12:09",
-          "stay_min": 120,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 8,
-          "hop_from_prev_km": 0.5,
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "car",
           "tip_5lang": {
-            "de": "Tauchen Sie nach dem Mittagessen in die lokale Geschichte und Kultur ein.",
-            "hu": "Ebéd után merüljön el a helyi történelemben és kultúrában.",
-            "ro": "După prânz, scufundați-vă în istoria și cultura locală.",
-            "en": "Immerse yourself in local history and culture after lunch."
+            "de": "Kurze Fahrt zum nächsten Cluster.",
+            "hu": "Rövid autóút a következő klaszterhez.",
+            "ro": "Scurtă călătorie cu mașina până la următorul cluster.",
+            "en": "Short drive to the next cluster."
           }
         },
         {
-          "name_4lang": {
-            "de": "Freizeitpark Fontelo",
-            "hu": "Fontelo Szabadidőpark",
-            "ro": "Parcul de Agrement Fontelo",
+          "name": {
+            "de": "Solar do Casal de Santo António",
+            "hu": "Szent Antal nemesi udvarház",
+            "ro": "Solar do Casal de Santo António",
+            "en": "Solar do Casal de Santo Antonio"
+          },
+          "coords": [
+            -8.081,
+            40.5185
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Spaziergang in der Nähe des Museums.",
+            "hu": "Séta a múzeum közelében.",
+            "ro": "Plimbare în apropierea muzeului.",
+            "en": "Walk near the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte de Alfarela (Außenbezirk)",
+            "hu": "Alfarela-híd (Külváros)",
+            "ro": "Ponte de Alfarela (Periferie)",
+            "en": "Alfarela Bridge (Outskirts)"
+          },
+          "coords": [
+            -8.1,
+            40.53
+          ],
+          "category": "bridges",
+          "arrive_at": "13:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Schöner Fotostopp außerhalb.",
+            "hu": "Szép fotómegálló a városon kívül.",
+            "ro": "O oprire frumoasă pentru fotografii în afara orașului.",
+            "en": "Nice photo stop outside the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de Lazer do Fontelo",
+            "hu": "Fontelo szabadidőpark",
+            "ro": "Parque de Lazer do Fontelo",
             "en": "Fontelo Leisure Park"
           },
           "coords": [
             -8.088,
-            40.519
+            40.512
           ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "14:49",
-          "stay_min": 90,
+          "category": "parks",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
           "hop_mode": "car",
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Fahren Sie zum Park für einen entspannten Nachmittag in der Natur.",
-            "hu": "Vezessen el a parkba egy pihentető délutáni kikapcsolódásra a természetben.",
-            "ro": "Conduceți până la parc pentru o după-amiază relaxantă în natură.",
-            "en": "Drive to the park for a relaxing afternoon surrounded by nature."
+            "de": "Entspannung vor der Abfahrt.",
+            "hu": "Pihenés az indulás előtt.",
+            "ro": "Relaxare înainte de plecare.",
+            "en": "Relaxation before departure."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Ihr Autotag beginnt mit der Erkundung der ländlichen Perlen von Tondela. Sie fahren zur mittelalterlichen Ponte de Alfarela und zur ruhigen Capela de Nossa Senhora do Campo, die die friedliche Landschaft der Region zeigen. \nAm Vormittag fahren Sie ins Zentrum von Tondela. Parken Sie Ihr Auto und verwandeln Sie sich in einen Fußgänger, um den zentralen Cluster zu erkunden: den historischen Pelourinho, den charmanten Brunnen und die imposante Hauptkirche. Mittags genießen Sie die lokale Küche, bevor Sie das Museum Terras de Besteiros besuchen. \nNachdem Sie die kulturellen und historischen Höhepunkte zu Fuß erkundet haben, kehren Sie zu Ihrem Auto zurück. Der Nachmittag ist für Entspannung im Fontelo-Freizeitpark reserviert, eine kurze Fahrt entfernt, wo Sie sich in der Natur erholen können. \nDer Tag endet mit der Flexibilität, die ein Auto bietet: vielleicht ein Abstecher zu einem Aussichtspunkt in der Serra do Caramulo bei Sonnenuntergang oder ein gemütliches Abendessen in einem empfohlenen Restaurant, bevor Sie Ihre Reise fortsetzen.",
-        "hu": "Autós napja Tondela vidéki gyöngyszemeinek felfedezésével kezdődik. Először a középkori Alfarela hídhoz, majd a csendes Nossa Senhora do Campo kápolnához vezet az út, bemutatva a régió békés táját. \nDélelőtt Tondela központjába hajt. Parkolja le az autót, és váljon gyalogossá, hogy felfedezze a központi klasztert: a történelmi pellengért, a bájos kutat és a lenyűgöző főtemplomot. Délben élvezze a helyi konyhát, mielőtt meglátogatja a Terras de Besteiros Múzeumot. \nMiután gyalog felfedezte a kulturális és történelmi látnivalókat, térjen vissza az autójához. A délután a pihenésé a Fontelo Szabadidőparkban, egy rövid autóútra, ahol a természetben töltődhet fel. \nA nap az autó adta rugalmassággal zárul: talán egy kitérő egy naplementés kilátóponthoz a Serra do Caramulo-hegységben, vagy egy kellemes vacsora egy ajánlott étteremben, mielőtt folytatná útját.",
-        "ro": "Ziua cu mașina începe explorând bijuteriile rurale ale Tondelei. Vă îndreptați spre medievalul Ponte de Alfarela și spre liniștita Capela de Nossa Senhora do Campo, prezentând peisajul pașnic al regiunii. \nLa mijlocul dimineții, conduceți spre centrul Tondelei. Parcați mașina și transformați-vă într-un pieton pentru a explora clusterul central: istoricul Pelourinho, fântâna fermecătoare și impunătoarea Biserică Matriz. La prânz, savurați bucătăria locală înainte de a vizita Muzeul Terras de Besteiros. \nDupă ce ați absorbit punctele de atracție culturale și istorice pe jos, vă întoarceți la mașină. După-amiaza este rezervată relaxării în Parcul de Agrement Fontelo, la o scurtă distanță cu mașina, unde vă puteți reîncărca în natură. \nZiua se încheie cu flexibilitatea pe care o oferă o mașină: poate o ocolire la un punct de belvedere din Serra do Caramulo la apus, sau o cină relaxantă la un restaurant recomandat înainte de a vă continua călătoria.",
-        "en": "Your car day begins by exploring Tondela's rural gems. You drive to the medieval Alfarela Bridge and the tranquil Chapel of Our Lady of the Field, showcasing the region's peaceful countryside. \nBy mid-morning, you drive to the center of Tondela. Park your car and transform into a pedestrian to explore the central cluster: the historic Pelourinho, the charming fountain, and the imposing Main Church. At midday, enjoy local cuisine before visiting the Museum Terras de Besteiros. \nAfter absorbing the cultural and historical highlights on foot, you return to your car. The afternoon is reserved for relaxation at the Fontelo Leisure Park, a short drive away, where you can recharge in nature. \nThe day concludes with the flexibility a car offers: perhaps a detour to a viewpoint in the Serra do Caramulo at sunset, or a leisurely dinner at a recommended restaurant before continuing your journey."
+        "de": "Das Auto ermöglicht es, die Highlights von Tondela in Clustern effizient zu verbinden. Der Vormittag gehört dem barocken Zentrum zu Fuß, gefolgt von einer kurzen Fahrt zum Kulturcluster rund um das Museum und die Solar-Anwesen. Ein Abstecher zur malerischen Alfarela-Brücke zeigt die Schönheit der nahen Umgebung, bevor der Fontelo-Park den entspannten Abschluss bildet.",
+        "hu": "Az autó lehetővé teszi Tondela látnivalóinak klaszterekbe szedett, hatékony felfedezését. A délelőtt a barokk központé gyalogosan, majd rövid autóút következik a múzeum és a nemesi udvarházak köré épülő kulturális negyedbe. Egy kitérő a festői Alfarela-hídhoz megmutatja a környék szépségét, mielőtt a Fontelo Parkban zárnánk a napot.",
+        "ro": "Mașina permite conectarea eficientă a punctelor de atracție din Tondela în clustere. Dimineața aparține centrului baroc explorat la pas, urmată de o scurtă călătorie către clusterul cultural din jurul muzeului și conacelor. O excursie la podul pitoresc Alfarela arată frumusețea împrejurimilor, înainte ca Parcul Fontelo să ofere un final relaxant.",
+        "en": "The car allows you to efficiently connect Tondela's highlights in clusters. The morning belongs to the Baroque center on foot, followed by a short drive to the cultural cluster around the museum and manor houses. A detour to the picturesque Alfarela Bridge shows the beauty of the nearby surroundings before Fontelo Park provides a relaxed conclusion."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Vitela de Lafões",
-            "tip": "Probieren Sie dieses berühmte geröstete Kalbfleischgericht, ein regionales Markenzeichen."
-          },
-          {
-            "name": "Arroz de Carqueja",
-            "tip": "Ein einzigartiger Reis, gekocht mit Ginsterblüten, der einen besonderen Geschmack verleiht."
-          },
-          {
-            "name": "Restaurante 3 Pipos",
-            "tip": "Bekannt für seine traditionelle portugiesische Küche und sein rustikales Ambiente."
+            "name": "Arroz de Cabidela",
+            "tip": "Traditionelles Reisgericht, sehr herzhaft."
           }
         ],
         "hu": [
           {
-            "name": "Vitela de Lafões",
-            "tip": "Kóstolja meg ezt a híres sült borjúételt, a régió védjegyét."
-          },
-          {
-            "name": "Arroz de Carqueja",
-            "tip": "Egyedi rizsétel rekettyevirággal főzve, ami különleges ízt ad neki."
-          },
-          {
-            "name": "Restaurante 3 Pipos",
-            "tip": "Hagyományos portugál konyhájáról és rusztikus hangulatáról ismert."
+            "name": "Arroz de Cabidela",
+            "tip": "Hagyományos, ízletes rizses húsétel."
           }
         ],
         "ro": [
           {
-            "name": "Vitela de Lafões",
-            "tip": "Încercați acest faimos fel de mâncare din vițel la cuptor, o marcă a regiunii."
-          },
-          {
-            "name": "Arroz de Carqueja",
-            "tip": "Un orez unic, gătit cu flori de grozamă, care îi conferă o aromă distinctă."
-          },
-          {
-            "name": "Restaurante 3 Pipos",
-            "tip": "Cunoscut pentru bucătăria sa tradițională portugheză și ambianța rustică."
+            "name": "Arroz de Cabidela",
+            "tip": "Mâncare tradițională de orez, foarte consistentă."
           }
         ],
         "en": [
           {
-            "name": "Vitela de Lafões",
-            "tip": "Try this famous roasted veal dish, a regional hallmark."
-          },
-          {
-            "name": "Arroz de Carqueja",
-            "tip": "A unique rice cooked with broom flowers, giving it a distinctive flavor."
-          },
-          {
-            "name": "Restaurante 3 Pipos",
-            "tip": "Known for its traditional Portuguese cuisine and rustic ambiance."
+            "name": "Arroz de Cabidela",
+            "tip": "Traditional rice dish, very savory."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Serra do Caramulo",
-            "tip": "Fahren Sie in die Berge für atemberaubende Ausblicke und Ruhe.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Ufer des Flusses Dão",
-            "tip": "Finden Sie einen abgelegenen Ort am Fluss zum Entspannen.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Capela de Nossa Senhora do Campo",
-            "tip": "Die Kapelle und ihre Umgebung bieten eine friedliche Zuflucht.",
-            "emoji": "🧘"
+            "name": "Capela de N. Sra. do Campo",
+            "tip": "Friedliche Kapelle im Grünen.",
+            "emoji": "⛪"
           }
         ],
         "hu": [
           {
-            "name": "Serra do Caramulo",
-            "tip": "Vezessen fel a hegyekbe a lélegzetelállító kilátásért és a csendért.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Dão folyó partja",
-            "tip": "Keressen egy félreeső helyet a folyóparton a pihenéshez.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Nossa Senhora do Campo kápolna",
-            "tip": "A kápolna és környéke békés menedéket nyújt.",
-            "emoji": "🧘"
+            "name": "Mezei Miasszonyunk kápolna",
+            "tip": "Békés kápolna a zöldben.",
+            "emoji": "⛪"
           }
         ],
         "ro": [
           {
-            "name": "Serra do Caramulo",
-            "tip": "Conduceți în munți pentru priveliști uluitoare și liniște.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Malurile râului Dão",
-            "tip": "Găsiți un loc retras pe malul râului pentru a vă relaxa.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Capela Nossa Senhora do Campo",
-            "tip": "Capela și împrejurimile sale oferă un refugiu pașnic.",
-            "emoji": "🧘"
+            "name": "Capela de N. Sra. do Campo",
+            "tip": "Capelă liniștită în mijlocul naturii.",
+            "emoji": "⛪"
           }
         ],
         "en": [
           {
-            "name": "Serra do Caramulo",
-            "tip": "Drive up to the mountains for breathtaking views and tranquility.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Banks of the Dão River",
-            "tip": "Find a secluded spot by the river to relax.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Chapel of Our Lady of the Field",
-            "tip": "The chapel and its surroundings offer a peaceful retreat.",
-            "emoji": "🧘"
+            "name": "Capela de N. Sra. do Campo",
+            "tip": "Peaceful chapel in the greenery.",
+            "emoji": "⛪"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Molelos",
-            "tip": "Fahren Sie in das nahegelegene Dorf Molelos, das für seine einzigartige schwarze Keramik berühmt ist."
-          },
-          {
-            "name": "Lokale Weingüter",
-            "tip": "Erkunden Sie die Weinregion Dão und kaufen Sie Wein direkt vom Erzeuger."
+            "name": "Regionale Olivenöle",
+            "tip": "Direkt vom Erzeuger in der Region."
           }
         ],
         "hu": [
           {
-            "name": "Molelos",
-            "tip": "Látogasson el a közeli Molelos faluba, amely egyedi fekete kerámiájáról híres."
-          },
-          {
-            "name": "Helyi borászatok",
-            "tip": "Fedezze fel a Dão borrégiót, és vásároljon bort közvetlenül a termelőtől."
+            "name": "Regionális olívaolajok",
+            "tip": "Közvetlenül a környékbeli termelőktől."
           }
         ],
         "ro": [
           {
-            "name": "Molelos",
-            "tip": "Conduceți până în satul din apropiere, Molelos, renumit pentru ceramica sa neagră unică."
-          },
-          {
-            "name": "Crame locale",
-            "tip": "Explorați regiunea viticolă Dão și cumpărați vin direct de la producător."
+            "name": "Uleiuri de măsline regionale",
+            "tip": "Direct de la producători din regiune."
           }
         ],
         "en": [
           {
-            "name": "Molelos",
-            "tip": "Drive to the nearby village of Molelos, famous for its unique black pottery."
-          },
-          {
-            "name": "Local Wineries",
-            "tip": "Explore the Dão wine region and buy wine directly from the producer."
+            "name": "Regional olive oils",
+            "tip": "Directly from producers in the region."
           }
         ]
       },
       "tips": {
         "de": [
-          "Das Parken im Stadtzentrum kann begrenzt sein; suchen Sie nach ausgewiesenen Parkplätzen.",
-          "Ein Auto ermöglicht es Ihnen, die umliegende Region, einschließlich der Serra do Caramulo, leicht zu erkunden.",
-          "Beachten Sie die Geschwindigkeitsbegrenzungen, insbesondere in kleinen Dörfern.",
-          "Ein GPS ist nützlich, um auf den Landstraßen zu navigieren."
+          "Es gibt ausreichend Parkplätze in der Nähe der Hauptsehenswürdigkeiten.",
+          "Die Straßen in der Umgebung sind kurvig, fahren Sie vorsichtig."
         ],
         "hu": [
-          "A parkolás a városközpontban korlátozott lehet; keressen kijelölt parkolóhelyeket.",
-          "Az autó lehetővé teszi a környező régió, beleértve a Serra do Caramulo felfedezését is.",
-          "Tartsa be a sebességkorlátozásokat, különösen a kis falvakban.",
-          "A GPS hasznos a vidéki utakon való navigáláshoz."
+          "A főbb látnivalók közelében bőséges a parkolóhely.",
+          "A környékbeli utak kanyargósak, vezessen óvatosan."
         ],
         "ro": [
-          "Parcarea în centrul orașului poate fi limitată; căutați parcări desemnate.",
-          "O mașină vă permite să explorați cu ușurință regiunea înconjurătoare, inclusiv Serra do Caramulo.",
-          "Respectați limitele de viteză, în special în satele mici.",
-          "Un GPS este util pentru a naviga pe drumurile rurale."
+          "Există locuri de parcare suficiente în apropierea principalelor atracții.",
+          "Drumurile din zonă sunt virajate, conduceți cu atenție."
         ],
         "en": [
-          "Parking in the town center can be limited; look for designated car parks.",
-          "A car allows you to easily explore the surrounding region, including the Serra do Caramulo.",
-          "Be mindful of speed limits, especially in small villages.",
-          "A GPS is useful for navigating the country roads."
+          "There are plenty of parking spaces near the main attractions.",
+          "The surrounding roads are winding, drive carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Eine Fahrt zum Flussufer bei stürmischem Wetter. Mittag: Bequemes Parken nahe der Kirchen im Stadtzentrum. Nachmittag: Das Auto bleibt im Regen stehen, während Sie zwei Stunden in die Geschichte Besteiros eintauchen. Abend: Eine Fahrt durch die beleuchteten, nassen Gassen zum Abschluss.",
+            "hu": "Reggel: Autózás a folyópartra viharos időben. Délben: Kényelmes parkolás a belvárosi templomok közelében. Délután: Az autó az esőben pihen, amíg Ön két órát tölt a Besteiros történetével. Este: Gurulás a kivilágított, vizes utcákon a nap végén.",
+            "ro": "Dimineața: O plimbare cu mașina spre râu pe vreme furtunoasă. Prânz: Parcare facilă lângă bisericile din centru. După-amiaza: Mașina rămâne în ploaie în timp ce vizitați muzeul timp de două ore. Seara: O plimbare prin străzile luminate și ude.",
+            "en": "Morning: A drive to the riverbank in stormy weather. Noon: Easy parking near the churches in the city center. Afternoon: The car stays in the rain while you spend two hours diving into Besteiros history. Evening: A drive through the illuminated, wet streets to finish the day."
+          },
+          "stops": [
+            {
+              "name": "Ponte sobre o Rio Dinha",
+              "tip_5lang": {
+                "de": "Gischt am Flussufer.",
+                "hu": "Permet a folyóparton.",
+                "ro": "Stropi pe malul râului.",
+                "en": "Spray on the riverbank."
+              }
+            },
+            {
+              "name": "Igreja de Santa Maria",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor der Tür.",
+                "hu": "Parkoló közvetlenül az ajtó előtt.",
+                "ro": "Parcare chiar în fața ușii.",
+                "en": "Parking right in front."
+              }
+            },
+            {
+              "name": "Terminal Rodoviário",
+              "tip_5lang": {
+                "de": "Gute Wendemöglichkeit.",
+                "hu": "Jó megfordulási lehetőség.",
+                "ro": "Posibilitate bună de întoarcere.",
+                "en": "Good turning point."
+              }
+            },
+            {
+              "name": "Fonte da Sereia",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für Foto.",
+                "hu": "Rövid kiszállás fotózáshoz.",
+                "ro": "Coborâre scurtă pentru foto.",
+                "en": "Quick hop out for a photo."
+              }
+            },
+            {
+              "name": "Igreja Matriz",
+              "tip_5lang": {
+                "de": "Zentrumsnah parken.",
+                "hu": "Parkolás a központ közelében.",
+                "ro": "Parcare aproape de centru.",
+                "en": "Park near the center."
+              }
+            },
+            {
+              "name": "Museu Terras de Besteiros",
+              "tip_5lang": {
+                "de": "Parkplatz oft belegt bei Regen.",
+                "hu": "Esőben a parkoló gyakran tele.",
+                "ro": "Parcare adesea plină pe ploaie.",
+                "en": "Parking often full when raining."
+              }
+            },
+            {
+              "name": "Parque Urbano",
+              "tip_5lang": {
+                "de": "Vom Auto aus die Aussicht genießen.",
+                "hu": "Élvezze a kilátást az autóból.",
+                "ro": "Admirați vederea din mașină.",
+                "en": "Enjoy the view from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Scheibenwischer prüfen.",
+              "Zentrale Parkplätze nutzen.",
+              "Vorsicht bei Aquaplaning.",
+              "Regenschirm im Auto griffbereit."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket.",
+              "Használja a központi parkolókat.",
+              "Vigyázzon a vízenfutásra.",
+              "Esernyő legyen kéznél az autóban."
+            ],
+            "ro": [
+              "Verificați ștergătoarele.",
+              "Folosiți parcările centrale.",
+              "Atenție la acvaplanare.",
+              "Umbrela la îndemână în mașină."
+            ],
+            "en": [
+              "Check windshield wipers.",
+              "Use central parking lots.",
+              "Watch out for aquaplaning.",
+              "Keep an umbrella handy in the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Frostige Scheiben bei der Abfahrt zur Brücke. Mittag: Angenehme Wärme im Auto zwischen den Kirchenbesuchen. Nachmittag: Ein langer Aufenthalt im Museum, um die Kälte draußen zu lassen. Abend: Wenn die Straßenbeleuchtung Tondela in goldenes Licht taucht, endet die Tour entspannt im warmen Fahrzeug.",
+            "hu": "Reggel: Jeges szélvédő a hídhoz vezető úton. Délben: Kellemes meleg az autóban a templomlátogatások között. Délután: Hosszú tartózkodás a múzeumban, kint hagyva a hideget. Este: Amikor az utcai fények aranyba borítják Tondelát, a túra kényelmesen ér véget a meleg járműben.",
+            "ro": "Dimineața: Parbriz înghețat la plecarea spre pod. Prânz: Căldură plăcută în mașină între vizitele la biserici. După-amiaza: O ședere lungă la muzeu, lăsând frigul afară. Seara: Când luminile stradale scaldă orașul în auriu, turul se încheie relaxat în mașină.",
+            "en": "Morning: Frosty windshield for the drive to the bridge. Noon: Pleasant warmth in the car between church visits. Afternoon: A long stay at the museum to leave the cold outside. Evening: As streetlights bathe Tondela in golden light, the tour ends comfortably in the warm vehicle."
+          },
+          "stops": [
+            {
+              "name": "Ponte sobre o Rio Dinha",
+              "tip_5lang": {
+                "de": "Möglicher Bodenfrost auf Brücke.",
+                "hu": "Esetleges talajmenti fagy a hídon.",
+                "ro": "Posibil îngheț pe pod.",
+                "en": "Possible frost on the bridge."
+              }
+            },
+            {
+              "name": "Igreja de Santa Maria",
+              "tip_5lang": {
+                "de": "Auto heizt schnell auf.",
+                "hu": "Az autó gyorsan bemelegszik.",
+                "ro": "Mașina se încălzește rapid.",
+                "en": "The car heats up quickly."
+              }
+            },
+            {
+              "name": "Terminal Rodoviário",
+              "tip_5lang": {
+                "de": "Viel Verkehr am Morgen.",
+                "hu": "Nagy forgalom reggel.",
+                "ro": "Trafic intens dimineața.",
+                "en": "Heavy traffic in the morning."
+              }
+            },
+            {
+              "name": "Fonte da Sereia",
+              "tip_5lang": {
+                "de": "Wintersonne steht tief.",
+                "hu": "Alacsonyan jár a téli nap.",
+                "ro": "Soarele de iarnă e jos.",
+                "en": "Winter sun is low."
+              }
+            },
+            {
+              "name": "Igreja Matriz",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz.",
+                "hu": "Rövid séta a parkolótól.",
+                "ro": "Scurt drum pe jos de la parcare.",
+                "en": "Short walk from parking."
+              }
+            },
+            {
+              "name": "Museu Terras de Besteiros",
+              "tip_5lang": {
+                "de": "Warmer Rückzugsort.",
+                "hu": "Meleg menedékhely.",
+                "ro": "Refugiu călduros.",
+                "en": "Warm retreat."
+              }
+            },
+            {
+              "name": "Parque Urbano",
+              "tip_5lang": {
+                "de": "Heizung an beim Warten.",
+                "hu": "Fűtés bekapcsolva várakozáskor.",
+                "ro": "Căldura pornită la așteptare.",
+                "en": "Heating on while waiting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutzmittel prüfen.",
+              "Vorsicht vor glatten Brücken.",
+              "Batterie im Winter checken.",
+              "Eiskratzer mitführen."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót.",
+              "Vigyázzon a csúszós hidakon.",
+              "Ellenőrizze az akkumulátort.",
+              "Legyen jégkaparó az autóban."
+            ],
+            "ro": [
+              "Verificați antigelul.",
+              "Atenție la podurile alunecoase.",
+              "Verificați bateria iarna.",
+              "Aveți o racletă pentru gheață."
+            ],
+            "en": [
+              "Check antifreeze levels.",
+              "Watch out for slippery bridges.",
+              "Check battery health.",
+              "Keep an ice scraper in the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "17:35",
-      "total_km": 4.5,
+      "end_estimate": "16:45",
+      "total_km": 6.0,
       "stop_count": 6,
       "stops": [
         {
-          "name_4lang": {
-            "de": "Ankunft am Busbahnhof Tondela",
-            "hu": "Érkezés a tondelai buszpályaudvarra",
-            "ro": "Sosire la autogara Tondela",
-            "en": "Arrival at Tondela Bus Station"
+          "name": {
+            "de": "Tondela Terminal (Zentrum)",
+            "hu": "Tondela buszvégállomás (Központ)",
+            "ro": "Terminal Tondela (Centru)",
+            "en": "Tondela Terminal (Center)"
           },
           "coords": [
-            -8.08,
-            40.515
+            -8.0833,
+            40.5167
           ],
-          "category": "transport",
+          "category": "monuments",
           "arrive_at": "09:10",
-          "stay_min": 0,
-          "hop_mode": "transit",
-          "hop_from_prev_min": 10,
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
           "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Beginnen Sie Ihren Tag hier, im Hauptverkehrsknotenpunkt der Stadt.",
-            "hu": "Kezdje a napot itt, a város fő közlekedési csomópontjában.",
-            "ro": "Începeți-vă ziua de aici, principalul nod de transport al orașului.",
-            "en": "Start your day here, at the town's main transport hub."
+            "de": "Der Knotenpunkt für lokale Busse.",
+            "hu": "A helyi buszjáratok csomópontja.",
+            "ro": "Nodul central pentru autobuzele locale.",
+            "en": "The hub for local buses."
           }
         },
         {
-          "name_4lang": {
-            "de": "Cluster Zentrum: Pelourinho & Fonte da Sereia",
-            "hu": "Központi Klaszter: Pellengér és Szirén-kút",
-            "ro": "Cluster Centru: Pelourinho & Fântâna Sirenei",
-            "en": "Center Cluster: Pelourinho & Mermaid Fountain"
-          },
-          "coords": [
-            -8.0831,
-            40.5165
-          ],
-          "category": "monuments/statues",
-          "arrive_at": "09:20",
-          "stay_min": 40,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
-          "tip_5lang": {
-            "de": "Ein kurzer Spaziergang vom Busbahnhof zu den ikonischen Wahrzeichen im Herzen der Stadt.",
-            "hu": "Rövid séta a buszpályaudvartól a város szívében található ikonikus nevezetességekhez.",
-            "ro": "O scurtă plimbare de la autogară la reperele iconice din inima orașului.",
-            "en": "A short walk from the bus station to the iconic landmarks in the heart of the town."
-          }
-        },
-        {
-          "name_4lang": {
+          "name": {
             "de": "Igreja Matriz de Tondela",
-            "hu": "Tondelai főtemplom",
-            "ro": "Biserica Matriz din Tondela",
+            "hu": "Tondela főtemploma",
+            "ro": "Igreja Matriz de Tondela",
             "en": "Main Church of Tondela"
           },
           "coords": [
-            -8.0819,
+            -8.0825,
             40.5175
           ],
-          "category": "churches/cathedrals",
-          "arrive_at": "10:05",
-          "stay_min": 45,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 5,
+          "category": "churches",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
           "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Setzen Sie Ihren Spaziergang durch das Zentrum zu dieser wichtigen Kirche fort.",
-            "hu": "Folytassa sétáját a központon keresztül ehhez a fontos templomhoz.",
-            "ro": "Continuați plimbarea prin centru până la această biserică importantă.",
-            "en": "Continue your walk through the center to this important church."
+            "de": "Kurzer Fußweg vom Terminal.",
+            "hu": "Rövid séta a végállomástól.",
+            "ro": "Scurtă plimbare de la terminal.",
+            "en": "Short walk from the terminal."
           }
         },
         {
-          "name_4lang": {
-            "de": "Museum Terras de Besteiros",
-            "hu": "Terras de Besteiros Múzeum",
-            "ro": "Muzeul Terras de Besteiros",
-            "en": "Museum Terras de Besteiros"
+          "name": {
+            "de": "Museu Terras de Besteiros",
+            "hu": "Besteiros Vidéki Múzeum",
+            "ro": "Museu Terras de Besteiros",
+            "en": "Terras de Besteiros Museum"
           },
           "coords": [
             -8.084,
-            40.518
+            40.515
           ],
           "category": "museums",
-          "arrive_at": "11:00",
+          "arrive_at": "10:35",
           "stay_min": 100,
-          "hop_mode": "walk",
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.7,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
           "tip_5lang": {
-            "de": "Das Museum ist vom Zentrum aus leicht zu Fuß erreichbar.",
-            "hu": "A múzeum könnyen megközelíthető gyalog a központból.",
-            "ro": "Muzeul este ușor accesibil pe jos din centru.",
-            "en": "The museum is within easy walking distance from the center."
+            "de": "Wichtiger kultureller Halt.",
+            "hu": "Fontos kulturális megálló.",
+            "ro": "Popas cultural important.",
+            "en": "Important cultural stop."
           }
         },
         {
-          "name_4lang": {
-            "de": "Fahrt zum Parque do Fontelo",
-            "hu": "Buszozás a Fontelo Parkba",
-            "ro": "Călătorie cu autobuzul spre Parcul Fontelo",
-            "en": "Transit to Fontelo Park"
+          "name": {
+            "de": "Solar do Casal de Santo António",
+            "hu": "Szent Antal nemesi udvarház",
+            "ro": "Solar do Casal de Santo António",
+            "en": "Solar do Casal de Santo Antonio"
+          },
+          "coords": [
+            -8.081,
+            40.5185
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie den barocken Solar.",
+            "hu": "Fedezze fel a barokk udvarházat.",
+            "ro": "Descoperiți conacul baroc.",
+            "en": "Discover the Baroque Solar."
+          }
+        },
+        {
+          "name": {
+            "de": "Fonte da Sereia",
+            "hu": "Szirén-kút",
+            "ro": "Fonte da Sereia",
+            "en": "Siren Fountain"
+          },
+          "coords": [
+            -8.0835,
+            40.5165
+          ],
+          "category": "monuments",
+          "arrive_at": "13:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zurück im Herzen der Stadt.",
+            "hu": "Vissza a város szívébe.",
+            "ro": "Înapoi în inima orașului.",
+            "en": "Back in the heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de Lazer do Fontelo",
+            "hu": "Fontelo szabadidőpark",
+            "ro": "Parque de Lazer do Fontelo",
+            "en": "Fontelo Leisure Park"
           },
           "coords": [
             -8.088,
-            40.519
+            40.512
           ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "13:10",
-          "stay_min": 90,
+          "category": "parks",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
           "hop_mode": "transit",
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 3.0,
           "tip_5lang": {
-            "de": "Nehmen Sie einen lokalen Bus vom Zentrum zum Park für einen entspannten Nachmittag.",
-            "hu": "Vegyen egy helyi buszt a központból a parkba egy pihentető délutánra.",
-            "ro": "Luați un autobuz local din centru spre parc pentru o după-amiază relaxantă.",
-            "en": "Take a local bus from the center to the park for a relaxing afternoon."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Solar do Casal de Santo António",
-            "hu": "Solar do Casal de Santo António",
-            "ro": "Solar do Casal de Santo António",
-            "en": "Solar do Casal de Santo António"
-          },
-          "coords": [
-            -8.0855,
-            40.5172
-          ],
-          "category": "famous residences",
-          "arrive_at": "15:00",
-          "stay_min": 45,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 1.0,
-          "tip_5lang": {
-            "de": "Machen Sie auf dem Rückweg ins Zentrum einen Spaziergang an diesem Herrenhaus vorbei.",
-            "hu": "Sétáljon el ezen udvarház mellett a központ felé vezető úton.",
-            "ro": "Faceți o plimbare pe lângă acest conac în drumul de întoarcere spre centru.",
-            "en": "Take a walk past this manor house on your way back to the center."
+            "de": "Ein letzter grüner Stopp.",
+            "hu": "Egy utolsó zöld megálló.",
+            "ro": "O ultimă oprire verde.",
+            "en": "One last green stop."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt am Busbahnhof von Tondela. Von dort aus tauchen Sie direkt in den ersten Wandercluster ein: das historische Herz der Stadt. Erkunden Sie den Pelourinho, den Brunnen, die Hauptkirche und das Museum – alles bequem zu Fuß erreichbar. \nNach einem Vormittag voller Kultur und einem Mittagessen im Zentrum nehmen Sie einen lokalen Bus. Dieser Transit-Hop bringt Sie zum zweiten Cluster des Tages, dem ruhigen Fontelo-Park, der einen perfekten Kontrast zur städtischen Erkundung am Morgen bietet. \nVerbringen Sie einen entspannten Nachmittag im Park. Auf dem Rückweg zum Stadtzentrum kommen Sie am eleganten Solar do Casal de Santo António vorbei und vervollständigen so Ihren Rundgang durch die architektonischen Highlights von Tondela. \nDer Tag endet wieder im Zentrum, wo Sie einfachen Zugang zu Restaurants für das Abendessen und zum Busbahnhof für Ihre Weiterreise haben. Dieser Plan zeigt, wie man Tondela effizient mit einer Mischung aus Gehen und lokalen Bussen erkunden kann.",
-        "hu": "A tömegközlekedéssel töltött nap a tondelai buszpályaudvaron kezdődik. Innen egyenesen belevetheti magát az első gyalogos klaszterbe: a város történelmi szívébe. Fedezze fel a pellengért, a kutat, a főtemplomot és a múzeumot – mindent kényelmesen, gyalogosan. \nA kultúrával teli délelőtt és a központi ebéd után szálljon helyi buszra. Ez a buszozás elviszi a nap második klaszteréhez, a csendes Fontelo parkhoz, amely tökéletes kontrasztot kínál a reggeli városi felfedezéshez. \nTöltsön el egy pihentető délutánt a parkban. Visszafelé a városközpontba sétáljon el az elegáns Solar do Casal de Santo António mellett, ezzel teljessé téve Tondela építészeti nevezetességeinek körútját. \nA nap ismét a központban ér véget, ahonnan könnyen elérhetők az éttermek a vacsorához és a buszpályaudvar a továbbutazáshoz. Ez a terv megmutatja, hogyan lehet hatékonyan felfedezni Tondelát a gyaloglás és a helyi buszok kombinációjával.",
-        "ro": "Ziua dvs. cu transportul public începe la autogara din Tondela. De acolo, vă scufundați direct în primul cluster de mers pe jos: inima istorică a orașului. Explorați Pelourinho, fântâna, Biserica Matriz și muzeul, toate la distanță de mers pe jos. \nDupă o dimineață de cultură și un prânz în centru, luați un autobuz local. Această călătorie vă duce la al doilea cluster al zilei, liniștitul Parc Fontelo, oferind un contrast perfect cu explorarea urbană de dimineață. \nPetreceți o după-amiază relaxantă în parc. Pe drumul de întoarcere spre centrul orașului, treceți pe lângă elegantul Solar do Casal de Santo António, completându-vă turul reperelor arhitecturale ale Tondelei. \nZiua se încheie înapoi în centru, cu acces ușor la restaurante pentru cină și la autogară pentru plecarea dvs. Acest plan demonstrează cum să explorați Tondela eficient folosind un amestec de mers pe jos și autobuze locale.",
-        "en": "Your public transit day starts at Tondela's bus station. From there, you dive straight into the first walking cluster: the town's historic heart. Explore the Pelourinho, the fountain, the Main Church, and the museum, all within comfortable walking distance. \nAfter a morning of culture and a lunch in the center, you'll hop on a local bus. This transit hop takes you to the day's second cluster, the tranquil Fontelo Park, providing a perfect contrast to the morning's urban exploration. \nSpend a relaxing afternoon in the park. On your walk back towards the town center, you'll pass by the elegant Solar do Casal de Santo António, completing your circuit of Tondela's architectural highlights. \nThe day ends back in the center, with easy access to restaurants for dinner and the bus station for your onward journey. This plan shows how to explore Tondela efficiently using a mix of walking and local buses."
+        "de": "Tondela ist gut durch lokale Busverbindungen erschlossen. Vom zentralen Terminal aus sind die religiösen und historischen Sehenswürdigkeiten leicht erreichbar. Ein kleiner Spaziergang verbindet die kulturellen Highlights wie das Museum und die historischen Solares. Mit dem Bus geht es zurück zum Brunnen und schließlich zum Fontelo-Park, der ideal für eine Pause vor der Rückreise ist.",
+        "hu": "Tondela jól felfedezhető a helyi buszjáratokkal. A központi végállomástól a vallási és történelmi látnivalók könnyen elérhetőek. Rövid séta köti össze a kulturális pontokat, mint a múzeumot és a történelmi udvarházakat. Busszal térünk vissza a kúthoz, majd végül a Fontelo Parkhoz, amely ideális hely a pihenésre a hazaút előtt.",
+        "ro": "Tondela este bine deservită de conexiunile locale de autobuz. De la terminalul central, atracțiile religioase și istorice sunt ușor accesibile. O scurtă plimbare conectează punctele culturale importante, precum muzeul și conacele istorice. Cu autobuzul ne întoarcem la fântână și, în final, la Parcul Fontelo, ideal pentru o pauză înainte de plecare.",
+        "en": "Tondela is well-served by local bus connections. From the central terminal, the religious and historical sights are easily accessible. A short walk connects cultural highlights such as the museum and historic manors. By bus, we return to the fountain and finally to Fontelo Park, which is ideal for a break before the return journey."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Vitela de Lafões",
-            "tip": "Probieren Sie dieses berühmte geröstete Kalbfleischgericht, ein regionales Markenzeichen."
-          },
-          {
-            "name": "Arroz de Carqueja",
-            "tip": "Ein einzigartiger Reis, gekocht mit Ginsterblüten, der einen besonderen Geschmack verleiht."
-          },
-          {
-            "name": "Restaurante 3 Pipos",
-            "tip": "Bekannt für seine traditionelle portugiesische Küche und sein rustikales Ambiente."
+            "name": "Pastéis de Tondela",
+            "tip": "Lokales Gebäck zum Kaffee."
           }
         ],
         "hu": [
           {
-            "name": "Vitela de Lafões",
-            "tip": "Kóstolja meg ezt a híres sült borjúételt, a régió védjegyét."
-          },
-          {
-            "name": "Arroz de Carqueja",
-            "tip": "Egyedi rizsétel rekettyevirággal főzve, ami különleges ízt ad neki."
-          },
-          {
-            "name": "Restaurante 3 Pipos",
-            "tip": "Hagyományos portugál konyhájáról és rusztikus hangulatáról ismert."
+            "name": "Pastéis de Tondela",
+            "tip": "Helyi sütemény a kávé mellé."
           }
         ],
         "ro": [
           {
-            "name": "Vitela de Lafões",
-            "tip": "Încercați acest faimos fel de mâncare din vițel la cuptor, o marcă a regiunii."
-          },
-          {
-            "name": "Arroz de Carqueja",
-            "tip": "Un orez unic, gătit cu flori de grozamă, care îi conferă o aromă distinctă."
-          },
-          {
-            "name": "Restaurante 3 Pipos",
-            "tip": "Cunoscut pentru bucătăria sa tradițională portugheză și ambianța rustică."
+            "name": "Pastéis de Tondela",
+            "tip": "Patiserie locală lângă cafea."
           }
         ],
         "en": [
           {
-            "name": "Vitela de Lafões",
-            "tip": "Try this famous roasted veal dish, a regional hallmark."
-          },
-          {
-            "name": "Arroz de Carqueja",
-            "tip": "A unique rice cooked with broom flowers, giving it a distinctive flavor."
-          },
-          {
-            "name": "Restaurante 3 Pipos",
-            "tip": "Known for its traditional Portuguese cuisine and rustic ambiance."
+            "name": "Pastéis de Tondela",
+            "tip": "Local pastry with coffee."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Parque de Lazer do Fontelo",
-            "tip": "Finden Sie eine ruhige Bank am See und genießen Sie die friedliche Atmosphäre.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Ufer des Flusses Dão",
-            "tip": "Machen Sie einen Spaziergang entlang des Flusses etwas außerhalb der Stadt, um Ruhe zu finden.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Gärten des Museums",
-            "tip": "Der Bereich um das Museum kann ein ruhiger Ort zum Sitzen sein.",
-            "emoji": "🧘"
+            "name": "Igreja Matriz",
+            "tip": "Ruhe im barocken Schiff.",
+            "emoji": "🙏"
           }
         ],
         "hu": [
           {
-            "name": "Fontelo Szabadidőpark",
-            "tip": "Keressen egy csendes padot a tó mellett, és élvezze a békés hangulatot.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Dão folyó partja",
-            "tip": "Sétáljon egyet a folyó mentén a városon kívül a csendért és nyugalomért.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Múzeum kertje",
-            "tip": "A múzeum környéke csendes hely lehet egy kis üldögélésre.",
-            "emoji": "🧘"
+            "name": "Főtemplom",
+            "tip": "Csend a barokk hajóban.",
+            "emoji": "🙏"
           }
         ],
         "ro": [
           {
-            "name": "Parcul de Agrement Fontelo",
-            "tip": "Găsiți o bancă liniștită lângă lac și bucurați-vă de atmosfera pașnică.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Malurile râului Dão",
-            "tip": "Faceți o plimbare de-a lungul râului, chiar în afara orașului, pentru liniște și pace.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Grădinile Muzeului",
-            "tip": "Zona din jurul muzeului poate fi un loc liniștit pentru a sta jos.",
-            "emoji": "🧘"
+            "name": "Igreja Matriz",
+            "tip": "Liniște în naosul baroc.",
+            "emoji": "🙏"
           }
         ],
         "en": [
           {
-            "name": "Fontelo Leisure Park",
-            "tip": "Find a quiet bench by the lake and enjoy the peaceful atmosphere.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Banks of the Dão River",
-            "tip": "Take a walk along the river just outside the town for some peace and quiet.",
-            "emoji": "🍃"
-          },
-          {
-            "name": "Museum Gardens",
-            "tip": "The area around the museum can be a quiet place to sit.",
-            "emoji": "🧘"
+            "name": "Main Church",
+            "tip": "Tranquility in the Baroque nave.",
+            "emoji": "🙏"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Wochenmarkt",
-            "tip": "Besuchen Sie den lokalen Markt für frische Produkte, Käse und traditionelles Kunsthandwerk."
-          },
-          {
-            "name": "Schwarzkeramik",
-            "tip": "Halten Sie Ausschau nach der berühmten schwarzen Keramik aus dem nahegelegenen Dorf Molelos."
+            "name": "Lokale Produkte",
+            "tip": "Besuchen Sie den städtischen Markt."
           }
         ],
         "hu": [
           {
-            "name": "Heti piac",
-            "tip": "Látogasson el a helyi piacra friss termékekért, sajtokért és hagyományos kézműves termékekért."
-          },
-          {
-            "name": "Fekete kerámia",
-            "tip": "Keresse a közeli Molelos faluból származó híres fekete kerámiát."
+            "name": "Helyi termékek",
+            "tip": "Látogasson el a városi piacra."
           }
         ],
         "ro": [
           {
-            "name": "Piața săptămânală",
-            "tip": "Vizitați piața locală pentru produse proaspete, brânzeturi și meșteșuguri tradiționale."
-          },
-          {
-            "name": "Ceramică neagră",
-            "tip": "Căutați faimoasa ceramică neagră din satul din apropiere, Molelos."
+            "name": "Produse locale",
+            "tip": "Vizitați piața municipală."
           }
         ],
         "en": [
           {
-            "name": "Weekly Market",
-            "tip": "Visit the local market for fresh produce, cheeses, and traditional handicrafts."
-          },
-          {
-            "name": "Black Pottery",
-            "tip": "Look out for the famous black pottery from the nearby village of Molelos."
+            "name": "Local products",
+            "tip": "Visit the municipal market."
           }
         ]
       },
       "tips": {
         "de": [
-          "Überprüfen Sie den Busfahrplan im Voraus, da die Frequenzen variieren können.",
-          "Kaufen Sie eine Tageskarte, wenn verfügbar, um Geld zu sparen.",
-          "Seien Sie bereit, zwischen den Bushaltestellen und den Sehenswürdigkeiten zu Fuß zu gehen.",
-          "Fragen Sie Einheimische oder den Busfahrer, wenn Sie sich bei den Haltestellen unsicher sind."
+          "Prüfen Sie die Fahrpläne der lokalen Busse im Voraus.",
+          "Die meisten Sehenswürdigkeiten sind im Zentrum fußläufig."
         ],
         "hu": [
-          "Előre ellenőrizze a buszmenetrendet, mivel a járatok sűrűsége változhat.",
-          "Vásároljon napijegyet, ha elérhető, hogy pénzt takarítson meg.",
-          "Készüljön fel a buszmegállók és a látnivalók közötti sétára.",
-          "Kérdezze meg a helyieket vagy a buszsofőrt, ha bizonytalan a megállókkal kapcsolatban."
+          "Előre ellenőrizze a helyi buszok menetrendjét.",
+          "A legtöbb látnivaló gyalogosan is elérhető a központban."
         ],
         "ro": [
-          "Verificați orarul autobuzelor în avans, deoarece frecvențele pot varia.",
-          "Cumpărați un bilet de o zi, dacă este disponibil, pentru a economisi bani.",
-          "Fiți pregătiți să mergeți pe jos între stațiile de autobuz și atracții.",
-          "Întrebați localnicii sau șoferul de autobuz dacă nu sunteți siguri de stații."
+          "Verificați orarele autobuzelor locale în avans.",
+          "Majoritatea atracțiilor sunt accesibile pe jos în centru."
         ],
         "en": [
-          "Check the bus schedule in advance, as frequencies may vary.",
-          "Purchase a day pass if available to save money.",
-          "Be prepared to walk between bus stops and the attractions.",
-          "Ask locals or the bus driver if you are unsure about the stops."
+          "Check the local bus schedules in advance.",
+          "Most attractions are within walking distance in the center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Mit dem Bus trocken zum Terminal gelangen. Mittag: Kurze Sprints zwischen den Haltestellen und den Kirchen. Nachmittag: Ein langer Nachmittag im Museum ist der perfekte Plan bei Regen. Abend: Die Rückfahrt mit dem Stadtbus bietet Ausblicke auf das verregnete Tondela.",
+            "hu": "Reggel: Busszal szárazon juthat el a terminálig. Délben: Rövid sprintek a megállók és a templomok között. Délután: Egy hosszú délután a múzeumban a tökéletes terv esőben. Este: A visszautazás a városi busszal kilátást nyújt az esős Tondelára.",
+            "ro": "Dimineața: Cu autobuzul ajungeți uscat la terminal. Prânz: Scurte sprinturi între stații și biserici. După-amiaza: O după-amiază lungă la muzeu e planul perfect pe ploaie. Seara: Călătoria de întoarcere oferă vederi spre orașul ploios.",
+            "en": "Morning: Get to the terminal dry by bus. Noon: Short sprints between bus stops and churches. Afternoon: A long afternoon at the museum is the perfect plan in the rain. Evening: The ride back on the city bus offers views of rainy Tondela."
+          },
+          "stops": [
+            {
+              "name": "Terminal Rodoviário",
+              "tip_5lang": {
+                "de": "Großer Wartebereich im Trockenen.",
+                "hu": "Nagy váróterem szárazon.",
+                "ro": "Sală de așteptare mare și uscată.",
+                "en": "Large dry waiting area."
+              }
+            },
+            {
+              "name": "Fonte da Sereia",
+              "tip_5lang": {
+                "de": "Haltestelle direkt um die Ecke.",
+                "hu": "Megálló közvetlenül a sarkon.",
+                "ro": "Stație chiar după colț.",
+                "en": "Bus stop right around the corner."
+              }
+            },
+            {
+              "name": "Igreja Matriz",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Haltestelle.",
+                "hu": "Rövid út a megállótól.",
+                "ro": "Drum scurt de la stație.",
+                "en": "Short walk from the stop."
+              }
+            },
+            {
+              "name": "Museu Terras de Besteiros",
+              "tip_5lang": {
+                "de": "Buslinie hält fast vor der Tür.",
+                "hu": "A busz majdnem az ajtó előtt áll meg.",
+                "ro": "Autobuzul oprește aproape în față.",
+                "en": "Bus stops almost at the door."
+              }
+            },
+            {
+              "name": "Parque Urbano",
+              "tip_5lang": {
+                "de": "Häuschen an der Haltestelle nutzen.",
+                "hu": "Használja a megálló váróját.",
+                "ro": "Folosiți adăpostul stației.",
+                "en": "Use the bus stop shelter."
+              }
+            },
+            {
+              "name": "Solar do Ferraz",
+              "tip_5lang": {
+                "de": "Letzter Bus gegen Abend prüfen.",
+                "hu": "Ellenőrizze az utolsó buszt este.",
+                "ro": "Verificați ultimul autobuz seara.",
+                "en": "Check the last bus in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Regencape für Umstiege nutzen.",
+              "Bus-App für Echtzeitdaten.",
+              "An den Haltestellen unterstellen.",
+              "Kleingeld für Ticket bereithalten."
+            ],
+            "hu": [
+              "Használjon esővédőt átszálláskor.",
+              "Használja a buszos alkalmazást.",
+              "Húzódjon be a várókba.",
+              "Készítsen elő aprópénzt a jegyhez."
+            ],
+            "ro": [
+              "Pelerina de ploaie la transferuri.",
+              "Aplicația de bus pentru timp real.",
+              "Stați sub adăpostul stațiilor.",
+              "Pregătiți mărunțiș pentru bilet."
+            ],
+            "en": [
+              "Use a rain cape for transfers.",
+              "Check bus app for real-time info.",
+              "Take cover at bus shelters.",
+              "Keep change ready for the ticket."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Fahrt im beheizten Bus zum Terminal. Mittag: Die kurzen Wege zwischen den Sehenswürdigkeiten sind im Winter ideal. Nachmittag: Der Besuch im Museum bietet Schutz vor dem kalten Wind. Abend: Die Stadtlichter beobachten, während der Bus Sie zurück zur Unterkunft bringt.",
+            "hu": "Reggel: Utazás fűtött busszal a terminálig. Délben: A látnivalók közötti rövid távok ideálisak télen. Délután: A múzeumi látogatás védelmet nyújt a hideg szél ellen. Este: Figyelje a város fényeit, miközben a busz visszaviszi a szállására.",
+            "ro": "Dimineața: Călătorie cu autobuzul încălzit. Prânz: Distanțele scurte între obiective sunt ideale iarna. După-amiaza: Vizita la muzeu oferă protecție contra vântului rece. Seara: Observați luminile orașului din autobuz spre cazare.",
+            "en": "Morning: Ride in a heated bus to the terminal. Noon: Short distances between sights are ideal in winter. Afternoon: The museum visit provides protection from the cold wind. Evening: Watch the city lights while the bus takes you back to your accommodation."
+          },
+          "stops": [
+            {
+              "name": "Terminal Rodoviário",
+              "tip_5lang": {
+                "de": "Windgeschützter Wartesaal.",
+                "hu": "Szélvédett váróterem.",
+                "ro": "Sală de așteptare ferită de vânt.",
+                "en": "Wind-shielded waiting room."
+              }
+            },
+            {
+              "name": "Fonte da Sereia",
+              "tip_5lang": {
+                "de": "Busse fahren pünktlich.",
+                "hu": "A buszok pontosan járnak.",
+                "ro": "Autobuzele circulă la timp.",
+                "en": "Buses run on time."
+              }
+            },
+            {
+              "name": "Igreja Matriz",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt im Freien.",
+                "hu": "Rövid kint tartózkodás.",
+                "ro": "Ședere scurtă în aer liber.",
+                "en": "Short time spent outdoors."
+              }
+            },
+            {
+              "name": "Museu Terras de Besteiros",
+              "tip_5lang": {
+                "de": "Heller Ort an grauen Tagen.",
+                "hu": "Világos helyszín a szürke napokon.",
+                "ro": "Loc luminos în zilele gri.",
+                "en": "Bright spot on grey days."
+              }
+            },
+            {
+              "name": "Parque Urbano",
+              "tip_5lang": {
+                "de": "Winterfahrplan beachten.",
+                "hu": "Ügyeljen a téli menetrendre.",
+                "ro": "Atenție la programul de iarnă.",
+                "en": "Check the winter schedule."
+              }
+            },
+            {
+              "name": "Solar do Ferraz",
+              "tip_5lang": {
+                "de": "Abends schnell zum Bus.",
+                "hu": "Este igyekezzen a buszhoz.",
+                "ro": "Seara grăbiți-vă spre autobuz.",
+                "en": "Hurry to the bus in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung für Wartezeiten.",
+              "Taktfrequenz im Winter reduziert.",
+              "Zentraler Terminal ist beheizt.",
+              "Fensterplätze für Aussicht nutzen."
+            ],
+            "hu": [
+              "Meleg ruha a várakozáshoz.",
+              "Ritkább járatok télen.",
+              "A központi terminál fűtött.",
+              "Használja az ablak melletti helyet."
+            ],
+            "ro": [
+              "Haine groase pentru așteptare.",
+              "Frecvență redusă a curselor iarna.",
+              "Terminalul central e încălzit.",
+              "Ocupați locuri la fereastră."
+            ],
+            "en": [
+              "Warm clothes for waiting times.",
+              "Reduced bus frequency in winter.",
+              "Central terminal is heated.",
+              "Take window seats for the view."
+            ]
+          }
+        }
       }
     }
   }

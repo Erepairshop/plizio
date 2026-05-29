@@ -379,6 +379,206 @@
           "The city center is very compact; everything is within a 10-15 minute walk.",
           "Bring a reusable water bottle; there are public fountains."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Denkmal des tapferen Soldaten im Nieselregen. Mittags bieten die hohen Wälle der Festung etwas Schutz vor dem Wind, während man unter dem Regenschirm spaziert. Am Nachmittag ist die Trinitatis-Kirche ein idealer Ort, um im Trockenen die Geschichte zu erkunden. Der Tag endet mit einem grauen, aber atmosphärischen Blick auf den Kleinen Belt am Strand.",
+            "hu": "A nap az esőben ázó Vitéz Katona szobránál indul. Délben az erődítmény sáncai között sétálunk, ahol a fák némi védelmet nyújtanak a szél ellen. Délután a Trinitatis templom csendje és fedett tere nyújt menedéket a csapadék elől. Az estét a tengerparti szürkület zárja, ahol a vizes homok különleges tükröződést ad a dán partvidéknek.",
+            "ro": "Ziua începe la Statuia Soldatului Viteaz sub o ploaie măruntă. La prânz, explorăm meterezele cetății sub umbrelă, profitând de potecile parțial adăpostite. După-amiaza, Biserica Trinitatis oferă un refugiu perfect și uscat pentru a admira arhitectura. Seara se încheie pe plajă, unde cerul plumburiu deasupra Micului Belt creează o atmosferă dramatică și melancolică.",
+            "en": "The day starts at the Valiant Soldier statue in the drizzle. At noon, the ramparts provide a wind-shielded walk under your umbrella. In the afternoon, Trinitatis Church is the perfect dry haven to explore local history. The evening ends with a grey but atmospheric view of the Little Belt at the beach, where the wet sand reflects the fading light."
+          },
+          "stops": [
+            {
+              "name": "The Valiant Soldier Statue",
+              "tip_5lang": {
+                "de": "Suchen Sie unter den nahen Bäumen Schutz für ein Foto des Denkmals.",
+                "hu": "A közeli fák alatt keress védelmet a szobor fotózásához.",
+                "ro": "Căutați adăpost sub copacii din apropiere pentru o fotografie a monumentului.",
+                "en": "Find shelter under the nearby trees for a quick photo of the monument."
+              }
+            },
+            {
+              "name": "Fredericia Ramparts",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, da die Grasflächen bei Regen rutschig sind.",
+                "hu": "Maradj a kövezett utakon, mert a füves rézsűk esőben nagyon csúsznak.",
+                "ro": "Rămâneți pe potecile pavate, deoarece zonele cu iarbă devin alunecoase pe ploaie.",
+                "en": "Stay on the paved paths, as the grassy slopes become very slippery in the rain."
+              }
+            },
+            {
+              "name": "Trinitatis Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorraum, um Ihren Regenschirm auszuschütteln und sich aufzuwärmen.",
+                "hu": "Használd az előteret az esernyő lerázására és egy kis melegedésre.",
+                "ro": "Folosiți vestibulul pentru a scutura umbrela și pentru a vă încălzi puțin.",
+                "en": "Use the vestibule to shake off your umbrella and dry your gear for a moment."
+              }
+            },
+            {
+              "name": "The Citadel (Kastellet)",
+              "tip_5lang": {
+                "de": "Die Aussicht auf das Meer ist auch bei Regen durch die alten Mauern beeindruckend.",
+                "hu": "A tengeri kilátás az öreg falak mellől esőben is lenyűgöző.",
+                "ro": "Vederea spre mare este impresionantă de lângă zidurile vechi chiar și pe ploaie.",
+                "en": "The sea view from the old walls remains impressive even in rainy weather."
+              }
+            },
+            {
+              "name": "The Historical Mini-Town",
+              "tip_5lang": {
+                "de": "Einige Miniaturgebäude bieten kleine Vordächer zum kurzen Unterstellen.",
+                "hu": "Néhány miniatűr épület apró előtetővel rendelkezik, ami alá be lehet húzódni.",
+                "ro": "Unele clădiri în miniatură au mici streșini sub care vă puteți adăposti scurt.",
+                "en": "Some miniature buildings have tiny overhangs where you can take brief cover."
+              }
+            },
+            {
+              "name": "The White Water Tower",
+              "tip_5lang": {
+                "de": "Der Aufstieg lohnt sich nur, wenn die Wolken nicht zu tief hängen.",
+                "hu": "A felmenetel csak akkor éri meg, ha a felhők nem ülnek rá a városra.",
+                "ro": "Urcarea merită doar dacă norii nu sunt prea joși deasupra orașului.",
+                "en": "Climbing up is only worth it if the clouds aren't hanging too low over the city."
+              }
+            },
+            {
+              "name": "Østerstrand Beach",
+              "tip_5lang": {
+                "de": "Der überdachte Pavillon am Strand bietet Schutz für den Blick aufs Meer.",
+                "hu": "A tengerparti fedett pavilon menedéket nyújt a kilátáshoz.",
+                "ro": "Pavilionul acoperit de pe plajă oferă adăpost pentru a privi marea.",
+                "en": "The covered pavilion on the beach offers a dry spot to watch the waves."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Wege auf den Wällen.",
+              "Die Trinitatis-Kirche ist der beste Ort, um starken Güssen auszuweichen.",
+              "Nutzen Sie die Cafés in der Vesterbrogade für eine Trockenpause.",
+              "Ein stabiler Regenschirm ist wegen des Windes vom Meer her wichtig."
+            ],
+            "hu": [
+              "Viselj vízálló cipőt a sáncokon való sétához.",
+              "A Trinitatis templom a legjobb hely a nagyobb záporok átvészelésére.",
+              "A Vesterbrogade kávézóiban tarts pihenőt, hogy megszárítsd a ruhád.",
+              "A tenger felőli szél miatt egy strapabíró esernyő elengedhetetlen."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru plimbările pe metereze.",
+              "Biserica Trinitatis este cel mai bun loc pentru a evita aversele puternice.",
+              "Folosiți cafenelele de pe strada Vesterbrogade pentru o pauză de uscare.",
+              "O umbrelă rezistentă este esențială din cauza vântului de pe mare."
+            ],
+            "en": [
+              "Wear waterproof walking shoes for the paths on the ramparts.",
+              "Trinitatis Church is the best spot to wait out heavy downpours.",
+              "Take a drying break in one of the cafes on Vesterbrogade street.",
+              "A sturdy umbrella is essential due to the winds coming off the sea."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Soldaten-Denkmal, wo der Reif auf dem Metall glänzt. Mittags führt der Weg über die windgepeitschten Wälle, die eine klare Sicht auf das winterliche Fredericia bieten. Am Nachmittag wärmt man sich in der Stille der Kirche auf, bevor das frühe Licht die historische Altstadt in blaue Schatten taucht. Der Tag endet am einsamen Strand bei klirrender Kälte.",
+            "hu": "Fagyos reggel indul a katonaszobornál, ahol a zúzmara megül a fémfelületeken. Délben a szeles sáncokon sétálunk, ahonnan tiszta kilátás nyílik a téli városra. Délután a templom békéjében melegszünk fel, mielőtt a korai sötétedés kék árnyékba borítaná az óvárost. A nap a néptelen tengerparton zárul, ahol a jeges szél hozza a sós tengeri illatot.",
+            "ro": "O dimineață geroasă începe la statuia soldatului, unde promoroaca strălucește pe metal. La prânz, drumul duce peste meterezele bătute de vânt, oferind o vedere clară asupra orașului hibernal. După-amiaza, ne încălzim în liniștea bisericii, înainte ca lumina timpurie să scufunde centrul istoric în umbre albastre. Ziua se încheie pe plaja pustie, în frigul tăios al serii.",
+            "en": "A frosty morning begins at the Soldier monument, with rime glistening on the metal. At noon, the path leads over the windswept ramparts, offering clear views of wintery Fredericia. In the afternoon, warm up in the silence of the church before early dusk casts blue shadows over the old town. The day ends at the deserted beach in the biting cold of the winter evening."
+          },
+          "stops": [
+            {
+              "name": "The Valiant Soldier Statue",
+              "tip_5lang": {
+                "de": "Vorsicht, die Pflastersteine um das Denkmal können bei Frost glatt sein.",
+                "hu": "Vigyázat, a szobor körüli macskakövek fagyban csúszósak lehetnek.",
+                "ro": "Atenție, pavajul din jurul monumentului poate fi alunecos pe timp de îngheț.",
+                "en": "Watch out, the cobblestones around the monument can be slippery when frozen."
+              }
+            },
+            {
+              "name": "Fredericia Ramparts",
+              "tip_5lang": {
+                "de": "Der Wind auf den Wällen ist im Winter scharf; kleiden Sie sich winddicht.",
+                "hu": "A sáncokon a szél télen metsző, öltözz szélálló rétegekbe.",
+                "ro": "Vântul pe metereze este tăios iarna; îmbrăcați-vă cu haine rezistente la vânt.",
+                "en": "The wind on the ramparts is sharp in winter; wear windproof layers."
+              }
+            },
+            {
+              "name": "Trinitatis Church",
+              "tip_5lang": {
+                "de": "Ein friedlicher, beheizter Ort für eine Pause während der Stadttour.",
+                "hu": "Békés, fűtött helyszín egy rövid pihenőre a városnézés közben.",
+                "ro": "Un loc liniștit și încălzit pentru o pauză în timpul turului orașului.",
+                "en": "A peaceful, heated location for a short rest during your city tour."
+              }
+            },
+            {
+              "name": "The Citadel (Kastellet)",
+              "tip_5lang": {
+                "de": "Die offene Lage macht es zum kältesten Punkt des Spaziergangs.",
+                "hu": "A nyitott fekvése miatt ez a séta leghidegebb pontja.",
+                "ro": "Locația deschisă îl face cel mai rece punct al plimbării.",
+                "en": "Its open location makes this the coldest point of the walk."
+              }
+            },
+            {
+              "name": "The Historical Mini-Town",
+              "tip_5lang": {
+                "de": "Die schneebedeckten Miniaturhäuser wirken wie in einer Weihnachtsgeschichte.",
+                "hu": "A hóval borított miniatűr házak olyanok, mint egy karácsonyi mesében.",
+                "ro": "Casele în miniatură acoperite de zăpadă arată ca într-o poveste de Crăciun.",
+                "en": "The snow-covered miniature houses look like something out of a Christmas tale."
+              }
+            },
+            {
+              "name": "The White Water Tower",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Öffnungszeiten, diese sind im Winter oft stark verkürzt.",
+                "hu": "Ellenőrizd a nyitvatartást, télen gyakran rövidebb ideig látogatható.",
+                "ro": "Verificați programul de funcționare, iarna este adesea mult scurtat.",
+                "en": "Check the opening hours as they are often significantly reduced in winter."
+              }
+            },
+            {
+              "name": "Østerstrand Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft, bevor es gegen 16:30 Uhr dunkel wird.",
+                "hu": "Élvezd a tiszta téli levegőt, mielőtt 16:30 körül teljesen besötétedik.",
+                "ro": "Bucurați-vă de aerul curat de iarnă înainte de a se întuneca în jur de ora 16:30.",
+                "en": "Enjoy the crisp winter air before it gets dark around 16:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche für den Spaziergang auf den Festungswällen.",
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Achten Sie auf vereiste Stellen auf den unbefestigten Parkwegen.",
+              "Ein Thermosbecher mit Tee ist ein idealer Begleiter für die Wälle."
+            ],
+            "hu": [
+              "Viselj termoalsóneműt az erődítmény sáncain való sétához.",
+              "Decemberben a nap már délután 4 óra körül nyugovóra tér.",
+              "Ügyelj a jeges foltokra a parkok burkolatlan ösvényein.",
+              "Egy termosz forró tea ideális kísérő a szeles sétához."
+            ],
+            "ro": [
+              "Purtați lenjerie termică pentru plimbarea pe meterezele cetății.",
+              "Soarele apune deja în jur de ora 16:00 în luna decembrie.",
+              "Atenție la porțiunile înghețate de pe potecile nepavate din parcuri.",
+              "O cană termică cu ceai este partenerul ideal pe metereze."
+            ],
+            "en": [
+              "Wear thermal layers for the walk along the fortress ramparts.",
+              "Sunset occurs as early as 16:00 during the month of December.",
+              "Watch out for icy patches on unpaved paths in the parks.",
+              "A thermal flask with hot tea is the perfect companion on the walls."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -582,6 +782,206 @@
           "Some streets in the center are one-way for cars, pay attention to signs.",
           "Always lock your bike, even for short stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet im Madsby Legepark, wo die Wege bei Regen etwas matschig sein können. In der historischen Ministadt lassen wir die Räder kurz stehen, um die Details im Regen zu bewundern. Die Fahrt über die Wälle erfordert Vorsicht auf nassem Laub, bietet aber eine schnelle Verbindung zum Zentrum. Der Tag endet mit einer windigen Fahrt zum Strand, wo die Ostsee unruhig ans Ufer schlägt.",
+            "hu": "A kerékpártúra a Madsby Legeparkban indul, ahol az utak esőben kissé sárosak lehetnek. A történelmi minivárosnál rövid pihenőt tartunk, megcsodálva az esőáztatta maketteket. A sáncokon való tekerés figyelmet igényel a vizes levelek miatt, de gyors összeköttetést ad a belvároshoz. A nap a szeles tengerparti tekeréssel zárul, ahol a nyugtalan Keleti-tenger hullámai csapkodnak.",
+            "ro": "Turul cu bicicleta începe în Madsby Legepark, unde drumurile pot fi noroioase pe ploaie. La orașul istoric în miniatură lăsăm bicicletele pentru a admira detaliile prin ploaie. Drumul peste metereze necesită atenție la frunzele ude, dar oferă o conexiune rapidă cu centrul. Ziua se încheie cu o cursă vântoasă spre plajă, unde Marea Baltică lovește neliniștită țărmul.",
+            "en": "The bike tour starts at Madsby Legepark, where paths can get a bit muddy in the rain. At the Historical Mini-Town, we leave the bikes briefly to admire the details through the raindrops. Cycling over the ramparts requires care due to wet leaves but provides a quick link to the center. The day ends with a windy ride to the beach, where the restless Baltic Sea crashes against the shore."
+          },
+          "stops": [
+            {
+              "name": "Madsby Legepark (Play Park)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen in den Kurven der Parkwege.",
+                "hu": "Ügyelj a tócsákra a parki utak kanyarjaiban.",
+                "ro": "Atenție la bălțile din curbele drumurilor din parc.",
+                "en": "Watch out for puddles in the bends of the park paths."
+              }
+            },
+            {
+              "name": "The Historical Mini-Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer nahe dem Eingangsbereich.",
+                "hu": "Használd a bejárat közeli kerékpártámaszokat.",
+                "ro": "Folosiți rastelele de biciclete de lângă zona de intrare.",
+                "en": "Use the bike racks located near the entrance area."
+              }
+            },
+            {
+              "name": "Fredericia Ramparts",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Untergrund und Laub.",
+                "hu": "Vigyázz a fékezéssel a vizes talajon és a leveleken.",
+                "ro": "Atenție la frânare pe solul ud și pe frunze.",
+                "en": "Be careful when braking on wet ground and fallen leaves."
+              }
+            },
+            {
+              "name": "The Valiant Soldier Statue",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; halten Sie Abstand zu den nassen Ketten der Umzäunung.",
+                "hu": "Rövid megálló; tarts távolságot a kerítés vizes láncaitól.",
+                "ro": "Oprire scurtă; păstrați distanța față de lanțurile ude ale gardului.",
+                "en": "Short stop; keep a distance from the wet chains of the fence."
+              }
+            },
+            {
+              "name": "The Citadel (Kastellet)",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad windgeschützt hinter einer Mauer ab.",
+                "hu": "Támaszd le a bringát a szélvédett falak mögé.",
+                "ro": "Parcați bicicleta la adăpost de vânt în spatele unui zid.",
+                "en": "Park your bike behind a wall to shield it from the wind."
+              }
+            },
+            {
+              "name": "The White Water Tower",
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad gut, der Wind kann es umwerfen.",
+                "hu": "Zárd le jól a gépet, az erős szél felboríthatja.",
+                "ro": "Asigurați bine bicicleta, vântul o poate răsturna.",
+                "en": "Secure your bike well, as the wind can blow it over."
+              }
+            },
+            {
+              "name": "Østerstrand Beach",
+              "tip_5lang": {
+                "de": "Waschen Sie Sand und Salz nach der Tour vom Fahrrad ab.",
+                "hu": "A túra után mosd le a homokot és a sót a bicikliről.",
+                "ro": "Spălați nisipul și sarea de pe bicicletă după tur.",
+                "en": "Wash off the sand and salt from your bike after the tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein Regenponcho schützt beim Radfahren besser als ein Schirm.",
+              "Prüfen Sie Ihre Bremsen, da sie auf nassen Felgen weniger greifen.",
+              "Vermeiden Sie das Befahren von tiefem Schlamm in Madsby.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar."
+            ],
+            "hu": [
+              "A kerékpáros esőponchó jobb védelmet nyújt, mint az esernyő.",
+              "Ellenőrizd a fékeket, mert vizes felnin lassabban fognak.",
+              "Kerüld a mély sarat a Madsby park területén.",
+              "A sárvédő elengedhetetlen kiegészítő ilyen időben."
+            ],
+            "ro": [
+              "Pelerina de ploaie oferă o protecție mai bună decât umbrela pe bicicletă.",
+              "Verificați frânele, deoarece prind mai greu pe jantele ude.",
+              "Evitați noroiul adânc în parcul Madsby.",
+              "Aripile la bicicletă sunt indispensabile pe acest timp."
+            ],
+            "en": [
+              "A rain poncho protects you better than an umbrella while cycling.",
+              "Check your brakes, as they are less effective on wet rims.",
+              "Avoid riding through deep mud in the Madsby park area.",
+              "Mudguards on your bike are essential in this weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Rad durch das winterliche Fredericia: Der Morgen beginnt frostig im Madsby Park. Die Fahrt zur Ministadt führt durch eine stille, kalte Landschaft. Auf den Wällen weht ein eisiger Wind, der die Fahrt zum Soldaten-Denkmal zu einer echten Herausforderung macht. Nach einem kurzen Halt am Kastellet endet die Tour am winterlichen Østerstrand, wo der Wind vom Kleinen Belt her eiskalt bläst.",
+            "hu": "Kerékpárral a téli Fredericián át: a reggel fagyosan indul a Madsby Parkban. A minivároshoz vezető út csendes, hideg tájon visz keresztül. A sáncokon jeges szél fúj, ami igazi kihívássá teszi a tekerést a katonaszoborig. A Kastelletnél tett rövid megálló után a túra a téli Østerstrandon zárul, ahol a tenger felől metsző hideg árad.",
+            "ro": "Cu bicicleta prin Fredericia hibernală: dimineața începe geroasă în Parcul Madsby. Drumul spre orașul în miniatură trece printr-un peisaj tăcut și rece. Pe metereze bate un vânt înghețat, făcând drumul spre monumentul soldatului o adevărată provocare. După o scurtă oprire la Kastellet, turul se încheie pe plaja Østerstrand, unde vântul de pe mare este de gheață.",
+            "en": "Cycling through wintery Fredericia: the morning starts frosty at Madsby Park. The ride to the Mini-Town takes you through a silent, cold landscape. On the ramparts, an icy wind blows, making the ride to the Soldier monument a real challenge. After a brief stop at the Kastellet, the tour ends at the wintery Østerstrand, where the wind from the Little Belt is freezing."
+          },
+          "stops": [
+            {
+              "name": "Madsby Legepark (Play Park)",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, um die Lenkerkontrolle zu behalten.",
+                "hu": "Viselj meleg kesztyűt, hogy ne gémberedjen el a kezed a kormányon.",
+                "ro": "Purtați mănuși groase pentru a menține controlul asupra ghidonului.",
+                "en": "Wear warm gloves to maintain good control of your handlebars."
+              }
+            },
+            {
+              "name": "The Historical Mini-Town",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrorener Nässe auf dem Parkplatz.",
+                "hu": "Vigyázz a felfagyásokkal a parkoló területén.",
+                "ro": "Atenție la gheața formată pe suprafețele din parcare.",
+                "en": "Watch out for black ice on the parking lot surfaces."
+              }
+            },
+            {
+              "name": "Fredericia Ramparts",
+              "tip_5lang": {
+                "de": "Fahren Sie defensiv, da die Kurven vereist sein können.",
+                "hu": "Tekerj óvatosan, mert a kanyarok jegesek lehetnek.",
+                "ro": "Mergeți prudent, deoarece curbele pot fi înghețate.",
+                "en": "Ride defensively as the corners can be icy."
+              }
+            },
+            {
+              "name": "The Valiant Soldier Statue",
+              "tip_5lang": {
+                "de": "Das Metall des Denkmals ist bei Berührung extrem kalt.",
+                "hu": "A szobor féme érintésre rendkívül hideg, vigyázz vele.",
+                "ro": "Metalul monumentului este extrem de rece la atingere.",
+                "en": "The metal of the monument is extremely cold to the touch."
+              }
+            },
+            {
+              "name": "The Citadel (Kastellet)",
+              "tip_5lang": {
+                "de": "Der Boden kann hier besonders glatt und uneben sein.",
+                "hu": "A talaj itt különösen csúszós és egyenetlen lehet.",
+                "ro": "Solul poate fi aici deosebit de alunecos și denivelat.",
+                "en": "The ground here can be particularly slippery and uneven."
+              }
+            },
+            {
+              "name": "The White Water Tower",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Licht Ihres Rades schon ab 15:30 Uhr.",
+                "hu": "Használd a bicikli lámpáját már 15:30-tól.",
+                "ro": "Folosiți lumina bicicletei deja de la ora 15:30.",
+                "en": "Use your bike lights starting from as early as 15:30."
+              }
+            },
+            {
+              "name": "Østerstrand Beach",
+              "tip_5lang": {
+                "de": "Verkürzen Sie den Aufenthalt wegen der extremen Kälte am Wasser.",
+                "hu": "A vízparti extrém hideg miatt rövidítsd le az itt tartózkodást.",
+                "ro": "Scurtați șederea din cauza frigului extrem de lângă apă.",
+                "en": "Shorten your stay due to the extreme cold by the water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip).",
+              "Vermeiden Sie bei Glatteis das Fahren auf den steilen Wällen.",
+              "Ein tieferer Reifendruck gibt auf winterlichen Wegen besseren Halt."
+            ],
+            "hu": [
+              "Győződj meg róla, hogy a világításod tökéletesen működik.",
+              "Öltözz több rétegben (hagyma-elv).",
+              "Jegesedés esetén kerüld a meredekebb sáncokon való tekerést.",
+              "Az alacsonyabb guminyomás jobb tapadást ad a téli utakon."
+            ],
+            "ro": [
+              "Asigurați-vă că luminile bicicletei funcționează impecabil.",
+              "Îmbrăcați-vă în mai multe straturi (principiul cepei).",
+              "Evitați mersul pe meterezele abrupte în caz de polei.",
+              "O presiune mai mică în pneuri oferă o aderență mai bună pe drumurile de iarnă."
+            ],
+            "en": [
+              "Ensure your bike lighting is functioning perfectly.",
+              "Wear several layers of clothing (the onion principle).",
+              "Avoid riding on the steeper ramparts if there is black ice.",
+              "Lower tire pressure provides better grip on wintery paths."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -792,6 +1192,206 @@
           "Traffic in the city center can be tight; parking on the edge and walking is often faster.",
           "Fill up on gas outside the city center for better prices."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem mit dem Auto durch das verregnete Fredericia: Wir starten im Madsby Legepark, wo man nah am Eingang parken kann. Zur historischen Ministadt ist es nur eine kurze Fahrt durch den Regen. Im Stadtzentrum parken wir im Trockenen und besuchen die Kirche. Den Tag lassen wir entspannt im Auto am Østerstrand ausklingen, mit Blick auf die graue Ostsee durch die nassen Scheiben.",
+            "hu": "Kényelmesen, autóval az esős Fredericián át: a Madsby Legeparknál kezdünk, ahol közel lehet parkolni a bejárathoz. A minivároshoz csak rövid út vezet az esőben. A belvárosban fedett helyen parkolunk, majd meglátogatjuk a templomot. A napot a tengerparton zárjuk, az autó melegéből figyelve a szürke tengert a vizes ablaküvegeken keresztül.",
+            "ro": "Confortabil cu mașina prin Fredericia ploioasă: începem la Madsby Legepark, unde se poate parca aproape de intrare. Spre orașul în miniatură este doar o scurtă cursă prin ploaie. În centrul orașului parcăm la adăpost și vizităm biserica. Încheiem ziua relaxat în mașină la Østerstrand, privind marea cenușie prin geamurile ude.",
+            "en": "Comfortably by car through rainy Fredericia: we start at Madsby Legepark, where you can park close to the entrance. It's just a short drive through the rain to the Historical Mini-Town. In the city center, we park in a dry spot and visit the church. We end the day relaxing in the car at Østerstrand, watching the grey Baltic Sea through the wet windows."
+          },
+          "stops": [
+            {
+              "name": "Madsby Legepark (Play Park)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Parkplatz, um Schlamm am Auto zu vermeiden.",
+                "hu": "Használd a kövezett parkolót, hogy elkerüld a sarat.",
+                "ro": "Folosiți parcarea pavată pentru a evita noroiul pe mașină.",
+                "en": "Use the paved parking lot to avoid getting mud on your car."
+              }
+            },
+            {
+              "name": "The Historical Mini-Town",
+              "tip_5lang": {
+                "de": "Der Weg vom Parkplatz zum Eingang ist kurz und schnell zu gehen.",
+                "hu": "A parkolótól a bejáratig tartó út rövid és gyorsan megtehető.",
+                "ro": "Drumul de la parcare la intrare este scurt și rapid de parcurs.",
+                "en": "The walk from the parking lot to the entrance is short and quick."
+              }
+            },
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Zentrales Parken ermöglicht kurze Wege zu den Sehenswürdigkeiten.",
+                "hu": "A központi parkolás rövid sétákat tesz lehetővé a látnivalókhoz.",
+                "ro": "Parcarea centrală permite plimbări scurte către obiective.",
+                "en": "Central parking allows for short walks to the main sights."
+              }
+            },
+            {
+              "name": "Trinitatis Church",
+              "tip_5lang": {
+                "de": "Ideal für einen längeren Aufenthalt, während es draußen regnet.",
+                "hu": "Ideális egy hosszabb látogatásra, amíg odakint esik az eső.",
+                "ro": "Ideal pentru o ședere mai lungă în timp ce afară plouă.",
+                "en": "Ideal for a longer stay while it is raining outside."
+              }
+            },
+            {
+              "name": "The Soldier & Ramparts",
+              "tip_5lang": {
+                "de": "Ein schneller Ausstieg für ein Foto am Soldaten ist auch bei Regen möglich.",
+                "hu": "Egy gyors kiszállás a szoborhoz esőben is belefér.",
+                "ro": "O ieșire rapidă pentru o poză la soldat este posibilă și pe ploaie.",
+                "en": "A quick hop out for a photo at the soldier is possible even in rain."
+              }
+            },
+            {
+              "name": "Drive to the Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt entlang der Küste bei eingeschaltetem Scheibenwischer.",
+                "hu": "Élvezd a parti autózást bekapcsolt ablaktörlők mellett.",
+                "ro": "Bucurați-vă de drumul de-a lungul coastei cu ștergătoarele pornite.",
+                "en": "Enjoy the drive along the coast with your wipers on."
+              }
+            },
+            {
+              "name": "Østerstrand Beach",
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick aufs Meer, um im Trockenen zu bleiben.",
+                "hu": "Parkolj a tenger felé fordulva, hogy az autóban maradhass.",
+                "ro": "Parcați cu fața spre mare pentru a rămâne la adăpost.",
+                "en": "Park facing the sea to stay dry while enjoying the view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Straßen nahe der Küste.",
+              "Halten Sie einen Regenschirm im Auto für die kurzen Wege bereit.",
+              "Die Parkplätze im Zentrum können bei Regen sehr begehrt sein.",
+              "Nutzen Sie die beheizbare Heckscheibe für klare Sicht nach hinten."
+            ],
+            "hu": [
+              "Ügyelj a vízátfolyásokra a tengerparti utakon.",
+              "Tarts esernyőt az autóban a rövid sétákhoz.",
+              "A központi parkolók esőben hamar megtelhetnek.",
+              "Használd a hátsó ablakfűtést a jobb kilátás érdekében."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile de lângă coastă.",
+              "Țineți o umbrelă în mașină pentru drumurile scurte pe jos.",
+              "Parcările din centru pot fi foarte solicitate pe timp de ploaie.",
+              "Folosiți dezaburirea lunetei pentru o vizibilitate clară în spate."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the roads near the coast.",
+              "Keep an umbrella in the car for the short walks to sights.",
+              "Central parking spots can be in high demand when it rains.",
+              "Use the rear window heater to maintain clear visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintertour mit dem Auto: Wir starten im Madsby Park, während die Heizung das Auto aufwärmt. Zur Ministadt geht es über geräumte Straßen durch das winterliche Fredericia. Im Zentrum parken wir nah an der Kirche, um die Kälte draußen zu lassen. Der Tag endet am Østerstrand, wo wir den Sonnenuntergang im Warmen genießen, während draußen der frostige Wind über den Strand fegt.",
+            "hu": "Téli autós túra: a Madsby Parknál kezdünk, miközben a fűtés bemelegíti az utasteret. A minivároshoz takarított utakon haladunk át a téli városon. A belvárosban a templom közelében parkolunk, hogy elkerüljük a kinti hideget. A nap a tengerparton zárul, ahol a meleg autóból nézzük a naplementét, miközben odakint jeges szél söpör végig a homokon.",
+            "ro": "Tur de iarnă cu mașina: începem în Parcul Madsby, în timp ce încălzirea face interiorul plăcut. Spre orașul în miniatură mergem pe drumuri deszăpezite prin Fredericia hibernală. În centru parcăm aproape de biserică pentru a evita frigul de afară. Ziua se încheie la Østerstrand, unde admirăm apusul la căldură, în timp ce vântul înghețat mătură plaja.",
+            "en": "Winter tour by car: we start in Madsby Park while the heater warms up the cabin. We drive to the Mini-Town on cleared roads through wintery Fredericia. In the center, we park close to the church to escape the outside cold. The day ends at Østerstrand, where we watch the sunset from the warmth of the car as the frosty wind sweeps across the beach."
+          },
+          "stops": [
+            {
+              "name": "Madsby Legepark (Play Park)",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járasd feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul să meargă inutil în staționare.",
+                "en": "Avoid idling the engine unnecessarily while stationary."
+              }
+            },
+            {
+              "name": "The Historical Mini-Town",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Frost stellenweise glatt sein.",
+                "hu": "A parkoló fagyban helyenként csúszós lehet.",
+                "ro": "Parcarea poate fi alunecoasă pe alocuri în caz de îngheț.",
+                "en": "The parking lot can be slippery in places when frozen."
+              }
+            },
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "In der Kälte ist ein kurzer Weg zum Ziel besonders angenehm.",
+                "hu": "A hidegben a rövid séta a célpontig különösen kellemes.",
+                "ro": "În frig, un drum scurt până la destinație este foarte plăcut.",
+                "en": "In the cold, a short walk to your destination is very welcome."
+              }
+            },
+            {
+              "name": "Trinitatis Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch, um sich vor der Weiterfahrt aufzuwärmen.",
+                "hu": "Használd ki a látogatást egy kis melegedésre a továbbutazás előtt.",
+                "ro": "Profități de vizită pentru a vă încălzi înainte de a pleca mai departe.",
+                "en": "Use the visit to warm up before continuing your drive."
+              }
+            },
+            {
+              "name": "The Soldier & Ramparts",
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie das Denkmal auch vom Auto aus sehen können.",
+                "hu": "Parkolj úgy, hogy a szobrot az autóból is láthasd.",
+                "ro": "Parcați astfel încât să puteți vedea monumentul și din mașină.",
+                "en": "Park so that you can view the monument from inside the car."
+              }
+            },
+            {
+              "name": "Drive to the Beach",
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefstehende Sonne, die im Winter stark blenden kann.",
+                "hu": "Ügyelj az alacsony napállásra, ami télen erősen vakíthat.",
+                "ro": "Atenție la soarele jos, care poate fi orbitor pe timp de iarnă.",
+                "en": "Watch out for the low sun, which can be very blinding in winter."
+              }
+            },
+            {
+              "name": "Østerstrand Beach",
+              "tip_5lang": {
+                "de": "Bleiben Sie im warmen Auto, um den Blick auf das Eis zu genießen.",
+                "hu": "Maradj a meleg autóban és élvezd a kilátást a jeges partra.",
+                "ro": "Rămâneți în mașina caldă pentru a savura vederea spre țărmul înghețat.",
+                "en": "Stay in the warm car to enjoy the view of the icy shore."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind für die dänischen Winterstraßen Pflicht.",
+              "Prüfen Sie den Frostschutz in Ihrer Scheibenwaschanlage.",
+              "Die Batterie kann bei extremer Kälte schneller an Leistung verlieren.",
+              "Halten Sie Eiskratzer und Schneebesen im Auto bereit."
+            ],
+            "hu": [
+              "A téli gumi kötelező a dán utakon ilyenkor.",
+              "Ellenőrizd a fagyállót a szélvédőmosó tartályban.",
+              "Az akkumulátor teljesítménye nagy hidegben gyorsabban csökkenhet.",
+              "Tarts jégkaparót és hóseprűt az autóban."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii pe drumurile daneze acum.",
+              "Verificați antigelul din lichidul de parbriz.",
+              "Bateria poate pierde din putere mai repede la frig extrem.",
+              "Țineți o racletă și o perie de zăpadă în mașină."
+            ],
+            "en": [
+              "Winter tires are mandatory for Danish roads in this season.",
+              "Check the antifreeze level in your windshield washer fluid.",
+              "Car batteries can lose power faster in extreme cold.",
+              "Keep an ice scraper and a snow brush ready in your car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -977,6 +1577,188 @@
           "Buses may not stop automatically at every stop. Press the 'Stop' button.",
           "Bus frequency might be lower on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ankunft am Bahnhof Fredericia im Regen. Mit dem Bus geht es schnell ins Zentrum zum Soldaten-Denkmal. Während der Regenschauer bietet die Trinitatis-Kirche einen trockenen Aufenthaltsort. Ein weiterer Bus bringt uns zum Madsby Park, wo wir zwischen den Schauern die Natur genießen. Den Tag beenden wir mit einer kurzen Busfahrt zum Østerstrand, bevor es zurück zum Bahnhof geht.",
+            "hu": "Érkezés a fredericiai vasútállomásra esőben. Busszal gyorsan a belvárosba érünk a katonaszoborhoz. A záporok alatt a Trinitatis templom nyújt száraz menedéket. Egy másik busz visz ki a Madsby parkba, ahol két eső között élvezzük a természetet. A napot rövid buszozással zárjuk a tengerpartra, mielőtt visszatérnénk az állomásra.",
+            "ro": "Sosire la gara din Fredericia pe ploaie. Luăm autobuzul rapid spre centru până la monumentul soldatului. În timpul averselor, Biserica Trinitatis oferă un loc uscat de popas. Un alt autobuz ne duce la parcul Madsby, unde ne bucurăm de natură între reprizele de ploaie. Încheiem ziua cu o scurtă cursă spre Østerstrand înainte de a reveni la gară.",
+            "en": "Arrival at Fredericia station in the rain. A bus takes us quickly to the center to the Soldier monument. During showers, Trinitatis Church offers a dry sanctuary. Another bus brings us to Madsby Park, where we enjoy nature between rain spells. We end the day with a short bus ride to Østerstrand before returning to the station."
+          },
+          "stops": [
+            {
+              "name": "Fredericia Station & Bus to Center",
+              "tip_5lang": {
+                "de": "Warten Sie im Bahnhofsgebäude, bis Ihr Bus angezeigt wird.",
+                "hu": "Várj az állomás épületében, amíg meg nem érkezik a buszod.",
+                "ro": "Așteptați în clădirea gării până când este afișat autobuzul.",
+                "en": "Wait inside the station building until your bus is shown."
+              }
+            },
+            {
+              "name": "The Soldier & Ramparts",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nahe am Denkmal für minimale Wege im Regen.",
+                "hu": "A buszmegálló közel van a szoborhoz, így nem kell sokat ázni.",
+                "ro": "Stația de autobuz este aproape de monument pentru un drum minim prin ploaie.",
+                "en": "The bus stop is close to the monument for minimal walking in the rain."
+              }
+            },
+            {
+              "name": "Trinitatis Church",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Zeit bis zum nächsten Bus trocken zu überbrücken.",
+                "hu": "Jó hely az idő eltöltésére a következő busz érkezéséig.",
+                "ro": "Un loc bun pentru a aștepta următorul autobuz la adăpost.",
+                "en": "A good place to spend time until the next bus arrives."
+              }
+            },
+            {
+              "name": "Bus to Madsby Legepark",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Wartehäuschen an der Haltestelle zum Unterstellen.",
+                "hu": "Használd a megálló váróhelyiségét az eső elleni védekezésre.",
+                "ro": "Folosiți adăpostul din stație pentru a vă feri de ploaie.",
+                "en": "Use the shelter at the bus stop to stay out of the rain."
+              }
+            },
+            {
+              "name": "Madsby Legepark",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es überdachte Plätze für eine Pause.",
+                "hu": "A közelben fedett helyek is vannak egy rövid pihenőre.",
+                "ro": "Există locuri acoperite în apropiere pentru o pauză.",
+                "en": "There are covered areas nearby for a brief rest."
+              }
+            },
+            {
+              "name": "Bus to Østerstrand",
+              "tip_5lang": {
+                "de": "Die Busse sind klimatisiert und bieten Schutz vor der Feuchtigkeit.",
+                "hu": "A buszok klimatizáltak és védenek a párás időtől.",
+                "ro": "Autobuzele sunt climatizate și oferă protecție împotriva umidității.",
+                "en": "The buses are climate-controlled and protect you from the damp."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Rejseplanen-App für Echtzeit-Infos bei Wetterverzögerungen.",
+              "Die meisten Bushaltestellen im Zentrum haben ein Dach.",
+              "Kaufen Sie Tickets vorab digital, um Wartezeiten im Regen zu vermeiden.",
+              "Die Busse fahren regelmäßig und sind der beste Schutz vor Nässe."
+            ],
+            "hu": [
+              "Használd a Rejseplanen alkalmazást az eső miatti esetleges késésekhez.",
+              "A legtöbb belvárosi buszmegálló fedett.",
+              "Vegyél jegyet digitálisan, hogy ne kelljen az esőben sorban állnod.",
+              "A buszok rendszeresen járnak és a legjobb védelmet nyújtják az eső ellen."
+            ],
+            "ro": [
+              "Folosiți aplicația Rejseplanen pentru info în timp real despre întârzieri.",
+              "Majoritatea stațiilor de autobuz din centru sunt acoperite.",
+              "Cumpărați bilete digital pentru a evita așteptarea în ploaie.",
+              "Autobuzele circulă regulat și sunt cea mai bună protecție contra ploii."
+            ],
+            "en": [
+              "Use the Rejseplanen app for real-time info during weather delays.",
+              "Most bus stops in the city center have a roof.",
+              "Buy tickets digitally to avoid waiting in the rain at machines.",
+              "Buses run regularly and are your best protection against the wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Start am Bahnhof Fredericia. Der geheizte Bus bringt uns ins frostige Stadtzentrum. Nach einem Besuch des Soldaten-Denkmals und der Kirche wärmen wir uns im Bus zum Madsby Park wieder auf. Die winterliche Stille des Parks ist beeindruckend, bevor wir mit dem nächsten Bus zum Østerstrand fahren. Wir genießen die klare Seeluft kurz und kehren dann mit dem ÖPNV zurück zum warmen Bahnhof.",
+            "hu": "Téli kezdés a fredericiai állomáson. A fűtött busz visz be a fagyos belvárosba. A katonaszobor és a templom meglátogatása után a Madsby parkba tartó buszon melegszünk fel újra. A park téli csendje lenyűgöző, mielőtt a következő busszal a tengerpartra indulnánk. Rövid ideig élvezzük a friss tengeri levegőt, majd visszatérünk a meleg állomásra.",
+            "ro": "Început de iarnă la gara Fredericia. Autobuzul încălzit ne duce în centrul înghețat al orașului. După o vizită la monument și la biserică, ne încălzim din nou în autobuzul spre Parcul Madsby. Liniștea hibernală a parcului este impresionantă, înainte de a pleca spre plajă. Ne bucurăm scurt de aerul sărat, apoi revenim cu transportul public în gara călduroasă.",
+            "en": "Winter start at Fredericia station. The heated bus takes us into the frosty city center. After visiting the Soldier monument and the church, we warm up again on the bus to Madsby Park. The winter silence of the park is impressive before we take the next bus to Østerstrand. We briefly enjoy the crisp sea air, then return to the warm station via public transport."
+          },
+          "stops": [
+            {
+              "name": "Fredericia Station & Bus to Center",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet beheizte Wartesäle für Reisende.",
+                "hu": "Az állomáson fűtött várótermek állnak rendelkezésre.",
+                "ro": "Gara oferă săli de așteptare încălzite pentru călători.",
+                "en": "The station offers heated waiting rooms for travelers."
+              }
+            },
+            {
+              "name": "The Soldier & Ramparts",
+              "tip_5lang": {
+                "de": "Planen Sie kurze Wege ein, um nicht zu lange in der Kälte zu stehen.",
+                "hu": "Tervezz rövid sétákat, hogy ne tölts túl sok időt a hidegben.",
+                "ro": "Planificați drumuri scurte pentru a nu sta prea mult în frig.",
+                "en": "Plan for short walks to avoid standing in the cold for too long."
+              }
+            },
+            {
+              "name": "Trinitatis Church",
+              "tip_5lang": {
+                "de": "Eine ideale Aufwärmstation zwischen zwei Busfahrten.",
+                "hu": "Ideális melegedőpont két buszjárat között.",
+                "ro": "O stație ideală pentru încălzire între două curse de autobuz.",
+                "en": "An ideal warm-up station between two bus rides."
+              }
+            },
+            {
+              "name": "Bus to Madsby Legepark",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter meist sehr angenehm beheizt.",
+                "hu": "A buszok télen általában kellemesen fűtöttek.",
+                "ro": "Autobuzele sunt de obicei încălzite foarte plăcut iarna.",
+                "en": "Buses are usually very comfortably heated in winter."
+              }
+            },
+            {
+              "name": "Madsby Legepark",
+              "tip_5lang": {
+                "de": "Halten Sie sich in Bewegung, um die Körperwärme zu speichern.",
+                "hu": "Maradj mozgásban, hogy megőrizd a testhőmérsékleted.",
+                "ro": "Rămâneți în mișcare pentru a menține căldura corporală.",
+                "en": "Keep moving to help maintain your body heat."
+              }
+            },
+            {
+              "name": "Bus to Østerstrand",
+              "tip_5lang": {
+                "de": "Beachten Sie, dass Busse im Winter bei Glätte etwas langsamer fahren.",
+                "hu": "Számolj vele, hogy jeges utakon a buszok lassabban haladhatnak.",
+                "ro": "Rețineți că autobuzele merg mai încet iarna în caz de polei.",
+                "en": "Keep in mind that buses may travel slower on icy winter roads."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warten Sie bei Kälte lieber drinnen in Geschäften oder Cafés.",
+              "Die Fahrpläne können im Winter leicht von der Norm abweichen.",
+              "Tragen Sie warme Kleidung für die Wartezeiten an den Haltestellen.",
+              "Busfahren ist im Winter die wärmste Art der Fortbewegung."
+            ],
+            "hu": [
+              "Nagy hidegben inkább üzletekben vagy kávézókban várj a buszra.",
+              "A menetrendek télen kismértékben eltérhetnek a megszokottól.",
+              "Öltözz melegen a megállókban való várakozáshoz.",
+              "A buszozás télen a legmelegebb közlekedési mód Fredericiában."
+            ],
+            "ro": [
+              "În caz de frig, așteptați mai degrabă în magazine sau cafenele.",
+              "Orarele pot devia ușor de la normă pe timp de iarnă.",
+              "Purtați haine groase pentru perioadele de așteptare în stații.",
+              "Mersul cu autobuzul este cea mai călduroasă metodă de deplasare iarna."
+            ],
+            "en": [
+              "When it is cold, prefer waiting inside shops or cafes near the stop.",
+              "Timetables may slightly deviate from the norm during winter.",
+              "Wear warm clothes for the waiting times at bus stops.",
+              "Taking the bus is the warmest way to get around in winter."
+            ]
+          }
+        }
       }
     }
   }

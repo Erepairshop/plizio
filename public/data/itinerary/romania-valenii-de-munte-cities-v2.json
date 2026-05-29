@@ -386,6 +386,206 @@
           "Check the opening hours of the museums in advance as they can vary.",
           "Most attractions are close to each other, making this walking tour ideal."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen unter den Arkaden am Hauptplatz. Mittags bieten die Ausstellungen im Nicolae-Iorga-Museum perfekten Schutz vor dem Guss. Nachmittags erkunden Sie die überdachten Schätze des Ethnografischen und des Naturkundemuseums. Am Abend genießen Sie die frische, reine Luft im Stadtpark, während der Regen sanft in die Blätter des Teleajen-Tals trommelt.",
+            "hu": "A reggelt a Főtéren kezdjük, az eső elől a közeli üzletek ereszei alá húzódva. Délben a Nicolae Iorga Emlékmúzeum enteriőrjei nyújtanak száraz menedéket. Délután a Néprajzi és a Természettudományi Múzeum belső tárlatai tökéletes esős programot kínálnak. Az estét a park fái alatt zárjuk, ahol az eső utáni friss földillat és a Teleajen-völgy párás nyugalma fogad.",
+            "ro": "Începeți dimineața ploioasă în Piața Centrală, căutând adăpost sub arcadele clădirilor. La prânz, vizitați Muzeul Memorial Nicolae Iorga pentru a rămâne la adăpost. După-amiaza este dedicată muzeelor Etnografic și de Științe Naturale, ideale pentru vreme rea. Seara, o scurtă plimbare prin Parcul Central vă va permite să simțiți prospețimea aerului de munte după ploaie.",
+            "en": "Start your rainy morning at Central Square, using the nearby shops for cover. Midday is perfect for the indoor exhibits of the Nicolae Iorga Memorial Museum. In the afternoon, stay dry while exploring the Ethnographic and Natural Science museums. End your day with a brisk walk in Central Park, enjoying the petrichor and the misty atmosphere of the Teleajen Valley."
+          },
+          "stops": [
+            {
+              "name": "Central Square",
+              "tip_5lang": {
+                "de": "Unter den Arkaden der Geschäfte bleiben Sie trocken.",
+                "hu": "Az üzletsorok árkádjai alatt védve maradhat az esőtől.",
+                "ro": "Folosiți arcadele magazinelor pentru a rămâne uscat.",
+                "en": "Use the shop arcades to stay dry while observing the square."
+              }
+            },
+            {
+              "name": "Nicolae Iorga Monument",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, dann schnell ins nahegelegene Museum.",
+                "hu": "Gyors fotó, majd irány a közeli, fedett múzeum.",
+                "ro": "Oprire rapidă pentru poze, apoi intrați în muzeu.",
+                "en": "Quick photo stop before heading into the nearby museum."
+              }
+            },
+            {
+              "name": "Nicolae Iorga Memorial Museum",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Rückzugsort mit viel Geschichte.",
+                "hu": "Hangulatos, fedett menedék gazdag történelemmel.",
+                "ro": "Un refugiu cultural perfect împotriva ploii.",
+                "en": "A cozy, indoor cultural retreat rich in history."
+              }
+            },
+            {
+              "name": "Ethnographic Museum of the Teleajen Valley",
+              "tip_5lang": {
+                "de": "Große Innenausstellung, ideal für längere Regenschauer.",
+                "hu": "Tágas belső terek, ideális hosszabb záporok idején.",
+                "ro": "Spațiu interior generos, ideal pentru reprize de ploaie.",
+                "en": "Spacious interior, perfect for hiding from long showers."
+              }
+            },
+            {
+              "name": "Văleni Monastery Church",
+              "tip_5lang": {
+                "de": "Die Vorhalle bietet Schutz beim Bewundern der Malereien.",
+                "hu": "A templom előtere védelmet nyújt a freskók csodálatához.",
+                "ro": "Pridvorul bisericii oferă adăpost în timp ce admirați pictura.",
+                "en": "The church porch offers shelter while admiring the frescoes."
+              }
+            },
+            {
+              "name": "Natural Science Museum of the Teleajen Valley",
+              "tip_5lang": {
+                "de": "Spannende Indoor-Exponate zur lokalen Flora und Fauna.",
+                "hu": "Izgalmas beltéri kiállítás a helyi élővilágról.",
+                "ro": "Expoziții interioare captivante despre fauna locală.",
+                "en": "Engaging indoor exhibits about local flora and fauna."
+              }
+            },
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen bieten natürlichen Regenschutz.",
+                "hu": "A sűrű lombozat természetes védelmet nyújt a szemerkélő esőben.",
+                "ro": "Coroanele dese ale copacilor oferă protecție naturală.",
+                "en": "Dense tree canopies provide natural protection from drizzle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Wege zwischen den Museen.",
+              "Nutzen Sie die Museen als Etappenziele, um trocken zu bleiben.",
+              "Ein Taschenschirm ist bei dem Wind im Tal unverzichtbar.",
+              "Die Cafés am Hauptplatz sind ideale Wartepunkte bei Starkregen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a múzeumok közötti szakaszokon.",
+              "Használja a múzeumokat állomásként a szárazon maradáshoz.",
+              "Az összecsukható esernyő kötelező a völgyben fújó szél miatt.",
+              "A Főtér kávézói kiválóak a nagyobb záporok kivárására."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă între muzee.",
+              "Folosiți muzeele ca puncte de refugiu pentru a rămâne uscat.",
+              "O umbrelă rezistentă este necesară din cauza vântului de pe vale.",
+              "Cafenelele din centru sunt ideale pentru a aștepta oprirea ploii."
+            ],
+            "en": [
+              "Wear waterproof shoes for the walks between museums.",
+              "Use the museum sequence as shelters to stay dry.",
+              "A sturdy umbrella is essential due to the valley winds.",
+              "Central Square cafes are great spots to wait out heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Hauptplatz weckt die Sinne. Mittags wärmen Sie sich in den holzgetäfelten Räumen des Iorga-Museums auf, die im Winter besonders behaglich wirken. Nachmittags bieten die Museen im Tal einen warmen Rückzugsort vor dem kalten Wind. Wenn die Dämmerung früh einsetzt, beleuchten die Laternen im Zentralpark den Schnee und schaffen eine magische Stille.",
+            "hu": "A fagyos reggel a Főtéren frissítően indul. Délben a Nicolae Iorga Múzeum faborítású szobái nyújtanak meghitt meleget a kinti hideg elől. Délután a néprajzi és természettudományi tárlatok melegében pihenhetünk. Mivel télen korán sötétedik, a park lámpafényei és a hófödte Teleajen-völgy látványa varázslatos és csendes estét ígér.",
+            "ro": "Dimineața geroasă în Piața Centrală oferă un aer curat și revigorant. La prânz, interiorul muzeului Iorga devine un refugiu călduros și primitor. După-amiaza, muzeele din vale vă protejează de vântul rece de iarnă. Deoarece se înserează devreme, luminile din Parcul Central creează o atmosferă magică peste zăpada proaspătă.",
+            "en": "Start your frosty morning at Central Square with a crisp walk. Midday is best spent in the warm, wood-panelled rooms of the Iorga Museum. Afternoon museum visits provide a cozy escape from the biting winter wind. As dusk falls early, the lights in Central Park illuminate the winter scenery, creating a magical and quiet end to your day."
+          },
+          "stops": [
+            {
+              "name": "Central Square",
+              "tip_5lang": {
+                "de": "Starten Sie mit einem heißen Getränk aus einer Bäckerei.",
+                "hu": "Kezdjen egy forró itallal a közeli pékségek egyikéből.",
+                "ro": "Începeți ziua cu o băutură caldă de la o patiserie locală.",
+                "en": "Start your tour with a hot drink from a local bakery."
+              }
+            },
+            {
+              "name": "Nicolae Iorga Monument",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf den Steinstufen rund um das Denkmal.",
+                "hu": "Vigyázat, a szobor körüli kőlépcsők csúszósak lehetnek.",
+                "ro": "Atenție la gheața de pe treptele din jurul monumentului.",
+                "en": "Be careful of ice on the stone steps around the monument."
+              }
+            },
+            {
+              "name": "Nicolae Iorga Memorial Museum",
+              "tip_5lang": {
+                "de": "Gut beheizte Räume laden zum längeren Verweilen ein.",
+                "hu": "A jól fűtött szobák hívogatóak a téli hidegben.",
+                "ro": "Încăperile bine încălzite sunt perfecte pentru o pauză.",
+                "en": "Well-heated rooms are perfect for a long, warm break."
+              }
+            },
+            {
+              "name": "Ethnographic Museum of the Teleajen Valley",
+              "tip_5lang": {
+                "de": "Bewundern Sie winterliche Trachten in den warmen Sälen.",
+                "hu": "Csodálja meg a téli népviseleteket a meleg termekben.",
+                "ro": "Admirați costumele populare de iarnă în sălile încălzite.",
+                "en": "Admire traditional winter costumes in the warm galleries."
+              }
+            },
+            {
+              "name": "Văleni Monastery Church",
+              "tip_5lang": {
+                "de": "In der Kirche herrscht eine andächtige, kühle Stille.",
+                "hu": "A templomban áhítatos, hűvös csend fogadja a látogatót.",
+                "ro": "În interiorul bisericii este o liniște rece și solemnă.",
+                "en": "The church interior is quiet, solemn, and quite cool."
+              }
+            },
+            {
+              "name": "Natural Science Museum of the Teleajen Valley",
+              "tip_5lang": {
+                "de": "Warmer Stopp vor dem letzten Spaziergang im Park.",
+                "hu": "Meleg pihenő a parkbeli utolsó séta előtt.",
+                "ro": "O oprire călduroasă înainte de plimbarea finală prin parc.",
+                "en": "A warm stop before your final walk in the park."
+              }
+            },
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Die Winterbeleuchtung geht bereits gegen 16:30 Uhr an.",
+                "hu": "A téli díszkivilágítás már délután fél 5 körül kigyúl.",
+                "ro": "Luminile de iarnă se aprind în jurul orei 16:30.",
+                "en": "Winter lights turn on around 4:30 PM, creating a cozy vibe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip für den Wechsel zw. Kälte und Wärme.",
+              "Die Museen schließen im Winter oft etwas früher, prüfen Sie die Zeiten.",
+              "Vorsicht vor gefrierender Nässe auf den Gehwegen am Nachmittag.",
+              "Sonnenuntergang ist bereits gegen 16:30 Uhr."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a kinti hideg és a benti meleg miatt.",
+              "A múzeumok télen korábban zárhatnak, érdemes előre ellenőrizni.",
+              "Délután vigyázzon a járdákon lefagyó pára miatti csúszásveszélyre.",
+              "A nap már délután fél 5 körül lemegy."
+            ],
+            "ro": [
+              "Îmbrăcați-vă stratificat pentru tranziția rece-cald.",
+              "Muzeele pot avea program scurt iarna, verificați orarul.",
+              "Atenție la poleiul care se poate forma pe trotuare după prânz.",
+              "Soarele apune devreme, în jurul orei 16:30."
+            ],
+            "en": [
+              "Dress in layers for the transition between cold air and heated rooms.",
+              "Museums might close earlier in winter; double-check the schedule.",
+              "Watch out for icy patches on sidewalks in the late afternoon.",
+              "Sunset occurs early, around 4:30 PM."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +966,206 @@
           "Always lock your bike when you leave it unattended.",
           "The town is relatively flat, which makes cycling enjoyable."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Ritt durch den Regen beginnt am Hauptplatz. Mittags radeln Sie durch den dampfenden Zentralpark zum Naturkundemuseum. Der Nachmittag gehört den Museen, wo Sie Ihr Rad sicher abstellen und sich aufwärmen können. Den Abschluss bildet das Kulturzentrum, während die Straßen von Văleni im Abendregen glänzen.",
+            "hu": "Frissítő tekerés indul az esőben a Főtérről. Délben a párás Központi Parkon át gurulunk a Természettudományi Múzeumig. A délutánt a múzeumlátogatásoknak szenteljük, ahol fedett helyen pihenhetünk. A napot a Kulturális Központnál zárjuk, miközben Văleni utcái csillognak az esti esőben.",
+            "ro": "O cursă răcoritoare prin ploaie începe din Piața Centrală. La prânz, pedalați prin parcul aburind spre Muzeul de Științe Naturale. După-amiaza este dedicată vizitelor la muzee, unde vă puteți adăposti. Încheiați ziua la Centrul Cultural, în timp ce străzile strălucesc sub ploaia de seară.",
+            "en": "A refreshing ride through the rain starts at Central Square. Midday takes you through the misty Central Park to the Natural Science Museum. Spend the afternoon hopping between museums for dry breaks. Finish your ride at the Cultural Center as the streets of Văleni glisten in the evening rain."
+          },
+          "stops": [
+            {
+              "name": "Central Square",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Kopfsteinpflaster beim Anfahren.",
+                "hu": "Vigyázat, a macskakő csúszós lehet induláskor.",
+                "ro": "Atenție la pavajul alunecos când porniți la drum.",
+                "en": "Watch out for slippery cobblestones when starting your ride."
+              }
+            },
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind sicherer als die Erdpfade.",
+                "hu": "Az aszfaltozott utak biztonságosabbak a földutaknál.",
+                "ro": "Aleile asfaltate sunt mai sigure decât potecile de pământ.",
+                "en": "Stay on paved paths to avoid mud and slippery dirt tracks."
+              }
+            },
+            {
+              "name": "Natural Science Museum of the Teleajen Valley",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Fahrradständer unter dem Dachvorsprung.",
+                "hu": "Keressen kerékpártárolót az eresz alatt.",
+                "ro": "Căutați un rastel pentru biciclete sub streașină.",
+                "en": "Look for bike racks under the roof eaves to keep your seat dry."
+              }
+            },
+            {
+              "name": "Nicolae Iorga Monument & Memorial Museum",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, die Regenbekleidung kurz zu lüften.",
+                "hu": "Jó alkalom az esőruha rövid átszellőztetésére.",
+                "ro": "Ocazie bună pentru a vă aerisi echipamentul de ploaie.",
+                "en": "A good spot to vent your rain gear during the visit."
+              }
+            },
+            {
+              "name": "Ethnographic Museum of the Teleajen Valley",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Parken.",
+                "hu": "Használja a fedett bejárati részt a bicikli leállításához.",
+                "ro": "Folosiți zona de intrare acoperită pentru a lăsa bicicleta.",
+                "en": "Use the covered entrance area to park your bike safely."
+              }
+            },
+            {
+              "name": "Văleni Monastery Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Gras oder Laub.",
+                "hu": "Vigyázat a leszálláskor a vizes fűvön vagy leveleken.",
+                "ro": "Atenție la coborârea de pe bicicletă pe iarbă udă.",
+                "en": "Be careful when dismounting on wet grass or leaves."
+              }
+            },
+            {
+              "name": "Nicolae Iorga Cultural Center",
+              "tip_5lang": {
+                "de": "Trockener Endpunkt mit Platz für das Fahrrad.",
+                "hu": "Száraz végpont, ahol biztonságban hagyhatja a gépet.",
+                "ro": "Punct final ferit de ploaie, cu loc pentru bicicletă.",
+                "en": "Dry final stop with space to park your bike securely."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt im nassen Tal.",
+              "Vermeiden Sie abrupte Manöver auf markierten Straßenstellen.",
+              "Ein Schutzblech schützt Sie vor dem aufgewirbelten Schmutz.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket a vizes völgyi utak előtt.",
+              "Kerülje a hirtelen manővereket a felfestett útszakaszokon.",
+              "A sárvédő elengedhetetlen a felcsapódó víz ellen.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóságért."
+            ],
+            "ro": [
+              "Verificați frânele înainte de a porni pe drumurile ude.",
+              "Evitați manevrele bruște pe marcajele rutiere.",
+              "Aripile la roți sunt esențiale împotriva noroiului.",
+              "Purtați o jachetă reflectorizantă pentru vizibilitate sporită."
+            ],
+            "en": [
+              "Test your brakes before heading out on wet valley roads.",
+              "Avoid sudden maneuvers on painted road markings.",
+              "Fenders are essential to protect you from road spray.",
+              "Wear high-visibility rain gear for better safety."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintertag auf dem Rad beginnt am Hauptplatz. Die klare Luft im Zentralpark am Mittag ist belebend. Nachmittags nutzen Sie die Museumsbesuche zum Aufwärmen, bevor Sie die kurze Strecke zum Kloster fahren. Der Tag endet am Kulturzentrum, wenn die Wintersonne hinter den Hügeln von Prahova verschwindet.",
+            "hu": "Hűvös téli bringázás indul a Főtérről. A Központi Park friss levegője délben igazi felfrissülést hoz. A délutáni múzeumlátogatások alatt átmelegedhetünk a kolostori szakasz előtt. A nap a Kulturális Központnál ér véget, miközben a téli nap lebukik a Prahova-dombság mögött.",
+            "ro": "O zi răcoroasă de iarnă pe bicicletă începe din Piața Centrală. Aerul curat de prânz din Parcul Central este revigorant. După-amiaza, folosiți vizitele la muzee pentru a vă încălzi înainte de a pedala spre mănăstire. Ziua se încheie la Centrul Cultural, când soarele apune după dealurile Prahovei.",
+            "en": "A crisp winter day on two wheels starts at Central Square. The fresh air in Central Park at midday is invigorating. Use the afternoon museum stops to warm up before the final stretch to the monastery. End your day at the Cultural Center as the winter sun sets behind the Prahova hills."
+          },
+          "stops": [
+            {
+              "name": "Central Square",
+              "tip_5lang": {
+                "de": "Vermeiden Sie schattige Stellen, dort könnte es glatt sein.",
+                "hu": "Kerülje az árnyékos részeket, ott jegesedés lehet.",
+                "ro": "Evitați zonele umbrite, unde se poate forma polei.",
+                "en": "Avoid shaded spots where ice might linger on the ground."
+              }
+            },
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht auf die schneebedeckten Hügel.",
+                "hu": "Élvezze a tiszta kilátást a hófödte dombokra.",
+                "ro": "Admirați vederea clară spre dealurile înzăpezite.",
+                "en": "Enjoy the clear views of the snow-dusted hills from the park."
+              }
+            },
+            {
+              "name": "Natural Science Museum of the Teleajen Valley",
+              "tip_5lang": {
+                "de": "Ein warmer Zwischenstopp zum Händeaufwärmen.",
+                "hu": "Melegítő megálló, ideális a kezek átforrósítására.",
+                "ro": "O oprire călduroasă, ideală pentru a vă dezmorți mâinile.",
+                "en": "A perfect warm stop to defrost your hands after riding."
+              }
+            },
+            {
+              "name": "Nicolae Iorga Monument & Memorial Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Haus für eine heiße Pause.",
+                "hu": "Használja ki a benti időt egy forró teás pihenőre.",
+                "ro": "Folosiți timpul petrecut în muzeu pentru o pauză caldă.",
+                "en": "Use the time indoors for a much-needed warm break."
+              }
+            },
+            {
+              "name": "Ethnographic Museum of the Teleajen Valley",
+              "tip_5lang": {
+                "de": "Ein kultureller Halt im Warmen schützt vor dem Wind.",
+                "hu": "Kulturális kitérő a melegben, védve a metsző széltől.",
+                "ro": "Popas cultural la căldură, ferit de vântul tăios.",
+                "en": "A warm cultural stop, protected from the biting wind."
+              }
+            },
+            {
+              "name": "Văleni Monastery Church",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher auf einer ebenen Fläche ab.",
+                "hu": "Állítsa le a bringát biztosan egy sík, jégmentes felületen.",
+                "ro": "Parcați bicicleta pe o suprafață plană și fără gheață.",
+                "en": "Park your bike securely on a flat, ice-free surface."
+              }
+            },
+            {
+              "name": "Nicolae Iorga Cultural Center",
+              "tip_5lang": {
+                "de": "Abschluss im Warmen vor der Heimfahrt.",
+                "hu": "Befejezés a melegben a hazaindulás előtt.",
+                "ro": "Final de zi la căldură înainte de plecare.",
+                "en": "A warm indoor finish before your journey home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Handschuhe und eine winddichte Jacke.",
+              "Vermeiden Sie bei Frost die unbefestigten Wege im Park.",
+              "Beleuchtung ist ab 16:00 Uhr wegen der frühen Dämmerung nötig.",
+              "Prüfen Sie den Reifendruck, er sinkt bei Kälte."
+            ],
+            "hu": [
+              "Viseljen meleg kesztyűt és szélálló dzsekit.",
+              "Fagy esetén kerülje a park földes ösvényeit.",
+              "Délután 4-től lámpa szükséges a korai sötétedés miatt.",
+              "Ellenőrizze a guminyomást, mert a hidegben csökkenhet."
+            ],
+            "ro": [
+              "Purtați mănuși groase și o jachetă rezistentă la vânt.",
+              "Evitați potecile neamenajate în caz de îngheț.",
+              "Luminile sunt necesare după ora 16:00 din cauza inserării.",
+              "Verificați presiunea în pneuri, scade la temperaturi mici."
+            ],
+            "en": [
+              "Wear warm gloves and a windproof jacket.",
+              "Avoid unpaved park trails if the ground is frozen.",
+              "Lights are mandatory after 4:00 PM due to early darkness.",
+              "Check tire pressure, as it drops in cold weather."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1522,188 @@
           "Plan for extra time for traffic, especially during peak hours.",
           "A car allows you to easily reach attractions slightly outside the town (though not included in this plan)."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein gemütlicher Tag beginnt mit der Fahrt zum Hauptplatz. Mittags erreichen Sie bequem das Museumsviertel, ohne nass zu werden. Der Nachmittag steht im Zeichen der Spiritualität und Natur, während Sie trocken von Punkt zu Punkt pendeln. Den Abend lassen Sie entspannt im Auto ausklingen, während der Regen gegen das Dach trommelt.",
+            "hu": "Kényelmes nap indul a Főtérre tartó autózással. Délben könnyen elérjük a múzeumi negyedet, elkerülve az esőt. A délután a spirituális élményeké és a természeté, miközben szárazon ingázunk a pontok között. A napot az autó nyugalmában zárjuk, hallgatva a tetőn kopogó esőt.",
+            "ro": "O zi confortabilă începe cu drumul spre Piața Centrală. La prânz ajungeți ușor în cartierul muzeelor, fără a vă uda. După-amiaza este dedicată spiritualității și naturii, circulând rapid între obiective. Încheiați ziua relaxat în mașină, ascultând ploaia care bate în plafon.",
+            "en": "A comfortable day starts with a drive to Central Square. Reach the Museum Quarter easily at midday while staying completely dry. Spend the afternoon exploring spiritual sites and nature, hopping between stops by car. End your day relaxing in your vehicle, listening to the rain on the roof."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Central Square",
+              "tip_5lang": {
+                "de": "Parkplätze finden Sie direkt am Rand des Platzes.",
+                "hu": "Parkolóhelyeket közvetlenül a tér szélén találhat.",
+                "ro": "Găsiți locuri de parcare chiar la marginea pieței.",
+                "en": "Parking spaces are available right at the edge of the square."
+              }
+            },
+            {
+              "name": "Nicolae Iorga Monument",
+              "tip_5lang": {
+                "de": "Kurzer Halt am Straßenrand für ein schnelles Foto.",
+                "hu": "Rövid megálló az út szélén egy gyors fotó erejéig.",
+                "ro": "Oprire scurtă pe marginea drumului pentru o poză rapidă.",
+                "en": "Short roadside stop for a quick photo through the rain."
+              }
+            },
+            {
+              "name": "Cluster 2: Museum Quarter",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Regen zu meiden.",
+                "hu": "Parkoljon a bejárathoz közel, hogy elkerülje az esőt.",
+                "ro": "Parcați aproape de intrare pentru a evita ploaia.",
+                "en": "Park close to the entrance to minimize time in the rain."
+              }
+            },
+            {
+              "name": "Ethnographic Museum of the Teleajen Valley",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist befestigt und schlammfrei.",
+                "hu": "A parkoló szilárd burkolatú, sármentes terület.",
+                "ro": "Parcarea este amenajată și nu prezintă risc de noroi.",
+                "en": "The parking area is paved, ensuring a mud-free experience."
+              }
+            },
+            {
+              "name": "Cluster 3: Spiritual & Green Văleni",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Kloster aus dem Auto.",
+                "hu": "Élvezze a kolostor látványát az autó ablakából.",
+                "ro": "Admirați vederea spre mănăstire din mașină.",
+                "en": "Enjoy the view of the monastery from the comfort of your car."
+              }
+            },
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Parken Sie an der Hauptstraße für schnellen Zugang.",
+                "hu": "Parkoljon a főút mentén a gyors bejutás érdekében.",
+                "ro": "Parcați pe strada principală pentru acces rapid.",
+                "en": "Park along the main street for quick access to the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht bei Aquaplaning auf der Nationalstraße DN1A.",
+              "Nutzen Sie die Parkplätze nah an den Museen.",
+              "Achten Sie auf Fußgänger mit Regenschirmen in der Nähe des Marktes.",
+              "Halten Sie die Scheiben beschlagfrei für gute Sicht im Tal."
+            ],
+            "hu": [
+              "Vigyázzon a felúszó vízre a DN1A főúton.",
+              "Használja a múzeumokhoz legközelebbi parkolókat.",
+              "Figyeljen az esernyős gyalogosokra a piac környékén.",
+              "Párátlanítsa a szélvédőt a jó völgyi kilátás érdekében."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul național DN1A.",
+              "Folosiți parcările cele mai apropiate de muzee.",
+              "Atenție la pietonii cu umbrele în zona pieței.",
+              "Dezaburiți parbrizul pentru o vizibilitate bună pe vale."
+            ],
+            "en": [
+              "Watch out for hydroplaning on the DN1A national road.",
+              "Use the parking spots closest to the museum entrances.",
+              "Be extra careful of pedestrians with umbrellas near the market.",
+              "Keep your windows defogged for the best valley views."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterfahrt beginnt am frostigen Hauptplatz. Mittags bietet das Auto eine warme Basis für den Besuch des Museumsviertels. Nachmittags erkunden Sie die Klöster und Museen im Tal, immer mit der Gewissheit einer warmen Heizung im Wagen. Der Tag endet im Zentralpark, während der Schnee im Scheinwerferlicht glitzert.",
+            "hu": "A téli autózás a fagyos Főtéren indul. Délben az autó meleg bázist nyújt a múzeumi negyed felfedezéséhez. Délután a völgy kolostorait és múzeumait járjuk be, tudva, hogy a kocsiban mindig vár a fűtés. A nap a Központi Parknál zárul, miközben a hó csillog a fényszórók fényében.",
+            "ro": "Drumul de iarnă începe în Piața Centrală înghețată. La prânz, mașina oferă o bază caldă pentru vizitarea cartierului muzeelor. După-amiaza explorați mănăstirile și muzeele din vale, având mereu căldura asigurată. Ziua se încheie la Parcul Central, cu zăpada sclipind în lumina farurilor.",
+            "en": "Your winter journey starts at the frosty Central Square. Midday provides a warm base in your car as you explore the Museum Quarter. Spend the afternoon visiting valley monasteries and museums, returning to your heated vehicle between stops. End the day at Central Park with snow glistening in your headlights."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Central Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf geräumte Parkflächen am Platz.",
+                "hu": "Keressen letakarított parkolóhelyeket a térnél.",
+                "ro": "Căutați locuri de parcare deszăpezite lângă piață.",
+                "en": "Look for cleared parking spaces near the square."
+              }
+            },
+            {
+              "name": "Nicolae Iorga Monument",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken auf schneebedeckten Seitenstreifen.",
+                "hu": "Vigyázzon a parkoláskor a hófödte útpadkán.",
+                "ro": "Atenție la parcarea pe acostamentul acoperit cu zăpadă.",
+                "en": "Be careful when parking on snow-covered roadsides."
+              }
+            },
+            {
+              "name": "Cluster 2: Museum Quarter",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort várakozás közben.",
+                "ro": "Nu lăsați motorul pornit inutil în timp ce așteptați.",
+                "en": "Avoid idling your engine unnecessarily while waiting."
+              }
+            },
+            {
+              "name": "Ethnographic Museum of the Teleajen Valley",
+              "tip_5lang": {
+                "de": "Die Zufahrt zum Museum wird meist gut geräumt.",
+                "hu": "A múzeumhoz vezető utat általában jól takarítják.",
+                "ro": "Accesul spre muzeu este de obicei bine deszăpezit.",
+                "en": "The access road to the museum is usually well-cleared."
+              }
+            },
+            {
+              "name": "Cluster 3: Spiritual & Green Văleni",
+              "tip_5lang": {
+                "de": "Wunderschöner Blick auf die Kirche im Winterschnee.",
+                "hu": "Gyönyörű kilátás a templomra a téli hóban.",
+                "ro": "Vedere superbă spre biserică sub zăpada de iarnă.",
+                "en": "Beautiful views of the church covered in winter snow."
+              }
+            },
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Parkplätze sind auch im Winter gut zugänglich.",
+                "hu": "A parkolók télen is jól megközelíthetőek.",
+                "ro": "Parcările sunt ușor accesibile și pe timpul iernii.",
+                "en": "Parking spots remain accessible even during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser Hügelregion obligatorisch.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Vermeiden Sie steile Nebenstraßen bei starkem Schneefall.",
+              "Die Parkplätze im Zentrum werden prioritär geräumt."
+            ],
+            "hu": [
+              "A téli gumi kötelező ebben a dombos régióban.",
+              "Legyen önnél jégkaparó és fagyálló folyadék.",
+              "Erős havazáskor kerülje a meredek mellékutcákat.",
+              "A központi parkolókat elsőbbséggel takarítják."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în această zonă de deal.",
+              "Aveți la îndemână o racletă și lichid de parbriz de iarnă.",
+              "Evitați străzile secundare în pantă în caz de ninsoare.",
+              "Parcările din centru sunt deszăpezite cu prioritate."
+            ],
+            "en": [
+              "Winter tires are mandatory in this hilly region.",
+              "Keep an ice scraper and winter wiper fluid handy.",
+              "Avoid steep side streets during heavy snowfall.",
+              "Central parking lots are prioritized for snow removal."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2060,188 @@
           "Be prepared for potential delays, especially with buses in smaller towns.",
           "The combination of bus rides and walking provides a balanced experience."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Hauptplatz und nutzen Sie die Busse, um trocken zu bleiben. Mittags bringt Sie der Nahverkehr bequem ins Museumsviertel. Nachmittags erkunden Sie die kulturellen Highlights, während Sie an den Haltestellen Schutz suchen. Der Tag endet mit einer entspannten Busfahrt zurück zum Zentrum durch das verregnete Tal.",
+            "hu": "Kezdje a napot a Főtéren, használja a buszokat a szárazon maradáshoz. Délben a helyi járat kényelmesen elviszi a múzeumi negyedbe. Délután fedezze fel a kulturális látnivalókat, a megállókban keresve menedéket. A nap egy pihentető buszozással zárul az esős völgyön át vissza a központba.",
+            "ro": "Începeți ziua în Piața Centrală și folosiți autobuzele pentru a rămâne uscat. La prânz, transportul local vă duce confortabil în cartierul muzeelor. După-amiaza explorați obiectivele culturale, adăpostindu-vă în stații. Ziua se încheie cu o călătorie relaxantă spre centru prin valea ploioasă.",
+            "en": "Start at Central Square and use local buses to stay dry. Midday transit takes you comfortably to the Museum Quarter. Spend the afternoon exploring cultural gems while using bus stops for shelter. End your day with a relaxing ride back to the center through the rainy valley."
+          },
+          "stops": [
+            {
+              "name": "Arrival: Central Square",
+              "tip_5lang": {
+                "de": "Die Haltestelle am Platz bietet guten Regenschutz.",
+                "hu": "A téri buszmegálló jó védelmet nyújt az eső ellen.",
+                "ro": "Stația din piață oferă adăpost bun împotriva ploii.",
+                "en": "The square's bus stop provides solid shelter from the rain."
+              }
+            },
+            {
+              "name": "Nicolae Iorga Monument",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der nächsten Haltestelle.",
+                "hu": "Rövid séta a legközelebbi buszmegállótól.",
+                "ro": "Scurtă plimbare de la cea mai apropiată stație.",
+                "en": "Just a short walk from the nearest bus stop."
+              }
+            },
+            {
+              "name": "Trip to the Museum Quarter",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeit in den trockenen Bussen.",
+                "hu": "Használja ki a várakozási időt a száraz buszokon.",
+                "ro": "Folosiți timpul de așteptare în autobuzele uscate.",
+                "en": "Make the most of transit time to stay warm and dry."
+              }
+            },
+            {
+              "name": "Ethnographic Museum of the Teleajen Valley",
+              "tip_5lang": {
+                "de": "Haltestellen in der Nähe ermöglichen schnellen Zugang.",
+                "hu": "A közeli megállók gyors bejutást tesznek lehetővé.",
+                "ro": "Stațiile din apropiere permit accesul rapid.",
+                "en": "Nearby stops allow for quick access to the entrance."
+              }
+            },
+            {
+              "name": "Trip to Văleni Monastery Church",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt nach dem Fahrplan.",
+                "hu": "Tervezze a visszautat a menetrend szerint.",
+                "ro": "Planificați drumul de întoarcere conform orarului.",
+                "en": "Plan your return trip according to the local bus schedule."
+              }
+            },
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Die Haltestelle am Parkeingang ist meist überdacht.",
+                "hu": "A park bejáratánál lévő megálló általában fedett.",
+                "ro": "Stația de la intrarea în parc este de obicei acoperită.",
+                "en": "The stop at the park entrance is mostly covered."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Transport Prahova' App für Echtzeitdaten.",
+              "Zahlen Sie beim Fahrer oder per SMS, falls verfügbar.",
+              "Halten Sie Kleingeld für die Fahrkarten bereit.",
+              "Warten Sie bei Starkregen in den Museen auf den nächsten Bus."
+            ],
+            "hu": [
+              "Használja a 'Transport Prahova' alkalmazást a menetrendhez.",
+              "Fizessen a sofőrnél vagy SMS-ben, ha elérhető.",
+              "Legyen önnél aprópénz a jegyvásárláshoz.",
+              "Nagy esőben várja meg a következő buszt a múzeumokban."
+            ],
+            "ro": [
+              "Folosiți aplicațiile de transport pentru date în timp real.",
+              "Plătiți la șofer sau prin SMS, unde este posibil.",
+              "Aveți pregătiți bani mărunți pentru bilete.",
+              "Așteptați următorul autobuz în interiorul muzeelor dacă plouă tare."
+            ],
+            "en": [
+              "Check local transit apps for real-time schedule updates.",
+              "Pay the driver directly or use SMS ticketing if available.",
+              "Keep small change ready for bus fare.",
+              "In heavy rain, stay inside museums until your bus arrives."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Hauptplatz leitet den Tag ein. Die Busse bieten mittags eine willkommene Aufwärmpause auf dem Weg zum Museumsviertel. Nachmittags genießen Sie die winterliche Landschaft des Tals aus dem Fenster, bevor Sie das Kloster besuchen. Der Tag endet mit einer gemütlichen Fahrt im beleuchteten Bus zurück zum Zentrum.",
+            "hu": "Fagyos kezdés a Főtéren indítja a napot. A buszok délben hívogató menedéket nyújtanak a múzeumi negyed felé menet. Délután élvezze a völgy téli tájait az ablakból, mielőtt a kolostorhoz érne. A nap egy barátságos, kivilágított buszos utazással zárul vissza a központba.",
+            "ro": "O dimineață geroasă în Piața Centrală dă startul zilei. Autobuzele oferă la prânz o pauză de încălzire în drum spre cartierul muzeelor. După-amiaza admirați peisajul de iarnă al văii de pe geam, înainte de a vizita mănăstirea. Ziua se încheie cu o călătorie plăcută spre centru.",
+            "en": "A frosty start at Central Square kicks off your day. Buses provide a welcome warm break at midday on your way to the Museum Quarter. Spend the afternoon admiring winter valley views from your window before visiting the monastery. End your day with a cozy ride back to the center in a lit bus."
+          },
+          "stops": [
+            {
+              "name": "Arrival: Central Square",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz vor dem Wind im Wartehäuschen.",
+                "hu": "Keressen szélvédett helyet a váróteremben vagy bódéban.",
+                "ro": "Căutați adăpost împotriva vântului în stație.",
+                "en": "Seek shelter from the wind inside the bus stop booth."
+              }
+            },
+            {
+              "name": "Nicolae Iorga Monument",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem oft rutschigen Weg zur Haltestelle.",
+                "hu": "Vigyázzon a megállóhoz vezető, sokszor csúszós úton.",
+                "ro": "Atenție la drumul spre stație, care poate fi alunecos.",
+                "en": "Watch your step on the often slippery path to the bus stop."
+              }
+            },
+            {
+              "name": "Trip to the Museum Quarter",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter meist angenehm beheizt.",
+                "hu": "A buszok télen általában kellemesen fűtöttek.",
+                "ro": "Autobuzele sunt de obicei bine încălzite iarna.",
+                "en": "Buses are usually pleasantly heated during the winter."
+              }
+            },
+            {
+              "name": "Ethnographic Museum of the Teleajen Valley",
+              "tip_5lang": {
+                "de": "Kurze Wartezeit im Freien dank festem Fahrplan.",
+                "hu": "Rövid kinti várakozás a fix menetrendnek köszönhetően.",
+                "ro": "Așteptare scurtă afară datorită orarului fix.",
+                "en": "Minimal outdoor waiting time thanks to the fixed schedule."
+              }
+            },
+            {
+              "name": "Trip to Văleni Monastery Church",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das verschneite Tal.",
+                "hu": "Élvezze a kilátást a hófödte völgyre az ablakból.",
+                "ro": "Admirați valea înzăpezită de pe fereastra autobuzului.",
+                "en": "Enjoy the views of the snow-covered valley from your seat."
+              }
+            },
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Haltestelle direkt am beleuchteten Parkzugang.",
+                "hu": "Megálló közvetlenül a kivilágított parkbejáratnál.",
+                "ro": "Stație situată chiar lângă intrarea luminată a parcului.",
+                "en": "The bus stop is located right by the lit park entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Schneefall Verspätung haben.",
+              "Nutzen Sie die beheizten Busse für kleine Pausen.",
+              "Tragen Sie griffige Schuhe für den Weg zur Haltestelle.",
+              "Die letzte Verbindung am Abend ist oft früher als im Sommer."
+            ],
+            "hu": [
+              "Erős havazáskor a buszok késhetnek.",
+              "Használja a fűtött buszokat rövid pihenőkre.",
+              "Viseljen jó tapadású cipőt a megállóhoz vezető úton.",
+              "Az esti utolsó járatok télen korábban indulhatnak."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri în caz de ninsoare abundentă.",
+              "Folosiți autobuzele încălzite pentru scurte pauze.",
+              "Purtați încălțăminte antiderapantă spre stație.",
+              "Ultima cursă de seară poate fi mai devreme decât vara."
+            ],
+            "en": [
+              "Buses may experience delays during heavy snowfall.",
+              "Take advantage of heated buses for quick warm-ups.",
+              "Wear shoes with good grip for the walk to the bus stop.",
+              "Evening bus schedules might be shorter during winter."
+            ]
+          }
+        }
       }
     }
   }

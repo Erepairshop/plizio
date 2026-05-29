@@ -242,6 +242,178 @@
           "Wear comfortable shoes as you will be covering several kilometers.",
           "Keep some cash handy for small purchases or tips."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten unter den schützenden Arkaden des Sobornyi-Prospekts, wo Cafés Zuflucht bieten. Mittags genießen wir die lokale Küche in einem gemütlichen Restaurant im Zentrum. Der Nachmittag am Dnjepr-Ufer wird kurz gehalten, bevor wir den Tag in den überdachten Waggons der Kindereisenbahn ausklingen lassen. Die Stadt wirkt im Regen melancholisch-industriell und doch einladend.",
+            "hu": "A Szobornij sugárút épületeinek árkádjai alatt kezdjük a napot, elkerülve a nagyobb záporokat. Ebédidőben a belváros egyik meleg éttermében frissülünk fel. A Dnyeper-parti sétát lerövidítjük a látvány kedvéért, majd a Gyermekvasút fedett kocsijaiban pihenünk meg. Az eső különleges, ipari romantikát kölcsönöz a város hatalmas tereinek.",
+            "ro": "Începem sub arcadele protectoare ale Bulevardului Sobornyi, unde cafenelele oferă refugiu. La prânz, ne bucurăm de bucătăria locală într-un restaurant primitor din centru. După-amiaza pe malul Niprului este scurtată, înainte de a încheia ziua în vagoanele acoperite ale căii ferate pentru copii. Orașul capătă o atmosferă melancolică sub ploaie.",
+            "en": "We start under the protective arcades of Sobornyi Prospekt, where cafes offer quick shelter. At noon, we enjoy local cuisine in a cozy city center restaurant. The afternoon stroll along the Dnieper is kept brief for the views, before ending the day in the covered carriages of the children's railway. The rain adds a unique industrial romanticism to the city's vast spaces."
+          },
+          "stops": [
+            {
+              "name": "Sobornyi Prospekt",
+              "tip_5lang": {
+                "de": "Nutzen Sie die breiten Hausvorsprünge als Regenschutz während des Spaziergangs.",
+                "hu": "Használja a széles épületkiugrókat eső elleni védelemként a séta során.",
+                "ro": "Folosiți arcadele largi ale clădirilor ca protecție împotriva ploii în timpul plimbării.",
+                "en": "Use the wide building overhangs as rain protection during your walk."
+              }
+            },
+            {
+              "name": "Voznesenivskyi Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege bleiben auch bei Nässe gut begehbar.",
+                "hu": "Az aszfaltozott utak esőben is jól járhatóak maradnak a parkban.",
+                "ro": "Potecile asfaltate rămân ușor de parcurs chiar și pe timp de ploaie.",
+                "en": "The paved paths remain easily accessible even in wet conditions."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für Ihre nassen Regenschirme.",
+                "hu": "Válasszon ruhatárral rendelkező éttermet a vizes esernyők miatt.",
+                "ro": "Alegeți un restaurant cu garderobă pentru umbrelele umede.",
+                "en": "Choose a restaurant with a cloakroom for your wet umbrellas."
+              }
+            },
+            {
+              "name": "Stroll along the Dnieper Riverbank",
+              "tip_5lang": {
+                "de": "Der Wind am Fluss verstärkt den Regen; halten Sie die Kapuze fest.",
+                "hu": "A folyóparti szél felerősíti az esőt; rögzítse jól a kapucniját.",
+                "ro": "Vântul de pe malul râului intensifică ploaia; fixați-vă bine gluga.",
+                "en": "The river wind intensifies the rain; keep your hood secured tightly."
+              }
+            },
+            {
+              "name": "Ride on the Children's Railway",
+              "tip_5lang": {
+                "de": "Die Züge sind beheizt und bieten eine trockene Fahrt durch das Grün.",
+                "hu": "A szerelvények fűtöttek és száraz utazást biztosítanak a zöldben.",
+                "ro": "Trenurile sunt încălzite și oferă o călătorie uscată prin verdeață.",
+                "en": "The trains are heated and offer a dry ride through the greenery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich auf den großen Plätzen Pfützen bilden können.",
+              "Der Sobornyi Prospekt bietet viele Hauseingänge zum kurzen Unterstellen.",
+              "Die öffentlichen Busse sind eine gute Alternative, wenn der Regen zu stark wird.",
+              "Packen Sie Ihren Stadtplan in eine Plastikhülle ein.",
+              "Besuchen Sie das Einkaufszentrum 'Aurora' für eine trockene Pause."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a nagy tereken mély tócsák alakulhatnak ki.",
+              "A Szobornij sugárút mentén sok a beugró, ahová behúzódhat hirtelen zápornál.",
+              "A helyi buszok jó alternatívát jelentenek, ha túl erőssé válik az eső.",
+              "Tartson magánál vízhatlan tokot a telefonjának és értékeinek.",
+              "Az Aurora bevásárlóközpont kiváló hely egy száraz pihenőre."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți mari în piețe.",
+              "Bulevardul Sobornyi oferă multe intrări de clădiri pentru adăpost rapid.",
+              "Autobuzele publice sunt o alternativă bună dacă ploaia devine prea puternică.",
+              "Păstrați obiectele de valoare în pungi impermeabile.",
+              "Vizitați centrul comercial 'Aurora' pentru o pauză uscată."
+            ],
+            "en": [
+              "Wear waterproof shoes as large puddles can form on the wide squares.",
+              "Sobornyi Prospekt has many building entrances for quick shelter from showers.",
+              "Public buses are a great alternative if the rain gets too heavy.",
+              "Keep your phone and valuables in waterproof sleeves.",
+              "Visit the 'Aurora' shopping mall for a dry break during the day."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen am Sobornyi-Prospekt wird durch heißen Tee in den Cafés gemildert. Im Voznesenivskyi-Park glitzert der Raureif auf den Denkmälern. Nach einem deftigen Mittagessen wärmen wir uns auf, bevor wir den eisigen Wind am Dnjepr trotzen. Die Kindereisenbahn bietet eine gemütliche, warme Fahrt durch die winterliche Parklandschaft von Saporischschja.",
+            "hu": "A fagyos reggelt a Szobornij sugárút egyik kávézójában indítjuk egy forró teával. A Vozneszenivszkij parkban a zúzmara ezüstbe öltözteti az emlékműveket. Egy kiadós ebéd után újult erővel vágunk neki a jeges dnyeperi szélnek. A napot a Gyermekvasút fűtött kocsijaiban zárjuk, figyelve a téli tájat.",
+            "ro": "Dimineața geroasă pe Bulevardul Sobornyi este îndulcită de un ceai fierbinte în cafenele. În Parcul Voznesenivskyi, chiciura strălucește pe monumente. După un prânz consistent, ne încălzim înainte de a înfrunta vântul înghețat de pe Nipru. Calea ferată pentru copii oferă o plimbare caldă prin peisajul hibernal.",
+            "en": "The frosty morning on Sobornyi Prospekt is softened by hot tea in local cafes. In Voznesenivskyi Park, hoarfrost glitters on the monuments. After a hearty lunch, we warm up before braving the icy wind by the Dnieper. The children's railway provides a cozy, heated ride through the wintry parklands of Zaporizhzhia."
+          },
+          "stops": [
+            {
+              "name": "Sobornyi Prospekt",
+              "tip_5lang": {
+                "de": "Achtung vor glatten Stellen auf den breiten Gehwegen.",
+                "hu": "Vigyázzon a csúszós szakaszokra a széles járdákon.",
+                "ro": "Atenție la porțiunile alunecoase de pe trotuarele largi.",
+                "en": "Watch out for slippery patches on the wide sidewalks."
+              }
+            },
+            {
+              "name": "Voznesenivskyi Park",
+              "tip_5lang": {
+                "de": "Die Denkmäler sind bei Schnee besonders fotogen.",
+                "hu": "Az emlékművek hóesésben különösen látványosak a fotókhoz.",
+                "ro": "Monumentele sunt deosebit de fotogenice când sunt acoperite de zăpadă.",
+                "en": "The monuments are particularly photogenic when covered in snow."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Probieren Sie Borschtsch, um sich richtig aufzuwärmen.",
+                "hu": "Kóstolja meg a borscsot, hogy alaposan átmelegedjen.",
+                "ro": "Încercați un borș fierbinte pentru a vă încălzi cu adevărat.",
+                "en": "Try some hot borscht to truly warm yourself up."
+              }
+            },
+            {
+              "name": "Stroll along the Dnieper Riverbank",
+              "tip_5lang": {
+                "de": "Extremer Windchill am Wasser; Gesichtsschutz empfohlen.",
+                "hu": "Erős szélhűtés a vízparton; javasolt az arc eltakarása.",
+                "ro": "Vânt extrem de rece lângă apă; se recomandă protecție pentru față.",
+                "en": "Extreme wind chill by the water; face protection is recommended."
+              }
+            },
+            {
+              "name": "Ride on the Children's Railway",
+              "tip_5lang": {
+                "de": "Letzte Fahrt meist vor Einbruch der frühen Dunkelheit (16:00).",
+                "hu": "Az utolsó járat általában a korai sötétedés előtt (16:00) indul.",
+                "ro": "Ultima cursă pleacă de obicei înainte de lăsarea serii (16:00).",
+                "en": "The last train usually departs before early darkness (16:00)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Tragen Sie Thermounterwäsche, da der Wind vom Dnjepr sehr beißend ist.",
+              "Kleine Cafés entlang des Prospekts sind ideal für kurze Aufwärmpausen.",
+              "Die Gehwege können ungleichmäßig geräumt sein; festes Schuhwerk ist Pflicht.",
+              "Die Luftfeuchtigkeit am Fluss lässt die Kälte kriechender wirken."
+            ],
+            "hu": [
+              "Télen a nap már 16:30 körül lenyugszik Saporizzsjában.",
+              "Viseljen termikus aláöltözetet, mert a Dnyeper felőli szél metsző lehet.",
+              "A sugárút menti kis kávézók ideálisak rövid melegedő szünetekre.",
+              "A járdák takarítása egyenetlen lehet; a bordázott talpú bakancs kötelező.",
+              "A folyó páratartalma miatt a hideg sokkal csontig hatolóbbnak tűnik."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:30 în timpul iernii.",
+              "Purtați lenjerie termică, deoarece vântul de pe Nipru este tăios.",
+              "Cafenelele mici de-a lungul bulevardului sunt ideale pentru pauze de încălzire.",
+              "Trotuarele pot fi curățate neuniform; încălțămintea aderentă este obligatorie.",
+              "Umiditatea de lângă râu face ca frigul să pară mult mai pătrunzător."
+            ],
+            "en": [
+              "The sun sets as early as 16:30 during winter in Zaporizhzhia.",
+              "Wear thermal layers as the wind from the Dnieper can be biting.",
+              "Small cafes along the Prospekt are ideal for quick warming breaks.",
+              "Sidewalks may be unevenly cleared; sturdy boots with grip are mandatory.",
+              "The humidity near the river makes the cold feel much more piercing."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -478,6 +650,178 @@
           "Check the condition of your bike before setting off.",
           "Bring plenty of water, especially for the island tour."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir radeln vorsichtig über den nassen Asphalt des Sobornyi-Prospekts. Die Fahrt zum DniproHES-Staudamm ist bei Regen besonders beeindruckend, wenn die Wassermassen tosen. Auf der Insel Chortyzja nutzen wir die befestigten Wege, um Schlamm zu vermeiden. Ein Tag für echte Rad-Enthusiasten, die Saporizhzhia von seiner rauen, elementaren Seite erleben wollen.",
+            "hu": "Óvatosan tekerünk a Szobornij sugárút vizes aszfaltján. A DnyiproHES gát látványa esőben még lenyűgözőbb a lezúduló víztömegek miatt. A Horticja-szigeten a kövezett utakat választjuk, hogy elkerüljük a sarat. Ez a nap az elszánt bringásoké, akik a város nyers, elemi arcát keresik.",
+            "ro": "Pedalăm cu atenție pe asfaltul umed al Bulevardului Sobornyi. Drumul către barajul DniproHES este impresionant pe ploaie, cu masele de apă învolburate. Pe insula Khortytsia, folosim drumurile pavate pentru a evita noroiul. O zi pentru bicicliștii dedicați care vor să vadă latura brută a orașului.",
+            "en": "We cycle carefully over the wet asphalt of Sobornyi Prospekt. The ride to DniproHES dam is particularly impressive in the rain as the water masses roar. On Khortytsia Island, we stick to paved routes to avoid the mud. A day for true cycling enthusiasts looking to experience the city's raw, elemental side."
+          },
+          "stops": [
+            {
+              "name": "Sobornyi Prospekt",
+              "tip_5lang": {
+                "de": "Vorsicht bei Markierungen auf der Fahrbahn; sie werden extrem rutschig.",
+                "hu": "Vigyázzon az útburkolati jelekre; rendkívül csúszóssá válnak.",
+                "ro": "Atenție la marcajele rutiere; devin extrem de alunecoase.",
+                "en": "Be careful with road markings; they become extremely slippery."
+              }
+            },
+            {
+              "name": "Voznesenivskyi Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Unterstände im Park für einen kurzen Check der Bremsen.",
+                "hu": "Használja a parki beállókat a fékek gyors ellenőrzésére.",
+                "ro": "Folosiți adăposturile din parc pentru o verificare rapidă a frânelor.",
+                "en": "Use the shelters in the park for a quick brake check."
+              }
+            },
+            {
+              "name": "DniproHES Dam",
+              "tip_5lang": {
+                "de": "Starker Seitenwind auf dem Damm bei Regen; halten Sie den Lenker fest.",
+                "hu": "Erős oldalszél a gáton esőben; tartsa erősen a kormányt.",
+                "ro": "Vânt lateral puternic pe baraj; țineți bine ghidonul.",
+                "en": "Strong crosswinds on the dam during rain; keep a firm grip on handlebars."
+              }
+            },
+            {
+              "name": "Crossing to Khortytsia Island",
+              "tip_5lang": {
+                "de": "Die Brückenauffahrten können bei Nässe tückisch sein.",
+                "hu": "A hídfelhajtók trükkösek lehetnek nedves időben.",
+                "ro": "Rampele de acces pe pod pot fi înșelătoare pe timp umed.",
+                "en": "The bridge ramps can be treacherous in wet conditions."
+              }
+            },
+            {
+              "name": "Zaporozhian Oak & Return Trip",
+              "tip_5lang": {
+                "de": "Unter der Eiche findet man guten Schutz vor leichtem Nieselregen.",
+                "hu": "A tölgyfa alatt jó védelmet találhat az enyhe szemerkélés ellen.",
+                "ro": "Sub stejar puteți găsi adăpost bun împotriva burniței ușoare.",
+                "en": "Under the oak, you can find good shelter from light drizzle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie die unbefestigten Waldwege auf Chortyzja; der Schlamm ist zäh.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Abfahrt zum Damm.",
+              "Ein kompletter Satz Regenbekleidung (Hose + Jacke) ist unerlässlich.",
+              "Beleuchtung ist bei schlechter Sicht am Dnjepr auch tagsüber Pflicht.",
+              "Die Metallfugen auf den Brücken sind bei Nässe wie Schmierseife."
+            ],
+            "hu": [
+              "Kerülje a Horticja nem aszfaltozott erdei útjait; a sár nagyon tapadós.",
+              "Ellenőrizze a fékbetéteket a gát felé tartó lejtők előtt.",
+              "A teljes esőruházat (nadrág + kabát) elengedhetetlen a túrához.",
+              "A rossz látási viszonyok miatt a világítás nappal is kötelező a folyó felett.",
+              "A hidak fém illesztései nedvesen olyanok, mint a kenőszappan."
+            ],
+            "ro": [
+              "Evitați potecile de pământ din Khortytsia; noroiul este foarte lipicios.",
+              "Verificați plăcuțele de frână înainte de coborârea spre baraj.",
+              "Un set complet de haine de ploaie este esențial pentru această tură.",
+              "Luminile sunt obligatorii și ziua din cauza vizibilității reduse pe Nipru.",
+              "Îmbinările metalice de pe poduri sunt foarte alunecoase când sunt ude."
+            ],
+            "en": [
+              "Avoid unpaved forest paths on Khortytsia; the mud is very thick and sticky.",
+              "Check your brake pads before the descent towards the dam.",
+              "A full set of rain gear (trousers + jacket) is essential for this trip.",
+              "Lights are mandatory even during the day due to poor visibility over the river.",
+              "Metal joints on the bridges are like liquid soap when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Dick eingepackt radeln wir durch das winterliche Saporischschja. Der Fahrtwind am DniproHES ist eisig, bietet aber einen klaren Blick auf den teilweise gefrorenen Fluss. Auf Chortyzja herrscht eine magische Stille. Wir beenden die Tour frühzeitig, bevor die Kälte in die Glieder zieht, und suchen Wärme bei der historischen Eiche.",
+            "hu": "Rétegesen felöltözve vágunk neki a téli Saporizzsjának. A menetszél a gátnál jeges, de tiszta kilátást nyújt a részben befagyott folyóra. A Horticján mágikus csend honol. A túrát időben befejezzük, mielőtt a hideg teljesen átjárná tagjainkat, és a történelmi tölgynél keresünk menedéket.",
+            "ro": "Îmbrăcați gros, pedalăm prin Zaporizhzhia de iarnă. Vântul pe barajul DniproHES este înghețat, dar oferă o vedere clară asupra râului parțial înghețat. Pe Khortytsia domină o liniște magică. Încheiem tura devreme, înainte ca frigul să ne pătrundă, căutând adăpost lângă stejarul istoric.",
+            "en": "Bundled up, we cycle through wintry Zaporizhzhia. The headwind at DniproHES is icy but offers a clear view of the partially frozen river. A magical silence reigns on Khortytsia. We finish the tour early before the cold sets into our limbs, seeking warmth near the historic oak."
+          },
+          "stops": [
+            {
+              "name": "Sobornyi Prospekt",
+              "tip_5lang": {
+                "de": "Salzreste auf der Straße können den Antrieb korrodieren; danach reinigen.",
+                "hu": "Az útszóró só korrodálhatja a láncot; túra után tisztítsa le.",
+                "ro": "Sarea de pe drum poate coroda transmisia; curățați bicicleta după tură.",
+                "en": "Road salt can corrode the drivetrain; clean the bike after the trip."
+              }
+            },
+            {
+              "name": "Voznesenivskyi Park",
+              "tip_5lang": {
+                "de": "Kurze Fotostopps einlegen, um nicht auszukühlen.",
+                "hu": "Csak rövid fotószüneteket tartsunk, hogy ne hűljünk ki.",
+                "ro": "Faceți pauze scurte pentru poze pentru a nu îngheța.",
+                "en": "Keep photo stops brief to avoid getting too cold."
+              }
+            },
+            {
+              "name": "DniproHES Dam",
+              "tip_5lang": {
+                "de": "Gefrierende Gischt kann den Radweg rutschig machen.",
+                "hu": "A gáton kicsapódó permet ráfagyhat az útra, csúszásveszély.",
+                "ro": "Pulverizarea apei care îngheață poate face pista alunecoasă.",
+                "en": "Freezing spray can make the bike path slippery on the dam."
+              }
+            },
+            {
+              "name": "Crossing to Khortytsia Island",
+              "tip_5lang": {
+                "de": "Eisiger Luftzug in der Mitte der Brücke; Ohren schützen.",
+                "hu": "Jeges huzat a híd közepén; védje a füleit.",
+                "ro": "Curent de aer înghețat la mijlocul podului; protejați-vă urechile.",
+                "en": "Icy drafts in the middle of the bridge; protect your ears."
+              }
+            },
+            {
+              "name": "Zaporozhian Oak & Return Trip",
+              "tip_5lang": {
+                "de": "Bei Minustemperaturen auf festgefrorene Spurrinnen achten.",
+                "hu": "Mínuszok esetén figyeljen a felfagyott keréknyomokra.",
+                "ro": "La temperaturi negative, atenție la șleaurile înghețate.",
+                "en": "In freezing temperatures, watch out for frozen ruts in the path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie mit etwas geringerem Reifendruck für bessere Haftung auf Schnee.",
+              "Warme, winddichte Handschuhe sind das wichtigste Zubehör.",
+              "Die Akkus von E-Bikes verlieren bei Kälte deutlich an Kapazität.",
+              "Nehmen Sie eine Thermoskanne mit heißem Getränk mit.",
+              "Meiden Sie Fahrten nach Einbruch der Dunkelheit (ab 16:30)."
+            ],
+            "hu": [
+              "Hóban engedjen le kicsit a guminyomásból a jobb tapadásért.",
+              "A meleg, szélálló kesztyű a legfontosabb kiegészítő télen.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül a hidegben.",
+              "Vigyen magával termoszban forró italt a túrára.",
+              "Sötétedés után (16:30-tól) már ne tekerjen a városon kívül."
+            ],
+            "ro": [
+              "Reduceți puțin presiunea în pneuri pentru o aderență mai bună pe zăpadă.",
+              "Mănușile călduroase și rezistente la vânt sunt cel mai important accesoriu.",
+              "Bateriile bicicletelor electrice își pierd rapid capacitatea la frig.",
+              "Luați un termos cu băutură fierbinte pentru drum.",
+              "Evitați deplasările după lăsarea întunericului (după ora 16:30)."
+            ],
+            "en": [
+              "Ride with slightly lower tire pressure for better grip on snow.",
+              "Warm, windproof gloves are the most important accessory for winter cycling.",
+              "E-bike batteries lose significant capacity in cold weather.",
+              "Carry a thermos with a hot drink to stay warm during stops.",
+              "Avoid riding after dark (from 16:30 onwards) due to poor visibility."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -738,6 +1082,196 @@
           "Use a navigation app as signage can be confusing.",
           "Check the opening hours of the museums in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein idealer Tag für die Museen von Saporischschja. Während der Regen gegen die Windschutzscheibe prasselt, erkunden wir die beeindruckende Sammlung des Faeton-Automuseums und das Motor-Sich-Museum. Der Staudamm DniproHES wirkt im grauen Licht besonders monumental. Wir reisen trocken und komfortabel zwischen den kulturellen Highlights der Stadt.",
+            "hu": "Ideális nap a saporizzsjai múzeumok felfedezésére. Miközben az eső a szélvédőn kopog, bejárjuk a Faeton autómuzeum és a Motor Szics múzeum lenyűgöző gyűjteményét. A DnyiproHES gát monumentális látványt nyújt a szürke fényben. Szárazon és kényelemben közlekedünk a város kulturális fénypontjai között.",
+            "ro": "O zi ideală pentru muzeele din Zaporizhzhia. În timp ce ploaia bate în parbriz, explorăm colecțiile impresionante ale Muzeului Auto Faeton și ale Muzeului Motor Sich. Barajul DniproHES pare deosebit de monumental în lumina cenușie. Călătorim uscați și confortabil între punctele culturale ale orașului.",
+            "en": "An ideal day for exploring the museums of Zaporizhzhia. While rain drums on the windshield, we explore the impressive collections of the Faeton Auto Museum and the Motor Sich Museum. The DniproHES dam looks especially monumental in the grey light. We travel dry and comfortably between the city's cultural highlights."
+          },
+          "stops": [
+            {
+              "name": "Start at Sobornyi Prospekt",
+              "tip_5lang": {
+                "de": "Parkplätze sind am Straßenrand bei Regen meist gut verfügbar.",
+                "hu": "Esőben általában könnyebb parkolót találni az út szélén.",
+                "ro": "Locurile de parcare sunt de obicei disponibile la marginea drumului pe ploaie.",
+                "en": "Parking spaces are usually readily available roadside during rain."
+              }
+            },
+            {
+              "name": "Voznesenivskyi Park",
+              "tip_5lang": {
+                "de": "Kurzer Halt am Parkeingang für ein schnelles Foto vom Regenbogen.",
+                "hu": "Rövid megálló a parknál egy gyors fotóra a szivárványról.",
+                "ro": "Oprire scurtă la intrarea în parc pentru o poză rapidă cu curcubeul.",
+                "en": "Quick stop at the park entrance for a fast photo of a potential rainbow."
+              }
+            },
+            {
+              "name": "Khortytsia Island & Cossack Museum",
+              "tip_5lang": {
+                "de": "Der Museumsparkplatz ist befestigt und schlammfrei.",
+                "hu": "A múzeum parkolója burkolt, így elkerülhető a sár.",
+                "ro": "Parcarea muzeului este pavată și fără noroi.",
+                "en": "The museum parking lot is paved and mud-free."
+              }
+            },
+            {
+              "name": "DniproHES Dam",
+              "tip_5lang": {
+                "de": "Langsam fahren; Aquaplaning-Gefahr auf dem Damm.",
+                "hu": "Vezessen lassan; fennáll az aquaplaning veszélye a gáton.",
+                "ro": "Conduceți încet; risc de acvaplanare pe baraj.",
+                "en": "Drive slowly; risk of aquaplaning on the dam surface."
+              }
+            },
+            {
+              "name": "Faeton Auto Museum",
+              "tip_5lang": {
+                "de": "Die riesigen Hallen sind der perfekte Zufluchtsort vor dem Regen.",
+                "hu": "A hatalmas csarnokok tökéletes menedéket nyújtanak az eső elől.",
+                "ro": "Halele uriașe sunt refugiul perfect împotriva ploii.",
+                "en": "The massive halls are the perfect refuge from the rain."
+              }
+            },
+            {
+              "name": "Motor Sich Aviation Museum",
+              "tip_5lang": {
+                "de": "Der Innenbereich bietet stundenlange Unterhaltung im Trockenen.",
+                "hu": "A benti rész órákig tartó szórakozást nyújt szárazon.",
+                "ro": "Interiorul oferă ore întregi de divertisment la adăpost.",
+                "en": "The indoor section offers hours of entertainment in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt über den Damm.",
+              "Die Straßenmarkierungen in Saporischschja sind bei Nässe schwer erkennbar.",
+              "Nutzen Sie die Parkplätze direkt vor den Museen, um Wege im Regen zu minimieren.",
+              "Achten Sie auf tiefe Pfützen am rechten Fahrbahnrand des Prospekts.",
+              "Lüftung auf die Frontscheibe richten, um Beschlagen zu verhindern."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket a gáton való átkelés előtt.",
+              "Az útburkolati jelek Saporizzsjában nedvesen nehezen láthatóak.",
+              "Parkoljon közvetlenül a múzeumok előtt, hogy keveset kelljen áznia.",
+              "Ügyeljen a mély tócsákra a sugárút jobb szélén.",
+              "Irányítsa a szellőzést a szélvédőre a párásodás elkerülése érdekében."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a traversa barajul.",
+              "Marcajele rutiere din Zaporizhzhia sunt greu de văzut pe timp umed.",
+              "Folosiți parcările direct în fața muzeelor pentru a minimiza mersul prin ploaie.",
+              "Atenție la bălțile adânci de pe marginea dreaptă a bulevardului.",
+              "Direcționați ventilația spre parbriz pentru a preveni aburirea."
+            ],
+            "en": [
+              "Check your wipers before driving across the dam.",
+              "Road markings in Zaporizhzhia can be hard to see in wet conditions.",
+              "Use parking spots directly in front of museums to minimize walking in rain.",
+              "Watch out for deep puddles on the right side of the main avenue.",
+              "Direct ventilation to the windshield to prevent fogging inside."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im warmen Auto gleiten wir durch das verschneite Saporischschja. Die Museen Faeton und Motor Sich sind ideal temperiert und bieten einen tiefen Einblick in die Technikgeschichte, während draußen der Frost klirrt. Der Ausblick vom Auto auf den vereisten Dnjepr und den DniproHES-Damm ist spektakulär und sicher vor dem schneidenden Wind.",
+            "hu": "A fűtött autóban ülve fedezzük fel a havas Saporizzsját. A Faeton és a Motor Szics múzeumok kellemesen melegek, mély betekintést nyújtva a technikatörténetbe, miközben kint röpködnek a mínuszok. Az autóból nyíló kilátás a jeges Dnyeperre és a gátra látványos, miközben védve vagyunk a metsző széltől.",
+            "ro": "În mașina încălzită, alunecăm prin Zaporizhzhia înzăpezită. Muzeele Faeton și Motor Sich sunt bine încălzite și oferă o incursiune în istoria tehnicii, în timp ce afară gerul persistă. Vederea din mașină asupra Niprului înghețat și a barajului DniproHES este spectaculoasă și sigură de vântul tăios.",
+            "en": "In a warm car, we glide through snowy Zaporizhzhia. The Faeton and Motor Sich museums are comfortably heated, offering a deep dive into technical history while frost bites outside. The view from the car of the icy Dnieper and the DniproHES dam is spectacular and safe from the cutting wind."
+          },
+          "stops": [
+            {
+              "name": "Start at Sobornyi Prospekt",
+              "tip_5lang": {
+                "de": "Planen Sie Zeit zum Enteisen der Scheiben ein.",
+                "hu": "Számoljon plusz idővel a szélvédők jégtelenítéséhez.",
+                "ro": "Planificați timp suplimentar pentru degivrarea parbrizului.",
+                "en": "Plan extra time for de-icing the windows."
+              }
+            },
+            {
+              "name": "Voznesenivskyi Park",
+              "tip_5lang": {
+                "de": "Die Parkwege sind oft glatt; bleiben Sie im Auto für die beste Sicht.",
+                "hu": "A parki utak gyakran jegesek; maradjunk az autóban a kilátásért.",
+                "ro": "Drumurile din parc sunt adesea alunecoase; rămâneți în mașină pentru vedere.",
+                "en": "Park roads are often slippery; stay in the car for the best views."
+              }
+            },
+            {
+              "name": "Khortytsia Island & Cossack Museum",
+              "tip_5lang": {
+                "de": "Die Zufahrt zur Insel kann bei Schneefall rutschig sein.",
+                "hu": "A szigetre vezető út hóesésben csúszós lehet.",
+                "ro": "Accesul pe insulă poate fi alunecos în timpul ninsorii.",
+                "en": "The access road to the island can be slippery during snowfall."
+              }
+            },
+            {
+              "name": "DniproHES Dam",
+              "tip_5lang": {
+                "de": "Vorsicht vor Blitzeis auf der Brückenoberfläche.",
+                "hu": "Vigyázzon a híd felületén kialakuló fekete jégre.",
+                "ro": "Atenție la polei pe suprafața podului.",
+                "en": "Beware of black ice on the bridge surface."
+              }
+            },
+            {
+              "name": "Faeton Auto Museum",
+              "tip_5lang": {
+                "de": "Großer, geräumter Parkplatz direkt vor dem Eingang.",
+                "hu": "Nagy, letakarított parkoló várja közvetlenül a bejáratnál.",
+                "ro": "Parcare mare deszăpezită direct în fața intrării.",
+                "en": "Large, cleared parking lot directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Motor Sich Aviation Museum",
+              "tip_5lang": {
+                "de": "Perfekter Stopp, um die Kälte für ein bis zwei Stunden zu vergessen.",
+                "hu": "Tökéletes állomás, hogy egy-két órára elfelejtse a kinti hideget.",
+                "ro": "Oprire perfectă pentru a uita de frig timp de una-două ore.",
+                "en": "Perfect stop to forget the cold for an hour or two."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Frostschutzmittel bis -20°C hält.",
+              "Die Brücken über den Dnjepr frieren schneller zu als der Boden.",
+              "Führen Sie immer eine Schneeschaufel und einen Eiskratzer mit.",
+              "Batterien schwächeln bei extremer Kälte; prüfen Sie den Ladezustand.",
+              "Die Hauptstraßen sind meist geräumt, Nebenstraßen oft spiegelglatt."
+            ],
+            "hu": [
+              "Ellenőrizze, hogy a fagyálló bírja-e a -20°C-ot.",
+              "A Dnyeper hídjai gyorsabban lefagynak, mint a talaj.",
+              "Mindig legyen az autóban hólapát és jégkaparó.",
+              "Az akkumulátorok gyengülhetnek a hidegben; ellenőrizze az állapotukat.",
+              "A főutakat takarítják, de a mellékutcák gyakran jégpályák."
+            ],
+            "ro": [
+              "Asigurați-vă că antigelul rezistă până la -20°C.",
+              "Podurile peste Nipru îngheață mai repede decât solul.",
+              "Aveți întotdeauna în mașină o lopată de zăpadă și o răzuitoare de gheață.",
+              "Bateriile slăbesc la frig extrem; verificați starea de încărcare.",
+              "Drumurile principale sunt deszăpezite, dar străzile secundare sunt adesea polei."
+            ],
+            "en": [
+              "Ensure your antifreeze is rated for at least -20°C.",
+              "Bridges over the Dnieper freeze much faster than solid ground.",
+              "Always carry a snow shovel and an ice scraper in the vehicle.",
+              "Batteries can fail in extreme cold; check their charge level.",
+              "Main roads are usually cleared, but side streets can be ice rinks."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -974,6 +1508,178 @@
           "Buy a day pass for public transport.",
           "Marshrutkas (minibuses) often stop on demand, not just at fixed stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit den charakteristischen Oberleitungsbussen erkunden wir Saporischschja trotz Regen. Wir springen trocken von Bus zu Bus und erreichen die Insel Chortyzja bequem. Das Kosakenmuseum bietet Schutz und Geschichte, während wir draußen das Wetter beobachten. Ein Tag im Rhythmus der Stadt, sicher vor dem Wind und den grauen Wolken über dem Dnjepr.",
+            "hu": "A jellegzetes trolibuszokkal fedezzük fel Saporizzsját az eső ellenére is. Szárazon szállunk át egyik járatról a másikra, kényelmesen elérve a Horticja-szigetet. A Kozák Múzeum védelmet és történelmi kalandot nyújt, miközben kint az eső mossa a tájat. A város ritmusát követjük, védve a szélttől és a szürke felhőktől.",
+            "ro": "Cu troleibuzele caracteristice explorăm Zaporizhzhia în ciuda ploii. Sărim uscați dintr-un vehicul în altul, ajungând confortabil pe insula Khortytsia. Muzeul Căzăcimii oferă adăpost și istorie, în timp ce privim ploaia de afară. O zi în ritmul orașului, feriți de vânt și de norii cenușii de deasupra Niprului.",
+            "en": "With the characteristic trolleybuses, we explore Zaporizhzhia despite the rain. We hop dryly from bus to bus, reaching Khortytsia Island comfortably. The Cossack Museum provides shelter and history while we watch the weather outside. A day in the rhythm of the city, safe from the wind and grey clouds over the Dnieper."
+          },
+          "stops": [
+            {
+              "name": "Meet at Sobornyi Prospekt",
+              "tip_5lang": {
+                "de": "Überdachte Haltestellen bieten Schutz beim Warten auf den Bus.",
+                "hu": "A fedett megállók védelmet nyújtanak a buszra várva.",
+                "ro": "Stațiile acoperite oferă protecție în timp ce așteptați autobuzul.",
+                "en": "Covered bus stops provide shelter while waiting for your ride."
+              }
+            },
+            {
+              "name": "Trip to Khortytsia Island",
+              "tip_5lang": {
+                "de": "Die Busse zur Insel fahren seltener; prüfen Sie den Fahrplan im Trockenen.",
+                "hu": "A szigetre járó buszok ritkábban járnak; ellenőrizze a menetrendet.",
+                "ro": "Autobuzele spre insulă circulă mai rar; verificați orarul la adăpost.",
+                "en": "Buses to the island run less frequently; check the schedule while dry."
+              }
+            },
+            {
+              "name": "Cossack Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist der perfekte Ort, um einen starken Schauer abzuwarten.",
+                "hu": "A múzeum tökéletes hely egy nagyobb zápor átvészelésére.",
+                "ro": "Muzeul este locul perfect pentru a aștepta trecerea unei averse.",
+                "en": "The museum is the perfect place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Trip to DniproHES",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Damm aus dem Fenster des Trolleybusses.",
+                "hu": "Élvezze a gát látványát a trolibusz ablakából.",
+                "ro": "Bucurați-vă de vederea barajului de la fereastra troleibuzului.",
+                "en": "Enjoy the view of the dam from the trolleybus window."
+              }
+            },
+            {
+              "name": "Return to Voznesenivskyi Park",
+              "tip_5lang": {
+                "de": "Kurzer Sprint von der Haltestelle zum Parkeingang einplanen.",
+                "hu": "Tervezzen be egy rövid futást a megállótól a park bejáratáig.",
+                "ro": "Planificați un scurt sprint de la stație până la intrarea în parc.",
+                "en": "Plan for a short sprint from the stop to the park entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'CityBus Zaporizhzhia' App für Echtzeit-Daten.",
+              "In den Marschrutkas kann es bei Regen durch die Feuchtigkeit eng werden.",
+              "Halten Sie Kleingeld bereit, um die Interaktion beim Bezahlen kurz zu halten.",
+              "Die großen Trolleybusse bieten mehr Platz für nasse Regenschirme.",
+              "Die Haltestellen am Prospekt sind meist gut beleuchtet und markiert."
+            ],
+            "hu": [
+              "Használja a 'CityBus Zaporizhzhia' alkalmazást a valós idejű adatokhoz.",
+              "A marsrutkákban esőben a pára miatt zsúfoltságérzet alakulhat ki.",
+              "Legyen kéznél aprópénz, hogy gyors legyen a fizetés a sofőrnél.",
+              "A nagy trolibuszokon több hely van a vizes esernyőknek.",
+              "A sugárút megállói általában jól megvilágítottak és jelzettek."
+            ],
+            "ro": [
+              "Folosiți aplicația 'CityBus Zaporizhzhia' pentru date în timp real.",
+              "În marșrutka poate fi înghesuială și umezeală pe timp de ploaie.",
+              "Aveți pregătit mărunțiș pentru a plăti rapid biletul.",
+              "Troleibuzele mari oferă mai mult spațiu pentru umbrelele ude.",
+              "Stațiile de pe bulevard sunt de obicei bine iluminate și marcate."
+            ],
+            "en": [
+              "Use the 'CityBus Zaporizhzhia' app for real-time transit data.",
+              "Marshrutkas can feel cramped and humid during rainy weather.",
+              "Have small change ready to keep payment interaction quick.",
+              "Large trolleybuses offer more space for wet umbrellas.",
+              "Stops along the Prospekt are generally well-lit and clearly marked."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir nutzen das dichte Netz aus Trolleybussen und Marschrutkas, um die winterliche Stadt zu durchqueren. Während draußen die Kälte klirrt, bieten die öffentlichen Verkehrsmittel eine willkommene Aufwärmpause zwischen den Stopps. Die Fahrt über den Dnjepr zur Insel Chortyzja offenbart weite, weiße Landschaften, sicher beobachtet aus dem beheizten Innenraum.",
+            "hu": "A trolibuszok és marsrutkák sűrű hálózatát használjuk a téli város átszeléséhez. Miközben kint röpködnek a mínuszok, a tömegközlekedési eszközök kellemes melegedő szünetet nyújtanak az állomások között. A Dnyeperen átvezető út a Horticja-szigetre tágas, fehér tájakat tár elénk, a fűtött utastérből figyelve.",
+            "ro": "Folosim rețeaua densă de troleibuze și marșrutka pentru a traversa orașul hibernal. În timp ce afară e ger, transportul public oferă o pauză de încălzire binevenită între opriri. Călătoria peste Nipru spre insula Khortytsia dezvăluie peisaje albe vaste, observate în siguranță din interiorul încălzit.",
+            "en": "We use the dense network of trolleybuses and marshrutkas to cross the wintry city. While the cold bites outside, public transit provides a welcome warming break between stops. The journey across the Dnieper to Khortytsia Island reveals vast white landscapes, safely observed from the heated interior."
+          },
+          "stops": [
+            {
+              "name": "Meet at Sobornyi Prospekt",
+              "tip_5lang": {
+                "de": "Warten Sie in den nahegelegenen Kiosken, wenn der Bus Verspätung hat.",
+                "hu": "Várjon a közeli kioszkokban, ha késik a busz.",
+                "ro": "Așteptați în chioșcurile din apropiere dacă autobuzul întârzie.",
+                "en": "Wait in nearby kiosks if the bus is running late."
+              }
+            },
+            {
+              "name": "Trip to Khortytsia Island",
+              "tip_5lang": {
+                "de": "Die Heizung in den Bussen zur Insel ist meist sehr effektiv.",
+                "hu": "A szigetre tartó buszokon általában nagyon jó a fűtés.",
+                "ro": "Încălzirea în autobuzele spre insulă este de obicei foarte eficientă.",
+                "en": "The heating in buses to the island is usually quite effective."
+              }
+            },
+            {
+              "name": "Cossack Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrtzeiten; im Winter fahren weniger Busse.",
+                "hu": "Ellenőrizze a visszautat; télen kevesebb járat indul a szigetről.",
+                "ro": "Verificați orele de întoarcere; iarna circulă mai puține autobuze.",
+                "en": "Check return times; fewer buses run from the island in winter."
+              }
+            },
+            {
+              "name": "Trip to DniproHES",
+              "tip_5lang": {
+                "de": "Beschlagene Fenster können die Sicht auf den Damm einschränken.",
+                "hu": "A párás ablakok korlátozhatják a kilátást a gátra.",
+                "ro": "Ferestrele aburite pot limita vizibilitatea asupra barajului.",
+                "en": "Foggy windows may limit the view of the dam from the bus."
+              }
+            },
+            {
+              "name": "Return to Voznesenivskyi Park",
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf Eisflächen an den Haltestellen.",
+                "hu": "Leszálláskor ügyeljen a megállóknál kialakult jégre.",
+                "ro": "Atenție la gheața din stații la coborârea din vehicul.",
+                "en": "Watch out for icy patches at the stops when disembarking."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Fahrpläne können sich bei starkem Schneefall kurzfristig ändern.",
+              "In den Trolleybussen ist es oft wärmer als in den kleineren Marschrutkas.",
+              "Tragen Sie Handschuhe, die Touchscreens an den Fahrkartenautomaten bedienen können.",
+              "Die Wartebereiche an den Hauptknotenpunkten sind oft windgeschützt.",
+              "Planen Sie mehr Zeit für Umstiege ein, da der Verkehr langsamer fließt."
+            ],
+            "hu": [
+              "Erős hóesésben a menetrendek rövid távon módosulhatnak.",
+              "A trolibuszokon gyakran melegebb van, mint a kis marsrutkákban.",
+              "Viseljen érintőképernyő-barát kesztyűt a jegyautomata használatához.",
+              "A főbb csomópontok váróterületei gyakran szélvédettek.",
+              "Szánjon több időt az átszállásokra a lassabb forgalom miatt."
+            ],
+            "ro": [
+              "Orarele se pot modifica rapid în caz de ninsoare puternică.",
+              "În troleibuze este adesea mai cald decât în marșrutkile mici.",
+              "Purtați mănuși compatibile cu ecranele tactile pentru automatele de bilete.",
+              "Zonele de așteptare din nodurile principale sunt adesea ferite de vânt.",
+              "Planificați mai mult timp pentru transferuri din cauza traficului lent."
+            ],
+            "en": [
+              "Schedules may change on short notice during heavy snowfall.",
+              "Trolleybuses are often warmer than the smaller marshrutkas.",
+              "Wear touch-screen friendly gloves to use ticket machines easily.",
+              "Waiting areas at major transit hubs are often sheltered from the wind.",
+              "Allow extra time for transfers as traffic moves slower in winter."
+            ]
+          }
+        }
       }
     }
   }

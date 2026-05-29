@@ -242,6 +242,178 @@
           "Wear comfortable shoes as most of the exploring is on foot.",
           "Check the museum's opening hours in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Spaziergang beginnt auf dem regnerischen Stadtplatz, wo Pfützen die Fassaden spiegeln. Vormittags bietet die St.-Jakobus-Kirche trockenen Unterschlupf. Den Mittag verbringen wir ausgiebig im Heimatmuseum Jonava, geschützt vor dem Guss. Nachmittags führt der Weg über die Brücke zum Joninės-Tal, wo die Natur trotz Nässe leuchtet. Den Abend lassen wir bei den beleuchteten Teichen ausklingen.",
+            "hu": "Az esős séta a város főterén indul, ahol a tócsák tükrözik az épületeket. Délelőtt a Szent Jakab-templom nyújt menedéket a zápor elől. A delet a Jonava Múzeumban töltjük, hosszan böngészve a kiállításokat a szárazban. Délután az esőben is zöldellő Joninės-völgybe sétálunk át a hídon keresztül. Az estét a völgy megvilágított, vizes ösvényein, a friss levegőn zárjuk.",
+            "ro": "Plimbarea începe în piața orașului sub o ploaie ușoară care reflectă luminile pe asfalt. Dimineața, biserica Sf. Iacob oferă un refugiu liniștit și uscat. Prânzul este rezervat Muzeului Jonava, perfect pentru a evita precipitațiile. După-amiaza traversăm podul spre Valea Joninės, unde natura este vibrantă chiar și udă. Seara se încheie cu o plimbare printre iazurile sclipitoare sub umbrelă.",
+            "en": "The walk starts at the rainy Town Square, where puddles mirror the surroundings. In the morning, St. James Church provides a dry sanctuary. We spend mid-day inside the Jonava Museum, staying warm and sheltered. Afternoon leads across the bridge to Joninės Valley, where the wet landscape remains lush. The evening concludes by the illuminated ponds, enjoying the fresh, rain-washed air."
+          },
+          "stops": [
+            {
+              "name": "Jonava Town Square",
+              "tip_5lang": {
+                "de": "Unter den Vordächern der Cafés am Platzrand trocken bleiben.",
+                "hu": "A tér szélén lévő kávézók előtetői alatt keressen menedéket.",
+                "ro": "Adăpostiți-vă sub streșinile cafenelelor de la marginea pieței.",
+                "en": "Shelter under the cafe awnings at the edge of the square."
+              }
+            },
+            {
+              "name": "Church of St. James the Apostle",
+              "tip_5lang": {
+                "de": "Die Akustik des Regens auf dem Kirchendach ist sehr beruhigend.",
+                "hu": "A templomtetőn kopogó eső hangja különleges hangulatot áraszt.",
+                "ro": "Sunetul ploii pe acoperișul bisericii creează o atmosferă calmă.",
+                "en": "The sound of rain on the church roof creates a calm atmosphere."
+              }
+            },
+            {
+              "name": "Jonava Museum",
+              "tip_5lang": {
+                "de": "Ideale Zeit, um die gesamte Innenausstellung ohne Eile zu sehen.",
+                "hu": "Ideális idő a teljes belső kiállítás kényelmes megtekintéséhez.",
+                "ro": "Moment ideal pentru a vedea întreaga expoziție fără grabă.",
+                "en": "Ideal time to see the entire indoor exhibition without rushing."
+              }
+            },
+            {
+              "name": "Jonava Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Gehweg, die Metallteile können rutschig sein.",
+                "hu": "Vigyázat a járdán, a fém elemek csúszósak lehetnek az esőben.",
+                "ro": "Atenție pe trotuar, elementele metalice pot fi alunecoase.",
+                "en": "Watch your step; metal parts on the bridge can be slippery."
+              }
+            },
+            {
+              "name": "Joninės Valley",
+              "tip_5lang": {
+                "de": "Wasserdichte Schuhe sind für die Wege im Tal heute notwendig.",
+                "hu": "A völgy ösvényeihez ma vízálló lábbeli mindenképpen ajánlott.",
+                "ro": "Încălțămintea impermeabilă este necesară pentru potecile din vale.",
+                "en": "Waterproof footwear is essential for the valley paths today."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Durchgänge am Platz als Regenschutz.",
+              "Das Museum bietet Garderoben für nasse Mäntel und Schirme.",
+              "Die Brücke ist bei Wind und Regen sehr exponiert.",
+              "Planen Sie Kaffeepausen ein, um Kleidung zu trocknen.",
+              "Die Wege im Tal sind befestigt, aber Pfützen bilden sich schnell."
+            ],
+            "hu": [
+              "Használja a tér árkádjait az eső elleni védekezéshez.",
+              "A múzeumban van ruhatár a vizes kabátoknak és ernyőknek.",
+              "A híd szeles és esős időben nagyon kitett, készüljön fel.",
+              "Tervezzen be kávézókat a ruházat megszárításához.",
+              "A völgyi utak szilárdak, de a tócsák gyorsan kialakulnak."
+            ],
+            "ro": [
+              "Folosiți arcadele din piață pentru a vă proteja de ploaie.",
+              "Muzeul are garderobă pentru haine ude și umbrele.",
+              "Podul este foarte expus în condiții de vânt și ploaie.",
+              "Planificați pauze la cafenele pentru a vă usca hainele.",
+              "Potecile din vale sunt pavate, dar bălțile apar rapid."
+            ],
+            "en": [
+              "Use the square's arcades for protection against the rain.",
+              "The museum has a cloakroom for wet coats and umbrellas.",
+              "The bridge is very exposed during wind and rain; be prepared.",
+              "Plan cafe stops to allow your clothes to dry out.",
+              "Valley paths are paved, but puddles form quickly."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Jonava im Winter glänzt frostig auf dem Stadtplatz. Vormittags besuchen wir die St.-Jakobus-Kirche, in der die Kerzen eine warme Atmosphäre schaffen. Den Mittag verbringen wir im gut beheizten Jonava Museum, um der Kälte zu entfliehen. Nachmittags überqueren wir die eisige Neris auf der Brücke und erreichen das verschneite Joninės-Tal. Der Tag endet früh bei Sonnenuntergang gegen 16:00 Uhr.",
+            "hu": "Jonava télen fagyos fénnyel ragyog a főtéren. Délelőtt a Szent Jakab-templomot látogatjuk meg, ahol a gyertyák melegséget árasztanak. A delet a jól fűtött Jonava Múzeumban töltjük, elmenekülve a kinti hideg elől. Délután átkelünk a hídon a jeges Neris felett, és elérjük a havas Joninės-völgyet. A nap korán, a 16:00 körüli naplementével ér véget a völgyben.",
+            "ro": "Jonava iarna strălucește sub ger în piața centrală. Dimineața vizităm biserica Sf. Iacob, unde lumânările creează o ambianță caldă. Prânzul îl petrecem în Muzeul Jonava bine încălzit, evitând frigul de afară. După-amiaza traversăm Neris-ul înghețat pe pod spre Valea Joninės înzăpezită. Ziua se încheie devreme, odată cu apusul soarelui în jurul orei 16:00.",
+            "en": "Winter in Jonava begins with a frosty glow on the Town Square. In the morning, we visit St. James Church, where candles provide a warm ambiance. Mid-day is spent in the well-heated Jonava Museum, escaping the outdoor chill. In the afternoon, we cross the icy Neris river via the bridge to reach the snowy Joninės-Valley. The day ends early with the 4:00 PM sunset in the valley."
+          },
+          "stops": [
+            {
+              "name": "Jonava Town Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Granitplatten des Platzes.",
+                "hu": "Vigyázzon a tér gránitlapjain kialakuló jegesedésre.",
+                "ro": "Atenție la poleiul de pe plăcile de granit din piață.",
+                "en": "Watch out for black ice on the square's granite tiles."
+              }
+            },
+            {
+              "name": "Church of St. James the Apostle",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte, bleiben Sie in Bewegung.",
+                "hu": "A vastag falak tartják a hideget, maradjon mozgásban bent is.",
+                "ro": "Zidurile groase rețin frigul, rămâneți în mișcare în interior.",
+                "en": "The thick walls keep the cold in; stay moving while inside."
+              }
+            },
+            {
+              "name": "Jonava Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme hier, um sich für den Rest des Tages aufzuwärmen.",
+                "hu": "Használja ki a benti meleget a nap további részére való felkészüléshez.",
+                "ro": "Profită de căldura de aici pentru a te încălzi pentru restul zilei.",
+                "en": "Take advantage of the warmth here to heat up for the rest of the day."
+              }
+            },
+            {
+              "name": "Jonava Bridge",
+              "tip_5lang": {
+                "de": "Der Wind über dem Fluss verstärkt die Kälte deutlich.",
+                "hu": "A folyó feletti szél jelentősen felerősíti a hidegérzetet.",
+                "ro": "Vântul de deasupra râului amplifică semnificativ senzația de frig.",
+                "en": "The wind over the river significantly increases the chill factor."
+              }
+            },
+            {
+              "name": "Joninės Valley",
+              "tip_5lang": {
+                "de": "Die Beleuchtung der Skipiste sorgt für Licht in der Dunkelheit.",
+                "hu": "A sípálya világítása fényt ad a korai téli sötétségben.",
+                "ro": "Luminile de pe pârtia de schi oferă vizibilitate în întuneric.",
+                "en": "The ski slope lighting provides visibility in the early darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip für extreme Kälte.",
+              "Die Sonne geht im Dezember bereits gegen 15:50 Uhr unter.",
+              "Vorsicht vor Schneematsch auf der Neris-Brücke.",
+              "Warme Getränke gibt es in den Cafés nahe des Museums.",
+              "Die Skipiste im Tal ist im Winter oft in Betrieb."
+            ],
+            "hu": [
+              "Öltözzön rétegesen az extrém hideg elleni védekezéshez.",
+              "A nap decemberben már 15:50 körül lenyugszik.",
+              "Vigyázzon a latyakos részekkel a Neris-hídon.",
+              "Meleg italokat a múzeum közeli kávézókban talál.",
+              "A völgyben lévő sípálya télen gyakran üzemel."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru protecție împotriva gerului.",
+              "Soarele apune deja în jurul orei 15:50 în decembrie.",
+              "Atenție la porțiunile cu lapoviță de pe podul Neris.",
+              "Găsiți băuturi calde în cafenelele de lângă muzeu.",
+              "Pârtia de schi din vale este adesea operațională iarna."
+            ],
+            "en": [
+              "Dress in layers to protect yourself from the extreme cold.",
+              "The sun sets as early as 3:50 PM in December.",
+              "Watch out for slushy patches on the Neris bridge.",
+              "Hot drinks are available in cafes near the museum.",
+              "The ski slope in the valley is often active in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -502,6 +674,196 @@
           "Check your tire pressure before setting off.",
           "Bring plenty of water, especially for the ride to the viewpoint."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour durch das regnerische Jonava erfordert Konzentration auf dem Stadtplatz. Vormittags radeln wir zur St.-Jakobus-Kirche, wo wir unter dem Portal kurz pausieren. Der Mittag im Museum dient dem Trocknen der Ausrüstung. Nachmittags überqueren wir die windige Brücke und erkunden die nassen Pfade im Joninės-Tal. Zum Abschluss führt die Fahrt zum Rimkai-Aussichtspunkt, meist in Wolken gehüllt.",
+            "hu": "A kerékpártúra az esős Jonavában nagy figyelmet igényel a főtéren. Délelőtt a Szent Jakab-templomhoz tekerünk, ahol a bejáratnál pihenünk. A delet a múzeumban töltjük, hogy felszerelésünk megszáradjon. Délután a szeles hídon át a Joninės-völgy vizes ösvényeit fedezzük fel. Végül a Rimkai kilátóhoz tekerünk fel, amely ilyenkor gyakran felhőkbe burkolózik.",
+            "ro": "Turul cu bicicleta prin Jonava ploioasă necesară concentrare în piață. Dimineața pedalăm spre biserica Sf. Iacob pentru o scurtă pauză la intrare. Prânzul la muzeu servește la uscarea echipamentului. După-amiaza traversăm podul vântos spre potecile ude din Valea Joninės. La final, urcăm spre punctul de belvedere Rimkai, adesea învăluit în nori.",
+            "en": "The bike tour through rainy Jonava requires focus on the Town Square. In the morning, we cycle to St. James Church, pausing under the portal. Mid-day at the museum serves for drying off gear. In the afternoon, we cross the windy bridge and explore the wet paths of Joninės Valley. Finally, the ride leads to Rimkai Viewpoint, often shrouded in low clouds."
+          },
+          "stops": [
+            {
+              "name": "Jonava Town Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf dem nassen Pflaster.",
+                "hu": "Vigyázzon a fékezéssel a nedves díszburkolaton.",
+                "ro": "Atenție la frânare pe pavajul ud din piață.",
+                "en": "Be careful when braking on the wet pavement."
+              }
+            },
+            {
+              "name": "Church of St. James the Apostle",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich nahe dem Seiteneingang.",
+                "hu": "A kerékpártárolókat az oldalsó bejáratnál találja.",
+                "ro": "Suporturile pentru biciclete sunt lângă intrarea laterală.",
+                "en": "Bike racks are located near the side entrance."
+              }
+            },
+            {
+              "name": "Jonava Museum",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Platz für nasse Helme im Eingangsbereich.",
+                "hu": "Kérjen helyet a vizes sisakoknak a bejárati részen.",
+                "ro": "Cereți un loc pentru căștile ude în zona de intrare.",
+                "en": "Ask for a spot for wet helmets in the entrance area."
+              }
+            },
+            {
+              "name": "Jonava Bridge",
+              "tip_5lang": {
+                "de": "Starker Seitenwind kann das Lenken auf der Brücke erschweren.",
+                "hu": "Az erős oldalszél megnehezítheti a kormányzást a hídon.",
+                "ro": "Vântul lateral puternic poate îngreuna direcția pe pod.",
+                "en": "Strong side winds can make steering difficult on the bridge."
+              }
+            },
+            {
+              "name": "Joninės Valley",
+              "tip_5lang": {
+                "de": "Die Kurven auf den Wegen können durch Laub rutschig sein.",
+                "hu": "Az utak kanyarjai a levelektől csúszósak lehetnek.",
+                "ro": "Curbele de pe poteci pot fi alunecoase din cauza frunzelor.",
+                "en": "Path curves can be slippery due to wet leaves."
+              }
+            },
+            {
+              "name": "Rimkai Viewpoint",
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Regen rutschig, vorsichtig fahren.",
+                "hu": "Az emelkedő esőben csúszós, tekerjen óvatosan.",
+                "ro": "Urcarea este alunecoasă pe ploaie, pedalați cu prudență.",
+                "en": "The climb is slippery in the rain; cycle cautiously."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind heute unverzichtbar.",
+              "Vermeiden Sie Markierungen auf der Straße, diese sind extrem glatt.",
+              "Wasserdichte Handschuhe halten die Finger beweglich.",
+              "Nutzen Sie die Brücke zügig, um dem Wind zu entkommen.",
+              "Licht am Fahrrad einschalten, da die Sicht oft schlecht ist."
+            ],
+            "hu": [
+              "A sárvédő használata ma elengedhetetlen a bringán.",
+              "Kerülje az útburkolati jeleket, ezek rendkívül csúsznak.",
+              "A vízálló kesztyű segít melegen tartani az ujjakat.",
+              "Haladjon tempósan a hídon, hogy mielőbb szélvédett helyre érjen.",
+              "Kapcsolja be a világítást a korlátozott látási viszonyok miatt."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile astăzi pe bicicletă.",
+              "Evitați marcajele rutiere, acestea sunt extrem de alunecoase.",
+              "Mănușile impermeabile mențin degetele mobile.",
+              "Traversați podul rapid pentru a scăpa de vântul puternic.",
+              "Aprindeți luminile bicicletei, vizibilitatea este adesea redusă."
+            ],
+            "en": [
+              "Mudguards on your bike are indispensable today.",
+              "Avoid road markings; they are extremely slippery when wet.",
+              "Waterproof gloves will keep your fingers mobile.",
+              "Cross the bridge quickly to escape the heavy wind.",
+              "Turn on your bike lights as visibility is often poor."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Jonava beginnt auf dem eisigen Stadtplatz. Vormittags geht es zur St.-Jakobus-Kirche, wobei wir auf gefrorene Stellen achten. Der Mittag im warmen Museum ist wichtig, um die Glieder aufzutauen. Nachmittags überqueren wir die Neris-Brücke bei schneidendem Wind zum Joninės-Tal. Die Tour endet am Rimkai-Aussichtspunkt, von dem man die verschneite Stadt im frühen Abendlicht sieht.",
+            "hu": "A téli kerékpározás Jonavában a jeges főtéren indul. Délelőtt a Szent Jakab-templom felé tekerünk, ügyelve a felfagyásokra. A delet a meleg múzeumban töltjük, hogy átmelegedjenek a végtagjaink. Délután a metsző szélben tekerünk át a Neris-hídon a Joninės-völgybe. A túra a Rimkai kilátónál zárul, ahonnan a havas várost látjuk az esti fényekben.",
+            "ro": "Ciclismul de iarnă în Jonava începe în piața centrală înghețată. Dimineața ne îndreptăm spre biserica Sf. Iacob, atenți la porțiunile cu gheață. Prânzul în muzeul cald este esențial pentru dezghețarea membrelor. După-amiaza traversăm podul peste Neris prin vânt tăios spre Valea Joninės. Turul se încheie la punctul Rimkai, oferind o vedere asupra orașului înzăpezit.",
+            "en": "Winter cycling in Jonava starts on the icy Town Square. In the morning, we head to St. James Church, watching for frozen patches. Mid-day in the warm museum is vital for thawing out. In the afternoon, we cross the Neris bridge in biting wind towards Joninės Valley. The tour ends at Rimkai Viewpoint, offering a view of the snowy city in the early evening light."
+          },
+          "stops": [
+            {
+              "name": "Jonava Town Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Kondenswasser auf dem Pflaster.",
+                "hu": "Vigyázzon a burkolaton megfagyott párával.",
+                "ro": "Atenție la condensul înghețat de pe pavaj.",
+                "en": "Watch out for frozen condensation on the pavement."
+              }
+            },
+            {
+              "name": "Church of St. James the Apostle",
+              "tip_5lang": {
+                "de": "Kurze Pause im Vorraum, um die Brille abzuwischen.",
+                "hu": "Rövid pihenő az előtérben a szemüveg páramentesítésére.",
+                "ro": "Scurtă pauză în vestibul pentru a șterge ochelarii.",
+                "en": "Short break in the vestibule to wipe your glasses."
+              }
+            },
+            {
+              "name": "Jonava Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Schloss nicht einfriert.",
+                "hu": "Győződjön meg róla, hogy a kerékpárzár nem fagy be.",
+                "ro": "Asigurați-vă că antifurtul bicicletei nu îngheață.",
+                "en": "Make sure your bike lock does not freeze up."
+              }
+            },
+            {
+              "name": "Jonava Bridge",
+              "tip_5lang": {
+                "de": "Der Windchill-Effekt ist hier extrem, ziehen Sie das Tuch hoch.",
+                "hu": "A szél hűtőhatása itt extrém, húzza fel a sálat.",
+                "ro": "Efectul de răcire al vântului este extrem aici, ridicați fularul.",
+                "en": "The wind chill effect is extreme here; pull up your scarf."
+              }
+            },
+            {
+              "name": "Joninės Valley",
+              "tip_5lang": {
+                "de": "Einige Wege können für den Winterdienst gesperrt sein.",
+                "hu": "Néhány ösvény le lehet zárva a téli karbantartás miatt.",
+                "ro": "Unele poteci pot fi închise pentru întreținerea de iarnă.",
+                "en": "Some paths may be closed for winter maintenance."
+              }
+            },
+            {
+              "name": "Rimkai Viewpoint",
+              "tip_5lang": {
+                "de": "Die Abfahrt bei Kälte ist sehr fordernd für die Hände.",
+                "hu": "A hidegben való leereszkedés megterhelő a kezeknek.",
+                "ro": "Coborârea în frig este foarte solicitantă pentru mâini.",
+                "en": "The descent in the cold is very demanding on your hands."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine Sturmhaube unter dem Helm.",
+              "Prüfen Sie den Reifendruck, etwas weniger gibt mehr Grip auf Schnee.",
+              "Die Bremsleistung kann bei Kälte leicht verzögert sein.",
+              "Vermeiden Sie lange Stehzeiten, um Auskühlung zu verhindern.",
+              "Akkus von E-Bikes entladen sich bei Frost schneller."
+            ],
+            "hu": [
+              "Viseljen maszkot a sisak alatt az arc védelmére.",
+              "Ellenőrizze a guminyomást, a kevesebb jobb tapadást ad havon.",
+              "A fékhatás hidegben kissé késleltetett lehet.",
+              "Kerülje a hosszú állásidőt a kihűlés megelőzése érdekében.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül fagyban."
+            ],
+            "ro": [
+              "Purtați o cagulă sub cască pentru protecția feței.",
+              "Verificați presiunea anvelopelor, mai puțină oferă aderență pe zăpadă.",
+              "Performanța frânelor poate fi ușor întârziată la frig.",
+              "Evitați timpii lungi de staționare pentru a preveni răcirea corpului.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la ger."
+            ],
+            "en": [
+              "Wear a balaclava under your helmet for face protection.",
+              "Check tire pressure; slightly lower gives more grip on snow.",
+              "Braking performance may be slightly delayed in the cold.",
+              "Avoid long stationary periods to prevent cooling down.",
+              "E-bike batteries discharge faster in freezing temperatures."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -762,6 +1124,196 @@
           "Use a navigation app to navigate between clusters.",
           "Be aware of parking fees in the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autofahrt durch das verregnete Jonava beginnt im Stadtzentrum, wo wir bequem am Platz parken. Vormittags besuchen wir die St.-Jakobus-Kirche, nur einen kurzen Sprint vom Auto entfernt. Mittags ist das Museum ein trockenes Ziel. Nachmittags fahren wir nach Skaruliai und zum Rimkai-Aussichtspunkt, wobei wir die Aussicht oft aus dem trockenen Innenraum genießen. Der Tag endet im Joninės-Tal.",
+            "hu": "Az autós túra az esős Jonavában a központban indul, kényelmes parkolással a térnél. Délelőtt a Szent Jakab-templomot látogatjuk meg, csak egy rövid futásra az autótól. Ebédidőben a múzeum kiváló száraz célpont. Délután Skaruliai és a Rimkai kilátó következik, ahol a kilátást gyakran az autóból élvezzük. A napot a Joninės-völgyben zárjuk, ahol az esőben is szép a táj.",
+            "ro": "Călătoria cu mașina prin Jonava ploioasă începe în centru, cu parcare comodă lângă piață. Dimineața vizităm biserica Sf. Iacob, la doar o scurtă fugă de mașină. La prânz, muzeul este o destinație uscată. După-amiaza mergem la Skaruliai și la punctul Rimkai, savurând vederea adesea din interiorul cald. Ziua se termină în Valea Joninės, frumoasă chiar și pe ploaie.",
+            "en": "The car tour through rainy Jonava starts in the center with convenient parking near the square. In the morning, we visit St. James Church, just a short dash from the car. At mid-day, the museum is a dry destination. The afternoon includes Skaruliai and Rimkai Viewpoint, where we often enjoy the view from the dry interior. The day concludes in Joninės Valley, scenic even in the rain."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Jonava City Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Platz für kurze Wege.",
+                "hu": "Használja a közvetlenül a térnél lévő parkolót a rövid séta érdekében.",
+                "ro": "Folosiți parcarea direct din piață pentru distanțe scurte.",
+                "en": "Use the parking lot right by the square for short walking distances."
+              }
+            },
+            {
+              "name": "Church of St. James the Apostle",
+              "tip_5lang": {
+                "de": "Der Eingangsbereich bietet Schutz beim Aussteigen.",
+                "hu": "A bejárati rész védelmet nyújt a kiszálláskor.",
+                "ro": "Zona de intrare oferă protecție la coborârea din mașină.",
+                "en": "The entrance area provides shelter when getting out of the car."
+              }
+            },
+            {
+              "name": "Jonava Museum",
+              "tip_5lang": {
+                "de": "Kostenlose Parkmöglichkeiten befinden sich in der Nähe.",
+                "hu": "Ingyenes parkolási lehetőség a közelben elérhető.",
+                "ro": "Locuri de parcare gratuite sunt disponibile în apropiere.",
+                "en": "Free parking options are available nearby."
+              }
+            },
+            {
+              "name": "Cluster B: Skaruliai",
+              "tip_5lang": {
+                "de": "Die alte Kirche ist ein ruhiger Ort bei Regen.",
+                "hu": "A régi templom csendes menedék az eső elől.",
+                "ro": "Vechea biserică este un loc liniștit pe timp de ploaie.",
+                "en": "The old church is a quiet sanctuary during the rain."
+              }
+            },
+            {
+              "name": "Cluster C: Viewpoint and Nature",
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus hat man eine gute Sicht auf die Neris.",
+                "hu": "A parkolóból is jó kilátás nyílik a Neris folyóra.",
+                "ro": "Din parcare aveți o vedere bună asupra râului Neris.",
+                "en": "You can get a good view of the Neris river from the parking lot."
+              }
+            },
+            {
+              "name": "Joninės Valley",
+              "tip_5lang": {
+                "de": "Parken Sie nahe des Pavillons, um trocken zu bleiben.",
+                "hu": "Parkoljon a pavilon közelében, hogy szárazon maradjon.",
+                "ro": "Parcați lângă pavilion pentru a rămâne uscați.",
+                "en": "Park near the pavilion to stay dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Straße nach Skaruliai.",
+              "Halten Sie Schirme im Fahrgastraum bereit.",
+              "Die Sicht am Rimkai-Aussichtspunkt kann durch Beschlag getrübt sein.",
+              "Viele Sehenswürdigkeiten haben Parkplätze direkt davor.",
+              "Nutzen Sie die Sitzheizung nach den Besichtigungen."
+            ],
+            "hu": [
+              "Vigyázzon a vízfelúszásra (aquaplaning) a Skaruliai felé vezető úton.",
+              "Tartsa az esernyőket az utastérben, könnyen elérhető helyen.",
+              "A Rimkai kilátónál a látványt korlátozhatja a párásodás.",
+              "Sok látnivaló rendelkezik közvetlen parkolóval.",
+              "Használja az ülésfűtést a kinti nézelődés után."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul spre Skaruliai.",
+              "Păstrați umbrelele în habitaclu, la îndemână.",
+              "Vizibilitatea la punctul Rimkai poate fi redusă din cauza ceții.",
+              "Multe obiective au parcări chiar în față.",
+              "Folosiți încălzirea în scaune după vizitele de afară."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the road to Skaruliai.",
+              "Keep umbrellas in the passenger cabin for easy access.",
+              "Visibility at Rimkai Viewpoint might be limited by mist.",
+              "Many attractions have parking lots directly in front.",
+              "Use seat heating to warm up after outdoor visits."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch Jonava beginnt am Stadtplatz, umgeben von Schnee. Vormittags besuchen wir die St.-Jakobus-Kirche, wobei das Auto als warmer Stützpunkt dient. Mittags tauen wir im Museum auf. Nachmittags führt die Fahrt über geräumte Straßen nach Skaruliai und zum Rimkai-Aussichtspunkt, wo die Winterlandschaft beeindruckt. Der Tag endet im Joninės-Tal, das im Flutlicht der Skipiste erstrahlt.",
+            "hu": "A téli autós út Jonavában a hóval borított főtéren indul. Délelőtt a Szent Jakab-templomot látogatjuk meg, az autó meleg bázisként szolgál. Ebédidőben a múzeumban melegszünk fel. Délután a letakarított utakon Skaruliai és a Rimkai kilátó felé tartunk, ahol a téli táj lenyűgöző. A napot a Joninės-völgyben zárjuk, amely a sípálya fényeiben úszik.",
+            "ro": "Călătoria de iarnă cu mașina prin Jonava începe în piața acoperită de zăpadă. Dimineața vizităm biserica Sf. Iacob, mașina fiind un punct cald de sprijin. La prânz ne încălzim în muzeu. După-amiaza mergem pe drumuri deszăpezite spre Skaruliai și punctul Rimkai, unde peisajul de iarnă impresionează. Ziua se termină în Valea Joninės, luminată de pârtia de schi.",
+            "en": "A winter car trip through Jonava starts at the snow-covered Town Square. In the morning, we visit St. James Church, using the car as a warm base. Mid-day is for thawing out at the museum. In the afternoon, we drive on cleared roads to Skaruliai and Rimkai Viewpoint, where the winter scenery is impressive. The day ends in Joninės Valley, glowing under the ski slope lights."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Jonava City Center",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken in Schneehaufen am Straßenrand.",
+                "hu": "Vigyázzon a parkoláskor az útmenti hóbuckákkal.",
+                "ro": "Atenție la parcare în mormanele de zăpadă de la marginea drumului.",
+                "en": "Be careful when parking in snowdrifts along the roadside."
+              }
+            },
+            {
+              "name": "Church of St. James the Apostle",
+              "tip_5lang": {
+                "de": "Die Wege zum Eingang sind meist gestreut.",
+                "hu": "A bejárathoz vezető utakat általában felszórják.",
+                "ro": "Căile de acces spre intrare sunt de obicei presărate cu nisip.",
+                "en": "Paths to the entrance are usually gritted for safety."
+              }
+            },
+            {
+              "name": "Jonava Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Avoid idling the engine unnecessarily while stationary."
+              }
+            },
+            {
+              "name": "Cluster B: Skaruliai",
+              "tip_5lang": {
+                "de": "Die Nebenstraße kann bei Neuschnee rutschig sein.",
+                "hu": "A mellékút friss hó esetén csúszós lehet.",
+                "ro": "Drumul secundar poate fi alunecos în caz de zăpadă proaspătă.",
+                "en": "The side road can be slippery during fresh snowfall."
+              }
+            },
+            {
+              "name": "Cluster C: Viewpoint and Nature",
+              "tip_5lang": {
+                "de": "Gute Fernsicht bei klarem Frostwetter.",
+                "hu": "Tiszta, fagyos időben kiváló a távlati kilátás.",
+                "ro": "Vizibilitate excelentă la distanță în zilele geroase și senine.",
+                "en": "Excellent long-distance views during clear, frosty weather."
+              }
+            },
+            {
+              "name": "Joninės Valley",
+              "tip_5lang": {
+                "de": "Die Zufahrt zum Tal wird im Winter priorisiert geräumt.",
+                "hu": "A völgybe vezető utat télen elsőbbséggel takarítják.",
+                "ro": "Accesul spre vale este deszăpezit cu prioritate iarna.",
+                "en": "Access to the valley is prioritized for snow clearance in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Litauen gesetzlich vorgeschrieben.",
+              "Führen Sie einen Eiskratzer und Handfeger mit.",
+              "Achten Sie auf Wildwechsel auf dem Weg nach Skaruliai.",
+              "Die Parkplätze können durch Schneeräumung verkleinert sein.",
+              "Frostschutz für die Scheibenwaschanlage ist essenziell."
+            ],
+            "hu": [
+              "A téli gumi használata Litvániában törvényileg kötelező.",
+              "Tartson jégkaparót és kiskefét az autóban.",
+              "Vigyázzon a vadátvonulásokra a Skaruliai felé vezető úton.",
+              "A parkolóhelyek mérete a hókotrás miatt kisebb lehet.",
+              "A fagyálló szélvédőmosó folyadék használata elengedhetetlen."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Lituania.",
+              "Aveți la îndemână o racletă și o perie pentru zăpadă.",
+              "Atenție la animalele sălbatice pe drumul spre Skaruliai.",
+              "Locurile de parcare pot fi reduse din cauza deszăpezirii.",
+              "Lichidul de parbriz cu protecție la îngheț este esențial."
+            ],
+            "en": [
+              "Winter tires are legally required in Lithuania.",
+              "Keep an ice scraper and a snow brush in the car.",
+              "Watch out for wildlife crossings on the road to Skaruliai.",
+              "Parking spots might be smaller due to snow piles.",
+              "Antifreeze windshield washer fluid is essential."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -998,6 +1550,178 @@
           "Buy a day pass for the bus to save money.",
           "Check the bus schedules in advance to minimize waiting times."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Transit-Tour durch das regnerische Jonava nutzt die Busse als Regenschutz. Vormittags erreichen wir das Stadtzentrum und die St.-Jakobus-Kirche. Mittags bietet das Museum einen langen, trockenen Aufenthalt. Nachmittags fahren wir mit dem Bus über die Neris zum Joninės-Tal, wobei wir an den Haltestellen unter den Wartehäuschen bleiben. Der Tag endet entspannt trotz des nassen Wetters.",
+            "hu": "A tömegközlekedési túra az esős Jonavában a buszokat használja esővédőként. Délelőtt a központba és a Szent Jakab-templomhoz érkezünk. Ebédidőben a múzeum hosszú, száraz programot kínál. Délután busszal kelünk át a Neris felett a Joninės-völgyhöz, a megállókban az esőbeállók alatt várakozva. A nap a vizes idő ellenére is pihentetően zárul.",
+            "ro": "Turul cu transportul public prin Jonava ploioasă folosește autobuzele ca protecție. Dimineața ajungem în centru și la biserica Sf. Iacob. La prânz, muzeul oferă o vizită lungă și uscată. După-amiaza mergem cu autobuzul peste Neris spre Valea Joninės, așteptând în stațiile acoperite. Ziua se încheie relaxat, în ciuda vremii umede.",
+            "en": "The transit tour through rainy Jonava uses buses as shelter from the rain. In the morning, we reach the city center and St. James Church. Mid-day at the museum provides a long, dry visit. In the afternoon, we take the bus across the Neris to Joninės Valley, staying under shelter at bus stops. The day ends relaxingly despite the wet weather."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: City Center",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt mit vielen überdachten Haltestellen.",
+                "hu": "Központi csomópont sok fedett buszmegállóval.",
+                "ro": "Nod central cu multe stații de autobuz acoperite.",
+                "en": "Central hub with many covered bus stop shelters."
+              }
+            },
+            {
+              "name": "Church of St. James the Apostle",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von der Bushaltestelle.",
+                "hu": "Csak egy rövid séta a legközelebbi buszmegállótól.",
+                "ro": "Doar o scurtă plimbare de la cea mai apropiată stație.",
+                "en": "Only a short walk from the nearest bus stop."
+              }
+            },
+            {
+              "name": "Cluster B: Museum and River",
+              "tip_5lang": {
+                "de": "Perfekt getaktet, um den nächsten Bus im Trockenen abzuwarten.",
+                "hu": "Tökéletesen időzíthető, hogy a buszt fedett helyen várja meg.",
+                "ro": "Sincronizare perfectă pentru a aștepta autobuzul la adăpost.",
+                "en": "Perfectly timed to wait for the next bus in a dry spot."
+              }
+            },
+            {
+              "name": "Jonava Bridge",
+              "tip_5lang": {
+                "de": "Vom Busfenster aus hat man einen tollen Blick auf die Neris.",
+                "hu": "A busz ablakából remek kilátás nyílik a Neris folyóra.",
+                "ro": "Din fereastra autobuzului aveți o vedere excelentă spre Neris.",
+                "en": "The bus window offers a great view of the Neris river."
+              }
+            },
+            {
+              "name": "Cluster C: Relaxation in the Valley",
+              "tip_5lang": {
+                "de": "Haltestelle direkt am Eingang zum Naherholungsgebiet.",
+                "hu": "Buszmegálló közvetlenül a pihenőövezet bejáratánál.",
+                "ro": "Stație de autobuz chiar la intrarea în zona de recreere.",
+                "en": "Bus stop right at the entrance to the recreation area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Fahrpläne online, um Wartezeiten im Regen zu minimieren.",
+              "Tragen Sie Kleingeld oder eine Karte für das Ticket bereit.",
+              "Die Busse sind im Herbst und Winter gut beheizt.",
+              "Haltestellen in der Nähe des Museums sind oft gut frequentiert.",
+              "Vermeiden Sie es, Schirme in den Gängen des Busses zu lassen."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet online a várakozási idő csökkentéséhez.",
+              "Tartson előkészítve aprópénzt vagy kártyát a jegyhez.",
+              "A buszok ősszel és télen jól fűtöttek.",
+              "A múzeum közeli megállók gyakori buszjáratokkal rendelkeznek.",
+              "Kerülje az esernyők buszfolyosón való hagyását."
+            ],
+            "ro": [
+              "Verificați orarul online pentru a minimiza așteptarea în ploaie.",
+              "Aveți pregătit mărunțiș sau un card pentru bilet.",
+              "Autobuzele sunt bine încălzite toamna și iarna.",
+              "Stațiile de lângă muzeu au autobuze frecvente.",
+              "Evitați să lăsați umbrelele pe culoarul autobuzului."
+            ],
+            "en": [
+              "Check schedules online to minimize waiting time in the rain.",
+              "Have small change or a card ready for the ticket.",
+              "Buses are well-heated during autumn and winter.",
+              "Stops near the museum are served frequently.",
+              "Avoid leaving umbrellas in the bus aisles."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Transit-Tour durch Jonava bietet Wärme in den Bussen zwischen den verschneiten Zielen. Vormittags besuchen wir den Stadtplatz und die St.-Jakobus-Kirche. Den Mittag verbringen wir im beheizten Museum. Nachmittags fahren wir bequem per Transit zum winterlichen Joninės-Tal, wobei wir die eisigen Temperaturen draußen lassen. Die Tour endet bei Einbruch der Dunkelheit im beleuchteten Naherholungsgebiet.",
+            "hu": "A téli tömegközlekedési túra Jonavában melegséget kínál a buszokon a havas úti célok között. Délelőtt a főteret és a Szent Jakab-templomot látogatjuk meg. A delet a fűtött múzeumban töltjük. Délután kényelmesen, busszal jutunk el a téli Joninės-völgybe, kizárva a kinti fagyos hőmérsékletet. A túra a sötétség beálltakor, a kivilágított völgyben zárul.",
+            "ro": "Turul de iarnă cu transportul public în Jonava oferă căldură în autobuze între destinațiile înzăpezite. Dimineața vizităm piața și biserica Sf. Iacob. Prânzul îl petrecem în muzeul încălzit. După-amiaza ajungem comod cu autobuzul la Valea Joninės, evitând gerul de afară. Turul se încheie la lăsarea întunericului în zona de recreere iluminată.",
+            "en": "The winter transit tour in Jonava offers warmth on the buses between snowy destinations. In the morning, we visit the Town Square and St. James Church. Mid-day is spent in the heated museum. In the afternoon, we travel comfortably by bus to the winter Joninės Valley, leaving the freezing temperatures outside. The tour ends at dusk in the illuminated recreation area."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: City Center",
+              "tip_5lang": {
+                "de": "Die Wartehäuschen schützen vor dem schneidenden Winterwind.",
+                "hu": "Az esőbeállók védenek a metsző téli széltől.",
+                "ro": "Stațiile acoperite protejează împotriva vântului tăios de iarnă.",
+                "en": "The shelters provide protection against the biting winter wind."
+              }
+            },
+            {
+              "name": "Church of St. James the Apostle",
+              "tip_5lang": {
+                "de": "Achten Sie auf gestreute Wege zwischen Haltestelle und Kirche.",
+                "hu": "Ügyeljen a felszórt utakra a megálló és a templom között.",
+                "ro": "Atenție la căile presărate între stație și biserică.",
+                "en": "Watch for gritted paths between the bus stop and the church."
+              }
+            },
+            {
+              "name": "Cluster B: Museum and River",
+              "tip_5lang": {
+                "de": "In den Bussen ist es meist sehr warm, Schichten tragen.",
+                "hu": "A buszokon általában nagyon meleg van, öltözzön rétegesen.",
+                "ro": "În autobuze este de obicei foarte cald, purtați straturi de haine.",
+                "en": "Buses are usually very warm inside; dress in layers."
+              }
+            },
+            {
+              "name": "Jonava Bridge",
+              "tip_5lang": {
+                "de": "Der Bus bietet eine windgeschützte Überquerung der Neris.",
+                "hu": "A busz szélvédett átkelést biztosít a Neris felett.",
+                "ro": "Autobuzul oferă o traversare a râului Neris protejată de vânt.",
+                "en": "The bus provides a wind-sheltered crossing over the Neris."
+              }
+            },
+            {
+              "name": "Cluster C: Relaxation in the Valley",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App für Echtzeit-Abfahrten bei Kälte.",
+                "hu": "Használja az alkalmazást a valós idejű induláshoz a hidegben.",
+                "ro": "Folosiți aplicația pentru plecări în timp real pe timp de ger.",
+                "en": "Use the app for real-time departures to avoid waiting in the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei starkem Schneefall leicht verzögert sein.",
+              "Die meisten Busse haben elektronische Anzeigen der Haltestellen.",
+              "Tragen Sie reflektierende Kleidung für den Weg zur Haltestelle.",
+              "Die Ticketpreise sind in Jonava sehr moderat.",
+              "Vermeiden Sie es, auf vereisten Haltestellenkanten zu stehen."
+            ],
+            "hu": [
+              "A menetrend erős havazás esetén kissé módosulhat.",
+              "A legtöbb buszon elektronikus kijelző mutatja a megállókat.",
+              "Viseljen fényvisszaverőt a megállóhoz vezető úton.",
+              "A jegyárak Jonavában rendkívül kedvezőek.",
+              "Kerülje a várakozást a megállók jeges peremén."
+            ],
+            "ro": [
+              "Orarele pot avea ușoare întârzieri în caz de ninsoare abundentă.",
+              "Majoritatea autobuzelor au afișaje electronice pentru stații.",
+              "Purtați elemente reflectorizante în drum spre stație.",
+              "Prețurile biletelor în Jonava sunt foarte moderate.",
+              "Evitați să staționați pe marginile înghețate ale peronului."
+            ],
+            "en": [
+              "Schedules may have slight delays during heavy snowfall.",
+              "Most buses have electronic displays showing the stops.",
+              "Wear reflective gear when walking to the bus stop.",
+              "Ticket prices in Jonava are very moderate.",
+              "Avoid standing on the icy edges of the bus stop platforms."
+            ]
+          }
+        }
       }
     }
   }

@@ -346,6 +346,206 @@
           "Look out for the long-eared owls that roost in the city center trees during winter.",
           "Many cafes offer outdoor seating, perfect for taking a break."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Rathaus Schutz unter seinen Bögen, während die Regentropfen auf das Pflaster klatschen. Mittags wird das Curia-Gebäude zum trockenen Zufluchtsort voller Geschichte. Nachmittags spazieren wir unter dem dichten Blätterdach der Drapšina-Straße, das wie ein natürlicher Schirm wirkt. Abends wärmen wir uns im Museum und bewundern Kika, während der Regen draußen nachlässt.",
+            "hu": "Reggel a városháza árkádjai alatt kezdünk, figyelve a főtér kövein koppanó esőcseppeket. Délben a Kúria épülete nyújt menedéket és történelmi érdekességeket. Délután a Drapšina utca sűrű lombkoronája természetes esernyőként véd minket a sétán. Estére a múzeum melegében zárjuk a napot Kika mellett, miközben a város csendesen ázik a szürkületben.",
+            "ro": "Dimineața, primăria oferă adăpost sub arcadele sale, în timp ce picăturile de ploaie bat în pavaj. La prânz, clădirea Curia devine un refugiu uscat plin de istorie. După-amiaza, ne plimbăm sub coronamentul des al străzii Drapšina, care acționează ca o umbrelă naturală. Seara ne încălzim la muzeu admirând-o pe Kika, în timp ce ploaia de afară se domolește.",
+            "en": "Morning starts under the eaves of the Town Hall, watching rain dance on the square. By noon, the Curia building provides a dry sanctuary of local history. In the afternoon, the thick canopy of Drapšina Street acts as a natural umbrella for our stroll. We end the day in the warmth of the museum with Kika the mammoth, while the city glows under the rainy twilight."
+          },
+          "stops": [
+            {
+              "name": "Kikinda Town Hall",
+              "tip_5lang": {
+                "de": "Schutz unter den Arkaden suchen.",
+                "hu": "Használja a bejárat feletti esővédő íveket.",
+                "ro": "Căutați adăpost sub arcadele de la intrare.",
+                "en": "Take shelter under the entrance arches."
+              }
+            },
+            {
+              "name": "The Curia Building",
+              "tip_5lang": {
+                "de": "Idealer Ort für eine Regenpause.",
+                "hu": "Tökéletes hely egy rövid kényszerpihenőre.",
+                "ro": "Loc ideal pentru o pauză de ploaie.",
+                "en": "Ideal spot for a quick rain break."
+              }
+            },
+            {
+              "name": "Generala Drapšina Street",
+              "tip_5lang": {
+                "de": "Das Laub hält leichten Regen ab.",
+                "hu": "A sűrű lombozat felfogja a szemerkélő esőt.",
+                "ro": "Frunzișul des oprește ploaia ușoară.",
+                "en": "The thick foliage blocks light rain."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort der Besinnung.",
+                "hu": "Csendes és száraz hely a belső elmélyüléshez.",
+                "ro": "Un loc liniștit și uscat pentru reflecție.",
+                "en": "A quiet, dry place for reflection."
+              }
+            },
+            {
+              "name": "National Museum of Kikinda",
+              "tip_5lang": {
+                "de": "Lange Indoor-Aufenthaltsdauer möglich.",
+                "hu": "Hosszú beltéri program, ideális esőben.",
+                "ro": "Program interior lung, ideal pe ploaie.",
+                "en": "Long indoor activity, perfect for rain."
+              }
+            },
+            {
+              "name": "Suvača (Dry Mill)",
+              "tip_5lang": {
+                "de": "Das Gebäude ist vollständig überdacht.",
+                "hu": "Az épület teljesen fedett és száraz.",
+                "ro": "Clădirea este complet acoperită.",
+                "en": "The building is fully covered and dry."
+              }
+            },
+            {
+              "name": "Bleder Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen auf den Wegen.",
+                "hu": "Vigyázzon a kátyúkban megálló vízre.",
+                "ro": "Atenție la bălțile de pe alei.",
+                "en": "Watch out for puddles on the paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei Wind in der Tiefebene wichtig.",
+              "Die Drapšina-Straße bietet bei leichtem Regen guten Schutz.",
+              "Viele Cafés am Hauptplatz laden zum Aufwärmen ein.",
+              "Wasserdichte Schuhe sind für das Kopfsteinpflaster ratsam."
+            ],
+            "hu": [
+              "A síksági szél miatt erős esernyőt vigyen magával.",
+              "A Drapšina utca fái remek természetes védelmet nyújtanak.",
+              "A főtér kávézói ideálisak a várakozásra esőben.",
+              "A macskakő vizesen csúszós lehet, óvatosan lépjen."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza vântului.",
+              "Strada Drapšina oferă protecție naturală excelentă.",
+              "Cafenelele din piață sunt ideale pentru a aștepta oprirea ploii.",
+              "Pavajul poate fi alunecos când este ud, mergeți cu grijă."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to the plains' wind.",
+              "Drapšina Street provides great natural protection from drizzle.",
+              "Square cafes are perfect for waiting out heavy showers.",
+              "Cobblestones can be slippery when wet, walk carefully."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Reggel a deres városháza látványa fogad a csípős hidegben. Délben a Kúria udvarán a világhírű fülesbaglyokat keressük az ágakon. Délután a kopasz fák közt a Drapšina utcán a téli napfény világítja meg utunkat. Este a múzeum fűtött termeiben Kika, a mamut története repít vissza az időben, mielőtt a korai sötétség leszáll a parkra.",
+            "hu": "Reggel a deres városháza látványa fogad a csípős hidegben. Délben a Kúria udvarán a világhírű fülesbaglyokat keressük az ágakon. Délután a kopasz fák közt a Drapšina utcán a téli napfény világítja meg utunkat. Este a múzeum fűtött termeiben Kika, a mamut története repít vissza az időben, mielőtt a korai sötétség leszáll a parkra.",
+            "ro": "Dimineața, vederea primăriei înghețate ne întâmpină în gerul tăios. La prânz, în curtea Curiei, căutăm faimoasele bufnițe pe ramuri. După-amiaza, pe strada Drapšina, soarele de iarnă luminează drumul printre copacii golași. Seara, în sălile încălzite ale muzeului, povestea mamutului Kika ne poartă în timp, înainte ca întunericul să coboare peste parc.",
+            "en": "Morning brings a frosty view of the Town Hall in the biting cold. By noon, we spot the world-famous long-eared owls wintering in the Curia courtyard. In the afternoon, winter sun filters through the bare branches of Drapšina Street. We end the day warm inside the museum with Kika the mammoth, as early darkness settles over the snowy Bleder Park."
+          },
+          "stops": [
+            {
+              "name": "Kikinda Town Hall",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den offenen Platz nötig.",
+                "hu": "Meleg ruha kötelező a nyitott főtéren.",
+                "ro": "Haine groase necesare pentru piața deschisă.",
+                "en": "Warm clothing needed for the open square."
+              }
+            },
+            {
+              "name": "The Curia Building",
+              "tip_5lang": {
+                "de": "Suchen Sie die Eulen in den Baumkronen!",
+                "hu": "Keresse a baglyokat a fák koronájában!",
+                "ro": "Căutați bufnițele în coroana copacilor!",
+                "en": "Look for the owls in the tree crowns!"
+              }
+            },
+            {
+              "name": "Generala Drapšina Street",
+              "tip_5lang": {
+                "de": "Wunderschön auch ohne Laub im Frost.",
+                "hu": "Lombok nélkül is lenyűgöző a deres ágakkal.",
+                "ro": "Superbă chiar și fără frunze, sub ger.",
+                "en": "Beautiful even without leaves in the frost."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Oft kühler als gedacht, Mütze anbehalten.",
+                "hu": "Belül hűvös lehet, ne vegye le a sapkát.",
+                "ro": "Poate fi răcoare în interior, păstrați căciula.",
+                "en": "Can be chilly inside, keep your hat on."
+              }
+            },
+            {
+              "name": "National Museum of Kikinda",
+              "tip_5lang": {
+                "de": "Bester Ort zum Aufwärmen bei Kika.",
+                "hu": "A legjobb hely a felmelegedésre Kika mellett.",
+                "ro": "Cel mai bun loc pentru încălzire lângă Kika.",
+                "en": "Best place to warm up next to Kika."
+              }
+            },
+            {
+              "name": "Suvača (Dry Mill)",
+              "tip_5lang": {
+                "de": "Unbeheizt, Besuch kurz halten.",
+                "hu": "Fűtetlen épület, öltözzön rétegesen.",
+                "ro": "Clădire neîncălzită, vizitați rapid.",
+                "en": "Unheated building, dress in layers."
+              }
+            },
+            {
+              "name": "Bleder Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf den Wegen.",
+                "hu": "Vigyázzon a jegesedésre az utakon.",
+                "ro": "Atenție la poleiul de pe alei.",
+                "en": "Watch out for black ice on the paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kikinda ist berühmt für winternde Waldohreulen.",
+              "Die Sonne geht im Winter bereits gegen 16:00 Uhr unter.",
+              "Tragen Sie Thermounterwäsche für die Suvača-Besichtigung.",
+              "Heiße Getränke gibt es in den Cafés am Marktplatz."
+            ],
+            "hu": [
+              "Nagykikinda híres a telelő erdei fülesbaglyokról.",
+              "Télen a nap már 16:00 körül lenyugszik.",
+              "A szárazmalomhoz vigyen magával forró teát.",
+              "A főtéri cukrászdákban remek forró csokoládé van."
+            ],
+            "ro": [
+              "Kikinda este faimoasă pentru bufnițele care iernează aici.",
+              "Iarna soarele apune deja în jurul orei 16:00.",
+              "Purtați haine termice pentru vizita la moară.",
+              "Băuturi calde găsiți la cafenelele din centru."
+            ],
+            "en": [
+              "Kikinda is famous for wintering long-eared owls.",
+              "Sunset is early in winter, around 4:00 PM.",
+              "Wear thermal layers for the unheated Dry Mill.",
+              "Hot drinks are available in the main square cafes."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -686,6 +886,206 @@
           "Kikinda is flat, which makes for very easy cycling.",
           "Always lock your bike securely when leaving it unattended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig zur Suvača, während der Regen die staubigen Straßen reinigt. Mittags erreichen wir das Zentrum, wo das Rathaus uns kurz Schutz bietet. Nachmittags führt die Tour durch die nasse Drapšina-Straße, deren Blätterdach das Schlimmste abhält. Abends beenden wir die Fahrt am Museum und genießen die Ruhe der regnerischen Stadt.",
+            "hu": "Reggel óvatosan tekerünk a Suvačához, miközben az eső lemossa az út porát. Délben érjük el a központot, ahol a városháza nyújt rövid menedéket. Délután a vizes Drapšina utcán haladunk, ahol a levelek felfogják a nagyját. Estére a múzeumnál tesszük le a bringát, élvezve az esős város csendjét.",
+            "ro": "Dimineața pedalăm cu grijă spre Suvača, în timp ce ploaia spală praful drumului. La prânz ajungem în centru, unde primăria ne oferă un scurt adăpost. După-amiaza, turul continuă pe strada Drapšina udă, unde frunzișul oprește picăturile mari. Seara încheiem tura la muzeu, savurând liniștea orașului sub ploaie.",
+            "en": "Morning ride to Suvača requires caution as rain washes the streets. By noon, we reach the center where the Town Hall offers a brief dry spot. The afternoon journey continues through wet Drapšina Street, protected by its leafy tunnel. We finish the ride at the museum, enjoying the calm of the city under the rainfall."
+          },
+          "stops": [
+            {
+              "name": "Suvača (Dry Mill)",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Anfahrt auf nasser Straße.",
+                "hu": "Óvatosan közelítsen a vizes úttesten.",
+                "ro": "Atenție la abordarea pe carosabil ud.",
+                "en": "Be careful when cycling on wet roads."
+              }
+            },
+            {
+              "name": "Kikinda Town Hall",
+              "tip_5lang": {
+                "de": "Rad unter den Arkaden kurz abstellen.",
+                "hu": "A bringát az árkádok alatt leparkolhatja.",
+                "ro": "Parcați bicicleta sub arcadele primăriei.",
+                "en": "Park your bike briefly under the arches."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Rutschiges Pflaster vor dem Eingang.",
+                "hu": "A bejárat előtt csúszós a burkolat.",
+                "ro": "Pavaj alunecos în fața intrării.",
+                "en": "Slippery pavement in front of the entrance."
+              }
+            },
+            {
+              "name": "National Museum of Kikinda",
+              "tip_5lang": {
+                "de": "Sicherer, trockener Abstellplatz gesucht.",
+                "hu": "Keressen fedett helyet a kerékpárnak.",
+                "ro": "Căutați un loc acoperit pentru bicicletă.",
+                "en": "Look for a covered spot for your bike."
+              }
+            },
+            {
+              "name": "Atelier Terra",
+              "tip_5lang": {
+                "de": "Besuch im Trockenen genießen.",
+                "hu": "Élvezze a benti kiállítást szárazon.",
+                "ro": "Bucurați-vă de expoziția interioară.",
+                "en": "Enjoy the indoor exhibition in the dry."
+              }
+            },
+            {
+              "name": "Bleder Park",
+              "tip_5lang": {
+                "de": "Vorsicht in scharfen Kurven auf Laub.",
+                "hu": "Vigyázzon a kanyarokban a vizes avaron.",
+                "ro": "Atenție la frunzele ude în curbe.",
+                "en": "Watch out for wet leaves in turns."
+              }
+            },
+            {
+              "name": "Generala Drapšina Street",
+              "tip_5lang": {
+                "de": "Die Bäume bieten guten Regenschutz.",
+                "hu": "A fák remek esővédelmet nyújtanak.",
+                "ro": "Copacii oferă o bună protecție solară.",
+                "en": "The trees provide good rain protection."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke.",
+              "Vermeiden Sie abruptes Bremsen auf nassem Kopfsteinpflaster.",
+              "Die Radwege können bei Regen rutschig sein.",
+              "Ein Schutzblech ist bei diesem Wetter unerlässlich."
+            ],
+            "hu": [
+              "Viseljen teljes esővédő felszerelést.",
+              "Kerülje a hirtelen fékezést a vizes macskakövön.",
+              "A kerékpárutak csúszósak lehetnek az esőben.",
+              "A sárvédő elengedhetetlen ilyen időben."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie.",
+              "Evitați frânarea bruscă pe pavajul ud.",
+              "Pistele de biciclete pot fi alunecoase.",
+              "Apărătoarea de noroi este esențială acum."
+            ],
+            "en": [
+              "Wear full waterproof cycling gear.",
+              "Avoid sudden braking on wet cobblestones.",
+              "Cycling paths can be slippery during rain.",
+              "Mudguards are essential in this weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgenwind weht uns auf dem Weg zur Suvača entgegen. Mittags wärmen wir uns kurz am Rathaus auf, bevor wir die Eulen an der Curia suchen. Nachmittags glitzert der Raureif auf den Ästen der Drapšina-Straße. Den Tag lassen wir im geheizten Museum ausklingen, während die Wintersonne früh hinter den flachen Dächern verschwindet.",
+            "hu": "A fagyos reggeli szél szembe fúj a Suvača felé vezető úton. Délben a városházánál melegszünk kicsit, majd a baglyokat keressük a Kúriánál. Délután a zúzmarás ágak ragyognak a Drapšina utcában. A napot a fűtött múzeumban zárjuk, miközben a téli nap hamar eltűnik a lapos tetők mögött.",
+            "ro": "Vântul înghețat de dimineață ne bate din față spre Suvača. La prânz ne încălzim puțin la primărie, apoi căutăm bufnițele la Curia. După-amiaza, chiciura strălucește pe ramurile de pe strada Drapšina. Încheiem ziua la muzeul încălzit, în timp ce soarele de iarnă dispare rapid după acoperișuri.",
+            "en": "The frosty morning wind meets us on the way to Suvača. By noon, we warm up briefly at the Town Hall before spotting owls at the Curia. Afternoon frost glistens on the branches of Drapšina Street. We finish the day in the heated museum, as the winter sun disappears early behind the flat roofs."
+          },
+          "stops": [
+            {
+              "name": "Suvača (Dry Mill)",
+              "tip_5lang": {
+                "de": "Glatteisfahrbahn möglich, langsam fahren.",
+                "hu": "Jegesedés várható, hajtson lassabban.",
+                "ro": "Posibil polei, conduceți cu viteză mică.",
+                "en": "Black ice possible, ride slowly."
+              }
+            },
+            {
+              "name": "Kikinda Town Hall",
+              "tip_5lang": {
+                "de": "Hände am heißen Kaffee aufwärmen.",
+                "hu": "Melegítse fel kezeit egy forró kávéval.",
+                "ro": "Încălziți-vă mâinile cu o cafea fierbinte.",
+                "en": "Warm up your hands with a hot coffee."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf Eis.",
+                "hu": "Vigyázzon a leszállásnál a jégre.",
+                "ro": "Atenție la coborâre pe gheață.",
+                "en": "Be careful when dismounting on ice."
+              }
+            },
+            {
+              "name": "National Museum of Kikinda",
+              "tip_5lang": {
+                "de": "Fahrrad sicher vor Schnee parken.",
+                "hu": "Parkolja a bringát hómentes helyre.",
+                "ro": "Parcați bicicleta ferită de zăpadă.",
+                "en": "Park your bike away from the snow."
+              }
+            },
+            {
+              "name": "Atelier Terra",
+              "tip_5lang": {
+                "de": "Warmer Stopp zwischen Skulpturen.",
+                "hu": "Meleg pihenő a szobrok között.",
+                "ro": "Popas cald printre sculpturi.",
+                "en": "Warm break among the sculptures."
+              }
+            },
+            {
+              "name": "Bleder Park",
+              "tip_5lang": {
+                "de": "Glatte Wege durch festgefahrenen Schnee.",
+                "hu": "A letaposott hó csúszós lehet.",
+                "ro": "Zăpada bătătorită poate fi alunecoasă.",
+                "en": "Packed snow can be very slippery."
+              }
+            },
+            {
+              "name": "Generala Drapšina Street",
+              "tip_5lang": {
+                "de": "Vorsicht vor herabfallendem Eis.",
+                "hu": "Vigyázzon az ágakról lehulló jégre.",
+                "ro": "Atenție la gheața ce cade din copaci.",
+                "en": "Watch out for ice falling from branches."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfeste Handschuhe sind absolut notwendig.",
+              "Prüfen Sie den Reifendruck für bessere Haftung.",
+              "Tragen Sie winddichte Kleidung.",
+              "Planen Sie die Rückkehr vor Einbruch der Dunkelheit."
+            ],
+            "hu": [
+              "A téli kesztyű elengedhetetlen kellék.",
+              "Ellenőrizze a guminyomást a tapadásért.",
+              "Viseljen szélálló öltözetet.",
+              "Tervezze az utat sötétedés előttre."
+            ],
+            "ro": [
+              "Mănușile de iarnă sunt absolut necesare.",
+              "Verificați presiunea roților pentru aderență.",
+              "Purtați haine rezistente la vânt.",
+              "Planificați întoarcerea înainte de întuneric."
+            ],
+            "en": [
+              "Winter-proof gloves are a must.",
+              "Check tire pressure for better grip on ice.",
+              "Wear windproof outer layers.",
+              "Plan to finish your ride before dark."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1026,6 +1426,206 @@
           "Be mindful of cyclists sharing the road.",
           "A GPS is helpful for navigating the outskirts."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir bequem zur Suvača, während der Regen gegen die Scheiben trommelt. Mittags parken wir im Zentrum und besichtigen das Rathaus ohne nass zu werden. Nachmittags bietet die Fahrt durch die Drapšina-Straße einen tunnelartigen Blick auf die nasse Natur. Den Tag schließen wir im Museumsviertel ab, wo alles nah beieinander liegt.",
+            "hu": "Reggel kényelmesen autózunk a Suvačához, miközben az eső a szélvédőn kopog. Délben a központban parkolunk, és szárazon nézzük meg a városházát. Délután a Drapšina utcán áthajtva csodáljuk a vizes természetet. A napot a múzeumi negyedben zárjuk, ahol minden látnivaló karnyújtásnyira van.",
+            "ro": "Dimineața conducem confortabil spre Suvača, în timp ce ploaia bate în parbriz. La prânz parcăm în centru și vizităm primăria fără să ne udăm. După-amiaza, drumul prin strada Drapšina oferă o priveliște superbă a naturii ude. Încheiem ziua în cartierul muzeelor, unde totul este aproape.",
+            "en": "Morning drive to Suvača is cozy while rain drums on the windshield. By noon, we park in the center and visit the Town Hall staying mostly dry. The afternoon cruise through Drapšina Street offers a tunnel-like view of the wet scenery. We finish the day in the Museum Quarter, where sights are conveniently close."
+          },
+          "stops": [
+            {
+              "name": "Suvača (Dry Mill)",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor dem Eingang.",
+                "hu": "Parkolás közvetlenül a bejáratnál.",
+                "ro": "Parcare chiar în fața intrării.",
+                "en": "Parking right in front of the entrance."
+              }
+            },
+            {
+              "name": "Cluster: City Center",
+              "tip_5lang": {
+                "de": "Zentrales Parken spart Laufwege.",
+                "hu": "A központi parkolás lerövidíti a sétát.",
+                "ro": "Parcarea centrală reduce mersul pe jos.",
+                "en": "Central parking minimizes walking distance."
+              }
+            },
+            {
+              "name": "Town Hall & Curia",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Auto zum Schutz.",
+                "hu": "Rövid sprint az autótól a fedett részig.",
+                "ro": "Scurt sprint de la mașină la adăpost.",
+                "en": "Short sprint from car to shelter."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Direkte Zufahrt fast bis vor die Tür.",
+                "hu": "Szinte az ajtóig lehet hajtani.",
+                "ro": "Acces aproape până în fața ușii.",
+                "en": "Access almost directly to the door."
+              }
+            },
+            {
+              "name": "Cluster: Museum Quarter",
+              "tip_5lang": {
+                "de": "Ideal bei starkem Regen.",
+                "hu": "Ideális választás szakadó esőben.",
+                "ro": "Alegere ideală pe ploaie torențială.",
+                "en": "Ideal choice during heavy rain."
+              }
+            },
+            {
+              "name": "National Museum & Atelier Terra",
+              "tip_5lang": {
+                "de": "Überdachte Bereiche zwischen Gebäuden.",
+                "hu": "Fedett átjárók az épületek között.",
+                "ro": "Zone acoperite între clădiri.",
+                "en": "Covered areas between buildings."
+              }
+            },
+            {
+              "name": "Bleder Park",
+              "tip_5lang": {
+                "de": "Besichtigung aus dem Auto möglich.",
+                "hu": "Az autóból is megtekinthető a park.",
+                "ro": "Parcul poate fi văzut și din mașină.",
+                "en": "The park can be viewed from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die zentralen Parkplätze am Marktplatz.",
+              "Achten Sie auf tiefere Pfützen am Straßenrand.",
+              "Regenschirm für den Weg vom Auto bereitstellen.",
+              "Die Sicht kann bei starkem Regen eingeschränkt sein."
+            ],
+            "hu": [
+              "Használja a főtér központi parkolóit.",
+              "Vigyázzon a mélyebb tócsákra az út szélén.",
+              "Készítse ki az esernyőt a kiszálláshoz.",
+              "A látási viszonyok romolhatnak heves esőben."
+            ],
+            "ro": [
+              "Folosiți parcările centrale din piață.",
+              "Atenție la bălțile adânci de la marginea drumului.",
+              "Pregătiți umbrela pentru coborârea din mașină.",
+              "Vizibilitatea poate fi redusă pe ploaie torențială."
+            ],
+            "en": [
+              "Use central parking spots in the main square.",
+              "Watch out for deep puddles on road edges.",
+              "Keep an umbrella ready for exiting the car.",
+              "Visibility can be limited during heavy downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens bringt uns das beheizte Auto zur frostigen Suvača. Mittags suchen wir vom warmen Fahrzeug aus die Eulen an der Curia. Nachmittags bewundern wir die schneebedeckten Baumkronen der Drapšina-Straße. Abends genießen wir die Wärme im Nationalmuseum, während draußen der Winterwind über die flache Vojvodina fegt.",
+            "hu": "Reggel a fűtött autó repít a zúzmarás Suvačához. Délben a meleg kocsiból is figyelhetjük a Kúria baglyait. Délután a Drapšina utca hóval borított lombkoronája felett hajtunk át. Estére a Nemzeti Múzeum melegében lelünk nyugalomra, miközben kint a téli szél süvít a lapos Vajdaság felett.",
+            "ro": "Dimineața, mașina încălzită ne duce la moara înghețată. La prânz putem observa bufnițele de la Curia chiar din vehicul. După-amiaza admirăm coroanele înzăpezite ale străzii Drapšina. Seara ne bucurăm de căldura muzeului, în timp ce vântul de iarnă suflă peste câmpia Voivodinei.",
+            "en": "Morning finds us in a heated car heading to the frosty Suvača. By noon, we can spot the Curia owls even from the warmth of our vehicle. Afternoon brings a scenic drive through the snow-capped Drapšina Street. We end the day cozy inside the National Museum as winter winds sweep across the flat Vojvodina plains."
+          },
+          "stops": [
+            {
+              "name": "Suvača (Dry Mill)",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Parkflächen.",
+                "hu": "Vigyázzon a jeges parkolóhelyekre.",
+                "ro": "Atenție la locurile de parcare înghețate.",
+                "en": "Watch out for icy parking spots."
+              }
+            },
+            {
+              "name": "Cluster: City Center",
+              "tip_5lang": {
+                "de": "Motor nicht unnötig laufen lassen.",
+                "hu": "Ne járassa feleslegesen a motort.",
+                "ro": "Nu lăsați motorul pornit inutil.",
+                "en": "Do not leave the engine idling unnecessarily."
+              }
+            },
+            {
+              "name": "Town Hall & Curia",
+              "tip_5lang": {
+                "de": "Eulen-Beobachtung aus dem Auto möglich.",
+                "hu": "Bagolymegfigyelés az autóból is.",
+                "ro": "Observarea bufnițelor posibilă din mașină.",
+                "en": "Owl watching possible from the car."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Räumung von Schnee vor dem Eingang.",
+                "hu": "A bejárat előtt takarítják a havat.",
+                "ro": "Zăpada este curățată în fața intrării.",
+                "en": "Snow is usually cleared in front."
+              }
+            },
+            {
+              "name": "Cluster: Museum Quarter",
+              "tip_5lang": {
+                "de": "Parken nah am Eingang möglich.",
+                "hu": "Parkolás közel a bejárathoz.",
+                "ro": "Parcare aproape de intrare.",
+                "en": "Parking available close to the entrance."
+              }
+            },
+            {
+              "name": "National Museum & Atelier Terra",
+              "tip_5lang": {
+                "de": "Perfekter Ort gegen die Kälte.",
+                "hu": "Tökéletes menedék a hideg elől.",
+                "ro": "Refugiu perfect împotriva frigului.",
+                "en": "Perfect sanctuary from the cold."
+              }
+            },
+            {
+              "name": "Bleder Park",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp im Winter.",
+                "hu": "Rövid fotómegálló a télben.",
+                "ro": "Scurt popas foto în peisajul de iarnă.",
+                "en": "Short photo stop in the winter scenery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind im serbischen Winter Pflicht.",
+              "Führen Sie einen Eiskratzer mit sich.",
+              "Achten Sie auf Glatteis auf Nebenstraßen.",
+              "Die Parkplatzsuche ist im Winter meist einfacher."
+            ],
+            "hu": [
+              "A téli gumi kötelező a szerbiai utakon.",
+              "Legyen önnél jégkaparó és hólapát.",
+              "Vigyázzon a lefagyott mellékutcákra.",
+              "Télen általában könnyebb parkolóhelyet találni."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Serbia.",
+              "Aveți la îndemână o racletă pentru gheață.",
+              "Atenție la poleiul de pe străzile secundare.",
+              "Găsirea parcării este de obicei mai ușoară iarna."
+            ],
+            "en": [
+              "Winter tires are mandatory for Serbian roads.",
+              "Keep an ice scraper handy in the car.",
+              "Watch out for black ice on side streets.",
+              "Finding parking is usually easier in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1342,6 +1942,188 @@
           "Check the bus schedule in advance, as services might not be frequent.",
           "Have some small change handy for tickets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens nutzen wir den Bus zum Zentrum, um dem Regen zu entkommen. Mittags erkunden wir das Rathaus und die Drapšina-Straße zwischen den Schauern. Nachmittags wärmen wir uns in der Kirche auf, bevor der Bus uns zu den Museen bringt. Abends endet die Tour an der Suvača, die uns ein trockenes Dach bietet.",
+            "hu": "Reggel busszal megyünk a központba, elkerülve az esőt. Délben a városházát és a Drapšina utcát nézzük meg a záporok között. Délután a templomban melegszünk, majd busszal megyünk a múzeumokhoz. Estére a Suvačánál zárunk, ahol a tető megvéd minket a szemerkélő esőtől.",
+            "ro": "Dimineața luăm autobuzul spre centru pentru a scăpa de ploaie. La prânz explorăm primăria și strada Drapšina între averse. După-amiaza ne încălzim în biserică, apoi autobuzul ne duce la muzee. Seara se încheie la Suvača, unde acoperișul ne oferă protecție.",
+            "en": "Morning starts with a bus ride to avoid the initial rain. By noon, we explore the Town Hall and Drapšina Street between showers. Afternoon is spent in the warm church before catching a bus to the museums. We finish at Suvača, where the historical roof keeps us dry from the drizzle."
+          },
+          "stops": [
+            {
+              "name": "Cluster: City Center",
+              "tip_5lang": {
+                "de": "Überdachte Bushaltestellen nutzen.",
+                "hu": "Használja a fedett buszmegállókat.",
+                "ro": "Folosiți stațiile de autobuz acoperite.",
+                "en": "Use the covered bus stops."
+              }
+            },
+            {
+              "name": "Town Hall & Generala Drapšina St",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten.",
+                "hu": "Rövid gyalogutak a látnivalók között.",
+                "ro": "Distanțe scurte între atracții.",
+                "en": "Short walking distances between sights."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Trockener Ort zum Warten auf den Bus.",
+                "hu": "Száraz hely a buszra való várakozáshoz.",
+                "ro": "Loc uscat pentru așteptarea autobuzului.",
+                "en": "Dry place to wait for the bus."
+              }
+            },
+            {
+              "name": "Cluster: Museums & Mill",
+              "tip_5lang": {
+                "de": "Gute Anbindung bei schlechtem Wetter.",
+                "hu": "Jó összeköttetés rossz időben is.",
+                "ro": "Conexiune bună chiar și pe vreme rea.",
+                "en": "Good connections even in bad weather."
+              }
+            },
+            {
+              "name": "National Museum & Atelier Terra",
+              "tip_5lang": {
+                "de": "Idealer Stopp bei Dauerregen.",
+                "hu": "Ideális megálló tartós esőben.",
+                "ro": "Popas ideal pe ploaie persistentă.",
+                "en": "Ideal stop during persistent rain."
+              }
+            },
+            {
+              "name": "Suvača (Dry Mill)",
+              "tip_5lang": {
+                "de": "Haltestelle in der Nähe suchen.",
+                "hu": "Keressen közeli buszmegállót.",
+                "ro": "Căutați stația de autobuz din apropiere.",
+                "en": "Look for the nearby bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan vorab online.",
+              "Halten Sie Kleingeld für das Ticket bereit.",
+              "Die Wartezeiten können bei Regen länger wirken.",
+              "Die Busse sind im Winter meist gut beheizt."
+            ],
+            "hu": [
+              "Ellenőrizze előre a menetrendet online.",
+              "Legyen önnél aprópénz a jegyvásárláshoz.",
+              "A várakozás esőben hosszabbnak tűnhet.",
+              "A buszok általában jól fűtöttek télen."
+            ],
+            "ro": [
+              "Verificați programul autobuzelor online.",
+              "Aveți pregătit mărunțiș pentru bilet.",
+              "Așteptarea poate părea mai lungă pe ploaie.",
+              "Autobuzele sunt de obicei bine încălzite."
+            ],
+            "en": [
+              "Check the bus schedule online beforehand.",
+              "Have small change ready for the ticket.",
+              "Waiting times can feel longer in the rain.",
+              "Buses are usually well-heated in winter."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens bringt uns der Bus schnell ins Zentrum. Mittags erkunden wir das Rathaus und halten Ausschau nach den Eulen. Nachmittags wärmen wir uns in der Kirche auf, bevor wir zum Nationalmuseum weiterfahren. Abends lassen wir die Tour an der Suvača ausklingen, während die Winterdämmerung Kikinda in ein blaues Licht taucht.",
+            "hu": "Reggel a busz gyorsan a központba visz minket. Délben felfedezzük a városházát és figyeljük a baglyokat. Délután a templomban melegszünk fel, mielőtt továbbmennénk a Nemzeti Múzeumba. Estére a Suvačánál zárunk, miközben a téli szürkület kék fénybe vonja Nagykikindát.",
+            "ro": "Dimineața autobuzul ne duce rapid în centru. La prânz explorăm primăria și căutăm bufnițele. După-amiaza ne încălzim în biserică înainte de a merge la Muzeul Național. Seara încheiem la Suvača, în timp ce amurgul de iarnă scaldă orașul în lumină albastră.",
+            "en": "Morning bus ride takes us quickly to the center. By noon, we explore the Town Hall and look for the famous owls. Afternoon is spent warming up in the church before heading to the National Museum. We finish at Suvača as winter twilight paints Kikinda in shades of blue."
+          },
+          "stops": [
+            {
+              "name": "Cluster: City Center",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter pünktlich.",
+                "hu": "A buszok télen is pontosan járnak.",
+                "ro": "Autobuzele circulă regulat și iarna.",
+                "en": "Buses run regularly during winter."
+              }
+            },
+            {
+              "name": "Town Hall & Generala Drapšina St",
+              "tip_5lang": {
+                "de": "Kurze Wege halten warm.",
+                "hu": "A rövid távok segítenek melegen maradni.",
+                "ro": "Distanțele scurte vă ajută să nu înghețați.",
+                "en": "Short distances help you stay warm."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Warten Sie im Windschatten der Kirche.",
+                "hu": "Várjon a templom szélvédett oldalán.",
+                "ro": "Așteptați în zona ferită de vânt a bisericii.",
+                "en": "Wait on the lee side of the church."
+              }
+            },
+            {
+              "name": "Cluster: Museums & Mill",
+              "tip_5lang": {
+                "de": "Schneller Umstieg im Winter ratsam.",
+                "hu": "Télen javasolt a gyors átszállás.",
+                "ro": "Transfer rapid recomandat iarna.",
+                "en": "Quick transfer is recommended in winter."
+              }
+            },
+            {
+              "name": "National Museum & Atelier Terra",
+              "tip_5lang": {
+                "de": "Heizung genießen und aufwärmen.",
+                "hu": "Élvezze a fűtést és melegedjen fel.",
+                "ro": "Bucurați-vă de căldură și încălziți-vă.",
+                "en": "Enjoy the heating and warm up."
+              }
+            },
+            {
+              "name": "Suvača (Dry Mill)",
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der Rückfahrt.",
+                "hu": "Utolsó megálló a hazaút előtt.",
+                "ro": "Ultima oprire înainte de întoarcere.",
+                "en": "Final stop before the return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeit-Businfos.",
+              "Warme Kleidung für die Haltestellen nötig.",
+              "Die Busse bieten Schutz vor dem scharfen Wind.",
+              "Planen Sie Pufferzeiten für Verspätungen ein."
+            ],
+            "hu": [
+              "Használja az alkalmazást a valós idejű infókért.",
+              "Meleg ruha kell a megállókban való várakozáshoz.",
+              "A buszok védenek a metsző szél ellen.",
+              "Számoljon némi késéssel a téli forgalomban."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru info în timp real.",
+              "Haine groase necesare pentru așteptare.",
+              "Autobuzele oferă protecție contra vântului.",
+              "Planificați timp extra pentru posibile întârzieri."
+            ],
+            "en": [
+              "Use the local app for real-time bus info.",
+              "Warm clothes needed while waiting at stops.",
+              "Buses provide shelter from the sharp wind.",
+              "Allow extra time for potential winter delays."
+            ]
+          }
+        }
       }
     }
   }

@@ -386,6 +386,206 @@
           "Respect the holy sites by dressing appropriately.",
           "Mornings are the best time to avoid the crowds."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Chora beginnt grau, doch die engen Gassen bieten Schutz vor dem Wind. Mittags ziehen Sie sich in das Simantiri-Haus zurück, wo die dicken Mauern den Regen vergessen lassen. Am Nachmittag führt der Weg hinab zur Apokalypse-Höhle, die bei Regen eine besonders mystische, feuchte Atmosphäre verströmt. Den Abend lassen wir bei lokalem Wein in einer gemütlichen Taverne ausklingen.",
+            "hu": "A reggeli Chora szürke fényeiben is méltóságteljes, a szűk sikátorok jól védenek a széltől. Délben a Simantiri-kastély vastag falai között keresünk menedéket az eső elől. Délután a Jelenések barlangja felé vesszük az irányt, amely ilyenkor még titokzatosabb hangulatot áraszt. Az estét egy barátságos tavernát választva, a helyi borok társaságában zárjuk, miközben kint kopog az eső.",
+            "ro": "Dimineața în Chora începe sub un cer gri, dar străzile înguste oferă adăpost împotriva vântului. La prânz, ne retragem în Conacul Simantiri, unde zidurile groase ne fac să uităm de ploaie. După-amiaza coborâm spre Peștera Apocalipsei, care capătă o atmosferă mistică pe timp de ploaie. Seara se încheie într-o tavernă primitoare, savurând un vin local în timp ce ascultăm ploaia afară.",
+            "en": "The morning in Chora starts grey, but the narrow alleys provide good shelter from the wind. At noon, retreat to the Simantiri Mansion, where thick walls make you forget the rain. In the afternoon, head down to the Cave of the Apocalypse, which feels even more mystical in the damp weather. We end the evening in a cozy taverna with local wine, listening to the rain outside."
+          },
+          "stops": [
+            {
+              "name": "Chora Old Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge, um trocken zu bleiben.",
+                "hu": "Használja az árkádos átjárókat, hogy száraz maradjon.",
+                "ro": "Folosiți arcadele pentru a rămâne uscat.",
+                "en": "Use the arched passages to stay dry."
+              }
+            },
+            {
+              "name": "Windmills of Patmos",
+              "tip_5lang": {
+                "de": "Vorsicht, der Pfad zu den Mühlen kann rutschig sein.",
+                "hu": "Vigyázat, a malmokhoz vezető ösvény csúszós lehet.",
+                "ro": "Atenție, poteca spre mori poate fi alunecoasă.",
+                "en": "Careful, the path to the mills can be slippery."
+              }
+            },
+            {
+              "name": "Monastery of Saint John",
+              "tip_5lang": {
+                "de": "Perfekter Ort für Regen; das Museum ist überdacht.",
+                "hu": "Tökéletes hely esőben; a múzeum fedett.",
+                "ro": "Loc perfect pentru ploaie; muzeul este acoperit.",
+                "en": "Perfect spot for rain; the museum is indoors."
+              }
+            },
+            {
+              "name": "Simantiri Mansion",
+              "tip_5lang": {
+                "de": "Ein idealer Indoor-Stopp mit reicher Geschichte.",
+                "hu": "Ideális fedett megálló gazdag történelemmel.",
+                "ro": "O oprire interioară ideală, cu o istorie bogată.",
+                "en": "An ideal indoor stop with rich history."
+              }
+            },
+            {
+              "name": "Cave of the Apocalypse",
+              "tip_5lang": {
+                "de": "Die Höhle ist absolut trocken und sehr friedlich.",
+                "hu": "A barlang teljesen száraz és nagyon békés.",
+                "ro": "Peștera este complet uscată și foarte liniștită.",
+                "en": "The cave is completely dry and very peaceful."
+              }
+            },
+            {
+              "name": "Agia Lesvia Square",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; suchen Sie Schutz unter den Vordächern.",
+                "hu": "Rövid megálló; keressen menedéket az előtetők alatt.",
+                "ro": "Oprire scurtă; căutați adăpost sub streșini.",
+                "en": "Short stop; seek shelter under the eaves."
+              }
+            },
+            {
+              "name": "Lunch in Chora",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz am Kamin, falls verfügbar.",
+                "hu": "Válasszon helyet a kandalló mellett, ha van.",
+                "ro": "Alegeți un loc lângă șemineu, dacă este disponibil.",
+                "en": "Pick a spot by the fireplace if available."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Grip für das Kopfsteinpflaster.",
+              "Ein stabiler Regenschirm ist wegen des Windes besser als ein Poncho.",
+              "Viele Cafés in Chora haben gemütliche Innenräume.",
+              "Besuchen Sie die Klöster zuerst, da sie besten Schutz bieten."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt a macskaköves utcákon.",
+              "A szél miatt egy erős esernyő jobb választás, mint az esőponcsó.",
+              "Chora számos kávézója barátságos belső térrel várja.",
+              "A kolostorokat látogassa meg először, mert ott fedél alatt van."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență bună pentru pavajul de piatră.",
+              "O umbrelă rezistentă este mai bună decât o pelerină din cauza vântului.",
+              "Multe cafenele din Chora au interioare primitoare.",
+              "Vizitați mănăstirile primele, deoarece oferă cel mai bun adăpost."
+            ],
+            "en": [
+              "Wear shoes with good grip for the slippery cobblestones.",
+              "A sturdy umbrella is better than a poncho due to the wind.",
+              "Many cafes in Chora offer cozy indoor seating.",
+              "Visit the monasteries first as they provide the best shelter."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintermorgensonne glitzert auf dem Meer, während wir Chora fast allein erkunden. Mittags wärmt die milde griechische Sonne den Kirchplatz, ideal für eine kurze Rast. Der Nachmittag gehört der Stille des Klosters und der Höhle, fernab der Sommermassen. Da die Sonne gegen 17:00 Uhr untergeht, genießen wir das goldene Licht über dem Hafen von Skala bei einem warmen Getränk.",
+            "hu": "A téli reggeli nap csillog a tengeren, miközben szinte egyedül fedezzük fel Chorát. Délben az enyhe görög napsütés felmelegíti a templomteret, ami ideális egy rövid pihenőre. A délután a kolostor és a barlang csendjéé, távol a nyári tömegtől. Mivel a nap 17:00 körül nyugszik, Skala kikötőjében egy meleg ital mellett élvezzük az utolsó aranyló sugarakat.",
+            "ro": "Soarele de iarnă sclipește pe mare în timp ce explorăm Chora aproape singuri. La prânz, soarele blând încălzește piața bisericii, ideal pentru o scurtă odihnă. După-amiaza aparține liniștii mănăstirii și peșterii, departe de mulțimile de vară. Deoarece soarele apune în jurul orei 17:00, savurăm lumina aurie peste portul Skala cu o băutură caldă.",
+            "en": "The winter morning sun glitters on the sea as we explore Chora almost in solitude. At noon, the mild Greek sun warms the church square, perfect for a short rest. The afternoon is dedicated to the silence of the monastery and cave, far from the summer crowds. Since the sun sets around 17:00, we enjoy the golden light over Skala harbor with a warm drink."
+          },
+          "stops": [
+            {
+              "name": "Chora Old Town",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne die Touristenmassen.",
+                "hu": "Élvezze a nyugalmat a turistaáradat nélkül.",
+                "ro": "Bucurați-vă de liniște fără mulțimile de turiști.",
+                "en": "Enjoy the silence without the tourist crowds."
+              }
+            },
+            {
+              "name": "Windmills of Patmos",
+              "tip_5lang": {
+                "de": "Perfekt für Fotos im klaren Winterlicht.",
+                "hu": "Tökéletes fotózáshoz a tiszta téli fényekben.",
+                "ro": "Perfect pentru fotografii în lumina clară de iarnă.",
+                "en": "Perfect for photos in the clear winter light."
+              }
+            },
+            {
+              "name": "Monastery of Saint John",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten vorab.",
+                "hu": "Ellenőrizze előre a téli nyitvatartást.",
+                "ro": "Verificați orele de deschidere de iarnă în avans.",
+                "en": "Check winter opening hours in advance."
+              }
+            },
+            {
+              "name": "Simantiri Mansion",
+              "tip_5lang": {
+                "de": "Ein warmer Ort voller Familiengeschichten.",
+                "hu": "Meleg helyszín, tele családi történetekkel.",
+                "ro": "Un loc cald plin de povești de familie.",
+                "en": "A warm place full of family stories."
+              }
+            },
+            {
+              "name": "Cave of the Apocalypse",
+              "tip_5lang": {
+                "de": "Besinnliche Stille, die im Winter noch tiefer wirkt.",
+                "hu": "Mély csend, ami télen még inkább hatásos.",
+                "ro": "Liniște profundă care iarna pare și mai intensă.",
+                "en": "Contemplative silence that feels deeper in winter."
+              }
+            },
+            {
+              "name": "Agia Lesvia Square",
+              "tip_5lang": {
+                "de": "Ein Platz zum Sonnenbaden in der Mittagssonne.",
+                "hu": "Ideális hely egy kis napfürdőzéshez délben.",
+                "ro": "Un loc pentru plajă în soarele de la amiază.",
+                "en": "A spot to catch some midday winter sun."
+              }
+            },
+            {
+              "name": "Lunch in Chora",
+              "tip_5lang": {
+                "de": "Probieren Sie lokale Winterspezialitäten wie Eintöpfe.",
+                "hu": "Kóstolja meg a téli ételeket, például a ragukat.",
+                "ro": "Gustați specialități locale de iarnă, cum ar fi tocanitile.",
+                "en": "Try local winter specialties like hearty stews."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip für wechselnde Temperaturen.",
+              "Achten Sie auf den frühen Sonnenuntergang gegen 17:00 Uhr.",
+              "Manche kleinen Souvenirläden könnten geschlossen sein.",
+              "Die Luft ist im Winter besonders klar, ideal für Fernsichten."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a változó hőmérséklet miatt.",
+              "Ügyeljen a korai naplementére 17:00 körül.",
+              "Néhány kisebb ajándékbolt zárva tarthat ilyenkor.",
+              "A levegő télen különösen tiszta, ideális a kilátáshoz."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru temperaturile schimbătoare.",
+              "Atenție la apusul devreme, în jurul orei 17:00.",
+              "Unele magazine de suveniruri mici pot fi închise.",
+              "Aerul este deosebit de clar iarna, ideal pentru panorame."
+            ],
+            "en": [
+              "Dress in layers for changing temperatures throughout the day.",
+              "Be mindful of the early sunset around 17:00.",
+              "Some small souvenir shops might be closed in the off-season.",
+              "The air is exceptionally clear in winter, ideal for long-distance views."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +942,188 @@
           "Wear a helmet and bring a lock for your bike.",
           "Check the opening hours of the monasteries in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet erfrischend im Regen zur Höhle. Die Fahrt bergauf nach Chora erfordert Kraft und Konzentration auf dem nassen Asphalt. Mittags wärmen wir uns im Kloster auf, bevor wir die Windmühlen passieren. Die Abfahrt nach Grikos ist windig; dort angekommen, genießen wir den Blick auf die graue Ägäis von einem überdachten Café aus, bevor wir sicher nach Skala zurückkehren.",
+            "hu": "A kerékpártúra frissítő esőben indul a barlang felé. A Chora-ba vezető emelkedő erőt és koncentrációt igényel a vizes aszfalton. Délben a kolostorban melegszünk fel, majd elhaladunk a szélmalmok mellett. A Grikos-ba vezető lejtő szeles; megérkezve egy fedett kávézóból csodáljuk a szürke Égei-tengert, mielőtt biztonságosan visszatérnénk Skalába.",
+            "ro": "Turul cu bicicleta începe revigorant prin ploaie spre peșteră. Urcarea spre Chora necesită forță și concentrare pe asfaltul ud. La prânz ne încălzim în mănăstire înainte de a trece pe lângă morile de vânt. Coborârea spre Grikos este vântoasă; odată ajunși, admirăm Egeea gri dintr-o cafenea acoperită, înainte de a ne întoarce în siguranță la Skala.",
+            "en": "The bike tour starts refreshingly in the rain towards the cave. The climb to Chora requires strength and focus on the wet asphalt. At noon, we warm up in the monastery before passing the windmills. The descent to Grikos is windy; once there, we enjoy the view of the grey Aegean from a covered cafe before safely returning to Skala."
+          },
+          "stops": [
+            {
+              "name": "Cave of the Apocalypse",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach ab.",
+                "hu": "Parkolja le a kerékpárt az előtető alatt.",
+                "ro": "Parcați bicicleta sub streșină.",
+                "en": "Park your bike under the overhang."
+              }
+            },
+            {
+              "name": "Chora Old Town",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Kopfsteinpflaster.",
+                "hu": "Vigyázzon a csúszós macskakövön.",
+                "ro": "Atenție pe pavajul de piatră alunecos.",
+                "en": "Be very careful on the slick cobblestones."
+              }
+            },
+            {
+              "name": "Monastery of Saint John",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit zum Trocknen Ihrer Kleidung.",
+                "hu": "Használja ki az időt a ruhái szárítására.",
+                "ro": "Folosiți timpul pentru a vă usca hainele.",
+                "en": "Use the time to dry your gear indoors."
+              }
+            },
+            {
+              "name": "Windmills of Patmos",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; halten Sie den Lenker fest.",
+                "hu": "Rövid fotómegálló; fogja erősen a kormányt.",
+                "ro": "Oprire scurtă; țineți bine de ghidon.",
+                "en": "Short photo stop; keep a firm grip on the bike."
+              }
+            },
+            {
+              "name": "Lunch and Beach at Grikos",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit Meerblick und Schutz.",
+                "hu": "Keressen egy védett helyet kilátással a tengerre.",
+                "ro": "Căutați un local cu vedere la mare și adăpost.",
+                "en": "Find a sheltered spot with a sea view."
+              }
+            },
+            {
+              "name": "Return to Skala",
+              "tip_5lang": {
+                "de": "Fahren Sie defensiv auf der nassen Küstenstraße.",
+                "hu": "Vezessen óvatosan a vizes parti úton.",
+                "ro": "Conduceți defensiv pe drumul de coastă umed.",
+                "en": "Ride defensively on the wet coastal road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie plötzliches Bremsen auf nassem Untergrund.",
+              "Tragen Sie eine vollflächige Regenjacke und wasserfeste Handschuhe.",
+              "Die Bremsbeläge verschleißen bei Nässe schneller.",
+              "Schutzbleche am Rad sind heute Ihr bester Freund."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a vizes talajon.",
+              "Viseljen teljes esőkabátot és vízálló kesztyűt.",
+              "A fékbetétek gyorsabban kopnak nedves időben.",
+              "A sárvédő ma a legjobb barátja lesz."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe suprafețe umede.",
+              "Purtați o jachetă de ploaie completă și mănuși impermeabile.",
+              "Plăcuțele de frână se uzează mai repede pe umiditate.",
+              "Aripile la bicicletă sunt cel mai bun prieten astăzi."
+            ],
+            "en": [
+              "Avoid sudden braking on wet surfaces.",
+              "Wear a full raincoat and waterproof gloves.",
+              "Brake pads wear out faster in wet conditions.",
+              "Mudguards are your best friend on a day like this."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wind begleitet uns auf der Fahrt zur Apokalypse-Höhle am Morgen. Der Anstieg nach Chora lässt den Puls steigen und hält uns warm. Mittags genießen wir die Stille im Klosterbezirk. Die Windmühlen bieten eine dramatische Kulisse gegen den Winterhimmel. Nachmittags radeln wir zur ruhigen Bucht von Grikos, wo die Stille des Winters fast greifbar ist, bevor wir pünktlich zum Sonnenuntergang Skala erreichen.",
+            "hu": "Hűvös szél kísér minket a reggeli úton a barlang felé. A Chora-ba vezető emelkedő megemeli a pulzust és melegen tart. Délben élvezzük a kolostornegyed csendjét. A szélmalmok drámai hátteret nyújtanak a téli égbolton. Délután Grikos csendes öblébe tekerünk, ahol a tél nyugalma szinte tapintható, majd pontosan a naplementére érünk Skalába.",
+            "ro": "Un vânt răcoros ne însoțește pe drumul spre peșteră dimineața. Urcarea spre Chora ne crește pulsul și ne ține de cald. La prânz ne bucurăm de liniștea din zona mănăstirii. Morile de vânt oferă un decor dramatic pe cerul de iarnă. După-amiaza pedalăm spre golful liniștit Grikos, unde liniștea iernii este aproape palpabilă, ajungând în Skala fix la apus.",
+            "en": "A cool breeze accompanies us on the ride to the cave in the morning. The climb to Chora gets the heart rate up and keeps us warm. At noon, we enjoy the silence of the monastery district. The windmills provide a dramatic backdrop against the winter sky. In the afternoon, we cycle to the quiet bay of Grikos, where the winter stillness is palpable, reaching Skala just in time for sunset."
+          },
+          "stops": [
+            {
+              "name": "Cave of the Apocalypse",
+              "tip_5lang": {
+                "de": "Die kühle Höhlenluft ist im Winter erfrischend.",
+                "hu": "A hűvös barlangi levegő télen frissítő.",
+                "ro": "Aerul răcoros din peșteră este revigorant iarna.",
+                "en": "The cool cave air is refreshing in winter."
+              }
+            },
+            {
+              "name": "Chora Old Town",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch die leeren Gassen.",
+                "hu": "Hajtson lassan az üres sikátorokban.",
+                "ro": "Conduceți încet prin străzile goale.",
+                "en": "Ride slowly through the empty alleys."
+              }
+            },
+            {
+              "name": "Monastery of Saint John",
+              "tip_5lang": {
+                "de": "Sonnige Plätze im Innenhof suchen.",
+                "hu": "Keressen napos helyeket a belső udvaron.",
+                "ro": "Căutați locuri însorite în curtea interioară.",
+                "en": "Look for sunny spots in the courtyard."
+              }
+            },
+            {
+              "name": "Windmills of Patmos",
+              "tip_5lang": {
+                "de": "Vorsicht vor starken Windböen an den Mühlen.",
+                "hu": "Vigyázzon az erős széllökésekre a malmoknál.",
+                "ro": "Atenție la rafalele puternice de vânt la mori.",
+                "en": "Watch out for strong gusts at the mills."
+              }
+            },
+            {
+              "name": "Lunch and Beach at Grikos",
+              "tip_5lang": {
+                "de": "Genießen Sie die absolute Einsamkeit der Bucht.",
+                "hu": "Élvezze az öböl teljes magányát.",
+                "ro": "Bucurați-vă de singurătatea absolută a golfului.",
+                "en": "Enjoy the absolute solitude of the bay."
+              }
+            },
+            {
+              "name": "Return to Skala",
+              "tip_5lang": {
+                "de": "Licht am Rad einschalten für die Dämmerung.",
+                "hu": "Kapcsolja be a világítást a szürkületben.",
+                "ro": "Aprindeți luminile la bicicletă pentru amurg.",
+                "en": "Turn on your bike lights for the twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind für die Abfahrten unerlässlich.",
+              "Die Wintersonne steht tief und kann blenden; Sonnenbrille mitnehmen.",
+              "Trinken Sie trotz Kälte genug Wasser.",
+              "Prüfen Sie den Reifendruck vor dem Start."
+            ],
+            "hu": [
+              "A lejtőkön elengedhetetlen a meleg kesztyű.",
+              "A téli nap alacsonyan jár és vakíthat; vigyen napszemüveget.",
+              "A hideg ellenére igyon elég vizet.",
+              "Indulás előtt ellenőrizze a guminyomást."
+            ],
+            "ro": [
+              "Mănușile calde sunt esențiale pentru coborâri.",
+              "Soarele de iarnă este jos și poate fi orbitor; luați ochelari.",
+              "Beți destulă apă în ciuda frigului.",
+              "Verificați presiunea în pneuri înainte de start."
+            ],
+            "en": [
+              "Warm gloves are essential for the descents.",
+              "The winter sun is low and can be blinding; bring sunglasses.",
+              "Stay hydrated even if you don't feel thirsty in the cold.",
+              "Check your tire pressure before you head out."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1504,206 @@
           "Check opening hours as they can vary seasonally.",
           "Always have some cash with you, especially in more remote areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto erkunden wir Patmos heute ganz entspannt und trocken. Morgens besuchen wir das Kloster und Chora, während der Regen gegen die Scheiben trommelt. Mittags bieten die Windmühlen ein raues, schönes Bild. Nachmittags geht es zur Apokalypse-Höhle und weiter zum Lambi-Strand, wo die bunten Steine im Regen besonders intensiv leuchten. Den Tag beenden wir mit einem gemütlichen Abendessen in Skala.",
+            "hu": "Autóval ma teljesen ellazultan és szárazon fedezzük fel Patmoszt. Reggel meglátogatjuk a kolostort és Chorát, miközben az eső kopog az ablakon. Délben a szélmalmok nyers, szép látványt nyújtanak. Délután a barlanghoz, majd a Lambi-strandra megyünk, ahol a színes kövek az esőben különösen élénken ragyognak. A napot egy kellemes vacsorával zárjuk Skalában.",
+            "ro": "Cu mașina, explorăm Patmos astăzi relaxați și uscați. Dimineața vizităm mănăstirea și Chora, în timp ce ploaia bate în geamuri. La prânz, morile oferă o imagine aspră și frumoasă. După-amiaza mergem la peșteră și la plaja Lambi, unde pietrele colorate strălucesc intens în ploaie. Încheiem ziua cu o cină plăcută în Skala.",
+            "en": "By car, we explore Patmos today in a relaxed and dry manner. In the morning, we visit the monastery and Chora while rain drums on the windows. At noon, the windmills offer a raw, beautiful sight. In the afternoon, we head to the cave and then to Lambi Beach, where the colored stones glow intensely in the rain. We end the day with a pleasant dinner in Skala."
+          },
+          "stops": [
+            {
+              "name": "Monastery of St. John & Chora (Cluster 1)",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz.",
+                "ro": "Parcați cât mai aproape de intrare.",
+                "en": "Park as close to the entrance as possible."
+              }
+            },
+            {
+              "name": "Windmills of Patmos",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto für Fotos.",
+                "hu": "Heves esőben maradjon az autóban fotózni.",
+                "ro": "Rămâneți în mașină pentru poze în caz de ploaie grea.",
+                "en": "Stay in the car for photos if the rain is heavy."
+              }
+            },
+            {
+              "name": "Chora Old Town Exploration",
+              "tip_5lang": {
+                "de": "Suchen Sie überdachte Parkmöglichkeiten in Chora.",
+                "hu": "Keressen fedett parkolási lehetőséget Chorában.",
+                "ro": "Căutați opțiuni de parcare acoperite în Chora.",
+                "en": "Look for sheltered parking options in Chora."
+              }
+            },
+            {
+              "name": "Cave of the Apocalypse (Cluster 2)",
+              "tip_5lang": {
+                "de": "Der kurze Weg vom Parkplatz ist gut befestigt.",
+                "hu": "A rövid út a parkolótól jól kiépített.",
+                "ro": "Drumul scurt de la parcare este bine amenajat.",
+                "en": "The short path from the parking is well-paved."
+              }
+            },
+            {
+              "name": "Lambi Beach (Cluster 3)",
+              "tip_5lang": {
+                "de": "Die Steine leuchten nass am schönsten.",
+                "hu": "A kövek nedvesen a legszebbek.",
+                "ro": "Pietrele sunt cele mai frumoase când sunt ude.",
+                "en": "The stones look most vibrant when wet."
+              }
+            },
+            {
+              "name": "Drive to Psili Ammos for Sunset",
+              "tip_5lang": {
+                "de": "Vorsicht auf unbefestigten Abschnitten bei Nässe.",
+                "hu": "Vigyázat a nem aszfaltozott részeken esőben.",
+                "ro": "Atenție pe porțiunile neasfaltate când e ud.",
+                "en": "Caution on unpaved sections in wet weather."
+              }
+            },
+            {
+              "name": "Dinner in Skala",
+              "tip_5lang": {
+                "de": "Viele Restaurants in Skala haben Parkplätze vor der Tür.",
+                "hu": "Sok skalai étteremnek van parkolója az ajtó előtt.",
+                "ro": "Multe restaurante din Skala au parcare la ușă.",
+                "en": "Many restaurants in Skala have nearby parking."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand der Scheibenwischer.",
+              "Achten Sie auf Steinschlag auf den Küstenstraßen nach dem Regen.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto.",
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlők állapotát.",
+              "Ügyeljen a kőomlásokra a parti utakon eső után.",
+              "Ne hagyjon értéket látható helyen az autóban.",
+              "Használja a légkondicionálót a párásodás ellen."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor de parbriz.",
+              "Atenție la căderile de pietre pe drumurile de coastă după ploaie.",
+              "Nu lăsați obiecte de valoare la vedere în mașină.",
+              "Folosiți aerul condiționat împotriva aburirii geamurilor."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers.",
+              "Watch for rockfall on coastal roads after heavy rain.",
+              "Do not leave valuables visible inside the car.",
+              "Use the air conditioning to keep the windows clear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Patmos im Winter mit dem Auto ist ein Privileg der Ruhe. Wir fahren morgens zum Kloster, ohne Parkplatzsorgen in Chora. Die Luft ist frisch, und die Aussicht von den Windmühlen reicht bis zu den Nachbarinseln. Nachmittags besuchen wir die Apokalypse-Höhle und fahren zum einsamen Lambi-Strand. Der Sonnenuntergang bei Psili Ammos ist im Winterlicht besonders farbenfroh, bevor wir den Abend im lebendigen Skala verbringen.",
+            "hu": "Patmosz télen autóval a nyugalom kiváltsága. Reggel a kolostorhoz hajtunk, parkolási gondok nélkül Chorában. A levegő friss, a szélmalmoktól a kilátás a szomszédos szigetekig ér. Délután meglátogatjuk a barlangot és az elhagyatott Lambi-strandot. A naplemente Psili Ammosnál a téli fényben különösen színes, mielőtt az estét az élő Skalában töltenénk.",
+            "ro": "Patmos iarna cu mașina este un privilegiu al liniștii. Mergem dimineața la mănăstire, fără griji de parcare în Chora. Aerul este proaspăt, iar vederea de la mori ajunge până la insulele vecine. După-amiaza vizităm peștera și plaja pustie Lambi. Apusul la Psili Ammos este deosebit de colorat în lumina de iarnă, înainte de a petrece seara în Skala.",
+            "en": "Patmos in winter by car is a privilege of tranquility. We drive to the monastery in the morning, without parking worries in Chora. The air is fresh, and the view from the windmills reaches neighboring islands. In the afternoon, we visit the cave and the lonely Lambi beach. The sunset at Psili Ammos is especially colorful in the winter light before we spend the evening in Skala."
+          },
+          "stops": [
+            {
+              "name": "Monastery of St. John & Chora (Cluster 1)",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter direkt am Eingang frei.",
+                "hu": "Télen közvetlenül a bejáratnál szabadok a parkolók.",
+                "ro": "Locurile de parcare sunt libere chiar la intrare iarna.",
+                "en": "Parking spots are easily found right at the entrance in winter."
+              }
+            },
+            {
+              "name": "Windmills of Patmos",
+              "tip_5lang": {
+                "de": "Klarste Sicht des Jahres, ideal für Weitwinkel-Fotos.",
+                "hu": "Az év legtisztább kilátása, ideális nagylátószögű fotókhoz.",
+                "ro": "Cea mai clară vedere a anului, ideală pentru poze.",
+                "en": "Clearest views of the year, ideal for wide-angle photos."
+              }
+            },
+            {
+              "name": "Chora Old Town Exploration",
+              "tip_5lang": {
+                "de": "Erkunden Sie die Gassen ohne die Sommerhitze.",
+                "hu": "Fedezze fel a sikátorokat a nyári hőség nélkül.",
+                "ro": "Explorați străzile fără căldura verii.",
+                "en": "Explore the alleys without the summer heat."
+              }
+            },
+            {
+              "name": "Cave of the Apocalypse (Cluster 2)",
+              "tip_5lang": {
+                "de": "Ein sehr friedlicher Ort im Winter.",
+                "hu": "Nagyon békés hely télen.",
+                "ro": "Un loc foarte liniștit iarna.",
+                "en": "A very peaceful place in the winter."
+              }
+            },
+            {
+              "name": "Lambi Beach (Cluster 3)",
+              "tip_5lang": {
+                "de": "Perfekt für einen einsamen Strandspaziergang.",
+                "hu": "Tökéletes egy magányos tengerparti sétához.",
+                "ro": "Perfect pentru o plimbare solitară pe plajă.",
+                "en": "Perfect for a solitary beach walk."
+              }
+            },
+            {
+              "name": "Drive to Psili Ammos for Sunset",
+              "tip_5lang": {
+                "de": "Die Farben des Winterhimmels sind spektakulär.",
+                "hu": "A téli égbolt színei látványosak.",
+                "ro": "Culorile cerului de iarnă sunt spectaculoase.",
+                "en": "The colors of the winter sky are spectacular."
+              }
+            },
+            {
+              "name": "Dinner in Skala",
+              "tip_5lang": {
+                "de": "Skala ist das soziale Zentrum im Winter.",
+                "hu": "Skala a társadalmi központ télen.",
+                "ro": "Skala este centrul social iarna.",
+                "en": "Skala is the social hub during the winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tanken Sie rechtzeitig, da manche Tankstellen früher schließen.",
+              "Die Straßen sind im Winter oft leerer, aber Vorsicht vor Tieren.",
+              "Prüfen Sie das Frostschutzmittel, falls es nachts kalt wird.",
+              "Genießen Sie die problemlose Parkplatzsuche überall."
+            ],
+            "hu": [
+              "Tankoljon időben, mert néhány kút korábban zárhat.",
+              "Az utak télen üresebbek, de vigyázzon az állatokra.",
+              "Ellenőrizze a fagyállót, ha hideg éjszaka várható.",
+              "Élvezze a gondtalan parkolást mindenhol."
+            ],
+            "ro": [
+              "Alimentați la timp, unele benzinării pot închide devreme.",
+              "Drumurile sunt mai goale iarna, dar atenție la animale.",
+              "Verificați antigelul dacă se anunță noapte rece.",
+              "Bucurați-vă de parcarea ușoară peste tot."
+            ],
+            "en": [
+              "Refuel in time as some stations might close early.",
+              "Roads are emptier in winter, but watch out for animals.",
+              "Check the coolant level if a cold night is expected.",
+              "Enjoy the hassle-free parking everywhere you go."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2060,188 @@
           "Buses can get crowded in high season, so be at the stop early.",
           "The bus is an excellent and cheap way to travel between Skala and Chora."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus geht es heute sicher durch den Regen von Skala hinauf nach Chora. Vormittags besuchen wir das Kloster und genießen den Ausblick unter dem Schutz der dicken Mauern. Mittags schlendern wir durch die überdachten Gassen von Chora, bevor wir zur Höhle hinabsteigen. Nachmittags bringt uns der Bus zurück nach Skala, wo wir die Zeit in einem warmen Café am Hafen genießen, bis der Tag endet.",
+            "hu": "Busszal ma biztonságban utazunk az esőben Skalából fel Chorába. Délelőtt meglátogatjuk a kolostort, és a vastag falak védelmében élvezzük a kilátást. Délben Chora fedett sikátoraiban sétálunk, mielőtt leereszkednénk a barlanghoz. Délután a busz visszavisz Skalába, ahol egy meleg kikötői kávézóban töltjük az időt a nap végéig.",
+            "ro": "Cu autobuzul mergem astăzi în siguranță prin ploaie de la Skala la Chora. Dimineața vizităm mănăstirea și admirăm vederea sub protecția zidurilor groase. La prânz ne plimbăm prin străzile acoperite din Chora înainte de a coborî la peșteră. După-amiaza autobuzul ne duce înapoi la Skala, unde petrecem timpul într-o cafenea caldă din port.",
+            "en": "By bus, we travel safely through the rain today from Skala up to Chora. In the morning, we visit the monastery and enjoy the view under the protection of its thick walls. At noon, we stroll through Chora's sheltered alleys before descending to the cave. In the afternoon, the bus takes us back to Skala, where we enjoy time in a warm harbor cafe until the day ends."
+          },
+          "stops": [
+            {
+              "name": "Bus ride from Skala to Chora (Cluster 1)",
+              "tip_5lang": {
+                "de": "Warten Sie im Wartehäuschen am Hafen.",
+                "hu": "Várjon a kikötői buszváróban.",
+                "ro": "Așteptați în stația acoperită din port.",
+                "en": "Wait in the sheltered bus stop at the harbor."
+              }
+            },
+            {
+              "name": "Monastery of Saint John",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den Regen abzuwarten.",
+                "hu": "Ideális hely az eső kivárására.",
+                "ro": "Loc ideal pentru a aștepta să treacă ploaia.",
+                "en": "Ideal place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Chora Old Town",
+              "tip_5lang": {
+                "de": "Die Gassen bieten überraschend viel Schutz.",
+                "hu": "A sikátorok meglepően sok védelmet nyújtanak.",
+                "ro": "Străzile oferă surprinzător de mult adăpost.",
+                "en": "The narrow streets provide surprising shelter."
+              }
+            },
+            {
+              "name": "Cave of the Apocalypse",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nahe am Eingang.",
+                "hu": "A buszmegálló közel van a bejárathoz.",
+                "ro": "Stația de autobuz este aproape de intrare.",
+                "en": "The bus stop is located very close to the entrance."
+              }
+            },
+            {
+              "name": "Return to Skala (Cluster 2)",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten bei Regen genau.",
+                "hu": "Esőben pontosan ellenőrizze a visszaindulást.",
+                "ro": "Verificați exact orele de întoarcere pe ploaie.",
+                "en": "Check the return schedule carefully in wet weather."
+              }
+            },
+            {
+              "name": "Late Lunch and Relaxation in Skala",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Café mit gemütlichen Sesseln.",
+                "hu": "Keressen egy kávézót kényelmes fotelekkel.",
+                "ro": "Căutați o cafenea cu fotolii confortabile.",
+                "en": "Find a cafe with comfortable armchairs."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld für das Busticket bereit.",
+              "Die Busse können bei Regen etwas verspätet sein.",
+              "Tragen Sie wasserfeste Schuhe für den Weg zur Haltestelle.",
+              "Sitzplätze im Bus sind bei Regen begehrt."
+            ],
+            "hu": [
+              "Legyen kéznél aprópénz a buszjegyhez.",
+              "A buszok esőben kissé késhetnek.",
+              "Viseljen vízálló cipőt a megállóig vezető úton.",
+              "Esőben a busz ülőhelyei hamar elfogynak."
+            ],
+            "ro": [
+              "Aveți pregătit mărunțiș pentru biletul de autobuz.",
+              "Autobuzele pot avea mici întârzieri pe ploaie.",
+              "Purtați încălțăminte impermeabilă până la stație.",
+              "Locurile în autobuz sunt căutate când plouă."
+            ],
+            "en": [
+              "Have exact change ready for the bus ticket.",
+              "Buses might be slightly delayed during heavy rain.",
+              "Wear waterproof shoes for the walk to the bus stop.",
+              "Seats on the bus fill up quickly when it rains."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet der Bus eine verlässliche Verbindung zwischen Skala und Chora. Morgens fahren wir hinauf zum Kloster, während die Insel noch schläft. Die Ruhe in Chora am Mittag ist magisch. Nach dem Besuch der Apokalypse-Höhle nehmen wir den Nachmittagsbus zurück nach Skala. Da es früher dunkel wird, genießen wir ein spätes Mittagessen und die entspannte Atmosphäre im Hafenort, wo sich die Einheimischen treffen.",
+            "hu": "Télen a busz megbízható kapcsolatot kínál Skala és Chora között. Reggel felmegyünk a kolostorhoz, miközben a sziget még alszik. Chora nyugalma délben varázslatos. A barlang meglátogatása után a délutáni busszal megyünk vissza Skalába. Mivel korábban sötétedik, egy késői ebédet és a kikötőváros nyugodt légkörét élvezzük, ahol a helyiek találkoznak.",
+            "ro": "Iarna, autobuzul oferă o legătură de încredere între Skala și Chora. Dimineața urcăm la mănăstire în timp ce insula încă doarme. Liniștea din Chora la prânz este magică. După vizitarea peșterii, luăm autobuzul de după-amiază înapoi la Skala. Deoarece se întunecă mai devreme, ne bucurăm de un prânz târziu în port.",
+            "en": "In winter, the bus provides a reliable link between Skala and Chora. In the morning, we head up to the monastery while the island is still asleep. The silence in Chora at noon is magical. After visiting the cave, we take the afternoon bus back to Skala. As it gets dark earlier, we enjoy a late lunch and the relaxed atmosphere in the harbor town where locals gather."
+          },
+          "stops": [
+            {
+              "name": "Bus ride from Skala to Chora (Cluster 1)",
+              "tip_5lang": {
+                "de": "Achten Sie auf den speziellen Winterfahrplan.",
+                "hu": "Ügyeljen a speciális téli menetrendre.",
+                "ro": "Atenție la orarul special de iarnă.",
+                "en": "Pay close attention to the special winter schedule."
+              }
+            },
+            {
+              "name": "Monastery of Saint John",
+              "tip_5lang": {
+                "de": "Keine Wartezeiten am Einlass im Winter.",
+                "hu": "Télen nincs várakozási idő a bejáratnál.",
+                "ro": "Fără timp de așteptare la intrare iarna.",
+                "en": "No waiting times at the entrance in winter."
+              }
+            },
+            {
+              "name": "Chora Old Town",
+              "tip_5lang": {
+                "de": "Fast alle Gassen gehören Ihnen allein.",
+                "hu": "Szinte az összes sikátor csak az Öné.",
+                "ro": "Aproape toate străzile sunt doar ale tale.",
+                "en": "Almost all the alleys are yours alone."
+              }
+            },
+            {
+              "name": "Cave of the Apocalypse",
+              "tip_5lang": {
+                "de": "Warme Kleidung für die Wartezeit an der Haltestelle.",
+                "hu": "Meleg ruházat a megállóban való várakozáshoz.",
+                "ro": "Haine calde pentru așteptarea în stație.",
+                "en": "Wear warm clothes for the wait at the bus stop."
+              }
+            },
+            {
+              "name": "Return to Skala (Cluster 2)",
+              "tip_5lang": {
+                "de": "Der Bus ist oft der einzige Transport im Winter.",
+                "hu": "Télen gyakran a busz az egyetlen közlekedési eszköz.",
+                "ro": "Autobuzul este adesea singurul transport iarna.",
+                "en": "The bus is often the only reliable transport in winter."
+              }
+            },
+            {
+              "name": "Late Lunch and Relaxation in Skala",
+              "tip_5lang": {
+                "de": "Probieren Sie den lokalen Kräutertee.",
+                "hu": "Kóstolja meg a helyi gyógyteát.",
+                "ro": "Gustați ceaiul de plante local.",
+                "en": "Try the local herbal tea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busfrequenz ist im Winter deutlich reduziert.",
+              "Fragen Sie die Einheimischen nach aktuellen Fahrplanänderungen.",
+              "Der Bus ist gut geheizt und bietet Komfort.",
+              "Planen Sie den Tag um die wenigen Busverbindungen herum."
+            ],
+            "hu": [
+              "A buszjáratok sűrűsége télen jelentősen csökken.",
+              "Kérdezze a helyieket az esetleges menetrendi változásokról.",
+              "A busz jól fűtött és kényelmes.",
+              "Tervezze a napot a kevés buszjárat köré."
+            ],
+            "ro": [
+              "Frecvența autobuzelor este redusă semnificativ iarna.",
+              "Întrebați localnicii despre schimbările de orar.",
+              "Autobuzul este bine încălzit și oferă confort.",
+              "Planificați ziua în funcție de puținele conexiuni."
+            ],
+            "en": [
+              "Bus frequency is significantly reduced in winter.",
+              "Ask locals about any last-minute schedule changes.",
+              "The bus is well-heated and provides a comfortable ride.",
+              "Plan your entire day around the few available bus times."
+            ]
+          }
+        }
       }
     }
   }

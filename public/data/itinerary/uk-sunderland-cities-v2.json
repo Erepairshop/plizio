@@ -356,6 +356,196 @@
           "Many museums have free entry on certain days.",
           "The weather can change quickly, so pack a raincoat."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet der Mowbray Park trotz Regen eine melancholische Schönheit, doch die Winter Gardens sind die perfekte Zuflucht. Mittags führt der Weg durch das Stadtzentrum zum Empire Theatre und zur St Peter's Church. Nachmittags wärmen wir uns im National Glass Centre auf, während der Regen gegen die Glasfassade peitscht. Den Abend lassen wir bei einer stürmischen Brise an der Roker-Promenade ausklingen.",
+            "hu": "Reggel a Mowbray Park esőáztatta ösvényein indulunk, de hamar a Winter Gardens trópusi növényei között találunk menedéket. Délben az Empire Theatre és a Szent Péter-templom történelmi falai védenek az égi áldástól. Délután az Üvegközpont interaktív kiállításai és kávézója ideális pihenőhely. Az estét a Roker partján zárjuk, ahol a tenger illata esőben a legintenzívebb.",
+            "ro": "Dimineața, Parcul Mowbray are un farmec aparte sub ploaie, dar Grădinile de Iarnă oferă adăpostul perfect. La prânz, vizităm Empire Theatre și Biserica Sf. Petru, profitând de interioarele lor liniștite. După-amiaza, Centrul Național al Sticlei este refugiul ideal pentru a urmări demonstrațiile de suflare a sticlei. Seara se încheie cu o plimbare revigorantă pe faleza Roker, sub umbrelă.",
+            "en": "Morning starts with a damp stroll through Mowbray Park, quickly retreating to the lush Winter Gardens. Midday takes us to the sheltered interiors of the Empire Theatre and St Peter's Church. In the afternoon, the National Glass Centre provides a warm, dry vantage point over the River Wear. The evening concludes with a bracing, rainy walk along the Roker coastline, feeling the North Sea spray."
+          },
+          "stops": [
+            {
+              "name": "Mowbray Park",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den großen Bäumen oder im Museumseingang.",
+                "hu": "Használja a múzeum bejáratát vagy a nagy fákat ideiglenes menedékként.",
+                "ro": "Folosiți intrarea muzeului sau copacii mari ca adăpost temporar.",
+                "en": "Use the museum entrance or large trees for temporary cover from showers."
+              }
+            },
+            {
+              "name": "Sunderland Museum & Winter Gardens",
+              "tip_5lang": {
+                "de": "Die tropischen Winter Gardens sind der beste Ort, um dem Regen zu entkommen.",
+                "hu": "A trópusi Winter Gardens a legjobb hely az eső elöli menekülésre.",
+                "ro": "Grădinile tropicale de iarnă sunt cel mai bun loc pentru a scăpa de ploaie.",
+                "en": "The tropical Winter Gardens are the ultimate escape from the English rain."
+              }
+            },
+            {
+              "name": "Sunderland Empire Theatre",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur vom trockenen Foyer aus.",
+                "hu": "Csodálja meg az építészetet a száraz előcsarnokból.",
+                "ro": "Admirați arhitectura din foierul uscat al teatrului.",
+                "en": "Admire the Edwardian architecture from the dry safety of the foyer."
+              }
+            },
+            {
+              "name": "St Peter's Church",
+              "tip_5lang": {
+                "de": "Ein friedlicher, trockener Ort mit faszinierender angelsächsischer Geschichte.",
+                "hu": "Békés, száraz helyszín lenyűgöző angolszász történelemmel.",
+                "ro": "Un loc liniștit și uscat, cu o istorie anglo-saxonă fascinantă.",
+                "en": "A peaceful, dry spot filled with fascinating Anglo-Saxon history."
+              }
+            },
+            {
+              "name": "National Glass Centre",
+              "tip_5lang": {
+                "de": "Ideal bei Regen: Beobachten Sie Glasbläser in der warmen Werkstatt.",
+                "hu": "Ideális esőben: nézze a tiszta üvegfúvókat a meleg műhelyben.",
+                "ro": "Ideal pe ploaie: urmăriți suflătorii de sticlă în atelierul cald.",
+                "en": "Perfect for rain: watch glassblowing demos in the warm workshop."
+              }
+            },
+            {
+              "name": "Roker and Seaburn Beaches",
+              "tip_5lang": {
+                "de": "Die Cafés an der Promenade bieten einen tollen Blick auf die stürmische See.",
+                "hu": "A sétány kávézói nagyszerű kilátást nyújtanak a viharos tengerre.",
+                "ro": "Cafenelele de pe faleză oferă o priveliște minunată spre marea agitată.",
+                "en": "Seafront cafes offer great views of the crashing waves while you stay dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Wege im Park matschig sein können.",
+              "Nutzen Sie die Winter Gardens als zentralen 'Trockenpunkt' der Tour.",
+              "Die Cafés im Glass Centre und Museum sind ideal für längere Regenschauer.",
+              "Ein windfester Regenschirm ist an der Küste unerlässlich.",
+              "Prüfen Sie, ob das Pier bei starkem Wind aus Sicherheitsgründen gesperrt ist."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a parki ösvények sárosak lehetnek.",
+              "Használja a Winter Gardens-t a túra központi 'száraz pontjaként'.",
+              "Az Üvegközpont és a múzeum kávézói ideálisak hosszabb záporok idején.",
+              "A tengerparton elengedhetetlen egy szélálló esernyő.",
+              "Erős szélben ellenőrizze, hogy a móló nyitva van-e a látogatók előtt."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, potecile din parc pot deveni noroioase.",
+              "Folosiți Winter Gardens ca punct central de refugiu în timpul turului.",
+              "Cafenelele de la Centrul Sticlei și Muzeu sunt ideale pentru pauze lungi.",
+              "O umbrelă rezistentă la vânt este esențială pe coastă.",
+              "Verificați dacă digul este deschis în caz de vânt puternic."
+            ],
+            "en": [
+              "Wear waterproof shoes as park paths can collect puddles quickly.",
+              "Use the Winter Gardens as your primary indoor hub during the tour.",
+              "The Glass Centre and Museum cafes are perfect for waiting out heavy downpours.",
+              "A wind-resistant umbrella is crucial for the exposed coastal sections.",
+              "Check if Roker Pier is closed during high winds for safety reasons."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter glitzert der Frost auf den Statuen des Mowbray Parks. Nach einem kurzen Spaziergang wärmen wir uns in den tropischen Winter Gardens auf. Mittags erkunden wir das historische Monkwearmouth und die St Peter's Church. Da die Sonne bereits gegen 16 Uhr untergeht, erreichen wir das National Glass Centre rechtzeitig zum Dämmerlicht am Fluss. Der Tag endet mit einem klaren Sternenhimmel über dem winterlichen Roker Beach.",
+            "hu": "Télen a dér csillog a Mowbray Park szobrain, mielőtt a trópusi Winter Gardens melegébe vonulnánk. Délben Monkwearmouth történelmi utcáit és a Szent Péter-templomot járjuk be. Mivel a nap már 16 órakor nyugszik, az Üvegközpontot a folyóparti szürkületben érjük el. A napot a téli Roker Beach feletti tiszta, csillagos égbolt látványával zárjuk.",
+            "ro": "Iarna, bruma strălucește pe statuile din Parcul Mowbray, îndemnându-ne spre căldura Grădinilor de Iarnă. La prânz, explorăm istoria din Monkwearmouth și Biserica Sf. Petru. Deoarece soarele apune în jurul orei 16:00, ajungem la Centrul Sticlei exact la timp pentru amurgul de pe râu. Seara se încheie sub cerul înstelat de deasupra plajei înghețate Roker.",
+            "en": "Winter frost coats the statues in Mowbray Park, making the warmth of the Winter Gardens even more inviting. Midday is spent exploring the historic Monkwearmouth area and St Peter's Church. With sunset arriving around 4 PM, we reach the National Glass Centre just as the riverside lights flicker on. The day ends with a brisk walk under the clear winter stars at Roker Beach."
+          },
+          "stops": [
+            {
+              "name": "Mowbray Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei glatten Wegen am frühen Morgen.",
+                "hu": "Vigyázat, a reggeli órákban az ösvények csúszósak lehetnek.",
+                "ro": "Atenție la potecile alunecoase în primele ore ale dimineții.",
+                "en": "Watch your step as paths can be icy in the early morning shadow."
+              }
+            },
+            {
+              "name": "Sunderland Museum & Winter Gardens",
+              "tip_5lang": {
+                "de": "Genießen Sie das üppige Grün, wenn es draußen grau und kalt ist.",
+                "hu": "Élvezze a buja zöldet, amikor kint szürke és hideg az idő.",
+                "ro": "Bucurați-vă de verdeața luxuriantă când afară este gri și frig.",
+                "en": "Enjoy the lush greenery while it's grey and freezing outside."
+              }
+            },
+            {
+              "name": "Sunderland Empire Theatre",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung des Theaters ist im Winter besonders stimmungsvoll.",
+                "hu": "A színház esti kivilágítása télen különösen hangulatos.",
+                "ro": "Iluminatul de seară al teatrului este foarte atmosferic iarna.",
+                "en": "The theatre's evening lights are particularly atmospheric in winter."
+              }
+            },
+            {
+              "name": "St Peter's Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen geschichtsträchtigen Ort vor dem frühen Sonnenuntergang.",
+                "hu": "Látogasson el erre a történelmi helyre a korai napnyugta előtt.",
+                "ro": "Vizitați acest loc istoric înainte de apusul devreme al soarelui.",
+                "en": "Visit this historic site before the early winter sunset dims the view."
+              }
+            },
+            {
+              "name": "National Glass Centre",
+              "tip_5lang": {
+                "de": "Die Hitze der Glasöfen ist im Winter eine Wohltat.",
+                "hu": "Az üvegkemencék melege télen igazi áldás.",
+                "ro": "Căldura cuptoarelor de sticlă este o binecuvântare iarna.",
+                "en": "The heat from the glass furnaces is a welcome comfort in winter."
+              }
+            },
+            {
+              "name": "Roker and Seaburn Beaches",
+              "tip_5lang": {
+                "de": "Warm anziehen für den schneidenden Seewind am Abend.",
+                "hu": "Öltözzön melegen a metsző tengeri szél miatt este.",
+                "ro": "Îmbrăcați-vă gros pentru vântul tăios de pe mare de seară.",
+                "en": "Dress in layers for the biting sea wind during your evening stroll."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie die Route so, dass Sie Küstenabschnitte vor 16 Uhr erreichen.",
+              "Die Winter Gardens bieten eine kostenlose Möglichkeit, sich aufzuwärmen.",
+              "Tragen Sie Handschuhe und eine Mütze für den Wind am River Wear.",
+              "Die Innenstadt ist im Dezember oft festlich beleuchtet.",
+              "Warme Getränke gibt es im Brasserie-Café des Glass Centres."
+            ],
+            "hu": [
+              "Tervezze úgy az útvonalat, hogy 16 óra előtt érjen a tengerparthoz.",
+              "A Winter Gardens ingyenes lehetőséget kínál a felmelegedésre.",
+              "Viseljen kesztyűt és sapkát a Wear-folyó felől fújó szél miatt.",
+              "A belváros decemberben gyakran ünnepi díszkivilágításban pompázik.",
+              "Meleg italokért keresse fel az Üvegközpont Brasserie kávézóját."
+            ],
+            "ro": [
+              "Planificați ruta astfel încât să ajungeți pe coastă înainte de ora 16:00.",
+              "Winter Gardens oferă o oportunitate gratuită de a vă încălzi.",
+              "Purtați mănuși și căciulă pentru vântul tăios de pe râul Wear.",
+              "Centrul orașului este adesea iluminat festiv în luna decembrie.",
+              "Băuturi calde sunt disponibile la cafeneaua Brasserie din Centrul Sticlei."
+            ],
+            "en": [
+              "Plan to reach the exposed coastal sections before the 4 PM sunset.",
+              "The Winter Gardens is a perfect free spot to warm up mid-morning.",
+              "Wear layers; the wind chill along the River Wear can be significant.",
+              "Look out for festive light displays in the city centre during December.",
+              "Warm up with a hot drink at the National Glass Centre's Brasserie."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +896,196 @@
           "Many paths are shared with pedestrians, so ride considerately.",
           "The wind on the coast can be strong."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Radtour durch Sunderland erfordert gute Ausrüstung, bietet aber leere Wege. Von Mowbray Park geht es zur Hylton Castle, deren Ruinen im Regen mystisch wirken. Mittags führt die Fahrt zur St Peter's Church und zum National Glass Centre, wo wir das Fahrrad sicher abstellen und uns trocknen können. Die Rückfahrt entlang der Küste bei Roker ist eine echte Herausforderung gegen den Wind.",
+            "hu": "Az esős sunderlandi biciklitúra jó felszerelést igényel, de cserébe üres utakat kínál. A Mowbray Parkból a Hylton Castle-hez tekerünk, melynek romjai misztikusak az esőben. Délben a Szent Péter-templom és az Üvegközpont következik, ahol biztonságban lelakatolhatjuk a gépeket. A visszaút a Roker partján igazi kihívás a szembeszélben és a szitáló esőben.",
+            "ro": "O plimbare cu bicicleta prin Sunderland pe ploaie necesită echipament bun, dar oferă trasee libere. De la Parcul Mowbray pedalăm spre Castelul Hylton, ale cărui ruine par mistice în ploaie. La prânz, ajungem la Biserica Sf. Petru și la Centrul Sticlei, unde ne putem usca. Drumul de întoarcere pe coasta Roker este o adevărată provocare împotriva vântului.",
+            "en": "Cycling through Sunderland in the rain demands good gear but rewards you with quiet paths. From Mowbray Park, head to Hylton Castle, where the ruins look mystical in the mist. Midday stops at St Peter's Church and the Glass Centre allow for a much-needed dry-off. The return leg along the Roker seafront is a test of endurance against the coastal elements."
+          },
+          "stops": [
+            {
+              "name": "Mowbray Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassen Blättern auf den Parkwegen.",
+                "hu": "Vigyázat, a vizes levelek csúszóssá teszik a parki utakat.",
+                "ro": "Atenție la frunzele ude de pe aleile parcului.",
+                "en": "Be cautious of wet leaves on the park paths which can be slippery."
+              }
+            },
+            {
+              "name": "Hylton Castle",
+              "tip_5lang": {
+                "de": "Die umliegenden Wiesen können bei Regen sehr schlammig sein.",
+                "hu": "A környező füves területek esőben nagyon sárosak lehetnek.",
+                "ro": "Câmpiile din jur pot deveni foarte noroioase pe ploaie.",
+                "en": "The surrounding grass areas can get very muddy; stick to the hard paths."
+              }
+            },
+            {
+              "name": "St Peter's Church",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe suchen.",
+                "hu": "Keressen fedett biciklitárolót a közelben.",
+                "ro": "Căutați rastele de biciclete acoperite în apropiere.",
+                "en": "Look for sheltered cycle locking points nearby to keep your seat dry."
+              }
+            },
+            {
+              "name": "National Glass Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für eine ausgiebige Trockenpause im Café.",
+                "hu": "Használja ki a megállót egy alapos szárítkozásra a kávézóban.",
+                "ro": "Folosiți oprirea pentru o pauză lungă de uscare la cafenea.",
+                "en": "Use this stop to dry off and refuel in the indoor riverside cafe."
+              }
+            },
+            {
+              "name": "Roker and Seaburn Beaches",
+              "tip_5lang": {
+                "de": "Starke Seitenwinde an der Küste einplanen.",
+                "hu": "Számoljon az erős oldalszéllel a tengerparti szakaszon.",
+                "ro": "Anticipați rafalele puternice de vânt lateral pe coastă.",
+                "en": "Anticipate strong crosswinds along the exposed coastal cycle path."
+              }
+            },
+            {
+              "name": "Sunderland Museum & Winter Gardens",
+              "tip_5lang": {
+                "de": "Fahrrad sicher abstellen und die Wärme der Gärten genießen.",
+                "hu": "Zárja le biztonságosan a biciklit, és élvezze a kertek melegét.",
+                "ro": "Parcați bicicleta în siguranță și bucurați-vă de căldura grădinilor.",
+                "en": "Lock your bike securely and soak up the warmth of the gardens."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und wasserfeste Überhosen.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nasser Fahrbahn.",
+              "Vermeiden Sie scharfe Bremsmanöver auf den Promenadenfliesen.",
+              "Reinigen Sie Ihre Kette nach der Fahrt vom salzigen Küstenregen.",
+              "Nutzen Sie die C2C-Radroute für besser ausgebaute Wege."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot és vízálló nadrágot.",
+              "Csökkentse kissé a guminyomást a jobb tapadás érdekében a vizes úton.",
+              "Kerülje az éles fékezést a sétány csúszós kövein.",
+              "Túra után tisztítsa meg a láncot a sós tengeri esőtől.",
+              "Használja a C2C kerékpáros útvonalat a jobb minőségű utakért."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă completă și suprapantaloni.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe ud.",
+              "Evitați frânările bruște pe plăcile umede de pe faleză.",
+              "Curățați lanțul după plimbare pentru a elimina sarea de mare.",
+              "Folosiți ruta de biciclete C2C pentru drumuri mai bine întreținute."
+            ],
+            "en": [
+              "Wear high-quality waterproofs, including trousers and shoe covers.",
+              "Lower your tyre pressure slightly for better grip on wet surfaces.",
+              "Avoid sudden braking on the promenade tiles; they get very slick.",
+              "Wipe down your chain after the ride to prevent salt-water corrosion.",
+              "Follow the C2C (Sea to Sea) cycle route signs for the best paths."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Sunderland bietet klare Luft und weite Ausblicke. Wir starten am Mowbray Park und radeln zur Hylton Castle, wobei wir auf eisige Stellen achten. Mittags bietet das National Glass Centre eine willkommene Aufwärmpause. Da es früh dunkel wird, nutzen wir das letzte Tageslicht an den Stränden von Roker, bevor wir mit eingeschaltetem Licht durch die beleuchtete Stadt zum Museum zurückkehren.",
+            "hu": "A téli biciklizés Sunderlandben friss levegőt és tiszta kilátást kínál. A Mowbray Parkból indulva a Hylton Castle felé tekerünk, ügyelve a jeges szakaszokra. Délben az Üvegközpont melegében pihenünk. Mivel korán sötétedik, az utolsó fényeket a Roker tengerparton használjuk ki, majd lámpafénynél tekerünk vissza a kivilágított városon át a múzeumhoz.",
+            "ro": "Ciclismul de iarnă în Sunderland oferă aer curat și priveliști largi. Pornim de la Parcul Mowbray spre Castelul Hylton, fiind atenți la porțiunile înghețate. La prânz, Centrul Sticlei oferă o pauză de încălzire binevenită. Deoarece se întunecă devreme, profităm de ultima lumină pe plajele Roker, apoi revenim spre muzeu prin orașul iluminat.",
+            "en": "Winter cycling in Sunderland offers crisp air and stunning clear views. Starting at Mowbray Park, we pedal to Hylton Castle, watching for icy patches on the trail. Midday warmth is found at the National Glass Centre. As darkness falls early, we enjoy the sunset at Roker before cycling back through the festive city lights to the museum."
+          },
+          "stops": [
+            {
+              "name": "Mowbray Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Tau auf den schattigen Wegen.",
+                "hu": "Vigyázat, az árnyékos utakon fagyott harmat lehet.",
+                "ro": "Atenție la roua înghețată de pe aleile umbrite.",
+                "en": "Be alert for frozen dew in shaded areas of the park."
+              }
+            },
+            {
+              "name": "Hylton Castle",
+              "tip_5lang": {
+                "de": "Der Wind kann hier auf freiem Feld sehr kalt sein.",
+                "hu": "A szél itt a nyílt terepen nagyon hideg lehet.",
+                "ro": "Vântul poate fi foarte tăios aici, pe câmp deschis.",
+                "en": "The wind chill across the castle grounds can be significant; stay moving."
+              }
+            },
+            {
+              "name": "St Peter's Church",
+              "tip_5lang": {
+                "de": "Kurze Pause, um die Finger in der Kirche aufzuwärmen.",
+                "hu": "Rövid pihenő a templomban az ujjak felmelegítésére.",
+                "ro": "Pauză scurtă pentru a vă încălzi mâinile în interiorul bisericii.",
+                "en": "Take a short break inside to warm your hands before continuing."
+              }
+            },
+            {
+              "name": "National Glass Centre",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine heiße Suppe am Flussufer.",
+                "hu": "Tökéletes hely egy forró levesre a folyóparton.",
+                "ro": "Locul perfect pentru o supă fierbinte pe malul râului.",
+                "en": "The perfect spot for a hot soup while looking out at the icy river."
+              }
+            },
+            {
+              "name": "Roker and Seaburn Beaches",
+              "tip_5lang": {
+                "de": "Licht an! Die Dämmerung setzt hier sehr schnell ein.",
+                "hu": "Lámpát fel! A szürkület itt nagyon gyorsan beköszönt.",
+                "ro": "Aprindeți luminile! Amurgul se instalează foarte repede aici.",
+                "en": "Lights on! The winter twilight sets in very quickly on the coast."
+              }
+            },
+            {
+              "name": "Sunderland Museum & Winter Gardens",
+              "tip_5lang": {
+                "de": "Das Aufwärmen in den Gärten ist die beste Belohnung nach der Tour.",
+                "hu": "A kertek melege a legjobb jutalom a túra végén.",
+                "ro": "Încălzirea în grădini este cea mai bună recompensă după tură.",
+                "en": "Warming up in the tropical heat is the ultimate post-ride reward."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Handschuhe und warme Socken.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung voll aufgeladen ist.",
+              "Vermeiden Sie tiefe Pfützen, die nachts gefrieren könnten.",
+              "Nutzen Sie die hellen Radwege entlang des Wear.",
+              "Planen Sie regelmäßige Stopps in beheizten Gebäuden ein."
+            ],
+            "hu": [
+              "Viseljen hőtartó kesztyűt és meleg zoknit.",
+              "Győződjön meg róla, hogy a kerékpáros lámpák teljesen fel vannak töltve.",
+              "Kerülje a mély tócsákat, amelyek éjszaka megfagyhatnak.",
+              "Használja a Wear-folyó menti jól kivilágított kerékpárutakat.",
+              "Tervezzen rendszeres megállókat fűtött épületekben."
+            ],
+            "ro": [
+              "Purtați mănuși termice și șosete groase de lână.",
+              "Asigurați-vă că luminile bicicletei sunt complet încărcate.",
+              "Evitați bălțile adânci care ar putea îngheța peste noapte.",
+              "Folosiți pistele de biciclete bine iluminate de-a lungul râului.",
+              "Planificați opriri regulate în clădiri încălzite."
+            ],
+            "en": [
+              "Wear thermal gloves and thick socks; extremities freeze first.",
+              "Ensure your bike lights are fully charged for the early dusk.",
+              "Avoid deep puddles as they can hide ice or freeze over as you ride.",
+              "Stick to the well-lit shared paths along the River Wear for safety.",
+              "Schedule regular 'thaw-out' stops in heated public spaces."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1086,6 +1466,214 @@
           "Use a navigation app to get around the city.",
           "A car gives you the flexibility to visit more outlying sites like Penshaw."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bei Regen ist das Auto das ideale Mittel, um Sunderland zu erkunden. Wir starten am Penshaw Monument, wo wir den Blick aus dem trockenen Wagen genießen, bevor wir zur Hylton Castle fahren. Mittags besuchen wir das National Glass Centre und die St Peter's Church, immer nur wenige Schritte vom Parkplatz entfernt. Die Strände von Roker erleben wir durch die Regentropfen auf der Windschutzscheibe, gefolgt von einem Besuch im Museum.",
+            "hu": "Esőben az autó a legkényelmesebb módja Sunderland felfedezésének. A Penshaw Monumentnél kezdünk, ahol a száraz kocsiból is élvezhetjük a kilátást, majd a Hylton Castle következik. Délben az Üvegközpontot és a Szent Péter-templomot keressük fel, mindössze pár lépésre a parkolótól. A Roker tengerpartot a szélvédőn lepergő esőcseppeken át csodáljuk meg, végül a múzeumba látogatunk.",
+            "ro": "Pe ploaie, mașina este modul ideal de a explora Sunderland. Începem la Monumentul Penshaw, admirând priveliștea din vehiculul uscat, apoi mergem la Castelul Hylton. La prânz, vizităm Centrul Sticlei și Biserica Sf. Petru, aflate la câțiva pași de parcare. Admirăm plajele Roker prin parbrizul stropit de ploaie, înainte de a merge la muzeu.",
+            "en": "In rainy weather, the car is the perfect sanctuary for exploring Sunderland. Start at Penshaw Monument, enjoying the view from your dry seats before driving to Hylton Castle. Midday stops at the Glass Centre and St Peter's Church are just steps from convenient parking. Experience the stormy Roker seafront from behind the glass before finishing at the Museum and Winter Gardens."
+          },
+          "stops": [
+            {
+              "name": "Penshaw Monument",
+              "tip_5lang": {
+                "de": "Parken Sie oben und genießen Sie die Aussicht ohne nass zu werden.",
+                "hu": "Parkoljon fent, és élvezze a kilátást anélkül, hogy megázna.",
+                "ro": "Parcați sus și bucurați-vă de priveliște fără să vă udați.",
+                "en": "Park near the top to enjoy the views without leaving the dry car."
+              }
+            },
+            {
+              "name": "Hylton Castle",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz zum Schloss bei starkem Regen.",
+                "hu": "Rövid vágta a parkolótól a kastélyig erős esőben.",
+                "ro": "Sprint scurt din parcare până la castel în caz de ploaie torențială.",
+                "en": "A quick dash from the car park to the castle ruins during downpours."
+              }
+            },
+            {
+              "name": "National Glass Centre",
+              "tip_5lang": {
+                "de": "Großzügiger Parkplatz direkt am Eingang.",
+                "hu": "Tágas parkoló közvetlenül a bejáratnál.",
+                "ro": "Parcare spațioasă chiar lângă intrare.",
+                "en": "Ample parking available right next to the main entrance."
+              }
+            },
+            {
+              "name": "St Peter's Church",
+              "tip_5lang": {
+                "de": "Begrenztes Parken, aber oft Platz bei Regen.",
+                "hu": "Korlátozott parkolás, de esőben gyakran van szabad hely.",
+                "ro": "Parcare limitată, dar adesea se găsesc locuri pe ploaie.",
+                "en": "Limited parking available, but often quieter on rainy days."
+              }
+            },
+            {
+              "name": "Roker and Seaburn Beaches",
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Promenade für 'Storm Watching'.",
+                "hu": "Parkoljon közvetlenül a sétánynál a viharos tenger megfigyeléséhez.",
+                "ro": "Parcați chiar pe faleză pentru a observa marea agitată.",
+                "en": "Park directly on the seafront for some dramatic storm watching."
+              }
+            },
+            {
+              "name": "Sunderland Museum & Winter Gardens",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkhäuser in der Innenstadt.",
+                "hu": "Használja a belvárosi parkolóházakat.",
+                "ro": "Folosiți parcările supraetajate din centrul orașului.",
+                "en": "Use the multi-storey car parks in the city centre for easy access."
+              }
+            },
+            {
+              "name": "Mowbray Park",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto im Regen reicht heute aus.",
+                "hu": "Ma elég egy rövid megálló egy esős fotó kedvéért.",
+                "ro": "O scurtă oprire pentru o fotografie în ploaie este suficientă astăzi.",
+                "en": "A brief stop for a quick rainy photo is enough for today."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der A1231.",
+              "Die Parkhäuser am Museum bieten Schutz beim Ein- und Aussteigen.",
+              "Halten Sie ein Handtuch im Auto bereit, um Sitze trocken zu halten.",
+              "Nutzen Sie die Park-and-Display-Plätze an der Küste.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt."
+            ],
+            "hu": [
+              "Ügyeljen a vízfelúszásra (aquaplaning) az A1231-es úton.",
+              "A múzeum melletti parkolóházak védenek a ki- és beszálláskor.",
+              "Tartson törölközőt az autóban az ülések szárazon tartásához.",
+              "Használja a tengerparti fizetős parkolókat.",
+              "Indulás előtt ellenőrizze az ablaktörlőket."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul A1231.",
+              "Parcările supraetajate de lângă muzeu oferă protecție la urcare și coborâre.",
+              "Păstrați un prosop în mașină pentru a menține scaunele uscate.",
+              "Folosiți locurile de parcare cu plată de pe coastă.",
+              "Verificați ștergătoarele de parbriz înainte de a pleca la drum."
+            ],
+            "en": [
+              "Watch out for standing water and aquaplaning on the A1231.",
+              "Multi-storey car parks near the museum keep you dry while getting in and out.",
+              "Keep a towel in the car to wipe down wet jackets and keep seats dry.",
+              "The seafront Pay & Display bays are ideal for quick coastal views.",
+              "Ensure your wipers and demisters are in good working order."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Sunderlands Wahrzeichen im Winterlicht sind mit dem Auto bequem zu erreichen. Wir beginnen am Penshaw Monument, das oft imposant im winterlichen Nebel liegt. Über die Hylton Castle fahren wir zum warmen National Glass Centre. Den Sonnenuntergang erleben wir an den Stränden von Roker, bevor wir durch die festlich beleuchteten Straßen zum Museum und dem Mowbray Park zurückkehren, wo die Lichterketten funkeln.",
+            "hu": "Sunderland téli látnivalói autóval kényelmesen elérhetőek. A Penshaw Monumentnél kezdünk, mely gyakran impozáns a téli ködben. A Hylton Castle érintésével a meleg Üvegközpontba hajtunk. A naplementét a Roker tengerparton nézzük meg, majd az ünnepi fényekbe öltözött utcákon át térünk vissza a múzeumhoz és a Mowbray Parkhoz.",
+            "ro": "Reperele din Sunderland în lumina iernii sunt ușor accesibile cu mașina. Începem la Monumentul Penshaw, care pare impunător în ceața de iarnă. Mergem spre Castelul Hylton și apoi spre Centrul Sticlei. Admirăm apusul pe plajele Roker, apoi revenim prin străzile iluminate festiv spre muzeu și Parcul Mowbray.",
+            "en": "Explore Sunderland's winter highlights from the comfort of a heated car. Start at Penshaw Monument, which looks magnificent in the winter mist. Visit Hylton Castle before heading to the warmth of the National Glass Centre. Catch the early sunset at Roker Beach, then drive through festive city streets to finish at the Museum and Mowbray Park."
+          },
+          "stops": [
+            {
+              "name": "Penshaw Monument",
+              "tip_5lang": {
+                "de": "Bei Glätte ist die Zufahrt zum Parkplatz manchmal schwierig.",
+                "hu": "Jeges időben a parkolóhoz vezető út néha nehézkes.",
+                "ro": "În caz de polei, accesul spre parcare poate fi dificil.",
+                "en": "The access road can be tricky if there is black ice on the hill."
+              }
+            },
+            {
+              "name": "Hylton Castle",
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der Ruinen im tiefstehenden Winterlicht.",
+                "hu": "Élvezze a romok látványát az alacsonyan járó téli napfényben.",
+                "ro": "Admirați ruinele în lumina joasă a soarelui de iarnă.",
+                "en": "The low winter sun creates long, dramatic shadows across the ruins."
+              }
+            },
+            {
+              "name": "National Glass Centre",
+              "tip_5lang": {
+                "de": "Ein beheizter Zufluchtsort mit tollen Geschenkideen im Shop.",
+                "hu": "Fűtött menedék, a boltban remek ajándékötletekkel.",
+                "ro": "Un refugiu încălzit, cu idei grozave de cadouri în magazin.",
+                "en": "A warm sanctuary with unique glass gifts in the shop."
+              }
+            },
+            {
+              "name": "St Peter's Church",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um der Kälte zu entgehen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje a hideget.",
+                "ro": "Parcați aproape de intrare pentru a evita frigul.",
+                "en": "Park as close as possible to minimize time in the biting wind."
+              }
+            },
+            {
+              "name": "Roker and Seaburn Beaches",
+              "tip_5lang": {
+                "de": "Schauen Sie sich die Winterwellen aus der Wärme des Autos an.",
+                "hu": "Nézze a téli hullámokat az autó melegéből.",
+                "ro": "Observați valurile de iarnă din căldura mașinii.",
+                "en": "Watch the powerful winter surf from the comfort of your heated seats."
+              }
+            },
+            {
+              "name": "Sunderland Museum & Winter Gardens",
+              "tip_5lang": {
+                "de": "Parkhäuser sind im Winter oft wärmer als offene Parkplätze.",
+                "hu": "A parkolóházak télen gyakran melegebbek a nyílt parkolóknál.",
+                "ro": "Parcările supraetajate sunt adesea mai calde iarna.",
+                "en": "Multi-storey car parks protect your vehicle from frost while you explore."
+              }
+            },
+            {
+              "name": "Mowbray Park",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park am späten Nachmittag für die Weihnachtsbeleuchtung.",
+                "hu": "Látogasson el a parkba késő délután a karácsonyi fények miatt.",
+                "ro": "Vizitați parcul după-amiaza târziu pentru luminile de Crăciun.",
+                "en": "Visit in the late afternoon to see the park's winter light displays."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Die Brücken über den Wear können schneller gefrieren als normale Straßen.",
+              "Nutzen Sie die Sitzheizung für maximale Gemütlichkeit.",
+              "Parken Sie am Glass Centre im unteren Bereich, um Wind zu vermeiden.",
+              "Haben Sie einen Eiskratzer griffbereit."
+            ],
+            "hu": [
+              "Töltsön fagyállót a szélvédőmosóba.",
+              "A Wear-folyó hídjai gyorsabban lefagyhatnak, mint a normál utak.",
+              "Használja az ülésfűtést a maximális kényelemért.",
+              "Parkoljon az Üvegközpont alsó részén a szél elkerülése érdekében.",
+              "Legyen kéznél jégkaparó."
+            ],
+            "ro": [
+              "Puneți lichid de parbriz antigel.",
+              "Podurile peste râul Wear pot îngheța mai repede decât șoselele obișnuite.",
+              "Folosiți încălzirea în scaune pentru confort maxim.",
+              "Parcați la Centrul Sticlei în zona inferioară pentru a evita vântul.",
+              "Aveți la îndemână o racletă pentru gheață."
+            ],
+            "en": [
+              "Ensure your screenwash is rated for sub-zero temperatures.",
+              "Bridges over the River Wear freeze faster than standard roads; be careful.",
+              "Utilize heated seats and steering wheel for maximum comfort.",
+              "Park in sheltered areas at the Glass Centre to avoid the sea breeze.",
+              "Keep an ice scraper and de-icer spray easily accessible."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1442,6 +2030,196 @@
           "Have some change ready for bus fares, although most are contactless.",
           "The Metro can be a quicker option than the bus between the centre and St. Peter's."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Metro lässt sich Sunderland auch bei Regen trocken erkunden. Wir starten im Museum & Winter Gardens, direkt neben der Station. Mittags führt die Fahrt zum Empire Theatre und nach Monkwearmouth zur St Peter's Church. Das National Glass Centre erreichen wir bequem per Bus. Der Tag endet an der Küste von Roker, wo wir in einem gemütlichen Strandcafé den Regen beobachten, bevor der Bus uns zurückbringt.",
+            "hu": "Busszal és metróval Sunderland esőben is szárazon felfedezhető. A múzeumban és a Winter Gardensben kezdünk, közvetlenül az állomás mellett. Délben az Empire Theatre és Monkwearmouth következik. Az Üvegközpontot kényelmesen, busszal érjük el. A napot a Roker tengerparton zárjuk, egy hangulatos kávézóban figyelve az esőt, mielőtt visszabuszoznánk.",
+            "ro": "Cu autobuzul și metroul, Sunderland poate fi explorat fără a vă uda. Începem la Muzeu și Grădinile de Iarnă, chiar lângă stație. La prânz, mergem la Empire Theatre și în Monkwearmouth. Centrul Sticlei este ușor accesibil cu autobuzul. Seara se încheie pe faleza Roker, observând ploaia dintr-o cafenea primitoare, înainte de a lua autobuzul înapoi.",
+            "en": "Buses and the Metro make Sunderland accessible even when the heavens open. Start at the Museum & Winter Gardens, located seconds from the station. Midday takes you to the Empire Theatre and over to Monkwearmouth for St Peter's Church. Reach the Glass Centre via a short bus ride. Finish at Roker Beach, watching the rain from a cozy cafe before catching the bus back."
+          },
+          "stops": [
+            {
+              "name": "Sunderland Museum & Winter Gardens",
+              "tip_5lang": {
+                "de": "Direkt neben der Metro-Station Sunderland gelegen.",
+                "hu": "Közvetlenül a Sunderland metróállomás mellett található.",
+                "ro": "Situat chiar lângă stația de metrou Sunderland.",
+                "en": "Perfectly located just steps away from Sunderland Metro station."
+              }
+            },
+            {
+              "name": "Mowbray Park",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den Wartehallen der nahen Busstation.",
+                "hu": "Keressen menedéket a közeli buszmegálló váróiban.",
+                "ro": "Căutați adăpost în refugiile stației de autobuz din apropiere.",
+                "en": "Use the nearby bus station shelters for cover during sudden showers."
+              }
+            },
+            {
+              "name": "Sunderland Empire Theatre",
+              "tip_5lang": {
+                "de": "Zahlreiche Buslinien halten direkt vor der Tür.",
+                "hu": "Számos buszjárat megáll közvetlenül az ajtó előtt.",
+                "ro": "Numeroase linii de autobuz opresc chiar în fața teatrului.",
+                "en": "Multiple bus routes stop right outside the theatre entrance."
+              }
+            },
+            {
+              "name": "St Peter's Church",
+              "tip_5lang": {
+                "de": "Die Metro-Station St Peter's ist nur einen kurzen, nassen Gang entfernt.",
+                "hu": "A St Peter's metróállomás csak egy rövid, esős sétára van.",
+                "ro": "Stația de metrou St Peter's este la o scurtă plimbare prin ploaie.",
+                "en": "St Peter's Metro station is a short walk away; have your umbrella ready."
+              }
+            },
+            {
+              "name": "National Glass Centre",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt am Eingang.",
+                "hu": "A busz szinte közvetlenül a bejáratnál áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața intrării.",
+                "en": "The bus stops very close to the entrance, minimizing rain exposure."
+              }
+            },
+            {
+              "name": "Roker and Seaburn Beaches",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bushaltestellen an der Promenade.",
+                "hu": "Használja a sétány fedett buszmegállóit.",
+                "ro": "Folosiți stațiile de autobuz acoperite de pe faleză.",
+                "en": "Sheltered bus stops along the seafront provide good cover while waiting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Pop card' für einfacheres Bezahlen im Bus.",
+              "Die Metro-Stationen sind weitgehend überdacht.",
+              "In der Sunderland Interchange gibt es beheizte Wartebereiche.",
+              "Laden Sie die Transit-App für Echtzeit-Infos bei Regen-Verspätungen.",
+              "Buseinstieg an der Vorderseite hält Sie länger im Trockenen."
+            ],
+            "hu": [
+              "Használja a 'Pop card'-ot a buszos fizetés megkönnyítésére.",
+              "A metróállomások nagyrészt fedettek.",
+              "A Sunderland Interchange-nél fűtött várótermek vannak.",
+              "Töltse le a tranzit appot az eső miatti késések nyomon követésére.",
+              "A busz első ajtajánál szálljon fel, hogy tovább maradjon szárazon."
+            ],
+            "ro": [
+              "Folosiți un card 'Pop' pentru a plăti mai ușor în autobuz.",
+              "Stațiile de metrou sunt în mare parte acoperite.",
+              "La Sunderland Interchange există zone de așteptare încălzite.",
+              "Descărcați aplicația de tranzit pentru info în timp real despre întârzieri.",
+              "Urcarea prin fața autobuzului vă ajută să rămâneți uscat mai mult timp."
+            ],
+            "en": [
+              "Use a Pop card or contactless payment to speed up boarding in the rain.",
+              "Metro stations provide excellent overhead cover from the elements.",
+              "Sunderland Interchange offers warm, dry waiting areas between connections.",
+              "Check real-time bus apps to minimize time spent standing in the rain.",
+              "Wait inside shops or cafes near bus stops until your bus is due."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der öffentliche Nahverkehr ist im Winter der wärmste Weg durch Sunderland. Wir beginnen im tropisch warmen Museum & Winter Gardens. Mit der Metro geht es nach Monkwearmouth zur St Peter's Church und zum National Glass Centre. Den winterlichen Sonnenuntergang genießen wir am Roker Beach, bevor uns der beheizte Bus zurück in die festlich beleuchtete Innenstadt bringt, wo wir den Tag ausklingen lassen.",
+            "hu": "A tömegközlekedés télen a legmelegebb módja Sunderland bejárásának. A trópusi melegségű múzeumban és a Winter Gardensben kezdünk. Metróval Monkwearmouthba, a Szent Péter-templomhoz és az Üvegközponthoz utazunk. A téli naplementét a Roker tengerparton élvezzük, majd fűtött busszal térünk vissza az ünnepi fényben úszó belvárosba.",
+            "ro": "Transportul public este cea mai călduroasă cale de a vizita Sunderland iarna. Începem la Muzeu și Grădinile de Iarnă. Cu metroul mergem în Monkwearmouth la Biserica Sf. Petru și Centrul Sticlei. Admirăm apusul de iarnă pe plaja Roker, apoi autobuzul încălzit ne duce înapoi în centrul luminat festiv.",
+            "en": "Public transport is the warmest way to navigate Sunderland in winter. Start in the tropical warmth of the Museum & Winter Gardens. Take the Metro to Monkwearmouth for St Peter's Church and the Glass Centre. Catch the winter sunset at Roker Beach before a heated bus ride returns you to the sparkling festive city centre."
+          },
+          "stops": [
+            {
+              "name": "Sunderland Museum & Winter Gardens",
+              "tip_5lang": {
+                "de": "Ein herrlich warmer Start in den Tag.",
+                "hu": "Csodálatosan meleg kezdés a naphoz.",
+                "ro": "Un început de zi minunat de călduros.",
+                "en": "A wonderfully warm start to your winter day out."
+              }
+            },
+            {
+              "name": "Mowbray Park",
+              "tip_5lang": {
+                "de": "Vom warmen Bus aus die Winterlandschaft bewundern.",
+                "hu": "A meleg buszból csodálja a téli tájat.",
+                "ro": "Admirați peisajul de iarnă din autobuzul călduros.",
+                "en": "Admire the winter landscape from the warmth of the bus window."
+              }
+            },
+            {
+              "name": "Sunderland Empire Theatre",
+              "tip_5lang": {
+                "de": "Direkt an der Busroute gelegen, keine langen Wege in der Kälte.",
+                "hu": "Közvetlenül a buszjárat mentén, nincs hosszú gyaloglás a hidegben.",
+                "ro": "Situat chiar pe ruta autobuzului, fără mers lung prin frig.",
+                "en": "Located directly on the bus route, saving you a long walk in the cold."
+              }
+            },
+            {
+              "name": "St Peter's Church",
+              "tip_5lang": {
+                "de": "Die Metro-Station bietet Windschutz beim Warten.",
+                "hu": "A metróállomás szélvédett helyet kínál várakozás közben.",
+                "ro": "Stația de metrou oferă protecție împotriva vântului în timp ce așteptați.",
+                "en": "The Metro station platform offers good wind protection while waiting."
+              }
+            },
+            {
+              "name": "National Glass Centre",
+              "tip_5lang": {
+                "de": "Busfrequenz prüfen, um Wartezeiten im Freien zu minimieren.",
+                "hu": "Ellenőrizze a buszmenetrendet a várakozási idő minimalizálására.",
+                "ro": "Verificați frecvența autobuzelor pentru a minimiza așteptarea afară.",
+                "en": "Check bus frequencies to minimize standing outside in the winter air."
+              }
+            },
+            {
+              "name": "Roker and Seaburn Beaches",
+              "tip_5lang": {
+                "de": "Busse fahren regelmäßig zurück in die warme Innenstadt.",
+                "hu": "A buszok rendszeresen járnak vissza a meleg belvárosba.",
+                "ro": "Autobuzele circulă regulat înapoi spre centrul cald al orașului.",
+                "en": "Buses run frequently back to the warmth of the city centre."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Metro-Züge sind gut beheizt.",
+              "Nutzen Sie die überdachten Stationen wie Park Lane.",
+              "Abends sind die Busse oft weniger überfüllt.",
+              "Tragen Sie trotzdem Schichten für die Wege zwischen den Haltestellen.",
+              "Die 'Nexus' App zeigt Live-Abfahrtszeiten."
+            ],
+            "hu": [
+              "A metrószerelvények jól fűtöttek.",
+              "Használja a fedett állomásokat, mint például a Park Lane.",
+              "Este a buszok gyakran kevésbé zsúfoltak.",
+              "A megállók közötti gyalogláshoz viseljen réteges ruházatot.",
+              "A 'Nexus' alkalmazás élő indulási időket mutat."
+            ],
+            "ro": [
+              "Trenurile de metrou sunt bine încălzite.",
+              "Folosiți stațiile acoperite, cum ar fi Park Lane.",
+              "Seara, autobuzele sunt adesea mai puțin aglomerate.",
+              "Purtați haine în straturi pentru segmentele de mers pe jos.",
+              "Aplicația 'Nexus' arată timpii de plecare în timp real."
+            ],
+            "en": [
+              "Metro trains are consistently well-heated throughout the winter.",
+              "Utilize indoor interchanges like Park Lane for sheltered connections.",
+              "Evening buses are often less crowded and very warm.",
+              "Dress in layers for the short walks between stops and venues.",
+              "Download the Nexus app for live bus and Metro departure times."
+            ]
+          }
+        }
       }
     }
   }

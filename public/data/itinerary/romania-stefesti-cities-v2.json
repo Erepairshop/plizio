@@ -362,6 +362,188 @@
           "Locals are friendly, a 'Bună ziua' (Good day) is appreciated.",
           "Check the weather forecast; paths can be slippery after rain."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Ștefești beginnt im Schutz der Bäume des Zentralparks. Mittags bietet die St.-Nikolaus-Kirche eine trockene und besinnliche Zuflucht vor dem Guss. Am Nachmittag zeigt sich der Fluss Vărbilău von seiner wilden, wasserreichen Seite. Der Abend am Aussichtspunkt bietet trotz Wolken eine mystische, neblige Atmosphäre über dem Tal.",
+            "hu": "Az esős reggel Ștefești központi parkjának lombjai alatt indul. Délben a Szent Miklós-templom nyújt meghitt és száraz menedéket a zápor elől. Délután a Vărbilău-folyó megáradt, látványos sodrása uralja a tájat. Az este a kilátónál zárul, ahol a felhők közül felbukkanó pára misztikus hangulatot áraszt a völgy felett.",
+            "ro": "O dimineață ploioasă în Ștefești începe sub protecția copacilor din Parcul Central. La prânz, Biserica Sf. Nicolae oferă un refugiu uscat și liniștit împotriva ploii. După-amiaza, râul Vărbilău își arată latura sălbatică și bogată în ape. Seara la punctul de belvedere oferă o atmosferă mistică, cu ceață ridicându-se peste vale.",
+            "en": "A rainy morning in Ștefești begins sheltered by the trees of the Central Park. At noon, St. Nicholas Church provides a dry and peaceful sanctuary from the downpour. In the afternoon, the Vărbilău River shows its wild, rain-swollen side. The evening at the viewpoint offers a mystical, misty atmosphere rising over the valley."
+          },
+          "stops": [
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Pavillon als Regenschutz.",
+                "hu": "Használja a pavilont eső elleni védelemre.",
+                "ro": "Folosiți pavilionul pentru protecție împotriva ploii.",
+                "en": "Use the pavilion for protection from the rain."
+              }
+            },
+            {
+              "name": "Ștefești Heroes' Monument",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Regenschirm.",
+                "hu": "Gyors megálló esernyő alatt.",
+                "ro": "Oprire scurtă sub umbrelă.",
+                "en": "Short stop under the umbrella."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Ideal, um den stärksten Regen im Trockenen abzuwarten.",
+                "hu": "Ideális a nagyobb záporok átvészelésére.",
+                "ro": "Ideal pentru a aștepta trecerea ploii la adăpost.",
+                "en": "Ideal for waiting out heavy rain in the dry."
+              }
+            },
+            {
+              "name": "Traditional Peasant Houses",
+              "tip_5lang": {
+                "de": "Die tiefen Dachkanten bieten Schutz beim Betrachten.",
+                "hu": "A mély ereszek védelmet nyújtanak nézelődés közben.",
+                "ro": "Streșinile largi oferă protecție în timp ce admirați.",
+                "en": "Deep eaves provide shelter while viewing."
+              }
+            },
+            {
+              "name": "Vărbilău River",
+              "tip_5lang": {
+                "de": "Vorsicht, die Uferpfade können rutschig sein.",
+                "hu": "Vigyázat, a folyóparti ösvények csúszósak lehetnek.",
+                "ro": "Atenție, potecile de pe mal pot fi alunecoase.",
+                "en": "Caution, riverside paths can be slippery."
+              }
+            },
+            {
+              "name": "Ștefești Viewpoint",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk für den matschigen Aufstieg nötig.",
+                "hu": "Saras emelkedő, vízálló bakancs ajánlott.",
+                "ro": "Încălțăminte solidă necesară pentru urcarea noroioasă.",
+                "en": "Sturdy footwear needed for the muddy climb."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei den Windböen im Tal unerlässlich.",
+              "Die Wege zwischen den Häusern sind oft unbefestigt und werden matschig.",
+              "Suchen Sie bei Gewitter sofort Schutz in der Kirche.",
+              "Wasserdichte Wanderschuhe sind für den Flussbereich ein Muss."
+            ],
+            "hu": [
+              "A völgyi szélben egy stabil esernyő elengedhetetlen.",
+              "A házak közötti utak gyakran burkolatlanok és sárosodnak.",
+              "Vihar esetén keressen azonnal menedéket a templomban.",
+              "A folyóparti részen a vízálló bakancs kötelező."
+            ],
+            "ro": [
+              "O umbrelă stabilă este esențială din cauza vântului din vale.",
+              "Drumurile dintre case sunt adesea neasfaltate și devin noroioase.",
+              "În caz de furtună, căutați imediat adăpost în biserică.",
+              "Bocancii impermeabili sunt obligatorii pentru zona râului."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to wind gusts in the valley.",
+              "Paths between houses are often unpaved and become muddy.",
+              "In case of storms, seek shelter in the church immediately.",
+              "Waterproof hiking boots are a must for the river area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Ștefești hüllt den Park in eine weiße Stille. Zur Mittagszeit wärmt die historische St.-Nikolaus-Kirche die Seele, während draußen der Frost klirrt. Nachmittags glitzert der vereiste Vărbilău-Fluss im fahlen Sonnenlicht. Der Tag endet früh mit einem spektakulären, klaren Sternenhimmel am Aussichtspunkt über dem verschneiten Dorf.",
+            "hu": "A téli reggel Ștefești parkját fehér csendbe burkolja. Délidőben a történelmi Szent Miklós-templom melengeti a lelket, miközben kint zúzmara fedi a fákat. Délután az eljegesedett Vărbilău-folyó csillog a bágyadt napsütésben. A nap korán ér véget a kilátónál, ahonnan tiszta, csillagos égbolt látszik a havas falu felett.",
+            "ro": "Dimineața de iarnă în Ștefești învăluie parcul într-o liniște albă. La prânz, istorica Biserică Sf. Nicolae încălzește sufletul în timp ce afară gerul crapă pietrele. După-amiaza, râul înghețat Vărbilău strălucește în lumina palidă a soarelui. Ziua se încheie devreme cu un cer înstelat spectaculos la punctul de belvedere peste satul înzăpezit.",
+            "en": "The winter morning in Ștefești wraps the park in white silence. At noon, the historical St. Nicholas Church warms the soul while frost sparkles outside. In the afternoon, the frozen Vărbilău River glitters in the pale sunlight. The day ends early with a spectacular clear starry sky at the viewpoint over the snow-covered village."
+          },
+          "stops": [
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf den Gehwegen.",
+                "hu": "Vigyázzon a járdák jeges foltjaira.",
+                "ro": "Atenție la porțiunile cu gheață de pe trotuare.",
+                "en": "Watch out for icy patches on the sidewalks."
+              }
+            },
+            {
+              "name": "Ștefești Heroes' Monument",
+              "tip_5lang": {
+                "de": "Kurzes Innehalten im kalten Wind.",
+                "hu": "Rövid tiszteletadás a hideg szélben.",
+                "ro": "O scurtă oprire în vântul rece.",
+                "en": "Short pause in the cold wind."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenbesichtigung zum Aufwärmen.",
+                "hu": "Használja ki a belső látogatást a bemelegedésre.",
+                "ro": "Folosiți vizita în interior pentru a vă încălzi.",
+                "en": "Use the interior visit to warm up."
+              }
+            },
+            {
+              "name": "Traditional Peasant Houses",
+              "tip_5lang": {
+                "de": "Wunderschöne Fotomotive der verschneiten Dächer.",
+                "hu": "Gyönyörű fotótéma a havas tetők látványa.",
+                "ro": "Subiecte foto superbe cu acoperișurile înzăpezite.",
+                "en": "Beautiful photo opportunities of the snow-covered roofs."
+              }
+            },
+            {
+              "name": "V|rbilău River",
+              "tip_5lang": {
+                "de": "Betreten Sie niemals die Eisflächen des Flusses.",
+                "hu": "Soha ne lépjen a folyó jégfelületére.",
+                "ro": "Nu călcați niciodată pe suprafața înghețată a râului.",
+                "en": "Never step onto the frozen surfaces of the river."
+              }
+            },
+            {
+              "name": "Ștefești Viewpoint",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter bereits gegen 16:30 Uhr.",
+                "hu": "Télen a naplemente már 16:30 körül bekövetkezik.",
+                "ro": "Apusul de soare are loc deja în jurul orei 16:30 iarna.",
+                "en": "Sunset occurs as early as 4:30 PM in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip für die kalten Höhenlagen.",
+              "Die Sonne geht früh hinter den Hügeln unter, planen Sie Licht ein.",
+              "Ein Thermosbehälter mit heißem Tee ist bei Wanderungen ratsam.",
+              "Schneeketten für den Aufstieg zum Viewpoint können nötig sein."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a hideg dombvidéki levegő miatt.",
+              "A nap korán lemegy a dombok mögött, tervezzen világítással.",
+              "Egy termosz forró teával sokat segít a túra során.",
+              "A kilátóhoz vezető úton szükség lehet csúszásgátlóra."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru aerul rece de munte.",
+              "Soarele apune devreme după dealuri, planificați surse de lumină.",
+              "Un termos cu ceai fierbinte este recomandat pentru drumeții.",
+              "S-ar putea să fie nevoie de antiderapante pentru urcarea la belvedere."
+            ],
+            "en": [
+              "Dress in layers for the cold upland air.",
+              "The sun sets early behind the hills; plan for light.",
+              "A thermos with hot tea is advisable for hikes.",
+              "Anti-slip spikes might be needed for the climb to the viewpoint."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +924,206 @@
           "The roads can be narrow, ride carefully.",
           "A small backpack for water, snacks, and a rain jacket is a good idea."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radtag startet erfrischend im feuchten Dorfzentrum. Mittags radeln Sie am Vărbilău-Fluss entlang, dessen Rauschen den Regen übertönt. Der Nachmittag im Vărbilău-Tal ist geprägt von tief hängenden Wolken und dramatischer Natur. Die Rückkehr vorbei an den Bauernhäusern bietet trotz Nässe einen authentischen Einblick in das ländliche Rumänien.",
+            "hu": "A kerékpáros nap frissítően indul a párás faluközpontban. Délben a Vărbilău-folyó mentén tekerhet, melynek zúgása túlharsogja az esőt. A délután a Vărbilău-völgyben zajlik, alacsonyan szálló felhők és drámai tájak között. A visszaút a parasztházak mellett hiteles betekintést nyújt a vidéki Romániába, még ázottan is.",
+            "ro": "Ziua cu bicicleta începe revigorant în centrul umed al satului. La prânz pedalați de-a lungul râului Vărbilău, al cărui susur acoperă ploaia. După-amiaza în Valea Vărbilău este marcată de nori joși și natură dramatică. Întoarcerea pe lângă casele țărănești oferă o perspectivă autentică asupra României rurale, în ciuda umezelii.",
+            "en": "The cycling day starts refreshingly in the damp village center. At noon, pedal along the Vărbilău River, whose rushing sound drowns out the rain. The afternoon in the Vărbilău Valley is defined by low-hanging clouds and dramatic nature. Returning past the peasant houses offers an authentic glimpse into rural Romania, even in the wet."
+          },
+          "stops": [
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Unterstand am Parkeingang für kurze Pausen nutzen.",
+                "hu": "Használja a park bejáratánál lévő beállót pihenőre.",
+                "ro": "Folosiți adăpostul de la intrarea în parc pentru pauze.",
+                "en": "Use the shelter at the park entrance for short breaks."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Rutschfeste Schuhe für den Kirchenvorplatz nötig.",
+                "hu": "Csúszásmentes cipő kell a templom előteréhez.",
+                "ro": "Încălțăminte antiderapantă necesară pentru curtea bisericii.",
+                "en": "Non-slip shoes needed for the church courtyard."
+              }
+            },
+            {
+              "name": "Vărbilău River",
+              "tip_5lang": {
+                "de": "Vorsicht vor Aquaplaning auf den ufernahen Wegen.",
+                "hu": "Vigyázzon a felvizesedett utakra a folyóparton.",
+                "ro": "Atenție la acvaplanare pe drumurile de lângă râu.",
+                "en": "Watch out for aquaplaning on the riverside paths."
+              }
+            },
+            {
+              "name": "Vărbilău Valley",
+              "tip_5lang": {
+                "de": "Der Wald schirmt leichten Regen teilweise ab.",
+                "hu": "Az erdő részben felfogja a gyengébb esőt.",
+                "ro": "Pădurea oferă o protecție parțială împotriva ploii ușoare.",
+                "en": "The forest partially shields you from light rain."
+              }
+            },
+            {
+              "name": "Ștefești Viewpoint",
+              "tip_5lang": {
+                "de": "Extrem vorsichtig abfahren bei nasser Fahrbahn.",
+                "hu": "Rendkívül óvatosan ereszkedjen a vizes úton.",
+                "ro": "Coborâți cu extremă prudență pe carosabilul umed.",
+                "en": "Descend with extreme caution on wet roads."
+              }
+            },
+            {
+              "name": "Ștefești Beech Forest",
+              "tip_5lang": {
+                "de": "Der Boden ist hier sehr weich und schlammig.",
+                "hu": "A talaj itt nagyon puha és sáros lehet.",
+                "ro": "Solul este foarte moale și noroios aici.",
+                "en": "The ground here is very soft and muddy."
+              }
+            },
+            {
+              "name": "Traditional Peasant Houses",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfes Bremsen auf Kopfsteinpflaster.",
+                "hu": "Kerülje az erős fékezést a macskaköves részeken.",
+                "ro": "Evitați frânarea bruscă pe porțiunile cu piatră cubică.",
+                "en": "Avoid sharp braking on cobblestone sections."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie helle Kleidung oder Reflektoren bei schlechter Sicht.",
+              "Schutzbleche am Rad verhindern das Schlimmste vom aufgewirbelten Matsch.",
+              "Die Bremswirkung ist bei Felgenbremsen im Regen verzögert.",
+              "Meiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können."
+            ],
+            "hu": [
+              "Viseljen világos ruhát vagy fényvisszaverőt rossz látási viszonyoknál.",
+              "A sárvédő megvédi a ruházatát a felverődő sártól.",
+              "A felnifékek hatásfoka esőben jelentősen romlik.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek."
+            ],
+            "ro": [
+              "Purtați haine deschise sau reflectorizante în condiții de vizibilitate redusă.",
+              "Apărătorile la bicicletă previn stropirea cu noroi.",
+              "Eficiența frânării pe jantă este redusă în condiții de ploaie.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci."
+            ],
+            "en": [
+              "Wear bright clothing or reflectors in poor visibility.",
+              "Mudguards on your bike will prevent the worst of the mud spray.",
+              "Braking distance is increased with rim brakes in the rain.",
+              "Avoid puddles, as they can hide deep potholes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch Ștefești erfordert Mut und Belohnung. Der Morgen führt durch die glitzernde Dorfidylle. Mittags am zugefrorenen Fluss ist die Luft kristallklar. Die Fahrt durch das Vărbilău-Tal bietet atemberaubende Ausblicke auf schneebedeckte Gipfel. Der Nachmittag im Buchenwald ist eine Reise durch ein Wintermärchen, bevor Sie sich im Dorfzentrum wieder aufwärmen.",
+            "hu": "A téli biciklitúra Ștefești környékén bátorságot és jutalmat ígér. A reggel a csillogó falusi idillen vezet keresztül. Délben a befagyott folyónál a levegő kristálytiszta. A Vărbilău-völgyben tett út lélegzetelállító kilátást nyújt a havas csúcsokra. A délután a bükkösben egy téli tündérmese, mielőtt a központban újra felmelegedne.",
+            "ro": "O tură cu bicicleta iarna prin Ștefești necesită curaj și oferă recompense pe măsură. Dimineața trece prin idila sclipitoare a satului. La prânz, lângă râul înghețat, aerul este de cristal. Drumul prin Valea Vărbilău oferă priveliști uimitoare spre vârfurile înzăpezite. După-amiaza în pădurea de fagi este o călătorie într-un basm de iarnă.",
+            "en": "A winter bike tour through Ștefești requires courage and offers great rewards. The morning leads through the glittering village idyll. At noon by the frozen river, the air is crystal clear. The ride through the Vărbilău Valley offers breathtaking views of snow-capped peaks. The afternoon in the beech forest is a journey through a winter fairy tale."
+          },
+          "stops": [
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Achtung beim Anfahren auf vereisten Wegen.",
+                "hu": "Vigyázat az induláskor a jeges utakon.",
+                "ro": "Atenție la plecarea de pe loc pe drumurile înghețate.",
+                "en": "Careful when starting off on icy paths."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Rad sicher abstellen, Gefahr durch herabfallenden Schnee.",
+                "hu": "Biztonságos helyen parkoljon, tetőről lehulló hó veszélye.",
+                "ro": "Parcați bicicleta sigur, pericol de zăpadă căzută de pe acoperiș.",
+                "en": "Park bike safely, danger from falling snow from roofs."
+              }
+            },
+            {
+              "name": "Vărbilău River",
+              "tip_5lang": {
+                "de": "Kalte Brise am Ufer, warme Handschuhe wichtig.",
+                "hu": "Hideg szél a parton, meleg kesztyű fontos.",
+                "ro": "Briză rece pe mal, mănușile groase sunt importante.",
+                "en": "Cold breeze at the riverbank, warm gloves are vital."
+              }
+            },
+            {
+              "name": "Vărbilău Valley",
+              "tip_5lang": {
+                "de": "Anstiege halten den Körper warm.",
+                "hu": "Az emelkedők melegen tartják a testet.",
+                "ro": "Urcările mențin corpul cald.",
+                "en": "Uphill climbs will keep your body warm."
+              }
+            },
+            {
+              "name": "Ștefești Viewpoint",
+              "tip_5lang": {
+                "de": "Kaltes Metall am Rad nicht mit bloßen Händen berühren.",
+                "hu": "Ne érjen puszta kézzel a hideg fémrészekhez.",
+                "ro": "Nu atingeți metalul rece al bicicletei cu mâinile goale.",
+                "en": "Do not touch cold metal on the bike with bare hands."
+              }
+            },
+            {
+              "name": "Ștefești Beech Forest",
+              "tip_5lang": {
+                "de": "Tiefschnee kann das Fahren unmöglich machen.",
+                "hu": "A mély hó lehetetlenné teheti a haladást.",
+                "ro": "Zăpada adâncă poate face pedalarea imposibilă.",
+                "en": "Deep snow can make cycling impossible."
+              }
+            },
+            {
+              "name": "Traditional Peasant Houses",
+              "tip_5lang": {
+                "de": "Frühe Dämmerung erfordert funktionierendes Licht.",
+                "hu": "A korai szürkület miatt működő lámpa szükséges.",
+                "ro": "Amurgul timpuriu necesită lumini funcționale.",
+                "en": "Early twilight requires working lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Reduzieren Sie den Reifendruck leicht für mehr Grip auf Schnee.",
+              "Akku von E-Bikes bei Kälte deutlich schneller leer.",
+              "Thermo-Überschuhe schützen vor dem kalten Fahrtwind.",
+              "Vermeiden Sie hektische Lenkbewegungen auf glattem Untergrund."
+            ],
+            "hu": [
+              "Csökkentse kissé a guminyomást a jobb tapadásért a havon.",
+              "Az e-bike akkumulátora hidegben sokkal gyorsabban merül.",
+              "A termo-kamásli véd a hideg menetszéltől.",
+              "Kerülje a hirtelen kormánymozdulatokat csúszós úton."
+            ],
+            "ro": [
+              "Reduceți ușor presiunea în anvelope pentru aderență pe zăpadă.",
+              "Bateria bicicletelor electrice se descarcă mult mai repede la ger.",
+              "Protecțiile termo pentru încălțăminte apără de vântul rece.",
+              "Evitați manevrele bruște pe suprafețe alunecoase."
+            ],
+            "en": [
+              "Reduce tire pressure slightly for better grip on snow.",
+              "E-bike batteries drain significantly faster in the cold.",
+              "Thermal overshoes protect against the cold wind blast.",
+              "Avoid sudden steering movements on slippery surfaces."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1146,6 +1528,224 @@
           "A car gives you the flexibility to explore more remote spots.",
           "Have some cash on hand for small purchases or parking fees."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour durch das verregnete Ștefești bietet maximalen Komfort. Vom warmen Fahrzeug aus erkunden Sie die Denkmäler und Kirchen des Zentrums. Die Fahrt in die Berge zum Aussichtspunkt offenbart dramatische Wolkenformationen über den Karpaten-Ausläufern. Mittags und nachmittags genießen Sie die raue Natur des Vărbilău-Tals, während die Scheibenwischer den Takt angeben.",
+            "hu": "Az autós túra az esős Ștefești környékén maximális kényelmet nyújt. A meleg járműből fedezheti fel a központ emlékműveit és templomait. A hegyi út a kilátóhoz drámai felhőalakzatokat tár fel a Kárpátok lábainál. Délben és délután a Vărbilău-völgy vad természetét élvezheti, miközben az ablaktörlők adják az ütemet.",
+            "ro": "Turul cu mașina prin Ștefești-ul ploios oferă confort maxim. Din vehiculul cald explorați monumentele și bisericile din centru. Drumul spre munte, către punctul de belvedere, dezvăluie formațiuni dramatice de nori peste picioarele Carpaților. La prânz și după-amiaza vă bucurați de natura crudă a văii Vărbilău.",
+            "en": "The car tour through rainy Ștefești offers maximum comfort. From the warm vehicle, you explore the monuments and churches of the center. The drive into the hills to the viewpoint reveals dramatic cloud formations over the Carpathian foothills. At noon and in the afternoon, enjoy the raw nature of the Vărbilău Valley while the wipers set the beat."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Ștefești Village Center",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Monument für kurze Wege.",
+                "hu": "Parkoljon közel az emlékműhöz a rövid séta érdekében.",
+                "ro": "Parcați aproape de monument pentru distanțe scurte.",
+                "en": "Park close to the monument for short walking distances."
+              }
+            },
+            {
+              "name": "Ștefești Heroes' Monument",
+              "tip_5lang": {
+                "de": "Vom Auto aus gut sichtbar.",
+                "hu": "Az autóból is jól látható.",
+                "ro": "Bine vizibil din mașină.",
+                "en": "Clearly visible from the car."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Kirchenparkplatz ist oft bei Regen matschig.",
+                "hu": "A templom parkolója esőben gyakran sáros.",
+                "ro": "Parcarea bisericii este adesea noroioasă la ploaie.",
+                "en": "The church parking lot is often muddy during rain."
+              }
+            },
+            {
+              "name": "Cluster B: Hills and Forests",
+              "tip_5lang": {
+                "de": "Fahrt auf Asphalt bleiben, Waldwege meiden.",
+                "hu": "Maradjon az aszfalton, kerülje az erdei utakat.",
+                "ro": "Rămâneți pe asfalt, evitați drumurile forestiere.",
+                "en": "Stay on asphalt; avoid forest tracks."
+              }
+            },
+            {
+              "name": "Ștefești Viewpoint",
+              "tip_5lang": {
+                "de": "Scheibenheizung nutzen gegen Beschlagen.",
+                "hu": "Használja a szélvédőfűtést a párásodás ellen.",
+                "ro": "Folosiți degivrarea pentru a preveni aburirea.",
+                "en": "Use the defroster to prevent fogging."
+              }
+            },
+            {
+              "name": "Ștefești Beech Forest",
+              "tip_5lang": {
+                "de": "Stopp am Straßenrand nur auf festem Untergrund.",
+                "hu": "Csak szilárd talajon álljon meg az út szélén.",
+                "ro": "Opriți pe marginea drumului doar pe teren solid.",
+                "en": "Stop on the roadside only on solid ground."
+              }
+            },
+            {
+              "name": "Cluster C: The Vărbilău Valley",
+              "tip_5lang": {
+                "de": "Vorsicht vor Steinschlag an den Hängen bei Starkregen.",
+                "hu": "Erős esőben figyeljen a kőomlás veszélyére a lejtőkön.",
+                "ro": "Atenție la căderile de pietre pe versanți în caz de ploaie torențială.",
+                "en": "Watch out for rockfalls on the slopes during heavy rain."
+              }
+            },
+            {
+              "name": "Vărbilău Riverbank",
+              "tip_5lang": {
+                "de": "Wenden auf engen, nassen Straßen schwierig.",
+                "hu": "A megfordulás a szűk, vizes utakon nehézkes lehet.",
+                "ro": "Întoarcerea pe drumurile înguste și ude este dificilă.",
+                "en": "Turning around on narrow, wet roads can be difficult."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass die Wischerblätter in gutem Zustand sind.",
+              "Licht auch tagsüber einschalten für bessere Sichtbarkeit.",
+              "Einige Nebenstraßen im Tal können bei Regen leicht überflutet sein.",
+              "Halten Sie Abstand zu unbefestigten Banketten."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlő lapátok állapotát indulás előtt.",
+              "Nappal is kapcsolja be a világítást a jobb láthatóságért.",
+              "A völgy mellékútjait néhol elöntheti a víz heves esőben.",
+              "Tartson távolságot a puha útpadkától."
+            ],
+            "ro": [
+              "Verificați starea lamelor ștergătoarelor înainte de drum.",
+              "Aprindeți farurile și ziua pentru o vizibilitate mai bună.",
+              "Unele drumuri secundare din vale pot fi ușor inundate la ploaie.",
+              "Păstrați distanța față de acostamentele neasfaltate."
+            ],
+            "en": [
+              "Ensure wiper blades are in good condition before the trip.",
+              "Turn on headlights even during the day for better visibility.",
+              "Some side roads in the valley may be slightly flooded during heavy rain.",
+              "Keep a safe distance from unpaved road edges."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das winterliche Ștefești gleicht einer Postkarte, die Sie bequem im Auto durchqueren. Der Morgen führt durch das tief verschneite Dorfzentrum. Die Auffahrt zu den Hügeln bietet ein Panorama aus weiß bepuderten Tannenwäldern. Mittags ist das Vărbilău-Tal ein Ort der Stille, an dem nur das Knirschen des Schnees unter den Reifen zu hören ist. Ein Tag voller magischer Wintermomente ohne zu frieren.",
+            "hu": "A téli Ștefești olyan, mint egy képeslap, amit kényelmesen, autóból csodálhat meg. A reggel a mélyen havas faluközponton vezet át. A dombokra vezető út fehérrel porcukrozott fenyvesek panorámáját nyújtja. Délben a Vărbilău-völgy a csend helyszíne, ahol csak a gumi alatt roppanó hó hallatszik. Mágikus téli pillanatok, fázás nélkül.",
+            "ro": "Ștefești-ul de iarnă seamănă cu o carte poștală pe care o parcurgeți confortabil cu mașina. Dimineața trece prin centrul satului acoperit de zăpadă adâncă. Urcarea spre dealuri oferă o panoramă a pădurilor de brazi pudrate cu alb. La prânz, Valea Vărbilău este un loc al liniștii. O zi plină de momente magice de iarnă, fără a dârdi de frig.",
+            "en": "Wintery Ștefești is like a postcard that you traverse comfortably by car. The morning leads through the deep snow-covered village center. The drive up the hills offers a panorama of white-powdered fir forests. At noon, the Vărbilău Valley is a place of silence where only the crunch of snow under the tires is heard. A day full of magical winter moments without freezing."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Ștefești Village Center",
+              "tip_5lang": {
+                "de": "Fußgänger auf rutschigen Straßen beachten.",
+                "hu": "Figyeljen a gyalogosokra a csúszós utakon.",
+                "ro": "Atenție la pietoni pe drumurile alunecoase.",
+                "en": "Watch out for pedestrians on slippery roads."
+              }
+            },
+            {
+              "name": "Ștefești Heroes' Monument",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp mit laufender Heizung.",
+                "hu": "Rövid fotómegálló járó fűtés mellett.",
+                "ro": "Scurtă oprire foto cu căldura pornită.",
+                "en": "Short photo stop with the heater running."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Parkplatz könnte nicht geräumt sein, Vorsicht.",
+                "hu": "A parkoló lehet, hogy nincs letakarítva, óvatosan.",
+                "ro": "Parcarea s-ar putea să nu fie deszăpezită, atenție.",
+                "en": "Parking lot might not be cleared of snow; be careful."
+              }
+            },
+            {
+              "name": "Cluster B: Hills and Forests",
+              "tip_5lang": {
+                "de": "Winterreifen und Schneeketten hier zwingend.",
+                "hu": "Téli gumi és hólánc itt kötelező.",
+                "ro": "Anvelopele de iarnă și lanțurile sunt obligatorii aici.",
+                "en": "Winter tires and snow chains are mandatory here."
+              }
+            },
+            {
+              "name": "Ștefești Viewpoint",
+              "tip_5lang": {
+                "de": "Wundervoller Blick auf das verschneite Prahova-Tal.",
+                "hu": "Csodás kilátás a havas Prahova-völgyre.",
+                "ro": "Vedere minunată asupra văii Prahovei înzăpezite.",
+                "en": "Wonderful view of the snow-covered Prahova Valley."
+              }
+            },
+            {
+              "name": "Ștefești Beech Forest",
+              "tip_5lang": {
+                "de": "Bäume biegen sich oft unter der Schneelast.",
+                "hu": "A fák gyakran meghajlanak a hó súlya alatt.",
+                "ro": "Copacii se îndoaie adesea sub greutatea zăpezii.",
+                "en": "Trees often bend under the weight of the snow."
+              }
+            },
+            {
+              "name": "Cluster C: The Vărbilău Valley",
+              "tip_5lang": {
+                "de": "Eisglätte in schattigen Kurven möglich.",
+                "hu": "Jegesedés lehetséges az árnyékos kanyarokban.",
+                "ro": "Gheață posibilă în curbele umbroase.",
+                "en": "Icy patches possible in shaded curves."
+              }
+            },
+            {
+              "name": "Vărbilău Riverbank",
+              "tip_5lang": {
+                "de": "Uferböschung bei Schnee schwer erkennbar.",
+                "hu": "A folyópart széle hóban nehezen felismerhető.",
+                "ro": "Malul râului este greu de reperat sub zăpadă.",
+                "en": "The riverbank edge is hard to distinguish in snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz im Scheibenwischwasser.",
+              "Ein kleiner Klappspaten im Kofferraum kann nützlich sein.",
+              "Vermeiden Sie abruptes Bremsen auf verschneiten Gefällen.",
+              "Tanken Sie das Fahrzeug vor der Tour voll auf."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Egy kis gyalogsági ásó a csomagtartóban hasznos lehet.",
+              "Kerülje a hirtelen fékezést a havas lejtőkön.",
+              "A túra előtt tankolja tele a járművet."
+            ],
+            "ro": [
+              "Verificați antigelul din lichidul de parbriz.",
+              "O lopată mică în portbagaj poate fi utilă.",
+              "Evitați frânarea bruscă pe pantele înzăpezite.",
+              "Faceți plinul mașinii înainte de tur."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer fluid.",
+              "A small shovel in the trunk can be useful.",
+              "Avoid abrupt braking on snowy descents.",
+              "Fill up the fuel tank before starting the tour."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1502,6 +2102,188 @@
           "Be on time at the bus stops.",
           "Ask the bus driver or locals if you are unsure where to get off."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerisches Wetter in Ștefești erfordert kluge Planung mit dem lokalen Transit. Der Morgen konzentriert sich auf das Dorfzentrum mit kurzen Wegen zwischen den Haltestellen. Mittags bietet die St.-Nikolaus-Kirche einen kulturellen Höhepunkt im Trockenen. Nachmittags erkunden Sie den Rand des Vărbilău-Tals, wobei Sie die Pausen in überdachten Wartehäuschen verbringen und die Natur genießen.",
+            "hu": "Az esős idő Ștefești környékén okos tervezést igényel a helyi közlekedéssel. A reggel a faluközpontra fókuszál, rövid sétákkal a megállók között. Délben a Szent Miklós-templom nyújt kulturális élményt szárazon. Délután a Vărbilău-völgy szélét fedezheti fel, a szüneteket fedett várókban töltve, miközben a tájat szemléli.",
+            "ro": "Vremea ploioasă în Ștefești necesită o planificare inteligentă cu transportul local. Dimineața se concentrează pe centrul satului, cu distanțe scurte între stații. La prânz, Biserica Sf. Nicolae oferă un punct de interes cultural la adăpost. După-amiaza explorați marginea văii Vărbilău, folosind refugiile stațiilor.",
+            "en": "Rainy weather in Ștefești calls for smart planning with local transit. The morning focuses on the village center with short walks between stops. At noon, St. Nicholas Church offers a cultural highlight in the dry. In the afternoon, explore the edge of the Vărbilău Valley, spending breaks in covered bus shelters while enjoying the nature."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Village Center",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle mit gutem Regenschutz.",
+                "hu": "Központi megálló jó eső elleni védelemmel.",
+                "ro": "Stație centrală cu protecție bună împotriva ploii.",
+                "en": "Central stop with good rain protection."
+              }
+            },
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Nur kurzer Rundgang zwischen den Schauern.",
+                "hu": "Csak rövid séta a záporok között.",
+                "ro": "Doar o scurtă plimbare între averse.",
+                "en": "Only a short walk between showers."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Vom Dorfplatz aus schnell zu Fuß erreichbar.",
+                "hu": "A falu főteréről gyalog gyorsan elérhető.",
+                "ro": "Accesibil rapid pe jos din piața satului.",
+                "en": "Quickly accessible on foot from the village square."
+              }
+            },
+            {
+              "name": "Cluster B: Nature on the edge of the village",
+              "tip_5lang": {
+                "de": "Fahrpläne vorab online prüfen, weniger Frequenz bei Regen.",
+                "hu": "Ellenőrizze előre a menetrendet, esőben ritkább lehet.",
+                "ro": "Verificați programul în avans, frecvență redusă la ploaie.",
+                "en": "Check schedules in advance; frequency might be lower in rain."
+              }
+            },
+            {
+              "name": "Vărbilău Valley Entrance",
+              "tip_5lang": {
+                "de": "Wartezeit unter den Bäumen verbringen.",
+                "hu": "A várakozási időt töltse a fák alatt.",
+                "ro": "Petreceți timpul de așteptare sub copaci.",
+                "en": "Spend waiting time under the trees."
+              }
+            },
+            {
+              "name": "Ștefești Viewpoint",
+              "tip_5lang": {
+                "de": "Letzten Bus für die Rückfahrt nicht verpassen.",
+                "hu": "Ne késse le az utolsó buszt visszafelé.",
+                "ro": "Nu ratați ultimul autobuz pentru întoarcere.",
+                "en": "Don't miss the last bus for the return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleine Scheine für den Fahrkartenkauf beim Fahrer bereithalten.",
+              "Tragen Sie wasserfeste Kleidung, da nicht jede Haltestelle überdacht ist.",
+              "Rechnen Sie mit wetterbedingten Verzögerungen im Liniennetz.",
+              "Nutzen Sie lokale Apps für Echtzeit-Infos, falls verfügbar."
+            ],
+            "hu": [
+              "Készítsen be aprópénzt a jegyvásárláshoz a sofőrnél.",
+              "Viseljen vízálló ruhát, mert nem minden megálló fedett.",
+              "Számoljon az időjárás miatti késésekkel a közlekedésben.",
+              "Használjon helyi appokat a valós idejű infókért, ha elérhető."
+            ],
+            "ro": [
+              "Pregătiți bani mărunți pentru biletul cumpărat de la șofer.",
+              "Purtați haine impermeabile, nu toate stațiile sunt acoperite.",
+              "Luați în calcul întârzierile cauzate de vreme în rețea.",
+              "Folosiți aplicații locale pentru info în timp real, dacă există."
+            ],
+            "en": [
+              "Have small change ready for buying tickets from the driver.",
+              "Wear waterproof clothing as not every stop is sheltered.",
+              "Expect weather-related delays in the transit network.",
+              "Use local apps for real-time info if available."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ștefești im Winter mit Bus und Bahn zu erkunden, versprüht einen besonderen Charme. Der Morgen beginnt mit der Fahrt durch die verschneite Landschaft zum Zentrum. Mittags lockt die St.-Nikolaus-Kirche mit ihrer spirituellen Wärme. Der Nachmittag führt Sie an den Rand der Natur, wo Sie die klirrende Kälte des Vărbilău-Tals erleben, bevor Sie in den beheizten Bus zurückkehren.",
+            "hu": "Télen busszal felfedezni Ștefești környékét különleges bájjal bír. A reggel a havas tájon át vezet a központba. Délben a Szent Miklós-templom spirituális melegséggel hívogat. A délután a természet peremére viszi, ahol átélheti a Vărbilău-völgy metsző hidegét, mielőtt visszatérne a fűtött buszba.",
+            "ro": "Explorarea Ștefești-ului iarna cu autobuzul are un farmec deosebit. Dimineața începe cu drumul prin peisajul înzăpezit spre centru. La prânz, Biserica Sf. Nicolae vă atrage cu căldura ei spirituală. După-amiaza vă duce la marginea naturii, unde experimentați gerul văii Vărbilău.",
+            "en": "Exploring Ștefești in winter by bus has a special charm. The morning starts with a trip through the snowy landscape to the center. At noon, St. Nicholas Church beckons with its spiritual warmth. The afternoon takes you to the edge of nature, where you experience the biting cold of the Vărbilău Valley before returning to the heated bus."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Village Center",
+              "tip_5lang": {
+                "de": "Haltestellen können bei Schneeverwehungen versetzt sein.",
+                "hu": "Hófúvás esetén a megállók helye változhat.",
+                "ro": "Stațiile pot fi relocate în caz de troiene de zăpadă.",
+                "en": "Stops might be relocated in case of snowdrifts."
+              }
+            },
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Kurzer, knackiger Winterspaziergang.",
+                "hu": "Rövid, frissítő téli séta.",
+                "ro": "O plimbare de iarnă scurtă și revigorantă.",
+                "en": "Short, crisp winter walk."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Idealer Ort zum Aufwärmen während der Wartezeit.",
+                "hu": "Ideális hely a felmelegedésre várakozás közben.",
+                "ro": "Loc ideal pentru încălzire în timpul așteptării.",
+                "en": "Ideal place to warm up while waiting."
+              }
+            },
+            {
+              "name": "Cluster B: Nature on the edge of the village",
+              "tip_5lang": {
+                "de": "Winterfahrplan beachten, oft weniger Fahrten am Wochenende.",
+                "hu": "Figyeljen a téli menetrendre, hétvégén kevesebb járat.",
+                "ro": "Atenție la orarul de iarnă, curse reduse în weekend.",
+                "en": "Note the winter schedule; fewer trips often occur on weekends."
+              }
+            },
+            {
+              "name": "Vărbilău Valley Entrance",
+              "tip_5lang": {
+                "de": "In Bewegung bleiben, um an der Haltestelle nicht zu frieren.",
+                "hu": "Maradjon mozgásban, hogy ne fázzon a megállóban.",
+                "ro": "Rămâneți în mișcare pentru a nu îngheța în stație.",
+                "en": "Keep moving to stay warm while waiting at the stop."
+              }
+            },
+            {
+              "name": "Ștefești Viewpoint",
+              "tip_5lang": {
+                "de": "Rückfahrt bei Tageslicht planen (vor 16:30 Uhr).",
+                "hu": "Tervezze a visszautat nappali fényben (16:30 előtt).",
+                "ro": "Planificați întoarcerea pe lumină (înainte de 16:30).",
+                "en": "Plan your return trip during daylight (before 4:30 PM)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie isolierte Schuhe für langes Stehen an Haltestellen.",
+              "Informieren Sie sich über wetterbedingte Ausfälle der Buslinien.",
+              "Ein Sitzkissen für die oft kalten Wartebänke ist hilfreich.",
+              "Heißgetränke in Thermobechern sind im Transit meist erlaubt."
+            ],
+            "hu": [
+              "Viseljen hőszigetelt cipőt a megállóban való várakozáshoz.",
+              "Tájékozódjon az időjárás miatti esetleges járatkimaradásokról.",
+              "Egy ülőpárna hasznos lehet a hideg várópadokra.",
+              "A forró ital termoszban általában megengedett a járműveken."
+            ],
+            "ro": [
+              "Purtați încălțăminte izolată pentru așteptarea în stații.",
+              "Informați-vă despre anulările curselor cauzate de vreme.",
+              "O pernă de șezut este utilă pentru băncile reci din stații.",
+              "Băuturile calde în termos sunt de obicei permise în tranzit."
+            ],
+            "en": [
+              "Wear insulated shoes for standing at stops.",
+              "Check for weather-related cancellations of bus lines.",
+              "A seat cushion is helpful for the cold waiting benches.",
+              "Hot drinks in thermoses are usually allowed on transit."
+            ]
+          }
+        }
       }
     }
   }

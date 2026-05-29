@@ -284,6 +284,188 @@
           "Bring water, especially for the afternoon hike.",
           "Check the opening hours of the Farmhouse Museum in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der befestigten Kirche St. Arbogast, die Schutz vor dem Regen bietet. Das Bauernhausmuseum ist ein idealer Rückzugsort am späten Vormittag. Mittags führen die Wege durch die nebligen Weinberge zum Wartenberg, wo die Ruinen eine düstere Atmosphäre ausstrahlen. Der Rückweg entlang der Birs ist zwar nass, bietet aber eine erfrischende, wolkenverhangene Kulisse.",
+            "hu": "A napot a megerősített Szent Árbogászt-templomban kezdjük, amely kiváló menedéket nyújt az eső elől. A délelőtt folyamán a Falumúzeum fedett tereiben ismerkedhetünk a múlttal. Délután a ködös szőlőhegyeken át vezet az út a Wartenberg romjaihoz, ahol az eső misztikus hangulatot áraszt. A napot a Birs folyó partján zárjuk, ahol a víztől csillogó aszfalt kíséri utunkat.",
+            "ro": "Începeți ziua la biserica fortificată Sf. Arbogast, care oferă un adăpost excelent împotriva ploii. Muzeul Fermei este refugiul ideal la mijlocul dimineții. La prânz, potecile prin podgoriile cețoase duc spre ruinele Wartenberg, unde ploaia creează o atmosferă dramatică. Încheiați ziua pe malul râului Birs, unde peisajul gri oferă o perspectivă liniștită asupra naturii.",
+            "en": "Start your day at the fortified St. Arbogast Church, providing solid cover from the rain. The Farmhouse Museum is a perfect indoor retreat mid-morning. In the afternoon, the mist-covered vineyards lead to the Wartenberg ruins, where the damp weather adds a historic atmosphere. End the walk along the Birs riverbank, where the wet paths reflect the overcast Swiss sky."
+          },
+          "stops": [
+            {
+              "name": "St. Arbogast Fortress Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die massiven Mauern als Regenschutz und bewundern Sie die Fresken im Inneren.",
+                "hu": "Használja a vastag falakat menedékként, és csodálja meg a belső freskókat az esőben.",
+                "ro": "Folosiți zidurile masive ca adăpost și admirați frescele interioare în timp ce plouă.",
+                "en": "Use the thick fortress walls as shelter and admire the historic frescoes inside while it rains."
+              }
+            },
+            {
+              "name": "Farmhouse Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um trocken zu bleiben und in die lokale Geschichte einzutauchen.",
+                "hu": "Tökéletes helyszín, hogy szárazon maradjon és megismerje a helyi történelmet.",
+                "ro": "Locul perfect pentru a rămâne uscat și a explora istoria locală a satului.",
+                "en": "A perfect spot to stay dry and immerse yourself in local village history."
+              }
+            },
+            {
+              "name": "Muttenz Vineyards",
+              "tip_5lang": {
+                "de": "Die Wege können rutschig sein; festes Schuhwerk ist für den Aufstieg unerlässlich.",
+                "hu": "Az utak csúszósak lehetnek; a kapaszkodóhoz mindenképpen vízálló bakancs ajánlott.",
+                "ro": "Căile pot fi alunecoase; încălțămintea stabilă este esențială pentru urcarea prin podgorii.",
+                "en": "Paths can be slippery; sturdy waterproof footwear is essential for the vineyard climb."
+              }
+            },
+            {
+              "name": "Wartenberg Ruins",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Steinstufen der Ruinen. Der Nebel bietet tolle Fotomotive.",
+                "hu": "Vigyázat a romok nedves lépcsőin. A köd különleges fotótémákat kínál a várnál.",
+                "ro": "Atenție pe treptele de piatră umede ale ruinelor. Ceața oferă oportunități foto unice.",
+                "en": "Be careful on the wet stone steps. The fog creates unique photo opportunities around the ruins."
+              }
+            },
+            {
+              "name": "Birs Riverbank Path",
+              "tip_5lang": {
+                "de": "Pfützen bilden sich oft auf dem Uferweg; wählen Sie die asphaltierten Abschnitte.",
+                "hu": "A folyóparti úton sok a pocsolya; válassza az aszfaltozott szakaszokat a haladáshoz.",
+                "ro": "Se pot forma bălți pe malul râului; alegeți secțiunile asfaltate pentru confort.",
+                "en": "Puddles often form on the riverbank; stick to the paved sections for a drier walk."
+              }
+            },
+            {
+              "name": "Schänzli",
+              "tip_5lang": {
+                "de": "Wenig Unterstand vorhanden. Ein schneller Blick auf den Fluss muss heute genügen.",
+                "hu": "Kevés a fedett rész. Egy gyors pillantás a folyóra elegendő a szakadó esőben.",
+                "ro": "Puține adăposturi disponibile. O privire scurtă spre râu este suficientă pe ploaie.",
+                "en": "Limited shelter here. A quick look at the river is enough during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen der Winde am Wartenberg wichtig.",
+              "Tragen Sie wasserfeste Wanderschuhe für die unbefestigten Weinbergwege.",
+              "Die Museen in Muttenz haben oft begrenzte Öffnungszeiten; vorher prüfen.",
+              "Nutzen Sie die Cafés im Dorfzentrum für eine trockene Pause zwischendurch."
+            ],
+            "hu": [
+              "A Wartenberg körüli szél miatt az erős vázú esernyő javasolt.",
+              "Viseljen vízálló túrabakancsot a szőlőhegyi földutakhoz.",
+              "A muttenzi múzeumok nyitvatartását érdemes előre ellenőrizni.",
+              "Használja a falu központjának kávézóit egy száraz pihenőhöz."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este necesară din cauza vântului de pe Wartenberg.",
+              "Purtați bocanci impermeabili pentru potecile neasfaltate din podgorii.",
+              "Verificați programul muzeelor din Muttenz înainte de a pleca la drum.",
+              "Folosiți cafenelele din centrul satului pentru o pauză uscată între obiective."
+            ],
+            "en": [
+              "A sturdy umbrella is necessary due to winds around the Wartenberg hill.",
+              "Wear waterproof hiking boots for the unpaved vineyard trails.",
+              "Check the opening hours of Muttenz museums in advance as they vary.",
+              "Utilize the cafes in the village center for a dry break during the route."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch an der St. Arbogast Kirche, deren Steine oft mit Reif bedeckt sind. Im Bauernhausmuseum wärmen Sie sich auf, bevor es in die frostigen Weinberge geht. Der Aufstieg zum Wartenberg bietet bei klarer Luft eine weite Sicht über das Rheinknie. Da die Sonne früh untergeht, erreichen Sie das Birs-Ufer in der blauen Stunde, was der Wanderung einen magischen Abschluss verleiht.",
+            "hu": "A téli reggel frissen indul a Szent Árbogászt-templomnál, ahol a kövek gyakran déresek. Melegedjen fel a Falumúzeumban, mielőtt a fagyos szőlőhegyek felé veszi az irányt. A Wartenbergre való feljutás tiszta időben pazar kilátást nyújt a Rajna-kanyarra. Mivel korán sötétedik, a Birs partját már a kék órában éri el, ami varázslatos lezárást ad a túrának.",
+            "ro": "Dimineața de iarnă începe proaspăt la biserica Sf. Arbogast, unde pietrele sunt adesea acoperite de chiciură. Încălziți-vă în Muzeul Fermei înainte de a urca prin podgoriile înghețate. Urcarea spre Wartenberg oferă o vedere clară asupra curburii Rinului în zilele senine. Deoarece soarele apune devreme, veți ajunge pe malul râului Birs la ora albastră, oferind un final magic.",
+            "en": "The winter morning starts briskly at St. Arbogast Church, with frost often coating the ancient stones. Warm up inside the Farmhouse Museum before heading into the frozen vineyards. The climb to Wartenberg offers crisp air and vast views over the Rhine bend. Since the sun sets early, you'll reach the Birs riverbank during the blue hour, providing a magical end to the walk."
+          },
+          "stops": [
+            {
+              "name": "St. Arbogast Fortress Church",
+              "tip_5lang": {
+                "de": "Die Kirche ist im Winter kühl; behalten Sie Ihre Jacke während der Besichtigung an.",
+                "hu": "A templom télen hűvös; a látogatás alatt érdemes a kabátot magunkon hagyni.",
+                "ro": "Biserica este rece iarna; păstrați jacheta pe dvs. în timpul vizitei interioare.",
+                "en": "The church is chilly in winter; keep your coat on during the interior visit."
+              }
+            },
+            {
+              "name": "Farmhouse Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die historische Gemütlichkeit als Schutz vor der winterlichen Kälte.",
+                "hu": "Élvezze a történelmi hangulatot, mint védelmet a téli hideg elől.",
+                "ro": "Bucurați-vă de atmosfera istorică primitoare ca protecție împotriva frigului.",
+                "en": "Enjoy the cozy historical atmosphere as a shield against the winter cold."
+              }
+            },
+            {
+              "name": "Muttenz Vineyards",
+              "tip_5lang": {
+                "de": "Bei Bodenfrost können die Pfade hart und rutschig sein. Achten Sie auf Ihren Tritt.",
+                "hu": "Talajmenti fagy esetén az utak kemények és csúszósak. Figyeljen a lépteire.",
+                "ro": "În caz de îngheț, potecile pot fi dure și alunecoase. Atenție la fiecare pas.",
+                "en": "With ground frost, trails can be hard and slippery. Watch your footing carefully."
+              }
+            },
+            {
+              "name": "Wartenberg Ruins",
+              "tip_5lang": {
+                "de": "Bester Aussichtspunkt für den Sonnenuntergang gegen 16:30 Uhr. Taschenlampe einpacken.",
+                "hu": "A legjobb pont a naplemente nézéséhez 16:30 körül. Vigyen magával elemlámpát.",
+                "ro": "Cel mai bun punct pentru apus în jur de ora 16:30. Luați o lanternă cu dvs.",
+                "en": "Best viewpoint for the sunset around 16:30. Bring a flashlight for the descent."
+              }
+            },
+            {
+              "name": "Birs Riverbank Path",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisplatten in schattigen Bereichen entlang des Flusses.",
+                "hu": "Vigyázat a folyó menti árnyékos szakaszokon előforduló jégfoltokkal.",
+                "ro": "Atenție la porțiunile de gheață din zonele umbrite de-a lungul râului.",
+                "en": "Beware of ice patches in shaded areas along the riverbank path."
+              }
+            },
+            {
+              "name": "Schänzli",
+              "tip_5lang": {
+                "de": "Der Wind vom Fluss kann hier besonders beißend sein. Mütze und Handschuhe nötig.",
+                "hu": "A folyó felőli szél itt metsző lehet. Sapka és kesztyű mindenképp szükséges.",
+                "ro": "Vântul de pe râu poate fi tăios aici. Căciula și mănușile sunt necesare.",
+                "en": "The wind from the river can be biting here. Hat and gloves are highly recommended."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne verschwindet im Dezember bereits gegen 16:30 Uhr hinter den Hügeln.",
+              "Warme Getränke in einer Thermoskanne machen die Pausen angenehmer.",
+              "Die Wege zum Wartenberg werden bei Schnee nicht geräumt; Wanderstöcke helfen.",
+              "Zwiebelprinzip bei der Kleidung schützt vor dem kalten Wind in den Weinbergen."
+            ],
+            "hu": [
+              "A nap decemberben már 16:30 körül eltűnik a dombok mögött.",
+              "Egy termosz meleg tea kellemesebbé teszi a pihenőket a szabadban.",
+              "Hó esetén a Wartenberg útjait nem takarítják; a túrabot hasznos lehet.",
+              "A réteges öltözködés megvéd a szőlőhegyi hideg széltől."
+            ],
+            "ro": [
+              "Soarele dispare după dealuri deja în jurul orei 16:30 în decembrie.",
+              "Băuturile calde într-un termos fac pauzele mult mai plăcute în aer liber.",
+              "Căile spre Wartenberg nu sunt deszăpezite; bețele de trekking sunt utile.",
+              "Îmbrăcămintea în straturi vă protejează de vântul rece din podgorii."
+            ],
+            "en": [
+              "The sun disappears behind the hills as early as 16:30 in December.",
+              "Hot drinks in a thermos flask make outdoor breaks much more enjoyable.",
+              "Paths to Wartenberg are not cleared of snow; trekking poles are helpful.",
+              "Layered clothing is the best defense against cold winds in the open vineyards."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -562,6 +744,188 @@
           "Bring a good bike lock.",
           "Watch out for hikers on the paths through the vineyards."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Radtour durch Muttenz erfordert gute Ausrüstung. Starten Sie am Schänzli und folgen Sie der Birs, wo der Asphalt auch bei Nässe guten Halt bietet. Die Steigungen zu den Weinbergen und zum Wartenberg sind bei Regen anspruchsvoll und rutschig. Ein längerer Stopp beim Bauernhausmuseum oder der Grenzsteinmuseum bietet Gelegenheit, die Kleidung zu trocknen, bevor es zurück geht.",
+            "hu": "Egy esős kerékpártúra Muttenzben jó felszerelést igényel. Kezdjen a Schänzlinél és kövesse a Birs folyót, ahol az aszfalt nedvesen is jól tapad. A szőlőhegyi emelkedők és a Wartenberg felé vezető út esőben technikás és csúszós. Egy hosszabb megálló a Falumúzeumnál vagy a Határkő-múzeumnál lehetőséget ad a ruházat megszárítására a visszaindulás előtt.",
+            "ro": "O tură cu bicicleta prin Muttenz pe ploaie necesită echipament adecvat. Începeți la Schänzli și urmați râul Birs, unde asfaltul oferă aderență bună. Urcările spre podgorii și Wartenberg sunt solicitante și alunecoase pe ploaie. O oprire prelungită la Muzeul Fermei sau Muzeul Pietrelor de Hotar oferă ocazia de a vă usca hainele înainte de restul traseului.",
+            "en": "A rainy bike tour through Muttenz demands good gear. Start at Schänzli and follow the Birs river, where the pavement stays grippy even when wet. The inclines toward the vineyards and Wartenberg are challenging and slippery in the rain. A longer stop at the Farmhouse Museum or Boundary Stone Museum allows time to dry off before completing the loop."
+          },
+          "stops": [
+            {
+              "name": "Schänzli",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen am Startpunkt. Prüfen Sie Ihre Bremsen vor der Abfahrt.",
+                "hu": "Ügyeljen a tócsákra az indulásnál. Ellenőrizze a fékeket az indulás előtt.",
+                "ro": "Atenție la bălți la punctul de plecare. Verificați frânele înainte de pornire.",
+                "en": "Watch out for puddles at the start. Check your brakes before setting off."
+              }
+            },
+            {
+              "name": "Birs Riverbank Path",
+              "tip_5lang": {
+                "de": "Der Weg ist meist flach, aber nasses Laub kann in den Kurven gefährlich sein.",
+                "hu": "Az út többnyire sík, de a nedves levelek a kanyarokban veszélyesek lehetnek.",
+                "ro": "Drumul este plat, dar frunzele ude pot fi periculoase în curbe.",
+                "en": "The path is mostly flat, but wet leaves can be hazardous in the turns."
+              }
+            },
+            {
+              "name": "St. Arbogast Fortress Church",
+              "tip_5lang": {
+                "de": "Überdachte Abstellmöglichkeiten für Fahrräder sind im alten Dorfzentrum vorhanden.",
+                "hu": "A régi falu központjában fedett kerékpártárolók is rendelkezésre állnak.",
+                "ro": "Sunt disponibile locuri de parcare acoperite pentru biciclete în centrul vechi.",
+                "en": "Covered bicycle parking is available in the historic village center."
+              }
+            },
+            {
+              "name": "Muttenz Vineyards & Wartenberg Ruins",
+              "tip_5lang": {
+                "de": "Anstrengender Aufstieg auf nassen Wegen. Nutzen Sie niedrige Gänge für mehr Traktion.",
+                "hu": "Fárasztó emelkedő nedves úton. Használjon alacsony fokozatot a jobb tapadásért.",
+                "ro": "Urcare solicitantă pe drumuri ude. Folosiți viteze mici pentru tracțiune mai bună.",
+                "en": "Strenuous climb on wet paths. Use low gears for better traction on the incline."
+              }
+            },
+            {
+              "name": "Roman Villa at Homberg",
+              "tip_5lang": {
+                "de": "Der Weg zum Homberg kann bei starkem Regen matschig sein. Schutzbleche empfohlen.",
+                "hu": "A Homberghez vezető út nagy esőben sáros lehet. Sárvédő erősen ajánlott.",
+                "ro": "Drumul spre Homberg poate fi noroios pe ploaie abundentă. Apărători recomandate.",
+                "en": "The path to Homberg can be muddy during heavy rain. Mudguards are recommended."
+              }
+            },
+            {
+              "name": "Boundary Stone Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine Pause, um dem schlimmsten Regen zu entkommen.",
+                "hu": "Tökéletes helyszín egy pihenőhöz, hogy elkerüljük a legnagyobb esőt.",
+                "ro": "Locul perfect pentru o pauză, pentru a scăpa de ploaia cea mai torențială.",
+                "en": "Perfect spot for a break to escape the worst of the rain shower."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei den Feldwegen rund um Muttenz ein Muss.",
+              "Die Bremswege auf nassem Asphalt verlängern sich spürbar.",
+              "Vermeiden Sie bei Regen die steilen, unbefestigten Waldwege am Wartenberg.",
+              "Tragen Sie auffällige Regenkleidung, da die Sichtverhältnisse oft schlecht sind."
+            ],
+            "hu": [
+              "A sárvédő kötelező a Muttenz környéki mezei utakon esőben.",
+              "A féktávolság nedves aszfalton érezhetően meghosszabbodik.",
+              "Esőben kerülje a Wartenberg meredek, burkolatlan erdei útjait.",
+              "Viseljen feltűnő esőruházatot, mert a látási viszonyok gyakran rosszak."
+            ],
+            "ro": [
+              "Apărătorile sunt obligatorii pe drumurile de câmp din jurul Muttenz.",
+              "Distanța de frânare pe asfalt ud se prelungește considerabil.",
+              "Evitați potecile forestiere abrupte de pe Wartenberg pe timp de ploaie.",
+              "Purtați haine de ploaie reflectorizante, deoarece vizibilitatea este redusă."
+            ],
+            "en": [
+              "Mudguards are a must for the field paths around Muttenz in the rain.",
+              "Braking distances on wet asphalt increase significantly.",
+              "Avoid steep, unpaved forest trails on Wartenberg during heavy rain.",
+              "Wear high-visibility rain gear as visibility is often poor for cyclists."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter bei Muttenz bietet klare Aussichten, erfordert aber Vorsicht vor Glätte. Starten Sie dick eingepackt am Schänzli. Die Birs-Route ist meist frei, aber schattige Stellen können vereist sein. Der Aufstieg zu den Weinbergen bringt den Kreislauf in Schwung und belohnt mit frostig-schönen Landschaften. Beenden Sie die Tour frühzeitig, bevor die Kälte nach Sonnenuntergang drastisch zunimmt.",
+            "hu": "A téli kerékpározás Muttenz környékén tiszta kilátást, de jegesedés elleni óvatosságot igényel. Induljon vastagon felöltözve a Schänzlitől. A Birs-útvonal többnyire tiszta, de az árnyékos részek jegesek lehetnek. A szőlőhegyi emelkedő beindítja a keringést, és fagyos-szép tájakkal jutalmaz. Fejezze be a túrát időben, mielőtt a hideg naplemente után drasztikusan fokozódna.",
+            "ro": "Ciclismul de iarnă lângă Muttenz oferă vederi clare, dar necesită prudență la polei. Începeți bine echipat la Schänzli. Ruta de pe malul Birs este de obicei curată, dar zonele umbrite pot fi înghețate. Urcarea spre podgorii vă va încălzi și vă va răsplăti cu peisaje înghețate superbe. Încheiați tura devreme, înainte ca gerul să se intensifice după apus.",
+            "en": "Cycling in winter around Muttenz offers crisp views but requires caution regarding ice. Start well-layered at Schänzli. The Birs route is usually clear, but shaded spots can be icy. The climb to the vineyards boosts circulation and rewards you with beautiful frosty landscapes. Finish the tour early before the temperature drops drastically after sunset."
+          },
+          "stops": [
+            {
+              "name": "Schänzli",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Abfahrt zum Fluss; der Boden kann hier sehr kalt und glatt sein.",
+                "hu": "Vigyázat a folyóhoz való leereszkedésnél; a talaj itt nagyon hideg és csúszós lehet.",
+                "ro": "Atenție la coborârea spre râu; solul poate fi foarte rece și alunecos aici.",
+                "en": "Caution on the descent to the river; the ground can be very cold and slick here."
+              }
+            },
+            {
+              "name": "Birs Riverbank Path",
+              "tip_5lang": {
+                "de": "Meiden Sie die direkt am Wasser gelegenen unbefestigten Pfade bei Frostgefahr.",
+                "hu": "Fagyveszély esetén kerülje a közvetlenül a vízparti burkolatlan ösvényeket.",
+                "ro": "Evitați potecile neasfaltate de lângă apă dacă există risc de îngheț.",
+                "en": "Avoid unpaved paths directly by the water if there is a risk of frost."
+              }
+            },
+            {
+              "name": "St. Arbogast Fortress Church",
+              "tip_5lang": {
+                "de": "Kurze Pause einlegen, um die gefrorenen Finger wieder aufzuwärmen.",
+                "hu": "Tartson rövid szünetet, hogy felmelegítse átfagyott ujjait.",
+                "ro": "Faceți o scurtă pauză pentru a vă reîncălzi degetele înghețate.",
+                "en": "Take a short break to warm up your frozen fingers inside the village."
+              }
+            },
+            {
+              "name": "Muttenz Vineyards & Wartenberg Ruins",
+              "tip_5lang": {
+                "de": "Harter, gefrorener Boden bietet oft besseren Halt als Matsch, aber Vorsicht vor Eis.",
+                "hu": "A kemény, fagyott talaj gyakran jobb tapadást ad, mint a sár, de vigyázzon a jéggel.",
+                "ro": "Solul înghețat oferă aderență mai bună decât noroiul, dar atenție la gheață.",
+                "en": "Hard, frozen ground often offers better grip than mud, but watch out for ice patches."
+              }
+            },
+            {
+              "name": "Roman Villa at Homberg",
+              "tip_5lang": {
+                "de": "Die exponierte Lage am Homberg kann im Winter sehr windig und kalt sein.",
+                "hu": "A Homberg kitett fekvése télen nagyon szeles és hideg lehet.",
+                "ro": "Locația expusă de pe Homberg poate fi foarte vântoasă și rece iarna.",
+                "en": "The exposed location at Homberg can be very windy and cold in winter."
+              }
+            },
+            {
+              "name": "Boundary Stone Museum",
+              "tip_5lang": {
+                "de": "Letzte Chance für einen Halt im Trockenen, bevor es zum Ziel geht.",
+                "hu": "Utolsó lehetőség egy száraz pihenőre, mielőtt a cél felé venné az irányt.",
+                "ro": "Ultima șansă pentru o oprire la adăpost înainte de a ajunge la destinație.",
+                "en": "Last chance for a dry stop before heading to the final destination."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Handschuhe und Überschuhe sind für Winterfahrten essenziell.",
+              "Überprüfen Sie die Beleuchtung; es wird ab 16:30 Uhr dunkel.",
+              "Vermeiden Sie hastige Bremsmanöver auf potenziell vereisten Brücken über die Birs.",
+              "Achten Sie auf Rollsplit, der im Winter oft auf den Radwegen gestreut wird."
+            ],
+            "hu": [
+              "A jó kesztyű és a kamásli elengedhetetlen a téli tekeréshez.",
+              "Ellenőrizze a világítást; 16:30-tól már sötét van.",
+              "Kerülje a hirtelen fékezést a Birs feletti, esetlegesen jeges hidakon.",
+              "Ügyeljen a zúzott kőre, amit télen gyakran szórnak a kerékpárutakra."
+            ],
+            "ro": [
+              "Mănușile bune și protecțiile de încălțăminte sunt esențiale iarna.",
+              "Verificați sistemul de iluminare; se întunecă deja de la ora 16:30.",
+              "Evitați frânarea bruscă pe podurile peste Birs care pot fi înghețate.",
+              "Atenție la criblura împrăștiată pe pistele de biciclete pe timp de iarnă."
+            ],
+            "en": [
+              "Good gloves and shoe covers are essential for winter rides.",
+              "Check your lights; it gets dark starting from 16:30.",
+              "Avoid sudden braking on potentially icy bridges over the Birs river.",
+              "Watch out for gravel spread on bike paths during the winter season."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -846,6 +1210,188 @@
           "The roads to the Wartenberg ruins can be narrow, drive carefully.",
           "Check parking fees and times in the village center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Muttenz auch bei starkem Regen komfortabel. Beginnen Sie bei den Wartenberg-Ruinen, wo Sie vom Parkplatz aus einen kurzen, nassen Spaziergang machen können. Die Weinberge lassen sich wunderbar vom Auto aus betrachten, während Sie zur römischen Villa am Homberg fahren. Das historische Dorfzentrum bietet genügend Parkplätze für Besuche der Kirche und Museen, ohne lange im Regen stehen zu müssen.",
+            "hu": "Autóval szakadó esőben is kényelmesen felfedezheti Muttenzt. Kezdjen a Wartenberg romjainál, ahol a parkolótól csak egy rövid, nedves séta várja. A szőlőhegyeket az autóból is megcsodálhatja a Homberg felé vezető úton. A falu történelmi központjában bőven akad parkoló a templom és a múzeumok közelében, így nem kell sokat az esőben várakoznia.",
+            "ro": "Cu mașina, puteți explora Muttenz confortabil chiar și pe ploaie torențială. Începeți la ruinele Wartenberg, de unde aveți de făcut doar o scurtă plimbare de la parcare. Podgoriile pot fi admirate din mașină în drum spre vila romană de la Homberg. Centrul istoric oferă destule locuri de parcare lângă biserică și muzee, evitând expunerea prelungită la ploaie.",
+            "en": "Exploring Muttenz by car is comfortable even during heavy rain. Start at the Wartenberg ruins, where a short, wet walk from the parking lot awaits. The vineyards can be admired from the vehicle as you drive toward the Roman Villa at Homberg. The historic village center provides ample parking near the church and museums, minimizing your time out in the rain."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Wartenberg & Roman Villa",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Waldrand, um den Fußweg im Regen zu verkürzen.",
+                "hu": "Parkoljon a lehető legközelebb az erdőszélhez, hogy lerövidítse az esős sétát.",
+                "ro": "Parcați cât mai aproape de liziera pădurii pentru a scurta mersul pe jos prin ploaie.",
+                "en": "Park as close to the forest edge as possible to shorten the walk in the rain."
+              }
+            },
+            {
+              "name": "Muttenz Vineyards",
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick direkt aus dem trockenen Fahrzeuginneren.",
+                "hu": "Élvezze a panorámát közvetlenül a száraz utastér kényelméből.",
+                "ro": "Bucurați-vă de panorama podgoriilor direct din interiorul uscat al mașinii.",
+                "en": "Enjoy the panoramic vineyard views directly from the dry car interior."
+              }
+            },
+            {
+              "name": "Roman Villa at Homberg",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Regen etwas matschig sein; vorsichtig aussteigen.",
+                "hu": "A parkoló esőben kicsit sáros lehet; óvatosan szálljon ki az autóból.",
+                "ro": "Parcarea poate fi puțin noroioasă pe ploaie; coborâți cu atenție din mașină.",
+                "en": "The parking area can be a bit muddy in the rain; exit the car carefully."
+              }
+            },
+            {
+              "name": "Cluster 2: Historic Village Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus im Zentrum für einen komplett trockenen Zugang zum Dorf.",
+                "hu": "Használja a központi parkolóházat a teljesen száraz bejutáshoz a faluba.",
+                "ro": "Folosiți parcarea subterană din centru pentru un acces complet uscat în sat.",
+                "en": "Use the central parking garage for a completely dry entry into the village."
+              }
+            },
+            {
+              "name": "Farmhouse Museum",
+              "tip_5lang": {
+                "de": "Nur wenige Schritte vom Parkplatz entfernt; ideal für regnerische Nachmittage.",
+                "hu": "Csak pár lépésre a parkolótól; ideális választás esős délutánokra.",
+                "ro": "La doar câțiva pași de parcare; ideal pentru după-amiezi ploioase.",
+                "en": "Just a few steps from the parking lot; ideal for rainy afternoons."
+              }
+            },
+            {
+              "name": "Cluster 3: Recreation on the Birs",
+              "tip_5lang": {
+                "de": "Parken Sie beim Schänzli und beobachten Sie das Hochwasser der Birs im Regen.",
+                "hu": "Parkoljon a Schänzlinél, és figyelje a Birs áradását az esőben.",
+                "ro": "Parcați la Schänzli și observați debitul crescut al râului Birs pe ploaie.",
+                "en": "Park at Schänzli and observe the high water levels of the Birs in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sichtverhältnisse auf den schmalen Weinbergstraßen können bei Regen schlecht sein.",
+              "Hinterlassen Sie keine nassen Regenschirme auf den Autositzen.",
+              "Einige Parkplätze am Homberg sind bei Starkregen schwer befahrbar.",
+              "Prüfen Sie die Scheibenwischer vor der Fahrt durch die hügelige Region."
+            ],
+            "hu": [
+              "A látási viszonyok a szűk szőlőhegyi utakon esőben rosszak lehetnek.",
+              "Ne hagyjon vizes esernyőt az autóüléseken, használjon tartót.",
+              "Néhány hombergi parkoló nehezen járható heves esőzés után.",
+              "Ellenőrizze az ablaktörlőket a dombos vidéken tett túra előtt."
+            ],
+            "ro": [
+              "Vizibilitatea pe drumurile înguste din podgorii poate fi redusă pe ploaie.",
+              "Nu lăsați umbrele ude pe scaunele mașinii; folosiți suporturi.",
+              "Unele parcări de pe Homberg sunt greu accesibile după ploi torențiale.",
+              "Verificați ștergătoarele înainte de a porni prin regiunea deluroasă."
+            ],
+            "en": [
+              "Visibility on narrow vineyard roads can be poor during heavy rain.",
+              "Don't leave wet umbrellas on car seats; use a dedicated holder.",
+              "Some parking areas at Homberg may be difficult to navigate after heavy rain.",
+              "Check your windshield wipers before driving through the hilly region."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autotour bietet beheizten Komfort zwischen den Stopps in Muttenz. Beginnen Sie bei den frostigen Wartenberg-Ruinen, wo die Aussicht auf Basel im Winterlicht besonders klar ist. Fahren Sie durch die verschneiten Weinberge zum Homberg. Das historische Zentrum lädt zu kurzen Besuchen der Kirche und Museen ein, bevor Sie den Tag am winterlichen Birs-Ufer ausklingen lassen, während die Heizung im Auto für wohlige Wärme sorgt.",
+            "hu": "A téli autós túra fűtött kényelmet kínál a muttenzi megállók között. Kezdjen a fagyos Wartenberg romjainál, ahonnan a bázeli kilátás téli fényben különösen tiszta. Hajtson át a havas szőlőhegyeken a Homberg felé. A történelmi központ rövid látogatásra hív a templomba és a múzeumokba, mielőtt a napot a téli Birs partján zárná, miközben az autó fűtése kellemes meleget ad.",
+            "ro": "O tură cu mașina iarna oferă confort termic între opririle din Muttenz. Începeți la ruinele înghețate de pe Wartenberg, de unde vederea spre Basel este foarte clară în lumina iernii. Conduceți prin podgoriile înzăpezite spre Homberg. Centrul istoric vă invită la scurte vizite, înainte de a încheia ziua pe malul Birs, în timp ce încălzirea mașinii vă oferă relaxare.",
+            "en": "A winter car tour provides heated comfort between stops in Muttenz. Start at the frosty Wartenberg ruins, where views of Basel are especially crisp in the winter light. Drive through the snowy vineyards to Homberg. The historic center is perfect for quick visits to the church and museums before ending the day at the wintery Birs riverbank, with the car heater keeping you warm."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Wartenberg & Roman Villa",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Parkplätze in Waldnähe. Winterreifen sind Pflicht.",
+                "hu": "Ügyeljen a jeges parkolókra az erdő közelében. A téli gumi kötelező.",
+                "ro": "Atenție la parcările înghețate de lângă pădure. Anvelopele de iarnă sunt obligatorii.",
+                "en": "Watch out for icy parking spots near the forest. Winter tires are mandatory."
+              }
+            },
+            {
+              "name": "Muttenz Vineyards",
+              "tip_5lang": {
+                "de": "Die schmalen Wege können glatt sein. Fahren Sie vorsichtig und vorausschauend.",
+                "hu": "A szűk utak csúszósak lehetnek. Vezessen óvatosan és előrelátóan.",
+                "ro": "Drumurile înguste pot fi alunecoase. Conduceți cu prudență și anticipare.",
+                "en": "The narrow roads can be slick. Drive carefully and look ahead for ice."
+              }
+            },
+            {
+              "name": "Roman Villa at Homberg",
+              "tip_5lang": {
+                "de": "Ein herrlicher Ort, um den Raureif auf den römischen Steinen zu bewundern.",
+                "hu": "Csodálatos hely a római köveken megtelepedő zúzmara megtekintéséhez.",
+                "ro": "Un loc superb pentru a admira chiciura depusă pe pietrele romane.",
+                "en": "A magnificent spot to admire the hoarfrost on the ancient Roman stones."
+              }
+            },
+            {
+              "name": "Cluster 2: Historic Village Center",
+              "tip_5lang": {
+                "de": "Warme Parkhäuser erleichtern den Wechsel zwischen Auto und Besichtigung.",
+                "hu": "A meleg parkolóházak megkönnyítik az autó és a városnézés közötti váltást.",
+                "ro": "Parcările acoperite facilitează tranziția între mașină și vizitarea centrului.",
+                "en": "Warm parking garages make it easier to transition between the car and sightseeing."
+              }
+            },
+            {
+              "name": "Farmhouse Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob im Winter Sonderausstellungen oder gemütliche Events stattfinden.",
+                "hu": "Ellenőrizze, hogy télen van-e különleges kiállítás vagy hangulatos esemény.",
+                "ro": "Verificați dacă există expoziții speciale sau evenimente iarna la muzeu.",
+                "en": "Check if there are any special winter exhibitions or cozy events at the museum."
+              }
+            },
+            {
+              "name": "Cluster 3: Recreation on the Birs",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den frostigen Fluss bequem vom warmen Auto aus.",
+                "hu": "Élvezze a kilátást a fagyos folyóra kényelmesen a fűtött autóból.",
+                "ro": "Bucurați-vă de vederea spre râul înghețat din confortul mașinii încălzite.",
+                "en": "Enjoy the view of the frosty river comfortably from your heated car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie einen Eiskratzer und Frostschutzmittel für die Scheiben bereit.",
+              "Die Batteriekapazität kann bei extremer Kälte in den Hügeln abnehmen.",
+              "Schneeketten sind bei starkem Schneefall für die Homberg-Auffahrt ratsam.",
+              "Nutzen Sie die Sitzheizung für kurze Pausen zwischen den Besichtigungen."
+            ],
+            "hu": [
+              "Tartson jégkaparót és fagyálló folyadékot az autóban.",
+              "Az akkumulátor kapacitása csökkenhet a dombok közötti extrém hidegben.",
+              "Hólánc ajánlott erős havazás esetén a Hombergre való feljutáshoz.",
+              "Használja az ülésfűtést a megállók közötti rövid utakon."
+            ],
+            "ro": [
+              "Aveți la îndemână o racletă și lichid de parbriz rezistent la îngheț.",
+              "Capacitatea bateriei poate scădea în frigul extrem din zonele deluroase.",
+              "Lanțurile sunt recomandate pentru urcarea pe Homberg în caz de ninsoare.",
+              "Folosiți încălzirea în scaune pentru pauzele scurte între vizite."
+            ],
+            "en": [
+              "Keep an ice scraper and antifreeze fluid ready in the car.",
+              "Battery capacity may decrease in the extreme cold of the hilly areas.",
+              "Snow chains are advisable for the Homberg ascent during heavy snowfall.",
+              "Utilize the seat heating for short breaks between sightseeing stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1106,6 +1652,170 @@
           "Download the timetable app to check real-time connections.",
           "The ruins are difficult to reach by public transport, so focus on the other sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Tram entdecken Sie Muttenz bei Regen trocken und effizient. Starten Sie im historischen Zentrum mit der Tram 14. Die Museen bieten ideale Indoor-Aktivitäten für regnerische Stunden. Der Weg zum Schänzli und zur Birs ist gut angebunden, sodass Sie die nassen Naturabschnitte mit kurzen Fahrten überbrücken können. Wartehallen an den Haltestellen bieten Schutz vor den Schauern.",
+            "hu": "Busszal és villamossal esőben is szárazon és hatékonyan fedezheti fel Muttenzt. Kezdjen a történelmi központban a 14-es villamossal. A múzeumok ideális benti programot kínálnak az esős órákra. A Schänzli és a Birs felé vezető út jól összekötött, így a nedves természeti szakaszokat rövid utazásokkal hidalhatja át. A megállók várói védelmet nyújtanak a záporok elől.",
+            "ro": "Cu autobuzul și tramvaiul, descoperiți Muttenz pe ploaie în mod uscat și eficient. Începeți în centrul istoric cu tramvaiul 14. Muzeele oferă activități de interior ideale pentru orele ploioase. Drumul spre Schänzli și Birs este bine conectat, permițându-vă să scurtați segmentele prin natură cu călătorii scurte. Stațiile acoperite oferă protecție împotriva ploii.",
+            "en": "By bus and tram, you can discover Muttenz dry and efficiently during the rain. Start in the historic center using Tram 14. The museums provide ideal indoor activities for rainy hours. The route to Schänzli and the Birs is well-connected, allowing you to bridge the wet outdoor sections with short rides. Covered transit stops offer protection from the showers."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Village Center",
+              "tip_5lang": {
+                "de": "Die Tramhaltestelle 'Muttenz Dorf' liegt direkt beim historischen Kern.",
+                "hu": "A 'Muttenz Dorf' villamosmegálló közvetlenül a történelmi mag mellett van.",
+                "ro": "Stația de tramvai 'Muttenz Dorf' este situată chiar lângă nucleul istoric.",
+                "en": "The 'Muttenz Dorf' tram stop is located right next to the historic core."
+              }
+            },
+            {
+              "name": "Farmhouse Museum",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle; ideal, um dem Regen schnell zu entkommen.",
+                "hu": "Rövid séta a megállótól; ideális, hogy gyorsan az eső elől meneküljünk.",
+                "ro": "Scurtă plimbare de la stație; ideal pentru a scăpa rapid de ploaie.",
+                "en": "Short walk from the stop; ideal for quickly escaping a rain shower."
+              }
+            },
+            {
+              "name": "Boundary Stone Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Buslinie 60 für eine direkte Verbindung in die Nähe des Museums.",
+                "hu": "Használja a 60-as buszt a közvetlen eljutáshoz a múzeum közelébe.",
+                "ro": "Folosiți linia de autobuz 60 pentru o conexiune directă în apropierea muzeului.",
+                "en": "Use bus line 60 for a direct connection close to the museum entrance."
+              }
+            },
+            {
+              "name": "Cluster 2: Birs Riverbank & Schänzli",
+              "tip_5lang": {
+                "de": "Die Tram 14 bringt Sie fast direkt zum Schänzli; wenig Zeit im Regen nötig.",
+                "hu": "A 14-es villamos majdnem közvetlenül a Schänzlihez visz; kevés idő az esőben.",
+                "ro": "Tramvaiul 14 vă duce aproape direct la Schänzli; minim expunere la ploaie.",
+                "en": "Tram 14 takes you almost directly to Schänzli, minimizing time spent in the rain."
+              }
+            },
+            {
+              "name": "Stroll on the Birs Riverbank Path",
+              "tip_5lang": {
+                "de": "Wählen Sie eine Haltestelle näher am Fluss, um die Gehzeit zu minimieren.",
+                "hu": "Válasszon a folyóhoz közelebbi megállót a gyaloglási idő csökkentése érdekében.",
+                "ro": "Alegeți o stație mai aproape de râu pentru a reduce timpul de mers pe jos.",
+                "en": "Choose a stop closer to the river to minimize walking time in the wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die SBB-App für Echtzeit-Infos bei witterungsbedingten Verspätungen.",
+              "Die Mehrfahrtenkarte der TNW ist für diese Route sehr praktisch.",
+              "Wartehallen in Muttenz sind meist modern und bieten guten Windschutz.",
+              "Beachten Sie, dass Busse bei starkem Regen im Stadtverkehr stecken können."
+            ],
+            "hu": [
+              "Használja az SBB alkalmazást a valós idejű infókért eső miatti késéseknél.",
+              "A TNW gyűjtőjegye nagyon praktikus erre az útvonalra.",
+              "A muttenzi várók többnyire modernek és jó szélvédelmet nyújtanak.",
+              "Vegye figyelembe, hogy a buszok elakadhatnak a forgalomban heves esőzéskor."
+            ],
+            "ro": [
+              "Folosiți aplicația SBB pentru informații în timp real despre întârzieri.",
+              "Cardul cu mai multe călătorii TNW este foarte practic pentru această rută.",
+              "Stațiile din Muttenz sunt moderne și oferă o protecție bună împotriva vântului.",
+              "Autobuzele pot avea întârzieri în trafic în timpul ploilor torențiale."
+            ],
+            "en": [
+              "Use the SBB app for real-time updates during weather-related delays.",
+              "A multi-trip ticket from TNW is very practical for this specific route.",
+              "Transit shelters in Muttenz are mostly modern and provide good wind protection.",
+              "Be aware that buses might get stuck in traffic during heavy rain periods."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel bieten im Winter eine warme Basis für Ihre Erkundung von Muttenz. Die Tram 14 bringt Sie zuverlässig ins Zentrum, wo die historischen Sehenswürdigkeiten nah beieinander liegen. Zwischen den Museumsbesuchen können Sie sich in den beheizten Fahrzeugen aufwärmen. Da es früh dunkelt, ist die gute Beleuchtung der Haltestellen ein Sicherheitsplus für den späten Nachmittag am Birs-Ufer.",
+            "hu": "A tömegközlekedés télen meleg bázist nyújt Muttenz felfedezéséhez. A 14-es villamos megbízhatóan viszi a központba, ahol a látnivalók közel vannak egymáshoz. A múzeumlátogatások között felmelegedhet a fűtött járatokon. Mivel korán sötétedik, a megállók jó megvilágítása biztonságot ad a késő délutáni, Birs-parti szakasz után.",
+            "ro": "Transportul public oferă o bază caldă pentru explorarea Muttenz pe timp de iarnă. Tramvaiul 14 vă duce în siguranță în centru, unde atracțiile sunt apropiate. Între vizitele la muzee, vă puteți încălzi în vehiculele bine încălzite. Deoarece se întunecă devreme, stațiile bine iluminate oferă siguranță după-amiaza pe malul Birs.",
+            "en": "Public transport offers a warm base for your Muttenz exploration in winter. Tram 14 reliably takes you to the center, where historic sights are close to each other. Between museum visits, you can warm up in the heated vehicles. As it gets dark early, the well-lit transit stops provide extra safety for your late afternoon return from the Birs riverbank."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Village Center",
+              "tip_5lang": {
+                "de": "Die Tram 14 verkehrt alle 7-10 Minuten, ideal für kurze Aufenthalte.",
+                "hu": "A 14-es villamos 7-10 percenként jár, ideális a rövid megállókhoz.",
+                "ro": "Tramvaiul 14 circulă la fiecare 7-10 minute, ideal pentru vizite scurte.",
+                "en": "Tram 14 runs every 7-10 minutes, perfect for quick village visits."
+              }
+            },
+            {
+              "name": "Farmhouse Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren; das Museum ist ein guter Ort zum Aufwärmen.",
+                "hu": "Élvezze a benti meleget; a múzeum remek hely a felmelegedéshez.",
+                "ro": "Bucurați-vă de căldura din interior; muzeul este un loc bun pentru reîncălzire.",
+                "en": "Enjoy the indoor warmth; the museum is a great place to heat up between walks."
+              }
+            },
+            {
+              "name": "Boundary Stone Museum",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist im Winter gut beleuchtet. Achten Sie auf den Fahrplan.",
+                "hu": "A megálló télen jól megvilágított. Ügyeljen a menetrendre a hidegben.",
+                "ro": "Stația este bine iluminată iarna. Atenție la orar pentru a nu sta mult în frig.",
+                "en": "The stop is well-lit in winter. Check the schedule to avoid waiting in the cold."
+              }
+            },
+            {
+              "name": "Cluster 2: Birs Riverbank & Schänzli",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Warteraum an größeren Umsteigepunkten.",
+                "hu": "Használja a fűtött váróhelyiségeket a nagyobb átszállási pontokon.",
+                "ro": "Folosiți sălile de așteptare încălzite la punctele principale de transfer.",
+                "en": "Use the heated waiting areas at larger transit transfer points."
+              }
+            },
+            {
+              "name": "Stroll on the Birs Riverbank Path",
+              "tip_5lang": {
+                "de": "Die Wege zur Tramstation können bei Frost glatt sein; gehen Sie vorsichtig.",
+                "hu": "A villamosmegállóhoz vezető utak fagyban csúszósak lehetnek; járjon óvatosan.",
+                "ro": "Căile spre stația de tramvai pot fi alunecoase; mergeți cu prudență.",
+                "en": "Paths to the tram station can be slippery in frost; walk carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrplanänderungen im Winter sind selten, aber bei Schneefall möglich.",
+              "In den Fahrzeugen ist es oft sehr warm; kleiden Sie sich nach dem Zwiebelprinzip.",
+              "Die Tramstationen im Dorfzentrum bieten oft elektronische Abfahrtsanzeigen.",
+              "Halten Sie Ihr Ticket (oder Handy) griffbereit, um langes Suchen in der Kälte zu vermeiden."
+            ],
+            "hu": [
+              "A téli menetrendi változások ritkák, de erős havazáskor előfordulhatnak.",
+              "A járatokon gyakran nagyon meleg van; öltözködjön rétegesen.",
+              "A faluközponti villamosmegállókban gyakran van elektronikus kijelző.",
+              "Tartsa készenlétben a jegyét, hogy ne kelljen a hidegben keresgélnie."
+            ],
+            "ro": [
+              "Modificările de orar iarna sunt rare, dar posibile în caz de ninsoare abundentă.",
+              "În vehicule este adesea foarte cald; îmbrăcați-vă în straturi.",
+              "Stațiile de tramvai din centru au adesea afișaje electronice pentru sosiri.",
+              "Țineți biletul la îndemână pentru a evita căutarea prelungită în frig."
+            ],
+            "en": [
+              "Schedule changes in winter are rare but possible during heavy snowfall.",
+              "Vehicles are often very warm; dress in layers to stay comfortable.",
+              "Tram stations in the village center often feature electronic arrival displays.",
+              "Keep your ticket or phone ready to avoid searching for it in the cold."
+            ]
+          }
+        }
       }
     }
   }

@@ -386,6 +386,206 @@
           "Take time for a coffee in one of the squares to soak up the atmosphere.",
           "Look out for the many Romanesque churches scattered throughout the province if you have time for a trip."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag unter den schützenden Arkaden der Calle Mayor, die perfekt für regnerische Morgen geeignet sind. Mittags bietet die prächtige Kathedrale ein trockenes und spirituelles Refugium vor dem Wetter.\n\nAm Nachmittag vertiefen Sie sich in die Kunst des Museums von Palencia, während es draußen regnet. Den Abschluss bildet ein kurzer, erfrischender Spaziergang zum Fluss, wo der Regen eine mystische Atmosphäre schafft.",
+            "hu": "Kezdje a napot a Calle Mayor árkádjai alatt, amelyek tökéletes menedéket nyújtanak az eső elől. Délben a monumentális katedrális belső terei kínálnak száraz és lenyűgöző látnivalót.\n\nDélután a múzeum gazdag gyűjteménye várja, távol a külvilág szürkeségétől. A napot a folyóparton zárhatja, ahol az eső kopogása és a víz látványa különleges, melankolikus hangulatot áraszt.",
+            "ro": "Începeți ziua sub arcadele de pe Calle Mayor, ideale pentru a rămâne uscat în diminețile ploioase. La prânz, Catedrala din Palencia oferă un refugiu artistic și spiritual ferit de intemperii.\n\nDupă-amiaza este dedicată Muzeului din Palencia, unde puteți explora istoria locală în timp ce plouă afară. Încheiați ziua cu o plimbare scurtă spre râu, unde atmosfera devine poetică sub picăturile de ploaie.",
+            "en": "Start your day under the protective arcades of Calle Mayor, perfect for staying dry on a rainy morning. At midday, the magnificent Cathedral provides a grand indoor sanctuary from the weather.\n\nIn the afternoon, immerse yourself in the Museum of Palencia while the rain falls outside. End the day with a refreshing walk to the river, where the mist and rain create a uniquely atmospheric scene."
+          },
+          "stops": [
+            {
+              "name": "Calle Mayor",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden, um trocken zu bleiben.",
+                "hu": "Használja az árkádokat a száraz közlekedéshez.",
+                "ro": "Folosiți arcadele pentru a rămâne uscat.",
+                "en": "Use the arcades to stay dry while walking."
+              }
+            },
+            {
+              "name": "Church of San Miguel",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für eine Regenpause.",
+                "hu": "Kiváló hely egy rövid pihenőre az eső elől.",
+                "ro": "Un loc perfect pentru o pauză de ploaie.",
+                "en": "A great spot for a quick break from the rain."
+              }
+            },
+            {
+              "name": "Cathedral of Palencia",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Krypta bei starkem Regen.",
+                "hu": "Heves esőben nézze meg az altemplomot is.",
+                "ro": "Vizitați cripta dacă plouă torențial.",
+                "en": "Visit the crypt if the rain gets heavy."
+              }
+            },
+            {
+              "name": "Museum of Palencia",
+              "tip_5lang": {
+                "de": "Ideal, um die regenreichste Zeit drinnen zu verbringen.",
+                "hu": "Tökéletes a legesősebb órák eltöltésére.",
+                "ro": "Ideal pentru a petrece orele ploioase în interior.",
+                "en": "Perfect for spending the rainiest hours indoors."
+              }
+            },
+            {
+              "name": "Puente Mayor",
+              "tip_5lang": {
+                "de": "Vorsicht, das Kopfsteinpflaster kann glatt sein.",
+                "hu": "Vigyázat, a macskakő csúszós lehet.",
+                "ro": "Atenție, pavajul poate fi alunecos.",
+                "en": "Be careful, the cobblestones can be slippery."
+              }
+            },
+            {
+              "name": "Church of San Lázaro",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt für trockene Besichtigung.",
+                "hu": "Rövid megálló egy száraz városnézéshez.",
+                "ro": "O oprire scurtă pentru o vizită la adăpost.",
+                "en": "Short stop for a dry indoor visit."
+              }
+            },
+            {
+              "name": "Parque del Salón de Isabel II",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den großen Bäumen.",
+                "hu": "Keressen menedéket a sűrű lombú fák alatt.",
+                "ro": "Căutați adăpost sub arborii mari ai parcului.",
+                "en": "Seek shelter under the park's large trees."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die nassen Gassen.",
+              "Die Arkaden der Calle Mayor bieten fast 1 km trockenen Weg.",
+              "Besuchen Sie Cafés in den Arkaden für gemütliche Pausen.",
+              "Ein Regenschirm ist wegen des Windes oft besser als ein Regenponcho."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a nedves macskakövekre.",
+              "A Calle Mayor árkádjai közel 1 km-en át védenek.",
+              "Használja ki a múzeumi időt a legnagyobb zuhé idején.",
+              "Egy stabil esernyő hasznosabb lehet az erős szélben."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile umede.",
+              "Arcadele de pe Calle Mayor oferă aproape 1 km de drum uscat.",
+              "Profitați de timpul petrecut în muzeu în timpul ploii abundente.",
+              "O umbrelă solidă este mai bună decât o pelerină din cauza vântului."
+            ],
+            "en": [
+              "Wear waterproof shoes for the wet cobblestones.",
+              "The arcades of Calle Mayor offer nearly 1 km of dry path.",
+              "Make the most of museum time during heavy downpours.",
+              "A sturdy umbrella is often better than a poncho due to wind."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare, frische Winterluft in der Calle Mayor am Morgen. Mittags spendet die Kathedrale mit ihrer ruhigen Aura Trost gegen die kastilische Kälte.\n\nDer Nachmittag im Museum bietet wohlige Wärme und faszinierende Geschichte. Wenn die Sonne früh hinter dem Horizont verschwindet, glänzen die Lichter der Stadt auf dem Puente Mayor besonders festlich.",
+            "hu": "Élvezze a friss, ropogós téli levegőt a Calle Mayoron a reggeli órákban. Délben a katedrális belső nyugalma és méltósága feledteti a kasztíliai hideget.\n\nA délutáni múzeumlátogatás során kellemes melegben ismerkedhet meg a múlttal. Ahogy korán lemegy a nap, a város fényei gyönyörűen tükröződnek a Puente Mayor felett.",
+            "ro": "Bucurați-vă de aerul rece și proaspăt de iarnă pe Calle Mayor dimineața. La prânz, interiorul catedralei oferă un răgaz liniștit împotriva frigului castilian.\n\nDupă-amiaza la muzeu aduce căldură și o incursiune fascinantă în istorie. Pe măsură ce soarele apune devreme, luminile orașului strălucesc festiv pe Puente Mayor.",
+            "en": "Enjoy the crisp, fresh winter air on Calle Mayor in the morning. At midday, the Cathedral's serene interior offers a peaceful respite from the Castilian cold.\n\nAn afternoon at the museum provides warmth and a deep dive into local history. As the sun sets early, the city lights begin to sparkle beautifully over the Puente Mayor."
+          },
+          "stops": [
+            {
+              "name": "Calle Mayor",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wintersonne in den offenen Bereichen.",
+                "hu": "Élvezze a téli napsütést a nyitott szakaszokon.",
+                "ro": "Bucurați-vă de soarele de iarnă în zonele deschise.",
+                "en": "Enjoy the winter sun in the open sections."
+              }
+            },
+            {
+              "name": "Church of San Miguel",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, Kirchen sind oft kühl.",
+                "hu": "Öltözzön rétegesen, a templomok télen hidegek.",
+                "ro": "Îmbrăcați-vă gros, bisericile sunt reci iarna.",
+                "en": "Dress warmly as church interiors can be chilly."
+              }
+            },
+            {
+              "name": "Cathedral of Palencia",
+              "tip_5lang": {
+                "de": "Achten Sie auf die besonderen Lichtspiele der tiefen Sonne.",
+                "hu": "Figyelje meg az alacsony napállás fényjátékát.",
+                "ro": "Observați jocurile de lumină ale soarelui de iarnă.",
+                "en": "Watch the light patterns from the low winter sun."
+              }
+            },
+            {
+              "name": "Museum of Palencia",
+              "tip_5lang": {
+                "de": "Ein perfekt beheizter Ort für den Nachmittag.",
+                "hu": "Tökéletesen fűtött helyszín a délutánra.",
+                "ro": "Un loc bine încălzit pentru după-amiază.",
+                "en": "A well-heated location for the afternoon."
+              }
+            },
+            {
+              "name": "Puente Mayor",
+              "tip_5lang": {
+                "de": "Kalte Winde wehen oft über den Fluss.",
+                "hu": "Hideg szelek fújhatnak a folyó felett.",
+                "ro": "Vânturi reci pot sufla deasupra râului.",
+                "en": "Cold winds often blow across the river."
+              }
+            },
+            {
+              "name": "Church of San Lázaro",
+              "tip_5lang": {
+                "de": "Ein kurzer, wärmender Zwischenstopp.",
+                "hu": "Egy rövid, melegítő megálló útközben.",
+                "ro": "O scurtă oprire pentru a vă încălzi.",
+                "en": "A quick indoor stop to warm up."
+              }
+            },
+            {
+              "name": "Parque del Salón de Isabel II",
+              "tip_5lang": {
+                "de": "Beenden Sie den Spaziergang vor Einbruch der Dunkelheit.",
+                "hu": "Sötétedés előtt fejezze be a sétát.",
+                "ro": "Încheiați plimbarea înainte de lăsarea întunericului.",
+                "en": "Finish your walk before the early sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kastilische Winter sind trocken, aber sehr kalt.",
+              "Die Sonne geht gegen 17:30 Uhr unter, planen Sie das ein.",
+              "Tragen Sie Thermokleidung für längere Außenaufenthalte.",
+              "Suchen Sie Cafés mit 'Churros con Chocolate' zum Aufwärmen."
+            ],
+            "hu": [
+              "A kasztíliai tél száraz, de metszően hideg lehet.",
+              "A nap korán, 17:30 körül nyugszik.",
+              "Réteges öltözködés javasolt a kinti szakaszokra.",
+              "Keressen egy helyet egy forró csokoládéra és churrosra."
+            ],
+            "ro": [
+              "Iernile castiliene sunt uscate, dar foarte reci.",
+              "Soarele apune devreme, în jur de ora 17:30.",
+              "Se recomandă îmbrăcăminte stratificată pentru exterior.",
+              "Căutați cafenele care servesc ciocolată caldă cu churros."
+            ],
+            "en": [
+              "Castilian winters are dry but can be very cold.",
+              "The sun sets early, around 5:30 PM, so plan accordingly.",
+              "Wear thermal layers for extended time outdoors.",
+              "Find a cafe for 'Churros con Chocolate' to warm up."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +966,206 @@
           "Most central streets are flat, but Calle Mayor is pedestrianized, so you may need to dismount.",
           "Use the bike paths along the river for a safe and enjoyable ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig durch den morgendlichen Regen im Parque del Salón. Die historische Brücke Puente Mayor wirkt im Nebel besonders geheimnisvoll.\n\nNach einer Mittagspause in der Innenstadt führt der Weg zum Cristo del Otero. Der Aufstieg ist bei Regen fordernd, aber die Aussicht auf die glänzenden Dächer der Stadt belohnt jede Mühe.",
+            "hu": "Tekerjen óvatosan a reggeli esőben a Parque del Salón ösvényein. A Puente Mayor hídja titokzatosan fest a párás időben.\n\nA belvárosi ebédet követően irány a Cristo del Otero. Az esőben a felfelé út nehezebb, de a város fénylő háztetőinek látványa minden fáradozást megér.",
+            "ro": "Pedalați cu atenție prin ploaia de dimineață în Parque del Salón. Podul Puente Mayor arată misterios în condiții de umiditate.\n\nDupă prânzul în centrul orașului, traseul duce spre Cristo del Otero. Urcarea este mai grea pe ploaie, dar vederea acoperișurilor lucioase merită efortul.",
+            "en": "Cycle carefully through the morning rain in Parque del Salón. The historic Puente Mayor bridge looks mysterious in the misty weather.\n\nAfter lunch in the center, head towards Cristo del Otero. The climb is tougher in the rain, but the view of the city's glistening rooftops is worth the effort."
+          },
+          "stops": [
+            {
+              "name": "Parque del Salón de Isabel II",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Blättern auf den Wegen.",
+                "hu": "Vigyázzon a csúszós levelekre az utakon.",
+                "ro": "Atenție la frunzele alunecoase de pe alei.",
+                "en": "Watch out for slippery leaves on the paths."
+              }
+            },
+            {
+              "name": "Puente Mayor",
+              "tip_5lang": {
+                "de": "Halten Sie den Lenker bei Nässe fest umschlossen.",
+                "hu": "Vizes úton fogja szorosan a kormányt.",
+                "ro": "Țineți bine ghidonul pe asfalt umed.",
+                "en": "Keep a firm grip on the handlebars in the wet."
+              }
+            },
+            {
+              "name": "Calle Mayor",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad in den belebten Arkaden.",
+                "hu": "A zsúfolt árkádok alatt inkább tolja a biciklit.",
+                "ro": "Împingeți bicicleta sub arcadele aglomerate.",
+                "en": "It's better to push your bike under the busy arcades."
+              }
+            },
+            {
+              "name": "Cathedral of Palencia",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer in der Nähe des Eingangs.",
+                "hu": "Használja a bejárat közeli kerékpártárolókat.",
+                "ro": "Folosiți suporturile de biciclete de lângă intrare.",
+                "en": "Use the bike racks located near the entrance."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um die Kleidung zu trocknen.",
+                "hu": "Meleg hely, ahol megszáríthatja ruháit.",
+                "ro": "Un loc cald unde vă puteți usca hainele.",
+                "en": "A warm place to dry off your gear during lunch."
+              }
+            },
+            {
+              "name": "Cristo del Otero",
+              "tip_5lang": {
+                "de": "Der Aufstieg kann bei Regen rutschig sein.",
+                "hu": "Az emelkedő csúszós lehet esős időben.",
+                "ro": "Urcarea poate fi alunecoasă pe timp de ploaie.",
+                "en": "The uphill climb can be slippery in the rain."
+              }
+            },
+            {
+              "name": "Ride back along the river",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen am Uferweg.",
+                "hu": "Ügyeljen a tócsákra a folyóparti úton.",
+                "ro": "Atenție la bălțile de pe drumul de lângă râu.",
+                "en": "Watch out for puddles on the riverside path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt im Regen.",
+              "Tragen Sie eine reflektierende Regenjacke für Sichtbarkeit.",
+              "Vermeiden Sie abrupte Manöver auf nassem Kopfsteinpflaster.",
+              "Schutzbleche sind bei diesem Wetter unverzichtbar."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket az esős indulás előtt.",
+              "Viseljen fényvisszaverő esőkabátot a láthatóságért.",
+              "Kerülje a hirtelen fékezést a vizes macskakövön.",
+              "A sárvédő elengedhetetlen ilyen időben."
+            ],
+            "ro": [
+              "Verificați frânele înainte de plecare pe ploaie.",
+              "Purtați o jachetă reflectorizantă pentru vizibilitate.",
+              "Evitați manevrele bruște pe pavajul umed.",
+              "Apărătorile de noroi sunt indispensabile pe acest timp."
+            ],
+            "en": [
+              "Check your brakes before starting in the rain.",
+              "Wear a reflective raincoat for better visibility.",
+              "Avoid sharp turns on wet cobblestones.",
+              "Mudguards are essential for this kind of weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Morgenrunde durch den winterlichen Park. Die klare Luft bietet eine weite Sicht vom Puente Mayor über den Fluss.\n\nNach der mittäglichen Stärkung fordern die kalten Winde beim Aufstieg zum Cristo del Otero Ihre Ausdauer heraus. Die Belohnung ist ein spektakulärer Sonnenuntergang über der weiten kastilischen Hochebene.",
+            "hu": "Friss reggeli kör a téli parkban. A tiszta levegő messzi kilátást enged a Puente Mayortól a folyó felett.\n\nA déli pihenő után a hideg szél próbára teszi kitartását a Cristo del Otero felé. A jutalom egy látványos naplemente a tágas kasztíliai fennsík felett.",
+            "ro": "O tură matinală proaspătă prin parcul de iarnă. Aerul curat oferă o vizibilitate mare de pe Puente Mayor peste râu.\n\nDupă pauza de prânz, vânturile reci vă vor pune la încercare rezistența spre Cristo del Otero. Răsplata este un apus spectaculos peste platoul castilian.",
+            "en": "A fresh morning ride through the winter park. The clear air offers far-reaching views from Puente Mayor across the river.\n\nAfter a midday break, cold winds will test your endurance on the way to Cristo del Otero. The reward is a spectacular sunset over the vast Castilian plateau."
+          },
+          "stops": [
+            {
+              "name": "Parque del Salón de Isabel II",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Stellen am frühen Morgen.",
+                "hu": "Vigyázzon a fagyott foltokra kora reggel.",
+                "ro": "Atenție la porțiunile înghețate dimineața devreme.",
+                "en": "Watch out for icy patches early in the morning."
+              }
+            },
+            {
+              "name": "Puente Mayor",
+              "tip_5lang": {
+                "de": "Winddichte Kleidung ist hier am Fluss wichtig.",
+                "hu": "Szélálló ruházat fontos itt a folyóparton.",
+                "ro": "Hainele rezistente la vânt sunt importante aici.",
+                "en": "Windproof clothing is essential here by the river."
+              }
+            },
+            {
+              "name": "Calle Mayor",
+              "tip_5lang": {
+                "de": "Genießen Sie das bunte Treiben und die Winterbeleuchtung.",
+                "hu": "Élvezze a téli fényeket és a forgatagot.",
+                "ro": "Bucurați-vă de luminile de iarnă și de agitație.",
+                "en": "Enjoy the winter lights and the local bustle."
+              }
+            },
+            {
+              "name": "Cathedral of Palencia",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad windgeschützt an der Mauer.",
+                "hu": "Parkolja a kerékpárt szélvédett helyre a falnál.",
+                "ro": "Parcați bicicleta la adăpost de vânt lângă zid.",
+                "en": "Park your bike in a wind-sheltered spot by the wall."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände an einer Tasse Tee auf.",
+                "hu": "Melegítse fel kezeit egy forró teával.",
+                "ro": "Încălziți-vă mâinile cu o ceașcă de ceai.",
+                "en": "Warm up your hands with a hot cup of tea."
+              }
+            },
+            {
+              "name": "Cristo del Otero",
+              "tip_5lang": {
+                "de": "Es kann oben auf dem Hügel sehr windig sein.",
+                "hu": "A dombtetőn nagyon erős lehet a szél.",
+                "ro": "Poate fi foarte vântos sus pe deal.",
+                "en": "It can be extremely windy at the top of the hill."
+              }
+            },
+            {
+              "name": "Ride back along the river",
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht für die Rückfahrt.",
+                "hu": "Használja ki az utolsó fényeket a hazatéréshez.",
+                "ro": "Folosiți ultima lumină a zilei pentru întoarcere.",
+                "en": "Use the last bit of daylight for the ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Handschuhe, um die Finger beweglich zu halten.",
+              "Schützen Sie Ihr Gesicht vor dem beißenden Winterwind.",
+              "Planen Sie die Rückfahrt vor Sonnenuntergang (ca. 17:30).",
+              "Trinken Sie ausreichend, auch wenn es kalt ist."
+            ],
+            "hu": [
+              "Viseljen meleg kesztyűt a fékek biztonságos kezeléséhez.",
+              "Védje arcát a csípős téli széltől.",
+              "Tervezze a visszautat naplemente (kb. 17:30) elé.",
+              "Igyon elég folyadékot a hideg ellenére is."
+            ],
+            "ro": [
+              "Purtați mănuși groase pentru a putea acționa frânele.",
+              "Protejați-vă fața de vântul tăios de iarnă.",
+              "Planificați întoarcerea înainte de apus (aprox. 17:30).",
+              "Beți suficiente lichide, chiar dacă este frig."
+            ],
+            "en": [
+              "Wear warm gloves to keep your fingers nimble for braking.",
+              "Protect your face from the biting winter wind.",
+              "Plan your return before sunset (around 5:30 PM).",
+              "Stay hydrated, even when it's cold outside."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1522,188 @@
           "Driving in Palencia is easy, but be mindful of pedestrianized areas.",
           "The Cristo del Otero is best reached by car as it's on a hill."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie bequem am Cristo del Otero, wo Sie das Regenpanorama aus dem Auto genießen können. Danach bietet die Kathedrale ein trockenes kulturelles Erlebnis.\n\nDie Calle Mayor lädt unter ihren Arkaden zum Bummeln ein, während Ihr Auto sicher in der Nähe parkt. Der Tag endet am Flussufer, wo die Parksuche bei Regen oft entspannter ist.",
+            "hu": "Kezdjen kényelmesen a Cristo del Oterónál, ahonnan az autó védelméből csodálhatja az esős panorámát. Ezután a katedrális nyújt száraz kulturális élményt.\n\nA Calle Mayor árkádjai alatt hosszan sétálhat esernyő nélkül is. A nap a folyóparton zárul, ahol az esőben könnyebb parkolót találni a közeli látnivalókhoz.",
+            "ro": "Începeți confortabil la Cristo del Otero, admirând panorama ploioasă din mașină. Urmează Catedrala, oferind o experiență culturală la adăpost.\n\nCalle Mayor vă invită la o plimbare sub arcade, în timp ce mașina este parcată în siguranță. Ziua se încheie la malul râului, unde parcarea este mai accesibilă pe ploaie.",
+            "en": "Start comfortably at Cristo del Otero, admiring the rainy panorama from the shelter of your car. Next, the Cathedral offers a dry cultural experience.\n\nCalle Mayor invites you for a stroll under its arcades while your car is parked nearby. The day ends by the riverfront, where parking is often easier during rainy weather."
+          },
+          "stops": [
+            {
+              "name": "Cristo del Otero",
+              "tip_5lang": {
+                "de": "Gute Parkmöglichkeit direkt am Monument.",
+                "hu": "Közvetlen parkolási lehetőség az emlékműnél.",
+                "ro": "Parcare disponibilă chiar lângă monument.",
+                "en": "Parking is available right next to the monument."
+              }
+            },
+            {
+              "name": "Park and Walk to Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie ein Parkhaus, um im Trockenen auszusteigen.",
+                "hu": "Válasszon fedett parkolót a száraz kiszálláshoz.",
+                "ro": "Alegeți o parcare acoperită pentru a coborî la uscat.",
+                "en": "Choose a covered parking garage to stay dry."
+              }
+            },
+            {
+              "name": "Cathedral of Palencia",
+              "tip_5lang": {
+                "de": "Lassen Sie Schirme am Eingang abtropfen.",
+                "hu": "Hagyja az esernyőt a bejáratnál száradni.",
+                "ro": "Lăsați umbrelele la uscat la intrare.",
+                "en": "Leave your umbrella to drip dry at the entrance."
+              }
+            },
+            {
+              "name": "Calle Mayor",
+              "tip_5lang": {
+                "de": "Perfekt für Einkäufe ohne nass zu werden.",
+                "hu": "Tökéletes vásárláshoz anélkül, hogy megázna.",
+                "ro": "Perfect pentru cumpărături fără a vă uda.",
+                "en": "Perfect for shopping without getting wet."
+              }
+            },
+            {
+              "name": "Drive to the Riverfront",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht bei laufenden Scheibenwischern.",
+                "hu": "Élvezze a kilátást az ablaktörlők mögül.",
+                "ro": "Bucurați-vă de priveliște din spatele ștergătoarelor.",
+                "en": "Enjoy the view from behind the windshield wipers."
+              }
+            },
+            {
+              "name": "Parque del Salón and Puente Mayor",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Parkeingang.",
+                "hu": "Parkoljon közel a park bejáratához.",
+                "ro": "Parcați aproape de intrarea în parc.",
+                "en": "Park close to the park entrance to minimize walking."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Zufahrtsstraßen.",
+              "Nutzen Sie Parkhäuser im Zentrum für maximalen Komfort.",
+              "Halten Sie die Scheiben beschlagfrei für gute Sicht.",
+              "Ein Regenschirm im Auto ist für die kurzen Wege Gold wert."
+            ],
+            "hu": [
+              "Vigyázzon a felúszás veszélyére a bevezető utakon.",
+              "A központi parkolóházak kínálják a legnagyobb kényelmet.",
+              "Tartsa páramentesen a szélvédőt a jó kilátásért.",
+              "Egy esernyő az autóban aranyat ér a rövid távokra."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile de acces.",
+              "Parcările subterane din centru oferă confort maxim.",
+              "Păstrați parbrizul dezaburit pentru o vizibilitate bună.",
+              "O umbrelă în mașină este esențială pentru distanțele scurte."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the access roads.",
+              "Use central parking garages for maximum comfort.",
+              "Keep the windows defogged for clear visibility.",
+              "An umbrella in the car is invaluable for short walks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgendliche Fahrt zum Cristo del Otero mit Sitzheizung und Panoramablick. Danach geht es zum kulturellen Herz der Stadt, der Kathedrale.\n\nDie belebte Calle Mayor bietet im Winter ein festliches Flair. Zum Abschluss genießen Sie die stimmungsvolle Abenddämmerung am Flussufer, bevor es im warmen Auto zurückgeht.",
+            "hu": "Reggeli autózás a Cristo del Oteróhoz ülésfűtéssel és panorámával. Ezután a város kulturális szíve, a katedrális következik.\n\nA téli Calle Mayor hangulatos forgataga után a folyóparti alkonyatot csodálhatja meg, mielőtt visszatérne a fűtött autóba.",
+            "ro": "O plimbare matinală spre Cristo del Otero cu încălzire în scaune și panoramă. Urmează inima culturală a orașului, Catedrala.\n\nCalle Mayor oferă o atmosferă festivă iarna. Încheiați cu apusul de pe malul râului înainte de a reveni în mașina călduroasă.",
+            "en": "A morning drive to Cristo del Otero with seat heaters and panoramic views. Next, visit the cultural heart of the city, the Cathedral.\n\nIn winter, Calle Mayor has a festive flair. Finish your tour by enjoying the atmospheric sunset at the riverfront before returning to your warm car."
+          },
+          "stops": [
+            {
+              "name": "Cristo del Otero",
+              "tip_5lang": {
+                "de": "Vorsicht vor Reifglätte auf der Auffahrt.",
+                "hu": "Vigyázzon a dér okozta csúszósságra a felfelé úton.",
+                "ro": "Atenție la polei pe drumul de urcare.",
+                "en": "Watch out for frost or ice on the drive up."
+              }
+            },
+            {
+              "name": "Park and Walk to Center",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze sparen lange Fußwege in der Kälte.",
+                "hu": "A központi parkolás lerövidíti a hidegben való sétát.",
+                "ro": "Parcarea centrală reduce timpul de mers prin frig.",
+                "en": "Central parking saves you from long walks in the cold."
+              }
+            },
+            {
+              "name": "Cathedral of Palencia",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte lange.",
+                "hu": "A vastag falak sokáig tartják a hideget.",
+                "ro": "Zidurile groase rețin frigul mult timp.",
+                "en": "The thick walls keep the interior quite chilly."
+              }
+            },
+            {
+              "name": "Calle Mayor",
+              "tip_5lang": {
+                "de": "Ideal für einen winterlichen Stadtbummel.",
+                "hu": "Ideális egy téli városi sétához.",
+                "ro": "Ideal pentru o plimbare de iarnă prin oraș.",
+                "en": "Ideal for a festive winter city stroll."
+              }
+            },
+            {
+              "name": "Drive to the Riverfront",
+              "tip_5lang": {
+                "de": "Kurze Fahrt, um die Beine aufzuwärmen.",
+                "hu": "Rövid út, ami alatt felmelegítheti lábait.",
+                "ro": "O scurtă cursă pentru a vă încălzi picioarele.",
+                "en": "Short drive to warm up your legs between stops."
+              }
+            },
+            {
+              "name": "Parque del Salón and Puente Mayor",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Brücke kurz vor Sonnenuntergang.",
+                "hu": "Látogassa meg a hidat nem sokkal naplemente előtt.",
+                "ro": "Vizitați podul cu puțin timp înainte de apus.",
+                "en": "Visit the bridge shortly before the early sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Eiskratzer und Handschuhe sollten griffbereit sein.",
+              "Vorsicht bei Brücken, sie frieren zuerst ein.",
+              "Nutzen Sie die Heizung, um die Kleidung zwischen den Stopps zu trocknen."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Jégkaparó és kesztyű legyen kéznél.",
+              "Vigyázzon a hidakon, azok fagynak le először.",
+              "Használja a fűtést a ruhák szárítására a megállók között."
+            ],
+            "ro": [
+              "Verificați antigelul din lichidul de parbriz.",
+              "Racleta și mănușile trebuie să fie la îndemână.",
+              "Atenție la poduri, acestea îngheață primele.",
+              "Folosiți căldura pentru a vă usca hainele între opriri."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer fluid.",
+              "Keep an ice scraper and gloves handy in the car.",
+              "Be careful on bridges, as they tend to freeze first.",
+              "Use the car heater to dry your gear between stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2060,188 @@
           "Most central areas are walkable after you arrive by transit.",
           "Keep your ticket for the duration of your journey."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Busse, um trocken durch die Stadt zu kommen. Die Calle Mayor und die Kathedrale sind gut angebunden und bieten viel Schutz.\n\nNach einem warmen Mittagessen bringt Sie der Transit zum Cristo del Otero. Auch bei Regen ist die Busfahrt eine gute Gelegenheit, die Stadt gemütlich an sich vorbeiziehen zu lassen.",
+            "hu": "Használja a buszokat, hogy szárazon közlekedjen a városban. A Calle Mayor és a katedrális jól megközelíthető és fedett helyeket kínálnak.\n\nEgy meleg ebéd után a tömegközlekedés segít eljutni a Cristo del Oteróhoz. Az esőben a buszozás remek alkalom a városnézésre az ablak mögül.",
+            "ro": "Folosiți autobuzele pentru a traversa orașul fără a vă uda. Calle Mayor și Catedrala sunt bine conectate și oferă adăpost.\n\nDupă un prânz cald, transportul public vă duce la Cristo del Otero. Pe ploaie, călătoria cu autobuzul este o metodă relaxantă de a vedea orașul.",
+            "en": "Use the local buses to get around the city while staying dry. Calle Mayor and the Cathedral are well-connected and offer plenty of shelter.\n\nAfter a warm lunch, transit will take you towards Cristo del Otero. Even in the rain, a bus ride is a great way to see the city from behind the glass."
+          },
+          "stops": [
+            {
+              "name": "Start: Calle Mayor",
+              "tip_5lang": {
+                "de": "Zentrale Bushaltestellen sind oft überdacht.",
+                "hu": "A központi buszmegállók gyakran fedettek.",
+                "ro": "Stațiile de autobuz centrale sunt adesea acoperite.",
+                "en": "Central bus stops are often sheltered from the rain."
+              }
+            },
+            {
+              "name": "Cathedral of Palencia",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der nächsten Haltestelle.",
+                "hu": "Rövid séta a legközelebbi megállótól.",
+                "ro": "Drum scurt pe jos de la cea mai apropiată stație.",
+                "en": "Short walk from the nearest transit stop."
+              }
+            },
+            {
+              "name": "Transit to Cristo del Otero",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Buszeiten bei schlechtem Wetter.",
+                "hu": "Ellenőrizze a buszmenetrendet rossz időben.",
+                "ro": "Verificați orarul autobuzelor pe vreme rea.",
+                "en": "Check the bus schedule, as weather may cause delays."
+              }
+            },
+            {
+              "name": "Transit to Lunch in Center",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich während der Fahrt auf.",
+                "hu": "Melegedjen fel az utazás alatt.",
+                "ro": "Încălziți-vă în timpul călătoriei.",
+                "en": "Take the opportunity to warm up during the ride."
+              }
+            },
+            {
+              "name": "Church of San Miguel",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind nah an den historischen Toren.",
+                "hu": "A megállók közel vannak a történelmi kapukhoz.",
+                "ro": "Stațiile sunt aproape de porțile istorice.",
+                "en": "Stops are located near the historic city gates."
+              }
+            },
+            {
+              "name": "Parque del Salón de Isabel II",
+              "tip_5lang": {
+                "de": "Ein schöner Abschluss, wenn der Regen nachlässt.",
+                "hu": "Kellemes zárás, ha alábbhagy az eső.",
+                "ro": "Un final plăcut dacă ploaia se mai potolește.",
+                "en": "A nice finish if the rain starts to let up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld oder Ihre App bereit.",
+              "Warten Sie in nahegelegenen Geschäften auf den Bus.",
+              "Nutzen Sie die Zeit im Bus zum Planen der nächsten Stopps.",
+              "Einige Haltestellen haben digitale Anzeigen für die Wartezeit."
+            ],
+            "hu": [
+              "Készítse elő az aprópénzt vagy az alkalmazást.",
+              "Várja meg a buszt a közeli boltok védelmében.",
+              "Használja ki az utazási időt a következő lépések tervezésére.",
+              "Egyes megállókban digitális kijelző jelzi a várakozási időt."
+            ],
+            "ro": [
+              "Pregătiți mărunțișul sau aplicația de mobil.",
+              "Așteptați autobuzul în magazinele din apropiere.",
+              "Folosiți timpul din autobuz pentru a planifica următoarele opriri.",
+              "Unele stații au panouri digitale cu timpul de așteptare."
+            ],
+            "en": [
+              "Have your change or mobile app ready for the fare.",
+              "Wait for the bus inside nearby shops to stay dry.",
+              "Use the time on board to plan your next indoor stops.",
+              "Some stops feature digital displays with wait times."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Wintermorgen in der Calle Mayor und nutzen Sie die Busverbindungen zur Kathedrale. Die Wärme im Transit ist eine willkommene Abwechslung.\n\nDer Ausflug zum Cristo del Otero ist im Winter besonders beeindruckend. Beenden Sie den Tag im Parque del Salón, bevor die Kälte am Abend zu stark wird und der Bus Sie zurückbringt.",
+            "hu": "Kezdje a téli reggelt a Calle Mayoron, majd buszozzon a katedrálishoz. A tömegközlekedés melege kellemes felüdülést nyújt.\n\nA Cristo del Otero látogatása télen is lenyűgöző. Zárja a napot a Parque del Salónban, mielőtt az esti hideg felerősödne, és a busz visszavinné a szállására.",
+            "ro": "Începeți dimineața de iarnă pe Calle Mayor și luați autobuzul spre Catedrală. Căldura din transportul public este o schimbare binevenită.\n\nExcursia spre Cristo del Otero este impresionantă iarna. Încheiați ziua în Parque del Salón înainte ca frigul serii să devină prea pătrunzător.",
+            "en": "Start your winter morning on Calle Mayor and take the bus to the Cathedral. The warmth of the public transit is a welcome break from the cold.\n\nA winter trip to Cristo del Otero is truly impressive. End your day at Parque del Salón before the evening chill sets in and the bus takes you back."
+          },
+          "stops": [
+            {
+              "name": "Start: Calle Mayor",
+              "tip_5lang": {
+                "de": "Nutzen Sie die belebten Haltestellen im Zentrum.",
+                "hu": "Használja a forgalmas központi megállókat.",
+                "ro": "Folosiți stațiile centrale aglomerate.",
+                "en": "Use the busy central transit stops."
+              }
+            },
+            {
+              "name": "Cathedral of Palencia",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Winterfahrpläne.",
+                "hu": "Figyeljen a téli menetrendre.",
+                "ro": "Atenție la orarul de iarnă.",
+                "en": "Be aware of any winter schedule changes."
+              }
+            },
+            {
+              "name": "Transit to Cristo del Otero",
+              "tip_5lang": {
+                "de": "Der Bus spart Ihnen den kalten Aufstieg zu Fuß.",
+                "hu": "A busz megkíméli a hidegben való gyaloglástól.",
+                "ro": "Autobuzul vă scutește de urcarea prin frig.",
+                "en": "The bus saves you from a cold uphill walk."
+              }
+            },
+            {
+              "name": "Transit to Lunch in Center",
+              "tip_5lang": {
+                "de": "Genießen Sie die weihnachtliche Beleuchtung vom Fenster aus.",
+                "hu": "Élvezze az ünnepi fényeket az ablakból.",
+                "ro": "Bucurați-vă de luminile festive de la geam.",
+                "en": "Enjoy the festive lights from the bus window."
+              }
+            },
+            {
+              "name": "Church of San Miguel",
+              "tip_5lang": {
+                "de": "Haltestellen befinden sich in Gehnähe.",
+                "hu": "A megállók sétatávolságra vannak.",
+                "ro": "Stațiile sunt la mică distanță de mers pe jos.",
+                "en": "Transit stops are within easy walking distance."
+              }
+            },
+            {
+              "name": "Parque del Salón de Isabel II",
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der abendlichen Kälte.",
+                "hu": "Utolsó megálló az esti lehűlés előtt.",
+                "ro": "Ultima oprire înainte de răcirea serii.",
+                "en": "Last stop before the evening temperature drops."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter meist gut beheizt.",
+              "Planen Sie Umstiege so, dass Sie wenig Zeit im Freien verbringen.",
+              "Die App 'Palencia en Bus' hilft bei der Live-Verfolgung.",
+              "In der Dämmerung sind die Busse oft sehr voll."
+            ],
+            "hu": [
+              "A buszok télen általában jól fűtöttek.",
+              "Úgy tervezze az átszállást, hogy keveset kelljen kint várni.",
+              "A 'Palencia en Bus' alkalmazás segít a valós idejű követésben.",
+              "Szürkületkor a buszok gyakran zsúfoltak."
+            ],
+            "ro": [
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Planificați legăturile pentru a petrece puțin timp afară.",
+              "Aplicația 'Palencia en Bus' ajută la urmărirea în timp real.",
+              "La lăsarea serii, autobuzele sunt adesea aglomerate."
+            ],
+            "en": [
+              "Buses are generally well-heated during the winter months.",
+              "Plan your transfers to minimize time spent waiting outside.",
+              "The 'Palencia en Bus' app helps with real-time tracking.",
+              "Buses can be quite crowded during the early evening hours."
+            ]
+          }
+        }
       }
     }
   }

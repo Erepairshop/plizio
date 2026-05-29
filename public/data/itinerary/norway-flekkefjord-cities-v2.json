@@ -264,6 +264,196 @@
           "Check the museum's opening hours in advance.",
           "Binoculars are useful for bird watching at Grønnes Beach."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in der regnerischen Hollenderbyen, wo die weißen Holzhäuser im nassen Glanz erstrahlen. Mittags bieten die achteckige Kirche und das Museum trockenen Unterschlupf und tiefe Einblicke in die Lokalgeschichte. Der Nachmittagsspaziergang entlang der Flekkefjordbanen ist bei Regen besonders stimmungsvoll. Den Tag lassen wir gemütlich im Stadtzentrum bei regionalen Spezialitäten ausklingen.",
+            "hu": "A reggel az esős Hollenderbyen negyedben indul, ahol a fehér faházak különleges fényt kapnak a vizes aszfalton. Délben a nyolcszögletű templom és a múzeum nyújt menedéket a csapadék elől. Délután a Flekkefjordbanen sínpárjai mentén sétálva élvezhetjük a norvég táj komor szépségét. Az estét egy központi étteremben zárjuk, figyelve az ablakon kopogó esőt.",
+            "ro": "Dimineața începe în cartierul olandez ploios, unde casele albe de lemn strălucesc în reflexiile apei. La prânz, biserica octogonală și muzeul oferă un adăpost uscat și o incursiune în istoria locală. Plimbarea de după-amiază de-a lungul căii ferate Flekkefjordbanen are o atmosferă melancolică sub ploaie. Seara se încheie confortabil în centrul orașului, cu o cină caldă.",
+            "en": "Morning starts in the rainy Dutch Town, where white wooden houses gleam in the wet light. At noon, the octagonal church and the museum provide dry shelter and local history. The afternoon walk along the Flekkefjordbanen tracks is particularly atmospheric in the rain. We end the day comfortably in the center, enjoying the sound of rain from a cozy restaurant."
+          },
+          "stops": [
+            {
+              "name": "Hollenderbyen (the Dutch Town)",
+              "tip_5lang": {
+                "de": "Regenschirm fest halten, Windböen vom Fjord möglich.",
+                "hu": "Tartsa erősen az ernyőt, a fjord felől szél várható.",
+                "ro": "Țineți umbrela bine, pot apărea rafale de vânt.",
+                "en": "Hold your umbrella tight, wind gusts from the fjord are common."
+              }
+            },
+            {
+              "name": "Flekkefjord Church",
+              "tip_5lang": {
+                "de": "Trockener Ort, um die Holzarchitektur zu bewundern.",
+                "hu": "Száraz hely a faépítészet megcsodálására.",
+                "ro": "Loc uscat pentru a admira arhitectura din lemn.",
+                "en": "A dry place to admire the unique wooden architecture."
+              }
+            },
+            {
+              "name": "Flekkefjord Museum",
+              "tip_5lang": {
+                "de": "Perfekt für eine ausgiebige Regenpause.",
+                "hu": "Tökéletes helyszín egy hosszabb esőszünethez.",
+                "ro": "Locul perfect pentru o pauză lungă de ploaie.",
+                "en": "The perfect spot for an extended break from the rain."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Kleidung an der Garderobe trocknen lassen.",
+                "hu": "Használja a fogast a vizes kabátok szárításához.",
+                "ro": "Lăsați hainele la uscat pe cuier în timpul mesei.",
+                "en": "Let your wet coats dry on the rack while eating."
+              }
+            },
+            {
+              "name": "Walk along the Flekkefjordbanen",
+              "tip_5lang": {
+                "de": "Vorsicht, die Schienen sind bei Nässe extrem glatt.",
+                "hu": "Vigyázat, a sínek nedvesen rendkívül csúszósak.",
+                "ro": "Atenție, șinele sunt extrem de alunecoase pe ploaie.",
+                "en": "Caution, the rails are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Relaxing at Grønnes Beach",
+              "tip_5lang": {
+                "de": "Die überdachten Bänke nutzen.",
+                "hu": "Használja a fedett padokat a pihenéshez.",
+                "ro": "Folosiți băncile acoperite pentru odihnă.",
+                "en": "Use the covered benches for a quick rest."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Kopfsteinpflastergassen.",
+              "Ein stabiler Sturmschirm ist besser als ein Billigmodell.",
+              "Die meisten Cafés im Zentrum haben Garderoben für nasse Mäntel.",
+              "Nutzen Sie die Innenräume der Kirche für kurze Schauerpausen.",
+              "Planen Sie mehr Zeit für das Museum ein, wenn es stark regnet."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "Egy erős viharszernyő többet ér a fjordparti szélben.",
+              "A legtöbb belvárosi kávézóban van hely a vizes kabátoknak.",
+              "Használja a templom belső terét rövid esőszünetekre.",
+              "Heves esőzés esetén szánjon több időt a múzeumi kiállításokra."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "O umbrelă rezistentă la furtună este esențială lângă fjord.",
+              "Majoritatea cafenelelor au spații pentru haine ude.",
+              "Folosiți interiorul bisericii pentru pauze scurte de ploaie.",
+              "Alocați mai mult timp muzeului dacă plouă torențial."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "A sturdy storm umbrella is better than a cheap one near the fjord.",
+              "Most central cafes have racks for wet coats.",
+              "Use the church interior for short rain breaks.",
+              "Plan more time for the museum if the rain gets heavy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen hüllt die Hollenderbyen in frostiges Weiß, während das Licht in den Fenstern der Holzhäuser funkelt. Mittags wärmen wir uns im Museum und der geschützten Kirche auf, bevor die frühe Dämmerung einsetzt. Der Nachmittagsspaziergang an der Flekkefjordbanen bietet klare, kalte Luft und weite Ausblicke. Den Abend verbringen wir bei Kerzenschein in der warmen Atmosphäre der Stadt.",
+            "hu": "A téli reggel fagyos fehérbe öltözteti Hollenderbyen negyedét, a faházak ablakaiban fények gyúlnak. Délben a múzeum és a templom melegében pihenünk meg, mielőtt a korai szürkület leszállna. Délután a Flekkefjordbanen mentén a tiszta, hideg levegő és a távoli kilátás frissít fel. Az estét gyertyafényes, meleg hangulatban töltjük a város szívében.",
+            "ro": "Dimineața de iarnă îmbracă cartierul olandez în alb înghețat, iar luminile sclipesc la ferestre. La prânz, ne încălzim în muzeu și în biserica protejată, înainte de lăsarea serii timpurii. Plimbarea de după-amiază la Flekkefjordbanen oferă aer rece și curat și vederi largi. Seara se petrece la lumina lumânărilor în atmosfera caldă a orașului.",
+            "en": "The winter morning wraps the Dutch Town in frosty white, as lights sparkle in the windows. At noon, we warm up in the museum and the sheltered church before the early dusk sets in. The afternoon walk along Flekkefjordbanen offers crisp, cold air and wide views. We spend the evening in the warm atmosphere of the city center by candlelight."
+          },
+          "stops": [
+            {
+              "name": "Hollenderbyen (the Dutch Town)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf dem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a jeges foltokra a macskaköveken.",
+                "ro": "Atenție la polei pe străzile pietruite.",
+                "en": "Watch out for black ice on the cobblestones."
+              }
+            },
+            {
+              "name": "Flekkefjord Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort zum Aufwärmen und Besinnen.",
+                "hu": "Csendes hely a felmelegedésre és elmélyülésre.",
+                "ro": "Un loc liniștit pentru încălzire și reflecție.",
+                "en": "A quiet place to warm up and reflect."
+              }
+            },
+            {
+              "name": "Flekkefjord Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Innentemperatur.",
+                "hu": "Élvezze a belső tér kellemes melegét.",
+                "ro": "Bucurați-vă de temperatura plăcută din interior.",
+                "en": "Enjoy the cozy indoor temperature while exploring."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Bestellen Sie eine heiße Suppe zur Stärkung.",
+                "hu": "Rendeljen forró levest a felmelegedéshez.",
+                "ro": "Comandați o supă fierbinte pentru a vă încălzi.",
+                "en": "Order a hot soup to recharge and warm up."
+              }
+            },
+            {
+              "name": "Walk along the Flekkefjordbanen",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind für diesen Abschnitt nötig.",
+                "hu": "Meleg kesztyű szükséges erre a szakaszra.",
+                "ro": "Mănușile groase sunt necesare pentru această secțiune.",
+                "en": "Warm gloves are essential for this open section."
+              }
+            },
+            {
+              "name": "Relaxing at Grønnes Beach",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Wintersonne zu genießen.",
+                "hu": "Rövid megálló a téli napsütés élvezetéhez.",
+                "ro": "O oprire scurtă pentru a prinde soarele de iarnă.",
+                "en": "A short stop to catch the last rays of winter sun."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist im Winter Pflicht.",
+              "Die Sonne geht bereits gegen 15:45 Uhr unter.",
+              "Kopfsteinpflaster kann sehr rutschig sein, Spikes nutzen.",
+              "Suchen Sie regelmäßig beheizte Cafés auf.",
+              "Warme Getränke halten die Körpertemperatur stabil."
+            ],
+            "hu": [
+              "A réteges öltözködés kötelező a téli sétákhoz.",
+              "A nap már délután 15:45 körül lemegy.",
+              "A macskakő csúszós lehet, használjon cipőre húzható tüskét.",
+              "Tervezzen be rendszeres pihenőket fűtött kávézókban.",
+              "A forró italok segítenek megőrizni a testhőt."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este obligatorie iarna.",
+              "Soarele apune deja în jurul orei 15:45.",
+              "Pietrele pot fi alunecoase, folosiți crampoane pentru pantofi.",
+              "Vizitați regulat cafenelele încălzite.",
+              "Băuturile calde mențin temperatura corpului stabilă."
+            ],
+            "en": [
+              "Layered clothing is a must for winter walks.",
+              "The sun sets early, around 15:45 in mid-winter.",
+              "Cobblestones can be slippery, use shoe spikes if needed.",
+              "Plan regular breaks in heated indoor spaces.",
+              "Hot drinks help maintain your core temperature."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -538,6 +728,196 @@
           "Take water and snacks for the ride on the Flekkefjordbanen.",
           "The tunnels on the path can be dark, a light is recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radmorgen startet mit einer Tour durch die nassen Gassen der Hollenderbyen. Mittags flüchten wir vor den Schauern ins Museum und die schützende Kirche. Die Fahrt auf der Flekkefjordbanen erfordert am Nachmittag Konzentration auf dem rutschigen Untergrund. Der Tag endet mit einem kulturellen Besuch im Spira Kulturhaus, während draußen der Regen trommelt.",
+            "hu": "A bringás reggel Hollenderbyen vizes utcáin indul. Délben a múzeumban és a templomban keresünk menedéket a záporok elől. A Flekkefjordbanen útvonala délután nagyobb odafigyelést igényel a csúszós talaj miatt. A napot a Spira kultúrházban zárjuk, miközben kint kopog az eső.",
+            "ro": "Dimineața pe bicicletă începe pe străzile ude din Hollenderbyen. La prânz, ne refugiem în muzeu și biserică pentru a scăpa de averse. Traseul Flekkefjordbanen necesită concentrare după-amiaza din cauza terenului alunecos. Ziua se termină la casa de cultură Spira, în timp ce ploaia bate în geam.",
+            "en": "The cycling morning kicks off through the wet alleys of the Dutch Town. At noon, we shelter from showers in the museum and the protective church. The Flekkefjordbanen ride requires focus in the afternoon due to slippery ground. The day concludes with a cultural visit to Spira House while the rain pours outside."
+          },
+          "stops": [
+            {
+              "name": "Hollenderbyen",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassen Steinen.",
+                "hu": "Óvatosan fékezzen a vizes köveken.",
+                "ro": "Frânați cu grijă pe pietrele ude.",
+                "en": "Brake gently on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Flekkefjord Museum",
+              "tip_5lang": {
+                "de": "Fahrradständer im geschützten Bereich suchen.",
+                "hu": "Keressen fedett biciklitárolót a közelben.",
+                "ro": "Căutați un suport de biciclete într-o zonă protejată.",
+                "en": "Look for a bike rack in a sheltered area if possible."
+              }
+            },
+            {
+              "name": "Flekkefjord Church",
+              "tip_5lang": {
+                "de": "Kurze Pause, um die Regenjacke zu richten.",
+                "hu": "Rövid megálló az esővédő ruházat igazítására.",
+                "ro": "Pauză scurtă pentru a ajusta pelerina de ploaie.",
+                "en": "Short break to adjust your rain gear."
+              }
+            },
+            {
+              "name": "Flekkefjordbanen Cycle Path",
+              "tip_5lang": {
+                "de": "Schlammige Stellen auf dem Schotter umfahren.",
+                "hu": "Kerülje el a sáros részeket a murvás úton.",
+                "ro": "Evitați zonele noroioase de pe drumul cu pietriș.",
+                "en": "Avoid muddy patches on the gravel path."
+              }
+            },
+            {
+              "name": "Grønnes Park and Beach",
+              "tip_5lang": {
+                "de": "Die Wege können Pfützen bilden.",
+                "hu": "Az utakon nagyobb tócsák alakulhatnak ki.",
+                "ro": "Se pot forma bălți mari pe poteci.",
+                "en": "Expect large puddles on the park paths."
+              }
+            },
+            {
+              "name": "Spira Culture House",
+              "tip_5lang": {
+                "de": "Sicherer, trockener Ort für den Abschluss.",
+                "hu": "Biztonságos, száraz helyszín a nap végére.",
+                "ro": "Loc sigur și uscat pentru finalul zilei.",
+                "en": "A safe, dry indoor location to end your tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Regenhose nutzen.",
+              "Prüfen Sie Ihre Bremsen vor dem Start im Regen.",
+              "Nutzen Sie wasserdichte Packtaschen für Wertsachen.",
+              "Vermeiden Sie schnelle Kurvenfahrten auf nassem Asphalt.",
+              "Ein kleiner Abzieher für den Sattel ist sehr hilfreich."
+            ],
+            "hu": [
+              "Használjon teljes esővédő felszerelést nadrággal együtt.",
+              "Indulás előtt ellenőrizze a fékeket esős időben.",
+              "Használjon vízálló táskákat az értéktárgyaknak.",
+              "Kerülje a hirtelen kanyarodást a vizes aszfalton.",
+              "Egy kis gumi lehúzó a nyereghez nagyon hasznos lehet."
+            ],
+            "ro": [
+              "Folosiți echipament complet de ploaie, inclusiv pantaloni.",
+              "Verificați frânele înainte de a pleca pe ploaie.",
+              "Folosiți genți impermeabile pentru obiectele de valoare.",
+              "Evitați virajele bruște pe asfaltul ud.",
+              "O mică lamă de cauciuc pentru șa este foarte utilă."
+            ],
+            "en": [
+              "Wear full rain gear including waterproof trousers.",
+              "Check your brakes before starting in the rain.",
+              "Use waterproof panniers or bags for your valuables.",
+              "Avoid sharp turns on wet asphalt surfaces.",
+              "A small squeegee for the saddle is very helpful."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt uns morgens durch die frostige Hollenderbyen. Mittags bieten das Museum und die Kirche nötige Aufwärmpausen in der Kälte. Am Nachmittag radeln wir über die klaren Wege der Flekkefjordbanen, wobei wir auf Eisstellen achten müssen. Der Tag endet im warmen Spira Kulturhaus, bevor die Dunkelheit Flekkefjord vollständig einhüllt.",
+            "hu": "A téli biciklitúra reggel a fagyos Hollenderbyen negyeden vezet át. Délben a múzeumban és a templomban tartunk melegedő szünetet. Délután a Flekkefjordbanen tiszta útjain tekerünk, ügyelve a jeges szakaszokra. A nap a meleg Spira kultúrházban ér véget, mielőtt a sötétség teljesen benyelné Flekkefjordot.",
+            "ro": "Turul de iarnă cu bicicleta ne duce dimineața prin cartierul înghețat. La prânz, muzeul și biserica oferă pauzele de încălzire necesare. După-amiaza pedalăm pe traseele clare de la Flekkefjordbanen, atenți la porțiunile cu gheață. Ziua se termină la casa de cultură Spira, înainte ca întunericul să cuprindă orașul.",
+            "en": "The winter bike tour leads us through the frosty Dutch Town in the morning. At noon, the museum and church provide much-needed warm breaks. In the afternoon, we cycle the clear paths of Flekkefjordbanen, watching for icy spots. The day ends in the warm Spira Culture House before darkness fully envelops Flekkefjord."
+          },
+          "stops": [
+            {
+              "name": "Hollenderbyen",
+              "tip_5lang": {
+                "de": "Reifendruck leicht senken für mehr Grip.",
+                "hu": "Csökkentse kicsit a guminyomást a jobb tapadásért.",
+                "ro": "Reduceți ușor presiunea în pneuri pentru aderență.",
+                "en": "Lower tire pressure slightly for better grip on frost."
+              }
+            },
+            {
+              "name": "Flekkefjord Museum",
+              "tip_5lang": {
+                "de": "Hände an der Heizung im Foyer aufwärmen.",
+                "hu": "Melegítse fel kezeit a radiátornál az előtérben.",
+                "ro": "Încălziți-vă mâinile la caloriferul din hol.",
+                "en": "Warm your hands at the heater in the lobby."
+              }
+            },
+            {
+              "name": "Flekkefjord Church",
+              "tip_5lang": {
+                "de": "Besinnliche Pause im windgeschützten Innenraum.",
+                "hu": "Békés pihenő a szélvédett belső térben.",
+                "ro": "Pauză liniștită în interiorul ferit de vânt.",
+                "en": "Peaceful break in the wind-sheltered interior."
+              }
+            },
+            {
+              "name": "Flekkefjordbanen Cycle Path",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Pfützen auf dem Weg.",
+                "hu": "Vigyázzon a megfagyott tócsákra az úton.",
+                "ro": "Atenție la bălțile înghețate de pe drum.",
+                "en": "Watch out for frozen puddles on the path."
+              }
+            },
+            {
+              "name": "Grønnes Park and Beach",
+              "tip_5lang": {
+                "de": "Der Wind vom Fjord ist hier sehr beißend.",
+                "hu": "A fjord felől fújó szél itt nagyon metsző.",
+                "ro": "Vântul dinspre fjord este foarte tăios aici.",
+                "en": "The wind from the fjord can be very biting here."
+              }
+            },
+            {
+              "name": "Spira Culture House",
+              "tip_5lang": {
+                "de": "Idealer Ort, um auf das Abendlicht zu warten.",
+                "hu": "Ideális hely az esti fények megvárására.",
+                "ro": "Locul ideal pentru a aștepta luminile serii.",
+                "en": "Ideal place to wait for the evening lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Kleidung ist wichtiger als dicke Isolierung.",
+              "Nutzen Sie unbedingt Vorder- und Rücklicht ab 15 Uhr.",
+              "Tragen Sie warme Handschuhe und eine Mütze unter dem Helm.",
+              "Vermeiden Sie plötzliches Bremsen auf glatten Flächen.",
+              "Ein Thermosbecher mit Tee passt meist in den Flaschenhalter."
+            ],
+            "hu": [
+              "A szélálló ruházat fontosabb a vastag hőszigetelésnél.",
+              "15 óra után mindenképp használjon első-hátsó világítást.",
+              "Viseljen meleg kesztyűt és sisak alá való sapkát.",
+              "Kerülje a hirtelen fékezést a csúszós felületeken.",
+              "Egy termoszos bögre tea belefér a kulacstartóba."
+            ],
+            "ro": [
+              "Hainele rezistente la vânt sunt mai importante decât cele groase.",
+              "Folosiți lumini față-spate obligatoriu după ora 15:00.",
+              "Purtați mănuși groase și o căciulă sub cască.",
+              "Evitați frânarea bruscă pe suprafețele alunecoase.",
+              "O cană termos cu ceai încape de obicei în suportul de bidon."
+            ],
+            "en": [
+              "Windproof clothing is more important than thick insulation.",
+              "Use front and rear lights starting from 15:00.",
+              "Wear warm gloves and a thin hat under your helmet.",
+              "Avoid sudden braking on slippery or frosty surfaces.",
+              "A thermal mug with tea fits perfectly in the bottle holder."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -862,6 +1242,214 @@
           "The hike to Brufjellhålene is very slippery when wet and should be avoided.",
           "Fill up your car's fuel tank before leaving the town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour startet im regnerischen Stadtzentrum. Nach Besuchen der Kirche und des Museums fahren wir zu den Brufjellhålene, wobei die kurvige Küstenstraße bei Regen erhöhte Aufmerksamkeit erfordert. Ein spätes Mittagessen mit Blick auf die stürmische See stärkt uns für die Fahrt zur Insel Hidra. Am Abend kehren wir über die nassen Landstraßen sicher nach Flekkefjord zurück.",
+            "hu": "Az autós túra az esős városközpontban indul. A templom és a múzeum után a Brufjellhålene felé vesszük az irányt; a kanyargós parti út esőben fokozott figyelmet igényel. Egy késői ebéd a viharos tengerre nézve ad erőt a Hidra-szigeti kiránduláshoz. Este a vizes országutakon érünk vissza biztonságban Flekkefjordba.",
+            "ro": "Turul cu mașina începe în centrul orașului sub ploaie. După vizitarea bisericii și a muzeului, conducem spre Brufjellhålene; drumul de coastă necesită atenție sporită pe ploaie. Un prânz târziu cu vedere la marea agitată ne pregătește pentru insula Hidra. Seara revenim în siguranță la Flekkefjord pe drumurile ude.",
+            "en": "The car tour begins in the rainy city center. After visiting the church and museum, we drive towards Brufjellhålene; the winding coastal road requires extra focus in the rain. A late lunch with a view of the stormy sea prepares us for the Hidra Island trip. In the evening, we return safely to Flekkefjord via wet country roads."
+          },
+          "stops": [
+            {
+              "name": "Park and explore Hollenderbyen",
+              "tip_5lang": {
+                "de": "Parkplatz nah am Zentrum suchen.",
+                "hu": "Keressen parkolót közel a központhoz.",
+                "ro": "Căutați parcare aproape de centru.",
+                "en": "Find a parking spot close to the center."
+              }
+            },
+            {
+              "name": "Flekkefjord Church",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Auto zum Kircheneingang.",
+                "hu": "Rövid futás az autótól a templomig.",
+                "ro": "Sprint scurt de la mașină până la biserică.",
+                "en": "Short dash from the car to the church entrance."
+              }
+            },
+            {
+              "name": "Flekkefjord Museum",
+              "tip_5lang": {
+                "de": "Regenschirm im Auto griffbereit lassen.",
+                "hu": "Tartsa az esernyőt kéznél az autóban.",
+                "ro": "Țineți umbrela la îndemână în mașină.",
+                "en": "Keep your umbrella handy in the car door."
+              }
+            },
+            {
+              "name": "Drive to Brufjellhålene (Potholes)",
+              "tip_5lang": {
+                "de": "Wanderung bei Starkregen sehr rutschig.",
+                "hu": "A túraútvonal heves esőben nagyon csúszós.",
+                "ro": "Traseul este foarte alunecos pe ploaie torențială.",
+                "en": "The hiking trail is very slippery during heavy rain."
+              }
+            },
+            {
+              "name": "Late lunch with a view",
+              "tip_5lang": {
+                "de": "Fensterplatz für das Wellenschauspiel reservieren.",
+                "hu": "Foglaljon ablak melletti asztalt a hullámokhoz.",
+                "ro": "Rezervați masă la fereastră pentru spectacolul mării.",
+                "en": "Reserve a window seat to watch the waves."
+              }
+            },
+            {
+              "name": "Drive to Hidra Island (Ferry Port)",
+              "tip_5lang": {
+                "de": "Fährzeiten bei Sturm prüfen.",
+                "hu": "Viharos időben ellenőrizze a komp menetrendjét.",
+                "ro": "Verificați orarul feribotului pe timp de furtună.",
+                "en": "Check ferry schedules if conditions are stormy."
+              }
+            },
+            {
+              "name": "Return drive to Flekkefjord",
+              "tip_5lang": {
+                "de": "Vorsicht vor Aquaplaning auf der Rückfahrt.",
+                "hu": "Vigyázzon a vízenfutásra a visszaúton.",
+                "ro": "Atenție la acvaplanare pe drumul de întoarcere.",
+                "en": "Be careful of aquaplaning on the return drive."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Scheibenwischer einwandfrei funktionieren.",
+              "Halten Sie ausreichend Abstand auf den nassen Küstenstraßen.",
+              "Nutzen Sie das Abblendlicht auch tagsüber bei Regen.",
+              "Parken Sie auf befestigten Flächen, um Schlamm zu vermeiden.",
+              "Ein Handtuch im Auto ist praktisch für nasse Passagiere."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy az ablaktörlők jól működnek.",
+              "Tartson nagyobb követési távolságot a vizes parti utakon.",
+              "Használja a tompított fényszórót nappal is esőben.",
+              "Burkolt felületen parkoljon, hogy elkerülje a sarat.",
+              "Egy törölköző az autóban jól jöhet a vizes utasoknak."
+            ],
+            "ro": [
+              "Asigurați-vă că ștergătoarele funcționează corect.",
+              "Păstrați o distanță mai mare pe drumurile de coastă ude.",
+              "Folosiți faza scurtă și în timpul zilei pe ploaie.",
+              "Parcați pe suprafețe pavate pentru a evita noroiul.",
+              "Un prosop în mașină este util pentru pasagerii uzi."
+            ],
+            "en": [
+              "Ensure your windshield wipers are in good condition.",
+              "Keep a safe following distance on wet coastal roads.",
+              "Use dipped headlights even during the day in rain.",
+              "Park on paved surfaces to avoid muddy areas.",
+              "Keep a towel in the car for wet passengers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour führt uns morgens durch die glitzernde Hollenderbyen. Nach kulturellen Stopps fahren wir vorsichtig Richtung Brufjellhålene; die verschneite Landschaft ist beeindruckend, aber die Straßen können tückisch sein. Das Mittagessen genießen wir in einer warmen Stube mit Blick auf das winterliche Meer. Ein Besuch auf der Insel Hidra zeigt die raue Schönheit des Winters, bevor wir bei Dunkelheit zurückkehren.",
+            "hu": "A téli autós túra reggel a csillogó Hollenderbyen negyeden indul. A kulturális megállók után óvatosan hajtunk Brufjellhålene felé; a havas táj lenyűgöző, de az utak csalókák lehetnek. Az ebédet egy meleg étteremben költjük el, nézve a téli tengert. Hidra szigete a tél zord szépségét mutatja, mielőtt sötétben visszatérnénk.",
+            "ro": "Turul de iarnă cu mașina începe dimineața în cartierul sclipitor. După opririle culturale, conducem cu grijă spre Brufjellhålene; peisajul înzăpezit este impresionant, dar drumurile pot fi înșelătoare. Prânzul este servit într-un loc călduros cu vedere la marea de iarnă. Vizita pe insula Hidra arată frumusețea aspră a iernii.",
+            "en": "The winter car tour starts in the sparkling Dutch Town. After cultural stops, we drive carefully towards Brufjellhålene; the snowy landscape is impressive, but roads can be treacherous. We enjoy lunch in a warm room overlooking the winter sea. A visit to Hidra Island reveals winter's raw beauty before we return in the dark."
+          },
+          "stops": [
+            {
+              "name": "Park and explore Hollenderbyen",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einsteigen auf glatten Parkplätzen.",
+                "hu": "Vigyázzon a beszállásnál a csúszós parkolóban.",
+                "ro": "Atenție la urcarea în mașină în parcările înghețate.",
+                "en": "Be careful when getting in/out on icy parking lots."
+              }
+            },
+            {
+              "name": "Flekkefjord Church",
+              "tip_5lang": {
+                "de": "Die Heizung im Auto auf dem Weg warm halten.",
+                "hu": "Tartsa az autót melegen a rövid út alatt.",
+                "ro": "Mențineți căldura în mașină pe drumul scurt.",
+                "en": "Keep the car heater running during the short drives."
+              }
+            },
+            {
+              "name": "Flekkefjord Museum",
+              "tip_5lang": {
+                "de": "Scheiben während des Besuchs abdecken.",
+                "hu": "Takarja le a szélvédőt a látogatás alatt.",
+                "ro": "Acoperiți parbrizul în timpul vizitei.",
+                "en": "Cover your windshield during the visit if it snows."
+              }
+            },
+            {
+              "name": "Drive to Brufjellhålene (Potholes)",
+              "tip_5lang": {
+                "de": "Nur mit guten Winterreifen befahren.",
+                "hu": "Csak jó téli gumival vágjon neki az útnak.",
+                "ro": "Conduceți doar cu anvelope de iarnă bune.",
+                "en": "Drive here only with good winter tires."
+              }
+            },
+            {
+              "name": "Late lunch with a view",
+              "tip_5lang": {
+                "de": "Warmer Rückzugsort nach der kalten Fahrt.",
+                "hu": "Meleg menedék a hideg autózás után.",
+                "ro": "Un refugiu călduros după drumul rece.",
+                "en": "A warm sanctuary after the cold drive."
+              }
+            },
+            {
+              "name": "Drive to Hidra Island (Ferry Port)",
+              "tip_5lang": {
+                "de": "Rampe der Fähre kann vereist sein.",
+                "hu": "A komp rámpája jeges lehet.",
+                "ro": "Rampa feribotului poate fi înghețată.",
+                "en": "The ferry ramp can be icy; drive slowly."
+              }
+            },
+            {
+              "name": "Return drive to Flekkefjord",
+              "tip_5lang": {
+                "de": "Auf Wildwechsel in der Dämmerung achten.",
+                "hu": "Figyeljen a vadakra a szürkületi úton.",
+                "ro": "Atenție la animalele sălbatice în amurg.",
+                "en": "Watch out for wildlife during the dusk return."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Eiskratzer sind absolut notwendig.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Starten Sie früh, um die wenigen Tageslichtstunden zu nutzen.",
+              "Halten Sie eine warme Decke für Notfälle im Auto bereit.",
+              "Informieren Sie sich über aktuelle Straßensperrungen."
+            ],
+            "hu": [
+              "A téli gumi és a jégkaparó elengedhetetlen.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Induljon korán, hogy kihasználja a kevés nappali fényt.",
+              "Tartson egy meleg takarót az autóban vészhelyzetre.",
+              "Tájékozódjon az aktuális útlezárásokról."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și răzuitoarea de gheață sunt obligatorii.",
+              "Verificați antigelul în lichidul de parbriz.",
+              "Porniți devreme pentru a profita de puțina lumină a zilei.",
+              "Țineți o pătură caldă în mașină pentru urgențe.",
+              "Informați-vă despre drumurile eventual închise."
+            ],
+            "en": [
+              "Winter tires and an ice scraper are absolute necessities.",
+              "Check the anti-freeze levels in your washer fluid.",
+              "Start early to maximize the few daylight hours.",
+              "Keep a warm blanket in the car for emergencies.",
+              "Check for any local road closures due to snow."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1142,6 +1730,196 @@
           "Check the bus schedule online, as frequencies can vary.",
           "Have small change or a payment app ready for bus tickets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erkunden wir Flekkefjord bei Regenwetter. Morgens besuchen wir die Hollenderbyen, bevor uns der Transit zur schützenden Kirche und dem Museum bringt. Mittags nutzen wir den Bus für die Fahrt zum Grønnes Park, wo wir den Regen unter Bäumen beobachten. Den Nachmittag verbringen wir an der Flekkefjordbanen, bevor uns der Bus sicher zurück ins Zentrum bringt.",
+            "hu": "Busszal fedezzük fel Flekkefjordot esős időben. Reggel Hollenderbyen negyedét látogatjuk meg, majd a busz a templomhoz és a múzeumhoz visz. Délben a Grønnes parkba utazunk, ahol a fák alatt figyeljük az esőt. A délutánt a Flekkefjordbanen mentén töltjük, mielőtt a busz visszavisz a központba.",
+            "ro": "Explorăm Flekkefjord cu autobuzul pe timp de ploaie. Dimineața vizităm cartierul olandez, apoi tranzitul ne duce la biserică și muzeu. La prânz folosim autobuzul pentru Grønnes Park, unde privim ploaia de sub adăpost. După-amiaza o petrecem la Flekkefjordbanen înainte de întoarcerea în centru.",
+            "en": "We explore Flekkefjord by bus during rainy weather. In the morning we visit the Dutch Town, then transit takes us to the church and museum. At noon we take the bus to Grønnes Park, watching the rain from shelter. We spend the afternoon near Flekkefjordbanen before the bus returns us safely to the center."
+          },
+          "stops": [
+            {
+              "name": "Arrival in the center & Hollenderbyen",
+              "tip_5lang": {
+                "de": "Bushaltestelle hat oft ein Wartehäuschen.",
+                "hu": "A buszmegállóban általában van fedett váró.",
+                "ro": "Stația de autobuz are adesea un adăpost.",
+                "en": "The bus stop often has a small shelter."
+              }
+            },
+            {
+              "name": "Flekkefjord Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle zur Kirche.",
+                "hu": "Rövid gyalogút a megállótól a templomig.",
+                "ro": "Drum scurt pe jos de la stație la biserică.",
+                "en": "Short walk from the stop to the church."
+              }
+            },
+            {
+              "name": "Flekkefjord Museum",
+              "tip_5lang": {
+                "de": "Ideal, um die nächste Busverbindung abzuwarten.",
+                "hu": "Ideális hely a következő busz megvárására.",
+                "ro": "Loc ideal pentru a aștepta următoarea legătură.",
+                "en": "Ideal place to wait for your next bus connection."
+              }
+            },
+            {
+              "name": "Bus ride to Grønnes Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die trockene Fahrt im Bus.",
+                "hu": "Élvezze a száraz utazást a buszon.",
+                "ro": "Bucurați-vă de călătoria uscată cu autobuzul.",
+                "en": "Enjoy the dry ride inside the bus."
+              }
+            },
+            {
+              "name": "Bus ride to Flekkefjordbanen path",
+              "tip_5lang": {
+                "de": "Der Bus hält nah am Pfad-Einstieg.",
+                "hu": "A busz közel áll meg az ösvény kezdetéhez.",
+                "ro": "Autobuzul oprește aproape de intrarea pe potecă.",
+                "en": "The bus stops close to the start of the path."
+              }
+            },
+            {
+              "name": "Walk back to the center",
+              "tip_5lang": {
+                "de": "Durch das nasse Stadtzentrum schlendern.",
+                "hu": "Séta a vizes városközponton keresztül.",
+                "ro": "Plimbare prin centrul umed al orașului.",
+                "en": "Stroll back through the wet city center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeit-Businformationen.",
+              "Halten Sie Kleingeld oder eine Karte bereit.",
+              "Wartehäuschen bieten Schutz vor dem Wind.",
+              "Planen Sie Pufferzeiten für Umstiege bei Regen ein.",
+              "Trocknen Sie Ihren Schirm, bevor Sie den Bus betreten."
+            ],
+            "hu": [
+              "Használja az applikációt a valós idejű buszinfókhoz.",
+              "Készítsen be aprópénzt vagy bankkártyát.",
+              "A buszvárók védelmet nyújtanak a szél ellen.",
+              "Számoljon rá több időt az átszállásokra esőben.",
+              "Rázza le az ernyőt, mielőtt felszáll a buszra."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru informații în timp real.",
+              "Pregătiți mărunțiș sau un card bancar.",
+              "Adăposturile din stații oferă protecție contra vântului.",
+              "Alocați timp suplimentar pentru conexiuni pe ploaie.",
+              "Scuturați umbrela înainte de a urca în autobuz."
+            ],
+            "en": [
+              "Use the transit app for real-time bus tracking.",
+              "Have small change or a card ready for the fare.",
+              "Bus shelters provide good protection from the wind.",
+              "Allow extra time for transfers during heavy rain.",
+              "Shake your umbrella before entering the bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Bustour führt uns durch das verschneite Flekkefjord. Nach dem Besuch der Hollenderbyen bringen uns die beheizten Busse zu den kulturellen Highlights wie der Kirche und dem Museum. Die Fahrt zum winterlichen Grønnes Park bietet schöne Ausblicke auf den gefrorenen Fjord. Am späten Nachmittag erkunden wir die Flekkefjordbanen, bevor wir im Dunkeln zurückfahren.",
+            "hu": "A téli buszos túra a havas Flekkefjordba kalauzol. Hollenderbyen után fűtött buszok visznek a kulturális látnivalókhoz, mint a templom és a múzeum. A Grønnes park felé tartó út szép kilátást nyújt a fagyos fjorda. Késő délután a Flekkefjordbanent fedezzük fel, mielőtt sötétben visszaindulnánk.",
+            "ro": "Turul de iarnă cu autobuzul ne poartă prin Flekkefjordul înzăpezit. După vizitarea cartierului olandez, autobuzele încălzite ne duc la biserică și muzeu. Drumul spre Grønnes Park oferă vederi frumoase asupra fjordului înghețat. După-amiaza târziu explorăm Flekkefjordbanen înainte de întoarcere.",
+            "en": "The winter bus tour takes us through snowy Flekkefjord. After visiting the Dutch Town, heated buses carry us to cultural highlights like the church and museum. The ride to Grønnes Park offers beautiful views of the frozen fjord. In the late afternoon, we explore Flekkefjordbanen before returning in the dark."
+          },
+          "stops": [
+            {
+              "name": "Arrival in the center & Hollenderbyen",
+              "tip_5lang": {
+                "de": "Bushaltestellen können rutschig sein.",
+                "hu": "A buszmegállók padlója csúszós lehet.",
+                "ro": "Stațiile de autobuz pot fi alunecoase.",
+                "en": "Bus stops and platforms can be slippery."
+              }
+            },
+            {
+              "name": "Flekkefjord Church",
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine warme Pause.",
+                "hu": "A templom meleg pihenőt kínál.",
+                "ro": "Biserica oferă o pauză călduroasă.",
+                "en": "The church provides a warm indoor break."
+              }
+            },
+            {
+              "name": "Flekkefjord Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort zum Aufwärmen zwischen den Bussen.",
+                "hu": "Ideális hely a felmelegedésre két busz között.",
+                "ro": "Loc ideal pentru încălzire între două autobuze.",
+                "en": "Ideal place to warm up between bus connections."
+              }
+            },
+            {
+              "name": "Bus ride to Grønnes Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Winterfjord.",
+                "hu": "Élvezze a kilátást a téli fjorda.",
+                "ro": "Bucurați-vă de vederea spre fjordul înghețat.",
+                "en": "Enjoy the view of the winter fjord from the window."
+              }
+            },
+            {
+              "name": "Bus ride to Flekkefjordbanen path",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan vorab.",
+                "hu": "Ellenőrizze előre a téli menetrendet.",
+                "ro": "Verificați orarul de iarnă în prealabil.",
+                "en": "Check the winter schedule in advance."
+              }
+            },
+            {
+              "name": "Walk back to the center",
+              "tip_5lang": {
+                "de": "Rückweg im Schein der Straßenlaternen.",
+                "hu": "Visszaút az utcai lámpák fényében.",
+                "ro": "Întoarcere sub lumina felinarelor.",
+                "en": "Walk back under the glow of the streetlights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter meist gut beheizt.",
+              "Achten Sie auf mögliche Verspätungen durch Schnee.",
+              "Tragen Sie Reflektoren an der Kleidung beim Warten.",
+              "Die Fahrpläne können im Winter leicht variieren.",
+              "Nutzen Sie die Wärme im Bus, um die Füße aufzutauen."
+            ],
+            "hu": [
+              "A buszok télen általában jól fűtöttek.",
+              "Számítson a hó miatti esetleges késésekre.",
+              "Viseljen fényvisszaverőt várakozás közben.",
+              "A menetrend télen kismértékben eltérhet.",
+              "Használja ki a busz melegét a lábai felmelegítésére."
+            ],
+            "ro": [
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Așteptați-vă la posibile întârzieri din cauza zăpezii.",
+              "Purtați reflectorizante când așteptați în stație.",
+              "Orarele pot varia ușor în timpul iernii.",
+              "Folosiți căldura din autobuz pentru a vă dezmorți picioarele."
+            ],
+            "en": [
+              "Buses are usually well-heated during winter months.",
+              "Expect potential delays due to snowy road conditions.",
+              "Wear reflectors while waiting at the bus stop.",
+              "Bus schedules may vary slightly in winter.",
+              "Use the warmth of the bus to thaw out your feet."
+            ]
+          }
+        }
       }
     }
   }

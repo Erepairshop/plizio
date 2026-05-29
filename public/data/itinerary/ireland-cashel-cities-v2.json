@@ -422,6 +422,232 @@
           "Irish weather is unpredictable; bring a rain jacket, even on sunny days.",
           "Most attractions are close together; walking is the best way to explore Cashel."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt am Rock of Cashel, wo die tief hängenden Wolken den keltischen Ruinen eine mystische Atmosphäre verleihen. Zum Mittagessen bietet ein gemütliches Pub im Stadtzentrum den perfekten Schutz vor den atlantischen Schauern.\n\nAm Nachmittag erkunden wir das Cashel Folk Village, dessen überdachte Ausstellungen einen trockenen Einblick in die irische Geschichte ermöglichen. Der Tag endet mit einem Blick auf die Stadtmauern, während der Regen sanft auf das Kopfsteinpflaster trommelt.",
+            "hu": "Az esős reggel a Rock of Cashel szikláján indul, ahol a ködös romok és kelta keresztek között megelevenedik a történelem. Ebédidőben a városközpont egyik barátságos éttermében találunk menedéket a záporok elől.\n\nDélután a Folk Village fedett tárlatai kínálnak száraz és izgalmas programot a skanzen területén. A napot a városfalak melletti rövid sétával zárjuk, élvezve az ír táj jellegzetes, borongós hangulatát.",
+            "ro": "O dimineață ploioasă începe la Rock of Cashel, unde norii joși oferă o atmosferă mistică ruinelor celtice medievale. La prânz, un pub primitor din centrul orașului oferă refugiul perfect împotriva averselor atlantice.\n\nDupă-amiaza explorăm Cashel Folk Village, ale cărui expoziții acoperite permit o incursiune uscată în istoria irlandeză. Ziua se încheie cu o privire asupra zidurilor orașului, în timp ce ploaia cade ușor peste străzile vechi.",
+            "en": "A rainy morning begins at the Rock of Cashel, where low-hanging clouds lend a mystical atmosphere to the Celtic ruins. At lunch, a cozy town center pub provides the perfect refuge from the Atlantic showers.\n\nIn the afternoon, we explore the Cashel Folk Village, whose indoor exhibits offer a dry insight into Irish history. The day concludes with a view of the city walls as the rain drums softly on the cobblestone streets."
+          },
+          "stops": [
+            {
+              "name": "Rock of Cashel",
+              "tip_5lang": {
+                "de": "Die Steine sind bei Nässe rutschig; Vorsicht in der Kathedrale.",
+                "hu": "A kövek vizesen csúsznak; óvatosan közlekedjen a katedrálisban.",
+                "ro": "Pietrele sunt alunecoase când sunt ude; atenție în interiorul catedralei.",
+                "en": "Stones are slippery when wet; use caution inside the cathedral."
+              }
+            },
+            {
+              "name": "Hore Abbey",
+              "tip_5lang": {
+                "de": "Das Gelände ist oft schlammig; wasserfeste Schuhe sind hier Pflicht.",
+                "hu": "A terület gyakran sáros; ide vízálló lábbeli erősen ajánlott.",
+                "ro": "Terenul este adesea noroios; încălțămintea impermeabilă este obligatorie.",
+                "en": "The grounds are often muddy; waterproof footwear is essential here."
+              }
+            },
+            {
+              "name": "Brú Ború Cultural Centre",
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um sich bei einer Tasse Tee aufzuwärmen.",
+                "hu": "Kiváló hely, hogy egy csésze tea mellett felmelegedjünk.",
+                "ro": "Un loc excelent pentru a te încălzi cu o ceașcă de ceai.",
+                "en": "An excellent place to warm up with a cup of tea."
+              }
+            },
+            {
+              "name": "Lunch in Town",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
+                "hu": "Válasszunk olyan éttermet, ahol van hely a vizes kabátoknak.",
+                "ro": "Alegeți un restaurant cu spațiu pentru haine ude.",
+                "en": "Choose a restaurant with space for wet coats."
+              }
+            },
+            {
+              "name": "Cashel Folk Village",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kleinen Hütten als Unterstand zwischen den Schauern.",
+                "hu": "Használja a kis házikókat menedékként a záporok között.",
+                "ro": "Folosiți colibele mici ca adăpost între averse.",
+                "en": "Use the small huts as shelter between showers."
+              }
+            },
+            {
+              "name": "St. John the Baptist Cathedral",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Innenausstattung, während es draußen regnet.",
+                "hu": "Csodálja meg a belső teret, amíg odakint esik az eső.",
+                "ro": "Admirați interiorul în timp ce afară plouă.",
+                "en": "Admire the interior while it rains outside."
+              }
+            },
+            {
+              "name": "Cashel Palace",
+              "tip_5lang": {
+                "de": "Der Gartenbesuch ist kurz; genießen Sie den Blick aus dem Foyer.",
+                "hu": "A kerti látogatás legyen rövid; élvezze a kilátást az aulából.",
+                "ro": "Vizita la grădină va fi scurtă; admirați vederea din foaier.",
+                "en": "The garden visit will be brief; enjoy the view from the foyer."
+              }
+            },
+            {
+              "name": "City Walls of Cashel",
+              "tip_5lang": {
+                "de": "Ein kurzer, zügiger Gang entlang der alten Verteidigungsanlagen.",
+                "hu": "Gyors séta a régi védművek mentén a friss eső után.",
+                "ro": "O scurtă plimbare de-a lungul vechilor fortificații.",
+                "en": "A short, brisk walk along the old fortifications."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Investieren Sie in eine hochwertige, windfeste Regenjacke.",
+              "Tragen Sie Wanderschuhe mit gutem Grip für die Ruinen.",
+              "Die Gehwege in Cashel können bei Regen sehr glatt werden.",
+              "Besuchen Sie die Museen während der stärksten Regengüsse.",
+              "Ein Taschenregenschirm ist wegen des Windes oft unpraktisch."
+            ],
+            "hu": [
+              "Érdemes beruházni egy minőségi, szélálló esőkabátra.",
+              "Viseljen jó tapadású túracipőt a romok felfedezéséhez.",
+              "Cashel járdái esőben kifejezetten csúszóssá válhatnak.",
+              "A múzeumlátogatásokat időzítse a legerősebb záporok idejére.",
+              "Az összecsukható esernyő a szél miatt gyakran használhatatlan."
+            ],
+            "ro": [
+              "Investiți într-o jachetă de ploaie de calitate și rezistentă la vânt.",
+              "Purtați ghete de drumeție cu aderență bună pentru ruine.",
+              "Trotuarele din Cashel pot deveni foarte alunecoase pe ploaie.",
+              "Vizitați muzeele în timpul celor mai puternice averse.",
+              "O umbrelă pliabilă este adesea impracticabilă din cauza vântului."
+            ],
+            "en": [
+              "Invest in a high-quality, windproof rain jacket.",
+              "Wear hiking boots with good grip for exploring the ruins.",
+              "Footpaths in Cashel can become very slippery in the rain.",
+              "Schedule museum visits during the heaviest downpours.",
+              "A folding umbrella is often impractical due to the wind."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen am Rock of Cashel bietet klare Sicht über die Ebene von Tipperary. Der kalte Wind pfeift durch die alten Gemäuer, was den Besuch besonders authentisch macht. Mittags lockt die Wärme eines Kamins in einem lokalen Gasthaus.\n\nDer Nachmittag wird kürzer, daher nutzen wir das Tageslicht für das Folk Village und die Kathedrale. Sobald die Dämmerung gegen 16:30 Uhr einsetzt, tauchen die Lichter der Stadt Cashel die historischen Mauern in einen warmen, winterlichen Glanz.",
+            "hu": "A fagyos téli reggel a Rock of Cashel szikláján kristálytiszta kilátást nyújt Tipperary síkságára. A hideg szél süvítése az ódon falak között különleges, zord hangulatot teremt. Délben egy helyi vendéglő kandallójának melege hívogat minket.\n\nA délutánok rövidek, így a Folk Village és a katedrális megtekintésére használjuk ki a kevés fényt. Amint 16:30 körül leszáll az alkony, a város fényei meleg, téli ragyogásba vonják a történelmi falakat.",
+            "ro": "O dimineață geroasă de iarnă la Rock of Cashel oferă vederi clare peste câmpia Tipperary. Vântul rece care suflă prin vechile ziduri face vizita extrem de autentică. La prânz, căldura unui șemineu dintr-un han local este irezistibilă.\n\nDupă-amiaza este scurtă, așa că profităm de lumină pentru Folk Village și catedrală. Odată cu lăsarea serii, în jurul orei 16:30, luminile orașului scaldă zidurile istorice într-o strălucire caldă de iarnă.",
+            "en": "A frosty winter morning at the Rock of Cashel offers clear views across the Golden Vale. The cold wind whistling through the ancient stones makes the visit feel truly authentic. At lunch, the warmth of a fireplace in a local inn beckons.\n\nAfternoons are short, so we use the daylight for the Folk Village and the cathedral. As dusk falls around 4:30 PM, the lights of Cashel town bathe the historic walls in a warm, winter glow."
+          },
+          "stops": [
+            {
+              "name": "Rock of Cashel",
+              "tip_5lang": {
+                "de": "Tragen Sie Schal und Mütze; auf dem Hügel ist es sehr windig.",
+                "hu": "Viseljen sálat és sapkát; a dombtetőn nagyon fúj a szél.",
+                "ro": "Purtați fular și căciulă; este foarte vântos pe deal.",
+                "en": "Wear a scarf and hat; it is very windy on top of the hill."
+              }
+            },
+            {
+              "name": "Hore Abbey",
+              "tip_5lang": {
+                "de": "Das Gras kann gefroren sein; achten Sie auf glatte Stellen.",
+                "hu": "A fű deres és fagyott lehet; ügyeljen a csúszós részekre.",
+                "ro": "Iarba poate fi înghețată; atenție la porțiunile alunecoase.",
+                "en": "The grass may be frozen; watch out for slippery patches."
+              }
+            },
+            {
+              "name": "Brú Ború Cultural Centre",
+              "tip_5lang": {
+                "de": "Perfekt für eine Pause im Warmen vor dem Mittagessen.",
+                "hu": "Tökéletes hely egy kis melegedéshez ebéd előtt.",
+                "ro": "Perfect pentru o pauză la căldură înainte de prânz.",
+                "en": "Perfect for a warm break before lunch."
+              }
+            },
+            {
+              "name": "Lunch in Town",
+              "tip_5lang": {
+                "de": "Probieren Sie einen 'Irish Stew', um sich richtig aufzuwärmen.",
+                "hu": "Kóstoljon meg egy ír pörköltet, hogy alaposan felmelegedjen.",
+                "ro": "Încercați un 'Irish Stew' pentru a vă încălzi cu adevărat.",
+                "en": "Try an 'Irish Stew' to warm up properly."
+              }
+            },
+            {
+              "name": "Cashel Folk Village",
+              "tip_5lang": {
+                "de": "Beachten Sie die kürzeren Öffnungszeiten im Winter.",
+                "hu": "Ügyeljen a téli időszakban rövidebb nyitvatartásra.",
+                "ro": "Atenție la programul de funcționare mai scurt iarna.",
+                "en": "Note the shorter opening hours during winter."
+              }
+            },
+            {
+              "name": "St. John the Baptist Cathedral",
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort für eine besinnliche Winterpause.",
+                "hu": "Békés helyszín egy elmélyült téli pihenőhöz.",
+                "ro": "Un loc liniștit pentru o pauză de iarnă contemplativă.",
+                "en": "A peaceful spot for a contemplative winter break."
+              }
+            },
+            {
+              "name": "Cashel Palace",
+              "tip_5lang": {
+                "de": "Die Außenanlagen wirken im Winterfrost besonders edel.",
+                "hu": "A külső kertek a téli zúzmarában különösen elegánsak.",
+                "ro": "Grădinile exterioare arată deosebit de elegant în gerul iernii.",
+                "en": "The grounds look particularly elegant in the winter frost."
+              }
+            },
+            {
+              "name": "City Walls of Cashel",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 16:30 Uhr von hier.",
+                "hu": "Élvezze a naplementét innen 16:30 körül.",
+                "ro": "Admirați apusul de aici în jurul orei 16:30.",
+                "en": "Enjoy the sunset from here around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip mit Thermounterwäsche.",
+              "Die Sonne geht im Dezember bereits vor 17:00 Uhr unter.",
+              "Viele Sehenswürdigkeiten schließen im Winter früher (ca. 16:00 Uhr).",
+              "Heißer Whiskey oder Tee sind ideale Begleiter für den Tag.",
+              "Vorsicht vor 'Black Ice' auf den Nebenstraßen am Morgen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, használjon termikus aláöltözetet.",
+              "A nap decemberben már délután 5 előtt lemegy.",
+              "Sok látnivaló télen korábban, délután 4 körül bezár.",
+              "A forró whiskey vagy tea ideális kísérő a nap folyamán.",
+              "Reggelente vigyázzon a 'fekete jégre' a mellékutcákban."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, folosind lenjerie termică.",
+              "Soarele apune înainte de ora 17:00 în luna decembrie.",
+              "Multe obiective turistice se închid mai devreme iarna (aprox. 16:00).",
+              "Un whiskey fierbinte sau un ceai sunt ideale pe parcursul zilei.",
+              "Atenție la 'black ice' pe străzile secundare dimineața."
+            ],
+            "en": [
+              "Dress in layers using thermal underwear.",
+              "The sun sets before 5:00 PM in December.",
+              "Many attractions close earlier in winter (around 4:00 PM).",
+              "Hot whiskey or tea are ideal companions during the day.",
+              "Watch out for 'black ice' on side streets in the morning."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -822,6 +1048,232 @@
           "Be cautious on the roads as they can be narrow and shared with tour buses.",
           "Bring a good lock to secure your bike."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz des Regens bietet die Radtour durch Cashel eine erfrischende Perspektive auf die sattgrüne irische Landschaft. Wir starten am Rock, wo der Wind die Regentropfen über die Zinnen peitscht. Mittags parken wir die Räder und wärmen uns in der Stadt auf.\n\nAm Nachmittag radeln wir vorsichtig zum Folk Village und zur Kathedrale, wobei wir die glatten Oberflächen meiden. Der Tag endet mit einer kurzen Fahrt entlang der Stadtmauern, bevor wir die Fahrräder zurückgeben und uns in trockene Kleidung stürzen.",
+            "hu": "Az eső ellenére a kerékpározás Cashelben frissítő élményt nyújt az élénkzöld ír tájon. A sziklánál kezdünk, ahol a szél az esőcseppeket a várfalakhoz vágja. Délben leparkoljuk a bicikliket és a városban melegszünk fel.\n\nDélután óvatosan tekerünk a Folk Village és a katedrális felé, kerülve a csúszós felületeket. A napot a városfalak mentén tett rövid gurulással zárjuk, mielőtt visszaadjuk a bringákat és száraz ruhába bújnunk.",
+            "ro": "În ciuda ploii, turul cu bicicleta prin Cashel oferă o perspectivă revigorantă asupra peisajului irlandez verde crud. Începem la Rock, unde vântul izbește picăturile de ploaie de creneluri. La prânz parcăm bicicletele și ne încălzim în oraș.\n\nDupă-amiaza pedalăm cu atenție spre Folk Village și catedrală, evitând suprafețele alunecoase. Ziua se încheie cu o scurtă plimbare pe lângă ziduri, înainte de a returna bicicletele și a ne schimba în haine uscate.",
+            "en": "Despite the rain, cycling through Cashel offers a refreshing perspective on the lush green Irish landscape. We start at the Rock, where the wind whips raindrops against the battlements. At lunch, we park the bikes and warm up in town.\n\nIn the afternoon, we cycle carefully toward the Folk Village and the cathedral, avoiding slippery surfaces. The day ends with a quick roll along the city walls before returning the bikes and changing into dry clothes."
+          },
+          "stops": [
+            {
+              "name": "Rock of Cashel",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unten; der Hügel ist zu Fuß besser zu erkunden.",
+                "hu": "Parkoljon lent; a dombot gyalogosan könnyebb felfedezni.",
+                "ro": "Parcați bicicleta jos; dealul este mai ușor de explorat la pas.",
+                "en": "Park your bike at the bottom; the hill is better explored on foot."
+              }
+            },
+            {
+              "name": "Hore Abbey",
+              "tip_5lang": {
+                "de": "Achten Sie auf nassen Untergrund beim Abstellen der Fahrräder.",
+                "hu": "Ügyeljen a nedves talajra a biciklik leállításakor.",
+                "ro": "Atenție la solul umed când parcați bicicletele.",
+                "en": "Watch out for wet ground when parking the bikes."
+              }
+            },
+            {
+              "name": "Brú Ború Cultural Centre",
+              "tip_5lang": {
+                "de": "Stellen Sie die Räder unter das Vordach, falls möglich.",
+                "hu": "Ha lehetséges, állítsa a bicikliket az előtető alá.",
+                "ro": "Dacă este posibil, lăsați bicicletele sub streașină.",
+                "en": "Park the bikes under the overhang if possible."
+              }
+            },
+            {
+              "name": "Lunch in Town",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz, an dem Sie Ihr nasses Equipment ablegen können.",
+                "hu": "Keressen olyan helyet, ahol lepakolhatja a vizes felszerelést.",
+                "ro": "Căutați un loc unde să vă puteți lăsa echipamentul ud.",
+                "en": "Find a place where you can stash your wet gear."
+              }
+            },
+            {
+              "name": "Cashel Folk Village",
+              "tip_5lang": {
+                "de": "Gute Fahrradständer sind am Eingang vorhanden.",
+                "hu": "A bejáratnál jó minőségű kerékpártárolók találhatók.",
+                "ro": "Sunt disponibile rastele bune de biciclete la intrare.",
+                "en": "Good bike racks are available at the entrance."
+              }
+            },
+            {
+              "name": "St. John the Baptist Cathedral",
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig auf dem nassen Asphalt davor.",
+                "hu": "Fékezzen időben a templom előtti nedves aszfalton.",
+                "ro": "Frânați din timp pe asfaltul umed din față.",
+                "en": "Brake early on the wet asphalt in front."
+              }
+            },
+            {
+              "name": "Cashel Palace",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem gepflasterten Zufahrtsweg.",
+                "hu": "Hajtson lassan a kövezett bejárati úton.",
+                "ro": "Mergeți încet pe drumul de acces pietruit.",
+                "en": "Ride slowly on the cobbled access path."
+              }
+            },
+            {
+              "name": "City Walls of Cashel",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen, die tiefe Schlaglöcher verbergen könnten.",
+                "hu": "Vigyázzon a tócsákkal, amik mély kátyúkat rejthetnek.",
+                "ro": "Atenție la bălțile care pot ascunde gropi adânci.",
+                "en": "Watch out for puddles that might hide deep potholes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie wasserdichte Packtaschen für Ihre Wertsachen.",
+              "Vermeiden Sie scharfes Bremsen auf nassem Kopfsteinpflaster.",
+              "Tragen Sie eine neonfarbene Regenjacke für bessere Sichtbarkeit.",
+              "Prüfen Sie den Reifendruck; etwas weniger bietet mehr Grip.",
+              "Schutzbleche sind bei diesem Wetter unverzichtbar."
+            ],
+            "hu": [
+              "Használjon vízálló táskákat az értéktárgyaihoz.",
+              "Kerülje az erős fékezést a nedves macskakövön.",
+              "Viseljen élénk színű esőkabátot a jobb láthatóságért.",
+              "Ellenőrizze a guminyomást; a puhább gumi jobban tapad.",
+              "A sárvédő elengedhetetlen ilyen időben."
+            ],
+            "ro": [
+              "Folosiți genți impermeabile pentru obiectele de valoare.",
+              "Evitați frânarea bruscă pe pavajul umed.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate.",
+              "Verificați presiunea roților; o presiune mai mică oferă aderență.",
+              "Aripile de protecție sunt indispensabile pe această vreme."
+            ],
+            "en": [
+              "Use waterproof panniers for your valuables.",
+              "Avoid sharp braking on wet cobblestones.",
+              "Wear a neon rain jacket for better visibility.",
+              "Check tire pressure; slightly lower pressure offers more grip.",
+              "Mudguards are essential in this weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Cashel erfordert warme Handschuhe und eine gute Planung. Der Morgen am Rock ist eiskalt, aber die klare Luft lässt die Aussicht bis zu den Galtee Mountains reichen. Mittags suchen wir ein warmes Café in der Main Street auf.\n\nDer Nachmittag führt uns zügig zum Folk Village, um die Kälte durch Bewegung zu vertreiben. Wir beenden die Tour rechtzeitig vor Einbruch der Dunkelheit, wenn der Frost beginnt, die Wiesen um die Stadtmauern weiß zu färben.",
+            "hu": "A téli kerékpározás Cashelben meleg kesztyűt és jó tervezést igényel. A reggel a sziklánál jéghideg, de a tiszta levegőben ellátni egészen a Galtee-hegységig. Délben a Main Street egyik meleg kávézójában pihenünk meg.\n\nDélután tempósan tekerünk a Folk Village felé, hogy a mozgással elűzzük a hideget. A túrát még sötétedés előtt befejezzük, amikor a dér elkezdi fehérre festeni a városfalak körüli réteket.",
+            "ro": "Mersul cu bicicleta iarna în Cashel necesită mănuși groase și planificare. Dimineața la Rock este geroasă, dar aerul curat permite o vizibilitate până la munții Galtee. La prânz căutăm o cafenea caldă pe Main Street.\n\nDupă-amiaza pedalăm rapid spre Folk Village pentru a alunga frigul prin mișcare. Încheiem turul la timp înainte de lăsarea întunericului, când înghețul începe să albească pajiștile de lângă ziduri.",
+            "en": "Winter cycling in Cashel requires warm gloves and careful planning. The morning at the Rock is freezing, but the crisp air reveals views as far as the Galtee Mountains. At lunch, we find a warm café on Main Street.\n\nIn the afternoon, we pedal briskly toward the Folk Village to keep warm through movement. we finish the tour well before dark, just as the frost begins to whiten the meadows surrounding the city walls."
+          },
+          "stops": [
+            {
+              "name": "Rock of Cashel",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem steilen Weg nach oben.",
+                "hu": "Vigyázzon a jegesedésre a felfelé vezető meredek úton.",
+                "ro": "Atenție la polei pe drumul abrupt spre vârf.",
+                "en": "Watch out for black ice on the steep path up."
+              }
+            },
+            {
+              "name": "Hore Abbey",
+              "tip_5lang": {
+                "de": "Der Boden kann tiefgefroren und sehr uneben sein.",
+                "hu": "A talaj mélyen átfagyott és egyenetlen lehet.",
+                "ro": "Solul poate fi înghețat bocnă și foarte denivelat.",
+                "en": "The ground can be frozen solid and very uneven."
+              }
+            },
+            {
+              "name": "Brú Ború Cultural Centre",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Hände wieder aufzuwärmen.",
+                "hu": "Ideális hely a kezek felmelegítésére.",
+                "ro": "Un loc ideal pentru a vă reîncălzi mâinile.",
+                "en": "An ideal spot to warm up your hands."
+              }
+            },
+            {
+              "name": "Lunch in Town",
+              "tip_5lang": {
+                "de": "Parken Sie die Räder an einem gut sichtbaren, beleuchteten Ort.",
+                "hu": "Parkolja a bicikliket jól látható, kivilágított helyen.",
+                "ro": "Parcați bicicletele într-un loc bine luminat și vizibil.",
+                "en": "Park the bikes in a well-lit, visible spot."
+              }
+            },
+            {
+              "name": "Cashel Folk Village",
+              "tip_5lang": {
+                "de": "Bewegung im Freien hilft gegen die Kälte.",
+                "hu": "A szabadtéri mozgás segít a hideg ellen.",
+                "ro": "Mișcarea în aer liber ajută împotriva frigului.",
+                "en": "Moving around outdoors helps fight off the cold."
+              }
+            },
+            {
+              "name": "St. John the Baptist Cathedral",
+              "tip_5lang": {
+                "de": "Die Kirche bietet Schutz vor dem beißenden Wind.",
+                "hu": "A templom védelmet nyújt a metsző szél ellen.",
+                "ro": "Biserica oferă protecție împotriva vântului tăios.",
+                "en": "The church provides protection from the biting wind."
+              }
+            },
+            {
+              "name": "Cashel Palace",
+              "tip_5lang": {
+                "de": "Die kahlen Bäume geben den Blick auf die Architektur frei.",
+                "hu": "A kopasz fák között jobban látszik az épület szerkezete.",
+                "ro": "Copacii desfrunziți permit o vedere mai bună asupra arhitecturii.",
+                "en": "The bare trees allow for a clearer view of the architecture."
+              }
+            },
+            {
+              "name": "City Walls of Cashel",
+              "tip_5lang": {
+                "de": "Sorgen Sie für funktionierendes Licht am Fahrrad für den Rückweg.",
+                "hu": "Gondoskodjon a működő lámpákról a visszaúthoz.",
+                "ro": "Asigurați-vă că aveți lumini funcționale pentru drumul de întoarcere.",
+                "en": "Ensure you have working lights for the ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Achten Sie auf die frühe Dämmerung ab 16:00 Uhr.",
+              "Vermeiden Sie schattige Waldwege wegen möglicher Glätte.",
+              "Nehmen Sie eine Thermoskanne mit einem Heißgetränk mit.",
+              "Überprüfen Sie vor der Abfahrt die Bremsbeläge auf Frost."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és vékony sapkát a sisak alatt.",
+              "Ügyeljen a korai sötétedésre már délután 4-től.",
+              "Kerülje az árnyékos utakat az esetleges jegesedés miatt.",
+              "Vigyen magával termoszt forró itallal.",
+              "Indulás előtt ellenőrizze a fékbetéteket, nem fagytak-e le."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Atenție la lăsarea serii încă de la ora 16:00.",
+              "Evitați drumurile umbrite din cauza riscului de polei.",
+              "Luați un termos cu o băutură caldă la voi.",
+              "Verificați saboții de frână înainte de plecare."
+            ],
+            "en": [
+              "Wear windproof gloves and a thin hat under your helmet.",
+              "Be mindful of early sunset starting from 4:00 PM.",
+              "Avoid shaded paths due to potential icy patches.",
+              "Carry a thermos with a hot drink.",
+              "Check brake pads for frost before starting your ride."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1198,6 +1650,214 @@
           "Parking can be a challenge in the town centre; use the designated car parks.",
           "Be aware that some country roads can be very narrow."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Cashel auch bei Regen bequem zu erkunden. Wir parken direkt am Rock, wo die Scheibenwischer kaum gegen die Fluten ankommen. Mittags bietet der Parkplatz im Zentrum schnellen Zugang zu den trockenen Restaurants der Stadt.\n\nAm Nachmittag fahren wir zum Folk Village, bevor wir einen Abstecher zu einem Aussichtspunkt im Umland machen. Die irische Landschaft wirkt im Regen besonders dramatisch, und wir genießen den Komfort des warmen Fahrzeugs zwischen den Stationen.",
+            "hu": "Autóval Cashel esőben is kényelmesen felfedezhető. Közvetlenül a sziklánál parkolunk, ahol az ablaktörlők alig bírják a víztömeget. Ebédidőben a központi parkolóból gyorsan elérjük a város száraz éttermeit.\n\nDélután a Folk Village felé vesszük az irányt, majd teszünk egy kitérőt a környék egyik kilátópontjához. Az ír táj esőben kifejezetten drámai, mi pedig élvezzük a meleg autó kényelmét a megállók között.",
+            "ro": "Cu mașina, Cashel este ușor de explorat chiar și pe ploaie. Parcăm direct la Rock, unde ștergătoarele abia fac față potopului. La prânz, parcarea centrală oferă acces rapid la restaurantele primitoare din oraș.\n\nDupă-amiaza conducem spre Folk Village, apoi facem o scurtă excursie la un punct de belvedere din apropiere. Peisajul irlandez pare dramatic pe ploaie, iar noi ne bucurăm de confortul mașinii calde între opriri.",
+            "en": "By car, Cashel is comfortable to explore even in the rain. We park right at the Rock, where wipers struggle against the downpour. At lunch, the central car park offers quick access to the town's dry restaurants.\n\nIn the afternoon, we drive to the Folk Village before taking a detour to a countryside viewpoint. The Irish landscape looks particularly dramatic in the rain, and we enjoy the comfort of a warm vehicle between stops."
+          },
+          "stops": [
+            {
+              "name": "Rock of Cashel Car Park",
+              "tip_5lang": {
+                "de": "Halten Sie Kleingeld oder eine Karte für die Parkgebühr bereit.",
+                "hu": "Készítsen össze aprópénzt vagy kártyát a parkolási díjhoz.",
+                "ro": "Pregătiți mărunțiș sau cardul pentru taxa de parcare.",
+                "en": "Have coins or a card ready for the parking fee."
+              }
+            },
+            {
+              "name": "Rock of Cashel",
+              "tip_5lang": {
+                "de": "Ein Regenschirm ist auf dem kurzen Weg vom Auto nützlich.",
+                "hu": "Egy esernyő hasznos lesz az autótól való rövid úton.",
+                "ro": "O umbrelă va fi utilă pe drumul scurt de la mașină.",
+                "en": "An umbrella will be useful for the short walk from the car."
+              }
+            },
+            {
+              "name": "Hore Abbey",
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig am Straßenrand; der Boden weicht auf.",
+                "hu": "Parkoljon óvatosan az út szélén; a talaj felázhat.",
+                "ro": "Parcați cu atenție pe marginea drumului; solul este moale.",
+                "en": "Park carefully on the roadside; the ground may be soft."
+              }
+            },
+            {
+              "name": "Town Centre Car Park",
+              "tip_5lang": {
+                "de": "Zentraler Ausgangspunkt für den trockenen Gang zum Restaurant.",
+                "hu": "Központi kiindulópont a száraz étterembe jutáshoz.",
+                "ro": "Punct de plecare central pentru a ajunge uscat la restaurant.",
+                "en": "Central starting point for a dry walk to the restaurant."
+              }
+            },
+            {
+              "name": "Lunch and Town Exploration",
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Regenschirme im Auto, wenn möglich.",
+                "hu": "Hagyja a vizes esernyőket az autóban, ha megoldható.",
+                "ro": "Lăsați umbrelele ude în mașină, dacă este posibil.",
+                "en": "Leave wet umbrellas in the car if possible."
+              }
+            },
+            {
+              "name": "Cashel Folk Village",
+              "tip_5lang": {
+                "de": "Parkplätze befinden sich in unmittelbarer Nähe zum Eingang.",
+                "hu": "Parkolóhelyek közvetlenül a bejárat mellett találhatók.",
+                "ro": "Locuri de parcare disponibile chiar lângă intrare.",
+                "en": "Parking spaces are available right next to the entrance."
+              }
+            },
+            {
+              "name": "Countryside Viewpoint",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick sicher aus dem warmen Auto heraus.",
+                "hu": "Élvezze a kilátást biztonságban, a meleg autóból.",
+                "ro": "Admirați vederea în siguranță din mașina caldă.",
+                "en": "Enjoy the view safely from inside the warm car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den schmalen Landstraßen.",
+              "Halten Sie ein Handtuch im Auto bereit, um sich abzutrocknen.",
+              "Die Parkplätze am Rock können bei starkem Regen matschig sein.",
+              "Nutzen Sie die Sitzheizung, um nach den Besichtigungen aufzuwärmen.",
+              "Vermeiden Sie das Parken unter Bäumen bei starkem Wind."
+            ],
+            "hu": [
+              "Ügyeljen a vízátfolyásokra a keskeny vidéki utakon.",
+              "Tartson egy törölközőt az autóban a szárazra törléshez.",
+              "A sziklánál lévő parkoló nagy esőben sáros lehet.",
+              "Használja az ülésfűtést a városnézések utáni melegedéshez.",
+              "Erős szélben kerülje a fák alatti parkolást."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile rurale înguste.",
+              "Țineți un prosop în mașină pentru a vă șterge.",
+              "Parcările de la Rock pot fi noroioase pe ploaie puternică.",
+              "Folosiți încălzirea în scaune pentru a vă încălzi după vizite.",
+              "Evitați parcarea sub copaci în caz de vânt puternic."
+            ],
+            "en": [
+              "Watch out for aquaplaning on narrow country roads.",
+              "Keep a towel in the car to dry off after stops.",
+              "The car parks at the Rock can be muddy during heavy rain.",
+              "Use seat heaters to warm up after sightseeing.",
+              "Avoid parking under trees during strong winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Autofahrten rund um Cashel bieten spektakuläre Aussichten auf frostige Felder. Am Rock begrüßt uns eine kühle Brise, die wir schnell wieder gegen die Heizung im Auto tauschen. Zum Mittagessen steuern wir gezielt das Zentrum an.\n\nNachmittags besuchen wir das Folk Village und genießen die winterliche Stille. Zum Abschluss fahren wir zu einem Aussichtspunkt, um den frühen Sonnenuntergang über der irischen Ebene zu beobachten, während es draußen zunehmend kälter wird.",
+            "hu": "A téli autózás Cashel környékén látványos kilátást nyújt a deres mezőkre. A sziklánál hűvös szél fogad, amit gyorsan elcserélünk az autó fűtésére. Ebédre céltudatosan a belváros felé vesszük az irányt.\n\nDélután ellátogatunk a Folk Village-be, élvezve a téli csendet. Végezetül egy kilátópont felé autózunk, hogy megcsodáljuk a korai naplementét az ír síkság felett, miközben odakint egyre hidegebb lesz.",
+            "ro": "Condusul iarna în jurul Cashel oferă vederi spectaculoase asupra câmpurilor înghețate. La Rock ne întâmpină o briză rece, pe care o schimbăm rapid pe căldura din mașină. La prânz ne îndreptăm spre centru.\n\nDupă-amiaza vizităm Folk Village și ne bucurăm de liniștea iernii. La final, conducem spre un punct de belvedere pentru a observa apusul timpuriu peste câmpia irlandeză, în timp ce afară se face tot mai frig.",
+            "en": "Winter driving around Cashel offers spectacular views of frosty fields. At the Rock, a chilly breeze greets us, which we quickly trade back for the car's heater. For lunch, we head straight to the town center.\n\nIn the afternoon, we visit the Folk Village and enjoy the winter silence. Finally, we drive to a viewpoint to watch the early sunset over the Irish plains, as it grows increasingly cold outside."
+          },
+          "stops": [
+            {
+              "name": "Rock of Cashel Car Park",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann morgens sehr glatt sein.",
+                "hu": "A parkoló reggelente nagyon csúszós lehet.",
+                "ro": "Parcarea poate fi foarte alunecoasă dimineața.",
+                "en": "The car park can be very slippery in the morning."
+              }
+            },
+            {
+              "name": "Rock of Cashel",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Parkplatz wird bei Frost gestreut.",
+                "hu": "Fagy esetén a parkolóhoz vezető utat sózzák.",
+                "ro": "Drumul spre parcare este curățat în caz de îngheț.",
+                "en": "The drive to the car park is gritted during frost."
+              }
+            },
+            {
+              "name": "Hore Abbey",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Untergrund, bevor Sie den Wagen verlassen.",
+                "hu": "Ellenőrizze a talajt, mielőtt kiszállna az autóból.",
+                "ro": "Verificați solul înainte de a coborî din mașină.",
+                "en": "Check the ground before exiting the vehicle."
+              }
+            },
+            {
+              "name": "Town Centre Car Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkhäuser, falls vorhanden, gegen Frost.",
+                "hu": "Használja a parkolóházakat, ha van rá lehetőség.",
+                "ro": "Folosiți parcările etajate, dacă sunt disponibile.",
+                "en": "Use multi-story car parks if available to avoid frost."
+              }
+            },
+            {
+              "name": "Lunch and Town Exploration",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Do not leave the engine idling unnecessarily."
+              }
+            },
+            {
+              "name": "Cashel Folk Village",
+              "tip_5lang": {
+                "de": "Achten Sie auf andere Fahrzeuge auf dem engen Parkareal.",
+                "hu": "Figyeljen a többi járműre a szűk parkoló területén.",
+                "ro": "Atenție la celelalte vehicule în zona strâmtă de parcare.",
+                "en": "Watch out for other vehicles in the narrow parking area."
+              }
+            },
+            {
+              "name": "Countryside Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht vor Wildwechsel in der Dämmerung auf dem Rückweg.",
+                "hu": "Vigyázzon a vadakra az utakon a szürkületi visszaúton.",
+                "ro": "Atenție la animalele sălbatice pe drumul de întoarcere.",
+                "en": "Watch out for wildlife on the roads during the twilight return."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Frostschutzmittel und Reifendruck vor der Tour.",
+              "Führen Sie einen Eiskratzer und eine Decke im Auto mit.",
+              "Parken Sie abends so, dass Sie morgens leicht ausparken können.",
+              "Achten Sie auf Nebel in den Niederungen rund um Cashel.",
+              "Tanken Sie rechtzeitig; im Winter ist der Verbrauch höher."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fagyállót és a guminyomást.",
+              "Legyen az autóban jégkaparó és egy meleg takaró.",
+              "Este úgy parkoljon, hogy reggel könnyen ki tudjon állni.",
+              "Ügyeljen a ködre a Cashel környéki völgyekben.",
+              "Tankoljon időben; télen magasabb lehet a fogyasztás."
+            ],
+            "ro": [
+              "Verificați antigelul și presiunea pneurilor înainte de drum.",
+              "Țineți o racletă și o pătură în mașină.",
+              "Parcați seara astfel încât să puteți ieși ușor dimineața.",
+              "Atenție la ceață în zonele joase din jurul Cashel.",
+              "Alimentați din timp; consumul este mai mare iarna."
+            ],
+            "en": [
+              "Check antifreeze and tire pressure before the tour.",
+              "Carry an ice scraper and a blanket in the car.",
+              "Park in a way that allows easy exit in the morning.",
+              "Watch out for fog in the lowlands around Cashel.",
+              "Refuel in time; fuel consumption is higher in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1574,6 +2234,214 @@
           "There is no public transit for tourists within Cashel itself; everything is walkable.",
           "Plan your time carefully so you don't miss the last bus back."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir Cashel auch bei Regen stressfrei. Vom Busstopp ist es nur ein kurzer, feuchter Weg zum majestätischen Rock. Mittags nutzen wir die zentrale Lage für einen Abstecher in ein warmes Restaurant.\n\nDer Nachmittag gehört dem Folk Village und der Kathedrale, wobei wir die Gehzeiten zwischen den Stopps minimieren. Wir beenden den Tag mit einem gemütlichen Stadtbummel, bevor wir trocken und sicher mit dem Bus die Heimreise antreten.",
+            "hu": "Busszal esőben is stresszmentesen érkezünk meg Cashelbe. A buszmegállótól csak egy rövid, nyirkos út vezet a fenséges sziklához. Ebédidőben kihasználjuk a központi elhelyezkedést egy meleg étterem meglátogatásához.\n\nA délután a Folk Village-é és a katedrálisé, igyekezve minimalizálni a megállók közötti gyaloglást. A napot egy kellemes városi sétával zárjuk, mielőtt szárazon és biztonságban buszra szállnánk hazafelé.",
+            "ro": "Cu autobuzul ajungem în Cashel fără stres chiar și pe ploaie. De la stație este doar un drum scurt și umed până la maiestuosul Rock. La prânz profităm de locația centrală pentru o vizită la un restaurant cald.\n\nDupă-amiaza este dedicată Folk Village și catedralei, încercând să minimizăm timpul de mers între opriri. Încheiem ziua cu o plimbare plăcută prin oraș, înainte de a lua autobuzul spre casă.",
+            "en": "By bus, we reach Cashel stress-free even in the rain. From the bus stop, it's just a short, damp walk to the majestic Rock. At lunch, we take advantage of the central location for a visit to a warm restaurant.\n\nIn the afternoon, we head to the Folk Village and the cathedral, aiming to minimize walking time between stops. We conclude the day with a pleasant town stroll before catching the bus home, dry and safe."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Cashel Bus Stop",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Unterstand auf den Anschluss.",
+                "hu": "Várjon a fedett beálló alatt a csatlakozásra.",
+                "ro": "Așteptați sub copertină pentru legătură.",
+                "en": "Wait under the shelter for your connection."
+              }
+            },
+            {
+              "name": "Rock of Cashel",
+              "tip_5lang": {
+                "de": "Der Fußweg vom Bus dauert ca. 10 Minuten bei Regen.",
+                "hu": "A gyalogút a busztól kb. 10 perc esőben.",
+                "ro": "Drumul pe jos de la autobuz durează cam 10 minute pe ploaie.",
+                "en": "The walk from the bus takes about 10 minutes in the rain."
+              }
+            },
+            {
+              "name": "Hore Abbey",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem unbefestigten Pfad zur Abtei.",
+                "hu": "Vigyázzon a nem kiépített ösvényen az apátság felé.",
+                "ro": "Atenție pe cărarea neamenajată spre abație.",
+                "en": "Use caution on the unpaved path to the abbey."
+              }
+            },
+            {
+              "name": "Lunch in Town",
+              "tip_5lang": {
+                "de": "Viele Lokale liegen direkt an der Busroute.",
+                "hu": "Sok étterem közvetlenül a buszútvonal mentén található.",
+                "ro": "Multe localuri sunt direct pe ruta autobuzului.",
+                "en": "Many eateries are located directly on the bus route."
+              }
+            },
+            {
+              "name": "Cashel Folk Village",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume ausgiebig während Schauern.",
+                "hu": "Használja ki a belső tereket a záporok alatt.",
+                "ro": "Folosiți din plin spațiile interioare în timpul averselor.",
+                "en": "Make extensive use of the indoor areas during showers."
+              }
+            },
+            {
+              "name": "St. John the Baptist Cathedral",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Folk Village entfernt.",
+                "hu": "Csak egy rövid sprintre van a Folk Village-től.",
+                "ro": "La doar un scurt sprint distanță de Folk Village.",
+                "en": "Just a short sprint away from the Folk Village."
+              }
+            },
+            {
+              "name": "Town Stroll",
+              "tip_5lang": {
+                "de": "Bleiben Sie unter den Vordächern der Geschäfte.",
+                "hu": "Maradjon az üzletek előtetői alatt.",
+                "ro": "Stați sub streșinile magazinelor.",
+                "en": "Stay under the shop overhangs."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan auf wetterbedingte Verspätungen.",
+              "Halten Sie Ihr Ticket griffbereit, um Nässe zu vermeiden.",
+              "Tragen Sie wasserfeste Schuhe für den Weg zum Rock.",
+              "Nutzen Sie die Echtzeit-App für die Busankunft.",
+              "Ein kleiner Regenschirm passt leicht in den Tagesrucksack."
+            ],
+            "hu": [
+              "Ellenőrizze a buszmenetrendet az esetleges késések miatt.",
+              "Tartsa kéznél a jegyét, hogy ne ázzon el keresgélés közben.",
+              "Viseljen vízálló cipőt a sziklához vezető úton.",
+              "Használja a valós idejű buszos alkalmazást.",
+              "Egy kis esernyő könnyen elfér a hátizsákban."
+            ],
+            "ro": [
+              "Verificați programul autobuzelor pentru eventuale întârzieri.",
+              "Țineți biletul la îndemână pentru a evita umezirea lui.",
+              "Purtați pantofi impermeabili pentru drumul spre Rock.",
+              "Folosiți aplicația în timp real pentru sosirea autobuzului.",
+              "O umbrelă mică încape ușor în rucsac."
+            ],
+            "en": [
+              "Check the bus timetable for weather-related delays.",
+              "Keep your ticket handy to avoid getting it wet.",
+              "Wear waterproof shoes for the walk to the Rock.",
+              "Use the real-time app for bus arrivals.",
+              "A small umbrella fits easily in your daypack."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Anreise nach Cashel mit dem Bus bietet im Winter einen warmen Rückzugsort. Der morgendliche Aufstieg zum Rock wird durch den frostigen Wind belohnt, der für klare Sicht sorgt. Mittags wärmen wir uns in einem der Pubs in der Nähe der Haltestelle auf.\n\nNachmittags erkunden wir das Folk Village, bevor die Kathedrale uns Ruhe und Schutz bietet. Wir beenden den Tag mit einem Spaziergang durch das beleuchtete Cashel, während wir auf den warmen Bus für die Rückfahrt warten.",
+            "hu": "A buszos utazás Cashelbe télen meleg menedéket nyújt. A reggeli feljutást a sziklához a fagyos szél jutalmazza, amely tiszta kilátást biztosít. Ebédre a megállóhoz közeli pubok egyikében melegszünk fel.\n\nDélután felfedezzük a Folk Village-et, majd a katedrális nyújt nyugalmat és védelmet. A napot az ünnepi fényekben úszó Cashelben tett sétával zárjuk, miközben a fűtött buszra várunk a hazaúthoz.",
+            "ro": "Călătoria spre Cashel cu autobuzul oferă un refugiu cald iarna. Urcarea de dimineață la Rock este răsplătită de vântul tăios care oferă vederi clare. La prânz ne încălzim într-unul dintre pub-urile de lângă stație.\n\nDupă-amiaza explorăm Folk Village, apoi catedrala ne oferă liniște și adăpost. Încheiem ziua cu o plimbare prin Cashelul luminat, în timp ce așteptăm autobuzul încălzit pentru întoarcere.",
+            "en": "Traveling to Cashel by bus provides a warm sanctuary in winter. The morning ascent to the Rock is rewarded by the biting wind that ensures clear views. At lunch, we warm up in one of the pubs near the stop.\n\nIn the afternoon, we explore the Folk Village, then the cathedral offers peace and shelter. We conclude the day with a stroll through the illuminated Cashel, while waiting for the heated bus for the return journey."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Cashel Bus Stop",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen an der Haltestelle.",
+                "hu": "Vigyázzon a fagyott tócsákra a megállóban.",
+                "ro": "Atenție la bălțile înghețate din stație.",
+                "en": "Watch out for frozen puddles at the stop."
+              }
+            },
+            {
+              "name": "Rock of Cashel",
+              "tip_5lang": {
+                "de": "Der Windchill-Effekt ist auf dem Hügel sehr stark.",
+                "hu": "A hőérzet a dombon a szél miatt sokkal alacsonyabb.",
+                "ro": "Efectul de răcire al vântului este foarte puternic pe deal.",
+                "en": "The wind chill factor is very strong on the hill."
+              }
+            },
+            {
+              "name": "Hore Abbey",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruine früh, solange es hell ist.",
+                "hu": "Látogassa meg a romot korán, amíg világos van.",
+                "ro": "Vizitați ruinele devreme, cât încă este lumină.",
+                "en": "Visit the ruins early while it is still light."
+              }
+            },
+            {
+              "name": "Lunch in Town",
+              "tip_5lang": {
+                "de": "Bestellen Sie ein Heißgetränk zum Mitnehmen für den Weg.",
+                "hu": "Rendeljen forró italt elvitelre az útra.",
+                "ro": "Comandați o băutură caldă la pachet pentru drum.",
+                "en": "Order a hot drink to go for the walk."
+              }
+            },
+            {
+              "name": "Cashel Folk Village",
+              "tip_5lang": {
+                "de": "Tragen Sie dicke Socken; die Böden sind kalt.",
+                "hu": "Viseljen vastag zoknit; a padlózat hideg lehet.",
+                "ro": "Purtați șosete groase; podelele sunt reci.",
+                "en": "Wear thick socks; the floors are cold."
+              }
+            },
+            {
+              "name": "St. John the Baptist Cathedral",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um der Kälte kurz zu entfliehen.",
+                "hu": "Csendes hely, hogy rövid időre elmeneküljünk a hideg elől.",
+                "ro": "Un loc liniștit pentru a scăpa scurt de frig.",
+                "en": "A quiet spot to escape the cold briefly."
+              }
+            },
+            {
+              "name": "Town Stroll",
+              "tip_5lang": {
+                "de": "Die Weihnachtsbeleuchtung macht diesen Teil besonders schön.",
+                "hu": "Az ünnepi kivilágítás különösen széppé teszi ezt a részt.",
+                "ro": "Iluminatul festiv face această parte deosebit de frumoasă.",
+                "en": "The festive lights make this part particularly beautiful."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Pufferzeiten für den Bus bei Schnee oder Glätte ein.",
+              "Halten Sie sich im Bus von der Tür fern, um Kälte zu meiden.",
+              "Nutzen Sie die Wartezeit in beheizten Geschäften.",
+              "Tragen Sie reflektierende Kleidung für die Sicherheit im Dunkeln.",
+              "Warme Getränke verkürzen die gefühlte Wartezeit."
+            ],
+            "hu": [
+              "Számoljon rá a busz menetidejére hó vagy jég esetén.",
+              "A buszon üljön távol az ajtótól a hideg miatt.",
+              "A várakozási időt töltse fűtött üzletekben.",
+              "Viseljen fényvisszaverő elemeket a biztonság érdekében.",
+              "A forró italok lerövidítik a várakozási időt."
+            ],
+            "ro": [
+              "Prevedeți timp suplimentar pentru autobuz în caz de zăpadă.",
+              "Stați departe de ușă în autobuz pentru a evita frigul.",
+              "Folosiți timpul de așteptare în magazinele încălzite.",
+              "Purtați haine reflectorizante pentru siguranță pe întuneric.",
+              "Băuturile calde scurtează timpul de așteptare resimțit."
+            ],
+            "en": [
+              "Allow buffer time for the bus in case of snow or ice.",
+              "Sit away from the door on the bus to avoid the cold.",
+              "Spend waiting time in heated shops.",
+              "Wear reflective clothing for safety in the dark.",
+              "Hot drinks make the waiting time feel shorter."
+            ]
+          }
+        }
       }
     }
   }

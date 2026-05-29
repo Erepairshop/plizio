@@ -386,6 +386,198 @@
           "Book the Pilsner Urquell Brewery tour online to avoid long queues.",
           "Keep some cash handy for smaller purchases or tips, although cards are widely accepted."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Platz der Republik, wo die Kathedrale Schutz vor dem Regen bietet. Mittags erkunden wir das Brauereimuseum im Trockenen. Nachmittags führen die historischen Kellergänge tief unter die Stadt, wo kein Regentropfen hinfällt. Der Tag endet gemütlich bei einer Brauereibesichtigung und einem frischen Pilsner Urquell im Warmen.",
+            "hu": "A reggel a Köztársaság téren indul, ahol a katedrális nyújt menedéket az eső elől. Délben a Sörfőző Múzeum fedett kiállításait járjuk be. Délután a történelmi földalatti labirintusba ereszkedünk, ahol garantáltan száraz marad mindenki. Az estét a Pilsner Urquell gyárban zárjuk, ahol a túra után a pincében kóstolhatjuk meg a híres sört.",
+            "ro": "Dimineața începe în Piața Republicii, unde catedrala oferă un adăpost perfect împotriva ploii. La prânz, vizităm Muzeul Berii, explorând expozițiile interioare. După-amiaza coborâm în galeriile subterane istorice, unde ploaia nu ajunge niciodată. Seara se încheie cu un tur al fabricii Pilsner Urquell, savurând o bere proaspătă într-un ambient cald.",
+            "en": "The morning starts at Republic Square, with the cathedral providing a grand refuge from the rain. At noon, we explore the indoor exhibits of the Brewery Museum. In the afternoon, we descend into the historical underground, a perfectly dry escape from the weather. The day concludes with a tour of the Pilsner Urquell Brewery and a fresh pint in the warmth."
+          },
+          "stops": [
+            {
+              "name": "Republic Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Rathauses als Unterstand.",
+                "hu": "Használja a városháza árkádjait eső elleni menedékként.",
+                "ro": "Folosiți arcadele primăriei pentru a vă adăposti de ploaie.",
+                "en": "Use the Town Hall arcades as a convenient rain shelter."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Cathedral",
+              "tip_5lang": {
+                "de": "Bewundern Sie die gotische Pracht im trockenen Kirchenschiff.",
+                "hu": "Csodálja meg a gótikus belsőt a száraz hajóban.",
+                "ro": "Admirați interiorul gotic rămânând la adăpost în nava bisericii.",
+                "en": "Admire the Gothic interior while staying dry in the nave."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Das Sgraffito ist auch unter einem Regenschirm beeindruckend.",
+                "hu": "A sgraffito díszítés esernyő alól is lenyűgöző látvány.",
+                "ro": "Detaliile sgraffito sunt impresionante chiar și de sub umbrelă.",
+                "en": "The sgraffito details are impressive even from under an umbrella."
+              }
+            },
+            {
+              "name": "Brewery Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Biergeschichte im Trockenen zu entdecken.",
+                "hu": "Ideális hely a sörtörténelem felfedezéséhez esős időben.",
+                "ro": "Un loc ideal pentru a descoperi istoria berii la interior.",
+                "en": "An ideal spot to discover beer history while staying dry."
+              }
+            },
+            {
+              "name": "Historical Underground",
+              "tip_5lang": {
+                "de": "Hier unten spielt das Wetter oberhalb keine Rolle.",
+                "hu": "Itt lent egyáltalán nem számít a kinti esős időjárás.",
+                "ro": "Aici, în subteran, vremea de afară nu contează deloc.",
+                "en": "Down here, the weather above doesn't matter at all."
+              }
+            },
+            {
+              "name": "Great Synagogue",
+              "tip_5lang": {
+                "de": "Der riesige Innenraum ist ein majestätischer, trockener Zufluchtsort.",
+                "hu": "A hatalmas belső tér fenséges és száraz menedékhely.",
+                "ro": "Interiorul vast este un sanctuar maiestuos și uscat.",
+                "en": "The massive interior is a majestic and dry sanctuary."
+              }
+            },
+            {
+              "name": "Pilsner Urquell Brewery",
+              "tip_5lang": {
+                "de": "Die Tour ist weitgehend überdacht, perfekt für nasse Abende.",
+                "hu": "A túra nagy része fedett, tökéletes választás esős estére.",
+                "ro": "Turul este în mare parte acoperit, perfect pentru o seară ploioasă.",
+                "en": "The tour is mostly covered, making it perfect for a rainy evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht auf dem Kopfsteinpflaster am Hauptplatz, es wird bei Nässe rutschig.",
+              "Ein stabiler Regenschirm ist wegen des Windes am Kirchturm ratsam.",
+              "Nutzen Sie die vielen Cafés rund um den Platz für kurze Pausen."
+            ],
+            "hu": [
+              "Vigyázzon a főtér macskakövein, mert esőben csúszóssá válnak.",
+              "A templomtorony környékén a szél miatt érdemes stabil esernyőt használni.",
+              "Használja ki a tér körüli kávézókat a pihenéshez."
+            ],
+            "ro": [
+              "Atenție la pavajul din piața centrală, care devine alunecos pe ploaie.",
+              "O umbrelă rezistentă este recomandată din cauza vântului de lângă turnul bisericii.",
+              "Profitați de numeroasele cafenele pentru pauze."
+            ],
+            "en": [
+              "Watch out for the cobblestones in the main square, as they get slippery when wet.",
+              "A sturdy umbrella is advised due to the wind near the cathedral tower.",
+              "Use the nearby cafés for short breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterspaziergang durch Pilsen führt durch die frostige Altstadt. Morgens bewundern wir den Markt am Hauptplatz. Mittags wärmen wir uns in der Kathedrale und bei einem deftigen Mittagessen auf. Nachmittags besuchen wir die Brauerei, wo der Dampf der Sudkessel für Wärme sorgt. Die Tour endet am späten Nachmittag, bevor die frühe Dunkelheit einsetzt.",
+            "hu": "A téli séta a fagyos óvároson vezet keresztül. Reggel a főtéri piacot csodáljuk meg. Délben a katedrálisban és egy kiadós ebéddel melegszünk fel. Délután a sörgyárba látogatunk, ahol a főzőház gőze áraszt meleget. A túra késő délután ér véget, még a korai sötétedés előtt.",
+            "ro": "O plimbare de iarnă prin Plzeň trece prin centrul vechi înghețat. Dimineața admirăm piața centrală. La prânz ne încălzim în catedrală și cu un prânz consistent. După-amiaza vizităm fabrica de bere, unde aburul cazanelor oferă căldură. Turul se încheie spre seară, înainte de lăsarea întunericului.",
+            "en": "A winter walk through Pilsen leads through the frosty old town. In the morning, we admire the market in the main square. At noon, we warm up inside the cathedral and with a hearty lunch. In the afternoon, we visit the brewery, where the steam from the brew house provides warmth. The tour ends in the late afternoon before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Republic Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Pflastersteinen.",
+                "hu": "Ügyeljen a jegesedésre a macskaköveken.",
+                "ro": "Atenție la gheața de pe pavaj.",
+                "en": "Watch out for ice on the cobblestones."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Cathedral",
+              "tip_5lang": {
+                "de": "Treten Sie ein, um den eisigen Windböen zu entkommen.",
+                "hu": "Menjen be, hogy elkerülje a jeges széllökéseket.",
+                "ro": "Intrați pentru a scăpa de rafalele de vânt înghețat.",
+                "en": "Step inside to escape the icy wind gusts."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Die Fassade wirkt im Winterlicht besonders plastisch.",
+                "hu": "A homlokzat a téli fényben különösen plasztikusnak hat.",
+                "ro": "Fațada pare deosebit de sculpturală în lumina de iarnă.",
+                "en": "The facade looks particularly sculptural in the winter light."
+              }
+            },
+            {
+              "name": "Brewery Museum",
+              "tip_5lang": {
+                "de": "Die alten Mauern bieten guten Schutz vor dem Winterwind.",
+                "hu": "A régi falak jó védelmet nyújtanak a téli szél ellen.",
+                "ro": "Zidurile vechi oferă protecție bună împotriva vântului.",
+                "en": "The old walls provide good protection from the winter wind."
+              }
+            },
+            {
+              "name": "Historical Underground",
+              "tip_5lang": {
+                "de": "Eine konstante Temperatur von 10 Grad ist wärmer als draußen.",
+                "hu": "A 10 fokos állandó hőmérséklet melegebb, mint kint.",
+                "ro": "O temperatură constantă de 10 grade este mai caldă decât afară.",
+                "en": "A constant 10-degree temperature is warmer than outside."
+              }
+            },
+            {
+              "name": "Great Synagogue",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um sich während der Tour aufzuwärmen.",
+                "hu": "Jó hely a felmelegedésre a túra alatt.",
+                "ro": "Un loc bun pentru a vă încălzi în timpul turului.",
+                "en": "A good place to warm up during the tour."
+              }
+            },
+            {
+              "name": "Pilsner Urquell Brewery",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme in den Gärkellern.",
+                "hu": "Élvezze a meleget az erjesztőpincékben.",
+                "ro": "Bucurați-vă de căldura din pivnițele de fermentare.",
+                "en": "Enjoy the warmth in the fermentation cellars."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Schichten, da der Wind am Platz der Republik schneidend sein kann.",
+              "Die Sonne geht im Winter bereits gegen 16:00 Uhr unter.",
+              "Probieren Sie den heißen Becherovka in einer der lokalen Bars."
+            ],
+            "hu": [
+              "Viseljen réteges öltözetet, mert a szél a Köztársaság téren metsző lehet.",
+              "A nap télen már 16:00 körül lemegy.",
+              "Próbálja ki a forró Becherovkát a helyi bárok egyikében."
+            ],
+            "ro": [
+              "Purtați straturi groase, deoarece vântul poate fi tăios în Piața Republicii.",
+              "Soarele apune deja în jurul orei 16:00 iarna.",
+              "Încercați un Becherovka cald în unul dintre barurile locale."
+            ],
+            "en": [
+              "Wear warm layers as the wind at Republic Square can be piercing.",
+              "The sun sets as early as 16:00 in winter.",
+              "Try a hot Becherovka in one of the local bars."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +958,198 @@
           "Many restaurants and cafes will allow you to park your bike within sight.",
           "A bike lock is essential, especially in busy places like the brewery."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Pilsen bei Regen erfordert gute Kleidung, aber die Wege im Zentrum sind kurz. Morgens erkunden wir den Platz und die Kathedrale. Mittags bietet die Synagoge einen imposanten Unterstand. Nachmittags radeln wir zum Brauereimuseum und zur Brauerei, wo die Räder sicher stehen können. Der Tag endet im Techmania Science Center, einem riesigen Indoor-Areal.",
+            "hu": "Az esős kerékpározás jó felszerelést igényel, de a belvárosi távok rövidek. Reggel a főteret és a katedrálist nézzük meg. Délben a zsinagóga nyújt menedéket. Délután a Sörfőző Múzeumhoz és a gyárhoz tekerünk, ahol a biciklik fedett helyen maradhatnak. A napot a Techmania Science Centerben zárjuk, ami hatalmas fedett élményt kínál.",
+            "ro": "Ciclismul prin Plzeň pe ploaie necesită echipament adecvat, dar distanțele din centru sunt scurte. Dimineața explorăm piața și catedrala. La prânz, sinagoga oferă un adăpost impresionant. După-amiaza pedalăm spre Muzeul Berii și fabrică, unde bicicletele pot sta la adăpost. Ziua se încheie la Techmania Science Center, o zonă interioară vastă.",
+            "en": "Cycling in Pilsen in the rain requires good gear, but the distances in the center are short. In the morning, we explore the square and the cathedral. At noon, the synagogue provides an impressive shelter. In the afternoon, we pedal to the Brewery Museum and the brewery, where bikes can be parked securely. The day ends at the Techmania Science Center, a massive indoor facility."
+          },
+          "stops": [
+            {
+              "name": "Republic Square",
+              "tip_5lang": {
+                "de": "Parken Sie unter den Arkaden für einen trockenen Stopp.",
+                "hu": "Parkoljon az árkádok alatt a száraz megállóhoz.",
+                "ro": "Parcați sub arcade pentru o oprire uscată.",
+                "en": "Park under the arcades for a dry stop."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Cathedral",
+              "tip_5lang": {
+                "de": "Lassen Sie das Rad draußen gesichert und treten Sie ein.",
+                "hu": "Hagyja kint a lezárt biciklit és menjen be.",
+                "ro": "Lăsați bicicleta asigurată afară și intrați.",
+                "en": "Leave the bike secured outside and step inside."
+              }
+            },
+            {
+              "name": "Great Synagogue",
+              "tip_5lang": {
+                "de": "Ein langer Stopp hier schützt Sie vor dem schlimmsten Regen.",
+                "hu": "Egy hosszabb megálló itt megvédi a legrosszabb esőtől.",
+                "ro": "O oprire mai lungă aici vă protejează de cea mai rea ploaie.",
+                "en": "A long stop here protects you from the worst of the rain."
+              }
+            },
+            {
+              "name": "Brewery Museum",
+              "tip_5lang": {
+                "de": "Die Fahrradständer sind oft in der Nähe von Unterständen.",
+                "hu": "A kerékpártárolók gyakran fedett helyek közelében vannak.",
+                "ro": "Suporturile de biciclete sunt adesea lângă zone acoperite.",
+                "en": "Bike racks are often near sheltered areas."
+              }
+            },
+            {
+              "name": "Pilsner Urquell Brewery",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Besucherhalle als trockenen Treffpunkt.",
+                "hu": "Használja a látogatóközpontot száraz találkozási pontként.",
+                "ro": "Folosiți centrul de vizitatori ca punct de întâlnire uscat.",
+                "en": "Use the visitor center as a dry meeting point."
+              }
+            },
+            {
+              "name": "Techmania Science Center",
+              "tip_5lang": {
+                "de": "Vollständig überdacht, ideal um dem Regen zu entfliehen.",
+                "hu": "Teljesen fedett, ideális az eső elől való meneküléshez.",
+                "ro": "Complet acoperit, ideal pentru a scăpa de ploaie.",
+                "en": "Completely covered, ideal for escaping the rain."
+              }
+            },
+            {
+              "name": "Dinner in the Old Town",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Platz für Ihre nasse Ausrüstung.",
+                "hu": "Válasszon olyan éttermet, ahol elfér a vizes felszerelése.",
+                "ro": "Alegeți un restaurant cu spațiu pentru echipamentul ud.",
+                "en": "Choose a restaurant with space for your wet gear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie helle, reflektierende Regenkleidung für bessere Sichtbarkeit.",
+              "Bremsen Sie auf dem Kopfsteinpflaster vorsichtig und frühzeitig.",
+              "Nutzen Sie die Radwege entlang der Radbuza, um Pfützen zu meiden."
+            ],
+            "hu": [
+              "Viseljen fényvisszaverő esőruházatot a jobb láthatóságért.",
+              "A macskaköveken óvatosan és időben fékezzen.",
+              "Használja a Radbuza menti kerékpárutakat a tócsák elkerülésére."
+            ],
+            "ro": [
+              "Purtați haine de ploaie reflectorizante pentru o mai bună vizibilitate.",
+              "Frânați cu atenție și din timp pe pavaj.",
+              "Folosiți pistele de biciclete de-a lungul râului pentru a evita bălțile."
+            ],
+            "en": [
+              "Wear reflective rain gear for better visibility.",
+              "Brake carefully and early on the cobblestones.",
+              "Use the bike paths along the Radbuza river to avoid puddles."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Winterradtour durch Pilsen führt durch die frostige Altstadt. Morgens bewundern wir den Markt am Hauptplatz. Mittags wärmen wir uns in der Großen Synagoge auf. Nachmittags geht es zur Brauerei, wo der Dampf der Sudkessel für Wärme sorgt. Die Tour endet im Techmania, bevor die frühe Dunkelheit einsetzt. Ein warmes Abendessen rundet den frostigen Tag ab.",
+            "hu": "A téli kerékpártúra a fagyos óvároson vezet keresztül. Reggel a főtéri piacot csodáljuk meg. Délben a Nagy Zsinagógában melegszünk fel. Délután a sörgyárba látogatunk, ahol a főzőház gőze áraszt meleget. A túra a Techmaniában ér véget, még a korai sötétedés előtt. A fagyos napot egy meleg vacsora zárja.",
+            "ro": "Un tur cu bicicleta prin Plzeň iarna trece prin centrul vechi înghețat. Dimineața admirăm piața centrală. La prânz ne încălzim în Marea Sinagogă. După-amiaza vizităm fabrica de bere, unde aburul cazanelor oferă căldură. Turul se încheie la Techmania înainte de lăsarea serii. O cină caldă completează ziua geroasă.",
+            "en": "A winter bike tour through Pilsen leads through the frosty old town. In the morning, we admire the market in the main square. At noon, we warm up inside the Great Synagogue. In the afternoon, we visit the brewery, where the steam from the brew house provides warmth. The tour ends at Techmania before the early sunset. A warm dinner rounds off the cold day."
+          },
+          "stops": [
+            {
+              "name": "Republic Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrierendem Nebel auf den Wegen.",
+                "hu": "Vigyázzon a lefagyó ködre az utakon.",
+                "ro": "Atenție la ceața care îngheață pe drumuri.",
+                "en": "Watch out for freezing fog on the paths."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Cathedral",
+              "tip_5lang": {
+                "de": "Der Aufenthalt im Inneren bietet Schutz vor dem Wind.",
+                "hu": "A belső tartózkodás védelmet nyújt a szél ellen.",
+                "ro": "Șederea în interior oferă protecție împotriva vântului.",
+                "en": "Staying inside provides protection from the wind."
+              }
+            },
+            {
+              "name": "Great Synagogue",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Hände während der Tour aufzuwärmen.",
+                "hu": "Jó hely a kezek felmelegítésére a túra alatt.",
+                "ro": "Un loc bun pentru a vă încălzi mâinile în timpul turului.",
+                "en": "A good place to warm up your hands during the tour."
+              }
+            },
+            {
+              "name": "Brewery Museum",
+              "tip_5lang": {
+                "de": "Die Cafés in der Nähe bieten heißen Tee zur Stärkung.",
+                "hu": "A közeli kávézók meleg teát kínálnak a felfrissüléshez.",
+                "ro": "Cafenelele din apropiere oferă ceai cald pentru revigorare.",
+                "en": "Nearby cafés offer hot tea for refreshment."
+              }
+            },
+            {
+              "name": "Pilsner Urquell Brewery",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Gärkeller für eine konstante Wärme.",
+                "hu": "Használja az erjesztőpincét az állandó melegért.",
+                "ro": "Folosiți pivnița de fermentare pentru o căldură constantă.",
+                "en": "Use the fermentation cellar for constant warmth."
+              }
+            },
+            {
+              "name": "Techmania Science Center",
+              "tip_5lang": {
+                "de": "Ein beheizter Raum, perfekt für den späten Nachmittag.",
+                "hu": "Fűtött helyiség, tökéletes a késő délutánra.",
+                "ro": "Spațiu încălzit, perfect pentru după-amiaza târzie.",
+                "en": "A heated space, perfect for the late afternoon."
+              }
+            },
+            {
+              "name": "Dinner in the Old Town",
+              "tip_5lang": {
+                "de": "Gönnen Sie sich ein herzhaftes, warmes tschechisches Gericht.",
+                "hu": "Kényeztesse magát egy kiadós, meleg cseh étellel.",
+                "ro": "Răsfățați-vă cu un preparat ceh cald și consistent.",
+                "en": "Treat yourself to a hearty, warm Czech dish."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe für die Abfahrten.",
+              "Denken Sie an die Beleuchtung, da es ab 16:00 Uhr dunkel wird.",
+              "Ein warmer Tee in der Thermoskanne hilft gegen die Kälte."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt a gurulásokhoz.",
+              "Ne felejtse a világítást, mert 16:00-tól sötétedik.",
+              "Egy termosz meleg tea sokat segít a hideg ellen."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt pentru coborâri.",
+              "Nu uitați luminile, deoarece se întunecă de la ora 16:00.",
+              "Un ceai cald într-un termos ajută împotriva frigului."
+            ],
+            "en": [
+              "Wear windproof gloves for the descents.",
+              "Remember your lights, as it gets dark from 16:00.",
+              "A warm tea in a thermos helps against the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1146,6 +1530,198 @@
           "Plan extra time for traffic and finding parking, especially on weekdays.",
           "Use a navigation app to find parking garages near your target clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto bleibt man in Pilsen trocken und flexibel. Morgens parken wir direkt am Platz der Republik. Mittags besuchen wir das Brauereimuseum und genießen ein Mittagessen im Restaurant Na Spilce. Nachmittags geht es zur Brauerei und zum Techmania, wo ausreichend Parkplätze vorhanden sind. Der Tag endet mit einem kurzen, geschützten Spaziergang im Škoda-Park.",
+            "hu": "Autóval szárazon és rugalmasan fedezhető fel Plzeň. Reggel közvetlenül a Köztársaság térnél parkolunk. Délben a Sörfőző Múzeumot és a Na Spilce éttermet látogatjuk meg. Délután a sörgyár és a Techmania következik, ahol bőven van parkolóhely. A napot egy rövid, védett sétával zárjuk a Škoda parkban.",
+            "ro": "Cu mașina rămâneți uscat și flexibil în Plzeň. Dimineața parcăm chiar lângă Piața Republicii. La prânz vizităm Muzeul Berii și luăm masa la restaurantul Na Spilce. După-amiaza mergem la fabrică și la Techmania, unde există locuri de parcare suficiente. Ziua se încheie cu o scurtă plimbare protejată în parcul Škoda.",
+            "en": "By car, you stay dry and flexible in Pilsen. In the morning, we park right by Republic Square. At noon, we visit the Brewery Museum and enjoy lunch at the Na Spilce restaurant. In the afternoon, we head to the brewery and Techmania, both with ample parking. The day ends with a short, sheltered walk in Škoda Park."
+          },
+          "stops": [
+            {
+              "name": "Parking at Republic Square",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Parkhaus für einen komplett trockenen Ausstieg.",
+                "hu": "Válasszon parkolóházat a teljesen száraz kiszálláshoz.",
+                "ro": "Alegeți o parcare etajată pentru o coborâre uscată.",
+                "en": "Choose a parking garage for a completely dry exit."
+              }
+            },
+            {
+              "name": "Republic Square & Town Hall",
+              "tip_5lang": {
+                "de": "Der kurze Weg zum Rathaus ist unter den Arkaden geschützt.",
+                "hu": "A városházához vezető rövid út az árkádok alatt védett.",
+                "ro": "Drumul scurt spre primărie este protejat sub arcade.",
+                "en": "The short walk to the Town Hall is sheltered under the arcades."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Cathedral",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang der Kirche.",
+                "hu": "Parkoljon a lehető legközelebb a templom bejáratához.",
+                "ro": "Parcați cât mai aproape de intrarea în biserică.",
+                "en": "Park as close as possible to the church entrance."
+              }
+            },
+            {
+              "name": "Brewery Museum & Lunch",
+              "tip_5lang": {
+                "de": "Das Na Spilce bietet einen großen, nahen Parkplatz.",
+                "hu": "A Na Spilce étteremnek nagy, közeli parkolója van.",
+                "ro": "Na Spilce oferă o parcare mare și apropiată.",
+                "en": "Na Spilce offers a large, nearby parking lot."
+              }
+            },
+            {
+              "name": "Pilsner Urquell Brewery",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Besucherzentrum.",
+                "hu": "Használja a parkolót közvetlenül a látogatóközpontnál.",
+                "ro": "Folosiți parcarea direct de lângă centrul de vizitatori.",
+                "en": "Use the parking lot right by the visitor center."
+              }
+            },
+            {
+              "name": "Techmania Science Center",
+              "tip_5lang": {
+                "de": "Das Parkhaus des Techmania hält Sie beim Aussteigen trocken.",
+                "hu": "A Techmania parkolóháza szárazon tart kiszálláskor.",
+                "ro": "Parcarea Techmania vă menține uscat la coborâre.",
+                "en": "Techmania's parking garage keeps you dry when exiting."
+              }
+            },
+            {
+              "name": "Walk in Škoda Park",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang zwischen den Regenschauern empfohlen.",
+                "hu": "Rövid séta javasolt a záporok között.",
+                "ro": "Se recomandă o scurtă plimbare între averse.",
+                "en": "Short walk recommended between rain showers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht bei Aquaplaning auf den Straßen Richtung Techmania.",
+              "Nutzen Sie das Parkhaus Rychtářka für das Stadtzentrum.",
+              "Halten Sie einen Regenschirm im Auto bereit."
+            ],
+            "hu": [
+              "Vigyázzon az aquaplaningre a Techmania felé vezető utakon.",
+              "A belvároshoz válassza a Rychtářka parkolóházat.",
+              "Tartson esernyőt az autóban a rövid sétákhoz."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile spre Techmania.",
+              "Folosiți parcarea etajată Rychtářka pentru centrul orașului.",
+              "Țineți o umbrelă în mașină pentru drumurile scurte."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the roads towards Techmania.",
+              "Use the Rychtářka parking garage for the city center.",
+              "Keep an umbrella in the car for short walks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Autofahrt durch das winterliche Pilsen ist komfortabel und warm. Morgens bewundern wir den geschmückten Hauptplatz. Mittags wärmen wir uns in der Kathedrale und bei einem deftigen Mittagessen auf. Nachmittags besuchen wir die Brauerei und das Techmania Science Center. Der Tag endet mit einem erfrischenden Spaziergang in der kühlen Winterluft.",
+            "hu": "Az autózás a téli Plzeňben kényelmes és meleg. Reggel a feldíszített főteret csodáljuk meg. Délben a katedrálisban és egy kiadós ebéddel melegszünk fel. Délután a sörgyárat és a Techmania központot látogatjuk meg. A napot egy frissítő sétával zárjuk a hűvös téli levegőn.",
+            "ro": "Călătoria cu mașina prin Plzeň iarna este confortabilă și călduroasă. Dimineața admirăm piața centrală decorată. La prânz ne încălzim în catedrală și cu un prânz consistent. După-amiaza vizităm fabrica de bere și centrul Techmania. Ziua se încheie cu o plimbare revigorantă în aerul rece.",
+            "en": "Driving through wintery Pilsen is comfortable and warm. In the morning, we admire the decorated main square. At noon, we warm up in the cathedral and with a hearty lunch. In the afternoon, we visit the brewery and the Techmania Science Center. The day ends with a refreshing walk in the cool winter air."
+          },
+          "stops": [
+            {
+              "name": "Parking at Republic Square",
+              "tip_5lang": {
+                "de": "Achten Sie beim Einparken auf Schneehaufen am Straßenrand.",
+                "hu": "Parkoláskor ügyeljen az útmenti hóbuckákra.",
+                "ro": "Atenție la grămezile de zăpadă când parcați.",
+                "en": "Watch out for snow piles when parking."
+              }
+            },
+            {
+              "name": "Republic Square & Town Hall",
+              "tip_5lang": {
+                "de": "Genießen Sie die Atmosphäre direkt vom warmen Auto aus.",
+                "hu": "Élvezze a hangulatot közvetlenül a meleg autóból.",
+                "ro": "Bucurați-vă de atmosferă direct din mașina caldă.",
+                "en": "Enjoy the atmosphere directly from your warm car."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Cathedral",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte eine Weile draußen.",
+                "hu": "A vastag falak egy ideig kint tartják a hideget.",
+                "ro": "Zidurile groase țin frigul afară pentru o vreme.",
+                "en": "The thick walls keep the cold out for a while."
+              }
+            },
+            {
+              "name": "Brewery Museum & Lunch",
+              "tip_5lang": {
+                "de": "Ein warmer Braten im Restaurant ist der perfekte Winterstopp.",
+                "hu": "Egy meleg sült az étteremben a tökéletes téli megálló.",
+                "ro": "O friptură caldă la restaurant este oprirea perfectă.",
+                "en": "A warm roast at the restaurant is the perfect winter stop."
+              }
+            },
+            {
+              "name": "Pilsner Urquell Brewery",
+              "tip_5lang": {
+                "de": "Die unterirdischen Keller haben konstante Temperaturen.",
+                "hu": "A földalatti pincék állandó hőmérsékletűek.",
+                "ro": "Pivnițele subterane au temperaturi constante.",
+                "en": "The underground cellars have constant temperatures."
+              }
+            },
+            {
+              "name": "Techmania Science Center",
+              "tip_5lang": {
+                "de": "Ein großartiger Ort für den Nachmittag im Warmen.",
+                "hu": "Nagyszerű hely a délután melegben töltésére.",
+                "ro": "Un loc minunat pentru după-amiaza la căldură.",
+                "en": "A great place to spend the afternoon in the warmth."
+              }
+            },
+            {
+              "name": "Walk in Škoda Park",
+              "tip_5lang": {
+                "de": "Die Wege können bei Frost rutschig sein, Vorsicht geboten.",
+                "hu": "A fagy miatt az utak csúszósak lehetnek, óvatosság ajánlott.",
+                "ro": "Aleile pot fi alunecoase din cauza înghețului.",
+                "en": "Paths can be slippery due to frost; caution is advised."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie vor der Abfahrt die Scheibenwaschanlage.",
+              "Parkplätze können durch Schneeräumung begrenzt sein.",
+              "Parkhäuser sind die sicherste Wahl gegen Glatteis."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a szélvédőmosót.",
+              "A hóeltakarítás miatt kevesebb lehet a parkolóhely.",
+              "A parkolóházak a legbiztonságosabbak a jegesedés ellen."
+            ],
+            "ro": [
+              "Verificați lichidul de parbriz înainte de plecare.",
+              "Locurile de parcare pot fi limitate din cauza deszăpezirii.",
+              "Parcările etajate sunt cea mai sigură alegere contra gheții."
+            ],
+            "en": [
+              "Check windshield washer fluid before departing.",
+              "Parking spaces may be limited due to snow removal.",
+              "Parking garages are the safest choice against ice."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1526,6 +2102,198 @@
           "Trams have priority. Be careful when crossing the tracks.",
           "Validate your ticket immediately after boarding to avoid a fine."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Pilsens Straßenbahnen bringen Sie trocken durch die Stadt. Morgens fahren wir zum Hauptplatz. Mittags erkunden wir den Untergrund und die Synagoge, die gut mit der Tram erreichbar sind. Nachmittags nehmen wir die Linie zur Brauerei und zum Techmania. Der Tag endet im DEPO2015, einem ehemaligen Depot mit viel Platz im Trockenen.",
+            "hu": "Plzeň villamosai szárazon repítik át a városon. Reggel a főtérre utazunk. Délben a földalatti járatokat és a zsinagógát nézzük meg, melyek villamossal elérhetők. Délután a sörgyár és a Techmania következik. A nap a DEPO2015-ben zárul, amely sok fedett térrel rendelkezik.",
+            "ro": "Tramvaiele din Plzeň vă poartă prin oraș fără să vă udați. Dimineața mergem în piața centrală. La prânz explorăm subteranul și sinagoga, ambele accesibile cu tramvaiul. După-amiaza luăm linia spre fabrică și Techmania. Ziua se încheie la DEPO2015, cu mult spațiu interior.",
+            "en": "Pilsen's trams whisk you through the city while staying dry. In the morning, we head to the main square. At noon, we explore the underground and the synagogue, both reached by tram. In the afternoon, we take the line to the brewery and Techmania. The day ends at DEPO2015 with plenty of indoor space."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Republic Square",
+              "tip_5lang": {
+                "de": "Die Trambahnhöfe haben meist überdachte Wartebereiche.",
+                "hu": "A villamosmegállók többnyire fedettek.",
+                "ro": "Stațiile de tramvai au de obicei zone acoperite.",
+                "en": "Tram stops usually have sheltered waiting areas."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Cathedral",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Sprint von der Tramhaltestelle bis zum Portal.",
+                "hu": "Csak egy rövid vágta a villamosmegállótól a bejáratig.",
+                "ro": "Doar un scurt sprint de la stația de tramvai la portal.",
+                "en": "Just a short sprint from the tram stop to the portal."
+              }
+            },
+            {
+              "name": "Historical Underground",
+              "tip_5lang": {
+                "de": "Der Eingang ist sehr nah an den Tramlinien 1 und 2.",
+                "hu": "A bejárat nagyon közel van az 1-es és 2-es villamoshoz.",
+                "ro": "Intrarea este aproape de liniile de tramvai 1 și 2.",
+                "en": "The entrance is very close to tram lines 1 and 2."
+              }
+            },
+            {
+              "name": "Great Synagogue",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Haltestelle Palackého náměstí.",
+                "hu": "Használja a Palackého náměstí megállót.",
+                "ro": "Folosiți stația Palackého náměstí.",
+                "en": "Use the Palackého náměstí stop."
+              }
+            },
+            {
+              "name": "Pilsner Urquell Brewery",
+              "tip_5lang": {
+                "de": "Die Haltestelle U Prazdroje liegt direkt vor dem Tor.",
+                "hu": "Az U Prazdroje megálló közvetlenül a kapu előtt van.",
+                "ro": "Stația U Prazdroje se află chiar în fața porții.",
+                "en": "The U Prazdroje stop is right in front of the gate."
+              }
+            },
+            {
+              "name": "Techmania Science Center",
+              "tip_5lang": {
+                "de": "Die Tram 2 hält fast direkt vor dem Gelände.",
+                "hu": "A 2-es villamos szinte közvetlenül a terület előtt áll meg.",
+                "ro": "Tramvaiul 2 oprește aproape direct în fața zonei.",
+                "en": "Tram 2 stops almost directly in front of the area."
+              }
+            },
+            {
+              "name": "Wrap-up at DEPO2015",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg von der Tram durch das Industriegelände.",
+                "hu": "Rövid séta a villamostól az ipari területen keresztül.",
+                "ro": "O scurtă plimbare de la tramvai prin zona industrială.",
+                "en": "A short walk from the tram through the industrial area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten kontaktlos direkt in der Straßenbahn.",
+              "Die Linien 1 und 2 verkehren im Minutentakt.",
+              "Achten Sie auf nasse Böden in den Fahrzeugen."
+            ],
+            "hu": [
+              "Vegye meg jegyét érintésmentesen közvetlenül a villamoson.",
+              "Az 1-es és 2-es vonal percenként jár.",
+              "Ügyeljen a vizes padlóra a járműveken."
+            ],
+            "ro": [
+              "Cumpărați biletele contactless direct în tramvai.",
+              "Liniile 1 și 2 circulă la intervale foarte scurte.",
+              "Atenție la podelele umede din vehicule."
+            ],
+            "en": [
+              "Buy your tickets contactless directly on the tram.",
+              "Lines 1 and 2 run every few minutes.",
+              "Watch out for wet floors in the vehicles."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit den beheizten Straßenbahnen ist Pilsen auch im Winter gut zu erkunden. Morgens besuchen wir die Kathedrale am frostigen Hauptplatz. Mittags wärmen wir uns im historischen Untergrund auf. Nachmittags geht es zur Großen Synagoge und zur Brauerei. Der Tag endet im gemütlichen DEPO2015, wo Ausstellungen im Warmen auf Besucher warten.",
+            "hu": "A fűtött villamosokkal télen is kényelmesen felfedezhető Plzeň. Reggel a katedrálist látogatjuk meg a fagyos főtéren. Délben a földalatti járatokban melegszünk fel. Délután a Nagy Zsinagóga és a sörgyár következik. A nap a DEPO2015-ben zárul, ahol meleg kiállítóterek várják.",
+            "ro": "Cu tramvaiele încălzite, Plzeň este ușor de explorat iarna. Dimineața vizităm catedrala din piața înghețată. La prânz ne încălzim în galeriile subterane. După-amiaza urmează Marea Sinagogă și fabrica de bere. Ziua se încheie la DEPO2015, cu expoziții la căldură.",
+            "en": "With heated trams, Pilsen is easy to explore even in winter. In the morning, we visit the cathedral in the frosty main square. At noon, we warm up in the historical underground. In the afternoon, it's the Great Synagogue and the brewery. The day ends at the cozy DEPO2015 with indoor exhibitions."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Republic Square",
+              "tip_5lang": {
+                "de": "In den Trams ist es angenehm warm.",
+                "hu": "A villamosokon kellemesen meleg van.",
+                "ro": "În tramvaie este plăcut de cald.",
+                "en": "Trams are pleasantly warm."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Cathedral",
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen aus der Tram auf Schneematsch.",
+                "hu": "A villamosról leszállva ügyeljen a hókására.",
+                "ro": "Atenție la lapoviță când coborâți din tramvai.",
+                "en": "Watch out for slush when getting off the tram."
+              }
+            },
+            {
+              "name": "Historical Underground",
+              "tip_5lang": {
+                "de": "10 Grad konstante Temperatur ist wärmer als draußen.",
+                "hu": "A 10 fokos hőmérséklet melegebb, mint kint.",
+                "ro": "10 grade constant este mai cald decât afară.",
+                "en": "10 degrees constant is warmer than outside."
+              }
+            },
+            {
+              "name": "Great Synagogue",
+              "tip_5lang": {
+                "de": "Der kurze Weg von der Tram hilft, nicht auszukühlen.",
+                "hu": "A villamostól való rövid út segít, hogy ne hűljön ki.",
+                "ro": "Drumul scurt de la tramvai ajută la menținerea căldurii.",
+                "en": "The short walk from the tram helps avoid getting cold."
+              }
+            },
+            {
+              "name": "Pilsner Urquell Brewery",
+              "tip_5lang": {
+                "de": "Die Wartezeiten für die Tram sind im Winter kurz.",
+                "hu": "A villamosok télen is gyakran járnak.",
+                "ro": "Timpii de așteptare pentru tramvai sunt scurți.",
+                "en": "Tram waiting times are short even in winter."
+              }
+            },
+            {
+              "name": "Techmania Science Center",
+              "tip_5lang": {
+                "de": "Ideal für den Nachmittag im beheizten Museum.",
+                "hu": "Ideális a délután fűtött múzeumban töltésére.",
+                "ro": "Ideal pentru după-amiaza în muzeul încălzit.",
+                "en": "Ideal for the afternoon in the heated museum."
+              }
+            },
+            {
+              "name": "Wrap-up at DEPO2015",
+              "tip_5lang": {
+                "de": "Abends ist das Areal stimmungsvoll beleuchtet.",
+                "hu": "Este a terület hangulatosan meg van világítva.",
+                "ro": "Seara, zona este iluminată sugestiv.",
+                "en": "In the evening, the area is atmospherically lit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App Moje Plzeňská jízdenka.",
+              "Trams sind perfekt zum Aufwärmen zwischen den Stopps.",
+              "Kleiden Sie sich warm für das Warten an Haltestellen."
+            ],
+            "hu": [
+              "Használja a Moje Plzeňská jízdenka alkalmazást.",
+              "A villamosok ideálisak a felmelegedéshez.",
+              "Öltözzön melegen a megállókban való várakozáshoz."
+            ],
+            "ro": [
+              "Folosiți aplicația Moje Plzeňská jízdenka.",
+              "Tramvaiele sunt ideale pentru încălzire între stopuri.",
+              "Purtați haine groase pentru așteptarea în stații."
+            ],
+            "en": [
+              "Use the Moje Plzeňská jízdenka app.",
+              "Trams are perfect for warming up between stops.",
+              "Dress warmly for waiting at the stops."
+            ]
+          }
+        }
       }
     }
   }

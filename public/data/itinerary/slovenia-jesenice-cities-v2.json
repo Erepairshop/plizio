@@ -13,7 +13,7 @@
       "speed_kmh": 3,
       "start": "09:00",
       "end_estimate": "17:10",
-      "total_km": 1.8,
+      "total_km": 3.8,
       "stop_count": 6,
       "stops": [
         {
@@ -336,6 +336,188 @@
           "Allow extra time for the museum, it's surprisingly rich.",
           "Some areas of the Stara Sava complex are outdoors, check the weather."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der Stara Sava, wo die großen Industriedächer Schutz vor dem Regen bieten. Mittags ziehen Sie sich in das Bucelleni-Ruard-Herrenhaus zurück, um die lokalen Ausstellungen im Trockenen zu genießen. Der Nachmittag gehört dem Oberkrainer Museum, das einen tiefen Einblick in die Eisenhüttengeschichte bietet, während die Stadt draußen im Nebel des Save-Tals versinkt.",
+            "hu": "Kezdje a napot Stara Savában, ahol a hatalmas ipari tetők védelmet nyújtanak az eső ellen. Délben vonuljon vissza a Bucelleni-Ruard kastélyba, hogy szárazon élvezze a helyi kiállításokat. A délutánt töltse a Felső-Krajnai Múzeumban, amely mély betekintést nyújt a vaskohászat történetébe, miközben odakint a város a Száva-völgy ködébe vész.",
+            "ro": "Începeți ziua în Stara Sava, unde acoperișurile industriale mari oferă adăpost împotriva ploii. La prânz, retrageți-vă la Conacul Bucelleni-Ruard pentru a vă bucura de expozițiile locale la adăpost. După-amiaza aparține Muzeului Oberkrainer, care oferă o privire detaliată asupra istoriei siderurgiei, în timp ce afară orașul este învăluit în ceața văii râului Sava.",
+            "en": "Start your day in Stara Sava, where the large industrial roofs provide shelter from the rain. At noon, retreat to the Bucelleni-Ruard Mansion to enjoy the local exhibits in the dry. The afternoon belongs to the Oberkrainer Museum, which offers a deep look into the ironworks history, while outside the city is enveloped in the mist of the Sava valley."
+          },
+          "stops": [
+            {
+              "name": "Stara Sava (Old Sava)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche der alten Eisenhütte als Schutz.",
+                "hu": "Használja a régi vasmű fedett területeit esővédőként.",
+                "ro": "Folosiți zonele acoperite ale vechii fabrici de fier ca adăpost.",
+                "en": "Use the covered areas of the old ironworks as shelter."
+              }
+            },
+            {
+              "name": "Kolpern (Charcoal storage)",
+              "tip_5lang": {
+                "de": "Das massive Gebäude ist ein perfekter Ort, um dem Regen kurz zu entfliehen.",
+                "hu": "A masszív épület tökéletes hely az eső elöli rövid menekülésre.",
+                "ro": "Clădirea masivă este un loc perfect pentru a scăpa scurt de ploaie.",
+                "en": "The massive building is a perfect place to escape the rain briefly."
+              }
+            },
+            {
+              "name": "Church of St. Leonard",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Inneren, während es draußen regnet.",
+                "hu": "Élvezze a benti nyugalmat, miközben odakint esik.",
+                "ro": "Bucurați-vă de liniștea din interior în timp ce afară plouă.",
+                "en": "Enjoy the quiet interior while it rains outside."
+              }
+            },
+            {
+              "name": "Bucelleni-Ruard Mansion",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine längere Pause im Trockenen.",
+                "hu": "Ideális hely egy hosszabb szünethez a szárazban.",
+                "ro": "Un loc ideal pentru o pauză mai lungă la uscat.",
+                "en": "An ideal place for a longer break in the dry."
+              }
+            },
+            {
+              "name": "Oberkrainer Museum",
+              "tip_5lang": {
+                "de": "Die Ausstellungsräume sind warm und wetterfest.",
+                "hu": "A kiállítótermek melegek és időjárásállóak.",
+                "ro": "Sălile de expoziție sunt calde și rezistente la intemperii.",
+                "en": "The exhibition rooms are warm and weatherproof."
+              }
+            },
+            {
+              "name": "Monument of the Liberation",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto; halten Sie den Regenschirm bereit.",
+                "hu": "Rövid megálló egy fotóra; tartsa készenlétben az esernyőt.",
+                "ro": "O oprire scurtă pentru o fotografie; țineți umbrela pregătită.",
+                "en": "A short stop for a photo; keep your umbrella ready."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Kopfsteinpflaster in Stara Sava rutschig sein können.",
+              "Die Museen bieten ideale Zufluchtsorte bei anhaltendem Regen.",
+              "Halten Sie Ausschau nach den Industriedächern, die oft als natürlicher Regenschutz dienen.",
+              "Ein Taschenregenschirm ist in diesem Alpental unverzichtbar."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a Stara Sava macskakövei csúszósak lehetnek.",
+              "A múzeumok ideális menedéket nyújtanak tartós eső esetén.",
+              "Keresse az ipari tetőket, amelyek gyakran természetes esővédőként szolgálnak.",
+              "Az alpesi völgyben egy összecsukható esernyő nélkülözhetetlen."
+            ],
+            "ro": [
+              "Purtați pantofi rezistenți la apă, deoarece pavajul din Stara Sava poate fi alunecos.",
+              "Muzeele oferă refugii ideale în caz de ploaie persistentă.",
+              "Căutați acoperișurile industriale care servesc adesea ca protecție naturală.",
+              "O umbrelă compactă este indispensabilă în această vale alpină."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones in Stara Sava can be slippery.",
+              "The museums provide ideal shelters during persistent rain.",
+              "Look for industrial roofs that often serve as natural rain protection.",
+              "A compact umbrella is indispensable in this alpine valley."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die industrielle Atmosphäre von Jesenice in der klirrenden Winterkälte. Morgens wirkt die Stara Sava mit Raureif fast magisch. Mittags wärmen Sie sich in den geschichtsträchtigen Mauern des Herrenhauses auf, bevor Sie den kurzen Tag im Oberkrainer Museum nutzen. Den Abend lassen Sie am Denkmal der Befreiung ausklingen, wenn die Fabriklichter in der früh einsetzenden Dunkelheit leuchten.",
+            "hu": "Tapasztalja meg Jesenice ipari hangulatát a metsző téli hidegben. Reggel a Stara Sava a zúzmarával szinte varázslatosnak tűnik. Délben melegedjen fel a kastély történelmi falai között, mielőtt kihasználná a rövid nappalt a múzeumban. Az estét a Felszabadulási Emlékműnél zárja, amikor a gyár fényei felgyúlnak a korai sötétségben.",
+            "ro": "Experimentați atmosfera industrială din Jesenice în gerul tăios al iernii. Dimineața, Stara Sava pare aproape magică sub chiciură. La prânz, încălziți-vă între zidurile istorice ale conacului înainte de a profita de ziua scurtă la muzeu. Încheiați seara la Monumentul Eliberării, când luminile fabricii se aprind în întunericul care se lasă devreme.",
+            "en": "Experience the industrial atmosphere of Jesenice in the biting winter cold. In the morning, Stara Sava looks almost magical with hoarfrost. At noon, warm up within the historic walls of the mansion before making the most of the short day at the museum. End the evening at the Monument of the Liberation as the factory lights glow in the early darkness."
+          },
+          "stops": [
+            {
+              "name": "Stara Sava (Old Sava)",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Flächen auf dem alten Industriegelände.",
+                "hu": "Vigyázzon a jeges felületekre a régi ipari területen.",
+                "ro": "Atenție la suprafețele înghețate de pe vechiul sit industrial.",
+                "en": "Watch out for icy patches on the old industrial site."
+              }
+            },
+            {
+              "name": "Kolpern (Charcoal storage)",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen.",
+                "hu": "A vastag falak kint tartják a hideget.",
+                "ro": "Zidurile groase țin frigul afară.",
+                "en": "The thick walls keep the cold out."
+              }
+            },
+            {
+              "name": "Church of St. Leonard",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und oft etwas wärmer als im Freien.",
+                "hu": "A csend helye, és gyakran valamivel melegebb, mint kint.",
+                "ro": "Un loc de liniște și adesea ceva mai cald decât afară.",
+                "en": "A place of silence and often a bit warmer than outdoors."
+              }
+            },
+            {
+              "name": "Bucelleni-Ruard Mansion",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen.",
+                "hu": "Használja a múzeumlátogatást a felmelegedésre.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi.",
+                "en": "Use the museum visit to warm up."
+              }
+            },
+            {
+              "name": "Oberkrainer Museum",
+              "tip_5lang": {
+                "de": "Helles Licht und Wärme machen den Wintertag angenehmer.",
+                "hu": "A világos fények és a meleg kellemesebbé teszik a téli napot.",
+                "ro": "Lumina strălucitoare și căldura fac ziua de iarnă mai plăcută.",
+                "en": "Bright lights and warmth make the winter day more pleasant."
+              }
+            },
+            {
+              "name": "Monument of the Liberation",
+              "tip_5lang": {
+                "de": "In der Dämmerung ist das Denkmal oft eindrucksvoll beleuchtet.",
+                "hu": "Sötétedéskor az emlékmű gyakran hatásosan van kivilágítva.",
+                "ro": "La amurg, monumentul este adesea iluminat impresionant.",
+                "en": "At dusk, the monument is often impressively illuminated."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ziehen Sie sich warm an, da der Wind im Tal sehr kalt sein kann.",
+              "Die Sonne verschwindet im Winter bereits gegen 16:30 Uhr hinter den Bergen.",
+              "Der Museumsbesuch ist die beste Strategie gegen die Kälte.",
+              "Vermeiden Sie lange Stehzeiten im Freien ohne Bewegung."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a völgyben fújó szél nagyon hideg lehet.",
+              "A nap télen már 16:30 körül eltűnik a hegyek mögött.",
+              "A múzeumlátogatás a legjobb stratégia a hideg ellen.",
+              "Kerülje a hosszú ideig tartó egy helyben állást a szabadban."
+            ],
+            "ro": [
+              "Îmbrăcați-vă gros, deoarece vântul din vale poate fi foarte rece.",
+              "Soarele dispare iarna în spatele munților deja în jurul orei 16:30.",
+              "Vizitarea muzeelor este cea mai bună strategie împotriva frigului.",
+              "Evitați perioadele lungi de stat în picioare afară fără mișcare."
+            ],
+            "en": [
+              "Dress in layers as the wind in the valley can be very cold.",
+              "The sun disappears behind the mountains as early as 4:30 PM in winter.",
+              "Museum visits are the best strategy against the cold.",
+              "Avoid standing still outdoors for long periods without movement."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -689,6 +871,206 @@
           "The town is relatively bike-friendly, but be aware of traffic on main roads.",
           "Bring water and snacks for the longer afternoon ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt durch die 'Stadt aus Stahl'. Morgens erkunden Sie die Stara Sava, wobei die feuchten Metallstrukturen besonders glänzen. Mittags bietet das Herrenhaus eine willkommene Pause vom Regen. Am Nachmittag radeln Sie zur Ice Hall, bevor Sie den Aufstieg zum Mežakla-Plateau wagen, wo der Wald bei Regen eine mystische Ruhe ausstrahlt.",
+            "hu": "Vizes tekerés az 'Acél Városában'. Reggel fedezze fel Stara Savát, ahol a nedves fémszerkezetek különösen csillognak. Délben a kastély nyújt szívesen látott szünetet az eső elől. Délután tekerjen a Jégcsarnokhoz, mielőtt nekivágna a Mežakla-fennsíknak, ahol az erdő esőben misztikus nyugalmat áraszt.",
+            "ro": "O cursă umedă prin 'Orașul Oțelului'. Dimineața explorați Stara Sava, unde structurile metalice umede strălucesc în mod deosebit. La prânz, conacul oferă o pauză binevenită de la ploaie. După-amiaza pedalați spre Sala de Gheață înainte de a urca pe Platoul Mežakla, unde pădurea emană o liniște mistică pe ploaie.",
+            "en": "A wet ride through the 'Town of Steel'. In the morning, explore Stara Sava, where the damp metal structures shine especially bright. At noon, the mansion offers a welcome break from the rain. In the afternoon, cycle to the Ice Hall before venturing up to the Mežakla Plateau, where the forest exudes a mystical calm in the rain."
+          },
+          "stops": [
+            {
+              "name": "Stara Sava (Old Sava)",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassen Metallschienen und Kopfsteinpflaster.",
+                "hu": "Vigyázzon a nedves fémsíneken és a macskakövön.",
+                "ro": "Atenție la șinele metalice umede și pavaj.",
+                "en": "Be careful on wet metal rails and cobblestones."
+              }
+            },
+            {
+              "name": "Kolpern (Charcoal storage)",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach möglich.",
+                "hu": "Rövid megálló a védőtető alatt lehetséges.",
+                "ro": "Scurtă oprire posibilă sub streașină.",
+                "en": "Short stop possible under the eaves."
+              }
+            },
+            {
+              "name": "Bucelleni-Ruard Mansion",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder in der Nähe vorhanden.",
+                "hu": "Biztonságos kerékpártároló található a közelben.",
+                "ro": "Loc de parcare sigur pentru biciclete disponibil în apropiere.",
+                "en": "Safe bicycle parking available nearby."
+              }
+            },
+            {
+              "name": "Jesenice Ice Hall",
+              "tip_5lang": {
+                "de": "Das moderne Vordach bietet Schutz beim Verschnaufen.",
+                "hu": "A modern előtető védelmet nyújt pihenés közben.",
+                "ro": "Copertina modernă oferă protecție în timpul odihnei.",
+                "en": "The modern canopy provides protection while resting."
+              }
+            },
+            {
+              "name": "Monument of the Liberation",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen rund um den Platz.",
+                "hu": "Vigyázzon a tócsákra a téren.",
+                "ro": "Atenție la bălțile din jurul pieței.",
+                "en": "Watch out for puddles around the square."
+              }
+            },
+            {
+              "name": "Church of St. Leonard",
+              "tip_5lang": {
+                "de": "Ruhiger Punkt, um kurz aus dem Regen zu kommen.",
+                "hu": "Csendes pont, hogy rövid időre kiszabaduljon az esőből.",
+                "ro": "Punct liniștit pentru a ieși scurt din ploaie.",
+                "en": "Quiet spot to briefly get out of the rain."
+              }
+            },
+            {
+              "name": "Mežakla Plateau Viewpoint",
+              "tip_5lang": {
+                "de": "Der Anstieg kann bei Nässe rutschig sein; gute Reifen sind Pflicht.",
+                "hu": "Az emelkedő nedvesen csúszós lehet; a jó gumi kötelező.",
+                "ro": "Urcarea poate fi alunecoasă pe timp umed; anvelopele bune sunt obligatorii.",
+                "en": "The climb can be slippery when wet; good tires are mandatory."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie bei starkem Regen die steileren Waldwege auf Mežakla.",
+              "Nutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Die Bremswege auf den nassen Straßen im Tal verlängern sich deutlich.",
+              "In der Nähe der Museen gibt es oft Cafés für eine Pause im Trockenen."
+            ],
+            "hu": [
+              "Heves esőben kerülje a Mežakla meredekebb erdei útjait.",
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "A féktávolság a völgy nedves útjain jelentősen meghosszabbodik.",
+              "A múzeumok közelében gyakran vannak kávézók egy száraz szünethez."
+            ],
+            "ro": [
+              "Evitați potecile forestiere mai abrupte de pe Mežakla pe ploaie torențială.",
+              "Folosiți apărători de noroi pentru a vă proteja de stropi.",
+              "Distanțele de frânare pe drumurile umede din vale cresc semnificativ.",
+              "În apropierea muzeelor există adesea cafenele pentru o pauză la uscat."
+            ],
+            "en": [
+              "Avoid steeper forest paths on Mežakla during heavy rain.",
+              "Use mudguards to protect yourself from water spray.",
+              "Braking distances on wet valley roads increase significantly.",
+              "There are often cafes near the museums for a break in the dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frostige Tour durch die Alpenstadt. Morgens glitzert die Stara Sava unter einer Schneedecke. Mittags bietet die Mansion den perfekten Ort zum Aufwärmen der Finger. Am Nachmittag führt die Route am Monument vorbei zur Ice Hall, dem pulsierenden Herz von Jesenice im Winter. Der anstrengende Aufstieg zum Mežakla-Plateau belohnt mit einer klaren, kalten Fernsicht auf die schneebedeckten Gipfel.",
+            "hu": "Fagyos túra az alpesi városban. Reggel a Stara Sava hólepel alatt csillog. Délben a kastély tökéletes hely az ujjak felmelegítésére. Délután az útvonal az emlékmű mellett vezet a Jégcsarnokhoz, Jesenice téli szívéhez. A fárasztó felkapaszkodás a Mežakla-fennsíkra tiszta, hideg kilátással jutalmaz a hófödte csúcsokra.",
+            "ro": "Un tur înghețat prin orașul alpin. Dimineața, Stara Sava scliprește sub un strat de zăpadă. La prânz, conacul oferă locul perfect pentru a vă încălzi degetele. După-amiaza, traseul trece pe lângă monument spre Sala de Gheață, inima vibrantă a orașului Jesenice iarna. Urcarea solicitantă pe Platoul Mežakla recompensează cu o vedere clară și rece asupra vârfurilor înzăpezite.",
+            "en": "A frosty tour through the alpine town. In the morning, Stara Sava glitters under a blanket of snow. At noon, the mansion provides the perfect spot to warm up your fingers. In the afternoon, the route passes the monument to the Ice Hall, the pulsating heart of Jesenice in winter. The strenuous climb to the Mežakla Plateau rewards you with a clear, cold view of the snow-capped peaks."
+          },
+          "stops": [
+            {
+              "name": "Stara Sava (Old Sava)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Streusalz, das den Fahrradrahmen angreifen kann.",
+                "hu": "Vigyázzon az útszóró sóval, amely károsíthatja a kerékpárvázat.",
+                "ro": "Atenție la sarea de pe drum, care poate ataca cadrul bicicletei.",
+                "en": "Watch out for road salt, which can damage the bike frame."
+              }
+            },
+            {
+              "name": "Kolpern (Charcoal storage)",
+              "tip_5lang": {
+                "de": "Fotogen im Schnee, aber Vorsicht vor Glatteis am Eingang.",
+                "hu": "Fotogén a hóban, de vigyázzon a tükörjéggel a bejáratnál.",
+                "ro": "Fotogenic în zăpadă, dar atenție la gheață la intrare.",
+                "en": "Photogenic in the snow, but beware of black ice at the entrance."
+              }
+            },
+            {
+              "name": "Bucelleni-Ruard Mansion",
+              "tip_5lang": {
+                "de": "Ideal, um die Kälte für eine Weile zu vergessen.",
+                "hu": "Ideális, hogy egy időre elfelejtse a hideget.",
+                "ro": "Ideal pentru a uita de frig pentru o vreme.",
+                "en": "Ideal for forgetting the cold for a while."
+              }
+            },
+            {
+              "name": "Jesenice Ice Hall",
+              "tip_5lang": {
+                "de": "Hier herrscht im Winter Hochbetrieb; Fahrradständer vorhanden.",
+                "hu": "Télen itt nagy a forgalom; kerékpártámaszok rendelkezésre állnak.",
+                "ro": "Aici este forfotă iarna; suporturi de biciclete disponibile.",
+                "en": "This is a busy spot in winter; bike racks are available."
+              }
+            },
+            {
+              "name": "Monument of the Liberation",
+              "tip_5lang": {
+                "de": "Oft schneefrei geräumt, aber windig.",
+                "hu": "Gyakran hómentesített, de szeles.",
+                "ro": "Adesea deszăpezit, dar vântos.",
+                "en": "Often cleared of snow, but windy."
+              }
+            },
+            {
+              "name": "Church of St. Leonard",
+              "tip_5lang": {
+                "de": "Kurze Pause im geschützten Bereich der Kirche.",
+                "hu": "Rövid pihenő a templom védett részén.",
+                "ro": "Scurtă pauză în zona protejată a bisericii.",
+                "en": "Short break in the sheltered area of the church."
+              }
+            },
+            {
+              "name": "Mežakla Plateau Viewpoint",
+              "tip_5lang": {
+                "de": "Nur für erfahrene Winterradler; die Abfahrt ist extrem kalt.",
+                "hu": "Csak tapasztalt téli bringásoknak; a lejtmenet extrém hideg.",
+                "ro": "Doar pentru bicicliști de iarnă experimentați; coborârea este extrem de rece.",
+                "en": "Only for experienced winter cyclists; the descent is extremely cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Benutzen Sie im Winter Reifen mit gutem Profil oder Spikes.",
+              "Die Abfahrt von Mežakla erfordert winddichte Kleidung und gute Handschuhe.",
+              "Akku-Laufzeiten von E-Bikes verkürzen sich bei Kälte drastisch.",
+              "Planen Sie Ihre Tour so, dass Sie vor Sonnenuntergang (ca. 16:30 Uhr) zurück sind."
+            ],
+            "hu": [
+              "Télen használjon jó profilú vagy szöges gumikat.",
+              "A Mežakláról való leereszkedéshez szélálló ruházat és jó kesztyű kell.",
+              "Az e-bike-ok akkumulátorának üzemideje drasztikusan lerövidül hidegben.",
+              "Úgy tervezze a túrát, hogy naplemente (kb. 16:30) előtt visszaérjen."
+            ],
+            "ro": [
+              "Folosiți anvelope cu profil bun sau cu crampoane iarna.",
+              "Coborârea de pe Mežakla necesită îmbrăcăminte rezistentă la vânt și mănuși bune.",
+              "Durata de viață a bateriei bicicletelor electrice scade drastic la frig.",
+              "Planificați turul astfel încât să vă întoarceți înainte de apus (aprox. 16:30)."
+            ],
+            "en": [
+              "Use tires with good tread or spikes in winter.",
+              "The descent from Mežakla requires windproof clothing and good gloves.",
+              "Battery life for e-bikes shortens drastically in the cold.",
+              "Plan your tour to be back before sunset (around 4:30 PM)."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -993,6 +1375,188 @@
           "Plan a full afternoon for the plateau; there are many trails to explore.",
           "Fill up your gas tank before leaving the city, as stations are scarcer in the mountains."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem durch den Regen in der Industriestadt. Starten Sie trocken am Parkplatz Stara Sava. Mittags verbringen Sie viel Zeit im Bucelleni-Ruard-Herrenhaus, ohne sich nass zu machen. Am Nachmittag führt die Fahrt zur St.-Leonhard-Kirche und hinauf zum Mežakla-Plateau, wo Sie die Aussicht direkt vom Parkplatz aus genießen können, während es gegen die Scheiben prasselt.",
+            "hu": "Kényelmesen az esőben az ipari városban. Kezdjen szárazon a Stara Sava parkolóban. Délben töltsön el sok időt a kastélyban anélkül, hogy megázna. Délután az út a Szent Lénárd templomhoz vezet, majd fel a Mežakla-fennsíkra, ahol a kilátást közvetlenül a parkolóból is élvezheti, miközben az eső a szélvédőn kopog.",
+            "ro": "Confortabil prin ploaie în orașul industrial. Începeți uscat la parcarea Stara Sava. La prânz petreceți mult timp la conac fără să vă udați. După-amiaza, drumul duce la Biserica Sf. Leonard și sus pe Platoul Mežakla, unde vă puteți bucura de priveliște direct din parcare în timp ce ploaia bate în geam.",
+            "en": "Comfortably through the rain in the industrial town. Start dry at the Stara Sava parking lot. At noon, spend plenty of time in the mansion without getting wet. In the afternoon, the drive leads to St. Leonard's Church and up to the Mežakla Plateau, where you can enjoy the view directly from the parking lot while rain drums against the windows."
+          },
+          "stops": [
+            {
+              "name": "Stara Sava Parking",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz, idealer Ausgangspunkt bei Regen.",
+                "hu": "Központi parkoló, ideális kiindulópont esőben.",
+                "ro": "Parcare centrală, punct de plecare ideal pe ploaie.",
+                "en": "Central parking, ideal starting point in the rain."
+              }
+            },
+            {
+              "name": "Stara Sava & Kolpern",
+              "tip_5lang": {
+                "de": "Die Gebäude bieten weitläufigen Schutz vor Niederschlag.",
+                "hu": "Az épületek kiterjedt védelmet nyújtanak a csapadék ellen.",
+                "ro": "Clădirile oferă protecție extinsă împotriva precipitațiilor.",
+                "en": "The buildings offer extensive protection from precipitation."
+              }
+            },
+            {
+              "name": "Bucelleni-Ruard Mansion",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor dem Eingang erleichtern den Zugang.",
+                "hu": "Közvetlenül a bejárat előtti parkolók megkönnyítik a bejutást.",
+                "ro": "Locurile de parcare direct în fața intrării facilitează accesul.",
+                "en": "Parking spaces right in front of the entrance make access easy."
+              }
+            },
+            {
+              "name": "Church of St. Leonard",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum Kircheneingang.",
+                "hu": "Rövid séta a parkolótól a templom bejáratáig.",
+                "ro": "Drum scurt pe jos de la parcare la intrarea în biserică.",
+                "en": "Short walk from the parking lot to the church entrance."
+              }
+            },
+            {
+              "name": "Mežakla Plateau Parking",
+              "tip_5lang": {
+                "de": "Bei starkem Regen kann man hier im Auto auf eine Lücke warten.",
+                "hu": "Heves esőben itt az autóban várhatja meg az eső szünetét.",
+                "ro": "Pe ploaie torențială, puteți aștepta aici în mașină o pauză.",
+                "en": "In heavy rain, you can wait for a break in the weather here in the car."
+              }
+            },
+            {
+              "name": "Mežakla Plateau Walk",
+              "tip_5lang": {
+                "de": "Wählen Sie nur die befestigten Wege zum Aussichtspunkt.",
+                "hu": "Csak a szilárd burkolatú utakat válassza a kilátóhoz.",
+                "ro": "Alegeți doar potecile pavate spre punctul de belvedere.",
+                "en": "Choose only the paved paths to the viewpoint."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straße zum Mežakla-Plateau kann bei starkem Regen rutschig sein.",
+              "Nutzen Sie die Parkplätze nah an den Museen, um trocken zu bleiben.",
+              "Im Stadtzentrum gibt es mehrere Parkmöglichkeiten mit kurzem Weg zum Ziel.",
+              "Vermeiden Sie das Parken unter alten Bäumen bei Sturmgefahr."
+            ],
+            "hu": [
+              "A Mežakla-fennsíkra vezető út heves esőben csúszós lehet.",
+              "Használja a múzeumokhoz közeli parkolókat, hogy száraz maradjon.",
+              "A városközpontban több parkolási lehetőség van rövid sétára a céltól.",
+              "Viharveszély esetén kerülje az öreg fák alatti parkolást."
+            ],
+            "ro": [
+              "Drumul spre Platoul Mežakla poate fi alunecos pe ploaie torențială.",
+              "Folosiți parcările aproape de muzee pentru a rămâne uscat.",
+              "În centrul orașului există mai multe opțiuni de parcare la scurtă distanță.",
+              "Evitați parcarea sub copaci bătrâni în caz de pericol de furtună."
+            ],
+            "en": [
+              "The road to the Mežakla Plateau can be slippery in heavy rain.",
+              "Use parking spots near the museums to stay dry.",
+              "There are several parking options in the city center within a short walk.",
+              "Avoid parking under old trees if there is a risk of storms."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Jesenice warm und sicher vom Auto aus. Morgens glänzt die Industriearchitektur im Frost. Mittags parken Sie direkt am Herrenhaus und genießen die wohlige Wärme im Museum. Am Nachmittag führt die verschneite Auffahrt zum Mežakla-Plateau, wo Sie ein atemberaubendes Panorama der Julischen Alpen erwartet. Den Abend beschließen Sie in der Nähe der Ice Hall, um die winterliche Energie der Stadt zu spüren.",
+            "hu": "Fedezze fel Jesenicét melegen és biztonságban az autóból. Reggel a fagyban ragyog az ipari építészet. Délben parkoljon közvetlenül a kastélynál, és élvezze a múzeum kellemes melegét. Délután a havas út vezet fel a Mežakla-fennsíkra, ahol a Júliai-Alpok lélegzetelállító panorámája várja. Az estét a Jégcsarnok közelében zárja, hogy átérezze a város téli energiáját.",
+            "ro": "Descoperiți Jesenice la căldură și în siguranță din mașină. Dimineața, arhitectura industrială strălucește în ger. La prânz, parcați direct la conac și bucurați-vă de căldura plăcută din muzeu. După-amiaza, urcarea înzăpezită duce la Platoul Mežakla, unde vă așteaptă o panoramă uluitoare a Alpilor Iulieni. Încheiați seara lângă Sala de Gheață pentru a simți energia hibernală a orașului.",
+            "en": "Discover Jesenice warmly and safely from the car. In the morning, the industrial architecture shines in the frost. At noon, park right by the mansion and enjoy the cozy warmth of the museum. In the afternoon, the snowy ascent leads to the Mežakla Plateau, where a breathtaking panorama of the Julian Alps awaits. End the evening near the Ice Hall to feel the city's winter energy."
+          },
+          "stops": [
+            {
+              "name": "Stara Sava Parking",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird regelmäßig geräumt.",
+                "hu": "A parkolót rendszeresen takarítják.",
+                "ro": "Parcarea este curățată regulat.",
+                "en": "The parking lot is cleared of snow regularly."
+              }
+            },
+            {
+              "name": "Stara Sava & Kolpern",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Gebäuden minimieren die Kälte.",
+                "hu": "Az épületek közötti rövid távolságok minimalizálják a hideget.",
+                "ro": "Distanțele scurte între clădiri minimizează expunerea la frig.",
+                "en": "Short distances between buildings minimize exposure to the cold."
+              }
+            },
+            {
+              "name": "Bucelleni-Ruard Mansion",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken in hohen Schneewächten.",
+                "hu": "Kerülje a magas hótorlaszokba való parkolást.",
+                "ro": "Evitați parcarea în troiene mari de zăpadă.",
+                "en": "Avoid parking in high snowdrifts."
+              }
+            },
+            {
+              "name": "Church of St. Leonard",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eiszapfen an alten Dächern.",
+                "hu": "Vigyázzon a jégcsapokra a régi tetőknél.",
+                "ro": "Atenție la țurțuri de pe acoperișurile vechi.",
+                "en": "Beware of icicles on old roofs."
+              }
+            },
+            {
+              "name": "Mežakla Plateau Parking",
+              "tip_5lang": {
+                "de": "Winterreifen und ggf. Schneeketten sind für diese Auffahrt Pflicht.",
+                "hu": "Téli gumi és szükség esetén hólánc kötelező ehhez az emelkedőhöz.",
+                "ro": "Anvelopele de iarnă și eventual lanțurile sunt obligatorii pentru urcare.",
+                "en": "Winter tires and possibly snow chains are mandatory for this ascent."
+              }
+            },
+            {
+              "name": "Mežakla Plateau Walk",
+              "tip_5lang": {
+                "de": "Der Weg zum Aussichtspunkt kann vereist sein; Vorsicht!",
+                "hu": "A kilátóhoz vezető út jeges lehet; vigyázat!",
+                "ro": "Drumul spre punctul de belvedere poate fi înghețat; atenție!",
+                "en": "The path to the viewpoint can be icy; be careful!"
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer einen Eiskratzer und Frostschutzmittel mit.",
+              "Die Bergstraße nach Mežakla wird bei starkem Schneefall zuletzt geräumt.",
+              "Parken Sie im Winter bevorzugt an geräumten Stellen.",
+              "Denken Sie an den frühen Sonnenuntergang bei der Planung der Bergfahrt."
+            ],
+            "hu": [
+              "Mindig tartson magánál jégkaparót és fagyállót.",
+              "A Mežaklára vezető hegyi utat heves havazáskor takarítják utoljára.",
+              "Télen lehetőleg takarított helyen parkoljon.",
+              "A hegyi út tervezésekor gondoljon a korai naplementére."
+            ],
+            "ro": [
+              "Aveți întotdeauna la îndemână o racletă și antigel.",
+              "Drumul montan spre Mežakla este deszăpezit ultimul în caz de ninsoare abundentă.",
+              "Iarna, parcați de preferință în locuri deszăpezite.",
+              "Țineți cont de apusul devreme când planificați urcarea pe munte."
+            ],
+            "en": [
+              "Always carry an ice scraper and antifreeze.",
+              "The mountain road to Mežakla is cleared last during heavy snowfall.",
+              "Prefer parking in cleared areas during winter.",
+              "Remember the early sunset when planning the mountain drive."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1297,6 +1861,188 @@
           "Have small change ready for bus tickets.",
           "Be aware of the last bus time back to the city, especially from more remote areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus durch das verregnete Save-Tal. Starten Sie im Zentrum, wo das Befreiungsdenkmal im Regen glänzt. Mittags bietet die Ice Hall einen modernen Schutzraum. Die Busfahrt nach Stara Sava ist kurz und trocken, ideal um direkt zu den Museen zu gelangen. Den Nachmittag verbringen Sie in den Ausstellungsräumen des Bucelleni-Ruard-Herrenhauses, bevor Sie den Tag entspannt beenden.",
+            "hu": "Busszal a verőfényesnek nem mondható Száva-völgyben. Kezdjen a központban, ahol az emlékmű csillog az esőben. Délben a Jégcsarnok nyújt modern menedéket. A buszút Stara Savába rövid és száraz, ideális a múzeumok eléréséhez. A délutánt a kastély kiállítótermeiben töltse, mielőtt nyugodtan befejezné a napot.",
+            "ro": "Cu autobuzul prin Valea Savei ploioasă. Începeți în centru, unde monumentul strălucește pe ploaie. La prânz, Sala de Gheață oferă un adăpost modern. Cursa cu autobuzul spre Stara Sava este scurtă și uscată, ideală pentru a ajunge direct la muzee. După-amiaza petreceți-o în sălile de expoziție ale conacului înainte de a încheia ziua relaxat.",
+            "en": "By bus through the rainy Sava valley. Start in the center, where the monument shines in the rain. At noon, the Ice Hall provides a modern shelter. The bus ride to Stara Sava is short and dry, ideal for getting straight to the museums. Spend the afternoon in the exhibition rooms of the mansion before ending the day relaxed."
+          },
+          "stops": [
+            {
+              "name": "Center Bus Stop",
+              "tip_5lang": {
+                "de": "Überdachte Bushaltestelle vorhanden.",
+                "hu": "Fedett buszmegálló áll rendelkezésre.",
+                "ro": "Stație de autobuz acoperită disponibilă.",
+                "en": "Covered bus stop available."
+              }
+            },
+            {
+              "name": "Jesenice Ice Hall",
+              "tip_5lang": {
+                "de": "Großer Innenraum, perfekt um dem Regen zu entfliehen.",
+                "hu": "Nagy belső tér, tökéletes menekülés az eső elől.",
+                "ro": "Spațiu interior mare, perfect pentru a scăpa de ploaie.",
+                "en": "Large interior space, perfect for escaping the rain."
+              }
+            },
+            {
+              "name": "Stara Sava Bus Stop",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Unterstand auf die Rückfahrt.",
+                "hu": "Várja a visszautat a váró alatt.",
+                "ro": "Așteptați cursa de întoarcere sub adăpost.",
+                "en": "Wait for the return trip under the shelter."
+              }
+            },
+            {
+              "name": "Stara Sava & Kolpern",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Haltestelle zu den Gebäuden.",
+                "hu": "Rövid út a megállótól az épületekig.",
+                "ro": "Drum scurt de la stație la clădiri.",
+                "en": "Short walk from the stop to the buildings."
+              }
+            },
+            {
+              "name": "Bucelleni-Ruard & Museum",
+              "tip_5lang": {
+                "de": "Ein langer Aufenthalt im Trockenen ist hier garantiert.",
+                "hu": "A szárazon töltött hosszú idő itt garantált.",
+                "ro": "O ședere lungă la uscat este garantată aici.",
+                "en": "A long stay in the dry is guaranteed here."
+              }
+            },
+            {
+              "name": "Bus Stop for Mežakla",
+              "tip_5lang": {
+                "de": "Wählen Sie bei starkem Regen lieber eine Indoor-Alternative.",
+                "hu": "Heves esőben válasszon inkább beltéri alternatívát.",
+                "ro": "Pe ploaie torențială, alegeți mai degrabă o alternativă de interior.",
+                "en": "In heavy rain, choose an indoor alternative instead."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan online, um Wartezeiten im Regen zu vermeiden.",
+              "Die Busse in Jesenice sind zuverlässig und verbinden die Hauptsehenswürdigkeiten.",
+              "Halten Sie Kleingeld oder eine Bezahlkarte für das Ticket bereit.",
+              "Einige Haltestellen bieten besseren Regenschutz als andere."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet online, hogy elkerülje az esőben való várakozást.",
+              "A jesenicei buszok megbízhatóak és összekötik a főbb látnivalókat.",
+              "Készítsen elő aprópénzt vagy bankkártyát a jegyhez.",
+              "Néhány megálló jobb esővédelmet nyújt, mint a többi."
+            ],
+            "ro": [
+              "Verificați programul online pentru a evita așteptarea în ploaie.",
+              "Autobuzele din Jesenice sunt de încredere și conectează principalele atracții.",
+              "Aveți pregătit mărunțiș sau un card pentru bilet.",
+              "Unele stații oferă o protecție mai bună împotriva ploii decât altele."
+            ],
+            "en": [
+              "Check the bus schedule online to avoid waiting in the rain.",
+              "Buses in Jesenice are reliable and connect the main sights.",
+              "Have small change or a payment card ready for the ticket.",
+              "Some stops offer better rain protection than others."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Fahrt durch das winterliche Jesenice. Morgens genießen Sie den Blick auf die verschneiten Berge aus dem warmen Bus. Mittags ist die Ice Hall der ideale Ort, um die lokale Hockeykultur zu erleben. Die Museen in Stara Sava bieten Schutz vor der klirrenden Kälte. Nutzen Sie die gut getakteten Busverbindungen, um den kurzen Wintertag optimal auszunutzen, ohne lange im Freien zu stehen.",
+            "hu": "Hangulatos utazás a téli Jesenicében. Reggel élvezze a hófödte hegyek látványát a meleg buszból. Délben a Jégcsarnok ideális hely a helyi hokikultúra megismerésére. A Stara Sava múzeumai védelmet nyújtanak a metsző hideg ellen. Használja a jól ütemezett buszjáratokat a rövid téli nap optimális kihasználására, hosszú szabadban tartózkodás nélkül.",
+            "ro": "O călătorie plăcută prin Jesenice de iarnă. Dimineața, bucurați-vă de vederea munților înzăpeziți din autobuzul cald. La prânz, Sala de Gheață este locul ideal pentru a experimenta cultura locală de hochei. Muzeele din Stara Sava oferă protecție împotriva gerului. Folosiți conexiunile bune de autobuz pentru a profita la maximum de ziua scurtă de iarnă fără a sta mult afară.",
+            "en": "A cozy ride through winter Jesenice. In the morning, enjoy the view of the snow-capped mountains from the warm bus. At noon, the Ice Hall is the ideal place to experience the local hockey culture. The museums in Stara Sava provide protection from the biting cold. Use the well-timed bus connections to make the most of the short winter day without standing outside for long."
+          },
+          "stops": [
+            {
+              "name": "Center Bus Stop",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz vor dem kalten Wind im Wartehäuschen.",
+                "hu": "Keressen menedéket a hideg szél elől a váróban.",
+                "ro": "Căutați adăpost împotriva vântului rece în stație.",
+                "en": "Seek shelter from the cold wind in the bus waiting area."
+              }
+            },
+            {
+              "name": "Jesenice Ice Hall",
+              "tip_5lang": {
+                "de": "Warmer Treffpunkt der Stadt im Winter.",
+                "hu": "A város meleg találkozóhelye télen.",
+                "ro": "Punct de întâlnire cald al orașului iarna.",
+                "en": "Warm meeting point of the city in winter."
+              }
+            },
+            {
+              "name": "Stara Sava Bus Stop",
+              "tip_5lang": {
+                "de": "Der Boden kann bei Frost rutschig sein.",
+                "hu": "A talaj fagyban csúszós lehet.",
+                "ro": "Solul poate fi alunecos în caz de îngheț.",
+                "en": "The ground can be slippery during frost."
+              }
+            },
+            {
+              "name": "Stara Sava & Kolpern",
+              "tip_5lang": {
+                "de": "Heizung in den Innenräumen sorgt für Komfort.",
+                "hu": "A belső terek fűtése biztosítja a kényelmet.",
+                "ro": "Încălzirea din interior asigură confortul.",
+                "en": "Heating in the interior spaces ensures comfort."
+              }
+            },
+            {
+              "name": "Bucelleni-Ruard & Museum",
+              "tip_5lang": {
+                "de": "Hinterlegen Sie schwere Wintermäntel an der Garderobe.",
+                "hu": "A nehéz télikabátokat hagyja a ruhatárban.",
+                "ro": "Lăsați hainele groase de iarnă la garderobă.",
+                "en": "Leave heavy winter coats at the cloakroom."
+              }
+            },
+            {
+              "name": "Bus Stop for Mežakla",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrtzeiten genau; seltener Verkehr im Winter.",
+                "hu": "Pontosan ellenőrizze a visszautat; télen ritkább a közlekedés.",
+                "ro": "Verificați exact orele de întoarcere; trafic mai rar iarna.",
+                "en": "Check return times carefully; less frequent service in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind gut beheizt und bieten eine Pause von der Kälte.",
+              "Im Winter können Verspätungen durch Schneefall auftreten.",
+              "Nutzen Sie die App für Echtzeit-Informationen zum Busstandort.",
+              "Warme Kleidung ist für die Zeit an der Haltestelle unerlässlich."
+            ],
+            "hu": [
+              "A buszok jól fűtöttek, szünetet nyújtanak a hideg ellen.",
+              "Télen a havazás miatt előfordulhatnak késések.",
+              "Használja az alkalmazást a valós idejű buszinformációkhoz.",
+              "A megállóban való tartózkodáshoz elengedhetetlen a meleg ruha."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite și oferă o pauză de la frig.",
+              "Iarna pot apărea întârzieri din cauza ninsorilor.",
+              "Folosiți aplicația pentru informații în timp real despre locația autobuzului.",
+              "Îmbrăcămintea groasă este esențială pentru timpul petrecut în stație."
+            ],
+            "en": [
+              "Buses are well-heated and provide a break from the cold.",
+              "In winter, delays may occur due to snowfall.",
+              "Use the app for real-time bus location information.",
+              "Warm clothing is essential for the time spent at the stop."
+            ]
+          }
+        }
       }
     }
   }

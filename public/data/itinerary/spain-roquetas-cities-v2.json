@@ -332,6 +332,178 @@
           "A hat and sunscreen are essential.",
           "Plan for lunch at a tapas bar to sample the local cuisine."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Hafen, wo die Burg Santa Ana Schutz bietet. Die Ausstellungen im Inneren sind ideal für regnerische Vormittage. Mittags besuchen Sie das Stierkampfmuseum, ein architektonisches Highlight unter Dach. Den Nachmittag verbringen Sie im trockenen Aquarium, bevor Sie den Tag in einem gemütlichen Café an der Playa Serena ausklingen lassen, während der Regen auf das Meer peitscht.",
+            "hu": "Kezdje a napot a kikötőben, ahol a Santa Ana vár belső kiállításai menedéket nyújtanak. Délben látogasson el a bikaviadal-aréna fedett múzeumába. A délutánt töltse a teljesen fedett Akváriumban, elkerülve az esőt. Este élvezze a tenger látványát a Serena strand egyik hangulatos parti kávézójának ablakából, ahol szárazon maradhat a viharosabb időben is.",
+            "ro": "Începeți ziua în port, unde Castelul Santa Ana oferă adăpost cu expozițiile sale interioare. La prânz, vizitați muzeul coridei, un spațiu acoperit fascinant. Petreceți după-amiaza în siguranță la Acvariu, evitând ploaia. Seara, admirați marea de la fereastra unei cafenele de pe plaja Serena, bucurându-vă de atmosfera dramatică a coastei fără a vă uda.",
+            "en": "Start at the port where Santa Ana Castle provides shelter with its indoor exhibits. At noon, visit the bullring's museum, a perfect dry spot. Spend the afternoon at the fully indoor Aquarium, escaping the rain entirely. End your day at a cozy beachfront cafe at Serena Beach, watching the raindrops hit the Mediterranean while staying warm and dry."
+          },
+          "stops": [
+            {
+              "name": "Lighthouse of Roquetas",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, dann schnell in die Burg.",
+                "hu": "Gyors fotó, majd irány a vár fedett része.",
+                "ro": "O scurtă oprire foto, apoi intrați în castel.",
+                "en": "Quick photo stop, then head into the castle."
+              }
+            },
+            {
+              "name": "Castle of Santa Ana",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kunstgalerie in den Innenräumen.",
+                "hu": "Látogassa meg a belső termek művészeti galériáit.",
+                "ro": "Vizitați galeriile de artă din interior.",
+                "en": "Explore the art galleries in the interior rooms."
+              }
+            },
+            {
+              "name": "Bullring of Roquetas",
+              "tip_5lang": {
+                "de": "Das Stierkampfmuseum ist komplett überdacht.",
+                "hu": "A bikaviadal-múzeum teljesen fedett és száraz.",
+                "ro": "Muzeul coridei este complet acoperit și uscat.",
+                "en": "The bullfighting museum is fully indoor and dry."
+              }
+            },
+            {
+              "name": "Aquarium Roquetas de Mar",
+              "tip_5lang": {
+                "de": "Der beste Ort in der Stadt bei starkem Regen.",
+                "hu": "A legjobb hely a városban heves esőzés esetén.",
+                "ro": "Cel mai bun loc din oraș în caz de ploaie torențială.",
+                "en": "The best place in town during heavy rain."
+              }
+            },
+            {
+              "name": "Serena Beach",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Wintergarten.",
+                "hu": "Válasszon egy üvegteraszos éttermet a parton.",
+                "ro": "Alegeți un restaurant cu terasă închisă.",
+                "en": "Choose a restaurant with a glass-enclosed terrace."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da es am Hafen windig sein kann.",
+              "Die Wege zwischen Burg und Stierkampfarena haben wenig Unterstand.",
+              "Das Aquarium ist ein perfekter Rückzugsort für mehrere Stunden.",
+              "Achten Sie auf rutschige Fliesen auf der Strandpromenade.",
+              "In den Strandcafés gibt es oft Heizstrahler."
+            ],
+            "hu": [
+              "Vigyen magával stabil esernyőt, mert a kikötőben szeles lehet az idő.",
+              "A vár és az aréna közötti séta alatt kevés a fedett rész.",
+              "Az Akvárium tökéletes menedék több órára is.",
+              "Vigyázzon a csúszós burkolatra a tengerparti sétányon.",
+              "A strand menti kávézókban gyakran van hősugárzó a teraszon."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, vântul poate fi puternic în port.",
+              "Există puține adăposturi între castel și arena de coridă.",
+              "Acvariul este refugiul perfect pentru câteva ore.",
+              "Atenție la plăcile alunecoase de pe faleza plajei.",
+              "Cafenelele de pe plajă au adesea radiatoare pe terase."
+            ],
+            "en": [
+              "Bring a sturdy umbrella as it can get windy by the port.",
+              "There are few shelters on the walk between the castle and the bullring.",
+              "The Aquarium is a perfect sanctuary for several hours.",
+              "Watch out for slippery tiles on the beach promenade.",
+              "Beachfront cafes often have outdoor heaters on their terraces."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die milde Wintersonne am Hafen und die klare Sicht von der Burg Santa Ana. Mittags lädt die Umgebung der Stierkampfarena zu Tapas im Freien ein. Der Nachmittag im Aquarium ist entspannt ohne sommerliche Menschenmassen. Da es früh dunkel wird, erleben Sie einen spektakulären Sonnenuntergang an der Playa Serena, bevor Sie die kühle Abendbrise in einem Restaurant genießen.",
+            "hu": "Élvezze az enyhe téli napsütést a kikötőben és a tiszta kilátást a Santa Ana várból. Délben a bikaviadal-aréna környéke hívogat egy szabadtéri tapasozásra. A délután az Akváriumban nyugodt, mentes a nyári tömegtől. Mivel korán sötétedik, nézze meg a látványos naplementét a Serena strandon, majd vonuljon be egy fűtött étterembe az esti szellő elől.",
+            "ro": "Bucurați-vă de soarele blând de iarnă în port și de priveliștea clară de la Castelul Santa Ana. La prânz, zona arenei de coridă este ideală pentru tapas în aer liber. După-amiaza la Acvariu este relaxantă, fără mulțimile de vară. Deoarece se întunecă devreme, admirați apusul spectaculos pe plaja Serena înainte de a vă retrage într-un restaurant.",
+            "en": "Enjoy the mild winter sun at the port and the clear views from Santa Ana Castle. At noon, the bullring area is perfect for outdoor tapas in the sun. The afternoon at the Aquarium is relaxing and free from summer crowds. Since it gets dark early, catch a spectacular sunset at Serena Beach before retreating to a warm restaurant as the evening breeze picks up."
+          },
+          "stops": [
+            {
+              "name": "Lighthouse of Roquetas",
+              "tip_5lang": {
+                "de": "Perfektes Licht für Winterfotos am Morgen.",
+                "hu": "Tökéletes fények a reggeli téli fotókhoz.",
+                "ro": "Lumină perfectă pentru fotografii de iarnă dimineața.",
+                "en": "Perfect light for winter photos in the morning."
+              }
+            },
+            {
+              "name": "Castle of Santa Ana",
+              "tip_5lang": {
+                "de": "Die Zinnen bieten klare Sicht bis Almería.",
+                "hu": "A bástyákról tiszta kilátás nyílik Almeríáig.",
+                "ro": "Zidurile oferă o vedere clară până la Almería.",
+                "en": "The battlements offer clear views all the way to Almería."
+              }
+            },
+            {
+              "name": "Bullring of Roquetas",
+              "tip_5lang": {
+                "de": "Setzen Sie sich in die Sonne auf den Vorplatz.",
+                "hu": "Üljön ki a napra az aréna előtti téren.",
+                "ro": "Stați la soare în piața din fața arenei.",
+                "en": "Sit in the sun in the plaza in front of the arena."
+              }
+            },
+            {
+              "name": "Aquarium Roquetas de Mar",
+              "tip_5lang": {
+                "de": "Angenehm temperiert und nicht überlaufen.",
+                "hu": "Kellemes hőmérsékletű és nincs tömeg.",
+                "ro": "Temperatură plăcută și deloc aglomerat.",
+                "en": "Pleasantly warm and not crowded at all."
+              }
+            },
+            {
+              "name": "Serena Beach",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist hier gegen 18:00 Uhr.",
+                "hu": "A naplemente itt 18:00 körül van télen.",
+                "ro": "Apusul are loc aici în jur de ora 18:00.",
+                "en": "Sunset happens here around 6:00 PM in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schichten, da es im Schatten kühl sein kann.",
+              "Die Wintersonne ist stark, nutzen Sie Sonnenschutz.",
+              "Viele Geschäfte haben im Winter geänderte Öffnungszeiten.",
+              "Der Sonnenuntergang ist im Winter besonders farbenfroh.",
+              "Abends kühlt es schnell ab, nehmen Sie eine Jacke mit."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert árnyékban hűvös lehet.",
+              "A téli nap is erős, használjon fényvédőt.",
+              "Sok üzlet télen módosított nyitvatartással üzemel.",
+              "A naplemente télen különösen színes a tiszta levegő miatt.",
+              "Este gyorsan lehűl az idő, vigyen magával kabátot."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, poate fi răcoare la umbră.",
+              "Soarele de iarnă este puternic, folosiți protecție solară.",
+              "Multe magazine au program modificat în timpul iernii.",
+              "Apusul este deosebit de colorat iarna datorită aerului curat.",
+              "Seara se răcește rapid, luați o jachetă cu voi."
+            ],
+            "en": [
+              "Dress in layers as it can be chilly in the shade.",
+              "The winter sun is strong, use sun protection.",
+              "Many shops operate with modified hours during winter.",
+              "Sunsets are particularly colorful in winter due to clear air.",
+              "It cools down quickly at night, bring a jacket."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -659,6 +831,178 @@
           "The seaside promenade is ideal for a relaxed ride.",
           "Plan your route in advance, especially for the trip to the natural park."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig entlang der Playa Serena zum Aquarium, wo Sie eine lange Pause im Trockenen einlegen können. Mittags geht es weiter zur Burg Santa Ana; die dicken Mauern bieten Schutz vor Wind und Wetter. Den Nachmittag verbringen Sie in den Salzwiesen, wo der Regen die Landschaft in ein mystisches Grau taucht, bevor Sie über befestigte Wege zurückkehren.",
+            "hu": "Tekerjen óvatosan a Playa Serena mentén az Akváriumig, ahol hosszú, száraz pihenőt tarthat. Délben folytassa útját a Santa Ana vár felé; a vastag falak védenek a széltől. A délutánt töltse a sólepárlóknál, ahol az eső misztikus szürkébe öltözteti a tájat, majd szilárd burkolatú utakon térjen vissza.",
+            "ro": "Pedalați cu prudență de-a lungul Playa Serena până la Acvariu, unde puteți face o pauză lungă la uscat. La prânz, continuați spre Castelul Santa Ana; zidurile groase oferă protecție împotriva vântului. Petreceți după-amiaza la saline, unde ploaia transformă peisajul, apoi reveniți pe drumuri asfaltate.",
+            "en": "Cycle carefully along Playa Serena to the Aquarium for a long, dry break. At noon, continue to Santa Ana Castle; its thick walls provide excellent shelter from the wind. Spend the afternoon at the Salt Pans, where the rain turns the landscape into a mystical grey, then return via paved paths to avoid mud."
+          },
+          "stops": [
+            {
+              "name": "Serena Beach",
+              "tip_5lang": {
+                "de": "Der Radweg kann bei Regen rutschig sein.",
+                "hu": "A kerékpárút esőben csúszós lehet.",
+                "ro": "Pista de biciclete poate fi alunecoasă pe ploaie.",
+                "en": "The bike path can be slippery when wet."
+              }
+            },
+            {
+              "name": "Aquarium Roquetas de Mar",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer direkt am Eingang.",
+                "hu": "Biztonságos biciklitárolók közvetlenül a bejáratnál.",
+                "ro": "Suporturi de biciclete sigure chiar la intrare.",
+                "en": "Secure bike racks available right at the entrance."
+              }
+            },
+            {
+              "name": "Lighthouse and Castle",
+              "tip_5lang": {
+                "de": "Unterstellen unter den Arkaden möglich.",
+                "hu": "Az árkádok alatt lehetséges a várakozás.",
+                "ro": "Vă puteți adăposti sub arcadele castelului.",
+                "en": "Shelter is available under the castle's arches."
+              }
+            },
+            {
+              "name": "Punta Entinas-Sabinar Natural Park (viewpoint)",
+              "tip_5lang": {
+                "de": "Meiden Sie unbefestigte Wege bei Schlamm.",
+                "hu": "Sár esetén kerülje a burkolatlan utakat.",
+                "ro": "Evitați drumurile neasfaltate dacă e noroi.",
+                "en": "Avoid unpaved paths if they turn muddy."
+              }
+            },
+            {
+              "name": "The Salt Pans",
+              "tip_5lang": {
+                "de": "Kurzer Halt für Fotos, dann Heimweg.",
+                "hu": "Rövid megálló fotózásra, majd irány haza.",
+                "ro": "Oprire scurtă pentru poze, apoi spre casă.",
+                "en": "Short stop for photos, then head back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Kleidung und einen Helm mit Visier.",
+              "Prüfen Sie Ihre Bremsen vor der Fahrt auf nassem Asphalt.",
+              "Nutzen Sie die Radwege der Stadt, diese sind besser befestigt.",
+              "Planen Sie mehr Zeit für Bremsmanöver ein.",
+              "Verstauen Sie Wertsachen in wasserdichten Taschen."
+            ],
+            "hu": [
+              "Viseljen vízálló ruházatot és ellenzős sisakot.",
+              "Ellenőrizze a fékeket a vizes aszfalton való indulás előtt.",
+              "Használja a városi kerékpárutakat, azok jobban burkoltak.",
+              "Hagyjon több időt a fékezésre.",
+              "Értékeit tartsa vízhatlan táskában."
+            ],
+            "ro": [
+              "Purtați haine impermeabile și cască cu vizieră.",
+              "Verificați frânele înainte de a pleca pe asfalt umed.",
+              "Folosiți pistele de biciclete din oraș, sunt mai bine întreținute.",
+              "Acordați mai mult timp pentru frânare.",
+              "Păstrați obiectele de valoare în genți impermeabile."
+            ],
+            "en": [
+              "Wear waterproof clothing and a helmet with a visor.",
+              "Check your brakes before riding on wet asphalt.",
+              "Stick to city bike paths as they are better paved.",
+              "Allow more time for braking maneuvers.",
+              "Keep your valuables in waterproof bags."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das milde Winterwetter ist ideal für eine Radtour zum Punta Entinas-Sabinar, wo Sie Flamingos beobachten können. Die Luft ist klar und die Temperaturen perfekt für körperliche Aktivität. Nach einem Besuch im Aquarium radeln Sie zum Hafen und genießen den Ausblick von der Burg. Den Abschluss bildet eine Fahrt entlang der Playa Serena im goldenen Licht der frühen Abendsonne.",
+            "hu": "Az enyhe téli idő ideális egy kerékpártúrához a Punta Entinas-Sabinar felé, ahol flamingókat láthat. A levegő tiszta, a hőmérséklet tökéletes a mozgáshoz. Az Akvárium után tekerjen a kikötőbe, és élvezze a vár panorámáját. A napot a Playa Serena menti bringázás zárja a kora esti nap aranyfényében.",
+            "ro": "Vremea blândă de iarnă este ideală pentru o tură cu bicicleta spre Punta Entinas-Sabinar, unde puteți vedea flamingo. Aerul este curat, iar temperaturile sunt perfecte pentru mișcare. După vizita la Acvariu, pedalați spre port și admirați castelul. Încheiați cu o plimbare pe Playa Serena în lumina aurie a serii.",
+            "en": "The mild winter weather is ideal for a bike ride to Punta Entinas-Sabinar, where you can spot flamingos. The air is crisp and temperatures are perfect for cycling. After visiting the Aquarium, ride to the port and enjoy the views from the castle. Finish your journey along Playa Serena in the golden glow of the early evening sun."
+          },
+          "stops": [
+            {
+              "name": "Serena Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie den leeren Radweg ohne Touristen.",
+                "hu": "Élvezze az üres kerékpárutat turisták nélkül.",
+                "ro": "Bucurați-vă de pista liberă, fără turiști.",
+                "en": "Enjoy the empty bike path without the crowds."
+              }
+            },
+            {
+              "name": "Aquarium Roquetas de Mar",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen, falls es windig ist.",
+                "hu": "Ideális bemelegedni, ha kint szeles az idő.",
+                "ro": "Ideal pentru a vă încălzi dacă este vânt afară.",
+                "en": "Ideal place to warm up if it's a windy day."
+              }
+            },
+            {
+              "name": "Lighthouse and Castle",
+              "tip_5lang": {
+                "de": "Der Hafen ist im Winter sehr beschaulich.",
+                "hu": "A kikötő télen nagyon csendes és hangulatos.",
+                "ro": "Portul este foarte liniștit în timpul iernii.",
+                "en": "The port is very peaceful during the winter."
+              }
+            },
+            {
+              "name": "Punta Entinas-Sabinar Natural Park (viewpoint)",
+              "tip_5lang": {
+                "de": "Beste Zeit zur Vogelbeobachtung (Flamingos).",
+                "hu": "A legjobb időszak a madármegfigyelésre (flamingók).",
+                "ro": "Cea mai bună perioadă pentru observarea păsărilor.",
+                "en": "Best time for birdwatching (flamingos)."
+              }
+            },
+            {
+              "name": "The Salt Pans",
+              "tip_5lang": {
+                "de": "Kühle Brise, ideal für die Rückfahrt.",
+                "hu": "Hűvös szellő, ideális a visszaúthoz.",
+                "ro": "Briză răcoroasă, ideală pentru drumul de întoarcere.",
+                "en": "Cool breeze, perfect for the ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die hellen Stunden zwischen 10:00 und 16:00 Uhr.",
+              "Eine winddichte Weste ist bei Fahrten am Meer ratsam.",
+              "Im Naturpark können Wege nach Regen im Winter weich sein.",
+              "Vorder- und Rücklicht sind ab 17:30 Uhr Pflicht.",
+              "Nehmen Sie ausreichend Wasser mit, auch wenn es kühler ist."
+            ],
+            "hu": [
+              "Használja ki a világos órákat 10:00 és 16:00 között.",
+              "A tengerparti tekeréshez szélálló mellény ajánlott.",
+              "A natúrpark útjai eső után télen puhák lehetnek.",
+              "17:30-tól kötelező az első és hátsó világítás.",
+              "Vigyen elég vizet, akkor is, ha hűvösebb van."
+            ],
+            "ro": [
+              "Folosiți orele de lumină între 10:00 și 16:00.",
+              "O vestă rezistentă la vânt este recomandată lângă mare.",
+              "Potecile din parcul natural pot fi moi după ploaie.",
+              "Luminile față și spate sunt obligatorii după ora 17:30.",
+              "Luați destulă apă, chiar dacă este mai răcoare."
+            ],
+            "en": [
+              "Make the most of the daylight between 10 AM and 4 PM.",
+              "A windproof vest is recommended for riding by the sea.",
+              "Natural park trails can be soft in winter after rain.",
+              "Front and rear lights are mandatory after 5:30 PM.",
+              "Bring enough water, even if it feels cooler."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1015,6 +1359,196 @@
           "A GPS is helpful for finding the different areas of the city.",
           "Combine driving with walking to make the most of your visit."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie bequem den Naturpark Punta Entinas-Sabinar, während der Regen auf das Dach prasselt. Die Salzwiesen wirken bei grauem Himmel besonders weitläufig. Mittags bietet das Aquarium ein perfektes Indoor-Programm. Nach einem Mittagessen an der Playa Serena besuchen Sie die Burg Santa Ana, deren Ausstellungen Sie trocken erreichen, und beenden den Tag am gemütlichen Hafen.",
+            "hu": "Autóval kényelmesen felfedezheti a Punta Entinas-Sabinar parkot, miközben az eső kopog a tetőn. A sólepárlók szürke ég alatt különösen tágasnak tűnnek. Délben az Akvárium tökéletes beltéri programot kínál. A Playa Serena-i ebéd után látogassa meg a Santa Ana várat, melynek kiállításait szárazon érheti el, majd zárja a napot a hangulatos kikötőben.",
+            "ro": "Cu mașina puteți explora confortabil parcul Punta Entinas-Sabinar în timp ce plouă. Salinele par deosebit de vaste sub cerul gri. La prânz, Acvariul oferă programul perfect de interior. După masa de prânz la Playa Serena, vizitați Castelul Santa Ana, unde ajungeți fără să vă udați, și încheiați ziua în port.",
+            "en": "By car, you can comfortably explore Punta Entinas-Sabinar while the rain drums on the roof. The Salt Pans look vast and dramatic under grey skies. At noon, the Aquarium provides the perfect indoor escape. After lunch at Serena Beach, visit Santa Ana Castle, reaching its exhibits dry, and finish your day at the cozy port."
+          },
+          "stops": [
+            {
+              "name": "Punta Entinas-Sabinar Natural Park",
+              "tip_5lang": {
+                "de": "Beobachten Sie Vögel direkt aus dem Auto.",
+                "hu": "Figyelje meg a madarakat közvetlenül az autóból.",
+                "ro": "Observați păsările direct din mașină.",
+                "en": "Watch the birds directly from your car."
+              }
+            },
+            {
+              "name": "The Salt Pans",
+              "tip_5lang": {
+                "de": "Gute Fotomöglichkeiten vom Straßenrand.",
+                "hu": "Jó fotózási lehetőség az út széléről.",
+                "ro": "Oportunități bune de foto de pe marginea drumului.",
+                "en": "Good photo opportunities from the roadside."
+              }
+            },
+            {
+              "name": "Aquarium and Mario Park Area",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt vor dem Eingang.",
+                "hu": "Nagy parkoló közvetlenül a bejárat előtt.",
+                "ro": "Parcare mare chiar în fața intrării.",
+                "en": "Large parking lot right in front of the entrance."
+              }
+            },
+            {
+              "name": "Lunch at Serena Beach",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Restaurantzugang.",
+                "hu": "Parkoljon közel az étterem bejáratához.",
+                "ro": "Parcați aproape de intrarea în restaurant.",
+                "en": "Park close to the restaurant entrance."
+              }
+            },
+            {
+              "name": "Castle of Santa Ana",
+              "tip_5lang": {
+                "de": "Parkhaus am Hafen nutzen für kurzen Weg.",
+                "hu": "Használja a kikötői parkolót a rövid sétához.",
+                "ro": "Folosiți parcarea din port pentru drum scurt.",
+                "en": "Use the port parking for a short walk to the gate."
+              }
+            },
+            {
+              "name": "Lighthouse and Port",
+              "tip_5lang": {
+                "de": "Genießen Sie den Hafenblick aus dem Wagen.",
+                "hu": "Élvezze a kikötői kilátást az autóból.",
+                "ro": "Admirați vederea spre port din mașină.",
+                "en": "Enjoy the harbor views from your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Parken in tiefliegenden Zonen bei Starkregen.",
+              "Nutzen Sie die Scheibenheizung gegen Beschlagen.",
+              "Die Straßen im Naturpark können rutschig sein.",
+              "Das Aquarium hat die besten überdachten Parkmöglichkeiten.",
+              "Halten Sie einen Regenschirm für den Weg vom Parkplatz bereit."
+            ],
+            "hu": [
+              "Heves esőzéskor kerülje a mélyebben fekvő parkolóhelyeket.",
+              "Használja a páramentesítőt a szélvédőn.",
+              "A natúrpark útjai csúszósak lehetnek.",
+              "Az Akváriumnál vannak a legjobb fedett parkolók.",
+              "Tartson esernyőt az autóban a parkolótól a bejáratig."
+            ],
+            "ro": [
+              "Evitați parcarea în zone joase în caz de ploaie torențială.",
+              "Folosiți dezaburirea pentru parbriz.",
+              "Drumurile din parcul natural pot fi alunecoase.",
+              "Acvariul are cele mai bune opțiuni de parcare acoperită.",
+              "Țineți o umbrelă în mașină pentru drumul de la parcare."
+            ],
+            "en": [
+              "Avoid parking in low-lying areas during heavy rain.",
+              "Use the windshield defroster to maintain visibility.",
+              "Roads in the natural park can be slippery when wet.",
+              "The Aquarium area offers the best parking convenience.",
+              "Keep an umbrella handy for the walk from the parking lot."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Auto ermöglicht es Ihnen, den Naturpark und die Salzwiesen zur besten Zeit der Flamingo-Wanderung zu besuchen. Mittags genießen Sie die Sonne an der Playa Serena. Der Nachmittag im Aquarium bietet Abwechslung, bevor Sie pünktlich zum Sonnenuntergang an der Burg Santa Ana sind. Der Hafen von Roquetas leuchtet im Winterabend besonders stimmungsvoll.",
+            "hu": "Egy téli autós túra lehetővé teszi a natúrpark és a sólepárlók meglátogatását a flamingók vonulásának idején. Délben élvezze a napsütést a Playa Serenán. A délután az Akváriumban kínál kikapcsolódást, mielőtt pontosan a naplementére érne a Santa Ana várhoz. Roquetas kikötője különösen hangulatos a téli estéken.",
+            "ro": "O tură de iarnă cu mașina vă permite să vizitați parcul natural și salinele în perioada migrației flamingo. La prânz, bucurați-vă de soare la Playa Serena. După-amiaza la Acvariu oferă relaxare înainte de a ajunge la castel pentru apus. Portul Roquetas este deosebit de pitoresc în serile de iarnă.",
+            "en": "A winter drive allows you to visit the natural park and Salt Pans during the peak flamingo migration. At noon, soak up the sun at Serena Beach. The afternoon at the Aquarium offers a nice break before arriving at Santa Ana Castle just in time for sunset. Roquetas port feels especially atmospheric on winter evenings."
+          },
+          "stops": [
+            {
+              "name": "Punta Entinas-Sabinar Natural Park",
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief, ideal für Fotos.",
+                "hu": "A téli nap alacsonyan jár, ideális fotózáshoz.",
+                "ro": "Soarele de iarnă e jos, ideal pentru poze.",
+                "en": "The winter sun is low, perfect for photography."
+              }
+            },
+            {
+              "name": "The Salt Pans",
+              "tip_5lang": {
+                "de": "Flamingos sind im Winter oft zahlreich hier.",
+                "hu": "Télen a flamingók gyakran nagy számban vannak itt.",
+                "ro": "Flamingo sunt adesea numeroși aici iarna.",
+                "en": "Flamingos are often numerous here in winter."
+              }
+            },
+            {
+              "name": "Aquarium and Mario Park Area",
+              "tip_5lang": {
+                "de": "Guter Ausgangspunkt für Strandspaziergänge.",
+                "hu": "Jó kiindulópont a tengerparti sétákhoz.",
+                "ro": "Punct bun de plecare pentru plimbări pe plajă.",
+                "en": "Good starting point for beach walks."
+              }
+            },
+            {
+              "name": "Lunch at Serena Beach",
+              "tip_5lang": {
+                "de": "In der Wintersonne draußen essen ist möglich.",
+                "hu": "A téli napsütésben kint is lehet ebédelni.",
+                "ro": "Se poate prânzi afară în soarele de iarnă.",
+                "en": "Lunching outdoors in the winter sun is possible."
+              }
+            },
+            {
+              "name": "Castle of Santa Ana",
+              "tip_5lang": {
+                "de": "Kostenloses Parken im Hafenbereich im Winter.",
+                "hu": "Ingyenes parkolás a kikötőben télen.",
+                "ro": "Parcare gratuită în zona portului iarna.",
+                "en": "Free parking often available in the port in winter."
+              }
+            },
+            {
+              "name": "Lighthouse and Port",
+              "tip_5lang": {
+                "de": "Blaues Licht zur Dämmerung ab 18:15 Uhr.",
+                "hu": "Kék óra a szürkületben 18:15-től.",
+                "ro": "Lumină albastră la amurg de la 18:15.",
+                "en": "Blue hour at dusk starts from 6:15 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei kühleren Temperaturen.",
+              "Die Straßen zum Naturpark sind im Winter weniger befahren.",
+              "Klimaanlage auf 'Auto' hält die Luftfeuchtigkeit niedrig.",
+              "Sonnenschutz für die Fahrt in der tiefstehenden Sonne.",
+              "Abends ist der Hafenparkplatz gut beleuchtet."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást a hűvösebb időben.",
+              "A natúrparkhoz vezető utak télen kevésbé forgalmasak.",
+              "A klíma 'Auto' módja alacsonyan tartja a páratartalmat.",
+              "Napszemüveg kötelező az alacsonyan járó nap miatt.",
+              "Este a kikötői parkoló jól megvilágított."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope la temperaturi scăzute.",
+              "Drumurile spre parcul natural sunt mai libere iarna.",
+              "Aerul condiționat pe 'Auto' previne aburirea.",
+              "Protecție solară pentru condus în soarele jos.",
+              "Parcarea din port este bine iluminată seara."
+            ],
+            "en": [
+              "Check tire pressure during cooler temperatures.",
+              "Roads to the natural park are less busy in winter.",
+              "Keep AC on 'Auto' to prevent interior fogging.",
+              "Sun protection is needed for driving into the low sun.",
+              "The port parking area is well-lit in the evenings."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1347,6 +1881,178 @@
           "Most buses are air-conditioned, which is a relief in summer.",
           "Keep small change ready for tickets if you buy directly from the driver."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Buslinien M-330 oder M-333, um trocken zur Stierkampfarena zu gelangen. Mittags geht es weiter zur Burg Santa Ana; der kurze Weg von der Haltestelle minimiert den Regenkontakt. Den Nachmittag verbringen Sie im Aquarium, das direkt an einer Haltestelle liegt. Beenden Sie den Tag an der Playa Serena, wo Sie direkt vor den Cafés aussteigen können.",
+            "hu": "Használja az M-330 vagy M-333 buszokat, hogy szárazon eljusson az arénához. Délben folytassa útját a Santa Ana várhoz; a megállótól való rövid séta minimalizálja az esőben töltött időt. A délutánt töltse az Akváriumban, amely közvetlenül egy megállónál található. Zárja a napot a Playa Serenán, ahol a kávézók előtt szállhat le.",
+            "ro": "Folosiți autobuzele M-330 sau M-333 pentru a ajunge la arenă fără să vă udați. La prânz, mergeți la Castelul Santa Ana; drumul scurt de la stație reduce expunerea la ploaie. După-amiaza, vizitați Acvariul, situat chiar lângă o stație. Încheiați ziua la Playa Serena, coborând direct în fața cafenelelor.",
+            "en": "Use bus lines M-330 or M-333 to reach the bullring while staying dry. At noon, continue to Santa Ana Castle; the short walk from the stop minimizes rain exposure. Spend the afternoon at the Aquarium, located right by a bus stop. End your day at Serena Beach, where you can hop off right in front of the seaside cafes."
+          },
+          "stops": [
+            {
+              "name": "Bullring of Roquetas",
+              "tip_5lang": {
+                "de": "Bushaltestelle 'Plaza de Toros' ist nah.",
+                "hu": "A 'Plaza de Toros' buszmegálló nagyon közel van.",
+                "ro": "Stația de autobuz 'Plaza de Toros' este aproape.",
+                "en": "The 'Plaza de Toros' bus stop is very close."
+              }
+            },
+            {
+              "name": "Castle of Santa Ana",
+              "tip_5lang": {
+                "de": "Vom Hafen-Busstopp sind es 3 Min. Fußweg.",
+                "hu": "A kikötői megállótól 3 perc séta.",
+                "ro": "De la stația din port sunt 3 min. de mers.",
+                "en": "It is a 3-minute walk from the port bus stop."
+              }
+            },
+            {
+              "name": "Lunch at the Lighthouse and Port",
+              "tip_5lang": {
+                "de": "Viele Restaurants direkt an der Haltestelle.",
+                "hu": "Számos étterem közvetlenül a megállónál.",
+                "ro": "Multe restaurante chiar lângă stație.",
+                "en": "Many restaurants are located right by the stop."
+              }
+            },
+            {
+              "name": "Aquarium Roquetas de Mar",
+              "tip_5lang": {
+                "de": "Haltestelle 'Las Salinas' direkt davor.",
+                "hu": "A 'Las Salinas' megálló közvetlenül előtte van.",
+                "ro": "Stația 'Las Salinas' este chiar în față.",
+                "en": "The 'Las Salinas' stop is right in front."
+              }
+            },
+            {
+              "name": "Serena Beach",
+              "tip_5lang": {
+                "de": "Endstation der Linie, kaum Fußweg nötig.",
+                "hu": "A vonal végállomása, alig kell sétálni.",
+                "ro": "Capăt de linie, nu e nevoie de mult mers.",
+                "en": "End of the line, minimal walking required."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Alsa' für Echtzeit-Buszeiten.",
+              "Halten Sie Kleingeld oder eine Fahrkarte bereit.",
+              "An den Haltestellen gibt es oft kleine Wartehäuschen.",
+              "Die Busse sind klimatisiert und trocken.",
+              "Achten Sie auf Pfützen beim Ein- und Aussteigen."
+            ],
+            "hu": [
+              "Használja az 'Alsa' alkalmazást a buszok követéséhez.",
+              "Készítsen elő aprópénzt vagy bérletet.",
+              "A megállókban gyakran van kis esőbeálló.",
+              "A buszok légkondicionáltak és szárazak.",
+              "Vigyázzon a tócsákra le- és felszálláskor."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Alsa' pentru timpii reali.",
+              "Pregătiți bani mărunți sau biletul în avans.",
+              "Stațiile au adesea mici adăposturi pentru ploaie.",
+              "Autobuzele sunt climatizate și uscate.",
+              "Atenție la bălți când urcați sau coborâți."
+            ],
+            "en": [
+              "Use the 'Alsa' app for real-time bus tracking.",
+              "Have small change or your ticket ready beforehand.",
+              "Most stops have small shelters to wait under.",
+              "Buses are climate-controlled and dry.",
+              "Watch out for puddles when getting on or off the bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter-Fahrplan ist zuverlässig und bringt Sie bequem zur Stierkampfarena. Genießen Sie den kurzen Spaziergang zur Burg Santa Ana in der milden Mittagssonne. Der Besuch im Aquarium am Nachmittag passt perfekt in den Zeitplan, bevor Sie den Bus zur Playa Serena nehmen. Dort erleben Sie den Wintersonnenuntergang, bevor der letzte Bus Sie zurück ins Zentrum bringt.",
+            "hu": "A téli menetrend megbízható, és kényelmesen elviszi a bikaviadal-arénához. Élvezze a rövid sétát a Santa Ana várhoz az enyhe déli napsütésben. A délutáni Akvárium-látogatás tökéletesen illeszkedik a napba, mielőtt busszal a Playa Serenára menne. Ott nézze meg a téli naplementét, mielőtt az utolsó busz visszavinné a központba.",
+            "ro": "Orarele de iarnă sunt de încredere și vă duc confortabil la arena de coridă. Bucurați-vă de plimbarea scurtă spre Castelul Santa Ana în soarele blând de prânz. Vizita la Acvariu se potrivește perfect în program înainte de a lua autobuzul spre Playa Serena. Admirați apusul înainte ca ultimul autobuz să vă ducă înapoi.",
+            "en": "Winter schedules are reliable and get you comfortably to the bullring. Enjoy the short walk to Santa Ana Castle in the mild midday sun. An afternoon visit to the Aquarium fits perfectly before taking the bus to Serena Beach. Catch the winter sunset there before the last bus takes you back to the center."
+          },
+          "stops": [
+            {
+              "name": "Bullring of Roquetas",
+              "tip_5lang": {
+                "de": "Busse fahren alle 30 Minuten im Winter.",
+                "hu": "A buszok télen 30 percenként járnak.",
+                "ro": "Autobuzele circulă la 30 de minute iarna.",
+                "en": "Buses run every 30 minutes during winter."
+              }
+            },
+            {
+              "name": "Castle of Santa Ana",
+              "tip_5lang": {
+                "de": "Schöner Spaziergang vom Hafen im Sonnenlicht.",
+                "hu": "Szép séta a kikötőtől a napsütésben.",
+                "ro": "Plimbare frumoasă din port sub soare.",
+                "en": "Nice walk from the port in the sunlight."
+              }
+            },
+            {
+              "name": "Lunch at the Lighthouse and Port",
+              "tip_5lang": {
+                "de": "Die Außenplätze am Hafen sind im Winter toll.",
+                "hu": "A kikötői teraszok télen is nagyszerűek.",
+                "ro": "Terasele din port sunt grozave și iarna.",
+                "en": "Outdoor seating at the port is great in winter."
+              }
+            },
+            {
+              "name": "Aquarium Roquetas de Mar",
+              "tip_5lang": {
+                "de": "Wenig Andrang an der Kasse im Winter.",
+                "hu": "Télen nincs sorban állás a pénztárnál.",
+                "ro": "Puțină aglomerație la casierie iarna.",
+                "en": "Minimal queues at the ticket office in winter."
+              }
+            },
+            {
+              "name": "Serena Beach",
+              "tip_5lang": {
+                "de": "Letzter Rückbus meist gegen 21:00 Uhr.",
+                "hu": "Az utolsó busz visszafelé 21:00 körül indul.",
+                "ro": "Ultimul autobuz spre centru este pe la 21:00.",
+                "en": "Last bus back is usually around 9:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan, da weniger Busse fahren.",
+              "Die Haltestellen sind abends gut beleuchtet.",
+              "Kaufen Sie eine Mehrfahrtenkarte (Bonobús) am Kiosk.",
+              "Die Busse sind im Winter angenehm leer.",
+              "Nutzen Sie die Google Maps Integration für Buszeiten."
+            ],
+            "hu": [
+              "Ellenőrizze a téli menetrendet a ritkább járatok miatt.",
+              "A megállók este jól megvilágítottak.",
+              "Vegyen gyűjtőjegyet (Bonobús) a trafikokban.",
+              "A buszok télen kellemesen üresek.",
+              "Használja a Google Maps-et a buszidőpontokhoz."
+            ],
+            "ro": [
+              "Verificați orarul de iarnă, sunt mai puține curse.",
+              "Stațiile sunt bine iluminate seara.",
+              "Cumpărați un card de călătorii (Bonobús) de la chioșc.",
+              "Autobuzele sunt plăcut de libere iarna.",
+              "Folosiți Google Maps pentru orele autobuzelor."
+            ],
+            "en": [
+              "Check the winter schedule as frequency may be lower.",
+              "Bus stops are well-lit in the evenings.",
+              "Buy a multi-trip card (Bonobús) at a local kiosk.",
+              "Buses are pleasantly uncrowded in winter.",
+              "Use Google Maps integration for real-time bus info."
+            ]
+          }
+        }
       }
     }
   }

@@ -290,6 +290,188 @@
           "Most shops and museums have a siesta at midday; plan accordingly.",
           "Ask locals for recommendations, they are very friendly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem schützenden Dach der Agios-Dimitrios-Kirche, während der Regen auf die Pflastersteine prasselt. Mittags bietet das Archäologische Museum den perfekten Rückzugsort vor den Schauern. Am Nachmittag verwandelt der Regen den Kouri-Wald in eine mystische, grün leuchtende Kulisse. Den Abend lassen wir gemütlich bei einem heißen griechischen Kaffee im Stadtzentrum ausklingen.",
+            "hu": "A reggel az Ájosz Dimitriosz-templom védelmező tetője alatt indul, miközben az eső a macskaköveken kopog. Délben a Régészeti Múzeum nyújt tökéletes menedéket a záporok elől, ahol elmélyülhetünk a múltban. Délután az eső misztikus, mélyzöld világba borítja a Kouri-erdőt, különleges illatokat csalva elő. Az estét egy forró görög kávé mellett, a városközpont egyik hangulatos helyén zárjuk.",
+            "ro": "Dimineața începe sub acoperișul protector al Bisericii Agios Dimitrios, în timp ce ploaia bate în pavaj. La prânz, Muzeul Arheologic oferă refugiul perfect împotriva averselor, explorând istoria locală. După-amiaza, ploaia transformă pădurea Kouri într-un cadru mistic, de un verde intens. Seara se încheie confortabil cu o cafea grecească fierbinte într-un local din centrul orașului.",
+            "en": "The morning starts under the protective roof of Agios Dimitrios Church while rain taps on the cobblestones. At noon, the Archaeological Museum provides the perfect refuge from the showers. In the afternoon, the rain transforms Kouri Forest into a mystical, deep green setting. The evening ends cozily with a hot Greek coffee in a city center cafe as the clouds linger."
+          },
+          "stops": [
+            {
+              "name": "Church of Agios Dimitrios",
+              "tip_4lang": {
+                "de": "Bewundern Sie die Ikonen im trockenen Innenraum.",
+                "hu": "Csodálja meg az ikonokat a száraz belső térben.",
+                "ro": "Admirați icoanele în interiorul uscat.",
+                "en": "Admire the icons in the dry interior."
+              }
+            },
+            {
+              "name": "War Memorial (Heroon)",
+              "tip_4lang": {
+                "de": "Ein kurzer Stopp unter dem Regenschirm reicht hier.",
+                "hu": "Egy rövid megálló az esernyő alatt is elég itt.",
+                "ro": "O scurtă oprire sub umbrelă este suficientă aici.",
+                "en": "A brief stop under your umbrella is enough here."
+              }
+            },
+            {
+              "name": "Traditional Residential Houses",
+              "tip_4lang": {
+                "de": "Die nassen Fassaden wirken auf Fotos besonders farbintensiv.",
+                "hu": "A vizes homlokzatok fotókon különösen színpompásak.",
+                "ro": "Fațadele umede par deosebit de colorate în fotografii.",
+                "en": "Wet facades look particularly colorful in photos."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_4lang": {
+                "de": "Der ideale Ort, um das Ende des Regenschauers abzuwarten.",
+                "hu": "Ideális hely a zápor végének kivárásához.",
+                "ro": "Locul ideal pentru a aștepta trecerea ploii.",
+                "en": "The ideal place to wait out the rain shower."
+              }
+            },
+            {
+              "name": "Almyros Cultural Center",
+              "tip_4lang": {
+                "de": "Informieren Sie sich drinnen über lokale Veranstaltungen.",
+                "hu": "Tájékozódjon bent a helyi eseményekről.",
+                "ro": "Informați-vă în interior despre evenimentele locale.",
+                "en": "Check out local events inside the building."
+              }
+            },
+            {
+              "name": "Kouri Forest",
+              "tip_4lang": {
+                "de": "Tragen Sie wasserfeste Schuhe für die weichen Waldwege.",
+                "hu": "Viseljen vízálló cipőt a felázott erdei utakhoz.",
+                "ro": "Purtați încălțăminte impermeabilă pentru potecile moi.",
+                "en": "Wear waterproof shoes for the soft forest paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei Wind in Almyros unerlässlich.",
+              "Das Museum ist die beste Option für längere Regenphasen.",
+              "Achten Sie auf rutschige Marmorstufen vor den Kirchen.",
+              "Planen Sie Pausen in den Cafés rund um den Hauptplatz ein."
+            ],
+            "hu": [
+              "Egy stabil esernyő elengedhetetlen a szeles Almyrosban.",
+              "A múzeum a legjobb opció a hosszabb esős időszakokra.",
+              "Ügyeljen a csúszós márványlépcsőkre a templomoknál.",
+              "Tervezzen pihenőket a főtér körüli kávézókban."
+            ],
+            "ro": [
+              "O umbrelă stabilă este esențială în Almyros când bate vântul.",
+              "Muzeul este cea mai bună opțiune pentru perioadele lungi de ploaie.",
+              "Atenție la treptele de marmură alunecoase de la biserici.",
+              "Planificați pauze în cafenelele din jurul pieței centrale."
+            ],
+            "en": [
+              "A sturdy umbrella is essential in windy Almyros conditions.",
+              "The museum is the best option for longer rainy periods.",
+              "Watch out for slippery marble steps in front of churches.",
+              "Plan breaks in the cafes around the main square."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterluft am Morgen belebt den Geist beim Besuch des Heroons. Mittags wärmen wir uns in den hellen Räumen des Museums auf, während die Wintersonne tief am Horizont steht. Der Nachmittag im Kouri-Wald bietet eine klare Sicht durch die kahlen Eichenkronen. Bevor die frühe Dunkelheit einbricht, kehren wir für ein herzhaftes Abendessen in die Stadt zurück.",
+            "hu": "A friss téli reggeli levegő élénkítően hat a Heroon meglátogatásakor. Délben a múzeum világos termeiben melegedünk fel, miközben a téli nap alacsonyan jár. A délután a Kouri-erdőben tiszta kilátást kínál a kopár tölgykoronák között. Mielőtt a korai sötétség beállna, visszatérünk a városba egy bőséges vacsorára.",
+            "ro": "Aerul proaspăt de iarnă revigorează spiritul în timpul vizitei la Heroon. La prânz, ne încălzim în sălile luminoase ale muzeului, în timp ce soarele de iarnă stă jos pe cer. După-amiaza în pădurea Kouri oferă o vedere clară printre coroanele golașe ale stejarilor. Înainte de lăsarea serii, ne întoarcem în oraș pentru o cină copioasă.",
+            "en": "The fresh winter morning air invigorates the spirit during the Heroon visit. At noon, we warm up in the bright museum halls while the winter sun stays low. The afternoon in Kouri Forest offers clear views through the bare oak canopies. Before the early darkness sets in, we return to the town for a hearty winter dinner."
+          },
+          "stops": [
+            {
+              "name": "Church of Agios Dimitrios",
+              "tip_4lang": {
+                "de": "Das Kerzenlicht im Inneren erzeugt eine warme Atmosphäre.",
+                "hu": "A benti gyertyafény meleg hangulatot áraszt.",
+                "ro": "Lumina lumânărilor din interior creează o atmosferă caldă.",
+                "en": "The candlelight inside creates a warm atmosphere."
+              }
+            },
+            {
+              "name": "War Memorial (Heroon)",
+              "tip_4lang": {
+                "de": "Ideal für ein schnelles Foto im klaren Winterlicht.",
+                "hu": "Ideális egy gyors fotóhoz a tiszta téli fényben.",
+                "ro": "Ideal pentru o fotografie rapidă în lumina clară de iarnă.",
+                "en": "Ideal for a quick photo in the clear winter light."
+              }
+            },
+            {
+              "name": "Traditional Residential Houses",
+              "tip_4lang": {
+                "de": "Achten Sie auf den Rauch aus den traditionellen Schornsteinen.",
+                "hu": "Figyelje a hagyományos kéményekből felszálló füstöt.",
+                "ro": "Observați fumul care iese din coșurile tradiționale.",
+                "en": "Look for the smoke rising from traditional chimneys."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_4lang": {
+                "de": "Genießen Sie die Ruhe in der Nebensaison ohne Massen.",
+                "hu": "Élvezze a holtszezoni nyugalmat tömegek nélkül.",
+                "ro": "Bucurați-vă de liniștea din extrasezon, fără mulțimi.",
+                "en": "Enjoy the off-season tranquility without the crowds."
+              }
+            },
+            {
+              "name": "Almyros Cultural Center",
+              "tip_4lang": {
+                "de": "Oft finden hier im Winter Indoor-Ausstellungen statt.",
+                "hu": "Télen gyakran tartanak itt beltéri kiállításokat.",
+                "ro": "Iarna au loc adesea expoziții în interior aici.",
+                "en": "Indoor exhibitions are often held here in winter."
+              }
+            },
+            {
+              "name": "Kouri Forest",
+              "tip_4lang": {
+                "de": "Die tiefstehende Sonne zaubert lange Schatten im Wald.",
+                "hu": "Az alacsony nap hosszú árnyékokat fest az erdőben.",
+                "ro": "Soarele jos creează umbre lungi în pădure.",
+                "en": "The low sun casts long shadows through the forest."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten, da es im Schatten kühl ist.",
+              "Die Sonne geht bereits gegen 17:00 Uhr unter.",
+              "Museen sind im Winter meist beheizt und sehr angenehm.",
+              "Probieren Sie lokale Winterspezialitäten in den Tavernen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert az árnyékban hűvös van.",
+              "A nap már délután 5 óra körül lemegy.",
+              "A múzeumok télen fűtöttek és nagyon kellemesek.",
+              "Kóstolja meg a helyi téli különlegességeket a tavernákban."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, deoarece la umbră este răcoare.",
+              "Soarele apune deja în jurul orei 17:00.",
+              "Muzeele sunt de obicei încălzite iarna și foarte plăcute.",
+              "Gustați specialitățile locale de iarnă în taverne."
+            ],
+            "en": [
+              "Dress in layers as it gets quite cool in the shade.",
+              "The sun sets early, around 5:00 PM in winter.",
+              "Museums are usually heated and very pleasant in winter.",
+              "Try local winter specialties in the traditional taverns."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -558,6 +740,188 @@
           "Wear a helmet and use lights if you're returning late.",
           "Plan enough time to return to Almyros from the lakes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz des Regens bietet die Fahrt zum Kulturzentrum einen erfrischenden Start. Mittags suchen wir Schutz im Museum, während das Fahrrad sicher draußen parkt. Die Fahrt durch den Kouri-Wald erfordert Vorsicht auf den rutschigen Wegen. Am späten Nachmittag erreichen wir die Zerelia-Seen, deren Oberfläche im Regen geheimnisvoll tanzt.",
+            "hu": "Az eső ellenére a kulturális központ felé tartó út frissítő kezdést ígér. Délben a múzeumban keresünk menedéket, miközben a bicikli kint pihen. A Kouri-erdőn való átkelés óvatosságot igényel a csúszós utakon. Késő délután érjük el a Zerelia-tavakat, melyek felszíne titokzatosan táncol az esőben.",
+            "ro": "În ciuda ploii, drumul spre centrul cultural oferă un început revigorant. La prânz căutăm adăpost în muzeu, în timp ce bicicleta stă parcată afară. Drumul prin pădurea Kouri necesită prudență pe potecile alunecoase. Late după-amiaza ajungem la lacurile Zerelia, a căror suprafață dansează misterios în ploaie.",
+            "en": "Despite the rain, the ride to the Cultural Center offers a refreshing start. At noon, we seek shelter in the museum while the bike is parked outside. Riding through Kouri Forest requires caution on the slippery paths. In the late afternoon, we reach Zerelia Lakes, where the water surface dances mysteriously in the rain."
+          },
+          "stops": [
+            {
+              "name": "Almyros Cultural Center",
+              "tip_4lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Unterstellen.",
+                "hu": "Használja a fedett bejáratot a várakozáshoz.",
+                "ro": "Folosiți zona de intrare acoperită pentru a vă adăposti.",
+                "en": "Use the covered entrance area for temporary shelter."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_4lang": {
+                "de": "Ein idealer Ort für eine längere Regenpause.",
+                "hu": "Ideális hely egy hosszabb esőszünethez.",
+                "ro": "Un loc ideal pentru o pauză mai lungă de ploaie.",
+                "en": "An ideal spot for a longer rainy break."
+              }
+            },
+            {
+              "name": "Church of Agios Dimitrios",
+              "tip_4lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Untergrund.",
+                "hu": "Vigyázat a leszálláskor a nedves talajon.",
+                "ro": "Atenție la coborârea de pe bicicletă pe solul umed.",
+                "en": "Be careful when dismounting on wet ground."
+              }
+            },
+            {
+              "name": "Kouri Forest",
+              "tip_4lang": {
+                "de": "Die erdigen Wege können bei Regen schlammig sein.",
+                "hu": "A földutak esőben sárosak lehetnek.",
+                "ro": "Drumurile de pământ pot fi noroioase pe ploaie.",
+                "en": "The dirt paths can be muddy when it rains."
+              }
+            },
+            {
+              "name": "Ancient Alos",
+              "tip_4lang": {
+                "de": "Die Ruinen sind bei Regen sehr atmosphärisch.",
+                "hu": "A romok esőben nagyon hangulatosak.",
+                "ro": "Ruinele sunt foarte atmosferice pe timp de ploaie.",
+                "en": "The ruins are very atmospheric in the rain."
+              }
+            },
+            {
+              "name": "Zerelia Lakes",
+              "tip_4lang": {
+                "de": "Die Sicht kann durch Dunst eingeschränkt sein.",
+                "hu": "A látótávolság korlátozott lehet a pára miatt.",
+                "ro": "Vizibilitatea poate fi limitată de ceață.",
+                "en": "Visibility may be limited due to mist over the lakes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine komplette Regenmontur inkl. Überschuhen.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt zu den Seen.",
+              "Meiden Sie tiefe Pfützen im Kouri-Wald.",
+              "Ein Schutzblech schützt vor aufspritzendem Schlamm."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot, beleértve a kamáslit is.",
+              "Indulás előtt ellenőrizze a fékeket a tavak felé.",
+              "Kerülje a mély tócsákat a Kouri-erdőben.",
+              "A sárvédő megvéd a felverődő sártól."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, inclusiv protecții pantofi.",
+              "Verificați frânele înainte de plecarea spre lacuri.",
+              "Evitați bălțile adânci în pădurea Kouri.",
+              "O apărătoare de noroi vă va proteja de stropi."
+            ],
+            "en": [
+              "Wear full rain gear including shoe covers.",
+              "Check your brakes before heading out to the lakes.",
+              "Avoid deep puddles in the Kouri Forest.",
+              "A mudguard is essential to protect from splashes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine belebende Winterfahrt beginnt am Kulturzentrum. Die kühle Luft macht die Fahrt zum Museum kurzweilig, wo wir uns aufwärmen. Nachmittags durchqueren wir den schlafenden Kouri-Wald und erreichen die antiken Mauern von Alos. Das Ziel sind die Zerelia-Seen, die in der klaren Winterluft fast wie Spiegel wirken.",
+            "hu": "Egy élénkítő téli tekerés kezdődik a kulturális központnál. A hűvös levegő miatt gyorsan elérjük a múzeumot, ahol felmelegedhetünk. Délután átvágunk az alvó Kouri-erdőn, és elérjük Alosz ókori falait. A cél a Zerelia-tavak, melyek a tiszta téli levegőben szinte tükörként fénylenek.",
+            "ro": "O plimbare revigorantă de iarnă începe la centrul cultural. Aerul rece face drumul spre muzeu plăcut, unde ne încălzim. După-amiaza traversăm pădurea Kouri adormită și ajungem la zidurile antice din Alos. Destinația este lacurile Zerelia, care par aproape ca niște oglinzi în aerul clar de iarnă.",
+            "en": "An invigorating winter ride begins at the Cultural Center. The cool air makes the trip to the museum brisk and rewarding. In the afternoon, we cross the sleeping Kouri Forest and reach the ancient walls of Alos. The destination is Zerelia Lakes, looking almost like mirrors in the clear winter air."
+          },
+          "stops": [
+            {
+              "name": "Almyros Cultural Center",
+              "tip_4lang": {
+                "de": "Starten Sie mit warmen Handschuhen in den Tag.",
+                "hu": "Kezdje a napot meleg kesztyűben.",
+                "ro": "Începeți ziua cu mănuși călduroase.",
+                "en": "Start your day with warm gloves."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Stopp, um die Finger aufzuwärmen.",
+                "hu": "Használja ki a megállót az ujjai felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi degetele.",
+                "en": "Use the stop to warm up your fingers."
+              }
+            },
+            {
+              "name": "Church of Agios Dimitrios",
+              "tip_4lang": {
+                "de": "Im Winter herrscht hier eine friedliche Stille.",
+                "hu": "Télen békés csend honol itt.",
+                "ro": "Iarna aici domnește o liniște deplină.",
+                "en": "A peaceful silence reigns here in winter."
+              }
+            },
+            {
+              "name": "Kouri Forest",
+              "tip_4lang": {
+                "de": "Die Sonne erreicht nun auch den Waldboden.",
+                "hu": "A nap most az erdő talaját is eléri.",
+                "ro": "Soarele ajunge acum și pe solul pădurii.",
+                "en": "The sun now reaches the forest floor through bare trees."
+              }
+            },
+            {
+              "name": "Ancient Alos",
+              "tip_4lang": {
+                "de": "Achten Sie auf den Wind in der offenen Ebene.",
+                "hu": "Ügyeljen a szélre a nyílt síkságon.",
+                "ro": "Atenție la vânt în câmpia deschisă.",
+                "en": "Watch out for the wind in the open plain."
+              }
+            },
+            {
+              "name": "Zerelia Lakes",
+              "tip_4lang": {
+                "de": "Die Winterdämmerung am See ist spektakulär.",
+                "hu": "A téli szürkület a tónál látványos.",
+                "ro": "Amurgul de iarnă la lac este spectaculos.",
+                "en": "The winter twilight at the lake is spectacular."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich winddicht für die Fahrt über freies Feld.",
+              "Die Wege können im Winter stellenweise gefroren sein.",
+              "Nehmen Sie einen Thermosbecher mit warmem Tee mit.",
+              "Planen Sie die Rückkehr vor Einbruch der Dunkelheit ein."
+            ],
+            "hu": [
+              "Öltözzön szélállóan a nyílt terepen való tekeréshez.",
+              "Az utak télen helyenként fagyottak lehetnek.",
+              "Vigyen magával termoszban meleg teát.",
+              "Tervezze meg a visszatérést sötétedés előtt."
+            ],
+            "ro": [
+              "Îmbrăcați-vă cu haine rezistente la vânt pentru câmp deschis.",
+              "Drumurile pot fi înghețate pe alocuri iarna.",
+              "Luați un termos cu ceai cald la voi.",
+              "Planificați întoarcerea înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "Wear windproof clothing for riding across open fields.",
+              "Paths can be frozen in places during winter.",
+              "Take a thermos with warm tea with you.",
+              "Plan to be back before it gets dark."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -844,6 +1208,206 @@
           "The roads to the lakes and Alos can be narrow.",
           "A GPS is highly recommended for navigating the rural area."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt sicher im Auto Richtung Zerelia-Seen, deren Krater sich im Regen füllen. Weiter geht es zu den Ruinen von Alos, die wir bequem erreichen. Mittags parken wir im Zentrum von Almyros und genießen das Museum, während es draußen regnet. Der Tag endet trocken und entspannt in der Agios-Dimitrios-Kirche.",
+            "hu": "Az út biztonságban, az autóban indul a Zerelia-tavak felé, melyek kráterei megtelnek az esővel. Folytatjuk utunkat Alosz romjaihoz, melyeket kényelmesen elérünk. Délben Almyros központjában parkolunk, és a múzeumban gyönyörködünk, miközben kint esik. A nap szárazon és pihentetően zárul a templomban.",
+            "ro": "Călătoria începe în siguranță cu mașina spre lacurile Zerelia, ale căror cratere se umplu de ploaie. Continuăm spre ruinele din Alos, la care ajungem ușor. La prânz parcăm în centrul orașului Almyros și ne bucurăm de muzeu în timp ce afară plouă. Ziua se încheie relaxat la biserica Agios Dimitrios.",
+            "en": "The journey starts safely by car toward Zerelia Lakes, whose craters fill with rain. We continue to the ruins of Ancient Alos, reaching them comfortably. At noon, we park in the center of Almyros and enjoy the museum while it rains outside. The day ends dry and relaxed at the Agios Dimitrios Church."
+          },
+          "stops": [
+            {
+              "name": "Parking at Zerelia Lakes",
+              "tip_4lang": {
+                "de": "Parken Sie auf festem Untergrund, um Matsch zu vermeiden.",
+                "hu": "Parkoljon szilárd talajon a sár elkerülése érdekében.",
+                "ro": "Parcați pe teren solid pentru a evita noroiul.",
+                "en": "Park on firm ground to avoid the mud."
+              }
+            },
+            {
+              "name": "Zerelia Lakes",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick direkt aus dem Auto.",
+                "hu": "Élvezze a kilátást közvetlenül az autóból.",
+                "ro": "Bucurați-vă de priveliște direct din mașină.",
+                "en": "Enjoy the view directly from your car window."
+              }
+            },
+            {
+              "name": "Parking at Ancient Alos",
+              "tip_4lang": {
+                "de": "Vorsicht beim Einparken auf unbefestigten Seitenstreifen.",
+                "hu": "Vigyázat a padkán való parkoláskor.",
+                "ro": "Atenție la parcarea pe acostamentele neamenajate.",
+                "en": "Be careful when parking on unpaved shoulders."
+              }
+            },
+            {
+              "name": "Ancient Alos",
+              "tip_4lang": {
+                "de": "Ein kurzer Rundgang mit Schirm lohnt sich.",
+                "hu": "Egy rövid körséta esernyővel megéri.",
+                "ro": "O scurtă plimbare cu umbrela merită.",
+                "en": "A short walk with an umbrella is worthwhile here."
+              }
+            },
+            {
+              "name": "Parking in Almyros Center",
+              "tip_4lang": {
+                "de": "Suchen Sie einen Platz nah am Museumseingang.",
+                "hu": "Keressen helyet a múzeum bejáratához közel.",
+                "ro": "Căutați un loc aproape de intrarea muzeului.",
+                "en": "Look for a spot close to the museum entrance."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_4lang": {
+                "de": "Lassen Sie Ihre nasse Jacke an der Garderobe.",
+                "hu": "Hagyja a vizes kabátját a ruhatárban.",
+                "ro": "Lăsați haina umedă la garderobă.",
+                "en": "Leave your wet jacket at the cloakroom."
+              }
+            },
+            {
+              "name": "Church of Agios Dimitrios",
+              "tip_4lang": {
+                "de": "Kurzer Weg vom Auto zum trockenen Kircheneingang.",
+                "hu": "Rövid út az autótól a száraz templombejáratig.",
+                "ro": "Drum scurt de la mașină la intrarea uscată a bisericii.",
+                "en": "A short walk from the car to the dry church entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Scheibenwischer vor der Abfahrt.",
+              "Fahren Sie vorsichtig auf den schmalen Straßen zu den Seen.",
+              "Nutzen Sie Parkplätze in unmittelbarer Nähe der Sehenswürdigkeiten.",
+              "Hinterlassen Sie keine Wertsachen sichtbar im Auto."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Vezessen óvatosan a tavakhoz vezető keskeny utakon.",
+              "Használja a látnivalókhoz közeli parkolókat.",
+              "Ne hagyjon értéktárgyat látható helyen az autóban."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de plecare.",
+              "Conduceți cu atenție pe drumurile înguste spre lacuri.",
+              "Folosiți parcările din imediata apropiere a obiectivelor.",
+              "Nu lăsați obiecte de valoare la vedere în mașină."
+            ],
+            "en": [
+              "Check your windshield wipers before starting.",
+              "Drive carefully on the narrow roads leading to the lakes.",
+              "Use parking spots as close as possible to the sights.",
+              "Do not leave valuables visible inside the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Wintertour startet im beheizten Auto. Die Zerelia-Seen glänzen in der klaren Morgenkälte, gefolgt von der historischen Stätte Alos. Mittags bietet Almyros kulturelle Wärme im Museum. Der Nachmittag wird mit einem Besuch der Agios-Dimitrios-Kirche abgerundet, während die Wintersonne die Stadt in goldenes Licht taucht.",
+            "hu": "Egy hangulatos téli túra indul a fűtött autóban. A Zerelia-tavak csillognak a tiszta reggeli hidegben, majd Alosz történelmi helyszíne következik. Délben Almyros kulturális melegséget kínál a múzeumban. A délutánt a templomlátogatás teszi teljessé, miközben a téli nap arany fénybe vonja a várost.",
+            "ro": "Un tur de iarnă confortabil începe în mașina încălzită. Lacurile Zerelia strălucesc în frigul clar al dimineții, urmate de situl istoric Alos. La prânz, Almyros oferă căldură culturală în muzeu. După-amiaza este completată de o vizită la biserica Agios Dimitrios.",
+            "en": "A cozy winter tour starts in the heated car. Zerelia Lakes glisten in the clear morning cold, followed by the historical site of Ancient Alos. At noon, Almyros offers cultural warmth in the museum. The afternoon is rounded off with a visit to the Agios Dimitrios Church as winter light bathes the town."
+          },
+          "stops": [
+            {
+              "name": "Parking at Zerelia Lakes",
+              "tip_4lang": {
+                "de": "Die Heizung im Auto lässt Sie die Kälte vergessen.",
+                "hu": "Az autó fűtése elfeledteti a kinti hideget.",
+                "ro": "Căldura din mașină vă face să uitați de frig.",
+                "en": "The car heating lets you forget the cold outside."
+              }
+            },
+            {
+              "name": "Zerelia Lakes",
+              "tip_4lang": {
+                "de": "Fotografieren Sie die Seen im klaren Winterlicht.",
+                "hu": "Fotózza le a tavakat a tiszta téli fényben.",
+                "ro": "Fotografiați lacurile în lumina clară de iarnă.",
+                "en": "Take photos of the lakes in the clear winter light."
+              }
+            },
+            {
+              "name": "Parking at Ancient Alos",
+              "tip_4lang": {
+                "de": "Das Auto bietet Schutz vor dem kalten Wind der Ebene.",
+                "hu": "Az autó védelmet nyújt a síkság hideg szele ellen.",
+                "ro": "Mașina oferă protecție împotriva vântului rece din câmpie.",
+                "en": "The car provides shelter from the cold wind of the plain."
+              }
+            },
+            {
+              "name": "Ancient Alos",
+              "tip_4lang": {
+                "de": "Die Steine wirken im Winterfrost besonders markant.",
+                "hu": "A kövek a téli fagyban különösen látványosak.",
+                "ro": "Pietrele par deosebit de marcante în gerul iernii.",
+                "en": "The stones look particularly striking in the winter frost."
+              }
+            },
+            {
+              "name": "Parking in Almyros Center",
+              "tip_4lang": {
+                "de": "Parken Sie zentral für kurze Wege in der Kälte.",
+                "hu": "Parkoljon központilag a rövid séták érdekében.",
+                "ro": "Parcați central pentru a merge puțin pe jos prin frig.",
+                "en": "Park centrally to minimize walking in the cold."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_4lang": {
+                "de": "Wärmen Sie sich bei den antiken Exponaten auf.",
+                "hu": "Melegedjen fel az antik kiállítási tárgyak között.",
+                "ro": "Încălziți-vă printre exponatele antice.",
+                "en": "Warm up while browsing the ancient exhibits."
+              }
+            },
+            {
+              "name": "Church of Agios Dimitrios",
+              "tip_4lang": {
+                "de": "Genießen Sie den stimmungsvollen Winterabend.",
+                "hu": "Élvezze a hangulatos téli estét.",
+                "ro": "Bucurați-vă de atmosfera serii de iarnă.",
+                "en": "Enjoy the atmospheric winter evening inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf mögliche Glätte auf Nebenstraßen.",
+              "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+              "Nutzen Sie die Sitzheizung für extra Komfort.",
+              "Kontrollieren Sie den Frostschutz in der Scheibenwaschanlage."
+            ],
+            "hu": [
+              "Ügyeljen az esetleges jegesedésre a mellékutakon.",
+              "Ne járassa feleslegesen a motort álló helyzetben.",
+              "Használja az ülésfűtést az extra kényelemért.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban."
+            ],
+            "ro": [
+              "Atenție la posibila polei pe drumurile secundare.",
+              "Nu lăsați motorul pornit inutil pe loc.",
+              "Folosiți încălzirea în scaune pentru un plus de confort.",
+              "Verificați antigelul din instalația de spălare a parbrizului."
+            ],
+            "en": [
+              "Watch out for possible icy patches on side roads.",
+              "Don't let the engine idle unnecessarily.",
+              "Use seat heating for extra comfort.",
+              "Check the anti-freeze in your windshield washer fluid."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1058,6 +1622,170 @@
           "Check the bus schedule for the return trip, especially on weekends.",
           "Buses may not always be on time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Bus bringt uns trocken vom Bahnhof zum Museum, wo wir den Vormittag verbringen. Mittags laufen wir das kurze Stück zur Kirche unter dem Schirm. Eine weitere Busfahrt führt uns in die Nähe des Kouri-Waldes, der im Regen besonders frisch duftet. Wir beenden den Tag entspannt an der überdachten Haltestelle.",
+            "hu": "A busz szárazon visz minket az állomástól a múzeumig, ahol a délelőttöt töltjük. Délben esernyővel tesszük meg a rövid utat a templomig. Egy újabb buszozás a Kouri-erdő közelébe visz, melynek illata esőben különösen friss. A napot nyugodtan zárjuk a fedett megállóban.",
+            "ro": "Autobuzul ne duce uscați de la gară la muzeu, unde ne petrecem dimineața. La prânz mergem pe jos bucata scurtă până la biserică, sub umbrelă. O altă cursă ne duce lângă pădurea Kouri, care miroase proaspăt în ploaie. Încheiem ziua relaxați în stația acoperită.",
+            "en": "The bus takes us dry from the station to the museum, where we spend the morning. At noon, we walk the short distance to the church under an umbrella. Another bus ride brings us near Kouri Forest, which smells fresh in the rain. We end the day relaxed at the sheltered bus stop."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Station",
+              "tip_4lang": {
+                "de": "Warten Sie im überdachten Bereich auf Ihren Bus.",
+                "hu": "Várja a buszt a fedett részen.",
+                "ro": "Așteptați autobuzul în zona acoperită.",
+                "en": "Wait for your bus in the sheltered area."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_4lang": {
+                "de": "Die Haltestelle ist nur wenige Schritte entfernt.",
+                "hu": "A megálló csak néhány lépésre van.",
+                "ro": "Stația este la doar câțiva pași distanță.",
+                "en": "The bus stop is just a few steps away."
+              }
+            },
+            {
+              "name": "Church of Agios Dimitrios",
+              "tip_4lang": {
+                "de": "Ein kurzer, regnerischer Spaziergang zum Eingang.",
+                "hu": "Rövid, esős séta a bejáratig.",
+                "ro": "O scurtă plimbare ploioasă până la intrare.",
+                "en": "A short, rainy walk to the entrance."
+              }
+            },
+            {
+              "name": "Kouri Forest Bus Stop",
+              "tip_4lang": {
+                "de": "Orientieren Sie sich schnell Richtung Waldeingang.",
+                "hu": "Tájékozódjon gyorsan az erdő bejárata felé.",
+                "ro": "Orientați-vă rapid spre intrarea în pădure.",
+                "en": "Quickly orient yourself toward the forest entrance."
+              }
+            },
+            {
+              "name": "Kouri Forest",
+              "tip_4lang": {
+                "de": "Der Boden ist nass, bleiben Sie auf den Hauptwegen.",
+                "hu": "A talaj nedves, maradjon a főutakon.",
+                "ro": "Solul este umed, rămâneți pe potecile principale.",
+                "en": "The ground is wet; stick to the main paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld für das Busticket bereit.",
+              "Die Busse fahren bei Regen oft pünktlicher als Taxis.",
+              "Nutzen Sie die Wartehäuschen als Windschutz.",
+              "Prüfen Sie den aktuellen Fahrplan online."
+            ],
+            "hu": [
+              "Készítsen elő aprópénzt a buszjegyhez.",
+              "Esőben a buszok gyakran pontosabbak a taxiknál.",
+              "Használja a várókat szélvédelemként.",
+              "Ellenőrizze az aktuális menetrendet online."
+            ],
+            "ro": [
+              "Aveți pregătit mărunt pentru biletul de autobuz.",
+              "Autobuzele sunt adesea mai punctuale decât taxiurile pe ploaie.",
+              "Folosiți stațiile ca protecție împotriva vântului.",
+              "Verificați programul actualizat online."
+            ],
+            "en": [
+              "Have small change ready for the bus ticket.",
+              "Buses are often more reliable than taxis during rain.",
+              "Use bus shelters as protection from the wind.",
+              "Check the current bus schedule online."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vom Busbahnhof starten wir in den klaren Wintermorgen. Das Museum bietet die perfekte Aufwärmpause am Vormittag. Mittags erkunden wir die Kirche von Almyros, bevor uns der Bus zum winterlichen Kouri-Wald bringt. Die kahlen Bäume lassen viel Licht durch, was den Nachmittag hell und freundlich macht.",
+            "hu": "A buszpályaudvarról indulunk a tiszta téli reggelen. A múzeum tökéletes felmelegedési lehetőséget kínál délelőtt. Délben felfedezzük Almyros templomát, mielőtt a busz a téli Kouri-erdőhöz vinne minket. A kopár fák sok fényt engednek át, így a délután világos és barátságos.",
+            "ro": "Plecăm de la autogară în dimineața clară de iarnă. Muzeul oferă pauza perfectă de încălzire. La prânz explorăm biserica din Almyros, înainte ca autobuzul să ne ducă la pădurea Kouri. Copacii golași lasă să treacă multă lumină, făcând după-amiaza luminoasă.",
+            "en": "We set off from the bus station into the clear winter morning. The museum offers the perfect warm-up break. At noon, we explore the church before taking the bus to the winter version of Kouri Forest. The bare trees let plenty of light through, making the afternoon bright and friendly."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Station",
+              "tip_4lang": {
+                "de": "Ziehen Sie sich warm an für die Wartezeit.",
+                "hu": "Öltözzön melegen a várakozáshoz.",
+                "ro": "Îmbrăcați-vă gros pentru timpul de așteptare.",
+                "en": "Dress warmly for the waiting time."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_4lang": {
+                "de": "Die Wärme im Museum ist im Winter sehr willkommen.",
+                "hu": "A múzeumi meleg télen nagyon hívogató.",
+                "ro": "Căldura din muzeu este binevenită iarna.",
+                "en": "The museum's warmth is very welcome in winter."
+              }
+            },
+            {
+              "name": "Church of Agios Dimitrios",
+              "tip_4lang": {
+                "de": "Ein ruhiger Ort für Besinnung in der Kälte.",
+                "hu": "Csendes hely az elmélyüléshez a hidegben.",
+                "ro": "Un loc liniștit pentru meditație în frig.",
+                "en": "A quiet place for reflection during the cold."
+              }
+            },
+            {
+              "name": "Kouri Forest Bus Stop",
+              "tip_4lang": {
+                "de": "Beachten Sie die selteneren Fahrzeiten im Winter.",
+                "hu": "Ügyeljen a ritkább téli menetrendre.",
+                "ro": "Atenție la orarul mai rar de iarnă.",
+                "en": "Note the less frequent bus times in winter."
+              }
+            },
+            {
+              "name": "Kouri Forest",
+              "tip_4lang": {
+                "de": "Gute Wanderstiefel sind bei Frost ratsam.",
+                "hu": "Jó túrabakancs ajánlott fagy esetén.",
+                "ro": "Bocancii buni de drumeție sunt recomandați la ger.",
+                "en": "Good hiking boots are advisable in freezing conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft gut beheizt.",
+              "Die Fahrzeiten können an Winterfeiertagen abweichen.",
+              "Warten Sie in der Nähe von Cafés auf den Bus.",
+              "Tragen Sie helle Kleidung für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "A buszok télen gyakran jól fűtöttek.",
+              "Téli ünnepeken a menetrend eltérhet.",
+              "Várja a buszt kávézók közelében.",
+              "Viseljen világos ruhát a jobb láthatóságért."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea bine încălzite iarna.",
+              "Orarele pot varia în timpul sărbătorilor de iarnă.",
+              "Așteptați autobuzul în apropierea cafenelelor.",
+              "Purtați haine deschise la culoare pentru vizibilitate."
+            ],
+            "en": [
+              "Buses are often well-heated during the winter.",
+              "Bus times may vary during winter holidays.",
+              "Wait for the bus near a cafe to stay warm.",
+              "Wear bright clothing for better visibility in dim light."
+            ]
+          }
+        }
       }
     }
   }

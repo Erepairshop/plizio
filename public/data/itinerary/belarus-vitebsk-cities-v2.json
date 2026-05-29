@@ -382,6 +382,206 @@
           "Carry some cash for small purchases or tips.",
           "Most central sights are easily within walking distance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittags bietet das Rathaus Schutz, bevor die prächtigen Kirchen im Zentrum trockene Zuflucht gewähren. Mittags laden die weiten Hallen des Kunstmuseums zum Verweilen ein, während draußen der Regen auf die Vitba peitscht. Nachmittags tauchen Sie in Marc Chagalls Welt ab, weit weg vom nassen Grau. Abends glitzert das Amphitheater im Regenlicht, ein stimmungsvoller Abschluss.",
+            "hu": "Délelőtt a városháza és a közeli templomok nyújtanak fedezéket az eső elől. Délben a Művészeti Múzeum tágas tereiben vészelheti át a záport, miközben a városi panoráma elmossa a láthatárt. Délután Marc Chagall világa színezi meg a szürke időt. Az estét a győzelem téri fények és a kivilágított amfiteátrum zárja, ahol a vizes aszfalton megcsillannak a város fényei.",
+            "ro": "Dimineața, primăria oferă un adăpost temporar, urmată de interiorul liniștit al catedralelor din centru. La prânz, Muzeul de Artă este refugiul perfect împotriva ploii, oferind cultură în spații încălzite. După-amiaza, muzeul Chagall vă transpune într-o lume colorată, departe de griul de afară. Seara, luminile Amfiteatrului de Vară se reflectă spectaculos în bălțile de pe străzi.",
+            "en": "Morning starts with the Town Hall's shelter, followed by the dry sanctuary of central churches. At noon, the Art Museum provides a grand indoor escape while rain hits the Vitba river. Afternoon is dedicated to Chagall's vibrant world, safely shielded from the damp weather. Evening concludes with the Summer Amphitheatre, where city lights shimmer beautifully on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": "Vitebsk Town Hall",
+              "tip_5lang": {
+                "de": "Unter den Arkaden warten.",
+                "hu": "Várjon az árkádok alatt.",
+                "ro": "Așteptați sub arcade.",
+                "en": "Wait under the arches."
+              }
+            },
+            {
+              "name": "Resurrection Church",
+              "tip_5lang": {
+                "de": "Perfekter Ort zum Abtrocknen.",
+                "hu": "Tökéletes hely a száradáshoz.",
+                "ro": "Loc perfect pentru uscare.",
+                "en": "Perfect spot to dry off."
+              }
+            },
+            {
+              "name": "Assumption Cathedral",
+              "tip_5lang": {
+                "de": "Innenraum bietet viel Platz.",
+                "hu": "A belső tér sok helyet kínál.",
+                "ro": "Interiorul oferă mult spațiu.",
+                "en": "Interior offers plenty of space."
+              }
+            },
+            {
+              "name": "Vitebsk Museum of Art",
+              "tip_5lang": {
+                "de": "Garderobe für nasse Mäntel.",
+                "hu": "Ruhatár a vizes kabátoknak.",
+                "ro": "Garderobă pentru haine ude.",
+                "en": "Cloakroom for wet coats."
+              }
+            },
+            {
+              "name": "Marc Chagall Museum",
+              "tip_5lang": {
+                "de": "Gemütliches, trockenes Ambiente.",
+                "hu": "Otthonos, száraz környezet.",
+                "ro": "Ambiantă caldă și uscată.",
+                "en": "Cozy, dry environment."
+              }
+            },
+            {
+              "name": "Victory Square",
+              "tip_5lang": {
+                "de": "Schneller Schritt über den Platz.",
+                "hu": "Gyors séta a téren át.",
+                "ro": "Pas rapid prin piață.",
+                "en": "Quick walk across the square."
+              }
+            },
+            {
+              "name": "Summer Amphitheatre",
+              "tip_5lang": {
+                "de": "Dachkonstruktion bietet Schutz.",
+                "hu": "A tetőszerkezet védelmet nyújt.",
+                "ro": "Structura acoperișului protejează.",
+                "en": "Roof structure provides cover."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen des Windes an der Dwina nötig.",
+              "Die Wege zwischen den Kirchen sind kurz, nutzen Sie das aus.",
+              "In Museen gibt es oft kostenlose Garderoben für nasse Kleidung.",
+              "Achten Sie auf rutschige Pflastersteine in der Altstadt."
+            ],
+            "hu": [
+              "Az Dvina felől fújó szél miatt erős esernyőre lesz szüksége.",
+              "A templomok közti távolság kicsi, ideális esős sétához.",
+              "A múzeumokban ingyenes ruhatár várja a vizes ruhákat.",
+              "Vigyázzon a csúszós macskakövekre az óvárosban."
+            ],
+            "ro": [
+              "Aveți nevoie de o umbrelă rezistentă din cauza vântului de pe Dvina.",
+              "Distanțele dintre biserici sunt scurte, ideale pentru mers pe ploaie.",
+              "Muzeele oferă garderobe gratuite pentru hainele ude.",
+              "Atenție la pavajul alunecos din centrul vechi."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to wind coming from the Dvina.",
+              "Distances between churches are short, ideal for rainy walks.",
+              "Museums have free cloakrooms for your wet gear.",
+              "Watch out for slippery cobblestones in the old town area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am frostigen Rathaus ist magisch, wenn der Schnee die Türme zuckert. Mittags wärmen Sie sich in den majestätischen Kathedralen auf, bevor das Kunstmuseum eine lange, beheizte Pause bietet. Nachmittags ist die Chagall-Ausstellung ein warmer Hort der Inspiration. Zum Abend hin erstrahlt der Siegesplatz in festlicher Kälte unter dem frühen Sternenhimmel von Belarus.",
+            "hu": "A téli reggel a fagyos városházánál varázslatos, amikor hó fedi a tornyokat. Délben a fenséges katedrálisokban melegedhet fel, majd a Művészeti Múzeum kínál hosszú, fűtött pihenőt. Délután a Chagall-kiállítás az inspiráció meleg szigete. Estére a Győzelem tere ünnepi hidegben ragyog fel Fehéroroszország korán sötétedő egén.",
+            "ro": "Dimineața de iarnă la primăria înghețată este magică când zăpada acoperă turnurile. La prânz, vă puteți încălzi în catedralele maiestuoase, urmate de o pauză lungă și călduroasă la Muzeul de Artă. După-amiaza, expoziția Chagall este un refugiu cald pentru inspirație. Seara, Piața Victoriei strălucește în frigul festiv sub cerul înstelat al Belarusului.",
+            "en": "Winter morning at the frosty Town Hall is magical with snow dusting the spires. At noon, warm up inside majestic cathedrals before the Art Museum offers a long, heated cultural break. Afternoon finds you in the cozy Chagall exhibition, a warm haven of inspiration. As evening falls, Victory Square glows in the festive Belarusian cold under an early starlit sky."
+          },
+          "stops": [
+            {
+              "name": "Vitebsk Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis auf den Stufen.",
+                "hu": "Vigyázzon a jeges lépcsőkkel.",
+                "ro": "Atenție la gheața de pe trepte.",
+                "en": "Beware of ice on the steps."
+              }
+            },
+            {
+              "name": "Resurrection Church",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause im Inneren.",
+                "hu": "Rövid melegedő a belső térben.",
+                "ro": "Scurtă pauză de încălzire în interior.",
+                "en": "Short warm-up break inside."
+              }
+            },
+            {
+              "name": "Assumption Cathedral",
+              "tip_5lang": {
+                "de": "Prachtvolle Wärme genießen.",
+                "hu": "Élvezze a pompás melegséget.",
+                "ro": "Bucurați-vă de căldura interioară.",
+                "en": "Enjoy the magnificent warmth."
+              }
+            },
+            {
+              "name": "Vitebsk Museum of Art",
+              "tip_5lang": {
+                "de": "Perfekt für die Mittagskälte.",
+                "hu": "Tökéletes a déli hideg ellen.",
+                "ro": "Perfect pentru gerul de la prânz.",
+                "en": "Perfect for the midday cold."
+              }
+            },
+            {
+              "name": "Marc Chagall Museum",
+              "tip_5lang": {
+                "de": "Heißgetränk in der Nähe suchen.",
+                "hu": "Keressen forró italt a közelben.",
+                "ro": "Căutați o băutură caldă în apropiere.",
+                "en": "Look for a hot drink nearby."
+              }
+            },
+            {
+              "name": "Victory Square",
+              "tip_5lang": {
+                "de": "Extrem windanfällig im Winter.",
+                "hu": "Télen rendkívül szeles terület.",
+                "ro": "Zonă foarte expusă vântului iarna.",
+                "en": "Extremely windy area in winter."
+              }
+            },
+            {
+              "name": "Summer Amphitheatre",
+              "tip_5lang": {
+                "de": "Frühe Beleuchtung ab 16:30.",
+                "hu": "Korai kivilágítás 16:30-tól.",
+                "ro": "Iluminat festiv de la ora 16:30.",
+                "en": "Early lighting from 16:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche; Vitebsk ist eine der kältesten Städte.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Museen sind hervorragend beheizte Rückzugsorte.",
+              "Vorsicht bei Schnee auf den Brücken über die Vitba."
+            ],
+            "hu": [
+              "Viseljen termo alsóneműt; Vicebszk az egyik leghidegebb város.",
+              "A nap télen már 16:30 körül lenyugszik.",
+              "A múzeumok kiválóan fűtött menedékhelyek.",
+              "Vigyázzon a Vitba feletti hidakon a hóval."
+            ],
+            "ro": [
+              "Purtați lenjerie termică; Vitebsk este unul dintre cele mai reci orașe.",
+              "Soarele apune iarna în jurul orei 16:30.",
+              "Muzeele sunt refugii excelent încălzite.",
+              "Atenție la zăpada de pe podurile peste Vitba."
+            ],
+            "en": [
+              "Wear thermal underwear; Vitebsk is one of the coldest cities.",
+              "The sun sets around 16:30 in the winter.",
+              "Museums are excellently heated retreats.",
+              "Be careful with snow on the bridges over the Vitba river."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -758,6 +958,206 @@
           "Always lock your bike in secure locations.",
           "Some streets may not have dedicated bike lanes, so ride with caution."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen von Vitebsk erfordert Mut, belohnt aber mit leeren Wegen am Siegesplatz. Mittags bieten die Museen trockene Abstellplätze in der Nähe und tiefe kulturelle Einblicke. Nachmittags gleiten Sie vorsichtig an der Dwina entlang zum Chagall-Museum. Abends wirkt die moderne Architektur des Amphitheaters durch den Regenschleier fast surreal.",
+            "hu": "A vicebszki esőben biciklizni bátorság, de az üres Győzelem tere kárpótolja. Délben a múzeumok közelében fedett helyeket talál, bent pedig kulturális feltöltődést. Délután óvatosan guruljon a Dvina mentén a Chagall-múzeum felé. Este az amfiteátrum modern vonalai az esőfüggönyön át szinte szürreálisnak hatnak.",
+            "ro": "Mersul pe bicicletă prin ploaia din Vitebsk necesită curaj, dar oferă poteci libere în Piața Victoriei. La prânz, muzeele oferă locuri de parcare acoperite în apropiere și cultură din plin. După-amiaza, pedalați cu grijă pe malul Dvinei spre muzeul Chagall. Seara, arhitectura amfiteatrului pare ireală prin perdeaua de ploaie.",
+            "en": "Cycling through Vitebsk rain requires courage but rewards you with empty paths at Victory Square. At noon, museums offer nearby dry parking and deep cultural immersion. Afternoon involves careful gliding along the Dvina toward the Chagall Museum. By evening, the Amphitheatre's modern lines look almost surreal through the veil of rain."
+          },
+          "stops": [
+            {
+              "name": "Victory Square",
+              "tip_5lang": {
+                "de": "Vorsicht bei Pfützenbildung.",
+                "hu": "Vigyázzon a pocsolyákkal.",
+                "ro": "Atenție la bălțile mari.",
+                "en": "Watch out for large puddles."
+              }
+            },
+            {
+              "name": "Marc Chagall Museum",
+              "tip_5lang": {
+                "de": "Fahrrad sicher anschließen.",
+                "hu": "Biztonságosan zárja le a gépet.",
+                "ro": "Încuiați bine bicicleta.",
+                "en": "Lock your bike securely."
+              }
+            },
+            {
+              "name": "Vitebsk Town Hall",
+              "tip_5lang": {
+                "de": "Glatte Kurven in der Altstadt.",
+                "hu": "Csúszós kanyarok az óvárosban.",
+                "ro": "Curbe alunecoase în centru.",
+                "en": "Slippery turns in the old town."
+              }
+            },
+            {
+              "name": "Vitebsk Museum of Art",
+              "tip_5lang": {
+                "de": "Lange Pause zum Trocknen.",
+                "hu": "Hosszú pihenő a száradáshoz.",
+                "ro": "Pauză lungă pentru uscare.",
+                "en": "Long break to dry off."
+              }
+            },
+            {
+              "name": "Assumption Cathedral",
+              "tip_5lang": {
+                "de": "Anstieg ist bei Nässe schwer.",
+                "hu": "Az emelkedő nehéz esőben.",
+                "ro": "Urcarea e grea pe ploaie.",
+                "en": "Uphill is tough when wet."
+              }
+            },
+            {
+              "name": "Summer Amphitheatre",
+              "tip_5lang": {
+                "de": "Beleuchtete Wege nutzen.",
+                "hu": "Használja a kivilágított utat.",
+                "ro": "Folosiți pistele iluminate.",
+                "en": "Use the illuminated paths."
+              }
+            },
+            {
+              "name": "Holy Spirit Monastery",
+              "tip_5lang": {
+                "de": "Ruhiger, nasser Rückzugsort.",
+                "hu": "Csendes, vizes menedék.",
+                "ro": "Refugiu liniștit și umed.",
+                "en": "Quiet, wet retreat."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei den Straßenverhältnissen in Vitebsk Pflicht.",
+              "Bremsen Sie frühzeitig auf dem nassen Kopfsteinpflaster.",
+              "Wasserdichte Packtaschen schützen Ihre Kamera und Dokumente.",
+              "Suchen Sie Unterstände unter großen Bäumen in den Parks."
+            ],
+            "hu": [
+              "A sárvédő kötelező Vicebszk útviszonyai mellett.",
+              "Fékezzen időben a nedves macskaköveken.",
+              "A vízálló táskák megvédik az értékeit az esőtől.",
+              "Keressen menedéket a parkok nagy fái alatt."
+            ],
+            "ro": [
+              "Apărătorile sunt obligatorii pentru drumurile din Vitebsk.",
+              "Frânați din timp pe pavajul umed.",
+              "Geantă impermeabilă pentru a proteja actele și camera.",
+              "Căutați adăpost sub copacii mari din parcuri."
+            ],
+            "en": [
+              "Mudguards are mandatory given Vitebsk's road conditions.",
+              "Brake early on the wet cobblestone streets.",
+              "Waterproof panniers will protect your documents and camera.",
+              "Seek shelter under large trees in the city parks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour per Rad durch Vitebsk ist ein echtes Abenteuer. Der Siegesplatz wirkt unter einer Schneeschicht noch gigantischer. Mittags ist das Kunstmuseum der rettende Hafen vor dem Frost. Die Wege an der Dwina sind nachmittags oft eisig, aber wunderschön. Den Abschluss bildet das beleuchtete Kloster, das in der Winterdunkelheit wie ein Leuchtfeuer der Ruhe wirkt.",
+            "hu": "A téli kerékpáros túra Vicebszkben igazi kaland. A Győzelem tere a hó alatt még gigantikusabbnak tűnik. Délben a Művészeti Múzeum a mentőöv a fagy ellen. A Dvina menti utak délután gyakran jegesek, de gyönyörűek. A napot a kivilágított kolostor zárja, amely a téli sötétségben a nyugalom jelzőfényeként hat.",
+            "ro": "Un tur cu bicicleta iarna prin Vitebsk este o adevărată aventură. Piața Victoriei pare și mai gigantică sub zăpadă. La prânz, Muzeul de Artă este colacul de salvare împotriva gerului. Potecile de pe Dvina sunt adesea înghețate după-amiaza, dar superbe. Finalul aparține mănăstirii iluminate, un far de liniște în întunericul iernii.",
+            "en": "A winter bike tour through Vitebsk is a true adventure. Victory Square looks even more gigantic under a layer of snow. At noon, the Art Museum is your life raft against the frost. The paths along the Dvina are often icy in the afternoon but beautiful. The day ends at the lit monastery, acting as a beacon of peace in the winter darkness."
+          },
+          "stops": [
+            {
+              "name": "Victory Square",
+              "tip_5lang": {
+                "de": "Achtung, extreme Glättegefahr.",
+                "hu": "Vigyázat, rendkívül csúszós.",
+                "ro": "Atenție, risc mare de polei.",
+                "en": "Caution, high risk of ice."
+              }
+            },
+            {
+              "name": "Marc Chagall Museum",
+              "tip_5lang": {
+                "de": "Langes Aufwärmen einplanen.",
+                "hu": "Tervezzen hosszú melegedést.",
+                "ro": "Planificați o încălzire lungă.",
+                "en": "Plan for a long warm-up."
+              }
+            },
+            {
+              "name": "Vitebsk Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, dann weiter.",
+                "hu": "Gyors fotó, aztán tovább.",
+                "ro": "Poză rapidă, apoi plecați.",
+                "en": "Quick photo, then move on."
+              }
+            },
+            {
+              "name": "Vitebsk Museum of Art",
+              "tip_5lang": {
+                "de": "Akku-Check bei Kälte wichtig.",
+                "hu": "Fontos az akkuk ellenőrzése.",
+                "ro": "Verificați bateria la frig.",
+                "en": "Battery check vital in cold."
+              }
+            },
+            {
+              "name": "Assumption Cathedral",
+              "tip_5lang": {
+                "de": "Treppen sind oft geräumt.",
+                "hu": "A lépcsők gyakran le vannak takarítva.",
+                "ro": "Treptele sunt de obicei curățate.",
+                "en": "Steps are usually cleared."
+              }
+            },
+            {
+              "name": "Summer Amphitheatre",
+              "tip_5lang": {
+                "de": "Frühe Dunkelheit beachten.",
+                "hu": "Ügyeljen a korai sötétre.",
+                "ro": "Atenție la întunericul timpuriu.",
+                "en": "Mind the early darkness."
+              }
+            },
+            {
+              "name": "Holy Spirit Monastery",
+              "tip_5lang": {
+                "de": "Stimmungsvolles Winterlicht.",
+                "hu": "Hangulatos téli fények.",
+                "ro": "Lumină de iarnă feerică.",
+                "en": "Atmospheric winter lighting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen oder Spike-Reifen sind absolut empfehlenswert.",
+              "Halten Sie die Kette gut geölt gegen Streusalz.",
+              "Tragen Sie dicke Handschuhe; der Fahrtwind ist eisig.",
+              "Kürzen Sie die Route bei extremem Schneefall ab."
+            ],
+            "hu": [
+              "Téli vagy szöges gumi erősen ajánlott.",
+              "Tartsa olajozottan a láncot a sózás ellen.",
+              "Viseljen vastag kesztyűt; a menetszél jeges.",
+              "Erős havazás esetén rövidítse le az utat."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sau cu ținte sunt recomandate.",
+              "Mențineți lanțul uns împotriva sării de pe drum.",
+              "Purtați mănuși groase; curentul de aer e înghețat.",
+              "Scurtați ruta în caz de ninsoare abundentă."
+            ],
+            "en": [
+              "Winter or spiked tires are highly recommended.",
+              "Keep the chain well-oiled against road salt.",
+              "Wear thick gloves; the wind chill is icy.",
+              "Shorten the route in case of heavy snowfall."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1090,6 +1490,188 @@
           "Be mindful of local traffic laws and speed limits.",
           "Plan your route in advance to avoid one-way streets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Vitebsk bequem vom Trockenen aus. Der Siegesplatz lässt sich fast im Vorbeifahren bewundern, bevor Sie in der Altstadt parken. Mittags schützen Sie die Museen vor den stärksten Güssen. Nachmittags ist die Fahrt zum Kunstviertel entspannt, während die Wischer im Takt der Stadt schlagen. Ein perfekter Tag für Kultur ohne nasse Füße.",
+            "hu": "Autóval kényelmesen, szárazon fedezheti fel Vicebszket. A Győzelem terét szinte az ablakból csodálhatja meg, mielőtt leparkol az óvárosban. Délben a múzeumok védenek a legerősebb záporoktól. Délután az út a művésznegyedbe pihentető, miközben az ablaktörlők a város ritmusára járnak. Tökéletes nap kultúrához, ázott lábak nélkül.",
+            "ro": "Cu mașina, explorați Vitebsk în confort și uscat. Piața Victoriei poate fi admirată din mers înainte de a parca în centrul vechi. La prânz, muzeele vă protejează de cele mai mari averse. După-amiaza, drumul spre cartierul de artă este relaxant, în timp ce ștergătoarele bat în ritmul orașului. O zi perfectă pentru cultură, fără picioare ude.",
+            "en": "Explore Vitebsk comfortably from the dry interior of your car. Victory Square can be admired almost in passing before parking in the old town. At noon, museums shield you from the heaviest downpours. Afternoon is a relaxed drive to the art district as wipers beat in rhythm with the city. A perfect day for culture without getting wet feet."
+          },
+          "stops": [
+            {
+              "name": "Victory Square",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Rand.",
+                "hu": "Parkoló közvetlenül a szélen.",
+                "ro": "Parcare chiar la margine.",
+                "en": "Parking right at the edge."
+              }
+            },
+            {
+              "name": "Vitebsk Town Hall (Old Town Cluster)",
+              "tip_5lang": {
+                "de": "Zentrales Parkhaus nutzen.",
+                "hu": "Használja a központi parkolót.",
+                "ro": "Folosiți parcarea centrală.",
+                "en": "Use central parking garage."
+              }
+            },
+            {
+              "name": "Resurrection Church",
+              "tip_5lang": {
+                "de": "Kurzer Weg vom Auto.",
+                "hu": "Rövid séta az autótól.",
+                "ro": "Drum scurt de la mașină.",
+                "en": "Short walk from the car."
+              }
+            },
+            {
+              "name": "Assumption Cathedral",
+              "tip_5lang": {
+                "de": "Aussichtspunkt auch im Regen top.",
+                "hu": "Kilátópont esőben is szuper.",
+                "ro": "Belvedere excelentă și pe ploaie.",
+                "en": "Viewpoint great even in rain."
+              }
+            },
+            {
+              "name": "Marc Chagall Museum (Art Cluster)",
+              "tip_5lang": {
+                "de": "Parkplätze im Innenhof suchen.",
+                "hu": "Keressen parkolót a belső udvarban.",
+                "ro": "Căutați parcare în curte.",
+                "en": "Look for parking in the yard."
+              }
+            },
+            {
+              "name": "Vitebsk Museum of Art",
+              "tip_5lang": {
+                "de": "Direkte Vorfahrt möglich.",
+                "hu": "Közvetlen megállás lehetséges.",
+                "ro": "Acces direct posibil.",
+                "en": "Direct drop-off possible."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf tiefe Pfützen am Straßenrand; Spritzgefahr.",
+              "Die Sicht kann bei starkem Regen in den Nebenstraßen schlecht sein.",
+              "Zentrales Parken in der Nähe des Rathauses spart Laufwege.",
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben."
+            ],
+            "hu": [
+              "Vigyázzon a mély pocsolyákra; kifröccsenés veszélye.",
+              "Erős esőben a látási viszonyok rosszak lehetnek a mellékutcákban.",
+              "A városháza közeli központi parkolás spórol a sétával.",
+              "Használja a légkondit a párásodás ellen."
+            ],
+            "ro": [
+              "Atenție la bălțile adânci; risc de stropire.",
+              "Vizibilitatea poate fi redusă pe străzile secundare pe ploaie.",
+              "Parcarea centrală lângă primărie reduce mersul pe jos.",
+              "Folosiți aerul condiționat pentru a dezaburi geamurile."
+            ],
+            "en": [
+              "Watch out for deep puddles at the curbside; splash risk.",
+              "Visibility can be poor in side streets during heavy rain.",
+              "Central parking near the Town Hall saves walking distances.",
+              "Use the air conditioning to keep windows from fogging up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vitebsk im Winter ist mit dem Auto am angenehmsten. Die geheizte Fahrt zwischen dem monumentalen Siegesplatz und den Museen schützt vor der beißenden Kälte. Mittags dienen die Kunstgalerien als warme Kultur-Stationen. Nachmittags gleitet man sicher durch die verschneiten Straßen zum Chagall-Museum. Ein Tag voller weißer Pracht, genossen aus der Wärme des Fahrzeugs.",
+            "hu": "Vicebszk télen autóval a legkellemesebb. A fűtött utazás a monumentális Győzelem tere és a múzeumok között megvéd a metsző hidegtől. Délben a művészeti galériák meleg kulturális állomásként szolgálnak. Délután biztonságosan suhanhat a havas utcákon a Chagall-múzeum felé. Egy nap tele fehér pompával, a jármű melegéből élvezve.",
+            "ro": "Vitebsk iarna este cel mai plăcut cu mașina. Călătoria încălzită între Piața Victoriei și muzee vă protejează de gerul mușcător. La prânz, galeriile de artă servenesc drept stații culturale calde. După-amiaza, alunecați în siguranță pe străzile înzăpezite spre muzeul Chagall. O zi plină de splendoare albă, savurată din căldura mașinii.",
+            "en": "Vitebsk in winter is most pleasant by car. The heated drive between the monumental Victory Square and the museums protects you from the biting cold. At noon, art galleries serve as warm cultural stations. Afternoon sees you gliding safely through snowy streets toward the Chagall Museum. A day full of white splendor, enjoyed from the vehicle's warmth."
+          },
+          "stops": [
+            {
+              "name": "Victory Square",
+              "tip_5lang": {
+                "de": "Scheibenheizung voll an.",
+                "hu": "Szélvédőfűtés maximumon.",
+                "ro": "Degivrare pornită la maxim.",
+                "en": "Windshield heating on max."
+              }
+            },
+            {
+              "name": "Vitebsk Town Hall (Old Town Cluster)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken im Schnee.",
+                "hu": "Vigyázzon a parkolásnál a hóban.",
+                "ro": "Atenție la parcare în zăpadă.",
+                "en": "Careful parking in the snow."
+              }
+            },
+            {
+              "name": "Resurrection Church",
+              "tip_5lang": {
+                "de": "Schnell ins Warme flüchten.",
+                "hu": "Gyorsan meneküljön be a melegre.",
+                "ro": "Fugiți rapid la căldură.",
+                "en": "Quickly escape into the heat."
+              }
+            },
+            {
+              "name": "Assumption Cathedral",
+              "tip_5lang": {
+                "de": "Winterreifen sind Pflicht.",
+                "hu": "A téli gumi kötelező.",
+                "ro": "Anvelopele de iarnă sunt obligatorii.",
+                "en": "Winter tires are mandatory."
+              }
+            },
+            {
+              "name": "Marc Chagall Museum (Art Cluster)",
+              "tip_5lang": {
+                "de": "Auto nicht zu lange stehen lassen.",
+                "hu": "Ne hagyja kint sokáig az autót.",
+                "ro": "Nu lăsați mașina mult timp afară.",
+                "en": "Don't leave the car out too long."
+              }
+            },
+            {
+              "name": "Vitebsk Museum of Art",
+              "tip_5lang": {
+                "de": "Warme Kleidung im Auto lassen.",
+                "hu": "Meleg ruhát hagyjon az autóban.",
+                "ro": "Lăsați haine groase în mașină.",
+                "en": "Leave warm clothes in the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Frostschutzmittel sind in Belarus absolut überlebensnotwendig.",
+              "Planen Sie Zeit zum Freikratzen der Scheiben ein.",
+              "Die Straßenreinigung ist in Vitebsk meist sehr effizient.",
+              "Fahren Sie defensiv; Glatteisgefahr auf den Dwina-Brücken."
+            ],
+            "hu": [
+              "Téli gumi és fagyálló folyadék nélkülözhetetlen Fehéroroszországban.",
+              "Tervezzen időt a jégkaparáshoz.",
+              "Az úttisztítás Vicebszkben általában nagyon hatékony.",
+              "Vezessen óvatosan; jegesedés várható a Dvina-hidakon."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și antigelul sunt vitale în Belarus.",
+              "Planificați timp pentru curățarea gheții de pe geamuri.",
+              "Deszăpezirea este de obicei foarte eficientă în Vitebsk.",
+              "Conduceți defensiv; risc de polei pe podurile peste Dvina."
+            ],
+            "en": [
+              "Winter tires and antifreeze are absolutely vital in Belarus.",
+              "Allow extra time for scraping ice off the windows.",
+              "Street cleaning is usually very efficient in Vitebsk.",
+              "Drive defensively; risk of black ice on the Dvina bridges."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1422,6 +2004,188 @@
           "Download an offline map or a public transport app.",
           "Signage might only be in Russian/Belarusian, so note your stop names."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vitebsks gut vernetzte Busse und Trams halten Sie auch im Regen trocken. Vom Siegesplatz geht es bequem per Bahn in die Altstadt. Mittags bieten die großen Museen eine warme, kulturelle Auszeit, während draußen der Regen fällt. Nachmittags bringt Sie der Nahverkehr direkt zum Chagall-Viertel. Abends glänzt die Stadt durch die nassen Fensterscheiben der Tram.",
+            "hu": "Vicebszk jól szervezett busz- és villamoshálózata esőben is szárazon tartja. A Győzelem teréről kényelmesen utazhat az óvárosba. Délben a nagy múzeumok meleg, kulturális kikapcsolódást nyújtanak, miközben kint esik. Délután a tömegközlekedés közvetlenül a Chagall-negyedbe viszi. Este a város a villamos nedves ablakain át csillog.",
+            "ro": "Autobuzele și tramvaiele bine conectate din Vitebsk vă mențin uscat pe ploaie. De la Piața Victoriei, mergeți confortabil spre centrul vechi. La prânz, marile muzee oferă o pauză culturală caldă, în timp ce afară plouă. După-amiaza, transportul public vă duce direct în cartierul Chagall. Seara, orașul strălucește prin geamurile ude ale tramvaiului.",
+            "en": "Vitebsk's well-connected buses and trams keep you dry even in the rain. From Victory Square, take a comfortable ride to the old town. At noon, large museums offer a warm cultural break while it pours outside. Afternoon public transport brings you directly to the Chagall district. In the evening, the city shimmers through the wet tram windows."
+          },
+          "stops": [
+            {
+              "name": "Victory Square (District A)",
+              "tip_5lang": {
+                "de": "Überdachte Haltestellen nutzen.",
+                "hu": "Használja a fedett megállókat.",
+                "ro": "Folosiți stațiile acoperite.",
+                "en": "Use covered bus stops."
+              }
+            },
+            {
+              "name": "Vitebsk Town Hall (District B - Old Town)",
+              "tip_5lang": {
+                "de": "Tram hält fast direkt davor.",
+                "hu": "A villamos majdnem előtte áll meg.",
+                "ro": "Tramvaiul oprește aproape în față.",
+                "en": "Tram stops almost right in front."
+              }
+            },
+            {
+              "name": "Assumption Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle.",
+                "hu": "Rövid séta a megállótól.",
+                "ro": "Scurt drum pe jos din stație.",
+                "en": "Short walk from the stop."
+              }
+            },
+            {
+              "name": "Summer Amphitheatre",
+              "tip_5lang": {
+                "de": "Direkter ÖPNV-Anschluss.",
+                "hu": "Közvetlen tömegközlekedési kapcsolat.",
+                "ro": "Conexiune directă cu transportul.",
+                "en": "Direct public transport link."
+              }
+            },
+            {
+              "name": "Marc Chagall Museum (District C - Art)",
+              "tip_5lang": {
+                "de": "Busse fahren alle 10-15 Min.",
+                "hu": "A buszok 10-15 percenként járnak.",
+                "ro": "Autobuzele circulă la 10-15 min.",
+                "en": "Buses run every 10-15 min."
+              }
+            },
+            {
+              "name": "Vitebsk Museum of Art",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt nah.",
+                "hu": "Központi csomópont a közelben.",
+                "ro": "Nod central în apropiere.",
+                "en": "Central hub nearby."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten im Voraus an Kiosken oder beim Fahrer.",
+              "Die Tramlinie 1 ist ideal für Sightseeing im Trockenen.",
+              "Achten Sie auf die digitalen Anzeigen an den Haltestellen.",
+              "Suchen Sie bei starkem Regen Schutz in den Wartehäuschen."
+            ],
+            "hu": [
+              "Vegyen jegyet előre az újságosnál vagy a vezetőnél.",
+              "Az 1-es villamos ideális városnézéshez esőben.",
+              "Figyelje a digitális kijelzőket a megállókban.",
+              "Erős esőben keressen fedett váróhelyeket."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans de la chioșcuri sau de la șofer.",
+              "Linia de tramvai 1 este ideală pentru vizitare pe ploaie.",
+              "Urmăriți afișajele digitale din stații.",
+              "Căutați adăpost în refugiile din stații pe ploaie torențială."
+            ],
+            "en": [
+              "Buy tickets in advance at kiosks or from the driver.",
+              "Tram line 1 is ideal for sightseeing while staying dry.",
+              "Keep an eye on the digital displays at the stops.",
+              "Seek shelter in the bus stop cabins during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "In den beheizten Trams von Vitebsk lässt sich der Wintermorgen am Siegesplatz herrlich beobachten. Die Fahrt in die Altstadt ist ein warmer Puffer gegen die Kälte. Mittags dienen die Kunstmuseen als kulturelle Aufwärmstationen. Nachmittags gleiten Sie mit dem Bus entspannt durch das verschneite Stadtzentrum zum Chagall-Museum. Abends wirkt die winterliche Stadt durch die Scheiben wie verzaubert.",
+            "hu": "Vicebszk fűtött villamosain ülve remekül megfigyelhető a téli reggel a Győzelem terén. Az utazás az óvárosba meleg puffer a hideg ellen. Délben a művészeti múzeumok kulturális melegedőként szolgálnak. Délután busszal pihentetően suhanhat a havas városközponton át a Chagall-múzeumhoz. Este a téli város az ablakokon át elvarázsoltnak tűnik.",
+            "ro": "În tramvaiele încălzite din Vitebsk, dimineața de iarnă în Piața Victoriei poate fi observată minunat. Drumul spre orașul vechi este un tampon cald împotriva gerului. La prânz, muzeele de artă servesc drept stații culturale de încălzire. După-amiaza, alunecați relaxat cu autobuzul prin centrul înzăpezit spre muzeul Chagall. Seara, orașul de iarnă pare vrăjit prin geamuri.",
+            "en": "From the heated trams of Vitebsk, you can wonderfully observe the winter morning at Victory Square. The ride to the old town is a warm buffer against the cold. At noon, art museums serve as cultural warming stations. Afternoon sees you gliding relaxed by bus through the snowy city center to the Chagall Museum. In the evening, the winter city looks enchanted through the windows."
+          },
+          "stops": [
+            {
+              "name": "Victory Square (District A)",
+              "tip_5lang": {
+                "de": "Kurz im Warmen warten.",
+                "hu": "Várjon röviden a melegben.",
+                "ro": "Așteptați puțin la căldură.",
+                "en": "Wait briefly in the warm."
+              }
+            },
+            {
+              "name": "Vitebsk Town Hall (District B - Old Town)",
+              "tip_5lang": {
+                "de": "Tram ist gut beheizt.",
+                "hu": "A villamos jól fűtött.",
+                "ro": "Tramvaiul este bine încălzit.",
+                "en": "The tram is well heated."
+              }
+            },
+            {
+              "name": "Assumption Cathedral",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk für den Weg.",
+                "hu": "Stabil lábbeli a gyalogúthoz.",
+                "ro": "Încălțăminte solidă pentru drum.",
+                "en": "Solid footwear for the walk."
+              }
+            },
+            {
+              "name": "Summer Amphitheatre",
+              "tip_5lang": {
+                "de": "Besondere Winterbeleuchtung.",
+                "hu": "Különleges téli kivilágítás.",
+                "ro": "Iluminat special de iarnă.",
+                "en": "Special winter lighting."
+              }
+            },
+            {
+              "name": "Marc Chagall Museum (District C - Art)",
+              "tip_5lang": {
+                "de": "Fahrplan online prüfen.",
+                "hu": "Ellenőrizze a menetrendet online.",
+                "ro": "Verificați orarul online.",
+                "en": "Check the schedule online."
+              }
+            },
+            {
+              "name": "Vitebsk Museum of Art",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle nutzen.",
+                "hu": "Használja a központi megállót.",
+                "ro": "Folosiți stația centrală.",
+                "en": "Use the central stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Trams sind im Winter meist besser beheizt als die Busse.",
+              "Achten Sie auf vereiste Einstiege an den Haltestellen.",
+              "Nutzen Sie Apps für die Echtzeit-Verfolgung der Fahrzeuge.",
+              "Halten Sie Kleingeld für den Ticketkauf beim Fahrer bereit."
+            ],
+            "hu": [
+              "A villamosok télen általában jobban fűtöttek, mint a buszok.",
+              "Vigyázzon a jeges fellépőkre a megállókban.",
+              "Használjon appot a járművek valós idejű követéséhez.",
+              "Készítsen aprópénzt a vezetőnél történő jegyvásárláshoz."
+            ],
+            "ro": [
+              "Tramvaiele sunt de obicei mai bine încălzite decât autobuzele iarna.",
+              "Atenție la treptele înghețate din stații.",
+              "Folosiți aplicații pentru urmărirea vehiculelor în timp real.",
+              "Pregătiți mărunțiș pentru bilete cumpărate de la șofer."
+            ],
+            "en": [
+              "Trams are usually better heated than buses in the winter.",
+              "Watch out for icy steps at the bus and tram stops.",
+              "Use local apps for real-time vehicle tracking.",
+              "Have small change ready for buying tickets from the driver."
+            ]
+          }
+        }
       }
     }
   }

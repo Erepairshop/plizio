@@ -339,6 +339,214 @@
           "Most museums are closed on Mondays.",
           "Be sure to try a 'Kürtőskalács' (chimney cake) from a street vendor."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am regnerischen Dobó-Platz, wo die Arkaden Schutz bieten. Mittags erkunden Sie die prächtige Basilika und das Lyzeum, perfekt um trocken zu bleiben. Nachmittags führen die Kasematten der Burg durch unterirdische Gänge. Der Abend endet entspannend im warmen Wasser des Türkischen Bads, während draußen der Regen prasselt.",
+            "hu": "Az esős nap a Dobó téren indul, ahol az árkádok alatt találunk menedéket. Délben a Bazilika és a Líceum belső terei nyújtanak száraz élményeket. Délután az egri vár föld alatti kazamatái ideálisak a csapadék elől. Az estét a Török Fürdő gőzében zárjuk, ahol a belső medencékben teljesen elfelejthetjük a kinti rossz időt.",
+            "ro": "Ziua începe în Piața Dobó, unde arcadele oferă adăpost de ploaie. La prânz, interiorul Bazilicii și al Liceului sunt perfecte pentru a rămâne uscat. După-amiaza, cazematele castelului oferă un traseu subteran fascinant. Seara se încheie relaxant la Băile Turcești, unde apa caldă te face să uiți de vremea mohorâtă de afară.",
+            "en": "The rainy day starts at Dobó Square, where the arcades provide shelter. At noon, the interiors of the Basilica and the Lyceum offer a dry cultural experience. In the afternoon, the castle's underground casemates are perfect for escaping the rain. The evening ends perfectly at the Turkish Bath, soaking in warm thermal waters while it pours outside."
+          },
+          "stops": [
+            {
+              "name": "Dobó Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
+                "hu": "Használja a környező épületek árkádjait esernyő helyett.",
+                "ro": "Folosiți arcadele clădirilor din jur pentru a vă proteja de ploaie.",
+                "en": "Use the arcades of the surrounding buildings as rain shelter."
+              }
+            },
+            {
+              "name": "Basilica of Eger",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um bei einem Schauer die beeindruckende Akustik zu genießen.",
+                "hu": "Ideális helyszín egy zápor idején a belső tér megcsodálására.",
+                "ro": "Un loc ideal pentru a admira interiorul în timpul unei averse.",
+                "en": "An ideal place to admire the interior while waiting out a shower."
+              }
+            },
+            {
+              "name": "Lyceum (Magic Tower)",
+              "tip_5lang": {
+                "de": "Das Museum ist komplett überdacht; verpassen Sie nicht die Camera Obscura.",
+                "hu": "A múzeum teljesen fedett; ne hagyja ki a Camera Obscurát.",
+                "ro": "Muzeul este complet acoperit; nu ratați Camera Obscura.",
+                "en": "The museum is fully indoor; don't miss the Camera Obscura."
+              }
+            },
+            {
+              "name": "Castle of Eger",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kasematten, um trocken durch die Geschichte zu wandern.",
+                "hu": "Látogassa meg a kazamatákat, hogy szárazon járja be a történelmet.",
+                "ro": "Vizitați cazematele pentru a explora istoria fără a vă uda.",
+                "en": "Visit the casemates to explore history while staying dry underground."
+              }
+            },
+            {
+              "name": "Eger Minaret",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Stufen, sie können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat a lépcsőkön, nedves időben nagyon csúszósak lehetnek.",
+                "ro": "Atenție pe trepte, pot fi foarte alunecoase când sunt ude.",
+                "en": "Be careful on the steps; they can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Turkish Bath",
+              "tip_5lang": {
+                "de": "Der beste Zufluchtsort bei Regen; die Kuppelbecken sind herrlich warm.",
+                "hu": "A legjobb menedék esőben; a kupolás medencék kellemesen melegek.",
+                "ro": "Cel mai bun refugiu pe ploaie; bazinele sub cupolă sunt calde.",
+                "en": "The best refuge in the rain; the domed pools are wonderfully warm."
+              }
+            },
+            {
+              "name": "Farewell Dinner",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit gemütlichem Innenraum im Zentrum.",
+                "hu": "Válasszon egy hangulatos beltéri éttermet a belvárosban.",
+                "ro": "Alegeți un restaurant cu interior primitor în centrul orașului.",
+                "en": "Choose a cozy indoor restaurant in the city center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster Pfützen bildet.",
+              "Die unterirdischen Kasematten der Burg sind bei Regen der beste Ort.",
+              "Das Türkische Bad ist eine hervorragende Indoor-Alternative zum Strandbad.",
+              "Viele Cafés rund um den Dobó-Platz haben überdachte Terrassen.",
+              "Planen Sie mehr Zeit für die Museen im Lyceum ein, wenn es stark regnet."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskaköveken megállhat a víz.",
+              "A vár kazamatái a legjobb búvóhelyet jelentik esős időben.",
+              "A Török Fürdő kiváló beltéri alternatíva a strand helyett.",
+              "A Dobó tér környékén sok kávézó rendelkezik fedett terasszal.",
+              "Szánjon több időt a Líceum múzeumaira, ha elered az eső."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, apa se poate aduna pe pavaj.",
+              "Cazematele castelului sunt cel mai bun refugiu pe timp de ploaie.",
+              "Baia Turcească este o alternativă excelentă de interior la ștrand.",
+              "Multe cafenele din jurul Pieței Dobó au terase acoperite.",
+              "Alocați mai mult timp muzeelor din Liceu dacă plouă torențial."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles often form on the cobblestones.",
+              "The castle casemates provide the best shelter during rainy weather.",
+              "The Turkish Bath is an excellent indoor alternative to the lido.",
+              "Many cafes around Dobó Square have covered terraces.",
+              "Plan more time for the Lyceum museums if it starts pouring."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Dobó-Platz mit dem Duft von Glühwein. Mittags wärmen die Basilika und der prunkvolle Prunksaal des Lyzeums Herz und Hände. In der Burg bietet der Panoramablick über die verschneiten Dächer eine magische Kulisse vor dem frühen Sonnenuntergang. Der Tag endet perfekt im dampfenden Thermalwasser des Türkischen Bads.",
+            "hu": "Deres reggel a Dobó téren, ahol forralt bor illata száll. Délben a Bazilika és a Líceum díszterme melengeti meg a látogatót. A vár falairól a havas tetők panorámája fogad a korai naplemente előtt. A napot a Török Fürdő gőzölgő gyógyvize zárja, ami télen a legélvezetesebb.",
+            "ro": "O dimineață geroasă în Piața Dobó, cu miros de vin fiert în aer. La prânz, Bazilica și sala festivă a Liceului oferă căldură și splendoare. De pe zidurile castelului, panorama acoperișurilor înzăpezite este magică înainte de apusul timpuriu. Ziua se termină perfect în aburii calzi ai Băii Turcești.",
+            "en": "A frosty morning at Dobó Square with the scent of mulled wine in the air. At noon, the Basilica and the Lyceum's grand hall provide warmth and beauty. From the castle walls, enjoy the panoramic view of snowy rooftops before the early sunset. The day concludes perfectly in the steaming thermal waters of the Turkish Bath."
+          },
+          "stops": [
+            {
+              "name": "Dobó Square",
+              "tip_5lang": {
+                "de": "Probieren Sie lokalen Glühwein an den Ständen, um sich aufzuwärmen.",
+                "hu": "Kóstolja meg a helyi forralt bort a bódéknál a bemelegítéshez.",
+                "ro": "Gustați vinul fiert local de la tarabe pentru a vă încălzi.",
+                "en": "Try some local mulled wine at the stalls to warm up."
+              }
+            },
+            {
+              "name": "Basilica of Eger",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Krippe und genießen Sie die Stille im Inneren.",
+                "hu": "Csodálja meg a betlehemet és élvezze a benti csendet.",
+                "ro": "Admirați ieslea de Crăciun și bucurați-vă de liniștea din interior.",
+                "en": "Admire the nativity scene and enjoy the peaceful interior."
+              }
+            },
+            {
+              "name": "Lyceum (Magic Tower)",
+              "tip_5lang": {
+                "de": "Die Bibliothek ist im Winter besonders behaglich und sehenswert.",
+                "hu": "A könyvtár télen különösen hangulatos és látványos.",
+                "ro": "Biblioteca este deosebit de primitoare și spectaculoasă iarna.",
+                "en": "The library is especially cozy and spectacular during winter."
+              }
+            },
+            {
+              "name": "Castle of Eger",
+              "tip_5lang": {
+                "de": "Achtung, die Außenwege können vereist sein; festes Schuhwerk ist Pflicht.",
+                "hu": "Vigyázat, a kinti utak jegesek lehetnek; bakancs ajánlott.",
+                "ro": "Atenție, potecile exterioare pot fi înghețate; purtați bocanci.",
+                "en": "Careful, outdoor paths can be icy; sturdy boots are a must."
+              }
+            },
+            {
+              "name": "Eger Minaret",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist anstrengend, aber oben wartet kalte, klare Winterluft.",
+                "hu": "A feljutás fárasztó, de fent friss, tiszta téli levegő várja.",
+                "ro": "Urcarea este obositoare, dar sus vă așteaptă aerul curat de iarnă.",
+                "en": "The climb is tough, but fresh, crisp winter air awaits at the top."
+              }
+            },
+            {
+              "name": "Turkish Bath",
+              "tip_5lang": {
+                "de": "Das warme Wasser ist im Winter der ultimative Genuss nach dem Frost.",
+                "hu": "A meleg víz télen a legnagyobb élvezet a kinti fagy után.",
+                "ro": "Apa caldă este cea mai mare plăcere iarna, după gerul de afară.",
+                "en": "The warm water is the ultimate treat in winter after the frost."
+              }
+            },
+            {
+              "name": "Farewell Dinner",
+              "tip_5lang": {
+                "de": "Ein schwerer Eger-Rotwein passt perfekt zu einem winterlichen Abendessen.",
+                "hu": "Egy nehéz egri vörösbor tökéletesen illik a téli vacsorához.",
+                "ro": "Un vin roșu de Eger se potrivește perfect cu o cină de iarnă.",
+                "en": "A heavy Eger red wine pairs perfectly with a winter dinner."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Tragen Sie Thermounterwäsche für den längeren Aufenthalt in der Burg.",
+              "Das Türkische Bad bietet eine wunderbare Flucht vor der Winterkälte.",
+              "Vorsicht vor Glätte auf dem Kopfsteinpflaster in der Altstadt.",
+              "Viele Sehenswürdigkeiten schließen im Winter eine Stunde früher."
+            ],
+            "hu": [
+              "A nap decemberben már 16:00 körül lemegy.",
+              "Viseljen termo alsóneműt a hosszabb várbeli tartózkodáshoz.",
+              "A Török Fürdő csodálatos menekülés a téli hideg elől.",
+              "Vigyázzon a csúszós macskakövekkel az óvárosban.",
+              "Sok látnivaló télen egy órával korábban zárhat."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:00 în decembrie.",
+              "Purtați lenjerie termică pentru șederea prelungită la castel.",
+              "Baia Turcească oferă o evadare minunată din frigul iernii.",
+              "Atenție la pavajul alunecos din centrul vechi.",
+              "Multe obiective turistice se închid cu o oră mai devreme iarna."
+            ],
+            "en": [
+              "The sun sets as early as 4:00 PM in December.",
+              "Wear thermal layers for the extended stay at the castle.",
+              "The Turkish Bath is a wonderful escape from the winter cold.",
+              "Watch out for slippery cobblestones in the old town.",
+              "Many attractions may close an hour earlier during winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -656,6 +864,214 @@
           "Some central streets are pedestrian-only; dismount and walk your bike there.",
           "Bring a water bottle, especially for the ride to the valley."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein abenteuerlicher Vormittag auf dem Rad durch Eger. Nach der Basilika geht es zur Burg, wo die gepflasterten Wege bei Regen Vorsicht erfordern. Das Mittagessen am Minaret bietet eine willkommene Pause im Trockenen. Der Nachmittag führt in das Tal der Schönen Frau, wo die Weinkeller den perfekten Schutz vor dem Wetter bieten.",
+            "hu": "Kalandos délelőtt kerékpáron Egerben. A Bazilika után a vár felé vesszük az irányt, ahol a vizes köveken óvatosan haladjunk. A Minaret melletti ebéd remek alkalmat ad a száradásra. Délután a Szépasszony-völgy felé tekerünk, ahol a borospincék tökéletes menedéket nyújtanak az eső elől.",
+            "ro": "O dimineață aventuroasă pe bicicletă prin Eger. După Bazilică, mergem spre castel, unde drumurile pavate cer prudență pe ploaie. Prânzul lângă Minaret oferă o pauză binemeritată la uscat. După-amiaza pedalăm spre Valea Femeii Frumoase, unde cramele sunt adăpostul perfect.",
+            "en": "An adventurous morning on two wheels through Eger. After the Basilica, head to the castle, taking care on wet cobblestones. Lunch near the Minaret is a great chance to dry off. The afternoon ride leads to the Valley of the Beautiful Woman, where the wine cellars offer perfect shelter from the rain."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Dobó Square",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Rad mit guten Schutzblechen.",
+                "hu": "Kérjen sárvédővel jól felszerelt kerékpárt.",
+                "ro": "Cereți o bicicletă bine echipată cu apărători de noroi.",
+                "en": "Ask for a bike well-equipped with mudguards."
+              }
+            },
+            {
+              "name": "Basilica of Eger",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad an einem überdachten Ort in der Nähe.",
+                "hu": "Parkolja le a bringát egy közeli fedett helyen.",
+                "ro": "Parcați bicicleta într-un loc acoperit din apropiere.",
+                "en": "Park your bike in a nearby covered area."
+              }
+            },
+            {
+              "name": "Castle of Eger",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glitschigen Kopfsteinpflaster am Burgtor.",
+                "hu": "Vigyázat a csúszós macskakövön a várkapunál.",
+                "ro": "Atenție la pavajul alunecos de la poarta castelului.",
+                "en": "Be careful on the slippery cobblestones at the castle gate."
+              }
+            },
+            {
+              "name": "Lunch near the Minaret",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit, um die Regenkleidung zu lüften.",
+                "hu": "Használja ki az időt az esőruházat átszellőztetésére.",
+                "ro": "Folosiți timpul pentru a vă aerisi echipamentul de ploaie.",
+                "en": "Use this time to air out your rain gear."
+              }
+            },
+            {
+              "name": "Valley of the Beautiful Woman",
+              "tip_5lang": {
+                "de": "Die Keller sind ideal, um den Regenschauer auszusitzen.",
+                "hu": "A pincék ideálisak egy-egy zápor átvészelésére.",
+                "ro": "Cramele sunt ideale pentru a aștepta trecerea unei averse.",
+                "en": "The cellars are ideal for waiting out a heavy shower."
+              }
+            },
+            {
+              "name": "Archbishop's Palace",
+              "tip_5lang": {
+                "de": "Ein schöner Indoor-Stopp vor der Rückgabe des Rades.",
+                "hu": "Szép beltéri megálló a bicikli leadása előtt.",
+                "ro": "O oprire frumoasă la interior înainte de a returna bicicleta.",
+                "en": "A lovely indoor stop before returning your bike."
+              }
+            },
+            {
+              "name": "Bike Drop-off",
+              "tip_5lang": {
+                "de": "Wischen Sie den Sattel für den nächsten Nutzer kurz trocken.",
+                "hu": "Törölje szárazra a nyerget a következő használó kedvéért.",
+                "ro": "Ștergeți șaua pentru următorul utilizator.",
+                "en": "Wipe the saddle dry for the next user's comfort."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie bei Regen starke Bremsungen auf Kopfsteinpflaster.",
+              "Eine wasserdichte Regenhose ist bei dieser Tour sehr empfehlenswert.",
+              "Die Weinkeller im Tal bieten den besten Wetterschutz.",
+              "Achten Sie auf Pfützen, die tiefe Schlaglöcher verbergen können.",
+              "Nutzen Sie die überdachten Fahrradständer am Dobó-Platz."
+            ],
+            "hu": [
+              "Esőben kerülje a hirtelen fékezést a macskakövön.",
+              "A vízálló nadrág kifejezetten ajánlott ehhez a túrához.",
+              "A völgy borospincéi nyújtják a legjobb védelmet az időjárás ellen.",
+              "Ügyeljen a tócsákra, amelyek mély kátyúkat rejthetnek.",
+              "Használja a Dobó téri fedett kerékpártárolókat."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe pavaj când plouă.",
+              "Pantalonii impermeabili sunt foarte recomandați pentru acest tur.",
+              "Cramele din vale oferă cea mai bună protecție contra vremii.",
+              "Atenție la bălți, pot ascunde gropi adânci.",
+              "Folosiți rastelele de biciclete acoperite din Piața Dobó."
+            ],
+            "en": [
+              "Avoid sudden braking on cobblestones when wet.",
+              "Waterproof trousers are highly recommended for this tour.",
+              "The wine cellars in the valley offer the best weather protection.",
+              "Watch out for puddles that might hide deep potholes.",
+              "Use the covered bike racks at Dobó Square."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Wintermorgen auf dem Fahrrad. Nach dem Besuch der Basilika führt der Weg hinauf zur Burg, wo die klare Luft für weite Sicht sorgt. Ein warmes Mittagessen stärkt für die Fahrt in das Tal der Schönen Frau. Dort wärmen die konstanten Temperaturen in den Weinkellern und ein kräftiger Rotwein die kalten Glieder.",
+            "hu": "Frissítő téli reggel a kerékpáron. A Bazilika után az út a várba vezet, ahol a tiszta levegő távoli kilátást enged. Egy meleg ebéd ad erőt a Szépasszony-völgybe tekeréshez. Ott a borospincék állandó hőmérséklete és a testes vörösbor melengeti meg a kihűlt tagokat.",
+            "ro": "O dimineață răcoroasă de iarnă pe bicicletă. După vizita la Bazilică, drumul urcă spre castel, unde aerul curat oferă o vizibilitate mare. Un prânz cald vă dă putere pentru drumul spre Valea Femeii Frumoase. Acolo, temperatura constantă din crame și un vin roșu vă vor încălzi.",
+            "en": "A refreshing winter morning on a bike. After visiting the Basilica, the route leads up to the castle, where the crisp air ensures long-distance views. A warm lunch fuels the ride to the Valley of the Beautiful Woman. There, the steady temperature of the wine cellars and a bold red wine will warm you up."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Dobó Square",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; kalte Luft lässt ihn oft sinken.",
+                "hu": "Ellenőrizze a guminyomást; a hidegben gyakran lecsökken.",
+                "ro": "Verificați presiunea în pneuri; aerul rece o poate scădea.",
+                "en": "Check tire pressure; cold air often causes it to drop."
+              }
+            },
+            {
+              "name": "Basilica of Eger",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die eingefrorenen Finger aufzuwärmen.",
+                "hu": "Használja ki a megállót az átfagyott ujjak felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi degetele înghețate.",
+                "en": "Use this stop to warm up your frozen fingers."
+              }
+            },
+            {
+              "name": "Castle of Eger",
+              "tip_5lang": {
+                "de": "Treten Sie vorsichtig in die Pedale; Schattenstellen können glatt sein.",
+                "hu": "Óvatosan pedálozzon; az árnyékos részeken jeges lehet az út.",
+                "ro": "Pedalați cu atenție; zonele umbrite pot fi înghețate.",
+                "en": "Pedal carefully; shaded spots can be icy."
+              }
+            },
+            {
+              "name": "Lunch near the Minaret",
+              "tip_5lang": {
+                "de": "Bestellen Sie eine heiße Suppe als Energiequelle.",
+                "hu": "Rendeljen egy forró levest energiaforrásként.",
+                "ro": "Comandați o supă fierbinte pentru energie.",
+                "en": "Order a hot soup as your main energy source."
+              }
+            },
+            {
+              "name": "Valley of the Beautiful Woman",
+              "tip_5lang": {
+                "de": "Die Keller sind im Winter wärmer als die Außenluft.",
+                "hu": "A pincék télen melegebbek, mint a kinti levegő.",
+                "ro": "Cramele sunt mai calde iarna decât aerul de afară.",
+                "en": "The cellars are actually warmer than the outside air in winter."
+              }
+            },
+            {
+              "name": "Archbishop's Palace",
+              "tip_5lang": {
+                "de": "Ein letzter kultureller Stopp im beheizten Innenraum.",
+                "hu": "Egy utolsó kulturális megálló fűtött beltérben.",
+                "ro": "O ultimă oprire culturală într-un interior încălzit.",
+                "en": "A final cultural stop in a heated indoor environment."
+              }
+            },
+            {
+              "name": "Bike Drop-off",
+              "tip_5lang": {
+                "de": "Geben Sie das Rad vor dem Einsetzen der Dunkelheit ab.",
+                "hu": "Adja le a kerékpárt még sötétedés előtt.",
+                "ro": "Returnați bicicleta înainte de lăsarea întunericului.",
+                "en": "Return the bike before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Handschuhe sind für diese Wintertour unverzichtbar.",
+              "Achten Sie auf Streusalz, das die Kette angreifen kann.",
+              "Fahren Sie im Tal besonders vorsichtig bei Reifglätte.",
+              "Die Tage sind kurz; planen Sie die Rückkehr bis 16:30 Uhr.",
+              "Zwiebelprinzip bei der Kleidung schützt vor dem Fahrtwind."
+            ],
+            "hu": [
+              "A jó kesztyű nélkülözhetetlen ehhez a téli túrához.",
+              "Ügyeljen a szórósóra, amely károsíthatja a láncot.",
+              "A völgyben legyen különösen óvatos a zúzmarás úton.",
+              "Rövidek a nappalok; tervezze a visszatérést 16:30-ra.",
+              "A réteges öltözködés véd meg a menetszéltől."
+            ],
+            "ro": [
+              "Mănușile bune sunt indispensabile pentru acest tur de iarnă.",
+              "Atenție la sarea de pe drum, poate afecta lanțul.",
+              "În vale, fiți foarte atenți la porțiunile cu chiciură.",
+              "Zilele sunt scurte; planificați revenirea până la 16:30.",
+              "Îmbrăcămintea în straturi vă protejează de vântul rece."
+            ],
+            "en": [
+              "Good gloves are indispensable for this winter tour.",
+              "Watch out for road salt, which can damage the chain.",
+              "Be extra careful in the valley on frost-covered roads.",
+              "Days are short; plan to be back by 4:30 PM.",
+              "Layering your clothes protects against the wind chill."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -956,6 +1372,196 @@
           "Allow extra time for traffic, especially on weekends.",
           "Designate a driver if you plan on wine tasting in the Valley of the Beautiful Woman."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequemer Start im Auto zum Dobó-Platz. Bei Regen ist die Basilika und das Lyzeum mit dem Wagen schnell erreicht, ohne nass zu werden. Mittags parken wir direkt an der Burg, wo die Kasematten Schutz bieten. Der Tag endet im Tal der Schönen Frau, wo man trocken von Keller zu Keller gelangen kann.",
+            "hu": "Kényelmes kezdés autóval a Dobó térnél. Esőben a Bazilika és a Líceum autóval gyorsan, ázás nélkül elérhető. Délben közvetlenül a várnál parkolunk, ahol a kazamaták nyújtanak menedéket. A nap a Szépasszony-völgyben zárul, ahol szárazon juthatunk pincétől pincéig.",
+            "ro": "Început confortabil cu mașina spre Piața Dobó. Pe ploaie, Bazilica și Liceul sunt ușor de vizitat fără a vă uda. La prânz parcăm chiar lângă castel, unde cazematele oferă adăpost. Ziua se încheie în Valea Femeii Frumoase, unde puteți merge de la o cramă la alta fără probleme.",
+            "en": "A comfortable start by car near Dobó Square. In the rain, the Basilica and Lyceum are easily reached without getting soaked. At noon, park right by the castle, where the casemates provide shelter. The day ends in the Valley of the Beautiful Woman, moving dryly from cellar to cellar."
+          },
+          "stops": [
+            {
+              "name": "Parking in the Center & Dobó Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus im Zentrum für einen trockenen Weg.",
+                "hu": "Használja a belvárosi parkolóházat a száraz kijutáshoz.",
+                "ro": "Folosiți parcarea supraetajată din centru pentru a rămâne uscați.",
+                "en": "Use the multi-story car park in the center for a dry exit."
+              }
+            },
+            {
+              "name": "Basilica of Eger",
+              "tip_5lang": {
+                "de": "Direkt davor gibt es Kurzzeitparkplätze für schnellen Zugang.",
+                "hu": "Közvetlenül előtte van rövidtávú parkoló a gyors bejutáshoz.",
+                "ro": "Există parcări de scurtă durată chiar în față pentru acces rapid.",
+                "en": "There are short-term parking spots right in front for quick access."
+              }
+            },
+            {
+              "name": "Lyceum (Magic Tower)",
+              "tip_5lang": {
+                "de": "Parken Sie in der Seitenstraße, um den Fußweg im Regen zu minimieren.",
+                "hu": "Parkoljon a mellékutcában, hogy minimalizálja az esőben gyaloglást.",
+                "ro": "Parcați pe strada laterală pentru a minimiza mersul prin ploaie.",
+                "en": "Park on the side street to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Drive and Park at the Castle",
+              "tip_5lang": {
+                "de": "Der Parkplatz am Nordeingang ist näher an den Ausstellungen.",
+                "hu": "Az északi bejáratnál lévő parkoló közelebb van a kiállításokhoz.",
+                "ro": "Parcarea de la intrarea de nord este mai aproape de expoziții.",
+                "en": "The car park at the north entrance is closer to the exhibitions."
+              }
+            },
+            {
+              "name": "Drive to the Valley of the Beautiful Woman",
+              "tip_5lang": {
+                "de": "Parken Sie zentral im Tal, um kurze Wege zu den Kellern zu haben.",
+                "hu": "Parkoljon a völgy központjában a pincék közelsége miatt.",
+                "ro": "Parcați în centrul văii pentru a fi aproape de crame.",
+                "en": "Park in the center of the valley for short walks to the cellars."
+              }
+            },
+            {
+              "name": "Return to Hotel/Departure",
+              "tip_5lang": {
+                "de": "Achten Sie bei Regen auf die eingeschränkte Sicht beim Fahren.",
+                "hu": "Vezetés közben ügyeljen a korlátozott látási viszonyokra.",
+                "ro": "Atenție la vizibilitatea redusă în timp ce conduceți pe ploaie.",
+                "en": "Watch out for limited visibility while driving in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser, um das Auto trocken zu verlassen.",
+              "Vermeiden Sie das Parken unter Bäumen bei starkem Wind und Regen.",
+              "Die Straßen in Eger können bei Nässe rutschig sein.",
+              "Im Tal der Schönen Frau gibt es ausreichend befestigte Parkplätze.",
+              "Halten Sie einen Schirm im Auto für den Weg zum Restaurant bereit."
+            ],
+            "hu": [
+              "Használja a parkolóházakat, hogy szárazon szállhasson ki.",
+              "Kerülje a fák alatti parkolást erős szélben és esőben.",
+              "Eger utcái nedves időben csúszósak lehetnek.",
+              "A Szépasszony-völgyben bőségesen van szilárd burkolatú parkoló.",
+              "Tartson esernyőt az autóban az étteremig tartó úthoz."
+            ],
+            "ro": [
+              "Folosiți parcările acoperite pentru a ieși din mașină pe uscat.",
+              "Evitați parcarea sub copaci în caz de vânt puternic și ploaie.",
+              "Străzile din Eger pot fi alunecoase pe timp de ploaie.",
+              "În Valea Femeii Frumoase sunt destule parcări asfaltate.",
+              "Țineți o umbrelă în mașină pentru drumul până la restaurant."
+            ],
+            "en": [
+              "Use parking garages to exit the car in a dry environment.",
+              "Avoid parking under trees during high winds and heavy rain.",
+              "Eger's streets can be slippery when wet.",
+              "There are plenty of paved parking spots in the Valley.",
+              "Keep an umbrella in the car for the walk to the restaurant."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein warmer Start im beheizten Auto zum verschneiten Eger. Der Besuch der Basilika und des Lyzeums ist angenehm, da der Wagen in der Nähe wartet. Mittags bietet die Burg frostige Aussichten, doch das Auto ermöglicht eine schnelle Fahrt zum Aufwärmen im Tal der Schönen Frau, wo die Keller eine wohlige Atmosphäre bieten.",
+            "hu": "Meleg indulás a fűtött autóval a havas Egerbe. A Bazilika és a Líceum látogatása kényelmes, hiszen a kocsi a közelben vár. Délben a vár fagyos kilátást kínál, de az autó gyors átjutást enged a Szépasszony-völgybe, ahol a pincék állandó hőmérséklete melenget.",
+            "ro": "Un început călduros în mașina încălzită spre Egerul înzăpezit. Vizita la Bazilică și Liceu este confortabilă, mașina fiind parcată aproape. La prânz, castelul oferă vederi geroase, dar mașina permite o deplasare rapidă spre Valea Femeii Frumoase, unde cramele sunt primitoare.",
+            "en": "A warm start in a heated car to snowy Eger. Visiting the Basilica and Lyceum is convenient with the car parked nearby. At noon, the castle offers frosty views, but the car allows a quick transfer to the Valley of the Beautiful Woman, where the cellars provide a cozy atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Parking in the Center & Dobó Square",
+              "tip_5lang": {
+                "de": "Parkhäuser schützen das Auto vor Frost und Schneefall.",
+                "hu": "A parkolóházak védik az autót a fagytól és a hóeséstől.",
+                "ro": "Parcările acoperite protejează mașina de îngheț și zăpadă.",
+                "en": "Parking garages protect your car from frost and snowfall."
+              }
+            },
+            {
+              "name": "Basilica of Eger",
+              "tip_5lang": {
+                "de": "Die Treppen können bei Frost sehr glatt sein; Vorsicht beim Aussteigen.",
+                "hu": "A lépcsők fagyban nagyon csúszósak lehetnek; vigyázzon kiszálláskor.",
+                "ro": "Treptele pot fi foarte alunecoase; atenție la coborârea din mașină.",
+                "en": "The steps can be very icy; be careful when getting out of the car."
+              }
+            },
+            {
+              "name": "Lyceum (Magic Tower)",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg vom Parkplatz; halten Sie sich an geräumte Wege.",
+                "hu": "Rövid séta a parkolótól; maradjon a letakarított utakon.",
+                "ro": "O scurtă plimbare de la parcare; rămâneți pe drumurile deszăpezite.",
+                "en": "A short walk from the parking; stick to cleared paths."
+              }
+            },
+            {
+              "name": "Drive and Park at the Castle",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Fahrzeug wintertauglich ist (Winterreifen).",
+                "hu": "Győződjön meg róla, hogy autója fel van készítve a télre.",
+                "ro": "Asigurați-vă că mașina este echipată corespunzător pentru iarnă.",
+                "en": "Ensure your car is winter-ready (winter tires are a must)."
+              }
+            },
+            {
+              "name": "Drive to the Valley of the Beautiful Woman",
+              "tip_5lang": {
+                "de": "Die Abfahrt ins Tal kann bei Glätte tückisch sein; Motorbremse nutzen.",
+                "hu": "A völgybe vezető lejtő csalóka lehet; használjon motorféket.",
+                "ro": "Coborârea spre vale poate fi înșelătoare; folosiți frâna de motor.",
+                "en": "The descent into the valley can be tricky; use engine braking."
+              }
+            },
+            {
+              "name": "Return to Hotel/Departure",
+              "tip_5lang": {
+                "de": "Befreien Sie das Auto vor der Abfahrt vollständig von Schnee.",
+                "hu": "Indulás előtt teljesen takarítsa le a havat az autóról.",
+                "ro": "Curățați complet mașina de zăpadă înainte de plecare.",
+                "en": "Clear all snow from your car completely before driving off."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in den hügeligen Straßen Egers Pflicht.",
+              "Führen Sie einen Eiskratzer und Handfeger im Auto mit.",
+              "Achten Sie auf Glätte bei den Auffahrten zur Burg.",
+              "Der Fahrer sollte im Tal strikt auf Alkohol verzichten.",
+              "Die Parkhäuser im Zentrum sind im Winter oft voll; früh kommen."
+            ],
+            "hu": [
+              "A téli gumi kötelező Eger dombos utcáin.",
+              "Legyen az autóban jégkaparó és kefe.",
+              "Ügyeljen a csúszós szakaszokra a vár felé vezető úton.",
+              "A sofőr a völgyben szigorúan kerülje az alkoholt.",
+              "A belvárosi parkolóházak télen hamar megtelhetnek."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii pe străzile din Eger.",
+              "Aveți în mașină o racletă și o perie pentru zăpadă.",
+              "Atenție la porțiunile alunecoase pe drumul spre castel.",
+              "Șoferul trebuie să evite strict consumul de alcool în vale.",
+              "Parcările din centru se pot umple repede iarna."
+            ],
+            "en": [
+              "Winter tires are mandatory on Eger's hilly streets.",
+              "Keep an ice scraper and a snow brush in the car.",
+              "Watch out for icy patches on the roads leading to the castle.",
+              "The driver must strictly avoid alcohol in the valley.",
+              "City center parking garages often fill up early in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1220,6 +1826,196 @@
           "Validate your ticket each time you board.",
           "Buses can get crowded, so be prepared to stand."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus trocken durch das regnerische Eger. Vom Busbahnhof geht es schnell zum Dobó-Platz und zur Basilika. Mittags bringt Sie der lokale Bus direkt zum Burgtor, um den Fußweg im Regen abzukürzen. Der Tag klingt gemütlich im Tal der Schönen Frau aus, wobei der Bus Sie fast vor die Tür der Weinkeller bringt.",
+            "hu": "Busszal szárazon a reggeli esőben. A pályaudvarról gyorsan elérhető a Dobó tér és a Bazilika. Délben a helyi járat közvetlenül a várkapuhoz visz, lerövidítve az ázást. A nap a Szépasszony-völgyben zárul, ahová a busz szinte a pincék elé repít.",
+            "ro": "Cu autobuzul, rămâneți uscați în Egerul ploios. De la autogară ajungeți rapid în Piața Dobó și la Bazilică. La prânz, autobuzul local vă lasă chiar la poarta castelului. Ziua se încheie plăcut în Valea Femeii Frumoase, unde autobuzul vă lasă aproape de crame.",
+            "en": "Stay dry using the bus through rainy Eger. From the station, reach Dobó Square and the Basilica quickly. At noon, the local bus takes you straight to the castle gate, minimizing time spent in the rain. The day concludes in the Valley of the Beautiful Woman, with the bus dropping you near the cellars."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus Station & Dobó Square",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Bereich des Bahnhofs auf den Anschluss.",
+                "hu": "Várjon a pályaudvar fedett részén a csatlakozásra.",
+                "ro": "Așteptați în zona acoperită a autogării pentru legătură.",
+                "en": "Wait in the covered area of the station for your connection."
+              }
+            },
+            {
+              "name": "Basilica of Eger",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nur wenige Schritte vom Haupteingang entfernt.",
+                "hu": "A buszmegálló csak pár lépésre van a főbejárattól.",
+                "ro": "Stația de autobuz este la doar câțiva pași de intrarea principală.",
+                "en": "The bus stop is just a few steps away from the main entrance."
+              }
+            },
+            {
+              "name": "Archbishop's Palace",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Palast als kulturellen Zwischenstopp im Trockenen.",
+                "hu": "Használja a palotát kulturális köztes megállóként szárazon.",
+                "ro": "Folosiți palatul ca o oprire culturală la interior.",
+                "en": "Use the palace as a cultural indoor stopover."
+              }
+            },
+            {
+              "name": "Bus to the Castle & Exploration",
+              "tip_5lang": {
+                "de": "Nehmen Sie die Linie 12, um direkt zum Burgparkplatz zu gelangen.",
+                "hu": "Válassza a 12-es vonalat, hogy közvetlenül a várparkolóhoz jusson.",
+                "ro": "Luați linia 12 pentru a ajunge direct la parcarea castelului.",
+                "en": "Take line 12 to reach the castle parking area directly."
+              }
+            },
+            {
+              "name": "Eger Minaret",
+              "tip_5lang": {
+                "de": "Die Haltestelle am Marktplatz bietet bei Regen Schutz.",
+                "hu": "A Piaci megállóhely esőben is védelmet nyújt.",
+                "ro": "Stația de la piață oferă protecție în caz de ploaie.",
+                "en": "The marketplace bus stop provides shelter from the rain."
+              }
+            },
+            {
+              "name": "Bus to the Valley of the Beautiful Woman",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt am Eingang des Tals, ideal bei Nässe.",
+                "hu": "A busz közvetlenül a völgy bejáratánál áll meg, ideális esőben.",
+                "ro": "Autobuzul oprește chiar la intrarea în vale, ideal pe ploaie.",
+                "en": "The bus stops right at the valley entrance, ideal in wet weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Holen Sie sich eine Tageskarte beim Busfahrer oder am Schalter.",
+              "Die Busse verkehren bei Regen oft mit kleiner Verspätung.",
+              "Die Haltestellen im Zentrum sind meist überdacht.",
+              "Nutzen Sie die App für Echtzeit-Abfahrtszeiten.",
+              "Tragen Sie trotzdem wetterfeste Kleidung für den Weg zur Haltestelle."
+            ],
+            "hu": [
+              "Váltson napijegyet a buszsofőrnél vagy a pénztárban.",
+              "Esőben a buszok gyakran kisebb késéssel közlekedhetnek.",
+              "A belvárosi buszmegállók többnyire fedettek.",
+              "Használja az alkalmazást a valós idejű indulásokhoz.",
+              "Viseljen vízálló ruhát a megállóig tartó rövid útra is."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi de la șofer sau de la casierie.",
+              "Pe ploaie, autobuzele pot avea mici întârzieri.",
+              "Stațiile din centru sunt în mare parte acoperite.",
+              "Folosiți aplicația pentru orele de plecare în timp real.",
+              "Purtați haine impermeabile pentru drumul până la stație."
+            ],
+            "en": [
+              "Get a day pass from the bus driver or at the ticket office.",
+              "Buses may run with slight delays during heavy rain.",
+              "Most city center bus stops are covered.",
+              "Use the mobile app for real-time departure information.",
+              "Wear waterproof clothing for the short walk to the stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit den warmen Bussen durch das winterliche Eger. Nach der Ankunft geht es zur Basilika und zum prachtvollen Erzbischofspalast. Mittags bringt Sie der Bus hinauf zur Burg, wo Sie die Aussicht genießen können, bevor Sie sich im Bus auf dem Weg zum Tal der Schönen Frau wieder aufwärmen. Dort runden Wein und Kellerromantik den Tag ab.",
+            "hu": "Meleg buszokkal a téli Egerben. Érkezés után a Bazilika és az Érseki Palota vár. Délben a helyi járat felvisz a várhoz, ahol megcsodálhatja a kilátást, majd a buszon felmelegedve indulhat a Szépasszony-völgybe. Ott a bor és a pincék hangulata teszi teljessé a napot.",
+            "ro": "Cu autobuzele călduroase prin Egerul hibernal. După sosire, vizitați Bazilica și Palatul Arhiepiscopal. La prânz, autobuzul vă duce la castel pentru panoramă, apoi vă reîncălziți în drum spre Valea Femeii Frumoase. Acolo, vinul și atmosfera cramelor încheie ziua.",
+            "en": "Travel through winter Eger in warm buses. After arrival, visit the Basilica and the grand Archbishop's Palace. At noon, the bus takes you up to the castle for the views; then warm up on the ride to the Valley of the Beautiful Woman. There, wine and cozy cellars complete your winter day."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus Station & Dobó Square",
+              "tip_5lang": {
+                "de": "Das Bahnhofsgebäude ist beheizt; ideal zum Warten.",
+                "hu": "A pályaudvar épülete fűtött; ideális a várakozáshoz.",
+                "ro": "Clădirea autogării este încălzită; ideală pentru așteptare.",
+                "en": "The station building is heated; ideal for waiting."
+              }
+            },
+            {
+              "name": "Basilica of Eger",
+              "tip_5lang": {
+                "de": "Ein kurzer, oft geräumter Weg führt von der Haltestelle zum Dom.",
+                "hu": "Rövid, gyakran takarított út vezet a megállótól a dómhoz.",
+                "ro": "Un drum scurt și deszăpezit duce de la stație la dom.",
+                "en": "A short, usually cleared path leads from the stop to the cathedral."
+              }
+            },
+            {
+              "name": "Archbishop's Palace",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren dieses prachtvollen Gebäudes.",
+                "hu": "Élvezze a benti meleget ebben a pompás épületben.",
+                "ro": "Bucurați-vă de căldura din interiorul acestei clădiri superbe.",
+                "en": "Enjoy the warmth inside this magnificent building."
+              }
+            },
+            {
+              "name": "Bus to the Castle & Exploration",
+              "tip_5lang": {
+                "de": "Die Busse sind gut beheizt; nutzen Sie die Fahrt zum Auftauen.",
+                "hu": "A buszok jól fűtöttek; használja az utat a felmelegedésre.",
+                "ro": "Autobuzele sunt bine încălzite; folosiți drumul pentru a vă încălzi.",
+                "en": "Buses are well-heated; use the ride to thaw out."
+              }
+            },
+            {
+              "name": "Eger Minaret",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch vor Einbruch der frühen Dunkelheit ein.",
+                "hu": "Tervezze a látogatást a korai sötétedés előttre.",
+                "ro": "Planificați vizita înainte de lăsarea timpurie a întunericului.",
+                "en": "Plan your visit before the early onset of darkness."
+              }
+            },
+            {
+              "name": "Bus to the Valley of the Beautiful Woman",
+              "tip_5lang": {
+                "de": "Der Busfahrplan ist im Winter etwas ausgedünnt; prüfen Sie die Zeiten.",
+                "hu": "A buszmenetrend télen ritkább lehet; ellenőrizze az időpontokat.",
+                "ro": "Mersul autobuzelor poate fi mai rar iarna; verificați orele.",
+                "en": "The bus schedule may be reduced in winter; check the times."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warten Sie lieber drinnen in Cafés als lange an Haltestellen.",
+              "Die letzte Busverbindung vom Tal zurück ins Zentrum ist wichtig.",
+              "Achten Sie auf vereiste Zonen rund um die Bushaltestellen.",
+              "Die Busse bieten eine bequeme Flucht vor dem eisigen Wind.",
+              "Im Winter sind die Fahrpläne an Feiertagen oft eingeschränkt."
+            ],
+            "hu": [
+              "Inkább kávézókban várjon, mint hosszan a megállókban.",
+              "Figyeljen az utolsó buszjáratra a völgyből a központba.",
+              "Ügyeljen a jeges szakaszokra a buszmegállók környékén.",
+              "A buszok kényelmes menekülést kínálnak a jeges szél elől.",
+              "Télen az ünnepnapokon a menetrend korlátozott lehet."
+            ],
+            "ro": [
+              "Așteptați mai degrabă în cafenele decât în stații.",
+              "Atenție la ultima cursă de autobuz din vale spre centru.",
+              "Fiți atenți la zonele înghețate din jurul stațiilor de autobuz.",
+              "Autobuzele oferă o evadare confortabilă din vântul înghețat.",
+              "Iarna, în zilele de sărbătoare, programul poate fi limitat."
+            ],
+            "en": [
+              "Wait in cafes rather than for long periods at bus stops.",
+              "Check the last bus connection from the valley back to the center.",
+              "Watch out for icy patches around the bus stops.",
+              "Buses offer a comfortable escape from the freezing wind.",
+              "Bus schedules may be limited on winter public holidays."
+            ]
+          }
+        }
       }
     }
   }

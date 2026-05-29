@@ -356,6 +356,196 @@
           "The wind can be strong by the sea, so bring a light jacket.",
           "Check the tides before walking on the beach to avoid getting cut off."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der neugotischen St. Peter's Church. Mittags spazieren wir unter Schirmen durch die Lower Gardens zum Pavilion, wo man sich aufwärmen kann. Am Nachmittag bietet das Russell-Cotes Museum einen perfekten trockenen Rückzugsort voller Kunst. Der Tag endet am Bournemouth Pier, wo die stürmische See bei Regen besonders dramatisch wirkt.",
+            "hu": "A reggel a Szent Péter-templom gótikus falai között indul, védve az esőtől. Délben esernyővel sétálunk a Lower Gardens dús zöldjei között a Pavilionig. A délutánt a Russell-Cotes múzeum pazar termeiben töltjük, távol a sártól. Az este a mólónál ér véget, ahol a viharos tenger látványa egészen különleges élményt nyújt.",
+            "ro": "Dimineața începe la adăpostul bisericii St. Peter, admirând arhitectura neogotică. La prânz, parcurgem Lower Gardens sub umbrelă până la Pavilion. După-amiaza este rezervată muzeului Russell-Cotes, un refugiu cultural ideal împotriva ploii. Ziua se încheie la Bournemouth Pier, unde valurile mării învolburate oferă un spectacol dramatic sub cerul gri.",
+            "en": "The morning starts sheltered within the neo-Gothic St Peter's Church. By noon, we stroll through the lush Lower Gardens with umbrellas, heading to the Pavilion for a dry break. The afternoon is spent exploring the indoor treasures of the Russell-Cotes Museum. We finish at Bournemouth Pier, where the rainy weather adds a dramatic atmosphere to the crashing waves."
+          },
+          "stops": [
+            {
+              "name": "St Peter's Church",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ersten Regenschauer trocken abzuwarten.",
+                "hu": "Tökéletes hely az első eső zápor szárazon történő megvárásához.",
+                "ro": "Locul perfect pentru a aștepta trecerea primei averse de ploaie.",
+                "en": "Perfect place to stay dry during the first morning shower."
+              }
+            },
+            {
+              "name": "Lower Gardens",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege verhindern bei Regen matschige Schuhe.",
+                "hu": "Az aszfaltozott utak megakadályozzák a sáros cipőket esőben.",
+                "ro": "Aleile asfaltate previn murdărirea încălțămintei pe timp de ploaie.",
+                "en": "The paved paths help keep your shoes clean even in the rain."
+              }
+            },
+            {
+              "name": "Bournemouth Pavilion",
+              "tip_5lang": {
+                "de": "Das Café im Inneren bietet Schutz und heißen Tee.",
+                "hu": "A belső kávézó menedéket és forró teát kínál.",
+                "ro": "Cafeneaua din interior oferă adăpost și ceai fierbinte.",
+                "en": "The indoor café provides shelter and hot tea."
+              }
+            },
+            {
+              "name": "Bournemouth Pier",
+              "tip_5lang": {
+                "de": "Achten Sie auf starke Windböen am Ende des Piers.",
+                "hu": "Ügyeljen az erős széllökésekre a móló végén.",
+                "ro": "Atenție la rafalele puternice de vânt la capătul digului.",
+                "en": "Watch out for strong wind gusts at the end of the pier."
+              }
+            },
+            {
+              "name": "Russell-Cotes Art Gallery & Museum",
+              "tip_5lang": {
+                "de": "Hinterlassen Sie nasse Mäntel an der Garderobe im Eingang.",
+                "hu": "Hagyja a vizes kabátokat a bejárati ruhatárban.",
+                "ro": "Lăsați haina umedă la garderoba de la intrare.",
+                "en": "Leave wet coats at the cloakroom near the entrance."
+              }
+            },
+            {
+              "name": "Hengistbury Head",
+              "tip_5lang": {
+                "de": "Das Besucherzentrum bietet bei starkem Regen guten Unterschlupf.",
+                "hu": "A látogatóközpont jó menedéket nyújt heves esőzés esetén.",
+                "ro": "Centrul pentru vizitatori oferă un adăpost bun în caz de ploaie.",
+                "en": "The visitor centre offers good shelter during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die viktorianischen Arkaden im Stadtzentrum als überdachte Laufwege.",
+              "Tragen Sie wasserfeste Wanderschuhe für die exponierten Wege am Hengistbury Head.",
+              "Prüfen Sie die Windgeschwindigkeit, da der Pier bei Sturm gesperrt sein kann.",
+              "Die Museen in Bournemouth sind montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Ein kompakter Taschenschirm ist bei den plötzlichen Küstenwinden oft nutzlos."
+            ],
+            "hu": [
+              "Használja a városközpont viktoriánus árkádjait fedett útvonalként.",
+              "Viseljen vízálló túrabakancsot a Hengistbury Head nyitott ösvényein.",
+              "Ellenőrizze a szélsebességet, mert vihar esetén a mólót lezárhatják.",
+              "A bournemouth-i múzeumok hétfőnként gyakran zárva tartanak.",
+              "Egy kompakt összecsukható esernyő gyakran hatástalan a hirtelen tengeri szélben."
+            ],
+            "ro": [
+              "Folosiți arcadele victoriene din centrul orașului ca trasee acoperite.",
+              "Purtați bocanci impermeabili pentru potecile expuse de la Hengistbury Head.",
+              "Verificați viteza vântului, deoarece digul poate fi închis în caz de furtună.",
+              "Muzeele din Bournemouth sunt adesea închise lunea, verificați programul.",
+              "O umbrelă compactă este adesea inutilă din cauza vântului puternic de coastă."
+            ],
+            "en": [
+              "Use the Victorian arcades in the town centre as covered walkways.",
+              "Wear waterproof hiking boots for the exposed paths at Hengistbury Head.",
+              "Check wind speeds, as the pier may be closed during severe storms.",
+              "Bournemouth museums are often closed on Mondays; verify opening hours.",
+              "A compact umbrella is often useless against sudden coastal wind gusts."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen an der St. Peter's Church ist oft neblig und mystisch. Mittags leuchten die Lower Gardens im festlichen Licht der Weihnachtsdekoration. Der Nachmittag im Russell-Cotes Museum ist besonders gemütlich, wenn man die viktorianische Wärme genießt. Zum Sonnenuntergang am Hengistbury Head erleben wir die klare, kalte Meeresluft in ihrer reinsten Form.",
+            "hu": "A téli reggel a Szent Péter-templomnál gyakran ködös és misztikus. Délben a Lower Gardens az ünnepi fényekben tündököl, igazi karácsonyi hangulatot árasztva. A délután a Russell-Cotes múzeumban a legkellemesebb, élvezve a viktoriánus kor melegét. Naplementekor a Hengistbury Headnél a tiszta, hideg tengeri levegő frissítő erejét érezhetjük.",
+            "ro": "Dimineața de iarnă la biserica St. Peter este adesea cețoasă și mistică. La prânz, Lower Gardens strălucesc sub luminile festive ale decorațiunilor. După-amiaza la muzeul Russell-Cotes este extrem de confortabilă, oferind căldură victoriană. La apus, la Hengistbury Head, experimentăm aerul curat și rece al mării în forma sa cea mai pură.",
+            "en": "A winter morning at St Peter's Church is often misty and mystical. By noon, the Lower Gardens glow with festive lights and winter decorations. Spending the afternoon inside the Russell-Cotes Museum is cozy, surrounded by Victorian warmth. We conclude the day at Hengistbury Head, enjoying the crisp, clear sea air as the sun sets early over the coast."
+          },
+          "stops": [
+            {
+              "name": "St Peter's Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie das Grab von Mary Shelley im sanften Winterlicht.",
+                "hu": "Csodálja meg Mary Shelley sírját a lágy téli fényben.",
+                "ro": "Admirați mormântul lui Mary Shelley în lumina blândă a iernii.",
+                "en": "Admire Mary Shelley's grave in the soft winter morning light."
+              }
+            },
+            {
+              "name": "Lower Gardens",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Eislaufbahn, die hier oft im Winter aufgebaut wird.",
+                "hu": "Látogasson el a jégpályára, amelyet télen gyakran itt építenek fel.",
+                "ro": "Vizitați patinoarul care este adesea amenajat aici iarna.",
+                "en": "Visit the ice rink often set up here during the winter season."
+              }
+            },
+            {
+              "name": "Bournemouth Pavilion",
+              "tip_5lang": {
+                "de": "Genießen Sie eine traditionelle Pantomime-Aufführung im Winter.",
+                "hu": "Élvezzen egy hagyományos pantomim előadást télen.",
+                "ro": "Bucurați-vă de un spectacol tradițional de pantomimă iarna.",
+                "en": "Enjoy a traditional winter pantomime performance at the theatre."
+              }
+            },
+            {
+              "name": "Bournemouth Pier",
+              "tip_5lang": {
+                "de": "Der Eintritt zum Pier ist in den Wintermonaten oft kostenlos.",
+                "hu": "A mólóra való belépés a téli hónapokban gyakran ingyenes.",
+                "ro": "Accesul pe dig este adesea gratuit în lunile de iarnă.",
+                "en": "Entry to the pier is often free during the winter months."
+              }
+            },
+            {
+              "name": "Russell-Cotes Art Gallery & Museum",
+              "tip_5lang": {
+                "de": "Die prunkvolle Einrichtung wirkt im Winter besonders einladend.",
+                "hu": "A pompás berendezés télen különösen hívogatóan hat.",
+                "ro": "Decorul somptuos pare extrem de primitor în timpul iernii.",
+                "en": "The lavish interior feels especially welcoming during winter."
+              }
+            },
+            {
+              "name": "Hengistbury Head",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist für den windigen Gipfel im Winter ein Muss.",
+                "hu": "A meleg ruházat kötelező a szeles csúcson télen.",
+                "ro": "Hainele groase sunt obligatorii pentru vârful vântos iarna.",
+                "en": "Warm clothing is essential for the windy summit in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang findet im Dezember bereits gegen 16:00 Uhr statt.",
+              "Besuchen Sie das Christmas Tree Wonderland in den Lower Gardens.",
+              "Tragen Sie mehrere Schichten Kleidung gegen den beißenden Seewind.",
+              "Viele Strandcafés haben im Winter verkürzte Öffnungszeiten.",
+              "Die Wege an der Steilküste können bei Frost rutschig sein."
+            ],
+            "hu": [
+              "A naplemente decemberben már délután 4 óra körül bekövetkezik.",
+              "Látogassa meg a Christmas Tree Wonderlandet a Lower Gardensben.",
+              "Öltözzön rétegesen a metsző tengeri szél ellen.",
+              "Sok tengerparti kávézó rövidített nyitvatartással üzemel télen.",
+              "A sziklaparti ösvények fagy esetén csúszósak lehetnek."
+            ],
+            "ro": [
+              "Apusul soarelui are loc în decembrie deja în jurul orei 16:00.",
+              "Vizitați Christmas Tree Wonderland în Lower Gardens.",
+              "Purtați mai multe straturi de haine împotriva vântului tăios al mării.",
+              "Multe cafenele de pe plajă au program redus în timpul iernii.",
+              "Potecile de pe faleză pot fi alunecoase în caz de îngheț."
+            ],
+            "en": [
+              "Sunset occurs as early as 4:00 PM during December.",
+              "Visit the Christmas Tree Wonderland display in the Lower Gardens.",
+              "Dress in multiple layers to stay warm against the biting sea wind.",
+              "Many beachfront cafes have shorter opening hours in winter.",
+              "Clifftop paths can be slippery during frosty conditions."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -683,6 +873,178 @@
           "A helmet is recommended, especially on busier sections.",
           "Always lock your bike when leaving it unattended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet am Hengistbury Head, wo der Regen das Gras tiefgrün färbt. Über den Boscombe Pier geht es zum Bournemouth Pier, während die Gischt ins Gesicht sprüht. Mittags suchen wir Schutz in den Lower Gardens. Der Nachmittag endet kulturell im Russell-Cotes Museum, wo die Fahrräder sicher im Regen stehen, während wir Kunst genießen.",
+            "hu": "A kerékpártúra a Hengistbury Headnél indul, ahol az eső mélyzöldre festi a füvet. A Boscombe mólón át tekerünk a Bournemouth mólóhoz, miközben a tenger permete az arcunkba csap. Délben a Lower Gardens fái alatt keresünk menedéket. A délután a Russell-Cotes múzeumban zárul, ahol a bringák kint áznak, amíg mi a művészetet élvezzük.",
+            "ro": "Turul cu bicicleta începe la Hengistbury Head, unde ploaia colorează iarba în verde crud. Continuăm spre digul Boscombe și apoi cel din Bournemouth, în timp ce stropii de mare ne lovesc fața. La prânz căutăm adăpost în Lower Gardens. După-amiaza se încheie la muzeul Russell-Cotes, unde bicicletele rămân afară în timp ce noi savurăm arta.",
+            "en": "The bike ride kicks off at Hengistbury Head, where the rain turns the landscape a vibrant green. We cycle past Boscombe Pier to Bournemouth Pier as sea spray meets the falling rain. By noon, the Lower Gardens offer some natural canopy. The tour ends at the Russell-Cotes Museum, providing a dry indoor finale after a wet coastal journey."
+          },
+          "stops": [
+            {
+              "name": "Hengistbury Head",
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege können bei Regen schlammig sein.",
+                "hu": "A nem aszfaltozott utak esőben sárosak lehetnek.",
+                "ro": "Potecile neamenajate pot fi noroioase pe timp de ploaie.",
+                "en": "Unpaved paths can become muddy and slippery when wet."
+              }
+            },
+            {
+              "name": "Boscombe Pier",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Holzplanken auf dem Pier.",
+                "hu": "Vigyázat, a móló fapalói csúszósak lehetnek.",
+                "ro": "Atenție la scândurile de lemn alunecoase de pe dig.",
+                "en": "Be careful on the wooden pier planks, as they get very slippery."
+              }
+            },
+            {
+              "name": "Bournemouth Pier",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer in der Nähe des Eingangs.",
+                "hu": "Használja a bejárat közelében található kerékpártárolókat.",
+                "ro": "Folosiți suporturile de biciclete din apropierea intrării.",
+                "en": "Use the bike racks located conveniently near the entrance."
+              }
+            },
+            {
+              "name": "Lower Gardens",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, da Fußgänger oft unter Schirmen unachtsam sind.",
+                "hu": "Hajtson lassan, mert a gyalogosok az ernyők alatt figyelmetlenek.",
+                "ro": "Circulați încet, pietonii cu umbrele pot fi neatenți.",
+                "en": "Ride slowly as pedestrians under umbrellas may not see you."
+              }
+            },
+            {
+              "name": "Russell-Cotes Art Gallery & Museum",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um die nasse Kleidung zu trocknen.",
+                "hu": "Remek hely a vizes ruhák megszárítására.",
+                "ro": "Un loc excelent pentru a vă usca hainele ude.",
+                "en": "A great indoor spot to dry off after your ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und wasserfeste Überhosen.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nasser Fahrbahn.",
+              "Die Strandpromenade kann bei starkem Wind mit Sand bedeckt sein.",
+              "Reinigen Sie Ihre Kette nach der Fahrt vom salzigen Meerwasser-Regen-Gemisch.",
+              "Nutzen Sie die hellen Lichter Ihres Rads auch tagsüber bei Regen."
+            ],
+            "hu": [
+              "Viseljen teljes esőkabátot és vízálló nadrágot.",
+              "Csökkentse kissé a gumiabroncsok nyomását a jobb tapadás érdekében.",
+              "A tengerparti sétányt erős szélben homok boríthatja be.",
+              "Tekerés után tisztítsa meg a láncot a sós tengeri permettől.",
+              "Használja a kerékpár lámpáit nappal is, ha esik az eső."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie completă și pantaloni impermeabili.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe ud.",
+              "Promenada de pe plajă poate fi acoperită cu nisip în caz de vânt.",
+              "Curățați lanțul după tură pentru a elimina sarea de mare.",
+              "Folosiți luminile bicicletei chiar și în timpul zilei dacă plouă."
+            ],
+            "en": [
+              "Wear a full waterproof jacket and over-trousers.",
+              "Slightly reduce tire pressure for better grip on wet surfaces.",
+              "The promenade can become covered in sand during high winds.",
+              "Clean your bike chain after the ride to remove salt water residue.",
+              "Use high-visibility lights even during the day when it is raining."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour führt uns an der frostigen Küste entlang von Hengistbury Head zu den Piers. Die kalte Brise belebt die Sinne, während wir an den fast leeren Stränden vorbeiradeln. Mittags wärmen wir uns in den Lower Gardens auf, bevor wir den Nachmittag im prunkvollen Russell-Cotes Museum ausklingen lassen, wo die Wärme der Räume nach der Kälte besonders gut tut.",
+            "hu": "A téli túra a fagyos tengerpart mentén vezet a Hengistbury Headtől a mólókig. A hideg szellő felfrissíti az érzékeket, miközben az üres strandok mellett tekerünk. Délben a Lower Gardensben melegszünk fel, mielőtt a délutánt a pompás Russell-Cotes múzeumban zárnánk, ahol a szobák melege különösen jól esik a kinti hideg után.",
+            "ro": "Turul de iarnă ne poartă de-a lungul coastei înghețate, de la Hengistbury Head spre diguri. Briza rece ne revigorează în timp ce pedalăm pe lângă plajele goale. La prânz ne încălzim în Lower Gardens, înainte de a încheia ziua la muzeul Russell-Cotes, unde căldura camerelor este binevenită.",
+            "en": "The winter cycle takes us along the frosty coastline from Hengistbury Head to the iconic piers. The cold breeze is invigorating as we ride past quiet, empty beaches. By noon, we find warmth near the Lower Gardens before heading to the Russell-Cotes Museum for a cozy afternoon surrounded by art and Victorian luxury."
+          },
+          "stops": [
+            {
+              "name": "Hengistbury Head",
+              "tip_5lang": {
+                "de": "Vorsicht bei gefrorenen Pfützen auf den Wegen.",
+                "hu": "Vigyázat a fagyott tócsákkal az utakon.",
+                "ro": "Atenție la bălțile înghețate de pe poteci.",
+                "en": "Watch out for frozen puddles on the trails."
+              }
+            },
+            {
+              "name": "Boscombe Pier",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht bis zur Isle of Wight.",
+                "hu": "Élvezze a tiszta kilátást egészen az Isle of Wight-ig.",
+                "ro": "Bucurați-vă de vizibilitatea clară până la Isle of Wight.",
+                "en": "Enjoy the clear winter views across to the Isle of Wight."
+              }
+            },
+            {
+              "name": "Bournemouth Pier",
+              "tip_5lang": {
+                "de": "Ideal für ein schnelles Foto ohne Touristenmassen.",
+                "hu": "Ideális egy gyors fotóhoz turistaáradat nélkül.",
+                "ro": "Ideal pentru o fotografie rapidă fără mulțimi de turiști.",
+                "en": "Perfect for a quick photo without the usual tourist crowds."
+              }
+            },
+            {
+              "name": "Lower Gardens",
+              "tip_5lang": {
+                "de": "Die Cafés hier bieten im Winter oft Heißgetränke zum Mitnehmen an.",
+                "hu": "Az itteni kávézók gyakran kínálnak forró italokat elvitelre.",
+                "ro": "Cafenelele de aici oferă băuturi calde la pachet iarna.",
+                "en": "Local cafes often offer hot takeaway drinks to keep you warm."
+              }
+            },
+            {
+              "name": "Russell-Cotes Art Gallery & Museum",
+              "tip_5lang": {
+                "de": "Ein herrlich warmer Abschluss für eine kalte Radtour.",
+                "hu": "Csodálatosan meleg befejezés egy hideg biciklitúrához.",
+                "ro": "Un final minunat de cald pentru un tur rece cu bicicleta.",
+                "en": "A wonderfully warm conclusion to a cold winter cycle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Vermeiden Sie schattige Kurven, wo sich Reif halten kann.",
+              "Die Tage sind kurz; planen Sie Ihre Rückkehr vor 16:30 Uhr.",
+              "Batteriebetriebene Lichter entladen sich bei Kälte schneller.",
+              "Ein Thermosbecher im Flaschenhalter sorgt für warme Momente unterwegs."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "Kerülje az árnyékos kanyarokat, ahol megmaradhat a zúzmara.",
+              "A nappalok rövidek; tervezze meg a visszatérést délután fél 5 előtt.",
+              "Az elemes lámpák hidegben gyorsabban lemerülnek.",
+              "A kulacstartóba helyezett termoszbögre melegen tartja az italt."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Evitați curbele umbrite unde se poate menține chiciura.",
+              "Zilele sunt scurte; planificați revenirea înainte de ora 16:30.",
+              "Luminile cu baterii se descarcă mai repede la frig.",
+              "O cană termos în suportul de bidon vă va oferi momente calde."
+            ],
+            "en": [
+              "Wear windproof gloves and a thermal cap under your helmet.",
+              "Avoid shaded corners where frost might linger on the path.",
+              "Days are short; plan to finish your ride by 4:30 PM.",
+              "Battery-powered lights drain faster in cold temperatures.",
+              "A thermal mug in your bottle cage keeps your drink warm during the ride."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1033,6 +1395,196 @@
           "Use a parking app to find and pay for spaces more easily.",
           "Be aware of speed limits, which change near beaches and schools."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Parkplatz von Hengistbury Head, während der Regen gegen die Scheiben trommelt. Ein kurzer Blick auf den Gipfel, dann geht es komfortabel im trockenen Auto zum Boscombe Pier. Mittags parken wir im Zentrum und besuchen die St. Peter's Church. Das Auto ist der ideale Rückzugsort zwischen den kulturellen Stopps in der verregneten Küstenstadt.",
+            "hu": "A Hengistbury Head parkolójából indulunk, miközben az eső kopog a szélvédőn. Egy gyors pillantás a csúcsra, majd kényelmesen, a száraz autóban gurulunk a Boscombe mólóhoz. Délben a központban parkolunk és meglátogatjuk a Szent Péter-templomot. Az autó ideális menedék a kulturális megállók között az esős tengerparti városban.",
+            "ro": "Plecăm din parcarea Hengistbury Head, în timp ce ploaia bate în parbriz. O privire scurtă spre vârf, apoi mergem confortabil cu mașina spre digul Boscombe. La prânz parcăm în centru și vizităm biserica St. Peter. Mașina este refugiul ideal între opririle culturale din orașul de coastă plouat.",
+            "en": "We begin at the Hengistbury Head car park as rain drums on the roof. After a brief look at the summit, we drive comfortably to Boscombe Pier. By noon, we head to central Bournemouth for St Peter's Church. The car serves as a perfect dry base between stops in this rainy coastal town, keeping us warm and dry throughout the day."
+          },
+          "stops": [
+            {
+              "name": "Hengistbury Head Car Park",
+              "tip_5lang": {
+                "de": "Bezahlen Sie bequem per App, um nicht im Regen am Automaten zu stehen.",
+                "hu": "Fizessen kényelmesen applikációval, hogy ne kelljen az esőben az automatánál állnia.",
+                "ro": "Plătiți prin aplicație pentru a nu sta în ploaie la automat.",
+                "en": "Pay via the app to avoid standing in the rain at the machine."
+              }
+            },
+            {
+              "name": "Hengistbury Head Summit",
+              "tip_5lang": {
+                "de": "Nur für einen schnellen Blick verlassen – der Wind ist hier oben stark.",
+                "hu": "Csak egy gyors pillantásra szálljon ki – fent nagyon erős a szél.",
+                "ro": "Ieșiți doar pentru o privire rapidă – vântul este puternic aici.",
+                "en": "Exit only for a quick look; the wind is very strong at the top."
+              }
+            },
+            {
+              "name": "Boscombe Pier Car Park",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Promenadenzugang.",
+                "hu": "Parkoljon közel a sétány bejáratához.",
+                "ro": "Parcați aproape de accesul spre promenadă.",
+                "en": "Park as close to the promenade entrance as possible."
+              }
+            },
+            {
+              "name": "Boscombe Pier",
+              "tip_5lang": {
+                "de": "Vom Pier hat man einen tollen Blick auf die Regenfronten über dem Meer.",
+                "hu": "A mólóról remek kilátás nyílik a tenger feletti esőfrontokra.",
+                "ro": "De pe dig aveți o vedere excelentă asupra fronturilor de ploaie.",
+                "en": "The pier offers a great vantage point to see rain fronts over the sea."
+              }
+            },
+            {
+              "name": "Central Bournemouth Car Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie ein Parkhaus für einen komplett trockenen Ausstieg.",
+                "hu": "Használjon emeletes parkolót a teljesen száraz kiszálláshoz.",
+                "ro": "Folosiți o parcare etajată pentru a ieși din mașină la uscat.",
+                "en": "Use a multi-storey car park for a completely dry exit from the car."
+              }
+            },
+            {
+              "name": "St Peter's Church",
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine friedliche Atmosphäre bei Regen.",
+                "hu": "A templom békés hangulatot áraszt esőben.",
+                "ro": "Biserica oferă o atmosferă liniștită pe timp de ploaie.",
+                "en": "The church provides a peaceful, dry atmosphere during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Küstenstraßen können bei Starkregen stellenweise überflutet sein.",
+              "Nutzen Sie die Scheibenheizung gegen das Beschlagen durch nasse Kleidung.",
+              "Parkplätze direkt am Strand sind bei Regen oft leerer als üblich.",
+              "Vermeiden Sie das Parken direkt unter hohen Bäumen in den Gardens bei Sturm.",
+              "Halten Sie ein Handtuch im Auto bereit, um sich nach Stopps abzutrocknen."
+            ],
+            "hu": [
+              "A tengerparti utak heves esőzéskor helyenként víz alá kerülhetnek.",
+              "Használja a szélvédőfűtést a vizes ruhák miatti párásodás ellen.",
+              "A közvetlenül a strandon lévő parkolók esőben gyakran üresebbek.",
+              "Viharban kerülje a parkolást a Gardens magas fái alatt.",
+              "Tartson egy törölközőt az autóban, hogy meg tudjon törölközni a megállók után."
+            ],
+            "ro": [
+              "Drumurile de coastă pot fi inundate pe alocuri în caz de ploaie torențială.",
+              "Folosiți dezaburirea parbrizului din cauza hainelor umede.",
+              "Parcările de pe plajă sunt adesea mai goale decât de obicei pe ploaie.",
+              "Evitați parcarea sub copaci înalți în grădini în caz de furtună.",
+              "Țineți un prosop în mașină pentru a vă usca după fiecare oprire."
+            ],
+            "en": [
+              "Coastal roads can experience localized flooding during heavy downpours.",
+              "Use the windshield heaters to clear fogging caused by wet clothing.",
+              "Beachfront car parks are often emptier than usual during rainy days.",
+              "Avoid parking under tall trees in the gardens during high winds.",
+              "Keep a towel in the car to dry off after returning from your stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autofahrt beginnt am Hengistbury Head, wo wir die raue Schönheit der Küste im warmen Wagen genießen. Nach einem kurzen Spaziergang am Gipfel fahren wir zum Boscombe Pier. Mittags geht es in die belebte Innenstadt zur St. Peter's Church. Das Auto erlaubt es uns, die verschiedenen Küstenabschnitte ohne langes Frieren im Freien zu erkunden.",
+            "hu": "A téli autózás a Hengistbury Headnél indul, ahol a tengerpart zord szépségét a meleg kocsiból csodáljuk. Egy rövid séta után a csúcson a Boscombe mólóhoz hajtunk. Délben a nyüzsgő belvárosba megyünk a Szent Péter-templomhoz. Az autó lehetővé teszi a partvidék felfedezését anélkül, hogy hosszan fagyoskodnánk a szabadban.",
+            "ro": "Călătoria de iarnă cu mașina începe la Hengistbury Head, unde admirăm coasta din interiorul cald al vehiculului. După o scurtă plimbare pe vârf, mergem spre digul Boscombe. La prânz vizităm centrul animat și biserica St. Peter. Mașina ne permite să explorăm diferite secțiuni de coastă fără a îngheța afară.",
+            "en": "Our winter drive starts at Hengistbury Head, enjoying the rugged coastal beauty from the warmth of the car. After a crisp walk at the summit, we drive over to Boscombe Pier. By noon, we explore the lively town centre and visit St Peter's Church. The car allows us to see multiple coastal spots without spending too much time in the biting winter air."
+          },
+          "stops": [
+            {
+              "name": "Hengistbury Head Car Park",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter oft weniger ausgelastet.",
+                "hu": "A parkoló télen gyakran kevésbé foglalt.",
+                "ro": "Parcarea este adesea mai liberă în timpul iernii.",
+                "en": "The car park is usually much less busy during winter months."
+              }
+            },
+            {
+              "name": "Hengistbury Head Summit",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über das glitzernde Wintermeer.",
+                "hu": "Élvezze a tágas kilátást a csillogó téli tengerre.",
+                "ro": "Bucurați-vă de vederea panoramică asupra mării sclipitoare.",
+                "en": "Enjoy the expansive views over the sparkling winter sea."
+              }
+            },
+            {
+              "name": "Boscombe Pier Car Park",
+              "tip_5lang": {
+                "de": "Kurze Wege zum Strand sind im Winter besonders angenehm.",
+                "hu": "A strandhoz vezető rövid utak télen különösen kellemesek.",
+                "ro": "Traseele scurte spre plajă sunt binevenite iarna.",
+                "en": "Short walks to the beach are very welcome in the cold weather."
+              }
+            },
+            {
+              "name": "Boscombe Pier",
+              "tip_5lang": {
+                "de": "Klares Licht sorgt für perfekte Fotos vom Pier aus.",
+                "hu": "A tiszta fény tökéletes fotókat biztosít a mólóról.",
+                "ro": "Lumina clară asigură fotografii perfecte de pe dig.",
+                "en": "The clear winter light is perfect for photography from the pier."
+              }
+            },
+            {
+              "name": "Central Bournemouth Car Park",
+              "tip_5lang": {
+                "de": "Parken Sie zentral für den kurzen Weg zur Kirche.",
+                "hu": "Parkoljon központilag a templomhoz vezető rövid út érdekében.",
+                "ro": "Parcați central pentru a ajunge rapid la biserică.",
+                "en": "Park centrally to minimize walking time to the church."
+              }
+            },
+            {
+              "name": "St Peter's Church",
+              "tip_5lang": {
+                "de": "Im Inneren der Kirche ist es oft wärmer als draußen.",
+                "hu": "A templom belsejében gyakran melegebb van, mint kint.",
+                "ro": "În interiorul bisericii este adesea mai cald decât afară.",
+                "en": "The interior of the church is often warmer than the outside air."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte sinken kann.",
+              "Halten Sie Frostschutzmittel für die Scheibenwaschanlage bereit.",
+              "Die Parkgebühren sind in der Nebensaison manchmal reduziert.",
+              "Achten Sie auf überfrierende Nässe auf den küstennahen Straßen.",
+              "Genießen Sie die Fahrt entlang der East Overcliff Drive für tolle Ausblicke."
+            ],
+            "hu": [
+              "Ellenőrizze a gumiabroncsok nyomását, mert hidegben csökkenhet.",
+              "Mindig legyen fagyálló szélvédőmosó folyadék az autóban.",
+              "A parkolási díjak utószezonban néha alacsonyabbak.",
+              "Ügyeljen a tengerparti utakon előforduló jegesedésre.",
+              "Hajtson végig az East Overcliff Drive-on a nagyszerű kilátásért."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri, deoarece scade la temperaturi mici.",
+              "Asigurați-vă că aveți lichid de parbriz rezistent la îngheț.",
+              "Taxele de parcare pot fi reduse în extrasezon.",
+              "Atenție la poleiul de pe drumurile din apropierea coastei.",
+              "Conduceți pe East Overcliff Drive pentru vederi spectaculoase."
+            ],
+            "en": [
+              "Check your tire pressure as it can drop in colder temperatures.",
+              "Ensure you have enough anti-freeze in your screen wash.",
+              "Parking fees are sometimes reduced during the off-season.",
+              "Be alert for black ice on roads near the seafront.",
+              "Drive along East Overcliff Drive for some of the best coastal views."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1383,6 +1935,196 @@
           "Buses can be crowded in summer, so allow extra time.",
           "Keep hold of your ticket as inspectors may be on board."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus geht es bequem vom Square zu den Lower Gardens. Der Regen stört nicht, während wir zur St. Peter's Church fahren. Mittags bietet die Busfahrt zum Russell-Cotes Museum eine trockene Pause. Den Tag beenden wir am Boscombe Pier, wobei der Linienbus uns direkt vor den Wind geschützten Bereich bringt, während draußen der Regen peitscht.",
+            "hu": "Busszal kényelmesen jutunk el a Square-től a Lower Gardensig. Az eső nem zavar minket, amíg a Szent Péter-templomhoz utazunk. Délben a Russell-Cotes múzeumhoz vezető buszút száraz szünetet biztosít. A napot a Boscombe mólónál zárjuk, a járat pedig közvetlenül a szélvédett terület közelébe visz minket, miközben kint szakad az eső.",
+            "ro": "Mergem confortabil cu autobuzul de la Square la Lower Gardens. Ploaia nu ne deranjează în timp ce ne îndreptăm spre biserica St. Peter. La prânz, drumul cu autobuzul spre muzeul Russell-Cotes oferă o pauză uscată. Încheiem ziua la digul Boscombe, autobuzul lăsându-ne aproape de zona protejată de vânt.",
+            "en": "We travel comfortably by bus from the Square to the Lower Gardens, staying dry while it pours outside. The transit route takes us to St Peter's Church and then onward to the Russell-Cotes Museum for a dry midday break. We finish at Boscombe Pier, with the bus dropping us off close to the seafront, minimizing our time in the rain."
+          },
+          "stops": [
+            {
+              "name": "Bournemouth Square",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt mit vielen überdachten Wartebereichen.",
+                "hu": "Központi csomópont sok fedett várakozási hellyel.",
+                "ro": "Nod central cu multe zone de așteptare acoperite.",
+                "en": "Central hub with plenty of covered waiting areas."
+              }
+            },
+            {
+              "name": "Lower Gardens",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Schritte vom Parkeingang entfernt.",
+                "hu": "A megálló csak néhány lépésre van a park bejáratától.",
+                "ro": "Stația se află la doar câțiva pași de intrarea în parc.",
+                "en": "The stop is just a few steps away from the park entrance."
+              }
+            },
+            {
+              "name": "St Peter's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um Steigungen im Regen zu vermeiden.",
+                "hu": "Használja a buszt, hogy elkerülje az emelkedőket esőben.",
+                "ro": "Folosiți autobuzul pentru a evita pantele în timpul ploii.",
+                "en": "Use the bus to avoid walking uphill in the rain."
+              }
+            },
+            {
+              "name": "Russell-Cotes Museum (Bus Stop)",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt direkt an der Zufahrt zum Museum.",
+                "hu": "A megálló közvetlenül a múzeum bejáratánál található.",
+                "ro": "Stația se află chiar la accesul către muzeu.",
+                "en": "The stop is located right by the museum entrance."
+              }
+            },
+            {
+              "name": "Russell-Cotes Art Gallery & Museum",
+              "tip_5lang": {
+                "de": "Perfekt, um die Zeit bis zum nächsten Bus trocken zu verbringen.",
+                "hu": "Tökéletes a következő buszig hátralévő idő szárazon töltésére.",
+                "ro": "Perfect pentru a aștepta următorul autobuz la adăpost.",
+                "en": "Perfect for spending time indoors while waiting for your next bus."
+              }
+            },
+            {
+              "name": "Boscombe Pier",
+              "tip_5lang": {
+                "de": "Der Bus 1a/1b bringt Sie direkt hierher.",
+                "hu": "Az 1a/1b busz közvetlenül ide hozza Önt.",
+                "ro": "Autobuzul 1a/1b vă aduce direct aici.",
+                "en": "Bus routes 1a/1b will bring you directly to this location."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'MoreBus' App für Echtzeit-Infos bei Regen-Verspätungen.",
+              "Die gelben Busse (Yellow Buses) sind eine gute Alternative im Zentrum.",
+              "Ein Tagesticket lohnt sich oft schon ab drei Fahrten.",
+              "Vermeiden Sie es, nasse Schirme auf den Sitzen abzulegen.",
+              "Die Busse sind klimatisiert und helfen, die Kleidung zu trocknen."
+            ],
+            "hu": [
+              "Használja a 'MoreBus' alkalmazást a valós idejű infókért esőben.",
+              "A sárga buszok (Yellow Buses) jó alternatívát jelentenek a központban.",
+              "A napijegy gyakran már három utazás után megtérül.",
+              "Kerülje a vizes ernyők ülésekre helyezését.",
+              "A buszok fűtése segít a ruhák megszárításában."
+            ],
+            "ro": [
+              "Folosiți aplicația „MoreBus” pentru informații în timp real pe ploaie.",
+              "Autobuzele galbene sunt o alternativă bună în centru.",
+              "Un bilet de o zi este rentabil de la trei călătorii în sus.",
+              "Evitați să puneți umbrelele ude pe scaune.",
+              "Autobuzele sunt climatizate și ajută la uscarea hainelor."
+            ],
+            "en": [
+              "Use the 'MoreBus' app for real-time updates during rainy weather delays.",
+              "Yellow Buses are a great alternative for getting around the town centre.",
+              "A day ticket is usually worth it if you make three or more trips.",
+              "Avoid placing wet umbrellas on the bus seats.",
+              "Buses are climate-controlled and can help dry off your clothes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintertag bringt uns der Bus vom Square zu den weihnachtlich beleuchteten Gardens. Nach dem Besuch der St. Peter's Church fahren wir zum Russell-Cotes Museum, während wir die Aussicht aus dem warmen Busfenster genießen. Der Tag endet am Boscombe Pier, wobei der Transit uns den langen Rückweg in der Kälte erspart und uns schnell zurück ins Zentrum bringt.",
+            "hu": "Egy tiszta téli napon a busz a Square-től a karácsonyi fényekben úszó Gardensig visz minket. A Szent Péter-templom meglátogatása után a Russell-Cotes múzeumhoz utazunk, élvezve a kilátást a meleg buszablakból. A nap a Boscombe mólónál zárul, a tömegközlekedés pedig megkímél minket a hidegben való hosszú visszúttól.",
+            "ro": "Într-o zi senină de iarnă, autobuzul ne duce de la Square la grădinile iluminate festiv. După vizitarea bisericii St. Peter, mergem la muzeul Russell-Cotes, admirând peisajul prin geamul cald al autobuzului. Ziua se încheie la digul Boscombe, transportul public scutindu-ne de drumul lung prin frig.",
+            "en": "On a crisp winter day, the bus takes us from the Square to the beautifully lit gardens. After visiting St Peter's Church, we ride to the Russell-Cotes Museum, enjoying the coastal views from the warm bus interior. We finish at Boscombe Pier, letting transit handle the long return trip so we don't have to walk in the cold."
+          },
+          "stops": [
+            {
+              "name": "Bournemouth Square",
+              "tip_5lang": {
+                "de": "Im Winter gibt es hier oft einen kleinen Weihnachtsmarkt.",
+                "hu": "Télen gyakran van itt egy kis karácsonyi vásár.",
+                "ro": "Iarna există adesea o mică piață de Crăciun aici.",
+                "en": "A small Christmas market is often held here during winter."
+              }
+            },
+            {
+              "name": "Lower Gardens",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Kakao an der nahen Haltestelle.",
+                "hu": "Vegyél egy forró kakaót a közeli megállónál.",
+                "ro": "Luați o ciocolată caldă de la stația din apropiere.",
+                "en": "Grab a hot cocoa from a cafe near the bus stop."
+              }
+            },
+            {
+              "name": "St Peter's Church",
+              "tip_5lang": {
+                "de": "Die Abendgottesdienste im Winter sind sehr stimmungsvoll.",
+                "hu": "A téli esti istentiszteletek nagyon hangulatosak.",
+                "ro": "Slujbele de seară din timpul iernii sunt foarte pline de atmosferă.",
+                "en": "Winter evening services at the church are very atmospheric."
+              }
+            },
+            {
+              "name": "Russell-Cotes Museum (Bus Stop)",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan, da Busse seltener fahren können.",
+                "hu": "Ellenőrizze a téli menetrendet, mert a buszok ritkábban járhatnak.",
+                "ro": "Verificați mersul trenurilor de iarnă, autobuzele pot fi mai rare.",
+                "en": "Check the winter schedule as buses may run less frequently."
+              }
+            },
+            {
+              "name": "Russell-Cotes Art Gallery & Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Fahrten aufzuwärmen.",
+                "hu": "Ideális hely a felmelegedéshez két utazás között.",
+                "ro": "Un loc ideal pentru a vă încălzi între călătorii.",
+                "en": "An ideal place to warm up between transit segments."
+              }
+            },
+            {
+              "name": "Boscombe Pier",
+              "tip_5lang": {
+                "de": "Die letzte Fahrt zurück ins Zentrum bietet tolle Lichterblicke.",
+                "hu": "Az utolsó visszút a központba remek kilátást nyújt a fényekre.",
+                "ro": "Ultima cursă spre centru oferă vederi superbe asupra luminilor.",
+                "en": "The final trip back to the centre offers great views of the lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter gut beheizt und sehr komfortabel.",
+              "Achten Sie auf geänderte Fahrpläne an Feiertagen.",
+              "Nutzen Sie kontaktloses Bezahlen beim Einsteigen ('Tap On Tap Off').",
+              "Die Wartezeiten an den Haltestellen können im Wind kalt sein.",
+              "Wählen Sie einen Sitzplatz im Oberdeck für die beste Aussicht."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek és nagyon kényelmesek.",
+              "Ügyeljen az ünnepnapi menetrendváltozásokra.",
+              "Használjon érintésmentes fizetést felszálláskor ('Tap On Tap Off').",
+              "A megállókban való várakozás a szélben hideg lehet.",
+              "Válasszon ülést a felső szinten a legjobb kilátás érdekében."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite iarna și foarte confortabile.",
+              "Atenție la modificările de program din zilele de sărbătoare.",
+              "Folosiți plata contactless la urcare („Tap On Tap Off”).",
+              "Așteptarea în stații poate fi rece din cauza vântului.",
+              "Alegeți un loc la etaj pentru cea mai bună vedere."
+            ],
+            "en": [
+              "Buses are well-heated and very comfortable during the winter months.",
+              "Be aware of service changes during public holidays.",
+              "Use contactless payment when boarding ('Tap On Tap Off').",
+              "Waiting at bus stops can be cold due to the coastal wind.",
+              "Pick a seat on the top deck for the best views of the town."
+            ]
+          }
+        }
       }
     }
   }

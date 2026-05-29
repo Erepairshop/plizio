@@ -322,6 +322,188 @@
           "Check the opening hours of the Local History Museum in advance.",
           "Many wine taverns are only open seasonally."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Gänserndorfer Rathaus, wo das Vordach Schutz vor dem ersten Nieselregen bietet. Ein kurzer Sprint führt zur Pestsäule, bevor man in der Pfarrkirche trockene Stille findet. Der Mittag gehört dem Heimatmuseum, ideal um dem Wetter für zwei Stunden zu entfliehen. Später glänzt der Stadtpark im Regen, und der Tag endet gemütlich in einer der Weinstuben in der Kellergasse.",
+            "hu": "A nap a városházánál indul, ahol az eresz alatt még megúszhatjuk az első cseppeket. A Pestisoszlop után a plébániatemplom falai között lelünk menedékre. A déli órákban a Helytörténeti Múzeum kiállításai nyújtanak tökéletes beltéri programot. Délután az esőáztatta Városligetben sétálunk, majd a napot a Pinceköz egyik hangulatos borozójában zárjuk, távol az időjárás viszontagságaitól.",
+            "ro": "Ziua începe la primăria din Gänserndorf, unde porțiunea acoperită oferă adăpost de primii stropi. După o scurtă oprire la Coloana Ciumei, găsim liniște și adăpost în biserica parohială. Prânzul este rezervat muzeului local, locul ideal pentru a evita ploaia. Mai târziu, parcul orașului strălucește sub stropi, iar ziua se încheie confortabil într-una din cramele de pe aleea de vinuri.",
+            "en": "The day starts at Gänserndorf Town Hall, using the eaves for shelter from the morning drizzle. A quick stop at the Plague Column leads to the dry interior of the Parish Church. Midday is spent at the Local History Museum, perfect for escaping the weather. Later, the City Park offers a moody walk under umbrellas, ending with a cozy glass of wine in the protected cellars of Cellar Alley."
+          },
+          "stops": [
+            {
+              "name": "Gänserndorf Town Hall",
+              "tip_5lang": {
+                "de": "Unter dem Haupteingang findet man bei Schauern guten Unterstand.",
+                "hu": "A főbejáratnál tágas fedett rész vár, ha eleredne az eső.",
+                "ro": "Intrarea principală oferă un adăpost bun în caz de aversă.",
+                "en": "The main entrance provides good shelter if a shower starts."
+              }
+            },
+            {
+              "name": "Plague Column",
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp; der Stein glänzt bei Regen besonders schön.",
+                "hu": "Gyors fotómegálló; a kőoszlop esőben különleges fényben játszik.",
+                "ro": "O oprire rapidă; piatra coloanei strălucește frumos în ploaie.",
+                "en": "A quick photo stop; the stone column shines beautifully in the rain."
+              }
+            },
+            {
+              "name": "Gänserndorf Parish Church",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine trockene, besinnliche Pause im Inneren.",
+                "hu": "Tökéletes helyszín egy száraz, csendes belső pihenőhöz.",
+                "ro": "Locul perfect pentru o pauză liniștită și uscată în interior.",
+                "en": "Perfect spot for a dry, contemplative break inside the church."
+              }
+            },
+            {
+              "name": "Local History Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier bei starkem Regen etwas mehr Zeit ein.",
+                "hu": "Erős eső esetén érdemes itt kicsit hosszabb időt tölteni.",
+                "ro": "Planificați mai mult timp aici dacă ploaia devine torențială.",
+                "en": "Plan to spend more time here if the rain gets heavy."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege bleiben auch bei Nässe gut begehbar.",
+                "hu": "Az aszfaltozott utak esőben is jól járhatóak maradnak.",
+                "ro": "Aleile asfaltate rămân ușor de parcurs chiar și pe ploaie.",
+                "en": "The paved paths remain easily walkable even in wet conditions."
+              }
+            },
+            {
+              "name": "Cellar Alley",
+              "tip_5lang": {
+                "de": "Die Kellerstuben bieten die gemütlichste Flucht vor dem Wetter.",
+                "hu": "A borospincék belső terei a legmelegebb menedéket nyújtják.",
+                "ro": "Cramele interioare oferă cel mai plăcut refugiu împotriva ploii.",
+                "en": "The indoor wine cellars offer the coziest escape from the weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gänserndorf ist windanfällig; ein stabiler Schirm ist besser als ein Knirps.",
+              "Die Wege zwischen Rathaus und Museum sind kurz und gut befestigt.",
+              "Im Heimatmuseum gibt es eine Garderobe für nasse Mäntel.",
+              "Cafés in der Nähe des Rathauses bieten guten Unterschlupf für Pausen."
+            ],
+            "hu": [
+              "Gänserndorf szeles lehet, egy stabil esernyő többet ér a könnyűnél.",
+              "A városháza és a múzeum közötti utak rövidek és végig burkoltak.",
+              "A helytörténeti múzeumban van ruhatár a vizes kabátoknak.",
+              "A főtér környéki kávézók kiválóak egy-egy esőmentes pihenőre."
+            ],
+            "ro": [
+              "Gänserndorf poate fi vântos; o umbrelă stabilă e preferabilă uneia ușoare.",
+              "Drumurile între primărie și muzeu sunt scurte și bine pavate.",
+              "La muzeul de istorie locală există garderobă pentru haine ude.",
+              "Cafenelele din centrul orașului sunt refugii ideale între reprizele de ploaie."
+            ],
+            "en": [
+              "Gänserndorf is prone to wind; a sturdy umbrella is better than a light one.",
+              "Paths between the town hall and museum are short and well-paved.",
+              "The local history museum has a cloakroom for wet coats.",
+              "Cafes near the main square offer great shelter for intermediate breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen begrüßt uns am Rathaus. Die Pestsäule wirkt im Reif besonders historisch. Die Pfarrkirche bietet einen Moment der Ruhe in der Kälte, bevor die Wärme des Heimatmuseums lockt. Nach einem kurzen, erfrischenden Spaziergang durch den winterlichen Stadtpark wärmen wir uns in der Kellergasse bei regionalem Wein und deftiger Jause auf, während draußen die Dämmerung früh einsetzt.",
+            "hu": "Zúzmarás reggel köszönt minket a városházánál. A Pestisoszlop a téri ködben különösen misztikus. A plébániatemplom csendes nyugalmat ad a hidegben, mielőtt a fűtött múzeumba vonulnánk. Egy rövid, frissítő séta után a havas Városligetben, a napot a Pinceközben zárjuk, ahol a korai sötétedésben jól esik a táji bor és a kiadós osztrák uzsonna.",
+            "ro": "O dimineață geroasă ne întâmpină la primărie. Coloana Ciumei arată deosebit sub promoroacă. Biserica oferă un moment de liniște în frig, înainte ca căldura muzeului local să ne atragă. După o scurtă plimbare revigorantă prin parcul înghețat, ne încălzim pe aleea cramelor cu vin local și gustări consistente, în timp ce amurgul se lasă devreme.",
+            "en": "A frosty morning greets us at the Town Hall. The Plague Column looks particularly historic covered in rime. The church offers a quiet moment of peace in the cold before we head to the warmth of the Local History Museum. After a short, brisk walk through the winter city park, we warm up in Cellar Alley with regional wine and a hearty snack as dusk falls early."
+          },
+          "stops": [
+            {
+              "name": "Gänserndorf Town Hall",
+              "tip_5lang": {
+                "de": "Hinter dem Rathaus glitzern die Bäume im Frost oft wunderschön.",
+                "hu": "A városháza mögötti fák zúzmarás ágai télen fotogén látványt nyújtanak.",
+                "ro": "Copacii înghețați din spatele primăriei sunt foarte fotogenici iarna.",
+                "en": "The frosted trees behind the town hall look beautiful in winter."
+              }
+            },
+            {
+              "name": "Plague Column",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf dem Kopfsteinpflaster rund um die Säule.",
+                "hu": "Vigyázat, az oszlop körüli macskakő télen csúszós lehet.",
+                "ro": "Atenție la polei pe pavajul din jurul coloanei.",
+                "en": "Be careful of ice on the cobblestones around the column."
+              }
+            },
+            {
+              "name": "Gänserndorf Parish Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte etwas ab, aber warm anziehen.",
+                "hu": "A vastag falak fognak valamennyit a hidegből, de öltözzön fel jól.",
+                "ro": "Zidurile groase protejează puțin de frig, dar rămâneți bine îmbrăcați.",
+                "en": "The thick walls block some cold, but keep your warm layers on."
+              }
+            },
+            {
+              "name": "Local History Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich für eine Stunde richtig aufzuwärmen.",
+                "hu": "Ideális helyszín egy órányi alapos felmelegedéshez.",
+                "ro": "Locul ideal pentru a vă încălzi bine timp de o oră.",
+                "en": "An ideal place to properly warm up for an hour."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Bei Schnee verwandelt sich der Park in eine stille Winterlandschaft.",
+                "hu": "Hóesésben a park csendes téli mesevilággá változik.",
+                "ro": "În caz de zăpadă, parcul devine un peisaj de iarnă liniștit.",
+                "en": "With snow, the park transforms into a quiet winter wonderland."
+              }
+            },
+            {
+              "name": "Cellar Alley",
+              "tip_5lang": {
+                "de": "Viele Keller sind im Winter nur nach Voranmeldung beheizt.",
+                "hu": "Télen sok pince csak előzetes bejelentkezésre tart nyitva.",
+                "ro": "Multe crame sunt încălzite iarna doar cu rezervare prealabilă.",
+                "en": "Many cellars are only heated in winter upon prior notice."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:15 Uhr unter.",
+              "Tragen Sie Schuhe mit gutem Profil für eventuelle Eisstellen im Park.",
+              "Ein heißer Punsch am Hauptplatz ist im Advent ein Muss.",
+              "Die Gehwege im Zentrum werden meist sehr vorbildlich geräumt."
+            ],
+            "hu": [
+              "A nap decemberben már 16:15 körül lemegy.",
+              "Viseljen bordázott talpú cipőt a parki jeges szakaszok miatt.",
+              "Advent idején a főtéren elmaradhatatlan egy forró puncs.",
+              "A központban a járdákat rendszerint példásan takarítják."
+            ],
+            "ro": [
+              "Soarele apune în decembrie în jurul orei 16:15.",
+              "Purtați încălțăminte cu talpă aderentă pentru zonele înghețate din parc.",
+              "Un punci fierbinte în piața centrală este obligatoriu în timpul Adventului.",
+              "Trotuarele din centru sunt de obicei curățate foarte bine de zăpadă."
+            ],
+            "en": [
+              "Sunset in December occurs around 4:15 PM.",
+              "Wear shoes with good grip for potential icy patches in the park.",
+              "A hot punch at the main square is a must during Advent season.",
+              "Sidewalks in the center are usually cleared of snow very efficiently."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -622,6 +804,188 @@
           "A bike lock is essential when you visit the sights.",
           "The paths are mostly flat, but having gears is an advantage."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet das Marchfeld flache, gut befahrbare Radwege. Vom Rathaus geht es schnell zum Stadtpark, wo das Blätterdach etwas Schutz bietet. Das Museum dient als längerer Zwischenstopp zum Trocknen. Die Fahrt zur Kellergasse und weiter zum Erlebnispark erfordert gute Regenbekleidung, belohnt aber mit menschenleeren Wegen und einer frischen Brise, bevor wir den Tag am Safari-Aussichtspunkt ausklingen lassen.",
+            "hu": "Az eső ellenére a Marchfeld lapos vidéke jól kerékpározható marad. A városházától gyorsan elérjük a Városligetet, ahol a fák némi védelmet admanak. A múzeum tökéletes helyszín a megszáradáshoz. A Pinceköz és az élménypark felé vezető út vízhatlan ruházatot igényel, de a jutalom az üres utak és a friss levegő, mielőtt a napot a szafaripark kilátópontjánál zárnánk.",
+            "ro": "În ciuda ploii, câmpia Marchfeld oferă piste de biciclete plate și accesibile. De la primărie ajungem rapid în parcul orașului, unde coronamentul arborilor oferă puțină protecție. Muzeul servește ca o oprire prelungită pentru uscare. Drumul spre aleea cramelor și parcul de aventură necesită echipament de ploaie, dar oferă trasee libere înainte de finalul zilei la punctul de observație.",
+            "en": "Despite the rain, the flat Marchfeld region offers very cyclable paths. From the Town Hall, we cycle quickly to the City Park for some tree cover. The museum provides a long break to dry off. The ride to Cellar Alley and the Adventure Park requires good rain gear, but rewards you with empty paths and fresh air, ending the day at the Safari Park viewpoint."
+          },
+          "stops": [
+            {
+              "name": "Town Hall & Center",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich in unmittelbarer Nähe.",
+                "hu": "Fedett kerékpártárolók találhatók a közvetlen közelben.",
+                "ro": "Rasteluri de biciclete acoperite se află în imediata apropiere.",
+                "en": "Covered bicycle racks are located in the immediate vicinity."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassen Blättern, die Wege können rutschig sein.",
+                "hu": "Vigyázat a nedves leveleken, az utak csúszósak lehetnek.",
+                "ro": "Atenție la frunzele ude, aleile pot deveni alunecoase.",
+                "en": "Watch out for wet leaves; the paths can be slippery."
+              }
+            },
+            {
+              "name": "Local History Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit hier, um die Regenbekleidung auszuschütteln.",
+                "hu": "Használja ki az időt a vizes ruhák átszellőztetésére.",
+                "ro": "Folosiți timpul aici pentru a scutura echipamentul de ploaie.",
+                "en": "Use the time here to shake off and dry your rain gear."
+              }
+            },
+            {
+              "name": "Cellar Alley",
+              "tip_5lang": {
+                "de": "Einige Winzer haben überdachte Innenhöfe für Radler.",
+                "hu": "Néhány borászat fedett belső udvarral várja a bicikliseket.",
+                "ro": "Unii viticultori au curți interioare acoperite pentru bicicliști.",
+                "en": "Some wineries have covered inner courtyards for cyclists."
+              }
+            },
+            {
+              "name": "Gänserndorf Adventure Park",
+              "tip_5lang": {
+                "de": "Kletterelemente können bei Regen gesperrt sein; vorher prüfen.",
+                "hu": "A mászóelemek esőben zárva tarthatnak; ellenőrizze előre.",
+                "ro": "Elementele de cățărare pot fi închise pe ploaie; verificați în avans.",
+                "en": "Climbing elements might be closed in the rain; check beforehand."
+              }
+            },
+            {
+              "name": "Safari Park Area (Viewpoint)",
+              "tip_5lang": {
+                "de": "Die Fernsicht über das Marchfeld ist bei Regen oft mystisch.",
+                "hu": "A kilátás a Marchfeldre esőben gyakran sejtelmesen szép.",
+                "ro": "Vizibilitatea peste Marchfeld este adesea mistică pe ploaie.",
+                "en": "The view over the Marchfeld is often mystical in rainy weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, da der Bremsweg auf nassem Asphalt länger ist.",
+              "Schutzbleche sind bei den Feldwegen außerhalb des Zentrums essenziell.",
+              "Tragen Sie auffällige Reflektoren, da die Sichtbarkeit bei Regen sinkt.",
+              "Die Radwege sind meist asphaltiert, was Schlammbildung minimiert."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, nedves aszfalton hosszabb a fékút.",
+              "A központon kívüli mezei utaknál a sárvédő elengedhetetlen.",
+              "Viseljen fényvisszaverőt, mert esőben jelentősen romlik a láthatóság.",
+              "A kerékpárutak többnyire aszfaltozottak, így kevésbé sarasak."
+            ],
+            "ro": [
+              "Verificați frânele, distanța de frânare este mai mare pe asfalt ud.",
+              "Apărătorile sunt esențiale pe drumurile de câmp din afara centrului.",
+              "Purtați reflectorizante, vizibilitatea scade considerabil pe ploaie.",
+              "Pistele sunt majoritar asfaltate, ceea ce reduce acumularea de noroi."
+            ],
+            "en": [
+              "Check your brakes; stopping distance is longer on wet asphalt.",
+              "Mudguards are essential for the field paths outside the center.",
+              "Wear bright reflectors as visibility drops significantly in the rain.",
+              "Most bike paths are paved, which minimizes mud buildup."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalt und klar – ideal für eine zügige Radtour durch Gänserndorf. Vom frostigen Zentrum radeln wir zum stillen Stadtpark. Die Wärme des Heimatmuseums ist eine willkommene Unterbrechung, bevor es zur Kellergasse geht. Die Fahrt zum Erlebnispark und zum Safari-Aussichtspunkt führt durch die weite, winterliche Marchfeld-Landschaft, wo uns ein scharfer Ostwind begleiten kann. Ein rechtzeitiger Abschluss vor Einbruch der Dunkelheit ist ratsam.",
+            "hu": "Hideg és tiszta idő – ideális egy tempós kerékpározáshoz Gänserndorfban. A fagyos központból a csendes Városligetbe tekerünk. A múzeum melege vágyott pihenő a Pinceköz előtt. Az élménypark és a szafaripark felé tartva a téli Marchfeld tágas tája tárul elénk, ahol éles keleti szélre számíthatunk. Érdemes a túrát még a sötétedés előtt befejezni.",
+            "ro": "Rece și senin – ideal pentru o tură rapidă cu bicicleta prin Gänserndorf. Din centrul înghețat pedalăm spre parcul liniștit. Căldura muzeului este o pauză binevenită înainte de aleea cramelor. Drumul spre parcul de aventură și punctul Safari trece prin peisajul vast de iarnă din Marchfeld, unde vântul tăios din est ne poate însoți. Se recomandă încheierea traseului înainte de lăsarea întunericului.",
+            "en": "Cold and clear – perfect for a brisk bike ride through Gänserndorf. From the frosty center, we cycle to the quiet City Park. The museum's warmth is a welcome break before heading to Cellar Alley. The ride to the Adventure Park and Safari viewpoint crosses the vast winter Marchfeld landscape, where sharp east winds often blow. It's wise to finish the tour before darkness sets in."
+          },
+          "stops": [
+            {
+              "name": "Town Hall & Center",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe in schattigen Gassen.",
+                "hu": "Vigyázat a fagyott tócsákkal az árnyékos mellékutcákban.",
+                "ro": "Atenție la gheața neagră în zonele umbrite ale centrului.",
+                "en": "Beware of black ice in shaded alleys in the center."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege im Park können bei Frost hart und holprig sein.",
+                "hu": "A park burkolatlan útjai fagyban kemények és rázósak lehetnek.",
+                "ro": "Aleile neasfaltate din parc pot fi dure și denivelate în caz de îngheț.",
+                "en": "The unpaved paths in the park can be hard and bumpy in freezing weather."
+              }
+            },
+            {
+              "name": "Local History Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad so ab, dass das Schloss nicht einfriert.",
+                "hu": "Úgy parkoljon, hogy a kerékpárzár ne fagyhasson be.",
+                "ro": "Parcați bicicleta astfel încât încuietoarea să nu înghețe.",
+                "en": "Park your bike in a way that prevents the lock from freezing."
+              }
+            },
+            {
+              "name": "Cellar Alley",
+              "tip_5lang": {
+                "de": "Ein heißer Tee in einer Kellerstube wirkt Wunder gegen die Kälte.",
+                "hu": "Egy forró tea a pincében csodákat tesz a hideg ellen.",
+                "ro": "Un ceai fierbinte într-o cramă face minuni împotriva frigului.",
+                "en": "A hot tea in a cellar room works wonders against the cold."
+              }
+            },
+            {
+              "name": "Gänserndorf Adventure Park",
+              "tip_5lang": {
+                "de": "Im Winter sind die Öffnungszeiten stark eingeschränkt; bitte prüfen.",
+                "hu": "Télen a nyitvatartás korlátozott; kérjük, ellenőrizze előre.",
+                "ro": "Iarna programul este foarte limitat; vă rugăm să verificați.",
+                "en": "Opening hours are very limited in winter; please check in advance."
+              }
+            },
+            {
+              "name": "Safari Park Area (Viewpoint)",
+              "tip_5lang": {
+                "de": "Der Wind pfeift hier oben im Winter besonders kräftig.",
+                "hu": "Itt fent a szél télen különösen erősen fújhat.",
+                "ro": "Vântul suflă foarte puternic aici sus pe timpul iernii.",
+                "en": "The wind can be particularly strong up here during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und eine winddichte Jacke sind bei der Fahrt im Marchfeld Pflicht.",
+              "Achten Sie auf die Akkuleistung Ihres E-Bikes, die bei Kälte sinkt.",
+              "Die Sonne verschwindet früh; funktionierendes Licht ist essenziell.",
+              "Meiden Sie bei Schneefall die ungeräumten Feldwege am Stadtrand."
+            ],
+            "hu": [
+              "Meleg kesztyű és szélálló kabát kötelező a Marchfeld-i tekeréshez.",
+              "Figyeljen az e-bike akkumulátorára, ami hidegben gyorsabban merül.",
+              "A nap korán nyugszik, a működő világítás elengedhetetlen.",
+              "Hóesésben kerülje a város széli, takarítatlan mezei utakat."
+            ],
+            "ro": [
+              "Mănușile groase și o jachetă rezistentă la vânt sunt obligatorii.",
+              "Atenție la bateria bicicletei electrice, care scade mai repede la frig.",
+              "Soarele apune devreme; luminile funcționale sunt esențiale.",
+              "Evitați drumurile de câmp necurățate de la marginea orașului în caz de ninsoare."
+            ],
+            "en": [
+              "Warm gloves and a windproof jacket are mandatory for riding in Marchfeld.",
+              "Monitor your e-bike battery, as its performance drops in the cold.",
+              "The sun sets early; functional lights are essential for the evening.",
+              "Avoid uncleared field paths on the outskirts if it has been snowing."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -946,6 +1310,206 @@
           "Allow enough time for the drive between clusters.",
           "The Safari Park area is large, pick one section you want to explore."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Tage sind perfekt für eine Tour mit dem Auto durch das Gänserndorfer Umland. Nach dem Parken im Zentrum erreichen wir trocken das Rathaus und die Kirche. Das Heimatmuseum bietet ein langes Indoor-Programm. Der Erlebnispark und die Kellergasse sind nur kurze Fahrten entfernt, und der Tag endet entspannt beim Safari-Aussichtspunkt, wo wir den Regen bequem vom Fahrzeug aus beobachten können.",
+            "hu": "Az esős napok ideálisak egy autós kiránduláshoz Gänserndorf környékén. A központi parkolás után száraz lábbal érjük el a városházát és a templomot. A múzeum tartalmas beltéri programot kínál. Az élménypark és a Pinceköz csak rövid autóútra van, a napot pedig kényelmesen a szafaripark kilátópontjánál zárhatjuk, az autóból figyelve az esőt.",
+            "ro": "Zilele ploioase sunt perfecte pentru un tur cu mașina în jurul orașului Gänserndorf. După parcarea în centru, ajungem rapid la primărie și biserică. Muzeul oferă un program interior lung. Parcul de aventură și aleea cramelor sunt la mică distanță de condus, iar ziua se încheie relaxat la punctul Safari, observând ploaia din confortul vehiculului.",
+            "en": "Rainy days are perfect for a car tour around Gänserndorf. After parking centrally, we reach the Town Hall and Church staying mostly dry. The museum offers an extensive indoor program. The Adventure Park and Cellar Alley are just short drives away, and the day ends relaxingly at the Safari viewpoint, where you can watch the rain from the comfort of your car."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Parking",
+              "tip_5lang": {
+                "de": "Nahegelegene Parkplätze ermöglichen kurze Wege zum Rathaus.",
+                "hu": "A közeli parkolók rövid sétát tesznek lehetővé a városházáig.",
+                "ro": "Parcările din apropiere permit accesul rapid la primărie.",
+                "en": "Nearby parking lots allow for short walks to the town hall."
+              }
+            },
+            {
+              "name": "Town Hall & Plague Column",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; parken Sie direkt am Hauptplatz für minimalen Regenweg.",
+                "hu": "Gyors megálló; parkoljon a főtéren a legkisebb ázás érdekében.",
+                "ro": "Oprire scurtă; parcați chiar în piață pentru un drum minim prin ploaie.",
+                "en": "Quick stop; park right at the main square to minimize rain exposure."
+              }
+            },
+            {
+              "name": "Gänserndorf Parish Church",
+              "tip_5lang": {
+                "de": "Parkplätze an der Seite der Kirche sind oft frei.",
+                "hu": "A templom oldalsó parkolói gyakran szabadok.",
+                "ro": "Locurile de parcare din lateralul bisericii sunt adesea libere.",
+                "en": "Parking spaces at the side of the church are often available."
+              }
+            },
+            {
+              "name": "Local History Museum",
+              "tip_5lang": {
+                "de": "Das Museum hat einen eigenen kleinen Parkbereich.",
+                "hu": "A múzeumnak saját kis parkolója van.",
+                "ro": "Muzeul are propria mică zonă de parcare.",
+                "en": "The museum has its own small parking area."
+              }
+            },
+            {
+              "name": "Leisure Cluster: Gänserndorf Adventure Park",
+              "tip_5lang": {
+                "de": "Großer asphaltierter Parkplatz direkt vor dem Eingang.",
+                "hu": "Nagy, aszfaltozott parkoló közvetlenül a bejárat előtt.",
+                "ro": "Parcare mare asfaltată chiar în fața intrării.",
+                "en": "Large paved parking lot directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Cellar Alley",
+              "tip_5lang": {
+                "de": "Parken Sie am Rand der Gasse, um die Keller zu Fuß zu erkunden.",
+                "hu": "Parkoljon a pinceköz szélén, és fedezze fel a pincéket gyalog.",
+                "ro": "Parcați la marginea aleii pentru a explora cramele la pas.",
+                "en": "Park at the edge of the alley to explore the cellars on foot."
+              }
+            },
+            {
+              "name": "Nature Cluster: Safari Park Area",
+              "tip_5lang": {
+                "de": "Bester Platz, um bei Starkregen die Aussicht im Trockenen zu genießen.",
+                "hu": "A legjobb hely, hogy erős esőben szárazon élvezze a kilátást.",
+                "ro": "Cel mai bun loc pentru a savura priveliștea la adăpost de ploaie.",
+                "en": "The best place to enjoy the view while staying dry during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Kurzparkzonen im Zentrum (Parkscheibe nicht vergessen).",
+              "Bei Regen kann die Sicht auf den Landstraßen durch Gischt eingeschränkt sein.",
+              "Die Kellergasse ist eng; parken Sie bitte rücksichtsvoll.",
+              "Das Auto dient als idealer Rückzugsort zwischen den Außenstationen."
+            ],
+            "hu": [
+              "Használja a rövid távú parkolási zónákat (ne felejtse a parkolótárcsát).",
+              "Esőben az országutakon a felcsapódó víz ronthatja a látási viszonyokat.",
+              "A Pinceköz szűk; kérjük, parkoljon körültekintően.",
+              "Az autó kiváló menedék a kültéri állomások közötti szünetekben."
+            ],
+            "ro": [
+              "Folosiți zonele de parcare pe termen scurt (nu uitați discul de parcare).",
+              "Pe ploaie, vizibilitatea pe drumurile județene poate fi redusă de apa aruncată.",
+              "Aleea cramelor este îngustă; vă rugăm să parcați cu atenție.",
+              "Mașina servește ca refugiu ideal între obiectivele exterioare."
+            ],
+            "en": [
+              "Use short-term parking zones in the center (don't forget the parking disc).",
+              "During rain, visibility on rural roads can be reduced by spray.",
+              "The Cellar Alley is narrow; please park considerately.",
+              "Your car is the perfect retreat between outdoor stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Wintertour mit Sitzheizung beginnt im Herzen Gänserndorfs. Nach einem kurzen Besuch am frostigen Hauptplatz wärmen wir uns in der Kirche und später ausführlich im Heimatmuseum auf. Die Fahrt durch das verschneite Marchfeld zum Erlebnispark bietet schöne Ausblicke. In der Kellergasse genießen wir die winterliche Ruhe, bevor wir den Tag am Safari-Aussichtspunkt bei einem frühen, klaren Sonnenuntergang über der Ebene beenden.",
+            "hu": "Egy kényelmes, fűtött autós túra Gänserndorf szívében. A fagyos főtéri séta után a templomban, majd a múzeumban melegszünk fel. A havas Marchfelden átvezető út az élményparkig gyönyörű látványt nyújt. A Pinceközben élvezzük a téli csendet, majd a napot a szafaripark kilátópontjánál zárjuk egy korai, tiszta naplementével a síkság felett.",
+            "ro": "Un tur de iarnă confortabil începe în inima orașului Gänserndorf. După o vizită scurtă în piața înghețată, ne încălzim în biserică și apoi la muzeu. Drumul prin Marchfeld-ul înzăpezit spre parcul de aventură oferă priveliști superbe. Pe aleea cramelor savurăm liniștea iernii, încheind ziua la punctul Safari cu un apus senin deasupra câmpiei.",
+            "en": "A cozy winter tour with heated seats begins in the heart of Gänserndorf. After a short visit to the frosty main square, we warm up in the church and then more thoroughly at the museum. The drive through the snowy Marchfeld to the Adventure Park offers beautiful views. In Cellar Alley, we enjoy the winter stillness before ending the day at the Safari viewpoint with an early, clear sunset over the plains."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Parking",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze sind im Winter oft schneefrei geräumt.",
+                "hu": "A központi parkolókat télen rendszerint letakarítják a hótól.",
+                "ro": "Parcările centrale sunt de obicei curățate de zăpadă iarna.",
+                "en": "Central parking lots are usually cleared of snow in winter."
+              }
+            },
+            {
+              "name": "Town Hall & Plague Column",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen, der Boden kann glatt sein.",
+                "hu": "Vigyázat a kiszállásnál, az úttest csúszós lehet.",
+                "ro": "Atenție la coborâre, asfaltul poate fi alunecos.",
+                "en": "Be careful when getting out; the ground can be slippery."
+              }
+            },
+            {
+              "name": "Gänserndorf Parish Church",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um Kälte zu meiden.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz a hideg elkerülésére.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita frigul.",
+                "en": "Park as close to the entrance as possible to minimize cold exposure."
+              }
+            },
+            {
+              "name": "Local History Museum",
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt davor wird zuverlässig gestreut.",
+                "hu": "A közvetlen előtte lévő parkolót megbízhatóan sózzák.",
+                "ro": "Parcarea din fața muzeului este de obicei dezapezită.",
+                "en": "The parking lot directly in front is reliably gritted."
+              }
+            },
+            {
+              "name": "Leisure Cluster: Gänserndorf Adventure Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Zufahrt bei starkem Schneefall geräumt ist.",
+                "hu": "Erős havazáskor ellenőrizze, hogy a bekötőút járható-e.",
+                "ro": "Verificați dacă drumul de acces este curățat în caz de ninsoare mare.",
+                "en": "Check if the access road is cleared during heavy snowfall."
+              }
+            },
+            {
+              "name": "Cellar Alley",
+              "tip_5lang": {
+                "de": "In der schmalen Gasse kann sich im Winter Schnee türmen.",
+                "hu": "A szűk pinceközben télen felhalmozódhat a hó.",
+                "ro": "În aleea îngustă zăpada se poate acumula pe margini.",
+                "en": "Snow can pile up in the narrow alley during winter."
+              }
+            },
+            {
+              "name": "Nature Cluster: Safari Park Area",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, während Sie die Aussicht genießen.",
+                "hu": "Ne járassa feleslegesen a motort, miközben a kilátást élvezi.",
+                "ro": "Nu lăsați motorul pornit inutil în timp ce admirați priveliștea.",
+                "en": "Don't leave the engine running unnecessarily while enjoying the view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Österreich ab dem 1. November Pflicht.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit sich.",
+              "Achten Sie auf Wildwechsel auf den Landstraßen in der Dämmerung.",
+              "Die Bergstraßen entfallen hier, aber der Wind kann Schneeverwehungen bilden."
+            ],
+            "hu": [
+              "Ausztriában november 1-től kötelező a téli gumi.",
+              "Legyen Önnél jégkaparó és téli szélvédőmosó folyadék.",
+              "Figyeljen a vadakra az országutakon a korai szürkületben.",
+              "Hegyi utak itt nincsenek, de a szél hófúvásokat okozhat."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Austria de la 1 noiembrie.",
+              "Aveți la îndemână o racletă și lichid de parbriz de iarnă.",
+              "Atenție la animalele sălbatice pe drumurile de câmp la amurg.",
+              "Nu sunt drumuri montane aici, dar vântul poate forma troiene pe câmp."
+            ],
+            "en": [
+              "Winter tires are mandatory in Austria starting November 1st.",
+              "Carry an ice scraper and winter windshield washer fluid.",
+              "Watch out for wildlife on rural roads during the early dusk.",
+              "There are no mountain passes here, but wind can create snowdrifts."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1222,6 +1786,170 @@
           "A day ticket for public transport might be worthwhile.",
           "The train station is a good starting and ending point for your tour."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ankunft am Gänserndorfer Bahnhof im Regen – das Vordach schützt beim Aussteigen. Ein kurzer Fußweg führt zum Rathaus und ins Stadtzentrum, wo Geschäfte Unterschlupf bieten. Die Kombination aus Kirche und Museum ist ideal für den regnerischen Vormittag. Nach einem Sprung zum Stadtpark beenden wir den Tag in der Kellergasse, bevor es mit dem Bus oder zu Fuß zurück zum Bahnhof geht.",
+            "hu": "Érkezés a gänserndorfi vasútállomásra esőben – a peron tetője véd a kiszállásnál. Rövid séta vezet a városházához, ahol az üzletek árkádjai alatt maradhatunk szárazon. A templom és a múzeum párosa ideális az esős délelőttre. Egy rövid városligeti kitérő után a Pinceközben zárjuk a napot, majd busszal vagy gyalog térünk vissza az állomásra.",
+            "ro": "Sosire la gara Gänserndorf pe ploaie – copertina ne protejează la coborâre. O scurtă plimbare ne duce la primărie, unde magazinele oferă adăpost. Combinația dintre biserică și muzeu este ideală pentru o dimineață ploioasă. După o vizită în parc, încheiem ziua la crame înainte de a ne întoarce la gară cu autobuzul sau pe jos.",
+            "en": "Arriving at Gänserndorf station in the rain – the platform roof protects you as you step off. A short walk leads to the town hall and city center, where shops offer shelter. The church and museum combination is ideal for a rainy morning. After a quick stop at the city park, we end the day in Cellar Alley before taking a bus or walking back to the station."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Arrival at Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet einen beheizten Warteraum.",
+                "hu": "Az állomáson fűtött váróterem áll rendelkezésre.",
+                "ro": "Gara oferă o sală de așteptare încălzită.",
+                "en": "The station offers a heated waiting room."
+              }
+            },
+            {
+              "name": "Town Hall & City Center",
+              "tip_5lang": {
+                "de": "Bushaltestellen im Zentrum sind meist überdacht.",
+                "hu": "A központi buszmegállók többnyire fedettek.",
+                "ro": "Stațiile de autobuz din centru sunt în mare parte acoperite.",
+                "en": "Most bus stops in the center are covered."
+              }
+            },
+            {
+              "name": "Parish Church & Local Museum",
+              "tip_5lang": {
+                "de": "Diese Stopps liegen nah beieinander, was Regenwege minimiert.",
+                "hu": "Ezek a megállók közel vannak egymáshoz, minimalizálva az ázást.",
+                "ro": "Aceste obiective sunt aproape unul de altul, reducând drumul prin ploaie.",
+                "en": "These stops are close to each other, minimizing rain exposure."
+              }
+            },
+            {
+              "name": "Recreation Cluster: City Park",
+              "tip_5lang": {
+                "de": "Vom Park zur nächsten Haltestelle sind es nur wenige Minuten.",
+                "hu": "A parktól a legközelebbi megálló csak pár perc séta.",
+                "ro": "De la parc la cea mai apropiată stație sunt doar câteva minute.",
+                "en": "It's only a few minutes from the park to the nearest stop."
+              }
+            },
+            {
+              "name": "Cellar Alley",
+              "tip_5lang": {
+                "de": "Informieren Sie sich über die Buszeiten für den Rückweg.",
+                "hu": "Tájékozódjon a buszmenetrendről a visszaúthoz.",
+                "ro": "Informați-vă despre orarul autobuzelor pentru drumul de întoarcere.",
+                "en": "Check the bus schedule for your return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die VOR-AnachB App für Echtzeit-Infos bei Wetterverzögerungen.",
+              "Die Schnellbahn S1 fährt halbstündlich nach Wien.",
+              "Die Wege im Stadtzentrum sind kompakt und gut zu Fuß machbar.",
+              "Regenschirme können in den Zügen oft in speziellen Halterungen platziert werden."
+            ],
+            "hu": [
+              "Használja a VOR-AnachB alkalmazást a valós idejű menetrendhez.",
+              "Az S1-es gyorsvasút félóránként közlekedik Bécs felé.",
+              "A városközpont kompakt, gyalogosan is kényelmes esőben.",
+              "Az esernyőket a vonatokon gyakran speciális tartókba tehetjük."
+            ],
+            "ro": [
+              "Folosiți aplicația VOR-AnachB pentru informații în timp real.",
+              "Trenul rapid S1 circulă la fiecare jumătate de oră spre Viena.",
+              "Centrul orașului este compact și ușor de parcurs pe jos.",
+              "Umbrelele pot fi plasate adesea în suporturi speciale în trenuri."
+            ],
+            "en": [
+              "Use the VOR-AnachB app for real-time updates during weather delays.",
+              "The S1 rapid transit train runs every half hour to Vienna.",
+              "The city center is compact and easy to navigate on foot.",
+              "Umbrellas can often be placed in special holders on the trains."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ankunft am frostigen Bahnhof Gänserndorf. Die warme S-Bahn war ein guter Start. Der Weg ins Zentrum ist kurz, und das Rathaus empfängt uns in winterlicher Pracht. Die Pfarrkirche und das Heimatmuseum bieten die nötige Wärme zwischendurch. Ein belebender Spaziergang durch den winterlichen Stadtpark führt uns schließlich zur Kellergasse, wo wir bei Wein und Jause die frühe Dunkelheit genießen, bevor es zurück zum Bahnhof geht.",
+            "hu": "Érkezés a fagyos gänserndorfi állomásra. A fűtött vonat után rövid séta vezet a központba, ahol a városháza téli díszben áll. A templom és a múzeum kínál meleg pihenőt a séta közben. A zúzmarás Városliget után a Pinceközben melegszünk fel, élvezve a korai sötétedést és a helyi borokat, mielőtt visszatérnénk a vonathoz.",
+            "ro": "Sosire în gara înghețată Gänserndorf. Trenul încălzit a fost un început bun. Drumul spre centru este scurt, iar primăria ne întâmpină în straie de iarnă. Biserica și muzeul oferă căldura necesară între timp. O plimbare revigorantă prin parcul de iarnă ne duce în final la aleea cramelor, unde savurăm vinul și gustările înainte de a ne întoarce la gară.",
+            "en": "Arriving at the frosty Gänserndorf station. The warm S-Bahn was a great start. The walk to the center is short, and the Town Hall welcomes us in its winter glory. The church and museum provide necessary warmth in between stops. A brisk walk through the winter city park leads us to Cellar Alley, where we enjoy wine and snacks in the early darkness before heading back to the station."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Arrival at Station",
+              "tip_5lang": {
+                "de": "Der Bahnsteig kann bei Frost rutschig sein; Vorsicht beim Aussteigen.",
+                "hu": "A peron fagyban csúszós lehet; vigyázzon a kiszállásnál.",
+                "ro": "Peronul poate fi alunecos în caz de îngheț; atenție la coborâre.",
+                "en": "The platform can be slippery in freezing weather; be careful stepping off."
+              }
+            },
+            {
+              "name": "Town Hall & City Center",
+              "tip_5lang": {
+                "de": "Die Hauptstraße ist meist gut geräumt und gestreut.",
+                "hu": "A főutca rendszerint jól takarított és sózott.",
+                "ro": "Strada principală este de obicei bine curățată și dezapezită.",
+                "en": "The main street is usually well-cleared and gritted."
+              }
+            },
+            {
+              "name": "Parish Church & Local Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie diese Innenräume zum Aufwärmen zwischen den Fußwegen.",
+                "hu": "Használja ezeket a belső tereket felmelegedésre a séták között.",
+                "ro": "Folosiți aceste spații interioare pentru a vă încălzi între plimbări.",
+                "en": "Use these indoor spaces to warm up between walks."
+              }
+            },
+            {
+              "name": "Recreation Cluster: City Park",
+              "tip_5lang": {
+                "de": "Im Winter ist der Park besonders ruhig und stimmungsvoll.",
+                "hu": "Télen a park különösen csendes és hangulatos.",
+                "ro": "Iarna parcul este deosebit de liniștit și atmosferic.",
+                "en": "In winter, the park is particularly quiet and atmospheric."
+              }
+            },
+            {
+              "name": "Cellar Alley",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg zum Bahnhof so, dass Sie nicht in der Kälte warten.",
+                "hu": "Úgy tervezze a visszautat, hogy ne kelljen sokat várnia a hidegben.",
+                "ro": "Planificați întoarcerea la gară astfel încât să nu așteptați în frig.",
+                "en": "Plan your return to the station so you don't have to wait in the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Schuhe, da das Warten auf Bahnsteigen kalt werden kann.",
+              "Die Züge sind meist sehr gut beheizt.",
+              "Achten Sie auf eventuelle Winterfahrpläne bei den Regionalbussen.",
+              "In der Dämmerung ist der Weg zum Bahnhof gut beleuchtet."
+            ],
+            "hu": [
+              "Viseljen meleg cipőt, mert a peronon várakozva gyorsan áthűl a láb.",
+              "A vonatok rendszerint nagyon jól fűtöttek.",
+              "Figyeljen a regionális buszok esetleges téli menetrendjére.",
+              "Szürkületben az állomásra vezető út végig jól megvilágított."
+            ],
+            "ro": [
+              "Purtați încălțăminte groasă, așteptarea pe peron poate fi friguroasă.",
+              "Trenurile sunt de obicei foarte bine încălzite.",
+              "Verificați orarul de iarnă pentru autobuzele regionale.",
+              "Drumul spre gară este bine iluminat pe timpul serii."
+            ],
+            "en": [
+              "Wear warm shoes as waiting on platforms can get very cold.",
+              "Trains are usually very well-heated.",
+              "Check for any winter schedules for regional buses.",
+              "The path back to the station is well-lit during dusk."
+            ]
+          }
+        }
       }
     }
   }

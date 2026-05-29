@@ -386,6 +386,206 @@
           "Schedule time for a mud bath or treatment to fully embrace the local experience.",
           "Water and sunscreen are essential on sunny days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit einem erfrischenden Spaziergang im Central Park, geschützt durch dichte Baumkronen. Mittags bietet das Sanatorium die perfekte Zuflucht für heilende Behandlungen im Trockenen. Nachmittags bewundern wir die Malereien im Kloster Sfânta Maria, während der Regen gegen die Fenster prasselt. Der Abend klingt gemütlich in einem Café an der Seepromenade aus.",
+            "hu": "A reggel frissítő sétával indul a Központi Parkban, az esernyők alatt a fák lombjai nyújtanak plusz védelmet. Délben a szanatórium belső terei kínálnak tökéletes menedéket és gyógyító kúrákat. Délután a Szent Mária kolostor csendjében pihenünk meg, miközben kint elered az eső. Az estét egy tóparti kávézó melegében zárjuk, figyelve a víz tükrét.",
+            "ro": "Dimineața începe cu o plimbare revigorantă în Parcul Central, protejați de umbrele printre copaci. La prânz, Sanatoriul oferă refugiul perfect pentru tratamente balneare la adăpost. După-amiaza admirăm liniștea Mănăstirii Sfânta Maria, în timp ce ploaia bate în geam. Seara se încheie confortabil într-o cafenea de pe faleza lacului.",
+            "en": "Morning begins with a refreshing walk in Central Park, protected by umbrellas under the canopy. At noon, the Sanatorium provides the perfect indoor refuge for healing treatments. In the afternoon, we admire the serenity of Saint Mary Monastery while rain taps on the windows. The evening ends cozily in a lakeside café, watching the rain on the water."
+          },
+          "stops": [
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Dichte Baumkronen bieten natürlichen Schutz vor leichtem Nieselregen.",
+                "hu": "A sűrű lombok természetes védelmet nyújtanak az enyhe szemerkélés ellen.",
+                "ro": "Copacii deși oferă protecție naturală împotriva burniței ușoare.",
+                "en": "Dense canopies offer natural protection against light drizzle."
+              }
+            },
+            {
+              "name": "Saint Elijah the Prophet Church",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine kurze, trockene Pause und Besinnung.",
+                "hu": "Ideális hely egy rövid, száraz pihenőre és elcsendesedésre.",
+                "ro": "Un loc ideal pentru o scurtă pauză uscată și reflecție.",
+                "en": "An ideal place for a short, dry break and reflection."
+              }
+            },
+            {
+              "name": "Balneological Sanatorium",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenzeit für eine ausgiebige Schlammpackung im Innenbereich.",
+                "hu": "Használja ki az esős időt egy alapos beltéri iszappakolásra.",
+                "ro": "Profită de ploaie pentru o împachetare cu nămol la interior.",
+                "en": "Take advantage of the rain for an extensive indoor mud wrap."
+              }
+            },
+            {
+              "name": "Tekir's Statue",
+              "tip_5lang": {
+                "de": "Schnelles Foto im Regen – die Statue wirkt bei Nässe besonders glänzend.",
+                "hu": "Gyors fotó az esőben – a szobor vizesen különösen szépen csillog.",
+                "ro": "Poză rapidă în ploaie – statuia strălucește frumos când e udă.",
+                "en": "Quick photo in the rain – the statue shines beautifully when wet."
+              }
+            },
+            {
+              "name": "Saint Mary Monastery",
+              "tip_5lang": {
+                "de": "Die hölzerne Veranda bietet Schutz und einen tollen Blick auf den Garten.",
+                "hu": "A fatornác védelmet és remek kilátást nyújt a kertre.",
+                "ro": "Ceridacul de lemn oferă adăpost și o priveliște frumoasă spre grădină.",
+                "en": "The wooden porch offers shelter and a great view of the garden."
+              }
+            },
+            {
+              "name": "Lakeside Promenade & Lake Techirghiol",
+              "tip_5lang": {
+                "de": "Vorsicht, die Holzstege können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat, a fapallók nedvesen nagyon csúszósak lehetnek.",
+                "ro": "Atenție, pontoanele de lemn pot fi foarte alunecoase când sunt ude.",
+                "en": "Caution, the wooden piers can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Frische Blumendüfte sind nach einem Regenschauer besonders intensiv.",
+                "hu": "A virágillatok különösen intenzívek egy friss zápor után.",
+                "ro": "Parfumul florilor este deosebit de intens după o ploaie proaspătă.",
+                "en": "Flower scents are particularly intense after a fresh rain shower."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich um den See Pfützen bilden können.",
+              "Das Sanatorium ist der beste Ort, um trockene Stunden sinnvoll zu nutzen.",
+              "Die Holzstege am See sind bei Nässe extrem rutschig – Vorsicht beim Gehen.",
+              "Packen Sie einen stabilen Regenschirm ein, da es am See oft windig ist."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a tó körül tócsák alakulhatnak ki.",
+              "A szanatórium a legjobb hely az esős órák hasznos eltöltésére.",
+              "A tóparti fapallók nedvesen rendkívül csúszósak – óvatosan lépkedjen.",
+              "Vigyen erős esernyőt, mert a tóparton gyakran fúj a szél."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pot apărea bălți în jurul lacului.",
+              "Sanatoriul este cel mai bun loc pentru a petrece util orele ploioase.",
+              "Pontoanele de lemn sunt extrem de alunecoase – mergeți cu grijă.",
+              "Luați o umbrelă rezistentă, vântul suflă des pe malul lacului."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles often form around the lake area.",
+              "The Sanatorium is the best place to spend rainy hours productively.",
+              "The wooden piers are extremely slippery when wet – walk with care.",
+              "Carry a sturdy umbrella as it is often windy by the lakeside."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt im schneebedeckten Central Park. Mittags wärmen wir uns bei einer Thermalbehandlung im Sanatorium auf. Am Nachmittag leuchtet das Gold der Klosterkirche im weichen Winterlicht besonders hell. Da die Sonne früh untergeht, genießen wir den Blick auf den dampfenden See bei einem heißen Tee in der Dämmerung.",
+            "hu": "A fagyos reggel a hóval borított Központi Parkban indul. Délben a szanatórium termálvizes kezelései töltenek fel meleggel. Délután a kolostor templomának arany díszítései ragyognak a téli napsütésben. Mivel korán sötétedik, a gőzölgő tó látványát már egy forró tea mellett élvezzük a szürkületben.",
+            "ro": "O dimineață geroasă începe în Parcul Central acoperit de zăpadă. La prânz ne încălzim cu o procedură termală la Sanatoriu. După-amiaza, aurul picturilor din biserica mănăstirii strălucește în lumina blândă de iarnă. Apusul fiind timpuriu, admirăm aburii lacului cu un ceai fierbinte în mână.",
+            "en": "A frosty morning starts in the snow-covered Central Park. At noon, we warm up with a thermal treatment at the Sanatorium. In the afternoon, the monastery's golden murals glow brightly in the soft winter light. Since sunset is early, we enjoy the view of the steaming lake with a hot tea at dusk."
+          },
+          "stops": [
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille des Parks im glitzernden Winterschnee.",
+                "hu": "Élvezze a park csendjét a csillogó téli hóban.",
+                "ro": "Bucură-te de liniștea parcului sub zăpada sclipitoare de iarnă.",
+                "en": "Enjoy the silence of the park in the glittering winter snow."
+              }
+            },
+            {
+              "name": "Saint Elijah the Prophet Church",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für einen Moment der Ruhe und Besinnung.",
+                "hu": "Meleg menedék egy pillanatnyi csendre és imára.",
+                "ro": "Un refugiu călduros pentru un moment de liniște și rugăciune.",
+                "en": "A warm refuge for a moment of silence and prayer."
+              }
+            },
+            {
+              "name": "Balneological Sanatorium",
+              "tip_5lang": {
+                "de": "Die beste Zeit für warme Bäder und intensive Pflegeanwendungen.",
+                "hu": "A legjobb időszak a meleg fürdőkre és intenzív ápolásra.",
+                "ro": "Cea mai bună perioadă pentru băi calde și tratamente intensive.",
+                "en": "The best period for warm baths and intensive care treatments."
+              }
+            },
+            {
+              "name": "Tekir's Statue",
+              "tip_5lang": {
+                "de": "Tekir sieht mit einer kleinen Schneehaube besonders charmant aus.",
+                "hu": "Tekir egy kis hósapkával a fején különösen bájos látvány.",
+                "ro": "Tekir arată foarte simpatic cu o mică căciulă de zăpadă.",
+                "en": "Tekir looks very charming with a small snow cap on his head."
+              }
+            },
+            {
+              "name": "Saint Mary Monastery",
+              "tip_5lang": {
+                "de": "Die Holzkirche strahlt im Winter eine ganz besondere Wärme aus.",
+                "hu": "A fatemplom télen különleges, meghitt meleget áraszt.",
+                "ro": "Biserica de lemn emană o căldură specială și liniște iarna.",
+                "en": "The wooden church exudes a special, cozy warmth in winter."
+              }
+            },
+            {
+              "name": "Lakeside Promenade & Lake Techirghiol",
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie der See bei extremer Kälte mystisch dampft.",
+                "hu": "Figyelje meg, ahogy a tó titokzatosan gőzölög a nagy hidegben.",
+                "ro": "Observă cum lacul aburește mistic în zilele de ger năprasnic.",
+                "en": "Watch the lake steaming mystically on extremely cold days."
+              }
+            },
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Ein kurzer, erfrischender Spaziergang durch die winterliche Anlage.",
+                "hu": "Egy rövid, frissítő séta a téli park növényei között.",
+                "ro": "O plimbare scurtă și revigorantă prin grădina de iarnă.",
+                "en": "A short, refreshing stroll through the winter garden grounds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip, um im Sanatorium nicht zu schwitzen.",
+              "Die Sonne geht gegen 16:30 Uhr unter – planen Sie Outdoor-Aktivitäten früh.",
+              "Der Wind vom See kann eisig sein; Mütze und Handschuhe sind Pflicht.",
+              "Probieren Sie lokale Teespezialitäten in den Cafés zum Aufwärmen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, hogy a szanatóriumban ne legyen melege.",
+              "A nap 16:30 körül nyugszik – tervezze korábbra a kinti programokat.",
+              "A tavi szél jeges lehet, a sapka és kesztyű kötelező kiegészítő.",
+              "Kóstolja meg a helyi teákat a kávézókban a felmelegedéshez."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru a nu transpira în interiorul sanatoriului.",
+              "Soarele apune în jur de 16:30 – planificați activitățile externe devreme.",
+              "Vântul de pe lac poate fi tăios; căciula și mănușile sunt obligatorii.",
+              "Încercați specialitățile locale de ceai în cafenele pentru încălzire."
+            ],
+            "en": [
+              "Dress in layers so you don't overheat inside the sanatorium.",
+              "Sunset is around 4:30 PM – plan outdoor activities for early hours.",
+              "The wind from the lake can be icy; a hat and gloves are mandatory.",
+              "Try local tea specialties in the cafés to warm up during breaks."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +966,206 @@
           "The promenade is flat and ideal for a relaxed ride, but watch out for pedestrians.",
           "A water bottle is essential on a bike tour."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir die Tour im Central Park. Die Wege sind fest, aber wir fahren vorsichtig. Mittags stellen wir die Räder am Sanatorium sicher unter und genießen die Wärme. Nachmittags geht es weiter zum Kloster, wo wir im Schutz der Gebäude rasten. Der Tag endet mit einer schnellen Runde am Ufer, bevor wir uns ins Trockene zurückziehen.",
+            "hu": "Az eső ellenére a Központi Parkban kezdünk. Az utak szilárdak, de óvatosan haladunk. Délben a szanatóriumnál biztonságos helyre tesszük a bringákat és élvezzük a meleget. Délután a kolostor felé tekerünk, ahol az épületek oltalmat adnak. A napot egy gyors tóparti körrel zárjuk, mielőtt visszatérnénk a szárazra.",
+            "ro": "În ciuda ploii, începem tura în Parcul Central. Aleile sunt ferme, dar pedalăm cu grijă. La prânz parcăm bicicletele la adăpost la Sanatoriu și ne bucurăm de căldură. După-amiaza continuăm spre mănăstire, unde clădirile ne oferă protecție. Ziua se încheie cu o tură rapidă pe mal înainte de a ne retrage la uscat.",
+            "en": "Despite the rain, we start the tour in Central Park. Paths are firm, but we cycle carefully. At noon, we park the bikes securely under cover at the Sanatorium and enjoy the warmth. In the afternoon, we ride to the monastery, resting under the shelter of the buildings. The day ends with a quick lakeside lap before retreating to the dry."
+          },
+          "stops": [
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor nassen Blättern auf den asphaltierten Wegen.",
+                "hu": "Vigyázzon a vizes levelekre az aszfaltozott utakon.",
+                "ro": "Atenție la frunzele ude pe aleile asfaltate din parc.",
+                "en": "Watch out for wet leaves on the paved paths in the park."
+              }
+            },
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für eine kurze Fahrt, wenn der Regen nachlässt.",
+                "hu": "Szép hely egy rövid tekerésre, ha alábbhagy az eső.",
+                "ro": "Un loc frumos pentru o scurtă tură când ploaia se mai oprește.",
+                "en": "A nice place for a short ride if the rain lets up."
+              }
+            },
+            {
+              "name": "Balneological Sanatorium",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach am Eingang ab.",
+                "hu": "Támassza le a kerékpárt a bejáratnál lévő előtető alatt.",
+                "ro": "Parchează bicicleta sub copertina de la intrare.",
+                "en": "Park your bike under the awning at the entrance."
+              }
+            },
+            {
+              "name": "Lakeside Promenade (Start)",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt auf nasser Fahrbahn.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a vizes aszfalton.",
+                "ro": "Verifică frânele înainte de a pleca pe carosabilul umed.",
+                "en": "Check your brakes before setting off on wet pavement."
+              }
+            },
+            {
+              "name": "Saint Mary Monastery",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Rastplatz für eine Pause.",
+                "hu": "Használja a fedett pihenőhelyet egy kis szünetre.",
+                "ro": "Folosește locul de odihnă acoperit pentru o pauză.",
+                "en": "Use the covered resting area for a short break."
+              }
+            },
+            {
+              "name": "Lunch by the lake",
+              "tip_5lang": {
+                "de": "Ein warmes Mittagessen ist der beste Energielieferant bei Regen.",
+                "hu": "Egy meleg ebéd a legjobb energiaforrás esős időben.",
+                "ro": "Un prânz cald este cea mai bună sursă de energie pe ploaie.",
+                "en": "A warm lunch is the best energy source during rainy weather."
+              }
+            },
+            {
+              "name": "Lakeside Circuit",
+              "tip_5lang": {
+                "de": "Schutzbleche sind heute Ihr bester Freund gegen Spritzwasser.",
+                "hu": "A sárvédők ma a legjobb barátai a felfröccsenő víz ellen.",
+                "ro": "Apărătorile sunt cei mai buni prieteni împotriva stropirii azi.",
+                "en": "Mudguards are your best friend against splashing water today."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und wasserfeste Überhosen.",
+              "Vermeiden Sie abrupte Bremsmanöver auf der nassen Uferpromenade.",
+              "Sichern Sie Ihr Rad an beleuchteten Stellen, wenn es früher dunkel wird.",
+              "Ein kleiner Lappen zum Trocknen des Sattels ist sehr hilfreich."
+            ],
+            "hu": [
+              "Viseljen teljes esődzsekit és vízálló nadrágot a tekeréshez.",
+              "Kerülje a hirtelen fékezést a vizes tóparti sétányon.",
+              "Zárja le a biciklit kivilágított helyen, ha hamar sötétedik.",
+              "Egy kis rongy a nyereg letörléséhez nagyon hasznos lehet."
+            ],
+            "ro": [
+              "Poartă pelerină de ploaie completă și pantaloni impermeabili.",
+              "Evită frânarea bruscă pe faleza umedă a lacului.",
+              "Asigură bicicleta în locuri luminate dacă se întunecă devreme.",
+              "O cârpă mică pentru a șterge șaua este foarte utilă."
+            ],
+            "en": [
+              "Wear a full rain jacket and waterproof trousers for the ride.",
+              "Avoid abrupt braking maneuvers on the wet lakeside promenade.",
+              "Secure your bike in well-lit areas if it gets dark early.",
+              "A small rag to wipe the saddle dry is very helpful."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir durch die klare, kalte Luft im Central Park. Die Reifen knirschen auf dem leichten Frost. Mittags genießen wir die wohlige Wärme im Sanatorium, bevor wir am Nachmittag zum Kloster aufbrechen. Das Licht ist magisch, aber die Kälte zieht an. Wir beenden die Tour mit einer schnellen Runde um den See und wärmen uns danach im Inneren auf.",
+            "hu": "Reggel a tiszta, hideg levegőben tekerünk a Központi Parkban. A gumik ropognak az enyhe fagyon. Délben a szanatórium kellemes melegét élvezzük, mielőtt délután elindulnánk a kolostorhoz. A fények varázslatosak, de a hideg erősödik. A túrát egy gyors tóparti körrel zárjuk, majd bent melegszünk fel.",
+            "ro": "Dimineața pedalăm prin aerul rece și curat din Parcul Central. Anvelopele scrâșnesc pe bruma ușoară. La prânz ne bucurăm de căldura plăcută de la Sanatoriu înainte de a porni spre mănăstire. Lumina e magică, dar frigul se întețește. Încheiem tura cu o buclă rapidă în jurul lacului și ne încălzim la interior.",
+            "en": "In the morning, we cycle through the clear, cold air of Central Park. Tires crunch on the light frost. At noon, we enjoy the cozy warmth at the Sanatorium before setting off for the monastery in the afternoon. The light is magical, but the cold is biting. We finish the tour with a quick lakeside lap and then warm up indoors."
+          },
+          "stops": [
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrorener Nässe in schattigen Bereichen.",
+                "hu": "Vigyázzon a felfagyásokra az árnyékosabb útszakaszokon.",
+                "ro": "Atenție la porțiunile înghețate în zonele umbrite.",
+                "en": "Watch out for black ice in shaded areas of the park."
+              }
+            },
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Die Wege sind meist geräumt, aber fahren Sie dennoch vorsichtig.",
+                "hu": "Az utak többnyire takarítottak, de haladjon óvatosan.",
+                "ro": "Aleile sunt de obicei curățate, dar pedalează cu prudență.",
+                "en": "Paths are mostly cleared, but still cycle with caution."
+              }
+            },
+            {
+              "name": "Balneological Sanatorium",
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp, um die eingefrorenen Finger aufzuwärmen.",
+                "hu": "Tökéletes megálló az átfagyott ujjak felmelegítésére.",
+                "ro": "Un popas perfect pentru a-ți încălzi degetele înghețate.",
+                "en": "A perfect stop to warm up frozen fingers."
+              }
+            },
+            {
+              "name": "Lakeside Promenade (Start)",
+              "tip_5lang": {
+                "de": "Die salzige Luft am See kann sich bei Frost noch kälter anfühlen.",
+                "hu": "A sós tóparti levegő fagyban még hidegebbnek érződhet.",
+                "ro": "Aerul sărat de pe mal se poate simți și mai rece pe ger.",
+                "en": "The salty lakeside air can feel even colder during frost."
+              }
+            },
+            {
+              "name": "Saint Mary Monastery",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast der dunklen Holzkirche zum weißen Schnee.",
+                "hu": "Élvezze a sötét fatemplom és a fehér hó kontrasztját.",
+                "ro": "Admiră contrastul dintre biserica neagră de lemn și zăpadă.",
+                "en": "Enjoy the contrast of the dark wooden church against the snow."
+              }
+            },
+            {
+              "name": "Lunch by the lake",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Blick auf den dampfenden See.",
+                "hu": "Válasszon egy éttermet, ahonnan látni a gőzölgő tavat.",
+                "ro": "Alege un restaurant cu vedere spre lacul care aburește.",
+                "en": "Choose a restaurant with a view of the steaming lake."
+              }
+            },
+            {
+              "name": "Lakeside Circuit",
+              "tip_5lang": {
+                "de": "Beleuchtung einschalten! In der Dämmerung ist Sichtbarkeit wichtig.",
+                "hu": "Kapcsolja be a lámpákat! Szürkületben fontos a láthatóság.",
+                "ro": "Aprinde luminile! Vizibilitatea este crucială la amurg.",
+                "en": "Turn on your lights! Visibility is crucial at dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe und warme Socken sind beim Radeln essenziell.",
+              "Achten Sie auf vereiste Stellen, besonders in Kurven am Ufer.",
+              "Der Akku Ihres E-Bikes entlädt sich bei Kälte deutlich schneller.",
+              "Planen Sie kürzere Etappen ein, um nicht zu stark auszukühlen."
+            ],
+            "hu": [
+              "A szélálló kesztyű és meleg zokni elengedhetetlen a tekeréshez.",
+              "Ügyeljen a jeges foltokra, különösen a tóparti kanyarokban.",
+              "Az elektromos kerékpár akkumulátora hidegben gyorsabban merül.",
+              "Tervezzen rövidebb szakaszokat, hogy ne hűljön ki túlságosan."
+            ],
+            "ro": [
+              "Mănușile rezistente la vânt și șosetele groase sunt esențiale.",
+              "Atenție la zonele cu gheață, mai ales în curbele de pe mal.",
+              "Bateria bicicletei electrice se descarcă mult mai repede la ger.",
+              "Planifică etape mai scurte pentru a nu te răci prea tare."
+            ],
+            "en": [
+              "Windproof gloves and warm socks are essential for winter cycling.",
+              "Watch out for icy patches, especially in curves along the shore.",
+              "Your e-bike battery will drain significantly faster in the cold.",
+              "Plan shorter stages to avoid getting too chilled during the ride."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1522,188 @@
           "Allow enough time for traffic, especially in high season.",
           "Combine car rides with walks for the best experience."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag lässt sich im Auto entspannt meistern. Wir parken nah am Central Park für einen kurzen Besuch. Mittags verbringen wir viel Zeit im trockenen Sanatorium. Nachmittags fahren wir bequem zum Kloster und genießen die Aussicht aus dem warmen Wagen. Der Abend endet mit einem Blick auf den See, während die Tropfen auf das Autodach trommeln.",
+            "hu": "Az esős nap az autóban kényelmesen telik. Közel parkolunk a Központi Parkhoz egy rövid látogatásra. Délben sok időt töltünk a száraz szanatóriumban. Délután kényelmesen autózunk a kolostorhoz, élvezve a kilátást a meleg kocsiból. A napot a tó látványával zárjuk, miközben az esőcseppek kopognak az autó tetőjén.",
+            "ro": "O zi ploioasă se parcurge relaxat cu mașina. Parcăm aproape de Parcul Central pentru o vizită scurtă. La prânz petrecem mult timp în Sanatoriul uscat. După-amiaza conducem confortabil spre mănăstire, admirând peisajul din mașina caldă. Seara se încheie cu o vedere spre lac, în timp ce stropii bat în plafon.",
+            "en": "A rainy day is easily managed by car. We park close to Central Park for a brief visit. At noon, we spend plenty of time in the dry Sanatorium. In the afternoon, we drive comfortably to the monastery, enjoying the view from the warm car. The evening ends with a lake view as raindrops drum on the car roof."
+          },
+          "stops": [
+            {
+              "name": "City Center Cluster: Parking",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz nah am Gehweg, um Pfützen zu meiden.",
+                "hu": "Keressen a járdához közeli parkolót a tócsák elkerüléséhez.",
+                "ro": "Caută un loc de parcare aproape de trotuar pentru a evita bălțile.",
+                "en": "Look for a parking spot close to the sidewalk to avoid puddles."
+              }
+            },
+            {
+              "name": "Central Park & St. Elijah Church",
+              "tip_5lang": {
+                "de": "Beide Ziele sind nur wenige Schritte vom Parkplatz entfernt.",
+                "hu": "Mindkét célpont csak pár lépésre van a parkolótól.",
+                "ro": "Ambele obiective sunt la doar câțiva pași de parcare.",
+                "en": "Both destinations are just a few steps away from the parking."
+              }
+            },
+            {
+              "name": "Balneological Sanatorium",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Gästeparkplatz direkt vor dem Haupteingang.",
+                "hu": "Használja a vendégparkolót közvetlenül a főbejáratnál.",
+                "ro": "Folosește parcarea pentru vizitatori chiar în fața intrării.",
+                "en": "Use the visitor parking directly in front of the main entrance."
+              }
+            },
+            {
+              "name": "Lakeside Cluster: Monastery & Statue",
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie einen guten Blick, auch bei Regen.",
+                "hu": "A parkolóból is jó a rálátás, még esőben is.",
+                "ro": "Din parcare ai o vedere bună chiar și pe ploaie.",
+                "en": "You have a good view from the parking lot, even in the rain."
+              }
+            },
+            {
+              "name": "Lunch and stroll on the promenade",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Restaurant, um trocken zu bleiben.",
+                "hu": "Parkoljon közvetlenül az étteremnél, hogy száraz maradjon.",
+                "ro": "Parchează direct lângă restaurant pentru a rămâne uscat.",
+                "en": "Park directly by the restaurant to stay dry."
+              }
+            },
+            {
+              "name": "Lake Techirghiol Viewpoint",
+              "tip_5lang": {
+                "de": "Genießen Sie das Panorama bequem durch die Frontscheibe.",
+                "hu": "Élvezze a panorámát kényelmesen a szélvédőn keresztül.",
+                "ro": "Bucură-te de panoramă confortabil prin parbriz.",
+                "en": "Enjoy the panorama comfortably through the windshield."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schalten Sie die Klimaanlage ein, um das Beschlagen der Scheiben zu verhindern.",
+              "Fahren Sie bei Regen vorsichtiger, da die Straßen schmierig sein können.",
+              "Nutzen Sie Park-Apps, um das Bezahlen im Regen zu vermeiden.",
+              "Halten Sie an Aussichtspunkten an, um den See im Regen zu fotografieren."
+            ],
+            "hu": [
+              "Kapcsolja be a klímát a szélvédő párásodásának megelőzésére.",
+              "Vezessen óvatosabban, mert az utak csúszósak lehetnek az esőtől.",
+              "Használjon parkoló automatát vagy appot, hogy ne ázzon meg fizetéskor.",
+              "Álljon meg a kilátópontoknál egy esős tavi fotóra a kocsiból."
+            ],
+            "ro": [
+              "Pornește aerul condiționat pentru a preveni aburirea parbrizului.",
+              "Condu cu prudență, drumurile pot fi alunecoase din cauza ploii.",
+              "Folosește aplicații de parcare pentru a nu sta în ploaie la tonomat.",
+              "Oprește la punctele de belvedere pentru poze cu lacul din mașină."
+            ],
+            "en": [
+              "Turn on the AC to prevent the windshield from fogging up.",
+              "Drive more carefully as roads can be greasy during rain.",
+              "Use parking apps to avoid standing in the rain to pay.",
+              "Stop at viewpoints to photograph the lake from your car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen beginnt mit freier Sicht durch die beheizte Scheibe. Wir parken am frostigen Central Park. Mittags genießen wir die Wärme des Sanatoriums in vollen Zügen. Nachmittags geht es zum Kloster, das im Winterlicht glänzt. Den frühen Sonnenuntergang erleben wir am Aussichtspunkt über dem See, bevor es zurück ins Warme geht.",
+            "hu": "A téli reggel tiszta kilátással indul a fűtött szélvédő mögül. A fagyos Központi Parknál parkolunk. Délben a szanatórium melegét élvezzük ki teljesen. Délután a kolostor felé vesszük az irányt, amely ragyog a téli napfényben. A korai naplementét a tó feletti kilátópontnál várjuk meg, majd irány a meleg.",
+            "ro": "O dimineață de iarnă începe cu vizibilitate bună prin parbrizul încălzit. Parcăm la Parcul Central înghețat. La prânz ne bucurăm din plin de căldura Sanatoriului. După-amiaza mergem spre mănăstire, care strălucește în lumina iernii. Apusul timpuriu ne prinde la punctul de belvedere, apoi ne retragem la căldură.",
+            "en": "A winter morning starts with a clear view through the heated windshield. We park by the frosty Central Park. At noon, we enjoy the warmth of the Sanatorium to the fullest. In the afternoon, we head to the monastery, glowing in the winter light. We catch the early sunset at the viewpoint above the lake before heading back to the warm."
+          },
+          "stops": [
+            {
+              "name": "City Center Cluster: Parking",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Parkplatzflächen.",
+                "hu": "Ügyeljen a jegesedésre a parkoló területén.",
+                "ro": "Atenție la polei pe suprafața parcării.",
+                "en": "Watch out for black ice on the parking surfaces."
+              }
+            },
+            {
+              "name": "Central Park & St. Elijah Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem kurzen Winterspaziergang.",
+                "hu": "Használja az ülésfűtést a rövid téli séta után.",
+                "ro": "Folosește încălzirea în scaune după scurta plimbare de iarnă.",
+                "en": "Use the seat heating after your short winter stroll."
+              }
+            },
+            {
+              "name": "Balneological Sanatorium",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist meist geräumt und gut zugänglich.",
+                "hu": "A parkoló többnyire takarított és jól megközelíthető.",
+                "ro": "Parcarea este de obicei deszăpezită și accesibilă.",
+                "en": "The parking lot is usually cleared and easily accessible."
+              }
+            },
+            {
+              "name": "Lakeside Cluster: Monastery & Statue",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Kloster im weichen Winterlicht.",
+                "hu": "Élvezze a kolostor látványát a lágy téli fényekben.",
+                "ro": "Admiră vederea spre mănăstire în lumina blândă de iarnă.",
+                "en": "Enjoy the view of the monastery in the soft winter light."
+              }
+            },
+            {
+              "name": "Lunch and stroll on the promenade",
+              "tip_5lang": {
+                "de": "Einige Parkplätze direkt am Ufer sind im Winter gesperrt.",
+                "hu": "Néhány tóparti parkoló télen le lehet zárva.",
+                "ro": "Unele parcări de pe mal pot fi închise iarna.",
+                "en": "Some lakeside parking spots might be closed in winter."
+              }
+            },
+            {
+              "name": "Lake Techirghiol Viewpoint",
+              "tip_5lang": {
+                "de": "Der beste Ort für Fotos vom Sonnenuntergang aus dem Auto.",
+                "hu": "A legjobb hely a naplemente fotózására az autóból.",
+                "ro": "Cel mai bun loc pentru poze la apus direct din mașină.",
+                "en": "The best place for sunset photos from your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind Pflicht, da die Straßen zum See glatt sein können.",
+              "Halten Sie Enteiser-Spray für die Schlösser und Scheiben bereit.",
+              "Die tiefstehende Wintersonne kann beim Fahren stark blenden.",
+              "Prüfen Sie vorab die Öffnungszeiten des Sanatoriums im Winter."
+            ],
+            "hu": [
+              "A téli gumi kötelező, mert a tóhoz vezető utak jegesek lehetnek.",
+              "Legyen kéznél jégoldó spray a zárakhoz és az ablakokhoz.",
+              "Az alacsonyan járó téli nap vezetés közben erősen vakíthat.",
+              "Ellenőrizze előre a szanatórium téli nyitvatartását."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii, drumurile pot fi alunecoase.",
+              "Ține la îndemână spray de dezghețare pentru încuietori și geamuri.",
+              "Soarele de iarnă aflat jos poate fi orbitor în timpul condusului.",
+              "Verifică din timp programul de iarnă al sanatoriului."
+            ],
+            "en": [
+              "Winter tires are mandatory as roads to the lake can be icy.",
+              "Keep de-icer spray handy for the locks and windows.",
+              "The low-lying winter sun can be very blinding while driving.",
+              "Check the sanatorium's winter opening hours in advance."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2036,170 @@
           "Be at the bus stop on time, especially for less frequent lines.",
           "The combination of bus and walking is ideal for a small town like Techirghiol."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir bequem das Zentrum. Bei Regen nutzen wir die überdachten Haltestellen. Mittags wärmen wir uns im Sanatorium auf. Nachmittags bringt uns der Bus zum Seeufer, wo wir das Kloster besuchen. Den Tag lassen wir entspannt ausklingen, während wir vom Busfenster aus das herbstliche Treiben im Regen beobachten.",
+            "hu": "Busszal kényelmesen elérjük a központot. Esőben használjuk a fedett buszmegállókat. Délben a szanatóriumban melegszünk fel. Délután a busz kivisz a tópartra, ahol meglátogatjuk a kolostort. A napot pihentetően zárjuk, a busz ablakából figyelve az esős, őszi tájat.",
+            "ro": "Cu autobuzul ajungem confortabil în centru. Pe ploaie folosim stațiile acoperite. La prânz ne încălzim la Sanatoriu. După-amiaza autobuzul ne duce pe malul lacului, unde vizităm mănăstirea. Încheiem ziua relaxat, observând peisajul ploios de toamnă de la geamul autobuzului.",
+            "en": "We reach the center comfortably by bus. In the rain, we use the covered bus stops. At noon, we warm up at the Sanatorium. In the afternoon, the bus takes us to the lakeside where we visit the monastery. We end the day relaxedly, watching the rainy autumn landscape from the bus window."
+          },
+          "stops": [
+            {
+              "name": "Arrival in the Center",
+              "tip_5lang": {
+                "de": "Die Haltestellen im Zentrum sind meist überdacht.",
+                "hu": "A központi buszmegállók többnyire fedettek.",
+                "ro": "Stațiile din centru sunt în mare parte acoperite.",
+                "en": "The bus stops in the center are mostly covered."
+              }
+            },
+            {
+              "name": "Walk: Park, Church & Sanatorium",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Zielen minimieren die Zeit im Regen.",
+                "hu": "A célpontok közti rövid távolság csökkenti az esőben töltött időt.",
+                "ro": "Distanțele scurte între obiective reduc timpul petrecut în ploaie.",
+                "en": "Short distances between sights minimize time spent in the rain."
+              }
+            },
+            {
+              "name": "Bus ride to the lakeside",
+              "tip_5lang": {
+                "de": "Ein trockener Moment, um sich für die nächste Etappe auszuruhen.",
+                "hu": "Egy száraz pillanat a pihenésre a következő szakasz előtt.",
+                "ro": "Un moment uscat pentru odihnă înaintea următoarei etape.",
+                "en": "A dry moment to rest before the next part of the trip."
+              }
+            },
+            {
+              "name": "Walk: Monastery, Statue & Lunch",
+              "tip_5lang": {
+                "de": "Der Weg zur Mänăstirea ist gut befestigt und weniger matschig.",
+                "hu": "A kolostorhoz vezető út jól kiépített és kevésbé saras.",
+                "ro": "Drumul spre mănăstire este bine amenajat și mai puțin noroios.",
+                "en": "The road to the monastery is well-paved and less muddy."
+              }
+            },
+            {
+              "name": "Relaxation on the Lakeside Promenade",
+              "tip_5lang": {
+                "de": "Cafés in der Nähe der Haltestellen bieten idealen Schutz.",
+                "hu": "A megállók közeli kávézók ideális menedéket nyújtanak.",
+                "ro": "Cafenelele de lângă stații oferő adăpostul ideal.",
+                "en": "Cafés near the stops offer ideal shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan vorab, um lange Wartezeiten im Regen zu vermeiden.",
+              "Tragen Sie bei der Busfahrt Kleidung, die schnell trocknet.",
+              "Halten Sie Kleingeld oder eine Karte für das Ticket bereit.",
+              "Die Busse sind in der Regel gut beheizt und bieten Schutz vor Nässe."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet, hogy elkerülje a hosszú várakozást az esőben.",
+              "Viseljen gyorsan száradó ruházatot a buszozáshoz.",
+              "Legyen kéznél aprópénz vagy kártya a jegyvásárláshoz.",
+              "A buszok általában jól fűtöttek és védelmet nyújtanak a nedvesség ellen."
+            ],
+            "ro": [
+              "Verifică programul pentru a evita așteptarea lungă în ploaie.",
+              "Poartă haine care se usucă repede pentru călătoria cu autobuzul.",
+              "Ține la îndemână mărunțiș sau cardul pentru bilet.",
+              "Autobuzele sunt de regulă bine încălzite și oferă protecție."
+            ],
+            "en": [
+              "Check the schedule beforehand to avoid long waits in the rain.",
+              "Wear quick-drying clothing for your bus journey.",
+              "Keep loose change or a card ready for ticket purchase.",
+              "The buses are generally well-heated and provide shelter from wet weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem kalten Wintertag bringt uns der beheizte Bus ins Herz von Techirghiol. Wir spazieren kurz durch den frostigen Park. Mittags wärmen wir uns bei den Behandlungen im Sanatorium auf. Nachmittags fahren wir zum See und besuchen das Kloster. Die Rückfahrt im Bus ist der perfekte Moment, um die winterliche Ruhe der Stadt zu genießen.",
+            "hu": "Egy hideg téli napon a fűtött busz visz be Techirghiol szívébe. Rövid sétát teszünk a fagyos parkban. Délben a szanatóriumi kezelések alatt melegszünk fel. Délután a tóhoz buszozunk és meglátogatjuk a kolostort. A hazaút a buszon tökéletes alkalom a város téli nyugalmának megfigyelésére.",
+            "ro": "Într-o zi rece de iarnă, autobuzul încălzit ne duce în inima orașului Techirghiol. Ne plimbăm scurt prin parcul înghețat. La prânz ne încălzim în timpul tratamentelor de la Sanatoriu. După-amiaza mergem cu autobuzul la lac și vizităm mănăstirea. Întoarcerea cu autobuzul e momentul ideal pentru a admira liniștea de iarnă.",
+            "en": "On a cold winter day, the heated bus brings us to the heart of Techirghiol. We take a short walk through the frosty park. At noon, we warm up during the treatments at the Sanatorium. In the afternoon, we take the bus to the lake and visit the monastery. The bus ride back is the perfect moment to enjoy the winter stillness of the town."
+          },
+          "stops": [
+            {
+              "name": "Arrival in the Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Warteraum, falls vorhanden.",
+                "hu": "Használja a fűtött várótermet, ha rendelkezésre áll.",
+                "ro": "Folosește sala de așteptare încălzită, dacă este disponibilă.",
+                "en": "Use the heated waiting room if available at the station."
+              }
+            },
+            {
+              "name": "Walk: Park, Church & Sanatorium",
+              "tip_5lang": {
+                "de": "Zügiges Gehen hält Sie zwischen den Stationen warm.",
+                "hu": "A tempós gyaloglás melegen tart az állomások között.",
+                "ro": "Mersul vioi te menține cald între stații.",
+                "en": "Brisk walking keeps you warm between the stops."
+              }
+            },
+            {
+              "name": "Bus ride to the lakeside",
+              "tip_5lang": {
+                "de": "Genießen Sie die wohlige Wärme im Inneren des Busses.",
+                "hu": "Élvezze a kellemes meleget a busz belsejében.",
+                "ro": "Bucură-te de căldura plăcută din interiorul autobuzului.",
+                "en": "Enjoy the cozy warmth inside the bus during the ride."
+              }
+            },
+            {
+              "name": "Walk: Monastery, Statue & Lunch",
+              "tip_5lang": {
+                "de": "Das Kloster bietet einen windgeschützten Innenhof.",
+                "hu": "A kolostor szélvédett belső udvart kínál.",
+                "ro": "Mănăstirea oferă o curte interioară ferită de vânt.",
+                "en": "The monastery offers a courtyard sheltered from the wind."
+              }
+            },
+            {
+              "name": "Relaxation on the Lakeside Promenade",
+              "tip_5lang": {
+                "de": "Warten Sie in einem nahegelegenen Laden auf den nächsten Bus.",
+                "hu": "Várja a következő buszt egy közeli üzlet melegében.",
+                "ro": "Așteaptă următorul autobuz în căldura unui magazin din apropiere.",
+                "en": "Wait for the next bus in the warmth of a nearby shop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In der Winterzeit können die Busfrequenzen reduziert sein – Fahrplan prüfen.",
+              "Achten Sie auf rutschige Stufen beim Ein- und Aussteigen.",
+              "Warme Kleidung ist wichtig, da es an den Haltestellen ziehen kann.",
+              "Nutzen Sie die App 'Transport Techirghiol' für Echtzeit-Infos, falls verfügbar."
+            ],
+            "hu": [
+              "Télen ritkábbak lehetnek a buszjáratok – ellenőrizze a menetrendet.",
+              "Vigyázzon a csúszós lépcsőkre a fel- és leszálláskor.",
+              "A meleg ruházat fontos, mert a megállókban huzat lehet.",
+              "Használja a helyi közlekedési appot a valós idejű infókért."
+            ],
+            "ro": [
+              "Iarna frecvența autobuzelor poate fi redusă – verifică programul.",
+              "Atenție la treptele alunecoase la urcare și coborâre.",
+              "Hainele groase sunt importante, în stații poate fi curent.",
+              "Folosește aplicația de transport local pentru informații în timp real."
+            ],
+            "en": [
+              "Bus frequencies may be reduced during winter – check the schedule.",
+              "Watch out for slippery steps when boarding and exiting.",
+              "Warm clothing is important as bus stops can be drafty.",
+              "Use the local transport app for real-time information if available."
+            ]
+          }
+        }
       }
     }
   }

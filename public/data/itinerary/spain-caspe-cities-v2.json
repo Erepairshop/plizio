@@ -402,6 +402,214 @@
           "Siesta time is respected; many shops may close in the early afternoon.",
           "Ask for the 'Menú del Día' in restaurants for a great value lunch."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Plaza de España, wo die Arkaden Schutz vor dem Regen bieten. Mittags erkunden wir die Stiftskirche und das Schloss, deren massive Mauern uns trocken halten. Am Nachmittag bietet das Museum der Autonomie eine ideale kulturelle Flucht ins Warme. Den Abend lassen wir in einem gemütlichen Lokal in der Altstadt ausklingen, während draußen der Regen fällt.",
+            "hu": "A reggel a Plaza de España árkádjai alatt indul, amelyek kiváló menedéket nyújtanak az eső ellen. Délben a monumentális templom és a vár vastag falai között kalandozunk, szárazon maradva. Délután az Autonómia Múzeuma kínál tartalmas, fedett programot a város szívében. Az estét egy hangulatos belvárosi étteremben zárjuk, hallgatva az eső kopogását a régi köveken.",
+            "ro": "Dimineața începe în Plaza de España, unde arcadele oferă un adăpost excelent împotriva ploii. La prânz, explorăm biserica colegială și castelul, ale căror ziduri masive ne mențin uscați. După-amiaza, Muzeul Autononiei oferă o escapadă culturală ideală la căldură. Seara se încheie într-un local primitor din centrul vechi, în timp ce afară ploaia cade pe străzile istorice.",
+            "en": "Morning starts at Plaza de España, where the arches provide excellent shelter from the rain. At noon, we explore the collegiate church and the castle, whose massive walls keep us perfectly dry. In the afternoon, the Museum of Autonomy offers an ideal cultural escape indoors. We conclude the evening in a cozy old town restaurant while the rain falls on the historic streets."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Nutzen Sie die historischen Arkaden als Regenschutz.",
+                "hu": "Használja a történelmi árkádokat eső elleni védelemként.",
+                "ro": "Folosiți arcadele istorice ca adăpost împotriva ploii.",
+                "en": "Use the historic arches as shelter from the rain."
+              }
+            },
+            {
+              "name": "Collegiate Church of St. Mary the Major",
+              "tip_5lang": {
+                "de": "Bewundern Sie das gotische Interieur ganz im Trockenen.",
+                "hu": "Csodálja meg a gótikus belsőt teljesen szárazon.",
+                "ro": "Admirați interiorul gotic stând la adăpost.",
+                "en": "Admire the Gothic interior while staying completely dry."
+              }
+            },
+            {
+              "name": "Castle of the Compromise",
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten perfekten Schutz vor Schauern.",
+                "hu": "A vastag falak tökéletes védelmet nyújtanak a záporok ellen.",
+                "ro": "Zidurile groase oferă protecție perfectă împotriva ploii.",
+                "en": "The thick walls provide perfect protection from showers."
+              }
+            },
+            {
+              "name": "Salamanca Tower",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Außentreppen zum Turm.",
+                "hu": "Vigyázzon a toronyhoz vezető nedves külső lépcsőkön.",
+                "ro": "Atenție la scările exterioare umede spre turn.",
+                "en": "Be careful on the wet outdoor stairs to the tower."
+              }
+            },
+            {
+              "name": "Museum of Aragonese Autonomy",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen starken Regenguss abzuwarten.",
+                "hu": "Tökéletes hely egy nagyobb zápor átvészelésére.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "Perfect place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Hermitage of Santa María de Horta",
+              "tip_5lang": {
+                "de": "Der Eingangsbereich bietet einen kurzen Unterstand.",
+                "hu": "A bejárati rész rövid ideig menedéket nyújt.",
+                "ro": "Zona de intrare oferă un scurt adăpost.",
+                "en": "The entrance area provides a brief shelter."
+              }
+            },
+            {
+              "name": "Mausoleum of Miralpeix",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschigen Untergrund beim Denkmal.",
+                "hu": "Vigyázzon a csúszós talajra az emlékműnél.",
+                "ro": "Atenție la terenul alunecos de lângă monument.",
+                "en": "Watch out for slippery ground near the monument."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster Pfützen bildet.",
+              "Die Arkaden am Plaza de España sind Ihr bester Freund bei Wind und Regen.",
+              "Planen Sie mehr Zeit für die Innenbesichtigung des Schlosses ein.",
+              "Ein Taschenschirm ist wegen des Windes oft praktischer als ein Poncho.",
+              "Nutzen Sie die Mittagspause in einem der Restaurants am Hauptplatz."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskaköveken megáll a víz.",
+              "A Plaza de España árkádjai a legjobb barátai szélben és esőben.",
+              "Töltsön több időt a vár és a templom belső tereinek felfedezésével.",
+              "A szél miatt egy kompakt esernyő praktikusabb lehet, mint az esőkabát.",
+              "Használja ki az ebédszünetet a főtér fedett teraszain."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul reține apa în bălți.",
+              "Arcadele din Plaza de España sunt cel mai bun aliat pe vânt și ploaie.",
+              "Alocați mai mult timp pentru vizitarea interiorului castelului.",
+              "O umbrelă compactă este adesea mai practică decât o pelerină din cauza vântului.",
+              "Savurați prânzul într-unul dintre restaurantele cu arcade din piață."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles form easily on the cobblestones.",
+              "The arches at Plaza de España are your best friend in wind and rain.",
+              "Allocate more time for exploring the interior of the castle.",
+              "A compact umbrella is often more practical than a poncho due to wind.",
+              "Take a long lunch break in one of the sheltered square restaurants."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen glänzt Caspe in der kalten Luft. Mittags wärmen wir uns in der beeindruckenden Stiftskirche und im geschichtsträchtigen Schloss auf. Der Nachmittag gehört dem Salamanca-Turm, um das goldene Licht vor dem frühen Sonnenuntergang einzufangen. Den Abend verbringen wir bei herzhafter aragonesischer Küche und einem guten lokalen Wein in einer warmen Stube.",
+            "hu": "Egy tiszta téli reggelen Caspe ragyog a csípős levegőben. Délben a monumentális templom és a történelmi vár belső tereiben melegszünk fel. A délutáni órákat a Salamanca-toronynak szenteljük, hogy elcsípjük az aranyló fényeket a korai naplemente előtt. Az estét kiadós aragóniai fogásokkal és egy pohár helyi borral zárjuk egy meleg vendéglőben.",
+            "ro": "Într-o dimineață senină de iarnă, Caspe strălucește în aerul rece. La prânz, ne încălzim în interiorul bisericii colegiale și al castelului istoric. După-amiaza este dedicată Turnului Salamanca pentru a surprinde lumina aurie înainte de apusul timpuriu. Seara o petrecem savurând preparate aragoneze consistente și un vin local bun într-un local călduros.",
+            "en": "On a crisp winter morning, Caspe glistens in the cold air. At noon, we warm up inside the impressive collegiate church and the historic castle. The afternoon is dedicated to Salamanca Tower to catch the golden light before the early sunset. We spend the evening enjoying hearty Aragonese cuisine and a good local wine in a warm tavern."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Kaffee in den Arkaden.",
+                "hu": "Élvezzen egy forró kávét az árkádok alatt.",
+                "ro": "Savurați o cafea fierbinte sub arcade.",
+                "en": "Enjoy a hot coffee under the arches."
+              }
+            },
+            {
+              "name": "Collegiate Church of St. Mary the Major",
+              "tip_5lang": {
+                "de": "Drinnen ist es deutlich wärmer als im Cierzo-Wind.",
+                "hu": "Bent lényegesen melegebb van, mint kint a Cierzo szélben.",
+                "ro": "În interior este mult mai cald decât afară în vântul Cierzo.",
+                "en": "It is significantly warmer inside than out in the Cierzo wind."
+              }
+            },
+            {
+              "name": "Castle of the Compromise",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Winterkälte gut draußen.",
+                "hu": "A vastag falak jól kint tartják a téli hideget.",
+                "ro": "Zidurile groase țin bine la distanță frigul iernii.",
+                "en": "The thick walls keep the winter cold out effectively."
+              }
+            },
+            {
+              "name": "Salamanca Tower",
+              "tip_5lang": {
+                "de": "Bester Spot für das Licht des frühen Sonnenuntergangs.",
+                "hu": "A legjobb hely a korai naplemente fényeinek megtekintéséhez.",
+                "ro": "Cel mai bun punct pentru lumina apusului timpuriu.",
+                "en": "Best spot for the early sunset light."
+              }
+            },
+            {
+              "name": "Museum of Aragonese Autonomy",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Ort für Geschichtsliebhaber.",
+                "hu": "Jól fűtött hely a történelem kedvelőinek.",
+                "ro": "Un loc bine încălzit pentru iubitorii de istorie.",
+                "en": "A well-heated place for history enthusiasts."
+              }
+            },
+            {
+              "name": "Hermitage of Santa María de Horta",
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne beleuchtet die Fassade schön.",
+                "hu": "Az alacsonyan járó téli nap szépen megvilágítja a homlokzatot.",
+                "ro": "Soarele de iarnă luminează frumos fațada.",
+                "en": "The low winter sun illuminates the facade beautifully."
+              }
+            },
+            {
+              "name": "Mausoleum of Miralpeix",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist für den Weg am Stausee nötig.",
+                "hu": "Meleg ruházat szükséges a tározó melletti úton.",
+                "ro": "Îmbrăcămintea groasă este necesară pentru drumul spre lac.",
+                "en": "Warm clothing is necessary for the path by the reservoir."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf den Cierzo, einen kalten Nordwestwind in dieser Region.",
+              "Die Sonne geht im Winter gegen 17:30 Uhr unter, planen Sie entsprechend.",
+              "Tragen Sie Kleidung in Schichten, da es im Schatten sehr kühl sein kann.",
+              "Nutzen Sie die Mittagsstunden für die Außenbesichtigungen.",
+              "Viele historische Gebäude haben im Winter leicht verkürzte Öffnungszeiten."
+            ],
+            "hu": [
+              "Vigyázzon a Cierzo-val, ami egy hideg északnyugati szél ebben a régióban.",
+              "A nap télen 17:30 körül nyugszik, tervezzen ennek megfelelően.",
+              "Öltözzön rétegesen, mert az árnyékban nagyon hűvös lehet.",
+              "A déli órákat használja ki a szabadtéri látnivalók megtekintésére.",
+              "Sok történelmi épületnek télen rövidebb a nyitvatartása."
+            ],
+            "ro": [
+              "Atenție la Cierzo, un vânt rece din nord-vest specific acestei regiuni.",
+              "Soarele apune în jur de 17:30 iarna, planificați-vă timpul cu atenție.",
+              "Îmbrăcați-vă în straturi, poate fi foarte răcoare la umbră.",
+              "Profități de orele prânzului pentru vizitele în aer liber.",
+              "Multe clădiri istorice au program de vizitare scurtat pe timp de iarnă."
+            ],
+            "en": [
+              "Watch out for the Cierzo, a cold northwest wind common in this region.",
+              "The sun sets around 5:30 PM in winter; plan your schedule accordingly.",
+              "Dress in layers as it can feel very chilly in the shade.",
+              "Use the midday hours for your outdoor sightseeing.",
+              "Many historic buildings have slightly shorter opening hours in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -782,6 +990,214 @@
           "Bring a bike lock for all stops.",
           "The climbs to the castle and the hermitage require some effort."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig über den nassen Plaza de España zur Stiftskirche. Mittags suchen wir Schutz im Schloss, während die Räder sicher im Trockenen stehen. Nachmittags erkunden wir die abgelegenen Einsiedeleien, wobei wir Pfützen auf den Wegen umfahren. Der Tag endet mit einer erfrischenden Rückfahrt entlang des Ebro, wenn der Regen langsam nachlässt.",
+            "hu": "Reggel óvatosan tekerünk át a vizes Plaza de Españán a templomig. Délben a várban keresünk menedéket, miközben a bringák fedett helyen pihennek. Délután a távolabbi kápolnákat keressük fel, kerülgetve a tócsákat az utakon. A nap az Ebro mentén tett frissítő visszatekeréssel zárul, ahogy az eső lassan csendesedik.",
+            "ro": "Dimineața pedalăm cu atenție prin Plaza de España umedă spre biserică. La prânz căutăm adăpost în castel, lăsând bicicletele într-un loc uscat. După-amiaza explorăm schiturile mai îndepărtate, ocolind bălțile de pe drum. Ziua se încheie cu o întoarcere revigorantă de-a lungul râului Ebro, pe măsură ce ploaia se oprește.",
+            "en": "In the morning, we cycle carefully across the wet Plaza de España to the church. At noon, we seek shelter in the castle while the bikes stay in a dry spot. In the afternoon, we explore the outlying hermitages, navigating around puddles on the paths. The day ends with a refreshing ride back along the Ebro as the rain slowly subsides."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf dem nassen Pflaster.",
+                "hu": "Vigyázzon a fékezéssel a vizes macskakövön.",
+                "ro": "Atenție la frânare pe pavajul umed.",
+                "en": "Be careful when braking on wet cobblestones."
+              }
+            },
+            {
+              "name": "Collegiate Church of St. Mary the Major",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter die Arkaden.",
+                "hu": "Támassza le a bringát az árkádok alá.",
+                "ro": "Lăsați bicicleta sub arcade.",
+                "en": "Park your bike under the arches."
+              }
+            },
+            {
+              "name": "Castle of the Compromise & Salamanca Tower",
+              "tip_5lang": {
+                "de": "Die Anstiege können bei Nässe rutschig sein.",
+                "hu": "Az emelkedők csúszósak lehetnek esőben.",
+                "ro": "Urcările pot fi alunecoase când este ud.",
+                "en": "The climbs can be slippery when wet."
+              }
+            },
+            {
+              "name": "Hermitage of Santa María de Horta",
+              "tip_5lang": {
+                "de": "Der Weg zum Stausee hat einige Pfützen.",
+                "hu": "A tározóhoz vezető úton sok a tócsa.",
+                "ro": "Drumul spre lac are multe bălți.",
+                "en": "The path to the reservoir has many puddles."
+              }
+            },
+            {
+              "name": "Mausoleum of Miralpeix",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Untergrund mit guter Traktion.",
+                "hu": "Használjon jó tapadással rendelkező útvonalat.",
+                "ro": "Folosiți rute cu tracțiune bună.",
+                "en": "Use paths with good traction."
+              }
+            },
+            {
+              "name": "Mar de Aragón (Viewpoint)",
+              "tip_5lang": {
+                "de": "Stimmungsvolle Sicht auf den nebligen See.",
+                "hu": "Hangulatos kilátás a ködös tóra.",
+                "ro": "Vedere spectaculoasă asupra lacului cețos.",
+                "en": "Atmospheric view of the misty lake."
+              }
+            },
+            {
+              "name": "Return to center along the Ebro",
+              "tip_5lang": {
+                "de": "Der Uferweg ist bei Regen sehr erfrischend.",
+                "hu": "A folyóparti út nagyon frissítő esőben.",
+                "ro": "Drumul de pe malul râului este revigorant pe ploaie.",
+                "en": "The riverside path is very refreshing in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesen Wegen unerlässlich.",
+              "Tragen Sie eine komplett wasserdichte Regenjacke und Regenhose.",
+              "Der Wind am Mar de Aragón kann den Regen peitschen lassen.",
+              "Vermeiden Sie riskante Manöver auf den glatten Altstadtgassen.",
+              "Überprüfen Sie Ihre Bremsbeläge vor dem Start der Tour."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ezeken az utakon.",
+              "Viseljen teljesen vízálló esőkabátot és nadrágot.",
+              "A Mar de Aragónnál a szél felerősítheti az esőt.",
+              "Kerülje a hirtelen manővereket a csúszós óvárosi utcákon.",
+              "Indulás előtt ellenőrizze a fékbetéteket."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt esențiale pe aceste drumuri.",
+              "Purtați jachetă și pantaloni complet impermeabili.",
+              "Vântul de la Mar de Aragón poate intensifica senzația de ploaie.",
+              "Evitați manevrele riscante pe străzile alunecoase din orașul vechi.",
+              "Verificați saboții de frână înainte de a porni la drum."
+            ],
+            "en": [
+              "Mudguards are essential on these paths.",
+              "Wear a fully waterproof rain jacket and trousers.",
+              "Wind at Mar de Aragón can make the rain feel more intense.",
+              "Avoid risky maneuvers on the slippery old town alleys.",
+              "Check your brake pads before starting the tour."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt mit einer schnellen Fahrt zum Plaza de España. Mittags nutzen wir die Besichtigung des Schlosses, um die Hände wieder aufzuwärmen. Der Nachmittag führt uns zum Mar de Aragón, wo das klare Winterlicht für eine weite Fernsicht sorgt. Die Rückfahrt entlang des Ebro erfolgt rechtzeitig vor dem Einbruch der Dunkelheit, gefolgt von einem heißen Tee im Stadtzentrum.",
+            "hu": "A fagyos reggel egy gyors tekeréssel indul a Plaza de Españáig. Délben a vár megtekintését használjuk ki a kezünk felmelegítésére. Délután a Mar de Aragónhoz tekerünk, ahol a tiszta téli fények messzi kilátást biztosítanak. A visszaút az Ebro mentén még sötétedés előtt megtörténik, majd egy forró teával zárjuk a napot.",
+            "ro": "O dimineață geroasă începe cu o tură rapidă până în Plaza de España. La prânz profităm de vizitarea castelului pentru a ne încălzi mâinile. După-amiaza ne duce la Mar de Aragón, unde lumina clară de iarnă oferă o vizibilitate excelentă. Întoarcerea pe malul râului se face înainte de lăsarea întunericului, urmată de un ceai fierbinte.",
+            "en": "A frosty morning starts with a quick ride to Plaza de España. At noon, we use the castle visit to warm our hands. The afternoon takes us to Mar de Aragón, where the clear winter light provides far-reaching views. The ride back along the Ebro is completed well before dark, followed by a hot tea in the city center."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Stellen im Schatten.",
+                "hu": "Vigyázzon a fagyott foltokra az árnyékos helyeken.",
+                "ro": "Atenție la porțiunile înghețate de la umbră.",
+                "en": "Watch out for frozen patches in shaded areas."
+              }
+            },
+            {
+              "name": "Collegiate Church of St. Mary the Major",
+              "tip_5lang": {
+                "de": "Idealer Stopp zum Aufwärmen zwischendurch.",
+                "hu": "Ideális megálló egy kis köztes felmelegedéshez.",
+                "ro": "Oprire ideală pentru o scurtă încălzire.",
+                "en": "Ideal stop for a quick warm-up."
+              }
+            },
+            {
+              "name": "Castle of the Compromise & Salamanca Tower",
+              "tip_5lang": {
+                "de": "Windgeschützte Ecken in der Burgmauer suchen.",
+                "hu": "Keressen szélvédett zugokat a várfalak között.",
+                "ro": "Căutați locuri ferite de vânt între zidurile cetății.",
+                "en": "Look for wind-sheltered spots within the castle walls."
+              }
+            },
+            {
+              "name": "Hermitage of Santa María de Horta",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die Abfahrt zum See nötig.",
+                "hu": "Kesztyű szükséges a tóhoz vezető lejtőn.",
+                "ro": "Mănușile sunt necesare pentru coborârea spre lac.",
+                "en": "Gloves are necessary for the descent to the lake."
+              }
+            },
+            {
+              "name": "Mausoleum of Miralpeix",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um nicht auszukühlen.",
+                "hu": "Rövid megálló, hogy ne hűljön ki.",
+                "ro": "Oprire scurtă pentru a nu vă răci.",
+                "en": "Keep the stop short to avoid getting too cold."
+              }
+            },
+            {
+              "name": "Mar de Aragón (Viewpoint)",
+              "tip_5lang": {
+                "de": "Kristallklare Sicht auf das winterliche Wasser.",
+                "hu": "Kristálytiszta kilátás a téli víztükörre.",
+                "ro": "Vedere extrem de clară asupra apei înghețate.",
+                "en": "Crystal clear views of the wintry water."
+              }
+            },
+            {
+              "name": "Return to center along the Ebro",
+              "tip_5lang": {
+                "de": "Treten Sie kräftig in die Pedale für Wärme.",
+                "hu": "Tekerjen tempósan a testhőmérséklet fenntartásához.",
+                "ro": "Pedalați energic pentru a vă menține căldura.",
+                "en": "Pedal vigorously to maintain body heat."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie unbedingt winddichte Handschuhe und eine Mütze.",
+              "Der Cierzo-Wind kann die gefühlte Temperatur stark senken.",
+              "Vermeiden Sie schattige Wege, wo Glatteis lauern könnte.",
+              "Packen Sie eine Thermoskanne mit einem heißen Getränk ein.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert."
+            ],
+            "hu": [
+              "Feltétlenül viseljen szélálló kesztyűt és sapkát.",
+              "A Cierzo szél jelentősen csökkentheti a hőérzetet.",
+              "Kerülje az árnyékos utakat, ahol jégfoltok lehetnek.",
+              "Vigyen magával termoszban forró italt.",
+              "Ellenőrizze, hogy a kerékpár világítása megfelelően működik-e."
+            ],
+            "ro": [
+              "Purtați neapărat mănuși rezistente la vânt și căciulă.",
+              "Vântul Cierzo poate scădea mult temperatura resimțită.",
+              "Evitați drumurile umbrite unde se poate forma polei.",
+              "Luați un termos cu o băutură fierbinte la voi.",
+              "Asigurați-vă că luminile bicicletei funcționează perfect."
+            ],
+            "en": [
+              "Be sure to wear windproof gloves and a warm hat.",
+              "The Cierzo wind can significantly lower the perceived temperature.",
+              "Avoid shaded paths where black ice might linger.",
+              "Pack a thermos with a hot beverage for the ride.",
+              "Ensure your bike lights are in perfect working order."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1162,6 +1578,214 @@
           "A GPS is useful for finding the various sites scattered across the landscape.",
           "Always have some cash on hand for small cafes or parking fees."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt bequem mit der Fahrt zum Parkplatz nahe des Hauptplatzes. Mittags erkunden wir die Stiftskirche und das Schloss, wobei wir den Wagen als trockenen Stützpunkt nutzen. Nachmittags fahren wir zum Mar de Aragón, wo wir das Schauspiel des Regens über dem Stausee vom Auto aus beobachten können. Der Abend endet mit einer kurzen Fahrt zurück in die Stadt.",
+            "hu": "A nap kényelmesen indul a főtér közeli parkolóig tartó úttal. Délben a templomot és a várat látogatjuk meg, az autót száraz bázisként használva. Délután a Mar de Aragónhoz autózunk, ahol a kocsiból nézhetjük végig az eső játékát a víztükrön. A nap egy rövid városi autózással zárul, elkerülve az ázást.",
+            "ro": "Ziua începe confortabil cu drumul spre parcarea de lângă piața principală. La prânz vizităm biserica și castelul, folosind mașina ca bază uscată. După-amiaza conducem spre Mar de Aragón, unde putem observa spectacolul ploii peste lac direct din mașină. Ziua se încheie cu o scurtă călătorie înapoi în oraș.",
+            "en": "The day starts comfortably with a drive to the parking lot near the main square. At noon, we visit the church and castle, using the car as a dry base. In the afternoon, we drive to Mar de Aragón, where we can watch the spectacle of rain over the reservoir from the comfort of the car. The day ends with a short drive back to town."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Parking near Plaza de España",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz.",
+                "ro": "Parcați cât mai aproape de intrare.",
+                "en": "Park as close to the entrance as possible."
+              }
+            },
+            {
+              "name": "Collegiate Church and Castle of the Compromise",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Auto zum überdachten Portal.",
+                "hu": "Rövid sprint az autótól a fedett kapuig.",
+                "ro": "Sprint scurt de la mașină până la poarta acoperită.",
+                "en": "Short sprint from the car to the sheltered portal."
+              }
+            },
+            {
+              "name": "Salamanca Tower and Plaza de España",
+              "tip_5lang": {
+                "de": "Blick auf den Platz aus dem trockenen Auto.",
+                "hu": "Kilátás a térre a száraz autóból.",
+                "ro": "Vedere spre piață din mașina caldă și uscată.",
+                "en": "View of the square from the dry car."
+              }
+            },
+            {
+              "name": "Cluster 2: Drive to the Mausoleum of Miralpeix",
+              "tip_5lang": {
+                "de": "Vorsicht bei Aquaplaning auf der Landstraße.",
+                "hu": "Vigyázzon a felúszásra az országúton.",
+                "ro": "Atenție la acvaplanare pe drumul național.",
+                "en": "Watch out for aquaplaning on the country road."
+              }
+            },
+            {
+              "name": "Cluster 3: Drive to the Mar de Aragón",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht durch die Scheiben.",
+                "hu": "Élvezze a kilátást a szélvédőn keresztül.",
+                "ro": "Bucurați-vă de priveliște prin parbriz.",
+                "en": "Enjoy the view through the windshield."
+              }
+            },
+            {
+              "name": "Walk along the reservoir",
+              "tip_5lang": {
+                "de": "Nur kurzer Ausstieg für Fotos möglich.",
+                "hu": "Csak rövid kiszállás javasolt a fotókhoz.",
+                "ro": "Se recomandă doar o scurtă ieșire pentru poze.",
+                "en": "Only a brief exit is recommended for photos."
+              }
+            },
+            {
+              "name": "Cluster 4: Drive to the Hermitage of Santa María de Horta",
+              "tip_5lang": {
+                "de": "Direkte Zufahrt bis fast zum Kircheneingang.",
+                "hu": "Közvetlen hajtás majdnem a templomkapuig.",
+                "ro": "Acces direct până aproape de intrarea bisericii.",
+                "en": "Direct drive almost to the church entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze in unmittelbarer Nähe der Sehenswürdigkeiten.",
+              "Stellen Sie sicher, dass Ihre Scheibenwischer in gutem Zustand sind.",
+              "Die Straßen zum See können bei starkem Regen schlammig sein.",
+              "Nutzen Sie die Sitzheizung nach den kurzen Außengängen.",
+              "Vermeiden Sie tiefere Wasseransammlungen auf unbefestigten Wegen."
+            ],
+            "hu": [
+              "Használja a látnivalókhoz legközelebbi parkolóhelyeket.",
+              "Ellenőrizze, hogy az ablaktörlők jó állapotban vannak-e.",
+              "A tóhoz vezető utak heves esőzéskor sárosak lehetnek.",
+              "Használja az ülésfűtést a rövid kinti séták után.",
+              "Kerülje a mélyebb vízátfolyásokat a burkolatlan utakon."
+            ],
+            "ro": [
+              "Folosiți parcările aflate în imediata apropiere a obiectivelor.",
+              "Asigurați-vă că ștergătoarele sunt în stare bună.",
+              "Drumurile spre lac pot deveni noroioase în caz de ploaie torențială.",
+              "Folosiți încălzirea în scaune după scurtele ieșiri afară.",
+              "Evitați bălțile adânci pe drumurile neasfaltate."
+            ],
+            "en": [
+              "Use the parking spots closest to the sights.",
+              "Ensure your windshield wipers are in good condition.",
+              "Paths to the lake can become muddy during heavy rain.",
+              "Utilize seat heating after short outdoor walks.",
+              "Avoid deep water accumulations on unpaved roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir im beheizten Wagen zum Zentrum von Caspe. Mittags besichtigen wir die Stiftskirche und das Schloss, wobei wir uns immer wieder im Auto aufwärmen können. Nachmittags führt die Tour zum Mar de Aragón, wo wir das winterliche Panorama genießen, ohne frieren zu müssen. Zum Abschluss fahren wir zur Einsiedelei von Santa María de Horta, bevor die Nacht über das Ebro-Tal hereinbricht.",
+            "hu": "Reggel fűtött autóval érkezünk Caspe központjába. Délben a templomot és a várat látogatjuk meg, majd visszatérünk a kocsi melegébe. Délután a Mar de Aragón panorámáját élvezzük anélkül, hogy átfagynánk. Végül a Santa María de Horta kápolnához hajtunk, mielőtt az éjszaka leszállna az Ebro-völgyre.",
+            "ro": "Dimineața conducem cu mașina încălzită spre centrul orașului Caspe. La prânz vizităm biserica și castelul, putându-ne încălzi oricând în mașină. După-amiaza admirăm panorama de iarnă la Mar de Aragón fără a ne expune frigului. La final mergem la schitul Santa María de Horta înainte de lăsarea nopții peste valea râului Ebro.",
+            "en": "In the morning, we drive into Caspe's center in a heated car. At noon, we visit the collegiate church and the castle, always having the option to warm up in the car. In the afternoon, the tour leads to Mar de Aragón, where we enjoy the wintry panorama without freezing. Finally, we drive to the Hermitage of Santa María de Horta before night falls over the Ebro valley."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Parking near Plaza de España",
+              "tip_5lang": {
+                "de": "Lassen Sie die Heizung kurz laufen vor dem Ausstieg.",
+                "hu": "Hagyja járni a fűtést egy kicsit kiszállás előtt.",
+                "ro": "Lăsați căldura pornită puțin înainte de a coborî.",
+                "en": "Let the heater run for a bit before getting out."
+              }
+            },
+            {
+              "name": "Collegiate Church and Castle of the Compromise",
+              "tip_5lang": {
+                "de": "Die Innenräume sind angenehm temperiert.",
+                "hu": "A belső terek kellemes hőmérsékletűek.",
+                "ro": "Spațiile interioare au o temperatură plăcută.",
+                "en": "The indoor spaces have a pleasant temperature."
+              }
+            },
+            {
+              "name": "Salamanca Tower and Plaza de España",
+              "tip_5lang": {
+                "de": "Vom Auto aus ist der Blick auf den Platz toll.",
+                "hu": "A kocsiból is remek rálátás nyílik a térre.",
+                "ro": "Vedere excelentă spre piață chiar din mașină.",
+                "en": "Great view of the square even from the car."
+              }
+            },
+            {
+              "name": "Cluster 2: Drive to the Mausoleum of Miralpeix",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf der Fahrbahn.",
+                "hu": "Vigyázzon a dérre az úttesten.",
+                "ro": "Atenție la chiciură pe suprafața drumului.",
+                "en": "Watch out for frost on the road surface."
+              }
+            },
+            {
+              "name": "Cluster 3: Drive to the Mar de Aragón",
+              "tip_5lang": {
+                "de": "Die Wintersonne kann beim Fahren stark blenden.",
+                "hu": "A téli nap erősen elvakíthat vezetés közben.",
+                "ro": "Soarele de iarnă poate fi orbitor la volan.",
+                "en": "The winter sun can be quite blinding while driving."
+              }
+            },
+            {
+              "name": "Walk along the reservoir",
+              "tip_5lang": {
+                "de": "Kurze Fotostopps sind bei der Kälte ideal.",
+                "hu": "A rövid fotómegállók ideálisak a hidegben.",
+                "ro": "Opririle scurte pentru poze sunt ideale pe frig.",
+                "en": "Short photo stops are ideal in the cold."
+              }
+            },
+            {
+              "name": "Cluster 4: Drive to the Hermitage of Santa María de Horta",
+              "tip_5lang": {
+                "de": "Besuch am späten Nachmittag für weiches Licht.",
+                "hu": "Késő délutáni látogatás a lágy fényekért.",
+                "ro": "Vizită după-amiaza târziu pentru lumină caldă.",
+                "en": "Visit in the late afternoon for soft light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutzmittel in der Scheibenwaschanlage ist ein Muss.",
+              "Achten Sie auf vereiste Stellen auf Brücken über den Ebro.",
+              "Halten Sie eine Sonnenbrille gegen die tiefstehende Wintersonne bereit.",
+              "Die Parkplätze sind im Winter weniger überfüllt als im Sommer.",
+              "Prüfen Sie vorab die Winter-Öffnungszeiten des Schlosses."
+            ],
+            "hu": [
+              "A fagyálló szélvédőmosó használata kötelező.",
+              "Vigyázzon a jeges szakaszokra az Ebro feletti hidakon.",
+              "Legyen kéznél napszemüveg az alacsonyan járó téli nap ellen.",
+              "A parkolók télen kevésbé zsúfoltak, mint nyáron.",
+              "Előzetesen ellenőrizze a vár téli nyitvatartását."
+            ],
+            "ro": [
+              "Lichidul de parbriz antigel este obligatoriu.",
+              "Atenție la porțiunile înghețate de pe podurile peste Ebro.",
+              "Aveți la îndemână ochelari de soare pentru lumina orbitoare.",
+              "Parcările sunt mult mai libere iarna decât vara.",
+              "Verificați în prealabil programul de iarnă al castelului."
+            ],
+            "en": [
+              "Antifreeze windshield washer fluid is a must.",
+              "Watch out for icy spots on bridges over the Ebro.",
+              "Keep sunglasses handy against the low winter sun.",
+              "Parking lots are much less crowded in winter than in summer.",
+              "Check the castle's winter opening hours in advance."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1518,6 +2142,196 @@
           "Be aware that rural buses may not always be on time.",
           "Ask the bus driver or locals if you are unsure where to get off."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens nutzen wir den Bus zum Plaza de España und finden Schutz unter den Arkaden. Mittags besichtigen wir die Stiftskirche und das Schloss, wobei wir die Wartezeiten an den Bushaltestellen minimieren. Der Nachmittag gehört dem Museum der Autonomie, einem idealen Ort bei Regen. Die Rückfahrt erfolgt bequem im warmen Transitfahrzeug, während wir den Regen draußen lassen.",
+            "hu": "Reggel busszal érkezünk a Plaza de Españára, kihasználva az árkádok védelmét. Délben a templomot és a várat nézzük meg, ügyelve a menetrendre a várakozási idő csökkentése érdekében. A délután az Autonómia Múzeumáé, amely ideális fedett helyszín. A nap kényelmes, száraz visszautazással zárul a központba.",
+            "ro": "Dimineața folosim autobuzul până în Plaza de España și ne adăpostim sub arcade. La prânz vizităm biserica și castelul, minimizând timpul de așteptare în stații. După-amiaza este dedicată Muzeului Autonomiei, un loc ideal pe ploaie. Întoarcerea se face confortabil cu transportul public, feriți de ploaie.",
+            "en": "In the morning, we take the bus to Plaza de España and find shelter under the arches. At noon, we visit the church and castle, keeping bus waiting times to a minimum. The afternoon belongs to the Museum of Autonomy, an ideal indoor venue. The trip ends with a comfortable, dry ride back to the center."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Plaza de España",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nahe an den Arkaden.",
+                "hu": "A buszmegálló közel van az árkádokhoz.",
+                "ro": "Stația de autobuz este aproape de arcade.",
+                "en": "The bus stop is close to the arches."
+              }
+            },
+            {
+              "name": "Collegiate Church and Castle of the Compromise",
+              "tip_5lang": {
+                "de": "Überdachte Portale zum Warten nutzen.",
+                "hu": "Használja a fedett kapukat várakozáshoz.",
+                "ro": "Folosiți porțile acoperite pentru a aștepta.",
+                "en": "Use sheltered portals for waiting."
+              }
+            },
+            {
+              "name": "Museum of Aragonese Autonomy",
+              "tip_5lang": {
+                "de": "Der perfekte Stopp für verregnete Nachmittage.",
+                "hu": "Tökéletes megálló esős délutánokra.",
+                "ro": "Oprirea perfectă pentru după-amiezi ploioase.",
+                "en": "The perfect stop for rainy afternoons."
+              }
+            },
+            {
+              "name": "Cluster 2: Drive to the Mar de Aragón",
+              "tip_5lang": {
+                "de": "Aussicht aus dem Fenster während der Fahrt.",
+                "hu": "Kilátás az ablakból az utazás alatt.",
+                "ro": "Admirați priveliștea pe fereastră în timpul mersului.",
+                "en": "Enjoy the window view during the ride."
+              }
+            },
+            {
+              "name": "Walk and lunch by the lake",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Seeblick.",
+                "hu": "Válasszon tóra néző éttermet.",
+                "ro": "Alegeți un restaurant cu vedere spre lac.",
+                "en": "Choose a restaurant with a lake view."
+              }
+            },
+            {
+              "name": "Return to the center",
+              "tip_5lang": {
+                "de": "Trockene Rückfahrt zum Ausgangspunkt.",
+                "hu": "Száraz visszautazás a kiindulópontig.",
+                "ro": "Întoarcere la uscat spre punctul de plecare.",
+                "en": "Dry ride back to the starting point."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Busverbindungen vorab online oder per App.",
+              "Warten Sie bei Regen unter den Vordächern der Haltestellen.",
+              "Tragen Sie Kleidung, die auch im Bus schnell trocknet.",
+              "Ein kleiner Regenschirm passt leicht in das Gepäck.",
+              "Fragen Sie den Fahrer nach dem genauen Halt für die Burg."
+            ],
+            "hu": [
+              "Ellenőrizze a buszjáratokat előre online vagy applikáción.",
+              "Esőben várakozzon a megállók előtetői alatt.",
+              "Viseljen olyan ruhát, ami a buszon is gyorsan szárad.",
+              "Egy kis esernyő könnyen elfér a táskájában.",
+              "Kérdezze meg a sofőrt a vár legközelebbi megállójáról."
+            ],
+            "ro": [
+              "Verificați programul autobuzelor online sau prin aplicație.",
+              "Așteptați sub copertinele stațiilor în caz de ploaie.",
+              "Purtați haine care se usucă repede în interiorul autobuzului.",
+              "O umbrelă mică încape ușor în rucsac.",
+              "Întrebați șoferul despre cea mai apropiată stație pentru castel."
+            ],
+            "en": [
+              "Check bus connections in advance online or via an app.",
+              "Wait under the bus stop shelters when it's raining.",
+              "Wear clothing that dries quickly while inside the bus.",
+              "A small umbrella fits easily into your daypack.",
+              "Ask the driver for the exact stop for the castle."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens bringt uns der Transit zum winterlichen Plaza de España. Mittags wärmen wir uns in der Stiftskirche und im Schloss auf, bevor wir den Bus zum Mar de Aragón nehmen. Der Nachmittag bietet herrliche Winterpanoramen, die wir bequem erreichen. Wir beenden den Tag mit der Rückfahrt zum Zentrum, gerade wenn die Straßenlaternen die historische Stadt erleuchten.",
+            "hu": "Reggel a tömegközlekedés repít minket a téli Plaza de Españára. Délben a templomban és a várban melegszünk fel, mielőtt buszra szállunk a Mar de Aragónhoz. A délután csodás téli panorámát kínál, amit kényelmesen érünk el. A napot a központba való visszautazással zárjuk, épp amikor kigyúlnak a város fényei.",
+            "ro": "Dimineața transportul public ne duce în Plaza de España hibernală. La prânz ne încălzim în biserică și castel înainte de a lua autobuzul spre Mar de Aragón. După-amiaza oferă panorame de iarnă superbe, accesibile confortabil. Încheiem ziua cu întoarcerea în centru, exact când se aprind luminile stradale.",
+            "en": "In the morning, transit takes us to the wintry Plaza de España. At noon, we warm up in the church and castle before catching the bus to Mar de Aragón. The afternoon offers stunning winter panoramas, reached comfortably. We end the day with a ride back to the center, just as the streetlights begin to glow."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Plaza de España",
+              "tip_5lang": {
+                "de": "Die Cafés am Platz sind im Winter sehr gemütlich.",
+                "hu": "A tér kávézói télen nagyon barátságosak.",
+                "ro": "Cafenelele din piață sunt foarte primitoare iarna.",
+                "en": "The cafes in the square are very cozy in winter."
+              }
+            },
+            {
+              "name": "Collegiate Church and Castle of the Compromise",
+              "tip_5lang": {
+                "de": "Kirchenbesuch zum Schutz vor der Kälte nutzen.",
+                "hu": "Használja a templomlátogatást a hideg elleni védekezésre.",
+                "ro": "Vizitați biserica pentru a vă feri de frig.",
+                "en": "Visit the church to escape the cold."
+              }
+            },
+            {
+              "name": "Museum of Aragonese Autonomy",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Rückzugsort am Nachmittag.",
+                "hu": "Jól fűtött menedék a délutáni órákban.",
+                "ro": "Un refugiu bine încălzit în timpul după-amiezii.",
+                "en": "A well-heated retreat in the afternoon."
+              }
+            },
+            {
+              "name": "Cluster 2: Drive to the Mar de Aragón",
+              "tip_5lang": {
+                "de": "Warmer Bus mit guter Sicht auf die Landschaft.",
+                "hu": "Meleg busz jó kilátással a tájra.",
+                "ro": "Autobuz călduros cu vizibilitate bună asupra peisajului.",
+                "en": "Warm bus with good views of the landscape."
+              }
+            },
+            {
+              "name": "Walk and lunch by the lake",
+              "tip_5lang": {
+                "de": "Genießen Sie ein warmes Mittagessen am Wasser.",
+                "hu": "Élvezzen egy meleg ebédet a vízparton.",
+                "ro": "Savurați un prânz cald lângă apă.",
+                "en": "Enjoy a warm lunch by the water."
+              }
+            },
+            {
+              "name": "Return to the center",
+              "tip_5lang": {
+                "de": "Rechtzeitige Rückfahrt vor der Abendkälte.",
+                "hu": "Visszautazás még az esti lehűlés előtt.",
+                "ro": "Întoarcere înainte de lăsarea gerului de seară.",
+                "en": "Ride back before the evening chill sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie die selteneren Busfahrzeiten im Winter.",
+              "Die Haltestellen können im Windkühler (Cierzo) sehr kalt sein.",
+              "Tragen Sie warme Socken für die Wartezeiten im Freien.",
+              "Halten Sie Kleingeld oder eine Fahrkarte griffbereit.",
+              "Nutzen Sie die Transitzeiten zum Planen der nächsten Stopps."
+            ],
+            "hu": [
+              "Vegye figyelembe a ritkább téli buszjáratokat.",
+              "A megállók a szél miatt nagyon hidegek lehetnek.",
+              "Viseljen meleg zoknit a kinti várakozáshoz.",
+              "Legyen kéznél aprópénz vagy menetjegy.",
+              "Használja ki az utazási időt a következő állomás megtervezésére."
+            ],
+            "ro": [
+              "Țineți cont de frecvența redusă a autobuzelor iarna.",
+              "Stațiile pot fi foarte reci din cauza vântului.",
+              "Purtați șosete groase pentru timpii de așteptare afară.",
+              "Aveți pregătiți bani mărunți sau biletul.",
+              "Folosiți timpul petrecut în transport pentru a planifica vizita."
+            ],
+            "en": [
+              "Note that buses may run less frequently in winter.",
+              "Bus stops can feel very cold due to the wind chill.",
+              "Wear warm socks for the outdoor waiting times.",
+              "Keep small change or your ticket handy for the ride.",
+              "Use transit time to plan your next stops."
+            ]
+          }
+        }
       }
     }
   }

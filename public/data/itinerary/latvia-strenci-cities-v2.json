@@ -379,6 +379,206 @@
           "Pack water and snacks for the nature park hike.",
           "Check the weather forecast; Latvian weather can be unpredictable."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen im gemütlichen Kulturhaus und der nahen Kirche, wo Sie trocken bleiben. Mittags bietet die Gauja-Brücke trotz Regen einen dramatischen Blick auf den Fluss. Nachmittags duftet der Kiefernweg bei Regen besonders intensiv, während der Wald leichten Schutz bietet. Den Tag beenden Sie mit der beeindruckenden Backsteinarchitektur der Klinik im sanften Regenlicht.\n\nDer Vormittag gehört der Kultur und dem Glauben unter festem Dach. Gegen Mittag trotzen wir dem Regen am Denkmal und auf der Brücke. Der Nachmittagsspaziergang durch den Wald ist erfrischend, solange die Kleidung hält. Am Abend fasziniert die historische Klinik im grauen Dunst.",
+            "hu": "Kezdje az esős reggelt a hangulatos Művelődési Házban és a közeli templomban, ahol fedél alatt maradhat. Délben a Gauja-híd az esőben is drámai kilátást nyújt a folyóra. Délután a fenyőösvény illata esőben a legintenzívebb, az erdő pedig némi védelmet nyújt a szitálás ellen. A napot a klinika vörös téglás épületeinek látványával zárjuk a ködös szürkületben.\n\nA délelőttöt töltsük fedett helyen, a kultúra és a spiritualitás jegyében. Délben egy rövid séta a hídon frissítő élmény a víz felett. A délutáni fenyőerdei túra esőben is varázslatos, ha van megfelelő kabátunk. Estére a patinás kórházépület látványa marad.",
+            "ro": "Începeți dimineața ploioasă la Casa de Cultură și la biserica din apropiere, unde rămâneți la adăpost. La prânz, podul peste Gauja oferă o priveliște dramatică asupra râului, chiar și prin stropii de ploaie. După-amiaza, poteca cu pini miroase intens sub ploaie, iar pădurea oferă o protecție naturală. Încheiați ziua admirând arhitectura din cărămidă a clinicii în lumina difuză a serii.\n\nDimineața este dedicată interiorului, explorând cultura și istoria locală. La prânz, înfruntăm ploaia pentru o vedere panoramică de pe pod. Plimbarea de după-amiază prin pădure este revigorantă sub umbrelă. Seara, complexul istoric al clinicii capătă un aspect misterios în ploaie.",
+            "en": "Start your rainy morning at the cozy Culture House and the nearby church, staying dry indoors. At noon, the Gauja Bridge offers a dramatic view of the river despite the rain. In the afternoon, the Pine Path smells incredibly fresh in the rain, with trees providing some shelter. End the day by viewing the impressive brick architecture of the clinic in the soft, misty light.\n\nSpend the morning exploring indoor cultural and spiritual sites. Around noon, take a brief walk to the bridge for a refreshing river view. The afternoon forest walk is magical in the rain if you have the right gear. In the evening, the historic clinic buildings look majestic in the grey mist."
+          },
+          "stops": [
+            {
+              "name": "Strenči Culture House",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ersten Regenschauer abzuwarten.",
+                "hu": "Ideális hely az első záporok átvészelésére.",
+                "ro": "Locul perfect pentru a aștepta trecerea primei ploi.",
+                "en": "Perfect place to wait out the first rain shower."
+              }
+            },
+            {
+              "name": "Strenči Lutheran Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Holzschnitzereien im trockenen Innenraum.",
+                "hu": "Csodálja meg a fafaragásokat a száraz belső térben.",
+                "ro": "Admirați sculpturile în lemn în interiorul uscat.",
+                "en": "Admire the wood carvings in the dry interior."
+              }
+            },
+            {
+              "name": "Raftsman's Monument",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, die Granitoberfläche glänzt im Regen.",
+                "hu": "Gyors fotómegálló, a gránit szépen csillog az esőben.",
+                "ro": "Oprire scurtă, suprafața de granit strălucește în ploaie.",
+                "en": "Quick photo stop, the granite surface shines in the rain."
+              }
+            },
+            {
+              "name": "Gauja Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht, die Metallteile können rutschig sein.",
+                "hu": "Vigyázat, a fém részek csúszósak lehetnek.",
+                "ro": "Atenție, părțile metalice pot fi alunecoase.",
+                "en": "Caution, metal parts can be slippery when wet."
+              }
+            },
+            {
+              "name": "Gauja Rapids & Nature Park",
+              "tip_5lang": {
+                "de": "Gummistiefel empfohlen für die ufernahen Wege.",
+                "hu": "A folyóparti ösvényekhez gumicsizma ajánlott.",
+                "ro": "Cizme de cauciuc recomandate pentru potecile de pe mal.",
+                "en": "Rubber boots recommended for the riverbank paths."
+              }
+            },
+            {
+              "name": "Pine Path",
+              "tip_5lang": {
+                "de": "Die dichten Kiefern bieten guten Schutz vor leichtem Regen.",
+                "hu": "A sűrű fenyves jó védelmet nyújt szemerkélő esőben.",
+                "ro": "Pinii deși oferă o protecție bună împotriva ploii ușoare.",
+                "en": "Dense pines provide good shelter from light rain."
+              }
+            },
+            {
+              "name": "Strenči Psychiatric Clinic (exterior view)",
+              "tip_5lang": {
+                "de": "Die rote Backsteinfassade wirkt im Regen sehr fotogen.",
+                "hu": "A vörös téglás homlokzat nagyon fotogén esőben.",
+                "ro": "Fațada de cărămidă roșie este foarte fotogenică în ploaie.",
+                "en": "The red brick facade looks very photogenic in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei den Flusswinden wichtig.",
+              "Die Waldwege können nach starkem Regen schlammig sein.",
+              "Nutzen Sie das Kulturhaus für längere Pausen im Trockenen.",
+              "Wasserdichte Schuhe sind für den Naturpark unerlässlich."
+            ],
+            "hu": [
+              "A folyóparti szél miatt érdemes erős esernyőt vinni.",
+              "Az erdei utak sarasak lehetnek intenzív eső után.",
+              "Használja ki a Művelődési Házat hosszabb pihenőre.",
+              "A nemzeti parkba mindenképp vízálló cipőben menjen."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este necesară din cauza vântului.",
+              "Potecile din pădure pot fi noroioase după ploi grele.",
+              "Folosiți Casa de Cultură pentru pauze lungi la uscat.",
+              "Încălțămintea impermeabilă este esențială în parc."
+            ],
+            "en": [
+              "A sturdy umbrella is a must due to riverside winds.",
+              "Forest paths can be muddy after heavy rainfall.",
+              "Use the Culture House for longer breaks in the dry.",
+              "Waterproof shoes are essential for the nature park."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Strenči als Wintermärchen. Der Morgen beginnt frostig am Kulturhaus, während die Kirche im Schnee wie eine Postkarte wirkt. Mittags glitzert das Eis auf der Gauja bei der Brücke. Der Nachmittagsspaziergang auf dem Kiefernweg ist kurz, da die Sonne früh untergeht und den Wald in blaues Licht taucht. Zum Abschluss leuchten die Fenster der Klinik warm in der Winternacht.\n\nDer Frost knirscht unter den Schuhen bei der morgendlichen Tour. Mittags bewundern wir die teilweise zugefrorene Gauja von der Brücke aus. Der Nachmittag im Wald ist still und friedlich unter der Schneedecke. Den frühen Abend verbringen wir bei den historischen Gebäuden, bevor es dunkel wird.",
+            "hu": "Fedezze fel Strenči téli arcát! A reggel fagyosan indul a Művelődési Háznál, a havas templom pedig akár egy képeslap. Délben a Gauja jeges táblái csillognak a hídnál. A délutáni séta a fenyőösvényen rövid, mert a nap korán nyugszik, kék fénybe vonva az erdőt. A nap végén a klinika ablakai melegen világítanak a téli éjszakában.\n\nA reggeli séta alatt ropog a hó a talpunk alatt a központban. Délben a befagyott folyó látványa nyújt felejthetetlen élményt. A délutáni erdő csendes és tiszta a hólepel alatt. A korai sötétedés előtt még megcsodáljuk a klinika patinás épületegyüttesét.",
+            "ro": "Descoperiți Strenči ca un basm de iarnă. Dimineața începe geroasă la Casa de Cultură, iar biserica înzăpezită arată ca o carte poștală. La prânz, gheața strălucește pe râul Gauja lângă pod. Plimbarea de după-amiază pe poteca cu pini este scurtă, deoarece soarele apune devreme. Încheiați ziua cu ferestrele clinicii luminând cald în noaptea de iarnă.\n\nGerul dimineții face zăpada să scârțâie sub picioare în centru. La prânz, admirăm sloiurile de gheață de pe podul peste râu. După-amiaza în pădure este tăcută și magică sub stratul de omăt. Seara timpurie ne găsește lângă clădirile istorice ale clinicii.",
+            "en": "Experience Strenči as a winter wonderland. The morning starts frosty at the Culture House, while the snowy church looks like a postcard. At noon, ice glitters on the Gauja river by the bridge. The afternoon walk on the Pine Path is brief as the sun sets early, bathing the forest in blue light. To finish, the clinic windows glow warmly in the winter night.\n\nThe morning air is crisp as you explore the town center. At noon, admire the ice sheets floating on the Gauja from the bridge. The afternoon forest is silent and peaceful under the snow. Before the early darkness sets in, visit the historic grounds of the clinic."
+          },
+          "stops": [
+            {
+              "name": "Strenči Culture House",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Foyer auf, bevor es weitergeht.",
+                "hu": "Melegedjen fel az aulában, mielőtt továbbindulna.",
+                "ro": "Încălziți-vă în foier înainte de a pleca mai departe.",
+                "en": "Warm up in the foyer before continuing your walk."
+              }
+            },
+            {
+              "name": "Strenči Lutheran Church",
+              "tip_5lang": {
+                "de": "Die weiße Fassade verschmilzt fast mit dem Schnee.",
+                "hu": "A fehér homlokzat szinte eggyé válik a hóval.",
+                "ro": "Fațada albă se contopește aproape cu zăpada.",
+                "en": "The white facade almost merges with the snow."
+              }
+            },
+            {
+              "name": "Raftsman's Monument",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf dem gepflasterten Platz.",
+                "hu": "Vigyázzon a jegesedésre a kövezett téren.",
+                "ro": "Atenție la polei pe platforma pavată din jur.",
+                "en": "Watch out for black ice on the paved area."
+              }
+            },
+            {
+              "name": "Gauja Bridge",
+              "tip_5lang": {
+                "de": "Spektakulärer Blick auf Eisschollen auf dem Fluss.",
+                "hu": "Látványos kilátás a folyón úszó jégtáblákra.",
+                "ro": "Vedere spectaculoasă asupra sloiurilor de pe râu.",
+                "en": "Spectacular view of ice floes on the river."
+              }
+            },
+            {
+              "name": "Gauja Rapids & Nature Park",
+              "tip_5lang": {
+                "de": "Der Pfad kann bei Tiefschnee schwer erkennbar sein.",
+                "hu": "Mély hóban az ösvény nehezen felismerhető lehet.",
+                "ro": "Poteca poate fi greu de văzut în zăpadă mare.",
+                "en": "The path can be hard to spot in deep snow."
+              }
+            },
+            {
+              "name": "Pine Path",
+              "tip_5lang": {
+                "de": "Ein Wintermärchen, aber achten Sie auf herabfallenden Schnee.",
+                "hu": "Téli varázslat, de ügyeljen a fákról lehulló hóra.",
+                "ro": "Un decor de basm, dar atenție la zăpada din copaci.",
+                "en": "A winter fairytale, but watch for falling snow."
+              }
+            },
+            {
+              "name": "Strenči Psychiatric Clinic (exterior view)",
+              "tip_5lang": {
+                "de": "Die Anlage wirkt im Schnee besonders ruhig und würdevoll.",
+                "hu": "A park a hóban különösen csendes és méltóságteljes.",
+                "ro": "Complexul pare foarte liniștit sub mantia de zăpadă.",
+                "en": "The grounds feel exceptionally quiet and dignified in snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermokleidung, der Wind vom Fluss ist eisig.",
+              "Die Sonne geht im Winter bereits gegen 16:00 Uhr unter.",
+              "Feste Wanderschuhe mit gutem Profil sind Pflicht.",
+              "Nehmen Sie eine Thermoskanne mit einem heißen Getränk mit."
+            ],
+            "hu": [
+              "Viseljen termaruházatot, a folyó felől metsző szél fúj.",
+              "Télen a nap már délután 4 körül lenyugszik.",
+              "A jó profilú bakancs kötelező a jeges utakon.",
+              "Vigyen magával termoszt forró teával a túrához."
+            ],
+            "ro": [
+              "Purtați haine termice, vântul de pe râu este tăios.",
+              "Iarna, soarele apune deja în jurul orei 16:00.",
+              "Ghetele cu talpă aderentă sunt obligatorii pe gheață.",
+              "Luați un termos cu o băutură caldă pentru drum."
+            ],
+            "en": [
+              "Wear thermal layers, the river wind is biting cold.",
+              "The sun sets as early as 4 PM in winter.",
+              "Sturdy boots with good grip are mandatory.",
+              "Take a thermos with a hot drink for the walk."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +952,206 @@
           "Bring plenty of water, especially on a warm day.",
           "Some smaller trails may not be suitable for all types of bikes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse, aber erfrischende Radtour durch Strenči. Vormittags glänzen die Denkmäler im Regen, während Sie zügig zur Brücke radeln. Mittags erleben Sie die Gauja-Stromschnellen unter grauem Himmel – die Gischt vermischt sich mit dem Regen. Nachmittags bietet der Kiefernweg natürlichen Schutz, bevor Sie das Kulturhaus für eine Pause ansteuern. Der Tag endet an der Klinik, deren rote Steine im Nassen leuchten.",
+            "hu": "Vizes, de frissítő kerékpártúra Strenčiben. Délelőtt a műemlékek csillognak az esőben, miközben a híd felé tekerünk. Délben a Gauja-zúgókat szürke égbolt alatt látjuk, ahol a víz permete keveredik az esővel. Délután a fenyőösvény nyújt némi védelmet, mielőtt pihenőt tartunk a Művelődési Háznál. A napot a klinikánál zárjuk, melynek vörös téglái fényesen csillognak.",
+            "ro": "O tură cu bicicleta udă, dar revigorantă. Dimineața, monumentele strălucesc sub ploaie în timp ce pedalați spre pod. La prânz, vedeți pragurile râului Gauja sub cerul gri – spuma apei se amestecă cu ploaia. După-amiaza, poteca cu pini oferă adăpost natural înainte de o pauză la Casa de Cultură. Ziua se încheie la clinică, unde cărămida roșie lucește în umezeală.",
+            "en": "A wet but refreshing bike ride through Strenči. In the morning, monuments gleam in the rain as you pedal toward the bridge. At noon, experience the Gauja rapids under a grey sky – the spray of the water mixes with the rain. In the afternoon, the Pine Path offers natural cover before a break at the Culture House. The day ends at the clinic, its red bricks shining in the wet."
+          },
+          "stops": [
+            {
+              "name": "Raftsman's Monument",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen, das Pflaster ist glatt.",
+                "hu": "Vigyázzon a leszálláskor, a burkolat csúszós.",
+                "ro": "Atenție la descălecare, pavajul este alunecos.",
+                "en": "Be careful when dismounting, the pavement is slick."
+              }
+            },
+            {
+              "name": "Gauja Bridge",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam über die Dehnungsfugen der Brücke.",
+                "hu": "Hajtson lassan a híd tágulási hézagai felett.",
+                "ro": "Circulați încet peste rosturile de dilatare ale podului.",
+                "en": "Ride slowly over the bridge expansion joints."
+              }
+            },
+            {
+              "name": "Gauja Rapids",
+              "tip_5lang": {
+                "de": "Der Uferweg kann stellenweise unter Wasser stehen.",
+                "hu": "A parti út helyenként víz alatt állhat.",
+                "ro": "Drumul de pe mal poate fi inundat pe porțiuni.",
+                "en": "The riverside path may be flooded in places."
+              }
+            },
+            {
+              "name": "Pine Path & Strenči Nature Park",
+              "tip_5lang": {
+                "de": "Kiefernadeln auf dem Weg sind bei Nässe rutschig.",
+                "hu": "A vizes fenyőtűk az úton csúszósak lehetnek.",
+                "ro": "Acele de pin ude pot fi alunecoase pe potecă.",
+                "en": "Wet pine needles on the path can be slippery."
+              }
+            },
+            {
+              "name": "Strenči Lutheran Church",
+              "tip_5lang": {
+                "de": "Fahrradständer sind meist nicht überdacht.",
+                "hu": "A kerékpártárolók többsége nem fedett.",
+                "ro": "Suporturile de biciclete nu sunt acoperite.",
+                "en": "Most bike racks are not covered here."
+              }
+            },
+            {
+              "name": "Strenči Culture House",
+              "tip_5lang": {
+                "de": "Guter Ort, um Kleidung kurz zu trocknen.",
+                "hu": "Jó hely a ruházat rövid szárítására.",
+                "ro": "Un loc bun pentru a vă usca puțin hainele.",
+                "en": "Good place to dry off your gear for a bit."
+              }
+            },
+            {
+              "name": "Strenči Psychiatric Clinic (exterior view)",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege auf dem Gelände sind gut befahrbar.",
+                "hu": "A területen lévő aszfaltozott utak jól járhatóak.",
+                "ro": "Drumurile asfaltate din incintă sunt ușor de parcurs.",
+                "en": "Asphalt roads on the grounds are easy to ride on."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei den unbefestigten Wegen ein Muss.",
+              "Bringen Sie wasserfeste Packtaschen für Ihre Ausrüstung mit.",
+              "Vermeiden Sie scharfe Kurven auf nassen Holzbrücken.",
+              "Ein Regenponcho bietet beim Fahren besseren Schutz als ein Schirm."
+            ],
+            "hu": [
+              "A föutakon a sárvédő elengedhetetlen.",
+              "Használjon vízálló táskákat a felszereléséhez.",
+              "Kerülje az éles kanyarokat a vizes fahidakon.",
+              "A biciklis esőponcsó jobb védelmet nyújt, mint az esernyő."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii pe drumurile de pământ.",
+              "Folosiți genți impermeabile pentru echipament.",
+              "Evitați virajele strânse pe podurile de lemn ude.",
+              "Pelerina de ploaie oferă protecție mai bună decât umbrela."
+            ],
+            "en": [
+              "Mudguards are a must for the unpaved nature paths.",
+              "Use waterproof panniers for your equipment.",
+              "Avoid sharp turns on wet wooden bridges.",
+              "A rain poncho offers better protection than an umbrella while riding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine sportliche Wintertour durch das verschneite Strenči. Der Vormittag führt über knirschende Wege zu den gefrorenen Gauja-Stromschnellen. Mittags radeln Sie durch den tief verschneiten Naturpark, wo die Stille nur durch das Rollen der Reifen unterbrochen wird. Nachmittags suchen Sie die Wärme der Kirche und des Kulturhauses, bevor Sie in der Dämmerung die Klinik erreichen.\n\nDie klare Winterluft erfrischt beim morgendlichen Start. Mittags bietet der Park eine märchenhafte Kulisse in Weiß. Der Nachmittag wird kürzer, also nutzen wir das Tageslicht für die Waldwege. Zum Abschluss bewundern wir die Klinikgebäude, während die ersten Lichter angehen.",
+            "hu": "Sportos téli túra a havas Strenčiben. A délelőtt ropogós utakon vezet a befagyott Gauja-zúgókhoz. Délben a hóval borított nemzeti parkon tekerünk át, ahol a csendet csak a gumi suhogása töri meg. Délután a templom és a Művelődési Ház melegét keressük, mielőtt a szürkületben elérjük a klinikát.\n\nA tiszta téli levegő felfrissít a reggeli induláskor. Délben a park mesebeli fehér díszletekkel vár. A délután rövid, így kihasználjuk a fényt az erdei utakra. Végül megcsodáljuk a klinikát, ahogy kigyúlnak az első fények.",
+            "ro": "O tură sportivă de iarnă prin Strenči înzăpezit. Dimineața vă poartă pe drumuri înghețate spre pragurile râului Gauja. La prânz pedalați prin parcul natural acoperit de zăpadă, unde liniștea este deplină. După-amiaza căutați căldura bisericii și a Casei de Cultură, înainte de a ajunge la clinică în amurg.\n\nAerul curat de iarnă vă dă energie la pornire. La prânz, parcul oferă un decor de poveste în alb. După-amiaza este scurtă, deci profităm de lumină pentru pădure. La final, admirăm clădirile clinicii sub primele lumini de seară.",
+            "en": "A sporty winter ride through snowy Strenči. The morning takes you over crisp paths to the frozen Gauja rapids. At noon, pedal through the deep snow of the nature park, where the silence is only broken by your tires. In the afternoon, seek the warmth of the church and Culture House before reaching the clinic at dusk.\n\nThe crisp winter air is invigorating at the start. At noon, the park provides a fairytale setting in white. The afternoon is short, so we use the daylight for the forest paths. Finally, admire the clinic buildings as the first evening lights appear."
+          },
+          "stops": [
+            {
+              "name": "Raftsman's Monument",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher ab, der Boden kann gefroren sein.",
+                "hu": "Biztonságosan támassza le a biciklit, a talaj fagyos lehet.",
+                "ro": "Parcați bicicleta cu grijă, solul poate fi înghețat.",
+                "en": "Park your bike carefully, the ground can be frozen."
+              }
+            },
+            {
+              "name": "Gauja Bridge",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Fahrbahnbelag.",
+                "hu": "Ügyeljen a jegesedésre az útfelületen.",
+                "ro": "Atenție la porțiunile de gheață de pe carosabil.",
+                "en": "Watch out for icy patches on the bridge deck."
+              }
+            },
+            {
+              "name": "Gauja Rapids",
+              "tip_5lang": {
+                "de": "Der Boden ist hier oft sehr uneben und gefroren.",
+                "hu": "A talaj itt gyakran egyenetlen és fagyott.",
+                "ro": "Solul este adesea denivelat și înghețat aici.",
+                "en": "The ground here is often uneven and frozen."
+              }
+            },
+            {
+              "name": "Pine Path & Strenči Nature Park",
+              "tip_5lang": {
+                "de": "Fahren Sie nur auf bereits gespurten Wegen.",
+                "hu": "Csak a már kijárt utakon közlekedjen.",
+                "ro": "Circulați doar pe potecile deja bătătorite.",
+                "en": "Only ride on paths that have already been cleared or packed."
+              }
+            },
+            {
+              "name": "Strenči Lutheran Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Aufwärmen im Vorraum.",
+                "hu": "Rövid megálló melegedni az előtérben.",
+                "ro": "O scurtă oprire pentru încălzire în pridvor.",
+                "en": "A short stop to warm up in the vestibule."
+              }
+            },
+            {
+              "name": "Strenči Culture House",
+              "tip_5lang": {
+                "de": "Heiße Getränke sind hier oft verfügbar.",
+                "hu": "Gyakran kapható itt forró ital.",
+                "ro": "Băuturile calde sunt adesea disponibile aici.",
+                "en": "Hot drinks are often available here."
+              }
+            },
+            {
+              "name": "Strenči Psychiatric Clinic (exterior view)",
+              "tip_5lang": {
+                "de": "Beleuchtung am Rad ist wegen der frühen Dunkelheit wichtig.",
+                "hu": "A lámpa fontos a korai sötétedés miatt.",
+                "ro": "Luminile sunt esențiale din cauza întunericului timpuriu.",
+                "en": "Bike lights are crucial due to early darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen oder Spike-Reifen sind sehr zu empfehlen.",
+              "Halten Sie die Kette gut geölt gegen Streusalz.",
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Planen Sie kürzere Etappen ein, um nicht auszukühlen."
+            ],
+            "hu": [
+              "Téli vagy szöges gumik használata javasolt.",
+              "A láncot tartsa olajozottan a sós hólé ellen.",
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "Tervezzen rövidebb szakaszokat a kihűlés elkerülésére."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sau cu ținte sunt recomandate.",
+              "Mențineți lanțul uns pentru a-l proteja de sare.",
+              "Purtați mănuși rezistente la vânt și căciulă sub cască.",
+              "Planificați etape mai scurte pentru a nu îngheța."
+            ],
+            "en": [
+              "Winter tires or studded tires are highly recommended.",
+              "Keep your chain well-oiled to protect against road salt.",
+              "Wear windproof gloves and a thin cap under your helmet.",
+              "Plan shorter stages to avoid getting too cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1108,6 +1508,188 @@
           "A car allows you to bring a picnic basket for your lunch by the river.",
           "Be aware of wildlife when driving near natural areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Strenči bequem vom Auto aus. Vormittags besuchen Sie die Kirche und das Kulturhaus, wobei Sie direkt davor parken können. Mittags bietet die Fahrt zur Gauja-Brücke tolle Ausblicke auf den Fluss im Regen. Der Nachmittag am Kiefernweg ist kurz und erfrischend, bevor Sie im Trockenen zur Klinik weiterfahren, um die historische Architektur zu bewundern.\n\nRegnerische Aussichten lassen sich am besten durch die Windschutzscheibe genießen. Mittags machen wir einen kurzen Abstecher zum Flussufer. Nachmittags ist ein kleiner Waldspaziergang möglich, bevor wir den Tag bei der Klinik ausklingen lassen.",
+            "hu": "Élvezze Strenči látnivalóit kényelmesen, autóból. Délelőtt a templomot és a Művelődési Házat látogatjuk meg, ahol közvetlenül az épületek előtt parkolhat. Délben a Gauja-hídhoz hajtunk, ahonnan remek kilátás nyílik a folyóra az esőben is. A délutáni fenyőerdei séta után szárazon hajtunk tovább a klinikához, hogy megcsodáljuk az épületeket.\n\nAz esős tájat a legjobb a szélvédő mögül csodálni. Délben egy rövid kitérőt teszünk a folyópartra. Délután egy kisebb erdei séta után a klinikánál fejezzük be a napot.",
+            "ro": "Bucurați-vă de Strenči din confortul mașinii. Dimineața vizitați biserica și Casa de Cultură, cu parcare chiar în față. La prânz, drumul spre podul Gauja oferă vederi frumoase asupra râului în ploaie. După-amiaza la poteca cu pini este revigorantă, înainte de a continua spre clinică pentru a admira arhitectura istorică.\n\nPeisajul ploios se vede cel mai bine prin parbriz. La prânz facem o scurtă oprire pe malul râului. După-amiaza este posibilă o mică plimbare în pădure, înainte de a încheia ziua la clinică.",
+            "en": "Enjoy Strenči comfortably from your car. In the morning, visit the church and Culture House, parking right in front. At noon, the drive to the Gauja Bridge offers great views of the river in the rain. An afternoon stop at the Pine Path is refreshing before continuing dry to the clinic to admire the historic architecture.\n\nRainy views are best enjoyed through the windshield. At noon, we take a short detour to the riverbank. After a brief forest walk in the afternoon, we finish the day at the clinic grounds."
+          },
+          "stops": [
+            {
+              "name": "Strenči Lutheran Church",
+              "tip_5lang": {
+                "de": "Parkplätze direkt an der Kirche verfügbar.",
+                "hu": "Parkolóhelyek közvetlenül a templomnál.",
+                "ro": "Locuri de parcare disponibile direct la biserică.",
+                "en": "Parking spaces available directly at the church."
+              }
+            },
+            {
+              "name": "Strenči Culture House",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz ermöglicht kurzen Weg zum Eingang.",
+                "hu": "A központi parkoló rövid utat tesz lehetővé a bejáratig.",
+                "ro": "Parcarea centrală permite acces rapid la intrare.",
+                "en": "Central parking allows for a short walk to the entrance."
+              }
+            },
+            {
+              "name": "Raftsman's Monument",
+              "tip_5lang": {
+                "de": "Vom Auto aus gut sichtbar, falls es stark regnet.",
+                "hu": "Az autóból is jól látható, ha erősen esik.",
+                "ro": "Vizibil din mașină în caz de ploaie torențială.",
+                "en": "Well visible from the car if it's raining hard."
+              }
+            },
+            {
+              "name": "Gauja Bridge and Rapids",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum Aussichtspunkt.",
+                "hu": "Rövid gyalogút a parkolótól a kilátópontig.",
+                "ro": "Scurtă plimbare de la parcare la punctul de observație.",
+                "en": "Short walk from the parking area to the viewpoint."
+              }
+            },
+            {
+              "name": "Pine Path",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Regen etwas schlammig sein.",
+                "hu": "Az odavezető út esőben kissé sáros lehet.",
+                "ro": "Drumul de acces poate fi puțin noroios pe ploaie.",
+                "en": "The access road can be a bit muddy in the rain."
+              }
+            },
+            {
+              "name": "Strenči Psychiatric Clinic (Grounds)",
+              "tip_5lang": {
+                "de": "Großzügige Anlage, gut mit dem Auto zu umfahren.",
+                "hu": "Tágas terület, autóval jól körbejárható.",
+                "ro": "Zonă spațioasă, ușor de parcurs cu mașina.",
+                "en": "Spacious grounds, easy to drive around."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Pfützen am Straßenrand.",
+              "Halten Sie die Windschutzscheibe beschlagfrei.",
+              "Die Waldwege zum Park sind für PKW oft eng.",
+              "Nutzen Sie die Parkplätze im Zentrum für Besorgungen im Trockenen."
+            ],
+            "hu": [
+              "Ügyeljen az útmenti tócsákra.",
+              "Tartsa páramentesen a szélvédőt.",
+              "A parkba vezető erdei utak szűkek lehetnek autóval.",
+              "Használja a központi parkolókat a száraz ügyintézéshez."
+            ],
+            "ro": [
+              "Atenție la bălțile de pe marginea drumului.",
+              "Mențineți parbrizul dezaburit.",
+              "Drumurile spre parc pot fi înguste pentru mașini.",
+              "Folosiți parcările centrale pentru a rămâne la uscat."
+            ],
+            "en": [
+              "Watch out for deep puddles on the roadside.",
+              "Keep your windshield defogged for safety.",
+              "Forest roads to the park can be narrow for cars.",
+              "Use central parking spots for quick errands in the dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Strenči im Winter ist per Auto besonders entspannt. Starten Sie morgens bei den historischen Gebäuden im Zentrum. Mittags fahren Sie zur Gauja-Brücke, um die Eisschollen zu beobachten, ohne lange in der Kälte zu stehen. Der Nachmittagsbesuch im Naturpark ist dank kurzer Wege zum Auto auch bei Frost angenehm. Der Tag endet stimmungsvoll an der beleuchteten Klinik.\n\nIm warmen Auto lassen sich die frostigen Entfernungen leicht überbrücken. Mittags bietet der Fluss ein beeindruckendes Eisschauspiel. Nachmittags genießen wir die verschneite Natur, bevor wir zur Klinik weiterfahren. Der frühe Winterabend ist ideal für einen Blick auf die historische Architektur.",
+            "hu": "Strenči télen autóval a legkényelmesebb. Kezdje a reggelt a központi történelmi épületeknél. Délben hajtson a Gauja-hídhoz, hogy megnézze a jégtáblákat anélkül, hogy sokáig fagyoskodna. A délutáni látogatás a nemzeti parkban az autó közelsége miatt fagyban is kellemes. A nap hangulatosan ér véget a kivilágított klinikánál.\n\nA meleg autóban ülve a fagyos távolságok könnyen leküzdhetőek. Délben a folyó lenyűgöző jégjátékot mutat. Délután élvezzük a havas természetet, majd a klinikához hajtunk. A korai téli este tökéletes a történelmi épületek megtekintéséhez.",
+            "ro": "Strenči iarna este foarte relaxant cu mașina. Începeți dimineața la clădirile istorice din centru. La prânz, mergeți la podul Gauja pentru a observa sloiurile fără a sta mult în frig. Vizita după-amiezii în parcul natural este plăcută chiar și pe ger, datorită mașinii aproape. Ziua se încheie atmosferic la clinica iluminată.\n\nÎn mașina încălzită, distanțele geroase sunt ușor de parcurs. La prânz, râul oferă un spectacol impresionant de gheață. După-amiaza ne bucurăm de natura înzăpezită, apoi mergem la clinică. Seara timpurie de iarnă este ideală pentru arhitectura istorică.",
+            "en": "Strenči in winter is especially relaxed by car. Start your morning at the historic buildings in the center. At noon, drive to the Gauja Bridge to watch the ice floes without staying in the cold for too long. An afternoon visit to the nature park is pleasant even in frost thanks to the nearby car. The day ends atmospherically at the illuminated clinic.\n\nIn a warm car, the frosty distances are easily covered. At noon, the river offers an impressive ice display. In the afternoon, enjoy the snowy nature before driving to the clinic. The early winter evening is perfect for viewing the historic architecture."
+          },
+          "stops": [
+            {
+              "name": "Strenči Lutheran Church",
+              "tip_5lang": {
+                "de": "Parkplatz kann bei Neuschnee ungeräumt sein.",
+                "hu": "Friss hó esetén a parkoló takarítatlan lehet.",
+                "ro": "Parcarea poate fi necurățată în caz de ninsoare proaspătă.",
+                "en": "Parking area might not be cleared in case of fresh snow."
+              }
+            },
+            {
+              "name": "Strenči Culture House",
+              "tip_5lang": {
+                "de": "Guter Stopp für einen heißen Kaffee zum Mitnehmen.",
+                "hu": "Jó megálló egy forró elviteles kávéra.",
+                "ro": "O oprire bună pentru o cafea caldă la pachet.",
+                "en": "Good stop for a hot coffee to go."
+              }
+            },
+            {
+              "name": "Raftsman's Monument",
+              "tip_5lang": {
+                "de": "Achten Sie beim Parken auf gefrorene Schneehaufen.",
+                "hu": "Parkoláskor ügyeljen a fagyott hókupacokra.",
+                "ro": "Atenție la mormanele de zăpadă înghețată la parcare.",
+                "en": "Watch out for frozen snow piles when parking."
+              }
+            },
+            {
+              "name": "Gauja Bridge and Rapids",
+              "tip_5lang": {
+                "de": "Die Zufahrtswege zum Aussichtspunkt können glatt sein.",
+                "hu": "A kilátópontra vezető utak csúszósak lehetnek.",
+                "ro": "Drumurile de acces spre punctul de observație pot fi lunecoase.",
+                "en": "Access roads to the viewpoint can be slippery."
+              }
+            },
+            {
+              "name": "Pine Path",
+              "tip_5lang": {
+                "de": "Winterreifen sind auf den Nebenwegen zwingend erforderlich.",
+                "hu": "A mellékutakon a téli gumi kötelező.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pe drumurile secundare.",
+                "en": "Winter tires are mandatory on the side roads."
+              }
+            },
+            {
+              "name": "Strenči Psychiatric Clinic (Grounds)",
+              "tip_5lang": {
+                "de": "Die Straßen im Klinikgelände werden meist gut geräumt.",
+                "hu": "A klinika területén az utakat általában jól takarítják.",
+                "ro": "Drumurile din incinta clinicii sunt de obicei bine deszăpezite.",
+                "en": "Roads within the clinic grounds are usually well cleared."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und Schneebesen mit.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Vermeiden Sie das Parken unter schneebeladenen Bäumen.",
+              "Die Straßen können bei plötzlichem Frost spiegelglatt werden."
+            ],
+            "hu": [
+              "Vigyen magával jégkaparót és hókefét.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Kerülje a parkolást havas fák alatt.",
+              "Hirtelen fagy esetén az utak tükörsimák lehetnek."
+            ],
+            "ro": [
+              "Aveți la îndemână o racletă și o perie de zăpadă.",
+              "Verificați lichidul de parbriz antigel.",
+              "Evitați parcarea sub copaci încărcați cu zăpadă.",
+              "Drumurile pot deveni extrem de lunecoase la îngheț brusc."
+            ],
+            "en": [
+              "Carry an ice scraper and a snow brush.",
+              "Check the antifreeze level in your washer fluid.",
+              "Avoid parking under trees heavy with snow.",
+              "Roads can become mirror-smooth during sudden frost."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1464,6 +2046,188 @@
           "Be mindful of the last bus times to avoid getting stranded.",
           "Transit mode is good for connecting the main areas, but expect to do plenty of walking in between."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Strenči per Bus im Regen erkunden. Vormittags nutzen Sie die zentralen Haltestellen für Kirche und Kulturhaus. Mittags bringt Sie der Bus näher zur Gauja-Brücke, von wo aus Sie den regenreichen Fluss bewundern. Der Nachmittag am Kiefernweg erfordert ein kurzes Stück Weg, bevor Sie den Bus zur Klinik nehmen. Ein entspannter Tag ohne Parkplatzsuche im Nassen.\n\nÖffentliche Verkehrsmittel halten uns zwischen den Zielen trocken. Mittags erkunden wir das Flussufer in Seenähe. Nachmittags ist ein Naturspaziergang geplant, bevor wir zum Klinikgelände fahren. Der Tag endet bequem an der Bushaltestelle im Zentrum.",
+            "hu": "Fedezze fel Strenčit busszal esőben! Délelőtt a központi megállókat használjuk a templomhoz és a Művelődési Házhoz. Délben a busz közelebb visz a Gauja-hídhoz, ahonnan megcsodálhatjuk az esős folyót. A délutáni fenyőösvényhez egy rövid séta kell, mielőtt busszal a klinikához utazunk. Kényelmes nap parkolóhely-keresés nélkül.\n\nA tömegközlekedés szárazon tart minket a célpontok között. Délben a folyópartot fedezzük fel. Délután erdei séta vár ránk, majd a klinika területére utazunk. A nap kényelmesen, a központi buszmegállóban ér véget.",
+            "ro": "Explorați Strenči cu autobuzul pe ploaie. Dimineața folosiți stațiile centrale pentru biserică și Casa de Cultură. La prânz, autobuzul vă lasă aproape de podul Gauja pentru a admira râul. După-amiaza la poteca cu pini necesită o scurtă plimbare, înainte de a lua autobuzul spre clinică. O zi relaxată fără grija parcării pe ploaie.\n\nTransportul public ne ferește de ploaie între obiective. La prânz explorăm malul râului. După-amiaza este programată o plimbare în natură, urmată de vizita la clinică. Ziua se încheie confortabil în stația de autobuz din centru.",
+            "en": "Explore Strenči by bus in the rain. In the morning, use central stops for the church and Culture House. At noon, the bus brings you closer to the Gauja Bridge to admire the rainy river. An afternoon at the Pine Path requires a short walk before catching the bus to the clinic. A relaxed day without searching for parking in the wet.\n\nPublic transit keeps us dry between the sights. At noon, we explore the riverbank area. In the afternoon, a nature walk is planned before heading to the clinic grounds. The day ends conveniently at the central bus stop."
+          },
+          "stops": [
+            {
+              "name": "Strenči Culture House (Center)",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt mit Wartehäuschen.",
+                "hu": "Központi csomópont váróteremmel.",
+                "ro": "Nod central cu adăpost pentru călători.",
+                "en": "Central hub with a passenger shelter."
+              }
+            },
+            {
+              "name": "Strenči Lutheran Church",
+              "tip_5lang": {
+                "de": "Nur wenige Minuten Fußweg von der Haupthaltestelle.",
+                "hu": "Csak pár perc séta a főmegállótól.",
+                "ro": "Doar câteva minute de mers pe jos de la stația principală.",
+                "en": "Only a few minutes' walk from the main bus stop."
+              }
+            },
+            {
+              "name": "Raftsman's Monument",
+              "tip_5lang": {
+                "de": "Die Haltestelle befindet sich fast direkt am Denkmal.",
+                "hu": "A megálló szinte közvetlenül az emlékműnél van.",
+                "ro": "Stația se află aproape direct lângă monument.",
+                "en": "The stop is located almost directly by the monument."
+              }
+            },
+            {
+              "name": "Gauja Bridge Stop",
+              "tip_5lang": {
+                "de": "Guter Ausgangspunkt für Flussfotos im Regen.",
+                "hu": "Jó kiindulópont folyóparti fotókhoz esőben.",
+                "ro": "Punct bun de plecare pentru fotografii la râu pe ploaie.",
+                "en": "Good starting point for river photos in the rain."
+              }
+            },
+            {
+              "name": "Pine Path",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Fahrpläne, Busse fahren hier seltener.",
+                "hu": "Figyelje a menetrendet, itt ritkábban járnak a buszok.",
+                "ro": "Verificați orarul, autobuzele trec mai rar pe aici.",
+                "en": "Check the schedules, buses run less frequently here."
+              }
+            },
+            {
+              "name": "Strenči Psychiatric Clinic",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt direkt am Haupteingang der Anlage.",
+                "hu": "A megálló közvetlenül a főbejáratnál található.",
+                "ro": "Stația este situată chiar la intrarea principală.",
+                "en": "The stop is located right at the main entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die lokale Verkehrs-App für Echtzeitdaten.",
+              "Haben Sie Kleingeld für das Ticket beim Fahrer bereit.",
+              "Die Wartehäuschen bieten guten Schutz vor Wind und Regen.",
+              "Planen Sie Pufferzeiten für eventuelle Verspätungen ein."
+            ],
+            "hu": [
+              "Töltse le a helyi közlekedési appot a valós idejű adatokhoz.",
+              "Készítsen aprópénzt a sofőrnél váltható jegyhez.",
+              "A buszvárók jó védelmet nyújtanak a szél és eső ellen.",
+              "Tervezzen némi tartalékidőt az esetleges késések miatt."
+            ],
+            "ro": [
+              "Descărcați aplicația locală de transport pentru date în timp real.",
+              "Pregătiți mărunțiș pentru biletul cumpărat de la șofer.",
+              "Adăposturile din stații oferă protecție bună contra vântului.",
+              "Planificați timpi de rezervă pentru eventuale întârzieri."
+            ],
+            "en": [
+              "Download the local transit app for real-time updates.",
+              "Have small change ready for buying tickets from the driver.",
+              "Bus shelters provide good protection from wind and rain.",
+              "Plan some buffer time for potential delays."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Tag in Strenči mit öffentlichen Verkehrsmitteln. Der Vormittag startet gemütlich im warmen Bus Richtung Stadtzentrum. Mittags steigen Sie an der Gauja-Brücke aus, um die verschneite Uferlandschaft zu bewundern. Nachmittags führt ein kurzer winterlicher Fußweg zum Naturpark, bevor Sie den Bus zur Klinik nehmen. Den frühen Abend verbringen Sie an den beleuchteten Klinikgebäuden, bevor es zurück geht.\n\nBusse bieten eine willkommene Aufwärmpause zwischen den Spaziergängen. Mittags glitzert der gefrorene Fluss. Nachmittags genießen wir die Stille im verschneiten Wald. Den Tag beenden wir sicher und warm im Nahverkehrsmittel.",
+            "hu": "Téli nap Strenčiben tömegközlekedéssel. A délelőtt kényelmesen indul a fűtött buszon a városközpont felé. Délben a Gauja-hídnál szállunk le, hogy megcsodáljuk a havas partot. Délután egy rövid téli séta vezet a nemzeti parkhoz, mielőtt busszal a klinikához mennénk. A korai estét a kivilágított klinikánál töltjük a visszautazás előtt.\n\nA buszok kellemes melegedési lehetőséget adnak a séták között. Délben a befagyott folyó csillog. Délután a havas erdő csendjét élvezzük. A napot biztonságban és melegben fejezzük be a tömegközlekedési eszközökön.",
+            "ro": "O zi de iarnă în Strenči folosind transportul public. Dimineața începe confortabil în autobuzul încălzit spre centru. La prânz coborâți la podul Gauja pentru a admira malurile înzăpezite. După-amiaza, o scurtă plimbare de iarnă vă duce spre parcul natural, apoi luați autobuzul spre clinică. Seara timpurie o petreceți la clădirile luminate ale clinicii.\n\nAutobuzele oferă o pauză binemeritată pentru încălzire. La prânz, râul înghețat strălucește. După-amiaza ne bucurăm de liniștea pădurii înzăpezite. Încheiem ziua la căldură, folosind transportul local.",
+            "en": "A winter day in Strenči using public transport. The morning starts comfortably on a heated bus toward the city center. At noon, get off at the Gauja Bridge to admire the snowy riverbanks. A short winter walk in the afternoon leads to the nature park before catching the bus to the clinic. Spend the early evening by the illuminated clinic buildings before heading back.\n\nBuses provide a welcome warm-up break between your walks. At noon, the frozen river glitters. In the afternoon, enjoy the silence of the snowy forest. Finish the day safe and warm on public transit."
+          },
+          "stops": [
+            {
+              "name": "Strenči Culture House (Center)",
+              "tip_5lang": {
+                "de": "Das Wartehäuschen ist im Winter oft beleuchtet.",
+                "hu": "A buszváró télen gyakran ki van világítva.",
+                "ro": "Adăpostul din stație este adesea iluminat iarna.",
+                "en": "The bus shelter is often illuminated in winter."
+              }
+            },
+            {
+              "name": "Strenči Lutheran Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Ein- und Aussteigen auf vereisten Gehwegen.",
+                "hu": "Vigyázzon a le- és felszálláskor a jeges járdákon.",
+                "ro": "Atenție la urcare și coborâre pe trotuarele înghețate.",
+                "en": "Be careful when getting on and off on icy sidewalks."
+              }
+            },
+            {
+              "name": "Raftsman's Monument",
+              "tip_5lang": {
+                "de": "Halten Sie sich im Bus gut fest, falls dieser bremsen muss.",
+                "hu": "Kapaszkodjon erősen a buszon, ha fékeznie kell.",
+                "ro": "Țineți-vă bine în autobuz în caz de frânări bruște.",
+                "en": "Hold on tight in the bus in case it has to brake suddenly."
+              }
+            },
+            {
+              "name": "Gauja Bridge Stop",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist beim Warten am Fluss wichtig.",
+                "hu": "A folyóparti várakozásnál fontos a meleg ruházat.",
+                "ro": "Hainele groase sunt esențiale cât așteptați lângă râu.",
+                "en": "Warm clothes are vital while waiting near the river."
+              }
+            },
+            {
+              "name": "Pine Path",
+              "tip_5lang": {
+                "de": "Prüfen Sie vorab, wann der letzte Bus zurück fährt.",
+                "hu": "Ellenőrizze előre, mikor indul az utolsó busz vissza.",
+                "ro": "Verificați din timp când pleacă ultimul autobuz înapoi.",
+                "en": "Check in advance when the last bus departs back."
+              }
+            },
+            {
+              "name": "Strenči Psychiatric Clinic",
+              "tip_5lang": {
+                "de": "Die Klinik ist ein markanter Orientierungspunkt im Schnee.",
+                "hu": "A klinika jellegzetes tájékozódási pont a hóban.",
+                "ro": "Clinica este un punct de reper vizibil în zăpadă.",
+                "en": "The clinic is a prominent landmark in the snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Schneefall Verspätungen haben.",
+              "Nutzen Sie die Wartezeiten für kurze Aufwärmübungen.",
+              "Tragen Sie Reflektoren für eine bessere Sichtbarkeit.",
+              "Die Fahrpläne hängen an den Haupthaltestellen aus."
+            ],
+            "hu": [
+              "Erős havazás esetén a buszok késhetnek.",
+              "Használja a várakozási időt rövid bemelegítő gyakorlatokra.",
+              "Viseljen fényvisszaverőt a jobb láthatóságért.",
+              "A menetrendek ki vannak függesztve a főmegállókban."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri la ninsori puternice.",
+              "Folosiți timpul de așteptare pentru scurte exerciții de încălzire.",
+              "Purtați elemente reflectorizante pentru vizibilitate.",
+              "Orarele sunt afișate în stațiile principale."
+            ],
+            "en": [
+              "Buses may experience delays during heavy snowfall.",
+              "Use waiting times for short warm-up movements.",
+              "Wear reflectors for better visibility at stops.",
+              "Schedules are posted at the main bus stops."
+            ]
+          }
+        }
       }
     }
   }

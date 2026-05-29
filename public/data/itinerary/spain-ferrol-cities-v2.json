@@ -411,6 +411,218 @@
           "Museums are often closed on Mondays.",
           "A walk by the water is especially beautiful at sunset."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Tag im schachbrettartigen Barrio de la Magdalena, wo die Galerien Schutz bieten. Der Vormittag gehört der neoklassizistischen Architektur und der Kathedrale.\n\nMittags finden Sie Zuflucht in den gemütlichen Cafés rund um das Jofre-Theater. Das Wetter lädt dazu ein, die maritime Geschichte in den beheizten Hallen des Marinemuseums zu vertiefen.\n\nDer Nachmittag steht ganz im Zeichen der Schifffahrt bei Exponav. Die riesigen Ausstellungsräume halten Sie trocken, während Sie die Kunst des Schiffbaus bewundern.\n\nAbends schlendern Sie durch das Arsenal, wo das Licht der Laternen auf dem nassen Pflaster glänzt. Ein kurzer Weg führt zurück zu den Tapas-Bars der Altstadt.",
+            "hu": "Kezdje az esős napot a Magdalena-negyed négyzethálós utcáin, ahol a jellegzetes üvegezett erkélyek (galerías) alatt keressen menedéket. A délelőtt a neoklasszicista építészeté és a katedrálisé.\n\nDélben húzódjon be a Jofre Színház környéki hangulatos kávézók egyikébe. Az időjárás tökéletes arra, hogy a tengerészeti múzeum fűtött termeiben merüljön el a történelemben.\n\nA délután az Exponav kiállítótermeiben telik. A hatalmas fedett csarnokok szárazon tartják, miközben a hajóépítés mesterműveit csodálja.\n\nEste tegyen egy rövid sétát az Arzenál környékén, ahol a lámpafény megcsillan a vizes aszfalton. A napot a belváros egyik védett teraszán, helyi borokkal zárhatja.",
+            "ro": "Începeți ziua ploioasă în Barrio de la Magdalena, unde balcoanele vitrate oferă un adăpost vizual. Dimineața este dedicată arhitecturii neoclasice și co-catedralei San Julián.\n\nLa prânz, refugiați-vă în cafenelele primitoare de lângă Teatrul Jofre. Vremea este ideală pentru a explora istoria maritimă în sălile încălzite ale Muzeului Naval.\n\nDupă-amiaza este rezervată pentru Exponav. Spațiile vaste expoziționale vă mențin uscat în timp ce admirați arta construcțiilor navale galiciene.\n\nSeara, faceți o scurtă plimbare prin Arsenal, unde luminile se reflectă în pavajul umed. Încheiați ziua cu tapas într-un local tradițional din centru.",
+            "en": "Start your rainy day in the grid-like Barrio de la Magdalena, seeking shelter under the iconic glass balconies. The morning is dedicated to neoclassical architecture and the Co-cathedral.\n\nAt noon, find refuge in the cozy cafes around the Jofre Theatre. The weather is perfect for diving deep into maritime history inside the heated Naval Museum.\n\nSpend your afternoon at Exponav. The massive indoor exhibition halls keep you dry while you admire the intricate craft of shipbuilding.\n\nIn the evening, take a short stroll by the Arsenal, where the streetlights shimmer on the wet pavement. End your walk in a warm tavern in the old town."
+          },
+          "stops": [
+            {
+              "name": "Barrio de la Magdalena",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden und Galerien als Regenschutz beim Fotografieren.",
+                "hu": "Használja a jellegzetes zárt erkélyek alatti részeket esernyőmentes pihenőnek.",
+                "ro": "Folosiți arcadele și galeriile vitrate pentru a vă proteja de ploaie.",
+                "en": "Use the glass-enclosed balconies (galerías) as visual shelter for photos."
+              }
+            },
+            {
+              "name": "Co-cathedral of San Julián",
+              "coords": [
+                -8.233,
+                43.483
+              ],
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort, um die neoklassizistische Stille zu genießen.",
+                "hu": "Csendes, száraz menedék a neoklasszicista stílus megcsodálásához.",
+                "ro": "Un loc liniștit și uscat pentru a admira interiorul neoclasic.",
+                "en": "A peaceful, dry spot to admire the neoclassical interior architecture."
+              }
+            },
+            {
+              "name": "Jofre Theatre",
+              "tip_5lang": {
+                "de": "Die Lobby bietet bei plötzlichen Schauern einen schnellen Unterschlupf.",
+                "hu": "A színház előcsarnoka gyors menedék egy hirtelen zápor esetén.",
+                "ro": "Lobby-ul teatrului oferă un adăpost rapid în caz de aversă.",
+                "en": "The theatre lobby offers a quick escape if a sudden shower hits."
+              }
+            },
+            {
+              "name": "Cuartel de Dolores",
+              "tip_5lang": {
+                "de": "Betrachten Sie die Fassade zügig; die nächsten Museen sind komplett überdacht.",
+                "hu": "Csak egy gyors pillantás a homlokzatra; a következő állomások már fedettek.",
+                "ro": "Admirați fațada rapid; următoarele obiective sunt complet acoperite.",
+                "en": "A quick look at the facade before heading to the fully indoor museums."
+              }
+            },
+            {
+              "name": "Naval Museum",
+              "tip_5lang": {
+                "de": "Perfekt für Regentage: Stundenlang drinnen zwischen Schiffsmodellen stöbern.",
+                "hu": "Ideális esőnapra: órákig böngészhet a hajómodellek között a szárazon.",
+                "ro": "Perfect pentru zile ploioase: ore întregi de explorat machete navale la uscat.",
+                "en": "Perfect for rainy days: spend hours exploring ship models indoors."
+              }
+            },
+            {
+              "name": "Exponav",
+              "tip_5lang": {
+                "de": "Die riesige Halle bietet Schutz und faszinierende Technikgeschichte.",
+                "hu": "A hatalmas csarnok védelmet és lenyűgöző technikatörténetet kínál.",
+                "ro": "Hala masivă oferă protecție și o istorie tehnică fascinantă.",
+                "en": "The massive hall provides shelter and fascinating industrial history."
+              }
+            },
+            {
+              "name": "Arsenal of Ferrol",
+              "tip_5lang": {
+                "de": "Die industriellen Strukturen wirken im grauen Regenlicht besonders authentisch.",
+                "hu": "Az ipari épületek a szürke esőben még autentikusabb látványt nyújtanak.",
+                "ro": "Structurile industriale par deosebit de autentice în lumina gri a ploii.",
+                "en": "The industrial structures look particularly authentic in the grey rainy light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine windfeste Regenjacke; Regenschirme knicken an der Küste oft um.",
+              "Die Museen (Naval/Exponav) sind die besten Rückzugsorte bei Dauerregen.",
+              "Achten Sie auf rutschiges Kopfsteinpflaster in Ferrol Vello.",
+              "Die 'Galerías' in der Magdalena-Siedlung sind der beste natürliche Schutz.",
+              "In Cafés gibt es oft 'Chocolate con churros' zum Aufwärmen."
+            ],
+            "hu": [
+              "Szélálló esőkabátot vigyen; az atlanti szél gyakran tönkreteszi az esernyőket.",
+              "A tengerészeti múzeumok a legjobb menedékek tartós eső esetén.",
+              "Vigyázzon a csúszós macskakövekre a régi kikötő környékén.",
+              "A Magdalena-negyed üvegezett erkélyei alatt sétálva kevesebbet ázik.",
+              "Igyon egy forró csokoládét churrosszal bármelyik sarki kávézóban."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă rezistentă la vânt; umbrelele se pot rupe pe coastă.",
+              "Muzeele navale sunt cele mai bune refugii în caz de ploaie continuă.",
+              "Atenție la pavajul umed și alunecos din zona Ferrol Vello.",
+              "Plimbarea sub balcoanele de sticlă din Magdalena vă ferește de stropi.",
+              "Încălziți-vă cu o ciocolată caldă și churros în cafenelele locale."
+            ],
+            "en": [
+              "Wear a windproof raincoat; umbrellas often fail in the Atlantic gusts.",
+              "The Naval and Exponav museums are your best bets for long-duration rain.",
+              "Watch out for slippery cobblestones in the older parts of town.",
+              "Walking close to the buildings in Magdalena helps avoid the worst of the rain.",
+              "Warm up with local 'chocolate con churros' in any traditional cafe."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Winterluft im Barrio de la Magdalena. Die tiefstehende Sonne lässt die weißen Glasgalerien der Häuser hell erstrahlen.\n\nMittags wärmen Sie sich in der Co-Kathedrale auf, bevor Sie das kulturelle Herz der Stadt beim Jofre-Theater besuchen. Die kühlen Temperaturen machen den Spaziergang erfrischend.\n\nDer Nachmittag ist ideal für die großen Museen. Im Marinemuseum und bei Exponav entfliehen Sie dem winterlichen Wind vom Atlantik und tauchen in die Geschichte ein.\n\nDa es früh dunkel wird, endet der Tag im stimmungsvoll beleuchteten Arsenal. Die warme Beleuchtung der historischen Schiffe schafft eine magische Atmosphäre zum Tagesabschluss.",
+            "hu": "Élvezze a friss téli levegőt a Magdalena-negyedben. Az alacsonyan járó nap fényében fehéren csillognak a házak híres üvegerkélyei.\n\nDélben melegedjen fel a katedrálisban, majd látogasson el a kulturális központnak számító Jofre Színházhoz. A hűvös idő frissítővé teszi a városnézést.\n\nA délután tökéletes a nagy múzeumok felfedezéséhez. A Haditengerészeti Múzeumban és az Exponav csarnokaiban elbújhat az atlanti szél elől.\n\nMivel korán sötétedik, a napot az ünnepi fényekbe öltözött Arzenálnál zárja. A történelmi hajók esti megvilágítása különleges hangulatot áraszt.",
+            "ro": "Bucurați-vă de aerul curat de iarnă în Barrio de la Magdalena. Soarele blând face ca galeriile albe de sticlă ale caselor să strălucească intens.\n\nLa prânz, încălziți-vă în co-catedrală înainte de a trece pe lângă Teatrul Jofre. Temperaturile scăzute fac plimbarea prin centrul istoric foarte reconfortantă.\n\nDupă-amiaza este ideală pentru marile muzee. În Muzeul Naval și Exponav scăpați de vântul tăios al Atlanticului și explorați istoria locală.\n\nDeoarece se întunecă devreme, încheiați ziua în Arsenalul luminat ambiental. Atmosfera caldă a luminilor de seară oferă un final magic vizitei.",
+            "en": "Enjoy the crisp winter air in Barrio de la Magdalena. The low winter sun makes the white glass galleries of the historic houses shine brightly.\n\nAt noon, warm up inside the Co-cathedral before visiting the cultural hub around the Jofre Theatre. The cool breeze makes for an invigorating walk.\n\nAfternoon is the best time for the major museums. Inside the Naval Museum and Exponav, you can escape the Atlantic wind and dive into maritime lore.\n\nAs darkness falls early, end your day at the atmospherically lit Arsenal. The warm evening lights on the historic vessels create a magical end to the day."
+          },
+          "stops": [
+            {
+              "name": "Barrio de la Magdalena",
+              "tip_5lang": {
+                "de": "Das Winterlicht ist perfekt für Fotos der berühmten weißen Glasfassaden.",
+                "hu": "A téli fények tökéletesek a híres fehér üveghomlokzatok fotózásához.",
+                "ro": "Lumina de iarnă este ideală pentru fotografii cu fațadele albe de sticlă.",
+                "en": "The winter light is perfect for photographing the famous white glass facades."
+              }
+            },
+            {
+              "name": "Co-cathedral of San Julián",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um kurz zur Ruhe zu kommen und dem Wind zu entgehen.",
+                "hu": "Remek hely egy kis csendes pihenőre és a szél elöli menedékre.",
+                "ro": "Un loc bun pentru reculegere și pentru a evita vântul de afară.",
+                "en": "A good place to find peace and escape the biting winter wind."
+              }
+            },
+            {
+              "name": "Jofre Theatre",
+              "tip_5lang": {
+                "de": "Prüfen Sie das Winterprogramm für gemütliche Abendvorstellungen im Warmen.",
+                "hu": "Nézze meg a téli műsort egy hangulatos, meleg esti előadáshoz.",
+                "ro": "Verificați programul de iarnă pentru spectacole de seară la căldură.",
+                "en": "Check the winter schedule for cozy evening performances indoors."
+              }
+            },
+            {
+              "name": "Cuartel de Dolores",
+              "tip_5lang": {
+                "de": "Die Steinmauern wirken in der Wintersonne besonders plastisch.",
+                "hu": "A kőfalak a téli napsütésben különösen karakteres látványt nyújtanak.",
+                "ro": "Zidurile de piatră par foarte texturate în lumina soarelui de iarnă.",
+                "en": "The stone walls look particularly textured in the low winter sun."
+              }
+            },
+            {
+              "name": "Naval Museum",
+              "tip_5lang": {
+                "de": "Beheizte Räume machen das Studium der Seekarten im Winter angenehm.",
+                "hu": "A fűtött termekben télen is kényelmes a tengeri térképek böngészése.",
+                "ro": "Sălile încălzite fac explorarea hărților navale foarte plăcută iarna.",
+                "en": "Heated rooms make studying maritime charts very pleasant in winter."
+              }
+            },
+            {
+              "name": "Exponav",
+              "tip_5lang": {
+                "de": "Großartige Indoor-Aktivität, um dem kalten Meereswind zu entkommen.",
+                "hu": "Nagyszerű beltéri program, hogy elmeneküljön a hideg tengeri szél elől.",
+                "ro": "O activitate excelentă în interior pentru a scăpa de vântul rece de mare.",
+                "en": "A great indoor activity to escape the cold sea breeze."
+              }
+            },
+            {
+              "name": "Arsenal of Ferrol",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 18:00 Uhr, um die Blaue Stunde zu nutzen.",
+                "hu": "Látogasson el ide 18:00 előtt, hogy elcsípje a kék órát a kikötőben.",
+                "ro": "Vizitați acest loc înainte de ora 18:00 pentru a surprinde 'ora albastră'.",
+                "en": "Visit before 6:00 PM to catch the blue hour over the historic port."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang findet im Winter gegen 18:00 Uhr statt; planen Sie früh.",
+              "Zwiebelprinzip bei der Kleidung: Der Wind vom Hafen kann tückisch sein.",
+              "Genießen Sie 'Caldo Gallego' (galizischer Eintopf) zum Aufwärmen am Mittag.",
+              "Die Museen sind gut beheizt und bieten Komfort bei kalten Außentemperaturen.",
+              "Tragen Sie bequeme, isolierte Schuhe für die Steinpflasterwege."
+            ],
+            "hu": [
+              "A naplemente télen 18:00 körül van; fejezze be a szabadtéri részt addig.",
+              "Öltözzön rétegesen: a kikötői szél hűvösebbnek érződik, mint a városi.",
+              "Kóstolja meg a 'Caldo Gallego'-t (galíciai egytálétel) ebédre a melegedéshez.",
+              "A múzeumok jól fűtöttek, ideálisak a leghidegebb órákban.",
+              "Viseljen kényelmes, hőszigetelt talpú cipőt a köves utcákhoz."
+            ],
+            "ro": [
+              "Apusul este în jur de ora 18:00 iarna; planificați activitățile din timp.",
+              "Îmbrăcați-vă în straturi: vântul din port poate fi destul de tăios.",
+              "Încercați 'Caldo Gallego' pentru un prânz cald și sățios de iarnă.",
+              "Muzeele sunt bine încălzite și oferă confort termic pe tot parcursul zilei.",
+              "Purtați încălțăminte izolată și comodă pentru trotuarele pietruite."
+            ],
+            "en": [
+              "Sunset is around 6:00 PM in winter; plan your outdoor photos before then.",
+              "Layer your clothing: the port breeze can be much colder than in the city.",
+              "Try 'Caldo Gallego' (Galician broth) for a warming winter lunch.",
+              "The museums are well-heated and offer comfort during the coldest hours.",
+              "Wear comfortable, insulated shoes for the stone-paved streets."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -591,6 +803,196 @@
           "A helmet is strongly recommended.",
           "Check the castle's opening hours before you set off."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im galizischen Regen erfordert gute Ausrüstung. Starten Sie vorsichtig im Barrio de la Magdalena und nutzen Sie die flachen Wege zum Arsenal.\n\nMittags bieten das Marinemuseum und Exponav sichere Unterstellmöglichkeiten für Räder und stundenlangen Schutz vor dem Wetter in den Ausstellungen.\n\nNach einer Pause in Ferrol Vello führt der Weg zum Schloss San Felipe. Seien Sie auf dem Küstenweg vorsichtig, da der Wind und Regen hier zunehmen können.\n\nDer Rückweg zum Zentrum erfolgt bei nachlassendem Licht. Die nasse Straße reflektiert die Lichter der Stadt und verleiht der Fahrt eine besondere Dynamik.",
+            "hu": "Egy kerékpártúra a galíciai esőben megfelelő felszerelést igényel. Kezdjen óvatosan a Magdalena-negyedben, kihasználva a lapos utakat az Arzenál felé.\n\nDélben a Haditengerészeti Múzeum és az Exponav biztonságos tárolót és órákon át tartó védelmet nyújt az időjárás elől a kiállítóterekben.\n\nEgy Ferrol Vello-ban tartott szünet után irány a San Felipe vár. Legyen óvatos a parti úton, mert a szél és az eső itt felerősödhet.\n\nA visszautat a központba már szürkületben teheti meg. A vizes aszfalton megcsillanó városi fények különleges dinamikát adnak a tekerésnek.",
+            "ro": "O tură cu bicicleta în ploaia galiciană necesită echipament bun. Începeți cu atenție în Barrio de la Magdalena, profitând de drumurile plate spre Arsenal.\n\nLa prânz, Muzeul Naval și Exponav oferă locuri de parcare și protecție împotriva vremii pe parcursul vizitării expozițiilor.\n\nDupă o pauză în Ferrol Vello, drumul continuă spre Castelul San Felipe. Fiți precaut pe drumul de coastă, deoarece vântul și ploaia se pot intensifica.\n\nÎntoarcerea spre centru se face pe măsură ce lumina scade. Asfaltul umed reflectă luminile orașului, oferind o dinamică aparte cursei.",
+            "en": "A bike ride in the Galician rain requires proper gear. Start carefully in Barrio de la Magdalena, taking advantage of the flat paths toward the Arsenal.\n\nAt noon, the Naval Museum and Exponav offer safe bike parking and hours of shelter while you explore the indoor exhibitions.\n\nAfter a break in Ferrol Vello, head towards San Felipe Castle. Be extra careful on the coastal road, as wind and rain can be stronger there.\n\nThe ride back to the center happens as light fades. The wet roads reflecting city lights give the journey a unique, cinematic feel."
+          },
+          "stops": [
+            {
+              "name": "Barrio de la Magdalena",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster; fahren Sie langsamer.",
+                "hu": "Vigyázzon a vizes macskakövön; tekerjen lassabban a kanyarokban.",
+                "ro": "Atenție pe pavajul umed; pedalați mai încet în intersecții.",
+                "en": "Watch out for slippery cobblestones; slow down on corners."
+              }
+            },
+            {
+              "name": "Arsenal of Ferrol",
+              "tip_5lang": {
+                "de": "Flaches Gelände, ideal zum Radfahren auch bei leichtem Regen.",
+                "hu": "Sík terep, ideális kerékpározáshoz még enyhe esőben is.",
+                "ro": "Teren plat, ideal pentru ciclism chiar și pe ploaie ușoară.",
+                "en": "Flat terrain, ideal for cycling even in light rain."
+              }
+            },
+            {
+              "name": "Naval Museum & Exponav",
+              "tip_5lang": {
+                "de": "Suchen Sie überdachte Fahrradständer in der Nähe des Eingangs.",
+                "hu": "Keressen fedett kerékpártárolót a bejárat közelében.",
+                "ro": "Căutați rastele de biciclete acoperite în apropierea intrării.",
+                "en": "Look for covered bike racks near the museum entrance."
+              }
+            },
+            {
+              "name": "Lunch in Ferrol Vello",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem geschützten Ort ab, während Sie essen.",
+                "hu": "Hagyja a biciklit védett helyen, amíg elfogyasztja az ebédjét.",
+                "ro": "Lăsați bicicleta într-un loc ferit cât timp luați prânzul.",
+                "en": "Park your bike in a sheltered spot while you enjoy lunch."
+              }
+            },
+            {
+              "name": "Castle of San Felipe",
+              "tip_5lang": {
+                "de": "Der Boden im Schloss kann bei Regen sehr rutschig sein; gehen Sie zu Fuß.",
+                "hu": "A vár udvara esőben csúszós lehet; sétáljon óvatosan a köveken.",
+                "ro": "Curtea castelului poate fi alunecoasă; mergeți pe jos cu atenție.",
+                "en": "The castle grounds can be very slippery when wet; walk your bike."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Rückfahrt im nassen Stadtverkehr.",
+                "hu": "Ellenőrizze a fékeket a vizes városi forgalomba való visszatérés előtt.",
+                "ro": "Verificați frânele înainte de a intra în traficul urban umed.",
+                "en": "Check your brakes before returning to the wet city traffic."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist ein Muss (Hose, Jacke, Schuhüberzieher).",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nassem Pflaster.",
+              "Nutzen Sie die Hafenstraße; sie ist flach und hat weniger Wasserpfützen.",
+              "Die Museen sind perfekte Etappenziele, um zwischendurch zu trocknen.",
+              "Achten Sie auf starke Windböen an der Küstenstraße nach San Felipe."
+            ],
+            "hu": [
+              "A teljes esőfelszerelés kötelező (nadrág, kabát, cipővédő).",
+              "Csökkentse kicsit a guminyomást a jobb tapadásért a vizes úton.",
+              "Használja a kikötői utat; ez sík és kevesebb rajta a víztócsa.",
+              "A múzeumok tökéletes megállók, hogy közben megszáradjon a ruhája.",
+              "Figyeljen az erős széllökésekre a San Felipe felé vezető parti úton."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este obligatoriu (pantaloni, jachetă).",
+              "Reduceți puțin presiunea în pneuri pentru aderență pe asfalt umed.",
+              "Folosiți drumul portuar; este plat și are mai puține bălți.",
+              "Muzeele sunt opriri excelente pentru a vă usca echipamentul între etape.",
+              "Fiți atenți la rafalele de vânt pe drumul de coastă spre San Felipe."
+            ],
+            "en": [
+              "Full rain gear is a must (waterproof trousers, jacket, and shoe covers).",
+              "Slightly reduce tire pressure for better grip on wet cobblestones.",
+              "Stick to the port roads; they are flatter and have fewer puddles.",
+              "Museums are perfect waypoints to dry off your gear mid-trip.",
+              "Watch out for strong wind gusts on the coastal road to San Felipe."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Wintersonne über Ferrol bietet ideale Bedingungen für eine aktive Radtour. Starten Sie erfrischt im Barrio de la Magdalena durch die klaren Straßen.\n\nAm Vormittag erkunden Sie das Arsenal und die Museen. Die körperliche Aktivität hält Sie warm, während Sie zwischen den historischen Stätten pendeln.\n\nMittags genießen Sie die Sonne in Ferrol Vello, bevor Sie die längere Fahrt zum Schloss San Felipe antreten. Der Blick auf die Mündung im Winterlicht ist spektakulär.\n\nKehren Sie vor Sonnenuntergang zum Zentrum zurück, da die Temperaturen am Wasser schnell sinken, sobald die Sonne hinter dem Horizont verschwindet.",
+            "hu": "A hűvös téli napsütés ideális feltételeket biztosít egy aktív kerékpártúrához Ferrolban. Kezdjen frissen a Magdalena-negyed tiszta utcáin.\n\nDélelőtt fedezze fel az Arzenált és a múzeumokat. A mozgás melegen tartja, miközben a történelmi helyszínek között ingázik.\n\nDélben élvezze a napsütést Ferrol Vello-ban, mielőtt nekivág a San Felipe vár felé vezető hosszabb útnak. A torkolat látványa téli fényben lenyűgöző.\n\nTérjen vissza a központba naplemente előtt, mert a vízparton gyorsan lehűl a levegő, amint a nap eltűnik a horizont mögött.",
+            "ro": "Soarele rece de iarnă peste Ferrol oferă condiții ideale pentru o tură activă cu bicicleta. Începeți plin de energie pe străzile din Barrio de la Magdalena.\n\nÎn cursul dimineții, explorați Arsenalul și muzeele. Activitatea fizică vă va menține cald în timp ce pedalați între obiectivele istorice.\n\nLa prânz, bucurați-vă de soare în Ferrol Vello înainte de a porni spre Castelul San Felipe. Vederea asupra estuarului în lumina iernii este spectaculoasă.\n\nÎntoarceți-vă în centru înainte de apus, deoarece temperaturile scad rapid lângă apă odată ce soarele dispare.",
+            "en": "The cool winter sun over Ferrol provides perfect conditions for an active bike tour. Start refreshed in the clear streets of Barrio de la Magdalena.\n\nDuring the morning, explore the Arsenal and the museums. The physical activity will keep you warm as you commute between historical sites.\n\nAt noon, soak up the sun in Ferrol Vello before taking the longer ride to San Felipe Castle. The view of the estuary in the winter light is spectacular.\n\nReturn to the center before sunset, as temperatures near the water drop quickly once the sun dips below the horizon."
+          },
+          "stops": [
+            {
+              "name": "Barrio de la Magdalena",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; der Fahrtwind ist im Winter sehr kühl.",
+                "hu": "Viseljen kesztyűt; a menetszél télen nagyon hideg lehet.",
+                "ro": "Purtați mănuși; vântul din timpul mersului este foarte rece iarna.",
+                "en": "Wear gloves; the wind chill while riding can be quite cold in winter."
+              }
+            },
+            {
+              "name": "Arsenal of Ferrol",
+              "tip_5lang": {
+                "de": "Die offene Fläche kann windig sein; achten Sie auf Ihre Kleidungsschichten.",
+                "hu": "A nyílt terep szeles lehet; ügyeljen a megfelelő réteges öltözködésre.",
+                "ro": "Zona deschisă poate fi vântoasă; atenție la straturile de haine.",
+                "en": "The open area can be windy; make sure your layers are zipped up."
+              }
+            },
+            {
+              "name": "Naval Museum & Exponav",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause für Ihre Hände.",
+                "hu": "Használja a múzeumlátogatást melegedő szünetnek a kezei számára.",
+                "ro": "Folosiți vizita la muzeu ca o pauză pentru a vă încălzi mâinile.",
+                "en": "Use the museum visit as a warming break for your hands."
+              }
+            },
+            {
+              "name": "Lunch in Ferrol Vello",
+              "tip_5lang": {
+                "de": "Suchen Sie einen sonnigen Platz im Freien für die Mittagssonne.",
+                "hu": "Keressen egy napos helyet a teraszon a déli napsütéshez.",
+                "ro": "Căutați un loc însorit la exterior pentru a profita de soarele de prânz.",
+                "en": "Look for a sunny outdoor spot to catch the midday rays."
+              }
+            },
+            {
+              "name": "Castle of San Felipe",
+              "tip_5lang": {
+                "de": "Planen Sie die Besichtigung vor 16:30 Uhr, um Tageslicht zu haben.",
+                "hu": "Tervezze a látogatást 16:30 elé, hogy legyen még elég természetes fény.",
+                "ro": "Planificați vizita înainte de 16:30 pentru a avea lumină naturală.",
+                "en": "Plan your visit before 4:30 PM to ensure you have enough daylight."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_5lang": {
+                "de": "Sorgen Sie für funktionierendes Licht am Rad für die Dämmerung.",
+                "hu": "Gondoskodjon a működő világításról a szürkületi visszautazáshoz.",
+                "ro": "Asigurați-vă că aveți lumini funcționale pentru drumul de întoarcere.",
+                "en": "Ensure your bike lights are working for the twilight return ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Unterwäsche und winddichte Fronten.",
+              "Die Sonne steht tief; eine Sonnenbrille ist beim Fahren wichtig.",
+              "Planen Sie die Küstenetappe für die Mittagsstunden (wärmste Zeit).",
+              "Nehmen Sie eine Thermoskanne mit einem warmen Getränk mit.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den frühen Abend bereit ist."
+            ],
+            "hu": [
+              "Viseljen aláöltözetet és szélálló külső réteget.",
+              "A nap alacsonyan jár; a napszemüveg fontos a biztonságos tekeréshez.",
+              "A parti szakaszt a déli órákra időzítse (ekkor a legmelegebb).",
+              "Vigyen magával termoszt egy forró itallal a pihenőkhöz.",
+              "Ellenőrizze, hogy a lámpák készen állnak-e a korai sötétedésre."
+            ],
+            "ro": [
+              "Purtați lenjerie termică și haine cu protecție la vânt.",
+              "Soarele este jos; ochelarii de soare sunt importanți pentru vizibilitate.",
+              "Planificați etapa de coastă pentru orele prânzului (cea mai caldă perioadă).",
+              "Luați un termos cu o băutură caldă pentru pauzele de pe traseu.",
+              "Asigurați-vă că luminile bicicletei sunt pregătite pentru lăsarea serii."
+            ],
+            "en": [
+              "Wear thermal base layers and windproof outer shells.",
+              "The sun is low in the sky; sunglasses are essential for safe riding.",
+              "Schedule the coastal leg for the midday hours (the warmest part of the day).",
+              "Bring a thermos with a warm drink for your rest stops.",
+              "Check that your bike lights are ready for the early winter dusk."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -801,6 +1203,214 @@
           "The roads to Castillo de San Felipe can be narrow. Drive carefully.",
           "Always have some cash on hand for parking meters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Ferrol auch bei starkem Regen bequem zu erkunden. Starten Sie im Barrio de la Magdalena, wo Sie in der Nähe der Galerien parken können.\n\nBesuchen Sie die Co-Kathedrale und das Jofre-Theater trockenen Fußes. Mittags steuern Sie direkt die Museen am Hafen an, die über gute Parkmöglichkeiten verfügen.\n\nDer Nachmittag gehört dem Schloss San Felipe. Die kurze Fahrt entlang der Küste bietet trotz Regen tolle Ausblicke aus dem warmen Fahrzeug.\n\nZum Abschluss fahren Sie zum Aussichtspunkt Prioriño. Beobachten Sie die tosende Gischt des Atlantiks sicher aus dem Auto, bevor Sie zum Abendessen zurückkehren.",
+            "hu": "Autóval Ferrol még heves esőzésben is kényelmesen felfedezhető. Kezdjen a Magdalena-negyedben, ahol a fedett erkélyes házak közelében parkolhat.\n\nLátogasson el a katedrálishoz és a Jofre Színházhoz, szinte száraz lábbal. Délben vegye az irányt a kikötői múzeumok felé, ahol jók a parkolási lehetőségek.\n\nA délután a San Felipe váré. A parti út esőben is látványos a meleg autó ablakából szemlélve.\n\nA napot a Prioriño kilátónál zárja. Figyelje az Atlanti-óceán hullámait biztonságban az autóból, mielőtt visszatérne vacsorázni.",
+            "ro": "Cu mașina, Ferrol este ușor de explorat chiar și pe ploaie torențială. Începeți în Barrio de la Magdalena, parcând aproape de celebrele galerii.\n\nVizitați co-catedrala și Teatrul Jofre fără să vă udați prea tare. La prânz, conduceți direct spre muzeele din port, unde parcarea este facilă.\n\nDupă-amiaza este dedicată Castelului San Felipe. Drumul scurt pe coastă oferă perspective frumoase din interiorul vehiculului încălzit.\n\nÎncheiați vizita la punctul de observație Prioriño. Admirați forța Atlanticului din siguranța mașinii înainte de a vă întoarce pentru cină.",
+            "en": "By car, Ferrol is comfortable to explore even in heavy rain. Start in Barrio de la Magdalena, parking close to the historic glass-balcony houses.\n\nVisit the Co-cathedral and Jofre Theatre with minimal exposure to the elements. At noon, head straight to the harbor museums, which have convenient parking.\n\nSpend your afternoon at San Felipe Castle. The short coastal drive offers great views from the warmth of your vehicle despite the weather.\n\nFinish your day at the Prioriño Viewpoint. Watch the crashing Atlantic surf safely from your car before heading back for a warm dinner."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Barrio de la Magdalena",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus in der Nähe der Plaza de España, um trocken zu bleiben.",
+                "hu": "Használja a Plaza de España közeli parkolóházat, hogy száraz maradjon.",
+                "ro": "Folosiți parcarea subterană de lângă Plaza de España pentru a rămâne uscat.",
+                "en": "Use the underground parking near Plaza de España to stay dry."
+              }
+            },
+            {
+              "name": "Co-cathedral of San Julián",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz ermöglichen einen trockenen Besuch.",
+                "hu": "A parkolótól való rövid távolság lehetővé teszi a száraz látogatást.",
+                "ro": "Distanța scurtă de la parcare permite o vizită fără a vă uda.",
+                "en": "Short walking distance from street parking makes for a dry visit."
+              }
+            },
+            {
+              "name": "Jofre Theatre",
+              "tip_5lang": {
+                "de": "Lassen Sie Passagiere direkt vor dem Eingang aussteigen.",
+                "hu": "Az utasok kiszállhatnak közvetlenül a bejárat előtt az esőben.",
+                "ro": "Lăsați pasagerii să coboare chiar în fața intrării principale.",
+                "en": "Drop off passengers right in front of the entrance to avoid the rain."
+              }
+            },
+            {
+              "name": "Cluster B: Arsenal & Museums",
+              "tip_5lang": {
+                "de": "Parken Sie direkt auf dem Gelände des Marinemuseums.",
+                "hu": "Parkoljon közvetlenül a Haditengerészeti Múzeum területén.",
+                "ro": "Parcați direct în incinta Muzeului Naval pentru acces rapid.",
+                "en": "Park directly within the Naval Museum grounds for quick access."
+              }
+            },
+            {
+              "name": "Naval Museum & Exponav",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um das Auto während des stärksten Regens stehen zu lassen.",
+                "hu": "Ideális hely az autó hagyására a leghevesebb esőzés idején.",
+                "ro": "Un loc ideal pentru a lăsa mașina în timpul ploii abundente.",
+                "en": "An ideal spot to leave the car during the heaviest downpours."
+              }
+            },
+            {
+              "name": "Cluster C: Castle of San Felipe",
+              "tip_5lang": {
+                "de": "Die Straße zum Schloss kann bei Regen schmal und rutschig sein.",
+                "hu": "A várhoz vezető út esőben keskenynek és csúszósnak tűnhet.",
+                "ro": "Drumul spre castel poate fi îngust și alunecos pe ploaie.",
+                "en": "The road to the castle can be narrow and slippery when wet."
+              }
+            },
+            {
+              "name": "Prioriño Viewpoint",
+              "tip_5lang": {
+                "de": "Bester Ort, um das Unwetter über dem Meer sicher zu beobachten.",
+                "hu": "A legjobb hely a tengeri vihar biztonságos megfigyelésére.",
+                "ro": "Cel mai bun loc pentru a observa furtuna pe mare în siguranță.",
+                "en": "The best spot to watch the sea storm from the safety of your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Tiefgaragen im Zentrum (Magdalena), um Regen zu vermeiden.",
+              "Prüfen Sie die Scheibenwischer; galizischer Regen kann sehr intensiv sein.",
+              "Die Fahrt nach Prioriño ist bei Sturm ein Erlebnis, bleiben Sie aber im Wagen.",
+              "Museen am Hafen haben oft eigene, kostenlose Parkflächen.",
+              "Planen Sie etwas mehr Zeit für die Parkplatzsuche in Ferrol Vello ein."
+            ],
+            "hu": [
+              "Használja a belvárosi mélygarázsokat a száraz bejutáshoz.",
+              "Ellenőrizze az ablaktörlőket; a galíciai eső hirtelen felerősödhet.",
+              "A Prioriño felé vezető út viharban nagy élmény, de maradjon az autóban.",
+              "A kikötői múzeumoknak gyakran van saját, ingyenes parkolójuk.",
+              "Számoljon kicsit több idővel a parkolásra Ferrol Vello környékén."
+            ],
+            "ro": [
+              "Folosiți parcările subterane din centru pentru a evita ploaia.",
+              "Verificați ștergătoarele; ploaia galiciană poate fi foarte intensă.",
+              "Drumul spre Prioriño este spectaculos pe furtună, dar stați în mașină.",
+              "Muzeele din port au adesea locuri de parcare proprii și gratuite.",
+              "Alocați mai mult timp pentru găsirea unui loc de parcare în Ferrol Vello."
+            ],
+            "en": [
+              "Utilize underground parking garages in the center to stay dry.",
+              "Check your wipers; Galician rain can be very sudden and intense.",
+              "The drive to Prioriño is an experience during a storm; stay inside the car.",
+              "Port museums often have their own free parking areas.",
+              "Allow extra time for finding street parking near Ferrol Vello."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Ferrol bequem mit dem Auto. Das klare Wetter im Winter bietet weite Sichtweiten über die Mündung und die Stadtlandschaft.\n\nAm Vormittag fahren Sie durch das historische Barrio de la Magdalena und besuchen die wichtigsten Sehenswürdigkeiten im Zentrum. Die Heizung sorgt für Komfort.\n\nNach dem Besuch der Museen am Hafen führt die Route zum Schloss San Felipe. Die tiefstehende Wintersonne taucht die Festung in ein goldenes Licht.\n\nDen Höhepunkt bildet die Fahrt zum Aussichtspunkt Prioriño vor Einbruch der Dunkelheit. Genießen Sie den dramatischen Sonnenuntergang über dem Atlantik, bevor Sie gemütlich zurückfahren.",
+            "hu": "Fedezze fel a téli Ferrolt kényelmesen, autóval. A tiszta téli időjárás nagy látótávolságot biztosít a torkolatra és a városra.\n\nDélelőtt hajtson át a történelmi Magdalena-negyeden, és látogassa meg a belváros látnivalóit. Az autó fűtése kellemes komfortot nyújt.\n\nA kikötői múzeumok után az út a San Felipe várhoz vezet. Az alacsonyan járó téli nap arany fénybe vonja az erődítményt.\n\nA nap fénypontja a Prioriño kilátó elérése a sötétedés előtt. Élvezze a drámai naplementét az Atlanti-óceán felett, mielőtt visszatérne a városba.",
+            "ro": "Explorați Ferrolul de iarnă confortabil cu mașina. Vremea senină oferă o vizibilitate excelentă asupra estuarului și a peisajului urban.\n\nÎn cursul dimineții, conduceți prin cartierul istoric Magdalena și vizitați principalele obiective din centru. Încălzirea mașinii asigură confortul necesar.\n\nDupă muzeele din port, traseul continuă spre Castelul San Felipe. Soarele de iarnă scaldă fortăreața într-o lumină aurie superbă.\n\nPunctul culminant este drumul spre Prioriño înainte de lăsarea serii. Admirați apusul dramatic peste Atlantic înainte de a vă întoarce relaxat spre oraș.",
+            "en": "Explore wintery Ferrol comfortably by car. The clear winter weather offers long-distance views over the estuary and the cityscape.\n\nIn the morning, drive through the historic Barrio de la Magdalena and visit the key sights in the center. The car's heater ensures a comfortable trip.\n\nAfter visiting the harbor museums, the route leads to San Felipe Castle. The low winter sun bathes the fortress in a beautiful golden light.\n\nHighlight your trip with a drive to Prioriño Viewpoint before dark. Enjoy a dramatic sunset over the Atlantic before driving back to the cozy city center."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Barrio de la Magdalena",
+              "tip_5lang": {
+                "de": "Parken Sie am Straßenrand, um die beleuchteten Galerien zu bewundern.",
+                "hu": "Parkoljon az út mentén, hogy megcsodálja a kivilágított erkélyeket.",
+                "ro": "Parcați pe marginea drumului pentru a admira galeriile iluminate.",
+                "en": "Park along the street to admire the illuminated historic galleries."
+              }
+            },
+            {
+              "name": "Co-cathedral of San Julián",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es oft freie Parkplätze in den Wintermonaten.",
+                "hu": "A közelben a téli hónapokban gyakran találni szabad parkolót.",
+                "ro": "Se găsesc adesea locuri de parcare libere în apropiere iarna.",
+                "en": "Street parking is often easier to find nearby during winter months."
+              }
+            },
+            {
+              "name": "Jofre Theatre",
+              "tip_5lang": {
+                "de": "Das Gebäude ist abends wunderschön beleuchtet.",
+                "hu": "Az épület este gyönyörű díszkivilágítást kap.",
+                "ro": "Clădirea este superb iluminată în timpul serii.",
+                "en": "The building is beautifully illuminated in the evenings."
+              }
+            },
+            {
+              "name": "Cluster B: Arsenal & Museums",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum Eingang schont vor Kälte.",
+                "hu": "A parkolótól a bejáratig tartó rövid séta kíméli a hidegtől.",
+                "ro": "Distanța scurtă de la parcare la intrare vă ferește de frig.",
+                "en": "The short walk from the parking lot to the entrance minimizes cold exposure."
+              }
+            },
+            {
+              "name": "Naval Museum & Exponav",
+              "tip_5lang": {
+                "de": "Gut beheizte Hallen machen den Winterbesuch sehr angenehm.",
+                "hu": "A jól fűtött csarnokok kellemessé teszik a téli látogatást.",
+                "ro": "Halele bine încălzite fac vizita de iarnă foarte plăcută.",
+                "en": "Well-heated halls make the winter visit very comfortable."
+              }
+            },
+            {
+              "name": "Cluster C: Castle of San Felipe",
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig, um das goldene Licht auf den Mauern zu sehen.",
+                "hu": "Érkezzen időben, hogy lássa az aranyló fényeket a falakon.",
+                "ro": "Sosiți la timp pentru a vedea lumina aurie pe zidurile cetății.",
+                "en": "Arrive in time to see the golden winter light on the stone walls."
+              }
+            },
+            {
+              "name": "Prioriño Viewpoint",
+              "tip_5lang": {
+                "de": "Nehmen Sie eine Jacke mit, wenn Sie für Fotos kurz aussteigen.",
+                "hu": "Vigyen kabátot, ha kiszállna az autóból fotózni a kilátónál.",
+                "ro": "Luați o jachetă dacă coborâți din mașină pentru fotografii.",
+                "en": "Bring a heavy jacket if you plan to step out for photos at the viewpoint."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei fallenden Temperaturen.",
+              "Die Wintersonne kann beim Fahren Richtung Westen (San Felipe) blenden.",
+              "In den Museen gibt es Garderoben für dicke Wintermäntel.",
+              "Planen Sie die Ankunft in Prioriño für 17:30 Uhr (Sonnenuntergang).",
+              "Einige Straßen in Ferrol Vello sind sehr schmal; fahren Sie vorsichtig."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást a csökkenő hőmérséklet mellett.",
+              "A téli nap elvakíthat nyugat felé (San Felipe) autózva.",
+              "A múzeumokban van ruhatár a nehéz téli kabátok számára.",
+              "Időzítse az érkezést Prioriño-ba 17:30 körülre a naplementéhez.",
+              "Ferrol Vello egyes utcái nagyon szűkek; vezessen óvatosan."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri odată cu scăderea temperaturii.",
+              "Soarele de iarnă poate fi orbitor când conduceți spre vest (San Felipe).",
+              "Muzeele au garderobe unde puteți lăsa hainele groase de iarnă.",
+              "Planificați sosirea la Prioriño în jur de ora 17:30 pentru apus.",
+              "Unele străzi din Ferrol Vello sunt foarte înguste; conduceți cu atenție."
+            ],
+            "en": [
+              "Check tire pressure as temperatures drop in winter.",
+              "The low winter sun can be blinding when driving west toward San Felipe.",
+              "Museums provide cloakrooms for your heavy winter coats.",
+              "Aim to arrive at Prioriño by 5:30 PM to catch the sunset.",
+              "Some streets in Ferrol Vello are very narrow; navigate with care."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -987,6 +1597,196 @@
           "Validate your ticket each time you board.",
           "Be aware that bus frequency may decrease in the evening."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Bussystem von Ferrol, um sich bei Regen fortzubewegen. Starten Sie an der Plaza de España, einem zentralen Knotenpunkt mit überdachten Wartebereichen.\n\nDas Barrio de la Magdalena lässt sich gut kombinieren, da die Haltestellen nah an den Sehenswürdigkeiten liegen. Mittags bringt Sie der Bus direkt zum Hafengebiet.\n\nVerbringen Sie den Nachmittag in den weitläufigen Innenräumen von Exponav und dem Marinemuseum. Hier sind Sie sicher vor den galizischen Regengüssen.\n\nAbends kehren Sie mit dem Bus zum Stadtzentrum zurück. Die kurzen Wege von den Haltestellen zu den Restaurants halten den Kontakt mit dem Wetter minimal.",
+            "hu": "Használja Ferrol buszhálózatát az esős időben való közlekedéshez. Kezdjen a Plaza de España-nál, ami központi csomópont fedett várókkal.\n\nA Magdalena-negyed látnivalói könnyen elérhetők, mivel a megállók közel vannak. Délben busszal menjen le a kikötő környékére.\n\nA délutánt töltse az Exponav és a Haditengerészeti Múzeum tágas belső tereiben. Itt biztonságban lesz a galíciai záporoktól.\n\nEste busszal térjen vissza a városközpontba. A megállóktól az éttermekig tartó rövid séta minimalizálja az esőben töltött időt.",
+            "ro": "Utilizați sistemul de autobuze din Ferrol pentru a vă deplasa pe ploaie. Începeți la Plaza de España, un nod central cu zone de așteptare acoperite.\n\nBarrio de la Magdalena este ușor de vizitat, stațiile fiind aproape de obiective. La prânz, luați autobuzul direct către zona portului.\n\nPetreceți după-amiaza în spațiile generoase de la Exponav și Muzeul Naval. Aici sunteți protejat de aversa galiciană.\n\nSeara, reveniți cu autobuzul spre centrul orașului. Distanțele scurte de la stații până la restaurante minimizează expunerea la ploaie.",
+            "en": "Use Ferrol's bus network to get around during the rainy weather. Start at Plaza de España, a central hub with sheltered waiting areas.\n\nBarrio de la Magdalena is easy to navigate as the stops are close to the main sights. At noon, take a bus directly down to the harbor area.\n\nSpend your afternoon inside the vast halls of Exponav and the Naval Museum. You'll be safe from the Galician downpours here.\n\nIn the evening, return to the city center by bus. The short walks from the stops to the restaurants keep your time in the rain to a minimum."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Plaza de España & Magdalena",
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt mit gutem Wetterschutz an den Haltestellen.",
+                "hu": "Központi csomópont, ahol a megállók jó védelmet nyújtanak az eső ellen.",
+                "ro": "Nod central unde stațiile oferă o bună protecție împotriva ploii.",
+                "en": "Central transport hub with good rain shelter at the bus stops."
+              }
+            },
+            {
+              "name": "Barrio de la Magdalena",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Buslinien, die den Rasterbezirk kreuzen.",
+                "hu": "Használja a négyzethálós negyedet átszelő buszjáratokat.",
+                "ro": "Utilizați liniile de autobuz care traversează cartierul în grilă.",
+                "en": "Utilize the bus lines that cross through the grid district."
+              }
+            },
+            {
+              "name": "Co-cathedral of San Julián",
+              "tip_5lang": {
+                "de": "Die nächste Haltestelle ist nur wenige Schritte entfernt.",
+                "hu": "A legközelebbi megálló mindössze pár lépésre található.",
+                "ro": "Cea mai apropiată stație este la doar câțiva pași distanță.",
+                "en": "The nearest bus stop is just a few steps away from the entrance."
+              }
+            },
+            {
+              "name": "Cluster B: Port & Museums",
+              "tip_5lang": {
+                "de": "Die Linien zum Hafen fahren regelmäßig vom Zentrum ab.",
+                "hu": "A kikötőbe tartó járatok rendszeresen indulnak a központból.",
+                "ro": "Liniile spre port pleacă regulat din centrul orașului.",
+                "en": "Buses to the port depart regularly from the city center."
+              }
+            },
+            {
+              "name": "Exponav & Naval Museum",
+              "tip_5lang": {
+                "de": "Steigen Sie direkt vor dem Arsenal-Eingang aus.",
+                "hu": "Szálljon le közvetlenül az Arzenál bejárata előtt.",
+                "ro": "Coborâți chiar în fața intrării principale în Arsenal.",
+                "en": "Get off right in front of the main Arsenal entrance."
+              }
+            },
+            {
+              "name": "Stroll at the Arsenal",
+              "tip_5lang": {
+                "de": "Überprüfen Sie die Fahrpläne für die Rückfahrt am Abend.",
+                "hu": "Ellenőrizze a menetrendet az esti visszautazáshoz.",
+                "ro": "Verificați orarul autobuzelor pentru întoarcerea de seară.",
+                "en": "Check the bus schedules for your return trip in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie eine Mehrfahrtenkarte beim Fahrer oder am Kiosk.",
+              "Die App 'Bus Ferrol' zeigt Echtzeit-Ankunftszeiten an.",
+              "Plaza de España ist der beste Ort zum Umsteigen unter einem Dach.",
+              "Die Museen am Hafen sind durch die Linien 1 und 2 gut angebunden.",
+              "Halten Sie Ihr Handy trocken, während Sie den QR-Code an den Haltestellen scannen."
+            ],
+            "hu": [
+              "Vásároljon gyűjtőjegyet a sofőrnél vagy az újságárusnál.",
+              "A 'Bus Ferrol' alkalmazás valós idejű érkezési időket mutat.",
+              "A Plaza de España a legjobb hely az átszállásra fedett helyen.",
+              "A kikötői múzeumok az 1-es és 2-es vonalakkal jól elérhetők.",
+              "Tartsa szárazon a telefonját, amikor a megállókban szkenneli a menetrendet."
+            ],
+            "ro": [
+              "Cumpărați un bilet cu mai multe călătorii de la șofer sau chioșc.",
+              "Aplicația 'Bus Ferrol' afișează timpii de sosire în timp real.",
+              "Plaza de España este cel mai bun loc pentru transferuri sub acoperiș.",
+              "Muzeele din port sunt bine deservite de liniile 1 și 2.",
+              "Protejați-vă telefonul de ploaie când verificați codurile QR din stații."
+            ],
+            "en": [
+              "Purchase a multi-trip card from the driver or at a local kiosk.",
+              "Use the 'Bus Ferrol' app for real-time arrival information.",
+              "Plaza de España is the best place for sheltered transfers.",
+              "The port museums are well-connected via lines 1 and 2.",
+              "Keep your phone dry when scanning QR codes for schedules at bus stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Ferrol im Winter mit den öffentlichen Bussen. Starten Sie an der Plaza de España, wo Sie im Winter oft festliche Dekorationen finden.\n\nDas Barrio de la Magdalena ist schnell erreicht, und der Bus spart Ihnen den Weg durch den kalten Wind. Mittags fahren Sie entspannt zum Hafengebiet hinunter.\n\nDie Museen bieten eine willkommene Wärme während der kältesten Stunden des Nachmittags. Tauchen Sie in die Schifffahrtsgeschichte ein, während es draußen dämmert.\n\nAm Abend bringt Sie der Bus sicher zurück zum Zentrum. Genießen Sie die winterliche Beleuchtung der Stadt aus dem Fenster, bevor Sie den Tag beenden.",
+            "hu": "Fedezze fel a téli Ferrolt a helyi buszjáratokkal. Kezdjen a Plaza de España-nál, ahol télen gyakran láthat ünnepi díszítést.\n\nA Magdalena-negyed gyorsan elérhető, és a busz megkíméli a hideg széltől. Délben kényelmesen utazzon le a kikötő környékére.\n\nA múzeumok szívesen látott meleget nyújtanak a délután leghidegebb óráiban. Merüljön el a tengerészeti múltban, miközben kint alkonyodik.\n\nEste a busz biztonságban visszaviszi a központba. Élvezze a város téli fényeit az ablakból, mielőtt befejezné a napot.",
+            "ro": "Explorați Ferrolul de iarnă folosind autobuzele publice. Începeți la Plaza de España, unde iarna veți găsi adesea decorațiuni festive.\n\nBarrio de la Magdalena este ușor accesibil, iar autobuzul vă scutește de vântul rece. La prânz, mergeți relaxat spre zona portului.\n\nMuzeele oferă o căldură binevenită în timpul celor mai reci ore ale după-amiezii. Explorați istoria navală în timp ce afară se înserează.\n\nSeara, autobuzul vă aduce în siguranță înapoi în centru. Admirați iluminatul festiv al orașului de pe fereastră înainte de a încheia ziua.",
+            "en": "Explore wintery Ferrol using the public bus system. Start at Plaza de España, where you can often see festive winter decorations.\n\nBarrio de la Magdalena is quickly reached, and the bus saves you from walking in the cold wind. At noon, take a relaxed ride down to the harbor area.\n\nMuseums offer a welcome warmth during the coldest afternoon hours. Dive into maritime history while the sun sets outside.\n\nIn the evening, the bus takes you safely back to the center. Enjoy the city's winter lights from the window before ending your day."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Plaza de España & Magdalena",
+              "tip_5lang": {
+                "de": "Suchen Sie den Kiosk für Fahrkarten; im Winter ist er ein guter Treffpunkt.",
+                "hu": "Keresse a jegyárusító bódét; télen jó találkozási pont a váróban.",
+                "ro": "Căutați chioșcul de bilete; este un punct de întâlnire bun iarna.",
+                "en": "Look for the ticket kiosk; it's a good meeting point in the sheltered area."
+              }
+            },
+            {
+              "name": "Barrio de la Magdalena",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter gut beheizt.",
+                "hu": "A buszok télen jól fűtöttek és kényelmesek.",
+                "ro": "Autobuzele sunt bine încălzite în timpul iernii.",
+                "en": "Buses are well-heated and comfortable during the winter months."
+              }
+            },
+            {
+              "name": "Co-cathedral of San Julián",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprung von der Bushaltestelle ins Warme.",
+                "hu": "Csak egy rövid vágta a buszmegállótól a fűtött katedrálisba.",
+                "ro": "O scurtă plimbare de la stația de autobuz până la interiorul cald.",
+                "en": "A very short walk from the bus stop to the warm interior."
+              }
+            },
+            {
+              "name": "Cluster B: Port & Museums",
+              "tip_5lang": {
+                "de": "Die Busfrequenz ist auch im Winter zuverlässig.",
+                "hu": "A buszok gyakorisága télen is megbízható marad.",
+                "ro": "Frecvența autobuzelor rămâne constantă și iarna.",
+                "en": "Bus frequency remains reliable throughout the winter season."
+              }
+            },
+            {
+              "name": "Exponav & Naval Museum",
+              "tip_5lang": {
+                "de": "Ideal, um die kältesten Stunden des Tages drinnen zu verbringen.",
+                "hu": "Ideális a nap leghidegebb óráit bent tölteni.",
+                "ro": "Ideal pentru a petrece cele mai reci ore ale zilei în interior.",
+                "en": "Ideal for spending the coldest hours of the day indoors."
+              }
+            },
+            {
+              "name": "Stroll at the Arsenal",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus für die Rückfahrt, sobald es dunkel wird.",
+                "hu": "Szálljon buszra a visszajúthoz, amint besötétedik.",
+                "ro": "Luați autobuzul pentru întoarcere imediat ce se întunecă.",
+                "en": "Take the bus back to the center as soon as it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bussen sind im Winter der wärmste Weg, um zwischen Hafen und Zentrum zu pendeln.",
+              "Die Haltestellen an der Plaza de España bieten Schutz vor Wind.",
+              "Tragen Sie trotzdem Schichten, da es beim Warten kühl werden kann.",
+              "Die Linienpläne hängen in allen größeren Stationen aus.",
+              "Die letzte Fahrt der Hauptlinien ist meist gegen 22:30 Uhr."
+            ],
+            "hu": [
+              "Télen a busz a legmelegebb módja a kikötő és a központ közötti utazásnak.",
+              "A Plaza de España megállói jó védelmet nyújtanak a szél ellen.",
+              "Öltözzön rétegesen, mert a várakozás közben lehűlhet a levegő.",
+              "A vonalhálózati térképek minden nagyobb megállóban kint vannak.",
+              "A főbb járatok utolsó indulása általában 22:30 körül van."
+            ],
+            "ro": [
+              "Autobuzul este cel mai călduros mod de transport între port și centru.",
+              "Stațiile de la Plaza de España oferă protecție împotriva vântului.",
+              "Îmbrăcați-vă în straturi, deoarece poate fi răcoare în timpul așteptării.",
+              "Hărțile traseelor sunt afișate în toate stațiile principale.",
+              "Ultima cursă a liniilor principale este de obicei în jur de ora 22:30."
+            ],
+            "en": [
+              "Buses are the warmest way to commute between the port and the center in winter.",
+              "The bus stops at Plaza de España provide good shelter from the wind.",
+              "Wear layers, as it can get chilly while waiting for your connection.",
+              "Route maps are clearly posted at all major bus stations.",
+              "The last service for major lines is usually around 10:30 PM."
+            ]
+          }
+        }
       }
     }
   }

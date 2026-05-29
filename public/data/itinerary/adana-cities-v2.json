@@ -356,6 +356,188 @@
           "Always have some cash on you for small purchases in the bazaar.",
           "Cover your shoulders and knees when entering mosques."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt am Großen Uhrturm, wo die Arkaden Schutz bieten. Mittags führt der Weg durch die Ulu Cami und über die geschichtsträchtige Steinbrücke, während der Regen auf den Seyhan peitscht. Nachmittags bietet die Sabancı-Zentralmoschee einen riesigen, trockenen Zufluchtsort. Der Tag endet gemütlich im Atatürk-Haus, geschützt vor dem nassen Wetter der Stadt.",
+            "hu": "Esős reggel az óratoronynál, ahol az ereszek alatt húzódunk meg. Délben az Ulu Cami csendje és a kőhíd bazaltja vár, miközben a Seyhan-folyó vize fodrozódik a cseppektől. Délután a monumentális Sabancı-mecset belső tere nyújt menedéket a zivatar elől. A napot az Atatürk Múzeum falai között zárjuk, szárazon és kényelemben.",
+            "ro": "O dimineață ploioasă începe la Turnul Ceasului, unde arcadele oferă adăpost. La prânz, vizităm Marea Moschee și Podul de Piatră, în timp ce ploaia lovește râul Seyhan. După-amiaza, Moscheea Centrală Sabancı oferă un refugiu vast și uscat. Ziua se încheie confortabil la Muzeul Casei lui Atatürk, protejați de vremea umedă a orașului.",
+            "en": "A rainy morning begins at the Grand Clock Tower, where the eaves provide shelter. At noon, the path leads through the Ulu Cami and across the historic Stone Bridge as rain lashes the Seyhan River. In the afternoon, the Sabancı Central Mosque offers a massive, dry sanctuary. The day ends comfortably inside the Atatürk House Museum, shielded from the city's wet weather."
+          },
+          "stops": [
+            {
+              "name": "Grand Clock Tower (Büyük Saat)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die umliegenden Arkaden des Basars, um trocken zu bleiben.",
+                "hu": "Használja a bazár környező boltíveit, hogy száraz maradjon.",
+                "ro": "Folosiți arcadele bazarului din jur pentru a rămâne uscați.",
+                "en": "Use the surrounding bazaar arcades to stay dry while viewing the tower."
+              }
+            },
+            {
+              "name": "Grand Mosque (Ulu Cami)",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen heftigen Schauer im Innenhof abzuwarten.",
+                "hu": "Tökéletes hely egy heves zápor kivárására a belső udvaron.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei ploi torențiale în curtea interioară.",
+                "en": "A perfect place to wait out a heavy downpour in the courtyard or prayer hall."
+              }
+            },
+            {
+              "name": "Stone Bridge (Taşköprü)",
+              "tip_5lang": {
+                "de": "Vorsicht, das antike Pflaster kann bei Nässe extrem rutschig sein.",
+                "hu": "Vigyázat, az ősi kövezet nedvesen rendkívül csúszós lehet.",
+                "ro": "Atenție, pavajul antic poate fi extrem de alunecos când este ud.",
+                "en": "Be careful, the ancient pavement can be extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Sabancı Central Mosque",
+              "tip_5lang": {
+                "de": "Die riesige Kuppel bietet den besten Regenschutz der ganzen Stadt.",
+                "hu": "A hatalmas kupola nyújtja a legjobb esővédelmet az egész városban.",
+                "ro": "Domul uriaș oferă cea mai bună protecție împotriva ploii din tot orașul.",
+                "en": "The massive dome provides the best rain protection in the entire city."
+              }
+            },
+            {
+              "name": "Central Park (Merkez Park)",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon a burkolt ösvényeken, hogy elkerülje a sarat.",
+                "ro": "Rămâneți pe potecile pavate pentru a evita noroiul.",
+                "en": "Stay on the paved paths to avoid mud while enjoying the river view."
+              }
+            },
+            {
+              "name": "Atatürk's House Museum",
+              "tip_5lang": {
+                "de": "Ideal, um die regenreichsten Stunden im Trockenen zu verbringen.",
+                "hu": "Ideális a legesősebb órák szárazon töltésére a kiállítások közt.",
+                "ro": "Ideal pentru a petrece cele mai ploioase ore la adăpost, vizitând muzeul.",
+                "en": "Ideal for spending the rainiest hours dry while exploring the exhibits."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei den windigen Ufern des Seyhan unverzichtbar.",
+              "Die Passagen des alten Basars bieten kilometerlangen Schutz vor Nässe.",
+              "Tragen Sie wasserfeste Schuhe, da sich auf dem Taşköprü Pfützen bilden.",
+              "Nutzen Sie die Moscheen für längere Pausen während schwerer Güsse."
+            ],
+            "hu": [
+              "Egy erős esernyő elengedhetetlen a Seyhan szeles partjainál.",
+              "A régi bazár átjárói kilométernyi védelmet nyújtanak a nedvesség ellen.",
+              "Viseljen vízálló cipőt, mert a kőhídon nagyobb tócsák alakulhatnak ki.",
+              "Használja ki a mecsetek nyugalmát a nagyobb felhőszakadások idején."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială pe malurile vântoase ale râului Seyhan.",
+              "Pasajele vechiului bazar oferă kilometri de protecție împotriva umezelii.",
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți pe Taşköprü.",
+              "Folosiți moscheile pentru pauze lungi în timpul ploilor torențiale."
+            ],
+            "en": [
+              "A sturdy umbrella is essential near the windy banks of the Seyhan River.",
+              "The passages of the old bazaar offer kilometers of protection from the wet.",
+              "Wear waterproof shoes as large puddles can form on the Stone Bridge.",
+              "Utilize the mosques for longer breaks during heavy downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Uhrturm, wenn die Luft klar und kühl ist. Mittags wärmt die Sonne die antiken Steine der Taşköprü, bevor wir die spirituelle Wärme der Ulu Cami genießen. Der Nachmittag im Merkez Park zeigt die sanfte Winterseite Adanas, gefolgt von einem Museumsbesuch, bevor es um 17 Uhr dunkel wird. Ein perfekter Tag für die berühmte scharfe lokale Küche.",
+            "hu": "Friss téli reggel az óratoronynál, amikor a levegő tiszta és hűvös. Délben a nap megcsillan a kőhíd kövein, mielőtt élveznénk az Ulu Cami spirituális melegét. A délután a Merkez Parkban Adana szelíd téli arcát mutatja, majd múzeumlátogatással zárjuk a napot a korai sötétedés előtt. Ideális időpont a híres csípős helyi konyha felfedezésére.",
+            "ro": "O dimineață răcoroasă de iarnă la Turnul Ceasului, când aerul este curat și rece. La prânz, soarele încălzește pietrele antice de pe Taşköprü, înainte de a ne bucura de căldura spirituală din Ulu Cami. După-amiaza în Parcul Merkez arată fața blândă a iernii în Adana, urmată de o vizită la muzeu înainte de apusul de la ora 17:00.",
+            "en": "A crisp winter morning at the Clock Tower when the air is clear and cool. At noon, the sun warms the ancient stones of Taşköprü before we enjoy the spiritual warmth of Ulu Cami. The afternoon in Merkez Park shows Adana's gentle winter side, followed by a museum visit before darkness falls at 5 PM. A perfect day for the famous spicy local cuisine."
+          },
+          "stops": [
+            {
+              "name": "Grand Clock Tower (Büyük Saat)",
+              "tip_5lang": {
+                "de": "Genießen Sie den ersten heißen Tee des Tages in einem nahen Café.",
+                "hu": "Élvezze a nap első forró teáját egy közeli kávézóban.",
+                "ro": "Savurați primul ceai fierbinte al zilei la o cafenea din apropiere.",
+                "en": "Enjoy the first hot tea of the day at a nearby café to warm up."
+              }
+            },
+            {
+              "name": "Grand Mosque (Ulu Cami)",
+              "tip_5lang": {
+                "de": "Die dicken Teppiche im Inneren bieten eine wohlige Wärme.",
+                "hu": "A belső vastag szőnyegek kellemes meleget árasztanak.",
+                "ro": "Covoarele groase din interior oferă o căldură primitoare.",
+                "en": "The thick carpets inside provide a welcoming warmth during winter."
+              }
+            },
+            {
+              "name": "Stone Bridge (Taşköprü)",
+              "tip_5lang": {
+                "de": "Der Wind über dem Fluss kann im Winter sehr schneidend sein.",
+                "hu": "A folyó feletti szél télen nagyon metsző lehet.",
+                "ro": "Vântul de deasupra râului poate fi foarte tăios iarna.",
+                "en": "The wind over the river can be quite biting in winter; dress warmly."
+              }
+            },
+            {
+              "name": "Sabancı Central Mosque",
+              "tip_5lang": {
+                "de": "Erleben Sie das goldene Winterlicht in der riesigen Gebetshalle.",
+                "hu": "Tapasztalja meg az aranyló téli fényeket a hatalmas imateremben.",
+                "ro": "Experimentați lumina aurie de iarnă în uriașa sală de rugăciune.",
+                "en": "Experience the golden winter light in the vast prayer hall."
+              }
+            },
+            {
+              "name": "Central Park (Merkez Park)",
+              "tip_5lang": {
+                "de": "Beste Zeit für einen Spaziergang ohne die extreme Sommerhitze.",
+                "hu": "A legjobb idő egy sétára a tikkasztó nyári hőség nélkül.",
+                "ro": "Cel mai bun moment pentru o plimbare fără căldura extremă a verii.",
+                "en": "Best time for a long walk without the extreme summer heat."
+              }
+            },
+            {
+              "name": "Atatürk's House Museum",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Rückzugsort vor der kühlen Abendbrise.",
+                "hu": "Hangulatos menedék a hűvös esti szellő elől.",
+                "ro": "Un refugiu confortabil înainte de briza rece a serii.",
+                "en": "A cozy retreat before the cool evening breeze sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Adana ist im Winter mild, aber nach Sonnenuntergang (ca. 17:00) wird es kühl.",
+              "Probieren Sie 'Salgam' (fermentierter Rübensaft), um das Immunsystem zu stärken.",
+              "Zwiebelschichten sind ideal, da es in der Sonne warm, im Schatten aber kalt ist.",
+              "Die Orangen- und Zitronenbäume der Stadt tragen im Winter leuchtende Früchte."
+            ],
+            "hu": [
+              "Adana télen enyhe, de naplemente után (kb. 17:00) gyorsan lehűl.",
+              "Kóstolja meg a 'Salgam'-ot (erjesztett répalé) az immunrendszer erősítésére.",
+              "A réteges öltözködés ideális, mert a napon meleg, árnyékban hideg van.",
+              "A város narancs- és citromfái télen hozzák látványos gyümölcseiket."
+            ],
+            "ro": [
+              "Adana este blândă iarna, dar se răcește rapid după apus (aprox. 17:00).",
+              "Încercați 'Salgam' (suc de napi fermentat) pentru imunitate.",
+              "Îmbrăcămintea în straturi este ideală: e cald la soare, dar rece la umbră.",
+              "Portocalii și lămâii orașului sunt plini de fructe strălucitoare iarna."
+            ],
+            "en": [
+              "Adana is mild in winter, but it cools down quickly after sunset (around 5 PM).",
+              "Try 'Salgam' (fermented turnip juice) to boost your immune system.",
+              "Layered clothing is ideal as it can be warm in the sun but chilly in shadows.",
+              "The city's orange and lemon trees bear bright fruit throughout the winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +888,188 @@
           "Always lock your bike securely, even for short stops.",
           "Use the bike paths along the river for a safer ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour durch den Merkez Park startet den Tag, während der Seyhan-Fluss grau schimmert. Mittags navigieren wir vorsichtig über die rutschige Steinbrücke zur Sabancı-Moschee, die einen trockenen Halt bietet. Der Nachmittag führt durch die engen Gassen beim Uhrturm, wo wir Schutz suchen, bevor wir im Kinomuseum enden. Ein Tag für wetterfeste Abenteurer.",
+            "hu": "Vizes biciklitúra a Merkez Parkon keresztül, miközben a Seyhan-folyó szürkén csillog. Délben óvatosan kelünk át a csúszós kőhídon a Sabancı-mecsethez, amely száraz pihenőt kínál. Délután az óratorony közeli szűk utcákon tekerünk, menedéket keresve, majd a Mozimúzeumban zárjuk a napot. Egy nap az elszánt kalandoroknak.",
+            "ro": "O plimbare umedă cu bicicleta prin Parcul Merkez începe ziua, în timp ce râul Seyhan sclipește cenușiu. La prânz, navigăm cu atenție pe podul alunecos spre Moscheea Sabancı, care oferă un popas uscat. După-amiaza trece prin străduțele de lângă Turnul Ceasului, terminând la Muzeul Cinematografiei.",
+            "en": "A wet bike ride through Merkez Park starts the day as the Seyhan River shimmers grey. At noon, we navigate carefully over the slippery Stone Bridge to the Sabancı Mosque, which offers a dry break. The afternoon leads through the narrow streets near the Clock Tower before ending at the Cinema Museum. A day for weatherproof adventurers."
+          },
+          "stops": [
+            {
+              "name": "Central Park (Merkez Park)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen; die Radwege können Wasser ansammeln.",
+                "hu": "Vigyázzon a tócsákra; a kerékpárutakon megállhat a víz.",
+                "ro": "Atenție la bălți; pistele de biciclete pot acumula apă.",
+                "en": "Watch out for puddles; the bike paths can collect water in heavy rain."
+              }
+            },
+            {
+              "name": "Sabancı Central Mosque",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Vordächern am Eingang ab.",
+                "hu": "Állítsa le a biciklit a bejárat melletti előtetők alatt.",
+                "ro": "Parcați bicicleta sub streșinile de la intrare.",
+                "en": "Park your bike under the overhangs near the entrance to keep it dry."
+              }
+            },
+            {
+              "name": "Stone Bridge (Taşköprü)",
+              "tip_5lang": {
+                "de": "Fahren Sie extrem langsam; antike Steine sind wie Eis bei Regen.",
+                "hu": "Tekerjen rendkívül lassan; az ősi kövek esőben olyanok, mint a jég.",
+                "ro": "Pedalați extrem de încet; pietrele antice sunt ca gheața pe ploaie.",
+                "en": "Ride extremely slowly; ancient stones are like ice when wet."
+              }
+            },
+            {
+              "name": "Grand Clock Tower (Büyük Saat)",
+              "tip_5lang": {
+                "de": "Suchen Sie mit dem Rad Schutz in den überdachten Basargängen.",
+                "hu": "Keressen menedéket a biciklivel a fedett bazársorokon.",
+                "ro": "Căutați adăpost cu bicicleta în pasajele acoperite ale bazarului.",
+                "en": "Look for shelter with your bike in the covered bazaar alleys."
+              }
+            },
+            {
+              "name": "Ulu Cami",
+              "tip_5lang": {
+                "de": "Ein guter Moment für eine längere Pause im Trockenen.",
+                "hu": "Jó alkalom egy hosszabb pihenőre a száraz falak között.",
+                "ro": "Un moment bun pentru o pauză prelungită la adăpost.",
+                "en": "A good moment for a longer break in the dry prayer hall."
+              }
+            },
+            {
+              "name": "Adana Cinema Museum",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz vorhanden, genießen Sie die Ausstellung.",
+                "hu": "Biztonságos tárolóhely áll rendelkezésre, élvezze a kiállítást.",
+                "ro": "Loc de parcare sigur disponibil, bucurați-vă de expoziție.",
+                "en": "Safe parking available; enjoy the indoor exhibition away from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein hochwertiger Regenponcho ist für Radfahrer in Adana bei Regen Pflicht.",
+              "Vermeiden Sie scharfe Bremsmanöver auf dem nassen Kopfsteinpflaster der Altstadt.",
+              "Halten Sie Abstand zu Fahrzeugen, um Spritzwasser zu vermeiden.",
+              "Die Uferwege sind oft weniger befahren, aber bei starkem Regen windanfällig."
+            ],
+            "hu": [
+              "Egy jó minőségű esőponcsó kötelező a kerékpárosoknak esős időben.",
+              "Kerülje a hirtelen fékezést az óváros nedves macskakövén.",
+              "Tartson távolságot az autóktól a felcsapódó víz elkerülése érdekében.",
+              "A parti utak kevésbé forgalmasak, de nagy esőben szélnek kitettek."
+            ],
+            "ro": [
+              "Un pelerină de ploaie de calitate este obligatorie pentru bicicliști.",
+              "Evitați frânările bruște pe pavajul umed din orașul vechi.",
+              "Păstrați distanța față de mașini pentru a evita stropirea.",
+              "Drumurile de pe malul râului sunt mai libere, dar expuse vântului pe ploaie."
+            ],
+            "en": [
+              "A high-quality rain poncho is a must for cyclists in Adana during rain.",
+              "Avoid sharp braking on the wet cobblestones of the Old Town.",
+              "Keep distance from vehicles to avoid being splashed by puddles.",
+              "Riverside paths are less crowded but prone to wind during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start im Merkez Park, ideal für eine aktive Radtour am Flussufer. Mittags bietet die Sabancı-Moschee einen majestätischen Anblick unter der tiefstehenden Wintersonne. Wir überqueren die Steinbrücke und erkunden die Altstadt beim Uhrturm, bevor wir uns bei der Ulu Cami aufwärmen. Den Tag schließen wir im Kinomuseum ab, wenn die kühle Abendluft einzieht.",
+            "hu": "Hűvös kezdés a Merkez Parkban, ideális egy aktív biciklizéshez a folyóparton. Délben a Sabancı-mecset fenséges látványt nyújt az alacsonyan járó téli napfényben. Átkelünk a kőhídon és felfedezzük az óvárost az óratoronynál, majd az Ulu Cami-nál melegszünk fel. A napot a Mozimúzeumban zárjuk, ahogy beköszönt a hűvös esti levegő.",
+            "ro": "Un început răcoros în Parcul Merkez, ideal pentru o tură activă pe malul râului. La prânz, Moscheea Sabancı oferă o priveliște maiestuoasă sub soarele jos de iarnă. Traversăm Podul de Piatră și explorăm orașul vechi, apoi ne încălzim la Ulu Cami. Încheiem ziua la Muzeul Cinematografiei.",
+            "en": "A cool start in Merkez Park, ideal for an active bike ride along the riverbank. At noon, the Sabancı Mosque offers a majestic sight under the low winter sun. We cross the Stone Bridge and explore the Old Town by the Clock Tower before warming up at Ulu Cami. The day ends at the Cinema Museum as the cool evening air sets in."
+          },
+          "stops": [
+            {
+              "name": "Central Park (Merkez Park)",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe gegen den kühlen Fahrtwind am Fluss.",
+                "hu": "Viseljen kesztyűt a folyóparti hűvös menetszél ellen.",
+                "ro": "Purtați mănuși împotriva vântului rece de pe malul râului.",
+                "en": "Wear gloves against the cool headwind while riding along the river."
+              }
+            },
+            {
+              "name": "Sabancı Central Mosque",
+              "tip_5lang": {
+                "de": "Die Sonne steht tief und leuchtet die Fassade wunderschön aus.",
+                "hu": "A nap alacsonyan áll, és gyönyörűen megvilágítja a homlokzatot.",
+                "ro": "Soarele este jos și luminează superb fațada moscheii.",
+                "en": "The sun is low and illuminates the facade beautifully in winter."
+              }
+            },
+            {
+              "name": "Stone Bridge (Taşköprü)",
+              "tip_5lang": {
+                "de": "Glatte Steine können auch ohne Regen durch Reif rutschig sein.",
+                "hu": "A sima kövek eső nélkül is csúszósak lehetnek a zúzmara miatt.",
+                "ro": "Pietrele netede pot fi alunecoase din cauza brumei chiar și fără ploaie.",
+                "en": "Smooth stones can be slippery due to frost even without rain."
+              }
+            },
+            {
+              "name": "Grand Clock Tower (Büyük Saat)",
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause für einen heißen Kaffee in der Altstadt.",
+                "hu": "Tartson szünetet egy forró kávéra az óvárosban.",
+                "ro": "Faceți o pauză pentru o cafea fierbinte în orașul vechi.",
+                "en": "Take a break for a hot coffee in the historic Old Town."
+              }
+            },
+            {
+              "name": "Ulu Cami",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für eine kurze spirituelle Rast.",
+                "hu": "Meleg hely egy rövid spirituális pihenőhöz.",
+                "ro": "Un loc cald pentru o scurtă pauză spirituală.",
+                "en": "A warm place for a brief spiritual rest during your ride."
+              }
+            },
+            {
+              "name": "Adana Cinema Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um sich nach der Tour wieder aufzuwärmen.",
+                "hu": "Tökéletes hely a felmelegedésre a túra után.",
+                "ro": "Locul perfect pentru a vă reîncălzi după tură.",
+                "en": "The perfect place to warm up again after your bike tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Unterschätzen Sie nicht den Windchill-Effekt beim Radfahren am Seyhan.",
+              "Die Tage sind kurz; planen Sie Ihre Rückkehr vor 17:00 Uhr ein.",
+              "Ein heißer Adana Kebab am Abend ist die beste Belohnung nach einer Wintertour.",
+              "Die Radwege im Park sind im Winter deutlich leerer und angenehmer."
+            ],
+            "hu": [
+              "Ne becsülje alá a szél hűtő hatását a Seyhan mentén tekerve.",
+              "A nappalok rövidek; tervezze meg a visszatérést 17:00 előtt.",
+              "Egy forró Adana kebab este a legjobb jutalom a téli túra után.",
+              "A parki kerékpárutak télen jóval üresebbek és kellemesebbek."
+            ],
+            "ro": [
+              "Nu subestimați efectul de răcire al vântului când pedalați pe malul râului.",
+              "Zilele sunt scurte; planificați-vă întoarcerea înainte de ora 17:00.",
+              "Un Adana Kebab fierbinte seara este cea mai bună recompensă după tură.",
+              "Pistele de biciclete din parc sunt mult mai libere și plăcute iarna."
+            ],
+            "en": [
+              "Don't underestimate the wind chill effect when cycling along the Seyhan.",
+              "Days are short; plan to finish your outdoor activities before 5 PM.",
+              "A hot Adana Kebab in the evening is the best reward after a winter ride.",
+              "The bike paths in the park are much emptier and more pleasant in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1085,6 +1449,206 @@
           "The roads to the viaduct can be narrow and winding, drive carefully.",
           "Plan for extra time for city traffic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom Auto aus genießen wir den dramatischen Blick auf das Varda-Viadukt im Nebel. Ein warmer Stopp im Panorama-Café bietet Schutz vor dem Regen, bevor wir ins Stadtzentrum fahren. Die Sabancı-Moschee und die Steinbrücke erleben wir zwischen den Güssen, stets mit dem trockenen Fahrzeug in der Nähe. Den Abend verbringen wir im überdachten Basar beim Uhrturm, geschützt vor dem Wetter.",
+            "hu": "Az autóból élvezzük a Varda-viadukt drámai látványát a ködben. Egy meleg megálló a Panorama kávézóban védelmet nyújt az eső elől a belváros felé menet. A Sabancı-mecsetet és a kőhidat a záporok között látogatjuk meg, mindig a közelben tudva a száraz autót. Az estét a fedett bazárban töltjük az óratoronynál, védve az időjárástól.",
+            "ro": "Din mașină ne bucurăm de vederea dramatică a Viaductului Varda în ceață. O oprire caldă la Panorama Café oferă adăpost înainte de a merge în centru. Vizităm Moscheea Sabancı și Podul de Piatră între reprizele de ploaie, având mereu mașina aproape. Seara o petrecem în bazarul acoperit.",
+            "en": "From the car, we enjoy the dramatic view of the Varda Viaduct in the mist. A warm stop at the Panorama Café provides shelter from the rain before heading to the city center. We experience the Sabancı Mosque and the Stone Bridge between showers, always with the dry vehicle nearby. The evening is spent in the covered bazaar near the Clock Tower."
+          },
+          "stops": [
+            {
+              "name": "Varda Viaduct (German Bridge)",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto für tolle Fotos.",
+                "hu": "Heves esőben maradjon az autóban a remek fotókhoz.",
+                "ro": "Rămâneți în mașină pentru fotografii grozave dacă plouă tare.",
+                "en": "Stay in the car for great photos if the rain is heavy."
+              }
+            },
+            {
+              "name": "Panorama Café near the Viaduct",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den Regen bei einem Tee abzuwarten.",
+                "hu": "Tökéletes hely az eső kivárására egy tea mellett.",
+                "ro": "Locul perfect pentru a aștepta trecerea ploii cu un ceai.",
+                "en": "The perfect place to wait out the rain with a hot tea."
+              }
+            },
+            {
+              "name": "City Center Parking (near Sabancı Mosque)",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz nah am Ausgang, um trocken zu bleiben.",
+                "hu": "Válasszon kijárathoz közeli helyet, hogy száraz maradjon.",
+                "ro": "Alegeți un loc aproape de ieșire pentru a rămâne uscat.",
+                "en": "Choose a spot close to the exit to stay dry while walking to the mosque."
+              }
+            },
+            {
+              "name": "Sabancı Central Mosque",
+              "tip_5lang": {
+                "de": "Direkter Zugang vom Parkplatz fast ohne nass zu werden.",
+                "hu": "Közvetlen bejutás a parkolóból, szinte elázás nélkül.",
+                "ro": "Acces direct din parcare, aproape fără a vă uda.",
+                "en": "Direct access from the parking area, almost without getting wet."
+              }
+            },
+            {
+              "name": "Stone Bridge (Taşköprü)",
+              "tip_5lang": {
+                "de": "Parken Sie kurz für einen schnellen Blick auf den Fluss.",
+                "hu": "Parkoljon le rövid időre egy gyors folyóparti nézelődéshez.",
+                "ro": "Parcați scurt pentru o privire rapidă asupra râului.",
+                "en": "Park briefly nearby for a quick glance at the swollen river."
+              }
+            },
+            {
+              "name": "Grand Clock Tower & Bazaar",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus und nutzen Sie die überdachten Gassen.",
+                "hu": "Parkoljon parkolóházban, és használja a fedett utcákat.",
+                "ro": "Parcați într-o parcare acoperită și folosiți străzile protejate.",
+                "en": "Park in a garage and use the covered bazaar alleys to explore."
+              }
+            },
+            {
+              "name": "Ulu Cami",
+              "tip_5lang": {
+                "de": "Ein letzter trockener Halt vor der Heimfahrt.",
+                "hu": "Egy utolsó száraz megálló a hazaindulás előtt.",
+                "ro": "O ultimă oprire uscată înainte de drumul spre casă.",
+                "en": "A final dry stop before heading back to your accommodation."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Verkehr in Adana kann bei Regen chaotisch sein; planen Sie Pufferzeit ein.",
+              "Achten Sie auf beschlagene Scheiben; die Luftfeuchtigkeit ist oft sehr hoch.",
+              "Die Straße zum Varda-Viadukt kann bei Nässe rutschig sein.",
+              "Nutzen Sie bewachte Parkhäuser, um nicht weit im Regen laufen zu müssen."
+            ],
+            "hu": [
+              "Az adanai forgalom esőben kaotikus lehet; tervezzen be extra időt.",
+              "Ügyeljen a párásodó szélvédőre; a páratartalom ilyenkor nagyon magas.",
+              "A Varda-viadukthoz vezető út nedvesen csúszós lehet.",
+              "Használjon őrzött parkolóházakat, hogy ne kelljen sokat gyalogolnia az esőben."
+            ],
+            "ro": [
+              "Traficul în Adana poate fi haotic pe ploaie; planificați timp suplimentar.",
+              "Atenție la geamurile aburite; umiditatea este adesea foarte ridicată.",
+              "Drumul spre Viaductul Varda poate fi alunecos când este ud.",
+              "Folosiți parcări acoperite pentru a evita mersul lung prin ploaie."
+            ],
+            "en": [
+              "Traffic in Adana can be chaotic during rain; plan for extra travel time.",
+              "Watch out for fogged windows as humidity is often very high during rain.",
+              "The road to Varda Viaduct can be slippery when wet; drive carefully.",
+              "Utilize covered parking garages to minimize walking in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Winterfahrt zum majestätischen Varda-Viadukt, das in der klaren Luft besonders beeindruckend wirkt. Im Panorama-Café genießen wir die Aussicht bei wohliger Wärme. Zurück in der Stadt besuchen wir die Sabancı-Moschee und den Basar, wobei das Auto uns zwischen den Stationen warm hält. Der Tag endet bei der Ulu Cami, während die Winterdämmerung Adana in ein sanftes Licht taucht.",
+            "hu": "Téli autózás a fenséges Varda-viadukthoz, amely a tiszta levegőben különösen lenyűgöző. A Panorama kávézóban élvezzük a kilátást a kellemes melegben. Visszatérve a városba meglátogatjuk a Sabancı-mecsetet és a bazárt, az autó pedig melegen tart minket a megállók között. A nap az Ulu Cami-nál ér véget, miközben a téli alkony puha fénybe öltözteti Adanát.",
+            "ro": "O călătorie de iarnă spre maiestuosul Viaduct Varda, care arată impresionant în aerul curat. La Panorama Café ne bucurăm de priveliște la căldură. Întorși în oraș, vizităm Moscheea Sabancı și bazarul, mașina ținându-ne de cald între opriri. Ziua se încheie la Ulu Cami sub lumina blândă a amurgului.",
+            "en": "A winter drive to the majestic Varda Viaduct, which looks particularly impressive in the clear air. At the Panorama Café, we enjoy the view in cozy warmth. Back in the city, we visit the Sabancı Mosque and the bazaar, with the car keeping us warm between stops. The day ends at Ulu Cami as the winter dusk bathes Adana in a soft light."
+          },
+          "stops": [
+            {
+              "name": "Varda Viaduct (German Bridge)",
+              "tip_5lang": {
+                "de": "Beste Sicht auf die Architektur durch die klare Winterluft.",
+                "hu": "A tiszta téli levegőben látszik legjobban az építészet minden részlete.",
+                "ro": "Cea mai bună vizibilitate asupra arhitecturii datorită aerului curat de iarnă.",
+                "en": "Best visibility of the architecture thanks to the clear winter air."
+              }
+            },
+            {
+              "name": "Panorama Café near the Viaduct",
+              "tip_5lang": {
+                "de": "Ein warmer Ort mit unbezahlbarem Ausblick auf die Brücke.",
+                "hu": "Meleg hely felbecsülhetetlen kilátással a hídra.",
+                "ro": "Un loc cald cu o priveliște neprețuită asupra podului.",
+                "en": "A warm place with an invaluable view of the historic bridge."
+              }
+            },
+            {
+              "name": "City Center Parking (near Sabancı Mosque)",
+              "tip_5lang": {
+                "de": "Zentrale Lage, ideal für kurze Wege in der Kälte.",
+                "hu": "Központi elhelyezkedés, ideális a rövid sétákhoz a hidegben.",
+                "ro": "Locație centrală, ideală pentru distanțe scurte prin frig.",
+                "en": "Central location, ideal for short walks in the cold air."
+              }
+            },
+            {
+              "name": "Sabancı Central Mosque",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Moschee mittags für das schönste Licht.",
+                "hu": "Látogassa meg a mecsetet délben a legszebb fényekért.",
+                "ro": "Vizitați moscheea la prânz pentru cea mai frumoasă lumină.",
+                "en": "Visit the mosque at noon for the most beautiful winter light."
+              }
+            },
+            {
+              "name": "Stone Bridge (Taşköprü)",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, bevor der kühle Wind zu stark wird.",
+                "hu": "Rövid fotómegálló, mielőtt a hűvös szél túl erőssé válna.",
+                "ro": "Oprire scurtă pentru poze înainte ca vântul rece să devină prea puternic.",
+                "en": "Short photo stop before the cool river wind becomes too strong."
+              }
+            },
+            {
+              "name": "Grand Clock Tower & Bazaar",
+              "tip_5lang": {
+                "de": "Genießen Sie den Duft von Wintergewürzen im Basar.",
+                "hu": "Élvezze a téli fűszerek illatát a bazárban.",
+                "ro": "Bucurați-vă de mirosul condimentelor de iarnă în bazar.",
+                "en": "Enjoy the scent of winter spices in the historic bazaar."
+              }
+            },
+            {
+              "name": "Ulu Cami",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ausklang des Tages in wohliger Atmosphäre.",
+                "hu": "A nap csendes lezárása kellemes hangulatban.",
+                "ro": "O încheiere liniștită a zilei într-o atmosferă primitoare.",
+                "en": "A quiet end to the day in a cozy and spiritual atmosphere."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte sinken kann.",
+              "Die Parkplatzsuche in der Altstadt ist im Winter etwas entspannter.",
+              "Nutzen Sie die Sitzheizung nach längeren Besichtigungen im Freien.",
+              "Besuchen Sie das Varda-Viadukt früh, da es in den Bergen früher dunkel wird."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást, mert a hidegben lecsökkenhet.",
+              "Az óvárosi parkolás télen valamivel nyugodtabb.",
+              "Használja az ülésfűtést a hosszabb szabadtéri nézelődések után.",
+              "Látogassa meg korán a Varda-viaduktot, mert a hegyekben hamarabb sötétedik."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope, deoarece poate scădea la frig.",
+              "Găsirea unui loc de parcare în orașul vechi este mai relaxată iarna.",
+              "Folosiți încălzirea în scaune după vizitele prelungite în aer liber.",
+              "Vizitați Viaductul Varda devreme, deoarece se întunecă mai repede la munte."
+            ],
+            "en": [
+              "Check your tire pressure as it can drop in colder temperatures.",
+              "Finding parking in the Old Town is slightly easier during the winter season.",
+              "Utilize seat heating after long periods of outdoor sightseeing.",
+              "Visit the Varda Viaduct early as it gets dark sooner in the mountain areas."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1440,6 +2004,188 @@
           "Be prepared for crowded trains during rush hour.",
           "Check which bus lines complement the metro for more flexibility."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag startet mit der Metro zur Vilayet-Station, direkt ins Herz der Altstadt. Wir nutzen den Uhrturm und die Ulu Cami als trockene Stopps, bevor uns der Bus zum Merkez Park bringt. Die Sabancı-Moschee bietet den perfekten Abschluss im Trockenen, während wir den Regen durch die Fenster beobachten. Dank öffentlicher Verkehrsmittel bleiben wir weitgehend unberührt vom nassen Wetter.",
+            "hu": "Esős nap metrózással a Vilayet állomásig, egyenesen az óváros szívébe. Az óratornyot és az Ulu Camit száraz megállóként használjuk, mielőtt a busz a Merkez Parkhoz vinne. A Sabancı-mecset tökéletes zárás a szárazban, miközben az ablakon át figyeljük az esőt. A tömegközlekedésnek köszönhetően nagyrészt védve maradunk a nedves időjárástól.",
+            "ro": "O zi ploioasă începe cu metroul până la stația Vilayet, în inima orașului vechi. Folosim Turnul Ceasului și Ulu Cami ca opriri uscate, înainte ca autobuzul să ne ducă la Parcul Merkez. Moscheea Sabancı oferă finalul perfect la adăpost. Mulțumită transportului public, rămânem în mare parte uscați.",
+            "en": "A rainy day starts with the metro to Vilayet Station, right into the heart of the Old Town. We use the Clock Tower and Ulu Cami as dry stops before the bus takes us to Merkez Park. The Sabancı Mosque provides the perfect finale in the dry while we watch the rain through the windows. Thanks to public transport, we stay largely unaffected by the wet weather."
+          },
+          "stops": [
+            {
+              "name": "Trip to Vilayet Station (Old Town)",
+              "tip_5lang": {
+                "de": "Die Metro-Stationen sind sauber und bieten perfekten Schutz.",
+                "hu": "A metróállomások tiszták és tökéletes védelmet nyújtanak.",
+                "ro": "Stațiile de metrou sunt curate și oferă protecție perfectă.",
+                "en": "Metro stations are clean and provide perfect shelter from the rain."
+              }
+            },
+            {
+              "name": "Grand Clock Tower (Büyük Saat)",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Sprint von der Station zu den Basar-Arkaden.",
+                "hu": "Csak egy rövid sprint az állomástól a bazár boltíveiig.",
+                "ro": "Doar un sprint scurt de la stație până la arcadele bazarului.",
+                "en": "Only a short sprint from the station to the sheltered bazaar arcades."
+              }
+            },
+            {
+              "name": "Ulu Cami",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine Besichtigung während eines Gusses.",
+                "hu": "Használja ki az időt a látogatásra egy felhőszakadás alatt.",
+                "ro": "Folosiți timpul pentru vizitare în timpul unei reprize de ploaie.",
+                "en": "Use the time for a visit while waiting for a downpour to pass."
+              }
+            },
+            {
+              "name": "Trip to Fatih Station (Riverbank)",
+              "tip_5lang": {
+                "de": "Der Bus hält oft direkt vor den Eingängen der Parks.",
+                "hu": "A busz gyakran közvetlenül a parkok bejárata előtt áll meg.",
+                "ro": "Autobuzul oprește adesea chiar în fața intrărilor în parcuri.",
+                "en": "Buses often stop right in front of the park entrances."
+              }
+            },
+            {
+              "name": "Merkez Park",
+              "tip_5lang": {
+                "de": "Suchen Sie bei plötzlichem Regen Schutz in einem der Park-Kioske.",
+                "hu": "Hirtelen esőben keressen menedéket a park egyik kioszkjában.",
+                "ro": "În caz de ploaie bruscă, căutați adăpost într-unul dintre chioșcurile din parc.",
+                "en": "Look for shelter in one of the park kiosks if it rains suddenly."
+              }
+            },
+            {
+              "name": "Sabancı Central Mosque",
+              "tip_5lang": {
+                "de": "Große Bushaltestellen mit Überdachung direkt vor der Moschee.",
+                "hu": "Nagy, fedett buszmegállók közvetlenül a mecset előtt.",
+                "ro": "Stații de autobuz mari și acoperite chiar în fața moscheii.",
+                "en": "Large covered bus stops are located directly in front of the mosque."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Metro in Adana ist ideal, um große Distanzen trocken zu überbrücken.",
+              "Stellen Sie sicher, dass Ihre KentKart aufgeladen ist, um Warten im Regen zu vermeiden.",
+              "Busse können bei Regen voller sein; planen Sie etwas mehr Zeit ein.",
+              "Nutzen Sie die 'Adana Kent Kart' App für Echtzeit-Infos zu den Bussen."
+            ],
+            "hu": [
+              "Az adanai metró ideális a nagy távolságok szárazon történő áthidalására.",
+              "Győződjön meg róla, hogy KentKartja fel van töltve, hogy elkerülje az esőben várakozást.",
+              "A buszok esőben zsúfoltabbak lehetnek; tervezzen több időt.",
+              "Használja az 'Adana Kent Kart' alkalmazást a buszok valós idejű követéséhez."
+            ],
+            "ro": [
+              "Metroul din Adana este ideal pentru a parcurge distanțe mari la uscat.",
+              "Asigurați-vă că aveți KentKart încărcat pentru a evita așteptarea în ploaie.",
+              "Autobuzele pot fi mai aglomerate pe ploaie; planificați mai mult timp.",
+              "Folosiți aplicația 'Adana Kent Kart' pentru informații în timp real."
+            ],
+            "en": [
+              "The Adana metro is ideal for covering long distances while staying dry.",
+              "Make sure your KentKart is topped up to avoid waiting at kiosks in the rain.",
+              "Buses can be more crowded during rain; plan for a little extra time.",
+              "Use the 'Adana Kent Kart' app for real-time bus tracking and arrival info."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit einer Fahrt zur Vilayet-Station. Wir erkunden die Altstadt und den Uhrturm, bevor uns der Transit zum Flussufer bringt. Die Sabancı-Moschee strahlt in der Wintersonne, und wir genießen den Tag ohne die Hitze des Sommers. Die gut geheizten Metro-Waggons machen das Reisen zwischen den Sehenswürdigkeiten Adanas im Winter besonders angenehm.",
+            "hu": "Tiszta téli reggel, utazással a Vilayet állomásig. Felfedezzük az óvárost és az óratornyot, mielőtt a tömegközlekedés a folyópartra vinne. A Sabancı-mecset ragyog a téli napsütésben, és élvezzük a napot a nyári hőség nélkül. A jól fűtött metrókocsik télen különösen kellemessé teszik az utazást Adana látnivalói között.",
+            "ro": "O dimineață senină de iarnă începe cu o călătorie spre stația Vilayet. Explorăm orașul vechi și Turnul Ceasului, apoi transportul ne duce la malul râului. Moscheea Sabancı strălucește în soarele de iarnă, fără căldura verii. Vagoanele de metrou bine încălzite fac călătoria foarte plăcută.",
+            "en": "A clear winter morning begins with a ride to Vilayet Station. We explore the Old Town and the Clock Tower before transit takes us to the riverbank. The Sabancı Mosque shines in the winter sun, and we enjoy the day without the summer heat. Well-heated metro cars make traveling between Adana's sights particularly pleasant in winter."
+          },
+          "stops": [
+            {
+              "name": "Trip to Vilayet Station (Old Town)",
+              "tip_5lang": {
+                "de": "Die Metro ist im Winter angenehm temperiert.",
+                "hu": "A metró télen kellemesen temperált.",
+                "ro": "Metroul este încălzit plăcut pe timpul iernii.",
+                "en": "The metro cars are comfortably heated during the winter season."
+              }
+            },
+            {
+              "name": "Grand Clock Tower (Büyük Saat)",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Spaziergang von der Station, ideal bei Kälte.",
+                "hu": "Csak egy rövid séta az állomástól, ideális a hidegben.",
+                "ro": "Doar o scurtă plimbare de la stație, ideal pe timp de frig.",
+                "en": "Just a short walk from the station, ideal for cold weather."
+              }
+            },
+            {
+              "name": "Ulu Cami",
+              "tip_5lang": {
+                "de": "Die spirituelle Ruhe ist im Winter besonders spürbar.",
+                "hu": "A spirituális nyugalom télen különösen érezhető.",
+                "ro": "Liniștea spirituală este deosebit de resimțită iarna.",
+                "en": "The spiritual tranquility is especially palpable in winter."
+              }
+            },
+            {
+              "name": "Trip to Fatih Station (Riverbank)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrt, um sich zwischen den Stopps aufzuwärmen.",
+                "hu": "Használja ki az utazást a megállók közötti felmelegedésre.",
+                "ro": "Folosiți călătoria pentru a vă încălzi între opriri.",
+                "en": "Use the transit time to warm up between outdoor stops."
+              }
+            },
+            {
+              "name": "Merkez Park",
+              "tip_5lang": {
+                "de": "Winterspaziergänge am Fluss sind erfrischend und belebend.",
+                "hu": "A folyóparti téli séták frissítőek és élénkítőek.",
+                "ro": "Plimbările de iarnă pe malul râului sunt răcoritoare și revigorante.",
+                "en": "Winter walks along the river are refreshing and invigorating."
+              }
+            },
+            {
+              "name": "Sabancı Central Mosque",
+              "tip_5lang": {
+                "de": "Helle Winterabende lassen die Moschee prächtig wirken.",
+                "hu": "A világos téli esték ragyogóvá teszik a mecsetet.",
+                "ro": "Serile luminoase de iarnă fac moscheea să pară magnifică.",
+                "en": "Bright winter evenings make the mosque look magnificent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Metro fährt bis ca. 23:00 Uhr, ideal für späte Restaurantbesuche.",
+              "In der Nähe der Metro-Stationen gibt es viele Orte für heißen Tee.",
+              "Die Busfrequenzen können im Winter leicht reduziert sein.",
+              "Genießen Sie die beleuchtete Stadt durch die Fenster der Metro."
+            ],
+            "hu": [
+              "A metró kb. 23:00-ig jár, ideális a késői vacsorákhoz.",
+              "A metróállomások közelében sok helyen kapható forró tea.",
+              "A buszjáratok sűrűsége télen kissé csökkenhet.",
+              "Élvezze a kivilágított várost a metró ablakaiból."
+            ],
+            "ro": [
+              "Metroul circulă până la aproximativ ora 23:00, ideal pentru cină.",
+              "Lângă stațiile de metrou găsiți multe locuri pentru un ceai fierbinte.",
+              "Frecvența autobuzelor poate fi ușor redusă iarna.",
+              "Bucurați-vă de orașul iluminat prin ferestrele metroului."
+            ],
+            "en": [
+              "The metro runs until about 11 PM, ideal for late restaurant visits.",
+              "Many places near metro stations offer hot tea to warm up.",
+              "Bus frequencies might be slightly reduced during the winter months.",
+              "Enjoy the views of the illuminated city through the metro windows."
+            ]
+          }
+        }
       }
     }
   }

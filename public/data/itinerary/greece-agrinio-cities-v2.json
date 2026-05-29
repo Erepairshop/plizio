@@ -322,6 +322,196 @@
           "Bring a reusable water bottle.",
           "Plan for a longer lunch break to enjoy the local cuisine."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am regennassen Democracy Square, wo die Arkaden Schutz bieten. Mittags besichtigen wir die Kirche des Hl. Christophorus und die alten Tabaklager, deren Architektur bei Regen besonders melancholisch wirkt. Nachmittags verbringen wir die Zeit in den Museen von Agrinio, die trockene Zuflucht und Kultur bieten. Der Abend klingt mit dem Duft von feuchter Erde im Papastratos-Park aus.",
+            "hu": "A reggel az eső áztatta Demokrácia téren indul, ahol az árkádok alatt kávézhatunk. Délben a Szent Kristóf-templom és a régi dohányraktárak monumentális falai között keresünk menedéket. A délutánt a Papastrateio Múzeum és a Kapralos Galéria fedett tereiben töltjük, távol a sártól. Az estét a park fái alatt zárjuk, ahol az eső utáni friss levegő kísér minket.",
+            "ro": "Dimineața începe în Piața Democrației, unde arcadele oferă adăpost împotriva ploii. La prânz, vizităm Biserica Sfântul Cristofor și vechile depozite de tutun, a căror istorie industrială pare mai vie pe vreme gri. După-amiaza este dedicată muzeelor, refugii perfecte pentru cultură. Seara se încheie cu o plimbare scurtă prin Parcul Papastratos, sub protecția copacilor deși.",
+            "en": "The morning starts at the rain-slicked Democracy Square, utilizing the arcades for shelter. At noon, we explore the Church of Saint Christopher and the tobacco warehouses, which look evocative in the mist. The afternoon is spent indoors at the Papastrateio Museum and Kapralos Gallery. We finish the day with the fresh scent of rain in Papastratos Park, under the canopy of mature trees."
+          },
+          "stops": [
+            {
+              "name": "Democracy Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Cafés als Regenschutz.",
+                "hu": "Használja a környékbeli kávézók árkádjait az eső elleni védelemhez.",
+                "ro": "Folosiți arcadele cafenelelor din jur pentru a vă proteja de ploaie.",
+                "en": "Use the arcades of the surrounding cafes as shelter from the rain."
+              }
+            },
+            {
+              "name": "Church of Saint Christopher",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort für eine Pause während eines Schauers.",
+                "hu": "Csendes, száraz hely egy kis pihenéshez a zápor alatt.",
+                "ro": "Un loc liniștit și uscat pentru o pauză în timpul unei averse.",
+                "en": "A quiet, dry place for a break during a downpour."
+              }
+            },
+            {
+              "name": "Tobacco Warehouses",
+              "tip_5lang": {
+                "de": "Die massiven Dachüberstände bieten punktuell Schutz.",
+                "hu": "A masszív tetőtúllógások helyenként védelmet nyújtanak.",
+                "ro": "Estreșinile masive oferă protecție în anumite puncte.",
+                "en": "The massive roof overhangs provide shelter in some spots."
+              }
+            },
+            {
+              "name": "Papastrateio Archaeological Museum",
+              "tip_5lang": {
+                "de": "Perfekt für eine ausgiebige Besichtigung bei starkem Regen.",
+                "hu": "Tökéletes választás egy hosszú látogatáshoz erős esőben.",
+                "ro": "Perfect pentru o vizită lungă în caz de ploaie torențială.",
+                "en": "Perfect for a long visit in case of heavy rain."
+              }
+            },
+            {
+              "name": "Christos Kapralos Gallery",
+              "tip_5lang": {
+                "de": "Garderobe vorhanden, um nasse Mäntel vor dem Rundgang abzugeben.",
+                "hu": "Van ruhatár, ahol leadhatja vizes kabátját a körút előtt.",
+                "ro": "Există garderobă unde vă puteți lăsa haina udă înainte de vizită.",
+                "en": "Wardrobe available to drop off wet coats before the tour."
+              }
+            },
+            {
+              "name": "Papastratos Park",
+              "tip_5lang": {
+                "de": "Die hohen Kiefern dienen als natürlicher Regenschirm.",
+                "hu": "A magas fenyőfák természetes esernyőként szolgálnak.",
+                "ro": "Pinii înalți servesc drept umbrelă naturală.",
+                "en": "The tall pine trees serve as a natural umbrella."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich auf den Plätzen Pfützen bilden können.",
+              "Agrinio hat viele Cafés mit überdachten Außenbereichen.",
+              "Die Museen sind die besten Anlaufstellen bei anhaltendem Regen.",
+              "Ein Taschenschirm ist wegen plötzlicher Windböen praktischer als ein Stockschirm.",
+              "Nutzen Sie die Zeit in den Tabaklagern für stimmungsvolle Fotos."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a tereken könnyen megáll a víz.",
+              "Agrinio számos kávézója rendelkezik fedett terasszal.",
+              "A múzeumok a legjobb menedékek tartós eső esetén.",
+              "Az összecsukható esernyő praktikusabb a hirtelen széllökések miatt.",
+              "Használja ki az időt a dohányraktáraknál hangulatos fotók készítésére."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece în piețe se pot forma bălți.",
+              "Agrinio are multe cafenele cu terase acoperite.",
+              "Muzeele sunt cele mai bune refugii în caz de ploaie persistentă.",
+              "O umbrelă pliabilă este mai practică din cauza rafalelor bruște de vânt.",
+              "Profită de timpul petrecut la depozitele de tutun pentru fotografii atmosferice."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles tend to form in the squares.",
+              "Agrinio has many cafes with covered outdoor seating areas.",
+              "The museums are the best spots to stay dry during persistent rain.",
+              "A compact umbrella is more practical due to sudden wind gusts.",
+              "Take advantage of the atmosphere at the tobacco warehouses for photos."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen genießen wir die frische Luft am Democracy Square bei einem heißen griechischen Kaffee. Mittags wärmen wir uns in der Kirche und erkunden die kühle Geschichte der Tabaklager. Der Nachmittag gehört den Museen, bevor wir den Sonnenuntergang im Papastratos-Park erleben. Der Abend endet früh, wenn die Stadtlichter die winterliche Atmosphäre erhellen.",
+            "hu": "Egy tiszta téli reggelen a friss levegőt élvezzük a Demokrácia téren egy forró görög kávéval. Délben a templomban és a dohányraktárak hűvös falaiban mélyedünk el a múltban. A délután a fűtött múzeumoké, mielőtt elcsípjük a korai naplementét a Papastratos-parkban. Az este hamar leszáll, Agrinio fényei pedig különleges hangulatot adnak a városnak.",
+            "ro": "Într-o dimineață senină de iarnă, savurăm aerul proaspăt în Piața Democrației cu o cafea grecească fierbinte. La prânz, ne încălzim în biserică și explorăm istoria răcoroasă a depozitelor de tutun. După-amiaza aparține muzeelor încălzite, înainte de a vedea apusul în Parcul Papastratos. Seara coboară devreme, iar luminile orașului creează o atmosferă hibernală.",
+            "en": "On a crisp winter morning, we enjoy the fresh air at Democracy Square with a hot Greek coffee. At noon, we warm up in the church and explore the cool history of the tobacco warehouses. The afternoon is reserved for heated museums before catching the early sunset at Papastratos Park. Evening falls quickly, and the city lights brighten the wintry atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Democracy Square",
+              "tip_5lang": {
+                "de": "Bestellen Sie einen 'Ellinikos' Kaffee zum Aufwärmen.",
+                "hu": "Rendeljen egy forró 'Ellinikos' kávét a bemelegítéshez.",
+                "ro": "Comandați o cafea 'Ellinikos' fierbinte pentru a vă încălzi.",
+                "en": "Order a hot 'Ellinikos' coffee to warm up."
+              }
+            },
+            {
+              "name": "Church of Saint Christopher",
+              "tip_5lang": {
+                "de": "Oft etwas wärmer als die Außenluft, ideal für Besinnung.",
+                "hu": "Gyakran melegebb, mint a kinti levegő, ideális az elmélkedésre.",
+                "ro": "Aeseori mai cald decât afară, ideal pentru reculegere.",
+                "en": "Often warmer than the outside air, ideal for contemplation."
+              }
+            },
+            {
+              "name": "Tobacco Warehouses",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, in den Hallen ist es zugig.",
+                "hu": "Öltözzön rétegesen, a csarnokokban huzatos lehet az idő.",
+                "ro": "Îmbrăcați-vă gros, în hale poate fi curent.",
+                "en": "Dress warmly; it can be drafty inside the warehouses."
+              }
+            },
+            {
+              "name": "Papastrateio Archaeological Museum",
+              "tip_5lang": {
+                "de": "Die Klimatisierung sorgt für angenehme Temperaturen.",
+                "hu": "A légkondicionálás télen is kellemes hőmérsékletet biztosít.",
+                "ro": "Climatizarea asigură o temperatură plăcută și iarna.",
+                "en": "The climate control ensures pleasant temperatures even in winter."
+              }
+            },
+            {
+              "name": "Christos Kapralos Gallery",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort, um dem Winterwind zu entfliehen.",
+                "hu": "Barátságos hely, ahol elmenekülhet a téli szél elől.",
+                "ro": "Un loc primitor pentru a scăpa de vântul de iarnă.",
+                "en": "A cozy place to escape the winter wind."
+              }
+            },
+            {
+              "name": "Papastratos Park",
+              "tip_5lang": {
+                "de": "Bester Ort für den Sonnenuntergang gegen 17:15 Uhr.",
+                "hu": "A legjobb hely a naplemente megtekintéséhez 17:15 körül.",
+                "ro": "Cel mai bun loc pentru apus, în jur de ora 17:15.",
+                "en": "The best spot for the sunset around 5:15 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 17:15 Uhr unter.",
+              "Zwiebelprinzip bei der Kleidung ist ratsam, da Museen beheizt sind.",
+              "Die Luft in Agrinio ist im Winter oft sehr klar und frisch.",
+              "Viele Tavernen am Platz haben im Winter gemütliche Kamine.",
+              "Vermeiden Sie späte Besuche im Park ohne Stirnlampe."
+            ],
+            "hu": [
+              "A nap télen 17:15 körül nyugszik.",
+              "Öltözzön rétegesen, mert a múzeumok jól fűtöttek.",
+              "Agrinio levegője télen gyakran nagyon tiszta és friss.",
+              "Sok taverna a téren télen hangulatos kandallóval várja.",
+              "Kerülje a késői parklátogatást, mert hamar sötétedik."
+            ],
+            "ro": [
+              "Iarna, soarele apune în jur de ora 17:15.",
+              "Îmbrăcați-vă în straturi, deoarece muzeele sunt încălzite.",
+              "Aerul din Agrinio este adesea foarte clar și proaspăt iarna.",
+              "Multe taverne din piață au șeminee primitoare iarna.",
+              "Evitați vizitele târzii în parc fără sursă de lumină."
+            ],
+            "en": [
+              "The sun sets around 5:15 PM in winter.",
+              "Dress in layers as museums are typically well-heated.",
+              "The air in Agrinio is often very crisp and clear in winter.",
+              "Many tavernas around the square have cozy fireplaces in winter.",
+              "Avoid late visits to the park as it gets dark very early."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -622,6 +812,196 @@
           "Wear a helmet.",
           "Use bike lanes wherever possible."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir vorsichtig am Democracy Square. Die Route führt uns durch die grünen Wege des Papastratos-Parks, wo die Bäume leichten Schutz bieten. Mittags besuchen wir die Kapralos-Galerie und die Kirche, während wir unsere Räder sicher abstellen. Den Nachmittag nutzen wir für das Archäologische Museum und die Tabaklager, wobei wir immer auf rutschige Straßen achten.",
+            "hu": "Az eső ellenére óvatosan indulunk a Demokrácia térről. Utunk a Papastratos-park zöld ösvényein vezet, ahol a fák némi védelmet nyújtanak. Délben meglátogatjuk a Kapralos Galériát és a templomot, miközben kerékpárjainkat biztonságban lezárjuk. A délutánt a múzeumnak és a dohányraktáraknak szenteljük, figyelve a csúszós útburkolatra.",
+            "ro": "În ciuda ploii, pornim cu grijă din Piața Democrației. Ruta ne poartă prin potecile verzi ale Parcului Papastratos, unde copacii oferă o mică protecție. La prânz vizităm Galeria Kapralos și biserica, în timp ce lăsăm bicicletele asigurate. După-amiaza o folosim pentru muzeu și depozite, fiind mereu atenți la carosabilul alunecos.",
+            "en": "Despite the rain, we start cautiously from Democracy Square. The route takes us through the green paths of Papastratos Park, where the trees offer some cover. At noon, we visit the Kapralos Gallery and the church while keeping our bikes locked safely. We spend the afternoon at the museum and tobacco warehouses, always watching out for slippery road surfaces."
+          },
+          "stops": [
+            {
+              "name": "Democracy Square",
+              "tip_5lang": {
+                "de": "Achtung: Das Pflaster ist bei Nässe extrem rutschig.",
+                "hu": "Vigyázat: A térkövek nedvesen rendkívül csúszósak.",
+                "ro": "Atenție: Pavajul este extrem de alunecos când este ud.",
+                "en": "Caution: The pavement is extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Papastratos Park",
+              "tip_5lang": {
+                "de": "Fahren Sie auf den asphaltierten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon az aszfaltozott utakon a sár elkerülése érdekében.",
+                "ro": "Rămâneți pe aleile asfaltate pentru a evita noroiul.",
+                "en": "Stay on the paved paths to avoid mud."
+              }
+            },
+            {
+              "name": "Christos Kapralos Gallery",
+              "tip_5lang": {
+                "de": "Fahrradständer sind in der Nähe vorhanden.",
+                "hu": "Kerékpártárolók találhatók a közelben.",
+                "ro": "Suporturile pentru biciclete sunt disponibile în apropiere.",
+                "en": "Bike racks are available nearby."
+              }
+            },
+            {
+              "name": "Church of Saint Christopher",
+              "tip_5lang": {
+                "de": "Überdachter Stellplatz in der Nähe des Eingangs.",
+                "hu": "Fedett tárolóhely a bejárat közelében.",
+                "ro": "Loc de parcare acoperit lângă intrare.",
+                "en": "Covered parking spot near the entrance."
+              }
+            },
+            {
+              "name": "Tobacco Warehouses",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen in der Industriezone.",
+                "hu": "Vigyázzon a mély tócsákra az ipari negyedben.",
+                "ro": "Atenție la bălțile adânci din zona industrială.",
+                "en": "Watch out for deep puddles in the industrial area."
+              }
+            },
+            {
+              "name": "Papastrateio Archaeological Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pause für einen Kleiderwechsel (Regencape).",
+                "hu": "Használja ki a szünetet egy esőköpeny-cserére.",
+                "ro": "Folosiți pauza pentru a vă schimba pelerina de ploaie.",
+                "en": "Use the break to adjust your rain gear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Vermeiden Sie abruptes Bremsen auf weißmarkierten Linien.",
+              "Tragen Sie neongelbe Regenkleidung für bessere Sichtbarkeit.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Abfahrt.",
+              "Lagern Sie empfindliche Elektronik in wasserdichten Taschen."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Kerülje a hirtelen fékezést a felfestett vonalakon.",
+              "Viseljen neon esőruházatot a jobb láthatóságért.",
+              "Indulás előtt ellenőrizze a fékbetéteket.",
+              "Az érzékeny elektronikát tárolja vízálló táskában."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe acest timp.",
+              "Evitați frânarea bruscă pe liniile marcate.",
+              "Purtați haine de ploaie neon pentru o mai bună vizibilitate.",
+              "Verificați plăcuțele de frână înainte de plecare.",
+              "Depozitați electronicele sensibile în genți impermeabile."
+            ],
+            "en": [
+              "Mudguards are essential in this weather.",
+              "Avoid sudden braking on painted road markings.",
+              "Wear neon rain gear for better visibility.",
+              "Check your brake pads before heading out.",
+              "Store sensitive electronics in waterproof bags."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour startet frisch am Democracy Square. Wir radeln durch den ruhigen Papastratos-Park und genießen die kühle Brise. Mittags besuchen wir die Kapralos-Galerie und wärmen uns in der Kirche auf. Der Nachmittag führt uns zum Museum und den Tabaklagern, wobei wir das Tageslicht optimal nutzen, bevor es am späten Nachmittag empfindlich abkühlt.",
+            "hu": "A téli kerékpártúra frissen indul a Demokrácia térről. A csendes Papastratos-parkon keresztül tekerünk, élvezve a hűvös szellőt. Délben meglátogatjuk a Kapralos Galériát, és bemelegszünk a templomban. A délután a múzeumhoz és a dohányraktárakhoz vezet, maximálisan kihasználva a nappali fényt, mielőtt késő délután jelentősen lehűl az idő.",
+            "ro": "Turul cu bicicleta de iarnă începe proaspăt în Piața Democrației. Pedalăm prin Parcul Papastratos liniștit, bucurându-ne de briza rece. La prânz vizităm Galeria Kapralos și ne încălzim în biserică. După-amiaza ne poartă la muzeu și la depozite, profitând la maxim de lumina zilei înainte ca temperatura să scadă brusc.",
+            "en": "The winter bike tour starts briskly at Democracy Square. We cycle through the quiet Papastratos Park, enjoying the cool breeze. At noon, we visit the Kapralos Gallery and warm up in the church. The afternoon leads us to the museum and tobacco warehouses, making the most of the daylight before it gets significantly colder in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Democracy Square",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für den Start.",
+                "hu": "Viseljen szélálló kesztyűt az induláshoz.",
+                "ro": "Purtați mănuși rezistente la vânt pentru început.",
+                "en": "Wear windproof gloves for the start."
+              }
+            },
+            {
+              "name": "Papastratos Park",
+              "tip_5lang": {
+                "de": "Achtung bei Laub auf den Wegen; es kann rutschig sein.",
+                "hu": "Vigyázzon az utakon lévő levelekre; csúszósak lehetnek.",
+                "ro": "Atenție la frunzele de pe alei; pot fi alunecoase.",
+                "en": "Watch out for leaves on the paths; they can be slippery."
+              }
+            },
+            {
+              "name": "Christos Kapralos Gallery",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, um die Finger wieder aufzuwärmen.",
+                "hu": "Jó alkalom az ujjak átmelegítésére.",
+                "ro": "O oportunitate bună pentru a vă încălzi degetele.",
+                "en": "A good opportunity to warm up your fingers."
+              }
+            },
+            {
+              "name": "Church of Saint Christopher",
+              "tip_5lang": {
+                "de": "Respektieren Sie die Stille, auch beim Abstellen der Räder.",
+                "hu": "Tisztelje a csendet a kerékpárok leállításakor is.",
+                "ro": "Respectați liniștea, chiar și când lăsați bicicletele.",
+                "en": "Respect the silence, even when parking your bikes."
+              }
+            },
+            {
+              "name": "Tobacco Warehouses",
+              "tip_5lang": {
+                "de": "In den Schattenzonen bleibt es den ganzen Tag kalt.",
+                "hu": "Az árnyékos részeken egész nap hideg maradhat.",
+                "ro": "În zonele umbrite rămâne frig toată ziua.",
+                "en": "In shaded areas, it stays cold all day long."
+              }
+            },
+            {
+              "name": "Papastrateio Archaeological Museum",
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad gut, bevor Sie ins Warme gehen.",
+                "hu": "Zárja le jól a kerékpárját, mielőtt bemenne a melegbe.",
+                "ro": "Asigurați bine bicicleta înainte de a intra la căldură.",
+                "en": "Lock your bike securely before heading into the heat."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermokleidung ist für die kühlen Abfahrten wichtig.",
+              "Achten Sie auf gefrierende Nässe in schattigen Kurven.",
+              "Die Tage sind kurz; sorgen Sie für funktionierende Beleuchtung.",
+              "Ein heißer Tee in der Thermoskanne wirkt Wunder.",
+              "Tragen Sie eine dünne Mütze unter dem Helm."
+            ],
+            "hu": [
+              "A thermo ruházat fontos a hűvös lejtőkön.",
+              "Ügyeljen a fagyott nedvességre az árnyékos kanyarokban.",
+              "Rövidek a nappalok; gondoskodjon a működő világításról.",
+              "Egy forró tea a termoszházban csodákra képes.",
+              "Viseljen vékony sapkát a bukósisak alatt."
+            ],
+            "ro": [
+              "Îmbrăcămintea termică este importantă pentru coborârile reci.",
+              "Atenție la gheața din curbele umbrite.",
+              "Zilele sunt scurte; asigurați-vă că aveți lumini funcționale.",
+              "Un ceai fierbinte în termos face minuni.",
+              "Purtați o căciulă subțire sub cască."
+            ],
+            "en": [
+              "Thermal clothing is important for cool descents.",
+              "Watch out for icy patches in shaded corners.",
+              "Days are short; ensure your lights are working properly.",
+              "A hot tea in a thermos works wonders.",
+              "Wear a thin cap under your helmet."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -922,6 +1302,196 @@
           "Bring cash for small purchases in the countryside.",
           "Be mindful of parking in the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten unsere Fahrt zum antiken Stratos im Regen, was den Ruinen eine mystische Aura verleiht. Mittags parken wir bequem im Zentrum am Democracy Square für einen kurzen Stadtbummel. Nach dem Museumsbesuch genießen wir ein ausgiebiges Mittagessen in einer warmen Taverne. Den Nachmittag verbringen wir am Trichonida-See, wo wir die Aussicht geschützt aus dem Auto genießen.",
+            "hu": "Az esőben indulunk az ókori Stratoshoz, ami misztikus aurát kölcsönöz a romoknak. Délben kényelmesen parkolunk a központban, a Demokrácia térnél egy rövid városi sétához. A múzeumlátogatás után bőséges ebédet fogyasztunk egy meleg tavernában. A délutánt a Trichonida-tónál töltjük, ahol az autóból, védett helyről élvezzük a kilátást.",
+            "ro": "Pornim spre anticul Stratos în ploaie, ceea ce conferă ruinelor o aură mistică. La prânz parcăm confortabil în centru, lângă Piața Democrației, pentru o scurtă plimbare. După vizita la muzeu, savurăm un prânz copios într-o tavernă caldă. După-amiaza o petrecem la Lacul Trichonida, admirând priveliștea din mașină, la adăpost.",
+            "en": "We start our drive to Ancient Stratos in the rain, giving the ruins a mystical aura. At noon, we park conveniently in the center near Democracy Square for a quick stroll. After the museum visit, we enjoy a hearty lunch in a warm taverna. We spend the afternoon at Lake Trichonida, enjoying the views from the comfort of the car."
+          },
+          "stops": [
+            {
+              "name": "Ancient Stratos",
+              "tip_5lang": {
+                "de": "Der Weg zu den Ruinen kann bei Regen sehr schlammig sein.",
+                "hu": "A romokhoz vezető út esőben nagyon sáros lehet.",
+                "ro": "Drumul spre ruine poate fi foarte noroios în caz de ploaie.",
+                "en": "The path to the ruins can be very muddy in the rain."
+              }
+            },
+            {
+              "name": "Democracy Square (Agrinio Center Cluster)",
+              "tip_5lang": {
+                "de": "Parkhäuser in der Nähe nutzen, um trocken ins Zentrum zu kommen.",
+                "hu": "Használja a közeli parkolóházakat, hogy szárazon jusson a központba.",
+                "ro": "Folosiți parcările supraetajate din apropiere pentru a ajunge uscat în centru.",
+                "en": "Use nearby parking garages to stay dry while heading to the center."
+              }
+            },
+            {
+              "name": "Papastrateio Archaeological Museum",
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor für minimalen Gehweg im Regen.",
+                "hu": "Parkoljon közvetlenül előtte, hogy minimálisat kelljen gyalogolnia.",
+                "ro": "Parcați chiar în față pentru a merge cât mai puțin prin ploaie.",
+                "en": "Park directly in front to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Lunch at a Taverna",
+              "tip_5lang": {
+                "de": "Ideale Zeit, um die Kleidung trocknen zu lassen.",
+                "hu": "Ideális időpont a ruházat megszárítására.",
+                "ro": "Momentul ideal pentru a vă usca hainele.",
+                "en": "Ideal time to let your clothes dry."
+              }
+            },
+            {
+              "name": "Lake Trichonida (Lakeshore Cluster)",
+              "tip_5lang": {
+                "de": "Vorsicht auf den ufernahen Straßen; Rutschgefahr.",
+                "hu": "Vigyázzon a tóparti utakon; csúszásveszély.",
+                "ro": "Atenție pe drumurile de pe malul lacului; pericol de derapare.",
+                "en": "Caution on the lakeshore roads; risk of skidding."
+              }
+            },
+            {
+              "name": "Walk along the shore",
+              "tip_5lang": {
+                "de": "Nur bei Regenpause empfehlenswert, sonst Aussichtspunkt wählen.",
+                "hu": "Csak esőszünetben ajánlott, különben válasszon egy kilátót.",
+                "ro": "Recomandat doar în pauzele de ploaie, altfel alegeți un punct de observație.",
+                "en": "Recommended only during rain breaks; otherwise, choose a viewpoint."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt.",
+              "In den Bergen um den See kann es neblig sein.",
+              "Halten Sie Abstand auf nassen Straßen.",
+              "Ein Regenschirm im Kofferraum ist bei Stopps Gold wert.",
+              "Vermeiden Sie unbefestigte Seitenstreifen am See."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "A tó körüli hegyekben ködös lehet az idő.",
+              "Tartson nagyobb követési távolságot a nedves utakon.",
+              "A csomagtartóban lévő esernyő aranyat ér a megállóknál.",
+              "Kerülje a tóparti burkolatlan útpadkákat."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de drum.",
+              "În munții din jurul lacului poate fi ceață.",
+              "Păstrați distanța pe drumurile umede.",
+              "O umbrelă în portbagaj este de mare ajutor la opriri.",
+              "Evitați acostamentele neasfaltate de lângă lac."
+            ],
+            "en": [
+              "Check your windshield wipers before heading out.",
+              "It can be foggy in the mountains around the lake.",
+              "Maintain a safe following distance on wet roads.",
+              "An umbrella in the trunk is invaluable during stops.",
+              "Avoid unpaved road shoulders near the lake."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen führt uns zum antiken Stratos, wo die Ruinen in kühlem Licht glänzen. Mittags kehren wir ins Zentrum von Agrinio zurück und besuchen das Museum. Ein wärmendes Mittagessen stärkt uns für die Fahrt zum Trichonida-See am Nachmittag. Dort genießen wir die winterliche Stille und den frühen Sonnenuntergang über dem Wasser, bevor wir die Heizung im Auto wieder aufdrehen.",
+            "hu": "A téli reggel az ókori Stratoshoz vezet, ahol a romok hűvös fényben ragyognak. Délben visszatérünk Agrinio központjába, és meglátogatjuk a múzeumot. Egy melengető ebéd után délután a Trichonida-tóhoz autózunk. Ott élvezzük a téli csendet és a víz feletti korai naplementét, mielőtt újra feltekernénk az autó fűtését.",
+            "ro": "Dimineața de iarnă ne poartă spre anticul Stratos, unde ruinele strălucesc în lumină rece. La prânz ne întoarcem în centrul orașului Agrinio și vizităm muzeul. Un prânz cald ne întărește pentru drumul spre Lacul Trichonida de după-amiază. Acolo ne bucurăm de liniștea hibernală și de apusul devreme peste apă, înainte de a porni iar căldura în mașină.",
+            "en": "The winter morning takes us to Ancient Stratos, where the ruins gleam in cool light. At noon, we return to the center of Agrinio and visit the museum. A warming lunch sustains us for the drive to Lake Trichonida in the afternoon. There, we enjoy the wintry silence and the early sunset over the water before turning the car heater back up."
+          },
+          "stops": [
+            {
+              "name": "Ancient Stratos",
+              "tip_5lang": {
+                "de": "Bodenfrost kann die Wege zu den Ruinen glatt machen.",
+                "hu": "A talajmenti fagy csúszóssá teheti a romokhoz vezető utakat.",
+                "ro": "Înghețul la sol poate face potecile spre ruine alunecoase.",
+                "en": "Ground frost can make the paths to the ruins slippery."
+              }
+            },
+            {
+              "name": "Democracy Square (Agrinio Center Cluster)",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter im Zentrum leichter zu finden.",
+                "hu": "Télen könnyebb parkolóhelyet találni a központban.",
+                "ro": "Locurile de parcare sunt mai ușor de găsit în centru iarna.",
+                "en": "Parking spots are easier to find in the center during winter."
+              }
+            },
+            {
+              "name": "Papastrateio Archaeological Museum",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um der Mittagskälte zu entfliehen.",
+                "hu": "Kellemes hely a déli hideg elől való menekülésre.",
+                "ro": "Un loc plăcut pentru a scăpa de frigul de la amiază.",
+                "en": "A nice place to escape the midday cold."
+              }
+            },
+            {
+              "name": "Lunch at a Taverna",
+              "tip_5lang": {
+                "de": "Probieren Sie lokale Fleischgerichte, die im Winter beliebt sind.",
+                "hu": "Kóstolja meg a helyi húsételeket, amelyek télen népszerűek.",
+                "ro": "Gustați preparatele locale din carne, populare iarna.",
+                "en": "Try local meat dishes that are popular in winter."
+              }
+            },
+            {
+              "name": "Lake Trichonida (Lakeshore Cluster)",
+              "tip_5lang": {
+                "de": "Die Temperatur am See ist oft niedriger als in der Stadt.",
+                "hu": "A tóparti hőmérséklet gyakran alacsonyabb, mint a városban.",
+                "ro": "Temperatura la lac este adesea mai mică decât în oraș.",
+                "en": "The temperature at the lake is often lower than in the city."
+              }
+            },
+            {
+              "name": "Walk along the shore",
+              "tip_5lang": {
+                "de": "Packen Sie eine warme Decke für kurze Pausen am Wasser ein.",
+                "hu": "Készítsen be egy meleg takarót a vízparti pihenőkhöz.",
+                "ro": "Luați o pătură caldă pentru scurte pauze lângă apă.",
+                "en": "Pack a warm blanket for short breaks by the water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Wildwechsel in der Dämmerung am See.",
+              "Die Heizung im Auto sollte gut funktionieren.",
+              "Die Straßen können in höheren Lagen morgens glatt sein.",
+              "Nehmen Sie heiße Getränke für die Fahrt mit.",
+              "Planen Sie die Rückreise vor 17:30 Uhr ein."
+            ],
+            "hu": [
+              "Ügyeljen a vadakra a tóparti szürkületben.",
+              "Az autó fűtése legyen megfelelően ellenőrizve.",
+              "A magasabb fekvésű utakon reggelente fagyos lehet az aszfalt.",
+              "Vigyen magával forró italokat az útra.",
+              "A visszautat tervezze 17:30 előttre."
+            ],
+            "ro": [
+              "Atenție la animalele sălbatice la amurg lângă lac.",
+              "Încălzirea mașinii ar trebui să funcționeze bine.",
+              "Drumurile pot fi alunecoase dimineața în zonele mai înalte.",
+              "Luați băuturi fierbinți pentru drum.",
+              "Planificați întoarcerea înainte de ora 17:30."
+            ],
+            "en": [
+              "Watch out for wildlife during twilight near the lake.",
+              "Ensure the car's heating system is working well.",
+              "Roads in higher elevations can be slippery in the mornings.",
+              "Take hot drinks with you for the drive.",
+              "Plan your return journey before 5:30 PM."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1222,6 +1792,196 @@
           "Have the bus schedule handy.",
           "Validate your ticket on every ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir im Regen den Democracy Square. Wir nutzen die kurzen Wege zwischen den Haltestellen und der Kirche sowie den Tabaklagern. Der Nachmittag ist ideal für die Museen, die wir bequem per Transit erreichen, ohne nass zu werden. Den Abschluss bildet ein kurzer Besuch im Papastratos-Park, bevor wir die Heimreise im trockenen Bus antreten.",
+            "hu": "Busszal érkezünk az esőben a Demokrácia térre. Kihasználjuk a megállók és a templom, valamint a dohányraktárak közötti rövid távolságokat. A délután ideális a múzeumokhoz, amelyeket tömegközlekedéssel kényelmesen, ázás nélkül érünk el. A napot egy rövid parklátogatással zárjuk, mielőtt a száraz buszon hazaindulnánk.",
+            "ro": "Ajungem cu autobuzul în Piața Democrației pe ploaie. Profităm de distanțele scurte între stații, biserică și depozitele de tutun. După-amiaza este ideală pentru muzee, unde ajungem confortabil cu transportul public fără să ne udăm. Încheiem cu o scurtă vizită în parcul Papastratos înainte de drumul spre casă.",
+            "en": "We reach Democracy Square by bus in the rain. We take advantage of the short distances between stops, the church, and the tobacco warehouses. The afternoon is ideal for museums, which we reach comfortably via transit without getting soaked. We wrap up with a quick park visit before heading home on a dry bus."
+          },
+          "stops": [
+            {
+              "name": "Democracy Square (Center Cluster)",
+              "tip_5lang": {
+                "de": "Zentrale Bushaltestellen mit Unterstand nutzen.",
+                "hu": "Használja a központi buszmegállókat, amelyek fedettek.",
+                "ro": "Folosiți stațiile de autobuz centrale care au adăpost.",
+                "en": "Use central bus stops that have shelters."
+              }
+            },
+            {
+              "name": "Church of Saint Christopher",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Schritte entfernt.",
+                "hu": "A megálló csak néhány lépésre található.",
+                "ro": "Stația este la doar câțiva pași distanță.",
+                "en": "The stop is only a few steps away."
+              }
+            },
+            {
+              "name": "Tobacco Warehouses",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen; Pfützenbildung am Bordstein.",
+                "hu": "Vigyázzon a leszálláskor; tócsák lehetnek a padkánál.",
+                "ro": "Atenție la coborâre; se pot forma bălți lângă bordură.",
+                "en": "Be careful when getting off; puddles may form near the curb."
+              }
+            },
+            {
+              "name": "Papastrateio Archaeological Museum (Museum Cluster)",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor dem Eingang.",
+                "hu": "A busz szinte közvetlenül a bejárat előtt áll meg.",
+                "ro": "Autobuzul oprește aproape chiar în fața intrării.",
+                "en": "The bus stops almost directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Christos Kapralos Gallery",
+              "tip_5lang": {
+                "de": "Trockener Wartebereich im Museum nebenan nutzen.",
+                "hu": "Használja a szomszédos múzeum száraz váróterét.",
+                "ro": "Folosiți zona de așteptare uscată din muzeul de alături.",
+                "en": "Use the dry waiting area in the museum next door."
+              }
+            },
+            {
+              "name": "Papastratos Park",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt so, dass Sie nicht lange im Regen warten.",
+                "hu": "Tervezze meg a visszautat, hogy ne kelljen sokat várnia az esőben.",
+                "ro": "Planificați întoarcerea astfel încât să nu așteptați mult în ploaie.",
+                "en": "Plan your return trip so you don't have to wait long in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld für das Busticket bereit.",
+              "Die Busse können bei Regen voller als sonst sein.",
+              "Nutzen Sie die App für Echtzeit-Abfahrtszeiten.",
+              "Tragen Sie eine Regenjacke, die schnell trocknet.",
+              "Die Fenster im Bus können bei Regen beschlagen."
+            ],
+            "hu": [
+              "Készítsen be aprópénzt a buszjegyhez.",
+              "A buszok esőben zsúfoltabbak lehetnek a szokásosnál.",
+              "Használja az alkalmazást a valós idejű indulásokhoz.",
+              "Viseljen gyorsan száradó esőkabátot.",
+              "A busz ablakai esőben bepárásodhatnak."
+            ],
+            "ro": [
+              "Pregătiți mărunțiș pentru biletul de autobuz.",
+              "Autobuzele pot fi mai aglomerate decât de obicei pe ploaie.",
+              "Folosiți aplicația pentru orele de plecare în timp real.",
+              "Purtați o jachetă de ploaie care se usucă repede.",
+              "Geamurile autobuzului se pot aburi când plouă."
+            ],
+            "en": [
+              "Have small change ready for the bus ticket.",
+              "Buses can be more crowded than usual during rain.",
+              "Use the app for real-time departure information.",
+              "Wear a quick-drying raincoat.",
+              "Bus windows may fog up during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir nutzen den Transit für einen winterlichen Tag in Agrinio. Der Morgen am Democracy Square ist frisch, aber der Bus bringt uns schnell ins Warme. Mittags besichtigen wir die Sehenswürdigkeiten und wärmen uns in den Museen auf. Der Transit ermöglicht es uns, flexibel zu bleiben, bevor wir den Sonnenuntergang im Park genießen und mit dem beheizten Bus bequem zurückfahren.",
+            "hu": "Tömegközlekedést használunk egy téli naphoz Agrinióban. A reggel a Demokrácia téren friss, de a busz gyorsan a melegbe repít minket. Délben megnézzük a látnivalókat, és a múzeumokban melegszünk fel. A tömegközlekedés lehetővé teszi a rugalmasságot, mielőtt élveznénk a naplementét a parkban, majd a fűtött busszal kényelmesen hazatérnénk.",
+            "ro": "Folosim transportul public pentru o zi de iarnă în Agrinio. Dimineața în Piața Democrației este proaspătă, dar autobuzul ne duce rapid la căldură. La prânz vizităm atracțiile și ne încălzim în muzee. Transportul public ne permite să rămânem flexibili înainte de a ne bucura de apus în parc, apoi ne întoarcem confortabil cu autobuzul încălzit.",
+            "en": "We use transit for a winter day in Agrinio. The morning at Democracy Square is crisp, but the bus quickly gets us into the warmth. At noon, we see the sights and warm up in the museums. Transit allows us to stay flexible before enjoying the sunset in the park and returning comfortably by heated bus."
+          },
+          "stops": [
+            {
+              "name": "Democracy Square (Center Cluster)",
+              "tip_5lang": {
+                "de": "Die Wartehäuschen bieten Schutz vor kaltem Wind.",
+                "hu": "A várótermek védelmet nyújtanak a hideg szél ellen.",
+                "ro": "Refugiile oferă protecție împotriva vântului rece.",
+                "en": "The shelters provide protection against the cold wind."
+              }
+            },
+            {
+              "name": "Church of Saint Christopher",
+              "tip_5lang": {
+                "de": "In den Abendstunden sind die Busse hier seltener.",
+                "hu": "Az esti órákban a buszok ritkábban járnak erre.",
+                "ro": "Autobuzele circulă mai rar aici în orele serii.",
+                "en": "Buses run less frequently here in the evening hours."
+              }
+            },
+            {
+              "name": "Tobacco Warehouses",
+              "tip_5lang": {
+                "de": "Halten Sie sich im Bus von der Tür fern, um Zugluft zu vermeiden.",
+                "hu": "Maradjon távol az ajtótól a buszon a huzat elkerülése érdekében.",
+                "ro": "Stați departe de ușă în autobuz pentru a evita curentul.",
+                "en": "Stay away from the door on the bus to avoid drafts."
+              }
+            },
+            {
+              "name": "Papastrateio Archaeological Museum (Museum Cluster)",
+              "tip_5lang": {
+                "de": "Guter Ort, um auf den nächsten Bus im Warmen zu warten.",
+                "hu": "Jó hely a következő busz megvárására a melegben.",
+                "ro": "Un loc bun pentru a aștepta următorul autobuz la căldură.",
+                "en": "A good place to wait for the next bus in the warmth."
+              }
+            },
+            {
+              "name": "Christos Kapralos Gallery",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Transit, um die Abendkälte zu überbrücken.",
+                "hu": "Használja a tömegközlekedést az esti hideg áthidalására.",
+                "ro": "Folosiți transportul public pentru a evita frigul serii.",
+                "en": "Use transit to bridge the evening cold."
+              }
+            },
+            {
+              "name": "Papastratos Park",
+              "tip_5lang": {
+                "de": "Die letzte Busverbindung vor Einbruch der Dunkelheit prüfen.",
+                "hu": "Ellenőrizze az utolsó buszjáratot sötétedés előtt.",
+                "ro": "Verificați ultima cursă de autobuz înainte de lăsarea întunericului.",
+                "en": "Check the last bus connection before dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können im Winter leicht variieren.",
+              "Die Heizung in den Stadtbussen ist meist sehr angenehm.",
+              "Tragen Sie Handschuhe beim Warten an der Haltestelle.",
+              "Abends sind die Busse oft weniger ausgelastet.",
+              "Sorgen Sie für gute Sichtbarkeit beim Einsteigen im Dunkeln."
+            ],
+            "hu": [
+              "A menetrendek télen kismértékben változhatnak.",
+              "A városi buszok fűtése általában nagyon kellemes.",
+              "Viseljen kesztyűt a megállóban való várakozáskor.",
+              "Este a buszok gyakran kevésbé zsúfoltak.",
+              "Gondoskodjon a jó láthatóságról a sötétben való felszálláskor."
+            ],
+            "ro": [
+              "Orarele pot varia ușor în timpul iernii.",
+              "Încălzirea în autobuzele urbane este de obicei foarte plăcută.",
+              "Purtați mănuși în timp ce așteptați în stație.",
+              "Seara, autobuzele sunt adesea mai puțin aglomerate.",
+              "Asigurați-vă că sunteți vizibil când urcați pe întuneric."
+            ],
+            "en": [
+              "Schedules may vary slightly in winter.",
+              "Heating in city buses is usually very comfortable.",
+              "Wear gloves while waiting at the stop.",
+              "Buses are often less crowded in the evenings.",
+              "Ensure you are visible when boarding in the dark."
+            ]
+          }
+        }
       }
     }
   }

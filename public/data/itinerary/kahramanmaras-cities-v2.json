@@ -362,6 +362,188 @@
           "Be prepared to haggle when shopping at the bazaar.",
           "Locals are friendly; a smile and a 'Merhaba' (Hello) go a long way."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im überdachten historischen Basar, der perfekten Schutz vor dem Regen bietet. Mittags genießen Sie die Atmosphäre in der Ulu Cami und wärmen sich bei einem traditionellen Mittagessen im Zentrum auf. Der Nachmittag gehört den Schätzen des Archäologischen Museums. Den Tag lassen Sie auf der Burg ausklingen, wo der Nebel der Stadt eine mystische Aura verleiht.",
+            "hu": "Kezdje a napot a fedett történelmi bazárban, amely tökéletes menedéket nyújt az eső elől. Délben látogasson el az Ulu Cami-ba, majd melegedjen fel egy hagyományos ebéddel a belvárosban. A délután az Régészeti Múzeum kincseié, ahol fedett helyen ismerheti meg a múltat. A napot a várban zárja, ahol a köd különleges, misztikus hangulatot áraszt a város felett.",
+            "ro": "Începeți ziua în bazarul istoric acoperit, refugiul perfect împotriva ploii. La prânz, vizitați Marea Moschee (Ulu Cami) și încălziți-vă cu un prânz tradițional în centru. După-amiaza este dedicată comorilor de la Muzeul Arheologic, ferit de intemperii. Încheiați ziua la castel, unde ceața oferă orașului o aură mistică și relaxantă.",
+            "en": "Start your day in the covered historical bazaar, the perfect refuge from the rain. At noon, visit the Grand Mosque and warm up with a traditional lunch in the city center. The afternoon belongs to the treasures of the Archaeological Museum, safe from the weather. End the day at the castle, where the mist gives the city a mystical and relaxing aura."
+          },
+          "stops": [
+            {
+              "name": "Historical Bazaar",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Gänge, um trocken zu bleiben und lokales Handwerk zu bewundern.",
+                "hu": "Használja a fedett folyosókat, hogy szárazon maradjon a helyi kézműves termékek böngészése közben.",
+                "ro": "Folosiți pasajele acoperite pentru a rămâne uscați în timp ce admirați meșteșugurile locale.",
+                "en": "Use the covered passages to stay dry while browsing local handicrafts."
+              }
+            },
+            {
+              "name": "Grand Mosque (Ulu Cami)",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort für Besinnung; achten Sie auf den rutschigen Boden im Innenhof.",
+                "hu": "Csendes, száraz hely az elmélkedéshez; ügyeljen a csúszós kőre a belső udvaron.",
+                "ro": "Un loc liniștit și uscat pentru reflecție; atenție la pavajul alunecos din curte.",
+                "en": "A quiet, dry place for reflection; watch out for slippery stones in the courtyard."
+              }
+            },
+            {
+              "name": "Katip Han",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Tee im geschützten Innenhof dieses historischen Gasthauses.",
+                "hu": "Élvezze a forró teát e történelmi fogadó védett belső udvarán.",
+                "ro": "Savurați un ceai fierbinte în curtea protejată a acestui han istoric.",
+                "en": "Enjoy a hot tea in the sheltered courtyard of this historical inn."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Probieren Sie eine heiße Suppe (Eli Böğründü), um sich nach dem Spaziergang aufzuwärmen.",
+                "hu": "Kóstoljon meg egy forró levest vagy Eli Böğründü-t, hogy felmelegedjen a séta után.",
+                "ro": "Încercați o supă fierbinte sau Eli Böğründü pentru a vă încălzi după plimbare.",
+                "en": "Try a hot soup or Eli Böğründü to warm up after the walk."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Ideale Zeit für die Mosaike, während es draußen regnet.",
+                "hu": "Ideális időpont a mozaikok megtekintésére, amíg kint esik az eső.",
+                "ro": "Momentul ideal pentru a vedea mozaicurile în timp ce afară plouă.",
+                "en": "Ideal time to view the mosaics while it's raining outside."
+              }
+            },
+            {
+              "name": "Kahramanmaraş Castle",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Treppen; der Panoramablick wirkt bei Regen besonders dramatisch.",
+                "hu": "Vigyázzon a lépcsőkön; a panoráma esőben különösen drámai látványt nyújt.",
+                "ro": "Atenție pe scări; panorama este deosebit de dramatică pe timp de ploaie.",
+                "en": "Be careful on the stairs; the panorama is particularly dramatic in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Pflastersteine in der Altstadt rutschig werden.",
+              "Der historische Basar ist fast vollständig überdacht und bietet idealen Schutz.",
+              "Museen sind in Maraş montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Ein Regenschirm ist bei den kurzen Wegen zwischen den Sehenswürdigkeiten sehr hilfreich."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óváros macskakövei csúszóssá válnak.",
+              "A történelmi bazár szinte teljesen fedett, így ideális menedék.",
+              "A múzeumok Maraşban gyakran zárva tartanak hétfőn, ellenőrizze a nyitvatartást.",
+              "Egy esernyő nagyon hasznos a látnivalók közötti rövid távokon."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pavajul din orașul vechi devine alunecos.",
+              "Bazarul istoric este aproape complet acoperit, oferind un adăpost ideal.",
+              "Muzeele din Maraș sunt adesea închise lunea, verificați programul.",
+              "O umbrelă este foarte utilă pentru distanțele scurte dintre obiective."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones in the old town become slippery.",
+              "The historical bazaar is almost entirely covered, making it an ideal shelter.",
+              "Museums in Maraş are often closed on Mondays, check the opening hours.",
+              "An umbrella is very useful for the short distances between sights."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen führt Sie durch den belebten Basar, wo der Duft von gerösteten Kastanien in der Luft liegt. Mittags wärmen Sie sich in der prachtvollen Ulu Cami und bei einer herzhaften Mahlzeit auf. Am Nachmittag bietet das Museum eine angenehm temperierte Reise in die Geschichte. Beenden Sie den Tag früh auf der Burg, um den Sonnenuntergang vor der Kälte des Abends zu erleben.",
+            "hu": "A tiszta téli reggel a nyüzsgő bazárba hívja, ahol sült gesztenye illata száll a levegőben. Délben az Ulu Cami-ban és egy kiadós ebéddel melegedhet fel. Délután a múzeum kellemesen fűtött termeiben utazhat a múltba. Zárja korán a napot a várban, hogy még az esti fagy beállta előtt láthassa a naplementét.",
+            "ro": "O dimineață senină de iarnă vă poartă prin bazarul plin de viață, unde plutește mirosul de castane coapte. La prânz, vă încălziți în Ulu Cami și cu o masă copioasă. După-amiaza, muzeul oferă o călătorie plăcută prin istorie în interior încălzit. Încheiați ziua devreme la castel pentru a prinde apusul înainte de frigul serii.",
+            "en": "A clear winter morning takes you through the bustling bazaar, where the scent of roasted chestnuts fills the air. At noon, warm up in the Grand Mosque and with a hearty meal. In the afternoon, the museum offers a pleasant journey through history in a heated interior. End the day early at the castle to catch the sunset before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Historical Bazaar",
+              "tip_5lang": {
+                "de": "Probieren Sie heißen Sahlep von den Straßenverkäufern am Eingang des Basars.",
+                "hu": "Kóstolja meg a forró szalepet az árusoknál a bazár bejáratánál.",
+                "ro": "Încercați un sahlep fierbinte de la vânzătorii de la intrarea în bazar.",
+                "en": "Try some hot sahlep from the vendors at the entrance of the bazaar."
+              }
+            },
+            {
+              "name": "Grand Mosque (Ulu Cami)",
+              "tip_5lang": {
+                "de": "Die dicken Teppiche im Inneren sorgen für eine angenehme Wärme während der Besichtigung.",
+                "hu": "A belső vastag szőnyegek kellemes meleget biztosítanak a látogatás alatt.",
+                "ro": "Covoarele groase din interior oferă o căldură plăcută în timpul vizitei.",
+                "en": "The thick carpets inside provide a pleasant warmth during the visit."
+              }
+            },
+            {
+              "name": "Katip Han",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz in der Nähe des Ofens, falls dieser im Winter befeuert wird.",
+                "hu": "Keressen helyet a kályha közelében, ha télen begyújtanak ezen a történelmi helyen.",
+                "ro": "Căutați un loc lângă sobă, dacă aceasta este aprinsă pe timp de iarnă.",
+                "en": "Find a spot near the stove if it's lit during the winter in this historical setting."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Maraş-Eis ist berühmt, aber im Winter ist ein warmer Grießpudding eine bessere Wahl.",
+                "hu": "A Maraş fagylalt híres, de télen egy meleg irmik helvası jobb választás.",
+                "ro": "Înghețata de Maraș este celebră, dar iarna un irmik helvası cald este o alegere mai bună.",
+                "en": "Maraş ice cream is famous, but in winter a warm semolina halva is a better choice."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Ausstellungsräume für eine ausgiebige Besichtigung ohne Eile.",
+                "hu": "Használja ki a fűtött kiállítótermeket egy alapos, sietség nélküli látogatáshoz.",
+                "ro": "Profitați de sălile de expoziție încălzite pentru o vizită detaliată, fără grabă.",
+                "en": "Take advantage of the heated exhibition halls for a thorough visit without rushing."
+              }
+            },
+            {
+              "name": "Kahramanmaraş Castle",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an; der Wind auf der Burg kann im Winter sehr schneidend sein.",
+                "hu": "Öltözzön rétegesen; a szél a várban télen nagyon metsző lehet.",
+                "ro": "Îmbrăcați-vă gros; vântul de la castel poate fi foarte tăios iarna.",
+                "en": "Dress warmly; the wind at the castle can be very biting in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 17:00 Uhr unter, planen Sie die Burgbesichtigung früher.",
+              "Zwiebelprinzip bei der Kleidung ist wichtig für den Wechsel zwischen Kälte und beheizten Räumen.",
+              "Ein Besuch in einer der berühmten Eisdielen (Mado) lohnt sich auch im Winter für warme Desserts.",
+              "Achten Sie auf vereiste Stellen auf den steilen Wegen zur Burg."
+            ],
+            "hu": [
+              "A nap télen már 17:00 körül lemegy, tervezze korábbra a várlátogatást.",
+              "A réteges öltözködés fontos a kinti hideg és a fűtött terek közötti váltáshoz.",
+              "A híres cukrászdák (Mado) télen is megérik a látogatást a meleg édességek miatt.",
+              "Ügyeljen a jeges szakaszokra a várba vezető meredek utakon."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 17:00 iarna, planificați vizita la castel mai devreme.",
+              "Îmbrăcămintea în straturi este esențială pentru trecerea de la frig la spații încălzite.",
+              "O vizită la cofetăriile celebre (Mado) merită și iarna pentru deserturile calde.",
+              "Atenție la porțiunile înghețate de pe drumurile abrupte spre castel."
+            ],
+            "en": [
+              "The sun sets around 5:00 PM in winter, plan your castle visit earlier.",
+              "Layered clothing is important for switching between the cold and heated spaces.",
+              "A visit to the famous ice cream parlors (Mado) is worth it even in winter for warm desserts.",
+              "Watch out for icy patches on the steep paths to the castle."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -718,6 +900,188 @@
           "Always lock your bike securely in busy areas.",
           "Stay hydrated and wear sunscreen."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet das Umland von Maraş reizvolle Strecken. Starten Sie an der Steinbrücke, wo der Ceyhan-Fluss kraftvoll fließt. Der Basar bietet eine trockene Pause für Besorgungen. Mittags genießen Sie ein Eis im Sitzen, während die Räder sicher stehen. Nachmittags erkunden Sie das Museum und erklimmen die Burg, wobei Sie auf nassem Asphalt stets vorsichtig fahren sollten.",
+            "hu": "Az eső ellenére Maraş környéke izgalmas útvonalakat kínál. Kezdjen a kőhídnál, ahol a Ceyhan folyó hömpölyög. A bazár száraz pihenőt nyújt a nézelődéshez. Ebédnél élvezze a fagyit fedett helyen, míg a bringák biztonságban vannak. Délután fedezze fel a múzeumot és tekerjen fel a várba, fokozott figyelemmel a vizes aszfaltra.",
+            "ro": "În ciuda ploii, împrejurimile orașului Maraș oferă trasee captivante. Începeți la podul de piatră, unde râul Ceyhan curge cu forță. Bazarul oferă o pauză uscată pentru explorare. La prânz, savurați o înghețată la adăpost. După-amiaza, vizitați muzeul și urcați la castel, pedalând cu prudență pe asfaltul umed.",
+            "en": "Despite the rain, the surroundings of Maraş offer exciting routes. Start at the stone bridge where the Ceyhan River flows powerfully. The bazaar provides a dry break for exploring. At lunch, enjoy an ice cream indoors while the bikes are safe. In the afternoon, explore the museum and ride up to the castle, cycling with caution on the wet asphalt."
+          },
+          "stops": [
+            {
+              "name": "Stone Bridge (Ceyhan)",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem alten Steinpflaster; es wird bei Regen extrem glatt für Fahrradreifen.",
+                "hu": "Vigyázzon a régi köveken; esőben rendkívül csúszóssá válnak a gumik számára.",
+                "ro": "Atenție pe pavajul vechi de piatră; devine extrem de alunecos pentru anvelope pe ploaie.",
+                "en": "Be careful on the old stone pavement; it becomes extremely slippery for bike tires in the rain."
+              }
+            },
+            {
+              "name": "Historical Bazaar",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad am Rand und erkunden Sie die überdachten Gänge zu Fuß.",
+                "hu": "Parkolja le a bringát a szélen, és gyalog fedezze fel a fedett folyosókat.",
+                "ro": "Parcați bicicleta la margine și explorați pasajele acoperite la pas.",
+                "en": "Park your bike at the edge and explore the covered passages on foot."
+              }
+            },
+            {
+              "name": "Grand Mosque (Ulu Cami)",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; nutzen Sie die Vordächer der umliegenden Geschäfte zum Unterstellen.",
+                "hu": "Rövid megálló; használja a környező üzletek előtetőit az eső elleni védelemre.",
+                "ro": "Oprire scurtă; folosiți copertinele magazinelor din jur pentru adăpost.",
+                "en": "Short stop; use the awnings of nearby shops for shelter from the rain."
+              }
+            },
+            {
+              "name": "Lunch and Ice Cream",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Sichtkontakt zum Fahrradständer.",
+                "hu": "Válasszon olyan éttermet, ahonnan rálát a biciklitárolóra.",
+                "ro": "Alegeți un restaurant de unde puteți supraveghea locul de parcare al bicicletelor.",
+                "en": "Choose a restaurant where you can keep an eye on the bike parking spot."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Das Museum bietet ausreichend Zeit, um die Kleidung etwas zu trocknen.",
+                "hu": "A múzeumi látogatás alatt van elég idő, hogy a ruházat kissé megszáradjon.",
+                "ro": "Vizita la muzeu oferă suficient timp pentru ca hainele să se usuce puțin.",
+                "en": "The museum visit offers enough time for clothing to dry out a bit."
+              }
+            },
+            {
+              "name": "Kahramanmaraş Castle",
+              "tip_5lang": {
+                "de": "Der Anstieg ist anstrengend; achten Sie beim Abstieg auf die Bremswirkung bei Nässe.",
+                "hu": "A felfelé út fárasztó; lefelé ügyeljen a fékhatásra a nedves úton.",
+                "ro": "Urcarea este solicitantă; la coborâre, atenție la eficiența frânelor pe carosabil umed.",
+                "en": "The climb is demanding; on the descent, pay attention to braking efficiency on wet roads."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei den oft schmutzigen Straßen nach Regen in Maraş unverzichtbar.",
+              "Vermeiden Sie Markierungen auf der Fahrbahn, diese sind bei Nässe besonders rutschig.",
+              "Ein Poncho bietet beim Radfahren besseren Schutz als ein Regenschirm.",
+              "Reinigen Sie Ihre Kette nach der Fahrt, um Korrosion durch Straßenschmutz vorzubeugen."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a gyakran sáros Maraş-i utakon eső után.",
+              "Kerülje az útburkolati jeleket, ezek nedvesen különösen csúsznak.",
+              "A biciklis poncsó jobb védelmet nyújt tekerés közben, mint az esernyő.",
+              "Tisztítsa meg a láncot az út után, hogy megelőzze az utcai sár miatti korróziót."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe drumurile adesea murdare din Maraș după ploaie.",
+              "Evitați marcajele rutiere, acestea sunt deosebit de alunecoase pe carosabil umed.",
+              "Un poncho oferă o protecție mai bună la pedalat decât o umbrelă.",
+              "Curățați lanțul după plimbare pentru a preveni coroziunea cauzată de murdărie."
+            ],
+            "en": [
+              "Mudguards are essential on the often dirty streets of Maraş after rain.",
+              "Avoid road markings, as they are particularly slippery when wet.",
+              "A cycling poncho offers better protection while riding than an umbrella.",
+              "Clean your chain after the ride to prevent corrosion from road grime."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft macht das Radfahren in Maraş erfrischend. Starten Sie an der historischen Brücke und spüren Sie den kühlen Wind. Der Basar bietet eine willkommene Aufwärmpause. Mittags stärken Sie sich mit warmen Spezialitäten. Nachmittags erkunden Sie das Museum und fordern sich beim Anstieg zur Burg heraus, bevor die frühe Dämmerung die Stadt in goldenes Licht taucht.",
+            "hu": "A tiszta téli levegő frissítővé teszi a bringázást Maraşban. Kezdjen a történelmi hídnál, élvezve a hűvös szelet. A bazár szívesen látott felmelegedési pont. Ebédnél töltődjön fel meleg ételekkel. Délután fedezze fel a múzeumot, majd tekerjen fel a várba, mielőtt a korai szürkület aranyló fénybe vonja a várost.",
+            "ro": "Aerul curat de iarnă face pedalatul în Maraș revigorant. Începeți la podul istoric și simțiți vântul rece. Bazarul oferă o pauză binemeritată pentru încălzire. La prânz, prindeți puteri cu specialități calde. După-amiaza, vizitați muzeul și urcați la castel înainte ca amurgul timpuriu să scalde orașul în lumină aurie.",
+            "en": "The crisp winter air makes cycling in Maraş refreshing. Start at the historical bridge and feel the cool wind. The bazaar offers a welcome warming break. At lunch, recharge with warm specialties. In the afternoon, explore the museum and challenge yourself with the climb to the castle before the early twilight bathes the city in golden light."
+          },
+          "stops": [
+            {
+              "name": "Stone Bridge (Ceyhan)",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe; auf der Brücke zieht es im Winter stark.",
+                "hu": "Viseljen szélálló kesztyűt; a hídon télen nagyon erős a huzat.",
+                "ro": "Purtați mănuși rezistente la vânt; pe pod curentul este puternic iarna.",
+                "en": "Wear windproof gloves; there's a strong draft on the bridge in winter."
+              }
+            },
+            {
+              "name": "Historical Bazaar",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die kalten Finger bei einem Becher Tee aufzuwärmen.",
+                "hu": "Ideális hely, hogy felmelegítse hideg ujjait egy pohár tea mellett.",
+                "ro": "Un loc ideal pentru a vă încălzi degetele reci cu un pahar de ceai.",
+                "en": "An ideal place to warm up cold fingers with a cup of tea."
+              }
+            },
+            {
+              "name": "Grand Mosque (Ulu Cami)",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem gut beleuchteten Platz ab, falls es früh dunkel wird.",
+                "hu": "Parkolja a bringát jól kivilágított helyen, ha korán sötétedne.",
+                "ro": "Lăsați bicicleta într-un loc bine luminat, în caz că se întunecă devreme.",
+                "en": "Park your bike in a well-lit spot in case it gets dark early."
+              }
+            },
+            {
+              "name": "Lunch and Ice Cream",
+              "tip_5lang": {
+                "de": "Gönnen Sie sich ein warmes Kunefe als Belohnung für die Fahrt in der Kälte.",
+                "hu": "Jutalmazza meg magát egy meleg künefével a hidegben való tekerés után.",
+                "ro": "Răsfățați-vă cu un künefe cald ca recompensă pentru pedalatul în frig.",
+                "en": "Reward yourself with a warm kunefe for riding in the cold."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Winterkleidung während des Rundgangs abzulegen.",
+                "hu": "Használja a ruhatárat, hogy levegye a nehéz téli ruhát a körút idejére.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă în timpul vizitei.",
+                "en": "Use the cloakroom to leave heavy winter clothing during the tour."
+              }
+            },
+            {
+              "name": "Kahramanmaraş Castle",
+              "tip_5lang": {
+                "de": "Achten Sie auf das Licht; die Abfahrt im Dunkeln erfordert gute Fahrradbeleuchtung.",
+                "hu": "Ügyeljen a fényviszonyokra; a sötétben való leguruláshoz jó világítás kell.",
+                "ro": "Atenție la lumină; coborârea pe întuneric necesită un sistem bun de iluminare.",
+                "en": "Watch the light; descending in the dark requires good bike lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Funktionsunterwäsche hilft, den Schweiß beim Anstieg zur Burg zu regulieren.",
+              "Prüfen Sie Ihren Reifendruck; kalte Luft lässt den Druck leicht sinken.",
+              "Helle Kleidung oder Reflektoren sind wegen der frühen Dämmerung ratsam.",
+              "In der Höhe der Burg kann es deutlich kälter sein als im Stadtzentrum."
+            ],
+            "hu": [
+              "A technikai aláöltözet segít az izzadtság kezelésében a várba való felkapaszkodáskor.",
+              "Ellenőrizze a guminyomást; a hideg levegő miatt a nyomás kissé csökkenhet.",
+              "A világos ruházat vagy fényvisszaverők ajánlottak a korai sötétedés miatt.",
+              "A vár magasságában jelentősen hidegebb lehet, mint a városközpontban."
+            ],
+            "ro": [
+              "Lenjeria termică ajută la reglarea transpirației în timpul urcării la castel.",
+              "Verificați presiunea în anvelope; aerul rece face ca presiunea să scadă ușor.",
+              "Îmbrăcămintea deschisă la culoare sau reflectorizantă este recomandată din cauza amurgului timpuriu.",
+              "La înălțimea castelului poate fi considerabil mai frig decât în centrul orașului."
+            ],
+            "en": [
+              "Technical base layers help regulate sweat during the climb to the castle.",
+              "Check your tire pressure; cold air causes the pressure to drop slightly.",
+              "Bright clothing or reflectors are advisable due to the early twilight.",
+              "It can be significantly colder at the castle's altitude than in the city center."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1074,6 +1438,188 @@
           "Download offline maps, as mobile coverage can be spotty in rural areas.",
           "Allow plenty of time for driving and enjoy the scenery."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt mit den mystischen Döngel-Höhlen, die bei Regen besonders eindrucksvoll wirken. Mittags führt die Route ins Stadtzentrum, wo Sie bequem in der Nähe des Basars parken können. Genießen Sie den Schutz der historischen Gebäude und Museen am Nachmittag. Der Tag endet sicher auf dem Başkonuş-Plateau, wo die frische Waldluft nach dem Regen besonders intensiv duftet.",
+            "hu": "Az út a misztikus Döngel-barlangokkal indul, amelyek esőben különösen lenyűgözőek. Délben az útvonal a belvárosba vezet, ahol kényelmesen parkolhat a bazár közelében. Élvezze a történelmi épületek és múzeumok oltalmát délután. A nap biztonságosan zárul a Başkonuş-fennsíkon, ahol az eső utáni erdő illata rendkívül intenzív.",
+            "ro": "Călătoria începe cu misticele peșteri Döngel, care par deosebit de impresionante pe ploaie. La prânz, traseul vă duce în centrul orașului, unde puteți parca comod lângă bazar. Bucurați-vă de protecția clădirilor istorice și a muzeelor după-amiaza. Ziua se încheie în siguranță pe platoul Başkonuş, unde mirosul pădurii după ploaie este intens.",
+            "en": "The journey begins with the mystical Döngel Caves, which look particularly impressive in the rain. At noon, the route leads to the city center, where you can conveniently park near the bazaar. Enjoy the shelter of historical buildings and museums in the afternoon. The day ends safely on the Başkonuş Plateau, where the scent of the forest after the rain is intense."
+          },
+          "stops": [
+            {
+              "name": "Döngel Caves",
+              "tip_5lang": {
+                "de": "Achten Sie auf Steinschlaggefahr und rutschige Wege bei der Anfahrt in den Bergen.",
+                "hu": "Ügyeljen a kőomlásveszélyre és a csúszós utakra a hegyi szakaszon.",
+                "ro": "Atenție la riscul de căderi de pietre și la drumurile alunecoase în zona montană.",
+                "en": "Watch out for the risk of falling rocks and slippery roads on the mountain approach."
+              }
+            },
+            {
+              "name": "Cluster: Historical Center",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Parkhaus, um den Wagen trocken abzustellen.",
+                "hu": "Keressen parkolóházat, hogy száraz helyen hagyja az autót.",
+                "ro": "Căutați o parcare acoperită pentru a lăsa mașina la adăpost de ploaie.",
+                "en": "Look for a parking garage to leave the car in a dry spot."
+              }
+            },
+            {
+              "name": "Historical Bazaar & Lunch",
+              "tip_5lang": {
+                "de": "Ideal bei Regen: Der Basar ist überdacht und bietet viele Restaurants.",
+                "hu": "Ideális esőben: a bazár fedett és számos éttermet kínál.",
+                "ro": "Ideal pe ploaie: bazarul este acoperit și oferă multe restaurante.",
+                "en": "Ideal in the rain: the bazaar is covered and offers many restaurants."
+              }
+            },
+            {
+              "name": "Grand Mosque & Katip Han",
+              "tip_5lang": {
+                "de": "Kurze Fußwege zwischen den Stopps; halten Sie Ihren Regenschirm bereit.",
+                "hu": "Rövid gyalogutak a megállók között; tartsa készenlétben az esernyőjét.",
+                "ro": "Distanțe scurte de mers pe jos; țineți umbrela la îndemână.",
+                "en": "Short walking distances between stops; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Archaeological Museum & Castle",
+              "tip_5lang": {
+                "de": "Der Museumsparkplatz ist bei Nässe oft weniger frequentiert.",
+                "hu": "A múzeum parkolója nedves időben gyakran kevésbé zsúfolt.",
+                "ro": "Parcarea muzeului este adesea mai liberă pe timp de ploaie.",
+                "en": "The museum parking lot is often less crowded when it's wet."
+              }
+            },
+            {
+              "name": "Başkonuş Plateau",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig; in höheren Lagen kann Nebel die Sicht stark einschränken.",
+                "hu": "Vezessen óvatosan; a magasabb részeken a köd erősen korlátozhatja a látást.",
+                "ro": "Conduceți cu prudență; la altitudini mari, ceața poate limita vizibilitatea.",
+                "en": "Drive carefully; at higher altitudes, fog can severely limit visibility."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt in die Berge.",
+              "Die Bergstraßen zu den Döngel-Höhlen können bei Starkregen gefährlich sein.",
+              "Nutzen Sie Navigations-Apps mit Echtzeit-Verkehrsinfo für das Stadtzentrum.",
+              "Planen Sie mehr Zeit für die Rückfahrt vom Plateau ein, falls es neblig ist."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket a hegyi út előtt.",
+              "A Döngel-barlangokhoz vezető hegyi utak heves esőzésben veszélyesek lehetnek.",
+              "Használjon valós idejű forgalmi infót kínáló navigációt a belvárosban.",
+              "Tervezzen több időt a fennsíkról való visszatérésre, ha ködös az idő."
+            ],
+            "ro": [
+              "Verificați ștergătoarele de parbriz înainte de a pleca spre munți.",
+              "Drumurile montane spre peșterile Döngel pot fi periculoase în caz de ploaie torențială.",
+              "Folosiți aplicații de navigație cu trafic în timp real pentru centrul orașului.",
+              "Alocați mai mult timp pentru întoarcerea de pe platou în caz de ceață."
+            ],
+            "en": [
+              "Check your windshield wipers before heading into the mountains.",
+              "The mountain roads to the Döngel Caves can be dangerous during heavy rain.",
+              "Use navigation apps with real-time traffic info for the city center.",
+              "Plan more time for the return trip from the plateau if it is foggy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig zu den Döngel-Höhlen, wo Eisformationen den Fels schmücken können. Mittags kehren Sie in die Wärme des Stadtzentrums zurück. Entdecken Sie die Kultur im Museum und die Aussicht von der Burg, bevor die winterliche Kälte anzieht. Der Tag endet auf dem Başkonuş-Plateau, das im Winter oft in eine märchenhafte Schneelandschaft verwandelt ist.",
+            "hu": "Induljon óvatosan a Döngel-barlangokhoz, ahol jégcsapok díszíthetik a sziklákat. Délben térjen vissza a belváros melegébe. Fedezze fel a kultúrát a múzeumban és a kilátást a várból, mielőtt beállna a téli fagy. A nap a Başkonuş-fennsíkon zárul, amely télen gyakran mesebeli havas tájjá változik.",
+            "ro": "Porniți cu prudență spre peșterile Döngel, unde formațiunile de gheață pot împodobi stânca. La prânz, reveniți la căldura centrului orașului. Descoperiți cultura la muzeu și priveliștea de la castel înainte de înghețul serii. Ziua se încheie pe platoul Başkonuş, care iarna se transformă adesea într-un peisaj de basm înzăpezit.",
+            "en": "Start carefully towards the Döngel Caves, where ice formations may adorn the rocks. At noon, return to the warmth of the city center. Discover culture at the museum and the view from the castle before the winter chill sets in. The day ends on the Başkonuş Plateau, which in winter is often transformed into a fairytale snowy landscape."
+          },
+          "stops": [
+            {
+              "name": "Döngel Caves",
+              "tip_5lang": {
+                "de": "Winterreifen oder Schneeketten sind für diese Bergstrecke im Winter obligatorisch.",
+                "hu": "Téli gumi vagy hólánc kötelező ezen a hegyi szakaszon télen.",
+                "ro": "Anvelopele de iarnă sau lanțurile sunt obligatorii pentru acest traseu montan iarna.",
+                "en": "Winter tires or snow chains are mandatory for this mountain stretch in winter."
+              }
+            },
+            {
+              "name": "Cluster: Historical Center",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Frostschutzmittel für die kalten Nächte ausreicht.",
+                "hu": "Győződjön meg róla, hogy a fagyálló folyadék szintje megfelelő a hideg éjszakákra.",
+                "ro": "Asigurați-vă că aveți suficient antigel pentru nopțile geroase.",
+                "en": "Make sure your antifreeze level is sufficient for the cold nights."
+              }
+            },
+            {
+              "name": "Historical Bazaar & Lunch",
+              "tip_5lang": {
+                "de": "Parken Sie zentral, um lange Wege in der Kälte zu vermeiden.",
+                "hu": "Parkoljon központilag, hogy elkerülje a hosszú gyaloglást a hidegben.",
+                "ro": "Parcați central pentru a evita deplasările lungi prin frig.",
+                "en": "Park centrally to avoid long walks in the cold."
+              }
+            },
+            {
+              "name": "Grand Mosque & Katip Han",
+              "tip_5lang": {
+                "de": "Genießen Sie die historische Architektur als kurzen Stopp zwischen beheizten Zielen.",
+                "hu": "Élvezze a történelmi építészetet rövid megállóként a fűtött célpontok között.",
+                "ro": "Bucurați-vă de arhitectura istorică ca o scurtă oprire între destinații încălzite.",
+                "en": "Enjoy the historical architecture as a short stop between heated destinations."
+              }
+            },
+            {
+              "name": "Archaeological Museum & Castle",
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Burg kann bei Eis gefährlich sein; prüfen Sie die Straßenzustände.",
+                "hu": "A várba való feljutás jeges úton veszélyes lehet; ellenőrizze az útviszonyokat.",
+                "ro": "Urcarea la castel poate fi periculoasă pe gheață; verificați starea drumului.",
+                "en": "The drive up to the castle can be dangerous on ice; check the road conditions."
+              }
+            },
+            {
+              "name": "Başkonuş Plateau",
+              "tip_5lang": {
+                "de": "Ein Highlight im Winter, aber fahren Sie nur mit entsprechender Ausrüstung hinauf.",
+                "hu": "Téli fénypont, de csak megfelelő felszereléssel induljon útnak felfelé.",
+                "ro": "Un punct forte iarna, dar urcați doar dacă aveți echipament corespunzător.",
+                "en": "A winter highlight, but only drive up with the appropriate equipment."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer eine Decke und warme Getränke im Auto mit.",
+              "Die Straßen zum Plateau werden geräumt, aber Eisglätte ist jederzeit möglich.",
+              "Batteriecheck vor der Fahrt ist ratsam, da die Kälte die Leistung mindert.",
+              "Tanken Sie voll, bevor Sie das Stadtgebiet Richtung Plateau verlassen."
+            ],
+            "hu": [
+              "Mindig vigyen magával takarót és meleg italokat az autóban.",
+              "A fennsíkhoz vezető utakat takarítják, de a jegesedés bármikor előfordulhat.",
+              "Az út előtt tanácsos az akkumulátor ellenőrzése, mert a hideg rontja a teljesítményt.",
+              "Tankoljon tele, mielőtt elhagyja a várost a fennsík irányába."
+            ],
+            "ro": [
+              "Aveți întotdeauna o pătură și băuturi calde în mașină.",
+              "Drumurile spre platou sunt deszăpezite, dar poleiul poate apărea oricând.",
+              "Este recomandată verificarea bateriei înainte de drum, deoarece frigul îi scade randamentul.",
+              "Faceți plinul înainte de a părăsi orașul spre platou."
+            ],
+            "en": [
+              "Always carry a blanket and warm drinks in the car.",
+              "The roads to the plateau are cleared, but ice can occur at any time.",
+              "A battery check before the trip is advisable, as the cold reduces performance.",
+              "Fill up your tank before leaving the city area towards the plateau."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1430,6 +1976,188 @@
           "Keep small change ready for bus tickets if buying on board.",
           "Be aware of peak hours to avoid crowded buses."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das dichte Busnetz von Maraş, um trocken durch den Tag zu kommen. Der Vormittag am Basar ist dank der Überdachung wetterunabhängig. Mittags bringen Sie Busse schnell zu kulinarischen Stopps. Am Nachmittag verbindet der ÖPNV das Museum mit der Steinbrücke. Den Aufstieg zur Burg können Sie mit einer kurzen Busfahrt abkürzen, um dem Regen auf den steilen Wegen zu entgehen.",
+            "hu": "Használja Maraş sűrű buszhálózatát, hogy szárazon ússza meg a napot. A délelőtt a bazárban a fedett részeknek köszönhetően időjárásfüggetlen. Délben a buszok gyorsan elrepítik a gasztronómiai megállókhoz. Délután a tömegközlekedés összeköti a múzeumot a kőhíddal. A várba való feljutást lerövidítheti egy rövid buszozással, elkerülve az esőt a meredek utakon.",
+            "ro": "Folosiți rețeaua densă de autobuze din Maraș pentru a rămâne uscați pe tot parcursul zilei. Dimineața în bazar este protejată de acoperiș. La prânz, autobuzele vă duc rapid la opririle culinare. După-amiaza, transportul public face legătura între muzeu și podul de piatră. Puteți scurta urcarea la castel cu o scurtă cursă de autobuz, evitând ploaia pe drumurile abrupte.",
+            "en": "Use Maraş's dense bus network to stay dry throughout the day. The morning at the bazaar is weather-independent thanks to the roofing. At noon, buses take you quickly to culinary stops. In the afternoon, public transport connects the museum with the stone bridge. You can shorten the climb to the castle with a short bus ride, avoiding the rain on the steep paths."
+          },
+          "stops": [
+            {
+              "name": "Cluster: Historical Bazaar",
+              "tip_5lang": {
+                "de": "Die Haltestellen im Zentrum sind meist überdacht; ideal zum Warten bei Regen.",
+                "hu": "A belvárosi buszmegállók többnyire fedettek; ideális várakozáshoz esőben.",
+                "ro": "Stațiile din centru sunt în mare parte acoperite; ideale pentru așteptare pe ploaie.",
+                "en": "The bus stops in the center are mostly covered; ideal for waiting in the rain."
+              }
+            },
+            {
+              "name": "Bazaar & Grand Mosque",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg von der Bushaltestelle führt direkt in die überdachte Basarzone.",
+                "hu": "Egy rövid séta a buszmegállótól közvetlenül a fedett bazárnegyedbe vezet.",
+                "ro": "O scurtă plimbare de la stație vă duce direct în zona acoperită a bazarului.",
+                "en": "A short walk from the bus stop leads directly into the covered bazaar area."
+              }
+            },
+            {
+              "name": "Lunch & Katip Han",
+              "tip_5lang": {
+                "de": "Zentraler Bereich; viele Linien halten hier im Minutentakt.",
+                "hu": "Központi terület; számos járat áll meg itt percenként.",
+                "ro": "Zonă centrală; multe linii opresc aici la intervale de câteva minute.",
+                "en": "Central area; many lines stop here every few minutes."
+              }
+            },
+            {
+              "name": "Cluster: Stone Bridge",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die feuchten Außenbezirke bequem zu erreichen.",
+                "hu": "Használja a buszt, hogy kényelmesen elérje a nyirkosabb külvárosi részeket.",
+                "ro": "Folosiți autobuzul pentru a ajunge confortabil în zonele periferice umede.",
+                "en": "Use the bus to comfortably reach the damp outskirts."
+              }
+            },
+            {
+              "name": "Cluster: Museum & Castle",
+              "tip_5lang": {
+                "de": "Steigen Sie an der Haltestelle 'Müze' aus, um den Weg im Regen zu minimieren.",
+                "hu": "Szálljon le a 'Müze' megállónál, hogy minimalizálja az esőben való gyaloglást.",
+                "ro": "Coborâți la stația 'Müze' pentru a minimiza mersul prin ploaie.",
+                "en": "Get off at the 'Müze' stop to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Archaeological Museum & Climb to Castle",
+              "tip_5lang": {
+                "de": "Busse fahren fast bis zum Eingang der Burg; sparen Sie sich die nasse Steigung.",
+                "hu": "A buszok majdnem a vár bejáratáig visznek; spórolja meg a vizes emelkedőt.",
+                "ro": "Autobuzele merg aproape până la intrarea în castel; evitați urcarea pe ploaie.",
+                "en": "Buses go almost to the castle entrance; save yourself the wet climb."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie eine Kahramankart im Voraus, da Barzahlung im Bus nicht möglich ist.",
+              "Die App 'Maraş Ulaşım' zeigt Ankunftszeiten in Echtzeit an.",
+              "Busse sind bei Regen oft voll; planen Sie etwas Pufferzeit ein.",
+              "Große Umsteigeknoten wie das 'Belediye'-Gebäude sind gut wettergeschützt."
+            ],
+            "hu": [
+              "Vásároljon Kahramankart-ot előre, mert készpénzes fizetés a buszon nem lehetséges.",
+              "A 'Maraş Ulaşım' alkalmazás valós idejű érkezési időket mutat.",
+              "A buszok esőben gyakran zsúfoltak; tervezzen némi pufferidőt.",
+              "A nagy csomópontok, mint a 'Belediye' épülete, jól védettek az időjárástól."
+            ],
+            "ro": [
+              "Cumpărați un Kahramankart în avans, deoarece plata cash în autobuz nu este posibilă.",
+              "Aplicația 'Maraş Ulaşım' afișează timpii de sosire în timp real.",
+              "Autobuzele sunt adesea aglomerate pe ploaie; alocați ceva timp suplimentar.",
+              "Nodurile mari de transport, cum este clădirea 'Belediye', sunt bine protejate."
+            ],
+            "en": [
+              "Buy a Kahramankart in advance, as cash payment on the bus is not possible.",
+              "The 'Maraş Ulaşım' app shows real-time arrival times.",
+              "Buses are often crowded in the rain; plan for some buffer time.",
+              "Major transport hubs like the 'Belediye' building are well-sheltered from the weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der ÖPNV in Maraş ist im Winter eine warme und zuverlässige Option. Beginnen Sie im historischen Basar, wo das Markttreiben auch bei Kälte floriert. Mittags bringen Sie beheizte Busse zu den besten Gastro-Spots. Den Nachmittag verbringen Sie im angenehm temperierten Museum. Nutzen Sie die Busverbindung zur Burg, um die kalte Steigung zu umgehen und rechtzeitig zum frühen Sonnenuntergang oben zu sein.",
+            "hu": "A Maraş-i tömegközlekedés télen meleg és megbízható opció. Kezdjen a történelmi bazárban, ahol a piaci élet hidegben is pezseg. Délben fűtött buszok viszik a legjobb gasztro-helyekre. A délutánt töltse a kellemes hőmérsékletű múzeumban. Használja a várba tartó buszjáratot, hogy elkerülje a hideg emelkedőt, és időben felérjen a korai naplementére.",
+            "ro": "Transportul public din Maraș este o opțiune caldă și fiabilă iarna. Începeți în bazarul istoric, unde viața de piață pulsează și pe frig. La prânz, autobuzele încălzite vă duc la cele mai bune locuri gastronomice. Petreceți după-amiaza în muzeul cu temperatură plăcută. Folosiți conexiunea de autobuz spre castel pentru a evita urcarea prin frig și pentru a prinde apusul devreme.",
+            "en": "Public transport in Maraş is a warm and reliable option in winter. Start in the historical bazaar, where market life flourishes even in the cold. At noon, heated buses take you to the best gastro spots. Spend the afternoon in the pleasantly tempered museum. Use the bus connection to the castle to avoid the cold climb and arrive in time for the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Cluster: Historical Bazaar",
+              "tip_5lang": {
+                "de": "Ein kurzer Aufenthalt im beheizten Bus bietet eine gute Pause von der Außenkälte.",
+                "hu": "Egy rövid utazás a fűtött buszon jó pihenőt nyújt a kinti hideg után.",
+                "ro": "O scurtă călătorie cu autobuzul încălzit oferă o pauză bună de la frigul de afară.",
+                "en": "A short ride in the heated bus provides a good break from the cold outside."
+              }
+            },
+            {
+              "name": "Bazaar & Grand Mosque",
+              "tip_5lang": {
+                "de": "Haltestellen in der Nähe von Cafés nutzen, um im Warmen zu warten.",
+                "hu": "Használja a kávézók közeli megállókat, hogy meleg helyen várakozhasson.",
+                "ro": "Folosiți stațiile din apropierea cafenelelor pentru a aștepta la căldură.",
+                "en": "Use stops near cafes to wait in the warmth."
+              }
+            },
+            {
+              "name": "Lunch & Katip Han",
+              "tip_5lang": {
+                "de": "Zentrale Knotenpunkte garantieren minimale Wartezeiten im Freien.",
+                "hu": "A központi csomópontok garantálják a minimális várakozási időt a szabadban.",
+                "ro": "Nodurile centrale garantează timpi minimi de așteptare în aer liber.",
+                "en": "Central hubs guarantee minimal waiting times outdoors."
+              }
+            },
+            {
+              "name": "Cluster: Stone Bridge",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten genau; im Winter fahren manche Linien seltener.",
+                "hu": "Ellenőrizze pontosan a visszaindulást; télen egyes járatok ritkábban járhatnak.",
+                "ro": "Verificați cu atenție orele de retur; iarna, unele linii pot circula mai rar.",
+                "en": "Check return times carefully; in winter, some lines may run less frequently."
+              }
+            },
+            {
+              "name": "Cluster: Museum & Castle",
+              "tip_5lang": {
+                "de": "Wählen Sie Linien, die direkt am Museum halten, um Kältebrücken zu vermeiden.",
+                "hu": "Válasszon olyan járatokat, amelyek közvetlenül a múzeumnál állnak meg.",
+                "ro": "Alegeți liniile care opresc direct la muzeu pentru a evita expunerea la frig.",
+                "en": "Choose lines that stop directly at the museum to avoid exposure to the cold."
+              }
+            },
+            {
+              "name": "Archaeological Museum & Climb to Castle",
+              "tip_5lang": {
+                "de": "Der Bus spart Ihnen den windigen Aufstieg; genießen Sie die Fahrt im Warmen.",
+                "hu": "A busz megkíméli a szeles emelkedőtől; élvezze az utat a melegben.",
+                "ro": "Autobuzul vă scutește de urcarea vântoasă; bucurați-vă de drum la căldură.",
+                "en": "The bus saves you the windy climb; enjoy the ride in the warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Ihre Kahramankart griffbereit, um nicht lange im Wind suchen zu müssen.",
+              "Die Heizung in den Stadtbussen ist im Winter meist sehr effektiv.",
+              "Planen Sie wegen möglicher Verzögerungen durch Schneefall etwas mehr Zeit ein.",
+              "In der Rushhour (17-19 Uhr) sind die Busse besonders warm, aber auch sehr voll."
+            ],
+            "hu": [
+              "Tartsa készenlétben a Kahramankart-ját, hogy ne kelljen a szélben keresgélnie.",
+              "A városi buszok fűtése télen általában nagyon hatékony.",
+              "A hóesés okozta esetleges késések miatt tervezzen kicsit több időt.",
+              "A csúcsidőben (17-19 óra) a buszok különösen melegek, de nagyon zsúfoltak is."
+            ],
+            "ro": [
+              "Țineți cardul Kahramankart la îndemână pentru a nu-l căuta în vânt.",
+              "Încălzirea în autobuzele urbane este de obicei foarte eficientă iarna.",
+              "Alocați ceva mai mult timp din cauza posibilelor întârzieri cauzate de ninsoare.",
+              "La orele de vârf (17-19), autobuzele sunt foarte calde, dar și foarte pline."
+            ],
+            "en": [
+              "Keep your Kahramankart ready so you don't have to search for it in the wind.",
+              "The heating in the city buses is usually very effective in winter.",
+              "Plan a bit more time due to possible delays caused by snowfall.",
+              "During rush hour (5-7 PM), the buses are especially warm but also very crowded."
+            ]
+          }
+        }
       }
     }
   }

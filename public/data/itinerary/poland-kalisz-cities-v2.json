@@ -379,6 +379,206 @@
           "Keep a camera ready for the picturesque alleys and architecture.",
           "Plan for a longer break in the City Park, especially on a sunny day."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regen am Morgen verleiht dem Alten Markt von Kalisch eine melancholische Note. Unter Schirmen erkunden wir das Rathaus.\n\nZur Mittagszeit finden wir Zuflucht in der St.-Nikolaus-Kathedrale, wo das Prasseln des Regens an den Fenstern die Stille betont.\n\nEin kurzer, nasser Spaziergang führt uns über die Steinbrücke zum Bogusławski-Theater und weiter zur warmen St.-Josephs-Basilika.\n\nDer Tag endet im Stadtpark, wo die nassen Blätter glänzen, gefolgt von einem ruhigen Besuch in der St.-Stanislaus-Kirche.",
+            "hu": "A reggeli eső melankolikus hangulatot áraszt Kalisz főterén. Esernyők alatt csodáljuk meg a városházát és a környéket.\n\nDélben a Szent Miklós-székesegyház nyújt menedéket, ahol az ablakokon kopogó eső csak fokozza a belső tér nyugalmát.\n\nEgy rövid, ázós séta után a Kőhídon át érjük el a színházat, majd a Szent József-bazilika meleg belső terében száradunk meg.\n\nA napot a Városligetben zárjuk, ahol a vizes ösvények csillognak, végül a Szent Szaniszló-templom csendjében pihenünk meg.",
+            "ro": "Ploaia de dimineață oferă o notă melancolică Pieței Vechi din Kalisz. Explorăm primăria adăpostiți sub umbrele.\n\nLa prânz, găsim refugiu în Catedrala Sf. Nicolae, unde sunetul picăturilor pe geamuri subliniază liniștea interioară.\n\nO scurtă plimbare umedă ne duce peste Podul de Piatră spre Teatru și apoi spre interiorul cald al Bazilicii Sf. Iosif.\n\nZiua se încheie în Parcul Orașului, unde aleile umede strălucesc, urmată de o vizită liniștită la Biserica Sf. Stanislau.",
+            "en": "The morning rain gives Kalisz's Main Market Square a melancholic touch. We explore the Town Hall area under our umbrellas.\n\nAt noon, we find sanctuary in St. Nicholas Cathedral, where the pitter-patter on the glass enhances the silent atmosphere.\n\nA brief, wet walk takes us across the Stone Bridge to the theater and then to the dry warmth of St. Joseph's Basilica.\n\nThe day ends in the City Park, where wet leaves glisten, followed by a peaceful visit to the historic St. Stanislaus' Church."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Main Market Square",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Arkaden des Rathauses.",
+                "hu": "Használja a városháza árkádjait az eső elől.",
+                "ro": "Adăpostiți-vă sub arcadele primăriei dacă plouă tare.",
+                "en": "Take shelter under the Town Hall arcades during heavy rain."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um eine längere Regenpause einzulegen.",
+                "hu": "Tökéletes helyszín egy hosszabb esőszünet tartására.",
+                "ro": "Un loc perfect pentru a aștepta trecerea unei averse.",
+                "en": "A perfect place to take a long break from the rain."
+              }
+            },
+            {
+              "name": "Stone Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht, das historische Pflaster kann bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a történelmi macskakő nedvesen csúszós lehet.",
+                "ro": "Atenție, pavajul istoric poate fi alunecos pe ploaie.",
+                "en": "Caution, the historic pavement can be slippery when wet."
+              }
+            },
+            {
+              "name": "Bogusławski Theatre",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade vom Vordach aus.",
+                "hu": "A bejárat előtti tető alatt is megcsodálhatja a homlokzatot.",
+                "ro": "Admirați fațada stând sub streșina intrării principale.",
+                "en": "Admire the facade while standing under the entrance canopy."
+              }
+            },
+            {
+              "name": "St. Joseph's Basilica",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorraum, um Ihren Regenschirm auszuschütteln.",
+                "hu": "Használja az előteret az esernyő lerázására.",
+                "ro": "Folosiți vestibulul pentru a scutura umbrela.",
+                "en": "Use the vestibule to shake off your umbrella before entering."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind besser begehbar als die Rasenflächen.",
+                "hu": "Az aszfaltozott utak ilyenkor járhatóbbak, mint a fű.",
+                "ro": "Aleile asfaltate sunt mai sigure decât zonele cu iarbă.",
+                "en": "Paved paths are better to walk on than grassy areas now."
+              }
+            },
+            {
+              "name": "St. Stanislaus' Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ausklang des nassen Tages im trockenen Kirchenschiff.",
+                "hu": "Csendes lezárása az esős napnak a száraz hajóban.",
+                "ro": "O încheiere liniștită a zilei în nava uscată a bisericii.",
+                "en": "A quiet end to the rainy day inside the dry nave."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen des Windes an der Prosna ratsam.",
+              "Besuchen Sie die Cafés rund um den Markt für Aufwärmpausen.",
+              "Wasserdichte Schuhe sind für den Stadtpark unerlässlich.",
+              "Die Kirchen bieten verlässlichen Schutz vor plötzlichen Güssen."
+            ],
+            "hu": [
+              "A Prosna-parti szél miatt érdemes erős esernyőt vinni.",
+              "A főtéri kávézók kiválóak egy-egy melegítő szünetre.",
+              "A Városliget miatt vízálló lábbeli erősen ajánlott.",
+              "A templomok biztos menedéket nyújtanak hirtelen zápor esetén."
+            ],
+            "ro": [
+              "O umbrelă rezistentă e necesară din cauza vântului de pe Prosna.",
+              "Cafenelele din piață sunt ideale pentru pauze de încălzire.",
+              "Încălțămintea impermeabilă este esențială pentru parcul orașului.",
+              "Bisericile oferă un adăpost sigur în caz de averse bruște."
+            ],
+            "en": [
+              "A sturdy umbrella is recommended due to the wind near the river.",
+              "Cafes around the square are great for warming up.",
+              "Waterproof shoes are a must for the City Park paths.",
+              "Churches provide reliable shelter during sudden downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalisch im Wintermorgen wirkt wie aus einer Chronik. Der Frost auf dem Alten Markt knirscht unter unseren Stiefeln.\n\nMittags suchen wir die Kathedrale auf, deren massive Mauern eine andächtige Kälte und feierliche Stille ausstrahlen.\n\nAm Nachmittag überqueren wir die vereiste Prosna auf der Steinbrücke und eilen zur Basilika, um uns im Gebet aufzuwärmen.\n\nSobald die Dämmerung um 16:00 Uhr einsetzt, leuchtet der Stadtpark im fahlen Licht. Wir beenden den Tag in der St.-Stanislaus-Kirche.",
+            "hu": "A téli reggelen Kalisz olyan, mint egy régi krónika. A fagy ropog a csizmánk alatt a városháza előtti téren.\n\nDélben a székesegyházba húzódunk, ahol a vastag falak ünnepi csendet és méltóságteljes hideget árasztanak.\n\nDélután a befagyott Prosna felett kelünk át a Kőhídon, majd a bazilika felé vesszük az irányt, hogy egy kicsit felmelegedjünk.\n\nA korai, délután négy órai sötétedéskor a Városliget fényei gyúlnak ki. Utolsó állomásunk a Szent Szaniszló-templom.",
+            "ro": "Dimineața de iarnă în Kalisz pare desprinsă dintr-o cronică veche. Gerul scrâșnește sub ghete în Piața Veche.\n\nLa prânz vizităm catedrala, ale cărei ziduri masive emană o liniște solemnă și un frig plin de pioșenie.\n\nDupă-amiaza traversăm Prosna înghețată pe Podul de Piatră și ne grăbim spre bazilică pentru a ne încălzi puțin.\n\nOdată cu lăsarea serii la ora 16:00, parcul luminează discret. Încheiem ziua la Biserica Sf. Stanislau.",
+            "en": "Winter morning in Kalisz feels like an old chronicle. Frost crunches under our boots in the Market Square.\n\nAt noon, we visit the cathedral, its massive walls holding a solemn chill and a dignified silence.\n\nIn the afternoon, we cross the frozen Prosna via the Stone Bridge and head to the Basilica for a moment of warmth.\n\nAs dusk falls early at 4 PM, the City Park glows in the winter light. We end the day at St. Stanislaus' Church."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Main Market Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem weiten Platz.",
+                "hu": "Vigyázzon a jégre a hatalmas nyitott téren.",
+                "ro": "Atenție la porțiunile înghețate din piața largă.",
+                "en": "Watch out for black ice on the wide open square."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Im Inneren ist es oft kälter als draußen; behalten Sie den Mantel an.",
+                "hu": "Bent gyakran hidegebb van, mint kint; ne vegye le a kabátját.",
+                "ro": "În interior e adesea mai frig; nu vă scoateți haina.",
+                "en": "It's often colder inside; keep your coat on during the visit."
+              }
+            },
+            {
+              "name": "Stone Bridge",
+              "tip_5lang": {
+                "de": "Der Wind pfeift hier im Winter besonders eisig.",
+                "hu": "A szél télen itt különösen jegesen fúj a folyó felett.",
+                "ro": "Vântul suflă foarte tăios peste râu în timpul iernii.",
+                "en": "The winter wind bites especially hard over the river here."
+              }
+            },
+            {
+              "name": "Bogusławski Theatre",
+              "tip_5lang": {
+                "de": "Die Beleuchtung am späten Nachmittag ist sehr fotogen.",
+                "hu": "A késő délutáni kivilágítás nagyon fotogén télen.",
+                "ro": "Iluminatul de după-amiază târzie este foarte fotogenic.",
+                "en": "The late afternoon lighting is very photogenic in winter."
+              }
+            },
+            {
+              "name": "St. Joseph's Basilica",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um den eisigen Wind für eine Weile zu vergessen.",
+                "hu": "Jó helyszín, hogy egy időre elfelejtse a jeges szelet.",
+                "ro": "Un loc bun pentru a uita de vântul înghețat de afară.",
+                "en": "A good spot to escape the freezing wind for a while."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Spaziergänge nur bei Tageslicht empfohlen; Wege können glatt sein.",
+                "hu": "A séta csak világosban ajánlott; az utak csúszhatnak.",
+                "ro": "Plimbarea e recomandată doar pe lumină; aleile pot fi alunecoase.",
+                "en": "Walking is recommended only during daylight; paths may be icy."
+              }
+            },
+            {
+              "name": "St. Stanislaus' Church",
+              "tip_5lang": {
+                "de": "Die warme Abendbeleuchtung schafft eine behagliche Atmosphäre.",
+                "hu": "A meleg esti fények barátságos hangulatot árasztanak.",
+                "ro": "Luminile calde de seară creează o atmosferă primitoare.",
+                "en": "Warm evening lights create a cozy atmosphere inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung in Schichten ist bei polnischen Wintern Pflicht.",
+              "Die Sonne geht bereits gegen 16:00 Uhr unter.",
+              "Kopfsteinpflaster kann bei Frost extrem rutschig werden.",
+              "Tragen Sie Thermosocken, da Kirchenböden sehr kalt sind."
+            ],
+            "hu": [
+              "A réteges öltözködés kötelező a lengyel télben.",
+              "A nap már délután 4 óra körül lemegy.",
+              "A macskakő fagyban rendkívül csúszóssá válhat.",
+              "Viseljen vastag zoknit, a templomok padlója jéghideg."
+            ],
+            "ro": [
+              "Îmbrăcămintea stratificată e obligatorie în iarna poloneză.",
+              "Soarele apune deja în jurul orei 16:00.",
+              "Pavajul de piatră devine extrem de alunecos la îngheț.",
+              "Purtați șosete termice; podelele bisericilor sunt reci."
+            ],
+            "en": [
+              "Layered warm clothing is mandatory for Polish winters.",
+              "The sun sets early, around 4:00 PM.",
+              "Cobblestones can be extremely slippery in freezing weather.",
+              "Wear thermal socks as church floors are very cold."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -775,6 +975,224 @@
           "A light lock is recommended for securing the bike at stops.",
           "Bring water and a small snack for the longer ride to Zawodzie."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Kalisch Konzentration. Der Start am Markt ist nass, aber die Architektur glänzt.\n\nMittags suchen wir Schutz in der Kathedrale und am Bogusławski-Theater, während die Reifen auf dem Asphalt zischen.\n\nNachmittags radeln wir vorsichtig nach Zawodzie. Das archäologische Reservat ist schlammig, aber sehr atmosphärisch.\n\nDer Tag endet mit einer Fahrt zur Basilika und St. Stanislaus, wobei das Licht der Stadt in den Pfützen reflektiert.",
+            "hu": "Az esős bringázás koncentrációt igényel Kaliszban. A főtér vizes, de az épületek homlokzata ilyenkor is szép.\n\nDélben a székesegyháznál és a színháznál pihenünk meg, miközben a gumik sziszegnek a vizes aszfalton.\n\nDélután óvatosan tekerünk ki Zawodzie felé. A régészeti park saras, de különleges hangulatú az esőben.\n\nA napot a bazilikánál zárjuk, a város fényei tükröződnek a tócsákban az utolsó kilométereken.",
+            "ro": "Ciclismul pe ploaie necesită concentrare în Kalisz. Pornirea din piață e udă, dar arhitectura strălucește.\n\nLa prânz ne adăpostim lângă catedrală și teatru, în timp ce cauciucurile șuieră pe asfaltul umed.\n\nDupă-amiaza pedalăm cu grijă spre Zawodzie. Rezervația arheologică e noroioasă, dar plină de atmosferă.\n\nZiua se încheie cu o tură spre bazilică, luminile orașului reflectându-se în bălți pe drumul de întoarcere.",
+            "en": "Cycling in the rain requires focus in Kalisz. The start at the square is wet, but the architecture looks fresh.\n\nAt noon, we rest near the cathedral and theater while the tires hiss on the damp pavement.\n\nIn the afternoon, we pedal carefully to Zawodzie. The archaeological reserve is muddy but very atmospheric.\n\nThe day ends with a ride to the Basilica, with city lights reflecting in the puddles on the final stretch."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Main Market Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf dem nassen Marktplatz.",
+                "hu": "Vigyázzon az indulásnál a vizes köveken.",
+                "ro": "Atenție la plecarea de pe loc pe pavajul ud.",
+                "en": "Be careful when starting off on the wet square surface."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Räder in der Nähe suchen.",
+                "hu": "Keressen biztonságos, fedett helyet a bringának a közelben.",
+                "ro": "Căutați un loc de parcare mai ferit pentru bicicletă.",
+                "en": "Look for a sheltered spot to park your bike nearby."
+              }
+            },
+            {
+              "name": "Stone Bridge",
+              "tip_5lang": {
+                "de": "Extrem rutschig; fahren Sie langsam oder schieben Sie.",
+                "hu": "Rendkívül csúszós; hajtson lassan vagy tolja a bringát.",
+                "ro": "Extrem de alunecos; mergeți încet sau pe lângă bicicletă.",
+                "en": "Extremely slippery; ride very slowly or push the bike."
+              }
+            },
+            {
+              "name": "Bogusławski Theatre",
+              "tip_5lang": {
+                "de": "Kurze Pause unter dem Vordach möglich.",
+                "hu": "Rövid pihenő a bejárati tető alatt lehetséges.",
+                "ro": "Scurtă pauză sub streșina teatrului.",
+                "en": "A short break under the theater canopy is possible."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen auf den Parkwegen.",
+                "hu": "Vigyázzon a mély tócsákra a parki utakon.",
+                "ro": "Atenție la bălțile adânci de pe aleile parcului.",
+                "en": "Watch out for deep puddles on the park paths."
+              }
+            },
+            {
+              "name": "Zawodzie Archaeological Reserve",
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege sind schlammig; festes Schuhwerk!",
+                "hu": "A föutak sarasak; viseljen strapabíró cipőt!",
+                "ro": "Drumurile neasfaltate sunt noroioase; purtați bocanci!",
+                "en": "Unpaved paths are muddy; wear sturdy footwear!"
+              }
+            },
+            {
+              "name": "St. Joseph's Basilica",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Inneren auf, bevor es weitergeht.",
+                "hu": "Melegedjen fel bent, mielőtt tovább indulna.",
+                "ro": "Încălziți-vă în interior înainte de a continua drumul.",
+                "en": "Warm up inside the church before heading back."
+              }
+            },
+            {
+              "name": "St. Stanislaus' Church",
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der Rückgabe des Rads.",
+                "hu": "Utolsó megálló a kerékpár leadása előtt.",
+                "ro": "Ultima oprire înainte de a returna bicicleta.",
+                "en": "Final stop before returning the bike in the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein Poncho ist praktischer als ein Regenschirm beim Radeln.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt auf Nässe.",
+              "Schutzbleche sind bei diesem Wetter in Kalisch ein Muss.",
+              "Vermeiden Sie schnelle Kurven auf Kopfsteinpflaster."
+            ],
+            "hu": [
+              "A poncsó praktikusabb kerékpározáshoz, mint az esernyő.",
+              "Indulás előtt ellenőrizze a fékeket a nedves úton.",
+              "A sárvédő elengedhetetlen ilyenkor Kaliszban.",
+              "Kerülje a hirtelen kanyarodást a vizes macskakövön."
+            ],
+            "ro": [
+              "O pelerină e mai practică decât umbrela pe bicicletă.",
+              "Verificați frânele pe carosabil umed înainte de plecare.",
+              "Aripile la roți sunt esențiale pe această vreme.",
+              "Evitați virajele bruște pe pavajul de piatră."
+            ],
+            "en": [
+              "A rain poncho is more practical than an umbrella while biking.",
+              "Check your brakes on the wet surface before starting.",
+              "Mudguards are a must-have in Kalisz in this weather.",
+              "Avoid sharp turns on wet cobblestone surfaces."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im frostigen Kalisch ist belebend. Der Markt am Morgen glänzt weiß unter dem dünnen Eis.\n\nMittags machen wir Halt an der Kathedrale und dem Theater, wobei der Fahrtwind die Wangen brennen lässt.\n\nNachmittags geht es nach Zawodzie. Die schneebedeckten Holzhütten des Reservats bieten einen malerischen Anblick.\n\nZum Abend hin radeln wir zurück zur Basilika. Das Licht der Straßenlaternen spiegelt sich im Schnee auf dem Weg.",
+            "hu": "Frissítő élmény a fagyos Kaliszban tekerni. A főtér reggel fehéren csillog a vékony jégréteg alatt.\n\nDélben a székesegyháznál és a színháznál állunk meg, a menetszél alaposan megcsípi az arcunkat.\n\nDélután Zawodzie felé vesszük az irányt. A régészeti park hófödte faházai festői látványt nyújtanak.\n\nEste a bazilika felé tekerünk vissza. Az utcai lámpák fénye megcsillan a hóban az út mentén.",
+            "ro": "Ciclismul în Kalisz înghețat este revigorant. Piața strălucește alb dimineața sub un strat subțire de gheață.\n\nLa prânz oprim la catedrală și teatru, vântul tăios făcându-ne obrajii să ardă de frig.\n\nDupă-amiaza mergem spre Zawodzie. Căsuțele de lemn înzăpezite ale rezervației oferă o priveliște pitorească.\n\nSpre seară pedalăm înapoi spre bazilică. Lumina felinarelor se reflectă în zăpada de pe marginea drumului.",
+            "en": "Cycling in frosty Kalisz is invigorating. The morning market square glitters white under a thin layer of ice.\n\nAt noon, we stop at the cathedral and theater, the cold wind biting into our cheeks as we ride.\n\nIn the afternoon, we head to Zawodzie. The snow-covered wooden huts of the reserve offer a picturesque sight.\n\nTowards evening, we cycle back to the Basilica. The streetlights reflect off the snow along the way."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Main Market Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Stellen beim Losfahren.",
+                "hu": "Vigyázzon a csúszós foltokra induláskor.",
+                "ro": "Atenție la porțiunile alunecoase la plecare.",
+                "en": "Watch out for slippery patches when starting your ride."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Aufwärmen der Hände empfohlen.",
+                "hu": "Javasolt egy rövid megálló a kezek felmelegítésére.",
+                "ro": "Se recomandă o scurtă oprire pentru încălzirea mâinilor.",
+                "en": "A short stop to warm up your hands is recommended."
+              }
+            },
+            {
+              "name": "Stone Bridge",
+              "tip_5lang": {
+                "de": "Brücken frieren zuerst ein; fahren Sie extrem vorsichtig.",
+                "hu": "A hidak fagynak le először; hajtson rendkívül óvatosan.",
+                "ro": "Podurile îngheață primele; circulați cu mare atenție.",
+                "en": "Bridges freeze first; ride with extreme caution here."
+              }
+            },
+            {
+              "name": "Bogusławski Theatre",
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick, bevor es wieder in den Wind geht.",
+                "hu": "Élvezze a látványt, mielőtt újra a szélbe hajtana.",
+                "ro": "Admirați clădirea înainte de a reveni în vânt.",
+                "en": "Enjoy the view before heading back into the cold wind."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen unter dem Neuschnee.",
+                "hu": "Vigyázzon a hó alatti befagyott tócsákra.",
+                "ro": "Atenție la bălțile înghețate de sub zăpadă.",
+                "en": "Watch out for frozen puddles hidden under light snow."
+              }
+            },
+            {
+              "name": "Zawodzie Archaeological Reserve",
+              "tip_5lang": {
+                "de": "Kalt und windig; die Besichtigung kurz halten.",
+                "hu": "Hideg és szeles hely; fogja rövidre a látogatást.",
+                "ro": "Loc rece și vântos; scurtați durata vizitei.",
+                "en": "Cold and windy spot; keep your visit relatively brief."
+              }
+            },
+            {
+              "name": "St. Joseph's Basilica",
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad gut ab, das Schloss kann einfrieren.",
+                "hu": "Zárja le jól a bringát, a zár befagyhat.",
+                "ro": "Asigurați bicicleta bine; încuietoarea poate îngheța.",
+                "en": "Lock your bike securely; the lock mechanism might freeze."
+              }
+            },
+            {
+              "name": "St. Stanislaus' Church",
+              "tip_5lang": {
+                "de": "Ende der Tour; Zeit für einen heißen Tee.",
+                "hu": "A túra vége; ideje egy forró teának.",
+                "ro": "Sfârșitul turului; e timpul pentru un ceai fierbinte.",
+                "en": "End of the tour; time for a hot tea in the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe für die Fahrt über die Brücken.",
+              "Prüfen Sie den Reifendruck; im Winter etwas weniger für mehr Grip.",
+              "Licht ist ab 15:30 Uhr aufgrund der frühen Dämmerung nötig.",
+              "Achten Sie auf Salz auf den Wegen, es kann Metall angreifen."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt a hidakon való átkeléshez.",
+              "Ellenőrizze a guminyomást; télen a kevesebb jobb tapadást ad.",
+              "A korai sötétedés miatt 15:30-tól kötelező a lámpa.",
+              "Vigyázzon az útszóró sóval, károsíthatja a bringát."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt pentru traversarea podurilor.",
+              "Verificați presiunea; iarna, o presiune mică oferă aderență.",
+              "Luminile sunt necesare de la 15:30 din cauza amurgului.",
+              "Atenție la sarea de pe drum, poate ataca metalul."
+            ],
+            "en": [
+              "Wear windproof gloves for riding across the bridges.",
+              "Check tire pressure; lower pressure gives better winter grip.",
+              "Lights are necessary from 3:30 PM due to early dusk.",
+              "Watch out for road salt, as it can corrode bike parts."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1155,6 +1573,206 @@
           "A GPS is essential for navigating between clusters.",
           "Use the car to visit slightly more distant but worthwhile places like the Zawodzie Reserve."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Kalisch im Regen komfortabel zu erkunden. Wir parken nahe am Rathaus für einen kurzen Rundgang.\n\nMittags steuern wir die Kathedrale an. Die Scheibenwischer halten den Blick auf die gotische Pracht frei.\n\nNachmittags führt die Fahrt zur Steinbrücke und Basilika. Wir genießen die Wärme im Wagen zwischen den Stopps.\n\nZum Abschluss geht es nach Zawodzie. Trotz des Regens ist die Anlage vom Parkplatz aus gut erreichbar und sehenswert.",
+            "hu": "Autóval kényelmesen felfedezhető Kalisz az esőben is. A városháza közelében parkolunk egy rövid körre.\n\nDélben a székesegyházhoz hajtunk. Az ablaktörlők mögül is lenyűgöző a gótikus épület látványa.\n\nDélután a Kőhíd és a bazilika következik. Élvezzük az autó melegét a megállók közötti rövid utakon.\n\nA napot Zawodzie-ban zárjuk. Az eső ellenére a parkoló közel van, így könnyen bejárható a terület.",
+            "ro": "Cu mașina, Kalisz este confortabil de explorat chiar și pe ploaie. Parcăm aproape de primărie pentru un tur scurt.\n\nLa prânz ne îndreptăm spre catedrală. Ștergătoarele ne permit să admirăm fațada gotică în condiții bune.\n\nDupă-amiaza drumul ne duce la Podul de Piatră și bazilică. Savurăm căldura din mașină între opriri.\n\nÎn final, mergem la Zawodzie. În ciuda ploii, situl este accesibil rapid din parcare și merită vizitat.",
+            "en": "Exploring Kalisz by car is comfortable during the rain. We park near the Town Hall for a quick walk around.\n\nAt noon, we drive to the cathedral. The wipers keep our view of the Gothic splendor clear between the raindrops.\n\nIn the afternoon, the route takes us to the Stone Bridge and Basilica. We enjoy the cabin warmth between stops.\n\nFinally, we head to Zawodzie. Despite the rain, the site is easily accessible from the parking lot and worth seeing."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Town Hall",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe der Markthalle, um trocken zu bleiben.",
+                "hu": "Parkoljon a vásárcsarnok közelében, hogy száraz maradjon.",
+                "ro": "Parcați lângă hala comercială pentru a rămâne uscați.",
+                "en": "Park near the market hall to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkstreifen direkt vor der Kirche.",
+                "hu": "Használja a közvetlenül a templom előtti parkolósávot.",
+                "ro": "Folosiți locurile de parcare direct din fața bisericii.",
+                "en": "Use the parking strip directly in front of the church."
+              }
+            },
+            {
+              "name": "Stone Bridge",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; Parken am Straßenrand kurzzeitig möglich.",
+                "hu": "Gyors fotómegálló; a rövid idejű parkolás megoldható.",
+                "ro": "Scurt popas foto; parcarea pe marginea drumului e posibilă.",
+                "en": "Quick photo stop; curbside parking is briefly possible."
+              }
+            },
+            {
+              "name": "Cluster 2: St. Joseph's Basilica",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden; ideal bei starkem Regen.",
+                "hu": "Nagy parkoló áll rendelkezésre; ideális szakadó esőben.",
+                "ro": "Parcare mare disponibilă; ideală în caz de ploaie torențială.",
+                "en": "Large parking area available; ideal for heavy rain."
+              }
+            },
+            {
+              "name": "Bogusławski Theatre",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen bei der Parkplatzsuche.",
+                "hu": "Vigyázzon a mély tócsákra parkolóhely keresése közben.",
+                "ro": "Atenție la bălțile adânci când căutați loc de parcare.",
+                "en": "Watch out for deep puddles when looking for parking."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Parken Sie am Haupteingang für den kürzesten Weg.",
+                "hu": "A főbejáratnál parkoljon a legrövidebb sétához.",
+                "ro": "Parcați la intrarea principală pentru cel mai scurt traseu.",
+                "en": "Park at the main entrance for the shortest walk."
+              }
+            },
+            {
+              "name": "Cluster 3: Zawodzie Archaeological Reserve",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Dauerregen schlammig sein.",
+                "hu": "A parkoló tartós esőben saras lehet.",
+                "ro": "Parcarea poate fi noroioasă în caz de ploaie continuă.",
+                "en": "The parking area can get muddy during persistent rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Fußgänger mit Schirmen, die Sicht ist eingeschränkt.",
+              "Halten Sie die Fenster für gute Sicht beschlagfrei.",
+              "Einige Gassen im Zentrum sind bei Nässe rutschig.",
+              "Nutzen Sie Park-Apps, um das Bezahlen im Regen zu vermeiden."
+            ],
+            "hu": [
+              "Vigyázzon az esernyős gyalogosokra, korlátozott a látótávolság.",
+              "Párátlanítsa az ablakokat a jó kilátás érdekében.",
+              "Néhány belvárosi szűk utca nedvesen csúszós lehet.",
+              "Használjon parkolási appot, hogy ne kelljen az esőben fizetni."
+            ],
+            "ro": [
+              "Atenție la pietonii cu umbrele, vizibilitatea este redusă.",
+              "Dezaburiți geamurile pentru o vizibilitate optimă.",
+              "Unele străduțe centrale sunt alunecoase când sunt ude.",
+              "Folosiți aplicații de parcare pentru a evita plata în ploaie."
+            ],
+            "en": [
+              "Watch out for pedestrians with umbrellas; visibility is lower.",
+              "Keep windows defogged for the best view of the city.",
+              "Some narrow central streets can be slippery when wet.",
+              "Use parking apps to avoid paying at machines in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch Kalisch ist sicher und warm. Am Morgen glitzert der Raureif auf dem Markt.\n\nMittags steuern wir die Kathedrale an. Die Heizung sorgt für Wohlbefinden, während wir die historische Route abfahren.\n\nNachmittags geht es zur Basilika und zum Theater. Der Kontrast zwischen der Kälte draußen und der Wärme im Auto ist herrlich.\n\nDen Tag beenden wir in Zawodzie. Das archäologische Reservat im Schnee wirkt wie aus einem Märchen, bevor wir den Rückweg antreten.",
+            "hu": "A téli autózás Kaliszban biztonságos és meleg. Reggel a zúzmara csillog a városháza előtti téren.\n\nDélben a székesegyházhoz hajtunk. A fűtés kellemes meleget ad, miközben bejárjuk a történelmi útvonalat.\n\nDélután a bazilika és a színház következik. Remek kontraszt a kinti hideg és a benti meleg között.\n\nA napot Zawodzie-ban zárjuk. A hófödte régészeti park olyan, mint egy mese, mielőtt visszaindulnánk.",
+            "ro": "O tură cu mașina prin Kalisz de iarnă este sigură și caldă. Dimineața, promoroaca sclipește în piață.\n\nLa prânz mergem spre catedrală. Căldura din interior ne oferă confort în timp ce parcurgem traseul istoric.\n\nDupă-amiaza vizităm bazilica și teatrul. Contrastul dintre frigul de afară și căldura din mașină e minunat.\n\nÎncheiem ziua la Zawodzie. Rezervația arheologică sub zăpadă pare desprinsă din povești înainte de plecare.",
+            "en": "A winter drive through Kalisz is both safe and warm. In the morning, hoarfrost glitters on the Market Square.\n\nAt noon, we drive to the cathedral. The car heater keeps us cozy as we follow the historic route.\n\nIn the afternoon, we visit the Basilica and the theater. The contrast between the cold outside and the warm cabin is great.\n\nWe finish the day at Zawodzie. The snow-covered archaeological reserve looks like a fairytale before we head back."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Town Hall",
+              "tip_5lang": {
+                "de": "Parkplätze werden im Winter oft schlecht geräumt.",
+                "hu": "A parkolókat télen gyakran rosszul takarítják.",
+                "ro": "Parcările sunt adesea prost deszăpezite iarna.",
+                "en": "Parking spots are often poorly cleared of snow in winter."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf Eis auf dem Bürgersteig.",
+                "hu": "Vigyázzon a jégre a járdán kiszálláskor.",
+                "ro": "Atenție la gheața de pe trotuar când coborâți din mașină.",
+                "en": "Watch out for ice on the sidewalk when exiting the car."
+              }
+            },
+            {
+              "name": "Stone Bridge",
+              "tip_5lang": {
+                "de": "Die Brücke kann extrem glatt sein; langsam fahren.",
+                "hu": "A híd rendkívül csúszós lehet; hajtson lassan.",
+                "ro": "Podul poate fi extrem de alunecos; conduceți încet.",
+                "en": "The bridge surface can be extremely icy; drive slowly."
+              }
+            },
+            {
+              "name": "Cluster 2: St. Joseph's Basilica",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist meist gut geräumt und sicher.",
+                "hu": "A parkolót általában jól takarítják és biztonságos.",
+                "ro": "Parcarea este de obicei bine deszăpezită și sigură.",
+                "en": "The parking area is usually well-cleared and safe."
+              }
+            },
+            {
+              "name": "Bogusławski Theatre",
+              "tip_5lang": {
+                "de": "Gute Beleuchtung am Parkplatz am späten Nachmittag.",
+                "hu": "Jó a világítás a parkolónál késő délután.",
+                "ro": "Parcarea e bine iluminată după-amiaza târziu.",
+                "en": "Good lighting in the parking area in the late afternoon."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Parken Sie nicht unter schneebedeckten Bäumen.",
+                "hu": "Ne parkoljon hótól roskadozó fák alá.",
+                "ro": "Nu parcați sub copaci încărcați cu zăpadă.",
+                "en": "Avoid parking under trees heavily laden with snow."
+              }
+            },
+            {
+              "name": "Cluster 3: Zawodzie Archaeological Reserve",
+              "tip_5lang": {
+                "de": "Winterreifen sind für die Zufahrt unerlässlich.",
+                "hu": "A téli gumi elengedhetetlen a behajtáshoz.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pentru acces.",
+                "en": "Winter tires are essential for the access road here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass die Winterreifen guten Grip haben.",
+              "Füllen Sie rechtzeitig Frostschutzmittel für die Scheiben nach.",
+              "Achten Sie auf Streufahrzeuge in den engen Gassen.",
+              "Die Dämmerung setzt früh ein; prüfen Sie Ihre Beleuchtung."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a téli gumik jó állapotúak.",
+              "Időben töltse fel a fagyálló szélvédőmosó folyadékot.",
+              "Vigyázzon a hókotrókra a szűk belvárosi utcákban.",
+              "Korán sötétedik; ellenőrizze a fényszórókat."
+            ],
+            "ro": [
+              "Asigurați-vă că anvelopele de iarnă au aderență bună.",
+              "Completați din timp lichidul de parbriz antigel.",
+              "Atenție la utilajele de deszăpezire pe străzile înguste.",
+              "Amurgul vine devreme; verificați funcționarea farurilor."
+            ],
+            "en": [
+              "Ensure your winter tires are in good condition for grip.",
+              "Top up your antifreeze windshield washer fluid in time.",
+              "Watch out for snowplows in the narrow central streets.",
+              "Dusk falls early; double-check your car's lighting."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1535,6 +2153,206 @@
           "Pay attention to the final destinations, especially when heading to Zawodzie.",
           "Keep an eye on your belongings at busy stops and on crowded buses."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Busse in Kalisch sind eine trockene Alternative im Regen. Wir starten am Markt und nutzen die Linien zum Zentrum.\n\nMittags erreichen wir die Kathedrale und St. Stanislaus. Die Wartezeiten an den überdachten Haltestellen sind kurz.\n\nNachmittags bringt uns der Bus zur Basilika und weiter Richtung Zawodzie. Wir beobachten den Regen durch das Busfenster.\n\nDer Tag endet mit einer entspannten Rückfahrt ins Stadtzentrum, während die Stadtlichter im nassen Asphalt glitzern.",
+            "hu": "Kalisz buszai száraz alternatívát kínálnak az esőben. A főtérről indulva használjuk a központi járatokat.\n\nDélben érjük el a székesegyházat és a Szent Szaniszló-templomot. A fedett megállókban nem ázunk meg.\n\nDélután busszal megyünk a bazilikához, majd Zawodzie felé. Az ablakból figyeljük az esőáztatta várost.\n\nA nap egy nyugodt buszozással ér véget a központ felé, miközben a fények csillognak a vizes aszfalton.",
+            "ro": "Autobuzele din Kalisz sunt o alternativă uscată pe timp de ploaie. Pornim din piață și folosim liniile centrale.\n\nLa prânz ajungem la catedrală și la Biserica Sf. Stanislau. Timpul de așteptare în stațiile acoperite e scurt.\n\nDupă-amiaza autobuzul ne duce la bazilică și apoi spre Zawodzie. Admirăm orașul ud prin geamul vehiculului.\n\nZiua se încheie cu o întoarcere relaxată spre centru, în timp ce luminile orașului sclipesc pe asfaltul ud.",
+            "en": "Kalisz buses offer a dry alternative during the rain. We start at the square and use the central lines to get around.\n\nAt noon, we reach the cathedral and St. Stanislaus' Church. Waiting times at sheltered stops are brief.\n\nIn the afternoon, the bus takes us to the Basilica and onwards to Zawodzie. We watch the rain from the bus window.\n\nThe day ends with a relaxed ride back to the city center as the lights glisten on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Town Hall",
+              "tip_5lang": {
+                "de": "Zentrale Umsteigestelle mit vielen Unterständen.",
+                "hu": "Központi átszállóhely sok fedett várakozóval.",
+                "ro": "Punct central de transfer cu multe adăposturi.",
+                "en": "Central transfer point with plenty of sheltered areas."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Haltestelle liegt sehr nah am Eingang.",
+                "hu": "A megálló nagyon közel van a bejárathoz.",
+                "ro": "Stația de autobuz este foarte aproape de intrare.",
+                "en": "The bus stop is located very close to the entrance."
+              }
+            },
+            {
+              "name": "St. Stanislaus' Church",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Bushaltestelle, wenig Regenrisiko.",
+                "hu": "Rövid séta a megállótól, kevés esély az ázásra.",
+                "ro": "Drum scurt de la stație, risc minim de a vă uda.",
+                "en": "Short walk from the stop, minimal risk of getting wet."
+              }
+            },
+            {
+              "name": "Cluster 2: St. Joseph's Basilica",
+              "tip_5lang": {
+                "de": "Große überdachte Haltestelle in der Nähe.",
+                "hu": "Nagy fedett megálló található a közelben.",
+                "ro": "Stație mare acoperită disponibilă în apropiere.",
+                "en": "There is a large sheltered bus stop nearby."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Bei starkem Regen die Busfahrt durch den Park genießen.",
+                "hu": "Szakadó esőben élvezze a buszos utazást a park mellett.",
+                "ro": "Pe ploaie torențială, admirați parcul din autobuz.",
+                "en": "In heavy rain, enjoy the view of the park from the bus."
+              }
+            },
+            {
+              "name": "Cluster 3: Zawodzie Archaeological Reserve",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten bei Regen vorab.",
+                "hu": "Esőben érdemes előre megnézni a visszautat.",
+                "ro": "Verificați orarul de întoarcere din timp pe ploaie.",
+                "en": "Check return bus times in advance when it's raining."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_5lang": {
+                "de": "Bequeme Rückfahrt zum Ausgangspunkt im Trockenen.",
+                "hu": "Kényelmes és száraz visszautazás a kiindulópontra.",
+                "ro": "Întoarcere confortabilă și uscată la punctul de plecare.",
+                "en": "Comfortable and dry ride back to the starting point."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App des KLA für Echtzeit-Abfahrten.",
+              "Halten Sie Kleingeld oder eine Karte für den Automaten bereit.",
+              "Busse sind bei Regen oft voll; planen Sie Pufferzeit ein.",
+              "Die Haltestellen am Markt bieten den besten Regenschutz."
+            ],
+            "hu": [
+              "Használja a KLA appot a valós idejű indulásokhoz.",
+              "Készítsen elő aprót vagy kártyát az automatához.",
+              "Esőben a buszok zsúfoltabbak lehetnek; számoljon rá időt.",
+              "A főtéri megállók nyújtják a legjobb védelmet az eső elől."
+            ],
+            "ro": [
+              "Folosiți aplicația KLA pentru plecări în timp real.",
+              "Pregătiți mărunțiș sau un card pentru tonomatul de bilete.",
+              "Autobuzele sunt aglomerate pe ploaie; rezervați-vă timp.",
+              "Stațiile din piață oferă cea mai bună protecție contra ploii."
+            ],
+            "en": [
+              "Use the KLA app for real-time bus departures.",
+              "Have small change or a card ready for the ticket machine.",
+              "Buses can be crowded in the rain; allow extra travel time.",
+              "The stops at the Market Square offer the best rain protection."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Dank der beheizten Busse ist Kalisch im Winter gut zu erleben. Wir starten die Tour am frostigen Alten Markt.\n\nMittags besuchen wir die Kathedrale und die Kirchen im Zentrum. Der Wechsel zwischen Kälte und warmen Bussen ist angenehm.\n\nAm Nachmittag fahren wir nach Zawodzie. Die schneebedeckte Landschaft zieht am Busfenster vorbei, während wir im Warmen sitzen.\n\nDie Rückfahrt zum Zentrum am Abend bietet einen Blick auf die festlich beleuchteten Straßen der ältesten Stadt Polens.",
+            "hu": "A fűtött buszoknak köszönhetően a téli Kalisz is élvezhető. A fagyos főtérről indulunk útnak.\n\nDélben a székesegyházat és a belvárosi templomokat látogatjuk meg. A kinti hideg után jól esik a busz melege.\n\nDélután Zawodzie felé vesszük az irányt. A hófödte táj elsuhan az ablak mellett, miközben mi melegben ülünk.\n\nAz esti visszautat a központba a legidősebb lengyel város díszkivilágítása teszi hangulatossá.",
+            "ro": "Datorită autobuzelor încălzite, Kalisz poate fi vizitat ușor iarna. Începem turul din Piața Veche înghețată.\n\nLa prânz vizităm catedrala și bisericile centrale. Trecerea de la ger la căldura din autobuz e plăcută.\n\nDupă-amiaza mergem spre Zawodzie. Peisajul înzăpezit trece prin fața ferestrei în timp ce stăm la căldură.\n\nÎntoarcerea spre centru seara ne oferă o priveliște asupra străzilor iluminate festiv ale celui mai vechi oraș polonez.",
+            "en": "Thanks to heated buses, winter in Kalisz is easy to experience. We start our tour at the frosty Market Square.\n\nAt noon, we visit the cathedral and central churches. The switch from the cold air to warm buses is pleasant.\n\nIn the afternoon, we head towards Zawodzie. The snowy landscape drifts past the window while we sit in the warmth.\n\nThe evening ride back to the center offers a view of the festively lit streets of Poland's oldest city."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Town Hall",
+              "tip_5lang": {
+                "de": "Haltestellen können im Winter glatt sein; Vorsicht!",
+                "hu": "A megállók télen csúszósak lehetnek; vigyázzon!",
+                "ro": "Stațiile pot fi alunecoase iarna; atenție sporită!",
+                "en": "Bus stops can be slippery in winter; watch your step!"
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Kurze Wartezeit im Freien dank dichtem Takt.",
+                "hu": "Rövid várakozás a szabadban a sűrű járatoknak hála.",
+                "ro": "Așteptare scurtă în aer liber datorită frecvenței mari.",
+                "en": "Short outdoor wait time thanks to frequent bus service."
+              }
+            },
+            {
+              "name": "St. Stanislaus' Church",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Bus auf dem Weg hierher auf.",
+                "hu": "Melegedjen fel a buszon az idevezető úton.",
+                "ro": "Încălziți-vă în autobuz în drum spre acest obiectiv.",
+                "en": "Warm up on the bus while traveling to this stop."
+              }
+            },
+            {
+              "name": "Cluster 2: St. Joseph's Basilica",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor dem Kircheneingang.",
+                "hu": "A busz szinte közvetlenül a templom előtt áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața bisericii.",
+                "en": "The bus stops almost directly in front of the church entrance."
+              }
+            },
+            {
+              "name": "City Park",
+              "tip_5lang": {
+                "de": "Vom Bus aus hat man einen tollen Blick auf den Winterpark.",
+                "hu": "A buszból remek kilátás nyílik a téli parkra.",
+                "ro": "Din autobuz aveți o vedere excelentă asupra parcului iarna.",
+                "en": "The bus provides a great view of the snow-covered park."
+              }
+            },
+            {
+              "name": "Cluster 3: Zawodzie Archaeological Reserve",
+              "tip_5lang": {
+                "de": "Achten Sie auf den speziellen Winterfahrplan.",
+                "hu": "Figyelje a speciális téli menetrendet.",
+                "ro": "Verificați orarul special de iarnă pentru această linie.",
+                "en": "Check for any specific winter schedule adjustments."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_5lang": {
+                "de": "Genießen Sie die beleuchtete Stadt bei der Rückfahrt.",
+                "hu": "Élvezze a kivilágított várost a visszaút során.",
+                "ro": "Admirați orașul iluminat în timpul drumului de întoarcere.",
+                "en": "Enjoy the city lights during your ride back to the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter der wärmste Weg durch die Stadt.",
+              "Bei starkem Schneefall kann es zu kleinen Verzögerungen kommen.",
+              "Die Heizung in den KLA-Bussen funktioniert meist sehr gut.",
+              "Planen Sie die Rückkehr vor 16:30 Uhr für Tageslicht ein."
+            ],
+            "hu": [
+              "Télen a busz a legmelegebb módja a városjárásnak.",
+              "Erős havazás esetén kisebb késések előfordulhatnak.",
+              "A KLA buszokon a fűtés általában kiválóan működik.",
+              "Tervezze a visszautat 16:30 előtt, ha látni is szeretne valamit."
+            ],
+            "ro": [
+              "Autobuzul este cea mai călduroasă cale de a vedea orașul.",
+              "În caz de ninsoare abundentă pot apărea mici întârzieri.",
+              "Încălzirea în autobuzele KLA funcționează de obicei foarte bine.",
+              "Planificați întoarcerea înainte de 16:30 pentru a avea lumină."
+            ],
+            "en": [
+              "Buses are the warmest way to get around the city in winter.",
+              "Heavy snowfall may cause minor delays in the schedule.",
+              "Heating on KLA buses is usually very effective.",
+              "Plan your return before 4:30 PM if you want to catch the daylight."
+            ]
+          }
+        }
       }
     }
   }

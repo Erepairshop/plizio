@@ -362,6 +362,196 @@
           "Most shops have a siesta in the afternoon, so plan accordingly.",
           "Enjoy a frappe at a local 'kafeneio' to experience real Greek life."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Bezesteni trockenen Schutz zwischen antiken Schätzen. Mittags führt ein kurzer, regnerischer Spaziergang zur St. Georgs-Kirche und zum gemütlichen Volkskundemuseum. Nachmittags glänzen die Wege im Stadtpark im Regen, bevor wir den Aufstieg zur Koulas-Festung wagen. Abends lassen wir den Tag im Tal der Agioi Anargyroi unter dem Rauschen des Wassers und des Regens ausklingen.",
+            "hu": "Reggel a Bezesteni boltívei alatt bújunk el az eső elől a leletek között. Délben egy rövid sétával elérjük a Szent György-templomot és a néprajzi múzeumot. Délután a városi park vizes ösvényei után felkapaszkodunk a Koulas-erődhöz, ahol a ködös kilátás különleges hangulatot áraszt. Estére az Agioi Anargyroi-völgy patakparti sétánya és az eső kopogása zárja a napot.",
+            "ro": "Dimineața, Bezesteni oferă adăpost uscat printre comorile arheologice. La prânz, o scurtă plimbare prin ploaie ne duce la biserica Sf. Gheorghe și la muzeul de folclor. După-amiaza, potecile parcului central strălucesc în ploaie, înainte de a urca la fortăreața Koulas. Seara, încheiem ziua în valea Agioi Anargyroi, unde sunetul ploii se împletește cu cel al pârâului.",
+            "en": "In the morning, Bezesteni provides dry shelter among ancient treasures. At noon, a short rainy walk leads to St. George's Church and the cozy Folklore Museum. In the afternoon, the central park's paths glisten in the rain before we climb to the Koulas Fortress. In the evening, we conclude the day in the Agioi Anargyroi Valley, where the sound of rain blends with the flowing water."
+          },
+          "stops": [
+            {
+              "name": "Bezesteni (Ottoman Market)",
+              "tip_5lang": {
+                "de": "Perfekter Zufluchtsort vor dem Regen mit toller Archäologie.",
+                "hu": "Tökéletes menedék az eső elől, gazdag régészeti leletekkel.",
+                "ro": "Refugiu perfect împotriva ploii, cu vestigii arheologice superbe.",
+                "en": "Perfect refuge from the rain with great archaeological exhibits."
+              }
+            },
+            {
+              "name": "Church of Saint George",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Ikonen, während es draußen prasselt.",
+                "hu": "Csodálja meg az ikonokat, miközben kint kopog az eső.",
+                "ro": "Admirați icoanele în timp ce ploaia cade afară.",
+                "en": "Admire the icons while the rain pours outside."
+              }
+            },
+            {
+              "name": "Folklore Museum of Serres",
+              "tip_5lang": {
+                "de": "Viel Zeit im Trockenen für die lokale Kultur einplanen.",
+                "hu": "Szánjon több időt a helyi kultúrára a száraz belső terekben.",
+                "ro": "Alocați timp culturii locale în spațiile interioare uscate.",
+                "en": "Spend plenty of time indoors exploring local culture."
+              }
+            },
+            {
+              "name": "Central Park of Serres",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege nutzen, um Matsch zu vermeiden.",
+                "hu": "Használja az aszfaltozott utakat a sár elkerülése érdekében.",
+                "ro": "Folosiți aleile asfaltate pentru a evita noroiul.",
+                "en": "Use the paved paths to avoid the mud."
+              }
+            },
+            {
+              "name": "Koulas Fortress (Acropolis of Serres)",
+              "tip_5lang": {
+                "de": "Vorsicht, die alten Steinstufen sind bei Nässe sehr rutschig.",
+                "hu": "Vigyázat, a régi kőlépcsők nedvesen nagyon csúszósak.",
+                "ro": "Atenție, treptele vechi de piatră sunt foarte alunecoase pe ploaie.",
+                "en": "Caution, the ancient stone steps are very slippery when wet."
+              }
+            },
+            {
+              "name": "Agioi Anargyroi Valley",
+              "tip_5lang": {
+                "de": "Ein Regenschirm ist unter den hohen Bäumen unverzichtbar.",
+                "hu": "A magas fák alatt is elengedhetetlen az esernyő.",
+                "ro": "O umbrelă este indispensabilă sub copacii înalți.",
+                "en": "An umbrella is essential even under the tall trees."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Kopfsteinpflastergassen.",
+              "Nutzen Sie die Museen als ausgedehnte Pausenstationen.",
+              "Die Festung bietet bei Regen eine mystische, neblige Aussicht.",
+              "Viele Cafés in der Nähe des Parks haben überdachte Außenbereiche.",
+              "Achten Sie auf Pfützen in den tiefer gelegenen Teilen des Tals."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcák miatt.",
+              "Használja a múzeumokat hosszabb pihenőhelyként.",
+              "Az erőd esőben misztikus, ködös kilátást nyújt.",
+              "A park közeli kávézók többsége fedett terasszal rendelkezik.",
+              "Vigyázzon a tócsákra a völgy alacsonyabb részein."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile cu piatră cubică.",
+              "Folosiți muzeele ca puncte de odihnă prelungite.",
+              "Fortăreața oferă o vedere mistică, cețoasă, pe timp de ploaie.",
+              "Multe cafenele de lângă parc au terase acoperite.",
+              "Atenție la bălți în zonele mai joase ale văii."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "Use the museums as extended rest stops to stay dry.",
+              "The fortress offers a mystical, misty view in the rain.",
+              "Many cafes near the park have covered outdoor seating.",
+              "Watch out for deep puddles in the lower parts of the valley."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch im Bezesteni-Markt. Mittags wärmen wir uns in der St. Georgs-Kirche und im Volkskundemuseum auf, während die Wintersonne tief steht. Nachmittags spazieren wir durch den kühlen Stadtpark zur Festung, um das goldene Licht vor dem frühen Sonnenuntergang zu fangen. Abends bietet das Tal der Agioi Anargyroi eine kristallklare Luft für einen erfrischenden Abschluss.",
+            "hu": "A téli reggel frissen indul a Bezesteni falai között. Délben a Szent György-templom és a néprajzi múzeum nyújt menedéket a hideg elől, miközben a téli nap alacsonyan jár. Délután a hűvös parkon át az erődbe sétálunk, hogy elcsípjük az arany fényeket a korai naplemente előtt. Estére a völgy kristálytiszta levegője vár egy frissítő záráshoz.",
+            "ro": "Dimineața de iarnă începe proaspăt în piața Bezesteni. La prânz, ne încălzim în biserica Sf. Gheorghe și în muzeul de folclor, profitând de soarele palid. După-amiaza, traversăm parcul răcoros spre fortăreață pentru a prinde lumina aurie înainte de apusul timpuriu. Seara, valea Agioi Anargyroi oferă un aer de cristal pentru un final revigorant.",
+            "en": "The winter morning starts fresh within the Bezesteni market. At noon, we warm up in St. George's Church and the Folklore Museum while the winter sun stays low. In the afternoon, we walk through the cool park to the fortress to catch the golden light before the early sunset. In the evening, the valley offers crystal-clear air for a refreshing conclusion."
+          },
+          "stops": [
+            {
+              "name": "Bezesteni (Ottoman Market)",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte etwas draußen.",
+                "hu": "A vastag falak némileg kint tartják a téli hideget.",
+                "ro": "Zidurile groase mențin frigul iernii la distanță.",
+                "en": "The thick walls keep the winter chill somewhat at bay."
+              }
+            },
+            {
+              "name": "Church of Saint George",
+              "tip_5lang": {
+                "de": "Ein Ort der Ruhe und relativen Wärme am Mittag.",
+                "hu": "A nyugalom és a viszonylagos meleg helyszíne délidőben.",
+                "ro": "Un loc de liniște și căldură relativă la amiază.",
+                "en": "A place of peace and relative warmth at midday."
+              }
+            },
+            {
+              "name": "Folklore Museum of Serres",
+              "tip_5lang": {
+                "de": "Drinnen ist es gemütlich, ideal um die Kälte zu vergessen.",
+                "hu": "Bent barátságos az idő, ideális a hideg elfelejtésére.",
+                "ro": "În interior este plăcut, ideal pentru a uita de frig.",
+                "en": "Cozy indoors, ideal for escaping the outdoor cold."
+              }
+            },
+            {
+              "name": "Central Park of Serres",
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten weite Sichtachsen durch den Park.",
+                "hu": "A kopasz fák messzi kilátást engednek a parkon át.",
+                "ro": "Copacii desfrunziți permit vederi largi prin parc.",
+                "en": "The bare trees allow for wide views across the park."
+              }
+            },
+            {
+              "name": "Koulas Fortress (Acropolis of Serres)",
+              "tip_5lang": {
+                "de": "Frühzeitiger Aufstieg empfohlen, Sonnenuntergang gegen 17 Uhr.",
+                "hu": "Korai felmenetel javasolt, a naplemente 17 óra körül van.",
+                "ro": "Se recomandă urcarea timpurie, apusul e în jur de ora 17.",
+                "en": "Early climb recommended as sunset is around 5 PM."
+              }
+            },
+            {
+              "name": "Agioi Anargyroi Valley",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist nötig, da es im Tal schattig und kühl ist.",
+                "hu": "Meleg ruha kell, mert a völgy árnyékos és hűvös.",
+                "ro": "Haine groase sunt necesare, valea fiind umbrită și rece.",
+                "en": "Warm clothing is necessary as the valley is shaded and cool."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung für den Wechsel zwischen Drinnen und Draußen.",
+              "Planen Sie Kaffeepausen ein, um sich zwischendurch aufzuwärmen.",
+              "Die Sonne geht im Dezember bereits vor 17:30 Uhr unter.",
+              "Die Wege zur Festung können bei Frost glatt sein.",
+              "Genießen Sie die klare Sicht, die oft nur im Winter so weit reicht."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a kinti és benti hőmérséklet-különbség miatt.",
+              "Tervezzen be kávészüneteket a felmelegedéshez.",
+              "Decemberben a nap már 17:30 előtt lemegy.",
+              "Az erőd felé vezető utak fagy esetén csúszósak lehetnek.",
+              "Élvezze a tiszta kilátást, ami télen gyakran a legszebb."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru diferențele de temperatură.",
+              "Planificați pauze de cafea pentru a vă încălzi.",
+              "În decembrie, soarele apune deja înainte de ora 17:30.",
+              "Drumurile spre fortăreață pot fi alunecoase în caz de îngheț.",
+              "Bucurați-vă de vizibilitatea clară, specifică iernii."
+            ],
+            "en": [
+              "Dress in layers for the indoor and outdoor transitions.",
+              "Schedule coffee breaks to warm up periodically.",
+              "The sun sets before 5:30 PM during the winter months.",
+              "Paths to the fortress may be slick if there is frost.",
+              "Enjoy the clear views, which are often best in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -694,6 +884,178 @@
           "Many cafes will allow you to park your bike within sight.",
           "The ride to the monastery is long but mostly flat after you leave the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten die Radtour vorsichtig im nassen Stadtpark. Mittags nutzen wir die Museen als lange, trockene Stopps für Geist und Räder. Nachmittags geht es bergauf zur Koulas-Festung, wobei die Reifen auf dem Asphalt etwas weniger Grip haben. Danach radeln wir durch das triefende Tal der Agioi Anargyroi, bevor die finale Etappe zum Timios Prodromos Kloster unter grauem Himmel führt.",
+            "hu": "Óvatosan kezdjük a bringázást a vizes városi parkban. Délben a múzeumokat használjuk hosszú, száraz pihenőként magunknak és a gépeknek. Délután feltekerünk a Koulas-erődhöz, figyelve a csúszósabb aszfaltra. Ezután átvágunk az ázó Agioi Anargyroi-völgyön, majd a záró szakasz a Timios Prodromos kolostorhoz vezet a szürke ég alatt.",
+            "ro": "Începem tura cu bicicleta cu atenție prin parcul ud. La prânz, folosim muzeele ca opriri lungi și uscate pentru noi și biciclete. După-amiaza urcăm spre fortăreața Koulas, atenți la aderența scăzută pe asfalt. Apoi pedalăm prin valea Agioi Anargyroi sub ploaie, finalizând traseul la mănăstirea Timios Prodromos sub un cer cenușiu.",
+            "en": "We start the bike tour cautiously in the wet city park. At noon, we use the museums as long, dry stops for ourselves and the bikes. In the afternoon, we cycle uphill to the Koulas Fortress, noting the reduced grip on the asphalt. Then we ride through the soaking Agioi Anargyroi Valley before the final leg to Timios Prodromos Monastery under grey skies."
+          },
+          "stops": [
+            {
+              "name": "Central Park of Serres",
+              "tip_5lang": {
+                "de": "Vermeiden Sie schnelle Kurven auf nassen Blättern.",
+                "hu": "Kerülje a hirtelen kanyarodást a vizes leveleken.",
+                "ro": "Evitați virajele bruște pe frunzele ude.",
+                "en": "Avoid sharp turns on wet leaves."
+              }
+            },
+            {
+              "name": "Bezesteni & Folklore Museum",
+              "tip_5lang": {
+                "de": "Fahrräder sicher und unter einem Dach abstellen.",
+                "hu": "Parkoljon biztonságos, fedett helyen a bringával.",
+                "ro": "Parcați bicicletele în siguranță sub un acoperiș.",
+                "en": "Park your bikes securely under a roof if possible."
+              }
+            },
+            {
+              "name": "Koulas Fortress",
+              "tip_5lang": {
+                "de": "Der Anstieg ist anstrengend; Regen erschwert die Sicht.",
+                "hu": "A kaptató fárasztó, az eső nehezíti a látási viszonyokat.",
+                "ro": "Urcarea este grea; ploaia îngreunează vizibilitatea.",
+                "en": "The climb is strenuous; rain makes visibility tougher."
+              }
+            },
+            {
+              "name": "Agioi Anargyroi Valley",
+              "tip_5lang": {
+                "de": "Schutzbleche sind hier Gold wert gegen Spritzwasser.",
+                "hu": "A sárvédő itt aranyat ér a felcsapódó víz ellen.",
+                "ro": "Aripile la bicicletă sunt esențiale împotriva stropirii.",
+                "en": "Mudguards are worth their weight in gold here."
+              }
+            },
+            {
+              "name": "Monastery of Timios Prodromos",
+              "tip_5lang": {
+                "de": "Die Landstraße kann bei Regen für Radfahrer tückisch sein.",
+                "hu": "Az országút esőben trükkös lehet a bicikliseknek.",
+                "ro": "Drumul național poate fi periculos pentru bicicliști pe ploaie.",
+                "en": "The country road can be tricky for cyclists in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Überschuhen wird empfohlen.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt von der Festung.",
+              "Nutzen Sie helle Lichter, da die Sicht im Regen stark abnimmt.",
+              "In der Nähe des Tals gibt es Fahrradständer unter Vordächern.",
+              "Wischen Sie die Kette nach der Tour trocken, um Rost zu vermeiden."
+            ],
+            "hu": [
+              "Teljes esőruházat és kamásli használata ajánlott.",
+              "Ellenőrizze a fékeket az erődtől való leereszkedés előtt.",
+              "Használjon erős lámpákat a rossz látási viszonyok miatt.",
+              "A völgy közelében vannak fedett kerékpártárolók.",
+              "A túra után törölje szárazra a láncot a rozsda elkerülésére."
+            ],
+            "ro": [
+              "Se recomandă echipament complet de ploaie.",
+              "Verificați frânele înainte de coborârea de la fortăreață.",
+              "Folosiți lumini puternice, vizibilitatea scade mult pe ploaie.",
+              "Lângă vale există rastele de biciclete sub copertine.",
+              "Ștergeți lanțul după tură pentru a evita rugina."
+            ],
+            "en": [
+              "Full rain gear including overshoes is highly recommended.",
+              "Check your brakes before descending from the fortress.",
+              "Use bright lights as visibility drops significantly in the rain.",
+              "There are bike racks under overhangs near the valley area.",
+              "Wipe your chain dry after the ride to prevent rust."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour beginnt erfrischend im Stadtpark. Mittags bieten die Museen die nötige Wärme, bevor wir den Berg zur Koulas-Festung erklimmen, wo uns kalter Wind erwartet. Nachmittags rollen wir durch das frostige Tal der Agioi Anargyroi. Die lange Fahrt zum Timios Prodromos Kloster erfordert gute Isolierung gegen den Fahrtwind, belohnt aber mit Stille.",
+            "hu": "A téli túra frissítően indul a városi parkban. Délben a múzeumok adják a szükséges meleget, mielőtt feltekerünk az erődhöz, ahol hideg szél fogad. Délután a fagyos Agioi Anargyroi-völgyön gurulunk át. A Timios Prodromos kolostorig tartó hosszú út jó szigetelést igényel a menetszél ellen, de csenddel jutalmaz.",
+            "ro": "Tura de iarnă începe revigorant în parcul orașului. La prânz, muzeele oferă căldura necesară înainte de a urca la fortăreață, unde ne așteaptă un vânt rece. După-amiaza rulăm prin valea înghețată Agioi Anargyroi. Drumul lung spre mănăstirea Timios Prodromos cere izolație bună împotriva vântului, dar oferă liniște.",
+            "en": "The winter tour starts refreshingly in the city park. At noon, the museums provide necessary warmth before we climb to the fortress, where cold winds await. In the afternoon, we roll through the frosty Agioi Anargyroi Valley. The long ride to Timios Prodromos Monastery requires good insulation against the wind but rewards with silence."
+          },
+          "stops": [
+            {
+              "name": "Central Park of Serres",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Stellen im Schatten der Bäume.",
+                "hu": "Vigyázzon a fagyott foltokra a fák árnyékában.",
+                "ro": "Atenție la porțiunile înghețate la umbra copacilor.",
+                "en": "Watch out for frozen patches in the shade of the trees."
+              }
+            },
+            {
+              "name": "Bezesteni & Folklore Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Finger wieder aufzuwärmen.",
+                "hu": "Használja ki a megállót az ujjai felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi degetele.",
+                "en": "Use this stop to thaw out your fingers."
+              }
+            },
+            {
+              "name": "Koulas Fortress",
+              "tip_5lang": {
+                "de": "Der Wind ist oben deutlich kälter als in der Stadt.",
+                "hu": "Fent a szél jóval hidegebb, mint a városban.",
+                "ro": "Vântul este mult mai rece sus decât în oraș.",
+                "en": "The wind is significantly colder up here than in town."
+              }
+            },
+            {
+              "name": "Agioi Anargyroi Valley",
+              "tip_5lang": {
+                "de": "Halten Sie die Fahrt kurz, wenn die Temperaturen sinken.",
+                "hu": "Tartsa rövidre a gurulást, ha süllyed a hőmérséklet.",
+                "ro": "Scurtați plimbarea dacă temperaturile scad brusc.",
+                "en": "Keep the ride brief if temperatures are dropping."
+              }
+            },
+            {
+              "name": "Monastery of Timios Prodromos",
+              "tip_5lang": {
+                "de": "Handschuhe sind für diese lange Strecke unerlässlich.",
+                "hu": "A kesztyű elengedhetetlen ehhez a hosszú szakaszhoz.",
+                "ro": "Mănușile sunt indispensabile pentru această porțiune lungă.",
+                "en": "Gloves are essential for this long stretch."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Kleidung schützt vor dem beißenden Fahrtwind.",
+              "Die Batterien von E-Bikes entladen sich bei Kälte schneller.",
+              "Trinken Sie auch bei Kälte genug, am besten warmen Tee.",
+              "Die Sonne verschwindet im Tal früher hinter den Bergen.",
+              "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit (ca. 17 Uhr) ein."
+            ],
+            "hu": [
+              "A szélálló ruházat véd a metsző menetszél ellen.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül hidegben.",
+              "Igyon eleget hidegben is, lehetőleg meleg teát.",
+              "A völgyben a nap korábban eltűnik a hegyek mögött.",
+              "Tervezze meg a visszautat sötétedés (kb. 17 óra) előtt."
+            ],
+            "ro": [
+              "Hainele rezistente la vânt protejează împotriva curentului.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Beți suficiente lichide, preferabil ceai cald.",
+              "În vale, soarele dispare mai devreme după munți.",
+              "Planificați întoarcerea înainte de lăsarea întunericului (ora 17)."
+            ],
+            "en": [
+              "Windproof clothing protects against the biting headwind.",
+              "E-bike batteries drain faster in cold temperatures.",
+              "Stay hydrated even in the cold; warm tea is best.",
+              "The sun disappears behind the mountains earlier in the valley.",
+              "Plan your return before darkness sets in around 5 PM."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1050,6 +1412,196 @@
           "A GPS is essential for navigating to the monastery and the racing circuit.",
           "Plan for extra time for photo stops in the countryside."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten trocken an der Rennstrecke von Serres, wo der Asphalt im Regen glänzt. Mittags führt die Fahrt zum abgelegenen Kloster Timios Prodromos durch eine neblige Landschaft. Nachmittags machen wir einen kurzen Stopp im Tal, bevor wir die Festung Koulas besichtigen. Den Abend verbringen wir im historischen Zentrum zwischen Bezesteni und Museum, bevor ein gemütliches Dinner den Tag krönt.",
+            "hu": "Szárazon indulunk a Serres Racing Circuit-nél, ahol az aszfalt csillog az esőben. Délben a ködös tájon át autózunk a Timios Prodromos kolostorhoz. Délután rövid megállót teszünk a völgyben, majd felhajtunk a Koulas-erődhöz. Az estét a történelmi központban töltjük a múzeumok között, végül egy hangulatos vacsora zárja a napot a városban.",
+            "ro": "Începem traseul la circuitul de curse Serres, unde asfaltul strălucește sub ploaie. La prânz, conducem prin peisajul cețos spre mănăstirea Timios Prodromos. După-amiaza facem o scurtă oprire în vale, apoi urcăm la fortăreața Koulas. Seara o petrecem în centrul istoric, vizitând Bezesteni, și încheiem cu o cină caldă în oraș.",
+            "en": "We start dry at the Serres Racing Circuit, where the asphalt shines in the rain. At noon, we drive through the misty landscape to the remote Timios Prodromos Monastery. In the afternoon, we make a quick stop in the valley before driving up to the Koulas Fortress. The evening is spent in the historic center visiting Bezesteni, followed by a cozy dinner in the city."
+          },
+          "stops": [
+            {
+              "name": "Serres Racing Circuit",
+              "tip_5lang": {
+                "de": "Vom Café aus hat man einen guten Blick auf die nasse Piste.",
+                "hu": "A kávézóból remek kilátás nyílik a vizes versenypályára.",
+                "ro": "De la cafenea aveți o vedere bună asupra pistei ude.",
+                "en": "The cafe offers a great view of the wet track."
+              }
+            },
+            {
+              "name": "Monastery of Timios Prodromos",
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Starkregen etwas rutschig sein.",
+                "hu": "Az odavezető út heves esőzéskor kissé csúszós lehet.",
+                "ro": "Drumul de acces poate fi alunecos în caz de ploaie torențială.",
+                "en": "The access road can be a bit slippery during heavy rain."
+              }
+            },
+            {
+              "name": "Agioi Anargyroi Valley",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Regenweg kurz zu halten.",
+                "hu": "Parkoljon közel a bejárathoz a gyalogút lerövidítésére.",
+                "ro": "Parcați aproape de intrare pentru a scurta drumul prin ploaie.",
+                "en": "Park close to the entrance to keep the walk in the rain short."
+              }
+            },
+            {
+              "name": "Koulas Fortress",
+              "tip_5lang": {
+                "de": "Direkte Zufahrt bis fast zum Tor ist bei Regen ideal.",
+                "hu": "A kapuig tartó közvetlen felhajtás esőben ideális.",
+                "ro": "Accesul auto până aproape de poartă este ideal pe ploaie.",
+                "en": "Driving almost to the gate is ideal when it's raining."
+              }
+            },
+            {
+              "name": "Historic Center (Bezesteni, Folklore Museum)",
+              "tip_5lang": {
+                "de": "Zentrale Parkhäuser nutzen, um trocken zu bleiben.",
+                "hu": "Használja a központi parkolóházakat, hogy száraz maradjon.",
+                "ro": "Folosiți parcările etajate centrale pentru a rămâne uscați.",
+                "en": "Use central parking garages to stay dry."
+              }
+            },
+            {
+              "name": "Dinner in the City",
+              "tip_5lang": {
+                "de": "Tischreservierung in der Nähe eines Parkplatzes empfohlen.",
+                "hu": "Asztalfoglalás javasolt egy közeli parkoló mellett.",
+                "ro": "Se recomandă rezervarea unei mese lângă o parcare.",
+                "en": "Table reservation near a parking lot is recommended."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt in die Berge.",
+              "Vermeiden Sie das Parken unter instabilen Bäumen im Tal.",
+              "Die Bergstraße zum Kloster ist bei Nebel besonders vorsichtig zu befahren.",
+              "In Serres gibt es viele Einbahnstraßen, die bei Regen unübersichtlich sind.",
+              "Lassen Sie nasse Regenschirme im Kofferraum, um Beschlagen zu vermeiden."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket a hegyi út előtt.",
+              "Kerülje a parkolást az instabil fák alatt a völgyben.",
+              "A kolostorhoz vezető út ködben fokozott óvatosságot igényel.",
+              "Serres egyirányú utcái esőben zavaróak lehetnek.",
+              "A vizes ernyőket tegye a csomagtartóba a párásodás elkerülésére."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a pleca spre munți.",
+              "Evitați parcarea sub copaci instabili în vale.",
+              "Drumul spre mănăstire cere prudență maximă pe ceață.",
+              "Străzile cu sens unic din Serres pot fi confuze pe ploaie.",
+              "Lăsați umbrelele ude în portbagaj pentru a evita aburirea geamurilor."
+            ],
+            "en": [
+              "Check your wipers before heading into the mountains.",
+              "Avoid parking under unstable trees in the valley.",
+              "The mountain road to the monastery requires extra care in fog.",
+              "Serres' one-way streets can be confusing in the rain.",
+              "Keep wet umbrellas in the trunk to prevent window fogging."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag beginnt auf der Rennstrecke mit klarer Luft. Mittags fahren wir zum Kloster Timios Prodromos, das oft von einer feinen Reifschicht überzogen ist. Nachmittags genießen wir die Aussicht von der Festung Koulas im weichen Winterlicht. Den späten Nachmittag verbringen wir im warmen Auto und in den Museen der Altstadt, bevor der Abend bei einem herzhaften Dinner ausklingt.",
+            "hu": "A téli nap tiszta levegővel indul a versenypályán. Délben a Timios Prodromos kolostorhoz autózunk, melyet gyakran zúzmara borít. Délután a Koulas-erőd kilátását élvezzük a lágy téli fényekben. A késő délutánt a meleg autóban és az óváros múzeumaiban töltjük, végül a nap egy kiadós vacsorával zárul.",
+            "ro": "Ziua de iarnă începe cu aer curat la circuitul de curse. La prânz conducem spre mănăstirea Timios Prodromos, adesea acoperită de brumă. După-amiaza admirăm vederea de la fortăreața Koulas în lumina blândă a iernii. Petrecem restul zilei în căldura mașinii și în muzeele din centrul vechi, încheind cu o cină copioasă.",
+            "en": "The winter day begins with crisp air at the racing circuit. At noon, we drive to Timios Prodromos Monastery, often dusted with frost. In the afternoon, we enjoy the views from Koulas Fortress in the soft winter light. The late afternoon is spent in the warm car and the Old Town museums before the day ends with a hearty dinner."
+          },
+          "stops": [
+            {
+              "name": "Serres Racing Circuit",
+              "tip_5lang": {
+                "de": "Warmer Kaffee im Zuschauerbereich ist ein Muss.",
+                "hu": "Egy forró kávé a nézőtéren kötelező program.",
+                "ro": "O cafea caldă în zona spectatorilor este obligatorie.",
+                "en": "A warm coffee in the viewing area is a must."
+              }
+            },
+            {
+              "name": "Monastery of Timios Prodromos",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den schattigen Bergstraßen.",
+                "hu": "Ügyeljen a jegesedésre az árnyékos hegyi utakon.",
+                "ro": "Atenție la porțiunile cu polei pe drumurile montane umbrite.",
+                "en": "Watch for black ice on shaded mountain roads."
+              }
+            },
+            {
+              "name": "Agioi Anargyroi Valley",
+              "tip_5lang": {
+                "de": "Ein kurzer Winterspaziergang reicht, um die Natur zu genießen.",
+                "hu": "Egy rövid téli séta is elég a természet élvezetéhez.",
+                "ro": "O scurtă plimbare de iarnă e suficientă pentru a vedea natura.",
+                "en": "A short winter stroll is enough to enjoy the scenery."
+              }
+            },
+            {
+              "name": "Koulas Fortress",
+              "tip_5lang": {
+                "de": "Beste Zeit für Fotos ist ca. 16:00 Uhr wegen des Lichts.",
+                "hu": "A legjobb idő a fotózáshoz 16:00 körül van a fények miatt.",
+                "ro": "Cel mai bun moment pentru poze este ora 16:00 datorită luminii.",
+                "en": "Best time for photos is around 4 PM due to the lighting."
+              }
+            },
+            {
+              "name": "Historic Center (Bezesteni, Folklore Museum)",
+              "tip_5lang": {
+                "de": "Heizung im Auto aufdrehen während der Parkplatzsuche.",
+                "hu": "Tekerje fel a fűtést az autóban parkolóhely-keresés közben.",
+                "ro": "Porniți căldura în mașină în timp ce căutați un loc de parcare.",
+                "en": "Turn up the car heater while looking for a parking spot."
+              }
+            },
+            {
+              "name": "Dinner in the City",
+              "tip_5lang": {
+                "de": "Probieren Sie lokale Suppen zum Aufwärmen.",
+                "hu": "Kóstolja meg a helyi leveseket a felmelegedéshez.",
+                "ro": "Gustați supele locale pentru a vă încălzi.",
+                "en": "Try the local soups to warm up during dinner."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind für die Fahrt zum Kloster absolut notwendig.",
+              "Halten Sie Frostschutzmittel für die Scheibenwaschanlage bereit.",
+              "Die Parkplatzsuche im Zentrum kann bei Kälte mühsam sein.",
+              "In der Höhe der Festung kann es deutlich kälter sein als im Zentrum.",
+              "Vermeiden Sie es, das Auto über Nacht mit angezogener Handbremse abzustellen."
+            ],
+            "hu": [
+              "A kolostorhoz vezető úthoz téli gumi elengedhetetlen.",
+              "Legyen kéznél fagyálló szélvédőmosó folyadék.",
+              "A központi parkolóhely-keresés hidegben fárasztó lehet.",
+              "Az erőd magasságában jóval hidegebb lehet, mint a központban.",
+              "Kerülje a kézifék behúzását hosszabb megálláskor fagyban."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii pentru drumul la mănăstire.",
+              "Aveți la îndemână lichid de parbriz rezistent la îngheț.",
+              "Căutarea unui loc de parcare în centru poate fi grea la frig.",
+              "La înălțimea fortăreței poate fi mult mai frig decât în centru.",
+              "Evitați să lăsați frâna de mână trasă pe timp de îngheț."
+            ],
+            "en": [
+              "Winter tires are absolutely necessary for the drive to the monastery.",
+              "Keep antifreeze windshield washer fluid ready.",
+              "Searching for parking in the center can be tedious in the cold.",
+              "It can be significantly colder at the fortress than in the center.",
+              "Avoid leaving the parking brake engaged overnight in freezing temps."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1382,6 +1934,178 @@
           "Most buses are modern, but peak hours can be crowded.",
           "Keep small change handy for tickets if buying directly from the driver."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am regnerischen Morgen im Stadtpark und flüchten schnell in den Bus. Mittags verbringen wir viel Zeit im trockenen Bezesteni und dem Volkskundemuseum. Nachmittags bringt uns der Bus zum Tal der Agioi Anargyroi, wo wir unter den Bäumen Schutz suchen. Den Abschluss bildet die Fahrt zur Koulas-Festung, wobei wir die Buswartezeiten im Trockenen planen.",
+            "hu": "A reggelt a vizes városi parkban kezdjük, majd gyorsan buszra szállunk. Délben sok időt töltünk a száraz Bezesteni-ben és a néprajzi múzeumban. Délután a busz az Agioi Anargyroi-völgyhöz repít, ahol a fák alatt keresünk menedéket. A napot a Koulas-erőd látogatása zárja, a buszra várást fedett helyen tervezzük.",
+            "ro": "Începem dimineața ploioasă în parcul orașului și ne grăbim spre autobuz. La prânz petrecem mult timp în Bezesteni și în muzeul de folclor, la adăpost. După-amiaza autobuzul ne duce în valea Agioi Anargyroi, unde copacii oferă protecție. Încheiem cu vizita la fortăreața Koulas, planificând așteptarea autobuzului la uscat.",
+            "en": "We start the rainy morning in the city park and quickly hop on a bus. At noon, we spend plenty of time sheltered in Bezesteni and the Folklore Museum. In the afternoon, the bus takes us to the Agioi Anargyroi Valley, where the trees provide some cover. We conclude with a visit to Koulas Fortress, planning our bus waits in dry areas."
+          },
+          "stops": [
+            {
+              "name": "Central Park of Serres",
+              "tip_5lang": {
+                "de": "Warten Sie an der überdachten Bushaltestelle in Parknähe.",
+                "hu": "Várjon a park közeli fedett buszmegállóban.",
+                "ro": "Așteptați în stația de autobuz acoperită de lângă parc.",
+                "en": "Wait at the covered bus stop near the park."
+              }
+            },
+            {
+              "name": "Bezesteni (Ottoman Market)",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die stärksten Schauer abzuwarten.",
+                "hu": "Ideális hely a leghevesebb záporok kivárására.",
+                "ro": "Loc ideal pentru a aștepta trecerea ploilor torențiale.",
+                "en": "Ideal place to wait out the heaviest downpours."
+              }
+            },
+            {
+              "name": "Folklore Museum of Serres",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg zur nächsten Haltestelle einplanen.",
+                "hu": "Tervezzen rövid gyalogutat a következő buszmegállóig.",
+                "ro": "Planificați un scurt drum pe jos până la următoarea stație.",
+                "en": "Plan for a short walk to the nearest bus stop."
+              }
+            },
+            {
+              "name": "Agioi Anargyroi Valley",
+              "tip_5lang": {
+                "de": "Busse fahren hier seltener; App zur Live-Verfolgung nutzen.",
+                "hu": "A buszok ritkábban járnak erre; használjon menetrendi appot.",
+                "ro": "Autobuzele trec mai rar pe aici; folosiți o aplicație de transport.",
+                "en": "Buses run less frequently here; use a transit app."
+              }
+            },
+            {
+              "name": "Koulas Fortress",
+              "tip_5lang": {
+                "de": "Vom Busstopp bis oben ist ein steiler, nasser Fußweg.",
+                "hu": "A buszmegállótól felfelé meredek, vizes út vezet.",
+                "ro": "De la stația de autobuz urmează un drum abrupt și ud.",
+                "en": "A steep, wet path leads up from the bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie Kleingeld für das Busticket bereit, falls nötig.",
+              "Warten Sie in Cafés, bis der Bus laut Fahrplan eintrifft.",
+              "Die Busse können bei Regen aufgrund des Verkehrs Verspätung haben.",
+              "Vermeiden Sie Stoßzeiten, um nicht in nasser Kleidung in vollen Bussen zu stehen.",
+              "Ein kleiner, stabiler Taschenschirm ist ideal für Busreisende."
+            ],
+            "hu": [
+              "Legyen kéznél aprópénz a buszjegyhez, ha szükséges.",
+              "Várjon kávézóban, amíg a busz a menetrend szerint érkezik.",
+              "Esőben a buszok a forgalom miatt késhetnek.",
+              "Kerülje a csúcsforgalmat, hogy ne vizes ruhában álljon a tömegben.",
+              "Egy kicsi, erős összecsukható ernyő ideális a buszozáshoz."
+            ],
+            "ro": [
+              "Aveți pregătit mărunțiș pentru biletul de autobuz.",
+              "Așteptați în cafenele până la ora sosirii autobuzului.",
+              "Autobuzele pot avea întârzieri din cauza traficului pe ploaie.",
+              "Evitați orele de vârf pentru a nu sta în aglomerație cu haine ude.",
+              "O umbrelă mică și rezistentă este ideală pentru cei care merg cu bus-ul."
+            ],
+            "en": [
+              "Keep small change ready for bus tickets if needed.",
+              "Wait in cafes until the bus is scheduled to arrive.",
+              "Buses may be delayed during rain due to increased traffic.",
+              "Avoid peak hours to avoid being in a crowded bus with wet clothes.",
+              "A small, sturdy folding umbrella is ideal for bus travelers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens nutzen wir den Bus zum Stadtpark, um die Kältebrücke zu minimieren. Mittags sind Bezesteni und das Volkskundemuseum perfekte Wärmestopps. Nachmittags bringt uns der Transit zum Tal und später zur Koulas-Festung, wo wir den Sonnenuntergang erleben. Wir planen die Rückfahrt sorgfältig, um nicht zu lange in der Kälte an Haltestellen zu warten.",
+            "hu": "Reggel busszal megyünk a parkig, hogy keveset legyünk a hidegben. Délben a Bezesteni és a néprajzi múzeum tökéletes melegedőhelyek. Délután busszal utazunk a völgyhöz, majd az erődhöz a naplementére. A visszautat gondosan tervezzük, hogy ne kelljen sokat fagyoskodni a megállókban.",
+            "ro": "Dimineața luăm autobuzul spre parc pentru a minimiza expunerea la frig. La prânz, Bezesteni și muzeul de folclor sunt locuri ideale pentru încălzire. După-amiaza mergem cu bus-ul la vale și apoi la fortăreață pentru apus. Planificăm întoarcerea cu grijă pentru a nu aștepta mult în frig în stații.",
+            "en": "In the morning, we take the bus to the park to minimize time in the cold. At noon, Bezesteni and the Folklore Museum are perfect warming-up spots. In the afternoon, we travel by bus to the valley and later to the fortress for the sunset. We plan our return carefully to avoid long waits at freezing bus stops."
+          },
+          "stops": [
+            {
+              "name": "Central Park of Serres",
+              "tip_5lang": {
+                "de": "Zügiger Umstieg in den Bus, um warm zu bleiben.",
+                "hu": "Gyors átszállás a buszra a melegen maradás érdekében.",
+                "ro": "Transfer rapid la autobuz pentru a rămâne la căldură.",
+                "en": "Quick transfer to the bus to stay warm."
+              }
+            },
+            {
+              "name": "Bezesteni (Ottoman Market)",
+              "tip_5lang": {
+                "de": "Guter Ort, um auf die nächste Verbindung zu warten.",
+                "hu": "Jó hely a következő csatlakozás megvárására.",
+                "ro": "Loc bun pentru a aștepta următoarea legătură.",
+                "en": "Good spot to wait for your next connection."
+              }
+            },
+            {
+              "name": "Folklore Museum of Serres",
+              "tip_5lang": {
+                "de": "Das Museum ist gut geheizt und ein toller Zwischenstopp.",
+                "hu": "A múzeum jól fűtött, kiváló pihenőhely.",
+                "ro": "Muzeul este bine încălzit și este un punct de oprire excelent.",
+                "en": "The museum is well-heated and makes for a great stop."
+              }
+            },
+            {
+              "name": "Agioi Anargyroi Valley",
+              "tip_5lang": {
+                "de": "Letzte Busse zurück in die Stadt fahren gegen 20 Uhr.",
+                "hu": "Az utolsó buszok 20 óra körül indulnak vissza a városba.",
+                "ro": "Ultimele autobuze spre oraș pleacă în jurul orei 20.",
+                "en": "Last buses back to the city depart around 8 PM."
+              }
+            },
+            {
+              "name": "Koulas Fortress",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Haltestelle hält den Kreislauf in Schwung.",
+                "hu": "A megállótól tartó gyaloglás segít a vérkeringésnek.",
+                "ro": "Mersul pe jos de la stație vă ajută să vă mențineți calzi.",
+                "en": "The walk from the stop helps keep your circulation going."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Wartezeiten für ein heißes Getränk to-go.",
+              "Die Busse sind im Winter meist gut beheizt.",
+              "Achten Sie auf geänderte Fahrpläne während der Winterferien.",
+              "Sitzplätze in der Nähe der Heizung im Bus sind heiß begehrt.",
+              "Tragen Sie Reflektoren, da es früh dunkel wird und Haltestellen oft düster sind."
+            ],
+            "hu": [
+              "Használja ki a várakozást egy forró elviteles italra.",
+              "A buszok télen általában jól fűtöttek.",
+              "Ügyeljen a téli szünet alatti módosított menetrendre.",
+              "A buszon a fűtés közeli helyek hamar elfogynak.",
+              "Viseljen fényvisszaverőt, mert korán sötétedik és a megállók sötétek."
+            ],
+            "ro": [
+              "Folosiți timpul de așteptare pentru a lua o băutură caldă.",
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Atenție la orarele modificate în timpul vacanței de iarnă.",
+              "Locurile de lângă caloriferele din autobuz se ocupă primele.",
+              "Purtați elemente reflectorizante, se întunecă devreme în stații."
+            ],
+            "en": [
+              "Use wait times to grab a hot drink to go.",
+              "Buses are usually well-heated during the winter months.",
+              "Check for modified schedules during winter holidays.",
+              "Seats near the bus heaters are very popular.",
+              "Wear reflectors as it gets dark early and bus stops can be dim."
+            ]
+          }
+        }
       }
     }
   }

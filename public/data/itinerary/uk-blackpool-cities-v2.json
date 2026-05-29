@@ -386,6 +386,206 @@
           "A power bank for your phone is a good idea, as you'll be taking lots of photos.",
           "The Illuminations are seasonal (autumn), check the dates before you visit."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Tag in Blackpool beginnt am North Pier, wo die viktorianischen Arkaden Schutz bieten. Mittags flüchten wir in den majestätischen Tower und das Grand Theatre, um dem Wind der Irischen See zu entgehen. Der Nachmittag gehört den prachtvollen Hallen der Winter Gardens. Trotz Pfützen bleibt der Spaziergang entlang der Promenade stimmungsvoll, bevor die Lichter im Regen funkeln.",
+            "hu": "Egy esős nap Blackpoolban a North Pier fedett árkádjai alatt kezdődik. Délben a Blackpool Tower és a Grand Theatre belső terei nyújtanak menedéket az ír-tengeri szél elől. Délután a Winter Gardens lenyűgöző viktoriánus csarnokait fedezzük fel. Bár a parton fúj a szél, a Golden Mile játéktermei és a kivilágított sétány az esőben is különleges, csillogó hangulatot árasztanak.",
+            "ro": "O zi ploioasă în Blackpool începe la North Pier, unde arcadele victoriene oferă adăpost. La prânz, ne refugiem în turnul iconic și la Grand Theatre pentru a scăpa de rafalele de pe Marea Irlandei. După-amiaza este dedicată sălilor splendide de la Winter Gardens. În ciuda bălților, plimbarea pe faleză rămâne atmosferică, iar luminile orașului strălucesc spectaculos prin stropii de ploaie.",
+            "en": "A rainy day in Blackpool starts under the Victorian sunshades of North Pier. By noon, the Tower and Grand Theatre provide grand indoor escapes from the Irish Sea's mist. The afternoon is spent exploring the vast, dry corridors of Winter Gardens. Despite the damp promenade, the Golden Mile's arcades and the evening Illuminations glow with a unique, reflected brilliance in the wet streets."
+          },
+          "stops": [
+            {
+              "name": "North Pier",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Gehwege des Piers.",
+                "hu": "Használja a móló fedett sétányait az eső ellen.",
+                "ro": "Folosiți aleile acoperite ale debarcaderului.",
+                "en": "Utilize the pier's covered walkways for shelter."
+              }
+            },
+            {
+              "name": "Blackpool Tower",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um das Wetter draußen zu vergessen.",
+                "hu": "Tökéletes helyszín, hogy elfelejtse a kinti esőt.",
+                "ro": "Locul perfect pentru a uita de vremea de afară.",
+                "en": "The ultimate indoor escape with a view."
+              }
+            },
+            {
+              "name": "Grand Theatre",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Decke, während es draußen regnet.",
+                "hu": "Csodálja meg a belső teret, amíg kint esik.",
+                "ro": "Admirați interiorul în timp ce afară plouă.",
+                "en": "Admire the Victorian decor while staying dry."
+              }
+            },
+            {
+              "name": "Winter Gardens",
+              "tip_5lang": {
+                "de": "Ein riesiger Komplex, ideal für lange Regenpausen.",
+                "hu": "Hatalmas épületegyüttes, ideális esőben.",
+                "ro": "Complex imens, ideal pentru pauze lungi de ploaie.",
+                "en": "Massive indoor complex, perfect for heavy rain."
+              }
+            },
+            {
+              "name": "The Golden Mile",
+              "tip_5lang": {
+                "de": "Die Spielhallen bieten trockene Unterhaltung.",
+                "hu": "A játéktermek száraz szórakozást nyújtanak.",
+                "ro": "Sălile de jocuri oferă divertisment la uscat.",
+                "en": "Arcades along the front provide dry entertainment."
+              }
+            },
+            {
+              "name": "Blackpool Pleasure Beach",
+              "tip_5lang": {
+                "de": "Einige Fahrgeschäfte sind überdacht; Regenjacke mitnehmen.",
+                "hu": "Néhány játék fedett; vigyen esőkabátot.",
+                "ro": "Unele atracții sunt acoperite; luați o pelerină.",
+                "en": "Some rides are sheltered; bring a waterproof poncho."
+              }
+            },
+            {
+              "name": "Blackpool Illuminations",
+              "tip_5lang": {
+                "de": "Die Lichter spiegeln sich wunderschön in den Pfützen.",
+                "hu": "A fények gyönyörűen tükröződnek a tócsákban.",
+                "ro": "Luminile se reflectă superb în bălți.",
+                "en": "The lights look even more magical in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine windfeste Regenjacke; Regenschirme klappen bei Wind oft um.",
+              "Die Straßenbahnen sind eine gute trockene Alternative für weite Strecken.",
+              "Winter Gardens ist der beste Ort für eine längere Pause im Trockenen.",
+              "Achten Sie auf rutschige Pflastersteine an der Promenade."
+            ],
+            "hu": [
+              "Viseljen szélálló esőkabátot; az ernyőket gyakran kifordítja a tengeri szél.",
+              "A villamos kiváló száraz alternatíva a parti szakaszokon.",
+              "A Winter Gardens a legjobb hely egy hosszabb, fedett pihenőhöz.",
+              "Vigyázzon a csúszós burkolatokra a sétányon."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă rezistentă la vânt; umbrelele se strică des aici.",
+              "Tramvaiul este o alternativă excelentă și uscată pentru distanțe lungi.",
+              "Winter Gardens este cel mai bun loc pentru o pauză lungă la adăpost.",
+              "Atenție la pavajul alunecos de pe faleză."
+            ],
+            "en": [
+              "Wear a windproof raincoat; umbrellas often flip in the coastal gusts.",
+              "The heritage trams offer a great dry way to see the seafront.",
+              "Winter Gardens is the best spot for a long, warm indoor break.",
+              "Watch out for slippery surfaces on the promenade."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter in Blackpool ist erfrischend und glitzernd. Der Morgen startet im Stanley Park, wo der Frost die Bäume verzaubert. Mittags bieten die historischen Theater wohlige Wärme. Wenn die Sonne schon gegen 16 Uhr untergeht, erstrahlt die Promenade im vollen Glanz der weltberühmten Illuminations. Ein heißer Kakao am Pier rundet den kühlen, aber magischen Tag an der Küste ab.",
+            "hu": "A tél Blackpoolban frissítő és csillogó. A reggel a Stanley Parkban indul, ahol a dér ezüstbe vonja a fákat. Délben a történelmi színházak belső terei nyújtanak meleget. Mivel a nap már délután 4 körül lemegy, a sétány hamar fényárba borul a világhírű Illuminations díszkivilágításnak köszönhetően. Egy forró kakaó a mólón tökéletes zárása a hűvös parti napnak.",
+            "ro": "Iarna în Blackpool este revigorantă și strălucitoare. Dimineața începe în Stanley Park, unde chiciura îmbracă arborii. La prânz, teatrele istorice oferă căldură primitoare. Deoarece soarele apune deja în jurul orei 16, faleza strălucește rapid sub faimoasele Iluminații. O ciocolată caldă pe debarcader încheie perfect această zi răcoroasă, dar magică la malul mării.",
+            "en": "Winter in Blackpool is crisp and sparkling. The morning begins in Stanley Park, where frost dusts the landscape. By noon, historical venues provide a cozy retreat. With sunset arriving early around 4 PM, the promenade transforms early into a neon wonderland during the Illuminations. A hot drink on the pier is the perfect finale to a chilly but magical coastal winter day."
+          },
+          "stops": [
+            {
+              "name": "North Pier",
+              "tip_5lang": {
+                "de": "Atemberaubende Aussicht auf das winterliche Meer.",
+                "hu": "Lélegzetelállító kilátás a téli tengerre.",
+                "ro": "Vedere spectaculoasă asupra mării în timpul iernii.",
+                "en": "Stunning views of the winter sea; dress warmly."
+              }
+            },
+            {
+              "name": "Blackpool Tower",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick von oben aus der Wärme.",
+                "hu": "Élvezze a kilátást a fűtött kilátóból.",
+                "ro": "Bucurați-vă de priveliște din interiorul încălzit.",
+                "en": "Enjoy the panoramic views from the heated interior."
+              }
+            },
+            {
+              "name": "Grand Theatre",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Rückzugsort vor der Winterkälte.",
+                "hu": "Hangulatos menedék a téli hideg elől.",
+                "ro": "Un refugiu primitor împotriva frigului de iarnă.",
+                "en": "A cozy cultural retreat from the winter chill."
+              }
+            },
+            {
+              "name": "Winter Gardens",
+              "tip_5lang": {
+                "de": "Prachtvolle Architektur ohne Frieren genießen.",
+                "hu": "Pompás építészet fázás nélkül.",
+                "ro": "Arhitectură superbă fără a îndura frigul.",
+                "en": "Magnificent architecture best enjoyed indoors."
+              }
+            },
+            {
+              "name": "The Golden Mile",
+              "tip_5lang": {
+                "de": "Schneller Spaziergang zwischen warmen Cafés.",
+                "hu": "Gyors séta a meleg kávézók között.",
+                "ro": "O plimbare rapidă între cafenele calde.",
+                "en": "Quick stroll between warm seaside cafes."
+              }
+            },
+            {
+              "name": "Blackpool Pleasure Beach",
+              "tip_5lang": {
+                "de": "Prüfen Sie die saisonalen Öffnungszeiten im Winter.",
+                "hu": "Ellenőrizze a téli szezonális nyitvatartást.",
+                "ro": "Verificați programul sezonier de iarnă.",
+                "en": "Check seasonal opening times for winter events."
+              }
+            },
+            {
+              "name": "Blackpool Illuminations",
+              "tip_5lang": {
+                "de": "Im Winter das absolute Highlight nach Sonnenuntergang.",
+                "hu": "Télen az abszolút fénypont naplemente után.",
+                "ro": "Punctul culminant al iernii după apusul soarelui.",
+                "en": "The ultimate winter highlight after the early sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht früh unter, ideal um die Lichter zu sehen.",
+              "Tragen Sie Schichten; der Wind vom Meer ist im Winter sehr bissig.",
+              "Viele Cafés bieten spezielle Wintergetränke an.",
+              "Die Promenade kann bei Frost glatt sein."
+            ],
+            "hu": [
+              "A nap korán nyugszik, ami ideális a díszkivilágításhoz.",
+              "Öltözzön rétegesen; a tengeri szél télen nagyon metsző.",
+              "Sok kávézó kínál különleges téli italokat.",
+              "A sétány fagy esetén csúszós lehet."
+            ],
+            "ro": [
+              "Soarele apune devreme, ideal pentru a vedea luminile.",
+              "Îmbrăcați-vă în straturi; vântul mării este tăios iarna.",
+              "Multe cafenele oferă băuturi sezoniere de iarnă.",
+              "Faleza poate fi alunecoasă în caz de îngheț."
+            ],
+            "en": [
+              "Sunset is early (around 4pm), perfect for the light show.",
+              "Layer up; the sea breeze is particularly biting in winter.",
+              "Warm up with seasonal specials in the local tea rooms.",
+              "Be cautious of icy patches on the sea wall paths."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -722,7 +922,189 @@
         "Nehmen Sie ein gutes Schloss mit, besonders wenn Sie vorhaben, Attraktionen zu betreten.",
         "Der Wind kann an der Küste stark sein, seien Sie also vorbereitet.",
         "Stanley Park ist ein großartiger Ausgangspunkt mit guten Parkmöglichkeiten, wenn Sie mit dem Auto anreisen."
-      ]
+      ],
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln im Regen erfordert in Blackpool Mut, belohnt aber mit leeren Wegen. Vom Stanley Park geht es durch Pfützen zu den Winter Gardens. Die Promenade ist windig, doch die Fahrt entlang der Golden Mile hat einen rauen Charme. Die salzige Gischt vermischt sich mit dem Regen, während man die Küste erkundet, bevor man sich im Pleasure Beach unterstellt.",
+            "hu": "Az esőben biciklizés Blackpoolban bátorságot igényel, de üres utakkal jutalmaz. A Stanley Parkból indulva tócsákon át jutunk a Winter Gardens-ig. A sétány szeles, de a Golden Mile menti tekerésnek megvan a maga nyers bája. A sós tengeri permet keveredik az esővel, miközben a partvonalat fedezzük fel, mielőtt a Pleasure Beachnél keresnénk fedezéket.",
+            "ro": "Mersul pe bicicletă în ploaie necesită curaj, dar oferă trasee libere. Din Stanley Park trecem prin bălți spre Winter Gardens. Faleza este vântoasă, dar cursa de-a lungul Golden Mile are un farmec aparte. Aerul sărat se amestecă cu ploaia în timp ce explorezi coasta, înainte de a găsi adăpost la Pleasure Beach.",
+            "en": "Cycling in the rain takes grit in Blackpool but rewards you with quiet paths. Ride from Stanley Park through the mist to the grand Winter Gardens. The promenade is breezy, but the Golden Mile stretch feels dramatic with the churning sea. Salt spray mixes with rain as you conquer the coastal route before taking a break at the Pleasure Beach."
+          },
+          "stops": [
+            {
+              "name": "Stanley Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassen Blättern auf den Parkwegen.",
+                "hu": "Vigyázzon a vizes levelekre a park útjain.",
+                "ro": "Atenție la frunzele ude de pe aleile parcului.",
+                "en": "Be careful of wet leaves on the park's cycle paths."
+              }
+            },
+            {
+              "name": "Winter Gardens",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer in der Nähe des Eingangs.",
+                "hu": "Biztonságos biciklitárolók a bejárat közelében.",
+                "ro": "Rasteluri de biciclete sigure lângă intrare.",
+                "en": "Secure bike racks available near the main entrance."
+              }
+            },
+            {
+              "name": "Blackpool Tower",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für ein Foto; Boden ist oft rutschig.",
+                "hu": "Gyors fotómegálló; a talaj gyakran csúszós.",
+                "ro": "Oprire scurtă pentru poze; solul este alunecos.",
+                "en": "Quick photo stop; the ground can be slick here."
+              }
+            },
+            {
+              "name": "North Pier",
+              "tip_5lang": {
+                "de": "Am Eingang parken; auf dem Pier ist Radfahren verboten.",
+                "hu": "Parkoljon a bejáratnál; a mólón tilos biciklizni.",
+                "ro": "Parcați la intrare; mersul pe bicicletă e interzis pe moll.",
+                "en": "Park at the entrance; cycling is prohibited on the pier."
+              }
+            },
+            {
+              "name": "The Golden Mile",
+              "tip_5lang": {
+                "de": "Nutzen Sie den breiten Radweg an der Promenade.",
+                "hu": "Használja a sétány széles kerékpárútját.",
+                "ro": "Folosiți pista de biciclete lată de pe faleză.",
+                "en": "Use the dedicated wide cycle lane on the promenade."
+              }
+            },
+            {
+              "name": "Blackpool Pleasure Beach",
+              "tip_5lang": {
+                "de": "Überdachte Bereiche zum Unterstellen bei Schauern.",
+                "hu": "Fedett területek eső elleni menedékhez.",
+                "ro": "Zone acoperite pentru a vă adăposti de averse.",
+                "en": "Covered areas nearby to shelter during downpours."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie volle Regenmontur; der Wind drückt Wasser überall hin.",
+              "Vorsicht bei den Straßenbahnschienen – bei Nässe extrem rutschig!",
+              "Bremsen Sie frühzeitig auf den glatten Promenadenwegen.",
+              "Nutzen Sie Schutzbleche, um den Schlamm fernzuhalten."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot; a szél mindenhová befújja a vizet.",
+              "Vigyázzon a villamossínekkel – vizesen rendkívül csúszósak!",
+              "Fékezzen időben a sétány sima burkolatán.",
+              "Használjon sárvédőt a felcsapódó víz ellen."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie; vântul împinge apa peste tot.",
+              "Atenție la șinele de tramvai – extrem de alunecoase pe ud!",
+              "Frânați din timp pe pavajul neted al falezei.",
+              "Folosiți apărători de noroi pentru a rămâne cât de cât uscat."
+            ],
+            "en": [
+              "Full waterproofs are a must; the wind drives rain from all angles.",
+              "Beware of tram tracks – they are lethal when wet!",
+              "Brake early on the smooth promenade surfaces.",
+              "Mudguards are essential to avoid spray from the road."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour in Blackpool ist belebend. Der Stanley Park wirkt im Frost wie erstarrt, während die Fahrt zur Stadtmitte die Lebensgeister weckt. An der Promenade weht eine steife Brise, aber die freie Sicht auf das Nordmeer ist unbezahlbar. Wenn es dunkel wird, radelt man durch das Lichtermeer der Illuminations – ein unvergessliches Erlebnis in der klaren Winterluft.",
+            "hu": "Egy téli kerékpártúra Blackpoolban igazán élénkítő. A Stanley Park dérlepte tája után a városközpont felé tekerés felébreszti az érzékeket. A sétányon metsző szél fúj, de a tiszta kilátás az Északi-tengerre megfizethetetlen. Amint sötétedik, az Illuminations fényei között tekerhetünk – felejthetetlen élmény a friss téli levegőn.",
+            "ro": "O tură cu bicicleta iarna în Blackpool este revigorantă. Stanley Park pare înghețat, în timp ce drumul spre centru te trezește la viață. Pe faleză bate un vânt tăios, dar vederea clară spre Marea Nordului este neprețuită. Pe măsură ce se întunecă, pedalezi prin marea de lumini a Iluminațiilor – o experiență de neuitat în aerul rece.",
+            "en": "Winter cycling in Blackpool is an invigorating challenge. Stanley Park looks stark and beautiful in the frost, while the ride to the front wakes you up instantly. The promenade wind is stiff, but the clear horizon over the Irish Sea is priceless. As dusk falls, cycling through the Illuminations is a bucket-list experience in the sharp winter air."
+          },
+          "stops": [
+            {
+              "name": "Stanley Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen im Schatten.",
+                "hu": "Vigyázzon a jeges foltokra az árnyékos részeken.",
+                "ro": "Atenție la porțiunile înghețate de la umbră.",
+                "en": "Watch out for black ice in shaded park areas."
+              }
+            },
+            {
+              "name": "Winter Gardens",
+              "tip_5lang": {
+                "de": "Perfekt für eine Aufwärmpause zwischendurch.",
+                "hu": "Tökéletes egy melegedő szünetre útközben.",
+                "ro": "Perfect pentru o pauză de încălzire pe traseu.",
+                "en": "An excellent spot to warm up your hands mid-ride."
+              }
+            },
+            {
+              "name": "Blackpool Tower",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab, bevor Sie hochgehen.",
+                "hu": "Zárja le biztonságosan a biciklit, mielőtt felmegy.",
+                "ro": "Asigurați bicicleta înainte de a urca în turn.",
+                "en": "Lock your bike securely before heading up the tower."
+              }
+            },
+            {
+              "name": "North Pier",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wintersonne am Ende des Piers.",
+                "hu": "Élvezze a téli napsütést a móló végén.",
+                "ro": "Bucurați-vă de soarele de iarnă la capătul moll-ului.",
+                "en": "Catch the low winter sun at the end of the pier."
+              }
+            },
+            {
+              "name": "The Golden Mile",
+              "tip_5lang": {
+                "de": "Halten Sie sich in Bewegung, um warm zu bleiben.",
+                "hu": "Maradjon mozgásban, hogy ne fázzon.",
+                "ro": "Rămâneți în mișcare pentru a vă menține căldura.",
+                "en": "Keep moving to maintain your body temperature."
+              }
+            },
+            {
+              "name": "Blackpool Pleasure Beach",
+              "tip_5lang": {
+                "de": "Einige Wege können im Winter gesperrt sein.",
+                "hu": "Néhány út télen lezárva lehet.",
+                "ro": "Unele căi pot fi închise pe timpul iernii.",
+                "en": "Some access routes may be restricted in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Handschuhe; die Finger frieren schnell am Lenker ein.",
+              "Das Tageslicht endet früh; prüfen Sie Ihre Fahrradbeleuchtung.",
+              "Vermeiden Sie die untere Promenade bei Sturmflutgefahr.",
+              "Ein heißes Getränk ist nach der Tour Pflicht."
+            ],
+            "hu": [
+              "Viseljen hőtartó kesztyűt; az ujjak hamar ráfagynak a kormányra.",
+              "A nappali fény korán véget ér; ellenőrizze a lámpákat.",
+              "Kerülje az alsó sétányt vihardagály idején.",
+              "A túra után kötelező egy forró ital."
+            ],
+            "ro": [
+              "Purtați mănuși termice; degetele îngheață repede pe ghidon.",
+              "Lumina zilei dispare devreme; verificați luminile bicicletei.",
+              "Evitați faleza inferioară în timpul mareelor înalte.",
+              "O băutură caldă este obligatorie după cursă."
+            ],
+            "en": [
+              "Wear thermal gloves; fingers freeze quickly on the handlebars.",
+              "Daylight is short; ensure your bike lights are fully charged.",
+              "Avoid the lower walk in high winds due to sea spray icing.",
+              "Plan your route to end near a warm cafe for a post-ride brew."
+            ]
+          }
+        }
+      }
     },
     "car": {
       "mode": "car",
@@ -1102,6 +1484,206 @@
           "Be aware of parking restrictions. Parking tickets are common.",
           "A car allows you to easily explore nearby towns like Lytham or Cleveleys."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto lässt sich Blackpools Regenwetter bequem aussitzen. Die Tour beginnt im ruhigen Stanley Park, bevor man zum Pleasure Beach fährt, wo man im Wagen auf trockene Momente wartet. Entlang der Golden Mile genießt man den Blick auf die tosende See, ohne nass zu werden. Der Tag endet sicher und trocken an den hell erleuchteten Piers und Theatern der Stadtmitte.",
+            "hu": "Autóval kényelmesen átvészelhető Blackpool esős időjárása. A túra a nyugodt Stanley Parkban kezdődik, majd a Pleasure Beach felé vesszük az irányt, ahol a kocsiból várhatjuk meg a szárazabb pillanatokat. A Golden Mile mentén a viharos tenger látványát élvezhetjük anélkül, hogy eláznánk. A nap biztonságban és szárazon ér véget a kivilágított mólók és színházak közelében.",
+            "ro": "Cu mașina, vremea ploioasă din Blackpool poate fi gestionată confortabil. Turul începe în liniștitul Stanley Park, apoi mergem spre Pleasure Beach, unde putem aștepta în mașină momentele fără ploaie. De-a lungul Golden Mile, admirăm marea agitată fără a ne uda. Ziua se încheie în siguranță și confort lângă falezele și teatrele luminate din centru.",
+            "en": "A car is the ultimate refuge from Blackpool's coastal rain. Start in the serene Stanley Park, then drive down to the Pleasure Beach where you can wait out heavy showers in comfort. Cruise along the Golden Mile for a front-row seat to the crashing waves while staying dry. Finish your day exploring the illuminated town centre from the warmth of your vehicle."
+          },
+          "stops": [
+            {
+              "name": "Stanley Park",
+              "tip_5lang": {
+                "de": "Großer Parkplatz in der Nähe des Cafés.",
+                "hu": "Nagy parkoló a kávézó közelében.",
+                "ro": "Parcare mare în apropierea cafenelei.",
+                "en": "Ample parking available near the lakeside cafe."
+              }
+            },
+            {
+              "name": "Blackpool Pleasure Beach",
+              "tip_5lang": {
+                "de": "Nutzen Sie die offiziellen Parkplätze direkt am Park.",
+                "hu": "Használja a park melletti hivatalos parkolókat.",
+                "ro": "Folosiți parcările oficiale de lângă parc.",
+                "en": "Use the main car parks located directly at the park."
+              }
+            },
+            {
+              "name": "The Golden Mile (Walk)",
+              "tip_5lang": {
+                "de": "Parkhäuser im Zentrum nutzen für kurzen Fußweg.",
+                "hu": "Használja a központi parkolóházakat a rövid sétához.",
+                "ro": "Folosiți parcările etajate din centru.",
+                "en": "Use multi-storey car parks for a short dry walk."
+              }
+            },
+            {
+              "name": "Blackpool Tower (Cluster)",
+              "tip_5lang": {
+                "de": "Zentrales Parken ermöglicht schnellen Zugang.",
+                "hu": "Központi parkolás gyors bejutást tesz lehetővé.",
+                "ro": "Parcarea centrală permite accesul rapid.",
+                "en": "Central parking allows for quick indoor access."
+              }
+            },
+            {
+              "name": "Grand Theatre",
+              "tip_5lang": {
+                "de": "Lassen Sie Passagiere direkt am Eingang aussteigen.",
+                "hu": "Tegye ki az utasokat közvetlenül a bejáratnál.",
+                "ro": "Lăsați pasagerii chiar la intrare.",
+                "en": "Drop off passengers near the entrance to avoid rain."
+              }
+            },
+            {
+              "name": "Winter Gardens",
+              "tip_5lang": {
+                "de": "Nahes Parken im Houndshill Shopping Centre.",
+                "hu": "Parkoljon a közeli Houndshill bevásárlóközpontban.",
+                "ro": "Parcați la Houndshill Shopping Centre din apropiere.",
+                "en": "Park at nearby Houndshill Centre for covered access."
+              }
+            },
+            {
+              "name": "North Pier",
+              "tip_5lang": {
+                "de": "Parken an der Promenade bei Regen oft einfacher.",
+                "hu": "A sétányon parkolás esőben gyakran egyszerűbb.",
+                "ro": "Parcarea pe faleză e mai ușoară când plouă.",
+                "en": "On-street parking is often easier to find in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Promenade kann bei starkem Wind für Autos gesperrt werden.",
+              "Parken Sie in Parkhäusern, um beim Aussteigen trocken zu bleiben.",
+              "Nutzen Sie die Scheibenwischer auf höchster Stufe wegen der Gischt.",
+              "Achten Sie auf Fußgänger, die plötzlich Schutz suchen."
+            ],
+            "hu": [
+              "Erős szélben a sétányt lezárhatják az autók előtt.",
+              "Parkoljon parkolóházban, hogy kiszálláskor száraz maradjon.",
+              "Használja a törlőt magas fokozaton a sós pára miatt.",
+              "Figyeljen a hirtelen menedéket kereső gyalogosokra."
+            ],
+            "ro": [
+              "Faleza poate fi închisă pentru mașini în caz de vânt puternic.",
+              "Parcați în parcări acoperite pentru a rămâne uscat.",
+              "Folosiți ștergătoarele la maximum din cauza stropilor de sare.",
+              "Atenție la pietonii care caută brusc adăpost."
+            ],
+            "en": [
+              "The promenade road can occasionally close during gale-force winds.",
+              "Choose covered multi-storey parking to stay dry when arriving.",
+              "Salt spray can smear windscreens; keep your washer fluid topped up.",
+              "Watch for pedestrians darting across the road to find shelter."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist eine Autofahrt durch Blackpool besonders stimmungsvoll. Vom gefrorenen Stanley Park geht es zur Küste, wo man den Sonnenuntergang bequem aus dem beheizten Wagen beobachtet. Das Highlight ist die Fahrt durch die weltberühmten Illuminations – kilometerlange Lichtinstallationen, die man am besten im warmen Auto bei leiser Musik genießt, während draußen der Winterwind heult.",
+            "hu": "Télen az autózás Blackpoolban különösen hangulatos. A fagyos Stanley Parkból a part felé vesszük az irányt, ahol a naplementét a fűtött kocsiból nézhetjük végig. A csúcspont az Illuminations fényei közötti autózás – kilométereken át tartó fényinstallációk, amiket a legjobb a meleg autóban, halk zene mellett élvezni, miközben kint süvít a téli szél.",
+            "ro": "Iarna, o plimbare cu mașina prin Blackpool este deosebit de atmosferică. De la Stanley Park înghețat mergem spre coastă, unde apusul poate fi admirat din mașina încălzită. Punctul culminant este drumul prin Iluminații – kilometri de instalații luminoase, cel mai bine savurate în căldură, cu muzică în surdină, în timp ce afară vântul iernii șuieră.",
+            "en": "Winter driving in Blackpool offers a cozy perspective on the coast. From the frosty lanes of Stanley Park to the seafront, enjoy the golden hour from your heated seats. The highlight is the 'Ride the Lights' experience – driving through miles of the world-famous Illuminations, best enjoyed with music playing while the winter wind howls outside your windows."
+          },
+          "stops": [
+            {
+              "name": "Stanley Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor Straßenglätte am frühen Morgen.",
+                "hu": "Vigyázzon az út jegesedésére kora reggel.",
+                "ro": "Atenție la polei pe drum dimineața devreme.",
+                "en": "Be cautious of black ice on the park access roads."
+              }
+            },
+            {
+              "name": "Blackpool Pleasure Beach",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den Weg vom Parkplatz bereit halten.",
+                "hu": "Készítsen ki meleg ruhát a parkolótól való sétához.",
+                "ro": "Pregătiți haine groase pentru drumul de la parcare.",
+                "en": "Keep warm coats ready for the walk from the car park."
+              }
+            },
+            {
+              "name": "The Golden Mile (Walk)",
+              "tip_5lang": {
+                "de": "Kurz parken für Fotos der beleuchteten Promenade.",
+                "hu": "Parkoljon le rövid időre a kivilágított sétány fotózásához.",
+                "ro": "Parcați scurt pentru poze cu faleza iluminată.",
+                "en": "Find a quick parking spot for photos of the lights."
+              }
+            },
+            {
+              "name": "Blackpool Tower (Cluster)",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Stoßzeiten während der Illuminations.",
+                "hu": "Kerülje a csúcsidőt az Illuminations alatt.",
+                "ro": "Evitați orele de vârf în timpul Iluminațiilor.",
+                "en": "Avoid peak traffic times during the main light season."
+              }
+            },
+            {
+              "name": "Grand Theatre",
+              "tip_5lang": {
+                "de": "Parken Sie im warmen Parkhaus in der Nähe.",
+                "hu": "Parkoljon a közeli, fűtött parkolóházban.",
+                "ro": "Parcați în parcarea acoperită din apropiere.",
+                "en": "Park in a nearby multi-storey to keep the car from freezing."
+              }
+            },
+            {
+              "name": "Winter Gardens",
+              "tip_5lang": {
+                "de": "Ideal für einen Stopp, wenn es draußen zu kalt ist.",
+                "hu": "Ideális megálló, ha kint túl hideg van.",
+                "ro": "Oprire ideală când afară este prea frig.",
+                "en": "A perfect indoor stop when the coastal wind bites."
+              }
+            },
+            {
+              "name": "North Pier",
+              "tip_5lang": {
+                "de": "Der Blick auf den beleuchteten Pier ist vom Auto toll.",
+                "hu": "A kivilágított móló látványa az autóból is remek.",
+                "ro": "Vederea asupra moll-ului luminat e superbă din mașină.",
+                "en": "The view of the illuminated pier is great from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Rechnen Sie mit Stau auf der Promenade während der Illuminations.",
+              "Prüfen Sie den Frostschutz in Ihrem Kühlsystem.",
+              "Die Parkgebühren können in der Hochsaison (Lichter) steigen.",
+              "Nutzen Sie Sitzheizungen für maximalen Komfort."
+            ],
+            "hu": [
+              "Számítson dugókra a sétányon az Illuminations idején.",
+              "Ellenőrizze a fagyállót a hűtőrendszerben.",
+              "A parkolási díjak emelkedhetnek a fényfesztivál alatt.",
+              "Használja az ülésfűtést a maximális kényelemért."
+            ],
+            "ro": [
+              "Așteptați-vă la aglomerație pe faleză în timpul Iluminațiilor.",
+              "Verificați antigelul în sistemul de răcire.",
+              "Tarifele de parcare pot crește în sezonul luminilor.",
+              "Folosiți încălzirea în scaune pentru confort maxim."
+            ],
+            "en": [
+              "Expect heavy traffic on the promenade during the Illuminations.",
+              "Ensure your antifreeze levels are correct for the coastal freeze.",
+              "Parking charges may be higher during the peak autumn/winter season.",
+              "Use seat heaters to stay cozy while watching the waves."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1482,6 +2064,206 @@
           "Download the Blackpool Transport app for live times and route planning.",
           "Be aware of the times of the last services, especially late at night."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Blackpools Tram ist der perfekte Regenschutz. Die Tour startet am Pleasure Beach, von wo aus die Straßenbahn uns trocken entlang der Küste bringt. Wir steigen direkt an den wichtigsten Punkten wie dem Tower und den Winter Gardens aus, ohne lange im Regen zu stehen. Ein Abstecher zum Stanley Park per Bus bietet einen Blick auf das herbstlich-graue Blackpool aus einem warmen Fenster.",
+            "hu": "Blackpool villamosa a tökéletes védelem az eső ellen. A túra a Pleasure Beachtől indul, ahonnan a villamos szárazon visz minket a part mentén. Közvetlenül a legfontosabb pontoknál, mint a Tower vagy a Winter Gardens, szállunk le, így keveset kell az esőben állnunk. Egy buszos kitérő a Stanley Parkhoz rálátást nyújt az őszies, szürke Blackpoolra a meleg ablak mögül.",
+            "ro": "Tramvaiul din Blackpool este protecția perfectă împotriva ploii. Turul începe la Pleasure Beach, de unde tramvaiul ne poartă uscați de-a lungul coastei. Coborâm direct la punctele cheie, cum ar fi Turnul și Winter Gardens, evitând ploaia. O escapadă cu autobuzul spre Stanley Park oferă o vedere asupra orașului gri și ploios de la fereastra caldă.",
+            "en": "The Blackpool tramway is the ultimate rainy-day survival tool. Start at Pleasure Beach and glide dryly along the coast in a heritage or modern tram. Hop off directly at major stops like the Tower and Winter Gardens to minimize time in the wet. A bus ride to Stanley Park lets you watch the rainy streets drift by from a warm, steamy window."
+          },
+          "stops": [
+            {
+              "name": "Pleasure Beach Station (Cluster)",
+              "tip_5lang": {
+                "de": "Überdachter Bahnsteig bietet Schutz beim Warten.",
+                "hu": "Fedett peron nyújt menedéket várakozás közben.",
+                "ro": "Peronul acoperit oferă adăpost în timpul așteptării.",
+                "en": "The covered platform provides shelter while waiting."
+              }
+            },
+            {
+              "name": "The Golden Mile (Walk)",
+              "tip_5lang": {
+                "de": "Kurzer Sprint von der Tramhaltestelle zum Arkadendach.",
+                "hu": "Rövid futás a villamosmegállótól az árkádokig.",
+                "ro": "Sprint scurt de la stația de tramvai la arcade.",
+                "en": "Short dash from the tram stop to the arcade shelter."
+              }
+            },
+            {
+              "name": "Tower (Tram Stop Cluster)",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist fast direkt vor dem Tower-Eingang.",
+                "hu": "A megálló szinte közvetlenül a Tower bejárata előtt van.",
+                "ro": "Stația este aproape în fața intrării în Turn.",
+                "en": "The stop is almost directly outside the Tower entrance."
+              }
+            },
+            {
+              "name": "Winter Gardens",
+              "tip_5lang": {
+                "de": "Vom Tower aus in 5 Minuten zu Fuß erreichbar.",
+                "hu": "A Tower-től 5 perc sétával elérhető.",
+                "ro": "La 5 minute de mers pe jos de la Turn.",
+                "en": "A 5-minute walk from the Tower tram stop."
+              }
+            },
+            {
+              "name": "North Pier",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist direkt am Pier-Eingang.",
+                "hu": "A megálló közvetlenül a móló bejáratánál van.",
+                "ro": "Stația este chiar la intrarea pe debarcader.",
+                "en": "The tram stop is right at the pier entrance."
+              }
+            },
+            {
+              "name": "Stanley Park (Bus Ride)",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt am Parkeingang.",
+                "hu": "A busz közvetlenül a park bejáratánál áll meg.",
+                "ro": "Autobuzul oprește chiar la intrarea în parc.",
+                "en": "The bus drops you off right by the park gates."
+              }
+            },
+            {
+              "name": "Blackpool Illuminations (Tram Ride)",
+              "tip_5lang": {
+                "de": "Die beste Art, die Lichter im Regen zu sehen.",
+                "hu": "A legjobb mód a fények megtekintésére esőben.",
+                "ro": "Cea mai bună metodă de a vedea luminile pe ploaie.",
+                "en": "The best way to see the lights while staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket direkt in der App oder beim Schaffner.",
+              "Die Straßenbahnen fahren bei Regen oft häufiger.",
+              "Nutzen Sie die App 'Blackpool Transport' für Live-Zeiten.",
+              "Achten Sie auf Pfützen beim Aussteigen aus dem Bus."
+            ],
+            "hu": [
+              "Vegyen napijegyet az appban vagy a kalauznál.",
+              "Esőben a villamosok gyakran sűrűbben járnak.",
+              "Használja a 'Blackpool Transport' appot az élő menetrendhez.",
+              "Vigyázzon a tócsákra a buszról való leszálláskor."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi din aplicație sau de la taxator.",
+              "Tramvaiele circulă des chiar și pe ploaie.",
+              "Folosiți aplicația 'Blackpool Transport' pentru timpi reali.",
+              "Atenție la bălți când coborâți din autobuz."
+            ],
+            "en": [
+              "Buy a 24-hour ticket on the app for unlimited dry travel.",
+              "Modern trams are fully climate-controlled and dry.",
+              "Use the Blackpool Transport app for live bus and tram tracking.",
+              "Watch your step when boarding; tram steps can be slippery."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Öffentlicher Verkehr ist im Winter die gemütlichste Art, Blackpool zu erkunden. Die beheizten Straßenbahnen bieten eine wunderbare Aussicht auf die raue See, während man sicher zum Tower gleitet. Besonders abends, wenn die Stadt in Millionen Lichtern der Illuminations erstrahlt, ist eine Fahrt mit der 'Illumination Tour'-Tram ein magisches Wintererlebnis, das man nicht verpassen sollte.",
+            "hu": "A tömegközlekedés télen a legkényelmesebb módja Blackpool felfedezésének. A fűtött villamosok csodás kilátást nyújtanak a morajló tengerre, miközben biztonságosan suhanunk a Tower felé. Különösen este, amikor a város az Illuminations millió fényében úszik, egy utazás a különleges fényvillamoson olyan téli élmény, amit nem szabad kihagyni.",
+            "ro": "Transportul public este cea mai confortabilă metodă de a vedea Blackpool iarna. Tramvaiele încălzite oferă o vedere minunată asupra mării agitate în timp ce aluneci spre Turn. Mai ales seara, când orașul strălucește în milioanele de lumini ale Iluminațiilor, o plimbare cu tramvaiul special este o experiență de iarnă magică.",
+            "en": "Public transit is the cosiest way to navigate Blackpool in winter. The heated trams provide a stunning moving gallery of the wild Irish Sea as you head toward the Tower. Especially in the evenings, when the town glows with millions of lights, taking an 'Illumination Tour' tram is a magical winter highlight that keeps you warm while you soak in the neon magic."
+          },
+          "stops": [
+            {
+              "name": "Pleasure Beach Station (Cluster)",
+              "tip_5lang": {
+                "de": "Warten Sie im Bahnhofsgebäude, falls es zu windig ist.",
+                "hu": "Várjon az állomás épületében, ha túl nagy a szél.",
+                "ro": "Așteptați în clădirea stației dacă este prea vânt.",
+                "en": "Wait inside the station building if the wind is too biting."
+              }
+            },
+            {
+              "name": "The Golden Mile (Walk)",
+              "tip_5lang": {
+                "de": "Die Tramhaltestellen haben Windschutzwände.",
+                "hu": "A villamosmegállók szélvédő falakkal rendelkeznek.",
+                "ro": "Stațiile de tramvai au panouri de protecție contra vântului.",
+                "en": "Tram stops feature glass screens to block the sea wind."
+              }
+            },
+            {
+              "name": "Tower (Tram Stop Cluster)",
+              "tip_5lang": {
+                "de": "Steigen Sie hier für einen warmen Tee im Tower aus.",
+                "hu": "Szálljon le itt egy forró teára a Tower-ben.",
+                "ro": "Coborâți aici pentru un ceai cald în Turn.",
+                "en": "Hop off here for a quick dash to a warm tea room."
+              }
+            },
+            {
+              "name": "Winter Gardens",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg durch die beleuchteten Straßen.",
+                "hu": "Rövid séta a kivilágított utcákon át.",
+                "ro": "Scurtă plimbare prin străzile iluminate.",
+                "en": "A short walk through beautifully lit winter streets."
+              }
+            },
+            {
+              "name": "North Pier",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die historischen Trams fahren.",
+                "hu": "Ellenőrizze, hogy járnak-e a nosztalgia villamosok.",
+                "ro": "Verificați dacă circulă tramvaiele de epocă.",
+                "en": "Check if the heritage 'Boats' or 'Balloons' are running."
+              }
+            },
+            {
+              "name": "Stanley Park (Bus Ride)",
+              "tip_5lang": {
+                "de": "Busse sind im Winter gut beheizt.",
+                "hu": "A buszok télen jól fűtöttek.",
+                "ro": "Autobuzele sunt bine încălzite iarna.",
+                "en": "Buses are well-heated for the trip to the park."
+              }
+            },
+            {
+              "name": "Blackpool Illuminations (Tram Ride)",
+              "tip_5lang": {
+                "de": "Buchen Sie die Lichttour-Tram im Voraus.",
+                "hu": "Foglalja le előre a fényvillamos túrát.",
+                "ro": "Rezervați din timp turul cu tramvaiul iluminat.",
+                "en": "Pre-book the special 'Illuminated Heritage Tram' tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Bahnen fahren im Winter seltener als im Sommer.",
+              "Nutzen Sie die beheizten modernen Trams für maximalen Komfort.",
+              "Halten Sie Ihr Ticket griffbereit, um Kälte an der Tür zu vermeiden.",
+              "Die Illuminations-Saison geht oft bis Anfang Januar."
+            ],
+            "hu": [
+              "A járatok télen ritkábban járnak, mint nyáron.",
+              "Használja a fűtött, modern villamosokat a kényelemért.",
+              "Tartsa kéznél a jegyét, hogy ne kelljen sokáig nyitni az ajtót.",
+              "A fényfesztivál szezonja gyakran január elejéig tart."
+            ],
+            "ro": [
+              "Tramvaiele circulă mai rar iarna decât vara.",
+              "Folosiți tramvaiele moderne încălzite pentru confort.",
+              "Aveți biletul pregătit pentru a nu lăsa ușa deschisă prea mult.",
+              "Sezonul Iluminațiilor durează adesea până la începutul lui ianuarie."
+            ],
+            "en": [
+              "Service frequency is lower in winter; check the timetable.",
+              "Stick to modern 'Flexity' trams for the best heating.",
+              "Keep your mobile ticket ready to avoid fumbling in the cold.",
+              "The Illuminations usually run until early January."
+            ]
+          }
+        }
       }
     }
   }

@@ -292,6 +292,188 @@
           "Bring an umbrella, the Irish weather can change quickly.",
           "Try the local beer in one of the traditional pubs in the evening."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Market Square, wo die bunten Fassaden auch bei grauem Himmel leuchten. Das Heritage Centre bietet perfekten Schutz vor den für Kerry typischen Schauern. Mittags besuchen Sie die Holy Cross Church mit ihren beeindruckenden Glasfenstern. Der Steinkreis wirkt im Regen besonders mystisch, bevor Sie den Tag am überdachten Reenagross Park Trail ausklingen lassen.",
+            "hu": "A napot a Market Square színes házai között kezdjük, ahol a boltívek védelmet nyújtanak. Az eső elől menekülve fedezzük fel a Heritage Centre helytörténeti kiállítását. Délután a Holy Cross Church csendjében pihenhetünk meg. A kőkör az ír esőben válik igazán varázslatossá, a napot pedig a Reenagross Park sűrű lombjai alatti sétával zárjuk, amely némileg felfogja a cseppeket.",
+            "ro": "Începeți ziua în Market Square, unde fațadele colorate luminează chiar și sub cerul gri. Centrul de Patrimoniu oferă adăpostul perfect împotriva ploilor tipice din Kerry. La prânz, vizitați Biserica Holy Cross pentru a admira vitraliile sale. Cercul de piatră pare deosebit de mistic în ploaie, înainte de a încheia ziua pe potecile acoperite de vegetație din Parcul Reenagross.",
+            "en": "Start your day at Market Square, where colorful facades brighten the grey sky. The Heritage Centre provides the perfect escape from typical Kerry showers. At noon, visit Holy Cross Church to see its impressive stained glass. The Stone Circle feels especially mystical in the rain, before ending your walk under the sheltered canopy of the Reenagross Park trails."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Vordächer der Cafés, um trocken zu bleiben.",
+                "hu": "Használja a kávézók előtetőit a várakozáshoz.",
+                "ro": "Folosiți copertinele cafenelelor pentru a rămâne uscați.",
+                "en": "Use the cafe awnings to stay dry while observing the square."
+              }
+            },
+            {
+              "name": "Kenmare Heritage Centre",
+              "tip_5lang": {
+                "de": "Idealer Ort, um eine längere Regenfront abzuwarten.",
+                "hu": "Ideális hely egy hosszabb esőzés kivárására.",
+                "ro": "Loc ideal pentru a aștepta trecerea unei reprize de ploaie.",
+                "en": "The ideal indoor spot to wait out a heavy rain front."
+              }
+            },
+            {
+              "name": "Holy Cross Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf den rutschigen Steinboden am Eingang.",
+                "hu": "Vigyázzon a bejáratnál a csúszós kőpadlóra.",
+                "ro": "Atenție la podeaua de piatră alunecoasă de la intrare.",
+                "en": "Be careful of the slippery stone floor at the entrance."
+              }
+            },
+            {
+              "name": "Steinkreis von Kenmare",
+              "tip_5lang": {
+                "de": "Gute wasserfeste Schuhe sind für den Rasen hier Pflicht.",
+                "hu": "A fű esőben sáros lehet, vízálló cipő javasolt.",
+                "ro": "Încălțămintea impermeabilă este esențială pentru iarba de aici.",
+                "en": "Good waterproof shoes are essential for the grassy area here."
+              }
+            },
+            {
+              "name": "Cromwell's Bridge",
+              "tip_5lang": {
+                "de": "Die Steine der Brücke sind bei Nässe extrem glatt.",
+                "hu": "A híd kövei rendkívül csúszósak nedves időben.",
+                "ro": "Pietrele podului sunt extrem de alunecoase când sunt ude.",
+                "en": "The bridge stones are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Reenagross Park",
+              "tip_5lang": {
+                "de": "Der dichte Wald bietet natürlichen Schutz vor leichtem Regen.",
+                "hu": "A sűrű erdő természetes védelmet nyújt szemerkélő esőben.",
+                "ro": "Pădurea densă oferă protecție naturală împotriva ploii ușoare.",
+                "en": "The dense woodland provides natural cover from light rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein windfester Regenschirm ist in Kerry wichtiger als eine Regenjacke.",
+              "Viele Cafés am Market Square haben gemütliche Innenräume.",
+              "Die Wege im Park können Pfützen bilden, bleiben Sie auf den Hauptpfaden.",
+              "Trocknen Sie Ihre Kleidung zwischendurch in den beheizten Pubs."
+            ],
+            "hu": [
+              "Egy szélálló esernyő Kenmare-ben kötelező kellék.",
+              "A Market Square kávézói kiválóak a felmelegedésre.",
+              "A park ösvényein nagy pocsolyák alakulhatnak ki, hordjon bakancsot.",
+              "A helyi pubok kandallói mellett gyorsan megszáradhat."
+            ],
+            "ro": [
+              "O umbrelă rezistentă la vânt este esențială în regiunea Kerry.",
+              "Multe cafenele din Market Square au interioare primitoare.",
+              "Potecile din parc pot avea bălți mari; rămâneți pe drumurile principale.",
+              "Uscați-vă hainele lângă șemineele din pub-urile locale."
+            ],
+            "en": [
+              "A wind-resistant umbrella is more vital than a raincoat in Kerry.",
+              "Many cafes around Market Square offer cozy indoor seating.",
+              "Park trails can develop large puddles; stick to the gravel paths.",
+              "Warm up and dry your gear near the fireplaces in local pubs."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kenmare im Winter ist ruhig und authentisch. Starten Sie mit einem heißen Getränk am belebten Market Square. Im Heritage Centre erfahren Sie alles über die Webtradition der Stadt, während es draußen kühl ist. Mittags bietet die Holy Cross Church spirituelle Stille. Nutzen Sie das klare Nachmittagslicht am Steinkreis für Fotos, bevor Sie vor Sonnenuntergang um 16:30 Uhr durch den Reenagross Park wandern.",
+            "hu": "A téli Kenmare csendes és autentikus. Kezdje a napot egy forró itallal a Market Square-en. A Heritage Centre-ben megismerheti a város szövési hagyományait, amíg kint hideg van. Délben a Holy Cross Church nyújt lelki békét. Használja ki a kora délutáni fényeket a kőkörnél, majd sötétedés előtt, 16:30-kor tegyen egy kört a Reenagross Parkban.",
+            "ro": "Kenmare în timpul iernii este liniștit și autentic. Începeți cu o băutură caldă în Market Square. La Centrul de Patrimoniu aflați totul despre tradiția țesutului, în timp ce afară este frig. La prânz, Biserica Holy Cross oferă liniște spirituală. Profitați de lumina clară de după-amiază la cercul de piatră înainte de apusul de la ora 16:30 în Parcul Reenagross.",
+            "en": "Kenmare in winter is quiet and authentic. Start with a hot drink at the bustling Market Square. At the Heritage Centre, learn about the town weaving tradition while staying out of the chill. At noon, Holy Cross Church offers spiritual silence. Use the clear afternoon light at the Stone Circle for photos before the early 16:30 sunset in Reenagross Park."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Perfekt für den Kauf lokaler Wollprodukte gegen die Kälte.",
+                "hu": "Kiváló hely helyi gyapjútermékek vásárlására a hideg ellen.",
+                "ro": "Perfect pentru a cumpăra produse locale din lână împotriva frigului.",
+                "en": "Perfect for buying local wool products to beat the cold."
+              }
+            },
+            {
+              "name": "Kenmare Heritage Centre",
+              "tip_5lang": {
+                "de": "Gut geheizt, ein angenehmer Aufenthalt an frostigen Tagen.",
+                "hu": "Jól fűtött, kellemes menedék a fagyos napokon.",
+                "ro": "Bine încălzit, un popas plăcut în zilele geroase.",
+                "en": "Well-heated, a pleasant stay on frosty winter days."
+              }
+            },
+            {
+              "name": "Holy Cross Church",
+              "tip_5lang": {
+                "de": "In der Kirche ist es oft kühler als draußen, Jacke anlassen.",
+                "hu": "A templomban gyakran hidegebb van, mint kint, ne vegye le a kabátot.",
+                "ro": "În interior e adesea mai frig decât afară; păstrați haina pe dvs.",
+                "en": "It is often cooler inside the church than outside; keep your coat on."
+              }
+            },
+            {
+              "name": "Steinkreis von Kenmare",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne sorgt für dramatische Schatten an den Steinen.",
+                "hu": "Az alacsony napállás drámai árnyékokat vet a kövekre.",
+                "ro": "Soarele la înălțime joasă creează umbre dramatice pe pietre.",
+                "en": "The low winter sun creates dramatic shadows across the stones."
+              }
+            },
+            {
+              "name": "Cromwell's Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht bei Frost auf den steilen Stufen der Brücke.",
+                "hu": "Fagy esetén legyen óvatos a híd meredek lépcsőin.",
+                "ro": "Atenție la îngheț pe treptele abrupte ale podului.",
+                "en": "Be cautious of frost on the steep steps of the bridge."
+              }
+            },
+            {
+              "name": "Reenagross Park",
+              "tip_5lang": {
+                "de": "Die laubfreien Bäume bieten im Winter bessere Sicht auf die Bucht.",
+                "hu": "A lombtalan fák télen jobb kilátást engednek az öbölre.",
+                "ro": "Copacii fără frunze permit o vedere mai bună spre golf iarna.",
+                "en": "The leafless trees offer better views of the bay in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:20 Uhr unter.",
+              "Tragen Sie mehrere Schichten, da der Wind vom Meer her beißt.",
+              "Besuchen Sie das Lace Museum für handgefertigte Geschenke.",
+              "Abends sind die Kamine in den Pubs von Kenmare immer an."
+            ],
+            "hu": [
+              "A nap decemberben már 16:20 körül lemegy.",
+              "Öltözzön rétegesen, mert az öböl felől érkező szél metsző lehet.",
+              "Látogasson el a Csipkemúzeumba kézzel készült ajándékokért.",
+              "Este a pubok kandallói mellett találhatja a legjobb hangulatot."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:20 în luna decembrie.",
+              "Purtați mai multe straturi, deoarece vântul dinspre golf este tăios.",
+              "Vizitați Muzeul Dantelei pentru cadouri lucrate manual.",
+              "Seara, șemineele din pub-urile din Kenmare sunt mereu aprinse."
+            ],
+            "en": [
+              "Sunset occurs as early as 16:20 in December.",
+              "Wear multiple layers as the wind from the bay can be biting.",
+              "Check the Lace Museum for unique handcrafted winter gifts.",
+              "In the evening, the fireplaces in Kenmare pubs are always lit."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -597,6 +779,206 @@
           "Watch out for pedestrians in the parks.",
           "A good bike lock is important for a relaxed visit to the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour in Kenmare bei Regen erfordert gute Ausrüstung, belohnt aber mit einsamen Straßen. Starten Sie vorsichtig am Market Square. Das Heritage Centre bietet eine lange Pause zum Trocknen. Besuchen Sie den mystischen Steinkreis und radeln Sie dann entlang der Küste zum Our Lady's Well, wo die Natur im Regen besonders frisch duftet.",
+            "hu": "Az esős biciklizés Kenmare-ben jó felszerelést igényel, de csendes utakat ígér. Kezdjen óvatosan a Market Square-en. A Heritage Centre-ben tarthat egy hosszabb szünetet száradni. Látogasson el a titokzatos kőkörhöz, majd tekerjen ki az Our Lady's Well-hez, ahol az esőben minden friss illatú.",
+            "ro": "O plimbare cu bicicleta în Kenmare pe ploaie necesită echipament bun, dar oferă drumuri libere. Începeți cu prudență din Market Square. Centrul de Patrimoniu oferă o pauză lungă pentru uscare. Vizitați cercul de piatră mistic și pedalați spre Izvorul Maicii Domnului, unde natura miroase proaspăt.",
+            "en": "Cycling Kenmare in the rain requires good gear but rewards you with quiet roads. Start carefully at Market Square. The Heritage Centre offers a long dry break. Visit the mystical Stone Circle and then pedal out to Our Lady's Well, where the nature smells especially fresh in the rain."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie auf nassen Asphalt fahren.",
+                "hu": "Ellenőrizze a fékeit a nedves aszfalton való indulás előtt.",
+                "ro": "Verificați frânele înainte de a porni pe asfaltul ud.",
+                "en": "Check your brakes before heading out on the wet asphalt."
+              }
+            },
+            {
+              "name": "Kenmare Heritage Centre",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe suchen.",
+                "hu": "Keressen fedett biciklitárolót a közelben.",
+                "ro": "Căutați rastele de biciclete acoperite în apropiere.",
+                "en": "Look for sheltered bike racks in the nearby vicinity."
+              }
+            },
+            {
+              "name": "Holy Cross Church",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad sicher auf dem ebenen Pflaster.",
+                "hu": "Parkolja le a biciklit biztonságosan a sík burkolaton.",
+                "ro": "Parcați bicicleta în siguranță pe pavajul drept.",
+                "en": "Park your bike securely on the level pavement."
+              }
+            },
+            {
+              "name": "Steinkreis von Kenmare",
+              "tip_5lang": {
+                "de": "Der Weg zum Kreis kann schlammig sein, Rad schieben.",
+                "hu": "A kőkörhöz vezető út sáros lehet, tolja a biciklit.",
+                "ro": "Drumul spre cerc poate fi noroios; împingeți bicicleta.",
+                "en": "The path to the circle can be muddy; push your bike here."
+              }
+            },
+            {
+              "name": "Cromwell's Bridge",
+              "tip_5lang": {
+                "de": "Rutschgefahr beim Absteigen auf nassem Gras.",
+                "hu": "Csúszásveszély a bicikliről való leszálláskor a nedves füvön.",
+                "ro": "Risc de alunecare la coborârea de pe bicicletă pe iarba udă.",
+                "en": "Danger of slipping when dismounting on wet grass."
+              }
+            },
+            {
+              "name": "Reenagross Park",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, die Waldwege sind bei Regen weich.",
+                "hu": "Tekerjen lassan, az erdei utak felázhatnak az esőben.",
+                "ro": "Pedalați încet; drumurile de pădure sunt moi pe ploaie.",
+                "en": "Cycle slowly as the woodland paths soften in the rain."
+              }
+            },
+            {
+              "name": "Our Lady's Well",
+              "tip_5lang": {
+                "de": "Die Küstenstraße kann starken Seitenwind haben.",
+                "hu": "A partmenti úton erős oldalszélre kell számítani.",
+                "ro": "Drumul de coastă poate avea vânt lateral puternic.",
+                "en": "The coastal road can experience strong side winds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Überschuhen ist ratsam.",
+              "Vermeiden Sie scharfes Bremsen auf den Markierungen am Market Square.",
+              "Die Sicht kann bei starkem Regen eingeschränkt sein, Licht an.",
+              "Ein Schutzblech schützt Sie vor dem aufgewirbelten Dreck."
+            ],
+            "hu": [
+              "Teljes esőruházat és kamásli használata javasolt.",
+              "Kerülje az erős fékezést a Market Square útburkolati jelein.",
+              "A látási viszonyok korlátozottak lehetnek, használjon lámpát.",
+              "A sárvédő elengedhetetlen a felcsapódó sár ellen."
+            ],
+            "ro": [
+              "Se recomandă echipament complet de ploaie, inclusiv huse pentru pantofi.",
+              "Evitați frânarea bruscă pe marcajele rutiere din Market Square.",
+              "Vizibilitatea poate fi redusă; folosiți lumini de bicicletă.",
+              "O apărătoare de noroi vă va proteja de murdăria de pe drum."
+            ],
+            "en": [
+              "Full rain gear including shoe covers is highly recommended.",
+              "Avoid sharp braking on the painted markings in Market Square.",
+              "Visibility can be limited during heavy rain; keep lights on.",
+              "A mudguard is essential to protect you from road spray."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren um Kenmare bietet klare Ausblicke auf die MacGillycuddy's Reeks. Starten Sie am kühlen Market Square und wärmen Sie sich im Heritage Centre auf. Die Fahrt zur Holy Cross Church ist kurz. Am Steinkreis genießen Sie die Ruhe der Nebensaison. Die Route zum Our Lady's Well führt entlang der ruhigen Kenmare Bay, bevor es dunkel wird.",
+            "hu": "A téli biciklizés Kenmare körül tiszta kilátást nyújt a MacGillycuddy's Reeks hegyeire. Kezdjen a hűvös Market Square-en, majd melegedjen fel a Heritage Centre-ben. A kőkörnél élvezze a főszezonon kívüli csendet. Az út az Our Lady's Well-hez a nyugodt öböl mentén vezet, mielőtt korán besötétedik.",
+            "ro": "Ciclismul de iarnă în jurul orașului Kenmare oferă vederi clare spre MacGillycuddy's Reeks. Începeți în Market Square și încălziți-vă la Centrul de Patrimoniu. La cercul de piatră bucurați-vă de liniștea din afara sezonului. Traseul spre Izvorul Maicii Domnului urmează golful Kenmare înainte de lăsarea întunericului.",
+            "en": "Winter cycling around Kenmare offers crisp views of the MacGillycuddy's Reeks. Start at the chilly Market Square and warm up in the Heritage Centre. At the Stone Circle, enjoy the off-season tranquility. The route to Our Lady's Well follows the calm Kenmare Bay before the early darkness sets in."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, der Fahrtwind ist eisig.",
+                "hu": "Viseljen meleg kesztyűt, a menetszél jeges lehet.",
+                "ro": "Purtați mănuși groase; vântul la pedalare este înghețat.",
+                "en": "Wear warm gloves as the wind chill while cycling is icy."
+              }
+            },
+            {
+              "name": "Kenmare Heritage Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die steifen Glieder aufzuwärmen.",
+                "hu": "Használja ki a megállót a megmacskásodott végtagok felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi membrele amorțite.",
+                "en": "Use this stop to warm up your stiff limbs."
+              }
+            },
+            {
+              "name": "Holy Cross Church",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Pfützen auf dem Parkplatz.",
+                "hu": "Vigyázzon a fagyott tócsákra a parkolóban.",
+                "ro": "Atenție la bălțile înghețate din parcare.",
+                "en": "Watch out for frozen puddles in the parking area."
+              }
+            },
+            {
+              "name": "Steinkreis von Kenmare",
+              "tip_5lang": {
+                "de": "Das Gras kann bei Bodenfrost sehr rutschig sein.",
+                "hu": "A fű talajmenti fagy esetén nagyon csúszós lehet.",
+                "ro": "Iarba poate fi foarte alunecoasă în caz de îngheț la sol.",
+                "en": "The grass can be very slippery if there is ground frost."
+              }
+            },
+            {
+              "name": "Cromwell's Bridge",
+              "tip_5lang": {
+                "de": "Im Winter oft feucht und moosig, Vorsicht beim Gehen.",
+                "hu": "Télen gyakran nedves és mohás, óvatosan lépkedjen.",
+                "ro": "Iarna este adesea umed și plin de mușchi; atenție la mers.",
+                "en": "Often damp and mossy in winter; be careful when walking."
+              }
+            },
+            {
+              "name": "Reenagross Park",
+              "tip_5lang": {
+                "de": "Niedrig hängende Äste können im Winter vereist sein.",
+                "hu": "Az alacsony ágak télen jegesek lehetnek.",
+                "ro": "Ramurile joase pot fi înghețate în timpul iernii.",
+                "en": "Low-hanging branches may be iced over in winter."
+              }
+            },
+            {
+              "name": "Our Lady's Well",
+              "tip_5lang": {
+                "de": "Frühe Rückreise antreten, um vor 17 Uhr zurück zu sein.",
+                "hu": "Induljon vissza időben, hogy 17 óra előtt beérjen a városba.",
+                "ro": "Porniți înapoi devreme pentru a ajunge înainte de ora 17:00.",
+                "en": "Start your return trip early to be back before 5 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Unterwäsche ist bei Wintertouren in Kerry Pflicht.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung voll geladen ist.",
+              "Die Straßen können in schattigen Abschnitten glatt sein.",
+              "Trinken Sie auch bei Kälte genug, am besten Tee aus der Thermoskanne."
+            ],
+            "hu": [
+              "A hőtartó aláöltözet kötelező a téli ír túrákon.",
+              "Győződjön meg róla, hogy a lámpák teljesen fel vannak töltve.",
+              "Az utak az árnyékos szakaszokon jegesek maradhatnak.",
+              "Igyon elég folyadékot, a legjobb a termoszban vitt tea."
+            ],
+            "ro": [
+              "Lenjeria termică este obligatorie pentru turele de iarnă în Kerry.",
+              "Asigurați-vă că luminile bicicletei sunt complet încărcate.",
+              "Drumurile pot fi alunecoase în secțiunile umbrite.",
+              "Beți suficiente lichide, preferabil ceai dintr-un termos."
+            ],
+            "en": [
+              "Thermal underwear is mandatory for winter tours in Kerry.",
+              "Ensure your bike lights are fully charged for the early dusk.",
+              "Roads can remain icy in shaded sections throughout the day.",
+              "Stay hydrated; a thermos with hot tea is a great companion."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -902,6 +1284,206 @@
           "Park centrally on the edge of Market Square to save on parking fees.",
           "Be careful on narrow Irish country roads."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist Kenmare auch bei Starkregen ein Vergnügen. Starten Sie am Market Square, wo Parkplätze meist nah an den Shops sind. Das Heritage Centre und das Lace Museum bieten stundenlange Unterhaltung im Trockenen. Der Steinkreis ist nur einen kurzen Sprint vom Wagen entfernt, und die Küstenfahrt zum Our Lady's Well bietet dramatische Ausblicke auf die aufgewühlte See.",
+            "hu": "Autóval Kenmare még nagy esőben is élvezetes. Kezdjen a Market Square-en, ahol a parkolók közel vannak az üzletekhez. A Heritage Centre és a Csipkemúzeum órákig tartó beltéri programot kínál. A kőkör csak egy rövid futás az autótól, az Our Lady's Well-hez vezető út pedig drámai kilátást nyújt a háborgó tengerre.",
+            "ro": "Cu mașina, Kenmare este o plăcere chiar și pe ploaie torențială. Începeți în Market Square, unde parcările sunt aproape de magazine. Centrul de Patrimoniu și Muzeul Dantelei oferă divertisment la adăpost. Cercul de piatră este la doar un scurt sprint de mașină, iar drumul spre izvor oferă vederi dramatice.",
+            "en": "In a car, Kenmare is a delight even in heavy rain. Start at Market Square, where parking is usually close to the shops. The Heritage Centre and Lace Museum provide hours of indoor interest. The Stone Circle is just a short dash from the vehicle, and the drive to Our Lady's Well offers dramatic views of the choppy sea."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Parken Sie zentral, um kurze Wege zu den Cafés zu haben.",
+                "hu": "Parkoljon központilag, hogy közel legyenek a kávézók.",
+                "ro": "Parcați central pentru a avea acces rapid la cafenele.",
+                "en": "Park centrally to minimize the walk to the nearest cafes."
+              }
+            },
+            {
+              "name": "Kenmare Heritage Centre",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Gebäude nutzen, falls frei.",
+                "hu": "Használja az épület melletti parkolót, ha van szabad hely.",
+                "ro": "Folosiți parcarea de lângă clădire, dacă este liberă.",
+                "en": "Use the parking lot directly by the building if available."
+              }
+            },
+            {
+              "name": "Kenmare Lace Museum",
+              "tip_5lang": {
+                "de": "Perfekter Stopp bei Dauerregen, da komplett indoor.",
+                "hu": "Tökéletes megálló tartós esőben, mivel teljesen beltéri.",
+                "ro": "Oprire perfectă pe ploaie persistentă, fiind complet în interior.",
+                "en": "Perfect stop during persistent rain as it is fully indoors."
+              }
+            },
+            {
+              "name": "Steinkreis von Kenmare",
+              "tip_5lang": {
+                "de": "Lassen Sie den Regenschirm griffbereit im Auto.",
+                "hu": "Tartsa az esernyőt karnyújtásnyira az autóban.",
+                "ro": "Păstrați umbrela la îndemână în mașină.",
+                "en": "Keep your umbrella within easy reach in the car."
+              }
+            },
+            {
+              "name": "Cromwell's Bridge",
+              "tip_5lang": {
+                "de": "Schlechte Sicht beim Wenden auf der engen Straße.",
+                "hu": "Rossz látási viszonyok a szűk úton való megforduláskor.",
+                "ro": "Vizibilitate redusă la întoarcerea pe drumul îngust.",
+                "en": "Be aware of poor visibility when turning on the narrow road."
+              }
+            },
+            {
+              "name": "Reenagross Park",
+              "tip_5lang": {
+                "de": "Parken Sie am Eingang und machen Sie nur die kurze Runde.",
+                "hu": "Parkoljon a bejáratnál, és csak a rövid kört tegye meg.",
+                "ro": "Parcați la intrare și faceți doar traseul scurt.",
+                "en": "Park at the entrance and just take the short loop."
+              }
+            },
+            {
+              "name": "Our Lady's Well",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Bay aus dem trockenen Auto.",
+                "hu": "Élvezze az öbölre nyíló kilátást a száraz autóból.",
+                "ro": "Admirați vederea spre golf din mașina uscată.",
+                "en": "Enjoy the view of the bay from the comfort of your dry car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen in Kenmare sind bei Regen oft durch Laub rutschig.",
+              "Nutzen Sie die Scheibenheizung gegen das Beschlagen.",
+              "Vermeiden Sie das Parken unter großen Bäumen bei Wind.",
+              "In den Museen gibt es Garderoben für nasse Mäntel."
+            ],
+            "hu": [
+              "Az utak Kenmare-ben esőben gyakran csúszósak a levelek miatt.",
+              "Használja a szélvédőfűtést a párásodás ellen.",
+              "Szeles időben kerülje a nagy fák alatti parkolást.",
+              "A múzeumokban van ruhatár a nedves kabátoknak."
+            ],
+            "ro": [
+              "Drumurile din Kenmare sunt adesea alunecoase din cauza frunzelor pe ploaie.",
+              "Folosiți dezaburirea parbrizului pentru vizibilitate.",
+              "Evitați parcarea sub copaci mari în condiții de vânt.",
+              "Muzeele oferă garderobe pentru haine ude."
+            ],
+            "en": [
+              "Roads in Kenmare can be slippery with wet leaves during rain.",
+              "Use your window defroster to maintain good visibility.",
+              "Avoid parking under large trees during gusty winds.",
+              "Museums have cloakrooms available for your wet outerwear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Kenmare bequem mit dem Auto. Nach einem morgendlichen Bummel über den Market Square bietet das Heritage Centre Wärme. Das Lace Museum zeigt filigrane Kunst, während es draußen frostig ist. Die Fahrt zum Steinkreis und weiter entlang der Küste zum Our Lady's Well ist im Winter besonders malerisch, da die Fernsicht auf die Berge oft besser ist.",
+            "hu": "Fedezze fel a téli Kenmare-t kényelmesen, autóval. A Market Square-en tett séta után a Heritage Centre kínál meleget. A Csipkemúzeumban megcsodálhatja a filigrán művészetet, amíg kint fagyos az idő. Az út a kőkörhöz és tovább az öböl mentén télen különösen festői a tiszta hegyi kilátás miatt.",
+            "ro": "Explorați Kenmare iarna confortabil cu mașina. După o plimbare matinală în Market Square, Centrul de Patrimoniu oferă căldură. Muzeul Dantelei prezintă artă filigranată în timp ce afară e ger. Drumul spre cercul de piatră și de-a lungul coastei este pitoresc datorită vizibilității bune spre munți.",
+            "en": "Explore winter Kenmare comfortably by car. After a morning stroll through Market Square, the Heritage Centre offers warmth. The Lace Museum showcases delicate art while it is frosty outside. The drive to the Stone Circle and along the coast to Our Lady's Well is especially scenic in winter due to the clear mountain views."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken auf eventuell vereistem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a parkoláskor az esetlegesen jeges macskakövön.",
+                "ro": "Atenție la parcare pe pavajul care poate fi înghețat.",
+                "en": "Be cautious when parking on potentially icy cobblestones."
+              }
+            },
+            {
+              "name": "Kenmare Heritage Centre",
+              "tip_5lang": {
+                "de": "Ein kurzer Weg vom Parkplatz schont die Kräfte bei Kälte.",
+                "hu": "A közeli parkolás segít megőrizni a hőt a hidegben.",
+                "ro": "O distanță scurtă de la parcare vă ferește de frig.",
+                "en": "The short walk from the car helps stay warm in the cold."
+              }
+            },
+            {
+              "name": "Kenmare Lace Museum",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Shop für hochwertige Winter-Accessoires.",
+                "hu": "Látogasson el a boltba kiváló minőségű téli kiegészítőkért.",
+                "ro": "Vizitați magazinul pentru accesorii de iarnă de calitate.",
+                "en": "Visit the shop for high-quality winter accessories."
+              }
+            },
+            {
+              "name": "Steinkreis von Kenmare",
+              "tip_5lang": {
+                "de": "Die Anlage ist im Winter oft menschenleer und sehr still.",
+                "hu": "A terület télen gyakran néptelen és nagyon csendes.",
+                "ro": "Situl este adesea pustiu și foarte liniștit în timpul iernii.",
+                "en": "The site is often deserted and very quiet in winter."
+              }
+            },
+            {
+              "name": "Cromwell's Bridge",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Frost glatt sein, langsam fahren.",
+                "hu": "A bekötőút fagy esetén csúszós lehet, hajtson lassan.",
+                "ro": "Drumul de acces poate fi alunecos; conduceți încet.",
+                "en": "The access road may be slick in frost; drive slowly."
+              }
+            },
+            {
+              "name": "Reenagross Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang über dem Wasser vom Parkplatz.",
+                "hu": "Élvezze a naplementét a víz felett a parkolóból.",
+                "ro": "Admirați apusul peste apă chiar din parcare.",
+                "en": "Enjoy the sunset over the water directly from the parking area."
+              }
+            },
+            {
+              "name": "Our Lady's Well",
+              "tip_5lang": {
+                "de": "Achten Sie auf Wildtiere, die im Winter näher an die Straße kommen.",
+                "hu": "Vigyázzon a vadállatokra, amik télen közelebb jönnek az úthoz.",
+                "ro": "Atenție la animalele sălbatice care se apropie de drum iarna.",
+                "en": "Watch out for wildlife coming closer to the road in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Wischwasser Frostschutzmittel enthält.",
+              "Die schmalen Straßen können morgens überfroren sein.",
+              "Planen Sie Ihre Fahrt so, dass Sie vor der Dunkelheit parken.",
+              "Heizen Sie den Wagen vor, bevor Sie längere Küstenabschnitte befahren."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a szélvédőmosó fagyálló.",
+              "A szűk utak reggelente jegesek lehetnek.",
+              "Tervezze úgy az utat, hogy sötétedés előtt leparkoljon.",
+              "Fűtse fel az autót, mielőtt hosszabb tengerparti szakaszra indul."
+            ],
+            "ro": [
+              "Asigurați-vă că lichidul de parbriz are antigel.",
+              "Drumurile înguste pot fi înghețate dimineața.",
+              "Planificați călătoria astfel încât să parcați înainte de întuneric.",
+              "Încălziți mașina înainte de a porni pe secțiunile de coastă."
+            ],
+            "en": [
+              "Ensure your screen wash contains anti-freeze for the Kerry winter.",
+              "Narrow backroads can be icy in the early mornings.",
+              "Plan your stops to ensure you are parked before dusk.",
+              "Warm up the car thoroughly before longer coastal stretches."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1188,6 +1770,188 @@
           "A day ticket is often the cheaper option for multiple journeys.",
           "Many small sights are easily accessible from the bus hub."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den lokalen Bus und kurze Fußwege, um Kenmare im Regen zu erleben. Starten Sie am Market Square, dem Knotenpunkt der Stadt. Die Holy Cross Church ist nur einen Katzensprung entfernt. Das Lace Museum bietet den perfekten trockenen Nachmittag. Der Steinkreis und Cromwell's Bridge sind auch bei Regen erreichbar, solange man die Buswartezeiten im Trockenen verbringt.",
+            "hu": "Használja a helyi buszokat és a rövid sétákat Kenmare felfedezéséhez esőben. Kezdjen a Market Square-en, a város központjában. A Holy Cross Church csak egy ugrásra van. A Csipkemúzeum tökéletes délutáni program szárazon. A kőkör és a Cromwell's Bridge is elérhető, ha a buszra várást fedett helyen tölti.",
+            "ro": "Folosiți autobuzul local și plimbările scurte pentru a vedea Kenmare pe ploaie. Începeți în Market Square, nodul orașului. Biserica Holy Cross este la o aruncătură de băț. Muzeul Dantelei oferă după-amiaza perfectă la uscat. Cercul de piatră este accesibil dacă așteptați autobuzul la adăpost.",
+            "en": "Use the local bus and short walks to experience Kenmare in the rain. Start at Market Square, the town's hub. Holy Cross Church is just a stone's throw away. The Lace Museum offers the perfect dry afternoon. The Stone Circle and Cromwell's Bridge are reachable if you spend bus wait times in sheltered spots."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Warten Sie im Café gegenüber der Haltestelle auf den Bus.",
+                "hu": "Várja a buszt a megállóval szemközti kávézóban.",
+                "ro": "Așteptați autobuzul în cafeneaua de vizavi de stație.",
+                "en": "Wait for your bus in the cafe across from the stop."
+              }
+            },
+            {
+              "name": "Holy Cross Church",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg von der Haltestelle Main Street.",
+                "hu": "Csak 2 perc séta a Main Street megállótól.",
+                "ro": "La doar 2 minute de mers pe jos de stația Main Street.",
+                "en": "Only a 2-minute walk from the Main Street bus stop."
+              }
+            },
+            {
+              "name": "Kenmare Lace Museum",
+              "tip_5lang": {
+                "de": "Zentral gelegen, ideal für Regentage ohne weite Wege.",
+                "hu": "Központi elhelyezkedés, ideális esős napokra távoli séták nélkül.",
+                "ro": "Locație centrală, ideală pentru zile ploioase fără mers mult.",
+                "en": "Centrally located, ideal for rainy days without long walks."
+              }
+            },
+            {
+              "name": "Steinkreis von Kenmare",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Haltestelle ist kurz, aber ungeschützt.",
+                "hu": "A megállótól vezető út rövid, de nyitott, kell az esernyő.",
+                "ro": "Drumul de la stație este scurt, dar expus; aveți nevoie de umbrelă.",
+                "en": "The walk from the stop is short but unsheltered; bring an umbrella."
+              }
+            },
+            {
+              "name": "Cromwell's Bridge",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan, Busse fahren hier seltener.",
+                "hu": "Ellenőrizze a menetrendet, a buszok itt ritkábban járnak.",
+                "ro": "Verificați orarul; autobuzele trec mai rar pe aici.",
+                "en": "Check the schedule as buses run less frequently here."
+              }
+            },
+            {
+              "name": "Reenagross Park",
+              "tip_5lang": {
+                "de": "Die Haltestelle am Pier ist dem Wind stark ausgesetzt.",
+                "hu": "A mólónál lévő megálló erősen ki van téve a szélnek.",
+                "ro": "Stația de la debarcader este foarte expusă la vânt.",
+                "en": "The stop by the pier is heavily exposed to the wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Real Time Ireland' App für Busverspätungen.",
+              "Halten Sie Kleingeld oder eine Leap Card bereit.",
+              "Busse können bei starkem Regen langsamer vorankommen.",
+              "Die Haupthaltestellen in Kenmare haben kleine Unterstände."
+            ],
+            "hu": [
+              "Használja a 'Real Time Ireland' alkalmazást a buszok követéséhez.",
+              "Legyen Önnél aprópénz vagy Leap Card a jegyhez.",
+              "A buszok nagy esőben lassabban közlekedhetnek.",
+              "Kenmare fő megállói kis esőbeállókkal rendelkeznek."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Real Time Ireland' pentru a urmări autobuzele.",
+              "Pregătiți mărunțiș sau un card Leap pentru bilet.",
+              "Autobuzele pot circula mai încet pe ploaie torențială.",
+              "Stațiile principale din Kenmare au mici adăposturi."
+            ],
+            "en": [
+              "Use the 'Real Time Ireland' app to track bus delays in rain.",
+              "Have exact change or a Leap Card ready for the fare.",
+              "Buses may move slower due to reduced visibility and traffic.",
+              "Main bus stops in Kenmare have small shelters available."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kenmare mit dem Nahverkehr im Winter ist gemütlich und entschleunigt. Starten Sie am Market Square, wo die Busse in die Umgebung abfahren. Das Heritage Centre und das Lace Museum sind im Stadtzentrum leicht erreichbar und bieten Schutz vor dem Winterwind. Genießen Sie die winterliche Stille am Steinkreis und im Reenagross Park, bevor Sie den letzten Bus zurück ins warme Zentrum nehmen.",
+            "hu": "Kenmare tömegközlekedéssel télen kényelmes és lassú tempójú. Kezdjen a Market Square-en, ahonnan a környező buszok indulnak. A Heritage Centre és a Csipkemúzeum könnyen elérhető a központban, védelmet nyújtva a téli szél elől. Élvezze a téli csendet a kőkörnél és a Reenagross Parkban, mielőtt az utolsó busszal visszatérne a meleg központba.",
+            "ro": "Kenmare cu transportul public iarna este relaxant. Începeți în Market Square, de unde pleacă autobuzele spre împrejurimi. Centrul de Patrimoniu și Muzeul Dantelei sunt ușor accesibile în centru, oferind protecție. Bucurați-vă de liniștea iernii la cercul de piatră înainte de ultimul autobuz spre centru.",
+            "en": "Kenmare by public transit in winter is cozy and slow-paced. Start at Market Square, where regional buses depart. The Heritage Centre and Lace Museum are easily reached in the town center, providing shelter from the winter wind. Enjoy the winter silence at the Stone Circle and Reenagross Park before taking the last bus back to the warm center."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Die Wartezeiten können im Winter gefühlt länger sein, warm anziehen.",
+                "hu": "A várakozási idő télen hosszabbnak tűnhet, öltözzön melegen.",
+                "ro": "Timpul de așteptare poate părea mai lung iarna; îmbrăcați-vă gros.",
+                "en": "Wait times can feel longer in winter; dress very warmly."
+              }
+            },
+            {
+              "name": "Holy Cross Church",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Busstopp und Kircheneingang nutzen.",
+                "hu": "Használja ki a buszmegálló és a templom közötti rövid távolságot.",
+                "ro": "Profitați de distanța scurtă dintre stație și biserică.",
+                "en": "Take advantage of the short distance between the stop and the church."
+              }
+            },
+            {
+              "name": "Kenmare Lace Museum",
+              "tip_5lang": {
+                "de": "Ideal, um die kälteste Zeit des Tages im Warmen zu verbringen.",
+                "hu": "Ideális a nap leghidegebb óráit melegben tölteni.",
+                "ro": "Ideal pentru a petrece cele mai reci ore ale zilei la căldură.",
+                "en": "Ideal for spending the coldest hours of the day indoors."
+              }
+            },
+            {
+              "name": "Steinkreis von Kenmare",
+              "tip_5lang": {
+                "de": "Der Weg ist oft geräumt, aber bei Frost glatt.",
+                "hu": "Az út gyakran takarított, de fagy esetén csúszós.",
+                "ro": "Aleea este adesea curățată, dar alunecoasă în caz de îngheț.",
+                "en": "The path is usually cleared but can be slick in freezing temps."
+              }
+            },
+            {
+              "name": "Cromwell's Bridge",
+              "tip_5lang": {
+                "de": "Achten Sie auf die reduzierten Winter-Fahrpläne.",
+                "hu": "Ügyeljen a csökkentett téli menetrendre.",
+                "ro": "Atenție la orarul de iarnă redus.",
+                "en": "Pay attention to the reduced winter bus schedules."
+              }
+            },
+            {
+              "name": "Reenagross Park",
+              "tip_5lang": {
+                "de": "Letzter Bus geht oft kurz nach Sonnenuntergang.",
+                "hu": "Az utolsó busz gyakran röviddel naplemente után indul.",
+                "ro": "Ultimul autobuz pleacă adesea la scurt timp după apus.",
+                "en": "The last bus often departs shortly after sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse in Kerry sind im Winter oft besser geheizt als Cafés.",
+              "Die Frequenz einiger Linien ist im Winter eingeschränkt.",
+              "Tragen Sie Reflektoren, wenn Sie im Dunkeln zur Haltestelle gehen.",
+              "Suchen Sie sich Haltestellen in der Nähe von Pubs zum Warten."
+            ],
+            "hu": [
+              "A buszok Kerryben télen gyakran jobban fűtöttek, mint a kávézók.",
+              "Egyes vonalak járatsűrűsége télen korlátozott.",
+              "Viseljen fényvisszaverőt, ha sötétben megy a megállóba.",
+              "Keressen pubokhoz közeli megállókat a várakozáshoz."
+            ],
+            "ro": [
+              "Autobuzele din Kerry sunt adesea mai bine încălzite decât cafenelele.",
+              "Frecvența unor linii este redusă în timpul iernii.",
+              "Purtați elemente reflectorizante dacă mergeți spre stație pe întuneric.",
+              "Căutați stații lângă pub-uri pentru a aștepta la căldură."
+            ],
+            "en": [
+              "Buses in Kerry are often better heated than small cafes in winter.",
+              "Frequency on some regional routes is reduced during winter.",
+              "Wear reflective gear when walking to the bus stop after dark.",
+              "Look for stops located near pubs to wait in relative warmth."
+            ]
+          }
+        }
       }
     }
   }

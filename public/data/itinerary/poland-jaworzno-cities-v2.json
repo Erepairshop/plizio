@@ -362,6 +362,188 @@
           "Check the museum's opening hours in advance.",
           "The late afternoon light at Park Gródek is fantastic for photos."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag am regnerischen Marktplatz, wo die Arkaden Schutz bieten. Das Bergarbeiter-Denkmal wirkt im grauen Licht besonders eindrucksvoll. \n\nMittags finden Sie Zuflucht in der St.-Adalbert-Kirche und verbringen viel Zeit im Stadtmuseum, um dem Regen zu entkommen. \n\nNachmittags zeigt sich der Park Gródek von seiner mystischen Seite; die türkisfarbenen Teiche leuchten auch unter Wolken. \n\nDer Abend endet gemütlich am Kulturzentrum, nur einen kurzen Sprung von den Cafés am Ring entfernt.",
+            "hu": "Kezdje a napot a bányászváros főterén, ahol az épületek ereszei alatt menedéket találhat az eső elől. A bányász-emlékmű ilyenkor még komorabbnak és tiszteletreméltóbbnak tűnik.\n\nDélben a Szent Adalbert-templom csendje és a Városi Múzeum gazdag tárlata nyújt száraz és meleg pihenőt.\n\nDélután a Park Gródek, a 'lengyel Maldív-szigetek' látványa esőben is lenyűgöző, a türkiz víz kontrasztot alkot a szürke éggel.\n\nAz este a Kulturális Központnál ér véget, ahonnan pár perc alatt elérhető egy fűtött belvárosi étterem.",
+            "ro": "Începeți ziua în Piața Centrală, folosind arcadele clădirilor pentru a vă feri de ploaie. Monumentul Minerilor are o aură solemnă în lumina difuză a zilei ploioase.\n\nLa prânz, vizitați Biserica Sf. Adalbert și alocați mai mult timp Muzeului Orașului pentru a rămâne la adăpost.\n\nDupă-amiaza, explorați Park Gródek; lacurile turcoaz oferă un spectacol vizual deosebit chiar și sub stropii de ploaie.\n\nSeara se încheie la Centrul Cultural, o oprire scurtă înainte de a vă retrage într-o cafenea primitoare din centru.",
+            "en": "Start your day at the Market Square, using the shop awnings to dodge the rain. The Miners' Monument looks particularly striking in the somber, wet weather.\n\nAt midday, find spiritual and physical warmth in the St. Adalbert Church, then delve into local history at the City Museum.\n\nIn the afternoon, head to Park Gródek; the 'Polish Maldives' maintain their turquoise glow even under overcast rainy skies.\n\nFinish your walk at the Cultural Centre, perfectly positioned for a quick dash to a nearby cozy restaurant for dinner."
+          },
+          "stops": [
+            {
+              "name": "Market Square (Rynek)",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
+                "hu": "Használja a környékbeli épületek árkádjait az eső elleni védekezéshez.",
+                "ro": "Folosiți arcadele clădirilor din jur pentru a vă proteja de ploaie.",
+                "en": "Use the arcades of the surrounding buildings to stay dry."
+              }
+            },
+            {
+              "name": "Monument of the Miners",
+              "tip_4lang": {
+                "de": "Ein schneller Fotostopp; der nasse Stein glänzt wunderschön.",
+                "hu": "Gyors fotómegálló; a vizes kőfelület sötéten csillog az esőben.",
+                "ro": "O oprire rapidă pentru fotografii; piatra umedă strălucește frumos.",
+                "en": "A quick photo stop; the wet stone glistens beautifully in the rain."
+              }
+            },
+            {
+              "name": "Collegiate Church of St. Adalbert",
+              "tip_4lang": {
+                "de": "Ideal, um während eines Schauers zur Ruhe zu kommen.",
+                "hu": "Ideális helyszín egy nagyobb zápor idejére az elcsendesedéshez.",
+                "ro": "Locul perfect pentru a vă odihni în timpul unei averse.",
+                "en": "An ideal place to find peace and shelter during a heavy downpour."
+              }
+            },
+            {
+              "name": "City Museum of Jaworzno",
+              "tip_4lang": {
+                "de": "Verlängern Sie Ihren Besuch, um die lokale Geschichte trocken zu erkunden.",
+                "hu": "Hosszabbítsa meg a látogatást, így szárazon ismerheti meg a helyi múltat.",
+                "ro": "Prelungiți vizita pentru a explora istoria locală la adăpost.",
+                "en": "Extend your visit here to stay dry while exploring local history."
+              }
+            },
+            {
+              "name": "Park Gródek",
+              "tip_4lang": {
+                "de": "Vorsicht auf den Holzstegen; diese können bei Nässe rutschig sein.",
+                "hu": "Vigyázat a fapallókon; esőben csúszóssá válhatnak a víz felett.",
+                "ro": "Atenție pe pasarelele de lemn; pot deveni alunecoase când sunt ude.",
+                "en": "Careful on the wooden walkways; they can be slippery when wet."
+              }
+            },
+            {
+              "name": "Cultural Centre of Jaworzno",
+              "tip_4lang": {
+                "de": "Prüfen Sie das Foyer auf aktuelle Indoor-Ausstellungen.",
+                "hu": "Érdemes benézni az előtérbe az aktuális beltéri kiállításokért.",
+                "ro": "Verificați foierul pentru expoziții temporare de interior.",
+                "en": "Check the foyer for any temporary indoor exhibitions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Pfade im Park Gródek.",
+              "Das Stadtmuseum ist montags oft geschlossen; planen Sie entsprechend.",
+              "Die Marktplatz-Gastronomie bietet viele überdachte Sitzmöglichkeiten.",
+              "Ein Regenschirm ist bei den weiten Flächen im Park unverzichtbar."
+            ],
+            "hu": [
+              "Vízálló cipő ajánlott a Park Gródek ösvényeihez.",
+              "A városi múzeum hétfőnként zárva tarthat, ellenőrizze előre.",
+              "A főtéri kávézók többsége rendelkezik fedett terasszal.",
+              "Az ernyő elengedhetetlen a nyíltabb parki szakaszokon."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru potecile din Park Gródek.",
+              "Muzeul orașului este adesea închis lunea; verificați programul.",
+              "Restaurantele din piață oferă multe locuri la adăpost.",
+              "O umbrelă este indispensabilă pe spațiile deschise din parc."
+            ],
+            "en": [
+              "Wear waterproof footwear for the trails in Park Gródek.",
+              "The city museum is often closed on Mondays; check ahead.",
+              "The market square has several cafes with covered outdoor seating.",
+              "An umbrella is essential for the open areas in the park."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Marktplatz von Jaworzno verspricht eine magische Atmosphäre unter dem Winterhimmel. Die Statue der Bergarbeiter steht stolz im kalten Wind.\n\nMittags wärmen Sie sich in der Collegiate-Kirche auf und tauchen danach tief in die Ausstellungen des Stadtmuseums ein.\n\nNachmittags erwartet Sie der Park Gródek als Winterwunderland; die gefrorenen Teiche bieten eine surreale Kulisse, bevor die Sonne gegen 16:00 Uhr untergeht.\n\nDen Abend lassen Sie am Kulturzentrum ausklingen, während die Stadtlichter die winterliche Kälte vertreiben.",
+            "hu": "A fagyos reggel Jaworzno főterén különleges hangulatot áraszt a téli égbolt alatt. A bányászok szobra büszkén dacol a hideg széllel.\n\nDélben melegedjen fel a templom belső terében, majd töltse a leghidegebb órákat a Városi Múzeum falai között.\n\nDélután a Park Gródek téli mesevilággá változik; a befagyott vízfelületek szürreális látványt nyújtanak a korai, délután 4 órai naplemente előtt.\n\nAz este a Kulturális Központ környékén találja, ahol a városi fények barátságossá teszik a téli éjszakát.",
+            "ro": "O dimineață geroasă în Piața Centrală din Jaworzno oferă o atmosferă magică sub cerul de iarnă. Statuia Minerilor stă mândră în vântul rece.\n\nLa prânz, încălziți-vă în interiorul bisericii, apoi petreceți orele cele mai reci explorând Muzeul Orașului.\n\nDupă-amiaza, Park Gródek se transformă într-un tărâm de basm; lacurile înghețate oferă un cadru ireal înainte de apusul de la ora 16:00.\n\nSeara se încheie la Centrul Cultural, în timp ce luminile orașului străpung întunericul iernii.",
+            "en": "A frosty morning at Jaworzno's Market Square offers a magical atmosphere under the winter sky. The Miners' statue stands proud against the cold breeze.\n\nAt midday, warm up inside the church's serene interior, then spend the coldest hours inside the City Museum.\n\nIn the afternoon, Park Gródek turns into a winter wonderland; the frozen ponds provide a surreal backdrop before the early 4 PM sunset.\n\nEnd your evening near the Cultural Centre, where the warm city lights contrast with the winter chill."
+          },
+          "stops": [
+            {
+              "name": "Market Square (Rynek)",
+              "tip_4lang": {
+                "de": "Genießen Sie die winterliche Beleuchtung und den Raureif auf den Bäumen.",
+                "hu": "Élvezze a téli díszkivilágítást és a fákon megülő zúzmarát.",
+                "ro": "Bucurați-vă de iluminatul festiv și de chiciura de pe copaci.",
+                "en": "Enjoy the winter lights and the frost on the trees."
+              }
+            },
+            {
+              "name": "Monument of the Miners",
+              "tip_4lang": {
+                "de": "Die Statue wirkt im Schnee besonders heroisch.",
+                "hu": "A szobor a hóesésben különösen hősies látványt nyújt.",
+                "ro": "Statuia arată deosebit de eroic în zăpadă.",
+                "en": "The statue looks particularly heroic when covered in snow."
+              }
+            },
+            {
+              "name": "Collegiate Church of St. Adalbert",
+              "tip_4lang": {
+                "de": "Ein warmer Ort für eine kurze besinnliche Pause.",
+                "hu": "Meleg menedék egy rövid, elmélyült pihenőhöz.",
+                "ro": "Un loc călduros pentru o scurtă pauză de meditație.",
+                "en": "A warm place for a short, meditative break from the cold."
+              }
+            },
+            {
+              "name": "City Museum of Jaworzno",
+              "tip_4lang": {
+                "de": "Perfekt, um die kälteste Zeit des Tages im Warmen zu verbringen.",
+                "hu": "Tökéletes helyszín a nap leghidegebb óráinak átvészeléséhez.",
+                "ro": "Perfect pentru a petrece cele mai reci ore ale zilei la căldură.",
+                "en": "The perfect spot to spend the coldest part of the day indoors."
+              }
+            },
+            {
+              "name": "Park Gródek",
+              "tip_4lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Wegen; festes Schuhwerk nötig.",
+                "hu": "Vigyázzon a jeges szakaszokra; bordázott talpú bakancs ajánlott.",
+                "ro": "Atenție la porțiunile înghețate; este nevoie de încălțăminte solidă.",
+                "en": "Watch out for icy patches on the paths; sturdy boots are required."
+              }
+            },
+            {
+              "name": "Cultural Centre of Jaworzno",
+              "tip_4lang": {
+                "de": "Ein guter Treffpunkt, bevor es zurück in die warme Unterkunft geht.",
+                "hu": "Kiváló találkozópont, mielőtt visszatérne a fűtött szállásra.",
+                "ro": "Un punct de întâlnire excelent înainte de a reveni la căldură.",
+                "en": "A great meeting point before heading back to your warm accommodation."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:00 Uhr unter.",
+              "Tragen Sie Thermo-Kleidung für den längeren Aufenthalt im Park Gródek.",
+              "Viele Cafés am Marktplatz bieten im Winter heißen polnischen Honigwein an.",
+              "Die Wege im Park werden im Winter nicht immer vollständig geräumt."
+            ],
+            "hu": [
+              "Télen a nap már délután 4 óra körül nyugovóra tér.",
+              "Viseljen thermo ruházatot a hosszabb parki séta idejére.",
+              "A főtéri kávézókban kóstolja meg a forró mézes bort.",
+              "A parki ösvényeket télen nem mindenhol tisztítják meg a hótól."
+            ],
+            "ro": [
+              "Soarele apune iarna în jurul orei 16:00.",
+              "Purtați haine termice pentru plimbarea prelungită în parc.",
+              "Cafenelele din piață servesc vin fiert cu miere, specific polonez.",
+              "Potecile din parc nu sunt întotdeauna curățate complet de zăpadă."
+            ],
+            "en": [
+              "Sunset occurs as early as 4 PM during the winter months.",
+              "Wear thermal clothing for the extended walk in Park Gródek.",
+              "Many cafes on the square serve hot Polish honey wine in winter.",
+              "Park trails may not be fully cleared of snow during winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +924,206 @@
           "Check the weather forecast; some paths can be slippery after rain.",
           "Poland has some specific traffic rules for cyclists, briefly inform yourself about them."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour durch Jaworzno erfordert gute Ausrüstung, bietet aber leere Wege. Start am Ring unter grauen Wolken.\n\nMittags kombinieren Sie Kultur und Schutz in der Kirche und dem Museum, während die Räder sicher geparkt sind.\n\nNachmittags führt die Route zur Geosfera und zum Park Gródek. Die Felsen leuchten im Regen besonders farbintensiv.\n\nDer Tag endet am See Sosina, wo die regnerische Stille eine ganz eigene Ruhe ausstrahlt, bevor es zurück zum Ring geht.",
+            "hu": "Egy esős kerékpártúra Jaworznóban jó felszerelést igényel, de cserébe üres utakat kínál. Indulás a főtérről a szürke felhők alatt.\n\nDélben kombinálja a kultúrát a védelemmel a templomban és a múzeumban, amíg a biciklik biztonságban pihennek.\n\nDélután az út a Geosfera és a Park Gródek felé vezet. A sziklák színei esőben még élénkebbek.\n\nA nap a Sosina-tónál zárul, ahol az eső áztatta táj különleges nyugalmat áraszt, mielőtt visszakerekezne a főtérre.",
+            "ro": "O tură cu bicicleta prin Jaworzno pe ploaie necesită echipament bun, dar oferă poteci libere. Start din piață sub nori gri.\n\nLa prânz, combinați cultura cu protecția în biserică și muzeu, în timp ce bicicletele sunt parcate în siguranță.\n\nDupă-amiaza, traseul duce la Geosfera și Park Gródek. Culorile stâncilor sunt mai intense pe timp de ploaie.\n\nZiua se încheie la Lacul Sosina, unde liniștea ploioasă oferă o atmosferă aparte, înainte de întoarcerea în centru.",
+            "en": "A wet bike ride through Jaworzno requires good gear but rewards you with empty paths. Start at the square under grey skies.\n\nAt midday, combine culture and shelter at the church and museum while your bikes are safely parked nearby.\n\nIn the afternoon, the route leads to Geosfera and Park Gródek. The rocks' colors appear more vivid in the rain.\n\nThe day ends at Sosina Lake, where the rainy silence emanates a unique peace before the final leg back to the center."
+          },
+          "stops": [
+            {
+              "name": "Market Square (Rynek)",
+              "tip_4lang": {
+                "de": "Prüfen Sie Ihre Bremsen; nasse Oberflächen verlangen längere Bremswege.",
+                "hu": "Ellenőrizze a fékeket; a vizes aszfalton hosszabb féktávval számoljon.",
+                "ro": "Verificați frânele; suprafețele umede necesită distanțe de frânare mai mari.",
+                "en": "Check your brakes; wet surfaces require longer braking distances."
+              }
+            },
+            {
+              "name": "Collegiate Church of St. Adalbert",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Fahrradständer in der Nähe des Eingangs.",
+                "hu": "Használja a bejárat közeli kerékpártámaszokat.",
+                "ro": "Folosiți suporturile de biciclete de lângă intrare.",
+                "en": "Use the bike racks located near the entrance."
+              }
+            },
+            {
+              "name": "City Museum of Jaworzno",
+              "tip_4lang": {
+                "de": "Ein idealer Ort für eine längere Regenpause.",
+                "hu": "Ideális helyszín egy hosszabb esőszünet megtartásához.",
+                "ro": "Un loc ideal pentru o pauză mai lungă de ploaie.",
+                "en": "An ideal place for an extended break from the rain."
+              }
+            },
+            {
+              "name": "Geosfera Jaworzno",
+              "tip_4lang": {
+                "de": "Vorsicht auf den Schotterwegen; diese können bei Regen aufweichen.",
+                "hu": "Vigyázzon a murvás utakon; esőben felázhat a talaj.",
+                "ro": "Atenție pe drumurile cu pietriș; se pot înmuia din cauza ploii.",
+                "en": "Careful on the gravel paths; they can soften in the rain."
+              }
+            },
+            {
+              "name": "Park Gródek",
+              "tip_4lang": {
+                "de": "Schieben Sie das Rad auf den Holzstegen, um Rutschgefahr zu vermeiden.",
+                "hu": "A fapallókon tolja a kerékpárt a csúszásveszély miatt.",
+                "ro": "Împingeți bicicleta pe pasarelele de lemn pentru a evita alunecarea.",
+                "en": "Walk your bike on the wooden walkways to avoid slipping."
+              }
+            },
+            {
+              "name": "Sosina Lake",
+              "tip_4lang": {
+                "de": "Die asphaltierte Umfahrung des Sees ist auch bei Regen gut befahrbar.",
+                "hu": "A tó körüli aszfaltozott út esőben is jól tekerhető.",
+                "ro": "Drumul asfaltat din jurul lacului este practicabil și pe ploaie.",
+                "en": "The paved loop around the lake remains rideable even in the rain."
+              }
+            },
+            {
+              "name": "Return to Market Square",
+              "tip_4lang": {
+                "de": "Eine warme Mahlzeit ist die Belohnung für die tapfere Fahrt.",
+                "hu": "Egy meleg étel a jutalom a bátor esős tekerés után.",
+                "ro": "O masă caldă este recompensa pentru tura curajoasă pe ploaie.",
+                "en": "A warm meal is the reward for your brave rainy ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und Regenhose.",
+              "Achten Sie auf Pfützen, die tiefe Schlaglöcher verbergen könnten.",
+              "Beleuchtung ist bei Regen für die Sichtbarkeit unerlässlich.",
+              "Nutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot (kabát és nadrág).",
+              "Ügyeljen a tócsákra, amelyek mély kátyúkat rejthetnek.",
+              "A világítás esőben is kötelező a láthatóság miatt.",
+              "Használjon sárvédőt a felfröccsenő víz ellen."
+            ],
+            "ro": [
+              "Purtați jachetă și pantaloni de ploaie complet impermeabili.",
+              "Atenție la bălțile care pot ascunde gropi adânci.",
+              "Luminile sunt esențiale pentru vizibilitate pe timp de ploaie.",
+              "Folosiți apărători de noroi pentru a vă proteja de stropi."
+            ],
+            "en": [
+              "Wear a full set of waterproof jacket and pants.",
+              "Watch out for puddles that might hide deep potholes.",
+              "Lights are essential for visibility during rainy conditions.",
+              "Use mudguards to protect yourself from road spray."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Jaworzno ist erfrischend. Start am kühlen Marktplatz, während der Frost auf dem Sattel glitzert.\n\nMittags bieten Kirche und Museum die nötige Wärme, um die Finger wieder beweglich zu machen.\n\nNachmittags geht es durch die klare Winterluft zur Geosfera und zum Park Gródek. Die tiefstehende Sonne sorgt für dramatische Schatten auf den Felsen.\n\nBevor die Dunkelheit einbricht, erreichen Sie den See Sosina und kehren dann zügig zum beleuchteten Stadtzentrum zurück.",
+            "hu": "A téli kerékpározás Jaworznóban frissítő élmény. Indulás a hűvös főtérről, miközben a dér csillog a nyergen.\n\nDélben a templom és a múzeum nyújtja a szükséges meleget az átfagyott ujjak felmelegítéséhez.\n\nDélután a tiszta téli levegőben tekerjen el a Geosfera és a Park Gródek felé. Az alacsonyan járó nap drámai árnyékokat vet a sziklákra.\n\nMielőtt beállna a sötétség, érje el a Sosina-tavat, majd térjen vissza a kivilágított városközpontba.",
+            "ro": "Ciclismul de iarnă în Jaworzno este revigorant. Start din piața răcoroasă, în timp ce bruma strălucește pe șa.\n\nLa prânz, biserica și muzeul oferă căldura necesară pentru a vă dezmorți degetele.\n\nDupă-amiaza, pedalați prin aerul curat de iarnă spre Geosfera și Park Gródek. Soarele jos creează umbre dramatice pe stânci.\n\nÎnainte de lăsarea întunericului, ajungeți la Lacul Sosina și reveniți rapid în centrul iluminat al orașului.",
+            "en": "Winter cycling in Jaworzno is a refreshing challenge. Start at the chilly square while frost glitters on your bike seat.\n\nAt midday, the church and museum provide the necessary warmth to get your fingers moving again.\n\nIn the afternoon, ride through the crisp winter air to Geosfera and Park Gródek. The low sun casts dramatic shadows across the limestone rocks.\n\nReach Sosina Lake before darkness falls, then make a swift return to the brightly lit city center."
+          },
+          "stops": [
+            {
+              "name": "Market Square (Rynek)",
+              "tip_4lang": {
+                "de": "Vorsicht beim Losfahren auf möglicherweise glattem Kopfsteinpflaster.",
+                "hu": "Vigyázzon az indulásnál az esetlegesen csúszós macskakövön.",
+                "ro": "Atenție la plecare pe pavajul care poate fi alunecos.",
+                "en": "Be careful when starting off on potentially slippery cobblestones."
+              }
+            },
+            {
+              "name": "Collegiate Church of St. Adalbert",
+              "tip_4lang": {
+                "de": "Kurze Aufwärmpause in der Stille des Gotteshauses.",
+                "hu": "Rövid melegedő pihenő a templom csendjében.",
+                "ro": "O scurtă pauză de încălzire în liniștea bisericii.",
+                "en": "A brief warm-up break in the quiet of the church."
+              }
+            },
+            {
+              "name": "City Museum of Jaworzno",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre Winterausrüstung.",
+                "hu": "Használja a ruhatárat a vastag téli felszerelésnek.",
+                "ro": "Folosiți garderoba pentru echipamentul de iarnă.",
+                "en": "Use the cloakroom for your bulky winter riding gear."
+              }
+            },
+            {
+              "name": "Geosfera Jaworzno",
+              "tip_4lang": {
+                "de": "Die Wege können bei Bodenfrost sehr hart und rutschig sein.",
+                "hu": "A talajfagy miatt az utak nagyon kemények és csúszósak lehetnek.",
+                "ro": "Drumurile pot fi foarte dure și alunecoase din cauza înghețului.",
+                "en": "Paths can be very hard and slippery due to ground frost."
+              }
+            },
+            {
+              "name": "Park Gródek",
+              "tip_4lang": {
+                "de": "Das Schieben des Rades schont die Kräfte bei Kälte.",
+                "hu": "A kerékpár tolása segít energiát spórolni a hidegben.",
+                "ro": "Împingerea bicicletei ajută la conservarea energiei pe frig.",
+                "en": "Walking your bike helps conserve energy in the cold."
+              }
+            },
+            {
+              "name": "Sosina Lake",
+              "tip_4lang": {
+                "de": "Genießen Sie die weite, klare Sicht über das Wasser.",
+                "hu": "Élvezze a tiszta, messzire nyúló kilátást a víz felett.",
+                "ro": "Bucurați-vă de vizibilitatea clară peste oglinda apei.",
+                "en": "Enjoy the wide, clear views over the winter waters."
+              }
+            },
+            {
+              "name": "Return to Market Square",
+              "tip_4lang": {
+                "de": "Stellen Sie sicher, dass Ihre Beleuchtung für die Rückfahrt hell genug ist.",
+                "hu": "Győződjön meg róla, hogy a világítása elég erős a hazautúthoz.",
+                "ro": "Asigurați-vă că luminile sunt destul de puternice pentru retur.",
+                "en": "Ensure your lights are bright enough for the dark return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie geschichtete Kleidung und winddichte Handschuhe.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck bietet mehr Grip auf Schnee.",
+              "Vermeiden Sie plötzliches Bremsen auf glatten Flächen.",
+              "Die Akkus von E-Bikes entladen sich bei Kälte deutlich schneller."
+            ],
+            "hu": [
+              "Öltözzön rétegesen és viseljen szélálló kesztyűt.",
+              "Ellenőrizze a guminyomást; a kisebb nyomás jobb tapadást ad havon.",
+              "Kerülje a hirtelen fékezést a csúszós felületeken.",
+              "Az e-bike akkumulátorok hidegben sokkal gyorsabban merülnek."
+            ],
+            "ro": [
+              "Purtați haine în straturi și mănuși rezistente la vânt.",
+              "Verificați presiunea; o presiune mai mică oferă aderență pe zăpadă.",
+              "Evitați frânările bruște pe suprafețe alunecoase.",
+              "Bateriile bicicletelor electrice se descarcă mult mai rapid pe ger."
+            ],
+            "en": [
+              "Wear layered clothing and windproof gloves.",
+              "Check tire pressure; lower pressure provides better grip on snow.",
+              "Avoid sudden braking on slippery or icy surfaces.",
+              "E-bike batteries drain significantly faster in cold weather."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1480,188 @@
           "Plan for some buffer time for traffic, particularly in the late afternoon.",
           "Don't leave valuables visible in the car when parked."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Jaworzno auch bei Regen komfortabel zu erkunden. Start am Parkplatz nahe dem Marktplatz.\n\nMittags besuchen Sie die Kirche und das Museum trockenen Fußes, während der Regen gegen die Scheiben prasselt.\n\nNachmittags fahren Sie bequem zum Park Gródek und zur Geosfera. Die Parkplätze sind nah an den Hauptattraktionen.\n\nDer Tag endet entspannt am See Sosina, wo Sie den Ausblick aus dem warmen Auto genießen können.",
+            "hu": "Autóval Jaworzno esőben is kényelmesen felfedezhető. Indulás a főtér közeli parkolóból.\n\nDélben látogassa meg a templomot és a múzeumot száraz lábbal, miközben az eső kopog a szélvédőn.\n\nDélután autózzon el a Park Gródekhez és a Geosferához. A parkolók közel vannak a látnivalókhoz.\n\nA nap pihentetően zárul a Sosina-tónál, ahol akár az autó melegéből is élvezheti a kilátást.",
+            "ro": "Cu mașina, Jaworzno este ușor de explorat chiar și pe ploaie. Start din parcarea de lângă piață.\n\nLa prânz, vizitați biserica și muzeul rămânând uscat, în timp ce ploaia bate în parbriz.\n\nDupă-amiaza, conduceți confortabil spre Park Gródek și Geosfera. Parcările sunt aproape de atracții.\n\nZiua se încheie relaxat la Lacul Sosina, unde puteți admira peisajul din confortul mașinii.",
+            "en": "By car, Jaworzno is easy to explore even during a downpour. Start at the parking lot near the main square.\n\nAt midday, visit the church and museum, staying dry while the rain drums on the windshield.\n\nIn the afternoon, drive comfortably to Park Gródek and Geosfera. Parking lots are located close to the main highlights.\n\nThe day ends peacefully at Sosina Lake, where you can enjoy the view from the warmth of your vehicle."
+          },
+          "stops": [
+            {
+              "name": "Parking near Market Square",
+              "tip_4lang": {
+                "de": "Suchen Sie einen Platz nahe dem Ausgang, um den Weg im Regen zu verkürzen.",
+                "hu": "Keressen helyet a kijárathoz közel, hogy rövidebb legyen az út az esőben.",
+                "ro": "Căutați un loc aproape de ieșire pentru a scurta drumul prin ploaie.",
+                "en": "Find a spot near the exit to minimize your time walking in the rain."
+              }
+            },
+            {
+              "name": "Market Square & Miners' Monument",
+              "tip_4lang": {
+                "de": "Ein schneller Besuch für ein Foto; nutzen Sie den Regenschirm.",
+                "hu": "Gyors látogatás egy fotó erejéig; használjon esernyőt.",
+                "ro": "O vizită rapidă pentru o fotografie; folosiți umbrela.",
+                "en": "A quick visit for a photo; make sure to use an umbrella."
+              }
+            },
+            {
+              "name": "Collegiate Church of St. Adalbert",
+              "tip_4lang": {
+                "de": "Parken Sie direkt an der Straße für minimalen Gehweg.",
+                "hu": "Parkoljon közvetlenül az utcán a minimális gyaloglásért.",
+                "ro": "Parcați direct pe stradă pentru a merge cât mai puțin pe jos.",
+                "en": "Park directly on the street to minimize walking distance."
+              }
+            },
+            {
+              "name": "Park Gródek (Parking)",
+              "tip_4lang": {
+                "de": "Der Parkplatz kann bei starkem Regen matschig sein.",
+                "hu": "A parkoló erős esőben sárossá válhat.",
+                "ro": "Parcarea poate deveni noroioasă în caz de ploaie puternică.",
+                "en": "The parking area can become muddy during heavy rain."
+              }
+            },
+            {
+              "name": "Exploring Park Gródek & Geosfera",
+              "tip_4lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon a kiépített utakon a sár elkerülése érdekében.",
+                "ro": "Rămâneți pe potecile amenajate pentru a evita noroiul.",
+                "en": "Stick to the paved paths to avoid getting muddy."
+              }
+            },
+            {
+              "name": "Sosina Lake",
+              "tip_4lang": {
+                "de": "Es gibt Parkplätze mit direktem Seeblick.",
+                "hu": "Vannak parkolóhelyek közvetlen kilátással a tóra.",
+                "ro": "Există locuri de parcare cu vedere directă spre lac.",
+                "en": "There are parking spots with a direct view of the lake."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Verbindungsstraßen.",
+              "Halten Sie einen Regenschirm im Türfach bereit.",
+              "Nutzen Sie die Park-Apps, um das Bezahlen im Regen zu beschleunigen.",
+              "Die Sicht kann bei starkem Regen in den Waldgebieten eingeschränkt sein."
+            ],
+            "hu": [
+              "Ügyeljen a vízátfolyásokra az összekötő utakon.",
+              "Tartson esernyőt az ajtózsebben, hogy kéznél legyen.",
+              "Használjon parkolási applikációt a gyorsabb fizetéshez.",
+              "A látási viszonyok korlátozottak lehetnek az erdős szakaszokon."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile de legătură.",
+              "Țineți o umbrelă la îndemână în buzunarul portierei.",
+              "Folosiți aplicații de parcare pentru a plăti rapid pe ploaie.",
+              "Vizibilitatea poate fi redusă în zonele împădurite pe ploaie densă."
+            ],
+            "en": [
+              "Watch out for aquaplaning on connecting roads.",
+              "Keep an umbrella ready in the door pocket.",
+              "Use parking apps to speed up payment in the rain.",
+              "Visibility can be limited in forested areas during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch Jaworzno ist sicher und warm. Start am Parkplatz, während die Heizung das Auto enteist.\n\nMittags erkunden Sie den Marktplatz und die Museen, immer mit der Gewissheit einer warmen Rückkehr ins Fahrzeug.\n\nNachmittags führt die Fahrt zum Park Gródek. Die schneebedeckten Steinbrüche wirken aus der Ferne wie eine Polarlandschaft.\n\nDen Sonnenuntergang am See Sosina erleben Sie gemütlich, bevor Sie durch das beleuchtete Jaworzno zurückfahren.",
+            "hu": "A téli autózás Jaworznóban biztonságos és meleg. Indulás a parkolóból, amíg a fűtés leolvasztja a jeget.\n\nDélben fedezze fel a főteret és a múzeumokat, tudva, hogy bármikor visszatérhet a meleg autóba.\n\nDélután autózzon a Park Gródekhez. A hóval borított kőfejtők távolról sarkvidéki tájnak tűnnek.\n\nA Sosina-tavi naplementét kényelemben élvezheti, mielőtt átvághatna a kivilágított városon.",
+            "ro": "O plimbare cu mașina prin Jaworzno iarna este sigură și călduroasă. Start din parcare în timp ce căldura dezgheață geamurile.\n\nLa prânz, explorați piața și muzeele, având mereu siguranța unei reveniri la căldură în vehicul.\n\nDupă-amiaza, mergeți spre Park Gródek. Carierele acoperite de zăpadă par un peisaj polar de la distanță.\n\nAdmirați apusul la Lacul Sosina în confort, înainte de a conduce prin orașul iluminat festiv.",
+            "en": "A winter drive through Jaworzno is both safe and cozy. Start at the parking lot while the heater defrosts your car.\n\nAt midday, explore the square and museums, knowing you can always return to your warm vehicle.\n\nIn the afternoon, drive to Park Gródek. The snow-covered quarries look like a polar landscape from a distance.\n\nExperience the sunset at Sosina Lake in total comfort before driving back through the illuminated streets."
+          },
+          "stops": [
+            {
+              "name": "Parking near Market Square",
+              "tip_4lang": {
+                "de": "Vorsicht vor Eisplatten auf dem Parkplatzgelände.",
+                "hu": "Vigyázzon a jégfoltokkal a parkoló területén.",
+                "ro": "Atenție la porțiunile de gheață din zona parcării.",
+                "en": "Watch out for icy patches in the parking area."
+              }
+            },
+            {
+              "name": "Market Square & Miners' Monument",
+              "tip_4lang": {
+                "de": "Die Statuen tragen oft 'Hüte' aus Schnee.",
+                "hu": "A szobrok télen gyakran kapnak hósapkát.",
+                "ro": "Statuile poartă adesea 'căciuli' de zăpadă.",
+                "en": "The statues often wear 'caps' of snow during winter."
+              }
+            },
+            {
+              "name": "Collegiate Church of St. Adalbert",
+              "tip_4lang": {
+                "de": "Ein kurzer Fußweg vom Parkplatz zum warmen Kirchenschiff.",
+                "hu": "Rövid séta a parkolótól a fűtött templomhajóig.",
+                "ro": "O scurtă plimbare de la parcare la nava încălzită a bisericii.",
+                "en": "A short walk from your parking spot to the warm church nave."
+              }
+            },
+            {
+              "name": "Park Gródek (Parking)",
+              "tip_4lang": {
+                "de": "Der Parkplatz wird bei Schnee nicht immer sofort geräumt.",
+                "hu": "A parkolót havazáskor nem mindig takarítják azonnal.",
+                "ro": "Parcarea nu este întotdeauna deszăpezită imediat.",
+                "en": "The parking lot may not be cleared of snow immediately."
+              }
+            },
+            {
+              "name": "Exploring Park Gródek & Geosfera",
+              "tip_4lang": {
+                "de": "Die Treppen zu den Aussichtspunkten können glatt sein.",
+                "hu": "A kilátókhoz vezető lépcsők csúszósak lehetnek.",
+                "ro": "Scările spre punctele de belvedere pot fi alunecoase.",
+                "en": "The stairs leading to the viewpoints can be slippery."
+              }
+            },
+            {
+              "name": "Sosina Lake",
+              "tip_4lang": {
+                "de": "Parken Sie so, dass Sie den Sonnenuntergang direkt sehen können.",
+                "hu": "Úgy parkoljon, hogy közvetlenül lássa a naplementét.",
+                "ro": "Parcați astfel încât să vedeți apusul direct din mașină.",
+                "en": "Park in a position where you can view the sunset directly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Sie Winterreifen aufgezogen haben.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Die Straßen im Stadtzentrum werden gut geräumt, Nebenstraßen weniger.",
+              "Planen Sie mehr Zeit für das Einparken bei Schneehaufen ein."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy téli gumik vannak az autón.",
+              "Legyen önnél jégkaparó és fagyálló szélvédőmosó.",
+              "A belvárosi utakat jól takarítják, a mellékutcákat kevésbé.",
+              "Számoljon több idővel a parkolásra a hóbuckák miatt."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți anvelope de iarnă montate.",
+              "Aveți la îndemână o racletă și lichid de parbriz de iarnă.",
+              "Drumurile centrale sunt bine curățate, cele secundare mai puțin.",
+              "Alocați mai mult timp pentru parcare din cauza mormanelor de zăpadă."
+            ],
+            "en": [
+              "Ensure you have winter tires installed.",
+              "Keep an ice scraper and winter windshield fluid in the car.",
+              "Main city roads are well-cleared, but side streets may not be.",
+              "Allow extra time for parking due to snow banks."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1430,6 +1994,170 @@
           "Be aware of bus schedules, especially for the last return trip from the lake.",
           "Keep some small change for tickets in case you need to buy from the driver."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Nutzung des öffentlichen Nahverkehrs in Jaworzno ist bei Regen eine kluge Wahl. Start im Zentrum nahe dem Marktplatz.\n\nMittags erreichen Sie Museen und Kirchen bequem per Bus, ohne lange im Regen zu stehen.\n\nNachmittags bringt Sie die Linie zum Park Gródek. Ein kurzer Fußweg von der Haltestelle führt zur beeindruckenden Kulisse.\n\nDer Tag endet mit der Busfahrt zurück ins Zentrum, während Sie die regnerische Stadt aus dem Fenster beobachten.",
+            "hu": "A tömegközlekedés Jaworznóban okos döntés esőben. Indulás a központból, a főtér mellől.\n\nDélben kényelmesen elérheti a múzeumokat és templomokat busszal, elkerülve az ázást.\n\nDélután a járat elviszi a Park Gródekhez. A megállótól csak rövid séta a lenyűgöző látvány.\n\nA nap a központba való visszautazással zárul, miközben az ablakból figyeli az esős várost.",
+            "ro": "Folosirea transportului public în Jaworzno este o alegere înțeleaptă pe ploaie. Start din centru, de lângă piață.\n\nLa prânz, ajungeți confortabil la muzee și biserici cu autobuzul, evitând ploaia.\n\nDupă-amiaza, linia vă duce spre Park Gródek. O scurtă plimbare de la stație vă oferă o priveliște impresionantă.\n\nZiua se încheie cu drumul de întoarcere în centru, observând orașul ploios de la fereastră.",
+            "en": "Using public transit in Jaworzno is a smart move in the rain. Start in the center, near the main square.\n\nAt midday, reach museums and churches conveniently by bus, avoiding long exposures to the rain.\n\nIn the afternoon, the local line takes you to Park Gródek. It's just a short walk from the stop to the scenic views.\n\nFinish your day with a bus ride back to the center, watching the rainy city pass by the window."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Market Square (Stop: Jaworzno Centrum)",
+              "tip_4lang": {
+                "de": "Die Haltestelle ist überdacht; warten Sie dort auf den Anschluss.",
+                "hu": "A megálló fedett; várja ott a csatlakozást.",
+                "ro": "Stația este acoperită; așteptați acolo legătura.",
+                "en": "The stop is covered; wait there for your connection."
+              }
+            },
+            {
+              "name": "Collegiate Church & City Museum",
+              "tip_4lang": {
+                "de": "Nutzen Sie die kurzen Wege zwischen den Gebäuden.",
+                "hu": "Használja ki az épületek közötti rövid távolságokat.",
+                "ro": "Folosiți distanțele scurte dintre clădiri.",
+                "en": "Take advantage of the short distances between the buildings."
+              }
+            },
+            {
+              "name": "Arrival at Park Gródek (Stop: Pieczyska Centrum Nurkowe)",
+              "tip_4lang": {
+                "de": "Halten Sie den Regenschirm bereit für den Weg zum Park.",
+                "hu": "Legyen kéznél az esernyő a parkhoz vezető úton.",
+                "ro": "Aveți umbrela pregătită pentru drumul spre parc.",
+                "en": "Keep your umbrella ready for the walk to the park."
+              }
+            },
+            {
+              "name": "Arrival at Sosina Lake (Stop: Sosina Plaża)",
+              "tip_4lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten, um langes Warten im Regen zu vermeiden.",
+                "hu": "Ellenőrizze a visszautat, hogy ne várjon sokat az esőben.",
+                "ro": "Verificați orele de retur pentru a nu aștepta mult în ploaie.",
+                "en": "Check return times to avoid waiting long in the rain."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_4lang": {
+                "de": "Das Busterminal im Zentrum bietet viele Unterstellmöglichkeiten.",
+                "hu": "A központi buszpályaudvar sok fedett részt kínál.",
+                "ro": "Terminalul central de autobuze oferă multe locuri la adăpost.",
+                "en": "The central bus hub offers plenty of sheltered areas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Jaworzno hat eines der modernsten E-Bus-Systeme Polens.",
+              "Nutzen Sie die App 'jakdojade' für Echtzeit-Fahrpläne.",
+              "Fahrkarten können kontaktlos im Bus gekauft werden.",
+              "Die Busse sind gut beheizt und bieten Schutz vor dem Wetter."
+            ],
+            "hu": [
+              "Jaworzno rendelkezik Lengyelország egyik legmodernebb e-busz hálózatával.",
+              "Használja a 'jakdojade' appot a valós idejű menetrendhez.",
+              "A jegyeket érintésmentesen is megveheti a buszon.",
+              "A buszok jól fűtöttek és védelmet nyújtanak az időjárás ellen."
+            ],
+            "ro": [
+              "Jaworzno are unul dintre cele mai moderne sisteme de autobuze electrice.",
+              "Folosiți aplicația 'jakdojade' pentru orarul în timp real.",
+              "Biletele pot fi cumpărate contactless direct în autobuz.",
+              "Autobuzele sunt bine încălzite și oferă protecție contra intemperiilor."
+            ],
+            "en": [
+              "Jaworzno has one of Poland's most modern electric bus fleets.",
+              "Use the 'jakdojade' app for real-time schedules.",
+              "Tickets can be purchased contactlessly on board the bus.",
+              "The buses are well-heated and provide excellent shelter."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Jaworzno im Winter stressfrei mit dem Bus. Start am winterlichen Marktplatz.\n\nMittags pendeln Sie zwischen den kulturellen Highlights im Stadtzentrum, immer angenehm warm in den modernen E-Bussen.\n\nNachmittags bringt Sie der Transit zum Park Gródek. Die frostige Landschaft wirkt durch das Busfenster besonders friedlich.\n\nNach dem frühen Sonnenuntergang kehren Sie sicher zum beleuchteten Zentrum zurück, während draußen die winterliche Kälte herrscht.",
+            "hu": "Fedezze fel Jaworznót télen stresszmentesen busszal. Indulás a téli hangulatú főtérről.\n\nDélben ingázzon a városközpont kulturális látnivalói között a modern, fűtött elektromos buszokkal.\n\nDélután a járat elviszi a Park Gródekhez. A fagyos táj a busz ablakából nézve különösen békés.\n\nA korai naplemente után biztonságban térjen vissza a kivilágított központba, elkerülve a kinti hideget.",
+            "ro": "Descoperiți Jaworzno iarna fără stres, folosind autobuzul. Start din piața cu atmosferă de iarnă.\n\nLa prânz, navetați între punctele culturale centrale în autobuzele electrice moderne și calde.\n\nDupă-amiaza, transportul public vă duce la Park Gródek. Peisajul înghețat pare foarte liniștit prin fereastra autobuzului.\n\nDupă apusul timpuriu, reveniți în siguranță în centrul iluminat, evitând gerul de afară.",
+            "en": "Discover Jaworzno in winter stress-free by bus. Start at the winter-themed Market Square.\n\nAt midday, commute between cultural highlights in the city center inside warm, modern electric buses.\n\nIn the afternoon, transit takes you to Park Gródek. The frosty landscape looks peaceful through the bus window.\n\nAfter the early sunset, return safely to the brightly lit center, avoiding the freezing temperatures outside."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Market Square (Stop: Jaworzno Centrum)",
+              "tip_4lang": {
+                "de": "Das Zentrum ist festlich beleuchtet; ideal für Abendfotos.",
+                "hu": "A központ ünnepi kivilágítást kap; ideális esti fotókhoz.",
+                "ro": "Centrul este iluminat festiv; ideal pentru fotografii de seară.",
+                "en": "The center is festively lit; perfect for evening photos."
+              }
+            },
+            {
+              "name": "Collegiate Church & City Museum",
+              "tip_4lang": {
+                "de": "Genießen Sie die Wärme in den Ausstellungsräumen.",
+                "hu": "Élvezze a meleget a kiállítótermekben.",
+                "ro": "Bucurați-vă de căldură în sălile de expoziție.",
+                "en": "Enjoy the warmth inside the exhibition rooms."
+              }
+            },
+            {
+              "name": "Arrival at Park Gródek (Stop: Pieczyska Centrum Nurkowe)",
+              "tip_4lang": {
+                "de": "Achten Sie auf die rutschigen Stufen beim Aussteigen.",
+                "hu": "Vigyázzon a csúszós lépcsőkre a leszálláskor.",
+                "ro": "Atenție la treptele alunecoase la coborâre.",
+                "en": "Watch out for slippery steps when getting off the bus."
+              }
+            },
+            {
+              "name": "Arrival at Sosina Lake (Stop: Sosina Plaża)",
+              "tip_4lang": {
+                "de": "Warten Sie in der Haltestelle, um sich vor dem Wind zu schützen.",
+                "hu": "Várjon a megállóban, hogy védve legyen a széltől.",
+                "ro": "Așteptați în stație pentru a vă proteja de vânt.",
+                "en": "Wait inside the bus shelter to stay protected from the wind."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_4lang": {
+                "de": "Die Busse fahren im Winter nach dem regulären Fahrplan.",
+                "hu": "A buszok télen is a rendes menetrend szerint közlekednek.",
+                "ro": "Autobuzele circulă conform orarului obișnuit și iarna.",
+                "en": "Buses run according to the regular schedule during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die E-Busse sind im Winter sehr zuverlässig beheizt.",
+              "Halten Sie Ihr Ticket griffbereit, um nicht lange im Kalten zu suchen.",
+              "An den Haltestellen gibt es oft elektronische Anzeigen mit Echtzeitdaten.",
+              "Planen Sie für den Fußweg von der Haltestelle zum See mehr Zeit ein."
+            ],
+            "hu": [
+              "Az elektromos buszok télen is megbízhatóan fűtöttek.",
+              "Tartsa készenlétben a jegyét, hogy ne a hidegben kelljen keresgélni.",
+              "A megállókban gyakran van elektronikus kijelző valós adatokkal.",
+              "Számoljon több idővel a megállótól a tóig tartó gyalogútra."
+            ],
+            "ro": [
+              "Autobuzele electrice sunt încălzite foarte bine iarna.",
+              "Aveți biletul la îndemână pentru a nu căuta prin buzunare în frig.",
+              "În stații există adesea panouri electronice cu date în timp real.",
+              "Alocați mai mult timp pentru mersul pe jos de la stație la lac."
+            ],
+            "en": [
+              "The electric buses are consistently well-heated in winter.",
+              "Have your ticket ready to avoid fumbling in the cold.",
+              "Bus stops often feature electronic displays with real-time data.",
+              "Allow extra time for the walk from the stop to the lake."
+            ]
+          }
+        }
       }
     }
   }

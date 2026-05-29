@@ -284,6 +284,196 @@
           "Bring a reusable water bottle.",
           "Check the opening hours of akku in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am nebligen Reussufer spazieren, dann Schutz in der St. Marienkirche suchen. Mittags bietet die akku Kunstplattform ein trockenes Kulturprogramm. Nachmittags führt der Weg zur Gerliswil Kapelle, bevor man den Regentropfen am Riffigweiher lauscht. Abends Rückkehr im sanften Regen.",
+            "hu": "Reggel a ködös Reuss-parton kezdünk, majd a Szent Mária-templomban lelünk menedéket. Délben az akku Művészeti Platform kínál száraz kulturális élményt. Délután a Gerliswil-kápolna felé vesszük az irányt, végül a Riffigweiher tónál hallgatjuk az eső kopogását. Estére érünk vissza.",
+            "ro": "Dimineața pe malul cețos al râului Reuss, apoi căutăm adăpost în Biserica Sf. Maria. La prânz, Platforma de Artă akku oferă un program cultural uscat. După-amiaza mergem spre Capela Gerliswil, iar la final ascultăm picăturile de ploaie la iazul Riffigweiher. Seara ne întoarcem prin ploaia fină.",
+            "en": "Morning walk along the misty Reuss, then seek shelter in St. Mary's Church. At midday, the akku Art Platform provides a dry cultural escape. Afternoon leads to Gerliswil Chapel, finishing with the sound of rain at Riffigweiher Pond. Return in the gentle evening rain."
+          },
+          "stops": [
+            {
+              "name": "Reussufer Promenade",
+              "tip_5lang": {
+                "de": "Wasserdichte Schuhe für den Uferweg empfohlen.",
+                "hu": "Vízálló cipő ajánlott a parti sétányhoz.",
+                "ro": "Se recomandă încălțăminte impermeabilă pentru faleză.",
+                "en": "Waterproof shoes recommended for the riverside path."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ersten Regenschauer abzuwarten.",
+                "hu": "Tökéletes hely az első zápor kivárására.",
+                "ro": "Locul perfect pentru a aștepta trecerea primei ploi.",
+                "en": "Perfect place to wait out the first rain shower."
+              }
+            },
+            {
+              "name": "akku Art Platform",
+              "tip_5lang": {
+                "de": "Trockenes Indoor-Highlight mit wechselnden Ausstellungen.",
+                "hu": "Száraz fedett helyszín változatos kiállításokkal.",
+                "ro": "Punct de atracție interior, ferit de ploaie.",
+                "en": "Dry indoor highlight with changing exhibitions."
+              }
+            },
+            {
+              "name": "Gerliswil Chapel",
+              "tip_5lang": {
+                "de": "Kleiner, trockener Rückzugsort im Stadtteil Gerliswil.",
+                "hu": "Kis, száraz pihenőhely Gerliswil negyedben.",
+                "ro": "Un mic refugiu uscat în cartierul Gerliswil.",
+                "en": "Small, dry retreat in the Gerliswil district."
+              }
+            },
+            {
+              "name": "Riffigweiher Pond",
+              "tip_5lang": {
+                "de": "Die Bäume bieten begrenzten Schutz vor Nieselregen.",
+                "hu": "A fák korlátozott védelmet nyújtanak a szemerkélő esőben.",
+                "ro": "Copacii oferă adăpost limitat împotriva burniței.",
+                "en": "Trees provide limited shelter from light drizzle."
+              }
+            },
+            {
+              "name": "Kleine Emme River",
+              "tip_5lang": {
+                "de": "Vorsicht, die Uferwege können rutschig sein.",
+                "hu": "Vigyázat, a parti utak csúszósak lehetnek.",
+                "ro": "Atenție, potecile de pe mal pot fi alunecoase.",
+                "en": "Caution, the riverside paths can be slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei Wind am Fluss unerlässlich.",
+              "Nutzen Sie die akku Plattform für eine längere Pause im Trockenen.",
+              "Die Kirchen bieten ideale, ruhige Rückzugsorte bei Starkregen.",
+              "Achten Sie auf Pfützen auf den unbefestigten Wegen am Teich.",
+              "Warme Getränke in den Cafés nahe Emmenbrücke einplanen."
+            ],
+            "hu": [
+              "A folyóparti szélben egy erős esernyő elengedhetetlen.",
+              "Használja az akku platformot egy hosszabb száraz pihenőre.",
+              "A templomok ideális, csendes menedékek heves esőzéskor.",
+              "Ügyeljen a tó körüli földutakon kialakuló tócsákra.",
+              "Tervezzen be meleg italt az Emmenbrücke közeli kávézókban."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza vântului de pe râu.",
+              "Folosiți platforma akku pentru o pauză prelungită la uscat.",
+              "Bisericile sunt refugii ideale și liniștite în caz de ploaie torențială.",
+              "Atenție la bălțile de pe potecile neasfaltate de lângă iaz.",
+              "Planificați băuturi calde în cafenelele de lângă Emmenbrücke."
+            ],
+            "en": [
+              "A sturdy umbrella is essential with the wind by the river.",
+              "Use the akku platform for a longer break in the dry.",
+              "Churches provide ideal, quiet retreats during heavy rain.",
+              "Watch out for puddles on the unpaved paths near the pond.",
+              "Plan for warm drinks in cafes near Emmenbrücke."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start an der Reuss, wo der Morgentau gefroren ist. Die Kirchenbesuche bieten willkommene Wärme. Mittags wärmt die Kunst in der akku Plattform die Seele. Der kurze Nachmittag am Riffigweiher endet pünktlich zum Sonnenuntergang um 17:00 Uhr mit einer klaren, kalten Brise.",
+            "hu": "Fagyos kezdés a Reuss partján, ahol a reggeli harmat ráfagyott az utakra. A templomlátogatások melengető szünetet jelentenek. Délben az akku platform művészete tölti fel a lelket. A rövid délután a Riffigweihernél pont a 17:00-s naplementére ér véget a csípős hidegben.",
+            "ro": "Un început geros pe malul râului Reuss, unde roua dimineții a înghețat. Vizitele la biserici oferă o căldură binevenită. La prânz, arta de pe platforma akku încălzește sufletul. După-amiaza scurtă la Riffigweiher se încheie exact la apusul de la ora 17:00.",
+            "en": "A frosty start by the Reuss, where morning dew is frozen. Church visits offer welcome warmth. At midday, art at the akku platform warms the soul. The short afternoon at Riffigweiher ends just in time for the 17:00 sunset with a crisp, cold breeze."
+          },
+          "stops": [
+            {
+              "name": "Reussufer Promenade",
+              "tip_5lang": {
+                "de": "Mütze und Handschuhe gegen den kalten Flusswind tragen.",
+                "hu": "Sapka és kesztyű javasolt a hideg folyóparti szél ellen.",
+                "ro": "Purtați căciulă și mănuși împotriva vântului rece de pe râu.",
+                "en": "Wear a hat and gloves against the cold river wind."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause in der stillen Atmosphäre.",
+                "hu": "Rövid melegedő pihenő a csendes környezetben.",
+                "ro": "Scurtă pauză de încălzire în atmosfera liniștită.",
+                "en": "Short warm-up break in the quiet atmosphere."
+              }
+            },
+            {
+              "name": "akku Art Platform",
+              "tip_5lang": {
+                "de": "Die Heizung hier macht den Museumsbesuch sehr angenehm.",
+                "hu": "A fűtés itt nagyon kellemessé teszi a múzeumlátogatást.",
+                "ro": "Încălzirea de aici face vizita la muzeu foarte plăcută.",
+                "en": "The heating here makes the museum visit very pleasant."
+              }
+            },
+            {
+              "name": "Gerliswil Chapel",
+              "tip_5lang": {
+                "de": "Schöner Anblick, wenn die Kapelle leicht verschneit ist.",
+                "hu": "Szép látvány, ha a kápolnát enyhe hó fedi.",
+                "ro": "O priveliște frumoasă când capela este ușor înzăpezită.",
+                "en": "Beautiful sight when the chapel is lightly dusted with snow."
+              }
+            },
+            {
+              "name": "Riffigweiher Pond",
+              "tip_5lang": {
+                "de": "Der Teich könnte teilweise gefroren sein. Nicht betreten!",
+                "hu": "A tó részben befagyhat. Tilos a jégre lépni!",
+                "ro": "Iazul ar putea fi parțial înghețat. Nu intrați pe gheață!",
+                "en": "The pond might be partially frozen. Do not step on the ice!"
+              }
+            },
+            {
+              "name": "Kleine Emme River",
+              "tip_5lang": {
+                "de": "Letztes Tageslicht nutzen, bevor es um 17:00 dunkel wird.",
+                "hu": "Használja ki az utolsó fényeket a 17:00-s sötétedés előtt.",
+                "ro": "Profită de ultima lumină înainte de întunericul de la 17:00.",
+                "en": "Use the last daylight before it gets dark at 17:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung in mehreren Schichten ist ein Muss.",
+              "Die Sonne geht früh unter, planen Sie die Outdoor-Stopps zuerst.",
+              "Vorsicht vor Glatteis auf Brücken und am Flussufer.",
+              "Die akku Plattform ist der beste Ort zum Aufwärmen am Mittag.",
+              "Gute Wanderschuhe mit Profil helfen auf gefrorenen Wegen."
+            ],
+            "hu": [
+              "A réteges, meleg öltözködés kötelező.",
+              "A nap korán nyugszik, a kültéri megállókat tervezze előre.",
+              "Vigyázzon a jegesedésre a hidakon és a folyóparton.",
+              "Az akku platform a legjobb hely a déli felmelegedésre.",
+              "A jó profilú bakancs segít a fagyott ösvényeken."
+            ],
+            "ro": [
+              "Îmbrăcămintea groasă în straturi este obligatorie.",
+              "Soarele apune devreme, planificați opririle în aer liber primele.",
+              "Atenție la polei pe poduri și pe malul râului.",
+              "Platforma akku este cel mai bun loc pentru încălzire la prânz.",
+              "Ghetele bune cu talpă aderentă ajută pe potecile înghețate."
+            ],
+            "en": [
+              "Warm layered clothing is a must.",
+              "The sun sets early, plan outdoor stops first.",
+              "Watch out for black ice on bridges and riverbanks.",
+              "The akku platform is the best place to warm up at midday.",
+              "Good hiking boots with grip help on frozen paths."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -585,6 +775,214 @@
           "A lock is essential to secure your bike during visits.",
           "The bike paths are well-marked."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Fahrt entlang der Reuss im Regen. Die St. Marienkirche bietet eine kurze Pause zum Abtrocknen. Mittags ist die akku Plattform das Ziel für Kultur im Trockenen. Über Mooshof geht es zur Gerliswil Kapelle. Der Nachmittag am Teich ist feucht, aber die Wege bleiben befahrbar.",
+            "hu": "Frissítő tekerés a Reuss mentén az esőben. A Szent Mária-templom rövid szünetet kínál a megszáradáshoz. Délben az akku platform a cél a száraz kultúráért. Mooshofon keresztül vezet az út a kápolnához. A délután a tónál vizes, de az utak járhatóak maradnak.",
+            "ro": "O plimbare revigorantă cu bicicleta pe lângă Reuss în ploaie. Biserica Sf. Maria oferă o scurtă pauză pentru uscare. La prânz, platforma akku este destinația pentru cultură la adăpost. Prin Mooshof mergem spre capelă. După-amiaza la iaz este umedă, dar drumurile rămân practicabile.",
+            "en": "A refreshing ride along the Reuss in the rain. St. Mary's Church offers a quick break to dry off. At midday, the akku platform is the goal for dry culture. Pass through Mooshof to the chapel. The afternoon at the pond is wet, but the paths remain cyclable."
+          },
+          "stops": [
+            {
+              "name": "Reussufer Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht bei Bremsmanövern auf nassen Blättern.",
+                "hu": "Vigyázzon a fékezéssel a vizes leveleken.",
+                "ro": "Atenție la frânarea pe frunze ude.",
+                "en": "Be careful when braking on wet leaves."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Fahrradständer sind vorhanden, kurzer Stopp im Trockenen.",
+                "hu": "Kerékpártárolók vannak, rövid pihenő szárazon.",
+                "ro": "Există suporturi de biciclete, scurtă pauză la uscat.",
+                "en": "Bike racks available, quick dry break inside."
+              }
+            },
+            {
+              "name": "akku Art Platform",
+              "tip_5lang": {
+                "de": "Idealer Ort, um eine längere Regenfront abzuwarten.",
+                "hu": "Ideális hely egy hosszabb esőfront kivárására.",
+                "ro": "Loc ideal pentru a aștepta trecerea unui front de ploaie.",
+                "en": "Ideal place to wait out a longer rain front."
+              }
+            },
+            {
+              "name": "Mooshof",
+              "tip_5lang": {
+                "de": "Zügige Weiterfahrt, da wenig Unterstellmöglichkeiten.",
+                "hu": "Haladjon tovább tempósan, kevés a fedett hely.",
+                "ro": "Continuați rapid, sunt puține locuri de adăpost.",
+                "en": "Continue quickly as there are few shelters here."
+              }
+            },
+            {
+              "name": "Gerliswil Chapel",
+              "tip_5lang": {
+                "de": "Das Vordach bietet Schutz für eine kurze Trinkpause.",
+                "hu": "Az előtető védelmet nyújt egy rövid ivószünetre.",
+                "ro": "Copertina oferă adăpost pentru o scurtă pauză de hidratare.",
+                "en": "The porch provides shelter for a quick drink break."
+              }
+            },
+            {
+              "name": "Riffigweiher Pond",
+              "tip_5lang": {
+                "de": "Schutzbleche am Fahrrad sind heute sehr vorteilhaft.",
+                "hu": "A sárvédő ma nagyon előnyös a kerékpáron.",
+                "ro": "Apărătorile de noroi sunt foarte utile astăzi.",
+                "en": "Mudguards on your bike are very beneficial today."
+              }
+            },
+            {
+              "name": "Kleine Emme River",
+              "tip_5lang": {
+                "de": "Nasse Kurven am Flussufer vorsichtig befahren.",
+                "hu": "A vizes kanyarokat a folyóparton óvatosan vegye be.",
+                "ro": "Abordați cu atenție curbele umede de pe mal.",
+                "en": "Take wet turns on the riverbank carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Regenbekleidung und Schuhüberzieher.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip.",
+              "Vermeiden Sie Pfützen, die tiefer sein könnten als sie scheinen.",
+              "Ein Helm mit Visier schützt die Augen vor Regentropfen.",
+              "Wischen Sie den Sattel nach jedem Stopp kurz trocken."
+            ],
+            "hu": [
+              "Viseljen vízálló esőruházatot és cipővédőt.",
+              "Kissé csökkentse a guminyomást a jobb tapadásért.",
+              "Kerülje a tócsákat, amik mélyebbek lehetnek a látszatnál.",
+              "A szemellenzős sisak védi a szemet az esőcseppektől.",
+              "Minden megállás után törölje szárazra a nyerget."
+            ],
+            "ro": [
+              "Purtați haine de ploaie impermeabile și protecții pentru pantofi.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună.",
+              "Evitați bălțile care pot fi mai adânci decât par.",
+              "O cască cu vizieră protejează ochii de picăturile de ploaie.",
+              "Ștergeți șaua după fiecare oprire."
+            ],
+            "en": [
+              "Wear waterproof rain gear and shoe covers.",
+              "Slightly reduce tire pressure for better grip.",
+              "Avoid puddles that might be deeper than they look.",
+              "A helmet with a visor protects eyes from raindrops.",
+              "Wipe the saddle dry after every stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Tour durch Emmen. Der Wind an der Reuss ist schneidend kalt. Nach dem Besuch der St. Marienkirche lockt die akku Plattform als warmer Kulturstopp. Die Fahrt über Gerliswil zum Riffigweiher zeigt die kahle Schönheit der Natur. Der Ausflug endet vor der frühen Dunkelheit um 17:00 Uhr.",
+            "hu": "Téli túra Emmenben. A szél a Reuss partján metszően hideg. A Szent Mária-templom után az akku platform meleg kulturális megállóként csábít. A Gerliswilen át a Riffigweiherhez vezető út a természet kopár szépségét mutatja. A túra a korai, 17:00-s sötétedés előtt ér véget.",
+            "ro": "O tură de iarnă prin Emmen. Vântul de pe Reuss este tăios. După vizitarea Bisericii Sf. Maria, platforma akku atrage ca un popas cultural călduros. Drumul prin Gerliswil spre Riffigweiher arată frumusețea austeră a naturii. Excursia se încheie înainte de întunericul de la ora 17:00.",
+            "en": "A winter tour through Emmen. The wind by the Reuss is biting cold. After visiting St. Mary's, the akku platform beckons as a warm cultural stop. The ride via Gerliswil to Riffigweiher shows nature's bare beauty. The trip ends before the early darkness at 17:00."
+          },
+          "stops": [
+            {
+              "name": "Reussufer Promenade",
+              "tip_5lang": {
+                "de": "Achtung vor vereisten Stellen auf dem Radweg.",
+                "hu": "Vigyázzon a jeges szakaszokra a kerékpárúton.",
+                "ro": "Atenție la porțiunile înghețate de pe pista de biciclete.",
+                "en": "Watch out for icy patches on the bike path."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Kurz anhalten und die klammen Finger aufwärmen.",
+                "hu": "Álljon meg rövid időre felmelegíteni elgémberedett ujjait.",
+                "ro": "Opriți-vă scurt pentru a vă încălzi degetele amorțite.",
+                "en": "Stop briefly to warm up cold fingers."
+              }
+            },
+            {
+              "name": "akku Art Platform",
+              "tip_5lang": {
+                "de": "Längere Pause einplanen, um den Körper aufzuwärmen.",
+                "hu": "Tervezzen hosszabb szünetet a test felmelegítéséhez.",
+                "ro": "Planificați o pauză mai lungă pentru a vă încălzi.",
+                "en": "Plan a longer break to warm up your body."
+              }
+            },
+            {
+              "name": "Mooshof",
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief, Blendgefahr beim Fahren.",
+                "hu": "A téli nap alacsonyan jár, vakításveszély tekerés köznél.",
+                "ro": "Soarele de iarnă este jos, pericol de orbire la drum.",
+                "en": "Winter sun is low, watch out for glare while riding."
+              }
+            },
+            {
+              "name": "Gerliswil Chapel",
+              "tip_5lang": {
+                "de": "Ruhiger Stopp, oft weniger Besucher im Winter.",
+                "hu": "Csendes megálló, télen gyakran kevesebb a látogató.",
+                "ro": "Popas liniștit, adesea mai puțini vizitatori iarna.",
+                "en": "Quiet stop, often fewer visitors in winter."
+              }
+            },
+            {
+              "name": "Riffigweiher Pond",
+              "tip_5lang": {
+                "de": "Die Wege können bei Frost sehr hart und uneben sein.",
+                "hu": "A fagyban az utak nagyon kemények és egyenetlenek lehetnek.",
+                "ro": "Potecile pot fi foarte dure și denivelate din cauza înghețului.",
+                "en": "The paths can be very hard and uneven in freezing weather."
+              }
+            },
+            {
+              "name": "Kleine Emme River",
+              "tip_5lang": {
+                "de": "Warmer Tee aus der Thermoskanne für die letzte Etappe.",
+                "hu": "Meleg tea a termoszból az utolsó szakaszra.",
+                "ro": "Ceai cald din termos pentru ultima etapă.",
+                "en": "Warm tea from a thermos for the last leg."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Winterhandschuhe und dicke Socken sind essenziell.",
+              "Prüfen Sie Ihre Fahrradbeleuchtung für die frühe Dämmerung.",
+              "Vermeiden Sie plötzliches Bremsen auf möglicherweise glatten Wegen.",
+              "Ein Buff oder Schal schützt das Gesicht vor der Kälte.",
+              "Die Kälte entlädt E-Bike-Akkus schneller – Ladestand prüfen."
+            ],
+            "hu": [
+              "A meleg téli kesztyű és a vastag zokni alapfeltétel.",
+              "Ellenőrizze a világítást a korai szürkület miatt.",
+              "Kerülje a hirtelen fékezést az esetleg csúszós utakon.",
+              "A csősál vagy sál védi az arcot a hidegtől.",
+              "A hideg gyorsabban meríti az e-bike akkut – ellenőrizze."
+            ],
+            "ro": [
+              "Mănușile groase de iarnă și șosetele groase sunt esențiale.",
+              "Verificați luminile bicicletei pentru amurgul timpuriu.",
+              "Evitați frânarea bruscă pe drumurile potențial alunecoase.",
+              "Un fular sau un guler protejează fața de frig.",
+              "Frigul descarcă mai repede bateria e-bike-ului – verificați nivelul."
+            ],
+            "en": [
+              "Warm winter gloves and thick socks are essential.",
+              "Check your bike lights for the early dusk.",
+              "Avoid sudden braking on potentially slippery paths.",
+              "A buff or scarf protects the face from the cold.",
+              "Cold drains e-bike batteries faster – check charge level."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -869,6 +1267,196 @@
           "Be mindful of parking fees in the city center.",
           "A car gives you the flexibility to easily reach places outside the center as well."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein komfortabler Tag trotz Regen. Das Auto erlaubt schnelles Erreichen des Riffigweihers und der Flüsse ohne nass zu werden. Die Parkplätze nahe der akku Plattform ermöglichen einen trockenen Übergang zur Kultur. Ein idealer Tag für Besichtigungen ohne Regenschirm-Stress.",
+            "hu": "Kényelmes nap az eső ellenére is. Az autóval gyorsan elérhető a tó és a folyók anélkül, hogy eláznánk. Az akku platform közeli parkolók száraz átjutást biztosítanak a kultúrához. Ideális nap a városnézésre esernyős stressz nélkül.",
+            "ro": "O zi confortabilă în ciuda ploii. Mașina permite accesul rapid la iaz și la râuri fără a vă uda. Parcarea de lângă platforma akku permite o tranziție uscată către cultură. O zi ideală pentru vizitare fără stresul umbrelei.",
+            "en": "A comfortable day despite the rain. The car allows quick access to the pond and rivers without getting wet. Parking near the akku platform ensures a dry transition to culture. An ideal day for sightseeing without umbrella stress."
+          },
+          "stops": [
+            {
+              "name": "Nature Cluster (Riffigweiher Parking)",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Auto zum Aussichtspunkt.",
+                "hu": "Rövid sprint az autótól a kilátópontig.",
+                "ro": "Scurt sprint de la mașină la punctul de belvedere.",
+                "en": "Short sprint from the car to the viewpoint."
+              }
+            },
+            {
+              "name": "Riffigweiher Pond",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick bei Regen direkt aus dem Auto.",
+                "hu": "Élvezze az esős kilátást közvetlenül az autóból.",
+                "ro": "Bucurați-vă de priveliștea ploioasă direct din mașină.",
+                "en": "Enjoy the rainy view directly from the car."
+              }
+            },
+            {
+              "name": "Kleine Emme River",
+              "tip_5lang": {
+                "de": "Nahegelegene Haltebucht nutzen für einen kurzen Blick.",
+                "hu": "Használja a közeli megállót egy rövid pillantásra.",
+                "ro": "Folosiți refugiul din apropiere pentru o privire scurtă.",
+                "en": "Use the nearby lay-by for a quick look."
+              }
+            },
+            {
+              "name": "Center Cluster (Parking)",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz, ideal um trocken zu bleiben.",
+                "hu": "Központi parkoló, ideális a szárazon maradáshoz.",
+                "ro": "Parcare centrală, ideală pentru a rămâne uscat.",
+                "en": "Central parking, ideal for staying dry."
+              }
+            },
+            {
+              "name": "St. Mary's Church & akku Art Platform",
+              "tip_5lang": {
+                "de": "Beide Ziele sind nur wenige Schritte vom Parkplatz entfernt.",
+                "hu": "Mindkét célpont pár lépésre van a parkolótól.",
+                "ro": "Ambele obiective sunt la doar câțiva pași de parcare.",
+                "en": "Both destinations are just a few steps from the parking."
+              }
+            },
+            {
+              "name": "Reussufer Promenade",
+              "tip_5lang": {
+                "de": "Vom Auto aus kann man die Reuss auch im Regen beobachten.",
+                "hu": "Az autóból is megfigyelhető a Reuss az esőben.",
+                "ro": "Râul Reuss poate fi observat din mașină chiar și pe ploaie.",
+                "en": "The Reuss can be observed from the car even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser im Zentrum für maximale Trockenheit.",
+              "Ein kleiner Schirm im Auto ist für die kurzen Wege zum Ziel ratsam.",
+              "Vermeiden Sie tiefere Wasserlachen am Straßenrand.",
+              "Lüftung auf die Frontscheibe richten, um Beschlagen zu vermeiden.",
+              "Die Parkplatzsuche ist bei Regen oft einfacher als im Sommer."
+            ],
+            "hu": [
+              "Használja a központi parkolóházakat a maximális szárazságért.",
+              "Egy kis esernyő az autóban ajánlott a rövid sétákhoz.",
+              "Kerülje a mélyebb tócsákat az út szélén.",
+              "Irányítsa a szellőzést a szélvédőre a párásodás ellen.",
+              "Esőben gyakran könnyebb parkolóhelyet találni, mint nyáron."
+            ],
+            "ro": [
+              "Folosiți parcările supraetajate din centru pentru a rămâne uscat.",
+              "O umbrelă mică în mașină este recomandată pentru drumurile scurte.",
+              "Evitați bălțile adânci de la marginea drumului.",
+              "Direcționați ventilația spre parbriz pentru a evita aburirea.",
+              "Găsirea unui loc de parcare este adesea mai ușoară pe ploaie."
+            ],
+            "en": [
+              "Use central parking garages for maximum dryness.",
+              "A small umbrella in the car is advised for short walks.",
+              "Avoid deeper puddles at the roadside.",
+              "Direct ventilation to the windshield to prevent fogging.",
+              "Finding a parking spot is often easier in the rain than in summer."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterzauber in Emmen vom warmen Auto aus. Die Fahrt zum Riffigweiher bietet schöne Ausblicke auf die winterliche Landschaft. Dank kurzer Wege von den Parkplätzen zur St. Marienkirche und akku Plattform bleibt man kaum der Kälte ausgesetzt. Ein entspannter Tag trotz Frost und früher Dunkelheit um 17:00.",
+            "hu": "Téli varázs Emmenben a meleg autóból. A Riffigweiherhez vezető út szép kilátást nyújt a téli tájra. A parkolóktól a Szent Mária-templomig és az akku platformig vezető rövid utaknak köszönhetően alig ér minket a hideg. Pihentető nap a fagy és a 17:00-s sötétedés ellenére.",
+            "ro": "Magia iernii în Emmen din mașina călduroasă. Drumul spre Riffigweiher oferă priveliști frumoase asupra peisajului hibernal. Datorită distanțelor scurte de la parcări la obiective, expunerea la frig este minimă. O zi relaxantă în ciuda gerului și a apusului de la 17:00.",
+            "en": "Winter magic in Emmen from a warm car. The drive to Riffigweiher offers beautiful views of the winter landscape. Thanks to short walks from the parking lots to the sights, you stay warm. A relaxed day despite frost and the early 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": "Nature Cluster (Riffigweiher Parking)",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schnee auf dem Parkplatzgelände.",
+                "hu": "Vigyázzon, ha hó van a parkoló területén.",
+                "ro": "Atenție la zăpadă în zona parcării.",
+                "en": "Be careful if there is snow in the parking area."
+              }
+            },
+            {
+              "name": "Riffigweiher Pond",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, die Heizung im Auto wartet schon.",
+                "hu": "Rövid fotómegálló, a fűtés az autóban már várja.",
+                "ro": "Scurt popas pentru poze, încălzirea din mașină vă așteaptă.",
+                "en": "Short photo stop, the car heater is waiting for you."
+              }
+            },
+            {
+              "name": "Kleine Emme River",
+              "tip_5lang": {
+                "de": "Blick auf den Fluss im Winterlicht genießen.",
+                "hu": "Élvezze a folyóra nyíló kilátást a téli fényekben.",
+                "ro": "Bucurați-vă de priveliștea râului în lumina iernii.",
+                "en": "Enjoy the river view in the winter light."
+              }
+            },
+            {
+              "name": "Center Cluster (Parking)",
+              "tip_5lang": {
+                "de": "Parkhaus bevorzugen, um Eiskratzen zu vermeiden.",
+                "hu": "Válassza a parkolóházat a jégkaparás elkerülésére.",
+                "ro": "Preferați parcarea acoperită pentru a evita răzuirea gheții.",
+                "en": "Prefer covered parking to avoid scraping ice."
+              }
+            },
+            {
+              "name": "St. Mary's Church & akku Art Platform",
+              "tip_5lang": {
+                "de": "Beide Orte sind gut beheizt und komfortabel.",
+                "hu": "Mindkét hely jól fűtött és kényelmes.",
+                "ro": "Ambele locuri sunt bine încălzite și confortabile.",
+                "en": "Both places are well heated and comfortable."
+              }
+            },
+            {
+              "name": "Reussufer Promenade",
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus ist man schnell am Flussufer.",
+                "hu": "A parkolótól gyorsan elérhető a folyópart.",
+                "ro": "De la parcare se ajunge rapid pe malul râului.",
+                "en": "From the parking lot, you can reach the riverbank quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Auto wintertauglich ist (Winterreifen).",
+              "Ein Eiskratzer und ein kleiner Besen sollten griffbereit sein.",
+              "Achten Sie auf Glätte bei der Ein- und Ausfahrt von Parkplätzen.",
+              "Heizung rechtzeitig einschalten für wohlige Wärme.",
+              "Frühe Dämmerung beachten, Licht am Fahrzeug prüfen."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy az autó felkészült a télre (téli gumi).",
+              "A jégkaparó és egy kis kefe legyen kéznél.",
+              "Ügyeljen a csúszós utakra a parkolókba való be- és kijáráskor.",
+              "Kapcsolja be időben a fűtést a kellemes melegért.",
+              "Figyeljen a korai sötétedésre, ellenőrizze a világítást."
+            ],
+            "ro": [
+              "Asigurați-vă că mașina este pregătită de iarnă (anvelope de iarnă).",
+              "O racletă și o perie mică ar trebui să fie la îndemână.",
+              "Atenție la polei la intrarea și ieșirea din parcări.",
+              "Porniți încălzirea din timp pentru un confort sporit.",
+              "Atenție la amurgul timpuriu, verificați luminile vehiculului."
+            ],
+            "en": [
+              "Ensure your car is winter-ready (winter tires).",
+              "An ice scraper and a small brush should be handy.",
+              "Watch out for ice when entering and exiting parking lots.",
+              "Turn on the heater in time for cozy warmth.",
+              "Note the early dusk, check vehicle lights."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1153,6 +1741,196 @@
           "Download the local transport company's schedule app.",
           "Pay attention to the last bus connection back to your starting point."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag, ideal für die Nutzung von Bus und Bahn. Nach der Ankunft in Emmenbrücke geht es schnell zur St. Marienkirche und akku Plattform. Die Fahrt nach Gerliswil erfolgt bequem im trockenen Bus. Der Aufenthalt am Flussufer wird durch die gute Anbindung der Haltestellen erleichtert.",
+            "hu": "Esős nap, ideális a busz és vonat használatára. Az Emmenbrückébe való megérkezés után gyorsan elérhető a templom és az akku platform. Gerliswilbe kényelmesen, száraz buszon juthatunk el. A folyóparti tartózkodást megkönnyíti a megállók jó elhelyezkedése.",
+            "ro": "O zi ploioasă, ideală pentru utilizarea autobuzului și a trenului. După sosirea în Emmenbrücke, se ajunge rapid la biserică și la platforma akku. Călătoria spre Gerliswil se face confortabil, într-un autobuz uscat. Accesul la malul râului este facilitat de conexiunile bune.",
+            "en": "A rainy day, ideal for using bus and train. After arriving at Emmenbrücke, quickly reach the church and akku platform. The trip to Gerliswil is comfortable in a dry bus. The riverside stay is made easier by the good connection of the stops."
+          },
+          "stops": [
+            {
+              "name": "Arrival Emmenbrücke, South Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet gute Unterstellmöglichkeiten bei Regen.",
+                "hu": "Az állomás jó fedett helyeket kínál esőben.",
+                "ro": "Gara oferă bune posibilități de adăpost pe ploaie.",
+                "en": "The station offers good shelter options in the rain."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle, Schirm bereithalten.",
+                "hu": "Rövid séta a buszmegállótól, legyen kéznél az esernyő.",
+                "ro": "Scurtă plimbare de la stație, țineți umbrela pregătită.",
+                "en": "Short walk from the bus stop, keep your umbrella ready."
+              }
+            },
+            {
+              "name": "akku Art Platform",
+              "tip_5lang": {
+                "de": "Direkt in der Nähe von ÖV-Verbindungen gelegen.",
+                "hu": "Közvetlenül a tömegközlekedési kapcsolatok közelében.",
+                "ro": "Situat direct în apropierea conexiunilor de transport public.",
+                "en": "Located directly near public transport connections."
+              }
+            },
+            {
+              "name": "Trip to Gerliswil",
+              "tip_5lang": {
+                "de": "Die Busfahrt bietet eine trockene Pause zwischen den Stopps.",
+                "hu": "A buszozás száraz pihenőt jelent a megállók között.",
+                "ro": "Călătoria cu autobuzul oferă o pauză uscată între opriri.",
+                "en": "The bus ride provides a dry break between stops."
+              }
+            },
+            {
+              "name": "Gerliswil Chapel & Mooshof",
+              "tip_5lang": {
+                "de": "Bushaltestellen sind meist überdacht.",
+                "hu": "A buszmegállók többnyire fedettek.",
+                "ro": "Stațiile de autobuz sunt în mare parte acoperite.",
+                "en": "Bus stops are mostly covered."
+              }
+            },
+            {
+              "name": "Trip to the Reuss",
+              "tip_5lang": {
+                "de": "Häufige Verbindungen zurück zum Bahnhof Emmenbrücke.",
+                "hu": "Gyakori járatok vissza az Emmenbrücke állomásra.",
+                "ro": "Conexiuni frecvente înapoi la gara Emmenbrücke.",
+                "en": "Frequent connections back to Emmenbrücke station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die SBB-App für Echtzeit-Infos bei Wetterverzögerungen.",
+              "Ein kleiner Taschenschirm ist praktischer im vollen Bus.",
+              "Achten Sie auf rutschige Böden in Bussen und Zügen.",
+              "Haltestellen nahe der akku Plattform sind ideal zum Umsteigen.",
+              "Kaufen Sie ein Tagesticket für stressfreies Fahren im Regen."
+            ],
+            "hu": [
+              "Használja az SBB appot a valós idejű infókért esőben.",
+              "A kis összecsukható esernyő praktikusabb a tömött buszon.",
+              "Vigyázzon a csúszós padlóra a buszokon és vonatokon.",
+              "Az akku platform közeli megállók ideálisak az átszálláshoz.",
+              "Vigyen napijegyet a stresszmentes esős utazáshoz."
+            ],
+            "ro": [
+              "Utilizați aplicația SBB pentru informații în timp real.",
+              "O umbrelă mică pliabilă este mai practică în autobuzele pline.",
+              "Atenție la podelele alunecoase din autobuze și trenuri.",
+              "Stațiile de lângă platforma akku sunt ideale pentru transfer.",
+              "Cumpărați un bilet de o zi pentru o călătorie fără stres."
+            ],
+            "en": [
+              "Use the SBB app for real-time info during rain delays.",
+              "A small folding umbrella is more practical on busy buses.",
+              "Watch out for slippery floors in buses and trains.",
+              "Stops near the akku platform are ideal for transfers.",
+              "Buy a day ticket for stress-free travel in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreise mit dem ÖV durch Emmen. Die beheizten Busse bieten Schutz vor der beißenden Kälte. Nach der Ankunft in Emmenbrücke sind die Wege zu den Kirchen und der akku Plattform kurz und effizient. Die Rückfahrt zum Bahnhof am späten Nachmittag erfolgt bereits in der winterlichen Dämmerung nach 17:00.",
+            "hu": "Téli utazás tömegközlekedéssel Emmenben. A fűtött buszok védelmet nyújtanak a metsző hideg ellen. Megérkezés után az Emmenbrücke állomástól a templomokig és az akku platformig vezető utak rövidek és hatékonyak. A délutáni visszautazás már a 17:00 utáni téli szürkületben történik.",
+            "ro": "Călătorie de iarnă cu transportul public prin Emmen. Autobuzele încălzite oferă protecție împotriva gerului. După sosirea în Emmenbrücke, drumurile spre biserici și platforma akku sunt scurte și eficiente. Întoarcerea la gară se face deja în amurgul de după ora 17:00.",
+            "en": "Winter journey by public transport through Emmen. Heated buses offer protection from the biting cold. After arriving at Emmenbrücke, paths to the churches and akku platform are short and efficient. The return to the station in the late afternoon takes place in the winter dusk after 17:00."
+          },
+          "stops": [
+            {
+              "name": "Arrival Emmenbrücke, South Station",
+              "tip_5lang": {
+                "de": "Aufwärmen im beheizten Bahnhofsgebäude möglich.",
+                "hu": "Lehetőség van melegedni a fűtött állomásépületben.",
+                "ro": "Vă puteți încălzi în clădirea gării.",
+                "en": "Possibility to warm up in the heated station building."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Gang durch die kalte Winterluft.",
+                "hu": "Csak egy rövid séta a hideg téli levegőben.",
+                "ro": "Doar o scurtă plimbare prin aerul rece de iarnă.",
+                "en": "Just a short walk through the cold winter air."
+              }
+            },
+            {
+              "name": "akku Art Platform",
+              "tip_5lang": {
+                "de": "Perfekt temperierter Innenraum für Kulturgenuss.",
+                "hu": "Tökéletes hőmérsékletű belső tér a kultúrához.",
+                "ro": "Spațiu interior cu temperatură perfectă pentru cultură.",
+                "en": "Perfectly tempered interior for cultural enjoyment."
+              }
+            },
+            {
+              "name": "Trip to Gerliswil",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht aus dem warmen Bus.",
+                "hu": "Élvezze a kilátást a meleg buszból.",
+                "ro": "Bucurați-vă de priveliște din autobuzul călduros.",
+                "en": "Enjoy the view from the warm bus."
+              }
+            },
+            {
+              "name": "Gerliswil Chapel & Mooshof",
+              "tip_5lang": {
+                "de": "Haltestellen liegen zentral an den Sehenswürdigkeiten.",
+                "hu": "A megállók központi helyen, a látnivalóknál vannak.",
+                "ro": "Stațiile sunt situate central lângă atracții.",
+                "en": "Stops are centrally located near the sights."
+              }
+            },
+            {
+              "name": "Trip to the Reuss",
+              "tip_5lang": {
+                "de": "Letzte Fahrt im Tageslicht vor 17:00 einplanen.",
+                "hu": "Tervezze az utolsó utat a 17:00-s sötétedés előtt.",
+                "ro": "Planificați ultima călătorie înainte de 17:00.",
+                "en": "Plan the last trip before daylight ends at 17:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei extremem Schneefall leicht abweichen.",
+              "Warten Sie in den beheizten Wartebereichen großer Stationen.",
+              "Vorsicht vor Rutschgefahr an Bordsteinkanten der Haltestellen.",
+              "Die SBB-App zeigt auch die Auslastung der Züge an.",
+              "Warme Kleidung ist für die Umsteigezeiten unerlässlich."
+            ],
+            "hu": [
+              "Extrém havazáskor a menetrend kissé eltérhet.",
+              "Várjon a nagyobb állomások fűtött várótermeiben.",
+              "Vigyázzon a csúszásveszélyre a megállók padkáinál.",
+              "Az SBB app a vonatok kihasználtságát is mutatja.",
+              "A meleg ruházat elengedhetetlen az átszállási időkre."
+            ],
+            "ro": [
+              "Orarele pot varia ușor în caz de ninsoare abundentă.",
+              "Așteptați în zonele de așteptare încălzite din marile gări.",
+              "Atenție la riscul de alunecare la bordura stațiilor.",
+              "Aplicația SBB arată și gradul de ocupare al trenurilor.",
+              "Îmbrăcămintea groasă este esențială pentru timpii de transfer."
+            ],
+            "en": [
+              "Schedules may vary slightly during heavy snowfall.",
+              "Wait in the heated waiting areas of major stations.",
+              "Watch out for slipping on curbs at bus stops.",
+              "The SBB app also shows train occupancy levels.",
+              "Warm clothing is essential for transfer times."
+            ]
+          }
+        }
       }
     }
   }

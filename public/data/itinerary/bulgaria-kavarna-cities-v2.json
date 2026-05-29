@@ -356,6 +356,188 @@
           "Always keep a bottle of water with you.",
           "Most places in the city center are within easy walking distance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Trockenen im Historischen Museum von Kawarna. Mittags bieten die Kunstgalerie und die St.-Georgs-Kirche perfekten Schutz vor den Schauern. Am Nachmittag führt ein kurzer Spaziergang unter dem Regenschirm durch den Stadtgarten. Den Abend lassen Sie bei einem Blick auf die stürmische See am Strand gemütlich ausklingen.",
+            "hu": "Kezdje a napot fedett helyen, a Történeti Múzeumban. Délben a Városi Képtár és a Szent György-templom nyújt menedéket a záporok elől. Délután egy rövid esernyős séta vár a tengerparti parkban. Az estét a hullámzó tenger látványával zárhatja a központi strandon, egy hangulatos étteremben.",
+            "ro": "Începeți ziua la adăpost în Muzeul de Istorie din Kavarna. La prânz, Galeria de Artă și Biserica Sfântul Gheorghe oferă refugiul perfect împotriva ploii. După-amiaza, faceți o scurtă plimbare cu umbrela prin Grădina Mării. Încheiați seara admirând marea agitată de pe plaja centrală.",
+            "en": "Start your day indoors at the Kavarna Historical Museum. At noon, the City Art Gallery and the Church of Saint George provide perfect shelter from the showers. In the afternoon, take a short umbrella walk through the Sea Garden. End the evening enjoying the view of the stormy sea at the central beach."
+          },
+          "stops": [
+            {
+              "name": "Kavarna Historical Museum",
+              "tip_5lang": {
+                "de": "Perfekter Zufluchtsort bei Regen, nehmen Sie sich Zeit für die thrakischen Goldfunde.",
+                "hu": "Kiváló menedék esőben, nézze meg alaposan a trák aranyleleteket.",
+                "ro": "Refugiu perfect pe ploaie, admirați artefactele din aur tracice.",
+                "en": "Perfect rainy day shelter; take your time with the Thracian gold finds."
+              }
+            },
+            {
+              "name": "City Art Gallery",
+              "tip_5lang": {
+                "de": "Genießen Sie die lokale Kunst, während es draußen regnet.",
+                "hu": "Élvezze a helyi művészetet, miközben odakint esik.",
+                "ro": "Bucurați-vă de arta locală în timp ce afară plouă.",
+                "en": "Enjoy local art while it rains outside."
+              }
+            },
+            {
+              "name": "Church of Saint George",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort mit beeindruckenden Ikonen.",
+                "hu": "Csendes, száraz helyszín lenyűgöző ikonokkal.",
+                "ro": "Un loc liniștit și uscat, cu icoane impresionante.",
+                "en": "A quiet, dry spot with impressive icons."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit überdachter Terrasse.",
+                "hu": "Válasszon fedett terasszal rendelkező éttermet.",
+                "ro": "Alegeți un restaurant cu terasă acoperită.",
+                "en": "Choose a restaurant with a covered terrace."
+              }
+            },
+            {
+              "name": "Sea Garden",
+              "tip_5lang": {
+                "de": "Vorsicht, die Wege können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, az utak nedvesen csúszósak lehetnek.",
+                "ro": "Atenție, potecile pot fi alunecoase pe ploaie.",
+                "en": "Caution, the paths can be slippery when wet."
+              }
+            },
+            {
+              "name": "Kavarna Central Beach",
+              "tip_5lang": {
+                "de": "Beobachten Sie das Wetterspiel über dem Meer von einem Strandcafé aus.",
+                "hu": "Figyelje a tenger feletti viharfelhőket egy parti kávézóból.",
+                "ro": "Urmăriți spectacolul ploii peste mare dintr-o cafenea de pe plajă.",
+                "en": "Watch the weather play over the sea from a beach cafe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Wege zum Strand bei Regen schlammig werden können.",
+              "Das Historische Museum ist der beste Ort, um starke Regengüsse abzuwarten.",
+              "Die Cafés im Zentrum bieten gemütliche Innenräume für Pausen.",
+              "Ein robuster Regenschirm ist wegen der Meeresbrise empfehlenswert."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a strandhoz vezető utak sárgásak lehetnek esőben.",
+              "A Történeti Múzeum a legjobb hely a nagyobb felhőszakadások kivárására.",
+              "A központ kávézói barátságos belső tereket kínálnak a pihenéshez.",
+              "A tengeri szél miatt érdemes strapabíró esernyőt vinni."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, drumurile spre plajă pot deveni noroioase.",
+              "Muzeul de Istorie este cel mai bun loc pentru a aștepta trecerea averselor.",
+              "Cafenelele din centru oferă spații interioare primitoare pentru pauze.",
+              "Se recomandă o umbrelă rezistentă din cauza brizelor marine."
+            ],
+            "en": [
+              "Wear waterproof shoes as paths to the beach can get muddy in the rain.",
+              "The Historical Museum is the best place to wait out heavy downpours.",
+              "Center cafes offer cozy indoor spaces for breaks.",
+              "A sturdy umbrella is recommended due to the sea breezes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie am Morgen die warmen Hallen des Museums. Mittags bieten die Galerie und die Kirche Schutz vor dem kalten Wind vom Meer. Ein kurzer Winterspaziergang durch den Meeresgarten führt Sie zur Küste. Da die Sonne früh untergeht, genießen Sie den Blick auf den einsamen Strand am späten Nachmittag.",
+            "hu": "Reggel fedezze fel a múzeum fűtött termeit. Délben a képtár és a templom nyújt védelmet a metsző tengeri szél elől. Egy rövid téli séta a tengerparti parkon át a parthoz vezet. Mivel korán nyugszik a nap, már késő délután élvezze az elhagyatott strand látványát.",
+            "ro": "Explorați dimineața sălile calde ale muzeului. La prânz, galeria și biserica oferă protecție împotriva vântului rece de mare. O scurtă plimbare de iarnă prin Grădina Mării vă duce spre coastă. Deoarece soarele apune devreme, bucurați-vă de plaja pustie spre sfârșitul după-amiezii.",
+            "en": "Explore the warm halls of the museum in the morning. At noon, the gallery and church offer protection from the cold sea wind. A short winter walk through the Sea Garden leads you to the coast. As the sun sets early, enjoy the view of the deserted beach in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Kavarna Historical Museum",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Ort, um die antike Geschichte Kawarnas zu entdecken.",
+                "hu": "Jól fűtött helyszín Kawarna ókori történelmének felfedezéséhez.",
+                "ro": "Un loc bine încălzit pentru a descoperi istoria antică a orașului.",
+                "en": "A well-heated spot to discover the ancient history of Kavarna."
+              }
+            },
+            {
+              "name": "City Art Gallery",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Ausstellung fernab der Kälte.",
+                "hu": "Élvezze a kiállítás nyugalmát, távol a hidegtől.",
+                "ro": "Bucurați-vă de liniștea expoziției, departe de frig.",
+                "en": "Enjoy the tranquility of the exhibition away from the cold."
+              }
+            },
+            {
+              "name": "Church of Saint George",
+              "tip_5lang": {
+                "de": "Beachten Sie die festliche Dekoration in den Wintermonaten.",
+                "hu": "Figyelje meg az ünnepi díszítést a téli hónapokban.",
+                "ro": "Observați decorațiunile festive în lunile de iarnă.",
+                "en": "Notice the festive decorations during the winter months."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Probieren Sie eine heiße bulgarische Suppe (Kurban chorba).",
+                "hu": "Kóstoljon meg egy forró bolgár levest (Kurban csorba).",
+                "ro": "Încercați o supă bulgărească fierbinte (Kurban chorba).",
+                "en": "Try a hot Bulgarian soup (Kurban chorba)."
+              }
+            },
+            {
+              "name": "Sea Garden",
+              "tip_5lang": {
+                "de": "Dick anziehen, der Wind kann hier oben sehr schneidend sein.",
+                "hu": "Öltözzön fel melegen, a szél itt nagyon metsző lehet.",
+                "ro": "Îmbrăcați-vă bine, vântul poate fi tăios aici.",
+                "en": "Dress warmly, the wind can be very biting up here."
+              }
+            },
+            {
+              "name": "Kavarna Central Beach",
+              "tip_5lang": {
+                "de": "Ein einsamer Ort für Reflexionen vor dem frühen Sonnenuntergang.",
+                "hu": "Magányos hely az elmélyüléshez a korai naplemente előtt.",
+                "ro": "Un loc pustiu pentru reflecție înainte de apusul devreme.",
+                "en": "A lonely place for reflection before the early sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist bereits gegen 16:45 Uhr; planen Sie Ihre Aktivitäten entsprechend.",
+              "Tragen Sie winddichte Kleidung, besonders für den Weg zum Strand.",
+              "Einige Strandlokale sind im Winter geschlossen; bleiben Sie für das Abendessen im Zentrum.",
+              "Die Museen sind die verlässlichsten warmen Rückzugsorte."
+            ],
+            "hu": [
+              "A naplemente már 16:45 körül bekövetkezik, tervezzen ennek megfelelően.",
+              "Viseljen szélálló ruházatot, különösen a strand felé vezető úton.",
+              "Néhány tengerparti hely télen zárva tart, vacsorázzon inkább a központban.",
+              "A múzeumok a legmegbízhatóbb fűtött menedékek."
+            ],
+            "ro": [
+              "Apusul este în jur de ora 16:45; planificați activitățile în consecință.",
+              "Purtați haine rezistente la vânt, mai ales pentru drumul spre plajă.",
+              "Unele localuri de pe plajă sunt închise iarna; rămâneți în centru pentru cină.",
+              "Muzeele sunt cele mai sigure refugii calde."
+            ],
+            "en": [
+              "Sunset is around 4:45 PM; plan your activities accordingly.",
+              "Wear windproof clothing, especially for the walk to the beach.",
+              "Some beach venues are closed in winter; stay in the center for dinner.",
+              "Museums are the most reliable warm retreats."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +911,206 @@
           "The coastal road offers scenic routes, but be careful with traffic.",
           "Bring plenty of water, especially on hot days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Tour am Fahrradverleih und rüsten Sie sich mit Regenponchos aus. Die Fahrt zur Festung Chirakman erfordert bei Nässe Vorsicht auf den steilen Wegen. Nach dem Mittagessen am Hafen bieten das Historische und das Ethnographische Museum im Zentrum trockene Kulturpausen, bevor Sie die Räder zurückgeben.",
+            "hu": "Kezdje a túrát a kölcsönzőnél, és kérjen esővédőt. A Chirakman-erődhöz vezető út esőben óvatosságot igényel a meredek szakaszokon. A kikötői ebéd után a Történeti és az Néprajzi Múzeum kínál száraz kulturális pihenőt a központban, mielőtt leadná a bringákat.",
+            "ro": "Începeți turul la centrul de închirieri și dotați-vă cu pelerine de ploaie. Drumul spre Cetatea Chirakman necesită prudență pe porțiunile abrupte când plouă. După prânzul în port, muzeele de istorie și etnografie oferă pauze culturale uscate înainte de a returna bicicletele.",
+            "en": "Start your tour at the rental shop and gear up with rain ponchos. The ride to Chirakman Fortress requires caution on steep sections when wet. After lunch at the harbor, the Historical and Ethnographic museums provide dry cultural breaks in the center before returning the bikes."
+          },
+          "stops": [
+            {
+              "name": "Start: Bike Rental",
+              "tip_5lang": {
+                "de": "Fragen Sie nach Schutzblechen und einer wasserfesten Karte.",
+                "hu": "Kérjen sárvédőt és vízálló térképet.",
+                "ro": "Cereți apărători de noroi și o hartă impermeabilă.",
+                "en": "Ask for mudguards and a waterproof map."
+              }
+            },
+            {
+              "name": "Chirakman Fortress",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aufstieg, die Kalksteinfelsen sind rutschig.",
+                "hu": "Vigyázat a felkapaszkodáskor, a mészkősziklák csúszósak.",
+                "ro": "Atenție la urcare, stâncile de calcar sunt alunecoase.",
+                "en": "Be careful during the ascent; the limestone rocks are slippery."
+              }
+            },
+            {
+              "name": "Kavarna Central Beach",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter einem Vordach, um die Brandung zu sehen.",
+                "hu": "Rövid megálló egy előtető alatt a hullámverés megtekintéséhez.",
+                "ro": "Scurtă oprire sub o copertină pentru a vedea valurile.",
+                "en": "Short stop under a canopy to watch the surf."
+              }
+            },
+            {
+              "name": "Lunch by the Sea",
+              "tip_5lang": {
+                "de": "Sichern Sie die Fahrräder an einem geschützten Ort.",
+                "hu": "Rögzítse a kerékpárokat védett helyen.",
+                "ro": "Asigurați bicicletele într-un loc protejat.",
+                "en": "Secure your bikes in a sheltered spot."
+              }
+            },
+            {
+              "name": "Kavarna Historical Museum",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, die Kleidung zu trocknen.",
+                "hu": "Jó alkalom a ruházat megszárítására.",
+                "ro": "Oportunitate bună de a vă usca hainele.",
+                "en": "Good opportunity to dry your clothes."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Innenbesichtigung des alten Hauses, perfekt bei Schauern.",
+                "hu": "A régi ház belső megtekintése, tökéletes zápor idején.",
+                "ro": "Vizitați interiorul casei vechi, perfect pe timp de ploaie.",
+                "en": "Visit the interior of the old house, perfect during showers."
+              }
+            },
+            {
+              "name": "Bike Drop-off",
+              "tip_5lang": {
+                "de": "Geben Sie das nasse Equipment zügig zurück.",
+                "hu": "Adja le gyorsan a nedves felszerelést.",
+                "ro": "Returnați rapid echipamentul ud.",
+                "en": "Return the wet equipment promptly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Benutzen Sie unbedingt Fahrräder mit Schutzblechen.",
+              "Vermeiden Sie scharfe Bremsmanöver auf den asphaltierten Wegen zum Strand.",
+              "Die Kalksteinpfade an der Festung werden bei Nässe extrem rutschig.",
+              "Tragen Sie helle Regenkleidung für bessere Sichtbarkeit bei trübem Wetter."
+            ],
+            "hu": [
+              "Mindenképpen sárvédővel felszerelt kerékpárt használjon.",
+              "Kerülje az erős fékezést az aszfaltozott strandközeli utakon.",
+              "Az erőd környéki mészkőösvények nedvesen rendkívül csúszósak.",
+              "Viseljen világos esőruhát a jobb láthatóság érdekében."
+            ],
+            "ro": [
+              "Folosiți neapărat biciclete cu apărători de noroi.",
+              "Evitați frânările bruște pe drumurile asfaltate spre plajă.",
+              "Potecile de calcar de la cetate devin extrem de alunecoase pe ploaie.",
+              "Purtați haine de ploaie luminoase pentru o vizibilitate mai bună."
+            ],
+            "en": [
+              "Be sure to use bikes equipped with mudguards.",
+              "Avoid sudden braking on the paved paths near the beach.",
+              "The limestone paths at the fortress become extremely slippery when wet.",
+              "Wear bright rain gear for better visibility in dull weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Rüsten Sie sich warm aus für eine winterliche Radtour. Die kühle Brise an der Festung Chirakman wirkt belebend, erfordert aber gute Handschuhe. Nach einer Aufwärmpause beim Mittagessen am Meer erkunden Sie am Nachmittag die Museen im geschützten Stadtzentrum, bevor die Dämmerung einsetzt.",
+            "hu": "Öltözzön fel melegen a téli biciklitúrához. A Chirakman-erődnél fújó hűvös szél frissítő, de jó kesztyűre lesz szüksége. A tengerparti ebéd közbeni melegedés után délután a védett belváros múzeumait fedezze fel, mielőtt beállna a szürkület.",
+            "ro": "Echipati-vă bine pentru o tură de iarnă cu bicicleta. Briza rece de la Cetatea Chirakman este revigorantă, dar necesită mănuși bune. După o pauză de încălzire la prânz pe malul mării, explorați muzeele din centrul protejat înainte de lăsarea serii.",
+            "en": "Gear up warmly for a winter bike ride. The cool breeze at Chirakman Fortress is invigorating but requires good gloves. After a warming lunch break by the sea, explore the museums in the sheltered town center in the afternoon before dusk sets in."
+          },
+          "stops": [
+            {
+              "name": "Start: Bike Rental",
+              "tip_5lang": {
+                "de": "Überprüfen Sie den Reifendruck für kalte Temperaturen.",
+                "hu": "Ellenőrizze a guminyomást a hideg időre való tekintettel.",
+                "ro": "Verificați presiunea pneurilor pentru temperaturi scăzute.",
+                "en": "Check tire pressure for cold temperatures."
+              }
+            },
+            {
+              "name": "Chirakman Fortress",
+              "tip_5lang": {
+                "de": "Exponierte Lage, der Windchill-Effekt ist hier sehr stark.",
+                "hu": "Kitetthelyszín, a szél hűtő hatása itt nagyon erős.",
+                "ro": "Locație expusă, efectul de răcire al vântului este puternic aici.",
+                "en": "Exposed location; the wind chill effect is very strong here."
+              }
+            },
+            {
+              "name": "Kavarna Central Beach",
+              "tip_5lang": {
+                "de": "Gefrorene Gischt an den Felsen bietet seltene Fotomotive.",
+                "hu": "A sziklákon megfagyott tengeri permet ritka fotótémát kínál.",
+                "ro": "Stropii de mare înghețați pe stânci oferă ocazii rare de fotografiere.",
+                "en": "Frozen sea spray on the rocks offers rare photo opportunities."
+              }
+            },
+            {
+              "name": "Lunch by the Sea",
+              "tip_5lang": {
+                "de": "Ein heißer Tee ist jetzt genau das Richtige.",
+                "hu": "Egy forró tea most pont ideális lesz.",
+                "ro": "Un ceai fierbinte este exact ce trebuie acum.",
+                "en": "A hot tea is just the thing right now."
+              }
+            },
+            {
+              "name": "Kavarna Historical Museum",
+              "tip_5lang": {
+                "de": "Tauen Sie beim Betrachten der Exponate langsam auf.",
+                "hu": "Melegedjen fel lassan a kiállítási tárgyak nézegetése közben.",
+                "ro": "Încălziți-vă încet în timp ce priviți exponatele.",
+                "en": "Thaw out slowly while viewing the exhibits."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte gut draußen.",
+                "hu": "A vastag falak jól kint tartják a hideget.",
+                "ro": "Zidurile groase țin frigul la distanță.",
+                "en": "The thick walls keep the cold out well."
+              }
+            },
+            {
+              "name": "Bike Drop-off",
+              "tip_5lang": {
+                "de": "Geben Sie das Rad vor 17 Uhr zurück, bevor es dunkel wird.",
+                "hu": "Adja le a bringát 17 óra előtt, mielőtt sötét lesz.",
+                "ro": "Returnați bicicleta înainte de ora 17, înainte de a se întuneca.",
+                "en": "Return the bike before 5 PM, before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Handschuhe und ein Schlauchtuch sind für das Radfahren im Winter unerlässlich.",
+              "Planen Sie mehr Zeit für Aufwärmpausen in Cafés ein.",
+              "Die Radwege können im Schatten Reifglätte aufweisen.",
+              "Achten Sie auf das Licht am Fahrrad, da die Sicht im Winter früher nachlässt."
+            ],
+            "hu": [
+              "A téli biciklizéshez elengedhetetlen a jó kesztyű és a csősál.",
+              "Tervezzen több időt a kávézókban való felmelegedésre.",
+              "Az árnyékos helyeken a kerékpárutak zúzmarásak, csúszósak lehetnek.",
+              "Ellenőrizze a kerékpár lámpáit, mert télen hamarabb romlanak a látási viszonyok."
+            ],
+            "ro": [
+              "Mănușile bune și un fular tip tub sunt esențiale pentru ciclismul de iarnă.",
+              "Planificați mai mult timp pentru pauze de încălzire în cafenele.",
+              "Pistele de biciclete pot fi înghețate în zonele cu umbră.",
+              "Verificați luminile bicicletei, deoarece vizibilitatea scade mai devreme iarna."
+            ],
+            "en": [
+              "Good gloves and a neck gaiter are essential for winter cycling.",
+              "Plan more time for warming breaks in cafes.",
+              "Bike paths can have frost/ice in shaded areas.",
+              "Check the bike lights as visibility fades earlier in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1109,6 +1491,206 @@
           "Bring a good camera for the spectacular views.",
           "There is an entrance fee for Cape Kaliakra and the fortress."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Komfort des Autos, um die Sehenswürdigkeiten Kawarnas trocken zu erreichen. Während der Regen gegen die Scheiben prasselt, besuchen Sie das Museum und die Kirche im Zentrum. Die Fahrt zum Kap Kaliakra bietet dramatische Ausblicke auf die stürmische See, die man am besten vom geschützten Aussichtspunkt genießt.",
+            "hu": "Használja ki az autó kényelmét, hogy szárazon érje el Kawarna látnivalóit. Miközben az eső veri a szélvédőt, látogassa meg a múzeumot és a templomot. A Kaliakra-fokhoz vezető út drámai kilátást nyújt a viharos tengerre, amit a legjobban egy védett kilátópontról élvezhet.",
+            "ro": "Folosiți confortul mașinii pentru a ajunge la obiectivele din Kavarna fără a vă uda. În timp ce ploaia bate în parbriz, vizitați muzeul și biserica din centru. Drumul spre Capul Kaliakra oferă vederi dramatice asupra mării agitate, admirate cel mai bine din puncte protejate.",
+            "en": "Take advantage of the car's comfort to reach Kavarna's sights while staying dry. While rain pelts the windshield, visit the museum and church in the center. The drive to Cape Kaliakra offers dramatic views of the stormy sea, best enjoyed from a sheltered viewpoint."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Kavarna Historical Museum",
+              "tip_5lang": {
+                "de": "Kostenlose Parkplätze direkt am Museum verfügbar.",
+                "hu": "Ingyenes parkolás közvetlenül a múzeumnál.",
+                "ro": "Parcare gratuită disponibilă direct la muzeu.",
+                "en": "Free parking available directly at the museum."
+              }
+            },
+            {
+              "name": "Church of Saint George",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Regen zu meiden.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az esőt.",
+                "ro": "Parcați aproape de intrare pentru a evita ploaia.",
+                "en": "Park close to the entrance to avoid the rain."
+              }
+            },
+            {
+              "name": "Cluster B: Chirakman Fortress",
+              "tip_5lang": {
+                "de": "Die unbefestigten Parkflächen können schlammig sein.",
+                "hu": "A nem aszfaltozott parkolóhelyek sárgásak lehetnek.",
+                "ro": "Zonel de parcare neasfaltate pot fi noroioase.",
+                "en": "Unpaved parking areas can be muddy."
+              }
+            },
+            {
+              "name": "Lunch near the fortress",
+              "tip_5lang": {
+                "de": "Gute Erreichbarkeit mit dem Auto auch bei starkem Regen.",
+                "hu": "Autóval erős esőben is könnyen megközelíthető.",
+                "ro": "Accesibilitate bună cu mașina chiar și pe ploaie torențială.",
+                "en": "Good accessibility by car even in heavy rain."
+              }
+            },
+            {
+              "name": "Cluster C: Cape Kaliakra",
+              "tip_5lang": {
+                "de": "Dramatische Brandung beobachten, aber Vorsicht bei Sturmböen.",
+                "hu": "Figyelje a drámai hullámverést, de vigyázzon a szélviharral.",
+                "ro": "Admirați valurile dramatice, dar atenție la rafalele de vânt.",
+                "en": "Watch the dramatic surf, but watch out for gale-force gusts."
+              }
+            },
+            {
+              "name": "Sunset at the Cape",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen für den Ausblick im Auto.",
+                "hu": "Heves esőben élvezze a kilátást az autóból.",
+                "ro": "Rămâneți în mașină pentru priveliște dacă plouă torențial.",
+                "en": "Stay in the car for the view if it's raining heavily."
+              }
+            },
+            {
+              "name": "Dinner at Kavarna Beach",
+              "tip_5lang": {
+                "de": "Direkte Zufahrt bis zum Restaurant am Strand möglich.",
+                "hu": "Közvetlen lejutás autóval a tengerparti étteremig.",
+                "ro": "Acces direct cu mașina până la restaurantul de pe plajă.",
+                "en": "Direct access by car right down to the beach restaurant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straße zum Kap Kaliakra ist gut ausgebaut, aber bei Starkregen auf Aquaplaning achten.",
+              "Nutzen Sie die Parkplätze direkt an den Sehenswürdigkeiten, um kurze Wege im Regen zu haben.",
+              "Am Kap Kaliakra kann der Wind bei Regen sehr heftig sein; Türen beim Aussteigen festhalten.",
+              "Die Sicht am Kap kann durch Gischt und tief hängende Wolken eingeschränkt sein."
+            ],
+            "hu": [
+              "A Kaliakra-fokhoz vezető út jó, de heves esőben figyeljen a vízfelúszásra (aquaplaning).",
+              "Használja a látnivalók melletti parkolókat a rövid gyalogút érdekében.",
+              "A foknál esőben nagyon erős lehet a szél; kapaszkodjon az ajtóba kiszálláskor.",
+              "A látótávolságot a foknál a tengerpermet és az alacsony felhők korlátozhatják."
+            ],
+            "ro": [
+              "Drumul spre Capul Kaliakra este bun, dar atenție la acvaplanare pe ploaie torențială.",
+              "Folosiți parcările de lângă obiective pentru a merge cât mai puțin prin ploaie.",
+              "La cap, vântul poate fi foarte puternic pe ploaie; țineți bine portiera la coborâre.",
+              "Vizibilitatea la cap poate fi limitată de stropii de mare și norii joși."
+            ],
+            "en": [
+              "The road to Cape Kaliakra is well-maintained, but watch for aquaplaning in heavy rain.",
+              "Use parking spots right by the sights to keep walks in the rain short.",
+              "The wind at the Cape can be very fierce during rain; hold the door when getting out.",
+              "Visibility at the Cape can be limited by sea spray and low clouds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die winterliche Einsamkeit der Dobrudscha-Küste im beheizten Auto. Vormittags besuchen Sie die kulturellen Highlights im Zentrum. Die Fahrt zum Kap Kaliakra im Winterlicht ist spektakulär, auch wenn der Wind draußen eisig weht. Ein gemütliches Abendessen am Strand rundet den Tag ab.",
+            "hu": "Élvezze a dobrudzsai partvidék téli magányát a fűtött autóban. Délelőtt látogassa meg a központ kulturális nevezetességeit. A Kaliakra-fokhoz vezető út a téli fényekben látványos, még ha odakint jeges is a szél. A napot egy hangulatos tengerparti vacsora zárja.",
+            "ro": "Bucurați-vă de singurătatea hibernală a coastei Dobrogei în mașina încălzită. Dimineața, vizitați reperele culturale din centru. Drumul spre Capul Kaliakra în lumina de iarnă este spectaculos, chiar dacă vântul de afară este înghețat. O cină plăcută pe plajă încheie ziua.",
+            "en": "Enjoy the winter solitude of the Dobruja coast in a heated car. In the morning, visit the cultural highlights in the center. The drive to Cape Kaliakra in winter light is spectacular, even if the wind outside is icy. A cozy dinner at the beach rounds off the day."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Kavarna Historical Museum",
+              "tip_5lang": {
+                "de": "Die Heizung im Museum sorgt für angenehme Temperaturen.",
+                "hu": "A múzeum fűtése kellemes hőmérsékletet biztosít.",
+                "ro": "Încălzirea din muzeu asigură o temperatură plăcută.",
+                "en": "The museum's heating ensures comfortable temperatures."
+              }
+            },
+            {
+              "name": "Church of Saint George",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die winterliche Stille der Kirche zu genießen.",
+                "hu": "Rövid megálló a templom téli csendjének élvezetéhez.",
+                "ro": "Scurtă oprire pentru a vă bucura de liniștea hibernală a bisericii.",
+                "en": "Short stop to enjoy the winter silence of the church."
+              }
+            },
+            {
+              "name": "Cluster B: Chirakman Fortress",
+              "tip_5lang": {
+                "de": "Atemberaubende Aussicht auf das stahlblaue Wintermeer.",
+                "hu": "Lélegzetelállító kilátás az acélkék téli tengerre.",
+                "ro": "Vedere uluitoare spre marea de iarnă albastru-oțel.",
+                "en": "Breathtaking view of the steel-blue winter sea."
+              }
+            },
+            {
+              "name": "Lunch near the fortress",
+              "tip_5lang": {
+                "de": "Winteröffnungszeiten beachten, vorher reservieren empfohlen.",
+                "hu": "Figyeljen a téli nyitvatartásra, érdemes előre foglalni.",
+                "ro": "Atenție la programul de iarnă, se recomandă rezervare.",
+                "en": "Note winter opening hours; reservation recommended."
+              }
+            },
+            {
+              "name": "Cluster C: Cape Kaliakra",
+              "tip_5lang": {
+                "de": "Frostige Schönheit, das Kap wirkt im Winter fast mystisch.",
+                "hu": "Jeges szépség, a fok télen szinte misztikusnak tűnik.",
+                "ro": "Frumusețe înghețată, capul pare aproape mistic iarna.",
+                "en": "Frosty beauty; the Cape looks almost mystical in winter."
+              }
+            },
+            {
+              "name": "Sunset at the Cape",
+              "tip_5lang": {
+                "de": "Frühzeitige Ankunft wichtig, da die Sonne gegen 16:45 Uhr sinkt.",
+                "hu": "Fontos a korai érkezés, a nap már 16:45 körül lemegy.",
+                "ro": "Sosirea devreme este importantă, soarele apune pe la 16:45.",
+                "en": "Early arrival is important as the sun sets around 4:45 PM."
+              }
+            },
+            {
+              "name": "Dinner at Kavarna Beach",
+              "tip_5lang": {
+                "de": "Prüfen Sie, welche Restaurants im Winter geöffnet haben.",
+                "hu": "Ellenőrizze, mely éttermek vannak nyitva télen.",
+                "ro": "Verificați care restaurante sunt deschise iarna.",
+                "en": "Check which restaurants are open in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf mögliche Glätte auf der Strecke zum Kap Kaliakra.",
+              "Die Windböen am Kap können im Winter extrem kalt sein (Windchill).",
+              "Einige touristische Einrichtungen am Kap könnten im Winter eingeschränkt zugänglich sein.",
+              "Füllen Sie den Tank rechtzeitig auf, da im Winter weniger Tankstellen in der Umgebung besetzt sein könnten."
+            ],
+            "hu": [
+              "Figyeljen az esetleges jegesedésre a Kaliakra-fok felé vezető úton.",
+              "A széllökések a foknál télen rendkívül hidegek lehetnek.",
+              "Néhány turisztikai létesítmény a foknál télen korlátozottan látogatható.",
+              "Tankoljon időben, mert télen kevesebb benzinkút üzemelhet a környéken."
+            ],
+            "ro": [
+              "Atenție la posibilele porțiuni înghețate pe drumul spre Capul Kaliakra.",
+              "Rafalele de vânt la cap pot fi extrem de reci iarna (wind chill).",
+              "Unele facilități turistice de la cap pot avea acces limitat iarna.",
+              "Alimentați din timp, deoarece iarna pot fi mai puține benzinării deschise în zonă."
+            ],
+            "en": [
+              "Watch for potential icy patches on the road to Cape Kaliakra.",
+              "Wind gusts at the Cape can be extremely cold in winter (wind chill).",
+              "Some tourist facilities at the Cape might have limited access in winter.",
+              "Refuel in time as fewer gas stations might be staffed in the area during winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1465,6 +2047,188 @@
           "Buses can be crowded during the summer.",
           "Keep small change ready for tickets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie lokale Minibusse, um zwischen dem Zentrum und der Küste zu pendeln. Die Museen im Stadtinneren sind ideale Ziele für verregnete Vormittage. Mittags finden Sie in der Nähe der Haltestellen im Zentrum gute Verpflegungsmöglichkeiten. Ein kurzer Abstecher zum stürmischen Strand ist auch bei Regen lohnenswert.",
+            "hu": "Használja a helyi kisbuszokat a központ és a part közötti közlekedéshez. A belvárosi múzeumok ideális célpontok az esős délelőttökön. Délben a központi megállók közelében jó étkezési lehetőségeket talál. Egy rövid kitérő a viharos strandhoz esőben is megéri.",
+            "ro": "Folosiți microbuzele locale pentru a naveta între centru și coastă. Muzeele din interiorul orașului sunt destinații ideale pentru diminețile ploioase. La prânz, veți găsi opțiuni bune de masă lângă stațiile din centru. O scurtă vizită la plaja agitată merită chiar și pe ploaie.",
+            "en": "Use local minibuses to commute between the center and the coast. The museums in the town center are ideal destinations for rainy mornings. At noon, you'll find good dining options near the central stops. A short detour to the stormy beach is worthwhile even in the rain."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Kavarna Historical Museum",
+              "tip_5lang": {
+                "de": "Zentrale Lage, gut von den Hauptbushaltestellen erreichbar.",
+                "hu": "Központi elhelyezkedés, könnyen elérhető a fő buszmegállóktól.",
+                "ro": "Locație centrală, ușor accesibilă de la stațiile principale de autobuz.",
+                "en": "Central location, easily accessible from the main bus stops."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von der Bushaltestelle im Zentrum.",
+                "hu": "Csak rövid séta a központi buszmegállótól.",
+                "ro": "La doar o scurtă plimbare de stația de autobuz din centru.",
+                "en": "Just a short walk from the central bus stop."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Viele Restaurants befinden sich direkt an der Transitroute.",
+                "hu": "Számos étterem közvetlenül a buszjáratok vonalán található.",
+                "ro": "Multe restaurante se află direct pe ruta de tranzit.",
+                "en": "Many restaurants are located directly on the transit route."
+              }
+            },
+            {
+              "name": "Cluster B: Sea Garden",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt am oberen Ende des Parks.",
+                "hu": "A megálló a park felső végén található.",
+                "ro": "Stația se află la capătul superior al parcului.",
+                "en": "The stop is located at the upper end of the park."
+              }
+            },
+            {
+              "name": "Kavarna Central Beach",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt ein, Busse fahren seltener bei Regen.",
+                "hu": "Tervezze meg a visszautat, esőben ritkábban járhatnak a buszok.",
+                "ro": "Planificați întoarcerea, autobuzele pot circula mai rar pe ploaie.",
+                "en": "Plan your return; buses might run less frequently in the rain."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Warten Sie im Unterstand der Haltestelle auf den Bus.",
+                "hu": "Várja a buszt a megálló fedett várójában.",
+                "ro": "Așteptați autobuzul în adăpostul stației.",
+                "en": "Wait for the bus in the station shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Minibusse (Marshrutkas) verkehren zwischen dem Zentrum und dem Hafenbereich.",
+              "Informieren Sie sich vorab über den geänderten Fahrplan bei schlechtem Wetter.",
+              "Halten Sie Kleingeld für das Ticket bereit, um Verzögerungen beim Einsteigen zu vermeiden.",
+              "Die Haltestellen im Zentrum bieten meist einen Unterstand gegen Regen."
+            ],
+            "hu": [
+              "A kisbuszok (marsrutkák) közlekednek a központ és a kikötő között.",
+              "Tájékozódjon előre az esős időben esetleg módosult menetrendről.",
+              "Készítsen ki aprópénzt a jegyre, hogy elkerülje a felszálláskori késedelmet.",
+              "A központi megállók többsége fedett, védelmet nyújt az eső ellen."
+            ],
+            "ro": [
+              "Microbuzele (marshrutka) circulă între centru și zona portului.",
+              "Informați-vă din timp despre eventualele modificări ale orarului pe timp de ploaie.",
+              "Pregătiți mărunțiș pentru bilet pentru a evita întârzierile la urcare.",
+              "Stațiile din centru oferă de obicei un adăpost împotriva ploii."
+            ],
+            "en": [
+              "Minibuses (marshrutkas) run between the center and the harbor area.",
+              "Check in advance for modified schedules during bad weather.",
+              "Have small change ready for the ticket to avoid boarding delays.",
+              "Central stops mostly offer a shelter against the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bewegen Sie sich effizient mit dem Transit zwischen den winterlichen Zielen. Die beheizten Busse sind eine willkommene Abwechslung zur kühlen Meeresluft. Nutzen Sie den Vormittag für Museumsbesuche und genießen Sie das Mittagessen im Zentrum, bevor Sie für einen kurzen Küstencheck zum Hafen hinunterfahren.",
+            "hu": "Közlekedjen hatékonyan a tömegközlekedéssel a téli célpontok között. A fűtött buszok kellemes felüdülést nyújtanak a hűvös tengeri levegő után. Használja ki a délelőttöt múzeumlátogatásra, ebédeljen a központban, majd ugorjon le a kikötőhöz egy rövid parti nézelődésre.",
+            "ro": "Deplasați-vă eficient cu transportul în comun între destinațiile de iarnă. Autobuzele încălzite sunt o schimbare binevenită față de aerul rece al mării. Folosiți dimineața pentru vizite la muzee și prânziți în centru înainte de a coborî în port pentru o scurtă plimbare.",
+            "en": "Move efficiently with transit between winter destinations. The heated buses are a welcome break from the cool sea air. Use the morning for museum visits and enjoy lunch in the center before heading down to the harbor for a short coastal check."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Kavarna Historical Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist ein warmer Start in den Wintertag.",
+                "hu": "A múzeum meleg kezdése a téli napnak.",
+                "ro": "Muzeul este un început călduros pentru o zi de iarnă.",
+                "en": "The museum is a warm start to your winter day."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Ausstellungsräumen auf.",
+                "hu": "Melegedjen fel a kiállítótermekben.",
+                "ro": "Încălziți-vă în sălile de expoziție.",
+                "en": "Warm up in the exhibition rooms."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal nah an der Haltestelle für minimale Kälteexposition.",
+                "hu": "Válasszon megállóhoz közeli helyet a minimális hidegnek való kitettségért.",
+                "ro": "Alegeți un local aproape de stație pentru expunere minimă la frig.",
+                "en": "Choose a place near the stop for minimal cold exposure."
+              }
+            },
+            {
+              "name": "Cluster B: Sea Garden",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick, während Sie an der Haltestelle warten.",
+                "hu": "Élvezze a kilátást, miközben a megállóban várakozik.",
+                "ro": "Bucurați-vă de priveliște în timp ce așteptați în stație.",
+                "en": "Enjoy the view while waiting at the stop."
+              }
+            },
+            {
+              "name": "Kavarna Central Beach",
+              "tip_5lang": {
+                "de": "Die Busse fahren im Winter seltener zum Strand; Plan prüfen.",
+                "hu": "A buszok télen ritkábban járnak a strandra; ellenőrizze a menetrendet.",
+                "ro": "Autobuzele circulă mai rar spre plajă iarna; verificați orarul.",
+                "en": "Buses run less frequently to the beach in winter; check the schedule."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Die letzte Fahrt im Hellen nutzen (vor 17 Uhr).",
+                "hu": "Használja ki az utolsó világos járatot (17 óra előtt).",
+                "ro": "Folosiți ultima cursă pe lumină (înainte de ora 17).",
+                "en": "Take the last daylight trip (before 5 PM)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Frequenz der Minibusse kann im Winter niedriger sein.",
+              "Die Busse sind meist gut beheizt und bieten Schutz vor dem Wind.",
+              "Fragen Sie die Einheimischen nach den aktuellen Abfahrtszeiten, da Online-Infos ungenau sein können.",
+              "Planen Sie die Rückreise vom Strand rechtzeitig vor Einbruch der Dunkelheit."
+            ],
+            "hu": [
+              "A kisbuszok gyakorisága télen alacsonyabb lehet.",
+              "A buszok általában jól fűtöttek és védelmet nyújtanak a szél ellen.",
+              "Kérdezze a helyieket a pontos indulási időkről, mert az online infók pontatlanok lehetnek.",
+              "Tervezze meg a visszautat a strandról időben, még sötétedés előtt."
+            ],
+            "ro": [
+              "Frecvența microbuzelor poate fi mai mică iarna.",
+              "Autobuzele sunt de obicei bine încălzite și oferă protecție împotriva vântului.",
+              "Întrebați localnicii despre orele de plecare, informațiile online pot fi inexacte.",
+              "Planificați întoarcerea de la plajă din timp, înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "The frequency of minibuses may be lower in winter.",
+              "Buses are usually well-heated and offer protection from the wind.",
+              "Ask locals for current departure times as online info can be inaccurate.",
+              "Plan your return from the beach well before dark."
+            ]
+          }
+        }
       }
     }
   }

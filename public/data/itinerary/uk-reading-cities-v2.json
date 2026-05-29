@@ -356,6 +356,188 @@
           "Look out for the blue plaques that mark buildings of historical significance.",
           "The canal towpath can be muddy after rain, so be prepared."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die Abbey Ruins trotz Regen eine dramatische Kulisse, während die Forbury Gardens Schutz unter dichten Bäumen bieten. Mittags flüchten wir ins trockene Reading Museum, um den Bayeux-Teppich zu bewundern. Der Nachmittag am Kanal ist erfrischend unter einem Regenschirm, gefolgt von der besinnlichen Stille des Münsters. Abends glänzen die nassen Straßen im warmen Licht der Pubs.",
+            "hu": "Reggel az apátsági romok misztikusak az esőben, a Forbury kertek pedig gyors menedéket nyújtanak. Délben a Reading Múzeum fedett tereiben fedezzük fel a város múltját és a híres faliszőnyeget. Délután a Kennet-csatorna partján sétálunk esernyővel, majd a Reading Minster békéje vár. Este a vizes aszfalton tükröződő városi fények kísérnek utunkon.",
+            "ro": "Dimineața, ruinele abației par mistice în ploaie, iar Grădinile Forbury oferă un scurt adăpost sub arbori. La prânz, vizităm Muzeul Reading pentru a vedea faimoasa tapiserie Bayeux la adăpost. După-amiaza continuă pe malul canalului cu o umbrelă, urmată de liniștea catedralei Minster. Seara, luminile orașului se reflectă frumos pe străzile umede.",
+            "en": "In the morning, the Abbey Ruins look atmospheric in the drizzle, while Forbury Gardens offer some tree cover. At midday, we retreat to Reading Museum to see the Bayeux Tapestry in the dry. The afternoon walk along the canal is refreshing with an umbrella, followed by the peaceful Reading Minster. By evening, the wet pavements reflect the warm glow of the town center."
+          },
+          "stops": [
+            {
+              "name": "Forbury Gardens",
+              "tip_5lang": {
+                "de": "Die Pavillons bieten guten Schutz bei kurzen Schauern.",
+                "hu": "A pavilonok jó menedéket nyújtanak rövid záporok idején.",
+                "ro": "Pavilioanele oferă un adăpost bun în timpul averselor scurte.",
+                "en": "The bandstands offer good shelter during brief showers."
+              }
+            },
+            {
+              "name": "Reading Abbey Ruins",
+              "tip_5lang": {
+                "de": "Vorsicht, die alten Steine können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a régi kövek nedvesen csúszósak lehetnek.",
+                "ro": "Atenție, pietrele vechi pot fi alunecoase când sunt ude.",
+                "en": "Caution, the ancient stones can be slippery when wet."
+              }
+            },
+            {
+              "name": "St James's Church",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenjacke kurz auszuschütteln.",
+                "hu": "Ideális hely az esőkabát megrázására és elcsendesedésre.",
+                "ro": "Un loc ideal pentru a scutura pelerina de ploaie.",
+                "en": "An ideal spot to dry off your raincoat and enjoy the silence."
+              }
+            },
+            {
+              "name": "Reading Museum",
+              "tip_5lang": {
+                "de": "Perfektes Timing für die umfangreichen Indoor-Ausstellungen.",
+                "hu": "Tökéletes időzítés a kiterjedt beltéri kiállításokhoz.",
+                "ro": "Momentul perfect pentru expozițiile interioare extinse.",
+                "en": "Perfect timing for the extensive indoor exhibitions."
+              }
+            },
+            {
+              "name": "Kennet & Avon Canal",
+              "tip_5lang": {
+                "de": "Die Brückenunterführungen dienen als trockene Aussichtspunkte.",
+                "hu": "A hidak alatti részek száraz kilátópontként szolgálnak.",
+                "ro": "Sub pasajele podurilor veți găsi puncte de observation uscate.",
+                "en": "Bridge underpasses serve as dry vantage points."
+              }
+            },
+            {
+              "name": "Reading Minster",
+              "tip_5lang": {
+                "de": "Genießen Sie die Akustik des Regens auf dem Kirchendach.",
+                "hu": "Élvezze a templomtetőn kopogó eső akusztikáját.",
+                "ro": "Bucurați-vă de sunetul ploii pe acoperișul bisericii.",
+                "en": "Enjoy the acoustics of rain hitting the church roof."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen des Windes am Kanal ratsam.",
+              "Das Reading Museum ist der beste Zufluchtsort bei Starkregen.",
+              "Tragen Sie wasserfeste Schuhe für den Weg am Kennet & Avon Canal.",
+              "Viele Cafés in der Friar Street bieten gemütliche Plätze im Trockenen."
+            ],
+            "hu": [
+              "A csatorna menti szél miatt egy erős esernyő javasolt.",
+              "A Reading Múzeum a legjobb menedék heves esőzés esetén.",
+              "Viseljen vízálló cipőt a Kennet & Avon csatorna menti sétához.",
+              "A Friar Street kávézói barátságos menedéket nyújtanak a szárazban."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este recomandată din cauza vântului de pe canal.",
+              "Muzeul Reading este cel mai bun refugiu în caz de ploaie torențială.",
+              "Purtați încălțăminte impermeabilă pentru drumul pe lângă canal.",
+              "Cafenelele de pe strada Friar oferă locuri primitoare la uscat."
+            ],
+            "en": [
+              "A sturdy umbrella is advised due to wind along the canal.",
+              "Reading Museum is the best refuge during heavy downpours.",
+              "Wear waterproof shoes for the path along the Kennet & Avon Canal.",
+              "Many cafes on Friar Street offer cozy indoor seating to dry off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in den Abbey Ruins ist oft von Raureif bedeckt, was ihnen einen silbernen Glanz verleiht. Mittags wärmen wir uns im Reading Museum auf, bevor wir das frühe Dämmerlicht am Kanal einfangen. Die Reading Minster bietet einen friedlichen Rückzugsort vor der Kälte. Der Tag endet früh bei Einbruch der Dunkelheit in der beleuchteten Innenstadt.",
+            "hu": "A téli reggel az apátsági romoknál gyakran zúzmarás, ami ezüstös fényt ad a falaknak. Délben a Reading Múzeumban melegszünk fel, mielőtt elkapnánk a csatorna menti korai szürkületet. A Reading Minster békés menedéket nyújt a hideg elől. A nap korán ér véget a kivilágított belváros karácsonyi fényeiben.",
+            "ro": "Dimineața de iarnă la ruinele abației este adesea acoperită de chiciură, oferindu-le o strălucire argintie. La prânz ne încălzim în Muzeul Reading înainte de a surprinde amurgul timpuriu pe canal. Catedrala Minster oferă un refugiu liniștit împotriva frigului. Ziua se încheie devreme, odată cu lăsarea întunericului în centrul luminat.",
+            "en": "Winter mornings at the Abbey Ruins are often frost-covered, giving them a silver glow. At noon, we warm up in the Reading Museum before catching the early dusk light by the canal. Reading Minster provides a peaceful sanctuary from the cold. The day ends early as darkness falls over the festive lights of the town center."
+          },
+          "stops": [
+            {
+              "name": "Forbury Gardens",
+              "tip_5lang": {
+                "de": "Der Maiwand Lion wirkt im Winterschnee besonders majestätisch.",
+                "hu": "A Maiwand oroszlán téli hóban különösen fenségesen mutat.",
+                "ro": "Leul Maiwand arată deosebit de maiestuos în zăpada de iarnă.",
+                "en": "The Maiwand Lion looks particularly majestic in winter frost."
+              }
+            },
+            {
+              "name": "Reading Abbey Ruins",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist nötig, da der Wind durch die Ruinen pfeift.",
+                "hu": "Réteges öltözet kell, mert a szél átfúj a romok között.",
+                "ro": "Haine groase sunt necesare, vântul suflă printre ruine.",
+                "en": "Warm layers are essential as the wind whistles through the ruins."
+              }
+            },
+            {
+              "name": "St James's Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die festliche Stille im beheizten Kirchenschiff.",
+                "hu": "Élvezze az ünnepi csendet a fűtött templomhajóban.",
+                "ro": "Bucurați-vă de liniștea festivă în nava încălzită a bisericii.",
+                "en": "Enjoy the festive silence inside the heated nave."
+              }
+            },
+            {
+              "name": "Reading Museum",
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um der Kälte für zwei Stunden zu entkommen.",
+                "hu": "Nagyszerű hely a hideg elől való kétórás menekülésre.",
+                "ro": "Un loc excelent pentru a scăpa de frig timp de două ore.",
+                "en": "A great place to escape the cold for a couple of hours."
+              }
+            },
+            {
+              "name": "Kennet & Avon Canal",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang spiegelt sich herrlich im kalten Wasser.",
+                "hu": "A naplemente gyönyörűen tükröződik a hideg vízben.",
+                "ro": "Apusul se reflectă superb în apa rece a canalului.",
+                "en": "The early sunset reflects beautifully on the cold water."
+              }
+            },
+            {
+              "name": "Reading Minster",
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelle Weihnachtskonzerte am späten Nachmittag.",
+                "hu": "Figyelje a késő délutáni esetleges karácsonyi koncerteket.",
+                "ro": "Căutați eventualele concerte de Crăciun de după-amiază.",
+                "en": "Look out for occasional carol services in the late afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Tragen Sie Thermokleidung, da Reading oft feucht-kalt ist.",
+              "Nutzen Sie die Oracle Mall für eine Aufwärmpause zwischen den Stopps.",
+              "Die Wege am Kanal können bei Frost stellenweise glatt sein."
+            ],
+            "hu": [
+              "Decemberben a nap már délután 4 óra körül lemegy.",
+              "Viseljen termaruházatot, mert Reading gyakran nyirkos-hideg.",
+              "Használja az Oracle plázát egy melegedő szünetre a megállók között.",
+              "A csatorna menti utak fagy esetén foltokban csúszósak lehetnek."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:00 în luna decembrie.",
+              "Purtați haine termice, deoarece Reading are un frig umed.",
+              "Folosiți mall-ul Oracle pentru o pauză de încălzire între opriri.",
+              "Potecile de pe canal pot fi înghețate și alunecoase pe alocuri."
+            ],
+            "en": [
+              "The sun sets as early as 4:00 PM in December.",
+              "Wear thermal layers as Reading's cold is often damp.",
+              "Use the Oracle Shopping Centre for a warm break between stops.",
+              "Canal paths can be icy in patches during freezing temperatures."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +888,188 @@
           "The National Cycle Route 4 (NCN4) runs through Reading, providing a good spine for navigation.",
           "Some parts of the Thames Path can be narrow, so be considerate of pedestrians."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt am Kanal, wo das Wasser lebendig vom Regen gepeitscht wird. Das MERL Museum bietet eine willkommene trockene Pause mit ländlicher Geschichte. Wir fahren vorsichtig zu den Abbey Ruins und Forbury Gardens, während die Reifen auf dem nassen Asphalt singen. Der Tag endet entspannt am Münster, wo wir unsere Regenkleidung trocknen können.",
+            "hu": "A bringatúra a csatornánál indul, ahol a víz felszínét fodrozza az eső. A MERL Múzeum szívesen látott száraz pihenőt kínál vidéki történeteivel. Óvatosan tekerünk az apátsági romokhoz és a kertekhez, miközben a kerekek suhognak a vizes aszfalton. A nap a Minsternél zárul, ahol megszáríthatjuk esőfelszerelésünket.",
+            "ro": "Turul cu bicicleta începe pe canal, unde ploaia creează cercuri pe apă. Muzeul MERL oferă o pauză uscată binevenită cu istoria sa rurală. Pedalăm cu grijă spre ruine și grădini, în timp ce anvelopele șuieră pe asfaltul ud. Ziua se încheie la Minster, unde ne putem usca echipamentul de ploaie.",
+            "en": "The ride starts by the canal, with the water's surface dancing in the rain. MERL Museum offers a welcome dry break with its rural history exhibits. We cycle carefully to the Abbey Ruins and Forbury Gardens as tires hum on wet tarmac. The day ends at the Minster, where we can shake off the rain gear."
+          },
+          "stops": [
+            {
+              "name": "Kennet & Avon Canal",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Pfützen; der Uferweg kann schlammig sein.",
+                "hu": "Kerülje a tócsákat; a vízparti út sáros lehet.",
+                "ro": "Evitați bălțile; drumul de pe mal poate fi noroios.",
+                "en": "Avoid puddles; the towpath can get muddy in sections."
+              }
+            },
+            {
+              "name": "Museum of English Rural Life (MERL)",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich direkt am Eingang.",
+                "hu": "Biztonságos kerékpártárolók találhatók közvetlenül a bejáratnál.",
+                "ro": "Rafturi sigure pentru biciclete se află chiar la intrare.",
+                "en": "Secure bike racks are available right at the entrance."
+              }
+            },
+            {
+              "name": "Reading Abbey Ruins",
+              "tip_5lang": {
+                "de": "Steigen Sie ab und schieben Sie Ihr Rad auf den Gehwegen.",
+                "hu": "Szálljon le és tolja a bringát a gyalogos részeken.",
+                "ro": "Coborâți și împingeți bicicleta pe zonele pietonale.",
+                "en": "Dismount and walk your bike through the pedestrian zones."
+              }
+            },
+            {
+              "name": "Forbury Gardens",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind weniger rutschig als das Gras.",
+                "hu": "Az aszfaltozott utak kevésbé csúszósak, mint a fű.",
+                "ro": "Potecile asfaltate sunt mai puțin alunecoase decât iarba.",
+                "en": "Stick to paved paths as they are less slippery than grass."
+              }
+            },
+            {
+              "name": "Caversham Court",
+              "tip_5lang": {
+                "de": "Ein schöner Blick auf die aufgewühlte Themse im Regen.",
+                "hu": "Szép kilátás a felkorbácsolt Temzére az esőben.",
+                "ro": "O vedere frumoasă asupra Tamisei învolburate sub ploaie.",
+                "en": "A moody view of the choppy Thames under the rain."
+              }
+            },
+            {
+              "name": "Reading Minster",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um die Route für den Abend zu planen.",
+                "hu": "Nyugodt hely az esti útvonal megtervezéséhez.",
+                "ro": "Un loc liniștit pentru a planifica traseul de seară.",
+                "en": "A quiet spot to plan your final route for the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, da sie bei Nässe länger brauchen.",
+              "Tragen Sie eine vollflächige Regenjacke und Regenhosen.",
+              "Der Treidelpfad am Kanal kann bei starkem Regen rutschig sein.",
+              "Nutzen Sie helle Lichter, da die Sicht im Regen stark eingeschränkt ist."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, mert nedvesen hosszabb a féktáv.",
+              "Viseljen teljes esőkabátot és esőnadrágot a túrához.",
+              "A csatorna menti vontatóút heves esőben csúszós lehet.",
+              "Használjon erős lámpákat, mert esőben rosszabbak a látási viszonyok."
+            ],
+            "ro": [
+              "Verificați frânele, distanța de frânare crește pe ud.",
+              "Purtați o pelerină completă și pantaloni de ploaie.",
+              "Poteca de pe malul canalului poate fi alunecoasă pe ploaie.",
+              "Folosiți lumini puternice, vizibilitatea este redusă în ploaie."
+            ],
+            "en": [
+              "Check your brakes as stopping distances increase when wet.",
+              "Full waterproof jackets and trousers are highly recommended.",
+              "The canal towpath can be slippery during heavy rainfall.",
+              "Use bright lights as visibility is significantly reduced in rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bei klirrender Kälte radeln wir am frostigen Kanal entlang. Das MERL Museum bietet eine warme Pause mit seinen faszinierenden Exponaten. Wir erkunden die Abbey Ruins und die Forbury Gardens, wo der Winterhauch die Geschichte zum Leben erweckt. Über Caversham Court geht es zum Münster, während die tiefstehende Sonne lange Schatten auf die Wege wirft.",
+            "hu": "Dermesztő hidegben tekerünk a fagyos csatorna mentén. A MERL Múzeum meleg pihenőt kínál izgalmas kiállításaival. Felfedezzük az apátsági romokat és a Forbury kerteket, ahol a tél lehelete életre kelti a történelmet. A Caversham Court érintésével érünk a Minsterhez, miközben az alacsony nap hosszú árnyékokat vet.",
+            "ro": "Pedalăm pe lângă canalul înghețat în frigul tăios. Muzeul MERL oferă o pauză caldă cu exponatele sale fascinante. Explorăm ruinele abației și grădinile Forbury, unde suflul iernii trezește istoria la viață. Trecem pe la Caversham Court spre Minster, în timp ce soarele jos aruncă umbre lungi.",
+            "en": "In the biting cold, we cycle along the frost-rimmed canal. MERL Museum provides a warm interlude with its fascinating exhibits. We explore the Abbey Ruins and Forbury Gardens, where the winter air brings history to life. Via Caversham Court, we head to the Minster as the low sun casts long shadows on the paths."
+          },
+          "stops": [
+            {
+              "name": "Kennet & Avon Canal",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Holzbrücken am Wasser.",
+                "hu": "Vigyázzon a jégre a vízparti fahidakon.",
+                "ro": "Atenție la gheața de pe podurile de lemn de pe canal.",
+                "en": "Watch out for black ice on wooden canal bridges."
+              }
+            },
+            {
+              "name": "Museum of English Rural Life (MERL)",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Café mit einem heißen Getränk auf.",
+                "hu": "Melegedjen fel a kávézóban egy forró itallal.",
+                "ro": "Încălziți-vă în cafenea cu o băutură fierbinte.",
+                "en": "Warm up in the cafe with a hot local beverage."
+              }
+            },
+            {
+              "name": "Reading Abbey Ruins",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster kann bei Frost tückisch sein.",
+                "hu": "A macskakő fagyban trükkös és csúszós lehet.",
+                "ro": "Pavelele pot fi înșelătoare în caz de îngheț.",
+                "en": "Cobblestones can be treacherous when frosted over."
+              }
+            },
+            {
+              "name": "Forbury Gardens",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft im historischen Park.",
+                "hu": "Élvezze a tiszta téli levegőt a történelmi parkban.",
+                "ro": "Bucurați-vă de aerul curat de iarnă în parcul istoric.",
+                "en": "Enjoy the crisp winter air in this historic park setting."
+              }
+            },
+            {
+              "name": "Caversham Court",
+              "tip_5lang": {
+                "de": "Die Themse wirkt im Winterlicht besonders ruhig.",
+                "hu": "A Temze téli fényben különösen nyugodtnak tűnik.",
+                "ro": "Tamisa pare deosebit de liniștită în lumina iernii.",
+                "en": "The Thames looks exceptionally still in the winter light."
+              }
+            },
+            {
+              "name": "Reading Minster",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz nah an den Heizkörpern.",
+                "hu": "Keressen egy helyet a fűtőtestek közelében.",
+                "ro": "Găsiți un loc aproape de calorifere pentru a vă încălzi.",
+                "en": "Find a spot near the heaters to thaw out your fingers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterhandschuhe sind für das Bremsen und Schalten unerlässlich.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung voll aufgeladen ist.",
+              "Kleiden Sie sich nach dem Zwiebelprinzip gegen den Fahrtwind.",
+              "Meiden Sie unbeleuchtete Abschnitte des Kanals nach 16:30 Uhr."
+            ],
+            "hu": [
+              "A téli kesztyű elengedhetetlen a fékezéshez és váltáshoz.",
+              "Győződjön meg róla, hogy a kerékpáros lámpák fel vannak töltve.",
+              "Öltözzön rétegesen a menetszél elleni védekezéshez.",
+              "Kerülje a csatorna kivilágítatlan szakaszait 16:30 után."
+            ],
+            "ro": [
+              "Mănușile de iarnă sunt esențiale pentru frânare și schimbarea vitezelor.",
+              "Asigurați-vă că luminile bicicletei sunt complet încărcate.",
+              "Îmbrăcați-vă în straturi împotriva vântului din timpul mersului.",
+              "Evitați secțiunile neiluminate ale canalului după ora 16:30."
+            ],
+            "en": [
+              "Winter gloves are essential for braking and gear shifting.",
+              "Ensure your bike lights are fully charged for the early dusk.",
+              "Dress in multiple layers to combat the biting wind chill.",
+              "Avoid unlit sections of the canal path after 4:30 PM."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1086,6 +1450,206 @@
           "Be aware of bus lanes which are active at certain times.",
           "Plan your drives to avoid rush hour (7:30-9:30 am and 4:30-6:30 pm) if possible."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regentag beginnt komfortabel im MERL Museum, bevor wir eine kurze Runde im Whiteknights Park drehen. Die Fahrt nach Caversham Court bietet tolle Ausblicke auf die verregnete Themse. In der Stadt nutzen wir die Parkhäuser, um trocken zu den Abbey Ruins und ins Reading Museum zu gelangen. Der Tag endet mit einer entspannten Fahrt am beleuchteten Kanal entlang.",
+            "hu": "Az esős nap kényelmesen indul a MERL Múzeumban, mielőtt tennénk egy rövid kört a Whiteknights Parkban. Az út a Caversham Court-hoz szép kilátást nyújt az eső áztatta Temzére. A városban parkolóházakat használunk, hogy szárazon jussunk el a romokhoz és a múzeumba. A nap egy pihentető autózással zárul a kivilágított csatorna mentén.",
+            "ro": "Ziua ploioasă începe confortabil la Muzeul MERL, înainte de o scurtă tură în Parcul Whiteknights. Drumul spre Caversham Court oferă vederi frumoase asupra Tamisei în ploaie. În oraș folosim parcările etajate pentru a ajunge uscați la ruine și muzeu. Ziua se încheie cu o plimbare relaxantă cu mașina pe lângă canal.",
+            "en": "The rainy day begins comfortably at MERL Museum before a quick loop through Whiteknights Park. The drive to Caversham Court offers great views of the rainy Thames. In town, we use multi-storey car parks to stay dry while visiting the Abbey Ruins and Reading Museum. The day ends with a relaxing drive along the illuminated canal area."
+          },
+          "stops": [
+            {
+              "name": "Museum of English Rural Life (MERL)",
+              "tip_5lang": {
+                "de": "Kostenlose Parkplätze sind für Museumsbesucher vorhanden.",
+                "hu": "Ingyenes parkoló áll a múzeumlátogatók rendelkezésére.",
+                "ro": "Parcare gratuită este disponibilă pentru vizitatorii muzeului.",
+                "en": "Free parking is available on-site for museum visitors."
+              }
+            },
+            {
+              "name": "Whiteknights Park Walk",
+              "tip_5lang": {
+                "de": "Parken Sie am Sportzentrum für einen kurzen Weg zum See.",
+                "hu": "Parkoljon a sportközpontnál a tóhoz vezető rövid úthoz.",
+                "ro": "Parcați la centrul sportiv pentru un drum scurt spre lac.",
+                "en": "Park near the sports center for a short walk to the lake."
+              }
+            },
+            {
+              "name": "Caversham Court",
+              "tip_5lang": {
+                "de": "Nutzen Sie das nahegelegene Parkhaus, um trocken zu bleiben.",
+                "hu": "Használja a közeli parkolóházat, hogy száraz maradjon.",
+                "ro": "Folosiți parcarea din apropiere pentru a rămâne uscat.",
+                "en": "Use the nearby public car park to minimize time in the rain."
+              }
+            },
+            {
+              "name": "Forbury Gardens",
+              "tip_5lang": {
+                "de": "Das Queen's Road Parkhaus ist nur 5 Gehminuten entfernt.",
+                "hu": "A Queen's Road parkolóház csak 5 perc séta.",
+                "ro": "Parcarea Queen's Road este la doar 5 minute de mers pe jos.",
+                "en": "Queen's Road car park is just a 5-minute walk away."
+              }
+            },
+            {
+              "name": "Reading Abbey Ruins",
+              "tip_5lang": {
+                "de": "Blicken Sie vom Auto aus auf die beleuchteten Mauern.",
+                "hu": "Vessen egy pillantást az autóból a kivilágított falakra.",
+                "ro": "Priviți zidurile luminate direct din confortul mașinii.",
+                "en": "Catch a glimpse of the lit-up walls from the car seat."
+              }
+            },
+            {
+              "name": "Reading Museum",
+              "tip_5lang": {
+                "de": "Zentrales Parken ermöglicht schnellen Zugang zum Museum.",
+                "hu": "A központi parkolás gyors bejutást tesz lehetővé.",
+                "ro": "Parcarea centrală permite accesul rapid în muzeu.",
+                "en": "Central parking allows for quick access to the museum entrance."
+              }
+            },
+            {
+              "name": "Kennet & Avon Canal Walk",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Ufer reicht bei diesem Wetter aus.",
+                "hu": "Egy rövid megálló a parton elég ebben az időben.",
+                "ro": "O scurtă oprire pe mal este suficientă pe această vreme.",
+                "en": "A brief stop by the water is enough in this weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkhäuser wie 'The Oracle' bieten direkten, trockenen Zugang zur City.",
+              "Achten Sie auf Spritzwasser von anderen Fahrzeugen in engen Straßen.",
+              "Halten Sie die Scheibenwischer für die Fahrt an der Themse bereit.",
+              "Buchen Sie Parkplätze im Zentrum vorab, um langes Suchen zu vermeiden."
+            ],
+            "hu": [
+              "Az olyan parkolóházak, mint az Oracle, száraz bejutást kínálnak.",
+              "Ügyeljen a többi jármű által felcsapott vízre a szűk utcákban.",
+              "Készítse fel az ablaktörlőket a Temze menti autózáshoz.",
+              "Foglaljon parkolót előre a belvárosban a keresgélés elkerülésére."
+            ],
+            "ro": [
+              "Parcările precum 'The Oracle' oferă acces uscat direct în centru.",
+              "Atenție la apa împroșcată de alte vehicule pe străzile înguste.",
+              "Asigurați-vă că ștergătoarele funcționează bine pentru malul Tamisei.",
+              "Rezervați parcarea în centru pentru a evita căutările lungi."
+            ],
+            "en": [
+              "Car parks like 'The Oracle' offer direct, dry access to the city.",
+              "Watch out for spray from other vehicles in narrow streets.",
+              "Keep your wipers ready for the drive along the Thames riverfront.",
+              "Pre-book central parking to avoid searching in heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag im Auto beginnt warm am MERL Museum. Ein kurzer Stopp im Whiteknights Park zeigt die gefrorene Natur, bevor wir nach Caversham Court weiterfahren. Die Forbury Gardens und Abbey Ruins lassen sich wunderbar besichtigen, mit der Gewissheit einer warmen Sitzheizung danach. Das Reading Museum bietet Kultur im Warmen, gefolgt von einer abendlichen Fahrt durch das festliche Reading.",
+            "hu": "A téli nap az autóban melegen indul a MERL Múzeumnál. Egy rövid megálló a Whiteknights Parkban megmutatja a fagyos természetet. A Forbury kertek és az apátsági romok könnyen bejárhatók, tudva, hogy utána vár a fűtött ülés. A Reading Múzeum meleg kultúrát kínál, amit egy esti autózás követ az ünnepi városban.",
+            "ro": "Ziua de iarnă în mașină începe călduros la Muzeul MERL. O scurtă oprire în Parcul Whiteknights arată natura înghețată. Grădinile Forbury și ruinele pot fi vizitate ușor, cu siguranța scaunelor încălzite după aceea. Muzeul Reading oferă cultură la căldură, urmat de un drum prin orașul festiv.",
+            "en": "The winter day in the car starts warmly at MERL Museum. A brief stop at Whiteknights Park shows off the frozen scenery. Forbury Gardens and the Abbey Ruins are easy to visit, knowing a heated car seat awaits afterwards. Reading Museum offers indoor culture, followed by an evening drive through the festive streets."
+          },
+          "stops": [
+            {
+              "name": "Museum of English Rural Life (MERL)",
+              "tip_5lang": {
+                "de": "Ein warmer Startpunkt für den frostigen Wintertag.",
+                "hu": "Meleg kiindulópont a fagyos téli naphoz.",
+                "ro": "Un punct de plecare călduros pentru ziua geroasă.",
+                "en": "A warm starting point for your frosty winter day."
+              }
+            },
+            {
+              "name": "Whiteknights Park Walk",
+              "tip_5lang": {
+                "de": "Der See ist im Winter oft teilweise zugefroren.",
+                "hu": "A tó télen gyakran részben be van fagyva.",
+                "ro": "Lacul este adesea parțial înghețat în timpul iernii.",
+                "en": "The lake is often partially frozen during winter months."
+              }
+            },
+            {
+              "name": "Caversham Court",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Themse ohne zu frieren.",
+                "hu": "Élvezze a kilátást a Temzére anélkül, hogy fázna.",
+                "ro": "Bucurați-vă de vederea spre Tamisă fără să înghețați.",
+                "en": "Enjoy the Thames views without catching a chill."
+              }
+            },
+            {
+              "name": "Forbury Gardens",
+              "tip_5lang": {
+                "de": "Der Park ist im Winterlicht besonders fotogen.",
+                "hu": "A park a téli fényekben különösen fotogén.",
+                "ro": "Parcul este deosebit de fotogenic în lumina iernii.",
+                "en": "The park is very photogenic in the crisp winter light."
+              }
+            },
+            {
+              "name": "Reading Abbey Ruins",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkhaus minimieren die Kälteexposition.",
+                "hu": "A parkolótól vezető rövid út csökkenti a hidegben töltött időt.",
+                "ro": "Drumul scurt din parcare minimizează expunerea la frig.",
+                "en": "Short walks from the car park minimize exposure to the cold."
+              }
+            },
+            {
+              "name": "Reading Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort für die Zeit der frühen Dämmerung.",
+                "hu": "Ideális hely a korai szürkület idejére.",
+                "ro": "Locul ideal pentru perioada amurgului timpuriu.",
+                "en": "An ideal location for the early dusk hours."
+              }
+            },
+            {
+              "name": "Kennet & Avon Canal Walk",
+              "tip_5lang": {
+                "de": "Die Lichter am Wasser spiegeln sich wunderschön.",
+                "hu": "A vízparti fények gyönyörűen tükröződnek.",
+                "ro": "Luminile de pe mal se reflectă superb în apă.",
+                "en": "The waterside lights reflect beautifully in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Frostschutzmittel aufgefüllt ist.",
+              "Parkhäuser sind im Winter wärmer als offene Parkplätze.",
+              "Planen Sie die Rückfahrt vor dem Berufsverkehr gegen 17:00 Uhr.",
+              "Halten Sie eine Taschenlampe bereit, falls Sie in der Dunkelheit parken."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a fagyálló folyadék fel van töltve.",
+              "A parkolóházak télen melegebbek, mint a nyitott parkolók.",
+              "Tervezze meg a hazautat a 17 óra körüli csúcsforgalom előtt.",
+              "Legyen kéznél zseblámpa, ha sötétben kell parkolnia."
+            ],
+            "ro": [
+              "Asigurați-vă că lichidul antigriz este completat.",
+              "Parcările etajate sunt mai calde iarna decât cele deschise.",
+              "Planificați întoarcerea înainte de ora de vârf de la 17:00.",
+              "Aveți o lanternă la îndemână dacă parcați pe întuneric."
+            ],
+            "en": [
+              "Ensure your engine coolant and screen wash are winter-ready.",
+              "Multi-storey car parks are warmer than open-air lots in winter.",
+              "Plan your return trip before the 5:00 PM rush hour.",
+              "Keep a torch handy in case you need to park in unlit areas."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1418,6 +1982,170 @@
           "Most buses accept contactless payments, making buying tickets easy.",
           "Buses can be crowded during peak hours, so allow for extra time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erkunden wir Reading trocken und bequem. Wir starten bei den Abbey Ruins und Forbury Gardens, die gut an das Busnetz angebunden sind. Das Reading Museum und das MERL bieten stundenlange Unterhaltung im Trockenen. Nach einem Abstecher zum Kanal kehren wir mit dem Bus zum Münster zurück, während der Regen gegen die Fensterscheiben prasselt.",
+            "hu": "Busszal fedezzük fel Readinget szárazon és kényelmesen. Az apátsági romoknál és a Forbury kerteknél kezdünk, melyek jól elérhetők tömegközlekedéssel. A Reading Múzeum és a MERL órákig tartó szórakozást nyújt a szárazban. Egy csatorna menti kitérő után busszal térünk vissza a Minsterhez, miközben az eső veri az ablakot.",
+            "ro": "Cu autobuzul explorăm Reading uscat și confortabil. Începem la ruinele abației și grădinile Forbury, bine conectate la rețeaua de transport. Muzeul Reading și MERL oferă divertisment de ore întregi la adăpost. După o vizită la canal, revenim cu autobuzul la Minster în timp ce ploaia bate în geam.",
+            "en": "We explore Reading dry and comfortably using the local bus network. Starting at the Abbey Ruins and Forbury Gardens, which are well-connected by transit. Reading Museum and MERL offer hours of indoor entertainment. After a trip to the canal, we return by bus to the Minster while rain drums against the windows."
+          },
+          "stops": [
+            {
+              "name": "Reading Abbey Ruins & Forbury Gardens",
+              "tip_5lang": {
+                "de": "Mehrere Buslinien halten direkt am Forbury Park.",
+                "hu": "Számos buszjárat megáll közvetlenül a Forbury parknál.",
+                "ro": "Mai multe linii de autobuz opresc chiar lângă parcul Forbury.",
+                "en": "Numerous bus routes stop directly outside Forbury Gardens."
+              }
+            },
+            {
+              "name": "Reading Museum",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Sprint vom Busbahnhof zum Eingang.",
+                "hu": "Csak egy rövid vágta a buszpályaudvartól a bejáratig.",
+                "ro": "Doar un scurt sprint de la autogară până la intrare.",
+                "en": "Just a short dash from the bus station to the museum entrance."
+              }
+            },
+            {
+              "name": "Museum of English Rural Life (MERL)",
+              "tip_5lang": {
+                "de": "Die Linie 21 bringt Sie fast direkt vor die Tür.",
+                "hu": "A 21-es busz szinte közvetlenül az ajtó előtt tesz le.",
+                "ro": "Linia 21 vă lasă aproape direct în fața ușii.",
+                "en": "Bus route 21 drops you almost right outside the door."
+              }
+            },
+            {
+              "name": "Kennet & Avon Canal",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bushaltestellen an der London Road.",
+                "hu": "Használja a London Road menti buszmegállókat.",
+                "ro": "Folosiți stațiile de autobuz de pe London Road.",
+                "en": "Use the bus stops along London Road for easy access."
+              }
+            },
+            {
+              "name": "Reading Minster",
+              "tip_5lang": {
+                "de": "Der zentrale Knotenpunkt St Mary's Butts ist ganz nah.",
+                "hu": "A központi St Mary's Butts csomópont nagyon közel van.",
+                "ro": "Nodul central St Mary's Butts este foarte aproape.",
+                "en": "The central St Mary's Butts hub is located very close by."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Reading Buses' App für Echtzeit-Informationen.",
+              "Ein Tagesticket ist günstiger als mehrere Einzelfahrten.",
+              "Die meisten Bushaltestellen in Reading sind überdacht.",
+              "An Regentagen können Busse aufgrund des Verkehrs leicht verspätet sein."
+            ],
+            "hu": [
+              "Használja a 'Reading Buses' appot a valós idejű infókért.",
+              "A napijegy olcsóbb, mint több vonaljegy vásárlása.",
+              "Reading legtöbb buszmegállója fedett, így szárazon várhat.",
+              "Esős napokon a forgalom miatt kisebb késések előfordulhatnak."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Reading Buses' pentru informații în timp real.",
+              "Un bilet de o zi este mai ieftin decât mai multe călătorii simple.",
+              "Majoritatea stațiilor de autobuz din Reading sunt acoperite.",
+              "În zilele ploioase, autobuzele pot avea mici întârzieri din cauza traficului."
+            ],
+            "en": [
+              "Use the 'Reading Buses' app for real-time arrival information.",
+              "A day ticket is better value than multiple single fares.",
+              "Most bus shelters in Reading offer good protection from the rain.",
+              "Buses may be slightly delayed during heavy rain due to traffic."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im warmen Bus gleiten wir durch das winterliche Reading. Die Abbey Ruins und Forbury Gardens sind unser erster Halt in der klaren Morgenluft. Das Reading Museum und das MERL bieten ideale Zufluchtsorte vor dem Frost. Wir genießen den Blick auf den winterlichen Kanal, bevor wir zum festlich beleuchteten Münster zurückkehren, um den Tag gemütlich ausklingen zu lassen.",
+            "hu": "A meleg buszon utazva fedezzük fel a téli Readinget. Az apátsági romok és a Forbury kertek az első állomásunk a tiszta reggeli levegőben. A Reading Múzeum és a MERL ideális menedéket nyújt a fagy elől. Megcsodáljuk a téli csatornát, mielőtt visszatérnénk az ünnepi fényekben úszó Minsterhez.",
+            "ro": "În autobuzul călduros trecem prin Reading-ul hibernal. Ruinele și grădinile Forbury sunt prima oprire în aerul curat al dimineții. Muzeul Reading și MERL sunt refugii ideale împotriva gerului. Admirăm canalul înghețat înainte de a reveni la Minsterul luminat festiv.",
+            "en": "In a warm bus, we glide through wintery Reading. The Abbey Ruins and Forbury Gardens are our first stop in the crisp morning air. Reading Museum and MERL offer ideal escapes from the frost. We enjoy the views of the winter canal before returning to the festively lit Minster to end the day."
+          },
+          "stops": [
+            {
+              "name": "Reading Abbey Ruins & Forbury Gardens",
+              "tip_5lang": {
+                "de": "Kurze Wege von den Haltestellen halten Sie warm.",
+                "hu": "A megállóktól vezető rövid utak segítenek melegen maradni.",
+                "ro": "Drumurile scurte de la stații vă ajută să rămâneți cald.",
+                "en": "Short walks from the bus stops help you stay warm."
+              }
+            },
+            {
+              "name": "Reading Museum",
+              "tip_5lang": {
+                "de": "Die Museumshalle ist im Winter angenehm geheizt.",
+                "hu": "A múzeum csarnoka télen kellemesen fűtött.",
+                "ro": "Sala muzeului este încălzită plăcut în timpul iernii.",
+                "en": "The museum halls are pleasantly heated during winter."
+              }
+            },
+            {
+              "name": "Museum of English Rural Life (MERL)",
+              "tip_5lang": {
+                "de": "Ein warmes Getränk im Café ist nach der Fahrt perfekt.",
+                "hu": "Egy meleg ital a kávézóban tökéletes az utazás után.",
+                "ro": "O băutură caldă în cafenea este perfectă după drum.",
+                "en": "A warm drink in the cafe is perfect after the bus ride."
+              }
+            },
+            {
+              "name": "Kennet & Avon Canal",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus dem Busfenster im Obergeschoss.",
+                "hu": "Élvezze a kilátást az emeletes busz ablakából.",
+                "ro": "Bucurați-vă de vedere de la geamul etajului autobuzului.",
+                "en": "Enjoy the view from the top deck of the bus."
+              }
+            },
+            {
+              "name": "Reading Minster",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind abends hell beleuchtet und sicher.",
+                "hu": "A megállók este jól kivilágítottak és biztonságosak.",
+                "ro": "Stațiile sunt bine luminate și sigure seara.",
+                "en": "Bus stops are well-lit and safe during the early evenings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft die wärmste Art der Fortbewegung.",
+              "Achten Sie auf geänderte Fahrpläne während der Weihnachtszeit.",
+              "Nutzen Sie kontaktloses Bezahlen für einen schnellen Zustieg.",
+              "Planen Sie Ihre Fahrten so, dass Sie vor der Dunkelheit ankommen."
+            ],
+            "hu": [
+              "A busz télen gyakran a legmelegebb közlekedési mód.",
+              "Ügyeljen a karácsonyi időszakban módosult menetrendekre.",
+              "Használjon érintésmentes fizetést a gyorsabb felszálláshoz.",
+              "Tervezze az utazást úgy, hogy még sötétedés előtt megérkezzen."
+            ],
+            "ro": [
+              "Autobuzul este adesea cea mai caldă metodă de transport iarna.",
+              "Atenție la orarele modificate în perioada sărbătorilor.",
+              "Folosiți plata contactless pentru o îmbarcare rapidă.",
+              "Planificați călătoriile pentru a ajunge înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "Buses are often the warmest way to get around in winter.",
+              "Check for revised holiday timetables during the festive season.",
+              "Use contactless payment for a faster boarding process.",
+              "Plan your trips to arrive at your destination before dark."
+            ]
+          }
+        }
       }
     }
   }

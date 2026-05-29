@@ -338,6 +338,188 @@
           "Many shops observe an afternoon 'siesta', so plan accordingly.",
           "Look out for the dragon and rose symbols common in Modernisme architecture."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag steht im Zeichen des Modernismus in den trockenen Räumen des Gaudí-Zentrums. Mittags bieten die historischen Arkaden am Mercadal-Platz perfekten Schutz vor den Schauern. Nachmittags erkunden wir die prachtvolle Casa Navàs und beenden den Tag bei einer gemütlichen Vermut-Verkostung im Museum. Ein regnerischer Tag, der die Innenarchitektur glänzen lässt.",
+            "hu": "A reggel a modernizmus jegyében telik a Gaudí Központ fedett tereiben. Ebédidőben a Mercadal tér árkádjai nyújtanak menedéket az eső elől. Délután a pazar Casa Navàs belső tereit csodáljuk meg, a napot pedig egy hangulatos vermut-kóstolóval zárjuk a múzeumban. Az eső ellenére a város építészeti kincsei így is lenyűgözőek.",
+            "ro": "Dimineața este dedicată modernismului în spațiile interioare ale Centrului Gaudí. La prânz, arcadele istorice din Piața Mercadal oferă protecție perfectă împotriva ploii. După-amiaza explorăm superba Casa Navàs și încheiem ziua cu o degustare de vermut la muzeu. O zi ploioasă care pune în valoare arhitectura interioară.",
+            "en": "The morning focuses on Modernism inside the dry halls of the Gaudí Centre. At noon, the historic arcades of Plaza del Mercadal provide perfect shelter from the showers. In the afternoon, we explore the magnificent Casa Navàs and end the day with a cozy vermouth tasting at the museum. A rainy day that lets the interior architecture shine."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Mercadal",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden rund um den Platz, um auch bei Regen trocken zu bleiben.",
+                "hu": "Használja a tér körüli árkádokat, hogy esőben is szárazon maradjon.",
+                "ro": "Folosiți arcadele din jurul pieței pentru a rămâne uscați chiar și pe ploaie.",
+                "en": "Use the arcades around the square to stay dry even when it's raining."
+              }
+            },
+            {
+              "name": "Gaudí Centre Reus",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für regnerische Stunden mit interaktiven Ausstellungen.",
+                "hu": "Ideális hely az esős órákra az interaktív kiállításokkal.",
+                "ro": "Un loc ideal pentru orele ploioase, cu expoziții interactive.",
+                "en": "An ideal spot for rainy hours with interactive exhibitions."
+              }
+            },
+            {
+              "name": "Casa Navàs",
+              "tip_5lang": {
+                "de": "Die Innenbesichtigung ist das Highlight und völlig wetterunabhängig.",
+                "hu": "A belső látogatás a fénypont, teljesen időjárásfüggetlen.",
+                "ro": "Vizita în interior este punctul culminant, complet independentă de vreme.",
+                "en": "The interior tour is the highlight and completely weather-independent."
+              }
+            },
+            {
+              "name": "Prioral Church of Sant Pere",
+              "tip_5lang": {
+                "de": "Die massive Steinkirche bietet eine ruhige und trockene Atmosphäre.",
+                "hu": "A masszív kőtemplom csendes és száraz menedéket nyújt.",
+                "ro": "Biserica masivă de piatră oferă o atmosferă liniștită și uscată.",
+                "en": "The massive stone church offers a quiet and dry atmosphere."
+              }
+            },
+            {
+              "name": "Plaza Prim",
+              "tip_5lang": {
+                "de": "Die Cafés unter den Arkaden sind perfekt für eine Kaffeepause im Trockenen.",
+                "hu": "Az árkádok alatti kávézók tökéletesek egy száraz kávészünetre.",
+                "ro": "Cafenelele de sub arcade sunt perfecte pentru o pauză de cafea la adăpost.",
+                "en": "The cafes under the arcades are perfect for a coffee break in the dry."
+              }
+            },
+            {
+              "name": "Vermut-Museum",
+              "tip_5lang": {
+                "de": "Perfekter Abschluss: Probieren Sie lokale Vermuts in geschützter Umgebung.",
+                "hu": "Tökéletes zárás: kóstoljon helyi vermutokat védett környezetben.",
+                "ro": "Final perfect: gustați vermuturi locale într-un mediu protejat.",
+                "en": "Perfect finish: taste local vermouths in a protected environment."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Reus hat viele Arkadengänge, nutzen Sie diese konsequent bei Schauern.",
+              "Tragen Sie rutschfestes Schuhwerk für die teils glatten Fliesenböden der Altstadt.",
+              "Besuchen Sie das Gaudí-Zentrum während der stärksten Regenfälle.",
+              "Ein Regenschirm ist bei den kurzen Wegen zwischen den Monumenten praktischer als ein Regenmantel."
+            ],
+            "hu": [
+              "Reus számos árkádos folyosóval rendelkezik, esőben használja ezeket.",
+              "Viseljen csúszásmentes lábbelit az óváros néhol csúszós járólapjai miatt.",
+              "A Gaudí Központot a legerősebb eső idejére időzítse.",
+              "A műemlékek közötti rövid távolságok miatt az esernyő praktikusabb, mint az esőkabát."
+            ],
+            "ro": [
+              "Reus are multe arcade, folosiți-le consecvent în timpul averselor.",
+              "Purtați încălțăminte antiderapantă pentru dalele uneori alunecoase din centrul vechi.",
+              "Vizitați Centrul Gaudí în timpul celor mai puternice ploi.",
+              "O umbrelă este mai practică decât o pelerină pentru distanțele scurte dintre monumente."
+            ],
+            "en": [
+              "Reus has many arcaded walkways; use them consistently during showers.",
+              "Wear non-slip footwear for the sometimes slippery tiled floors of the old town.",
+              "Schedule the Gaudí Centre visit during the heaviest rainfall.",
+              "An umbrella is more practical than a raincoat for the short distances between monuments."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft bringt die Farben des Modernismus besonders gut zur Geltung. Wir starten auf dem Mercadal-Platz, nutzen das Tageslicht für die Fassaden der Casa Navàs und ziehen uns am frühen Abend in die wärmenden Museen zurück. Ein Tag voller Licht und Kultur, abgeschlossen mit einem kräftigen Reus-Vermut zur inneren Erwärmung.",
+            "hu": "A tiszta téli levegő különösen szépen kiemeli a modernizmus színeit. A Mercadal téren kezdünk, kihasználjuk a nappali fényt a Casa Navàs homlokzatához, kora este pedig a fűtött múzeumokba vonulunk vissza. Fénnyel és kultúrával teli nap, amelyet egy pohár helyi vermut melletti melegedéssel zárunk.",
+            "ro": "Aerul curat de iarnă scoate în evidență culorile modernismului. Începem în Piața Mercadal, profităm de lumina zilei pentru fațadele Casei Navàs și ne retragem în muzeele încălzite spre seară. O zi plină de lumină și cultură, încheiată cu un vermut de Reus pentru a ne încălzi.",
+            "en": "The crisp winter air highlights the colors of Modernism beautifully. We start at Plaza del Mercadal, use the daylight for the facades of Casa Navàs, and retreat to the warm museums in the early evening. A day full of light and culture, finished with a glass of Reus vermouth to warm up."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Mercadal",
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und beleuchtet die Fassaden am Vormittag perfekt.",
+                "hu": "A téli nap alacsonyan jár, délelőtt tökéletesen megvilágítja a homlokzatokat.",
+                "ro": "Soarele de iarnă este jos și luminează perfect fațadele în cursul dimineții.",
+                "en": "The winter sun is low and illuminates the facades perfectly in the morning."
+              }
+            },
+            {
+              "name": "Gaudí Centre Reus",
+              "tip_5lang": {
+                "de": "Gut beheizt – ein perfekter Ort, um sich zwischen den Spaziergängen aufzuwärmen.",
+                "hu": "Jól fűtött – tökéletes hely a séták közötti felmelegedéshez.",
+                "ro": "Bine încălzit – un loc perfect pentru a vă încălzi între plimbări.",
+                "en": "Well-heated – a perfect place to warm up between walks."
+              }
+            },
+            {
+              "name": "Casa Navàs",
+              "tip_5lang": {
+                "de": "Buchen Sie die Vormittagstour, um das natürliche Licht in den Glasfenstern zu erleben.",
+                "hu": "Foglaljon délelőtti túrát, hogy lássa a természetes fényt az üvegablakokon.",
+                "ro": "Rezervați turul de dimineață pentru a vedea lumina naturală prin vitralii.",
+                "en": "Book the morning tour to experience the natural light through the glass windows."
+              }
+            },
+            {
+              "name": "Prioral Church of Sant Pere",
+              "tip_5lang": {
+                "de": "Im Inneren kann es kühl sein, behalten Sie Ihre Jacke während des Besuchs an.",
+                "hu": "Odabent hűvös lehet, látogatás közben tartsa magán a kabátját.",
+                "ro": "Poate fi răcoare în interior, păstrați haina pe dvs. în timpul vizitei.",
+                "en": "It can be cool inside; keep your jacket on during the visit."
+              }
+            },
+            {
+              "name": "Plaza Prim",
+              "tip_5lang": {
+                "de": "Genießen Sie die Nachmittagssonne auf den Terrassen mit Decken und Heizstrahlern.",
+                "hu": "Élvezze a délutáni napsütést a teraszokon takarókkal és hősugárzókkal.",
+                "ro": "Bucurați-vă de soarele de după-amiază pe terasele cu pături și încălzitoare.",
+                "en": "Enjoy the afternoon sun on the terraces with blankets and heaters."
+              }
+            },
+            {
+              "name": "Vermut-Museum",
+              "tip_5lang": {
+                "de": "Ein kräftiger Vermut am späten Nachmittag ist die beste Medizin gegen die Kälte.",
+                "hu": "Egy pohár vermut késő délután a legjobb orvosság a hideg ellen.",
+                "ro": "Un vermut tare spre seară este cel mai bun remediu împotriva frigului.",
+                "en": "A strong vermouth in the late afternoon is the best medicine against the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 17:30 Uhr unter, erledigen Sie Außenfotos vorher.",
+              "Achten Sie auf den 'Mestral' (Nordwestwind), der die gefühlte Temperatur senken kann.",
+              "Tragen Sie Zwiebelprinzip-Kleidung für den Wechsel zwischen kalten Straßen und warmen Museen.",
+              "Reus ist im Winter weniger überlaufen, genießen Sie die Ruhe in den Gassen."
+            ],
+            "hu": [
+              "Télen a nap 17:30 körül nyugszik, a külső fotókat készítse el addig.",
+              "Figyeljen a 'Mestral' szélre, amely jelentősen csökkentheti a hőérzetet.",
+              "Öltözzön rétegesen a hideg utcák és a fűtött múzeumok közötti váltásokhoz.",
+              "Reus télen kevésbé zsúfolt, élvezze a csendet a szűk utcákban."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 17:30 iarna, faceți fotografiile exterioare înainte.",
+              "Atenție la 'Mestral' (vântul de nord-vest) care poate scădea temperatura resimțită.",
+              "Purtați haine în straturi pentru trecerea de la străzile reci la muzeele calde.",
+              "Reus este mai puțin aglomerat iarna, bucurați-vă de liniștea de pe străduțe."
+            ],
+            "en": [
+              "The sun sets around 5:30 PM in winter; take outdoor photos before then.",
+              "Watch out for the 'Mestral' (northwest wind) which can lower the perceived temperature.",
+              "Wear layered clothing for the transition between cold streets and warm museums.",
+              "Reus is less crowded in winter; enjoy the peace in the narrow alleys."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -694,6 +876,206 @@
           "Use bike lanes wherever available.",
           "Always lock your bike, even if you're leaving it for just a few minutes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen erkunden wir Reus auf zwei Rädern, mit Fokus auf die überdachten Sehenswürdigkeiten. Wir starten am Plaza Prim, radeln vorsichtig durch die glatten Altstadtgassen zum Gaudí-Zentrum und nehmen uns viel Zeit in den Museen. Ein technischer Ausflug zum Institut Pere Mata rundet den Tag ab, wobei wir die asphaltierten Wege bevorzugen.",
+            "hu": "Esőben is két keréken fedezzük fel Reust, a fedett látnivalókra összpontosítva. A Plaza Primtől indulunk, óvatosan kerekezünk az óváros csúszós utcáin a Gaudí Központig, és sok időt töltünk a múzeumokban. Az Institut Pere Mata meglátogatása zárja a napot, aszfaltozott utakat választva.",
+            "ro": "În ciuda ploii, explorăm Reus pe două roți, concentrându-ne pe atracțiile acoperite. Pornim din Plaza Prim, pedalăm cu atenție prin străzile alunecoase spre Centrul Gaudí și petrecem mult timp în muzee. O excursie la Institut Pere Mata încheie ziua, preferând drumurile asfaltate.",
+            "en": "Despite the rain, we explore Reus on two wheels, focusing on covered sights. We start at Plaza Prim, cycle carefully through the slippery old town alleys to the Gaudí Centre, and take plenty of time in the museums. A trip to Institut Pere Mata rounds off the day, sticking to paved paths."
+          },
+          "stops": [
+            {
+              "name": "Plaza Prim",
+              "tip_5lang": {
+                "de": "Vorsicht beim Losfahren: Die Fliesen auf dem Platz sind bei Nässe extrem rutschig.",
+                "hu": "Vigyázat az indulásnál: a tér kövezete esőben rendkívül csúszós.",
+                "ro": "Atenție la plecare: dalele din piață sunt extrem de alunecoase pe timp de ploaie.",
+                "en": "Careful when starting: the tiles on the square are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Teatre Fortuny",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach für ein schnelles Foto der Fassade.",
+                "hu": "Rövid megálló az előtető alatt egy gyors fotó erejéig a homlokzatról.",
+                "ro": "Scurtă oprire sub copertină pentru o fotografie rapidă a fațadei.",
+                "en": "Short stop under the canopy for a quick photo of the facade."
+              }
+            },
+            {
+              "name": "Plaza del Mercadal & Casa Navàs",
+              "tip_5lang": {
+                "de": "Sichere Fahrradparkplätze finden Sie in der Nähe unter den Arkaden.",
+                "hu": "Biztonságos kerékpárparkolót talál a közelben az árkádok alatt.",
+                "ro": "Găsiți parcări sigure pentru biciclete în apropiere, sub arcade.",
+                "en": "Find secure bike parking nearby under the arcades."
+              }
+            },
+            {
+              "name": "Gaudí Centre Reus",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad direkt am Eingang unter, um es trocken zu halten.",
+                "hu": "Támassza le kerékpárját közvetlenül a bejáratnál, hogy száraz maradjon.",
+                "ro": "Lăsați bicicleta chiar la intrare pentru a o păstra uscată.",
+                "en": "Park your bike right by the entrance to keep it dry."
+              }
+            },
+            {
+              "name": "Prioral Church of Sant Pere",
+              "tip_5lang": {
+                "de": "Guter Ort für eine Pause, während draußen ein Regenschauer vorbeizieht.",
+                "hu": "Jó hely egy pihenőre, amíg odakint elvonul egy zápor.",
+                "ro": "Un loc bun pentru o pauză în timp ce trece o aversă afară.",
+                "en": "A good place for a break while a rain shower passes outside."
+              }
+            },
+            {
+              "name": "Vermut-Museum",
+              "tip_5lang": {
+                "de": "Das Museum hat einen Innenhof, in dem man das Rad meist geschützt abstellen kann.",
+                "hu": "A múzeumnak van udvara, ahol a kerékpárt általában védett helyen hagyhatja.",
+                "ro": "Muzeul are o curte unde puteți lăsa bicicleta protejată de obicei.",
+                "en": "The museum has a courtyard where you can usually park your bike protected."
+              }
+            },
+            {
+              "name": "Institut Pere Mata",
+              "tip_5lang": {
+                "de": "Die Fahrt hierher führt über befestigte Straßen, meiden Sie Feldwege bei Schlamm.",
+                "hu": "Az idevezető út aszfaltozott, sár esetén kerülje a földutakat.",
+                "ro": "Drumul până aici este pe șosele asfaltate, evitați drumurile de pământ dacă e noroi.",
+                "en": "The ride here is on paved roads; avoid dirt paths if it's muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie bei Regen die weiß markierten Linien auf dem Asphalt, sie sind rutschig.",
+              "Vollständige Regenbekleidung ist für die Fahrt zum Pere Mata Institut unerlässlich.",
+              "Prüfen Sie Ihre Bremsen vorab; auf nassem Stein ist der Bremsweg länger.",
+              "Nutzen Sie Fahrradständer in der Nähe von überdachten Bereichen."
+            ],
+            "hu": [
+              "Esőben kerülje az aszfalton lévő fehér jelzéseket, mert csúsznak.",
+              "A Pere Mata Intézethez vezető úthoz elengedhetetlen a teljes esőruházat.",
+              "Indulás előtt ellenőrizze a fékeket; nedves kövön hosszabb a féktáv.",
+              "Használja a fedett területek közelében lévő kerékpártárolókat."
+            ],
+            "ro": [
+              "Evitați liniile albe marcate pe asfalt când plouă, sunt alunecoase.",
+              "Echipamentul de ploaie complet este esențial pentru drumul spre Institutul Pere Mata.",
+              "Verificați frânele înainte; pe piatră umedă distanța de frânare este mai mare.",
+              "Folosiți suporturile de biciclete din apropierea zonelor acoperite."
+            ],
+            "en": [
+              "Avoid white marked lines on the asphalt in the rain; they are slippery.",
+              "Full rain gear is essential for the ride to the Pere Mata Institute.",
+              "Check your brakes beforehand; braking distance is longer on wet stone.",
+              "Use bike racks near covered areas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Brise und viel Sonne: Der Winter in Reus ist ideal für eine Radtour. Wir besichtigen die modernistischen Schätze im Zentrum und genießen die Fahrt zum Institut Pere Mata, wo die Architektur im klaren Winterlicht strahlt. Da die Tage kürzer sind, legen wir ein flottes Tempo vor, um alle Außenbereiche noch vor der Dämmerung zu sehen.",
+            "hu": "Friss szellő és sok napsütés: a reusi tél ideális egy kerékpártúrához. Megnézzük a központ modernista kincseit, és élvezzük a tekerést az Institut Pere Mata felé, ahol az építészet ragyog a tiszta téli fényben. Mivel a nappalok rövidebbek, tempósabban haladunk, hogy sötétedés előtt mindent lássunk.",
+            "ro": "Briză proaspătă și mult soare: iarna în Reus este ideală pentru o tură cu bicicleta. Vizităm comorile moderniste din centru și ne bucurăm de drumul spre Institut Pere Mata, unde arhitectura strălucește în lumina clară de iarnă. Zilele fiind scurte, menținem un ritm alert pentru a vedea totul înainte de amurg.",
+            "en": "Fresh breeze and plenty of sun: winter in Reus is ideal for a bike tour. We visit the modernist treasures in the center and enjoy the ride to Institut Pere Mata, where the architecture shines in the clear winter light. Since the days are shorter, we keep a brisk pace to see all outdoor areas before dusk."
+          },
+          "stops": [
+            {
+              "name": "Plaza Prim",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe, der Fahrtwind kann am Morgen sehr kalt sein.",
+                "hu": "Viseljen kesztyűt, a menetszél reggel nagyon hideg lehet.",
+                "ro": "Purtați mănuși, vântul din timpul mersului poate fi foarte rece dimineața.",
+                "en": "Wear gloves; the wind chill while riding can be very cold in the morning."
+              }
+            },
+            {
+              "name": "Teatre Fortuny",
+              "tip_5lang": {
+                "de": "Ein schöner sonniger Stopp, bevor es in die engeren, schattigeren Gassen geht.",
+                "hu": "Szép napsütötte megálló, mielőtt a szűkebb, árnyékosabb utcákba érnénk.",
+                "ro": "O oprire însorită înainte de a intra pe străzile mai înguste și umbrite.",
+                "en": "A nice sunny stop before entering the narrower, shadier alleys."
+              }
+            },
+            {
+              "name": "Plaza del Mercadal & Casa Navàs",
+              "tip_5lang": {
+                "de": "In der Sonne auf dem Platz ist es deutlich wärmer als in den Schattenzonen.",
+                "hu": "A téren a napon jóval melegebb van, mint az árnyékos részeken.",
+                "ro": "La soare în piață este mult mai cald decât în zonele cu umbră.",
+                "en": "It's significantly warmer in the sun on the square than in the shaded zones."
+              }
+            },
+            {
+              "name": "Gaudí Centre Reus",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch für eine Aufwärmpause.",
+                "hu": "Használja ki a múzeumlátogatást egy melegedő pihenőre.",
+                "ro": "Folosiți vizita la muzeu pentru o pauză de încălzire.",
+                "en": "Use the museum visit for a warm-up break."
+              }
+            },
+            {
+              "name": "Prioral Church of Sant Pere",
+              "tip_5lang": {
+                "de": "Der Kirchturm ist im Winter oft windig, halten Sie sich fest.",
+                "hu": "A templomtorony télen gyakran szeles, kapaszkodjon erősen.",
+                "ro": "Turnul bisericii este adesea vântos iarna, țineți-vă bine.",
+                "en": "The church tower is often windy in winter; hold on tight."
+              }
+            },
+            {
+              "name": "Vermut-Museum",
+              "tip_5lang": {
+                "de": "Perfekt für eine Pause im Warmen vor der längeren Fahrt zum Pere Mata.",
+                "hu": "Tökéletes egy meleg pihenőre a Pere Mata felé vezető hosszabb út előtt.",
+                "ro": "Perfect pentru o pauză la căldură înainte de drumul mai lung spre Pere Mata.",
+                "en": "Perfect for a break in the warm before the longer ride to Pere Mata."
+              }
+            },
+            {
+              "name": "Institut Pere Mata",
+              "tip_5lang": {
+                "de": "Die Außenanlage wirkt im Winterlicht besonders weitläufig und friedlich.",
+                "hu": "A kültéri rész a téli fényben különösen tágasnak és békésnek tűnik.",
+                "ro": "Exteriorul pare deosebit de vast și liniștit în lumina de iarnă.",
+                "en": "The outdoor grounds look particularly spacious and peaceful in the winter light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf tiefstehende Sonne, die beim Radfahren blenden kann; Sonnenbrille mitnehmen.",
+              "Die Strecke zum Pere Mata ist exponiert; bei Mestral-Wind kann es anstrengend werden.",
+              "In den engen Gassen der Altstadt hält sich die Kälte länger.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, falls es später wird."
+            ],
+            "hu": [
+              "Figyeljen az alacsonyan járó napra, amely vakíthat kerékpározás közben; vigyen napszemüveget.",
+              "A Pere Mata felé vezető út nyitott; Mestral szélben fárasztó lehet.",
+              "Az óváros szűk utcáin tovább megmarad a hideg.",
+              "Ellenőrizze a kerékpár világítását, ha esetleg későbbre csúszna a program."
+            ],
+            "ro": [
+              "Atenție la soarele jos care vă poate orbi în timp ce pedalați; luați ochelari de soare.",
+              "Traseul spre Pere Mata este expus; poate fi obositor dacă bate vântul Mestral.",
+              "Pe străzile înguste din centrul vechi frigul persistă mai mult.",
+              "Asigurați-vă că luminile bicicletei funcționează în cazul în care se face târziu."
+            ],
+            "en": [
+              "Watch out for the low sun which can blind you while cycling; bring sunglasses.",
+              "The route to Pere Mata is exposed; it can be tiring if the Mestral wind blows.",
+              "In the narrow alleys of the old town, the cold lingers longer.",
+              "Ensure your bike lights are working in case it gets later than planned."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1026,6 +1408,188 @@
           "Be aware of the one-way street system in the city center.",
           "Do not leave valuables visible in your car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die ideale Wahl für einen Regentag: Wir nutzen die Tiefgaragen im Zentrum, um trockenen Fußes zu den modernistischen Highlights zu gelangen. Die Fahrt zum etwas außerhalb gelegenen Institut Pere Mata ist im Auto komfortabel und schützt vor dem Wetter. Mittags genießen wir die lokale Küche in einem der gemütlichen Restaurants im Stadtkern.",
+            "hu": "Ideális választás esős napra: a belvárosi mélygarázsokat használjuk, hogy száraz lábbal jussunk el a modernista látnivalókhoz. A városon kívül eső Institut Pere Mata meglátogatása autóval kényelmes és véd az időjárástól. Ebédre a helyi konyha remekeit élvezzük a belváros egyik hangulatos éttermében.",
+            "ro": "Alegerea ideală pentru o zi ploioasă: folosim parcările subterane din centru pentru a ajunge la punctele moderniste fără să ne udăm. Drumul spre Institutul Pere Mata, aflat puțin în afara orașului, este confortabil cu mașina. La prânz savurăm bucătăria locală într-unul dintre restaurantele primitoare din centru.",
+            "en": "The ideal choice for a rainy day: we use underground car parks in the center to reach the modernist highlights dry-shod. The drive to the Institut Pere Mata, located slightly outside, is comfortable by car and protects from the weather. At lunch, we enjoy local cuisine in one of the cozy restaurants in the city core."
+          },
+          "stops": [
+            {
+              "name": "Central Parking & Plaza Prim",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Pintor Fortuny', es hat einen direkten Aufgang zum Platz.",
+                "hu": "Használja a 'Pintor Fortuny' parkolóházat, közvetlen feljárata van a térre.",
+                "ro": "Folosiți parcarea 'Pintor Fortuny', are o ieșire directă în piață.",
+                "en": "Use the 'Pintor Fortuny' car park; it has a direct exit to the square."
+              }
+            },
+            {
+              "name": "Plaza del Mercadal & Casa Navàs",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang vom Parkhaus unter den Arkaden zur Casa Navàs.",
+                "hu": "Rövid séta a parkolóháztól az árkádok alatt a Casa Navàsig.",
+                "ro": "Scurtă plimbare de la parcare pe sub arcade până la Casa Navàs.",
+                "en": "Short walk from the car park under the arcades to Casa Navas."
+              }
+            },
+            {
+              "name": "Gaudí Centre Reus",
+              "tip_5lang": {
+                "de": "Ein perfekter 'Indoor-Stopp', wenn es draußen stark regnet.",
+                "hu": "Tökéletes fedett megálló, ha odakint erősen esik.",
+                "ro": "O oprire 'indoor' perfectă când afară plouă torențial.",
+                "en": "A perfect 'indoor stop' when it's raining hard outside."
+              }
+            },
+            {
+              "name": "Prioral Church of Sant Pere",
+              "tip_5lang": {
+                "de": "Parken Sie nicht auf der Straße; die Parkhäuser sind bei Regen viel komfortabler.",
+                "hu": "Ne parkoljon az utcán; a parkolóházak esőben sokkal kényelmesebbek.",
+                "ro": "Nu parcați pe stradă; parcările etajate sunt mult mai confortabile pe ploaie.",
+                "en": "Don't park on the street; the car parks are much more comfortable in the rain."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Tiefgaragenzugang in der Nähe für minimalen Regenkontakt.",
+                "hu": "Válasszon mélygarázs közeli éttermet, hogy minél kevesebbet kelljen az esőben lenni.",
+                "ro": "Alegeți un restaurant aproape de o parcare subterană pentru contact minim cu ploaia.",
+                "en": "Choose a restaurant near an underground car park for minimal rain exposure."
+              }
+            },
+            {
+              "name": "Institut Pere Mata",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze direkt vor dem Institut, sehr bequem bei schlechtem Wetter.",
+                "hu": "Közvetlenül az intézet előtt van parkoló, nagyon kényelmes rossz időben.",
+                "ro": "Există locuri de parcare chiar în fața institutului, foarte comod pe vreme rea.",
+                "en": "There is parking right in front of the institute, very convenient in bad weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkhäuser Llibertat und Prim sind zentral und bieten Schutz vor Nässe.",
+              "Achten Sie auf beschlagene Scheiben bei hoher Luftfeuchtigkeit im Auto.",
+              "Vermeiden Sie das Parken in tiefliegenden Zonen bei extremem Starkregen (selten, aber möglich).",
+              "Das Auto ist ideal, um Einkäufe aus den Boutiquen im Zentrum trocken zu verstauen."
+            ],
+            "hu": [
+              "A Llibertat és Prim parkolóházak központikak és védelmet nyújtanak a nedvesség ellen.",
+              "Ügyeljen a párásodó szélvédőre a magas páratartalom miatt.",
+              "Extrém esőzésnél kerülje a mélyebben fekvő parkolóhelyeket (ritka, de előfordulhat).",
+              "Az autó ideális arra, hogy a belvárosi butikokban vásárolt holmikat szárazon elhelyezze."
+            ],
+            "ro": [
+              "Parcările Llibertat și Prim sunt centrale și oferă protecție împotriva umezelii.",
+              "Atenție la aburirea geamurilor în mașină din cauza umidității ridicate.",
+              "Evitați parcarea în zone joase în caz de ploi torențiale extreme (rar, dar posibil).",
+              "Mașina este ideală pentru a depozita cumpărăturile din buticurile din centru la loc uscat."
+            ],
+            "en": [
+              "The Llibertat and Prim car parks are central and offer protection from the wet.",
+              "Watch out for fogged-up windows due to high humidity in the car.",
+              "Avoid parking in low-lying zones during extremely heavy rain (rare but possible).",
+              "The car is ideal for keeping your shopping from center boutiques dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist die winterliche Tour durch Reus entspannt und warm. Wir nutzen die hellen Mittagsstunden für die Architekturfotos im Freien und fahren am Nachmittag zum Institut Pere Mata, um den Sonnenuntergang über den Weinbergen in der Nähe zu beobachten. Die kurzen Wege im Auto erlauben ein dichtes Programm trotz früher Dämmerung.",
+            "hu": "Autóval a téli reusi túra pihentető és meleg. A világos déli órákat a szabadtéri fotózásra használjuk, délután pedig az Institut Pere Mata felé autózunk, hogy megnézzük a naplementét a közeli szőlőültetvények felett. Az autóval megtett rövid utak sűrű programot tesznek lehetővé a korai sötétedés ellenére.",
+            "ro": "Cu mașina, turul de iarnă prin Reus este relaxant și cald. Folosim orele luminoase ale amiezii pentru fotografii de arhitectură în aer liber și mergem la Institut Pere Mata după-amiaza. Distanțele scurte parcurse cu mașina permit un program dens în ciuda amurgului timpuriu.",
+            "en": "By car, the winter tour through Reus is relaxed and warm. We use the bright midday hours for outdoor architectural photos and drive to Institut Pere Mata in the afternoon to watch the sunset over the nearby vineyards. Short trips by car allow for a dense schedule despite the early dusk."
+          },
+          "stops": [
+            {
+              "name": "Central Parking & Plaza Prim",
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto im Parkhaus, während Sie den Stadtkern zu Fuß erkunden.",
+                "hu": "Hagyja az autót a parkolóházban, amíg gyalogosan felfedezi a városmagot.",
+                "ro": "Lăsați mașina în parcare în timp ce explorați centrul la pas.",
+                "en": "Leave the car in the car park while you explore the city core on foot."
+              }
+            },
+            {
+              "name": "Plaza del Mercadal & Casa Navàs",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen der kühlen Luft draußen und der Wärme im Inneren.",
+                "hu": "Élvezze a kinti hűvös levegő és a benti meleg közötti kontrasztot.",
+                "ro": "Bucurați-vă de contrastul dintre aerul răcoros de afară și căldura din interior.",
+                "en": "Enjoy the contrast between the cool air outside and the warmth inside."
+              }
+            },
+            {
+              "name": "Gaudí Centre Reus",
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort für den frühen Nachmittag, wenn das Licht flach einfällt.",
+                "hu": "Csodálatos hely kora délután, amikor a fény laposan esik be.",
+                "ro": "Un loc minunat pentru după-amiaza devreme, când lumina cade oblic.",
+                "en": "A wonderful place for early afternoon when the light falls flat."
+              }
+            },
+            {
+              "name": "Prioral Church of Sant Pere",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche gegen Mittag für die beste Ausleuchtung der Fassade.",
+                "hu": "Látogassa meg a templomot dél körül a homlokzat legjobb megvilágításáért.",
+                "ro": "Vizitați biserica în jurul amiezii pentru cea mai bună iluminare a fațadei.",
+                "en": "Visit the church around noon for the best illumination of the facade."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit 'Plato del día' – oft gibt es wärmende Eintöpfe.",
+                "hu": "Keressen 'Plato del día'-t kínáló éttermet – gyakran van melengető egytálétel.",
+                "ro": "Căutați un restaurant cu 'Plato del día' – adesea servesc tocănițe calde.",
+                "en": "Look for a restaurant with 'Plato del día' – often they serve warming stews."
+              }
+            },
+            {
+              "name": "Institut Pere Mata",
+              "tip_5lang": {
+                "de": "Die Fahrt hierher bietet schöne Ausblicke auf die winterliche katalanische Landschaft.",
+                "hu": "Az idevezető út szép kilátást nyújt a téli katalán tájra.",
+                "ro": "Drumul până aici oferă vederi frumoase asupra peisajului catalan de iarnă.",
+                "en": "The drive here offers beautiful views of the winter Catalonian landscape."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkhäuser in Reus sind im Winter oft wärmer als die Straße, was angenehm beim Einsteigen ist.",
+              "Prüfen Sie den Reifendruck; kalte Temperaturen können ihn leicht sinken lassen.",
+              "Nutzen Sie die Sitzheizung für die Fahrt zum etwas kühler gelegenen Pere Mata.",
+              "Vermeiden Sie die Rushhour am frühen Abend, wenn die Pendler aus Tarragona zurückkommen."
+            ],
+            "hu": [
+              "A reusi parkolóházak télen gyakran melegebbek az utcánál, ami kellemes beszálláskor.",
+              "Ellenőrizze a guminyomást; a hideg hőmérséklet kismértékben csökkentheti azt.",
+              "Használja az ülésfűtést a kicsit hűvösebb helyen fekvő Pere Mata felé vezető úton.",
+              "Kerülje a kora esti csúcsforgalmat, amikor az ingázók visszatérnek Tarragonából."
+            ],
+            "ro": [
+              "Parcările din Reus sunt adesea mai calde decât strada iarna, ceea ce e plăcut la urcare.",
+              "Verificați presiunea în pneuri; temperaturile scăzute o pot reduce ușor.",
+              "Folosiți încălzirea în scaune pentru drumul spre Pere Mata, aflat într-o zonă mai răcoroasă.",
+              "Evitați ora de vârf de la începutul serii, când navetiștii se întorc din Tarragona."
+            ],
+            "en": [
+              "Car parks in Reus are often warmer than the street in winter, which is nice when getting in.",
+              "Check tire pressure; cold temperatures can cause it to drop slightly.",
+              "Use the seat heating for the drive to the slightly cooler Pere Mata area.",
+              "Avoid early evening rush hour when commuters return from Tarragona."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1358,6 +1922,188 @@
           "Bus schedules can be found at the stops and online.",
           "Validate your ticket each time you board."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn navigieren wir effizient durch das regnerische Reus. Vom Bahnhof führt uns ein kurzer Weg ins Zentrum, wo wir die Schauer in den modernistischen Museen aussitzen. Den Weg zum Institut Pere Mata legen wir mit dem Stadtbus zurück, was uns weite Fußwege im Regen erspart. Ein kulturell dichter Tag ohne nass zu werden.",
+            "hu": "Busszal és vonattal hatékonyan navigálunk az esős Reusban. A vasútállomástól rövid út vezet a központba, ahol a modernista múzeumokban vészeljük át a záporokat. Az Institut Pere Mata felé a helyi járatot vesszük igénybe, így megspóroljuk a hosszú esős gyaloglást. Kulturálisan sűrű nap anélkül, hogy megáznánk.",
+            "ro": "Navigăm eficient prin Reusul ploios folosind autobuzul și trenul. De la gară un drum scurt ne duce în centru, unde așteptăm trecerea ploii în muzeele moderniste. Mergem spre Institut Pere Mata cu autobuzul urban, evitând plimbările lungi prin ploaie. O zi densă cultural fără a ne uda.",
+            "en": "We navigate efficiently through rainy Reus using bus and train. From the station, a short walk leads to the center, where we wait out the showers in modernist museums. We take the city bus to Institut Pere Mata, saving us long walks in the rain. A culturally dense day without getting wet."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Train Station & Walk to Plaza Prim",
+              "tip_5lang": {
+                "de": "Nehmen Sie vom Bahnhof den Bus Linie 10, falls es zu stark regnet.",
+                "hu": "A vasútállomástól válassza a 10-es buszt, ha túl erősen esne az eső.",
+                "ro": "De la gară luați autobuzul linia 10 dacă plouă prea tare.",
+                "en": "Take bus line 10 from the station if it's raining too hard."
+              }
+            },
+            {
+              "name": "Plaza del Mercadal & Casa Navàs",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen im Zentrum sind meist überdacht.",
+                "hu": "A belvárosi buszmegállók többnyire fedettek.",
+                "ro": "Stațiile de autobuz din centru sunt în mare parte acoperite.",
+                "en": "The bus stops in the center are mostly covered."
+              }
+            },
+            {
+              "name": "Gaudí Centre Reus",
+              "tip_5lang": {
+                "de": "Nur wenige Minuten Fußweg von den zentralen Bushaltestellen entfernt.",
+                "hu": "Csak pár perc gyalogút a központi buszmegállóktól.",
+                "ro": "La doar câteva minute de mers pe jos de stațiile centrale de autobuz.",
+                "en": "Just a few minutes' walk from the central bus stops."
+              }
+            },
+            {
+              "name": "Prioral Church of Sant Pere",
+              "tip_5lang": {
+                "de": "Idealer Ort, um auf den nächsten Bus im Trockenen zu warten.",
+                "hu": "Ideális hely, hogy szárazon várja meg a következő buszt.",
+                "ro": "Loc ideal pentru a aștepta următorul autobuz la adăpost.",
+                "en": "Ideal place to wait for the next bus in the dry."
+              }
+            },
+            {
+              "name": "Vermut-Museum",
+              "tip_5lang": {
+                "de": "Die Linie 20 hält in der Nähe und bringt Sie bequem weiter.",
+                "hu": "A 20-as járat a közelben áll meg, és kényelmesen viszi tovább.",
+                "ro": "Linia 20 oprește în apropiere și vă duce mai departe confortabil.",
+                "en": "Line 20 stops nearby and takes you further comfortably."
+              }
+            },
+            {
+              "name": "Institut Pere Mata",
+              "tip_5lang": {
+                "de": "Nutzen Sie unbedingt den Bus (Linie 30/31), da der Fußweg hierher bei Regen ungemütlich ist.",
+                "hu": "Mindenképpen használja a buszt (30/31-es járat), mert gyalog az út esőben kellemetlen.",
+                "ro": "Folosiți neapărat autobuzul (linia 30/31), deoarece drumul pe jos până aici e neplăcut pe ploaie.",
+                "en": "Be sure to use the bus (line 30/31), as the walk here is unpleasant in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie eine Mehrfahrtenkarte (T-10), diese gilt für Busse und ist im Kiosk erhältlich.",
+              "Die App 'Reus City' zeigt Echtzeit-Abfahrten der Stadtbusse.",
+              "Der Bahnhof hat eine Wartehalle, falls Ihr Zug bei Regen Verspätung hat.",
+              "Nutzen Sie die Buslinien, um die Distanzen zwischen den Museen zu minimieren."
+            ],
+            "hu": [
+              "Vásároljon gyűjtőjegyet (T-10), ez érvényes a buszokra és újságosnál kapható.",
+              "A 'Reus City' app valós időben mutatja a buszok indulását.",
+              "A vasútállomásnak van váróterme, ha a vonat késne az eső miatt.",
+              "Használja a buszjáratokat a múzeumok közötti távolságok minimalizálására."
+            ],
+            "ro": [
+              "Cumpărați un bilet cu mai multe călătorii (T-10), este valabil pe autobuze și se găsește la chioșcuri.",
+              "Aplicația 'Reus City' arată plecările autobuzelor în timp real.",
+              "Gara are o sală de așteptare în cazul în care trenul are întârziere din cauza ploii.",
+              "Folosiți liniile de autobuz pentru a minimiza distanțele dintre muzee."
+            ],
+            "en": [
+              "Buy a multi-trip card (T-10); it's valid for buses and available at kiosks.",
+              "The 'Reus City' app shows real-time departures of city buses.",
+              "The train station has a waiting hall in case your train is delayed due to rain.",
+              "Use bus lines to minimize the walking distances between museums."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintersonne und Transit-Komfort in Reus: Wir genießen den Spaziergang vom Bahnhof ins Zentrum und nutzen das dichte Busnetz, um schnell zwischen den Sehenswürdigkeiten zu wechseln. Das klare Licht am Nachmittag beim Institut Pere Mata ist ein Muss, bevor wir uns mit dem Bus zurück in die belebte Innenstadt begeben. Ein effizienter Tag mit lokalen Einblicken.",
+            "hu": "Téli napsütés és kényelmes közlekedés Reusban: élvezzük a sétát az állomástól a központig, és a sűrű buszhálózatot használjuk a látnivalók közötti gyors váltáshoz. A délutáni tiszta fények az Institut Pere Mata-nál kihagyhatatlanok, mielőtt busszal visszatérnénk a nyüzsgő belvárosba. Hatékony nap helyi betekintéssel.",
+            "ro": "Soare de iarnă și confort în tranzit în Reus: ne bucurăm de plimbarea de la gară spre centru și folosim rețeaua densă de autobuze. Lumina clară de după-amiază de la Institut Pere Mata este obligatorie înainte de a ne întoarce cu autobuzul în centrul plin de viață. O zi eficientă.",
+            "en": "Winter sun and transit comfort in Reus: we enjoy the walk from the station to the center and use the dense bus network to switch quickly between sights. The clear afternoon light at Institut Pere Mata is a must before we take the bus back to the lively city center. An efficient day with local insights."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Train Station & Walk to Plaza Prim",
+              "tip_5lang": {
+                "de": "Der 10-minütige Fußweg durch den Park ist im Winter bei Sonne sehr schön.",
+                "hu": "A 10 perces séta a parkon át télen, napsütésben nagyon szép.",
+                "ro": "Plimbarea de 10 minute prin parc este foarte frumoasă iarna, pe soare.",
+                "en": "The 10-minute walk through the park is very nice in winter when it's sunny."
+              }
+            },
+            {
+              "name": "Plaza del Mercadal & Casa Navàs",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt für viele Buslinien direkt um die Ecke.",
+                "hu": "Központi csomópont számos buszjárat számára közvetlenül a sarkon.",
+                "ro": "Nod central pentru multe linii de autobuz chiar după colț.",
+                "en": "Central hub for many bus lines just around the corner."
+              }
+            },
+            {
+              "name": "Gaudí Centre Reus",
+              "tip_5lang": {
+                "de": "Nach dem Museumsbesuch ist die Bushaltestelle 'Llibertat' nur 3 Minuten entfernt.",
+                "hu": "A múzeumlátogatás után a 'Llibertat' buszmegálló mindössze 3 percre van.",
+                "ro": "După vizita la muzeu, stația de autobuz 'Llibertat' este la doar 3 minute.",
+                "en": "After the museum visit, the 'Llibertat' bus stop is only 3 minutes away."
+              }
+            },
+            {
+              "name": "Prioral Church of Sant Pere",
+              "tip_5lang": {
+                "de": "Beachten Sie die Winterfahrpläne, die manchmal leicht abweichen können.",
+                "hu": "Ügyeljen a téli menetrendre, amely néha kismértékben eltérhet.",
+                "ro": "Atenție la orarele de iarnă, care uneori pot varia ușor.",
+                "en": "Check the winter schedules, which may sometimes vary slightly."
+              }
+            },
+            {
+              "name": "Vermut-Museum",
+              "tip_5lang": {
+                "de": "Guter Ort, um die Zeit bis zum nächsten Bus im Warmen zu verbringen.",
+                "hu": "Jó hely, hogy a következő buszig hátralévő időt melegben töltse.",
+                "ro": "Un loc bun pentru a petrece timpul până la următorul autobuz la căldură.",
+                "en": "Good place to spend the time until the next bus in the warm."
+              }
+            },
+            {
+              "name": "Institut Pere Mata",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten der Linie 30 genau, da sie seltener fährt.",
+                "hu": "Pontosan ellenőrizze a 30-as járat visszaindulását, mert ritkábban jár.",
+                "ro": "Verificați bine orele de întoarcere ale liniei 30, deoarece circulă mai rar.",
+                "en": "Check the return times for line 30 carefully, as it runs less frequently."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge von Barcelona/Tarragona sind im Winter meist pünktlicher (weniger Unwetter).",
+              "Die Busse in Reus sind gut beheizt, was eine willkommene Abwechslung bietet.",
+              "Die Dämmerung setzt früh ein, planen Sie die Rückfahrt zum Bahnhof rechtzeitig.",
+              "Nutzen Sie die T-10 Karte, um flexibel zwischen Bus und Bahn zu wechseln (innerhalb der Zonen)."
+            ],
+            "hu": [
+              "A Barcelona/Tarragona felőli vonatok télen többnyire pontosabbak (kevesebb a vihar).",
+              "A reusi buszok jól fűtöttek, ami kellemes változatosságot nyújt.",
+              "A szürkület korán beköszönt, tervezze meg időben a visszautat az állomásra.",
+              "Használja a T-10 kártyát a busz és vonat közötti rugalmas váltáshoz (zónán belül)."
+            ],
+            "ro": [
+              "Trenurile de la Barcelona/Tarragona sunt de obicei mai punctuale iarna (mai puține furtuni).",
+              "Autobuzele din Reus sunt bine încălzite, oferind o schimbare binevenită.",
+              "Amurgul se lasă devreme, planificați din timp întoarcerea la gară.",
+              "Folosiți cardul T-10 pentru a schimba flexibil între autobuz și tren (în cadrul zonelor)."
+            ],
+            "en": [
+              "Trains from Barcelona/Tarragona are usually more punctual in winter (fewer storms).",
+              "Buses in Reus are well-heated, providing a welcome break from the cold.",
+              "Dusk sets in early; plan your return to the station in good time.",
+              "Use the T-10 card to switch flexibly between bus and train (within zones)."
+            ]
+          }
+        }
       }
     }
   }

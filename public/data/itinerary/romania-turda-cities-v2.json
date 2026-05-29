@@ -356,6 +356,188 @@
           "Check the opening hours of museums and churches in advance.",
           "Be sure to try the local specialties at a traditional restaurant."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Vormittag im Teilor Park erfordert einen guten Schirm, bietet aber eine ruhige Atmosphäre. Mittags bieten das Geschichtsmuseum und die Kathedrale trockene Zufluchtsorte mit tiefem kulturellem Einblick. Der Nachmittag gehört der Salina Turda, die tief unter der Erde absolut wetterfest ist. Den Abend genießen wir bei einem warmen Abendessen in der gemütlichen Altstadt von Turda.",
+            "hu": "A Teilor park esőben is friss, de egy esernyő kötelező a sétához. Délben a múzeum és a katedrális belső terei nyújtanak száraz menedéket és kulturális élményt. A délutánt a sóbánya mélyén töltjük, ahol garantáltan nem esik az eső. Az estét egy hangulatos belvárosi étteremben zárjuk, meleg helyi ételekkel vigasztalódva.",
+            "ro": "O dimineață ploioasă în Parcul Teilor necesită o umbrelă, dar oferă o liniște aparte. La prânz, Muzeul de Istorie și Catedrala oferă refugii uscate și incursiuni culturale. După-amiaza este dedicată Salinei Turda, care este complet protejată de intemperii la mare adâncime. Seara se încheie cu o cină caldă într-un restaurant primitor din centrul istoric.",
+            "en": "A rainy morning in Teilor Park requires an umbrella but offers a peaceful atmosphere. At noon, the History Museum and the Cathedral provide dry sanctuaries for cultural exploration. The afternoon is spent deep inside Salina Turda, which is perfectly weather-proof. The evening ends with a warm dinner in a cozy restaurant in the historic center of Turda."
+          },
+          "stops": [
+            {
+              "name": "Central Park 'Teilor'",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Musikpavillon als Unterstand bei starken Güssen.",
+                "hu": "Használja a zenepavilont menedékként hirtelen felhőszakadás esetén.",
+                "ro": "Folosiți foișorul de muzică ca adăpost în cazul unor averse bruște.",
+                "en": "Use the music pavilion as a shelter during sudden downpours."
+              }
+            },
+            {
+              "name": "Orthodox Cathedral of the Holy Archangels Michael and Gabriel",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine besinnliche Pause im Trockenen.",
+                "hu": "Ideális hely egy csendes, száraz pihenőhöz a városnézés közben.",
+                "ro": "Un loc ideal pentru o pauză liniștită și uscată în timpul vizitei.",
+                "en": "An ideal spot for a quiet, dry break during your sightseeing."
+              }
+            },
+            {
+              "name": "Turda History Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, um den Regen draußen zu vergessen.",
+                "hu": "Töltsön itt több időt, amíg kint elvonul az esőfelhő.",
+                "ro": "Planificați mai mult timp aici pentru a uita de ploaia de afară.",
+                "en": "Plan more time here to let the rain clouds pass outside."
+              }
+            },
+            {
+              "name": "Reformed Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die gotische Architektur, während Sie im Trockenen stehen.",
+                "hu": "Csodálja meg a gótikus építészetet, miközben védve van az esőtől.",
+                "ro": "Admirați arhitectura gotică în timp ce sunteți protejat de ploaie.",
+                "en": "Admire the Gothic architecture while staying protected from the rain."
+              }
+            },
+            {
+              "name": "Roman Castrum Potaissa",
+              "tip_5lang": {
+                "de": "Vorsicht, die Pfade zwischen den Ruinen können schlammig sein.",
+                "hu": "Vigyázat, a romok közötti ösvények sárgásak és csúszósak lehetnek.",
+                "ro": "Atenție, potecile dintre ruine pot fi noroioase și alunecoase.",
+                "en": "Caution, the paths between the ruins can be muddy and slippery."
+              }
+            },
+            {
+              "name": "Salina Turda",
+              "tip_5lang": {
+                "de": "Das beste Ziel bei Regen; hier unten ist es immer trocken.",
+                "hu": "A legjobb úti cél esőben; itt lent garantáltan száraz az idő.",
+                "ro": "Cea mai bună destinație pe ploaie; aici jos este mereu uscat.",
+                "en": "The best destination in the rain; it's always dry down here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da einige Gehwege in Turda Wasser ansammeln.",
+              "Nehmen Sie einen stabilen Schirm mit, da es im Tal windig sein kann.",
+              "Die Salina Turda ist der perfekte Zufluchtsort bei Dauerregen.",
+              "Nutzen Sie die Museen für die nassesten Stunden des Tages."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mivel Turda egyes járdáin megállhat a víz.",
+              "Vigyen erős esernyőt, mert a völgyben a szél könnyen kifordíthatja.",
+              "A tordai sóbánya a tökéletes menedék tartós esőzés esetén.",
+              "A múzeumi látogatást időzítse a legcsapadékosabb órákra."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece apa se poate acumula pe unele trotuare.",
+              "Luați o umbrelă rezistentă, vântul din vale poate fi destul de puternic.",
+              "Salina Turda este refugiul perfect în caz de ploaie persistentă.",
+              "Programați vizita la muzeu pentru orele cele mai ploioase ale zilei."
+            ],
+            "en": [
+              "Wear waterproof shoes as water can accumulate on some sidewalks in Turda.",
+              "Take a sturdy umbrella; the valley winds can be quite strong.",
+              "Salina Turda is the perfect escape during persistent rain.",
+              "Schedule your museum visit for the wettest hours of the day."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen im Park ist belebend, aber kurz. Die historischen Kirchen und das Museum bieten willkommene Wärme und kulturelle Tiefe zur Mittagszeit. Nachmittags ist die Salina Turda mit konstanten 12 Grad wärmer als die Außenluft. Der Tag endet früh bei Einbruch der Dunkelheit mit einem herzhaften Abendessen im beleuchteten Stadtzentrum.",
+            "hu": "A fagyos reggeli séta a parkban frissítő, de rövidre fogjuk. A történelmi templomok és a múzeum kínálnak menedéket a hideg elől délidőben. Délután a sóbánya 12 fokos állandó hőmérséklete kifejezetten kellemes a kinti fagyhoz képest. A nap korán, sötétedéskor ér véget egy kiadós vacsorával a kivilágított belvárosban.",
+            "ro": "Dimineața geroasă în parc este revigorantă, dar scurtați plimbarea. Bisericile istorice și muzeul oferă căldură și profunzime culturală la prânz. După-amiaza, Salina Turda, cu cele 12 grade constante, este mai caldă decât aerul de afară. Ziua se încheie devreme, la lăsarea întunericului, cu o cină copioasă în centrul luminat.",
+            "en": "The frosty morning in the park is invigorating but kept short. Historic churches and the museum offer welcome warmth and cultural depth at noon. In the afternoon, Salina Turda’s constant 12°C feels warmer than the biting outside air. The day ends early as darkness falls, with a hearty dinner in the illuminated city center."
+          },
+          "stops": [
+            {
+              "name": "Central Park 'Teilor'",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Wege in der Nähe der Bäume.",
+                "hu": "Ügyeljen a jeges szakaszokra a fák alatti árnyékos utakon.",
+                "ro": "Atenție la porțiunile înghețate de pe aleile umbrite.",
+                "en": "Watch out for icy patches on the shaded paths under the trees."
+              }
+            },
+            {
+              "name": "Orthodox Cathedral of the Holy Archangels Michael and Gabriel",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für eine kurze Pause und spirituelle Einkehr.",
+                "hu": "Meleg helyszín egy rövid pihenőhöz és lelki feltöltődéshez.",
+                "ro": "Un loc cald pentru o scurtă pauză și reculegere spirituală.",
+                "en": "An ideal location for a warm break and spiritual reflection."
+              }
+            },
+            {
+              "name": "Turda History Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Wintermäntel abzulegen.",
+                "hu": "Használja a ruhatárat a nehéz téli kabátok elhelyezésére.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele grele de iarnă.",
+                "en": "Use the cloakroom to leave your heavy winter coats while visiting."
+              }
+            },
+            {
+              "name": "Reformed Church",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, in alten Steinkirchen bleibt es kühl.",
+                "hu": "Öltözzön rétegesen, a régi kőtemplomokban bent is hideg lehet.",
+                "ro": "Îmbrăcați-vă gros, în vechile biserici de piatră rămâne răcoare.",
+                "en": "Dress in layers; it remains cool inside old stone churches."
+              }
+            },
+            {
+              "name": "Roman Castrum Potaissa",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Kastell früh, bevor es um 16:30 Uhr dunkel wird.",
+                "hu": "Látogassa meg a castrumot korán, mielőtt 16:30-kor besötétedik.",
+                "ro": "Vizitați castrul devreme, înainte de a se întuneca la ora 16:30.",
+                "en": "Visit the castrum early before it gets dark around 16:30."
+              }
+            },
+            {
+              "name": "Salina Turda",
+              "tip_5lang": {
+                "de": "Mit 12 Grad ist es hier heute wärmer als draußen.",
+                "hu": "A bánya 12 fokos hőmérséklete ma melegebb, mint a kinti levegő.",
+                "ro": "Cu 12 grade constante, aici este mai cald decât afară astăzi.",
+                "en": "At a constant 12°C, it's actually warmer here than outside today."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten, da die Salina Turda ca. 12 Grad hat.",
+              "Die Sonne geht im Winter gegen 16:30 Uhr unter, planen Sie Outdoor-Stopps früh.",
+              "Trinken Sie einen heißen Tee im Stadtzentrum, um sich zwischendurch aufzuwärmen.",
+              "Achten Sie auf rutschige Pflastersteine in der Altstadt."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, a sóbányában állandó 12 fok van.",
+              "Télen korán, fél 5 körül sötétedik, a kültéri programokat végezze el előbb.",
+              "Igyon egy forró teát a belvárosban a megállók között, hogy felmelegedjen.",
+              "Vigyázzon a csúszós macskakövekre a történelmi központban."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, în salină sunt aproximativ 12 grade.",
+              "Iarna se întunecă în jurul orei 16:30, planificați vizitele externe devreme.",
+              "Beți un ceai fierbinte în centru pentru a vă încălzi între obiective.",
+              "Atenție la pavajul alunecos din centrul istoric."
+            ],
+            "en": [
+              "Dress in layers as the salt mine stays at about 12°C.",
+              "In winter it gets dark around 16:30, so plan outdoor stops early.",
+              "Grab a hot tea in the city center to warm up between stops.",
+              "Be careful of slippery cobblestones in the historic district."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -663,6 +845,170 @@
           "A helmet and a bike lock are essential.",
           "The roads can be hilly, so be prepared for climbs."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt bei den römischen Ruinen, wo Vorsicht auf nassen Pfaden geboten ist. Das Stadtzentrum bietet Schutz in Cafés, bevor es zur wetterunabhängigen Salina geht. Ein spätes Mittagessen stärkt für die Fahrt zur Tordai-Schlucht, die bei Regen mystisch, aber rutschig ist. Die Tour erfordert volle Konzentration und gute Regenbekleidung.",
+            "hu": "A kerékpártúra a római romoknál indul, ahol a nedves talaj óvatosságot igényel. A belváros kávézói menedéket nyújtanak, mielőtt a sóbányába tekernénk. Egy késői ebéd ad erőt a Tordai-hasadékhoz, amely esőben misztikus, de csúszós terep. A túra teljes koncentrációt és jó esőruházatot igényel.",
+            "ro": "Turul pe bicicletă începe la ruinele romane, unde este nevoie de prudență pe potecile ude. Centrul oferă adăpost în cafenele înainte de a pedala spre salină. Un prânz târziu oferă energie pentru Cheile Turzii, care sunt mistice dar alunecoase pe ploaie. Turul necesită concentrare maximă și echipament impermeabil.",
+            "en": "The bike tour starts at the Roman ruins, where caution is needed on wet paths. The city center offers café shelters before heading to the weather-proof salt mine. A late lunch provides energy for Turda Gorge, which is mystical but slippery in the rain. The tour requires full concentration and good rain gear."
+          },
+          "stops": [
+            {
+              "name": "Roman Castrum Potaissa",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem unbefestigten Boden; Rutschgefahr für Reifen.",
+                "hu": "Vigyázzon a burkolatlan talajon; a gumik könnyen megcsúszhatnak.",
+                "ro": "Atenție pe terenul neamenajat; risc de derapare pentru anvelope.",
+                "en": "Be careful on the unpaved ground; risk of slipping for bike tires."
+              }
+            },
+            {
+              "name": "Historic Center (Cathedral & Museum)",
+              "tip_5lang": {
+                "de": "Nutzen Sie Fahrradständer in der Nähe von überdachten Eingängen.",
+                "hu": "Használja a fedett bejáratok közelében lévő biciklitárolókat.",
+                "ro": "Folosiți suporturile de biciclete din apropierea intrărilor acoperite.",
+                "en": "Use bike racks located near covered entrances."
+              }
+            },
+            {
+              "name": "Salina Turda",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab, bevor Sie in die trockene Mine gehen.",
+                "hu": "Zárja le biztonságosan a bringát, mielőtt a száraz bányába indul.",
+                "ro": "Securizați bicicleta înainte de a intra în salina uscată.",
+                "en": "Secure your bike before heading into the dry mine."
+              }
+            },
+            {
+              "name": "Lunch near the Salina",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenbekleidung kurz zu trocknen.",
+                "hu": "Ideális hely az esőruházat rövid szárítására az ebéd alatt.",
+                "ro": "Un loc ideal pentru a vă usca puțin echipamentul în timpul prânzului.",
+                "en": "An ideal place to dry your rain gear briefly during lunch."
+              }
+            },
+            {
+              "name": "Turda Gorge (Cheile Turzii)",
+              "tip_5lang": {
+                "de": "Extreme Vorsicht auf dem Radweg; Steine können rutschig sein.",
+                "hu": "Fokozott óvatosság a kerékpárúton; a kövek csúszósak lehetnek.",
+                "ro": "Atenție sporită pe traseu; pietrele pot fi foarte alunecoase.",
+                "en": "Extreme caution on the path; stones can be very slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um Schlammspritzer auf der Kleidung zu vermeiden.",
+              "Die Bremswege auf nassen Straßen in Turda sind deutlich länger.",
+              "Die Straße zur Tordai-Schlucht kann bei Regen schlammig werden.",
+              "Tragen Sie helle, wasserfeste Kleidung für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "Használjon sárvédőt, hogy elkerülje a sárfelverődést a ruhájára.",
+              "A fékút vizes úton Turdában is jelentősen megnő.",
+              "A Tordai-hasadékhoz vezető út esőben sárossá válhat.",
+              "Viseljen világos, vízálló ruházatot a jobb láthatóság érdekében."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a evita stropirea hainelor cu noroi.",
+              "Distanța de frânare pe drumuri ude în Turda este mult mai mare.",
+              "Drumul spre Cheile Turzii poate deveni noroios pe ploaie.",
+              "Purtați haine impermeabile în culori deschise pentru vizibilitate."
+            ],
+            "en": [
+              "Use mudguards to avoid splashing mud on your clothes.",
+              "Braking distances on wet roads in Turda are significantly longer.",
+              "The road to Turda Gorge can become muddy in the rain.",
+              "Wear bright, waterproof clothing for better visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winter-Radtour führt durch das frostige Potaissa zum wärmenden historischen Zentrum. Die Salina Turda bietet mit 12 Grad eine perfekte Erholung von der Kälte draußen. Nach einer stärkenden Mahlzeit geht es zur Tordai-Schlucht, wo die tiefstehende Sonne beeindruckende Schatten wirft. Warme Handschuhe und gute Beleuchtung sind für den frühen Abend unverzichtbar.",
+            "hu": "A téli bringázás a fagyos Potaissától a melengető történelmi belváros felé halad. A sóbánya 12 foka tökéletes pihenőt jelent a kinti hideg után. Egy bőséges ebéd után a Tordai-hasadék felé vesszük az irányt, ahol az alacsonyan járó nap lenyűgöző árnyékokat vet. A meleg kesztyű és a jó világítás elengedhetetlen a korai sötétedéshez.",
+            "ro": "Turul de iarnă trece prin Potaissa geroasă spre centrul istoric primitor. Salina Turda oferă o pauză perfectă de la frigul de afară cu cele 12 grade ale sale. După o masă consistentă, pornim spre Cheile Turzii, unde soarele de iarnă creează umbre impresionante. Mănușile groase și iluminarea bună sunt indispensabile seara devreme.",
+            "en": "The winter bike tour leads through frosty Potaissa to the warming historic center. Salina Turda’s 12°C offers a perfect break from the cold outside. After a hearty meal, we head to Turda Gorge, where the low sun casts impressive shadows. Warm gloves and good lighting are essential as the evening sets in early."
+          },
+          "stops": [
+            {
+              "name": "Roman Castrum Potaissa",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf gefrorenem Boden; Frostgefahr.",
+                "hu": "Hajtson óvatosan a fagyott talajon; csúszásveszélyes szakaszok.",
+                "ro": "Pedalați cu grijă pe solul înghețat; risc de derapare.",
+                "en": "Ride carefully on frozen ground; risk of frost patches."
+              }
+            },
+            {
+              "name": "Historic Center (Cathedral & Museum)",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände in einem der Cafés am Hauptplatz auf.",
+                "hu": "Melegítse fel a kezeit a főtér egyik kávézójában.",
+                "ro": "Încălziți-vă mâinile într-o cafenea din piața centrală.",
+                "en": "Warm up your hands in one of the cafés in the main square."
+              }
+            },
+            {
+              "name": "Salina Turda",
+              "tip_5lang": {
+                "de": "Genießen Sie die konstanten 12 Grad als Aufwärmstopp.",
+                "hu": "Élvezze az állandó 12 fokot, mint egy melegedő állomást.",
+                "ro": "Bucurați-vă de cele 12 grade constante ca popas de încălzire.",
+                "en": "Enjoy the constant 12°C as a warm-up stop during your ride."
+              }
+            },
+            {
+              "name": "Lunch near the Salina",
+              "tip_5lang": {
+                "de": "Bevorzugen Sie warme Suppen, um die Körpertemperatur zu halten.",
+                "hu": "Válasszon forró leveseket a testhőmérséklet megtartásához.",
+                "ro": "Preferați supele calde pentru a menține temperatura corpului.",
+                "en": "Prefer hot soups to maintain your body temperature."
+              }
+            },
+            {
+              "name": "Turda Gorge (Cheile Turzii)",
+              "tip_5lang": {
+                "de": "Kehren Sie vor Sonnenuntergang (ca. 16:30 Uhr) zurück.",
+                "hu": "Induljon vissza naplemente előtt (kb. 16:30).",
+                "ro": "Întoarceți-vă înainte de apusul soarelui (aprox. 16:30).",
+                "en": "Start your return trip before sunset (approx. 16:30)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche; der Fahrtwind ist im Winter sehr kalt.",
+              "Überprüfen Sie den Reifendruck; kalte Luft verringert ihn.",
+              "Die Wege zur Schlucht können vereist sein; fahren Sie langsam.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung voll aufgeladen ist."
+            ],
+            "hu": [
+              "Viseljen termikus aláöltözetet; a menetszél télen nagyon hideg.",
+              "Ellenőrizze a guminyomást; a hideg levegő csökkenti azt.",
+              "A hasadékhoz vezető utak jegesek lehetnek; hajtson lassan.",
+              "Győződjön meg róla, hogy a kerékpárvilágítás teljesen fel van töltve."
+            ],
+            "ro": [
+              "Purtați haine termice; vântul în timpul deplasării este foarte rece.",
+              "Verificați presiunea în pneuri; aerul rece o diminuează.",
+              "Drumurile spre chei pot fi înghețate; pedalați cu viteză redusă.",
+              "Asigurați-vă că luminile bicicletei sunt complet încărcate."
+            ],
+            "en": [
+              "Wear thermal layers; the wind chill while riding is very high.",
+              "Check your tire pressure; cold air reduces it significantly.",
+              "Paths to the gorge may be icy; ride at a reduced speed.",
+              "Ensure your bike lights are fully charged for the early dark."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -999,6 +1345,188 @@
           "A GPS or navigation app is highly recommended.",
           "Remember a jacket for the salt mine."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt bei der Tordai-Schlucht, wo die Felsen im Regen dramatisch glänzen. Die Salina Turda ist das nächste Ziel, perfekt geschützt vor dem Wetter. Parken Sie im Zentrum, um die Museen und Kirchen trocken zu erreichen. Der Tag endet mit einem entspannten Abendessen, ohne sich um den Regen draußen kümmern zu müssen.",
+            "hu": "Az autós túra a Tordai-hasadéknál indul, ahol a sziklák drámai fényben úsznak az esőben. A sóbánya a következő állomás, ahol az időjárás nem tényező. A belvárosban parkolva száraz lábbal érhetjük el a múzeumokat és templomokat. A napot egy nyugodt vacsorával zárjuk, fittyet hányva a kinti esőre.",
+            "ro": "Călătoria începe la Cheile Turzii, unde stâncile lucesc dramatic în ploaie. Salina Turda este următoarea oprire, fiind perfect protejată de vreme. Parcarea în centru permite accesul rapid la muzee și biserici. Ziua se încheie cu o cină relaxantă, fără a vă face griji de ploaia de afară.",
+            "en": "The car trip starts at Turda Gorge, where the rocks glisten dramatically in the rain. Salina Turda is the next stop, perfectly sheltered from the weather. Parking in the center allows for quick, dry access to museums and churches. The day ends with a relaxed dinner, ignoring the rain outside."
+          },
+          "stops": [
+            {
+              "name": "Turda Gorge (Cheile Turzii)",
+              "tip_5lang": {
+                "de": "Die unbefestigte Straße zum Parkplatz kann Schlaglöcher haben.",
+                "hu": "A parkolóhoz vezető burkolatlan út kátyús lehet az esőben.",
+                "ro": "Drumul neasfaltat spre parcare poate avea gropi din cauza ploii.",
+                "en": "The unpaved road to the parking lot may have potholes in the rain."
+              }
+            },
+            {
+              "name": "Salina Turda",
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz direkt am Haupteingang.",
+                "hu": "Használja a főbejárat melletti nagy, kényelmes parkolót.",
+                "ro": "Folosiți parcarea mare și convenabilă de lângă intrarea principală.",
+                "en": "Use the large, convenient parking lot right by the main entrance."
+              }
+            },
+            {
+              "name": "Parking in the Historic Center",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz nah am Museum, um trocken zu bleiben.",
+                "hu": "Keressen parkolót a múzeum közelében, hogy elkerülje az ázást.",
+                "ro": "Căutați un loc aproape de muzeu pentru a evita ploaia.",
+                "en": "Find a parking spot close to the museum to stay dry."
+              }
+            },
+            {
+              "name": "Roman Castrum Potaissa",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen für Fotos im Auto.",
+                "hu": "Heves esőzés esetén maradjon az autóban a fotózáshoz.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină pentru poze.",
+                "en": "In case of heavy rain, stay in the car for photos of the ruins."
+              }
+            },
+            {
+              "name": "History Museum & Reformed Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto ins Gebäude genügt.",
+                "hu": "Csak egy rövid sprint az autótól az épületig, és bent is van.",
+                "ro": "Doar un sprint scurt de la mașină până în clădire.",
+                "en": "Just a short sprint from the car to the building is enough."
+              }
+            },
+            {
+              "name": "Dinner in the Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Parkplätzen in der Nähe.",
+                "hu": "Válasszon olyan éttermet, amely közelében könnyű parkolni.",
+                "ro": "Alegeți un restaurant care are locuri de parcare în apropiere.",
+                "en": "Choose a restaurant that has parking spots nearby."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Nationalstraße bei Turda.",
+              "Halten Sie einen Schirm im Auto bereit für die Wege zum Parkplatz.",
+              "Die Salina Turda bietet die beste wetterfeste Unterhaltung.",
+              "Einige Nebenstraßen können bei starkem Regen überflutet sein."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra (aquaplaning) a Torda környéki utakon.",
+              "Tartson ernyőt az autóban a parkolótól az épületekig tartó útra.",
+              "A tordai sóbánya kínálja a legjobb időjárásbiztos szórakozást.",
+              "Néhány mellékutca heves esőzéskor víz alá kerülhet."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile naționale din jurul Turzii.",
+              "Țineți o umbrelă în mașină pentru drumul de la parcare la obiective.",
+              "Salina Turda oferă cea mai bună distracție indiferent de vreme.",
+              "Unele străzi secundare pot fi inundate în caz de ploaie torențială."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the national roads near Turda.",
+              "Keep an umbrella in the car for the walk from the parking lot.",
+              "Salina Turda offers the best weather-proof entertainment.",
+              "Some side streets may experience minor flooding during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterfahrt führt zuerst zur Schlucht, wo die verschneiten Felsen beeindruckend wirken. In der Salina Turda genießen Sie die konstante Wärme, bevor es zum historischen Zentrum geht. Die Museen bieten kulturelle Wärme, während draußen der Frost herrscht. Der Tag endet gemütlich bei einem warmen Abendessen im festlich beleuchteten Turda.",
+            "hu": "A téli autózás a hasadékkal indul, ahol a havas sziklák látványa lenyűgöző. A sóbányában élvezhetjük az állandó meleget, mielőtt a történelmi központ felé vennénk az irányt. A múzeumok kulturális feltöltődést kínálnak, miközben kint repkednek a mínuszok. A napot egy hangulatos vacsorával zárjuk a kivilágított városban.",
+            "ro": "Călătoria de iarnă începe la chei, unde stâncile înzăpezite sunt impresionante. În Salina Turda vă bucurați de căldura constantă înainte de a merge spre centrul istoric. Muzeele oferă căldură culturală în timp ce afară domină gerul. Ziua se încheie confortabil cu o cină caldă în Turda iluminată festiv.",
+            "en": "The winter drive starts at the gorge, where the snowy rocks look impressive. Inside Salina Turda, you'll enjoy constant warmth before heading to the historic center. The museums offer cultural warmth while frost rules outside. The day ends comfortably with a warm dinner in festively lit Turda."
+          },
+          "stops": [
+            {
+              "name": "Turda Gorge (Cheile Turzii)",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf der Zufahrtsstraße zur Schlucht.",
+                "hu": "Vigyázzon a jegesedésre a hasadékhoz vezető bekötőúton.",
+                "ro": "Atenție la gheață pe drumul de acces spre chei.",
+                "en": "Be careful of ice patches on the access road to the gorge."
+              }
+            },
+            {
+              "name": "Salina Turda",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier drinnen angenehm warm (12°C).",
+                "hu": "Télen bent kellemesen meleg van (12 fok).",
+                "ro": "Iarna aici în interior este plăcut și cald (12 grade).",
+                "en": "In winter, it's pleasantly warm inside here (12°C)."
+              }
+            },
+            {
+              "name": "Parking in the Historic Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen an den Rändern der Parkplätze.",
+                "hu": "Ügyeljen a hóbuckákra a parkolóhelyek szélein.",
+                "ro": "Atenție la mormanele de zăpadă de la marginea parcărilor.",
+                "en": "Watch out for snow piles at the edges of the parking spots."
+              }
+            },
+            {
+              "name": "Roman Castrum Potaissa",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos; draußen ist es im Winter windig.",
+                "hu": "Rövid megálló fotózásra; télen kint nagyon szeles az idő.",
+                "ro": "Oprire scurtă pentru poze; iarna afară este foarte vântos.",
+                "en": "Short stop for photos; it's very windy outside in winter."
+              }
+            },
+            {
+              "name": "History Museum & Reformed Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Heizung in den Museumsräumen.",
+                "hu": "Élvezze a fűtést a múzeumi termekben.",
+                "ro": "Bucurați-vă de căldura din sălile muzeului.",
+                "en": "Enjoy the heating inside the museum rooms."
+              }
+            },
+            {
+              "name": "Dinner in the Center",
+              "tip_5lang": {
+                "de": "Ein heißer Glühwein passt perfekt zur winterlichen Stimmung.",
+                "hu": "Egy forró forralt bor tökéletesen illik a téli hangulathoz.",
+                "ro": "Un vin fiert fierbinte se potrivește perfect cu atmosfera de iarnă.",
+                "en": "A hot mulled wine fits the winter atmosphere perfectly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Auto mit Winterreifen ausgestattet ist.",
+              "Die Fahrt zur Tordai-Schlucht kann bei Schneefall schwierig sein.",
+              "Nutzen Sie die Salina Turda als 'Wärmestube' bei extremer Kälte.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit sich."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy autója téli gumikkal van felszerelve.",
+              "A Tordai-hasadékhoz vezető út havazáskor nehézkes lehet.",
+              "Használja a sóbányát 'melegedőként' extrém hideg esetén.",
+              "Legyen Önnél jégkaparó és fagyálló szélvédőmosó."
+            ],
+            "ro": [
+              "Asigurați-vă că mașina este echipată cu anvelope de iarnă.",
+              "Drumul spre Cheile Turzii poate fi dificil în caz de ninsoare.",
+              "Folosiți Salina Turda ca loc de încălzire în caz de ger extrem.",
+              "Aveți la îndemână o racletă și lichid de parbriz de iarnă."
+            ],
+            "en": [
+              "Ensure your car is equipped with proper winter tires.",
+              "The drive to Turda Gorge can be challenging during snowfall.",
+              "Use Salina Turda as a 'warming station' during extreme cold.",
+              "Carry an ice scraper and winter windshield fluid with you."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1311,6 +1839,170 @@
           "Have small change ready for bus tickets.",
           "Most attractions in the center are within easy walking distance once you're there."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer Busfahrt zur Salina Turda, die den besten Schutz vor Regen bietet. Danach geht es per Bus zurück ins Zentrum für ein Mittagessen und einen Museumsbesuch im Trockenen. Die historischen Kirchen bieten weitere kulturelle Stopps ohne Nässe. Den Abschluss bildet ein kurzer Besuch beim Kastell, bevor man den Abend gemütlich im Stadtinneren ausklingen lässt.",
+            "hu": "A nap buszozással indul a sóbányába, amely a legjobb védelmet nyújtja az eső ellen. Ezután busszal vissza a központba egy ebédre és egy száraz múzeumi látogatásra. A történelmi templomok további kulturális megállókat kínálnak ázás nélkül. A napot a castrum rövid érintése zárja, majd egy kellemes este a belvárosban.",
+            "ro": "Ziua începe cu o călătorie cu autobuzul spre Salina Turda, cel mai bun adăpost contra ploii. Apoi revenim cu autobuzul în centru pentru prânz și o vizită la muzeu. Bisericile istorice oferă alte opriri culturale fără a vă uda. Ziua se încheie cu o scurtă vizită la castru, urmată de o seară relaxantă în oraș.",
+            "en": "The day starts with a bus ride to Salina Turda, providing the best protection from the rain. Then, take the bus back to the center for lunch and a dry museum visit. Historic churches offer further cultural stops without getting wet. The day concludes with a short visit to the castrum, followed by a cozy evening downtown."
+          },
+          "stops": [
+            {
+              "name": "Salina Turda",
+              "tip_5lang": {
+                "de": "Busse halten nah am Eingang; Schirm für den kurzen Weg.",
+                "hu": "A buszok közel állnak meg a bejárathoz; ernyő kell a rövid útra.",
+                "ro": "Autobuzele opresc aproape de intrare; umbrelă pentru drumul scurt.",
+                "en": "Buses stop near the entrance; an umbrella is needed for the short walk."
+              }
+            },
+            {
+              "name": "Bus ride to the city center",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Bus trocken, während Sie die Stadt sehen.",
+                "hu": "Maradjon szárazon a buszon, miközben várost néz.",
+                "ro": "Rămâneți uscat în autobuz în timp ce vedeți orașul.",
+                "en": "Stay dry inside the bus while seeing the city sights."
+              }
+            },
+            {
+              "name": "Lunch and walk in the center",
+              "tip_5lang": {
+                "de": "Wählen Sie Lokale mit Bushaltestellen in Sichtweite.",
+                "hu": "Válasszon olyan éttermet, ahonnan rálát a buszmegállóra.",
+                "ro": "Alegeți localuri cu stații de autobuz la vedere.",
+                "en": "Choose places with bus stops within sight."
+              }
+            },
+            {
+              "name": "Orthodox Cathedral & History Museum",
+              "tip_5lang": {
+                "de": "Diese Stopps liegen nah beieinander, kaum Regenzeit.",
+                "hu": "Ezek a megállók közel vannak egymáshoz, alig kell ázni.",
+                "ro": "Aceste opriri sunt aproape una de alta, minimizați timpul în ploaie.",
+                "en": "These stops are close to each other, minimizing time in the rain."
+              }
+            },
+            {
+              "name": "Roman Castrum Potaissa",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Busfahrplan; Wartehäuschen sind begrenzt.",
+                "hu": "Ellenőrizze a menetrendet; a váróhelyek száma korlátozott.",
+                "ro": "Verificați orarul; adăposturile în stații sunt limitate.",
+                "en": "Check the bus schedule; shelters at stops are limited here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Bustickets vorab, um Wartezeiten im Regen zu vermeiden.",
+              "Nutzen Sie die Transport-App für Echtzeit-Infos zu den Bussen.",
+              "Einige Bushaltestellen in Turda haben keine Überdachung.",
+              "Die Busverbindung zur Salina ist auch bei Regen zuverlässig."
+            ],
+            "hu": [
+              "Vegye meg a buszjegyeket előre, hogy ne kelljen az esőben várnia.",
+              "Használja a közlekedési alkalmazást a buszok valós idejű követéséhez.",
+              "Néhány tordai buszmegálló nem rendelkezik tetővel.",
+              "A buszjárat a sóbányához esőben is megbízhatóan közlekedik."
+            ],
+            "ro": [
+              "Cumpărați biletele de autobuz în avans pentru a nu aștepta în ploaie.",
+              "Folosiți aplicația de transport pentru informații în timp real.",
+              "Unele stații de autobuz din Turda nu au acoperiș.",
+              "Legătura cu autobuzul spre Salină este sigură și pe ploaie."
+            ],
+            "en": [
+              "Buy bus tickets in advance to avoid waiting in the rain.",
+              "Use the transport app for real-time bus information.",
+              "Some bus stops in Turda do not have overhead shelters.",
+              "The bus connection to the Salt Mine is reliable even in rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag beginnt mit einer warmen Busfahrt zur Salina Turda, wo konstante 12 Grad herrschen. Zurück im Zentrum bieten das Museum und die Kathedrale Schutz vor dem klirrenden Frost. Ein spätes Mittagessen wärmt für den kurzen Besuch des römischen Kastells auf. Der Tag endet früh, wenn die Lichter der Stadt im Winterdunkel erstrahlen.",
+            "hu": "A téli nap meleg buszozással indul a sóbányába, ahol állandó 12 fok várja. Visszatérve a központba, a múzeum és a katedrális nyújt menedéket a csípős fagy elől. Egy késői ebéd után következik a római castrum rövid látogatása. A nap korán ér véget, ahogy a város fényei kigyúlnak a téli sötétségben.",
+            "ro": "Ziua de iarnă începe cu o călătorie caldă cu autobuzul spre salină, unde sunt 12 grade constante. Revenind în centru, muzeul și catedrala oferă adăpost contra gerului. După un prânz târziu, urmează vizita scurtă la castrul roman. Ziua se termină devreme, când luminile orașului se aprind în întunericul iernii.",
+            "en": "The winter day starts with a warm bus ride to the salt mine, where it's a constant 12°C. Back in the center, the museum and cathedral provide shelter from the biting frost. After a late lunch, we visit the Roman castrum briefly. The day ends early as the city lights shine in the winter darkness."
+          },
+          "stops": [
+            {
+              "name": "Salina Turda",
+              "tip_5lang": {
+                "de": "Die Mine ist im Winter ein warmer Rückzugsort.",
+                "hu": "A bánya télen kifejezetten meleg menedékhely.",
+                "ro": "Salina este un refugiu cald pe timp de iarnă.",
+                "en": "The mine is a warm retreat during the winter months."
+              }
+            },
+            {
+              "name": "Bus ride to the city center",
+              "tip_5lang": {
+                "de": "Genießen Sie die Heizung im Bus zwischen den Stopps.",
+                "hu": "Élvezze a fűtést a buszon a megállók között.",
+                "ro": "Bucurați-vă de căldura din autobuz între opriri.",
+                "en": "Enjoy the heating inside the bus between your stops."
+              }
+            },
+            {
+              "name": "Lunch and walk in the center",
+              "tip_5lang": {
+                "de": "Bleiben Sie für ein langes, warmes Mittagessen im Lokal.",
+                "hu": "Maradjon bent egy hosszú, melengető ebédre.",
+                "ro": "Rămâneți în interior pentru un prânz lung și cald.",
+                "en": "Stay inside for a long, warming lunch."
+              }
+            },
+            {
+              "name": "Orthodox Cathedral & History Museum",
+              "tip_5lang": {
+                "de": "Kulturelle Highlights in beheizten Innenräumen.",
+                "hu": "Kulturális élmények fűtött belső terekben.",
+                "ro": "Puncte culturale importante în spații interioare încălzite.",
+                "en": "Cultural highlights in heated indoor spaces."
+              }
+            },
+            {
+              "name": "Roman Castrum Potaissa",
+              "tip_5lang": {
+                "de": "Prüfen Sie die letzte Busverbindung vor der Dunkelheit.",
+                "hu": "Ellenőrizze az utolsó buszt a sötétedés beállta előtt.",
+                "ro": "Verificați ultimul autobuz înainte de lăsarea întunericului.",
+                "en": "Check the last bus connection before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warten Sie in Geschäften oder Cafés, falls der Bus Verspätung hat.",
+              "Tragen Sie warme Schuhe für die Zeit an den Bushaltestellen.",
+              "Die Busse können im Winter bei starkem Schneefall langsamer sein.",
+              "Nutzen Sie die Abendstimmung im Zentrum für Winterfotos."
+            ],
+            "hu": [
+              "Várjon üzletekben vagy kávézókban, ha késik a busz.",
+              "Viseljen meleg cipőt a buszmegállóban való várakozáshoz.",
+              "A buszok télen, erős havazáskor lassabbak lehetnek.",
+              "Használja ki a belvárosi esti fényeket téli fotózáshoz."
+            ],
+            "ro": [
+              "Așteptați în magazine sau cafenele dacă autobuzul întârzie.",
+              "Purtați încălțăminte groasă pentru timpul petrecut în stații.",
+              "Autobuzele pot avea întârzieri iarna în caz de ninsoare abundentă.",
+              "Bucurați-vă de atmosfera de seară din centru pentru poze de iarnă."
+            ],
+            "en": [
+              "Wait in shops or cafés if the bus is running late.",
+              "Wear warm shoes for the time spent at bus stops.",
+              "Buses may be slower in winter during heavy snowfall.",
+              "Use the evening atmosphere in the center for winter photos."
+            ]
+          }
+        }
       }
     }
   }

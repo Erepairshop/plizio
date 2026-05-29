@@ -386,6 +386,214 @@
           "Get lost in the side streets; every corner holds a surprise.",
           "Many places close for a siesta in the afternoon, plan accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Plaza del Pópulo unter den Bögen Schutz vor dem Regen. Mittags verbringen wir viel Zeit in der Kathedrale und dem Jabalquinto-Palast, wo man trocken bleibt. Nachmittags nutzen wir die Pausen zwischen den Schauern für die Türme. Abends genießen wir lokale Tapas in einer gemütlichen Bar in der Altstadt, während der Regen draußen an die Fenster klopft.",
+            "hu": "Reggel a Plaza del Pópulo árkádjai alatt húzódunk meg az eső elől. Délben a katedrális és a Jabalquinto-palota belső terei nyújtanak száraz menedéket a felfedezéshez. Délután a záporok közötti szüneteket kihasználva látogatjuk meg a bástyákat. Este egy hangulatos óvárosi bárban kóstoljuk meg a helyi falatokat, miközben kint kopog az eső.",
+            "ro": "Dimineața, Plaza del Pópulo oferă adăpost sub arcade împotriva ploii. La prânz, interiorul Catedralei și al Palatului Jabalquinto sunt refugiul perfect pentru explorare. După-amiaza, profităm de pauzele dintre averse pentru a vizita turnurile. Seara, ne relaxăm într-un bar primitor din centrul vechi cu tapas locale, în timp ce ploaia cade liniștit afară.",
+            "en": "In the morning, the Plaza del Pópulo provides shelter under its arches. At noon, the interiors of the Cathedral and Jabalquinto Palace keep us dry while exploring. In the afternoon, we use the breaks between showers to visit the ancient towers. In the evening, we enjoy local tapas in a cozy old town bar while listening to the rain outside."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Pópulo (Lions' Square)",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Arkaden des Porticus.",
+                "hu": "Keress menedéket a portikusz árkádjai alatt.",
+                "ro": "Căutați adăpost sub arcadele porticului.",
+                "en": "Seek shelter under the arches of the portico."
+              }
+            },
+            {
+              "name": "Fuente de Santa María",
+              "tip_5lang": {
+                "de": "Vorsicht, das Pflaster um den Brunnen ist bei Nässe rutschig.",
+                "hu": "Vigyázat, a kút körüli kövezet esőben csúszós.",
+                "ro": "Atenție, pavajul din jurul fântânii este alunecos pe ploaie.",
+                "en": "Careful, the pavement around the fountain is slippery when wet."
+              }
+            },
+            {
+              "name": "Baeza Cathedral",
+              "tip_5lang": {
+                "de": "Idealer Ort, um eine längere Regenpause einzulegen.",
+                "hu": "Ideális hely egy hosszabb esőszünet eltöltésére.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei averse mai lungi.",
+                "en": "Ideal place to wait out a longer rain shower."
+              }
+            },
+            {
+              "name": "Palacio de Jabalquinto",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade schnell und gehen Sie in den Innenhof.",
+                "hu": "Csodáld meg gyorsan a homlokzatot, majd irány a belső udvar.",
+                "ro": "Admirați rapid fațada, apoi intrați în curtea interioară.",
+                "en": "Admire the facade quickly, then head into the inner courtyard."
+              }
+            },
+            {
+              "name": "Antigua Universidad",
+              "tip_5lang": {
+                "de": "Das Museum ist komplett überdacht und trocken.",
+                "hu": "A múzeum teljesen fedett és száraz helyszín.",
+                "ro": "Muzeul este complet acoperit și uscat.",
+                "en": "The museum is completely covered and dry."
+              }
+            },
+            {
+              "name": "Torre de los Aliatares",
+              "tip_5lang": {
+                "de": "Die Steinstufen können bei Regen sehr glatt sein.",
+                "hu": "A kőlépcsők esőben nagyon síkosak lehetnek.",
+                "ro": "Treptele de piatră pot fi foarte alunecoase pe ploaie.",
+                "en": "The stone steps can be very slippery in the rain."
+              }
+            },
+            {
+              "name": "Puerta de Úbeda",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Torbogen als schnellen Unterstand.",
+                "hu": "Használd a kapualjat gyors menedékként.",
+                "ro": "Folosiți arcada porții ca adăpost rapid.",
+                "en": "Use the gateway arch as a quick shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Kalksteinpflaster der Altstadt werden bei Regen extrem rutschig.",
+              "Nutzen Sie die vielen Kirchen und Paläste für längere Aufenthalte drinnen.",
+              "Ein stabiler Regenschirm ist wegen der Windböen auf den Hügeln wichtig.",
+              "Die Calle San Pablo bietet viele überdachte Cafés.",
+              "Wasserdichtes Schuhwerk ist für die Kopfsteinpflastergassen unverzichtbar."
+            ],
+            "hu": [
+              "Az óváros mészkő burkolata esőben rendkívül csúszóssá válik.",
+              "Használd ki a templomokat és palotákat a hosszabb benti tartózkodásra.",
+              "A dombtetőn lévő szél miatt egy stabil esernyő elengedhetetlen.",
+              "A Calle San Pablo számos fedett kávézót kínál.",
+              "A macskaköves utcákhoz vízálló lábbeli erősen ajánlott."
+            ],
+            "ro": [
+              "Pavajul de calcar din centrul vechi devine extrem de alunecos pe ploaie.",
+              "Folosiți bisericile și palatele pentru șederi prelungite la interior.",
+              "O umbrelă rezistentă este necesară din cauza vântului de pe dealuri.",
+              "Calle San Pablo oferă multe cafenele cu spații acoperite.",
+              "Încălțămintea impermeabilă este esențială pentru străzile cu piatră cubică."
+            ],
+            "en": [
+              "The limestone pavement of the old town becomes extremely slippery when wet.",
+              "Utilize churches and palaces for longer indoor stays.",
+              "A sturdy umbrella is essential due to wind gusts on the hills.",
+              "Calle San Pablo offers many covered cafes.",
+              "Waterproof footwear is highly recommended for the cobblestone streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch auf der Plaza del Pópulo. Mittags wärmt uns die andalusische Sonne in den geschützten Gassen der Kathedrale. Nachmittags nutzen wir das goldene Licht für Fotos an den Palästen, bevor es früh dunkel wird. Abends kehren wir in eine warme Taverne ein, um uns bei lokaler Küche und Wein aufzuwärmen.",
+            "hu": "A téli reggel frissen indul a Plaza del Pópulo téren. Délben az andalúz napsütés melenget a katedrális védettebb zugaiban. Délután a lemenő nap arany fényeit használjuk fotózáshoz a palotáknál, mielőtt korán leszáll az éj. Este egy meleg tavernába húzódunk be, hogy helyi ételekkel és borral melegedjünk fel.",
+            "ro": "Dimineața de iarnă începe cu un aer proaspăt în Plaza del Pópulo. La prânz, soarele andaluz ne încălzește în zonele protejate de lângă Catedrală. După-amiaza profităm de lumina aurie pentru fotografii la palate înainte de apusul timpuriu. Seara ne retragem într-o tavernă călduroasă pentru a ne încălzi cu preparate și vinuri locale.",
+            "en": "The winter morning starts fresh at Plaza del Pópulo. At noon, the Andalusian sun warms us in the sheltered alleys near the Cathedral. In the afternoon, we catch the golden light for photos at the palaces before the early sunset. In the evening, we retreat to a warm tavern to heat up with local cuisine and wine."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Pópulo (Lions' Square)",
+              "tip_5lang": {
+                "de": "Sonnige Plätze zum Aufwärmen am Morgen suchen.",
+                "hu": "Keress napos helyeket a reggeli bemelegedéshez.",
+                "ro": "Căutați locuri însorite pentru a vă încălzi dimineața.",
+                "en": "Look for sunny spots to warm up in the morning."
+              }
+            },
+            {
+              "name": "Fuente de Santa María",
+              "tip_5lang": {
+                "de": "Das Wasser kann morgens an den Rändern gefroren sein.",
+                "hu": "A kút szélein reggelente vékony jégréteg lehet.",
+                "ro": "Apa poate fi înghețată pe margini în diminețile geroase.",
+                "en": "The water might be frozen at the edges on frosty mornings."
+              }
+            },
+            {
+              "name": "Baeza Cathedral",
+              "tip_5lang": {
+                "de": "In der Kathedrale ist es oft kühler als draußen; Jacke anlassen.",
+                "hu": "A katedrálisban gyakran hűvösebb van, mint kint; ne vedd le a kabátot.",
+                "ro": "În interiorul catedralei este adesea mai rece; păstrați haina pe dvs.",
+                "en": "It is often cooler inside the cathedral than outside; keep your jacket on."
+              }
+            },
+            {
+              "name": "Palacio de Jabalquinto",
+              "tip_5lang": {
+                "de": "Die Innenhöfe fangen mittags die Wärme gut ein.",
+                "hu": "A belső udvarok délben jól megtartják a meleget.",
+                "ro": "Curțile interioare captează bine căldura la prânz.",
+                "en": "The inner courtyards catch the warmth well at midday."
+              }
+            },
+            {
+              "name": "Antigua Universidad",
+              "tip_5lang": {
+                "de": "Perfekt für eine Aufwärmpause im Inneren.",
+                "hu": "Tökéletes helyszín egy benti melegedő szünetre.",
+                "ro": "Perfect pentru o pauză de încălzire la interior.",
+                "en": "Perfect for a warming break indoors."
+              }
+            },
+            {
+              "name": "Torre de los Aliatares",
+              "tip_5lang": {
+                "de": "Windgeschützte Seite des Turms für den Ausblick wählen.",
+                "hu": "Válaszd a torony szélvédett oldalát a kilátáshoz.",
+                "ro": "Alegeți partea ferită de vânt a turnului pentru panoramă.",
+                "en": "Choose the wind-sheltered side of the tower for the view."
+              }
+            },
+            {
+              "name": "Puerta de Úbeda",
+              "tip_5lang": {
+                "de": "Letzte Sonnenstrahlen vor 18 Uhr für Fotos nutzen.",
+                "hu": "Használd ki az utolsó napsugarakat 18 óra előtt fotózáshoz.",
+                "ro": "Folosiți ultimele raze de soare înainte de ora 18 pentru poze.",
+                "en": "Use the last sun rays before 6 PM for photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Baeza liegt auf 760m Höhe; im Winter kann es sehr windig und kalt sein.",
+              "Die Sonne geht gegen 18:00 Uhr unter; planen Sie Besichtigungen früher.",
+              "Tragen Sie Schichten, da es im Schatten deutlich kühler ist.",
+              "Probieren Sie heiße Schokolade mit Churros zum Aufwärmen.",
+              "Die Museen schließen im Winter oft etwas früher."
+            ],
+            "hu": [
+              "Baeza 760 méteren fekszik, télen gyakori az éles, hideg szél.",
+              "A nap 18:00 körül nyugszik, tervezd korábbra a városnézést.",
+              "Öltözz rétegesen, mert az árnyékban sokkal hidegebb van.",
+              "Kóstold meg a forró csokoládét churrosszal a felmelegedéshez.",
+              "A múzeumok télen gyakran korábban zárnak."
+            ],
+            "ro": [
+              "Baeza este la 760m altitudine; iarna vântul poate fi foarte tăios și rece.",
+              "Soarele apune în jur de ora 18:00; planificați vizitele mai devreme.",
+              "Îmbrăcați-vă în straturi, temperatura scade brusc la umbră.",
+              "Încercați o ciocolată caldă cu churros pentru a vă încălzi.",
+              "Muzeele au adesea program scurtat în timpul iernii."
+            ],
+            "en": [
+              "Baeza is at 760m altitude; winter winds can be very biting and cold.",
+              "Sunset is around 6:00 PM; plan your outdoor visits earlier.",
+              "Wear layers as it is significantly cooler in the shade.",
+              "Try hot chocolate with churros to warm up.",
+              "Museums often close slightly earlier during the winter season."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +974,214 @@
           "Always lock your bike, even for short stops.",
           "Use the downhills to cool off, but be prepared for effort on the climbs."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour am Morgen erfordert Vorsicht auf den nassen Steinen der Plaza del Pópulo. Mittags parken wir die Räder sicher an der Kathedrale und erkunden die Innenräume. Nachmittags fahren wir vorsichtig durch die engen Gassen zu den Stadttoren. Abends beenden wir die Tour zügig und suchen uns ein warmes Restaurant.",
+            "hu": "A reggeli biciklizés óvatosságot igényel a Plaza del Pópulo vizes kövein. Délben biztonságban leparkoljuk a gépeket a katedrálisnál, és benti programot választunk. Délután óvatosan tekerünk a szűk utcákon a városkapuk felé. Este gyorsan befejezzük a túrát, és egy meleg éttermet keresünk.",
+            "ro": "Turul cu bicicleta de dimineață necesită prudență pe pietrele ude din Plaza del Pópulo. La prânz parcăm bicicletele în siguranță lângă Catedrală pentru vizite interioare. După-amiaza pedalăm cu grijă prin străzile înguste spre porțile orașului. Seara încheiem rapid tura și căutăm un restaurant călduros.",
+            "en": "The morning bike ride requires caution on the wet stones of Plaza del Pópulo. At noon, we park the bikes securely by the Cathedral for indoor visits. In the afternoon, we cycle carefully through the narrow streets towards the city gates. In the evening, we finish the tour quickly and find a warm restaurant."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Pópulo (Lions' Square)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf dem nassen Kopfsteinpflaster.",
+                "hu": "Óvatosan fékezz a vizes macskakövön.",
+                "ro": "Frânați cu grijă pe piatra cubică umedă.",
+                "en": "Brake carefully on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Fuente de Santa María",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad an einer geschützten Mauer ab.",
+                "hu": "Támaszd a biciklit egy védettebb falfelülethez.",
+                "ro": "Sprijiniți bicicleta de un perete mai protejat.",
+                "en": "Lean your bike against a sheltered wall."
+              }
+            },
+            {
+              "name": "Baeza Cathedral",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer sind hier leider selten.",
+                "hu": "Fedett biciklitároló itt sajnos ritka.",
+                "ro": "Rastelurile de biciclete acoperite sunt rare aici.",
+                "en": "Covered bike racks are unfortunately rare here."
+              }
+            },
+            {
+              "name": "Palacio de Jabalquinto",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch die Kurven bei der Uni.",
+                "hu": "Hajts lassan az egyetem környéki kanyarokban.",
+                "ro": "Circulați încet în curbele de lângă universitate.",
+                "en": "Ride slowly through the curves near the university."
+              }
+            },
+            {
+              "name": "Antigua Universidad",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Trocknen der Kleidung.",
+                "hu": "Használd ki a múzeumlátogatást a ruházat szárítására.",
+                "ro": "Folosiți vizita la muzeu pentru a vă usca hainele.",
+                "en": "Use the museum visit to dry your clothing."
+              }
+            },
+            {
+              "name": "Torre de los Aliatares",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen in den Gassen.",
+                "hu": "Ügyelj az utcákon kialakuló tócsákra.",
+                "ro": "Atenție la bălțile care se formează pe străzi.",
+                "en": "Watch out for puddles forming in the alleys."
+              }
+            },
+            {
+              "name": "Puerta de Úbeda",
+              "tip_5lang": {
+                "de": "Vermeiden Sie steile Abfahrten bei starkem Regen.",
+                "hu": "Kerüld a meredek lejtőket erős esőben.",
+                "ro": "Evitați coborârile abrupte pe ploaie torențială.",
+                "en": "Avoid steep descents during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kopfsteinpflaster in Baeza wird bei Nässe spiegelglatt.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt.",
+              "Nehmen Sie einen Sattelschutz mit.",
+              "Vermeiden Sie das Fahren über bemalte Fahrbahnmarkierungen."
+            ],
+            "hu": [
+              "A baezai macskakő vizesen tükörsimára válik.",
+              "Viselj feltűnő esőkabátot a jobb láthatóságért.",
+              "Indulás előtt ellenőrizd a fékeket.",
+              "Vigyél magaddal nyeregvédőt.",
+              "Kerüld a felfestett útburkolati jeleken való áthajtást."
+            ],
+            "ro": [
+              "Piatra cubică din Baeza devine extrem de alunecoasă pe ploaie.",
+              "Purtați o pelerină de ploaie vizibilă pentru siguranță.",
+              "Verificați frânele înainte de plecare.",
+              "Luați o protecție pentru șa.",
+              "Evitați să treceți peste marcajele rutiere vopsite."
+            ],
+            "en": [
+              "The cobblestones in Baeza become mirror-smooth when wet.",
+              "Wear a bright raincoat for better visibility.",
+              "Check your brakes before starting.",
+              "Take a saddle cover with you.",
+              "Avoid riding over painted road markings."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Rad durch das winterliche Baeza ist morgens erfrischend. Mittags genießen wir die Sonne auf dem Radweg zur Kathedrale. Nachmittags erkunden wir die kühlen Schattenseiten der alten Mauern, bevor uns der Wind zu den Toren treibt. Abends beenden wir die Fahrt vor Einbruch der Dunkelheit.",
+            "hu": "Biciklivel a téli Baezában reggel frissítő az élmény. Délben élvezzük a napsütést a katedrálishoz vezető úton. Délután a régi falak hűvös árnyékait fedezzük fel, mielőtt a szél a kapukhoz hajtana minket. Este még sötétedés előtt befejezzük a tekerést.",
+            "ro": "Cu bicicleta prin Baeza iarna este o experiență revigorantă dimineața. La prânz ne bucurăm de soare pe drumul spre Catedrală. După-amiaza explorăm umbrele reci ale zidurilor vechi înainte ca vântul să ne împingă spre porți. Seara încheiem tura înainte de lăsarea întunericului.",
+            "en": "Cycling through winter Baeza is refreshing in the morning. At noon, we enjoy the sun on the way to the Cathedral. In the afternoon, we explore the cool shadows of the old walls before the wind drives us toward the gates. In the evening, we finish the ride before darkness falls."
+          },
+          "stops": [
+            {
+              "name": "Plaza del Pópulo (Lions' Square)",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die morgendliche Fahrt Pflicht.",
+                "hu": "Kesztyű kötelező a reggeli tekeréshez.",
+                "ro": "Mănușile sunt obligatorii pentru tura de dimineață.",
+                "en": "Gloves are mandatory for the morning ride."
+              }
+            },
+            {
+              "name": "Fuente de Santa María",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe im Schatten.",
+                "hu": "Ügyelj a lefagyásokra az árnyékos részeken.",
+                "ro": "Atenție la gheața care se poate forma la umbră.",
+                "en": "Watch out for black ice in shaded areas."
+              }
+            },
+            {
+              "name": "Baeza Cathedral",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad in der Sonne zum Aufwärmen des Sattels.",
+                "hu": "Parkolj a napon, hogy felmelegedjen a nyereg.",
+                "ro": "Parcați bicicleta la soare pentru a încălzi șaua.",
+                "en": "Park your bike in the sun to warm up the saddle."
+              }
+            },
+            {
+              "name": "Palacio de Jabalquinto",
+              "tip_5lang": {
+                "de": "Kalte Luftzüge in den engen Gassen beachten.",
+                "hu": "Számolj a hideg huzattal a szűk utcákban.",
+                "ro": "Atenție la curenții de aer rece din străzile strâmte.",
+                "en": "Watch out for cold drafts in the narrow streets."
+              }
+            },
+            {
+              "name": "Antigua Universidad",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit für eine Pause mit warmem Tee.",
+                "hu": "Jó alkalom egy meleg teás szünetre.",
+                "ro": "Ocazie bună pentru o pauză cu ceai cald.",
+                "en": "Good opportunity for a warm tea break."
+              }
+            },
+            {
+              "name": "Torre de los Aliatares",
+              "tip_5lang": {
+                "de": "Der Fahrtwind ist im Winter besonders bissig.",
+                "hu": "A menetszél télen különösen metsző lehet.",
+                "ro": "Vântul din mers este deosebit de tăios iarna.",
+                "en": "The wind chill while riding is particularly biting in winter."
+              }
+            },
+            {
+              "name": "Puerta de Úbeda",
+              "tip_5lang": {
+                "de": "Beleuchtung prüfen; es wird sehr schnell dunkel.",
+                "hu": "Ellenőrizd a világítást; hamar sötétedik.",
+                "ro": "Verificați luminile; se întunecă foarte repede.",
+                "en": "Check your lights; it gets dark very quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Wind in Baeza kann im Winter die gefühlte Temperatur senken.",
+              "Tragen Sie winddichte Kleidung.",
+              "Achten Sie auf die kurzen Tageslichtstunden.",
+              "Ein Thermo-Trinkbecher hält Getränke warm.",
+              "Helle Kleidung erhöht die Sicherheit in der Dämmerung."
+            ],
+            "hu": [
+              "A baezai szél télen jelentősen csökkentheti a hőérzetet.",
+              "Viselj szélálló ruházatot.",
+              "Számolj a rövid nappali órákkal.",
+              "Egy termosz melegen tartja az italt.",
+              "A világos ruházat növeli a biztonságot a szürkületben."
+            ],
+            "ro": [
+              "Vântul din Baeza poate scădea semnificativ temperatura resimțită.",
+              "Purtați haine rezistente la vânt.",
+              "Aveți în vedere orele puține de lumină.",
+              "Un termos va menține băutura caldă.",
+              "Hainele deschise la culoare sporesc siguranța în amurg."
+            ],
+            "en": [
+              "The wind in Baeza can significantly lower the perceived temperature in winter.",
+              "Wear windproof clothing.",
+              "Take into account the short daylight hours.",
+              "A thermal mug will keep your drinks warm.",
+              "Bright clothing increases safety at dusk."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1538,196 @@
           "Check the opening hours of monuments to optimize your walk.",
           "Do not leave valuables visible in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir parken morgens nah an der Plaza del Pópulo. Mittags nutzen wir das Auto, um trocken zur Kathedrale zu gelangen. Nachmittags fahren wir zwischen den Monumenten hin und her, um den Regen zu meiden. Abends parken wir direkt vor dem Restaurant in der beleuchteten Altstadt.",
+            "hu": "Reggel a Plaza del Pópulo közelében parkolunk. Délben az autót használjuk, hogy szárazon jussunk el a katedrálishoz. Délután a műemlékek között cikázunk, elkerülve az esőt. Este közvetlenül az étterem előtt parkolunk le a kivilágított óvárosban.",
+            "ro": "Parcăm dimineața aproape de Plaza del Pópulo. La prânz folosim mașina pentru a ajunge uscați la Catedrală. După-amiaza ne deplasăm între monumente pentru a evita ploaia. Seara parcăm chiar în fața restaurantului din centrul vechi iluminat.",
+            "en": "We park close to Plaza del Pópulo in the morning. At noon, we use the car to reach the Cathedral while staying dry. In the afternoon, we drive between monuments to avoid the rain. In the evening, we park right in front of the restaurant in the illuminated old town."
+          },
+          "stops": [
+            {
+              "name": "Parking near Plaza del Pópulo",
+              "tip_5lang": {
+                "de": "Wählen Sie Parkplätze ohne tief hängende Äste bei Sturm.",
+                "hu": "Válassz olyan parkolót, ahol nincsenek belógó ágak viharban.",
+                "ro": "Alegeți parcări fără crengi joase în caz de furtună.",
+                "en": "Choose parking spots away from low-hanging branches during storms."
+              }
+            },
+            {
+              "name": "Plaza del Pópulo & Torre de los Aliatares",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Auto zum Torbogen.",
+                "hu": "Gyors sprint az autótól a kapualjig.",
+                "ro": "Sprint scurt de la mașină până sub arcadă.",
+                "en": "Short sprint from the car to the archway."
+              }
+            },
+            {
+              "name": "Fuente de Santa María & Cathedral",
+              "tip_5lang": {
+                "de": "Lassen Sie die Passagiere direkt am Eingang aussteigen.",
+                "hu": "Az utasokat közvetlenül a bejáratnál tedd ki.",
+                "ro": "Lăsați pasagerii să coboare chiar la intrare.",
+                "en": "Drop off passengers right at the entrance."
+              }
+            },
+            {
+              "name": "Palacio de Jabalquinto",
+              "tip_5lang": {
+                "de": "Parken in den engen Gassen ist bei Regen schwieriger.",
+                "hu": "A szűk utcákban esőben nehezebb a parkolás.",
+                "ro": "Parcarea în străzile înguste este mai dificilă pe ploaie.",
+                "en": "Parking in narrow streets is harder when it rains."
+              }
+            },
+            {
+              "name": "Antigua Universidad & Lunch",
+              "tip_5lang": {
+                "de": "Ein Regenschirm im Auto ist für den Weg zum Lokal nötig.",
+                "hu": "Az autóban tartott esernyő szükséges az étteremig.",
+                "ro": "O umbrelă în mașină este necesară pentru drumul spre local.",
+                "en": "An umbrella in the car is needed for the walk to the restaurant."
+              }
+            },
+            {
+              "name": "Puerta de Úbeda & Stroll",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Ausfahrt aus der Altstadt; Rutschgefahr.",
+                "hu": "Vigyázz az óvárosból való kihajtáskor; csúszásveszély.",
+                "ro": "Atenție la ieșirea din centrul vechi; risc de derapare.",
+                "en": "Be careful when exiting the old town; risk of skidding."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sicht in den engen Gassen kann bei starkem Regen eingeschränkt sein.",
+              "Nutzen Sie Parkhäuser, um trocken ins Freie zu kommen.",
+              "Vorsicht vor Aquaplaning auf den Zufahrtsstraßen.",
+              "Licht einschalten ist in Baeza bei Regen Pflicht.",
+              "Einige Altstadtbereiche sind bei Nässe für Autos gesperrt."
+            ],
+            "hu": [
+              "A kilátás a szűk utcákban erős esőben korlátozott lehet.",
+              "Használd a parkolóházakat, hogy szárazon juss ki.",
+              "Ügyelj az aquaplaning jelenségre a bevezető utakon.",
+              "Baezában esőben kötelező a világítás.",
+              "Néhány óvárosi részt esőben lezárhatnak az autók előtt."
+            ],
+            "ro": [
+              "Vizibilitatea în străzile înguste poate fi redusă pe ploaie torențială.",
+              "Folosiți parcările etajate pentru a ieși uscați.",
+              "Atenție la acvaplanare pe drumurile de acces.",
+              "Aprinderea luminilor este obligatorie în Baeza pe ploaie.",
+              "Unele zone din centrul vechi pot fi închise mașinilor pe ploaie."
+            ],
+            "en": [
+              "Visibility in narrow streets can be limited during heavy rain.",
+              "Use parking garages to exit the vehicle while staying dry.",
+              "Watch out for aquaplaning on access roads.",
+              "Turning on lights is mandatory in Baeza during rain.",
+              "Some old town areas might be closed to cars during wet weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist das Auto im winterlichen Baeza ein warmer Rückzugsort. Mittags nutzen wir die kurzen Wege zwischen den Monumenten optimal aus. Nachmittags fängt die Windschutzscheibe das letzte Sonnenlicht ein. Abends parken wir bequem in der Nähe der beleuchteten Plätze.",
+            "hu": "Reggel az autó meleg menedék a téli Baezában. Délben optimálisan használjuk ki a műemlékek közötti rövid távokat. Délután a szélvédő még befogja az utolsó napsugarakat. Este kényelmesen parkolunk le a kivilágított terek közelében.",
+            "ro": "Dimineața mașina este un refugiu călduros în Baeza iarna. La prânz profităm de distanțele scurte între monumente. După-amiaza parbrizul captează ultimele raze de soare. Seara parcăm confortabil în apropierea piețelor iluminate.",
+            "en": "In the morning, the car is a warm sanctuary in winter Baeza. At noon, we make optimal use of the short distances between monuments. In the afternoon, the windshield catches the last sunlight. In the evening, we park conveniently near the illuminated squares."
+          },
+          "stops": [
+            {
+              "name": "Parking near Plaza del Pópulo",
+              "tip_5lang": {
+                "de": "Scheiben können morgens leicht gefroren sein.",
+                "hu": "A szélvédők reggelente enyhén jegesek lehetnek.",
+                "ro": "Parbrizele pot fi ușor înghețate dimineața.",
+                "en": "Windshields might be slightly frosted in the morning."
+              }
+            },
+            {
+              "name": "Plaza del Pópulo & Torre de los Aliatares",
+              "tip_5lang": {
+                "de": "Heizung während der Besichtigung nicht zu hoch drehen.",
+                "hu": "Ne tekerd túl magasra a fűtést a rövid megállók alatt.",
+                "ro": "Nu setați încălzirea prea tare în timpul vizitelor scurte.",
+                "en": "Don't turn the heater too high during short stops."
+              }
+            },
+            {
+              "name": "Fuente de Santa María & Cathedral",
+              "tip_5lang": {
+                "de": "Suchen Sie einen sonnigen Parkplatz.",
+                "hu": "Keress napos parkolóhelyet.",
+                "ro": "Căutați un loc de parcare însorit.",
+                "en": "Look for a sunny parking spot."
+              }
+            },
+            {
+              "name": "Palacio de Jabalquinto",
+              "tip_5lang": {
+                "de": "Vorsicht beim Rangieren in engen, schattigen Gassen.",
+                "hu": "Vigyázz a manőverezéssel a szűk, árnyékos utcákban.",
+                "ro": "Atenție la manevre în străzile înguste și umbrite.",
+                "en": "Be careful maneuvering in narrow, shaded alleys."
+              }
+            },
+            {
+              "name": "Antigua Universidad & Lunch",
+              "tip_5lang": {
+                "de": "Auto im Winter als Basis für schwere Jacken nutzen.",
+                "hu": "Használd az autót a nehéz kabátok tárolására.",
+                "ro": "Folosiți mașina ca bază pentru hainele groase.",
+                "en": "Use the car as a base to store heavy jackets."
+              }
+            },
+            {
+              "name": "Puerta de Úbeda & Stroll",
+              "tip_5lang": {
+                "de": "Frostschutz in der Waschanlage prüfen.",
+                "hu": "Ellenőrizd a fagyállót a szélvédőmosóban.",
+                "ro": "Verificați antigelul în lichidul de parbriz.",
+                "en": "Check the antifreeze in the windshield washer fluid."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Baeza kann im Winter nachts Frost haben.",
+              "Die Straßen in der Altstadt sind eng; achten Sie auf glatte Stellen.",
+              "Nutzen Sie die Sitzheizung für kurze Fahrten.",
+              "Parkplätze in der Sonne bevorzugen.",
+              "Batterie vor der Reise prüfen."
+            ],
+            "hu": [
+              "Baezában télen éjszakánként fagyhat.",
+              "Az óvárosi utcák szűkek; ügyelj a csúszós szakaszokra.",
+              "Használd az ülésfűtést a rövid utakon.",
+              "Preferáld a napos parkolóhelyeket.",
+              "Indulás előtt ellenőrizd az akkumulátort."
+            ],
+            "ro": [
+              "În Baeza poate îngheța noaptea în timpul iernii.",
+              "Străzile din centrul vechi sunt înguste; atenție la porțiunile cu polei.",
+              "Folosiți încălzirea în scaune pentru drumuri scurte.",
+              "Preferați locurile de parcare însorite.",
+              "Verificați bateria înainte de călătorie."
+            ],
+            "en": [
+              "Baeza can experience frost at night during winter.",
+              "Old town streets are narrow; watch out for icy patches.",
+              "Use seat heating for short trips.",
+              "Prefer sunny parking spots.",
+              "Check the battery before your trip."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2084,197 @@
           "Have small change ready for the bus driver.",
           "Bus stops are not always clearly marked; ask a local if in doubt."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens warten wir unter dem Dach der Bushaltestelle am Pópulo. Mittags nutzen wir den Bus, um trocken zur Kathedrale zu kommen. Nachmittags verbringen wir viel Zeit in den Museen, um dem Regen zu entkommen. Abends nehmen wir den Bus zurück und genießen die Sicht auf die nassen, glänzenden Monumente.",
+            "hu": "Reggel a Pópulo megálló fedett része alatt várjuk a buszt. Délben a tömegközlekedéssel jutunk el szárazon a katedrálishoz. Délután a múzeumokban töltjük az időt, menekülve az eső elől. Este busszal megyünk vissza, élvezve a vizes, csillogó műemlékek látványát.",
+            "ro": "Dimineața așteptăm sub copertina stației de la Pópulo. La prânz folosim transportul public pentru a ajunge uscați la Catedrală. După-amiaza petrecem mai mult timp în muzee pentru a scăpa de ploaie. Seara luăm autobuzul înapoi, admirând monumentele umede și strălucitoare.",
+            "en": "In the morning, we wait under the shelter of the Pópulo bus stop. At noon, we use public transit to stay dry on the way to the Cathedral. In the afternoon, we spend time in museums to escape the rain. In the evening, we take the bus back, enjoying the view of the wet, shining monuments."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Plaza del Pópulo stop",
+              "tip_5lang": {
+                "de": "Haltestelle bietet guten Regenschutz.",
+                "hu": "A megálló jó esővédelmet biztosít.",
+                "ro": "Stația oferă o protecție bună împotriva ploii.",
+                "en": "The stop provides good rain protection."
+              }
+            },
+            {
+              "name": "Plaza del Pópulo & Torre de los Aliatares",
+              "tip_5lang": {
+                "de": "Passen Sie auf spritzendes Wasser von Autos auf.",
+                "hu": "Ügyelj az autók által felvert vízre.",
+                "ro": "Atenție la apa împroșcată de mașini.",
+                "en": "Watch out for water splashed by cars."
+              }
+            },
+            {
+              "name": "Fuente de Santa María & Cathedral",
+              "tip_5lang": {
+                "de": "Busse halten oft etwas entfernt; Schirm bereit halten.",
+                "hu": "A buszok gyakran kicsit távolabb állnak meg; legyen nálad ernyő.",
+                "ro": "Autobuzele opresc adesea puțin mai departe; aveți umbrela gata.",
+                "en": "Buses often stop a bit further away; have your umbrella ready."
+              }
+            },
+            {
+              "name": "Palacio de Jabalquinto",
+              "tip_5lang": {
+                "de": "Im Bus ist es angenehm trocken.",
+                "hu": "A buszon kellemesen száraz az idő.",
+                "ro": "În autobuz este plăcut și uscat.",
+                "en": "It's pleasantly dry inside the bus."
+              }
+            },
+            {
+              "name": "Antigua Universidad & Lunch",
+              "tip_5lang": {
+                "de": "Fahrplan-Apps für minimale Wartezeiten nutzen.",
+                "hu": "Használd a menetrendi appokat a várakozási idő csökkentésére.",
+                "ro": "Folosiți aplicațiile de transport pentru timp de așteptare minim.",
+                "en": "Use transit apps to minimize waiting time."
+              }
+            },
+            {
+              "name": "Puerta de Úbeda & Stroll",
+              "tip_5lang": {
+                "de": "Der Weg zur Haltestelle kann pfützig sein.",
+                "hu": "A megállóhoz vezető út tócsás lehet.",
+                "ro": "Drumul spre stație poate avea multe bălți.",
+                "en": "The walk to the stop might be puddled."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse in Baeza sind bei Regen oft voller.",
+              "Halten Sie Kleingeld für das Ticket bereit.",
+              "Vermeiden Sie das Warten an ungeschützten Stellen.",
+              "Wasserdichte Taschen für Ihre Unterlagen sind ratsam.",
+              "Die Busfenster können beschlagen; Sicht nach draußen prüfen."
+            ],
+            "hu": [
+              "A baezai buszok esőben gyakran zsúfoltabbak.",
+              "Legyen nálad aprópénz a jegyhez.",
+              "Kerüld a fedetlen helyeken való várakozást.",
+              "Vízálló táska ajánlott az iratoknak.",
+              "A buszablakok bepárásodhatnak; figyeld a megállókat."
+            ],
+            "ro": [
+              "Autobuzele din Baeza sunt adesea mai aglomerate pe ploaie.",
+              "Aveți pregătit mărunțiș pentru bilet.",
+              "Evitați să așteptați în locuri neprotejate.",
+              "Se recomandă genți impermeabile pentru documente.",
+              "Geamurile autobuzului se pot aburi; verificați stația."
+            ],
+            "en": [
+              "Buses in Baeza are often more crowded during rain.",
+              "Have small change ready for the ticket.",
+              "Avoid waiting at unsheltered spots.",
+              "Waterproof bags are recommended for your documents.",
+              "Bus windows may fog up; keep an eye on your stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Fahrt im beheizten Bus durch Baeza sehr angenehm. Mittags steigen wir direkt an den sonnigen Monumenten aus. Nachmittags nutzen wir den Transit für die kühleren Abschnitte der Tour. Abends bringt uns der Bus sicher durch die dämmerige Stadt zurück zum Startpunkt.",
+            "hu": "Reggel a fűtött buszozás Baezában nagyon kellemes. Délben közvetlenül a napfényes műemlékeknél szállunk le. Délután a túra hűvösebb szakaszain vesszük igénybe a közlekedést. Este a busz biztonságban visz vissza a szürkületi városon át a kiindulópontra.",
+            "ro": "Dimineața călătoria cu autobuzul încălzit prin Baeza este foarte plăcută. La prânz coborâm chiar lângă monumentele însorite. După-amiaza folosim transportul pentru porțiunile mai reci ale turului. Seara autobuzul ne aduce în siguranță înapoi prin orașul înserat.",
+            "en": "In the morning, riding the heated bus through Baeza is very pleasant. At noon, we get off right by the sunny monuments. In the afternoon, we use transit for the cooler parts of the tour. In the evening, the bus brings us safely back through the twilight city to the starting point."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Plaza del Pópulo stop",
+              "tip_5lang": {
+                "de": "Haltestelle im Winter oft windig; Schal festziehen.",
+                "hu": "A megálló télen gyakran szeles; húzd szorosabbra a sálat.",
+                "ro": "Stația este adesea vântoasă iarna; strângeți fularul.",
+                "en": "The stop is often windy in winter; tighten your scarf."
+              }
+            },
+            {
+              "name": "Plaza del Pópulo & Torre de los Aliatares",
+              "tip_5lang": {
+                "de": "Achten Sie auf den rutschigen Boden beim Aussteigen.",
+                "hu": "Ügyelj a csúszós talajra leszálláskor.",
+                "ro": "Atenție la solul alunecos când coborâți.",
+                "en": "Watch out for slippery ground when getting off."
+              }
+            },
+            {
+              "name": "Fuente de Santa María & Cathedral",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter nach Normalplan.",
+                "hu": "A buszok télen a normál menetrend szerint járnak.",
+                "ro": "Autobuzele circulă după programul normal iarna.",
+                "en": "Buses follow the normal schedule in winter."
+              }
+            },
+            {
+              "name": "Palacio de Jabalquinto",
+              "tip_5lang": {
+                "de": "Der Temperaturunterschied Bus/Außen kann groß sein.",
+                "hu": "A busz és a kinti hőmérséklet különbsége nagy lehet.",
+                "ro": "Diferența de temperatură între autobuz și exterior poate fi mare.",
+                "en": "The temperature difference between the bus and outside can be large."
+              }
+            },
+            {
+              "name": "Antigua Universidad & Lunch",
+              "tip_5lang": {
+                "de": "Frühzeitige Rückfahrt planen, da es um 18 Uhr dunkelt.",
+                "hu": "Tervezz korai visszautat, mert 18 órakor már sötétedik.",
+                "ro": "Planificați întoarcerea devreme, se întunecă la ora 18.",
+                "en": "Plan an early return as it gets dark by 6 PM."
+              }
+            },
+            {
+              "name": "Puerta de Úbeda & Stroll",
+              "tip_5lang": {
+                "de": "Warten Sie in der Nähe beleuchteter Bereiche.",
+                "hu": "Várj a buszra kivilágított helyek közelében.",
+                "ro": "Așteptați în apropierea zonelor iluminate.",
+                "en": "Wait for the bus near illuminated areas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter ein guter Ort zum Aufwärmen.",
+              "Achten Sie auf geänderte Fahrpläne an Feiertagen.",
+              "Tragen Sie warme Kleidung für die Wartezeit.",
+              "Abends ist die Stadt wunderschön beleuchtet.",
+              "Karten im Voraus online prüfen spart Zeit in der Kälte."
+            ],
+            "hu": [
+              "A buszok télen remek helyek a felmelegedésre.",
+              "Ügyelj az ünnepnapi menetrendi változásokra.",
+              "Viselj meleg ruhát a várakozási időre.",
+              "Este a város gyönyörűen ki van világítva.",
+              "A térképek előzetes ellenőrzése időt spórol a hidegben."
+            ],
+            "ro": [
+              "Autobuzele sunt locuri bune pentru încălzire iarna.",
+              "Atenție la modificările de program în zilele de sărbătoare.",
+              "Purtați haine groase pentru timpul de așteptare.",
+              "Seara orașul este superb iluminat.",
+              "Verificarea hărților în avans economisește timp în frig.",
+              "Verificarea hărților în avans economisește timp în frig."
+            ],
+            "en": [
+              "Buses are a great place to warm up in winter.",
+              "Watch out for schedule changes on public holidays.",
+              "Wear warm clothes for the waiting time.",
+              "The city is beautifully illuminated in the evening.",
+              "Checking maps in advance saves time in the cold."
+            ]
+          }
+        }
       }
     }
   }

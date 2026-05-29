@@ -356,6 +356,188 @@
           "Take time to admire the details of the Saxon gates and facades.",
           "Ask at the museum for guided tours to get deeper insights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Rathaus von Zeiden, wobei die Fassaden im Regen glänzen. Die Kirchenburgen bieten perfekten Schutz für ausgiebige Besichtigungen der Innenräume. Mittags ist das Traditionsmuseum der ideale Ort, um trocken zu bleiben und tief in die Geschichte einzutauchen. Der Tag endet am Heldenmonument, bevor man in ein gemütliches Café im Stadtzentrum flüchtet.",
+            "hu": "Feketehalom városházájánál kezdünk, az esőben csillogó épületek között. Az erődtemplomok vastag falai között szárazon böngészhetjük a múltat. Délben a Hagyományok Múzeuma nyújt kiváló menedéket, ahol órákig elmerülhetünk a helyi néprajzban. A rövid sétát a Hősök emlékművénél zárjuk, majd egy közeli meleg, fedett helyen pihenünk meg a központban.",
+            "ro": "Începem dimineața la Primăria Codlea, cu fațadele strălucind sub ploaie. Bisericile fortificate sunt refugiile ideale pentru a explora istoria fără a ne uda. Vizita la Muzeul Tradițiilor este momentul perfect pentru a sta la adăpost la prânz. Încheiem traseul la Monumentul Eroilor, îndreptându-ne apoi rapid spre o cafenea primitoare din centrul istoric.",
+            "en": "The morning starts at Codlea Town Hall, with the architecture gleaming in the rain. The fortified churches offer excellent indoor shelter for historical exploration. At noon, the Museum of Traditions is the perfect spot to stay dry while diving into local heritage. We finish at the Heroes' Monument before heading to a cozy indoor spot in the city center."
+          },
+          "stops": [
+            {
+              "name": "Codlea Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp unter dem Vordach.",
+                "hu": "Gyors fotómegálló az előtető alatt.",
+                "ro": "Scurt popas pentru poze sub streașină.",
+                "en": "Quick photo stop under the overhang."
+              }
+            },
+            {
+              "name": "Fortified Evangelical Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für die Innenbesichtigung.",
+                "hu": "Használja ki az időt a belső tér felfedezésére.",
+                "ro": "Explorați interiorul pe îndelete cât plouă.",
+                "en": "Take your time exploring the interior while it rains."
+              }
+            },
+            {
+              "name": "Holy Trinity Orthodox Church",
+              "tip_5lang": {
+                "de": "Trockener Ort für spirituelle Besinnung.",
+                "hu": "Száraz helyszín a spirituális elmélyüléshez.",
+                "ro": "Loc uscat pentru reculegere și liniște.",
+                "en": "A dry place for spiritual reflection."
+              }
+            },
+            {
+              "name": "Museum of Traditions",
+              "tip_5lang": {
+                "de": "Ideales Regenversteck für über eine Stunde.",
+                "hu": "Ideális eső elleni menedék több mint egy órára.",
+                "ro": "Refugiul ideal împotriva ploii pentru o oră.",
+                "en": "Ideal rain shelter for over an hour."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Zügiger Besuch, da im Freien gelegen.",
+                "hu": "Gyors látogatás, mivel nyitott területen van.",
+                "ro": "Vizită rapidă, fiind situat în aer liber.",
+                "en": "Brisk visit as it is located outdoors."
+              }
+            },
+            {
+              "name": "Codlea swimming pool",
+              "tip_5lang": {
+                "de": "Nur bei überdachten Bereichen verweilen.",
+                "hu": "Csak a fedett részeken érdemes várakozni.",
+                "ro": "Rămâneți doar în zonele acoperite.",
+                "en": "Only stay in the covered areas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit.",
+              "Die Kirchen bieten den besten Schutz vor Schauern.",
+              "Tragen Sie wasserfeste Schuhe für die Kopfsteinpflaster.",
+              "Nutzen Sie das Museum als Hauptaufenthaltsort."
+            ],
+            "hu": [
+              "Vigyen magával strapabíró esernyőt.",
+              "A templomok nyújtják a legjobb védelmet a záporok elől.",
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "A múzeum legyen a fő tartózkodási hely rossz időben."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă la vânt.",
+              "Bisericile oferă cel mai bun adăpost împotriva averselor.",
+              "Purtați încălțăminte impermeabilă pentru pavaj.",
+              "Folosiți muzeul ca punct principal de popas."
+            ],
+            "en": [
+              "Bring a sturdy umbrella for the walk.",
+              "The churches offer the best protection from showers.",
+              "Wear waterproof shoes for the cobblestone streets.",
+              "Use the museum as your main indoor stay."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Codlea zeigt sich im Winter oft schneebedeckt vor der Kulisse des Zeidner Berges. Der Vormittag an den Kirchen ist stimmungsvoll, erfordert aber warme Kleidung für die kalten Mauern. Mittags bietet das Museum eine willkommene Aufwärmpause. Da es früh dunkel wird, nutzen wir die Dämmerung für einen stimmungsvollen Abschluss am Heldenmonument.",
+            "hu": "Feketehalom télen gyakran hófödte, a Măgura-hegy látványával a háttérben. A délelőtt a templomoknál hangulatos, de a hideg falak között réteges öltözet kell. Délben a múzeum fűtött tereiben melegedhetünk fel. Mivel korán sötétedik, a szürkületet a Hősök emlékművénél töltjük, mielőtt a kivilágított főtérre érnénk.",
+            "ro": "Codlea iarna este adesea acoperită de zăpadă, având Măgura în fundal. Dimineața la biserici este atmosferică, dar necesită haine groase în incintele reci. La prânz, muzeul oferă o pauză binemeritată pentru încălzire. Deoarece se întunecă devreme, profităm de amurg la Monumentul Eroilor înainte de seară.",
+            "en": "Codlea in winter is often snow-covered against the backdrop of Măgura mountain. The morning at the churches is atmospheric but requires warm clothing for the cold interiors. At noon, the museum provides a welcome warming break. As it gets dark early, we enjoy the twilight at the Heroes' Monument before the day ends."
+          },
+          "stops": [
+            {
+              "name": "Codlea Town Hall",
+              "tip_5lang": {
+                "de": "Bewundern Sie die winterliche Architektur.",
+                "hu": "Csodálja meg a téli építészetet.",
+                "ro": "Admirați arhitectura în decorul de iarnă.",
+                "en": "Admire the winter architecture."
+              }
+            },
+            {
+              "name": "Fortified Evangelical Church",
+              "tip_5lang": {
+                "de": "In der Kirche ist es sehr kühl, Mütze aufbehalten.",
+                "hu": "A templomban nagyon hideg van, maradjon sapkában.",
+                "ro": "Este foarte rece în biserică, păstrați căciula.",
+                "en": "It is very cold inside the church, keep your hat on."
+              }
+            },
+            {
+              "name": "Holy Trinity Orthodox Church",
+              "tip_5lang": {
+                "de": "Warme Kerzenatmosphäre genießen.",
+                "hu": "Élvezze a meleg, gyertyás hangulatot.",
+                "ro": "Bucurați-vă de atmosfera caldă a lumânărilor.",
+                "en": "Enjoy the warm candle-lit atmosphere."
+              }
+            },
+            {
+              "name": "Museum of Traditions",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit zum Aufwärmen.",
+                "hu": "Kiváló lehetőség a felmelegedésre.",
+                "ro": "Oportunitate bună pentru a vă încălzi.",
+                "en": "Great opportunity to warm up."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Schöner Blick auf die verschneite Stadt.",
+                "hu": "Szép kilátás a havas városra.",
+                "ro": "Vedere frumoasă asupra orașului înzăpezit.",
+                "en": "Beautiful view of the snowy town."
+              }
+            },
+            {
+              "name": "Codlea swimming pool",
+              "tip_5lang": {
+                "de": "Kurzer Blick auf das gefrorene Wasserareal.",
+                "hu": "Rövid pillantás a befagyott vízfelületre.",
+                "ro": "O privire scurtă spre zona cu apă înghețată.",
+                "en": "A brief look at the frozen water area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 16:30 Uhr unter.",
+              "Tragen Sie Thermounterwäsche für die Kirchenbesuche.",
+              "Vorsicht vor Eis auf den Stufen der Kirchenburg.",
+              "Planen Sie regelmäßige Pausen für Heißgetränke ein."
+            ],
+            "hu": [
+              "A nap délután 16:30 körül nyugszik.",
+              "Viseljen termaruházatot a templomlátogatáshoz.",
+              "Vigyázzon a jégre az erődtemplom lépcsőin.",
+              "Tervezzen be rendszeres szüneteket forró italokra."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 16:30.",
+              "Purtați haine termice pentru vizita la biserici.",
+              "Atenție la gheața de pe treptele cetății.",
+              "Planificați pauze dese pentru băuturi calde."
+            ],
+            "en": [
+              "The sun sets early, around 16:30.",
+              "Wear thermal layers for the church visits.",
+              "Watch out for ice on the fortified church steps.",
+              "Schedule regular breaks for hot drinks."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +888,188 @@
           "Bring enough water, especially for the ride to Măgura Codlei.",
           "A helmet is strongly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert volle Konzentration auf dem Weg zur Schwarzen Burg. Die Waldwege können rutschig sein, bieten aber eine mystische, neblige Atmosphäre. Mittags wärmen wir uns im Traditionsmuseum auf, bevor wir die Măgura-Runde bei vorsichtiger Fahrweise beenden. Schutzbleche sind heute unverzichtbar.",
+            "hu": "Az esős bringázás teljes koncentrációt igényel a Fekete vár felé. Az erdei utak csúszósak lehetnek, de a ködös táj misztikus hangulatot áraszt. Délben a múzeumban melegszünk fel, majd óvatos tempóban fejezzük be a Măgura-kört. A sárvédő ma kötelező kiegészítő.",
+            "ro": "O tură cu bicicleta pe ploaie necesită concentrare maximă spre Cetatea Neagră. Potecile din pădure pot fi alunecoase, dar oferă o atmosferă mistică. La prânz ne încălzim la muzeu, înainte de a termina circuitul Măgura cu prudență. Apărătorile de noroi sunt indispensabile astăzi.",
+            "en": "Cycling in the rain requires full focus on the way to the Black Fortress. Forest paths can be slippery, but the mist adds a mystical atmosphere. At noon, we warm up at the Museum of Traditions before finishing the Măgura loop with caution. Mudguards are essential today."
+          },
+          "stops": [
+            {
+              "name": "Codlea Town Hall",
+              "tip_5lang": {
+                "de": "Ausrüstung nochmals auf Wasserdichtigkeit prüfen.",
+                "hu": "Ellenőrizze a felszerelés vízállóságát még egyszer.",
+                "ro": "Mai verificați o dată impermeabilitatea echipamentului.",
+                "en": "Check your gear's waterproofing one last time."
+              }
+            },
+            {
+              "name": "Fortified Evangelical Church",
+              "tip_5lang": {
+                "de": "Fahrrad sicher und überdacht abstellen.",
+                "hu": "A kerékpárt biztonságos, fedett helyen parkolja le.",
+                "ro": "Parcați bicicleta într-un loc sigur și acoperit.",
+                "en": "Park your bike in a safe, covered spot."
+              }
+            },
+            {
+              "name": "Black Fortress",
+              "tip_5lang": {
+                "de": "Vorsicht vor schlammigen Pfaden bergauf.",
+                "hu": "Vigyázat, a felfelé vezető út sáros lehet.",
+                "ro": "Atenție la potecile noroioase în urcare.",
+                "en": "Watch out for muddy uphill paths."
+              }
+            },
+            {
+              "name": "Codlea swimming pool",
+              "tip_5lang": {
+                "de": "Asphalt kann hier sehr rutschig sein.",
+                "hu": "Az aszfalt itt nagyon csúszós lehet.",
+                "ro": "Asfaltul poate fi foarte alunecos aici.",
+                "en": "The asphalt can be very slippery here."
+              }
+            },
+            {
+              "name": "Museum of Traditions",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit zum Abtrocknen.",
+                "hu": "Használja ki az időt a megszárítkozásra.",
+                "ro": "Folosiți timpul pentru a vă usca.",
+                "en": "Use the time to dry off."
+              }
+            },
+            {
+              "name": "Măgura Codlei",
+              "tip_5lang": {
+                "de": "Abfahrt bei Regen nur für Geübte.",
+                "hu": "Az esős lejtmenet csak gyakorlottaknak ajánlott.",
+                "ro": "Coborârea pe ploaie este doar pentru cei experimentați.",
+                "en": "Uphill descent in rain is only for experts."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt.",
+              "Vermeiden Sie tiefes Laub auf den Waldwegen.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Säubern Sie die Kette nach der Tour vom Schlamm."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket indulás előtt.",
+              "Kerülje a vastag lombú szakaszokat az erdei úton.",
+              "Viseljen feltűnő esőkabátot a láthatóságért.",
+              "A túra után tisztítsa meg a láncot a sártól."
+            ],
+            "ro": [
+              "Verificați frânele înainte de plecare.",
+              "Evitați zonele cu frunziș gros pe drumul forestier.",
+              "Purtați o jachetă reflectorizantă pentru vizibilitate.",
+              "Curățați lanțul de noroi după tură."
+            ],
+            "en": [
+              "Check your brakes before the descent.",
+              "Avoid deep leaf piles on the forest paths.",
+              "Wear a bright rain jacket for visibility.",
+              "Clean the mud off your chain after the tour."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking in Codlea ist ein Abenteuer zwischen gefrorenem Asphalt und verschneiten Waldrändern. Der Morgen im Ort ist kalt, aber klar. Der Aufstieg zur Schwarzen Burg erfordert gute Kondition bei Minusgraden. Mittags wärmt uns das Museum auf, bevor wir die kurze Wintersonne für den Măgura-Blick nutzen.",
+            "hu": "A téli bringázás Feketehalmon kaland a fagyos aszfalt és a havas erdőszélek között. A reggel a faluban hideg, de tiszta. A Fekete vár felé vezető út jó kondíciót igényel a mínuszokban. Délben a múzeumban melegszünk fel, mielőtt kihasználnánk a rövid téli napsütést a Măgura-kilátáshoz.",
+            "ro": "Ciclismul de iarnă în Codlea este o aventură între asfaltul înghețat și liziera înzăpezită. Dimineața în oraș este rece, dar senină. Urcarea spre Cetatea Neagră necesită condiție fizică bună pe ger. La prânz ne încălzim la muzeu, înainte de a profita de soarele scurt de iarnă.",
+            "en": "Winter biking in Codlea is an adventure between frozen asphalt and snowy forest edges. The morning in town is cold but clear. The climb to the Black Fortress requires good stamina in freezing temperatures. At noon, we warm up at the museum before catching the short winter sun for the Măgura view."
+          },
+          "stops": [
+            {
+              "name": "Codlea Town Hall",
+              "tip_5lang": {
+                "de": "Reifendruck für mehr Grip leicht senken.",
+                "hu": "Engedjen kicsit a guminyomásból a jobb tapadásért.",
+                "ro": "Reduceți presiunea în pneuri pentru aderență.",
+                "en": "Slightly lower tire pressure for better grip."
+              }
+            },
+            {
+              "name": "Fortified Evangelical Church",
+              "tip_5lang": {
+                "de": "Handschuhe beim Schließen des Schlosses anlassen.",
+                "hu": "Hagyja magán a kesztyűt a lakat lezárásakor.",
+                "ro": "Păstrați mănușile când încuiați antifurtul.",
+                "en": "Keep gloves on when locking your bike."
+              }
+            },
+            {
+              "name": "Black Fortress",
+              "tip_5lang": {
+                "de": "Achtung vor vereisten Wurzeln auf dem Weg.",
+                "hu": "Vigyázat, jeges gyökerek lehetnek az úton.",
+                "ro": "Atenție la rădăcinile înghețate de pe drum.",
+                "en": "Watch out for icy roots on the path."
+              }
+            },
+            {
+              "name": "Codlea swimming pool",
+              "tip_5lang": {
+                "de": "Vorsicht in schattigen Kurven vor Blatteis.",
+                "hu": "Vigyázat az árnyékos kanyarokban a tükörjég miatt.",
+                "ro": "Atenție la polei în curbele umbrite.",
+                "en": "Watch out for black ice in shaded turns."
+              }
+            },
+            {
+              "name": "Museum of Traditions",
+              "tip_5lang": {
+                "de": "Trinken Sie hier etwas Heißes.",
+                "hu": "Igyon itt valami forrót.",
+                "ro": "Beți ceva fierbinte aici.",
+                "en": "Drink something hot here."
+              }
+            },
+            {
+              "name": "Măgura Codlei",
+              "tip_5lang": {
+                "de": "Windchill bei der Abfahrt nicht unterschätzen.",
+                "hu": "Ne becsülje alá a menetszelet a lejtőn.",
+                "ro": "Nu subestimați vântul rece la coborâre.",
+                "en": "Don't underestimate the wind chill on the descent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung in Schichten.",
+              "Nutzen Sie Batterielichter, da Akkus bei Kälte schneller entladen.",
+              "Vermeiden Sie plötzliches Bremsen auf glattem Grund.",
+              "Halten Sie Ihre Füße durch isolierte Schuhe warm."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot rétegesen.",
+              "Használjon elemes lámpát, az akkuk hamar lemerülnek hidegben.",
+              "Kerülje a hirtelen fékezést csúszós felületen.",
+              "Tartsa melegen a lábait szigetelt cipővel."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt în straturi.",
+              "Folosiți lumini cu baterii, acumulatorii se descarcă rapid.",
+              "Evitați frânările bruște pe suprafețe lucioase.",
+              "Păstrați picioarele calde cu încălțăminte izolată."
+            ],
+            "en": [
+              "Wear windproof clothing in layers.",
+              "Use battery lights as rechargeables drain faster in cold.",
+              "Avoid sudden braking on slippery surfaces.",
+              "Keep your feet warm with insulated footwear."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1085,6 +1449,206 @@
           "A GPS is useful for finding the trailheads for hikes outside the city.",
           "Do not leave valuables in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist der Regen in Codlea kein Hindernis. Wir parken zentral und besuchen die Kirchenburgen trocken. Mittags fahren wir zum Traditionsmuseum und nutzen den Wagen als Basis für den Abstecher zur Schwarzen Burg, wo die Sicht neblig-romantisch ist. Der Tag endet bei einem gemütlichen Abendessen im Stadtkern.",
+            "hu": "Autóval az eső nem akadály Feketehalmon. Központi helyen parkolunk, és szárazon látogatjuk a templomokat. Délben a múzeumhoz hajtunk, majd az autót bázisként használjuk a Fekete várhoz, ahol a kilátás ködösen romantikus. A napot egy kellemes vacsorával zárjuk a városközpontban.",
+            "ro": "Cu mașina, ploaia nu este un obstacol în Codlea. Parcăm central și vizităm bisericile stând la uscat. La prânz mergem la muzeu și folosim mașina ca bază pentru Cetatea Neagră, unde vizibilitatea este mistică. Încheiem ziua cu o cină relaxantă în centrul orașului.",
+            "en": "By car, the rain is no obstacle in Codlea. We park centrally and visit the fortified churches while staying dry. At noon, we drive to the museum and use the car as a base for the Black Fortress trip, where the view is misty and romantic. The day ends with a cozy dinner in the city center."
+          },
+          "stops": [
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Möglichst nah am Eingang parken.",
+                "hu": "Parkoljon minél közelebb a bejárathoz.",
+                "ro": "Parcați cât mai aproape de intrare.",
+                "en": "Park as close to the entrance as possible."
+              }
+            },
+            {
+              "name": "Town Hall and Evangelical Church",
+              "tip_5lang": {
+                "de": "Schirm bereithalten für den Weg vom Parkplatz.",
+                "hu": "Készítse elő az esernyőt a parkolótól vezető útra.",
+                "ro": "Pregătiți umbrela pentru drumul de la parcare.",
+                "en": "Have your umbrella ready for the walk from the lot."
+              }
+            },
+            {
+              "name": "Museum of Traditions",
+              "tip_5lang": {
+                "de": "Parken direkt vor dem Gebäude oft möglich.",
+                "hu": "A parkolás közvetlenül az épület előtt gyakran megoldható.",
+                "ro": "Parcarea direct în fața clădirii este adesea posibilă.",
+                "en": "Parking directly in front of the building is often possible."
+              }
+            },
+            {
+              "name": "Black Fortress",
+              "tip_5lang": {
+                "de": "Straße zur Burg kann bei Regen rutschig sein.",
+                "hu": "A vár felé vezető út esőben csúszós lehet.",
+                "ro": "Drumul spre cetate poate fi alunecos pe ploaie.",
+                "en": "The road to the fortress can be slippery in the rain."
+              }
+            },
+            {
+              "name": "Viewpoint near the fortress",
+              "tip_5lang": {
+                "de": "Blick oft durch Nebel eingeschränkt.",
+                "hu": "A kilátást gyakran korlátozza a köd.",
+                "ro": "Vedere adesea limitată de ceață.",
+                "en": "View is often limited by fog."
+              }
+            },
+            {
+              "name": "Măgura Codlei - Hiking Start",
+              "tip_5lang": {
+                "de": "Wanderwege sind heute sehr schlammig.",
+                "hu": "A túraösvények ma nagyon sárosak.",
+                "ro": "Traseele de drumeție sunt foarte noroioase astăzi.",
+                "en": "Hiking trails are very muddy today."
+              }
+            },
+            {
+              "name": "Dinner in the Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Komfort des beheizten Wagens.",
+                "hu": "Élvezze a fűtött autó kényelmét.",
+                "ro": "Bucurați-vă de confortul mașinii încălzite.",
+                "en": "Enjoy the comfort of the heated car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Nationalstraße.",
+              "Nutzen Sie die Parkplätze direkt an den Sehenswürdigkeiten.",
+              "Lassen Sie nasse Schirme im Kofferraum.",
+              "Fahren Sie bei Nebel am Berg besonders vorsichtig."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra a főúton.",
+              "Használja a látnivalók melletti parkolókat.",
+              "A vizes esernyőket a csomagtartóban tárolja.",
+              "Ködös időben vezessen fokozott óvatossággal a hegyen."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul național.",
+              "Folosiți parcările de lângă obiective.",
+              "Lăsați umbrelele ude în portbagaj.",
+              "Conduceți cu prudență sporită pe munte în caz de ceață."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the main road.",
+              "Use parking spots right next to the sights.",
+              "Keep wet umbrellas in the trunk.",
+              "Drive extra carefully on the mountain if it's foggy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlandschaft vom Fahrersitz aus: Codlea wirkt unter Schnee besonders ruhig. Wir starten am Rathaus und nutzen die kurzen Wege zwischen den Kirchen. Das Museum bietet eine warme Pause. Der Abstecher zur Măgura erfordert Winterreifen und Vorsicht, belohnt aber mit glitzernden Panoramablicken, bevor wir zum Abendessen einkehren.",
+            "hu": "Téli táj a vezetőülésből: Feketehalom a hó alatt különösen csendes. A városházánál kezdünk, kihasználva a templomok közötti rövid távolságokat. A múzeum meleg pihenőt nyújt. A Măgura-kitérő téli gumit és óvatosságot igényel, de csillogó panorámával jutalmaz a vacsora előtt.",
+            "ro": "Peisaj de iarnă de la volan: Codlea pare liniștită sub zăpadă. Începem la primărie și profităm de distanțele scurte dintre biserici. Muzeul oferă o pauză călduroasă. Excursia spre Măgura necesită anvelope de iarnă, dar oferă panorame sclipitoare înainte de cină.",
+            "en": "Winter scenery from the driver's seat: Codlea feels peaceful under the snow. We start at the Town Hall, using the short distances between the churches. The museum provides a warm break. The Măgura detour requires winter tires and caution, but rewards with glittering panoramas before dinner."
+          },
+          "stops": [
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Parkplatz könnte schneebedeckt sein.",
+                "hu": "A parkoló hófödte lehet.",
+                "ro": "Parcarea ar putea fi acoperită de zăpadă.",
+                "en": "Parking lot might be snow-covered."
+              }
+            },
+            {
+              "name": "Town Hall and Evangelical Church",
+              "tip_5lang": {
+                "de": "Kurze Wege minimieren die Kälteexposition.",
+                "hu": "A rövid távok csökkentik a hidegben töltött időt.",
+                "ro": "Distanțele scurte reduc expunerea la frig.",
+                "en": "Short distances minimize cold exposure."
+              }
+            },
+            {
+              "name": "Museum of Traditions",
+              "tip_5lang": {
+                "de": "Heizung im Auto während des Wartens nutzen.",
+                "hu": "Használja az autó fűtését várakozás közben.",
+                "ro": "Folosiți încălzirea mașinii în timp ce așteptați.",
+                "en": "Use the car heater while waiting."
+              }
+            },
+            {
+              "name": "Black Fortress",
+              "tip_5lang": {
+                "de": "Zufahrt kann vereist sein.",
+                "hu": "A felvezető út jeges lehet.",
+                "ro": "Accesul rutier poate fi înghețat.",
+                "en": "The access road can be icy."
+              }
+            },
+            {
+              "name": "Viewpoint near the fortress",
+              "tip_5lang": {
+                "de": "Klare Sicht bei Frost oft sehr gut.",
+                "hu": "A kilátás fagyos időben gyakran kitűnő.",
+                "ro": "Vizibilitatea pe ger este adesea foarte bună.",
+                "en": "Visibility in frosty weather is often excellent."
+              }
+            },
+            {
+              "name": "Măgura Codlei - Hiking Start",
+              "tip_5lang": {
+                "de": "Schneeschuhe für Wanderungen empfohlen.",
+                "hu": "Hótalp ajánlott a túrázáshoz.",
+                "ro": "Rachetele de zăpadă sunt recomandate pentru drumeție.",
+                "en": "Snowshoes recommended for hiking."
+              }
+            },
+            {
+              "name": "Dinner in the Center",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch nahe der Heizung.",
+                "hu": "Foglaljon asztalt a fűtés közelében.",
+                "ro": "Rezervați o masă lângă calorifer.",
+                "en": "Book a table near the heater."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und Schneebesen mit.",
+              "Achten Sie auf Streusalz, das den Lack angreifen kann.",
+              "Die Bergstraßen werden oft später geräumt.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage."
+            ],
+            "hu": [
+              "Legyen kéznél jégkaparó és hóseprű.",
+              "Ügyeljen a sós hóra, ami marja a fényezést.",
+              "A hegyi utakat gyakran később takarítják.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban."
+            ],
+            "ro": [
+              "Aveți la îndemână racleta și peria de zăpadă.",
+              "Atenție la sarea de pe drum care afectează vopseaua.",
+              "Drumurile montane sunt deszăpezite mai târziu.",
+              "Verificați lichidul de parbriz antigel."
+            ],
+            "en": [
+              "Carry an ice scraper and snow brush.",
+              "Watch out for road salt affecting the paintwork.",
+              "Mountain roads are often cleared later.",
+              "Check the antifreeze in your washer fluid."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1422,6 +1986,170 @@
           "Have small change ready for tickets and snacks.",
           "Ask the locals for the right bus; they are usually helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus durch das verregnete Codlea zu reisen, ist eine trockene Alternative. Wir starten im Zentrum und nutzen die kurzen Fußwege zwischen den Haltestellen und den Kirchenburgen. Das Museum bietet mittags eine lange Indoor-Pause. Da das Schwimmbadareal im Regen weniger attraktiv ist, verkürzen wir den Aufenthalt dort und kehren früher ins Zentrum zurück.",
+            "hu": "Busszal utazni az esős Feketehalmon száraz alternatíva. A központból indulunk, és a megállók, valamint a templomok közötti rövid sétákat használjuk ki. A múzeum délben hosszú fedett kikapcsolódást nyújt. Mivel a strand környéke esőben kevésbé vonzó, lerövidítjük az ottani tartózkodást, és korábban térünk vissza a központba.",
+            "ro": "Călătoria cu autobuzul prin Codlea ploioasă este o alternativă uscată. Pornim din centru și profităm de distanțele scurte dintre stații și biserici. Muzeul oferă la prânz o pauză lungă la interior. Deoarece zona ștrandului este mai puțin atractivă pe ploaie, scurtăm vizita acolo și revenim mai devreme în centru.",
+            "en": "Traveling by bus through rainy Codlea is a dry alternative. We start in the center and take short walks between stops and the fortified churches. At noon, the museum offers a long indoor break. Since the pool area is less attractive in the rain, we shorten the stay there and return to the center earlier."
+          },
+          "stops": [
+            {
+              "name": "Central Stop",
+              "tip_5lang": {
+                "de": "Warten unter dem Haltestellendach.",
+                "hu": "Várakozás a buszmegálló teteje alatt.",
+                "ro": "Așteptați sub copertina stației.",
+                "en": "Wait under the bus stop shelter."
+              }
+            },
+            {
+              "name": "Evangelical Church & Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Sprint zur Kirche bei starken Güssen.",
+                "hu": "Gyors sprint a templomig erős felhőszakadáskor.",
+                "ro": "Sprint scurt spre biserică în caz de aversă.",
+                "en": "Quick sprint to the church during heavy downpours."
+              }
+            },
+            {
+              "name": "Museum of Traditions",
+              "tip_5lang": {
+                "de": "Haltestelle fast direkt vor der Tür.",
+                "hu": "A megálló szinte közvetlenül az ajtó előtt van.",
+                "ro": "Stația este aproape direct în fața ușii.",
+                "en": "The stop is almost directly in front of the door."
+              }
+            },
+            {
+              "name": "Swimming Pool Stop",
+              "tip_5lang": {
+                "de": "Möglicherweise windig an dieser exponierten Stelle.",
+                "hu": "Ezen a nyitott részen szeles lehet az idő.",
+                "ro": "Ar putea fi vânt în această zonă expusă.",
+                "en": "It might be windy at this exposed location."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Letzte Station vor der Rückfahrt ins Trockene.",
+                "hu": "Utolsó állomás a száraz helyre való visszatérés előtt.",
+                "ro": "Ultima stație înainte de revenirea la adăpost.",
+                "en": "Last stop before returning to a dry place."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Behalten Sie den Fahrplan per App im Blick.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zur Haltestelle.",
+              "Vermeiden Sie Pfützen beim Ein- und Aussteigen.",
+              "Nutzen Sie die Wartezeit in den Kirchen."
+            ],
+            "hu": [
+              "Kövesse a menetrendet applikáción.",
+              "Viseljen vízálló ruhát a megállóhoz vezető úton.",
+              "Kerülje a tócsákat a le- és felszálláskor.",
+              "Használja ki a várakozási időt a templomokban."
+            ],
+            "ro": [
+              "Urmăriți programul prin aplicație.",
+              "Purtați haine impermeabile pentru drumul spre stație.",
+              "Evitați bălțile la urcare și coborâre.",
+              "Folosiți timpul de așteptare în biserici."
+            ],
+            "en": [
+              "Keep an eye on the schedule via app.",
+              "Wear waterproof clothes for the walk to the stop.",
+              "Avoid puddles when boarding and alighting.",
+              "Utilize the waiting time inside the churches."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winterbus durch Codlea: Die beheizten Fahrzeuge sind ein Segen bei frostigen Temperaturen. Wir besichtigen die Kirchenburgen am Vormittag und nutzen das Traditionsmuseum als warmen Ankerpunkt am Mittag. Da es früh dunkel wird, planen wir die Rückfahrt vom Monument so, dass wir die beleuchtete Stadt am Abend genießen können.",
+            "hu": "Téli buszozás Feketehalmon: a fűtött járművek áldásosak a fagyos időben. Délelőtt megnézzük a templomokat, délben pedig a múzeumot használjuk meleg bázisként. Mivel korán sötétedik, az emlékműtől való visszautat úgy tervezzük, hogy este már a kivilágított várost élvezhessük.",
+            "ro": "Cu autobuzul de iarnă prin Codlea: vehiculele încălzite sunt binevenite pe ger. Vizităm bisericile dimineața și folosim muzeul ca punct cald la prânz. Deoarece se înserează devreme, planificăm returul de la monument astfel încât să ne bucurăm de orașul iluminat seara.",
+            "en": "By winter bus through Codlea: heated vehicles are a blessing in freezing temperatures. We visit the churches in the morning and use the Museum of Traditions as a warm anchor at noon. As it gets dark early, we plan the return from the monument to enjoy the lit-up town in the evening."
+          },
+          "stops": [
+            {
+              "name": "Central Stop",
+              "tip_5lang": {
+                "de": "In Bewegung bleiben, um warm zu bleiben.",
+                "hu": "Maradjon mozgásban, hogy ne fázzon.",
+                "ro": "Rămâneți în mișcare pentru a vă încălzi.",
+                "en": "Keep moving to stay warm."
+              }
+            },
+            {
+              "name": "Evangelical Church & Town Hall",
+              "tip_5lang": {
+                "de": "Kopfsteinpflaster kann bei Frost glatt sein.",
+                "hu": "A macskakő fagyban csúszós lehet.",
+                "ro": "Pavajul poate fi alunecos pe timp de ger.",
+                "en": "Cobblestones can be slippery in frost."
+              }
+            },
+            {
+              "name": "Museum of Traditions",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme der Innenräume.",
+                "hu": "Élvezze a belső terek melegét.",
+                "ro": "Bucurați-vă de căldura spațiilor interioare.",
+                "en": "Enjoy the warmth of the interiors."
+              }
+            },
+            {
+              "name": "Swimming Pool Stop",
+              "tip_5lang": {
+                "de": "Wartehäuschen bietet Schutz vor kaltem Wind.",
+                "hu": "A váró fülke védelmet nyújt a hideg szél ellen.",
+                "ro": "Adăpostul stației oferă protecție contra vântului.",
+                "en": "The stop shelter provides protection from cold wind."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Besuch bei Dämmerung besonders eindrucksvoll.",
+                "hu": "A látogatás szürkületkor különösen hatásos.",
+                "ro": "Vizita la amurg este deosebit de impresionantă.",
+                "en": "Visit at twilight is especially impressive."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Schneefall Verspätung haben.",
+              "Tragen Sie warme Winterschuhe für das Warten.",
+              "Achten Sie auf vereiste Haltestellenbereiche.",
+              "Halten Sie Ihr Handy warm, damit der Akku hält."
+            ],
+            "hu": [
+              "Erős havazáskor a buszok késhetnek.",
+              "Viseljen meleg téli lábbelit a várakozáshoz.",
+              "Vigyázzon a jeges megállókra.",
+              "Tartsa melegen a telefonját az akku miatt."
+            ],
+            "ro": [
+              "Autobuzele pot întârzia la ninsori puternice.",
+              "Purtați încălțăminte groasă de iarnă.",
+              "Atenție la zonele înghețate din stații.",
+              "Țineți telefonul la căldură pentru baterie."
+            ],
+            "en": [
+              "Buses may be delayed during heavy snowfall.",
+              "Wear warm winter boots for the wait.",
+              "Watch out for icy surfaces at the stops.",
+              "Keep your phone warm to preserve battery."
+            ]
+          }
+        }
       }
     }
   }

@@ -304,6 +304,206 @@
           "Many shops close for lunch, so plan accordingly.",
           "A visit in autumn offers beautiful foliage colors in the surrounding mountains."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter den schützenden Torbögen der Altstadt, wo das Obere Tor einen trockenen Start ermöglicht. Mittags bietet die St. Laurentius Kirche einen ruhigen, überdachten Rückzugsort vor dem Regen. Am Nachmittag ist das Stadtmuseum im Gayenhof der ideale Ort, um im Trockenen in die Geschichte einzutauchen. Der Tag endet gemütlich im Milka-Laden bei süßen Belohnungen.",
+            "hu": "A reggel az óváros védelmező boltívei alatt indul, ahol a Felső-kapu száraz menedéket nyújt a zápor elől. Délben a Szent Lőrinc-templom csendes, fedett helyszín a pihenéshez. Délután a Gayenhof kastélyban található városi múzeum a legjobb választás, hogy fedél alatt ismerjük meg a múltat. A napot a Milka-bolt édességei között, a csokiillatban zárjuk, távol az esőtől.",
+            "ro": "Dimineața începe sub arcadele protectoare ale centrului vechi, unde Poarta Superioară oferă un adăpost uscat. La prânz, biserica Sf. Laurențiu este un refugiu liniștit și acoperit împotriva ploii. După-amiaza, muzeul orașului din castelul Gayenhof este locul ideal pentru a explora istoria la căldură. Ziua se încheie plăcut în magazinul Milka, savurând ciocolată departe de stropii de ploaie.",
+            "en": "The morning starts under the protective arches of the old town, with the Upper Gate providing a dry shelter. At noon, St. Lawrence Church offers a peaceful, covered retreat from the rain. In the afternoon, the City Museum in Gayenhof Castle is the perfect spot to dive into history while staying dry. The day ends cozily at the Milka shop, treating yourself to sweets away from the wet streets."
+          },
+          "stops": [
+            {
+              "name": "Upper Gate",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Durchgang des Tores als kurzen Regenschutz.",
+                "hu": "Használja a kapu átjáróját rövid menedékként az eső elől.",
+                "ro": "Folosiți pasajul porții ca un scurt adăpost împotriva ploii.",
+                "en": "Use the gate's passage as a quick shelter from the rain."
+              }
+            },
+            {
+              "name": "Nepomuk Fountain",
+              "tip_5lang": {
+                "de": "Das Wasser des Brunnens wirkt im Regen besonders atmosphärisch.",
+                "hu": "A szökőkút vize esőben különösen hangulatos látványt nyújt.",
+                "ro": "Apa fântânii are o atmosferă deosebită pe timp de ploaie.",
+                "en": "The fountain's water looks particularly atmospheric in the rain."
+              }
+            },
+            {
+              "name": "Lower Gate",
+              "tip_5lang": {
+                "de": "Die nahen Laubengänge bieten trockene Laufwege in der Altstadt.",
+                "hu": "A közeli árkádok száraz útvonalat biztosítanak az óvárosban.",
+                "ro": "Arcadele din apropiere oferă trasee uscate în centrul vechi.",
+                "en": "The nearby arcades offer dry walking paths in the old town."
+              }
+            },
+            {
+              "name": "St. Lawrence Parish Church",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die barocke Pracht im Trockenen zu bewundern.",
+                "hu": "Ideális hely a barokk pompa megcsodálására szárazon.",
+                "ro": "Un loc ideal pentru a admira splendoarea barocă la adăpost.",
+                "en": "An ideal place to admire baroque splendor while staying dry."
+              }
+            },
+            {
+              "name": "Gayenhof Castle",
+              "tip_5lang": {
+                "de": "Die Mauern bieten Schutz vor windigen Regenschauern.",
+                "hu": "A várfalak védelmet nyújtanak a szeles eső ellen.",
+                "ro": "Zidurile castelului oferă protecție împotriva ploii vântoase.",
+                "en": "The castle walls provide protection from windy rain showers."
+              }
+            },
+            {
+              "name": "Bludenz City Museum",
+              "tip_5lang": {
+                "de": "Perfekt für eine ausgiebige Besichtigung bei schlechtem Wetter.",
+                "hu": "Tökéletes helyszín egy alapos látogatáshoz rossz időben.",
+                "ro": "Perfect pentru o vizită detaliată pe vreme nefavorabilă.",
+                "en": "Perfect for an extended visit during bad weather."
+              }
+            },
+            {
+              "name": "Milka Chocolate Shop",
+              "tip_5lang": {
+                "de": "Belohnen Sie sich mit heißer Schokolade nach dem nassen Spaziergang.",
+                "hu": "Jutalmazza meg magát egy forró csokival a vizes séta után.",
+                "ro": "Răsplătiți-vă cu o ciocolată caldă după plimbarea prin ploaie.",
+                "en": "Reward yourself with hot chocolate after the wet walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die historischen Laubengänge der Altstadt als Regenschutz.",
+              "Ein stabiler Regenschirm ist bei den teils engen Gassen wichtig.",
+              "Wasserdichte Schuhe sind auf dem Kopfsteinpflaster unverzichtbar.",
+              "Das Stadtmuseum ist der beste Ort, um starken Regen abzuwarten."
+            ],
+            "hu": [
+              "Használja az óváros történelmi árkádjait eső elleni védelemként.",
+              "A néhol szűk utcákban egy stabil esernyő nagyon hasznos.",
+              "A macskaköves utakon elengedhetetlen a vízálló lábbeli.",
+              "A városi múzeum a legjobb hely a heves esőzés kivárására."
+            ],
+            "ro": [
+              "Folosiți arcadele istorice din centrul vechi ca protecție contra ploii.",
+              "O umbrelă stabilă este importantă pe străzile parțial înguste.",
+              "Încălțămintea impermeabilă este indispensabilă pe pavajul cu piatră cubică.",
+              "Muzeul orașului este cel mai bun loc pentru a aștepta trecerea ploii torențiale."
+            ],
+            "en": [
+              "Utilize the historic arcades of the old town as rain protection.",
+              "A sturdy umbrella is important in the sometimes narrow alleys.",
+              "Waterproof shoes are essential on the cobblestone streets.",
+              "The City Museum is the best place to wait out heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bludenz im Winterzauber beginnt mit frostigen Ansichten am Oberen Tor. Mittags wärmt der Besuch der St. Laurentius Kirche Geist und Körper auf. Nachmittags glitzert der Gayenhof im Schnee, während das Museum eine behagliche Flucht vor der Kälte bietet. Wenn die Dämmerung früh einsetzt, leuchten die Lichter der Altstadt und führen zum süßen Abschluss in den Milka-Laden.",
+            "hu": "Bludenz téli varázsa a Felső-kapu fagyos látványával kezdődik. Délben a Szent Lőrinc-templom látogatása melengeti meg a lelket és a testet. Délután a Gayenhof csillog a hóban, miközben a múzeum kellemes menedéket nyújt a hideg elől. Mivel korán sötétedik, az óváros fényei mutatják az utat a nap édes lezárásához a Milka-boltban.",
+            "ro": "Bludenz în straie de iarnă începe cu vederi înghețate la Poarta Superioară. La prânz, vizita la biserica Sf. Laurențiu încălzește spiritul și corpul. După-amiaza, Gayenhof strălucește în zăpadă, în timp ce muzeul oferă o evadare primitoare din calea frigului. Deoarece se înserează devreme, luminile centrului vechi vă ghidează spre finalul dulce la magazinul Milka.",
+            "en": "Bludenz in winter charm starts with frosty views at the Upper Gate. At noon, a visit to St. Lawrence Church warms both spirit and body. In the afternoon, Gayenhof sparkles in the snow, while the museum offers a cozy escape from the cold. As dusk sets in early, the lights of the old town glow, leading you to a sweet conclusion at the Milka shop."
+          },
+          "stops": [
+            {
+              "name": "Upper Gate",
+              "tip_5lang": {
+                "de": "Vorsicht vor eventueller Glätte auf den alten Steinstufen.",
+                "hu": "Vigyázat az esetleges csúszós felületekre a régi kőlépcsőkön.",
+                "ro": "Atenție la posibila polei pe treptele vechi de piatră.",
+                "en": "Watch out for potential slipperiness on the old stone steps."
+              }
+            },
+            {
+              "name": "Nepomuk Fountain",
+              "tip_5lang": {
+                "de": "Der Brunnen ist im Winter oft kunstvoll eingehaust oder vereist.",
+                "hu": "A kút télen gyakran művészien be van deszkázva vagy jeges.",
+                "ro": "Fântâna este adesea acoperită artistic sau înghețată iarna.",
+                "en": "The fountain is often artistically covered or iced over in winter."
+              }
+            },
+            {
+              "name": "Lower Gate",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den verschneiten Turm.",
+                "hu": "Élvezze a havas toronyra nyíló látványt.",
+                "ro": "Bucurați-vă de vederea turnului înzăpezit.",
+                "en": "Enjoy the view of the snow-covered tower."
+              }
+            },
+            {
+              "name": "St. Lawrence Parish Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten eine kurze Pause vom Winterwind.",
+                "hu": "A vastag falak rövid pihenőt nyújtanak a téli szél elől.",
+                "ro": "Zidurile groase oferă o scurtă pauză de la vântul de iarnă.",
+                "en": "The thick walls offer a brief break from the winter wind."
+              }
+            },
+            {
+              "name": "Gayenhof Castle",
+              "tip_5lang": {
+                "de": "Die Schlossfassade wirkt im Winterschnee besonders herrschaftlich.",
+                "hu": "A kastély homlokzata a téli hóban különösen fenséges.",
+                "ro": "Fațada castelului pare deosebit de impunătoare în zăpadă.",
+                "en": "The castle facade looks particularly grand in the winter snow."
+              }
+            },
+            {
+              "name": "Bludenz City Museum",
+              "tip_5lang": {
+                "de": "Die beheizten Räume laden zum Aufwärmen und Verweilen ein.",
+                "hu": "A fűtött termek felmelegedésre és pihenésre hívogatnak.",
+                "ro": "Sălile încălzite vă invită să vă încălziți și să zăboviți.",
+                "en": "The heated rooms invite you to warm up and stay a while."
+              }
+            },
+            {
+              "name": "Milka Chocolate Shop",
+              "tip_5lang": {
+                "de": "In der Kälte duftet der Kakao draußen besonders intensiv.",
+                "hu": "A hidegben kint különösen intenzív a kakaó illata.",
+                "ro": "În frig, mirosul de cacao se simte deosebit de intens afară.",
+                "en": "In the cold, the smell of cocoa is particularly intense outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Schichten, da es im Tal windig sein kann.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Achten Sie auf gefrierende Nässe auf dem Kopfsteinpflaster.",
+              "Nutzen Sie die Kirchen und Museen als Aufwärmstationen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a völgyben szeles lehet az idő.",
+              "A nap télen már 16:30 körül nyugovóra tér.",
+              "Ügyeljen a lefagyott nedvességre a macskaköveken.",
+              "Használja a templomokat és múzeumokat melegedőpontként."
+            ],
+            "ro": [
+              "Purtați haine în straturi, deoarece în vale poate fi vântos.",
+              "Soarele apune deja în jurul orei 16:30 pe timp de iarnă.",
+              "Atenție la umezeala care îngheață pe piatra cubică.",
+              "Folosiți bisericile și muzeele ca puncte de încălzire."
+            ],
+            "en": [
+              "Wear warm layers as it can be windy in the valley.",
+              "The sun sets as early as 16:30 in winter.",
+              "Watch out for freezing moisture on the cobblestones.",
+              "Use churches and museums as warming stations."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -602,6 +802,206 @@
           "The Ill cycle path is mostly flat and suitable for all fitness levels.",
           "Be mindful of pedestrians in the pedestrian zone and push your bike where required."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag in Bludenz erfordert Vorsicht am Unteren Tor, da das Pflaster rutschig ist. Mittags bietet die St. Laurentius Kirche einen Moment der Ruhe im Trockenen. Nach dem Aufstieg zum Gayenhof wärmt der Museumsbesuch die Glieder. Die Fahrt zum Milka-Laden ist kurz, und der Abschluss am Illradweg bietet trotz Nässe eine erfrischende alpine Luft.",
+            "hu": "Egy esős bringás nap Bludenzi óvatosságot igényel az Alsó-kapunál a csúszós kövek miatt. Délben a Szent Lőrinc-templom nyújt egy pillanatnyi száraz nyugalmat. A Gayenhofhoz való feltekerés után a múzeumlátogatás melegíti fel a végtagokat. A Milka-boltig tartó út rövid, az Ill-menti kerékpárút pedig a nedvesség ellenére is friss alpesi levegőt kínál.",
+            "ro": "O zi ploioasă cu bicicleta în Bludenz necesită prudență la Poarta Inferioară, deoarece pavajul este alunecos. La prânz, biserica Sf. Laurențiu oferă un moment de liniște la uscat. După urcarea la Gayenhof, vizita la muzeu încălzește membrele. Drumul către magazinul Milka este scurt, iar finalul pe pista de biciclete de lângă râul Ill oferă un aer alpin revigorant în ciuda umezelii.",
+            "en": "A rainy cycling day in Bludenz requires caution at the Lower Gate as the pavement is slippery. At noon, St. Lawrence Church offers a moment of dry peace. After the climb to Gayenhof, the museum visit warms the limbs. The ride to the Milka shop is short, and the conclusion on the Ill cycle path offers refreshing Alpine air despite the wetness."
+          },
+          "stops": [
+            {
+              "name": "Lower Gate",
+              "tip_5lang": {
+                "de": "Bremsen Sie auf dem nassen Kopfsteinpflaster besonders vorsichtig.",
+                "hu": "Fékezzen különösen óvatosan a vizes macskaköveken.",
+                "ro": "Frânați cu deosebită prudență pe pavajul ud.",
+                "en": "Brake with extra caution on the wet cobblestones."
+              }
+            },
+            {
+              "name": "St. Lawrence Parish Church",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach einer nahen Gasse ab.",
+                "hu": "Támassza le a biciklit egy közeli köz védelmező eresze alá.",
+                "ro": "Parcați bicicleta sub streașina unei alei din apropiere.",
+                "en": "Park your bike under the eaves of a nearby alley."
+              }
+            },
+            {
+              "name": "Upper Gate",
+              "tip_5lang": {
+                "de": "Das Tor bietet einen kurzen Unterstand bei plötzlichem Schauer.",
+                "hu": "A kapu rövid menedéket nyújt hirtelen zápor esetén.",
+                "ro": "Poarta oferă un scurt adăpost în caz de aversă bruscă.",
+                "en": "The gate provides a short shelter during sudden showers."
+              }
+            },
+            {
+              "name": "Gayenhof Castle",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen in den Auffahrten zum Schloss.",
+                "hu": "Ügyeljen a tócsákra a kastélyhoz vezető felhajtókon.",
+                "ro": "Atenție la bălți pe drumul de acces către castel.",
+                "en": "Watch out for puddles on the driveways to the castle."
+              }
+            },
+            {
+              "name": "Bludenz City Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine Pause vom Regen im Inneren.",
+                "hu": "Használja ki az időt egy esőmenti pihenőre bent.",
+                "ro": "Folosiți timpul pentru o pauză de la ploaie în interior.",
+                "en": "Use the time for a break from the rain indoors."
+              }
+            },
+            {
+              "name": "Milka Chocolate Shop",
+              "tip_5lang": {
+                "de": "Der Shop bietet Parkplätze direkt vor dem trockenen Eingang.",
+                "hu": "A bolt közvetlenül a száraz bejárat előtt kínál parkolót.",
+                "ro": "Magazinul oferă locuri de parcare chiar în fața intrării.",
+                "en": "The shop offers parking right in front of the dry entrance."
+              }
+            },
+            {
+              "name": "Ride on the Ill cycle path",
+              "tip_5lang": {
+                "de": "Schutzbleche sind auf dem wassergebundenen Weg sehr wichtig.",
+                "hu": "A sárvédők nagyon fontosak ezen a vízelvezetős úton.",
+                "ro": "Apărătorile de noroi sunt foarte importante pe acest drum.",
+                "en": "Mudguards are very important on this water-bound path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie hastige Lenkbewegungen auf nassen Schienen oder Steinen.",
+              "Wasserdichte Handschuhe halten die Hände warm und griffig.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Fahrt in die Berge.",
+              "Reflektierende Kleidung verbessert die Sichtbarkeit im Regen."
+            ],
+            "hu": [
+              "Kerülje a hirtelen kormánymozdulatokat a vizes síneken vagy köveken.",
+              "A vízálló kesztyűk melegen és biztosan tartják a kezet.",
+              "Hegyi menet előtt ellenőrizze a fékbetéteket.",
+              "A fényvisszaverő ruházat javítja a láthatóságot esőben."
+            ],
+            "ro": [
+              "Evitați mișcările bruște de direcție pe șinele sau pietrele ude.",
+              "Mănușile impermeabile mențin mâinile calde și aderența bună.",
+              "Verificați plăcuțele de frână înainte de a porni spre munți.",
+              "Îmbrăcămintea reflectorizantă îmbunătățește vizibilitatea pe ploaie."
+            ],
+            "en": [
+              "Avoid sudden steering movements on wet rails or stones.",
+              "Waterproof gloves keep hands warm and grip secure.",
+              "Check your brake pads before riding into the mountains.",
+              "Reflective clothing improves visibility in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour per Rad durch Bludenz beginnt erfrischend am Unteren Tor. Mittags dient die St. Laurentius Kirche als spiritueller Aufwärmpunkt. Der Anstieg zum Gayenhof fordert die Waden, belohnt aber mit verschneiten Schlossansichten vor dem Museumsbesuch. Die Fahrt zum Milka-Laden duftet nach Schokolade in der kalten Luft, und der Illradweg bietet eine klare, eisige Winterlandschaft.",
+            "hu": "A téli kerékpáros túra Bludenzben frissítően indul az Alsó-kapunál. Délben a Szent Lőrinc-templom szolgál lelki melegedőpontként. A Gayenhofhoz vezető emelkedő próbára teszi a vádlikat, de havas kastélylátvánnyal jutalmaz a múzeumlátogatás előtt. A Milka-bolt felé vezető úton érezni a csokiillatot a hideg levegőben, az Ill-kerékpárút pedig tiszta, jeges téli tájat kínál.",
+            "ro": "O tură de iarnă cu bicicleta prin Bludenz începe revigorant la Poarta Inferioară. La prânz, biserica Sf. Laurențiu servește ca punct spiritual de încălzire. Urcarea spre Gayenhof solicită gambele, dar recompensează cu vederi înzăpezite ale castelului înainte de vizita la muzeu. Drumul către magazinul Milka miroase a ciocolată în aerul rece, iar pista de lângă râul Ill oferă un peisaj de iarnă clar și înghețat.",
+            "en": "A winter bike tour through Bludenz starts refreshingly at the Lower Gate. At noon, St. Lawrence Church serves as a spiritual warming point. The climb to Gayenhof challenges the calves but rewards with snowy castle views before the museum visit. The ride to the Milka shop smells of chocolate in the cold air, and the Ill cycle path offers a clear, icy winter landscape."
+          },
+          "stops": [
+            {
+              "name": "Lower Gate",
+              "tip_5lang": {
+                "de": "Achten Sie auf Streusalzreste, die die Reifen rutschig machen.",
+                "hu": "Ügyeljen a sómaradványokra, amik csúszóssá tehetik a gumit.",
+                "ro": "Atenție la resturile de sare care pot face anvelopele alunecoase.",
+                "en": "Watch out for road salt residue that can make tires slippery."
+              }
+            },
+            {
+              "name": "St. Lawrence Parish Church",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Abstellen auf vereisten Flächen.",
+                "hu": "Kerülje a leállást jeges felületeken.",
+                "ro": "Evitați parcarea pe suprafețe înghețate.",
+                "en": "Avoid parking on icy surfaces."
+              }
+            },
+            {
+              "name": "Upper Gate",
+              "tip_5lang": {
+                "de": "Die Auffahrt durch das Tor kann im Winter eng und glatt sein.",
+                "hu": "A kapun átvezető út télen szűk és csúszós lehet.",
+                "ro": "Accesul prin poartă poate fi îngust și alunecos iarna.",
+                "en": "The driveway through the gate can be narrow and slick in winter."
+              }
+            },
+            {
+              "name": "Gayenhof Castle",
+              "tip_5lang": {
+                "de": "Der Ausblick auf die verschneiten Gipfel ist hier besonders klar.",
+                "hu": "A kilátás a havas csúcsokra itt különösen tiszta.",
+                "ro": "Vederea spre vârfurile înzăpezite este deosebit de clară aici.",
+                "en": "The view of the snowy peaks is particularly clear here."
+              }
+            },
+            {
+              "name": "Bludenz City Museum",
+              "tip_5lang": {
+                "de": "Tauchen Sie in die Geschichte ein, während das Rad draußen parkt.",
+                "hu": "Merüljön el a történelemben, amíg a bringa kint pihen.",
+                "ro": "Explorați istoria în timp ce bicicleta este parcată afară.",
+                "en": "Dive into history while your bike is parked outside."
+              }
+            },
+            {
+              "name": "Milka Chocolate Shop",
+              "tip_5lang": {
+                "de": "Ein warmes Getränk im Shop ist die beste Winterbelohnung.",
+                "hu": "Egy meleg ital a boltban a legjobb téli jutalom.",
+                "ro": "O băutură caldă în magazin este cea mai bună recompensă de iarnă.",
+                "en": "A warm drink in the shop is the best winter reward."
+              }
+            },
+            {
+              "name": "Ride on the Ill cycle path",
+              "tip_5lang": {
+                "de": "Fahren Sie bei Dämmerung nur mit einwandfreier Beleuchtung.",
+                "hu": "Sötétedéskor csak tökéletes világítással közlekedjen.",
+                "ro": "Circulați la amurg doar cu iluminare impecabilă.",
+                "en": "Ride at dusk only with flawless lighting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Reifen mit gutem Profil oder Winterreifen für Fahrräder.",
+              "Die Kälte entlädt E-Bike-Akkus schneller; nehmen Sie das Display ab.",
+              "Tragen Sie eine winddichte Schicht unter dem Helm.",
+              "Achten Sie auf gefrorenes Schmelzwasser in Schattenlagen."
+            ],
+            "hu": [
+              "Használjon jó profilú gumikat vagy téli kerékpárgumit.",
+              "A hideg gyorsabban meríti az e-bike akkukat; vegye le a kijelzőt.",
+              "Viseljen szélálló réteget a sisak alatt.",
+              "Ügyeljen a visszafagyott olvadékvízre az árnyékos részeken."
+            ],
+            "ro": [
+              "Folosiți anvelope cu profil bun sau anvelope de iarnă pentru bicicletă.",
+              "Frigul descarcă mai repede bateriile e-bike-urilor; scoateți afișajul.",
+              "Purtați un strat rezistent la vânt sub cască.",
+              "Atenție la apa topită și reînghețată în zonele umbrite."
+            ],
+            "en": [
+              "Use tires with good tread or winter tires for bicycles.",
+              "Cold drains e-bike batteries faster; remove the display.",
+              "Wear a windproof layer under your helmet.",
+              "Watch out for frozen meltwater in shaded areas."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -900,6 +1300,206 @@
           "There are several parking garages in the city center; the 'Zentrumsparkplatz' is often a good choice.",
           "Allow time for traffic, especially on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag in Bludenz lässt sich bequem mit dem Auto meistern, beginnend am Altstadtparkplatz. Vormittags sind das Obere Tor und die St. Laurentius Kirche nur kurze Gänge entfernt. Den Mittag verbringen Sie im trockenen Stadtmuseum im Gayenhof. Am Nachmittag führt die Fahrt zur Muttersberg-Seilbahn, die Sie trocken in die Wolken bringt, gefolgt von einem Besuch im Milka-Laden und einem gemütlichen Abendessen im Gasthof.",
+            "hu": "Egy esős bludenzi nap kényelmesen megoldható autóval, az óvárosi parkolóból indulva. Délelőtt a Felső-kapu és a Szent Lőrinc-templom csak pár lépésnyire van. A delet a száraz városi múzeumban töltjük a Gayenhofban. Délután az autó a Muttersberg-felvonóhoz visz, ami szárazon repít a felhők közé, majd a Milka-bolt és egy hangulatos fogadóban elköltött vacsora következik.",
+            "ro": "O zi ploioasă în Bludenz poate fi parcursă confortabil cu mașina, începând din parcarea centrului vechi. Dimineața, Poarta Superioară și biserica Sf. Laurențiu sunt la doar câțiva pași distanță. Prânzul îl petreceți în muzeul orașului de la Gayenhof. După-amiaza, drumul duce la telecabina Muttersberg, care vă poartă spre nori la adăpost, urmată de o vizită la magazinul Milka și o cină plăcută la un han.",
+            "en": "A rainy day in Bludenz is easily managed by car, starting at the Old Town car park. In the morning, the Upper Gate and St. Lawrence Church are just short walks away. Spend noon in the dry City Museum at Gayenhof. In the afternoon, the drive leads to the Muttersberg cable car, which takes you dry into the clouds, followed by a visit to the Milka shop and a cozy dinner at an inn."
+          },
+          "stops": [
+            {
+              "name": "Old Town Car Park",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Parkplatz nah am Ausgang zur Altstadt.",
+                "hu": "Válasszon parkolóhelyet közel az óvárosi kijárathoz.",
+                "ro": "Alegeți un loc de parcare aproape de ieșirea spre centrul vechi.",
+                "en": "Choose a parking spot close to the exit to the old town."
+              }
+            },
+            {
+              "name": "Upper Gate & Old Town",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten minimieren den Regen.",
+                "hu": "A látnivalók közötti rövid távok minimalizálják az esőt.",
+                "ro": "Distanțele scurte între obiective minimizează expunerea la ploaie.",
+                "en": "Short distances between sights minimize rain exposure."
+              }
+            },
+            {
+              "name": "St. Lawrence Parish Church",
+              "tip_5lang": {
+                "de": "Der Vorplatz ist bei Nässe manchmal etwas rutschig.",
+                "hu": "A templom előtti tér nedvesen néha kissé csúszós.",
+                "ro": "Piațeta din fața bisericii este uneori alunecoasă când este udă.",
+                "en": "The church square is sometimes a bit slippery when wet."
+              }
+            },
+            {
+              "name": "Gayenhof Castle & City Museum",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Schloss für einen fast trockenen Zugang.",
+                "hu": "Parkoljon közvetlenül a kastélynál a majdnem száraz bejutáshoz.",
+                "ro": "Parcați chiar la castel pentru un acces aproape uscat.",
+                "en": "Park directly at the castle for an almost dry access."
+              }
+            },
+            {
+              "name": "Muttersberg Cable Car Valley Station",
+              "tip_5lang": {
+                "de": "Die Kabinen bieten eine trockene Fahrt mit Blick auf das Regental.",
+                "hu": "A kabinok száraz utazást és kilátást nyújtanak az esős völgyre.",
+                "ro": "Cabinele oferă o călătorie uscată cu vedere spre valea ploioasă.",
+                "en": "The cabins offer a dry ride with views of the rainy valley."
+              }
+            },
+            {
+              "name": "Milka Chocolate Shop",
+              "tip_5lang": {
+                "de": "Großer Kundenparkplatz direkt vor dem Geschäft vorhanden.",
+                "hu": "Közvetlenül az üzlet előtt nagy ügyfélparkoló áll rendelkezésre.",
+                "ro": "Parcare mare pentru clienți disponibilă chiar în fața magazinului.",
+                "en": "Large customer car park available right in front of the shop."
+              }
+            },
+            {
+              "name": "Dinner at an Inn",
+              "tip_5lang": {
+                "de": "Viele Gasthöfe haben hoteleigene Parkplätze am Haus.",
+                "hu": "Sok fogadónak saját parkolója van a háznál.",
+                "ro": "Multe hanuri au locuri de parcare proprii lângă clădire.",
+                "en": "Many inns have their own parking spaces at the building."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Sichtweite für die Bergfahrt zur Seilbahn.",
+              "Halten Sie die Scheiben beschlagfrei für eine sichere Fahrt.",
+              "Nutzen Sie Parkgaragen, um das Auto trocken zu verlassen.",
+              "Im Tal kann es bei Regen zu plötzlichem Nebel kommen."
+            ],
+            "hu": [
+              "Ellenőrizze a látási viszonyokat a felvonóhoz vezető úton.",
+              "A biztonságos vezetés érdekében tartsa páramentesen a szélvédőt.",
+              "Használjon parkolóházakat, hogy szárazon szállhasson ki.",
+              "A völgyben esőnél hirtelen köd alakulhat ki."
+            ],
+            "ro": [
+              "Verificați vizibilitatea înainte de a urca spre telecabină.",
+              "Mențineți geamurile dezaburite pentru o condus în siguranță.",
+              "Folosiți parcările supraetajate pentru a ieși din mașină la uscat.",
+              "În vale poate apărea ceață bruscă atunci când plouă."
+            ],
+            "en": [
+              "Check visibility before the drive to the cable car.",
+              "Keep your windows fog-free for safe driving.",
+              "Use parking garages to exit the car while staying dry.",
+              "Sudden fog can occur in the valley during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Fahrtag in Bludenz beginnt am verschneiten Altstadtparkplatz. Vormittags erkunden Sie das Obere Tor und die St. Laurentius Kirche im Glanz des Frosts. Mittags bietet das Museum im Gayenhof wohlige Wärme. Die Nachmittagsfahrt führt durch die weiße Pracht zur Muttersberg-Seilbahn für ein Alpenpanorama, bevor der Tag im Milka-Laden und bei einem deftigen Abendessen im warmen Gasthof ausklingt.",
+            "hu": "A téli autós nap Bludenzben a havas óvárosi parkolóban indul. Délelőtt a Felső-kaput és a Szent Lőrinc-templomot fedezzük fel a zúzmara fényében. Délben a Gayenhof múzeuma nyújt kellemes meleget. A délutáni út a fehér pompában a Muttersberg-felvonóhoz visz az alpesi panorámáért, majd a nap a Milka-boltban és egy meleg fogadóban elköltött kiadós vacsorával zárul.",
+            "ro": "O zi de iarnă cu mașina în Bludenz începe în parcarea înzăpezită a centrului vechi. Dimineața explorați Poarta Superioară și biserica Sf. Laurențiu sub strălucirea brumei. La prânz, muzeul din Gayenhof oferă o căldură plăcută. Drumul de după-amiază prin peisajul alb duce la telecabina Muttersberg pentru o panoramă alpină, înainte ca ziua să se încheie la magazinul Milka și cu o cină consistentă la un han călduros.",
+            "en": "A winter driving day in Bludenz starts at the snowy Old Town car park. In the morning, explore the Upper Gate and St. Lawrence Church in the glow of frost. At noon, the museum at Gayenhof provides cozy warmth. The afternoon drive leads through the white splendor to the Muttersberg cable car for an Alpine panorama, before the day ends at the Milka shop and with a hearty dinner at a warm inn."
+          },
+          "stops": [
+            {
+              "name": "Old Town Car Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf geräumte Parkflächen.",
+                "hu": "Ügyeljen a letakarított parkolóhelyekre.",
+                "ro": "Căutați locuri de parcare curățate de zăpadă.",
+                "en": "Look for cleared parking areas."
+              }
+            },
+            {
+              "name": "Upper Gate & Old Town",
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto stehen und erkunden Sie den Kern zu Fuß.",
+                "hu": "Hagyja az autót, és fedezze fel a központot gyalog.",
+                "ro": "Lăsați mașina și explorați centrul pe jos.",
+                "en": "Leave the car and explore the core on foot."
+              }
+            },
+            {
+              "name": "St. Lawrence Parish Church",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verschneiten Dächer vom Vorplatz.",
+                "hu": "Élvezze a havas tetőkre nyíló kilátást a templomkertből.",
+                "ro": "Bucurați-vă de vederea acoperișurilor înzăpezite din curtea bisericii.",
+                "en": "Enjoy the view of the snowy roofs from the church square."
+              }
+            },
+            {
+              "name": "Gayenhof Castle & City Museum",
+              "tip_5lang": {
+                "de": "Die Zufahrt zum Schloss wird im Winter regelmäßig geräumt.",
+                "hu": "A kastélyhoz vezető utat télen rendszeresen takarítják.",
+                "ro": "Accesul către castel este curățat regulat pe timp de iarnă.",
+                "en": "Access to the castle is regularly cleared in winter."
+              }
+            },
+            {
+              "name": "Muttersberg Cable Car Valley Station",
+              "tip_5lang": {
+                "de": "Winterreifen sind für die Anfahrt zur Talstation Pflicht.",
+                "hu": "A völgyállomáshoz vezető úton kötelező a téli gumi.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pentru drumul spre stația de bază.",
+                "en": "Winter tires are mandatory for the drive to the valley station."
+              }
+            },
+            {
+              "name": "Milka Chocolate Shop",
+              "tip_5lang": {
+                "de": "Schütteln Sie den Schnee vor dem Betreten von der Kleidung.",
+                "hu": "Belépés előtt rázza le a havat a ruhájáról.",
+                "ro": "Scuturați zăpada de pe haine înainte de a intra.",
+                "en": "Shake the snow off your clothes before entering."
+              }
+            },
+            {
+              "name": "Dinner at an Inn",
+              "tip_5lang": {
+                "de": "Ein Platz am Kachelofen ist die ideale Wahl im Winter.",
+                "hu": "A cserépkályha melletti hely ideális választás télen.",
+                "ro": "Un loc lângă soba de teracotă este alegerea ideală iarna.",
+                "en": "A seat by the tiled stove is the ideal choice in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und ein Eiskratzer sind absolut notwendig.",
+              "Achten Sie auf Lawinenwarnungen bei Fahrten in die Berge.",
+              "Prüfen Sie den Ladezustand der Autobatterie bei Kälte.",
+              "Halten Sie eine Decke für Notfälle im Auto bereit."
+            ],
+            "hu": [
+              "Téli gumi és jégkaparó feltétlenül szükséges.",
+              "Ügyeljen a lavinaveszélyre a hegyi utaknál.",
+              "Hidegben ellenőrizze az autó akkumulátorának állapotát.",
+              "Tartson egy takarót az autóban vészhelyzet esetére."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și o racletă pentru gheață sunt absolut necesare.",
+              "Atenție la avertizările de avalanșă pe drumurile montane.",
+              "Verificați starea bateriei mașinii pe timp de frig.",
+              "Țineți o pătură în mașină pentru situații de urgență."
+            ],
+            "en": [
+              "Winter tires and an ice scraper are absolutely necessary.",
+              "Pay attention to avalanche warnings on mountain roads.",
+              "Check the car battery's charge in cold weather.",
+              "Keep a blanket in the car for emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1160,6 +1760,170 @@
           "Download the VVV app to see real-time schedules.",
           "Note that buses run less frequently in the evening."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Erkundungen beginnen am überdachten Busbahnhof. Vormittags führt der Rundgang durch die Altstadt mit kurzen Sprints zwischen trockenen Passagen. Mittags bringt Sie der Bus zur Muttersberg-Seilbahn, die über den Wolken meist eine eigene Atmosphäre hat. Nachmittags erreichen Sie den Milka-Laden bequem per Transit, bevor der Tag bei einem gemütlichen Abendessen in der Stadt endet.",
+            "hu": "Az esős felfedezés a fedett buszpályaudvaron indul. Délelőtt az óvárosi séta során rövid szakaszokon közlekedünk a száraz átjárók között. Délben a busz a Muttersberg-felvonóhoz visz, ami a felhők felett különleges élményt nyújt. Délután kényelmesen elérjük a Milka-boltot tömegközlekedéssel, majd a nap egy kellemes városi vacsorával zárul.",
+            "ro": "Explorările pe ploaie încep la autogara acoperită. Dimineața, turul prin centrul vechi presupune sprinturi scurte între pasaje uscate. La prânz, autobuzul vă duce la telecabina Muttersberg, care oferă o atmosferă aparte deasupra norilor. După-amiaza ajungeți confortabil la magazinul Milka cu transportul în comun, înainte ca ziua să se încheie cu o cină plăcută în oraș.",
+            "en": "Rainy explorations begin at the covered bus station. In the morning, the old town tour involves short sprints between dry passages. At noon, the bus takes you to the Muttersberg cable car, which often has its own atmosphere above the clouds. In the afternoon, you can reach the Milka shop easily by transit before the day ends with a cozy dinner in the city."
+          },
+          "stops": [
+            {
+              "name": "Bus Station/Center",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem schützenden Dach der Haltestelle.",
+                "hu": "Várjon a megálló védelmező teteje alatt.",
+                "ro": "Așteptați sub acoperișul protector al stației.",
+                "en": "Wait under the protective roof of the station."
+              }
+            },
+            {
+              "name": "Old Town Walking Tour",
+              "tip_5lang": {
+                "de": "Nutzen Sie die engen Gassen als natürlichen Windschutz.",
+                "hu": "Használja a szűk utcákat természetes szélfogóként.",
+                "ro": "Folosiți străzile înguste ca protecție naturală contra vântului.",
+                "en": "Use the narrow alleys as natural wind protection."
+              }
+            },
+            {
+              "name": "Muttersberg Cable Car Valley Station",
+              "tip_5lang": {
+                "de": "Der Bus hält oft direkt vor der Talstation der Bahn.",
+                "hu": "A busz gyakran közvetlenül a felvonó völgyállomása előtt áll meg.",
+                "ro": "Autobuzul oprește adesea chiar în fața stației de bază.",
+                "en": "The bus often stops directly in front of the cable car station."
+              }
+            },
+            {
+              "name": "Milka Chocolate Shop",
+              "tip_5lang": {
+                "de": "Die Nähe zur Bahnhaltestelle macht den Besuch sehr einfach.",
+                "hu": "A vasúti megálló közelsége nagyon egyszerűvé teszi a látogatást.",
+                "ro": "Proximitatea față de stația de tren face vizita foarte ușoară.",
+                "en": "The proximity to the train stop makes visiting very easy."
+              }
+            },
+            {
+              "name": "Dinner in the city",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant in der Nähe einer Bushaltestelle.",
+                "hu": "Válasszon éttermet egy buszmegálló közelében.",
+                "ro": "Alegeți un restaurant aproape de o stație de autobuz.",
+                "en": "Choose a restaurant close to a bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die VVV-App für Echtzeit-Infos bei Wetterverzögerungen.",
+              "Die Busse in Vorarlberg sind meist sehr pünktlich und sauber.",
+              "Kurze Umsteigezeiten sind bei Regen besonders vorteilhaft.",
+              "Ein kleiner Taschenschirm passt gut in jede Umhängetasche."
+            ],
+            "hu": [
+              "Használja a VVV alkalmazást az eső miatti késések figyelésére.",
+              "A vorarlbergi buszok általában nagyon pontosak és tiszták.",
+              "Esőben különösen előnyösek a rövid átszállási idők.",
+              "Egy kis összecsukható esernyő jól elfér minden táskában."
+            ],
+            "ro": [
+              "Folosiți aplicația VVV pentru info în timp real în caz de întârzieri.",
+              "Autobuzele din Vorarlberg sunt de obicei foarte punctuale și curate.",
+              "Timpii scurți de transfer sunt deosebit de avantajoși pe ploaie.",
+              "O umbrelă mică de buzunar încape bine în orice geantă."
+            ],
+            "en": [
+              "Use the VVV app for real-time info during weather delays.",
+              "Buses in Vorarlberg are usually very punctual and clean.",
+              "Short transfer times are especially beneficial in the rain.",
+              "A small pocket umbrella fits well in any shoulder bag."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Bludenz per Transit beginnt am frostigen Bahnhof. Vormittags erkunden Sie die Altstadt und lassen sich vom winterlichen Charme verzaubern. Mittags bringt Sie der Bus zur Muttersberg-Seilbahn für spektakuläre Ausblicke auf verschneite Täler. Nachmittags führt der Weg zum Milka-Laden, wo die Wärme und der Kakaoduft warten, bevor der Tag bei einem feinen Abendessen in der Stadt ausklingt.",
+            "hu": "A téli Bludenz tömegközlekedéssel a fagyos állomáson indul. Délelőtt az óvárost fedezzük fel, hagyva, hogy a téli báj elvarázsoljon. Délben a busz a Muttersberg-felvonóhoz visz a havas völgyekre nyíló látványért. Délután az út a Milka-boltba vezet, ahol meleg és kakaóillat vár, majd a nap egy finom városi vacsorával zárul.",
+            "ro": "Bludenzul de iarnă cu transportul în comun începe la gara înghețată. Dimineața explorați centrul vechi și vă lăsați fermecați de farmecul iernii. La prânz, autobuzul vă duce la telecabina Muttersberg pentru vederi spectaculoase asupra văilor înzăpezite. După-amiaza drumul duce la magazinul Milka, unde vă așteaptă căldura și mirosul de cacao, înainte ca ziua să se încheie cu o cină fină în oraș.",
+            "en": "Wintery Bludenz by transit starts at the frosty station. In the morning, explore the old town and let yourself be enchanted by its winter charm. At noon, the bus takes you to the Muttersberg cable car for spectacular views of snowy valleys. In the afternoon, the path leads to the Milka shop, where warmth and the smell of cocoa await, before the day ends with a fine dinner in the city."
+          },
+          "stops": [
+            {
+              "name": "Bus Station/Center",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet beheizte Wartemöglichkeiten.",
+                "hu": "Az állomás fűtött várótermet kínál.",
+                "ro": "Gara oferă spații de așteptare încălzite.",
+                "en": "The station offers heated waiting areas."
+              }
+            },
+            {
+              "name": "Old Town Walking Tour",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Weihnachtsbeleuchtung in der Dämmerung.",
+                "hu": "Csodálja meg a karácsonyi kivilágítást a szürkületben.",
+                "ro": "Admirați iluminatul de Crăciun la amurg.",
+                "en": "Admire the Christmas lights at dusk."
+              }
+            },
+            {
+              "name": "Muttersberg Cable Car Valley Station",
+              "tip_5lang": {
+                "de": "Im Winter verkehren die Busse oft mit Skihaltern.",
+                "hu": "Télen a buszok gyakran sítárolóval közlekednek.",
+                "ro": "Iarna, autobuzele circulă adesea cu suporturi pentru schiuri.",
+                "en": "In winter, buses often operate with ski racks."
+              }
+            },
+            {
+              "name": "Milka Chocolate Shop",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre im Ladeninneren.",
+                "hu": "Élvezze a bolt belső terének hangulatos légkörét.",
+                "ro": "Bucurați-vă de atmosfera primitoare din interiorul magazinului.",
+                "en": "Enjoy the cozy atmosphere inside the shop."
+              }
+            },
+            {
+              "name": "Dinner in the city",
+              "tip_5lang": {
+                "de": "Die letzte Fahrt des Abends ist oft weniger frequentiert.",
+                "hu": "Az este utolsó járatai gyakran kevésbé zsúfoltak.",
+                "ro": "Ultima cursă a serii este adesea mai puțin aglomerată.",
+                "en": "The last run of the evening is often less crowded."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Schuhe für die Wartezeiten an Haltestellen.",
+              "Achten Sie auf geänderte Fahrpläne an Feiertagen im Winter.",
+              "Die Busse sind gut beheizt und bieten eine Pause vom Frost.",
+              "Planen Sie etwas Pufferzeit bei starkem Schneefall ein."
+            ],
+            "hu": [
+              "Viseljen meleg cipőt a megállókban való várakozáshoz.",
+              "Ügyeljen a téli ünnepek alatti módosult menetrendekre.",
+              "A buszok jól fűtöttek, és pihenőt nyújtanak a fagytól.",
+              "Erős havazás esetén tervezzen be némi pufferidőt."
+            ],
+            "ro": [
+              "Purtați încălțăminte călduroasă pentru timpul de așteptare în stații.",
+              "Atenție la orarele modificate în timpul sărbătorilor de iarnă.",
+              "Autobuzele sunt bine încălzite și oferă o pauză de la ger.",
+              "Prevedeți o marjă de timp în caz de ninsori abundente."
+            ],
+            "en": [
+              "Wear warm shoes for waiting times at the stops.",
+              "Pay attention to modified schedules during winter holidays.",
+              "The buses are well heated and offer a break from the frost.",
+              "Plan some buffer time in case of heavy snowfall."
+            ]
+          }
+        }
       }
     }
   }

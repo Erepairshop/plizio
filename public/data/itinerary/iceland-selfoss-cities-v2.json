@@ -386,6 +386,206 @@
           "Most places accept credit cards, but it's always good to have some cash for small purchases.",
           "Take advantage of the long summer days for extra evening walks."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt im neuen Stadtzentrum von Selfoss, wo die rekonstruierten historischen Gebäude Schutz vor dem isländischen Regen bieten. Mittags erkunden wir die Skyr-Tradition in der Skyrgerðin und die moderne Architektur der Kirche. Am Nachmittag bietet das Bobby Fischer Center ein trockenes Refugium für Schachbegeisterte. Der Abend endet gemütlich in einem der warmen lokalen Restaurants.",
+            "hu": "A nap Selfoss új belvárosában indul, ahol a rekonstruált történelmi épületek menedéket nyújtanak az izlandi eső elől. Délben a skyr-hagyományokkal és a modern templommal ismerkedünk. Délután a Bobby Fischer Központ kínál száraz és izgalmas menedéket a sakkrajongóknak. Az este meghitt hangulatban, a központ egyik meleg éttermében zárul, távol a kinti széltől.",
+            "ro": "Ziua începe în noul centru al orașului Selfoss, unde clădirile istorice reconstruite oferă adăpost împotriva ploii islandeze. La prânz explorăm tradiția Skyr și arhitectura modernă a bisericii. După-amiaza, Centrul Bobby Fischer oferă un refugiu uscat pentru pasionații de șah. Seara se încheie confortabil într-unul dintre restaurantele locale călduroase.",
+            "en": "The day starts in the new Selfoss city center, where reconstructed historical buildings provide shelter from the Icelandic rain. At noon, we explore Skyr traditions and the modern church architecture. In the afternoon, the Bobby Fischer Center offers a dry and engaging haven for chess enthusiasts. The evening ends cozily in one of the warm local restaurants, away from the wet weather."
+          },
+          "stops": [
+            {
+              "name": "Old Town Selfoss",
+              "tip_5lang": {
+                "de": "Die neuen Passagen bieten guten Schutz vor Regenschauern.",
+                "hu": "Az új passzázsok jó védelmet nyújtanak a záporok ellen.",
+                "ro": "Pasajele noi oferă o protecție bună împotriva ploii.",
+                "en": "The new passages offer good protection against rain showers."
+              }
+            },
+            {
+              "name": "Tryggvaskáli",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Kaffee im ältesten Haus des Ortes.",
+                "hu": "Élvezzen egy forró kávét a település legrégebbi házában.",
+                "ro": "Savurați o cafea fierbinte în cea mai veche casă din oraș.",
+                "en": "Enjoy a hot coffee in the oldest house in town."
+              }
+            },
+            {
+              "name": "Skyrgerðin",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine längere Mittagspause im Trockenen.",
+                "hu": "Tökéletes hely egy hosszabb, száraz ebédszünethez.",
+                "ro": "Locul perfect pentru o pauză de prânz prelungită la adăpost.",
+                "en": "Perfect place for a long, dry lunch break."
+              }
+            },
+            {
+              "name": "Selfosskirkja",
+              "tip_5lang": {
+                "de": "Der Innenraum ist schlicht, modern und wunderbar ruhig.",
+                "hu": "A belső tér egyszerű, modern és csodálatosan nyugodt.",
+                "ro": "Interiorul este simplu, modern și minunat de liniștit.",
+                "en": "The interior is simple, modern, and wonderfully quiet."
+              }
+            },
+            {
+              "name": "Ölfusá Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht, der Gehweg kann bei Regen sehr rutschig sein.",
+                "hu": "Vigyázat, a gyalogút esőben nagyon csúszós lehet.",
+                "ro": "Atenție, trotuarul poate fi foarte alunecos pe ploaie.",
+                "en": "Careful, the walkway can be very slippery in the rain."
+              }
+            },
+            {
+              "name": "Bobby Fischer Center",
+              "tip_5lang": {
+                "de": "Ideales Ziel, wenn der Regen draußen stärker wird.",
+                "hu": "Ideális úti cél, ha odakint felerősödik az eső.",
+                "ro": "Destinație ideală dacă ploaia se intensifică afară.",
+                "en": "Ideal destination if the rain intensifies outside."
+              }
+            },
+            {
+              "name": "Hellisskógur Forest",
+              "tip_5lang": {
+                "de": "Die Bäume bieten einen gewissen Schutz vor Wind und Nieselregen.",
+                "hu": "A fák bizonyos védelmet nyújtanak a szél és a szemerkélő eső ellen.",
+                "ro": "Copacii oferă o oarecare protecție împotriva vântului și burniței.",
+                "en": "The trees offer some protection against wind and drizzle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie unbedingt eine wind- und wasserdichte Schale.",
+              "Die neue Altstadt hat viele überdachte Bereiche.",
+              "Nutzen Sie die Museen für längere Regenphasen.",
+              "Gute Wanderschuhe sind auf dem nassen Waldboden Pflicht."
+            ],
+            "hu": [
+              "Feltétlenül viseljen szél- és vízálló külső réteget.",
+              "Az új óváros sok fedett résszel rendelkezik.",
+              "Használja ki a múzeumokat a hosszabb esős időszakokban.",
+              "A vizes erdei talajon kötelező a jó túrabakancs."
+            ],
+            "ro": [
+              "Purtați neapărat o jachetă rezistentă la vânt și apă.",
+              "Centrul vechi nou are multe zone acoperite.",
+              "Vizitați muzeele în timpul perioadelor lungi de ploaie.",
+              "Încălțămintea de drumeție bună este obligatorie pe solul umed din pădure."
+            ],
+            "en": [
+              "Be sure to wear a windproof and waterproof outer shell.",
+              "The new old town has many covered areas.",
+              "Take advantage of museums during longer rainy spells.",
+              "Good hiking boots are mandatory on the wet forest ground."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Selfoss verwandelt sich im Winter in eine frostige Märchenlandschaft. Am Morgen glitzert der Raureif auf den historischen Fassaden der Altstadt. Mittags wärmen wir uns bei einer heißen Suppe auf, bevor wir die schneebedeckte Kirche besuchen. Da die Sonne früh untergeht, nutzen wir das goldene Licht am Flussufer, bevor wir uns in den gemütlichen Bobby-Fischer-Zentrum zurückziehen.",
+            "hu": "Selfoss télen fagyos meseországgá változik. Reggel zúzmara csillog az óváros történelmi homlokzatain. Délben forró levessel melegszünk fel, mielőtt meglátogatnánk a hóval borított templomot. Mivel a nap korán nyugszik, kihasználjuk az aranyló fényeket a folyóparton, majd visszahúzódunk a hangulatos Bobby Fischer Központba.",
+            "ro": "Selfoss se transformă iarna într-un peisaj de basm înghețat. Dimineața, promoroaca strălucește pe fațadele istorice ale centrului vechi. La prânz ne încălzim cu o supă fierbinte înainte de a vizita biserica acoperită de zăpadă. Deoarece soarele apune devreme, profităm de lumina aurie de pe malul râului înainte de a ne retrage la Centrul Bobby Fischer.",
+            "en": "Selfoss transforms into a frosty fairytale landscape in winter. In the morning, hoarfrost glistens on the historical facades of the old town. At noon, we warm up with hot soup before visiting the snow-covered church. As the sun sets early, we take advantage of the golden light by the riverbank before retreating to the cozy Bobby Fischer Center."
+          },
+          "stops": [
+            {
+              "name": "Old Town Selfoss",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Kopfsteinpflaster.",
+                "hu": "Ügyeljen a jeges foltokra a macskaköveken.",
+                "ro": "Atenție la porțiunile înghețate de pe pavaj.",
+                "en": "Watch out for icy patches on the cobblestones."
+              }
+            },
+            {
+              "name": "Tryggvaskáli",
+              "tip_5lang": {
+                "de": "Hinter den dicken Holzwänden ist es herrlich warm.",
+                "hu": "A vastag fafalak mögött csodálatos meleg van.",
+                "ro": "Este minunat de cald în spatele pereților groși de lemn.",
+                "en": "It is wonderfully warm behind the thick wooden walls."
+              }
+            },
+            {
+              "name": "Skyrgerðin",
+              "tip_5lang": {
+                "de": "Probieren Sie das warme Skyr-Dessert zur Stärkung.",
+                "hu": "Kóstolja meg a meleg skyr-desszertet az erőgyűjtéshez.",
+                "ro": "Încercați desertul cald cu Skyr pentru energie.",
+                "en": "Try the warm Skyr dessert for an energy boost."
+              }
+            },
+            {
+              "name": "Selfosskirkja",
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort für eine kurze Aufwärmpause.",
+                "hu": "Békés hely egy rövid felmelegedési szünethez.",
+                "ro": "Un loc liniștit pentru o scurtă pauză de încălzire.",
+                "en": "A peaceful place for a short warm-up break."
+              }
+            },
+            {
+              "name": "Ölfusá Bridge",
+              "tip_5lang": {
+                "de": "Der Wind über dem Fluss kann im Winter schneidend kalt sein.",
+                "hu": "A folyó feletti szél télen metszően hideg lehet.",
+                "ro": "Vântul de peste râu poate fi tăios de rece iarna.",
+                "en": "The wind over the river can be piercingly cold in winter."
+              }
+            },
+            {
+              "name": "Bobby Fischer Center",
+              "tip_5lang": {
+                "de": "Perfekt, um die dunkelsten Stunden am Nachmittag zu verbringen.",
+                "hu": "Tökéletes a délutáni legsötétebb órák eltöltéséhez.",
+                "ro": "Perfect pentru a petrece cele mai întunecate ore ale după-amiezii.",
+                "en": "Perfect for spending the darkest hours of the afternoon."
+              }
+            },
+            {
+              "name": "Hellisskógur Forest",
+              "tip_5lang": {
+                "de": "Die verschneiten Wege wirken wie aus einem Film.",
+                "hu": "A havas utak olyanok, mintha egy filmből léptek volna elő.",
+                "ro": "Potecile înzăpezite par desprinse dintr-un film.",
+                "en": "The snowy paths look like something out of a movie."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikes für die Schuhe sind bei Glatteis sehr ratsam.",
+              "Die Sonne geht im Dezember bereits gegen 15:30 Uhr unter.",
+              "Tragen Sie Thermounterwäsche und eine warme Mütze.",
+              "In Island gibt es kein schlechtes Wetter, nur falsche Kleidung."
+            ],
+            "hu": [
+              "Jegesedés esetén cipőre csatolható csúszásgátló javasolt.",
+              "Decemberben a nap már 15:30 körül lenyugszik.",
+              "Viseljen termikus fehérneműt és meleg sapkát.",
+              "Izlandon nincs rossz idő, csak rossz ruházat."
+            ],
+            "ro": [
+              "Crampoanele pentru pantofi sunt recomandate pe polei.",
+              "Soarele apune deja în jurul orei 15:30 în decembrie.",
+              "Purtați lenjerie termică și o căciulă călduroasă.",
+              "În Islanda nu există vreme rea, ci doar haine nepotrivite."
+            ],
+            "en": [
+              "Shoe spikes are highly recommended during icy conditions.",
+              "The sun sets as early as 15:30 in December.",
+              "Wear thermal underwear and a warm hat.",
+              "In Iceland, there is no bad weather, only bad clothing."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +966,206 @@
           "Take water and snacks for the longer ride.",
           "Be aware of the wind, which can be a major factor in Iceland."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist Selfoss mit dem Fahrrad gut zu erkunden, wenn man die richtige Ausrüstung hat. Wir starten in der Altstadt und radeln über die Ölfusá-Brücke, wobei wir den Blick auf die tosenden Wassermassen genießen. Mittags bietet die Kirche einen ruhigen Rückzugsort. Der Nachmittag führt uns in den Wald von Hellisskógur, wo das Blätterdach den stärksten Regen abhält.",
+            "hu": "Az eső ellenére Selfoss kerékpárral is jól felfedezhető a megfelelő felszereléssel. Az óvárosból indulunk, és áttekerünk az Ölfusá-hídon, élvezve a zúgó víztömeg látványát. Délben a templom nyújt nyugodt menedéket. A délután a Hellisskógur erdőbe vezet, ahol a lombok felfogják a legerősebb esőt.",
+            "ro": "În ciuda ploii, Selfoss poate fi explorat bine cu bicicleta dacă aveți echipamentul potrivit. Începem din centrul vechi și pedalăm peste podul Ölfusá, bucurându-ne de vederea maselor de apă învolburate. La prânz, biserica oferă un refugiu liniștit. După-amiaza ne conduce în pădurea Hellisskógur, unde coronamentul copacilor oprește cea mai mare parte a ploii.",
+            "en": "Despite the rain, Selfoss is easily explored by bike with the right gear. We start in the old town and cycle across the Ölfusá bridge, enjoying the view of the churning water. At noon, the church provides a quiet retreat. The afternoon leads us to the Hellisskógur forest, where the canopy shields us from the heaviest rain."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Old Town",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Fahrrad mit Schutzblechen.",
+                "hu": "Kérjen sárvédővel felszerelt kerékpárt.",
+                "ro": "Cereți o bicicletă cu aripi de protecție.",
+                "en": "Ask for a bike with fenders."
+              }
+            },
+            {
+              "name": "Ölfusá Bridge",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig, Metallfugen können bei Nässe rutschig sein.",
+                "hu": "Hajtson óvatosan, a fém illesztések nedvesen csúszhatnak.",
+                "ro": "Conduceți cu prudență, rosturile metalice pot fi alunecoase când sunt ude.",
+                "en": "Ride carefully, metal joints can be slippery when wet."
+              }
+            },
+            {
+              "name": "Selfosskirkja",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach ab.",
+                "hu": "Támassza le kerékpárját az előtető alatt.",
+                "ro": "Parcați bicicleta sub copertină.",
+                "en": "Park your bike under the overhang."
+              }
+            },
+            {
+              "name": "Bobby Fischer Center",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, um die Regenkleidung kurz zu lüften.",
+                "hu": "Jó alkalom az esőruházat rövid szellőztetésére.",
+                "ro": "O oportunitate bună de a aerisi scurt hainele de ploaie.",
+                "en": "Good opportunity to briefly air out your rain gear."
+              }
+            },
+            {
+              "name": "Hellisskógur Forest",
+              "tip_5lang": {
+                "de": "Die befestigten Wege sind auch bei Regen gut befahrbar.",
+                "hu": "A burkolt utak esőben is jól járhatók.",
+                "ro": "Potecile pavate sunt ușor de parcurs chiar și pe ploaie.",
+                "en": "The paved paths are easy to ride even in the rain."
+              }
+            },
+            {
+              "name": "Along the bank towards Ingólfsfjall",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen am Wegrand.",
+                "hu": "Vigyázzon az útmenti mély tócsákkal.",
+                "ro": "Atenție la bălțile adânci de pe marginea drumului.",
+                "en": "Watch out for deep puddles on the roadside."
+              }
+            },
+            {
+              "name": "Back to the Old Town",
+              "tip_5lang": {
+                "de": "Gönnen Sie sich ein warmes Getränk zum Abschluss.",
+                "hu": "Jutalmazza meg magát egy meleg itallal a végén.",
+                "ro": "Răsfățați-vă cu o băutură caldă la final.",
+                "en": "Treat yourself to a warm drink at the end."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenmontur (Hose und Jacke) wird empfohlen.",
+              "Vermeiden Sie abruptes Bremsen auf nassem Asphalt.",
+              "Ein kleiner Rucksacküberzug hält Ihre Sachen trocken.",
+              "Planen Sie mehr Zeit für die Bremswege ein."
+            ],
+            "hu": [
+              "Teljes esőfelszerelés (nadrág és kabát) ajánlott.",
+              "Kerülje a hirtelen fékezést a nedves aszfalton.",
+              "Egy kis hátizsák-huzat szárazon tartja a dolgait.",
+              "Számoljon hosszabb fékúttal."
+            ],
+            "ro": [
+              "Se recomandă costum complet de ploaie (pantaloni și jachetă).",
+              "Evitați frânarea bruscă pe asfaltul umed.",
+              "O husă mică pentru rucsac vă menține lucrurile uscate.",
+              "Prevedeți mai mult timp pentru distanțele de frânare."
+            ],
+            "en": [
+              "Full rain gear (pants and jacket) is recommended.",
+              "Avoid sudden braking on wet asphalt.",
+              "A small backpack cover will keep your things dry.",
+              "Allow more time for braking distances."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Selfoss ist ein Abenteuer für Mutige. Wir starten mit einer kurzen Tour durch die festlich beleuchtete Altstadt. Mittags wärmen wir uns in den Museen auf, während das Fahrrad draußen im Schnee wartet. Da die Lichtverhältnisse begrenzt sind, konzentrieren wir uns auf die gut beleuchteten Wege im Zentrum und am Flussufer, bevor es dunkel wird.",
+            "hu": "A téli kerékpározás Selfossban a bátrak kalandja. Az ünnepi fényekbe öltözött óvárosban kezdünk egy rövid körrel. Délben a múzeumokban melegszünk fel, miközben a kerékpár odakint vár a hóban. Mivel a fényviszonyok korlátozottak, a jól megvilágított központi és folyóparti utakra összpontosítunk, mielőtt besötétedik.",
+            "ro": "Ciclismul de iarnă în Selfoss este o aventură pentru cei curajoși. Începem cu un tur scurt prin centrul vechi iluminat festiv. La prânz ne încălzim în muzee, în timp ce bicicleta așteaptă afară în zăpadă. Deoarece lumina este limitată, ne concentrăm pe pistele bine iluminate din centru și de pe malul râului înainte de lăsarea întunericului.",
+            "en": "Winter cycling in Selfoss is an adventure for the brave. We start with a short tour through the festively lit old town. At noon, we warm up in the museums while the bike waits outside in the snow. As light is limited, we focus on the well-lit paths in the center and along the riverbank before it gets dark."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Old Town",
+              "tip_5lang": {
+                "de": "Fragen Sie nach Winterreifen oder Spikes.",
+                "hu": "Kérjen téli gumit vagy szöges gumit.",
+                "ro": "Cereți anvelope de iarnă sau cu ținte.",
+                "en": "Ask for winter tires or studded tires."
+              }
+            },
+            {
+              "name": "Ölfusá Bridge",
+              "tip_5lang": {
+                "de": "Hier kann es durch den Wind extrem glatt sein.",
+                "hu": "Itt a szél miatt rendkívül csúszós lehet az út.",
+                "ro": "Aici poate fi extrem de alunecos din cauza vântului.",
+                "en": "It can be extremely slippery here due to the wind."
+              }
+            },
+            {
+              "name": "Selfosskirkja",
+              "tip_5lang": {
+                "de": "Die weiße Fassade verschmilzt fast mit dem Schnee.",
+                "hu": "A fehér homlokzat szinte eggyé válik a hóval.",
+                "ro": "Fațada albă se confundă aproape cu zăpada.",
+                "en": "The white facade almost merges with the snow."
+              }
+            },
+            {
+              "name": "Bobby Fischer Center",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Schloss nicht einfriert.",
+                "hu": "Győződjön meg róla, hogy a lakatja nem fagy be.",
+                "ro": "Asigurați-vă că nu vă îngheață încuietoarea.",
+                "en": "Make sure your lock doesn't freeze."
+              }
+            },
+            {
+              "name": "Hellisskógur Forest",
+              "tip_5lang": {
+                "de": "Fahren Sie nur auf den geräumten Hauptwegen.",
+                "hu": "Csak a letakarított főutakon közlekedjen.",
+                "ro": "Mergeți doar pe pistele principale deszăpezite.",
+                "en": "Ride only on the cleared main paths."
+              }
+            },
+            {
+              "name": "Along the bank towards Ingólfsfjall",
+              "tip_5lang": {
+                "de": "Achten Sie auf die heraufziehende Dämmerung.",
+                "hu": "Ügyeljen a közeledő szürkületre.",
+                "ro": "Atenție la amurgul care se apropie.",
+                "en": "Watch out for the gathering dusk."
+              }
+            },
+            {
+              "name": "Back to the Old Town",
+              "tip_5lang": {
+                "de": "Die Weihnachtsbeleuchtung sorgt für tolle Stimmung.",
+                "hu": "A karácsonyi kivilágítás nagyszerű hangulatot áraszt.",
+                "ro": "Iluminatul de Crăciun creează o atmosferă grozavă.",
+                "en": "The Christmas lights create a great atmosphere."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und eine Gesichtsmaske sind Pflicht.",
+              "Stellen Sie sicher, dass Ihre Beleuchtung einwandfrei funktioniert.",
+              "Fahren Sie defensiv, Bremswege auf Eis sind unberechenbar.",
+              "Vermeiden Sie Fahrten bei starkem Schneefall oder Sturm."
+            ],
+            "hu": [
+              "A meleg kesztyű és az arcmaszk kötelező.",
+              "Győződjön meg róla, hogy a világítása tökéletesen működik.",
+              "Vezessen defenzíven, a fékút jégen kiszámíthatatlan.",
+              "Kerülje a közlekedést erős hóesésben vagy viharban."
+            ],
+            "ro": [
+              "Mănușile călduroase și o mască de față sunt obligatorii.",
+              "Asigurați-vă că luminile funcționează impecabil.",
+              "Conduceți defensiv, distanțele de frânare pe gheață sunt imprevizibile.",
+              "Evitați deplasarea în timpul ninsorilor abundente sau furtunilor."
+            ],
+            "en": [
+              "Warm gloves and a face mask are mandatory.",
+              "Ensure your lights are working perfectly.",
+              "Ride defensively, braking distances on ice are unpredictable.",
+              "Avoid riding during heavy snowfall or storms."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1146,6 +1546,206 @@
           "Speed limits in Iceland are strict and fines are high. Drive carefully.",
           "A car gives you the freedom to stop spontaneously at scenic spots."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Selfoss bei Regen besonders komfortabel. Wir beginnen mit einem Ausflug zum Hellisskógur, wo wir die frische Waldluft genießen, ohne nass zu werden. Mittags parken wir direkt im Zentrum, um die Museen und Cafés der Altstadt zu besuchen. Ein Abstecher zum Ingólfsfjall bietet dramatische Ausblicke auf die wolkenverhangenen Berge, bevor wir den Tag kulinarisch abrunden.",
+            "hu": "Autóval Selfoss esőben is különösen kényelmes. A Hellisskógurnál kezdünk, ahol élvezzük a friss erdei levegőt anélkül, hogy eláznánk. Délben közvetlenül a központban parkolunk, hogy meglátogassuk az óváros múzeumait és kávézóit. Egy kitérő az Ingólfsfjallhoz drámai kilátást nyújt a felhőkbe burkolózó hegyekre, mielőtt gasztronómiai élményekkel zárnánk a napot.",
+            "ro": "Cu mașina, Selfoss este deosebit de confortabil pe ploaie. Începem cu o excursie la Hellisskógur, unde ne bucurăm de aerul proaspăt de pădure fără să ne udăm. La prânz parcăm direct în centru pentru a vizita muzeele și cafenelele din centrul vechi. O abatere spre Ingólfsfjall oferă priveliști dramatice ale munților acoperiți de nori înainte de a încheia ziua culinar.",
+            "en": "By car, Selfoss is especially comfortable in the rain. We start with a trip to Hellisskógur, where we enjoy the fresh forest air without getting soaked. At noon, we park right in the center to visit the museums and cafes of the old town. A detour to Ingólfsfjall offers dramatic views of the cloud-covered mountains before we round off the day with a culinary treat."
+          },
+          "stops": [
+            {
+              "name": "Parking at Hellisskógur",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz in den geschützten Wald.",
+                "hu": "Rövid út a parkolótól a védett erdőig.",
+                "ro": "Distanțe scurte de la parcare până în pădurea protejată.",
+                "en": "Short walk from the parking lot into the sheltered forest."
+              }
+            },
+            {
+              "name": "Drive and Park in the Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkplätze nah an den Gebäuden.",
+                "hu": "Használja az épületekhez közeli parkolókat.",
+                "ro": "Folosiți locurile de parcare apropiate de clădiri.",
+                "en": "Use parking spaces close to the buildings."
+              }
+            },
+            {
+              "name": "Old Town, Tryggvaskáli & Skyrgerðin",
+              "tip_5lang": {
+                "de": "Alle Ziele liegen hier eng beieinander.",
+                "hu": "Itt minden úti cél közel van egymáshoz.",
+                "ro": "Toate destinațiile sunt aproape una de alta aici.",
+                "en": "All destinations are close to each other here."
+              }
+            },
+            {
+              "name": "Selfosskirkja & Ölfusá Bridge",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Fluss aus dem trockenen Auto.",
+                "hu": "Élvezze a folyóra nyíló kilátást a száraz autóból.",
+                "ro": "Bucurați-vă de vederea râului din mașina uscată.",
+                "en": "Enjoy the view of the river from the dry car."
+              }
+            },
+            {
+              "name": "Bobby Fischer Center",
+              "tip_5lang": {
+                "de": "Ausreichend Parkplätze direkt vor dem Museum.",
+                "hu": "Elegendő parkolóhely közvetlenül a múzeum előtt.",
+                "ro": "Locuri de parcare suficiente direct în fața muzeului.",
+                "en": "Ample parking directly in front of the museum."
+              }
+            },
+            {
+              "name": "Drive to Ingólfsfjall Mountain",
+              "tip_5lang": {
+                "de": "Vorsicht bei starkem Wind auf der offenen Straße.",
+                "hu": "Vigyázzon az erős széllel a nyílt úton.",
+                "ro": "Atenție la vântul puternic pe drumul deschis.",
+                "en": "Watch out for strong winds on the open road."
+              }
+            },
+            {
+              "name": "Return to Center for Dinner",
+              "tip_5lang": {
+                "de": "Ein schöner Abschluss im Warmen.",
+                "hu": "Szép befejezés a melegben.",
+                "ro": "Un final frumos la căldură.",
+                "en": "A nice ending in the warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning bei starken Regenfällen.",
+              "Behalten Sie den Wetterbericht (vedur.is) im Auge.",
+              "Halten Sie die Scheinwerfer sauber für bessere Sicht.",
+              "Regenschirm griffbereit im Auto aufbewahren."
+            ],
+            "hu": [
+              "Heves esőzéskor ügyeljen a vízre való felúszásra (aquaplaning).",
+              "Kísérje figyelemmel az időjárás-jelentést (vedur.is).",
+              "Tartsa tisztán a fényszórókat a jobb láthatóság érdekében.",
+              "Tartson kéznél esernyőt az autóban."
+            ],
+            "ro": [
+              "Atenție la acvaplanare în timpul ploilor torențiale.",
+              "Urmăriți prognoza meteo (vedur.is).",
+              "Păstrați farurile curate pentru o vizibilitate mai bună.",
+              "Țineți o umbrelă la îndemână în mașină."
+            ],
+            "en": [
+              "Watch out for aquaplaning during heavy rain.",
+              "Keep an eye on the weather forecast (vedur.is).",
+              "Keep your headlights clean for better visibility.",
+              "Keep an umbrella handy in the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winter-Roadtrip durch Selfoss erfordert Vorsicht, bietet aber unvergessliche Aussichten. Wir starten im verschneiten Hellisskógur, bevor wir ins Stadtzentrum fahren. Die Museen bieten ideale Pausen von der Kälte. Ein Highlight ist die Fahrt zum Ingólfsfjall in der blauen Stunde, wenn der Berg mystisch im fahlen Licht leuchtet, bevor wir uns zum Abendessen ins gemütliche Zentrum begeben.",
+            "hu": "Egy téli autós túra Selfossban óvatosságot igényel, de felejthetetlen látványt nyújt. A havas Hellisskógurnál kezdünk, majd a városközpontba hajtunk. A múzeumok ideális pihenőt jelentenek a hideg elől. Különleges élmény az út az Ingólfsfjallhoz a kék órában, amikor a hegy misztikusan ragyog a halvány fényben, mielőtt vacsorázni indulnánk a hangulatos központba.",
+            "ro": "O călătorie cu mașina iarna prin Selfoss necesită prudență, dar oferă priveliști de neuitat. Începem în Hellisskógur înzăpezit înainte de a merge în centrul orașului. Muzeele oferă pauze ideale de la frig. Un punct culminant este drumul spre Ingólfsfjall în ora albastră, când muntele strălucește mistic în lumina palidă, înainte de a merge la cină în centrul primitor.",
+            "en": "A winter road trip through Selfoss requires caution but offers unforgettable views. We start in snowy Hellisskógur before driving to the city center. The museums provide ideal breaks from the cold. A highlight is the drive to Ingólfsfjall during the blue hour, when the mountain glows mystically in the pale light, before heading to dinner in the cozy center."
+          },
+          "stops": [
+            {
+              "name": "Parking at Hellisskógur",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Mietwagen Winterreifen hat.",
+                "hu": "Győződjön meg róla, hogy bérautója téli gumival van felszerelve.",
+                "ro": "Asigurați-vă că mașina închiriată are anvelope de iarnă.",
+                "en": "Make sure your rental car has winter tires."
+              }
+            },
+            {
+              "name": "Drive and Park in the Center",
+              "tip_5lang": {
+                "de": "Vorsicht, Parkplätze können vereist oder nicht geräumt sein.",
+                "hu": "Vigyázat, a parkolók jegesek vagy takarítatlanok lehetnek.",
+                "ro": "Atenție, parcările pot fi înghețate sau nedeszăpezite.",
+                "en": "Careful, parking lots can be icy or not cleared."
+              }
+            },
+            {
+              "name": "Old Town, Tryggvaskáli & Skyrgerðin",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast von Kälte draußen und Wärme drinnen.",
+                "hu": "Élvezze a kinti hideg és a benti meleg kontrasztját.",
+                "ro": "Bucurați-vă de contrastul dintre frigul de afară și căldura din interior.",
+                "en": "Enjoy the contrast between the cold outside and the warmth inside."
+              }
+            },
+            {
+              "name": "Selfosskirkja & Ölfusá Bridge",
+              "tip_5lang": {
+                "de": "Die Brücke ist bei Eiswind oft eine Herausforderung.",
+                "hu": "A híd jeges szélben gyakran kihívást jelent.",
+                "ro": "Podul este adesea o provocare în vântul înghețat.",
+                "en": "The bridge is often a challenge in icy winds."
+              }
+            },
+            {
+              "name": "Bobby Fischer Center",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich hier gut auf, bevor es weitergeht.",
+                "hu": "Melegedjen fel itt alaposan, mielőtt továbbmenne.",
+                "ro": "Încălziți-vă bine aici înainte de a continua.",
+                "en": "Warm up well here before moving on."
+              }
+            },
+            {
+              "name": "Drive to Ingólfsfjall Mountain",
+              "tip_5lang": {
+                "de": "Fahren Sie nur bei guter Sicht und geräumten Straßen.",
+                "hu": "Csak jó látási viszonyok és letakarított utak esetén induljon el.",
+                "ro": "Conduceți doar în condiții de vizibilitate bună și drumuri deszăpezite.",
+                "en": "Drive only in good visibility and on cleared roads."
+              }
+            },
+            {
+              "name": "Return to Center for Dinner",
+              "tip_5lang": {
+                "de": "Parken Sie an einem gut beleuchteten Ort.",
+                "hu": "Parkoljon jól megvilágított helyen.",
+                "ro": "Parcați într-un loc bine iluminat.",
+                "en": "Park in a well-lit place."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie immer road.is vor jeder Fahrt.",
+              "Führen Sie einen Eiskratzer und eine Schneeschaufel mit.",
+              "Ein Allradantrieb (4x4) ist im isländischen Winter sehr empfohlen.",
+              "Halten Sie den Tank immer mindestens halb voll."
+            ],
+            "hu": [
+              "Minden indulás előtt ellenőrizze a road.is oldalt.",
+              "Legyen az autóban jégkaparó és hólapát.",
+              "Az összkerékhajtás (4x4) erősen ajánlott az izlandi télben.",
+              "Tartsa az üzemanyagtartályt legalább félig tele."
+            ],
+            "ro": [
+              "Verificați întotdeauna road.is înainte de fiecare cursă.",
+              "Aveți la voi o racletă pentru gheață și o lopată de zăpadă.",
+              "Tracțiunea integrală (4x4) este foarte recomandată în iarna islandeză.",
+              "Păstrați rezervorul de combustibil cel puțin pe jumătate plin."
+            ],
+            "en": [
+              "Always check road.is before every drive.",
+              "Carry an ice scraper and a snow shovel.",
+              "Four-wheel drive (4x4) is highly recommended in the Icelandic winter.",
+              "Always keep the fuel tank at least half full."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1502,6 +2102,188 @@
           "Most buses are accessible, but check in advance if needed.",
           "Wave to the bus driver to ensure they stop at your stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Bus bietet an regnerischen Tagen in Selfoss eine trockene Basis. Wir starten an der zentralen Haltestelle und erkunden die kompakte Altstadt. Mittags bündeln wir den Besuch von Kirche und Brücke, um die Zeit im Regen zu minimieren. Ein kurzer Sprung mit dem Bus bringt uns zum Waldrand von Hellisskógur, bevor wir zum Abendessen ins Zentrum zurückkehren.",
+            "hu": "A busz esős napokon száraz bázist nyújt Selfossban. A központi megállónál kezdünk, és felfedezzük a kompakt óvárost. Délben összevonjuk a templom és a híd meglátogatását, hogy minimálisra csökkentsük az esőben töltött időt. Egy rövid buszos ugrás a Hellisskógur erdő széléhez visz minket, mielőtt visszatérnénk vacsorázni a központba.",
+            "ro": "Autobuzul oferă o bază uscată în zilele ploioase din Selfoss. Începem de la stația centrală și explorăm centrul vechi compact. La prânz grupăm vizita la biserică și pod pentru a minimiza timpul petrecut în ploaie. O scurtă călătorie cu autobuzul ne duce la marginea pădurii Hellisskógur înainte de a ne întoarce în centru pentru cină.",
+            "en": "The bus provides a dry base on rainy days in Selfoss. We start at the central stop and explore the compact old town. At noon, we group the visit to the church and bridge to minimize time spent in the rain. A short bus ride takes us to the edge of Hellisskógur forest before we return to the center for dinner."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Central Bus Stop",
+              "tip_5lang": {
+                "de": "Warten Sie im Unterstand, falls es stark regnet.",
+                "hu": "Várjon a váróban, ha hevesen esik az eső.",
+                "ro": "Așteptați în adăpost dacă plouă torențial.",
+                "en": "Wait in the shelter if it's raining heavily."
+              }
+            },
+            {
+              "name": "Old Town Cluster: Tryggvaskáli & Skyrgerðin",
+              "tip_5lang": {
+                "de": "Alle Ziele sind nur einen kurzen Sprint entfernt.",
+                "hu": "Minden úti cél csak egy rövid vágta távolságra van.",
+                "ro": "Toate destinațiile sunt la doar un scurt sprint distanță.",
+                "en": "All destinations are just a short sprint away."
+              }
+            },
+            {
+              "name": "Church & Bridge Cluster: Selfosskirkja & Ölfusá",
+              "tip_5lang": {
+                "de": "Verkürzen Sie den Aufenthalt im Freien.",
+                "hu": "Rövidítse le a szabadban töltött időt.",
+                "ro": "Scurtați timpul petrecut în aer liber.",
+                "en": "Shorten your stay outdoors."
+              }
+            },
+            {
+              "name": "Bus ride to Hellisskógur stop",
+              "tip_5lang": {
+                "de": "Genießen Sie die trockene Fahrt.",
+                "hu": "Élvezze a száraz utazást.",
+                "ro": "Bucurați-vă de călătoria uscată.",
+                "en": "Enjoy the dry ride."
+              }
+            },
+            {
+              "name": "Walk in Hellisskógur Forest",
+              "tip_5lang": {
+                "de": "Die Bäume dämpfen den Regen etwas ab.",
+                "hu": "A fák valamennyire csillapítják az esőt.",
+                "ro": "Copacii temperează puțin ploaia.",
+                "en": "The trees dampen the rain somewhat."
+              }
+            },
+            {
+              "name": "Back to the center & Dinner",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten in der App.",
+                "hu": "Ellenőrizze az indulási időket az alkalmazásban.",
+                "ro": "Verificați orele de plecare în aplicație.",
+                "en": "Check departure times in the app."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Klapp.is App für Tickets und Echtzeitdaten.",
+              "Die Haltestellen im Zentrum sind meist überdacht.",
+              "Kombinieren Sie Busfahrten mit Aufenthalten in Cafés.",
+              "Halten Sie Ihre Kleidung im Bus möglichst trocken."
+            ],
+            "hu": [
+              "Használja a Klapp.is alkalmazást jegyekhez és valós idejű adatokhoz.",
+              "A központi megállók többnyire fedettek.",
+              "Kombinálja a buszozást kávézókban való időtöltéssel.",
+              "Lehetőleg tartsa szárazon a ruházatát a buszon."
+            ],
+            "ro": [
+              "Utilizați aplicația Klapp.is pentru bilete și date în timp real.",
+              "Stațiile din centru sunt în mare parte acoperite.",
+              "Combinați călătoriile cu autobuzul cu opriri la cafenele.",
+              "Încercați să vă mențineți hainele cât mai uscate în autobuz."
+            ],
+            "en": [
+              "Use the Klapp.is app for tickets and real-time data.",
+              "The stops in the center are mostly covered.",
+              "Combine bus rides with stays in cafes.",
+              "Try to keep your clothing as dry as possible on the bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Busfahren ist im Winter in Selfoss die sicherste Art, sich fortzubewegen. Wir starten an der festlich geschmückten Haltestelle im Zentrum. Da die Gehwege vereist sein können, verlassen wir uns auf den kurzen Cluster in der Altstadt. Die Busfahrt nach Hellisskógur bietet einen tollen Blick auf die verschneite Landschaft, bevor wir uns zum Abschluss im warmen Zentrum zum Essen treffen.",
+            "hu": "A buszozás télen a legbiztonságosabb módja a közlekedésnek Selfossban. A központi, ünnepi díszbe öltözött megállónál kezdünk. Mivel a járdák jegesek lehetnek, az óvárosi közeli helyszínekre hagyatkozunk. A Hellisskógur felé tartó buszút nagyszerű kilátást nyújt a havas tájra, mielőtt végül a meleg városközpontban találkoznánk vacsorázni.",
+            "ro": "Mersul cu autobuzul este cel mai sigur mod de deplasare iarna în Selfoss. Începem din stația centrală decorată festiv. Deoarece trotuarele pot fi înghețate, ne bazăm pe punctele de interes apropiate din centrul vechi. Călătoria cu autobuzul spre Hellisskógur oferă o vedere excelentă asupra peisajului înzăpezit înainte de a ne întâlni la cină în centrul călduros.",
+            "en": "Taking the bus is the safest way to get around Selfoss in winter. We start at the festively decorated central stop. Since the sidewalks can be icy, we rely on the close cluster of sites in the old town. The bus ride to Hellisskógur offers a great view of the snowy landscape before we meet for dinner in the warm city center."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the Central Bus Stop",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte beim Aussteigen.",
+                "hu": "Vigyázzon a csúszásveszélyre leszálláskor.",
+                "ro": "Atenție la polei când coborâți.",
+                "en": "Watch out for slipperiness when getting off."
+              }
+            },
+            {
+              "name": "Old Town Cluster: Tryggvaskáli & Skyrgerðin",
+              "tip_5lang": {
+                "de": "Hübsche Weihnachtsdeko in den Schaufenstern.",
+                "hu": "Szép karácsonyi díszek a kirakatokban.",
+                "ro": "Decorațiuni de Crăciun frumoase în vitrine.",
+                "en": "Pretty Christmas decorations in the shop windows."
+              }
+            },
+            {
+              "name": "Church & Bridge Cluster: Selfosskirkja & Ölfusá",
+              "tip_5lang": {
+                "de": "Nur kurzer Aufenthalt empfohlen, der Wind ist kalt.",
+                "hu": "Csak rövid tartózkodás ajánlott, a szél hideg.",
+                "ro": "Se recomandă doar o ședere scurtă, vântul este rece.",
+                "en": "Only a short stay recommended, the wind is cold."
+              }
+            },
+            {
+              "name": "Bus ride to Hellisskógur stop",
+              "tip_5lang": {
+                "de": "Genießen Sie das winterliche Panorama.",
+                "hu": "Élvezze a téli panorámát.",
+                "ro": "Bucurați-vă de panorama de iarnă.",
+                "en": "Enjoy the winter panorama."
+              }
+            },
+            {
+              "name": "Walk in Hellisskógur Forest",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den geräumten Wegen.",
+                "hu": "Maradjon a letakarított utakon.",
+                "ro": "Rămâneți pe potecile deszăpezite.",
+                "en": "Stay on the cleared paths."
+              }
+            },
+            {
+              "name": "Back to the center & Dinner",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Restaurant richtig auf.",
+                "hu": "Melegedjen fel alaposan az étteremben.",
+                "ro": "Încălziți-vă bine în restaurant.",
+                "en": "Warm up properly in the restaurant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Rechnen Sie mit wetterbedingten Verspätungen.",
+              "Die Busse sind im Winter angenehm geheizt.",
+              "Tragen Sie Schuhe mit gutem Profil für die Haltestellen.",
+              "Nutzen Sie die Wartezeiten für Fotos der Winterlandschaft."
+            ],
+            "hu": [
+              "Számoljon az időjárás miatti késésekkel.",
+              "A buszok télen kellemesen fűtöttek.",
+              "Viseljen jó tapadású cipőt a megállókhoz.",
+              "Használja ki a várakozási időt a téli táj fotózására."
+            ],
+            "ro": [
+              "Luați în calcul întârzierile cauzate de vreme.",
+              "Autobuzele sunt încălzite plăcut iarna.",
+              "Purtați încălțăminte cu profil bun pentru stații.",
+              "Folosiți timpii de așteptare pentru a fotografia peisajul de iarnă."
+            ],
+            "en": [
+              "Expect weather-related delays.",
+              "Buses are pleasantly heated in winter.",
+              "Wear shoes with good tread for the bus stops.",
+              "Use the waiting times to take photos of the winter landscape."
+            ]
+          }
+        }
       }
     }
   }

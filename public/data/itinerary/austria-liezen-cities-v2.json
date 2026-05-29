@@ -300,6 +300,188 @@
           "Check the opening hours of the Culture House in advance.",
           "An umbrella is always a good idea in the Alps."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am verregneten Hauptplatz, wo die nassen Pflastersteine den Charme der Stadt widerspiegeln. Mittags bietet die Stadtpfarrkirche einen trockenen und spirituellen Rückzugsort. Am Nachmittag genießen Sie das Kulturhaus, bevor der Tag mit einem erfrischenden Spaziergang an der nebligen Enns-Promenade endet. Der Regen verleiht der alpinen Kulisse eine mystische Atmosphäre.",
+            "hu": "A nap az esős Fő téren indul, ahol a vizes macskakő különös csillogást ad a városnak. Délben a Szent Vitus-templom nyújt száraz és békés menedéket. Délután a Kulturhaus kiállításai között maradhatunk szárazon, majd egy frissítő, ködös séta következik az Enns partján. Az eső misztikus hangulatot kölcsönöz az osztrák Alpoknak.",
+            "ro": "Ziua începe în Piața Centrală sub ploaie, unde reflexiile pe pavajul umed creează un decor aparte. La prânz, biserica parohială oferă un refugiu uscat și liniștit. După-amiaza este dedicată Casei de Cultură, ferită de vremea rea, iar seara se încheie cu o plimbare revigorantă pe faleza râului Enns, învăluită în ceață.",
+            "en": "The day begins at the rainy Main Square, where wet cobblestones reflect the town's charm. At noon, the Parish Church provides a dry and peaceful sanctuary. Spend the afternoon staying dry inside the Culture House, before ending the day with a refreshing, misty walk along the Enns River Promenade. The rain adds a mystical touch to the Alpine scenery."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Vordächer der Cafés am Platz, um trocken zu bleiben.",
+                "hu": "Használja a tér menti kávézók előtetőit a várakozáshoz.",
+                "ro": "Folosiți arcadele cafenelelor din piață pentru a rămâne uscați.",
+                "en": "Use the cafe awnings around the square to stay dry."
+              }
+            },
+            {
+              "name": "Liezen Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp unter dem Regenschirm vor der Fassade.",
+                "hu": "Gyors fotómegálló esernyő alatt a homlokzat előtt.",
+                "ro": "Oprire rapidă pentru poze sub umbrelă în fața fațadei.",
+                "en": "Quick photo stop under an umbrella in front of the facade."
+              }
+            },
+            {
+              "name": "War Memorial",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Stufen im Bereich des Denkmals.",
+                "hu": "Vigyázzon a csúszós lépcsőkre az emlékmű környékén.",
+                "ro": "Atenție la treptele alunecoase din zona monumentului.",
+                "en": "Watch out for slippery steps near the monument area."
+              }
+            },
+            {
+              "name": "Parish Church of St. Vitus",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den stärksten Regen im Inneren abzuwarten.",
+                "hu": "Ideális helyszín a nagyobb záporok átvészelésére a beltérben.",
+                "ro": "Locul ideal pentru a aștepta trecerea ploii în interior.",
+                "en": "An ideal spot to wait out the heaviest rain indoors."
+              }
+            },
+            {
+              "name": "Liezen Culture House",
+              "tip_5lang": {
+                "de": "Genießen Sie die Indoor-Ausstellungen ausgiebig bei Regen.",
+                "hu": "Élvezze a beltéri kiállításokat, amíg odakint esik.",
+                "ro": "Bucurați-vă de expozițiile interioare cât timp plouă.",
+                "en": "Enjoy the indoor exhibitions thoroughly while it rains."
+              }
+            },
+            {
+              "name": "Enns River Promenade",
+              "tip_5lang": {
+                "de": "Wasserdichte Schuhe sind für den ufernahen Weg unerlässlich.",
+                "hu": "Vízálló lábbeli elengedhetetlen a folyóparti sétányon.",
+                "ro": "Încălțămintea impermeabilă este esențială pe malul râului.",
+                "en": "Waterproof footwear is essential for the riverside path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Liezen hat viele Arkadengänge im Zentrum, die Schutz bieten.",
+              "Die Enns-Promenade kann bei starkem Regen matschig werden.",
+              "Tragen Sie eine hochwertige Regenjacke gegen den Alpenwind.",
+              "Das Kulturhaus ist der beste Rückzugsort bei Dauerregen."
+            ],
+            "hu": [
+              "Liezen központjában több árkádos rész is segít szárazon maradni.",
+              "Az Enns-sétány heves esőzéskor sárossá válhat.",
+              "Viseljen jó minőségű esőkabátot az alpesi szél ellen.",
+              "A Kulturhaus a legjobb menedék tartós eső esetén."
+            ],
+            "ro": [
+              "Centrul orașului Liezen are porțiuni cu arcade care oferă protecție.",
+              "Promenada Enns poate deveni noroioasă în caz de ploaie torențială.",
+              "Purtați o jachetă de ploaie de calitate contra vântului alpin.",
+              "Casa de Cultură este cel mai bun refugiu în caz de ploaie continuă."
+            ],
+            "en": [
+              "Liezen center has several arcade sections that provide shelter.",
+              "The Enns promenade can get muddy during heavy rainfall.",
+              "Wear a high-quality raincoat against the chilly Alpine wind.",
+              "The Culture House is the best retreat during persistent rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Hauptplatz, umgeben von verschneiten Gipfeln. Mittags wärmt die Stille der Stadtpfarrkirche das Herz, bevor der Nachmittag im gemütlichen Kulturhaus verbracht wird. Wenn die Dämmerung früh einsetzt, leuchten die Lichter der Stadt auf. Der Tag endet mit einem winterlichen Spaziergang an der gefrorenen Enns, während der Schnee unter den Füßen knirscht.",
+            "hu": "Zúzmarás reggel a Fő téren, a háttérben havas hegycsúcsokkal. Délben a Szent Vitus-templom csendje melengeti a lelket, majd a délután a barátságos Kulturhausban telik. Mivel korán sötétedik, a város fényei hamar kigyúlnak. A nap az Enns jeges partján zárul, ahol a hó ropog a talpunk alatt.",
+            "ro": "O dimineață geroasă în Piața Centrală, cu vârfurile înzăpezite în fundal. La prânz, liniștea bisericii parohiale încălzește sufletul, iar după-amiaza trece plăcut în Casa de Cultură. Deoarece se întunecă devreme, luminile orașului se aprind rapid. Ziua se încheie pe malul înghețat al râului Enns, cu zăpada scârțâind sub picioare.",
+            "en": "A frosty morning at the Main Square, surrounded by snow-capped peaks. At noon, the silence of the Parish Church warms the soul, followed by a cozy afternoon in the Culture House. As dusk falls early, the city lights begin to glow. The day ends with a wintry stroll by the frozen Enns, with snow crunching under your feet."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf den freien Flächen des Platzes.",
+                "hu": "Vigyázzon a jegesedésre a tér nyitott felületein.",
+                "ro": "Atenție la gheață pe suprafețele deschise ale pieței.",
+                "en": "Beware of black ice on the open areas of the square."
+              }
+            },
+            {
+              "name": "Liezen Town Hall",
+              "tip_5lang": {
+                "de": "Die Winterbeleuchtung macht das Rathaus ab 16 Uhr sehenswert.",
+                "hu": "A téli kivilágítás 16 órától különlegessé teszi a városházát.",
+                "ro": "Iluminatul de iarnă face primăria spectaculoasă după ora 16.",
+                "en": "Winter lights make the town hall worth seeing after 4 PM."
+              }
+            },
+            {
+              "name": "War Memorial",
+              "tip_5lang": {
+                "de": "Ein stimmungsvoller, oft verschneiter Ort für stille Momente.",
+                "hu": "Hangulatos, gyakran havas helyszín a csendes percekhez.",
+                "ro": "Un loc atmosferic, adesea înzăpezit, pentru momente de liniște.",
+                "en": "An atmospheric, often snowy spot for quiet moments."
+              }
+            },
+            {
+              "name": "Parish Church of St. Vitus",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirchenbänke für eine kurze Aufwärmpause.",
+                "hu": "Használja ki a templom belső terét egy rövid felmelegedéshez.",
+                "ro": "Folosiți interiorul bisericii pentru o scurtă pauză de încălzire.",
+                "en": "Take advantage of the church interior for a quick warm-up."
+              }
+            },
+            {
+              "name": "Liezen Culture House",
+              "tip_5lang": {
+                "de": "Der ideale Ort, um der Kälte für einige Stunden zu entfliehen.",
+                "hu": "Ideális helyszín, hogy pár órára elmeneküljön a hideg elől.",
+                "ro": "Locul perfect pentru a scăpa de frig timp de câteva ore.",
+                "en": "The perfect place to escape the cold for a few hours."
+              }
+            },
+            {
+              "name": "Enns River Promenade",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist für den windigen Uferweg unerlässlich.",
+                "hu": "A szeles folyóparton elengedhetetlen a meleg réteges öltözet.",
+                "ro": "Îmbrăcămintea groasă e vitală pe malul vântos al râului.",
+                "en": "Warm layered clothing is essential for the windy riverbank."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne verschwindet im Winter bereits gegen 16:30 Uhr hinter den Bergen.",
+              "Die Wege an der Enns werden im Winter oft nur eingeschränkt geräumt.",
+              "Tragen Sie Schuhe mit gutem Profil wegen Rutschgefahr.",
+              "Kombinieren Sie den Spaziergang mit einem heißen Getränk am Hauptplatz."
+            ],
+            "hu": [
+              "Télen a nap már 16:30 körül eltűnik a hegyek mögött.",
+              "Az Enns-parti utakat télen gyakran csak részlegesen takarítják.",
+              "Viseljen bordázott talpú cipőt a csúszásveszély miatt.",
+              "Kösse össze a sétát egy forró itallal a Fő téren."
+            ],
+            "ro": [
+              "Iarna, soarele dispare după munți deja în jurul orei 16:30.",
+              "Potecile de pe malul Enns sunt curățate parțial în timpul iernii.",
+              "Purtați încălțăminte cu talpă aderentă contra alunecării.",
+              "Combinați plimbarea cu o băutură caldă în Piața Centrală."
+            ],
+            "en": [
+              "In winter, the sun disappears behind the mountains by 4:30 PM.",
+              "Paths along the Enns are often only partially cleared in winter.",
+              "Wear shoes with good grip due to the risk of slipping.",
+              "Combine your walk with a hot drink at the Main Square."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -617,6 +799,206 @@
           "A water bottle is essential, especially for the climb to the viewpoint.",
           "The bike path along the Enns is mostly flat and suitable for all fitness levels."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen startet die Tour am Hauptplatz. Die Fahrt zur Kirche erfordert Vorsicht auf nassem Asphalt. Den Nachmittag verbringen wir im trockenen Kulturhaus und dem ELI Einkaufszentrum, wo das Rad sicher geparkt werden kann. Die Tour endet am Pyhrn-Aussichtspunkt, der auch bei Regen eine dramatische Wolkenstimmung über dem Ennstal bietet.",
+            "hu": "Az eső ellenére a túra a Fő téren indul. A templomhoz vezető út óvatosságot igényel a vizes aszfalton. A délutánt a száraz Kulturhausban és az ELI bevásárlóközpontban töltjük, ahol a bicikli biztonságban leparkolható. A túra a Pyhrn-kilátónál zárul, amely esőben is drámai felhőjátékot mutat az Enns völgye felett.",
+            "ro": "În ciuda ploii, turul începe în Piața Centrală. Drumul spre biserică necesită prudență pe asfaltul ud. După-amiaza o petrecem în Casa de Cultură și la centrul comercial ELI, unde bicicleta poate fi parcată în siguranță. Turul se încheie la punctul de belvedere Pyhrn, care oferă un peisaj dramatic cu nori peste valea Enns chiar și pe ploaie.",
+            "en": "Despite the rain, the tour starts at the Main Square. The ride to the church requires caution on wet asphalt. Spend the afternoon in the dry Culture House and ELI Shopping Center, where bikes can be parked safely. The tour ends at the Pyhrn Viewpoint, which offers a dramatic cloudscape over the Enns Valley even in the rain."
+          },
+          "stops": [
+            {
+              "name": "Main Square & Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf dem nassen Kopfsteinpflaster.",
+                "hu": "Vigyázzon az induláskor a vizes macskakövön.",
+                "ro": "Atenție la plecare pe pavajul umed din piață.",
+                "en": "Be careful when starting off on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Parish Church of St. Vitus",
+              "tip_5lang": {
+                "de": "Suchen Sie einen geschützten Abstellplatz für Ihr Fahrrad.",
+                "hu": "Keressen fedett tárolót a kerékpárja számára.",
+                "ro": "Căutați un loc de parcare protejat pentru bicicletă.",
+                "en": "Look for a sheltered parking spot for your bike."
+              }
+            },
+            {
+              "name": "Liezen Culture House",
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um die Regenkleidung kurz zu lüften.",
+                "hu": "Ideális megálló az esőruházat rövid szárításához.",
+                "ro": "O oprire ideală pentru a vă aerisi puțin pelerina de ploaie.",
+                "en": "An ideal stop to briefly air out your rain gear."
+              }
+            },
+            {
+              "name": "Enns River Promenade",
+              "tip_5lang": {
+                "de": "Der Radweg kann Pfützen bilden; Schutzbleche sind ratsam.",
+                "hu": "A kerékpárúton tócsák lehetnek; a sárvédő javasolt.",
+                "ro": "Pista de biciclete poate avea bălți; aripile sunt recomandate.",
+                "en": "The bike path may have puddles; mudguards are advised."
+              }
+            },
+            {
+              "name": "ELI Shopping Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Fahrradständer des Einkaufszentrums.",
+                "hu": "Használja a bevásárlóközpont fedett kerékpártárolóit.",
+                "ro": "Folosiți rastelele de biciclete acoperite ale mall-ului.",
+                "en": "Use the shopping center's covered bike racks."
+              }
+            },
+            {
+              "name": "Pyhrn Viewpoint",
+              "tip_5lang": {
+                "de": "Die Abfahrt auf nasser Straße erfordert reduzierte Geschwindigkeit.",
+                "hu": "A lejtőn vizes úton csökkentett sebesség szükséges.",
+                "ro": "Coborârea pe drum ud necesită viteză redusă.",
+                "en": "Descending on wet roads requires reduced speed."
+              }
+            },
+            {
+              "name": "Return to Main Square",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihr Fahrrad nach der Tour gründlich ab.",
+                "hu": "A túra után alaposan törölje szárazra a kerékpárt.",
+                "ro": "Ștergeți bine bicicleta după terminarea turului.",
+                "en": "Dry off your bike thoroughly after the tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf rutschige Markierungen auf der Fahrbahn.",
+              "Vermeiden Sie abrupte Bremsmanöver auf nassem Untergrund.",
+              "Verwenden Sie helle Lichter, da die Sicht im Regen abnimmt.",
+              "Ein Sattelüberzug hält Ihre Sitzfläche bei Stopps trocken."
+            ],
+            "hu": [
+              "Ügyeljen a csúszós útburkolati jelekre.",
+              "Kerülje a hirtelen fékezést a vizes talajon.",
+              "Használjon erős lámpákat, mert esőben romlik a láthatóság.",
+              "Egy nyereghuzat szárazon tartja az ülést a megállók alatt."
+            ],
+            "ro": [
+              "Atenție la marcajele rutiere care devin alunecoase pe ud.",
+              "Evitați frânările bruște pe suprafețe umede.",
+              "Folosiți lumini puternice, vizibilitatea scade pe ploaie.",
+              "O husă de șa vă menține locul uscat în timpul opririlor."
+            ],
+            "en": [
+              "Watch out for slippery road markings on the pavement.",
+              "Avoid sudden braking maneuvers on wet surfaces.",
+              "Use bright lights as visibility decreases in the rain.",
+              "A saddle cover will keep your seat dry during stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour startet knackig kalt am Hauptplatz. Die Route führt durch die klare Alpenluft zur Kirche und zum Kulturhaus für Aufwärmpausen. Das ELI Shopping Center bietet Schutz vor dem Wind. Highlight ist die Fahrt zum Pyhrn-Aussichtspunkt, von dem aus man das verschneite Liezen überblickt, bevor man rechtzeitig vor Einbruch der Dunkelheit zum Hauptplatz zurückkehrt.",
+            "hu": "A téli túra csípős hidegben indul a Fő térről. Az útvonal a tiszta alpesi levegőn át vezet a templomhoz és a Kulturhaushoz, ahol felmelegedhetünk. Az ELI bevásárlóközpont védelmet nyújt a szél elől. A csúcspont a Pyhrn-kilátó, ahonnan rálátni a havas Liezenre, mielőtt még sötétedés előtt visszaérnénk a Fő térre.",
+            "ro": "Turul de iarnă începe în ger în Piața Centrală. Traseul duce prin aerul curat alpin spre biserică și Casa de Cultură pentru pauze de încălzire. Mall-ul ELI oferă protecție contra vântului. Punctul culminant este drumul spre belvederea Pyhrn, de unde se vede orașul Liezen înzăpezit, înainte de a reveni în piață înainte de lăsarea serii.",
+            "en": "The winter tour starts in the crisp cold at the Main Square. The route leads through clear Alpine air to the church and Culture House for warm-up breaks. ELI Shopping Center provides shelter from the wind. The highlight is the ride to Pyhrn Viewpoint, overlooking snowy Liezen, before returning to the Main Square well before dark."
+          },
+          "stops": [
+            {
+              "name": "Main Square & Town Hall",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; Kälte beeinflusst diesen.",
+                "hu": "Ellenőrizze a guminyomást; a hideg befolyásolja azt.",
+                "ro": "Verificați presiunea în pneuri; frigul o afectează.",
+                "en": "Check your tire pressure; cold weather affects it."
+              }
+            },
+            {
+              "name": "Parish Church of St. Vitus",
+              "tip_5lang": {
+                "de": "Kürzerer Stopp, um nicht zu sehr auszukühlen.",
+                "hu": "Rövidebb megálló, hogy ne hűljön ki túlságosan.",
+                "ro": "Oprire scurtă pentru a nu vă răci prea tare.",
+                "en": "Shorter stop to avoid getting too chilled."
+              }
+            },
+            {
+              "name": "Liezen Culture House",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Winterkleidung abzulegen.",
+                "hu": "Használja a ruhatárat a nehéz téli ruhák lerakásához.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă.",
+                "en": "Use the cloakroom to take off heavy winter gear."
+              }
+            },
+            {
+              "name": "Enns River Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht bei gefrorenem Spritzwasser auf dem Weg.",
+                "hu": "Vigyázzon az útra fagyott vízpermet miatti csúszós foltokra.",
+                "ro": "Atenție la porțiunile înghețate de pe drum.",
+                "en": "Watch out for frozen spray or icy patches on the path."
+              }
+            },
+            {
+              "name": "ELI Shopping Center",
+              "tip_5lang": {
+                "de": "Perfekt für eine heiße Suppe zur Stärkung zwischendurch.",
+                "hu": "Tökéletes helyszín egy forró levesre útközben.",
+                "ro": "Locul perfect pentru o supă caldă pentru energie.",
+                "en": "Perfect for a hot soup to boost your energy mid-trip."
+              }
+            },
+            {
+              "name": "Pyhrn Viewpoint",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Bremsen eisfrei sind.",
+                "hu": "Győződjön meg róla, hogy a fékek jégmentesek.",
+                "ro": "Asigurați-vă că frânele nu sunt înghețate.",
+                "en": "Ensure your brakes are free of ice before descending."
+              }
+            },
+            {
+              "name": "Return to Main Square",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Fahrten nach 16:30 Uhr (Dunkelheit).",
+                "hu": "Kerülje a kerékpározást 16:30 után a sötétedés miatt.",
+                "ro": "Evitați deplasările după ora 16:30 din cauza întunericului.",
+                "en": "Avoid riding after 4:30 PM due to early darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe mit gutem Grip am Lenker.",
+              "Achten Sie auf Streusalz, das die Kette korrodieren kann.",
+              "Warme Socken und isolierte Schuhe sind ein Muss.",
+              "Planen Sie mehr Zeit für Anstiege auf Schnee ein."
+            ],
+            "hu": [
+              "Viseljen kesztyűt, amely jól tapad a kormányon.",
+              "Ügyeljen az útszóró sóra, amely korrodálhatja a láncot.",
+              "A meleg zokni és hőszigetelt cipő kötelező.",
+              "Havas úton tervezzen több időt az emelkedőkre."
+            ],
+            "ro": [
+              "Purtați mănuși cu aderență bună pe ghidon.",
+              "Atenție la sarea de pe drum, poate coroda lanțul.",
+              "Șosetele groase și încălțămintea izolată sunt obligatorii.",
+              "Planificați mai mult timp pentru urcări pe zăpadă."
+            ],
+            "en": [
+              "Wear gloves that provide a good grip on the handlebars.",
+              "Watch out for road salt, which can corrode your chain.",
+              "Warm socks and insulated shoes are a must.",
+              "Allow extra time for climbs when riding on snow."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -957,6 +1339,206 @@
           "Allow enough time for traffic, especially on weekdays.",
           "Use a navigation app to find the best parking spots."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour beginnt am Pyhrn-Aussichtspunkt, wo Sie den Regen bequem aus dem Wagen beobachten können. In der Stadt nutzen wir zentrale Parkplätze für kurze Wege zum Hauptplatz und zur Kirche. Der Nachmittag gehört dem ELI Shopping Center mit seiner Tiefgarage, bevor der Tag mit einer Fahrt entlang der verregneten Enns-Promenade entspannt ausklingt.",
+            "hu": "Az autós túra a Pyhrn-kilátónál indul, ahol a kocsiból is kényelmesen figyelhető az eső. A városban központi parkolókat használunk a rövid sétákhoz a Fő térre és a templomhoz. A délután az ELI bevásárlóközponté, ahol mélygarázs vár ránk, majd a nap egy lassú autózással zárul a vizes Enns-part mentén.",
+            "ro": "Turul auto începe la punctul de belvedere Pyhrn, de unde puteți observa ploaia confortabil din mașină. În oraș, folosim parcări centrale pentru acces rapid la piață și biserică. După-amiaza aparține mall-ului ELI cu parcarea sa subterană, iar ziua se încheie relaxat cu o plimbare auto de-a lungul promenadei Enns.",
+            "en": "The car tour starts at the Pyhrn Viewpoint, where you can watch the rain comfortably from the vehicle. In town, use central parking for short walks to the Main Square and church. The afternoon is spent at the ELI Shopping Center with its underground parking, followed by a relaxing drive along the rainy Enns River Promenade."
+          },
+          "stops": [
+            {
+              "name": "Parking at Pyhrn Viewpoint",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht direkt aus dem trockenen Auto.",
+                "hu": "Élvezze a kilátást közvetlenül a száraz autóból.",
+                "ro": "Bucurați-vă de priveliște direct din mașina uscată.",
+                "en": "Enjoy the view directly from the dry car."
+              }
+            },
+            {
+              "name": "Parking in the Center (Downtown Cluster)",
+              "tip_5lang": {
+                "de": "Wählen Sie Parkplätze nahe dem Eingang zu den Geschäften.",
+                "hu": "Válasszon az üzletek bejáratához közeli parkolóhelyet.",
+                "ro": "Alegeți locuri de parcare aproape de intrarea magazinelor.",
+                "en": "Choose parking spots close to the shop entrances."
+              }
+            },
+            {
+              "name": "Main Square & Town Hall",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Auto und Sehenswürdigkeit nutzen.",
+                "hu": "Használja ki a parkoló és a látnivaló közti rövid távot.",
+                "ro": "Profitați de distanța scurtă între mașină și obiectiv.",
+                "en": "Take advantage of the short distance between car and sight."
+              }
+            },
+            {
+              "name": "Parish Church of St. Vitus",
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Kirche für einen trockenen Zugang.",
+                "hu": "Parkoljon közvetlenül a templomnál a száraz bejutáshoz.",
+                "ro": "Parcați chiar lângă biserică pentru acces uscat.",
+                "en": "Park right by the church for dry access."
+              }
+            },
+            {
+              "name": "ELI Shopping Center (Shopping Cluster)",
+              "tip_5lang": {
+                "de": "Die Tiefgarage ist die beste Option bei starkem Regen.",
+                "hu": "A mélygarázs a legjobb opció heves esőzéskor.",
+                "ro": "Parcarea subterană e cea mai bună opțiune pe ploaie.",
+                "en": "Underground parking is the best option during heavy rain."
+              }
+            },
+            {
+              "name": "Enns River Promenade (Nature Cluster)",
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie einen guten Blick auf den Fluss.",
+                "hu": "A parkolóból is jó kilátás nyílik a folyóra.",
+                "ro": "Din parcare aveți o vedere bună asupra râului.",
+                "en": "You have a good view of the river from the parking area."
+              }
+            },
+            {
+              "name": "River Walk",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf nassen, ufernahen Nebenstraßen.",
+                "hu": "Hajtson lassan a vizes, folyóparti mellékutakon.",
+                "ro": "Conduceți încet pe drumurile secundare de lângă râu.",
+                "en": "Drive slowly on wet side roads near the riverbank."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Tiefgaragen, um das Auto trocken zu beladen.",
+              "Vorsicht vor Aquaplaning auf der Ennstal-Bundesstraße.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Die Bergstraße zum Pyhrn kann bei Regen rutschig sein."
+            ],
+            "hu": [
+              "Használja a mélygarázsokat, hogy szárazon pakolhasson az autóba.",
+              "Vigyázzon a vízenfutásra az Ennstal főúton.",
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "A Pyhrnre vezető hegyi út esőben csúszós lehet."
+            ],
+            "ro": [
+              "Folosiți parcările subterane pentru a încărca mașina la uscat.",
+              "Atenție la acvaplanare pe drumul principal Ennstal.",
+              "Verificați ștergătoarele înainte de plecare.",
+              "Drumul montan spre Pyhrn poate fi alunecos pe ploaie."
+            ],
+            "en": [
+              "Use underground garages to load the car while staying dry.",
+              "Beware of aquaplaning on the Ennstal main road.",
+              "Check your windshield wipers before setting off.",
+              "The mountain road to Pyhrn can be slippery in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Früh am Morgen geht es zum Pyhrn-Aussichtspunkt – Winterreifen und Bergerfahrung sind hier gefragt. Mittags bietet das Stadtzentrum bequeme Parkmöglichkeiten für den Besuch der Kirche. Den Nachmittag verbringen wir im warmen ELI Shopping Center. Die Tour endet mit einer stimmungsvollen Fahrt durch das verschneite Ennstal, während die Gipfel im Abendlicht leuchten.",
+            "hu": "Kora reggel irány a Pyhrn-kilátó – ide téli gumi és hegyi vezetési tapasztalat szükséges. Délben a városközpont kényelmes parkolást kínál a templomlátogatáshoz. A délutánt a meleg ELI bevásárlóközpontban töltjük. A túra egy hangulatos autózással zárul a havas Enns-völgyben, miközben a hegycsúcsok az esti fényben tündökölnek.",
+            "ro": "Dimineața devreme mergem spre belvederea Pyhrn – anvelopele de iarnă și experiența montană sunt necesare. La prânz, centrul oferă parcări facile pentru vizita la biserică. După-amiaza o petrecem în mall-ul ELI. Turul se încheie cu o plimbare auto prin valea Enns înzăpezită, în timp ce vârfurile strălucesc în lumina serii.",
+            "en": "Early morning drive to Pyhrn Viewpoint – winter tires and mountain driving experience are required here. At noon, the town center offers convenient parking for visiting the church. Spend the afternoon in the warm ELI Shopping Center. The tour ends with an atmospheric drive through the snowy Enns Valley as peaks glow in the evening light."
+          },
+          "stops": [
+            {
+              "name": "Parking at Pyhrn Viewpoint",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Schneelage vor der Auffahrt zum Aussichtspunkt.",
+                "hu": "Ellenőrizze a hóviszonyokat a kilátóhoz való felhajtás előtt.",
+                "ro": "Verificați starea zăpezii înainte de a urca spre belvedere.",
+                "en": "Check snow conditions before driving up to the viewpoint."
+              }
+            },
+            {
+              "name": "Parking in the Center (Downtown Cluster)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen, die Parkplätze einschränken können.",
+                "hu": "Ügyeljen a hóbuckákra, amik korlátozhatják a parkolóhelyet.",
+                "ro": "Atenție la mormanele de zăpadă care pot limita parcarea.",
+                "en": "Watch out for snow banks that may restrict parking spaces."
+              }
+            },
+            {
+              "name": "Main Square & Town Hall",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil cât timp staționați.",
+                "en": "Do not leave the engine idling unnecessarily while parked."
+              }
+            },
+            {
+              "name": "Parish Church of St. Vitus",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf eventuell glattem Untergrund.",
+                "hu": "Vigyázzon a kiszálláskor az esetlegesen csúszós talajra.",
+                "ro": "Atenție la coborâre pe suprafețe care pot fi alunecoase.",
+                "en": "Be careful when getting out on potentially slippery ground."
+              }
+            },
+            {
+              "name": "ELI Shopping Center (Shopping Cluster)",
+              "tip_5lang": {
+                "de": "Parken Sie im Warmen, um das Auto eisfrei zu halten.",
+                "hu": "Parkoljon a meleg garázsban, hogy az autó jégmentes maradjon.",
+                "ro": "Parcați în garajul încălzit pentru a menține mașina fără gheață.",
+                "en": "Park in the warm garage to keep the car ice-free."
+              }
+            },
+            {
+              "name": "Enns River Promenade (Nature Cluster)",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den ufernahen Straßen.",
+                "hu": "Ügyeljen a jeges foltokra a folyóparti utakon.",
+                "ro": "Atenție la porțiunile înghețate de pe drumurile de lângă râu.",
+                "en": "Watch out for icy spots on the roads near the riverbank."
+              }
+            },
+            {
+              "name": "River Walk",
+              "tip_5lang": {
+                "de": "Genießen Sie das Winterpanorama bequem aus dem geheizten Auto.",
+                "hu": "Élvezze a téli panorámát kényelmesen a fűtött autóból.",
+                "ro": "Bucurați-vă de panorama de iarnă din mașina încălzită.",
+                "en": "Enjoy the winter panorama comfortably from the heated car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie Schneeketten für die Auffahrt zum Pyhrn mit.",
+              "Achten Sie auf plötzliche Kälteeinbrüche im Ennstal.",
+              "Halten Sie die Scheinwerfer von Schnee und Eis frei.",
+              "Frostschutzmittel in der Scheibenwaschanlage ist Pflicht."
+            ],
+            "hu": [
+              "Vigyen magával hóláncot a Pyhrnre való feljutáshoz.",
+              "Ügyeljen a hirtelen lehűlésekre az Enns völgyében.",
+              "Tartsa tisztán a fényszórókat a hótól és jégtől.",
+              "A fagyálló ablakmosó folyadék kötelező."
+            ],
+            "ro": [
+              "Aveți lanțuri antiderapante pentru urcarea spre Pyhrn.",
+              "Atenție la scăderile bruște de temperatură în valea Enns.",
+              "Mențineți farurile curate de zăpadă și gheață.",
+              "Lichidul de parbriz antigel este obligatoriu."
+            ],
+            "en": [
+              "Carry snow chains for the drive up to Pyhrn.",
+              "Watch out for sudden temperature drops in the Enns Valley.",
+              "Keep headlights clear of snow and ice.",
+              "Anti-freeze windshield washer fluid is mandatory."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1257,6 +1839,188 @@
           "Check the bus schedule online in advance.",
           "Have small change ready for tickets bought from the driver."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus geht es trocken durch das verregnete Liezen. Nach der Ankunft am Hauptplatz bietet die Kirche schnellen Schutz. Der Nachmittag im ELI Shopping Center ist ideal, da man direkt vor dem Eingang aussteigen kann. Den Tag lassen wir entspannt ausklingen, während wir den Regen aus dem Busfenster beobachten, bevor wir zur Station zurückkehren.",
+            "hu": "Busszal szárazon utazhatunk az esős Liezenben. A Fő térre érkezés után a templom gyors menedéket nyújt. Az ELI bevásárlóközpontban töltött délután ideális, mivel közvetlenül a bejáratnál lehet leszállni. A napot nyugodtan zárjuk, az ablakból figyelve az esőt, mielőtt visszatérnénk az állomásra.",
+            "ro": "Cu autobuzul călătorim la uscat prin orașul Liezen ploios. După sosirea în piață, biserica oferă un adăpost rapid. După-amiaza la mall-ul ELI este ideală, putând coborî chiar în fața intrării. Încheiem ziua relaxați, privind ploaia pe geamul autobuzului înainte de revenirea la stație.",
+            "en": "Travel dry through rainy Liezen by bus. After arriving at the Main Square, the church provides quick shelter. Spending the afternoon at ELI Shopping Center is ideal as you can get off right in front of the entrance. End the day relaxing while watching the rain from the bus window before returning to the station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus Station (Center Cluster)",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Bereich der Busstation.",
+                "hu": "Várjon a buszállomás fedett részén.",
+                "ro": "Așteptați în zona acoperită a stației de autobuz.",
+                "en": "Wait in the sheltered area of the bus station."
+              }
+            },
+            {
+              "name": "Main Square & Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Wege zwischen den Haltestellen.",
+                "hu": "Használja ki a megállók közötti rövid távolságokat.",
+                "ro": "Profitați de distanțele scurte între stații.",
+                "en": "Take advantage of the short distances between stops."
+              }
+            },
+            {
+              "name": "Parish Church of St. Vitus",
+              "tip_5lang": {
+                "de": "Die nächste Haltestelle bietet Schutz vor dem Wind.",
+                "hu": "A közeli megálló védelmet nyújt a szél elől.",
+                "ro": "Cea mai apropiată stație oferă protecție contra vântului.",
+                "en": "The nearest stop provides protection from the wind."
+              }
+            },
+            {
+              "name": "Trip to ELI Shopping Center",
+              "tip_5lang": {
+                "de": "Perfekt für Regentage, da fast alles überdacht ist.",
+                "hu": "Tökéletes esős napokra, mivel szinte minden fedett.",
+                "ro": "Perfect pentru zile ploioase, aproape totul fiind acoperit.",
+                "en": "Perfect for rainy days as almost everything is covered."
+              }
+            },
+            {
+              "name": "Trip to Enns River Promenade",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten, um nicht im Regen zu warten.",
+                "hu": "Ellenőrizze a visszautat, hogy ne várjon sokat az esőben.",
+                "ro": "Verificați orele de retur pentru a nu aștepta în ploaie.",
+                "en": "Check return times to avoid waiting long in the rain."
+              }
+            },
+            {
+              "name": "Return to Bus Station",
+              "tip_5lang": {
+                "de": "Ein warmer Tee im Kiosk überbrückt die Wartezeit.",
+                "hu": "Egy meleg tea a közeli büfében segít a várakozáskor.",
+                "ro": "Un ceai cald la chioșc ajută în timpul așteptării.",
+                "en": "A warm tea at the kiosk helps pass the waiting time."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die ÖBB Scotty App für Echtzeit-Infos bei Regen.",
+              "Halten Sie Ihr Ticket griffbereit, um Verzögerungen zu vermeiden.",
+              "Busse fahren im Ennstal auch bei starkem Regen zuverlässig.",
+              "Ein kleiner Taschenschirm passt in jede Tasche."
+            ],
+            "hu": [
+              "Töltse le az ÖBB Scotty appot a valós idejű infókért.",
+              "Tartsa kéznél a jegyét a késések elkerülése végett.",
+              "A buszok esőben is megbízhatóan közlekednek az Enns völgyében.",
+              "Egy kis összecsukható esernyő minden táskában elfér."
+            ],
+            "ro": [
+              "Descărcați aplicația ÖBB Scotty pentru info în timp real.",
+              "Aveți biletul la îndemână pentru a evita întârzierile.",
+              "Autobuzele circulă regulat chiar și pe ploaie torențială.",
+              "O umbrelă mică pliabilă încape în orice geantă."
+            ],
+            "en": [
+              "Download the ÖBB Scotty app for real-time info during rain.",
+              "Keep your ticket ready to avoid delays at the door.",
+              "Buses run reliably in the Enns Valley even during heavy rain.",
+              "A small travel umbrella fits in any bag."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ankunft an der verschneiten Busstation. Der kurze Weg zum Hauptplatz belebt die Geister, während die warme Kirche mittags zur Einkehr einlädt. Der Nachmittag im beheizten ELI Shopping Center ist ein Muss an kalten Tagen. Die Tour endet bei Einbruch der Dunkelheit an der Station, wo die beleuchteten Busse eine wohlige Heimfahrt versprechen.",
+            "hu": "Érkezés a havas buszállomásra. A Fő térre vezető rövid út felfrissít, délben pedig a meleg templom hívogat pihenőre. A délután a fűtött ELI bevásárlóközpontban kötelező a hideg napokon. A túra sötétedéskor ér véget az állomáson, ahonnan a kivilágított buszok kényelmes hazautat ígérnek.",
+            "ro": "Sosire la stația de autobuz înzăpezită. Drumul scurt spre piață revigorează, iar biserica caldă invită la popas la prânz. După-amiaza în mall-ul ELI încălzit este obligatorie în zilele reci. Turul se încheie la lăsarea serii la stație, de unde autobuzele luminate promit o călătorie plăcută spre casă.",
+            "en": "Arriving at the snowy bus station. The short walk to the Main Square is bracing, while the warm church invites you for a midday break. An afternoon in the heated ELI Shopping Center is a must on cold days. The tour ends at dusk at the station, where lighted buses promise a cozy ride home."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus Station (Center Cluster)",
+              "tip_5lang": {
+                "de": "Achten Sie auf geräumte Wege beim Verlassen des Busses.",
+                "hu": "Ügyeljen a letakarított utakra a buszról leszállva.",
+                "ro": "Atenție la căile curățate când coborâți din autobuz.",
+                "en": "Watch for cleared paths when getting off the bus."
+              }
+            },
+            {
+              "name": "Main Square & Town Hall",
+              "tip_5lang": {
+                "de": "Die Cafés am Platz sind ideal zum Aufwärmen.",
+                "hu": "A téren lévő kávézók ideálisak a felmelegedéshez.",
+                "ro": "Cafenelele din piață sunt ideale pentru încălzire.",
+                "en": "The cafes around the square are ideal for warming up."
+              }
+            },
+            {
+              "name": "Parish Church of St. Vitus",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille im windgeschützten Innenraum.",
+                "hu": "Élvezze a csendet a széltől védett belső térben.",
+                "ro": "Bucurați-vă de liniște în interiorul ferit de vânt.",
+                "en": "Enjoy the silence in the wind-protected interior."
+              }
+            },
+            {
+              "name": "Trip to ELI Shopping Center",
+              "tip_5lang": {
+                "de": "Die Busse sind gut beheizt; eine angenehme Fahrt.",
+                "hu": "A buszok jól fűtöttek; kellemes utazás várható.",
+                "ro": "Autobuzele sunt bine încălzite; o călătorie plăcută.",
+                "en": "Buses are well-heated; expect a pleasant ride."
+              }
+            },
+            {
+              "name": "Trip to Enns River Promenade",
+              "tip_5lang": {
+                "de": "Nutzen Sie Haltestellen mit Wartehäuschen gegen den Wind.",
+                "hu": "Használja a váróteremmel ellátott megállókat a szél ellen.",
+                "ro": "Folosiți stațiile cu adăpost contra vântului rece.",
+                "en": "Use stops with shelters to stay out of the cold wind."
+              }
+            },
+            {
+              "name": "Return to Bus Station",
+              "tip_5lang": {
+                "de": "Beachten Sie mögliche winterbedingte Verspätungen.",
+                "hu": "Számoljon a téli időjárás miatti esetleges késésekkel.",
+                "ro": "Luați în calcul posibilele întârzieri cauzate de iarnă.",
+                "en": "Be aware of potential winter-related delays in schedule."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Pufferzeiten für Anschlüsse ein (Schneechaos).",
+              "Tragen Sie Schuhe mit dicker Sohle gegen die Kälte beim Warten.",
+              "Die Busfrequenz kann an Winterwochenenden variieren.",
+              "Kopfbedeckung und Schal schützen vor der zugigen Station."
+            ],
+            "hu": [
+              "Tervezzen ráhagyással a csatlakozásoknál (hóhelyzet).",
+              "Viseljen vastag talpú cipőt a várakozás alatti fázás ellen.",
+              "A buszjáratok sűrűsége téli hétvégéken változhat.",
+              "A sapka és sál védelmet nyújt a huzatos állomáson."
+            ],
+            "ro": [
+              "Planificați timp suplimentar pentru legături (zăpadă).",
+              "Purtați încălțăminte cu talpă groasă contra frigului.",
+              "Frecvența autobuzelor poate varia în weekend-urile de iarnă.",
+              "Căciula și fularul sunt esențiale în stațiile expuse."
+            ],
+            "en": [
+              "Allow buffer time for connections during heavy snowfall.",
+              "Wear thick-soled shoes to stay warm while waiting.",
+              "Bus frequency may vary on winter weekends.",
+              "A hat and scarf protect you at the breezy station."
+            ]
+          }
+        }
       }
     }
   }

@@ -309,6 +309,178 @@
           "Most sights are close to each other, a plan is hardly necessary.",
           "Ask for samples at the market, the vendors are often very hospitable."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Loznica beginnt am Vuk-Denkmal, wo die Tropfen auf den Granit trommeln. Wir suchen bald Schutz in der Kirche der Heiligen Gottesmutter.\n\nMittags ist das Jadar-Museum der ideale Zufluchtsort. In der alten Apotheke erfahren wir alles über die Geschichte der Region, während es draußen ununterbrochen gießt.\n\nNachmittags schlendern wir unter den Markisen des lokalen Marktes. Der Duft von feuchtem Asphalt mischt sich mit dem Aroma von frischem Obst und lokalem Kaffee.\n\nDer Abend klingt gemütlich in einem zentralen Restaurant aus. Bei einer warmen serbischen Suppe beobachten wir die Lichter der Stadt, die sich in den Pfützen spiegeln.",
+            "hu": "Loznica esős reggele a Vuk Karadžić emlékműnél indul, ahol az eső kopog a grániton. Hamar a közeli Istenanya oltalma templom boltívei alatt keresünk menedéket.\n\nDélben a Jadar Múzeum az ideális menedék. Az egykori régi gyógyszertár épületében fedett helyen ismerhetjük meg a régió történelmét, miközben odakint kitartóan esik.\n\nDélután a helyi piac ponyvái alatt sétálunk. A vizes aszfalt illata keveredik a friss gyümölcsök és a szerb kávé aromájával a belvárosi utcákon.\n\nAz estét egy hangulatos központi étteremben zárjuk. Egy forró szerb leves mellett nézzük a város fényeit, amelyek megcsillannak a főtér tócsáiban.",
+            "ro": "O dimineață ploioasă în Loznica începe la monumentul lui Vuk Karadžić. Ne grăbim să găsim adăpost sub arcadele bisericii Acoperământul Maicii Domnului.\n\nLa prânz, Muzeul Jadar este refugiul ideal. În clădirea vechii farmacii, descoperim istoria regiunii la adăpost de ploaia care cade neîncetat afară.\n\nDupă-amiaza ne plimbăm printre tarabele acoperite ale pieței locale. Mirosul de asfalt ud se îmbină cu aroma fructelor proaspete și a cafelei sârbești de pe străzi.\n\nSeara se încheie confortabil într-un restaurant central. Cu o supă caldă sârbească în față, privim luminile orașului reflectându-se în bălțile din piața centrală.",
+            "en": "A rainy morning in Loznica starts at the Vuk Karadžić monument. We quickly seek shelter under the arches of the Church of the Holy Protection of the Theotokos.\n\nAt noon, the Museum of Jadar is the perfect indoor refuge. Inside the historic old pharmacy building, we explore local history while the rain pours outside.\n\nIn the afternoon, we wander under the awnings of the local market. The smell of wet asphalt mixes with the aroma of fresh produce and traditional Serbian coffee.\n\nThe evening ends cozily in a central restaurant. Over a bowl of hot Serbian soup, we watch the city lights shimmering in the puddles of the main square."
+          },
+          "stops": [
+            {
+              "name": "Vuk Karadžić Monument",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, da das Denkmal im Freien steht. Ein Regenschirm ist hier unverzichtbar.",
+                "hu": "Gyors fotómegálló, az emlékmű teljesen nyitott. Az esernyő itt elengedhetetlen.",
+                "ro": "O oprire scurtă pentru poze, monumentul fiind expus. Umbrela este indispensabilă aici.",
+                "en": "Short photo stop as the monument is outdoors. An umbrella is indispensable here."
+              }
+            },
+            {
+              "name": "Church of the Holy Protection of the Theotokos",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort für Besinnung. Achten Sie auf den rutschigen Marmorboden am Eingang.",
+                "hu": "Csendes, száraz hely az elmélkedéshez. Vigyázzon a bejáratnál a csúszós márványpadlóra.",
+                "ro": "Un loc liniștit și uscat pentru reculegere. Atenție la podeaua de marmură alunecoasă de la intrare.",
+                "en": "A quiet, dry place for reflection. Watch out for the slippery marble floor at the entrance."
+              }
+            },
+            {
+              "name": "Museum of Jadar",
+              "tip_5lang": {
+                "de": "Perfekt für Regentage. Planen Sie mehr Zeit ein, um die Ausstellungen im Trockenen zu genießen.",
+                "hu": "Tökéletes esős napra. Szánjon több időt a kiállításokra, amíg odakint esik.",
+                "ro": "Perfect pentru o zi ploioasă. Alocați mai mult timp expozițiilor în timp ce plouă afară.",
+                "en": "Perfect for a rainy day. Allocate more time to enjoy the exhibits while staying dry."
+              }
+            },
+            {
+              "name": "Local Market",
+              "tip_5lang": {
+                "de": "Die überdachten Bereiche bieten Schutz. Ideal, um lokale Spezialitäten trotz Regen zu kaufen.",
+                "hu": "A fedett részek védelmet nyújtanak. Ideális helyi termékek vásárlására az eső ellenére is.",
+                "ro": "Zonele acoperite oferă protecție. Ideal pentru a cumpăra produse locale în ciuda ploii.",
+                "en": "The covered areas provide protection. Ideal for buying local specialties despite the rain."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz am Fenster, um das Treiben im Regen bei einem heißen Getränk zu beobachten.",
+                "hu": "Válasszon ablak melletti asztalt, és élvezze a forró italt az esős utcákat figyelve.",
+                "ro": "Alegeți o masă la fereastră și savurați o băutură caldă privind străzile ploioase.",
+                "en": "Choose a window seat and enjoy a hot drink while watching the rainy streets."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Loznica hat viele Cafés mit Markisen, die guten Schutz bieten.",
+              "Die Gehwege im Zentrum können bei Nässe rutschig sein.",
+              "Das Jadar-Museum ist montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Ein Taschenregenschirm ist praktischer als ein großer Stockschirm.",
+              "Nutzen Sie die Regenpause für den Weg zum Markt."
+            ],
+            "hu": [
+              "Loznica központjában sok kávézó rendelkezik ernyőkkel védett terasszal.",
+              "A belvárosi járdák vizesen csúszósak lehetnek, óvatosan lépkedjen.",
+              "A Jadar Múzeum hétfőnként zárva tarthat, ellenőrizze előre.",
+              "Egy összecsukható esernyő praktikusabb a szűkebb piaci sorokon.",
+              "Használja ki az esőszüneteket a nyitottabb szakaszok megtételére."
+            ],
+            "ro": [
+              "Centrul orașului Loznica are multe cafenele cu terase protejate de umbrele.",
+              "Trotuarele din centru pot fi alunecoase când sunt ude, mergeți cu atenție.",
+              "Muzeul Jadar poate fi închis lunea, verificați programul înainte.",
+              "O umbrelă pliabilă este mai practică pe culoarele strâmte ale pieței.",
+              "Profită de pauzele de ploaie pentru a parcurge secțiunile mai deschise."
+            ],
+            "en": [
+              "Loznica center has many cafes with awnings that provide good shelter.",
+              "The downtown sidewalks can be slippery when wet, walk carefully.",
+              "The Jadar Museum is often closed on Mondays; check the hours in advance.",
+              "A compact umbrella is more practical than a large one in the market.",
+              "Use rain breaks to cover the more open sections of the walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen in Loznica. Die Statue von Vuk Karadžić wirkt im Raureif fast mystisch, während wir uns zügig bewegen, um warm zu bleiben.\n\nMittags bietet die beheizte Kirche der Heiligen Gottesmutter einen Moment der Stille und Wärme. Danach lockt das Jadar-Museum mit seinen geschichtsträchtigen Räumen.\n\nNachmittags ist der Marktbesuch kurz, aber intensiv. Der Dampf von heißem Tee und gegrilltem Fleisch liegt in der kalten Winterluft über den Verkaufsständen.\n\nDer Abend beginnt früh, da die Sonne gegen 16:30 Uhr untergeht. Ein herzhaftes Abendessen mit Rakija wärmt uns nach einem Tag in der klaren serbischen Winterkälte.",
+            "hu": "Deres téli reggel Loznicában. Vuk Karadžić szobra misztikusnak tűnik a zúzmarában, miközben tempósan haladunk, hogy mozgásban tartsuk magunkat.\n\nDélben a fűtött Istenanya oltalma templom nyújt egy pillanatnyi csendet és meleget. Utána a Jadar Múzeum történelmi falai közé húzódunk be.\n\nDélután a piaci látogatás rövid, de intenzív. A forró tea és a grillezett húsok gőze gomolyog a hideg téli levegőben az árusok standjai felett.\n\nAz este korán kezdődik, a nap 16:30 körül nyugszik. Egy kiadós vacsora és egy kupica rakija melegít fel minket a tiszta szerb télben töltött nap után.",
+            "ro": "O dimineață geroasă de iarnă în Loznica. Statuia lui Vuk Karadžić pare mistică în chiciură, în timp ce mergem alert pentru a ne menține calzi.\n\nLa prânz, biserica încălzită oferă un moment de liniște și căldură. Apoi ne retragem între zidurile istorice ale Muzeului Jadar.\n\nDupă-amiaza, vizita la piață este scurtă, dar intensă. Aburul ceaiului fierbinte și al cărnii la grătar plutește în aerul rece de iarnă deasupra tarabelor.\n\nSeara începe devreme, soarele apunând în jurul orei 16:30. O cină copioasă și un pahar de rakija ne încălzesc după o zi petrecută în gerul sârbesc.",
+            "en": "A frosty winter morning in Loznica. The statue of Vuk Karadžić looks almost mystical in the hoarfrost as we walk briskly to keep warm.\n\nAt noon, the heated Church of the Holy Protection provides a moment of silence and warmth. We then retreat into the historic halls of the Jadar Museum.\n\nIn the afternoon, the market visit is short but intense. Steam from hot tea and grilled meats rises into the cold winter air above the vendors' stalls.\n\nThe evening starts early, as the sun sets around 4:30 PM. A hearty dinner and a shot of rakija warm us up after a day spent in the clear Serbian winter chill."
+          },
+          "stops": [
+            {
+              "name": "Vuk Karadžić Monument",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf dem Pflaster rund um das Denkmal. Tragen Sie warme Handschuhe.",
+                "hu": "Vigyázzon a jegesedésre az emlékmű körüli kövön. Viseljen meleg kesztyűt.",
+                "ro": "Atenție la poleiul de pe pavajul din jurul monumentului. Purtați mănuși groase.",
+                "en": "Watch out for ice on the pavement around the monument. Wear warm gloves."
+              }
+            },
+            {
+              "name": "Church of the Holy Protection of the Theotokos",
+              "tip_5lang": {
+                "de": "Die Kerzen im Inneren spenden eine angenehme Atmosphäre und etwas Wärme.",
+                "hu": "A benti gyertyák kellemes hangulatot és némi meleget árasztanak.",
+                "ro": "Lumânările din interior oferă o atmosferă plăcută și puțină căldură.",
+                "en": "The candles inside provide a pleasant atmosphere and a bit of warmth."
+              }
+            },
+            {
+              "name": "Museum of Jadar",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um sich aufzuwärmen, während man die lokale Ethnologie studiert.",
+                "hu": "Kiváló hely a felmelegedésre, miközben a helyi néprajzi gyűjteményt nézi.",
+                "ro": "Un loc excelent pentru a vă încălzi în timp ce studiați etnografia locală.",
+                "en": "A great place to warm up while studying the local ethnology collection."
+              }
+            },
+            {
+              "name": "Local Market",
+              "tip_5lang": {
+                "de": "Probieren Sie heißen 'Šumadija-Tee' (gekochter Rakija), um die Kälte zu vertreiben.",
+                "hu": "Kóstolja meg a forró 'Šumadija teát' (főtt rakija), hogy elűzze a hideget.",
+                "ro": "Gustați 'ceaiul de Šumadija' (rachiu fiert) pentru a alunga frigul.",
+                "en": "Try some hot 'Šumadija tea' (boiled rakija) to drive away the cold."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Bestellen Sie schwere, traditionelle Gerichte wie Sarma oder Prebranac.",
+                "hu": "Rendeljen laktató, tradicionális ételeket, mint a szarma vagy a prebranac.",
+                "ro": "Comandați mâncăruri tradiționale consistente, cum ar fi sarma sau prebranac.",
+                "en": "Order hearty, traditional dishes like sarma or prebranac to stay fueled."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits vor 17:00 Uhr unter.",
+              "Tragen Sie festes Schuhwerk mit gutem Profil gegen Rutschgefahr.",
+              "Viele kleine Läden schließen im Winter etwas früher.",
+              "Öffentliche Gebäude sind meist gut beheizt, Museen moderat.",
+              "Heißer Ajvar ist ein toller Snack auf dem Markt."
+            ],
+            "hu": [
+              "A nap decemberben már délután 5 előtt lemegy, tervezzen eszerint.",
+              "Viseljen jó tapadású talpú cipőt a fagyott szakaszok miatt.",
+              "Sok kis bolt télen a szokásosnál korábban zárhat be.",
+              "A középületek jól fűtöttek, a múzeumban mérsékelt meleg várható.",
+              "A piaci árusoknál keresse a frissen sült lepényeket."
+            ],
+            "ro": [
+              "Soarele apune deja înainte de ora 17:00 în luna decembrie.",
+              "Purtați încălțăminte cu talpă aderentă pentru secțiunile înghețate.",
+              "Multe magazine mici se pot închide mai devreme în timpul iernii.",
+              "Clădirile publice sunt bine încălzite, muzeele au o temperatură moderată.",
+              "Căutați turtele proaspăt coapte la vânzătorii din piață."
+            ],
+            "en": [
+              "The sun sets before 5:00 PM in December; plan your outdoor time accordingly.",
+              "Wear shoes with good grip to handle potentially frozen patches.",
+              "Many small shops may close slightly earlier during the winter season.",
+              "Public buildings are generally well-heated, though museums may be cooler.",
+              "Look for fresh, hot flatbreads at the market for a warm snack."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -612,6 +784,178 @@
           "Bring a water bottle, especially for the longer stretch.",
           "The paths in the spa park are great for cycling, but be considerate of pedestrians."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radtag beginnt im Jadar-Museum, während der Regen gegen die Fenster schlägt. Wir warten die stärksten Schauer ab, bevor wir zur Kirche weiterfahren.\n\nMittags radeln wir vorsichtig auf nassen Straßen Richtung Banja Koviljača. Die kühle, feuchte Luft ist erfrischend, aber die Sicht auf die Berge ist eingeschränkt.\n\nNachmittags erreichen wir den Kurpark von Banja Koviljača. Die alten Villen wirken im Nebel und Regen fast wie aus einer anderen Zeit, melancholisch und stolz.\n\nAbends kehren wir mit dem Rad nach Loznica zurück. Ein warmes Abendessen ist die Belohnung für die Fahrt durch das wechselhafte serbische Wetter.",
+            "hu": "A bringás nap a Jadar Múzeumban indul, miközben az eső veri az ablakot. Itt várjuk meg a nagyobb zuhét, mielőtt a templomhoz tekernénk tovább.\n\nDélben óvatosan biciklizünk a vizes utakon Banja Koviljača felé. A hűvös, párás levegő frissítő, de a hegyekre nyíló kilátás most korlátozott.\n\nDélután érjük el a Banja Koviljača kúriaparkját. A régi villák a ködben és esőben olyanok, mintha egy másik korból maradtak volna itt, melankolikusak és büszkék.\n\nEste kerékpárral térünk vissza Loznicába. Egy forró vacsora a jutalmunk a változékony szerb időjárásban megtett kilométerek után.",
+            "ro": "Ziua cu bicicleta începe la Muzeul Jadar, în timp ce ploaia bate în ferestre. Așteptăm aici să treacă ropotul înainte de a pedala spre biserică.\n\nLa prânz, pedalăm cu grijă pe drumurile ude spre Banja Koviljača. Aerul răcoros și umed este revigorant, dar vizibilitatea spre munți este redusă.\n\nDupă-amiaza ajungem în parcul stațiunii Banja Koviljača. Vilele vechi prin ceață și ploaie par desprinse din altă epocă, melancolice și mândre.\n\nSeara revenim cu bicicleta în Loznica. O cină caldă este recompensa pentru kilometrii parcurși prin vremea sârbească schimbătoare.",
+            "en": "The cycling day starts at the Jadar Museum while rain taps on the windows. We wait out the heaviest downpour here before pedaling to the church.\n\nAt noon, we ride carefully on wet roads towards Banja Koviljača. The cool, humid air is refreshing, but the mountain views are limited today.\n\nIn the afternoon, we reach the spa park of Banja Koviljača. The old villas in the mist and rain look like they're from another era, melancholic and proud.\n\nThe evening sees us returning to Loznica by bike. A warm dinner is our reward for the kilometers covered in the changeable Serbian weather."
+          },
+          "stops": [
+            {
+              "name": "Museum of Jadar",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Dachvorsprung ab. Perfekter Ort, um einen Schauer abzuwarten.",
+                "hu": "Parkoljon az eresz alatt. Tökéletes hely egy zápor megvárására.",
+                "ro": "Parcați bicicleta sub streșină. Locul perfect pentru a aștepta trecerea unei averse.",
+                "en": "Park your bike under the eaves. It's a perfect place to wait out a sudden shower."
+              }
+            },
+            {
+              "name": "Church of the Holy Protection",
+              "tip_5lang": {
+                "de": "Achten Sie auf Markierungen am Boden, die bei Nässe extrem glatt sein können.",
+                "hu": "Vigyázzon az útburkolati jelekre, amelyek vizesen rendkívül csúszósak lehetnek.",
+                "ro": "Atenție la marcajele rutiere, care pot fi extrem de alunecoase când sunt ude.",
+                "en": "Watch out for road markings, which can be extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Ride to Banja Koviljača",
+              "tip_5lang": {
+                "de": "Tragen Sie eine wasserfeste Regenjacke. Der Gegenwind kann bei Regen sehr kühl sein.",
+                "hu": "Viseljen vízhatlan esődzsekit. A szembeszél esőben nagyon hűvös lehet.",
+                "ro": "Purtați o jachetă de ploaie impermeabilă. Vântul din față poate fi foarte rece pe ploaie.",
+                "en": "Wear a waterproof rain jacket. The headwind can be quite chilly during rain."
+              }
+            },
+            {
+              "name": "Banja Koviljača Park",
+              "tip_5lang": {
+                "de": "Die Parkwege aus Kies sind bei Regen oft besser befahrbar als glatte Asphaltflächen.",
+                "hu": "A murvás parki utak esőben sokszor jobban járhatók, mint a sima aszfaltfelületek.",
+                "ro": "Aleile cu pietriș din parc sunt adesea mai practicabile pe ploaie decât asfaltul.",
+                "en": "The gravel paths in the park are often easier to ride in the rain than smooth asphalt."
+              }
+            },
+            {
+              "name": "Return and Dinner",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit Abstellmöglichkeit im Blickfeld, um die Ausrüstung zu prüfen.",
+                "hu": "Keressen olyan helyet, ahol rálát a bringára, és ellenőrizheti a felszerelését.",
+                "ro": "Căutați un local unde puteți supraveghea bicicleta și verifica echipamentul.",
+                "en": "Find a place where you can keep an eye on your bike and check your gear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Verwenden Sie wasserdichte Packtaschen für Ihre Wertsachen.",
+              "Bremstest vor der Abfahrt nach Banja Koviljača machen.",
+              "Die Hauptstraße nach Koviljača hat bei Regen viel Spritzwasser.",
+              "Ein warmer Kaffee in der Kurkonditorei wirkt Wunder."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen kellék ilyen időben a bringán.",
+              "Használjon vízálló táskákat az értéktárgyai védelmére.",
+              "A Banja Koviljača felé indulás előtt tesztelje a fékeket.",
+              "A főúton az autók felverhetik a vizet, legyen óvatos.",
+              "Egy forró kávé a fürdő cukrászdájában csodákra képes."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt accesorii esențiale pe bicicletă pe această vreme.",
+              "Folosiți genți impermeabile pentru a vă proteja obiectele de valoare.",
+              "Testați frânele înainte de a pleca spre Banja Koviljača.",
+              "Pe drumul principal, mașinile pot împroșca apă, fiți precaut.",
+              "O cafea fierbinte la cofetăria stațiunii poate face minuni."
+            ],
+            "en": [
+              "Mudguards are a must-have accessory on your bike in this weather.",
+              "Use waterproof panniers or bags to protect your valuables.",
+              "Perform a brake test before heading out towards Banja Koviljača.",
+              "Cars on the main road may splash water; stay visible and cautious.",
+              "A hot coffee in the spa's pastry shop can work wonders for morale."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer, kalter Morgen für eine Radtour. Das Jadar-Museum ist unsere erste Station, wo wir uns vor der Weiterfahrt noch einmal aufwärmen.\n\nMittags führt der Weg durch die kahle, winterliche Landschaft nach Banja Koviljača. Die Luft ist schneidend kalt, aber die Bewegung hält uns warm.\n\nNachmittags erkunden wir den Park von Banja Koviljača. Die schneebedeckten Statuen und gefrorenen Brunnen verleihen dem Ort eine stille, herrschaftliche Eleganz.\n\nDer Rückweg nach Loznica erfolgt im schwindenden Tageslicht. Der Abend endet bei einem kräftigen Essen, das die verbrauchten Energien schnell wieder auffüllt.",
+            "hu": "Tiszta, hideg reggel egy biciklitúrához. A Jadar Múzeum az első állomásunk, ahol még egyszer átmelegedünk a továbbindulás előtt.\n\nDélben a kopár, téli tájon át vezet az utunk Banja Koviljača felé. A levegő metsző, de a mozgás melegen tart minket a kerékpáron.\n\nDélután a Banja Koviljača parkját fedezzük fel. A hóval borított szobrok és a befagyott szökőkutak csendes, úri eleganciát kölcsönöznek a helynek.\n\nA visszavezető út Loznicába már a fogyatkozó nappali fényben telik. Az este egy kiadós vacsorával zárul, ami gyorsan pótolja az elégetett kalóriákat.",
+            "ro": "O dimineață senină și rece pentru o tură cu bicicleta. Muzeul Jadar este prima oprire, unde ne încălzim înainte de a continua drumul.\n\nLa prânz, drumul ne poartă prin peisajul golaș de iarnă spre Banja Koviljača. Aerul este tăios, dar mișcarea ne menține calzi pe bicicletă.\n\nDupă-amiaza explorăm parcul din Banja Koviljača. Statuile acoperite de zăpadă și fântânile înghețate conferă locului o eleganță nobilă și liniștită.\n\nDrumul de întoarcere spre Loznica se desfășura în lumina slabă a amurgului. Seara se încheie cu o cină consistentă, care reface rapid energiile consumate.",
+            "en": "A clear, cold morning for a bike ride. The Jadar Museum is our first stop, where we warm up one last time before heading further out.\n\nAt noon, the path leads through the bare, winter landscape towards Banja Koviljača. The air is biting, but the exercise keeps us warm on the bike.\n\nIn the afternoon, we explore the park in Banja Koviljača. Snow-covered statues and frozen fountains give the place a silent, aristocratic elegance.\n\nThe ride back to Loznica takes place in the fading daylight. The evening ends with a robust meal that quickly replenishes the energy spent today."
+          },
+          "stops": [
+            {
+              "name": "Museum of Jadar",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; kalte Luft lässt den Druck in den Reifen oft sinken.",
+                "hu": "Ellenőrizze a guminyomást; a hideg levegő miatt gyakran lecsökken a nyomás.",
+                "ro": "Verificați presiunea în anvelope; aerul rece face adesea ca presiunea să scadă.",
+                "en": "Check your tire pressure; cold air often causes the pressure to drop."
+              }
+            },
+            {
+              "name": "Church of the Holy Protection",
+              "tip_5lang": {
+                "de": "Kurze Pause zum Händeaufwärmen. Das Metall am Lenker entzieht dem Körper schnell Wärme.",
+                "hu": "Rövid szünet a kézmelegítésre. A kormányon lévő fém gyorsan elvonja a hőt.",
+                "ro": "Pauză scurtă pentru încălzirea mâinilor. Metalul ghidonului atrage rapid frigul.",
+                "en": "Short break to warm your hands. The metal of the handlebars draws heat away quickly."
+              }
+            },
+            {
+              "name": "Ride to Banja Koviljača",
+              "tip_5lang": {
+                "de": "Tragen Sie Windstopper-Kleidung. Die Fahrtgeschwindigkeit verstärkt die Kälte massiv.",
+                "hu": "Viseljen szélálló ruházatot. A menetsebesség jelentősen fokozza a hidegérzetet.",
+                "ro": "Purtați haine rezistente la vânt. Viteza de deplasare accentuează masiv frigul.",
+                "en": "Wear windstopper clothing. The riding speed massively intensifies the cold."
+              }
+            },
+            {
+              "name": "Banja Koviljača Park",
+              "tip_5lang": {
+                "de": "Meiden Sie vereiste Stellen auf den Schattenwegen unter den großen Bäumen.",
+                "hu": "Kerülje a jeges foltokat az árnyékos utakon a nagy fák alatt.",
+                "ro": "Evitați porțiunile înghețate de pe aleile umbrite de sub copacii mari.",
+                "en": "Avoid icy patches on the shaded paths under the large trees."
+              }
+            },
+            {
+              "name": "Return and Dinner",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den frühen Abend funktioniert.",
+                "hu": "Győződjön meg róla, hogy a kerékpár világítása működik a korai sötétedéshez.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează pentru înserarea timpurie.",
+                "en": "Ensure your bike lights are working properly for the early evening darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist für Winterradler Pflicht.",
+              "Thermo-Trinkflasche mit warmem Tee mitnehmen.",
+              "Vermeiden Sie hektische Lenkbewegungen bei Bodenfrost.",
+              "Die Kette benötigt im Winter mehr Pflege durch Streusalzreste.",
+              "Planen Sie die Rückkehr spätestens für 16:00 Uhr ein."
+            ],
+            "hu": [
+              "A réteges öltözködés kötelező a téli bicikliseknek.",
+              "Vigyen magával termoszban meleg teát az útra.",
+              "Kerülje a hirtelen kormánymozdulatokat talajmenti fagy esetén.",
+              "A lánc télen több ápolást igényel az utak sózása miatt.",
+              "Tervezze a visszaérkezést legkésőbb délután 4 órára."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este obligatorie pentru bicicliștii de iarnă.",
+              "Luați un termos cu ceai cald pentru drum.",
+              "Evitați mișcările bruște de ghidon în caz de îngheț la sol.",
+              "Lanțul necesită mai multă îngrijire iarna din cauza sării de pe drumuri.",
+              "Planificați întoarcerea cel târziu pentru ora 16:00."
+            ],
+            "en": [
+              "Layering your clothes is essential for winter cyclists.",
+              "Take a thermos with hot tea along for the ride.",
+              "Avoid sudden steering movements if there is ground frost.",
+              "The chain requires more maintenance in winter due to road salt.",
+              "Plan to be back by 4:00 PM at the latest to avoid the dark."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -987,6 +1331,214 @@
           "The roads to the sights are winding, drive carefully.",
           "Parking is usually well-signposted and available."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag im Auto beginnt im Ethno-Dorf Tršić. Die Holzhäuser leuchten dunkel im Regen, während wir schnell von Haus zu Haus springen.\n\nMittags besuchen wir das Kloster Tronoša. Das Prasseln des Regens auf das alte Blechdach und der Duft von Weihrauch schaffen eine tiefe, spirituelle Ruhe.\n\nNachmittags fahren wir den Berg Gučevo hinauf. Die Straße windet sich durch dichte, neblige Wälder, die im Regen fast unwirklich grün und geheimnisvoll wirken.\n\nDer Abend endet im Park von Banja Koviljača. Wir genießen die beleuchteten Fontänen aus der Wärme des Wagens, bevor wir nach Loznica zurückkehren.",
+            "hu": "Esős nap az autóban, ami Tršić skanzenjében indul. A faházak sötéten fénylenek az esőben, miközben gyorsan ugrálunk házról házra.\n\nDélben a Tronoša kolostort látogatjuk meg. Az eső kopogása a régi bádogtetőn és a tömjén illata mély, spirituális nyugalmat áraszt.\n\nDélután felautózunk a Gučevo-hegyre. Az út sűrű, ködös erdőkön kanyarog át, amelyek az esőben szinte valószerűtlenül zöldek és titokzatosak.\n\nAz este a Banja Koviljača parkjában zárul. Az autó melegéből csodáljuk a kivilágított szökőkutakat, mielőtt visszatérnénk Loznicába.",
+            "ro": "O zi ploioasă cu mașina care începe în satul etno Tršić. Casele de lemn strălucesc închise la culoare în ploaie, în timp ce ne grăbim între ele.\n\nLa prânz vizităm mănăstirea Tronoša. Roopotul ploii pe acoperișul vechi de tablă și mirosul de tămâie creează o liniște spirituală profundă.\n\nDupă-amiaza urcăm pe muntele Gučevo. Drumul șerpuiește prin păduri dese și cețoase, care par ireal de verzi și misterioase în ploaie.\n\nSeara se încheie în parcul din Banja Koviljača. Admirăm fântânile iluminate din căldura mașinii înainte de a ne întoarce în Loznica.",
+            "en": "A rainy car trip starts in the ethno-village of Tršić. The wooden houses glow dark in the rain as we hop quickly from one building to the next.\n\nAt noon, we visit Tronoša Monastery. The drumming of rain on the old tin roof and the scent of incense create a deep, spiritual calm.\n\nIn the afternoon, we drive up Gučevo Mountain. The road winds through thick, misty forests that look almost unrealistically green and mysterious in the rain.\n\nThe evening ends at Banja Koviljača park. We enjoy the illuminated fountains from the warmth of the car before returning to Loznica."
+          },
+          "stops": [
+            {
+              "name": "Tršić Ethno-Village",
+              "tip_5lang": {
+                "de": "Die Wege zwischen den Häusern können schlammig sein. Tragen Sie wasserfeste Schuhe.",
+                "hu": "A házak közötti utak sárosak lehetnek. Viseljen vízálló cipőt.",
+                "ro": "Potecile dintre case pot fi noroioase. Purtați încălțăminte impermeabilă.",
+                "en": "The paths between the houses can get muddy. Wear waterproof shoes."
+              }
+            },
+            {
+              "name": "House of Vuk Karadžić",
+              "tip_5lang": {
+                "de": "Ein kleiner, trockener Raum, um mehr über den Vater der serbischen Sprache zu erfahren.",
+                "hu": "Kis, száraz helyiség, ahol többet tudhat meg a szerb nyelv atyjáról.",
+                "ro": "O încăpere mică și uscată pentru a afla mai multe despre tatăl limbii sârbe.",
+                "en": "A small, dry space to learn more about the father of the Serbian language."
+              }
+            },
+            {
+              "name": "Tronoša Monastery",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den Regen im Inneren der historischen Kirche abzuwarten.",
+                "hu": "Ideális hely az eső megvárására a történelmi templom belső terében.",
+                "ro": "Locul ideal pentru a aștepta trecerea ploii în interiorul bisericii istorice.",
+                "en": "An ideal place to wait out the rain inside the historic church's interior."
+              }
+            },
+            {
+              "name": "Gučevo Mountain",
+              "tip_5lang": {
+                "de": "Vorsicht bei Nebel auf den Serpentinen. Die Aussicht kann stark eingeschränkt sein.",
+                "hu": "Vigyázzon a ködre a szerpentineken. A kilátás erősen korlátozott lehet.",
+                "ro": "Atenție la ceață pe serpentine. Vizibilitatea poate fi puternic limitată.",
+                "en": "Be cautious of fog on the serpentines. The view may be significantly obscured."
+              }
+            },
+            {
+              "name": "Lunch with a View",
+              "tip_5lang": {
+                "de": "Genießen Sie das dramatische Wolkenspiel über dem Drina-Tal durch das Fenster.",
+                "hu": "Élvezze a drámai felhőjátékot a Drina-völgy felett az ablakon keresztül.",
+                "ro": "Admirați jocul dramatic al norilor deasupra văii Drinei prin fereastră.",
+                "en": "Enjoy the dramatic play of clouds over the Drina Valley through the window."
+              }
+            },
+            {
+              "name": "Banja Koviljača Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nah am Kurhaus, um trockenen Fußes in die Konditorei zu kommen.",
+                "hu": "Parkoljon a kúria közelében, hogy száraz lábbal jusson el a cukrászdába.",
+                "ro": "Parcați aproape de clădirea stațiunii pentru a ajunge uscat la cofetărie.",
+                "en": "Park close to the spa building to reach the pastry shop without getting wet."
+              }
+            },
+            {
+              "name": "Return to Loznica",
+              "tip_5lang": {
+                "de": "Achten Sie auf Aquaplaning auf der Schnellstraße bei starkem Regen.",
+                "hu": "Vigyázzon a vízenfutásra (aquaplaning) a gyorsforgalmi úton heves esőben.",
+                "ro": "Atenție la acvaplanare pe drumul rapid în caz de ploaie torențială.",
+                "en": "Watch out for aquaplaning on the highway during heavy rainfall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Bergtour.",
+              "Die Bergstraße zum Gučevo kann bei Regen Steinschlag aufweisen.",
+              "In Tršić sind die meisten Ausstellungsstücke in kleinen Holzhütten.",
+              "Das Kloster Tronoša bietet einen großen Parkplatz direkt davor.",
+              "Licht am Auto auch tagsüber bei Regen einschalten."
+            ],
+            "hu": [
+              "A hegyi túra előtt ellenőrizze az ablaktörlők állapotát.",
+              "A Gučevóra vezető úton esőben előfordulhat kőfelverődés.",
+              "Tršićben a legtöbb kiállítási tárgy kis faházakban található.",
+              "A Tronoša kolostornak nagy parkolója van közvetlenül a bejáratnál.",
+              "Nappal is kapcsolja fel a fényszórókat az esőben."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de tura la munte.",
+              "Pe drumul spre Gučevo pot apărea căderi de pietre în caz de ploaie.",
+              "În Tršić, majoritatea obiectelor sunt expuse în mici colibe de lemn.",
+              "Mănăstirea Tronoša oferă o parcare mare chiar în față.",
+              "Aprindeți farurile mașinii și pe timpul zilei când plouă."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers before the mountain drive.",
+              "The mountain road to Gučevo may have falling rocks during heavy rain.",
+              "In Tršić, most exhibits are located inside small wooden cottages.",
+              "Tronoša Monastery provides a large parking lot directly in front.",
+              "Keep your headlights on during the day when driving in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt im verschneiten Tršić. Die rauchigen Schornsteine der Holzhäuser zeichnen sich klar gegen den blauen Winterhimmel ab.\n\nMittags erreichen wir das Kloster Tronoša. Die Stille des verschneiten Waldes rund um das Kloster wird nur vom Läuten der Glocken unterbrochen.\n\nNachmittags wagen wir die Fahrt auf den Gučevo. Oben angekommen, bietet sich ein atemberaubender Blick auf das vereiste Drina-Tal und die Gipfel Bosniens.\n\nDer Abend in Banja Koviljača ist friedlich. Der beleuchtete Park wirkt im Schnee wie eine Kulisse für ein Wintermärchen, bevor es zurück ins warme Loznica geht.",
+            "hu": "Deres reggel a havas Tršićben. A faházak füstölő kéményei tisztán látszanak a kék téli égbolt előtt a friss levegőben.\n\nDélben érjük el a Tronoša kolostort. A kolostort övező havas erdő csendjét csak a harangszó töri meg időnként.\n\nDélután felmerészkedünk a Gučevo-hegyre. Felérve lélegzetelállító kilátás nyílik a jeges Drina-völgyre és Bosznia távoli csúcsaira.\n\nAz este Banja Koviljačában békés. A kivilágított park a hóban olyan, mint egy téli mese díszlete, mielőtt visszatérnénk a meleg Loznicába.",
+            "ro": "O dimineață geroasă începe în satul Tršić înzăpezit. Hornurile fumegânde ale caselor de lemn se profilează clar pe cerul albastru de iarnă.\n\nLa prânz ajungem la mănăstirea Tronoša. Liniștea pădurii înzăpezite din jurul mănăstirii este întreruptă doar de sunetul clopotelor.\n\nDupă-amiaza ne aventurăm pe muntele Gučevo. Ajunși sus, se deschide o vedere spectaculoasă asupra văii înghețate a Drinei și a vârfurilor Bosniei.\n\nSeara în Banja Koviljača este liniștită. Parcul iluminat pare un decor de basm de iarnă în zăpadă, înainte de a ne întoarce în Loznica.",
+            "en": "A frosty morning starts in snow-covered Tršić. The smoking chimneys of the wooden houses stand out clearly against the crisp blue winter sky.\n\nAt noon, we reach Tronoša Monastery. The silence of the snowy forest surrounding the monastery is broken only by the occasional ringing of bells.\n\nIn the afternoon, we venture up Gučevo Mountain. At the top, a breathtaking view of the frozen Drina Valley and Bosnia's peaks awaits.\n\nThe evening in Banja Koviljača is peaceful. The illuminated park in the snow looks like a scene from a winter fairy tale before we return to Loznica."
+          },
+          "stops": [
+            {
+              "name": "Tršić Ethno-Village",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Holztreppen bei den alten Häusern. Festes Schuhwerk ist nötig.",
+                "hu": "Vigyázzon a jeges faplépcsőkre a régi házaknál. Stabil lábbeli szükséges.",
+                "ro": "Atenție la scările de lemn înghețate de la casele vechi. Este necesară încălțăminte stabilă.",
+                "en": "Watch out for icy wooden stairs at the old houses. Sturdy footwear is necessary."
+              }
+            },
+            {
+              "name": "House of Vuk Karadžić",
+              "tip_5lang": {
+                "de": "Der Innenraum bietet einen kurzen Schutz vor dem kalten Wind in Tršić.",
+                "hu": "A belső tér rövid védelmet nyújt a hideg szél ellen Tršićben.",
+                "ro": "Interiorul oferă o scurtă protecție împotriva vântului rece din Tršić.",
+                "en": "The interior provides a brief respite from the cold wind in Tršić."
+              }
+            },
+            {
+              "name": "Tronoša Monastery",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Neuschnee schwierig sein; Winterreifen sind hier ein Muss.",
+                "hu": "Az odavezető út friss hóban nehézkes lehet; a téli gumi kötelező.",
+                "ro": "Accesul poate fi dificil în caz de zăpadă proaspătă; anvelopele de iarnă sunt obligatorii.",
+                "en": "The access road can be tricky in fresh snow; winter tires are a must here."
+              }
+            },
+            {
+              "name": "Gučevo Mountain",
+              "tip_5lang": {
+                "de": "Die Bergstraße wird geräumt, kann aber glatte Stellen haben. Fahren Sie langsam.",
+                "hu": "A hegyi utat takarítják, de lehetnek jeges szakaszok. Vezessen lassan.",
+                "ro": "Drumul montan este deszăpezit, dar poate avea porțiuni alunecoase. Conduceți încet.",
+                "en": "The mountain road is cleared but may have icy patches. Drive slowly and carefully."
+              }
+            },
+            {
+              "name": "Lunch with a View",
+              "tip_5lang": {
+                "de": "Ein Platz am Kamin ist nach der Bergtour besonders einladend.",
+                "hu": "A kandalló melletti hely a hegyi túra után különösen hívogató.",
+                "ro": "Un loc lângă șemineu este deosebit de primitor după tura la munte.",
+                "en": "A seat by the fireplace is especially inviting after the mountain excursion."
+              }
+            },
+            {
+              "name": "Banja Koviljača Park",
+              "tip_5lang": {
+                "de": "Die beleuchtete Fassade des Kursalons wirkt im Winterschnee besonders majestätisch.",
+                "hu": "A Kursalon kivilágított homlokzata a téli hóban különösen fenséges látvány.",
+                "ro": "Fațada iluminată a Kursalonului arată deosebit de maiestuos în zăpada de iarnă.",
+                "en": "The Kursalon's illuminated facade looks especially majestic in the winter snow."
+              }
+            },
+            {
+              "name": "Return to Loznica",
+              "tip_5lang": {
+                "de": "Achten Sie auf Wildwechsel in der Dämmerung auf den Waldstraßen.",
+                "hu": "Vigyázzon a vadakra az erdei utakon a szürkületben.",
+                "ro": "Atenție la animalele sălbatice pe drumurile de pădure la amurg.",
+                "en": "Watch out for wildlife on the forest roads during twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie Schneeketten mit, wenn Sie zum Gučevo fahren.",
+              "Frostschutz in der Scheibenwaschanlage nicht vergessen.",
+              "Die Bergstraße kann bei starkem Schneefall gesperrt sein.",
+              "Im Kloster Tronoša ist es im Winter recht kühl, warm anziehen.",
+              "Warmer Tee im Auto für die Pausen zwischendurch einplanen."
+            ],
+            "hu": [
+              "Vigyen magával hóláncot, ha a Gučevóra készül.",
+              "Ne felejtse el a fagyállót a szélvédőmosóban.",
+              "Nagy havazás esetén a hegyi út lezárásra kerülhet.",
+              "A Tronoša kolostorban télen hűvös van, öltözzön fel melegen.",
+              "Tervezzen meleg teát az autóba a szünetekre."
+            ],
+            "ro": [
+              "Luați lanțuri de zăpadă dacă plănuiți să mergeți pe Gučevo.",
+              "Nu uitați antigelul în instalația de spălare a parbrizului.",
+              "Drumul montan poate fi închis în caz de ninsoare abundentă.",
+              "În mănăstirea Tronoša este destul de răcoare iarna, îmbrăcați-vă bine.",
+              "Luați un ceai cald în mașină pentru pauzele de pe traseu."
+            ],
+            "en": [
+              "Carry snow chains if you plan to drive up Gučevo Mountain.",
+              "Don't forget to use anti-freeze in your windshield washer fluid.",
+              "The mountain road may be closed during heavy snowfall.",
+              "Tronoša Monastery can be quite chilly in winter; dress warmly.",
+              "Keep a thermos of hot tea in the car for breaks along the way."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1318,6 +1870,196 @@
           "Have small change ready for the bus ticket.",
           "The bus ride is a good opportunity to see the landscape between the two cities."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Transit-Tag beginnt am Vuk-Denkmal. Wir nutzen die kurzen Gehwege zwischen den Haltestellen, um trocken zu bleiben.\n\nMittags bietet das Jadar-Museum den perfekten Schutz. Die Zeit bis zum nächsten Bus nach Banja Koviljača verbringen wir bei den lokalen Exponaten.\n\nNachmittags bringt uns der Bus direkt zum Park von Banja Koviljača. Von der Haltestelle ist es nur ein kurzer Sprung unter die Arkaden der Kurgebäude.\n\nDer Abend endet mit der Rückfahrt nach Loznica. Die beleuchteten nassen Straßen ziehen am Busfenster vorbei, während wir uns auf das Abendessen freuen.",
+            "hu": "Esős tömegközlekedős nap, ami a Vuk-emlékműnél indul. A megállók közötti rövid gyalogutakat használjuk ki, hogy szárazak maradjunk.\n\nDélben a Jadar Múzeum tökéletes védelmet nyújt. A Banja Koviljačába tartó következő buszig hátralévő időt a helyi tárlatok között töltjük.\n\nDélután a busz közvetlenül a Banja Koviljača parkjához visz. A megállótól csak egy rövid ugrás a fürdőépületek árkádja.\n\nAz este a visszautazással zárul Loznicába. A kivilágított, vizes utcák elsuhannak a buszablak mellett, miközben már a vacsorára készülünk.",
+            "ro": "O zi ploioasă cu transportul în comun care începe la monumentul lui Vuk. Folosim traseele scurte dintre stații pentru a rămâne uscați.\n\nLa prânz, Muzeul Jadar oferă protecția perfectă. Petrecem timpul până la următorul autobuz spre Banja Koviljača printre exponatele locale.\n\nDupă-amiaza, autobuzul ne lasă direct lângă parcul stațiunii. De la stație este doar o scurtă fugă până sub arcadele clădirilor băilor.\n\nSeara se încheie cu drumul de întoarcere în Loznica. Străzile ude și iluminate trec prin dreptul ferestrei autobuzului în timp ce ne gândim la cină.",
+            "en": "A rainy transit day starts at the Vuk monument. We stick to short walks between stops to stay as dry as possible.\n\nAt noon, the Jadar Museum provides perfect shelter. We spend the time until the next bus to Banja Koviljača exploring the local exhibits.\n\nIn the afternoon, the bus takes us directly to the Banja Koviljača park. It's just a quick hop from the stop to the shelter of the spa building arches.\n\nThe evening ends with the bus ride back to Loznica. The illuminated wet streets slide past the window as we look forward to dinner."
+          },
+          "stops": [
+            {
+              "name": "Vuk Karadžić Monument",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle befindet sich in unmittelbarer Nähe und bietet Unterstand.",
+                "hu": "A buszmegálló a közvetlen közelben van, és fedett várakozót kínál.",
+                "ro": "Stația de autobuz este în imediata apropiere și oferă adăpost.",
+                "en": "The bus stop is located in the immediate vicinity and offers shelter."
+              }
+            },
+            {
+              "name": "Museum of Jadar",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Busfahrplan im Museum, um unnötige Wartezeiten im Regen zu vermeiden.",
+                "hu": "Ellenőrizze a buszmenetrendet a múzeumban, hogy elkerülje az esőben való várakozást.",
+                "ro": "Verificați mersul autobuzelor în muzeu pentru a evita așteptarea în ploaie.",
+                "en": "Check the bus schedule inside the museum to avoid waiting in the rain."
+              }
+            },
+            {
+              "name": "Bus to Banja Koviljača",
+              "tip_5lang": {
+                "de": "Die Busse verkehren regelmäßig. Achten Sie auf den Einstieg auf der richtigen Straßenseite.",
+                "hu": "A buszok rendszeresen járnak. Ügyeljen rá, hogy a megfelelő oldalon szálljon fel.",
+                "ro": "Autobuzele circulă regulat. Atenție să urcați de pe partea corectă a străzii.",
+                "en": "Buses run regularly. Make sure you board on the correct side of the street."
+              }
+            },
+            {
+              "name": "Banja Koviljača Park",
+              "tip_5lang": {
+                "de": "Der Bus hält nah am Parkeingang, ideal bei schlechtem Wetter.",
+                "hu": "A busz közel áll meg a park bejáratához, ami ideális rossz időben.",
+                "ro": "Autobuzul oprește aproape de intrarea în parc, ideal pe vreme rea.",
+                "en": "The bus stops close to the park entrance, making it ideal in bad weather."
+              }
+            },
+            {
+              "name": "Lunch in Banja Koviljača",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant in der Nähe der Haltestelle für die Rückfahrt.",
+                "hu": "Válasszon éttermet a visszainduló busz megállójának közelében.",
+                "ro": "Alegeți un restaurant aproape de stația autobuzului de întoarcere.",
+                "en": "Choose a restaurant near the return bus stop for convenience."
+              }
+            },
+            {
+              "name": "Bus back to Loznica",
+              "tip_5lang": {
+                "de": "Halten Sie Kleingeld für das Ticket bereit, falls kein Automat vorhanden ist.",
+                "hu": "Készítsen össze aprópénzt a jegyre, ha nincs automata a környéken.",
+                "ro": "Pregătiți bani mărunți pentru bilet, în caz că nu există automat în zonă.",
+                "en": "Have some small change ready for the ticket in case there's no machine."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Loznica Prevoz' für Echtzeit-Infos, falls verfügbar.",
+              "Die Busse können bei starkem Regen leichte Verspätungen haben.",
+              "Haltestellen im Zentrum sind meist überdacht.",
+              "Fahrkarten können oft direkt beim Fahrer gekauft werden.",
+              "Ein Buch für die Wartezeiten im Museumscafé mitnehmen."
+            ],
+            "hu": [
+              "Használja a helyi közlekedési infókat a buszok követéséhez.",
+              "A buszok heves esőzésben kisebb késéssel közlekedhetnek.",
+              "A belvárosi megállók többsége fedett várakozóval rendelkezik.",
+              "A jegyeket gyakran közvetlenül a sofőrnél is meg lehet venni.",
+              "Vigyen magával olvasnivalót a múzeumi váróba vagy kávézóba."
+            ],
+            "ro": [
+              "Folosiți informațiile locale de transport pentru a urmări autobuzele.",
+              "Autobuzele pot avea mici întârzieri în caz de ploaie torențială.",
+              "Majoritatea stațiilor din centru au zone de așteptare acoperite.",
+              "Biletele pot fi cumpărate adesea direct de la șofer.",
+              "Luați ceva de citit pentru timpul de așteptare la muzeu sau cafenea."
+            ],
+            "en": [
+              "Check local transit info or apps for bus tracking if available.",
+              "Buses may experience slight delays during heavy rainfall.",
+              "Most downtown bus stops are equipped with shelters.",
+              "Tickets can often be purchased directly from the driver.",
+              "Carry a book to pass the time in the museum cafe or waiting area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintertag beginnt am Vuk-Denkmal. Wir schätzen die kurzen Wege zu den beheizten Bussen der Stadt.\n\nMittags bietet das Jadar-Museum eine willkommene Aufwärmpause. Wir studieren die lokale Geschichte, während draußen der Winterwind weht.\n\nNachmittags bringt uns der Bus nach Banja Koviljača. Der Blick aus dem warmen Bus auf die verschneiten Felder rund um Loznica ist beruhigend.\n\nDer Abend beginnt früh in der Dämmerung. Die Rückfahrt im beleuchteten Bus nach Loznica wirkt gemütlich, bevor wir uns zum Abendessen begeben.",
+            "hu": "Fagyos téli nap, ami a Vuk-emlékműnél indul. Értékeljük a rövid sétákat a város fűtött buszaihoz.\n\nDélben a Jadar Múzeum nyújt szívesen látott felmelegedési lehetőséget. A helyi történelmet tanulmányozzuk, miközben odakint fúj a téli szél.\n\nDélután a busz Banja Koviljačába repít minket. A fűtött buszból figyelni a Loznica körüli havas mezőket megnyugtató élmény.\n\nAz este korán indul a szürkülettel. A kivilágított busszal való visszatérés Loznicába meghitt hangulatot áraszt a vacsora előtt.",
+            "ro": "O zi geroasă de iarnă care începe la monumentul lui Vuk. Apreciem traseele scurte către autobuzele încălzite ale orașului.\n\nLa prânz, Muzeul Jadar oferă o pauză de încălzire binevenită. Studiem istoria locală în timp ce afară suflă vântul de iarnă.\n\nDupă-amiaza, autobuzul ne duce la Banja Koviljača. Priveliștea câmpurilor înzăpezite din jurul Loznicăi din autobuzul cald este relaxantă.\n\nSeara începe devreme odată cu amurgul. Întoarcerea la Loznica cu autobuzul iluminat pare foarte primitoare înainte de cină.",
+            "en": "A frosty winter day starts at the Vuk monument. We appreciate the short walks to the city's heated buses.\n\nAt noon, the Jadar Museum provides a welcome warming break. We study local history while the winter wind blows outside.\n\nIn the afternoon, the bus whisks us to Banja Koviljača. Watching the snowy fields around Loznica from the heated bus is a relaxing experience.\n\nThe evening starts early with the twilight. The return trip to Loznica in the illuminated bus feels cozy before we head out for dinner."
+          },
+          "stops": [
+            {
+              "name": "Vuk Karadžić Monument",
+              "tip_5lang": {
+                "de": "Warten Sie im Foyer des nahegelegenen Kulturzentrums, falls der Bus Verspätung hat.",
+                "hu": "Várjon a közeli kulturális központ előterében, ha késik a busz.",
+                "ro": "Așteptați în holul centrului cultural din apropiere dacă autobuzul întârzie.",
+                "en": "Wait in the foyer of the nearby cultural center if the bus is running late."
+              }
+            },
+            {
+              "name": "Museum of Jadar",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Wintermäntel während des Besuchs abzulegen.",
+                "hu": "Használja a ruhatárat, hogy letegye a nehéz téli kabátot a látogatás idejére.",
+                "ro": "Folosiți garderoba pentru a lăsa haina grea de iarnă pe durata vizitei.",
+                "en": "Use the cloakroom to leave your heavy winter coat during the visit."
+              }
+            },
+            {
+              "name": "Bus to Banja Koviljača",
+              "tip_5lang": {
+                "de": "Busse sind im Winter meist gut beheizt, was die Fahrt sehr angenehm macht.",
+                "hu": "A buszok télen általában jól fűtöttek, ami kellemessé teszi az utat.",
+                "ro": "Autobuzele sunt de obicei bine încălzite iarna, ceea ce face drumul plăcut.",
+                "en": "Buses are usually well-heated in winter, making the journey very comfortable."
+              }
+            },
+            {
+              "name": "Banja Koviljača Park",
+              "tip_5lang": {
+                "de": "Vom Busstopp zum Kurmittelhaus sind es nur wenige Gehminuten im Kalten.",
+                "hu": "A buszmegállótól a fürdőépületig csak pár perc séta a hidegben.",
+                "ro": "De la stația de autobuz până la clădirea băilor sunt doar câteva minute de mers prin frig.",
+                "en": "It's only a few minutes' walk in the cold from the bus stop to the spa building."
+              }
+            },
+            {
+              "name": "Lunch in Banja Koviljača",
+              "tip_5lang": {
+                "de": "Ein heißer Kräutertee ist nach dem Spaziergang im Winterpark ein Muss.",
+                "hu": "Egy forró gyógytea kötelező a téli parkban tett séta után.",
+                "ro": "Un ceai de plante fierbinte este obligatoriu după plimbarea prin parcul de iarnă.",
+                "en": "A hot herbal tea is a must-have after a stroll through the winter park."
+              }
+            },
+            {
+              "name": "Bus back to Loznica",
+              "tip_5lang": {
+                "de": "Beachten Sie, dass die Frequenz der Busse am frühen Abend abnehmen kann.",
+                "hu": "Vegye figyelembe, hogy a buszok gyakorisága kora este csökkenhet.",
+                "ro": "Rețineți că frecvența autobuzelor poate scădea spre seară.",
+                "en": "Note that bus frequency may decrease in the early evening hours."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie sich bei langen Wartezeiten in geschlossenen Räumen auf.",
+              "Die Busse sind die wärmste Art der Fortbewegung im Winter.",
+              "Fahrpläne können witterungsbedingt leicht variieren.",
+              "Tragen Sie warme Socken, da die Füße beim Warten schnell auskühlen.",
+              "Im Bus ist es oft sehr warm, tragen Sie Kleidung in Schichten."
+            ],
+            "hu": [
+              "Hosszabb várakozás esetén keressen zárt, fűtött helyet.",
+              "Télen a busz a legmelegebb közlekedési mód a városban.",
+              "A menetrendek az időjárás függvényében kismértékben változhatnak.",
+              "Viseljen meleg zoknit, mert várakozás közben a lábak gyorsan kihűlnek.",
+              "A buszokon sokszor nagyon meleg van, öltözzön rétegesen."
+            ],
+            "ro": [
+              "În caz de așteptare lungă, căutați un spațiu închis și încălzit.",
+              "Autobuzul este cel mai călduros mod de transport iarna.",
+              "Mersul autobuzelor poate varia ușor în funcție de vreme.",
+              "Purtați șosete groase, picioarele se răcesc rapid în timpul așteptării.",
+              "În autobuze este adesea foarte cald, îmbrăcați-vă în straturi."
+            ],
+            "en": [
+              "Find an indoor, heated space if you have a long wait for the bus.",
+              "Buses are the warmest way to get around the city in winter.",
+              "Schedules may vary slightly depending on weather conditions.",
+              "Wear warm socks as your feet can cool down quickly while waiting.",
+              "Buses are often very warm inside, so layering your clothes is key."
+            ]
+          }
+        }
       }
     }
   }

@@ -306,6 +306,196 @@
           "Take your time to explore the small streets and hidden courtyards.",
           "Many cafes offer refreshing drinks for a break in between."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Tag im Historischen Museum, um dem Regen zu entgehen. Mittags besuchen Sie den Uhrturm und die St.-Georgs-Kirche für kurze, trockene Aufenthalte. Am Nachmittag bietet das Baba-Wanga-Haus eine intime Atmosphäre unter prasselndem Regen. Den Abend lassen Sie im Mladost-Stadtpark ausklingen, wo die nassen Alleen im Laternenlicht glänzen.",
+            "hu": "Kezdje a napot a Történeti Múzeumban, védve az esőtől. Délben az óratorony és a Szent György-templom kínál rövid menedéket a záporok között. Délután a Baba Vanga-ház meghitt hangulata várja a szemerkélő esőben. Az estét a Mladost városi parkban zárja, ahol a vizes utak csillognak az utcai lámpák fényében.",
+            "ro": "Începeți ziua la Muzeul de Istorie pentru a evita ploaia. La prânz, vizitați Turnul cu Ceas și Biserica Sf. Gheorghe pentru scurte opriri uscate. După-amiaza, Casa Baba Vanga oferă o atmosferă intimă sub ploaia care cade. Încheiați seara în Parcul Mladost, unde aleile umede strălucesc sub lumina felinarelor.",
+            "en": "Start the day at the Historical Museum to escape the rain. At noon, visit the Clock Tower and St. George Church for short, dry intervals. In the afternoon, the Baba Vanga House offers an intimate atmosphere under the patter of rain. End the evening in Mladost City Park, where the wet paths glisten under the streetlights."
+          },
+          "stops": [
+            {
+              "name": "Petrich Historical Museum",
+              "tip_5lang": {
+                "de": "Große Garderobe für nasse Mäntel und Schirme.",
+                "hu": "Tágas ruhatár a vizes kabátoknak és ernyőknek.",
+                "ro": "Garderobă spațioasă pentru haine ude și umbrele.",
+                "en": "Spacious cloakroom available for wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "The Clock Tower of Petrich",
+              "tip_5lang": {
+                "de": "Der Boden kann bei Nässe rutschig sein, Vorsicht.",
+                "hu": "A kövezet vizesen csúszós lehet, óvatosan lépkedjen.",
+                "ro": "Podeaua poate fi alunecoasă când este umedă, atenție.",
+                "en": "The ground can be slippery when wet, watch your step."
+              }
+            },
+            {
+              "name": "Church of Saint George",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um einen Regenschauer abzuwarten.",
+                "hu": "Csendes hely egy nagyobb zápor kivárására.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea unei ploi.",
+                "en": "A quiet place to wait out a heavy rain shower."
+              }
+            },
+            {
+              "name": "Monument to Anton Popov",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Stopp für ein schnelles Foto.",
+                "hu": "Csak egy rövid megálló egy gyors fotó erejéig.",
+                "ro": "Doar o scurtă oprire pentru o fotografie rapidă.",
+                "en": "Just a short stop for a quick photo."
+              }
+            },
+            {
+              "name": "Baba Vanga House-Museum",
+              "tip_5lang": {
+                "de": "Drinnen ist es gemütlich und trocken.",
+                "hu": "A belső terekben barátságos és száraz az idő.",
+                "ro": "În interior este confortabil și uscat.",
+                "en": "The interior is cozy and dry."
+              }
+            },
+            {
+              "name": "Mladost City Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die asphaltierten Wege statt der Wiesen.",
+                "hu": "Használja az aszfaltozott utakat a fű helyett.",
+                "ro": "Folosiți aleile asfaltate în locul ierbii.",
+                "en": "Stick to the paved paths instead of the grass."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Kopfsteinpflastergassen.",
+              "Viele Cafés rund um das Museum bieten Unterschlupf.",
+              "Ein Taschenschirm ist bei den kurzen Distanzen ideal.",
+              "Die Museen sind montags oft geschlossen, prüfen Sie das.",
+              "Die Parkwege sind bei Regen gut beleuchtet."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "A múzeum környéki kávézók jó menedéket nyújtanak.",
+              "Az összecsukható esernyő ideális a rövid távokra.",
+              "Ellenőrizze a múzeumi nyitvatartást, hétfőn szünnap lehet.",
+              "A parki utak esőben is jól megvilágítottak."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "Multe cafenele din jurul muzeului oferă adăpost.",
+              "O umbrelă pliabilă este ideală pentru distanțe scurte.",
+              "Verificați programul muzeelor, luni poate fi închis.",
+              "Aleile parcului sunt bine iluminate chiar și pe ploaie."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "Many cafes around the museum offer good shelter.",
+              "A compact umbrella is ideal for short distances.",
+              "Check museum hours, they might be closed on Mondays.",
+              "The park paths are well-lit even in rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt im beheizten Museum. Mittags locken die klaren Linien des Uhrturms und die Stille der Kirche. Nachmittags erfahren Sie Wärme und Mystik im Baba-Wanga-Haus. Da die Sonne gegen 17:00 Uhr untergeht, genießen Sie die blaue Stunde im Stadtpark, bevor Sie sich in ein warmes Restaurant zurückziehen.",
+            "hu": "A friss téli reggel a fűtött múzeumban indul. Délben az óratorony tiszta vonalai és a templom csendje hívogat. Délután a Baba Vanga-ház misztikus melegében pihenhet. Mivel a nap 17:00 körül nyugszik, élvezze a kék órát a városi parkban, mielőtt beülne egy meleg étterembe.",
+            "ro": "O dimineață răcoroasă de iarnă începe la muzeul încălzit. La prânz, liniile clare ale Turnului cu Ceas și liniștea bisericii vă atrag. După-amiaza, descoperiți căldura și misticismul Casei Baba Vanga. Deoarece soarele apune în jur de ora 17:00, bucurați-vă de ora albastră în parcul orașului.",
+            "en": "A crisp winter morning begins in the heated museum. At noon, the clear lines of the Clock Tower and the silence of the church beckon. In the afternoon, experience warmth and mysticism in the Baba Vanga House. As the sun sets around 5:00 PM, enjoy the blue hour in the city park before retreating to a warm restaurant."
+          },
+          "stops": [
+            {
+              "name": "Petrich Historical Museum",
+              "tip_5lang": {
+                "de": "Perfekt temperierte Ausstellungsräume.",
+                "hu": "Kellemesen fűtött kiállítótermek.",
+                "ro": "Săli de expoziție cu temperatură plăcută.",
+                "en": "Perfectly heated exhibition rooms."
+              }
+            },
+            {
+              "name": "The Clock Tower of Petrich",
+              "tip_5lang": {
+                "de": "Windanfälliger Ort, ziehen Sie sich warm an.",
+                "hu": "Szeles pont, öltözzön fel melegen.",
+                "ro": "Loc expus vântului, îmbrăcați-vă gros.",
+                "en": "Windy spot, dress warmly for the photo."
+              }
+            },
+            {
+              "name": "Church of Saint George",
+              "tip_5lang": {
+                "de": "Die Kerzen sorgen für eine warme Atmosphäre.",
+                "hu": "A gyertyák meleg és meghitt hangulatot árasztanak.",
+                "ro": "Lumânările creează o atmosferă caldă.",
+                "en": "Candles provide a warm and peaceful atmosphere."
+              }
+            },
+            {
+              "name": "Monument to Anton Popov",
+              "tip_5lang": {
+                "de": "Im Winter oft von Reif bedeckt, sehr fotogen.",
+                "hu": "Télen gyakran dér borítja, nagyon fotogén.",
+                "ro": "Iarna este adesea acoperit de brumă, foarte fotogenic.",
+                "en": "Often covered in frost in winter, very photogenic."
+              }
+            },
+            {
+              "name": "Baba Vanga House-Museum",
+              "tip_5lang": {
+                "de": "Ein kleiner, gut beheizter Rückzugsort.",
+                "hu": "Kicsi, jól fűtött és barátságos helyszín.",
+                "ro": "Un refugiu mic și bine încălzit.",
+                "en": "A small, well-heated and welcoming retreat."
+              }
+            },
+            {
+              "name": "Mladost City Park",
+              "tip_5lang": {
+                "de": "Frühzeitiger Sonnenuntergang beachten (ca. 16:45).",
+                "hu": "Figyeljen a korai naplementére (kb. 16:45).",
+                "ro": "Atenție la apusul timpuriu (aprox. 16:45).",
+                "en": "Note the early sunset (around 4:45 PM)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Trinken Sie heißen bulgarischen Kräutertee zum Aufwärmen.",
+              "Zwiebelprinzip bei der Kleidung ist ratsam.",
+              "Die Sonne verschwindet früh hinter den Bergen.",
+              "Gehwege können morgens überfroren sein.",
+              "Suchen Sie mittags ein Restaurant mit Kamin."
+            ],
+            "hu": [
+              "Igyon forró bolgár gyógyteát a felmelegedéshez.",
+              "A réteges öltözködés javasolt a kinti és benti váltásnál.",
+              "A nap korán eltűnik a hegyek mögött.",
+              "A járdák reggelente jegesek lehetnek.",
+              "Keressen egy kandallós éttermet ebédidőben."
+            ],
+            "ro": [
+              "Beți ceai fierbinte de plante bulgăresc pentru încălzire.",
+              "Îmbrăcămintea în straturi este recomandată.",
+              "Soarele dispare devreme în spatele munților.",
+              "Trotuarele pot fi înghețate dimineața.",
+              "Căutați un restaurant cu șemineu pentru prânz."
+            ],
+            "en": [
+              "Drink hot Bulgarian herbal tea to warm up.",
+              "Layered clothing is recommended for indoor/outdoor shifts.",
+              "The sun disappears early behind the mountains.",
+              "Sidewalks can be icy in the mornings.",
+              "Look for a restaurant with a fireplace for lunch."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -582,6 +772,178 @@
           "Bring enough water, the route to the viewpoint can be strenuous.",
           "Some roads outside the city may not be paved."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Abenteuer auf zwei Rädern trotz Regen. Morgens bietet der Park Schutz unter dichten Bäumen, gefolgt von langen Museumsbesuchen. Mittags radeln Sie zum Vanga-Haus. Die Fahrt zum Belasitsa-Aussichtspunkt ist bei Nebel mystisch, und die Samuil-Festung wirkt im Regen besonders trutzig.",
+            "hu": "Kétkerekű kaland az eső ellenére is. Reggel a park sűrű fái adnak védelmet, majd hosszú múzeumlátogatás következik. Délben tekerjen el a Vanga-házhoz. A Belasica-kilátóhoz vezető út ködben misztikus, Sámuel vára pedig különösen zord az esőben.",
+            "ro": "O aventură pe două roți în ciuda ploii. Dimineața, parcul oferă protecție sub copacii deși, urmată de vizite lungi la muzee. La prânz, pedalați spre Casa Vanga. Drumul spre punctul de belvedere Belasitsa este mistic în ceață.",
+            "en": "A two-wheeled adventure despite the rain. In the morning, the park offers shelter under thick trees, followed by long museum visits. At noon, cycle to the Vanga House. The ride to Belasitsa Viewpoint is mystical in the fog, and Samuel's Fortress looks particularly defiant in the rain."
+          },
+          "stops": [
+            {
+              "name": "Mladost City Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor nassem Laub auf den Radwegen.",
+                "hu": "Vigyázzon a vizes levelekre a kerékpárúton.",
+                "ro": "Atenție la frunzele ude pe pistele de biciclete.",
+                "en": "Watch out for wet leaves on the cycling paths."
+              }
+            },
+            {
+              "name": "Historical Museum & Clock Tower",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe suchen.",
+                "hu": "Keressen fedett biciklitárolót a közelben.",
+                "ro": "Căutați rastele de biciclete acoperite în apropiere.",
+                "en": "Look for covered bike racks nearby."
+              }
+            },
+            {
+              "name": "Baba Vanga House-Museum",
+              "tip_5lang": {
+                "de": "Kurze Fahrstrecke im Stadtgebiet.",
+                "hu": "Rövid tekerés a városon belül.",
+                "ro": "Distanță scurtă de parcurs în oraș.",
+                "en": "Short cycling distance within the city."
+              }
+            },
+            {
+              "name": "Belasitsa Viewpoint",
+              "tip_5lang": {
+                "de": "Die Straße kann bei Regen rutschig sein.",
+                "hu": "Az út vizesen csúszós lehet emelkedő közben.",
+                "ro": "Drumul poate fi alunecos pe ploaie.",
+                "en": "The road can be slippery during the ascent in rain."
+              }
+            },
+            {
+              "name": "Samuel's Fortress",
+              "tip_5lang": {
+                "de": "Starke Winde auf der Mauer bei Sturm möglich.",
+                "hu": "Viharos szél várható a várfalakon.",
+                "ro": "Vânt puternic pe ziduri în caz de furtună.",
+                "en": "Strong winds possible on the fortress walls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist ein Muss.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt von Belasitsa.",
+              "Die Sicht am Aussichtspunkt kann eingeschränkt sein.",
+              "Schutzbleche am Fahrrad sind sehr empfohlen.",
+              "Die Samuil-Festung bietet wenig Schutz vor Regen."
+            ],
+            "hu": [
+              "A teljes esőruházat elengedhetetlen.",
+              "Ellenőrizze a fékeket a Belasicáról való leereszkedés előtt.",
+              "A kilátás korlátozott lehet a köd miatt.",
+              "A sárvédő használata erősen ajánlott.",
+              "Sámuel vára kevés menedéket nyújt az eső elől."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este obligatoriu.",
+              "Verificați frânele înainte de coborârea de pe Belasitsa.",
+              "Vizibilitatea la punctul de belvedere poate fi redusă.",
+              "Apărătorile de noroi sunt recomandate.",
+              "Cetatea lui Samuil oferă puțin adăpost împotriva ploii."
+            ],
+            "en": [
+              "Full rain gear is a must for this trip.",
+              "Check your brakes before descending from Belasitsa.",
+              "Visibility at the viewpoint might be limited.",
+              "Mudguards on your bike are highly recommended.",
+              "Samuel's Fortress offers little shelter from rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Tag für aktive Radler. Morgens ist der Park friedlich und leer. Mittags wärmen Sie sich in den Museen auf. Die Fahrt nach Belasitsa erfordert Ausdauer gegen die Kälte, belohnt aber mit klarer Fernsicht. Beenden Sie die Tour an der Samuil-Festung, bevor der kalte Abendwind zunimmt.",
+            "hu": "Fagyos nap az aktív bringásoknak. Reggel a park békés és üres. Délben melegedjen fel a múzeumokban. A Belasica felé vezető út kitartást igényel a hidegben, de tiszta kilátással jutalmaz. Zárja a túrát Sámuel váránál, mielőtt feltámad az esti fagyos szél.",
+            "ro": "O zi geroasă pentru bicicliștii activi. Dimineața parcul este liniștit. La prânz, încălziți-vă în muzee. Drumul spre Belasitsa necesită rezistență la frig, dar oferă vederi clare. Încheiați turul la Cetatea lui Samuil.",
+            "en": "A frosty day for active cyclists. In the morning, the park is peaceful and empty. At noon, warm up in the museums. The ride to Belasitsa requires endurance against the cold but rewards with clear views. Finish the tour at Samuel's Fortress before the cold evening wind picks up."
+          },
+          "stops": [
+            {
+              "name": "Mladost City Park",
+              "tip_5lang": {
+                "de": "Morgens kann es auf Brücken glatt sein.",
+                "hu": "Reggelente a hidakon jegesedés várható.",
+                "ro": "Dimineața pot fi porțiuni înghețate pe poduri.",
+                "en": "Watch for icy patches on bridges in the morning."
+              }
+            },
+            {
+              "name": "Historical Museum & Clock Tower",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp zum Aufwärmen der Hände.",
+                "hu": "Használja ki a megállót a kezei felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi mâinile.",
+                "en": "Use this stop to warm up your hands."
+              }
+            },
+            {
+              "name": "Baba Vanga House-Museum",
+              "tip_5lang": {
+                "de": "Kleiner Garten, im Winter schnell besichtigt.",
+                "hu": "A kis kert télen gyorsan bejárható.",
+                "ro": "Grădină mică, ușor de vizitat iarna.",
+                "en": "The small garden is quick to visit in winter."
+              }
+            },
+            {
+              "name": "Belasitsa Viewpoint",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Abfahrt.",
+                "hu": "Viseljen szélálló kesztyűt a lefelé úton.",
+                "ro": "Purtați mănuși rezistente la vânt pentru coborâre.",
+                "en": "Wear windproof gloves for the descent."
+              }
+            },
+            {
+              "name": "Samuel's Fortress",
+              "tip_5lang": {
+                "de": "Besuch vor 16:30 Uhr planen (Lichtverhältnisse).",
+                "hu": "Tervezze a látogatást 16:30 előtt a fényviszonyok miatt.",
+                "ro": "Planificați vizita înainte de 16:30 (lumină).",
+                "en": "Plan your visit before 4:30 PM due to light conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Thermo-Kleidung ist lebensnotwendig.",
+              "Achten Sie auf vereiste Stellen in schattigen Kurven.",
+              "Die Sonne geht im Winter sehr früh unter.",
+              "Nehmen Sie eine Isolierkanne mit heißem Tee mit.",
+              "Licht am Fahrrad ist wegen früher Dämmerung Pflicht."
+            ],
+            "hu": [
+              "A meleg thermo-ruházat elengedhetetlen.",
+              "Figyeljen a jeges foltokra az árnyékos kanyarokban.",
+              "A nap télen nagyon korán nyugszik.",
+              "Vigyen magával termoszban forró teát.",
+              "A kerékpár-világítás a korai sötétedés miatt kötelező."
+            ],
+            "ro": [
+              "Îmbrăcămintea termică este esențială.",
+              "Atenție la porțiunile înghețate în curbele umbrite.",
+              "Soarele apune foarte devreme iarna.",
+              "Luați un termos cu ceai fierbinte.",
+              "Luminile la bicicletă sunt obligatorii din cauza amurgului timpuriu."
+            ],
+            "en": [
+              "Warm thermal clothing is essential for cycling.",
+              "Watch for icy spots in shaded corners.",
+              "The sun sets very early in winter.",
+              "Carry a thermos with hot tea.",
+              "Bike lights are mandatory due to early twilight."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -882,6 +1244,196 @@
           "Use a navigation app, as some roads may be poorly marked.",
           "Parking in the city center can be difficult, be patient."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem durch den Regen in Petritsch. Starten Sie an der Samuil-Festung, während die Wolken tief hängen. Der Belasitsa-Aussichtspunkt bietet dramatische Ausblicke. Mittags parken Sie zentral für Museen und das Vanga-Haus. Den Tag beschließen Sie trocken am Stadtpark, bevor Sie zum Abendessen fahren.",
+            "hu": "Kényelmesen az esőben is Petrics környékén. Kezdje Sámuel váránál, miközben a felhők alacsonyan szállnak. A Belasica-kilátó drámai látványt nyújt esőben. Délben parkoljon a központban a múzeumokhoz. A napot szárazon zárhatja a városi parknál.",
+            "ro": "Confortabil prin ploaie în Petrich. Începeți la Cetatea lui Samuil, în timp ce norii sunt joși. Belvedere Belasitsa oferă priveliști dramatice. La prânz, parcați central pentru muzee. Încheiați ziua la parcul orașului.",
+            "en": "Comfortably through the rain in Petrich. Start at Samuel's Fortress while the clouds hang low. Belasitsa Viewpoint offers dramatic views in the rain. At noon, park centrally for the museums and Vanga House. End the day dry at the city park before driving to dinner."
+          },
+          "stops": [
+            {
+              "name": "Samuel's Fortress",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Eingang nutzen.",
+                "hu": "Használja a közvetlenül a bejáratnál lévő parkolót.",
+                "ro": "Folosiți parcarea direct de la intrare.",
+                "en": "Use the parking lot directly at the entrance."
+              }
+            },
+            {
+              "name": "Belasitsa Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht bei Bergfahrt auf nasser Fahrbahn.",
+                "hu": "Óvatosan vezessen a hegyi úton esőben.",
+                "ro": "Conduceți cu atenție pe drumul de munte umed.",
+                "en": "Drive carefully on the wet mountain road."
+              }
+            },
+            {
+              "name": "Cluster: Petrich City Center (Parking)",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz, Schirm griffbereit halten.",
+                "hu": "Központi parkoló, tartsa kéznél az esernyőt.",
+                "ro": "Parcare centrală, țineți umbrela la îndemână.",
+                "en": "Central parking, keep your umbrella handy."
+              }
+            },
+            {
+              "name": "Historical Museum & Clock Tower",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg vom Parkplatz.",
+                "hu": "Mindössze 2 perc séta a parkolótól.",
+                "ro": "Doar 2 minute de mers pe jos de la parcare.",
+                "en": "Only a 2-minute walk from the parking lot."
+              }
+            },
+            {
+              "name": "Baba Vanga House-Museum",
+              "tip_5lang": {
+                "de": "Parkmöglichkeiten in den Nebenstraßen.",
+                "hu": "Parkolási lehetőség a mellékutcákban.",
+                "ro": "Posibilități de parcare pe străzile lăturalnice.",
+                "en": "Parking available in the side streets."
+              }
+            },
+            {
+              "name": "Mladost City Park",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Parkrand vorhanden.",
+                "hu": "Parkoló közvetlenül a park szélén található.",
+                "ro": "Parcare disponibilă direct la marginea parcului.",
+                "en": "Parking available directly at the edge of the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer.",
+              "Die Bergstraße nach Belasitsa ist bei Starkregen tückisch.",
+              "Nutzen Sie die Parkplätze so nah wie möglich an den Zielen.",
+              "Im Auto bleiben, wenn ein schweres Gewitter aufzieht.",
+              "Achten Sie auf tiefe Pfützen in der Innenstadt."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlők állapotát.",
+              "A Belasicára vezető út heves esőben veszélyes lehet.",
+              "Használja a célpontokhoz legközelebbi parkolókat.",
+              "Maradjon az autóban, ha heves zivatar tör ki.",
+              "Ügyeljen a mély tócsákra a belvárosban."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor de parbriz.",
+              "Drumul spre Belasitsa poate fi periculos pe ploaie torențială.",
+              "Folosiți parcările cât mai aproape de obiective.",
+              "Rămâneți în mașină dacă începe o furtună puternică.",
+              "Atenție la bălțile adânci din centrul orașului."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers.",
+              "The mountain road to Belasitsa can be tricky in heavy rain.",
+              "Use parking spots as close to your destinations as possible.",
+              "Stay in the car if a heavy thunderstorm starts.",
+              "Watch out for deep puddles in the city center."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Roadtrip durch Petritsch. Beginnen Sie bei der Samuil-Festung in der kühlen Morgenluft. Die Fahrt nach Belasitsa bietet schneebedeckte Gipfel im Panorama. Mittags genießen Sie die Wärme der Museen. Da es früh dunkel wird, ist die Fahrt zum Stadtpark am späten Nachmittag der perfekte Abschluss eines frostigen Tages.",
+            "hu": "Téli autós túra Petrics környékén. Kezdjen Sámuel váránál a hűvös reggeli levegőben. A Belasica felé vezető úton hófödte csúcsok látszanak. Délben élvezze a múzeumok melegét. Mivel korán sötétedik, a késő délutáni parklátogatás tökéletes zárása a fagyos napnak.",
+            "ro": "O călătorie de iarnă cu mașina prin Petrich. Începeți la Cetatea lui Samuil în aerul răcoros al dimineții. Drumul spre Belasitsa oferă panorame cu vârfuri înzăpezite. La prânz, bucurați-vă de căldura muzeelor.",
+            "en": "A winter road trip through Petrich. Start at Samuel's Fortress in the cool morning air. The drive to Belasitsa offers snow-capped peaks in the panorama. At noon, enjoy the warmth of the museums. As it gets dark early, the late afternoon park visit is the perfect end to a frosty day."
+          },
+          "stops": [
+            {
+              "name": "Samuel's Fortress",
+              "tip_5lang": {
+                "de": "Motor laufen lassen zum Vorheizen wird nicht empfohlen.",
+                "hu": "A motor járatása álló helyzetben nem javasolt.",
+                "ro": "Nu se recomandă lăsarea motorului pornit în staționare.",
+                "en": "Leaving the engine running while stationary is not recommended."
+              }
+            },
+            {
+              "name": "Belasitsa Viewpoint",
+              "tip_5lang": {
+                "de": "Winterreifen bei Schnee auf der Bergstraße Pflicht.",
+                "hu": "Havas hegyi úton a téli gumi kötelező.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pe drumul de munte.",
+                "en": "Winter tires are mandatory on the mountain road if snowy."
+              }
+            },
+            {
+              "name": "Cluster: Petrich City Center (Parking)",
+              "tip_5lang": {
+                "de": "Parkplätze können bei Schneeräumung eingeschränkt sein.",
+                "hu": "Hóeltakarításkor a parkolóhelyek száma korlátozott lehet.",
+                "ro": "Locurile de parcare pot fi limitate în timpul deszăpezirii.",
+                "en": "Parking spots may be limited during snow removal."
+              }
+            },
+            {
+              "name": "Historical Museum & Clock Tower",
+              "tip_5lang": {
+                "de": "Beheiztes Auto nach dem Museumsbesuch genießen.",
+                "hu": "Élvezze a fűtött autót a múzeumlátogatás után.",
+                "ro": "Bucurați-vă de mașina încălzită după vizitarea muzeului.",
+                "en": "Enjoy the heated car after the museum visit."
+              }
+            },
+            {
+              "name": "Baba Vanga House-Museum",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Auto zum Eingang.",
+                "hu": "Rövid séta az autótól a bejáratig.",
+                "ro": "Scurtă plimbare de la mașină la intrare.",
+                "en": "Short walk from the car to the entrance."
+              }
+            },
+            {
+              "name": "Mladost City Park",
+              "tip_5lang": {
+                "de": "Besuch vor Einbruch der Dunkelheit (ca. 17:00).",
+                "hu": "Látogatás sötétedés előtt (kb. 17:00).",
+                "ro": "Vizită înainte de lăsarea întunericului (aprox. 17:00).",
+                "en": "Visit before darkness falls (around 5:00 PM)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und Handfeger mit.",
+              "Die Bergstraße nach Belasitsa kann spiegelglatt sein.",
+              "Stellen Sie sicher, dass Frostschutz im Wischwasser ist.",
+              "Planen Sie mehr Zeit für die Fahrten ein.",
+              "Batterie vor Reiseantritt prüfen lassen."
+            ],
+            "hu": [
+              "Vigyen magával jégkaparót és kefét.",
+              "A Belasicára vezető út tükörsima lehet.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Tervezzen több időt az utazásra.",
+              "Ellenőriztesse az akkumulátort indulás előtt."
+            ],
+            "ro": [
+              "Luați o racletă și o perie pentru zăpadă.",
+              "Drumul spre Belasitsa poate fi foarte lunecos.",
+              "Asigurați-vă că aveți lichid de parbriz de iarnă.",
+              "Planificați mai mult timp pentru deplasări.",
+              "Verificați bateria înainte de a porni la drum."
+            ],
+            "en": [
+              "Carry an ice scraper and a snow brush.",
+              "The mountain road to Belasitsa can be very slippery.",
+              "Ensure there is anti-freeze in the washer fluid.",
+              "Plan more time for your drives.",
+              "Have your battery checked before starting the trip."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1158,6 +1710,178 @@
           "Ask the locals or the bus driver for the right line, they are usually helpful.",
           "Pay attention to the timetables, especially for the last bus back."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den öffentlichen Nahverkehr, um trocken durch Petritsch zu kommen. Starten Sie am Historischen Zentrum und verbringen Sie den Vormittag im Museum. Mittags erreichen Sie die Kirche per Bus. Der Nachmittag im Baba-Wanga-Viertel bietet Schutz in Gebäuden, bevor Sie mit dem Bus zum Stadtpark fahren, um die Regenatmosphäre zu genießen.",
+            "hu": "Használja a tömegközlekedést, hogy szárazon járja be Petricset. Kezdjen a történelmi központban, és töltse a délelőttöt a múzeumban. Délben busszal érje el a templomot. A délután a Baba Vanga negyedben fedett helyeket kínál, mielőtt busszal a városi parkba menne élvezni az esős hangulatot.",
+            "ro": "Folosiți transportul public pentru a rămâne uscat în Petrich. Începeți în centrul istoric și petreceți dimineața la muzeu. La prânz, ajungeți la biserică cu autobuzul. După-amiaza în cartierul Baba Vanga oferă adăpost.",
+            "en": "Use public transport to stay dry in Petrich. Start at the Historical Center and spend the morning at the museum. At noon, reach the church by bus. The afternoon in the Baba Vanga Quarter offers indoor shelter before taking a bus to the city park to enjoy the rainy atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Cluster: Historical Center",
+              "tip_5lang": {
+                "de": "Zentraler Umstiegspunkt mit Unterstand.",
+                "hu": "Központi átszállási pont váróteremmel vagy tetővel.",
+                "ro": "Punct central de transfer cu adăpost.",
+                "en": "Central transfer point with shelter."
+              }
+            },
+            {
+              "name": "Petrich Historical Museum",
+              "tip_5lang": {
+                "de": "Bushaltestelle ist nur wenige Meter entfernt.",
+                "hu": "A buszmegálló mindössze pár méterre található.",
+                "ro": "Stația de autobuz este la doar câțiva metri distanță.",
+                "en": "The bus stop is only a few meters away."
+              }
+            },
+            {
+              "name": "St. George Church & Clock Tower",
+              "tip_5lang": {
+                "de": "Überdachte Wartehäuschen in der Nähe nutzen.",
+                "hu": "Használja a közeli fedett buszvárókat.",
+                "ro": "Folosiți stațiile de autobuz acoperite din apropiere.",
+                "en": "Use the covered bus shelters nearby."
+              }
+            },
+            {
+              "name": "Cluster: Baba Vanga Quarter",
+              "tip_5lang": {
+                "de": "Kurze Taktzeiten in diesem Stadtteil.",
+                "hu": "Sűrű buszjáratok ebben a városrészben.",
+                "ro": "Intervale scurte între autobuze în acest cartier.",
+                "en": "Frequent bus intervals in this district."
+              }
+            },
+            {
+              "name": "Mladost City Park",
+              "tip_5lang": {
+                "de": "Endstation für viele Linien, bequemer Ausstieg.",
+                "hu": "Számos járat végállomása, kényelmes kiszállás.",
+                "ro": "Capăt de linie pentru multe rute, debarcare ușoară.",
+                "en": "Terminus for many lines, convenient disembarkation."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld für Fahrkarten bereit.",
+              "Busse können bei Regen etwas verspätet sein.",
+              "Die Haltestellen in Petritsch sind meist überdacht.",
+              "Nutzen Sie Transit-Apps für Echtzeit-Infos.",
+              "Vermeiden Sie die Stoßzeiten am Nachmittag."
+            ],
+            "hu": [
+              "Készítsen elő aprópénzt a jegyvásárláshoz.",
+              "Esőben a buszok kicsit késhetnek.",
+              "A petricsi megállók többsége fedett.",
+              "Használjon közlekedési alkalmazást a valós idejű infókért.",
+              "Kerülje a délutáni csúcsforgalmat."
+            ],
+            "ro": [
+              "Pregătiți mărunțiș pentru bilete.",
+              "Autobuzele pot avea întârzieri pe ploaie.",
+              "Majoritatea stațiilor din Petrich sunt acoperite.",
+              "Folosiți aplicații de transport pentru info în timp real.",
+              "Evitați orele de vârf de după-amiază."
+            ],
+            "en": [
+              "Have small change ready for tickets.",
+              "Buses might be slightly delayed in the rain.",
+              "Most bus stops in Petrich are covered.",
+              "Use transit apps for real-time information.",
+              "Avoid afternoon rush hours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein gemütlicher Wintertag per Transit. Morgens wärmen Sie sich im Historischen Zentrum auf. Das Museum bietet den perfekten Vormittagsaufenthalt. Mittags bringen Sie beheizte Busse zu den kulturellen Stätten. Den späten Nachmittag verbringen Sie im Baba-Wanga-Viertel, bevor Sie rechtzeitig vor Sonnenuntergang den Stadtpark besuchen.",
+            "hu": "Kényelmes téli nap tömegközlekedéssel. Reggel melegedjen fel a történelmi központban. A múzeum tökéletes délelőtti program. Délben fűtött buszok viszik a kulturális helyszínekre. A késő délutánt töltse a Baba Vanga negyedben, majd naplemente előtt látogasson el a parkba.",
+            "ro": "O zi de iarnă confortabilă cu transportul în comun. Dimineața încălziți-vă în centrul istoric. Muzeul este destinația ideală de dimineață. La prânz, autobuzele încălzite vă duc la obiectivele culturale.",
+            "en": "A cozy winter day via transit. In the morning, warm up in the Historical Center. The museum offers the perfect morning stay. At noon, heated buses take you to the cultural sites. Spend the late afternoon in the Baba Vanga Quarter before visiting the city park just before sunset."
+          },
+          "stops": [
+            {
+              "name": "Cluster: Historical Center",
+              "tip_5lang": {
+                "de": "Wartebereiche können morgens zugig sein.",
+                "hu": "A várakozóhelyek reggelente huzatosak lehetnek.",
+                "ro": "Zonele de așteptare pot fi expuse curentului dimineața.",
+                "en": "Waiting areas can be drafty in the morning."
+              }
+            },
+            {
+              "name": "Petrich Historical Museum",
+              "tip_5lang": {
+                "de": "Vom Bus direkt in die Wärme des Museums.",
+                "hu": "A busztól közvetlenül a múzeum melegébe juthat.",
+                "ro": "Din autobuz direct în căldura muzeului.",
+                "en": "Go directly from the bus into the warmth of the museum."
+              }
+            },
+            {
+              "name": "St. George Church & Clock Tower",
+              "tip_5lang": {
+                "de": "Kurze Wartezeiten an den zentralen Haltestellen.",
+                "hu": "Rövid várakozási idő a központi megállókban.",
+                "ro": "Timp scurt de așteptare în stațiile centrale.",
+                "en": "Short waiting times at the central bus stops."
+              }
+            },
+            {
+              "name": "Cluster: Baba Vanga Quarter",
+              "tip_5lang": {
+                "de": "Gut vernetzter Bereich, ideal für kurze Fahrten.",
+                "hu": "Jól összekapcsolt terület, ideális rövid utakra.",
+                "ro": "Zonă bine conectată, ideală pentru călătorii scurte.",
+                "en": "Well-connected area, ideal for short trips."
+              }
+            },
+            {
+              "name": "Mladost City Park",
+              "tip_5lang": {
+                "de": "Letzte Fahrt vor Dunkelheit planen (ca. 17:15).",
+                "hu": "Tervezze az utolsó utat sötétedés előtt (kb. 17:15).",
+                "ro": "Planificați ultima călătorie înainte de întuneric.",
+                "en": "Plan your last trip before it gets dark (around 5:15 PM)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter meist gut beheizt.",
+              "Achten Sie auf geänderte Fahrpläne an Feiertagen.",
+              "Tragen Sie warme Schuhe für das Warten an Haltestellen.",
+              "Die Sonne geht früh unter, planen Sie entsprechend.",
+              "Abendliche Busse fahren seltener."
+            ],
+            "hu": [
+              "A buszok télen általában jól fűtöttek.",
+              "Ügyeljen az ünnepnapi menetrendváltozásokra.",
+              "Viseljen meleg cipőt a megállókban való várakozáshoz.",
+              "A nap korán nyugszik, tervezzen eszerint.",
+              "Az esti buszjáratok ritkábban közlekednek."
+            ],
+            "ro": [
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Atenție la modificările de orar de sărbători.",
+              "Purtați încălțăminte călduroasă pentru așteptarea în stații.",
+              "Soarele apune devreme, planificați în consecință.",
+              "Autobuzele de seară circulă mai rar."
+            ],
+            "en": [
+              "Buses are usually well-heated in winter.",
+              "Watch for changed schedules on public holidays.",
+              "Wear warm shoes for waiting at bus stops.",
+              "The sun sets early, plan accordingly.",
+              "Evening buses run less frequently."
+            ]
+          }
+        }
       }
     }
   }

@@ -375,6 +375,214 @@
           "A reusable water bottle is useful; Icelandic tap water is of excellent quality.",
           "Look out for small signs indicating the homes of the 'Huldufólk' (hidden people)."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen am Hafen beginnt mit salziger Gischt und peitschendem Regen. Vormittags bieten das Regionalmuseum und das Kulturzentrum Hafnarborg trockene Zuflucht bei isländischer Kunst. Nach einem herzhaften Wikinger-Mittagessen wirkt der Elfengarten Hellisgerði im Nebel besonders mystisch. Der Tag endet windig am alten Leuchtturm, wo die Wellen eindrucksvoll gegen die Kaimauer schlagen.",
+            "hu": "A reggel a kikötőben sós pára és vízszintes eső kíséretében indul. Délelőtt a helyi múzeum és a Hafnarborg kulturális központ nyújt száraz menedéket a művészetek kedvelőinek. Egy kiadós viking ebéd után a Hellisgerði park sziklái és mohás falai közt sétálunk, ami esőben még titokzatosabb. A napot a világítótoronynál zárjuk, ahol a viharos szélben érezni az óceán erejét.",
+            "ro": "Dimineața în port începe cu aerosoli sărați și ploaie deasă. Înainte de prânz, Muzeul și Centrul Cultural Hafnarborg oferă adăpost cald printre expoziții de artă. După un prânz viking autentic, parcul Hellisgerði pare desprins din legende sub burnița fină. Ziua se încheie la vechiul far, unde vântul suflă cu putere, oferind o perspectivă dramatică asupra coastei islandeze.",
+            "en": "The morning at the harbour starts with salty mist and horizontal rain. Late morning provides shelter in the local museum and Hafnarborg cultural centre. After a hearty Viking lunch, the Hellisgerði park feels extra mystical in the drizzle. The walk concludes at the old lighthouse, where the wind and waves showcase the raw power of the North Atlantic."
+          },
+          "stops": [
+            {
+              "name": "Harbour Area (Sjávargata)",
+              "tip_5lang": {
+                "de": "Gute Regenjacke ist hier Pflicht.",
+                "hu": "Erős szélre és esőre készülj a parton.",
+                "ro": "Geaca impermeabilă este obligatorie aici.",
+                "en": "Strong sea winds require a good shell jacket."
+              }
+            },
+            {
+              "name": "Hafnarfjörður Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um sich aufzuwärmen.",
+                "hu": "Kiváló hely a száradásra és melegedésre.",
+                "ro": "Loc perfect pentru a te încălzi și usca.",
+                "en": "Perfect spot to dry off and warm up."
+              }
+            },
+            {
+              "name": "Hafnarborg - The Cultural Centre",
+              "tip_5lang": {
+                "de": "Genießen Sie die Kunst im Trockenen.",
+                "hu": "Élvezd a galéria nyugalmát a zuhogó esőben.",
+                "ro": "Bucură-te de artă la adăpost de ploaie.",
+                "en": "Enjoy the gallery while it pours outside."
+              }
+            },
+            {
+              "name": "The Free Church in Hafnarfjörður",
+              "tip_5lang": {
+                "de": "Kurzer Stopp im schützenden Inneren.",
+                "hu": "Rövid pihenő a templom védett falai között.",
+                "ro": "Scurt popas între zidurile protectoare.",
+                "en": "A brief stop inside the protective walls."
+              }
+            },
+            {
+              "name": "Fjörukráin - The Viking Restaurant",
+              "tip_5lang": {
+                "de": "Urige Atmosphäre, ideal bei Regen.",
+                "hu": "Otthonos hangulat, remek búvóhely esőben.",
+                "ro": "Atmosferă caldă, refugiu ideal pe ploaie.",
+                "en": "Cozy atmosphere, ideal shelter from rain."
+              }
+            },
+            {
+              "name": "Hellisgerði Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Lavapfaden.",
+                "hu": "Vigyázz a csúszós lávaköveken a parkban.",
+                "ro": "Atenție la potecile de lavă alunecoase.",
+                "en": "Watch your step on slippery lava paths."
+              }
+            },
+            {
+              "name": "The Old Lighthouse",
+              "tip_5lang": {
+                "de": "Windgeschützte Kleidung wird empfohlen.",
+                "hu": "Szélálló öltözet ajánlott a parton.",
+                "ro": "Se recomandă haine rezistente la vânt.",
+                "en": "Windproof clothing is highly recommended here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Lavapfade.",
+              "Regenschirme sind wegen des starken Windes oft nutzlos.",
+              "Nutzen Sie die Cafés im Zentrum für Trockenpausen.",
+              "Packen Sie Ihre Wertsachen in wasserdichte Beutel.",
+              "Wollsocken halten auch bei Nässe warm."
+            ],
+            "hu": [
+              "Vízálló túrabakancs ajánlott a lávaköves ösvényekre.",
+              "Az esernyő a szél miatt gyakran használhatatlan, inkább esőköpenyt hordj.",
+              "Használd a belvárosi kávézókat a ruházat megszárítására.",
+              "Érdemes vízhatlan tokba tenni az iratokat és a telefont.",
+              "A gyapjúzokni akkor is melegen tart, ha nedvesség éri."
+            ],
+            "ro": [
+              "Se recomandă bocanci impermeabili pentru potecile de lavă.",
+              "Umbrelele sunt inutile din cauza vântului, alege o pelerină.",
+              "Folosește cafenelele din centru pentru pauze de uscare.",
+              "Păstrează obiectele de valoare în pungi impermeabile.",
+              "Șosetele de lână mențin căldura chiar dacă se umezesc."
+            ],
+            "en": [
+              "Waterproof hiking boots are essential for lava paths.",
+              "Umbrellas are often useless due to wind; use a poncho or shell.",
+              "Utilize downtown cafes for drying breaks.",
+              "Keep valuables in waterproof bags or pouches.",
+              "Wool socks keep your feet warm even if they get damp."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am gefrorenen Hafen ist von blauem Dämmerlicht geprägt. In den Museen wärmen wir uns auf, während draußen der Schnee die Lavafelsen bedeckt. Das Mittagessen im Fjörukráin ist bei Kerzenschein besonders gemütlich. Den Nachmittag verbringen wir im frostigen Elfengarten, bevor wir pünktlich zum frühen Sonnenuntergang um 16 Uhr den einsamen Leuchtturm erreichen.",
+            "hu": "A téli reggel a befagyott kikötőben kék szürkülettel indul. A múzeumokban melegszünk fel, miközben odakint hó takarja be a lávasziklákat. A Fjörukráin ebédje gyertyafénynél különösen meghitt a hidegben. A délutánt a zúzmarás Hellisgerði parkban töltjük, majd pontban a korai, 16 órai naplemente előtt érünk a magányos világítótoronyhoz.",
+            "ro": "Dimineața de iarnă în portul înghețat începe cu un amurg albăstrui. Ne încălzim în muzee în timp ce afară zăpada acoperă rocile vulcanice. Prânzul la Fjörukráin este deosebit de primitor la lumina lumânărilor. Petrecem după-amiaza în parcul Hellisgerði plin de chiciură, ajungând la farul singuratic fix înainte de apusul de la ora 16:00.",
+            "en": "The winter morning at the frozen harbour starts with a blue twilight. We warm up in the museums while snow blankets the lava rocks outside. Lunch at Fjörukráin is especially cozy by candlelight. The afternoon is spent in the frosty Hellisgerði park, reaching the lonely lighthouse just before the early 4:00 PM sunset."
+          },
+          "stops": [
+            {
+              "name": "Harbour Area (Sjávargata)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis an der Kaimauer.",
+                "hu": "Vigyázz a jeges szakaszokra a parton.",
+                "ro": "Atenție la gheața de pe marginea portului.",
+                "en": "Beware of black ice near the water's edge."
+              }
+            },
+            {
+              "name": "Hafnarfjörður Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die wohlige Wärme im Inneren.",
+                "hu": "Élvezd a benti meleget és a történelmet.",
+                "ro": "Bucură-te de căldura din interior.",
+                "en": "Enjoy the cozy warmth and local history."
+              }
+            },
+            {
+              "name": "Hafnarborg - The Cultural Centre",
+              "tip_5lang": {
+                "de": "Ein kultureller Lichtblick an dunklen Tagen.",
+                "hu": "Kulturális fénypont a rövid téli napokon.",
+                "ro": "Un punct cultural luminos în zilele scurte.",
+                "en": "A cultural bright spot during short winter days."
+              }
+            },
+            {
+              "name": "The Free Church in Hafnarfjörður",
+              "tip_5lang": {
+                "de": "Schöne Aussicht auf das verschneite Dorf.",
+                "hu": "Szép kilátás a havas, adventi kisvárosra.",
+                "ro": "Vedere frumoasă spre orașul înzăpezit.",
+                "en": "Beautiful views of the snow-covered town."
+              }
+            },
+            {
+              "name": "Fjörukráin - The Viking Restaurant",
+              "tip_5lang": {
+                "de": "Perfekt für ein warmes Wikingermahl.",
+                "hu": "Tökéletes hely egy forró viking lakomához.",
+                "ro": "Perfect pentru o masă caldă de vikingi.",
+                "en": "Perfect for a hot, restorative Viking feast."
+              }
+            },
+            {
+              "name": "Hellisgerði Park",
+              "tip_5lang": {
+                "de": "Magische Eisformationen an den Felsen.",
+                "hu": "Mágikus jégalakzatok a lávaköveken.",
+                "ro": "Formațiuni magice de gheață pe stânci.",
+                "en": "Magical ice formations on the lava rocks."
+              }
+            },
+            {
+              "name": "The Old Lighthouse",
+              "tip_5lang": {
+                "de": "Stirnlampe für den Rückweg einplanen.",
+                "hu": "Vigyél elemlámpát a sötét visszauthoz.",
+                "ro": "Ia o lanternă pentru drumul de întoarcere.",
+                "en": "Bring a torch for the walk back in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Spikes für Ihre Schuhe bei Glatteis.",
+              "Die Sonne geht bereits gegen 16:00 Uhr unter.",
+              "Mehrlagige Wollkleidung ist lebensnotwendig.",
+              "Trinken Sie zwischendurch heißen Kakao oder Kaffee.",
+              "Vermeiden Sie lange Standzeiten im Freien."
+            ],
+            "hu": [
+              "Használj csúszásgátló talpat (spikes) a bakancson.",
+              "A nap már délután 4 óra körül lemegy.",
+              "A réteges gyapjúruházat elengedhetetlen.",
+              "Tarts szünetet forró kakaóval a helyi kávézókban.",
+              "Ne állj sokáig egy helyben a fagyos szélben."
+            ],
+            "ro": [
+              "Folosește crampoane pentru încălțăminte pe gheață.",
+              "Soarele apune deja în jurul orei 16:00.",
+              "Îmbrăcămintea din lână în straturi este vitală.",
+              "Fă pauze pentru ciocolată caldă în cafenele.",
+              "Evită să stai nemișcat mult timp în aer liber."
+            ],
+            "en": [
+              "Wear shoe spikes (crampons) to prevent slipping on ice.",
+              "The sun sets as early as 4:00 PM in mid-winter.",
+              "Layered wool clothing is essential for survival.",
+              "Take breaks for hot chocolate or coffee in local spots.",
+              "Avoid standing still for too long in the freezing wind."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -771,6 +979,232 @@
           "Use designated bike paths wherever possible, especially along the coast.",
           "Bring snacks and water, as the distances between stops are longer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren beginnt am Skulpturenpark unter grauem Himmel. Die Fahrt zum Hellisgerði Park erfordert gute Bremsen auf nasser Lava. Nachmittags erkunden wir die Museen im Zentrum, während die Räder sicher im Regen stehen. Ein kurzer Sprint zum Hafenbelohnt uns mit frischem Fisch, bevor wir den Leuchtturm gegen den Wind ansteuern.",
+            "hu": "A bringázás a szoborparkban indul szürke égbolt alatt. A Hellisgerði parkhoz vezető út jó fékeket igényel a nedves láván. Délután a központ múzeumait fedezzük fel, miközben a biciklik a szakadó esőben pihennek. Egy gyors sprint a kikötői ebédhez, majd küzdelem a széllel a világítótoronyig.",
+            "ro": "Ciclismul începe în parcul de sculpturi sub un cer plumburiu. Drumul spre parcul Hellisgerði necesită frâne bune pe lava umedă. După-amiaza explorăm muzeele din centru în timp ce bicicletele stau în ploaie. Un sprint spre port pentru prânz, apoi lupta cu vântul spre far.",
+            "en": "Cycling starts at the sculpture park under leaden skies. The ride to Hellisgerði Park requires good brakes on the wet lava. In the afternoon, we explore the museums while the bikes rest in the rain. A quick sprint for a harbour lunch, then a battle against the wind towards the lighthouse."
+          },
+          "stops": [
+            {
+              "name": "Víðistaðatún Sculpture Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Gras.",
+                "hu": "Vigyázz a vizes fűre a szobrok közt.",
+                "ro": "Atenție la iarba udă printre sculpturi.",
+                "en": "Careful on the wet grass around sculptures."
+              }
+            },
+            {
+              "name": "Hellisgerði Park",
+              "tip_5lang": {
+                "de": "Befahren der Wege verboten, bitte schieben.",
+                "hu": "A parkban ne tekerj, told a biciklit.",
+                "ro": "Nu pedala în parc, împinge bicicleta.",
+                "en": "Do not ride in the park; please push your bike."
+              }
+            },
+            {
+              "name": "The Free Church in Hafnarfjörður",
+              "tip_5lang": {
+                "de": "Kurze Rast im Vorraum möglich.",
+                "hu": "Rövid pihenő a szélvédett bejáratnál.",
+                "ro": "Scurtă pauză la intrarea ferită de vânt.",
+                "en": "Short break at the wind-sheltered entrance."
+              }
+            },
+            {
+              "name": "Hafnarborg - The Cultural Centre",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe.",
+                "hu": "Fedett biciklitároló található a közelben.",
+                "ro": "Suport de biciclete acoperit în apropiere.",
+                "en": "Covered bike racks located nearby."
+              }
+            },
+            {
+              "name": "Lunch at the Harbour",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihre Ausrüstung beim Essen.",
+                "hu": "Szárítsd meg a cuccod az ebéd alatt.",
+                "ro": "Usucă-ți echipamentul în timpul mesei.",
+                "en": "Dry your gear while having lunch."
+              }
+            },
+            {
+              "name": "Hafnarfjörður Museum",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder.",
+                "hu": "Biztonságos tárolóhely a bringáknak.",
+                "ro": "Loc sigur de parcare pentru biciclete.",
+                "en": "Secure parking spot for your bikes."
+              }
+            },
+            {
+              "name": "Fjörukráin",
+              "tip_5lang": {
+                "de": "Wärme tanken für die letzte Etappe.",
+                "hu": "Melegedj fel az utolsó szakasz előtt.",
+                "ro": "Încălzește-te pentru ultima etapă.",
+                "en": "Warm up before the final stretch."
+              }
+            },
+            {
+              "name": "The Old Lighthouse",
+              "tip_5lang": {
+                "de": "Vorsicht vor extremen Böen am Meer.",
+                "hu": "Vigyázz az extrém széllökésekre a parton.",
+                "ro": "Atenție la rafalele extreme de pe coastă.",
+                "en": "Beware of extreme gusts near the shore."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie wasserfeste Packtaschen für Ihr Gepäck.",
+              "Bremse auf nassem Lavagestein vorsichtig dosieren.",
+              "Ein Helm mit Visier schützt die Augen vor Regen.",
+              "Tragen Sie eine auffällige Warnweste bei Nebel.",
+              "Prüfen Sie den Reifendruck für besseren Grip."
+            ],
+            "hu": [
+              "Használj vízálló táskákat a felszerelésedhez.",
+              "A vizes lávakövön óvatosan adagold a fékerőt.",
+              "A szemvédős sisak védi a szemed az esőtől.",
+              "Viselj láthatósági mellényt a ködös időben.",
+              "Ellenőrizd a guminyomást a jobb tapadásért."
+            ],
+            "ro": [
+              "Folosește genți impermeabile pentru bagaje.",
+              "Doză frâna cu grijă pe roca vulcanică udă.",
+              "O cască cu vizieră îți protejează ochii de ploaie.",
+              "Poartă o vestă reflectorizantă pe timp de ceață.",
+              "Verifică presiunea pneurilor pentru aderență."
+            ],
+            "en": [
+              "Use waterproof panniers for your belongings.",
+              "Apply brakes gently on wet lava surfaces.",
+              "A helmet with a visor protects eyes from rain.",
+              "Wear a high-visibility vest in foggy conditions.",
+              "Check tire pressure for better grip on wet roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winter-Radtour führt durch das verschneite Hafnarfjörður. Mit Spikereifen geht es sicher durch die gefrorenen Straßen zum Skulpturenpark. Die Kälte beißt, aber die Stopps in den Museen bringen das Blut wieder in Wallung. Nach dem Mittagessen bleibt nur wenig Zeit, bevor die Dunkelheit den Hafen und den Leuchtturm einhüllt.",
+            "hu": "A téli bringatúra a havas Hafnarfjörðurön vezet át. Szöges gumikkal biztonságosan haladunk a fagyos utcákon a szoborparkig. A hideg csípős, de a múzeumi megállók visszahozzák az életet a végtagokba. Ebéd után már kevés időnk marad, mielőtt a sötétség elnyeli a kikötőt és a világítótoronyt.",
+            "ro": "Turul cu bicicleta de iarnă trece prin Hafnarfjörður înzăpezit. Cu pneuri cu ținte mergem în siguranță spre parcul de sculpturi. Frigul este tăios, dar opririle la muzee ne ajută circulația. După prânz rămâne puțin timp până când întunericul cuprinde portul și farul.",
+            "en": "The winter bike tour traverses snowy Hafnarfjörður. With studded tires, we safely navigate frozen streets to the sculpture park. The cold is biting, but museum stops help restore circulation. After lunch, little time remains before darkness envelops the harbour and the lighthouse."
+          },
+          "stops": [
+            {
+              "name": "Víðistaðatún Sculpture Park",
+              "tip_5lang": {
+                "de": "Spikereifen sind hier unverzichtbar.",
+                "hu": "A szöges gumi itt elengedhetetlen.",
+                "ro": "Pneurile cu ținte sunt indispensabile.",
+                "en": "Studded tires are essential here."
+              }
+            },
+            {
+              "name": "Hellisgerði Park",
+              "tip_5lang": {
+                "de": "Gefrorene Pfade sind sehr rutschig.",
+                "hu": "A fagyott ösvények rendkívül csúszósak.",
+                "ro": "Potecile înghețate sunt foarte alunecoase.",
+                "en": "Frozen paths are extremely slippery."
+              }
+            },
+            {
+              "name": "The Free Church in Hafnarfjörður",
+              "tip_5lang": {
+                "de": "Warmer Zufluchtsort für eine Pause.",
+                "hu": "Meleg búvóhely egy rövid pihenőre.",
+                "ro": "Refugiu cald pentru o scurtă pauză.",
+                "en": "A warm refuge for a quick break."
+              }
+            },
+            {
+              "name": "Hafnarborg - The Cultural Centre",
+              "tip_5lang": {
+                "de": "Hände an der Heizung aufwärmen.",
+                "hu": "Melegítsd fel a kezed a fűtőtestnél.",
+                "ro": "Încălzește-ți mâinile la calorifer.",
+                "en": "Warm your hands by the radiators."
+              }
+            },
+            {
+              "name": "Lunch at the Harbour",
+              "tip_5lang": {
+                "de": "Heißes Getränk ist jetzt Pflicht.",
+                "hu": "Forró ital fogyasztása kötelező.",
+                "ro": "O băutură fierbinte e obligatorie acum.",
+                "en": "A hot drink is mandatory now."
+              }
+            },
+            {
+              "name": "Hafnarfjörður Museum",
+              "tip_5lang": {
+                "de": "Lernen Sie die Winterhistorie kennen.",
+                "hu": "Ismerd meg a helyi téli hagyományokat.",
+                "ro": "Află despre tradițiile locale de iarnă.",
+                "en": "Learn about local winter traditions."
+              }
+            },
+            {
+              "name": "Fjörukráin",
+              "tip_5lang": {
+                "de": "Schutz vor dem eiskalten Seewind.",
+                "hu": "Védelem a jéghideg tengeri szél elől.",
+                "ro": "Protecție contra vântului înghețat.",
+                "en": "Protection from the freezing sea wind."
+              }
+            },
+            {
+              "name": "The Old Lighthouse",
+              "tip_5lang": {
+                "de": "Beleuchtung am Fahrrad unbedingt prüfen.",
+                "hu": "Ellenőrizd a bringa világítását.",
+                "ro": "Verifică neapărat luminile bicicletei.",
+                "en": "Be sure to check your bike lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie ein E-Bike, um gegen den Wind anzukommen.",
+              "Tragen Sie winddichte Handschuhe und Gesichtsmasken.",
+              "Akkus entladen sich bei Kälte deutlich schneller.",
+              "Vermeiden Sie scharfes Bremsen auf Eisflächen.",
+              "Planen Sie die Tour zwischen 11:00 und 15:00 Uhr."
+            ],
+            "hu": [
+              "Használj e-bike-ot a szembe szél leküzdésére.",
+              "Viselj szélálló kesztyűt és arcmaszkot.",
+              "Az akkumulátorok gyorsabban merülnek hidegben.",
+              "Kerüld az erős fékezést jeges felületen.",
+              "A túrát 11:00 és 15:00 óra közé tervezd."
+            ],
+            "ro": [
+              "Folosește un e-bike pentru a învinge vântul.",
+              "Poartă mănuși rezistente la vânt și mască.",
+              "Bateriile se descarcă mult mai repede la ger.",
+              "Evită frânarea bruscă pe suprafețe cu gheață.",
+              "Planifică turul între orele 11:00 și 15:00."
+            ],
+            "en": [
+              "Use an e-bike to combat strong headwinds.",
+              "Wear windproof gloves and a face mask.",
+              "Batteries drain significantly faster in the cold.",
+              "Avoid sharp braking on icy surfaces.",
+              "Plan your tour between 11:00 AM and 3:00 PM."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1151,6 +1585,214 @@
           "A GPS or navigation app is helpful for finding the different clusters.",
           "Keep an eye on the weather; even on a car tour, you'll be spending a lot of time outdoors."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Hafnarfjörður komfortabel trotz Dauerregen. Wir parken direkt an den Parks für kurze Besichtigungen, bevor wir zu den Museen fahren. Das Mittagessen im Fjörukráin bietet einen trockenen Hafen. Nachmittags genießen wir die Hafenatmosphäre aus dem warmen Auto, bevor wir zum windgepeitschten Leuchtturm fahren.",
+            "hu": "Autóval kényelmesen fedezzük fel a várost a szakadó eső ellenére is. Közvetlenül a parkok mellett állunk meg rövid sétákra, majd a múzeumok felé vesszük az irányt. Az ebéd a Fjörukráinban egy biztos száraz pont. Délután a kikötőt a meleg autóból csodáljuk, mielőtt a szeles világítótoronyhoz érnénk.",
+            "ro": "Cu mașina explorăm orașul confortabil în ciuda ploii continue. Parcăm chiar lângă parcuri pentru vizite scurte, apoi mergem la muzee. Prânzul la Fjörukráin oferă un refugiu uscat. După-amiaza admirăm portul din mașina caldă înainte de a merge la farul bătut de vânt.",
+            "en": "By car, we explore Hafnarfjörður comfortably despite the persistent rain. We park directly by the parks for short walks before driving to the museums. Lunch at Fjörukráin provides a reliable dry haven. In the afternoon, we enjoy the harbour views from the warm car before heading to the windswept lighthouse."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Víðistaðatún & Hellisgerði",
+              "tip_5lang": {
+                "de": "Parkplätze sind oft regennass, Vorsicht.",
+                "hu": "A parkolók gyakran vizesek és csúszósak.",
+                "ro": "Parcările sunt adesea ude, atenție.",
+                "en": "Parking lots are often wet and slippery."
+              }
+            },
+            {
+              "name": "Hellisgerði Park",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Auto in den Park.",
+                "hu": "Gyors sprint az autótól a parkig.",
+                "ro": "Sprint rapid de la mașină în parc.",
+                "en": "Quick sprint from the car to the park."
+              }
+            },
+            {
+              "name": "Cluster 2: Center & Harbour",
+              "tip_5lang": {
+                "de": "Zentrales Parken ermöglicht kurze Wege.",
+                "hu": "Központi parkolással rövid a séta.",
+                "ro": "Parcarea centrală scurtează mersul.",
+                "en": "Central parking allows for shorter walks."
+              }
+            },
+            {
+              "name": "Hafnarborg & Hafnarfjörður Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die trockene Kulturzeit.",
+                "hu": "Élvezd a száraz, kulturális időtöltést.",
+                "ro": "Bucură-te de timpul cultural la uscat.",
+                "en": "Enjoy some dry, cultural indoor time."
+              }
+            },
+            {
+              "name": "Lunch (e.g., Fjörukráin)",
+              "tip_5lang": {
+                "de": "Kostenlose Parkplätze in der Nähe.",
+                "hu": "Ingyenes parkolás a közelben.",
+                "ro": "Parcare gratuită disponibilă în apropiere.",
+                "en": "Free parking available nearby."
+              }
+            },
+            {
+              "name": "Sjávargata & Harbour",
+              "tip_5lang": {
+                "de": "Hafensicht auch aus dem Auto möglich.",
+                "hu": "A kikötő az autóból is jól látszik.",
+                "ro": "Vedere spre port și din mașină.",
+                "en": "Harbour views possible even from the car."
+              }
+            },
+            {
+              "name": "Cluster 3: The Old Lighthouse",
+              "tip_5lang": {
+                "de": "Vorsicht beim Öffnen der Autotüren.",
+                "hu": "Vigyázz az ajtónyitással a nagy szélben.",
+                "ro": "Atenție la deschiderea ușilor pe vânt.",
+                "en": "Hold your door tight when opening in wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie die Fenster für gute Sicht beschlagfrei.",
+              "Parken Sie immer in Windrichtung, um Türen zu schonen.",
+              "Nutzen Sie die Sitzheizung nach nassen Stopps.",
+              "Vermeiden Sie tiefe Pfützen auf unbefestigten Wegen.",
+              "Haben Sie ein Handtuch im Auto bereit."
+            ],
+            "hu": [
+              "Párátlanítsd az ablakokat a jó kilátásért.",
+              "Mindig szélirányba parkolj az ajtók védelmében.",
+              "Használd az ülésfűtést a vizes séták után.",
+              "Kerüld a mély tócsákat a burkolatlan utakon.",
+              "Legyen nálad egy törölköző az autóban."
+            ],
+            "ro": [
+              "Dezaburește geamurile pentru vizibilitate bună.",
+              "Parchează mereu în direcția vântului.",
+              "Folosește încălzirea în scaune după ploaie.",
+              "Evită bălțile adânci pe drumurile neasfaltate.",
+              "Ține un prosop pregătit în mașină."
+            ],
+            "en": [
+              "Keep windows defogged for clear visibility.",
+              "Park facing the wind to protect car doors.",
+              "Use seat heaters after rainy outdoor stops.",
+              "Avoid deep puddles on unpaved surfaces.",
+              "Keep a dry towel ready in the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto den besten Schutz vor der isländischen Kälte. Wir fahren durch die glitzernde, verschneite Stadt zu den Lavafeldern. Die Museen sind warme Ankerpunkte im kurzen Tageslicht. Das Wikinger-Mittagessen wärmt von innen, bevor wir pünktlich zur blauen Stunde am vereisten Leuchtturm stehen.",
+            "hu": "Télen az autó nyújtja a legjobb védelmet az izlandi hideg ellen. A csillogó, havas városon át hajtunk a lávamezők felé. A múzeumok meleg pontok a rövid nappali világosságban. A viking ebéd belülről melegít fel, mielőtt a kék órában elérnénk a jeges világítótoronyhoz.",
+            "ro": "Iarna, mașina oferă cea mai bună protecție contra gerului islandez. Conducem prin orașul înzăpezit spre câmpurile de lavă. Muzeele sunt puncte calde în lumina scurtă a zilei. Prânzul viking te încălzește pe interior înainte de a ajunge la farul înghețat la ora albastră.",
+            "en": "In winter, the car offers the best protection against the Icelandic frost. We drive through the sparkling, snowy town to the lava fields. Museums serve as warm anchors during the brief daylight. A Viking lunch warms you from within before reaching the icy lighthouse during the blue hour."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Víðistaðatún & Hellisgerði",
+              "tip_5lang": {
+                "de": "Vorsicht auf schneebedeckten Parkplätzen.",
+                "hu": "Vigyázz a hóval borított parkolókban.",
+                "ro": "Atenție în parcările acoperite de zăpadă.",
+                "en": "Careful in snow-covered parking lots."
+              }
+            },
+            {
+              "name": "Hellisgerði Park",
+              "tip_5lang": {
+                "de": "Laufen Sie nur auf geräumten Wegen.",
+                "hu": "Csak a letakarított utakon járj.",
+                "ro": "Mergi doar pe potecile deszăpezite.",
+                "en": "Walk only on cleared and salted paths."
+              }
+            },
+            {
+              "name": "Cluster 2: Center & Harbour",
+              "tip_5lang": {
+                "de": "Parkhaus im Zentrum nutzen, falls möglich.",
+                "hu": "Használd a központi parkolót, ha lehet.",
+                "ro": "Folosește parcarea centrală dacă poți.",
+                "en": "Use central parking facilities if available."
+              }
+            },
+            {
+              "name": "Hafnarborg & Hafnarfjörður Museum",
+              "tip_5lang": {
+                "de": "Ideale Orte bei eisigen Temperaturen.",
+                "hu": "Ideális helyszínek fagyos időben.",
+                "ro": "Locuri ideale pe temperaturi de îngheț.",
+                "en": "Ideal locations during freezing temperatures."
+              }
+            },
+            {
+              "name": "Lunch (e.g., Fjörukráin)",
+              "tip_5lang": {
+                "de": "Gemütlicher Stopp zum Auftauen.",
+                "hu": "Hangulatos állomás a felolvadáshoz.",
+                "ro": "Oprire primitoare pentru dezghețare.",
+                "en": "A cozy stop to thaw out and recharge."
+              }
+            },
+            {
+              "name": "Sjávargata & Harbour",
+              "tip_5lang": {
+                "de": "Glatteisgefahr beim Aussteigen.",
+                "hu": "Vigyázz, az aszfalt jeges lehet.",
+                "ro": "Pericol de polei la coborârea din mașină.",
+                "en": "Watch for black ice when exiting the car."
+              }
+            },
+            {
+              "name": "Cluster 3: The Old Lighthouse",
+              "tip_5lang": {
+                "de": "Zufahrt kann bei Schneeverwehung sperren.",
+                "hu": "Hófúvás esetén az út lezárható.",
+                "ro": "Drumul poate fi închis de viscol.",
+                "en": "Access road may close during heavy snow drift."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Island gesetzlich vorgeschrieben.",
+              "Prüfen Sie täglich den Wetterbericht (vedur.is).",
+              "Lassen Sie den Motor nicht unnötig laufen.",
+              "Halten Sie den Tank immer mindestens halb voll.",
+              "Eiskratzer und Schneebesen griffbereit halten."
+            ],
+            "hu": [
+              "A téli gumi Izlandon törvényi előírás.",
+              "Naponta ellenőrizd az időjárást (vedur.is).",
+              "Ne járasd feleslegesen a motort álló helyben.",
+              "Az üzemanyagtartály legyen mindig legalább félig.",
+              "Jégkaparó és hókefe legyen kéznél."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Islanda.",
+              "Verifică zilnic prognoza pe vedur.is.",
+              "Nu lăsa motorul pornit inutil în staționare.",
+              "Ține rezervorul mereu cel puțin pe jumătate plin.",
+              "Ține racleta și peria de zăpadă la îndemână."
+            ],
+            "en": [
+              "Winter tires are legally required in Iceland.",
+              "Check the weather report daily at vedur.is.",
+              "Don't leave the engine idling unnecessarily.",
+              "Keep the fuel tank at least half full at all times.",
+              "Keep an ice scraper and snow brush handy."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1507,6 +2149,196 @@
           "Be at the bus stop on time, buses in Iceland are often punctual.",
           "Signal the driver if you want the bus to stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus pendeln wir trocken zwischen den Highlights von Hafnarfjörður. Die Wartezeiten an den Haltestellen nutzen wir unter den Unterständen. Vormittags steht Kultur in den Museen auf dem Programm. Nach einem warmen Mittagessen im Zentrum erkunden wir die nebligen Parks, bevor uns der Bus zurück zum Hafen bringt.",
+            "hu": "Busszal szárazon ingázunk Hafnarfjörður látnivalói között. A várakozási időt a fedett megállókban töltjük. Délelőtt a múzeumok kultúrája a program. Egy meleg központi ebéd után a ködös parkokat fedezzük fel, majd busszal térünk vissza a kikötőbe.",
+            "ro": "Cu autobuzul facem naveta uscați între atracțiile orașului. Timpul de așteptare îl petrecem în stațiile acoperite. Dimineața e dedicată culturii în muzee. După un prânz cald în centru, explorăm parcurile cețoase, apoi revenim cu autobuzul în port.",
+            "en": "By bus, we commute dry between the highlights of Hafnarfjörður. We spend waiting times under sheltered bus stops. The morning is dedicated to museum culture. After a warm lunch in the center, we explore the misty parks before taking the bus back to the harbour."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Harbour & Centre",
+              "tip_5lang": {
+                "de": "Zentrale Bushaltestellen sind überdacht.",
+                "hu": "A központi buszmegállók fedettek.",
+                "ro": "Stațiile centrale de autobuz sunt acoperite.",
+                "en": "Central bus stops are sheltered from rain."
+              }
+            },
+            {
+              "name": "Hafnarborg & Museums",
+              "tip_5lang": {
+                "de": "Bus hält fast direkt vor dem Eingang.",
+                "hu": "A busz szinte a bejáratnál áll meg.",
+                "ro": "Autobuzul oprește aproape de intrare.",
+                "en": "Bus stops almost directly at the entrance."
+              }
+            },
+            {
+              "name": "Lunch break in the center",
+              "tip_5lang": {
+                "de": "Viele Restaurants nahe der Buslinien.",
+                "hu": "Sok étterem van a buszvonalak mentén.",
+                "ro": "Multe restaurante pe traseul autobuzului.",
+                "en": "Many restaurants located along bus routes."
+              }
+            },
+            {
+              "name": "Cluster 2: Parks",
+              "tip_5lang": {
+                "de": "Vom Bus kurzer Fußweg zum Park.",
+                "hu": "Rövid séta a busztól a parkig.",
+                "ro": "Drum scurt de la autobuz până în parc.",
+                "en": "Short walk from the bus stop to the park."
+              }
+            },
+            {
+              "name": "Víðistaðatún Sculpture Park",
+              "tip_5lang": {
+                "de": "Haltestelle direkt am Parkgelände.",
+                "hu": "A megálló közvetlenül a parknál van.",
+                "ro": "Stație chiar lângă incinta parcului.",
+                "en": "Bus stop is located right by the park."
+              }
+            },
+            {
+              "name": "Return to the Harbour",
+              "tip_5lang": {
+                "de": "Trockener Rückweg mit dem Stadtbus.",
+                "hu": "Száraz visszajutás a városi busszal.",
+                "ro": "Întoarcere la uscat cu autobuzul local.",
+                "en": "Dry return trip with the local city bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Klapp.is App für Tickets.",
+              "Die Busse sind pünktlich und gut beheizt.",
+              "Einige Haltestellen haben keine Unterstände.",
+              "Tragen Sie trotzdem wasserfeste Kleidung.",
+              "Busfahren ist günstiger als ein Mietwagen."
+            ],
+            "hu": [
+              "Használd a Klapp.is alkalmazást a jegyekhez.",
+              "A buszok pontosak és jól fűtöttek.",
+              "Néhány megálló nem rendelkezik tetővel.",
+              "Ennek ellenére viselj vízálló ruhát.",
+              "A buszozás olcsóbb, mint az autóbérlés."
+            ],
+            "ro": [
+              "Folosește aplicația Klapp.is pentru bilete.",
+              "Autobuzele sunt punctuale și bine încălzite.",
+              "Unele stații nu au acoperiș.",
+              "Poartă totuși haine impermeabile.",
+              "Autobuzul este mai ieftin decât închirierea."
+            ],
+            "en": [
+              "Use the Klapp.is app for easy ticketing.",
+              "Buses are punctual and well-heated.",
+              "Be aware that some stops lack shelters.",
+              "Wear waterproof clothing despite using transit.",
+              "Public transit is more budget-friendly than a car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Stadtbus ist im Winter unser warmes Taxi durch Hafnarfjörður. Während draußen der Frost klirrt, gleiten wir entspannt zu den Museen und Parks. Das Mittagessen im warmen Zentrum ist der Höhepunkt des Tages. Die kurzen Wege zwischen Haltestelle und Ziel minimieren die Zeit in der klirrenden Kälte, bevor die Nacht einbricht.",
+            "hu": "A városi busz télen a mi meleg taxink Hafnarfjörðurön. Miközben odakint csíp a fagy, mi kényelmesen utazunk a múzeumokhoz és parkokhoz. A meleg belvárosi ebéd a nap fénypontja. A megálló és a cél közötti rövid séta minimálisra csökkenti a hidegben töltött időt, mielőtt leszáll az éj.",
+            "ro": "Autobuzul local este taxiul nostru cald iarna în Hafnarfjörður. În timp ce afară e un ger năprasnic, noi mergem relaxați spre muzee și parcuri. Prânzul cald în centru este punctul culminant al zilei. Drumurile scurte de la stație până la destinație reduc timpul petrecut în frig.",
+            "en": "The city bus is our warm winter shuttle through Hafnarfjörður. While the frost bites outside, we travel comfortably to museums and parks. A warm downtown lunch is the day's highlight. Short walks between stops and destinations minimize time spent in the freezing cold before nightfall."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Harbour & Centre",
+              "tip_5lang": {
+                "de": "Warten Sie in den beheizten Geschäften.",
+                "hu": "Várj a fűtött üzletekben a buszra.",
+                "ro": "Așteaptă autobuzul în magazinele calde.",
+                "en": "Wait for the bus inside heated shops nearby."
+              }
+            },
+            {
+              "name": "Hafnarborg & Museums",
+              "tip_5lang": {
+                "de": "Museen sind ideale Aufwärmstationen.",
+                "hu": "A múzeumok ideális melegedőhelyek.",
+                "ro": "Muzeele sunt stații ideale de încălzire.",
+                "en": "Museums are ideal spots to warm up."
+              }
+            },
+            {
+              "name": "Lunch break in the center",
+              "tip_5lang": {
+                "de": "Kurze Wege zu den Haltestellen.",
+                "hu": "Rövid séta a buszmegállókig.",
+                "ro": "Drum scurt până la stațiile de autobuz.",
+                "en": "Very short walks to the bus stops."
+              }
+            },
+            {
+              "name": "Cluster 2: Parks",
+              "tip_5lang": {
+                "de": "Vorsicht auf vereisten Gehwegen.",
+                "hu": "Vigyázz a jeges járdákon a busztól.",
+                "ro": "Atenție la trotuarele cu polei.",
+                "en": "Watch for ice on sidewalks near the stop."
+              }
+            },
+            {
+              "name": "Víðistaðatún Sculpture Park",
+              "tip_5lang": {
+                "de": "Busse fahren seltener am Wochenende.",
+                "hu": "Hétvégén ritkábban járnak a buszok.",
+                "ro": "Autobuzele circulă mai rar în weekend.",
+                "en": "Buses run less frequently on weekends."
+              }
+            },
+            {
+              "name": "Return to the Harbour",
+              "tip_5lang": {
+                "de": "Abends Fahrplan genau prüfen.",
+                "hu": "Este pontosan ellenőrizd a menetrendet.",
+                "ro": "Verifică atent orarul seara.",
+                "en": "Check the schedule carefully in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bedenken Sie wetterbedingte Verspätungen.",
+              "Warten Sie drinnen, bis der Bus kommt (App-Tracking).",
+              "Tragen Sie reflektierende Kleidung an Haltestellen.",
+              "Die Busse sind oft der sicherste Weg bei Eis.",
+              "Fragen Sie den Fahrer nach dem Ziel."
+            ],
+            "hu": [
+              "Számolj az időjárás miatti késésekkel.",
+              "Várj bent, amíg a busz közeledik (app követés).",
+              "Viselj fényvisszaverőt a megállókban.",
+              "A busz gyakran a legbiztonságosabb út jégen.",
+              "Kérdezd a sofőrt az úti célodról."
+            ],
+            "ro": [
+              "Ia în calcul întârzierile cauzate de vreme.",
+              "Așteaptă în interior (urmărire prin aplicație).",
+              "Poartă elemente reflectorizante în stații.",
+              "Autobuzul e adesea cea mai sigură cale pe gheață.",
+              "Întreabă șoferul despre destinație."
+            ],
+            "en": [
+              "Account for weather-related bus delays.",
+              "Wait indoors until the bus is close (use tracking).",
+              "Wear reflective gear at dark bus stops.",
+              "Buses are often the safest travel mode on ice.",
+              "Confirm your destination with the driver."
+            ]
+          }
+        }
       }
     }
   }

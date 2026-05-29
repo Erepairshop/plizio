@@ -382,6 +382,224 @@
           "Most city center sights are within easy walking distance.",
           "Check museum opening hours in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt in der schützenden Stille der Himmelfahrtskirche. Danach bieten das Nationalmuseum und die Galerie Nadežda Petrović stundenlangen Schutz und hochkarätige Kultur.\n\nMittags erkunden wir die römischen Thermen, deren Überreste unter dem prasselnden Regen eine besondere Atmosphäre verströmen. Das Bezirksamt bewundern wir kurz unter dem Regenschirm.\n\nDer Nachmittag führt uns zum Denkmal und in den Jugendpark, wo die nassen Alleen im grauen Licht glänzen. Ein kurzer Spaziergang entlang der Morava beschließt den Tag.\n\nAbends reflektieren die Lichter der Stadt in den Pfützen des Handelszentrums, während wir uns in ein gemütliches Café zurückziehen.",
+            "hu": "Az esős reggel a templom csendes menedékében indul. A Nemzeti Múzeum és a galéria órákig tartó száraz kulturális élményt nyújt a zuhogó eső elől menekülve.\n\nDélben a római termák maradványait keressük fel, amelyek a nedves kövek között még titokzatosabbak. A járási hivatal épületét egy ernyő alól csodáljuk meg.\n\nDélután a Tanasko Rajić emlékmű és az Ifjúsági park következik, ahol az ázott fák illata kísér minket. A Morava-part szürke, de hangulatos látványt nyújt.\n\nEste a város fényei megcsillannak a tócsákban, mi pedig a kereskedelmi központ közelében keresünk egy meleg menedéket a nap végére.",
+            "ro": "O dimineață ploioasă începe în liniștea protectoare a Bisericii Înălțării. Muzeul Național și Galeria Nadežda Petrović oferă ore de cultură la adăpost de stropii de ploaie.\n\nLa prânz, explorăm Termele Romane, ale căror ruine capătă o atmosferă aparte sub ploaia măruntă. Clădirea Prefecturii este admirată rapid de sub umbrelă.\n\nDupă-amiaza ne duce la monumentul lui Tanasko Rajić și în Parcul Tineretului, unde aleile umede strălucesc sub cerul gri. O plimbare scurtă pe malul Moravei încheie traseul.\n\nSeara, luminile orașului se reflectă în bălți, creând un peisaj urban vibrant înainte de a ne retrage la căldură.",
+            "en": "A rainy morning begins in the sheltering silence of the Church of Ascension. The National Museum and Gallery provide hours of dry cultural exploration away from the downpour.\n\nAt noon, we visit the Roman Thermae, where the ancient ruins look even more mystical amidst the dampness. The District Office building is viewed briefly from under an umbrella.\n\nAfternoon takes us to the monument and the Youth Park, where the wet paths glisten in the soft light. A short walk along the Morava riverbank offers a moody atmosphere.\n\nIn the evening, city lights shimmer in the puddles as we wrap up our journey near the economic center with a warm drink."
+          },
+          "stops": [
+            {
+              "name": "Church of the Ascension of Christ",
+              "tip_5lang": {
+                "de": "Trockener Rückzugsort bei Regen.",
+                "hu": "Tökéletes száraz menedék esőben.",
+                "ro": "Un refugiu uscat perfect pe ploaie.",
+                "en": "Perfect dry retreat during rain."
+              }
+            },
+            {
+              "name": "National Museum of Čačak",
+              "tip_5lang": {
+                "de": "Ideales Programm für lange Regengüsse.",
+                "hu": "Ideális program hosszú esőzés idején.",
+                "ro": "Program ideal în timpul ploilor lungi.",
+                "en": "Ideal program during long rain spells."
+              }
+            },
+            {
+              "name": "Art Gallery Nadežda Petrović",
+              "tip_5lang": {
+                "de": "Kunstgenuss im trockenen Innenraum.",
+                "hu": "Művészeti élmény száraz belső térben.",
+                "ro": "Artă în spațiu interior protejat.",
+                "en": "Art enjoyment in a protected interior."
+              }
+            },
+            {
+              "name": "Roman Thermae",
+              "tip_5lang": {
+                "de": "Teilweise überdachte Ausgrabungen.",
+                "hu": "Részben fedett régészeti terület.",
+                "ro": "Situl arheologic este parțial acoperit.",
+                "en": "Partially covered archaeological site."
+              }
+            },
+            {
+              "name": "District Office Building",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp unter dem Vordach.",
+                "hu": "Gyors fotómegálló az előtető alatt.",
+                "ro": "Oprire scurtă sub streașina clădirii.",
+                "en": "Quick photo stop under the eaves."
+              }
+            },
+            {
+              "name": "Tanasko Rajić Monument",
+              "tip_5lang": {
+                "de": "Vorsicht, die Stufen können glatt sein.",
+                "hu": "Vigyázat, a lépcsők csúszósak lehetnek.",
+                "ro": "Atenție, treptele pot fi alunecoase.",
+                "en": "Caution, the steps can be slippery."
+              }
+            },
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Feste Wege nutzen, um Matsch zu vermeiden.",
+                "hu": "Használja a szilárd utakat a sár ellen.",
+                "ro": "Folosiți aleile pavate pentru a evita noroiul.",
+                "en": "Use paved paths to avoid mud."
+              }
+            },
+            {
+              "name": "Morava Riverbank",
+              "tip_5lang": {
+                "de": "Windfeste Kleidung am Wasser nötig.",
+                "hu": "Szélálló ruházat ajánlott a vízparton.",
+                "ro": "Haine rezistente la vânt pe malul apei.",
+                "en": "Windproof clothing needed near the water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da es windig sein kann.",
+              "Die Museen sind montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Nutzen Sie die Passagen im Handelszentrum als Abkürzung.",
+              "Tragen Sie wasserfeste Schuhe für den Parkbesuch."
+            ],
+            "hu": [
+              "Vigyen strapabíró ernyőt, mert a szél erős lehet.",
+              "A múzeumok hétfőn zárva tarthatnak, ellenőrizze.",
+              "A kereskedelmi központ átjárói jó egérutak az eső elől.",
+              "Viseljen vízálló cipőt a parki sétához."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, vântul poate fi puternic.",
+              "Muzeele pot fi închise lunea, verificați orarul.",
+              "Pasajele centrului comercial sunt bune scurtături.",
+              "Purtați încălțăminte impermeabilă pentru parc."
+            ],
+            "en": [
+              "Take a sturdy umbrella as it can get windy.",
+              "Museums might be closed on Mondays, check ahead.",
+              "Use the trade center passages as shortcuts from rain.",
+              "Wear waterproof shoes for the park visit."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen beginnt an der Himmelfahrtskirche, deren weiße Fassade im Winterlicht glänzt. Das Nationalmuseum bietet danach eine willkommene Aufwärmpause in den historischen Räumen.\n\nMittags besuchen wir die Galerie und die römischen Thermen. Die kalte Luft macht den Aufenthalt im Freien kurz, aber die Geschichte Čačaks wärmt das Herz.\n\nAm Nachmittag erreichen wir das Denkmal und den Jugendpark. Wenn es geschneit hat, verwandelt sich der Park in eine stille Winterlandschaft. Der Weg zur Morava ist bei Frost besonders erfrischend.\n\nBevor die Dunkelheit gegen 16 Uhr hereinbricht, bewundern wir das Bezirksamt. Den Abend lassen wir in der beleuchteten Innenstadt ausklingen.",
+            "hu": "A fagyos reggel a templomnál indul, melynek fehér falai szinte világítanak a téli napfényben. A Nemzeti Múzeum fűtött termei hívogató menedéket nyújtanak a hideg elől.\n\nDélben a galéria és a római termák következnek. A csípős hidegben rövidre fogjuk a kültéri nézelődést, de a történelmi látvány kárpótol.\n\nDélután az emlékmű és az Ifjúsági park a cél. Hóesésben a park mesebeli tájjá változik, a Morava-part pedig jeges szelével frissíti fel a látogatót.\n\nMielőtt 16 óra körül leszáll az éj, megnézzük a hivatalt. Az estét a város ünnepi fényeiben, egy forró ital mellett zárjuk.",
+            "ro": "Dimineața geroasă începe la Biserica Înălțării, zidurile albe strălucind în lumina iernii. Muzeul Național oferă o pauză de încălzire binevenită în sălile sale istorice.\n\nLa prânz, vizităm Galeria și Termele Romane. Aerul rece face opririle exterioare scurte, dar istoria orașului Čačak ne ține curiozitatea trează.\n\nDupă-amiaza ajungem la monument și în Parcul Tineretului. Dacă a nins, parcul devine un peisaj alb de poveste, iar malul Moravei oferă o briză înghețată revigorantă.\n\nÎnainte ca întunericul să apară în jurul orei 16, admirăm Prefectura. Seara se încheie în centrul luminat, savurând atmosfera de iarnă.",
+            "en": "The frosty morning starts at the Church, its white walls gleaming in the winter light. The National Museum then offers a welcome warming break in its historic halls.\n\nAt noon, we explore the Gallery and the Roman Thermae. The biting cold keeps outdoor stops brief, but the sights are worth the chill.\n\nAfternoon leads to the monument and the Youth Park. If covered in snow, the park turns into a silent winter wonderland, while the Morava bank feels truly bracing.\n\nBefore darkness falls around 4 PM, we admire the District Office. The evening concludes in the illuminated city center with a hot beverage."
+          },
+          "stops": [
+            {
+              "name": "Church of the Ascension of Christ",
+              "tip_5lang": {
+                "de": "Im Inneren ist es angenehm temperiert.",
+                "hu": "A belső tér kellemesen temperált.",
+                "ro": "Interiorul este încălzit moderat.",
+                "en": "The interior is pleasantly tempered."
+              }
+            },
+            {
+              "name": "National Museum of Čačak",
+              "tip_5lang": {
+                "de": "Perfekter Ort zum Aufwärmen.",
+                "hu": "Tökéletes hely a felmelegedéshez.",
+                "ro": "Locul perfect pentru a vă încălzi.",
+                "en": "Perfect place to warm up."
+              }
+            },
+            {
+              "name": "Art Gallery Nadežda Petrović",
+              "tip_5lang": {
+                "de": "Warme Innenräume mit toller Kunst.",
+                "hu": "Meleg belső terek remek művekkel.",
+                "ro": "Spații calde cu artă deosebită.",
+                "en": "Warm interiors with great art."
+              }
+            },
+            {
+              "name": "Roman Thermae",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Steinpfaden.",
+                "hu": "Vigyázzon a jeges kőösvényeken.",
+                "ro": "Atenție la potecile de piatră înghețate.",
+                "en": "Beware of icy stone paths."
+              }
+            },
+            {
+              "name": "District Office Building",
+              "tip_5lang": {
+                "de": "Die Fassade wirkt im Winterlicht edel.",
+                "hu": "A homlokzat nemes a téli fényben.",
+                "ro": "Fațada arată nobil în lumina iernii.",
+                "en": "The facade looks noble in winter light."
+              }
+            },
+            {
+              "name": "Tanasko Rajić Monument",
+              "tip_5lang": {
+                "de": "Kurzer Stopp wegen starkem Wind.",
+                "hu": "Rövid megálló az erős szél miatt.",
+                "ro": "Oprire scurtă din cauza vântului.",
+                "en": "Short stop due to strong winds."
+              }
+            },
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Schöne Fotomotive bei Schneefall.",
+                "hu": "Szép fotótémák hóesés idején.",
+                "ro": "Subiecte foto frumoase pe ninsoare.",
+                "en": "Beautiful photo opportunities in snow."
+              }
+            },
+            {
+              "name": "Morava Riverbank",
+              "tip_5lang": {
+                "de": "Glatte Wege in Wassernähe möglich.",
+                "hu": "Csúszós utak a víz közelében.",
+                "ro": "Drumuri alunecoase lângă apă.",
+                "en": "Slippery paths possible near water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht früh unter, planen Sie das Ende für 16 Uhr.",
+              "Tragen Sie warme Handschuhe für die Außenstopps.",
+              "Nutzen Sie Museen als Wärmestationen.",
+              "Achten Sie auf Glatteis auf den Gehwegen."
+            ],
+            "hu": [
+              "A nap korán nyugszik, tervezzen 16 óráig.",
+              "Viseljen meleg kesztyűt a kültéri helyszíneken.",
+              "Használja a múzeumokat melegedőként.",
+              "Ügyeljen a jegesedésre a járdákon."
+            ],
+            "ro": [
+              "Soarele apune devreme, terminați până la ora 16.",
+              "Purtați mănuși groase pentru opririle externe.",
+              "Folosiți muzeele ca puncte de încălzire.",
+              "Atenție la polei pe trotuare."
+            ],
+            "en": [
+              "Sunset is early, plan to finish by 4 PM.",
+              "Wear warm gloves for the outdoor stops.",
+              "Use museums as heating stations.",
+              "Watch out for black ice on the sidewalks."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +960,224 @@
           "The city is relatively flat, making it good for cycling.",
           "Be mindful of traffic, especially in the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start am Denkmal erfordert volle Konzentration auf der Straße. Die Himmelfahrtskirche bietet die erste trockene Pause, bevor es zum Museum geht.\n\nMittags radeln wir vorsichtig zu den Thermen und zur Galerie. Die kurzen Wege zwischen den Gebäuden helfen, nicht völlig durchnässt zu werden.\n\nDer Nachmittag führt uns durch den Jugendpark zur Morava. Die Wege am Fluss können rutschig sein, daher ist langsames Fahren ratsam.\n\nZum Abschluss erreichen wir das Bezirksamt. Die Tour endet am Handelszentrum, wo wir die Räder sicher abstellen und uns trocknen können.",
+            "hu": "A vizes kezdés az emlékműnél nagy odafigyelést igényel az utakon. A templom az első száraz pihenő, mielőtt továbbindulnánk a múzeum felé.\n\nDélben óvatosan tekerünk a termákhoz és a galériához. Az épületek közötti rövid távok segítenek, hogy ne ázzunk el teljesen.\n\nDélután az Ifjúsági parkon át a Morava-partra hajtunk. A folyóparti utak csúszósak lehetnek, így a lassabb tempó javasolt.\n\nZárásként elérjük a hivatalt. A túra a kereskedelmi központnál ér véget, ahol biztonságba helyezhetjük a bringákat és megszárítkozhatunk.",
+            "ro": "Un început umed la monument necesită concentrare maximă pe șosea. Biserica oferă prima pauză uscată înainte de a continua spre muzeu.\n\nLa prânz, pedalăm cu grijă spre terme și galerie. Distanțele scurte între clădiri ne ajută să nu ne udăm complet.\n\nDupă-amiaza ne poartă prin Parcul Tineretului spre malul Moravei. Aleile de lângă râu pot fi alunecoase, deci se recomandă o viteză redusă.\n\nLa final, ajungem la Prefectură. Turul se încheie la centrul comercial, unde putem lăsa bicicletele în siguranță pentru a ne usca.",
+            "en": "A wet start at the monument requires full focus on the road. The church provides the first dry break before heading to the museum.\n\nAt noon, we cycle carefully to the thermae and the gallery. Short distances between buildings help keep us from getting completely soaked.\n\nAfternoon takes us through the Youth Park to the Morava bank. The riverside paths can be slick, so a slower pace is advised.\n\nTo wrap up, we reach the District Office. The tour ends at the economic center, where we can park the bikes safely and dry off."
+          },
+          "stops": [
+            {
+              "name": "Tanasko Rajić Monument",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Asphalt.",
+                "hu": "Óvatosan fékezzen a vizes aszfalton.",
+                "ro": "Frânați cu grijă pe asfaltul umed.",
+                "en": "Brake carefully on wet asphalt."
+              }
+            },
+            {
+              "name": "Church of the Ascension of Christ",
+              "tip_5lang": {
+                "de": "Unterstellmöglichkeit beim Eingang.",
+                "hu": "Beállási lehetőség a bejáratnál.",
+                "ro": "Posibilitate de adăpost la intrare.",
+                "en": "Shelter available near the entrance."
+              }
+            },
+            {
+              "name": "National Museum of Čačak",
+              "tip_5lang": {
+                "de": "Fahrradständer meist unüberdacht.",
+                "hu": "A bringatárolók többnyire fedetlenek.",
+                "ro": "Suporturile de biciclete sunt descoperite.",
+                "en": "Bike racks are mostly uncovered."
+              }
+            },
+            {
+              "name": "Roman Thermae",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um trocken zu bleiben.",
+                "hu": "Rövid megálló a szárazon maradáshoz.",
+                "ro": "Oprire scurtă pentru a rămâne uscat.",
+                "en": "Short stop to stay dry."
+              }
+            },
+            {
+              "name": "Art Gallery Nadežda Petrović",
+              "tip_5lang": {
+                "de": "Gute Pause während eines Schauers.",
+                "hu": "Jó pihenő egy zápor alatt.",
+                "ro": "O pauză bună în timpul unei averse.",
+                "en": "Good break during a rain shower."
+              }
+            },
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Laub auf Wegen ist sehr rutschig.",
+                "hu": "Az utakon lévő levelek csúszósak.",
+                "ro": "Frunzele pe alei sunt foarte alunecoase.",
+                "en": "Leaves on paths are very slippery."
+              }
+            },
+            {
+              "name": "Morava Riverbank",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen am Uferweg.",
+                "hu": "Ügyeljen a tócsákra a parti úton.",
+                "ro": "Atenție la bălțile de pe mal.",
+                "en": "Watch out for puddles on the bank."
+              }
+            },
+            {
+              "name": "District Office Building",
+              "tip_5lang": {
+                "de": "Letzter Stopp vor dem Ziel.",
+                "hu": "Utolsó megálló a cél előtt.",
+                "ro": "Ultima oprire înainte de destinație.",
+                "en": "Final stop before the destination."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine komplette Regenmontur.",
+              "Vermeiden Sie schnelle Kurven auf nassem Kopfsteinpflaster.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt.",
+              "Ein Sattelüberzug hält Ihren Sitz trocken."
+            ],
+            "hu": [
+              "Viseljen teljes esővédő felszerelést.",
+              "Kerülje a gyors kanyarokat a vizes kövön.",
+              "Indulás előtt ellenőrizze a fékeket.",
+              "A nyereghuzat szárazon tartja az ülést."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie.",
+              "Evitați virajele strânse pe pavaj umed.",
+              "Verificați frânele înainte de plecare.",
+              "O husă de șa vă menține scaunul uscat."
+            ],
+            "en": [
+              "Wear full waterproof gear for the ride.",
+              "Avoid sharp turns on wet cobblestones.",
+              "Check your brakes before starting.",
+              "A saddle cover will keep your seat dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start am Denkmal weckt die Lebensgeister. Die Fahrt zur Himmelfahrtskirche ist kurz, bietet aber Zeit, die winterliche Stadtarchitektur zu sehen.\n\nMittags nutzen wir das Nationalmuseum und die Galerie als Aufwärmstopps. Die Bewegung hält uns warm, aber die Pausen im Inneren sind essenziell.\n\nDer Nachmittag im Jugendpark und an der Morava ist durch den kalten Fahrtwind eine Herausforderung. Die klare Winterluft bietet jedoch weite Ausblicke.\n\nZum Sonnenuntergang erreichen wir das Bezirksamt. Die Tour endet im geschäftigen Zentrum, wo wir uns schnell in die Wärme retten.",
+            "hu": "A hűvös kezdés az emlékműnél felébreszti az embert. A templomhoz vezető út rövid, de van idő megcsodálni a téli városképet.\n\nDélben a múzeumot és a galériát használjuk melegedőnek. A mozgás fűt, de a benti szünetek elengedhetetlenek.\n\nDélután az Ifjúsági park és a Morava-part a menetszél miatt kihívást jelent, de a tiszta téli levegő távoli kilátást enged.\n\nNaplementekor érjük el a hivatalt. A túra a nyüzsgő központban ér véget, ahol gyorsan meleg helyre vonulunk.",
+            "ro": "Un început răcoros la monument ne trezește simțurile. Drumul spre biserică este scurt, oferind timp pentru a vedea arhitectura de iarnă.\n\nLa prânz, folosim muzeul și galeria ca puncte de încălzire. Mișcarea ne menține calzi, dar pauzele în interior sunt esențiale.\n\nDupă-amiaza în Parcul Tineretului și la Morava este o provocare din cauza vântului rece, dar aerul curat oferă vizibilitate maximă.\n\nLa apus ajungem la Prefectură. Turul se încheie în centrul aglomerat, unde ne retragem rapid la căldură.",
+            "en": "A chilly start at the monument wakes you right up. The ride to the church is short but offers views of the winter city architecture.\n\nAt noon, we use the museum and gallery as warming stops. The physical activity helps, but indoor breaks are essential.\n\nAfternoon in the Youth Park and at the Morava bank is a challenge due to the wind chill, but the crisp air provides clear views.\n\nAt sunset, we reach the District Office. The tour ends in the busy center, where we quickly find a warm spot to recover."
+          },
+          "stops": [
+            {
+              "name": "Tanasko Rajić Monument",
+              "tip_5lang": {
+                "de": "Kalte Metallteile nicht ohne Handschuhe berühren.",
+                "hu": "Ne érjen a hideg fémhez kesztyű nélkül.",
+                "ro": "Nu atingeți metalul rece fără mănuși.",
+                "en": "Do not touch cold metal without gloves."
+              }
+            },
+            {
+              "name": "Church of the Ascension of Christ",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause möglich.",
+                "hu": "Rövid melegedési lehetőség.",
+                "ro": "Posibilitate scurtă de încălzire.",
+                "en": "Short warming opportunity available."
+              }
+            },
+            {
+              "name": "National Museum of Čačak",
+              "tip_5lang": {
+                "de": "Lange Pause zum Auftauen einplanen.",
+                "hu": "Tervezzen hosszú szünetet a felolvadáshoz.",
+                "ro": "Planificați o pauză lungă de dezghețare.",
+                "en": "Plan a long break to thaw out."
+              }
+            },
+            {
+              "name": "Roman Thermae",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Kondenswasser.",
+                "hu": "Vigyázzon a fagyott páralecsapódással.",
+                "ro": "Atenție la condensul înghețat.",
+                "en": "Beware of frozen condensation."
+              }
+            },
+            {
+              "name": "Art Gallery Nadežda Petrović",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren.",
+                "hu": "Élvezze a benti meleget.",
+                "ro": "Bucurați-vă de căldura din interior.",
+                "en": "Enjoy the warmth inside."
+              }
+            },
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei überfrierender Nässe.",
+                "hu": "Vigyázzon a lefagyott nedvességre.",
+                "ro": "Atenție la porțiunile de gheață.",
+                "en": "Watch out for icy patches."
+              }
+            },
+            {
+              "name": "Morava Riverbank",
+              "tip_5lang": {
+                "de": "Beißender Wind am Wasser.",
+                "hu": "Metsző szél a vízparton.",
+                "ro": "Vânt tăios pe malul apei.",
+                "en": "Biting wind near the water."
+              }
+            },
+            {
+              "name": "District Office Building",
+              "tip_5lang": {
+                "de": "Abschlussfoto im blauen Licht.",
+                "hu": "Zárófotó a kék órában.",
+                "ro": "Fotografie finală în ora albastră.",
+                "en": "Final photo during the blue hour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung (Zwiebelprinzip).",
+              "Tragen Sie winddichte Handschuhe.",
+              "Halten Sie die Kette gut geölt.",
+              "Achten Sie auf verkürzte Tageslichtzeiten."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen (hagymaelv).",
+              "Viseljen szélálló kesztyűt.",
+              "Tartsa jól olajozottan a láncot.",
+              "Ügyeljen a rövid nappalokra."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi (principiul cepei).",
+              "Purtați mănuși rezistente la vânt.",
+              "Păstrați lanțul bine uns.",
+              "Atenție la durata scurtă a luminii."
+            ],
+            "en": [
+              "Layer your clothing for maximum warmth.",
+              "Wear windproof gloves for the ride.",
+              "Keep your chain well-lubricated.",
+              "Be mindful of the short daylight hours."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1074,6 +1510,224 @@
           "The car gives you the flexibility to visit nearby attractions outside the city (not included in this plan).",
           "Be aware of local traffic regulations."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag lässt sich im Auto entspannt angehen. Die Fahrt zur Kirche ist kurz, und Parkplätze in der Nähe minimieren den Aufenthalt im Freien.\n\nMittags steuern wir die Museen und Thermen an. Das Auto dient als trockene Basis zwischen den kulturellen Highlights der Stadt.\n\nDer Nachmittag im Jugendpark und am Denkmal wird durch die Regenschirme begleitet. Die Fahrt zum Flussufer bietet auch aus dem Fenster schöne Ausblicke auf die Morava.\n\nZum Abschluss bewundern wir das Bezirksamt bequem vom Wagen aus oder bei einem kurzen Sprint zur Tür. Der Tag endet im Zentrum.",
+            "hu": "Az esős nap az autóban ülve pihentetően indul. A templomhoz vezető út rövid, a közeli parkolók pedig minimálisra csökkentik a kültéri tartózkodást.\n\nDélben a múzeumok és termák felé vesszük az irányt. Az autó száraz bázisként szolgál a város kulturális csomópontjai között.\n\nDélután az Ifjúsági parkban és az emlékműnél ernyővel közlekedünk. A folyóparti autózás az ablakból is szép kilátást nyújt a Morávára.\n\nZárásként a hivatalt csodáljuk meg, akár a kocsiból, akár egy rövid futással az ajtóig. A nap a központban ér véget.",
+            "ro": "O zi ploioasă poate fi relaxantă la bordul mașinii. Drumul spre biserică este scurt, iar parcările din apropiere reduc timpul petrecut în ploaie.\n\nLa prânz, ne îndreptăm spre muzee și terme. Mașina servește ca bază uscată între punctele culturale ale orașului.\n\nDupă-amiaza în Parcul Tineretului și la monument necesită umbrele. Drumul pe malul râului oferă vederi frumoase spre Morava chiar și de pe geam.\n\nLa final, admirăm Prefectura confortabil din mașină sau cu un sprint scurt până la ușă. Ziua se încheie în centru.",
+            "en": "A rainy day starts relaxingly from the comfort of your car. The drive to the church is short, and nearby parking minimizes time spent in the rain.\n\nAt noon, we head to the museums and thermae. The car acts as a dry base between the city's cultural highlights.\n\nAfternoon at the Youth Park and the monument is accompanied by umbrellas. The drive along the riverbank offers nice views of the Morava even from the window.\n\nFinally, we admire the District Office from the car or with a quick dash to the entrance. The day ends in the city center."
+          },
+          "stops": [
+            {
+              "name": "Church of the Ascension of Christ",
+              "tip_5lang": {
+                "de": "Parken in den Seitenstraßen möglich.",
+                "hu": "Parkolás a mellékutcákban lehetséges.",
+                "ro": "Parcare posibilă pe străzile laterale.",
+                "en": "Parking possible in the side streets."
+              }
+            },
+            {
+              "name": "Roman Thermae",
+              "tip_5lang": {
+                "de": "Eingang direkt an der Straße.",
+                "hu": "Bejárat közvetlenül az út mellett.",
+                "ro": "Intrare direct din stradă.",
+                "en": "Entrance right by the road."
+              }
+            },
+            {
+              "name": "National Museum of Čačak",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz oft belegt.",
+                "hu": "A központi parkoló gyakran foglalt.",
+                "ro": "Parcarea centrală este adesea plină.",
+                "en": "Central parking is often full."
+              }
+            },
+            {
+              "name": "Art Gallery Nadežda Petrović",
+              "tip_5lang": {
+                "de": "Nahegelegene Parkzonen nutzen.",
+                "hu": "Használja a közeli parkolózónákat.",
+                "ro": "Folosiți zonele de parcare apropiate.",
+                "en": "Use nearby parking zones."
+              }
+            },
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Parken am Parkrand möglich.",
+                "hu": "Parkolás a park szélén lehetséges.",
+                "ro": "Parcare posibilă la marginea parcului.",
+                "en": "Parking possible at the park edge."
+              }
+            },
+            {
+              "name": "Tanasko Rajić Monument",
+              "tip_5lang": {
+                "de": "Kurzer Stopp am Straßenrand.",
+                "hu": "Rövid megálló az út szélén.",
+                "ro": "Oprire scurtă la marginea drumului.",
+                "en": "Short stop at the roadside."
+              }
+            },
+            {
+              "name": "Morava Riverbank",
+              "tip_5lang": {
+                "de": "Aussicht aus dem Auto genießen.",
+                "hu": "Élvezze a kilátást az autóból.",
+                "ro": "Bucurați-vă de vedere din mașină.",
+                "en": "Enjoy the view from the car."
+              }
+            },
+            {
+              "name": "District Office Building",
+              "tip_5lang": {
+                "de": "Gute Sicht von der Hauptstraße.",
+                "hu": "Jó rálátás a főútról.",
+                "ro": "Vedere bună de pe drumul principal.",
+                "en": "Good view from the main road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning bei starkem Regen.",
+              "Halten Sie Kleingeld für Parkuhren bereit.",
+              "Schalten Sie das Abblendlicht ein.",
+              "Nutzen Sie die Scheibenheizung gegen Beschlagen."
+            ],
+            "hu": [
+              "Ügyeljen a vízfelúszásra erős esőben.",
+              "Legyen aprópénze a parkolóórákhoz.",
+              "Kapcsolja be a tompított fényszórót.",
+              "Használja a szélvédőfűtést párásodás ellen."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe ploaie torențială.",
+              "Aveți mărunțiș pentru parcometre.",
+              "Aprindeți faza scurtă.",
+              "Folosiți degivrarea pentru dezaburire."
+            ],
+            "en": [
+              "Watch out for aquaplaning in heavy rain.",
+              "Keep small change ready for parking meters.",
+              "Keep your low beam headlights on.",
+              "Use the defroster to keep windows clear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen in Čačak lässt sich im beheizten Auto bestens beginnen. Der Weg zur Himmelfahrtskirche ist kurz und komfortabel.\n\nMittags besuchen wir die Thermen und Museen. Die Heizung im Wagen sorgt dafür, dass wir zwischen den Besichtigungen nie auskühlen.\n\nNachmittags steuern wir den Jugendpark und das Denkmal an. Bei Schnee ist die Fahrt durch die Stadt besonders malerisch. Der Blick auf die Morava ist im Winter klar.\n\nBevor es dunkel wird, halten wir am Bezirksamt. Die Tour endet am Handelszentrum, wo wir bequem parken und in ein warmes Restaurant gehen können.",
+            "hu": "A fagyos reggel Čačakban a fűtött autóban indul a legjobban. Az út a templomhoz rövid és kényelmes.\n\nDélben a termákat és múzeumokat látogatjuk meg. A kocsiban a fűtés gondoskodik róla, hogy ne hűljünk le a helyszínek között.\n\nDélután az Ifjúsági park és az emlékmű következik. Hóban a városi autózás különösen festői, a Morava látványa pedig tiszta.\n\nMielőtt besötétedik, megállunk a hivatalnál. A túra a központban ér véget, ahol kényelmesen parkolhatunk és egy meleg éttermet kereshetünk.",
+            "ro": "Dimineața geroasă în Čačak începe cel mai bine în mașina încălzită. Drumul spre Biserică este scurt și confortabil.\n\nLa prânz, vizităm termele și muzeele. Căldura din mașină ne asigură confortul între obiectivele turistice.\n\nDupă-amiaza ne îndreptăm spre Parcul Tineretului și monument. Pe ninsoare, drumul prin oraș este pitoresc, iar vederea spre Morava este clară.\n\nÎnainte de lăsarea întunericului, oprim la Prefectură. Turul se încheie la centrul comercial, unde putem parca ușor pentru a merge la un restaurant cald.",
+            "en": "A frosty morning in Čačak starts best in a heated car. The drive to the church is short and comfortable.\n\nAt noon, we visit the thermae and museums. The car's heater ensures we stay warm between the sightseeing stops.\n\nIn the afternoon, we head to the Youth Park and the monument. In snow, the drive through the city is picturesque, and the Morava view is crisp.\n\nBefore dark, we stop at the District Office. The tour ends at the economic center, where we can park easily and find a warm restaurant."
+          },
+          "stops": [
+            {
+              "name": "Church of the Ascension of Christ",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einsteigen auf Eis.",
+                "hu": "Vigyázzon a beszállásnál a jégre.",
+                "ro": "Atenție la gheață când urcați în mașină.",
+                "en": "Watch out for ice when getting in."
+              }
+            },
+            {
+              "name": "Roman Thermae",
+              "tip_5lang": {
+                "de": "Schneller Stopp, Heizung anlassen.",
+                "hu": "Gyors megálló, hagyja a fűtést.",
+                "ro": "Oprire rapidă, lăsați căldura pornită.",
+                "en": "Quick stop, leave the heater on."
+              }
+            },
+            {
+              "name": "National Museum of Čačak",
+              "tip_5lang": {
+                "de": "Parkhaus in der Nähe bevorzugen.",
+                "hu": "Preferálja a közeli parkolóházat.",
+                "ro": "Preferați parcarea acoperită din zonă.",
+                "en": "Prefer covered parking nearby."
+              }
+            },
+            {
+              "name": "Art Gallery Nadežda Petrović",
+              "tip_5lang": {
+                "de": "Kurze Gehwege vom Parkplatz.",
+                "hu": "Rövid gyalogút a parkolótól.",
+                "ro": "Drum scurt pe jos de la parcare.",
+                "en": "Short walk from the parking spot."
+              }
+            },
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Parkwege können vereist sein.",
+                "hu": "A parkolók jegesek lehetnek.",
+                "ro": "Aleile parcării pot fi înghețate.",
+                "en": "Parking paths can be icy."
+              }
+            },
+            {
+              "name": "Tanasko Rajić Monument",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneehaufen am Rand.",
+                "hu": "Vigyázzon a hóbuckákra az út szélén.",
+                "ro": "Atenție la mormanele de zăpadă.",
+                "en": "Beware of snow piles at the edge."
+              }
+            },
+            {
+              "name": "Morava Riverbank",
+              "tip_5lang": {
+                "de": "Scheiben für freie Sicht enteisen.",
+                "hu": "Jégtelenítsen a szabad kilátáshoz.",
+                "ro": "Dezghețați geamurile pentru vizibilitate.",
+                "en": "Defrost windows for clear views."
+              }
+            },
+            {
+              "name": "District Office Building",
+              "tip_5lang": {
+                "de": "Abendbeleuchtung vom Auto aus.",
+                "hu": "Esti kivilágítás a kocsiból.",
+                "ro": "Iluminat de seară văzut din mașină.",
+                "en": "Evening lighting seen from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind zwingend erforderlich.",
+              "Prüfen Sie den Frostschutz im Wischwasser.",
+              "Lassen Sie den Motor nicht im Stand warm laufen.",
+              "Fahren Sie bei Schnee besonders vorausschauend."
+            ],
+            "hu": [
+              "Téli gumiabroncs használata kötelező.",
+              "Ellenőrizze a fagyállót a mosóvízben.",
+              "Ne járassa a motort álló helyzetben.",
+              "Hóban vezessen különösen előrelátóan."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii.",
+              "Verificați antigelul în lichidul de parbriz.",
+              "Nu încălziți motorul pe loc.",
+              "Conduceți preventiv pe zăpadă."
+            ],
+            "en": [
+              "Winter tires are strictly required.",
+              "Check the anti-freeze in the washer fluid.",
+              "Do not warm up the engine while stationary.",
+              "Drive with extra caution in snow."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1406,6 +2060,224 @@
           "Most buses accept cash, but it's good to have small change.",
           "Keep an eye on the bus schedule, especially in the evening."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag mit dem Bus beginnt am Bezirksamt. Die Wartezeiten an den Haltestellen verbringen wir unter den Überdachungen der Stadt.\n\nMittags erreichen wir die Kirche und das Nationalmuseum. Die kurzen Fahrten zwischen den Stationen halten uns trocken und mobil.\n\nDer Nachmittag führt uns zur Galerie und den Thermen. Danach nehmen wir den Bus zum Jugendpark, wo wir trotz Regen einen kurzen Blick riskieren.\n\nZum Abschluss geht es zur Morava und zum Denkmal. Die Tour endet wieder im Zentrum, wo die Busse regelmäßig zurück zum Handelszentrum fahren.",
+            "hu": "Az esős nap busszal a hivatalnál indul. A várakozási időt a megállók fedele alatt töltjük.\n\nDélben elérjük a templomot és a múzeumot. Az állomások közötti rövid utazások szárazon tartanak minket.\n\nDélután a galéria és a termák következnek. Ezután busszal az Ifjúsági parkba megyünk, ahol az eső ellenére is teszünk egy kört.\n\nZárásként a Morava és az emlékmű marad. A túra a központban ér véget, ahonnan a buszok rendszeresen indulnak vissza a kereskedelmi központba.",
+            "ro": "O zi ploioasă cu autobuzul începe la Prefectură. Timpul de așteptare în stații este petrecut sub copertinele orașului.\n\nLa prânz ajungem la biserică și la Muzeul Național. Călătoriile scurte între stații ne mențin uscați și mobili.\n\nDupă-amiaza ne poartă la galerie și terme. Apoi luăm autobuzul spre Parcul Tineretului, unde aruncăm o privire rapidă în ciuda ploii.\n\nLa final mergem la Morava și la monument. Turul se încheie în centru, de unde autobuzele revin regulat spre centrul comercial.",
+            "en": "A rainy day using transit starts at the District Office. Waiting times at the stops are spent under the city's shelters.\n\nAt noon, we reach the church and the National Museum. Short trips between stations keep us dry and mobile.\n\nAfternoon takes us to the gallery and the thermae. Then we take a bus to the Youth Park, having a quick look despite the rain.\n\nFinally, we visit the Morava and the monument. The tour ends back in the center, where buses frequently return to the trade center."
+          },
+          "stops": [
+            {
+              "name": "District Office Building",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt gegenüber.",
+                "hu": "Buszmegálló közvetlenül szemben.",
+                "ro": "Stație de autobuz chiar vis-a-vis.",
+                "en": "Bus stop directly opposite."
+              }
+            },
+            {
+              "name": "Church of the Ascension of Christ",
+              "tip_5lang": {
+                "de": "Überdachte Wartehalle an der Station.",
+                "hu": "Fedett váróterem az állomáson.",
+                "ro": "Sală de așteptare acoperită în stație.",
+                "en": "Covered waiting area at the station."
+              }
+            },
+            {
+              "name": "National Museum of Čačak",
+              "tip_5lang": {
+                "de": "Guter Wetterschutz im Museum.",
+                "hu": "Jó időjárás elleni védelem.",
+                "ro": "Protecție bună împotriva intemperiilor.",
+                "en": "Good weather protection inside."
+              }
+            },
+            {
+              "name": "Art Gallery Nadežda Petrović",
+              "tip_5lang": {
+                "de": "Zentrale Lage, gut erreichbar.",
+                "hu": "Központi fekvés, jól elérhető.",
+                "ro": "Locație centrală, ușor accesibilă.",
+                "en": "Central location, easily accessible."
+              }
+            },
+            {
+              "name": "Roman Thermae",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus für kurze Wege.",
+                "hu": "Használja a buszt a rövid távokra.",
+                "ro": "Folosiți autobuzul pentru distanțe mici.",
+                "en": "Use the bus for short distances."
+              }
+            },
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Warten Sie im Trockenen auf den Bus.",
+                "hu": "Várjon száraz helyen a buszra.",
+                "ro": "Așteptați autobuzul la adăpost.",
+                "en": "Wait for the bus in a dry spot."
+              }
+            },
+            {
+              "name": "Morava Riverbank",
+              "tip_5lang": {
+                "de": "Station am Parkeingang nutzen.",
+                "hu": "Használja a parkbejárati megállót.",
+                "ro": "Folosiți stația de la intrarea în parc.",
+                "en": "Use the station at the park entrance."
+              }
+            },
+            {
+              "name": "Tanasko Rajić Monument",
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der Rückfahrt.",
+                "hu": "Utolsó megálló a visszautazás előtt.",
+                "ro": "Ultima oprire înainte de întoarcere.",
+                "en": "Final stop before returning."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie die App für Fahrpläne bereit.",
+              "Achten Sie auf Verspätungen bei Regen.",
+              "Tragen Sie einen kleinen faltbaren Schirm.",
+              "In Bussen kann es bei Regen feucht-warm sein."
+            ],
+            "hu": [
+              "Legyen kéznél a menetrend alkalmazás.",
+              "Számítson késésekre esőben.",
+              "Hordjon kisméretű, összecsukható ernyőt.",
+              "A buszokon párás idő lehet esőben."
+            ],
+            "ro": [
+              "Aveți aplicația cu orarul la îndemână.",
+              "Așteptați-vă la întârzieri pe ploaie.",
+              "Purtați o umbrelă mică pliantă.",
+              "În autobuze poate fi umezeală pe ploaie."
+            ],
+            "en": [
+              "Keep the transit schedule app ready.",
+              "Expect some delays during heavy rain.",
+              "Carry a small foldable umbrella.",
+              "Buses can get humid during rainy days."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der winterliche Tag beginnt am Bezirksamt. Die Fahrt mit dem beheizten Bus bietet einen gemütlichen Start in die Stadterkundung.\n\nMittags erreichen wir die Kirche und das Nationalmuseum. Die Transitwege sind im Winter eine gute Möglichkeit, der Kälte zu entkommen.\n\nDer Nachmittag führt uns zur Galerie und den Thermen. Danach fahren wir zum Jugendpark, wo wir die verschneite Natur kurz genießen.\n\nZum Abend hin besuchen wir die Morava und das Denkmal. Wir kehren mit dem Bus ins Zentrum zurück, wo die warmen Lichter uns empfangen.",
+            "hu": "A téli nap a hivatalnál indul. A fűtött busszal való utazás kényelmes kezdete a városnézésnek.\n\nDélben elérjük a templomot és a múzeumot. A tömegközlekedés télen remek mód a hideg elkerülésére.\n\nDélután a galéria és a termák következnek. Ezután az Ifjúsági parkba megyünk, ahol megcsodáljuk a havas tájat.\n\nEste felé a Morava és az emlékmű következik. Busszal térünk vissza a központba, ahol a meleg fények fogadnak minket.",
+            "ro": "Ziua de iarnă începe la Prefectură. Călătoria cu autobuzul încălzit oferă un început confortabil explorării orașului.\n\nLa prânz ajungem la biserică și la muzeu. Transportul în comun este o modalitate bună de a evita frigul iarna.\n\nDupă-amiaza ne duce la galerie și terme. Apoi mergem în Parcul Tineretului pentru a admira natura înzăpezită.\n\nSpre seară vizităm Morava și monumentul. Revenim cu autobuzul în centru, unde ne întâmpină luminile calde.",
+            "en": "The winter day begins at the District Office. Riding in a heated bus offers a cozy start to our city exploration.\n\nAt noon, we reach the church and the museum. Using transit is a great way to escape the biting cold in winter.\n\nAfternoon takes us to the gallery and the thermae. Then we ride to the Youth Park to enjoy the snowy scenery briefly.\n\nTowards evening, we visit the Morava and the monument. We return by bus to the center, where warm lights welcome us."
+          },
+          "stops": [
+            {
+              "name": "District Office Building",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis an der Haltestelle.",
+                "hu": "Vigyázzon a jégre a megállóban.",
+                "ro": "Atenție la gheață în stație.",
+                "en": "Watch out for ice at the bus stop."
+              }
+            },
+            {
+              "name": "Church of the Ascension of Christ",
+              "tip_5lang": {
+                "de": "Heizung im Bus zum Aufwärmen nutzen.",
+                "hu": "Használja a busz fűtését melegedésre.",
+                "ro": "Folosiți căldura din autobuz.",
+                "en": "Use the bus heater to warm up."
+              }
+            },
+            {
+              "name": "National Museum of Čačak",
+              "tip_5lang": {
+                "de": "Station ist nur wenige Schritte entfernt.",
+                "hu": "Az állomás csak pár lépésre van.",
+                "ro": "Stația este la doar câțiva pași.",
+                "en": "The station is just a few steps away."
+              }
+            },
+            {
+              "name": "Art Gallery Nadežda Petrović",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle mit gutem Takt.",
+                "hu": "Központi megálló sűrű járattal.",
+                "ro": "Stație centrală cu flux bun.",
+                "en": "Central stop with frequent service."
+              }
+            },
+            {
+              "name": "Roman Thermae",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle.",
+                "hu": "Rövid gyalogút a megállótól.",
+                "ro": "Drum scurt pe jos de la stație.",
+                "en": "Short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter seltener.",
+                "hu": "Télen ritkábban járhatnak a buszok.",
+                "ro": "Autobuzele pot circula mai rar iarna.",
+                "en": "Buses may run less frequently in winter."
+              }
+            },
+            {
+              "name": "Morava Riverbank",
+              "tip_5lang": {
+                "de": "Mütze und Schal für die Wartezeit.",
+                "hu": "Sapka, sál a várakozáshoz.",
+                "ro": "Căciulă și fular pentru așteptare.",
+                "en": "Hat and scarf for the wait."
+              }
+            },
+            {
+              "name": "Tanasko Rajić Monument",
+              "tip_5lang": {
+                "de": "Blick auf den beleuchteten Bus.",
+                "hu": "Kilátás a kivilágított buszra.",
+                "ro": "Vedere spre autobuzul iluminat.",
+                "en": "View of the illuminated bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Winter-Fahrpläne.",
+              "Warten Sie in beheizten Räumen, wenn möglich.",
+              "Haben Sie passendes Kleingeld für Tickets.",
+              "Die Busse sind im Winter oft voll."
+            ],
+            "hu": [
+              "Ügyeljen a téli menetrendre.",
+              "Várjon fűtött helyen, ha lehetséges.",
+              "Legyen aprópénze a jegyhez.",
+              "A buszok télen gyakran zsúfoltak."
+            ],
+            "ro": [
+              "Atenție la orarul de iarnă.",
+              "Așteptați în spații încălzite, dacă se poate.",
+              "Aveți bani potriviți pentru bilet.",
+              "Autobuzele sunt adesea aglomerate iarna."
+            ],
+            "en": [
+              "Be mindful of winter transit schedules.",
+              "Wait in heated areas if possible.",
+              "Have exact change ready for tickets.",
+              "Buses are often crowded in winter."
+            ]
+          }
+        }
       }
     }
   }

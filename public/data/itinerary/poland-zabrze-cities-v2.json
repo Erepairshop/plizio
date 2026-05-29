@@ -333,6 +333,178 @@
           "Book all mine tours in advance online, especially during peak season, to avoid disappointment.",
           "Some tours are physically demanding. Check the requirements before you book."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Tag an der St.-Andreas-Kirche, wo das Backstein-Interieur Zuflucht bietet. Mittags führen die Straßen zum Stadtmuseum und zum Kohlebergbaumuseum, die beide ideal für Indoor-Erkundungen sind. Der Nachmittag gehört der Queen-Louise-Stollen; die unterirdischen Gänge halten Sie trocken. Abends erleben Sie die Kopalnia Guido tief unter der Erde, wo das Wetter keine Rolle spielt.",
+            "hu": "Kezdje az esős napot a Szent András-templomban, ahol a téglafalak között szárazon maradhat. Délben a Városi Múzeum és a Szénbányászati Múzeum nyújt fedezéket a záporok elől. Délután a Louise királynő tárna várja; a föld alatti folyosókon nem számít az eső. Az estét a Guido bányában töltse mélyen a felszín alatt, ahol a bányászati történelem teljesen időjárásfüggetlen élményt kínál.",
+            "ro": "Începeți ziua ploioasă la Biserica Sf. Andrei, unde interiorul de cărămidă oferă adăpost. La prânz, vizitați Muzeul din Zabrze și Muzeul Mineritului, ambele ideale pentru explorări la interior. După-amiaza aparține Galeriei Regina Luiza; tunelurile subterane vă țin departe de umezeală. Seara, experimentați Mina Guido la mare adâncime, unde vremea de afară nu contează deloc.",
+            "en": "Start your rainy day at St. Andrew's Church, where the brick interior provides immediate shelter. At noon, head to the Zabrze Museum and the Coal Mining Museum, both perfect for indoor exploration. The afternoon is spent in the Queen Louise Adit; the underground passages keep you dry. End the evening at the Guido Mine deep underground, where the mining history is a completely weather-proof experience."
+          },
+          "stops": [
+            {
+              "name": "St. Andrew's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Haupteingang, um dem Regen zu entkommen; das Innere ist angenehm ruhig.",
+                "hu": "Használja a főbejáratot a gyors meneküléshez az eső elől; a belső tér csendes menedék.",
+                "ro": "Folosiți intrarea principală pentru a scăpa de ploaie; interiorul este un refugiu liniștit.",
+                "en": "Use the main entrance for a quick escape from the rain; the interior is a peaceful sanctuary."
+              }
+            },
+            {
+              "name": "Zabrze Museum",
+              "tip_5lang": {
+                "de": "Garderoben im Eingangsbereich sind ideal, um nasse Mäntel und Schirme abzugeben.",
+                "hu": "A bejáratnál lévő ruhatár tökéletes a vizes kabátok és esernyők leadására.",
+                "ro": "Garderoba de la intrare este ideală pentru a lăsa haina umedă și umbrela.",
+                "en": "The cloakroom near the entrance is perfect for leaving wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Museum of Coal Mining",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Museumseingang zum nächsten Gebäude ist nötig; Schirm bereithalten.",
+                "hu": "Egy rövid futás szükséges az épületek között; tartsa készenlétben az esernyőjét.",
+                "ro": "Este necesar un scurt sprint între clădiri; țineți umbrela la îndemână.",
+                "en": "A short sprint is needed between buildings; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Queen Louise Adit",
+              "tip_5lang": {
+                "de": "Wasserdichte Schuhe sind für die unterirdische Bootstour sehr zu empfehlen.",
+                "hu": "A föld alatti csónaktúrához vízálló cipő viselése erősen ajánlott.",
+                "ro": "Se recomandă încălțăminte impermeabilă pentru turul subteran cu barca.",
+                "en": "Waterproof shoes are highly recommended for the underground boat tour."
+              }
+            },
+            {
+              "name": "Guido Mine",
+              "tip_5lang": {
+                "de": "Tief unter der Erde ist es trocken, aber die Luftfeuchtigkeit ist hoch.",
+                "hu": "A mélyben száraz az idő, de a páratartalom magas a bányajáratokban.",
+                "ro": "Adânc sub pământ este uscat, dar umiditatea în galerii este ridicată.",
+                "en": "Deep underground it's dry, but the humidity in the shafts is quite high."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Wege zwischen den Zechen.",
+              "Nutzen Sie die unterirdischen Attraktionen als natürlichen Regenschutz.",
+              "Die meisten Museen verfügen über Cafés für gemütliche Pausen während der Schauer.",
+              "Zabrze hat viele überdachte Passagen im Stadtzentrum.",
+              "Halten Sie einen stabilen Schirm für die windigen Ecken bereit."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt az ipari emlékhelyek közötti sétákhoz.",
+              "Használja ki a föld alatti látnivalókat mint természetes esővédőt.",
+              "A legtöbb múzeumban van kávézó, ahol megvárhatja a nagyobb záporok végét.",
+              "Zabrze központjában több fedett árkád is segíti a közlekedést.",
+              "Készítsen be egy erős esernyőt a szelesebb utcai szakaszokra."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție impermeabilă pentru distanțele dintre mine.",
+              "Profită de atracțiile subterane ca protecție naturală împotriva ploii.",
+              "Majoritatea muzeelor au cafenele unde puteți aștepta trecerea ploii.",
+              "Zabrze are mai multe pasaje acoperite în centrul orașului.",
+              "Pregătiți o umbrelă rezistentă pentru zonele cu vânt."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the walks between industrial sites.",
+              "Take advantage of the underground attractions as natural rain shelter.",
+              "Most museums have cafes where you can wait out heavy showers.",
+              "Zabrze has several covered passages in the city center area.",
+              "Keep a sturdy umbrella ready for the windier street corners."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch an der St.-Andreas-Kirche, wo die Heizung oft willkommen ist. Mittags wärmen Sie sich in den Ausstellungen des Stadtmuseums und des Bergbaumuseums auf. Am Nachmittag bietet die Queen-Louise-Stollen konstante Temperaturen unter der Erde, weit weg vom Frost. Der Tag endet in der Kopalnia Guido, wo die winterliche Kälte an der Erdoberfläche schnell vergessen ist.",
+            "hu": "A téli reggel frissen indul a Szent András-templomnál, ahol a belső fűtés jóleső melegséget ad. Délben melegedjen fel a Városi Múzeum és a Bányászati Múzeum kiállításain. Délután a Louise királynő tárna állandó hőmérséklete nyújt menedéket a fagy elől. A nap a Guido bányában zárul, ahol a felszíni jeges szél már csak távoli emlék lesz a mélyben.",
+            "ro": "Dimineața de iarnă începe răcoros la Biserica Sf. Andrei, unde încălzirea este binevenită. La prânz, încălziți-vă în expozițiile Muzeului din Zabrze și ale Muzeului Mineritului. După-amiaza, Galeria Regina Luiza oferă temperaturi constante sub pământ, departe de ger. Ziua se încheie la Mina Guido, unde frigul de la suprafață este rapid uitat în galeriile adânci.",
+            "en": "The winter morning starts crisp at St. Andrew's Church, where the indoor heating is often a welcome relief. At noon, warm up in the exhibitions of the Zabrze Museum and the Mining Museum. In the afternoon, the Queen Louise Adit offers constant underground temperatures away from the frost. The day ends at the Guido Mine, where the surface winter chill is quickly forgotten deep below."
+          },
+          "stops": [
+            {
+              "name": "St. Andrew's Church",
+              "tip_5lang": {
+                "de": "Die massiven Mauern halten die Wärme; ein guter Ort, um den Tag ruhig zu beginnen.",
+                "hu": "A vastag falak jól tartják a meleget; kiváló hely a nap nyugodt indításához.",
+                "ro": "Zidurile masive rețin bine căldura; un loc bun pentru a începe ziua liniștit.",
+                "en": "The thick walls retain heat well; it's a great spot to start your day calmly."
+              }
+            },
+            {
+              "name": "Zabrze Museum",
+              "tip_5lang": {
+                "de": "Besuchen Sie die geheizten Galerien im Obergeschoss für längere Aufenthalte.",
+                "hu": "Az emeleti fűtött galériák ideálisak a hosszabb ideig tartó nézelődéshez.",
+                "ro": "Vizitați galeriile încălzite de la etaj pentru șederi mai lungi.",
+                "en": "Visit the heated galleries on the upper floor for longer stays."
+              }
+            },
+            {
+              "name": "Museum of Coal Mining",
+              "tip_5lang": {
+                "de": "Die Wege zwischen den Pavillons können glatt sein; Vorsicht bei Schnee.",
+                "hu": "A pavilonok közötti utak csúszósak lehetnek; vigyázzon a hóban.",
+                "ro": "Potecile dintre pavilioane pot fi alunecoase; atenție la zăpadă.",
+                "en": "Paths between the pavilions can be slippery; take care in the snow."
+              }
+            },
+            {
+              "name": "Queen Louise Adit",
+              "tip_5lang": {
+                "de": "Unter Tage herrschen ca. 14°C – oft wärmer als draußen im Winter.",
+                "hu": "A föld alatt kb. 14°C van, ami télen gyakran melegebb, mint a felszínen.",
+                "ro": "În subteran sunt aproximativ 14°C, adesea mai cald decât afară iarna.",
+                "en": "Underground it's about 14°C – often warmer than outside in winter."
+              }
+            },
+            {
+              "name": "Guido Mine",
+              "tip_5lang": {
+                "de": "Die tiefste Ebene ist angenehm temperiert; ideal für ein spätes Aufwärmen.",
+                "hu": "A legmélyebb szint kellemes hőmérsékletű; ideális egy késői átmelegedéshez.",
+                "ro": "Nivelul cel mai adânc are o temperatură plăcută; ideal pentru încălzire.",
+                "en": "The deepest level has a pleasant temperature; ideal for a late warming up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ziehen Sie sich nach dem Zwiebelprinzip an für den Wechsel von Frost und Heizung.",
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Nutzen Sie die konstanten 14°C in den Minen als Kälteschutz.",
+              "Tragen Sie Schuhe mit gutem Profil wegen möglicher Glätte auf Gehwegen.",
+              "Wärmen Sie sich zwischendurch in den zahlreichen Bäckereien auf."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a kinti fagy és a benti fűtés közötti váltásokhoz.",
+              "Decemberben a nap már délután 4 óra körül nyugovóra tér.",
+              "Használja ki a bányák állandó 14 fokos hőmérsékletét a hideg elől.",
+              "Viseljen bordázott talpú cipőt a jeges járdák miatt.",
+              "Melegedjen fel útközben a számos pékség egyikében."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru trecerea de la ger la încălzirea interioară.",
+              "În decembrie, soarele apune deja în jurul orei 16:00.",
+              "Profită de cele 14°C constante din mine ca protecție împotriva frigului.",
+              "Purtați încălțăminte cu talpă aderentă pentru trotuarele posibil înghețate.",
+              "Încălziți-vă pe parcurs în numeroasele brutării din oraș."
+            ],
+            "en": [
+              "Dress in layers to handle the transition between frost and indoor heating.",
+              "The sun sets as early as 4:00 PM in December.",
+              "Use the constant 14°C in the mines as a shield against the winter cold.",
+              "Wear shoes with good grip due to potentially slippery sidewalks.",
+              "Warm up in between stops at the many local bakeries."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +878,214 @@
           "Use designated bike paths wherever possible.",
           "Bring a strong lock to secure your bike at the various locations."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig im Botanischen Garten, wo die Wege bei Regen weich werden können. Mittags radeln Sie zur Queen-Louise-Stollen; parken Sie Ihr Rad trocken unter dem Vordach. Der Nachmittag führt an der St.-Andreas-Kirche vorbei zum Stadtmuseum. Abends erreichen Sie die Guido-Mine und den Szyb Maciej, wo die industrielle Kulisse im Regen besonders dramatisch wirkt.",
+            "hu": "Induljon óvatosan a Botanikus Kertben, ahol az utak esőben felázhatnak. Délben tekerjen a Louise királynő tárnához; parkolja a biciklit fedett helyre. A délután a Szent András-templom mellett elhaladva a Városi Múzeumhoz vezet. Este érje el a Guido bányát és a Maciej-aknát, ahol az ipari táj esőben különösen drámai látványt nyújt.",
+            "ro": "Porniți cu prudență din Grădina Botanică, unde potecile pot deveni moi la ploaie. La prânz, pedalați spre Galeria Regina Luiza; parcați bicicleta la adăpost sub copertină. După-amiaza treceți pe lângă Biserica Sf. Andrei spre Muzeul din Zabrze. Seara ajungeți la Mina Guido și Puțul Maciej, unde decorul industrial arată dramatic în ploaie.",
+            "en": "Start cautiously at the Botanical Garden, where paths can soften in the rain. At noon, cycle to the Queen Louise Adit; park your bike under the dry canopy. The afternoon takes you past St. Andrew's Church to the Zabrze Museum. End your day at the Guido Mine and Maciej Shaft, where the industrial backdrop looks particularly dramatic in the rain."
+          },
+          "stops": [
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Vermeiden Sie unbefestigte Pfade; bleiben Sie auf den asphaltierten Hauptwegen.",
+                "hu": "Kerülje a földutakat; maradjon az aszfaltozott főútvonalakon.",
+                "ro": "Evitați potecile neamenajate; rămâneți pe drumurile principale asfaltate.",
+                "en": "Avoid unpaved paths; stick to the paved main routes."
+              }
+            },
+            {
+              "name": "Queen Louise Adit",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich in der Nähe des Haupteingangs.",
+                "hu": "Fedett kerékpártárolók találhatók a főbejárat közvetlen közelében.",
+                "ro": "Suporturile de biciclete acoperite se află lângă intrarea principală.",
+                "en": "Covered bike racks are located near the main entrance."
+              }
+            },
+            {
+              "name": "St. Andrew's Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen; das Kopfsteinpflaster ist bei Nässe sehr rutschig.",
+                "hu": "Vigyázzon a leszálláskor; a macskaköves burkolat nedvesen nagyon csúszik.",
+                "ro": "Atenție la coborâre; pavajul din piatră este foarte alunecos când este ud.",
+                "en": "Careful when dismounting; the cobblestones are very slippery when wet."
+              }
+            },
+            {
+              "name": "Zabrze Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenbekleidung kurz zu lüften und sich abzutrocknen.",
+                "hu": "Ideális hely az esőruházat rövid szellőztetésére és a megszárítkozásra.",
+                "ro": "Un loc ideal pentru a aerisi scurt echipamentul de ploaie și a vă usca.",
+                "en": "An ideal spot to briefly air out your rain gear and dry off."
+              }
+            },
+            {
+              "name": "Guido Mine",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz direkt am Zechengelände vorhanden.",
+                "hu": "Biztonságos tárolóhely áll rendelkezésre közvetlenül a bánya területén.",
+                "ro": "Loc de parcare sigur disponibil direct în incinta minei.",
+                "en": "Secure storage space is available directly on the mine premises."
+              }
+            },
+            {
+              "name": "Maciej Shaft",
+              "tip_5lang": {
+                "de": "Das Restaurant oben bietet einen tollen Ausblick auf die regnerische Stadt.",
+                "hu": "A fenti étterem nagyszerű kilátást nyújt az eső áztatta városra.",
+                "ro": "Restaurantul de sus oferă o vedere excelentă asupra orașului ploios.",
+                "en": "The restaurant at the top offers a great view of the rainy city."
+              }
+            },
+            {
+              "name": "Steel House",
+              "tip_5lang": {
+                "de": "Nur kurzer Stopp im Freien; das Stahldach lässt den Regen laut prasseln.",
+                "hu": "Csak rövid megálló; az acéltetőn hangosan kopog az eső.",
+                "ro": "Doar o scurtă oprire afară; acoperișul de oțel face ploaia să răsune tare.",
+                "en": "Only a short outdoor stop; the steel roof makes the rain rattle loudly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine komplette Regenmontur mit Schutzblechen am Rad.",
+              "Vermeiden Sie scharfe Bremsmanöver auf nassem Kopfsteinpflaster.",
+              "Prüfen Sie Ihre Beleuchtung, da die Sicht bei Regen oft eingeschränkt ist.",
+              "Nutzen Sie Fahrradständer unter Vordächern bei den Museen.",
+              "Wischen Sie den Sattel vor der Weiterfahrt immer trocken."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot, és használjon sárvédőt a biciklin.",
+              "Kerülje a hirtelen fékezést a vizes macskaköves utakon.",
+              "Ellenőrizze a világítást, mert esőben gyakran korlátozottak a látási viszonyok.",
+              "Használja a múzeumoknál lévő fedett kerékpártárolókat.",
+              "Továbbindulás előtt mindig törölje szárazra a nyerget."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie și folosiți aripi la bicicletă.",
+              "Evitați frânările bruște pe pavajul de piatră umed.",
+              "Verificați luminile, deoarece vizibilitatea este redusă pe ploaie.",
+              "Folosiți suporturile de biciclete de sub copertinele muzeelor.",
+              "Ștergeți întotdeauna șaua înainte de a pleca mai departe."
+            ],
+            "en": [
+              "Wear full rain gear and use mudguards on your bike.",
+              "Avoid sudden braking maneuvers on wet cobblestones.",
+              "Check your lights, as visibility is often limited in the rain.",
+              "Use bike racks under canopies at the museums.",
+              "Always wipe your saddle dry before continuing your ride."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen im Botanischen Garten zeigt die Schönheit der frostigen Natur. Mittags radeln Sie zur Queen-Louise-Stollen, um sich unter Tage aufzuwärmen. Der Weg zur St.-Andreas-Kirche und zum Museum führt durch die verschneiten Straßen von Zabrze. Der Abend endet am Szyb Maciej und dem Stahlhaus, wo die Lichter der Industrie im Winterdunkel hell leuchten.",
+            "hu": "A tiszta téli reggel a Botanikus Kertben megmutatja a fagyos természet szépségét. Délben tekerjen a Louise királynő tárnához, hogy a föld alatt felmelegedjen. A Szent András-templomhoz és a múzeumhoz vezető út Zabrze havas utcáin át visz. Az este a Maciej-aknánál és az Acélháznál zárul, ahol az ipari fények ragyognak a téli sötétségben.",
+            "ro": "O dimineață senină de iarnă în Grădina Botanică arată frumusețea naturii înghețate. La prânz, pedalați spre Galeria Regina Luiza pentru a vă încălzi în subteran. Drumul spre Biserica Sf. Andrei și muzeu trece prin străzile înzăpezite ale orașului. Seara se încheie la Puțul Maciej și Casa de Oțel, unde luminile industriale strălucesc în întunericul iernii.",
+            "en": "A clear winter morning in the Botanical Garden shows the beauty of frosty nature. At noon, cycle to the Queen Louise Adit to warm up underground. The route to St. Andrew's Church and the museum leads through the snowy streets of Zabrze. The evening ends at the Maciej Shaft and the Steel House, where industrial lights shine brightly in the winter darkness."
+          },
+          "stops": [
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Vorsicht bei gefrorenem Laub auf den Wegen; sehr rutschig.",
+                "hu": "Vigyázzon az utakon lévő fagyott levelekkel; nagyon csúszósak lehetnek.",
+                "ro": "Atenție la frunzele înghețate de pe poteci; pot fi foarte alunecoase.",
+                "en": "Watch out for frozen leaves on the paths; they can be very slippery."
+              }
+            },
+            {
+              "name": "Queen Louise Adit",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die steif gefrorenen Hände wieder aufzuwärmen.",
+                "hu": "Kiváló hely az átfagyott kezek újbóli felmelegítésére.",
+                "ro": "Un loc bun pentru a vă încălzi mâinile amorțite de frig.",
+                "en": "A great place to warm up your frozen hands again."
+              }
+            },
+            {
+              "name": "St. Andrew's Church",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad gut sichtbar an; der Kirchplatz wird früh dunkel.",
+                "hu": "Láncolja le a biciklit jól látható helyen; a templomkert korán sötétedik.",
+                "ro": "Legați bicicleta într-un loc vizibil; piața bisericii se întunecă devreme.",
+                "en": "Lock your bike in a visible spot; the church square gets dark early."
+              }
+            },
+            {
+              "name": "Zabrze Museum",
+              "tip_5lang": {
+                "de": "Die Wärme im Inneren ist perfekt für eine kurze Pause vom Winterwind.",
+                "hu": "A benti meleg tökéletes egy rövid pihenőre a téli szél elől.",
+                "ro": "Căldura din interior este perfectă pentru o scurtă pauză de vântul iernii.",
+                "en": "The indoor warmth is perfect for a short break from the winter wind."
+              }
+            },
+            {
+              "name": "Guido Mine",
+              "tip_5lang": {
+                "de": "Tiefster Punkt der Tour; hier ist der Winter am weitesten entfernt.",
+                "hu": "A túra legmélyebb pontja; itt érezni legkevésbé a telet.",
+                "ro": "Cel mai adânc punct al turului; aici iarna este cel mai departe.",
+                "en": "The deepest point of the tour; winter feels furthest away here."
+              }
+            },
+            {
+              "name": "Maciej Shaft",
+              "tip_5lang": {
+                "de": "Abendessen in historischer Atmosphäre; perfekt zum Aufwärmen.",
+                "hu": "Vacsora történelmi környezetben; tökéletes a felmelegedéshez.",
+                "ro": "Cină într-o atmosferă istorică; perfect pentru încălzire.",
+                "en": "Dinner in a historical atmosphere; perfect for warming up."
+              }
+            },
+            {
+              "name": "Steel House",
+              "tip_5lang": {
+                "de": "Die Metallfassade wirkt im Winterfrost besonders kühl und industriell.",
+                "hu": "A fém homlokzat a téli fagyban különösen hűvösnek és iparinak hat.",
+                "ro": "Fațada metalică arată deosebit de rece și industrială în gerul iernii.",
+                "en": "The metal facade looks especially cool and industrial in the winter frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Kleidung und gute Handschuhe für die frostigen Abfahrten.",
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte sinken kann.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+              "Vermeiden Sie glatte Stellen in schattigen Straßenabschnitten.",
+              "Planen Sie mehr Zeit für Pausen in geheizten Innenräumen ein."
+            ],
+            "hu": [
+              "Viseljen termaruházatot és jó kesztyűt a fagyos gurulásokhoz.",
+              "Ellenőrizze a guminyomást, mert a hidegben csökkenhet.",
+              "Győződjön meg róla, hogy a kerékpár világítása hibátlanul működik.",
+              "Kerülje a jeges foltokat az árnyékos utcaszakaszokon.",
+              "Tervezzen több időt a fűtött belső terekben tartott pihenőkre."
+            ],
+            "ro": [
+              "Purtați haine termice și mănuși bune pentru coborârile geroase.",
+              "Verificați presiunea în anvelope, deoarece poate scădea la frig.",
+              "Asigurați-vă că luminile bicicletei funcționează impecabil.",
+              "Evitați zonele înghețate de pe porțiunile de drum umbrite.",
+              "Planificați mai mult timp pentru pauze în spații interioare încălzite."
+            ],
+            "en": [
+              "Wear thermal clothing and good gloves for the frosty descents.",
+              "Check tire pressure, as it can drop in the cold.",
+              "Ensure your bike lighting is working perfectly.",
+              "Avoid icy patches in shaded street sections.",
+              "Plan more time for breaks in heated indoor spaces."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1061,6 +1441,196 @@
           "Do not leave valuables visible in the car.",
           "The cluster strategy saves time and nerves. Stick to the plan to make the most of the day."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie entspannt am Parkplatz 'Industry East', direkt neben der Queen-Louise-Stollen. Mittags führt die kurze Fahrt zum Bergbaumuseum, wo Sie fast bis vor die Tür fahren können. Am Nachmittag parken Sie am 'Industry West' für den Besuch der Guido-Mine. Der Tag endet am Szyb Maciej, wo Sie im trockenen Auto die industrielle Skyline genießen können.",
+            "hu": "Kezdje a napot kényelmesen az 'Industry East' parkolóban, közvetlenül a Louise királynő tárna mellett. Délben egy rövid autózás következik a Bányászati Múzeumhoz, ahol szinte az ajtóig hajthat. Délután parkoljon az 'Industry West' területén a Guido bánya látogatásához. A nap a Maciej-aknánál zárul, ahol a száraz autóból élvezheti az ipari látképet.",
+            "ro": "Începeți relaxat la parcarea 'Industry East', chiar lângă Galeria Regina Luiza. La prânz, scurta călătorie vă duce la Muzeul Mineritului, unde puteți parca aproape de intrare. După-amiaza, lăsați mașina la 'Industry West' pentru vizitarea Minei Guido. Ziua se încheie la Puțul Maciej, unde puteți admira orizontul industrial din confortul mașinii.",
+            "en": "Start relaxed at the 'Industry East' parking cluster, right next to the Queen Louise Adit. At noon, a short drive takes you to the Mining Museum, where you can park very close to the entrance. In the afternoon, park at 'Industry West' for your Guido Mine visit. The day ends at the Maciej Shaft, where you can enjoy the industrial skyline from your dry car."
+          },
+          "stops": [
+            {
+              "name": "Parking Cluster 'Industry East'",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz nahe der Fußgängerbrücke, um den Weg im Regen zu verkürzen.",
+                "hu": "Válasszon helyet a gyalogoshíd közelében, hogy lerövidítse az utat az esőben.",
+                "ro": "Alegeți un loc lângă pasarela pietonală pentru a scurta drumul prin ploaie.",
+                "en": "Choose a spot near the pedestrian bridge to shorten the walk in the rain."
+              }
+            },
+            {
+              "name": "Queen Louise Adit",
+              "tip_5lang": {
+                "de": "Der Eingangsbereich bietet guten Schutz beim Aussteigen.",
+                "hu": "A bejárati rész jó védelmet nyújt a kiszálláskor.",
+                "ro": "Zona de intrare oferă o protecție bună la coborârea din mașină.",
+                "en": "The entrance area provides good shelter when getting out of the car."
+              }
+            },
+            {
+              "name": "Museum of Coal Mining",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besucherparkplatz direkt vor dem Hauptgebäude.",
+                "hu": "Használja a látogatói parkolót közvetlenül a főépület előtt.",
+                "ro": "Folosiți parcarea pentru vizitatori chiar în fața clădirii principale.",
+                "en": "Use the visitor parking directly in front of the main building."
+              }
+            },
+            {
+              "name": "Parking Cluster 'Industry West'",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Pfützen auf den unbefestigten Teilen des Parkplatzes.",
+                "hu": "Kerülje a tócsákat a parkoló nem aszfaltozott részein.",
+                "ro": "Evitați bălțile de pe porțiunile neasfaltate ale parcării.",
+                "en": "Avoid puddles on the unpaved parts of the parking lot."
+              }
+            },
+            {
+              "name": "Guido Mine",
+              "tip_5lang": {
+                "de": "Perfekt erreichbar; der Weg vom Auto zum Schacht ist kurz.",
+                "hu": "Tökéletesen elérhető; az út az autótól az aknáig rövid.",
+                "ro": "Accesibil perfect; drumul de la mașină la puț este scurt.",
+                "en": "Perfectly accessible; the walk from the car to the shaft is short."
+              }
+            },
+            {
+              "name": "Maciej Shaft",
+              "tip_5lang": {
+                "de": "Beleuchteter Parkplatz vorhanden; ideal für den regnerischen Abend.",
+                "hu": "Kivilágított parkoló áll rendelkezésre; ideális az esős estéhez.",
+                "ro": "Parcare iluminată disponibilă; ideală pentru seara ploioasă.",
+                "en": "Illuminated parking available; ideal for the rainy evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf schlechte Sicht durch beschlagene Scheiben.",
+              "Parken Sie so nah wie möglich an den Museumseingängen.",
+              "Halten Sie einen Schirm griffbereit in der Türablage.",
+              "Die Straßen in Zabrze können bei Starkregen schnell unter Wasser stehen.",
+              "Nutzen Sie die Sitzheizung für zusätzlichen Komfort nach dem Außenbesuch."
+            ],
+            "hu": [
+              "Ügyeljen a párásodó szélvédő miatti rosszabb látási viszonyokra.",
+              "Parkoljon a lehető legközelebb a múzeumi bejáratokhoz.",
+              "Tartson egy esernyőt kéznél az ajtózsebben.",
+              "Zabrze útjain heves esőzéskor gyorsan felgyűlhet a víz.",
+              "Használja az ülésfűtést a kinti látogatás utáni extra kényelemért."
+            ],
+            "ro": [
+              "Atenție la vizibilitatea redusă din cauza geamurilor aburite.",
+              "Parcați cât mai aproape de intrările muzeelor.",
+              "Țineți o umbrelă la îndemână în buzunarul portierei.",
+              "Străzile din Zabrze se pot inunda rapid la ploi torențiale.",
+              "Folosiți încălzirea în scaune pentru confort sporit după vizita de afară."
+            ],
+            "en": [
+              "Watch out for reduced visibility due to fogged-up windows.",
+              "Park as close as possible to the museum entrances.",
+              "Keep an umbrella handy in the door pocket.",
+              "Zabrze's roads can flood quickly during heavy rain.",
+              "Use seat heating for extra comfort after outdoor visits."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen beginnt komfortabel mit der Fahrt zur Queen-Louise-Stollen. Mittags wärmt die Autoheizung auf dem Weg zum Bergbaumuseum. Der Nachmittag führt zum verschneiten Parkplatz 'Industry West' für die Tour in der Guido-Mine. Der Tag klingt gemütlich am Szyb Maciej aus, während draußen der Winterwind um die Fördertürme pfeift.",
+            "hu": "A fagyos reggel kényelmesen indul az autóban a Louise királynő tárna felé. Délben az autófűtés ad meleget a Bányászati Múzeumhoz vezető úton. A délután a havas 'Industry West' parkolóba vezet a Guido bányatúra előtt. A nap hangulatosan zárul a Maciej-aknánál, miközben kint a téli szél fütyül a bányatornyok körül.",
+            "ro": "Dimineața geroasă începe confortabil cu drumul spre Galeria Regina Luiza. La prânz, încălzirea mașinii vă prinde bine în drum spre Muzeul Mineritului. După-amiaza vă duce în parcarea înzăpezită 'Industry West' pentru turul Minei Guido. Ziua se încheie plăcut la Puțul Maciej, în timp ce afară vântul iernii șuieră printre turnurile de extracție.",
+            "en": "The frosty morning starts comfortably with a drive to the Queen Louise Adit. At noon, the car's heater warms you up on the way to the Mining Museum. The afternoon leads to the snowy 'Industry West' parking lot for the Guido Mine tour. The day winds down cozily at the Maciej Shaft while the winter wind whistles around the headframes outside."
+          },
+          "stops": [
+            {
+              "name": "Parking Cluster 'Industry East'",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen beim Verlassen des Fahrzeugs.",
+                "hu": "Vigyázzon a jeges foltokra a gépjármű elhagyásakor.",
+                "ro": "Atenție la porțiunile înghețate când coborâți din vehicul.",
+                "en": "Watch out for icy patches when exiting the vehicle."
+              }
+            },
+            {
+              "name": "Queen Louise Adit",
+              "tip_5lang": {
+                "de": "Unterirdisch ist es deutlich wärmer als auf dem Parkplatz.",
+                "hu": "A föld alatt lényegesen melegebb van, mint kint a parkolóban.",
+                "ro": "În subteran este mult mai cald decât în parcare.",
+                "en": "Underground it's significantly warmer than in the parking lot."
+              }
+            },
+            {
+              "name": "Museum of Coal Mining",
+              "tip_5lang": {
+                "de": "Kurze Wege sind im Winter ein großer Vorteil dieses Standorts.",
+                "hu": "A rövid gyalogutak télen nagy előnyt jelentenek ezen a helyszínen.",
+                "ro": "Distanțele scurte sunt un mare avantaj al acestei locații iarna.",
+                "en": "Short walking distances are a big advantage of this location in winter."
+              }
+            },
+            {
+              "name": "Parking Cluster 'Industry West'",
+              "tip_5lang": {
+                "de": "Schneeräumung kann auf Nebenflächen eingeschränkt sein.",
+                "hu": "A hóeltakarítás a mellékterületeken korlátozott lehet.",
+                "ro": "Deszăpezirea poate fi limitată pe suprafețele secundare.",
+                "en": "Snow removal might be limited on secondary parking areas."
+              }
+            },
+            {
+              "name": "Guido Mine",
+              "tip_5lang": {
+                "de": "Ein warmes Ziel, das man direkt mit dem Auto ansteuern kann.",
+                "hu": "Meleg célpont, amely közvetlenül megközelíthető autóval.",
+                "ro": "O destinație caldă la care se poate ajunge direct cu mașina.",
+                "en": "A warm destination that can be reached directly by car."
+              }
+            },
+            {
+              "name": "Maciej Shaft",
+              "tip_5lang": {
+                "de": "Die Zufahrt ist gut geräumt; Parken direkt am Turm möglich.",
+                "hu": "A felhajtó jól le van takarítva; parkolás közvetlenül a toronynál lehetséges.",
+                "ro": "Accesul este bine deszăpezit; parcare posibilă chiar lângă turn.",
+                "en": "The access road is well cleared; parking is possible right by the tower."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Fahrzeug wintertauglich ist (Winterreifen).",
+              "Halten Sie einen Eiskratzer und Frostschutzmittel bereit.",
+              "Vermeiden Sie das Parken unter schneebeladenen Industrieanlagen.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche bei Schneehaufen ein.",
+              "Nutzen Sie die Standheizung, falls vorhanden, für die Rückfahrt."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy járműve téliesítve van (téli gumik).",
+              "Tartson jégkaparót és fagyállót készenlétben.",
+              "Kerülje a parkolást a hóval terhelt ipari szerkezetek alatt.",
+              "Tervezzen több időt a parkolóhely keresésére a hóbuckák miatt.",
+              "Használja az állófűtést, ha van, a visszaúthoz."
+            ],
+            "ro": [
+              "Asigurați-vă că vehiculul este echipat pentru iarnă (anvelope de iarnă).",
+              "Țineți la îndemână o racletă și lichid de parbriz anti-îngheț.",
+              "Evitați parcarea sub structurile industriale încărcate cu zăpadă.",
+              "Planificați mai mult timp pentru găsirea locului de parcare din cauza nămeților.",
+              "Folosiți încălzirea auxiliară, dacă este disponibilă, pentru drumul de întoarcere."
+            ],
+            "en": [
+              "Ensure your vehicle is winter-ready (winter tires).",
+              "Keep an ice scraper and anti-freeze ready.",
+              "Avoid parking under snow-laden industrial structures.",
+              "Plan more time for finding a parking spot due to snow piles.",
+              "Use the auxiliary heater, if available, for the return journey."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1392,6 +1962,178 @@
           "Be aware that buses and trams can be crowded during peak hours. Plan accordingly.",
           "Have some cash on hand for tickets in case the machines don't accept cards."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie im Stadtzentrum, wo die Straßenbahnen dichte Intervalle bieten. Mittags besuchen Sie die St.-Andreas-Kirche und das Stadtmuseum, bequem per Tram erreichbar. Am Nachmittag führt die Linie zur Guido-Mine; die Wartezeiten verbringen Sie unter überdachten Haltestellen. Der Tag endet an der Queen-Louise-Stollen, wo der Bus fast direkt vor dem Eingang hält.",
+            "hu": "Kezdje a városközpontban, ahol a villamosok sűrűn közlekednek. Délben látogasson el a Szent András-templomhoz és a Városi Múzeumhoz, amelyeket villamossal kényelmesen elérhet. Délután a Guido bányához visz a vonal; a várakozási időt fedett megállókban töltheti. A nap a Louise királynő tárnánál zárul, ahol a busz szinte közvetlenül a bejáratnál áll meg.",
+            "ro": "Începeți în centrul orașului, unde tramvaiele au intervale scurte de succedare. La prânz vizitați Biserica Sf. Andrei și Muzeul din Zabrze, ușor accesibile cu tramvaiul. După-amiaza linia vă duce la Mina Guido; petreceți timpul de așteptare în stații acoperite. Ziua se încheie la Galeria Regina Luiza, unde autobuzul oprește aproape direct în fața intrării.",
+            "en": "Start in the city center, where trams run at frequent intervals. At noon, visit St. Andrew's Church and the Zabrze Museum, both easily accessible by tram. In the afternoon, the line takes you to the Guido Mine; spend your waiting time under covered shelters. The day ends at the Queen Louise Adit, where the bus stops almost directly in front of the entrance."
+          },
+          "stops": [
+            {
+              "name": "City Center",
+              "tip_5lang": {
+                "de": "Der zentrale Umsteigepunkt bietet viele überdachte Wartebereiche.",
+                "hu": "A központi átszállópont számos fedett váróterülettel rendelkezik.",
+                "ro": "Punctul central de transfer are multe zone de așteptare acoperite.",
+                "en": "The central transfer point offers many covered waiting areas."
+              }
+            },
+            {
+              "name": "St. Andrew's Church",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Meter vom Kircheneingang entfernt.",
+                "hu": "A megálló mindössze néhány méterre van a templom bejáratától.",
+                "ro": "Stația se află la doar câțiva metri de intrarea în biserică.",
+                "en": "The stop is located just a few meters from the church entrance."
+              }
+            },
+            {
+              "name": "Zabrze Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Museum, um sich vor der nächsten Fahrt zu trocknen.",
+                "hu": "Használja ki a múzeumban töltött időt a megszáradáshoz a következő út előtt.",
+                "ro": "Folosiți timpul din muzeu pentru a vă usca înainte de următoarea călătorie.",
+                "en": "Use your time in the museum to dry off before the next transit leg."
+              }
+            },
+            {
+              "name": "Guido Mine",
+              "tip_5lang": {
+                "de": "Die Straßenbahn hält direkt vor der Zeche; minimaler Weg im Regen.",
+                "hu": "A villamos közvetlenül a bánya előtt áll meg; minimális séta az esőben.",
+                "ro": "Tramvaiul oprește chiar în fața minei; drum minim prin ploaie.",
+                "en": "The tram stops right in front of the mine; minimal walking in the rain."
+              }
+            },
+            {
+              "name": "Queen Louise Adit",
+              "tip_5lang": {
+                "de": "Busse verkehren regelmäßig; prüfen Sie die App für Echtzeit-Infos.",
+                "hu": "A buszok rendszeresen járnak; ellenőrizze az alkalmazást a valós idejű adatokért.",
+                "ro": "Autobuzele circulă regulat; verificați aplicația pentru informații în timp real.",
+                "en": "Buses run regularly; check the app for real-time information."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten vorab per App, um Automaten im Regen zu vermeiden.",
+              "Halten Sie nasse Schirme in den Fahrzeugen geschlossen und nach unten.",
+              "Die Straßenbahnen sind im Herbst und Winter gut beheizt.",
+              "Nutzen Sie die digitalen Anzeigen an den Haltestellen für aktuelle Infos.",
+              "Zabrze hat ein sehr kompaktes Netz, ideal für Regentage."
+            ],
+            "hu": [
+              "Vegye meg a jegyeket előre alkalmazással, hogy elkerülje az automatákat az esőben.",
+              "A vizes esernyőket tartsa összezárva és lefelé irányítva a járműveken.",
+              "A villamosok ősszel és télen jól fűtöttek.",
+              "Használja a megállók digitális kijelzőit az aktuális információkért.",
+              "Zabrze hálózata nagyon kompakt, ideális az esős napokra."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans prin aplicație pentru a evita automatele pe ploaie.",
+              "Țineți umbrelele ude închise și îndreptate în jos în interiorul vehiculelor.",
+              "Tramvaiele sunt bine încălzite toamna și iarna.",
+              "Folosiți afișajele digitale din stații pentru informații actualizate.",
+              "Rețeaua din Zabrze este foarte compactă, ideală pentru zilele ploioase."
+            ],
+            "en": [
+              "Buy tickets in advance via app to avoid using machines in the rain.",
+              "Keep wet umbrellas closed and pointed downwards inside the vehicles.",
+              "The trams are well-heated during autumn and winter.",
+              "Use the digital displays at stops for real-time information.",
+              "Zabrze has a very compact network, ideal for rainy days."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintertag beginnt am beheizten Knotenpunkt im Stadtzentrum. Mittags bringen Sie die Trams schnell zur St.-Andreas-Kirche und zum Stadtmuseum. Der Nachmittag steht im Zeichen der Guido-Mine, wo die Wärme unter Tage den Frost vergessen lässt. Zum Abschluss bringt Sie der Bus zur Queen-Louise-Stollen, wo Sie den Tag in industrieller Winteratmosphäre beenden.",
+            "hu": "A fagyos téli nap a városközpont fűtött csomópontján indul. Délben a villamosok gyorsan eljuttatják a Szent András-templomhoz és a Városi Múzeumhoz. A délután a Guido bányáé, ahol a föld alatti meleg elfeledteti a kinti fagyot. Befejezésül a busz a Louise királynő tárnához viszi, ahol ipari téli hangulatban zárhatja a napot.",
+            "ro": "O zi geroasă de iarnă începe la nodul de transport încălzit din centrul orașului. La prânz, tramvaiele vă duc rapid la Biserica Sf. Andrei și la Muzeul din Zabrze. După-amiaza este dedicată Minei Guido, unde căldura din subteran vă face să uitați de ger. La final, autobuzul vă duce la Galeria Regina Luiza, unde încheiați ziua într-o atmosferă industrială de iarnă.",
+            "en": "A frosty winter day starts at the heated transit hub in the city center. At noon, trams take you quickly to St. Andrew's Church and the Zabrze Museum. The afternoon is dedicated to the Guido Mine, where the underground warmth makes you forget the frost. To finish, the bus brings you to the Queen Louise Adit, where you end the day in an industrial winter atmosphere."
+          },
+          "stops": [
+            {
+              "name": "City Center",
+              "tip_5lang": {
+                "de": "Warten Sie in den beheizten Wartehallen oder nahen Cafés auf den Anschluss.",
+                "hu": "Várjon a csatlakozásra a fűtött várótermekben vagy a közeli kávézókban.",
+                "ro": "Așteptați legătura în sălile de așteptare încălzite sau în cafenelele din apropiere.",
+                "en": "Wait for your connection in the heated waiting halls or nearby cafes."
+              }
+            },
+            {
+              "name": "St. Andrew's Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Ein- und Aussteigen wegen Schneeanhäufungen an der Bordkante.",
+                "hu": "Vigyázzon a fel- és leszálláskor a padka menti hóbuckák miatt.",
+                "ro": "Atenție la urcare și coborâre din cauza zăpezii acumulate la marginea bordurii.",
+                "en": "Be careful when boarding and disembarking due to snow piles along the curb."
+              }
+            },
+            {
+              "name": "Zabrze Museum",
+              "tip_5lang": {
+                "de": "Die Haltestelle bietet im Winter oft weniger Windschutz; Schal festziehen.",
+                "hu": "A megálló télen gyakran kevésbé védett a széltől; húzza szorosabbra a sálát.",
+                "ro": "Stația oferă adesea mai puțină protecție împotriva vântului iarna; strângeți fularul.",
+                "en": "The stop often offers less wind protection in winter; tighten your scarf."
+              }
+            },
+            {
+              "name": "Guido Mine",
+              "tip_5lang": {
+                "de": "Die Straßenbahn fährt im Winter sehr zuverlässig bis vor das Tor.",
+                "hu": "A villamos télen is nagyon megbízhatóan közlekedik egészen a kapuig.",
+                "ro": "Tramvaiul circulă foarte fiabil iarna până chiar în fața porții.",
+                "en": "The tram runs very reliably even in winter right up to the gate."
+              }
+            },
+            {
+              "name": "Queen Louise Adit",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Fahrplan; am Abend können die Intervalle länger sein.",
+                "hu": "Ügyeljen a menetrendre; este a járatok ritkábban közlekedhetnek.",
+                "ro": "Atenție la orar; seara intervalele de succedare pot fi mai lungi.",
+                "en": "Pay attention to the schedule; intervals can be longer in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die ZTM-App für minutengenaue Abfahrtszeiten im Winter.",
+              "Die Trams sind oft der schnellste Weg, um dem kalten Wind zu entkommen.",
+              "Tragen Sie Schuhe mit rutschfesten Sohlen für die Wege zur Haltestelle.",
+              "Achten Sie auf die veränderten Fahrpläne während der Feiertage.",
+              "Halten Sie Ihre Fahrkarte griffbereit, um nicht lange im Kalten zu suchen."
+            ],
+            "hu": [
+              "Használja a ZTM alkalmazást a percre pontos téli indulásokhoz.",
+              "A villamosok gyakran a leggyorsabb módjai a hideg szél elöli menekülésnek.",
+              "Viseljen csúszásmentes talpú cipőt a megállóhoz vezető úton.",
+              "Ügyeljen az ünnepi időszakban megváltozott menetrendekre.",
+              "Tartsa a jegyét kéznél, hogy ne kelljen a hidegben sokáig keresgélni."
+            ],
+            "ro": [
+              "Folosiți aplicația ZTM pentru orele de plecare exacte în timpul iernii.",
+              "Tramvaiele sunt adesea cea mai rapidă cale de a scăpa de vântul rece.",
+              "Purtați încălțăminte cu talpă antiderapantă pentru drumul spre stație.",
+              "Atenție la orarele modificate în timpul sărbătorilor.",
+              "Țineți biletul la îndemână pentru a nu căuta mult timp în frig."
+            ],
+            "en": [
+              "Use the ZTM app for minute-accurate departure times in winter.",
+              "Trams are often the fastest way to escape the cold wind.",
+              "Wear shoes with non-slip soles for the walks to the stops.",
+              "Watch out for modified schedules during the holiday season.",
+              "Keep your ticket ready so you don't have to search for it in the cold."
+            ]
+          }
+        }
       }
     }
   }

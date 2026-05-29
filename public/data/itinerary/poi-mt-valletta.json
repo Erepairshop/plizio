@@ -395,6 +395,206 @@
           "A reusable water bottle is essential, especially during summer months.",
           "Many historical sites have limited opening hours, so plan ahead."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Stadttor, von wo aus wir schnell ins Archäologiemuseum flüchten, um dem Regen zu entgehen. Mittags bietet die prächtige St. John's Co-Cathedral einen sicheren und trockenen Rückzugsort. Den Nachmittag verbringen wir in den prunkvollen Sälen des Großmeisterpalastes und der Casa Rocca Piccola. Abends suchen wir Schutz unter den Arkaden der Upper Barrakka Gardens.",
+            "hu": "A reggelt a Városkapunál indítjuk, majd az eső elől gyorsan a Régészeti Múzeumba húzódunk. Délben a társszékesegyház aranyozott belső tere nyújt pompás menedéket a záporok elől. Délutánt a lovagi paloták fedett termeiben töltjük, távol a szélfútta utcáktól. Este az Upper Barrakka kert árkádjai alatt állva csodáljuk meg a párás kikötői panorámát.",
+            "ro": "Dimineața începe la poarta orașului, urmată de un refugiu rapid în Muzeul de Arheologie pentru a evita ploaia. La prânz, interiorul aurit al catedralei oferă un adăpost spectaculos. După-amiaza este dedicată explorării palatelor istorice, rămânând la uscat în interior. Seara, arcadele Grădinilor Barrakka oferă un punct de observație ferit de intemperii asupra portului.",
+            "en": "Start your morning at the City Gate before ducking into the Archaeology Museum to escape the showers. At noon, the cathedral's grand interior serves as a perfect dry sanctuary. Spend the afternoon exploring the sheltered halls of the Grandmaster's Palace and Casa Rocca Piccola. End the day under the protective arches of Upper Barrakka Gardens for a misty harbor view."
+          },
+          "stops": [
+            {
+              "name": "Valletta City Gate",
+              "tip_5lang": {
+                "de": "Nutzen Sie den breiten Durchgang als ersten Regenschutz.",
+                "hu": "Használja a széles kapualjat az első eső elleni menedékként.",
+                "ro": "Folosiți pasajul larg ca prim adăpost împotriva ploii.",
+                "en": "Use the wide gateway as your first shelter from the rain."
+              }
+            },
+            {
+              "name": "National Museum of Archaeology",
+              "tip_5lang": {
+                "de": "Idealer Ort, um einen starken Regenschauer trocken abzuwarten.",
+                "hu": "Ideális helyszín egy kiadós zápor szárazon történő megvárására.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "Perfect spot to wait out a heavy downpour while staying dry."
+              }
+            },
+            {
+              "name": "St. John's Co-Cathedral",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Kunstwerke, während es draußen stürmt.",
+                "hu": "Csodálja meg a műkincseket, amíg kint tombol a vihar.",
+                "ro": "Admirați operele de artă în timp ce afară plouă.",
+                "en": "Admire the masterpieces while the storm passes outside."
+              }
+            },
+            {
+              "name": "Grandmaster's Palace",
+              "tip_5lang": {
+                "de": "Die langen Korridore sind perfekt für regnerische Nachmittage.",
+                "hu": "A hosszú folyosók tökéletesek egy esős délutáni sétához.",
+                "ro": "Coridoarele lungi sunt perfecte pentru o după-amiază ploioasă.",
+                "en": "Long corridors are perfect for a rainy afternoon stroll."
+              }
+            },
+            {
+              "name": "Casa Rocca Piccola",
+              "tip_5lang": {
+                "de": "Ein privater Palast, der Gemütlichkeit bei Regen ausstrahlt.",
+                "hu": "Magánpalota, amely otthonos menedék az esős időben.",
+                "ro": "Un palat privat care oferă o atmosferă primitoare pe ploaie.",
+                "en": "A private palace offering a cozy escape from the wet weather."
+              }
+            },
+            {
+              "name": "Fort St. Elmo",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Kriegsmuseum in den Kasematten bei Regen.",
+                "hu": "Esőben látogassa meg a kazamatákban lévő hadtörténeti múzeumot.",
+                "ro": "Vizitați muzeul de război din cazemate în caz de ploaie.",
+                "en": "Visit the war museum inside the casemates when it rains."
+              }
+            },
+            {
+              "name": "Upper Barrakka Gardens",
+              "tip_5lang": {
+                "de": "Die Arkaden bieten Schutz und einen tollen Blick trotz Regen.",
+                "hu": "Az árkádok védelmet és remek kilátást nyújtanak esőben is.",
+                "ro": "Arcadele oferă adăpost și o priveliște excelentă în ciuda ploii.",
+                "en": "The arches provide shelter and a great view despite the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine windfeste Regenjacke, da Schirme in den Gassen Vallettas oft umknicken.",
+              "Nutzen Sie die vielen Museen als strategische Pausenorte bei Schauern.",
+              "Die Kalksteinpflaster können bei Nässe extrem rutschig sein, Vorsicht beim Gehen.",
+              "In den Cafés der Republic Street lässt sich der Regen bei einem Pastizz gut abwarten."
+            ],
+            "hu": [
+              "Viseljen szélálló esőkabátot, mert az ernyők Valletta szűk utcáin gyakran kifordulnak.",
+              "Használja stratégiai pihenőként a múzeumokat a záporok idején.",
+              "A mészkő burkolat vizesen rendkívül csúszós lehet, óvatosan lépkedjen.",
+              "A Republic Street kávézóiban egy forró pastizz mellett kényelmesen kivárható az eső."
+            ],
+            "ro": [
+              "Purtați o pelerină de ploaie rezistentă la vânt, deoarece umbrelele se pot rupe pe străzile înguste.",
+              "Folosiți muzeele ca puncte strategice de odihnă în timpul averselor.",
+              "Pavajul din calcar poate deveni extrem de alunecos când este ud, mergeți cu grijă.",
+              "În cafenelele de pe Republic Street puteți aștepta oprirea ploii cu un pastizz cald."
+            ],
+            "en": [
+              "Wear a windproof raincoat as umbrellas often flip in Valletta's narrow, gusty streets.",
+              "Use the city's numerous museums as strategic shelter during heavy showers.",
+              "Limestone pavements become extremely slippery when wet; walk with extra caution.",
+              "Wait out the rain in a Republic Street cafe with a warm pastizz and coffee."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine frische Brise am Stadttor, doch die Wintersonne wärmt den hellen Kalkstein. Mittags besuchen wir die Kathedrale, um der kühlen Zugluft in den Gassen zu entkommen. Der Nachmittag in den Palästen zeigt uns das adelige Leben ohne die Sommerhitze. Zum Sonnenuntergang gegen 17:00 Uhr erleben wir das goldene Licht in den Barrakka Gardens.",
+            "hu": "Reggel friss szellő fogad a Városkapunál, de a téli nap kellemesen melegíti a mészkő falakat. Délben a társszékesegyházba húzódunk a szűk utcák hűvöse elől. A délutáni palotalátogatások során a nyári hőség nélkül élvezhetjük a történelmi pompát. A korai, 17:00 körüli naplementét az Upper Barrakka kert arany fényében csodáljuk meg.",
+            "ro": "Dimineața aduce o briză proaspătă la poarta orașului, dar soarele de iarnă încălzește calcarul luminos. La prânz, vizităm catedrala pentru a scăpa de curentul răcoros de pe străduțe. După-amiaza în palate ne permite să admirăm istoria fără canicula verii. La apusul devreme, în jur de ora 17:00, ne bucurăm de lumina aurie din Grădinile Barrakka.",
+            "en": "Enjoy a crisp winter morning at the City Gate as the low sun hits the limestone walls. At noon, the cathedral offers a warm break from the cool breeze in the shaded alleys. Spend the afternoon in grand palaces, appreciating the history without the summer crowds. Be at Upper Barrakka Gardens by 17:00 to catch the stunning early golden hour sunset."
+          },
+          "stops": [
+            {
+              "name": "Valletta City Gate",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, hier zieht es im Winter oft.",
+                "hu": "Öltözzön rétegesen, itt télen gyakori az erős huzat.",
+                "ro": "Îmbrăcați-vă bine, aici curentul este puternic iarna.",
+                "en": "Dress warmly as this area is often windy in winter."
+              }
+            },
+            {
+              "name": "National Museum of Archaeology",
+              "tip_5lang": {
+                "de": "Ein warmer Rückzugsort an einem kühlen Wintervormittag.",
+                "hu": "Meleg menedék egy hűvös téli délelőttön.",
+                "ro": "Un refugiu călduros într-o dimineață răcoroasă de iarnă.",
+                "en": "A warm retreat on a chilly winter morning."
+              }
+            },
+            {
+              "name": "St. John's Co-Cathedral",
+              "tip_5lang": {
+                "de": "Drinnen ist es oft wärmer als in den schattigen Gassen.",
+                "hu": "Bent gyakran melegebb van, mint az árnyékos utcákon.",
+                "ro": "În interior este adesea mai cald decât pe străzile umbrite.",
+                "en": "It is often warmer inside than in the shaded narrow streets."
+              }
+            },
+            {
+              "name": "Grandmaster's Palace",
+              "tip_5lang": {
+                "de": "Genießen Sie die prunkvolle Rüstkammer ohne Touristenmassen.",
+                "hu": "Élvezze a fegyvertárat a nyári tömeg és hőség nélkül.",
+                "ro": "Bucurați-vă de armurărie fără mulțimile de turiști din vară.",
+                "en": "Enjoy the armory without the summer crowds and heat."
+              }
+            },
+            {
+              "name": "Casa Rocca Piccola",
+              "tip_5lang": {
+                "de": "Der Luftschutzbunker zeigt die kühle Seite der Geschichte.",
+                "hu": "A légoltalmi óvóhely a történelem hűvös oldalát mutatja be.",
+                "ro": "Buncărul antiaerian arată o latură rece a istoriei.",
+                "en": "The air-raid shelter gives a cool perspective on local history."
+              }
+            },
+            {
+              "name": "Fort St. Elmo",
+              "tip_5lang": {
+                "de": "Perfekt für Fotos bei tiefstehender Wintersonne.",
+                "hu": "Tökéletes helyszín fotózáshoz az alacsony téli napállásnál.",
+                "ro": "Perfect pentru fotografii în lumina joasă a soarelui de iarnă.",
+                "en": "Perfect for photos in the low-angled winter sun."
+              }
+            },
+            {
+              "name": "Upper Barrakka Gardens",
+              "tip_5lang": {
+                "de": "Seien Sie wegen des frühen Sonnenuntergangs vor 17 Uhr hier.",
+                "hu": "A korai naplemente miatt érkezzen délután 5 előtt.",
+                "ro": "Fiți aici înainte de ora 17 pentru apusul devreme.",
+                "en": "Arrive before 5 PM to see the early winter sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip ist wichtig: Sonne ist warm, Schatten oft kühl.",
+              "Der Sonnenuntergang ist im Winter bereits gegen 17:00 Uhr.",
+              "Die Luftfeuchtigkeit kann es kälter erscheinen lassen, als es ist.",
+              "Genießen Sie ein heißes Kinnie oder Tee in einem der Cafés."
+            ],
+            "hu": [
+              "Öltözzön rétegesen: a napon meleg van, de árnyékban hűvös.",
+              "A naplemente télen már délután 5 óra körül bekövetkezik.",
+              "A magas páratartalom miatt hidegebbnek érezheti az időt, mint valójában.",
+              "Élvezzen egy forró teát vagy kávét a város egyik hangulatos terén."
+            ],
+            "ro": [
+              "Folosiți straturi de haine: la soare e cald, dar la umbră e răcoare.",
+              "Apusul soarelui are loc deja în jurul orei 17:00 iarna.",
+              "Umiditatea ridicată poate face ca temperatura să pară mai scăzută.",
+              "Savurați un ceai fierbinte sau o cafea într-o cafenea istorică."
+            ],
+            "en": [
+              "Wear layers: it feels warm in the sun but quite chilly in the shade.",
+              "Sunset occurs early in winter, usually around 5 PM.",
+              "High humidity can make the air feel colder than the actual temperature.",
+              "Enjoy a hot drink in a cozy cafe to warm up between stops."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -725,6 +925,188 @@
           "A helmet is strongly recommended.",
           "Use the Barrakka Lift to transport your bike (for a fee) between the Waterfront and the Upper Gardens."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Stadttor und prüfen die Bremsen für die nassen Straßen. Mittags radeln wir vorsichtig zu den Barrakka Gardens, um den Blick unter Dach zu genießen. Die Fahrt zum Waterfront erfolgt im Regenponcho, wo wir uns in einem Café aufwärmen. Nachmittags geht es zum Fort St. Elmo, wobei wir Pfützen in den engen Gassen meiden.",
+            "hu": "A Városkapunál vesszük át a gépeket, ellenőrizve a fékeket a vizes utakra. Délben óvatosan tekerünk a Barrakka kertig, hogy fedett helyről nézzük a kikötőt. Esőponchóban gurulunk le a Waterfrontra egy meleg italra. Délután a Fort St. Elmo felé vesszük az irányt, kerülgetve a szűk utcák tócsáit.",
+            "ro": "Plecăm de la poarta orașului, verificând frânele pentru străzile ude. La prânz pedalăm cu grijă spre Grădinile Barrakka pentru a vedea portul de la adăpost. Coborâm spre Waterfront în pelerine de ploaie pentru o pauză caldă. După-amiaza mergem spre Fort St. Elmo, evitând bălțile de pe străzile înguste.",
+            "en": "Pick up your bike near the City Gate, checking brakes for the wet surfaces. At noon, cycle carefully to Barrakka Gardens for a sheltered view. Head down to the Waterfront in rain ponchos for a quick warm break. In the afternoon, navigate the puddles toward Fort St. Elmo before returning the bike."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental near City Gate",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einer Regenhaie für den Sattel.",
+                "hu": "Kérjen esővédő huzatot a nyeregre.",
+                "ro": "Cereți o husă de protecție pentru șa.",
+                "en": "Ask for a rain cover for your bike seat."
+              }
+            },
+            {
+              "name": "Upper Barrakka Gardens",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Boden beim Absteigen.",
+                "hu": "Vigyázzon a csúszós talajon a leszálláskor.",
+                "ro": "Atenție la solul alunecos când coborâți de pe bicicletă.",
+                "en": "Be careful on the slippery ground when dismounting."
+              }
+            },
+            {
+              "name": "Valletta Waterfront",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden zum Parken der Fahrräder.",
+                "hu": "Használja az árkádokat a biciklik száraz leállításához.",
+                "ro": "Folosiți arcadele pentru a parca bicicletele la uscat.",
+                "en": "Use the waterfront arches to park your bikes out of the rain."
+              }
+            },
+            {
+              "name": "Fort St. Elmo",
+              "tip_5lang": {
+                "de": "Der Weg entlang der Festungsmauern ist sehr windanfällig.",
+                "hu": "Az erőd fala menti út nagyon szeles esőben.",
+                "ro": "Drumul de-a lungul zidurilor cetății este foarte expus vântului.",
+                "en": "The path along the fortress walls is very windy during rain."
+              }
+            },
+            {
+              "name": "Manoel Theatre",
+              "tip_5lang": {
+                "de": "Ein kultureller Stopp, um die Kleidung zu trocknen.",
+                "hu": "Kulturális megálló, ahol megszáradhat a ruházatunk.",
+                "ro": "O oprire culturală unde vă puteți usca hainele.",
+                "en": "A cultural stop where you can dry off your gear."
+              }
+            },
+            {
+              "name": "St. John's Co-Cathedral (Exterior View)",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, dann schnell ins Trockene.",
+                "hu": "Gyors fotómegálló, majd irány egy fedett hely.",
+                "ro": "O scurtă oprire pentru poze, apoi mergeți la adăpost.",
+                "en": "Quick photo stop, then head to a sheltered spot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Kalksteinstraßen Vallettas sind bei Regen extrem rutschig.",
+              "Bremsen Sie frühzeitig und vermeiden Sie scharfe Kurven.",
+              "Ein Poncho ist praktischer als eine Jacke, da er auch den Sattel abdeckt.",
+              "Parken Sie das Rad immer unter Vordächern, um den Sitz trocken zu halten."
+            ],
+            "hu": [
+              "Valletta mészkő utcái esőben rendkívül csúszósak.",
+              "Fékezzen időben és kerülje az éles kanyarokat.",
+              "A ponchó praktikusabb, mert a nyerget is védi tekerés közben.",
+              "Mindig fedett helyen parkoljon, hogy a nyereg száraz maradjon."
+            ],
+            "ro": [
+              "Străzile din calcar ale Vallettei sunt extrem de alunecoase pe ploaie.",
+              "Frânați din timp și evitați virajele bruște.",
+              "O pelerină este mai practică deoarece protejează și șaua în timpul mersului.",
+              "Parcați întotdeauna bicicleta sub acoperiș pentru a păstra șaua uscată."
+            ],
+            "en": [
+              "Valletta's limestone streets are extremely slippery when wet.",
+              "Brake early and avoid making sharp turns on the slick surfaces.",
+              "A rain poncho is more practical than a jacket as it also covers the seat.",
+              "Always park your bike under overhangs to keep the saddle dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Luft klar und ideal für eine Radtour entlang der Stadtmauer. Mittags genießen wir die Sonne bei den Barrakka Gardens, bevor der Wind auffrischt. Die Fahrt zum Waterfront ist im Winter belebend und weniger überlaufen. Nachmittags erkunden wir das Fort St. Elmo im milden Licht der tiefstehenden Sonne.",
+            "hu": "Reggel tiszta a levegő, ideális a várfalak menti tekeréshez. Délben élvezzük a napsütést a Barrakka kertben, mielőtt feltámadna a szél. A Waterfront felé gurulás télen frissítő és nincs tömeg. Délután a Fort St. Elmo környékét fedezzük fel az alacsony napállás lágy fényében.",
+            "ro": "Dimineața aerul este curat, ideal pentru o plimbare cu bicicleta pe lângă ziduri. La prânz profităm de soare în Grădinile Barrakka înainte să bată vântul. Drumul spre Waterfront este revigorant și liber iarna. După-amiaza explorăm zona Fort St. Elmo în lumina blândă a soarelui de iarnă.",
+            "en": "Clear morning air makes for a perfect cycle along the bastion walls. At noon, soak up the winter sun at Barrakka Gardens before the breeze kicks in. The ride to the Waterfront is refreshing and uncrowded in the winter months. In the afternoon, explore the tip of the city near Fort St. Elmo in soft winter light."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental near City Gate",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck für kältere Temperaturen.",
+                "hu": "Ellenőrizze a guminyomást a hidegebb időre való tekintettel.",
+                "ro": "Verificați presiunea roților pentru temperaturile mai scăzute.",
+                "en": "Check the tire pressure for the cooler winter temperatures."
+              }
+            },
+            {
+              "name": "Upper Barrakka Gardens",
+              "tip_5lang": {
+                "de": "Genießen Sie die Sonne, aber hüten Sie sich vor dem Windchill.",
+                "hu": "Élvezze a napsütést, de vigyázzon a szél hűtő hatására.",
+                "ro": "Bucurați-vă de soare, dar atenție la vântul tăios.",
+                "en": "Enjoy the sun, but watch out for the winter wind chill."
+              }
+            },
+            {
+              "name": "Valletta Waterfront",
+              "tip_5lang": {
+                "de": "Die Cafés hier haben oft Heizstrahler im Außenbereich.",
+                "hu": "Az itteni kávézók teraszain gyakran van kültéri fűtés.",
+                "ro": "Cafenelele de aici au adesea radiatoare pe terase.",
+                "en": "Cafes here often have outdoor heaters on their terraces."
+              }
+            },
+            {
+              "name": "Fort St. Elmo",
+              "tip_5lang": {
+                "de": "Am Nordzipfel der Stadt ist es im Winter sehr windig.",
+                "hu": "A város északi csücskénél télen nagyon szeles az idő.",
+                "ro": "La vârful nordic al orașului este foarte vântos iarna.",
+                "en": "The northern tip of the city can be very gusty in winter."
+              }
+            },
+            {
+              "name": "Manoel Theatre",
+              "tip_5lang": {
+                "de": "Kulturstopp im Warmen, perfekt für den Nachmittag.",
+                "hu": "Meleg kulturális megálló, tökéletes a délutáni pihenőhöz.",
+                "ro": "O oprire culturală la căldură, perfectă pentru după-amiază.",
+                "en": "A warm cultural stop, ideal for a winter afternoon break."
+              }
+            },
+            {
+              "name": "St. John's Co-Cathedral (Exterior View)",
+              "tip_5lang": {
+                "de": "Das goldene Winterlicht lässt die Fassade leuchten.",
+                "hu": "Az aranyló téli fényben gyönyörűen csillog a homlokzat.",
+                "ro": "Lumina aurie de iarnă face fațada să strălucească.",
+                "en": "The golden winter light makes the facade glow beautifully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe, der Fahrtwind kann im Winter sehr kalt sein.",
+              "Nutzen Sie die Mittagsstunden, wenn die Sonne am wärmsten ist.",
+              "Achten Sie auf kurze Tage; ab 17:00 Uhr wird es dunkel.",
+              "Meiden Sie die Küstenwege bei starkem Nordwind."
+            ],
+            "hu": [
+              "Viseljen kesztyűt, a menetszél télen nagyon hideg lehet.",
+              "Használja ki a déli órákat, amikor a legmelegebb a nap.",
+              "Ügyeljen a rövid nappalokra; délután 5 után gyorsan sötétedik.",
+              "Erős északi szél esetén kerülje a tengerparti utakat."
+            ],
+            "ro": [
+              "Purtați mănuși, vântul din timpul mersului poate fi foarte rece.",
+              "Profitați de orele amiezii când soarele este cel mai cald.",
+              "Atenție la zilele scurte; se întunecă rapid după ora 17:00.",
+              "Evitați drumurile de coastă în caz de vânt puternic din nord."
+            ],
+            "en": [
+              "Wear gloves as the wind chill while cycling can be very cold.",
+              "Make the most of the midday hours when the sun is at its warmest.",
+              "Keep track of the short days; it gets dark quickly after 5 PM.",
+              "Avoid coastal paths if there is a strong north wind blowing."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1029,6 +1411,188 @@
           "Be aware of the CVA (Controlled Vehicular Access) zone in Valletta, which incurs charges.",
           "A car gives you the freedom to easily explore other parts of Malta like Mdina or the beaches."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir parken außerhalb des Stadttores, um dem Verkehrschaos bei Regen zu entgehen. Vormittags besuchen wir das Archäologiemuseum, während es draußen schüttet. Mittags bietet die Kathedrale einen trockenen Stopp. Die Fahrt nach Birgu (Three Cities) führt uns durch graue, aber stimmungsvolle Landschaften, gefolgt von einem Mittagessen im Trockenen.",
+            "hu": "A Városkapun kívül parkolunk, elkerülve az esős forgalmi káoszt. Délelőtt a Régészeti Múzeumba menekülünk a felhőszakadás elől. Délben a székesegyház nyújt száraz pihenőt. Az autóút Birgu felé szürke, de hangulatos tájakon vezet keresztül, majd egy fedett helyen ebédelünk.",
+            "ro": "Parcăm în afara porții orașului pentru a evita haosul din trafic pe ploaie. Dimineața vizităm Muzeul de Arheologie în timp ce plouă torențial. La prânz, catedrala oferă un popas uscat. Drumul spre Birgu ne poartă prin peisaje gri, dar atmosferice, urmat de un prânz la adăpost.",
+            "en": "Park outside the City Gate to avoid rainy traffic congestion. Spend the morning in the Archaeology Museum while it pours outside. At noon, the cathedral provides a grand dry stop. The drive to Birgu offers misty views of the Grand Harbour, ending with a warm lunch in a sheltered restaurant."
+          },
+          "stops": [
+            {
+              "name": "Parking outside City Gate",
+              "tip_5lang": {
+                "de": "Parken Sie im MCP Parkhaus, um trocken in die Stadt zu kommen.",
+                "hu": "Parkoljon az MCP parkolóházban, így szárazon juthat a városba.",
+                "ro": "Parcați în parcarea MCP pentru a ajunge la uscat în oraș.",
+                "en": "Park in the MCP multi-story car park to enter the city dry."
+              }
+            },
+            {
+              "name": "City Gate & National Museum of Archaeology",
+              "tip_5lang": {
+                "de": "Das Museum ist nur einen kurzen Sprint vom Tor entfernt.",
+                "hu": "A múzeum csak egy rövid sprintre van a kaputól.",
+                "ro": "Muzeul este la doar un scurt sprint distanță de poartă.",
+                "en": "The museum is just a short dash away from the gate."
+              }
+            },
+            {
+              "name": "St. John's Co-Cathedral",
+              "tip_5lang": {
+                "de": "Hinterlassen Sie nasse Schirme im Eingangsbereich.",
+                "hu": "Hagyja a vizes ernyőket a bejárati részen.",
+                "ro": "Lăsați umbrelele ude în zona de la intrare.",
+                "en": "Leave wet umbrellas in the designated entry area."
+              }
+            },
+            {
+              "name": "Drive to the Three Cities (Viewpoint)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick bei Regen bequem aus dem Auto.",
+                "hu": "Élvezze a kilátást az esőben kényelmesen az autóból.",
+                "ro": "Admirați priveliștea pe ploaie confortabil din mașină.",
+                "en": "Enjoy the rainy harbor view comfortably from your car."
+              }
+            },
+            {
+              "name": "Lunch in Birgu",
+              "tip_5lang": {
+                "de": "Suchen Sie Restaurants mit Innenplätzen an der Marina.",
+                "hu": "Keressen belső férőhellyel rendelkező éttermet a marinánál.",
+                "ro": "Căutați restaurante cu locuri în interior la marină.",
+                "en": "Look for restaurants with indoor seating at the marina."
+              }
+            },
+            {
+              "name": "Return to Valletta: Upper Barrakka Gardens",
+              "tip_5lang": {
+                "de": "Der Aufzug bringt Sie schnell und trocken nach oben.",
+                "hu": "A lift gyorsan és szárazon viszi fel a kertbe.",
+                "ro": "Liftul vă duce sus rapid și fără să vă udați.",
+                "en": "The lift takes you up quickly and keeps you dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen können bei Regen durch Ölfilme sehr rutschig sein.",
+              "Das MCP Parkhaus ist die beste Wahl, um trocken nach Valletta zu kommen.",
+              "Rechnen Sie mit mehr Verkehr und Staus bei schlechtem Wetter.",
+              "Vermeiden Sie tiefe Pfützen, da Schlaglöcher oft nicht sichtbar sind."
+            ],
+            "hu": [
+              "Az utak esőben az olajfilm miatt nagyon csúszósak lehetnek.",
+              "Az MCP parkolóház a legjobb választás, ha szárazon akar bejutni.",
+              "Rossz időben számoljon nagyobb forgalommal és dugókkal.",
+              "Kerülje a mély tócsákat, mert a kátyúk gyakran nem látszanak."
+            ],
+            "ro": [
+              "Străzile pot fi foarte alunecoase din cauza peliculei de ulei pe ploaie.",
+              "Parcarea MCP este cea mai bună opțiune pentru a intra la uscat.",
+              "Așteptați-vă la trafic intens și ambuteiaje pe vreme rea.",
+              "Evitați bălțile adânci, deoarece gropile sunt adesea invizibile."
+            ],
+            "en": [
+              "Roads can be very greasy and slippery when it first rains.",
+              "The MCP multi-story car park is your best bet for a dry entry to Valletta.",
+              "Expect heavier traffic and potential delays during bad weather.",
+              "Avoid driving through deep puddles as they often hide potholes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist das Parken am City Gate entspannt. Wir nutzen das milde Licht für einen Besuch im Museum. Mittags wärmen wir uns in der prachtvollen Kathedrale auf. Die Fahrt zu den Three Cities bietet im Winter klare Sicht auf das Meer. Nach einem gemütlichen Mittagessen in Birgu kehren wir zum frühen Sonnenuntergang nach Valletta zurück.",
+            "hu": "Reggel a parkolás a Városkapunál zökkenőmentes. Kihasználjuk a lágy fényt a múzeumlátogatáshoz. Délben a pompás székesegyházban melegszünk fel. A Three Cities felé tartó út télen tiszta kilátást nyújt a tengerre. Egy kellemes birgui ebéd után a korai naplementére érünk vissza Vallettába.",
+            "ro": "Dimineața parcarea la poarta orașului este relaxată. Profităm de lumina blândă pentru o vizită la muzeu. La prânz ne încălzim în catedrala impunătoare. Drumul spre Cele Trei Orașe oferă o vizibilitate clară spre mare iarna. După un prânz plăcut în Birgu, revenim în Valletta pentru apusul devreme.",
+            "en": "Morning parking near the City Gate is easier in winter. Enjoy the crisp light at the museum before warming up in the cathedral at noon. The drive to the Three Cities offers clear, long-distance sea views. After a long lunch in Birgu, head back to catch the early winter sunset from Valletta's bastions."
+          },
+          "stops": [
+            {
+              "name": "Parking outside City Gate",
+              "tip_5lang": {
+                "de": "Im Winter sind oft mehr Parkplätze in Straßennähe frei.",
+                "hu": "Télen gyakran több szabad utcai parkolóhely van a közelben.",
+                "ro": "Iarna sunt adesea mai multe locuri de parcare libere pe stradă.",
+                "en": "Street parking is often easier to find during the winter months."
+              }
+            },
+            {
+              "name": "City Gate & National Museum of Archaeology",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg in der erfrischenden Winterluft.",
+                "hu": "Rövid séta a frissítő téli levegőn.",
+                "ro": "O scurtă plimbare în aerul revigorant de iarnă.",
+                "en": "A brief walk in the refreshing winter air."
+              }
+            },
+            {
+              "name": "St. John's Co-Cathedral",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe in der Nebensaison.",
+                "hu": "Élvezze a nyugalmat a főszezonon kívül.",
+                "ro": "Bucurați-vă de liniște în afara sezonului de vârf.",
+                "en": "Enjoy the interior peace during the off-peak season."
+              }
+            },
+            {
+              "name": "Drive to the Three Cities (Viewpoint)",
+              "tip_5lang": {
+                "de": "Die Fernsicht ist an klaren Wintertagen am besten.",
+                "hu": "A távoli kilátás a tiszta téli napokon a legjobb.",
+                "ro": "Vizibilitatea la distanță este optimă în zilele senine de iarnă.",
+                "en": "Visibility is often at its best on clear winter days."
+              }
+            },
+            {
+              "name": "Lunch in Birgu",
+              "tip_5lang": {
+                "de": "Die Terrassen sind im Winter sonnig und angenehm.",
+                "hu": "A teraszok télen naposak és kellemesek.",
+                "ro": "Terasele sunt însorite și plăcute chiar și iarna.",
+                "en": "Outdoor terraces can be very pleasant in the winter sun."
+              }
+            },
+            {
+              "name": "Return to Valletta: Upper Barrakka Gardens",
+              "tip_5lang": {
+                "de": "Parken Sie rechtzeitig für den Sonnenuntergang um 17 Uhr.",
+                "hu": "Parkoljon le időben az 5 órai naplementéhez.",
+                "ro": "Parcați din timp pentru apusul de la ora 17.",
+                "en": "Park early enough to catch the 5 PM sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkplatzsuche ist im Winter deutlich entspannter als im Sommer.",
+              "Nutzen Sie die CVA-freien Zeiten am Wochenende zum Parken in der Stadt.",
+              "Achten Sie auf Schlaglöcher, die nach Regenfällen im Winter entstehen.",
+              "Die tiefstehende Sonne kann beim Fahren stark blenden; Sonnenbrille mitnehmen."
+            ],
+            "hu": [
+              "A parkolóhely-keresés télen sokkal nyugodtabb, mint nyáron.",
+              "Használja ki a hétvégi CVA-mentes időszakokat a városi parkoláshoz.",
+              "Ügyeljen a téli esőzések után kialakuló kátyúkra.",
+              "Az alacsony napállás erősen vakíthat vezetés közben; legyen kéznél napszemüveg."
+            ],
+            "ro": [
+              "Căutarea locului de parcare este mult mai ușoară iarna decât vara.",
+              "Profitați de perioadele fără taxe CVA în weekend pentru a parca în oraș.",
+              "Atenție la gropile care pot apărea după ploile de iarnă.",
+              "Soarele jos poate fi foarte orbitor la volan; luați ochelari de soare."
+            ],
+            "en": [
+              "Finding a parking spot is much easier in winter than in summer.",
+              "Take advantage of CVA-free periods on weekends to park inside the city.",
+              "Watch out for new potholes that can appear after winter rains.",
+              "The low winter sun can be very blinding; keep sunglasses handy."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1313,6 +1877,188 @@
           "The Valletta-Sliema ferry is a quick and scenic alternative to the bus.",
           "Keep an eye on the bus schedule, especially in the evening as frequencies decrease."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erreichen wir den Busbahnhof Valletta im Regen und flüchten in die Kathedrale. Mittags erkunden wir den Großmeisterpalast, um trocken zu bleiben. Die Fähre nach Sliema kann bei starkem Wellengang ausfallen; wir prüfen die Alternativen. Den Nachmittag verbringen wir beim Shopping in Sliemas Malls, bevor wir im Trockenen zurückkehren.",
+            "hu": "Reggel esőben érkezünk a vallettai buszpályaudvarra, majd a székesegyházba sietünk. Délben a Nagymesteri Palotát fedezzük fel, távol az esőtől. A sliemai komp erős hullámzásnál elmaradhat; ellenőrizzük a lehetőségeket. A délutánt Sliema bevásárlóközpontjaiban töltjük, mielőtt szárazon visszatérnénk.",
+            "ro": "Dimineața ajungem la autogara Valletta pe ploaie și ne grăbim spre catedrală. La prânz explorăm Palatul Marelui Maestru pentru a rămâne la uscat. Feribotul spre Sliema poate fi anulat în caz de valuri mari; verificăm alternativele. După-amiaza o petrecem la cumpărături în mall-urile din Sliema.",
+            "en": "Arrive at Valletta Bus Terminus in the rain and head straight for the cathedral. At noon, explore the Grandmaster's Palace to stay out of the wet. Check if the Sliema ferry is running, as it may be cancelled in rough seas. Spend the afternoon shopping in Sliema's malls before taking a bus back to Valletta."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Valletta Bus Terminus",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kioske am Busbahnhof als kurzen Regenschutz.",
+                "hu": "Használja a pályaudvar kioszkjait rövid eső elleni menedékként.",
+                "ro": "Folosiți chioșcurile din autogară ca adăpost temporar.",
+                "en": "Use the bus terminus kiosks for a brief shelter from the rain."
+              }
+            },
+            {
+              "name": "St. John's Co-Cathedral",
+              "tip_5lang": {
+                "de": "Ein kurzer, nasser Fußmarsch vom Busbahnhof hierher.",
+                "hu": "Rövid, vizes séta a buszpályaudvartól idáig.",
+                "ro": "O scurtă plimbare pe ploaie de la autogară până aici.",
+                "en": "A short, wet walk from the bus terminus to the cathedral."
+              }
+            },
+            {
+              "name": "Grandmaster's Palace",
+              "tip_5lang": {
+                "de": "Perfekt, um eine Regenfront im Inneren auszusitzen.",
+                "hu": "Tökéletes helyszín egy esőfront átvészelésére odabent.",
+                "ro": "Perfect pentru a aștepta trecerea ploii în interior.",
+                "en": "Perfect for sitting out a passing rain front indoors."
+              }
+            },
+            {
+              "name": "Ferry to Sliema",
+              "tip_5lang": {
+                "de": "Prüfen Sie bei Wind, ob die Fähre überhaupt fährt.",
+                "hu": "Szeles időben ellenőrizze, hogy jár-e egyáltalán a komp.",
+                "ro": "Verificați dacă feribotul circulă în caz de vânt puternic.",
+                "en": "Check if the ferry is running if it's very windy or wavy."
+              }
+            },
+            {
+              "name": "Lunch and Shopping in Sliema",
+              "tip_5lang": {
+                "de": "Sliema hat große, moderne Malls, die ideal bei Regen sind.",
+                "hu": "Sliema modern plázái ideálisak esős időben.",
+                "ro": "Mall-urile moderne din Sliema sunt ideale pe ploaie.",
+                "en": "Sliema's modern malls are ideal for staying dry and warm."
+              }
+            },
+            {
+              "name": "Return to Valletta: Upper Barrakka Gardens",
+              "tip_5lang": {
+                "de": "Der Barrakka-Lift ist der schnellste Weg zurück vom Hafen.",
+                "hu": "A Barrakka-lift a leggyorsabb út vissza a kikötőből.",
+                "ro": "Liftul Barrakka este cea mai rapidă cale de întoarcere din port.",
+                "en": "The Barrakka Lift is the fastest way back from the harbor."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bussen sind bei Regen oft überfüllt, planen Sie Wartezeiten ein.",
+              "Die Fähre nach Sliema stellt bei starkem Wind den Betrieb ein.",
+              "Nutzen Sie die Tallinja-App für Echtzeit-Updates der Busankünfte.",
+              "Tragen Sie wasserfeste Schuhe für den Weg zum Busbahnhof."
+            ],
+            "hu": [
+              "Az autóbuszok esőben gyakran zsúfoltak, tervezzen várakozási időt.",
+              "Erős szél esetén a Sliema komp nem közlekedik.",
+              "Használja a Tallinja alkalmazást a buszok valós idejű követéséhez.",
+              "Viseljen vízálló cipőt a buszpályaudvarig tartó sétához."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea aglomerate pe ploaie, planificați timp de așteptare.",
+              "Feribotul spre Sliema își suspendă activitatea în caz de vânt puternic.",
+              "Folosiți aplicația Tallinja pentru actualizări în timp real ale autobuzelor.",
+              "Purtați încălțăminte impermeabilă pentru drumul spre autogară."
+            ],
+            "en": [
+              "Buses are often very crowded during rain; allow for extra travel time.",
+              "The Sliema ferry is usually suspended if the wind is too strong.",
+              "Use the Tallinja app for real-time updates on bus arrival times.",
+              "Wear waterproof shoes for the walk to and from the bus terminus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erreichen wir Valletta entspannt mit dem Bus. In der Kathedrale genießen wir die prunkvolle Stille ohne die Sommerhitze. Mittags erkunden wir den Palast, bevor wir die Fähre nach Sliema nehmen. Die Überfahrt ist im Winter kühl, bietet aber tolle Fotos der Skyline. Den Nachmittag verbringen wir in Sliema und kehren zum Sonnenuntergang zurück.",
+            "hu": "Reggel kényelmesen érkezünk busszal Vallettába. A székesegyházban a nyári hőség nélkül élvezzük a csendet. Délben a palotát fedezzük fel, majd kompra szállunk Sliema felé. Az átkelés télen hűvös, de remek fotókat készíthetünk a látképről. A délutánt Sliemában töltjük, majd naplementére érünk vissza.",
+            "ro": "Dimineața ajungem relaxați cu autobuzul în Valletta. În catedrală ne bucurăm de liniște fără căldura verii. La prânz explorăm palatul, apoi luăm feribotul spre Sliema. Traversarea este răcoroasă iarna, dar oferă poze excelente cu orașul. După-amiaza o petrecem în Sliema și revenim la apus.",
+            "en": "Start your winter morning with a relaxed bus ride into Valletta. Enjoy the cathedral's quiet splendor without the summer heat. Explore the palace at noon before boarding the ferry to Sliema. The crossing is chilly in winter but offers the best views of the city skyline. Afternoon in Sliema is perfect before a sunset return."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Valletta Bus Terminus",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse deutlich leerer als im Sommer.",
+                "hu": "Télen a buszok jóval üresebbek, mint nyáron.",
+                "ro": "Iarna autobuzele sunt mult mai libere decât vara.",
+                "en": "Buses are significantly less crowded during the winter months."
+              }
+            },
+            {
+              "name": "St. John's Co-Cathedral",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kathedrale früh, um das Licht zu nutzen.",
+                "hu": "Látogassa meg korán a katedrálist a fények miatt.",
+                "ro": "Vizitați catedrala devreme pentru a profita de lumină.",
+                "en": "Visit the cathedral early to make the most of the morning light."
+              }
+            },
+            {
+              "name": "Grandmaster's Palace",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für die kühlere Mittagszeit.",
+                "hu": "Ideális helyszín a hűvösebb délutáni órákra.",
+                "ro": "Un loc ideal pentru perioada mai răcoroasă a amiezii.",
+                "en": "An ideal place to visit during the cooler midday hours."
+              }
+            },
+            {
+              "name": "Ferry to Sliema",
+              "tip_5lang": {
+                "de": "Setzen Sie sich im Winter in den geschlossenen Bereich.",
+                "hu": "Télen üljön a komp zárt utasterébe.",
+                "ro": "Iarna stați în zona închisă a feribotului.",
+                "en": "Sit in the enclosed area of the ferry during winter months."
+              }
+            },
+            {
+              "name": "Lunch and Shopping in Sliema",
+              "tip_5lang": {
+                "de": "Die Cafés an der Promenade haben oft Wintersonne.",
+                "hu": "A sétány menti kávézókban gyakran érheti a téli nap.",
+                "ro": "Cafenelele de pe faleză profită adesea de soarele de iarnă.",
+                "en": "Cafes along the promenade are often bathed in pleasant winter sun."
+              }
+            },
+            {
+              "name": "Return to Valletta: Upper Barrakka Gardens",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die beleuchtete Stadt am Abend.",
+                "hu": "Élvezze az esti kivilágított város látványát.",
+                "ro": "Admirați priveliștea orașului iluminat seara.",
+                "en": "Enjoy the view of the illuminated city in the early evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter nach dem normalen Fahrplan, sind aber pünktlicher.",
+              "Die Fähre nach Sliema bietet im Winter die besten Fotomotive.",
+              "Nehmen Sie für die Fährfahrt eine windfeste Jacke mit.",
+              "Die Tallinja-Karte gilt auch im Winter und spart Geld."
+            ],
+            "hu": [
+              "A buszok télen a normál menetrend szerint járnak, de pontosabbak.",
+              "A Sliema komp télen kínálja a legjobb fotózási lehetőségeket.",
+              "A kompozáshoz vigyen magával szélálló kabátot.",
+              "A Tallinja kártya télen is érvényes és sokat spórolhat vele."
+            ],
+            "ro": [
+              "Autobuzele circulă după orarul normal, dar sunt mai punctuale iarna.",
+              "Feribotul spre Sliema oferă cele mai bune oportunități foto iarna.",
+              "Luați o jachetă rezistentă la vânt pentru traversarea cu feribotul.",
+              "Cardul Tallinja este valabil și iarna și vă ajută să economisiți."
+            ],
+            "en": [
+              "Buses run on their regular schedule but tend to be more punctual in winter.",
+              "The Sliema ferry offers the best photo opportunities during winter light.",
+              "Bring a windproof jacket for the chilly ferry crossing to Sliema.",
+              "The Tallinja card is valid year-round and is the best value for travel."
+            ]
+          }
+        }
       }
     }
   }

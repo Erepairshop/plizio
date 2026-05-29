@@ -386,6 +386,214 @@
           "Allow plenty of time for the silver mine; the tours last about 90 minutes.",
           "Most sights in the town center are within easy walking distance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Schwaz beginnt unter dem Schutz der Arkaden am Orglerhaus. Ein Regenschirm ist in den engen Gassen der Altstadt unerlässlich, während man zur Stadtpfarrkirche schlendert.\n\nMittags bietet die größte gotische Hallenkirche Österreichs ein trockenes und imposantes Refugium. Der kurze Weg zum Fuggerhaus lässt sich meist im Laufschritt überbrücken.\n\nNachmittags ist das Museum der Völker der ideale Rückzugsort, um zwei Stunden im Trockenen zu verbringen. Der Aufstieg zur Burg Freundsberg erfordert bei Regen festes Schuhwerk.\n\nDer Abend endet perfekt im Silberbergwerk. Da man tief in den Berg einfährt, spielt das Wetter draußen keine Rolle – es bleibt konstant trocken bei 12 Grad.",
+            "hu": "A reggel Schwazban az Orgler-ház árkádjai alatt indul, ahol az ernyő kötelező kellék az óvárosi séta során. A szűk utcák némi védelmet nyújtanak az eső ellen.\n\nDélben a plébániatemplom hatalmas belső tere nyújt száraz menedéket. A Fugger-házhoz vezető rövid utat érdemes gyors léptekkel megtenni a szemerkélő esőben.\n\nDélután a Népek Múzeuma a legjobb választás, itt kényelmesen elüthetjük az időt fedett helyen. A Freundsberg-kastélyhoz vezető emelkedő csúszós lehet, vigyázzunk a léptekkel.\n\nAz este a legjobb programot tartogatja: az ezüstbányában a felszíni viharoktól távol, a föld alatt mindig száraz és hűvös idő vár ránk a bányavasúton ülve.",
+            "ro": "Dimineața în Schwaz începe sub protecția arcadelor de la Casa Orgler. Umbrela este indispensabilă pe străzile înguste ale centrului vechi în drum spre biserică.\n\nLa prânz, interiorul vast al bisericii parohiale oferă un refugiu uscat și liniștit. Distanța scurtă până la Casa Fugger poate fi parcursă rapid pentru a evita ploaia.\n\nDupă-amiaza, Muzeul Popoarelor este destinația ideală pentru a petrece două ore la adăpost. Urcarea spre Castelul Freundsberg necesită încălțăminte aderentă pe potecile umede.\n\nSeara se încheie perfect la mina de argint. Deoarece traseul este în subteran, vremea de afară nu contează – rămâne constant uscat la o temperatură de 12 grade.",
+            "en": "Morning in Schwaz begins under the shelter of the Orgler House arcades. An umbrella is essential in the narrow old town streets while heading to the parish church.\n\nAt noon, Austria's largest Gothic hall church provides a dry and grand sanctuary. The short dash to the Fugger House is easily managed between rain showers.\n\nAfternoon is best spent at the Museum of Peoples, a perfect indoor retreat for a couple of hours. The walk up to Freundsberg Castle requires sturdy shoes on the wet paths.\n\nEvening concludes perfectly at the Silver Mine. Since you ride deep into the mountain, the weather outside is irrelevant – it stays consistently dry at 12 degrees."
+          },
+          "stops": [
+            {
+              "name": "Orgler House & Town Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die tiefen Hauseingänge als Unterstand bei starken Güssen.",
+                "hu": "Használja a mélyebb kapualjakat menedékként egy hirtelen zápor esetén.",
+                "ro": "Folosiți intrările adânci ale clădirilor ca adăpost în caz de aversă.",
+                "en": "Use the deep doorways as shelter during sudden heavy downpours."
+              }
+            },
+            {
+              "name": "Parish Church of Our Lady of the Assumption",
+              "tip_5lang": {
+                "de": "Bewundern Sie das silberne Kirchendach, das im Regen besonders glänzt.",
+                "hu": "Csodálja meg az ezüstös tetőt, amely az esőben különlegesen csillog.",
+                "ro": "Admirați acoperișul argintiu care strălucește deosebit pe ploaie.",
+                "en": "Admire the silver roof which has a unique glisten in the rain."
+              }
+            },
+            {
+              "name": "Fugger House",
+              "tip_5lang": {
+                "de": "Der Innenhof bietet begrenzten Schutz, bleiben Sie nah an den Wänden.",
+                "hu": "A belső udvar korlátozott védelmet nyújt, maradjon a falak közelében.",
+                "ro": "Curtea interioară oferă adăpost limitat, stați aproape de pereți.",
+                "en": "The inner courtyard offers limited shelter, stay close to the walls."
+              }
+            },
+            {
+              "name": "Franciscan Monastery Schwaz",
+              "tip_5lang": {
+                "de": "Der Kreuzgang ist überdacht und ideal für eine trockene Besichtigung.",
+                "hu": "A kolostor folyosója fedett, így szárazon körbejárható a kert.",
+                "ro": "Cloastrul este acoperit și ideal pentru o vizită la adăpost.",
+                "en": "The cloister is covered and ideal for a dry walkthrough."
+              }
+            },
+            {
+              "name": "Museum of Peoples",
+              "tip_5lang": {
+                "de": "Geben Sie nasse Mäntel und Schirme an der Garderobe im Eingang ab.",
+                "hu": "A vizes kabátokat és ernyőket hagyja a bejáratnál lévő ruhatárban.",
+                "ro": "Lăsați hainele umede și umbrelele la garderoba de la intrare.",
+                "en": "Leave wet coats and umbrellas at the cloakroom by the entrance."
+              }
+            },
+            {
+              "name": "Freundsberg Castle",
+              "tip_5lang": {
+                "de": "Das Burgmuseum und die Kapelle sind komplett wetterfest.",
+                "hu": "A vármúzeum és a kápolna teljesen védett az időjárástól.",
+                "ro": "Muzeul castelului și capela sunt complet protejate de intemperii.",
+                "en": "The castle museum and chapel are completely weatherproof."
+              }
+            },
+            {
+              "name": "Schwaz Silver Mine",
+              "tip_5lang": {
+                "de": "Perfektes Regenprogramm: Im Berginneren bleibt alles trocken.",
+                "hu": "Tökéletes esőnapra: a hegy gyomrában minden száraz marad.",
+                "ro": "Program perfect pentru ploaie: în interiorul muntelui totul e uscat.",
+                "en": "Perfect rainy day activity: everything stays dry inside the mountain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für den Anstieg zur Burg.",
+              "Die Stadtgalerien bieten eine gute überdachte Shopping-Alternative.",
+              "Nutzen Sie die kurzen Abstände in der Altstadt für Sprints zwischen Cafés.",
+              "Die Silbermine ist oft ausgebucht bei Regen, reservieren Sie vorab.",
+              "Ein Taschenschirm ist handlicher als ein großer Stockschirm."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a várba vezető emelkedőhöz.",
+              "A Stadtgalerien bevásárlóközpont jó fedett alternatíva pihenésre.",
+              "Az óvárosban a kávézók közelsége miatt könnyű szárazon maradni.",
+              "Esőben az ezüstbánya népszerű, érdemes előre jegyet foglalni.",
+              "Az összecsukható ernyő praktikusabb a szűk óvárosi utcákon."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție impermeabilă pentru urcarea la castel.",
+              "Centrul comercial Stadtgalerien oferă o alternativă bună la interior.",
+              "Distanțele scurte din centrul vechi permit pauze dese în cafenele.",
+              "Mina este foarte solicitată când plouă, rezervați biletele în avans.",
+              "O umbrelă pliabilă este mai practică pe străzile înguste."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the ascent to the castle.",
+              "The Stadtgalerien shopping mall is a great indoor alternative.",
+              "Take advantage of the short distances in the old town to hop between cafes.",
+              "The silver mine gets busy on rainy days, book your tickets in advance.",
+              "A compact umbrella is more practical than a large one in narrow streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Schwaz im Winter glänzt mit verschneiten Gipfeln über der Stadt. Der Morgen am Stadtplatz ist frisch, und der Schnee knirscht auf dem Weg zur imposanten Stadtpfarrkirche.\n\nMittags wärmt man sich in den historischen Mauern der Fugger-Residenz auf. Das Licht der tiefstehenden Sonne bricht sich malerisch in den Fenstern des Kreuzgangs im Franziskanerkloster.\n\nNachmittags bietet das Museum der Völker wohlige Wärme und faszinierende Einblicke. Der Weg zur Burg Freundsberg kann glatt sein, belohnt aber mit einem Blick auf das winterliche Inntal.\n\nDa die Sonne bereits gegen 16:30 Uhr hinter den Bergen verschwindet, ist der Besuch im Silberbergwerk am späten Nachmittag ideal, bevor man den Tag in einer warmen Stube ausklingen lässt.",
+            "hu": "Schwaz télen a város fölé magasodó havas csúcsokkal tündököl. A reggel a főtéren friss és csípős, a hó pedig ropog a talpunk alatt a plébániatemplom felé.\n\nDélben a Fugger-ház történelmi falai között melegedhetünk fel. Az alacsonyan járó nap fénye festőien törik meg a ferences kolostor kerengőjének ablakain.\n\nDélután a Népek Múzeuma hívogató meleget és különleges látnivalókat kínál. A várba vezető út jeges lehet, de a téli Inntal látványa kárpótol mindenért.\n\nMivel a nap már fél öt körül eltűnik a hegyek mögött, a késő délutáni bányalátogatás remek választás, mielőtt betérnénk egy hangulatos, meleg étterembe.",
+            "ro": "Schwaz iarna strălucește cu vârfurile înzăpezite deasupra orașului. Dimineața în piața centrală este geroasă, iar zăpada scârțâie sub picioare spre biserica parohială.\n\nLa prânz, zidurile istorice ale Casei Fugger oferă un adăpost călduros. Lumina soarelui de iarnă se reflectă pitoresc în ferestrele cloastrului mănăstirii franciscane.\n\nDupă-amiaza, Muzeul Popoarelor oferă căldură și perspective fascinante. Drumul spre Castelul Freundsberg poate fi alunecos, dar vederea asupra văii Inn înzăpezite merită efortul.\n\nDeoarece soarele apune deja în jurul orei 16:30 după munți, vizita la mina de argint este ideală înainte de a încheia ziua într-o tavernă călduroasă.",
+            "en": "Schwaz in winter shines with snow-capped peaks towering over the city. The morning at the town square is crisp, with snow crunching underfoot on the way to the parish church.\n\nAt noon, warm up within the historic walls of the Fugger residence. The low winter sun creates a picturesque light in the windows of the Franciscan monastery cloister.\n\nAfternoon brings cozy warmth and fascinating insights at the Museum of Peoples. The path to Freundsberg Castle can be icy but rewards you with views of the wintry Inn Valley.\n\nSince the sun disappears behind the mountains by 4:30 PM, a late afternoon visit to the silver mine is ideal before finishing the day in a warm local tavern."
+          },
+          "stops": [
+            {
+              "name": "Orgler House & Town Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Kopfsteinpflaster des Platzes.",
+                "hu": "Vigyázzon a jegesedésre a tér macskaköves burkolatán.",
+                "ro": "Atenție la polei pe pavajul de piatră cubică al pieței.",
+                "en": "Watch out for black ice on the cobblestones of the square."
+              }
+            },
+            {
+              "name": "Parish Church of Our Lady of the Assumption",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte, behalten Sie die Jacke an.",
+                "hu": "A vastag falak tartják a hideget, ne vegye le a kabátját bent sem.",
+                "ro": "Zidurile groase rețin frigul, păstrați haina pe dumneavoastră.",
+                "en": "The thick walls retain the cold, keep your coat on inside."
+              }
+            },
+            {
+              "name": "Fugger House",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen dem kalten Stein und der warmen Geschichte.",
+                "hu": "Élvezze a hideg kőfalak és a melengető történelem kontrasztját.",
+                "ro": "Bucurați-vă de contrastul dintre piatra rece și istoria caldă.",
+                "en": "Enjoy the contrast between the cold stone and the warm history."
+              }
+            },
+            {
+              "name": "Franciscan Monastery Schwaz",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Weihnachtskrippe, falls diese bereits ausgestellt ist.",
+                "hu": "Nézze meg a betlehemet, ha már kiállították a templomban.",
+                "ro": "Vizitați ieslea de Crăciun, dacă este deja expusă.",
+                "en": "Visit the Christmas nativity scene if it is already on display."
+              }
+            },
+            {
+              "name": "Museum of Peoples",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich für eine Stunde richtig aufzuwärmen.",
+                "hu": "A tökéletes helyszín egy órányi alapos átmelegedésre.",
+                "ro": "Locul perfect pentru a vă încălzi bine timp de o oră.",
+                "en": "The perfect place to truly warm up for an hour."
+              }
+            },
+            {
+              "name": "Freundsberg Castle",
+              "tip_5lang": {
+                "de": "Trinken Sie einen heißen Punsch oder Tee in der Burgschenke.",
+                "hu": "Igyon egy forró puncsot vagy teát a vár hangulatos fogadójában.",
+                "ro": "Beți un punch fierbinte sau un ceai la taverna castelului.",
+                "en": "Drink a hot punch or tea in the castle's tavern."
+              }
+            },
+            {
+              "name": "Schwaz Silver Mine",
+              "tip_5lang": {
+                "de": "Die Mine fühlt sich im Winter mit 12 Grad fast warm an.",
+                "hu": "A bánya 12 foka télen szinte melegnek érződik a kinti fagy után.",
+                "ro": "Mina se simte aproape caldă iarna, având 12 grade constante.",
+                "en": "The mine feels almost warm in winter with its constant 12 degrees."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht früh unter, planen Sie Außenaktivitäten vor 16 Uhr.",
+              "Warme Socken sind für die Fahrt mit der Grubenbahn in der Mine wichtig.",
+              "Der Weg zur Burg wird geräumt, kann aber bei Neuschnee rutschig sein.",
+              "Prüfen Sie die Winter-Öffnungszeiten der Museen vorab.",
+              "Schichtenprinzip bei Kleidung hilft gegen den kalten Wind im Tal."
+            ],
+            "hu": [
+              "A nap korán nyugszik, a szabadtéri programokat végezze el 16 óráig.",
+              "Vastag zokni ajánlott a bányavasúton való utazáshoz.",
+              "A várba vezető utat takarítják, de friss hóban csúszós maradhat.",
+              "Ellenőrizze a múzeumok téli nyitvatartását látogatás előtt.",
+              "A réteges öltözködés segít a völgyben fújó hideg szél ellen."
+            ],
+            "ro": [
+              "Soarele apune devreme, planificați activitățile externe înainte de ora 16.",
+              "Șosetele groase sunt importante pentru călătoria cu trenulețul în mină.",
+              "Drumul spre castel este curățat, dar poate fi alunecos la zăpadă proaspătă.",
+              "Verificați orarul de iarnă al muzeelor înainte de vizită.",
+              "Îmbrăcămintea în straturi ajută împotriva vântului rece din vale."
+            ],
+            "en": [
+              "Sun sets early, plan outdoor activities before 4 PM.",
+              "Warm socks are important for the mine train ride.",
+              "The path to the castle is cleared but can be slippery with fresh snow.",
+              "Check winter opening hours for museums beforehand.",
+              "Layered clothing helps against the cold wind in the valley."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +950,196 @@
           "Bring a water bottle, especially for the climb to the castle.",
           "Always lock your bike securely when you park it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln im Regen erfordert in Schwaz gute Vorbereitung. Vom Bahnhof geht es zügig zum Silberbergwerk, wo die Räder sicher und trocken geparkt werden können.\n\nMittags führt die Tour zurück in die Altstadt. Auf dem nassen Kopfsteinpflaster ist Vorsicht geboten, besonders bei der Stadtpfarrkirche.\n\nNachmittags ist das Museum der Völker ein willkommener Stopp, um die Kleidung etwas zu trocknen, bevor der steile Weg zur Burg Freundsberg ansteht.\n\nDer Tag endet mit einer kühlen Fahrt entlang des Inns. Der Radweg ist asphaltiert, aber Pfützen bilden sich schnell – Schutzbleche sind hier Gold wert.",
+            "hu": "Az esőben való biciklizés Schwazban alapos felkészülést igényel. Az állomástól gyorsan tekerjünk az ezüstbányáig, ahol a bicikliket biztonságban lezárhatjuk.\n\nDélben a túra visszavezet az óvárosba. A vizes macskakövön óvatosan közlekedjünk, különösen a plébániatemplom környékén.\n\nDélután a Népek Múzeuma ideális pihenő, hogy megszárítsuk ruházatunkat, mielőtt nekivágnánk a várba vezető meredek kaptatónak.\n\nA nap az Inn menti kerékpározással zárul. Az út aszfaltozott, de a tócsák miatt a sárvédő elengedhetetlen kellék.",
+            "ro": "Mersul pe bicicletă în ploaie necesită o pregătire bună în Schwaz. De la gară mergeți rapid spre mina de argint, unde bicicletele pot fi parcate în siguranță.\n\nLa prânz, turul revine în centrul vechi. Atenție sporită pe pavajul umed, mai ales în zona bisericii parohiale.\n\nDupă-amiaza, Muzeul Popoarelor este o oprire binevenită pentru a vă usca puțin hainele înainte de urcarea abruptă spre Castelul Freundsberg.\n\nZiua se încheie cu o plimbare răcoroasă de-a lungul râului Inn. Pistă este asfaltată, dar bălțile se formează rapid – apărătorile sunt esențiale.",
+            "en": "Cycling in the rain requires good preparation in Schwaz. Head quickly from the station to the Silver Mine, where bikes can be parked safely and dry.\n\nAt noon, the tour heads back to the old town. Exercise caution on the wet cobblestones, especially near the parish church.\n\nAfternoon makes the Museum of Peoples a welcome stop to dry off clothes before tackling the steep climb to Freundsberg Castle.\n\nThe day ends with a cool ride along the Inn. The bike path is paved, but puddles form quickly – mudguards are a lifesaver here."
+          },
+          "stops": [
+            {
+              "name": "Start: Bike Rental at the Station",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Rad mit guten Schutzblechen und Bremsen.",
+                "hu": "Kérjen sárvédővel és jó fékekkel felszerelt kerékpárt.",
+                "ro": "Cereți o bicicletă cu apărători bune și frâne eficiente.",
+                "en": "Ask for a bike with good mudguards and brakes."
+              }
+            },
+            {
+              "name": "Schwaz Silver Mine",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Dachvorsprung am Eingang.",
+                "hu": "Parkolja le kerékpárját az épület előtti tető alatt.",
+                "ro": "Parcați bicicleta sub streașina de la intrare.",
+                "en": "Park your bike under the roof overhang at the entrance."
+              }
+            },
+            {
+              "name": "Old Town & Parish Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen: Nasses Kopfsteinpflaster ist sehr rutschig.",
+                "hu": "Vigyázat a leszálláskor: a vizes macskakő nagyon csúszik.",
+                "ro": "Atenție la coborâre: piatra cubică umedă este foarte alunecoasă.",
+                "en": "Careful when dismounting: wet cobblestones are very slippery."
+              }
+            },
+            {
+              "name": "Museum of Peoples",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen und Trocknen der Ausrüstung.",
+                "hu": "Ideális hely a felszerelés megszárítására és a melegedésre.",
+                "ro": "Ideal pentru încălzire și uscarea echipamentului.",
+                "en": "Ideal for warming up and drying your gear."
+              }
+            },
+            {
+              "name": "Freundsberg Castle",
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Nässe anstrengend, nutzen Sie kleine Gänge.",
+                "hu": "Az emelkedő esőben fárasztóbb, használjon alacsony sebességfokozatot.",
+                "ro": "Urcarea este obositoare pe ploaie, folosiți viteze mici.",
+                "en": "The climb is strenuous in the wet, use low gears."
+              }
+            },
+            {
+              "name": "Ride along the Inn River",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen, die tiefer sein können als sie aussehen.",
+                "hu": "Vigyázzon a tócsákra, mélyebbek lehetnek, mint aminek látszanak.",
+                "ro": "Atenție la bălți, pot fi mai adânci decât par.",
+                "en": "Watch out for puddles that might be deeper than they look."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung (Hose + Jacke) ist zwingend.",
+              "Bremsweg auf nassem Asphalt verlängert sich deutlich.",
+              "Vermeiden Sie das Überfahren von Fahrbahnmarkierungen bei Nässe.",
+              "Verstauen Sie Wertsachen in wasserdichten Packtaschen.",
+              "Ein Sattelbezug hält die Sitzfläche beim Parken trocken."
+            ],
+            "hu": [
+              "A teljes esőruházat (nadrág + kabát) elengedhetetlen.",
+              "A féktávolság vizes aszfalton jelentősen megnő.",
+              "Kerülje az útburkolati jeleken való áthajtást esőben.",
+              "Értékeit vízhatlan táskákba pakolja el.",
+              "Egy nyereghuzat szárazon tartja az ülést parkolás közben."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie (pantaloni + jachetă) este obligatoriu.",
+              "Distanța de frânare pe asfalt umed crește considerabil.",
+              "Evitați trecerea peste marcajele rutiere când sunt umede.",
+              "Depozitați obiectele de valoare în genți impermeabile.",
+              "O husă de șa păstrează locul uscat în timp ce parcați."
+            ],
+            "en": [
+              "Full rain gear (trousers + jacket) is mandatory.",
+              "Braking distance increases significantly on wet asphalt.",
+              "Avoid riding over road markings when they are wet.",
+              "Store valuables in waterproof panniers.",
+              "A saddle cover keeps the seat dry while parked."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Schwaz bietet klare Luft und tolle Ausblicke. Vom Bahnhof führt der Weg durch die verschneite Landschaft zur Silbermine.\n\nMittags ist die Altstadt das Ziel. Hier sollte man das Rad öfter schieben, da gefrorene Pfützen tückisch sein können.\n\nNachmittags wärmt man sich im Museum der Völker auf. Der Anstieg zur Burg Freundsberg ist im Winter eine echte sportliche Herausforderung, die mit heißem Tee belohnt wird.\n\nZum Abschluss geht es entlang des Inns zurück. Der Wind im Tal ist eisig, daher sind Handschuhe und ein Gesichtsschutz beim Radeln unverzichtbar.",
+            "hu": "A téli kerékpározás Schwazban friss levegőt és lenyűgöző látványt nyújt. Az állomástól a havas tájon át vezet az út az ezüstbányáig.\n\nDélben az óvárost vesszük célba. Itt érdemesebb többször tolni a biciklit, mert a megfagyott tócsák trükkösek lehetnek.\n\nDélután a Népek Múzeumában melegedhetünk fel. A várba való feljutás télen igazi sportteljesítmény, amit egy forró tea koronáz meg.\n\nZárásként az Inn mentén tekerünk vissza. A völgyben fújó szél jéghideg, így a kesztyű és az arcvédelem elengedhetetlen.",
+            "ro": "Mersul pe bicicletă iarna în Schwaz oferă aer curat și vederi superbe. De la gară, drumul duce prin peisajul înzăpezit spre mina de argint.\n\nLa prânz, centrul vechi este destinația. Aici este recomandat să mergeți pe lângă bicicletă deseori, deoarece bălțile înghețate pot fi înșelătoare.\n\nDupă-amiaza, vă încălziți la Muzeul Popoarelor. Urcarea spre Castelul Freundsberg este o adevărată provocare sportivă iarna, răsplătită cu un ceai fierbinte.\n\nLa final, reveniți de-a lungul râului Inn. Vântul din vale este înghețat, deci mănușile și protecția facială sunt indispensabile.",
+            "en": "Winter cycling in Schwaz offers crisp air and great views. From the station, the path leads through the snowy landscape to the Silver Mine.\n\nAt noon, head into the old town. You might want to push your bike more often here, as frozen puddles can be treacherous.\n\nAfternoon is for warming up in the Museum of Peoples. The climb to Freundsberg Castle is a real athletic challenge in winter, rewarded with hot tea.\n\nFinally, ride back along the Inn. The wind in the valley is icy, so gloves and face protection are indispensable while cycling."
+          },
+          "stops": [
+            {
+              "name": "Start: Bike Rental at the Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob Winterreifen oder Spikes verfügbar sind.",
+                "hu": "Érdeklődjön, hogy elérhető-e téli gumi vagy szöges gumi.",
+                "ro": "Verificați dacă sunt disponibile anvelope de iarnă sau cu ținte.",
+                "en": "Check if winter tires or spikes are available."
+              }
+            },
+            {
+              "name": "Schwaz Silver Mine",
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad sicher ab, Metall wird bei Frost spröde.",
+                "hu": "Zárja le biztonságosan a biciklit, a fém fagyban rideggé válhat.",
+                "ro": "Încuiați bicicleta bine, metalul devine casant la ger.",
+                "en": "Lock your bike securely; metal can become brittle in deep frost."
+              }
+            },
+            {
+              "name": "Old Town & Parish Church",
+              "tip_5lang": {
+                "de": "In den Schattenzonen der Gassen liegt oft hartnäckiges Eis.",
+                "hu": "A szűk utcák árnyékos részein gyakran megmarad a jég.",
+                "ro": "În zonele umbrite ale străzilor gheața persistă deseori.",
+                "en": "Persistent ice often lingers in the shaded parts of the alleys."
+              }
+            },
+            {
+              "name": "Museum of Peoples",
+              "tip_5lang": {
+                "de": "Tauen Sie Ihre Finger auf, bevor Sie den Berg angehen.",
+                "hu": "Melegítse át az ujjait, mielőtt nekivágna a hegynek.",
+                "ro": "Dezghețați-vă degetele înainte de a urca panta.",
+                "en": "Thaw out your fingers before tackling the climb."
+              }
+            },
+            {
+              "name": "Freundsberg Castle",
+              "tip_5lang": {
+                "de": "Bei der Abfahrt besonders vorsichtig bremsen (Glatteisgefahr).",
+                "hu": "Lefelé menet különösen óvatosan fékezzen (jegesedés veszélye).",
+                "ro": "Frânați cu mare atenție la coborâre (pericol de polei).",
+                "en": "Brake very carefully on the descent (risk of black ice)."
+              }
+            },
+            {
+              "name": "Ride along the Inn River",
+              "tip_5lang": {
+                "de": "Der Fahrtwind am Fluss verstärkt die Kälte (Windchill-Effekt).",
+                "hu": "A folyóparti menetszél fokozza a hideget (szélhűtés).",
+                "ro": "Vântul de pe malul râului accentuează frigul (efect de windchill).",
+                "en": "The wind along the river intensifies the cold (wind chill effect)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Handschuhe und winddichte Kleidung.",
+              "Reduzieren Sie den Reifendruck leicht für mehr Grip auf Schnee.",
+              "Vermeiden Sie hektische Lenkbewegungen auf glatten Flächen.",
+              "Batterien von E-Bikes entladen sich bei Kälte schneller.",
+              "Sorgen Sie für gute Beleuchtung, da es früh dunkel wird."
+            ],
+            "hu": [
+              "Viseljen termokesztyűt és szélálló ruházatot.",
+              "Csökkentse kissé a guminyomást a jobb tapadásért a havon.",
+              "Kerülje a hirtelen kormánymozdulatokat csúszós felületen.",
+              "Az e-bike akkumulátorok hidegben gyorsabban merülnek.",
+              "Gondoskodjon a jó világításról, mert hamar sötétedik."
+            ],
+            "ro": [
+              "Purtați mănuși termice și haine rezistente la vânt.",
+              "Reduceți ușor presiunea în pneuri pentru aderență pe zăpadă.",
+              "Evitați mișcările bruște de ghidon pe suprafețe alunecoase.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Asigurați-vă că aveți lumini bune, se întunecă devreme."
+            ],
+            "en": [
+              "Wear thermal gloves and windproof clothing.",
+              "Slightly reduce tire pressure for better grip on snow.",
+              "Avoid sudden steering movements on slippery surfaces.",
+              "E-bike batteries drain faster in the cold.",
+              "Ensure good lighting as it gets dark early."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1496,196 @@
           "The streets in the old town are narrow; drive carefully.",
           "Note that parking at Freundsberg Castle is limited."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour durch Schwaz ist bei Regen die bequemste Wahl. Das Parkhaus Stadtgalerien bietet einen trockenen Start direkt am Rande der Altstadt.\n\nMittags ist der Weg zur Stadtpfarrkirche und zum Fuggerhaus kurz. Das Auto bleibt in der Nähe geparkt, während man die sakralen Schätze besichtigt.\n\nNachmittags führt die Fahrt hinauf zur Burg Freundsberg. Der Parkplatz direkt an der Burg erspart lange Fußwege im Regen. Genießen Sie den Blick aus dem trockenen Innenraum.\n\nZum Abschluss geht es zur Silbermine. Der dortige Parkplatz ist großzügig, und der Weg zum Eingang kurz, sodass man fast trocken ins Berginnere gelangt.",
+            "hu": "Az autós túra Schwazban esőben a legkényelmesebb választás. A Stadtgalerien parkolóháza száraz indulást biztosít közvetlenül az óváros szélén.\n\nDélben a plébániatemplom és a Fugger-ház könnyen elérhető. Az autó a közelben marad, amíg mi a történelmi kincseket csodáljuk.\n\nDélután a Freundsberg-kastélyhoz vezet az út. A közvetlenül a várnál lévő parkoló megkímél minket a hosszú esőben való gyaloglástól.\n\nZárásként az ezüstbányához hajtunk. Az ottani parkoló tágas, a bejárat pedig közel van, így szinte szárazon jutunk be a hegy gyomrába.",
+            "ro": "Turul cu mașina prin Schwaz este cea mai confortabilă alegere pe ploaie. Parcarea Stadtgalerien oferă un start uscat chiar la marginea centrului vechi.\n\nLa prânz, drumul către biserică și Casa Fugger este scurt. Mașina rămâne parcată aproape în timp ce vizitați comorile sacre.\n\nDupă-amiaza, conduceți până la Castelul Freundsberg. Parcarea direct la castel vă scutește de mersul lung prin ploaie. Bucurați-vă de priveliște din interiorul uscat.\n\nLa final, mergeți la mina de argint. Parcarea de acolo este generoasă, iar drumul spre intrare scurt, astfel încât ajungeți aproape uscat în interior.",
+            "en": "A car tour through Schwaz is the most comfortable choice in the rain. The Stadtgalerien parking garage provides a dry start right at the edge of the old town.\n\nAt noon, the walk to the parish church and Fugger House is short. Keep the car parked nearby while exploring the sacred treasures.\n\nAfternoon takes you up to Freundsberg Castle. The parking lot directly at the castle saves you from long walks in the rain. Enjoy the view from the dry interior.\n\nFinally, drive to the Silver Mine. The parking there is spacious and the entrance is close, so you get inside the mountain almost completely dry."
+          },
+          "stops": [
+            {
+              "name": "Stadtgalerien Car Park & Old Town Cluster",
+              "tip_5lang": {
+                "de": "Nutzen Sie den direkten Zugang vom Parkhaus in die Einkaufsstraße.",
+                "hu": "Használja a parkolóházból közvetlenül a bevásárlóutcára nyíló kijáratot.",
+                "ro": "Folosiți accesul direct din parcare către strada comercială.",
+                "en": "Use the direct access from the parking garage to the shopping street."
+              }
+            },
+            {
+              "name": "Parish Church & Fugger House",
+              "tip_5lang": {
+                "de": "Kurzparkzonen in der Nähe nutzen, um Laufwege zu minimieren.",
+                "hu": "Használja a közeli rövidtávú parkolókat a gyaloglás minimalizálására.",
+                "ro": "Folosiți zonele de parcare scurtă din apropiere pentru a merge puțin pe jos.",
+                "en": "Use nearby short-term parking zones to minimize walking."
+              }
+            },
+            {
+              "name": "Franciscan Monastery & Museum of Peoples",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Museum, es gibt eigene Besucherparkplätze.",
+                "hu": "Parkoljon közvetlenül a múzeumnál, saját látogatói parkolóval rendelkezik.",
+                "ro": "Parcați direct la muzeu, există locuri dedicate vizitatorilor.",
+                "en": "Park directly at the museum; it has its own visitor parking."
+              }
+            },
+            {
+              "name": "Drive & Park at Freundsberg Castle",
+              "tip_5lang": {
+                "de": "Die Straße zur Burg ist eng, bei Regen langsam fahren.",
+                "hu": "A várba vezető út szűk, esőben vezessen lassan.",
+                "ro": "Drumul spre castel este îngust, conduceți încet pe ploaie.",
+                "en": "The road to the castle is narrow; drive slowly in the rain."
+              }
+            },
+            {
+              "name": "Lunch with a View",
+              "tip_5lang": {
+                "de": "Ein Tisch am Fenster bietet Panorama trotz Regenwolken.",
+                "hu": "Az ablak melletti asztal az esőfelhők ellenére is jó kilátást nyújt.",
+                "ro": "O masă la fereastră oferă panoramă în ciuda norilor de ploaie.",
+                "en": "A window table offers a panorama despite the rain clouds."
+              }
+            },
+            {
+              "name": "Drive to Schwaz Silver Mine",
+              "tip_5lang": {
+                "de": "Folgen Sie der Beschilderung, der Parkplatz ist gut befestigt.",
+                "hu": "Kövesse a jelzéseket, a parkoló jól kiépített és stabil.",
+                "ro": "Urmați indicatoarele, parcarea este bine amenajată.",
+                "en": "Follow the signs; the parking lot is well-paved."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Pfützenbildung auf den Nebenstraßen.",
+              "Nutzen Sie die Parkhäuser für längere Aufenthalte.",
+              "Halten Sie die Scheiben beschlagfrei durch Nutzung der Klimaanlage.",
+              "Bei Starkregen kann die Sicht auf der Inntalautobahn eingeschränkt sein.",
+              "Ein Regenschirm im Auto ist für die Wege zum Eingang sinnvoll."
+            ],
+            "hu": [
+              "Ügyeljen a tócsákra a mellékutcákban.",
+              "Hosszabb tartózkodáshoz használja a parkolóházakat.",
+              "Tartsa páramentesen az ablakokat a légkondicionálóval.",
+              "Heves esőben a látótávolság az autópályán lecsökkenhet.",
+              "Legyen ernyő az autóban a bejáratokig tartó rövid útra."
+            ],
+            "ro": [
+              "Atenție la formarea bălților pe străzile secundare.",
+              "Folosiți parcările etajate pentru staționări mai lungi.",
+              "Păstrați geamurile dezaburite folosind aerul condiționat.",
+              "La ploaie torențială vizibilitatea pe autostradă poate fi redusă.",
+              "O umbrelă în mașină este utilă pentru drumul spre intrări."
+            ],
+            "en": [
+              "Watch out for puddles forming on side roads.",
+              "Use parking garages for longer stays.",
+              "Keep windows fog-free by using the air conditioning.",
+              "Visibility on the Inn Valley motorway can be limited during heavy rain.",
+              "Keep an umbrella in the car for the short walks to entrances."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Schwaz mit dem Auto im Winter ist sicher, solange man auf Schnee vorbereitet ist. Der Tag beginnt gemütlich im warmen Wagen mit Fahrt zum Stadtplatz.\n\nMittags lassen sich die Sehenswürdigkeiten der Altstadt gut kombinieren. Die Straßen sind meist gut geräumt, aber Vorsicht beim Einparken in Schneehaufen.\n\nNachmittags steht die Fahrt zur Burg Freundsberg an. Die steile Straße erfordert Winterausrüstung und Konzentration, belohnt aber mit Winterzauber.\n\nZum Abschluss führt der Weg zur Silbermine. Der Besuch im warmen Berginneren ist der perfekte Kontrast zur frostigen Fahrt durch das Inntal.",
+            "hu": "Schwaz autóval télen biztonságos, amíg felkészülünk a hóra. A nap kényelmesen, a meleg autóban indul a főtér felé.\n\nDélben az óváros látnivalói jól kombinálhatóak. Az utcákat általában jól takarítják, de legyünk óvatosak a hóbuckák melletti parkolásnál.\n\nDélután a Freundsberg-kastélyhoz hajtunk. A meredek út téli felszerelést és koncentrációt igényel, de a téli varázslat mindenért kárpótol.\n\nZárásként az ezüstbányához vezet az út. A meleg bányalátogatás tökéletes kontrasztja a fagyos völgyben való autózásnak.",
+            "ro": "Schwaz cu mașina iarna este sigur, atâta timp cât sunteți pregătiți pentru zăpadă. Ziua începe confortabil în mașina încălzită spre piața centrală.\n\nLa prânz, obiectivele din centrul vechi pot fi combinate ușor. Străzile sunt de obicei bine deszăpezite, dar atenție la parcarea lângă mormane de zăpadă.\n\nDupă-amiaza urmează drumul spre Castelul Freundsberg. Strada abruptă necesită echipament de iarnă și concentrare, dar oferă un peisaj de basm.\n\nLa final, mergeți la mina de argint. Vizita în interiorul cald al muntelui este contrastul perfect pentru condusul prin valea înghețată.",
+            "en": "Schwaz by car in winter is safe as long as you are prepared for snow. The day starts coziy in the warm car with a drive to the town square.\n\nAt noon, the old town sights can be easily combined. Roads are usually well-cleared, but be careful when parking near snow piles.\n\nAfternoon features the drive up to Freundsberg Castle. The steep road requires winter equipment and concentration but rewards you with winter magic.\n\nFinally, head to the Silver Mine. The visit to the warm mountain interior is the perfect contrast to the frosty drive through the Inn Valley."
+          },
+          "stops": [
+            {
+              "name": "Stadtgalerien Car Park & Old Town Cluster",
+              "tip_5lang": {
+                "de": "Das Parkhaus ist beheizt, was das Einsteigen angenehm macht.",
+                "hu": "A parkolóház fűtött, ami kényelmessé teszi a beszállást.",
+                "ro": "Parcarea este încălzită, ceea ce face urcarea în mașină plăcută.",
+                "en": "The parking garage is heated, making getting into the car pleasant."
+              }
+            },
+            {
+              "name": "Parish Church & Fugger House",
+              "tip_5lang": {
+                "de": "Achten Sie auf herabfallende Schneelasten von den Dächern.",
+                "hu": "Vigyázzon a háztetőkről lehulló hótömegre.",
+                "ro": "Atenție la căderile de zăpadă de pe acoperișuri.",
+                "en": "Watch out for snow sliding off the rooftops."
+              }
+            },
+            {
+              "name": "Franciscan Monastery & Museum of Peoples",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem Museumsbesuch.",
+                "hu": "Használja az ülésfűtést a múzeumlátogatás után.",
+                "ro": "Folosiți încălzirea în scaune după vizita la muzeu.",
+                "en": "Turn on the seat heaters after your museum visit."
+              }
+            },
+            {
+              "name": "Drive & Park at Freundsberg Castle",
+              "tip_5lang": {
+                "de": "Winterreifen sind zwingend, Schneeketten im Kofferraum empfohlen.",
+                "hu": "Téli gumi kötelező, hólánc ajánlott a csomagtartóban.",
+                "ro": "Anvelopele de iarnă sunt obligatorii, lanțurile sunt recomandate.",
+                "en": "Winter tires are mandatory; snow chains in the trunk are recommended."
+              }
+            },
+            {
+              "name": "Lunch with a View",
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie später leicht ausparken können (Schneegefahr).",
+                "hu": "Úgy parkoljon, hogy később könnyen ki tudjon állni (hóesés esetén is).",
+                "ro": "Parcați astfel încât să puteți ieși ușor mai târziu (pericol de ninsoare).",
+                "en": "Park in a way that allows easy exit later (in case of fresh snow)."
+              }
+            },
+            {
+              "name": "Drive to Schwaz Silver Mine",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann glatt sein, treten Sie vorsichtig auf.",
+                "hu": "A parkoló csúszós lehet, óvatosan szálljon ki az autóból.",
+                "ro": "Parcarea poate fi alunecoasă, pășiți cu atenție.",
+                "en": "The parking lot can be slippery; step out carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie hektisches Bremsen auf verschneiten Straßen.",
+              "Führen Sie einen Eiskratzer und Besen für den Schnee mit.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Parken Sie nicht unter steilen Dächern (Dachlawinengefahr).",
+              "Halten Sie die Tanknadel über Reserve (Staugefahr bei Schneefall)."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a havas utakon.",
+              "Legyen jégkaparó és hókefe az autóban.",
+              "Ellenőrizze a szélvédőmosó fagyállóságát.",
+              "Ne parkoljon meredek tetők alatt a hólecsúszás veszélye miatt.",
+              "Tartsa az üzemanyagszintet magasan (hó miatti dugók veszélye)."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe drumurile înzăpezite.",
+              "Aveți la îndemână o racletă și o perie pentru zăpadă.",
+              "Verificați lichidul de parbriz să fie rezistent la îngheț.",
+              "Nu parcați sub acoperișuri abrupte (pericol de avalanșe de pe acoperiș).",
+              "Păstrați rezervorul plin (pericol de blocaje în trafic din cauza zăpezii)."
+            ],
+            "en": [
+              "Avoid sudden braking on snowy roads.",
+              "Carry an ice scraper and a snow brush.",
+              "Check that your windshield washer fluid is frost-resistant.",
+              "Do not park under steep roofs (risk of roof avalanches).",
+              "Keep the fuel level high (risk of traffic jams due to snow)."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1430,6 +2018,178 @@
           "Be aware that buses may run less frequently in the evening and on weekends.",
           "Wave to the bus driver to ensure they stop at your stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn durch Schwaz zu reisen, ist bei Regen eine clevere Strategie. Die Wartehallen am Bahnhof bieten Schutz bis zur Abfahrt des Stadtbusses.\n\nMittags erreicht man die Altstadt bequem. Die Bushaltestellen liegen nah an der Stadtpfarrkirche, sodass die Wege im Freien minimal bleiben.\n\nNachmittags bringt der Bus die Besucher Richtung Museum und weiter zur Burg Freundsberg. Man schaut entspannt aus dem Fenster, während der Regen gegen die Scheiben peitscht.\n\nDen Abschluss bildet die Fahrt zur Silbermine. Die Busse sind getaktet, sodass man nach der Tour unter Tage schnell wieder im trockenen Fahrzeug sitzt.",
+            "hu": "Tömegközlekedéssel utazni Schwazban esőben okos döntés. Az állomás váróterme védelmet nyújt a városi busz indulásáig.\n\nDélben kényelmesen elérhetjük az óvárost. A buszmegállók közel vannak a plébániatemplomhoz, így a szabadban töltött idő minimális.\n\nDélután a busz elvisz a múzeumhoz, majd tovább a várhoz. Nyugodtan nézhetjük az ablakon kopogó esőt a fűtött járműből.\n\nA napot a bányalátogatás zárja. A buszok menetrendje igazodik a látogatókhoz, így a bányatúra után gyorsan száraz helyre kerülünk.",
+            "ro": "Călătoria cu transportul public prin Schwaz este o strategie inteligentă pe ploaie. Sălile de așteptare de la gară oferă protecție până la plecarea autobuzului.\n\nLa prânz ajungeți confortabil în centrul vechi. Stațiile de autobuz sunt aproape de biserica parohială, minimizând mersul prin ploaie.\n\nDupă-amiaza, autobuzul îi duce pe vizitatori spre muzeu și apoi spre castel. Priviți relaxat pe geam în timp ce ploaia bate în geamuri.\n\nFinalul este marcat de drumul spre mina de argint. Autobuzele sunt frecvente, astfel încât după turul subteran reveniți rapid într-un vehicul uscat.",
+            "en": "Traveling by bus and train through Schwaz is a smart strategy in the rain. The waiting halls at the station provide shelter until the city bus departs.\n\nAt noon, you reach the old town easily. Bus stops are located close to the parish church, keeping outdoor walking to a minimum.\n\nAfternoon brings the bus ride towards the museum and further up to Freundsberg Castle. Relax and look out the window while the rain lashes against the glass.\n\nClosing the day is the trip to the Silver Mine. The buses are well-timed, so you quickly find yourself back in a dry vehicle after the underground tour."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Station & Bus to the Center",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle, bis der Bus angezeigt wird.",
+                "hu": "Várjon az állomás csarnokában, amíg meg nem érkezik a busz.",
+                "ro": "Așteptați în holul gării până când este afișat autobuzul.",
+                "en": "Wait in the station hall until the bus is shown on the display."
+              }
+            },
+            {
+              "name": "Old Town Cluster on foot: Parish Church & Fugger House",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Abstände zwischen den Stopps.",
+                "hu": "Használja ki a látnivalók közötti rövid távolságokat.",
+                "ro": "Profitați de distanțele scurte dintre obiective.",
+                "en": "Take advantage of the short distances between the sights."
+              }
+            },
+            {
+              "name": "Museum of Peoples & Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist fast direkt vor dem Museumseingang.",
+                "hu": "A megálló szinte közvetlenül a múzeum bejárata előtt van.",
+                "ro": "Stația este aproape direct în fața intrării muzeului.",
+                "en": "The stop is almost directly in front of the museum entrance."
+              }
+            },
+            {
+              "name": "Bus to Freundsberg Castle",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Rückfahrplan, um Wartezeiten im Regen zu vermeiden.",
+                "hu": "Ellenőrizze a visszautat, hogy elkerülje az esőben való várakozást.",
+                "ro": "Verificați orarul de întoarcere pentru a evita așteptarea în ploaie.",
+                "en": "Check the return schedule to avoid waiting in the rain."
+              }
+            },
+            {
+              "name": "Bus to the Silver Mine",
+              "tip_5lang": {
+                "de": "Die Linie 1 hält bequem in der Nähe des Besucherzentrums.",
+                "hu": "Az 1-es busz kényelmesen megáll a látogatóközpont közelében.",
+                "ro": "Linia 1 oprește convenabil lângă centrul pentru vizitatori.",
+                "en": "Line 1 stops conveniently near the visitor center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die VVT SmartRide App für Echtzeit-Infos.",
+              "Kaufen Sie ein Tagesticket direkt beim Fahrer oder am Automaten.",
+              "Halten Sie Kleingeld für den Ticketkauf bereit.",
+              "Busse können bei starkem Regen leichte Verspätungen haben.",
+              "Tragen Sie Kleidung, die auch im warmen Bus angenehm ist."
+            ],
+            "hu": [
+              "Használja a VVT SmartRide alkalmazást a valós idejű infókért.",
+              "Vásároljon napijegyet a sofőrnél vagy az automatánál.",
+              "Legyen Önnél aprópénz a jegyvásárláshoz.",
+              "Heves esőben a buszok kisebb késéssel közlekedhetnek.",
+              "Viseljen olyan ruhát, ami a meleg buszban is kényelmes."
+            ],
+            "ro": [
+              "Folosiți aplicația VVT SmartRide pentru informații în timp real.",
+              "Cumpărați un bilet de o zi direct de la șofer sau de la automat.",
+              "Aveți pregătit mărunțiș pentru cumpărarea biletelor.",
+              "Autobuzele pot avea mici întârzieri în caz de ploaie torențială.",
+              "Purtați haine care sunt confortabile și în autobuzul încălzit."
+            ],
+            "en": [
+              "Use the VVT SmartRide app for real-time information.",
+              "Purchase a day ticket directly from the driver or at the machine.",
+              "Keep small change ready for buying tickets.",
+              "Buses may have slight delays during heavy rain.",
+              "Wear clothing that is also comfortable in the warm bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Schwaz lässt sich per Bus stressfrei erleben. Die warmen Fahrzeuge bringen Sie sicher durch die verschneite Stadt, beginnend am Bahnhof.\n\nMittags schlendert man durch die Altstadt. Da die Busse regelmäßig fahren, kann man sich jederzeit auf die nächste warme Fahrt freuen.\n\nNachmittags geht es hinauf zum Museum und zur Burg. Die Aussicht aus dem Bus auf die verschneiten Dächer von Schwaz ist besonders malerisch.\n\nDer Tag endet mit der Fahrt zur Silbermine. Da es früh dunkel wird, genießt man die beleuchteten Straßen der Stadt aus der Sicherheit des öffentlichen Nahverkehrs.",
+            "hu": "A telet Schwazban stresszmentesen élhetjük át busszal. A meleg járművek biztonságosan visznek át a havas városon, indulva az állomástól.\n\nDélben az óvárosban sétálunk. Mivel a buszok rendszeresen járnak, bármikor számíthatunk a következő meleg utazásra.\n\nDélután a múzeumhoz és a várhoz megyünk. A buszból nyíló kilátás Schwaz havas háztetőire különösen festői.\n\nA nap a bányalátogatással zárul. Mivel korán sötétedik, a város kivilágított utcáit a tömegközlekedés biztonságából csodálhatjuk meg.",
+            "ro": "Iarna în Schwaz poate fi experimentată fără stres cu autobuzul. Vehiculele încălzite vă duc în siguranță prin orașul înzăpezit, plecând de la gară.\n\nLa prânz, vă plimbați prin centrul vechi. Deoarece autobuzele circulă regulat, vă puteți bucura oricând de următoarea călătorie călduroasă.\n\nDupă-amiaza, mergeți la muzeu și la castel. Vederea din autobuz asupra acoperișurilor înzăpezite din Schwaz este deosebit de pitorească.\n\nZiua se încheie cu drumul spre mină. Deoarece se întunecă devreme, admirați străzile iluminate ale orașului din siguranța transportului public.",
+            "en": "Experience winter in Schwaz stress-free by bus. The warm vehicles take you safely through the snowy city, starting from the station.\n\nAt noon, stroll through the old town. Since buses run regularly, you can always look forward to the next warm ride.\n\nAfternoon is for the museum and the castle. The view from the bus of the snowy roofs of Schwaz is particularly picturesque.\n\nClosing the day is the trip to the Silver Mine. As it gets dark early, enjoy the city's illuminated streets from the safety of public transit."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Station & Bus to the Center",
+              "tip_5lang": {
+                "de": "Die Wartehalle im Bahnhof ist gut beheizt.",
+                "hu": "Az állomás váróterme jól fűtött.",
+                "ro": "Sala de așteptare din gară este bine încălzită.",
+                "en": "The station waiting hall is well-heated."
+              }
+            },
+            {
+              "name": "Old Town Cluster on foot: Parish Church & Fugger House",
+              "tip_5lang": {
+                "de": "Vorsicht beim Ein- und Aussteigen, die Stufen können glatt sein.",
+                "hu": "Vigyázzon a fel- és leszállásnál, a lépcsők csúszósak lehetnek.",
+                "ro": "Atenție la urcare și coborâre, treptele pot fi alunecoase.",
+                "en": "Be careful when boarding and disembarking; the steps can be slippery."
+              }
+            },
+            {
+              "name": "Museum of Peoples & Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehäuschen an den Haltestellen gegen den Wind.",
+                "hu": "Használja a megállók váróit a szél elleni védelemhez.",
+                "ro": "Folosiți adăposturile din stații împotriva vântului.",
+                "en": "Use the bus shelters at the stops to block the wind."
+              }
+            },
+            {
+              "name": "Bus to Freundsberg Castle",
+              "tip_5lang": {
+                "de": "Die Busse haben Winterreifen und sind sehr sicher am Berg.",
+                "hu": "A buszok téli gumival felszereltek és nagyon biztonságosak a hegyen.",
+                "ro": "Autobuzele au anvelope de iarnă și sunt foarte sigure pe pantă.",
+                "en": "Buses are equipped with winter tires and are very safe on the hill."
+              }
+            },
+            {
+              "name": "Bus to the Silver Mine",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Bus nach der kalten Außenluft.",
+                "hu": "Élvezze a busz melegét a kinti hideg levegő után.",
+                "ro": "Bucurați-vă de căldura din autobuz după aerul rece de afară.",
+                "en": "Enjoy the warmth inside the bus after the cold outdoor air."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie eventuelle Winterfahrpläne (Feiertage).",
+              "Tragen Sie griffige Schuhe für den Weg zur Haltestelle.",
+              "Halten Sie Ihr Ticket griffbereit, um langes Suchen in der Kälte zu vermeiden.",
+              "Die Busse sind im Winter sehr zuverlässig und warm.",
+              "In der Dämmerung sind beleuchtete Haltestellen sicherer."
+            ],
+            "hu": [
+              "Ügyeljen az esetleges téli (ünnepi) menetrendre.",
+              "Viseljen jó tapadású cipőt a megállóhoz vezető úton.",
+              "Tartsa a jegyét kéznél, hogy ne kelljen a hidegben keresgélni.",
+              "A buszok télen is nagyon megbízhatóak és melegek.",
+              "Szürkületben a kivilágított megállók biztonságosabbak."
+            ],
+            "ro": [
+              "Respectați orarele de iarnă (valabile de sărbători).",
+              "Purtați încălțăminte cu talpă aderentă pentru drumul spre stație.",
+              "Aveți biletul la îndemână pentru a nu căuta prin buzunare în frig.",
+              "Autobuzele sunt foarte fiabile și călduroase iarna.",
+              "La amurg, stațiile iluminate sunt mai sigure."
+            ],
+            "en": [
+              "Note any potential winter/holiday schedules.",
+              "Wear shoes with good grip for the walk to the bus stop.",
+              "Keep your ticket handy to avoid searching for it in the cold.",
+              "Buses are very reliable and warm in winter.",
+              "Lit bus stops are safer during twilight."
+            ]
+          }
+        }
       }
     }
   }

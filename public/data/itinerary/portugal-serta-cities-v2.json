@@ -386,6 +386,206 @@
           "Most shops close for lunch (siesta), so plan accordingly.",
           "The locals are friendly; a 'Bom dia' (Good day) is much appreciated."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Rathaus, wo die Arkaden Schutz vor dem ersten Regenschauer bieten. Mittags bietet der trockene und prächtige Innenraum der Hauptkirche eine willkommene Zuflucht zur Besinnung. Am Nachmittag erkunden wir die Burgruine mit gebotener Vorsicht, da die historischen Steine bei Nässe sehr rutschig sein können. Der Abend klingt gemütlich in einem lokalen Restaurant bei einer warmen Spezialität wie Maranho aus.",
+            "hu": "A reggel a Városházánál indul, ahol az épület árkádjai alatt várakozhatunk az eső alábbhagyásáig. Délben a Főtemplom díszes belső tere nyújt száraz menedéket és csendes elvonulást. Délután a vár és a folyópart felfedezése következik, de csak óvatosan, mert a kövezett utak csúszóssá válnak. A napot egy barátságos étteremben zárjuk, ahol a forró helyi ételek feledtetik a borús időt.",
+            "ro": "Dimineața începe la Primărie, unde arcadele clădirii oferă un adăpost excelent împotriva primelor picături de ploaie. La prânz, interiorul uscat și primitor al Bisericii Principale este locul perfect pentru un moment de liniște. După-amiaza, explorăm castelul cu mare prudență, deoarece treptele vechi pot fi foarte alunecoase. Seara se încheie confortabil într-un restaurant local, savurând o cină caldă tradițională.",
+            "en": "The morning begins at the Town Hall, where the building's arches offer shelter from the first rain showers. At noon, the dry and magnificent interior of the Main Church provides a welcome sanctuary for reflection. In the afternoon, we explore the castle ruins with due caution, as the historic stones can be quite slippery when wet. The evening concludes cozily in a local restaurant with a warm specialty like Maranho."
+          },
+          "stops": [
+            {
+              "name": "Town Hall (Paços do Concelho)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Rathauses als trockenen Sammelpunkt.",
+                "hu": "Használja a városháza árkádjait száraz találkozási pontként.",
+                "ro": "Folosiți arcadele primăriei ca punct de întâlnire uscat.",
+                "en": "Use the Town Hall arches as a dry meeting point."
+              }
+            },
+            {
+              "name": "Pillory of Sertã (Pelourinho)",
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht hier völlig aus, bevor es wieder ins Trockene geht.",
+                "hu": "Egy gyors fotó elég itt, mielőtt újra fedett helyre vonulna.",
+                "ro": "O oprire scurtă pentru poze este suficientă înainte de a căuta adăpost.",
+                "en": "A quick photo stop is enough here before heading back to cover."
+              }
+            },
+            {
+              "name": "Main Church of Sertã (Igreja Matriz)",
+              "tip_5lang": {
+                "de": "Ideal, um den Regen abzuwarten und die Barockaltäre zu bewundern.",
+                "hu": "Ideális hely az eső kivárására és a barokk oltárok megcsodálására.",
+                "ro": "Ideal pentru a aștepta oprirea ploii și pentru a admira altarele baroce.",
+                "en": "Ideal place to wait out the rain and admire the baroque altars."
+              }
+            },
+            {
+              "name": "Roman Bridge of Sertã (Ponte da Ribeira)",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster, die Brücke kann sehr glatt sein.",
+                "hu": "Vigyázat a macskaköveken, a híd nagyon csúszós lehet.",
+                "ro": "Atenție pe pavaj, podul poate fi foarte alunecos.",
+                "en": "Careful on the cobblestones, the bridge can be very slippery."
+              }
+            },
+            {
+              "name": "Castle of Sertã (Castelo da Sertã)",
+              "tip_5lang": {
+                "de": "Die Mauern bieten wenig Schutz, halten Sie den Regenschirm fest.",
+                "hu": "A falak kevés védelmet nyújtanak, fogja erősen az esernyőt.",
+                "ro": "Zidurile oferă puțin adăpost, țineți bine umbrela.",
+                "en": "The walls offer little shelter, hold your umbrella firmly."
+              }
+            },
+            {
+              "name": "Lunch with Local Delicacies",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit der berühmten Maranho-Wurst auf.",
+                "hu": "Melegedjen fel a híres Maranho töltött hússal.",
+                "ro": "Încălziți-vă cu faimosul preparat local Maranho.",
+                "en": "Warm up with the famous local Maranho dish."
+              }
+            },
+            {
+              "name": "Ribeira da Sertã River Beach (Praia Fluvial)",
+              "tip_5lang": {
+                "de": "Der Weg am Fluss ist bei Regen oft schlammig, festes Schuhwerk nutzen.",
+                "hu": "A folyóparti út esőben sáros lehet, hordjon vízálló cipőt.",
+                "ro": "Poteca de pe malul râului poate fi noroioasă, folosiți încălțăminte adecvată.",
+                "en": "The riverside path can be muddy in the rain, wear sturdy shoes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen des oft böigen Windes in Meeresnähe wichtig.",
+              "Wasserdichte Schuhe sind auf den alten Pflastersteinen von Sertã unerlässlich.",
+              "Nutzen Sie die Hauptkirche als strategischen Punkt zum Trocknen.",
+              "Viele Cafés im Zentrum haben überdachte Außenbereiche für kurze Pausen."
+            ],
+            "hu": [
+              "A szeles idő miatt egy strapabíró esernyő kötelező kiegészítő.",
+              "A régi macskaköves utcákhoz vízálló és csúszásmentes lábbeli ajánlott.",
+              "A Főtemplom tökéletes stratégiai pont egy kis szárítkozáshoz.",
+              "A központ kávézói gyakran rendelkeznek fedett terasszal a pihenéshez."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza vântului care însoțește ploaia.",
+              "Încălțămintea impermeabilă este necesară pe străzile pavate ale orașului.",
+              "Folosiți Biserica Principală ca punct strategic pentru a vă usca.",
+              "Multe cafenele din centru au terase acoperite pentru pauze scurte."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to the often gusty winds accompanying the rain.",
+              "Waterproof shoes are a must for the old cobblestone streets of Sertã.",
+              "Use the Main Church as a strategic point to dry off mid-day.",
+              "Many cafes in the center offer covered outdoor seating for short breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterluft am Morgen belebt den Geist beim Spaziergang am Rathaus. Mittags bietet die stille Atmosphäre der Hauptkirche einen Ort der Besinnung, auch wenn es drinnen etwas kühl sein kann. Am Nachmittag genießen wir den klaren Blick von den Burgmauern auf die umliegende Landschaft, bevor die Sonne früh untergeht. Der Tag endet mit einem heißen Getränk und einer herzhaften Mahlzeit, um die Kälte der Dämmerung zu vertreiben.",
+            "hu": "A friss téli reggelen a Városháza környékén tett séta igazi felfrissülést nyújt. Délben a Főtemplom hűvös, de békés belső terében pihenhetünk meg. Délután a várfalsétányról nyíló tiszta panorámát élvezzük a korai naplemente előtt. A napot egy gőzölgő ital és egy tartalmas vacsora zárja, ami segít felmelegedni a szürkületi hűvösben.",
+            "ro": "Aerul curat de iarnă revigorează spiritul în timpul plimbării de dimineață pe lângă Primărie. La prânz, atmosfera liniștită a Bisericii Principale oferă un spațiu de meditație, chiar dacă interiorul poate fi răcoros. După-amiaza, profităm de vizibilitatea clară de pe zidurile castelului înainte de apusul timpuriu. Ziua se încheie cu o băutură fierbinte și o masă copioasă pentru a alunga frigul serii.",
+            "en": "The crisp winter air in the morning invigorates the spirit during a walk by the Town Hall. At noon, the quiet atmosphere of the Main Church offers a place for reflection, even if it can be a bit chilly inside. In the afternoon, we enjoy clear views from the castle walls over the surrounding landscape before the sun sets early. The day ends with a hot drink and a hearty meal to chase away the dusk chill."
+          },
+          "stops": [
+            {
+              "name": "Town Hall (Paços do Concelho)",
+              "tip_5lang": {
+                "de": "Die Wintersonne lässt das Gebäude am Morgen in hellem Licht erstrahlen.",
+                "hu": "A téli napsütés reggel csodás fénybe öltözteti az épületet.",
+                "ro": "Soarele de iarnă luminează superb clădirea în timpul dimineții.",
+                "en": "The winter sun makes the building glow beautifully in the morning."
+              }
+            },
+            {
+              "name": "Pillory of Sertã (Pelourinho)",
+              "tip_5lang": {
+                "de": "Ein schneller Stopp, die kalte Steinstele ist ein klares Fotomotiv.",
+                "hu": "Gyors megálló, a hideg kőoszlop remek fotótéma a tiszta égbolt alatt.",
+                "ro": "O oprire rapidă, stâlpul de piatră este un subiect foto clar.",
+                "en": "A quick stop, the cold stone pillory is a sharp photo subject."
+              }
+            },
+            {
+              "name": "Main Church of Sertã (Igreja Matriz)",
+              "tip_5lang": {
+                "de": "Behalten Sie den Mantel an, Kirchenwände speichern im Winter die Kälte.",
+                "hu": "Tartsa magán a kabátot, a templomfalak télen tartják a hideget.",
+                "ro": "Păstrați haina pe dvs., zidurile bisericii rețin frigul iarna.",
+                "en": "Keep your coat on, church walls retain the cold in winter."
+              }
+            },
+            {
+              "name": "Roman Bridge of Sertã (Ponte da Ribeira)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Reifbildung am frühen Morgen auf den Steinen.",
+                "hu": "Vigyázat, kora reggel zúzmara lehet a híd kövein.",
+                "ro": "Atenție la brumă pe pietre în primele ore ale dimineții.",
+                "en": "Watch out for frost on the stones early in the morning."
+              }
+            },
+            {
+              "name": "Castle of Sertã (Castelo da Sertã)",
+              "tip_5lang": {
+                "de": "Der Wind auf den Mauern ist kühl, eine Mütze ist hier ratsam.",
+                "hu": "A falakon hűvös a szél, egy sapka viselése itt ajánlott.",
+                "ro": "Vântul pe ziduri este rece, o căciulă este recomandată aici.",
+                "en": "The wind on the walls is chilly, a hat is advisable here."
+              }
+            },
+            {
+              "name": "Lunch with Local Delicacies",
+              "tip_5lang": {
+                "de": "Probieren Sie 'Bucho Recheado', ein perfektes, warmes Wintergericht.",
+                "hu": "Kóstolja meg a 'Bucho Recheado'-t, tökéletes, meleg téli étel.",
+                "ro": "Încercați 'Bucho Recheado', un preparat cald perfect pentru iarnă.",
+                "en": "Try 'Bucho Recheado', a perfect, warm winter dish."
+              }
+            },
+            {
+              "name": "Ribeira da Sertã River Beach (Praia Fluvial)",
+              "tip_5lang": {
+                "de": "Die Abenddämmerung am Fluss ist malerisch, aber ziehen Sie sich warm an.",
+                "hu": "A szürkület a folyónál festői, de öltözzön fel melegen.",
+                "ro": "Amurgul la râu este pitoresc, dar îmbrăcați-vă bine.",
+                "en": "Dusk at the river is picturesque, but dress warmly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Brise vom Fluss ist im Winter beißend kalt, ein Windbreaker hilft.",
+              "Die Sonne geht gegen 17:30 Uhr unter, planen Sie die Burg vorher ein.",
+              "Heiße Maranho-Wurst ist ideal, um sich mittags aufzuwärmen.",
+              "Die klaren Wintermorgende bieten das beste Licht für Stadtfotos."
+            ],
+            "hu": [
+              "A folyó felőli szél télen metsző lehet, egy széldzseki jól jöhet.",
+              "A nap 17:30 körül nyugszik, a várlátogatást tervezze korábbra.",
+              "A forró Maranho kiváló választás a déli felmelegedéshez.",
+              "A tiszta téli reggelek kínálják a legjobb fényeket a fotózáshoz."
+            ],
+            "ro": [
+              "Briza râului este tăioasă iarna, o jachetă rezistentă la vânt ajută.",
+              "Soarele apune în jur de 17:30, planificați vizita la castel înainte.",
+              "Maranho fierbinte este ideal pentru a vă încălzi la prânz.",
+              "Diminețile senine de iarnă oferă cea mai bună lumină pentru fotografii."
+            ],
+            "en": [
+              "The river breeze is biting cold in winter, a windbreaker helps.",
+              "The sun sets around 17:30, plan the castle visit before then.",
+              "Hot Maranho is ideal for warming up during lunch.",
+              "Clear winter mornings offer the best light for city photography."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -790,6 +990,224 @@
           "Always lock your bike when you park it.",
           "The hills can be challenging, take your time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt durch Sertã erfordert Konzentration am Morgen. Die Hauptkirche bietet mittags einen trockenen Ort für eine kurze Pause. Am Nachmittag erklimmen wir den Burgberg vorsichtig auf nassen Wegen, bevor wir am Fluss entlang zurückfahren. Der Tag endet mit einer wohlverdienten warmen Mahlzeit, während die Kleidung trocknen kann.",
+            "hu": "Az esős kerékpározás Sertã utcáin reggel nagy odafigyelést igényel. Délben a Főtemplom tökéletes hely egy rövid, száraz pihenőre. Délután a várdombra tekerünk fel a vizes utakon, majd a folyóparton folytatjuk az utat. A napot egy kiadós meleg vacsorával zárjuk, amíg a felszerelésünk szárad.",
+            "ro": "O plimbare cu bicicleta prin Sertã pe ploaie necesită concentrare dimineața. La prânz, Biserica Principală oferă un loc uscat pentru o scurtă pauză. După-amiaza urcăm dealul castelului pe drumuri ude, înainte de a reveni pe malul râului. Ziua se încheie cu o masă caldă binemeritată, în timp ce hainele se pot usca.",
+            "en": "A rainy bike ride through Sertã requires focus in the morning. At noon, the Main Church offers a dry place for a short break. In the afternoon, we pedal up the castle hill on wet paths before heading back along the river. The day ends with a well-deserved warm meal while your gear dries off."
+          },
+          "stops": [
+            {
+              "name": "Town Hall (Paços do Concelho)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Asphalt vor dem Gebäude.",
+                "hu": "Vigyázzon a leszálláskor a vizes aszfalton az épület előtt.",
+                "ro": "Atenție la coborârea de pe bicicletă pe asfaltul ud din fața clădirii.",
+                "en": "Careful when dismounting on wet asphalt in front of the building."
+              }
+            },
+            {
+              "name": "Main Church of Sertã (Igreja Matriz)",
+              "tip_5lang": {
+                "de": "Suchen Sie einen geschützten Platz für Ihr Rad, um den Sattel trocken zu halten.",
+                "hu": "Keressen fedett helyet a kerékpárnak, hogy az ülés száraz maradjon.",
+                "ro": "Căutați un loc protejat pentru bicicletă pentru a păstra șaua uscată.",
+                "en": "Find a sheltered spot for your bike to keep the seat dry."
+              }
+            },
+            {
+              "name": "Castle of Sertã (Castelo da Sertã)",
+              "tip_5lang": {
+                "de": "Die Auffahrt ist steil und bei Regen rutschig, schalten Sie rechtzeitig.",
+                "hu": "A felfelé vezető út meredek és esőben csúszós, váltson időben sebességet.",
+                "ro": "Urcarea este abruptă și alunecoasă pe ploaie, schimbați vitezele la timp.",
+                "en": "The climb is steep and slippery in the rain, change gears in time."
+              }
+            },
+            {
+              "name": "Roman Bridge of Sertã (Ponte da Ribeira)",
+              "tip_5lang": {
+                "de": "Überqueren Sie die Brücke langsam, das alte Pflaster ist tückisch.",
+                "hu": "Lassan keljen át a hídon, a régi kövezet csalóka lehet.",
+                "ro": "Traversați podul încet, pavajul vechi poate fi înșelător.",
+                "en": "Cross the bridge slowly, the old pavement can be treacherous."
+              }
+            },
+            {
+              "name": "Ribeira da Sertã River Beach (Praia Fluvial)",
+              "tip_5lang": {
+                "de": "Die Wege können Pfützen bilden, achten Sie auf Spritzwasser.",
+                "hu": "Az utakon tócsák alakulhatnak ki, ügyeljen a felcsapódó vízre.",
+                "ro": "Pot apărea bălți pe drumuri, atenție la stropii de apă.",
+                "en": "Puddles may form on the paths, watch out for splashes."
+              }
+            },
+            {
+              "name": "Convent of Saint Anthony",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den Helm kurz abzunehmen und durchzuatmen.",
+                "hu": "Csendes hely a sisak levételére és egy kis levegővételre.",
+                "ro": "Un loc liniștit pentru a scoate casca și a respira un pic.",
+                "en": "A quiet place to take off your helmet and breathe for a bit."
+              }
+            },
+            {
+              "name": "Lunch in town",
+              "tip_5lang": {
+                "de": "Restaurants mit Innenplätzen bevorzugen, um nasses Equipment zu lagern.",
+                "hu": "Válasszon belső teres éttermet a vizes felszerelések elhelyezéséhez.",
+                "ro": "Preferați restaurantele cu spațiu interior pentru a depozita echipamentul ud.",
+                "en": "Prefer restaurants with indoor seating to store wet equipment."
+              }
+            },
+            {
+              "name": "Seminary of the Missions",
+              "tip_5lang": {
+                "de": "Letzter Stopp, prüfen Sie die Bremsen vor der Abfahrt ins Zentrum.",
+                "hu": "Utolsó állomás, ellenőrizze a fékeket a központba való legurulás előtt.",
+                "ro": "Ultima oprire, verificați frânele înainte de coborârea spre centru.",
+                "en": "Last stop, check your brakes before descending back to the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist ein Muss für diese Tour.",
+              "Vermeiden Sie starkes Bremsen auf dem nassen Kopfsteinpflaster.",
+              "Ein Schutzblech schützt Ihren Rücken vor Schmutzwasser.",
+              "Prüfen Sie Ihre Lichter, da die Sicht bei Regen deutlich schlechter ist."
+            ],
+            "hu": [
+              "A teljes esőruházat elengedhetetlen ehhez a túrához.",
+              "Kerülje az erős fékezést a vizes macskaköveken.",
+              "A sárvédő megvédi a hátát a felcsapódó víztől.",
+              "Ellenőrizze a lámpákat, mert esőben jelentősen romlik a láthatóság."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este obligatoriu pentru acest tur.",
+              "Evitați frânarea bruscă pe pavajul ud.",
+              "O apărătoare de noroi vă va proteja spatele de apa murdară.",
+              "Verificați luminile, deoarece vizibilitatea scade semnificativ pe ploaie."
+            ],
+            "en": [
+              "Full waterproof gear is a must for this tour.",
+              "Avoid heavy braking on the wet cobblestones.",
+              "A mudguard will protect your back from dirty water spray.",
+              "Check your lights, as visibility is much lower in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Morgenluft macht die Radfahrt zum Rathaus besonders erfrischend. Mittags besuchen wir die Hauptkirche, während die Wintersonne tief steht. Am Nachmittag bietet der Weg zum Schloss eine gute Gelegenheit, sich warm zu strampeln, bevor wir den Tag am Seminar der Missionen ausklingen lassen. Abends kehren wir zügig ins Zentrum zurück, da es nach Sonnenuntergang schnell abkühlt.",
+            "hu": "A tiszta reggeli levegő frissítővé teszi a tekerést a Városházáig. Délben a Főtemplomot látogatjuk meg, miközben a téli nap alacsonyan jár. Délután a várba vezető út remek alkalom a bemelegedésre a pedálozással, majd a Missziók Szemináriumánál fejezzük be a programot. Este gyorsan visszatérünk a központba, mert naplemente után hamar hűl a levegő.",
+            "ro": "Aerul curat de dimineață face plimbarea cu bicicleta spre Primărie deosebit de revigorantă. La prânz vizităm Biserica Principală în timp ce soarele de iarnă stă jos pe cer. După-amiaza, drumul spre castel este o ocazie bună de a ne încălzi prin pedalare, înainte de a încheia ziua la Seminarul Misiunilor. Seara revenim rapid în centru, deoarece se răcește repede după apus.",
+            "en": "The clear morning air makes the ride to the Town Hall especially refreshing. At noon, we visit the Main Church while the winter sun stays low in the sky. In the afternoon, the path to the castle is a good chance to warm up by pedaling, before ending the day at the Seminary of the Missions. In the evening, we return quickly to the center as it cools down fast after sunset."
+          },
+          "stops": [
+            {
+              "name": "Town Hall (Paços do Concelho)",
+              "tip_5lang": {
+                "de": "Die frostige Luft am Morgen erfordert gute Handschuhe am Lenker.",
+                "hu": "A fagyos reggeli levegőben elengedhetetlen a jó kesztyű a kormányon.",
+                "ro": "Aerul înghețat de dimineață necesită mănuși bune pe ghidon.",
+                "en": "The frosty morning air requires good gloves on the handlebars."
+              }
+            },
+            {
+              "name": "Main Church of Sertã (Igreja Matriz)",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Muskeln nicht zu sehr auskühlen zu lassen.",
+                "hu": "Rövid megálló, hogy az izmok ne hűljenek ki túlságosan.",
+                "ro": "Oprire scurtă pentru a nu lăsa mușchii să se răcească prea tare.",
+                "en": "Short stop to keep your muscles from cooling down too much."
+              }
+            },
+            {
+              "name": "Castle of Sertã (Castelo da Sertã)",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick, der bei Winterluft oft besonders klar ist.",
+                "hu": "Élvezze a kilátást, ami a téli levegőben gyakran különösen tiszta.",
+                "ro": "Bucurați-vă de priveliște, care este adesea foarte clară în aerul de iarnă.",
+                "en": "Enjoy the view, which is often especially clear in the winter air."
+              }
+            },
+            {
+              "name": "Roman Bridge of Sertã (Ponte da Ribeira)",
+              "tip_5lang": {
+                "de": "Schattenstellen können rutschig sein, fahren Sie vorausschauend.",
+                "hu": "Az árnyékos részek csúszósak lehetnek, vezessen előrelátóan.",
+                "ro": "Zonele umbrite pot fi alunecoase, conduceți cu prudență.",
+                "en": "Shaded areas can be slippery, ride defensively."
+              }
+            },
+            {
+              "name": "Ribeira da Sertã River Beach (Praia Fluvial)",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für Fotos, aber bleiben Sie in Bewegung.",
+                "hu": "Szép hely a fotózáshoz, de maradjon mozgásban a melegért.",
+                "ro": "Un loc frumos pentru poze, dar rămâneți în mișcare.",
+                "en": "A beautiful spot for photos, but stay in motion to keep warm."
+              }
+            },
+            {
+              "name": "Convent of Saint Anthony",
+              "tip_5lang": {
+                "de": "Die ruhige Lage bietet wenig Windschutz, Jacke geschlossen halten.",
+                "hu": "A csendes környéken kevés a szélvédelem, tartsa zárva a dzsekijét.",
+                "ro": "Locația liniștită oferă puțin adăpost contra vântului, țineți jacheta închisă.",
+                "en": "The quiet location offers little wind protection, keep your jacket zipped."
+              }
+            },
+            {
+              "name": "Lunch in town",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz an der Heizung, um die Batterien aufzuladen.",
+                "hu": "Keressen helyet a fűtőtest mellett, hogy feltöltődjön.",
+                "ro": "Căutați un loc lângă calorifer pentru a vă reîncărca bateriile.",
+                "en": "Look for a spot near the heater to recharge your batteries."
+              }
+            },
+            {
+              "name": "Seminary of the Missions",
+              "tip_5lang": {
+                "de": "Beeilen Sie sich beim Abstieg, bevor die Dunkelheit einsetzt.",
+                "hu": "Igyekezzen a visszaúton, mielőtt beáll a sötétség.",
+                "ro": "Grăbiți-vă la întoarcere înainte de lăsarea întunericului.",
+                "en": "Hurry on the descent before darkness sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist für Radfahrer im Winter ideal.",
+              "Denken Sie an die frühe Dämmerung und schalten Sie das Licht ab 17 Uhr ein.",
+              "Vermeiden Sie lange Standzeiten, um nicht auszukühlen.",
+              "Ein heißer Tee in einer Thermoskanne ist ein toller Begleiter."
+            ],
+            "hu": [
+              "A réteges öltözködés ideális a kerékpárosoknak télen.",
+              "Gondoljon a korai szürkületre, és 17 órától kapcsolja be a lámpákat.",
+              "Kerülje a hosszú egy helyben állást, hogy ne fázzon meg.",
+              "Egy termoszban lévő forró tea kiváló társ az úton."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este ideală pentru bicicliști iarna.",
+              "Țineți cont de amurgul timpuriu și aprindeți luminile de la ora 17.",
+              "Evitați staționările lungi pentru a nu vă răci.",
+              "Un ceai fierbinte într-un termos este un companion excelent."
+            ],
+            "en": [
+              "Layering your clothes is ideal for cyclists in winter.",
+              "Remember the early dusk and turn on your lights from 17:00.",
+              "Avoid long stationary breaks to prevent getting too cold.",
+              "A hot tea in a thermos is a great companion for the road."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1170,6 +1588,206 @@
           "Do not leave valuables visible in the car.",
           "Pay attention to the speed limits, which are often low in the town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute der perfekte Rückzugsort zwischen den historischen Stopps in Sertã. Morgens erreichen wir das Zentrum bequem und trocken, während es draußen prasselt. Mittags bietet die Hauptkirche eine inspirierende Pause vom Regen. Am Nachmittag fahren wir direkt zum Parkplatz am Schloss, um den Fußweg im Nassen zu minimieren. Der Tag endet entspannt in der Wärme eines hervorragenden lokalen Restaurants.",
+            "hu": "Az autó ma tökéletes menedéket nyújt a történelmi megállók között Sertã-ban. Reggel kényelmesen és szárazon érjük el a központot, miközben kint szakad az eső. Délben a Főtemplom nyújt inspiráló pihenőt az eső elől. Délután közvetlenül a vár melletti parkolóba hajtunk, hogy minimálisra csökkentsük a vizes gyalogutat. A nap egy kiváló helyi étterem melegében, nyugodtan ér véget.",
+            "ro": "Mașina este astăzi refugiul perfect între opririle istorice din Sertã. Dimineața ajungem în centru confortabil și uscați, în timp ce afară plouă torențial. La prânz, Biserica Principală oferă o pauză inspirată de la ploaie. După-amiaza conducem direct spre parcarea de la castel pentru a minimiza mersul pe jos prin ploaie. Ziua se încheie relaxat în căldura unui restaurant local excelent.",
+            "en": "The car is the perfect sanctuary today between the historic stops in Sertã. In the morning, we reach the center comfortably and dry while it pours outside. At noon, the Main Church offers an inspiring break from the rain. In the afternoon, we drive directly to the parking area by the castle to minimize walking in the wet. The day ends relaxingly in the warmth of an excellent local restaurant."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Rathaus, um trocken zu bleiben.",
+                "hu": "Parkoljon a lehető legközelebb a városházához, hogy száraz maradjon.",
+                "ro": "Parcați cât mai aproape de primărie pentru a rămâne uscați.",
+                "en": "Park as close as possible to the Town Hall to stay dry."
+              }
+            },
+            {
+              "name": "Main Church of Sertã (Igreja Matriz)",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Auto zum Kircheneingang einplanen.",
+                "hu": "Tervezzen egy gyors sprintet az autótól a templom bejáratáig.",
+                "ro": "Planificați un sprint scurt de la mașină la intrarea în biserică.",
+                "en": "Plan a short sprint from the car to the church entrance."
+              }
+            },
+            {
+              "name": "Pillory of Sertã",
+              "tip_5lang": {
+                "de": "Vom Fenster aus gut sichtbar, falls der Regen zu stark ist.",
+                "hu": "Az ablakból is jól látható, ha túl erősen esne az eső.",
+                "ro": "Vizibil bine de pe geam, în caz că ploaia este prea puternică.",
+                "en": "Clearly visible from the window if the rain is too heavy."
+              }
+            },
+            {
+              "name": "Cluster 2: Castle and River",
+              "tip_5lang": {
+                "de": "Nutzen Sie den oberen Parkplatz direkt am Schlossplateau.",
+                "hu": "Használja a közvetlenül a várplatónál lévő felső parkolót.",
+                "ro": "Folosiți parcarea superioară situată direct pe platoul castelului.",
+                "en": "Use the upper parking lot located directly on the castle plateau."
+              }
+            },
+            {
+              "name": "Roman Bridge of Sertã (Ponte da Ribeira)",
+              "tip_5lang": {
+                "de": "Bei starkem Regen kann das Wasser am Flussufer schnell steigen.",
+                "hu": "Heves esőzéskor a vízszint a folyóparton gyorsan emelkedhet.",
+                "ro": "În caz de ploaie torențială, nivelul apei la malul râului poate crește rapid.",
+                "en": "During heavy rain, the water level at the riverbank can rise quickly."
+              }
+            },
+            {
+              "name": "Ribeira da Sertã River Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Fluss aus dem geschützten Auto.",
+                "hu": "Élvezze a folyóra nyíló kilátást a védett autóból.",
+                "ro": "Bucurați-vă de vederea spre râu din mașina protejată.",
+                "en": "Enjoy the river view from the sheltered car."
+              }
+            },
+            {
+              "name": "Cluster 3: Spiritual Heritage",
+              "tip_5lang": {
+                "de": "Die Anfahrt zum Konvent ist bei Regen unkompliziert und trocken.",
+                "hu": "A kolostorhoz vezető út esőben is egyszerű és száraz.",
+                "ro": "Accesul la convent este simplu și uscat chiar și pe ploaie.",
+                "en": "Access to the convent is straightforward and dry even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie den Regenschirm griffbereit in der Türablage.",
+              "Vorsicht beim Fahren auf dem nassen Kopfsteinpflaster im Zentrum.",
+              "Nutzen Sie Parkhäuser oder überdachte Plätze, falls verfügbar.",
+              "Die Scheiben können bei Nässe schnell beschlagen, Lüftung prüfen."
+            ],
+            "hu": [
+              "Tartsa az esernyőt kéznél az ajtózsebben.",
+              "Vigyázzon a vezetéssel a vizes macskaköveken a központban.",
+              "Használjon parkolóházakat vagy fedett helyeket, ha elérhetőek.",
+              "Az ablakok esőben hamar bepárásodhatnak, ellenőrizze a szellőzést."
+            ],
+            "ro": [
+              "Țineți umbrela la îndemână în buzunarul portierei.",
+              "Atenție la condus pe pavajul ud din centru.",
+              "Folosiți parcările acoperite dacă sunt disponibile.",
+              "Geamurile se pot aburi repede pe ploaie, verificați ventilația."
+            ],
+            "en": [
+              "Keep your umbrella handy in the door pocket.",
+              "Be careful driving on the wet cobblestones in the center.",
+              "Use parking garages or covered spots if available.",
+              "Windows can fog up quickly in the rain, check your ventilation."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen ist die Autofahrt durch Sertã besonders malerisch. Wir besuchen die historischen Monumente im Zentrum und genießen die warme Heizung zwischen den Stopps. Am Nachmittag bietet das Schloss eine beeindruckende Kulisse im tiefstehenden Sonnenlicht. Wir beenden die Tour an den spirituellen Stätten außerhalb des Zentrums, bevor wir zur Dämmerung in ein gemütliches Restaurant einkehren.",
+            "hu": "Egy tiszta téli reggelen az autózás Sertã-ban különösen festői. Meglátogatjuk a központ történelmi emlékeit, élvezve a fűtést a megállók között. Délután a vár lenyűgöző látványt nyújt az alacsonyan járó napfényben. A túrát a központon kívüli szakrális helyeknél zárjuk, majd a szürkület beálltakor egy hangulatos étterembe térünk be.",
+            "ro": "Într-o dimineață senină de iarnă, condusul prin Sertã este deosebit de pitoresc. Vizităm monumentele istorice din centru, bucurându-ne de căldura mașinii între opriri. După-amiaza, castelul oferă un decor impresionant în lumina joasă a soarelui. Încheiem turul la locurile spirituale din afara centrului, înainte de a intra într-un restaurant primitor la lăsarea serii.",
+            "en": "On a clear winter morning, driving through Sertã is especially picturesque. We visit the historic monuments in the center, enjoying the car's heater between stops. In the afternoon, the castle provides an impressive backdrop in the low sunlight. We end the tour at the spiritual sites outside the center before heading to a cozy restaurant at dusk."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, um die Umwelt zu schonen.",
+                "hu": "Ne járassa feleslegesen a motort a környezet védelme érdekében.",
+                "ro": "Nu lăsați motorul pornit inutil pentru a proteja mediul.",
+                "en": "Don't leave the engine running unnecessarily to protect the environment."
+              }
+            },
+            {
+              "name": "Main Church of Sertã (Igreja Matriz)",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter im Zentrum meist gut verfügbar.",
+                "hu": "Télen a parkolóhelyek általában könnyen elérhetőek a központban.",
+                "ro": "Locurile de parcare sunt de obicei ușor de găsit în centru iarna.",
+                "en": "Parking spaces are usually readily available in the center during winter."
+              }
+            },
+            {
+              "name": "Pillory of Sertã",
+              "tip_5lang": {
+                "de": "Die klare Luft sorgt für brillante Farben auf Ihren Fotos.",
+                "hu": "A tiszta levegő ragyogó színeket biztosít a fotóihoz.",
+                "ro": "Aerul curat asigură culori strălucitoare pentru fotografiile dvs.",
+                "en": "The clear air ensures brilliant colors for your photos."
+              }
+            },
+            {
+              "name": "Cluster 2: Castle and River",
+              "tip_5lang": {
+                "de": "Der Aufstieg zum Schloss ist im Auto mühelos und warm.",
+                "hu": "A várba való feljutás autóval megerőltetés nélküli és meleg.",
+                "ro": "Urcarea la castel este fără efort și caldă în mașină.",
+                "en": "The ascent to the castle is effortless and warm in the car."
+              }
+            },
+            {
+              "name": "Roman Bridge of Sertã (Ponte da Ribeira)",
+              "tip_5lang": {
+                "de": "Die Brücke ist im Winter ein ruhiger Ort für einen kurzen Halt.",
+                "hu": "A híd télen nyugodt hely egy rövid megállásra.",
+                "ro": "Podul este un loc liniștit pentru o scurtă oprire iarna.",
+                "en": "The bridge is a quiet spot for a short stop in winter."
+              }
+            },
+            {
+              "name": "Ribeira da Sertã River Beach",
+              "tip_5lang": {
+                "de": "Die Parkplätze am Fluss sind im Winter oft leer und friedlich.",
+                "hu": "A folyóparti parkolók télen gyakran üresek és békések.",
+                "ro": "Parcările de la râu sunt adesea goale și liniștite iarna.",
+                "en": "The riverside parking lots are often empty and peaceful in winter."
+              }
+            },
+            {
+              "name": "Cluster 3: Spiritual Heritage",
+              "tip_5lang": {
+                "de": "Perfekter Abschluss, bevor die Abendkälte einsetzt.",
+                "hu": "Tökéletes befejezés, mielőtt beállna az esti hideg.",
+                "ro": "Final perfect înainte de lăsarea frigului serii.",
+                "en": "Perfect finish before the evening cold sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte sinken kann.",
+              "Die Wintersonne kann beim Fahren tief stehen und blenden.",
+              "Eine Decke im Auto sorgt für zusätzlichen Komfort bei Pausen.",
+              "Die Straßen außerhalb des Zentrums können morgens glatt sein."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást, mert a hidegben csökkenhet.",
+              "A téli nap alacsonyan járhat és vezetés közben elvakíthatja.",
+              "Egy takaró az autóban extra kényelmet nyújt a szünetekben.",
+              "A központon kívüli utak reggelente csúszósak lehetnek."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope, deoarece poate scădea la frig.",
+              "Soarele de iarnă poate sta jos și vă poate orbi în timp ce conduceți.",
+              "O pătură în mașină oferă confort suplimentar în timpul pauzelor.",
+              "Drumurile din afara centrului pot fi alunecoase dimineața."
+            ],
+            "en": [
+              "Check your tire pressure as it can drop in the cold.",
+              "The winter sun can be low and blinding while driving.",
+              "A blanket in the car provides extra comfort during breaks.",
+              "Roads outside the center can be slippery in the morning."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1526,6 +2144,188 @@
           "Stops are not always clearly marked, watch the locals.",
           "Be flexible, rural public transport can be unpredictable."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Dank der Busverbindungen in Sertã bleiben wir heute weitgehend trocken. Morgens erkunden wir den historischen Kern und nutzen die Wartebereiche als Schutz. Mittags bietet die Hauptkirche eine würdevolle Pause vom Regen, bevor wir mit dem Bus zum Schloss hochfahren. Den Nachmittag verbringen wir in der Nähe der Flussbrücke, stets mit Blick auf das nächste schützende Café. Der Tag endet bequem im Zentrum, nachdem uns der Bus zurückgebracht hat.",
+            "hu": "A sertãi buszjáratoknak köszönhetően ma jórészt szárazon megússzuk a városnézést. Reggel a történelmi magot fedezzük fel, a váróhelyeket használva menedékként. Délben a Főtemplom nyújt méltóságteljes pihenőt, majd busszal megyünk fel a várhoz. A délutánt a folyóparti híd közelében töltjük, mindig szemmel tartva a legközelebbi védett kávézót. A nap kényelmesen a központban ér véget, miután a busz visszavitt minket.",
+            "ro": "Datorită conexiunilor de autobuz din Sertã, astăzi rămânem în mare parte uscați. Dimineața explorăm nucleul istoric și folosim zonele de așteptare ca adăpost. La prânz, Biserica Principală oferă o pauză demnă de la ploaie, înainte de a urca la castel cu autobuzul. După-amiaza o petrecem lângă podul de peste râu, mereu cu ochii pe cea mai apropiată cafenea. Ziua se încheie confortabil în centru, după ce autobuzul ne-a adus înapoi.",
+            "en": "Thanks to the bus connections in Sertã, we stay mostly dry today. In the morning, we explore the historic core, using waiting areas as shelter. At noon, the Main Church offers a dignified break from the rain before we take the bus up to the castle. We spend the afternoon near the river bridge, always keeping an eye on the nearest sheltered cafe. The day ends comfortably in the center after the bus brings us back."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Historic Center (on foot)",
+              "tip_5lang": {
+                "de": "Warten Sie an der Bushaltestelle unter dem Dach auf den Anschluss.",
+                "hu": "Várjon a buszmegálló fedele alatt a csatlakozásra.",
+                "ro": "Așteptați sub acoperișul stației de autobuz pentru conexiune.",
+                "en": "Wait under the bus stop shelter for your connection."
+              }
+            },
+            {
+              "name": "Main Church & Pillory",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Zeit bis zur nächsten Abfahrt zu überbrücken.",
+                "hu": "Jó hely a következő indulásig hátralévő idő eltöltésére.",
+                "ro": "Un loc bun pentru a trece timpul până la următoarea plecare.",
+                "en": "A good place to pass the time until the next departure."
+              }
+            },
+            {
+              "name": "Cluster B: Castle & River (by bus)",
+              "tip_5lang": {
+                "de": "Die Busfahrt erspart Ihnen den mühsamen Aufstieg im Regen.",
+                "hu": "A buszoztatás megkíméli önt a fárasztó esős hegymászástól.",
+                "ro": "Călătoria cu autobuzul vă scutește de urcarea obositoare prin ploaie.",
+                "en": "Taking the bus saves you the tiring climb in the rain."
+              }
+            },
+            {
+              "name": "Roman Bridge of Sertã",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle zur Brücke, Schirm bereithalten.",
+                "hu": "Rövid séta a megállótól a hídig, tartsa készenlétben az esernyőt.",
+                "ro": "Scurtă plimbare de la stație la pod, țineți umbrela pregătită.",
+                "en": "Short walk from the stop to the bridge, have your umbrella ready."
+              }
+            },
+            {
+              "name": "Lunch and Relaxation at the River Beach",
+              "tip_5lang": {
+                "de": "Suchen Sie das Strandcafé auf, um im Trockenen zu essen.",
+                "hu": "Keresse fel a strand kávézóját, hogy szárazon ebédelhessen.",
+                "ro": "Căutați cafeneaua de pe plajă pentru a mânca la adăpost.",
+                "en": "Visit the beach cafe to eat in the dry."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan, bei Regen können Busse Verspätung haben.",
+                "hu": "Ellenőrizze a menetrendet, esőben a buszok késhetnek.",
+                "ro": "Verificați orarul, autobuzele pot avea întârzieri pe ploaie.",
+                "en": "Check the timetable; buses may be delayed in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die lokale Transport-App für Echtzeit-Infos herunter.",
+              "Tragen Sie Kleidung, die auch im Bus schnell trocknet.",
+              "Nutzen Sie die Kirchenbesichtigung als Puffer für Buswartezeiten.",
+              "Halten Sie Kleingeld oder eine Fahrkarte griffbereit."
+            ],
+            "hu": [
+              "Töltse le a helyi közlekedési alkalmazást a valós idejű infókért.",
+              "Hordjon olyan ruhát, ami a buszon is gyorsan szárad.",
+              "Használja a templomlátogatást pufferként a buszra váráskor.",
+              "Tartson kéznél aprópénzt vagy érvényes jegyet."
+            ],
+            "ro": [
+              "Descărcați aplicația locală de transport pentru info în timp real.",
+              "Purtați haine care se usucă repede chiar și în autobuz.",
+              "Folosiți vizita la biserică ca tampon pentru timpii de așteptare.",
+              "Aveți la îndemână mărunțiș sau un bilet valabil."
+            ],
+            "en": [
+              "Download the local transport app for real-time information.",
+              "Wear clothing that dries quickly even while on the bus.",
+              "Use the church visit as a buffer for bus waiting times.",
+              "Keep small change or a valid ticket handy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag in Sertã lässt sich wunderbar mit den öffentlichen Verkehrsmitteln gestalten. Morgens spazieren wir durch das kühle Zentrum und wärmen uns anschließend im Bus zum Schloss auf. Mittags genießen wir die Ruhe in der Hauptkirche, bevor wir den Nachmittag am Fluss verbringen. Die Busse bringen uns zuverlässig zurück, bevor die frühe Abendkälte einsetzt. Der Tag endet entspannt bei einem warmen Abendessen im Herzen der Stadt.",
+            "hu": "A téli nap Sertã-ban kiválóan tervezhető tömegközlekedéssel. Reggel a hűvös központban sétálunk, majd a várba tartó buszon melegszünk fel. Délben élvezzük a Főtemplom nyugalmát, mielőtt a délutánt a folyónál töltenénk. A buszok megbízhatóan visszavisznek minket, mielőtt beállna a korai esti hideg. A nap nyugodtan, egy meleg vacsorával zárul a város szívében.",
+            "ro": "Ziua de iarnă în Sertã poate fi organizată excelent cu transportul public. Dimineața ne plimbăm prin centrul răcoros, apoi ne încălzim în autobuzul spre castel. La prânz ne bucurăm de liniștea Bisericii Principale înainte de a petrece după-amiaza la râu. Autobuzele ne aduc înapoi în siguranță înainte de lăsarea frigului de seară. Ziua se încheie relaxat cu o cină caldă în inima orașului.",
+            "en": "A winter day in Sertã is easily manageable using public transport. In the morning, we stroll through the cool center and then warm up on the bus to the castle. At noon, we enjoy the peace of the Main Church before spending the afternoon by the river. The buses reliably bring us back before the early evening cold sets in. The day ends relaxingly with a warm dinner in the heart of the city."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Historic Center (on foot)",
+              "tip_5lang": {
+                "de": "Die Bewegung am Morgen hält warm, bevor es in den Bus geht.",
+                "hu": "A reggeli mozgás melegen tart, mielőtt felszállna a buszra.",
+                "ro": "Mișcarea de dimineață vă ține de cald înainte de a urca în autobuz.",
+                "en": "Morning movement keeps you warm before getting on the bus."
+              }
+            },
+            {
+              "name": "Main Church & Pillory",
+              "tip_5lang": {
+                "de": "Ein kurzer Aufenthalt im Freien ist bei Wintersonne sehr angenehm.",
+                "hu": "A rövid kinti tartózkodás a téli napsütésben nagyon kellemes.",
+                "ro": "O scurtă ședere afară este foarte plăcută în soarele de iarnă.",
+                "en": "A short stay outdoors is very pleasant in the winter sun."
+              }
+            },
+            {
+              "name": "Cluster B: Castle & River (by bus)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Ausblick aus dem beheizten Busfenster.",
+                "hu": "Élvezze a kilátást a fűtött busz ablakából.",
+                "ro": "Bucurați-vă de priveliște de la geamul încălzit al autobuzului.",
+                "en": "Enjoy the view from the heated bus window."
+              }
+            },
+            {
+              "name": "Roman Bridge of Sertã",
+              "tip_5lang": {
+                "de": "Die Haltestellen liegen meist nah an den Sehenswürdigkeiten.",
+                "hu": "A megállók többnyire közel vannak a látnivalókhoz.",
+                "ro": "Stațiile sunt de obicei aproape de obiectivele turistice.",
+                "en": "Stops are mostly close to the sights."
+              }
+            },
+            {
+              "name": "Lunch and Relaxation at the River Beach",
+              "tip_5lang": {
+                "de": "Die Strandbar bietet im Winter oft gemütliche Innenplätze.",
+                "hu": "A strandbár télen gyakran hangulatos belső helyeket kínál.",
+                "ro": "Barul de pe plajă oferă adesea locuri primitoare la interior iarna.",
+                "en": "The beach bar often offers cozy indoor seating in winter."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Die letzte Fahrt vor der Dämmerung ist meist weniger voll.",
+                "hu": "A szürkület előtti utolsó járat általában kevésbé zsúfolt.",
+                "ro": "Ultima cursă înainte de amurg este de obicei mai puțin aglomerată.",
+                "en": "The last trip before dusk is usually less crowded."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In den Bussen ist es meist warm, kleiden Sie sich im Zwiebel-Look.",
+              "Prüfen Sie die Winter-Fahrpläne, da es Abweichungen geben kann.",
+              "Nutzen Sie die Wartezeiten für einen schnellen Kaffee zum Mitnehmen.",
+              "Die Busse sind im Winter ein guter Ort zum Aufwärmen."
+            ],
+            "hu": [
+              "A buszokon általában meleg van, öltözzön rétegesen.",
+              "Ellenőrizze a téli menetrendet, mert lehetnek eltérések.",
+              "Használja ki a várakozási időt egy gyors elvihető kávéra.",
+              "A buszok télen kiváló helyszínek a felmelegedéshez."
+            ],
+            "ro": [
+              "În autobuze este de obicei cald, îmbrăcați-vă în straturi.",
+              "Verificați orarul de iarnă, pot exista modificări.",
+              "Folosiți timpul de așteptare pentru o cafea rapidă la pachet.",
+              "Autobuzele sunt un loc bun de încălzire iarna."
+            ],
+            "en": [
+              "Buses are usually warm, so dress in layers.",
+              "Check the winter schedules, as there may be variations.",
+              "Use waiting times for a quick takeaway coffee.",
+              "Buses are a great place to warm up during the winter."
+            ]
+          }
+        }
       }
     }
   }

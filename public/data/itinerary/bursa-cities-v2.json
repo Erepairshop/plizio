@@ -356,6 +356,188 @@
           "Haggling is common in the bazaars, but remain respectful.",
           "Be sure to try freshly squeezed pomegranate juice."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens im Koza Han ist der Regen nur ein sanftes Trommeln auf den Dächern, während Sie Tee trinken. Mittags bietet die Ulu Cami eine trockene, spirituelle Zuflucht. Nachmittags spazieren Sie unter dem Schirm zur Irgandı-Brücke und beenden den Tag im Muradiye-Komplex, wo der feuchte Stein den historischen Charme der alten Hauptstadt verstärkt.",
+            "hu": "Reggel a Koza Han árkádjai alatt a eső kopogása mellett teázhatunk. Délben az Ulu Cami hatalmas belső tere nyújt száraz menedéket. Délután az Irgandı-híd fedett boltjai között sétálunk, majd a Muradiye-komplexum kertjében zárjuk a napot, ahol az eső illata még mélyebbé teszi a történelmi hangulatot.",
+            "ro": "Dimineața în Koza Han, ploaia este doar un sunet ritmic pe acoperișuri în timp ce savurați un ceai. La prânz, Marea Moschee oferă un refugiu uscat și spiritual. După-amiaza, plimbarea cu umbrela spre Podul Irgandı și complexul Muradiye dezvăluie o latură melancolică și autentică a vechii capitale otomane.",
+            "en": "Morning in Koza Han finds you sipping tea while rain drums softly on the domes. At noon, the Grand Mosque provides a vast, dry sanctuary. In the afternoon, an umbrella walk to Irgandı Bridge and the Muradiye Complex highlights the glistening historic stones and the misty atmosphere of the first Ottoman capital."
+          },
+          "stops": [
+            {
+              "name": "Koza Han (Silk Bazaar)",
+              "tip_5lang": {
+                "de": "Die inneren Arkaden sind perfekt trocken zum Teetrinken.",
+                "hu": "A belső udvar árkádjai alatt szárazon teázhatunk.",
+                "ro": "Arcadele interioare sunt perfecte pentru un ceai la adăpost.",
+                "en": "The inner arcades are perfectly dry for tea drinking."
+              }
+            },
+            {
+              "name": "Ulu Cami (Grand Mosque)",
+              "tip_5lang": {
+                "de": "Riesiger Innenraum, ideal um dem Regen zu entkommen.",
+                "hu": "Hatalmas belső tér, ideális az eső elöli menekülésre.",
+                "ro": "Spațiu interior imens, ideal pentru a scăpa de ploaie.",
+                "en": "Huge interior space, ideal for escaping the rain."
+              }
+            },
+            {
+              "name": "Irgandı Bridge",
+              "tip_5lang": {
+                "de": "Die Läden auf der Brücke sind überdacht und windgeschützt.",
+                "hu": "A hídon lévő üzletek fedettek és védettek a széltől.",
+                "ro": "Magazinele de pe pod sunt acoperite și ferite de vânt.",
+                "en": "The shops on the bridge are covered and wind-protected."
+              }
+            },
+            {
+              "name": "Yeşil Türbe (Green Tomb)",
+              "tip_5lang": {
+                "de": "Vorsicht, die blauen Fliesen im Außenbereich sind bei Nässe glatt.",
+                "hu": "Vigyázat, a külső kék csempék esőben csúszósak lehetnek.",
+                "ro": "Atenție, plăcile albastre exterioare pot fi alunecoase pe ploaie.",
+                "en": "Caution, the exterior blue tiles can be slippery when wet."
+              }
+            },
+            {
+              "name": "Tophane Clock Tower & Citadel",
+              "tip_5lang": {
+                "de": "Die Cafés hier bieten einen tollen Blick auf die neblige Stadt.",
+                "hu": "Az itteni kávézók remek kilátást nyújtanak a ködös városra.",
+                "ro": "Cafenelele de aici oferă o vedere excelentă asupra orașului cețos.",
+                "en": "The cafes here offer a great view of the misty city below."
+              }
+            },
+            {
+              "name": "Muradiye Complex",
+              "tip_5lang": {
+                "de": "Der Garten wirkt im Regen besonders mystisch.",
+                "hu": "A kert esőben különösen misztikus hangulatot áraszt.",
+                "ro": "Grădina are o atmosferă mistică sub ploaie.",
+                "en": "The garden has a particularly mystical vibe in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster rutschig wird.",
+              "Die Basare sind teilweise überdacht, ideal für Regenpausen.",
+              "Ein Taschenschirm ist bei den Windböen vom Uludağ-Berg stabiler.",
+              "Besuchen Sie ein Hammam, wenn der Regen zu stark wird."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskakő csúszóssá válik.",
+              "A bazárok részben fedettek, ideálisak az esőszünetekhez.",
+              "Az Uludağ felől érkező szél miatt az erős esernyő ajánlott.",
+              "Ha túl intenzív az eső, meneküljön be egy helyi törökfürdőbe."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul devine alunecos.",
+              "Bazarele sunt parțial acoperite, ideale pentru pauze de ploaie.",
+              "O umbrelă rezistentă e necesară din cauza vântului de pe munte.",
+              "Vizitați un hamam local dacă ploaia devine prea puternică."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones become slippery.",
+              "The bazaars are partially covered, ideal for rain breaks.",
+              "A sturdy umbrella is better for the wind gusts from Mount Uludağ.",
+              "Consider visiting a local hammam if the rain gets too heavy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt mit dem Blick auf den verschneiten Uludağ. In den Basaren dampft der Tee, während Sie sich aufwärmen. Mittags strahlt die Ulu Cami eine kühle Ruhe aus. Der Nachmittag an der Yeşil Türbe führt Sie durch die klare Winterluft, bevor der frühe Sonnenuntergang die Zitadelle von Tophane in ein magisches Licht taucht.",
+            "hu": "A téli reggel a havas Uludağ látványával indul. A bazárokban gőzölög a tea, miközben felmelegszünk. Délben az Ulu Cami hűvös nyugalmat áraszt. A délutáni séta a Yeşil Türbe környékén a friss téli levegőn vezet, mielőtt a korai naplemente varázslatos fénybe vonja a Tophane citadelláját.",
+            "ro": "Dimineața de iarnă începe cu vederea spre muntele Uludağ înzăpezit. În bazare, ceaiul aburește în timp ce vă încălziți. La prânz, Marea Moschee emană o liniște rece. După-amiaza la Yeşil Türbe vă poartă prin aerul curat, înainte ca apusul timpuriu să scalde cetatea Tophane într-o lumină magică.",
+            "en": "Winter morning starts with views of snowy Mount Uludağ. In the bazaars, steaming tea warms your hands. At noon, the Grand Mosque radiates a cool, serene calm. The afternoon walk at Yeşil Türbe through crisp winter air leads to an early sunset that bathes Tophane Citadel in golden, magical light."
+          },
+          "stops": [
+            {
+              "name": "Koza Han (Silk Bazaar)",
+              "tip_5lang": {
+                "de": "Probieren Sie heißen Sahlep im historischen Innenhof.",
+                "hu": "Kóstolja meg a forró sahlepet a történelmi udvaron.",
+                "ro": "Încercați un sahlep fierbinte în curtea istorică.",
+                "en": "Try some hot sahlep in the historic courtyard."
+              }
+            },
+            {
+              "name": "Ulu Cami (Grand Mosque)",
+              "tip_5lang": {
+                "de": "Dicke Socken sind ratsam, da der Boden im Winter kalt sein kann.",
+                "hu": "A vastag zokni ajánlott, mert a padló télen hideg lehet.",
+                "ro": "Șosetele groase sunt recomandate, podeaua poate fi rece iarna.",
+                "en": "Thick socks are advised as the floor can be cold in winter."
+              }
+            },
+            {
+              "name": "Irgandı Bridge",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den schneebedeckten Berg im Hintergrund.",
+                "hu": "Élvezze a kilátást a háttérben lévő havas hegycsúcsokra.",
+                "ro": "Bucurați-vă de vederea spre muntele înzăpezit din fundal.",
+                "en": "Enjoy the view of the snow-covered mountain in the background."
+              }
+            },
+            {
+              "name": "Yeşil Türbe (Green Tomb)",
+              "tip_5lang": {
+                "de": "Die grünen Kacheln wirken bei Wintersonne besonders intensiv.",
+                "hu": "A zöld csempék a téli napsütésben különösen ragyogóak.",
+                "ro": "Plăcile verzi par deosebit de intense în soarele de iarnă.",
+                "en": "The green tiles look especially vibrant in the winter sun."
+              }
+            },
+            {
+              "name": "Tophane Clock Tower & Citadel",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter bereits gegen 17:00 Uhr.",
+                "hu": "A naplemente télen már délután 5 óra körül bekövetkezik.",
+                "ro": "Apusul de soare în iarnă are loc în jurul orei 17:00.",
+                "en": "Sunset occurs early in winter, around 5:00 PM."
+              }
+            },
+            {
+              "name": "Muradiye Complex",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, die Mausoleen sind nicht beheizt.",
+                "hu": "Öltözzön rétegesen, a mauzóleumok nincsenek fűtve.",
+                "ro": "Îmbrăcați-vă bine, mausoleele nu sunt încălzite.",
+                "en": "Dress warmly as the mausoleums are not heated."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichtenmodell ist wichtig; es zieht oft vom Uludağ herunter.",
+              "Die Sonne geht früh unter, planen Sie Outdoor-Ziele vor 16 Uhr.",
+              "Röstkastanien an Straßenecken sind der perfekte Snack.",
+              "Vorsicht vor vereisten Stellen auf den steilen Gassen von Tophane."
+            ],
+            "hu": [
+              "Réteges öltözködés fontos, gyakran fúj hideg szél a hegy felől.",
+              "A nap korán nyugszik, a kinti látnivalókat tervezze 16 óra elé.",
+              "A sült gesztenye az utcai árusoknál a tökéletes téli csemege.",
+              "Vigyázzon a jeges foltokra Tophane meredek utcáin."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi e esențială, vântul de pe munte e rece.",
+              "Soarele apune devreme, planificați vizitele în exterior înainte de ora 16.",
+              "Castanele coapte de la colț de stradă sunt gustarea perfectă.",
+              "Atenție la porțiunile înghețate de pe străzile abrupte din Tophane."
+            ],
+            "en": [
+              "Layering is key; cold air often flows down from Uludağ.",
+              "Sun sets early, so plan outdoor stops before 4 PM.",
+              "Roasted chestnuts from street vendors are the perfect winter snack.",
+              "Watch out for icy patches on the steep streets of Tophane."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -728,6 +910,206 @@
           "Avoid the main roads during peak hours.",
           "Always lock your bike securely."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Ritt durch die regennassen Straßen Bursas. Morgens gleiten Sie zur Zitadelle, während der Nebel die Stadt einhüllt. Mittags bietet der Muradiye-Komplex eine kulturelle Pause. Der Regen macht das Radfahren anspruchsvoller, aber die glänzenden Fassaden von Ulu Cami und Koza Han wirken auf zwei Rädern noch imposanter.",
+            "hu": "Frissítő tekerés Bursa esőáztatta utcáin. Reggel a citadellához hajtunk, miközben a köd beborítja a várost. Délben a Muradiye-komplexum nyújt kulturális pihenőt. Az eső kihívást jelent, de az Ulu Cami és a Koza Han csillogó homlokzata két keréken még lenyűgözőbbnek tűnik.",
+            "ro": "O plimbare revigorantă pe străzile umede ale Bursei. Dimineața pedalați spre cetate în timp ce ceața învăluie orașul. La prânz, complexul Muradiye oferă o pauză culturală. Ploaia face ciclismul mai dificil, dar fațadele strălucitoare ale Ulu Cami și Koza Han par și mai impunătoare pe două roți.",
+            "en": "A refreshing ride through the rain-slicked streets of Bursa. Morning cycling to the Citadel as mist envelops the city. Noon brings a cultural break at the Muradiye Complex. The rain adds a challenge, but the glistening facades of the Grand Mosque and Koza Han look even more majestic from your saddle."
+          },
+          "stops": [
+            {
+              "name": "Tophane Park",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den gepflasterten Wegen im Park.",
+                "hu": "Óvatosan hajtson a park kövezett útjain.",
+                "ro": "Pedalați cu atenție pe aleile pavate din parc.",
+                "en": "Ride carefully on the paved paths within the park."
+              }
+            },
+            {
+              "name": "Citadel of Bursa",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Bäumen ab, um den Sattel trocken zu halten.",
+                "hu": "Parkoljon a fák alá, hogy a nyereg száraz maradjon.",
+                "ro": "Parcați sub copaci pentru a menține șaua uscată.",
+                "en": "Park under the trees to keep your saddle dry."
+              }
+            },
+            {
+              "name": "Muradiye Complex",
+              "tip_5lang": {
+                "de": "Guter Ort für eine längere Pause, um Kleidung zu trocknen.",
+                "hu": "Jó hely egy hosszabb pihenőre, hogy megszárítsuk ruháinkat.",
+                "ro": "Loc bun pentru o pauză lungă și pentru a vă usca hainele.",
+                "en": "A good spot for a longer break to dry your gear."
+              }
+            },
+            {
+              "name": "Koza Han",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradabstellplatz in der Nähe des Haupteingangs.",
+                "hu": "Biztonságos kerékpártároló a főbejárat közelében.",
+                "ro": "Parcare sigură pentru biciclete lângă intrarea principală.",
+                "en": "Secure bike parking available near the main entrance."
+              }
+            },
+            {
+              "name": "Ulu Cami",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Inneren, während ein Schauer vorbeizieht.",
+                "hu": "Használja ki a benti időt, amíg elvonul egy zápor.",
+                "ro": "Folosiți timpul în interior în timp ce trece o aversă.",
+                "en": "Use the indoor time while a heavy shower passes by."
+              }
+            },
+            {
+              "name": "Irgandı Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf der Brücke, der Boden ist glatt.",
+                "hu": "Fékezzen óvatosan a hídon, a padló csúszós.",
+                "ro": "Frânați cu atenție pe pod, podeaua este alunecoasă.",
+                "en": "Brake carefully on the bridge; the surface is slick."
+              }
+            },
+            {
+              "name": "Yeşil Türbe & Mosque",
+              "tip_5lang": {
+                "de": "Der Aufstieg hierher ist bei Regen rutschig, kleine Gänge wählen.",
+                "hu": "Az idevezető emelkedő esőben csúszós, használjon kis fokozatot.",
+                "ro": "Urcarea aici e alunecoasă pe ploaie, folosiți viteze mici.",
+                "en": "The climb here is slippery in the rain; use low gears."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um Schlammspritzer zu vermeiden.",
+              "Vermeiden Sie plötzliches Bremsen auf nassem Kopfsteinpflaster.",
+              "Wasserdichte Packtaschen schützen Ihre Kamera und Souvenirs.",
+              "Beleuchtung einschalten, da die Sicht im Regen oft eingeschränkt ist."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó sár ellen.",
+              "Kerülje a hirtelen fékezést a vizes macskakövön.",
+              "A vízálló táskák megvédik a kamerát és az ajándéktárgyakat.",
+              "Kapcsolja be a világítást, mert esőben rosszabbak a látási viszonyok."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a evita stropirea cu noroi.",
+              "Evitați frânarea bruscă pe pavajul ud.",
+              "Geantele impermeabile vă protejează camera și suvenirurile.",
+              "Aprindeți luminile, vizibilitatea este redusă pe ploaie."
+            ],
+            "en": [
+              "Use mudguards to avoid getting splashed by road grime.",
+              "Avoid sudden braking on wet cobblestone surfaces.",
+              "Waterproof panniers will protect your camera and souvenirs.",
+              "Turn on your lights as visibility is often poor in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kühle Brisen und klare Aussichten begleiten Ihre Radtour durch das winterliche Bursa. Morgens geht es bergauf zur Zitadelle, was Sie angenehm warm hält. Mittags wärmt ein Tee im Koza Han Geist und Körper. Die historische Architektur der Stadt wirkt im harten Winterlicht besonders scharf gezeichnet, während Sie von Moschee zu Mausoleum radeln.",
+            "hu": "Hűvös szellő és tiszta kilátás kíséri téli kerékpáros túránkat Bursában. Reggel a citadellához való felkapaszkodás kellemesen melegen tart. Délben a Koza Han teája felmelegíti a testet és lelket. A város történelmi építészete a kemény téli fényben különösen élesnek tűnik, miközben mecsetről mauzóleumra tekerünk.",
+            "ro": "Brize reci și vederi clare însoțesc turul cu bicicleta prin Bursa de iarnă. Dimineața, urcarea spre cetate vă menține temperatura corpului. La prânz, un ceai în Koza Han vă încălzește spiritul. Arhitectura istorică a orașului pare sculptată în lumina aspră de iarnă în timp ce pedalați între monumente.",
+            "en": "Chilly breezes and clear vistas accompany your ride through winter Bursa. The morning climb to the Citadel keeps your blood pumping and body warm. At noon, tea at Koza Han warms the soul. The city's historic architecture stands out sharply in the crisp winter light as you cycle from mosque to mausoleum."
+          },
+          "stops": [
+            {
+              "name": "Tophane Park",
+              "tip_5lang": {
+                "de": "Bester Ort für ein Foto der schneebedeckten Dächer.",
+                "hu": "A legjobb hely egy fotóhoz a havas háztetőkről.",
+                "ro": "Cel mai bun loc pentru o fotografie cu acoperișurile înzăpezite.",
+                "en": "Best spot for a photo of the snow-covered rooftops."
+              }
+            },
+            {
+              "name": "Citadel of Bursa",
+              "tip_5lang": {
+                "de": "Vorsicht vor Windböen an den Aussichtspunkten.",
+                "hu": "Vigyázzon a széllökésekre a kilátóhelyeken.",
+                "ro": "Atenție la rafalele de vânt în punctele de observație.",
+                "en": "Watch out for wind gusts at the lookout points."
+              }
+            },
+            {
+              "name": "Muradiye Complex",
+              "tip_5lang": {
+                "de": "Die Gärten sind im Winter ruhig und verlassen.",
+                "hu": "A kertek télen csendesek és elhagyatottak.",
+                "ro": "Grădinile sunt liniștite și pustii iarna.",
+                "en": "The gardens are quiet and peaceful in the winter."
+              }
+            },
+            {
+              "name": "Koza Han",
+              "tip_5lang": {
+                "de": "Heiße Getränke im Erdgeschoss sind ein Muss.",
+                "hu": "A földszinti forró italok kötelezőek.",
+                "ro": "Băuturile fierbinți de la parter sunt obligatorii.",
+                "en": "Hot drinks on the ground floor are a must."
+              }
+            },
+            {
+              "name": "Ulu Cami",
+              "tip_5lang": {
+                "de": "Parken Sie windgeschützt hinter der Moschee.",
+                "hu": "Parkoljon szélvédett helyen a mecset mögött.",
+                "ro": "Parcați într-un loc ferit de vânt în spatele moscheii.",
+                "en": "Park in a wind-sheltered spot behind the mosque."
+              }
+            },
+            {
+              "name": "Irgandı Bridge",
+              "tip_5lang": {
+                "de": "Sonnige Plätze auf der Brücke zum Aufwärmen nutzen.",
+                "hu": "Használja ki a napos helyeket a hídon a felmelegedéshez.",
+                "ro": "Folosiți locurile însorite de pe pod pentru a vă încălzi.",
+                "en": "Utilize sunny spots on the bridge to warm up."
+              }
+            },
+            {
+              "name": "Yeşil Türbe & Mosque",
+              "tip_5lang": {
+                "de": "Zügige Abfahrt zurück ins Zentrum, Handschuhe tragen.",
+                "hu": "Gyors legurulás a központba, viseljen kesztyűt.",
+                "ro": "Coborâre rapidă spre centru, purtați mănuși.",
+                "en": "Brisk descent back to the center; wear gloves."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe sind bei den Abfahrten unerlässlich.",
+              "Die Batterien von E-Bikes entladen sich bei Kälte schneller.",
+              "Trinken Sie auch bei Kälte genug, die Luft ist trocken.",
+              "Planen Sie mehr Zeit für Aufwärmpausen in Cafés ein."
+            ],
+            "hu": [
+              "A szélálló kesztyű elengedhetetlen a lejtőkön.",
+              "Az e-bike akkumulátorok hidegben gyorsabban merülnek.",
+              "Igyon eleget hidegben is, mert a levegő száraz.",
+              "Tervezzen be több időt a kávézókban való felmelegedésre."
+            ],
+            "ro": [
+              "Mănușile rezistente la vânt sunt esențiale la coborâri.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Beți destule lichide și iarna, aerul este uscat.",
+              "Planificați mai mult timp pentru pauze de încălzire în cafenele."
+            ],
+            "en": [
+              "Windproof gloves are essential for the descents.",
+              "E-bike batteries drain faster in cold temperatures.",
+              "Stay hydrated even in the cold as the air is dry.",
+              "Allocate more time for warming-up breaks in cafes."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1110,6 +1492,206 @@
           "Traffic can be very heavy in Bursa, plan extra time for drives.",
           "Be aware of 'ZTL' zones (limited traffic zones)."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bursa im Regen lässt sich am bequemsten mit dem Auto erkunden. Morgens erreichen Sie trocken den Muradiye-Komplex und das Karagöz-Museum. Mittags genießen Sie ein Essen mit Aussicht, während die Regentropfen gegen die Scheiben trommeln. Die kurzen Wege zwischen den historischen Highlights wie Ulu Cami und Yeşil Türbe machen den regnerischen Tag entspannt.",
+            "hu": "Az esős Bursát legkényelmesebben autóval fedezhetjük fel. Reggel szárazon érhetjük el a Muradiye-komplexumot és a Karagöz Múzeumot. Délben élvezhetjük az ebédet a kilátással, miközben az esőcseppek az ablakon kopognak. A történelmi helyszínek, mint az Ulu Cami és a Yeşil Türbe közötti rövid távolságok pihentetővé teszik az esős napot.",
+            "ro": "Bursa pe ploaie este cel mai confortabil de explorat cu mașina. Dimineața ajungeți uscați la complexul Muradiye și muzeul Karagöz. La prânz vă bucurați de o masă cu vedere în timp ce picăturile de ploaie bat în geam. Distanțele scurte între punctele istorice precum Ulu Cami și Yeşil Türbe fac ziua ploioasă relaxantă.",
+            "en": "Rainy Bursa is most comfortably explored by car. Reach the Muradiye Complex and Karagöz Museum dry and warm in the morning. At noon, enjoy lunch with a view as raindrops drum against the windows. The short drives between historic highlights like the Grand Mosque and Green Tomb make for a relaxed, dry sightseeing day."
+          },
+          "stops": [
+            {
+              "name": "Muradiye Complex",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Eingang, kurzer Weg im Regen.",
+                "hu": "Parkoló közvetlenül a bejáratnál, rövid séta az esőben.",
+                "ro": "Parcare chiar la intrare, drum scurt prin ploaie.",
+                "en": "Parking right at the entrance, short walk in the rain."
+              }
+            },
+            {
+              "name": "Karagöz Museum",
+              "tip_5lang": {
+                "de": "Perfektes Indoor-Ziel für starke Regenschauer.",
+                "hu": "Tökéletes fedett célpont heves esőzések idejére.",
+                "ro": "Destinație interioară perfectă pentru ploi torențiale.",
+                "en": "Perfect indoor destination for heavy rain showers."
+              }
+            },
+            {
+              "name": "Tophane Clock Tower & Citadel",
+              "tip_5lang": {
+                "de": "Auffahrt kann bei starkem Regen rutschig sein.",
+                "hu": "A felvezető út heves esőben csúszós lehet.",
+                "ro": "Urcarea poate fi alunecoasă pe ploaie puternică.",
+                "en": "The drive up can be slippery during heavy rain."
+              }
+            },
+            {
+              "name": "Lunch with a View",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch am Fenster, um den Nebel zu sehen.",
+                "hu": "Foglaljon asztalt az ablaknál a ködös panoráma miatt.",
+                "ro": "Rezervați o masă la fereastră pentru a vedea ceața.",
+                "en": "Book a window table to watch the mist over the city."
+              }
+            },
+            {
+              "name": "Koza Han & Ulu Cami",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus in der Nähe, um trocken zu bleiben.",
+                "hu": "Használja a közeli parkolóházat, hogy száraz maradjon.",
+                "ro": "Folosiți parcarea etajată din apropiere pentru a rămâne uscat.",
+                "en": "Use the nearby parking garage to stay dry."
+              }
+            },
+            {
+              "name": "Irgandı Bridge",
+              "tip_5lang": {
+                "de": "Begrenzte Parkplätze, kurzes Halten oft möglich.",
+                "hu": "Korlátozott parkolás, rövid megállás gyakran lehetséges.",
+                "ro": "Parcare limitată, oprirea scurtă este adesea posibilă.",
+                "en": "Limited parking; a quick stop is often possible."
+              }
+            },
+            {
+              "name": "Yeşil Türbe (Green Tomb)",
+              "tip_5lang": {
+                "de": "Direkte Zufahrt möglich, ideal bei schlechtem Wetter.",
+                "hu": "Közvetlen behajtás lehetséges, ideális rossz időben.",
+                "ro": "Acces direct posibil, ideal pe vreme rea.",
+                "en": "Direct access possible, ideal during bad weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Rechnen Sie mit mehr Verkehr in der Innenstadt bei Regen.",
+              "Nutzen Sie überdachte Parkhäuser im Zentrum (Çarşı).",
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt.",
+              "Vermeiden Sie tiefe Pfützen in den tiefer gelegenen Stadtteilen."
+            ],
+            "hu": [
+              "Számoljon nagyobb forgalommal a belvárosban esőben.",
+              "Használja a fedett parkolóházakat a központban (Çarşı).",
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Kerülje a mély tócsákat az alacsonyabban fekvő negyedekben."
+            ],
+            "ro": [
+              "Așteptați-vă la trafic mai intens în centru pe ploaie.",
+              "Folosiți parcările acoperite din centru (Çarşı).",
+              "Verificați ștergătoarele înainte de a pleca la drum.",
+              "Evitați bălțile adânci în cartierele mai joase."
+            ],
+            "en": [
+              "Expect heavier traffic in the city center during rain.",
+              "Utilize covered parking garages in the center (Çarşı).",
+              "Check your windshield wipers before starting your trip.",
+              "Avoid deep puddles in lower-lying districts."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bursa im Winter bietet eine gemütliche Fahrt durch die Geschichte. Morgens besuchen Sie die stillen Gärten von Muradiye und das Karagöz-Museum. Mittags wärmt ein lokales Gericht, bevor Sie zur Zitadelle hinauffahren. Der Wagen bietet Schutz vor dem kalten Wind vom Uludağ, während Sie die grün-blauen Kacheln der Yeşil Türbe bewundern und den Tag entspannt ausklingen lassen.",
+            "hu": "A téli Bursa hangulatos utazást kínál a történelemben. Reggel meglátogatjuk a Muradiye csendes kertjeit és a Karagöz Múzeumot. Délben egy helyi étel melegít fel, mielőtt felhajtunk a citadellához. Az autó megvéd az Uludağ felől fújó hideg széltől, miközben megcsodáljuk a Yeşil Türbe kék-zöld csempéit.",
+            "ro": "Bursa iarna oferă o călătorie plăcută prin istorie. Dimineața vizitați grădinile liniștite din Muradiye și muzeul Karagöz. La prânz, un preparat local vă încălzește înainte de a urca spre cetate. Mașina oferă protecție împotriva vântului rece de pe munte în timp ce admirați plăcile verzi ale Yeşil Türbe.",
+            "en": "Winter in Bursa offers a cozy drive through centuries of history. Visit the quiet Muradiye gardens and the Karagöz Museum in the morning. A hearty local lunch warms you before driving up to the Citadel. Your car provides a warm bubble against the biting Uludağ wind as you admire the Green Tomb's tiles and wrap up the day."
+          },
+          "stops": [
+            {
+              "name": "Muradiye Complex",
+              "tip_5lang": {
+                "de": "Heizung im Auto lassen, während man die Gräber kurz besucht.",
+                "hu": "Hagyja menni a fűtést, amíg röviden meglátogatja a sírokat.",
+                "ro": "Lăsați căldura pornită în timp ce vizitați scurt mormintele.",
+                "en": "Keep the car warm while you step out for a quick visit."
+              }
+            },
+            {
+              "name": "Karagöz Museum",
+              "tip_5lang": {
+                "de": "Gut geheiztes Museum, ideal für kalte Vormittage.",
+                "hu": "Jól fűtött múzeum, ideális a hideg délelőttökre.",
+                "ro": "Muzeu bine încălzit, ideal pentru diminețile reci.",
+                "en": "Well-heated museum, ideal for chilly mornings."
+              }
+            },
+            {
+              "name": "Tophane Clock Tower & Citadel",
+              "tip_5lang": {
+                "de": "Prüfen Sie auf Glätte bei der Auffahrt zur Zitadelle.",
+                "hu": "Ellenőrizze az útviszonyokat a citadellához való felhajtáskor.",
+                "ro": "Verificați dacă drumul este alunecos la urcarea spre cetate.",
+                "en": "Check for icy conditions when driving up to the Citadel."
+              }
+            },
+            {
+              "name": "Lunch with a View",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Restaurant, um Kältebrücken zu meiden.",
+                "hu": "Parkoljon közel az étteremhez a hideg elkerülése érdekében.",
+                "ro": "Parcați aproape de restaurant pentru a evita frigul.",
+                "en": "Park close to the restaurant to minimize time in the cold."
+              }
+            },
+            {
+              "name": "Koza Han & Ulu Cami",
+              "tip_5lang": {
+                "de": "Der Fußweg vom Parkhaus ist kurz und windgeschützt.",
+                "hu": "A gyalogút a parkolóháztól rövid és szélvédett.",
+                "ro": "Drumul pe jos de la parcare este scurt și ferit de vânt.",
+                "en": "The walk from the parking garage is short and sheltered."
+              }
+            },
+            {
+              "name": "Irgandı Bridge",
+              "tip_5lang": {
+                "de": "Schöne Aussicht auf schneebedeckte Gipfel vom Auto aus.",
+                "hu": "Szép kilátás a havas csúcsokra az autóból is.",
+                "ro": "Vedere frumoasă spre vârfurile înzăpezite chiar din mașină.",
+                "en": "Great views of the snowy peaks right from your car."
+              }
+            },
+            {
+              "name": "Yeşil Türbe (Green Tomb)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem Besuch der kalten Türbe.",
+                "hu": "Használja az ülésfűtést a hideg türbe látogatása után.",
+                "ro": "Folosiți încălzirea în scaune după vizitarea turbei reci.",
+                "en": "Turn on seat heaters after visiting the unheated tomb."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind bei Fahrten Richtung Uludağ Pflicht.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Halten Sie eine Decke im Auto für längere Stopps bereit.",
+              "Die Straßen in der Altstadt können morgens überfrieren."
+            ],
+            "hu": [
+              "A téli gumi kötelező, ha az Uludağ felé autózik.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Tartson egy takarót az autóban a hosszabb megállókhoz.",
+              "Az óváros utcái reggelente lefagyhatnak."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii spre muntele Uludağ.",
+              "Verificați lichidul de parbriz rezistent la îngheț.",
+              "Țineți o pătură în mașină pentru opririle mai lungi.",
+              "Străzile din orașul vechi pot îngheța dimineața devreme."
+            ],
+            "en": [
+              "Winter tires are mandatory if driving towards Uludağ.",
+              "Check your windshield washer fluid for antifreeze.",
+              "Keep a blanket in the car for longer stops.",
+              "Old town streets can be icy in the early morning."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1117,7 +1699,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "17:59",
-      "total_km": 9.7,
+      "total_km": 5.7,
       "stop_count": 7,
       "stops": [
         {
@@ -1489,6 +2071,206 @@
           "Google Maps works well for bus route planning.",
           "Validate your card every time you board."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn durch das regnerische Bursa. Morgens bringt Sie die Metro nah an die Ulu Cami und den Koza Han. Mittags nutzen Sie die historischen Straßenbahnen, um trocken zwischen den Stadtteilen zu wechseln. Der Nachmittag im Muradiye-Komplex und im Karagöz-Museum bietet viel Zeit im Trockenen, während Sie das lokale Leben beobachten.",
+            "hu": "Busszal és villamossal az esős Bursában. Reggel a metró közel visz az Ulu Camihoz és a Koza Hanhoz. Délben a nosztalgiavillamossal szárazon közlekedhetünk a negyedek között. A délután a Muradiye-komplexumban és a Karagöz Múzeumban sok időt kínál fedett helyen, miközben megfigyelhetjük a helyi életet.",
+            "ro": "Cu autobuzul și tramvaiul prin Bursa ploioasă. Dimineața metroul vă lasă aproape de Ulu Cami și Koza Han. La prânz folosiți tramvaiele istorice pentru a schimba cartierele la adăpost. După-amiaza la complexul Muradiye și muzeul Karagöz oferă mult timp la uscat în timp ce observați viața locală.",
+            "en": "Navigate rainy Bursa via bus and tram. The morning metro ride drops you near the Grand Mosque and Koza Han. At noon, use the historic trams to hop between districts dry. The afternoon at Muradiye Complex and Karagöz Museum provides plenty of indoor time to absorb culture while watching the local rainy-day bustle."
+          },
+          "stops": [
+            {
+              "name": "Ulu Cami",
+              "tip_5lang": {
+                "de": "Metrostation Şehreküstü ist nur einen kurzen Marsch entfernt.",
+                "hu": "A Şehreküstü metróállomás csak egy rövid sétára van.",
+                "ro": "Stația de metrou Şehreküstü este la doar o scurtă plimbare.",
+                "en": "Şehreküstü metro station is just a short walk away."
+              }
+            },
+            {
+              "name": "Koza Han",
+              "tip_5lang": {
+                "de": "Idealer Ort, um auf den nächsten Bus oder die Bahn zu warten.",
+                "hu": "Ideális hely, hogy megvárjuk a következő buszt vagy villamost.",
+                "ro": "Loc ideal pentru a aștepta următorul autobuz sau tramvai.",
+                "en": "Ideal place to wait out a heavy downpour before your next ride."
+              }
+            },
+            {
+              "name": "Irgandı Bridge",
+              "tip_5lang": {
+                "de": "Buslinie 6/E hält in der Nähe der Brücke.",
+                "hu": "A 6/E buszjárat megáll a híd közelében.",
+                "ro": "Linia de autobuz 6/E oprește în apropierea podului.",
+                "en": "Bus line 6/E stops conveniently near the bridge."
+              }
+            },
+            {
+              "name": "Yeşil Türbe & Mosque",
+              "tip_5lang": {
+                "de": "Nutzen Sie die historische Straßenbahn (T3) für den Weg hierher.",
+                "hu": "Használja a nosztalgiavillamost (T3) az idejutáshoz.",
+                "ro": "Folosiți tramvaiul istoric (T3) pentru a ajunge aici.",
+                "en": "Use the nostalgic tram (T3) to get here comfortably."
+              }
+            },
+            {
+              "name": "Muradiye Complex",
+              "tip_5lang": {
+                "de": "Busse zum Zentrum fahren häufig direkt vor dem Komplex ab.",
+                "hu": "A központba tartó buszok gyakran indulnak a komplexum elől.",
+                "ro": "Autobuzele spre centru pleacă frecvent din fața complexului.",
+                "en": "Buses to the center depart frequently from right outside."
+              }
+            },
+            {
+              "name": "Karagöz Museum",
+              "tip_5lang": {
+                "de": "Überdachte Bushaltestellen in der Nähe vorhanden.",
+                "hu": "Fedett buszmegállók találhatók a közelben.",
+                "ro": "Stații de autobuz acoperite disponibile în apropiere.",
+                "en": "Covered bus stops are available nearby."
+              }
+            },
+            {
+              "name": "Tophane Park",
+              "tip_5lang": {
+                "de": "Der Aufstieg von der Metrostation ist steil, nehmen Sie den Bus.",
+                "hu": "A metrótól meredek az út, válassza inkább a buszt.",
+                "ro": "Urcarea de la metrou este abruptă, luați autobuzul.",
+                "en": "The climb from the metro is steep; take a bus instead."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie eine BursaKart an Metrostationen für einfaches Umsteigen.",
+              "Die Metro (Bursaray) ist das zuverlässigste Mittel bei Regen.",
+              "Halten Sie Kleingeld für die historischen Straßenbahnen bereit.",
+              "Überdachte Haltestellen sind rar; Schirm immer griffbereit halten."
+            ],
+            "hu": [
+              "Vásároljon BursaKart-ot a metróállomásokon a könnyű átszálláshoz.",
+              "A metró (Bursaray) a legmegbízhatóbb közlekedési eszköz esőben.",
+              "Legyen Önnél aprópénz a nosztalgiavillamosokra.",
+              "A fedett megállók ritkák, az esernyő legyen mindig kéznél."
+            ],
+            "ro": [
+              "Cumpărați un BursaKart de la stațiile de metrou pentru transferuri ușoare.",
+              "Metroul (Bursaray) este cel mai de încredere mijloc pe ploaie.",
+              "Aveți mărunt pentru tramvaiele istorice.",
+              "Stațiile acoperite sunt rare; țineți umbrela la îndemână."
+            ],
+            "en": [
+              "Buy a BursaKart at metro stations for easy transfers.",
+              "The metro (Bursaray) is the most reliable way to travel in rain.",
+              "Keep small change ready for the nostalgic trams.",
+              "Covered stops are rare; keep your umbrella handy while waiting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Entdeckungen in Bursa mit den öffentlichen Verkehrsmitteln. Morgens bringt Sie die Metro in die warme Atmosphäre der Ulu Cami. Mittags bieten die Busse eine Pause vom kalten Wind, während Sie zur Yeşil Türbe fahren. Der Tag endet im Muradiye-Komplex, von wo aus Sie bequem mit dem Bus zurückfahren können, während draußen der frühe Winterabend einkehrt.",
+            "hu": "Téli felfedezések Bursában tömegközlekedéssel. Reggel a metró az Ulu Cami meleg atmoszférájába repít. Délben a buszok pihenőt nyújtanak a hideg szél elől, miközben a Yeşil Türbe felé tartunk. A nap a Muradiye-komplexumnál zárul, ahonnan kényelmesen visszabuszozhatunk a korai téli estén.",
+            "ro": "Explorări de iarnă în Bursa cu transportul public. Dimineața metroul vă duce în atmosfera caldă din Ulu Cami. La prânz, autobuzele oferă o pauză de la vântul rece în timp ce mergeți spre Yeşil Türbe. Ziua se încheie la complexul Muradiye, de unde vă puteți întoarce comod cu autobuzul.",
+            "en": "Explore winter Bursa via its efficient transit network. Start your morning with a warm metro ride to the Grand Mosque. At noon, buses provide a cozy escape from the wind as you head to the Green Tomb. Finish your day at the Muradiye Complex, then enjoy a heated bus ride back as the early winter night falls over the city."
+          },
+          "stops": [
+            {
+              "name": "Ulu Cami",
+              "tip_5lang": {
+                "de": "Die Metrostation ist ein guter Ort zum Aufwärmen.",
+                "hu": "A metróállomás jó hely a felmelegedésre.",
+                "ro": "Stația de metrou este un loc bun pentru a vă încălzi.",
+                "en": "The metro station is a good place to warm up."
+              }
+            },
+            {
+              "name": "Koza Han",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme der kleinen Läden im Inneren.",
+                "hu": "Élvezze a benti kis üzletek melegét.",
+                "ro": "Bucurați-vă de căldura micilor magazine din interior.",
+                "en": "Enjoy the warmth inside the small shops."
+              }
+            },
+            {
+              "name": "Irgandı Bridge",
+              "tip_5lang": {
+                "de": "Haltestelle direkt an der Hauptstraße, wenig Fußweg.",
+                "hu": "Megálló közvetlenül a főúton, kevés gyaloglással.",
+                "ro": "Stație chiar la drumul principal, drum scurt pe jos.",
+                "en": "Bus stop is right on the main road, minimizing time in the cold."
+              }
+            },
+            {
+              "name": "Yeşil Türbe & Mosque",
+              "tip_5lang": {
+                "de": "Busse in Richtung Osten halten fast vor der Tür.",
+                "hu": "A kelet felé tartó buszok szinte az ajtó előtt állnak meg.",
+                "ro": "Autobuzele spre est opresc aproape în fața porții.",
+                "en": "Eastbound buses stop almost right in front of the entrance."
+              }
+            },
+            {
+              "name": "Muradiye Complex",
+              "tip_5lang": {
+                "de": "Fahrplan-App nutzen, um Wartezeiten im Freien zu minimieren.",
+                "hu": "Használja a menetrend alkalmazást a kinti várakozás csökkentésére.",
+                "ro": "Folosiți aplicația cu orarul pentru a minimiza așteptarea afară.",
+                "en": "Check the schedule app to minimize waiting time outdoors."
+              }
+            },
+            {
+              "name": "Karagöz Museum",
+              "tip_5lang": {
+                "de": "Häufige Busverbindungen zurück zum Hauptplatz.",
+                "hu": "Gyakori buszjáratok indulnak vissza a főtérre.",
+                "ro": "Legături frecvente de autobuz înapoi spre piața centrală.",
+                "en": "Frequent bus connections back to the main square."
+              }
+            },
+            {
+              "name": "Tophane Park",
+              "tip_5lang": {
+                "de": "Letzter Stopp vor Sonnenuntergang, Busse fahren bis spät.",
+                "hu": "Utolsó állomás naplemente előtt, a buszok későig járnak.",
+                "ro": "Ultima oprire înainte de apus, autobuzele circulă până târziu.",
+                "en": "Last stop before sunset; buses run until late."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Metrostationen sind im Winter windgeschützt.",
+              "Nutzen Sie die App 'Bursa Mobile' für Echtzeit-Abfahrten.",
+              "Die historische T3-Bahn ist im Winter oft weniger überfüllt.",
+              "Abends sind die Busse gut geheizt, ideal für den Rückweg."
+            ],
+            "hu": [
+              "A metróállomások télen szélvédettek.",
+              "Használja a 'Bursa Mobile' alkalmazást a valós idejű indulásokhoz.",
+              "A T3 nosztalgiavillamos télen gyakran kevésbé zsúfolt.",
+              "Este a buszok jól fűtöttek, ideálisak a visszútra."
+            ],
+            "ro": [
+              "Stațiile de metrou sunt ferite de vânt iarna.",
+              "Folosiți aplicația 'Bursa Mobile' pentru plecări în timp real.",
+              "Tramvaiul istoric T3 este adesea mai puțin aglomerat iarna.",
+              "Seara autobuzele sunt bine încălzite, ideale pentru drumul de întoarcere."
+            ],
+            "en": [
+              "Metro stations are well-sheltered from the winter wind.",
+              "Use the 'Bursa Mobile' app for real-time departure info.",
+              "The T3 nostalgic tram is often less crowded in winter.",
+              "Buses are well-heated in the evening, perfect for the ride back."
+            ]
+          }
+        }
       }
     }
   }

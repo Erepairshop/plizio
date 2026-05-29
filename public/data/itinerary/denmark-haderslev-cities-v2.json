@@ -306,6 +306,188 @@
           "Many cafes offer 'hygge' and are perfect for a coffee break.",
           "Check the opening hours of the churches, as they may be closed for services."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Von Oberberg Haus, wo die dicken Mauern Schutz vor dem dänischen Regen bieten. Mittags dient der majestätische Dom als trockener Zufluchtsort für Besinnung. Der Nachmittag gehört der Ehlers-Sammlung, deren Keramikschätze man in Ruhe drinnen bewundern kann. Trotz des Regens bietet der Dampark auf befestigten Wegen eine mystische Atmosphäre am Wasser, bevor der Tag im Kløften Park endet.",
+            "hu": "Kezdje a napot a Von Oberberg háznál, ahol a történelmi falak között menedéket talál az eső elől. Délben a dóm hatalmas belső tere kínál száraz és békés környezetet. A délutánt töltse az Ehlers-gyűjtemény fedett termeiben, megcsodálva a kerámiákat. A Dampark tavai körül a szitáló esőben is kellemes a séta az aszfaltozott utakon, a napot pedig a Kløften Park fái között zárhatja.",
+            "ro": "Începeți ziua la Casa Von Oberberg, unde zidurile istorice oferă adăpost împotriva ploii daneze. La prânz, catedrala maiestuoasă servește ca refugiu uscat pentru reflecție. După-amiaza este dedicată Colecției Ehlers, unde puteți admira comorile de ceramică la interior. În ciuda ploii, Dampark oferă o atmosferă mistică pe malul apei pe poteci pavate, înainte de a încheia ziua în Parcul Kløften.",
+            "en": "Start the day at Von Oberberg's House, where historic walls provide shelter from the Danish rain. At noon, the majestic cathedral serves as a dry sanctuary for reflection. The afternoon belongs to the Ehlers Collection, where ceramic treasures can be admired indoors. Despite the rain, Dampark offers a mystical atmosphere by the water on paved paths, before ending the day in Kløften Park."
+          },
+          "stops": [
+            {
+              "name": "Von Oberberg's House",
+              "tip_5lang": {
+                "de": "Besichtigen Sie zuerst das Interieur, um dem ersten Regenschauer zu entgehen.",
+                "hu": "Érdemes belül kezdeni a látogatást, hogy elkerülje az első reggeli záport.",
+                "ro": "Vizitați interiorul mai întâi pentru a evita prima ploaie de dimineață.",
+                "en": "Visit the interior first to escape the first morning rain shower."
+              }
+            },
+            {
+              "name": "Haderslev Cathedral",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um eine längere Regenpause im Trockenen einzulegen.",
+                "hu": "Tökéletes helyszín egy hosszabb esőszünet kivárására a szárazon.",
+                "ro": "Un loc perfect pentru a aștepta oprirea ploii într-un cadru uscat.",
+                "en": "A perfect place to wait out a long rain break in the dry."
+              }
+            },
+            {
+              "name": "The Ehlers Collection",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre nassen Mäntel vor dem Rundgang.",
+                "hu": "Használja a ruhatárat a vizes kabátoknak a körséta megkezdése előtt.",
+                "ro": "Folosiți garderoba pentru hainele umede înainte de a începe turul.",
+                "en": "Use the cloakroom for your wet coats before starting the tour."
+              }
+            },
+            {
+              "name": "Hertug Hans Church",
+              "tip_5lang": {
+                "de": "Kleine, feine Kirche, ideal für einen kurzen Zwischenstopp im Trockenen.",
+                "hu": "Kicsi, meghitt templom, ideális egy rövid, száraz pihenőre.",
+                "ro": "Biserică mică și primitoare, ideală pentru o scurtă oprire la uscat.",
+                "en": "Small, cozy church, ideal for a short dry stop."
+              }
+            },
+            {
+              "name": "Haderslev Dampark",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon az aszfaltozott utakon, hogy elkerülje a sarat a tó körül.",
+                "ro": "Rămâneți pe potecile asfaltate pentru a evita noroiul din jurul lacului.",
+                "en": "Stay on the paved paths to avoid mud around the lake."
+              }
+            },
+            {
+              "name": "Kløften Park",
+              "tip_5lang": {
+                "de": "Die dichten Bäume bieten natürlichen Schutz bei leichtem Nieselregen.",
+                "hu": "A sűrű lombozat természetes védelmet nyújt enyhe szitálás esetén.",
+                "ro": "Copacii deși oferă protecție naturală în caz de burniță ușoară.",
+                "en": "The dense trees provide natural protection during light drizzle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Kopfsteinpflaster in der Altstadt rutschig sein können.",
+              "Ein stabiler Regenschirm ist wegen der oft starken Winde vom Fjord her notwendig.",
+              "Kombinieren Sie die Museumsbesuche so, dass Sie während der stärksten Schauer drinnen sind.",
+              "Die Cafés rund um den Markt bieten gemütliche Plätze zum Aufwärmen und Trocknen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óváros macskakövei esőben csúszósak lehetnek.",
+              "Erős vázú esernyőre lesz szüksége a fjord felől érkező gyakori szél miatt.",
+              "Időzítse a múzeumlátogatásokat a legintenzívebb záporok idejére.",
+              "A főtér körüli kávézók barátságos menedéket nyújtanak a száradáshoz."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pavajul din orașul vechi poate fi alunecos.",
+              "O umbrelă rezistentă este necesară din cauza vânturilor puternice dinspre fiord.",
+              "Planificați vizitele la muzee astfel încât să fiți în interior în timpul ploilor torențiale.",
+              "Cafenelele din jurul pieței oferă locuri primitoare pentru a vă încălzi și usca."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones in the old town can be slippery in the rain.",
+              "A sturdy umbrella is necessary due to the frequent strong winds from the fjord.",
+              "Time your museum visits so that you are indoors during the heaviest showers.",
+              "The cafes around the market square offer cozy places to warm up and dry off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Haderslev, beginnend beim Von Oberberg Haus, das in der Kälte besonders urig wirkt. Der Dom bietet mittags einen Ort der Stille und Wärme. Nachmittags wärmen Sie sich in der Ehlers-Sammlung auf, bevor Sie die klare Winterluft im Dampark genießen. Da es früh dunkel wird, sorgt die Beleuchtung im Kløften Park für eine fast magische Stimmung zum Tagesabschluss.",
+            "hu": "Fedezze fel a téli Haderslevet, kezdve a Von Oberberg házzal, amely a hidegben különösen hangulatos. A dóm délben a csend és a meleg szigete. Délután melegedjen fel az Ehlers-gyűjteményben, majd élvezze a friss téli levegőt a Damparkban. Mivel korán sötétedik, a Kløften Park fényei varázslatos hangulatot teremtenek a nap végére.",
+            "ro": "Descoperiți Haderslevul de iarnă, începând de la Casa Von Oberberg, care arată deosebit de pitoresc în frig. Catedrala oferă la prânz un loc de liniște și căldură. După-amiaza, încălziți-vă la Colecția Ehlers înainte de a vă bucura de aerul curat de iarnă în Dampark. Deoarece se întunecă devreme, iluminatul din Parcul Kløften creează o atmosferă magică la finalul zilei.",
+            "en": "Experience winter in Haderslev, starting at Von Oberberg's House, which looks particularly quaint in the cold. At noon, the cathedral offers a place of silence and warmth. In the afternoon, warm up at the Ehlers Collection before enjoying the crisp winter air in Dampark. As it gets dark early, the lighting in Kløften Park creates an almost magical atmosphere to end the day."
+          },
+          "stops": [
+            {
+              "name": "Von Oberberg's House",
+              "tip_5lang": {
+                "de": "Bewundern Sie das Fachwerk, das bei Frost besonders filigran wirkt.",
+                "hu": "Csodálja meg a favázas szerkezetet, amely zúzmarás időben különösen szép.",
+                "ro": "Admirați structura de lemn, care arată spectaculos când este acoperită de chiciură.",
+                "en": "Admire the half-timbered structure, which looks particularly delicate in the frost."
+              }
+            },
+            {
+              "name": "Haderslev Cathedral",
+              "tip_5lang": {
+                "de": "Die Kerzenlichter im Inneren erzeugen eine besonders warme Winteratmosphäre.",
+                "hu": "A belső gyertyafények különlegesen meleg téli hangulatot árasztanak.",
+                "ro": "Luminile lumânărilor din interior creează o atmosferă de iarnă foarte caldă.",
+                "en": "The candlelight inside creates a particularly warm winter atmosphere."
+              }
+            },
+            {
+              "name": "The Ehlers Collection",
+              "tip_5lang": {
+                "de": "Idealer Ort, um sich für eine Stunde in geheizten Räumen aufzuwärmen.",
+                "hu": "Ideális helyszín, hogy egy órára felmelegedjen a fűtött termekben.",
+                "ro": "Locul ideal pentru a vă încălzi timp de o oră în încăperi încălzite.",
+                "en": "Ideal place to warm up for an hour in heated rooms."
+              }
+            },
+            {
+              "name": "Hertug Hans Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf die vereisten Stufen am Kircheneingang.",
+                "hu": "Ügyeljen a templom bejáratánál lévő jeges lépcsőfokokra.",
+                "ro": "Aveți grijă la treptele înghețate de la intrarea în biserică.",
+                "en": "Watch out for icy steps at the church entrance."
+              }
+            },
+            {
+              "name": "Haderslev Dampark",
+              "tip_5lang": {
+                "de": "Der Wind vom See ist im Winter schneidend kalt; warm einpacken.",
+                "hu": "A tó felőli szél télen metszően hideg lehet, öltözzön rétegesen.",
+                "ro": "Vântul de pe lac este tăios de rece iarna; îmbrăcați-vă bine.",
+                "en": "The wind from the lake is biting cold in winter; wrap up warm."
+              }
+            },
+            {
+              "name": "Kløften Park",
+              "tip_5lang": {
+                "de": "Bei Schnee verwandelt sich der Park in eine wunderschöne Winterlandschaft.",
+                "hu": "Hóesésben a park gyönyörű téli mesevilággá változik.",
+                "ro": "În caz de zăpadă, parcul se transformă într-un peisaj de iarnă superb.",
+                "en": "In the snow, the park transforms into a beautiful winter landscape."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In Dänemark wird es im Dezember bereits gegen 16:00 Uhr dunkel.",
+              "Trinken Sie zwischendurch einen heißen Glögg in den gemütlichen Cafés am Torvet.",
+              "Warme, winddichte Kleidung ist für die Wege am Seeufer unerlässlich.",
+              "Prüfen Sie die Winteröffnungszeiten der Museen, die oft kürzer sein können."
+            ],
+            "hu": [
+              "Dániában decemberben már délután 4 óra körül sötétedni kezd.",
+              "Igyon egy forró dán Glögg-öt a Torvet téren található hangulatos kávézókban.",
+              "A tóparti szakaszokon elengedhetetlen a meleg, szélálló ruházat.",
+              "Ellenőrizze a múzeumok téli nyitvatartását, mert gyakran rövidebbek."
+            ],
+            "ro": [
+              "În Danemarca, în luna decembrie se întunecă deja în jurul orei 16:00.",
+              "Savurați un Glögg fierbinte în cafenelele primitoare din piața Torvet.",
+              "Îmbrăcămintea călduroasă și rezistentă la vânt este esențială pentru malul lacului.",
+              "Verificați programul de iarnă al muzeelor, care poate fi mai scurt."
+            ],
+            "en": [
+              "In Denmark, it starts getting dark as early as 4:00 PM in December.",
+              "Enjoy a hot Danish Glögg in the cozy cafes on Torvet square.",
+              "Warm, windproof clothing is essential for the lakeside paths.",
+              "Check the winter opening hours of museums, as they are often shorter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -606,6 +788,188 @@
           "Bring a water bottle and snacks, especially for the ride to Dyrehave.",
           "Many cycle paths are well-maintained and separate from car traffic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Haderslev bei Regen erfordert gute Ausrüstung. Morgens besuchen wir den Dom und den Streetdome, wobei die überdachten Bereiche des Skateparks Schutz bieten. Mittags kehren wir in der Hertug Hans Kirche ein. Nachmittags radeln wir am Dampark entlang zur Ehlers-Sammlung. Den Abschluss bildet der Deer Park, wo die Hirsche unter den nassen Bäumen Schutz suchen.",
+            "hu": "Egy esős bringatúra Haderslevben jó felszerelést igényel. Reggel a dómot és a Streetdome-ot látogatjuk meg, ahol a fedett részek védelmet nyújtanak. Délben a Hertug Hans templom felé vesszük az irányt. Délután a Dampark mellett pedálozunk az Ehlers-gyűjteményhez. A nap a Vadasparkban zárul, ahol a szarvasok a vizes fák alatt hűsölnek.",
+            "ro": "O tură cu bicicleta prin Haderslev pe ploaie necesită echipament bun. Dimineața vizităm catedrala și Streetdome, unde zonele acoperite oferă adăpost. La prânz ne oprim la Biserica Hertug Hans. După-amiaza pedalăm pe lângă Dampark către Colecția Ehlers. Finalul este la Deer Park, unde cerbii caută adăpost sub copacii uzi.",
+            "en": "A bike tour through Haderslev in the rain requires good gear. In the morning, we visit the cathedral and the Streetdome, where the covered areas provide shelter. At noon, we stop at Hertug Hans Church. In the afternoon, we cycle along Dampark to the Ehlers Collection. The day ends at the Deer Park, where the deer seek shelter under the wet trees."
+          },
+          "stops": [
+            {
+              "name": "Haderslev Cathedral",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an den überdachten Ständern in der Nähe.",
+                "hu": "Használja a közeli fedett tárolókat a kerékpár leállításához.",
+                "ro": "Folosiți suporturile de biciclete acoperite din apropiere.",
+                "en": "Use the covered bike racks nearby to park your bike."
+              }
+            },
+            {
+              "name": "Streetdome",
+              "tip_5lang": {
+                "de": "Die riesige Kuppel bietet perfekten Schutz für eine trockene Pause.",
+                "hu": "Az óriási kupola tökéletes védelmet nyújt egy száraz pihenőhöz.",
+                "ro": "Cupola uriașă oferă protecție perfectă pentru o pauză uscată.",
+                "en": "The huge dome provides perfect protection for a dry break."
+              }
+            },
+            {
+              "name": "Hertug Hans Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf den nassen Pflastersteinen davor.",
+                "hu": "Vigyázzon a leszálláskor a templom előtti vizes macskaköveken.",
+                "ro": "Atenție la coborârea de pe bicicletă pe pavajul umed din față.",
+                "en": "Be careful when dismounting on the wet cobblestones in front."
+              }
+            },
+            {
+              "name": "Haderslev Dampark",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam; die Wege können bei Regen rutschig sein.",
+                "hu": "Hajtson lassan, az utak esőben csúszósak lehetnek.",
+                "ro": "Conduceți încet; potecile pot fi alunecoase pe ploaie.",
+                "en": "Ride slowly; the paths can be slippery in the rain."
+              }
+            },
+            {
+              "name": "The Ehlers Collection",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Satteltaschen wasserdicht sind.",
+                "hu": "Győződjön meg róla, hogy a kerékpáros táskái teljesen vízállóak.",
+                "ro": "Asigurați-vă că gențile de bicicletă sunt impermeabile.",
+                "en": "Make sure your panniers are completely waterproof."
+              }
+            },
+            {
+              "name": "Haderslev Deer Park",
+              "tip_5lang": {
+                "de": "Die Waldwege können matschig sein; Schutzbleche sind ein Muss.",
+                "hu": "Az erdei utak sárosak lehetnek, a sárvédő használata kötelező.",
+                "ro": "Potecile din pădure pot fi noroioase; aripile sunt esențiale.",
+                "en": "The forest paths can be muddy; fenders are a must."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie scharfe Bremsmanöver auf nassem Laub und Kopfsteinpflaster.",
+              "Tragen Sie eine auffällige Regenjacke, um bei schlechter Sicht gesehen zu werden.",
+              "Prüfen Sie vor der Fahrt den Reifendruck für besseren Grip auf nasser Fahrbahn.",
+              "Nutzen Sie die kurzen Wege zwischen den Sehenswürdigkeiten im Stadtkern."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a vizes leveleken és a macskaköveken.",
+              "Viseljen feltűnő esőkabátot, hogy a rossz látási viszonyok közt is észrevegyék.",
+              "Ellenőrizze a guminyomást a jobb tapadás érdekében a vizes aszfalton.",
+              "Használja ki a belvárosi látnivalók közötti rövid távolságokat."
+            ],
+            "ro": [
+              "Evitați frânările bruște pe frunzele umede și pe pavaj.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru a fi vizibil pe vizibilitate redusă.",
+              "Verificați presiunea anvelopelor pentru o aderență mai bună pe drum umed.",
+              "Profitați de distanțele scurte între obiectivele din centrul orașului."
+            ],
+            "en": [
+              "Avoid sudden braking on wet leaves and cobblestones.",
+              "Wear a high-visibility raincoat to be seen in poor visibility.",
+              "Check your tire pressure for better grip on wet roads.",
+              "Take advantage of the short distances between sights in the city center."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Haderslev ist erfrischend. Morgens führt der Weg zum Dom und zum Streetdome, wo die Kälte in der Halle weniger spürbar ist. Mittags besuchen wir die Hertug Hans Kirche. Der Nachmittag am gefrorenen Dampark ist malerisch, gefolgt von einem Besuch der Ehlers-Sammlung. Zum Sonnenuntergang radeln wir zum Deer Park, um die Tiere im Winterlicht zu sehen.",
+            "hu": "A téli bringázás Haderslevben frissítő élmény. Reggel a dómhoz és a Streetdome-hoz tekerünk, ahol a csarnokban kevésbé érezni a hideget. Délben a Hertug Hans templomot keressük fel. A délután a befagyott Dampark mellett festői, majd az Ehlers-gyűjtemény következik. Naplementekor a Vadasparkba tekerünk, hogy lássuk az állatokat a téli fényben.",
+            "ro": "Ciclismul de iarnă în Haderslev este revigorant. Dimineața, drumul duce la catedrală și Streetdome, unde frigul este mai puțin resimțit în hală. La prânz vizităm Biserica Hertug Hans. După-amiaza la Dampark-ul înghețat este pitorească, urmată de Colecția Ehlers. La apus pedalăm către Deer Park pentru a vedea animalele în lumina iernii.",
+            "en": "Winter cycling in Haderslev is refreshing. In the morning, the path leads to the cathedral and the Streetdome, where the cold is less noticeable in the hall. At noon, we visit Hertug Hans Church. The afternoon by the frozen Dampark is picturesque, followed by a visit to the Ehlers Collection. At sunset, we cycle to the Deer Park to see the animals in the winter light."
+          },
+          "stops": [
+            {
+              "name": "Haderslev Cathedral",
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre Handschuhe beim Betreten der Kirche an.",
+                "hu": "Hagyja magán a kesztyűt a templomba való belépéskor is.",
+                "ro": "Nu vă scoateți mănușile când intrați în biserică.",
+                "en": "Keep your gloves on when entering the church."
+              }
+            },
+            {
+              "name": "Streetdome",
+              "tip_5lang": {
+                "de": "Die Betonflächen können im Winter sehr rutschig und hart sein.",
+                "hu": "A betonfelületek télen nagyon csúszósak és kemények lehetnek.",
+                "ro": "Suprafețele de beton pot fi foarte alunecoase și dure iarna.",
+                "en": "The concrete surfaces can be very slippery and hard in winter."
+              }
+            },
+            {
+              "name": "Hertug Hans Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenes Wasser auf den Wegen zum Eingang.",
+                "hu": "Ügyeljen a bejárat felé vezető utakon megfagyott vízfoltokra.",
+                "ro": "Atenție la gheața formată pe drumurile către intrare.",
+                "en": "Watch out for frozen water patches on the paths to the entrance."
+              }
+            },
+            {
+              "name": "Haderslev Dampark",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den oft gefrorenen See beim Fahren.",
+                "hu": "Élvezze a befagyott tó látványát tekerés közben.",
+                "ro": "Bucurați-vă de vederea lacului adesea înghețat în timp ce pedalați.",
+                "en": "Enjoy the view of the often frozen lake while riding."
+              }
+            },
+            {
+              "name": "The Ehlers Collection",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände an einem heißen Getränk im Museumscafé.",
+                "hu": "Melegítse fel a kezeit egy forró itallal a múzeum kávézójában.",
+                "ro": "Încălziți-vă mâinile cu o băutură caldă la cafeneaua muzeului.",
+                "en": "Warm your hands with a hot drink at the museum cafe."
+              }
+            },
+            {
+              "name": "Haderslev Deer Park",
+              "tip_5lang": {
+                "de": "Fahren Sie vor 16 Uhr zurück, da es im Wald schnell dunkel wird.",
+                "hu": "Tekerjen vissza délután 4 előtt, mert az erdőben gyorsan sötétedik.",
+                "ro": "Întoarceți-vă înainte de ora 16:00, deoarece în pădure se întunecă repede.",
+                "en": "Ride back before 4 PM, as it gets dark quickly in the forest."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Winterreifen mit Spikes, wenn Schnee oder Eis liegen.",
+              "Vermeiden Sie es, bei extremer Kälte zu lange Pausen im Freien zu machen.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung voll aufgeladen ist.",
+              "Warme Schuhüberzieher schützen vor dem kalten Fahrtwind."
+            ],
+            "hu": [
+              "Használjon téli gumit, ha hó vagy jég van az utakon.",
+              "Kerülje a túl hosszú szabadtéri pihenőket extrém hidegben.",
+              "Győződjön meg róla, hogy a kerékpár lámpái teljesen fel vannak töltve.",
+              "A meleg kamásli megvédi a lábát a hideg menetszéltől."
+            ],
+            "ro": [
+              "Folosiți anvelope de iarnă dacă este zăpadă sau gheață pe drum.",
+              "Evitați pauzele prea lungi în aer liber în caz de frig extrem.",
+              "Asigurați-vă că luminile bicicletei sunt complet încărcate.",
+              "Husele călduroase pentru încălțăminte protejează împotriva vântului rece."
+            ],
+            "en": [
+              "Use winter tires if there is snow or ice on the roads.",
+              "Avoid taking too long breaks outdoors in extreme cold.",
+              "Make sure your bike lights are fully charged.",
+              "Warm shoe covers protect against the cold wind while riding."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -930,6 +1294,206 @@
           "Be aware that parking in the city center can be paid.",
           "Plan your drives between clusters outside of rush hours to avoid traffic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Haderslev auch bei starkem Regen komfortabel erkunden. Morgens besuchen wir den Deer Park, wobei das Auto als trockene Basis dient. Danach geht es zum Dom und zum Von Oberberg Haus im Stadtkern. Mittags bietet die Ehlers-Sammlung ein ausgiebiges Kulturprogramm. Den Nachmittag verbringen wir im Streetdome und den Parks, wobei man sich jederzeit ins warme Auto zurückziehen kann.",
+            "hu": "Autóval Haderslev még heves esőzésben is kényelmesen felfedezhető. Reggel a Vadasparkot látogatjuk meg, ahol az autó száraz bázisként szolgál. Ezután a dóm és a Von Oberberg ház következik a belvárosban. Délben az Ehlers-gyűjtemény kínál tartalmas kulturális programot. A délutánt a Streetdome-ban és a parkokban töltjük, bármikor visszahúzódva a meleg autóba.",
+            "ro": "Cu mașina, Haderslev poate fi explorat confortabil chiar și pe ploaie abundentă. Dimineața vizităm Deer Park, mașina servind ca bază uscată. Apoi mergem la catedrală și la Casa Von Oberberg în centrul orașului. La prânz, Colecția Ehlers oferă un program cultural bogat. După-amiaza o petrecem la Streetdome și în parcuri, putând reveni oricând în mașina caldă.",
+            "en": "By car, Haderslev can be explored comfortably even in heavy rain. In the morning, we visit the Deer Park, with the car serving as a dry base. Then we head to the cathedral and Von Oberberg's House in the city center. At noon, the Ehlers Collection offers an extensive cultural program. We spend the afternoon at the Streetdome and the parks, with the option to retreat to the warm car at any time."
+          },
+          "stops": [
+            {
+              "name": "Haderslev Deer Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Parkplätzen, um nicht im Schlamm stecken zu bleiben.",
+                "hu": "Maradjon a kijelölt parkolóhelyeken, hogy ne ragadjon el a sárban.",
+                "ro": "Rămâneți în parcările amenajate pentru a nu rămâne blocat în noroi.",
+                "en": "Stay in the designated parking areas to avoid getting stuck in the mud."
+              }
+            },
+            {
+              "name": "Haderslev Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus in der Nähe, um trockenen Fußes zum Dom zu gelangen.",
+                "hu": "Használja a közeli parkolóházat, hogy száraz lábbal érje el a dómot.",
+                "ro": "Folosiți parcarea acoperită din apropiere pentru a ajunge uscat la catedrală.",
+                "en": "Use the nearby parking garage to reach the cathedral with dry feet."
+              }
+            },
+            {
+              "name": "Von Oberberg's House",
+              "tip_5lang": {
+                "de": "Kurze Parkdauer direkt davor möglich; ideal bei Regen.",
+                "hu": "Rövid távú parkolás közvetlenül előtte is lehetséges; ideális esőben.",
+                "ro": "Parcare pe termen scurt posibilă chiar în față; ideal pe ploaie.",
+                "en": "Short-term parking possible right in front; ideal in the rain."
+              }
+            },
+            {
+              "name": "The Ehlers Collection",
+              "tip_5lang": {
+                "de": "Lassen Sie Schirme im Auto, um sie nicht im Museum tragen zu müssen.",
+                "hu": "Hagyja az esernyőket az autóban, hogy ne kelljen a múzeumban cipelni.",
+                "ro": "Lăsați umbrelele în mașină pentru a nu le purta în muzeu.",
+                "en": "Leave umbrellas in the car so you don't have to carry them in the museum."
+              }
+            },
+            {
+              "name": "Streetdome",
+              "tip_5lang": {
+                "de": "Direkter Parkplatz am Hafen erleichtert den Zugang bei Schauern.",
+                "hu": "A kikötői parkoló megkönnyíti a bejutást a záporok alatt.",
+                "ro": "Parcarea directă din port facilitează accesul în timpul ploilor.",
+                "en": "Direct parking at the harbor facilitates access during showers."
+              }
+            },
+            {
+              "name": "Kløften Park",
+              "tip_5lang": {
+                "de": "Parken Sie am Rand und machen Sie nur kurze Gänge bei Regenpausen.",
+                "hu": "Parkoljon a szélen, és csak az esőszünetekben tegyen rövid sétát.",
+                "ro": "Parcați la margine și faceți doar plimbări scurte în pauzele de ploaie.",
+                "en": "Park at the edge and only take short walks during rain breaks."
+              }
+            },
+            {
+              "name": "Haderslev Dampark",
+              "tip_5lang": {
+                "de": "Viele Parkmöglichkeiten entlang des Parks für schnellen Schutz.",
+                "hu": "Számos parkolási lehetőség a park mentén a gyors menedékért.",
+                "ro": "Multe posibilități de parcare de-a lungul parcului pentru adăpost rapid.",
+                "en": "Many parking options along the park for quick shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Landstraßen rund um Haderslev.",
+              "Nutzen Sie die Park-Apps, um das Bezahlen im Regen zu vermeiden.",
+              "Halten Sie ein Tuch bereit, um beschlagene Scheiben schnell zu reinigen.",
+              "Die Entfernungen im Zentrum sind kurz, nutzen Sie zentrale Parkplätze."
+            ],
+            "hu": [
+              "Ügyeljen a vízátfolyásokra a Haderslev körüli országutakon.",
+              "Használjon parkolási applikációt, hogy ne kelljen az esőben automatánál fizetni.",
+              "Tartson kéznél törlőkendőt a bepárásodott szélvédők gyors tisztításához.",
+              "A belvárosi távolságok kicsik, használja a központi parkolókat."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile din jurul orașului Haderslev.",
+              "Folosiți aplicațiile de parcare pentru a evita plata la automat pe ploaie.",
+              "Aveți la îndemână o lavetă pentru a curăța rapid geamurile aburite.",
+              "Distanțele în centru sunt scurte, folosiți parcările centrale."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the rural roads around Haderslev.",
+              "Use parking apps to avoid paying at the machine in the rain.",
+              "Keep a cloth handy to quickly clean fogged-up windows.",
+              "Distances in the center are short; use central parking lots."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Haderslev im Winter ist mit dem Auto sicher und warm zu erleben. Morgens besuchen wir den verschneiten Deer Park, ein Highlight der Tour. Danach geht es zum Dom und zum Von Oberberg Haus, die im Winterlicht glänzen. Mittags wärmen wir uns in der Ehlers-Sammlung auf. Den Nachmittag verbringen wir am Streetdome und in den Parks, bevor die frühe Dämmerung die Stadt in ein Lichtermeer verwandelt.",
+            "hu": "A téli Haderslev autóval biztonságosan és melegen járható be. Reggel a havas Vadasparkot látogatjuk meg, ami a túra egyik fénypontja. Ezután a dóm és a Von Oberberg ház következik, amelyek ragyognak a téli fényben. Délben az Ehlers-gyűjteményben melegedünk fel. A délutánt a Streetdome-nál és a parkokban töltjük, mielőtt a korai sötétedés fényárba borítja a várost.",
+            "ro": "Haderslev iarna poate fi experimentat în siguranță și căldură cu mașina. Dimineața vizităm Deer Park înzăpezit, un punct culminant al turului. Apoi mergem la catedrală și la Casa Von Oberberg, care strălucesc în lumina iernii. La prânz ne încălzim la Colecția Ehlers. După-amiaza o petrecem la Streetdome și în parcuri, înainte ca amurgul timpuriu să transforme orașul într-o mare de lumini.",
+            "en": "Haderslev in winter is safe and warm to experience by car. In the morning, we visit the snowy Deer Park, a highlight of the tour. Then we head to the cathedral and Von Oberberg's House, which shine in the winter light. At noon, we warm up in the Ehlers Collection. We spend the afternoon at the Streetdome and in the parks before the early dusk transforms the city into a sea of lights."
+          },
+          "stops": [
+            {
+              "name": "Haderslev Deer Park",
+              "tip_5lang": {
+                "de": "Winterreifen sind auf den Waldwegen zwingend erforderlich.",
+                "hu": "A téli gumi használata az erdei utakon elengedhetetlen.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pe drumurile din pădure.",
+                "en": "Winter tires are mandatory on the forest paths."
+              }
+            },
+            {
+              "name": "Haderslev Cathedral",
+              "tip_5lang": {
+                "de": "Die Parkplätze im Zentrum werden im Winter gut geräumt.",
+                "hu": "A központi parkolókat télen is rendszeresen takarítják a hótól.",
+                "ro": "Parcările din centru sunt bine deszăpezite iarna.",
+                "en": "Parking lots in the center are well cleared in winter."
+              }
+            },
+            {
+              "name": "Von Oberberg's House",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eiszapfen an den alten Dachrinnen.",
+                "hu": "Ügyeljen a régi ereszcsatornákról lelógó jégcsapokra.",
+                "ro": "Atenție la țurțurii de gheață de pe jgheaburile vechi.",
+                "en": "Watch out for icicles on the old gutters."
+              }
+            },
+            {
+              "name": "The Ehlers Collection",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Museum nach dem kurzen Gang vom Parkplatz.",
+                "hu": "Élvezze a múzeum melegét a parkolótól tett rövid séta után.",
+                "ro": "Bucurați-vă de căldura din muzeu după scurta plimbare din parcare.",
+                "en": "Enjoy the warmth in the museum after the short walk from the parking lot."
+              }
+            },
+            {
+              "name": "Streetdome",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Spritzwasser in der Nähe des Hafens.",
+                "hu": "Vigyázzon a kikötő közelében lévő lefagyott vízfoltokkal.",
+                "ro": "Atenție la apa înghețată în apropierea portului.",
+                "en": "Watch out for frozen spray near the harbor."
+              }
+            },
+            {
+              "name": "Kløften Park",
+              "tip_5lang": {
+                "de": "Die Parkwege können bei Frost sehr glatt sein.",
+                "hu": "A park sétányai fagyos időben nagyon csúszósak lehetnek.",
+                "ro": "Potecile din parc pot fi foarte alunecoase în caz de îngheț.",
+                "en": "The park paths can be very slippery during frost."
+              }
+            },
+            {
+              "name": "Haderslev Dampark",
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto laufen, um die Scheiben während kurzer Stopps frei zu halten.",
+                "hu": "Tartsa melegen az autót a rövid megállók alatt is a páramentesítésért.",
+                "ro": "Mențineți mașina caldă în timpul opririlor scurte pentru dezaburire.",
+                "en": "Keep the car warm during short stops to keep the windows clear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und Frostschutzmittel für die Scheiben mit.",
+              "Achten Sie auf Wildwechsel im Deer Park, besonders bei Dämmerung.",
+              "Parkhäuser sind im Winter oft wärmer und angenehmer zum Aussteigen.",
+              "Die Batterieleistung kann bei extremer Kälte nachlassen, prüfen Sie diese vorher."
+            ],
+            "hu": [
+              "Legyen Önnél jégkaparó és fagyálló szélvédőmosó folyadék.",
+              "Ügyeljen a vadakra a Vadasparkban, különösen szürkületkor.",
+              "A parkolóházak télen melegebbek és kellemesebbek a kiszálláshoz.",
+              "Az akkumulátor teljesítménye csökkenhet a hidegben, ellenőrizze előre."
+            ],
+            "ro": [
+              "Aveți la voi o racletă de gheață și lichid de parbriz antigel.",
+              "Atenție la animalele sălbatice din Deer Park, mai ales la amurg.",
+              "Parcările acoperite sunt adesea mai calde și mai plăcute iarna.",
+              "Performanța bateriei poate scădea la frig extrem, verificați-o în prealabil."
+            ],
+            "en": [
+              "Carry an ice scraper and antifreeze for the windshield.",
+              "Watch out for deer in the Deer Park, especially at dusk.",
+              "Parking garages are often warmer and more pleasant for getting out in winter.",
+              "Battery performance can drop in extreme cold; check it beforehand."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1230,6 +1794,188 @@
           "Download the local public transport app for real-time schedules and routes.",
           "Be aware that buses might run less frequently in the evening and on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn lässt sich Haderslev auch bei Regen gut erkunden. Morgens besuchen wir den Dom und das Von Oberberg Haus im Stadtkern. Mittags bietet die Ehlers-Sammlung ein trockenes Kulturziel. Danach geht es mit dem Bus zum Streetdome am Hafen. Den Nachmittag verbringen wir im Dampark und Kløften Park, wobei die Bushaltestellen in der Nähe immer schnellen Schutz vor Schauern bieten.",
+            "hu": "Busszal Haderslev esőben is jól felfedezhető. Reggel a dómot és a Von Oberberg házat látogatjuk meg a belvárosban. Délben az Ehlers-gyűjtemény kínál száraz kulturális célpontot. Ezután busszal utazunk a kikötői Streetdome-hoz. A délutánt a Damparkban és a Kløften Parkban töltjük, ahol a közeli megállók mindig gyors menedéket nyújtanak a záporok elől.",
+            "ro": "Cu autobuzul, Haderslev poate fi explorat bine și pe ploaie. Dimineața vizităm catedrala și Casa Von Oberberg în centrul orașului. La prânz, Colecția Ehlers oferă o destinație culturală uscată. Apoi mergem cu autobuzul la Streetdome în port. După-amiaza o petrecem la Dampark și Kløften Park, unde stațiile din apropiere oferă adăpost rapid.",
+            "en": "By bus, Haderslev can be explored well even in the rain. In the morning, we visit the cathedral and Von Oberberg's House in the city center. At noon, the Ehlers Collection offers a dry cultural destination. Then we take the bus to the Streetdome at the harbor. We spend the afternoon in Dampark and Kløften Park, where nearby bus stops always provide quick shelter from showers."
+          },
+          "stops": [
+            {
+              "name": "Haderslev Cathedral",
+              "tip_5lang": {
+                "de": "Zentrale Haltestellen am Gravene sind nur wenige Meter entfernt.",
+                "hu": "A Gravene központi megállói mindössze néhány méterre találhatók.",
+                "ro": "Stațiile centrale de la Gravene sunt la doar câțiva metri distanță.",
+                "en": "Central bus stops at Gravene are only a few meters away."
+              }
+            },
+            {
+              "name": "Von Oberberg's House",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wartebereich an der Haltestelle bei starken Güssen.",
+                "hu": "Használja a megálló váróhelyiségét heves esőzés esetén.",
+                "ro": "Folosiți zona de așteptare din stație în caz de ploaie torențială.",
+                "en": "Use the waiting area at the bus stop during heavy downpours."
+              }
+            },
+            {
+              "name": "The Ehlers Collection",
+              "tip_5lang": {
+                "de": "Die Buslinie 1 verbindet das Zentrum schnell mit dem Museumsviertel.",
+                "hu": "Az 1-es buszvonal gyorsan összeköti a központot a múzeumi negyeddel.",
+                "ro": "Linia de autobuz 1 face legătura rapidă între centru și zona muzeelor.",
+                "en": "Bus line 1 connects the center quickly with the museum district."
+              }
+            },
+            {
+              "name": "Streetdome",
+              "tip_5lang": {
+                "de": "Die Haltestelle am Hafen hat ein großes Dach zum Unterstellen.",
+                "hu": "A kikötői megállónak nagy teteje van, ami alá be lehet állni.",
+                "ro": "Stația din port are un acoperiș mare sub care vă puteți adăposti.",
+                "en": "The harbor bus stop has a large roof for shelter."
+              }
+            },
+            {
+              "name": "Haderslev Dampark",
+              "tip_5lang": {
+                "de": "Mehrere Buslinien halten direkt am Parkeingang.",
+                "hu": "Számos buszjárat megáll közvetlenül a park bejáratánál.",
+                "ro": "Mai multe linii de autobuz opresc chiar la intrarea în parc.",
+                "en": "Several bus lines stop right at the park entrance."
+              }
+            },
+            {
+              "name": "Kløften Park",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg zur Haltestelle zwischen den Regenschauern.",
+                "hu": "Tervezze meg a visszautat a megállóhoz az esőszünetekben.",
+                "ro": "Planificați drumul de întoarcere la stație între reprizele de ploaie.",
+                "en": "Plan your way back to the stop between rain showers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die dänische 'Reiseplanen' App für Echtzeit-Infos herunter.",
+              "In den Bussen ist es warm und trocken, ideal zum Aufwärmen.",
+              "Tragen Sie Kleidung, die leicht zu verstauen ist, wenn Sie im Bus sind.",
+              "Die Taktung der Busse im Zentrum ist auch bei Regen zuverlässig."
+            ],
+            "hu": [
+              "Töltse le a dán 'Reiseplanen' alkalmazást a valós idejű infókért.",
+              "A buszokon meleg és száraz az idő, ideális a felmelegedéshez.",
+              "Viseljen olyan ruházatot, amit könnyű elrakni, ha a buszon van.",
+              "A buszok járatsűrűsége a központban esőben is megbízható."
+            ],
+            "ro": [
+              "Descărcați aplicația daneză 'Reiseplanen' pentru informații în timp real.",
+              "În autobuze este cald și uscat, ideal pentru a vă încălzi.",
+              "Purtați haine care pot fi strânse ușor când sunteți în autobuz.",
+              "Frecvența autobuzelor în centru este fiabilă chiar și pe ploaie."
+            ],
+            "en": [
+              "Download the Danish 'Reiseplanen' app for real-time info.",
+              "Buses are warm and dry, ideal for warming up.",
+              "Wear clothing that is easy to stow away when you are on the bus.",
+              "The bus frequency in the center is reliable even in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Haderslev im Winter mit dem ÖPNV zu erkunden ist gemütlich. Morgens geht es zum Dom und zum Von Oberberg Haus, die nah beieinander liegen. Mittags wärmen wir uns in der Ehlers-Sammlung auf. Danach nehmen wir den Bus zum Streetdome am Hafen. Den Nachmittag verbringen wir in den winterlichen Parks, wobei die kurzen Wege zu den Haltestellen die Kältezeit im Freien minimieren.",
+            "hu": "A téli Haderslev tömegközlekedéssel kényelmesen bejárható. Reggel a dómhoz és a Von Oberberg házhoz megyünk, amelyek közel vannak egymáshoz. Délben az Ehlers-gyűjteményben melegedünk fel. Ezután busszal utazunk a kikötői Streetdome-hoz. A délutánt a téli parkokban töltjük, ahol a megállók közelsége minimalizálja a hidegben töltött időt.",
+            "ro": "Explorarea orașului Haderslev iarna cu transportul public este confortabilă. Dimineața mergem la catedrală și Casa Von Oberberg, care sunt aproape una de alta. La prânz ne încălzim la Colecția Ehlers. Apoi luăm autobuzul la Streetdome în port. După-amiaza o petrecem în parcurile de iarnă, stațiile apropiate minimizând timpul petrecut în frig.",
+            "en": "Exploring Haderslev in winter by public transit is cozy. In the morning, we head to the cathedral and Von Oberberg's House, which are close to each other. At noon, we warm up in the Ehlers Collection. Then we take the bus to the Streetdome at the harbor. We spend the afternoon in the winter parks, where the short distances to the stops minimize time spent in the cold."
+          },
+          "stops": [
+            {
+              "name": "Haderslev Cathedral",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter gut beheizt; genießen Sie die Fahrt.",
+                "hu": "A buszok télen jól fűtöttek; élvezze az utazást.",
+                "ro": "Autobuzele sunt bine încălzite iarna; bucurați-vă de călătorie.",
+                "en": "Buses are well heated in winter; enjoy the ride."
+              }
+            },
+            {
+              "name": "Von Oberberg's House",
+              "tip_5lang": {
+                "de": "Warten Sie im Inneren von Geschäften nahe der Haltestelle auf den Bus.",
+                "hu": "Várjon a buszra a megálló közeli üzletekben, ha nagy a hideg.",
+                "ro": "Așteptați autobuzul în interiorul magazinelor din apropierea stației.",
+                "en": "Wait for the bus inside shops near the stop if it's very cold."
+              }
+            },
+            {
+              "name": "The Ehlers Collection",
+              "tip_5lang": {
+                "de": "Der Busfahrplan kann an Feiertagen im Winter variieren.",
+                "hu": "A buszmenetrend a téli ünnepnapokon változhat.",
+                "ro": "Orarele autobuzelor pot varia în timpul sărbătorilor de iarnă.",
+                "en": "The bus schedule may vary during winter holidays."
+              }
+            },
+            {
+              "name": "Streetdome",
+              "tip_5lang": {
+                "de": "Der Hafenbereich kann im Winter sehr windig sein; Haltestelle nutzen.",
+                "hu": "A kikötő télen nagyon szeles lehet; használja a megálló szélfogóját.",
+                "ro": "Zona portului poate fi foarte vântoasă iarna; folosiți adăpostul stației.",
+                "en": "The harbor area can be very windy in winter; use the stop shelter."
+              }
+            },
+            {
+              "name": "Haderslev Dampark",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Bus zum Parkeingang reduzieren das Gehen in der Kälte.",
+                "hu": "A busztól a parkig tartó rövid út csökkenti a hidegben való gyaloglást.",
+                "ro": "Distanțele scurte de la autobuz la parc reduc mersul prin frig.",
+                "en": "Short distances from the bus to the park reduce walking in the cold."
+              }
+            },
+            {
+              "name": "Kløften Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf die letzte Busverbindung vor Einbruch der Dunkelheit.",
+                "hu": "Ügyeljen az utolsó buszjáratokra a sötétedés beállta előtt.",
+                "ro": "Atenție la ultimele conexiuni de autobuz înainte de lăsarea întunericului.",
+                "en": "Pay attention to the last bus connections before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'DOT Billetter' für digitale Fahrkarten.",
+              "Die Busse verkehren im Winter nach einem verlässlichen Fahrplan.",
+              "Warme Kleidung ist für die Wartezeiten an den Haltestellen wichtig.",
+              "Viele Haltestellen im Zentrum verfügen über digitale Anzeige-Tafeln."
+            ],
+            "hu": [
+              "Használja a 'DOT Billetter' alkalmazást a digitális jegyekhez.",
+              "A buszok télen is megbízható menetrend szerint közlekednek.",
+              "A meleg ruházat fontos a megállókban való várakozás idejére.",
+              "A központban sok megálló rendelkezik digitális kijelzővel."
+            ],
+            "ro": [
+              "Folosiți aplicația 'DOT Billetter' pentru bilete digitale.",
+              "Autobuzele circulă după un program fiabil și iarna.",
+              "Îmbrăcămintea călduroasă este importantă pentru timpul de așteptare în stații.",
+              "Multe stații din centru au panouri de afișaj digital."
+            ],
+            "en": [
+              "Use the 'DOT Billetter' app for digital tickets.",
+              "Buses run according to a reliable schedule in winter.",
+              "Warm clothing is important for waiting times at the stops.",
+              "Many stops in the center have digital display boards."
+            ]
+          }
+        }
       }
     }
   }

@@ -386,6 +386,206 @@
           "If you visit in spring (April-May), you'll experience the region's stunning fruit blossoms.",
           "Check opening hours, especially for smaller museums, as they can vary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag im UNESCO-Beginenhof bietet Schutz in der kleinen Kirche, während der Regen auf die Backsteine prasselt. Mittags flüchten Sie unter die Arkaden am Grote Markt, um die Liebfrauenkirche und das Rathaus trocken zu besichtigen.\n\nAm Nachmittag ist die astronomische Festraets-Uhr das ideale Indoor-Ziel. Abends bietet das Speelhof-Viertel trotz Pfützen eine romantische Kulisse, bevor Sie sich in ein warmes Restaurant in der Innenstadt zurückziehen.",
+            "hu": "A délelőtt az UNESCO világörökség részét képező Begijnhof falai között indul, ahol a templom menedéket nyújt az eső elől. Délben a Grote Markt árkádjai és a templom belső terei tartják szárazon a látogatót.\n\nDélután a Festraets csillagászati óra tökéletes fedett program. Estére a Speelhof környéke a tócsák tükröződésével válik hangulatossá, mielőtt egy belvárosi étterem melegébe menekülnénk a szitáló eső elől.",
+            "ro": "Dimineața în Begijnhof oferă adăpost în mica biserică, în timp ce ploaia bate în geamurile vechi. La prânz, arcadele din Grote Markt și interiorul bisericii Onze-Lieve-Vrouwekerk vă feresc de umezeală.\n\nDupă-amiaza, ceasul astronomic Festraets este destinația ideală de interior. Seara, zona Speelhof capătă un farmec aparte prin reflexiile în apă, înainte de a vă retrage într-un restaurant primitor din centrul vechi.",
+            "en": "Morning in the UNESCO Beguinage offers shelter in the small chapel while rain patters on the bricks. At noon, the arches of the Grote Markt and the interior of the Church of Our Lady keep you dry.\n\nIn the afternoon, the Festraets astronomical clock is the perfect indoor highlight. By evening, the Speelhof area becomes atmospheric with reflections in the puddles before you warm up in a cozy downtown bistro."
+          },
+          "stops": [
+            {
+              "name": "Begijnhof Sint-Agnes",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche, um die Wandmalereien trocken zu bewundern.",
+                "hu": "Menjen be a templomba, a falfestmények szárazon is megtekinthetők.",
+                "ro": "Vizitați biserica pentru a vedea picturile murale la adăpost.",
+                "en": "Head inside the church to see the murals while staying dry."
+              }
+            },
+            {
+              "name": "Onze-Lieve-Vrouwekerk (Church of Our Lady)",
+              "tip_5lang": {
+                "de": "Ein geräumiger Zufluchtsort mit beeindruckender Architektur.",
+                "hu": "Tágas menedék lenyűgöző belső építészettel.",
+                "ro": "Un refugiu spațios cu o arhitectură interioară impresionantă.",
+                "en": "A spacious refuge with impressive interior architecture."
+              }
+            },
+            {
+              "name": "City Hall and Belfry",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich am Marktplatz.",
+                "hu": "Használja a főtéri fedett bejárati részeket várakozáshoz.",
+                "ro": "Folosiți zonele de intrare acoperite din piața centrală.",
+                "en": "Use the covered entrance areas in the main square for shelter."
+              }
+            },
+            {
+              "name": "Abbey Tower",
+              "tip_5lang": {
+                "de": "Die Treppen sind überdacht, oben kann es jedoch windig sein.",
+                "hu": "A lépcsők fedettek, de a kilátónál szélre és esőre számítson.",
+                "ro": "Scările sunt acoperite, dar sus poate fi vânt și ploaie.",
+                "en": "The stairs are covered, but expect wind and rain at the top."
+              }
+            },
+            {
+              "name": "Festraets astronomical clock",
+              "tip_5lang": {
+                "de": "Die beste Wahl bei starkem Regen; komplett im Innenraum.",
+                "hu": "A legjobb választás szakadó esőben; teljesen fedett helyszín.",
+                "ro": "Cea mai bună alegere în caz de ploaie torențială; interior complet.",
+                "en": "The best choice during heavy rain; entirely indoors."
+              }
+            },
+            {
+              "name": "Minderbroeders Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den Regenschauer abzuwarten.",
+                "hu": "Csendes hely az eső elálltának megvárására.",
+                "ro": "Un loc liniștit pentru a aștepta oprirea ploii.",
+                "en": "A quiet place to wait for the rain to pass."
+              }
+            },
+            {
+              "name": "Speelhof Domain",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, um Matsch zu vermeiden.",
+                "hu": "Maradjon a burkolt utakon a sár elkerülése érdekében.",
+                "ro": "Rămâneți pe aleile pavate pentru a evita noroiul.",
+                "en": "Stick to the paved paths to avoid the mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da der Wind am Marktplatz ziehen kann.",
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster im Beginenhof.",
+              "Die meisten Sehenswürdigkeiten liegen nah beieinander, ideal für kurze Sprints.",
+              "Nutzen Sie die Cafés am Grote Markt als trockene Aussichtspunkte."
+            ],
+            "hu": [
+              "Vigyen erős esernyőt, mert a főtéren felerősödhet a szél.",
+              "Viseljen vízálló cipőt a Begijnhof macskakövei miatt.",
+              "A látnivalók közel vannak egymáshoz, így kevés időt kell az esőben tölteni.",
+              "Használja a Grote Markt kávézóit száraz kilátópontként."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, vântul poate fi puternic în piața centrală.",
+              "Purtați încălțăminte impermeabilă pentru pavajul din Begijnhof.",
+              "Obiectivele sunt apropiate, limitând timpul petrecut direct în ploaie.",
+              "Folosiți cafenelele din Grote Markt ca puncte de observație uscate."
+            ],
+            "en": [
+              "Carry a sturdy umbrella as wind can pick up in the main square.",
+              "Wear waterproof shoes for the cobblestones in the Beguinage.",
+              "Sights are close together, minimizing time spent in the rain.",
+              "Use the cafes at Grote Markt as dry observation points."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen im Beginenhof ist oft neblig und mystisch. Mittags wärmen Sie sich in der Liebfrauenkirche auf, während das fahle Winterlicht durch die Fenster fällt. Ein heißer Kaffee am Grote Markt stärkt Sie für den Aufstieg zum Abteiturm.\n\nNachmittags bietet die mechanische Festraets-Uhr eine willkommene Wärme. Da es gegen 17:00 Uhr dunkel wird, endet der Spaziergang im Speelhof im sanften Schein der Laternen, bevor der Tag in einer beheizten Brasserie endet.",
+            "hu": "A téli reggel a Begijnhofban gyakran ködös és misztikus. Délben a Miasszonyunk-templomban melegedhetünk fel, miközben a téli napfény átszűrődik az ablakokon. Egy forró kávé a főtéren erőt ad az apátsági torony megmászásához.\n\nDélután a Festraets óra mechanikája nyújt fedett programot. Mivel 17:00 körül sötétedik, a Speelhof látogatása már lámpafénynél ér véget, mielőtt egy fűtött brasserie-be vonulnánk.",
+            "ro": "O dimineață de iarnă în Begijnhof este adesea cețoasă și mistică. La prânz, vă încălziți în biserica Onze-Lieve-Vrouwekerk, în timp ce lumina slabă a iernii trece prin vitralii. O cafea fierbinte în Grote Markt vă pregătește pentru turnul abației.\n\nDupă-amiaza, ceasul Festraets oferă o activitate plăcută la interior. Deoarece se întunecă în jur de ora 17:00, plimbarea în Speelhof se încheie la lumina felinarelor, înainte de o cină într-o braserie încălzită.",
+            "en": "A winter morning in the Beguinage is often misty and mystical. At noon, warm up inside the Church of Our Lady as pale winter light filters through. A hot coffee at Grote Markt prepares you for the climb up the Abbey Tower.\n\nIn the afternoon, the Festraets clock provides a welcome indoor break. Since dusk falls around 5 PM, the Speelhof walk ends under lamplight before finishing the day in a heated local brasserie."
+          },
+          "stops": [
+            {
+              "name": "Begijnhof Sint-Agnes",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenes Kopfsteinpflaster in den schattigen Gassen.",
+                "hu": "Vigyázzon a fagyott macskakövekre az árnyékos utcákban.",
+                "ro": "Atenție la pavajul înghețat în zonele umbrite.",
+                "en": "Watch out for frozen cobblestones in the shaded alleys."
+              }
+            },
+            {
+              "name": "Onze-Lieve-Vrouwekerk (Church of Our Lady)",
+              "tip_5lang": {
+                "de": "In der Kirche ist es oft kühler als draußen; behalten Sie den Mantel an.",
+                "hu": "A templomban gyakran hidegebb van, mint kint; ne vegye le a kabátot.",
+                "ro": "În interior e adesea mai rece decât afară; păstrați haina pe dvs.",
+                "en": "It is often colder inside the church than outside; keep your coat on."
+              }
+            },
+            {
+              "name": "City Hall and Belfry",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Weihnachtsbeleuchtung am Grote Markt.",
+                "hu": "Csodálja meg a főtéri karácsonyi díszkivilágítást.",
+                "ro": "Admirați luminile de Crăciun din Grote Markt.",
+                "en": "Admire the Christmas illuminations in the Grote Markt."
+              }
+            },
+            {
+              "name": "Abbey Tower",
+              "tip_5lang": {
+                "de": "Der Wind oben ist im Winter sehr eisig; Mütze und Handschuhe einpacken.",
+                "hu": "A szél fent télen jéghideg; sapka és kesztyű kötelező.",
+                "ro": "Vântul sus este tăios iarna; luați căciulă și mănuși.",
+                "en": "The wind at the top is icy in winter; pack a hat and gloves."
+              }
+            },
+            {
+              "name": "Festraets astronomical clock",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich für eine Stunde aufzuwärmen.",
+                "hu": "Ideális helyszín egy órányi felmelegedésre.",
+                "ro": "Un loc ideal pentru a vă încălzi timp de o oră.",
+                "en": "An ideal place to warm up for an hour."
+              }
+            },
+            {
+              "name": "Minderbroeders Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Krypta für eine windstille Besichtigung.",
+                "hu": "Látogassa meg a kriptát a szélvédett nézelődéshez.",
+                "ro": "Vizitați cripta pentru o vizită ferită de vânt.",
+                "en": "Visit the crypt for a wind-free sightseeing experience."
+              }
+            },
+            {
+              "name": "Speelhof Domain",
+              "tip_5lang": {
+                "de": "Der Park schließt im Winter früher; achten Sie auf die Aushänge.",
+                "hu": "A park télen korábban zár; figyelje a kiírásokat.",
+                "ro": "Parcul se închide mai devreme iarna; verificați orarul.",
+                "en": "The park closes earlier in winter; check the posted hours."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 16:30 Uhr unter, planen Sie Außenfotos früh ein.",
+              "Schichten Sie Ihre Kleidung für den Wechsel zwischen kalten Kirchen und warmen Cafés.",
+              "Ein Taschenwärmer ist beim Aufstieg zum Abteiturm sehr nützlich.",
+              "Genießen Sie die lokale Spezialität 'Haspengouwse' Suppe zum Aufwärmen."
+            ],
+            "hu": [
+              "A nap 16:30 körül nyugszik, a fotózást tervezze korábbra.",
+              "Öltözzön rétegesen a hideg templomok és meleg kávézók közti váltáshoz.",
+              "A zsebmelegítő jól jöhet az apátsági torony tetején.",
+              "Kóstolja meg a helyi forró leveseket a felmelegedéshez."
+            ],
+            "ro": [
+              "Soarele apune în jur de 16:30, planificați fotografiile devreme.",
+              "Îmbrăcați-vă în straturi pentru trecerea de la biserici reci la cafenele calde.",
+              "Un încălzitor de mâini e util la înălțime în turnul abației.",
+              "Savurați o supă locală fierbinte pentru a vă reîncărca bateriile."
+            ],
+            "en": [
+              "Sunset is around 4:30 PM, plan outdoor photos for earlier in the day.",
+              "Dress in layers for the transition between cold churches and warm cafes.",
+              "A hand warmer is very useful at the top of the Abbey Tower.",
+              "Enjoy a local hot soup to warm up during your break."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +966,206 @@
           "Be mindful of the cobblestones in the city center, which can be challenging.",
           "Always bring a good lock for your bike."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag beginnt am Speelhof, wo asphaltierte Wege den Schlamm fernhalten. Mittags erreichen Sie den Beginenhof und parken das Rad im Schutz der Mauern. Die Altstadt bietet kurze Wege zwischen den Kirchen.\n\nNachmittags ist die Festraets-Uhr ein idealer Stopp, um die Regenkleidung zu lüften. Die Fahrt zum Abteiturm und zur Liebfrauenkirche erfolgt vorsichtig auf nassen Steinen, bevor der Tag am Marktplatz endet.",
+            "hu": "Az esős kerékpáros nap a Speelhofban indul, ahol az aszfaltozott utak védenek a sártól. Délben a Begijnhof falai mellett biztonságban leparkolhatjuk a gépet. Az óvárosban a látnivalók közötti távok rövidek.\n\nDélután a Festraets óra tökéletes megálló a vizes ruhák szárítására. A toronyhoz és a templomhoz vezető vizes macskakövön óvatosan haladjunk, majd a napot a főtéren fejezzük be.",
+            "ro": "O zi de ciclism ploioasă începe la Speelhof, unde aleile asfaltate vă feresc de noroi. La prânz ajungeți la Begijnhof, parcând bicicleta la adăpostul zidurilor. Centrul vechi oferă distanțe scurte între biserici.\n\nDupă-amiaza, ceasul Festraets este oprirea ideală pentru a vă usca hainele de ploaie. Pedalați cu grijă pe piatra udă spre turn și biserică, înainte de a încheia ziua în piață.",
+            "en": "A rainy bike day starts at Speelhof, where paved paths keep the mud away. At noon, reach the Beguinage and park your bike sheltered by the walls. The old town offers short distances between the major churches.\n\nIn the afternoon, the Festraets clock is an ideal stop to let your rain gear dry out. Cycle carefully on wet stones toward the Abbey tower and Church, finishing your day in the main square area."
+          },
+          "stops": [
+            {
+              "name": "Speelhof Domain",
+              "tip_5lang": {
+                "de": "Nutzen Sie nur die asphaltierten Wege im Parkgelände.",
+                "hu": "Csak az aszfaltozott utakat használja a park területén.",
+                "ro": "Folosiți doar aleile asfaltate din incinta parcului.",
+                "en": "Stick strictly to the asphalt paths within the park grounds."
+              }
+            },
+            {
+              "name": "Begijnhof Sint-Agnes",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf dem nassen Kopfsteinpflaster.",
+                "hu": "Vigyázzon a fékezéssel a vizes macskakövön.",
+                "ro": "Atenție la frânare pe pavajul ud din Begijnhof.",
+                "en": "Be extra careful when braking on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Festraets astronomical clock",
+              "tip_5lang": {
+                "de": "Es gibt Fahrradständer direkt in der Nähe des Eingangs.",
+                "hu": "Közvetlenül a bejárat közelében találhatók kerékpártárolók.",
+                "ro": "Există rastele de biciclete chiar lângă intrare.",
+                "en": "There are bike racks located right near the entrance."
+              }
+            },
+            {
+              "name": "City Hall and Belfry",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad unter den Arkaden, wenn möglich.",
+                "hu": "Parkolja a kerékpárt az árkádok alá, ahol lehetséges.",
+                "ro": "Parcați bicicleta sub arcade acolo unde este permis.",
+                "en": "Park your bike under the arches where permitted to keep it dry."
+              }
+            },
+            {
+              "name": "Abbey Tower",
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad sicher an; der Boden kann rutschig sein.",
+                "hu": "Zárja le biztonságosan a biciklit; a talaj csúszós lehet.",
+                "ro": "Legați bicicleta bine; solul poate fi alunecos în zonă.",
+                "en": "Lock your bike securely; the ground nearby can be slippery."
+              }
+            },
+            {
+              "name": "Church of Our Lady",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um sich im Inneren aufzuwärmen.",
+                "hu": "Rövid megálló a benti felmelegedéshez és szárítkozáshoz.",
+                "ro": "Oprire scurtă pentru a vă încălzi în interior.",
+                "en": "Quick stop to warm up and dry off inside."
+              }
+            },
+            {
+              "name": "Minderbroeders Church",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad nah an die Kirchenwand für Regenschutz.",
+                "hu": "Állítsa a kerékpárt közel a falhoz az eső elleni védelemért.",
+                "ro": "Așezați bicicleta aproape de zidul bisericii pentru protecție.",
+                "en": "Place your bike close to the church wall for some rain protection."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie einen wasserdichten Sattelbezug beim Parken.",
+              "Vermeiden Sie schnelle Kurven auf nassem Kopfsteinpflaster.",
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit.",
+              "Die Entfernungen sind kurz, Sie werden nicht lange im Regen sein."
+            ],
+            "hu": [
+              "Használjon vízálló nyeregvédőt parkoláskor.",
+              "Kerülje a hirtelen kanyarodást a vizes macskakövön.",
+              "Viseljen neon esőkabátot a jobb láthatóság érdekében.",
+              "A távolságok kicsik, nem kell sokat töltenie az esőben."
+            ],
+            "ro": [
+              "Folosiți o protecție impermeabilă pentru șa la parcare.",
+              "Evitați virajele bruște pe pavajul ud.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate.",
+              "Distanțele sunt scurte, nu veți sta mult timp direct în ploaie."
+            ],
+            "en": [
+              "Use a waterproof seat cover when parking your bike.",
+              "Avoid sharp turns on wet cobblestones.",
+              "Wear a neon rain jacket for better visibility to cars.",
+              "Distances are short, so you won't be exposed for long periods."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour startet frostig am Speelhof, wo Raureif die Bäume ziert. Mittags radeln Sie durch den stillen Beginenhof zur wärmenden Liebfrauenkirche. Die frische Luft am Marktplatz macht den Aufstieg zum Abteiturm lohnenswert.\n\nNachmittags bietet die Festraets-Uhr eine Pause in der Wärme. Bevor es dunkel wird, radeln Sie zur Minderbrüderkirche. Die Tour endet bei Einbruch der Dunkelheit in der Nähe des Grote Marktes mit einer heißen Schokolade.",
+            "hu": "A téli túra fagyosan indul a Speelhofban, ahol dér borítja a fákat. Délben a csendes Begijnhofon át tekerünk a melengető Miasszonyunk-templomig. A friss levegő a főtéren meghozza a kedvet az apátsági toronyhoz.\n\nDélután a Festraets óra nyújt pihenőt a melegben. Mielőtt besötétedik, a Minderbroeders templomhoz tekerünk. A túra sötétedéskor ér véget a főtér közelében egy forró csokoládé mellett.",
+            "ro": "Turul de iarnă începe cu ger la Speelhof, unde chiciura acoperă copacii. La prânz pedalați prin Begijnhoful liniștit spre biserica Onze-Lieve-Vrouwekerk. Aerul proaspăt din piață face urcarea în turn foarte plăcută.\n\nDupă-amiaza, ceasul Festraets oferă o pauză la căldură. Înainte de lăsarea întunericului, pedalați spre biserica Minderbroeders. Turul se încheie la amurg cu o ciocolată caldă lângă Grote Markt.",
+            "en": "The winter tour starts frostily at Speelhof, with rime ice coating the trees. At noon, cycle through the quiet Beguinage to the warming Church of Our Lady. The crisp air at the main square makes the Abbey Tower climb rewarding.\n\nIn the afternoon, the Festraets clock provides a warm break. Before dusk, cycle to the Minderbroeders Church. The tour concludes as darkness falls with a hot chocolate near the Grote Markt."
+          },
+          "stops": [
+            {
+              "name": "Speelhof Domain",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Pfützen auf den Wegen.",
+                "hu": "Vigyázzon a befagyott tócsákra az utakon.",
+                "ro": "Atenție la bălțile înghețate de pe alei.",
+                "en": "Watch out for frozen puddles on the paths."
+              }
+            },
+            {
+              "name": "Begijnhof Sint-Agnes",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster kann bei Frost extrem rutschig sein.",
+                "hu": "A macskakő fagyban rendkívül csúszós lehet.",
+                "ro": "Pavajul poate fi extrem de alunecos pe timp de îngheț.",
+                "en": "The cobblestones can be extremely slippery in freezing weather."
+              }
+            },
+            {
+              "name": "Festraets astronomical clock",
+              "tip_5lang": {
+                "de": "Tauwerkzeuge für Schlösser können bei Minusgraden hilfreich sein.",
+                "hu": "A zárjégoldó hasznos lehet mínusz fokok esetén.",
+                "ro": "Spray-ul de dezghețat încuietori poate fi util la temperaturi negative.",
+                "en": "Lock de-icer can be helpful if temperatures drop below freezing."
+              }
+            },
+            {
+              "name": "City Hall and Belfry",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Grote Markt für eine kurze Aufwärmpause.",
+                "hu": "Használja a főteret egy rövid felmelegedési szünetre.",
+                "ro": "Folosiți Grote Markt pentru o scurtă pauză de încălzire.",
+                "en": "Use the Grote Markt for a quick warm-up break."
+              }
+            },
+            {
+              "name": "Abbey Tower",
+              "tip_5lang": {
+                "de": "Halten Sie die Griffe am Fahrrad warm oder tragen Sie dicke Handschuhe.",
+                "hu": "Tartsa melegen a kormányt, vagy viseljen vastag kesztyűt.",
+                "ro": "Țineți mânerele calde sau purtați mănuși groase.",
+                "en": "Keep your handlebars warm or wear thick gloves."
+              }
+            },
+            {
+              "name": "Church of Our Lady",
+              "tip_5lang": {
+                "de": "Kirchenbesuch zum Aufwärmen der Finger nutzen.",
+                "hu": "Használja a templomlátogatást az ujjai felmelegítésére.",
+                "ro": "Folosiți vizita la biserică pentru a vă încălzi degetele.",
+                "en": "Use the church visit to warm up your fingers."
+              }
+            },
+            {
+              "name": "Minderbroeders Church",
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der Dunkelheit; Licht am Fahrrad prüfen.",
+                "hu": "Utolsó megálló sötétedés előtt; ellenőrizze a világítást.",
+                "ro": "Ultima oprire înainte de întuneric; verificați luminile.",
+                "en": "Last stop before dark; check your bike lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe und eine Mütze unter dem Helm.",
+              "Prüfen Sie Ihre Bremsen, sie können bei Kälte träger reagieren.",
+              "Die Sonne sinkt früh, schalten Sie ab 16:00 Uhr das Licht ein.",
+              "Halten Sie die Fahrzeit kurz, um Unterkühlung zu vermeiden."
+            ],
+            "hu": [
+              "Viseljen kesztyűt és sapkát a sisak alatt.",
+              "Ellenőrizze a fékeket, hidegben lomhábban reagálhatnak.",
+              "A nap korán lebukik, 16:00-tól kapcsolja be a lámpákat.",
+              "Tartsa röviden a menetidőt a kihűlés elkerülése érdekében."
+            ],
+            "ro": [
+              "Purtați mănuși și o căciulă sub cască.",
+              "Verificați frânele, pot reacționa mai lent la frig.",
+              "Soarele apune devreme, aprindeți luminile de la ora 16:00.",
+              "Mențineți timpul de pedalare scurt pentru a evita hipotermia."
+            ],
+            "en": [
+              "Wear gloves and a thermal cap under your helmet.",
+              "Check your brakes; they can be sluggish in the cold.",
+              "The sun sets early, so turn on your lights by 4:00 PM.",
+              "Keep riding segments short to avoid getting too cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1170,6 +1570,224 @@
           "A car allows you to easily visit other nearby attractions like the Wilderen brewery.",
           "Be aware of low-emission zones ('LEZ') in larger Belgian cities, though Sint-Truiden does not have one."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regentag beginnt komfortabel mit der Fahrt zum Schloss Duras, das im Regen besonders majestätisch wirkt. Mittags parken Sie im Zentrum und erreichen das Rathaus in wenigen Schritten. Der Abteiturm bietet trotz Wolken einen weiten Blick.\n\nNachmittags parken Sie nah an der Festraets-Uhr und dem Beginenhof. Den Abschluss bildet der Speelhof, wo Sie die Natur vom Auto aus oder bei einem kurzen Spaziergang mit Schirm genießen, bevor Sie zum Parkplatz zurückkehren.",
+            "hu": "Az esős nap kényelmesen indul a Duras kastélynál, amely ilyenkor különösen fenséges látvány. Délben a központban parkolva pár lépéssel elérjük a városházát. Az apátsági torony a felhők ellenére is messzi kilátást nyújt.\n\nDélután a Festraets óra és a Begijnhof közelében parkolhatunk. A napot a Speelhof zárja, ahol az autóból vagy esernyővel élvezhetjük a természetet, mielőtt visszatérnénk a parkolóhoz.",
+            "ro": "Ziua ploioasă începe confortabil cu o vizită la castelul Duras, care arată maiestuos în ploaie. La prânz parcați în centru și ajungeți la primărie în câțiva pași. Turnul abației oferă o panoramă vastă chiar și printre nori.\n\nDupă-amiaza parcați aproape de ceasul Festraets și de Begijnhof. Finalul zilei aparține domeniului Speelhof, unde puteți admira natura din mașină sau cu umbrela, înainte de plecare.",
+            "en": "The rainy day begins comfortably with a drive to Duras Castle, which looks especially majestic in the rain. At noon, park in the center to reach the City Hall in just a few steps. The Abbey Tower offers wide views despite the clouds.\n\nIn the afternoon, park near the Festraets clock and the Beguinage. The day concludes at Speelhof, where you can enjoy nature from the car or with an umbrella before returning to the parking lot."
+          },
+          "stops": [
+            {
+              "name": "Kasteel van Duras",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang, um den Regenweg zu minimieren.",
+                "hu": "Parkoljon közvetlenül a bejáratnál az ázás elkerülése végett.",
+                "ro": "Parcați chiar la intrare pentru a minimiza drumul prin ploaie.",
+                "en": "Park right at the entrance to minimize time in the rain."
+              }
+            },
+            {
+              "name": "Sint-Truiden Center Parking",
+              "tip_5lang": {
+                "de": "Tiefgarage bietet den besten Schutz beim Aussteigen.",
+                "hu": "A mélygarázs nyújtja a legjobb védelmet kiszálláskor.",
+                "ro": "Parcarea subterană oferă cea mai bună protecție la coborâre.",
+                "en": "Underground parking offers the best protection when getting out."
+              }
+            },
+            {
+              "name": "City Hall and Belfry",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg vom zentralen Parkplatz.",
+                "hu": "Mindössze 2 perc séta a központi parkolótól.",
+                "ro": "Doar 2 minute de mers pe jos de la parcarea centrală.",
+                "en": "Only a 2-minute walk from the central parking lot."
+              }
+            },
+            {
+              "name": "Abbey Tower",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Sicht oben eingeschränkt.",
+                "hu": "Szakadó esőben a kilátás korlátozott lehet fentről.",
+                "ro": "În caz de ploaie torențială, vizibilitatea sus este redusă.",
+                "en": "In heavy rain, visibility from the top may be limited."
+              }
+            },
+            {
+              "name": "Begijnhof Sint-Agnes",
+              "tip_5lang": {
+                "de": "Parken Sie in den Nebenstraßen für einen kurzen Zugang.",
+                "hu": "Parkoljon a mellékutcákban a gyors bejutáshoz.",
+                "ro": "Parcați pe străzile laterale pentru acces rapid.",
+                "en": "Park in the side streets for quick access."
+              }
+            },
+            {
+              "name": "Festraets astronomical clock",
+              "tip_5lang": {
+                "de": "Perfekter Indoor-Stopp zwischen zwei Fahrten.",
+                "hu": "Tökéletes fedett megálló két autózás között.",
+                "ro": "Oprire interioară perfectă între două segmente de condus.",
+                "en": "Perfect indoor stop between two driving segments."
+              }
+            },
+            {
+              "name": "Speelhof Domain",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Café/Restaurant.",
+                "hu": "A parkoló közel van a kávézóhoz és az étteremhez.",
+                "ro": "Parcarea este situată aproape de cafenea/restaurant.",
+                "en": "The parking lot is close to the cafe and restaurant."
+              }
+            },
+            {
+              "name": "Walk in Speelhof",
+              "tip_5lang": {
+                "de": "Bei Regen empfiehlt sich die kurze Runde um das Schloss.",
+                "hu": "Esőben a kastély körüli rövid körutat javasoljuk.",
+                "ro": "Pe ploaie se recomandă turul scurt în jurul castelului.",
+                "en": "In rain, we recommend the short loop around the castle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie überdachte Parkplätze wie 'Parking Station'.",
+              "Halten Sie einen Regenschirm im Auto bereit.",
+              "Die Straßen in der Altstadt können bei Nässe rutschig sein.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche bei Regen ein."
+            ],
+            "hu": [
+              "Használja a fedett parkolókat, például a 'Parking Station'-t.",
+              "Tartson kéznél esernyőt az autóban.",
+              "Az óvárosi utcák vizesen csúszósak lehetnek.",
+              "Számoljon több idővel a parkolóhelykeresésre esőben."
+            ],
+            "ro": [
+              "Folosiți parcările acoperite, cum ar fi 'Parking Station'.",
+              "Aveți o umbrelă la îndemână în mașină.",
+              "Străzile din centrul vechi pot fi alunecoase când sunt ude.",
+              "Alocați mai mult timp pentru găsirea unui loc de parcare pe ploaie."
+            ],
+            "en": [
+              "Use covered parking garages like 'Parking Station'.",
+              "Keep an umbrella ready in the car for each stop.",
+              "Old town streets can be slippery when wet.",
+              "Allow extra time for finding parking during rain showers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterreise beginnt am Schloss Duras, dessen Türme oft aus dem Morgennebel ragen. Mittags parken Sie im beheizten Parkhaus im Zentrum und besuchen die winterliche Altstadt. Der Grote Markt glänzt mit festlicher Beleuchtung.\n\nNachmittags bietet die Festraets-Uhr eine warme Pause vom Frost. Vor Sonnenuntergang erreichen Sie den Beginenhof und den Speelhof. Die Fahrt durch die winterliche Landschaft von Haspengouw endet in einer gemütlichen Gaststube in Sint-Truiden.",
+            "hu": "A téli út a Duras kastélynál indul, melynek tornyai gyakran a reggeli ködből emelkednek ki. Délben a fűtött belvárosi parkolóházban hagyhatjuk az autót a városnézéshez. A Grote Markt ünnepi fényekben pompázik.\n\nDélután a Festraets óra meleg pihenőt nyújt a fagy elől. Naplemente előtt érünk a Begijnhofhoz és a Speelhofhoz. Az út Haspengouw téli tájain át egy barátságos sint-truideni vendéglőben ér véget.",
+            "ro": "Călătoria de iarnă începe la castelul Duras, ale cărui turnuri ies adesea din ceața dimineții. La prânz lăsați mașina în parcarea încălzită din centru pentru turul orașului. Grote Markt strălucește cu lumini festive.\n\nDupă-amiaza, ceasul Festraets oferă o pauză caldă de la ger. Înainte de apus ajungeți la Begijnhof și Speelhof. Drumul prin peisajul hibernal din Haspengouw se încheie într-un local primitor din oraș.",
+            "en": "The winter journey begins at Duras Castle, its towers often emerging from the morning mist. At noon, leave your car in a heated central garage for the city tour. The Grote Markt shines with festive lights.\n\nIn the afternoon, the Festraets clock provides a warm escape from the frost. Reach the Beguinage and Speelhof before sunset. The drive through Haspengouw's winter landscape ends in a cozy Sint-Truiden tavern."
+          },
+          "stops": [
+            {
+              "name": "Kasteel van Duras",
+              "tip_5lang": {
+                "de": "Vorsicht vor Straßenglätte auf den Zufahrtswegen.",
+                "hu": "Vigyázzon az úttest jegesedésére a bekötőutakon.",
+                "ro": "Atenție la polei pe drumurile de acces spre castel.",
+                "en": "Watch out for black ice on the access roads to the castle."
+              }
+            },
+            {
+              "name": "Sint-Truiden Center Parking",
+              "tip_5lang": {
+                "de": "Beheizte Parkhäuser verhindern das Einfrieren der Scheiben.",
+                "hu": "A fűtött parkolóházak megvédik az ablakokat a jegesedéstől.",
+                "ro": "Parcările acoperite previn înghețarea parbrizului.",
+                "en": "Heated parking garages prevent your windows from icing up."
+              }
+            },
+            {
+              "name": "City Hall and Belfry",
+              "tip_5lang": {
+                "de": "Der Marktplatz ist im Winter festlich geschmückt.",
+                "hu": "A főtér télen ünnepi díszbe öltözik.",
+                "ro": "Piața centrală este decorată festiv iarna.",
+                "en": "The main square is festively decorated in winter."
+              }
+            },
+            {
+              "name": "Abbey Tower",
+              "tip_5lang": {
+                "de": "Die Aussichtsplattform kann bei Eis geschlossen sein.",
+                "hu": "Jegesedés esetén a kilátóteraszt lezárhatják.",
+                "ro": "Platforma de observație poate fi închisă în caz de gheață.",
+                "en": "The observation platform may be closed if it is icy."
+              }
+            },
+            {
+              "name": "Begijnhof Sint-Agnes",
+              "tip_5lang": {
+                "de": "Die schmalen Gassen sind im Winter oft sehr zugig.",
+                "hu": "A szűk utcák télen gyakran nagyon huzatosak.",
+                "ro": "Ulițele înguste pot fi foarte vântoase iarna.",
+                "en": "The narrow alleys are often very drafty in winter."
+              }
+            },
+            {
+              "name": "Festraets astronomical clock",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um sich aufzuwärmen.",
+                "hu": "Használja ki a megállót a felmelegedésre.",
+                "ro": "Folosiți oprirea pentru a vă încălzi.",
+                "en": "Take advantage of this stop to warm up properly."
+              }
+            },
+            {
+              "name": "Speelhof Domain",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang im Park ist im Winter besonders schön.",
+                "hu": "A naplemente a parkban télen különösen szép.",
+                "ro": "Apusul în parc este spectaculos pe timp de iarnă.",
+                "en": "Sunset in the park is particularly beautiful in winter."
+              }
+            },
+            {
+              "name": "Walk in Speelhof",
+              "tip_5lang": {
+                "de": "Tragen Sie festes Schuhwerk für gefrorenen Boden.",
+                "hu": "Viseljen stabil lábbelit a fagyott talaj miatt.",
+                "ro": "Purtați încălțăminte stabilă pentru solul înghețat.",
+                "en": "Wear sturdy footwear for the frozen ground."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in Ihrem Scheibenwischwasser.",
+              "Planen Sie die Rückfahrt vor Einbruch der Glätte am Abend.",
+              "Nutzen Sie die Sitzheizung nach den Außenbesichtigungen.",
+              "Ein Eiskratzer sollte immer griffbereit sein."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Tervezze meg a visszautat az esti jegesedés előtt.",
+              "Használja az ülésfűtést a kinti séták után.",
+              "A jégkaparó mindig legyen kéznél."
+            ],
+            "ro": [
+              "Verificați lichidul de parbriz rezistent la îngheț.",
+              "Planificați drumul de întoarcere înainte de poleiul de seară.",
+              "Folosiți încălzirea în scaune după vizitele exterioare.",
+              "Răzuitoarea de gheață trebuie să fie mereu la îndemână."
+            ],
+            "en": [
+              "Check the antifreeze levels in your windshield washer fluid.",
+              "Plan your return trip before road conditions worsen in the evening.",
+              "Make use of your seat heaters after outdoor sightseeing.",
+              "Always keep an ice scraper within easy reach."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1550,6 +2168,206 @@
           "Most buses depart from the train station, making it a good hub.",
           "Keep an eye on the time to not miss the last bus back to the center or station."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regentag beginnt am Bahnhof, von wo Sie schnell zum Beginenhof gelangen. Mittags bieten die Busverbindungen Schutz vor dem Wetter auf dem Weg zum Grote Markt. Die Kirchen im Zentrum sind ideale trockene Ziele.\n\nNachmittags bringt Sie der Bus direkt zum Schloss Duras, sodass Sie kaum im Regen laufen müssen. Die Tour endet am Speelhof, wo das Schlossrestaurant eine trockene Zuflucht bietet, bevor Sie mit dem Bus zurück zum Bahnhof fahren.",
+            "hu": "Az esős nap a vasútállomáson indul, ahonnan gyorsan elérhető a Begijnhof. Délben a buszjáratok védenek az időjárástól a főtér felé menet. A központi templomok ideális száraz célpontok.\n\nDélután a busz szinte a Duras kastély kapujáig visz, így alig kell az esőben gyalogolni. A túra a Speelhofban zárul, ahol a kastély étterme nyújt menedéket a busz érkezéséig.",
+            "ro": "Ziua ploioasă începe la gară, de unde ajungeți rapid la Begijnhof. La prânz, liniile de autobuz vă feresc de vreme pe drumul spre Grote Markt. Bisericile centrale sunt destinații ideale pe timp de ploaie.\n\nDupă-amiaza, autobuzul vă lasă aproape de castelul Duras, minimizând mersul prin ploaie. Turul se încheie la Speelhof, unde restaurantul castelului oferă un refugiu uscat înainte de plecare.",
+            "en": "The rainy day starts at the station, with a quick connection to the Beguinage. At noon, bus lines provide shelter from the weather on your way to Grote Markt. The central churches are ideal dry destinations.\n\nIn the afternoon, the bus takes you close to Duras Castle, minimizing walking in the rain. The tour ends at Speelhof, where the castle restaurant offers a dry refuge before your bus back to the station."
+          },
+          "stops": [
+            {
+              "name": "Sint-Truiden Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle auf den Bus oder Zug.",
+                "hu": "Várjon a váróteremben a buszra vagy a vonatra.",
+                "ro": "Așteptați în sala gării pentru autobuz sau tren.",
+                "en": "Wait inside the station hall for your bus or train."
+              }
+            },
+            {
+              "name": "Begijnhof Sint-Agnes",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist nur wenige Meter vom Eingang entfernt.",
+                "hu": "A buszmegálló mindössze pár méterre van a bejárattól.",
+                "ro": "Stația de autobuz este la doar câțiva metri de intrare.",
+                "en": "The bus stop is just a few meters from the entrance."
+              }
+            },
+            {
+              "name": "City Hall and Belfry",
+              "tip_5lang": {
+                "de": "Vom Grote Markt fahren viele Linien ab, ideal bei Regen.",
+                "hu": "A főtérről sok járat indul, ideális esős időben.",
+                "ro": "Multe linii pleacă din Grote Markt, ideal pe ploaie.",
+                "en": "Many lines depart from Grote Markt, ideal during rain."
+              }
+            },
+            {
+              "name": "Abbey Tower",
+              "tip_5lang": {
+                "de": "Der Weg zur Haltestelle ist kurz und meist belebt.",
+                "hu": "A megállóhoz vezető út rövid és forgalmas.",
+                "ro": "Drumul spre stație este scurt și intens circulat.",
+                "en": "The walk to the bus stop is short and usually busy."
+              }
+            },
+            {
+              "name": "Bus to Duras",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Bus zum Trocknen.",
+                "hu": "Használja ki a buszon töltött időt a szárítkozásra.",
+                "ro": "Folosiți timpul în autobuz pentru a vă usca.",
+                "en": "Use the time on the bus to dry off and relax."
+              }
+            },
+            {
+              "name": "Kasteel van Duras",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten genau, um langes Warten zu vermeiden.",
+                "hu": "Ellenőrizze a visszaindulást, hogy elkerülje a várakozást.",
+                "ro": "Verificați orele de retur pentru a evita așteptarea lungă.",
+                "en": "Check return times carefully to avoid waiting in the rain."
+              }
+            },
+            {
+              "name": "Speelhof Domain",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Speelhof' liegt direkt am Parkeingang.",
+                "hu": "A 'Speelhof' megálló közvetlenül a park bejáratánál van.",
+                "ro": "Stația 'Speelhof' este situată chiar la intrarea în parc.",
+                "en": "The 'Speelhof' stop is right at the park entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie die De Lijn App für Echtzeit-Infos.",
+              "Suchen Sie Haltestellen mit Unterstand.",
+              "Halten Sie Kleingeld oder eine Karte für das Ticket bereit.",
+              "In den Bussen ist es meist warm und trocken."
+            ],
+            "hu": [
+              "Használja a De Lijn alkalmazást a valós idejű infókért.",
+              "Keresse a fedett buszvárókat.",
+              "Legyen kéznél apró vagy kártya a jegyvásárláshoz.",
+              "A buszokon általában meleg és száraz az idő."
+            ],
+            "ro": [
+              "Folosiți aplicația De Lijn pentru informații în timp real.",
+              "Căutați stații cu adăpost.",
+              "Aveți pregătite monede sau un card pentru bilet.",
+              "Autobuzele sunt de regulă calde și uscate."
+            ],
+            "en": [
+              "Use the De Lijn app for real-time bus information.",
+              "Look for bus stops with overhead shelters.",
+              "Have change or a card ready for ticket purchases.",
+              "Buses are generally warm and dry inside."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Transit-Tour beginnt am Bahnhof, der als warmer Knotenpunkt dient. Mittags erreichen Sie bequem den Grote Markt und wärmen sich in den umliegenden Kirchen auf. Die kurzen Busfahrten zwischen den Highlights sind im Winter sehr angenehm.\n\nNachmittags bringt Sie der Transit zum Schloss Duras und später zum Beginenhof. Da es früh dunkelt, bietet der beleuchtete Speelhof einen stimmungsvollen Abschluss, bevor Sie die letzte Verbindung zum Bahnhof nehmen.",
+            "hu": "A téli tömegközlekedési túra az állomáson indul, mely meleg csomópontként szolgál. Délben kényelmesen elérjük a főteret, és a közeli templomokban melegedhetünk. A látnivalók közötti rövid buszutak télen nagyon kellemesek.\n\nDélután a busz a Duras kastélyhoz, majd a Begijnhofhoz repít. A korai sötétedés miatt a kivilágított Speelhof hangulatos zárást ígér, mielőtt visszatérnénk az állomásra.",
+            "ro": "Turul cu transportul public începe la gară, care servește ca punct de legătură încălzit. La prânz ajungeți ușor în Grote Markt și vă încălziți în bisericile din jur. Scurtele călătorii cu autobuzul sunt foarte plăcute iarna.\n\nDupă-amiaza, transportul vă duce la castelul Duras și apoi la Begijnhof. Deoarece se întunecă devreme, domeniul Speelhof luminat oferă un final de zi superb.",
+            "en": "The winter transit tour starts at the station, which serves as a warm hub. At noon, comfortably reach Grote Markt and warm up in the nearby churches. The short bus trips between highlights are very pleasant in winter.\n\nIn the afternoon, transit takes you to Duras Castle and then to the Beguinage. As darkness falls early, the illuminated Speelhof provides an atmospheric finish before your final connection to the station."
+          },
+          "stops": [
+            {
+              "name": "Sint-Truiden Station",
+              "tip_5lang": {
+                "de": "Der Bahnhofskiosk bietet warme Getränke für die Fahrt.",
+                "hu": "Az állomási büfében forró italokat vehet az útra.",
+                "ro": "Chioșcul din gară oferă băuturi calde pentru drum.",
+                "en": "The station kiosk offers hot drinks for your journey."
+              }
+            },
+            {
+              "name": "Begijnhof Sint-Agnes",
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelle Winterfahrpläne.",
+                "hu": "Figyeljen az esetleges téli menetrendi változásokra.",
+                "ro": "Fiți atenți la eventualele orare de iarnă.",
+                "en": "Be aware of any potential winter schedule changes."
+              }
+            },
+            {
+              "name": "City Hall and Belfry",
+              "tip_5lang": {
+                "de": "Viele Linien halten direkt am festlichen Grote Markt.",
+                "hu": "Sok járat közvetlenül az ünnepi főtéren áll meg.",
+                "ro": "Multe linii opresc chiar în Grote Markt-ul festiv.",
+                "en": "Many bus lines stop directly at the festive Grote Markt."
+              }
+            },
+            {
+              "name": "Abbey Tower",
+              "tip_5lang": {
+                "de": "Der Aufstieg hält warm, aber oben ist es windig.",
+                "hu": "A mászás felmelegít, de fent szeles az idő.",
+                "ro": "Urcarea vă va încălzi, dar sus este vântos.",
+                "en": "The climb will keep you warm, but it's windy at the top."
+              }
+            },
+            {
+              "name": "Bus to Duras",
+              "tip_5lang": {
+                "de": "Die Busse sind gut beheizt; genießen Sie die Fahrt.",
+                "hu": "A buszok jól fűtöttek; élvezze a kilátást a melegből.",
+                "ro": "Autobuzele sunt bine încălzite; bucurați-vă de drum.",
+                "en": "Buses are well-heated; enjoy the view from the warmth."
+              }
+            },
+            {
+              "name": "Kasteel van Duras",
+              "tip_5lang": {
+                "de": "Behalten Sie die Uhr für den letzten Bus im Auge.",
+                "hu": "Figyelje az időt az utolsó busz eléréséhez.",
+                "ro": "Supravegheați ceasul pentru a prinde ultimul autobuz.",
+                "en": "Keep an eye on the time to catch the last bus back."
+              }
+            },
+            {
+              "name": "Speelhof Domain",
+              "tip_5lang": {
+                "de": "Abends sind die Wege zum Bus gut beleuchtet.",
+                "hu": "Este a buszhoz vezető utak jól kivilágítottak.",
+                "ro": "Seara, aleile spre autobuz sunt bine iluminate.",
+                "en": "In the evening, paths to the bus stop are well-lit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Wartezeiten in Cafés anstatt an der Haltestelle.",
+              "Die Züge und Busse können bei Schnee Verspätung haben.",
+              "Tragen Sie warme Schuhe für das Warten an der Haltestelle.",
+              "Planen Sie die Rückreise vor 18:00 Uhr ein."
+            ],
+            "hu": [
+              "A várakozási időt töltse kávézókban a megálló helyett.",
+              "A vonatok és buszok hóban késhetnek.",
+              "Viseljen meleg cipőt a megállóban való várakozáshoz.",
+              "Tervezze meg a visszautat 18:00 előtt."
+            ],
+            "ro": [
+              "Petreceți timpul de așteptare în cafenele, nu în stație.",
+              "Trenurile și autobuzele pot avea întârzieri pe zăpadă.",
+              "Purtați încălțăminte călduroasă pentru așteptarea în stație.",
+              "Planificați întoarcerea înainte de ora 18:00."
+            ],
+            "en": [
+              "Spend waiting time in cafes rather than at the bus stop.",
+              "Trains and buses may experience delays in snowy conditions.",
+              "Wear warm shoes for waiting at the stops.",
+              "Plan your return journey before 6:00 PM."
+            ]
+          }
+        }
       }
     }
   }

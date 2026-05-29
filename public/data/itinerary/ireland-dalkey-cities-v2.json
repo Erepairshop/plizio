@@ -362,6 +362,196 @@
           "Bring cash for the boat trip to Dalkey Island.",
           "Book in advance if you plan to have lunch at a popular restaurant."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt am Bullock Harbour, wo die graue Irische See gegen die Kaimauern peitscht. Mittags bietet das Dalkey Castle eine perfekte, trockene Zuflucht mit seiner interaktiven Geschichte. Am Nachmittag führt der Weg entlang der Küste zum Sorrento Park, eingehüllt in mystischen Nebel. Der Tag endet gemütlich in einem der warmen Pubs im Stadtzentrum von Dalkey.",
+            "hu": "A reggel Bullock Harbour kikötőjében indul, ahol az esőfüggöny különleges hangulatot ad a tengerpartnak. Délben a Dalkey Castle nyújt menedéket, ahol a belső tárlat szárazon élvezhető. Délután a Sorrento Park ködbe burkolózó panorámája vár ránk, mielőtt behúzódnánk egy barátságos helyi pubba. Az este a falu meleg fényeivel és egy forró itallal zárul a városközpontban.",
+            "ro": "O dimineață ploioasă începe în Bullock Harbour, unde valurile se sparg de zidurile vechi. La prânz, Castelul Dalkey oferă adăpostul perfect pentru a explora istoria locală la căldură. După-amiaza, Sorrento Park se dezvăluie printre picăturile de ploaie cu o atmosferă melancolică. Seara se încheie într-un pub primitor din centrul orașului, savurând o băutură caldă lângă șemineu.",
+            "en": "A rainy morning starts at Bullock Harbour, where the grey Irish Sea creates a moody atmosphere. At noon, Dalkey Castle provides a dry sanctuary with its engaging indoor tours. In the afternoon, the walk continues to Sorrento Park, offering misty views over the bay. The day concludes in the cozy warmth of a Dalkey village pub, sheltered from the damp Irish weather."
+          },
+          "stops": [
+            {
+              "name": "Bullock Harbour",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Steinen der Hafenmauer bei Regen.",
+                "hu": "Vigyázat, a móló kövei nagyon csúszósak lehetnek az esőben.",
+                "ro": "Atenție la pietrele alunecoase de pe dig în timpul ploii.",
+                "en": "Be careful on the slippery stones of the harbour wall during rain."
+              }
+            },
+            {
+              "name": "Dalkey Castle & Heritage Centre",
+              "tip_5lang": {
+                "de": "Die ideale Indoor-Aktivität; buchen Sie die geführte Tour im Voraus.",
+                "hu": "Ideális fedett program; érdemes előre lefoglalni a tárlatvezetést.",
+                "ro": "Activitate ideală de interior; rezervați turul ghidat în avans.",
+                "en": "Perfect indoor activity; book the living history tour in advance."
+              }
+            },
+            {
+              "name": "St. Begnet's Church",
+              "tip_5lang": {
+                "de": "Die Ruinen bieten nur wenig Schutz, halten Sie den Schirm bereit.",
+                "hu": "A romok kevés védelmet nyújtanak, tartsuk készenlétben az esernyőt.",
+                "ro": "Ruinele oferă puțin adăpost, țineți umbrela la îndemână.",
+                "en": "The ruins offer little shelter, so keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Coliemore Harbour",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf Dalkey Island aus dem Schutz eines Cafés.",
+                "hu": "Élvezze a Dalkey-szigetre nyíló kilátást egy közeli kávézó fedezékéből.",
+                "ro": "Bucurați-vă de vederea spre insulă din adăpostul unei cafenele.",
+                "en": "Enjoy the view of Dalkey Island from the shelter of a nearby cafe."
+              }
+            },
+            {
+              "name": "Sorrento Park",
+              "tip_5lang": {
+                "de": "Die Bäume bieten etwas Schutz vor leichtem Nieselregen.",
+                "hu": "A sűrűbb fák némi védelmet nyújtanak a szemerkélő eső ellen.",
+                "ro": "Copacii oferă puțină protecție împotriva burniței ușoare.",
+                "en": "The trees provide some shelter from light drizzling rain."
+              }
+            },
+            {
+              "name": "Vico Baths",
+              "tip_5lang": {
+                "de": "Beobachten Sie die mutigen Schwimmer; die Stufen sind sehr glatt.",
+                "hu": "Nézze meg a bátor úszókat; a lépcsők esőben fokozottan csúsznak.",
+                "ro": "Observați înotătorii curajoși; treptele sunt foarte alunecoase.",
+                "en": "Watch the brave local swimmers; the steps are very slick in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe, da die Küstenwege Pfützen bilden.",
+              "Dalkey Castle ist die beste Option, um eine längere Regenfront trocken zu überstehen.",
+              "Die Pubs in der Castle Street sind ideal für eine trockene Mittagspause.",
+              "Ein robuster Regenschirm ist bei den Windböen an der Küste unerlässlich.",
+              "Nutzen Sie die DART-Station als Unterstand, falls der Regen zu stark wird."
+            ],
+            "hu": [
+              "Viseljünk vízálló túrabakancsot, mert a parti ösvényeken megáll a víz.",
+              "A Dalkey Castle a legjobb helyszín a hosszabb záporok átvészelésére.",
+              "A Castle Street pubjai tökéletesek egy száraz ebédszünetre.",
+              "A parti szél miatt egy strapabíró esernyő elengedhetetlen kellék.",
+              "Használjuk a DART állomást menedékként, ha hirtelen felhőszakadás érne."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție impermeabilă pentru potecile cu noroi.",
+              "Castelul Dalkey este cea mai bună opțiune pentru a rămâne uscat.",
+              "Pub-urile de pe strada Castle sunt ideale pentru o pauză de prânz uscată.",
+              "O umbrelă rezistentă este esențială din cauza vântului de pe coastă.",
+              "Folosiți stația DART ca adăpost dacă ploaia devine prea puternică."
+            ],
+            "en": [
+              "Wear waterproof hiking boots as coastal paths can develop deep puddles.",
+              "Dalkey Castle is your best bet for staying dry during heavy showers.",
+              "The pubs on Castle Street are perfect for a long, dry lunch break.",
+              "A sturdy umbrella is essential due to the gusty winds along the coast.",
+              "Use Dalkey DART station for shelter if the rain becomes too intense."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Bullock Harbour ist klar und frostig, mit rauer See. Mittags wärmt die Führung im Dalkey Castle Körper und Geist. Am frühen Nachmittag nutzen wir das schwindende Licht für einen Spaziergang zum Sorrento Park, wo die Wintersonne tief über dem Meer steht. Der Abend bricht früh herein und lockt mit Kaminfeuer und lokaler Herzlichkeit in die Pubs von Dalkey.",
+            "hu": "A téli reggel friss és csípős a Bullock Harbour kikötőjében. Délben a Dalkey Castle fűtött falai között ismerkedünk a történelemmel. Kora délután, a korai naplemente előtt még teszünk egy sétát a Sorrento Parkban, élvezve a laposan beeső téli fényeket. Az este hamar leszáll, így a napot egy kandalló mellett, forró ír kávéval zárjuk a falu központjában.",
+            "ro": "O dimineață de iarnă geroasă și senină începe în Bullock Harbour. La prânz, turul Castelului Dalkey oferă o pauză caldă și educativă. După-amiaza profităm de puțina lumină pentru o plimbare spre Sorrento Park sub soarele palid. Seara coboară rapid, invitându-ne în pub-urile din Dalkey pentru o atmosferă caldă lângă focul de lemne.",
+            "en": "A crisp winter morning begins at Bullock Harbour with biting sea air. At noon, the indoor tour of Dalkey Castle provides a warm historical escape. In the early afternoon, we catch the low winter sun at Sorrento Park before the early sunset. The evening settles in quickly, making the roaring fires of Dalkey's local pubs the perfect place to finish the day."
+          },
+          "stops": [
+            {
+              "name": "Bullock Harbour",
+              "tip_5lang": {
+                "de": "Handschuhe sind bei der kalten Meeresbrise am Hafen unverzichtbar.",
+                "hu": "A kikötőben fújó jeges tengeri szél miatt a kesztyű kötelező.",
+                "ro": "Mănușile sunt indispensabile din cauza brizei înghețate din port.",
+                "en": "Gloves are essential given the biting cold sea breeze at the harbour."
+              }
+            },
+            {
+              "name": "Dalkey Castle & Heritage Centre",
+              "tip_5lang": {
+                "de": "Ein wunderbar beheizter Ort, um die Kälte für eine Weile zu vergessen.",
+                "hu": "Kellemesen fűtött helyszín, ahol kicsit felmelegedhetünk a séta közben.",
+                "ro": "Un loc bine încălzit unde puteți uita de frig pentru o vreme.",
+                "en": "A wonderfully heated venue to escape the winter chill for a while."
+              }
+            },
+            {
+              "name": "St. Begnet's Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Stellen auf dem unebenen Boden der Ruine.",
+                "hu": "Vigyázzunk a romok egyenetlen talaján az esetleges jeges foltokra.",
+                "ro": "Atenție la porțiunile înghețate de pe solul denivelat al ruinei.",
+                "en": "Watch out for icy patches on the uneven ground of the ruins."
+              }
+            },
+            {
+              "name": "Coliemore Harbour",
+              "tip_5lang": {
+                "de": "Im Winter sind die Boote zur Insel oft eingestellt; genießen Sie den Blick.",
+                "hu": "Télen a csónakok ritkábban járnak; érjük be a parti panorámával.",
+                "ro": "Iarna bărcile circulă rar; bucurați-vă de panoramă de pe mal.",
+                "en": "Boat trips are often suspended in winter; enjoy the view from shore."
+              }
+            },
+            {
+              "name": "Sorrento Park",
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16 Uhr hierher, um das letzte Tageslicht zu nutzen.",
+                "hu": "Érkezzünk délután 4 előtt, hogy még lássuk a téli naplementét.",
+                "ro": "Veniți înainte de ora 16:00 pentru a prinde ultima lumină a zilei.",
+                "en": "Arrive before 4 PM to catch the last rays of the low winter sun."
+              }
+            },
+            {
+              "name": "Vico Baths",
+              "tip_5lang": {
+                "de": "Bringen Sie heißen Tee mit, um den mutigen Winterschwimmern zuzusehen.",
+                "hu": "Vigyünk forró teát a termosztban a téli úszók látványához.",
+                "ro": "Aduceți ceai fierbinte în termos în timp ce priviți înotătorii de iarnă.",
+                "en": "Bring a thermos of hot tea while watching the hardy winter swimmers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten und eine winddichte Jacke für die Küste.",
+              "Die Sonne geht im Dezember bereits gegen 16:15 Uhr unter.",
+              "Dalkey Castle bietet eine hervorragende, warme Zuflucht zur Mittagszeit.",
+              "Reservieren Sie einen Tisch in einem Pub mit offenem Kamin.",
+              "Achten Sie auf glatte Stellen auf den Küstenwegen bei Frost."
+            ],
+            "hu": [
+              "Öltözzünk rétegesen, a szélálló kabát a tengerparton elengedhetetlen.",
+              "A nap decemberben már délután negyed 5 körül lemegy.",
+              "A Dalkey Castle kiváló meleg menedék a nap közepén.",
+              "Érdemes olyan pubot választani estére, ahol van valódi kandalló.",
+              "Fagy esetén vigyázzunk a parti ösvények csúszós szakaszaira."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi și purtați o jachetă rezistentă la vânt.",
+              "Soarele apune foarte devreme în decembrie, în jurul orei 16:15.",
+              "Castelul Dalkey oferă un refugiu cald excelent la prânz.",
+              "Rezervați o masă într-un pub care are șemineu cu lemne.",
+              "Fiți atenți la porțiunile de drum înghețate de-a lungul coastei."
+            ],
+            "en": [
+              "Dress in warm layers and use a windproof jacket for the coast.",
+              "The sun sets very early in December, around 4:15 PM.",
+              "Dalkey Castle offers an excellent warm refuge during the midday hours.",
+              "Book a table in a pub with a real log fire for a cozy evening.",
+              "Watch out for black ice on coastal paths during freezing temperatures."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +932,214 @@
           "A helmet is strongly recommended.",
           "Bring water and snacks for the climb up Killiney Hill."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein herausfordernder, regnerischer Morgen auf dem Rad beginnt am Bullock Harbour. Nach dem Besuch im trockenen Dalkey Castle führt die Fahrt vorsichtig zum Sorrento Park. Am Nachmittag trotzen wir dem Wind bei den Vico Baths, bevor wir den Killiney Hill erklimmen, wo die Wege schlammig sein können. Der Tag endet mit einer verdienten Pause im Dorf.",
+            "hu": "Kihívást jelentő esős reggel Bullock Harbour kikötőjében két keréken. A száraz Dalkey Castle után óvatosan tekerünk a Sorrento Park felé. Délután a széllel dacolva érjük el a Vico Baths-t, majd a Killiney Hill sáros ösvényein kapaszkodunk fel. A napot egy kiadós pihenővel zárjuk a falu központjában.",
+            "ro": "O dimineață provocatoare pe bicicletă începe în Bullock Harbour pe ploaie. După vizita la Castelul Dalkey, pedalăm cu grijă spre Sorrento Park. După-amiaza înfruntăm vântul la Vico Baths, urmat de o urcare pe Killiney Hill, unde potecile pot fi noroioase. Ziua se încheie cu o pauză binemeritată în sat.",
+            "en": "A challenging rainy morning on two wheels starts at Bullock Harbour. After a dry break at Dalkey Castle, we cycle carefully towards Sorrento Park. In the afternoon, we brave the wind at Vico Baths before climbing Killiney Hill, where paths can be muddy. The day ends with a well-deserved rest in Dalkey village."
+          },
+          "stops": [
+            {
+              "name": "Bullock Harbour",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassen Pflastersteinen am Hafen.",
+                "hu": "Óvatosan fékezzünk a kikötő nedves macskakövein.",
+                "ro": "Frânați cu grijă pe pavajul umed din zona portului.",
+                "en": "Exercise caution when braking on wet cobblestones near the harbour."
+              }
+            },
+            {
+              "name": "Dalkey Castle",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Biztonságos kerékpártárolók találhatók a bejárat közelében.",
+                "ro": "Suporturi sigure pentru biciclete se află lângă intrare.",
+                "en": "Secure bike racks are located conveniently near the entrance."
+              }
+            },
+            {
+              "name": "Coliemore Harbour",
+              "tip_5lang": {
+                "de": "Starker Wind kann das Radfahren hier an der Küste erschweren.",
+                "hu": "Az erős parti szél megnehezítheti itt a haladást.",
+                "ro": "Vântul puternic de coastă poate face pedalarea dificilă aici.",
+                "en": "Strong coastal winds can make cycling difficult in this area."
+              }
+            },
+            {
+              "name": "Sorrento Park",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Park ist bei Nässe rutschig; langsam fahren.",
+                "hu": "A parkhoz vezető emelkedő esőben csúszik; hajtsunk lassan.",
+                "ro": "Urcarea spre parc este alunecoasă; pedalați cu viteză redusă.",
+                "en": "The incline to the park is slippery when wet; cycle slowly."
+              }
+            },
+            {
+              "name": "Vico Baths",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher oben, bevor Sie zu den Bädern hinuntergehen.",
+                "hu": "Lent nincsenek tárolók, rögzítsük a bringát fent a korláthoz.",
+                "ro": "Parcați bicicleta în siguranță sus înainte de a coborî spre băi.",
+                "en": "Lock your bike securely at the top before walking down to the baths."
+              }
+            },
+            {
+              "name": "Killiney Hill Park",
+              "tip_5lang": {
+                "de": "Die Waldwege können sehr schlammig sein; bleiben Sie auf den Hauptwegen.",
+                "hu": "Az erdei utak sárosak lehetnek; maradjunk a főbb aszfaltozott utakon.",
+                "ro": "Potecile pot fi noroioase; rămâneți pe drumurile principale.",
+                "en": "Woodland trails can be very muddy; stick to the paved main paths."
+              }
+            },
+            {
+              "name": "Dalkey Island Viewpoint",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht bei diesem Wetter; der Wind ist hier stark.",
+                "hu": "Csak egy rövid megállót javasolunk a metsző szél miatt.",
+                "ro": "O oprire scurtă este suficientă; vântul este puternic aici.",
+                "en": "A quick stop is enough; the wind is very biting at this exposed spot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung und Schutzbleche sind dringend empfohlen.",
+              "Prüfen Sie Ihre Bremsen, da die Abfahrten von Killiney Hill steil sind.",
+              "Nutzen Sie die Castle Street für eine trockene Aufwärmpause.",
+              "Vermeiden Sie bei starkem Regen die unbefestigten Wege im Killiney Park.",
+              "Achten Sie auf tiefere Pfützen, die Schlaglöcher verbergen könnten."
+            ],
+            "hu": [
+              "Teljes esőruházat és sárvédő használata erősen ajánlott.",
+              "Ellenőrizzük a fékeket a Killiney Hill meredek lejtői előtt.",
+              "A Castle Street kávézói ideálisak egy száraz pihenőre.",
+              "Erős esőben kerüljük a Killiney Park földútjait.",
+              "Vigyázzunk a mélyebb tócsákkal, mert kátyúkat rejthetnek."
+            ],
+            "ro": [
+              "Se recomandă echipament complet de ploaie și apărători de noroi.",
+              "Verificați frânele pentru coborârile abrupte de pe Killiney Hill.",
+              "Folosiți strada Castle pentru o pauză de încălzire la adăpost.",
+              "Evitați potecile neasfaltate din parcul Killiney pe ploaie torențială.",
+              "Atenție la bălțile adânci care pot ascunde gropi în asfalt."
+            ],
+            "en": [
+              "Full waterproof gear and mudguards are highly recommended for this route.",
+              "Check your brakes before the steep descents from Killiney Hill.",
+              "Use the cafes on Castle Street for a dry warming-up break.",
+              "Avoid unpaved trails in Killiney Park during heavy rainfall.",
+              "Watch out for deep puddles that may hide potholes in the road."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger, klarer Wintermorgen führt uns auf dem Rad am Bullock Harbour vorbei. Mittags bietet das Dalkey Castle eine willkommene Aufwärmpause. Am Nachmittag erklimmen wir den Killiney Hill für eine spektakuläre Aussicht im tiefen Sonnenlicht, bevor es bei dämmerndem Licht zurück ins Dorf geht. Der Tag endet bei heißem Punsch in einem gemütlichen Pub.",
+            "hu": "Fagyos, tiszta téli reggelen vágunk neki az útnak Bullock Harbour mellett. Délben a Dalkey Castle nyújt menedéket a hideg elől. Délután feltekerünk a Killiney Hillre a pazar téli panorámáért, majd a szürkületben gurulunk vissza a faluba. A napot egy forró itallal zárjuk az egyik barátságos helyi pubban.",
+            "ro": "O dimineață de iarnă geroasă ne găsește pedalând pe lângă Bullock Harbour. La prânz, Castelul Dalkey oferă o pauză de încălzire binevenită. După-amiaza urcăm pe Killiney Hill pentru vederi spectaculoase în lumina joasă a soarelui. Ziua se încheie cu o băutură fierbinte într-un pub călduros din sat.",
+            "en": "A frosty, clear winter morning finds us cycling past Bullock Harbour. At noon, Dalkey Castle provides a welcome warming break. In the afternoon, we climb Killiney Hill for spectacular views in the low winter light, before heading back to the village as dusk falls. The day ends with a hot drink in a cozy local pub."
+          },
+          "stops": [
+            {
+              "name": "Bullock Harbour",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe am frühen Morgen.",
+                "hu": "Vigyázzunk a kora reggeli lefagyásokra a móló környékén.",
+                "ro": "Atenție la porțiunile înghețate de pe șosea dimineața devreme.",
+                "en": "Watch out for black ice on the roads early in the morning."
+              }
+            },
+            {
+              "name": "Dalkey Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit drinnen, um Ihre Hände aufzuwärmen.",
+                "hu": "Használjuk ki a benti időt a kezeink felmelegítésére.",
+                "ro": "Folosiți timpul petrecut în interior pentru a vă încălzi mâinile.",
+                "en": "Use the time indoors to warm up your hands and feet."
+              }
+            },
+            {
+              "name": "Coliemore Harbour",
+              "tip_5lang": {
+                "de": "Der Windchill-Faktor ist hier an der Küste im Winter extrem.",
+                "hu": "A tengerparti szél miatt a hőérzet sokkal alacsonyabb.",
+                "ro": "Senzația de frig este accentuată de vântul de pe coastă.",
+                "en": "The windchill factor is extreme here by the coast in winter."
+              }
+            },
+            {
+              "name": "Sorrento Park",
+              "tip_5lang": {
+                "de": "Ein toller Ort für Fotos im tiefen Licht der Wintersonne.",
+                "hu": "Remek helyszín fotózáshoz a laposan érkező téli fényekben.",
+                "ro": "Un loc excelent pentru fotografii în lumina joasă a iernii.",
+                "en": "A great spot for photos in the low-angled winter sunlight."
+              }
+            },
+            {
+              "name": "Vico Baths",
+              "tip_5lang": {
+                "de": "Halten Sie den Stopp kurz, um nicht zu stark auszukühlen.",
+                "hu": "Tartsuk röviden a megállót, nehogy túlságosan lehűljünk.",
+                "ro": "Faceți o oprire scurtă pentru a nu vă răci prea tare.",
+                "en": "Keep this stop brief to avoid getting too chilled by the sea."
+              }
+            },
+            {
+              "name": "Killiney Hill Park",
+              "tip_5lang": {
+                "de": "Harte, gefrorene Wege bieten guten Grip, aber Vorsicht vor Eis.",
+                "hu": "A fagyott talaj jól tapad, de vigyázzunk a rejtett jégfoltokkal.",
+                "ro": "Solul înghețat oferă aderență, dar atenție la gheață.",
+                "en": "Frozen ground provides good grip, but watch for hidden ice patches."
+              }
+            },
+            {
+              "name": "Dalkey Island Viewpoint",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Lichter für die Rückfahrt funktionieren.",
+                "hu": "Ellenőrizzük a lámpákat, mert hamarosan teljesen besötétedik.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează pentru întoarcere.",
+                "en": "Ensure your bike lights are working for the journey back in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und Wintersocken sind für Radfahrer ein Muss.",
+              "Die Sonne verschwindet früh; haben Sie immer Licht am Rad.",
+              "Vermeiden Sie schattige Waldwege, dort hält sich das Eis länger.",
+              "Planen Sie regelmäßige Aufwärmstopps in Cafés ein.",
+              "Die Luft ist trocken und kalt; schützen Sie Ihr Gesicht mit einem Tuch."
+            ],
+            "hu": [
+              "Meleg kesztyű és téli zokni elengedhetetlen a kerékpározáshoz.",
+              "A nap korán nyugszik, legyen nálunk működő világítás.",
+              "Kerüljük az árnyékos erdei utakat, ott tovább megmarad a jég.",
+              "Tervezzünk rendszeres melegedő pihenőket kávézókban.",
+              "A levegő száraz és hideg; védjük arcunkat sállal vagy maszkkal."
+            ],
+            "ro": [
+              "Mănușile groase și șosetele de iarnă sunt obligatorii pentru cicliști.",
+              "Soarele apune devreme; aveți întotdeauna lumini pornite la bicicletă.",
+              "Evitați potecile umbrite din pădure, unde gheața persistă.",
+              "Planificați pauze regulate de încălzire în cafenele.",
+              "Aerul este rece și uscat; protejați-vă fața cu un fular."
+            ],
+            "en": [
+              "Warm gloves and thermal socks are a must for winter cycling.",
+              "Daylight fades early; always have functional lights on your bike.",
+              "Avoid shaded forest paths as ice tends to linger there longer.",
+              "Schedule regular stops in cafes to warm up and hydrate.",
+              "The air is cold and dry; protect your face with a buff or scarf."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1496,196 @@
           "The roads around Dalkey are narrow; drive with care.",
           "Check the boat departure times for Dalkey Island."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag lässt sich bequem im Auto erkunden. Wir starten am Killiney Hill Parkplatz und genießen den Blick aus dem trockenen Innenraum. Mittags parken wir im Zentrum von Dalkey für eine ausgiebige Tour durch das Schloss. Am Nachmittag bietet die Fahrt entlang der Vico Road tolle Ausblicke, bevor wir den Tag am Hafen ausklingen lassen.",
+            "hu": "Az esős napot legkényelmesebben autóval hidalhatjuk át. A Killiney Hill parkolójából indulunk, élvezve a kilátást a száraz utastérből. Délben Dalkey központjában állunk meg a várkastély meglátogatásához. Délután a Vico Road mentén autózunk a panorámáért, majd a kikötőben zárjuk a napot, figyelve a hullámokat.",
+            "ro": "O zi ploioasă poate fi explorată confortabil cu mașina. Începem în parcarea Killiney Hill, admirând vederea din interiorul uscat. La prânz parcăm în centrul localității Dalkey pentru a vizita castelul. După-amiaza, drumul pe Vico Road oferă panorame superbe, înainte de a încheia ziua în port, privind marea.",
+            "en": "A rainy day is best explored from the comfort of a car. We start at Killiney Hill car park, enjoying the view from the dry interior. At noon, we park in Dalkey centre for an extensive tour of the castle. In the afternoon, the drive along Vico Road offers great misty vistas before concluding the day at the harbour."
+          },
+          "stops": [
+            {
+              "name": "Killiney Hill Car Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie die Aussicht.",
+                "hu": "Szakadó esőben maradjunk az autóban, onnan is szép a kilátás.",
+                "ro": "Rămâneți în mașină pe ploaie torențială și admirați peisajul.",
+                "en": "Stay in the car during heavy downpours and enjoy the elevated view."
+              }
+            },
+            {
+              "name": "Killiney Hill Park Summit",
+              "tip_5lang": {
+                "de": "Der Weg zum Gipfel ist kurz, aber bei Regen sehr schlammig.",
+                "hu": "A csúcsig tartó út rövid, de esőben rendkívül sáros.",
+                "ro": "Drumul spre vârf este scurt, dar foarte noroios pe ploaie.",
+                "en": "The walk to the summit is short but can be very muddy in the rain."
+              }
+            },
+            {
+              "name": "Vico Baths",
+              "tip_5lang": {
+                "de": "Parkplätze sind hier begrenzt; achten Sie auf den Gegenverkehr.",
+                "hu": "A parkolás itt korlátozott; vigyázzunk a szűk úton a forgalomra.",
+                "ro": "Locurile de parcare sunt limitate; atenție la traficul din sens opus.",
+                "en": "Parking is very limited here; watch for oncoming traffic on the narrow road."
+              }
+            },
+            {
+              "name": "Dalkey Centre (Car Park)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen öffentlichen Parkplatz hinter dem Supermarkt.",
+                "hu": "Használjuk a szupermarket mögötti nagy nyilvános parkolót.",
+                "ro": "Folosiți parcarea publică mare din spatele supermarketului.",
+                "en": "Use the large public car park located behind the supermarket."
+              }
+            },
+            {
+              "name": "Dalkey Island Boat Trip",
+              "tip_5lang": {
+                "de": "Bootsfahrten werden bei schlechtem Wetter oft kurzfristig abgesagt.",
+                "hu": "Rossz idő esetén a csónaktúrákat gyakran lemondják.",
+                "ro": "Excursiile cu barca sunt adesea anulate pe vreme rea.",
+                "en": "Boat trips are frequently cancelled at short notice during bad weather."
+              }
+            },
+            {
+              "name": "Bullock Harbour",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Kai, um die Wellen sicher zu beobachten.",
+                "hu": "Parkoljunk közvetlenül a rakparton a hullámok megfigyeléséhez.",
+                "ro": "Parcați direct pe chei pentru a observa valurile în siguranță.",
+                "en": "Park right on the quay to watch the waves from the safety of your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Windschutzscheibe beschlägt schnell; nutzen Sie die Klimaanlage.",
+              "Parkplätze im Zentrum von Dalkey sind bei Regen sehr begehrt.",
+              "Prüfen Sie den Status der Bootstouren telefonisch vor der Abfahrt.",
+              "Die Vico Road ist schmal; fahren Sie bei schlechter Sicht vorsichtig.",
+              "Ein Regenschirm für den Weg vom Parkplatz zum Schloss ist nötig."
+            ],
+            "hu": [
+              "A szélvédő hamar bepárásodik; használjuk a légkondicionálót.",
+              "Dalkey központjában esőben nehezebb szabad parkolót találni.",
+              "Indulás előtt telefonon ellenőrizzük a csónakok indulását.",
+              "A Vico Road szűk; rossz látási viszonyok között vezessünk lassabban.",
+              "A parkolótól a várig tartó rövid útra is vigyünk esernyőt."
+            ],
+            "ro": [
+              "Parbrizul se aburește rapid; folosiți aerul condiționat.",
+              "Locurile de parcare din centrul Dalkey sunt la mare căutare pe ploaie.",
+              "Verificați telefonic dacă bărcile circulă înainte de a pleca.",
+              "Vico Road este îngustă; conduceți cu atenție sporită pe vizibilitate redusă.",
+              "Veți avea nevoie de umbrelă pentru drumul de la parcare la castel."
+            ],
+            "en": [
+              "Windows fog up quickly in the rain; keep the air conditioning on.",
+              "Parking spots in Dalkey centre are in high demand during rainy spells.",
+              "Check the status of boat trips via phone before heading to the harbour.",
+              "Vico Road is narrow; drive cautiously if visibility is poor.",
+              "An umbrella is necessary even for the short walk from the car to the castle."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt mit einer Panoramafahrt zum Killiney Hill. Wir genießen die frostige Landschaft aus dem geheizten Wagen. Mittags erkunden wir das Schloss im Dorfzentrum, bevor wir am Nachmittag die malerische Küstenstraße befahren. Der Tag endet im Licht der Straßenlaternen von Dalkey, bevor wir uns in ein gemütliches Restaurant zurückziehen.",
+            "hu": "Tiszta téli napunk egy panorámás autózással indul a Killiney Hill felé. A fűtött autóból csodáljuk a dérlepte tájat. Délben a várkastélyt fedezzük fel, majd délután a festői parti utakon kanyargunk. A napot Dalkey hangulatos utcai lámpáinak fényében, egy kellemes étteremben zárjuk.",
+            "ro": "O zi senină de iarnă începe cu o plimbare spre Killiney Hill. Admirăm peisajul înghețat din confortul mașinii încălzite. La prânz explorăm castelul, iar după-amiaza parcurgem drumul pitoresc de pe coastă. Ziua se încheie sub lumina felinarelor din Dalkey, la un restaurant primitor.",
+            "en": "A clear winter day starts with a panoramic drive to Killiney Hill. We enjoy the frosty landscape from our heated vehicle. At noon, we explore the castle in the village, followed by a scenic coastal drive in the afternoon. The day ends under the glow of Dalkey's streetlights before retreating to a cozy restaurant."
+          },
+          "stops": [
+            {
+              "name": "Killiney Hill Car Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis auf dem Parkplatz am frühen Morgen.",
+                "hu": "Vigyázzunk a kora reggeli jegesedésre a parkolóban.",
+                "ro": "Atenție la porțiunile de gheață din parcare dimineața devreme.",
+                "en": "Watch out for icy patches in the car park early in the morning."
+              }
+            },
+            {
+              "name": "Killiney Hill Park Summit",
+              "tip_5lang": {
+                "de": "Ein zügiger Spaziergang zum Obelisken lohnt sich für die Wintersonne.",
+                "hu": "Egy gyors séta az obeliszkhez megéri a téli napsütés látványáért.",
+                "ro": "O plimbare scurtă până la obelisc merită pentru soarele de iarnă.",
+                "en": "A brisk walk to the obelisk is worth it for the low winter sun views."
+              }
+            },
+            {
+              "name": "Vico Baths",
+              "tip_5lang": {
+                "de": "Die Straße kann hier bei Frost besonders glatt sein.",
+                "hu": "Az út itt fagyos időben különösen csúszós lehet.",
+                "ro": "Drumul poate fi deosebit de alunecos aici în caz de îngheț.",
+                "en": "The road here can be particularly slick during freezing temperatures."
+              }
+            },
+            {
+              "name": "Dalkey Centre (Car Park)",
+              "tip_5lang": {
+                "de": "Ab 17 Uhr ist es dunkel; achten Sie beim Parken auf Fußgänger.",
+                "hu": "Délután 5 után már sötét van; vigyázzunk a gyalogosokra.",
+                "ro": "E deja întuneric după ora 17:00; atenție la pietoni când parcați.",
+                "en": "It's dark after 5 PM; watch for pedestrians when manoeuvring."
+              }
+            },
+            {
+              "name": "Dalkey Island Boat Trip",
+              "tip_5lang": {
+                "de": "Télen a csónakok ritkán közlekednek; ellenőrizze előre.",
+                "hu": "Télen a csónakok ritkán közlekednek; ellenőrizzük előre.",
+                "ro": "Bărcile circulă rar iarna; verificați programul în avans.",
+                "en": "Boats run infrequently in winter; check availability beforehand."
+              }
+            },
+            {
+              "name": "Bullock Harbour",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang direkt aus dem warmen Auto.",
+                "hu": "Élvezze a naplementét közvetlenül a meleg autóból.",
+                "ro": "Bucurați-vă de apus direct din mașina călduroasă.",
+                "en": "Enjoy the sunset directly from the warmth of your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Scheibenfrostschutz aufgefüllt ist.",
+              "Die Batterie kann bei Kälte schwächeln; prüfen Sie deren Zustand.",
+              "Achten Sie auf Glatteis auf den schattigen Abschnitten der Vico Road.",
+              "Nutzen Sie die Parkhäuser, um das Auto eisfrei zu halten.",
+              "Fahren Sie vorausschauend, da die Küstenstraßen tückisch sein können."
+            ],
+            "hu": [
+              "Ellenőrizzük a fagyálló szélvédőmosó folyadék szintjét.",
+              "A hideg megviselheti az akkumulátort; ellenőrizzük az állapotát.",
+              "Vigyázzunk a tükörjégre a Vico Road árnyékos szakaszain.",
+              "Használjunk parkolóházat, ha tehetjük, hogy ne fagyjon le az autó.",
+              "Vezessünk óvatosan, a parti utak télen trükkösek lehetnek."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți lichid de parbriz rezistent la îngheț.",
+              "Bateria poate fi slăbită de frig; verificați-i starea.",
+              "Atenție la polei pe porțiunile umbrite de pe Vico Road.",
+              "Folosiți parcări acoperite pentru a evita înghețarea parbrizului.",
+              "Conduceți preventiv, drumurile de coastă pot fi înșelătoare iarna."
+            ],
+            "en": [
+              "Ensure your screenwash is rated for freezing temperatures.",
+              "Car batteries can struggle in the cold; check its health before leaving.",
+              "Watch out for black ice on shaded sections of Vico Road.",
+              "Use multi-storey car parks if available to keep the car frost-free.",
+              "Drive defensively as coastal roads can be treacherous in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1430,6 +2018,178 @@
           "Dalkey and Killiney stations are not wheelchair accessible.",
           "Combine your DART journey with walking to get the best of both worlds."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem DART erreicht man Dalkey auch bei Regen bequem. Vom Bahnhof ist es nur ein kurzer, nasser Sprint zum Schloss. Mittags wärmen wir uns drinnen auf, bevor wir mit dem Zug weiter nach Killiney fahren. Den Nachmittag verbringen wir in den überdachten Bereichen des Killiney Parks, bevor uns die Bahn zurück in die Stadt bringt.",
+            "hu": "A DART vonattal esőben is kényelmesen elérhető Dalkey. Az állomástól csak egy rövid séta a várkastély. Délben bent melegedünk, majd vonattal megyünk tovább Killiney felé. A délutánt a Killiney Park fedettebb részein töltjük, mielőtt a vonat visszavisz minket a városba.",
+            "ro": "Cu trenul DART se ajunge confortabil în Dalkey chiar și pe ploaie. Din gară e doar o scurtă plimbare până la castel. La prânz ne încălzim în interior, apoi luăm trenul spre Killiney. După-amiaza o petrecem în zonele mai adăpostite din parcul Killiney, înainte ca trenul să ne ducă înapoi.",
+            "en": "Reaching Dalkey by DART is comfortable even in the rain. From the station, it's just a short dash to the castle. At noon, we stay warm indoors before taking the train further to Killiney. We spend the afternoon in the sheltered areas of Killiney Park before the train takes us back to the city."
+          },
+          "stops": [
+            {
+              "name": "Arrive at Dalkey Station",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Bahnsteigdach, bis der Schauer nachlässt.",
+                "hu": "Várjunk a peron teteje alatt, amíg a nagyobb zápor elvonul.",
+                "ro": "Așteptați sub copertina peronului până trece aversa.",
+                "en": "Wait under the platform canopy until the heavy shower passes."
+              }
+            },
+            {
+              "name": "Dalkey Castle & Centre",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten zu Fuß vom Bahnhof; halten Sie den Schirm bereit.",
+                "hu": "Csak 5 perc séta az állomástól; tartsuk készen az esernyőt.",
+                "ro": "Doar 5 minute de mers pe jos de la gară; pregătiți umbrela.",
+                "en": "Only a 5-minute walk from the station; have your umbrella ready."
+              }
+            },
+            {
+              "name": "Coliemore Harbour (for Boat Trip)",
+              "tip_5lang": {
+                "de": "Der Weg zum Hafen ist ungeschützt; tragen Sie Regenkleidung.",
+                "hu": "A kikötőhöz vezető út nyitott; viseljünk esőálló ruhát.",
+                "ro": "Drumul spre port este neadăpostit; purtați haine de ploaie.",
+                "en": "The walk to the harbour is exposed; wear proper waterproofs."
+              }
+            },
+            {
+              "name": "Killiney Station",
+              "tip_5lang": {
+                "de": "Die Station bietet einen guten Unterstand direkt am Meer.",
+                "hu": "Az állomás jó menedéket nyújt közvetlenül a tengerparton.",
+                "ro": "Stația oferă un adăpost bun chiar pe malul mării.",
+                "en": "The station provides decent shelter right by the seafront."
+              }
+            },
+            {
+              "name": "Killiney Hill Park",
+              "tip_5lang": {
+                "de": "Der Aufstieg von der Station ist bei Regen recht steil und rutschig.",
+                "hu": "Az állomástól induló emelkedő esőben meredek és csúszós.",
+                "ro": "Urcarea din stație este destul de abruptă și alunecosă pe ploaie.",
+                "en": "The climb from the station is quite steep and slippery in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Leap Card funktioniert problemlos im DART-System.",
+              "Die DART-Züge fahren alle 15-20 Minuten.",
+              "Nutzen Sie die Echtzeit-App, um Wartezeiten im Regen zu minimieren.",
+              "In den Bahnhöfen gibt es oft kleine Cafés für eine trockene Pause.",
+              "Die Züge sind beheizt und bieten eine tolle Aussicht auf die Küste."
+            ],
+            "hu": [
+              "A Leap Card zökkenőmentesen használható a DART hálózatán.",
+              "A DART vonatok 15-20 percenként közlekednek.",
+              "Használjuk a menetrendi appot, hogy ne ázzunk a peronon.",
+              "Az állomásokon gyakran vannak kis kávézók a száraz várakozáshoz.",
+              "A vonatok fűtöttek, és remek kilátást nyújtanak a tengerre."
+            ],
+            "ro": [
+              "Cardul Leap funcționează fără probleme în sistemul DART.",
+              "Trenurile DART circulă la fiecare 15-20 de minute.",
+              "Folosiți aplicația de transport pentru a nu aștepta în ploaie.",
+              "Stațiile au adesea cafenele mici pentru o pauză uscată.",
+              "Trenurile sunt încălzite și oferă o vedere superbă spre coastă."
+            ],
+            "en": [
+              "Use your Leap Card for seamless travel on the DART network.",
+              "DART trains run approximately every 15-20 minutes.",
+              "Check the real-time app to avoid waiting in the rain on the platform.",
+              "Stations often have small kiosks or cafes for a dry break.",
+              "Trains are well-heated and offer great coastal views while staying dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintertag bringt uns der DART nach Dalkey. Wir spazieren durch das frostige Dorf zum Schloss. Mittags nutzen wir die Wärme der Innenräume, bevor wir mit dem Zug eine Station weiter nach Killiney fahren. Den Nachmittag verbringen wir auf dem Killiney Hill, um die tiefstehende Wintersonne zu sehen, bevor uns der DART zurückbringt.",
+            "hu": "Tiszta téli napon érkezünk Dalkey-ba a DART vonattal. A dérlepte falun át sétálunk a várkastélyhoz. Délben a benti programot élvezzük, majd vonattal megyünk tovább egy megállót Killiney-be. A délutánt a Killiney Hillen töltjük a téli naplemente fényében, mielőtt visszautaznánk a városba.",
+            "ro": "Într-o zi senină de iarnă, trenul DART ne aduce în Dalkey. Ne plimbăm prin satul înghețat până la castel. La prânz profităm de căldura din interior, apoi luăm trenul o stație până la Killiney. După-amiaza o petrecem pe Killiney Hill pentru apusul de iarnă, înainte de a ne întoarce.",
+            "en": "On a clear winter day, the DART brings us to Dalkey. We walk through the frosty village to the castle. At noon, we enjoy the indoor history tour, then take the train one stop further to Killiney. We spend the afternoon on Killiney Hill to see the low winter sun before heading back by DART."
+          },
+          "stops": [
+            {
+              "name": "Arrive at Dalkey Station",
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Bahnsteig auf gefrorene Stellen.",
+                "hu": "Vigyázzunk a peronon az esetleges jegesedésre.",
+                "ro": "Atenție la porțiunile înghețate de pe peron.",
+                "en": "Watch out for icy patches on the station platform."
+              }
+            },
+            {
+              "name": "Dalkey Castle & Centre",
+              "tip_5lang": {
+                "de": "Die ideale warme Pause auf halber Strecke durch den Tag.",
+                "hu": "Ideális melegedő pont a nap közepén.",
+                "ro": "Locul ideal pentru o pauză caldă la mijlocul zilei.",
+                "en": "The ideal warm break at the midpoint of your winter day."
+              }
+            },
+            {
+              "name": "Coliemore Harbour (for Boat Trip)",
+              "tip_5lang": {
+                "de": "Wickeln Sie sich warm ein; die Meeresbrise ist im Winter eisig.",
+                "hu": "Öltözzünk fel jól; a tengeri szél télen metszően hideg.",
+                "ro": "Îmbrăcați-vă gros; briza mării este înghețată iarna.",
+                "en": "Wrap up warm; the sea breeze is freezing in winter."
+              }
+            },
+            {
+              "name": "Killiney Station",
+              "tip_5lang": {
+                "de": "Warten Sie im beheizten Wartebereich auf den nächsten Zug.",
+                "hu": "Várjunk a következő vonatra a fűtött váróteremben.",
+                "ro": "Așteptați următorul tren în zona de așteptare încălzită.",
+                "en": "Wait for your next train in the heated waiting area if available."
+              }
+            },
+            {
+              "name": "Killiney Hill Park",
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16 Uhr hierher, um nicht im Dunkeln abzusteigen.",
+                "hu": "Érkezzünk 16 óra előtt, hogy ne sötétben kelljen lejönni a hegyről.",
+                "ro": "Veniți înainte de ora 16:00 pentru a nu coborî pe întuneric.",
+                "en": "Arrive before 4 PM to avoid descending the hill in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der DART bietet eine warme und zuverlässige Verbindung.",
+              "Tragen Sie warme Schuhe für die zugigen Bahnsteige.",
+              "Die Sonne geht früh unter; planen Sie Ihre Rückfahrt rechtzeitig.",
+              "In Dalkey gibt es viele gemütliche Cafés direkt am Bahnhof.",
+              "Genießen Sie die Aussicht auf die Dublin Bay aus dem beheizten Zug."
+            ],
+            "hu": [
+              "A DART meleg és megbízható közlekedési mód télen is.",
+              "Viseljünk meleg cipőt a huzatos vasúti peronokon.",
+              "A nap korán nyugszik, tervezzük meg időben a hazautat.",
+              "Dalkey-ban sok hangulatos kávézó van közvetlenül az állomásnál.",
+              "Élvezzük a Dublin Bay látványát a fűtött vonatablakból."
+            ],
+            "ro": [
+              "Trenul DART oferă o conexiune caldă și fiabilă iarna.",
+              "Purtați încălțăminte groasă pentru peroanele unde trage curentul.",
+              "Soarele apune devreme; planificați din timp întoarcerea.",
+              "În Dalkey sunt multe cafenele primitoare chiar lângă gară.",
+              "Admirați golful Dublin din interiorul trenului încălzit."
+            ],
+            "en": [
+              "The DART provides a warm and reliable way to travel in winter.",
+              "Wear warm footwear for the drafty station platforms.",
+              "Daylight ends early; plan your return journey accordingly.",
+              "Dalkey has many cozy cafes located right by the station entrance.",
+              "Enjoy the views of Dublin Bay from the comfort of a heated train."
+            ]
+          }
+        }
       }
     }
   }

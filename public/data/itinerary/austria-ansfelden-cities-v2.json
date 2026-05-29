@@ -362,6 +362,188 @@
           "Check the opening hours for the museums, especially the birthplace, as they can vary.",
           "Lunch at a traditional Gasthof is a must-do."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag startet im modernen Anton Bruckner Centrum, wo wir dem Regen entgehen. Mittags besuchen wir die Stadtpfarrkirche und finden Schutz im historischen Geburtshaus des Komponisten. Der Nachmittag am Sagenweg erfordert festes Schuhwerk und einen stabilen Schirm. Der Tag klingt mit einem kurzen, erfrischenden Spaziergang durch den Kremspark aus.",
+            "hu": "A délelőtt a modern Anton Bruckner Központban indul, elkerülve az esőt. Délben meglátogatjuk a plébániatemplomot, majd a zeneszerző szülőházában találunk menedéket. A délutáni túra a Mondauton vízálló lábbelit és stabil esernyőt igényel. A napot egy rövid, frissítő séta zárja a Kremspark ártéri fái alatt.",
+            "ro": "Dimineața începe în Centrul Anton Bruckner, ferit de intemperii. La prânz vizităm biserica parohială și găsim adăpost în casa natală a compozitorului. După-amiaza pe Poteca Legendelor necesită încălțăminte impermeabilă și o umbrelă solidă. Ziua se încheie cu o scurtă plimbare revigorantă prin Kremspark, sub freamătul ploii.",
+            "en": "The morning starts at the modern Anton Bruckner Centre, avoiding the rain. At midday, we visit the parish church and find shelter in the composer's historic birthplace. The afternoon on the Saga Trail requires waterproof footwear and a sturdy umbrella. The day ends with a short, refreshing walk through the floodplain trees of Kremspark."
+          },
+          "stops": [
+            {
+              "name": "Anton Bruckner Centre",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ersten Regenschauer bei einer Ausstellung abzuwarten.",
+                "hu": "Tökéletes hely az első zápor kivárására egy kiállítás megtekintése közben.",
+                "ro": "Locul perfect pentru a aștepta trecerea primei averse în timpul unei expoziții.",
+                "en": "Perfect place to wait out the first rain shower while browsing an exhibition."
+              }
+            },
+            {
+              "name": "Bruckner Statue",
+              "tip_5lang": {
+                "de": "Ein schnelles Foto unter dem Schirm, bevor es weiter zur Kirche geht.",
+                "hu": "Egy gyors fotó az esernyő alatt, mielőtt továbbindulnánk a templom felé.",
+                "ro": "O fotografie rapidă sub umbrelă înainte de a continua spre biserică.",
+                "en": "A quick photo under the umbrella before moving on to the church."
+              }
+            },
+            {
+              "name": "Parish Church of St. Valentin",
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Kirche bieten absolute Trockenheit und Stille.",
+                "hu": "A templom vastag falai teljes szárazságot és csendet nyújtanak.",
+                "ro": "Zidurile groase ale bisericii oferă uscăciune totală și liniște.",
+                "en": "The thick walls of the church offer total dryness and silence."
+              }
+            },
+            {
+              "name": "Anton Bruckner's Birthplace",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenzeit für eine ausführliche Besichtigung der Exponate.",
+                "hu": "Használja ki az esős időt a kiállítási tárgyak alapos megtekintésére.",
+                "ro": "Folosiți timpul ploios pentru o vizitare detaliată a exponatelor.",
+                "en": "Use the rainy time for a detailed inspection of the exhibits."
+              }
+            },
+            {
+              "name": "Ansfelden Saga Trail",
+              "tip_5lang": {
+                "de": "Achtung, der Waldweg kann bei Nässe stellenweise rutschig sein.",
+                "hu": "Vigyázat, az erdei út nedves időben helyenként csúszós lehet.",
+                "ro": "Atenție, poteca din pădure poate fi alunecoasă pe alocuri când este udă.",
+                "en": "Careful, the forest path can be slippery in places when wet."
+              }
+            },
+            {
+              "name": "Kremspark",
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen bieten einen gewissen Schutz vor leichtem Nieselregen.",
+                "hu": "A sűrű lombok némi védelmet nyújtanak az enyhe szemerkélő eső ellen.",
+                "ro": "Coroanele dese ale copacilor oferă o oarecare protecție împotriva burniței.",
+                "en": "The dense tree canopies offer some protection against light drizzle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für den Sagenweg.",
+              "Die Museen in Ansfelden sind ideale Rückzugsorte bei Dauerregen.",
+              "Nutzen Sie die Durchgänge im Stadtzentrum als trockene Abkürzungen.",
+              "Ein Taschenschirm ist bei den Windböen im Kremstal oft praktischer als ein Stockschirm."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a Mondúthoz.",
+              "Ansfelden múzeumai ideális menedékek tartós eső esetén.",
+              "Használja a városközpont átjáróit száraz rövidítésként.",
+              "A Kremstal szélrohamai miatt egy összecsukható esernyő praktikusabb lehet."
+            ],
+            "ro": [
+              "Purtați bocanci de drumeție impermeabili pentru Poteca Legendelor.",
+              "Muzeele din Ansfelden sunt refugii ideale în caz de ploaie continuă.",
+              "Folosiți pasajele din centrul orașului ca scurtături uscate.",
+              "O umbrelă de buzunar este adesea mai practică decât una lungă din cauza vântului."
+            ],
+            "en": [
+              "Wear waterproof hiking boots for the Saga Trail.",
+              "Ansfelden's museums are ideal retreats during continuous rain.",
+              "Use the city center passageways as dry shortcuts.",
+              "A pocket umbrella is often more practical than a full-size one due to wind gusts."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt am Bruckner Centrum. Die Statue und die Kirche St. Valentin wirken im Frost besonders andächtig. Nach der Aufwärmpause im warmen Geburtshaus wandern wir durch die verschneite Landschaft des Sagenwegs. Der Tag endet im Kremspark, wenn die Dämmerung den Raureif an den Bäumen blau färbt.",
+            "hu": "Tiszta téli reggel indul a Bruckner Központnál. A szobor és a Szent Bálint-templom különösen áhítatosnak tűnik a fagyban. A meleg szülőházban tett pihenő után a Mondút havas tájain sétálunk. A nap a Kremsparkban ér véget, ahogy a szürkület kékre festi a fákon a zúzmarát.",
+            "ro": "O dimineață senină de iarnă începe la Centrul Bruckner. Statuia și biserica Sf. Valentin par deosebit de solemne în ger. După o pauză de încălzire în casa natală, mergem prin peisajul înzăpezit al Potecii Legendelor. Ziua se încheie în Kremspark, când amurgul colorează chiciura de pe copaci.",
+            "en": "A clear winter morning begins at the Bruckner Centre. The statue and St. Valentin Church look particularly solemn in the frost. After a warming break in the cozy birthplace museum, we hike through the snowy landscape of the Saga Trail. The day ends in Kremspark as dusk turns the hoarfrost on the trees blue."
+          },
+          "stops": [
+            {
+              "name": "Anton Bruckner Centre",
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Räume, bevor Sie den Außenrundgang starten.",
+                "hu": "Élvezze a fűtött tereket, mielőtt megkezdené a külső körutat.",
+                "ro": "Bucurați-vă de spațiile încălzite înainte de a începe turul exterior.",
+                "en": "Enjoy the heated indoor spaces before starting your outdoor tour."
+              }
+            },
+            {
+              "name": "Bruckner Statue",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem gepflasterten Vorplatz.",
+                "hu": "Vigyázzon a csúszós foltokra a kövezett előtéren.",
+                "ro": "Atenție la porțiunile alunecoase de pe esplanada pavată.",
+                "en": "Watch out for icy patches on the paved forecourt."
+              }
+            },
+            {
+              "name": "Parish Church of St. Valentin",
+              "tip_5lang": {
+                "de": "In der Kirche ist es oft kälter als draußen; behalten Sie den Mantel an.",
+                "hu": "A templomban gyakran hidegebb van, mint kint; maradjon kabátban.",
+                "ro": "În biserică este adesea mai frig decât afară; păstrați haina pe dvs.",
+                "en": "It's often colder inside the church than outside; keep your coat on."
+              }
+            },
+            {
+              "name": "Anton Bruckner's Birthplace",
+              "tip_5lang": {
+                "de": "Der ideale Ort zum Aufwärmen und für eine kulturelle Pause.",
+                "hu": "Ideális hely a felmelegedésre és egy kulturális pihenőre.",
+                "ro": "Locul ideal pentru încălzire și pentru o pauză culturală.",
+                "en": "The ideal spot to warm up and take a cultural break."
+              }
+            },
+            {
+              "name": "Ansfelden Saga Trail",
+              "tip_5lang": {
+                "de": "Der Weg ist im Winter nicht geräumt; gute Winterstiefel sind Pflicht.",
+                "hu": "Az utat télen nem takarítják; jó hótaposó kötelező.",
+                "ro": "Poteca nu este deszăpezită iarna; bocancii de iarnă sunt obligatorii.",
+                "en": "The trail is not cleared in winter; good winter boots are mandatory."
+              }
+            },
+            {
+              "name": "Kremspark",
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne sorgt hier für fantastisches Licht für Fotos.",
+                "hu": "Az alacsonyan járó téli nap fantasztikus fényeket fest a fotókhoz.",
+                "ro": "Soarele jos de iarnă oferă aici o lumină fantastică pentru fotografii.",
+                "en": "The low winter sun provides fantastic light for photos here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:15 Uhr unter.",
+              "Planen Sie den Sagenweg für die Mittagsstunden ein, wenn es am wärmsten ist.",
+              "Nehmen Sie eine Thermoskanne mit Tee für die Wanderung mit.",
+              "Achten Sie auf gefrorenes Laub in den schattigen Bereichen des Kremsparks."
+            ],
+            "hu": [
+              "A nap decemberben már 16:15 körül lemegy.",
+              "A Mondutat a déli órákra tervezze, amikor a legmelegebb van.",
+              "Vigyen magával termoszban teát a sétához.",
+              "Ügyeljen a fagyott levelekre a Kremspark árnyékos részein."
+            ],
+            "ro": [
+              "Soarele apune în decembrie deja în jurul orei 16:15.",
+              "Planificați Poteca Legendelor pentru orele prânzului, când este mai cald.",
+              "Luați un termos cu ceai pentru plimbare.",
+              "Atenție la frunzele înghețate în zonele umbrite din Kremspark."
+            ],
+            "en": [
+              "The sun sets as early as 16:15 in December.",
+              "Plan the Saga Trail for the midday hours when it is warmest.",
+              "Carry a thermos with tea for the walk.",
+              "Watch out for frozen leaves in the shaded areas of Kremspark."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +924,206 @@
           "Pack snacks and water, especially for the ride to the castle.",
           "A helmet is strongly recommended for safety."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen erkunden wir Ritzlhof und den Sagenweg auf zwei Rädern. Die asphaltierten Abschnitte sind gut befahrbar, erfordern aber Vorsicht in den Kurven. Die Stopps im Bruckner Centrum und seinem Geburtshaus bieten willkommene Trockenpausen. Der Tag endet nach einem Besuch im Glockenmuseum mit einer kurzen Fahrt durch den Kremspark.",
+            "hu": "Az eső ellenére két keréken fedezzük fel Ritzlhofot és a Mondutat. Az aszfaltozott szakaszok jól járhatóak, de a kanyarokban óvatosságot igényelnek. A Bruckner Központ és a szülőház kiváló száraz pihenőket kínál. A nap a Harangmúzeum után egy rövid kremsparki tekeréssel zárul.",
+            "ro": "În ciuda ploii, explorăm Ritzlhof și Poteca Legendelor pe două roți. Secțiunile asfaltate sunt practicabile, dar necesită prudență în curbe. Opririle la Centrul Bruckner și casa natală oferă pauze binevenite la uscat. Ziua se încheie după Muzeul Clopotelor cu o scurtă tură prin Kremspark.",
+            "en": "Despite the rain, we explore Ritzlhof and the Saga Trail on two wheels. The paved sections are manageable but require caution in corners. Stops at the Bruckner Centre and his birthplace provide welcome dry breaks. The day concludes after the Bell Museum with a short ride through Kremspark."
+          },
+          "stops": [
+            {
+              "name": "Ritzlhof Castle",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Arkaden unter, um trocken zu bleiben.",
+                "hu": "Támassza le a kerékpárt az árkádok alá, hogy száraz maradjon.",
+                "ro": "Parcați bicicleta sub arcade pentru a o păstra uscată.",
+                "en": "Park your bike under the archways to keep it dry."
+              }
+            },
+            {
+              "name": "Ansfelden Saga Trail",
+              "tip_5lang": {
+                "de": "Bei Nässe auf Baumwurzeln achten; schieben Sie das Rad bei Bedarf.",
+                "hu": "Vizes időben ügyeljen a gyökerekre; szükség esetén tolja a gépet.",
+                "ro": "Atenție la rădăcini pe ploaie; împingeți bicicleta dacă este necesar.",
+                "en": "Watch for roots when wet; push the bike if needed."
+              }
+            },
+            {
+              "name": "Anton Bruckner Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen der Räder.",
+                "hu": "Használja a fedett bejáratot a kerékpárok elhelyezésére.",
+                "ro": "Folosiți zona de intrare acoperită pentru a lăsa bicicletele.",
+                "en": "Use the covered entrance area to park the bikes."
+              }
+            },
+            {
+              "name": "Anton Bruckner's Birthplace",
+              "tip_5lang": {
+                "de": "Ein längerer Stopp hier gibt Ihrer Kleidung Zeit zum Trocknen.",
+                "hu": "Egy hosszabb megálló itt időt ad a ruházatnak a száradásra.",
+                "ro": "O oprire mai lungă aici oferă timp hainelor să se usuce.",
+                "en": "A longer stop here gives your clothes time to dry."
+              }
+            },
+            {
+              "name": "Parish Church of St. Valentin",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; die gepflasterten Wege können rutschig sein.",
+                "hu": "Rövid megálló; a kövezett utak csúszósak lehetnek.",
+                "ro": "Oprire scurtă; aleile pavate pot fi alunecoase.",
+                "en": "Short stop; the paved paths can be slippery."
+              }
+            },
+            {
+              "name": "Bell Museum",
+              "tip_5lang": {
+                "de": "Ein wunderbares Indoor-Ziel, um dem Regen komplett zu entfliehen.",
+                "hu": "Csodálatos fedett célpont, hogy teljesen elmeneküljön az esőtől.",
+                "ro": "O destinație indoor minunată pentru a scăpa complet de ploaie.",
+                "en": "A wonderful indoor destination to escape the rain completely."
+              }
+            },
+            {
+              "name": "Kremspark",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen auf den unbefestigten Wegen am Fluss.",
+                "hu": "Ügyeljen a tócsákra a folyó menti burkolatlan utakon.",
+                "ro": "Atenție la bălți pe potecile neasfaltate de lângă râu.",
+                "en": "Watch out for puddles on the unpaved paths by the river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie bei Regen plötzliches Bremsen auf nassem Laub.",
+              "Schutzbleche am Fahrrad sind für diese Route heute unverzichtbar.",
+              "Die Museen bieten sichere Abstellplätze für bepackte Fahrräder.",
+              "Vermeiden Sie den Kremspark-Uferweg bei Hochwasserwarnung."
+            ],
+            "hu": [
+              "Esőben kerülje a hirtelen fékezést a nedves leveleken.",
+              "A sárvédő ezen az útvonalon ma elengedhetetlen.",
+              "A múzeumok biztonságos helyet kínálnak a felmálházott bicikliknek.",
+              "Árvízveszély esetén kerülje a Kremspark parti útjait."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe frunzele ude pe timp de ploaie.",
+              "Apărătorile la bicicletă sunt indispensabile pentru acest traseu astăzi.",
+              "Muzeele oferă locuri sigure pentru bicicletele cu bagaje.",
+              "Evitați poteca de pe malul Kremspark în caz de alertă de inundații."
+            ],
+            "en": [
+              "Avoid sudden braking on wet leaves in the rain.",
+              "Mudguards on your bike are essential for this route today.",
+              "The museums offer safe storage for loaded bicycles.",
+              "Avoid the Kremspark riverside path during flood warnings."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour führt uns durch die frostige Kremstal-Region. Von Schloss Ritzlhof radeln wir zum Sagenweg, wo die Natur im Winterschlaf liegt. Die Museen bieten die nötige Wärme zwischen den Etappen. Da die Wege im Park vereist sein können, beenden wir die Tour vorsichtig bei Sonnenuntergang im Stadtzentrum.",
+            "hu": "A téli túra a jeges Kremstal régión vezet keresztül. A Ritzlhof kastélytól a Mondútig tekerünk, ahol a természet téli álmát alussza. A múzeumok biztosítják a szükséges meleget az etapok között. Mivel a park útjai jegesek lehetnek, a túrát óvatosan, naplementekor fejezzük be.",
+            "ro": "Tura de iarnă ne poartă prin regiunea înghețată Kremstal. Pedalăm de la Castelul Ritzlhof spre Poteca Legendelor. Muzeele oferă căldura necesară între etape. Deoarece aleile din parc pot fi înghețate, încheiem tura cu prudență la apus în centrul orașului.",
+            "en": "The winter tour leads us through the frosty Kremstal region. From Ritzlhof Castle, we cycle to the Saga Trail, where nature lies in hibernation. Museums provide necessary warmth between stages. As park paths can be icy, we finish the tour cautiously at sunset in the city center."
+          },
+          "stops": [
+            {
+              "name": "Ritzlhof Castle",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; kalte Luft lässt ihn oft sinken.",
+                "hu": "Ellenőrizze a guminyomást; a hideg levegő miatt gyakran csökken.",
+                "ro": "Verificați presiunea în anvelope; aerul rece o scade adesea.",
+                "en": "Check your tire pressure; cold air often makes it drop."
+              }
+            },
+            {
+              "name": "Ansfelden Saga Trail",
+              "tip_5lang": {
+                "de": "Achtung bei Waldstücken; hier hält sich Glatteis besonders lange.",
+                "hu": "Vigyázat az erdei szakaszokon; itt a tükörjég sokáig megmarad.",
+                "ro": "Atenție la zonele de pădure; poleiul persistă aici foarte mult.",
+                "en": "Watch out in forest sections; black ice lingers here particularly long."
+              }
+            },
+            {
+              "name": "Anton Bruckner Centre",
+              "tip_5lang": {
+                "de": "Kurze Pause zum Händewärmen im Foyer einplanen.",
+                "hu": "Tervezzen be egy rövid szünetet kézmelegítésre az előcsarnokban.",
+                "ro": "Planificați o scurtă pauză pentru încălzirea mâinilor în foaier.",
+                "en": "Plan a short break to warm your hands in the foyer."
+              }
+            },
+            {
+              "name": "Anton Bruckner's Birthplace",
+              "tip_5lang": {
+                "de": "Fahrradschloss mit Enteiser-Spray behandeln, falls es friert.",
+                "hu": "Kezelje a lakatot jégoldó spray-vel, ha fagy közeli az idő.",
+                "ro": "Tratați antifurtul cu spray degivrant dacă este ger.",
+                "en": "Treat your bike lock with de-icer spray if it freezes."
+              }
+            },
+            {
+              "name": "Parish Church of St. Valentin",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen; der Boden kann rutschig sein.",
+                "hu": "Vigyázzon a leszállásnál; a talaj csúszós lehet.",
+                "ro": "Atenție la descălecare; solul poate fi alunecos.",
+                "en": "Be careful when dismounting; the ground can be slippery."
+              }
+            },
+            {
+              "name": "Bell Museum",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, den Körper vor der letzten Etappe aufzuheizen.",
+                "hu": "Jó alkalom a test felmelegítésére az utolsó etap előtt.",
+                "ro": "O bună ocazie de a vă încălzi corpul înainte de ultima etapă.",
+                "en": "Good opportunity to warm up your body before the final stage."
+              }
+            },
+            {
+              "name": "Kremspark",
+              "tip_5lang": {
+                "de": "Die Wege werden bei Frost oft sehr hart; Federung prüfen.",
+                "hu": "A utak fagyban nagyon felkeményednek; ellenőrizze a rugózást.",
+                "ro": "Potecile devin foarte dure la îngheț; verificați suspensia.",
+                "en": "Paths get very hard in the frost; check your suspension."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Die Dämmerung setzt früh ein; prüfen Sie Ihre Fahrradbeleuchtung.",
+              "Bei Eisregen ist vom Befahren des Sagenwegs abzuraten.",
+              "Akkus von E-Bikes entladen sich bei Kälte deutlich schneller."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "Korán sötétedik; ellenőrizze a kerékpár világítását.",
+              "Ónos eső esetén nem ajánlott a Mondúton való tekerés.",
+              "Az e-bike akkumulátorok hidegben sokkal gyorsabban merülnek."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Amurgul se lasă devreme; verificați luminile bicicletei.",
+              "În caz de ploaie înghețată, nu se recomandă parcurgerea Potecii Legendelor.",
+              "Acumulatoarele bicicletelor electrice se descarcă mult mai repede la frig."
+            ],
+            "en": [
+              "Wear windproof gloves and a hat under your helmet.",
+              "Dusk sets in early; check your bicycle lights.",
+              "Cycling on the Saga Trail is not recommended during freezing rain.",
+              "E-bike batteries discharge significantly faster in the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1504,206 @@
           "Plan for extra time for traffic, although it's usually light in Ansfelden.",
           "Combine your visit with a trip to the nearby city of Linz."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ansfelden lässt sich auch bei Regen komfortabel mit dem Auto erkunden. Wir starten bei Schloss Ritzlhof und nutzen die zentralen Parkplätze für die Bruckner-Gedenkstätten. Das Glockenmuseum und das Geburtshaus bieten stundenlangen Schutz. Der Kremspark bietet sich für einen kurzen Blick aus dem Wagenfenster oder einen Sprint zum Ufer an.",
+            "hu": "Ansfelden esőben is kényelmesen felfedezhető autóval. A Ritzlhof kastélynál kezdünk, majd a központi parkolókat használjuk a Bruckner-emlékhelyekhez. A Harangmúzeum és a szülőház órákon át védelmet nyújt. A Kremsparkot az ablakból csodáljuk, vagy teszünk egy gyors sprintet a partig.",
+            "ro": "Ansfelden poate fi explorat confortabil cu mașina chiar și pe ploaie. Începem la Castelul Ritzlhof și folosim parcările centrale pentru locurile memoriale Bruckner. Muzeul Clopotelor și casa natală oferă adăpost pentru ore întregi. Kremspark este ideal pentru o privire rapidă din mașină.",
+            "en": "Ansfelden can be explored comfortably by car even in the rain. We start at Ritzlhof Castle and use central parking for the Bruckner memorial sites. The Bell Museum and the birthplace offer hours of shelter. Kremspark is good for a quick look from the car window or a dash to the river."
+          },
+          "stops": [
+            {
+              "name": "Ritzlhof Castle",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Weg im Regen kurz zu halten.",
+                "hu": "Parkoljon közel a bejárathoz, hogy rövid legyen az út az esőben.",
+                "ro": "Parcați aproape de intrare pentru a scurta drumul prin ploaie.",
+                "en": "Park close to the entrance to keep the walk in the rain short."
+              }
+            },
+            {
+              "name": "Ansfelden Centre Car Park",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt; ideal, um Besorgungen im Trockenen zu machen.",
+                "hu": "Központi csomópont; ideális a szárazon intézendő ügyekhez.",
+                "ro": "Nod central; ideal pentru a rezolva treburi la adăpost.",
+                "en": "Central hub; ideal for running errands while staying dry."
+              }
+            },
+            {
+              "name": "Anton Bruckner Centre",
+              "tip_5lang": {
+                "de": "Vom Parkhaus sind es nur wenige Schritte zum Haupteingang.",
+                "hu": "A parkolótól csak néhány lépés a főbejárat.",
+                "ro": "De la parcare sunt doar câțiva pași până la intrarea principală.",
+                "en": "It's only a few steps from the parking area to the main entrance."
+              }
+            },
+            {
+              "name": "St. Valentin Church & Bruckner Statue",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen; bei Starkregen bilden sich hier Pfützen.",
+                "hu": "Vigyázzon a kiszállásnál; heves esőben tócsák alakulhatnak ki.",
+                "ro": "Atenție la coborâre; în caz de ploaie torențială se formează bălți.",
+                "en": "Be careful when getting out; puddles form here during heavy rain."
+              }
+            },
+            {
+              "name": "Anton Bruckner's Birthplace",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten direkt in der Nähe der Gedenkstätte.",
+                "hu": "Használja a közvetlenül az emlékhely melletti parkolási lehetőséget.",
+                "ro": "Folosiți locurile de parcare aflate chiar lângă locul memorial.",
+                "en": "Use the parking facilities directly near the memorial site."
+              }
+            },
+            {
+              "name": "Kremspark",
+              "tip_5lang": {
+                "de": "Ideal für einen kurzen Stopp; der Asphaltweg ist bei Regen sauber.",
+                "hu": "Ideális egy rövid megállóra; az aszfaltút esőben is tiszta marad.",
+                "ro": "Ideal pentru o scurtă oprire; aleea asfaltată este curată pe ploaie.",
+                "en": "Ideal for a short stop; the asphalt path remains clean in the rain."
+              }
+            },
+            {
+              "name": "Bell Museum",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden; stressfreier Besuch bei jedem Wetter.",
+                "hu": "Nagy parkoló áll rendelkezésre; stresszmentes látogatás bármilyen időben.",
+                "ro": "Parcare mare disponibilă; vizită fără stres pe orice vreme.",
+                "en": "Large parking area available; stress-free visit in any weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der B139 bei Starkregen.",
+              "Die Parkhäuser im Zentrum bieten Schutz vor plötzlichen Schauern.",
+              "Halten Sie einen Schirm im Auto bereit für den Weg zum Museum.",
+              "Prüfen Sie die Sichtverhältnisse; Scheinwerfer auch tagsüber einschalten."
+            ],
+            "hu": [
+              "Heves esőben ügyeljen a vízre való felúszásra a B139-esen.",
+              "A központ parkolóházai védelmet nyújtanak a hirtelen záporok ellen.",
+              "Tartson esernyőt az autóban a múzeumba vezető úthoz.",
+              "Ellenőrizze a látási viszonyokat; nappal is kapcsolja be a fényszórót."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe B139 în caz de ploaie torențială.",
+              "Parcările etajate din centru oferă protecție împotriva averselor.",
+              "Țineți o umbrelă în mașină pentru drumul spre muzeu.",
+              "Verificați vizibilitatea; aprindeți farurile și pe timpul zilei."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the B139 during heavy rain.",
+              "The central parking garages provide protection from sudden showers.",
+              "Keep an umbrella in the car for the walk to the museum.",
+              "Check visibility conditions; turn on headlights even during the day."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto entdecken wir das winterliche Ansfelden sicher und warm. Wir besuchen Ritzlhof und die kulturellen Schätze im Zentrum. Die kurzen Wege zwischen Parkplatz und Sehenswürdigkeiten minimieren die Kälteexposition. Der Tag endet im Glockenmuseum, bevor die winterlichen Straßenverhältnisse volle Konzentration erfordern.",
+            "hu": "Autóval biztonságban és melegben fedezzük fel a téli Ansfeldent. Meglátogatjuk Ritzlhofot és a központ kulturális kincseit. A parkolók és a látnivalók közötti rövid távok minimalizálják a hideget. A nap a Harangmúzeumban zárul, mielőtt a téli útviszonyok teljes koncentrációt követelnének.",
+            "ro": "Cu mașina descoperim Ansfeldenul hibernal în siguranță și căldură. Vizităm Ritzlhof și comorile culturale din centru. Distanțele scurte între parcare și obiective minimizează expunerea la frig. Ziua se încheie la Muzeul Clopotelor, înainte ca drumurile de iarnă să ceară concentrare maximă.",
+            "en": "By car, we discover wintry Ansfelden safely and warmly. We visit Ritzlhof and the cultural treasures in the center. Short distances between parking and sights minimize cold exposure. The day ends at the Bell Museum before wintry road conditions require full concentration."
+          },
+          "stops": [
+            {
+              "name": "Ritzlhof Castle",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisglätte auf dem Kopfsteinpflaster im Schlosshof.",
+                "hu": "Vigyázzon a jegesedésre a kastélyudvar macskakövén.",
+                "ro": "Atenție la poleiul de pe piatra cubică din curtea castelului.",
+                "en": "Watch out for ice on the cobblestones in the castle courtyard."
+              }
+            },
+            {
+              "name": "Ansfelden Centre Car Park",
+              "tip_5lang": {
+                "de": "Idealer Startpunkt, um die Stadtpfarrkirche schnell zu erreichen.",
+                "hu": "Ideális kiindulópont a plébániatemplom gyors eléréséhez.",
+                "ro": "Punct de pornire ideal pentru a ajunge rapid la biserica parohială.",
+                "en": "Ideal starting point to reach the parish church quickly."
+              }
+            },
+            {
+              "name": "Anton Bruckner Centre",
+              "tip_5lang": {
+                "de": "Die Glasfassade bietet auch von innen einen tollen Winterblick.",
+                "hu": "Az üveghomlokzat belülről is remek téli kilátást nyújt.",
+                "ro": "Fațada de sticlă oferă o priveliște de iarnă grozavă și din interior.",
+                "en": "The glass facade offers a great winter view even from the inside."
+              }
+            },
+            {
+              "name": "St. Valentin Church & Bruckner Statue",
+              "tip_5lang": {
+                "de": "In der Dämmerung ist die Kirche stimmungsvoll beleuchtet.",
+                "hu": "Szürkületben a templom hangulatosan van kivilágítva.",
+                "ro": "La amurg, biserica este iluminată sugestiv.",
+                "en": "The church is atmospherically lit up at dusk."
+              }
+            },
+            {
+              "name": "Anton Bruckner's Birthplace",
+              "tip_5lang": {
+                "de": "Ein Besuch hier lohnt sich besonders, wenn es draußen stürmt.",
+                "hu": "Ide különösen érdemes ellátogatni, ha kint tombol a vihar.",
+                "ro": "O vizită aici merită mai ales când afară este viscol.",
+                "en": "A visit here is especially worthwhile when it's storming outside."
+              }
+            },
+            {
+              "name": "Kremspark",
+              "tip_5lang": {
+                "de": "Nur kurz aussteigen; der Wind vom Fluss ist im Winter eisig.",
+                "hu": "Csak rövid időre szálljon ki; a folyó felőli szél télen jeges.",
+                "ro": "Coborâți doar scurt; vântul de la râu este înghețat iarna.",
+                "en": "Only get out briefly; the wind from the river is icy in winter."
+              }
+            },
+            {
+              "name": "Bell Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss im Warmen, bevor es nach Hause geht.",
+                "hu": "A tökéletes befejezés melegben, mielőtt hazaindulna.",
+                "ro": "Finalul perfect la căldură, înainte de a pleca spre casă.",
+                "en": "The perfect conclusion in the warm before heading home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und ein Eiskratzer sind in Oberösterreich Pflicht.",
+              "Achten Sie auf Streusalzrückstände auf den Scheinwerfern.",
+              "Die Parkplatzsuche ist im Winter entspannter als im Sommer.",
+              "Planen Sie mehr Zeit für die Rückreise bei Schneefall ein."
+            ],
+            "hu": [
+              "Téli gumi és jégkaparó kötelező Felső-Ausztriában.",
+              "Ügyeljen a fényszórókra rakódott útszóró sóra.",
+              "A parkolóhely-keresés télen nyugodtabb, mint nyáron.",
+              "Hóesés esetén tervezzen több időt a hazaútra."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și racleta sunt obligatorii în Austria Superioară.",
+              "Atenție la reziduurile de sare de pe faruri.",
+              "Căutarea unui loc de parcare este mai relaxată iarna decât vara.",
+              "Planificați mai mult timp pentru drumul de întoarcere în caz de ninsoare."
+            ],
+            "en": [
+              "Winter tires and an ice scraper are mandatory in Upper Austria.",
+              "Watch out for road salt residue on your headlights.",
+              "Finding a parking spot is more relaxed in winter than in summer.",
+              "Plan more time for the return journey if it snows."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2060,188 @@
           "Have some cash for bus tickets, in case card payment is not an option.",
           "Be on time at the stops, especially on less frequent routes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir die Highlights von Ansfelden trocken und sicher. Wir pendeln zwischen dem Stadtzentrum und Schloss Ritzlhof. Die Wartezeiten an den Bushaltestellen überbrücken wir unter den Wartehäuschen. Ein Besuch im Geburtshaus und im Bruckner Centrum füllt den regnerischen Tag mit Hochkultur aus.",
+            "hu": "Busszal szárazon és biztonságban érjük el Ansfelden látnivalóit. A városközpont és a Ritzlhof kastély között ingázunk. A megállókban a várótermek alatt vészeljük át a várakozást. A szülőház és a Bruckner Központ látogatása magas kultúrával tölti meg az esős napot.",
+            "ro": "Cu autobuzul ajungem la punctele de atracție din Ansfelden uscați și în siguranță. Navetăm între centrul orașului și Castelul Ritzlhof. Timpul de așteptare în stații îl petrecem sub copertine. O vizită la casa natală și la Centrul Bruckner umple ziua ploioasă cu cultură de nivel înalt.",
+            "en": "By bus, we reach Ansfelden's highlights dry and safe. We commute between the city center and Ritzlhof Castle. We spend waiting times at bus stops under the shelters. A visit to the birthplace and the Bruckner Centre fills the rainy day with high culture."
+          },
+          "stops": [
+            {
+              "name": "Ansfelden Centre Bus Stop",
+              "tip_5lang": {
+                "de": "Gut überdachte Haltestelle; ideal zum Umsteigen bei Regen.",
+                "hu": "Jól fedett megálló; ideális az átszálláshoz esőben.",
+                "ro": "Stație bine acoperită; ideală pentru schimbat autobuzul pe ploaie.",
+                "en": "Well-covered stop; ideal for changing buses in the rain."
+              }
+            },
+            {
+              "name": "Anton Bruckner Centre & Statue",
+              "tip_5lang": {
+                "de": "Direkt neben der Haltestelle; minimaler Weg im Freien.",
+                "hu": "Közvetlenül a megálló mellett; minimális út a szabadban.",
+                "ro": "Chiar lângă stație; drum minim în aer liber.",
+                "en": "Right next to the stop; minimal distance outdoors."
+              }
+            },
+            {
+              "name": "Anton Bruckner's Birthplace",
+              "tip_5lang": {
+                "de": "Kurzer Sprint von der Haltestelle zum Museumseingang.",
+                "hu": "Rövid sprint a megállótól a múzeum bejáratáig.",
+                "ro": "Sprint scurt de la stație până la intrarea în muzeu.",
+                "en": "Short dash from the stop to the museum entrance."
+              }
+            },
+            {
+              "name": "Parish Church of St. Valentin",
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine gute Pause, bis der nächste Bus kommt.",
+                "hu": "A templom jó pihenőt kínál a következő busz érkezéséig.",
+                "ro": "Biserica oferă o pauză bună până la următorul autobuz.",
+                "en": "The church offers a good break until the next bus arrives."
+              }
+            },
+            {
+              "name": "Kremspark Stop",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App, um die Wartezeit im Regen zu minimieren.",
+                "hu": "Használja az appot, hogy minimalizálja az esőben való várakozást.",
+                "ro": "Folosiți aplicația pentru a minimiza așteptarea în ploaie.",
+                "en": "Use the app to minimize waiting time in the rain."
+              }
+            },
+            {
+              "name": "Ritzlhof Castle",
+              "tip_5lang": {
+                "de": "Der Weg zum Schloss führt über asphaltierte, saubere Wege.",
+                "hu": "A kastélyhoz vezető út aszfaltozott, tiszta utakon vezet.",
+                "ro": "Drumul spre castel trece pe alei asfaltate și curate.",
+                "en": "The path to the castle follows paved, clean walkways."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Samstags-Fahrplan, da weniger Busse fahren.",
+              "Tragen Sie bei Regen keine rutschigen Schuhe für die Busstufen.",
+              "Das OÖVV-Ticket ist auch in der App als Handy-Ticket verfügbar.",
+              "Die Haltestellen im Zentrum sind meist beleuchtet und trocken."
+            ],
+            "hu": [
+              "Ellenőrizze a szombati menetrendet, mert kevesebb busz jár.",
+              "Esőben ne viseljen csúszós talpú cipőt a busz lépcsőin.",
+              "Az OÖVV-jegy mobiljegyként is elérhető az alkalmazásban.",
+              "A központi megállók többnyire kivilágítottak és szárazak."
+            ],
+            "ro": [
+              "Verificați orarul de sâmbătă, deoarece circulă mai puține autobuze.",
+              "Nu purtați încălțăminte alunecoasă pentru treptele autobuzului.",
+              "Biletul OÖVV este disponibil și ca bilet digital în aplicație.",
+              "Stațiile din centru sunt de cele mai multe ori iluminate și uscate."
+            ],
+            "en": [
+              "Check the Saturday schedule, as fewer buses operate.",
+              "Avoid slippery shoes for the bus steps during rain.",
+              "The OÖVV ticket is also available as a mobile ticket in the app.",
+              "The central stops are mostly lit and dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterreise mit dem ÖPNV zeigt uns ein besinnliches Ansfelden. Die beheizten Busse sind eine Wohltat zwischen den Besichtigungen von Schloss Ritzlhof und den Bruckner-Stätten. In der früh einsetzenden Dunkelheit leuchten die Fenster der Stadtpfarrkirche besonders einladend. Der Tag endet sicher an der zentralen Umstiegsstelle.",
+            "hu": "A tömegközlekedéssel tett téli utazás Ansfelden meghitt arcát mutatja. A fűtött buszok jótékonyak a Ritzlhof kastély és a Bruckner-helyszínek látogatása között. A korán beköszöntő sötétségben a plébániatemplom ablakai hívogatóan világítanak. A nap biztonságban zárul a központi átszállópontnál.",
+            "ro": "Călătoria de iarnă cu transportul public ne arată un Ansfelden liniștit. Autobuzele încălzite sunt o binecuvântare între vizitele la Ritzlhof și locurile Bruckner. În întunericul care se lasă devreme, ferestrele bisericii parohiale luminează primitor. Ziua se încheie în siguranță la nodul central.",
+            "en": "The winter journey by public transport shows us a contemplative Ansfelden. The heated buses are a blessing between visiting Ritzlhof Castle and the Bruckner sites. In the early darkness, the windows of the parish church shine invitingly. The day ends safely at the central transfer point."
+          },
+          "stops": [
+            {
+              "name": "Ansfelden Centre Bus Stop",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz im Windschatten des Wartehäuschens.",
+                "hu": "Keressen menedéket a váróterem szélvédett oldalán.",
+                "ro": "Căutați adăpost în zona ferită de vânt a stației.",
+                "en": "Seek shelter in the lee of the bus stop building."
+              }
+            },
+            {
+              "name": "Anton Bruckner Centre & Statue",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Schneematsch im Einstiegsbereich.",
+                "hu": "Vigyázzon a fagyott hókására a felszállási területen.",
+                "ro": "Atenție la fleșcaia înghețată din zona de îmbarcare.",
+                "en": "Watch out for frozen slush in the boarding area."
+              }
+            },
+            {
+              "name": "Anton Bruckner's Birthplace",
+              "tip_5lang": {
+                "de": "Gutes Ziel, wenn die Wartezeit auf den Bus im Winter zu lang wird.",
+                "hu": "Jó célpont, ha télen túl hosszú lenne a várakozás a buszra.",
+                "ro": "O destinație bună dacă așteptarea autobuzului devine prea lungă iarna.",
+                "en": "A good destination if the wait for the bus becomes too long in winter."
+              }
+            },
+            {
+              "name": "Parish Church of St. Valentin",
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine besinnliche Atmosphäre in der Winterzeit.",
+                "hu": "A templom meghitt hangulatot áraszt a téli időszakban.",
+                "ro": "Biserica oferă o atmosferă meditativă în perioada iernii.",
+                "en": "The church offers a contemplative atmosphere during the winter season."
+              }
+            },
+            {
+              "name": "Kremspark Stop",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es Cafés zum Aufwärmen während der Wartezeit.",
+                "hu": "A közelben kávézók találhatók a várakozás alatti felmelegedéshez.",
+                "ro": "În apropiere se află cafenele pentru încălzire în timpul așteptării.",
+                "en": "There are cafes nearby to warm up while waiting."
+              }
+            },
+            {
+              "name": "Ritzlhof Castle",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schuhe; der Weg von der Haltestelle zieht sich.",
+                "hu": "Viseljen meleg cipőt; a megállótól vezető út hosszúnak tűnhet.",
+                "ro": "Purtați încălțăminte călduroasă; drumul de la stație este destul de lung.",
+                "en": "Wear warm shoes; the walk from the stop can feel long."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Schneefall Verspätungen haben.",
+              "Die Heizung in den Bussen macht die Fahrt sehr angenehm.",
+              "Halten Sie Ihr Ticket griffbereit, um langes Suchen in der Kälte zu vermeiden.",
+              "Achten Sie auf geräumte Gehwege zwischen Haltestelle und Museum."
+            ],
+            "hu": [
+              "Erős hóesésben a buszok késhetnek.",
+              "A buszok fűtése nagyon kellemessé teszi az utazást.",
+              "Tartsa kéznél a jegyét, hogy elkerülje a hidegben való keresgélést.",
+              "Ügyeljen a letakarított járdákra a megálló és a múzeum között."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri în caz de ninsoare puternică.",
+              "Încălzirea din autobuze face călătoria foarte plăcută.",
+              "Țineți biletul la îndemână pentru a evita căutarea lui în frig.",
+              "Atenție la trotuarele deszăpezite între stație și muzeu."
+            ],
+            "en": [
+              "Buses may experience delays during heavy snowfall.",
+              "The heating in the buses makes the journey very pleasant.",
+              "Keep your ticket handy to avoid searching for it in the cold.",
+              "Watch for cleared sidewalks between the stop and the museum."
+            ]
+          }
+        }
       }
     }
   }

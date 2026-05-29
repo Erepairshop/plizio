@@ -372,6 +372,196 @@
           "Don't forget your swimwear and a towel for the beach.",
           "Most shops and taverns accept cards, but some cash is always useful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag trocken im Kulturzentrum von Ierissos. Mittags bietet der Hafen eine melancholische, aber schöne Aussicht auf die regnerische Ägäis. Am Nachmittag spazieren Sie trotz Schauern am Strand entlang, bevor Sie den Tag gemütlich im Ortskern ausklingen lassen. Der Regen verleiht den antiken Stätten eine mystische Atmosphäre.",
+            "hu": "Kezdje a napot szárazon az Ierissos-i Kulturális Központban. Délben a kikötő melankolikus, de gyönyörű kilátást nyújt az esős Égei-tengerre. Délután a záporok ellenére sétáljon egyet a tengerparton, majd fejezze be a napot a városközpontban. Az eső misztikus hangulatot kölcsönöz az ókori romoknak.",
+            "ro": "Începeți ziua la adăpost în Centrul Cultural din Ierissos. La prânz, portul oferă o vedere melancolică, dar frumoasă asupra Mării Egee ploioase. După-amiaza, plimbați-vă pe plajă în ciuda averselor, înainte de a încheia ziua în centrul orașului. Ploaia conferă siturilor antice o atmosferă mistică.",
+            "en": "Start the day dry at the Ierissos Cultural Center. At noon, the port offers a melancholy but beautiful view of the rainy Aegean. In the afternoon, take a walk on the beach despite the showers, before ending the day in the town center. The rain lends a mystical atmosphere to the ancient ruins."
+          },
+          "stops": [
+            {
+              "name": "Cultural Center",
+              "tip_5lang": {
+                "de": "Perfekter Zufluchtsort vor dem Regen mit interessanten Ausstellungen.",
+                "hu": "Tökéletes menedék az eső elől érdekes kiállításokkal.",
+                "ro": "Refugiul perfect împotriva ploii, cu expoziții interesante.",
+                "en": "Perfect refuge from the rain with interesting exhibitions."
+              }
+            },
+            {
+              "name": "Church of Agios Nikolaos",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und den Schutz im prachtvollen Innenraum.",
+                "hu": "Élvezze a csendet és a védelmet a pompás belső térben.",
+                "ro": "Bucurați-vă de liniște și protecție în interiorul splendid.",
+                "en": "Enjoy the silence and protection in the magnificent interior."
+              }
+            },
+            {
+              "name": "Ancient Akanthos",
+              "tip_5lang": {
+                "de": "Vorsicht, die Pfade zwischen den Ruinen können rutschig sein.",
+                "hu": "Vigyázat, a romok közötti ösvények csúszósak lehetnek.",
+                "ro": "Atenție, potecile dintre ruine pot fi alunecoase.",
+                "en": "Careful, the paths between the ruins can be slippery."
+              }
+            },
+            {
+              "name": "Port of Ierissos",
+              "tip_5lang": {
+                "de": "Die Cafés am Hafen sind ideal, um den Regen bei einem Kaffee zu beobachten.",
+                "hu": "A kikötői kávézók ideálisak az eső megfigyeléséhez egy kávé mellett.",
+                "ro": "Cafenelele din port sunt ideale pentru a privi ploaia la o cafea.",
+                "en": "The harbor cafes are ideal for watching the rain over a coffee."
+              }
+            },
+            {
+              "name": "Ierissos Beach",
+              "tip_5lang": {
+                "de": "Ein dramatischer Anblick der Wellen; ein fester Regenschirm ist ratsam.",
+                "hu": "Drámai látvány a hullámokról; egy erős esernyő ajánlott.",
+                "ro": "O vedere dramatică a valurilor; se recomandă o umbrelă rezistentă.",
+                "en": "A dramatic view of the waves; a sturdy umbrella is recommended."
+              }
+            },
+            {
+              "name": "Memorial Park",
+              "tip_5lang": {
+                "de": "Kurzer Halt; die Pinien bieten nur begrenzten Schutz.",
+                "hu": "Rövid megálló; a fenyők csak korlátozott védelmet nyújtanak.",
+                "ro": "Oprire scurtă; pinii oferă doar protecție limitată.",
+                "en": "Short stop; the pines offer only limited shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die antiken Ausgrabungsstätten.",
+              "Nutzen Sie die Indoor-Zeit im Kulturzentrum ausgiebig.",
+              "Die Tavernen in Hafennähe sind bei Regen besonders gemütlich.",
+              "Ein Taschenregenschirm ist bei den Küstenwinden oft nicht ausreichend.",
+              "Planen Sie Pausen in den Cafés der Hauptstraße ein."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt az ókori ásatási helyszínekhez.",
+              "Használja ki alaposan a Kulturális Központban töltött időt.",
+              "A kikötő közeli tavernák esőben különösen hangulatosak.",
+              "A tengerparti szélnél egy kisméretű esernyő gyakran kevés.",
+              "Tervezzen pihenőket a főutca kávézóiban."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru siturile arheologice antice.",
+              "Profități din plin de timpul petrecut în Centrul Cultural.",
+              "Tavernele de lângă port sunt deosebit de primitoare pe ploaie.",
+              "O umbrelă mică este adesea insuficientă din cauza vântului de coastă.",
+              "Planificați pauze în cafenelele de pe strada principală."
+            ],
+            "en": [
+              "Wear waterproof walking shoes for the ancient excavation sites.",
+              "Make the most of the indoor time at the Cultural Center.",
+              "The tavernas near the harbor are especially cozy in the rain.",
+              "A pocket umbrella is often insufficient in coastal winds.",
+              "Plan breaks in the cafes on the main street."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Ierissos in klarer, frischer Luft. Morgens besuchen Sie die kulturellen Highlights ohne die Sommerhitze. Mittags herrscht am Hafen eine ruhige, authentische Fischerdorf-Atmosphäre. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen Sie den Strandspaziergang am frühen Nachmittag im goldenen Licht.",
+            "hu": "Tapasztalja meg a téli Ierissost a tiszta, friss levegőn. Reggel látogassa meg a kulturális látnivalókat a nyári hőség nélkül. Délben a kikötőben nyugodt, hiteles halászfalu-hangulat uralkodik. Mivel a nap már 17:00 körül lemegy, élvezze a tengerparti sétát kora délután, az aranyló fényekben.",
+            "ro": "Experimentați Ierissosul de iarnă în aerul curat și proaspăt. Dimineața, vizitați atracțiile culturale fără căldura verii. La prânz, în port domnește o atmosferă autentică și liniștită de sat pescăresc. Deoarece soarele apune deja în jurul orei 17:00, bucurați-vă de plimbarea pe plajă la începutul după-amiezii, în lumina aurie.",
+            "en": "Experience winter Ierissos in the clear, fresh air. In the morning, visit cultural highlights without the summer heat. At noon, the harbor has a quiet, authentic fishing village atmosphere. Since the sun sets around 17:00, enjoy your beach walk in the early afternoon golden light."
+          },
+          "stops": [
+            {
+              "name": "Cultural Center",
+              "tip_5lang": {
+                "de": "Gut beheizt und angenehm für einen kulturellen Start.",
+                "hu": "Jól fűtött és kellemes a kulturális kezdéshez.",
+                "ro": "Bine încălzit și plăcut pentru un început cultural.",
+                "en": "Well heated and pleasant for a cultural start."
+              }
+            },
+            {
+              "name": "Church of Agios Nikolaos",
+              "tip_5lang": {
+                "de": "Die Kerzen im Inneren spenden eine warme, friedliche Stimmung.",
+                "hu": "A benti gyertyák meleg, békés hangulatot árasztanak.",
+                "ro": "Lumânările din interior oferă o atmosferă caldă și liniștită.",
+                "en": "The candles inside provide a warm, peaceful atmosphere."
+              }
+            },
+            {
+              "name": "Ancient Akanthos",
+              "tip_5lang": {
+                "de": "Die Wintersonne wirft lange Schatten auf die antiken Mauern.",
+                "hu": "A téli nap hosszú árnyékokat vet az ókori falakra.",
+                "ro": "Soarele de iarnă aruncă umbre lungi pe zidurile antice.",
+                "en": "The winter sun casts long shadows on the ancient walls."
+              }
+            },
+            {
+              "name": "Port of Ierissos",
+              "tip_5lang": {
+                "de": "Beobachten Sie die Fischer beim Netzklicken in der Winterruhe.",
+                "hu": "Figyelje a halászokat hálójavítás közben a téli nyugalomban.",
+                "ro": "Observați pescarii reparând plasele în liniștea iernii.",
+                "en": "Watch the fishermen mending nets in the winter quiet."
+              }
+            },
+            {
+              "name": "Ierissos Beach",
+              "tip_5lang": {
+                "de": "Windgeschützte Kleidung für den leeren, weiten Sandstrand nötig.",
+                "hu": "Szélálló ruházat szükséges az üres, tágas homokos tengerparthoz.",
+                "ro": "Haine rezistente la vânt sunt necesare pentru plaja pustie și vastă.",
+                "en": "Windproof clothing needed for the empty, wide sandy beach."
+              }
+            },
+            {
+              "name": "Memorial Park",
+              "tip_5lang": {
+                "de": "Beenden Sie den Rundgang vor Einbruch der Dunkelheit um 17 Uhr.",
+                "hu": "Fejezze be a körutat a sötétedés beállta előtt, 17 órakor.",
+                "ro": "Încheiați turul înainte de lăsarea întunericului, la ora 17.",
+                "en": "Finish the tour before dark falls at 5 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip für wechselnde Temperaturen.",
+              "Prüfen Sie die Winteröffnungszeiten des Kulturzentrums vorab.",
+              "Genießen Sie heißen griechischen Kaffee in den lokalen Cafés.",
+              "Die Sonne verschwindet früh hinter den Bergen (ca. 17:00 Uhr).",
+              "Die antiken Stätten sind im Winter oft menschenleer."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a változó hőmérséklet miatt.",
+              "Előre ellenőrizze a Kulturális Központ téli nyitvatartását.",
+              "Élvezze a forró görög kávét a helyi kávézókban.",
+              "A nap korán eltűnik a hegyek mögött (kb. 17:00 órakor).",
+              "Az ókori helyszínek télen gyakran teljesen néptelenek."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru temperaturile schimbătoare.",
+              "Verificați în prealabil programul de iarnă al Centrului Cultural.",
+              "Savurați o cafea grecească fierbinte în cafenelele locale.",
+              "Soarele dispare devreme după munți (aprox. ora 17:00).",
+              "Siturile antice sunt adesea pustii în timpul iernii."
+            ],
+            "en": [
+              "Dress in layers for changing temperatures.",
+              "Check the winter opening hours of the Cultural Center in advance.",
+              "Enjoy hot Greek coffee in the local cafes.",
+              "The sun disappears early behind the mountains (approx. 17:00).",
+              "The ancient sites are often deserted in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -738,6 +928,196 @@
           "Wear a helmet and bright clothing to be visible.",
           "Plan enough time for breaks in the shade, especially at midday."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Radtour durch das nasse Ierissos. Morgens erkunden Sie die antiken Ruinen, wobei die Farben der Steine im Regen kräftiger wirken. Mittags erreichen Sie den Hafen für eine Pause im Trockenen. Nachmittags radeln Sie vorsichtig am Küstenweg entlang, bevor Sie zur Kirche im Dorf zurückkehren.",
+            "hu": "Frissítő kerékpártúra a vizes Ierissosban. Reggel fedezze fel az ókori romokat, ahol a kövek színei élénkebbek az esőben. Délben érjen a kikötőbe egy száraz szünetre. Délután óvatosan kerekezzen a parti úton, mielőtt visszatérne a faluban található templomhoz.",
+            "ro": "O tură revigorantă cu bicicleta prin Ierissosul ud. Dimineața, explorați ruinele antice, unde culorile pietrelor par mai intense în ploaie. La prânz, ajungeți în port pentru o pauză la uscat. După-amiaza, pedalați cu atenție pe drumul de coastă înainte de a reveni la biserica din sat.",
+            "en": "A refreshing bike tour through wet Ierissos. In the morning, explore the ancient ruins, where the colors of the stones appear more vivid in the rain. At noon, reach the port for a dry break. In the afternoon, cycle carefully along the coastal path before returning to the village church."
+          },
+          "stops": [
+            {
+              "name": "Ancient Akanthos",
+              "tip_5lang": {
+                "de": "Schlammige Wege; fahren Sie vorsichtig oder schieben Sie kurz.",
+                "hu": "Saras utak; hajtson óvatosan vagy tolja a biciklit rövid ideig.",
+                "ro": "Drumuri noroioase; pedalați cu grijă sau împingeți puțin bicicleta.",
+                "en": "Muddy paths; ride carefully or push for a short distance."
+              }
+            },
+            {
+              "name": "Ancient Cemetery",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem feuchten Gras und unebenem Untergrund.",
+                "hu": "Vigyázat a nedves füvön és az egyenetlen talajon.",
+                "ro": "Atenție pe iarba umedă și pe terenul accidentat.",
+                "en": "Be careful on wet grass and uneven ground."
+              }
+            },
+            {
+              "name": "Krouna Tower",
+              "tip_5lang": {
+                "de": "Der Turm bietet einen guten Unterstand für eine kurze Regenpause.",
+                "hu": "A torony jó menedéket nyújt egy rövid esőszünetre.",
+                "ro": "Turnul oferă un adăpost bun pentru o scurtă pauză de ploaie.",
+                "en": "The tower provides good shelter for a short rain break."
+              }
+            },
+            {
+              "name": "Port of Ierissos",
+              "tip_5lang": {
+                "de": "Vermeiden Sie die glatten Metallflächen an den Anlegestellen.",
+                "hu": "Kerülje a csúszós fémfelületeket a mólóknál.",
+                "ro": "Evitați suprafețele metalice alunecoase de la debarcadere.",
+                "en": "Avoid slippery metal surfaces at the piers."
+              }
+            },
+            {
+              "name": "Ierissos Beach",
+              "tip_5lang": {
+                "de": "Der Radweg kann bei Regen Pfützen bilden; gute Schutzbleche helfen.",
+                "hu": "A kerékpárúton tócsák alakulhatnak ki; a jó sárvédő sokat segít.",
+                "ro": "Pista de biciclete poate avea bălți; aripile bune sunt de ajutor.",
+                "en": "The bike path can form puddles; good mudguards help."
+              }
+            },
+            {
+              "name": "Church of Agios Nikolaos",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder in der Nähe vorhanden.",
+                "hu": "Biztonságos kerékpártároló elérhető a közelben.",
+                "ro": "Loc sigur de parcare pentru biciclete disponibil în apropiere.",
+                "en": "Safe bicycle parking available nearby."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Bremsen Sie frühzeitig auf nassen Straßen und Wegen.",
+              "Vermeiden Sie Markierungen auf dem Asphalt, diese sind sehr glatt.",
+              "Tragen Sie auffällige, wasserdichte Kleidung.",
+              "Ein Handtuch für den Sattel bei Pausen ist sehr praktisch."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben a kerékpáron.",
+              "Fékezzen időben a vizes utakon és ösvényeken.",
+              "Kerülje az aszfalton lévő felfestéseket, mert nagyon csúsznak.",
+              "Viseljen feltűnő, vízálló ruházatot.",
+              "Egy törölköző a nyereghez a szünetekben nagyon praktikus."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt indispensabile pe o astfel de vreme.",
+              "Frânați din timp pe străzile și potecile umede.",
+              "Evitați marcajele de pe asfalt, acestea sunt foarte alunecoase.",
+              "Purtați haine reflectorizante și impermeabile.",
+              "Un prosop pentru șa în timpul pauzelor este foarte util."
+            ],
+            "en": [
+              "Mudguards on the bike are essential in this weather.",
+              "Brake early on wet roads and paths.",
+              "Avoid road markings on the asphalt, as they are very slippery.",
+              "Wear bright, waterproof clothing.",
+              "A towel for the saddle during breaks is very practical."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine belebende Winter-Radtour unter griechischer Sonne. Morgens besuchen Sie die antiken Stätten, die in der kühlen Luft besonders klar wirken. Der Krouna-Turm bietet mittags ein historisches Panorama. Vor dem frühen Sonnenuntergang radeln Sie am Hafen und Strand entlang, um die milde Winterbrise zu genießen.",
+            "hu": "Élénkítő téli kerékpártúra a görög napsütésben. Reggel látogassa meg az ókori helyszíneket, amelyek a hűvös levegőben különösen élesen látszanak. A Krouna-torony délben történelmi panorámát kínál. A korai naplemente előtt kerekezzen a kikötő és a strand mentén, élvezve az enyhe téli szellőt.",
+            "ro": "O tură revigorantă cu bicicleta iarna sub soarele grecesc. Dimineața, vizitați siturile antice, care par deosebit de clare în aerul rece. Turnul Krouna oferă la prânz o panoramă istorică. Înainte de apusul devreme, pedalați pe lângă port și plajă pentru a savura briza blândă de iarnă.",
+            "en": "An invigorating winter bike tour under the Greek sun. In the morning, visit the ancient sites, which appear particularly clear in the cool air. The Krouna Tower offers a historical panorama at noon. Before the early sunset, cycle along the harbor and beach to enjoy the mild winter breeze."
+          },
+          "stops": [
+            {
+              "name": "Ancient Akanthos",
+              "tip_5lang": {
+                "de": "Der Boden ist fest und ideal zum Erkunden mit dem Rad.",
+                "hu": "A talaj kemény és ideális a kerékpáros felfedezéshez.",
+                "ro": "Terenul este ferm și ideal pentru explorarea cu bicicleta.",
+                "en": "The ground is firm and ideal for exploring by bike."
+              }
+            },
+            {
+              "name": "Ancient Cemetery",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe; im Winter sind kaum Besucher hier.",
+                "hu": "Élvezze a nyugalmat; télen alig vannak itt látogatók.",
+                "ro": "Bucurați-vă de liniște; iarna sunt foarte puțini vizitatori.",
+                "en": "Enjoy the peace; there are hardly any visitors here in winter."
+              }
+            },
+            {
+              "name": "Krouna Tower",
+              "tip_5lang": {
+                "de": "Ein toller Aussichtspunkt, der im Winter oft im klaren Licht strahlt.",
+                "hu": "Remek kilátópont, amely télen gyakran tiszta fényben ragyog.",
+                "ro": "Un punct de observație excelent, adesea luminat clar iarna.",
+                "en": "A great viewpoint that often shines in clear light in winter."
+              }
+            },
+            {
+              "name": "Port of Ierissos",
+              "tip_5lang": {
+                "de": "Warmer Stopp in einem Hafencafé vor der Weiterfahrt.",
+                "hu": "Melegítő megálló egy kikötői kávézóban a továbbindulás előtt.",
+                "ro": "Oprire pentru încălzire într-o cafenea din port înainte de plecare.",
+                "en": "Warm stop in a harbor cafe before continuing the ride."
+              }
+            },
+            {
+              "name": "Ierissos Beach",
+              "tip_5lang": {
+                "de": "Leerer Radweg; Vorsicht bei Sandverwehungen auf dem Asphalt.",
+                "hu": "Üres kerékpárút; vigyázat az aszfalton lévő homokátfúvásokkal.",
+                "ro": "Pistă de biciclete pustie; atenție la nisipul suflat pe asfalt.",
+                "en": "Empty bike path; watch out for sand drifts on the asphalt."
+              }
+            },
+            {
+              "name": "Church of Agios Nikolaos",
+              "tip_5lang": {
+                "de": "Die Abendsonne beleuchtet die Fassade wunderschön um 16:30 Uhr.",
+                "hu": "Az esti nap gyönyörűen megvilágítja a homlokzatot 16:30-kor.",
+                "ro": "Soarele de seară luminează frumos fațada la ora 16:30.",
+                "en": "The evening sun illuminates the facade beautifully at 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Handschuhe sind für die Abfahrten am Morgen sehr wichtig.",
+              "Die Tage sind kurz, beenden Sie die Tour gegen 17:00 Uhr.",
+              "Prüfen Sie den Reifendruck, da kalte Luft das Volumen verringert.",
+              "Tragen Sie eine winddichte Jacke für die Strandabschnitte.",
+              "Wintersonne in Griechenland ist stark, Sonnenschutz nicht vergessen."
+            ],
+            "hu": [
+              "A kesztyű nagyon fontos a reggeli lejtőkön.",
+              "A nappalok rövidek, fejezze be a túrát 17:00 körül.",
+              "Ellenőrizze a guminyomást, mert a hideg levegő csökkenti a térfogatot.",
+              "Viseljen szélálló dzsekit a tengerparti szakaszokon.",
+              "A téli nap erős Görögországban, ne felejtse el a fényvédőt."
+            ],
+            "ro": [
+              "Mănușile sunt foarte importante pentru coborârile de dimineață.",
+              "Zilele sunt scurte, încheiați tura în jurul orei 17:00.",
+              "Verificați presiunea în anvelope, aerul rece le desumflă.",
+              "Purtați o jachetă rezistentă la vânt pentru porțiunile de plajă.",
+              "Soarele de iarnă este puternic în Grecia, nu uitați protecția solară."
+            ],
+            "en": [
+              "Gloves are very important for the descents in the morning.",
+              "The days are short, finish the tour by 5 PM.",
+              "Check tire pressure, as cold air reduces the volume.",
+              "Wear a windproof jacket for the beach sections.",
+              "Winter sun in Greece is strong, don't forget sunscreen."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1134,6 +1514,214 @@
           "Do not leave valuables visible in the car.",
           "A car gives you the flexibility to also explore more remote beaches nearby."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Ierissos komfortabel mit dem Auto, während der Regen draußen prasselt. Morgens fahren Sie zum Krouna-Turm und den antiken Ausgrabungen. Mittags genießen Sie ein langes Mittagessen am Hafen, geschützt vor dem Wetter. Nachmittags besuchen Sie die Kirche und das Kulturzentrum, bevor Sie die Küstenstraße bei Dämmerung befahren.",
+            "hu": "Fedezze fel Ierissost kényelmesen autóval, miközben odakint kopog az eső. Reggel látogasson el a Krouna-toronyhoz és az ókori ásatásokhoz. Délben élvezzen egy hosszú ebédet a kikötőben, védve az időjárástól. Délután látogassa meg a templomot és a Kulturális Központot, mielőtt szürkületben a parti úton autózna.",
+            "ro": "Explorați Ierissos confortabil cu mașina, în timp ce afară plouă. Dimineața, mergeți la turnul Krouna și la săpăturile antice. La prânz, bucurați-vă de un prânz lung în port, protejați de vreme. După-amiaza, vizitați biserica și centrul cultural, înainte de a conduce pe drumul de coastă la amurg.",
+            "en": "Explore Ierissos comfortably by car while the rain patters outside. In the morning, drive to Krouna Tower and the ancient excavations. At noon, enjoy a long lunch at the port, sheltered from the weather. In the afternoon, visit the church and the cultural center before driving along the coastal road at twilight."
+          },
+          "stops": [
+            {
+              "name": "Krouna Tower",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um nicht nass zu werden.",
+                "hu": "Parkoljon közel a bejárathoz, hogy ne ázzon el.",
+                "ro": "Parcați aproape de intrare pentru a nu vă uda.",
+                "en": "Park close to the entrance to avoid getting wet."
+              }
+            },
+            {
+              "name": "Cluster: Ancient Akanthos",
+              "tip_5lang": {
+                "de": "Einige Wege sind unbefestigt; fahren Sie bei starkem Regen vorsichtig.",
+                "hu": "Néhány út nem aszfaltozott; heves esőben vezessen óvatosan.",
+                "ro": "Unele drumuri sunt neasfaltate; conduceți cu grijă pe ploaie torențială.",
+                "en": "Some paths are unpaved; drive carefully during heavy rain."
+              }
+            },
+            {
+              "name": "Ancient Cemetery",
+              "tip_5lang": {
+                "de": "Besichtigung vom Auto aus teilweise möglich, falls es zu stark regnet.",
+                "hu": "Az autóbol is részben megtekinthető, ha túl erősen esne.",
+                "ro": "Vizionarea din mașină este parțial posibilă dacă plouă prea tare.",
+                "en": "Viewing from the car is partially possible if it rains too hard."
+              }
+            },
+            {
+              "name": "Cluster: Port of Ierissos",
+              "tip_5lang": {
+                "de": "Großer Parkplatz am Hafen; viele überdachte Restaurants.",
+                "hu": "Nagy parkoló a kikötőben; sok fedett étterem elérhető.",
+                "ro": "Parcare mare în port; multe restaurante acoperite.",
+                "en": "Large parking lot at the port; many indoor restaurants available."
+              }
+            },
+            {
+              "name": "Church of Agios Nikolaos",
+              "tip_5lang": {
+                "de": "Zentral gelegen mit Parkmöglichkeiten in den Seitenstraßen.",
+                "hu": "Központi fekvésű, parkolási lehetőséggel a mellékutcákban.",
+                "ro": "Situată central, cu posibilități de parcare pe străzile laterale.",
+                "en": "Centrally located with parking options in the side streets."
+              }
+            },
+            {
+              "name": "Cultural Center",
+              "tip_5lang": {
+                "de": "Ideal für die regenreichste Zeit des Tages.",
+                "hu": "Ideális a nap legesősebb időszakára.",
+                "ro": "Ideal pentru cea mai ploioasă perioadă a zilei.",
+                "en": "Ideal for the rainiest part of the day."
+              }
+            },
+            {
+              "name": "Ierissos Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das stürmische Meer aus dem warmen Auto.",
+                "hu": "Élvezze a viharos tenger látványát a meleg autóból.",
+                "ro": "Bucurați-vă de vederea mării înfuriate din mașina caldă.",
+                "en": "Enjoy the view of the stormy sea from the warm car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass die Scheibenwischer einwandfrei funktionieren.",
+              "Nutzen Sie die Klimaanlage, um das Beschlagen der Scheiben zu verhindern.",
+              "Vermeiden Sie tiefe Pfützen an den Straßenrändern.",
+              "Parken Sie am Hafen, um direkten Zugang zu den Tavernen zu haben.",
+              "Haben Sie immer einen Regenschirm im Auto parat."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy az ablaktörlők tökéletesen működnek.",
+              "Használja a klímát az ablakok párátlanításához.",
+              "Kerülje a mély tócsákat az út szélén.",
+              "Parkoljon a kikötőben a tavernák közvetlen eléréséhez.",
+              "Mindig legyen kéznél esernyő az autóban."
+            ],
+            "ro": [
+              "Asigurați-vă că ștergătoarele funcționează perfect.",
+              "Folosiți aerul condiționat pentru a dezaburi geamurile.",
+              "Evitați bălțile adânci de la marginea drumului.",
+              "Parcați în port pentru acces direct la taverne.",
+              "Aveți întotdeauna o umbrelă pregătită în mașină."
+            ],
+            "en": [
+              "Ensure that the windshield wipers are working perfectly.",
+              "Use the air conditioning to prevent the windows from fogging up.",
+              "Avoid deep puddles at the edges of the road.",
+              "Park at the harbor for direct access to the tavernas.",
+              "Always have an umbrella ready in the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Roadtrip durch das winterliche Chalkidiki. Ierissos ist im Winter ruhig und authentisch. Morgens besuchen Sie den historischen Turm und die antike Stadt Akanthos. Mittags bietet der Hafen frischen Fisch ohne Touristenmassen. Den Sonnenuntergang gegen 17:00 Uhr erleben Sie am besten am Strand, bevor es kühl wird.",
+            "hu": "Egy pihentető autós kirándulás a téli Halkidikin. Ierissos télen csendes és autentikus. Reggel látogassa meg a történelmi tornyot és Akanthos ókori városát. Délben a kikötő friss halat kínál turistahadak nélkül. A 17:00 körüli naplementét legjobb a tengerparton átélni, mielőtt lehűlne az idő.",
+            "ro": "O excursie relaxantă cu mașina prin Halkidiki de iarnă. Ierissos este liniștit și autentic iarna. Dimineața, vizitați turnul istoric și orașul antic Akanthos. La prânz, portul oferă pește proaspăt fără mulțimi de turiști. Apusul de la ora 17:00 este cel mai bine văzut pe plajă, înainte de a se face frig.",
+            "en": "A relaxed road trip through winter Halkidiki. Ierissos is quiet and authentic in winter. In the morning, visit the historic tower and the ancient city of Akanthos. At noon, the harbor offers fresh fish without the tourist crowds. The sunset around 17:00 is best experienced at the beach before it gets cold."
+          },
+          "stops": [
+            {
+              "name": "Krouna Tower",
+              "tip_5lang": {
+                "de": "Die Zufahrt ist im Winter problemlos möglich.",
+                "hu": "A hozzáférés télen is problémamentesen lehetséges.",
+                "ro": "Accesul este posibil fără probleme în timpul iernii.",
+                "en": "Access is possible without problems in winter."
+              }
+            },
+            {
+              "name": "Cluster: Ancient Akanthos",
+              "tip_5lang": {
+                "de": "Viel Platz zum Parken direkt an den Ausgrabungen.",
+                "hu": "Sok parkolóhely közvetlenül az ásatásoknál.",
+                "ro": "Mult spațiu de parcare direct lângă săpături.",
+                "en": "Plenty of parking space directly at the excavations."
+              }
+            },
+            {
+              "name": "Ancient Cemetery",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; genießen Sie die klare Sicht bis zum Meer.",
+                "hu": "Rövid megálló; élvezze a tiszta kilátást egészen a tengerig.",
+                "ro": "Oprire scurtă; bucurați-vă de vederea clară până la mare.",
+                "en": "Short stop; enjoy the clear view all the way to the sea."
+              }
+            },
+            {
+              "name": "Cluster: Port of Ierissos",
+              "tip_5lang": {
+                "de": "Im Winter finden Sie hier mühelos den besten Parkplatz.",
+                "hu": "Télen könnyedén megtalálja itt a legjobb parkolóhelyet.",
+                "ro": "Iarna veți găsi fără efort cel mai bun loc de parcare aici.",
+                "en": "In winter, you will easily find the best parking spot here."
+              }
+            },
+            {
+              "name": "Church of Agios Nikolaos",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am späten Nachmittag für die beste Beleuchtung.",
+                "hu": "Látogassa meg a templomot késő délután a legjobb megvilágításért.",
+                "ro": "Vizitați biserica după-amiaza târziu pentru cea mai bună lumină.",
+                "en": "Visit the church in the late afternoon for the best lighting."
+              }
+            },
+            {
+              "name": "Cultural Center",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um mehr über die lokale Geschichte zu erfahren.",
+                "hu": "Meleg hely, ahol többet tudhat meg a helyi történelemről.",
+                "ro": "Un loc cald pentru a afla mai multe despre istoria locală.",
+                "en": "A warm place to learn more about local history."
+              }
+            },
+            {
+              "name": "Ierissos Beach",
+              "tip_5lang": {
+                "de": "Fahren Sie den Küstenabschnitt bei Sonnenuntergang (17 Uhr) ab.",
+                "hu": "Autózzon végig a parti szakaszon naplementekor (17 órakor).",
+                "ro": "Conduceți pe secțiunea de coastă la apus (ora 17).",
+                "en": "Drive along the coastal section at sunset (5 PM)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck vor längeren Fahrten in der Kälte.",
+              "Die Heizung im Auto sorgt für Gemütlichkeit zwischen den Stopps.",
+              "Beachten Sie, dass einige kleine Tavernen im Winter geschlossen sein könnten.",
+              "Planen Sie Ihre Route so, dass Sie vor 17:00 Uhr am Strand sind.",
+              "Die Straßen sind im Winter leerer und entspannter zu befahren."
+            ],
+            "hu": [
+              "Hosszabb hidegben való vezetés előtt ellenőrizze a guminyomást.",
+              "Az autó fűtése kényelmet biztosít a megállók között.",
+              "Vegye figyelembe, hogy néhány kis taverna télen zárva tarthat.",
+              "Tervezze úgy az útvonalat, hogy 17:00 előtt a strandra érjen.",
+              "Az utak télen üresebbek és pihentetőbb rajtuk a vezetés."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope înainte de drumuri lungi în frig.",
+              "Căldura din mașină asigură confort între opriri.",
+              "Rețineți că unele taverne mici ar putea fi închise iarna.",
+              "Planificați ruta astfel încât să ajungeți la plajă înainte de ora 17:00.",
+              "Drumurile sunt mai goale și mai relaxante iarna."
+            ],
+            "en": [
+              "Check tire pressure before long drives in the cold.",
+              "The car heater ensures comfort between stops.",
+              "Note that some small tavernas might be closed in winter.",
+              "Plan your route so you reach the beach before 5 PM.",
+              "The roads are emptier and more relaxed to drive in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1506,6 +2094,196 @@
           "Have small change ready for bus tickets.",
           "Bus stops are not always clearly marked, ask a local if in doubt."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die lokalen Busse, um Ierissos bei Regen zu erkunden. Morgens erreichen Sie die antiken Stätten, die im Nebel fast mystisch wirken. Mittags bringt Sie der Bus zum Stadtzentrum und Hafen für eine trockene Pause. Den Nachmittag verbringen Sie im Kulturzentrum, bevor Sie die letzte Fahrt zurück nehmen.",
+            "hu": "Használja a helyi buszokat Ierissos felfedezéséhez esőben. Reggel érje el az ókori helyszíneket, amelyek a ködben szinte misztikusnak tűnnek. Délben a busz elviszi a városközpontba és a kikötőbe egy száraz szünetre. A délutánt töltse a Kulturális Központban, mielőtt visszautazna az utolsó járattal.",
+            "ro": "Folosiți autobuzele locale pentru a explora Ierissos pe ploaie. Dimineața, ajungeți la siturile antice, care par aproape mistice în ceață. La prânz, autobuzul vă duce în centrul orașului și în port pentru o pauză la uscat. Petreceți după-amiaza la Centrul Cultural înainte de a lua ultimul drum înapoi.",
+            "en": "Use the local buses to explore Ierissos in the rain. In the morning, reach the ancient sites, which appear almost mystical in the fog. At noon, the bus takes you to the town center and port for a dry break. Spend the afternoon at the Cultural Center before taking the last ride back."
+          },
+          "stops": [
+            {
+              "name": "Cluster: Ancient Akanthos",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet oft wenig Schutz; Regenschirm bereit halten.",
+                "hu": "A buszmegálló gyakran kevés védelmet nyújt; tartsa készenlétben az esernyőt.",
+                "ro": "Stația de autobuz oferă adesea puțină protecție; țineți umbrela la îndemână.",
+                "en": "The bus stop often offers little shelter; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Ancient Cemetery",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle; achten Sie auf Pfützen.",
+                "hu": "Rövid séta a megállótól; ügyeljen a tócsákra.",
+                "ro": "Scurtă plimbare de la stație; atenție la bălți.",
+                "en": "Short walk from the stop; watch out for puddles."
+              }
+            },
+            {
+              "name": "Cluster: Town Center",
+              "tip_5lang": {
+                "de": "Zentraler Halt mit vielen Geschäften zum Unterstellen.",
+                "hu": "Központi megálló sok üzlettel, ahová be lehet húzódni.",
+                "ro": "Oprire centrală cu multe magazine unde vă puteți adăposti.",
+                "en": "Central stop with many shops to take shelter in."
+              }
+            },
+            {
+              "name": "Cultural Center",
+              "tip_5lang": {
+                "de": "Bequem erreichbar und der beste Ort bei Starkregen.",
+                "hu": "Könnyen elérhető és a legjobb hely heves esőzés esetén.",
+                "ro": "Ușor accesibil și cel mai bun loc în caz de ploaie torențială.",
+                "en": "Easily accessible and the best place during heavy rain."
+              }
+            },
+            {
+              "name": "Cluster: Port & Beach",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind meist nah an überdachten Bereichen.",
+                "hu": "A megállók többnyire közel vannak a fedett részekhez.",
+                "ro": "Stațiile sunt de obicei aproape de zonele acoperite.",
+                "en": "The stops are usually close to covered areas."
+              }
+            },
+            {
+              "name": "Ierissos Beach",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt passend zu den Busintervallen ein.",
+                "hu": "Tervezze meg a visszautat a buszjáratokhoz igazodva.",
+                "ro": "Planificați drumul de întoarcere în funcție de intervalele autobuzelor.",
+                "en": "Plan your return trip according to the bus intervals."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den aktuellen Busfahrplan, da es bei Regen Verzögerungen geben kann.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zwischen den Haltestellen.",
+              "Haben Sie Kleingeld für die Fahrkarten bereit.",
+              "Die Busse sind im Winter/bei Regen oft angenehm geheizt.",
+              "Nutzen Sie die Wartezeiten für einen schnellen Kaffee in der Nähe."
+            ],
+            "hu": [
+              "Ellenőrizze az aktuális menetrendet, mert esőben késések előfordulhatnak.",
+              "Viseljen vízálló ruházatot a megállók közötti utakhoz.",
+              "Legyen kéznél aprópénz a jegyekhez.",
+              "A buszok télen/esőben gyakran kellemesen fűtöttek.",
+              "Használja ki a várakozási időt egy gyors kávéra a közelben."
+            ],
+            "ro": [
+              "Verificați programul actual, deoarece pot apărea întârzieri pe ploaie.",
+              "Purtați haine impermeabile pentru drumul dintre stații.",
+              "Aveți pregătit mărunțiș pentru bilete.",
+              "Autobuzele sunt adesea încălzite plăcut iarna/pe ploaie.",
+              "Folosiți timpul de așteptare pentru o cafea rapidă în apropiere."
+            ],
+            "en": [
+              "Check the current bus schedule as there may be delays in the rain.",
+              "Wear waterproof clothing for the walks between stops.",
+              "Have small change ready for tickets.",
+              "Buses are often pleasantly heated in winter/rain.",
+              "Use waiting times for a quick coffee nearby."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie das winterliche Ierissos mit den Augen der Einheimischen im Bus. Morgens besuchen Sie die antiken Ruinen in der klaren Winterluft. Mittags führt der Weg zum belebten Ortszentrum und Hafen. Da es gegen 17:00 Uhr dunkel wird, planen Sie Ihren Strandbesuch früh ein, bevor Sie den Bus zurück nehmen.",
+            "hu": "Fedezze fel a téli Ierissost a helyiek szemével a buszon utazva. Reggel látogassa meg az ókori romokat a tiszta téli levegőben. Délben az út a nyüzsgő városközpontba és a kikötőbe vezet. Mivel 17:00 körül sötétedik, tervezze koránra a tengerparti látogatást, mielőtt visszabuszozna.",
+            "ro": "Descoperiți Ierissosul de iarnă prin ochii localnicilor mergând cu autobuzul. Dimineața, vizitați ruinele antice în aerul curat de iarnă. La prânz, drumul duce spre centrul plin de viață și port. Deoarece se întunecă în jurul orei 17:00, planificați vizita la plajă devreme înainte de a lua autobuzul înapoi.",
+            "en": "Discover winter Ierissos through the eyes of the locals while riding the bus. In the morning, visit the ancient ruins in the clear winter air. At noon, the path leads to the lively town center and harbor. Since it gets dark around 17:00, plan your beach visit early before taking the bus back."
+          },
+          "stops": [
+            {
+              "name": "Cluster: Ancient Akanthos",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse oft pünktlicher durch weniger Verkehr.",
+                "hu": "Télen a buszok gyakran pontosabbak a kisebb forgalom miatt.",
+                "ro": "Iarna, autobuzele sunt adesea mai punctuale datorită traficului redus.",
+                "en": "Buses are often more punctual in winter due to less traffic."
+              }
+            },
+            {
+              "name": "Ancient Cemetery",
+              "tip_5lang": {
+                "de": "Genießen Sie den klaren Blick auf die Halbinsel Athos.",
+                "hu": "Élvezze a tiszta kilátást az Athosz-félszigetre.",
+                "ro": "Bucurați-vă de vederea clară spre Peninsula Athos.",
+                "en": "Enjoy the clear view of the Athos Peninsula."
+              }
+            },
+            {
+              "name": "Cluster: Town Center",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in einem der Cafés auf, während Sie auf den Bus warten.",
+                "hu": "Melegedjen fel az egyik kávézóban, amíg a buszra vár.",
+                "ro": "Încălziți-vă într-una dintre cafenele în timp ce așteptați autobuzul.",
+                "en": "Warm up in one of the cafes while waiting for the bus."
+              }
+            },
+            {
+              "name": "Cultural Center",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob es im Winter spezielle Indoor-Events gibt.",
+                "hu": "Ellenőrizze, hogy vannak-ben télen speciális beltéri események.",
+                "ro": "Verificați dacă există evenimente speciale în interior iarna.",
+                "en": "Check if there are any special indoor events in winter."
+              }
+            },
+            {
+              "name": "Cluster: Port & Beach",
+              "tip_5lang": {
+                "de": "Winterfahrplan beachten; abends fahren weniger Busse.",
+                "hu": "Ügyeljen a téli menetrendre; este kevesebb busz jár.",
+                "ro": "Respectați programul de iarnă; seara circulă mai puține autobuze.",
+                "en": "Note the winter schedule; fewer buses run in the evening."
+              }
+            },
+            {
+              "name": "Ierissos Beach",
+              "tip_5lang": {
+                "de": "Beenden Sie den Besuch bis 16:30 Uhr, um den Bus im Hellen zu erreichen.",
+                "hu": "Fejezze be a látogatást 16:30-ig, hogy még világosban elérje a buszt.",
+                "ro": "Încheiați vizita până la 16:30 pentru a prinde autobuzul pe lumină.",
+                "en": "Finish your visit by 4:30 PM to catch the bus while it's still light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busfrequenz kann im Winter reduziert sein.",
+              "Fragen Sie Einheimische nach den besten Verbindungen.",
+              "Nutzen Sie die beheizten Busse für eine kleine Pause.",
+              "Planen Sie alles rund um den frühen Sonnenuntergang um 17:00 Uhr.",
+              "Die Haltestellen sind gute Orientierungspunkte im Dorf."
+            ],
+            "hu": [
+              "A buszjáratok gyakorisága télen csökkenhet.",
+              "Kérdezze a helyieket a legjobb csatlakozásokról.",
+              "Használja a fűtött buszokat egy kis pihenésre.",
+              "Tervezzen mindent a korai, 17:00-s naplemente köré.",
+              "A buszmegállók jó tájékozódási pontok a faluban."
+            ],
+            "ro": [
+              "Frecvența autobuzelor poate fi redusă iarna.",
+              "Întrebați localnicii despre cele mai bune conexiuni.",
+              "Folosiți autobuzele încălzite pentru o scurtă pauză.",
+              "Planificați totul în funcție de apusul devreme de la ora 17:00.",
+              "Stațiile de autobuz sunt puncte bune de orientare în sat."
+            ],
+            "en": [
+              "Bus frequency may be reduced in winter.",
+              "Ask locals about the best connections.",
+              "Use the heated buses for a short break.",
+              "Plan everything around the early sunset at 17:00.",
+              "The bus stops are good orientation points in the village."
+            ]
+          }
+        }
       }
     }
   }

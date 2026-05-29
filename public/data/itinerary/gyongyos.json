@@ -266,6 +266,188 @@
           "Wear comfortable shoes as the city center has cobblestones.",
           "Most attractions are within walking distance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag am Fő tér verlangt nach einem Schirm, aber die Arkaden bieten Schutz. Die Besichtigung der prächtigen Kirchen ist das ideale Schlechtwetterprogramm. Den Nachmittag verbringen wir trocken in den Ausstellungen des Mátra-Museums im Orczy-Schloss. Zum Abschluss genießen wir die Atmosphäre im Weinmuseum bei einem Glas Mátra-Wein, während draußen der Regen gegen die Fenster prasselt.",
+            "hu": "A Fő tér esőben is hangulatos, az árkádok alatt védve maradunk. A Szent Bertalan és a ferences templom belső terei kiváló menedéket és kulturális élményt nyújtanak délelőtt. A délutánt az Orczy-kastély falai között, a Mátra Múzeumban töltjük, ahol a természetrajzi tárlat hosszú időre leköt. A napot a Bormúzeumban zárjuk, ahol a pincében garantáltan nem ázunk meg.",
+            "ro": "Dimineața în Piața Principală necesită o umbrelă, dar arcadele oferă protecție. Vizitarea bisericilor magnifice este programul ideal pentru vreme rea. După-amiaza o petrecem la adăpost în expozițiile Muzeului Mátra din Castelul Orczy. La final, savurăm atmosfera de la Muzeul Vinului cu un pahar de vin local, în timp ce afară ploaia bate în ferestre.",
+            "en": "The morning at Main Square requires an umbrella, but the arcades offer some cover. Visiting the magnificent churches is the ideal bad-weather program for the morning. We spend the afternoon dry inside the Mátra Museum's exhibitions at Orczy Castle. To finish, we enjoy the atmosphere of the Wine Museum with a glass of Mátra wine while the rain patters against the windows."
+          },
+          "stops": [
+            {
+              "name": "Main Square (Fő tér)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Häuser als Schutz.",
+                "hu": "Használja a környező épületek árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele clădirilor din jur pentru protecție.",
+                "en": "Use the arcades of the surrounding buildings for shelter."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Schatzkammer, ein faszinierender Ort im Trockenen.",
+                "hu": "Látogasson el a kincstárba, lenyűgöző és teljesen fedett program.",
+                "ro": "Vizitați trezoreria, un loc fascinant și ferit de ploaie.",
+                "en": "Visit the treasury, a fascinating indoor experience."
+              }
+            },
+            {
+              "name": "Franciscan Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Bibliothek, falls der Regen stärker wird.",
+                "hu": "Csodálja meg a könyvtárat, ha kint rákezdene az eső.",
+                "ro": "Admirați biblioteca dacă ploaia devine mai puternică.",
+                "en": "Admire the library if the rain gets heavier outside."
+              }
+            },
+            {
+              "name": "Mátra Museum (Orczy Castle)",
+              "tip_5lang": {
+                "de": "Das Mammutskelett ist ein Highlight, für das man sich Zeit nehmen kann.",
+                "hu": "A mamutcsontváz mellett órákat el lehet tölteni fedett helyen.",
+                "ro": "Scheletul de mamut este un punct culminant care merită timp.",
+                "en": "The mammoth skeleton is a highlight worth taking your time for."
+              }
+            },
+            {
+              "name": "Wine Museum of Gyöngyös",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um das Ende des Regens abzuwarten.",
+                "hu": "Tökéletes helyszín az eső elől való menekülésre és kóstolásra.",
+                "ro": "Locul perfect pentru a aștepta oprirea ploii la degustare.",
+                "en": "The perfect place to wait out the rain while tasting."
+              }
+            },
+            {
+              "name": "St. Anne Chapel",
+              "tip_5lang": {
+                "de": "Ein kurzer, nasser Fußweg, aber die Aussicht auf die Mátra im Nebel ist mystisch.",
+                "hu": "Rövid, ázós séta, de a ködös Mátra látványa innen misztikus.",
+                "ro": "O plimbare scurtă și umedă, dar priveliștea spre Mátra e mistică.",
+                "en": "A short, wet walk, but the view of Mátra in the fog is mystical."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da der Wind vom Gebirge her wehen kann.",
+              "Die Museen in Gyöngyös sind montags oft geschlossen, prüfen Sie das vorab.",
+              "Die Cafés rund um den Hauptplatz bieten gemütliche Rückzugsorte.",
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster in der Altstadt."
+            ],
+            "hu": [
+              "Vigyél magaddal strapabíró esernyőt, mert a Mátrából fújó szél erős lehet.",
+              "A múzeumok hétfőnként zárva tarthatnak, ellenőrizd az időpontokat.",
+              "A Fő tér környéki kávézók remek menedéket nyújtanak a záporok elől.",
+              "Viselj vízálló cipőt a belvárosi macskaköves utcákhoz."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, deoarece vântul dinspre munți poate fi puternic.",
+              "Muzeele sunt adesea închise lunea, verificați programul în prealabil.",
+              "Cafenelele din jurul pieței principale oferă locuri plăcute de refugiu.",
+              "Purtați încălțăminte impermeabilă pentru străzile cu piatră cubică."
+            ],
+            "en": [
+              "Take a sturdy umbrella, as winds from the mountains can be strong.",
+              "Museums are often closed on Mondays, check the schedule in advance.",
+              "Cafes around the Main Square offer cozy retreats from the showers.",
+              "Wear waterproof shoes for the cobblestone streets in the old town."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Gyöngyös im Winter hat einen klaren, frostigen Charme. Der Fő tér strahlt in der kalten Luft Ruhe aus, bevor wir uns in den beheizten Kirchen aufwärmen. Das Mátra-Museum bietet eine willkommene Flucht vor der Kälte in die reiche Geschichte der Region. Nachmittags wärmt uns eine Weinprobe im Weinmuseum von innen auf. Wenn die Sonne früh hinter den Mátra-Gipfeln versinkt, leuchten die Lichter der Stadt besonders festlich.",
+            "hu": "A téli Gyöngyösnek tiszta, fagyos varázsa van. A Fő tér nyugalmat áraszt a csípős levegőben, mielőtt a fűtött templomok falai között felmelegednénk. A Mátra Múzeum Orczy-kastélya tökéletes menedék a hideg elől, ahol órákig böngészhetjük a tárlatot. Délután a Bormúzeumban egy pohár vörösbor melegít fel belülről. Ahogy a nap korán eltűnik a Mátra csúcsai mögött, a város fényei ünnepien ragyognak.",
+            "ro": "Gyöngyös iarna are un farmec clar și geros. Piața Principală emană liniște în aerul rece, înainte de a ne încălzi în bisericile încălzite. Muzeul Mátra oferă o evadare binevenită de frig în istoria bogată a regiunii. După-amiaza, o degustare la Muzeul Vinului ne încălzește pe interior. Când soarele apune devreme după vârfurile Mátra, luminile orașului strălucesc festiv.",
+            "en": "Gyöngyös in winter has a crisp, frosty charm. The Main Square exudes tranquility in the cold air before we warm up inside the heated churches. The Mátra Museum offers a welcome escape from the cold into the region's rich history. In the afternoon, a wine tasting at the Wine Museum warms us from the inside. As the sun sets early behind the Mátra peaks, the city lights shine with a festive glow."
+          },
+          "stops": [
+            {
+              "name": "Main Square (Fő tér)",
+              "tip_5lang": {
+                "de": "Genießen Sie die weihnachtliche Beleuchtung am späten Nachmittag.",
+                "hu": "Élvezze az ünnepi díszkivilágítást a késő délutáni órákban.",
+                "ro": "Bucurați-vă de iluminatul festiv în a doua parte a după-amiezii.",
+                "en": "Enjoy the festive lights in the late afternoon hours."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Beachten Sie die Öffnungszeiten, die im Winter kürzer sein können.",
+                "hu": "Figyeljen a nyitvatartásra, télen rövidebb ideig látogatható.",
+                "ro": "Atenție la programul de vizitare, poate fi mai scurt iarna.",
+                "en": "Note the opening hours, which may be shorter during winter."
+              }
+            },
+            {
+              "name": "Franciscan Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Besinnung während der Winterzeit.",
+                "hu": "Csendes és békés helyszín az ünnepi időszakban a megpihenésre.",
+                "ro": "Un loc liniștit pentru reflecție în timpul perioadei de iarnă.",
+                "en": "A quiet place for reflection during the winter season."
+              }
+            },
+            {
+              "name": "Mátra Museum (Orczy Castle)",
+              "tip_5lang": {
+                "de": "Das beheizte Schloss ist der beste Ort für die kalte Mittagszeit.",
+                "hu": "A fűtött kastély a legjobb helyszín a hideg déli órákban.",
+                "ro": "Castelul încălzit este cel mai bun loc pentru orele reci de prânz.",
+                "en": "The heated castle is the best place for the cold midday hours."
+              }
+            },
+            {
+              "name": "Wine Museum of Gyöngyös",
+              "tip_5lang": {
+                "de": "Probieren Sie einen schweren Rotwein, um sich aufzuwärmen.",
+                "hu": "Kóstoljon nehezebb vörösbort a test felmelegítésére.",
+                "ro": "Gustați un vin roșu corpolent pentru a vă încălzi.",
+                "en": "Try a full-bodied red wine to warm up your body."
+              }
+            },
+            {
+              "name": "St. Anne Chapel",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Weg zur Kapelle.",
+                "hu": "Vigyázzon a jegesedésre a kápolnához vezető emelkedőn.",
+                "ro": "Atenție la gheață pe drumul spre capelă.",
+                "en": "Watch out for icy patches on the way up to the chapel."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht bereits gegen 16:00 Uhr unter, planen Sie Außenstopps früh.",
+              "Warme Kleidung ist Pflicht, da der Wind von der Mátra sehr kalt sein kann.",
+              "Nutzen Sie die Mittagszeit für Museumsbesuche im Warmen.",
+              "Prüfen Sie, ob lokale Weihnachtsmärkte auf dem Fő tér stattfinden."
+            ],
+            "hu": [
+              "A nap már délután 4 körül lemegy, a szabadtéri pontokat vedd előre.",
+              "Meleg ruházat kötelező, a hegy felől fújó szél metsző lehet.",
+              "A múzeumlátogatást érdemes a leghidegebb déli órákra időzíteni.",
+              "Nézd meg, van-e karácsonyi vásár a Fő téren a látogatásodkor."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:00, planificați vizitele afară devreme.",
+              "Îmbrăcămintea groasă este obligatorie, vântul de la munte poate fi tăios.",
+              "Programați vizitele la muzee pentru orele cele mai reci ale amiezii.",
+              "Verificați dacă există târguri de Crăciun în Piața Principală."
+            ],
+            "en": [
+              "The sun sets around 4 PM, so plan outdoor stops early in the day.",
+              "Warm clothing is mandatory as the wind from the mountains can be biting.",
+              "Schedule museum visits for the coldest midday hours to stay warm.",
+              "Check if there are any local Christmas markets on the Main Square."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -502,6 +684,170 @@
           "Some routes towards the Mátra have slight inclines.",
           "Take a bottle of water, especially for the ride to the Mátra Gate."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour in Gyöngyös bei Regen erfordert gute Ausrüstung, bietet aber leere Wege. Nach dem Start am Fő tér flüchten wir ins Orczy-Schloss, um die Zeit trocken zu nutzen. Die Fahrt zur Waldbahn ist kurz und erfrischend. Den anspruchsvollen Weg zum Mátra-Tor nehmen wir vorsichtig, wobei der feuchte Wald besonders intensiv duftet. Ein Abenteuer für wetterfeste Radler, die die Natur pur erleben wollen.",
+            "hu": "Az esős bringázás Gyöngyösön jó felszerelést igényel, de cserébe üresek az utak. A Fő térről gyorsan az Orczy-kastélyba tekerünk, hogy a tárlatokat fedett helyen nézzük meg. Az erdei vasútig tartó szakasz frissítő a szemerkélő esőben. A Mátra-kapuhoz vezető utat óvatosan tegyük meg, az ázott erdő illata ilyenkor a legintenzívebb. Kalandvágyóknak való nap ez.",
+            "ro": "O tură cu bicicleta în Gyöngyös pe ploaie necesită echipament bun, dar oferă drumuri libere. După startul din piață, ne refugiem în Castelul Orczy pentru a sta la uscat. Drumul spre calea ferată forestieră este scurt și revigorant. Urcarea spre Poarta Mátra trebuie făcută cu prudență, pădurea umedă având un parfum intens. O aventură pentru bicicliști rezistenți.",
+            "en": "A bike tour in Gyöngyös in the rain requires good gear but offers empty roads. After starting at the square, we head to Orczy Castle to spend time dry. The ride to the forest railway is short and refreshing. Take the path to the Mátra Gate carefully; the damp forest smells especially intense now. An adventure for weatherproof cyclists who love nature."
+          },
+          "stops": [
+            {
+              "name": "Main Square (Fő tér)",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster, es ist sehr rutschig.",
+                "hu": "Vigyázat a nedves macskakövön, nagyon csúszik bringával.",
+                "ro": "Atenție pe piatra cubică umedă, este foarte alunecoasă.",
+                "en": "Caution on the wet cobblestones, they are very slippery."
+              }
+            },
+            {
+              "name": "Mátra Museum (Orczy Castle)",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradabstellplatz im Schlosshof vorhanden.",
+                "hu": "Biztonságos és részben fedett kerékpártároló a kastélyudvarban.",
+                "ro": "Parcare sigură pentru biciclete disponibilă în curtea castelului.",
+                "en": "Secure and partially covered bike parking in the castle courtyard."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Kurze Pause im Inneren, um die Regenkleidung zu richten.",
+                "hu": "Rövid pihenő odabent, amíg az esőruha kicsit szikkad.",
+                "ro": "Scurtă pauză în interior pentru a ajusta echipamentul de ploaie.",
+                "en": "Short break inside to adjust your rain gear."
+              }
+            },
+            {
+              "name": "Mátra Forest Railway",
+              "tip_5lang": {
+                "de": "Fahrt im überdachten Waggon genießen, während die Räder warten.",
+                "hu": "Élvezze az utazást a fedett vagonban, amíg a bringák pihennek.",
+                "ro": "Bucurați-vă de călătoria în vagonul acoperit în timp ce bicicletele stau.",
+                "en": "Enjoy the ride in a covered wagon while the bikes rest."
+              }
+            },
+            {
+              "name": "Mátra Gate",
+              "tip_5lang": {
+                "de": "Vorsicht bei Abfahrten auf nassen Waldwegen.",
+                "hu": "Vigyázzon a lejtőkön a nedves, faleveles erdei utakon.",
+                "ro": "Atenție la coborâri pe drumurile forestiere umede.",
+                "en": "Be careful on descents on wet, leaf-covered forest paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter absolut notwendig.",
+              "Tragen Sie helle, reflektierende Regenkleidung für bessere Sichtbarkeit.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt aus der Mátra.",
+              "Die Radwege können an tieferen Stellen Pfützen bilden."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben a kerékpáron.",
+              "Viselj világos, fényvisszaverő esőruhát a jobb láthatóságért.",
+              "Ellenőrizd a fékeket a Mátrából való leereszkedés előtt.",
+              "A kerékpárutak mélyebb részein tócsák alakulhatnak ki."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt absolut necesare pe această vreme.",
+              "Purtați haine de ploaie reflectorizante pentru o vizibilitate mai bună.",
+              "Verificați frânele înainte de coborârea din Mátra.",
+              "Pistele de biciclete pot avea bălți în zonele mai joase."
+            ],
+            "en": [
+              "Mudguards are absolutely necessary on the bike in this weather.",
+              "Wear bright, reflective rain gear for better visibility.",
+              "Check your brakes before descending from the Mátra hills.",
+              "Bike paths may have puddles in lower sections."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Gyöngyös ist eine sportliche Herausforderung bei klarer Luft. Der Start am Fő tér weckt die Lebensgeister, bevor das Mátra-Museum eine warme Kulturpause bietet. Die Fahrt zur Waldbahn führt durch die frostige Landschaft. Zum Mátra-Tor hinauf wird es kälter, aber die Anstrengung hält warm. Die schneebedeckten Gipfel der Mátra im Hintergrund bieten eine spektakuläre Kulisse für diese winterliche Tour.",
+            "hu": "A téli bringázás Gyöngyösön sportos kihívás a tiszta levegőben. A Fő téri rajt felébreszti az érzékeket, majd a Mátra Múzeum nyújt meleg kulturális szünetet. Az erdei vasútig tartó szakasz fagyos tájakon vezet át. A Mátra-kapuhoz felfelé hidegebb lesz, de a mozgás melegen tart. A háttérben lévő havas mátrai csúcsok látványa kárpótol minden fáradozásért.",
+            "ro": "Mersul cu bicicleta iarna în Gyöngyös este o provocare sportivă în aer curat. Startul din piață vă va trezi simțurile, iar Muzeul Mátra va oferi o pauză culturală caldă. Drumul spre calea ferată trece prin peisaje înghețate. Spre Poarta Mátra devine mai frig, dar efortul vă ține cald. Vârfurile înzăpezite ale munților Mátra oferă un decor spectaculos.",
+            "en": "Cycling in winter in Gyöngyös is a sporty challenge in the crisp air. Starting at the square awakens the senses, then the Mátra Museum provides a warm cultural break. The ride to the forest railway leads through frosty landscapes. It gets colder uphill to the Mátra Gate, but the exertion keeps you warm. The snow-capped Mátra peaks in the background offer a spectacular backdrop."
+          },
+          "stops": [
+            {
+              "name": "Main Square (Fő tér)",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrorener Nässe in den Morgenstunden.",
+                "hu": "Vigyázzon a reggeli felfagyásokra a burkolaton.",
+                "ro": "Atenție la porțiunile de gheață în orele dimineții.",
+                "en": "Watch out for black ice in the early morning hours."
+              }
+            },
+            {
+              "name": "Mátra Museum (Orczy Castle)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch, um die gefrorenen Finger aufzuwärmen.",
+                "hu": "Használja ki a látogatást az elgémberedett ujjak felmelegítésére.",
+                "ro": "Folosiți vizita pentru a vă încălzi mâinile înghețate.",
+                "en": "Use the visit to warm up your frozen fingers."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Die massiven Mauern halten die Kälte, bleiben Sie in Bewegung.",
+                "hu": "A vastag falak tartják a hideget, ne álldogáljon sokáig.",
+                "ro": "Zidurile masive rețin frigul, rămâneți în mișcare.",
+                "en": "The massive walls retain the cold; don't stay still for too long."
+              }
+            },
+            {
+              "name": "Mátra Forest Railway",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan, die Züge fahren seltener.",
+                "hu": "Ellenőrizze a téli menetrendet, ritkábban járnak a vonatok.",
+                "ro": "Verificați mersul trenurilor de iarnă, circulă mai rar.",
+                "en": "Check the winter timetable; trains run less frequently."
+              }
+            },
+            {
+              "name": "Mátra Gate",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schnee und Eis auf der Fahrbahn.",
+                "hu": "Vigyázzon a havas és jeges útszakaszokra az erdőben.",
+                "ro": "Atenție la zăpadă și gheață pe carosabil în pădure.",
+                "en": "Watch out for snow and icy patches on the forest road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schichten (Zwiebelprinzip) und winddichte Kleidung.",
+              "Winterhandschuhe und eine Mütze unter dem Helm sind essenziell.",
+              "Die Akkus von E-Bikes entladen sich bei Kälte deutlich schneller.",
+              "Planen Sie die Tour so, dass Sie vor Einbruch der Dunkelheit zurück sind."
+            ],
+            "hu": [
+              "Öltözz rétegesen és viselj szélálló ruházatot.",
+              "A téli kesztyű és a sisak alatti sapka elengedhetetlen.",
+              "Az e-bike akkumulátorok hidegben sokkal gyorsabban merülnek.",
+              "Úgy tervezd a túrát, hogy sötétedés előtt visszaérj a városba."
+            ],
+            "ro": [
+              "Purtați haine în straturi și echipament rezistent la vânt.",
+              "Mănușile de iarnă și o căciulă sub cască sunt esențiale.",
+              "Bateriile bicicletelor electrice se descarcă mult mai repede la frig.",
+              "Planificați tura astfel încât să vă întoarceți înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "Wear multiple layers and windproof outer clothing.",
+              "Winter gloves and a thermal cap under your helmet are essential.",
+              "E-bike batteries drain significantly faster in cold temperatures.",
+              "Plan your tour to be back in the city before it gets dark."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -762,6 +1108,188 @@
           "Check the opening hours of the Adrenalin Park in advance.",
           "Allow enough time for the mountain roads."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen ist kein Hindernis für diese Autotour durch die Mátra-Region. Wir parken bequem im Zentrum und besuchen die Schatzkammer der St.-Bartholomäus-Kirche. Danach bietet das Mátra-Museum stundenlanges, trockenes Vergnügen. Die Fahrt zum Oxygen Adrenalin Park führt uns in höhere Lagen, wo die Nebelschwaden dem Berg eine mystische Aura verleihen. Der Tag endet perfekt bei einer Weinprobe in einem gemütlichen Weingut, geschützt vor dem Wetter.",
+            "hu": "Az eső nem akadály ebben az autós túrában a Mátra vidékén. Kényelmesen parkolunk a központban, és megnézzük a Szent Bertalan-templom kincstárát. Ezután a Mátra Múzeum nyújt órákig tartó fedett szórakozást. Az Oxygen Adrenalin Park felé autózva a ködfoltok misztikus aurát kölcsönöznek a hegynek. A nap egy hangulatos borászatban ér véget, védve az időjárás viszontagságaitól.",
+            "ro": "Ploaia nu este un obstacol pentru acest tur cu mașina prin regiunea Mátra. Parcăm confortabil în centru și vizităm tezaurul Bisericii Sf. Bartolomeu. Apoi, Muzeul Mátra oferă ore întregi de divertisment la uscat. Drumul spre Oxygen Adrenalin Park ne duce în zone mai înalte, unde ceața conferă muntelui o aură mistică. Ziua se termină perfect la o cramă primitoare, protejați de vreme.",
+            "en": "Rain is no obstacle for this car tour through the Mátra region. We park conveniently in the center and visit the treasury of St. Bartholomew's Church. Afterwards, the Mátra Museum offers hours of dry entertainment. Driving to Oxygen Adrenalin Park takes us to higher elevations, where fog banks give the mountain a mystical aura. The day ends perfectly at a cozy winery, sheltered from the weather."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking & Main Square",
+              "tip_5lang": {
+                "de": "Parkhaus nutzen, um beim Aussteigen trocken zu bleiben.",
+                "hu": "Használja a fedett parkolót, hogy kiszálláskor ne ázzon meg.",
+                "ro": "Folosiți parcarea acoperită pentru a rămâne uscat la coborâre.",
+                "en": "Use covered parking to stay dry when getting out of the car."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Weg vom Parkplatz zum Kircheneingang.",
+                "hu": "Csak pár lépés a parkolótól a templom bejárata.",
+                "ro": "Doar câțiva pași de la parcare până la intrarea în biserică.",
+                "en": "Just a short walk from the parking lot to the church entrance."
+              }
+            },
+            {
+              "name": "Mátra Museum (Orczy Castle)",
+              "tip_5lang": {
+                "de": "Direkte Zufahrt zum Schloss möglich, ideal bei starkem Regen.",
+                "hu": "Közvetlen behajtás a kastélyhoz, ideális szakadó esőben.",
+                "ro": "Acces direct la castel, ideal în caz de ploaie torențială.",
+                "en": "Direct access to the castle is possible, ideal in heavy rain."
+              }
+            },
+            {
+              "name": "Oxygen Adrenalin Park",
+              "tip_5lang": {
+                "de": "Einige Attraktionen sind überdacht, prüfen Sie die Sichtweite.",
+                "hu": "Néhány attrakció fedett, ellenőrizze a látási viszonyokat.",
+                "ro": "Unele atracții sunt acoperite, verificați vizibilitatea.",
+                "en": "Some attractions are covered; check visibility for the chairlift."
+              }
+            },
+            {
+              "name": "Mátra Forest Railway",
+              "tip_5lang": {
+                "de": "Fahrt im geschlossenen Waggon bietet tollen Ausblick auf den Regenwald.",
+                "hu": "A zárt vagonból remek kilátás nyílik az eső áztatta erdőre.",
+                "ro": "Vagonul închis oferă o priveliște minunată spre pădurea udă.",
+                "en": "The closed wagon offers a great view of the rain-soaked forest."
+              }
+            },
+            {
+              "name": "Winery in the Mátra region",
+              "tip_5lang": {
+                "de": "Sicherer Parkplatz am Weingut vorhanden, Wein direkt einladen.",
+                "hu": "Biztonságos parkoló a borászatnál, a borokat rögtön bepakolhatja.",
+                "ro": "Parcare sigură la cramă, puteți încărca vinul direct în mașină.",
+                "en": "Safe parking at the winery; you can load your wine directly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den steilen Straßen der Mátra.",
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Fahrt.",
+              "Nebelscheinwerfer können in den höheren Lagen der Mátra nötig sein.",
+              "Die Parkplätze im Zentrum sind bei Regen oft schneller belegt."
+            ],
+            "hu": [
+              "Vigyázz a felúszásra (aquaplaning) a Mátra meredek útjain.",
+              "Ellenőrizd az ablaktörlők állapotát az indulás előtt.",
+              "A ködlámpákra szükség lehet a Mátra magasabb részein.",
+              "A központi parkolók esőben hamarabb megtelhetnek."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile abrupte din Mátra.",
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "Farurile de ceață pot fi necesare în zonele înalte din Mátra.",
+              "Parcările din centru se ocupă mai repede când plouă."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the steep roads of the Mátra.",
+              "Check the condition of your windshield wipers before starting.",
+              "Fog lights may be necessary in the higher parts of the Mátra.",
+              "Center parking lots often fill up faster when it rains."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Fahrt durch die Mátra ist ein Erlebnis in Weiß. Wir starten im Zentrum von Gyöngyös und bewundern die frostige Architektur. Das Mátra-Museum ist der perfekte Ort, um sich zwischendurch aufzuwärmen. Die Fahrt hinauf zum Oxygen Adrenalin Park erfordert gute Winterreifen, bietet aber einen fantastischen Blick auf das verschneite Gebirge. Der Tag findet seinen gemütlichen Ausklang in einem Weingut, wo der Kamin brennt und der Wein besonders gut schmeckt.",
+            "hu": "A téli autózás a Mátrában igazi havas élmény. Gyöngyös központjából indulunk, megcsodálva a zúzmarás épületeket. A Mátra Múzeum tökéletes hely a közbeni felmelegedésre. Az Oxygen Adrenalin Parkhoz való feljutás jó téli gumit igényel, de a havas hegy látványa fantasztikus. A nap egy borászatban ér véget, ahol durog a kandalló, és a bor is jobban esik a hideg után.",
+            "ro": "O călătorie de iarnă prin Mátra este o experiență în alb. Pornim din centrul orașului Gyöngyös și admirăm arhitectura înghețată. Muzeul Mátra este locul perfect pentru a vă încălzi între opriri. Urcarea spre Oxygen Adrenalin Park necesită anvelope de iarnă bune, dar oferă o vedere fantastică spre munții înzăpeziți. Ziua se încheie confortabil la o cramă, unde șemineul arde și vinul are un gust special.",
+            "en": "A winter drive through the Mátra is a snowy experience. We start in the center of Gyöngyös, admiring the frost-covered architecture. The Mátra Museum is the perfect place to warm up between stops. Driving up to Oxygen Adrenalin Park requires good winter tires but offers a fantastic view of the snow-capped mountains. The day ends cozily at a winery, where the fireplace is lit and the wine tastes especially good."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking & Main Square",
+              "tip_5lang": {
+                "de": "Parkplätze werden im Winter geräumt, Vorsicht beim Aussteigen.",
+                "hu": "A parkolókat takarítják, de vigyázzon a jégre kiszálláskor.",
+                "ro": "Parcările sunt curățate, dar atenție la gheață la coborâre.",
+                "en": "Parking lots are cleared, but watch out for ice when getting out."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Besichtigung der Krippe ist ein winterliches Highlight.",
+                "hu": "A templomi betlehem megtekintése téli különlegesség.",
+                "ro": "Vizitarea nașterii Domnului (betleemul) este un punct de atracție.",
+                "en": "Viewing the nativity scene is a winter highlight."
+              }
+            },
+            {
+              "name": "Mátra Museum (Orczy Castle)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den verschneiten Schlosspark.",
+                "hu": "Élvezze a kilátást a kastély havas parkjára az ablakból.",
+                "ro": "Bucurați-vă de vederea spre parcul înzăpeziț al castelului.",
+                "en": "Enjoy the view of the snow-covered castle park from inside."
+              }
+            },
+            {
+              "name": "Oxygen Adrenalin Park",
+              "tip_5lang": {
+                "de": "Winterrodeln ist oft möglich, warm anziehen!",
+                "hu": "A téli bobozás gyakran elérhető, öltözzön nagyon melegen!",
+                "ro": "Săniușul de iarnă este adesea posibil, îmbrăcați-vă gros!",
+                "en": "Winter bobsleighing is often available; dress very warmly!"
+              }
+            },
+            {
+              "name": "Mátra Forest Railway",
+              "tip_5lang": {
+                "de": "Dampfzüge im Schnee sind ein besonders fotogenes Motiv.",
+                "hu": "A havas tájban pöfögő gőzös különleges fotótéma.",
+                "ro": "Trenurile cu aburi în zăpadă sunt un subiect fotografic deosebit.",
+                "en": "Steam trains in the snow are a particularly photogenic subject."
+              }
+            },
+            {
+              "name": "Winery in the Mátra region",
+              "tip_5lang": {
+                "de": "Fragen Sie nach Glühwein oder einer Kellerführung im Warmen.",
+                "hu": "Kérdezzen rá a forralt borra vagy egy meleg borkóstolóra.",
+                "ro": "Întrebați de vin fiert sau de un tur al cramei la căldură.",
+                "en": "Ask about mulled wine or a warm cellar tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und ggf. Schneeketten sind für die Mátra-Straßen Pflicht.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Planen Sie mehr Zeit für die Fahrten ein, die Straßen können glatt sein.",
+              "Achten Sie auf Wildwechsel, besonders in der Dämmerung."
+            ],
+            "hu": [
+              "A téli gumi és hólánc kötelező felszerelés a mátrai utakon.",
+              "Tölts fagyállót a szélvédőmosóba az indulás előtt.",
+              "Tervezz több időt az utazásra, az utak csúszósak lehetnek.",
+              "Vigyázz a vadakra, különösen szürkületben a hegyi utakon."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și eventual lanțurile sunt obligatorii pe drumurile din Mátra.",
+              "Puneți antigel în rezervorul pentru spălarea parbrizului.",
+              "Planificați mai mult timp pentru deplasări, drumurile pot fi alunecoase.",
+              "Atenție la animalele sălbatice, în special la amurg."
+            ],
+            "en": [
+              "Winter tires and possibly snow chains are mandatory for Mátra roads.",
+              "Fill up with anti-freeze windshield washer fluid before you go.",
+              "Plan extra time for travel as roads can be slippery.",
+              "Watch out for wildlife, especially at dusk on mountain roads."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -998,6 +1526,170 @@
           "Buy a day pass for the bus if you plan multiple trips.",
           "Buses to the Mátra run regularly, but check the schedule for your return trip."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus durch Gyöngyös zu reisen, ist bei Regen die bequemste Wahl. Vom Fő tér gelangen wir schnell zur Franziskanerkirche und zum Mátra-Museum, wo wir im Trockenen verweilen können. Die Fahrt nach Mátrafüred bietet einen entspannten Blick auf die verregnete Landschaft aus dem warmen Bus. Den Tag beschließen wir in der St.-Bartholomäus-Kirche, einem imposanten Rückzugsort vor dem nassen Wetter.",
+            "hu": "Busszal közlekedni Gyöngyösön a legkényelmesebb választás esőben. A Fő térről gyorsan elérjük a ferences templomot és a Mátra Múzeumot, ahol fedett helyen maradhatunk. A Mátrafüredre tartó buszút pihentető kilátást nyújt az eső áztatta tájra a meleg utastérből. A napot a Szent Bertalan-templomban zárjuk, amely impozáns menedék a nedves idő elől.",
+            "ro": "Călătoria cu autobuzul prin Gyöngyös este cea mai confortabilă alegere pe ploaie. Din piață ajungem rapid la biserica franciscană și la Muzeul Mátra, unde putem sta la uscat. Drumul spre Mátrafüred oferă o vedere relaxantă spre peisajul ploios din autobuzul cald. Încheiem ziua la Biserica Sf. Bartolomeu, un refugiu impunător în fața vremii umede.",
+            "en": "Traveling by bus through Gyöngyös is the most comfortable choice in the rain. From the square, we quickly reach the Franciscan Church and Mátra Museum, where we can stay dry. The bus ride to Mátrafüred offers a relaxed view of the rainy landscape from the warm interior. We conclude the day at St. Bartholomew's Church, an imposing retreat from the wet weather."
+          },
+          "stops": [
+            {
+              "name": "Main Square (Fő tér)",
+              "tip_5lang": {
+                "de": "Zentraler Busknotenpunkt, viele Linien halten direkt hier.",
+                "hu": "Központi buszcsomópont, sok járat közvetlenül itt áll meg.",
+                "ro": "Nod central de autobuze, multe linii opresc direct aici.",
+                "en": "Central bus hub, many lines stop directly here."
+              }
+            },
+            {
+              "name": "Franciscan Church",
+              "tip_5lang": {
+                "de": "Bushaltestelle ist nur wenige Schritte entfernt.",
+                "hu": "A buszmegálló mindössze néhány lépésre található.",
+                "ro": "Stația de autobuz este la doar câțiva pași distanță.",
+                "en": "The bus stop is just a few steps away from the church."
+              }
+            },
+            {
+              "name": "Mátra Museum (Orczy Castle)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um den Weg vom Zentrum trocken zu überbrücken.",
+                "hu": "Használja a buszt, hogy szárazon tegye meg az utat a központból.",
+                "ro": "Folosiți autobuzul pentru a parcurge drumul din centru la uscat.",
+                "en": "Use the bus to cover the distance from the center while staying dry."
+              }
+            },
+            {
+              "name": "Mátrafüred (reachable by bus)",
+              "tip_5lang": {
+                "de": "Die Busse in die Mátra verkehren regelmäßig vom Busbahnhof.",
+                "hu": "A Mátrába tartó buszok rendszeresen indulnak az állomásról.",
+                "ro": "Autobuzele spre Mátra circulă regulat de la autogară.",
+                "en": "Buses to Mátra run regularly from the bus station."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Zeit bis zur nächsten Abfahrt zu nutzen.",
+                "hu": "Ideális helyszín a következő buszindulásig tartó idő kitöltésére.",
+                "ro": "Locul ideal pentru a petrece timpul până la următoarea plecare.",
+                "en": "Ideal place to spend time until the next bus departure."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten vorab am Schalter oder per App.",
+              "Die Busbahnhöfe bieten meist überdachte Wartebereiche.",
+              "Prüfen Sie die Abfahrtszeiten online, um Wartezeiten im Regen zu minimieren.",
+              "Halten Sie Kleingeld für den Fahrkartenkauf beim Fahrer bereit."
+            ],
+            "hu": [
+              "Vásároljon jegyet előre a pénztárnál vagy mobilalkalmazásban.",
+              "Az autóbusz-állomások általában fedett váróteremmel rendelkeznek.",
+              "Ellenőrizze a menetrendet online, hogy keveset kelljen az esőben várni.",
+              "Készítsen elő aprópénzt, ha a buszvezetőnél váltana jegyet."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans de la ghișeu sau prin aplicație.",
+              "Autogările oferă de obicei zone de așteptare acoperite.",
+              "Verificați orele de plecare online pentru a minimiza așteptarea în ploaie.",
+              "Pregătiți mărunțiș pentru achiziționarea biletului de la șofer."
+            ],
+            "en": [
+              "Buy tickets in advance at the counter or via mobile app.",
+              "Bus stations usually provide covered waiting areas.",
+              "Check departure times online to minimize waiting in the rain.",
+              "Have small change ready if buying a ticket from the driver."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der öffentliche Nahverkehr ist im Winter ein sicherer Weg durch die Mátra. Wir starten am Fő tér und nutzen die kurzen Buswege zwischen den Sehenswürdigkeiten, um die Kälte zu meiden. Die Fahrt hinauf nach Mátrafüred zeigt uns die winterliche Pracht des Gebirges ohne Fahrstress. In der St.-Bartholomäus-Kirche können wir uns aufwärmen, bevor wir den Tag in der festlich beleuchteten Stadt ausklingen lassen.",
+            "hu": "A közösségi közlekedés télen a legbiztosabb módja a Mátra bejárásának. A Fő térről indulunk, és a látnivalók közötti rövid buszutakat használjuk a hideg elkerülésére. A Mátrafüredre tartó út megmutatja a hegység téli pompáját, vezetés közbeni stressz nélkül. A Szent Bertalan-templomban felmelegedhetünk, mielőtt a napot a díszkivilágításban úszó városban zárnánk.",
+            "ro": "Transportul public este iarna cea mai sigură cale de a vizita Mátra. Pornim din piață și folosim traseele scurte de autobuz între obiective pentru a evita frigul. Drumul spre Mátrafüred ne arată splendoarea de iarnă a munților fără stresul condusului. În Biserica Sf. Bartolomeu ne putem încălzi înainte de a încheia ziua în orașul luminat festiv.",
+            "en": "Public transit is the safest way to explore the Mátra in winter. We start at the square and use short bus rides between sights to avoid the cold. The trip up to Mátrafüred shows us the mountain's winter splendor without the stress of driving. At St. Bartholomew's Church, we can warm up before ending the day in the festively lit city."
+          },
+          "stops": [
+            {
+              "name": "Main Square (Fő tér)",
+              "tip_5lang": {
+                "de": "Warten Sie in den Cafés am Platz, bis der Bus kommt.",
+                "hu": "Várjon a tér kávézóiban, amíg megérkezik a busza.",
+                "ro": "Așteptați în cafenelele din piață până vine autobuzul.",
+                "en": "Wait in the cafes around the square until your bus arrives."
+              }
+            },
+            {
+              "name": "Franciscan Church",
+              "tip_5lang": {
+                "de": "Gute Anbindung an lokale Stadtbuslinien.",
+                "hu": "Jó összeköttetés a helyi városi autóbuszjáratokkal.",
+                "ro": "Conexiune bună cu liniile locale de autobuz urban.",
+                "en": "Good connections to local city bus lines."
+              }
+            },
+            {
+              "name": "Mátra Museum (Orczy Castle)",
+              "tip_5lang": {
+                "de": "Der Schlossgarten ist im Winter besonders malerisch.",
+                "hu": "A kastélykert télen, zúzmarásan különlegesen festői.",
+                "ro": "Grădina castelului este deosebit de pitorească iarna.",
+                "en": "The castle garden is especially picturesque in winter."
+              }
+            },
+            {
+              "name": "Mátrafüred (reachable by bus)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verschneite Mátra während der Fahrt.",
+                "hu": "Élvezze a havas Mátra látványát az utazás közben.",
+                "ro": "Bucurați-vă de vederea spre Mátra înzăpezită în timpul călătoriei.",
+                "en": "Enjoy the view of the snow-covered Mátra during the ride."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Letzter Stopp, bevor es zurück zum beheizten Bahnhof geht.",
+                "hu": "Utolsó állomás, mielőtt visszatérne a fűtött állomásra.",
+                "ro": "Ultima oprire înainte de a reveni la gara încălzită.",
+                "en": "Last stop before heading back to the heated station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind gut beheizt und bieten Komfort bei Kälte.",
+              "Im Winter kann es aufgrund von Schnee zu leichten Verspätungen kommen.",
+              "Achten Sie auf die früheren letzten Abfahrten in die Vororte.",
+              "Nutzen Sie den Busbahnhof im Zentrum als warmen Warteort."
+            ],
+            "hu": [
+              "A buszok jól fűtöttek, komfortosak a nagy hidegben is.",
+              "Télen a hó miatt előfordulhatnak kisebb késések a menetrendben.",
+              "Figyelj a korábbi utolsó járatokra a külvárosok felé.",
+              "Használd a központi autóbusz-állomás várótermét a melegedésre."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite și oferă confort la temperaturi scăzute.",
+              "Iarna pot apărea mici întârzieri din cauza zăpezii.",
+              "Fiți atenți la ultimele curse care pleacă mai devreme spre suburbii.",
+              "Folosiți autogara centrală ca loc de așteptare cald."
+            ],
+            "en": [
+              "Buses are well-heated and provide comfort in the cold.",
+              "Minor delays may occur in winter due to snow conditions.",
+              "Watch out for earlier final departures to the outskirts.",
+              "Use the central bus station's waiting room to stay warm."
+            ]
+          }
+        }
       }
     }
   }

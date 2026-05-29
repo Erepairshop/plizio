@@ -318,6 +318,206 @@
           "Check museum opening hours in advance.",
           "A walk to the Old Mine is a great way to see more of the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Begin your rainy day under an umbrella at the Market Square, admiring the historic facades before sheltering in the Neo-Gothic Town Hall.\n\nEscape the midday showers at the extensive Porcelain Museum, followed by a cozy, warm lunch in a nearby traditional restaurant.\n\nSpend a dry afternoon exploring the vast indoor exhibitions of the Old Mine Center, discovering the region's industrial past.\n\nEnd the day with a quiet moment in the Guardian Angels Church and a brief, misty walk through Rusinowa Park.",
+            "de": "Beginnen Sie Ihren Regentag unter einem Regenschirm am Marktplatz und bewundern Sie die historischen Fassaden, bevor Sie im neugotischen Rathaus Schutz suchen.\n\nEntfliehen Sie den Mittagsschauern im weitläufigen Porzellanmuseum, gefolgt von einem gemütlichen, warmen Mittagessen in einem nahegelegenen traditionellen Restaurant.\n\nVerbringen Sie einen trockenen Nachmittag mit den riesigen Innenausstellungen des Alten Bergwerks.\n\nBeenden Sie den Tag in der Schutzengelkirche und mit einem kurzen, nebligen Spaziergang durch den Rusinowa-Park.",
+            "hu": "Kezdődjön az esős nap egy esernyő alatt a Piactéren, megcsodálva a történelmi homlokzatokat, mielőtt a neogótikus Városházán keresnél menedéket.\n\nA déli záporok elől menekülj a tágas Porcelánmúzeumba, majd fogyassz el egy meleg ebédet egy hagyományos étteremben.\n\nTölts el egy száraz délutánt az Öreg Bánya hatalmas beltéri kiállításain.\n\nA napot a Őrangyalok templomának csendjében és a Rusinowa park ködös sétányain zárd.",
+            "ro": "Începeți ziua ploioasă sub o umbrelă în Piața Centrală, admirând fațadele istorice, înainte de a vă adăposti în Primăria neogotică.\n\nScăpați de aversele de la prânz în vastul Muzeu al Porțelanului, urmat de un prânz cald într-un restaurant tradițional.\n\nPetreceți o după-amiază uscată explorând marile expoziții interioare ale Vechii Mine.\n\nÎncheiați ziua cu un moment de liniște în Biserica Sfinților Îngeri Păzitori și o scurtă plimbare prin Parcul Rusinowa cețos."
+          },
+          "stops": [
+            {
+              "name": "Market Square (Rynek)",
+              "tip_5lang": {
+                "en": "Use an umbrella; cobblestones are slippery.",
+                "de": "Regenschirm nutzen; Kopfsteinpflaster ist rutschig.",
+                "hu": "Használj esernyőt; a macskakövek csúsznak.",
+                "ro": "Folosiți o umbrelă; piatra cubică alunecă."
+              }
+            },
+            {
+              "name": "Neo-Gothic Town Hall",
+              "tip_5lang": {
+                "en": "Admire from under the nearby arcades.",
+                "de": "Von den nahegelegenen Arkaden aus bewundern.",
+                "hu": "Csodáld meg a közeli árkádok alól.",
+                "ro": "Admirați de sub arcadele din apropiere."
+              }
+            },
+            {
+              "name": "Porcelain Museum",
+              "tip_5lang": {
+                "en": "Great indoor escape; leave wet coats at the cloakroom.",
+                "de": "Guter Regenschutz; nasse Mäntel an der Garderobe lassen.",
+                "hu": "Kiváló beltéri menedék; hagyd a kabátod a ruhatárban.",
+                "ro": "Refugiu interior excelent; lăsați hainele ude la garderobă."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "en": "Try hot Zurek soup to warm up.",
+                "de": "Probieren Sie heiße Zurek-Suppe zum Aufwärmen.",
+                "hu": "Kóstold meg a forró Zurek levest, hogy felmelegedj.",
+                "ro": "Încercați supa caldă Zurek pentru a vă încălzi."
+              }
+            },
+            {
+              "name": "Old Mine Center",
+              "tip_5lang": {
+                "en": "Mostly covered, but wear waterproof shoes.",
+                "de": "Meist überdacht, aber wasserdichte Schuhe tragen.",
+                "hu": "Nagyrészt fedett, de viselj vízálló cipőt.",
+                "ro": "În mare parte acoperit, purtați încălțăminte impermeabilă."
+              }
+            },
+            {
+              "name": "Guardian Angels Church",
+              "tip_5lang": {
+                "en": "A quiet, dry spot to take a quick break.",
+                "de": "Ein ruhiger, trockener Ort für eine Pause.",
+                "hu": "Csendes, száraz hely egy rövid pihenőre.",
+                "ro": "Un loc liniștit și uscat pentru o pauză scurtă."
+              }
+            },
+            {
+              "name": "Rusinowa Park",
+              "tip_5lang": {
+                "en": "Paths get muddy; stay on paved sections.",
+                "de": "Wege werden schlammig; auf gepflasterten Wegen bleiben.",
+                "hu": "Az ösvények sarasak lehetnek; maradj a burkolt részeken.",
+                "ro": "Cărările devin noroioase; rămâneți pe zonele pavate."
+              }
+            }
+          ],
+          "tips": {
+            "en": [
+              "Bring a sturdy umbrella for the wind.",
+              "Cobblestones in the center get slippery when wet.",
+              "The Old Mine has large indoor sections to stay dry.",
+              "Enjoy a hot local soup for lunch to warm up."
+            ],
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit.",
+              "Das Kopfsteinpflaster im Zentrum wird bei Nässe rutschig.",
+              "Das Alte Bergwerk bietet viele überdachte Bereiche.",
+              "Wärmen Sie sich mittags mit einer lokalen Suppe auf."
+            ],
+            "hu": [
+              "Vigyázz, erős szél is kísérheti az esőt, vigyél masszív esernyőt.",
+              "A macskaköves központ nedvesen csúszós lehet.",
+              "Az Öreg Bánya sok fedett résszel rendelkezik.",
+              "Melegedj fel egy forró helyi levessel ebédre."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă pentru vânt.",
+              "Piatra cubică din centru devine alunecoasă când este udă.",
+              "Vechea Mină are multe zone acoperite.",
+              "Încălziți-vă cu o supă locală fierbinte la prânz."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Bundle up for a crisp winter morning at the snowy Market Square and the striking Neo-Gothic Town Hall.\n\nWarm your hands at the Porcelain Museum, diving into local history, before enjoying a hearty, traditional Polish lunch to refuel.\n\nThe Old Mine Center is perfectly atmospheric on a winter afternoon, though be prepared for chilly drafts in the underground sections.\n\nAs the early evening sets in, admire the illuminated Guardian Angels Church and the peaceful, frost-covered trees of Rusinowa Park.",
+            "de": "Packen Sie sich warm ein für einen frostigen Wintermorgen am verschneiten Marktplatz und dem markanten neugotischen Rathaus.\n\nWärmen Sie Ihre Hände im Porzellanmuseum auf, bevor Sie ein herzhaftes, traditionelles polnisches Mittagessen genießen.\n\nDas Alte Bergwerk ist an einem Winternachmittag besonders stimmungsvoll, achten Sie jedoch auf kühle Zugluft in den Tunneln.\n\nBewundern Sie am frühen Abend die beleuchtete Schutzengelkirche und die friedlichen, frostigen Bäume des Rusinowa-Parks.",
+            "hu": "Öltözz melegen egy csípős téli reggelhez a havas Piactéren és a lenyűgöző neogótikus Városházánál.\n\nMelegítsd fel a kezeid a Porcelánmúzeumban, majd élvezz egy kiadós, hagyományos lengyel ebédet.\n\nAz Öreg Bánya téli délutánokon különösen hangulatos, bár a földalatti részeken hűvös huzatra kell számítani.\n\nKora este csodáld meg a kivilágított Őrangyalok templomát és a Rusinowa park békés, zúzmarás fáit.",
+            "ro": "Îmbrăcați-vă gros pentru o dimineață geroasă în Piața Centrală înzăpezită și impresionanta Primărie neogotică.\n\nÎncălziți-vă mâinile la Muzeul Porțelanului, apoi savurați un prânz polonez tradițional, foarte consistent.\n\nVechea Mină are o atmosferă deosebită într-o după-amiază de iarnă, deși secțiunile subterane pot fi reci.\n\nSeara devreme, admirați Biserica Sfinților Îngeri Păzitori iluminată și copacii înghețați din Parcul Rusinowa."
+          },
+          "stops": [
+            {
+              "name": "Market Square (Rynek)",
+              "tip_5lang": {
+                "en": "Beautiful in snow; dress in warm layers.",
+                "de": "Wunderschön im Schnee; warm anziehen.",
+                "hu": "Gyönyörű a hóban; öltözz rétegesen.",
+                "ro": "Frumos în zăpadă; îmbrăcați-vă gros."
+              }
+            },
+            {
+              "name": "Neo-Gothic Town Hall",
+              "tip_5lang": {
+                "en": "Watch out for icy patches near the entrance.",
+                "de": "Achten Sie auf vereiste Stellen am Eingang.",
+                "hu": "Vigyázz a jeges foltokra a bejáratnál.",
+                "ro": "Atenție la porțiunile de gheață de la intrare."
+              }
+            },
+            {
+              "name": "Porcelain Museum",
+              "tip_5lang": {
+                "en": "Perfect heated spot to defrost your hands.",
+                "de": "Perfekter beheizter Ort zum Aufwärmen.",
+                "hu": "Tökéletes, fűtött hely a kezeid felmelegítésére.",
+                "ro": "Loc încălzit perfect pentru a vă dezgheța mâinile."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "en": "Enjoy a hearty pierogi dish for winter energy.",
+                "de": "Genießen Sie herzhafte Piroggen für Winterenergie.",
+                "hu": "Egyél kiadós pierogit, ami energiát ad télen.",
+                "ro": "Savurați colțunași pierogi pentru energie."
+              }
+            },
+            {
+              "name": "Old Mine Center",
+              "tip_5lang": {
+                "en": "Underground tunnels can be drafty and cold.",
+                "de": "Unterirdische Tunnel können zugig und kalt sein.",
+                "hu": "A földalatti alagutak huzatosak és hidegek lehetnek.",
+                "ro": "Tunelurile subterane pot fi reci și cu curenți."
+              }
+            },
+            {
+              "name": "Guardian Angels Church",
+              "tip_5lang": {
+                "en": "Stunningly lit during the early winter evenings.",
+                "de": "An frühen Winterabenden wunderschön beleuchtet.",
+                "hu": "Kora téli estéken gyönyörűen ki van világítva.",
+                "ro": "Superb iluminată în serile de iarnă."
+              }
+            },
+            {
+              "name": "Rusinowa Park",
+              "tip_5lang": {
+                "en": "Paths are slippery; wear boots with good grip.",
+                "de": "Wege sind rutschig; Schuhe mit gutem Profil tragen.",
+                "hu": "Az ösvények csúszósak; viselj jó tapadású csizmát.",
+                "ro": "Cărările sunt alunecoase; purtați cizme cu aderență."
+              }
+            }
+          ],
+          "tips": {
+            "en": [
+              "Dress in warm layers as temperatures often drop below freezing.",
+              "Sunset is around 16:00, so start your walking tour early.",
+              "Paths in Rusinowa Park can be very icy.",
+              "Take frequent breaks in warm cafes around the Rynek."
+            ],
+            "de": [
+              "Tragen Sie warme Kleidung, da die Temperaturen oft unter den Gefrierpunkt fallen.",
+              "Sonnenuntergang ist gegen 16:00 Uhr, fangen Sie früh an.",
+              "Die Wege im Rusinowa-Park können sehr eisig sein.",
+              "Wärmen Sie sich regelmäßig in den Cafés am Rynek auf."
+            ],
+            "hu": [
+              "Öltözz rétegesen, mert a hőmérséklet gyakran fagypont alá esik.",
+              "A naplemente 16:00 körül van, indulj el minél korábban.",
+              "A Rusinowa park ösvényei nagyon jegesek lehetnek.",
+              "Melegedj fel gyakran a Rynek környéki kávézókban."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, temperaturile scad des sub zero.",
+              "Apusul este în jur de 16:00, începeți turul devreme.",
+              "Cărările din Parcul Rusinowa pot fi foarte înghețate.",
+              "Faceți pauze frecvente în cafenelele din jurul Pieței."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -666,6 +866,224 @@
           "Allow enough time for driving between the clusters.",
           "The roads can be narrow and winding, especially towards Chełmiec."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Start your driving tour at Książ Castle, where you can explore its magnificent interiors away from the rain, followed by the tropical warmth of the Palm House.\n\nDrive to the city center, parking safely to dash into a local restaurant for a warm and comforting midday meal.\n\nSpend your afternoon traversing the vast, mostly covered spaces of the Old Mine Center, staying dry while uncovering history.\n\nDrive up to Chełmiec and the Monumental Cross, braving the mist, and finish with a relaxing dinner at the indoor Aqua Zdrój complex.",
+            "de": "Beginnen Sie Ihre Fahrt am Schloss Książ, wo Sie die prächtigen Innenräume regengeschützt erkunden können, gefolgt von der tropischen Wärme des Palmenhauses.\n\nFahren Sie ins Stadtzentrum und parken Sie sicher, um in ein lokales Restaurant für ein warmes Mittagessen zu huschen.\n\nVerbringen Sie den Nachmittag in den weitgehend überdachten Räumen des Alten Bergwerks.\n\nFahren Sie bei Nebel zum Chełmiec und dem monumentalen Kreuz und beenden Sie den Tag mit einem entspannten Abendessen im Aqua Zdrój.",
+            "hu": "Kezdd az autós túrát a Książ kastélynál, ahol az eső elől védve fedezheted fel a belső tereket, majd élvezd a Pálmaház trópusi melegét.\n\nVezess a belvárosba, parkolj le, és ugorj be egy helyi étterembe egy melegítő ebédre.\n\nA délutánt az Öreg Bánya nagyrészt fedett részein töltheted, szárazon maradva.\n\nVezess fel a Chełmiec-hez és a Monumentális kereszthez a ködben, majd zárd a napot egy vacsorával az Aqua Zdrój komplexumban.",
+            "ro": "Începeți turul cu mașina la Castelul Książ, unde puteți explora interioarele sale feriți de ploaie, urmat de căldura tropicală din Casa Palmierilor.\n\nConduceți în centrul orașului și parcați pentru un prânz cald într-un restaurant local.\n\nPetreceți după-amiaza în spațiile acoperite ale Vechii Mine, rămânând uscat.\n\nConduceți spre Chełmiec și Crucea Monumentală prin ceață, și încheiați cu o cină relaxantă la complexul interior Aqua Zdrój."
+          },
+          "stops": [
+            {
+              "name": "Książ Castle",
+              "tip_5lang": {
+                "en": "Focus on the grand indoor state rooms.",
+                "de": "Konzentrieren Sie sich auf die großen Innenräume.",
+                "hu": "Fókuszálj a hatalmas beltéri termekre.",
+                "ro": "Concentrați-vă pe marile săli interioare."
+              }
+            },
+            {
+              "name": "Palm House (Palmiarnia)",
+              "tip_5lang": {
+                "en": "Humid and warm; a perfect rainy day escape.",
+                "de": "Feuchtwarm; eine perfekte Flucht an Regentagen.",
+                "hu": "Párás és meleg; tökéletes menedék esős napokon.",
+                "ro": "Umed și cald; o evadare perfectă pe timp de ploaie."
+              }
+            },
+            {
+              "name": "Market Square (Rynek)",
+              "tip_5lang": {
+                "en": "Park nearby and use an umbrella for this brief stop.",
+                "de": "In der Nähe parken und Regenschirm für den Stopp nutzen.",
+                "hu": "Parkolj a közelben, és használj esernyőt.",
+                "ro": "Parcați aproape și folosiți o umbrelă aici."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "en": "Pick a place with nearby parking to stay dry.",
+                "de": "Wählen Sie ein Lokal mit nahen Parkplätzen.",
+                "hu": "Válassz olyan helyet, amihez közel lehet parkolni.",
+                "ro": "Alegeți un loc cu parcare în apropiere."
+              }
+            },
+            {
+              "name": "Old Mine Center",
+              "tip_5lang": {
+                "en": "Enjoy the vast roofed exhibition spaces.",
+                "de": "Genießen Sie die großen überdachten Ausstellungsräume.",
+                "hu": "Élvezd a hatalmas, fedett kiállítótereket.",
+                "ro": "Bucurați-vă de vastele spații de expoziție acoperite."
+              }
+            },
+            {
+              "name": "Chełmiec Observation Tower",
+              "tip_5lang": {
+                "en": "Visibility may be low; drive carefully on wet roads.",
+                "de": "Sicht kann schlecht sein; bei Nässe vorsichtig fahren.",
+                "hu": "A látási viszonyok rosszak lehetnek; vezess óvatosan.",
+                "ro": "Vizibilitatea poate fi redusă; conduceți cu prudență."
+              }
+            },
+            {
+              "name": "Monumental Cross",
+              "tip_5lang": {
+                "en": "Path from the car might be muddy.",
+                "de": "Der Weg vom Auto könnte schlammig sein.",
+                "hu": "Az autótól vezető út saras lehet.",
+                "ro": "Cărarea de la mașină poate fi noroioasă."
+              }
+            },
+            {
+              "name": "Dinner at Aqua Zdrój",
+              "tip_5lang": {
+                "en": "Large indoor parking and a dry environment.",
+                "de": "Großer überdachter Parkplatz und trockene Umgebung.",
+                "hu": "Nagy fedett parkoló és száraz környezet.",
+                "ro": "Parcare mare acoperită și mediu uscat."
+              }
+            }
+          ],
+          "tips": {
+            "en": [
+              "Roads in the Wałbrzych hills can be slick when wet.",
+              "Paid parking is available right near Książ Castle.",
+              "Use the Palm House to completely escape the weather.",
+              "Drive very carefully up to Chełmiec in foggy conditions."
+            ],
+            "de": [
+              "Die Straßen in den Wałbrzycher Hügeln können bei Nässe rutschig sein.",
+              "Kostenpflichtige Parkplätze gibt es direkt am Schloss Książ.",
+              "Das Palmenhaus ist ein perfekter Zufluchtsort vor dem Wetter.",
+              "Fahren Sie bei Nebel sehr vorsichtig zum Chełmiec."
+            ],
+            "hu": [
+              "A wałbrzychi dombok útjai esőben nagyon csúszósak lehetnek.",
+              "A Książ kastély közelében könnyen találsz fizetős parkolót.",
+              "A Pálmaház tökéletes menedék az eső elől.",
+              "Vezess rendkívül óvatosan a Chełmiec felé ködös időben."
+            ],
+            "ro": [
+              "Drumurile din dealurile Wałbrzych pot fi alunecoase când plouă.",
+              "Există parcare cu plată chiar lângă Castelul Książ.",
+              "Casa Palmierilor este un refugiu perfect împotriva vremii.",
+              "Conduceți cu mare prudență spre Chełmiec pe timp de ceață."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Experience the winter magic of Książ Castle, stunning against the snow, before warming up completely inside the humid, green Palm House.\n\nNavigate the wintery roads to the center for a quick look at the snowy Rynek and a hearty, hot lunch to refuel.\n\nThe Old Mine Center offers an evocative afternoon visit, perfectly suited for the short winter daylight hours.\n\nEnsure your car is winter-ready for the drive up to the Chełmiec Observation Tower, concluding with dinner at the warm Aqua Zdrój.",
+            "de": "Erleben Sie den Winterzauber von Schloss Książ im Schnee, bevor Sie sich im feuchtwarmen, grünen Palmenhaus aufwärmen.\n\nFahren Sie über die winterlichen Straßen ins Zentrum für einen Blick auf den verschneiten Rynek und ein herzhaftes, warmes Mittagessen.\n\nDas Alte Bergwerk bietet einen stimmungsvollen Nachmittagsbesuch, ideal für die kurzen Wintertage.\n\nStellen Sie sicher, dass Ihr Auto winterfest ist für die Fahrt zum Chełmiec, und schließen Sie mit einem Abendessen im warmen Aqua Zdrój ab.",
+            "hu": "Tapasztald meg a Książ kastély téli varázsát a hóban, mielőtt teljesen felmelegednél a párás, zöld Pálmaházban.\n\nNavigálj a téli utakon a központba, nézd meg a havas Piacteret, és egyél egy kiadós, forró ebédet.\n\nAz Öreg Bánya hangulatos délutáni programot kínál a rövid téli nappalokon.\n\nGondoskodj róla, hogy az autód felkészült a Chełmiec felé vezető havas útra, végül vacsorázz a meleg Aqua Zdrójban.",
+            "ro": "Experimentați magia iernii la Castelul Książ, uimitor în zăpadă, înainte de a vă încălzi complet în Casa Palmierilor.\n\nNavigați pe drumurile de iarnă către centru pentru o privire asupra Pieței înzăpezite și un prânz cald.\n\nVechea Mină oferă o vizită de după-amiază evocatoare, perfectă pentru zilele scurte de iarnă.\n\nAsigurați-vă că mașina este echipată de iarnă pentru drumul spre Chełmiec, și încheiați cu cina la Aqua Zdrój."
+          },
+          "stops": [
+            {
+              "name": "Książ Castle",
+              "tip_5lang": {
+                "en": "Park carefully; pathways to the entrance can be icy.",
+                "de": "Vorsichtig parken; Wege zum Eingang können eisig sein.",
+                "hu": "Parkolj óvatosan; a bejárathoz vezető utak jegesek lehetnek.",
+                "ro": "Parcați cu grijă; cărările spre intrare pot fi înghețate."
+              }
+            },
+            {
+              "name": "Palm House (Palmiarnia)",
+              "tip_5lang": {
+                "en": "Great contrast to the snow; enjoy the tropical warmth.",
+                "de": "Toller Kontrast zum Schnee; tropische Wärme genießen.",
+                "hu": "Remek kontraszt a hóhoz; élvezd a trópusi meleget.",
+                "ro": "Contrast excelent cu zăpada; bucurați-vă de căldură."
+              }
+            },
+            {
+              "name": "Market Square (Rynek)",
+              "tip_5lang": {
+                "en": "Watch out for black ice on the cobblestones.",
+                "de": "Achten Sie auf Blitzeis auf dem Kopfsteinpflaster.",
+                "hu": "Vigyázz a lefagyott részekre a macskaköveken.",
+                "ro": "Atenție la polei pe piatra cubică."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "en": "Warm up with a hot local meal near your car.",
+                "de": "Wärmen Sie sich mit einer warmen lokalen Mahlzeit auf.",
+                "hu": "Melegedj fel egy forró helyi étellel az autód közelében.",
+                "ro": "Încălziți-vă cu o masă caldă locală lângă mașină."
+              }
+            },
+            {
+              "name": "Old Mine Center",
+              "tip_5lang": {
+                "en": "Cold inside the mines; wear your winter coat.",
+                "de": "Kalt in den Minen; tragen Sie Ihren Wintermantel.",
+                "hu": "Hideg van a bányában; hagyd magadon a télikabátot.",
+                "ro": "Frig în interiorul minelor; purtați haina de iarnă."
+              }
+            },
+            {
+              "name": "Chełmiec Observation Tower",
+              "tip_5lang": {
+                "en": "Ensure winter tires for the steep, snowy approach.",
+                "de": "Winterreifen für die steile, verschneite Anfahrt nötig.",
+                "hu": "Téli gumi kötelező a meredek, havas megközelítéshez.",
+                "ro": "Anvelope de iarnă pentru urcarea abruptă și înzăpezită."
+              }
+            },
+            {
+              "name": "Monumental Cross",
+              "tip_5lang": {
+                "en": "Snow makes this a magical, though chilly, photo spot.",
+                "de": "Schnee macht dies zu einem magischen, aber kühlen Fotomotiv.",
+                "hu": "A hó varázslatos, bár hűvös fotóhellyé teszi.",
+                "ro": "Zăpada face din acesta un loc magic pentru fotografii."
+              }
+            },
+            {
+              "name": "Dinner at Aqua Zdrój",
+              "tip_5lang": {
+                "en": "Relax after a cold driving day in this warm complex.",
+                "de": "Entspannen Sie nach einem kalten Fahrtag in diesem Komplex.",
+                "hu": "Pihenj meg a hideg autózás után ebben a meleg komplexumban.",
+                "ro": "Relaxați-vă după o zi rece de condus în acest complex cald."
+              }
+            }
+          ],
+          "tips": {
+            "en": [
+              "Winter tires are absolutely essential for the hilly terrain around Wałbrzych.",
+              "The drive up to Chełmiec is often snowbound and requires caution.",
+              "Książ Castle is beautifully illuminated during early winter evenings.",
+              "Clear all snow and ice from your car windows before driving."
+            ],
+            "de": [
+              "Winterreifen sind für das hügelige Gelände rund um Wałbrzych unerlässlich.",
+              "Die Fahrt zum Chełmiec ist oft verschneit und erfordert Vorsicht.",
+              "Schloss Książ ist an frühen Winterabenden wunderschön beleuchtet.",
+              "Befreien Sie vor der Fahrt alle Autoscheiben von Schnee und Eis."
+            ],
+            "hu": [
+              "A téli gumi elengedhetetlen a Wałbrzych környéki dombos domborzat miatt.",
+              "A Chełmiec felé vezető út gyakran havas, fokozott óvatosságot igényel.",
+              "A Książ kastély kora téli estéken gyönyörűen ki van világítva.",
+              "Indulás előtt takaríts le minden havat és jeget az autóról."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt esențiale pentru relieful deluros din jurul Wałbrzych.",
+              "Drumul spre Chełmiec este adesea înzăpezit și necesită prudență.",
+              "Castelul Książ este frumos iluminat în serile de iarnă.",
+              "Curățați toată zăpada și gheața de pe mașină înainte de a conduce."
+            ]
+          }
+        }
       }
     },
     "transit": {

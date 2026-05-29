@@ -386,6 +386,206 @@
           "Take time for a coffee at one of the many cafes on the main square.",
           "The walk to the zoo is pleasant, but allow enough time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Masaryk-Platz unter den Arkaden. Der Vormittag führt Sie in die Tiefe der Jihlava-Katakomben, ein perfekter Zufluchtsort vor dem Regen. Mittags besuchen Sie das Mahler-Haus und die St.-Jakobs-Kirche, um trocken zu bleiben. Am Nachmittag bietet das Tropenhaus im Zoo eine warme und regenfreie Umgebung, bevor Sie den Tag in einer gemütlichen Brauerei im Zentrum abschließen.",
+            "hu": "Kezdje a napot a Masaryk tér árkádjai alatt, védve az esőtől. Délelőtt ereszkedjen le a földalatti katakombákba, ahol az időjárás nem zavarja a felfedezést. Ebédidőben a Mahler-ház és a Szent Jakab-templom nyújt menedéket. Délután a Zoo trópusi háza ideális program, mivel fedett és meleg, a nap végén pedig a belváros hangulatos sörözői várják egy forró teára vagy helyi sörre.",
+            "ro": "Începeți ziua sub arcadele din Piața Masaryk, feriți de ploaie. Dimineața, coborâți în catacombele din Jihlava, un loc perfect pentru a explora fără grija vremii. La prânz, vizitați Casa Mahler și Biserica Sf. Iacob pentru a rămâne uscați. După-amiaza, casa tropicală de la grădina zoologică oferă un mediu cald și acoperit, înainte de a încheia ziua într-o berărie primitoare din centru.",
+            "en": "Start your day under the arcades of Masaryk Square, sheltered from the rain. The morning takes you deep into the Jihlava Catacombs, a perfect refuge from the weather. At lunchtime, visit the Mahler House and St. James Church to stay dry. In the afternoon, the tropical house at the zoo provides a warm, rain-free environment before ending the day in a cozy brewery in the city center."
+          },
+          "stops": [
+            {
+              "name": "Masaryk Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die historischen Arkaden als Regenschutz.",
+                "hu": "Használja a történelmi árkádokat esővédőként.",
+                "ro": "Folosiți arcadele istorice ca adăpost împotriva ploii.",
+                "en": "Use the historic arcades as shelter from the rain."
+              }
+            },
+            {
+              "name": "Jihlava Catacombs",
+              "tip_5lang": {
+                "de": "Unter Tage bemerken Sie den Regen gar nicht. Rutschfeste Schuhe!",
+                "hu": "A föld alatt észre sem veszi az esőt. Csúszásmentes cipő ajánlott!",
+                "ro": "În subteran nu veți observa ploaia. Purtați pantofi antiderapanți!",
+                "en": "Underground, you won't even notice the rain. Wear non-slip shoes!"
+              }
+            },
+            {
+              "name": "St. James the Greater Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort für spirituelle Einkehr.",
+                "hu": "Csendes, száraz hely a lelki feltöltődéshez.",
+                "ro": "Un loc liniștit și uscat pentru reculegere spirituală.",
+                "en": "A quiet, dry place for spiritual contemplation."
+              }
+            },
+            {
+              "name": "Gustav Mahler House",
+              "tip_5lang": {
+                "de": "Ideal, um die Ausstellung ohne Eile im Trockenen zu genießen.",
+                "hu": "Ideális a kiállítás megtekintéséhez a szárazban.",
+                "ro": "Ideal pentru a vizita expoziția la adăpost de ploaie.",
+                "en": "Ideal for enjoying the exhibition while staying dry."
+              }
+            },
+            {
+              "name": "Gate of the Mother of God",
+              "tip_5lang": {
+                "de": "Der Turm bietet Schutz und eine tolle Aussicht.",
+                "hu": "A torony védelmet és remek kilátást nyújt.",
+                "ro": "Turnul oferă adăpost și o priveliște minunată.",
+                "en": "The tower provides shelter and a great view."
+              }
+            },
+            {
+              "name": "Jihlava City Walls",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster, es kann glatt sein.",
+                "hu": "Vigyázat a macskakövön, esőben csúszós lehet.",
+                "ro": "Atenție pe pavaj, poate fi alunecos când plouă.",
+                "en": "Careful on the cobblestones, they can be slippery when wet."
+              }
+            },
+            {
+              "name": "Jihlava Zoo",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Tropenhaus und das Amazonia-Pavillon.",
+                "hu": "Látogassa meg a trópusi házat és az Amazónia pavilont.",
+                "ro": "Vizitați casa tropicală și pavilionul Amazonia.",
+                "en": "Visit the tropical house and the Amazonia pavilion."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da es in den Gassen windig sein kann.",
+              "Nutzen Sie die vielen Cafés rund um den Hauptplatz für Pausen.",
+              "Die Katakomben sind bei Regen sehr beliebt, reservieren Sie im Voraus.",
+              "Wasserdichte Schuhe sind für die Wallanlagen unerlässlich."
+            ],
+            "hu": [
+              "Vigyél stabil esernyőt, mert a szűk utcákban fújhat a szél.",
+              "Használd ki a főtér körüli kávézókat a pihenőközben.",
+              "A katakombák esőben népszerűek, érdemes előre foglalni.",
+              "A várfalak mentén vízálló cipő elengedhetetlen."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, vântul poate fi puternic pe străduțe.",
+              "Folosiți numeroasele cafenele din jurul pieței principale pentru pauze.",
+              "Catacombele sunt populare pe ploaie, rezervați în avans.",
+              "Încălțămintea impermeabilă este esențială pentru zona zidurilor."
+            ],
+            "en": [
+              "Take a sturdy umbrella as it can be windy in the narrow streets.",
+              "Utilize the many cafes around the main square for breaks.",
+              "The catacombs are popular in the rain, booking ahead is recommended.",
+              "Waterproof shoes are essential for the city wall area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen auf dem Masaryk-Platz versprüht historischen Charme, oft mit Reif auf den Statuen. Flüchten Sie vor der Kälte in die konstante Wärme der Katakomben. Mittags wärmt Sie die Atmosphäre des Mahler-Hauses auf. Der Nachmittag im Zoo ist besonders, da viele Tiere im Schnee aktiv sind, während die Pavillons beheizt sind. Beenden Sie den Tag bei Einbruch der Dunkelheit gegen 16:30 Uhr mit einem heißen Becher Svařák (Glühwein).",
+            "hu": "A téli reggel a Masaryk téren történelmi bájt áraszt, gyakran dérlepte szobrokkal. A hideg elől meneküljön a katakombák állandó hőmérsékletű járataiba. Ebédidőben a Mahler-ház kiállítása melenget. A délutáni állatkerti séta különleges, sok állat élvezi a havat, a pavilonok pedig fűtöttek. Zárja a napot a korai, fél ötös sötétedéskor egy bögre forró Svařák-kal (forralt bor).",
+            "ro": "O dimineață de iarnă în Piața Masaryk emană un farmec istoric, adesea cu statui înghețate. Scăpați de frig în căldura constantă a catacombelor. La prânz, atmosfera Casei Mahler vă va încălzi. După-amiaza la zoo este specială, multe animale fiind active în zăpadă, în timp ce pavilioanele sunt încălzite. Încheiați ziua la lăsarea întunericului, în jurul orei 16:30, cu o cană de vin fiert.",
+            "en": "A winter morning on Masaryk Square exudes historic charm, often with frost-covered statues. Escape the cold into the constant temperature of the catacombs. At lunch, the atmosphere of the Mahler House warms you up. The afternoon at the zoo is special as many animals are active in the snow, while pavilions are heated. End the day at early sunset around 4:30 PM with a hot mug of Svařák (mulled wine)."
+          },
+          "stops": [
+            {
+              "name": "Masaryk Square",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Beleuchtung und die heißen Getränke.",
+                "hu": "Élvezze a téli kivilágítást és a forró italokat.",
+                "ro": "Bucurați-vă de iluminatul de iarnă și de băuturile calde.",
+                "en": "Enjoy the winter lights and hot drinks."
+              }
+            },
+            {
+              "name": "Jihlava Catacombs",
+              "tip_5lang": {
+                "de": "Mit ca. 8-10 Grad ist es hier wärmer als draußen.",
+                "hu": "Körülbelül 8-10 fokkal itt melegebb van, mint kint.",
+                "ro": "Cu cca. 8-10 grade, aici este mai cald decât afară.",
+                "en": "At around 8-10 degrees, it's warmer here than outside."
+              }
+            },
+            {
+              "name": "St. James the Greater Church",
+              "tip_5lang": {
+                "de": "Achtung: Die Kirche kann im Winter sehr kalt sein.",
+                "hu": "Vigyázat: A templom télen nagyon hideg lehet.",
+                "ro": "Atenție: Biserica poate fi foarte friguroasă iarna.",
+                "en": "Warning: The church can be very cold in winter."
+              }
+            },
+            {
+              "name": "Gustav Mahler House",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort, um sich zwischen den Spaziergängen aufzuwärmen.",
+                "hu": "Hangulatos hely a bemelegedésre a séták között.",
+                "ro": "Un loc primitor pentru a vă încălzi între plimbări.",
+                "en": "A cozy place to warm up between walks."
+              }
+            },
+            {
+              "name": "Gate of the Mother of God",
+              "tip_5lang": {
+                "de": "Vorsicht bei gefrorenen Stufen auf dem Weg nach oben.",
+                "hu": "Vigyázat a jeges lépcsőkkel felfelé menet.",
+                "ro": "Atenție la treptele înghețate în drumul spre vârf.",
+                "en": "Watch out for frozen steps on the way up."
+              }
+            },
+            {
+              "name": "Jihlava City Walls",
+              "tip_5lang": {
+                "de": "Der Blick auf die verschneite Stadt ist fantastisch.",
+                "hu": "A kilátás a havas városra fantasztikus.",
+                "ro": "Priveliștea asupra orașului înzăpezit este fantastică.",
+                "en": "The view of the snowy city is fantastic."
+              }
+            },
+            {
+              "name": "Jihlava Zoo",
+              "tip_5lang": {
+                "de": "Verpassen Sie nicht die Schneeleoparden in ihrem Element.",
+                "hu": "Ne hagyja ki a hópárducokat, most vannak elemükben.",
+                "ro": "Nu ratați leoparzii zăpezilor în elementul lor.",
+                "en": "Don't miss the snow leopards in their element."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche; der Wind in Vysočina ist schneidend.",
+              "Die Sonne geht bereits gegen 16:15 Uhr unter, planen Sie Fotos früh.",
+              "Kopfsteinpflaster kann bei Frost extrem rutschig sein.",
+              "Viele kleine Cafés bieten traditionelles tschechisches Gebäck zum Aufwärmen."
+            ],
+            "hu": [
+              "Viselj termóruhát; a Vysočina-szél metsző tud lenni.",
+              "A nap már 16:15 körül lemegy, tervezd korábbra a fotózást.",
+              "A macskakő fagyban rendkívül csúszós lehet.",
+              "Sok kis kávézó kínál hagyományos cseh süteményeket a bemelegedéshez."
+            ],
+            "ro": [
+              "Purtați lenjerie termică; vântul din Vysočina poate fi tăios.",
+              "Soarele apune deja în jur de 16:15, planificați fotografiile devreme.",
+              "Pavajul poate fi extrem de alunecos pe timp de îngheț.",
+              "Multe cafenele mici oferă produse de patiserie cehești pentru încălzire."
+            ],
+            "en": [
+              "Wear thermal layers; the Vysočina wind can be biting.",
+              "Sunset is as early as 4:15 PM, plan your photos accordingly.",
+              "Cobblestones can be extremely slippery in freezing conditions.",
+              "Many small cafes offer traditional Czech pastries to warm you up."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +906,188 @@
           "Use designated bike paths wherever possible.",
           "Always lock your bike securely, especially in busy areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet Jihlava gut ausgebaute Radwege. Starten Sie im Zentrum und nutzen Sie die Katakomben als trockene Pause. Die Fahrt entlang der Jihlava-Flusses ist auch bei Regen stimmungsvoll, erfordert aber gute Schutzkleidung. Das Zoo-Tropenhaus ist ein perfektes Ziel für Radfahrer, um sich aufzuwärmen, bevor es zurück in die Altstadt geht.",
+            "hu": "Az eső ellenére Jihlava jól kiépített kerékpárutakkal várja. Kezdjen a központban, és használja a katakombákat száraz pihenőként. A Jihlava-folyó menti tekerés esőben is hangulatos, de jó védőruházatot igényel. Az állatkert trópusi háza tökéletes célpont a bicikliseknek a bemelegedésre, mielőtt visszatérnének az óvárosba.",
+            "ro": "În ciuda ploii, Jihlava oferă piste de biciclete bine amenajate. Începeți în centru și folosiți catacombele ca o pauză uscată. Plimbarea de-a lungul râului Jihlava este atmosferică și pe ploaie, dar necesită echipament de protecție bun. Casa tropicală de la zoo este o destinație perfectă pentru bicicliști pentru a se încălzi înainte de a reveni în orașul vechi.",
+            "en": "Despite the rain, Jihlava offers well-maintained bike paths. Start in the center and use the catacombs as a dry break. The ride along the Jihlava river is atmospheric even in the rain but requires good protective gear. The zoo's tropical house is a perfect destination for cyclists to warm up before heading back to the old town."
+          },
+          "stops": [
+            {
+              "name": "Masaryk Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázat a fékezéssel a nedves macskakövön.",
+                "ro": "Atenție la frânare pe pavajul ud.",
+                "en": "Be careful when braking on wet cobblestones."
+              }
+            },
+            {
+              "name": "Jihlava City Walls & Gate of the Mother of God",
+              "tip_5lang": {
+                "de": "Unter dem Torbogen finden Sie kurz Schutz vor Schauern.",
+                "hu": "A kapuboltozat alatt rövid menedéket talál a záporok elől.",
+                "ro": "Sub arcada porții veți găsi un scurt adăpost de ploaie.",
+                "en": "Under the gate arch you'll find brief shelter from showers."
+              }
+            },
+            {
+              "name": "St. James the Greater Church",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Biztonságos kerékpártárolók találhatók a bejárat közelében.",
+                "ro": "Suporturi de biciclete sigure se află lângă intrare.",
+                "en": "Secure bike racks are located near the entrance."
+              }
+            },
+            {
+              "name": "Jihlava Zoo",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Tropenhaus, um Kleidung zu trocknen.",
+                "hu": "Használja ki az időt a trópusi házban a ruhák szárítására.",
+                "ro": "Folosiți timpul în casa tropicală pentru a vă usca hainele.",
+                "en": "Use the time in the tropical house to dry your clothes."
+              }
+            },
+            {
+              "name": "Lunch by the Jihlava River",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit überdachtem Außenbereich.",
+                "hu": "Keressen fedett terasszal rendelkező éttermet.",
+                "ro": "Căutați un restaurant cu terasă acoperită.",
+                "en": "Look for a restaurant with a covered outdoor area."
+              }
+            },
+            {
+              "name": "Jihlava Catacombs",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad gesichert unter, bevor Sie abtauchen.",
+                "hu": "Zárja le a biciklit fedett helyen, mielőtt lemerülne.",
+                "ro": "Parcați bicicleta la adăpost înainte de a coborî.",
+                "en": "Park your bike in a sheltered spot before going down."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter ein Muss.",
+              "Vermeiden Sie schnelle Kurven auf den glatten Steinen der Altstadt.",
+              "Wasserdichte Packtaschen schützen Ihre Wertsachen.",
+              "Tragen Sie helle Kleidung oder Reflektoren bei schlechter Sicht."
+            ],
+            "hu": [
+              "A sárvédő kötelező ebben az időben.",
+              "Kerülje a gyors kanyarodást az óváros csúszós kövein.",
+              "A vízálló táskák megvédik az értékeidet.",
+              "Viselj világos ruhát vagy fényvisszaverőt a rossz látási viszonyok között."
+            ],
+            "ro": [
+              "Apărătorile sunt obligatorii pe această vreme.",
+              "Evitați virajele rapide pe pietrele alunecoase din orașul vechi.",
+              "Gențile impermeabile vă protejează obiectele de valoare.",
+              "Purtați haine deschise la culoare sau reflectorizante în condiții de vizibilitate redusă."
+            ],
+            "en": [
+              "Mudguards are a must in this weather.",
+              "Avoid fast turns on the slippery stones of the old town.",
+              "Waterproof panniers will protect your valuables.",
+              "Wear bright clothing or reflectors in poor visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking in Jihlava ist erfrischend. Die Wege entlang des Flusses sind oft geräumt, aber Vorsicht vor Glatteis. Beginnen Sie im historischen Zentrum und planen Sie häufige Stopps in beheizten Museen wie dem Mahler-Haus ein. Der Zoo im Winter ist ruhig und mit dem Rad leicht erreichbar. Ein heißes Getränk am Masaryk-Platz ist die Belohnung für die frostige Tour.",
+            "hu": "A téli kerékpározás Jihlavában frissítő élmény. A folyó menti utak gyakran takarítottak, de vigyázzon a jéggel. Kezdjen a történelmi központban, és tervezzen gyakori megállókat fűtött múzeumokban, mint a Mahler-ház. Az állatkert télen nyugodt és kerékpárral könnyen elérhető. Egy forró ital a Masaryk téren a jutalom a fagyos túra végén.",
+            "ro": "Ciclismul de iarnă în Jihlava este revigorant. Potecile de-a lungul râului sunt adesea curățate, dar atenție la gheață. Începeți în centrul istoric și planificați opriri frecvente în muzee încălzite, precum Casa Mahler. Zoo iarna este liniștită și ușor accesibilă cu bicicleta. O băutură caldă în Piața Masaryk este recompensa pentru tura geroasă.",
+            "en": "Winter biking in Jihlava is refreshing. Paths along the river are often cleared, but watch out for black ice. Start in the historic center and plan frequent stops in heated museums like the Mahler House. The zoo in winter is quiet and easily accessible by bike. A hot drink at Masaryk Square is the reward for the frosty tour."
+          },
+          "stops": [
+            {
+              "name": "Masaryk Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen zwischen den Pflastersteinen.",
+                "hu": "Figyeljen a fagyott tócsákra a macskakövek között.",
+                "ro": "Atenție la bălțile înghețate între pietrele pavajului.",
+                "en": "Watch out for frozen puddles between the cobblestones."
+              }
+            },
+            {
+              "name": "Jihlava City Walls & Gate of the Mother of God",
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick über die verschneite Vysočina.",
+                "hu": "Élvezze a panorámát a havas Vysočina-vidékre.",
+                "ro": "Bucurați-vă de panorama asupra regiunii Vysočina înzăpezite.",
+                "en": "Enjoy the panoramic view over the snowy Vysočina region."
+              }
+            },
+            {
+              "name": "St. James the Greater Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Aufwärmen, aber die Kirche ist oft kühl.",
+                "hu": "Rövid megálló melegedni, de a templom gyakran hűvös.",
+                "ro": "Oprire scurtă pentru încălzire, dar biserica este adesea rece.",
+                "en": "Short stop to warm up, but the church is often cool."
+              }
+            },
+            {
+              "name": "Jihlava Zoo",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Wegen innerhalb des Zoos.",
+                "hu": "Óvatosan közlekedjen az állatkerten belüli utakon.",
+                "ro": "Circulați cu atenție pe aleile din interiorul grădinii zoologice.",
+                "en": "Ride carefully on the paths inside the zoo."
+              }
+            },
+            {
+              "name": "Lunch by the Jihlava River",
+              "tip_5lang": {
+                "de": "Ein deftiges Gulasch gibt Energie für die Weiterfahrt.",
+                "hu": "Egy kiadós gulyás erőt ad a továbbhaladáshoz.",
+                "ro": "Un gulaș consistent vă dă energie pentru continuarea drumului.",
+                "en": "A hearty goulash gives you energy for the rest of the ride."
+              }
+            },
+            {
+              "name": "Jihlava Catacombs",
+              "tip_5lang": {
+                "de": "Die konstante Wärme unter Tage ist eine Wohltat.",
+                "hu": "A föld alatti állandó meleg igazi áldás.",
+                "ro": "Căldura constantă din subteran este o binecuvântare.",
+                "en": "The constant warmth underground is a blessing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck; etwas weniger Druck gibt mehr Grip auf Schnee.",
+              "Tragen Sie geschichtete Kleidung, um Schweißbildung zu vermeiden.",
+              "Kettenpflege ist wichtig wegen des Streusalzes.",
+              "Planen Sie die Rückkehr vor 16:00 Uhr ein, bevor es dunkel und kälter wird."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást; a kevesebb nyomás jobb tapadást ad a havon.",
+              "Öltözzön rétegesen, hogy elkerülje az izzadást.",
+              "A láncápolás fontos az útszóró só miatt.",
+              "Tervezze a visszatérést 16:00 előtt, mielőtt sötét és hidegebb lesz."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope; o presiune mai mică oferă aderență mai bună pe zăpadă.",
+              "Purtați haine stratificate pentru a evita transpirația.",
+              "Întreținerea lanțului este importantă din cauza sării de pe drumuri.",
+              "Planificați revenirea înainte de ora 16:00, înainte de a se întuneca și a se face mai frig."
+            ],
+            "en": [
+              "Check tire pressure; slightly lower pressure gives better grip on snow.",
+              "Dress in layers to avoid sweating.",
+              "Chain maintenance is important due to road salt.",
+              "Plan to return before 4:00 PM before it gets dark and colder."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -990,6 +1372,188 @@
           "A car allows you to easily reach the zoo, which is a bit outside the center.",
           "Plan your clusters to minimize driving and re-parking."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Jihlava ist mit dem Auto bei Regen bequem zu erkunden. Parken Sie in der Nähe des Zentrums für den kurzen Weg zum Masaryk-Platz und zur St.-Jakobs-Kirche. Die Katakomben sind ein idealer Indoor-Stopp. Zum Zoo fahren Sie direkt zum Parkplatz am Eingang, wo Sie schnell in die überdachten Pavillons gelangen können. Schließen Sie den Tag in einem der Einkaufszentren oder Restaurants ab, die über eigene Parkhäuser verfügen.",
+            "hu": "Jihlava esőben is kényelmesen felfedezhető autóval. Parkoljon a központ közelében, így csak rövid séta a Masaryk tér és a Szent Jakab-templom. A katakombák ideális fedett program. Az állatkertnél hajtson közvetlenül a bejárati parkolóhoz, ahonnan gyorsan elérheti a fedett pavilonokat. Zárja a napot a bevásárlóközpontok egyikében vagy olyan étteremben, amely saját parkolóházzal rendelkezik.",
+            "ro": "Jihlava este ușor de explorat cu mașina pe ploaie. Parcați aproape de centru pentru un drum scurt către Piața Masaryk și Biserica Sf. Iacob. Catacombele sunt o oprire ideală la interior. La grădina zoologică, mergeți direct în parcarea de la intrare pentru acces rapid la pavilioanele acoperite. Încheiați ziua într-un centru comercial sau restaurant cu parcare proprie acoperită.",
+            "en": "Jihlava is easy to explore by car in the rain. Park near the center for a short walk to Masaryk Square and St. James Church. The catacombs are an ideal indoor stop. At the zoo, drive directly to the entrance parking lot for quick access to covered pavilions. End the day in one of the shopping centers or restaurants that have their own parking garages."
+          },
+          "stops": [
+            {
+              "name": "Parking and Breakfast in the Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie ein Parkhaus, um beim Einsteigen trocken zu bleiben.",
+                "hu": "Használjon parkolóházat, hogy beszálláskor száraz maradjon.",
+                "ro": "Folosiți o parcare acoperită pentru a rămâne uscați la îmbarcare.",
+                "en": "Use a parking garage to stay dry when getting in the car."
+              }
+            },
+            {
+              "name": "Masaryk Square & St. James's Church",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten minimieren den Regen.",
+                "hu": "A látnivalók közötti rövid távolság minimalizálja az esőzést.",
+                "ro": "Distanțele scurte între obiective reduc expunerea la ploaie.",
+                "en": "Short distances between sights minimize rain exposure."
+              }
+            },
+            {
+              "name": "Jihlava Catacombs",
+              "tip_5lang": {
+                "de": "Perfekt für regnerische Stunden, Parken am Rand des Platzes.",
+                "hu": "Tökéletes esős órákra, parkolás a tér szélén.",
+                "ro": "Perfect pentru orele ploioase, parcare la marginea pieței.",
+                "en": "Perfect for rainy hours, parking at the edge of the square."
+              }
+            },
+            {
+              "name": "Jihlava Zoo",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Eingang, nehmen Sie Schirme mit.",
+                "hu": "A parkoló közel van a bejárathoz, vigyenek esernyőt.",
+                "ro": "Parcarea este aproape de intrare, luați umbrele.",
+                "en": "The parking lot is close to the entrance, take umbrellas."
+              }
+            },
+            {
+              "name": "Jihlava City Walls",
+              "tip_5lang": {
+                "de": "Ein schneller Blick von den Wällen, bevor es weitergeht.",
+                "hu": "Gyors pillantás a falakról, mielőtt továbbhajtanak.",
+                "ro": "O privire rapidă de pe ziduri înainte de a pleca mai departe.",
+                "en": "A quick look from the walls before driving on."
+              }
+            },
+            {
+              "name": "Gate of the Mother of God",
+              "tip_5lang": {
+                "de": "Parken Sie kurz in der Nähe für ein schnelles Foto.",
+                "hu": "Parkoljon le a közelben egy gyors fotó erejéig.",
+                "ro": "Parcați scurt în apropiere pentru o fotografie rapidă.",
+                "en": "Park briefly nearby for a quick photo."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Pfützen am Straßenrand, die Fußgänger könnten nass werden.",
+              "Lassen Sie keine nassen Schirme auf den Sitzen liegen.",
+              "Nutzen Sie die Parkhäuser 'Citypark' für trockene Übergänge.",
+              "Prüfen Sie die Wischerblätter vor der Fahrt durch die Vysočina-Hügel."
+            ],
+            "hu": [
+              "Vigyázzon az útmenti tócsákra, nehogy lefröcskölje a gyalogosokat.",
+              "Ne hagyjon vizes esernyőt az üléseken.",
+              "Használja a 'Citypark' parkolóházat a száraz átjutáshoz.",
+              "Ellenőrizze az ablaktörlőket a Vysočina dombjai közötti vezetés előtt."
+            ],
+            "ro": [
+              "Atenție la bălțile de pe marginea drumului pentru a nu stropi pietonii.",
+              "Nu lăsați umbrelele ude pe scaune.",
+              "Folosiți parcarea 'Citypark' pentru tranzit uscat.",
+              "Verificați lamelele ștergătoarelor înainte de drumul prin dealurile Vysočina."
+            ],
+            "en": [
+              "Watch out for roadside puddles to avoid splashing pedestrians.",
+              "Don't leave wet umbrellas on the seats.",
+              "Use 'Citypark' parking garages for dry transitions.",
+              "Check wiper blades before driving through the Vysočina hills."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Auto durch Jihlava ist sicher und warm. Die Straßen in der Stadt sind meist gut geräumt, aber die Hügel der Vysočina erfordern Winterausrüstung. Beginnen Sie mit einem gemütlichen Frühstück im Zentrum. Die Katakomben bieten eine willkommene Abwechslung zur Kälte. Am Nachmittag ist der Zoo ein Highlight, da die Parkplätze oft leerer sind. Genießen Sie die winterliche Stadtbeleuchtung bei der Fahrt durch die historischen Gassen am späten Nachmittag.",
+            "hu": "A téli autós túra Jihlavában biztonságos és meleg. A városi utak többnyire jól takarítottak, de a Vysočina dombjaihoz téli felszerelés kell. Kezdjen egy hangulatos reggelivel a központban. A katakombák kellemes felüdülést nyújtanak a hideg elől. Délután az állatkert fénypontja a napnak, ilyenkor a parkolók is üresebbek. Élvezze a városi díszkivilágítást a történelmi utcákon való áthajtáskor késő délután.",
+            "ro": "Un tur de iarnă cu mașina prin Jihlava este sigur și călduros. Străzile din oraș sunt de obicei bine deszăpezite, dar dealurile Vysočina necesită echipament de iarnă. Începeți cu un mic dejun relaxat în centru. Catacombele oferă o schimbare plăcută față de frig. După-amiaza, zoo este un punct culminant, parcările fiind mai libere. Bucurați-vă de luminile de iarnă ale orașului în timp ce conduceți prin străduțele istorice.",
+            "en": "A winter tour by car through Jihlava is safe and warm. City roads are usually well-cleared, but the Vysočina hills require winter gear. Start with a cozy breakfast in the center. The catacombs offer a welcome break from the cold. In the afternoon, the zoo is a highlight as parking lots are often less crowded. Enjoy the winter city lights while driving through the historic streets in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Parking and Breakfast in the Center",
+              "tip_5lang": {
+                "de": "Das Auto kann sich während des Frühstücks aufwärmen.",
+                "hu": "Az autó bemelegedhet a reggeli ideje alatt.",
+                "ro": "Mașina se poate încălzi în timpul micului dejun.",
+                "en": "The car can warm up during breakfast."
+              }
+            },
+            {
+              "name": "Masaryk Square & St. James's Church",
+              "tip_5lang": {
+                "de": "Parken auf dem Platz ist im Winter oft einfacher.",
+                "hu": "A téren való parkolás télen gyakran egyszerűbb.",
+                "ro": "Parcarea în piață este adesea mai ușoară iarna.",
+                "en": "Parking on the square is often easier in winter."
+              }
+            },
+            {
+              "name": "Jihlava Catacombs",
+              "tip_5lang": {
+                "de": "Lassen Sie schwere Mäntel im Auto, in den Gängen ist es mild.",
+                "hu": "Hagyja a nehéz kabátokat az autóban, a járatokban enyhe az idő.",
+                "ro": "Lăsați hainele groase în mașină, în galerii este blând.",
+                "en": "Leave heavy coats in the car; the temperature in the tunnels is mild."
+              }
+            },
+            {
+              "name": "Jihlava Zoo",
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche ist im Winter stressfrei.",
+                "hu": "A parkolóhely-keresés télen stresszmentes.",
+                "ro": "Căutarea locului de parcare este fără stres iarna.",
+                "en": "Finding a parking spot is stress-free in winter."
+              }
+            },
+            {
+              "name": "Jihlava City Walls",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für das Panorama der verschneiten Dächer.",
+                "hu": "Rövid megálló a havas háztetők panorámájáért.",
+                "ro": "Oprire scurtă pentru panorama acoperișurilor înzăpezite.",
+                "en": "Short stop for the panorama of snowy rooftops."
+              }
+            },
+            {
+              "name": "Gate of the Mother of God",
+              "tip_5lang": {
+                "de": "Die Beleuchtung am Abend ist vom Auto aus wunderschön.",
+                "hu": "Az esti kivilágítás az autóból is gyönyörű.",
+                "ro": "Iluminatul de seară este superb văzut din mașină.",
+                "en": "The evening lights are beautiful when seen from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser Höhenlage (Vysočina) absolut notwendig.",
+              "Führen Sie einen Eiskratzer und eventuell eine kleine Schaufel mit.",
+              "Die Straßen können in den Abendstunden schnell überfrieren.",
+              "Parken Sie bevorzugt in Parkhäusern, um das Enteisen zu vermeiden."
+            ],
+            "hu": [
+              "A téli gumi ezen a magasságon (Vysočina) elengedhetetlen.",
+              "Legyen nálad jégkaparó és esetleg egy kis lapát.",
+              "Az utak az esti órákban gyorsan lefagyhatnak.",
+              "Parkolj lehetőleg parkolóházban, hogy elkerüld a jégtelenítést."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt absolut necesare la această altitudine.",
+              "Aveți la îndemână o racletă și eventual o lopată mică.",
+              "Drumurile pot îngheța rapid în orele serii.",
+              "Parcați preferabil în parcări acoperite pentru a evita dezghețarea."
+            ],
+            "en": [
+              "Winter tires are absolutely necessary at this altitude (Vysočina).",
+              "Keep an ice scraper and possibly a small shovel in the car.",
+              "Roads can freeze over quickly in the evening hours.",
+              "Prefer parking in garages to avoid having to de-ice the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1274,6 +1838,188 @@
           "Most stops in the center are well-signposted.",
           "Be aware that buses might be less frequent in the evening and on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das dichte O-Bus-Netz von Jihlava, um bei Regen trocken zu bleiben. Der Masaryk-Platz ist der zentrale Knotenpunkt. Vormittags besuchen Sie die Katakomben und die Kirchen im Zentrum. Die Linie C bringt Sie direkt zum Zoo, wo Sie den Nachmittag in den Pavillons verbringen können. Die modernen O-Busse sind beheizt und bieten Schutz vor den Schauern, während Sie bequem durch die Stadt gleiten.",
+            "hu": "Használja Jihlava sűrű trolibuszhálózatát, hogy száraz maradjon esőben. A Masaryk tér a központi csomópont. Délelőtt látogassa meg a katakombákat és a belvárosi templomokat. A C vonal közvetlenül az állatkerthez viszi, ahol a délutánt a pavilonokban töltheti. A modern trolibuszok fűtöttek és védelmet nyújtanak a záporok elől, miközben kényelmesen utazik a városon át.",
+            "ro": "Folosiți rețeaua densă de troleibuze din Jihlava pentru a rămâne uscați pe ploaie. Piața Masaryk este nodul central. Dimineața vizitați catacombele și bisericile din centru. Linia C vă duce direct la grădina zoologică, unde puteți petrece după-amiaza în pavilioane. Troleibuzele moderne sunt încălzite și oferă adăpost împotriva ploii în timp ce traversați orașul.",
+            "en": "Use Jihlava's dense trolleybus network to stay dry in the rain. Masaryk Square is the central hub. In the morning, visit the catacombs and the downtown churches. Line C takes you directly to the zoo, where you can spend the afternoon in the pavilions. Modern trolleybuses are heated and provide shelter from the showers while you glide comfortably through the city."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Masaryk Square",
+              "tip_5lang": {
+                "de": "Die Haltestellen haben oft Unterstände, nutzen Sie diese.",
+                "hu": "A megállók gyakran fedettek, használja őket.",
+                "ro": "Stațiile au adesea adăposturi, folosiți-le.",
+                "en": "Stops often have shelters; make use of them."
+              }
+            },
+            {
+              "name": "St. James's Church & Catacombs",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom zentralen Platz, halten Sie den Schirm bereit.",
+                "hu": "Rövid séta a központi tértől, legyen kéznél az esernyő.",
+                "ro": "Drum scurt pe jos din piața centrală, aveți umbrela pregătită.",
+                "en": "Short walk from the central square; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Gustav Mahler House",
+              "tip_5lang": {
+                "de": "Ein O-Bus hält fast direkt vor der Tür.",
+                "hu": "Egy trolibusz szinte közvetlenül az ajtó előtt áll meg.",
+                "ro": "Un troleibuz oprește aproape direct în fața ușii.",
+                "en": "A trolleybus stops almost right in front of the door."
+              }
+            },
+            {
+              "name": "Jihlava Zoo",
+              "tip_5lang": {
+                "de": "Die Linie zum Zoo fährt regelmäßig, ideal bei Regen.",
+                "hu": "Az állatkerti járat rendszeresen közlekedik, ideális esőben.",
+                "ro": "Linia către zoo circulă regulat, ideal pe ploaie.",
+                "en": "The line to the zoo runs regularly, ideal in the rain."
+              }
+            },
+            {
+              "name": "Gate of the Mother of God",
+              "tip_5lang": {
+                "de": "Von hier sind es nur wenige Schritte zur nächsten Haltestelle.",
+                "hu": "Innen csak pár lépés a következő megálló.",
+                "ro": "De aici sunt doar câțiva pași până la următoarea stație.",
+                "en": "From here it's just a few steps to the next stop."
+              }
+            },
+            {
+              "name": "Walk along the City Walls",
+              "tip_5lang": {
+                "de": "Beenden Sie den Spaziergang an einer Haltestelle im Tal.",
+                "hu": "Fejezze be a sétát egy völgybeli megállónál.",
+                "ro": "Încheiați plimbarea la o stație din vale.",
+                "en": "End your walk at a stop in the valley."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets kontaktlos direkt im O-Bus mit Karte.",
+              "Nutzen Sie die App 'IDOS' für Echtzeit-Abfahrten.",
+              "Die Busse können bei Regen beschlagene Fenster haben.",
+              "Zentraler Umsteigepunkt ist 'Masarykovo náměstí'."
+            ],
+            "hu": [
+              "Vásároljon jegyet érintésmentesen, kártyával közvetlenül a trolin.",
+              "Használja az 'IDOS' alkalmazást a valós idejű indulásokhoz.",
+              "Esőben a buszok ablakai bepárásodhatnak.",
+              "A központi átszállópont a 'Masarykovo náměstí'."
+            ],
+            "ro": [
+              "Cumpărați bilete contactless direct în troleibuz cu cardul.",
+              "Folosiți aplicația 'IDOS' pentru plecări în timp real.",
+              "Geamurile autobuzelor se pot aburi când plouă.",
+              "Punctul central de transfer este 'Masarykovo náměstí'."
+            ],
+            "en": [
+              "Buy tickets contactlessly with your card directly on the trolleybus.",
+              "Use the 'IDOS' app for real-time departures.",
+              "Buses may have fogged windows during rain.",
+              "The central transfer point is 'Masarykovo náměstí'."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist der öffentliche Nahverkehr in Jihlava die wärmste Art des Reisens. Die O-Busse sind gut beheizt und verbinden alle wichtigen Punkte. Beginnen Sie Ihre Tour am festlich beleuchteten Masaryk-Platz. Die Katakomben bieten eine warme Pause vom Frost. Der Zoo ist auch im Winter mit der Linie C gut erreichbar. Die kurzen Wege zwischen Haltestellen und Sehenswürdigkeiten minimieren die Zeit in der eisigen Kälte von Vysočina.",
+            "hu": "Télen a jihlavai tömegközlekedés a legmelegebb utazási mód. A trolibuszok jól fűtöttek és minden fontos pontot összekötnek. Kezdje a túrát az ünnepi díszbe öltözött Masaryk téren. A katakombák meleg menedéket nyújtanak a fagy elől. Az állatkert télen is jól elérhető a C vonallal. A megállók és látnivalók közötti rövid távolság minimalizálja a Vysočina jeges hidegében töltött időt.",
+            "ro": "Iarna, transportul public din Jihlava este cel mai călduros mod de a călători. Troleibuzele sunt bine încălzite și conectează toate punctele importante. Începeți turul în Piața Masaryk luminată festiv. Catacombele oferă o pauză caldă de la ger. Zoo este bine accesibilă și iarna cu linia C. Distanțele scurte între stații și obiective reduc timpul petrecut în frigul năpraznic din Vysočina.",
+            "en": "In winter, public transport in Jihlava is the warmest way to travel. Trolleybuses are well-heated and connect all major points. Start your tour at the festively lit Masaryk Square. The catacombs offer a warm break from the frost. The zoo is easily accessible even in winter via line C. Short distances between stops and sights minimize time spent in the icy cold of Vysočina."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Masaryk Square",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im O-Bus so lange wie möglich.",
+                "hu": "Élvezze a troli melegét, ameddig csak lehet.",
+                "ro": "Bucurați-vă de căldura din troleibuz cât mai mult timp.",
+                "en": "Enjoy the warmth of the trolleybus for as long as possible."
+              }
+            },
+            {
+              "name": "St. James's Church & Catacombs",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen, die Bordsteine können glatt sein.",
+                "hu": "Vigyázat leszálláskor, a padka csúszós lehet.",
+                "ro": "Atenție la coborâre, bordurile pot fi alunecoase.",
+                "en": "Careful when getting off; the curbs can be slippery."
+              }
+            },
+            {
+              "name": "Gustav Mahler House",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um sich zwischen zwei Busfahrten aufzuwärmen.",
+                "hu": "Tökéletes hely a bemelegedésre két buszút között.",
+                "ro": "Locul perfect pentru încălzire între două călătorii cu autobuzul.",
+                "en": "Perfect place to warm up between two bus rides."
+              }
+            },
+            {
+              "name": "Jihlava Zoo",
+              "tip_5lang": {
+                "de": "Der Fußweg vom Bus zum Eingang ist im Winter oft geräumt.",
+                "hu": "A busztól a bejáratig vezető utat télen gyakran takarítják.",
+                "ro": "Drumul de la autobuz la intrare este de obicei deszăpezit.",
+                "en": "The path from the bus to the entrance is usually cleared in winter."
+              }
+            },
+            {
+              "name": "Gate of the Mother of God",
+              "tip_5lang": {
+                "de": "In der Dämmerung ist der Turm besonders schön beleuchtet.",
+                "hu": "Szürkületben a torony különösen szépen van kivilágítva.",
+                "ro": "La amurg, turnul este iluminat deosebit de frumos.",
+                "en": "At twilight, the tower is especially beautifully lit."
+              }
+            },
+            {
+              "name": "Walk along the City Walls",
+              "tip_5lang": {
+                "de": "Halten Sie die Fahrplan-App bereit, um Wartezeiten im Kaltem zu vermeiden.",
+                "hu": "Legyen kéznél a menetrend, hogy ne kelljen sokat várni a hidegben.",
+                "ro": "Aveți aplicația cu orarul la îndemână pentru a nu aștepta în frig.",
+                "en": "Keep the schedule app ready to avoid waiting long in the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "O-Busse fahren im Winter oft nach einem speziellen Fahrplan.",
+              "Warten Sie in Geschäften oder Cafés in der Nähe der Haltestelle.",
+              "Vorsicht vor Schneematsch beim Ein- und Aussteigen.",
+              "Die O-Busse sind die zuverlässigste Art, bei Eis voranzukommen."
+            ],
+            "hu": [
+              "A trolik télen gyakran speciális menetrend szerint járnak.",
+              "Várjon az üzletekben vagy kávézókban a megálló közelében.",
+              "Vigyázzon a hókására fel- és leszálláskor.",
+              "A trolibusz a legmegbízhatóbb módja a jeges úton való haladásnak."
+            ],
+            "ro": [
+              "Troleibuzele circulă adesea după un program special iarna.",
+              "Așteptați în magazine sau cafenele lângă stație.",
+              "Atenție la fleoșcăială la urcare și coborâre.",
+              "Troleibuzele sunt cel mai sigur mod de a călători pe gheață."
+            ],
+            "en": [
+              "Trolleybuses often follow a special winter schedule.",
+              "Wait in shops or cafes near the stop to stay warm.",
+              "Watch out for slush when getting on and off.",
+              "Trolleybuses are the most reliable way to get around on ice."
+            ]
+          }
+        }
       }
     }
   }

@@ -300,6 +300,188 @@
           "Some museums have limited opening hours, check them in advance.",
           "The weather in Finland can change quickly, pack a raincoat."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in Fagerkulla, wo die roten Holzhäuser im Regen besonders kräftig leuchten. Das Bremer Herrenhaus bietet einen eleganten Anblick unter grauem Himmel. Mittags tauchen Sie in die industrielle Welt des Högfors-Hochofens und des Gießereimuseums ein, die ideale Zufluchtsorte vor dem Nass bieten. Am Nachmittag bewundern Sie die kraftvollen Ala-Emäkoski-Stromschnellen.",
+            "hu": "Kezdje a napot Fagerkulla vörös faházai között, amelyek esőben még élénkebb színt öltenek. A Bremer-kúria elegáns látványt nyújt a szürke égbolt alatt is. Délben húzódjon be a Högfors nagyolvasztó és az Öntödei Múzeum falai közé, amelyek tökéletes menedéket nyújtanak. Délután nézze meg az Ala-Emäkoski zúgókat, ahol az esővíz felduzzasztja a folyót, majd pihenjen meg egy helyi kávézóban.",
+            "ro": "Începeți ziua în Fagerkulla, unde casele roșii de lemn strălucesc intens sub ploaie. Conacul Bremer oferă o priveliște elegantă chiar și sub cerul gri. La prânz, vizitați furnalul Högfors și Muzeul Turnătoriei, locuri ideale pentru a scăpa de umezeală. După-amiaza, admirați forța cascadelor Ala-Emäkoski, care devin și mai impresionante pe vreme ploioasă.",
+            "en": "Start the day in Fagerkulla, where red wooden houses look even more vibrant in the rain. The Bremer Mansion offers an elegant sight under grey skies. At noon, dive into the industrial world of the Högfors blast furnace and Foundry Museum, perfect shelters from the wet. In the afternoon, admire the powerful Ala-Emäkoski rapids, where the rain adds to the river's volume."
+          },
+          "stops": [
+            {
+              "name": "Fagerkulla Residential Area",
+              "tip_5lang": {
+                "de": "Schutz unter Dachvorsprüngen suchen.",
+                "hu": "Használja az ereszaljakat menedékként.",
+                "ro": "Căutați adăpost sub streșini.",
+                "en": "Seek shelter under the eaves of old houses."
+              }
+            },
+            {
+              "name": "Bremer Mansion",
+              "tip_5lang": {
+                "de": "Der Gartenweg kann schlammig sein.",
+                "hu": "A kerti ösvény sáros lehet.",
+                "ro": "Poteca din grădină poate fi noroioasă.",
+                "en": "The garden path might be muddy."
+              }
+            },
+            {
+              "name": "Högfors Blast Furnace",
+              "tip_5lang": {
+                "de": "Trockener Rückzugsort mit viel Geschichte.",
+                "hu": "Száraz menedék gazdag történelemmel.",
+                "ro": "Refugiu uscat cu multă istorie.",
+                "en": "Dry retreat with plenty of history."
+              }
+            },
+            {
+              "name": "Foundry Museum",
+              "tip_5lang": {
+                "de": "Ideal für eine lange Regenpause.",
+                "hu": "Ideális egy hosszú esőszünetre.",
+                "ro": "Ideal pentru o pauză lungă de ploaie.",
+                "en": "Ideal for a long break from the rain."
+              }
+            },
+            {
+              "name": "Church of Karkkila",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort zum Aufwärmen.",
+                "hu": "Csendes hely a felmelegedéshez.",
+                "ro": "Un loc liniștit pentru a te încălzi.",
+                "en": "A quiet place to warm up."
+              }
+            },
+            {
+              "name": "Ala-Emäkoski Rapids",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Stegen.",
+                "hu": "Vigyázat a nedves pallókon.",
+                "ro": "Atenție la podețele umede.",
+                "en": "Careful on the wet wooden walkways."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Regenjacke und wasserfeste Schuhe sind in Finnland Pflicht.",
+              "Das Gießereimuseum ist der beste Ort, um trocken zu bleiben.",
+              "Die Cafés im Zentrum bieten gemütliche Pausen.",
+              "Vorsicht vor rutschigem Laub auf den Gehwegen."
+            ],
+            "hu": [
+              "A vízálló cipő és esőkabát alapvető felszerelés.",
+              "Az Öntödei Múzeum a legjobb hely a hosszú esőzés idejére.",
+              "A központi kávézók barátságos menedéket nyújtanak.",
+              "Vigyázzon a csúszós levelekre a járdán."
+            ],
+            "ro": [
+              "Încălțămintea impermeabilă și pelerina sunt esențiale.",
+              "Muzeul Turnătoriei este cel mai bun loc pentru a sta la uscat.",
+              "Cafenelele din centru oferă refugii primitoare.",
+              "Atenție la frunzele alunecoase de pe trotuare."
+            ],
+            "en": [
+              "Waterproof shoes and a raincoat are essential gear.",
+              "The Foundry Museum is the best spot to stay dry.",
+              "Central cafes provide cozy shelters during downpours.",
+              "Beware of slippery leaves on the walkways."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Karkkila im Winter ist eine stille Industriestadt unter einer Schneedecke. Fagerkulla wirkt wie ein Weihnachtsdorf. Mittags wärmen Sie sich im Gießereimuseum auf, während draußen der Frost klirrt. Die Kirche von Karkkila bietet einen friedlichen Rückzugsort in der Kälte. Den Abschluss bilden die Ala-Emäkoski-Stromschnellen, deren eisfreies Wasser magisch im Dämmerlicht dampft.",
+            "hu": "Karkkila télen egy csendes iparváros a hólepel alatt. Fagerkulla ilyenkor olyan, mint egy karácsonyi falu. Délben melegedjen fel az Öntödei Múzeumban, miközben kint repkednek a mínuszok. A karkkilai templom békés menedék a hidegben. A napot az Ala-Emäkoski zúgók zárják, ahol a be nem fagyott víz varázslatosan gőzölög a korai szürkületben.",
+            "ro": "Karkkila iarna este un oraș industrial liniștit sub mantia de zăpadă. Fagerkulla arată ca un sat de Crăciun. La prânz, încălziți-vă în Muzeul Turnătoriei în timp ce afară este ger. Biserica din Karkkila oferă un refugiu pașnic. Ziua se încheie la cascadele Ala-Emäkoski, unde apa neînghețată aburește magic în amurgul timpuriu.",
+            "en": "Karkkila in winter is a quiet industrial town under a blanket of snow. Fagerkulla looks like a Christmas village. At noon, warm up in the Foundry Museum while the frost bites outside. The Church of Karkkila offers a peaceful sanctuary. The day ends at the Ala-Emäkoski rapids, where the unfrozen water steams magically in the early twilight."
+          },
+          "stops": [
+            {
+              "name": "Fagerkulla Residential Area",
+              "tip_5lang": {
+                "de": "Warm anziehen, die Häuser sind nur von außen zu sehen.",
+                "hu": "Öltözzön rétegesen, a házak csak kívülről nézhetők.",
+                "ro": "Îmbrăcați-vă bine, casele pot fi văzute doar din exterior.",
+                "en": "Dress warmly; the houses are only viewable from outside."
+              }
+            },
+            {
+              "name": "Bremer Mansion",
+              "tip_5lang": {
+                "de": "Wunderschön bei Sonnenuntergang gegen 15:00 Uhr.",
+                "hu": "Gyönyörű naplementekor, délután 3 körül.",
+                "ro": "Superb la apus, în jur de ora 15:00.",
+                "en": "Beautiful at sunset, around 3 PM."
+              }
+            },
+            {
+              "name": "Högfors Blast Furnace",
+              "tip_5lang": {
+                "de": "Historisches Gemäuer schützt vor dem Wind.",
+                "hu": "A történelmi falak védenek a széltől.",
+                "ro": "Zidurile istorice protejează împotriva vântului.",
+                "en": "Historical walls protect against the wind."
+              }
+            },
+            {
+              "name": "Foundry Museum",
+              "tip_5lang": {
+                "de": "Perfekt geheizt für eine Aufwärmpause.",
+                "hu": "Tökéletesen fűtött hely a felmelegedéshez.",
+                "ro": "Încălzit perfect pentru o pauză de dezghețare.",
+                "en": "Perfectly heated for a warming break."
+              }
+            },
+            {
+              "name": "Church of Karkkila",
+              "tip_5lang": {
+                "de": "Kerzenlicht sorgt für Wärme und Atmosphäre.",
+                "hu": "A gyertyafény melegséget és hangulatot áraszt.",
+                "ro": "Lumina lumânărilor oferă căldură și atmosferă.",
+                "en": "Candlelight provides warmth and atmosphere."
+              }
+            },
+            {
+              "name": "Ala-Emäkoski Rapids",
+              "tip_5lang": {
+                "de": "Achtung, Glatteisgefahr auf den Wegen!",
+                "hu": "Vigyázat, jegesedés várható az utakon!",
+                "ro": "Atenție, pericol de polei pe poteci!",
+                "en": "Caution: ice hazard on the paths!"
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 15:00-16:00 Uhr unter.",
+              "Tragen Sie Thermounterwäsche und Wollsocken.",
+              "Der Högfors-Bereich ist bei Schnee besonders fotogen.",
+              "Planen Sie regelmäßige Stopps in beheizten Innenräumen ein."
+            ],
+            "hu": [
+              "A nap télen már délután 3-4 között lenyugszik.",
+              "Viseljen termikus aláöltözetet és gyapjú zoknit.",
+              "A Högfors negyed különösen fotogén hóban.",
+              "Tervezzen rendszeres megállókat fűtött helyiségekben."
+            ],
+            "ro": [
+              "Soarele apune deja între orele 15:00 și 16:00.",
+              "Purtați lenjerie termică și șosete de lână.",
+              "Zona Högfors este extrem de fotogenică în zăpadă.",
+              "Planificați opriri regulate în spații încălzite."
+            ],
+            "en": [
+              "The sun sets between 3:00 and 4:00 PM in winter.",
+              "Wear thermal base layers and wool socks.",
+              "The Högfors area is extremely photogenic in the snow.",
+              "Plan regular stops in heated indoor spaces."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -617,6 +799,206 @@
           "The paths to the lake can be unpaved, a mountain or trekking bike is advantageous.",
           "Remember to bring water and snacks."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Karkkila bei Regen erfordert die richtige Ausrüstung. Starten Sie beim geschützten Gießereimuseum. Die Fahrt zu den Ala-Emäkoski-Stromschnellen ist kurz, aber erfrischend. Nachmittags radeln Sie zum Pyhäjärvi-See, wo der Regen auf die Wasseroberfläche trommelt. Die Tour endet gemütlich im Stadtzentrum bei einer heißen Mahlzeit.",
+            "hu": "Egy esős kerékpártúra Karkkilában megfelelő felszerelést igényel. Kezdjen a fedett Öntödei Múzeumnál. Az út az Ala-Emäkoski zúgókhoz rövid, de frissítő. Délután tekerjen el a Pyhäjärvi-tóhoz, ahol az eső kopog a vízen. A túra kényelmesen, a városközpontban zárul egy forró étel mellett.",
+            "ro": "O tură cu bicicleta prin Karkkila pe ploaie necesită echipament adecvat. Începeți la Muzeul Turnătoriei, care oferă adăpost. Drumul spre cascadele Ala-Emäkoski este scurt, dar revigorant. După-amiaza, pedalați spre lacul Pyhäjärvi. Turul se încheie relaxant în centrul orașului cu o masă caldă.",
+            "en": "A rainy bike tour in Karkkila requires the right gear. Start at the sheltered Foundry Museum. The ride to Ala-Emäkoski is short but refreshing. In the afternoon, cycle to Lake Pyhäjärvi, where rain drums on the water. The tour ends comfortably in the town center with a hot meal."
+          },
+          "stops": [
+            {
+              "name": "Högfors Blast Furnace & Foundry Museum",
+              "tip_5lang": {
+                "de": "Fahrradständer unter dem Vordach nutzen.",
+                "hu": "Használja az előtető alatti biciklitárolót.",
+                "ro": "Folosiți suportul de biciclete de sub copertină.",
+                "en": "Use the bike racks under the canopy."
+              }
+            },
+            {
+              "name": "Ala-Emäkoski Rapids",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Asphalt.",
+                "hu": "Vigyázzon a fékezéssel a vizes aszfalton.",
+                "ro": "Atenție la frânare pe asfaltul umed.",
+                "en": "Be careful when braking on wet asphalt."
+              }
+            },
+            {
+              "name": "Tehtaanpuisto Park",
+              "tip_5lang": {
+                "de": "Unter Bäumen kurzzeitig Schutz suchen.",
+                "hu": "A fák alatt rövid ideig menedéket talál.",
+                "ro": "Căutați adăpost temporar sub copaci.",
+                "en": "Seek temporary shelter under the trees."
+              }
+            },
+            {
+              "name": "Fagerkulla Residential Area",
+              "tip_5lang": {
+                "de": "Kopfsteinpflaster ist bei Regen sehr rutschig.",
+                "hu": "A macskakő esőben nagyon csúszik.",
+                "ro": "Pavelele sunt foarte alunecoase pe ploaie.",
+                "en": "Cobblestones are very slippery when wet."
+              }
+            },
+            {
+              "name": "Church of Karkkila",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder vorhanden.",
+                "hu": "Biztonságos biciklitároló áll rendelkezésre.",
+                "ro": "Există parcare sigură pentru biciclete.",
+                "en": "Safe bike parking available here."
+              }
+            },
+            {
+              "name": "Pyhäjärvi Lake",
+              "tip_5lang": {
+                "de": "Windfeste Kleidung am Seeufer nötig.",
+                "hu": "Szélálló ruházat szükséges a tóparton.",
+                "ro": "Haine rezistente la vânt pe malul lacului.",
+                "en": "Windproof clothing needed by the lake."
+              }
+            },
+            {
+              "name": "Return to Town Center",
+              "tip_5lang": {
+                "de": "Belohnen Sie sich mit einem warmen Kaffee.",
+                "hu": "Jutalmazza meg magát egy forró kávéval.",
+                "ro": "Recompensează-te cu o cafea caldă.",
+                "en": "Reward yourself with a hot coffee."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Vermeiden Sie schnelle Kurven auf nassem Kopfsteinpflaster.",
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit.",
+              "Ein wasserfester Sattelbezug spart viel Ärger."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Kerülje a gyors kanyarodást a vizes macskakövön.",
+              "Viseljen neon esőkabátot a jobb láthatóságért.",
+              "Egy vízálló nyereghuzat sok bosszúságtól megkíméli."
+            ],
+            "ro": [
+              "Apărătorile la bicicletă sunt obligatorii pe acest timp.",
+              "Evitați virajele strânse pe pavajul umed.",
+              "Purtați o pelerină reflectorizantă pentru vizibilitate.",
+              "O husă de șa impermeabilă te scapă de neplăceri."
+            ],
+            "en": [
+              "Mudguards are a must-have in this weather.",
+              "Avoid fast turns on wet cobblestones.",
+              "Wear a hi-vis raincoat for better visibility.",
+              "A waterproof saddle cover saves a lot of trouble."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterradeln in Karkkila ist für die Hartgesottenen. Der Vormittag gehört der Industriegeschichte im Högfors-Museum. Die Fahrt durch den verschneiten Tehtaanpuisto-Park ist märchenhaft. Nachmittags geht es zum Pyhäjärvi-See, der oft zugefroren ist und eine endlose weiße Weite bietet. Die Rückkehr ins Stadtzentrum ist der Höhepunkt, um die kalten Glieder aufzuwärmen.",
+            "hu": "A téli biciklizés Karkkilában a legelszántabbaknak való. A délelőtt az ipari történelemé a Högfors Múzeumban. A tekerés a havas Tehtaanpuisto parkon keresztül mesébe illő. Délután a Pyhäjärvi-tóhoz vezet az út, amely gyakran befagy és végtelen fehérséget kínál. A városközpontba való visszatérés a nap fénypontja a felmelegedéshez.",
+            "ro": "Ciclismul de iarnă în Karkkila este pentru cei rezistenți. Dimineața aparține istoriei industriale la Muzeul Högfors. Drumul prin parcul înzăpezit Tehtaanpuisto este de basm. După-amiaza mergeți spre lacul Pyhäjärvi, adesea înghețat. Întoarcerea în centrul orașului este momentul perfect pentru a vă încălzi.",
+            "en": "Winter cycling in Karkkila is for the hardy. The morning belongs to industrial history at the Högfors Museum. The ride through the snowy Tehtaanpuisto Park is fairytale-like. In the afternoon, head to Lake Pyhäjärvi, often frozen into an endless white plain. Returning to the town center is the highlight to warm up cold limbs."
+          },
+          "stops": [
+            {
+              "name": "Högfors Blast Furnace & Foundry Museum",
+              "tip_5lang": {
+                "de": "Bremsen Sie vorsichtig auf festgefahrenem Schnee.",
+                "hu": "Fékezzen óvatosan a letaposott havon.",
+                "ro": "Frânați cu grijă pe zăpada bătătorită.",
+                "en": "Brake cautiously on hard-packed snow."
+              }
+            },
+            {
+              "name": "Ala-Emäkoski Rapids",
+              "tip_5lang": {
+                "de": "Der Sprühnebel kann auf dem Rad gefrieren.",
+                "hu": "A felfröccsenő víz ráfagyhat a biciklire.",
+                "ro": "Vaporii de apă pot îngheța pe bicicletă.",
+                "en": "The mist from the rapids can freeze on your bike."
+              }
+            },
+            {
+              "name": "Tehtaanpuisto Park",
+              "tip_5lang": {
+                "de": "Achtung vor versteckten Wurzeln unter dem Schnee.",
+                "hu": "Vigyázzon a hó alatti rejtett gyökerekre.",
+                "ro": "Atenție la rădăcinile ascunse sub zăpadă.",
+                "en": "Watch out for hidden roots under the snow."
+              }
+            },
+            {
+              "name": "Fagerkulla Residential Area",
+              "tip_5lang": {
+                "de": "Schöne Weihnachtsbeleuchtung an den Holzhäusern.",
+                "hu": "Szép karácsonyi díszkivilágítás a faházakon.",
+                "ro": "Iluminație de Crăciun superbă la casele de lemn.",
+                "en": "Beautiful Christmas lights on the wooden houses."
+              }
+            },
+            {
+              "name": "Church of Karkkila",
+              "tip_5lang": {
+                "de": "Kurze Pause im warmen Vorraum möglich.",
+                "hu": "Rövid pihenő a meleg előtérben lehetséges.",
+                "ro": "Pauză scurtă posibilă în vestibulul cald.",
+                "en": "Short break possible in the warm vestibule."
+              }
+            },
+            {
+              "name": "Pyhäjärvi Lake",
+              "tip_5lang": {
+                "de": "Extremer Windchill am offenen See.",
+                "hu": "Extrém szélhideg a nyílt tóparton.",
+                "ro": "Senzație de frig extrem pe malul deschis al lacului.",
+                "en": "Extreme wind chill by the open lake."
+              }
+            },
+            {
+              "name": "Return to Town Center",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem schneefreien Platz.",
+                "hu": "Parkoljon hómentes helyen.",
+                "ro": "Parcați bicicleta într-un loc fără zăpadă.",
+                "en": "Park your bike in a snow-free spot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen sind auf finnischen Winterwegen sehr zu empfehlen.",
+              "Licht ist ab 15:00 Uhr lebensnotwendig.",
+              "Tragen Sie Skihandschuhe gegen den kalten Fahrtwind.",
+              "Akku-Lichter entladen sich bei Kälte schneller, Ersatz mitnehmen."
+            ],
+            "hu": [
+              "A szöges gumi erősen ajánlott a finn téli utakon.",
+              "A világítás délután 3-tól létfontosságú.",
+              "Viseljen síkesztyűt a hideg menetszél ellen.",
+              "Az akkus lámpák gyorsabban merülnek hidegben."
+            ],
+            "ro": [
+              "Anvelopele cu ținte sunt recomandate pe drumurile finlandeze.",
+              "Luminile sunt vitale începând cu ora 15:00.",
+              "Purtați mănuși de schi împotriva vântului rece.",
+              "Bateriile se descarcă mai repede la frig."
+            ],
+            "en": [
+              "Studded tires are highly recommended on Finnish winter paths.",
+              "Lights are vital starting from 3 PM.",
+              "Wear ski gloves against the cold wind while riding.",
+              "Battery lights drain faster in the cold; bring spares."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -917,6 +1299,188 @@
           "The car allows you to explore more distant natural areas as well.",
           "Combine car rides with short walks for the best experience."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Karkkila bequem und trocken. Beginnen Sie am Pyhäjärvi-See, wo Sie die Aussicht aus dem warmen Fahrzeug genießen können. Das Högfors-Industriegebiet bietet Parkplätze direkt bei den Museen, sodass Sie kaum nass werden. Nach dem Besuch der Ala-Emäkoski-Stromschnellen bietet das Stadtzentrum zahlreiche gastronomische Möglichkeiten für einen gemütlichen Abschluss.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel Karkkilát. Kezdjen a Pyhäjärvi-tónál, ahol a kilátást a meleg járműből is élvezheti. A Högfors ipari negyed parkolói közvetlenül a múzeumok mellett vannak. Az Ala-Emäkoski zúgók megtekintése után a városközpont számos gasztronómiai lehetőséget kínál a nap zárásához.",
+            "ro": "Cu mașina, explorați Karkkila confortabil și uscat. Începeți la lacul Pyhäjärvi, unde puteți admira vederea din vehiculul cald. Zona industrială Högfors are parcări chiar lângă muzee. După vizitarea cascadelor Ala-Emäkoski, centrul orașului oferă numeroase opțiuni gastronomice pentru un final plăcut.",
+            "en": "By car, you explore Karkkila comfortably and dry. Start at Lake Pyhäjärvi, where you can enjoy the view from your warm vehicle. The Högfors industrial area has parking right next to the museums. After visiting the Ala-Emäkoski rapids, the town center offers plenty of dining options for a cozy finish."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Pyhäjärvi Lake",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Ufer für die beste Sicht.",
+                "hu": "Parkoljon közel a parthoz a legjobb kilátásért.",
+                "ro": "Parcați aproape de mal pentru cea mai bună vedere.",
+                "en": "Park close to the shore for the best view."
+              }
+            },
+            {
+              "name": "Cluster 2: Högfors Industrial Area",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Parkplatz und Museum.",
+                "hu": "Rövid séta a parkoló és a múzeum között.",
+                "ro": "Distanță scurtă între parcare și muzeu.",
+                "en": "Short walk between the parking lot and the museum."
+              }
+            },
+            {
+              "name": "Högfors Blast Furnace",
+              "tip_5lang": {
+                "de": "Regenschirm für den kurzen Weg mitnehmen.",
+                "hu": "Vigyen esernyőt a rövid sétához.",
+                "ro": "Luați umbrela pentru drumul scurt.",
+                "en": "Take an umbrella for the short walk."
+              }
+            },
+            {
+              "name": "Foundry Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort bei Starkregen.",
+                "hu": "Tökéletes hely heves esőzés idején.",
+                "ro": "Locul perfect în timpul ploilor torențiale.",
+                "en": "Perfect spot during heavy rain."
+              }
+            },
+            {
+              "name": "Ala-Emäkoski Rapids",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf nassen Flächen.",
+                "hu": "Vigyázzon a kiszálláskor a nedves felületen.",
+                "ro": "Atenție la coborâre pe suprafețele umede.",
+                "en": "Be careful when getting out on wet surfaces."
+              }
+            },
+            {
+              "name": "Cluster 3: Town Center",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz nah an den Cafés.",
+                "hu": "Központi parkoló a kávézók közelében.",
+                "ro": "Parcare centrală aproape de cafenele.",
+                "en": "Central parking near the cafes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Scheibenwischer vor der Fahrt auf Funktion prüfen.",
+              "Die Straßen rund um den See können bei Regen rutschig sein.",
+              "Nutzen Sie Parkplätze mit direktem Zugang zu überdachten Bereichen.",
+              "Halten Sie die Fenster leicht offen, um Beschlagen zu vermeiden."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket indulás előtt.",
+              "A tó körüli utak csúszósak lehetnek esőben.",
+              "Használja a fedett bejáratokhoz közeli parkolókat.",
+              "Tartsa résnyire nyitva az ablakot a párásodás ellen."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de drum.",
+              "Drumurile din jurul lacului pot fi alunecoase.",
+              "Folosiți parcările cu acces direct la zone acoperite.",
+              "Țineți geamurile ușor deschise pentru a evita aburirea."
+            ],
+            "en": [
+              "Check windshield wipers before starting your trip.",
+              "Roads around the lake can be slippery in the rain.",
+              "Use parking spots with direct access to covered areas.",
+              "Keep windows slightly cracked to prevent fogging."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Auto in Finnland der sicherste Weg, um mobil zu bleiben. Beginnen Sie am tief verschneiten Pyhäjärvi-See, einer weißen Pracht. Im Högfors-Gebiet sind die Wege geräumt, sodass Sie bequem zu den industriellen Highlights gelangen. Nachmittags besuchen Sie die Ala-Emäkoski-Stromschnellen, bevor Sie zum Aufwärmen in das beleuchtete Stadtzentrum fahren, wo finnische Gemütlichkeit wartet.",
+            "hu": "Télen az autó a legbiztonságosabb módja a közlekedésnek Finnországban. Kezdjen a mély hóval borított Pyhäjärvi-tónál, amely ilyenkor fehér pompában tündököl. A Högfors negyedben az utak takarítottak. Délután látogassa meg az Ala-Emäkoski zúgókat, majd irány a kivilágított városközpont, ahol finn vendégszeretet várja.",
+            "ro": "Iarna, mașina este cea mai sigură cale de a rămâne mobil în Finlanda. Începeți la lacul Pyhäjärvi înzăpezit. În zona Högfors, drumurile sunt curățate. După-amiaza vizitați cascadele Ala-Emäkoski, înainte de a merge în centrul luminat al orașului pentru a vă încălzi.",
+            "en": "In winter, a car is the safest way to stay mobile in Finland. Start at the snow-covered Lake Pyhäjärvi, a white wonderland. In the Högfors area, paths are cleared for easy access to industrial highlights. In the afternoon, visit the Ala-Emäkoski rapids before heading to the lit-up town center for some Finnish coziness."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Pyhäjärvi Lake",
+              "tip_5lang": {
+                "de": "Nur auf geräumten Flächen parken.",
+                "hu": "Csak takarított területen parkoljon.",
+                "ro": "Parcați doar în zonele deszăpezite.",
+                "en": "Park only on cleared surfaces."
+              }
+            },
+            {
+              "name": "Cluster 2: Högfors Industrial Area",
+              "tip_5lang": {
+                "de": "Motor nicht zu lange im Stand laufen lassen.",
+                "hu": "Ne járassa hosszan a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit prea mult în staționare.",
+                "en": "Avoid idling the engine for too long."
+              }
+            },
+            {
+              "name": "Högfors Blast Furnace",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneeverwehungen am Parkplatz.",
+                "hu": "Vigyázzon a hófúvásokkal a parkolóban.",
+                "ro": "Atenție la troienele de zăpadă din parcare.",
+                "en": "Watch out for snowdrifts in the parking lot."
+              }
+            },
+            {
+              "name": "Foundry Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen.",
+                "hu": "Használja a múzeumlátogatást melegedésre.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi.",
+                "en": "Use the museum visit to warm up."
+              }
+            },
+            {
+              "name": "Ala-Emäkoski Rapids",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann glatt sein.",
+                "hu": "A parkoló jeges, csúszós lehet.",
+                "ro": "Parcarea poate fi alunecoasă.",
+                "en": "The parking area might be icy."
+              }
+            },
+            {
+              "name": "Cluster 3: Town Center",
+              "tip_5lang": {
+                "de": "Parkplätze mit Motorvorwärmung suchen.",
+                "hu": "Keressen motor-előmelegítős parkolóhelyet.",
+                "ro": "Căutați locuri de parcare cu preîncălzire.",
+                "en": "Look for parking spots with engine preheaters."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Finnland gesetzlich vorgeschrieben.",
+              "Ein Eiskratzer und ein kleiner Schneebesen sind Pflicht.",
+              "Batteriecheck vor der Tour ist bei extremer Kälte ratsam.",
+              "Fahren Sie vorsichtig, besonders auf ungeräumten Nebenstraßen."
+            ],
+            "hu": [
+              "A téli gumi törvényileg kötelező Finnországban.",
+              "Jégkaparó és hókefe elengedhetetlen tartozék.",
+              "Extrém hidegben tanácsos az akkumulátor ellenőrzése.",
+              "Vezessen óvatosan a takarítatlan mellékutakon."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege.",
+              "Răzuitoarea de gheață și peria de zăpadă sunt necesare.",
+              "Verificați bateria înainte de drum la frig extrem.",
+              "Conduceți cu prudență pe drumurile secundare necurățate."
+            ],
+            "en": [
+              "Winter tires are legally required in Finland.",
+              "An ice scraper and a small snow brush are mandatory.",
+              "A battery check before the tour is wise in extreme cold.",
+              "Drive carefully, especially on unplowed side roads."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1217,6 +1781,188 @@
           "Check the bus schedule, as buses may not run very frequently.",
           "Be prepared to walk between stops within the clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den öffentlichen Nahverkehr, um Karkkila trotz Regen zu entdecken. Die Busse bringen Sie ins Zentrum, von wo aus die Kirche und Fagerkulla gut erreichbar sind. Mittags bringt Sie der Transit zum Högfors-Gebiet, wo die Museen trockene Bildung bieten. Den Abschluss bildet ein spätes Mittagessen bei den Ala-Emäkoski-Stromschnellen, bevor Sie bequem mit dem Bus zurückfahren.",
+            "hu": "Használja a tömegközlekedést Karkkila felfedezéséhez esőben is. A buszok a központba visznek, ahonnan a templom és Fagerkulla könnyen elérhető. Délben utazzon a Högfors negyedbe, ahol a múzeumok száraz menedéket nyújtanak. A napot egy kései ebéd zárja az Ala-Emäkoski zúgóknál, majd kényelmes buszút vezet vissza.",
+            "ro": "Folosiți transportul public pentru a descoperi Karkkila în ciuda ploii. Autobuzele vă duc în centru, de unde biserica și Fagerkulla sunt ușor accesibile. La prânz, mergeți spre zona Högfors pentru muzee. Ziua se încheie cu un prânz târziu lângă cascade, urmat de o întoarcere relaxantă cu autobuzul.",
+            "en": "Use public transit to discover Karkkila despite the rain. Buses take you to the center, from where the church and Fagerkulla are easily reachable. At noon, transit takes you to the Högfors area, where museums offer dry education. The day ends with a late lunch by the rapids before a comfortable bus ride back."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Town Center",
+              "tip_5lang": {
+                "de": "Warten Sie im Unterstand der Bushaltestelle.",
+                "hu": "Várjon a buszmegálló fedett várójában.",
+                "ro": "Așteptați în adăpostul stației de autobuz.",
+                "en": "Wait in the shelter of the bus stop."
+              }
+            },
+            {
+              "name": "Church of Karkkila",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Bus, Schirm bereit halten.",
+                "hu": "Rövid séta a busztól, tartsa készenlétben az ernyőt.",
+                "ro": "Drum scurt de la autobuz, țineți umbrela pregătită.",
+                "en": "Short walk from the bus; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Fagerkulla Residential Area",
+              "tip_5lang": {
+                "de": "Busfrequenz bei Regen prüfen.",
+                "hu": "Ellenőrizze a buszjáratok sűrűségét esőben.",
+                "ro": "Verificați frecvența autobuzelor pe ploaie.",
+                "en": "Check bus frequency during rain."
+              }
+            },
+            {
+              "name": "Cluster 2: Högfors Industrial Area",
+              "tip_5lang": {
+                "de": "Haltestelle direkt am Museumseingang.",
+                "hu": "Megálló közvetlenül a múzeum bejáratánál.",
+                "ro": "Stație chiar la intrarea în muzeu.",
+                "en": "Stop is right at the museum entrance."
+              }
+            },
+            {
+              "name": "Högfors Blast Furnace & Foundry Museum",
+              "tip_5lang": {
+                "de": "Trocknen Sie Kleidung in der Garderobe.",
+                "hu": "Szárítsa meg ruháit a ruhatárban.",
+                "ro": "Uscați-vă hainele la garderobă.",
+                "en": "Dry your clothes in the cloakroom."
+              }
+            },
+            {
+              "name": "Ala-Emäkoski Rapids & Lunch",
+              "tip_5lang": {
+                "de": "Restaurant ist ein perfekter Regenschutz.",
+                "hu": "Az étterem tökéletes védelem az eső elől.",
+                "ro": "Restaurantul este o protecție perfectă contra ploii.",
+                "en": "The restaurant is a perfect shelter from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeit-Busabfahrten.",
+              "Halten Sie Kleingeld oder eine Fahrkarte bereit.",
+              "Bushaltestellen bieten oft nur begrenzten Regenschutz.",
+              "Planen Sie Pufferzeiten ein, da der Verkehr bei Regen langsamer sein kann."
+            ],
+            "hu": [
+              "Használja az alkalmazást a valós idejű buszinduláshoz.",
+              "Legyen kéznél aprópénz vagy menetjegy.",
+              "A buszmegállók gyakran csak korlátozott védelmet nyújtanak.",
+              "Tervezzen ráhagyással, az eső lassíthatja a közlekedést."
+            ],
+            "ro": [
+              "Utilizați aplicația pentru plecările în timp real.",
+              "Aveți la îndemână mărunt sau biletul.",
+              "Stațiile de autobuz oferă adesea adăpost limitat.",
+              "Planificați timp suplimentar, traficul poate fi mai lent."
+            ],
+            "en": [
+              "Use the app for real-time bus departures.",
+              "Have change or a ticket ready.",
+              "Bus stops often provide limited shelter from rain.",
+              "Plan for extra time as traffic can be slower in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreisen mit dem Bus sind in Karkkila entspannt und warm. Starten Sie im winterlichen Stadtzentrum. Der Transit bringt Sie zuverlässig zum Högfors-Viertel, wo Sie die Industriekultur ohne Parkplatzsuche genießen können. Nachmittags besuchen Sie die Ala-Emäkoski-Stromschnellen, die im Schnee besonders friedlich wirken. Ein warmes Mittagessen rundet die Tour ab, bevor der Bus Sie zurückbringt.",
+            "hu": "A téli buszos utazás Karkkilában pihentető és meleg. Kezdjen a télies városközpontban. A tömegközlekedés megbízhatóan viszi a Högfors negyedbe, ahol parkolási gondok nélkül élvezheti az ipari kultúrát. Délután látogassa meg az Ala-Emäkoski zúgókat, amelyek békések a hóban. Egy meleg ebéd zárja a túrát, mielőtt a busz visszaviszi.",
+            "ro": "Călătoria cu autobuzul iarna în Karkkila este relaxantă. Începeți în centrul orașului. Transportul vă duce sigur în cartierul Högfors, unde vă bucurați de cultura industrială fără grija parcării. După-amiaza vizitați cascadele Ala-Emäkoski, superbe în zăpadă. Un prânz cald completează turul înainte de întoarcere.",
+            "en": "Winter travel by bus in Karkkila is relaxing and warm. Start in the wintry town center. Transit reliably takes you to the Högfors district, where you can enjoy industrial culture without parking worries. In the afternoon, visit the Ala-Emäkoski rapids, peaceful in the snow. A warm lunch completes the tour before the bus takes you back."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Town Center",
+              "tip_5lang": {
+                "de": "Beheizte Wartezimmer in größeren Stationen nutzen.",
+                "hu": "Használja a fűtött várótermeket a nagyobb állomásokon.",
+                "ro": "Folosiți sălile de așteptare încălzite în stațiile mari.",
+                "en": "Use heated waiting rooms in larger stations."
+              }
+            },
+            {
+              "name": "Church of Karkkila",
+              "tip_5lang": {
+                "de": "Achtung beim Ein- und Aussteigen auf Eis.",
+                "hu": "Vigyázzon a fel- és leszálláskor a jégre.",
+                "ro": "Atenție la urcare și coborâre pe gheață.",
+                "en": "Careful when getting on or off on icy ground."
+              }
+            },
+            {
+              "name": "Fagerkulla Residential Area",
+              "tip_5lang": {
+                "de": "Kurze Fahrzeiten minimieren die Kälteexposition.",
+                "hu": "A rövid utazási idő csökkenti a hidegben töltött időt.",
+                "ro": "Timpul scurt de călătorie minimizează expunerea la frig.",
+                "en": "Short travel times minimize cold exposure."
+              }
+            },
+            {
+              "name": "Cluster 2: Högfors Industrial Area",
+              "tip_5lang": {
+                "de": "Busse sind im Winter gut beheizt.",
+                "hu": "A buszok télen jól fűtöttek.",
+                "ro": "Autobuzele sunt bine încălzite iarna.",
+                "en": "Buses are well-heated in winter."
+              }
+            },
+            {
+              "name": "Högfors Blast Furnace & Foundry Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Transit für den Weg zur Wärme.",
+                "hu": "Használja a tömegközlekedést a melegbe jutáshoz.",
+                "ro": "Folosiți transportul pentru a ajunge la căldură.",
+                "en": "Use transit to get to the warmth."
+              }
+            },
+            {
+              "name": "Ala-Emäkoski Rapids & Lunch",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan für die Rückfahrt genau.",
+                "hu": "Pontosan ellenőrizze a visszautat a menetrendben.",
+                "ro": "Verificați bine orarul pentru întoarcere.",
+                "en": "Double-check the return schedule carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren in Finnland auch bei viel Schnee meist pünktlich.",
+              "Tragen Sie warme Schuhe, da Haltestellen oft zugig sind.",
+              "Dunkelheit setzt früh ein, Reflektoren an der Kleidung tragen.",
+              "Im Bus ist es warm, tragen Sie Schichten zum einfachen Ausziehen."
+            ],
+            "hu": [
+              "A buszok Finnországban nagy hóban is többnyire pontosak.",
+              "Viseljen meleg cipőt, a megállók huzatosak lehetnek.",
+              "Korán sötétedik, viseljen fényvisszaverőt a ruháján.",
+              "A buszon meleg van, öltözzön rétegesen."
+            ],
+            "ro": [
+              "Autobuzele circulă de obicei la timp, chiar și pe zăpadă.",
+              "Purtați încălțăminte călduroasă, stațiile pot fi reci.",
+              "Se întunecă devreme, purtați elemente reflectorizante.",
+              "În autobuz este cald, purtați haine în straturi."
+            ],
+            "en": [
+              "Buses in Finland usually run on time even in heavy snow.",
+              "Wear warm shoes as bus stops can be drafty.",
+              "Darkness sets in early; wear reflectors on your clothing.",
+              "It's warm on the bus; wear layers for easy removal."
+            ]
+          }
+        }
       }
     }
   }

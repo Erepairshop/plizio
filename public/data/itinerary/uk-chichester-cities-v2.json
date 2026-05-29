@@ -379,6 +379,214 @@
           "Look out for the Roman numerals on street signs, indicating the four original quadrants of the city.",
           "Much of the old city walls are walkable and offer a different perspective on the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen unter dem Schutz des Market Cross, bevor Sie in die warme Stille der Kathedrale flüchten. Mittags bieten die Museen Novium und Pallant House perfekte Zufluchtsorte vor dem englischen Regen. Der Nachmittag verbringen Sie zwischen Kunst und römischen Ruinen. Abends wärmen Sie sich bei einem gemütlichen Dinner im historischen Zentrum wieder auf.",
+            "hu": "Kezdje a reggelt az esernyője alatt a Market Crossnál, majd keressen menedéket a katedrális fenséges falai között. Ebédidőben a Novium és a Pallant House Gallery nyújt fedett kulturális élményt. Délután egy rövid, frissítő séta vár a parkban, majd az estét egy hangulatos, belvárosi étterem melegében zárhatja, távol a szürke esőtől.",
+            "ro": "Începeți dimineața sub adăpostul Market Cross, apoi refugiați-vă în liniștea caldă a Catedralei. La prânz, muzeele Novium și Pallant House oferă adăpostul perfect împotriva ploii englezești. După-amiaza este dedicată artei și istoriei, ferite de intemperii. Seara, relaxați-vă cu o cină caldă în centrul istoric, ascultând ploaia de afară.",
+            "en": "Start your morning sheltered by the Market Cross before escaping into the warm silence of the Cathedral. At midday, the Novium and Pallant House Gallery provide perfect refuges from the English rain. Spend your afternoon between art and Roman history. In the evening, warm up with a cozy dinner in the city centre, safely away from the damp streets."
+          },
+          "stops": [
+            {
+              "name": "Chichester Market Cross",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Arkadengang als ersten Treffpunkt im Trockenen.",
+                "hu": "Használja az árkádokat gyülekezőhelyként, amíg eláll az eső.",
+                "ro": "Folosiți arcadele ca punct de întâlnire pentru a rămâne uscați.",
+                "en": "Use the vaulted arches as a dry meeting point to check your map."
+              }
+            },
+            {
+              "name": "Chichester Cathedral",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Marc Chagall Fenster bei dramatischem Regenlicht.",
+                "hu": "Csodálja meg a Chagall-ablakokat a drámai esős fényviszonyok közt.",
+                "ro": "Admirați vitraliile lui Marc Chagall sub lumina dramatică a ploii.",
+                "en": "Admire the Marc Chagall windows under the moody, rainy light."
+              }
+            },
+            {
+              "name": "Bishop's Palace Gardens",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Wege; die befestigten Pfade nutzen.",
+                "hu": "Vigyázzon a csúszós kövekre, maradjon a kijelölt utakon.",
+                "ro": "Atenție la aleile alunecoase; rămâneți pe potecile pavate.",
+                "en": "Watch for slippery moss on the stone paths; stick to the gravel."
+              }
+            },
+            {
+              "name": "The Novium Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den stärksten Regenschauer trocken zu überstehen.",
+                "hu": "Tökéletes helyszín a legnagyobb záporok átvészelésére.",
+                "ro": "Locul ideal pentru a aștepta trecerea celei mai puternice ploi.",
+                "en": "The perfect indoor spot to wait out the heaviest downpours."
+              }
+            },
+            {
+              "name": "Pallant House Gallery",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Café im Innenhof für eine Tasse Tee im Trockenen.",
+                "hu": "Igyon egy forró teát a galéria fedett kávézójában.",
+                "ro": "Savurați un ceai cald în cafeneaua acoperită a galeriei.",
+                "en": "Warm up with a pot of tea in the gallery's excellent indoor cafe."
+              }
+            },
+            {
+              "name": "Priory Park",
+              "tip_5lang": {
+                "de": "Die Bäume bieten etwas Schutz, aber Regenschirm ist Pflicht.",
+                "hu": "A fák némi védelmet nyújtanak, de az esernyő itt kötelező.",
+                "ro": "Copacii oferă puțin adăpost, dar umbrela este indispensabilă.",
+                "en": "The mature trees offer some shelter, but an umbrella is essential."
+              }
+            },
+            {
+              "name": "Dinner in the City Centre",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
+                "hu": "Válasszon olyan helyet, ahol van ruhatár a vizes kabátoknak.",
+                "ro": "Alegeți un restaurant cu garderobă pentru hainele ude.",
+                "en": "Choose a spot with a proper cloakroom for your wet coats."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Pflastersteine Pfützen bilden.",
+              "Viele Geschäfte in der North Street haben Vordächer zum Unterstellen.",
+              "Die Kathedrale bietet kostenlose Führungen, ideal bei schlechtem Wetter.",
+              "Nutzen Sie den Novium Museum Shop für Souvenirs im Trockenen.",
+              "Ein kompakter Regenschirm ist wegen des Windes besser als ein großer."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskaköveken megáll a víz.",
+              "A North Street üzletei előtt sokszor van előtető a gyalogosoknak.",
+              "A katedrális belső tere ingyenesen látogatható és teljesen száraz.",
+              "A Novium múzeum boltjában fedett helyen vásárolhat emléktárgyakat.",
+              "A szél miatt egy erős, kompakt esernyő praktikusabb, mint a nagyok."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul reține apa în bălți.",
+              "Multe magazine de pe North Street au copertine sub care vă puteți adăposti.",
+              "Catedrala oferă vizite interioare gratuite, ideale pe vreme rea.",
+              "Explorați magazinul muzeului Novium pentru suveniruri la adăpost.",
+              "O umbrelă compactă și rezistentă e preferabilă din cauza vântului."
+            ],
+            "en": [
+              "Wear waterproof shoes as the uneven cobbles tend to collect puddles.",
+              "North Street shops often have overhanging upper floors for shelter.",
+              "The Cathedral's interior is free to enter and completely dry.",
+              "The Novium Museum shop is a great place for indoor souvenir hunting.",
+              "A sturdy, compact umbrella is better than a large one in city winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Chichester im klaren Winterlicht, beginnend am historischen Kreuz. Die Kathedrale bietet einen friedlichen Rückzugsort vor der Kälte. Nach einem wärmenden Mittagessen erkunden Sie die Museen, wenn es draußen früh dämmert. Der Spaziergang im Priory Park bei Sonnenuntergang ist kurz, bevor die Lichter der Stadt zum gemütlichen Abendessen einladen.",
+            "hu": "Fedezze fel Chichestert a tiszta téli fényekben, kezdve a történelmi keresztnél. A katedrális békés és fűtött menedéket nyújt a hideg ellen. A melengető ebéd után látogassa meg a múzeumokat, mielőtt korán leszáll az alkony. A Priory Park téli naplementéje után a város fényei hívogatnak egy meghitt vacsorára.",
+            "ro": "Descoperiți Chichester în lumina clară de iarnă, începând de la crucea istorică. Catedrala oferă un refugiu liniștit și încălzit împotriva frigului. După un prânz revigorant, explorați muzeele pe măsură ce se lasă amurgul. Apusul în Priory Park este scurt, înainte ca luminile orașului să vă cheme la cină.",
+            "en": "Experience Chichester in the crisp winter light, starting at the historic cross. The Cathedral offers a peaceful, heated retreat from the chill. After a warming lunch, explore the museums as the early twilight settles in. A sunset stroll in Priory Park is brief but beautiful before the city lights lead you to a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Chichester Market Cross",
+              "tip_5lang": {
+                "de": "Morgens oft sehr zugig; Handschuhe und Schal einplanen.",
+                "hu": "Reggelente nagyon huzatos; kesztyű és sál erősen ajánlott.",
+                "ro": "Dimineața este foarte curent; nu uitați mănușile și fularul.",
+                "en": "Often breezy in the morning; keep your gloves and scarf on."
+              }
+            },
+            {
+              "name": "Chichester Cathedral",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Atmosphäre und die Kerzenlichter.",
+                "hu": "Élvezze a békés, meleg hangulatot és a gyertyák fényét.",
+                "ro": "Bucurați-vă de atmosfera caldă și de lumina lumânărilor.",
+                "en": "Enjoy the peaceful, heated interior and the warm candlelight."
+              }
+            },
+            {
+              "name": "Bishop's Palace Gardens",
+              "tip_5lang": {
+                "de": "Die Gärten schließen im Winter oft früher (ca. 16:00 Uhr).",
+                "hu": "A kert télen korábban, gyakran már 16:00-kor bezár.",
+                "ro": "Grădinile se închid adesea mai devreme iarna (în jur de 16:00).",
+                "en": "The gardens often close early in winter, usually around 4 PM."
+              }
+            },
+            {
+              "name": "The Novium Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich auf, während Sie römische Mosaike studieren.",
+                "hu": "Melegedjen fel, miközben a római mozaikokat tanulmányozza.",
+                "ro": "Încălziți-vă în timp ce studiați mozaicurile romane.",
+                "en": "A great place to warm up while studying the Roman mosaics."
+              }
+            },
+            {
+              "name": "Pallant House Gallery",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winterausstellungen im Hauptgebäude.",
+                "hu": "Nézze meg a főépület speciális téli időszaki kiállításait.",
+                "ro": "Verificați expozițiile de iarnă din clădirea principală.",
+                "en": "Check out the seasonal winter exhibitions in the main house."
+              }
+            },
+            {
+              "name": "Priory Park",
+              "tip_5lang": {
+                "de": "Sonnenuntergang gegen 16:15 Uhr; ideal für blaue Stunde Fotos.",
+                "hu": "A naplemente 16:15 körül van; fotózzon a kék órában.",
+                "ro": "Apusul este în jur de 16:15; ideal pentru fotografii la crepuscul.",
+                "en": "Sunset is around 4:15 PM; catch the blue hour over the walls."
+              }
+            },
+            {
+              "name": "Dinner in the City Centre",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch in der Nähe des Kamins.",
+                "hu": "Foglaljon asztalt a kandalló vagy a fűtőtest közelében.",
+                "ro": "Rezervați o masă lângă șemineu pentru o seară autentică.",
+                "en": "Book a table near the fireplace for a quintessential winter evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits vor 16:30 Uhr unter.",
+              "Einige Cafés bieten speziellen 'Winter Afternoon Tea' an.",
+              "Die Pflastersteine können bei Frost extrem glatt sein.",
+              "In der Kathedrale finden oft stimmungsvolle Chorkonzerte statt.",
+              "Tragen Sie Schichten, da Museen gut geheizt, Straßen aber kalt sind."
+            ],
+            "hu": [
+              "A nap decemberben már 16:30 előtt lenyugszik.",
+              "Sok kávézó kínál különleges téli délutáni teát.",
+              "A macskakövek fagy esetén rendkívül csúszósak lehetnek.",
+              "A katedrálisban gyakran tartanak hangulatos kóruskoncerteket.",
+              "Öltözzön rétegesen: a múzeumok fűtöttek, az utca hideg."
+            ],
+            "ro": [
+              "Soarele apune înainte de ora 16:30 în luna decembrie.",
+              "Multe cafenele oferă 'Winter Afternoon Tea' cu specific local.",
+              "Pavajul poate deveni extrem de alunecos în caz de îngheț.",
+              "Catedrala găzduiește adesea concerte corale de iarnă.",
+              "Îmbrăcați-vă în straturi; muzeele sunt calde, dar afară e ger."
+            ],
+            "en": [
+              "Sunset occurs before 4:30 PM in December; plan outdoor stops early.",
+              "Many local cafes offer seasonal 'Winter Afternoon Tea' menus.",
+              "Cobblestones can become dangerously slippery in frosty conditions.",
+              "Look out for atmospheric evensong services in the Cathedral.",
+              "Dress in layers: museums are well-heated but the streets are chilly."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +960,214 @@
           "Most central streets are cycle-friendly, but you may need to dismount in pedestrianised areas.",
           "Some cycle paths follow the old Roman roads, adding a historical dimension to your ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour beginnt am Theater, führt aber schnell ins trockene Novium Museum. Die Fahrt zur Kathedrale ist kurz, doch der Weg zum Fishbourne Palace erfordert gute Regenbekleidung. Nach einem stärkenden Lunch geht es zurück durch den Priory Park, wobei Sie die rutschigen Wege meistern, um den Tag am Market Cross abzuschließen.",
+            "hu": "Az esős bringázás a színháztól indul, de gyorsan a Novium múzeum száraz falai közé vezet. A katedrálisig tartó út rövid, ám a Fishbourne Palace felé vezető szakaszhoz komoly esőfelszerelés kell. Ebéd után a Priory Parkon át vezet az út, ügyelve a csúszós kanyarokra, egészen a Market Crossig.",
+            "ro": "O tură cu bicicleta pe ploaie începe la teatru, dar vă duce rapid la muzeul Novium. Drumul spre catedrală e scurt, însă traseul spre Fishbourne Palace necesită echipament impermeabil. După prânz, reveniți prin Priory Park, stăpânind aleile ude, până la Market Cross.",
+            "en": "A damp cycle starts at the theatre but quickly leads to the dry Novium Museum. The ride to the Cathedral is short, but the route to Fishbourne Palace requires good waterproofs. After a hearty lunch, cycle back through Priory Park, navigating slippery paths, to finish at the Market Cross."
+          },
+          "stops": [
+            {
+              "name": "Chichester Festival Theatre",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Fedett kerékpártárolók találhatók a főbejárat közelében.",
+                "ro": "Rastelurile acoperite sunt situate lângă intrarea principală.",
+                "en": "Covered bike racks are located near the main entrance."
+              }
+            },
+            {
+              "name": "The Novium Museum",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihre Ausrüstung im Foyer, während Sie ausstellen.",
+                "hu": "Szárítsa meg a felszerelését az előtérben a látogatás alatt.",
+                "ro": "Lăsați echipamentul la uscat în hol pe durata vizitei.",
+                "en": "Dry off your gear in the lobby while you explore the exhibits."
+              }
+            },
+            {
+              "name": "Chichester Cathedral",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf den nassen Steinplatten.",
+                "hu": "Vigyázzon a leszállásnál a vizes, csúszós kőlapokon.",
+                "ro": "Atenție la coborârea de pe bicicletă pe dalele ude.",
+                "en": "Careful when dismounting on the wet, slippery stone slabs."
+              }
+            },
+            {
+              "name": "Fishbourne Roman Palace",
+              "tip_5lang": {
+                "de": "Der Radweg entlang der A259 kann viele Pfützen haben.",
+                "hu": "Az A259 menti kerékpárút ilyenkor gyakran tócsás.",
+                "ro": "Pista de biciclete de-a lungul A259 poate avea multe bălți.",
+                "en": "The cycle path along the A259 can be quite puddled; stay alert."
+              }
+            },
+            {
+              "name": "Lunch in Fishbourne",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Pub mit Platz für nasse Regenjacken.",
+                "hu": "Keressen olyan pubot, ahol van hely a vizes esőkabátoknak.",
+                "ro": "Alegeți un pub cu spațiu pentru pelerinele de ploaie ude.",
+                "en": "Choose a pub with plenty of hooks for dripping waterproofs."
+              }
+            },
+            {
+              "name": "Priory Park",
+              "tip_5lang": {
+                "de": "Die Wege unter den Bäumen sind oft mit nassem Laub bedeckt.",
+                "hu": "A fák alatti utakat gyakran borítja csúszós, vizes levél.",
+                "ro": "Aleile de sub copaci sunt adesea acoperite cu frunze ude.",
+                "en": "Paths under the trees are often covered in slippery wet leaves."
+              }
+            },
+            {
+              "name": "Chichester Market Cross",
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad kurz unter dem Dach für ein Foto.",
+                "hu": "Zárja le a biciklit az építmény védelmében egy fotó erejéig.",
+                "ro": "Asigurați bicicleta sub adăpost pentru o fotografie rapidă.",
+                "en": "Lock your bike briefly under the structure's edge for a photo."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um Schmutzspritzer zu vermeiden.",
+              "Bremse früher, da nasse Felgen einen längeren Bremsweg haben.",
+              "Vermeiden Sie das Überfahren von nassen Fahrbahnmarkierungen.",
+              "Eine wasserdichte Kartentasche am Lenker ist sehr hilfreich.",
+              "Beleuchtung einschalten, da die Sicht bei Regen oft schlecht ist."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó víz és sár ellen.",
+              "Fékezzen korábban, a vizes felniken hosszabb a fékút.",
+              "Kerülje a kanyarodást a vizes felfestéseken és útburkolati jeleken.",
+              "Egy vízálló laptok a kormányon sokat segít a tájékozódásban.",
+              "Kapcsolja be a lámpákat, esőben jelentősen romlik a láthatóság."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a evita stropirea cu noroi.",
+              "Frânați mai devreme; jantele ude măresc distanța de frânare.",
+              "Evitați marcajele rutiere ude, sunt extrem de alunecoase.",
+              "O husă impermeabilă pentru hartă pe ghidon este foarte utilă.",
+              "Aprindeți luminile; vizibilitatea scade drastic pe timp de ploaie."
+            ],
+            "en": [
+              "Use mudguards to prevent road spray from soaking your back.",
+              "Brake earlier as wet rims significantly increase stopping distance.",
+              "Avoid leaning into turns over wet road markings or manhole covers.",
+              "A waterproof phone or map mount on your bars is essential.",
+              "Turn on your lights; visibility is much poorer in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Theater weckt die Geister. Nach dem Besuch im Novium radeln Sie zur Kathedrale, um sich aufzuwärmen. Die längere Fahrt zum Fishbourne Palace führt durch kahle, aber schöne Landschaften. Ein warmes Mittagessen gibt Kraft für die Rückfahrt durch den Priory Park, bevor Sie bei Sonnenuntergang das Market Cross erreichen.",
+            "hu": "A friss téli reggel a színháznál ébresztőt fúj. A Novium látogatása után tekerjen a katedrálishoz felmelegedni. A hosszabb út a Fishbourne Palace-hoz kopár, de látványos tájakon át vezet. Egy forró ebéd ad erőt a Priory Parkon átvezető visszatéréshez, mielőtt naplementekor elérné a Market Crosst.",
+            "ro": "O dimineață răcoroasă de iarnă la teatru vă înviorează. După Novium, pedalați spre catedrală pentru a vă încălzi. Drumul mai lung spre Fishbourne Palace trece prin peisaje golașe, dar superbe. Un prânz cald vă dă putere pentru revenirea prin Priory Park, înainte de apus la Market Cross.",
+            "en": "A crisp winter morning at the theatre wakes the senses. After Novium, cycle to the Cathedral to warm up. The longer ride to Fishbourne Palace takes you through bleak but beautiful landscapes. A hot lunch provides energy for the return through Priory Park, reaching the Market Cross just as the winter sun sets."
+          },
+          "stops": [
+            {
+              "name": "Chichester Festival Theatre",
+              "tip_5lang": {
+                "de": "Der offene Parkplatz kann morgens sehr frostig sein.",
+                "hu": "A nyitott parkoló reggelente jeges és szeles lehet.",
+                "ro": "Parcarea deschisă poate fi foarte înghețată dimineața.",
+                "en": "The open car park area can be very frosty in the morning."
+              }
+            },
+            {
+              "name": "The Novium Museum",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und nutzen Sie die Schließfächer für Helme.",
+                "hu": "Zárja le a bringát, és használja a sisaktároló szekrényeket.",
+                "ro": "Parcați bicicleta și folosiți vestiarele pentru căști.",
+                "en": "Park your bike and use the lockers inside for your helmet/layers."
+              }
+            },
+            {
+              "name": "Chichester Cathedral",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen der Finger ist ratsam.",
+                "hu": "Érdemes beugrani csak azért is, hogy felmelegítse az ujjait.",
+                "ro": "O oprire scurtă pentru a vă încălzi degetele este recomandată.",
+                "en": "A quick stop inside to thaw out your fingers is highly recommended."
+              }
+            },
+            {
+              "name": "Fishbourne Roman Palace",
+              "tip_5lang": {
+                "de": "Achtung vor Glatteis auf dem Radweg in Schattenbereichen.",
+                "hu": "Vigyázzon a fekete jégre a kerékpárút árnyékos részein.",
+                "ro": "Atenție la polei pe pista de biciclete în zonele cu umbră.",
+                "en": "Watch out for black ice on the cycle path in shaded areas."
+              }
+            },
+            {
+              "name": "Lunch in Fishbourne",
+              "tip_5lang": {
+                "de": "Bestellen Sie eine heiße Suppe, um die Körperwärme zu halten.",
+                "hu": "Rendeljen forró levest, hogy visszanyerje a testhőjét.",
+                "ro": "Comandați o supă caldă pentru a vă recupera temperatura corpului.",
+                "en": "Order a hot soup to restore your core temperature for the ride."
+              }
+            },
+            {
+              "name": "Priory Park",
+              "tip_5lang": {
+                "de": "Die Wege sind bei Frost oft sehr hart; auf Erschütterungen achten.",
+                "hu": "A fagyott talaj rázósabb lehet; figyeljen az úthibákra.",
+                "ro": "Aleile înghețate sunt dure; atenție la șocurile în ghidon.",
+                "en": "Frozen paths are very hard; watch out for bumps and ruts."
+              }
+            },
+            {
+              "name": "Chichester Market Cross",
+              "tip_5lang": {
+                "de": "Die Lichter am Kreuz wirken in der Winterdämmerung magisch.",
+                "hu": "A Market Cross fényei varázslatosak a téli szürkületben.",
+                "ro": "Luminile de la Market Cross sunt magice în amurgul de iarnă.",
+                "en": "The lights at the Cross look magical in the winter twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine warme Mütze unterm Helm.",
+              "Die Kette benötigt im Winter mehr Öl wegen Streusalz.",
+              "Achten Sie auf die frühe Dunkelheit; Lichtcheck ist Pflicht.",
+              "Trinken Sie ausreichend, auch wenn Sie weniger Durst verspüren.",
+              "Warme Socken sind entscheidend für die Fahrt nach Fishbourne."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sisak alá való vékony sapkát.",
+              "A láncnak télen több olajozás kell az útszóró só miatt.",
+              "Ügyeljen a korai sötétedésre; a világítás ellenőrzése kötelező.",
+              "Igyon eleget, akkor is, ha a hidegben kevésbé érzi szomjasnak magát.",
+              "A Fishbourne-i út előtt a meleg zokni a legfontosabb."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Lanțul necesită mai multă ungere iarna din cauza sării de pe drum.",
+              "Atenție la întunericul timpuriu; verificarea luminilor e vitală.",
+              "Hidratați-vă constant, chiar dacă nu simțiți senzația de sete.",
+              "Șosetele termice sunt esențiale pentru traseul spre Fishbourne."
+            ],
+            "en": [
+              "Wear windproof gloves and a thermal skull cap under your helmet.",
+              "Your chain needs more frequent lubing due to road salt.",
+              "Be mindful of early darkness; a full light check is mandatory.",
+              "Stay hydrated even if you don't feel thirsty in the cold.",
+              "Thermal socks are the MVP for the ride out to Fishbourne."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1132,6 +1548,214 @@
           "Traffic can be heavy during peak times, so plan your drives between sites accordingly.",
           "Be aware of the signage for the 'Roman Palace' as it is slightly out of town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Chichester trocken und komfortabel. Starten Sie beim Fishbourne Palace, wo Sie nah am Eingang parken. Der Stadtkern ist nur eine kurze Fahrt entfernt; nutzen Sie das Parkhaus für den Besuch der Kathedrale und der Pallant House Gallery. Ein kurzer Lauf zum Market Cross zwischen den Schauern rundet den Nachmittag ab, bevor Sie zum Theater fahren.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel Chichestert. Kezdje a Fishbourne Palace-nál, ahol közel parkolhat a bejárathoz. A városközpont csak rövid út; használja a parkolóházat a katedrális és a galéria látogatásához. Két zápor között ugorjon el a Market Crosshoz, majd zárja a napot a színháznál.",
+            "ro": "Cu mașina explorați Chichester uscat și confortabil. Începeți la Fishbourne Palace, unde puteți parca aproape de intrare. Centrul orașului e la o scurtă distanță; folosiți parcarea etajată pentru catedrală și galerie. O vizită rapidă la Market Cross între averse, apoi mergeți spre teatru.",
+            "en": "By car, you can explore Chichester in dry comfort. Start at Fishbourne Palace with easy nearby parking. The city centre is a quick drive; use a multi-storey car park for the Cathedral and Gallery. Dart to the Market Cross between showers, then drive to the theatre for the final stops."
+          },
+          "stops": [
+            {
+              "name": "Fishbourne Roman Palace",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist befestigt, sodass Sie keine nassen Füße bekommen.",
+                "hu": "A parkoló szilárd burkolatú, így nem lesz vizes a lába.",
+                "ro": "Parcarea este pavată, deci nu vă veți uda la picioare.",
+                "en": "The car park is paved, so you won't get wet feet getting out."
+              }
+            },
+            {
+              "name": "Park and Walk to Centre",
+              "tip_5lang": {
+                "de": "Wählen Sie das 'Avenue de Chartres' Parkhaus (überdacht).",
+                "hu": "Válassza az 'Avenue de Chartres' fedett parkolóházat.",
+                "ro": "Alegeți parcarea acoperită 'Avenue de Chartres'.",
+                "en": "Choose the 'Avenue de Chartres' multi-storey for covered parking."
+              }
+            },
+            {
+              "name": "Chichester Cathedral and Lunch",
+              "tip_5lang": {
+                "de": "Lassen Sie den Regenschirm im Vorraum der Kathedrale abtropfen.",
+                "hu": "Hagyja az esernyőt a katedrális előterében száradni.",
+                "ro": "Lăsați umbrela la scurs în vestibulul catedralei.",
+                "en": "Leave your umbrella to drip in the Cathedral's porch area."
+              }
+            },
+            {
+              "name": "Pallant House Gallery",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz; Regenjacke bereithalten.",
+                "hu": "Rövid séta a parkolótól; legyen kéznél az esőkabát.",
+                "ro": "Scurtă plimbare de la parcare; aveți pelerina pregătită.",
+                "en": "Short walk from the car park; have your waterproofs ready."
+              }
+            },
+            {
+              "name": "Chichester Market Cross",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, bevor Sie zurück ins trockene Auto springen.",
+                "hu": "Gyors fotó, mielőtt visszaugrik a száraz autóba.",
+                "ro": "Oprire rapidă pentru poze înainte de a reveni la mașină.",
+                "en": "Quick photo op before jumping back into the dry car."
+              }
+            },
+            {
+              "name": "Drive to Chichester Festival Theatre",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt vor Ort; ideal bei starkem Regen.",
+                "hu": "Hatalmas parkoló közvetlenül a helyszínen; esőben ideális.",
+                "ro": "Parcare mare direct la locație; ideală pe ploaie torențială.",
+                "en": "Large on-site car park makes this very easy during heavy rain."
+              }
+            },
+            {
+              "name": "Stroll in Bishop's Palace Gardens",
+              "tip_5lang": {
+                "de": "Nur bei Regenpause zu empfehlen; sonst im Auto bleiben.",
+                "hu": "Csak esőszünetben ajánlott; különben maradjon a kocsiban.",
+                "ro": "Recomandat doar în pauzele de ploaie; altfel stați în mașină.",
+                "en": "Only recommended during a break in the rain; otherwise stay dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Park-Apps, um das Bezahlen im Regen am Automaten zu vermeiden.",
+              "Einige Landstraßen um Chichester neigen bei Starkregen zu Überflutungen.",
+              "Die Parkhäuser im Zentrum sind samstags oft schnell voll.",
+              "Lassen Sie keine Wertsachen sichtbar im geparkten Auto.",
+              "Prüfen Sie den Reifendruck für bessere Haftung auf nasser Fahrbahn."
+            ],
+            "hu": [
+              "Használjon parkolási appot, hogy ne kelljen az esőben automatánál fizetni.",
+              "Néhány Chichester környéki alsóbbrendű út hajlamos a vízátfolyásokra.",
+              "A központi parkolóházak szombatonként hamar megtelnek.",
+              "Ne hagyjon értéket látható helyen a leparkolt autóban.",
+              "Ellenőrizze a guminyomást a jobb tapadás érdekében vizes úton."
+            ],
+            "ro": [
+              "Folosiți aplicații de parcare pentru a nu plăti la tonomat pe ploaie.",
+              "Unele drumuri secundare din jurul orașului se pot inunda ușor.",
+              "Parcările centrale se umplu rapid în zilele de sâmbătă.",
+              "Nu lăsați obiecte de valoare la vedere în mașina parcată.",
+              "Verificați presiunea pneurilor pentru aderență optimă pe carosabil ud."
+            ],
+            "en": [
+              "Use parking apps to avoid standing in the rain at the pay station.",
+              "Some rural roads around Chichester are prone to flash flooding.",
+              "Central multi-storey car parks fill up very quickly on Saturdays.",
+              "Never leave valuables on display in your parked vehicle.",
+              "Check your tire tread for better grip on the greasy, wet roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Tour beginnt am Fishbourne Palace, wo die Mosaike drinnen vor Frost schützen. Fahren Sie ins Zentrum und nutzen Sie die beheizten Parkhäuser. Die Kathedrale und die Pallant House Gallery sind warme Höhepunkte. Nach einem kurzen Besuch am Market Cross in der Kälte fahren Sie zum Theater und beenden den Tag mit einem Blick in die winterlichen Bishop's Palace Gardens.",
+            "hu": "A téli autós túra a Fishbourne Palace-nál indul, ahol a mozaikok védve vannak a fagytól. Hajtson a központba, és használja a fűtött parkolóházakat. A katedrális és a Pallant House Gallery meleg menedéket nyújt. A fagyos Market Cross után irány a színház, majd zárja a napot a Bishop's Palace Gardens téli látványával.",
+            "ro": "Turul de iarnă începe la Fishbourne Palace, unde mozaicurile sunt protejate de îngheț. Mergeți spre centru și folosiți parcările acoperite. Catedrala și Pallant House sunt puncte calde în itinerar. După crucea istorică, mergeți spre teatru și încheiați în grădinile palatului.",
+            "en": "A winter drive starts at Fishbourne Palace, where the mosaics are safe from the frost. Head to the centre and use the multi-storey car parks. The Cathedral and Pallant House are warm highlights. After a chilly stop at the Market Cross, drive to the theatre and finish with a view of the winter gardens."
+          },
+          "stops": [
+            {
+              "name": "Fishbourne Roman Palace",
+              "tip_5lang": {
+                "de": "Das Besucherzentrum ist gut geheizt und sehr gemütlich.",
+                "hu": "A látogatóközpont jól fűtött és nagyon barátságos.",
+                "ro": "Centrul de vizitatori este bine încălzit și primitor.",
+                "en": "The visitor centre is well-heated and very welcoming."
+              }
+            },
+            {
+              "name": "Park and Walk to Centre",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisplatten auf dem obersten Deck des Parkhauses.",
+                "hu": "Vigyázzon a jeges foltokra a parkolóház legfelső szintjén.",
+                "ro": "Atenție la porțiunile înghețate de pe ultimul etaj al parcării.",
+                "en": "Watch out for icy patches on the top deck of the car park."
+              }
+            },
+            {
+              "name": "Chichester Cathedral and Lunch",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen Außenkälte und Innenwärme.",
+                "hu": "Élvezze a kinti hideg és a benti meleg közti kontrasztot.",
+                "ro": "Bucurați-vă de contrastul dintre frigul de afară și căldura din interior.",
+                "en": "Enjoy the contrast between the winter chill and the warm interior."
+              }
+            },
+            {
+              "name": "Pallant House Gallery",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für schwere Wintermäntel.",
+                "hu": "Használja a ruhatárat a nehéz téli kabátok elhelyezésére.",
+                "ro": "Folosiți garderoba pentru hainele grele de iarnă.",
+                "en": "Make use of the cloakroom to store your heavy winter coats."
+              }
+            },
+            {
+              "name": "Chichester Market Cross",
+              "tip_5lang": {
+                "de": "Das Steinwerk strahlt bei Wintersonne besonders hell.",
+                "hu": "A kövek különösen fehéren ragyognak a téli napsütésben.",
+                "ro": "Piatra albă strălucește intens în soarele slab de iarnă.",
+                "en": "The stonework glows brilliantly in the low winter sun."
+              }
+            },
+            {
+              "name": "Drive to Chichester Festival Theatre",
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto kurz warmlaufen, bevor Sie weiterfahren.",
+                "hu": "Hagyja az autót egy kicsit bemelegedni, mielőtt továbbindul.",
+                "ro": "Lăsați motorul să se încălzească puțin înainte de plecare.",
+                "en": "Let the car warm up for a minute before heading to the next stop."
+              }
+            },
+            {
+              "name": "Stroll in Bishop's Palace Gardens",
+              "tip_5lang": {
+                "de": "Die kahlen Bäume geben den Blick auf die Stadtmauer frei.",
+                "hu": "A kopasz fák közt jobban rálátni a városfalra.",
+                "ro": "Copacii desfrunziți permit o vedere mai bună spre zidurile cetății.",
+                "en": "The bare trees allow for a better view of the city walls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Frostschutzmittel im Wischwasser ist.",
+              "Planen Sie Zeit zum Enteisen der Scheiben am Morgen ein.",
+              "Die tiefstehende Sonne kann beim Fahren stark blenden.",
+              "Achten Sie auf Wildwechsel auf den Landwegen in der Dämmerung.",
+              "Parken Sie in Parkhäusern, um das Auto eisfrei zu halten."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy van fagyálló a szélvédőmosóban.",
+              "Számoljon a reggeli jégkaparással a túra megkezdése előtt.",
+              "Az alacsonyan járó nap vezetés közben erősen vakíthat.",
+              "Figyeljen a vadakra a vidéki utakon a szürkületben.",
+              "Parkoljon fedett helyen, hogy elkerülje az ablakok befagyását."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți lichid de parbriz rezistent la îngheț.",
+              "Alocați timp pentru dezghețarea parbrizului în diminețile reci.",
+              "Soarele jos poate fi foarte orbitor în timpul condusului.",
+              "Atenție la animalele sălbatice pe drumurile secundare la amurg.",
+              "Parcați în garaje acoperite pentru a evita înghețarea geamurilor."
+            ],
+            "en": [
+              "Ensure your screen wash has a high concentration of antifreeze.",
+              "Allow extra time for de-icing your windows in the morning.",
+              "The low winter sun can cause severe glare while driving westward.",
+              "Watch out for deer on rural roads during the early twilight.",
+              "Use multi-storey car parks to keep your vehicle frost-free."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1488,6 +2112,196 @@
           "The 'Stagecoach' bus app is useful for live times and route planning.",
           "Many buses are equipped with USB charging ports."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nach der Ankunft im Regen führt der Weg schnell zur Kathedrale. Das Novium Museum bietet den perfekten Schutz vor dem Mittagsschauer. Mit dem Bus geht es komfortabel zum Fishbourne Palace, bevor Sie zur Pallant House Gallery zurückkehren. Der Tag endet mit einem gemütlichen Dinner im Zentrum, bevor der Zug Sie wieder nach Hause bringt.",
+            "hu": "Az esős érkezés után az út gyorsan a katedrálishoz vezet. A Novium múzeum tökéletes védelmet nyújt a déli záporok elől. Busszal kényelmesen eljuthat a Fishbourne Palace-hoz, majd vissza a galériához. A napot egy belvárosi vacsora zárja, mielőtt a vonat visszaindulna.",
+            "ro": "După sosirea pe ploaie, mergeți rapid spre catedrală. Muzeul Novium oferă protecție perfectă împotriva averselor de prânz. Cu autobuzul ajungeți confortabil la Fishbourne Palace, apoi reveniți la galerie. Ziua se încheie cu o cină în centru, înainte de plecarea cu trenul.",
+            "en": "After a rainy arrival, head straight to the Cathedral for cover. The Novium Museum provides perfect shelter from midday showers. Take the bus comfortably to Fishbourne Palace before returning to the Gallery. The day ends with a cozy dinner in the centre before your train departure."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Chichester Station",
+              "tip_5lang": {
+                "de": "Warten Sie im Bahnhofsgebäude, bis der Regen nachlässt.",
+                "hu": "Várjon az állomás épületében, amíg alábbhagy az eső.",
+                "ro": "Așteptați în clădirea gării până se mai potolește ploaia.",
+                "en": "Wait inside the station concourse until the rain eases off."
+              }
+            },
+            {
+              "name": "Cathedral and Market Cross",
+              "tip_5lang": {
+                "de": "Der Fußweg ist kurz, aber halten Sie den Schirm bereit.",
+                "hu": "A séta rövid, de tartsa készenlétben az esernyőt.",
+                "ro": "Plimbarea e scurtă, dar țineți umbrela la îndemână.",
+                "en": "The walk is short, but keep your umbrella at the ready."
+              }
+            },
+            {
+              "name": "The Novium Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufzug, um nasse Treppen zu vermeiden.",
+                "hu": "Használja a liftet, hogy elkerülje a vizes lépcsőket.",
+                "ro": "Folosiți liftul pentru a evita scările umede și alunecoase.",
+                "en": "Use the lift inside to avoid climbing stairs with wet shoes."
+              }
+            },
+            {
+              "name": "Bus to Fishbourne Roman Palace",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle hat ein Wartehäuschen gegen den Regen.",
+                "hu": "A buszmegálló fedett, így nem ázik meg várakozás közben.",
+                "ro": "Stația de autobuz are adăpost împotriva ploii.",
+                "en": "The bus stop has a shelter to keep you dry while waiting."
+              }
+            },
+            {
+              "name": "Pallant House Gallery",
+              "tip_5lang": {
+                "de": "Busse halten oft direkt in der Nähe der Gallery.",
+                "hu": "A buszok gyakran közvetlenül a galéria közelében állnak meg.",
+                "ro": "Autobuzele opresc adesea chiar în apropierea galeriei.",
+                "en": "Buses often drop off very close to the gallery entrance."
+              }
+            },
+            {
+              "name": "Dinner and Departure",
+              "tip_5lang": {
+                "de": "Prüfen Sie Abfahrtszeiten per App im Restaurant.",
+                "hu": "Ellenőrizze a vonatidőket appon még az étteremben.",
+                "ro": "Verificați orarul trenurilor pe aplicație din restaurant.",
+                "en": "Check train times on your app before leaving the restaurant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Wege zwischen den Haltestellen.",
+              "Bargeldloses Bezahlen (Contactless) ist im Bus am einfachsten.",
+              "Nutzen Sie die Echtzeit-Anzeige der Busse, um Wartezeit im Regen zu minimieren.",
+              "Der Bahnhof hat ein Café, ideal zum Überbrücken von Verspätungen.",
+              "Ein Regencape ist bei Wind oft praktischer als ein Schirm."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a megállók közötti gyalogláshoz.",
+              "A buszon a kártyás fizetés (Contactless) a legegyszerűbb.",
+              "Használja a valós idejű menetrendet, hogy ne ázzon a megállóban.",
+              "Az állomáson van kávézó, ideális a késések kivárására.",
+              "Szeles időben egy esőponcsó praktikusabb lehet az esernyőnél."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru segmentele de mers pe jos.",
+              "Plata cu cardul (Contactless) este cea mai simplă în autobuz.",
+              "Folosiți aplicațiile de transport pentru a nu aștepta mult în ploaie.",
+              "Gara are o cafenea, ideală pentru a aștepta trenurile întârziate.",
+              "O pelerină de ploaie e mai utilă decât umbrela când bate vântul."
+            ],
+            "en": [
+              "Wear waterproof footwear for the short walks between stops.",
+              "Contactless payment is the quickest way to pay on the bus.",
+              "Use real-time bus tracking apps to minimize time spent at stops.",
+              "The station cafe is a great place to wait if your train is delayed.",
+              "A rain poncho can be more effective than an umbrella in high winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nach der Ankunft am Bahnhof führt der Weg durch die klare Winterluft zur Kathedrale. Das Novium Museum ist ein warmer Stopp am Vormittag. Mit dem beheizten Bus erreichen Sie bequem den Fishbourne Palace. Nach der Rückkehr zur Pallant House Gallery genießen Sie die frühe Dämmerung im Zentrum, bevor Sie nach dem Abendessen zum Bahnhof zurückkehren.",
+            "hu": "Az állomásról a friss téli levegőn át sétáljon a katedrálishoz. A Novium múzeum kiváló délelőtti melegedőhely. A fűtött busszal kényelmesen elérheti a Fishbourne Palace-t. A galéria után élvezze a korai szürkületet a belvárosban, majd vacsora után irány vissza az állomásra.",
+            "ro": "De la gară, mergeți prin aerul curat de iarnă spre catedrală. Muzeul Novium este un popas călduros în cursul dimineții. Cu autobuzul încălzit ajungeți ușor la Fishbourne Palace. După galerie, admirați amurgul în centru, apoi reveniți la gară după cină.",
+            "en": "From the station, walk through the crisp winter air to the Cathedral. The Novium Museum is a great morning warm-up stop. Take the heated bus to Fishbourne Palace for a comfortable journey. After the gallery, enjoy the early twilight in the centre before returning to the station after dinner."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Chichester Station",
+              "tip_5lang": {
+                "de": "Der Bahnsteig kann sehr zugig und kalt sein.",
+                "hu": "A peronok nagyon huzatosak és hidegek lehetnek.",
+                "ro": "Peroanele pot fi foarte expuse la vânt și frig.",
+                "en": "The station platforms can be very breezy and cold."
+              }
+            },
+            {
+              "name": "Cathedral and Market Cross",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Weihnachtsbeleuchtung (Saisonabhängig).",
+                "hu": "Csodálja meg a karácsonyi fényeket (szezonálisan).",
+                "ro": "Admirați luminile de sărbători (în funcție de sezon).",
+                "en": "Admire the festive lights if visiting during the holiday season."
+              }
+            },
+            {
+              "name": "The Novium Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Wegen aufzuwärmen.",
+                "hu": "Ideális helyszín a megállók közötti felmelegedéshez.",
+                "ro": "Un loc ideal pentru a vă încălzi între segmentele de mers.",
+                "en": "An ideal place to defrost between outdoor walking sections."
+              }
+            },
+            {
+              "name": "Bus to Fishbourne Roman Palace",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter nach Normalplan; App nutzen.",
+                "hu": "A buszok télen is menetrend szerint járnak; használja az appot.",
+                "ro": "Autobuzele circulă normal iarna; verificați aplicația.",
+                "en": "Buses run on normal schedules in winter; use an app to track."
+              }
+            },
+            {
+              "name": "Pallant House Gallery",
+              "tip_5lang": {
+                "de": "Die Gallery ist im Winter angenehm geheizt.",
+                "hu": "A galéria télen is kellemesen fűtött és barátságos.",
+                "ro": "Galeria este încălzită plăcut în timpul iernii.",
+                "en": "The gallery is kept at a very comfortable temperature in winter."
+              }
+            },
+            {
+              "name": "Dinner and Departure",
+              "tip_5lang": {
+                "de": "Der Fußweg zum Bahnhof ist beleuchtet und sicher.",
+                "hu": "Az állomásig tartó út jól kivilágított és biztonságos.",
+                "ro": "Drumul spre gară este bine iluminat și sigur.",
+                "en": "The walk back to the station is well-lit and perfectly safe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schichten, die im Zug und Bus leicht abzulegen sind.",
+              "Züge können bei Frost leichte Verspätungen haben.",
+              "Die Sonne geht früh unter; planen Sie die Rückkehr im Hellen.",
+              "Nutzen Sie die Wartebereiche im Bahnhof für mehr Wärme.",
+              "Ein heißes Getränk am Kiosk wärmt für die Weiterfahrt."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, a buszon és vonaton meleg van.",
+              "Erős fagy esetén a vonatoknál előfordulhatnak kisebb késések.",
+              "A nap korán nyugszik; sötétben is könnyű tájékozódni a központban.",
+              "Használja az állomás zárt várótermeit a hideg ellen.",
+              "Vegyen egy forró italt a kioszkban az út előtt."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi ușor de scos în tren sau autobuz.",
+              "Trenurile pot avea mici întârzieri în diminețile cu îngheț.",
+              "Soarele apune devreme; centrul este însă bine luminat seara.",
+              "Folosiți sălile de așteptare din gară pentru a rămâne la căldură.",
+              "O băutură caldă de la chioșc vă va prinde bine pe drum."
+            ],
+            "en": [
+              "Wear layers that are easy to remove on warm buses and trains.",
+              "Trains can occasionally be delayed during severe frost.",
+              "Sunset is early; the city centre remains lively and well-lit.",
+              "Use the station's indoor waiting rooms to stay out of the cold.",
+              "Grab a hot drink from the station kiosk for your journey back."
+            ]
+          }
+        }
       }
     }
   }

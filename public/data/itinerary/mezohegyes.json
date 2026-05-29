@@ -386,6 +386,206 @@
           "The guided tours at the stud farm are highly recommended.",
           "Check the opening hours of each location in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an der Nonius-Statue unter Schirmen, gefolgt von einer Flucht in die trockenen Ställe des Gestüts. Mittags bieten die Reithalle und der Zentralspeicher massiven Schutz vor dem prasselnden Regen. Nachmittags finden wir Ruhe in der St.-Georgs-Kirche, bevor wir unter dem schützenden Blätterdach des Fenyves-Waldes wandern. Abends spiegeln sich die Lichter in den Pfützen.",
+            "hu": "A reggel az esernyők alatt indul a Nóniusz-szobornál, majd gyorsan a Ménesbirtok fedett istállói felé vesszük az irányt. Délben a Lovarda és a Központi Magtár nyújt biztos menedéket a zuhé elől. Délután a Szent György-templom csendes belső tereiben száradhatunk meg, majd a Fenyves sűrű lombjai alatt zárjuk a napot. Este a vizes aszfalton megcsillanó fények kísérnek utunkon.",
+            "ro": "Dimineața începe sub umbrele la statuia Nonius, urmată de un refugiu în grajdurile uscate ale hergheliei. La prânz, Manejul și Grânarul oferă protecție solidă împotriva ploii torențiale. După-amiaza găsim liniște în biserica Sf. Gheorghe, înainte de a ne plimba sub coronamentul protector al pădurii Fenyves. Seara, luminile se reflectă în bălțile de pe drumul de întoarcere.",
+            "en": "Morning starts under umbrellas at the Nonius statue, followed by a quick escape to the dry stables of the Stud. At noon, the Riding Hall and Central Granary provide solid shelter from the pouring rain. Afternoon brings quiet moments in St. George's Church before a walk under the protective canopy of the Pine Forest. Evening ends with city lights reflecting in the puddles."
+          },
+          "stops": [
+            {
+              "name": "Nonius Statue",
+              "tip_5lang": {
+                "de": "Schirm bereithalten, der Platz ist völlig ungeschützt.",
+                "hu": "Tartsuk készenlétben az esernyőt, a tér teljesen nyitott.",
+                "ro": "Țineți umbrela la îndemână, piața este complet expusă.",
+                "en": "Keep your umbrella ready, the square is completely open."
+              }
+            },
+            {
+              "name": "State Stud of Mezőhegyes",
+              "tip_5lang": {
+                "de": "Perfekt bei Regen; die historischen Ställe sind überdacht.",
+                "hu": "Ideális esőben; a történelmi istállók fedettek.",
+                "ro": "Perfect pe ploaie; grajdurile istorice sunt acoperite.",
+                "en": "Perfect for rain; the historical stables are covered."
+              }
+            },
+            {
+              "name": "Riding Hall",
+              "tip_5lang": {
+                "de": "Das Innere bietet Schutz und faszinierende Architektur.",
+                "hu": "A belső tér védelmet és lenyűgöző építészetet kínál.",
+                "ro": "Interiorul oferă protecție și arhitectură fascinantă.",
+                "en": "The interior offers protection and fascinating architecture."
+              }
+            },
+            {
+              "name": "Central Granary",
+              "tip_5lang": {
+                "de": "Die massiven Mauern halten Sie garantiert trocken.",
+                "hu": "A masszív falak garantáltan szárazon tartják.",
+                "ro": "Zidurile masive vă vor menține cu siguranță uscat.",
+                "en": "The massive walls are guaranteed to keep you dry."
+              }
+            },
+            {
+              "name": "St. George's Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den Regenschauer abzuwarten.",
+                "hu": "Csendes hely a zápor megvárására.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea ploii.",
+                "en": "A quiet place to wait out the rain shower."
+              }
+            },
+            {
+              "name": "Elephant Gate",
+              "tip_5lang": {
+                "de": "Ein kurzes Foto genügt; kein Schutz in der Nähe.",
+                "hu": "Csak egy gyors fotóra álljunk meg, nincs fedett rész.",
+                "ro": "Opriți-vă doar pentru o poză rapidă, nu există adăpost.",
+                "en": "Stop only for a quick photo, no shelter nearby."
+              }
+            },
+            {
+              "name": "Pine Forest (Fenyves)",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Wegen und schlammigen Pfaden.",
+                "hu": "Vigyázat a csúszós utakkal és sáros ösvényekkel.",
+                "ro": "Atenție la drumurile alunecoase și potecile noroioase.",
+                "en": "Beware of slippery roads and muddy paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Das Gestüt bietet viele überdachte Bereiche für Besichtigungen.",
+              "Die Wege zwischen den Gebäuden können bei Regen schlammig sein.",
+              "Nutzen Sie die Reithalle als längeren Aufenthalt bei starkem Guss.",
+              "Wasserdichte Schuhe sind für den Waldabschnitt unerlässlich."
+            ],
+            "hu": [
+              "A Ménesbirtok számos fedett helyszínt kínál a látogatáshoz.",
+              "Az épületek közötti utak esőben sarasak lehetnek.",
+              "Használja a Lovardát hosszabb pihenőre nagy zuhé esetén.",
+              "Vízálló cipő elengedhetetlen a fenyvesi szakaszhoz."
+            ],
+            "ro": [
+              "Herghelia oferă multe zone acoperite pentru vizitare.",
+              "Drumurile dintre clădiri pot fi noroioase pe ploaie.",
+              "Folosiți Manejul pentru o pauză mai lungă în caz de aversă.",
+              "Încălțămintea impermeabilă este esențială pentru zona pădurii."
+            ],
+            "en": [
+              "The Stud offers many covered areas for visiting.",
+              "The paths between buildings can be muddy in the rain.",
+              "Use the Riding Hall for a longer break during heavy downpours.",
+              "Waterproof shoes are essential for the forest section."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Denkmal, bevor wir die Wärme der Stallungen suchen. Mittags bewundern wir die Industriearchitektur unter einem bleiernen Winterhimmel. Am Nachmittag wärmen wir uns in der Kirche auf, bevor wir den Wald im frühen Zwielicht besuchen. Der Tag endet früh in der gemütlichen Atmosphäre des Zentrums bei sinkenden Temperaturen.",
+            "hu": "Fagyos reggel indul a szobornál, mielőtt az istállók relatív melegébe menekülnénk. Délben az ipari örökséget csodáljuk az ólomszürke téli égbolt alatt. Délután a templom falai között melegszünk fel, majd a korai szürkületben teszünk egy rövid kört a Fenyvesben. A nap korán ér véget a központ meghitt fényeiben, ahogy hűlni kezd a levegő.",
+            "ro": "O dimineață geroasă începe la monument, înainte de a căuta căldura grajdurilor. La prânz admirăm arhitectura industrială sub un cer de iarnă plumburiu. După-amiaza ne încălzim între zidurile bisericii, apoi facem o scurtă plimbare prin pădure în amurgul timpuriu. Ziua se termină devreme în luminile primitoare ale centrului, pe măsură ce temperatura scade.",
+            "en": "A frosty morning starts at the monument before seeking the relative warmth of the stables. At noon, we admire the industrial heritage under a leaden winter sky. Afternoon is for warming up inside the church walls, followed by a short circuit in the forest during the early twilight. The day ends early in the cozy lights of the center as temperatures drop."
+          },
+          "stops": [
+            {
+              "name": "Nonius Statue",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind nötig für Fotos im Freien.",
+                "hu": "Meleg kesztyű kell a szabadtéri fotózáshoz.",
+                "ro": "Mănuși calde sunt necesare pentru pozele în aer liber.",
+                "en": "Warm gloves are needed for outdoor photos."
+              }
+            },
+            {
+              "name": "State Stud of Mezőhegyes",
+              "tip_5lang": {
+                "de": "In den Ställen ist es deutlich milder als draußen.",
+                "hu": "Az istállókban lényegesen enyhébb az idő, mint kint.",
+                "ro": "În grajduri este mult mai blând decât afară.",
+                "en": "It is significantly milder in the stables than outside."
+              }
+            },
+            {
+              "name": "Riding Hall",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um dem kalten Wind zu entkommen.",
+                "hu": "Jó hely a hideg szél elöli menekülésre.",
+                "ro": "Un loc bun pentru a scăpa de vântul rece.",
+                "en": "A good place to escape the cold wind."
+              }
+            },
+            {
+              "name": "Central Granary",
+              "tip_5lang": {
+                "de": "Beeindruckend, aber im Winter kann es drinnen kühl sein.",
+                "hu": "Lenyűgöző, de télen hűvös lehet a belső tér.",
+                "ro": "Impresionant, dar iarna poate fi răcoare în interior.",
+                "en": "Impressive, but it can be chilly inside in winter."
+              }
+            },
+            {
+              "name": "St. George's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den windstillen Innenraum zum Aufwärmen.",
+                "hu": "Használja ki a szélmentes belső teret melegedésre.",
+                "ro": "Folosiți interiorul ferit de vânt pentru a vă încălzi.",
+                "en": "Take advantage of the windless interior to warm up."
+              }
+            },
+            {
+              "name": "Elephant Gate",
+              "tip_5lang": {
+                "de": "Schneller Stopp, der Wind zieht hier oft stark durch.",
+                "hu": "Gyors megálló, itt gyakran erősen fúj a szél.",
+                "ro": "Oprire rapidă, vântul suflă adesea puternic aici.",
+                "en": "Quick stop, the wind often blows hard here."
+              }
+            },
+            {
+              "name": "Pine Forest (Fenyves)",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter bereits gegen 16 Uhr.",
+                "hu": "A naplemente télen már 16 óra körül bekövetkezik.",
+                "ro": "Apusul de soare este deja în jurul orei 16 iarna.",
+                "en": "Sunset is already around 4 PM in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie den Waldspaziergang vor 15:30 Uhr ein.",
+              "Die Windböen auf dem flachen Land können sehr kalt sein.",
+              "Die Ställe bieten die beste Flucht vor dem Frost.",
+              "Tragen Sie feste Stiefel für eventuellen Schnee oder Matsch."
+            ],
+            "hu": [
+              "Tervezze a fenyvesi sétát 15:30 előttre.",
+              "A pusztai széllökések nagyon hidegek lehetnek.",
+              "Az istállók kínálják a legjobb menedéket a fagy elől.",
+              "Viseljen stabil bakancsot az esetleges hó vagy sár miatt."
+            ],
+            "ro": [
+              "Planificați plimbarea în pădure înainte de ora 15:30.",
+              "Rafalele de vânt din câmpie pot fi foarte reci.",
+              "Grajdurile oferă cel mai bun refugiu împotriva gerului.",
+              "Purtați ghete solide pentru eventuala zăpadă sau noroi."
+            ],
+            "en": [
+              "Plan your forest walk before 3:30 PM.",
+              "The wind gusts on the plains can be very cold.",
+              "The stables offer the best escape from the frost.",
+              "Wear sturdy boots for potential snow or slush."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -790,6 +990,224 @@
           "A map of the town is helpful for finding the best cycling routes.",
           "Many of the roads are flat and bike-friendly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Auf zwei Rädern trotzen wir dem Regen ab dem Wasserturm. Das Gestüt bietet die nötige Pause im Trockenen, bevor wir im Zickzack durch die Stadt zu weiteren Monumenten fahren. Die Fahrt zum Fenyves-Wald ist nass, aber die Bäume dämpfen den Wind. Wir beenden die Tour zügig, um ins Warme zu kommen.",
+            "hu": "Két keréken dacolunk az esővel a Víztoronytól indulva. A Ménesbirtok biztosítja a szükséges száraz szünetet, mielőtt cikkcakkban átvágnánk a városon a többi műemlék felé. A Fenyves felé vezető út vizes, de a fák tompítják a szelet. A túrát gyorsan zárjuk, hogy mielőbb meleg helyre érjünk.",
+            "ro": "Pe două roți sfidăm ploaia pornind de la Turnul de Apă. Herghelia oferă pauza necesară la uscat, înainte de a traversa orașul în zigzag spre alte monumente. Drumul spre pădurea Fenyves este ud, dar copacii atenuează vântul. Încheiem turul rapid pentru a ajunge la căldură.",
+            "en": "On two wheels, we brave the rain starting from the Water Tower. The Stud provides a necessary dry break before zigzagging through town to other monuments. The ride to the Pine Forest is wet, but the trees dampen the wind. We finish the tour quickly to get back into the warmth."
+          },
+          "stops": [
+            {
+              "name": "Water Tower",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem Kopfsteinpflaster in der Nähe.",
+                "hu": "Vigyázat a közeli csúszós macskakövekkel.",
+                "ro": "Atenție la pavajul alunecos din apropiere.",
+                "en": "Watch out for slippery cobblestones nearby."
+              }
+            },
+            {
+              "name": "State Stud of Mezőhegyes",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradständer unter dem Vordach suchen.",
+                "hu": "Keressen fedett kerékpártárolót az előtető alatt.",
+                "ro": "Căutați un suport de biciclete acoperit sub copertină.",
+                "en": "Look for a covered bike rack under the overhang."
+              }
+            },
+            {
+              "name": "Nonius Statue",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; Bremsen auf Nässe vorab prüfen.",
+                "hu": "Rövid megálló; ellenőrizze a fékeket a vizes úton.",
+                "ro": "Oprire scurtă; verificați frânele pe carosabil ud.",
+                "en": "Short stop; check your brakes on the wet road."
+              }
+            },
+            {
+              "name": "Central Granary",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Vordach für einen kurzen Check.",
+                "hu": "Használja az ereszt egy gyors felszerelés-ellenőrzésre.",
+                "ro": "Folosiți streașina pentru o scurtă verificare.",
+                "en": "Use the eaves for a quick gear check."
+              }
+            },
+            {
+              "name": "Elephant Gate",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Kurven auf nassem Asphalt.",
+                "hu": "Kerülje az éles kanyarokat a vizes aszfalton.",
+                "ro": "Evitați virajele strânse pe asfaltul ud.",
+                "en": "Avoid sharp turns on wet asphalt."
+              }
+            },
+            {
+              "name": "St. George's Church",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad nah an die Mauer zum Schutz.",
+                "hu": "Támassza a bringát a fal mellé a szél ellen.",
+                "ro": "Sprijiniți bicicleta de zid pentru protecție.",
+                "en": "Lean the bike near the wall for protection."
+              }
+            },
+            {
+              "name": "Riding Hall",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, kurz die Regenjacke zu richten.",
+                "hu": "Jó alkalom az esőkabát megigazítására.",
+                "ro": "O ocazie bună pentru a vă ajusta pelerina de ploaie.",
+                "en": "Good opportunity to adjust your raincoat."
+              }
+            },
+            {
+              "name": "Pine Forest (Fenyves)",
+              "tip_5lang": {
+                "de": "Achtung: Schlammspritzer auf dem Waldweg.",
+                "hu": "Figyelem: sárfelverődés a hűvös erdei úton.",
+                "ro": "Atenție: stropi de noroi pe drumul forestier.",
+                "en": "Caution: mud splashes on the forest road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenmontur inkl. Überziehern.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip.",
+              "Vermeiden Sie Markierungen auf der Straße, diese sind extrem rutschig.",
+              "Nutzen Sie die großen Scheunen am Gestüt als Unterstand."
+            ],
+            "hu": [
+              "Viseljen teljes esővédő felszerelést, cipővédővel.",
+              "Kicsit csökkentse a guminyomást a jobb tapadásért.",
+              "Kerülje az útburkolati jeleket, mert rendkívül csúsznak.",
+              "Használja a ménesbirtok nagy pajtáit esőbeállónak."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, inclusiv protecții.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună.",
+              "Evitați marcajele rutiere, sunt extrem de alunecoase.",
+              "Folosiți șoproanele mari de la herghelie ca adăpost."
+            ],
+            "en": [
+              "Wear full rain gear including shoe covers.",
+              "Slightly reduce tire pressure for better grip.",
+              "Avoid road markings, they are extremely slippery.",
+              "Use the large barns at the Stud as shelter."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Fahrtwind weht uns um die Nase, während wir den Wasserturm und das Gestüt besuchen. Die weite Ebene lässt den Winterwind ungehindert wehen, was die Fahrt zwischen den Clustern zur Herausforderung macht. Am Nachmittag genießen wir die klare Winterluft im Wald, bevor wir die Tour im Licht der frühen Straßenlaternen beenden.",
+            "hu": "A fagyos menetszél csípi az arcunkat, miközben a Víztorony és a Ménesbirtok között pedálozunk. A nyílt pusztai terepen a téli szél akadálytalanul fúj, ami kihívássá teszi az épületek közötti utat. Délután élvezzük a tiszta téli levegőt a fenyvesben, majd a korai utcai lámpák fényében zárjuk a túrát.",
+            "ro": "Vântul înghețat ne ciupește obrajii în timp ce pedalăm între Turnul de Apă și Herghelie. Câmpia deschisă lasă vântul de iarnă să bată nestingherit, făcând drumul dintre clădiri o provocare. După-amiaza ne bucurăm de aerul curat de iarnă în pădure, apoi încheiem turul la lumina timpurie a felinarelor.",
+            "en": "The frosty wind nips at our faces as we pedal between the Water Tower and the Stud. The open plains allow the winter wind to blow unchecked, making the journey between buildings a challenge. In the afternoon, we enjoy the crisp winter air in the forest, then finish the tour under the early streetlights."
+          },
+          "stops": [
+            {
+              "name": "Water Tower",
+              "tip_5lang": {
+                "de": "Achtung vor überfrierender Nässe auf den Brücken.",
+                "hu": "Vigyázat a hidakon előforduló jegesedéssel.",
+                "ro": "Atenție la poleiul de pe poduri.",
+                "en": "Watch out for black ice on the bridges."
+              }
+            },
+            {
+              "name": "State Stud of Mezőhegyes",
+              "tip_5lang": {
+                "de": "Eine heiße Pause einlegen, bevor es weitergeht.",
+                "hu": "Tartson egy melegedő szünetet, mielőtt továbbmenne.",
+                "ro": "Faceți o pauză de încălzire înainte de a continua.",
+                "en": "Take a warming break before moving on."
+              }
+            },
+            {
+              "name": "Nonius Statue",
+              "tip_5lang": {
+                "de": "Der Wind ist hier auf dem offenen Platz sehr beißend.",
+                "hu": "A szél itt a nyitott téren nagyon metsző lehet.",
+                "ro": "Vântul poate fi foarte tăios aici, în piața deschisă.",
+                "en": "The wind can be very biting here in the open square."
+              }
+            },
+            {
+              "name": "Central Granary",
+              "tip_5lang": {
+                "de": "Die massiven Wände schützen kurzzeitig vor Wind.",
+                "hu": "A masszív falak rövid időre védenek a széltől.",
+                "ro": "Zidurile masive protejează scurt timp de vânt.",
+                "en": "The massive walls provide brief protection from wind."
+              }
+            },
+            {
+              "name": "Elephant Gate",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Blutzirkulation zu prüfen.",
+                "hu": "Rövid megálló a vérkeringés ellenőrzésére.",
+                "ro": "Scurtă oprire pentru a verifica circulația sângelui.",
+                "en": "Short stop to check blood circulation."
+              }
+            },
+            {
+              "name": "St. George's Church",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und des Windschutzes.",
+                "hu": "A csend és a szélvédettség helyszíne.",
+                "ro": "Un loc al liniștii și al protecției împotriva vântului.",
+                "en": "A place of silence and wind protection."
+              }
+            },
+            {
+              "name": "Riding Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum, um die Finger zu wärmen.",
+                "hu": "Használja a belső teret az ujjai felmelegítésére.",
+                "ro": "Folosiți interiorul pentru a vă încălzi degetele.",
+                "en": "Use the interior to warm your fingers."
+              }
+            },
+            {
+              "name": "Pine Forest (Fenyves)",
+              "tip_5lang": {
+                "de": "Rücklichter spätestens ab 15:45 Uhr einschalten.",
+                "hu": "Hátsó lámpákat legkésőbb 15:45-kor kapcsolja be.",
+                "ro": "Aprindeți stopurile cel târziu la ora 15:45.",
+                "en": "Turn on rear lights by 3:45 PM at the latest."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und eine winddichte Jacke sind Pflicht.",
+              "Beleuchtung am Fahrrad ist wegen des frühen Nebels wichtig.",
+              "Nehmen Sie eine Thermoskanne mit warmem Tee mit.",
+              "Vermeiden Sie bei Glatteis die Nebenwege im Wald."
+            ],
+            "hu": [
+              "Meleg kesztyű és szélálló dzseki kötelező.",
+              "A világítás fontos a korai köd és szürkület miatt.",
+              "Vigyen magával termoszban meleg teát.",
+              "Jegesedés esetén kerülje az erdei mellékutakat."
+            ],
+            "ro": [
+              "Mănușile calde și jacheta rezistentă la vânt sunt obligatorii.",
+              "Iluminarea este importantă din cauza ceții timpurii.",
+              "Luați un termos cu ceai cald.",
+              "Evitați drumurile secundare din pădure în caz de polei."
+            ],
+            "en": [
+              "Warm gloves and a windproof jacket are mandatory.",
+              "Lighting is important due to early fog and twilight.",
+              "Take a thermos with warm tea with you.",
+              "Avoid forest side paths in case of icing."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1170,6 +1588,206 @@
           "Lunch can be flexibly taken in either of the two main clusters.",
           "Road conditions are generally good."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Mezőhegyes bequem vom trockenen Innenraum aus. Wir parken direkt an den historischen Clustern des Gestüts und der Reithalle, um die Gehwege im Regen zu minimieren. Am Nachmittag bietet die Fahrt durch die Alleen zum Wald einen schönen Ausblick auf die herbstliche Landschaft, bevor wir trocken und zufrieden den Tag beenden.",
+            "hu": "Autóval kényelmesen, a száraz utastérből fedezzük fel Mezőhegyest. Közvetlenül a Ménesbirtok és a Lovarda történelmi épületei mellett parkolunk, minimalizálva az esőben töltött időt. Délután a fenyves felé vezető fasorok mentén autózva gyönyörködünk a tájban, majd szárazon és elégedetten zárjuk a napot.",
+            "ro": "Cu mașina explorăm Mezőhegyes confortabil din interiorul uscat. Parcăm direct lângă clădirile istorice ale Hergheliei și Manejului, minimizând timpul petrecut în ploaie. După-amiaza, conducând de-a lungul aleilor spre pădure, admirăm peisajul, apoi încheiem ziua uscați și mulțumiți.",
+            "en": "By car, we explore Mezőhegyes comfortably from the dry interior. We park directly next to the historical clusters of the Stud and the Riding Hall, minimizing the time spent in the rain. In the afternoon, driving along the alleys to the forest provides a nice view of the scenery, then we end the day dry and satisfied."
+          },
+          "stops": [
+            {
+              "name": "Parking at the State Stud (Cluster A)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen vor tiefen Pfützen.",
+                "hu": "Kiszálláskor vigyázzon a mély tócsákra.",
+                "ro": "Atenție la bălțile adânci când coborâți.",
+                "en": "Watch out for deep puddles when getting out."
+              }
+            },
+            {
+              "name": "State Stud of Mezőhegyes",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Haupteingang.",
+                "hu": "Parkoljon a lehető legközelebb a főbejárathoz.",
+                "ro": "Parcați cât mai aproape de intrarea principală.",
+                "en": "Park as close as possible to the main entrance."
+              }
+            },
+            {
+              "name": "Riding Hall",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zum Eingang.",
+                "hu": "Csak egy rövid sprint a parkolótól a bejáratig.",
+                "ro": "Doar un sprint scurt de la parcare la intrare.",
+                "en": "Just a short sprint from the parking lot to the entrance."
+              }
+            },
+            {
+              "name": "Nonius Statue",
+              "tip_5lang": {
+                "de": "Foto direkt aus dem Fenster oder mit Schirm.",
+                "hu": "Fotózzon az ablakból, vagy használjon ernyőt.",
+                "ro": "Pozați de pe geam sau folosiți umbrela.",
+                "en": "Take a photo from the window or use an umbrella."
+              }
+            },
+            {
+              "name": "St. George's Church (Cluster B)",
+              "tip_5lang": {
+                "de": "Befestigter Parkplatz direkt vor der Kirche.",
+                "hu": "Szilárd burkolatú parkoló közvetlenül a templom előtt.",
+                "ro": "Parcare asfaltată direct în fața bisericii.",
+                "en": "Paved parking lot right in front of the church."
+              }
+            },
+            {
+              "name": "Water Tower",
+              "tip_5lang": {
+                "de": "Gute Sichtbarkeit der Struktur auch bei Regen.",
+                "hu": "A torony esőben is jól látható az autóból.",
+                "ro": "Turnul este bine vizibil din mașină și pe ploaie.",
+                "en": "The tower is well visible from the car even in rain."
+              }
+            },
+            {
+              "name": "Pine Forest (Fenyves)",
+              "tip_5lang": {
+                "de": "Vorsicht vor aufgeschwemmten Banketten am Waldrand.",
+                "hu": "Vigyázat a felázott útpadkával az erdő szélén.",
+                "ro": "Atenție la acostamentul moale la marginea pădurii.",
+                "en": "Beware of soft road shoulders at the forest edge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Scheibenheizung gegen Beschlag.",
+              "Die Hauptstraßen sind gut ausgebaut und sicher befahrbar.",
+              "Halten Sie einen Regenschirm im Türfach griffbereit.",
+              "Einige Parkplätze können unbefestigt und schlammig sein."
+            ],
+            "hu": [
+              "Használja a szélvédőfűtést a párásodás ellen.",
+              "A főutak jó állapotúak és biztonságosan járhatóak.",
+              "Tartson esernyőt az ajtózsebben karnyújtásnyira.",
+              "Néhány parkoló burkolatlan és sáros lehet."
+            ],
+            "ro": [
+              "Folosiți degivrarea parbrizului împotriva aburirii.",
+              "Drumurile principale sunt în stare bună și sigure.",
+              "Țineți o umbrelă la îndemână în buzunarul portierei.",
+              "Unele parcări pot fi neasfaltate și noroioase."
+            ],
+            "en": [
+              "Use the windshield defroster against fogging.",
+              "The main roads are in good condition and safe to drive.",
+              "Keep an umbrella handy in the door pocket.",
+              "Some parking areas may be unpaved and muddy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bei winterlichen Temperaturen genießen wir die Sitzheizung auf dem Weg zum Gestüt. Die frostige Landschaft von Mezőhegyes zieht an den Fenstern vorbei, während wir bequem zwischen den architektonischen Schätzen pendeln. Am Nachmittag bietet die Fahrt zum Wald einen tollen Blick auf die Raureif-bedeckten Bäume, bevor wir den Tag im warmen Auto ausklingen lassen.",
+            "hu": "Téli hőmérséklet mellett élvezzük az ülésfűtést a Ménesbirtok felé vezető úton. Mezőhegyes fagyos tája suhan el az ablakok mellett, miközben kényelmesen ingázunk az építészeti kincsek között. Délután a fenyves felé autózva gyönyörködünk a zúzmarás fákban, majd a meleg autóban zárjuk a napot.",
+            "ro": "La temperaturi de iarnă ne bucurăm de încălzirea în scaune spre Herghelie. Peisajul înghețat al localității trece pe lângă geamuri în timp ce circulăm confortabil între comorile arhitecturale. După-amiaza admirăm copacii acoperiți de chiciură spre pădure, apoi încheiem ziua în mașina caldă.",
+            "en": "In winter temperatures, we enjoy the seat heating on the way to the Stud. The frosty landscape of Mezőhegyes slides past the windows as we comfortably commute between architectural treasures. In the afternoon, driving to the forest offers a great view of rime-covered trees, ending the day in the warm car."
+          },
+          "stops": [
+            {
+              "name": "Parking at the State Stud (Cluster A)",
+              "tip_5lang": {
+                "de": "Achtung beim Aussteigen vor glatten Stellen.",
+                "hu": "Kiszálláskor vigyázzon a csúszós foltokra.",
+                "ro": "Atenție la porțiunile alunecoase când coborâți.",
+                "en": "Watch out for slippery patches when getting out."
+              }
+            },
+            {
+              "name": "State Stud of Mezőhegyes",
+              "tip_5lang": {
+                "de": "Kurze Laufwege zwischen Parkplatz und Ställen.",
+                "hu": "Rövid sétatávolság a parkoló és az istállók között.",
+                "ro": "Distanțe scurte de mers între parcare și grajduri.",
+                "en": "Short walking distances between parking and stables."
+              }
+            },
+            {
+              "name": "Riding Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Motorvorwärmer, wenn vorhanden.",
+                "hu": "Használja a motor-előmelegítőt, ha van.",
+                "ro": "Folosiți preîncălzirea motorului, dacă există.",
+                "en": "Use the engine pre-heater if available."
+              }
+            },
+            {
+              "name": "Nonius Statue",
+              "tip_5lang": {
+                "de": "Schnelles Foto, damit das Auto nicht auskühlt.",
+                "hu": "Gyors fotó, hogy ne hűljön ki az autó.",
+                "ro": "Poză rapidă, ca să nu se răcească mașina.",
+                "en": "Quick photo so the car doesn't cool down."
+              }
+            },
+            {
+              "name": "St. George's Church (Cluster B)",
+              "tip_5lang": {
+                "de": "Parken direkt am Eingang schont die Gelenke.",
+                "hu": "A bejáratnál való parkolás kíméli az ízületeket.",
+                "ro": "Parcarea chiar la intrare menajează articulațiile.",
+                "en": "Parking right at the entrance saves your joints."
+              }
+            },
+            {
+              "name": "Water Tower",
+              "tip_5lang": {
+                "de": "Die Wintersonne lässt den Turm hell erstrahlen.",
+                "hu": "A téli napsütésben a torony fényesen ragyog.",
+                "ro": "În soarele de iarnă, turnul strălucește puternic.",
+                "en": "The winter sun makes the tower shine brightly."
+              }
+            },
+            {
+              "name": "Pine Forest (Fenyves)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Wildwechsel in der Dämmerung.",
+                "hu": "Vigyázat a vadátvonulással szürkületkor.",
+                "ro": "Atenție la animalele sălbatice la amurg.",
+                "en": "Beware of wildlife crossing at twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Straßen können in Waldnähe schattig und glatt sein.",
+              "Nehmen Sie eine Decke für längere Pausen mit.",
+              "Vermeiden Sie das Parken auf hohen Schneewehen."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Az utak az erdő közelében árnyékosak és csúszósak lehetnek.",
+              "Vigyen magával takarót a hosszabb pihenőkhöz.",
+              "Kerülje a parkolást magas hótorlaszokon."
+            ],
+            "ro": [
+              "Verificați antigelul din lichidul de parbriz.",
+              "Drumurile pot fi umbrite și alunecoase lângă pădure.",
+              "Luați o pătură pentru pauzele mai lungi.",
+              "Evitați parcarea pe troiene mari de zăpadă."
+            ],
+            "en": [
+              "Check the antifreeze in the windshield washer fluid.",
+              "Roads can be shaded and slippery near the forest.",
+              "Take a blanket for longer breaks.",
+              "Avoid parking on high snowdrifts."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1526,6 +2144,188 @@
           "Be aware that bus frequencies may be lower in a smaller town.",
           "Plan for extra time for waiting at stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus navigieren wir geschützt durch das verregnete Mezőhegyes. Vom Zentrum aus erreichen wir schnell die wichtigsten historischen Punkte, wobei die kurzen Wege zwischen Haltestelle und Attraktion ideal bei Regen sind. Mittags bietet das Gestüt einen trockenen Hafen, und am Nachmittag bringt uns der Nahverkehr sicher zum Waldrand, bevor wir am Abend bequem zurückkehren.",
+            "hu": "Busszal védett módon navigálunk az esős Mezőhegyesen. A központból gyorsan elérjük a főbb történelmi pontokat, a megállók és látnivalók közötti rövid távolság pedig ideális esőben. Délben a Ménesbirtok nyújt száraz kikötőt, délután pedig a tömegközlekedés biztonságosan visz ki az erdő szélére, mielőtt este kényelmesen visszatérnénk.",
+            "ro": "Cu autobuzul navigăm protejați prin Mezőhegyesul ploios. Din centru ajungem rapid la principalele puncte istorice, distanțele scurte dintre stații și obiective fiind ideale pe ploaie. La prânz, Herghelia oferă un port uscat, iar după-amiaza transportul în comun ne duce în siguranță la marginea pădurii, înainte de a ne întoarce confortabil seara.",
+            "en": "By bus, we navigate protected through rainy Mezőhegyes. From the center, we quickly reach the main historical points, and the short distances between stops and attractions are ideal in the rain. At noon, the Stud provides a dry haven, and in the afternoon, public transit takes us safely to the forest edge before returning comfortably in the evening."
+          },
+          "stops": [
+            {
+              "name": "Center (Cluster A)",
+              "tip_5lang": {
+                "de": "Überdachtes Wartehäuschen im Zentrum nutzen.",
+                "hu": "Használja a központi fedett várótermet.",
+                "ro": "Folosiți stația acoperită din centru.",
+                "en": "Use the covered waiting area in the center."
+              }
+            },
+            {
+              "name": "Nonius Statue",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle; Schirm auf.",
+                "hu": "Rövid séta a megállótól; ernyőt fel!",
+                "ro": "Scurtă plimbare de la stație; umbrela sus!",
+                "en": "Short walk from the stop; umbrella up!"
+              }
+            },
+            {
+              "name": "St. George's Church",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist fast direkt vor dem Tor.",
+                "hu": "A megálló szinte közvetlenül a kapu előtt van.",
+                "ro": "Stația este aproape direct în fața porții.",
+                "en": "The stop is almost directly in front of the gate."
+              }
+            },
+            {
+              "name": "State Stud (Cluster B)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Gebäudeeingänge als Wetterschutz.",
+                "hu": "Használja az épületbejáratokat eső elleni védelemként.",
+                "ro": "Folosiți intrările clădirilor ca adăpost împotriva ploii.",
+                "en": "Use building entrances as shelter from the rain."
+              }
+            },
+            {
+              "name": "Riding Hall",
+              "tip_5lang": {
+                "de": "Orientieren Sie sich an den Fahrplänen im Aushang.",
+                "hu": "Tájékozódjon a kifüggesztett menetrendekből.",
+                "ro": "Informați-vă din orarele afișate.",
+                "en": "Check the posted schedules for information."
+              }
+            },
+            {
+              "name": "Pine Forest (Fenyves)",
+              "tip_5lang": {
+                "de": "Wartezeiten im Regen an der Waldhaltestelle minimieren.",
+                "hu": "Minimalizálja a várakozást az erdei megállóban.",
+                "ro": "Minimizați așteptarea în ploaie la stația de la pădure.",
+                "en": "Minimize waiting in the rain at the forest stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Busverbindungen vorab online.",
+              "Die Haltestellen sind meist nah an den Sehenswürdigkeiten.",
+              "Halten Sie Kleingeld für den Fahrkartenkauf bereit.",
+              "Vermeiden Sie Stoßzeiten, um einen Sitzplatz im Trockenen zu haben."
+            ],
+            "hu": [
+              "Ellenőrizze a buszjáratokat előre online.",
+              "A megállók többnyire közel vannak a látnivalókhoz.",
+              "Legyen kéznél aprópénz a jegyvásárláshoz.",
+              "Kerülje a csúcsidőt, hogy legyen ülőhelye a szárazban."
+            ],
+            "ro": [
+              "Verificați conexiunile de autobuz online în prealabil.",
+              "Stațiile sunt în mare parte aproape de obiective.",
+              "Aveți la îndemână mărunțiș pentru bilete.",
+              "Evitați orele de vârf pentru a avea loc pe scaun la uscat."
+            ],
+            "en": [
+              "Check bus connections online in advance.",
+              "Stops are mostly close to the sights.",
+              "Have small change ready for ticket purchase.",
+              "Avoid rush hours to secure a dry seat."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Bus erkunden wir das winterliche Mezőhegyes. Die Fahrt zwischen den historischen Monumenten ist eine willkommene Aufwärmpause, während wir die schneebedeckte Puszta durch das Fenster betrachten. Am Nachmittag bringt uns der Transit zum Wald, wo wir die Stille genießen, bevor wir pünktlich vor Einbruch der Dunkelheit die Rückreise zum warmen Zentrum antreten.",
+            "hu": "Fűtött buszon fedezzük fel a téli Mezőhegyest. A történelmi műemlékek közötti utazás kellemes melegedő szünet, miközben az ablakon át szemléljük a havas pusztát. Délután a tömegközlekedés az erdőhöz visz, ahol élvezzük a csendet, majd pontosan a sötétedés előtt visszautazunk a meleg központba.",
+            "ro": "În autobuzul încălzit explorăm Mezőhegyesul de iarnă. Călătoria între monumentele istorice este o pauză binevenită de încălzire, în timp ce privim pustia înzăpezită prin geam. După-amiaza transportul ne duce la pădure, unde ne bucurăm de liniște, apoi ne întoarcem la centrul cald înainte de lăsarea întunericului.",
+            "en": "In a heated bus, we explore winter Mezőhegyes. The journey between historical monuments is a welcome warming break as we view the snowy plains through the window. In the afternoon, transit takes us to the forest where we enjoy the silence, returning to the warm center punctually before dark."
+          },
+          "stops": [
+            {
+              "name": "Center (Cluster A)",
+              "tip_5lang": {
+                "de": "Die Wartehalle ist im Winter meist leicht beheizt.",
+                "hu": "A váróterem télen általában enyhén fűtött.",
+                "ro": "Sala de așteptare este de obicei ușor încălzită iarna.",
+                "en": "The waiting hall is usually slightly heated in winter."
+              }
+            },
+            {
+              "name": "Nonius Statue",
+              "tip_5lang": {
+                "de": "Nur kurzer Aufenthalt im Freien nötig.",
+                "hu": "Csak rövid ideig kell a szabadban tartózkodni.",
+                "ro": "Este necesară doar o scurtă ședere în aer liber.",
+                "en": "Only a short stay outdoors is necessary."
+              }
+            },
+            {
+              "name": "St. George's Church",
+              "tip_5lang": {
+                "de": "Windgeschützte Ecke an der Haltestelle suchen.",
+                "hu": "Keressen szélvédett sarkot a megállónál.",
+                "ro": "Căutați un colț ferit de vânt în stație.",
+                "en": "Look for a wind-protected corner at the stop."
+              }
+            },
+            {
+              "name": "State Stud (Cluster B)",
+              "tip_5lang": {
+                "de": "Das Gestüt ist gut an das Liniennetz angebunden.",
+                "hu": "A ménesbirtok jól kapcsolódik a vonalhálózathoz.",
+                "ro": "Herghelia este bine conectată la rețeaua de transport.",
+                "en": "The Stud is well connected to the transit network."
+              }
+            },
+            {
+              "name": "Riding Hall",
+              "tip_5lang": {
+                "de": "Beachten Sie mögliche Winterfahrplan-Änderungen.",
+                "hu": "Ügyeljen az esetleges téli menetrendi változásokra.",
+                "ro": "Atenție la eventualele modificări ale orarului de iarnă.",
+                "en": "Be aware of possible winter schedule changes."
+              }
+            },
+            {
+              "name": "Pine Forest (Fenyves)",
+              "tip_5lang": {
+                "de": "Letzten Bus vor der Dunkelheit nicht verpassen.",
+                "hu": "Ne késse le az utolsó buszt sötétedés előtt.",
+                "ro": "Nu ratați ultimul autobuz înainte de lăsarea întunericului.",
+                "en": "Don't miss the last bus before dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Kleidung für die Wartezeiten.",
+              "Nutzen Sie Apps für Echtzeit-Auskünfte bei Verspätungen.",
+              "Im Winter sind die Busse oft weniger frequentiert.",
+              "Die Gehwege zu den Haltestellen können glatt sein."
+            ],
+            "hu": [
+              "Viseljen meleg ruhát a várakozási időkre.",
+              "Használjon applikációkat a valós idejű menetrendekhez.",
+              "Télen a buszok ritkábban járhatnak.",
+              "A megállókhoz vezető járdák csúszósak lehetnek."
+            ],
+            "ro": [
+              "Purtați haine calde pentru timpii de așteptare.",
+              "Folosiți aplicații pentru informații în timp real despre întârzieri.",
+              "Iarna, autobuzele pot circula mai rar.",
+              "Trotuarele spre stații pot fi alunecoase."
+            ],
+            "en": [
+              "Wear warm clothes for the waiting periods.",
+              "Use apps for real-time information on delays.",
+              "Buses may run less frequently in winter.",
+              "Sidewalks to the stops can be slippery."
+            ]
+          }
+        }
       }
     }
   }

@@ -386,6 +386,214 @@
           "Plan enough time for the museums; they offer deep insights into the local culture.",
           "Enjoy the city's many green spaces for a break."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Rathausplatz im Nieselregen. Mittags bieten die Kirche Saint Martin und das CNA-Zentrum trockene Kulturräume. Nachmittags führen nasse Wege zu den Burgruinen am Mont St. Jean, wo festes Schuhwerk gegen den Matsch hilft. Der Abend klingt im geschützten Pavillon des Parc Le'h bei lokaler Gastronomie gemütlich aus.",
+            "hu": "A Városháza téren szemerkélő esőben kezdjük a napot. Délben a Szent Márton-templom és a CNA központ belső terei nyújtanak száraz menedéket. Délután a várromokhoz vezető erdei ösvény helyenként sáros, így vízálló bakancs ajánlott. Az estét a Parc Le'h éttermének fedett teraszán vagy belső termében zárjuk.",
+            "ro": "Dimineața începe în Piața Primăriei sub o ploaie ușoară. La prânz, Biserica Sf. Martin și centrul CNA oferă spații culturale uscate și primitoare. După-amiaza, potecile spre ruinele castelului pot fi noroioase, fiind necesară încălțăminte aderentă. Seara se încheie confortabil în zona protejată a Parc Le'h, savurând preparate locale.",
+            "en": "The morning starts with drizzle at Town Hall Square. At noon, Saint Martin's Church and the CNA centre offer dry cultural havens. Afternoon paths to the castle ruins can be muddy, so waterproof boots are essential. The evening concludes comfortably in the sheltered area of Parc Le'h with local dining options."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Unter den Arkaden des Rathauses trocken bleiben.",
+                "hu": "Használja a városháza árkádjait az eső ellen.",
+                "ro": "Adăpostiți-vă sub arcadele primăriei.",
+                "en": "Take cover under the town hall arcades."
+              }
+            },
+            {
+              "name": "Saint Martin's Church",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den ersten Regenschauer abzuwarten.",
+                "hu": "Tökéletes hely az első zápor kivárására.",
+                "ro": "Loc ideal pentru a aștepta trecerea primei averse.",
+                "en": "Perfect spot to wait out the first rain shower."
+              }
+            },
+            {
+              "name": "Water Tower Gallery",
+              "tip_5lang": {
+                "de": "Der Turm ist komplett überdacht und windgeschützt.",
+                "hu": "A torony teljesen fedett és szélvédett.",
+                "ro": "Turnul este complet acoperit și protejat de vânt.",
+                "en": "The tower is fully indoor and wind-protected."
+              }
+            },
+            {
+              "name": "CDMH Migration Museum",
+              "tip_5lang": {
+                "de": "Längerer Aufenthalt im Trockenen möglich.",
+                "hu": "Hosszabb időt is eltölthetünk itt szárazon.",
+                "ro": "Puteți petrece mai mult timp aici la adăpost.",
+                "en": "Ideal for a long, dry indoor visit."
+              }
+            },
+            {
+              "name": "CNA National Audiovisual Centre",
+              "tip_5lang": {
+                "de": "Große Indoor-Ausstellungen und Kinosäle.",
+                "hu": "Tágas beltéri kiállítások és mozitermek.",
+                "ro": "Expoziții interioare vaste și săli de cinema.",
+                "en": "Large indoor exhibitions and cinema halls."
+              }
+            },
+            {
+              "name": "Mont St. Jean Castle Ruins",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Steinstufen der Ruine.",
+                "hu": "Vigyázat a romok nedves kőlépcsőin.",
+                "ro": "Atenție la treptele de piatră ude ale ruinelor.",
+                "en": "Caution on the wet stone steps of the ruins."
+              }
+            },
+            {
+              "name": "Parc Le'h",
+              "tip_5lang": {
+                "de": "Das Restaurant im Park bietet Schutz vor dem Regen.",
+                "hu": "A park étterme menedéket nyújt az eső elől.",
+                "ro": "Restaurantul din parc oferă adăpost împotriva ploii.",
+                "en": "The park restaurant provides shelter from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die kostenlosen Busse (Linie 4, 5, 8) bei starkem Regen.",
+              "Die Museen am Südende der Stadt sind montags oft geschlossen.",
+              "Vermeiden Sie die Waldwege zur Haard, wenn es stark regnet (Rutschgefahr).",
+              "In Dudelange gibt es viele Cafés am Rathausplatz zum Aufwärmen.",
+              "Der Wasserturm bietet auch bei Regen eine tolle Aussicht von innen."
+            ],
+            "hu": [
+              "Használja az ingyenes buszokat (4, 5, 8 vonal) szakadó esőben.",
+              "A város déli részén lévő múzeumok hétfőnként zárva tarthatnak.",
+              "Erős esőben kerülje a Haard erdei ösvényeit a csúszásveszély miatt.",
+              "Dudelange főterén számos kávézó kínál menedéket a záporok elől.",
+              "A víztorony kilátója esőben is élvezhető a belső térből."
+            ],
+            "ro": [
+              "Folosiți autobuzele gratuite (liniile 4, 5, 8) în caz de ploaie torențială.",
+              "Muzeele din sudul orașului sunt adesea închise lunea.",
+              "Evitați potecile din pădurea Haard pe ploaie (risc de alunecare).",
+              "Piața Primăriei are multe cafenele pentru a vă încălzi între averse.",
+              "Turnul de apă oferă o vedere excelentă chiar și din interior."
+            ],
+            "en": [
+              "Use the free local buses (lines 4, 5, 8) during heavy downpours.",
+              "Check museum opening hours as many are closed on Mondays.",
+              "Avoid the unpaved forest trails in Haard if it is raining heavily.",
+              "Dudelange town square has plenty of cafes to wait out the rain.",
+              "The Water Tower gallery is a great indoor viewpoint during storms."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen beginnt am beleuchteten Rathausplatz. Mittags laden die geheizten Museen CNA und CDMH zu einer Entdeckungsreise in die Industriegeschichte ein. Gegen 16:30 Uhr sinkt die Sonne über den Burgruinen, was für ein magisches Licht sorgt. Der Abend wird bei heißer Schokolade in der Nähe des Stadtparks verbracht.",
+            "hu": "Zúzmarás téli reggel a kivilágított Városháza téren. Délben a CNA és CDMH fűtött kiállítóterei kínálnak kulturális feltöltődést és meleget. 16:30 körül a nap már lebukik a várromok mögött, aranybarna fénybe vonva a tájat. Az estét forró csokoládéval zárjuk a városközpont egyik hangulatos helyén.",
+            "ro": "O dimineață geroasă de iarnă în Piața Primăriei iluminate. La prânz, muzeele CNA și CDMH oferă căldură și o incursiune în istoria industrială. În jurul orei 16:30, soarele apune peste ruinele castelului, creând o lumină magică. Seara se petrece cu o ciocolată caldă lângă parcul orașului.",
+            "en": "A frosty winter morning starts at the illuminated Town Hall Square. At noon, the heated CNA and CDMH museums provide warmth and a journey into industrial history. Around 16:30, the sun sets over the castle ruins, casting a magical light. The evening is spent with hot chocolate near the town park."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Warme Handschuhe für den windigen Platz einplanen.",
+                "hu": "Meleg kesztyű ajánlott a szeles főtéren.",
+                "ro": "Planificați mănuși groase pentru piața vântoasă.",
+                "en": "Plan for warm gloves in the windy square."
+              }
+            },
+            {
+              "name": "Saint Martin's Church",
+              "tip_5lang": {
+                "de": "Ruhepause im meist mäßig geheizten Kirchenschiff.",
+                "hu": "Rövid pihenő a mérsékelten fűtött templombelsőben.",
+                "ro": "Pauză de liniște în naosul de obicei încălzit moderat.",
+                "en": "A quiet break in the moderately heated nave."
+              }
+            },
+            {
+              "name": "Water Tower Gallery",
+              "tip_5lang": {
+                "de": "In den oberen Etagen ist es angenehm warm.",
+                "hu": "A felső szinteken kellemesen meleg van.",
+                "ro": "La etajele superioare este plăcut și cald.",
+                "en": "The upper floors are comfortably warm."
+              }
+            },
+            {
+              "name": "CDMH Migration Museum",
+              "tip_5lang": {
+                "de": "Perfekt, um die kälteste Mittagszeit zu überbrücken.",
+                "hu": "Tökéletes a leghidegebb déli órák átvészelésére.",
+                "ro": "Perfect pentru a trece peste cele mai reci ore de prânz.",
+                "en": "Perfect for bridging the coldest midday hours."
+              }
+            },
+            {
+              "name": "CNA National Audiovisual Centre",
+              "tip_5lang": {
+                "de": "Moderne Heizung und gemütliche Leseecken.",
+                "hu": "Modern fűtés és kényelmes olvasósarkok.",
+                "ro": "Încălzire modernă și colțuri de lectură confortabile.",
+                "en": "Modern heating and cozy reading corners."
+              }
+            },
+            {
+              "name": "Mont St. Jean Castle Ruins",
+              "tip_5lang": {
+                "de": "Früher Sonnenuntergang gegen 16:30 Uhr beachten.",
+                "hu": "Figyeljen a korai, 16:30 körüli naplementére.",
+                "ro": "Atenție la apusul timpuriu, în jur de ora 16:30.",
+                "en": "Note the early sunset around 16:30."
+              }
+            },
+            {
+              "name": "Parc Le'h",
+              "tip_5lang": {
+                "de": "Winterspaziergang durch die kahlen, aber reizvollen Alleen.",
+                "hu": "Téli séta a kopár, de hangulatos fasorok között.",
+                "ro": "Plimbare de iarnă prin aleile desfrunzite, dar pitorești.",
+                "en": "Winter walk through the bare but charming alleys."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In Luxemburg ist der öffentliche Verkehr auch im Winter kostenlos.",
+              "Die Haard kann bei Frost sehr glatt sein; bleiben Sie auf Hauptwegen.",
+              "Die Sonne geht im Dezember bereits vor 17:00 Uhr unter.",
+              "Viele Cafés bieten im Winter traditionelle luxemburgische Suppen an.",
+              "Besuchen Sie den kleinen Weihnachtsmarkt am Rathausplatz (Dezember)."
+            ],
+            "hu": [
+              "Luxemburgban a tömegközlekedés télen is teljesen ingyenes.",
+              "A Haard ösvényei fagypont alatt jegesek lehetnek, maradjon az úton.",
+              "Decemberben a nap már 17:00 előtt lemegy.",
+              "Sok kávézó kínál hagyományos luxemburgi leveseket télen.",
+              "Látogassa meg a kis karácsonyi vásárt a főtéren (decemberben)."
+            ],
+            "ro": [
+              "În Luxemburg, transportul public este gratuit și pe timp de iarnă.",
+              "Potecile din Haard pot fi înghețate; rămâneți pe drumurile principale.",
+              "Soarele apune deja înainte de ora 17:00 în luna decembrie.",
+              "Multe cafenele oferă supe tradiționale luxemburgheze iarna.",
+              "Vizitați micul târg de Crăciun din Piața Primăriei (în decembrie)."
+            ],
+            "en": [
+              "Public transport across Luxembourg is free even in winter.",
+              "Trails in Haard can be icy; stick to the main paved paths.",
+              "The sun sets before 17:00 during the winter months.",
+              "Local cafes often serve hearty Luxembourgish soups in winter.",
+              "Check out the cozy Christmas market at the Town Hall (December)."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +950,196 @@
           "Bring plenty of water and snacks, especially for the ride to the nature reserve.",
           "Be aware of local traffic rules for cyclists."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radmorgen startet feucht am Rathausplatz. Dank der gut asphaltierten Wege sind die Kirche und die Museen schnell erreichbar. Mittags dienen die Kulturzentren als Trockenpause für Mensch und Material. Nachmittags erfordert die Fahrt zum Parc Le'h Vorsicht bei Nässe, bevor der Tag in der Stadt endet.",
+            "hu": "Nedves reggelivel indul a kerékpáros nap a főtéren. A jól aszfaltozott utaknak köszönhetően a templom és a múzeumok gyorsan elérhetőek. Délben a kulturális központok szolgálnak száraz pihenőhelyként. Délután a Parc Le'h felé vezető út óvatosságot igényel a vizes aszfalton.",
+            "ro": "Dimineața pe bicicletă începe umed în Piața Primăriei. Datorită drumurilor bine asfaltate, biserica și muzeele sunt rapid accesibile. La prânz, centrele culturale servesc drept pauză de uscare. După-amiaza, drumul spre Parc Le'h necesită prudență pe carosabilul ud.",
+            "en": "The cycling morning starts wet at Town Hall Square. Thanks to well-paved roads, the church and museums are quickly reachable. At noon, the cultural centres serve as a drying-off break. In the afternoon, the ride to Parc Le'h requires caution on wet surfaces before finishing."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf dem nassen Kopfsteinpflaster.",
+                "hu": "Vigyázzon az indulásnál a nedves macskakövön.",
+                "ro": "Atenție la plecare pe pavajul ud din piață.",
+                "en": "Be careful when starting on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Saint Martin's Church",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe suchen.",
+                "hu": "Keressen fedett biciklitárolót a közelben.",
+                "ro": "Căutați suporturi de biciclete acoperite în apropiere.",
+                "en": "Look for covered bike racks nearby."
+              }
+            },
+            {
+              "name": "Mont St. Jean Castle Ruins",
+              "tip_5lang": {
+                "de": "Der Anstieg kann bei Regen rutschig sein.",
+                "hu": "Az emelkedő esőben csúszós lehet.",
+                "ro": "Urcarea poate fi alunecoasă pe timp de ploaie.",
+                "en": "The uphill climb can be slippery in the rain."
+              }
+            },
+            {
+              "name": "Cultural Centre & Museums (CDMH, CNA)",
+              "tip_5lang": {
+                "de": "Fahrrad sicher abstellen und Kleidung trocknen.",
+                "hu": "Parkoljon le biztonságosan, és szárítsa meg ruháit.",
+                "ro": "Parcați bicicleta și uscați-vă hainele la interior.",
+                "en": "Park your bike securely and dry your gear inside."
+              }
+            },
+            {
+              "name": "Parc Le'h",
+              "tip_5lang": {
+                "de": "Kurze Pause unter den dichten Bäumen.",
+                "hu": "Rövid pihenő a sűrű lombok alatt.",
+                "ro": "Pauză scurtă sub copacii deși din parc.",
+                "en": "Short break under the dense trees."
+              }
+            },
+            {
+              "name": "Haard Nature Reserve",
+              "tip_5lang": {
+                "de": "MTB-Reifen mit gutem Profil sind hier Pflicht.",
+                "hu": "A jó profilú MTB gumik itt kötelezőek.",
+                "ro": "Anvelopele MTB cu profil bun sunt obligatorii aici.",
+                "en": "MTB tires with good tread are mandatory here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie scharfe Bremsmanöver auf dem Kopfsteinpflaster.",
+              "Die PC8-Radroute ist gut markiert, aber bei Regen teilweise laubbedeckt.",
+              "In Dudelange gibt es mehrere kostenlose E-Bike-Ladestationen.",
+              "Tragen Sie auffällige Regenbekleidung für bessere Sichtbarkeit.",
+              "Die Haard-Pfade sind nach Regen oft für Tage schlammig."
+            ],
+            "hu": [
+              "Kerülje az erős fékezést a vizes macskakövön.",
+              "A PC8 kerékpárút jól jelzett, de esőben néhol avaros lehet.",
+              "Dudelange-ban több ingyenes e-bike töltőpont is található.",
+              "Viseljen feltűnő esőruházatot a jobb láthatóság érdekében.",
+              "A Haard ösvényei eső után napokig sárosak maradhatnak."
+            ],
+            "ro": [
+              "Evitați frânările bruște pe pavajul ud.",
+              "Ruta ciclistă PC8 este bine marcată, dar poate fi acoperită de frunze.",
+              "În Dudelange există mai multe stații de încărcare gratuite pentru e-bike.",
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate.",
+              "Potecile din Haard rămân noroioase zile întregi după ploaie."
+            ],
+            "en": [
+              "Avoid sudden braking on wet cobblestone surfaces.",
+              "The PC8 bike route is well-marked but can be leafy when wet.",
+              "Dudelange offers several free e-bike charging stations.",
+              "Wear high-visibility rain gear for safety in traffic.",
+              "Haard trails often stay muddy for days after rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag auf zwei Rädern beginnt frisch. Die kurzen Wege zwischen Rathaus und Kirche halten die Kälte in Schach. Mittags bieten die Museen eine willkommene Aufwärmpause. Nachmittags ist die Fahrt durch die Haard bei klarem Frost besonders erfrischend, bevor man vor Einbruch der Dunkelheit zurückkehrt.",
+            "hu": "Frissen indul a téli nap két keréken. A városháza és a templom közötti rövid távok segítenek elviselni a hideget. Délben a múzeumok kínálnak szívesen látott felmelegedést. Délután a Haard fagyos erdejében tekerni igazi felfrissülés, mielőtt sötétedés előtt visszaérnénk.",
+            "ro": "Ziua de iarnă pe două roți începe revigorant. Distanțele scurte între primărie și biserică țin frigul la distanță. La prânz, muzeele oferă o pauză de încălzire binevenită. După-amiaza, tura prin Haard pe ger clar este revigorantă, înainte de revenirea la lăsarea serii.",
+            "en": "The winter day on two wheels starts fresh. The short distances between Town Hall and the church keep the cold at bay. At noon, the museums offer a welcome warming break. In the afternoon, riding through the frosty Haard forest is refreshing before returning before dark."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Reifendruck für besseren Grip bei Kälte prüfen.",
+                "hu": "Ellenőrizze a guminyomást a jobb tapadásért.",
+                "ro": "Verificați presiunea anvelopelor pentru aderență pe ger.",
+                "en": "Check tire pressure for better grip in the cold."
+              }
+            },
+            {
+              "name": "Saint Martin's Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Finger aufzuwärmen.",
+                "hu": "Rövid megálló az ujjak felmelegítésére.",
+                "ro": "Scurt popas pentru a vă încălzi degetele.",
+                "en": "Short stop to warm up your fingers."
+              }
+            },
+            {
+              "name": "Mont St. Jean Castle Ruins",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe auf den Wegen.",
+                "hu": "Vigyázzon az utakon lévő lefagyásokra.",
+                "ro": "Atenție la porțiunile înghețate de pe drum.",
+                "en": "Watch out for black ice on the paths."
+              }
+            },
+            {
+              "name": "Cultural Centre & Museums (CDMH, CNA)",
+              "tip_5lang": {
+                "de": "Garderobe für schwere Winterkleidung vorhanden.",
+                "hu": "Van ruhatár a nehéz téli ruhák számára.",
+                "ro": "Garderobă disponibilă pentru hainele groase.",
+                "en": "Cloakroom available for heavy winter gear."
+              }
+            },
+            {
+              "name": "Parc Le'h",
+              "tip_5lang": {
+                "de": "Frühzeitiger Rückweg wegen früher Dämmerung.",
+                "hu": "Induljon vissza időben a korai sötétedés miatt.",
+                "ro": "Reveniți devreme din cauza amurgului timpuriu.",
+                "en": "Return early due to the quick onset of dusk."
+              }
+            },
+            {
+              "name": "Haard Nature Reserve",
+              "tip_5lang": {
+                "de": "Vereiste Pfade im Schatten der Bäume meiden.",
+                "hu": "Kerülje a jeges ösvényeket az árnyékos részeken.",
+                "ro": "Evitați potecile înghețate din zonele umbrite.",
+                "en": "Avoid icy trails in the shaded areas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Fahrradhandschuhe gegen den Fahrtwind.",
+              "Die kostenlosen Vël'Ok-Fahrräder sind auch im Winter verfügbar.",
+              "Achten Sie auf Streusalz, das die Kette angreifen kann.",
+              "Planen Sie Ihre Tour so, dass Sie um 16:30 Uhr im Hellen fertig sind.",
+              "In der Haard sind die Hauptwege oft geräumt, Nebenwege nicht."
+            ],
+            "hu": [
+              "Viseljen hőtartó kesztyűt a menetszél ellen.",
+              "A Vël'Ok ingyenes kerékpárok télen is használhatóak.",
+              "Ügyeljen az útszóró sóra, amely károsíthatja a láncot.",
+              "Tervezze úgy az utat, hogy 16:30-ra, még világosban végezzen.",
+              "A Haard főútjait gyakran letakarítják, a mellékutakat nem."
+            ],
+            "ro": [
+              "Purtați mănuși termice speciale pentru ciclism.",
+              "Bicicletele gratuite Vël'Ok sunt disponibile și iarna.",
+              "Atenție la sarea de pe drum, care poate afecta lanțul.",
+              "Planificați tura astfel încât să terminați la 16:30, pe lumină.",
+              "În Haard, drumurile principale sunt curățate, cele secundare nu."
+            ],
+            "en": [
+              "Wear thermal cycling gloves against the wind chill.",
+              "The free Vël'Ok bikes remain available throughout winter.",
+              "Watch out for road salt, which can corrode your bike chain.",
+              "Aim to finish your outdoor riding by 16:30 before dark.",
+              "Main paths in Haard are often cleared, but side trails are not."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1520,214 @@
           "The cluster-walking method saves time and the hassle of finding parking.",
           "Keep a navigation app ready to navigate between clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt durch Dudelange beginnt entspannt im Auto. Parkplätze in der Nähe des Rathauses und der Museen ermöglichen kurze Wege im Regen. Mittags verbringt man viel Zeit in den Galerien des Wasserturms und des CNA. Nachmittags fährt man direkt zum Parkplatz am Mont St. Jean, um die Aussicht geschützt zu genießen.",
+            "hu": "Autóval kényelmesen indul a dudelange-i körút az esőben. A városháza és a múzeumok közeli parkolói minimálisra csökkentik a kint töltött időt. Délben a víztorony és a CNA galériáiban kalandozunk. Délután közvetlenül a Mont St. Jean parkolójába hajtunk, hogy védett helyről élvezzük a kilátást.",
+            "ro": "Călătoria prin Dudelange începe relaxat cu mașina. Parcarea lângă primărie și muzee permite distanțe scurte prin ploaie. La prânz, petreceți timp în galeriile Turnului de Apă și CNA. După-amiaza, conduceți direct spre parcarea de la Mont St. Jean pentru a admira vederea la adăpost.",
+            "en": "The drive through Dudelange starts relaxed despite the rain. Parking near the Town Hall and museums keeps walking distances short. At noon, spend time in the Water Tower and CNA galleries. In the afternoon, drive directly to the Mont St. Jean car park to enjoy the view while staying dry."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Centre (Parking)",
+              "tip_5lang": {
+                "de": "Parkhaus am Rathausplatz für trockenen Ausstieg nutzen.",
+                "hu": "Használja a főtéri parkolóházat a száraz kiszálláshoz.",
+                "ro": "Folosiți parcarea de la primărie pentru a coborî la uscat.",
+                "en": "Use the Town Hall car park for a dry exit."
+              }
+            },
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Direkt vor dem Eingang kurz halten zum Aussteigen.",
+                "hu": "Rövid megállás a bejárat előtt a kiszálláshoz.",
+                "ro": "Oprire scurtă chiar în fața intrării.",
+                "en": "Brief stop right in front of the entrance."
+              }
+            },
+            {
+              "name": "Saint Martin's Church",
+              "tip_5lang": {
+                "de": "Parkplätze direkt an der Kirche sind oft frei.",
+                "hu": "A templom melletti parkolók gyakran szabadok.",
+                "ro": "Locurile de parcare de lângă biserică sunt adesea libere.",
+                "en": "Parking spots right by the church are often available."
+              }
+            },
+            {
+              "name": "Water Tower & Cultural Mile (CNA, CDMH)",
+              "tip_5lang": {
+                "de": "Großer Parkplatz 'Place de l'Hôtel de Ville' nutzen.",
+                "hu": "Használja a 'Place de l'Hôtel de Ville' nagy parkolóját.",
+                "ro": "Folosiți parcarea mare 'Place de l'Hôtel de Ville'.",
+                "en": "Use the large 'Place de l'Hôtel de Ville' car park."
+              }
+            },
+            {
+              "name": "Cluster 2: Castle & View (Parking)",
+              "tip_5lang": {
+                "de": "Vom Parkplatz sind es nur 2 Min. bis zur Ruine.",
+                "hu": "A parkolótól csak 2 perc séta a rom.",
+                "ro": "De la parcare sunt doar 2 minute până la ruine.",
+                "en": "It's only a 2-minute walk from the car park to the ruins."
+              }
+            },
+            {
+              "name": "Cluster 3: Haard Nature Experience (Parking)",
+              "tip_5lang": {
+                "de": "Im Auto bleiben, wenn der Regenschauer zu stark ist.",
+                "hu": "Maradjon az autóban, ha túl erősen esik.",
+                "ro": "Rămâneți în mașină dacă ploaia este prea puternică.",
+                "en": "Stay in the car if the rain shower is too heavy."
+              }
+            },
+            {
+              "name": "Parc Le'h (on the way back)",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor dem Restaurant vorhanden.",
+                "hu": "Parkoló közvetlenül az étterem előtt.",
+                "ro": "Parcare disponibilă chiar în fața restaurantului.",
+                "en": "Parking available directly in front of the restaurant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Vroom' für freie Parkplätze in Dudelange.",
+              "Das Parken in der blauen Zone erfordert eine Parkscheibe.",
+              "Bei Starkregen können Senken in der Haard überflutet sein.",
+              "Vermeiden Sie die Rushhour (07:30-09:00 und 16:30-18:00).",
+              "Die meisten Sehenswürdigkeiten haben eigene, nahe Parkplätze."
+            ],
+            "hu": [
+              "Használja a 'Vroom' appot a szabad parkolóhelyekhez.",
+              "A kék zónában való parkoláshoz parkolótárcsa szükséges.",
+              "Erős esőzéskor a Haard mélyebb részei víz alá kerülhetnek.",
+              "Kerülje a csúcsforgalmat (07:30-09:00 és 16:30-18:00).",
+              "A legtöbb látnivaló saját, közeli parkolóval rendelkezik."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Vroom' pentru locuri de parcare libere.",
+              "Parcarea în zona albastră necesită un disc de parcare.",
+              "La ploi torențiale, zonele joase din Haard pot fi inundate.",
+              "Evitați orele de vârf (07:30-09:00 și 16:30-18:00).",
+              "Majoritatea obiectivelor au parcări proprii în apropiere."
+            ],
+            "en": [
+              "Use the 'Vroom' app to find available parking in Dudelange.",
+              "Blue zone parking requires a standard parking disc.",
+              "In heavy rain, low-lying spots in Haard can flood briefly.",
+              "Avoid rush hour traffic (07:30-09:00 and 16:30-18:00).",
+              "Most attractions offer their own convenient parking nearby."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour beginnt im beheizten Wagen am frostigen Rathausplatz. Die kurzen Wege zwischen den Parkplätzen schützen vor der Kälte. Mittags bieten die Museen Wärme und Kultur. Zum Sonnenuntergang fährt man bequem zum Mont St. Jean, bevor man den Abend in der Nähe des weihnachtlich beleuchteten Stadtzentrums ausklingen lässt.",
+            "hu": "A téli túra a fűtött autóban indul a fagyos főtéren. A parkolók közötti rövid távolságok megvédenek a hidegtől. Délben a múzeumok nyújtanak meleget és kultúrát. Naplementére kényelmesen kihajtunk a Mont St. Jean-hoz, majd az estét a karácsonyi fényekben úszó központban zárjuk.",
+            "ro": "Turul de iarnă începe în mașina încălzită în Piața Primăriei înghețată. Distanțele scurte între parcări vă protejează de frig. La prânz, muzeele oferă căldură și cultură. Pentru apus, conduceți confortabil spre Mont St. Jean, înainte de a încheia seara în centrul luminat festiv.",
+            "en": "The winter tour begins in a heated car at the frosty Town Hall Square. Short distances between parking lots protect you from the cold. At noon, museums offer warmth and culture. For sunset, drive comfortably to Mont St. Jean before ending the evening near the festively lit city centre."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Centre (Parking)",
+              "tip_5lang": {
+                "de": "Scheiben rechtzeitig enteisen für gute Sicht.",
+                "hu": "Időben jégtelenítse a szélvédőt a jó kilátáshoz.",
+                "ro": "Dezghețați parbrizul la timp pentru vizibilitate bună.",
+                "en": "De-ice your windshield in time for good visibility."
+              }
+            },
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter meist direkt am Platz frei.",
+                "hu": "Télen a parkolók általában szabadok a tér mellett.",
+                "ro": "Parcările sunt de obicei libere lângă piață iarna.",
+                "en": "Parking is usually available right by the square in winter."
+              }
+            },
+            {
+              "name": "Saint Martin's Church",
+              "tip_5lang": {
+                "de": "Motor nicht unnötig im Stand laufen lassen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil la staționare.",
+                "en": "Do not leave the engine idling unnecessarily."
+              }
+            },
+            {
+              "name": "Water Tower & Cultural Mile (CNA, CDMH)",
+              "tip_5lang": {
+                "de": "Großer Parkplatz ist gut geräumt und gestreut.",
+                "hu": "A nagy parkoló jól takarított és sózott.",
+                "ro": "Parcarea mare este bine curățată și presărată cu sare.",
+                "en": "The large car park is well-cleared and salted."
+              }
+            },
+            {
+              "name": "Cluster 2: Castle & View (Parking)",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf der Zufahrtsstraße zum Berg.",
+                "hu": "Vigyázzon a hegyre vezető út jegesedésére.",
+                "ro": "Atenție la polei pe drumul de acces spre deal.",
+                "en": "Watch out for black ice on the access road to the hill."
+              }
+            },
+            {
+              "name": "Cluster 3: Haard Nature Experience (Parking)",
+              "tip_5lang": {
+                "de": "Parkplatz kann bei Neuschnee schwer befahrbar sein.",
+                "hu": "Friss hóban a parkoló nehezen járható lehet.",
+                "ro": "Parcarea poate fi greu accesibilă la zăpadă proaspătă.",
+                "en": "Parking may be difficult in fresh snow conditions."
+              }
+            },
+            {
+              "name": "Parc Le'h (on the way back)",
+              "tip_5lang": {
+                "de": "Gemütlicher Ausstieg direkt am Eingang.",
+                "hu": "Kényelmes kiszállás közvetlenül a bejáratnál.",
+                "ro": "Coborâre confortabilă chiar la intrare.",
+                "en": "Convenient exit right at the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Luxemburg bei Frost/Schnee Pflicht.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Die Bergstraße zum Mont St. Jean wird priorisiert geräumt.",
+              "Parkhäuser bieten Schutz vor dem Einfrieren der Scheiben.",
+              "Vermeiden Sie Fahrten in die Haard bei extremem Schneefall."
+            ],
+            "hu": [
+              "Luxemburgban fagy/hó esetén kötelező a téli gumi.",
+              "Legyen Önnél jégkaparó és fagyálló folyadék.",
+              "A Mont St. Jean-hoz vezető utat kiemelten takarítják.",
+              "A parkolóházak megvédik a szélvédőt a befagyástól.",
+              "Extrém hóesésben kerülje az utat a Haard felé."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Luxemburg pe îngheț/zăpadă.",
+              "Aveți la îndemână o răzuitoare de gheață și lichid de parbriz.",
+              "Drumul spre Mont St. Jean este curățat cu prioritate.",
+              "Parcările acoperite protejează parbrizul împotriva înghețului.",
+              "Evitați deplasarea spre Haard la ninsori extreme."
+            ],
+            "en": [
+              "Winter tires are mandatory in Luxembourg in wintry conditions.",
+              "Keep an ice scraper and anti-freeze fluid in your car.",
+              "The road to Mont St. Jean is prioritized for snow clearance.",
+              "Indoor car parks prevent your windshield from icing up.",
+              "Avoid driving towards Haard during extreme snowfall."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2084,196 @@
           "Plan for buffer time between bus rides, as delays can occur.",
           "Pay attention to the last bus connection back, especially if you are in the nature reserve."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regentag mit dem Bus beginnt am Rathausplatz. Kurze Wartezeiten und überdachte Haltestellen machen den Weg zur Kirche und den Museen angenehm. Mittags bieten die Kulturzentren eine lange Trockenpause. Nachmittags bringt die Linie 8 Fahrgäste nahe an den Mont St. Jean, bevor man abends bequem zurück zum Bahnhof fährt.",
+            "hu": "Busszal indul az esős nap a Városháza térről. A rövid várakozási idő és a fedett megállók megkönnyítik az utat a múzeumokhoz. Délben a kulturális központok nyújtanak hosszú, száraz pihenőt. Délután a 8-as vonal közel visz a Mont St. Jean-hoz, majd este kényelmesen visszatérünk a vasútállomásra.",
+            "ro": "Ziua ploioasă cu autobuzul începe în Piața Primăriei. Timpii scurți de așteptare și stațiile acoperite fac drumul spre muzee plăcut. La prânz, centrele culturale oferă o pauză lungă la uscat. După-amiaza, linia 8 vă duce aproape de Mont St. Jean, înainte de a reveni seara la gară.",
+            "en": "The rainy day by bus starts at Town Hall Square. Short wait times and covered stops make the journey to museums pleasant. At noon, cultural centres provide a long dry break. In the afternoon, line 8 takes you close to Mont St. Jean before returning comfortably to the station in the evening."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at Town Hall Square",
+              "tip_5lang": {
+                "de": "Haltestelle 'Hôtel de Ville' ist direkt am Platz.",
+                "hu": "Az 'Hôtel de Ville' megálló közvetlenül a téren van.",
+                "ro": "Stația 'Hôtel de Ville' este chiar în piață.",
+                "en": "The 'Hôtel de Ville' stop is right on the square."
+              }
+            },
+            {
+              "name": "Saint Martin's Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle einplanen.",
+                "hu": "Tervezzen rövid sétát a buszmegállótól.",
+                "ro": "Planificați o scurtă plimbare de la stația de autobuz.",
+                "en": "Plan for a short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Cultural Mile (CNA, CDMH, Water Tower)",
+              "tip_5lang": {
+                "de": "Haltestelle 'Centre Culturel' bietet Schutz.",
+                "hu": "A 'Centre Culturel' megálló fedett.",
+                "ro": "Stația 'Centre Culturel' este acoperită.",
+                "en": "The 'Centre Culturel' stop is covered."
+              }
+            },
+            {
+              "name": "Cluster 2: Mont St. Jean Castle Ruins",
+              "tip_5lang": {
+                "de": "Buslinie 8 fährt in die Nähe der Ruinen.",
+                "hu": "A 8-as buszvonal a romok közelébe visz.",
+                "ro": "Linia de autobuz 8 oprește în apropierea ruinelor.",
+                "en": "Bus line 8 stops near the ruins."
+              }
+            },
+            {
+              "name": "Cluster 3: Parc Le'h & Haard",
+              "tip_5lang": {
+                "de": "Bei starkem Regen im Bus bis zum Park bleiben.",
+                "hu": "Erős esőben maradjon a buszon a parkig.",
+                "ro": "La ploaie torențială, rămâneți în autobuz până la parc.",
+                "en": "Stay on the bus until the park during heavy rain."
+              }
+            },
+            {
+              "name": "Walk in Haard Nature Reserve",
+              "tip_5lang": {
+                "de": "Waldwege können sehr matschig sein.",
+                "hu": "Az erdei utak nagyon sárosak lehetnek.",
+                "ro": "Potecile din pădure pot fi foarte noroioase.",
+                "en": "Forest paths can be very muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der gesamte öffentliche Verkehr in Luxemburg ist kostenlos.",
+              "Nutzen Sie die App 'Mobiliteit.lu' für Echtzeit-Infos.",
+              "Die Busse verkehren auch bei Regen sehr pünktlich.",
+              "Hallen am Bahnhof bieten guten Schutz vor Wind und Regen.",
+              "Linie 4 und 5 verbinden die wichtigsten Kulturzentren."
+            ],
+            "hu": [
+              "Luxemburgban minden tömegközlekedés ingyenes.",
+              "Használja a 'Mobiliteit.lu' appot a valós idejű infókért.",
+              "A buszok esőben is nagyon pontosan közlekednek.",
+              "A vasútállomás csarnoka védelmet nyújt a szél és eső ellen.",
+              "A 4-es és 5-ös vonal összeköti a főbb kulturális központokat."
+            ],
+            "ro": [
+              "Tot transportul public din Luxemburg este gratuit.",
+              "Folosiți aplicația 'Mobiliteit.lu' pentru informații în timp real.",
+              "Autobuzele circulă foarte punctual chiar și pe ploaie.",
+              "Halele gării oferă protecție bună împotriva vântului și ploii.",
+              "Liniile 4 și 5 conectează principalele centre culturale."
+            ],
+            "en": [
+              "All public transport in Luxembourg is completely free.",
+              "Use the 'Mobiliteit.lu' app for real-time bus schedules.",
+              "Buses run very punctually even during rainy weather.",
+              "The station hall provides good shelter from wind and rain.",
+              "Lines 4 and 5 connect the most important cultural centres."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag mit Bus und Bahn startet am festlich geschmückten Rathausplatz. Die geheizten Busse sind ideale Kälterückzugsorte zwischen den Stationen. Mittags laden die Museen zum langen Aufwärmen ein. Zum frühen Sonnenuntergang bringt die Linie 8 Sie zum Mont St. Jean, bevor Sie im Dunkeln sicher zurückfahren.",
+            "hu": "Busszal és vonattal indul a téli nap a díszes főtéren. A fűtött buszok ideális menedékek a hideg elől az állomások között. Délben a múzeumok hívogatnak hosszú felmelegedésre. A korai naplementére a 8-as vonal visz ki a Mont St. Jean-hoz, majd sötétben biztonságosan visszatérünk.",
+            "ro": "Ziua de iarnă cu autobuzul și trenul începe în piața decorată festiv. Autobuzele încălzite sunt refugii ideale împotriva frigului între stații. La prânz, muzeele vă invită la o încălzire lungă. Pentru apusul timpuriu, linia 8 vă duce la Mont St. Jean, înainte de revenirea în siguranță.",
+            "en": "The winter day by bus and train starts at the festively decorated Town Hall Square. Heated buses are ideal retreats from the cold between stops. At noon, museums invite you for a long warming session. For the early sunset, line 8 takes you to Mont St. Jean before returning safely in the dark."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at Town Hall Square",
+              "tip_5lang": {
+                "de": "Haltestelle ist beleuchtet und meist windgeschützt.",
+                "hu": "A megálló kivilágított és többnyire szélvédett.",
+                "ro": "Stația este iluminată și de obicei protejată de vânt.",
+                "en": "The stop is illuminated and mostly wind-protected."
+              }
+            },
+            {
+              "name": "Saint Martin's Church",
+              "tip_5lang": {
+                "de": "Busfrequenz ist auch im Winter sehr hoch.",
+                "hu": "A buszok gyakorisága télen is nagyon magas.",
+                "ro": "Frecvența autobuzelor este foarte mare și iarna.",
+                "en": "Bus frequency remains very high even in winter."
+              }
+            },
+            {
+              "name": "Cultural Mile (CNA, CDMH, Water Tower)",
+              "tip_5lang": {
+                "de": "Die Museen liegen direkt an den Buslinien 4/5.",
+                "hu": "A múzeumok közvetlenül a 4/5-ös buszvonalon vannak.",
+                "ro": "Muzeele sunt direct pe traseul liniilor 4/5.",
+                "en": "Museums are located directly on bus lines 4/5."
+              }
+            },
+            {
+              "name": "Cluster 2: Mont St. Jean Castle Ruins",
+              "tip_5lang": {
+                "de": "Letzte Rückfahrt vor der Dunkelheit planen.",
+                "hu": "Tervezze meg az utolsó visszautat sötétedés előtt.",
+                "ro": "Planificați ultima cursă de întoarcere înainte de întuneric.",
+                "en": "Plan your last return trip before it gets dark."
+              }
+            },
+            {
+              "name": "Cluster 3: Parc Le'h & Haard",
+              "tip_5lang": {
+                "de": "Haltewunschtaste im Bus rechtzeitig drücken.",
+                "hu": "Időben nyomja meg a leszállásjelzőt a buszon.",
+                "ro": "Apăsați butonul de oprire în timp util în autobuz.",
+                "en": "Press the stop request button in time on the bus."
+              }
+            },
+            {
+              "name": "Walk in Haard Nature Reserve",
+              "tip_5lang": {
+                "de": "Feste Winterstiefel für gefrorene Wege nötig.",
+                "hu": "Téli bakancs szükséges a fagyott utakhoz.",
+                "ro": "Ghete de iarnă necesare pentru potecile înghețate.",
+                "en": "Sturdy winter boots needed for frozen paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse und Bahnen sind im Winter gut geheizt.",
+              "An Sonntagen verkehren die Busse in Dudelange seltener.",
+              "Die Haltestelle 'Dudelange-Ville' ist der zentrale Knotenpunkt.",
+              "Warten Sie in den beheizten Wartehallen am Bahnhof.",
+              "Der Transport von Skiern oder Schlitten im Bus ist meist erlaubt."
+            ],
+            "hu": [
+              "A buszok és vonatok télen jól fűtöttek.",
+              "Vasárnaponként a buszok Dudelange-ban ritkábban járnak.",
+              "A 'Dudelange-Ville' megálló a központi csomópont.",
+              "Várjon a vasútállomás fűtött várótermeiben.",
+              "Síléc vagy szánkó szállítása a buszon általában megengedett."
+            ],
+            "ro": [
+              "Autobuzele și trenurile sunt bine încălzite iarna.",
+              "Duminica, autobuzele circulă mai rar în Dudelange.",
+              "Stația 'Dudelange-Ville' este nodul central de transport.",
+              "Așteptați în sălile de așteptare încălzite din gară.",
+              "Transportul schiurilor sau săniilor în autobuz este permis."
+            ],
+            "en": [
+              "Buses and trains are well-heated during the winter months.",
+              "Buses run less frequently in Dudelange on Sundays.",
+              "The 'Dudelange-Ville' stop is the central transit hub.",
+              "Wait inside the heated waiting areas at the train station.",
+              "Carrying skis or sleds on the bus is generally permitted."
+            ]
+          }
+        }
       }
     }
   }

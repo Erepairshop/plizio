@@ -342,6 +342,196 @@
           "Most museums are closed on Mondays, so plan accordingly.",
           "Always keep some cash on you for small purchases or tips."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Tage in Smoljan beginnen am besten im Geschichtsmuseum, wo die Schätze der Rhodopen trocken bewundert werden können. Mittags bietet die monumentale Kathedrale Schutz, gefolgt von einer faszinierenden Show im Planetarium, während es draußen prasselt. Der Nachmittag gehört der Kunstgalerie. Abends lockt eine gemütliche Mehana mit Kaminfeuer und lokalen Spezialitäten.",
+            "hu": "Az esős napokat Szmoljanban érdemes a Történeti Múzeumban kezdeni, ahol fedett helyen ismerhetjük meg a Rodope kincseit. Délben a monumentális székesegyház nyújt menedéket, majd a Planetárium csillagászati show-ja feledteti a kinti szürkeséget. Délután a művészeti galéria tárlatait böngésszük. Az estét egy kandallós mehanában zárjuk, forró helyi ételekkel.",
+            "ro": "Zilele ploioase în Smolyan încep ideal la Muzeul de Istorie, unde te poți adăposti explorând cultura Rodopilor. La prânz, catedrala monumentală oferă un refugiu liniștit, urmată de o vizită la Planetariu pentru un spectacol celest ferit de picuri. După-amiaza este dedicată galeriei de artă. Seara se încheie într-o mehana călduroasă, cu foc în șemineu și preparate locale.",
+            "en": "Rainy days in Smolyan are best spent exploring the Regional History Museum, keeping you dry among Rhodopean artifacts. Midday offers shelter in the grand cathedral, followed by a cosmic journey at the Planetarium while the rain falls outside. Spend the afternoon in the Art Gallery. Evening is perfect for a cozy tavern with a fireplace and hearty mountain food."
+          },
+          "stops": [
+            {
+              "name": "Altstadt von Smoljan",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der nahen Gebäude als Regenschutz.",
+                "hu": "Használja a közeli épületek árkádjait az eső elleni védekezéshez.",
+                "ro": "Folosiți arcadele clădirilor din apropiere pentru a vă feri de ploaie.",
+                "en": "Use the arcades of nearby buildings for temporary rain shelter."
+              }
+            },
+            {
+              "name": "Regionales Geschichtsmuseum",
+              "tip_5lang": {
+                "de": "Perfekter Ort für 1,5 Stunden im Trockenen; Garderobe vorhanden.",
+                "hu": "Tökéletes hely másfél óra szárazon töltéséhez; ruhatár van.",
+                "ro": "Loc ideal pentru a sta la uscat 1,5 ore; garderobă disponibilă.",
+                "en": "Ideal spot for 1.5 hours in the dry; cloakroom available."
+              }
+            },
+            {
+              "name": "Kathedrale St. Wissarion",
+              "tip_5lang": {
+                "de": "Großer Innenraum bietet exzellenten Schutz vor Güssen.",
+                "hu": "A tágas belső tér kiváló védelmet nyújt a záporok elől.",
+                "ro": "Interiorul vast oferă o protecție excelentă împotriva rafalelor.",
+                "en": "The vast interior provides excellent shelter from heavy showers."
+              }
+            },
+            {
+              "name": "Planetarium Smoljan",
+              "tip_5lang": {
+                "de": "Vollständig überdacht; Shows starten meist zur vollen Stunde.",
+                "hu": "Teljesen fedett; az előadások általában egész órakor kezdődnek.",
+                "ro": "Complet acoperit; spectacolele încep de obicei la oră fixă.",
+                "en": "Fully indoor; shows usually start on the hour."
+              }
+            },
+            {
+              "name": "Kunstgalerie Smoljan",
+              "tip_5lang": {
+                "de": "Ruhige Atmosphäre; ideal, um den stärksten Regen abzuwarten.",
+                "hu": "Csendes környezet, ideális a heves esőzés kivárásához.",
+                "ro": "Atmosferă liniștită; ideal pentru a aștepta trecerea ploii.",
+                "en": "Quiet atmosphere; perfect for waiting out the heaviest rain."
+              }
+            },
+            {
+              "name": "Traditionelle Mehana",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Tisch am Kamin, um Kleidung zu trocknen.",
+                "hu": "Kérjen asztalt a kandalló mellett a ruhák szárításához.",
+                "ro": "Cereți o masă lângă șemineu pentru a vă usca hainele.",
+                "en": "Ask for a table near the fireplace to dry off your clothes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Pflaster bei Nässe rutschig ist.",
+              "Das Planetarium ist der beste Rückzugsort bei starkem Gewitter.",
+              "Die Gehwege in der Nähe des Museums sind oft mit Pfützen übersät.",
+              "Nutzen Sie die lokalen Taxis für kurze Strecken zwischen den Museen.",
+              "Ein Regenschirm mit Sturmfestigkeit ist wegen der Bergwinde ratsam."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a térkő vizesen csúszóssá válik.",
+              "A Planetárium a legjobb menedék heves zivatarok esetén.",
+              "A múzeum környéki járdákon gyakran alakulnak ki nagyobb tócsák.",
+              "Használja a helyi taxikat a múzeumok közötti rövid távokra.",
+              "A hegyi szelek miatt érdemes viharálló esernyőt magával vinni."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul devine alunecos când e ud.",
+              "Planetariul este cel mai bun refugiu în caz de furtună puternică.",
+              "Trotuarele de lângă muzeu tind să acumuleze bălți mari.",
+              "Folosiți taxiurile locale pentru distanțe scurte între muzee.",
+              "Se recomandă o umbrelă rezistentă la vânt din cauza curenților montani."
+            ],
+            "en": [
+              "Wear waterproof shoes as the pavement gets slippery when wet.",
+              "The Planetarium is the best sanctuary during heavy thunderstorms.",
+              "Pavements near the museum often collect large puddles.",
+              "Consider using local taxis for short hops between the indoor sites.",
+              "A wind-resistant umbrella is advised due to mountain gusts."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen in Smoljan ist oft magisch verschneit. Das Geschichtsmuseum bietet einen warmen Start, bevor man die frostige Pracht der Kathedrale bewundert. Mittags wärmt das Planetarium Körper und Geist. Der kurze Weg zur Kunstgalerie führt durch die kalte Bergluft. Den Tag krönt ein deftiges Abendessen in einer beheizten Taverne mit traditionellem Patatnik.",
+            "hu": "A szmoljani téli reggelek gyakran hófödte varázslattal indulnak. A Történeti Múzeum melegében kezdünk, majd megcsodáljuk a katedrális jeges pompáját. Délben a Planetárium melegíti fel a testet és a lelket. A művészeti galériához vezető rövid séta alatt beszívjuk a friss hegyi levegőt. A napot fűtött tavernában zárjuk egy laktató patatnik mellett.",
+            "ro": "Diminețile de iarnă în Smolyan sunt adesea magice și înzăpezite. Muzeul de Istorie oferă un start călduros înainte de a admira splendoarea înghețată a catedralei. La prânz, Planetariul încălzește trupul și spiritul. Scurta plimbare spre galeria de artă se face prin aerul tăios montan. Ziua se încheie festiv într-o tavernă încălzită cu un patatnik tradițional.",
+            "en": "Winter mornings in Smolyan are often magically snow-covered. The History Museum provides a warm start before visiting the frost-dusted cathedral. At noon, the Planetarium warms both body and mind. A brisk walk through cold mountain air leads to the Art Gallery. Cap the day in a heated tavern with traditional Patatnik and local wine."
+          },
+          "stops": [
+            {
+              "name": "Zentrum von Smoljan",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen auf den Treppenstufen.",
+                "hu": "Vigyázzon a lépcsőkön kialakuló jeges foltokra.",
+                "ro": "Atenție la porțiunile înghețate de pe treptele scărilor.",
+                "en": "Watch out for icy patches on the outdoor stairs."
+              }
+            },
+            {
+              "name": "Regionales Geschichtsmuseum",
+              "tip_5lang": {
+                "de": "Gut beheizt; ideal zum Aufwärmen zwischen den Spaziergängen.",
+                "hu": "Jól fűtött; ideális felmelegedni a séták között.",
+                "ro": "Bine încălzit; ideal pentru a te dezmorți între plimbări.",
+                "en": "Well-heated; perfect for warming up between walks."
+              }
+            },
+            {
+              "name": "Kathedrale St. Wissarion",
+              "tip_5lang": {
+                "de": "Im Winter kühler; behalten Sie Ihren Mantel im Inneren an.",
+                "hu": "Télen hűvösebb; bent is érdemes kabátban maradni.",
+                "ro": "Mai răcoare iarna; păstrați haina pe dvs. în interior.",
+                "en": "Chilly in winter; keep your coat on inside the church."
+              }
+            },
+            {
+              "name": "Planetarium Smoljan",
+              "tip_5lang": {
+                "de": "Angenehm temperiert; ideal für die Mittagsstunden.",
+                "hu": "Kellemesen temperált; ideális a déli órákban.",
+                "ro": "Temperatură plăcută; ideal pentru orele prânzului.",
+                "en": "Comfortably warm; perfect for the midday hours."
+              }
+            },
+            {
+              "name": "Kunstgalerie Smoljan",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe und die Wärme der Ausstellungsräume.",
+                "hu": "Élvezze a kiállítótermek nyugalmát és melegét.",
+                "ro": "Bucurați-vă de liniștea și căldura sălilor de expoziție.",
+                "en": "Enjoy the quietude and warmth of the exhibition halls."
+              }
+            },
+            {
+              "name": "Traditionelle Mehana",
+              "tip_5lang": {
+                "de": "Probieren Sie heißen Rakia gegen den Frost.",
+                "hu": "Kóstolja meg a forró rakiát a fagy ellen.",
+                "ro": "Încercați o rachiu fiert pentru a alunga frigul.",
+                "en": "Try some hot Rakia to ward off the winter frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:45 Uhr unter.",
+              "Tragen Sie Schuhe mit tiefem Profil für den Schnee.",
+              "Warme Schals sind wegen der kalten Fallwinde unerlässlich.",
+              "Öffentliche Gebäude sind in der Regel sehr gut beheizt.",
+              "Die Gehwege werden oft erst spät am Vormittag geräumt."
+            ],
+            "hu": [
+              "A nap decemberben már 16:45 körül lemegy a hegyek mögé.",
+              "Viseljen mély profilú talppal rendelkező bakancsot a hóban.",
+              "A hideg völgyszél miatt a meleg sál elengedhetetlen.",
+              "A középületek általában nagyon jól fűtöttek.",
+              "A járdákat gyakran csak a délelőtti órákban takarítják le teljesen."
+            ],
+            "ro": [
+              "Soarele apune în decembrie deja în jurul orei 16:45.",
+              "Purtați ghete cu talpă aderentă pentru zăpadă.",
+              "Eșarfele groase sunt esențiale din cauza vântului rece de munte.",
+              "Clădirile publice sunt de regulă foarte bine încălzite.",
+              "Trotuarele sunt deszăpezite complet adesea abia spre prânz."
+            ],
+            "en": [
+              "Sunset occurs as early as 16:45 in December behind the peaks.",
+              "Wear boots with deep tread for walking on snow and ice.",
+              "Warm scarves are essential due to cold mountain downdrafts.",
+              "Public buildings are generally very well-heated inside.",
+              "Sidewalks are often fully cleared only by mid-morning."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -698,6 +888,196 @@
           "Wear a helmet and bright clothing.",
           "Bring a small lock to secure your bike at the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radsport in den Rhodopen bei Regen erfordert Vorsicht auf den steilen Serpentinen. Wir starten im Museum, um die schlimmsten Schauer abzuwarten, und radeln dann hinauf zu den Seen von Smoljan, die im Nebel mystisch wirken. Nach einem Besuch der Wasserfälle führt der Weg zurück zur Kathedrale. Ein warmes Abendessen dient zur Regeneration.",
+            "hu": "Az esőben való rodopi kerékpározás óvatosságot igényel a meredek szerpentineken. A múzeumban kezdünk a nagy záporok idején, majd feltekerünk a Szmoljani-tavakhoz, melyek ködben misztikus látványt nyújtanak. A vízesések érintése után visszatérünk a katedrálishoz, majd egy forró vacsorával regenerálódunk.",
+            "ro": "Ciclismul în Rodopi pe ploaie necesită prudență pe serpentinele abrupte. Începem la muzeu pentru a evita aversele mari, apoi urcăm spre lacurile Smolyan, care par mistice în ceață. După vizitarea cascadelor, drumul revine la catedrală. O cină caldă servește pentru refacere.",
+            "en": "Cycling the Rhodopes in the rain demands caution on steep serpentines. Start at the museum to wait out heavy showers, then ride up to the Smolyan Lakes, which look mystical in the mist. After visiting the waterfall canyon, return to the cathedral area for a warm, restorative dinner."
+          },
+          "stops": [
+            {
+              "name": "Regionales Geschichtsmuseum",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe suchen.",
+                "hu": "Keressen fedett kerékpártárolót a közelben.",
+                "ro": "Căutați suporturi de biciclete acoperite în apropiere.",
+                "en": "Look for covered bike racks in the vicinity."
+              }
+            },
+            {
+              "name": "Kunstgalerie Smoljan",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, nasse Handschuhe kurz auszuziehen.",
+                "hu": "Jó alkalom a vizes kesztyűk rövid levételére.",
+                "ro": "Ocazie bună pentru a scoate mănușile ude scurt timp.",
+                "en": "A good chance to take off wet gloves for a while."
+              }
+            },
+            {
+              "name": "Smoljaner Seen",
+              "tip_5lang": {
+                "de": "Die Wege können sehr schlammig sein; Schutzbleche nutzen.",
+                "hu": "Az utak nagyon sárosak lehetnek; használjon sárvédőt.",
+                "ro": "Potecile pot fi foarte noroioase; folosiți apărători.",
+                "en": "Trails can be very muddy; mudguards are essential."
+              }
+            },
+            {
+              "name": "Canyon der Wasserfälle",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassen Holzstegen; Rutschgefahr!",
+                "hu": "Vigyázzon a vizes fapallókon; csúszásveszély!",
+                "ro": "Atenție pe pasarelele de lemn ude; risc de alunecare!",
+                "en": "Be careful on wet wooden boardwalks; slip hazard!"
+              }
+            },
+            {
+              "name": "Kathedrale St. Wissarion",
+              "tip_5lang": {
+                "de": "Sichere Parkmöglichkeit vor dem Hauptportal.",
+                "hu": "Biztonságos parkolási lehetőség a főbejárat előtt.",
+                "ro": "Posibilitate de parcare sigură în fața portalului principal.",
+                "en": "Safe parking options available in front of the main portal."
+              }
+            },
+            {
+              "name": "Restaurant im Zentrum",
+              "tip_5lang": {
+                "de": "Kohlenhydrate laden nach der nassen Fahrt.",
+                "hu": "Töltse fel a szénhidrátkészleteit a vizes tekerés után.",
+                "ro": "Reîncărcați carbohidrații după cursa udă.",
+                "en": "Load up on carbohydrates after the wet ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Scheibenbremsen sind bei diesem Gefälle und Nässe ein Muss.",
+              "Tragen Sie neongelbe Regenkleidung wegen der schlechten Sicht.",
+              "Vermeiden Sie das Bremsen auf nassen Fahrbahnmarkierungen.",
+              "Prüfen Sie den Reifendruck; etwas weniger bietet mehr Grip.",
+              "Die Temperatur sinkt in den höheren Lagen bei Regen stark."
+            ],
+            "hu": [
+              "A tárcsafék elengedhetetlen ilyen lejtőkön és nedves időben.",
+              "Viseljen fényvisszaverő esőruházatot a rossz látási viszonyok miatt.",
+              "Kerülje a fékezést a felfestett útburkolati jeleken.",
+              "Ellenőrizze a guminyomást; a kicsit kevesebb jobb tapadást ad.",
+              "A hőmérséklet az esőben jelentősen csökken a magasabb részeken."
+            ],
+            "ro": [
+              "Frânele pe disc sunt obligatorii pe aceste pante când e ud.",
+              "Purtați haine de ploaie reflectorizante din cauza vizibilității scăzute.",
+              "Evitați frânarea pe marcajele rutiere umede.",
+              "Verificați presiunea; puțin mai mică oferă aderență mai bună.",
+              "Temperatura scade brusc în zonele înalte pe timp de ploaie."
+            ],
+            "en": [
+              "Disc brakes are a must for these slopes in wet conditions.",
+              "Wear high-visibility rain gear due to poor mountain visibility.",
+              "Avoid braking on wet road markings or metal covers.",
+              "Check tire pressure; slightly lower provides better grip on wet asphalt.",
+              "Temperatures drop significantly at higher altitudes during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter um Smoljan ist eine sportliche Herausforderung. Wir starten in beheizten Museen und erklimmen dann die verschneite Straße zu den gefrorenen Seen von Smoljan. Die kalte Luft bei der Abfahrt ist beißend, daher sind Zwischenstopps an der Kathedrale zum Aufwärmen wichtig. Der Tag endet in einer warmen Gaststätte mit Blick auf die verschneiten Gipfel.",
+            "hu": "A téli kerékpározás Szmoljan környékén komoly sportteljesítmény. Fűtött múzeumokban kezdünk, majd felkapaszkodunk a havas úton a befagyott Szmoljani-tavakhoz. A lejtmenetben a hideg levegő metsző, ezért fontosak a melegedő pihenők a katedrálisnál. A napot meleg vendéglőben zárjuk, kilátással a havas csúcsokra.",
+            "ro": "Ciclismul de iarnă în jurul orașului Smolyan este o provocare sportivă. Începem în muzee încălzite, apoi urcăm pe drumul înzăpezit spre lacurile înghețate Smolyan. Aerul rece la coborâre este tăios, deci opririle la catedrală pentru încălzire sunt vitale. Ziua se termină într-un local călduros cu vedere spre vârfurile troienite.",
+            "en": "Winter cycling around Smolyan is a true athletic challenge. Start in heated museums before climbing the snowy roads to the frozen Smolyan Lakes. The biting cold on the descent makes warm-up stops at the cathedral essential. The day ends in a cozy restaurant with views of the snow-capped Rhodope peaks."
+          },
+          "stops": [
+            {
+              "name": "Regionales Geschichtsmuseum",
+              "tip_5lang": {
+                "de": "Letzte Chance, die Winterhandschuhe im Warmen anzuziehen.",
+                "hu": "Utolsó esély a téli kesztyűk melegben való felhúzására.",
+                "ro": "Ultima șansă de a pune mănușile de iarnă la căldură.",
+                "en": "Last chance to put on winter gloves in the warmth."
+              }
+            },
+            {
+              "name": "Kunstgalerie Smoljan",
+              "tip_5lang": {
+                "de": "Achten Sie auf Streusalz an Ihrem Fahrradrahmen.",
+                "hu": "Ügyeljen az útszóró sóra a kerékpár vázán.",
+                "ro": "Atenție la sarea de pe drum pe cadrul bicicletei.",
+                "en": "Watch out for road salt buildup on your bike frame."
+              }
+            },
+            {
+              "name": "Smoljaner Seen",
+              "tip_5lang": {
+                "de": "Straße oft geräumt, aber Seitenstreifen können eisig sein.",
+                "hu": "Az út gyakran takarított, de az útpadka jeges lehet.",
+                "ro": "Drumul e deszăpezit, dar marginile pot fi înghețate.",
+                "en": "Roads are often cleared, but shoulders can be icy."
+              }
+            },
+            {
+              "name": "Canyon der Wasserfälle",
+              "tip_5lang": {
+                "de": "Nur mit Spikereifen oder zu Fuß im Schnee betreten.",
+                "hu": "Csak szöges gumival vagy gyalog menjen be a hóba.",
+                "ro": "Intrați doar cu anvelope cu ținte sau pe jos prin zăpadă.",
+                "en": "Enter only with studded tires or on foot in deep snow."
+              }
+            },
+            {
+              "name": "Kathedrale St. Wissarion",
+              "tip_5lang": {
+                "de": "Die Vorhalle schützt vor dem kalten Bergwind.",
+                "hu": "Az előcsarnok védelmet nyújt a hideg hegyi szél ellen.",
+                "ro": "Pridvorul oferă protecție împotriva vântului rece.",
+                "en": "The narthex provides protection from the cold mountain wind."
+              }
+            },
+            {
+              "name": "Restaurant im Zentrum",
+              "tip_5lang": {
+                "de": "Bestellen Sie heißen Tee mit lokalem Honig.",
+                "hu": "Rendeljen forró teát helyi mézzel.",
+                "ro": "Comandați un ceai fierbinte cu miere locală.",
+                "en": "Order hot tea with local honey to warm up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fettige Kettenschmierung ist bei Schnee und Salz wichtig.",
+              "Mehrlagige Kleidung (Zwiebelprinzip) schützt vor Unterkühlung.",
+              "Vermeiden Sie scharfe Kurven auf festgefahrenem Schnee.",
+              "Die Bremswirkung kann durch Eis auf den Felgen verzögert sein.",
+              "Nehmen Sie eine Thermoskanne mit warmem Getränk mit."
+            ],
+            "hu": [
+              "A zsíros lánckenés fontos hóban és sóban.",
+              "A réteges öltözködés véd a kihűlés ellen.",
+              "Kerülje az éles kanyarokat a letaposott havon.",
+              "A fékhatás késhet a felnikre fagyott jég miatt.",
+              "Vigyen magával termoszban meleg italt."
+            ],
+            "ro": [
+              "Lubrifierea grasă a lanțului e importantă în zăpadă și sare.",
+              "Îmbrăcămintea în straturi protejează împotriva hipotermiei.",
+              "Evitați virajele strânse pe zăpada bătătorită.",
+              "Eficiența frânării poate fi întârziată de gheața de pe jante.",
+              "Luați un termos cu băutură caldă la dvs."
+            ],
+            "en": [
+              "Heavy-duty chain lube is essential for snow and salt conditions.",
+              "Layered clothing (onion principle) protects against hypothermia.",
+              "Avoid sharp turns on hard-packed snow or ice patches.",
+              "Braking may be delayed if ice forms on the rims or pads.",
+              "Carry a thermos with a hot beverage for longer rides."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1078,6 +1458,214 @@
           "Be careful on narrow and winding roads.",
           "Stop at scenic viewpoints for photos."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bei Regen ist das Auto das ideale Mittel, um die tiefergelegene Uhlovitsa-Höhle zu besuchen, wo es ohnehin feucht ist. Der Vormittag beginnt kulturell im Stadtmuseum. Mittags genießen wir die Kathedrale, bevor wir zur Höhle fahren. Der Nachmittag bietet Ausblicke von der Nevyastata-Straße, oft dramatisch wolkenverhangen. Der Abend endet trocken und komfortabel im Stadtzentrum.",
+            "hu": "Esőben az autó a legjobb eszköz az Uhlovica-barlang meglátogatásához, ahol egyébként is nedves a környezet. A délelőtt a városi múzeumban indul. Délben a katedrálist látogatjuk meg, majd a barlang felé vesszük az irányt. Délután a Nevjasztata-út drámai felhői közt autózunk. Az este szárazon és kényelmesen zárul a központban.",
+            "ro": "Pe ploaie, mașina este mijlocul ideal pentru a vizita peștera Uhlovitsa, unde oricum este umed. Dimineața începe cultural la muzeul orașului. La prânz admirăm catedrala, apoi conducem spre peșteră. După-amiaza oferă vederi de pe drumul Nevyastata, adesea învăluit dramatic în nori. Seara se încheie uscat și confortabil în centru.",
+            "en": "In the rain, a car is the ideal way to reach Uhlovitsa Cave, where it's damp regardless of weather. Start the morning at the town museum. Visit the cathedral at noon before driving south. Afternoon brings dramatic cloud views from the Nevyastata eco-trail road. The evening concludes comfortably in the dry city center."
+          },
+          "stops": [
+            {
+              "name": "Parkplatz Zentrum",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz, oft Pfützenbildung; festes Schuhwerk.",
+                "hu": "Központi parkoló, gyakori tócsákkal; vízálló cipő ajánlott.",
+                "ro": "Parcare centrală, adesea cu bălți; încălțăminte solidă.",
+                "en": "Central parking, prone to puddles; waterproof footwear advised."
+              }
+            },
+            {
+              "name": "Regionales Geschichtsmuseum",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz; Schirm im Auto lassen.",
+                "hu": "Rövid séta a parkolótól; az esernyőt hagyja a kocsiban.",
+                "ro": "Scurtă mergere pe jos; lăsați umbrela în mașină.",
+                "en": "Short walk from parking; keep the umbrella in the car."
+              }
+            },
+            {
+              "name": "Kathedrale St. Wissarion",
+              "tip_5lang": {
+                "de": "Parken direkt an der Straße möglich; schneller Zugang.",
+                "hu": "Parkolás közvetlenül az utcán; gyors bejutás.",
+                "ro": "Parcare posibilă direct în stradă; acces rapid.",
+                "en": "Street parking available nearby for quick indoor access."
+              }
+            },
+            {
+              "name": "Uhlovitsa Höhle",
+              "tip_5lang": {
+                "de": "Im Inneren konstant 10-11°C; Regen draußen egal.",
+                "hu": "Bent állandó 10-11°C; a kinti eső nem számít.",
+                "ro": "Interior constant la 10-11°C; ploaia de afară nu contează.",
+                "en": "Constant 10-11°C inside; outdoor rain won't bother you."
+              }
+            },
+            {
+              "name": "Restaurant an der Arda",
+              "tip_5lang": {
+                "de": "Überdachte Terrasse mit Flussblick trotz Regen.",
+                "hu": "Fedett terasz folyóra néző kilátással az eső ellenére.",
+                "ro": "Terasă acoperită cu vedere la râu în ciuda ploii.",
+                "en": "Covered terrace with river views despite the rain."
+              }
+            },
+            {
+              "name": "Nevyastata Aussichtspunkt",
+              "tip_5lang": {
+                "de": "Vorsicht bei Nebel auf der schmalen Zufahrt.",
+                "hu": "Vigyázzon a ködben a szűk bekötőúton.",
+                "ro": "Atenție la ceață pe drumul de acces îngust.",
+                "en": "Exercise caution in fog on the narrow access road."
+              }
+            },
+            {
+              "name": "Rückreise / Zentrum",
+              "tip_5lang": {
+                "de": "Scheinwerfer wegen Gischt und schlechter Sicht prüfen.",
+                "hu": "Ellenőrizze a fényszórókat a rossz látási viszonyok miatt.",
+                "ro": "Verificați farurile din cauza vizibilității scăzute.",
+                "en": "Check headlights due to spray and poor visibility."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Aquaplaning-Gefahr auf der Strecke nach Uhlovitsa.",
+              "Die Bergstraßen können bei Starkregen Geröll führen.",
+              "Prüfen Sie den Zustand der Scheibenwischer vor der Abfahrt.",
+              "Nebel ist in den Rhodopen bei Regen sehr häufig.",
+              "Parkplätze an Sehenswürdigkeiten sind oft unbefestigt und matschig."
+            ],
+            "hu": [
+              "Akvaplaning veszély az Uhlovica felé vezető úton.",
+              "A hegyi utakra heves esőben kőfelhordás kerülhet.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "A Rodopéban eső idején nagyon gyakori a köd.",
+              "A látnivalóknál a parkolók gyakran burkolatlanok és sárosak."
+            ],
+            "ro": [
+              "Risc de acvaplanare pe drumul spre Uhlovitsa.",
+              "Drumurile montane pot avea grohotiș după ploi torențiale.",
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "Ceața este foarte frecventă în Rodopi pe timp de ploaie.",
+              "Parcările la obiective sunt adesea neasfaltate și noroioase."
+            ],
+            "en": [
+              "Hydroplaning risk on the road south towards Uhlovitsa.",
+              "Mountain roads may have debris or small rocks after heavy rain.",
+              "Ensure your windshield wipers are in top condition before leaving.",
+              "Fog is extremely common in the Rhodopes during rainfall.",
+              "Parking areas at natural sites are often unpaved and muddy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterfahrten um Smoljan erfordern ein gut vorbereitetes Fahrzeug. Nach dem Museumsbesuch führt uns die Route zur frostigen Kathedrale. Mittags fahren wir zur Uhlovitsa-Höhle, die im Winter angenehm warm wirkt. Der Nachmittag bietet spektakuläre Ausblicke auf verschneite Wälder bei der Nevyastata-Fahrt. Den Abend genießen wir bei regionaler Küche im warmen Zentrum.",
+            "hu": "A Szmoljan környéki téli autózáshoz jól felkészített jármű kell. A múzeumlátogatás után a fagyos katedrálishoz hajtunk. Délben az Uhlovica-barlangot keressük fel, amely télen kellemesen melegnek hat. Délután a Nevjasztata-út havas erdői nyújtanak látványt. Az estét regionális ételek mellett töltjük a meleg belvárosban.",
+            "ro": "Călătoriile de iarnă în jurul orașului Smolyan necesită un vehicul bine pregătit. După muzeu, ruta ne duce la catedrala înghețată. La prânz vizităm peștera Uhlovitsa, care pare plăcut de caldă iarna. După-amiaza oferă vederi spectaculoase spre pădurile înzăpezite pe drumul Nevyastata. Seara savurăm bucătăria regională în centrul călduros.",
+            "en": "Winter driving around Smolyan requires a well-prepared vehicle. After the museum, head to the frost-covered cathedral. At noon, visit Uhlovitsa Cave, which feels surprisingly warm in winter. Afternoon drives near Nevyastata offer spectacular views of snowy pine forests. Enjoy regional cuisine in the warm city center to end the day."
+          },
+          "stops": [
+            {
+              "name": "Parkplatz Zentrum",
+              "tip_5lang": {
+                "de": "Möglicherweise Schneehaufen auf den Stellplätzen.",
+                "hu": "A parkolóhelyeken hókupacok fordulhatnak elő.",
+                "ro": "Posibile mormane de zăpadă pe locurile de parcare.",
+                "en": "Snow piles might occupy parts of the parking spaces."
+              }
+            },
+            {
+              "name": "Regionales Geschichtsmuseum",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul să meargă inutil în staționare.",
+                "en": "Avoid idling your engine for too long in the cold."
+              }
+            },
+            {
+              "name": "Kathedrale St. Wissarion",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf rutschigem Untergrund.",
+                "hu": "Vigyázzon a kiszálláskor a csúszós talajra.",
+                "ro": "Atenție la coborârea din mașină pe sol alunecos.",
+                "en": "Be careful when exiting the car onto slippery ground."
+              }
+            },
+            {
+              "name": "Uhlovitsa Höhle",
+              "tip_5lang": {
+                "de": "Der Aufstieg zum Eingang kann bei Schnee anstrengend sein.",
+                "hu": "A bejárathoz vezető út a hóban fárasztó lehet.",
+                "ro": "Urcarea spre intrare poate fi obositoare prin zăpadă.",
+                "en": "The climb to the cave entrance can be tough in deep snow."
+              }
+            },
+            {
+              "name": "Restaurant an der Arda",
+              "tip_5lang": {
+                "de": "Parkplatz wird meist schnell geräumt.",
+                "hu": "A parkolót általában gyorsan letakarítják.",
+                "ro": "Parcarea este de obicei deszăpezită rapid.",
+                "en": "The parking area is usually cleared quickly here."
+              }
+            },
+            {
+              "name": "Nevyastata Aussichtspunkt",
+              "tip_5lang": {
+                "de": "Nur befahren, wenn die Straße schwarz geräumt ist.",
+                "hu": "Csak akkor hajtson be, ha az út teljesen le van takarítva.",
+                "ro": "Conduceți aici doar dacă drumul este curățat la negru.",
+                "en": "Only drive up if the road has been cleared to the asphalt."
+              }
+            },
+            {
+              "name": "Rückreise / Zentrum",
+              "tip_5lang": {
+                "de": "Vor der Fahrt Schnee vom Dach und den Leuchten entfernen.",
+                "hu": "Indulás előtt takarítsa le a havat a tetőről és a lámpákról.",
+                "ro": "Curățați zăpada de pe plafon și lumini înainte de plecare.",
+                "en": "Clear all snow from the roof and lights before driving."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Schneeketten sind im Kofferraum Pflicht.",
+              "Die Passstraßen können jederzeit kurzfristig gesperrt werden.",
+              "Achten Sie auf Wildwechsel in der Dämmerung auf Schneefahrbahn.",
+              "Halten Sie den Tank für Notfälle mindestens halb voll.",
+              "Frostschutz in der Scheibenwaschanlage bis -20°C nötig."
+            ],
+            "hu": [
+              "Téli gumi és hólánc kötelező a csomagtartóban.",
+              "A hágókat bármikor rövid időre lezárhatják.",
+              "Vigyázzon a vadakra szürkületben a havas utakon.",
+              "Tartsa a tankot legalább félig vészhelyzet esetére.",
+              "Fagyálló szélvédőmosó szükséges -20°C-ig."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și lanțurile sunt obligatorii în portbagaj.",
+              "Pasurile montane pot fi închise oricând pe termen scurt.",
+              "Atenție la animale sălbatice la amurg pe carosabilul înzăpezit.",
+              "Păstrați rezervorul cel puțin pe jumătate plin pentru urgențe.",
+              "Antigel pentru parbriz necesar până la -20°C."
+            ],
+            "en": [
+              "Winter tires are mandatory; carry snow chains in the trunk.",
+              "Mountain passes can close at short notice due to snow drifts.",
+              "Watch for wildlife crossing the road during snowy twilight.",
+              "Keep your fuel tank at least half full for emergencies.",
+              "Ensure windshield washer fluid is rated for at least -20°C."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1414,6 +2002,196 @@
           "Be on time at the bus stops.",
           "Ask locals for the right bus line if you're unsure; they are usually helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus durch das regnerische Smoljan zu fahren, ist die trockenste Option. Wir besuchen die Museen und die Kathedrale im Zentrum. Mittags nehmen wir den Bus zu den Smoljaner Seen, wo die Natur im Regen eine besondere Stille ausstrahlt. Den späten Nachmittag verbringen wir in der Kunstgalerie, bevor wir zum Abendessen ins Zentrum zurückkehren.",
+            "hu": "Busszal közlekedni az esős Szmoljanban a legszárazabb opció. Meglátogatjuk a múzeumokat és a központi katedrálist. Délben busszal megyünk a Szmoljani-tavakhoz, ahol a természet az esőben különleges csendet áraszt. A késő délutánt a galériában töltjük, majd visszatérünk a központba vacsorázni.",
+            "ro": "Călătoria cu autobuzul prin Smolyanul ploios este cea mai uscată opțiune. Vizităm muzeele și catedrala centrală. La prânz luăm autobuzul spre lacurile Smolyan, unde natura emană o liniște deosebită pe ploaie. Petrecem după-amiaza târzie la galeria de artă înainte de cină.",
+            "en": "Taking the bus through rainy Smolyan is the driest transit option. Visit the museums and the central cathedral with ease. At noon, take the bus up to the Smolyan Lakes, where nature radiates a unique stillness in the rain. Spend the late afternoon at the Art Gallery before returning to the center."
+          },
+          "stops": [
+            {
+              "name": "Busbahnhof / Haltestelle",
+              "tip_5lang": {
+                "de": "Überdachte Wartehäuschen nutzen; Fahrplan-App prüfen.",
+                "hu": "Használja a fedett várókat; ellenőrizze a menetrendet.",
+                "ro": "Folosiți refugiile acoperite; verificați aplicația de transport.",
+                "en": "Use the covered shelters; check the local schedule app."
+              }
+            },
+            {
+              "name": "Regionales Geschichtsmuseum",
+              "tip_5lang": {
+                "de": "Haltestelle fast direkt vor dem Eingang.",
+                "hu": "A megálló szinte közvetlenül a bejárat előtt van.",
+                "ro": "Stația este aproape direct în fața intrării.",
+                "en": "Bus stop is located almost directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Kathedrale St. Wissarion",
+              "tip_5lang": {
+                "de": "Warten Sie in der Vorhalle, wenn der Bus Verspätung hat.",
+                "hu": "Várjon az előcsarnokban, ha késik a busz.",
+                "ro": "Așteptați în pridvor dacă autobuzul întârzie.",
+                "en": "Wait inside the narthex if the bus is running late."
+              }
+            },
+            {
+              "name": "Kunstgalerie Smoljan",
+              "tip_5lang": {
+                "de": "Ideale Busverbindung vom Zentrum (Linie 1 oder 2).",
+                "hu": "Ideális buszkapcsolat a központból (1-es vagy 2-es vonal).",
+                "ro": "Conexiune ideală cu autobuzul din centru (linia 1 sau 2).",
+                "en": "Frequent bus connections from the center (Line 1 or 2)."
+              }
+            },
+            {
+              "name": "Smoljaner Seen",
+              "tip_5lang": {
+                "de": "Busse fahren seltener; Rückfahrt genau planen.",
+                "hu": "A buszok ritkábban járnak; tervezze meg pontosan a visszautat.",
+                "ro": "Autobuzele circulă mai rar; planificați exact returul.",
+                "en": "Buses are less frequent here; plan your return carefully."
+              }
+            },
+            {
+              "name": "Restaurant im Zentrum",
+              "tip_5lang": {
+                "de": "Nahe der zentralen Umstiegspunkte gelegen.",
+                "hu": "A központi átszállási pontok közelében található.",
+                "ro": "Situat aproape de punctele centrale de transfer.",
+                "en": "Located conveniently near the central transit hubs."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrkarten können meist direkt beim Fahrer gekauft werden.",
+              "In Bussen kann es bei Regen durch nasse Kleidung stickig sein.",
+              "Die Busse sind bei Regen oft voller als gewöhnlich.",
+              "Achten Sie auf die Ansagen; Fenster sind oft beschlagen.",
+              "Haben Sie Kleingeld für die Fahrpreise bereit."
+            ],
+            "hu": [
+              "Jegyet általában közvetlenül a sofőrtől lehet venni.",
+              "A buszokon esőben a vizes ruhák miatt fülledt lehet a levegő.",
+              "Az eső miatt a buszok gyakran telítettebbek a szokásosnál.",
+              "Figyeljen a bemondásokra; az ablakok gyakran bepárásodnak.",
+              "Legyen Önnél aprópénz a jegyvásárláshoz."
+            ],
+            "ro": [
+              "Biletele pot fi cumpărate de obicei direct de la șofer.",
+              "În autobuze poate fi zăpuseală din cauza hainelor ude.",
+              "Autobuzele sunt adesea mai aglomerate pe timp de ploaie.",
+              "Atenție la anunțuri; geamurile sunt adesea aburite.",
+              "Aveți pregătit mărunțiș pentru plata biletului."
+            ],
+            "en": [
+              "Tickets can usually be purchased directly from the driver.",
+              "Buses might feel stuffy due to passengers' wet clothing.",
+              "Expect buses to be more crowded than usual during rain.",
+              "Listen for stop announcements as windows often fog up.",
+              "Keep small change ready for quick ticket purchases."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Nahverkehr in Smoljan trotzt dem Schnee meist zuverlässig. Wir erkunden die Museen im Warmen und nutzen die Busse zwischen den Stationen. Ein Highlight ist die Fahrt hinauf zu den Seen, wo die Winterlandschaft beeindruckt. Nach dem Aufwärmen an der Kathedrale genießen wir den späten Nachmittag in der Kunstgalerie. Der Abend endet gemütlich bei regionaler Küche.",
+            "hu": "A szmoljani közösségi közlekedés általában megbízhatóan dacol a hóval. Fűtött múzeumokat látogatunk, és buszt használunk az állomások között. Kiemelt élmény a tavakhoz való feljutás, ahol lenyűgöző a téli táj. A katedrálisnál való felmelegedés után a galériában töltjük a délutánt. Az este regionális ételekkel zárul.",
+            "ro": "Transportul local din Smolyan înfruntă zăpada de regulă cu succes. Explorăm muzeele la căldură și folosim autobuzele între obiective. Un punct forte este drumul spre lacuri, unde peisajul de iarnă impresionează. După încălzirea la catedrală, petrecem după-amiaza la galeria de artă. Seara se încheie festiv.",
+            "en": "Smolyan's transit system generally handles the snow quite reliably. Explore heated museums and hop on buses between the main sites. A ride up to the lakes offers impressive snowy vistas. After a quick warm-up at the cathedral, spend the late afternoon at the Art Gallery followed by a cozy local dinner."
+          },
+          "stops": [
+            {
+              "name": "Busbahnhof / Haltestelle",
+              "tip_5lang": {
+                "de": "Wartebereiche können durch Schneematsch rutschig sein.",
+                "hu": "A váróterületek a hókásától csúszósak lehetnek.",
+                "ro": "Zonele de așteptare pot fi alunecoase din cauza lăstocului.",
+                "en": "Waiting areas can be slippery due to slushy snow."
+              }
+            },
+            {
+              "name": "Regionales Geschichtsmuseum",
+              "tip_5lang": {
+                "de": "Busse halten sehr nah; minimiert den Kältekontakt.",
+                "hu": "A buszok nagyon közel állnak meg; minimalizálja a hideget.",
+                "ro": "Autobuzele opresc foarte aproape; reduce contactul cu frigul.",
+                "en": "Buses stop very close, minimizing time spent in the cold."
+              }
+            },
+            {
+              "name": "Kathedrale St. Wissarion",
+              "tip_5lang": {
+                "de": "Prüfen Sie Abfahrtszeiten; Verspätungen bei Neuschnee möglich.",
+                "hu": "Ellenőrizze az indulást; friss hóban késések lehetnek.",
+                "ro": "Verificați orele; posibile întârzieri la ninsoare proaspătă.",
+                "en": "Check schedules; fresh snow can cause minor delays."
+              }
+            },
+            {
+              "name": "Kunstgalerie Smoljan",
+              "tip_5lang": {
+                "de": "Gut beheizter Bus auf der Strecke zurück ins Zentrum.",
+                "hu": "Jól fűtött busz a központba visszavezető vonalon.",
+                "ro": "Autobuz bine încălzit pe ruta de întoarcere în centru.",
+                "en": "Buses on the route back to the center are usually well-heated."
+              }
+            },
+            {
+              "name": "Smoljaner Seen",
+              "tip_5lang": {
+                "de": "Nur befahren, wenn der Winterdienst die Strecke freigibt.",
+                "hu": "Csak akkor menjen, ha a hókotrók megtisztították az utat.",
+                "ro": "Mergeți doar dacă drumul a fost curățat de utilaje.",
+                "en": "Only travel here if the winter road service has cleared the path."
+              }
+            },
+            {
+              "name": "Restaurant im Zentrum",
+              "tip_5lang": {
+                "de": "Kurze Fußwege von der Haltestelle zur Gaststätte.",
+                "hu": "Rövid séta a megállótól a vendéglőig.",
+                "ro": "Drum scurt de la stație până la restaurant.",
+                "en": "Short walking distance from the bus stop to the restaurant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei extremem Schneefall variieren.",
+              "Tragen Sie warme Schuhe; Wartezeiten im Freien sind möglich.",
+              "Die Heizung in den Bussen ist oft sehr stark eingestellt.",
+              "Die letzte Fahrt von den Seen zurück ist oft gegen 17:00 Uhr.",
+              "Klopfen Sie den Schnee von den Schuhen vor dem Einsteigen."
+            ],
+            "hu": [
+              "Extrém havazás esetén a menetrendek változhatnak.",
+              "Viseljen meleg cipőt; várakozás a szabadban előfordulhat.",
+              "A buszokon a fűtés gyakran nagyon erősre van állítva.",
+              "Az utolsó járat a tavaktól visszafelé gyakran 17:00 körül van.",
+              "Felszállás előtt rázza le a havat a cipőjéről."
+            ],
+            "ro": [
+              "Orarele pot varia în caz de ninsori extreme.",
+              "Purtați încălțăminte groasă; sunt posibile așteptări în frig.",
+              "Căldura în autobuze este adesea reglată la maximum.",
+              "Ultima cursă de la lacuri spre oraș este de regulă la 17:00.",
+              "Scuturați zăpada de pe încălțăminte înainte de urcare."
+            ],
+            "en": [
+              "Schedules may fluctuate during extreme blizzard conditions.",
+              "Wear warm boots as you may have to wait outside at stops.",
+              "Bus heating is often cranked up high in the winter months.",
+              "The last bus back from the lakes is usually around 17:00.",
+              "Kick the snow off your boots before boarding the bus."
+            ]
+          }
+        }
       }
     }
   }

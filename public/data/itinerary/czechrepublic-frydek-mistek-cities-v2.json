@@ -379,6 +379,214 @@
           "Check the opening hours for museums and churches in advance.",
           "Many signs are in Czech only, so having an offline map or a translation app is useful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Místek beginnt am Freiheitsplatz, wo lokale Cafés ideale Zufluchtsorte bieten. In der St.-Johannes-Kirche bewundern Sie die Barockkunst im Trockenen. Mittags führt der Weg über den Fluss zum Schlossplatz. Der Nachmittag gehört den Ausstellungen im Schloss Frýdek und der Basilika. Ein ruhiger Besuch in der St.-Jakobs-Kirche beschließt den Tag geschützt vor dem Wetter.",
+            "hu": "Az esős reggel Místek főterén indul, ahol a hangulatos kávézók nyújtanak menedéket. A Keresztelő Szent János-templom belső terei szárazon tartják a látogatót. Délben a kastélynegyed felé vesszük az irányt. A délután tökéletes helyszíne a Frýdeki vár múzeuma és a monumentális Bazilika. A napot a Szent Jakab-templom csendes látogatásával zárjuk, távol a kültéri esőtől.",
+            "ro": "O dimineață ploioasă în Místek începe în Piața Libertății, unde cafenelele locale oferă adăpostul ideal. În interiorul bisericii Sf. Ioan Botezătorul admirați arta barocă la adăpost de ploaie. La prânz traversăm râul spre zona castelului. După-amiaza este dedicată muzeului din Castelul Frýdek și Bazilicii. Ziua se încheie cu o vizită liniștită la biserica Sf. Iacob, protejați de vremea de afară.",
+            "en": "A rainy morning in Místek begins at Freedom Square, where local cafes provide the perfect refuge. Inside the Church of St. John the Baptist, you can admire Baroque art while staying dry. At noon, head across the river to the castle square. The afternoon is best spent exploring the exhibitions of Frýdek Castle and the Basilica. A quiet visit to St. James Church ends the day sheltered from the weather."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square (Místecké náměstí)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden und Cafés am Platz, um dem stärksten Regen auszuweichen.",
+                "hu": "Használja a tér árkádjait és kávézóit, hogy elkerülje a hevesebb esőt.",
+                "ro": "Folosiți arcadele și cafenelele din piață pentru a evita ploaia torențială.",
+                "en": "Use the square's arcades and cafes to dodge the heaviest rain."
+              }
+            },
+            {
+              "name": "Church of St. John the Baptist",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die Architektur zu genießen, während es draußen regnet.",
+                "hu": "Tökéletes hely az építészet élvezetére, amíg odakint esik az eső.",
+                "ro": "Un loc perfect pentru a admira arhitectura în timp ce afară plouă.",
+                "en": "A perfect spot to enjoy the architecture while it rains outside."
+              }
+            },
+            {
+              "name": "Old Hydroelectric Power Plant",
+              "tip_5lang": {
+                "de": "Betrachten Sie das Industriedenkmal kurz von der Brücke aus, halten Sie den Schirm bereit.",
+                "hu": "Tekintse meg az ipari műemléket a hídról, tartsa készenlétben az esernyőt.",
+                "ro": "Admirați monumentul industrial de pe pod, țineți umbrela la îndemână.",
+                "en": "View the industrial monument from the bridge, keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Castle Square (Zámecké náměstí)",
+              "tip_5lang": {
+                "de": "Überqueren Sie den Platz zügig in Richtung Schlosseingang.",
+                "hu": "Gyorsan haladjon át a téren a vár bejárata felé.",
+                "ro": "Traversați rapid piața spre intrarea în castel.",
+                "en": "Cross the square quickly towards the castle entrance."
+              }
+            },
+            {
+              "name": "Frýdek Castle",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein; die Innenräume sind absolut sehenswert und trocken.",
+                "hu": "Tervezzen ide több időt; a belső terek lenyűgözőek és szárazak.",
+                "ro": "Planificați mai mult timp aici; interioarele merită vizitate și sunt uscate.",
+                "en": "Plan more time here; the interiors are well worth seeing and dry."
+              }
+            },
+            {
+              "name": "Basilica of the Visitation of Our Lady",
+              "tip_5lang": {
+                "de": "Die spirituelle Stille und das Dach bieten Schutz vor dem grauen Wetter.",
+                "hu": "A spirituális csend és a tető védelmet nyújt a szürke időjárás ellen.",
+                "ro": "Liniștea spirituală și acoperișul oferă protecție împotriva vremii gri.",
+                "en": "The spiritual silence and the roof offer protection from the grey weather."
+              }
+            },
+            {
+              "name": "St. James Church",
+              "tip_5lang": {
+                "de": "Lassen Sie den Tag hier ruhig ausklingen, bevor Sie ein nahes Restaurant aufsuchen.",
+                "hu": "Zárja itt a napot nyugodtan, mielőtt keresne egy közeli éttermet.",
+                "ro": "Încheiați ziua aici în liniște, înainte de a căuta un restaurant din apropiere.",
+                "en": "End your day here peacefully before finding a nearby restaurant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Kopfsteinpflastergassen rutschig sein können.",
+              "Die Basilika und das Schloss bieten die längsten Aufenthalte im Trockenen.",
+              "Nutzen Sie die Cafés am Místecké náměstí für gemütliche Pausen.",
+              "Ein Regenschirm ist wegen der kurzen Wege zwischen den Sehenswürdigkeiten unerlässlich.",
+              "Prüfen Sie die Öffnungszeiten des Schlosses, da es der Hauptzufluchtsort am Nachmittag ist."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskaköves utcák csúszósak lehetnek.",
+              "A Bazilika és a vár kínálja a leghosszabb száraz időtöltést.",
+              "Használja ki a Místecké náměstí kávézóit a kellemes pihenőkhöz.",
+              "Az esernyő elengedhetetlen a látnivalók közötti rövid sétákhoz.",
+              "Ellenőrizze a vár nyitvatartását, mivel ez a fő délutáni menedékhely."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece străzile pietruite pot fi alunecoase.",
+              "Bazilica și castelul oferă cele mai lungi perioade de ședere la adăpost.",
+              "Profitați de cafenelele din Místecké náměstí pentru pauze plăcute.",
+              "Umbrela este esențială pentru plimbările scurte între obiective.",
+              "Verificați programul castelului, fiind principalul loc de refugiu după-amiaza."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestone streets can get slippery.",
+              "The Basilica and the castle offer the longest indoor stays.",
+              "Take advantage of the cafes on Místecké náměstí for cozy breaks.",
+              "An umbrella is essential for the short walks between attractions.",
+              "Check the castle's opening hours as it's the main afternoon shelter."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Místek verspricht frische Luft auf dem Freiheitsplatz. Die Wärme der St.-Johannes-Kirche ist nach dem Spaziergang willkommen. Nach einem herzhaften Mittagessen führt der Weg zum Schlossplatz, wo die Wintersonne tief steht. Das beheizte Schloss Frýdek bietet faszinierende Einblicke, bevor die Dämmerung einsetzt. Den Tag krönt ein Besuch der beleuchteten Basilika und ein Moment der Stille in der St.-Jakobs-Kirche.",
+            "hu": "A friss téli reggel Místek főterén indul, a csípős levegő után jól esik a Szent János-templom melege. Egy kiadós ebéd után a kastélynegyed felé vesszük az irányt, ahol a téli nap alacsonyan jár. A fűtött Frýdeki vár belső terei érdekes látnivalókat kínálnak a korai sötétedés előtt. A napot a kivilágított Bazilika látványa és a Szent Jakab-templom csendje teszi teljessé.",
+            "ro": "O dimineață răcoroasă de iarnă în Místek promite aer curat în Piața Libertății. Căldura bisericii Sf. Ioan Botezătorul este binevenită după plimbare. După un prânz consistent, mergem spre zona castelului sub soarele slab de iarnă. Castelul Frýdek, încălzit, oferă vizite fascinante înainte de lăsarea serii. Ziua se încheie cu imaginea Bazilicii iluminate și liniștea bisericii Sf. Iacob.",
+            "en": "A crisp winter morning in Místek promises fresh air at Freedom Square. The warmth of St. John the Baptist Church is welcome after the walk. After a hearty lunch, head to the castle square under the low winter sun. The heated Frýdek Castle offers fascinating insights before dusk sets in. The day is crowned by the sight of the illuminated Basilica and a moment of silence in St. James Church."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square (Místecké náměstí)",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Atmosphäre und suchen Sie ein Café zum Aufwärmen auf.",
+                "hu": "Élvezze a téli hangulatot, és keressen egy kávézót a felmelegedéshez.",
+                "ro": "Bucurați-vă de atmosfera de iarnă și căutați o cafenea pentru a vă încălzi.",
+                "en": "Enjoy the winter atmosphere and find a cafe to warm up."
+              }
+            },
+            {
+              "name": "Church of St. John the Baptist",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten den Wind ab; ein Ort der Ruhe und relativen Wärme.",
+                "hu": "A vastag falak távol tartják a szelet; a nyugalom és a relatív meleg helye.",
+                "ro": "Zidurile groase țin vântul la distanță; un loc de liniște și căldură relativă.",
+                "en": "The thick walls keep the wind out; a place of peace and relative warmth."
+              }
+            },
+            {
+              "name": "Old Hydroelectric Power Plant",
+              "tip_5lang": {
+                "de": "Der Blick auf den winterlichen Fluss Ostravice ist besonders reizvoll.",
+                "hu": "A téli Ostravice-folyó látványa különösen vonzó ilyenkor.",
+                "ro": "Vederea râului Ostravice înghețat este deosebit de frumoasă.",
+                "en": "The view of the wintry Ostravice river is particularly charming."
+              }
+            },
+            {
+              "name": "Castle Square (Zámecké náměstí)",
+              "tip_5lang": {
+                "de": "Bei Schnee wirkt der historische Platz wie aus einem Märchen.",
+                "hu": "Hóesésben a történelmi tér olyan, mintha egy meséből lépett volna elő.",
+                "ro": "Înzăpezită, piața istorică arată ca dintr-un basm.",
+                "en": "When snowy, the historic square looks like something out of a fairy tale."
+              }
+            },
+            {
+              "name": "Frýdek Castle",
+              "tip_5lang": {
+                "de": "Die Innenbesichtigung ist die beste Wahl für den kalten Nachmittag.",
+                "hu": "A belső vezetés a legjobb választás a hideg délutánon.",
+                "ro": "Vizitarea interiorului este cea mai bună alegere pentru o după-amiază rece.",
+                "en": "An indoor tour is the best choice for a cold afternoon."
+              }
+            },
+            {
+              "name": "Basilica of the Visitation of Our Lady",
+              "tip_5lang": {
+                "de": "Achten Sie auf die festliche Beleuchtung in der frühen Dämmerung.",
+                "hu": "Figyelje meg az ünnepi kivilágítást a korai szürkületben.",
+                "ro": "Observați iluminarea festivă la lăsarea timpurie a serii.",
+                "en": "Notice the festive lighting in the early twilight."
+              }
+            },
+            {
+              "name": "St. James Church",
+              "tip_5lang": {
+                "de": "Ein besinnlicher Abschluss, bevor Sie sich in ein gemütliches Gasthaus begeben.",
+                "hu": "Meghitt zárás, mielőtt betérne egy barátságos vendéglőbe.",
+                "ro": "O încheiere meditativă înainte de a merge într-un han primitor.",
+                "en": "A contemplative end before heading to a cozy inn."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten, da es in den Kirchen kühl, aber windgeschützt ist.",
+              "Die Sonne geht im Winter bereits gegen 16:00 Uhr unter.",
+              "Kopfsteinpflaster kann bei Frost sehr glatt sein; Vorsicht beim Gehen.",
+              "Wärmen Sie sich zwischendurch mit einem heißen tschechischen Tee auf.",
+              "Planen Sie die Außenbesichtigungen für die Mittagsstunden mit dem meisten Licht."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a templomokban hűvös van, de szélvédett.",
+              "A nap télen már 16:00 óra körül lemegy.",
+              "A macskakő fagyban nagyon csúszós lehet; óvatosan közlekedjen.",
+              "Melegedjen fel útközben egy forró cseh teával.",
+              "A kültéri látnivalókat a legvilágosabb déli órákra ütemezze."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, deoarece în biserici este răcoare, dar ești ferit de vânt.",
+              "Soarele apune iarna în jurul orei 16:00.",
+              "Pavelele pot fi foarte alunecoase în caz de îngheț; atenție la mers.",
+              "Încălziți-vă pe parcurs cu un ceai fierbinte ceh.",
+              "Planificați vizitele în aer liber pentru orele amiezii, când este cea mai multă lumină."
+            ],
+            "en": [
+              "Dress in layers as it is cool inside the churches but protected from the wind.",
+              "The sun sets around 4:00 PM in winter.",
+              "Cobblestones can be very slippery when frozen; be careful walking.",
+              "Warm up during the day with some hot Czech tea.",
+              "Schedule outdoor sightseeing for the midday hours with the most light."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +937,196 @@
           "A helmet is strongly recommended for your safety.",
           "Pay attention to the designated bike paths and be respectful of pedestrians."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet Frýdek-Místek für Radfahrer reizvolle Wege. Der Morgen beginnt am Freiheitsplatz, gefolgt von einem Besuch im Schloss Frýdek, wo das Rad sicher geparkt werden kann. Die Basilika bietet eine spirituelle Pause. Das Mittagessen am Fluss Ostravice stärkt für die Weiterfahrt zur Olešná-Talsperre, wo der Regen die Natur besonders frisch wirken lässt. Der Tag endet zurück im Stadtzentrum von Místek.",
+            "hu": "Az eső ellenére Frýdek-Místek kerékpárral is felfedezhető. A reggel a főtéren indul, majd a vár meglátogatása következik, ahol biztonságosan lezárhatjuk a biciklit. A Bazilika békés pihenőt nyújt. Az Ostravice-parti ebéd után az Olešná-víztározó felé tekerünk, ahol az eső frissé teszi a természetet. A napot Místek központjában zárjuk.",
+            "ro": "În ciuda ploii, Frýdek-Místek oferă trasee atractive pentru bicicliști. Dimineața începe în piață, urmată de o vizită la castel, unde bicicleta poate fi parcată în siguranță. Bazilica oferă o pauză spirituală. Prânzul pe malul râului Ostravice vă pregătește pentru drumul spre lacul Olešná, unde natura pare proaspătă sub ploaie. Ziua se încheie în centrul orașului Místek.",
+            "en": "Despite the rain, Frýdek-Místek offers attractive paths for cyclists. The morning starts at Freedom Square, followed by a visit to the castle where bikes can be safely parked. The Basilica provides a spiritual break. Lunch by the Ostravice river powers you up for the ride to Olešná Reservoir, where the rain makes nature feel fresh. The day ends back in the center of Místek."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square (Místecké náměstí)",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie auf nassem Kopfsteinpflaster losfahren.",
+                "hu": "Ellenőrizze a fékeket, mielőtt elindul a nedves macskakövön.",
+                "ro": "Verificați frânele înainte de a porni pe pavajul ud.",
+                "en": "Check your brakes before setting off on wet cobblestones."
+              }
+            },
+            {
+              "name": "Frýdek Castle",
+              "tip_5lang": {
+                "de": "Suchen Sie einen überdachten Platz für Ihr Fahrrad im Schlossbereich.",
+                "hu": "Keressen fedett helyet a kerékpárjának a vár területén.",
+                "ro": "Căutați un loc acoperit pentru bicicletă în zona castelului.",
+                "en": "Look for a covered spot for your bike in the castle area."
+              }
+            },
+            {
+              "name": "Basilica of the Visitation of Our Lady",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine Innenbesichtigung, während ein Schauer vorbeizieht.",
+                "hu": "Használja ki az időt a belső tér megtekintésére, amíg elvonul egy zápor.",
+                "ro": "Folosiți timpul pentru a vizita interiorul în timp ce trece o aversă.",
+                "en": "Use the time to visit the interior while a shower passes by."
+              }
+            },
+            {
+              "name": "Lunch by the River",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Innenbereich, um Ihre Kleidung zu trocknen.",
+                "hu": "Válasszon belső térrel rendelkező éttermet, hogy megszáríthassa ruháit.",
+                "ro": "Alegeți un restaurant cu interior pentru a vă usca hainele.",
+                "en": "Choose a restaurant with indoor seating to dry your clothes."
+              }
+            },
+            {
+              "name": "Olešná Reservoir",
+              "tip_5lang": {
+                "de": "Die Wege um den See sind asphaltiert und auch bei Regen gut befahrbar.",
+                "hu": "A tó körüli utak aszfaltozottak és esőben is jól tekerhetőek.",
+                "ro": "Traseele din jurul lacului sunt asfaltate și practicabile chiar și pe ploaie.",
+                "en": "The paths around the lake are paved and easy to ride even in rain."
+              }
+            },
+            {
+              "name": "Back to Freedom Square",
+              "tip_5lang": {
+                "de": "Ein warmer Tee am Ende der Tour vertreibt die Feuchtigkeit.",
+                "hu": "Egy meleg tea a túra végén elűzi a nedvességet.",
+                "ro": "Un ceai cald la finalul turului alungă umezeala.",
+                "en": "A warm tea at the end of the tour will drive away the dampness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Regenbekleidung und Schutzbleche sind heute Ihre besten Freunde.",
+              "Vermeiden Sie schnelle Kurven auf nassem Kopfsteinpflaster im Zentrum.",
+              "Die Strecke zur Olešná-Talsperre ist flach und sicher.",
+              "Nutzen Sie die Kirchenbesuche als geplante Regenpausen.",
+              "Wischen Sie Sattel und Griffe nach jedem Stopp trocken."
+            ],
+            "hu": [
+              "A jó esőruházat és a sárvédő ma a legjobb barátja lesz.",
+              "Kerülje a hirtelen kanyarodást a nedves városi macskakövön.",
+              "Az út az Olešná-víztározóhoz sík és biztonságos.",
+              "Használja a templomlátogatásokat tervezett esőszünetnek.",
+              "Minden megálló után törölje szárazra a nyerget és a kormányt."
+            ],
+            "ro": [
+              "Echipamentul bun de ploaie și apărătorile sunt cei mai buni prieteni astăzi.",
+              "Evitați virajele strânse pe pavajul ud din centru.",
+              "Traseul spre lacul Olešná este plat și sigur.",
+              "Folosiți vizitele la biserici ca pauze de ploaie planificate.",
+              "Ștergeți șaua și mânerele după fiecare oprire."
+            ],
+            "en": [
+              "Good rain gear and mudguards are your best friends today.",
+              "Avoid sharp turns on wet cobblestones in the center.",
+              "The route to Olešná Reservoir is flat and safe.",
+              "Use church visits as planned rain breaks.",
+              "Wipe your saddle and grips dry after each stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter erfordert Vorbereitung, belohnt aber mit klaren Aussichten. Vom Freiheitsplatz geht es zum Schloss Frýdek, wo die Geschichte in warmen Räumen wartet. Nach der Basilika folgt eine Fahrt entlang der Ostravice zum Mittagessen. Das Highlight ist die Olešná-Talsperre, die im Winterlicht oft magisch wirkt. Bevor es zu dunkel wird, kehren Sie ins beleuchtete Místek zurück, um den Tag gemütlich zu beenden.",
+            "hu": "A téli kerékpározás felkészülést igényel, de tiszta kilátással jutalmaz. A főtérről a Frýdeki várba tekerünk, ahol meleg szobákban vár a történelem. A Bazilika után az Ostravice mentén megyünk ebédelni. A fénypont az Olešná-víztározó, amely a téli fényben gyakran varázslatos. Mielőtt besötétedik, térjünk vissza a kivilágított Místekbe egy kellemes estére.",
+            "ro": "Ciclismul de iarnă necesită pregătire, dar oferă vederi clare. Din piață mergem la castelul Frýdek, unde istoria așteaptă în camere calde. După Bazilică, urmăm râul Ostravice spre prânz. Punctul culminant este lacul Olešná, care arată magic în lumina iernii. Înainte de întuneric, reveniți în Místek pentru o seară plăcută.",
+            "en": "Winter cycling requires preparation but rewards you with clear views. From Freedom Square, head to Frýdek Castle, where history awaits in warm rooms. After the Basilica, ride along the Ostravice for lunch. The highlight is Olešná Reservoir, which often looks magical in winter light. Before it gets too dark, return to illuminated Místek for a cozy evening."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square (Místecké náměstí)",
+              "tip_5lang": {
+                "de": "Starten Sie gut eingepackt; Handschuhe sind bei dieser Kälte Pflicht.",
+                "hu": "Induljon jól felöltözve; a kesztyű kötelező ebben a hidegben.",
+                "ro": "Porniți bine echipat; mănușile sunt obligatorii pe acest frig.",
+                "en": "Start well-wrapped; gloves are mandatory in this cold."
+              }
+            },
+            {
+              "name": "Frýdek Castle",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände bei einer Führung durch die Schlossgemächer.",
+                "hu": "Melegítse fel a kezét a várkastély termeiben tartott vezetés alatt.",
+                "ro": "Încălziți-vă mâinile în timpul unui tur al camerelor castelului.",
+                "en": "Warm your hands during a guided tour of the castle rooms."
+              }
+            },
+            {
+              "name": "Basilica of the Visitation of Our Lady",
+              "tip_5lang": {
+                "de": "Die Ruhe im Inneren ist ein schöner Kontrast zur kalten Fahrt.",
+                "hu": "A benti nyugalom szép kontraszt a hideg kerékpározás után.",
+                "ro": "Liniștea din interior este un contrast plăcut față de drumul rece.",
+                "en": "The peace inside is a nice contrast to the cold ride."
+              }
+            },
+            {
+              "name": "Lunch by the River",
+              "tip_5lang": {
+                "de": "Eine heiße Suppe ist jetzt genau das Richtige für die Weiterfahrt.",
+                "hu": "Egy forró leves most a legjobb választás a folytatás előtt.",
+                "ro": "O supă fierbinte este exact ce trebuie pentru continuarea drumului.",
+                "en": "A hot soup is exactly what you need for the onward journey."
+              }
+            },
+            {
+              "name": "Olešná Reservoir",
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Eisflächen auf den Wegen am Ufer.",
+                "hu": "Ügyeljen az esetleges jeges foltokra a tóparti utakon.",
+                "ro": "Atenție la eventualele porțiuni cu gheață pe drumurile de pe mal.",
+                "en": "Watch out for possible icy patches on the paths by the shore."
+              }
+            },
+            {
+              "name": "Back to Freedom Square",
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour, solange noch das letzte Tageslicht leuchtet.",
+                "hu": "Fejezze be a túrát, amíg még tart az utolsó nappali fény.",
+                "ro": "Încheiați turul cât încă mai este puțină lumină naturală.",
+                "en": "Finish the tour while the last daylight still lingers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Kleidung und winddichte Handschuhe.",
+              "Kontrollieren Sie den Reifendruck; im Winter ist etwas weniger Grip oft besser.",
+              "Vermeiden Sie Fahrten nach 16:30 Uhr wegen der Dunkelheit.",
+              "Ein Thermosbecher mit heißem Tee im Flaschenhalter ist ideal.",
+              "Parken Sie das Rad an beleuchteten Stellen, wenn Sie Museen besuchen."
+            ],
+            "hu": [
+              "Viseljen termaruházatot és szélálló kesztyűt.",
+              "Ellenőrizze a guminyomást; télen a kicsit kisebb nyomás jobb tapadást ad.",
+              "Sötétedés miatt 16:30 után már ne tervezzen hosszabb utat.",
+              "Egy termosz forró teával a kulacstartóban ideális társ.",
+              "Kivilágított helyen parkolja le a biciklit, amíg múzeumban van."
+            ],
+            "ro": [
+              "Purtați haine termice și mănuși rezistente la vânt.",
+              "Controlați presiunea în pneuri; iarna o aderență puțin mai mare e de preferat.",
+              "Evitați deplasările după ora 16:30 din cauza întunericului.",
+              "Un termos cu ceai fierbinte în suportul de bidon este ideal.",
+              "Parcați bicicleta în locuri luminate când vizitați muzeele."
+            ],
+            "en": [
+              "Wear thermal clothing and windproof gloves.",
+              "Check tire pressure; in winter, slightly less pressure often gives better grip.",
+              "Avoid riding after 4:30 PM due to darkness.",
+              "A thermos with hot tea in your bottle cage is a great idea.",
+              "Park your bike in well-lit areas when visiting museums."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1109,6 +1507,214 @@
           "A GPS or navigation app is essential.",
           "Remember where you parked before exploring a cluster on foot."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Frýdek-Místek auch bei Regen komfortabel. Der Morgen beginnt am Místecké náměstí, gefolgt von den nahegelegenen Kirchen. Mittags fahren Sie zum Schloss Frýdek, wo Sie fast bis zum Eingang parken können. Die Basilika ist der nächste trockene Stopp. Nachmittags führt die Fahrt zur Olešná-Talsperre, um die Natur aus dem Auto oder bei kurzen Spaziergängen zu genießen, bevor der Tag in Místek endet.",
+            "hu": "Autóval esőben is kényelmesen felfedezhető Frýdek-Místek. A reggel a Místecké náměstín indul, majd a közeli templomok következnek. Délben a Frýdeki várhoz hajtunk, ahol szinte a bejáratig lehet parkolni. A Bazilika a következő száraz megálló. Délután az Olešná-víztározóhoz látogatunk, ahol az autóból vagy rövid sétákkal csodálhatjuk a természetet, mielőtt visszatérnénk Místekbe.",
+            "ro": "Cu mașina puteți explora Frýdek-Místek confortabil chiar și pe ploaie. Dimineața începe în Místecké náměstí, urmată de bisericile din apropiere. La prânz mergeți la Castelul Frýdek, unde puteți parca aproape de intrare. Bazilica este următoarea oprire uscată. După-amiaza, drumul duce la lacul Olešná pentru a vedea natura din mașină sau prin scurte plimbări, înainte de a reveni în Místek.",
+            "en": "By car, you can explore Frýdek-Místek comfortably even in the rain. The morning starts at Místecké náměstí, followed by nearby churches. At noon, drive to Frýdek Castle, where you can park close to the entrance. The Basilica is the next dry stop. In the afternoon, head to Olešná Reservoir to enjoy nature from the car or on short walks before ending the day in Místek."
+          },
+          "stops": [
+            {
+              "name": "Místek Cluster: Freedom Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze in den Nebenstraßen, um nah am Platz zu sein.",
+                "hu": "Használja az oldalsó utcák parkolóit, hogy közel legyen a térhez.",
+                "ro": "Folosiți parcările de pe străzile laterale pentru a fi aproape de piață.",
+                "en": "Use the parking lots in the side streets to be close to the square."
+              }
+            },
+            {
+              "name": "Church of St. John the Baptist",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Auto ins Innere halten Sie trocken.",
+                "hu": "Az autótól a bejáratig tartó rövid út szárazon tartja.",
+                "ro": "Distanța scurtă de la mașină până în interior vă ține uscat.",
+                "en": "The short walk from the car to the interior keeps you dry."
+              }
+            },
+            {
+              "name": "St. James Church",
+              "tip_5lang": {
+                "de": "Parken Sie direkt in der Nähe, um dem Regen zu entgehen.",
+                "hu": "Parkoljon közvetlenül a közelben, hogy elkerülje az esőt.",
+                "ro": "Parcați chiar în apropiere pentru a evita ploaia.",
+                "en": "Park directly nearby to avoid the rain."
+              }
+            },
+            {
+              "name": "Frýdek Cluster: Frýdek Castle",
+              "tip_5lang": {
+                "de": "Das Schloss bietet kostenlose Parkplätze direkt vor dem Tor.",
+                "hu": "A vár közvetlenül a kapu előtt kínál ingyenes parkolási lehetőséget.",
+                "ro": "Castelul oferă locuri de parcare gratuite chiar în fața porții.",
+                "en": "The castle offers free parking right in front of the gate."
+              }
+            },
+            {
+              "name": "Basilica of the Visitation of Our Lady",
+              "tip_5lang": {
+                "de": "Ein geräumiger Parkplatz befindet sich unweit des Kircheneingangs.",
+                "hu": "Tágas parkoló található nem messze a templom bejáratától.",
+                "ro": "O parcare spațioasă se află nu departe de intrarea în biserică.",
+                "en": "A spacious parking lot is located not far from the church entrance."
+              }
+            },
+            {
+              "name": "Nature Cluster: Olešná Reservoir",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den See gemütlich aus dem warmen Auto.",
+                "hu": "Élvezze a tóra nyíló kilátást kényelmesen a meleg autóból.",
+                "ro": "Bucurați-vă de vederea spre lac confortabil din mașina caldă.",
+                "en": "Enjoy the lake view comfortably from the warm car."
+              }
+            },
+            {
+              "name": "Farewell drink in Místek",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit eigenem Parkplatz für maximalen Komfort.",
+                "hu": "Válasszon saját parkolóval rendelkező éttermet a maximális kényelemért.",
+                "ro": "Alegeți un restaurant cu parcare proprie pentru confort maxim.",
+                "en": "Choose a restaurant with its own parking for maximum comfort."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie bei Regen besonders vorsichtig auf den glatten Pflastersteinen.",
+              "Die Parkplatzsuche ist bei schlechtem Wetter meist entspannter.",
+              "Nutzen Sie die Olešná-Fahrt für eine kleine Panorama-Rundfahrt.",
+              "Halten Sie Schirme für die kurzen Wege zwischen Auto und Sehenswürdigkeit bereit.",
+              "Viele Cafés in Místek haben Parkplätze in unmittelbarer Nähe."
+            ],
+            "hu": [
+              "Esőben vezessen különösen óvatosan a csúszós macskaköveken.",
+              "Rossz időben a parkolóhely-keresés általában nyugodtabb.",
+              "Használja az Olešná-utat egy kis panoráma-autózásra.",
+              "Tartsa készenlétben az esernyőt az autó és a látnivalók közötti szakaszokra.",
+              "Místek számos kávézójának közvetlen közelében van parkoló."
+            ],
+            "ro": [
+              "Conduceți cu atenție sporită pe pavajul alunecos pe timp de ploaie.",
+              "Găsirea unui loc de parcare este de obicei mai ușoară pe vreme rea.",
+              "Folosiți drumul spre Olešná pentru o scurtă plimbare panoramică.",
+              "Țineți umbrelele la îndemână pentru distanțele scurte de la mașină la obiective.",
+              "Multe cafenele din Místek au parcări în imediata apropiere."
+            ],
+            "en": [
+              "Drive extra carefully on the slippery cobblestones in the rain.",
+              "Finding a parking spot is usually easier during bad weather.",
+              "Use the drive to Olešná for a small scenic tour.",
+              "Keep umbrellas ready for the short walks from the car to the attractions.",
+              "Many cafes in Místek have parking in the immediate vicinity."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autotour durch Frýdek-Místek verbindet Wärme und Kultur. Vom Místecké náměstí besuchen Sie die historischen Kirchen, bevor Sie zum Schloss Frýdek weiterfahren, das im Winter besonders herrschaftlich wirkt. Die Basilika erstrahlt in der kühlen Luft. Ein Abstecher zur Olešná-Talsperre zeigt die beeindruckende Winterlandschaft, die Sie bequem vom Fahrzeug aus bewundern können. Der Tag endet mit einem warmen Getränk im Zentrum von Místek.",
+            "hu": "A téli autós túra Frýdek-Místekben ötvözi a kényelmet és a kultúrát. A Místecké náměstíról indulva meglátogatjuk a történelmi templomokat, majd a Frýdeki várhoz hajtunk. A Bazilika ragyog a hűvös levegőben. Egy kitérő az Olešná-víztározóhoz megmutatja a lenyűgöző téli tájat, amelyet kényelmesen az autóból csodálhatunk meg. A napot egy meleg itallal zárjuk Místek központjában.",
+            "ro": "Un tur cu mașina prin Frýdek-Místek iarna îmbină căldura și cultura. Din Místecké náměstí vizitați bisericile istorice înainte de a merge la Castelul Frýdek. Bazilica strălucește în aerul rece. O abatere spre lacul Olešná vă arată peisajul impresionant de iarnă, pe care îl puteți admira din vehicul. Ziua se încheie cu o băutură caldă în centrul orașului Místek.",
+            "en": "A winter car tour of Frýdek-Místek combines warmth and culture. From Místecké náměstí, visit the historic churches before driving to Frýdek Castle. The Basilica shines in the cool air. A detour to Olešná Reservoir shows the impressive winter landscape, which you can admire comfortably from your vehicle. The day ends with a warm drink in the center of Místek."
+          },
+          "stops": [
+            {
+              "name": "Místek Cluster: Freedom Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf geräumte Parkplätze, um Eis unter dem Auto zu vermeiden.",
+                "hu": "Keressen letakarított parkolóhelyet, hogy elkerülje a jeget az autó alatt.",
+                "ro": "Căutați locuri de parcare curățate pentru a evita gheața sub mașină.",
+                "en": "Look for cleared parking spots to avoid ice under the car."
+              }
+            },
+            {
+              "name": "Church of St. John the Baptist",
+              "tip_5lang": {
+                "de": "Die Heizung im Auto sorgt für angenehme Pausen zwischen den Kirchen.",
+                "hu": "Az autó fűtése kellemes pihenőt biztosít a templomok között.",
+                "ro": "Încălzirea din mașină asigură pauze plăcute între biserici.",
+                "en": "The car's heater provides comfortable breaks between the churches."
+              }
+            },
+            {
+              "name": "St. James Church",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um der winterlichen Kälte zu entgehen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje a téli hideget.",
+                "ro": "Parcați aproape de intrare pentru a evita frigul iernii.",
+                "en": "Park close to the entrance to avoid the winter cold."
+              }
+            },
+            {
+              "name": "Frýdek Cluster: Frýdek Castle",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schloss ist bei Schnee meist gut geräumt.",
+                "hu": "A várhoz vezető út hóesésben is általában jól takarított.",
+                "ro": "Drumul spre castel este de obicei bine curățat chiar și când ninge.",
+                "en": "The drive up to the castle is usually well-cleared even when it snows."
+              }
+            },
+            {
+              "name": "Basilica of the Visitation of Our Lady",
+              "tip_5lang": {
+                "de": "In der Dämmerung ist die Basilika wunderschön beleuchtet.",
+                "hu": "A szürkületben a Bazilika gyönyörűen ki van világítva.",
+                "ro": "La lăsarea serii, Bazilica este iluminată superb.",
+                "en": "In the twilight, the Basilica is beautifully illuminated."
+              }
+            },
+            {
+              "name": "Nature Cluster: Olešná Reservoir",
+              "tip_5lang": {
+                "de": "Ein kleiner Spaziergang am Ufer belebt, bevor Sie die Heizung wieder genießen.",
+                "hu": "Egy rövid séta a parton felfrissít, mielőtt újra élvezné a fűtést.",
+                "ro": "O scurtă plimbare pe mal vă revigorează înainte de a vă bucura iar de căldură.",
+                "en": "A short walk on the shore is refreshing before enjoying the heater again."
+              }
+            },
+            {
+              "name": "Farewell drink in Místek",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal mit direktem Blick auf den festlichen Platz.",
+                "hu": "Válasszon olyan helyet, ahonnan rálátni az ünnepi térre.",
+                "ro": "Alegeți un local cu vedere directă spre piața festivă.",
+                "en": "Choose a place with a direct view of the festive square."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und ein Eiskratzer sind in der Region Pflicht.",
+              "Planen Sie etwas mehr Zeit für die Parkplatzsuche ein.",
+              "Die Straßen im Stadtgebiet werden meist schnell geräumt.",
+              "Genießen Sie die Fahrt zur Olešná bei Tageslicht für die beste Aussicht.",
+              "Achten Sie auf Fußgänger auf dem glatten Kopfsteinpflaster im Zentrum."
+            ],
+            "hu": [
+              "A téli gumi és a jégkaparó kötelező felszerelés a környéken.",
+              "Tervezzen egy kicsit több időt a parkolóhely keresésére.",
+              "A városi utakat általában gyorsan megtakarítják.",
+              "Az Olešnához vezető utat nappali fényben tegye meg a legjobb kilátásért.",
+              "Ügyeljen a gyalogosokra a csúszós városi macskaköveken."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și o racletă pentru gheață sunt obligatorii în regiune.",
+              "Planificați puțin mai mult timp pentru găsirea unui loc de parcare.",
+              "Străzile din oraș sunt de obicei curățate rapid.",
+              "Bucurați-vă de drumul spre Olešná pe lumina zilei pentru cea mai bună vedere.",
+              "Atenție la pietoni pe pavajul alunecos din centru."
+            ],
+            "en": [
+              "Winter tires and an ice scraper are mandatory in the region.",
+              "Plan a bit more time for finding a parking spot.",
+              "City streets are usually cleared quickly.",
+              "Enjoy the drive to Olešná during daylight for the best views.",
+              "Watch out for pedestrians on the slippery cobblestones in the center."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1465,6 +2071,196 @@
           "Buses can be crowded, so be prepared for peak hours.",
           "Validate your ticket when you board the bus to avoid a fine."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem öffentlichen Nahverkehr erkunden Sie Frýdek-Místek bei Regen flexibel. Start am Freiheitsplatz, dann per Bus zur St.-Johannes-Kirche. Der Schlossplatz und das Schloss Frýdek bieten am Mittag ideale Innenbesichtigungen. Nachmittags bringt Sie der Bus zur Basilika. Den Tag beenden Sie trocken im Bus zurück nach Místek, wo gemütliche Cafés auf Sie warten.",
+            "hu": "A tömegközlekedéssel esőben is rugalmasan felfedezhető Frýdek-Místek. Kezdés a főtéren, majd busszal a Szent János-templomhoz. A várnegyed és a Frýdeki vár délben ideális benti programot kínál. Délután a busz elviszi a Bazilikához. A napot szárazon, a Místekbe tartó buszon zárjuk, ahol hangulatos kávézók várják.",
+            "ro": "Cu transportul public puteți explora Frýdek-Místek flexibil pe ploaie. Începeți în piață, apoi cu autobuzul la biserica Sf. Ioan Botezătorul. Zona castelului și Castelul Frýdek oferă vizite ideale în interior la prânz. După-amiaza, autobuzul vă duce la Bazilică. Încheiați ziua la adăpost în autobuzul spre Místek, unde vă așteaptă cafenele primitoare.",
+            "en": "By public transit, you can explore Frýdek-Místek flexibly in the rain. Start at Freedom Square, then take a bus to St. John the Baptist Church. The castle area and Frýdek Castle offer ideal indoor visits at noon. In the afternoon, the bus takes you to the Basilica. End the day dry on the bus back to Místek, where cozy cafes await."
+          },
+          "stops": [
+            {
+              "name": "Místek Cluster: Freedom Square",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen am Platz haben meist überdachte Wartebereiche.",
+                "hu": "A tér buszmegállói többnyire fedett várakozóhellyel rendelkeznek.",
+                "ro": "Stațiile de autobuz din piață au de obicei zone de așteptare acoperite.",
+                "en": "The bus stops at the square mostly have covered waiting areas."
+              }
+            },
+            {
+              "name": "Church of St. John the Baptist",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die Distanz zwischen den Kirchen trocken zu überbrücken.",
+                "hu": "Használja a buszt, hogy szárazon tegye meg a templomok közötti távolságot.",
+                "ro": "Folosiți autobuzul pentru a parcurge distanța dintre biserici la adăpost.",
+                "en": "Use the bus to bridge the distance between churches while staying dry."
+              }
+            },
+            {
+              "name": "Frýdek Cluster: Castle Square",
+              "tip_5lang": {
+                "de": "Mehrere Linien verbinden Místek direkt mit dem Schlossberg.",
+                "hu": "Több járat is közvetlenül összeköti Místeket a várheggyel.",
+                "ro": "Mai multe linii fac legătura directă între Místek și dealul castelului.",
+                "en": "Several lines connect Místek directly with the castle hill."
+              }
+            },
+            {
+              "name": "Frýdek Castle",
+              "tip_5lang": {
+                "de": "Vom Busstopp sind es nur wenige Schritte bis ins schützende Schloss.",
+                "hu": "A buszmegállótól csak pár lépés a védelmet nyújtó várkastély.",
+                "ro": "De la stația de autobuz sunt doar câțiva pași până la castel.",
+                "en": "It's only a few steps from the bus stop into the sheltering castle."
+              }
+            },
+            {
+              "name": "Basilica of the Visitation of Our Lady",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten online, um langes Warten im Regen zu vermeiden.",
+                "hu": "Ellenőrizze online az indulási időket, hogy elkerülje az esőben várakozást.",
+                "ro": "Verificați online orele de plecare pentru a evita așteptarea lungă în ploaie.",
+                "en": "Check departure times online to avoid waiting long in the rain."
+              }
+            },
+            {
+              "name": "Return to Místek",
+              "tip_5lang": {
+                "de": "Der Bus bietet eine bequeme Fahrt zurück ins Zentrum von Místek.",
+                "hu": "A busz kényelmes utazást kínál vissza Místek központjába.",
+                "ro": "Autobuzul oferă o călătorie confortabilă înapoi în centrul orașului Místek.",
+                "en": "The bus offers a comfortable ride back to the center of Místek."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App des Verkehrsverbunds für Echtzeit-Infos.",
+              "Tageskarten sind oft günstiger als Einzelfahrscheine.",
+              "Die Busse sind im Winter und bei Regen beheizt und trocken.",
+              "Die Hauptlinien verkehren regelmäßig zwischen den Stadtteilen.",
+              "Suchen Sie Haltestellen mit Wetterschutz für Ihre Pausen."
+            ],
+            "hu": [
+              "Használja a közlekedési társaság alkalmazását a valós idejű infókért.",
+              "A napijegy gyakran olcsóbb, mint az egyedi jegyek.",
+              "A buszok télen és esőben fűtöttek és szárazak.",
+              "A fővonalak rendszeresen járnak a városrészek között.",
+              "Keressen fedett megállókat a várakozáshoz."
+            ],
+            "ro": [
+              "Folosiți aplicația de transport pentru informații în timp real.",
+              "Abonamentul de o zi este adesea mai ieftin decât biletele individuale.",
+              "Autobuzele sunt încălzite și uscate iarna și pe ploaie.",
+              "Liniile principale circulă regulat între cartierele orașului.",
+              "Căutați stații cu adăpost pentru pauzele de așteptare."
+            ],
+            "en": [
+              "Use the transit app for real-time information.",
+              "Day passes are often cheaper than single tickets.",
+              "Buses are heated and dry in winter and during rain.",
+              "Main lines run regularly between the city districts.",
+              "Look for stops with weather protection for your waits."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Nahverkehr macht die Wintertour durch Frýdek-Místek besonders angenehm. Vom Freiheitsplatz nehmen Sie den Bus zu den historischen Kirchen. Das Schloss Frýdek und die umliegende Altstadt sind mittags gut per Transit erreichbar. Die winterliche Basilika ist ein Muss, bevor Sie per Bus zurück nach Místek fahren. Genießen Sie die Fahrt durch das beleuchtete Stadtgebiet und beenden Sie den Tag in einem gemütlichen Lokal.",
+            "hu": "A tömegközlekedés különösen kellemessé teszi a téli túrát Frýdek-Místekben. A főtérről busszal megyünk a történelmi templomokhoz. A Frýdeki vár és az óváros délben jól elérhető járattal. A téli Bazilika kötelező látnivaló, mielőtt busszal visszatérnénk Místekbe. Élvezze az utazást a kivilágított városrészeken át, és zárja a napot egy barátságos helyen.",
+            "ro": "Transportul public face turul de iarnă prin Frýdek-Místek deosebit de plăcut. Din piață luați autobuzul spre bisericile istorice. Castelul Frýdek și centrul vechi sunt ușor accesibile cu tranzitul la amiază. Bazilica iarna este obligatoriu de văzut înainte de a reveni cu autobuzul în Místek. Bucurați-vă de drumul prin orașul iluminat și încheiați ziua într-un local primitor.",
+            "en": "Public transit makes the winter tour of Frýdek-Místek especially pleasant. From Freedom Square, take the bus to the historic churches. Frýdek Castle and the surrounding old town are easily accessible by transit at noon. The winter Basilica is a must-see before taking the bus back to Místek. Enjoy the ride through the illuminated city areas and end the day in a cozy spot."
+          },
+          "stops": [
+            {
+              "name": "Místek Cluster: Freedom Square",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wichtig, während Sie auf den nächsten Bus warten.",
+                "hu": "Fontos a meleg ruházat, amíg a következő buszra vár.",
+                "ro": "Hainele groase sunt importante în timp ce așteptați următorul autobuz.",
+                "en": "Warm clothing is important while waiting for the next bus."
+              }
+            },
+            {
+              "name": "Church of St. John the Baptist",
+              "tip_5lang": {
+                "de": "Der Bus bringt Sie direkt in die Nähe der Kirchentüren.",
+                "hu": "A busz közvetlenül a templomajtók közelébe viszi Önt.",
+                "ro": "Autobuzul vă lasă chiar în apropierea intrării în biserică.",
+                "en": "The bus takes you right near the church doors."
+              }
+            },
+            {
+              "name": "Frýdek Cluster: Castle Square",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verschneite Stadt aus dem Busfenster.",
+                "hu": "Élvezze a kilátást a havas városra a busz ablakából.",
+                "ro": "Bucurați-vă de vederea spre orașul înzăpezit de la fereastra autobuzului.",
+                "en": "Enjoy the view of the snowy city from the bus window."
+              }
+            },
+            {
+              "name": "Frýdek Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeiten im Schloss, bevor Sie zum Bus zurückkehren.",
+                "hu": "Használja ki az időt a várban, mielőtt visszamenne a buszhoz.",
+                "ro": "Profitați de timpul petrecut în castel înainte de a reveni la autobuz.",
+                "en": "Make the most of your time in the castle before heading back to the bus."
+              }
+            },
+            {
+              "name": "Basilica of the Visitation of Our Lady",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist gut beleuchtet, ideal für die frühe Dämmerung.",
+                "hu": "A megálló jól megvilágított, ideális a korai szürkületben.",
+                "ro": "Stația este bine iluminată, ideală pentru lăsarea timpurie a serii.",
+                "en": "The stop is well-lit, ideal for the early twilight."
+              }
+            },
+            {
+              "name": "Return to Místek",
+              "tip_5lang": {
+                "de": "Eine entspannte Fahrt im beheizten Bus beendet den Kulturtag.",
+                "hu": "Egy pihentető utazás a fűtött buszon zárja a kulturális napot.",
+                "ro": "O călătorie relaxantă în autobuzul încălzit încheie ziua culturală.",
+                "en": "A relaxing ride in the heated bus concludes your cultural day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Fahrpläne können im Winter leicht abweichen; prüfen Sie online.",
+              "Der Transit spart Ihnen die Parkplatzsuche bei Kälte.",
+              "Die Busse sind gut geheizt und bieten eine Pause vom Wind.",
+              "Nutzen Sie die Zeit im Bus, um Fotos zu sichten.",
+              "Viele Haltestellen im Zentrum liegen nah an Cafés zum Aufwärmen."
+            ],
+            "hu": [
+              "A menetrendek télen kissé eltérhetnek; ellenőrizze online.",
+              "A tömegközlekedéssel megspórolja a parkolóhely-keresést a hidegben.",
+              "A buszok jól fűtöttek, védelmet nyújtanak a szél ellen.",
+              "Használja ki a buszon töltött időt a fotók nézegetésére.",
+              "Számos központi megálló közel van a melegedni vágyóknak szánt kávézókhoz."
+            ],
+            "ro": [
+              "Orarele pot varia ușor iarna; verificați-le online.",
+              "Tranzitul vă scutește de căutarea unui loc de parcare pe frig.",
+              "Autobuzele sunt bine încălzite și oferă o pauză de la vânt.",
+              "Folosiți timpul din autobuz pentru a verifica fotografiile.",
+              "Multe stații din centru sunt aproape de cafenele unde vă puteți încălzi."
+            ],
+            "en": [
+              "Schedules may vary slightly in winter; check online.",
+              "Transit saves you the trouble of finding parking in the cold.",
+              "Buses are well-heated and provide a break from the wind.",
+              "Use your time on the bus to review your photos.",
+              "Many central stops are near cafes where you can warm up."
+            ]
+          }
+        }
       }
     }
   }

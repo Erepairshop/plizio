@@ -356,6 +356,188 @@
           "Bargain politely in the markets to get a fair price.",
           "Be mindful of uneven pavement in the older parts of the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag mit einem Van-Frühstück im Kulturhaus, wo das Prasseln des Regens für Gemütlichkeit sorgt. Das Van-Museum bietet einen trockenen Vormittag inmitten urartäischer Artefakte.\n\nBesuchen Sie mittags das Van-Katzenhaus, in dem die Tiere in geschützten Räumen spielen. Ein Mittagessen am Seeufer bietet trotz Regen weite Ausblicke durch Panoramafenster.\n\nNachmittags erkunden Sie die Festung von Van; die steilen Wege erfordern bei Nässe festes Schuhwerk. Der Regen verleiht den alten Mauern eine dunkle, mystische Aura.\n\nBeenden Sie den Tag bei einem heißen Tee am Fuße der Burg, während der Nebel über den See zieht.",
+            "hu": "Kezdje a napot a Kultúrházban, ahol az eső kopogása mellett élvezheti a híres vani reggelit. A Van Múzeum tágas és modern terei tökéletes menedéket nyújtanak a délelőtti záporok elől.\n\nDélben látogassa meg a vani macskák házát, ahol az állatok fedett kifutókban várják. A tavi ebédhez válasszon üvegezett teraszt, ahonnan belátni a hullámzó víztükröt.\n\nDélután a Vani Vár kövei közt sétálhat; esőben a bazaltlépcsők csúszósak lehetnek, így óvatosan haladjon. A várfalak ilyenkor különösen zord képet mutatnak.\n\nA napot a vár tövében fekvő teázóban zárja, ahol a forró szamovár mellett figyelheti az elvonuló felhőket.",
+            "ro": "Începeți ziua cu un mic dejun tradițional la Casa de Cultură, unde ploaia de afară face atmosfera interioară mai primitoare. Muzeul Van oferă un refugiu uscat printre artefacte urartiene.\n\nLa prânz, vizitați Casa Pisicilor din Van, unde felinele stau în spații protejate. Savurați prânzul pe malul lacului într-un restaurant cu ferestre mari, admirând peisajul acvatic.\n\nDupă-amiaza este dedicată Cetății Van; potecile pot fi alunecoase, deci folosiți încălțăminte cu aderență bună. Ploaia accentuează aspectul impunător al zidurilor vechi.\n\nÎncheiați ziua cu un ceai fierbinte la baza cetății, ascultând sunetul ploii peste ruinele orașului vechi.",
+            "en": "Start your day with a traditional Van breakfast at the Culture House, where the indoor warmth contrasts with the rain. The Van Museum provides a dry morning exploring Urartian history.\n\nAt noon, visit the Van Cat House to see the unique swimming cats in their sheltered habitat. Lunch by the lake offers dramatic water views from the comfort of a heated dining room.\n\nIn the afternoon, climb the Van Fortress; be cautious as the ancient stone steps can be slippery when wet. The rain adds a moody atmosphere to the massive citadel.\n\nEnd your walk with a steaming glass of Turkish tea at the base of the castle, watching the clouds roll over Lake Van."
+          },
+          "stops": [
+            {
+              "name": "Breakfast at the Culture House",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Tisch am Fenster, um den Regen bei Tee zu beobachten.",
+                "hu": "Kérjen ablak melletti asztalt, és élvezze a forró teát az esőben.",
+                "ro": "Cereți o masă lângă fereastră pentru a vedea ploaia în timp ce beți ceai.",
+                "en": "Ask for a window table to enjoy the rainy view with your hot tea."
+              }
+            },
+            {
+              "name": "Van Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Mäntel und Schirme.",
+                "hu": "Használja a ruhatárat a vizes kabátok és esernyők elhelyezésére.",
+                "ro": "Folosiți garderoba pentru haine ude și umbrele.",
+                "en": "Use the cloakroom to store wet coats and umbrellas during your visit."
+              }
+            },
+            {
+              "name": "Van Cat House",
+              "tip_5lang": {
+                "de": "Die Katzen sind bei Regen meist in den Innenräumen aktiv.",
+                "hu": "A macskák esős időben leginkább a belső terekben tartózkodnak.",
+                "ro": "Pisicile sunt de obicei active în interior când plouă afară.",
+                "en": "The cats are mostly active in the indoor areas during rainy weather."
+              }
+            },
+            {
+              "name": "Lunch by the Lakeside",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit geschlossener Veranda für Seeblick.",
+                "hu": "Válasszon zárt teraszos éttermet a zavartalan tavi panorámáért.",
+                "ro": "Alegeți un restaurant cu terasă închisă pentru vedere la lac.",
+                "en": "Choose a restaurant with an enclosed veranda for unobstructed lake views."
+              }
+            },
+            {
+              "name": "Van Fortress (Castle)",
+              "tip_5lang": {
+                "de": "Tragen Sie rutschfeste Schuhe für die nassen Steinstufen.",
+                "hu": "Viseljen tapadós talpú cipőt a vizes és csúszós kőlépcsőkhöz.",
+                "ro": "Purtați încălțăminte aderentă pentru treptele de piatră ude.",
+                "en": "Wear grippy shoes for the wet and slippery stone steps of the citadel."
+              }
+            },
+            {
+              "name": "Tea at the base of the Castle",
+              "tip_5lang": {
+                "de": "Der Innenbereich des Cafés ist beheizt und sehr gemütlich.",
+                "hu": "A kávézó belső tere fűtött és barátságos menedéket nyújt.",
+                "ro": "Interiorul cafenelei este încălzit și oferă un refugiu plăcut.",
+                "en": "The indoor area of the cafe is heated and provides a cozy refuge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wichtig, da es am See oft windig ist.",
+              "Das Museum ist eine ideale 2-stündige Indoor-Aktivität bei Starkregen.",
+              "Tragen Sie wasserfeste Wanderschuhe für die Wege zur Festung.",
+              "Die meisten Restaurants am See haben beheizte Innenbereiche."
+            ],
+            "hu": [
+              "Vigyen strapabíró esernyőt, mert a tónál gyakoriak az erős széllökések.",
+              "A múzeum tökéletes kétórás beltéri program heves esőzés esetén.",
+              "Viseljen vízálló túrabakancsot a vár körüli földutak és lépcsők miatt.",
+              "A tóparti éttermek többsége rendelkezik fűtött, üvegezett belsővel."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, deoarece vântul poate fi puternic lângă lac.",
+              "Muzeul este o activitate indoor ideală de 2 ore în caz de ploaie torențială.",
+              "Purtați bocanci impermeabili pentru potecile din jurul cetății.",
+              "Majoritatea restaurantelor de pe mal au spații interioare încălzite."
+            ],
+            "en": [
+              "Carry a sturdy umbrella as it can get windy near the lake.",
+              "The museum is an ideal 2-hour indoor activity during heavy rain.",
+              "Wear waterproof hiking boots for the paths around the fortress.",
+              "Most lakeside restaurants have heated indoor seating options."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt mit einem warmen Van-Frühstück. Die schneebedeckten Berge im Hintergrund bilden eine beeindruckende Kulisse für den Weg zum Van-Museum.\n\nMittags besuchen Sie die Vani-Katzen in ihrem beheizten Haus. Die Mittagspause am See bietet Aussicht auf das tiefblaue Wasser, das vor der verschneiten Küste leuchtet.\n\nNachmittags erkunden Sie die Festung von Van im Schnee. Die Ruinen wirken in Weiß gehüllt besonders friedlich. Achten Sie auf den frühen Sonnenuntergang gegen 16:30 Uhr.\n\nWärmen Sie sich nach dem Abstieg bei einem Glas Tee und traditionellem Van-Gebäck am Burgfuß auf.",
+            "hu": "A fagyos reggel a Kultúrház melegében indul. A háttérben magasodó hófödte hegycsúcsok látványa kíséri útját a modern Van Múzeum fűtött termeibe.\n\nDélben a vani macskák házát keresse fel, ahol az állatok a melegített szobákban pihennek. A tóparti ebéd alatt figyelje a sötétkék vizet és a fehér partvonalat.\n\nDélután a vár fehérbe öltözött romjai közt sétálhat. A hó elnyeli a zajokat, különleges csendet adva a helynek. A naplemente már 16:30 körül beköszönt.\n\nA hideg séta után a vár alatti teázó forró italaival és helyi süteményekkel nyerheti vissza erejét.",
+            "ro": "O dimineață geroasă începe cu un mic dejun cald. Munții înzăpeziți din fundal oferă un cadru spectaculos în drum spre sălile încălzite ale Muzeului Van.\n\nLa prânz, vizitați pisicile de Van în casa lor încălzită. Masa de prânz pe malul lacului oferă o vedere spre apele albastre care contrastează cu malul alb.\n\nDupă-amiaza, explorați Cetatea Van acoperită de zăpadă. Ruinele par extrem de liniștite sub stratul de omăt. Atenție, soarele apune devreme, în jur de ora 16:30.\n\nDupă coborâre, încălziți-vă cu un ceai fierbinte și produse locale de patiserie la poalele cetății.",
+            "en": "A frosty morning starts with a warm Van breakfast. The snow-capped mountains provide a stunning backdrop as you walk to the heated halls of the Van Museum.\n\nAt noon, visit the Van cats in their climate-controlled house. Lunch by the lake offers views of the deep blue water contrasting with the snowy shoreline.\n\nIn the afternoon, explore the Van Fortress under a blanket of snow. The ruins feel exceptionally peaceful in the winter light. Remember that sunset is early, around 16:30.\n\nWarm up after your descent with a glass of tea and local pastries at the base of the castle."
+          },
+          "stops": [
+            {
+              "name": "Breakfast at the Culture House",
+              "tip_5lang": {
+                "de": "Probieren Sie den heißen Honig und Rahm gegen die Morgenkälte.",
+                "hu": "Kóstolja meg a meleg mézet és a kaymakot a reggeli hideg ellen.",
+                "ro": "Încercați mierea caldă și caimacul pentru a combate gerul dimineții.",
+                "en": "Try the warm honey and clotted cream to ward off the morning chill."
+              }
+            },
+            {
+              "name": "Van Museum",
+              "tip_5lang": {
+                "de": "Die Ausstellungsräume sind gut beheizt und angenehm warm.",
+                "hu": "A kiállítótermek jól fűtöttek és kellemes meleget biztosítanak.",
+                "ro": "Sălile de expoziție sunt bine încălzite și foarte confortabile.",
+                "en": "The exhibition halls are well-heated and offer a cozy environment."
+              }
+            },
+            {
+              "name": "Van Cat House",
+              "tip_5lang": {
+                "de": "Die Katzen genießen die Bodenheizung in ihren Räumen.",
+                "hu": "A macskák szeretik a belső helyiségek padlófűtését.",
+                "ro": "Pisicile se bucură de încălzirea prin pardoseală din camere.",
+                "en": "The cats love the floor heating in their indoor enclosures."
+              }
+            },
+            {
+              "name": "Lunch by the Lakeside",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den dampfenden See von drinnen.",
+                "hu": "Élvezze a gőzölgő tó látványát a fűtött belső térből.",
+                "ro": "Admirați vederea spre lacul aburind din interiorul cald.",
+                "en": "Enjoy the view of the steaming lake from the heated interior."
+              }
+            },
+            {
+              "name": "Van Fortress (Castle)",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen auf den ungeräumten Pfaden.",
+                "hu": "Vigyázzon a jeges foltokra a le nem takarított ösvényeken.",
+                "ro": "Atenție la porțiunile înghețate de pe potecile necurățate.",
+                "en": "Watch out for icy patches on the un-cleared paths of the citadel."
+              }
+            },
+            {
+              "name": "Tea at the base of the Castle",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen Platz direkt neben dem Holzofen.",
+                "hu": "Keressen helyet közvetlenül a fatüzelésű kályha mellett.",
+                "ro": "Căutați un loc direct lângă soba cu lemne pentru căldură.",
+                "en": "Find a seat right next to the wood-burning stove for extra warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip; ab 16:00 Uhr sinken die Temperaturen rapide.",
+              "Die Katzen sind im Winter drinnen viel aktiver und verspielter.",
+              "Der Sonnenuntergang ist gegen 16:30 Uhr; planen Sie den Burgbesuch rechtzeitig.",
+              "Nutzen Sie die lokalen Dolmuş-Busse für längere Strecken in der Kälte."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert 16:00 után hirtelen zuhan a hőmérséklet.",
+              "A macskák télen a benti fűtött helyükön sokkal aktívabbak és játékosabbak.",
+              "A naplemente 16:30 körül van, így korán érjen a várba a kilátásért.",
+              "Használja a helyi dolmuşokat, ha a hidegben túl hosszúnak tűnik a séta."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; temperaturile scad brusc după ora 16:00.",
+              "Pisicile sunt mult mai active și jucăușe în interior pe timpul iernii.",
+              "Apusul este în jur de 16:30; planificați vizita la cetate din timp.",
+              "Folosiți microbuzele locale (dolmuş) pentru distanțe lungi în frig."
+            ],
+            "en": [
+              "Dress in layers; temperatures drop rapidly after 16:00.",
+              "The cats are much more active and playful indoors during winter.",
+              "Sunset is around 16:30; plan your castle visit accordingly for the view.",
+              "Use local dolmuş buses for longer distances to avoid prolonged cold."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +888,188 @@
           "Roads can be uneven outside the city, so ride with caution.",
           "A helmet is strongly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie am Morgen zum Van-Museum; die asphaltierten Straßen in der Stadt sind auch bei Regen gut befahrbar. Das Museum bietet Schutz vor den ersten Schauern.\n\nMittags geht es zum Katzenhaus, bevor Sie den Anstieg zur Yedi-Kilise-Kirche wagen. Die Wege in die Dörfer können bei Regen matschig sein.\n\nNach einem ländlichen Mittagessen kehren Sie zur Festung von Van zurück. Die feuchte Luft lässt die Distanzen kürzer erscheinen, doch die Sicht auf den See ist neblig.\n\nDer Tag endet mit einer kühlen, aber erfrischenden Fahrt zum Ufer, wo die Wellen kräftiger gegen den Hafen schlagen.",
+            "hu": "Reggel tekerjen el a Van Múzeumhoz; a városi aszfaltozott utak esőben is jól járhatóak. A múzeum épülete menedéket ad az első záporok elől.\n\nDélben látogassa meg a macskákat, majd induljon el a Hét Templom (Yedi Kilise) felé. A falusi utak esőben sarasak lehetnek, készüljön fel a nehezebb terepre.\n\nEgy falusi ebéd után tekerjen vissza a Vani Várhoz. A párás levegőben a távolságok kisebbnek tűnnek, de a tavi panoráma ködbe vész.\n\nA napot egy frissítő tóparti tekeréssel zárhatja, miközben a szél erősebben korbácsolja a vizet.",
+            "ro": "Pedalați dimineața spre Muzeul Van; străzile asfaltate din oraș sunt practicabile și pe ploaie. Muzeul oferă adăpost împotriva primelor averse.\n\nLa prânz vizitați pisicile, apoi începeți urcarea spre Yedi Kilise. Drumurile spre sate pot fi noroioase când plouă, deci fiți pregătiți.\n\nDupă un prânz tradițional, reveniți spre Cetatea Van. Aerul umed face distanțele să pară mai scurte, deși vizibilitatea spre lac este redusă.\n\nZiua se încheie cu o tură răcoritoare spre malul lacului, unde valurile se sparg mai puternic de dig.",
+            "en": "Cycle to the Van Museum in the morning; the paved city roads remain manageable in the rain. The museum provides shelter from the early showers.\n\nAt noon, visit the Cat House before attempting the climb to Yedi Kilise. Village roads can get muddy when wet, so be prepared for a messier ride.\n\nAfter a village lunch, cycle back to the Van Fortress. The humid air makes the distances feel shorter, though the lake views may be shrouded in mist.\n\nEnd your day with a brisk ride to the lakeside, where the wind creates larger waves against the harbor."
+          },
+          "stops": [
+            {
+              "name": "Van Museum",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Fedett kerékpártárolók találhatók a főbejárat közelében.",
+                "ro": "Rasteluri acoperite pentru biciclete se află lângă intrare.",
+                "en": "Covered bike racks are located near the main entrance."
+              }
+            },
+            {
+              "name": "Van Cat House",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im Windschatten des Gebäudes.",
+                "hu": "Parkolja le kerékpárját az épület szélvédett oldalán.",
+                "ro": "Parcați bicicleta în partea ferită de vânt a clădirii.",
+                "en": "Park your bike on the leeward side of the building to avoid wind."
+              }
+            },
+            {
+              "name": "Bike ride to Yedi Kilise (Varagavank)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Matsch und losen Steinen auf der Auffahrt.",
+                "hu": "Vigyázzon a sárra és a laza kövekre a felfelé vezető úton.",
+                "ro": "Atenție la noroi și pietre libere pe drumul în urcare.",
+                "en": "Watch out for mud and loose stones on the uphill climb."
+              }
+            },
+            {
+              "name": "Lunch at a village restaurant",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit, um Ihre Regenbekleidung zu trocknen.",
+                "hu": "Használja ki az ebédszünetet a vizes ruhák szárítására.",
+                "ro": "Folosiți timpul prânzului pentru a vă usca hainele de ploaie.",
+                "en": "Use your lunch break to dry off your rain gear near the stove."
+              }
+            },
+            {
+              "name": "Ride to Van Fortress",
+              "tip_5lang": {
+                "de": "Bremsen Sie vorsichtig auf dem nassen Kopfsteinpflaster.",
+                "hu": "Fékezzen óvatosan a vizes és csúszós macskaköves utakon.",
+                "ro": "Frânați cu atenție pe porțiunile cu piatră cubică udă.",
+                "en": "Brake carefully on the wet cobblestone sections near the fortress."
+              }
+            },
+            {
+              "name": "Sunset at the Lakeside",
+              "tip_5lang": {
+                "de": "Bei Regen gibt es keinen klassischen Sonnenuntergang, aber tolles Licht.",
+                "hu": "Esőben a naplemente elmarad, de a fények látványosak.",
+                "ro": "Pe ploaie nu e apus clasic, dar lumina este dramatică.",
+                "en": "There is no classic sunset in the rain, but the light is dramatic."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Schlamm auf den Nebenstraßen nach Yedi Kilise.",
+              "Nutzen Sie Schutzbleche, um Spritzer vom nassen Asphalt zu vermeiden.",
+              "Bremsen Sie frühzeitig bei der Abfahrt von der Festung, da es glatt ist.",
+              "Packen Sie Kamera und Telefon in wasserdichte Beutel."
+            ],
+            "hu": [
+              "Vigyázzon a sárra a Hét Templom felé vezető mellékutakon.",
+              "Használjon sárvédőt, hogy elkerülje a vizes aszfaltról felverődő felcsapódást.",
+              "Fékezzen időben a várból való leereszkedéskor a csúszós út miatt.",
+              "A fényképezőgépet és a telefont tartsa vízálló tokban."
+            ],
+            "ro": [
+              "Atenție la noroi pe drumurile secundare spre Yedi Kilise.",
+              "Folosiți apărători pentru a evita stropii de pe asfaltul ud.",
+              "Frânați din timp la coborârea de la cetate, drumul este alunecos.",
+              "Puneți camera și telefonul în pungi sau huse impermeabile."
+            ],
+            "en": [
+              "Watch for mud on the secondary roads leading to Yedi Kilise.",
+              "Use mudguards to avoid splashes from the wet asphalt.",
+              "Brake earlier on the descent from the castle as the road gets slick.",
+              "Pack your camera and phone in waterproof bags or pouches."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie dick eingepackt am Van-Museum. Die kalte, klare Winterluft sorgt für weite Sicht auf die verschneiten Gipfel der Umgebung.\n\nMittags radeln Sie zum Katzenhaus und weiter in Richtung Yedi Kilise. Die Steigung hält Sie warm, doch der kalte Fahrtwind erfordert guten Gesichtsschutz.\n\nNach dem Mittagessen im Dorf geht es bergab zur Festung. Die Abfahrt ist frostig, und die tiefstehende Wintersonne blendet auf der Schneefläche.\n\nBeenden Sie die Tour am Seeufer; das Wasser wirkt im Winter fast schwarz gegen den weißen Schnee der Küste.",
+            "hu": "Induljon alaposan felöltözve a Van Múzeumtól. A hideg, tiszta téli levegőben messzire ellátni a környező hófödte hegycsúcsokig.\n\nDélben tekerjen a macskákhoz, majd tovább a Hét Templom irányába. Az emelkedő segít melegen tartani, de a hideg szél ellen kell az arcvédelem.\n\nA falusi ebéd után guruljon le a várhoz. A lejtőn a szél metsző, és az alacsonyan járó nap erősen csillog a havas tájon.\n\nA túrát a tóparton fejezze be; a víz télen szinte feketének tűnik a fehér part menti hóhoz képest.",
+            "ro": "Porniți bine echipat de la Muzeul Van. Aerul rece și curat de iarnă oferă o vizibilitate excelentă spre vârfurile înzăpezite din jur.\n\nLa prânz pedalați spre Casa Pisicilor și apoi spre Yedi Kilise. Urcarea vă va ține cald, dar vântul tăios necesită protecție pentru față.\n\nDupă prânzul din sat, coborâți spre cetate. Coborârea este geroasă, iar soarele de iarnă strălucește puternic pe suprafața zăpezii.\n\nÎncheiați tura pe malul lacului; apa pare aproape neagră în contrast cu zăpada albă de pe țărm.",
+            "en": "Start well-layered at the Van Museum. The crisp, clear winter air offers extensive views of the surrounding snow-capped peaks.\n\nAt noon, cycle to the Cat House and continue toward Yedi Kilise. The incline will keep you warm, but the cold wind requires good face protection.\n\nAfter a village lunch, head downhill to the fortress. The descent is freezing, and the low winter sun reflects brightly off the snowy fields.\n\nFinish your tour at the lakeside; the water looks almost black against the white snow covering the shore."
+          },
+          "stops": [
+            {
+              "name": "Van Museum",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad an einem sonnigen Platz, um Frost am Sattel zu vermeiden.",
+                "hu": "Parkoljon napos helyre, hogy elkerülje az ülés lefagyását.",
+                "ro": "Parcați bicicleta la soare pentru a evita înghețarea șeii.",
+                "en": "Park your bike in a sunny spot to avoid frost on the saddle."
+              }
+            },
+            {
+              "name": "Van Cat House",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände im Inneren auf, bevor Sie weiterfahren.",
+                "hu": "Melegítse fel a kezeit bent, mielőtt tovább indulna.",
+                "ro": "Încălziți-vă mâinile în interior înainte de a pleca mai departe.",
+                "en": "Warm up your hands inside the cat house before continuing the ride."
+              }
+            },
+            {
+              "name": "Bike ride to Yedi Kilise (Varagavank)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in schattigen Kurven der Bergstraße.",
+                "hu": "Vigyázzon a jegesedésre a hegyi út árnyékos kanyarjaiban.",
+                "ro": "Atenție la porțiunile cu gheață în curbele umbrite ale drumului.",
+                "en": "Watch out for black ice in shaded corners of the mountain road."
+              }
+            },
+            {
+              "name": "Lunch at a village restaurant",
+              "tip_5lang": {
+                "de": "Bestellen Sie eine heiße Suppe, um die Körperkerntemperatur zu halten.",
+                "hu": "Rendeljen forró levest a testhőmérséklet fenntartásához.",
+                "ro": "Comandați o supă fierbinte pentru a vă menține temperatura corpului.",
+                "en": "Order a hot soup to help maintain your core body temperature."
+              }
+            },
+            {
+              "name": "Ride to Van Fortress",
+              "tip_5lang": {
+                "de": "Nutzen Sie eine Sonnenbrille gegen die Blendung durch den Schnee.",
+                "hu": "Használjon napszemüveget a hóról visszaverődő erős fény ellen.",
+                "ro": "Folosiți ochelari de soare împotriva reflexiei luminii pe zăpadă.",
+                "en": "Wear sunglasses to protect against snow blindness and glare."
+              }
+            },
+            {
+              "name": "Sunset at the Lakeside",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich für den Sonnenuntergang eine extra Schicht an.",
+                "hu": "Vegyen fel plusz réteget a naplemente utáni hirtelen lehűléskor.",
+                "ro": "Puneți un strat suplimentar de haine pentru momentul apusului.",
+                "en": "Add an extra layer of clothing before the sun sets and it gets colder."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Bergstraße nach Varagavank auf vereiste Stellen.",
+              "Thermo-Handschuhe sind für die lange Fahrt zur Festung unerlässlich.",
+              "Die Sonne geht früh unter; sorgen Sie für voll geladene Lichter.",
+              "Machen Sie Pausen in dörflichen Teehäusern, um sich aufzuwärmen."
+            ],
+            "hu": [
+              "Ellenőrizze a jeges szakaszokat a Varagavank felé vezető úton.",
+              "A termokesztyű elengedhetetlen a várhoz vezető hosszú úton.",
+              "A nap korán nyugszik, legyen teljesen feltöltött lámpája.",
+              "Tartson szüneteket a falusi teázókban a felmelegedéshez."
+            ],
+            "ro": [
+              "Verificați drumul spre Varagavank pentru porțiuni cu gheață.",
+              "Mănușile termice sunt esențiale pentru tura lungă spre cetate.",
+              "Soarele apune devreme; asigurați-vă că luminile sunt încărcate.",
+              "Faceți pauze dese în ceainăriile din sate pentru a vă încălzi."
+            ],
+            "en": [
+              "Check for ice patches in shaded areas of the Varagavank road.",
+              "Thermal gloves are essential for the long ride to the fortress.",
+              "Sunset is early; ensure your bike lights are fully charged.",
+              "Take frequent breaks in village tea houses to warm up."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1085,6 +1449,206 @@
           "Bring cash, as not all rural places may accept credit cards.",
           "Be prepared for winding and sometimes narrow roads in the mountain regions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens zur Burg Çavuştepe; die Ruinen wirken im Regen besonders archaisch. Die asphaltierte Hauptstraße ist sicher befahrbar.\n\nWeiter geht es zur Burg Hoşap. Bei Regen leuchten die Lehmziegel in dunklen Farben. Mittags erreichen Sie den Akdamar-Anleger für ein Essen mit Seeblick.\n\nNachmittags nehmen Sie die Fähre zur Insel Akdamar. Bei Regen ist die Überfahrt oft unruhig. Die Heiligkreuzkirche bietet Schutz und faszinierende Reliefs.\n\nDie Rückfahrt nach Van erfolgt im Schein der Scheinwerfer, während der Regen gegen die Windschutzscheibe peitscht.",
+            "hu": "Reggel autózzon el Çavuştepe várához; a romok az esőben különösen ősi hangulatot árasztanak. Az aszfaltozott főút biztonságos marad.\n\nFolytassa útját Hoşap várához, ahol az eső mélyebbé teszi a vályogfalak színét. Délben érjen a Gevaş melletti kikötőbe egy tavi ebédre.\n\nDélután kompozzon át Akdamar-szigetre. Esőben a tó vize hullámosabb lehet. A Szent Kereszt-templom belseje száraz és látványos.\n\nA Vani-tó partján haladó visszaút során a fényszórók világítják meg az eső áztatta aszfaltot.",
+            "ro": "Conduceți dimineața spre Castelul Çavuştepe; ruinele par extrem de arhaice în ploaie. Drumul principal asfaltat este sigur.\n\nContinuați spre Castelul Hoşap, unde ploaia scoate în evidență culorile cărămizilor de lut. La prânz ajungeți la debarcaderul Akdamar pentru masă.\n\nDupă-amiaza luați feribotul spre Insula Akdamar. Pe ploaie, traversarea poate fi agitată. Biserica Sfânta Cruce oferă adăpost și reliefuri superbe.\n\nDrumul de întoarcere spre Van se face la lumina farurilor, cu ploaia bătând în parbriz.",
+            "en": "Drive to Çavuştepe Castle in the morning; the ruins look particularly archaic in the rain. The main paved road remains safe and easy to navigate.\n\nContinue to Hoşap Castle, where the wet mud bricks take on a deeper hue. At noon, reach the Akdamar pier for a lunch with stormy lake views.\n\nIn the afternoon, take the ferry to Akdamar Island. The crossing can be choppy during rain. The Holy Cross Church provides a dry space to admire the reliefs.\n\nThe return drive to Van follows the lakeside road, with the rain splashing against the windshield in the evening light."
+          },
+          "stops": [
+            {
+              "name": "Drive to Çavuştepe Castle",
+              "tip_5lang": {
+                "de": "Die Parkplätze am Hügel können bei starkem Regen matschig sein.",
+                "hu": "A dombon lévő parkolók heves esőzéskor sarasak lehetnek.",
+                "ro": "Parcările de pe deal pot fi noroioase în caz de ploaie grea.",
+                "en": "The parking areas on the hill can get muddy after heavy rain."
+              }
+            },
+            {
+              "name": "Hoşap Castle",
+              "tip_5lang": {
+                "de": "Der steile Aufstieg zum Tor ist bei Nässe rutschig.",
+                "hu": "A kapuhoz vezető meredek emelkedő esőben csúszós.",
+                "ro": "Urcarea abruptă spre poartă este alunecoasă pe timp de ploaie.",
+                "en": "The steep climb to the gate is slippery when wet; use the handrail."
+              }
+            },
+            {
+              "name": "Drive to Akdamar Ferry Pier & Lunch",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Restaurant, um trocken hineinzukommen.",
+                "hu": "Parkoljon közel az étteremhez, hogy szárazon jusson be.",
+                "ro": "Parcați aproape de restaurant pentru a intra fără să vă udați.",
+                "en": "Park close to the restaurant entrance to stay dry during the rain."
+              }
+            },
+            {
+              "name": "Ferry trip to Akdamar Island",
+              "tip_5lang": {
+                "de": "Bleiben Sie während der Überfahrt im geschlossenen Deck.",
+                "hu": "A rövid átkelés alatt maradjon a komp zárt fedélzetén.",
+                "ro": "Stați pe puntea închisă a feribotului în timpul traversării.",
+                "en": "Stay in the enclosed deck of the ferry during the rainy crossing."
+              }
+            },
+            {
+              "name": "Church of the Holy Cross, Akdamar",
+              "tip_5lang": {
+                "de": "Die Außenreliefs sind bei Nässe kontrastreicher zu sehen.",
+                "hu": "A külső domborművek nedvesen kontrasztosabbak és jobban látszanak.",
+                "ro": "Reliefurile exterioare sunt mai contrastate când sunt ude.",
+                "en": "The exterior reliefs show more contrast when the stone is wet."
+              }
+            },
+            {
+              "name": "Island Walk",
+              "tip_5lang": {
+                "de": "Kürzen Sie den Spaziergang ab, wenn der Regen zunimmt.",
+                "hu": "Rövidítse le a sétát, ha az eső intenzívebbé válik.",
+                "ro": "Scurtați plimbarea dacă ploaia devine prea puternică.",
+                "en": "Shorten the island walk if the rain intensifies; head back to the ferry."
+              }
+            },
+            {
+              "name": "Return Drive to Van",
+              "tip_5lang": {
+                "de": "Achten Sie auf Spritzwasser von Lastwagen auf der Küstenstraße.",
+                "hu": "Vigyázzon a teherautók által felvert vízre a parti úton.",
+                "ro": "Atenție la apa împroșcată de camioane pe drumul de coastă.",
+                "en": "Watch out for spray from trucks on the coastal road back to Van."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Fahrt nach Hoşap dauert etwa 1 Stunde; achten Sie auf Aquaplaning.",
+              "Fähren fahren bei Regen, können aber bei starkem Wind stoppen.",
+              "Die Lehmziegel der Burg Hoşap können bei Regen aufweichen.",
+              "Nutzen Sie die Mittagspause am Anleger, um Schauer abzuwarten."
+            ],
+            "hu": [
+              "A Hoşap felé tartó út kb. 1 óra, ügyeljen a vízfelverődésre.",
+              "A kompok esőben is járnak, de erős szélben leállhatnak.",
+              "Hoşap várának vályogfalai tartós esőben sérülékenyebbek.",
+              "Használja ki a kikötői ebédet a hevesebb záporok kivárására."
+            ],
+            "ro": [
+              "Drumul spre Hoşap durează circa o oră; atenție la acvaplanare.",
+              "Feriboturile circulă pe ploaie, dar pot fi oprite de vânt puternic.",
+              "Secțiunile din lut ale Castelului Hoşap se pot înmuia la ploaie.",
+              "Folosiți prânzul de la debarcader pentru a aștepta trecerea ploii."
+            ],
+            "en": [
+              "The drive to Hoşap takes about an hour; watch for hydroplaning.",
+              "Ferries operate in rain but may stop during high winds.",
+              "Hoşap Castle's mud-brick sections can become soft after heavy rain.",
+              "Enjoy a long lunch at the pier to wait out any passing showers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie morgens zur Burg Çavuştepe; die schneebedeckten Ruinen auf dem Hügel bieten eine weite Fernsicht. Winterreifen sind hier Pflicht.\n\nWeiter geht es durch die verschneite Berglandschaft zur Burg Hoşap, die wie eine Trutzburg aus dem Eis ragt. Mittags wärmen Sie sich am Akdamar-Anleger auf.\n\nNachmittags nehmen Sie die Fähre zur Insel Akdamar. Die weiße Kirche vor dem dunklen See ist ein spektakuläres Fotomotiv. Der Wind auf dem See ist eisig.\n\nDie Rückfahrt nach Van bietet Ausblicke auf die tiefstehende Sonne, die das Eis am Ufer zum Glitzern bringt.",
+            "hu": "Reggel induljon Çavuştepe várához; a havas dombtetőről messzire ellátni a fehér síkságon. A téli gumi itt kötelező.\n\nFolytassa útját a hófödte hágókon át Hoşap várához, amely úgy magasodik a táj fölé, mint egy jégpalota. Délben melegedjen fel a kikötői étteremben.\n\nDélután kompozzon át Akdamar-szigetre. A fehérbe öltözött templom a sötét tó előtt lenyűgöző látvány. A szél a vízen metsző hideg.\n\nA Vani-tó menti visszaúton a lemenő nap fénye megcsillan a parti jégdarabokon.",
+            "ro": "Porniți dimineața spre Castelul Çavuştepe; ruinele înzăpezite de pe deal oferă o vizibilitate panoramică. Anvelopele de iarnă sunt obligatorii.\n\nContinuați prin peisajul montan alb spre Castelul Hoşap, care domină valea ca o fortăreață de gheață. La prânz, încălziți-vă la debarcader.\n\nDupă-amiaza luați feribotul spre Insula Akdamar. Biserica albă pe fundalul lacului închis la culoare este spectaculoasă. Vântul pe lac este înghețat.\n\nDrumul de întoarcere oferă priveliști spre soarele care apune, făcând gheața de pe mal să strălucească.",
+            "en": "Drive to Çavuştepe Castle in the morning; the snow-covered ruins on the hill offer wide winter vistas. Winter tires are mandatory for this route.\n\nContinue through the snowy mountain pass to Hoşap Castle, which rises like an ice fortress above the valley. Warm up with lunch at the Akdamar pier.\n\nIn the afternoon, take the ferry to Akdamar Island. The white church against the dark lake is a spectacular sight. The wind on the water is freezing.\n\nThe return drive to Van features the low winter sun glinting off the icy patches along the lakeshore."
+          },
+          "stops": [
+            {
+              "name": "Drive to Çavuştepe Castle",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Parkplatz kann glatt sein; fahren Sie langsam.",
+                "hu": "A parkolóhoz vezető felhajtó jeges lehet; haladjon lassan.",
+                "ro": "Urcarea spre parcare poate fi înghețată; conduceți cu viteză mică.",
+                "en": "The driveway to the parking area can be icy; drive slowly."
+              }
+            },
+            {
+              "name": "Hoşap Castle",
+              "tip_5lang": {
+                "de": "Der Burginnenhof ist ungeräumt und oft tief verschneit.",
+                "hu": "A vár belső udvara nincs letakarítva, gyakran mély a hó.",
+                "ro": "Curtea interioară nu este curățată și are adesea zăpadă mare.",
+                "en": "The castle courtyard is not cleared and often has deep snow."
+              }
+            },
+            {
+              "name": "Drive to Akdamar Ferry Pier & Lunch",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisglätte auf dem Parkplatz am Hafen.",
+                "hu": "Vigyázzon a felfagyásokra a kikötő melletti parkolóban.",
+                "ro": "Atenție la gheața din parcarea de lângă port.",
+                "en": "Be careful of black ice in the parking lot near the pier."
+              }
+            },
+            {
+              "name": "Ferry trip to Akdamar Island",
+              "tip_5lang": {
+                "de": "Tragen Sie eine winddichte Jacke für die kalte Überfahrt.",
+                "hu": "Viseljen szélálló kabátot a hideg vízi átkeléshez.",
+                "ro": "Purtați o jachetă rezistentă la vânt pentru traversare.",
+                "en": "Wear a windproof jacket for the freezing ferry crossing."
+              }
+            },
+            {
+              "name": "Church of the Holy Cross, Akdamar",
+              "tip_5lang": {
+                "de": "Der Innenraum ist nicht beheizt, bleiben Sie warm angezogen.",
+                "hu": "A templombelső nem fűtött, maradjon alaposan felöltözve.",
+                "ro": "Interiorul bisericii nu este încălzit, rămâneți bine îmbrăcat.",
+                "en": "The church interior is unheated; keep your warm layers on."
+              }
+            },
+            {
+              "name": "Island Walk",
+              "tip_5lang": {
+                "de": "Die Pfade zur Inselspitze können schneeverweht sein.",
+                "hu": "A sziget csúcsára vezető ösvényeket befújhatja a hó.",
+                "ro": "Potecile spre vârful insulei pot fi acoperite de troiene.",
+                "en": "The paths to the island's peak can be blocked by snowdrifts."
+              }
+            },
+            {
+              "name": "Return Drive to Van",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit ein.",
+                "hu": "Tervezze meg a visszautat még a sötétedés beállta előtt.",
+                "ro": "Planificați drumul de întoarcere înainte de lăsarea întunericului.",
+                "en": "Plan your return drive to Van before the early winter darkness falls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind für den Bergpass nach Hoşap absolut notwendig.",
+              "Der Gevaş-Anleger kann vereist sein; gehen Sie vorsichtig zum Schiff.",
+              "Akdamar ist im Schnee wunderschön, aber die Kirche ist unbeheizt.",
+              "Führen Sie eine Notfallausrüstung mit Decken und Schaufel mit."
+            ],
+            "hu": [
+              "A Hoşap felé vezető hegyi hágón a téli gumi elengedhetetlen.",
+              "A gevaşi kikötő jeges lehet, óvatosan sétáljon a hajóhoz.",
+              "Akdamar gyönyörű a hóban, de a templom belül nagyon hideg.",
+              "Legyen az autóban segélycsomag takaróval és hólapáttal."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii pentru pasul spre Hoşap.",
+              "Debarcaderul Gevaş poate fi înghețat; mergeți cu grijă spre vas.",
+              "Insula Akdamar e superbă în zăpadă, dar biserica e neîncălzită.",
+              "Aveți un kit de urgență în mașină, cu pături și o lopată."
+            ],
+            "en": [
+              "Winter tires are mandatory for the mountain pass to Hoşap.",
+              "The Gevaş pier can be icy; walk carefully toward the boat.",
+              "Akdamar Island is beautiful in snow, but the church is unheated.",
+              "Carry an emergency kit including blankets and a snow shovel."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1440,6 +2004,188 @@
           "Dolmuş routes are not always fixed; tell the driver where you want to go.",
           "Be aware that buses may run less frequently in the evening."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nehmen Sie morgens den Dolmuş zur Festung; die Haltestellen bieten Schutz vor dem Regen. Der Aufstieg zur Burg ist bei Nässe kurz, aber fordernd.\n\nNach dem Abstieg geht es mit dem Bus zum Van-Museum und zum Mittagessen. Das Museum ist ein perfekter Ort, um einen kräftigen Schauer abzuwarten.\n\nMittags besuchen Sie die Vani-Katzen in ihrem Haus. Danach führt die Fahrt nach Yedi Kilise; der Weg von der Haltestelle zur Kirche ist ungeschützt.\n\nKehren Sie am Abend mit dem Dolmuş ins Stadtzentrum zurück und genießen Sie die beleuchteten Straßen im Regen.",
+            "hu": "Reggel dolmuşsal menjen a várhoz; a megállók többsége fedett. A várba vezető emelkedő esőben rövid, de megterhelő séta.\n\nA leereszkedés után busszal utazzon a múzeumba és ebédelni. A múzeum tökéletes hely egy nagyobb zápor kivárására.\n\nDélben látogassa meg a vani macskákat a házukban. Ezután induljon Yedi Kilise felé; a megállótól a templomig tartó út nyitott és szeles.\n\nEste térjen vissza dolmuşsal a központba, és nézze meg az esőben csillogó kivilágított utcákat.",
+            "ro": "Luați dolmuş-ul spre cetate dimineața; stațiile oferă protecție împotriva ploii. Urcarea spre cetate pe ploaie este scurtă, dar solicitantă.\n\nDupă coborâre, mergeți cu autobuzul la muzeu pentru vizită și prânz. Muzeul este locul perfect pentru a aștepta trecerea unei averse.\n\nLa prânz vizitați pisicile în casa lor. Apoi urmați drumul spre Yedi Kilise; distanța de la stație la biserică este expusă ploii.\n\nSeara reveniți cu dolmuş-ul în centru și admirați străzile luminate reflectate în bălți.",
+            "en": "Take a dolmuş to the fortress in the morning; most stops provide shelter. The climb to the citadel is short but demanding in wet conditions.\n\nAfter descending, take a bus to the museum for your visit and lunch. The museum is the perfect place to wait out a heavy downpour.\n\nAt noon, visit the Van cats in their house. Then continue by transit to Yedi Kilise; the walk from the stop to the church is exposed to the rain.\n\nReturn to the city center by dolmuş in the evening and enjoy the neon-lit streets reflecting in the rain."
+          },
+          "stops": [
+            {
+              "name": "Trip to Van Fortress",
+              "tip_5lang": {
+                "de": "Dolmuş-Haltestellen am Burgfuß sind meist überdacht.",
+                "hu": "A vár tövében lévő dolmuş-megállók többnyire fedettek.",
+                "ro": "Stațiile de dolmuş de la baza cetății sunt de obicei acoperite.",
+                "en": "Most dolmuş stops at the base of the fortress are covered."
+              }
+            },
+            {
+              "name": "Walk to the Old Van Houses",
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege zwischen den Häusern sind matschig.",
+                "hu": "A házak közötti nem aszfaltozott utak esőben sarasak.",
+                "ro": "Drumurile neasfaltate dintre case sunt noroioase pe ploaie.",
+                "en": "The unpaved paths between the houses can be muddy when it rains."
+              }
+            },
+            {
+              "name": "Trip to Van Museum & Lunch",
+              "tip_5lang": {
+                "de": "Das Museumscafé ist ideal für eine Regenpause.",
+                "hu": "A múzeum kávézója ideális hely egy esőszünetre.",
+                "ro": "Cafeneaua muzeului este ideală pentru o pauză de ploaie.",
+                "en": "The museum cafe is a great spot to wait for the rain to pass."
+              }
+            },
+            {
+              "name": "Van Cat House",
+              "tip_5lang": {
+                "de": "Die Anlage ist gut mit dem Stadtbus erreichbar.",
+                "hu": "A létesítmény könnyen elérhető a városi autóbuszokkal.",
+                "ro": "Complexul este ușor accesibil cu autobuzele urbane.",
+                "en": "The facility is easily accessible via the local city bus lines."
+              }
+            },
+            {
+              "name": "Bus Trip to Yedi Kilise (Varagavank)",
+              "tip_5lang": {
+                "de": "Halten Sie den Schirm bei der Fahrt zum Bergdorf bereit.",
+                "hu": "Készítse elő az esernyőt a hegyi falu felé vezető úton.",
+                "ro": "Pregătiți umbrela pentru drumul spre satul de munte.",
+                "en": "Have your umbrella ready for the walk to the mountain village."
+              }
+            },
+            {
+              "name": "Return to City Center",
+              "tip_5lang": {
+                "de": "Abends fahren Dolmuşse in kürzeren Abständen.",
+                "hu": "Este a dolmuşok gyakrabban közlekednek a központ felé.",
+                "ro": "Seara, microbuzele circulă la intervale mai scurte.",
+                "en": "Dolmuş buses run frequently back to the center in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bus-Haltestellen im Zentrum sind meist überdacht.",
+              "Nutzen Sie die 'Van Kart' für nahtlose Übergänge zwischen Bussen.",
+              "Der Fußweg von der Bushaltestelle nach Yedi Kilise ist ungeschützt.",
+              "Das Museumscafé ist perfekt, um plötzliche Schauer abzuwarten."
+            ],
+            "hu": [
+              "A központi buszmegállók többnyire fedettek.",
+              "Használja a 'Van Kart'-ot a buszok és dolmuşok közötti váltáshoz.",
+              "A buszmegállótól Yedi Kilise felé vezető út nyitott és szeles.",
+              "A múzeum kávézója remek hely a hirtelen záporok kivárására."
+            ],
+            "ro": [
+              "Stațiile de autobuz din centru sunt în mare parte acoperite.",
+              "Folosiți cardul 'Van Kart' pentru transferuri ușoare între linii.",
+              "Drumul de la stație spre Yedi Kilise este expus vântului și ploii.",
+              "Cafeneaua muzeului este perfectă pentru a aștepta trecerea ploii."
+            ],
+            "en": [
+              "Most bus stops in the city center are covered.",
+              "Use a 'Van Kart' for seamless transfers between buses and dolmuş.",
+              "The walk from the bus stop to Yedi Kilise is uphill and exposed.",
+              "The museum cafe is a perfect spot to wait out a sudden downpour."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens bringt Sie der Dolmuş zur verschneiten Festung. Die kurzen Wege zur Burg sind bei Frost belebend. Die Aussicht auf den See ist kristallklar.\n\nNach dem Burgbesuch fahren Sie zum Museum. Die geheizten Busse sind im Winter eine willkommene Pause von der Kälte.\n\nMittags besuchen Sie die Katzen und fahren dann weiter nach Yedi Kilise. Die Bergstraße bietet tolle Ausblicke auf die verschneite Ebene von Van.\n\nBeenden Sie den Tag im Stadtzentrum, wo Sie sich in einer der vielen Backstuben mit heißem Tee und frischem Brot aufwärmen können.",
+            "hu": "Reggel dolmuşsal induljon a havas várhoz. A rövid séta a hidegben frissítő, a kilátás a tóra ilyenkor kristálytiszta.\n\nA várlátogatás után busszal menjen a múzeumba. A fűtött buszok télen kellemes pihenőt jelentenek a kinti hideg után.\n\nDélben látogassa meg a macskákat, majd induljon Yedi Kilise felé. A hegyi útról pazar kilátás nyílik Van havas síkságára.\n\nA napot a városközpontban zárja, ahol a számos pékség egyikében forró teával és friss kenyérrel melegedhet fel.",
+            "ro": "Dimineața, dolmuş-ul vă duce la cetatea înzăpezită. Scurta plimbare în frig este revigorantă, iar vederea spre lac este extrem de clară.\n\nDupă vizitarea cetății, mergeți cu autobuzul la muzeu. Autobuzele încălzite sunt o pauză binevenită de la gerul de afară.\n\nLa prânz vizitați pisicile, apoi plecați spre Yedi Kilise. Drumul spre munte oferă vederi superbe asupra câmpiei Van acoperite de zăpadă.\n\nÎncheiați ziua în centrul orașului, încălzindu-vă într-o brutărie cu un ceai fierbinte și pâine proaspătă.",
+            "en": "In the morning, take a dolmuş to the snowy fortress. The short walk to the citadel is bracing in the frost, and the lake views are crystal clear.\n\nAfter the castle, take a bus to the museum. The heated buses provide a welcome break from the winter chill.\n\nAt noon, visit the cats and then head toward Yedi Kilise. The mountain road offers great vistas over the snow-covered Van plain.\n\nFinish your day in the city center, warming up in one of the many bakeries with hot tea and fresh local bread."
+          },
+          "stops": [
+            {
+              "name": "Trip to Van Fortress",
+              "tip_5lang": {
+                "de": "Die Dolmuşse fahren auch bei Schnee regelmäßig zur Burg.",
+                "hu": "A dolmuşok hóban is rendszeresen járnak a várhoz.",
+                "ro": "Microbuzele circulă regulat spre cetate și pe timp de zăpadă.",
+                "en": "Dolmuş buses run regularly to the fortress even in the snow."
+              }
+            },
+            {
+              "name": "Walk to the Old Van Houses",
+              "tip_5lang": {
+                "de": "Der Schnee verleiht der Altstadt eine malerische Stille.",
+                "hu": "A hó festői csendet kölcsönöz az óvárosi romoknak.",
+                "ro": "Zăpada oferă o liniște pitorească ruinelor orașului vechi.",
+                "en": "The snow adds a picturesque stillness to the Old Van area."
+              }
+            },
+            {
+              "name": "Trip to Van Museum & Lunch",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter meist sehr gut beheizt.",
+                "hu": "A buszok télen általában nagyon jól fűtöttek.",
+                "ro": "Autobuzele sunt de obicei foarte bine încălzite iarna.",
+                "en": "The buses are usually very well-heated during the winter months."
+              }
+            },
+            {
+              "name": "Van Cat House",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Katzen am Nachmittag, wenn es draußen kälter wird.",
+                "hu": "Látogassa meg a macskákat délután, amikor kint hűlni kezd az idő.",
+                "ro": "Vizitați pisicile după-amiaza, când se lasă frigul afară.",
+                "en": "Visit the cats in the afternoon as it gets colder outside."
+              }
+            },
+            {
+              "name": "Bus Trip to Yedi Kilise (Varagavank)",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten, da Busse im Winter früher enden.",
+                "hu": "Ellenőrizze a visszautat, mert a buszok télen korábban leállhatnak.",
+                "ro": "Verificați orele de retur, autobuzele pot termina programul mai devreme.",
+                "en": "Check the return times as buses may stop running earlier in winter."
+              }
+            },
+            {
+              "name": "Return to City Center",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Dolmuş auf dem Rückweg auf.",
+                "hu": "Melegedjen fel a dolmuşban a központ felé vezető úton.",
+                "ro": "Încălziți-vă în microbuz pe drumul de întoarcere.",
+                "en": "Warm up inside the dolmuş on your way back to the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Dolmuşse fahren häufig, aber planen Sie bei Neuschnee Pufferzeit ein.",
+              "Die Altstadt-Ruinen sind mit Schneedecke besonders sehenswert.",
+              "Achten Sie auf die Uhr; die letzten Busse von Yedi Kilise fahren früh.",
+              "Wärmen Sie sich mit 'Van Çöreği' (lokalem Brot) am Busbahnhof auf."
+            ],
+            "hu": [
+              "A dolmuşok gyakran járnak, de havazáskor számoljon hosszabb idővel.",
+              "Az óvárosi romok hóval borítva különleges látványt nyújtanak.",
+              "Figyeljen az időre; az utolsó buszok Yedi Kiliséből korán indulnak.",
+              "Melegedjen fel egy helyi 'Van Çöreği' süteménnyel a megállóban."
+            ],
+            "ro": [
+              "Microbuzele circulă des, dar lăsați o marjă de timp dacă ninge.",
+              "Ruinele orașului vechi sunt spectaculoase sub stratul de zăpadă.",
+              "Atenție la orar; ultimele autobuze din Yedi Kilise pleacă devreme.",
+              "Încălziți-vă cu un 'Van Çöreği' (pâine locală) în autogară."
+            ],
+            "en": [
+              "Dolmuş run frequently, but expect slight delays in heavy snow.",
+              "The Old Van Houses area is very scenic with a snow cover.",
+              "Keep an eye on the time; last buses from Yedi Kilise leave early.",
+              "Warm up with 'Van Çöreği' (local bread) at the bus station."
+            ]
+          }
+        }
       }
     }
   }

@@ -346,6 +346,214 @@
           "Most attractions in the city center are very close to each other.",
           "Check museum opening times as they can vary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Varaždin, das 'Kleine Wien', versprüht auch im Regen einen besonderen barocken Charme. Am Vormittag bieten das Rathaus und die Kathedrale trockene Zuflucht und spirituelle Ruhe. Mittags tauchen Sie im Sermage-Palast tief in die Kunstgeschichte ein, während draußen die Tropfen auf das Kopfsteinpflaster klopfen.\n\nDer Nachmittag gehört der Festung Stari Grad, deren dicke Mauern Sie vor dem Wetter schützen. Ein kurzer Besuch im Franziskanerkloster rundet das Kulturprogramm ab, bevor Sie das Nationaltheater bewundern.\n\nAm späten Nachmittag wird der Spaziergang an der Drau zu einem melancholischen Naturerlebnis. Der Fluss und die grauen Wolken bilden eine malerische Kulisse für einen ruhigen Abschluss des Tages.",
+            "hu": "Varasd barokk belvárosa esőben is magával ragadó, a nedves macskakövek tükrözik a történelmi épületek fényeit. A délelőttöt a Városháza és a Székesegyház védelmében kezdjük, élvezve a csendes belső tereket. A déli órákban a Sermage-palota kiállításai kínálnak tökéletes menedéket a csapadék elől.\n\nA délutánt az Óvár vastag falai között töltjük, ahol a város története elevenedik meg. A ferences kolostor és a Nemzeti Színház érintésével haladunk tovább a belváros fedett részei alatt.\n\nA nap végén a Dráva-parti séta különleges, borongós hangulatot áraszt. Az esernyő alatt tett séta a folyó mentén segít lelassulni és feldolgozni a nap kulturális élményeit.",
+            "ro": "Varaždin, 'Micul Viena', își păstrează eleganța barocă chiar și sub picăturile de ploaie. Dimineața, Primăria și Catedrala oferă un refugiu primitor și uscat. La prânz, explorăm galeriile Palatului Sermage, lăsând ploaia să creeze un fundal sonor relaxant pe acoperișurile vechi.\n\nDupă-amiaza este dedicată Castelului Stari Grad, unde zidurile fortificate ne protejează de intemperii. Continuăm spre Mănăstirea Franciscană și Teatrul Național, puncte de reper ce pot fi admirate rapid între reprizele de ploaie.\n\nSeara se încheie cu o plimbare pe malul râului Drava. Atmosfera melancolică a apei sub cerul înnorat oferă o perspectivă diferită și liniștită asupra peisajului natural local.",
+            "en": "Varaždin, known as 'Little Vienna', exudes a unique Baroque charm even in the rain. Spend your morning seeking shelter in the Town Hall and the Cathedral. Midday is perfect for an extended visit to the Sermage Palace, where art provides a dry escape from the drizzle.\n\nIn the afternoon, the thick walls of the Stari Grad castle offer excellent protection while you explore the city's history. Pass by the Franciscan Monastery and the National Theatre, admiring their architecture from under your umbrella.\n\nThe day concludes with a moody walk along the Drava River bank. The mist over the water and the sound of rain create a peaceful, contemplative atmosphere to end your journey."
+          },
+          "stops": [
+            {
+              "name": "Varaždin Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Arkadengang des Rathauses als trockenen Aussichtspunkt auf den Hauptplatz.",
+                "hu": "Használja a városháza árkádjait száraz kilátópontként a főtér felé.",
+                "ro": "Folosiți arcadele primăriei ca punct de observație uscat peste piața centrală.",
+                "en": "Use the town hall's archways as a dry vantage point over the main square."
+              }
+            },
+            {
+              "name": "Varaždin Cathedral",
+              "tip_5lang": {
+                "de": "Bewundern Sie die barocken Altäre, während Sie auf das Ende eines Regenschauers warten.",
+                "hu": "Csodálja meg a barokk oltárokat, miközben megvárja az eső elálltát.",
+                "ro": "Admirați altarele baroce în timp ce așteptați oprirea unei averse.",
+                "en": "Admire the Baroque altars while waiting for a rain shower to pass."
+              }
+            },
+            {
+              "name": "Sermage Palace",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine längere Pause im Trockenen; die Galerie ist sehr weitläufig.",
+                "hu": "Ideális hely egy hosszabb benti pihenőre; a galéria tágas és fedett.",
+                "ro": "Un loc ideal pentru o pauză lungă la adăpost; galeria este foarte spațioasă.",
+                "en": "An ideal place for a long indoor break; the gallery is quite extensive."
+              }
+            },
+            {
+              "name": "Stari Grad (Old Castle)",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Stadtmuseum im Inneren, um dem Regen für längere Zeit zu entkommen.",
+                "hu": "Látogassa meg a belső városi múzeumot, hogy hosszabb időre megmeneküljön az esőtől.",
+                "ro": "Vizitați muzeul orașului din interior pentru a scăpa de ploaie pentru mai mult timp.",
+                "en": "Visit the city museum inside to escape the rain for a longer duration."
+              }
+            },
+            {
+              "name": "Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Die Ruhe im Inneren lässt das prasselnde Wetter draußen völlig vergessen.",
+                "hu": "A belső nyugalom teljesen elfeledteti a kinti kopogó esőt.",
+                "ro": "Liniștea din interior vă face să uitați complet de vremea de afară.",
+                "en": "The tranquility inside makes you completely forget the pattering rain outside."
+              }
+            },
+            {
+              "name": "Croatian National Theatre",
+              "tip_5lang": {
+                "de": "Das prachtvolle Foyer bietet einen kurzen, trockenen Moment der Bewunderung.",
+                "hu": "A pompás előcsarnok rövid, száraz pillanatot kínál a csodálatra.",
+                "ro": "Foaierul splendid oferă un moment scurt și uscat de admirație.",
+                "en": "The splendid foyer offers a brief, dry moment of admiration."
+              }
+            },
+            {
+              "name": "Walk on the Drava River Bank",
+              "tip_5lang": {
+                "de": "Achten Sie auf unbefestigte Wege, die bei Regen schlammig sein können; festes Schuhwerk empfohlen.",
+                "hu": "Vigyázzon a nem aszfaltozott utakra, esőben sarasak lehetnek; vízálló cipő ajánlott.",
+                "ro": "Atenție la potecile neamenajate care pot fi noroioase; se recomandă încălțăminte impermeabilă.",
+                "en": "Watch out for unpaved paths which can be muddy; waterproof footwear recommended."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke, da der Wind in den Gassen kühl sein kann.",
+              "Die barocke Altstadt hat viele kleine Cafés, in denen man Regengüsse abwarten kann.",
+              "Achten Sie auf das glatte Kopfsteinpflaster, besonders in der Nähe des Schlosses.",
+              "Ein Taschenschirm ist praktischer als ein großer Stockschirm für die engen Museumsflure.",
+              "Nutzen Sie die Innenräume der Kirchen für kulturelle Pausen ohne Eintrittskosten."
+            ],
+            "hu": [
+              "Viseljen jó minőségű esőkabátot, mert a szél hűvös lehet a szűk utcákban.",
+              "A barokk óvárosban sok kis kávézó található, ahol kivárhatja a nagyobb záporokat.",
+              "Vigyázzon a csúszós macskakövekre, különösen a vár környékén.",
+              "Az összecsukható esernyő praktikusabb a múzeumi látogatások során.",
+              "Használja ki a templomok belső terét ingyenes kulturális pihenőként."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie de calitate, deoarece vântul poate fi răcoros pe străduțe.",
+              "Centrul vechi baroc are multe cafenele mici unde puteți aștepta trecerea averselor.",
+              "Atenție la pavajul de piatră care devine alunecos, mai ales lângă castel.",
+              "O umbrelă pliabilă este mai practică decât una mare pentru holurile muzeelor.",
+              "Utilizați interiorul bisericilor pentru pauze culturale fără costuri de intrare."
+            ],
+            "en": [
+              "Wear a high-quality raincoat, as the wind can feel chilly in the narrow alleys.",
+              "The Baroque old town has many small cafes where you can wait out rain showers.",
+              "Be careful on the slippery cobblestones, especially near the castle area.",
+              "A compact umbrella is more practical than a large one for navigating museum corridors.",
+              "Use the interiors of churches for cultural breaks without any entrance fees."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Varaždin im Winter wirkt wie eine Kulisse aus einem Märchen, besonders wenn Reif die barocken Fassaden ziert. Der Vormittag am Rathausplatz ist frisch, doch die Kathedrale bietet einen gewärmten Ort der Stille. Mittags wärmen Sie sich im Sermage-Palast bei Kunstbetrachtungen auf.\n\nDer Nachmittag am Stari Grad ist magisch; die weiße Festung hebt sich markant vom Winterhimmel ab. Ein Besuch im Kloster und ein Blick auf das Theater zeigen die Stadt von ihrer ruhigsten Seite.\n\nDa die Sonne bereits gegen 16:30 Uhr untergeht, bietet der Spaziergang an der Drau in der Dämmerung eine friedliche Atmosphäre. Die kühle Luft und die ersten Lichter der Stadt begleiten Ihren Rückweg ins warme Zentrum.",
+            "hu": "A téli Varasd olyan, mint egy megelevenedett képeslap, különösen ha zúzmara fedi a barokk homlokzatokat. A délelőtt a Városháza előtt csípős, de a Székesegyház belső terei enyhülést adnak. Délben a Sermage-palota fűtött termeiben melegedhetünk fel a műalkotások között.\n\nA délutáni Óvár látványa varázslatos a téli fényekben; a fehér falak szinte világítanak. A színház környéke ilyenkor a legcsendesebb és legmeghittebb.\n\nMivel a nap korán, 16:30 körül nyugszik, a Dráva-parti séta már szürkületben zajlik. A friss téli levegő után jól esik majd visszatérni a kivilágított belváros meleg teázóiba.",
+            "ro": "Varaždin iarna pare desprins dintr-un basm, mai ales când chiciura acoperă fațadele baroce. Dimineața în fața Primăriei este revigorantă, iar Catedrala oferă un spațiu încălzit pentru reflecție. La prânz, ne încălzim în Palatul Sermage admirând colecțiile de artă.\n\nDupă-amiaza la Castelul Stari Grad este magică; fortăreața albă se profilează clar pe cerul de iarnă. O vizită la mănăstire și Teatrul Național completează periplul cultural într-o liniște deplină.\n\nDeoarece soarele apune devreme, în jurul orei 16:30, plimbarea pe malul râului Drava are loc în amurg. Aerul rece și primele lumini ale orașului vă ghidează pașii înapoi spre centrul primitor.",
+            "en": "Winter in Varaždin feels like a scene from a fairy tale, especially when frost coats the Baroque facades. Start your crisp morning at the Town Hall Square, then find warmth inside the Cathedral. Midday is best spent in the heated galleries of the Sermage Palace.\n\nIn the afternoon, the Stari Grad castle looks magical against the winter sky; its white walls stand out starkly. The theatre and monastery provide quiet cultural highlights during the coldest part of the day.\n\nWith the sun setting around 4:30 PM, your walk along the Drava River bank will likely be at dusk. The biting air makes the return to the brightly lit, warm city center even more rewarding."
+          },
+          "stops": [
+            {
+              "name": "Varaždin Town Hall",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Weihnachtsbeleuchtung, falls Sie im Dezember dort sind.",
+                "hu": "Élvezze az ünnepi kivilágítást, ha decemberben látogat ide.",
+                "ro": "Bucurați-vă de luminile de sărbătoare dacă vizitați orașul în decembrie.",
+                "en": "Enjoy the festive lighting if you are visiting in December."
+              }
+            },
+            {
+              "name": "Varaždin Cathedral",
+              "tip_5lang": {
+                "de": "Oft ist es im Inneren deutlich wärmer als draußen; nutzen Sie es für eine Aufwärmpause.",
+                "hu": "Bent gyakran jóval melegebb van, mint kint; használja ki egy rövid melegedőre.",
+                "ro": "Interiorul este adesea mult mai cald decât afară; folosiți-l pentru o pauză de încălzire.",
+                "en": "It is often significantly warmer inside; use it for a quick warm-up break."
+              }
+            },
+            {
+              "name": "Sermage Palace",
+              "tip_5lang": {
+                "de": "Die Heizung in den Ausstellungsräumen macht den Museumsbesuch im Winter sehr angenehm.",
+                "hu": "A kiállítótermek fűtése nagyon kellemessé teszi a téli múzeumlátogatást.",
+                "ro": "Încălzirea din sălile de expoziție face vizita la muzeu foarte plăcută iarna.",
+                "en": "The heating in the exhibition rooms makes the museum visit very pleasant in winter."
+              }
+            },
+            {
+              "name": "Stari Grad (Old Castle)",
+              "tip_5lang": {
+                "de": "Der Schlossgraben ist im Winter oft schneebedeckt und bietet ein tolles Fotomotiv.",
+                "hu": "A várárok télen gyakran havas, ami kiváló fotótéma.",
+                "ro": "Șanțul castelului este adesea înzăpezit iarna, oferind un cadru foto excelent.",
+                "en": "The castle moat is often snow-covered in winter, providing a great photo opportunity."
+              }
+            },
+            {
+              "name": "Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Achten Sie auf die vereisten Stufen am Eingang.",
+                "hu": "Vigyázzon a bejáratnál lévő jeges lépcsőkre.",
+                "ro": "Atenție la treptele înghețate de la intrare.",
+                "en": "Watch out for icy steps at the entrance."
+              }
+            },
+            {
+              "name": "Croatian National Theatre",
+              "tip_5lang": {
+                "de": "Abends leuchtet das Gebäude besonders schön im winterlichen Dunkel.",
+                "hu": "Este az épület különösen szépen világít a téli sötétségben.",
+                "ro": "Seara, clădirea este iluminată superb în întunericul de iarnă.",
+                "en": "In the evening, the building is beautifully illuminated in the winter darkness."
+              }
+            },
+            {
+              "name": "Walk on the Drava River Bank",
+              "tip_5lang": {
+                "de": "Unterschätzen Sie nicht den kalten Wind am Fluss; Mütze und Handschuhe sind Pflicht.",
+                "hu": "Ne becsülje alá a folyóparti hideg szelet; sapka és kesztyű kötelező.",
+                "ro": "Nu subestimați vântul rece de lângă râu; căciula și mănușile sunt obligatorii.",
+                "en": "Do not underestimate the cold wind by the river; a hat and gloves are mandatory."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Ihren Tag so, dass Sie vor 16:30 Uhr mit den Außenaktivitäten fertig sind.",
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip) für den Wechsel zwischen Kälte und Museen.",
+              "Warme Getränke wie Tee oder Glühwein sind am Hauptplatz überall erhältlich.",
+              "Achten Sie auf geräumte Wege; Nebenstraßen können bei Glätte gefährlich sein.",
+              "Die Museen sind im Winter oft weniger besucht, was ein ruhigeres Erlebnis ermöglicht."
+            ],
+            "hu": [
+              "Tervezze úgy a napot, hogy 16:30 előtt végezzen a szabadtéri programokkal.",
+              "Öltözzön rétegesen a kinti hideg és a fűtött múzeumok közötti váltások miatt.",
+              "A főtéren mindenhol kaphatók meleg italok, például tea vagy forralt bor.",
+              "Figyeljen a letakarított utakra; a mellékutcák jegesek és veszélyesek lehetnek.",
+              "A múzeumok télen kevésbé zsúfoltak, így nyugodtabb a látogatás."
+            ],
+            "ro": [
+              "Planificați-vă ziua astfel încât să terminați activitățile în aer liber înainte de 16:30.",
+              "Purtați mai multe straturi de haine pentru tranziția între frig și muzeele încălzite.",
+              "Băuturile calde, cum ar fi ceaiul sau vinul fiert, sunt disponibile peste tot în piață.",
+              "Atenție la drumurile curățate; străzile secundare pot fi periculoase din cauza gheții.",
+              "Muzeele sunt adesea mai puțin vizitate iarna, oferind o experiență mai liniștită."
+            ],
+            "en": [
+              "Plan your day to finish outdoor activities before 4:30 PM due to early sunset.",
+              "Dress in layers to manage the transition between the cold outdoors and heated museums.",
+              "Hot drinks like tea or mulled wine are widely available at the main square.",
+              "Stick to cleared paths; side streets can be icy and treacherous in winter.",
+              "Museums are often less crowded in winter, allowing for a more peaceful experience."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -670,6 +878,214 @@
           "Bring a lock to secure your bike at the main attractions.",
           "Take water with you, especially for the ride to the lake."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Varaždin mit dem Rad im Regen erfordert Vorsicht, bietet aber eine schnelle Fortbewegung zwischen den Sehenswürdigkeiten. Am Vormittag flitzen Sie zum Rathaus und zum Schloss, wobei Sie die kurzen Wege nutzen, um trocken zu bleiben. Mittags gönnen Sie sich eine lange Pause im Sermage-Palast.\n\nNachmittags geht es zum Nationaltheater und zur Kathedrale. Die Fahrt zum Friedhof ist bei Regen kurz und knackig, bietet aber eine mystische Atmosphäre unter den nassen Bäumen.\n\nDen Abschluss bildet der Aquacity-See. Auch wenn das Baden ausfällt, ist die Fahrt dorthin durch die frische, regnerische Luft belebend, bevor Sie sich im Hotel wieder aufwärmen.",
+            "hu": "A varasdi kerékpározás esőben óvatosságot igényel, de gyors közlekedést biztosít a látnivalók között. Délelőtt suhanjon el a Városházához és a várhoz, kihasználva a rövid távokat. Délben tartson egy hosszú pihenőt a Sermage-palotában.\n\nDélután látogassa meg a Nemzeti Színházat és a Székesegyházat. A temetőbe vezető út esőben is rövid, a vizes fák alatt pedig különleges hangulat fogadja.\n\nA napot az Aquacity tónál zárhatja. Bár a fürdés elmarad, a friss, esős levegőn tett tekerés élénkítő, mielőtt visszatérne a szállására száradni.",
+            "ro": "Explorarea orașului Varaždin cu bicicleta pe ploaie necesită atenție, dar oferă o deplasare rapidă între obiective. Dimineața pedalați spre Primărie și Castel, folosind distanțele scurte pentru a rămâne cât mai uscat. La prânz, luați o pauză prelungită la Palatul Sermage.\n\nDupă-amiaza vizitați Teatrul Național și Catedrala. Drumul spre Cimitir pe ploaie este scurt, oferind o atmosferă mistică sub arborii umezi.\n\nFinalul zilei aparține lacului Aquacity. Deși înotul nu este o opțiune, pedalarea prin aerul proaspăt de ploaie este revigorantă înainte de a vă întoarce la căldură.",
+            "en": "Cycling through Varaždin in the rain requires caution but allows for quick travel between sites. In the morning, zip between the Town Hall and the Castle, keeping exposure to a minimum. Take a long midday break at the Sermage Palace while your gear dries.\n\nIn the afternoon, visit the National Theatre and the Cathedral. The ride to the cemetery is brief, offering a mystical vibe under the rain-soaked trees.\n\nEnd your day at Aquacity Lake. While swimming is out, the ride through the fresh rainy air is invigorating before you head back to warm up and dry off."
+          },
+          "stops": [
+            {
+              "name": "Varaždin Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht vor den Metallgittern auf dem Platz; diese sind bei Nässe extrem rutschig.",
+                "hu": "Vigyázzon a téren lévő fémrácsokra; nedvesen rendkívül csúszósak.",
+                "ro": "Atenție la grătarele metalice din piață; acestea sunt extrem de alunecoase pe umiditate.",
+                "en": "Beware of metal grates on the square; they are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Stari Grad (Old Castle)",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Bäumen am Eingang für einen kleinen Regenschutz.",
+                "hu": "Parkolja le a bringát a bejáratnál lévő fák alatt egy kis esővédelemért.",
+                "ro": "Parcați bicicleta sub copacii de la intrare pentru o mică protecție împotriva ploii.",
+                "en": "Park your bike under the trees near the entrance for a bit of rain protection."
+              }
+            },
+            {
+              "name": "Sermage Palace",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es Fahrradständer; stellen Sie sicher, dass Ihr Sattel abgedeckt ist.",
+                "hu": "A közelben vannak kerékpártárolók; győződjön meg róla, hogy lefedte a nyerget.",
+                "ro": "Există rastele de biciclete în apropiere; asigurați-vă că aveți șaua acoperită.",
+                "en": "There are bike racks nearby; make sure your saddle is covered."
+              }
+            },
+            {
+              "name": "Croatian National Theatre",
+              "tip_5lang": {
+                "de": "Die gepflasterte Straße davor kann bei Regen tückisch sein; bremsen Sie vorsichtig.",
+                "hu": "A színház előtti kövezett út csalóka lehet esőben; fékezzen óvatosan.",
+                "ro": "Strada pavată din față poate fi înșelătoare pe ploaie; frânați cu prudență.",
+                "en": "The paved street in front can be tricky in the rain; brake carefully."
+              }
+            },
+            {
+              "name": "Varaždin Cathedral",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp; lehnen Sie das Rad sicher an, da der Boden aufgeweicht sein kann.",
+                "hu": "Rövid megálló; támassza le stabilan a gépet, mert a talaj felázhatott.",
+                "ro": "O oprire scurtă; sprijiniți bicicleta în siguranță, solul poate fi înmuiat.",
+                "en": "Short stop; lean the bike securely as the ground might be softened."
+              }
+            },
+            {
+              "name": "Varaždin Cemetery",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege im Friedhof sind gut befahrbar, aber meiden Sie die Pfützen.",
+                "hu": "A temető aszfaltozott útjai jól járhatók, de kerülje a tócsákat.",
+                "ro": "Aleile asfaltate din cimitir sunt practicabile, dar evitați bălțile.",
+                "en": "The paved paths in the cemetery are good for riding, but avoid the puddles."
+              }
+            },
+            {
+              "name": "Relaxing at Aquacity Lake",
+              "tip_5lang": {
+                "de": "Der Weg zum See führt über offenes Gelände; rechnen Sie mit Seitenwind und Regen.",
+                "hu": "A tóhoz vezető út nyílt terepen visz; számítson oldalszélre és esőre.",
+                "ro": "Drumul spre lac trece prin câmp deschis; așteptați-vă la vânt lateral și ploaie.",
+                "en": "The road to the lake goes through open terrain; expect side winds and rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie scharfes Bremsen auf dem glatten Barock-Kopfsteinpflaster.",
+              "Ein Poncho schützt beim Radfahren besser als eine kurze Regenjacke.",
+              "Decken Sie Ihren Sattel beim Parken immer mit einer Plastiktüte ab.",
+              "Achten Sie auf tiefere Pfützen, die Schlaglöcher verbergen könnten.",
+              "Reinigen Sie Ihre Kette nach der Fahrt, um Korrosion durch Regenwasser zu vermeiden."
+            ],
+            "hu": [
+              "Kerülje az erős fékezést a csúszós barokk macskaköveken.",
+              "A kerékpáros pelerin (poncsó) jobban véd tekerés közben, mint egy rövid dzseki.",
+              "Parkoláskor mindig takarja le a nyerget egy nejlonnal.",
+              "Vigyázzon a mélyebb tócsákkal, mert kátyúkat rejthetnek.",
+              "Tekerés után tisztítsa meg a láncot, hogy elkerülje az esővíz okozta korróziót."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe pavajul baroc de piatră care devine alunecos.",
+              "O pelerină de ploaie protejează mai bine la pedalat decât o jachetă scurtă.",
+              "Acoperiți întotdeauna șaua cu o folie de plastic când parcați.",
+              "Atenție la bălțile adânci care pot ascunde gropi în carosabil.",
+              "Curățați lanțul după plimbare pentru a preveni coroziunea de la apa de ploaie."
+            ],
+            "en": [
+              "Avoid sharp braking on the slippery Baroque cobblestones.",
+              "A cycling poncho protects better while riding than a short rain jacket.",
+              "Always cover your saddle with a plastic bag when parking.",
+              "Watch out for deep puddles that might hide potholes.",
+              "Clean your chain after the ride to prevent corrosion from rainwater."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im winterlichen Varaždin ist ein Erlebnis für Hartgesottene, bietet aber glitzernde Ausblicke auf die Stadt. Am Vormittag besuchen Sie das Rathaus und das Schloss, wobei die klare Luft Ihre Sinne schärft. Mittags ist der Sermage-Palast die perfekte Aufwärmstation.\n\nNachmittags radeln Sie am Theater vorbei zur Kathedrale. Die Fahrt zum Friedhof ist besonders reizvoll, wenn die Hecken mit Frost überzogen sind.\n\nDer Weg zum Aquacity-See führt durch die winterliche Landschaft. Auch wenn es am See nun einsam ist, bietet die weite Sicht und die Stille einen meditativen Abschluss, bevor Sie zügig in die Wärme zurückkehren.",
+            "hu": "A téli Varasd két keréken igazi kihívás, de a csillogó város látványa kárpótolja. Délelőtt látogassa meg a Városházát és a várat, a friss levegő garantáltan felébreszti. Délben a Sermage-palota lesz a tökéletes melegedőhely.\n\nDélután a színház és a székesegyház után tekerjen el a temetőbe, amely ilyenkor a zúzmarás sövényekkel különösen szép.\n\nAz Aquacity tóhoz vezető út a téli tájon át vezet. Bár a tónál ilyenkor nagy a csend, a tágas kilátás meditatív élményt nyújt, mielőtt gyorsan visszatekerne a város melegébe.",
+            "ro": "Pedalarea în Varaždin iarna este o experiență pentru cei rezistenți, oferind priveliști sclipitoare asupra orașului. Dimineața vizitați Primăria și Castelul, aerul rece ascuțindu-vă simțurile. La prânz, Palatul Sermage este stația perfectă de încălzire.\n\nDupă-amiaza pedalați pe lângă Teatru spre Catedrală. Drumul spre cimitir este deosebit de frumos când gardurile vii sunt acoperite de chiciură.\n\nTraseul către lacul Aquacity trece prin peisajul hibernal. Deși lacul este pustiu acum, vizibilitatea largă și liniștea oferă o încheiere meditativă înainte de a reveni rapid la căldură.",
+            "en": "Cycling in winter Varaždin is for the hearty, but it offers sparkling views of the city. Visit the Town Hall and Castle in the morning; the crisp air will definitely wake you up. Midday provides a necessary warm-up at the Sermage Palace.\n\nIn the afternoon, ride past the theatre to the Cathedral. The trip to the cemetery is particularly beautiful in winter, with the manicured hedges covered in frost.\n\nThe route to Aquacity Lake takes you through the winter countryside. Though lonely this time of year, the wide views and silence offer a meditative conclusion before you speed back to the warmth of the city."
+          },
+          "stops": [
+            {
+              "name": "Varaždin Town Hall",
+              "tip_5lang": {
+                "de": "Halten Sie Ausschau nach vereisten Stellen im Schatten der Gebäude.",
+                "hu": "Keresse a jeges foltokat az épületek árnyékos oldalán.",
+                "ro": "Căutați porțiunile înghețate de la umbra clădirilor.",
+                "en": "Look out for icy patches in the shadows of the buildings."
+              }
+            },
+            {
+              "name": "Stari Grad (Old Castle)",
+              "tip_5lang": {
+                "de": "Die Brücke zum Schloss kann glatt sein; steigen Sie eventuell kurz ab.",
+                "hu": "A várhoz vezető híd csúszós lehet; szükség esetén szálljon le és tolja.",
+                "ro": "Podul către castel poate fi alunecos; eventual coborâți de pe bicicletă.",
+                "en": "The bridge to the castle can be slippery; consider dismounting briefly."
+              }
+            },
+            {
+              "name": "Sermage Palace",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pause, um Ihre Finger und Füße wieder aufzuwärmen.",
+                "hu": "Használja ki a szünetet ujjai és lábai felmelegítésére.",
+                "ro": "Folosiți pauza pentru a vă reîncălzi degetele de la mâini și picioare.",
+                "en": "Use the break to warm up your fingers and toes."
+              }
+            },
+            {
+              "name": "Croatian National Theatre",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger, die auf den geräumten Wegen Vorrang haben könnten.",
+                "hu": "Figyeljen a gyalogosokra, akiknek elsőbbségük lehet a letakarított utakon.",
+                "ro": "Atenție la pietoni, care pot avea prioritate pe aleile curățate.",
+                "en": "Watch out for pedestrians who might have priority on the cleared paths."
+              }
+            },
+            {
+              "name": "Varaždin Cathedral",
+              "tip_5lang": {
+                "de": "Die Kälte zieht schnell in die Glieder; halten Sie die Stopps kurz.",
+                "hu": "A hideg hamar átjárja az embert; tartsa röviden a megállókat.",
+                "ro": "Frigul pătrunde repede; păstrați opririle scurte.",
+                "en": "The cold seeps in quickly; keep your stops brief."
+              }
+            },
+            {
+              "name": "Varaždin Cemetery",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig, da Streusalz die Bremsleistung beeinträchtigen kann.",
+                "hu": "Hajtson óvatosan, mert az útszóró só befolyásolhatja a fékhatást.",
+                "ro": "Pedalați cu grijă, sarea de pe drum poate afecta performanța frânelor.",
+                "en": "Ride carefully as road salt can affect braking performance."
+              }
+            },
+            {
+              "name": "Relaxing at Aquacity Lake",
+              "tip_5lang": {
+                "de": "Der Windchill-Effekt auf dem Weg zum See ist nicht zu unterschätzen; ziehen Sie sich warm an.",
+                "hu": "A tóhoz vezető úton a hőérzet a szél miatt jóval alacsonyabb; öltözzön nagyon melegen.",
+                "ro": "Efectul vântului pe drumul spre lac nu trebuie subestimat; îmbrăcați-vă gros.",
+                "en": "The wind chill effect on the way to the lake shouldn't be underestimated; dress warmly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe sind beim Radfahren im Winter absolut lebensnotwendig.",
+              "Prüfen Sie Ihren Reifendruck; etwas weniger Druck bietet mehr Grip auf Schnee.",
+              "Vermeiden Sie Fahrten nach Einbruch der Dunkelheit (ab 16:30 Uhr), wenn es kälter wird.",
+              "Achten Sie auf gefrorene Pfützen unter einer dünnen Schneeschicht.",
+              "Trinken Sie auch bei Kälte genug, am besten warme Getränke aus einer Thermoskanne."
+            ],
+            "hu": [
+              "A szélálló kesztyű létfontosságú a téli kerékpározáshoz.",
+              "Ellenőrizze a guminyomást; a kicsit kisebb nyomás jobb tapadást ad a havon.",
+              "Kerülje a sötétedés utáni tekerést (16:30-tól), amikor hirtelen lehűl a levegő.",
+              "Vigyázzon a vékony hóréteg alatt megbújó fagyott tócsákkal.",
+              "Hidegben is igyon eleget, lehetőleg meleg italt termoszból."
+            ],
+            "ro": [
+              "Mănușile rezistente la vânt sunt absolut esențiale pentru pedalatul iarna.",
+              "Verificați presiunea în pneuri; o presiune puțin mai mică oferă aderență mai bună pe zăpadă.",
+              "Evitați deplasările după lăsarea întunericului (după 16:30), când se face mult mai frig.",
+              "Atenție la bălțile înghețate sub un strat subțire de zăpadă.",
+              "Beți suficiente lichide chiar și pe frig, de preferință băuturi calde dintr-un termos."
+            ],
+            "en": [
+              "Windproof gloves are absolutely essential for winter cycling.",
+              "Check your tire pressure; slightly lower pressure offers better grip on snow.",
+              "Avoid riding after dark (from 4:30 PM) when the temperature drops sharply.",
+              "Watch out for frozen puddles hidden under a thin layer of snow.",
+              "Stay hydrated even in the cold, preferably with warm drinks from a thermos."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -677,7 +1093,7 @@
       "speed_kmh": 28,
       "start": "09:00",
       "end_estimate": "16:47",
-      "total_km": 45.6,
+      "total_km": 15.6,
       "stop_count": 6,
       "stops": [
         {
@@ -970,6 +1386,196 @@
           "Allow enough time for the drive to Trakošćan, the roads can be narrow.",
           "Check the opening hours of Trakošćan Castle in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Varaždin auch bei starkem Regen komfortabel zu erkunden. Vormittags parken Sie zentrumsnah und besuchen das Rathaus und die Kathedrale. Mittags bietet der Sermage-Palast eine ausgiebige trockene Kulturpause.\n\nNachmittags besichtigen Sie das Schloss Stari Grad und fahren dann zum berühmten Friedhof, den Sie fast direkt mit dem Wagen erreichen können. So bleiben die Wege im Freien kurz.\n\nDer Höhepunkt ist die Fahrt zum Schloss Trakošćan. Während es draußen regnet, genießen Sie die Fahrt durch die hügelige Region Zagorje und verbringen den restlichen Tag in den prachtvollen Innenräumen des Schlosses, bevor Sie im Schloßrestaurant einkehren.",
+            "hu": "Autóval Varasd még heves esőben is kényelmesen felfedezhető. Délelőtt parkoljon a központban, és látogassa meg a Városházát, valamint a Székesegyházat. Délben a Sermage-palota kínál bőséges, száraz kulturális programot.\n\nDélután nézze meg az Óvárat, majd hajtson el a híres temetőhöz, ahol a parkolás közvetlen közelben megoldható, így minimálisat kell áznia.\n\nA nap fénypontja a kirándulás a Trakostyáni várba. Miközben odakint esik, élvezze az utazást a Zagorje dombjai között, majd töltse a nap hátralévő részét a vár pompás termeiben, mielőtt a vár éttermében vacsorázna.",
+            "ro": "Cu mașina, Varaždin este confortabil de explorat chiar și pe ploaie torențială. Dimineața parcați aproape de centru și vizitați Primăria și Catedrala. La prânz, Palatul Sermage oferă o pauză culturală uscată și generoasă.\n\nDupă-amiaza vizitați Castelul Stari Grad și apoi conduceți spre celebrul cimitir, unde puteți parca foarte aproape, menținând traseele exterioare scurte.\n\nPunctul culminant este excursia la Castelul Trakošćan. În timp ce afară plouă, bucurați-vă de drumul prin regiunea deluroasă Zagorje și petreceți restul zilei în interioarele splendide ale castelului.",
+            "en": "By car, Varaždin is comfortable to explore even in heavy rain. Park near the center in the morning to visit the Town Hall and Cathedral. Midday is perfect for an extensive indoor cultural session at the Sermage Palace.\n\nIn the afternoon, tour the Stari Grad castle and then drive to the famous cemetery, where nearby parking keeps your time in the rain minimal.\n\nThe highlight is the trip to Trakošćan Castle. While it pours outside, enjoy the scenic drive through the Zagorje hills and spend the rest of the day in the castle's magnificent interior rooms before dining at the local restaurant."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Suchen Sie nach überdachten Parkplätzen oder solchen in unmittelbarer Nähe zum Marktplatz.",
+                "hu": "Keressen fedett parkolót vagy olyat, amely közvetlenül a piactér mellett van.",
+                "ro": "Căutați parcări acoperite sau locuri situate imediat lângă piața centrală.",
+                "en": "Look for covered parking or spots located immediately next to the market square."
+              }
+            },
+            {
+              "name": "Town Hall & Main Square",
+              "tip_5lang": {
+                "de": "Ein schneller Sprint vom Parkplatz zum Rathaus hält Sie trocken.",
+                "hu": "Egy gyors sprint a parkolóból a városházáig, és száraz marad.",
+                "ro": "Un sprint rapid de la parcare la primărie vă va menține uscat.",
+                "en": "A quick sprint from the parking lot to the town hall will keep you dry."
+              }
+            },
+            {
+              "name": "Stari Grad (Old Castle)",
+              "tip_5lang": {
+                "de": "Es gibt Parkmöglichkeiten direkt am Schlosspark; nutzen Sie diese, um Regenzeit zu sparen.",
+                "hu": "Közvetlenül a várparknál is van parkolási lehetőség; használja ki, hogy kevesebbet ázzon.",
+                "ro": "Există locuri de parcare chiar lângă parcul castelului; folosiți-le pentru a economisi timp în ploaie.",
+                "en": "There are parking options right by the castle park; use them to save time in the rain."
+              }
+            },
+            {
+              "name": "Varaždin Cathedral",
+              "tip_5lang": {
+                "de": "Achten Sie auf Einbahnstraßen in der Nähe der Kathedrale bei schlechter Sicht.",
+                "hu": "Figyeljen az egyirányú utcákra a székesegyház közelében, rossz látási viszonyok mellett.",
+                "ro": "Atenție la străzile cu sens unic din apropierea catedralei în condiții de vizibilitate redusă.",
+                "en": "Watch out for one-way streets near the cathedral in poor visibility conditions."
+              }
+            },
+            {
+              "name": "Varaždin Cemetery",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist groß; parken Sie so nah wie möglich am Haupteingang.",
+                "hu": "A parkoló nagy; álljon meg a lehető legközelebb a főbejárathoz.",
+                "ro": "Parcarea este mare; opriți cât mai aproape de intrarea principală.",
+                "en": "The parking lot is large; park as close to the main entrance as possible."
+              }
+            },
+            {
+              "name": "Trip to Trakošćan",
+              "tip_5lang": {
+                "de": "Die Straßen nach Trakošćan können kurvig und bei Nässe rutschig sein; fahren Sie vorsichtig.",
+                "hu": "A Trakostyánba vezető utak kanyargósak és esőben csúszósak lehetnek; vezessen óvatosan.",
+                "ro": "Drumurile spre Trakošćan pot fi sinuoase și alunecoase pe ploaie; conduceți cu grijă.",
+                "en": "The roads to Trakošćan can be curvy and slippery when wet; drive carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt nach Trakošćan.",
+              "Die Parkgebühren im Zentrum können bequem per SMS oder App bezahlt werden.",
+              "Nutzen Sie die Klimaanlage, um das Beschlagen der Scheiben bei Regen zu verhindern.",
+              "Trakošćan ist ein perfektes Regen-Ziel, da fast alles im Inneren besichtigt wird.",
+              "Vermeiden Sie das Parken unter alten Bäumen bei Sturmgefahr."
+            ],
+            "hu": [
+              "Trakostyánba indulás előtt ellenőrizze az ablaktörlőket.",
+              "A központi parkolási díjat kényelmesen, SMS-ben vagy applikációval is fizetheti.",
+              "Használja a légkondicionálót, hogy megakadályozza a szélvédő párásodását.",
+              "Trakostyán tökéletes úti cél esőben, mivel szinte minden benti látnivaló.",
+              "Viharveszély esetén kerülje az öreg fák alatti parkolást."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a pleca spre Trakošćan.",
+              "Taxele de parcare în centru pot fi plătite convenabil prin SMS sau aplicație.",
+              "Utilizați aerul condiționat pentru a preveni aburirea geamurilor pe ploaie.",
+              "Trakošćan este o destinație perfectă pe ploaie, deoarece aproape totul se vizitează la interior.",
+              "Evitați parcarea sub arbori bătrâni dacă există risc de furtună."
+            ],
+            "en": [
+              "Check your windshield wipers before heading out to Trakošćan.",
+              "Parking fees in the center can be conveniently paid via SMS or app.",
+              "Use the air conditioning to prevent window fogging during the rain.",
+              "Trakošćan is a perfect rainy-day destination as most attractions are indoors.",
+              "Avoid parking under old trees if there is a risk of a storm."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Tour mit dem Auto durch Varaždin und das Zagorje ist sicher und warm. Am Vormittag erkunden Sie das barocke Zentrum und wärmen sich in den Museen auf. Mittags ist der Besuch im Sermage-Palast ein behaglicher Fixpunkt.\n\nNachmittags fahren Sie zum Schloss Stari Grad und zum winterlich erstarrten Friedhof. Die Fahrt durch die verschneiten Hügel nach Trakošćan am späten Nachmittag ist wie eine Reise in ein Wintermärchen.\n\nDas Schloss Trakošćan, oft von einer weißen Decke umgeben, bietet am Abend eine fast mystische Stille. Die Rückfahrt im Dunkeln durch die beleuchteten Dörfer rundet den Tag gemütlich ab.",
+            "hu": "A téli autós túra Varasdon és a Zagorje vidékén biztonságos és meleg élmény. Délelőtt fedezze fel a barokk központot, majd melegedjen fel a múzeumokban. Délben a Sermage-palota látogatása kellemes állomás.\n\nDélután látogassa meg az Óvárat és a téli nyugalomba merült temetőt. A havas dombokon átvezető út Trakostyánba olyan, mint egy utazás egy téli mesébe.\n\nA Trakostyáni vár, amelyet gyakran fehér hótakaró borít, este misztikus csendet áraszt. A kivilágított falvakon átvezető esti hazajárás hangulatos zárása a napnak.",
+            "ro": "Un tur de iarnă cu mașina prin Varaždin și regiunea Zagorje este o experiență sigură și caldă. Dimineața explorați centrul baroc și vă încălziți în muzee. La prânz, vizita la Palatul Sermage este un punct de referință confortabil.\n\nDupă-amiaza conduceți spre Castelul Stari Grad și spre cimitirul amorțit de iarnă. Drumul prin dealurile înzăpezite către Trakošćan spre seară este ca o călătorie într-un basm de iarnă.\n\nCastelul Trakošćan, adesea înconjurat de o mantie albă, oferă seara o liniște aproape mistică. Drumul de întoarcere prin satele luminate completează ziua într-un mod plăcut.",
+            "en": "A winter car tour through Varaždin and the Zagorje region is both safe and cozy. Explore the Baroque center in the morning and warm up in the museums. Midday at the Sermage Palace is a comfortable highlight.\n\nIn the afternoon, drive to the Stari Grad castle and the winter-silent cemetery. The drive through the snowy hills to Trakošćan in the late afternoon feels like a trip into a winter wonderland.\n\nTrakošćan Castle, often blanketed in white, offers an almost mystical silence in the evening. The drive back through illuminated villages in the dark rounds off the day perfectly."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen, die Parkplätze einschränken könnten.",
+                "hu": "Vigyázzon a hóbuckákra, amelyek leszűkíthetik a parkolóhelyeket.",
+                "ro": "Atenție la mormanele de zăpadă care pot restricționa locurile de parcare.",
+                "en": "Watch out for snow piles that might restrict parking spaces."
+              }
+            },
+            {
+              "name": "Town Hall & Main Square",
+              "tip_5lang": {
+                "de": "Der Motor wird im Stand kaum warm; gehen Sie lieber schnell in ein Café.",
+                "hu": "A motor álló helyzetben alig melegszik be; inkább menjen be gyorsan egy kávézóba.",
+                "ro": "Motorul abia se încălzește la ralanti; mai bine mergeți repede într-o cafenea.",
+                "en": "The engine won't warm up much while idling; better to quickly head into a cafe."
+              }
+            },
+            {
+              "name": "Stari Grad (Old Castle)",
+              "tip_5lang": {
+                "de": "Die Parkplätze am Schlossgraben werden oft zuerst geräumt.",
+                "hu": "A várárok melletti parkolókat általában az elsők között takarítják le.",
+                "ro": "Parcările de lângă șanțul castelului sunt de obicei curățate primele.",
+                "en": "The parking spaces by the castle moat are often among the first to be cleared."
+              }
+            },
+            {
+              "name": "Varaždin Cathedral",
+              "tip_5lang": {
+                "de": "Lassen Sie keine Wertsachen sichtbar im Auto, da es früh dunkel wird.",
+                "hu": "Ne hagyjon értéket látható helyen az autóban, mert korán sötétedik.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașină, se întunecă devreme.",
+                "en": "Don't leave valuables visible in the car, as it gets dark early."
+              }
+            },
+            {
+              "name": "Varaždin Cemetery",
+              "tip_5lang": {
+                "de": "Vorsicht beim Ein- und Ausparken auf ungeräumten Flächen.",
+                "hu": "Vigyázzon a parkolásnál a le nem takarított felületeken.",
+                "ro": "Atenție la manevrele de parcare pe suprafețele necurățate.",
+                "en": "Be careful when parking in uncleared areas."
+              }
+            },
+            {
+              "name": "Trip to Trakošćan",
+              "tip_5lang": {
+                "de": "Winterreifen sind Pflicht; die Bergstraßen können eisig sein.",
+                "hu": "A téli gumi kötelező; a hegyi utak jegesek lehetnek.",
+                "ro": "Anvelopele de iarnă sunt obligatorii; drumurile montane pot fi înghețate.",
+                "en": "Winter tires are mandatory; the mountain roads can be icy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie immer einen Eiskratzer und Frostschutzmittel griffbereit.",
+              "Füllen Sie den Tank auf, bevor Sie in die ländliche Region Zagorje fahren.",
+              "Die Sonne geht früh unter; planen Sie die Fahrt nach Trakošćan bei Tageslicht.",
+              "Prüfen Sie den Wetterbericht für Zagorje, da dort oft mehr Schnee liegt als in der Stadt.",
+              "Nutzen Sie die Sitzheizung, um sich nach den Schlossbesichtigungen schnell aufzuwärmen."
+            ],
+            "hu": [
+              "Mindig legyen kéznél jégkaparó és fagyálló folyadék.",
+              "Tankoljon fel, mielőtt elindulna Zagorje vidéki tájaira.",
+              "A nap korán nyugszik; a Trakostyánba vezető utat még nappalra tervezze.",
+              "Ellenőrizze a Zagorje-i időjárást, ott gyakran több hó esik, mint a városban.",
+              "Használja az ülésfűtést, hogy a várlátogatás után gyorsan felmelegedjen."
+            ],
+            "ro": [
+              "Aveți întotdeauna la îndemână o răzuitoare de gheață și lichid de parbriz antigel.",
+              "Alimentați rezervorul înainte de a pleca spre regiunea rurală Zagorje.",
+              "Soarele apune devreme; planificați drumul spre Trakošćan pe lumină.",
+              "Verificați prognoza pentru Zagorje, acolo ninge adesea mai mult decât în oraș.",
+              "Folosiți încălzirea în scaune pentru a vă încălzi rapid după vizitarea castelului."
+            ],
+            "en": [
+              "Always have an ice scraper and antifreeze fluid ready.",
+              "Fill up your tank before heading into the rural Zagorje region.",
+              "The sun sets early; plan the drive to Trakošćan during daylight hours.",
+              "Check the weather report for Zagorje, as it often has more snow than the city.",
+              "Use the seat heaters to warm up quickly after your castle tours."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1234,6 +1840,196 @@
           "Check the bus schedule in advance, especially for the return trip from the cemetery.",
           "Most buses are modern and air-conditioned."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Nutzung öffentlicher Verkehrsmittel in Varaždin bei Regen bietet trockene Wartezeiten und eine bequeme Verbindung. Vormittags erreichen Sie das Zentrum und das Rathaus per Bus. Mittags verbringen Sie die Zeit im Sermage-Palast, während die Busse Sie pünktlich weiterbringen.\n\nNachmittags besichtigen Sie das Nationaltheater und nehmen dann den Bus zum Friedhof. Die überdachten Bushaltestellen bieten Schutz vor dem schlimmsten Regen.\n\nDer Tag endet mit der Rückfahrt zum Busbahnhof. Der Blick aus dem nassen Fenster auf die vorbeiziehende Barockstadt hat eine ganz eigene, beruhigende Dynamik, bevor Sie Ihre Weiterreise antreten.",
+            "hu": "A közösségi közlekedés Varasdon esőben száraz várakozást és kényelmes összeköttetést biztosít. Délelőtt busszal érheti el a központot és a Városházát. Délben töltse az időt a Sermage-palotában, miközben a buszok menetrend szerint járnak.\n\nDélután nézze meg a Nemzeti Színházat, majd szálljon buszra a temető felé. A fedett buszmegállók védelmet nyújtanak a szakadó eső ellen.\n\nA nap a buszpályaudvarra való visszatéréssel zárul. A vizes ablakon át szemlélni az elsuhanó barokk várost megnyugtató élmény, mielőtt folytatná útját.",
+            "ro": "Utilizarea transportului public în Varaždin pe ploaie oferă timpi de așteptare la adăpost și conexiuni confortabile. Dimineața ajungeți în centru și la Primărie cu autobuzul. La prânz, petreceți timpul la Palatul Sermage, în timp ce autobuzele circulă conform orarului.\n\nDupă-amiaza vizitați Teatrul Național și apoi luați autobuzul spre cimitir. Stațiile de autobuz acoperite oferă protecție împotriva ploii celei mai dense.\n\nZiua se încheie cu întoarcerea la autogară. Privirea pe geamul ud la orașul baroc care trece prin dreptul tău are o dinamică liniștitoare înainte de a pleca mai departe.",
+            "en": "Using public transit in Varaždin during the rain offers sheltered waiting areas and convenient connections. Reach the center and Town Hall by bus in the morning. Midday is best spent at the Sermage Palace while the buses keep to their schedules.\n\nIn the afternoon, visit the National Theatre and then catch a bus to the cemetery. Covered bus stops provide refuge from the worst of the downpour.\n\nThe day concludes with a return to the bus station. Watching the Baroque city glide by through a rain-streaked window has its own calming charm before you depart."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle, bis Ihr Anschlussbus bereitsteht.",
+                "hu": "Várjon a váróteremben, amíg a csatlakozó busza be nem áll.",
+                "ro": "Așteptați în sala de așteptare până când autobuzul de legătură este pregătit.",
+                "en": "Wait inside the station hall until your connecting bus is ready."
+              }
+            },
+            {
+              "name": "Town Hall & Main Square",
+              "tip_5lang": {
+                "de": "Die Haltestellen im Zentrum sind oft nah an den Gebäuden; nutzen Sie diese als Unterstand.",
+                "hu": "A központi megállók gyakran közel vannak az épületekhez; használja ezeket menedékként.",
+                "ro": "Stațiile din centru sunt adesea aproape de clădiri; folosiți-le ca adăpost.",
+                "en": "Central stops are often near buildings; use them as temporary shelters."
+              }
+            },
+            {
+              "name": "Stari Grad (Old Castle)",
+              "tip_5lang": {
+                "de": "Vom Busstopp zum Schlosseingang ist es ein kurzer Fußweg; halten Sie den Schirm bereit.",
+                "hu": "A buszmegállótól a várbejáratig rövid séta vezet; tartsa készenlétben az esernyőt.",
+                "ro": "De la stația de autobuz la intrarea castelului este un drum scurt; aveți umbrela pregătită.",
+                "en": "It's a short walk from the bus stop to the castle entrance; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Croatian National Theatre",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es mehrere Linien; prüfen Sie, welche am schnellsten im Trockenen hält.",
+                "hu": "A közelben több vonal is elhalad; nézze meg, melyik áll meg legközelebb a fedett részhez.",
+                "ro": "Există mai multe linii în apropiere; verificați care oprește cel mai aproape de adăpost.",
+                "en": "Several lines run nearby; check which one stops closest to shelter."
+              }
+            },
+            {
+              "name": "Bus Stop to Cemetery",
+              "tip_5lang": {
+                "de": "Die Wartezeit kann bei Regen lang wirken; nutzen Sie die Echtzeit-Anzeige in der App.",
+                "hu": "Esőben hosszabbnak tűnhet a várakozás; használja az applikációt a valós idejű adatokhoz.",
+                "ro": "Timpul de așteptare poate părea lung pe ploaie; folosiți aplicația pentru date în timp real.",
+                "en": "Waiting can feel long in the rain; use the app for real-time bus tracking."
+              }
+            },
+            {
+              "name": "Varaždin Cemetery",
+              "tip_5lang": {
+                "de": "Die Haltestelle am Friedhof ist meist ungeschützt; planen Sie die Rückfahrt genau.",
+                "hu": "A temetőnél lévő megálló többnyire nem fedett; tervezze meg pontosan a visszautat.",
+                "ro": "Stația de la cimitir este de obicei neprotejată; planificați exact drumul de întoarcere.",
+                "en": "The stop at the cemetery is mostly unsheltered; plan your return trip precisely."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Ihr Ticket vorab mobil, um nicht im Regen am Automaten zu stehen.",
+              "Tragen Sie wasserfeste Schuhe, da die Wege zu den Haltestellen Pfützen haben können.",
+              "Nutzen Sie die Hauptknotenpunkte für Umstiege, da diese meist besser überdacht sind.",
+              "Halten Sie Ihre Kleidung trocken, um das Beschlagen der Busfenster zu minimieren.",
+              "Die Busse sind im Regen oft voller; planen Sie etwas mehr Zeit ein."
+            ],
+            "hu": [
+              "Vásárolja meg jegyét mobilon, hogy ne kelljen az esőben az automatánál állnia.",
+              "Viseljen vízálló cipőt, mert a megállókhoz vezető úton tócsák lehetnek.",
+              "Az átszállásokhoz válassza a fő csomópontokat, mert azok általában fedettek.",
+              "Igyekezzen szárazon tartani a ruháját, hogy ne párásodjanak el a busz ablakai.",
+              "Esőben a buszok zsúfoltabbak lehetnek; számoljon egy kis plusz idővel."
+            ],
+            "ro": [
+              "Cumpărați biletul online pentru a nu sta în ploaie la automat.",
+              "Purtați încălțăminte impermeabilă, pot exista bălți pe drumul spre stații.",
+              "Utilizați nodurile principale pentru transferuri, deoarece sunt de obicei mai bine acoperite.",
+              "Încercați să vă mențineți hainele uscate pentru a minimiza aburirea geamurilor autobuzului.",
+              "Autobuzele sunt adesea mai pline pe ploaie; planificați puțin mai mult timp."
+            ],
+            "en": [
+              "Buy your ticket via mobile app to avoid standing in the rain at a ticket machine.",
+              "Wear waterproof shoes, as there might be puddles on the way to the stops.",
+              "Use major transit hubs for transfers, as they are usually better sheltered.",
+              "Try to keep your outer clothing dry to minimize fogging up the bus windows.",
+              "Buses are often more crowded during rain; allow for a bit of extra time."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Varaždin mit dem Bus zu erkunden, ist eine kluge Wahl, um der Kälte zu entgehen. Vormittags bringen Sie die geheizten Busse zum Rathausplatz. Mittags bietet der Sermage-Palast eine warme Kulturpause zwischen den Fahrten.\n\nNachmittags besichtigen Sie das Nationaltheater und nehmen dann den Bus zum winterlichen Friedhof. Die kurzen Wartezeiten an den Haltestellen sind bei Frost gut zu bewältigen.\n\nDer Tag endet am Busbahnhof, wo Sie sich in der geheizten Wartehalle aufhalten können. Die beleuchtete Stadt durch das Fenster eines warmen Busses zu sehen, ist der perfekte Abschluss eines kalten Wintertages.",
+            "hu": "A téli Varasd felfedezése busszal okos döntés a hideg elkerülésére. Délelőtt a fűtött buszok a Városházához viszik. Délben a Sermage-palota kínál meleg kulturális pihenőt a járatok között.\n\nDélután nézze meg a Nemzeti Színházat, majd utazzon busszal a téli nyugalomba merült temetőhöz. A megállókban töltött rövid várakozási idő fagyban is bírható.\n\nA nap a buszpályaudvaron ér véget, ahol a fűtött váróteremben pihenhet. A kivilágított várost egy meleg busz ablakából szemlélni tökéletes zárása egy hideg téli napnak.",
+            "ro": "Explorarea orașului Varaždin iarna cu autobuzul este o alegere înțeleaptă pentru a evita frigul. Dimineața, autobuzele încălzite vă duc spre Piața Primăriei. La prânz, Palatul Sermage oferă o pauză culturală caldă între călătorii.\n\nDupă-amiaza vizitați Teatrul Național și apoi luați autobuzul spre cimitirul de iarnă. Timpii scurți de așteptare în stații sunt ușor de gestionat chiar și pe ger.\n\nZiua se încheie la autogară, unde puteți sta în sala de așteptare încălzită. Vizionarea orașului iluminat prin fereastra unui autobuz cald este încheierea perfectă a unei zile reci de iarnă.",
+            "en": "Exploring winter Varaždin by bus is a smart way to stay out of the biting cold. Heated buses take you to the Town Hall Square in the morning. Midday at the Sermage Palace provides a warm cultural break between transit legs.\n\nIn the afternoon, visit the National Theatre and then take the bus to the frozen, quiet cemetery. Short waiting times at the stops are manageable even in freezing temperatures.\n\nThe day concludes at the bus station, where you can wait in the heated hall. Watching the illuminated city through the window of a warm bus is the perfect end to a cold winter day."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus Station",
+              "tip_5lang": {
+                "de": "Die Wartehalle ist beheizt; nutzen Sie sie, um sich nach der Ankunft zu orientieren.",
+                "hu": "A váróterem fűtött; használja ki, hogy tájékozódjon az érkezés után.",
+                "ro": "Sala de așteptare este încălzită; folosiți-o pentru a vă orienta după sosire.",
+                "en": "The station hall is heated; use it to get your bearings after arrival."
+              }
+            },
+            {
+              "name": "Town Hall & Main Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Fahrpläne, die im Winter manchmal leicht abweichen können.",
+                "hu": "Figyeljen a menetrendre, amely télen néha kissé eltérhet.",
+                "ro": "Atenție la orare, care pot varia ușor în timpul iernii.",
+                "en": "Check the schedules, which may occasionally vary slightly in winter."
+              }
+            },
+            {
+              "name": "Stari Grad (Old Castle)",
+              "tip_5lang": {
+                "de": "Vermeiden Sie langes Stehen an der Haltestelle; kommen Sie kurz vor Abfahrt an.",
+                "hu": "Kerülje a hosszú ácsorgást a megállóban; érkezzen röviddel a busz indulása előtt.",
+                "ro": "Evitați așteptarea prelungită în stație; sosiți cu puțin timp înainte de plecare.",
+                "en": "Avoid long waits at the stop; arrive just before the bus is scheduled to depart."
+              }
+            },
+            {
+              "name": "Croatian National Theatre",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse oft sehr warm; ziehen Sie Schichten aus, um nicht zu schwitzen.",
+                "hu": "Télen a buszok gyakran nagyon melegek; vegyen le egy-két réteget, hogy ne izzadjon le.",
+                "ro": "Iarna autobuzele sunt adesea foarte calde; scoateți un strat de haine pentru a nu transpira.",
+                "en": "Buses are often very warm in winter; remove a layer so you don't overheat."
+              }
+            },
+            {
+              "name": "Bus Stop to Cemetery",
+              "tip_5lang": {
+                "de": "Stellen Sie sich windgeschützt hinter das Haltestellenhäuschen.",
+                "hu": "Álljon szélvédett helyre a buszmegálló pavilonja mögé.",
+                "ro": "Stați la adăpost de vânt în spatele pavilionului stației.",
+                "en": "Stand in a wind-sheltered spot behind the bus stop shelter."
+              }
+            },
+            {
+              "name": "Varaždin Cemetery",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App, um die Wartezeit in der Kälte am Friedhof so kurz wie möglich zu halten.",
+                "hu": "Használja az applikációt, hogy a lehető legkevesebb időt kelljen a hidegben várnia a temetőnél.",
+                "ro": "Folosiți aplicația pentru a minimiza timpul de așteptare în frig la cimitir.",
+                "en": "Use the app to keep your waiting time in the cold at the cemetery as short as possible."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Socken, da das Warten auf kalten Gehwegen die Füße auskühlt.",
+              "Die Busse fahren im Winter zuverlässig, aber Schnee kann zu leichten Verzögerungen führen.",
+              "Nutzen Sie die beheizten Innenräume der Busse als kleine Erholungsphasen.",
+              "Achten Sie auf Glätte beim Ein- und Aussteigen an den Haltestellen.",
+              "Ein heißer Kaffee aus dem Automaten am Busbahnhof hilft gegen die Kälte."
+            ],
+            "hu": [
+              "Viseljen meleg zoknit, mert a hideg járdán való várakozás lehűti a lábat.",
+              "A buszok télen is megbízhatóan járnak, de a hó okozhat kisebb késéseket.",
+              "Használja ki a buszok fűtött belterét rövid pihenőként.",
+              "Vigyázzon a csúszós útra a buszról való le- és felszálláskor.",
+              "A buszpályaudvar automatájából vett forró kávé sokat segít a hideg ellen."
+            ],
+            "ro": [
+              "Purtați șosete groase, deoarece așteptarea pe trotuarele reci răcește picioarele.",
+              "Autobuzele circulă fiabil iarna, dar zăpada poate cauza mici întârzieri.",
+              "Utilizați interiorul încălzit al autobuzelor ca scurte faze de recuperare.",
+              "Atenție la polei când urcați sau coborâți din autobuz în stații.",
+              "O cafea fierbinte de la automatul din autogară ajută împotriva frigului."
+            ],
+            "en": [
+              "Wear warm socks, as waiting on cold pavements can chill your feet quickly.",
+              "Buses run reliably in winter, but snow can lead to minor delays.",
+              "Use the heated bus interiors as short recovery periods from the cold.",
+              "Be careful of ice when getting on or off the bus at stops.",
+              "A hot coffee from the vending machine at the bus station helps combat the cold."
+            ]
+          }
+        }
       }
     }
   }

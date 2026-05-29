@@ -302,6 +302,170 @@
           "Cassiobury Park is huge, so plan which part you want to see.",
           "Most central shops accept contactless payments."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Atria Watford, wo Sie völlig trocken durch die Geschäfte schlendern können. Die moderne Architektur bietet perfekten Schutz vor den ersten Regenschauern des Morgens.\n\nMittags bietet die St. Mary's Church einen friedlichen Rückzugsort. Der kurze Fußweg zum Watford Museum führt durch das Stadtzentrum, wo zahlreiche Vordächer den Regen abhalten.\n\nAm Nachmittag tauchen Sie im Museum in die lokale Geschichte ein, während es draußen stürmt. Danach bietet das Palace Theatre eine elegante Atmosphäre für eine kurze Pause im Trockenen.\n\nDer Tag endet im Cassiobury Park. Trotz des Regens sind die asphaltierten Wege gut begehbar. Der Anblick des nassen Grases und der Kanäle hat bei grauem Himmel einen ganz eigenen, melancholischen Charme.",
+            "hu": "Kezdje a napot az Atria Watford bevásárlóközpontban, amely tökéletes menedéket nyújt az eső elől. A fedett üzletsorokon szárazon sétálhat a reggeli záporok idején.\n\nDélben a Szent Mária-templom vastag falai között talál nyugalmat. A Watford Múzeum felé tartó rövid séta során használja ki a főutca árkádjait a védelem érdekében.\n\nDélután a múzeumban ismerkedhet meg a város múltjával, távol a szürke időjárástól. A Palace Theatre előcsarnoka elegáns helyszín egy rövid pihenőhöz, mielőtt továbbindulna.\n\nAz estét a Cassiobury Parkban zárja. Az esőben az aszfaltozott utak jól járhatóak maradnak. A nedves természet és a csatorna látványa ilyenkor különleges, nyugodt hangulatot áraszt.",
+            "ro": "Începeți ziua la Atria Watford, unde puteți explora magazinele fără să vă faceți griji pentru ploaie. Arhitectura modernă oferă adăpostul perfect împotriva primelor averse ale dimineții.\n\nLa prânz, Biserica Sfânta Maria oferă un refugiu liniștit. Scurta plimbare către Muzeul Watford trece prin centrul orașului, unde numeroasele copertine vă protejează de stropi.\n\nDupă-amiaza este dedicată istoriei locale în interiorul muzeului, feriți de vremea mohorâtă. Ulterior, Palace Theatre oferă un cadru elegant pentru o pauză scurtă într-un mediu uscat.\n\nZiua se încheie în Parcul Cassiobury. Chiar și pe ploaie, aleile asfaltate sunt ușor de parcurs. Vederea ierbii ude și a canalelor are un farmec aparte sub cerul cenușiu.",
+            "en": "Start your morning at Atria Watford, where you can browse shops completely sheltered from the rain. The modern mall provides a perfect dry environment during the initial morning showers.\n\nAt midday, St Mary's Church offers a peaceful, dry retreat. The short walk to Watford Museum takes you through the town center, where various storefronts provide cover along the way.\n\nSpend your afternoon immersed in local history at the museum while the storm passes outside. Afterwards, the Palace Theatre provides an elegant atmosphere for a brief rest in the dry.\n\nConclude the day at Cassiobury Park. Despite the rain, the paved paths remain accessible. The sight of the wet landscape and the canal has its own unique, tranquil charm under a grey sky."
+          },
+          "stops": [
+            {
+              "name": "Atria Watford Shopping Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Übergang zwischen den Gebäudeteilen.",
+                "hu": "Használja a fedett összekötő folyosókat az épületrészek között.",
+                "ro": "Folosiți culoarele acoperite care fac legătura între secțiunile mall-ului.",
+                "en": "Use the covered link bridges between the different mall sections."
+              }
+            },
+            {
+              "name": "St Mary's Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die historischen Monumente im Inneren, während es draußen regnet.",
+                "hu": "Csodálja meg a belső műemlékeket, amíg kint esik az eső.",
+                "ro": "Admirați monumentele istorice din interior în timp ce plouă afară.",
+                "en": "Admire the historical monuments inside while the rain falls outside."
+              }
+            },
+            {
+              "name": "Watford Museum",
+              "tip_5lang": {
+                "de": "Der Eintritt ist frei und die Ausstellungen sind komplett wetterfest.",
+                "hu": "A belépés ingyenes, és a kiállítások teljesen fedett helyen vannak.",
+                "ro": "Intrarea este gratuită, iar expozițiile sunt complet protejate de intemperii.",
+                "en": "Entry is free and the exhibitions are completely weatherproof."
+              }
+            },
+            {
+              "name": "Watford Palace Theatre",
+              "tip_5lang": {
+                "de": "Warten Sie einen heftigen Schauer im gemütlichen Café-Bereich ab.",
+                "hu": "Várja meg a hevesebb záport a hangulatos kávézó részlegben.",
+                "ro": "Așteptați trecerea unei averse puternice în zona primitoare a cafenelei.",
+                "en": "Wait out a heavy shower in the cozy café area."
+              }
+            },
+            {
+              "name": "Cassiobury Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon a burkolt utakon, hogy elkerülje a sarat.",
+                "ro": "Rămâneți pe aleile pavate pentru a evita noroiul.",
+                "en": "Stick to the paved paths to avoid the mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für den Spaziergang im Cassiobury Park.",
+              "Das Atria Shopping Centre ist der ideale Ort, um trockene Stunden zu verbringen.",
+              "Regenschirme sind im Stadtzentrum aufgrund des Windes oft unpraktisch, wählen Sie lieber eine Regenjacke.",
+              "Nutzen Sie die vielen Cafés in der High Street für kurze Aufwärmpausen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a Cassiobury Parkban való sétához.",
+              "Az Atria bevásárlóközpont ideális hely a szárazabb órák eltöltésére.",
+              "Az esernyő a szél miatt gyakran kényelmetlen lehet a belvárosban, válasszon inkább esőkabátot.",
+              "Használja ki a High Street számos kávézóját rövid pihenőkre."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru plimbarea în Parcul Cassiobury.",
+              "Centrul comercial Atria este locul ideal pentru a petrece orele ploioase.",
+              "Umbrela poate fi incomodă în centrul orașului din cauza vântului, preferați o pelerină.",
+              "Profitați de numeroasele cafenele de pe High Street pentru scurte pauze de încălzire."
+            ],
+            "en": [
+              "Wear waterproof footwear for your walk in Cassiobury Park.",
+              "Atria Shopping Centre is the ideal place to spend the wettest hours.",
+              "Umbrellas can be impractical in the town center due to wind; a raincoat is better.",
+              "Take advantage of the many cafés on the High Street for short dry breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt im Atria Watford. Die festliche Dekoration und die angenehme Wärme im Inneren lassen die Kälte draußen schnell vergessen.\n\nUm die Mittagszeit besuchen Sie die St. Mary's Church. Der frostige Kirchhof wirkt im Winterlicht besonders stimmungsvoll, bevor Sie sich auf den Weg zum beheizten Watford Museum machen.\n\nNachmittags bietet das Museum einen interessanten Einblick in die Geschichte, während die Sonne bereits tief steht. Ein kurzer Stopp am Palace Theatre lässt Sie die historische Fassade in der Dämmerung bewundern.\n\nDer Tag klingt im Cassiobury Park aus. Bei klarem Winterwetter glitzert der Frost auf den Wiesen. Da es früh dunkel wird, ist die Atmosphäre am Kanal mit den Lichtern der Stadt besonders friedlich.",
+            "hu": "Friss téli reggel kezdődik az Atria Watfordban. Az ünnepi dekoráció és a belső melegség gyorsan elfeledteti a kinti hideget, miközben az üzleteket járja.\n\nDélidőben látogasson el a Szent Mária-templomhoz. A fagyos templomkert különleges hangulatot áraszt a téli fényben, mielőtt a fűtött Watford Múzeumba indulna.\n\nDélután a múzeum érdekes kiállításai nyújtanak menedéket a csípős szél elől. A Palace Theatre történelmi épülete az egyre korábbi szürkületben mutatja meg legszebb arcát.\n\nA nap a Cassiobury Parkban ér véget. Tiszta téli időben a dér csillog a réteken. Mivel korán sötétedik, a csatorna menti séta a város fényeivel ilyenkor válik igazán békéssé.",
+            "ro": "O dimineață răcoroasă de iarnă începe la Atria Watford. Decorațiunile festive și căldura din interior vă fac să uitați rapid de frigul de afară.\n\nÎn jurul prânzului, vizitați Biserica Sfânta Maria. Curtea înghețată a bisericii pare deosebit de sugestivă în lumina iernii, înainte de a pleca spre Muzeul Watford, bine încălzit.\n\nDupă-amiaza, muzeul oferă o perspectivă interesantă asupra istoriei, în timp ce soarele coboară spre orizont. O oprire scurtă la Palace Theatre vă permite să admirați fațada istorică în amurg.\n\nZiua se încheie în Parcul Cassiobury. Pe vreme senină de iarnă, chiciura strălucește pe pajiști. Deoarece se întunecă devreme, atmosfera de lângă canal, cu luminile orașului, este extrem de liniștită.",
+            "en": "A crisp winter morning begins at Atria Watford. The festive decorations and the indoor warmth quickly make you forget the cold outside while you explore the stores.\n\nAround midday, visit St Mary's Church. The frosty churchyard looks particularly atmospheric in the winter light before you head to the heated Watford Museum.\n\nIn the afternoon, the museum provides an interesting look into history while the sun stays low. A quick stop at the Palace Theatre lets you admire the historic facade in the early twilight.\n\nThe day ends at Cassiobury Park. In clear winter weather, frost glistens on the meadows. As it gets dark early, the walk by the canal with the city lights becomes especially peaceful."
+          },
+          "stops": [
+            {
+              "name": "Atria Watford Shopping Centre",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Dekoration und die angenehme Heizung.",
+                "hu": "Élvezze a téli dekorációt és a kellemes fűtést.",
+                "ro": "Bucurați-vă de decorațiunile de iarnă și de încălzirea plăcută.",
+                "en": "Enjoy the winter decorations and the pleasant indoor heating."
+              }
+            },
+            {
+              "name": "St Mary's Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Stellen auf den Steinplatten des Kirchhofs.",
+                "hu": "Ügyeljen a csúszós foltokra a templomkert kőlapjain.",
+                "ro": "Aveți grijă la porțiunile alunecoase de pe dalele din curtea bisericii.",
+                "en": "Watch out for slippery patches on the stone paths of the churchyard."
+              }
+            },
+            {
+              "name": "Watford Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei den interaktiven Ausstellungen auf.",
+                "hu": "Melegedjen fel az interaktív kiállítások megtekintése közben.",
+                "ro": "Încălziți-vă în timp ce explorați expozițiile interactive.",
+                "en": "Warm up while exploring the interactive exhibitions."
+              }
+            },
+            {
+              "name": "Watford Palace Theatre",
+              "tip_5lang": {
+                "de": "Die beleuchtete Fassade ist in der frühen Dunkelheit ein tolles Fotomotiv.",
+                "hu": "A kivilágított homlokzat remek fotótéma a korai sötétedésben.",
+                "ro": "Fațada iluminată este un subiect excelent pentru fotografii în amurgul timpuriu.",
+                "en": "The illuminated facade is a great photo opportunity in the early darkness."
+              }
+            },
+            {
+              "name": "Cassiobury Park",
+              "tip_5lang": {
+                "de": "Die Cafés im Park bieten im Winter oft heiße Schokolade an.",
+                "hu": "A park kávézói télen gyakran kínálnak forró csokoládét.",
+                "ro": "Cafenelele din parc oferă adesea ciocolată caldă în timpul iernii.",
+                "en": "The park cafés often serve hot chocolate during the winter season."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Da es gegen 16:30 Uhr dunkel wird, planen Sie den Parkbesuch rechtzeitig ein.",
+              "Tragen Sie mehrere Schichten Kleidung, um für drinnen und draußen gerüstet zu sein.",
+              "Die Wege am Grand Union Canal können bei Frost sehr glatt sein.",
+              "Das Watford Museum ist ein perfekter Ort, um der Kälte für eine Stunde zu entfliehen."
+            ],
+            "hu": [
+              "Mivel 16:30 körül sötétedik, tervezze a parklátogatást időben.",
+              "Öltözzön rétegesen, hogy a kinti hideghez és a benti meleghez is alkalmazkodhasson.",
+              "A Grand Union csatorna menti utak fagy esetén nagyon csúszósak lehetnek.",
+              "A Watford Múzeum tökéletes hely, hogy egy órára elmeneküljön a hideg elől."
+            ],
+            "ro": [
+              "Deoarece se întunecă în jur de 16:30, planificați vizita în parc din timp.",
+              "Purtați mai multe straturi de haine pentru a fi pregătit atât pentru interior, cât și pentru exterior.",
+              "Potecile de lângă Grand Union Canal pot fi foarte alunecoase în caz de îngheț.",
+              "Muzeul Watford este locul perfect pentru a scăpa de frig timp de o oră."
+            ],
+            "en": [
+              "Sunset is around 4:30 PM; plan your park visit while there is still daylight.",
+              "Dress in layers to be comfortable both in heated buildings and outdoors.",
+              "Paths along the Grand Union Canal can be very slippery during frost.",
+              "Watford Museum is a perfect spot to escape the cold for an hour."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -622,6 +786,188 @@
           "Watford has some hills, so be ready for a few climbs.",
           "Use cycle lanes wherever available."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert die richtige Ausrüstung. Starten Sie am Atria Watford, wo die Fahrradabstellplätze gut beleuchtet und teilweise geschützt sind.\n\nMittags führt die Route zur St. Mary's Church und zum Vicarage Road Stadium. Die nassen Straßen glänzen, und die kurze Fahrzeit zwischen den Stationen hält die Nässe in Grenzen.\n\nNachmittags geht es durch den Woodside Park und das Cheslyn House. Die Bäume bieten hier einen natürlichen Schutz vor dem schlimmsten Regen, während Sie die grünen Lungen der Stadt durchqueren.\n\nDer Abschluss findet im Cassiobury Park statt. Die weiten Wege am Kanal sind auch bei Regen befahrbar, wobei die Ruhe des Parks bei diesem Wetter besonders intensiv ist.",
+            "hu": "Egy esős biciklitúra megfelelő felszerelést igényel. Kezdjen az Atria Watfordnál, ahol a kerékpártárolók jól megvilágítottak és részben védettek.\n\nDélben az útvonal a Szent Mária-templomhoz és a Vicarage Road stadionhoz vezet. A vizes utak csillognak, és a megállók közötti rövid távok segítenek szárazon maradni.\n\nDélután a Woodside Park és a Cheslyn House következik. A sűrű lombozat természetes védelmet nyújt a leghevesebb eső ellen, miközben átszeli a város zöldövezeteit.\n\nA túra a Cassiobury Parkban zárul. A csatorna menti széles utak esőben is jól tekerhetőek, a park csendje ilyenkor pedig még mélyebbnek tűnik.",
+            "ro": "O tură cu bicicleta pe ploaie necesită echipamentul adecvat. Începeți la Atria Watford, unde rastelele pentru biciclete sunt bine iluminate și parțial protejate.\n\nLa prânz, traseul vă duce la Biserica Sfânta Maria și la stadionul Vicarage Road. Șoselele umede strălucesc, iar distanțele scurte dintre opriri limitează expunerea la apă.\n\nDupă-amiaza traversează Woodside Park și Cheslyn House. Copacii oferă aici o protecție naturală împotriva ploii torențiale în timp ce parcurgeți zonele verzi ale orașului.\n\nFinalul are loc în Parcul Cassiobury. Drumurile largi de lângă canal sunt practicabile și pe ploaie, liniștea parcului fiind deosebit de intensă pe o astfel de vreme.",
+            "en": "A bike tour in the rain requires the right gear. Start at Atria Watford, where the cycle parking is well-lit and partially sheltered.\n\nAt midday, the route leads to St Mary's Church and Vicarage Road Stadium. The wet roads glisten, and the short riding times between stops help keep the dampness manageable.\n\nIn the afternoon, head through Woodside Park and Cheslyn House. The trees here provide some natural shelter from the worst of the rain as you cross the city's green lungs.\n\nConclude your ride at Cassiobury Park. The wide paths by the canal are rideable even in the rain, and the park's tranquility is especially profound in this weather."
+          },
+          "stops": [
+            {
+              "name": "Atria Watford",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad in den überdachten Bereichen nahe der Eingänge.",
+                "hu": "Parkoljon a bejáratokhoz közeli fedett kerékpártárolóknál.",
+                "ro": "Parcați bicicleta în zonele acoperite din apropierea intrărilor.",
+                "en": "Park your bike in the sheltered areas near the entrances."
+              }
+            },
+            {
+              "name": "St Mary's Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a leszálláskor a vizes macskakövön.",
+                "ro": "Atenție la coborârea de pe bicicletă pe pavajul umed.",
+                "en": "Be careful when dismounting on wet cobblestones."
+              }
+            },
+            {
+              "name": "Vicarage Road Stadium",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp unter dem Schutz der Stadionüberstände möglich.",
+                "hu": "Rövid fotómegálló a stadion ereszei alatt lehetséges.",
+                "ro": "Scurtă oprire pentru poze sub protecția cornișelor stadionului.",
+                "en": "A quick photo stop is possible under the shelter of the stadium overhangs."
+              }
+            },
+            {
+              "name": "Woodside Park",
+              "tip_5lang": {
+                "de": "Meiden Sie unbefestigte Waldwege, die schlammig sein könnten.",
+                "hu": "Kerülje a földutakat, amelyek sárosak lehetnek.",
+                "ro": "Evitați potecile neamenajate care pot fi noroioase.",
+                "en": "Avoid unpaved paths that could be muddy."
+              }
+            },
+            {
+              "name": "Cheslyn House and Gardens",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad am Haupteingang ab und nutzen Sie die festen Wege.",
+                "hu": "Hagyja a biciklit a főbejáratnál, és használja a szilárd utakat.",
+                "ro": "Lăsați bicicleta la intrarea principală și folosiți aleile solide.",
+                "en": "Leave your bike at the main entrance and stick to the solid paths."
+              }
+            },
+            {
+              "name": "Cassiobury Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor den Gefällen im Park.",
+                "hu": "Ellenőrizze a fékeit a park lejtői előtt.",
+                "ro": "Verificați frânele înainte de porțiunile în pantă din parc.",
+                "en": "Check your brakes before the descents in the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein absolutes Muss.",
+              "Vermeiden Sie das Bremsen auf nassen Fahrbahnmarkierungen oder Gullideckeln.",
+              "Tragen Sie auffällige, reflektierende Regenkleidung für bessere Sichtbarkeit.",
+              "Ein wasserfester Sattelüberzug spart Ihnen eine nasse Hose."
+            ],
+            "hu": [
+              "A sárvédő használata ilyen időben elengedhetetlen.",
+              "Kerülje a fékezést a vizes útburkolati jeleken vagy csatornafedeleken.",
+              "Viseljen feltűnő, fényvisszaverő esőruházatot a jobb láthatóságért.",
+              "Egy vízálló nyereghuzat megkíméli önt a vizes nadrágtól."
+            ],
+            "ro": [
+              "Apărătorile de noroi la bicicletă sunt obligatorii pe această vreme.",
+              "Evitați frânarea pe marcajele rutiere umede sau pe capacele de canal.",
+              "Purtați haine de ploaie reflectorizante pentru o mai bună vizibilitate.",
+              "O husă impermeabilă pentru șa vă va salva de pantalonii uzi."
+            ],
+            "en": [
+              "Mudguards on your bike are an absolute must in this weather.",
+              "Avoid braking on wet road markings or manhole covers.",
+              "Wear bright, reflective rain gear for better visibility.",
+              "A waterproof saddle cover will save you from wet trousers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frostige Luft weckt die Lebensgeister beim Start am Atria Watford. Die flache Wintersonne lässt das Stadtbild in klarem Licht erscheinen.\n\nMittags radeln Sie über die High Street zur St. Mary's Church und zum Stadium. Die Bewegung hält Sie warm, während Sie die winterliche Atmosphäre der Stadt aufsaugen.\n\nNachmittags erkunden Sie den Woodside Park und die Gärten von Cheslyn House. Die kahlen Bäume geben weite Blicke frei, die im Sommer oft verborgen bleiben.\n\nDie Tour endet im Cassiobury Park rechtzeitig vor Sonnenuntergang. Das goldene Licht der späten Stunde auf den gefrorenen Wiesen ist der perfekte Abschluss für diesen aktiven Wintertag.",
+            "hu": "A fagyos levegő frissítően hat a reggeli indulásnál az Atria Watfordnál. Az alacsonyan járó téli nap tiszta fénybe vonja a várost.\n\nDélben a High Streeten keresztül teker a Szent Mária-templomhoz és a stadionhoz. A mozgás melegen tartja, miközben magába szívja a város téli hangulatát.\n\nDélután a Woodside Parkot és a Cheslyn House kertjeit fedezi fel. A kopasz fák között olyan kilátás nyílik a tájra, ami nyáron rejtve marad.\n\nA túra a Cassiobury Parkban zárul, még naplemente előtt. A késő délutáni aranyfény a fagyos réteken tökéletes befejezése ennek az aktív téli napnak.",
+            "ro": "Aerul înghețat vă înviorează la plecarea de la Atria Watford. Soarele palid de iarnă scaldă peisajul urban într-o lumină clară.\n\nLa prânz, pedalați pe High Street către Biserica Sfânta Maria și stadion. Mișcarea vă menține cald în timp ce absorbiți atmosfera de iarnă a orașului.\n\nDupă-amiaza explorați Woodside Park și grădinile Cheslyn House. Copacii desfrunziți oferă perspective largi care vara rămân adesea ascunse.\n\nTurul se încheie în Parcul Cassiobury chiar înainte de apus. Lumina aurie a orei târzii peste pajiștile înghețate este finalul perfect pentru această zi activă de iarnă.",
+            "en": "The frosty air invigorates you as you start at Atria Watford. The low winter sun casts a clear, sharp light over the cityscape.\n\nAt midday, cycle via the High Street to St Mary's Church and the Stadium. The physical activity keeps you warm while you soak up the city's winter atmosphere.\n\nIn the afternoon, explore Woodside Park and the gardens of Cheslyn House. The bare trees reveal wide views that are often hidden during the summer months.\n\nFinish your tour at Cassiobury Park just before sunset. The golden late-afternoon light on the frozen meadows is the perfect conclusion to this active winter day."
+          },
+          "stops": [
+            {
+              "name": "Atria Watford",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihren Reifendruck, da dieser bei Kälte sinken kann.",
+                "hu": "Ellenőrizze a guminyomást, mert hidegben az lecsökkenhet.",
+                "ro": "Verificați presiunea în anvelope, deoarece poate scădea la frig.",
+                "en": "Check your tire pressure as it can drop in cold weather."
+              }
+            },
+            {
+              "name": "St Mary's Church",
+              "tip_5lang": {
+                "de": "Ketten Sie Ihr Rad an beleuchteten Stellen an.",
+                "hu": "Láncolja le a biciklit jól megvilágított helyeken.",
+                "ro": "Legați bicicleta în locuri bine iluminate.",
+                "en": "Lock your bike in well-lit areas."
+              }
+            },
+            {
+              "name": "Vicarage Road Stadium",
+              "tip_5lang": {
+                "de": "Ein schneller Stopp reicht aus, um nicht auszukühlen.",
+                "hu": "Egy gyors megálló is elég, hogy ne hűljön ki.",
+                "ro": "O oprire rapidă este suficientă pentru a nu vă răci.",
+                "en": "A quick stop is enough to avoid getting too cold."
+              }
+            },
+            {
+              "name": "Woodside Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor Laub unter dem Reif, es kann rutschig sein.",
+                "hu": "Vigyázzon a dér alatti levelekre, csúszósak lehetnek.",
+                "ro": "Atenție la frunzele de sub chiciură, pot fi alunecoase.",
+                "en": "Watch out for leaves under the frost; they can be slippery."
+              }
+            },
+            {
+              "name": "Cheslyn House and Gardens",
+              "tip_5lang": {
+                "de": "Die Gärten schließen im Winter früher (oft 16:00 Uhr).",
+                "hu": "A kertek télen korábban zárnak (gyakran 16:00-kor).",
+                "ro": "Grădinile se închid mai devreme iarna (adesea la ora 16:00).",
+                "en": "The gardens close earlier in winter (often at 4:00 PM)."
+              }
+            },
+            {
+              "name": "Cassiobury Park",
+              "tip_5lang": {
+                "de": "Sorgen Sie für eine funktionierende Beleuchtung für den Rückweg.",
+                "hu": "Gondoskodjon a működő világításról a visszaúthoz.",
+                "ro": "Asigurați-vă că aveți lumini funcționale pentru drumul de întoarcere.",
+                "en": "Ensure you have working lights for the ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Handschuhe und eine winddichte Jacke sind für das Winterradeln unverzichtbar.",
+              "Achten Sie auf vereiste Pfützen, besonders auf den Waldwegen.",
+              "Ihre Akkus für die Beleuchtung entladen sich bei Kälte schneller.",
+              "Halten Sie sich durch stetiges Treten warm, aber vermeiden Sie übermäßiges Schwitzen."
+            ],
+            "hu": [
+              "A kesztyű és a szélálló kabát elengedhetetlen a téli tekeréshez.",
+              "Ügyeljen a jeges tócsákra, különösen az erdei utakon.",
+              "A lámpák akkumulátorai hidegben gyorsabban lemerülnek.",
+              "Tartsa magát melegen folyamatos tekeréssel, de kerülje a túlzott izzadást."
+            ],
+            "ro": [
+              "Mănușile și o jachetă rezistentă la vânt sunt indispensabile pentru ciclismul de iarnă.",
+              "Atenție la bălțile înghețate, în special pe potecile din pădure.",
+              "Bateriile pentru lumini se descarcă mai repede la temperaturi scăzute.",
+              "Mențineți-vă cald pedalând constant, dar evitați transpirația excesivă."
+            ],
+            "en": [
+              "Gloves and a windproof jacket are essential for winter cycling.",
+              "Watch out for icy puddles, especially on woodland paths.",
+              "Your light batteries will drain faster in the cold.",
+              "Keep warm by pedaling steadily, but avoid excessive sweating."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -918,6 +1264,170 @@
           "Check parking charges, especially in the town centre.",
           "Parking at the Studio Tour is free."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist der Regen kein Hindernis. Starten Sie entspannt am Bhaktivedanta Manor, dessen prachtvolle Anlage auch im Regen sehr beeindruckend wirkt.\n\nMittags erreichen Sie die Warner Bros. Studios. Da die Tour fast komplett im Inneren stattfindet, ist dies das ideale Programm für einen Regentag in Watford.\n\nNachmittags parken Sie in der Nähe des Cassiobury Parks. Ein kurzer Spaziergang zum Cha Café ermöglicht es Ihnen, den Blick auf den Park bei einer Tasse Tee im Trockenen zu genießen.\n\nDer Tag endet stilvoll am Palace Theatre. Parken Sie in einem der nahen Parkhäuser, um auf dem Weg zum Theater so trocken wie möglich zu bleiben.",
+            "hu": "Autóval az eső nem akadály. Kezdjen pihentetően a Bhaktivedanta Manornál, amelynek lenyűgöző épülete esőben is méltóságteljes látványt nyújt.\n\nDélben érkezik a Warner Bros. stúdióba. Mivel a túra szinte teljesen fedett helyen zajlik, ez a tökéletes program egy esős napra Watfordban.\n\nDélután a Cassiobury Park közelében parkolhat le. Egy rövid séta a Cha Caféba lehetővé teszi, hogy egy csésze tea mellett, szárazon élvezze a park látványát.\n\nA nap stílusosan a Palace Theatre-nél zárul. Parkoljon a közeli parkolóházak egyikében, hogy a lehető legszárazabban jusson be a színházba.",
+            "ro": "Cu mașina, ploaia nu reprezintă un obstacol. Începeți relaxat la Bhaktivedanta Manor, al cărui domeniu impresionant arată spectaculos chiar și pe ploaie.\n\nLa prânz ajungeți la Studiourile Warner Bros. Deoarece turul se desfășoară aproape în totalitate în interior, acesta este programul ideal pentru o zi ploioasă în Watford.\n\nDupă-amiaza parcați în apropiere de Parcul Cassiobury. O scurtă plimbare până la Cha Café vă permite să vă bucurați de vederea parcului la o ceașcă de ceai, la adăpost.\n\nZiua se încheie cu stil la Palace Theatre. Parcați într-una dintre parcările etajate din apropiere pentru a ajunge la teatru cât mai uscat posibil.",
+            "en": "By car, the rain is no obstacle. Start your day relaxed at Bhaktivedanta Manor, whose magnificent grounds look impressive even in wet weather.\n\nAt midday, arrive at Warner Bros. Studio Tour. Since the tour is almost entirely indoors, it's the perfect activity for a rainy day in Watford.\n\nIn the afternoon, park near Cassiobury Park. A short dash to The Cha Café allows you to enjoy views of the park over a cup of tea while staying dry.\n\nConclude your day in style at the Palace Theatre. Use one of the nearby multi-story car parks to minimize your exposure to the rain on the way to the theater."
+          },
+          "stops": [
+            {
+              "name": "Bhaktivedanta Manor",
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Parkplatz nahe dem Haupthaus.",
+                "hu": "Használja a főépület melletti szilárd burkolatú parkolót.",
+                "ro": "Folosiți parcarea amenajată de lângă clădirea principală.",
+                "en": "Use the paved parking area near the main house."
+              }
+            },
+            {
+              "name": "Warner Bros. Studio Tour London",
+              "tip_5lang": {
+                "de": "Das Parken ist im Ticketpreis enthalten und bietet kurze Wege zum Eingang.",
+                "hu": "A parkolás benne van a jegyárban, és rövid utat biztosít a bejárathoz.",
+                "ro": "Parcarea este inclusă în prețul biletului și oferă acces rapid la intrare.",
+                "en": "Parking is included in the ticket price and provides a short walk to the entrance."
+              }
+            },
+            {
+              "name": "Cassiobury Park",
+              "tip_5lang": {
+                "de": "Parken Sie am Gade Avenue Parkplatz für den kürzesten Weg zum Café.",
+                "hu": "Parkoljon a Gade Avenue parkolóban a kávézóhoz vezető legrövidebb útért.",
+                "ro": "Parcați în parcarea de pe Gade Avenue pentru cel mai scurt drum spre cafenea.",
+                "en": "Park at the Gade Avenue car park for the shortest walk to the café."
+              }
+            },
+            {
+              "name": "The Cha Café",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die Regenpause bei einem Snack zu genießen.",
+                "hu": "Tökéletes hely, hogy egy falat mellett élvezze az esőszünetet.",
+                "ro": "Un loc perfect pentru a savura o gustare în timpul unei pauze de ploaie.",
+                "en": "A perfect spot to enjoy a snack while waiting for the rain to ease."
+              }
+            },
+            {
+              "name": "Watford Palace Theatre",
+              "tip_5lang": {
+                "de": "Das Sutton Car Park bietet direkten, wettergeschützten Zugang zur City.",
+                "hu": "A Sutton parkolóház közvetlen, időjárástól védett kijáratot biztosít a városba.",
+                "ro": "Parcarea Sutton oferă acces direct și protejat de vreme către centrul orașului.",
+                "en": "Sutton Car Park offers direct, weather-protected access to the city area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt, die Sicht kann stark beeinträchtigt sein.",
+              "Vermeiden Sie das Parken unter großen Bäumen bei starkem Wind und Regen.",
+              "Nutzen Sie die Parkhäuser in der Innenstadt für trockene Ausstiegsmöglichkeiten.",
+              "Planen Sie etwas mehr Zeit für die Fahrt ein, da der Verkehr bei Regen oft zäher ist."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket, a látási viszonyok korlátozottak lehetnek.",
+              "Erős szél és eső esetén kerülje a nagy fák alatt való parkolást.",
+              "Használja a belvárosi parkolóházakat a száraz kiszállás érdekében.",
+              "Számoljon több menetidővel, mert esőben gyakran lassabb a forgalom."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de plecare, vizibilitatea poate fi redusă.",
+              "Evitați parcarea sub copaci mari în caz de vânt puternic și ploaie.",
+              "Folosiți parcările etajate din centru pentru a coborî din mașină la adăpost.",
+              "Planificați mai mult timp pentru drum, traficul este adesea mai lent pe ploaie."
+            ],
+            "en": [
+              "Check your wipers before setting off; visibility can be significantly reduced.",
+              "Avoid parking under large trees during heavy wind and rain.",
+              "Use multi-story car parks in the town center for dry exits.",
+              "Allow extra time for travel as traffic is often slower in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihren Wintertag gemütlich im Bhaktivedanta Manor. Die gepflegten Gärten wirken bei Frost wie verzaubert, während das Innere Geborgenheit bietet.\n\nMittags tauchen Sie in die magische Welt von Harry Potter in den Warner Bros. Studios ein. Das beheizte Studio ist der perfekte Ort, um der Kälte für mehrere Stunden zu entfliehen.\n\nNachmittags parken Sie am Cassiobury Park für einen kurzen Winterspaziergang. Die kalte Luft ist erfrischend, bevor Sie sich im Cha Café bei einem heißen Getränk aufwärmen.\n\nDer Tag endet beim Palace Theatre. Die festliche Beleuchtung der umliegenden Straßen sorgt in der winterlichen Dunkelheit für eine wunderbare Atmosphäre.",
+            "hu": "Kezdje a téli napot kényelmesen a Bhaktivedanta Manornál. A gondozott kertek fagyban elvarázsoltnak tűnnek, miközben az épület belseje biztonságot nyújt.\n\nDélben merüljön el Harry Potter varázslatos világában a Warner Bros. stúdióban. A fűtött stúdió tökéletes hely, hogy több órára elmeneküljön a hideg elől.\n\nDélután parkoljon le a Cassiobury Parknál egy rövid téli sétára. A hideg levegő frissítő, mielőtt a Cha Caféban egy forró itallal felmelegedne.\n\nA nap a Palace Theatre-nél zárul. A környező utcák ünnepi kivilágítása a téli sötétségben csodálatos hangulatot áraszt.",
+            "ro": "Începeți ziua de iarnă confortabil la Bhaktivedanta Manor. Grădinile îngrijite par fermecate sub chiciură, în timp ce interiorul oferă adăpost.\n\nLa prânz, pătrundeți în lumea magică a lui Harry Potter la Studiourile Warner Bros. Studioul bine încălzit este locul perfect pentru a scăpa de frig timp de câteva ore.\n\nDupă-amiaza parcați la Parcul Cassiobury pentru o scurtă plimbare de iarnă. Aerul rece este revigorant înainte de a vă încălzi la Cha Café cu o băutură fierbinte.\n\nZiua se încheie la Palace Theatre. Iluminatul festiv al străzilor din jur creează o atmosferă minunată în întunericul iernii.",
+            "en": "Start your winter day comfortably at Bhaktivedanta Manor. The manicured gardens look enchanted in the frost, while the interior offers a warm refuge.\n\nAt midday, immerse yourself in the magical world of Harry Potter at Warner Bros. Studios. The heated studio is the perfect place to escape the cold for several hours.\n\nIn the afternoon, park at Cassiobury Park for a brisk winter walk. The cold air is refreshing before you warm up with a hot drink at The Cha Café.\n\nConclude your day at the Palace Theatre. The festive lighting of the surrounding streets provides a wonderful atmosphere in the winter darkness."
+          },
+          "stops": [
+            {
+              "name": "Bhaktivedanta Manor",
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelle Straßenglätte bei der Zufahrt zum Anwesen.",
+                "hu": "Ügyeljen az esetleges jeges utakra az ingatlanhoz vezető úton.",
+                "ro": "Atenție la posibila polei pe drumul de acces către domeniu.",
+                "en": "Watch out for potential icy patches on the access road to the manor."
+              }
+            },
+            {
+              "name": "Warner Bros. Studio Tour London",
+              "tip_5lang": {
+                "de": "Die Garderobe ist kostenlos, so dass Sie Ihre Winterjacken bequem abgeben können.",
+                "hu": "A ruhatár ingyenes, így kényelmesen leteheti a télikabátokat.",
+                "ro": "Garderoba este gratuită, așa că puteți lăsa confortabil jachetele de iarnă.",
+                "en": "The cloakroom is free, so you can conveniently leave your winter coats."
+              }
+            },
+            {
+              "name": "Cassiobury Park",
+              "tip_5lang": {
+                "de": "Das Parken ist in den Wintermonaten oft unkomplizierter.",
+                "hu": "A parkolás a téli hónapokban gyakran egyszerűbb.",
+                "ro": "Parcarea este adesea mai puțin aglomerată în lunile de iarnă.",
+                "en": "Parking is often easier to find during the winter months."
+              }
+            },
+            {
+              "name": "The Cha Café",
+              "tip_5lang": {
+                "de": "Probieren Sie die hausgemachten Suppen zum Aufwärmen.",
+                "hu": "Kóstolja meg a házi leveseket a felmelegedéshez.",
+                "ro": "Încercați supele de casă pentru a vă încălzi.",
+                "en": "Try the homemade soups to warm up."
+              }
+            },
+            {
+              "name": "Watford Palace Theatre",
+              "tip_5lang": {
+                "de": "Buchen Sie Ihre Tickets vorab, da Wintervorstellungen oft ausgebucht sind.",
+                "hu": "Foglalja le jegyeit előre, mert a téli előadások gyakran teltházasak.",
+                "ro": "Rezervați biletele în avans, deoarece spectacolele de iarnă sunt adesea sold-out.",
+                "en": "Book your tickets in advance as winter shows are often fully booked."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Frostschutzmittel und die Batterie winterfest sind.",
+              "Lassen Sie den Motor nicht unnötig im Stand laufen, um die Scheiben zu enteisen.",
+              "Führen Sie eine warme Decke und einen Eiskratzer im Auto mit.",
+              "Achten Sie auf tiefstehende Sonne, die besonders im Winter blenden kann."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a fagyálló és az akkumulátor bírja a telet.",
+              "Ne járassa feleslegesen a motort álló helyzetben a jégtelenítéshez.",
+              "Tartson egy meleg takarót és jégkaparót az autóban.",
+              "Ügyeljen az alacsonyan járó napra, amely télen különösen vakító lehet."
+            ],
+            "ro": [
+              "Asigurați-vă că antigelul și bateria sunt pregătite pentru iarnă.",
+              "Nu lăsați motorul să meargă inutil în staționare pentru dezghețare.",
+              "Țineți în mașină o pătură caldă și o răzuitoare de gheață.",
+              "Atenție la soarele jos, care poate fi extrem de orbitor iarna."
+            ],
+            "en": [
+              "Ensure your antifreeze and battery are winter-ready.",
+              "Don't leave the engine idling unnecessarily to de-ice the windows.",
+              "Carry a warm blanket and an ice scraper in the car.",
+              "Watch out for the low sun, which can be particularly blinding in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1238,6 +1748,188 @@
           "The Warner Bros. Studio Tour shuttle bus leaves from Watford Junction, but requires separate tickets.",
           "Traffic can affect bus times, so plan in buffer time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind ideal bei Regen. Starten Sie an der Watford Junction, die hervorragende Verbindungen und ein großes Vordach bietet.\n\nMittags erreichen Sie das Atria und das Museum bequem mit dem Bus oder nach einem kurzen Sprint durch den Regen. Die Wartezeiten an den Bushaltestellen sind meist kurz.\n\nNachmittags führt der Weg zum Stadium und zu einem Restaurant in der Nähe. Die Fahrt mit den lokalen Bussen erspart Ihnen lange Wege im Freien.\n\nDer Tag endet am Cassiobury Park. Nutzen Sie die U-Bahn-Station Watford (Metropolitan Line) für einen trockenen Rückweg, da sie direkt am Parkrand liegt.",
+            "hu": "A tömegközlekedés ideális esőben. Kezdjen a Watford Junction állomáson, amely kiváló csatlakozásokat és egy nagy védőtetőt kínál.\n\nDélben az Atria és a múzeum könnyen elérhető busszal vagy egy rövid sprinttel az esőben. A várakozási idő a buszmegállókban általában rövid.\n\nDélután az út a stadionhoz és egy közeli étteremhez vezet. A helyi buszok használatával elkerülheti a hosszú gyaloglást a szabadban.\n\nA nap a Cassiobury Parkban zárul. Használja a Watford metróállomást (Metropolitan Line) a száraz visszaúthoz, mivel az közvetlenül a park szélén található.",
+            "ro": "Transportul public este ideal pe ploaie. Începeți la stația Watford Junction, care oferă conexiuni excelente și o copertină generoasă.\n\nLa prânz ajungeți la Atria și la muzeu confortabil cu autobuzul sau după un scurt sprint prin ploaie. Timpul de așteptare în stații este de obicei scurt.\n\nDupă-amiaza traseul duce la stadion și la un restaurant din apropiere. Călătoria cu autobuzele locale vă scutește de drumurile lungi în aer liber.\n\nZiua se încheie în Parcul Cassiobury. Folosiți stația de metrou Watford (Metropolitan Line) pentru un drum de întoarcere uscat, fiind situată chiar la marginea parcului.",
+            "en": "Public transport is ideal in rainy weather. Start at Watford Junction Station, which offers excellent connections and a large canopy for shelter.\n\nAt midday, reach Atria and the museum comfortably by bus or after a short dash through the rain. Waiting times at bus stops are usually minimal.\n\nIn the afternoon, the route leads to the stadium and a nearby restaurant. Riding local buses saves you from long walks in the open air.\n\nConclude your day at Cassiobury Park. Use Watford Underground Station (Metropolitan Line) for a dry journey back, as it's located right on the edge of the park."
+          },
+          "stops": [
+            {
+              "name": "Watford Junction Station",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem großen Vordach am Haupteingang auf Ihren Anschluss.",
+                "hu": "Várjon a csatlakozásra a főbejáratnál található nagy védőtető alatt.",
+                "ro": "Așteptați conexiunea sub copertina mare de la intrarea principală.",
+                "en": "Wait for your connection under the large canopy at the main entrance."
+              }
+            },
+            {
+              "name": "Atria Watford",
+              "tip_5lang": {
+                "de": "Zahlreiche Buslinien halten direkt vor den Eingängen des Einkaufszentrums.",
+                "hu": "Számos buszjárat megáll közvetlenül a bevásárlóközpont bejáratai előtt.",
+                "ro": "Numeroase linii de autobuz opresc chiar în fața intrărilor în mall.",
+                "en": "Numerous bus lines stop directly in front of the mall entrances."
+              }
+            },
+            {
+              "name": "Watford Museum",
+              "tip_5lang": {
+                "de": "Die nächste Bushaltestelle ist nur zwei Gehminuten entfernt.",
+                "hu": "A legközelebbi buszmegálló mindössze két perc sétára van.",
+                "ro": "Cea mai apropiată stație de autobuz este la doar două minute de mers pe jos.",
+                "en": "The nearest bus stop is just a two-minute walk away."
+              }
+            },
+            {
+              "name": "Vicarage Road Stadium",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehäuschen an den Haltestellen, um trocken zu bleiben.",
+                "hu": "Használja a buszmegállók váróit, hogy száraz maradjon.",
+                "ro": "Folosiți adăposturile din stații pentru a rămâne uscat.",
+                "en": "Use the shelters at the bus stops to stay dry."
+              }
+            },
+            {
+              "name": "Lunch near the stadium",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit viel Platz für nasse Mäntel und Schirme.",
+                "hu": "Válasszon olyan éttermet, ahol van elég hely a vizes kabátoknak és ernyőknek.",
+                "ro": "Alegeți un restaurant cu suficient spațiu pentru haine ude și umbrele.",
+                "en": "Choose a restaurant with plenty of space for wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Cassiobury Park",
+              "tip_5lang": {
+                "de": "Die Metropolitan Line Station bietet einen komplett überdachten Bahnsteig.",
+                "hu": "A Metropolitan metróállomás teljesen fedett peronnal rendelkezik.",
+                "ro": "Stația de metrou Metropolitan are peronul complet acoperit.",
+                "en": "The Metropolitan Line station features a fully covered platform."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie eine ÖPNV-App, um Wartezeiten im Regen zu minimieren.",
+              "Die Metropolitan Line ist oft weniger anfällig für wetterbedingte Verspätungen als Busse.",
+              "Halten Sie Ihre Fahrkarte griffbereit, um nicht im Regen danach suchen zu müssen.",
+              "Die Busse in Watford sind gut geheizt und bieten eine trockene Fahrt durch die Stadt."
+            ],
+            "hu": [
+              "Használjon tömegközlekedési alkalmazást, hogy minimálisra csökkentse az esőben való várakozást.",
+              "A Metropolitan metróvonal gyakran kevésbé érzékeny az időjárási késésekre, mint a buszok.",
+              "Tartsa készenlétben a jegyét, hogy ne az esőben kelljen keresgélnie.",
+              "A watfordi buszok jól fűtöttek, és száraz utazást biztosítanak a városon keresztül."
+            ],
+            "ro": [
+              "Folosiți o aplicație de transport public pentru a minimiza așteptarea în ploaie.",
+              "Linia Metropolitan este adesea mai puțin afectată de întârzieri din cauza vremii decât autobuzele.",
+              "Țineți biletul la îndemână pentru a nu fi nevoit să îl căutați în ploaie.",
+              "Autobuzele din Watford sunt bine încălzite și oferă o călătorie uscată prin oraș."
+            ],
+            "en": [
+              "Use a transit app to minimize waiting times in the rain.",
+              "The Metropolitan Line is often less prone to weather-related delays than buses.",
+              "Keep your ticket ready so you don't have to search for it in the rain.",
+              "Watford's buses are well-heated and provide a dry journey through the city."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen beginnt an der Watford Junction. Die warmen Züge und Busse machen den Start in den Tag auch bei Minusgraden angenehm.\n\nMittags erreichen Sie das Atria Watford. Der kurze Weg von der Haltestelle ins Einkaufszentrum ist ideal, um schnell wieder ins Warme zu gelangen.\n\nNachmittags geht es weiter zum Museum und zum Stadium. Die regelmäßigen Busverbindungen sorgen dafür, dass Sie nie lange in der Kälte stehen müssen.\n\nDer Tag endet im Cassiobury Park. Nach einem Spaziergang in der frischen Winterluft bringt Sie die Metropolitan Line direkt zurück ins Stadtzentrum oder nach London.",
+            "hu": "Téli reggel kezdődik a Watford Junctionnél. A meleg vonatok és buszok még mínuszok esetén is kellemessé teszik a napindítást.\n\nDélben érkezik az Atria Watfordba. A buszmegállótól a bevásárlóközpontig tartó rövid út ideális, hogy gyorsan újra melegbe kerüljön.\n\nDélután folytassa útját a múzeumhoz és a stadionhoz. A rendszeres buszjáratok biztosítják, hogy soha ne kelljen sokáig a hidegben állnia.\n\nA nap a Cassiobury Parkban zárul. A friss téli levegőn tett séta után a Metropolitan metróvonal közvetlenül visszaviszi a városközpontba vagy Londonba.",
+            "ro": "O dimineață de iarnă începe la Watford Junction. Trenurile și autobuzele încălzite fac începutul zilei plăcut, chiar și pe temperaturi negative.\n\nLa prânz ajungeți la Atria Watford. Drumul scurt de la stație până în mall este ideal pentru a reveni rapid la căldură.\n\nDupă-amiaza continuați spre muzeu și stadion. Conexiunile regulate de autobuz se asigură că nu veți sta niciodată mult timp în frig.\n\nZiua se încheie în Parcul Cassiobury. După o plimbare în aerul proaspăt de iarnă, linia Metropolitan vă duce direct înapoi în centrul orașului sau spre Londra.",
+            "en": "A winter morning starts at Watford Junction. Warm trains and buses make for a pleasant beginning to the day, even in freezing temperatures.\n\nAt midday, arrive at Atria Watford. The short walk from the bus stop into the shopping center is ideal for getting back into the warmth quickly.\n\nIn the afternoon, continue to the museum and the stadium. Frequent bus services ensure you never have to stand in the cold for long.\n\nConclude your day at Cassiobury Park. After a walk in the crisp winter air, the Metropolitan Line will take you directly back to the town center or London."
+          },
+          "stops": [
+            {
+              "name": "Watford Junction Station",
+              "tip_5lang": {
+                "de": "Warten Sie im beheizten Wartebereich des Bahnhofs auf Ihren Zug.",
+                "hu": "Várjon a vonatára az állomás fűtött várótermében.",
+                "ro": "Așteptați trenul în zona de așteptare încălzită a gării.",
+                "en": "Wait for your train in the station's heated waiting area."
+              }
+            },
+            {
+              "name": "Atria Watford",
+              "tip_5lang": {
+                "de": "Das Einkaufszentrum ist ein perfekter Ort zum Aufwärmen zwischen den Fahrten.",
+                "hu": "A bevásárlóközpont tökéletes hely a felmelegedéshez az utazások között.",
+                "ro": "Mall-ul este locul perfect pentru a vă încălzi între călătorii.",
+                "en": "The shopping center is a perfect spot to warm up between transit rides."
+              }
+            },
+            {
+              "name": "Watford Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die 15 Minuten Fußweg von der High Street zu vermeiden.",
+                "hu": "Használja a buszt, hogy elkerülje a High Streettől tartó 15 perces gyalogutat.",
+                "ro": "Folosiți autobuzul pentru a evita mersul pe jos de 15 minute de pe High Street.",
+                "en": "Take the bus to avoid the 15-minute walk from the High Street."
+              }
+            },
+            {
+              "name": "Vicarage Road Stadium",
+              "tip_5lang": {
+                "de": "Die Busse der Linie 10 halten sehr nah am Stadiongelände.",
+                "hu": "A 10-es buszjárat megállói nagyon közel vannak a stadionhoz.",
+                "ro": "Autobuzele liniei 10 opresc foarte aproape de stadion.",
+                "en": "Route 10 buses stop very close to the stadium grounds."
+              }
+            },
+            {
+              "name": "Lunch near the stadium",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Platz fernab der Eingangstür, um Zugluft zu vermeiden.",
+                "hu": "Kérjen asztalt távol a bejárattól, hogy elkerülje a huzatot.",
+                "ro": "Cereți o masă departe de intrare pentru a evita curentul.",
+                "en": "Ask for a table away from the entrance to avoid cold drafts."
+              }
+            },
+            {
+              "name": "Cassiobury Park",
+              "tip_5lang": {
+                "de": "Die Metropolitan Line Station ist im Winter oft weniger windig als Bushaltestellen.",
+                "hu": "A Metropolitan metróállomás télen gyakran kevésbé szeles, mint a buszmegállók.",
+                "ro": "Stația de metrou Metropolitan este adesea mai puțin expusă vântului decât stațiile de autobuz.",
+                "en": "The Metropolitan Line station is often less windy than open bus stops in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie vorab, ob es aufgrund von Frost zu Verzögerungen im Schienenverkehr kommt.",
+              "Die Busse sind im Winter meist sehr angenehm temperiert.",
+              "Tragen Sie warme Socken, da das Warten auf dem Bahnsteig kalte Füße verursachen kann.",
+              "Nutzen Sie kontaktloses Bezahlen, um das Hantieren mit Kleingeld in der Kälte zu vermeiden."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze, hogy a fagy miatt nincsenek-e késések a vasúti közlekedésben.",
+              "A buszok télen általában nagyon kellemes hőmérsékletűek.",
+              "Viseljen meleg zoknit, mert a peronon való várakozás közben könnyen lehűlhet a lába.",
+              "Használjon érintésmentes fizetést, hogy elkerülje az aprópénzzel való bajlódást a hidegben."
+            ],
+            "ro": [
+              "Verificați înainte de plecare dacă există întârzieri la trenuri din cauza înghețului.",
+              "Autobuzele au de obicei o temperatură foarte plăcută în timpul iernii.",
+              "Purtați șosete groase, deoarece așteptarea pe peron vă poate răci picioarele.",
+              "Folosiți plata contactless pentru a evita manipularea banilor în frig."
+            ],
+            "en": [
+              "Check for frost-related rail delays before you start your journey.",
+              "Buses are usually very well-heated and comfortable in winter.",
+              "Wear warm socks as waiting on platforms can lead to cold feet.",
+              "Use contactless payment to avoid fumbling with coins in the cold."
+            ]
+          }
+        }
       }
     }
   }

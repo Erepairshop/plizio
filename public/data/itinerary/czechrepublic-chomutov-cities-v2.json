@@ -379,6 +379,206 @@
           "The Alum Lake is a popular swimming spot in the summer.",
           "Most city center attractions are within easy walking distance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag am Marktplatz bietet Schutz unter den Arkaden des Rathauses, während der Stadtturm trotz Regen eine mystische Aussicht ermöglicht. Mittags wärmen wir uns im Jesuitenkolleg auf und tauchen tief in die Stadtgeschichte ein. Nachmittags führt der Spaziergang zum Alaunsee, dessen Nebel eine besondere Atmosphäre schafft. Den Tag beenden wir in den beheizten Pavillons des Zooparks.",
+            "hu": "A reggelt a városháza árkádjai alatt kezdjük, védve az esőtől, majd a Várostoronyból csodáljuk meg a ködös panorámát. Délben a Jezsuita Kollégium múzeuma nyújt tökéletes menedéket a tárlataival. Délután egy esernyős séta vár ránk a Kamencové-tó partján, végül a Vadaspark fedett állatházaiban és pavilonjaiban zárjuk a napot, ahol az eső sem zavarja az élményt.",
+            "ro": "Dimineața în piața centrală oferă adăpost sub arcadele primăriei, în timp ce Turnul Orașului permite o vedere mistică în ciuda ploii. La prânz ne încălzim în Colegiul Iezuit, explorând istoria locală la adăpost. După-amiaza, o plimbare cu umbrela pe malul lacului de alaun creează o atmosferă aparte. Încheiem ziua în pavilioanele acoperite ale grădinii zoologice.",
+            "en": "The morning at the main square offers shelter under the town hall arcades, while the City Tower provides a mystical view despite the rain. At noon, we warm up in the Jesuit College, diving deep into local history. In the afternoon, an umbrella walk by Alum Lake creates a unique atmosphere. We end the day in the heated pavilions of the Zoopark, where the rain won't spoil the fun."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Holy Trinity Column",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Rathauses als trockenen Unterschlupf für Fotos.",
+                "hu": "Használja a városháza árkádjait száraz menedékként a fotózáshoz.",
+                "ro": "Folosiți arcadele primăriei ca adăpost uscat pentru fotografii.",
+                "en": "Use the town hall arcades as a dry shelter for taking photos."
+              }
+            },
+            {
+              "name": "City Tower",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Treppen, die Stufen können bei Feuchtigkeit rutschig sein.",
+                "hu": "Vigyázzon a lépcsőkön, a fokok nedves időben csúszósak lehetnek.",
+                "ro": "Atenție pe scări, treptele pot fi alunecoase când este umezeală.",
+                "en": "Be careful on the stairs; the steps can be slippery when damp."
+              }
+            },
+            {
+              "name": "St. Catherine's Church",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine ruhige, trockene Pause während eines Regenschauers.",
+                "hu": "Ideális hely egy csendes, száraz pihenőhöz egy zápor idején.",
+                "ro": "Un loc ideal pentru o pauză liniștită și uscată în timpul unei ploi.",
+                "en": "An ideal place for a quiet, dry break during a rain shower."
+              }
+            },
+            {
+              "name": "Jesuit College Regional Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, um den stärksten Regen im Trockenen zu verbringen.",
+                "hu": "Tervezzen ide több időt, hogy a leghevesebb esőt szárazon vészelje át.",
+                "ro": "Planificați mai mult timp aici pentru a petrece ploaia cea mai puternică la adăpost.",
+                "en": "Plan more time here to spend the heaviest rain in the dry indoors."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe, um nasse Regenmäntel zu trocknen.",
+                "hu": "Válasszon ruhatárral rendelkező éttermet a nedves esőkabátok szárításához.",
+                "ro": "Alegeți un restaurant cu garderobă pentru a usca pelerinele de ploaie.",
+                "en": "Choose a restaurant with a cloakroom to dry wet raincoats."
+              }
+            },
+            {
+              "name": "Kamencové jezero (Alum Lake)",
+              "tip_5lang": {
+                "de": "Die asphaltierte Uferpromenade ist auch bei Regen gut begehbar.",
+                "hu": "Az aszfaltozott tóparti sétány esőben is jól járható marad.",
+                "ro": "Promenada asfaltată de pe malul lacului este ușor de parcurs și pe ploaie.",
+                "en": "The paved lakeside promenade remains easily walkable even in the rain."
+              }
+            },
+            {
+              "name": "Zoopark Chomutov",
+              "tip_5lang": {
+                "de": "Besuchen Sie die großen Innenpavillons und nutzen Sie den überdachten Safari-Express.",
+                "hu": "Látogassa meg a nagy belső pavilonokat és használja a fedett Safari-expreszt.",
+                "ro": "Vizitați marile pavilioane interioare și folosiți Safari Express-ul acoperit.",
+                "en": "Visit the large indoor pavilions and use the covered Safari Express."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Innenstadt von Chomutov hat viele Arkadengänge, die vor Regen schützen.",
+              "Im Regionalmuseum gibt es Schließfächer für nasse Regenschirme.",
+              "Der Zoopark bietet viele überdachte Stationen für Tierbeobachtungen.",
+              "Tragen Sie wasserfeste Schuhe, da sich am See Pfützen bilden können."
+            ],
+            "hu": [
+              "Chomutov belvárosa sok árkádos folyosóval rendelkezik, amelyek védenek az esőtől.",
+              "A regionális múzeumban találhatók zárható szekrények a nedves esernyőknek.",
+              "A Vadaspark számos fedett állomást kínál az állatok megfigyeléséhez.",
+              "Viseljen vízálló cipőt, mert a tónál tócsák alakulhatnak ki."
+            ],
+            "ro": [
+              "Centrul orașului Chomutov are multe pasaje cu arcade care protejează de ploaie.",
+              "Muzeul regional are vestiare pentru umbrelele umede.",
+              "Grădina zoologică oferă multe stații acoperite pentru observarea animalelor.",
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți la lac."
+            ],
+            "en": [
+              "Chomutov's city center has many arcaded walkways that protect from the rain.",
+              "The regional museum has lockers available for wet umbrellas.",
+              "The Zoopark offers many covered stations for animal observation.",
+              "Wear waterproof shoes as puddles may form near the lake."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen beginnt am festlich beleuchteten Marktplatz, gefolgt von einem weiten Blick über die verschneite Stadt vom Turm aus. Mittags bietet die St.-Katharinen-Kirche einen Ort der Stille, bevor wir uns im Museum aufwärmen. Nachmittags spazieren wir am zugefrorenen Alaunsee entlang und beobachten die winteraktiven Tiere im Zoopark, bevor die Dämmerung gegen 16:30 Uhr einsetzt.",
+            "hu": "A fagyos reggel a díszesen kivilágított főtéren kezdődik, majd a toronyból tekintünk le a havas városra. Délben a Szent Katalin-templom nyújt csendes pihenőt, mielőtt a múzeumban melegednénk fel. Délután a befagyott Kamencové-tó partján sétálunk, és megfigyeljük a Vadaspark télen is aktív lakóit, mielőtt 16:30 körül leszállna az alkony.",
+            "ro": "Dimineața geroasă începe în piața centrală iluminată festiv, urmată de o privire asupra orașului înzăpezit din turn. La prânz, Biserica Sf. Ecaterina oferă un moment de liniște înainte de a ne încălzi în muzeu. După-amiaza, ne plimbăm pe lângă lacul de alaun înghețat și observăm animalele active iarna la zoo, înainte de apusul de la ora 16:30.",
+            "en": "The frosty morning starts at the festively lit main square, followed by a view over the snowy city from the tower. At noon, St. Catherine's Church offers a quiet retreat before we warm up in the museum. In the afternoon, we stroll along the frozen Alum Lake and observe the winter-active animals at the zoo before dusk sets in around 16:30."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Holy Trinity Column",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Kopfsteinpflaster des Marktplatzes.",
+                "hu": "Ügyeljen a jegesedésre a főtér macskaköves burkolatán.",
+                "ro": "Atenție la polei pe pavajul de piatră cubică din piață.",
+                "en": "Watch out for black ice on the cobblestone pavement of the square."
+              }
+            },
+            {
+              "name": "City Tower",
+              "tip_5lang": {
+                "de": "Oben kann es sehr windig und kalt sein; ziehen Sie sich warm an.",
+                "hu": "Fent nagyon szeles és hideg lehet; öltözzön fel melegen.",
+                "ro": "Sus poate fi foarte vântos și frig; îmbrăcați-vă bine.",
+                "en": "It can be very windy and cold at the top; dress warmly."
+              }
+            },
+            {
+              "name": "St. Catherine's Church",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten, da diese oft verkürzt sind.",
+                "hu": "Ellenőrizze a téli nyitvatartást, mivel az gyakran rövidebb.",
+                "ro": "Verificați programul de iarnă, deoarece este adesea scurtat.",
+                "en": "Check winter opening hours, as they are often shortened."
+              }
+            },
+            {
+              "name": "Jesuit College Regional Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Hauptwärmepunkt des Tages.",
+                "hu": "Használja ki a múzeumlátogatást a nap fő melegedőpontjaként.",
+                "ro": "Folosiți vizita la muzeu ca principal punct de încălzire al zilei.",
+                "en": "Use the museum visit as the main warming point of the day."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Probieren Sie eine traditionelle tschechische Knoblauchsuppe zum Aufwärmen.",
+                "hu": "Kóstoljon meg egy hagyományos cseh fokhagymalevest a felmelegedéshez.",
+                "ro": "Încercați o supă tradițională cehă de usturoi pentru a vă încălzi.",
+                "en": "Try a traditional Czech garlic soup to warm up."
+              }
+            },
+            {
+              "name": "Kamencové jezero (Alum Lake)",
+              "tip_5lang": {
+                "de": "Betreten Sie die Eisfläche nur, wenn sie offiziell freigegeben ist.",
+                "hu": "Csak akkor lépjen a jégre, ha azt hivatalosan engedélyezték.",
+                "ro": "Intrați pe suprafața înghețată doar dacă este permis oficial.",
+                "en": "Only step onto the ice if it has been officially cleared for safety."
+              }
+            },
+            {
+              "name": "Zoopark Chomutov",
+              "tip_5lang": {
+                "de": "Wölfe und Robben sind im Winter besonders aktiv und sehenswert.",
+                "hu": "A farkasok és fókák télen különösen aktívak és látványosak.",
+                "ro": "Lupii și focile sunt deosebit de activi și merită văzuți iarna.",
+                "en": "Wolves and seals are particularly active and worth seeing in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:15 Uhr unter.",
+              "Warme Getränke wie Glühwein oder Tee sind am Marktplatz erhältlich.",
+              "Die Wege im Zoopark werden geräumt, können aber stellenweise glatt sein.",
+              "Zwiebelprinzip bei der Kleidung ist für den Wechsel zwischen Drinnen und Draußen ideal."
+            ],
+            "hu": [
+              "A nap decemberben már 16:15 körül lemegy.",
+              "A főtéren forró italok, például forralt bor vagy tea kaphatók.",
+              "A Vadaspark útjait takarítják, de helyenként csúszósak maradhatnak.",
+              "A réteges öltözködés ideális a kinti és benti helyszínek váltakozásához."
+            ],
+            "ro": [
+              "Soarele apune în decembrie deja în jurul orei 16:15.",
+              "Băuturi calde precum vinul fiert sau ceaiul sunt disponibile în piață.",
+              "Căile din grădina zoologică sunt curățate, dar pot fi alunecoase pe alocuri.",
+              "Îmbrăcămintea în straturi este ideală pentru alternanța între interior și exterior."
+            ],
+            "en": [
+              "The sun sets as early as 16:15 in December.",
+              "Hot drinks like mulled wine or tea are available at the main square.",
+              "The paths in the Zoopark are cleared but can remain slippery in places.",
+              "Layered clothing is ideal for switching between indoor and outdoor stops."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +952,206 @@
           "The paths are generally good, but be prepared for some hills.",
           "Always lock your bike securely in popular spots like the zoo and city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir im Bezruč-Tal, wo die Bäume natürlichen Schutz bieten. Die Fahrt zum Zoopark erfordert gute Schutzbleche gegen den Matsch. Mittags kehren wir am See ein und trocknen unsere Ausrüstung, bevor wir das Museum besuchen. Den Tag schließen wir mit einer kurzen Stadtrunde ab, wobei wir die asphaltierten Wege im Zentrum bevorzugen.",
+            "hu": "Az eső ellenére a Bezruč-völgyben kezdünk, ahol a fák természetes védelmet nyújtanak. A Vadaspark felé vezető úton jó sárvédőkre lesz szükség a sár ellen. Ebédnél a tónál pihenünk és szárítjuk a felszerelést, mielőtt a múzeumba mennénk. A napot egy rövid városi körrel zárjuk, előnyben részesítve a központi aszfaltozott utakat.",
+            "ro": "În ciuda ploii, începem în Valea Bezruč, unde copacii oferă protecție naturală. Drumul spre grădina zoologică necesită apărători bune împotriva noroiului. La prânz ne oprim la lac și ne uscăm echipamentul înainte de a vizita muzeul. Încheiem ziua cu un scurt tur al orașului, preferând drumurile asfaltate din centru.",
+            "en": "Despite the rain, we start in Bezruč Valley where trees provide natural cover. The ride to the Zoopark requires good fenders against the mud. At lunch by the lake, we dry our gear before heading to the museum. We end the day with a short city loop, preferring the paved roads in the center."
+          },
+          "stops": [
+            {
+              "name": "Bezruč Valley (starting point)",
+              "tip_5lang": {
+                "de": "Vorsicht bei Kurven auf nassen Blättern oder Waldwegen.",
+                "hu": "Vigyázzon a kanyarokban a nedves leveleken vagy erdei utakon.",
+                "ro": "Atenție la curbe pe frunzele umede sau pe drumurile de pădure.",
+                "en": "Be careful in turns on wet leaves or forest paths."
+              }
+            },
+            {
+              "name": "Zoopark Chomutov",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter den Vordächern am Eingang sicher ab.",
+                "hu": "Támassza le kerékpárját biztonságosan a bejáratnál lévő előtetők alatt.",
+                "ro": "Parcați bicicleta în siguranță sub copertinele de la intrare.",
+                "en": "Park your bike safely under the overhangs at the entrance."
+              }
+            },
+            {
+              "name": "Kamencové jezero (Alum Lake)",
+              "tip_5lang": {
+                "de": "Halten Sie den Stopp kurz, die Holzstege sind bei Nässe extrem glatt.",
+                "hu": "Tartsa rövidre a megállót, a fapadlók esőben rendkívül csúszósak.",
+                "ro": "Țineți oprirea scurtă, podețele de lemn sunt extrem de alunecoase pe ploaie.",
+                "en": "Keep the stop brief; the wooden piers are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Lunch near the lake",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit Sichtkontakt zu Ihrem Fahrradstellplatz.",
+                "hu": "Keressen olyan helyet, ahonnan rálát a kerékpárparkolóra.",
+                "ro": "Căutați un local de unde puteți vedea locul unde ați lăsat bicicleta.",
+                "en": "Look for a place with a visual line to your bike parking spot."
+              }
+            },
+            {
+              "name": "Jesuit College Regional Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Trockenen für eine gründliche Pause.",
+                "hu": "Használja ki a szárazon töltött időt egy alapos pihenőre.",
+                "ro": "Folosiți timpul la adăpost pentru o pauză binemeritată.",
+                "en": "Use the time in the dry indoors for a thorough break."
+              }
+            },
+            {
+              "name": "Town Hall & City Tower",
+              "tip_5lang": {
+                "de": "Im Stadtzentrum auf rutschigen Schachtdeckeln und Markierungen achten.",
+                "hu": "A belvárosban ügyeljen a csúszós csatornafedelekre és felfestésekre.",
+                "ro": "În centrul orașului, atenție la capacele de canal și marcajele alunecoase.",
+                "en": "In the city center, watch out for slippery manhole covers and markings."
+              }
+            },
+            {
+              "name": "St. Catherine's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirchenbesichtigung, um die Regenkleidung auszuschütteln.",
+                "hu": "Használja ki a templomlátogatást az esőruházat lerázására.",
+                "ro": "Folosiți vizita la biserică pentru a vă scutura pelerina de ploaie.",
+                "en": "Use the church visit to shake off your rain gear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Regen in der waldigen Umgebung Pflicht.",
+              "Verringern Sie den Reifendruck leicht für besseren Grip auf nassen Wegen.",
+              "In den Außenbereichen des Zooparks gibt es überdachte Fahrradständer.",
+              "Vermeiden Sie scharfes Bremsen auf dem Kopfsteinpflaster im Zentrum."
+            ],
+            "hu": [
+              "Az erdős környezetben esőben kötelező a sárvédő használata.",
+              "Csökkentse kissé a guminyomást a jobb tapadás érdekében a nedves utakon.",
+              "A Vadaspark külső területein fedett kerékpártárolók találhatók.",
+              "Kerülje az erős fékezést a belvárosi macskaköveken."
+            ],
+            "ro": [
+              "Apărătorile sunt obligatorii în zona împădurită pe timp de ploaie.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe drumuri umede.",
+              "În zonele exterioare ale grădinii zoologice există rastele de biciclete acoperite.",
+              "Evitați frânarea bruscă pe pavajul de piatră din centru."
+            ],
+            "en": [
+              "Fenders are mandatory in the wooded surroundings during rain.",
+              "Slightly lower your tire pressure for better grip on wet paths.",
+              "There are covered bike racks in the outer areas of the Zoopark.",
+              "Avoid hard braking on the cobblestones in the city center."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour startet im frostigen Bezruč-Tal auf festgefahrenem Schnee. Die kühle Luft im Zoopark belebt, bevor wir am zugefrorenen See kurz innehalten. Mittags wärmen wir uns bei einer heißen Mahlzeit auf. Den Nachmittag verbringen wir im beheizten Museum und beenden die Tour im Zentrum, wenn die Straßenlaternen die historische Altstadt in warmes Licht tauchen.",
+            "hu": "A téli túra a fagyos Bezruč-völgyben indul a letaposott havon. A Vadaspark hűvös levegője felfrissít, mielőtt megállnánk a befagyott tónál. Ebédnél egy forró étellel melegszünk fel. A délutánt a fűtött múzeumban töltjük, majd a központban fejezzük be a túrát, amikor az utcai lámpák meleg fénybe vonják az óvárost.",
+            "ro": "Turul de iarnă începe în Valea Bezruč pe zăpadă bătătorită. Aerul rece de la grădina zoologică ne revigorează înainte de o scurtă oprire la lacul înghețat. La prânz ne încălzim cu o masă fierbinte. Petrecem după-amiaza în muzeul încălzit și încheiem turul în centru, când felinarele luminează orașul vechi.",
+            "en": "The winter tour starts in the frosty Bezruč Valley on packed snow. The cool air at the Zoopark is invigorating before a brief stop at the frozen lake. At lunch, we warm up with a hot meal. We spend the afternoon in the heated museum and end the tour in the center as the streetlights cast a warm glow on the old town."
+          },
+          "stops": [
+            {
+              "name": "Bezruč Valley (starting point)",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen unter der Schneedecke.",
+                "hu": "Ügyeljen a hóréteg alatti jeges foltokra.",
+                "ro": "Atenție la porțiunile înghețate de sub stratul de zăpadă.",
+                "en": "Watch out for icy patches hidden under the snow cover."
+              }
+            },
+            {
+              "name": "Zoopark Chomutov",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig, die Wege im Park werden nur eingeschränkt geräumt.",
+                "hu": "Vezessen óvatosan, a park útjait csak korlátozottan takarítják.",
+                "ro": "Conduceți cu atenție, căile din parc sunt curățate doar parțial.",
+                "en": "Ride carefully; paths in the park are only partially cleared of snow."
+              }
+            },
+            {
+              "name": "Kamencové jezero (Alum Lake)",
+              "tip_5lang": {
+                "de": "Der Wind am See kann die gefühlte Temperatur deutlich senken.",
+                "hu": "A tónál fújó szél jelentősen csökkentheti a hőérzetet.",
+                "ro": "Vântul de la lac poate scădea considerabil temperatura resimțită.",
+                "en": "The wind by the lake can significantly lower the perceived temperature."
+              }
+            },
+            {
+              "name": "Lunch near the lake",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Platz in der Nähe eines Heizkörpers.",
+                "hu": "Kérjen helyet egy fűtőtest közelében.",
+                "ro": "Cereți un loc lângă un calorifer.",
+                "en": "Ask for a seat near a radiator or heater."
+              }
+            },
+            {
+              "name": "Jesuit College Regional Museum",
+              "tip_5lang": {
+                "de": "Hier können Sie die Akkus Ihrer E-Bikes bei Bedarf zwischenladen.",
+                "hu": "Itt szükség esetén köztes töltést adhat az e-bike akkumulátorának.",
+                "ro": "Aici puteți încărca acumulatorul bicicletei electrice dacă este necesar.",
+                "en": "You can top up your e-bike battery here if needed."
+              }
+            },
+            {
+              "name": "Town Hall & City Tower",
+              "tip_5lang": {
+                "de": "Beleuchtung genießen, aber auf Rollsplitt in den Kurven achten.",
+                "hu": "Élvezze a fényeket, de ügyeljen a kanyarokban a szórt murvára.",
+                "ro": "Bucurați-vă de lumini, dar atenție la criblura din curbe.",
+                "en": "Enjoy the lights, but watch out for road salt and grit in corners."
+              }
+            },
+            {
+              "name": "St. Catherine's Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht, die Kirche ist im Winter sehr kalt.",
+                "hu": "Egy rövid megálló elég, a templom télen nagyon hideg.",
+                "ro": "O oprire scurtă este suficientă, biserica este foarte rece iarna.",
+                "en": "A brief stop is enough; the church is very cold in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrradakkus entladen sich bei Kälte deutlich schneller.",
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Die Wege im Bezruč-Tal können bei Neuschnee schwer passierbar sein.",
+              "Nutzen Sie helle Lichter, da es bereits ab 16:00 Uhr dämmert."
+            ],
+            "hu": [
+              "A kerékpár akkumulátorok hidegben jelentősen gyorsabban merülnek.",
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "A Bezruč-völgy útjai friss hóban nehezen járhatók lehetnek.",
+              "Használjon erős lámpákat, mert már 16:00 órától szürkül."
+            ],
+            "ro": [
+              "Acumulatorii de bicicletă se descarcă mult mai repede la frig.",
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Căile din Valea Bezruč pot fi greu practicabile în zăpadă proaspătă.",
+              "Folosiți lumini puternice, deoarece se înserează deja de la ora 16:00."
+            ],
+            "en": [
+              "Bike batteries drain significantly faster in cold weather.",
+              "Wear windproof gloves and a thin cap under your helmet.",
+              "Paths in Bezruč Valley can be difficult to navigate in fresh snow.",
+              "Use bright lights as it starts to get dark from 16:00 onwards."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1156,6 +1556,224 @@
           "Check parking options at each main attraction in advance.",
           "A GPS is highly recommended for navigating between the different clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour beginnt entspannt mit Parken direkt am Marktplatz. Den Vormittag verbringen wir in den Museen und Kirchen des Zentrums, während es draußen regnet. Mittags fahren wir zum Zoopark, wo wir den Safari-Express nutzen. Nachmittags genießen wir die Aussicht auf das Bezruč-Tal gemütlich aus dem trockenen Fahrzeug heraus, bevor wir zum Abendessen ins Zentrum zurückkehren.",
+            "hu": "Az autós túra kényelmesen indul közvetlenül a főtéren való parkolással. A délelőttöt a központ múzeumaiban és templomaiban töltjük, miközben kint esik. Délben a Vadasparkba hajtunk, ahol a Safari-expreszszel vágunk neki az útnak. Délután a száraz autóból csodáljuk a Bezruč-völgy panorámáját, majd vacsorára visszatérünk a városközpontba.",
+            "ro": "Turul auto începe relaxat cu parcarea direct în piața centrală. Petrecem dimineața în muzeele și bisericile din centru în timp ce afară plouă. La prânz conducem spre zoo, unde folosim Safari Express-ul. După-amiaza admirăm Valea Bezruč confortabil din vehiculul uscat, înainte de a reveni în centru pentru cină.",
+            "en": "The car tour starts relaxed with parking right at the main square. We spend the morning in the museums and churches of the center while it rains outside. At noon, we drive to the zoo and use the Safari Express. In the afternoon, we enjoy the views of Bezruč Valley from the dry vehicle before returning to the center for dinner."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking & Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkplätze in der Nähe der Arkaden, um trocken zu bleiben.",
+                "hu": "Használja az árkádokhoz közeli parkolóhelyeket, hogy száraz maradjon.",
+                "ro": "Folosiți locurile de parcare de lângă arcade pentru a rămâne uscat.",
+                "en": "Use parking spots near the arcades to stay dry."
+              }
+            },
+            {
+              "name": "City Tower & Holy Trinity Column",
+              "tip_5lang": {
+                "de": "Lassen Sie die Schirme im Auto, wenn Sie den Turm besteigen.",
+                "hu": "Hagyja az esernyőket az autóban, amikor felmegy a toronyba.",
+                "ro": "Lăsați umbrelele în mașină când urcați în turn.",
+                "en": "Leave your umbrellas in the car when climbing the tower."
+              }
+            },
+            {
+              "name": "St. Catherine's Church & Jesuit College",
+              "tip_5lang": {
+                "de": "Die Gebäude liegen nah beieinander, ideal bei kurzen Regenschauern.",
+                "hu": "Az épületek közel vannak egymáshoz, ideális rövid záporok idején.",
+                "ro": "Clădirile sunt aproape una de alta, ideal în timpul averselor scurte.",
+                "en": "The buildings are close together, ideal during short rain showers."
+              }
+            },
+            {
+              "name": "Zoopark Chomutov",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Haupteingang für kurze Wege.",
+                "hu": "Használja a főbejárat melletti parkolót a rövid séta érdekében.",
+                "ro": "Folosiți parcarea de la intrarea principală pentru distanțe scurte.",
+                "en": "Use the parking lot right at the main entrance for short walking distances."
+              }
+            },
+            {
+              "name": "Kamencové jezero (Alum Lake)",
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus hat man einen guten Blick auf den See im Regen.",
+                "hu": "A parkolóból is jó kilátás nyílik az esőben lévő tóra.",
+                "ro": "Din parcare aveți o vedere bună asupra lacului în ploaie.",
+                "en": "You can get a good view of the lake in the rain from the parking area."
+              }
+            },
+            {
+              "name": "Bezruč Valley",
+              "tip_5lang": {
+                "de": "Die Straße durch das Tal ist asphaltiert und sicher zu befahren.",
+                "hu": "A völgyön átvezető út aszfaltozott és biztonságosan járható.",
+                "ro": "Drumul prin vale este asfaltat și sigur pentru condus.",
+                "en": "The road through the valley is paved and safe for driving."
+              }
+            },
+            {
+              "name": "Viewpoint in the valley",
+              "tip_5lang": {
+                "de": "Bei starkem Regen kann man die Aussicht auch aus dem Auto genießen.",
+                "hu": "Heves esőben az autóból is élvezheti a kilátást.",
+                "ro": "În caz de ploaie puternică, puteți admira vederea din mașină.",
+                "en": "In case of heavy rain, you can enjoy the view from inside the car."
+              }
+            },
+            {
+              "name": "Return to city center",
+              "tip_5lang": {
+                "de": "Parken Sie abends in der Nähe des gewählten Restaurants.",
+                "hu": "Este parkoljon a választott étterem közelében.",
+                "ro": "Parcați seara în apropierea restaurantului ales.",
+                "en": "In the evening, park close to your chosen restaurant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Das Parken im Zentrum ist bei Regen oft begehrter, kommen Sie früh.",
+              "Achten Sie auf tiefere Pfützen am Straßenrand beim Ein- und Aussteigen.",
+              "Im Zoopark gibt es einen speziellen Parkplatz für den Safari-Express.",
+              "Die Sicht im Bezruč-Tal kann bei starkem Regen eingeschränkt sein."
+            ],
+            "hu": [
+              "A központi parkolás esőben keresettebb, érkezzen korán.",
+              "Ügyeljen a mélyebb tócsákra az út szélén kiszálláskor.",
+              "A Vadasparkban külön parkoló van a Safari-expresz közelében.",
+              "A látótávolság a Bezruč-völgyben heves esőben korlátozott lehet."
+            ],
+            "ro": [
+              "Parcarea în centru este mai căutată pe ploaie, veniți devreme.",
+              "Atenție la bălțile adânci de la marginea drumului la urcare și coborâre.",
+              "La zoo există o parcare specială lângă Safari Express.",
+              "Vizibilitatea în Valea Bezruč poate fi redusă în caz de ploaie puternică."
+            ],
+            "en": [
+              "Parking in the center is more in demand during rain; arrive early.",
+              "Watch out for deep puddles at the roadside when getting in or out.",
+              "The Zoopark has a specific parking area near the Safari Express.",
+              "Visibility in Bezruč Valley may be limited during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour führt uns durch die verschneite Landschaft rund um Chomutov. Vormittags erkunden wir das Zentrum und wärmen uns in der Kirche und im Museum auf. Mittags fahren wir zum Zoopark, um die Tiere im Schnee zu sehen. Den Nachmittag verbringen wir im malerischen Bezruč-Tal, wobei wir den Sonnenuntergang vom Aussichtspunkt aus beobachten, bevor wir die beleuchtete Stadt am Abend erreichen.",
+            "hu": "A téli túra Chomutov környékének havas tájain vezet át. Délelőtt a központot fedezzük fel, miközben a templomban és a múzeumban melegszünk fel. Délben a Vadasparkba autózunk, hogy megnézzük az állatokat a hóban. A délutánt a festői Bezruč-völgyben töltjük, a kilátópontról nézve a naplementét, majd este érünk vissza a kivilágított városba.",
+            "ro": "Turul de iarnă ne poartă prin peisajul înzăpezit din jurul orașului Chomutov. Dimineața explorăm centrul și ne încălzim în biserică și muzeu. La prânz conducem la zoo pentru a vedea animalele în zăpadă. Petrecem după-amiaza în pitoreasca Vale Bezruč, admirând apusul din punctul de observare, înainte de a reveni în orașul iluminat.",
+            "en": "The winter tour takes us through the snowy landscape around Chomutov. In the morning, we explore the center, warming up in the church and museum. At noon, we drive to the zoo to see the animals in the snow. We spend the afternoon in the picturesque Bezruč Valley, watching the sunset from the viewpoint before reaching the lit city in the evening."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking & Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneehaufen auf den Parkstreifen.",
+                "hu": "Vigyázzon a parkolósávokban lévő hóbuckákra.",
+                "ro": "Atenție la mormanele de zăpadă de pe benzile de parcare.",
+                "en": "Watch out for snow piles on the parking lanes."
+              }
+            },
+            {
+              "name": "City Tower & Holy Trinity Column",
+              "tip_5lang": {
+                "de": "Bei klarem Winterwetter hat man eine hervorragende Fernsicht bis zum Erzgebirge.",
+                "hu": "Tiszta téli időben kiváló kilátás nyílik egészen az Érchegységig.",
+                "ro": "Pe vreme senină de iarnă, aveți o vedere excelentă până la Munții Metaliferi.",
+                "en": "In clear winter weather, you have an excellent long-distance view to the Ore Mountains."
+              }
+            },
+            {
+              "name": "St. Catherine's Church & Jesuit College",
+              "tip_5lang": {
+                "de": "Die Heizung im Museum sorgt für eine angenehme Pause.",
+                "hu": "A múzeum fűtése kellemes pihenést biztosít.",
+                "ro": "Încălzirea din muzeu asigură o pauză plăcută.",
+                "en": "The museum's heating provides a pleasant break from the cold."
+              }
+            },
+            {
+              "name": "Zoopark Chomutov",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob Winterreifen für die Zufahrt zum Parkplatz nötig sind.",
+                "hu": "Ellenőrizze, hogy a parkolóhoz való feljutáshoz szükséges-e a téli gumi.",
+                "ro": "Verificați dacă anvelopele de iarnă sunt necesare pentru accesul la parcare.",
+                "en": "Ensure your winter tires are in good condition for the access roads."
+              }
+            },
+            {
+              "name": "Kamencové jezero (Alum Lake)",
+              "tip_5lang": {
+                "de": "Der See bietet im Winter ein tolles Fotomotiv mit Eiskristallen.",
+                "hu": "A tó télen nagyszerű fotótéma a jégkristályokkal.",
+                "ro": "Lacul oferă iarna un motiv fotografic excelent cu cristale de gheață.",
+                "en": "The lake provides a great photo opportunity with ice crystals in winter."
+              }
+            },
+            {
+              "name": "Bezruč Valley",
+              "tip_5lang": {
+                "de": "Die Straße kann bei Schneefall rutschig sein; fahren Sie langsam.",
+                "hu": "Az út havazáskor csúszós lehet; vezessen lassan.",
+                "ro": "Drumul poate fi alunecos în caz de ninsoare; conduceți încet.",
+                "en": "The road can be slippery during snowfall; drive slowly."
+              }
+            },
+            {
+              "name": "Viewpoint in the valley",
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:00 Uhr an, um den Sonnenuntergang zu sehen.",
+                "hu": "Érkezzen 16:00 előtt, ha látni szeretné a naplementét.",
+                "ro": "Ajungeți înainte de ora 16:00 pentru a vedea apusul.",
+                "en": "Arrive before 16:00 to catch the winter sunset."
+              }
+            },
+            {
+              "name": "Return to city center",
+              "tip_5lang": {
+                "de": "Planen Sie mehr Zeit für die Rückfahrt bei Glätte ein.",
+                "hu": "Tervezzen több időt a visszajutásra jegesedés esetén.",
+                "ro": "Planificați mai mult timp pentru întoarcere în caz de polei.",
+                "en": "Plan more time for the return trip in case of icy roads."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer einen Eiskratzer und Schneebesen im Auto mit.",
+              "Die Bergstraßen im Erzgebirge können kurzfristig Schneekettenpflicht haben.",
+              "Nutzen Sie die Sitzheizung für die kurzen Fahrten zwischen den Zielen.",
+              "Der Parkplatz am Alaunsee wird im Winter seltener geräumt."
+            ],
+            "hu": [
+              "Mindig tartson jégkaparót és hókefét az autóban.",
+              "Az Érchegység hegyi útjain rövid időn belül kötelezővé tehetik a hóláncot.",
+              "Használja az ülésfűtést a célpontok közötti rövid utakon.",
+              "A Kamencové-tó parkolóját télen ritkábban takarítják."
+            ],
+            "ro": [
+              "Aveți întotdeauna o racletă și o perie de zăpadă în mașină.",
+              "Drumurile montane din Munții Metaliferi pot necesita lanțuri în scurt timp.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte între obiective.",
+              "Parcarea de la lacul de alaun este curățată mai rar iarna."
+            ],
+            "en": [
+              "Always carry an ice scraper and a snow brush in your car.",
+              "Mountain roads in the Ore Mountains may require snow chains on short notice.",
+              "Use seat heating for the short drives between destinations.",
+              "The parking lot at Alum Lake is cleared less frequently in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1512,6 +2130,188 @@
           "Buses might be less frequent on weekends, plan accordingly.",
           "Keep some change for tickets in case you need to buy from the driver."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom Hauptbahnhof bringt uns der Bus schnell ins trockene Zentrum. Vormittags nutzen wir die kurzen Wege zwischen Rathaus und Museum, um dem Regen zu entkommen. Mittags fahren wir mit der Linie zum Alaunsee und Zoopark, wobei die Wartezeiten an den überdachten Haltestellen angenehm sind. Den Abend lassen wir im Zentrum ausklingen, bevor uns der Transit zurück zum Bahnhof bringt.",
+            "hu": "A főpályaudvarról a busz gyorsan a száraz központba repít minket. Délelőtt a városháza és a múzeum közötti rövid távokat használjuk ki az eső elkerülésére. Délben busszal megyünk a tóhoz és a Vadasparkhoz, ahol a fedett megállókban várakozunk. Az estét a központban zárjuk, mielőtt a tömegközlekedés visszavisz a vasútállomáshoz.",
+            "ro": "De la gara centrală, autobuzul ne duce rapid în centrul uscat. Dimineața profităm de distanțele scurte între primărie și muzeu pentru a evita ploaia. La prânz mergem cu autobuzul la lac și la zoo, așteptând în stațiile acoperite. Încheiem seara în centru înainte ca transportul public să ne ducă înapoi la gară.",
+            "en": "From the main station, the bus quickly takes us to the dry center. In the morning, we use the short distances between the town hall and the museum to escape the rain. At noon, we take the bus to the lake and zoo, waiting at covered stops. We finish the evening in the center before transit takes us back to the station."
+          },
+          "stops": [
+            {
+              "name": "Main Station & Ride to Center",
+              "tip_5lang": {
+                "de": "Warten Sie im Bahnhofsgebäude auf den Busanschluss.",
+                "hu": "Várjon a vasútállomás épületében a buszcsatlakozásra.",
+                "ro": "Așteptați în clădirea gării legătura cu autobuzul.",
+                "en": "Wait inside the station building for your bus connection."
+              }
+            },
+            {
+              "name": "Town Hall & City Tower",
+              "tip_5lang": {
+                "de": "Die Haltestellen im Zentrum sind meist überdacht.",
+                "hu": "A belvárosi megállók többsége fedett.",
+                "ro": "Majoritatea stațiilor din centru sunt acoperite.",
+                "en": "Most bus stops in the city center are covered."
+              }
+            },
+            {
+              "name": "St. Catherine's Church & Jesuit College",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeitpläne in der App, um die Zeit im Regen zu minimieren.",
+                "hu": "Használja az alkalmazást a menetrendhez, hogy minimalizálja az esőben töltött időt.",
+                "ro": "Folosiți aplicația pentru orar ca să minimizați timpul petrecut în ploaie.",
+                "en": "Use the transit app to check schedules and minimize time spent in the rain."
+              }
+            },
+            {
+              "name": "Lunch and ride to the lake",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt am Eingang zum Seegelände.",
+                "hu": "A busz szinte közvetlenül a tó területének bejáratánál áll meg.",
+                "ro": "Autobuzul oprește aproape direct la intrarea în zona lacului.",
+                "en": "The bus stops almost directly at the entrance to the lake area."
+              }
+            },
+            {
+              "name": "Zoopark Chomutov",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten, da Busse bei Regen voller sein können.",
+                "hu": "Ellenőrizze a visszautat, mert esőben a buszok zsúfoltabbak lehetnek.",
+                "ro": "Verificați orele de întoarcere, autobuzele pot fi mai aglomerate pe ploaie.",
+                "en": "Check return times, as buses can be more crowded during rain."
+              }
+            },
+            {
+              "name": "Ride to Bezruč Valley",
+              "tip_5lang": {
+                "de": "Die Haltestelle am Taleingang bietet nur wenig Unterstand.",
+                "hu": "A völgy bejáratánál lévő megállóban kevés a védett hely.",
+                "ro": "Stația de la intrarea în vale oferă puțin adăpost.",
+                "en": "The stop at the valley entrance offers limited shelter from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tageskarten im Voraus, um Hektik im Regen zu vermeiden.",
+              "Die Fahrpläne können bei starkem Regen leichte Verzögerungen aufweisen.",
+              "Nutzen Sie die Wartebereiche in den Museen vor der Abfahrt.",
+              "In Chomutov sind die meisten Busse modern und gut klimatisiert."
+            ],
+            "hu": [
+              "Vásároljon napijegyet előre, hogy elkerülje a kapkodást az esőben.",
+              "A menetrendben heves esőzéskor kisebb késések fordulhatnak elő.",
+              "Használja ki a múzeumok várótermeit az indulás előtt.",
+              "Chomutovban a legtöbb busz modern és jól klimatizált."
+            ],
+            "ro": [
+              "Cumpărați bilete de o zi în avans pentru a evita graba pe ploaie.",
+              "Orarele pot avea mici întârzieri în caz de ploaie puternică.",
+              "Folosiți zonele de așteptare din muzee înainte de plecare.",
+              "În Chomutov, majoritatea autobuzelor sunt moderne și bine climatizate."
+            ],
+            "en": [
+              "Buy day passes in advance to avoid rushing in the rain.",
+              "Schedules may experience slight delays during heavy rainfall.",
+              "Utilize the waiting areas in museums before your departure.",
+              "Most buses in Chomutov are modern and well-climatized."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Transit-Tag beginnt im beheizten Bus vom Bahnhof ins festliche Zentrum. Vormittags erkunden wir die historischen Bauten und wärmen uns in den Innenräumen auf. Mittags bringt uns der Bus durch die Schneelandschaft zum See und zum Zoopark, wo wir die Winterstimmung genießen. Nach einem kurzen Ausflug ins Bezruč-Tal kehren wir bei Dunkelheit mit dem Bus ins Stadtzentrum zurück.",
+            "hu": "A tömegközlekedős nap fűtött busszal indul az állomástól az ünnepi központba. Délelőtt a történelmi épületeket fedezzük fel, és a belső terekben melegszünk fel. Délben a busz a havas tájon keresztül visz minket a tóhoz és a Vadasparkhoz, ahol élvezzük a téli hangulatot. Egy rövid Bezruč-völgyi kirándulás után sötétben térünk vissza busszal a városközpontba.",
+            "ro": "Ziua cu transportul public începe într-un autobuz încălzit de la gară spre centrul festiv. Dimineața explorăm clădirile istorice și ne încălzim în interior. La prânz, autobuzul ne duce prin peisajul înzăpezit la lac și la zoo, unde ne bucurăm de atmosfera de iarnă. După o scurtă excursie în Valea Bezruč, revenim cu autobuzul în centrul orașului pe întuneric.",
+            "en": "The transit day starts in a heated bus from the station to the festive center. In the morning, we explore the historic buildings and warm up indoors. At noon, the bus takes us through the snowy landscape to the lake and zoo, where we enjoy the winter atmosphere. After a short trip to Bezruč Valley, we return by bus to the city center after dark."
+          },
+          "stops": [
+            {
+              "name": "Main Station & Ride to Center",
+              "tip_5lang": {
+                "de": "Beachten Sie die Winterfahrpläne an Feiertagen.",
+                "hu": "Ügyeljen az ünnepnapi téli menetrendre.",
+                "ro": "Atenție la orarul de iarnă din zilele de sărbătoare.",
+                "en": "Be aware of special winter schedules during public holidays."
+              }
+            },
+            {
+              "name": "Town Hall & City Tower",
+              "tip_5lang": {
+                "de": "Der Fußweg zwischen den Haltestellen kann glatt sein.",
+                "hu": "A megállók közötti gyalogút csúszós lehet.",
+                "ro": "Drumul pe jos între stații poate fi alunecos.",
+                "en": "The walking path between stops can be slippery."
+              }
+            },
+            {
+              "name": "St. Catherine's Church & Jesuit College",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Museum auf, bis der nächste Bus kommt.",
+                "hu": "Melegedjen a múzeumban a következő busz érkezéséig.",
+                "ro": "Încălziți-vă în muzeu până vine următorul autobuz.",
+                "en": "Warm up in the museum until the next bus arrives."
+              }
+            },
+            {
+              "name": "Lunch and ride to the lake",
+              "tip_5lang": {
+                "de": "Im Winter verkehren einige Linien seltener zum See.",
+                "hu": "Télen egyes járatok ritkábban közlekednek a tóhoz.",
+                "ro": "Iarna, unele linii circulă mai rar către lac.",
+                "en": "Some bus lines run less frequently to the lake in winter."
+              }
+            },
+            {
+              "name": "Zoopark Chomutov",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt direkt am Eingang, ideal bei Kälte.",
+                "hu": "A buszmegálló közvetlenül a bejáratnál van, ideális hidegben.",
+                "ro": "Stația de autobuz este chiar la intrare, ideal pe timp de frig.",
+                "en": "The bus stop is right at the entrance, ideal for cold weather."
+              }
+            },
+            {
+              "name": "Ride to Bezruč Valley",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Sie den letzten Bus zurück ins Zentrum nicht verpassen.",
+                "hu": "Ügyeljen rá, hogy ne késse le az utolsó buszt vissza a központba.",
+                "ro": "Asigurați-vă că nu pierdeți ultimul autobuz înapoi spre centru.",
+                "en": "Make sure not to miss the last bus back to the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter eine sichere Alternative zum eigenen PKW.",
+              "Die Wartezeiten an Haltestellen durch Live-Tracking minimieren.",
+              "Achten Sie auf Schneematsch in den Einstiegsbereichen der Busse.",
+              "Nach 16:30 Uhr ist es dunkel, planen Sie den Weg zur Haltestelle gut."
+            ],
+            "hu": [
+              "A busz télen biztonságos alternatíva a saját autóval szemben.",
+              "Minimalizálja a várakozási időt az élő járatkövetés használatával.",
+              "Ügyeljen a hókására a buszok felszállóhelyeinél.",
+              "16:30 után sötét van, jól tervezze meg a megállóhoz vezető utat."
+            ],
+            "ro": [
+              "Autobuzele sunt o alternativă sigură la mașina personală iarna.",
+              "Minimalizați timpul de așteptare în stații folosind urmărirea live.",
+              "Atenție la fleșcăraia de zăpadă din zonele de urcare în autobuz.",
+              "După ora 16:30 este întuneric, planificați bine drumul spre stație."
+            ],
+            "en": [
+              "Buses are a safe alternative to driving your own car in winter.",
+              "Minimize waiting times at stops using live bus tracking.",
+              "Watch out for slush in the boarding areas of the buses.",
+              "It gets dark after 16:30, so plan your walk to the stop carefully."
+            ]
+          }
+        }
       }
     }
   }

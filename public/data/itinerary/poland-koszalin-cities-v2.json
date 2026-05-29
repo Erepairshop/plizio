@@ -362,6 +362,188 @@
           "Always have some cash (Złoty) handy for small purchases at the market or in smaller shops.",
           "A light raincoat is always a good idea as the weather can change quickly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Marktplatz; halten Sie den Schirm bereit für den baltischen Nieselregen. Mittags bieten die Kathedrale und das Scharfrichterhaus trockenen Unterschlupf. Verbringen Sie den Nachmittag im Museum, um dem Regen zu entgehen. Den Tag beschließt ein Spaziergang durch den nebligen Park zu einem gemütlichen Restaurant im Zentrum.",
+            "hu": "Reggel a Főtéren kezdünk, esernyővel a balti szitálás ellen. Délben a Székesegyház és a Katownia nyújt menedéket. A délutánt töltsük a Múzeum kiállításai között, elkerülve az esőt. A napot egy frissítő séta zárja a ködös parkon át, majd egy hangulatos belvárosi étteremben melegedhetünk fel.",
+            "ro": "Dimineața începe în Piața Veche; pregătiți umbrela pentru burnița baltică. La prânz, Catedrala și Casa Călăului oferă refugiu uscat. Petreceți după-amiaza explorând muzeul pentru a evita ploaia densă. Încheiați ziua cu o plimbare prin parcul cețos spre un restaurant primitor din centru.",
+            "en": "Morning begins at the Market Square; keep your umbrella ready for the Baltic drizzle. Midday offers a dry refuge in the Cathedral and the Executioner's House. Spend a long afternoon exploring the Museum's collections to avoid the heaviest rain. Finish the day with a brisk walk through the misty park towards a cozy local restaurant in the city center."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Market Square",
+              "tip_5lang": {
+                "de": "Unter den Arkaden des Rathauses finden Sie Schutz vor plötzlichen Schauern.",
+                "hu": "A városháza árkádjai alatt menedéket találhatsz a hirtelen záporok elől.",
+                "ro": "Sub arcadele primăriei puteți găsi adăpost în cazul unei averse bruște.",
+                "en": "Find shelter under the Town Hall arcades if a sudden shower starts."
+              }
+            },
+            {
+              "name": "Executioner's House",
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Katownia halten Sie während der Besichtigung trocken.",
+                "hu": "A Katownia vastag falai szárazon tartanak a látogatás során.",
+                "ro": "Zidurile groase ale Katowniei vă vor menține uscat în timpul vizitei.",
+                "en": "The thick walls of Katownia keep you perfectly dry during your visit."
+              }
+            },
+            {
+              "name": "Cathedral of the Immaculate Conception",
+              "tip_5lang": {
+                "de": "Bewundern Sie die gotische Architektur, während Sie dem Regen entfliehen.",
+                "hu": "Csodáld meg a gótikus építészetet, miközben elmenekülsz az eső elől.",
+                "ro": "Admirați arhitectura gotică în timp ce vă adăpostiți de ploaie.",
+                "en": "Admire the Gothic architecture while taking a break from the rain."
+              }
+            },
+            {
+              "name": "Museum in Koszalin",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um viel Zeit im Trockenen zwischen Exponaten zu verbringen.",
+                "hu": "Tökéletes hely, hogy sok időt tölts szárazon a kiállítási tárgyak között.",
+                "ro": "Locul perfect pentru a petrece timp la adăpost printre exponate.",
+                "en": "The perfect place to spend significant time indoors among the exhibits."
+              }
+            },
+            {
+              "name": "Pomeranian Dukes' Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, um Matsch zu vermeiden.",
+                "hu": "Maradj a kövezett utakon, hogy elkerüld a sarat a parkban.",
+                "ro": "Rămâneți pe aleile pavate pentru a evita noroiul din parc.",
+                "en": "Stick to the paved paths to avoid mud while walking through the park."
+              }
+            },
+            {
+              "name": "Amphitheater",
+              "tip_5lang": {
+                "de": "Die dramatische Struktur bietet auch bei grauem Regenwetter tolle Fotomotive.",
+                "hu": "A drámai szerkezet szürke esős időben is nagyszerű fotótéma.",
+                "ro": "Structura dramatică oferă oportunități foto excelente chiar și pe ploaie.",
+                "en": "The dramatic structure offers great photo opportunities even in gray rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Altstadtpflaster rutschig sein können.",
+              "Kombinieren Sie Außenstopps mit längeren Pausen in Cafés am Marktplatz.",
+              "Ein stabiler Regenschirm ist wegen des Windes vom Meer her wichtig.",
+              "Nutzen Sie die Kathedrale als ruhigen Ort für eine längere Regenpause."
+            ],
+            "hu": [
+              "Viselj vízálló cipőt, mert az óvárosi macskakő csúszós lehet az esőben.",
+              "Kombináld a kültéri megállókat hosszabb kávézókkal a Főtéren.",
+              "A tenger felől érkező szél miatt egy strapabíró esernyő ajánlott.",
+              "Használd a Székesegyházat nyugodt helyként egy hosszabb esőszünetre."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul vechi poate fi alunecos.",
+              "Combinați opririle exterioare cu pauze lungi în cafenelele din Piață.",
+              "O umbrelă rezistentă este esențială din cauza vântului de pe mare.",
+              "Folosiți Catedrala ca loc liniștit pentru o pauză prelungită de ploaie."
+            ],
+            "en": [
+              "Wear waterproof shoes as the old town cobblestones can be slippery when wet.",
+              "Combine outdoor stops with longer breaks in cafes around the Market Square.",
+              "A sturdy umbrella is essential due to the winds coming from the Baltic Sea.",
+              "Use the Cathedral as a peaceful spot for a longer break during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Koszalin im Winter glänzt mit kühler Seeluft und festlicher Beleuchtung am Rathaus. Mittags wärmen die Backsteinmauern der Katownia und die Kerzen in der Kathedrale Geist und Körper. Der Nachmittag gehört dem Museum, einem idealen Zufluchtsort vor dem Frost. Wenn es früh dunkel wird, leuchten die Lichter des Parks und laden zum Abschluss in ein warmes Gasthaus ein.",
+            "hu": "Koszalin télen friss tengeri levegővel és ünnepi fényekkel vár a Városházánál. Délben a Katownia téglafala és a Székesegyház gyertyái melengetik a lelket. A délután a Múzeumé, amely tökéletes menedék a fagy elől. A korai sötétedéskor kigyúlnak a park fényei, majd egy meleg vendéglő várja a látogatót a nap végén.",
+            "ro": "Koszalin iarna oferă aer marin proaspăt și lumini festive lângă Primărie. La prânz, zidurile de cărămidă ale Katowniei și lumânările din Catedrală încălzesc spiritul. După-amiaza aparține muzeului, un refugiu ideal împotriva gerului. Când se întunecă devreme, luminile parcului strălucesc, invitându-vă spre un han călduros.",
+            "en": "Winter in Koszalin brings crisp sea air and festive lights at the Town Hall. At midday, the brick walls of Katownia and the candles in the Cathedral warm the spirit. The afternoon is dedicated to the Museum, an ideal refuge from the frost. As darkness falls early, the park lights glow, leading you to a warm dinner in the city center."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Market Square",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Beleuchtung auf dem Marktplatz nach Einbruch der Dunkelheit.",
+                "hu": "Élvezd a téli kivilágítást a Főtéren sötétedés után.",
+                "ro": "Bucurați-vă de iluminatul festive din Piață după lăsarea întunericului.",
+                "en": "Enjoy the festive winter lights in the Market Square after dusk."
+              }
+            },
+            {
+              "name": "Executioner's House",
+              "tip_5lang": {
+                "de": "Ein gemütlicher, kurzer Innenstopp, um der kalten Brise zu entkommen.",
+                "hu": "Hangulatos, rövid beltéri megálló, hogy elmenekülj a hideg szél elől.",
+                "ro": "O oprire scurtă și primitoare în interior pentru a scăpa de briza rece.",
+                "en": "A cozy, short indoor stop to escape the cold winter breeze."
+              }
+            },
+            {
+              "name": "Cathedral of the Immaculate Conception",
+              "tip_5lang": {
+                "de": "Die Ruhe und das gedämpfte Licht bieten eine andächtige Winteratmosphäre.",
+                "hu": "A nyugalom és a tompa fények meghitt téli hangulatot árasztanak.",
+                "ro": "Liniștea și lumina difuză oferă o atmosferă de iarnă contemplativă.",
+                "en": "The silence and dimmed lights offer a peaceful winter atmosphere."
+              }
+            },
+            {
+              "name": "Museum in Koszalin",
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Räume, um sich zwischen den Besichtigungen aufzuwärmen.",
+                "hu": "Használd a fűtött termeket a felmelegedésre a városnézés közben.",
+                "ro": "Folosiți sălile încălzite pentru a vă încălzi între vizite.",
+                "en": "Use the heated rooms to warm up between outdoor sightseeing segments."
+              }
+            },
+            {
+              "name": "Pomeranian Dukes' Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Stellen auf den Wegen entlang der Teiche.",
+                "hu": "Vigyázz a jeges szakaszokra a tavak menti sétányokon.",
+                "ro": "Atenție la porțiunile înghețate de pe aleile de lângă iazuri.",
+                "en": "Watch out for frozen patches on the paths along the ponds."
+              }
+            },
+            {
+              "name": "Amphitheater",
+              "tip_5lang": {
+                "de": "Der Park ist im Winter ruhig; ideal für einen kurzen, klaren Fotostopp.",
+                "hu": "A park télen csendes; ideális egy rövid, tiszta fotómegállóra.",
+                "ro": "Parcul este liniștit iarna; ideal pentru o scurtă oprire foto clară.",
+                "en": "The park is quiet in winter; ideal for a short, crisp photo stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ziehen Sie sich im Zwiebelprinzip an, da es vom See her sehr windig sein kann.",
+              "Die Sonne geht im Dezember gegen 15:45 Uhr unter; planen Sie Außenstopps früh.",
+              "Wärmen Sie sich zwischendurch mit heißem Tee in den Cafés der ul. Zwycięstwa auf.",
+              "Kopfsteinpflaster kann bei Frost sehr glatt sein; tragen Sie Profilsohlen."
+            ],
+            "hu": [
+              "Öltözz rétegesen, mert a tenger felől érkező szél nagyon hideg lehet.",
+              "A nap decemberben 15:45 körül nyugszik; a parkot tervezd korábbra.",
+              "Melegedj fel forró teával az ul. Zwycięstwa kávézóiban a séták között.",
+              "A macskakő fagyban csúszós lehet; válassz bordázott talpú cipőt."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, vântul de pe mare poate fi foarte tăios.",
+              "Soarele apune în jur de 15:45 în decembrie; planificați vizitele afară devreme.",
+              "Încălziți-vă cu un ceai fierbinte în cafenelele de pe strada Zwycięstwa.",
+              "Pavajul poate fi alunecos la îngheț; purtați încălțăminte cu talpă aderentă."
+            ],
+            "en": [
+              "Dress in layers as the wind from the sea can be very sharp and cold.",
+              "Sunset is around 15:45 in December; plan outdoor stops earlier in the day.",
+              "Warm up with hot tea in the cafes along Zwycięstwa Street between stops.",
+              "Cobblestones can be slippery when frozen; wear shoes with good grip."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -718,6 +900,188 @@
           "A good lock is essential when leaving your bike to visit sights.",
           "Bring a bottle of water and some snacks for the longer stretches."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Radtag im Regen erfordert gute Ausrüstung, bietet aber leere Wege zum Jamno-See. Nach dem Start im Zentrum führt die Route durch den nassen Park. Das Mittagessen am Seeufer ist ein windiges Erlebnis, gefolgt von einem trockenen Museumsbesuch. Der Tag endet mit einem sportlichen Aufstieg zum Gollenberg durch den nebligen Wald.",
+            "hu": "Egy esős bringás nap jó felszerelést igényel, de cserébe üres utakat kínál a Jamno-tóhoz. A központból indulva vizes parkokon át vezet az út. A tavi ebéd szeles élmény, amit száraz múzeumi pihenő követ. A nap végén ködös erdei utakon tekerhetünk fel a Chełmska-hegyre.",
+            "ro": "O zi de ciclism pe ploaie necesită echipament bun, dar oferă poteci libere spre lacul Jamno. După startul din centru, traseul trece prin parcul ud. Prânzul la lac este o experiență vântoasă, urmată de o vizită uscată la muzeu. Ziua se încheie cu o urcare sportivă pe dealul Chełmska.",
+            "en": "A rainy cycling day requires good gear but rewards you with empty paths to Lake Jamno. Starting from the center, the route leads through wet parks. Lunch by the lake is a windy experience, followed by a dry museum break. The day ends with a sporty climb up Chełmska Hill through the misty forest."
+          },
+          "stops": [
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht beim Losfahren; das Pflaster auf dem Markt ist bei Nässe rutschig.",
+                "hu": "Vigyázz az indulásnál; a főtéri macskakő vizesen csúszik.",
+                "ro": "Atenție la plecare; pavajul din piață este alunecos când este ud.",
+                "en": "Be careful when starting; the market square pavement is slippery when wet."
+              }
+            },
+            {
+              "name": "Cathedral of the Immaculate Conception",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer in der Nähe des Eingangs für einen kurzen Stopp.",
+                "hu": "Használd a bejárat közeli kerékpártámaszokat egy rövid pihenőhöz.",
+                "ro": "Folosiți suporturile de biciclete de lângă intrare pentru o scurtă pauză.",
+                "en": "Use the bike racks near the entrance for a quick indoor break."
+              }
+            },
+            {
+              "name": "Pomeranian Dukes' Park and Amphitheater",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den kurvigen Wegen durch den regnerischen Park.",
+                "hu": "Tekerj óvatosan a kanyargós utakon az esős parkban.",
+                "ro": "Pedalați cu atenție pe aleile virajate prin parcul plouat.",
+                "en": "Cycle carefully on the winding paths through the rainy park."
+              }
+            },
+            {
+              "name": "Lunch at Jamno Lake",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz in einem Restaurant mit Blick auf den regnerischen See.",
+                "hu": "Keress helyet egy étteremben, ahonnan rálátsz az esős tóra.",
+                "ro": "Căutați un loc într-un restaurant cu vedere spre lacul plouat.",
+                "en": "Find a spot in a restaurant with a view of the rainy lake."
+              }
+            },
+            {
+              "name": "Museum in Koszalin",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad gesichert ab und genießen Sie die trockene Ausstellung.",
+                "hu": "Zárd le a biciklit, és élvezd a száraz kiállítást.",
+                "ro": "Parcați bicicleta în siguranță și bucurați-vă de expoziția uscată.",
+                "en": "Park your bike securely and enjoy the dry indoor exhibition."
+              }
+            },
+            {
+              "name": "Góra Chełmska (Chełmska Hill)",
+              "tip_5lang": {
+                "de": "Der Waldweg kann matschig sein; achten Sie auf Ihre Traktion beim Anstieg.",
+                "hu": "Az erdei út sáros lehet; figyelj a tapadásra az emelkedőn.",
+                "ro": "Drumul prin pădure poate fi noroios; atenție la tracțiune pe urcare.",
+                "en": "The forest path might be muddy; watch your traction on the climb."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter in Koszalin unerlässlich.",
+              "Tragen Sie auffällige Regenkleidung, um von Autofahrern besser gesehen zu werden.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Gollenberg bei Nässe.",
+              "Wählen Sie befestigte Radwege zum See, um tiefen Matsch zu vermeiden."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ebben az időben Koszalinban.",
+              "Viselj feltűnő esőruhát, hogy az autósok jobban lássanak.",
+              "Ellenőrizd a fékeket a vizes Chełmska-hegyi lejtő előtt.",
+              "Válaszd a kiépített kerékpárutakat a tó felé a sár elkerülése érdekében."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe această vreme.",
+              "Purtați haine de ploaie reflectorizante pentru a fi vizibili în trafic.",
+              "Verificați frânele înainte de coborârea de pe dealul Chełmska pe ud.",
+              "Alegeți pistele de biciclete pavate spre lac pentru a evita noroiul."
+            ],
+            "en": [
+              "Mudguards are essential for this weather in Koszalin.",
+              "Wear high-visibility rain gear to be seen better by car drivers.",
+              "Check your brakes before the wet descent from Chełmska Hill.",
+              "Choose paved cycling paths to the lake to avoid deep mud."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Koszalin bedeutet frische Luft und leere Radwege. Der Morgen im Zentrum führt zur Kathedrale, bevor die Fahrt durch den frostigen Park fortgesetzt wird. Die Tour zum Jamno-See bietet weite, klare Ausblicke, erfordert aber warme Kleidung gegen den Wind. Der Tag endet mit einem fordernden Anstieg zum Gollenberg, wo der Wald im Winterlicht strahlt.",
+            "hu": "A téli bringázás Koszalinban friss levegőt és üres utakat jelent. A központból a Székesegyház felé indulunk, majd a jeges parkon át tekerünk. A Jamno-tó felé vezető út tiszta kilátást ígér, de meleg ruha kell a szél ellen. A napot a Chełmska-hegy emelkedője zárja, ahol az erdő téli fényben tündököl.",
+            "ro": "Ciclismul de iarnă în Koszalin înseamnă aer proaspăt și piste libere. Dimineața în centru duce la Catedrală, apoi prin parcul înghețat. Turul spre lacul Jamno oferă vederi clare, dar necesită haine groase contra vântului. Ziua se încheie cu urcarea solicitantă pe dealul Chełmska.",
+            "en": "Winter cycling in Koszalin means fresh air and empty bike paths. The morning in the center leads to the Cathedral before continuing through the frosty park. The trip to Lake Jamno offers wide, clear views but requires warm clothing against the wind. The day ends with a demanding climb to Chełmska Hill."
+          },
+          "stops": [
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Starten Sie vorsichtig; achten Sie auf Raureif auf dem Marktplatzpflaster.",
+                "hu": "Indulj óvatosan; figyelj a zúzmarára a főtéri macskakövön.",
+                "ro": "Porniți cu atenție; atenție la chiciura de pe pavajul pieței.",
+                "en": "Start carefully; watch out for hoarfrost on the market square stones."
+              }
+            },
+            {
+              "name": "Cathedral of the Immaculate Conception",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Inneren hilft, die Finger aufzuwärmen.",
+                "hu": "Egy rövid benti megálló segít felmelegíteni az ujjaidat.",
+                "ro": "O scurtă oprire în interior ajută la încălzirea degetelor.",
+                "en": "A short stop inside will help warm up your fingers."
+              }
+            },
+            {
+              "name": "Pomeranian Dukes' Park and Amphitheater",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis auf den Brücken über den Mühlbach.",
+                "hu": "Vigyázz a jégre a patak feletti hidakon.",
+                "ro": "Atenție la gheața de pe podurile peste pârâu.",
+                "en": "Watch out for ice on the bridges over the stream."
+              }
+            },
+            {
+              "name": "Lunch at Jamno Lake",
+              "tip_5lang": {
+                "de": "Genießen Sie ein heißes polnisches Gericht, um Energie für die Rückfahrt zu tanken.",
+                "hu": "Egyél egy forró lengyel ételt, hogy erőt gyűjts a visszaúthoz.",
+                "ro": "Savurați un fel de mâncare polonez fierbinte pentru energie.",
+                "en": "Enjoy a hot Polish dish to regain energy for the return ride."
+              }
+            },
+            {
+              "name": "Museum in Koszalin",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als ausgiebige Aufwärmpause.",
+                "hu": "Használd a múzeumlátogatást egy alapos felmelegedési szünetnek.",
+                "ro": "Folosiți vizita la muzeu ca o pauză lungă de încălzire.",
+                "en": "Use the museum visit as an extended warming break."
+              }
+            },
+            {
+              "name": "Góra Chełmska (Chełmska Hill)",
+              "tip_5lang": {
+                "de": "Der Anstieg hält Sie warm, aber die Abfahrt wird sehr kalt; ziehen Sie sich an.",
+                "hu": "Az emelkedő melegen tart, de a lejtőn nagyon lehűlsz; öltözz fel.",
+                "ro": "Urcarea vă ține cald, dar coborârea va fi foarte rece; îmbrăcați-vă.",
+                "en": "The climb keeps you warm, but the descent will be very cold; layer up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Die Batterien von E-Bikes entladen sich bei Kälte schneller; Kapazität prüfen.",
+              "Planen Sie die Tour so, dass Sie vor Sonnenuntergang (16 Uhr) zurück sind.",
+              "Vermeiden Sie scharfe Bremsmanöver auf potenziell glatten Waldwegen."
+            ],
+            "hu": [
+              "Viselj szélálló kesztyűt és sapkát a sisak alatt.",
+              "Az e-bike akkumulátorok gyorsabban merülnek hidegben; ellenőrizd a töltöttséget.",
+              "Tervezd úgy az utat, hogy naplemente (16 óra) előtt visszaérj.",
+              "Kerüld a hirtelen fékezést a potenciálisan jeges erdei utakon."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Planificați turul pentru a reveni înainte de apus (ora 16:00).",
+              "Evitați frânările bruște pe potecile de pădure potențial înghețate."
+            ],
+            "en": [
+              "Wear windproof gloves and a thermal cap under your helmet.",
+              "E-bike batteries drain faster in the cold; check your charge level.",
+              "Plan your tour to be back before sunset (around 16:00).",
+              "Avoid sharp braking on potentially icy forest paths."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1074,6 +1438,188 @@
           "Plan for extra time for traffic, especially during peak hours.",
           "The car gives you the flexibility to comfortably reach more distant places like Jamno Lake."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "An einem Regentag in Koszalin bietet das Auto den besten Komfort. Beginnen Sie am Gollenberg, wo der Wald im Regen mystisch wirkt. Das Stadtzentrum erreichen Sie trocken, um Kathedrale und Marktplatz zu besuchen. Eine Fahrt zum Jamno-See bietet dramatische Ausblicke auf das Wasser, bevor der Tag bei einem gemütlichen Abendessen im Stadtzentrum endet.",
+            "hu": "Egy esős koszalini napon az autó nyújtja a legnagyobb kényelmet. Kezdj a Chełmska-hegyen, ahol az erdő misztikus az esőben. A központot szárazon érheted el a Székesegyházhoz. A Jamno-tóhoz vezető út drámai kilátást kínál a vízre, majd a nap egy kellemes belvárosi vacsorával zárul.",
+            "ro": "Într-o zi ploioasă în Koszalin, mașina oferă cel mai bun confort. Începeți la dealul Chełmska, unde pădurea pare mistică. Ajungeți uscat în centru pentru a vizita Catedrala. O plimbare la lacul Jamno oferă vederi dramatice, înainte ca ziua să se încheie cu o cină în centru.",
+            "en": "On a rainy day in Koszalin, the car provides maximum comfort. Start at Chełmska Hill, where the forest feels mystical in the rain. Reach the city center dry to visit the Cathedral and Market Square. A drive to Lake Jamno offers dramatic water views before finishing with a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Cluster Start: Parking at Góra Chełmska",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Gipfel, so dass Sie nur kurz im Regen laufen müssen.",
+                "hu": "A parkoló közel van a csúcshoz, így csak keveset kell gyalogolni az esőben.",
+                "ro": "Parcarea este aproape de vârf, reducând mersul prin ploaie.",
+                "en": "The parking is close to the summit, minimizing your walk in the rain."
+              }
+            },
+            {
+              "name": "Observation Tower on Góra Chełmska",
+              "tip_5lang": {
+                "de": "Von oben sieht man die Regenfronten über der Ostsee heranziehen.",
+                "hu": "Fentről láthatod a tenger felől érkező esőfelhőket.",
+                "ro": "De sus puteți vedea fronturile de ploaie venind dinspre Marea Baltică.",
+                "en": "From the top, you can see the rain fronts approaching from the Baltic Sea."
+              }
+            },
+            {
+              "name": "City Center Cluster: Park and walk to the Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie ein Parkhaus in der Nähe, um den Fußweg im Regen kurz zu halten.",
+                "hu": "Használj közeli parkolóházat, hogy rövid legyen a séta az esőben.",
+                "ro": "Folosiți o parcare apropiată pentru a scurta mersul prin ploaie.",
+                "en": "Use a nearby parking garage to keep your walk in the rain short."
+              }
+            },
+            {
+              "name": "Town Hall and Market Square",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp am Rathaus; genießen Sie den Anblick aus dem trockenen Auto.",
+                "hu": "Rövid fotómegálló; élvezd a látványt a száraz autóból.",
+                "ro": "Scurtă oprire foto; bucurați-vă de vedere din mașina uscată.",
+                "en": "Quick photo stop; enjoy the view from the dry comfort of your car."
+              }
+            },
+            {
+              "name": "Lake Cluster: Drive to Jamno Lake",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Ufer, um den Blick auf den stürmischen See zu genießen.",
+                "hu": "Parkolj közvetlenül a parton, hogy élvezd a viharos tó látványát.",
+                "ro": "Parcați chiar pe mal pentru a vedea lacul învolburat.",
+                "en": "Park right by the shore to enjoy the view of the stormy lake."
+              }
+            },
+            {
+              "name": "Return to Center for Dinner",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit nahem Parkplatz für einen trockenen Abend.",
+                "hu": "Válassz éttermet közeli parkolóval a száraz este érdekében.",
+                "ro": "Alegeți un restaurant cu parcare aproape pentru o seară uscată.",
+                "en": "Choose a restaurant with nearby parking for a dry evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer, da starke Schauer in Meeresnähe häufig sind.",
+              "Nutzen Sie die Fahrtzeiten zwischen den Stopps, um im Auto aufzuwärmen.",
+              "Vermeiden Sie tiefe Pfützen am Straßenrand in der Nähe des Jamno-Sees.",
+              "Ein Regenschirm im Kofferraum ist für die Wege zum Auto unerlässlich."
+            ],
+            "hu": [
+              "Ellenőrizd az ablaktörlőket, mert a tengerparton gyakoriak a heves záporok.",
+              "Használd ki az utazási időt a megállók között az autóban való melegedésre.",
+              "Kerüld a mély tócsákat az út szélén a Jamno-tó környékén.",
+              "Egy esernyő a csomagtartóban elengedhetetlen az autóig tartó utakhoz."
+            ],
+            "ro": [
+              "Verificați ștergătoarele, aversele puternice sunt frecvente lângă mare.",
+              "Folosiți timpul de condus între opriri pentru a vă încălzi în mașină.",
+              "Evitați bălțile adânci de pe marginea drumului lângă lacul Jamno.",
+              "O umbrelă în portbagaj este esențială pentru drumul spre mașină."
+            ],
+            "en": [
+              "Check your wipers as heavy showers are common near the coast.",
+              "Use the driving time between stops to warm up inside the car.",
+              "Avoid deep puddles on the roadside near Lake Jamno.",
+              "A sturdy umbrella in the trunk is essential for the walks to/from the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Koszalin mit dem Auto im Winter ist die bequemste Art, die Highlights zu sehen. Starten Sie am frostigen Gollenberg mit Panoramablick über die Winterlandschaft. Im Stadtzentrum erwarten Sie festliche Lichter und die warme Kathedrale. Die Fahrt zum Jamno-See zeigt die weite, klare Winterstimmung an der Küste, bevor Sie den Tag in der beheizten Gemütlichkeit des Zentrums abschließen.",
+            "hu": "A téli Koszalin felfedezése autóval a legkényelmesebb módja a látnivalók megtekintésének. Kezdj a fagyos Chełmska-hegyen, élvezve a téli táj panorámáját. A központban ünnepi fények és a meleg Székesegyház vár. A Jamno-tóhoz vezető út tiszta téli hangulatot áraszt, majd a napot a belváros melegében zárhatod.",
+            "ro": "Explorarea orașului Koszalin cu mașina iarna este cea mai confortabilă metodă. Începeți la dealul Chełmska înghețat, cu o panoramă de iarnă. În centru vă așteaptă lumini festive și Catedrala primitoare. Drumul spre lacul Jamno arată atmosfera clară de iarnă, înainte de a încheia ziua în căldura centrului.",
+            "en": "Exploring Koszalin by car in winter is the most comfortable way to see the highlights. Start at the frosty Chełmska Hill with a panoramic winter view. In the center, festive lights and the warm Cathedral await. The drive to Lake Jamno shows the clear winter mood on the coast before finishing in the warm center."
+          },
+          "stops": [
+            {
+              "name": "Cluster Start: Parking at Góra Chełmska",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte auf der Auffahrt zum Bergparkplatz.",
+                "hu": "Vigyázz a csúszós szakaszokra a hegyi parkolóhoz vezető úton.",
+                "ro": "Atenție la porțiunile alunecoase pe drumul spre parcarea de pe deal.",
+                "en": "Watch out for slippery patches on the road to the hill parking."
+              }
+            },
+            {
+              "name": "Observation Tower on Góra Chełmska",
+              "tip_5lang": {
+                "de": "Bei klarer Winterluft reicht der Blick oft weit über die Ostsee hinaus.",
+                "hu": "A tiszta téli levegőben a kilátás gyakran messze túlnyúlik a tengeren.",
+                "ro": "În aerul clar de iarnă, vederea se întinde adesea mult peste mare.",
+                "en": "In the clear winter air, the view often extends far across the Baltic Sea."
+              }
+            },
+            {
+              "name": "City Center Cluster: Park and walk to the Cathedral",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze ermöglichen kurze Wege in die warme Kirche.",
+                "hu": "A központi parkolók rövid sétát tesznek lehetővé a meleg templomig.",
+                "ro": "Parcările centrale permit un drum scurt până în biserica încălzită.",
+                "en": "Central parking spots allow for a short walk to the warm church."
+              }
+            },
+            {
+              "name": "Town Hall and Market Square",
+              "tip_5lang": {
+                "de": "Die Winterbeleuchtung macht den Marktplatz am Nachmittag besonders sehenswert.",
+                "hu": "A téli kivilágítás délután teszi igazán látványossá a Főteret.",
+                "ro": "Iluminatul de iarnă face piața deosebit de frumoasă după-amiaza.",
+                "en": "The winter lighting makes the Market Square especially worth seeing in the afternoon."
+              }
+            },
+            {
+              "name": "Lake Cluster: Drive to Jamno Lake",
+              "tip_5lang": {
+                "de": "Genießen Sie die weite, oft gefrorene Fläche des Sees vom warmen Auto aus.",
+                "hu": "Élvezd a tó hatalmas, gyakran befagyott felszínét a meleg autóból.",
+                "ro": "Admirați suprafața vastă, adesea înghețată, a lacului din mașină.",
+                "en": "Enjoy the vast, often frozen surface of the lake from your warm car."
+              }
+            },
+            {
+              "name": "Return to Center for Dinner",
+              "tip_5lang": {
+                "de": "Finden Sie einen Parkplatz direkt vor Ihrem gewählten Restaurant.",
+                "hu": "Keress parkolót közvetlenül a választott étterem előtt.",
+                "ro": "Găsiți un loc de parcare chiar în fața restaurantului ales.",
+                "en": "Try to find a parking spot right in front of your chosen restaurant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind aufgrund von Küstenglätte in dieser Region zwingend.",
+              "Halten Sie Frostschutzmittel und einen Eiskratzer im Wagen bereit.",
+              "Die Bergstraße zum Gollenberg kann bei Schneefall herausfordernd sein.",
+              "Nutzen Sie die Sitzheizung, um sich zwischen den kurzen Außengängen zu wärmen."
+            ],
+            "hu": [
+              "A téli gumi kötelező a környéken a tengerparti fagyok miatt.",
+              "Legyen nálad jégoldó és jégkaparó az autóban.",
+              "A Chełmska-hegyre vezető út havazáskor kihívást jelenthet.",
+              "Használd az ülésfűtést a rövid kültéri séták közötti melegedéshez."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii din cauza poleiului de coastă.",
+              "Țineți în mașină lichid de parbriz de iarnă și o racletă.",
+              "Drumul spre dealul Chełmska poate fi dificil în caz de ninsoare.",
+              "Folosiți încălzirea în scaune pentru a vă încălzi între scurtele ieșiri."
+            ],
+            "en": [
+              "Winter tires are mandatory due to coastal ice in this region.",
+              "Keep antifreeze windshield fluid and an ice scraper in your car.",
+              "The hill road to Chełmska can be challenging during snowfall.",
+              "Use the seat heating to warm up between short outdoor walks."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1406,6 +1952,170 @@
           "Be aware that buses might run less frequently on weekends and in the evening.",
           "Keep your ticket handy as inspections are common."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus durch das regnerische Koszalin zu fahren, ist eine trockene und praktische Wahl. Starten Sie im Zentrum am Rathaus und nutzen Sie die kurzen Verbindungen zur Kathedrale. Der Bus bringt Sie bequem zum Park und zum Amphitheater, bevor Sie den Nachmittag im Museum verbringen. Den Abend beschließen Sie nach einer kurzen Busfahrt bei einem warmen Essen im Stadtzentrum.",
+            "hu": "Busszal közlekedni az esős Koszalinban száraz és praktikus választás. Kezdj a központban a Városházánál, és használd a rövid járatokat a Székesegyházhoz. A busz kényelmesen elvisz a parkhoz és az amfiteátrumhoz, mielőtt a délutánt a Múzeumban töltenéd. Az estét egy rövid buszozás után a belváros melegében zárhatod.",
+            "ro": "Călătoria cu autobuzul prin Koszalinul plouat este o alegere practică și uscată. Începeți în centru la Primărie și folosiți conexiunile spre Catedrală. Autobuzul vă duce confortabil la parc și amfiteatru, înainte de a petrece după-amiaza la muzeu. Încheiați seara în centrul primitor.",
+            "en": "Taking the bus through rainy Koszalin is a dry and practical choice. Start at the Town Hall and use short connections to reach the Cathedral. The bus takes you comfortably to the park and amphitheater before spending the afternoon in the Museum. End the day with a warm meal in the center."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Town Hall",
+              "tip_5lang": {
+                "de": "Warten Sie in der überdachten Bushaltestelle auf Ihren Anschluss.",
+                "hu": "Várj a fedett buszmegállóban a csatlakozásra.",
+                "ro": "Așteptați în stația de autobuz acoperită pentru conexiune.",
+                "en": "Wait in the covered bus stop for your connection if it rains."
+              }
+            },
+            {
+              "name": "Cathedral of the Immaculate Conception",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt direkt nebenan, so dass Sie kaum nass werden.",
+                "hu": "A megálló közvetlenül mellette van, így alig leszel vizes.",
+                "ro": "Stația este chiar lângă, astfel încât abia dacă vă veți uda.",
+                "en": "The bus stop is right next to it, so you'll hardly get wet."
+              }
+            },
+            {
+              "name": "Park Cluster: Bus to Pomeranian Dukes' Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die längeren Gehwege im nassen Park zu überspringen.",
+                "hu": "Használd a buszt, hogy kihagyd a hosszú gyaloglást a vizes parkban.",
+                "ro": "Folosiți autobuzul pentru a evita mersul lung prin parcul ud.",
+                "en": "Use the bus to skip longer walking distances in the wet park."
+              }
+            },
+            {
+              "name": "Amphitheater",
+              "tip_5lang": {
+                "de": "Ein kurzer Blick genügt bei Regen; der nächste Bus kommt bald.",
+                "hu": "Esőben elég egy rövid pillantás; a következő busz hamarosan jön.",
+                "ro": "O scurtă privire e suficientă pe ploaie; următorul autobuz vine curând.",
+                "en": "A quick look is enough in the rain; the next bus will arrive shortly."
+              }
+            },
+            {
+              "name": "Museum Cluster: Bus to the Museum in Koszalin",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor dem Museumseingang.",
+                "hu": "A busz szinte közvetlenül a múzeum bejárata előtt áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața intrării în muzeu.",
+                "en": "The bus stops almost directly in front of the museum entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die lokale Verkehrs-App herunter, um Echtzeit-Abfahrten zu sehen.",
+              "Ein Tagesticket lohnt sich, um flexibel zwischen den Schauern zu pendeln.",
+              "Warten Sie bei starkem Regen in Geschäften in der Nähe der Haltestellen.",
+              "Halten Sie Ihre Fahrkarte griffbereit, um schnell in den trockenen Bus zu steigen."
+            ],
+            "hu": [
+              "Töltsd le a helyi közlekedési appot a valós idejű indulásokhoz.",
+              "A napijegy megéri, hogy rugalmasan közlekedhess a záporok között.",
+              "Heves esőben várj a megálló közeli üzletekben.",
+              "Legyen kéznél a jegyed, hogy gyorsan felszállhass a száraz buszra."
+            ],
+            "ro": [
+              "Descărcați aplicația locală de transport pentru plecări în timp real.",
+              "Un bilet de o zi merită pentru a călători flexibil între averse.",
+              "În caz de ploaie torențială, așteptați în magazinele de lângă stații.",
+              "Țineți biletul la îndemână pentru a urca rapid în autobuzul uscat."
+            ],
+            "en": [
+              "Download the local transit app for real-time bus departures.",
+              "A day ticket is worth it for flexible commuting between rain showers.",
+              "In case of heavy rain, wait in shops near the bus stops.",
+              "Keep your ticket ready to board the dry bus quickly."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Bus ist im Winter in Koszalin ein warmer Rückzugsort zwischen den Sehenswürdigkeiten. Starten Sie am Rathaus unter festlichen Lichtern und fahren Sie zur Kathedrale. Der beheizte Bus bringt Sie zum winterlichen Park und zum Amphitheater, bevor Sie sich im Museum aufwärmen. Beenden Sie den Tag bequem mit einer kurzen Fahrt zurück in das beleuchtete Stadtzentrum.",
+            "hu": "A busz télen Koszalinban meleg menedéket nyújt a látnivalók között. Kezdj a Városházánál az ünnepi fények alatt, majd utazz a Székesegyházhoz. A fűtött busz elvisz a téli parkhoz és az amfiteátrumhoz, mielőtt a Múzeumban melegednél fel. Zárd a napot kényelmesen a kivilágított belvárosba való visszautazással.",
+            "ro": "Autobuzul este iarna în Koszalin un refugiu călduros între obiective. Începeți la Primărie sub lumini festive și mergeți spre Catedrală. Autobuzul încălzit vă duce la parcul de iarnă și amfiteatru, înainte de a vă încălzi la muzeu. Încheiați ziua confortabil cu o călătorie spre centru.",
+            "en": "The bus in winter Koszalin is a warm retreat between sightseeing spots. Start at the Town Hall under festive lights and head to the Cathedral. The heated bus takes you to the winter park and amphitheater before warming up at the Museum. Finish the day comfortably with a trip back to the center."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Town Hall",
+              "tip_5lang": {
+                "de": "Die Haltestellen im Zentrum sind im Winter oft gut beleuchtet und sicher.",
+                "hu": "A központi megállók télen jól kivilágítottak és biztonságosak.",
+                "ro": "Stațiile din centru sunt adesea bine iluminate și sigure iarna.",
+                "en": "The central bus stops are often well-lit and safe during winter."
+              }
+            },
+            {
+              "name": "Cathedral of the Immaculate Conception",
+              "tip_5lang": {
+                "de": "Die kurze Wartezeit an der Haltestelle minimiert die Kältebelastung.",
+                "hu": "A rövid várakozási idő a megállóban minimalizálja a hideget.",
+                "ro": "Timpul scurt de așteptare în stație minimizează expunerea la frig.",
+                "en": "The short waiting time at the stop minimizes your exposure to the cold."
+              }
+            },
+            {
+              "name": "Park Cluster: Bus to Pomeranian Dukes' Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die frostige Stadt aus dem warmen Bus.",
+                "hu": "Élvezd a kilátást a fagyos városra a meleg buszból.",
+                "ro": "Bucurați-vă de vederea orașului înghețat din autobuzul încălzit.",
+                "en": "Enjoy the view of the frosty city from the warmth of the bus."
+              }
+            },
+            {
+              "name": "Amphitheater",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um schnell vom kalten Park ins Museum zu kommen.",
+                "hu": "Használd a buszt, hogy gyorsan átérj a hideg parkból a múzeumba.",
+                "ro": "Folosiți autobuzul pentru a ajunge rapid din parcul rece la muzeu.",
+                "en": "Use the bus to get quickly from the cold park to the museum."
+              }
+            },
+            {
+              "name": "Museum Cluster: Bus to the Museum in Koszalin",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nah am Museum, ideal bei winterlichem Frost.",
+                "hu": "A megálló közel van a múzeumhoz, ideális téli fagyban.",
+                "ro": "Stația este aproape de muzeu, ideal în caz de ger de iarnă.",
+                "en": "The stop is close to the museum, ideal during winter frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie die Winterfahrpläne, da es zu wetterbedingten Verzögerungen kommen kann.",
+              "Die Busse sind in der Regel gut beheizt; ideal zum Aufwärmen der Füße.",
+              "Nutzen Sie die App 'Jakdojade' für die beste Routenplanung im Winter.",
+              "Warten Sie bei Dunkelheit an gut beleuchteten Bushaltestellen im Zentrum."
+            ],
+            "hu": [
+              "Figyeld a téli menetrendet, mert az időjárás miatt lehetnek késések.",
+              "A buszok általában jól fűtöttek; ideális a lábak felmelegítésére.",
+              "Használd a 'Jakdojade' alkalmazást a legjobb téli útvonaltervezéshez.",
+              "Sötétedés után várj a jól kivilágított belvárosi megállókban."
+            ],
+            "ro": [
+              "Verificați orarele de iarnă, pot apărea întârzieri din cauza vremii.",
+              "Autobuzele sunt de regulă bine încălzite; ideal pentru încălzirea picioarelor.",
+              "Folosiți aplicația 'Jakdojade' pentru cea mai bună planificare iarna.",
+              "Așteptați în stațiile bine iluminate din centru după lăsarea întunericului."
+            ],
+            "en": [
+              "Check winter schedules as there might be weather-related delays.",
+              "Buses are generally well-heated; ideal for warming up your feet.",
+              "Use the 'Jakdojade' app for the best route planning in winter.",
+              "Wait at well-lit bus stops in the center after darkness falls."
+            ]
+          }
+        }
       }
     }
   }

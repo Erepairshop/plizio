@@ -1,0 +1,1088 @@
+{
+  "city_id": "city-shkoder",
+  "anchor": {
+    "name": "Shkodra",
+    "coords": [
+      19.5126,
+      42.0683
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:14",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Kole-Idromeno-Straße",
+          "coords": [
+            19.5126,
+            42.0683
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für einen Morgenkaffee in der Fußgängerzone.",
+            "hu": "Tökéletes egy reggeli kávéhoz a sétálóutcán.",
+            "ro": "Perfect pentru o cafea de dimineață pe strada pietonală.",
+            "en": "Perfect for a morning coffee on the pedestrian street."
+          }
+        },
+        {
+          "name": "Marubi-Fotomuseum",
+          "coords": [
+            19.512,
+            42.069
+          ],
+          "category": "museums",
+          "arrive_at": "09:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bietet über 500.000 historische Fotografien ab 1858.",
+            "hu": "Több mint 500 000 történelmi fotót őriz 1858-tól.",
+            "ro": "Găzduiește peste 500.000 de fotografii istorice din 1858.",
+            "en": "Houses over 500,000 historical photographs dating back to 1858."
+          }
+        },
+        {
+          "name": "Ebu-Beker-Moschee",
+          "coords": [
+            19.5135,
+            42.0675
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt, angemessene Kleidung erforderlich.",
+            "hu": "Központi találkozóhely, megfelelő öltözet szükséges.",
+            "ro": "Punct de întâlnire central, este necesară o ținută adecvată.",
+            "en": "Central meeting point, appropriate dress required."
+          }
+        },
+        {
+          "name": "St.-Stephans-Kathedrale",
+          "coords": [
+            19.518,
+            42.066
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Eine der größten Kathedralen des Balkans, 1898 geweiht.",
+            "hu": "A Balkán egyik legnagyobb katedrálisa, 1898-ban szentelték fel.",
+            "ro": "Una dintre cele mai mari catedrale din Balcani, sfințită în 1898.",
+            "en": "One of the largest cathedrals in the Balkans, consecrated in 1898."
+          }
+        },
+        {
+          "name": "Burg Rozafa",
+          "coords": [
+            19.4938,
+            42.0475
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 64,
+          "hop_from_prev_km": 3.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Steiler Aufstieg, fantastischer Panoramablick auf den See.",
+            "hu": "Meredek emelkedő, fantasztikus panoráma a tóra.",
+            "ro": "Urcare abruptă, vedere panoramică fantastică la lac.",
+            "en": "Steep climb, fantastic panoramic view of the lake."
+          }
+        },
+        {
+          "name": "Bleimoschee",
+          "coords": [
+            19.496,
+            42.045
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "16:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Liegt malerisch unterhalb der Burg in der Flutebene.",
+            "hu": "Festői környezetben fekszik a vár alatt, az ártéren.",
+            "ro": "Situată pitoresc sub castel, în câmpia inundabilă.",
+            "en": "Picturesquely located below the castle in the floodplain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag beginnt in der belebten Fußgängerzone von Shkodra, gefolgt von einem tiefen Einblick in die albanische Geschichte im Marubi-Fotomuseum. Mittags erkunden Sie das religiöse Zentrum der Stadt mit seinen bedeutenden Moscheen und der großen Kathedrale. Am Nachmittag bewältigen Sie den längeren Spaziergang hinauf zur Burg Rozafa, um die Legende der eingemauerten Frau zu entdecken. Der Tag endet an der historischen Bleimoschee am Fuße des Burgbergs.",
+        "hu": "A délelőtt Shkodra nyüzsgő sétálóutcáján indul, majd a Marubi Fotómúzeumban mélyedünk el az albán történelemben. Délben a város vallási központját fedezzük fel, megnézve a jelentős mecseteket és a hatalmas katedrálist. Délután egy hosszabb séta vár ránk a Rozafa-várhoz, ahol megismerjük a befalazott asszony legendáját. A nap a hegy lábánál fekvő történelmi Ólommecsetnél zárul.",
+        "ro": "Dimineața începe pe strada pietonală plină de viață din Shkodra, urmată de o incursiune în istoria albaneză la Muzeul de Fotografie Marubi. La prânz explorați centrul religios al orașului cu moscheile sale importante și catedrala mare. După-amiaza faceți o plimbare mai lungă până la Castelul Rozafa pentru a descoperi legenda femeii zidite. Ziua se încheie la istorica Moschee de Plumb de la poalele dealului.",
+        "en": "The morning begins on Shkodra's bustling pedestrian street, followed by a deep dive into Albanian history at the Marubi Photo Museum. At midday, explore the city's religious center with its significant mosques and large cathedral. In the afternoon, tackle the longer walk up to Rozafa Castle to discover the legend of the walled-in woman. The day ends at the historic Lead Mosque at the foot of the hill."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Tradita Geg & Tosk",
+            "tip": "Traditionelles Tave Krapi (Karpfenauflauf)."
+          },
+          {
+            "name": "Puri",
+            "tip": "Moderne albanische Küche im Zentrum."
+          },
+          {
+            "name": "Sofra e Ariut",
+            "tip": "Gegrilltes Fleisch und Fërgesë."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tradita Geg & Tosk",
+            "tip": "Hagyományos Tave Krapi (pontyos egytálétel)."
+          },
+          {
+            "name": "Puri",
+            "tip": "Modern albán konyha a központban."
+          },
+          {
+            "name": "Sofra e Ariut",
+            "tip": "Grillezett húsok és Fërgesë."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tradita Geg & Tosk",
+            "tip": "Tave Krapi tradițional (crap la cuptor)."
+          },
+          {
+            "name": "Puri",
+            "tip": "Bucătărie albaneză modernă în centru."
+          },
+          {
+            "name": "Sofra e Ariut",
+            "tip": "Carne la grătar și Fërgesë."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tradita Geg & Tosk",
+            "tip": "Traditional Tave Krapi (carp casserole)."
+          },
+          {
+            "name": "Puri",
+            "tip": "Modern Albanian cuisine in the center."
+          },
+          {
+            "name": "Sofra e Ariut",
+            "tip": "Grilled meats and Fërgesë."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Burg Rozafa Aussichtspunkt",
+            "tip": "Blick auf drei Flüsse und den See.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stadtpark",
+            "tip": "Grüne Oase nahe dem Zentrum.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rozafa-vár kilátópont",
+            "tip": "Kilátás három folyóra és a tóra.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Városliget",
+            "tip": "Zöld oázis a központ közelében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Castelul Rozafa",
+            "tip": "Vedere asupra a trei râuri și a lacului.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul orașului",
+            "tip": "Oază verde lângă centru.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rozafa Castle Viewpoint",
+            "tip": "View of three rivers and the lake.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "City Park",
+            "tip": "Green oasis near the center.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kole-Idromeno-Straße",
+            "tip": "Boutiquen und lokale Handwerkskunst."
+          },
+          {
+            "name": "Zadrima Textilien",
+            "tip": "Traditionelle handgewebte Stoffe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kole-Idromeno sétálóutca",
+            "tip": "Boutique-ok és helyi kézműves termékek."
+          },
+          {
+            "name": "Zadrima textilek",
+            "tip": "Hagyományos, kézzel szőtt anyagok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Strada Kole-Idromeno",
+            "tip": "Buticuri și meșteșuguri locale."
+          },
+          {
+            "name": "Textile Zadrima",
+            "tip": "Țesături tradiționale țesute manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kole-Idromeno Street",
+            "tip": "Boutiques and local crafts."
+          },
+          {
+            "name": "Zadrima Textiles",
+            "tip": "Traditional hand-woven fabrics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den steilen Aufstieg zur Burg.",
+          "Die Straßen im Zentrum sind autofrei und ideal zum Flanieren.",
+          "Im Sommer kann es sehr heiß werden, nehmen Sie ausreichend Wasser mit.",
+          "Respektieren Sie die Kleiderordnung beim Betreten religiöser Stätten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a várhoz vezető meredek úthoz.",
+          "A központ utcái autómentesek és ideálisak a sétáláshoz.",
+          "Nyáron nagyon meleg lehet, vigyen magával elegendő vizet.",
+          "Tartsa tiszteletben az öltözködési szabályokat a vallási helyszíneken."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru urcarea abruptă la castel.",
+          "Străzile din centru sunt pietonale și ideale pentru plimbare.",
+          "Vara poate fi foarte cald, luați cu dumneavoastră suficientă apă.",
+          "Respectați codul vestimentar atunci când intrați în lăcașuri de cult."
+        ],
+        "en": [
+          "Wear comfortable shoes for the steep climb to the castle.",
+          "The streets in the center are car-free and ideal for strolling.",
+          "It can get very hot in summer, carry enough water with you.",
+          "Respect the dress code when entering religious sites."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 11.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Kole-Idromeno-Straße",
+          "coords": [
+            19.5126,
+            42.0683
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrräder müssen in der Fußgängerzone teilweise geschoben werden.",
+            "hu": "A kerékpárokat a sétálóutcán néhol tolni kell.",
+            "ro": "Bicicletele trebuie uneori împinse în zona pietonală.",
+            "en": "Bicycles must sometimes be pushed in the pedestrian zone."
+          }
+        },
+        {
+          "name": "Ebu-Beker-Moschee",
+          "coords": [
+            19.5135,
+            42.0675
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kurzer Stopp, um die Architektur zu bewundern.",
+            "hu": "Rövid megálló az építészet megcsodálására.",
+            "ro": "Oprire scurtă pentru a admira arhitectura.",
+            "en": "Short stop to admire the architecture."
+          }
+        },
+        {
+          "name": "St.-Stephans-Kathedrale",
+          "coords": [
+            19.518,
+            42.066
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Fahrradständer in der Nähe des Haupteingangs.",
+            "hu": "Kerékpártároló a főbejárat közelében.",
+            "ro": "Suporturi pentru biciclete lângă intrarea principală.",
+            "en": "Bicycle racks near the main entrance."
+          }
+        },
+        {
+          "name": "Burg Rozafa",
+          "coords": [
+            19.4938,
+            42.0475
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Auffahrt ist steil und steinig, Vorsicht beim Bremsen.",
+            "hu": "Az út meredek és köves, óvatosan a fékezéssel.",
+            "ro": "Urcarea este abruptă și stâncoasă, atenție la frânare.",
+            "en": "The climb is steep and rocky, careful when braking."
+          }
+        },
+        {
+          "name": "Bleimoschee",
+          "coords": [
+            19.496,
+            42.045
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Leicht erreichbar im flachen Gelände unter der Burg.",
+            "hu": "Könnyen elérhető a sík terepen a vár alatt.",
+            "ro": "Ușor accesibil pe teren plat sub castel.",
+            "en": "Easily accessible on flat terrain below the castle."
+          }
+        },
+        {
+          "name": "Skutarisee",
+          "coords": [
+            19.455,
+            42.065
+          ],
+          "category": "natural features",
+          "arrive_at": "14:29",
+          "stay_min": 180,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Die Fahrt nach Shiroka ist ein beliebter Radweg am Ufer.",
+            "hu": "A Shiroka felé vezető út egy népszerű tóparti kerékpárút.",
+            "ro": "Plimbarea spre Shiroka este un traseu popular pe malul lacului.",
+            "en": "The ride to Shiroka is a popular lakeside bike path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Shkodra deutlich effizienter. Nach einer Runde durch die Altstadt und zu den großen Sakralbauten radeln Sie gemütlich in Richtung Süden zur eindrucksvollen Burg Rozafa. Die historische Bleimoschee liegt direkt auf dem Weg. Am Nachmittag bringt Sie eine malerische Fahrt entlang der Uferstraße in das Dorf Shiroka am Skutarisee, wo Sie den Tag bei Fischspezialitäten ausklingen lassen.",
+        "hu": "Kerékpárral sokkal hatékonyabban fedezheti fel Shkodrát. Az óvárosi és a nagy templomoknál tett kör után kényelmesen dél felé pedálozunk az impozáns Rozafa-várhoz. A történelmi Ólommecset közvetlenül az útvonalon fekszik. Délután egy festői tekerés következik a tóparti úton Shiroka faluba, ahol halspecialitásokkal zárhatja a napot.",
+        "ro": "Cu bicicleta veți explora Shkodra mult mai eficient. După un tur prin orașul vechi și pe la marile clădiri sacre, pedalați spre sud către impresionantul Castel Rozafa. Istorica Moschee de Plumb se află chiar pe traseu. După-amiaza, o plimbare pitorească de-a lungul drumului de coastă vă duce în satul Shiroka de pe Lacul Skadar, unde vă puteți încheia ziua cu specialități din pește.",
+        "en": "By bike, you explore Shkodra much more efficiently. After a loop through the old town and to the major sacred buildings, pedal south to the impressive Rozafa Castle. The historic Lead Mosque is right on the route. In the afternoon, a picturesque ride along the coastal road takes you to the village of Shiroka on Lake Skadar, where you can end the day with fish specialties."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Shiroka Restaurants",
+            "tip": "Perfekt für frischen Karpfen aus dem See."
+          },
+          {
+            "name": "Vila Bekteshi",
+            "tip": "Traditionelles Essen im Zentrum vor der Weiterfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Shiroka éttermek",
+            "tip": "Tökéletes a tóból fogott friss pontyhoz."
+          },
+          {
+            "name": "Vila Bekteshi",
+            "tip": "Hagyományos ételek a központban a továbbindulás előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurante Shiroka",
+            "tip": "Perfect pentru crap proaspăt din lac."
+          },
+          {
+            "name": "Vila Bekteshi",
+            "tip": "Mâncare tradițională în centru înainte de a merge mai departe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shiroka Restaurants",
+            "tip": "Perfect for fresh carp from the lake."
+          },
+          {
+            "name": "Vila Bekteshi",
+            "tip": "Traditional food in the center before moving on."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Shiroka Promenade",
+            "tip": "Sonnenuntergang am Skutarisee.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Shiroka sétány",
+            "tip": "Naplemente a Shkodrai-tónál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Shiroka",
+            "tip": "Apus de soare pe Lacul Skadar.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shiroka Promenade",
+            "tip": "Sunset on Lake Skadar.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Zentrum Shkodra",
+            "tip": "Handgemachte Souvenirs vor der Radtour kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Shkodra központ",
+            "tip": "Kézzel készített szuvenírek vásárlása a kerékpártúra előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Shkodra",
+            "tip": "Cumpărați suveniruri lucrate manual înainte de turul cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Shkodra Center",
+            "tip": "Buy handmade souvenirs before the bike tour."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Shkodra ist als Fahrradhauptstadt Albaniens bekannt, rechnen Sie mit vielen Radfahrern.",
+          "Die Straße nach Shiroka ist gut ausgebaut, aber achten Sie auf Autos.",
+          "Schließen Sie Ihr Fahrrad an der Burg gut ab."
+        ],
+        "hu": [
+          "Shkodra Albánia kerékpáros fővárosaként ismert, számítson sok bringásra.",
+          "A Shiroka felé vezető út jól kiépített, de ügyeljen az autókra.",
+          "Jól zárja le a kerékpárját a várnál."
+        ],
+        "ro": [
+          "Shkodra este cunoscută ca și capitala bicicletelor din Albania, așteptați-vă la mulți bicicliști.",
+          "Drumul spre Shiroka este bine dezvoltat, dar atenție la mașini.",
+          "Încuiați bine bicicleta la castel."
+        ],
+        "en": [
+          "Shkodra is known as the bicycle capital of Albania, expect many cyclists.",
+          "The road to Shiroka is well developed, but watch out for cars.",
+          "Lock your bike securely at the castle."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:22",
+      "total_km": 24.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Kole-Idromeno-Straße",
+          "coords": [
+            19.5126,
+            42.0683
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Rand der Fußgängerzone.",
+            "hu": "Parkoljon a sétálóutca szélén.",
+            "ro": "Parcați la marginea zonei pietonale.",
+            "en": "Park on the edge of the pedestrian zone."
+          }
+        },
+        {
+          "name": "Marubi-Fotomuseum",
+          "coords": [
+            19.512,
+            42.069
+          ],
+          "category": "museums",
+          "arrive_at": "09:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten vom Parkplatz im Zentrum entfernt.",
+            "hu": "Csak néhány perc sétára a központi parkolótól.",
+            "ro": "La doar câteva minute de mers pe jos de parcarea din centru.",
+            "en": "Just a few minutes walk from the central parking lot."
+          }
+        },
+        {
+          "name": "Mesi-Brücke",
+          "coords": [
+            19.5745,
+            42.1145
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "11:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Historische osmanische Brücke aus dem 18. Jahrhundert, kurzer Fotostopp.",
+            "hu": "18. századi történelmi oszmán híd, rövid fotómegálló.",
+            "ro": "Pod otoman istoric din secolul al XVIII-lea, scurtă oprire pentru fotografii.",
+            "en": "Historical Ottoman bridge from the 18th century, short photo stop."
+          }
+        },
+        {
+          "name": "Burg Rozafa",
+          "coords": [
+            19.4938,
+            42.0475
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 10.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parkplatz direkt unterhalb der Burgmauern verfügbar.",
+            "hu": "Parkoló közvetlenül a várfalak alatt elérhető.",
+            "ro": "Parcare disponibilă direct sub zidurile castelului.",
+            "en": "Parking available right below the castle walls."
+          }
+        },
+        {
+          "name": "Bleimoschee",
+          "coords": [
+            19.496,
+            42.045
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Burgparkplatz bergab.",
+            "hu": "Rövid séta lefelé a vár parkolójából.",
+            "ro": "Scurtă plimbare la vale de la parcarea castelului.",
+            "en": "Short walk downhill from the castle parking lot."
+          }
+        },
+        {
+          "name": "Skutarisee",
+          "coords": [
+            19.455,
+            42.065
+          ],
+          "category": "natural features",
+          "arrive_at": "14:52",
+          "stay_min": 180,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Ideal für ein spätes Mittagessen oder einen Bootsausflug.",
+            "hu": "Ideális egy késői ebédhez vagy hajókiránduláshoz.",
+            "ro": "Ideal pentru un prânz târziu sau o excursie cu barca.",
+            "en": "Ideal for a late lunch or a boat trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Tagestrip nutzt das Auto perfekt für die weiter entfernten Highlights. Nach einem Rundgang durch das fußgängerfreundliche Zentrum fahren Sie zur beeindruckenden Mesi-Brücke außerhalb der Stadt. Anschließend geht es zur massiven Burg Rozafa, von wo aus Sie bequem zur Bleimoschee hinabspazieren. Den späten Nachmittag verbringen Sie am Ufer des Skutarisees in Shiroka, wo Sie entspannen und essen können.",
+        "hu": "Ez az útvonal tökéletesen kihasználja az autót a távolabbi látnivalókhoz. A gyalogosbarát központ bejárása után a városon kívüli lenyűgöző Mesi-hídhoz hajtunk. Ezután a hatalmas Rozafa-vár következik, ahonnan kényelmesen lesétálhatunk az Ólommecsethez. A késő délutánt a Shkodrai-tó partján, Shirokában töltjük, ahol pihenhetünk és étkezhetünk.",
+        "ro": "Această excursie de o zi folosește perfect mașina pentru atracțiile mai îndepărtate. După un tur prin centrul prietenos cu pietonii, conduceți până la impresionantul Pod Mesi din afara orașului. Apoi mergeți la masivul Castel Rozafa, de unde vă puteți plimba ușor până la Moscheea de Plumb. Vă petreceți după-amiaza târziu pe malul Lacului Skadar în Shiroka, unde vă puteți relaxa și mânca.",
+        "en": "This day trip uses the car perfectly for the more distant highlights. After a tour of the pedestrian-friendly center, drive to the impressive Mes Bridge outside the city. Then head to the massive Rozafa Castle, from where you can easily walk down to the Lead Mosque. Spend the late afternoon on the shores of Lake Skadar in Shiroka, where you can relax and dine."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restorant Shqiponja (Shiroka)",
+            "tip": "Traditionelle Fischgerichte direkt am See."
+          },
+          {
+            "name": "Artizan",
+            "tip": "Hochwertige lokale Küche in Shkodra."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restorant Shqiponja (Shiroka)",
+            "tip": "Hagyományos halételek közvetlenül a tónál."
+          },
+          {
+            "name": "Artizan",
+            "tip": "Kiváló minőségű helyi konyha Shkodrában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restorant Shqiponja (Shiroka)",
+            "tip": "Mâncăruri tradiționale din pește chiar pe lac."
+          },
+          {
+            "name": "Artizan",
+            "tip": "Bucătărie locală de înaltă calitate în Shkodra."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restorant Shqiponja (Shiroka)",
+            "tip": "Traditional fish dishes right on the lake."
+          },
+          {
+            "name": "Artizan",
+            "tip": "High quality local cuisine in Shkodra."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mesi-Brücke Umgebung",
+            "tip": "Ruhiger Ort am Fluss Kir.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Skutarisee Ufer",
+            "tip": "Entspannte Stimmung am Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mesi-híd környéke",
+            "tip": "Csendes hely a Kir folyónál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Shkodrai-tó partja",
+            "tip": "Nyugodt hangulat a vízparton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Împrejurimile Podului Mesi",
+            "tip": "Loc liniștit pe râul Kir.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Malul Lacului Skadar",
+            "tip": "Atmosferă relaxată pe apă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mes Bridge surroundings",
+            "tip": "Quiet place on the Kir river.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Lake Skadar shore",
+            "tip": "Relaxed atmosphere by the water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Venezianische Maskenfabrik",
+            "tip": "Einzigartige handgemachte Masken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Velencei Maszkgyár",
+            "tip": "Egyedi, kézzel készített maszkok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fabrica de măști venețiene",
+            "tip": "Măști unice lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Venetian Mask Factory",
+            "tip": "Unique handmade masks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Fahren in Shkodra erfordert etwas Geduld, viele Radfahrer teilen sich die Straße.",
+          "Parkplätze in Shiroka können am Wochenende knapp werden.",
+          "Die Straße zur Burg ist eng und steil."
+        ],
+        "hu": [
+          "A shkodrai vezetés türelmet igényel, sok kerékpáros osztozik az utakon.",
+          "Shirokában hétvégén kevés lehet a parkolóhely.",
+          "A várhoz vezető út szűk és meredek."
+        ],
+        "ro": [
+          "Condusul în Shkodra necesită răbdare, mulți bicicliști împart drumul.",
+          "Locurile de parcare în Shiroka pot fi limitate în weekend.",
+          "Drumul spre castel este îngust și abrupt."
+        ],
+        "en": [
+          "Driving in Shkodra requires patience, many cyclists share the road.",
+          "Parking spaces in Shiroka can be scarce on weekends.",
+          "The road to the castle is narrow and steep."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Kole-Idromeno-Straße",
+          "coords": [
+            19.5126,
+            42.0683
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Startpunkt im Herzen der Stadt.",
+            "hu": "Kiindulópont a város szívében.",
+            "ro": "Punct de plecare în inima orașului.",
+            "en": "Starting point in the heart of the city."
+          }
+        },
+        {
+          "name": "Marubi-Fotomuseum",
+          "coords": [
+            19.512,
+            42.069
+          ],
+          "category": "museums",
+          "arrive_at": "09:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Befindet sich direkt an der Fußgängerzone.",
+            "hu": "Közvetlenül a sétálóutcán található.",
+            "ro": "Situat direct pe zona pietonală.",
+            "en": "Located right on the pedestrian zone."
+          }
+        },
+        {
+          "name": "Ebu-Beker-Moschee",
+          "coords": [
+            19.5135,
+            42.0675
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein prächtiges Gebäude aus der Zeit der Neu-Errichtung.",
+            "hu": "Egy pompás épület az újjáépítés idejéből.",
+            "ro": "O clădire magnifică din perioada reconstrucției.",
+            "en": "A magnificent building from the time of reconstruction."
+          }
+        },
+        {
+          "name": "Historisches Museum",
+          "coords": [
+            19.514,
+            42.065
+          ],
+          "category": "museums",
+          "arrive_at": "12:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bietet Einblicke in archäologische Funde der Region.",
+            "hu": "Bepillantást enged a régió régészeti leleteibe.",
+            "ro": "Oferă informații despre descoperirile arheologice din regiune.",
+            "en": "Offers insights into archaeological finds in the region."
+          }
+        },
+        {
+          "name": "Burg Rozafa",
+          "coords": [
+            19.4938,
+            42.0475
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Nehmen Sie den lokalen Bus in Richtung Süden.",
+            "hu": "Vegye igénybe a helyi buszt dél felé.",
+            "ro": "Luați autobuzul local spre sud.",
+            "en": "Take the local bus heading south."
+          }
+        },
+        {
+          "name": "Bleimoschee",
+          "coords": [
+            19.496,
+            42.045
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "15:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 0.8,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss unterhalb der Burg, zu Fuß erreichbar.",
+            "hu": "Szép zárás a vár alatt, gyalog megközelíthető.",
+            "ro": "O concluzie frumoasă sub castel, la distanță de mers pe jos.",
+            "en": "A beautiful conclusion below the castle, within walking distance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fokus auf die innerstädtischen Highlights verbringen Sie den Morgen entspannt zu Fuß im Zentrum. Sie erkunden die Fußgängerzone, das Fotomuseum und die Hauptmoschee, bevor Sie in die archäologische Geschichte im Historischen Museum eintauchen. Am frühen Nachmittag nutzen Sie den städtischen Busverkehr, um die majestätische Burg Rozafa am Stadtrand zu erreichen, gefolgt von einem kurzen Spaziergang zur Bleimoschee.",
+        "hu": "A belvárosi látnivalókra összpontosítva a délelőttöt nyugodtan, gyalog töltjük a központban. Felfedezzük a sétálóutcát, a fotómúzeumot és a fő mecsetet, mielőtt elmerülnénk a régészeti múltban a Történeti Múzeumban. Kora délután a helyi buszjárattal jutunk el a város szélén magasodó Rozafa-várhoz, majd egy rövid sétával az Ólommecsethez.",
+        "ro": "Concentrându-vă pe atracțiile din interiorul orașului, vă petreceți dimineața pe îndelete, pe jos, în centru. Explorați zona pietonală, muzeul de fotografie și moscheea principală înainte de a vă scufunda în istoria arheologică la Muzeul Istoric. La începutul după-amiezii folosiți autobuzul orașului pentru a ajunge la maiestuosul Castel Rozafa de la marginea orașului, urmat de o scurtă plimbare la Moscheea de Plumb.",
+        "en": "Focusing on the inner-city highlights, spend the morning relaxing on foot in the center. Explore the pedestrian zone, the photo museum, and the main mosque before diving into archaeological history at the Historical Museum. In the early afternoon, use the city bus to reach the majestic Rozafa Castle on the outskirts, followed by a short walk to the Lead Mosque."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Peja Grill",
+            "tip": "Schnelles, lokales Essen nahe dem Zentrum."
+          },
+          {
+            "name": "San Francisco",
+            "tip": "Gute Mischung aus lokaler und internationaler Küche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Peja Grill",
+            "tip": "Gyors, helyi étel a központ közelében."
+          },
+          {
+            "name": "San Francisco",
+            "tip": "Helyi és nemzetközi konyha jó keveréke."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peja Grill",
+            "tip": "Mâncare locală, rapidă, aproape de centru."
+          },
+          {
+            "name": "San Francisco",
+            "tip": "O combinație bună de bucătărie locală și internațională."
+          }
+        ],
+        "en": [
+          {
+            "name": "Peja Grill",
+            "tip": "Fast, local food near the center."
+          },
+          {
+            "name": "San Francisco",
+            "tip": "Good mix of local and international cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park in der Nähe der Ebu-Beker-Moschee",
+            "tip": "Eine kurze Pause im Schatten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park az Ebu-Beker mecset közelében",
+            "tip": "Rövid pihenő az árnyékban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parc lângă Moscheea Ebu-Beker",
+            "tip": "O scurtă pauză la umbră.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park near the Ebu-Beker Mosque",
+            "tip": "A short break in the shade.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt (Gjuhadol)",
+            "tip": "Frische Produkte und kleine Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac (Gjuhadol)",
+            "tip": "Friss termékek és apró szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală (Gjuhadol)",
+            "tip": "Produse proaspete și mici suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market (Gjuhadol)",
+            "tip": "Fresh produce and small souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bustickets kauft man meistens direkt im Bus beim Schaffner.",
+          "Die Fahrpläne sind nicht immer minutenstreng, planen Sie etwas Puffer ein.",
+          "Viele Sehenswürdigkeiten im Zentrum lassen sich leicht zu Fuß verbinden."
+        ],
+        "hu": [
+          "Buszjegyet általában közvetlenül a buszon a kalauztól lehet venni.",
+          "A menetrendek nem mindig percre pontosak, számoljon némi ráhagyással.",
+          "A központban lévő sok látnivaló könnyen összeköthető gyalog."
+        ],
+        "ro": [
+          "De obicei, cumpărați bilete de autobuz direct din autobuz de la taxator.",
+          "Orarele nu sunt întotdeauna stricte la minut, planificați un anumit timp de rezervă.",
+          "Multe atracții din centru pot fi conectate cu ușurință pe jos."
+        ],
+        "en": [
+          "You usually buy bus tickets directly on the bus from the conductor.",
+          "Timetables are not always strictly to the minute, plan some buffer time.",
+          "Many sights in the center can easily be connected on foot."
+        ]
+      }
+    }
+  }
+}

@@ -342,6 +342,188 @@
           "Most shops take a siesta during the hottest part of the day.",
           "Be respectful of the quiet atmosphere in churches and dress appropriately."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir die Altstadt unter dem Schutz der Arkaden. Mittags bietet der Fluss ein melancholisches Bild im Regen, während wir in ein lokales Café am Ufer flüchten. Nachmittags besuchen wir die Kirchen und den Hafen von Melikia, wo die Fischer ihre Netze flicken. Den Abend lassen wir bei einem Glas Wein in einer gemütlichen Taverne ausklingen, weit weg von der Nässe.",
+            "hu": "Reggel az óváros szűk utcáin sétálunk, kihasználva a boltívek nyújtotta védelmet. Délben a folyóparti kávézók egyikében pihenünk meg a szemerkélő esőben. Délután a templomok belső terét és Melikia kikötőjét látogatjuk meg, ahol ilyenkor is zajlik az élet. Az estét egy barátságos helyi taverna oltalmában töltjük, élvezve a görög vendégszeretetet és a forró ételeket.",
+            "ro": "Dimineața explorăm orașul vechi la adăpostul arcadelor. La prânz, râul oferă o priveliște melancolică în ploaie, în timp ce ne refugiem într-o cafenea locală de pe mal. După-amiaza vizităm bisericile și portul Melikia, unde pescarii își repară plasele sub copertine. Seara ne retragem într-o tavernă primitoare, savurând un pahar de vin departe de umezeala de afară.",
+            "en": "In the morning we explore the old town under the protection of the arches. At noon, the river offers a melancholic sight in the rain while we escape into a local cafe on the bank. In the afternoon we visit the churches and the port of Melikia, where fishermen mend their nets. We end the evening in a cozy tavern, enjoying Greek hospitality and warm food away from the wet."
+          },
+          "stops": [
+            {
+              "name": "Lefkimmi Old Town",
+              "tip_4lang": {
+                "de": "Nutzen Sie die schmalen Gassen und Arkaden als natürlichen Regenschutz.",
+                "hu": "Használja a szűk utcákat és árkádokat természetes esővédőként.",
+                "ro": "Folosiți străzile înguste și arcadele ca protecție naturală împotriva ploii.",
+                "en": "Use the narrow streets and arches as natural rain protection."
+              }
+            },
+            {
+              "name": "Lefkimmi River",
+              "tip_4lang": {
+                "de": "Die Cafés am Flussufer bieten gemütliche, überdachte Sitzplätze.",
+                "hu": "A folyóparti kávézók kényelmes, fedett ülőhelyeket kínálnak.",
+                "ro": "Cafenelele de pe malul râului oferă locuri acoperite și primitoare.",
+                "en": "The cafes along the riverbank offer cozy, covered seating."
+              }
+            },
+            {
+              "name": "Agios Arsenios Church",
+              "tip_4lang": {
+                "de": "Ein idealer Ort für eine trockene Pause und spirituelle Ruhe.",
+                "hu": "Ideális hely egy száraz pihenőhöz és lelki nyugalomhoz.",
+                "ro": "Un loc ideal pentru o pauză uscată și liniște spirituală.",
+                "en": "An ideal place for a dry break and spiritual peace."
+              }
+            },
+            {
+              "name": "Melikia Port",
+              "tip_4lang": {
+                "de": "Achten Sie auf rutschige Steine am Kai bei Nässe.",
+                "hu": "Vigyázzon a csúszós kövekre a rakparton esős időben.",
+                "ro": "Atenție la pietrele alunecoase de pe chei când este ud.",
+                "en": "Watch out for slippery stones on the quay in wet weather."
+              }
+            },
+            {
+              "name": "Alykes Salt Pans",
+              "tip_4lang": {
+                "de": "Die Salzwiesen wirken im Regen besonders mystisch, aber Wege sind schlammig.",
+                "hu": "A sós mocsarak esőben misztikusak, de az utak sárosak lehetnek.",
+                "ro": "Salinele par mistice în ploaie, dar drumurile pot fi noroioase.",
+                "en": "The salt pans look mystical in the rain, but paths can be muddy."
+              }
+            },
+            {
+              "name": "Agia Athanasia Church",
+              "tip_4lang": {
+                "de": "Kurzer Stopp, um die Fresken im Trockenen zu bewundern.",
+                "hu": "Rövid megálló a freskók megcsodálására a szárazban.",
+                "ro": "Oprire scurtă pentru a admira frescele la adăpost.",
+                "en": "Short stop to admire the frescoes in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen der Meeresbrise besser als ein leichter Poncho.",
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster Pfützen bildet.",
+              "Planen Sie längere Pausen in den Kirchen oder Cafés ein.",
+              "Die Luftfeuchtigkeit lässt es kühler erscheinen, als es ist."
+            ],
+            "hu": [
+              "A tengeri szél miatt egy stabil esernyő jobb választás, mint egy könnyű poncsó.",
+              "Viseljen vízálló cipőt, mert a macskaköves utakon megáll a víz.",
+              "Tervezzen hosszabb pihenőket a templomokban vagy kávézókban.",
+              "A magas páratartalom miatt hidegebbnek érezheti az időt."
+            ],
+            "ro": [
+              "O umbrelă stabilă este mai bună decât un pelerină ușoară din cauza brizei mării.",
+              "Purtați încălțăminte impermeabilă, deoarece se formează bălți pe pavaj.",
+              "Planificați pauze mai lungi în biserici sau cafenele.",
+              "Umiditatea ridicată face ca temperatura să pară mai scăzută."
+            ],
+            "en": [
+              "A sturdy umbrella is better than a light poncho due to the sea breeze.",
+              "Wear waterproof shoes as puddles form on the cobblestone streets.",
+              "Plan longer breaks in churches or cafes to stay dry.",
+              "High humidity makes it feel cooler than the actual temperature."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter herrscht in Lefkimmi eine friedliche Stille. Morgens spazieren wir durch die kühlen Gassen der Altstadt. Mittags wärmen wir uns am Fluss mit einem starken griechischen Kaffee auf. Nachmittags erkunden wir die historischen Kirchen und den Hafen, bevor die Sonne früh hinter dem Horizont verschwindet. Den Abend verbringen wir bei herzhaften lokalen Spezialitäten am Kaminfeuer.",
+            "hu": "Télen békés csend honol Lefkimmiben. Reggel a hűvös óvárosi utcákon sétálunk. Délben a folyóparton melegszünk fel egy erős görög kávéval. Délután felfedezzük a történelmi templomokat és a kikötőt, mielőtt a nap korán lenyugodna a horizont mögött. Az estét kiadós helyi ételek mellett, kandallótűznél töltjük.",
+            "ro": "Iarna, în Lefkimmi domnește o liniște deplină. Dimineața ne plimbăm pe străzile răcoroase ale orașului vechi. La prânz ne încălzim lângă râu cu o cafea grecească tare. După-amiaza explorăm bisericile istorice și portul, înainte ca soarele să apună devreme. Seara o petrecem savurând specialități locale lângă un foc de șemineu.",
+            "en": "In winter, a peaceful silence prevails in Lefkimmi. In the morning we walk through the cool streets of the old town. At noon we warm up by the river with a strong Greek coffee. In the afternoon we explore the historic churches and the port before the sun sets early. We spend the evening enjoying hearty local specialties by the fireplace."
+          },
+          "stops": [
+            {
+              "name": "Lefkimmi Old Town",
+              "tip_4lang": {
+                "de": "Besuchen Sie die kleinen Handwerksläden, die auch im Winter offen sind.",
+                "hu": "Látogassa meg a kis kézműves boltokat, amik télen is nyitva tartanak.",
+                "ro": "Vizitați micile magazine de artizanat care sunt deschise și iarna.",
+                "en": "Visit the small craft shops that remain open in winter."
+              }
+            },
+            {
+              "name": "Lefkimmi River",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf die Fischerboote bei klarer Winterluft.",
+                "hu": "Élvezze a halászhajók látványát a tiszta téli levegőn.",
+                "ro": "Bucurați-vă de vederea bărcii de pescuit în aerul curat de iarnă.",
+                "en": "Enjoy the view of the fishing boats in the crisp winter air."
+              }
+            },
+            {
+              "name": "Agios Arsenios Church",
+              "tip_4lang": {
+                "de": "Im Inneren ist es oft wärmer als draußen; Zeit für Besinnung.",
+                "hu": "Odabent gyakran melegebb van, mint kint; idő a mély gondolatokra.",
+                "ro": "În interior este adesea mai cald decât afară; timp pentru reflecție.",
+                "en": "It is often warmer inside than outside; time for contemplation."
+              }
+            },
+            {
+              "name": "Melikia Port",
+              "tip_4lang": {
+                "de": "Warmer Windschutz durch die Hafenmauer nutzen.",
+                "hu": "Használja ki a kikötői gát szélvédett oldalát.",
+                "ro": "Folosiți protecția împotriva vântului oferită de zidul portului.",
+                "en": "Use the port wall as a windbreak against the sea breeze."
+              }
+            },
+            {
+              "name": "Alykes Salt Pans",
+              "tip_4lang": {
+                "de": "Beste Zeit für Vogelbeobachtungen (Flamingos) im Winter.",
+                "hu": "A legjobb időszak a téli madármegfigyelésre (flamingók).",
+                "ro": "Cea mai bună perioadă pentru observarea păsărilor (flamingo) iarna.",
+                "en": "Best time for bird watching (flamingos) in winter."
+              }
+            },
+            {
+              "name": "Agia Athanasia Church",
+              "tip_4lang": {
+                "de": "Achten Sie auf die frühen Schließzeiten im Winter.",
+                "hu": "Ügyeljen a korábbi téli zárvatartásra.",
+                "ro": "Atenție la orele de închidere timpurii în timpul iernii.",
+                "en": "Be aware of early closing times during the winter season."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht bereits gegen 17:00 Uhr unter, planen Sie das Ende ein.",
+              "Zwiebelprinzip bei der Kleidung: Wind vom Meer kann sehr kühl sein.",
+              "Viele Touristenorte sind zu, aber lokale Tavernen bieten echtes Flair.",
+              "Nehmen Sie eine Thermoskanne mit, da viele Strandcafés geschlossen sind."
+            ],
+            "hu": [
+              "A nap már 17:00 körül lemegy, tervezze ehhez a program végét.",
+              "Öltözködjön rétegesen: a tenger felől fújó szél nagyon hideg lehet.",
+              "Sok turistahely zárva van, de a helyi tavernák igazi élményt nyújtanak.",
+              "Vigyen magával termoszt, mert sok parti kávézó zárva tart ilyenkor."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 17:00, planificați finalul traseului.",
+              "Îmbrăcați-vă în straturi: vântul de pe mare poate fi foarte tăios.",
+              "Multe locuri turistice sunt închise, dar tavernele locale sunt autentice.",
+              "Luați un termos cu voi, deoarece multe cafenele de pe plajă sunt închise."
+            ],
+            "en": [
+              "Sunset is around 17:00, so plan your route accordingly.",
+              "Layer your clothing: the sea wind can be quite chilly.",
+              "Many tourist spots are closed, but local taverns offer authentic flair.",
+              "Bring a thermos as many beach cafes are closed in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -682,6 +864,188 @@
           "Wear a helmet and bright clothing to be visible.",
           "There aren't many shops outside the town, so carry enough snacks and water."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir unsere Tour zu den Salzwiesen, wo der Boden fest genug ist. Mittags erreichen wir den Hafen von Melikia und finden Schutz unter den Vordächern. In der Altstadt nutzen wir die Zeit für eine ausgiebige Pause im Trockenen. Nachmittags radeln wir vorsichtig zum Kloster Arkoudila und genießen die frische, nasse Natur, bevor wir uns im Sunset Cafe aufwärmen.",
+            "hu": "Az eső ellenére elindulunk a sós mocsarakhoz, ahol a talaj elég kemény a tekeréshez. Délben Melikia kikötőjébe érünk, és az ereszek alatt keresünk menedéket. Az óvárosban kihasználjuk az időt egy kiadós száraz pihenőre. Délután óvatosan feltekerünk az Arkoudila kolostorhoz, élvezve a friss természetet, majd a Sunset Cafe-ban melegszünk fel.",
+            "ro": "În ciuda ploii, ne începem turul spre saline, unde terenul este destul de ferm. La prânz ajungem în portul Melikia și găsim adăpost sub streșini. În orașul vechi folosim timpul pentru o pauză lungă la uscat. După-amiaza pedalăm cu grijă spre mănăstirea Arkoudila, bucurându-ne de natura proaspătă, înainte de a ne încălzi la Sunset Cafe.",
+            "en": "Despite the rain, we start our tour to the salt pans where the ground is firm enough for cycling. At noon we reach Melikia port and find shelter under the eaves. In the old town, we take a long dry break. In the afternoon we cycle carefully to Arkoudila Monastery, enjoying the fresh nature, before warming up at the Sunset Cafe."
+          },
+          "stops": [
+            {
+              "name": "Alykes Salt Pans",
+              "tip_4lang": {
+                "de": "Vorsicht vor tiefen Pfützen auf den unbefestigten Wegen.",
+                "hu": "Vigyázzon a mély tócsákra a burkolatlan utakon.",
+                "ro": "Atenție la bălțile adânci de pe drumurile neasfaltate.",
+                "en": "Watch out for deep puddles on the unpaved paths."
+              }
+            },
+            {
+              "name": "Melikia Port",
+              "tip_4lang": {
+                "de": "Gute Abstellmöglichkeit für Räder unter den Arkaden.",
+                "hu": "Jó kerékpárparkolási lehetőség az árkádok alatt.",
+                "ro": "Locuri bune de parcare pentru biciclete sub arcade.",
+                "en": "Good bicycle parking available under the arches."
+              }
+            },
+            {
+              "name": "Lefkimmi Old Town & River",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Brücken als kurzzeitigen Unterstand.",
+                "hu": "Használja a hidakat rövid idejű menedékként.",
+                "ro": "Folosiți podurile ca adăpost temporar.",
+                "en": "Use the bridges as temporary shelters."
+              }
+            },
+            {
+              "name": "Panagia Arkoudila Monastery",
+              "tip_4lang": {
+                "de": "Der Anstieg kann bei Nässe rutschig sein; langsam fahren.",
+                "hu": "Az emelkedő esőben csúszós lehet; hajtson lassan.",
+                "ro": "Urcarea poate fi alunecoasă pe ploaie; pedalați încet.",
+                "en": "The climb can be slippery in the rain; cycle slowly."
+              }
+            },
+            {
+              "name": "Arkoudila Beach",
+              "tip_4lang": {
+                "de": "Der Sand ist bei Regen fest, aber das Meer stürmisch.",
+                "hu": "Az esőben a homok keményebb, de a tenger viharos.",
+                "ro": "Nisipul este ferm pe ploaie, dar marea este agitată.",
+                "en": "The sand is firm when wet, but the sea can be stormy."
+              }
+            },
+            {
+              "name": "Sunset Cafe in Town",
+              "tip_4lang": {
+                "de": "Der perfekte Ort, um nasse Kleidung bei einem Tee zu trocknen.",
+                "hu": "Tökéletes hely a vizes ruhák szárítására egy tea mellett.",
+                "ro": "Locul perfect pentru a usca hainele ude la un ceai.",
+                "en": "The perfect place to dry wet clothes over a tea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen; nasse Felgen verlängern den Bremsweg.",
+              "Vermeiden Sie weiß markierte Linien auf der Straße, sie sind extrem rutschig.",
+              "Ein Schutzblech ist unerlässlich, um den Rücken trocken zu halten.",
+              "Tragen Sie eine gelbe Regenjacke für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket; a vizes felni növeli a féktávolságot.",
+              "Kerülje a fehér útburkolati jeleket, mert rendkívül csúszósak.",
+              "A sárvédő elengedhetetlen, hogy a háta száraz maradjon.",
+              "Viseljen sárga esőkabátot a jobb láthatóság érdekében."
+            ],
+            "ro": [
+              "Verificați frânele; jantele ude prelungesc distanța de frânare.",
+              "Evitați liniile albe de pe șosea, sunt extrem de alunecoase.",
+              "O apărătoare este esențială pentru a vă menține spatele uscat.",
+              "Purtați o jachetă de ploaie galbenă pentru o vizibilitate mai bună."
+            ],
+            "en": [
+              "Check your brakes; wet rims increase stopping distance.",
+              "Avoid white road markings as they become extremely slippery.",
+              "Mudguards are essential to keep your back dry.",
+              "Wear a high-visibility rain jacket for safety."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour führt uns durch die leeren Salzwiesen und den ruhigen Hafen. Mittags erkunden wir die Altstadt ohne die sommerliche Hitze. Nachmittags geht es hinauf zum Kloster Arkoudila, wo wir die weite Sicht über das ionische Meer genießen. Der kühle Wind am Arkoudila Beach erfrischt, bevor wir uns rechtzeitig vor Sonnenuntergang im gemütlichen Sunset Cafe im Zentrum einfinden.",
+            "hu": "A téli túra az üres sós mocsarakon és a csendes kikötőn vezet keresztül. Délben a nyári hőség nélkül fedezzük fel az óvárost. Délután feltekerünk az Arkoudila kolostorhoz, ahonnan pazar kilátás nyílik a Jón-tengerre. Az Arkoudila strand hűvös szele felfrissít, mielőtt naplemente előtt megérkeznénk a központi Sunset Cafe-ba.",
+            "ro": "Turul de iarnă ne poartă prin salinele pustii și portul liniștit. La prânz explorăm orașul vechi fără căldura verii. După-amiaza urcăm la mănăstirea Arkoudila pentru o vedere panoramică asupra Mării Ionice. Vântul răcoros de pe plaja Arkoudila ne înviorează înainte de a ajunge la Sunset Cafe înainte de apus.",
+            "en": "The winter tour takes us through the empty salt pans and the quiet port. At noon we explore the old town without the summer heat. In the afternoon we climb to Arkoudila Monastery for panoramic views of the Ionian Sea. The cool wind at Arkoudila Beach is refreshing before we settle into the Sunset Cafe in town before dark."
+          },
+          "stops": [
+            {
+              "name": "Alykes Salt Pans",
+              "tip_4lang": {
+                "de": "Warme Handschuhe sind wichtig für den Fahrtwind auf freier Fläche.",
+                "hu": "A meleg kesztyű fontos a menetszél miatt a nyílt terepen.",
+                "ro": "Mănușile călduroase sunt importante din cauza vântului pe câmp deschis.",
+                "en": "Warm gloves are important for the wind chill on open ground."
+              }
+            },
+            {
+              "name": "Melikia Port",
+              "tip_4lang": {
+                "de": "Kein Trubel, ideal für Fotos der rauen Wintersee.",
+                "hu": "Nincs tömeg, ideális fotózni a vad téli tengert.",
+                "ro": "Fără aglomerație, ideal pentru fotografii cu marea agitată de iarnă.",
+                "en": "No crowds, ideal for photos of the rough winter sea."
+              }
+            },
+            {
+              "name": "Lefkimmi Old Town & River",
+              "tip_4lang": {
+                "de": "Mittagspause in einer Taverne mit Holzofen suchen.",
+                "hu": "Keressen ebédre egy fatüzelésű kályhával fűtött tavernát.",
+                "ro": "Căutați o tavernă cu sobă pe lemne pentru pauza de prânz.",
+                "en": "Look for a tavern with a wood-burning stove for lunch."
+              }
+            },
+            {
+              "name": "Panagia Arkoudila Monastery",
+              "tip_4lang": {
+                "de": "Der Waldweg bietet Schutz vor dem kalten Nordwind.",
+                "hu": "Az erdei út védelmet nyújt a hideg északi szél ellen.",
+                "ro": "Drumul prin pădure oferă protecție împotriva vântului rece de nord.",
+                "en": "The forest path provides protection from the cold north wind."
+              }
+            },
+            {
+              "name": "Arkoudila Beach",
+              "tip_4lang": {
+                "de": "Bleiben Sie in Bewegung, um am windigen Strand nicht auszukühlen.",
+                "hu": "Maradjon mozgásban, hogy ne fázzon meg a szeles strandon.",
+                "ro": "Rămâneți în mișcare pentru a nu îngheța pe plaja vântoasă.",
+                "en": "Stay moving to keep warm on the windy beach."
+              }
+            },
+            {
+              "name": "Sunset Cafe in Town",
+              "tip_4lang": {
+                "de": "Das Licht am Nachmittag ist im Winter besonders golden.",
+                "hu": "A délutáni fények télen különösen aranyosak.",
+                "ro": "Lumina de după-amiază este deosebit de aurie în timpul iernii.",
+                "en": "The afternoon light is especially golden in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fetten Sie die Kette gut ein, um sie vor Salz und Feuchtigkeit zu schützen.",
+              "Die Dämmerung setzt abrupt ein; funktionierendes Licht ist Pflicht.",
+              "Kopfbedeckung unter dem Helm reduziert den Wärmeverlust massiv.",
+              "Nehmen Sie energiereiche Snacks wie Nüsse mit."
+            ],
+            "hu": [
+              "Zsírozza be jól a láncot, hogy védje a sótól és a nedvességtől.",
+              "A szürkület hirtelen jön; a működő lámpa kötelező.",
+              "A sisak alatti sapka drasztikusan csökkenti a hőveszteséget.",
+              "Vigyen magával energiadús rágcsálnivalót, például dióféléket."
+            ],
+            "ro": [
+              "Ungeți bine lanțul pentru a-l proteja de sare și umiditate.",
+              "Amurgul vine brusc; luminile funcționale sunt obligatorii.",
+              "O căciulă sub cască reduce masiv pierderea de căldură.",
+              "Luați cu voi gustări energizante, cum ar fi nucile."
+            ],
+            "en": [
+              "Grease your chain well to protect it from salt and moisture.",
+              "Twilight sets in abruptly; working lights are mandatory.",
+              "A cap under your helmet massively reduces heat loss.",
+              "Carry high-energy snacks like nuts for the ride."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1002,6 +1366,188 @@
           "Parking can be difficult in Lefkimmi town center. It's better to park on the outskirts.",
           "Google Maps is reliable, but also pay attention to road signs."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Lefkimmi auch bei Starkregen ein Vergnügen. Wir starten am abgelegenen Kloster Arkoudila und genießen den Blick auf das aufgepeitschte Meer vom trockenen Wagen aus. Mittags schlendern wir kurz durch die Altstadt und flüchten schnell in ein Restaurant. Die Kirchenbesuche bieten kulturelle Tiefe ohne Nässe, und die Fahrt zu den Salzwiesen zeigt eine dramatische Wolkenkulisse.",
+            "hu": "Autóval Lefkimmi heves esőben is élvezetes. A távoli Arkoudila kolostornál kezdünk, élvezve a felkorbácsolt tenger látványát a száraz autóból. Délben teszünk egy rövid sétát az óvárosban, majd gyorsan egy étterembe menekülünk. A templomlátogatások kulturális élményt nyújtanak ázás nélkül, a sós mocsarakhoz vezető út pedig drámai felhőket ígér.",
+            "ro": "Cu mașina, Lefkimmi este o plăcere chiar și în ploaie torențială. Începem la mănăstirea retrasă Arkoudila și admirăm marea agitată din mașina uscată. La prânz ne plimbăm puțin prin orașul vechi și ne refugiem rapid într-un restaurant. Vizitele la biserici oferă profunzime culturală fără umezeală, iar drumul spre saline arată un decor dramatic de nori.",
+            "en": "By car, Lefkimmi is a pleasure even in heavy rain. We start at the remote Arkoudila Monastery, enjoying the view of the rough sea from the dry car. At noon we take a short stroll through the old town and quickly escape into a restaurant. Church visits offer cultural depth without getting wet, and the drive to the salt pans shows dramatic cloud scenery."
+          },
+          "stops": [
+            {
+              "name": "Panagia Arkoudila Monastery",
+              "tip_4lang": {
+                "de": "Parken Sie nah am Eingang, um den kurzen Fußweg im Regen zu minimieren.",
+                "hu": "Parkoljon közel a bejárathoz, hogy minimalizálja az esőben megtett utat.",
+                "ro": "Parcați aproape de intrare pentru a minimiza mersul prin ploaie.",
+                "en": "Park close to the entrance to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Arkoudila Beach",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick vom Auto aus; der Weg zum Strand ist oft schlammig.",
+                "hu": "Élvezze a kilátást az autóból; a strandhoz vezető út gyakran sáros.",
+                "ro": "Bucurați-vă de priveliște din mașină; drumul spre plajă este adesea noroios.",
+                "en": "Enjoy the view from the car; the path to the beach is often muddy."
+              }
+            },
+            {
+              "name": "Lefkimmi Old Town",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Parkplatz am Flussufer für schnellen Zugang zum Zentrum.",
+                "hu": "Használja a folyóparti parkolót a gyors központba jutáshoz.",
+                "ro": "Folosiți parcarea de pe malul râului pentru acces rapid în centru.",
+                "en": "Use the riverside parking for quick access to the center."
+              }
+            },
+            {
+              "name": "Lefkimmi River",
+              "tip_4lang": {
+                "de": "Kurzer Fotostopp; die Brücken sind im Regen sehr fotogen.",
+                "hu": "Rövid fotómegálló; a hidak esőben nagyon fotogének.",
+                "ro": "Scurtă oprire pentru fotografii; podurile sunt foarte fotogenice pe ploaie.",
+                "en": "Short photo stop; the bridges are very photogenic in the rain."
+              }
+            },
+            {
+              "name": "Agios Arsenios Church",
+              "tip_4lang": {
+                "de": "Parken direkt vor der Kirche möglich.",
+                "hu": "Parkolás közvetlenül a templom előtt lehetséges.",
+                "ro": "Parcare posibilă direct în fața bisericii.",
+                "en": "Parking is possible directly in front of the church."
+              }
+            },
+            {
+              "name": "Alykes Salt Pans",
+              "tip_4lang": {
+                "de": "Vorsicht beim Wenden auf unbefestigten, nassen Seitenstreifen.",
+                "hu": "Vigyázzon a megfordulásnál a burkolatlan, vizes útpadkán.",
+                "ro": "Atenție la întoarcere pe marginile neasfaltate și ude ale drumului.",
+                "en": "Be careful when turning on unpaved, wet road shoulders."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf tiefe Wasserlachen auf den Nebenstraßen (Aquaplaning).",
+              "Die Sicht kann bei starkem Regen abrupt abnehmen; Licht einschalten.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto, auch bei Regen.",
+              "Prüfen Sie den Zustand der Scheibenwischer vor der Abfahrt."
+            ],
+            "hu": [
+              "Ügyeljen a mély tócsákra a mellékutakon (aquaplaning veszély).",
+              "Heves esőben a látótávolság hirtelen lecsökkenhet; kapcsolja be a lámpát.",
+              "Ne hagyjon értéket látható helyen az autóban, még esőben sem.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát."
+            ],
+            "ro": [
+              "Atenție la bălțile adânci de pe drumurile secundare (risc de acvaplanare).",
+              "Vizibilitatea poate scădea brusc în ploaie torențială; aprindeți farurile.",
+              "Nu lăsați obiecte de valoare la vedere în mașină, nici pe ploaie.",
+              "Verificați starea ștergătoarelor înainte de plecare."
+            ],
+            "en": [
+              "Watch out for deep puddles on side roads (hydroplaning risk).",
+              "Visibility can drop abruptly in heavy rain; keep your lights on.",
+              "Do not leave valuables visible in the car, even in the rain.",
+              "Check the condition of your windshield wipers before starting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Autotour durch den Süden von Korfu. Wir beginnen beim Kloster Arkoudila, wo wir fast alleine sind. Danach geht es zum menschenleeren Arkoudila Beach für einen kurzen, windigen Spaziergang. Mittags genießen wir die Ruhe der Altstadt und besuchen die prachtvollen Kirchen. Die Fahrt zu den Salzwiesen am Nachmittag bietet klare Sicht bis zum Festland, bevor wir den Tag im warmen Auto beenden.",
+            "hu": "Téli autós túra Korfu déli részén. Az Arkoudila kolostornál kezdünk, ahol szinte egyedül vagyunk. Ezután az üres Arkoudila strandra megyünk egy rövid, szeles sétára. Délben élvezzük az óváros nyugalmát és meglátogatjuk a pompás templomokat. A délutáni út a sós mocsarakhoz tiszta kilátást nyújt a szárazföldig, mielőtt a napot a meleg autóban zárnánk.",
+            "ro": "Tur auto de iarnă prin sudul insulei Corfu. Începem la mănăstirea Arkoudila, unde suntem aproape singuri. Apoi mergem la plaja Arkoudila pustie pentru o scurtă plimbare vântoasă. La prânz ne bucurăm de liniștea orașului vechi și vizităm bisericile splendide. Drumul spre saline oferă o vedere clară până la continent înainte de a încheia ziua în mașina caldă.",
+            "en": "Winter car tour through southern Corfu. We start at Arkoudila Monastery, where we are almost alone. Then we head to the deserted Arkoudila Beach for a short, windy walk. At noon we enjoy the peace of the old town and visit the magnificent churches. The afternoon drive to the salt pans offers clear views to the mainland before finishing the day in the warm car."
+          },
+          "stops": [
+            {
+              "name": "Panagia Arkoudila Monastery",
+              "tip_4lang": {
+                "de": "Heizung im Auto nutzen, da es oben am Kloster windig ist.",
+                "hu": "Használja az autó fűtését, mert a kolostornál szeles az idő.",
+                "ro": "Folosiți încălzirea din mașină, deoarece la mănăstire este vânt.",
+                "en": "Use the car heater as it can be very windy up at the monastery."
+              }
+            },
+            {
+              "name": "Arkoudila Beach",
+              "tip_4lang": {
+                "de": "Ideal für einen kurzen Stopp, um die Brandung zu beobachten.",
+                "hu": "Ideális egy rövid megállóra a hullámverés megfigyeléséhez.",
+                "ro": "Ideal pentru o scurtă oprire pentru a observa valurile.",
+                "en": "Ideal for a short stop to watch the winter surf."
+              }
+            },
+            {
+              "name": "Lefkimmi Old Town",
+              "tip_4lang": {
+                "de": "Parkplätze sind im Winter im Überfluss vorhanden.",
+                "hu": "Télen bőségesen áll rendelkezésre parkolóhely.",
+                "ro": "Locurile de parcare sunt din abundență în timpul iernii.",
+                "en": "Parking spaces are plentiful during the winter season."
+              }
+            },
+            {
+              "name": "Lefkimmi River",
+              "tip_4lang": {
+                "de": "Genießen Sie die Ruhe am Fluss ohne die sommerlichen Boote.",
+                "hu": "Élvezze a folyóparti nyugalmat a nyári csónakok nélkül.",
+                "ro": "Bucurați-vă de liniștea de lângă râu fără bărcile de vară.",
+                "en": "Enjoy the riverside peace without the summer boat crowds."
+              }
+            },
+            {
+              "name": "Agios Arsenios Church",
+              "tip_4lang": {
+                "de": "Abends ist die Kirche oft wunderschön beleuchtet.",
+                "hu": "Este a templom gyakran gyönyörűen ki van világítva.",
+                "ro": "Seara, biserica este adesea iluminată superb.",
+                "en": "The church is often beautifully lit up in the evening."
+              }
+            },
+            {
+              "name": "Alykes Salt Pans",
+              "tip_4lang": {
+                "de": "Bringen Sie ein Fernglas mit für die winterlichen Zugvögel.",
+                "hu": "Hozzon távcsövet a téli költöző madarak megfigyeléséhez.",
+                "ro": "Aduceți un binoclu pentru păsările migratoare de iarnă.",
+                "en": "Bring binoculars for spotting winter migratory birds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tanken Sie rechtzeitig; im Winter haben manche ländliche Tankstellen kürzer offen.",
+              "Reifendruck prüfen, da kältere Luft den Druck sinken lässt.",
+              "Ein Eiskratzer ist selten nötig, aber eine beschlagene Scheibe braucht gute Lüftung.",
+              "Halten Sie Decken im Auto bereit für die Pausen am Strand."
+            ],
+            "hu": [
+              "Tankoljon időben; télen néhány vidéki benzinkút hamarabb zár.",
+              "Ellenőrizze a guminyomást, mert a hidegebb levegőben csökkenhet.",
+              "Jégkaparó ritkán kell, de a párás szélvédőhöz jó szellőzés szükséges.",
+              "Tartson takarót az autóban a strandolás közbeni pihenőkhöz."
+            ],
+            "ro": [
+              "Alimentați la timp; iarna unele benzinării rurale au program scurt.",
+              "Verificați presiunea în pneuri, aerul rece o poate scădea.",
+              "Răzuitoarea de gheață e rar necesară, dar ventilația trebuie să fie bună.",
+              "Țineți pături în mașină pentru pauzele de pe plajă."
+            ],
+            "en": [
+              "Refuel in time; some rural gas stations have shorter hours in winter.",
+              "Check tire pressure as colder air causes it to drop.",
+              "Ice scrapers are rarely needed, but good ventilation is key for fogged windows.",
+              "Keep blankets in the car for breaks at the windy beach."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1009,7 +1555,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "17:45",
-      "total_km": 4.5,
+      "total_km": 10.5,
       "stop_count": 5,
       "stops": [
         {
@@ -1262,6 +1808,170 @@
           "Bus stops are not always well-marked; ask a local if in doubt.",
           "Buses can be crowded during high season."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus navigieren wir sicher durch den Regen in Lefkimmi. Nach der Ankunft im Zentrum erkunden wir die Altstadt und den Fluss, wobei wir immer in der Nähe von Unterständen bleiben. Mittags besuchen wir die Kirche Agios Arsenios, ein perfekter trockener Ort. Nachmittags nehmen wir den Bus nach Alykes, um die Salzwiesen zu sehen, und beenden den Tag entspannt in einer lokalen Bar.",
+            "hu": "Busszal biztonságosan navigálunk az esőben Lefkimmiben. A központba érkezés után felfedezzük az óvárost és a folyót, mindig menedék közelében maradva. Délben meglátogatjuk az Agios Arsenios templomot, ami tökéletes száraz helyszín. Délután busszal megyünk Alykes-be a sós mocsarakhoz, majd a napot egy helyi bárban zárjuk.",
+            "ro": "Cu autobuzul navigăm în siguranță prin ploaie în Lefkimmi. După sosirea în centru, explorăm orașul vechi și râul, stând mereu aproape de adăposturi. La prânz vizităm biserica Agios Arsenios, un loc uscat perfect. După-amiaza luăm autobuzul spre Alykes pentru a vedea salinele și încheiem ziua relaxați într-un bar local.",
+            "en": "By bus, we navigate safely through the rain in Lefkimmi. After arriving in the center, we explore the old town and the river, always staying close to shelter. At noon we visit Agios Arsenios Church, a perfect dry spot. In the afternoon we take the bus to Alykes to see the salt pans and end the day relaxed in a local bar."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Lefkimmi Town Center",
+              "tip_4lang": {
+                "de": "Warten Sie unter dem Dach der Bushaltestelle auf das Nachlassen des Regens.",
+                "hu": "Várjon a buszmegálló teteje alatt, amíg alábbhagy az eső.",
+                "ro": "Așteptați sub copertina stației de autobuz până se mai oprește ploaia.",
+                "en": "Wait under the bus stop shelter for the rain to ease off."
+              }
+            },
+            {
+              "name": "Old Town & River",
+              "tip_4lang": {
+                "de": "Die Geschäfte in der Altstadt bieten guten Schutz während Schauern.",
+                "hu": "Az óvárosi üzletek jó menedéket nyújtanak záporok idején.",
+                "ro": "Magazinele din orașul vechi oferă adăpost bun în timpul averselor.",
+                "en": "The shops in the old town provide good cover during showers."
+              }
+            },
+            {
+              "name": "Agios Arsenios Church",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Innenraum für eine längere Pause im Trockenen.",
+                "hu": "Használja a belső teret egy hosszabb száraz pihenőre.",
+                "ro": "Folosiți interiorul pentru o pauză mai lungă la uscat.",
+                "en": "Use the interior for a longer break in the dry."
+              }
+            },
+            {
+              "name": "Bus to Alykes/Melikia",
+              "tip_4lang": {
+                "de": "Prüfen Sie den Fahrplan genau; Busse können bei Wetter Verspätung haben.",
+                "hu": "Ellenőrizze a menetrendet; rossz időben a buszok késhetnek.",
+                "ro": "Verificați programul; autobuzele pot avea întârzieri pe vreme rea.",
+                "en": "Check the schedule; buses might be delayed due to bad weather."
+              }
+            },
+            {
+              "name": "Alykes Salt Pans",
+              "tip_4lang": {
+                "de": "Die Wege sind nass; bleiben Sie auf den befestigten Flächen.",
+                "hu": "Az utak vizesek; maradjon a burkolt felületeken.",
+                "ro": "Drumurile sunt ude; rămâneți pe suprafețele pavate.",
+                "en": "Paths are wet; stay on the paved surfaces if possible."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie Kleingeld für das Busticket bereit, um Wartezeiten im Regen zu vermeiden.",
+              "Die Green Bus App bietet Echtzeit-Infos (sofern verfügbar).",
+              "Tragen Sie eine Regenjacke, da der Wind an den Haltestellen kühl ist.",
+              "Suchen Sie Haltestellen mit festen Wartehäuschen."
+            ],
+            "hu": [
+              "Legyen kéznél aprópénz a jegyhez, hogy ne kelljen az esőben várakozni.",
+              "A Green Bus app valós idejű információkat kínál (ha elérhető).",
+              "Viseljen esőkabátot, mert a megállókban hűvös lehet a szél.",
+              "Keressen fedett váróteremmel rendelkező megállókat."
+            ],
+            "ro": [
+              "Aveți mărunt pentru bilet pentru a evita așteptarea în ploaie.",
+              "Aplicația Green Bus oferă informații în timp real (unde sunt disponibile).",
+              "Purtați o jachetă de ploaie, deoarece vântul în stații poate fi rece.",
+              "Căutați stații care au adăposturi solide."
+            ],
+            "en": [
+              "Have small change ready for tickets to avoid waiting in the rain.",
+              "The Green Bus app provides real-time info (where available).",
+              "Wear a rain jacket as the wind at bus stops can be chilly.",
+              "Look for bus stops that have permanent shelters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Ausflug mit öffentlichen Verkehrsmitteln. Wir erreichen das ruhige Zentrum von Lefkimmi am Morgen. Nach einem Spaziergang am Fluss wärmen wir uns in einer Taverne auf. Mittags besuchen wir Agios Arsenios und genießen die festliche Stille. Der Nachmittag gehört den Salzwiesen von Alykes, bevor wir mit dem letzten komfortablen Bus zurückfahren, während die Sonne früh untergeht.",
+            "hu": "Téli kirándulás tömegközlekedéssel. Reggel érkezünk Lefkimmi csendes központjába. Egy folyóparti séta után egy tavernát választunk a felmelegedéshez. Délben meglátogatjuk az Agios Arsenios templomot, élvezve az ünnepi csendet. A délutánt Alykes sós mocsaraiban töltjük, majd az utolsó kényelmes busszal térünk vissza a korai naplemente idején.",
+            "ro": "Excursie de iarnă cu transportul public. Ajungem în centrul liniștit din Lefkimmi dimineața. După o plimbare pe malul râului, ne încălzim într-o tavernă. La prânz vizităm Agios Arsenios și ne bucurăm de liniștea festivă. După-amiaza aparține salinelor din Alykes, înainte de a ne întoarce cu ultimul autobuz confortabil, în timp ce soarele apune devreme.",
+            "en": "Winter trip using public transport. We reach the quiet center of Lefkimmi in the morning. After a riverside walk, we warm up in a local tavern. At noon we visit Agios Arsenios, enjoying the festive silence. The afternoon is dedicated to the Alykes salt pans before heading back on the last comfortable bus as the sun sets early."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Lefkimmi Town Center",
+              "tip_4lang": {
+                "de": "Informieren Sie sich über den speziellen Winterfahrplan (weniger Frequenz).",
+                "hu": "Tájékozódjon a speciális téli menetrendről (ritkább járatok).",
+                "ro": "Informați-vă despre programul special de iarnă (frecvență redusă).",
+                "en": "Check the special winter schedule (less frequent service)."
+              }
+            },
+            {
+              "name": "Old Town & River",
+              "tip_4lang": {
+                "de": "Die Cafés sind im Winter weniger überlaufen; genießen Sie den Service.",
+                "hu": "A kávézók télen kevésbé zsúfoltak; élvezze a kiszolgálást.",
+                "ro": "Cafenelele sunt mai puțin aglomerate iarna; bucurați-vă de servire.",
+                "en": "Cafes are less crowded in winter; enjoy the attentive service."
+              }
+            },
+            {
+              "name": "Agios Arsenios Church",
+              "tip_4lang": {
+                "de": "Besondere Atmosphäre während lokaler Winter-Feiertage.",
+                "hu": "Különleges hangulat a helyi téli ünnepek idején.",
+                "ro": "Atmosferă specială în timpul sărbătorilor locale de iarnă.",
+                "en": "Special atmosphere during local winter holidays."
+              }
+            },
+            {
+              "name": "Bus to Alykes/Melikia",
+              "tip_4lang": {
+                "de": "Der Bus ist beheizt – eine gute Gelegenheit zum Aufwärmen.",
+                "hu": "A busz fűtött – jó alkalom a felmelegedésre.",
+                "ro": "Autobuzul este încălzit – o ocazie bună de a vă încălzi.",
+                "en": "The bus is heated – a good opportunity to warm up between stops."
+              }
+            },
+            {
+              "name": "Alykes Salt Pans",
+              "tip_4lang": {
+                "de": "Letzter Bus fährt oft schon vor 18:00 Uhr; Uhrzeit beachten.",
+                "hu": "Az utolsó busz gyakran már 18:00 előtt elmegy; ügyeljen az időre.",
+                "ro": "Ultimul autobuz pleacă adesea înainte de 18:00; atenție la oră.",
+                "en": "The last bus often leaves before 18:00; keep an eye on the time."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne weichen stark vom Sommer ab; immer aktuell prüfen.",
+              "Die Busse sind im Winter meist pünktlicher, da weniger Verkehr herrscht.",
+              "Tragen Sie warme Socken, da die Füße beim Warten schnell kalt werden.",
+              "Kombinieren Sie Transit mit kurzen Fußwegen zu warmen Orten."
+            ],
+            "hu": [
+              "A téli menetrend jelentősen eltér a nyáritól; mindig ellenőrizze.",
+              "A buszok télen általában pontosabbak a kisebb forgalom miatt.",
+              "Viseljen meleg zoknit, mert várakozás közben gyorsan áthűl a lába.",
+              "Kombinálja a közlekedést rövid sétákkal a fűtött helyek felé."
+            ],
+            "ro": [
+              "Orarele de iarnă diferă mult de cele de vară; verificați mereu actualizările.",
+              "Autobuzele sunt de obicei mai punctuale iarna datorită traficului redus.",
+              "Purtați șosete groase, picioarele se răcesc repede în timp ce așteptați.",
+              "Combinați transportul cu scurte plimbări spre locuri încălzite."
+            ],
+            "en": [
+              "Winter schedules differ significantly from summer ones; always check updates.",
+              "Buses are usually more punctual in winter due to less traffic.",
+              "Wear warm socks as feet get cold quickly while waiting at stops.",
+              "Combine transit with short walks to warm indoor locations."
+            ]
+          }
+        }
       }
     }
   }

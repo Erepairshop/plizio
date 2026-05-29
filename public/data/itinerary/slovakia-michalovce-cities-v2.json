@@ -294,6 +294,188 @@
           "Carry a reusable water bottle.",
           "Start early to avoid the crowds."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Spaziergang am Námestie osloboditeľov, wo die Architektur unter grauem Himmel glänzt. Die Kirchen bieten trockene Zuflucht für Besinnung. Mittags ziehen Sie sich in das Zemplín-Museum im Sztáray-Herrenhaus zurück, um tief in die Geschichte einzutauchen. Der Tag endet mit einem Blick von der Sternwarte, während die Regentropfen gegen die Kuppel trommeln.",
+            "hu": "Kezdje esős sétáját a Felszabadítók terén, ahol a vizes aszfalton tükröződnek a fények. A templomok tökéletes menedéket nyújtanak a zápor elől. Délután a Sztáray-kastély falai között, a Zempléni Múzeumban kalandozhat szárazon. A napot a csillagvizsgálóban zárja, ahol a borús idő ellenére is érdekes tudományos előadások várják a látogatókat.",
+            "ro": "Începeți plimbarea ploioasă în Piața Eliberatorilor, admirând reflexiile pe pavaj. Bisericile oferă un adăpost liniștit și uscat pentru momente de introspecție. La prânz, vizitați Muzeul Zemplín din Conacul Sztáray pentru o experiență culturală ferită de intemperii. Încheiați ziua la Observator, ascultând ropotul ploii pe cupolă în timp ce învățați despre univers.",
+            "en": "Start your rainy walk at Liberators' Square, where the wet pavement reflects the historic surroundings. The churches provide perfect dry havens for exploration. Midday is best spent inside the Zemplín Museum at Sztáray Manor, safely away from the rain. End your day at the Observatory, where the indoor exhibits offer a great alternative to outdoor sightseeing."
+          },
+          "stops": [
+            {
+              "name": "Liberators' Square (Námestie osloboditeľov)",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Geschäfte, um trocken zu bleiben.",
+                "hu": "Használja a környező üzletek árkádjait, hogy ne ázzon el.",
+                "ro": "Folosiți arcadele magazinelor din jur pentru a rămâne uscat.",
+                "en": "Use the arcades of the surrounding shops to stay dry."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Virgin Mary",
+              "tip_4lang": {
+                "de": "Ideal, um einen heftigen Regenschauer im prachtvollen Innenraum abzuwarten.",
+                "hu": "Ideális hely egy heves zápor kivárására a pompás belső térben.",
+                "ro": "Loc ideal pentru a aștepta trecerea unei averse în interiorul superb.",
+                "en": "Ideal place to wait out a heavy downpour inside the magnificent interior."
+              }
+            },
+            {
+              "name": "Roman Catholic Parish Church",
+              "tip_4lang": {
+                "de": "Bewundern Sie die Details, während draußen der Regen fällt.",
+                "hu": "Csodálja meg a részleteket, miközben kint dobol az eső.",
+                "ro": "Admirați detaliile în timp ce ploaia bate în geamuri afară.",
+                "en": "Admire the details while the rain drums on the windows outside."
+              }
+            },
+            {
+              "name": "Sztáray Manor House",
+              "tip_4lang": {
+                "de": "Ein langer Aufenthalt im Inneren ist perfekt für regnerische Vormittage.",
+                "hu": "A hosszú benti tartózkodás tökéletes az esős délelőttökhöz.",
+                "ro": "O ședere lungă în interior este perfectă pentru diminețile ploioase.",
+                "en": "A long indoor stay is perfect for rainy mornings."
+              }
+            },
+            {
+              "name": "Zemplín Museum",
+              "tip_4lang": {
+                "de": "Geben Sie Ihren nassen Schirm am Eingang ab und genießen Sie die Ausstellungen.",
+                "hu": "Adja le nedves esernyőjét a bejáratnál, és élvezze a kiállításokat.",
+                "ro": "Lăsați umbrela udă la intrare și bucurați-vă de expoziții.",
+                "en": "Leave your wet umbrella at the entrance and enjoy the exhibitions."
+              }
+            },
+            {
+              "name": "Michalovce Observatory",
+              "tip_4lang": {
+                "de": "Die Innenräume bieten Schutz und Wissen bei jedem Wetter.",
+                "hu": "A belső terek védelmet és tudást kínálnak bármilyen időben.",
+                "ro": "Spațiile interioare oferă protecție și cunoștințe pe orice vreme.",
+                "en": "The indoor spaces offer protection and knowledge in any weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich auf dem Platz Pfützen bilden können.",
+              "Die Museen und Kirchen sind hervorragende Orte, um Schauer abzuwarten.",
+              "Ein Taschenschirm ist handlicher als ein großer Stockschirm.",
+              "Planen Sie mehr Zeit für die Innenbesichtigungen ein."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a téren tócsák alakulhatnak ki.",
+              "A múzeumok és templomok kiváló helyek a záporok átvészelésére.",
+              "Egy összecsukható esernyő praktikusabb a városi sétához.",
+              "Tervezzen több időt a benti látnivalókra."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți în piață.",
+              "Muzeele și bisericile sunt locuri excelente pentru a evita aversele.",
+              "O umbrelă pliabilă este mai practică pentru plimbarea prin oraș.",
+              "Alocați mai mult timp pentru vizitarea obiectivelor interioare."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles can form on the square.",
+              "Museums and churches are excellent places to escape the showers.",
+              "A foldable umbrella is more practical for the city walk.",
+              "Plan more time for indoor sightseeing."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Spaziergang durch Michalovce beginnt erfrischend am Marktplatz. Die beheizten Kirchen bieten eine warme Pause zwischen den historischen Stopps. Mittags wärmt die reiche Geschichte im Zemplín-Museum Geist und Körper auf. Da es früh dunkel wird, bietet die Sternwarte am späten Nachmittag die perfekte Atmosphäre für winterliche Himmelsbeobachtungen.",
+            "hu": "A téli séta Michalovcében frissítően indul a főtéren. A fűtött templomok kellemes pihenőt nyújtanak a történelmi megállók között. Délben a Zempléni Múzeum gazdag tárlata melengeti meg a lelket és a testet. Mivel korán sötétedik, a csillagvizsgáló késő délután már tökéletes hangulatot áraszt a téli égbolt megfigyeléséhez.",
+            "ro": "O plimbare de iarnă prin Michalovce începe revigorant în piața centrală. Bisericile încălzite oferă un popas plăcut între obiectivele istorice. La prânz, istoria bogată de la Muzeul Zemplín vă va încălzi spiritul. Deoarece se întunecă devreme, Observatorul oferă atmosfera perfectă pentru observații stelare de iarnă încă de după-amiază.",
+            "en": "A winter stroll through Michalovce starts refreshingly at the main square. Heated churches offer a warm respite between historic stops. Midday is the time to warm up inside the Zemplín Museum while exploring local history. Since it gets dark early, the Observatory provides the perfect late-afternoon atmosphere for winter stargazing."
+          },
+          "stops": [
+            {
+              "name": "Liberators' Square (Námestie osloboditeľov)",
+              "tip_4lang": {
+                "de": "Genießen Sie die Winterbeleuchtung und suchen Sie ein warmes Café.",
+                "hu": "Élvezze a téli kivilágítást, és keressen egy meleg kávézót.",
+                "ro": "Bucurați-vă de iluminatul de iarnă și căutați o cafenea caldă.",
+                "en": "Enjoy the winter lights and look for a warm café."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Virgin Mary",
+              "tip_4lang": {
+                "de": "Die dicken Mauern schützen vor dem kalten Wind.",
+                "hu": "A vastag falak megvédenek a hideg széltől.",
+                "ro": "Zidurile groase vă protejează de vântul rece.",
+                "en": "The thick walls protect you from the cold wind."
+              }
+            },
+            {
+              "name": "Roman Catholic Parish Church",
+              "tip_4lang": {
+                "de": "Ein Ort der Stille und moderaten Wärme im Winter.",
+                "hu": "A csend és a mérsékelt meleg helyszíne télen.",
+                "ro": "Un loc de liniște și căldură moderată pe timp de iarnă.",
+                "en": "A place of silence and moderate warmth in winter."
+              }
+            },
+            {
+              "name": "Sztáray Manor House",
+              "tip_4lang": {
+                "de": "Wärmen Sie sich in den prachtvollen Räumen des Herrenhauses auf.",
+                "hu": "Melegedjen fel a kastély impozáns termeiben.",
+                "ro": "Încălziți-vă în sălile impunătoare ale conacului.",
+                "en": "Warm up in the impressive rooms of the manor house."
+              }
+            },
+            {
+              "name": "Zemplín Museum",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre schwere Winterkleidung.",
+                "hu": "Használja a ruhatárat a nehéz téli kabátokhoz.",
+                "ro": "Folosiți garderoba pentru hainele grele de iarnă.",
+                "en": "Use the cloakroom for your heavy winter coats."
+              }
+            },
+            {
+              "name": "Michalovce Observatory",
+              "tip_4lang": {
+                "de": "Frühe Dunkelheit bedeutet frühere Beobachtungsmöglichkeiten.",
+                "hu": "A korai sötétedés korábbi megfigyelési lehetőséget jelent.",
+                "ro": "Întunericul timpuriu înseamnă oportunități de observare mai devreme.",
+                "en": "Early darkness means earlier observation opportunities."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten, da es in den Museen warm ist.",
+              "Achten Sie auf rutschige Stellen auf dem Pflaster.",
+              "Die Sonne geht im Winter bereits gegen 16:00 Uhr unter.",
+              "Kirchen sind oft kühler als Museen, behalten Sie die Jacke an."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a múzeumokban meleg van.",
+              "Ügyeljen a csúszós foltokra a kövezeten.",
+              "A nap télen már 16:00 óra körül lemegy.",
+              "A templomok hűvösebbek lehetnek, hagyja magán a kabátot."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, deoarece în muzee este cald.",
+              "Atenție la porțiunile alunecoase de pe pavaj.",
+              "Soarele apune în jurul orei 16:00 iarna.",
+              "Bisericile pot fi mai răcoroase, păstrați haina pe dvs."
+            ],
+            "en": [
+              "Dress in layers as it is warm inside the museums.",
+              "Watch out for slippery spots on the pavement.",
+              "The sun sets around 4:00 PM in winter.",
+              "Churches can be cooler than museums, keep your jacket on."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -562,6 +744,188 @@
           "Wear a helmet and use lights if riding in the evening.",
           "Some streets may not have dedicated bike lanes, so be cautious."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotzen Sie dem Regen auf zwei Rädern durch Michalovce. Der kurze Weg zwischen den Kirchen hält die Belastung gering. Das Sztáray-Herrenhaus bietet eine ausgiebige trockene Pause für Radfahrer. Am Nachmittag führt die Fahrt zur Sternwarte, wo Sie Ihr Rad abstellen und im Trockenen forschen können. Ein Tag für wetterfeste Abenteurer.",
+            "hu": "Dacoljon az esővel két keréken Michalovcében. A templomok közötti rövid távolság minimalizálja az ázást. A Sztáray-kastély bőséges száraz pihenőt kínál a bringásoknak. Délután a csillagvizsgáló felé vezet az út, ahol leparkolhat, és fedett helyen kutathat. Egy nap az időjárásálló kalandoroknak.",
+            "ro": "Înfruntați ploaia pe două roți prin Michalovce. Distanța scurtă dintre biserici reduce expunerea la intemperii. Conacul Sztáray oferă o pauză lungă și uscată pentru bicicliști. După-amiaza, drumul duce spre Observator, unde puteți lăsa bicicleta și explora la adăpost. O zi pentru aventurieri rezistenți.",
+            "en": "Brave the rain on two wheels through Michalovce. The short distance between churches minimizes your time in the rain. Sztáray Manor offers a generous dry break for cyclists. In the afternoon, head to the Observatory where you can park and explore indoors. A day for weather-proof adventurers."
+          },
+          "stops": [
+            {
+              "name": "Liberators' Square (Námestie osloboditeľov)",
+              "tip_4lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a fékezéssel a nedves macskakövön.",
+                "ro": "Atenție la frânare pe pavajul umed.",
+                "en": "Be careful when braking on wet cobblestones."
+              }
+            },
+            {
+              "name": "Roman Catholic Parish Church",
+              "tip_4lang": {
+                "de": "Suchen Sie einen geschützten Abstellplatz für Ihr Fahrrad.",
+                "hu": "Keressen védett helyet a kerékpár leparkolásához.",
+                "ro": "Căutați un loc protejat pentru a lăsa bicicleta.",
+                "en": "Look for a sheltered spot to park your bike."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Virgin Mary",
+              "tip_4lang": {
+                "de": "Kurzer Stopp, um die Ausrüstung zu richten.",
+                "hu": "Rövid megálló a felszerelés igazítására.",
+                "ro": "Scurt popas pentru a vă ajusta echipamentul.",
+                "en": "Short stop to adjust your gear."
+              }
+            },
+            {
+              "name": "Sztáray Manor House & Zemplín Museum",
+              "tip_4lang": {
+                "de": "Perfekter Ort, um die Regenkleidung kurz zu lüften.",
+                "hu": "Tökéletes hely az esőruházat rövid szellőztetésére.",
+                "ro": "Loc perfect pentru a vă aerisi puțin hainele de ploaie.",
+                "en": "Perfect place to air out your rain gear briefly."
+              }
+            },
+            {
+              "name": "Michalovce Observatory",
+              "tip_4lang": {
+                "de": "Der Anstieg kann bei Regen rutschig sein, fahren Sie vorsichtig.",
+                "hu": "Az emelkedő esőben csúszós lehet, hajtson óvatosan.",
+                "ro": "Urcarea poate fi alunecoasă pe ploaie, pedalați cu atenție.",
+                "en": "The climb can be slippery in the rain, ride carefully."
+              }
+            },
+            {
+              "name": "Chapel of Saint Anthony of Padua",
+              "tip_4lang": {
+                "de": "Ein ruhiger Endpunkt unter schützenden Bäumen.",
+                "hu": "Csendes végállomás védelmező fák alatt.",
+                "ro": "Un punct final liniștit sub copaci protectori.",
+                "en": "A quiet end point under protective trees."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie Pfützen, da diese Schlaglöcher verdecken können.",
+              "Prüfen Sie Ihre Bremsen vor der Fahrt im Regen.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss."
+            ],
+            "hu": [
+              "Kerülje a tócsákat, mert kátyúkat rejthetnek.",
+              "Ellenőrizze a fékeket az esős indulás előtt.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóságért.",
+              "A sárvédő elengedhetetlen ilyen időben."
+            ],
+            "ro": [
+              "Evitați bălțile, deoarece pot ascunde gropi.",
+              "Verificați frânele înainte de plecare pe ploaie.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate.",
+              "Apărătorile de noroi sunt obligatorii pe această vreme."
+            ],
+            "en": [
+              "Avoid puddles as they can hide potholes.",
+              "Check your brakes before starting in the rain.",
+              "Wear a bright raincoat for better visibility.",
+              "Mudguards are essential in this weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Michalovce auf dem Rad. Die klare Luft belebt die Fahrt zwischen den architektonischen Highlights. In den Museen finden Sie die nötige Wärme, um die Tour fortzusetzen. Die Sternwarte ist das Highlight am Nachmittag, bevor die Winterkälte zu stark wird. Ein sportlicher Tag mit vielen kulturellen Aufwärmpausen.",
+            "hu": "Fedezze fel a téli Michalovcét kerékpáron. A tiszta levegő élénkíti az utat az építészeti remekművek között. A múzeumokban megtalálja a szükséges meleget a túra folytatásához. A csillagvizsgáló a délután fénypontja, mielőtt a téli hideg túl erőssé válna. Sportos nap kulturális melegedőkkel tarkítva.",
+            "ro": "Explorați Michalovce în straie de iarnă pe bicicletă. Aerul curat revigorează traseul printre bijuteriile arhitecturale. În muzee veți găsi căldura necesară pentru a continua turul. Observatorul este punctul culminant al după-amiezii. O zi sportivă presărată cu pauze culturale de încălzire.",
+            "en": "Explore winter Michalovce on a bike. The crisp air invigorates the ride between architectural highlights. You'll find the necessary warmth in museums to continue your tour. The Observatory is the afternoon highlight before the winter cold sets in. A sporty day balanced with cultural warm-up breaks."
+          },
+          "stops": [
+            {
+              "name": "Liberators' Square (Námestie osloboditeľov)",
+              "tip_4lang": {
+                "de": "Vorsicht vor vereisten Stellen auf dem Platz.",
+                "hu": "Vigyázzon a jeges foltokra a téren.",
+                "ro": "Atenție la porțiunile înghețate din piață.",
+                "en": "Watch out for icy patches on the square."
+              }
+            },
+            {
+              "name": "Roman Catholic Parish Church",
+              "tip_4lang": {
+                "de": "Kurze Pause, um die kalten Finger aufzuwärmen.",
+                "hu": "Rövid szünet a hideg ujjak felmelegítésére.",
+                "ro": "Scurtă pauză pentru a vă încălzi degetele amorțite.",
+                "en": "Short break to warm up cold fingers."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Virgin Mary",
+              "tip_4lang": {
+                "de": "Nutzen Sie das Lichtspiel im Inneren.",
+                "hu": "Élvezze a benti fényjátékot.",
+                "ro": "Bucurați-vă de jocul de lumini din interior.",
+                "en": "Enjoy the play of light inside."
+              }
+            },
+            {
+              "name": "Sztáray Manor House & Zemplín Museum",
+              "tip_4lang": {
+                "de": "Längere Pause einplanen, um den Körper aufzutauen.",
+                "hu": "Tervezzen hosszabb pihenőt a test felmelegítésére.",
+                "ro": "Alocați o pauză mai lungă pentru a vă dezmorți.",
+                "en": "Plan a longer break to thaw out your body."
+              }
+            },
+            {
+              "name": "Michalovce Observatory",
+              "tip_4lang": {
+                "de": "Warme Kleidung ist für den Aufenthalt hier wichtig.",
+                "hu": "A meleg ruházat fontos az itt-tartózkodáshoz.",
+                "ro": "Îmbrăcămintea groasă este esențială pentru vizită.",
+                "en": "Warm clothing is essential for your stay here."
+              }
+            },
+            {
+              "name": "Chapel of Saint Anthony of Padua",
+              "tip_4lang": {
+                "de": "Die Winterstille hier ist besonders friedlich.",
+                "hu": "A téli csend itt különösen békés.",
+                "ro": "Liniștea iernii este deosebit de pașnică aici.",
+                "en": "The winter silence here is especially peaceful."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Achten Sie auf Streusalz, es kann die Kette korrodieren.",
+              "Benutzen Sie helles Licht, da die Sicht oft eingeschränkt ist.",
+              "Halten Sie die Fahrten zwischen den Stopps kurz."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "Ügyeljen a szórósóra, mert korrodálhatja a láncot.",
+              "Használjon erős lámpákat a korlátozott látási viszonyok miatt.",
+              "Tartsa röviden a megállók közötti tekerést."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Atenție la sarea de pe drum, poate coroda lanțul.",
+              "Folosiți lumini puternice, vizibilitatea este adesea redusă.",
+              "Păstrați porțiunile de pedalat scurte între obiective."
+            ],
+            "en": [
+              "Wear windproof gloves and a hat under your helmet.",
+              "Watch out for road salt as it can corrode your chain.",
+              "Use bright lights as visibility is often limited.",
+              "Keep the cycling stretches short between stops."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -854,6 +1218,206 @@
           "The cluster-walking method is ideal for minimizing parking hassles.",
           "A GPS is helpful for navigating between the clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Michalovce komfortabel vom Auto aus. Der Regen kann Ihnen nichts anhaben, während Sie von den historischen Kirchen zum Museumsviertel fahren. Das Zemplín-Museum bietet ein stundenlanges Programm im Trockenen. Den Tag beschließen Sie mit einem Blick von der Sternwarte und einem gemütlichen Abendessen in der Innenstadt, alles leicht erreichbar trotz Schmuddelwetter.",
+            "hu": "Élvezze Michalovcét kényelmesen az autóból. Az eső nem akadály, miközben a történelmi templomoktól a múzeumi negyedig autózik. A Zempléni Múzeum többórás benti programot kínál. A napot a csillagvizsgáló látványával és egy belvárosi vacsorával zárhatja, melyek a zord idő ellenére is könnyen elérhetőek.",
+            "ro": "Bucurați-vă de Michalovce confortabil din mașină. Ploaia nu este un obstacol în timp ce conduceți de la bisericile istorice la cartierul muzeelor. Muzeul Zemplín oferă un program de câteva ore la adăpost. Încheiați ziua cu o vizită la Observator și o cină în centru, toate ușor accesibile în ciuda vremii urâte.",
+            "en": "Enjoy Michalovce comfortably from your car. The rain won't stop you as you drive from historic churches to the museum quarter. The Zemplín Museum offers hours of indoor activities. End your day with a visit to the Observatory and a cozy dinner downtown, all easily accessible despite the gloomy weather."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Historic Center",
+              "tip_4lang": {
+                "de": "Parken Sie nah am Platz, um den Fußweg im Regen zu minimieren.",
+                "hu": "Parkoljon közel a térhez, hogy minimális legyen a gyaloglás az esőben.",
+                "ro": "Parcați aproape de piață pentru a minimiza mersul prin ploaie.",
+                "en": "Park close to the square to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Virgin Mary",
+              "tip_4lang": {
+                "de": "Kurzer Sprint vom Auto zum Kircheneingang.",
+                "hu": "Gyors sprint az autótól a templombejáratig.",
+                "ro": "Un sprint scurt de la mașină până la intrarea în biserică.",
+                "en": "Short sprint from the car to the church entrance."
+              }
+            },
+            {
+              "name": "Old Courthouse Building",
+              "tip_4lang": {
+                "de": "Betrachten Sie die Fassade direkt aus dem trockenen Wagen.",
+                "hu": "Csodálja meg a homlokzatot közvetlenül a száraz autóból.",
+                "ro": "Admirați fațada direct din mașina uscată.",
+                "en": "Admire the facade directly from the dry car."
+              }
+            },
+            {
+              "name": "Cluster B: Museum Quarter",
+              "tip_4lang": {
+                "de": "Nutzen Sie den museumseigenen Parkplatz.",
+                "hu": "Használja a múzeum saját parkolóját.",
+                "ro": "Folosiți parcarea proprie a muzeului.",
+                "en": "Use the museum's own parking lot."
+              }
+            },
+            {
+              "name": "Zemplín Museum",
+              "tip_4lang": {
+                "de": "Ideal für einen langen Aufenthalt, während es draußen regnet.",
+                "hu": "Ideális hosszú tartózkodásra, amíg kint esik.",
+                "ro": "Ideal pentru o vizită lungă în timp ce afară plouă.",
+                "en": "Ideal for a long stay while it's raining outside."
+              }
+            },
+            {
+              "name": "Cluster C: Panoramic View",
+              "tip_4lang": {
+                "de": "Genießen Sie das Panorama durch die Windschutzscheibe.",
+                "hu": "Élvezze a panorámát a szélvédőn keresztül.",
+                "ro": "Bucurați-vă de panoramă prin parbriz.",
+                "en": "Enjoy the panorama through the windshield."
+              }
+            },
+            {
+              "name": "Late Lunch/Early Dinner",
+              "tip_4lang": {
+                "de": "Wählen Sie ein Restaurant mit nahem Parkplatz.",
+                "hu": "Válasszon éttermet közeli parkolóval.",
+                "ro": "Alegeți un restaurant cu parcare în apropiere.",
+                "en": "Choose a restaurant with nearby parking."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht vor Aquaplaning auf den Hauptstraßen.",
+              "Halten Sie einen Schirm im Auto für die Wege zum Eingang bereit.",
+              "Die Parkplatzsuche in der Innenstadt kann bei Regen länger dauern.",
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer."
+            ],
+            "hu": [
+              "Vigyázzon a vízreutás (aquaplaning) veszélyére a főutakon.",
+              "Tartson esernyőt az autóban a bejáratig tartó útra.",
+              "A belvárosi parkolás esőben lassabb lehet a nagyobb forgalom miatt.",
+              "Ellenőrizze az ablaktörlők állapotát."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile principale.",
+              "Țineți o umbrelă în mașină pentru drumul până la intrare.",
+              "Găsirea unui loc de parcare în centru poate dura mai mult pe ploaie.",
+              "Verificați starea ștergătoarelor de parbriz."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the main roads.",
+              "Keep an umbrella in the car for the walk to the entrance.",
+              "Finding parking downtown might take longer in the rain.",
+              "Check the condition of your windshield wipers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Ausflug per Auto durch Michalovce bietet Wärme und Flexibilität. Besuchen Sie die historischen Zentren, ohne lange der Kälte ausgesetzt zu sein. Das Zemplín-Museum ist der perfekte Ort für den Mittag, gefolgt von der Sternwarte, die im Winter früh ihre Pforten für Sternengucker öffnet. Ein gemütliches Abendessen rundet den Tag ab, bevor Sie sicher im beheizten Wagen heimfahren.",
+            "hu": "A téli autós kirándulás Michalovcében meleget és rugalmasságot kínál. Látogassa meg a történelmi központot anélkül, hogy sokáig ki lenne téve a hidegnek. A Zempléni Múzeum tökéletes helyszín délben, majd következhet a csillagvizsgáló, amely télen korábban várja az érdeklődőket. Egy hangulatos vacsora zárja a napot, mielőtt a fűtött autóval hazaindulna.",
+            "ro": "O excursie de iarnă cu mașina prin Michalovce oferă căldură și flexibilitate. Vizitați centrele istorice fără a fi expuși mult timp la frig. Muzeul Zemplín este locul perfect pentru prânz, urmat de Observator, care iarna își deschide porțile mai devreme. O cină plăcută încheie ziua, înainte de a pleca spre casă în mașina încălzită.",
+            "en": "A winter car trip through Michalovce offers warmth and flexibility. Visit the historic centers without long exposure to the cold. Zemplín Museum is the perfect midday spot, followed by the Observatory, which opens earlier for stargazing in winter. A cozy dinner rounds off the day before heading home in your heated vehicle."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Historic Center",
+              "tip_4lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul să meargă inutil în staționare.",
+                "en": "Do not leave the engine idling unnecessarily."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Virgin Mary",
+              "tip_4lang": {
+                "de": "Achten Sie auf Glatteis auf den Parkplätzen.",
+                "hu": "Ügyeljen a jegesedésre a parkolókban.",
+                "ro": "Atenție la polei în zonele de parcare.",
+                "en": "Watch out for black ice in parking areas."
+              }
+            },
+            {
+              "name": "Old Courthouse Building",
+              "tip_4lang": {
+                "de": "Ein schneller Fotostopp ist auch bei Kälte möglich.",
+                "hu": "Egy gyors fotómegálló hidegben is belefér.",
+                "ro": "O oprire rapidă pentru poze este posibilă și pe ger.",
+                "en": "A quick photo stop is possible even in the cold."
+              }
+            },
+            {
+              "name": "Cluster B: Museum Quarter",
+              "tip_4lang": {
+                "de": "Die Heizung im Museum ist sehr angenehm.",
+                "hu": "A múzeum fűtése nagyon kellemes.",
+                "ro": "Căldura din muzeu este foarte plăcută.",
+                "en": "The heating in the museum is very pleasant."
+              }
+            },
+            {
+              "name": "Zemplín Museum",
+              "tip_4lang": {
+                "de": "Nehmen Sie sich Zeit, es ist der wärmste Ort der Tour.",
+                "hu": "Szánjon rá időt, ez a túra legmelegebb pontja.",
+                "ro": "Nu vă grăbiți, este cel mai călduros punct al turului.",
+                "en": "Take your time, it's the warmest point of the tour."
+              }
+            },
+            {
+              "name": "Cluster C: Panoramic View",
+              "tip_4lang": {
+                "de": "Die Winterfern sicht kann hier oben spektakulär sein.",
+                "hu": "A téli kilátás innen fentről látványos lehet.",
+                "ro": "Vizibilitatea de iarnă poate fi spectaculoasă de aici.",
+                "en": "The winter view from up here can be spectacular."
+              }
+            },
+            {
+              "name": "Late Lunch/Early Dinner",
+              "tip_4lang": {
+                "de": "Genießen Sie die winterliche Atmosphäre bei einer heißen Suppe.",
+                "hu": "Élvezze a téli hangulatot egy forró leves mellett.",
+                "ro": "Bucurați-vă de atmosfera de iarnă cu o supă fierbinte.",
+                "en": "Enjoy the winter atmosphere with a hot soup."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Sie Winterreifen aufgezogen haben.",
+              "Ein Eiskratzer und Frostschutzmittel sind unerlässlich.",
+              "Planen Sie mehr Zeit für die Fahrt auf verschneiten Straßen ein.",
+              "Parkhäuser sind im Winter oft eisfrei und komfortabler."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy fent vannak a téli gumik.",
+              "A jégkaparó és a fagyálló folyadék elengedhetetlen.",
+              "Tervezzen több időt a közlekedésre havas utakon.",
+              "A parkolóházak télen gyakran jégmentesek és kényelmesebbek."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți anvelope de iarnă montate.",
+              "Răzuitoarea de gheață și lichidul antigriz sunt esențiale.",
+              "Alocați mai mult timp pentru condus pe drumuri înzăpezite.",
+              "Parcările acoperite sunt adesea fără gheață și mai confortabile."
+            ],
+            "en": [
+              "Make sure you have winter tires fitted.",
+              "An ice scraper and anti-freeze are essential.",
+              "Plan more time for driving on snowy roads.",
+              "Parking garages are often ice-free and more comfortable in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1122,6 +1686,188 @@
           "Have some small change ready for tickets.",
           "Most bus drivers may not speak English, so have your destination ready."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Busnetz von Michalovce für einen regensicheren Tag. Starten Sie im Zentrum und nutzen Sie die kurzen Wege zwischen den Kirchen. Der Bus bringt Sie bequem zum Zemplín-Museum, wo Sie die Mittagsstunden verbringen. Am Nachmittag führt die Fahrt zur Sternwarte, bevor Sie den Tag bei einem Abendessen in der Innenstadt ausklingen lassen, während draußen der Regen fällt.",
+            "hu": "Használja Michalovce buszhálózatát egy esőbiztos naphoz. Kezdjen a központban, használja ki a templomok közötti rövid távokat. A busz kényelmesen elviszi a Zempléni Múzeumba, ahol a déli órákat töltheti. Délután az út a csillagvizsgálóhoz vezet, majd a napot egy belvárosi vacsorával zárhatja, miközben kint esik az eső.",
+            "ro": "Folosiți rețeaua de autobuze din Michalovce pentru o zi ferită de ploaie. Începeți în centru, profitând de distanțele scurte dintre biserici. Autobuzul vă duce confortabil la Muzeul Zemplín pentru prânz. După-amiaza, traseul continuă spre Observator, încheind ziua cu o cină în centru în timp ce afară plouă.",
+            "en": "Use Michalovce's bus network for a rain-proof day. Start in the center, taking advantage of the short distances between churches. The bus takes you comfortably to the Zemplín Museum for the midday hours. In the afternoon, head to the Observatory before ending your day with a downtown dinner while the rain falls outside."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Arrival in the Center",
+              "tip_4lang": {
+                "de": "Warten Sie in den Bushäuschen auf den nächsten Anschluss.",
+                "hu": "Várjon a buszmegállók fedett váróiban a következő járatra.",
+                "ro": "Așteptați în refugiile acoperite din stații.",
+                "en": "Wait in the sheltered bus stops for your next connection."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Virgin Mary",
+              "tip_4lang": {
+                "de": "Die Bushaltestellen sind oft nur wenige Schritte entfernt.",
+                "hu": "A buszmegállók gyakran csak pár lépésre vannak.",
+                "ro": "Stațiile de autobuz sunt adesea la doar câțiva pași distanță.",
+                "en": "Bus stops are often just a few steps away."
+              }
+            },
+            {
+              "name": "Roman Catholic Parish Church",
+              "tip_4lang": {
+                "de": "Prüfen Sie die Fahrpläne online, um Wartezeiten im Regen zu vermeiden.",
+                "hu": "Ellenőrizze a menetrendet online, hogy elkerülje az esőben várakozást.",
+                "ro": "Verificați orarul online pentru a evita așteptarea în ploaie.",
+                "en": "Check schedules online to avoid waiting in the rain."
+              }
+            },
+            {
+              "name": "Cluster B: Trip to the Museum",
+              "tip_4lang": {
+                "de": "Der Bus hält fast direkt vor dem Museumsgelände.",
+                "hu": "A busz szinte közvetlenül a múzeum előtt áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața muzeului.",
+                "en": "The bus stops almost directly in front of the museum."
+              }
+            },
+            {
+              "name": "Cluster C: Bus to the Observatory",
+              "tip_4lang": {
+                "de": "Genießen Sie die Fahrt durch die regnerische Stadt.",
+                "hu": "Élvezze az utazást az esős városon keresztül.",
+                "ro": "Bucurați-vă de drumul prin orașul ploios.",
+                "en": "Enjoy the ride through the rainy city."
+              }
+            },
+            {
+              "name": "Dinner in the Center",
+              "tip_4lang": {
+                "de": "Viele Restaurants liegen nah an den zentralen Busknotenpunkten.",
+                "hu": "Sok étterem közel van a központi buszcsomópontokhoz.",
+                "ro": "Multe restaurante sunt aproape de nodurile centrale de transport.",
+                "en": "Many restaurants are close to the central transit hubs."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Ihr Ticket oder Kleingeld griffbereit.",
+              "Vorsicht beim Ein- und Aussteigen auf rutschigen Stufen.",
+              "Nutzen Sie die App für Echtzeit-Fahrpläne.",
+              "Rechnen Sie mit kleinen Verspätungen durch den Verkehr bei Regen."
+            ],
+            "hu": [
+              "Tartsa készenlétben a jegyét vagy az aprópénzt.",
+              "Vigyázzon a csúszós lépcsőkre le- és felszálláskor.",
+              "Használjon menetrendi alkalmazást a valós idejű adatokhoz.",
+              "Számoljon kisebb forgalmi akadályokkal az eső miatt."
+            ],
+            "ro": [
+              "Aveți biletul sau mărunțișul la îndemână.",
+              "Atenție la treptele alunecoase la urcare și coborâre.",
+              "Folosiți aplicația de transport pentru orarul în timp real.",
+              "Luați în calcul mici întârzieri din cauza traficului pe ploaie."
+            ],
+            "en": [
+              "Keep your ticket or small change ready.",
+              "Watch out for slippery steps when boarding or exiting.",
+              "Use a transit app for real-time schedules.",
+              "Expect minor traffic delays due to the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Michalovce stressfrei mit den öffentlichen Verkehrsmitteln. Die beheizten Busse bieten eine warme Überbrückung zwischen den historischen Zielen im Zentrum. Verbringen Sie einen ausgiebigen Mittag im Zemplín-Museum und fahren Sie dann gemütlich zur Sternwarte, um den Winterhimmel zu bestaunen. Der Tag endet perfekt mit einem Abendessen im Herzen der Stadt.",
+            "hu": "Ismerje meg a téli Michalovcét stresszmentesen, tömegközlekedéssel. A fűtött buszok meleg összeköttetést biztosítanak a központi történelmi célpontok között. Töltsön el egy hosszú délutánt a Zempléni Múzeumban, majd utazzon kényelmesen a csillagvizsgálóba a téli égbolt megcsodálására. A nap a város szívében egy vacsorával zárul.",
+            "ro": "Experimentați Michalovce în straie de iarnă fără stres, folosind transportul public. Autobuzele încălzite oferă o legătură călduroasă între obiectivele istorice. Petreceți prânzul la Muzeul Zemplín, apoi mergeți confortabil la Observator pentru a admira cerul de iarnă. Ziua se încheie perfect cu o cină în inima orașului.",
+            "en": "Experience winter Michalovce stress-free with public transit. Heated buses provide a warm link between historic sites in the center. Spend your midday at the Zemplín Museum, then travel comfortably to the Observatory to gaze at the winter sky. The day ends perfectly with a dinner in the heart of the city."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Arrival in the Center",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Wärme im Bus so lange wie möglich.",
+                "hu": "Használja ki a busz melegét, ameddig csak lehet.",
+                "ro": "Profitați de căldura din autobuz cât mai mult posibil.",
+                "en": "Enjoy the warmth of the bus for as long as possible."
+              }
+            },
+            {
+              "name": "Church of the Nativity of the Virgin Mary",
+              "tip_4lang": {
+                "de": "Kurze Fußwege halten die Kälte fern.",
+                "hu": "A rövid gyalogutak távol tartják a hideget.",
+                "ro": "Drumurile scurte pe jos vă feresc de frig.",
+                "en": "Short walks on foot keep the cold away."
+              }
+            },
+            {
+              "name": "Roman Catholic Parish Church",
+              "tip_4lang": {
+                "de": "Planen Sie Ihre Fahrten so, dass Sie kaum draußen warten.",
+                "hu": "Tervezze úgy az utat, hogy minimálisat kelljen kint várni.",
+                "ro": "Planificați călătoriile astfel încât să așteptați cât mai puțin afară.",
+                "en": "Plan your trips to minimize waiting outside."
+              }
+            },
+            {
+              "name": "Cluster B: Trip to the Museum",
+              "tip_4lang": {
+                "de": "Die Busse fahren regelmäßig in diese Richtung.",
+                "hu": "A buszok rendszeresen járnak ebbe az irányba.",
+                "ro": "Autobuzele circulă regulat în această direcție.",
+                "en": "Buses run regularly in this direction."
+              }
+            },
+            {
+              "name": "Cluster C: Bus to the Observatory",
+              "tip_4lang": {
+                "de": "Achten Sie auf die früheren Winter-Fahrpläne.",
+                "hu": "Ügyeljen az esetleges téli menetrendi változásokra.",
+                "ro": "Atenție la eventualele modificări ale orarului de iarnă.",
+                "en": "Watch out for any winter schedule changes."
+              }
+            },
+            {
+              "name": "Dinner in the Center",
+              "tip_4lang": {
+                "de": "Nach dem Essen ist die Bushaltestelle schnell erreicht.",
+                "hu": "Vacsora után a buszmegálló gyorsan elérhető.",
+                "ro": "După cină, stația de autobuz este rapid accesibilă.",
+                "en": "After dinner, the bus stop is quickly accessible."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haltestellen können im Winter glatt sein, Vorsicht beim Aussteigen.",
+              "Tragen Sie warme Schuhe, da die Böden in Bussen kalt sein können.",
+              "Die Busse sind im Winter ein willkommener Ort zum Aufwärmen.",
+              "Prüfen Sie die letzte Verbindung, falls Sie spät essen."
+            ],
+            "hu": [
+              "A megállók télen csúszósak lehetnek, vigyázzon a leszállásnál.",
+              "Viseljen meleg cipőt, mert a buszok padlója hideg lehet.",
+              "A buszok télen kiváló helyszínek a felmelegedésre.",
+              "Ellenőrizze az utolsó járatot, ha későn vacsorázik."
+            ],
+            "ro": [
+              "Stațiile pot fi alunecoase iarna, atenție la coborâre.",
+              "Purtați încălțăminte groasă, podeaua autobuzelor poate fi rece.",
+              "Autobuzele sunt un loc binevenit pentru încălzire iarna.",
+              "Verificați ultima cursă dacă luați cina târziu."
+            ],
+            "en": [
+              "Stops can be slippery in winter, be careful when exiting.",
+              "Wear warm shoes as bus floors can be cold.",
+              "Buses are a welcome place to warm up in winter.",
+              "Check the last connection if you have a late dinner."
+            ]
+          }
+        }
       }
     }
   }

@@ -359,6 +359,206 @@
           "Take time for a coffee break to observe the local life.",
           "Be respectful at religious sites and dress appropriately."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Uhrturm, wo die nassen Steine im Regen glänzen. Mittags bieten das Mausoleum und die Moschee willkommene überdachte Rückzugsorte für historische Entdeckungen. Am Nachmittag wärmen wir uns bei einem ausgiebigen Mittagessen im Zentrum auf, während der Regen gegen die Scheiben prasselt. Den Abend lassen wir mit einem kurzen, erfrischenden Spaziergang zum Schwarzen Denkmal ausklingen.",
+            "hu": "Reggel az óratorony eső áztatta kövei között kezdünk, esernyővel a kézben. Délben a Gazi Evrenos mauzóleum védelmében és a közeli mecsetnél fedezünk fel fedett részleteket. Délután egy hangulatos belvárosi étteremben melegszünk fel egy gőzölgő görög kávé mellett, elkerülve a záporokat. Este a Fekete szobornál tett rövid séta után a város fényeiben gyönyörködünk a nedves aszfalton.",
+            "ro": "Dimineața începe la Turnul cu Ceas, unde pietrele umede strălucesc sub ploaie. La prânz, Mausoleul și Moscheea oferă adăposturi acoperite perfecte pentru explorări istorice. După-amiaza ne încălzim cu o cafea grecească într-un restaurant central, în timp ce ploaia bate în geam. Seara se încheie cu o scurtă plimbare revigorantă până la Statuia Neagră, admirând reflexiile luminilor orașului.",
+            "en": "The day starts at the Clock Tower, where the wet stones glisten in the rain. At noon, the Mausoleum and Mosque provide welcome covered shelters for historical discoveries. In the afternoon, we warm up with a long lunch in the center while the rain drums against the windows. The evening concludes with a short, refreshing walk to the Black Statue, admiring the city lights on the damp asphalt."
+          },
+          "stops": [
+            {
+              "name": "Clock Tower of Giannitsa",
+              "tip_5lang": {
+                "de": "Der Platz kann bei Regen rutschig sein.",
+                "hu": "Az óratorony előtti tér vizesen csúszhat.",
+                "ro": "Piața poate fi alunecoasă pe ploaie.",
+                "en": "The square can be slippery when wet."
+              }
+            },
+            {
+              "name": "Statue of Alexander the Great",
+              "tip_5lang": {
+                "de": "Ein kurzes Foto unter dem Regenschirm genügt.",
+                "hu": "Egy gyors fotó az esernyő alól is elég.",
+                "ro": "O fotografie rapidă sub umbrelă este suficientă.",
+                "en": "A quick photo under the umbrella is enough."
+              }
+            },
+            {
+              "name": "Mausoleum of Gazi Evrenos",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bereich zum Lesen.",
+                "hu": "Használja a fedett részt az ismertető olvasásához.",
+                "ro": "Folosiți zona acoperită pentru a citi informațiile.",
+                "en": "Use the covered area to read the info."
+              }
+            },
+            {
+              "name": "Mosque of Iskender Bey",
+              "tip_5lang": {
+                "de": "Trockener Rückzugsort für Architektur-Fans.",
+                "hu": "Száraz menedék az építészet kedvelőinek.",
+                "ro": "Refugiu uscat pentru fanii arhitecturii.",
+                "en": "Dry retreat for architecture fans."
+              }
+            },
+            {
+              "name": "Church of Agios Georgios",
+              "tip_5lang": {
+                "de": "Perfekt, um den stärksten Schauer abzuwarten.",
+                "hu": "Tökéletes hely a legnagyobb zápor kivárására.",
+                "ro": "Locul perfect pentru a aștepta trecerea ploii.",
+                "en": "Perfect place to wait out the heaviest downpour."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Platz fernab der Tür.",
+                "hu": "Kérjen asztalt távol a huzatos bejárattól.",
+                "ro": "Cereți o masă departe de intrare.",
+                "en": "Ask for a table away from the drafty entrance."
+              }
+            },
+            {
+              "name": "Black Statue (Mavro Agalma)",
+              "tip_5lang": {
+                "de": "Kurzer Stopp vor der Rückkehr ins Hotel.",
+                "hu": "Rövid megálló a szállásra való visszatérés előtt.",
+                "ro": "Oprire scurtă înainte de întoarcerea la hotel.",
+                "en": "Short stop before returning to your accommodation."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da Windböen möglich sind.",
+              "Die Fußgängerzonen haben glatte Fliesen, tragen Sie griffige Schuhe.",
+              "Nutzen Sie die vielen Cafés im Zentrum für Pausen im Trockenen.",
+              "Die Sicht auf die umliegenden Berge ist bei Regen oft wolkenverhangen."
+            ],
+            "hu": [
+              "Vigyen stabil esernyőt, mert a szél könnyen belekaphat.",
+              "A sétálóutca kövei vizesen csúszósak, válasszon tapadós talpú cipőt.",
+              "Használja ki a központ számos kávézóját a száraz pihenőkhöz.",
+              "A hegyekre nyíló kilátást ilyenkor gyakran ködfátyol takarja."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, deoarece sunt posibile rafale de vânt.",
+              "Pietrele din zona pietonală sunt alunecoase, purtați pantofi cu aderență.",
+              "Profită de numeroasele cafenele din centru pentru pauze la uscat.",
+              "Vederea spre munți este adesea acoperită de nori în zilele ploioase."
+            ],
+            "en": [
+              "Take a sturdy umbrella as wind gusts are common in the area.",
+              "The pedestrian zone tiles are slippery when wet; wear grippy shoes.",
+              "Take advantage of the many central cafes for dry breaks.",
+              "Mountain views are often obscured by clouds during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt am kühlen Uhrturm. Die frische Bergluft begleitet uns zum Denkmal Alexanders des Großen, bevor wir uns in den historischen Innenräumen der Museen und Kirchen aufwärmen. Mittags genießen wir kräftige lokale Suppen in einer warmen Taverne. Da es früh dunkel wird, bewundern wir das beleuchtete Schwarze Denkmal bereits am späten Nachmittag in der blauen Stunde.",
+            "hu": "A tiszta téli reggel a hűvös óratoronynál indul. A friss hegyi levegő elkísér minket Nagy Sándor szobráig, mielőtt felmelegednénk a templomok és múzeumok történelmi falai között. Délben laktató helyi leveseket kóstolunk egy fűtött tavernában. Mivel korán sötétedik, a kivilágított Fekete szobrot már késő délután, a kék órában megcsodáljuk.",
+            "ro": "O dimineață senină de iarnă începe la Turnul cu Ceas. Aerul proaspăt de munte ne însoțește până la statuia lui Alexandru cel Mare, înainte de a ne încălzi în interiorul bisericilor. La prânz savurăm supe locale consistente într-o tavernă călduroasă. Deoarece se întunecă devreme, admirăm Statuia Neagră iluminată deja la sfârșitul după-amiezii, în ora albastră.",
+            "en": "A crisp winter morning begins at the chilly Clock Tower. The fresh mountain air accompanies us to Alexander's statue before we warm up inside the historical walls of churches. At noon, we enjoy hearty local soups in a heated tavern. Since it gets dark early, we admire the illuminated Black Statue in the blue hour of the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Clock Tower of Giannitsa",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, der Wind zieht hier.",
+                "hu": "Öltözzön rétegesen, itt gyakran fúj a szél.",
+                "ro": "Îmbrăcați-vă gros, vântul este tăios aici.",
+                "en": "Dress warmly; the wind often whistles through here."
+              }
+            },
+            {
+              "name": "Statue of Alexander the Great",
+              "tip_5lang": {
+                "de": "Kaltes Metall – Vorsicht beim Berühren!",
+                "hu": "Hideg fém – óvatosan az érintésével!",
+                "ro": "Metal rece – atenție la atingere!",
+                "en": "Cold metal – be careful when touching for photos!"
+              }
+            },
+            {
+              "name": "Mausoleum of Gazi Evrenos",
+              "tip_5lang": {
+                "de": "Innen ist es etwas milder als draußen.",
+                "hu": "Bent valamivel enyhébb az idő, mint kint.",
+                "ro": "În interior este ceva mai blând decât afară.",
+                "en": "It is slightly milder inside than outside."
+              }
+            },
+            {
+              "name": "Mosque of Iskender Bey",
+              "tip_5lang": {
+                "de": "Kurze Besichtigung schont die Kräfte.",
+                "hu": "A rövid látogatás segít spórolni az energiával.",
+                "ro": "Vizita scurtă vă ajută să vă păstrați energia.",
+                "en": "A short visit helps conserve your energy."
+              }
+            },
+            {
+              "name": "Church of Agios Georgios",
+              "tip_5lang": {
+                "de": "Ein Ort der Ruhe und relativen Wärme.",
+                "hu": "A nyugalom és a relatív meleg helyszíne.",
+                "ro": "Un loc de liniște și căldură relativă.",
+                "en": "A place of peace and relative warmth."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Probieren Sie heißen griechischen Tee.",
+                "hu": "Kóstolja meg a forró görög hegyi teát.",
+                "ro": "Încercați un ceai grecesc fierbinte.",
+                "en": "Try some hot Greek mountain tea."
+              }
+            },
+            {
+              "name": "Black Statue (Mavro Agalma)",
+              "tip_5lang": {
+                "de": "Beleuchtung wirkt im Winter besonders schön.",
+                "hu": "A világítás télen különösen szépen mutat.",
+                "ro": "Iluminatul arată deosebit de frumos iarna.",
+                "en": "The lighting looks particularly beautiful in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 17:00 Uhr unter, planen Sie das Ende ein.",
+              "Schichtenprinzip ist wichtig, da Innenräume oft stark geheizt sind.",
+              "Trinken Sie ausreichend, auch wenn es kalt ist.",
+              "Die Gehwege können morgens bei Frost glatt sein."
+            ],
+            "hu": [
+              "A nap 17:00 körül nyugszik, tervezze ehhez a végét.",
+              "A réteges öltözködés fontos, a belső terek fűtöttek.",
+              "Igyon elég folyadékot a hideg ellenére is.",
+              "A járdák reggelente a fagytól csúszósak lehetnek."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 17:00, planificați finalul traseului.",
+              "Îmbrăcămintea în straturi este esențială pentru interioare.",
+              "Beți suficiente lichide, chiar dacă este frig.",
+              "Trotuarele pot fi alunecoase dimineața din cauza înghețului."
+            ],
+            "en": [
+              "Sunset is around 5 PM; plan your route to end by then.",
+              "Layered clothing is key as interiors are often well-heated.",
+              "Stay hydrated even if you don't feel thirsty in the cold.",
+              "Sidewalks can be icy in the mornings; watch your step."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -712,6 +912,206 @@
           "Bring plenty of water, especially in summer.",
           "Always lock your bike securely at the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet Giannitsa eine spannende Radtour. Wir starten vorsichtig an den Monumenten und nutzen die asphaltierten Wege im Zentrum. Mittags kehren wir für eine längere Pause ein, um die Kleidung zu trocknen. Am Nachmittag führt die Fahrt kurz zum Stadtrand, wobei wir Pfützen auf den Feldwegen meiden und uns auf die festen Straßen konzentrieren.",
+            "hu": "Az eső ellenére Giannitsa izgalmas kerékpáros élményt nyújt. Óvatosan indulunk a műemlékeknél, kihasználva a központi aszfaltozott utakat. Délben hosszabb pihenőt tartunk, hogy megszárítsuk a felszerelést. Délután a városszélre tekerünk, kerülve a pocsolyákat a földutakon, és a szilárd burkolatra koncentrálunk.",
+            "ro": "În ciuda ploii, Giannitsa oferă o experiență ciclistă interesantă. Începem cu prudență la monumente, folosind drumurile asfaltate din centru. La prânz facem o pauză mai lungă pentru a ne usca echipamentul. După-amiaza pedalăm spre marginea orașului, evitând bălțile de pe drumurile neasfaltate.",
+            "en": "Despite the rain, Giannitsa offers an exciting cycling experience. We start carefully at the monuments, utilizing the central paved roads. At noon, we take a longer break to dry our gear. In the afternoon, the ride heads to the outskirts, avoiding puddles on dirt paths and focusing on solid surfaces."
+          },
+          "stops": [
+            {
+              "name": "Statue of Alexander the Great",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Pflaster.",
+                "hu": "Óvatosan fékezzen a vizes burkolaton.",
+                "ro": "Frânați cu prudență pe pavajul umed.",
+                "en": "Brake carefully on the wet pavement."
+              }
+            },
+            {
+              "name": "Clock Tower of Giannitsa",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, halten Sie den Lenker fest.",
+                "hu": "Rövid megálló, tartsa stabilan a kormányt.",
+                "ro": "Oprire scurtă, țineți ghidonul ferm.",
+                "en": "Short stop; keep a firm grip on the handlebars."
+              }
+            },
+            {
+              "name": "Mausoleum of Gazi Evrenos",
+              "tip_5lang": {
+                "de": "Fahrrad im Sichtbereich unterstellen.",
+                "hu": "Látható helyen, eresz alatt parkoljon.",
+                "ro": "Parcați bicicleta sub streașină, la vedere.",
+                "en": "Park your bike under an eave in sight."
+              }
+            },
+            {
+              "name": "Church of Agios Georgios",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit für eine Trockenpause.",
+                "hu": "Jó alkalom egy száraz pihenőre.",
+                "ro": "O bună ocazie pentru o pauză la uscat.",
+                "en": "Good opportunity for a dry break."
+              }
+            },
+            {
+              "name": "Ride to the outskirts",
+              "tip_5lang": {
+                "de": "Meiden Sie unbefestigte Wege bei Regen.",
+                "hu": "Kerülje a földutakat nagy esőben.",
+                "ro": "Evitați drumurile de pământ pe ploaie mare.",
+                "en": "Avoid unpaved paths during heavy rain."
+              }
+            },
+            {
+              "name": "Lunch with a local view",
+              "tip_5lang": {
+                "de": "Platz für nasse Regenjacken suchen.",
+                "hu": "Keressen helyet a vizes esőkabátnak.",
+                "ro": "Căutați un loc pentru pelerinele ude.",
+                "en": "Find a spot for your wet raincoats."
+              }
+            },
+            {
+              "name": "Black Statue (Mavro Agalma)",
+              "tip_5lang": {
+                "de": "Zügige Rückfahrt nach dem Foto.",
+                "hu": "Gyors visszatérés a fotózás után.",
+                "ro": "Întoarcere rapidă după fotografiere.",
+                "en": "Quick return after taking photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter unverzichtbar.",
+              "Tragen Sie leuchtende Regenbekleidung für bessere Sichtbarkeit.",
+              "Die Bremswege verlängern sich auf nassen Straßen deutlich.",
+              "Achten Sie auf tiefe Pfützen, die Schlaglöcher verbergen könnten."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Viseljen feltűnő esőruházatot a jobb láthatóságért.",
+              "A féktávolság vizes úton jelentősen megnő.",
+              "Ügyeljen a mély pocsolyákra, amik kátyúkat rejthetnek."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe această vreme.",
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate.",
+              "Distanța de frânare crește semnificativ pe drum ud.",
+              "Atenție la bălțile adânci care pot ascunde gropi."
+            ],
+            "en": [
+              "Mudguards are essential in this weather.",
+              "Wear bright rain gear for better visibility in traffic.",
+              "Braking distances increase significantly on wet roads.",
+              "Watch out for deep puddles that might hide potholes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt durch die klare, kalte Luft von Giannitsa. Wir starten zügig im Zentrum, um warm zu bleiben, und besuchen die historischen Stätten. Mittags suchen wir uns eine gemütliche Taverne mit Kamin oder guter Heizung. Am Nachmittag radeln wir zum Stadtrand, wo der Blick auf die schneebedeckten Gipfel in der Ferne besonders beeindruckend ist, bevor wir vor Einbruch der Dunkelheit zurückkehren.",
+            "hu": "A téli kerékpározás a tiszta, hideg levegőn vezet át Giannitsán. Tempósan indulunk a központban, hogy melegen tartsuk magunkat a történelmi helyszínek között. Délben egy kandallós vagy jól fűtött tavernát keresünk. Délután a városszélre tekerünk, ahol a távoli havas csúcsok látványa lenyűgöző, majd sötétedés előtt visszaérünk a városba.",
+            "ro": "Turul cu bicicleta de iarnă trece prin aerul curat și rece al orașului. Începem în ritm alert în centru pentru a ne menține calzi între siturile istorice. La prânz căutăm o tavernă primitoare. După-amiaza pedalăm spre periferie, unde vederea vârfurilor înzăpezite este impresionantă, revenind în oraș înainte de lăsarea întunericului.",
+            "en": "The winter bike tour leads through the crisp, cold air of Giannitsa. We start briskly in the center to stay warm while visiting historical sites. At noon, we look for a cozy tavern with good heating. In the afternoon, we cycle to the outskirts where the view of snowy peaks in the distance is stunning, returning before nightfall."
+          },
+          "stops": [
+            {
+              "name": "Statue of Alexander the Great",
+              "tip_5lang": {
+                "de": "Handschuhe beim Fotografieren anlassen.",
+                "hu": "Fotózás közben is hagyja fent a kesztyűt.",
+                "ro": "Păstrați mănușile chiar și când fotografiați.",
+                "en": "Keep your gloves on while taking photos."
+              }
+            },
+            {
+              "name": "Clock Tower of Giannitsa",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Stellen im Schatten.",
+                "hu": "Vigyázzon az árnyékos részeken a faggyal.",
+                "ro": "Atenție la porțiunile înghețate de la umbră.",
+                "en": "Watch out for frozen patches in the shade."
+              }
+            },
+            {
+              "name": "Mausoleum of Gazi Evrenos",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause im Stehen.",
+                "hu": "Rövid, álló melegedő szünet.",
+                "ro": "Scurtă pauză de încălzire în picioare.",
+                "en": "Short standing warm-up break."
+              }
+            },
+            {
+              "name": "Church of Agios Georgios",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme der Kerzen.",
+                "hu": "Használja ki a gyertyák árasztotta meleget.",
+                "ro": "Profită de căldura lumânărilor.",
+                "en": "Take advantage of the warmth from the candles."
+              }
+            },
+            {
+              "name": "Ride to the outskirts",
+              "tip_5lang": {
+                "de": "Bei Gegenwind wird es sehr kalt.",
+                "hu": "Szembe szélben nagyon lehűl a levegő.",
+                "ro": "Se face foarte frig când bate vântul din față.",
+                "en": "It gets very cold with a headwind."
+              }
+            },
+            {
+              "name": "Lunch with a local view",
+              "tip_5lang": {
+                "de": "Warme Getränke füllen die Reserven auf.",
+                "hu": "A meleg italok feltöltik az energiát.",
+                "ro": "Băuturile calde vă refac rezervele.",
+                "en": "Hot drinks will replenish your energy."
+              }
+            },
+            {
+              "name": "Black Statue (Mavro Agalma)",
+              "tip_5lang": {
+                "de": "Licht am Fahrrad für den Rückweg prüfen.",
+                "hu": "Ellenőrizze a lámpákat a hazaúthoz.",
+                "ro": "Verificați luminile pentru drumul de întors.",
+                "en": "Check your bike lights for the ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Unterwäsche schützt vor dem kalten Fahrtwind.",
+              "Die Reifen sollten etwas weniger Druck für mehr Grip haben.",
+              "Vermeiden Sie lange Stehzeiten im Freien.",
+              "Ein Schlauchtuch schützt Gesicht und Hals ideal."
+            ],
+            "hu": [
+              "A termo-aláöltözet véd a hideg menetszéltől.",
+              "A gumikban legyen kicsit kevesebb nyomás a tapadásért.",
+              "Kerülje a hosszú ideig tartó szabadtéri egy helyben állást.",
+              "A csősál ideálisan védi az arcot és a nyakat."
+            ],
+            "ro": [
+              "Lenjeria termică protejează împotriva vântului rece.",
+              "Anvelopele ar trebui să aibă presiune mai mică pentru aderență.",
+              "Evitați perioadele lungi de staționare în aer liber.",
+              "Un fular tip tub protejează ideal fața și gâtul."
+            ],
+            "en": [
+              "Thermal base layers protect against the cold wind chill.",
+              "Lower your tire pressure slightly for better grip on cold roads.",
+              "Avoid long stationary periods outdoors.",
+              "A neck buff is ideal for protecting your face and throat."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1048,6 +1448,188 @@
           "Buy a combination ticket for the museum and archaeological site in Pella.",
           "Allow plenty of time for the museum; it's extensive."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist der Regen in Giannitsa kein Hindernis. Wir besuchen die Sehenswürdigkeiten im Zentrum bequem und fahren dann zum Archäologischen Museum von Pella, das einen perfekten trockenen Aufenthalt bietet. Mittags genießen wir die lokale Küche in Pella, bevor wir die Ausgrabungsstätten zwischen den Schauern besichtigen und entspannt zurückkehren.",
+            "hu": "Autóval az eső nem akadály Giannitsában. Kényelmesen felkeressük a központi látnivalókat, majd a Pellai Régészeti Múzeumba hajtunk, amely tökéletes fedett program. Délben Pellában kóstoljuk meg a helyi konyhát, mielőtt a záporok között megnéznénk az ásatásokat, majd kényelmesen visszatérünk.",
+            "ro": "Cu mașina, ploaia nu este un obstacol în Giannitsa. Vizităm confortabil atracțiile centrale, apoi mergem la Muzeul Arheologic din Pella, care oferă un program interior perfect. La prânz savurăm bucătăria locală în Pella, înainte de a vizita siturile între averse.",
+            "en": "By car, the rain is no obstacle in Giannitsa. We comfortably visit the central sights and then drive to the Archaeological Museum of Pella, which offers a perfect indoor program. At noon, we enjoy local cuisine in Pella before visiting the excavations between showers."
+          },
+          "stops": [
+            {
+              "name": "Giannitsa Cluster: Clock Tower & Center",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Turm für kurze Wege.",
+                "hu": "Parkoljon közel a toronyhoz a rövid sétaért.",
+                "ro": "Parcați aproape de turn pentru distanțe scurte.",
+                "en": "Park close to the tower for a short walk."
+              }
+            },
+            {
+              "name": "Mausoleum of Gazi Evrenos",
+              "tip_5lang": {
+                "de": "Vom Parkplatz sind es nur wenige Meter.",
+                "hu": "A parkolótól csak pár méter a bejárat.",
+                "ro": "Sunt doar câțiva metri de la parcare.",
+                "en": "It's only a few meters from the parking spot."
+              }
+            },
+            {
+              "name": "Church of Agios Georgios",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als Schutz.",
+                "hu": "Használja a templombejáratot esővédőként.",
+                "ro": "Folosiți intrarea bisericii ca adăpost.",
+                "en": "Use the church entrance as a rain shelter."
+              }
+            },
+            {
+              "name": "Pella Cluster: Archaeological Museum of Pella",
+              "tip_5lang": {
+                "de": "Ideales Ziel für Regentage (Indoor).",
+                "hu": "Ideális célpont esős napokra (beltéri).",
+                "ro": "Destinație ideală pentru zile ploioase.",
+                "en": "Ideal destination for rainy days (indoor)."
+              }
+            },
+            {
+              "name": "Filippeion of Pella",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk für nasse Erde nötig.",
+                "hu": "Vizes föld miatt zárt cipő ajánlott.",
+                "ro": "Încălțăminte rezistentă necesară pentru noroi.",
+                "en": "Sturdy footwear needed for the wet ground."
+              }
+            },
+            {
+              "name": "Late Lunch in Pella",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Regen.",
+                "hu": "Élvezze az eső látványát az ablakból.",
+                "ro": "Bucurați-vă de priveliștea ploii de la fereastră.",
+                "en": "Enjoy the view of the rain from the window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Straße nach Pella.",
+              "Die Parkplätze an den Ausgrabungen können matschig sein.",
+              "Halten Sie Regenschirme im Fahrgastraum griffbereit.",
+              "Nutzen Sie die Sitzheizung nach den Außenstopps."
+            ],
+            "hu": [
+              "Ügyeljen a vízátfolyásokra a Pella felé vezető úton.",
+              "Az ásatásoknál a parkolók sárosak lehetnek.",
+              "Tartsa az esernyőket az utastérben, kézközelben.",
+              "Használja az ülésfűtést a kinti megállók után."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul spre Pella.",
+              "Parcările de la siturile arheologice pot fi noroioase.",
+              "Țineți umbrelele la îndemână în habitaclu.",
+              "Folosiți încălzirea în scaune după opririle afară."
+            ],
+            "en": [
+              "Watch out for hydroplaning on the road to Pella.",
+              "Parking areas at the excavations can be muddy.",
+              "Keep umbrellas within reach in the passenger cabin.",
+              "Use seat heaters to warm up after outdoor stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autofahrt verbindet Giannitsa und Pella auf komfortable Weise. Wir starten im Zentrum und nutzen die kurzen Wege zwischen den Stopps. Die Fahrt durch die kühle Landschaft führt uns zum modernen Museum in Pella, wo wir viel Zeit im Warmen verbringen können. Ein spätes Mittagessen rundet den Tag ab, während wir die winterliche Ruhe der antiken Stätte genießen.",
+            "hu": "A téli autós kirándulás kényelmesen köti össze Giannitsát és Pellát. A központban kezdünk, kihasználva a megállók közötti rövid távokat. A hűvös tájon át a pellai modern múzeumba hajtunk, ahol sok időt tölthetünk melegben. Egy kései ebéd zárja a napot, miközben az ókori helyszín téli nyugalmát élvezzük.",
+            "ro": "Excursia de iarnă cu mașina leagă confortabil Giannitsa de Pella. Începem în centru, profitând de distanțele scurte. Prin peisajul rece conducem spre muzeul modern din Pella, unde putem petrece mult timp la căldură. Un prânz târziu încheie ziua, savurând liniștea sitului antic.",
+            "en": "The winter car trip comfortably connects Giannitsa and Pella. We start in the center, taking advantage of the short distances between stops. Driving through the cool landscape, we head to the modern museum in Pella, where we can spend plenty of time in the warmth. A late lunch rounds off the day while we enjoy the winter tranquility of the ancient site."
+          },
+          "stops": [
+            {
+              "name": "Giannitsa Cluster: Clock Tower & Center",
+              "tip_5lang": {
+                "de": "Auto vorheizen für den nächsten Stopp.",
+                "hu": "Fűtse fel az autót a következő megállóig.",
+                "ro": "Preîncălziți mașina pentru următoarea oprire.",
+                "en": "Pre-heat the car for the next stop."
+              }
+            },
+            {
+              "name": "Mausoleum of Gazi Evrenos",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt an der frischen Luft.",
+                "hu": "Rövid tartózkodás a friss, hideg levegőn.",
+                "ro": "Scurtă ședere în aerul proaspăt și rece.",
+                "en": "Short stay in the fresh, cold air."
+              }
+            },
+            {
+              "name": "Church of Agios Georgios",
+              "tip_5lang": {
+                "de": "Warmer Rückzugsort für Architektur-Fans.",
+                "hu": "Meleg menedék az építészet kedvelőinek.",
+                "ro": "Refugiu cald pentru fanii arhitecturii.",
+                "en": "Warm retreat for architecture fans."
+              }
+            },
+            {
+              "name": "Pella Cluster: Archaeological Museum of Pella",
+              "tip_5lang": {
+                "de": "Perfekte Temperatur im modernen Bau.",
+                "hu": "Tökéletes hőmérséklet a modern épületben.",
+                "ro": "Temperatură perfectă în clădirea modernă.",
+                "en": "Perfect temperature inside the modern building."
+              }
+            },
+            {
+              "name": "Filippeion of Pella",
+              "tip_5lang": {
+                "de": "Windfeste Kleidung für das weite Feld.",
+                "hu": "Szélálló ruházat kell a nyílt területen.",
+                "ro": "Haine rezistente la vânt pentru câmp deschis.",
+                "en": "Windproof clothing needed for the open field."
+              }
+            },
+            {
+              "name": "Late Lunch in Pella",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Tisch am Fenster.",
+                "hu": "Kérjen ablak melletti asztalt.",
+                "ro": "Cereți o masă lângă fereastră.",
+                "en": "Ask for a table by the window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Straßen können bei tiefen Temperaturen glatt sein.",
+              "Nehmen Sie heißen Kaffee oder Tee in einer Thermoskanne mit.",
+              "Planen Sie die Rückfahrt vor der frühen Dämmerung."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Az utak alacsony hőmérsékleten jegesek lehetnek.",
+              "Vigyen forró kávét vagy teát termoszban az útra.",
+              "Tervezze a visszautat a korai szürkület előtt."
+            ],
+            "ro": [
+              "Verificați antigelul din instalația de spălare a parbrizului.",
+              "Drumurile pot fi alunecoase la temperaturi scăzute.",
+              "Luați cafea sau ceai fierbinte într-un termos.",
+              "Planificați drumul de întoarcere înainte de amurg."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer fluid.",
+              "Roads can be slippery at low temperatures.",
+              "Bring hot coffee or tea in a thermos for the drive.",
+              "Plan your return trip before the early dusk."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1384,6 +1966,188 @@
           "Validate your ticket when you board the bus.",
           "Plan buffer time for potential bus delays."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erkunden wir Giannitsa und Pella trotz Regen ganz entspannt. Wir nutzen die überdachten Haltestellen im Zentrum und fahren mit dem KTEL-Bus direkt zum Archäologischen Museum. Dort verbringen wir die nassesten Stunden im Trockenen. Nach der Besichtigung des Filippeion kehren wir für ein gemütliches Essen ein, während wir auf den Rückbus warten.",
+            "hu": "Busszal az eső ellenére is nyugodtan fedezhetjük fel Giannitsát és Pellát. A központi fedett megállókat használjuk, és a KTEL busszal közvetlenül a múzeumba utazunk. Ott töltjük a legesősebb órákat szárazon. A Filippeion megtekintése után egy kellemes étterembe térünk be, miközben a visszautat várjuk.",
+            "ro": "Cu autobuzul explorăm Giannitsa și Pella relaxat, în ciuda ploii. Folosim stațiile acoperite din centru și mergem cu autobuzul KTEL direct la muzeu. Acolo petrecem orele ploioase la uscat. După vizitarea Filippeion-ului, ne oprim pentru o masă plăcută în așteptarea autobuzului.",
+            "en": "By bus, we explore Giannitsa and Pella in a relaxed way despite the rain. We use the covered stops in the center and take the KTEL bus directly to the museum. There, we spend the wettest hours in the dry. After visiting the Filippeion, we stop for a pleasant meal while waiting for the return bus."
+          },
+          "stops": [
+            {
+              "name": "Giannitsa Center Cluster",
+              "tip_5lang": {
+                "de": "Unterstand an der Haltestelle nutzen.",
+                "hu": "Használja a megálló esővédőjét.",
+                "ro": "Folosiți adăpostul din stație.",
+                "en": "Use the rain shelter at the bus stop."
+              }
+            },
+            {
+              "name": "Clock Tower of Giannitsa",
+              "tip_5lang": {
+                "de": "Nur kurzer Weg vom Busstopp entfernt.",
+                "hu": "Csak pár lépés a buszmegállótól.",
+                "ro": "La doar câțiva pași de stația de autobuz.",
+                "en": "Only a few steps from the bus stop."
+              }
+            },
+            {
+              "name": "Mausoleum of Gazi Evrenos",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen auf dem Gehweg.",
+                "hu": "Vigyázzon a pocsolyákra a járdán.",
+                "ro": "Atenție la bălțile de pe trotuar.",
+                "en": "Watch out for puddles on the sidewalk."
+              }
+            },
+            {
+              "name": "Pella Cluster: KTEL Bus to Pella",
+              "tip_5lang": {
+                "de": "Perfekt temperierte Fahrt im Regen.",
+                "hu": "Kellemes hőmérsékletű utazás az esőben.",
+                "ro": "Călătorie confortabilă pe timp de ploaie.",
+                "en": "Perfectly temperature-controlled ride in the rain."
+              }
+            },
+            {
+              "name": "Filippeion & Archaeological Site",
+              "tip_5lang": {
+                "de": "Schirm bereithalten für die Ruinen.",
+                "hu": "Tartsa készenlétben az ernyőt a romoknál.",
+                "ro": "Țineți umbrela pregătită pentru ruine.",
+                "en": "Keep your umbrella ready for the ruins."
+              }
+            },
+            {
+              "name": "Lunch and wait for the bus",
+              "tip_5lang": {
+                "de": "Fragen Sie nach den aktuellen Abfahrtszeiten.",
+                "hu": "Kérdezzen rá az aktuális indulási időkre.",
+                "ro": "Întrebați despre orele actuale de plecare.",
+                "en": "Ask for the latest departure times."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "KTEL-Busse sind meist pünktlich, warten Sie im Trockenen.",
+              "Laden Sie die Fahrplan-App vorab für Echtzeit-Infos.",
+              "Tragen Sie wasserfeste Schuhe für den Weg zur Haltestelle.",
+              "Kleingeld für die Fahrkarten bereithalten."
+            ],
+            "hu": [
+              "A KTEL buszok többnyire pontosak, várjon fedett helyen.",
+              "Töltse le a menetrendet előre a valós idejű infókért.",
+              "Viseljen vízálló cipőt a megállóig tartó sétához.",
+              "Legyen Önnél aprópénz a jegyvásárláshoz."
+            ],
+            "ro": [
+              "Autobuzele KTEL sunt de obicei punctuale, așteptați la adăpost.",
+              "Descărcați orarul în avans pentru informații în timp real.",
+              "Purtați pantofi impermeabili pentru drumul spre stație.",
+              "Aveți pregătit mărunțiș pentru bilete."
+            ],
+            "en": [
+              "KTEL buses are usually punctual; wait under cover.",
+              "Download the schedule app beforehand for real-time info.",
+              "Wear waterproof shoes for the walk to the bus stop.",
+              "Have small change ready for ticket purchases."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Tour mit öffentlichen Verkehrsmitteln schont die Kräfte. Wir starten im kühlen Zentrum von Giannitsa und nehmen den KTEL-Bus nach Pella. Die Fahrt bietet einen Ausblick auf die winterliche mazedonische Landschaft. Das Museum in Pella ist der ideale Ort, um dem kalten Wind zu entkommen. Ein gemütliches Mittagessen wärmt uns auf, bevor wir in der frühen Dämmerung den Bus zurück nehmen.",
+            "hu": "A téli tömegközlekedés segít spórolni az energiával a hidegben. Giannitsa hűvös központjában kezdünk, majd KTEL busszal Pellába utazunk. Az út során rálátunk a téli makedón tájra. A pellai múzeum ideális hely a hideg szél elől való menekülésre. Egy kellemes ebéd felmelegít minket, mielőtt a korai sötétedésben visszabuszoznánk.",
+            "ro": "Turul de iarnă cu transportul public vă ajută să vă păstrați energia. Începem în centrul rece și luăm autobuzul KTEL spre Pella. Drumul oferă o vedere asupra peisajului macedonean de iarnă. Muzeul din Pella este locul ideal pentru a scăpa de vântul rece. Un prânz plăcut ne încălzește înainte de a lua autobuzul înapoi.",
+            "en": "A winter tour by public transport conserves your energy in the cold. We start in the chilly center of Giannitsa and take the KTEL bus to Pella. The ride offers views of the winter Macedonian landscape. The museum in Pella is the ideal spot to escape the cold wind. A cozy lunch warms us up before we take the bus back in the early dusk."
+          },
+          "stops": [
+            {
+              "name": "Giannitsa Center Cluster",
+              "tip_5lang": {
+                "de": "In der Nähe der Haltestelle im Café warten.",
+                "hu": "Várjon a megálló közeli kávézóban.",
+                "ro": "Așteptați într-o cafenea de lângă stație.",
+                "en": "Wait in a cafe near the bus stop."
+              }
+            },
+            {
+              "name": "Clock Tower of Giannitsa",
+              "tip_5lang": {
+                "de": "Der Wind pfeift oft durch die Haltestellen.",
+                "hu": "A szél gyakran átfúj a megállókon.",
+                "ro": "Vântul suflă adesea prin stații.",
+                "en": "The wind often whistles through the bus stops."
+              }
+            },
+            {
+              "name": "Mausoleum of Gazi Evrenos",
+              "tip_5lang": {
+                "de": "Kurzer, knackiger Weg in der Kälte.",
+                "hu": "Rövid, frissítő séta a hidegben.",
+                "ro": "Plimbare scurtă și revigorantă în frig.",
+                "en": "Short, brisk walk in the cold."
+              }
+            },
+            {
+              "name": "Pella Cluster: KTEL Bus to Pella",
+              "tip_5lang": {
+                "de": "Busse sind meist gut beheizt.",
+                "hu": "A buszok általában jól fűtöttek.",
+                "ro": "Autobuzele sunt de obicei bine încălzite.",
+                "en": "Buses are usually well-heated."
+              }
+            },
+            {
+              "name": "Filippeion & Archaeological Site",
+              "tip_5lang": {
+                "de": "Warmes Mütze und Schal sind hier Pflicht.",
+                "hu": "Meleg sapka és sál itt kötelező.",
+                "ro": "Căciula și fularul sunt obligatorii aici.",
+                "en": "Warm hat and scarf are mandatory here."
+              }
+            },
+            {
+              "name": "Lunch and wait for the bus",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für heiße Suppen.",
+                "hu": "Használja ki az időt egy forró levesre.",
+                "ro": "Folosiți timpul pentru supe fierbinți.",
+                "en": "Use the time for some hot soup."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie, dass Busse im Winter seltener fahren könnten.",
+              "Warten Sie im Museumsshop auf den Rückbus.",
+              "Die Abenddämmerung beginnt früh, Schals bereithalten.",
+              "Fragen Sie den Fahrer nach dem letzten Bus."
+            ],
+            "hu": [
+              "Vegye figyelembe, hogy télen ritkább lehet a járat.",
+              "A múzeumi boltban várja meg a visszautat.",
+              "Az esti szürkület korán indul, legyen kéznél a sál.",
+              "Kérdezze meg a sofőrt az utolsó buszról."
+            ],
+            "ro": [
+              "Rețineți că autobuzele pot fi mai rare iarna.",
+              "Așteptați autobuzul de întoarcere în magazinul muzeului.",
+              "Amurgul începe devreme, aveți fularul pregătit.",
+              "Întrebați șoferul despre ultimul autobuz."
+            ],
+            "en": [
+              "Note that buses may run less frequently in winter.",
+              "Wait for the return bus inside the museum shop.",
+              "Dusk begins early; keep your scarf ready.",
+              "Ask the driver for the timing of the last bus."
+            ]
+          }
+        }
       }
     }
   }

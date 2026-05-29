@@ -12,45 +12,55 @@
       "mode": "walk",
       "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "17:35",
-      "total_km": 3.8,
+      "end_estimate": "16:45",
+      "total_km": 3.2,
       "stop_count": 6,
       "stops": [
         {
           "name": {
-            "de": "Viertel Harmaina",
-            "hu": "Harmaina negyed",
-            "ro": "Cartierul Harmaina",
-            "en": "Harmaina Quarter"
+            "de": "Gribas-Statue",
+            "hu": "Gribasz-szobor",
+            "ro": "Statuia Gribas",
+            "en": "Gribas Statue"
           },
           "coords": [
-            22.377,
-            38.529
+            22.3778,
+            38.5281
           ],
-          "category": "squares/old-town",
+          "category": "monuments/statues",
           "arrive_at": "09:10",
-          "stay_min": 40,
-          "hop_mode": "walk",
+          "stay_min": 15,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ehrt den Helden der griechischen Revolution.",
+            "hu": "A görög szabadságharc hősének emlékműve.",
+            "ro": "Onorează eroul revoluției grecești.",
+            "en": "Honors the hero of the Greek Revolution."
+          }
         },
         {
           "name": {
             "de": "Kathedrale der Verkündigung",
-            "hu": "Angyali Üdvözlet Székesegyház",
+            "hu": "Angyali üdvözlet székesegyház",
             "ro": "Catedrala Bunei Vestiri",
             "en": "Cathedral of the Annunciation"
           },
           "coords": [
-            22.3765,
+            22.3782,
             38.5285
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "09:55",
-          "stay_min": 45,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3
+          "arrive_at": "09:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Fresken von Spyros Papaloukas.",
+            "hu": "Csodálja meg Spyros Papaloukas lenyűgöző freskóit.",
+            "ro": "Admirați frescele impresionante ale lui Spyros Papaloukas.",
+            "en": "Admire the impressive frescoes by Spyros Papaloukas."
+          }
         },
         {
           "name": {
@@ -60,279 +70,465 @@
             "en": "Archaeological Museum"
           },
           "coords": [
-            22.3758,
-            38.5278
+            22.3772,
+            38.5292
           ],
           "category": "museums",
-          "arrive_at": "10:50",
+          "arrive_at": "10:45",
           "stay_min": 90,
-          "hop_mode": "walk",
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Region Phokis.",
+            "hu": "Fedezze fel a Phokis régió gazdag történelmét.",
+            "ro": "Descoperiți istoria bogată a regiunii Phokis.",
+            "en": "Discover the rich history of the Phokis region."
+          }
         },
         {
           "name": {
-            "de": "Mittagessen in einer lokalen Taverne",
-            "hu": "Ebéd egy helyi tavernában",
-            "ro": "Prânz la o tavernă locală",
-            "en": "Lunch at a local tavern"
+            "de": "Viertel Harmaina",
+            "hu": "Harmaina negyed",
+            "ro": "Cartierul Harmaina",
+            "en": "Harmaina District"
           },
           "coords": [
-            22.3772,
-            38.5275
+            22.3735,
+            38.5255
           ],
-          "category": "gastro",
-          "arrive_at": "12:25",
-          "stay_min": 80,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3
+          "category": "squares/old-town",
+          "arrive_at": "12:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Altes Viertel der Gerber mit authentischer Atmosphäre.",
+            "hu": "Régi tímárnegyed autentikus hangulattal.",
+            "ro": "Vechiul cartier al tăbăcarilor cu atmosferă autentică.",
+            "en": "Old tanners' district with authentic atmosphere."
+          }
         },
         {
           "name": {
             "de": "Burg von Salona",
-            "hu": "Szalonai vár",
+            "hu": "Szalónai vár",
             "ro": "Castelul Salona",
             "en": "Castle of Salona"
           },
           "coords": [
-            22.374,
-            38.533
+            22.3745,
+            38.5315
           ],
           "category": "castles/fortresses/towers",
-          "arrive_at": "14:15",
+          "arrive_at": "14:05",
           "stay_min": 80,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 1.5
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über das Olivenmeer.",
+            "hu": "Élvezze a panorámát az olajfák tengerére.",
+            "ro": "Bucurați-vă de panorama asupra mării de măslini.",
+            "en": "Enjoy the panoramic view over the olive sea."
+          }
         },
         {
           "name": {
             "de": "Kirche des Erlösers",
-            "hu": "Megváltó temploma",
+            "hu": "Megváltó templom",
             "ro": "Biserica Mântuitorului",
-            "en": "Church of the Saviour"
+            "en": "Church of the Savior"
           },
           "coords": [
-            22.3785,
-            38.5295
+            22.3755,
+            38.5325
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "16:00",
-          "stay_min": 65,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 1.2
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kleine, geschichtsträchtige byzantinische Kirche.",
+            "hu": "Kicsi, történelmi jelentőségű bizánci templom.",
+            "ro": "Mică biserică bizantină plină de istorie.",
+            "en": "Small Byzantine church steeped in history."
+          }
         }
       ],
       "narrative_4lang": {
-        "de": "Ihr Spaziergang durch Amfissa beginnt im historischen Viertel Harmaina, wo Sie die Atmosphäre der alten Gerber aufsaugen. Mittags erklimmen Sie die Burg von Salona für einen atemberaubenden Blick über den Olivenhain. Am Nachmittag schlendern Sie durch die Gassen zurück ins Zentrum und besuchen die byzantinische Erlöserkirche. Der Abend klingt in einer gemütlichen Taverne aus, wo Sie lokale Spezialitäten genießen.",
-        "hu": "Sétája Amfisszában a történelmi Harmaina negyedben kezdődik, ahol magába szívhatja a régi cserzővargák hangulatát. Délben megmássza a Szalonai várat, ahonnan lélegzetelállító kilátás nyílik az olajfaligetre. Délután a sikátorokon keresztül visszasétál a központba, és meglátogatja a bizánci Megváltó templomot. Az estét egy hangulatos tavernában zárja, ahol helyi specialitásokat kóstolhat.",
-        "ro": "Plimbarea dvs. prin Amfissa începe în cartierul istoric Harmaina, unde absorbiți atmosfera vechilor tăbăcari. La prânz, urcați la Castelul Salona pentru o priveliște uluitoare asupra plantației de măslini. După-amiaza, vă plimbați pe străduțe înapoi în centru și vizitați biserica bizantină a Mântuitorului. Seara se încheie într-o tavernă primitoare, savurând specialități locale.",
-        "en": "Your walk through Amfissa begins in the historic Harmaina quarter, soaking up the atmosphere of the old tanners. At noon, you'll climb the Castle of Salona for a breathtaking view over the olive grove. In the afternoon, stroll through the alleys back to the center and visit the Byzantine Church of the Saviour. The evening ends in a cozy tavern, enjoying local specialties."
+        "de": "Beginnen Sie Ihren Tag im Zentrum von Amfissa mit der Geschichte der Unabhängigkeit. Vormittags erkunden Sie die prächtige Kathedrale und das Museum. Mittags tauchen Sie in das nostalgische Gerberviertel Harmaina ein, wo die Zeit stehen geblieben scheint. Der Nachmittag gehört der Burg von Salona, die majestätisch über der Stadt thront, bevor Sie den Tag an der beschaulichen Erlöserkirche ausklingen lassen.",
+        "hu": "Kezdje a napot Ámfissza központjában, a függetlenségi harcok emlékei között. Délelőtt a katedrális művészi freskóit és a múzeum kincseit fedezheti fel. Ebédidőben sétáljon a Harmaina negyed régi cserzőműhelyei között, ahol megállt az idő. Délután hódítsa meg a Szalónai várat a lenyűgöző kilátásért, majd pihenjen meg a csendes Megváltó templomnál.",
+        "ro": "Începeți ziua în centrul orașului Amfissa, printre monumentele independenței. Dimineața explorați catedrala grandioasă și muzeul arheologic. La prânz, pierdeți-vă în cartierul Harmaina, vechiul centru al tăbăcarilor, unde timpul pare încremenit. După-amiaza este dedicată castelului Salona, care oferă o priveliște superbă, încheind vizita la mica biserică bizantină a Mântuitorului.",
+        "en": "Start your day in the heart of Amfissa learning about the local heroes. Spend your morning at the grand cathedral and the museum. By noon, immerse yourself in the nostalgic Harmaina district, where traditional leather-making roots still linger. In the afternoon, climb up to the Castle of Salona for breathtaking views, and finish your journey at the peaceful Church of the Savior."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Formaela-Käse",
-            "tip": "Ein halbharter Käse, oft gegrillt serviert. Suchen Sie nach Tavernen, die ihn als 'Saganaki' anbieten."
-          },
-          {
-            "name": "Lammkoteletts (Paidakia)",
-            "tip": "Perfekt gegrillt mit Zitrone und Oregano, ein Grundnahrungsmittel der Bergküche."
-          },
-          {
             "name": "Amfissa Oliven",
-            "tip": "Probieren Sie die berühmten großen, fleischigen Oliven direkt von der Quelle."
+            "tip": "Probieren Sie die berühmten runden, grünen oder schwarzen Oliven direkt vor Ort."
+          },
+          {
+            "name": "To Petrino",
+            "tip": "Traditionelle griechische Taverne mit hausgemachten Eintöpfen und Grillgerichten."
           }
         ],
         "hu": [
           {
-            "name": "Formaela sajt",
-            "tip": "Félkemény sajt, gyakran grillezve tálalják. Keressen olyan tavernákat, ahol 'Saganaki'-ként kínálják."
+            "name": "Ámfisszai olajbogyó",
+            "tip": "Kóstolja meg a híres kerek szemű, húsos olajbogyót helyi termelőktől."
           },
           {
-            "name": "Bárányborda (Paidakia)",
-            "tip": "Tökéletesen grillezve, citrommal és oregánóval, a hegyi konyha alapja."
-          },
-          {
-            "name": "Amfisszai olajbogyó",
-            "tip": "Kóstolja meg a híres, nagy, húsos olajbogyót egyenesen a forrásból."
+            "name": "To Petrino",
+            "tip": "Hagyományos görög taverna házi készítésű ételekkel és friss sültekkel."
           }
         ],
         "ro": [
           {
-            "name": "Brânză Formaela",
-            "tip": "O brânză semitare, adesea servită la grătar. Căutați taverne care o oferă ca 'Saganaki'."
-          },
-          {
-            "name": "Coaste de miel (Paidakia)",
-            "tip": "Gătite perfect la grătar cu lămâie și oregano, un element de bază al bucătăriei montane."
-          },
-          {
             "name": "Măsline de Amfissa",
-            "tip": "Gustați celebrele măsline mari și cărnoase direct de la sursă."
+            "tip": "Gustați faimoasele măsline rotunde și cărnoase direct de la sursă."
+          },
+          {
+            "name": "To Petrino",
+            "tip": " tavernă grecească tradițională cu mâncăruri gătite și fripturi proaspete."
           }
         ],
         "en": [
           {
-            "name": "Formaela Cheese",
-            "tip": "A semi-hard cheese, often served grilled. Look for taverns offering it as 'Saganaki'."
-          },
-          {
-            "name": "Lamb Chops (Paidakia)",
-            "tip": "Perfectly grilled with lemon and oregano, a staple of mountain cuisine."
-          },
-          {
             "name": "Amfissa Olives",
-            "tip": "Taste the famous large, fleshy olives straight from the source."
+            "tip": "Try the famous round-shaped local olives, a protected designation of origin."
+          },
+          {
+            "name": "To Petrino",
+            "tip": "Traditional Greek tavern serving homemade stews and grilled meats."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Blick von der Burg Salona",
-            "tip": "Finden Sie eine ruhige Ecke auf den Mauern und blicken Sie über das 'Meer' aus Olivenbäumen.",
-            "emoji": "🏰"
-          },
-          {
-            "name": "Kirchhof der Erlöserkirche",
-            "tip": "Ein friedlicher Ort im Schatten alter Bäume, abseits des Trubels.",
-            "emoji": "⛪"
+            "name": "Burgmauern von Salona",
+            "tip": "Ein ruhiger Ort für den Sonnenuntergang über dem Olivenhain.",
+            "emoji": "🌅"
           }
         ],
         "hu": [
           {
-            "name": "Kilátás a Szalonai várból",
-            "tip": "Keressen egy csendes zugot a falakon, és nézzen le az olajfák 'tengerére'.",
-            "emoji": "🏰"
-          },
-          {
-            "name": "A Megváltó templom kertje",
-            "tip": "Békés hely öreg fák árnyékában, távol a város zajától.",
-            "emoji": "⛪"
+            "name": "Szalónai várfalak",
+            "tip": "Csendes pont a naplemente megtekintéséhez az olajfaliget felett.",
+            "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Vedere de la Castelul Salona",
-            "tip": "Găsiți un colț liniștit pe ziduri și priviți peste 'marea' de măslini.",
-            "emoji": "🏰"
-          },
-          {
-            "name": "Curtea Bisericii Mântuitorului",
-            "tip": "Un loc pașnic la umbra copacilor bătrâni, departe de agitația orașului.",
-            "emoji": "⛪"
+            "name": "Zidurile Castelului Salona",
+            "tip": "Un loc liniștit pentru apusul soarelui peste livada de măslini.",
+            "emoji": "🌅"
           }
         ],
         "en": [
           {
-            "name": "View from Salona Castle",
-            "tip": "Find a quiet corner on the walls and gaze out over the 'sea' of olive trees.",
-            "emoji": "🏰"
-          },
-          {
-            "name": "Churchyard of the Saviour",
-            "tip": "A peaceful spot in the shade of old trees, away from the city bustle.",
-            "emoji": "⛪"
+            "name": "Walls of Salona Castle",
+            "tip": "A quiet spot for sunset views over the endless olive grove.",
+            "emoji": "🌅"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Lokale Olivenprodukte",
-            "tip": "Kaufen Sie Olivenöl, Tafeloliven und Olivenpaste von lokalen Herstellern."
-          },
-          {
-            "name": "Handgefertigte Keramik",
-            "tip": "In den kleinen Läden im Viertel Harmaina finden Sie einzigartige, handbemalte Keramik."
+            "name": "Lederwaren in Harmaina",
+            "tip": "Handgefertigte Gürtel und Taschen aus lokaler Produktion."
           }
         ],
         "hu": [
           {
-            "name": "Helyi olívatermékek",
-            "tip": "Vásároljon olívaolajat, étkezési olajbogyót és olívakrémet a helyi termelőktől."
-          },
-          {
-            "name": "Kézzel készített kerámia",
-            "tip": "A Harmaina negyed kis üzleteiben egyedi, kézzel festett kerámiákat talál."
+            "name": "Bőráruk Harmainában",
+            "tip": "Kézzel készített övek és táskák a helyi kézművesektől."
           }
         ],
         "ro": [
           {
-            "name": "Produse locale din măsline",
-            "tip": "Cumpărați ulei de măsline, măsline de masă și pastă de măsline de la producătorii locali."
-          },
-          {
-            "name": "Ceramică artizanală",
-            "tip": "În micile magazine din cartierul Harmaina veți găsi ceramică unică, pictată manual."
+            "name": "Produse din piele în Harmaina",
+            "tip": "Curele și genți lucrate manual de meșteșugarii locali."
           }
         ],
         "en": [
           {
-            "name": "Local Olive Products",
-            "tip": "Buy olive oil, table olives, and olive paste from local producers."
-          },
-          {
-            "name": "Handmade Ceramics",
-            "tip": "In the small shops of the Harmaina quarter, you can find unique, hand-painted ceramics."
+            "name": "Leather goods in Harmaina",
+            "tip": "Handmade belts and bags from local traditional workshops."
           }
         ]
       },
       "tips": {
         "de": [
-          "Tragen Sie bequeme Schuhe, da der Aufstieg zur Burg steil sein kann.",
-          "Nehmen Sie eine Wasserflasche mit, besonders für den Weg zur Burg.",
-          "Die besten Fotomotive der Burg hat man am späten Nachmittag.",
-          "Prüfen Sie die Öffnungszeiten der Museen, da diese saisonal variieren können."
+          "Amfissa ist hügelig, tragen Sie bequeme Wanderschuhe.",
+          "Die meisten Museen schließen am frühen Nachmittag.",
+          "Parken Sie Ihr Auto im Zentrum und erkunden Sie alles zu Fuß.",
+          "Probieren Sie den lokalen Tsipouro in Harmaina."
         ],
         "hu": [
-          "Viseljen kényelmes cipőt, mivel a várhoz vezető út meredek lehet.",
-          "Vigyen magával egy üveg vizet, különösen a várhoz vezető útra.",
-          "A legjobb fotókat a várról késő délután lehet készíteni.",
-          "Ellenőrizze a múzeumok nyitvatartási idejét, mivel az szezonálisan változhat."
+          "Ámfissza dombos város, viseljen kényelmes sétálócipőt.",
+          "A múzeumok többsége kora délután bezár.",
+          "Hagyja autóját a központban, a város gyalog is könnyen bejárható.",
+          "Kóstolja meg a helyi cípúrót a Harmaina negyedben."
         ],
         "ro": [
-          "Purtați încălțăminte confortabilă, deoarece urcarea la castel poate fi abruptă.",
-          "Luați o sticlă de apă, mai ales pentru drumul spre castel.",
-          "Cele mai bune fotografii ale castelului se fac după-amiaza târziu.",
-          "Verificați programul de funcționare al muzeelor, deoarece acesta poate varia în funcție de sezon."
+          "Amfissa este deluros, purtați încălțăminte comodă de mers.",
+          "Majoritatea muzeelor se închid după-amiaza devreme.",
+          "Parcați mașina în centru, orașul este ușor de explorat pe jos.",
+          "Încercați tsipouro local în cartierul Harmaina."
         ],
         "en": [
-          "Wear comfortable shoes as the climb to the castle can be steep.",
-          "Bring a water bottle, especially for the walk up to the castle.",
-          "The best photo opportunities of the castle are in the late afternoon.",
-          "Check the opening hours of the museums as they can vary seasonally."
+          "Amfissa is hilly, so wear comfortable walking shoes.",
+          "Most museums close in the early afternoon.",
+          "Park your car in the center; the city is best explored on foot.",
+          "Taste the local tsipouro in one of Harmaina's small bars."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt im atmosphärischen Harmaina-Viertel, wo der Regen das Kopfsteinpflaster glänzen lässt. Die Kathedrale bietet einen prachtvollen, trockenen Rückzugsort am Vormittag. Mittags wärmen wir uns in einer lokalen Taverne bei traditionellen Eintöpfen auf. Nachmittags erkunden wir das Archäologische Museum ausgiebig, bevor wir den Tag trotz Wolken am Fuße der Burg ausklingen lassen.",
+            "hu": "A nap az ódon Harmaina negyedben indul, ahol az eső még inkább kiemeli a régi cserzőműhelyek hangulatát. Délelőtt a katedrális freskói alatt találunk menedéket a zápor elől. Ebédre egy kockás abroszos taverna melegét választjuk. Délután a múzeum gazdag gyűjteményét böngésszük, majd egy rövid sétát teszünk a várfalak alatt, élvezve a párás hegyi levegőt.",
+            "ro": "Ziua începe în cartierul istoric Harmaina, unde ploaia face ca străzile înguste să pară desprinse dintr-o altă epocă. Dimineața, interiorul catedralei oferă un refugiu artistic și uscat. La prânz, ne bucurăm de ospitalitatea grecească într-o tavernă primitoare. După-amiaza este dedicată muzeului arheologic, urmată de o vizită scurtă la castel, unde norii aduc un aer dramatic ruinelor.",
+            "en": "The day starts in the atmospheric Harmaina district, where the rain adds a moody glint to the old tanneries' cobblestones. By mid-morning, the cathedral provides a dry sanctuary to admire its famous frescoes. We enjoy a long, cozy lunch in a local tavern. The afternoon is spent exploring the indoor treasures of the museum, concluding with a brisk walk near the castle as the mist settles."
+          },
+          "stops": [
+            {
+              "name": "Harmaina Quarter",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Kopfsteinpflaster; feste Schuhe sind heute Pflicht.",
+                "hu": "Vigyázat, a macskakövek csúszósak; a régi házak ereszei alatt jól lehet haladni.",
+                "ro": "Atenție la pavajul umed; străzile înguste pot fi alunecoase când plouă.",
+                "en": "Watch your step on the wet cobblestones; the old overhangs provide some cover."
+              }
+            },
+            {
+              "name": "Cathedral of the Annunciation",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen starken Regenschauer trocken zu überstehen.",
+                "hu": "Tökéletes helyszín egy nagyobb zápor átvészeléséhez a festmények között.",
+                "ro": "Un loc excelent pentru a te adăposti de ploaie în timp ce admiri frescele.",
+                "en": "A great indoor stop to stay dry while admiring the impressive Papaloukas frescoes."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für einen ausführlichen Besuch der Exponate.",
+                "hu": "Használja ki az esős időt a régészeti leletek alapos megismerésére.",
+                "ro": "Profită de vremea ploioasă pentru a explora în detaliu exponatele muzeului.",
+                "en": "Perfect rainy day activity; take your time exploring the ancient bronze finds."
+              }
+            },
+            {
+              "name": "Lunch at a local tavern",
+              "tip_5lang": {
+                "de": "Fragen Sie nach 'Tragana' oder Suppen, um sich nach dem Regen aufzuwärmen.",
+                "hu": "Kérjen meleg levest vagy helyi specialitást az átázott séta után.",
+                "ro": "Cere o supă caldă sau preparate tradiționale pentru a te încălzi.",
+                "en": "Warm up with a hearty Greek soup or local stew while the rain pours outside."
+              }
+            },
+            {
+              "name": "Castle of Salona",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei Regen rutschig; bleiben Sie auf den befestigten Wegen.",
+                "hu": "A várfeljáró esőben csúszós; maradjon a kijelölt, biztonságos útvonalakon.",
+                "ro": "Urcarea la castel poate fi dificilă pe ploaie; poartă încălțăminte adecvată.",
+                "en": "The path to the fortress is slippery when wet; stick to the main paved route."
+              }
+            },
+            {
+              "name": "Church of the Saviour",
+              "tip_5lang": {
+                "de": "Genießen Sie die mystische Atmosphäre der alten Kirche im Regen.",
+                "hu": "Élvezze a templom misztikus hangulatát az eső kopogása mellett.",
+                "ro": "Bucură-te de liniștea bisericii în timp ce asculți ploaia afară.",
+                "en": "Enjoy the peaceful and mystic atmosphere inside as the rain falls on the stones."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da es in den Bergen windig sein kann.",
+              "Die Gassen von Harmaina sind bei Nässe extrem rutschig.",
+              "Museen und Kirchen sind heute Ihre besten Freunde.",
+              "In den Tavernen ist es bei Regen besonders gesellig.",
+              "Prüfen Sie, ob das Museum heute längere Öffnungszeiten hat."
+            ],
+            "hu": [
+              "Vigyen magával strapabíró esernyőt, a hegyi szél könnyen kifordíthatja a gyengébbeket.",
+              "Harmaina kövezete vizesen rendkívül csúszós, óvatosan lépkedjen.",
+              "A múzeumlátogatás a legjobb program ilyenkor.",
+              "A helyi tavernákban esőben is kiváló a hangulat.",
+              "A vár látogatását érdemes egy gyengébb csapadékos időszakra időzíteni."
+            ],
+            "ro": [
+              "Ia o umbrelă rezistentă, vântul de munte poate fi destul de puternic.",
+              "Străzile din Harmaina devin foarte alunecoase; mergi cu atenție.",
+              "Muzeele sunt refugiul ideal pentru orele cu precipitații intense.",
+              "Tavernele locale oferă o atmosferă caldă și primitoare pe vreme rea.",
+              "Verifică programul muzeului înainte de a pleca la drum."
+            ],
+            "en": [
+              "Carry a wind-resistant umbrella as mountain gusts can be strong.",
+              "The cobblestones in the old quarter are notoriously slippery when wet.",
+              "Prioritize indoor stops like the museum during peak rain hours.",
+              "Local taverns are extra cozy on rainy days; take a longer lunch break.",
+              "Wear waterproof shoes with good grip for the castle ascent."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft macht den morgendlichen Spaziergang durch Harmaina erfrischend. In der Kathedrale bewundern wir die Kunstwerke in winterlicher Stille. Mittags stärken wir uns bei regionalen Spezialitäten und Oliven aus Amfissa. Der Nachmittag im Museum ist wohlig warm, bevor wir pünktlich zum frühen Sonnenuntergang die Burg von Salona für fantastische Fotos erreichen.",
+            "hu": "A friss téli levegőben élénkítő a séta a Harmaina negyedben. Délelőtt a katedrális csendjében mélyedhetünk el a művészetben. Ebédre Amfissa híres olajbogyóit és laktató fogásokat kóstolunk. Délután a múzeum fűtött termeiben melegszünk fel, majd a korai naplemente fényeiben csodáljuk meg a Salona várát és a völgy panorámáját.",
+            "ro": "Aerul proaspăt de iarnă face plimbarea prin Harmaina foarte revigorantă. Dimineața, catedrala oferă un moment de liniște și admirație artistică. La prânz, degustăm faimoasele măsline de Amfissa lângă un șemineu. După-amiaza la muzeu este caldă și educativă, iar vizita la castel coincide perfect cu apusul timpuriu de iarnă.",
+            "en": "Crisp winter air greets us in the historic Harmaina district this morning. Inside the cathedral, the stillness highlights the incredible interior details. We enjoy a hearty winter lunch featuring the famous local olives. The afternoon is spent in the warmth of the museum, followed by a sunset visit to the castle, offering stunning views over the olive groves."
+          },
+          "stops": [
+            {
+              "name": "Harmaina Quarter",
+              "tip_5lang": {
+                "de": "Ein heißer griechischer Kaffee in einer der alten Bars wirkt Wunder gegen die Kälte.",
+                "hu": "Egy forró görög kávé az egyik régi bárban segít elűzni a reggeli fagyot.",
+                "ro": "O cafea grecească fierbinte într-un bar vechi te va încălzi rapid.",
+                "en": "Warm up with a hot Greek coffee in one of the historic local cafes."
+              }
+            },
+            {
+              "name": "Cathedral of the Annunciation",
+              "tip_5lang": {
+                "de": "Achten Sie auf die kühle Innentemperatur; behalten Sie Ihren Mantel an.",
+                "hu": "A templom belső tere télen hűvös, tartsa magán a kabátját.",
+                "ro": "Interiorul catedralei poate fi răcoros; păstrează haina pe tine.",
+                "en": "The cathedral interior can be chilly; keep your winter layers on."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Ein wohltemperierter Ort, um sich zwischen den Spaziergängen aufzuwärmen.",
+                "hu": "Kellemesen fűtött helyszín a városnézés közbeni felmelegedéshez.",
+                "ro": "Un loc bine încălzit, perfect pentru a te dezmorți între plimbări.",
+                "en": "A well-heated indoor stop, perfect for warming up between walks."
+              }
+            },
+            {
+              "name": "Lunch at a local tavern",
+              "tip_5lang": {
+                "de": "Probieren Sie die berühmten schwarzen Amfissa-Oliven zur Vorspeise.",
+                "hu": "Kóstolja meg a híres fekete amfisszai olajbogyót előételként.",
+                "ro": "Încearcă faimoasele măsline negre de Amfissa ca aperitiv.",
+                "en": "Be sure to try the locally grown black Amfissa olives as an appetizer."
+              }
+            },
+            {
+              "name": "Castle of Salona",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist hier gegen 17:15 Uhr; planen Sie rechtzeitig.",
+                "hu": "A naplemente 17:15 körül van; érkezzen időben a panorámáért.",
+                "ro": "Apusul este în jur de 17:15; ajunge din timp pentru cele mai bune poze.",
+                "en": "Sunset is around 5:15 PM in winter; arrive early for the best golden hour views."
+              }
+            },
+            {
+              "name": "Church of the Saviour",
+              "tip_5lang": {
+                "de": "Die Abenddämmerung verleiht diesem Ort einen besonderen Winterzauber.",
+                "hu": "A kora esti szürkület különleges téli varázst kölcsönöz a helynek.",
+                "ro": "Amurgul timpuriu îi oferă acestui loc o atmosferă magică de iarnă.",
+                "en": "The early twilight adds a special winter charm to this historic site."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip; im Schatten der Berge ist es kühl.",
+              "Die Sonne geht im Winter bereits gegen 17:30 Uhr unter.",
+              "Einige Außenbereiche der Burg können bei Frost glatt sein.",
+              "Genießen Sie lokale Wintergerichte wie gebackenen Feta.",
+              "Die Museen sind meist weniger überlaufen als im Sommer."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen, a hegyek árnyékában hirtelen lehűlhet a levegő.",
+              "A nap télen korán, már fél 6 előtt lemegy.",
+              "A vár udvarán a fagyott részek csúszósak lehetnek.",
+              "Kóstolja meg a helyi téli ételeket, például a sült sajtokat.",
+              "A múzeumokban ilyenkor nincs tömeg, nyugodtan nézelődhet."
+            ],
+            "ro": [
+              "Îmbracă-te în straturi; la umbra munților temperatura scade rapid.",
+              "Soarele apune devreme în timpul iernii, în jurul orei 17:30.",
+              "Unele zone ale castelului pot fi înghețate și alunecoase dimineața.",
+              "Incearcă specialitățile locale de iarnă în tavernele cu șemineu.",
+              "Muzeele sunt mult mai liniștite în această perioadă a anului."
+            ],
+            "en": [
+              "Dress in layers; temperatures drop quickly in the mountain shadows.",
+              "Winter sunset is early, around 5:30 PM; plan accordingly.",
+              "Castle courtyards can have icy patches in the early morning.",
+              "Enjoy local winter delicacies like baked feta and hearty stews.",
+              "Museums are much less crowded, allowing for a peaceful visit."
+            ]
+          }
+        }
       }
     },
     "bike": {
       "mode": "bike",
       "speed_kmh": 10,
       "start": "09:00",
-      "end_estimate": "17:15",
-      "total_km": 12.5,
-      "stop_count": 6,
+      "end_estimate": "15:30",
+      "total_km": 8.5,
+      "stop_count": 5,
       "stops": [
         {
           "name": {
             "de": "Viertel Harmaina",
             "hu": "Harmaina negyed",
             "ro": "Cartierul Harmaina",
-            "en": "Harmaina Quarter"
+            "en": "Harmaina District"
           },
           "coords": [
-            22.377,
-            38.529
+            22.3735,
+            38.5255
           ],
           "category": "squares/old-town",
-          "arrive_at": "09:10",
-          "stay_min": 30,
-          "hop_mode": "bike",
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Perfekt für einen morgendlichen Spaziergang mit dem Rad.",
+            "hu": "Tökéletes egy reggeli sétához a bringával.",
+            "ro": "Perfect pentru o plimbare matinală cu bicicleta.",
+            "en": "Perfect for a morning stroll with your bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Salona",
+            "hu": "Szalónai vár",
+            "ro": "Castelul Salona",
+            "en": "Castle of Salona"
+          },
+          "coords": [
+            22.3745,
+            38.5315
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Steiler Anstieg, aber die Belohnung ist die Aussicht.",
+            "hu": "Meredek emelkedő, de a kilátás kárpótol.",
+            "ro": "Urcare abruptă, dar recompensa este priveliștea.",
+            "en": "Steep climb, but the reward is the panoramic view."
+          }
         },
         {
           "name": {
@@ -342,337 +538,399 @@
             "en": "Archaeological Museum"
           },
           "coords": [
-            22.3758,
-            38.5278
+            22.3772,
+            38.5292
           ],
           "category": "museums",
-          "arrive_at": "09:45",
-          "stay_min": 75,
-          "hop_mode": "bike",
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.8
-        },
-        {
-          "name": {
-            "de": "Burg von Salona",
-            "hu": "Szalonai vár",
-            "ro": "Castelul Salona",
-            "en": "Castle of Salona"
-          },
-          "coords": [
-            22.374,
-            38.533
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "11:10",
-          "stay_min": 70,
-          "hop_mode": "bike",
+          "arrive_at": "12:00",
+          "stay_min": 90,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 1.5
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Klimatisiert und voller historischer Schätze.",
+            "hu": "Légkondicionált és tele van történelmi kincsekkel.",
+            "ro": "Climatizat și plin de comori istorice.",
+            "en": "Air-conditioned and full of historical treasures."
+          }
         },
         {
           "name": {
-            "de": "Mittagessen mit Aussicht",
-            "hu": "Ebéd kilátással",
-            "ro": "Prânz cu priveliște",
-            "en": "Lunch with a view"
+            "de": "Gribas-Statue",
+            "hu": "Gribasz-szobor",
+            "ro": "Statuia Gribas",
+            "en": "Gribas Statue"
           },
           "coords": [
-            22.375,
-            38.531
+            22.3778,
+            38.5281
           ],
-          "category": "gastro",
-          "arrive_at": "12:25",
-          "stay_min": 80,
-          "hop_mode": "bike",
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.5
+          "category": "monuments/statues",
+          "arrive_at": "13:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Stopp am zentralen Treffpunkt.",
+            "hu": "Rövid megálló a központi találkozóhelyen.",
+            "ro": "Scurtă oprire în punctul central de întâlnire.",
+            "en": "Short stop at the central meeting point."
+          }
         },
         {
           "name": {
             "de": "Olivenhain von Amfissa",
-            "hu": "Amfisszai olajfaliget",
-            "ro": "Plantația de măslini din Amfissa",
-            "en": "Olive Grove of Amfissa"
+            "hu": "Ámfisszai olajfaliget",
+            "ro": "Livada de măslini din Amfissa",
+            "en": "Amfissa Olive Grove"
           },
           "coords": [
-            22.39,
+            22.385,
             38.52
           ],
           "category": "natural features",
-          "arrive_at": "14:10",
-          "stay_min": 60,
-          "hop_mode": "bike",
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 4.2
-        },
-        {
-          "name": {
-            "de": "Volkskundemuseum",
-            "hu": "Néprajzi Múzeum",
-            "ro": "Muzeul de Folclor",
-            "en": "Folklore Museum"
-          },
-          "coords": [
-            22.3762,
-            38.53
-          ],
-          "category": "museums",
-          "arrive_at": "15:45",
-          "stay_min": 60,
-          "hop_mode": "bike",
-          "hop_from_prev_min": 35,
-          "hop_from_prev_km": 5.5
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Radeln Sie durch jahrhundertealte Olivenbäume.",
+            "hu": "Kerekezzen az évszázados olajfák között.",
+            "ro": "Pedalați printre măslinii seculari.",
+            "en": "Cycle through centuries-old olive trees."
+          }
         }
       ],
       "narrative_4lang": {
-        "de": "Schwingen Sie sich auf den Sattel und beginnen Sie Ihre Tour im Herzen von Amfissa, dem Harmaina-Viertel. Von dort aus radeln Sie zum Archäologischen Museum. Die größte Herausforderung des Tages ist der Anstieg zur Burg von Salona, aber die Aussicht entschädigt für alles. Nach dem Mittagessen führt Sie eine landschaftlich reizvolle Fahrt durch den berühmten Olivenhain von Amfissa. Den Abschluss bildet ein Besuch im Volkskundemuseum, bevor Sie den Abend ausklingen lassen.",
-        "hu": "Pattanjon nyeregbe, és kezdje a túrát Amfissza szívében, a Harmaina negyedben. Innen tekerjen el a Régészeti Múzeumhoz. A nap legnagyobb kihívása a Szalonai várhoz való feljutás, de a kilátás mindenért kárpótol. Ebéd után egy festői út vezet az amfisszai olajfaligeten keresztül. A napot a Néprajzi Múzeum meglátogatásával zárja, mielőtt levezetné az estét.",
-        "ro": "Urcați-vă pe bicicletă și începeți turul în inima Amfissei, cartierul Harmaina. De acolo, pedalați spre Muzeul de Arheologie. Cea mai mare provocare a zilei este urcarea la Castelul Salona, dar priveliștea compensează totul. După prânz, o plimbare pitorească vă duce prin renumita plantație de măslini din Amfissa. Ziua se încheie cu o vizită la Muzeul de Folclor înainte de a vă relaxa seara.",
-        "en": "Hop on your bike and start your tour in the heart of Amfissa, the Harmaina quarter. From there, cycle to the Archaeological Museum. The biggest challenge of the day is the climb to the Castle of Salona, but the view makes up for everything. After lunch, a scenic ride takes you through the famous Amfissa Olive Grove. The day concludes with a visit to the Folklore Museum before you wind down for the evening."
+        "de": "Erkunden Sie Amfissa sportlich! Nach einem Besuch im historischen Gerberviertel erklimmen Sie die Burg. Nach der kulturellen Pause im Museum führt die Route hinaus in das riesige Meer der Olivenbäume, ein einzigartiges Erlebnis auf zwei Rädern.",
+        "hu": "Fedezze fel Ámfisszát sportosan! A történelmi cserzőnegyed után tekerjen fel a várba. A múzeumi kultúrpont után az út kivezet a hatalmas olajfaligetek közé, ami két keréken felejthetetlen élmény.",
+        "ro": "Explorați Amfissa într-un mod activ! După o vizită în cartierul tăbăcarilor, urcați la castel. După pauza culturală de la muzeu, traseul vă poartă în imensa livadă de măslini, o experiență unică pe două roți.",
+        "en": "Explore Amfissa actively! After visiting the historic tannery district, cycle up to the castle. Following a cultural break at the museum, the route takes you out into the vast sea of olive trees, a unique experience on two wheels."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Lokale Kuchen (Pites)",
-            "tip": "Suchen Sie nach Bäckereien, die 'Spanakopita' (Spinatkuchen) oder 'Tiropita' (Käsekuchen) verkaufen – perfekt für eine schnelle Energiepause."
-          },
-          {
-            "name": "Gegrillter Oktopus",
-            "tip": "Obwohl Amfissa in den Bergen liegt, ist frischer Oktopus aus dem nahen Golf von Korinth oft auf den Speisekarten zu finden."
+            "name": "Lokaler Honig",
+            "tip": "Energieschub für Radfahrer direkt vom Erzeuger."
           }
         ],
         "hu": [
           {
-            "name": "Helyi piték (Pites)",
-            "tip": "Keressen pékségeket, amelyek 'Spanakopitát' (spenótos pite) vagy 'Tiropitát' (sajtos pite) árulnak – tökéletes egy gyors energiabevitelhez."
-          },
-          {
-            "name": "Grillezett polip",
-            "tip": "Bár Amfissza a hegyekben fekszik, a közeli Korinthoszi-öbölből származó friss polip gyakran szerepel az étlapokon."
+            "name": "Helyi méz",
+            "tip": "Energialöket bringásoknak egyenesen a termelőtől."
           }
         ],
         "ro": [
           {
-            "name": "Plăcinte locale (Pites)",
-            "tip": "Căutați brutării care vând 'Spanakopita' (plăcintă cu spanac) sau 'Tiropita' (plăcintă cu brânză) – perfecte pentru o gustare rapidă."
-          },
-          {
-            "name": "Caracatiță la grătar",
-            "tip": "Deși Amfissa este în munți, caracatița proaspătă din Golful Corint din apropiere se găsește adesea în meniuri."
+            "name": "Miere locală",
+            "tip": "Sursă de energie pentru bicicliști direct de la producători."
           }
         ],
         "en": [
           {
-            "name": "Local Pies (Pites)",
-            "tip": "Look for bakeries selling 'Spanakopita' (spinach pie) or 'Tiropita' (cheese pie) - perfect for a quick energy boost."
-          },
-          {
-            "name": "Grilled Octopus",
-            "tip": "Although Amfissa is in the mountains, fresh octopus from the nearby Corinthian Gulf is often on the menus."
+            "name": "Local Honey",
+            "tip": "Energy boost for cyclists straight from local producers."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Rast im Olivenhain",
-            "tip": "Halten Sie unter einem knorrigen, alten Olivenbaum an und genießen Sie die Stille und den Duft der Landschaft.",
+            "name": "Schatten der Olivenbäume",
+            "tip": "Ein kühler Ort zum Ausruhen.",
             "emoji": "🌳"
-          },
-          {
-            "name": "Aussichtspunkt auf dem Weg zur Burg",
-            "tip": "Es gibt mehrere Kurven mit toller Aussicht, perfekt für eine kurze Verschnaufpause.",
-            "emoji": "🏞️"
           }
         ],
         "hu": [
           {
-            "name": "Pihenő az olajfaligetben",
-            "tip": "Álljon meg egy göcsörtös, öreg olajfa alatt, és élvezze a csendet és a táj illatát.",
+            "name": "Olajfák árnyéka",
+            "tip": "Hűvös pihenőhely a ligetben.",
             "emoji": "🌳"
-          },
-          {
-            "name": "Kilátópont a várhoz vezető úton",
-            "tip": "Több kanyar is van, ahonnan remek kilátás nyílik, tökéletes egy rövid pihenőre.",
-            "emoji": "🏞️"
           }
         ],
         "ro": [
           {
-            "name": "Pauză în plantația de măslini",
-            "tip": "Opriți-vă sub un măslin bătrân și noduros și bucurați-vă de liniștea și mirosul peisajului.",
+            "name": "Umbra măslinilor",
+            "tip": "Un loc răcoros pentru odihnă.",
             "emoji": "🌳"
-          },
-          {
-            "name": "Punct de belvedere pe drumul spre castel",
-            "tip": "Există mai multe curbe cu priveliști grozave, perfecte pentru o scurtă pauză de respirație.",
-            "emoji": "🏞️"
           }
         ],
         "en": [
           {
-            "name": "Rest in the Olive Grove",
-            "tip": "Stop under a gnarled, ancient olive tree and enjoy the silence and scent of the countryside.",
+            "name": "Olive tree shade",
+            "tip": "A cool resting spot in the grove.",
             "emoji": "🌳"
-          },
-          {
-            "name": "Viewpoint on the way to the castle",
-            "tip": "There are several bends with great views, perfect for a short breather.",
-            "emoji": "🏞️"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Lokaler Honig",
-            "tip": "Der Honig aus der Region, oft von Thymian und Wildblumen, ist ein köstliches Mitbringsel."
+            "name": "Olivenöl",
+            "tip": "Frisch gepresstes Öl aus dem Amfissa-Tal."
           }
         ],
         "hu": [
           {
-            "name": "Helyi méz",
-            "tip": "A környékbeli méz, gyakran kakukkfűből és vadvirágokból, finom ajándék."
+            "name": "Olívaolaj",
+            "tip": "Frissen sajtolt olaj az Ámfissza-völgyből."
           }
         ],
         "ro": [
           {
-            "name": "Miere locală",
-            "tip": "Mierea din regiune, adesea de cimbru și flori sălbatice, este un suvenir delicios."
+            "name": "Ulei de măsline",
+            "tip": "Ulei proaspăt presat din valea Amfissa."
           }
         ],
         "en": [
           {
-            "name": "Local Honey",
-            "tip": "The honey from the region, often from thyme and wildflowers, is a delicious souvenir."
+            "name": "Olive Oil",
+            "tip": "Freshly pressed oil from the Amfissa valley."
           }
         ]
       },
       "tips": {
         "de": [
-          "Ein Mountainbike oder E-Bike ist für den Anstieg zur Burg empfehlenswert.",
-          "Tragen Sie einen Helm und seien Sie auf schmalen Straßen vorsichtig.",
-          "Nehmen Sie ausreichend Wasser und ein paar Snacks für die Tour mit.",
-          "Ein kleines Schloss ist nützlich, um das Fahrrad während der Museumsbesuche zu sichern."
+          "Die Straßen zur Burg sind steil, ein E-Bike wird empfohlen.",
+          "Nehmen Sie ausreichend Wasser für die Fahrt durch den Hain mit.",
+          "Achten Sie auf den Verkehr in den engen Gassen des Zentrums."
         ],
         "hu": [
-          "Hegyikerékpár vagy e-bike ajánlott a várhoz való feljutáshoz.",
-          "Viseljen sisakot, és legyen óvatos a keskeny utakon.",
-          "Vigyen magával elegendő vizet és néhány harapnivalót a túrára.",
-          "Egy kis lakat hasznos lehet a kerékpár biztosításához a múzeumlátogatások alatt."
+          "A várba vezető utak meredekek, elektromos kerékpár ajánlott.",
+          "Vigyen magával elég vizet a ligeten átvezető szakaszra.",
+          "Ügyeljen a forgalomra a belváros szűk utcáiban."
         ],
         "ro": [
-          "O bicicletă montană sau o bicicletă electrică este recomandată pentru urcarea la castel.",
-          "Purtați cască și fiți prudenți pe drumurile înguste.",
-          "Luați suficientă apă și câteva gustări pentru tur.",
-          "Un mic lacăt este util pentru a securiza bicicleta în timpul vizitelor la muzee."
+          "Drumurile spre castel sunt abrupte, se recomandă o bicicletă electrică.",
+          "Luați destulă apă pentru traseul prin livadă.",
+          "Atenție la trafic în străduțele înguste din centru."
         ],
         "en": [
-          "A mountain bike or e-bike is recommended for the climb to the castle.",
-          "Wear a helmet and be careful on narrow roads.",
-          "Bring plenty of water and some snacks for the tour.",
-          "A small lock is useful to secure the bike during museum visits."
+          "The roads to the castle are steep; an e-bike is highly recommended.",
+          "Bring plenty of water for the ride through the olive grove.",
+          "Be careful with traffic in the narrow streets of the center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht in den engen Gassen von Harmaina. Der Vormittag im Museum bietet Schutz und Kultur. Mittags suchen wir uns eine fahrradfreundliche Taverne mit Überdachung. Die Tour durch die Olivenhaine ist schlammig, aber beeindruckend, bevor wir den Tag im Folkloremuseum bei trockenem Wetter beenden.",
+            "hu": "Az esős bringázás óvatosságot igényel Harmaina szűk utcáin. A délelőtti múzeumlátogatás ideális fedett program. Ebédre kerékpáros-barát, fedett teraszos helyet választunk. Az olajfaligetek között sárra számíthatunk, de a látvány kárpótol, a napot pedig a néprajzi múzeum melegében zárjuk.",
+            "ro": "Ciclismul pe ploaie necesită atenție sporită pe străzile din Harmaina. Dimineața la muzeu este o alegere excelentă pentru a rămâne uscat. La prânz, căutăm o tavernă cu parcare pentru biciclete acoperită. Turul prin livezile de măslini poate fi noroios, dar relaxant înainte de vizita la muzeul de folclor.",
+            "en": "Cycling in the rain requires extra care on Harmaina’s narrow streets. A morning museum visit provides the perfect cultural shelter. We find a bike-friendly tavern for a long lunch. The ride through the olive groves might be muddy but scenic, ending the day in the dry comfort of the Folklore Museum."
+          },
+          "stops": [
+            {
+              "name": "Harmaina Quarter",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Bremsen auf nassen Metallabdeckungen in der Straße.",
+                "hu": "Kerülje a fékezést a vizes fém csatornafedeleken az utcában.",
+                "ro": "Evită frânarea bruscă pe capacele de canal umede de pe drum.",
+                "en": "Avoid braking on wet metal utility covers in the narrow streets."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Es gibt Fahrradständer in der Nähe des Eingangs; sichern Sie Ihr Rad gut.",
+                "hu": "A bejárat közelében találhatók kerékpártárolók; rögzítse jól a gépét.",
+                "ro": "Există suporturi pentru biciclete lângă intrare; asigură-ți bicicleta bine.",
+                "en": "There are bike racks near the entrance; lock your bike securely."
+              }
+            },
+            {
+              "name": "Castle of Salona",
+              "tip_5lang": {
+                "de": "Der Anstieg mit dem Rad ist bei Regen anstrengend; schieben Sie bei Bedarf.",
+                "hu": "A várba feltekerni esőben nehéz; nyugodtan tolja a bringát a meredek részen.",
+                "ro": "Urcarea cu bicicleta pe ploaie este grea; nu ezita să mergi pe lângă ea.",
+                "en": "The uphill ride to the castle is tough in the rain; walk the bike if needed."
+              }
+            },
+            {
+              "name": "Lunch with a view",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz unter der Markise, um Ihre Ausrüstung zu trocknen.",
+                "hu": "Válasszon helyet az előtető alatt, hogy megszáríthassa a felszerelését.",
+                "ro": "Alege un loc sub copertină pentru a-ți lăsa echipamentul la uscat.",
+                "en": "Choose a seat under the awning to let your gear dry during lunch."
+              }
+            },
+            {
+              "name": "Olive Grove of Amfissa",
+              "tip_5lang": {
+                "de": "Die Wege können sehr matschig sein; fahren Sie langsam.",
+                "hu": "Az utak sárosak lehetnek; haladjon lassabban az olajfák között.",
+                "ro": "Drumurile pot fi noroioase; pedalează încet prin livadă.",
+                "en": "The grove paths can get very muddy; ride slowly and mind the ruts."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch, um sich vor der Rückfahrt vollständig aufzuwärmen.",
+                "hu": "Használja ki a látogatást a teljes felmelegedéshez a hazaindulás előtt.",
+                "ro": "Profită de vizită pentru a te încălzi complet înainte de drumul de întoarcere.",
+                "en": "Take this time to dry off and warm up before your final ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke und wasserfeste Hosen.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Abfahrt; Nässe verlängert den Bremsweg.",
+              "Schutzbleche sind bei den schlammigen Wegen im Olivenhain Gold wert.",
+              "Planen Sie mehr Zeit für die Anstiege ein, da der Untergrund rutschig sein kann.",
+              "Halten Sie Ausschau nach überdachten Bushaltestellen für kurze Pausen."
+            ],
+            "hu": [
+              "Viseljen jó minőségű esőkabátot és vízálló nadrágot.",
+              "Indulás előtt ellenőrizze a fékeket, esőben hosszabb a féktáv.",
+              "A sárvédő elengedhetetlen az olajfaligetek sáros útjain.",
+              "Tervezzen több időt az emelkedőkre a csúszós talaj miatt.",
+              "Használja a fedett buszmegállókat rövid pihenőkre, ha felerősödik az eső."
+            ],
+            "ro": [
+              "Poartă o jachetă de ploaie de calitate și pantaloni impermeabili.",
+              "Verifică frânele înainte de plecare; umezeala crește distanța de frânare.",
+              "Apărătorile de noroi sunt esențiale pentru livezile de măslini.",
+              "Alocă mai mult timp pentru urcări, suprafața poate fi instabilă.",
+              "Caută adăpost în stațiile de autobuz acoperite în caz de aversă torențială."
+            ],
+            "en": [
+              "Wear a high-quality raincoat and waterproof cycling trousers.",
+              "Check your brake pads before starting; wet rims increase braking distance.",
+              "Mudguards are highly recommended for the muddy grove paths.",
+              "Allow extra time for climbs as the ground can be slick and unstable.",
+              "Look for covered bus stops for quick breaks during heavy downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen auf dem Rad führt uns durch Harmaina. Die Kühle wird beim Aufstieg zur Burg von Salona schnell vergessen. Mittags genießen wir die Aussicht bei einer warmen Mahlzeit. Die Fahrt durch die winterlichen Olivenhaine bietet eine einzigartige Lichtstimmung, bevor das Folkloremuseum den kulturellen Abschluss bildet.",
+            "hu": "Friss téli reggelen indul a bringázás Harmainában. A várba való felkapaszkodás közben gyorsan kimelegszünk. Ebédre meleg ételt választunk, gyönyörködve a kilátásban. A téli olajfaligetek különleges fényei után a néprajzi múzeumban zárjuk a napot, mielőtt túl hideg lenne odakint.",
+            "ro": "O dimineață răcoroasă de iarnă pe bicicletă prin Harmaina. Efortul de a urca la castel te va încălzi rapid. La prânz, savurăm o masă caldă cu o priveliște superbă. Plimbarea prin livezile de măslini oferă o lumină aparte, iar muzeul de folclor încheie ziua într-un mod plăcut.",
+            "en": "A crisp winter morning on two wheels through the streets of Harmaina. The climb to Salona Castle will keep you warm despite the chill. We enjoy a panoramic lunch with hot food. Riding through the winter olive groves offers unique light for photos before finishing at the Folklore Museum."
+          },
+          "stops": [
+            {
+              "name": "Harmaina Quarter",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, um Ihre Hände am Lenker vor dem Fahrtwind zu schützen.",
+                "hu": "Viseljen meleg kesztyűt, hogy megvédje kezeit a menetszéltől.",
+                "ro": "Poartă mănuși groase pentru a-ți proteja mâinile de vântul rece.",
+                "en": "Wear warm gloves to protect your hands from the biting winter wind."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Innenraum für eine Pause vom kalten Wind.",
+                "hu": "Használja ki a fűtött múzeumi teret a hideg szél elleni pihenőként.",
+                "ro": "Folosește interiorul încălzit pentru a lua o pauză de la frigul de afară.",
+                "en": "Take advantage of the heated museum to warm up after your ride."
+              }
+            },
+            {
+              "name": "Castle of Salona",
+              "tip_5lang": {
+                "de": "Oben angekommen, kühlt man im Wind schnell aus; ziehen Sie eine Jacke über.",
+                "hu": "A csúcson a szélben gyorsan lehűlhet, húzzon fel egy plusz réteget.",
+                "ro": "Sus vântul poate fi tăios; pune o jachetă pe tine după efortul urcării.",
+                "en": "Once at the top, the wind can be cold; put on a layer after the sweaty climb."
+              }
+            },
+            {
+              "name": "Lunch with a view",
+              "tip_5lang": {
+                "de": "Setzen Sie sich in die Nähe einer Heizung oder eines Kamins, falls vorhanden.",
+                "hu": "Üljön a fűtőtest vagy a kandalló közelébe, ha van rá lehetőség.",
+                "ro": "Așază-te lângă o sursă de căldură pentru a te relaxa în timpul mesei.",
+                "en": "Sit near a heater or fireplace if available to thaw out during lunch."
+              }
+            },
+            {
+              "name": "Olive Grove of Amfissa",
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist im Winter besonders weich und schön.",
+                "hu": "A délutáni fények télen különösen lágyak és szépek az olajfák között.",
+                "ro": "Lumina de după-amiază este foarte caldă și frumoasă în livadă iarna.",
+                "en": "The afternoon light in winter is exceptionally soft and beautiful in the groves."
+              }
+            },
+            {
+              "name": "Folklore Museum",
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour hier, bevor die Temperaturen nach Sonnenuntergang sinken.",
+                "hu": "Itt fejezze be a túrát, mielőtt a naplemente után leesne a hőmérséklet.",
+                "ro": "Încheie turul aici înainte ca temperatura să scadă drastic după apus.",
+                "en": "Finish your tour here before the temperature drops significantly at dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Kleidung ist entscheidend für Wintertouren in den Bergen.",
+              "Unterschätzen Sie nicht den Chill-Faktor bei den Abfahrten.",
+              "Trinken Sie zwischendurch warme Tees statt nur kaltes Wasser.",
+              "Stirnlampen sind ratsam, falls Sie nach 17 Uhr noch unterwegs sind.",
+              "Achten Sie auf Raureif auf schattigen Straßenabschnitten."
+            ],
+            "hu": [
+              "Szélálló ruházat elengedhetetlen a hegyi téli kerékpározáshoz.",
+              "Ne becsülje alá a menetszelet a lejtőkön, könnyen megfázhat.",
+              "Igyon meleg teát a hideg víz helyett a pihenők alatt.",
+              "Legyen Önnél lámpa, ha délután 5 után még úton lenne.",
+              "Figyeljen a zúzmarás, csúszós szakaszokra az árnyékos utakon."
+            ],
+            "ro": [
+              "Echipamentul rezistent la vânt este crucial pentru turele montane de iarnă.",
+              "Nu subestima curentul de aer de pe coborâri, te poți răci rapid.",
+              "Consumă ceai cald în loc de apă rece în timpul pauzelor.",
+              "Folosește faruri dacă ești încă pe drum după ora 17:00.",
+              "Atenție la porțiunile de drum umbrite care pot fi înghețate."
+            ],
+            "en": [
+              "Windproof clothing is essential for winter cycling in the mountains.",
+              "Don't underestimate the wind chill during descents from the castle.",
+              "Drink warm tea instead of cold water during your breaks to stay warm.",
+              "Ensure you have working lights if you are out past 5 PM.",
+              "Watch out for frost or ice patches on shaded road sections."
+            ]
+          }
+        }
       }
     },
     "car": {
       "mode": "car",
       "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "18:00",
-      "total_km": 16.2,
-      "stop_count": 7,
+      "end_estimate": "15:45",
+      "total_km": 12.5,
+      "stop_count": 6,
       "stops": [
         {
           "name": {
-            "de": "Parken am Fuße der Burg von Salona",
-            "hu": "Parkolás a Szalonai vár lábánál",
-            "ro": "Parcare la poalele Castelului Salona",
-            "en": "Parking at the base of the Castle of Salona"
+            "de": "Kathedrale der Verkündigung",
+            "hu": "Angyali üdvözlet székesegyház",
+            "ro": "Catedrala Bunei Vestiri",
+            "en": "Cathedral of the Annunciation"
           },
           "coords": [
-            22.373,
-            38.532
+            22.3782,
+            38.5285
           ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "09:20",
-          "stay_min": 0,
-          "hop_mode": "car",
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 4.0
-        },
-        {
-          "name": {
-            "de": "Burg von Salona",
-            "hu": "Szalonai vár",
-            "ro": "Castelul Salona",
-            "en": "Castle of Salona"
-          },
-          "coords": [
-            22.374,
-            38.533
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "09:25",
-          "stay_min": 90,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2
-        },
-        {
-          "name": {
-            "de": "Fahrt zum Olivenhain von Amfissa",
-            "hu": "Utazás az Amfisszai olajfaligethez",
-            "ro": "Drum spre Plantația de măslini din Amfissa",
-            "en": "Drive to the Amfissa Olive Grove"
-          },
-          "coords": [
-            22.39,
-            38.52
-          ],
-          "category": "natural features",
-          "arrive_at": "11:20",
+          "category": "churches/cathedrals",
+          "arrive_at": "09:10",
           "stay_min": 60,
-          "hop_mode": "car",
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 11.0
-        },
-        {
-          "name": {
-            "de": "Parken im Zentrum & Mittagessen",
-            "hu": "Parkolás a központban és ebéd",
-            "ro": "Parcare în centru și prânz",
-            "en": "Park in the center & Lunch"
-          },
-          "coords": [
-            22.3778,
-            38.527
-          ],
-          "category": "gastro",
-          "arrive_at": "12:35",
-          "stay_min": 90,
-          "hop_mode": "car",
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 1.0
-        },
-        {
-          "name": {
-            "de": "Viertel Harmaina",
-            "hu": "Harmaina negyed",
-            "ro": "Cartierul Harmaina",
-            "en": "Harmaina Quarter"
-          },
-          "coords": [
-            22.377,
-            38.529
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "14:10",
-          "stay_min": 45,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie am zentralen Platz.",
+            "hu": "Parkoljon a központi téren.",
+            "ro": "Parcați în piața centrală.",
+            "en": "Park your car at the central square."
+          }
         },
         {
           "name": {
@@ -682,316 +940,856 @@
             "en": "Archaeological Museum"
           },
           "coords": [
-            22.3758,
-            38.5278
+            22.3772,
+            38.5292
           ],
           "category": "museums",
-          "arrive_at": "15:05",
-          "stay_min": 85,
-          "hop_mode": "walk",
+          "arrive_at": "10:20",
+          "stay_min": 90,
           "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5
-        },
-        {
-          "name": {
-            "de": "Kathedrale der Verkündigung",
-            "hu": "Angyali Üdvözlet Székesegyház",
-            "ro": "Catedrala Bunei Vestiri",
-            "en": "Cathedral of the Annunciation"
-          },
-          "coords": [
-            22.3765,
-            38.5285
-          ],
-          "category": "churches/cathedrals",
-          "arrive_at": "16:40",
-          "stay_min": 50,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.2
-        }
-      ],
-      "narrative_4lang": {
-        "de": "Beginnen Sie Ihren Tag mit dem Auto und fahren Sie direkt zur imposanten Burg von Salona, die über der Stadt thront. Nach der Erkundung der Festung fahren Sie durch den riesigen Olivenhain, ein Meer aus Silbergrün. Parken Sie Ihr Auto im Stadtzentrum für den Rest des Tages. Nach einem herzhaften Mittagessen erkunden Sie zu Fuß das charmante Harmaina-Viertel, das Archäologische Museum und die Hauptkathedrale. Diese Mischung aus Fahren und Gehen bietet Ihnen das Beste aus beiden Welten.",
-        "hu": "Kezdje a napot autóval, és hajtson egyenesen a város fölé magasodó, impozáns Szalonai várhoz. Az erőd felfedezése után autózzon át a hatalmas, ezüstzöld tengerként elterülő olajfaligeten. Parkolja le autóját a városközpontban a nap hátralévő részére. Egy kiadós ebéd után gyalog fedezze fel a bájos Harmaina negyedet, a Régészeti Múzeumot és a főszékesegyházat. Ez a vezetés és séta keveréke mindkét világból a legjobbat nyújtja.",
-        "ro": "Începeți ziua cu mașina, conducând direct la impunătorul Castel Salona, care domină orașul. După ce explorați fortăreața, conduceți prin vasta plantație de măslini, o mare de verde-argintiu. Parcați mașina în centrul orașului pentru restul zilei. După un prânz copios, explorați pe jos fermecătorul cartier Harmaina, Muzeul de Arheologie și catedrala principală. Acest amestec de condus și mers pe jos vă oferă ce e mai bun din ambele lumi.",
-        "en": "Start your day by car, driving directly to the imposing Castle of Salona towering over the city. After exploring the fortress, take a drive through the vast olive grove, a sea of silver-green. Park your car in the city center for the rest of the day. After a hearty lunch, explore the charming Harmaina quarter, the Archaeological Museum, and the main cathedral on foot. This mix of driving and walking gives you the best of both worlds."
-      },
-      "gastro_picks": {
-        "de": [
-          {
-            "name": "Taverna To Koutouki tou Foti",
-            "tip": "Bekannt für traditionelle griechische Gerichte und eine gemütliche Atmosphäre."
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking area."
           }
-        ],
-        "hu": [
-          {
-            "name": "Taverna To Koutouki tou Foti",
-            "tip": "Hagyományos görög ételeiről és hangulatos légköréről ismert."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Taverna To Koutouki tou Foti",
-            "tip": "Cunoscută pentru mâncărurile grecești tradiționale și o atmosferă primitoare."
-          }
-        ],
-        "en": [
-          {
-            "name": "Taverna To Koutouki tou Foti",
-            "tip": "Known for traditional Greek dishes and a cozy atmosphere."
-          }
-        ]
-      },
-      "quiet_picks": {
-        "de": [
-          {
-            "name": "Fahrt durch den Olivenhain",
-            "tip": "Halten Sie an einem sicheren Ort am Straßenrand an, steigen Sie aus und lauschen Sie dem Zirpen der Zikaden.",
-            "emoji": "🚗"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Autózás az olajfaligeten keresztül",
-            "tip": "Álljon meg egy biztonságos helyen az út szélén, szálljon ki, és hallgassa a kabócák ciripelését.",
-            "emoji": "🚗"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Plimbare cu mașina prin plantația de măslini",
-            "tip": "Opriți într-un loc sigur pe marginea drumului, coborâți și ascultați cântecul greierilor.",
-            "emoji": "🚗"
-          }
-        ],
-        "en": [
-          {
-            "name": "Drive through the Olive Grove",
-            "tip": "Pull over at a safe spot on the roadside, get out, and listen to the chirping of the cicadas.",
-            "emoji": "🚗"
-          }
-        ]
-      },
-      "shopping_picks": {
-        "de": [
-          {
-            "name": "Olivenöl ab Hof",
-            "tip": "Achten Sie auf Schilder, die 'eleolado' (Olivenöl) direkt von den Produzenten im Hain verkaufen."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Olívaolaj a termelőtől",
-            "tip": "Keresse az 'eleolado' (olívaolaj) táblákat, ahol közvetlenül a liget termelőitől vásárolhat."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Ulei de măsline de la fermă",
-            "tip": "Fiți atenți la indicatoarele care vând 'eleolado' (ulei de măsline) direct de la producătorii din plantație."
-          }
-        ],
-        "en": [
-          {
-            "name": "Olive Oil from the farm",
-            "tip": "Look for signs selling 'eleolado' (olive oil) directly from producers in the grove."
-          }
-        ]
-      },
-      "tips": {
-        "de": [
-          "Das Parken im Stadtzentrum kann tagsüber schwierig sein. Suchen Sie nach ausgewiesenen Parkplätzen.",
-          "Die Straßen zur Burg können eng sein, fahren Sie vorsichtig.",
-          "Die Cluster-Walking-Methode ist ideal, um Parkgebühren zu sparen und die Stadt wirklich zu erleben.",
-          "Planen Sie genügend Zeit für die Fahrt durch den Olivenhain ein; die Landschaft ist es wert."
-        ],
-        "hu": [
-          "A parkolás a városközpontban napközben nehézkes lehet. Keressen kijelölt parkolóhelyeket.",
-          "A várhoz vezető utak szűkek lehetnek, vezessen óvatosan.",
-          "A 'cluster-walking' módszer ideális a parkolási díjak megtakarítására és a város igazi megismerésére.",
-          "Szánjon elegendő időt az olajfaligeten való áthaladásra; a táj megéri."
-        ],
-        "ro": [
-          "Parcarea în centrul orașului poate fi dificilă în timpul zilei. Căutați parcări amenajate.",
-          "Drumurile spre castel pot fi înguste, conduceți cu prudență.",
-          "Metoda 'cluster-walking' este ideală pentru a economisi taxele de parcare și pentru a experimenta cu adevărat orașul.",
-          "Planificați suficient timp pentru a conduce prin plantația de măslini; peisajul merită."
-        ],
-        "en": [
-          "Parking in the city center can be challenging during the day. Look for designated parking areas.",
-          "The roads to the castle can be narrow, so drive carefully.",
-          "The cluster-walking method is ideal for saving on parking fees and truly experiencing the city.",
-          "Allow plenty of time for the drive through the olive grove; the scenery is worth it."
-        ]
-      }
-    },
-    "transit": {
-      "mode": "transit",
-      "speed_kmh": 15,
-      "start": "09:00",
-      "end_estimate": "17:45",
-      "total_km": 5.7,
-      "stop_count": 6,
-      "stops": [
-        {
-          "name": {
-            "de": "Fahrt mit dem Bus zum Stadtzentrum",
-            "hu": "Buszozás a városközpontba",
-            "ro": "Călătorie cu autobuzul spre centrul orașului",
-            "en": "Bus ride to the city center"
-          },
-          "coords": [
-            22.377,
-            38.529
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "09:20",
-          "stay_min": 0,
-          "hop_mode": "transit",
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 3.0
         },
         {
           "name": {
             "de": "Viertel Harmaina",
             "hu": "Harmaina negyed",
             "ro": "Cartierul Harmaina",
-            "en": "Harmaina Quarter"
-          },
-          "coords": [
-            22.377,
-            38.529
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "09:25",
-          "stay_min": 40,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.1
-        },
-        {
-          "name": {
-            "de": "Archäologisches Museum & Volkskundemuseum",
-            "hu": "Régészeti Múzeum és Néprajzi Múzeum",
-            "ro": "Muzeul de Arheologie & Muzeul de Folclor",
-            "en": "Archaeological & Folklore Museum"
-          },
-          "coords": [
-            22.376,
-            38.5285
-          ],
-          "category": "museums",
-          "arrive_at": "10:15",
-          "stay_min": 120,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5
-        },
-        {
-          "name": {
-            "de": "Mittagessen im Zentrum",
-            "hu": "Ebéd a központban",
-            "ro": "Prânz în centru",
-            "en": "Lunch in the center"
-          },
-          "coords": [
-            22.3772,
-            38.5275
-          ],
-          "category": "gastro",
-          "arrive_at": "12:20",
-          "stay_min": 80,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.1
-        },
-        {
-          "name": {
-            "de": "Busfahrt zum Fuße der Burg",
-            "hu": "Buszozás a vár lábához",
-            "ro": "Călătorie cu autobuzul la poalele castelului",
-            "en": "Bus ride to the castle's base"
+            "en": "Harmaina District"
           },
           "coords": [
             22.3735,
-            38.5325
+            38.5255
           ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "13:55",
-          "stay_min": 0,
-          "hop_mode": "transit",
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.0
+          "category": "squares/old-town",
+          "arrive_at": "12:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Einzigartige Architektur der alten Werkstätten.",
+            "hu": "A régi műhelyek egyedi építészete.",
+            "ro": "Arhitectura unică a vechilor ateliere.",
+            "en": "Unique architecture of the old workshops."
+          }
         },
         {
           "name": {
-            "de": "Erkundung der Burg von Salona",
-            "hu": "A Szalonai vár felfedezése",
-            "ro": "Explorarea Castelului Salona",
-            "en": "Exploring the Castle of Salona"
+            "de": "Burg von Salona",
+            "hu": "Szalónai vár",
+            "ro": "Castelul Salona",
+            "en": "Castle of Salona"
           },
           "coords": [
-            22.374,
-            38.533
+            22.3745,
+            38.5315
           ],
           "category": "castles/fortresses/towers",
-          "arrive_at": "14:00",
-          "stay_min": 120,
-          "hop_mode": "walk",
+          "arrive_at": "13:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie bis zum Eingang des Schlosses.",
+            "hu": "Hajtson egészen a vár bejáratáig.",
+            "ro": "Conduceți până la intrarea în castel.",
+            "en": "Drive right up to the castle entrance area."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Erlösers",
+            "hu": "Megváltó templom",
+            "ro": "Biserica Mântuitorului",
+            "en": "Church of the Savior"
+          },
+          "coords": [
+            22.3755,
+            38.5325
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "14:40",
+          "stay_min": 35,
           "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kleiner Parkplatz in der Nähe.",
+            "hu": "Kis parkolóhely a közelben.",
+            "ro": "Mică parcare în apropiere.",
+            "en": "Small parking space nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Olivenhain von Amfissa",
+            "hu": "Ámfisszai olajfaliget",
+            "ro": "Livada de măslini din Amfissa",
+            "en": "Amfissa Olive Grove"
+          },
+          "coords": [
+            22.388,
+            38.515
+          ],
+          "category": "natural features",
+          "arrive_at": "15:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Stopp an einem malerischen Aussichtspunkt im Hain.",
+            "hu": "Megálló egy festői kilátópontnál a ligetben.",
+            "ro": "Oprire la un punct de belvedere în livadă.",
+            "en": "Stop at a scenic viewpoint within the grove."
+          }
         }
       ],
       "narrative_4lang": {
-        "de": "Nutzen Sie den lokalen Bus, um bequem ins Zentrum von Amfissa zu gelangen. Der Vormittag gehört der Erkundung des historischen Kerns zu Fuß: vom Harmaina-Viertel zu den faszinierenden Museen. Nach einem entspannten Mittagessen bringt Sie ein weiterer Bus in die Nähe der Burg von Salona. Der Nachmittag ist dem Aufstieg und der Erkundung dieser beeindruckenden Festung gewidmet, von der aus Sie eine unvergleichliche Aussicht genießen. Am späten Nachmittag nehmen Sie den Bus zurück in die Stadt.",
-        "hu": "Használja a helyi buszt, hogy kényelmesen eljusson Amfissza központjába. A délelőttöt a történelmi városmag gyalogos felfedezésével tölti: a Harmaina negyedtől a lenyűgöző múzeumokig. Egy pihentető ebéd után egy másik busz elviszi Önt a Szalonai vár közelébe. A délután a felmászásé és e lenyűgöző erőd felfedezéséé, ahonnan páratlan kilátás nyílik. Késő délután busszal tér vissza a városba.",
-        "ro": "Folosiți autobuzul local pentru a ajunge confortabil în centrul Amfissei. Dimineața este dedicată explorării pe jos a centrului istoric: de la cartierul Harmaina la muzeele fascinante. După un prânz relaxant, un alt autobuz vă duce în apropierea Castelului Salona. După-amiaza este dedicată urcării și explorării acestei fortărețe impresionante, de unde vă veți bucura de o priveliște de neegalat. Seara târziu, luați autobuzul înapoi în oraș.",
-        "en": "Use the local bus to conveniently get to the center of Amfissa. The morning is for exploring the historic core on foot: from the Harmaina quarter to the fascinating museums. After a relaxing lunch, another bus takes you near the Castle of Salona. The afternoon is dedicated to the climb and exploration of this impressive fortress, from where you can enjoy an unparalleled view. In the late afternoon, you take the bus back to the city."
+        "de": "Mit dem Auto erreichen Sie bequem die Höhepunkte von Amfissa. Starten Sie im Zentrum, besuchen Sie das Museum und tauchen Sie in Harmaina ein. Sparen Sie Kraft für die Burgbesichtigung und beenden Sie die Tour mit einer Fahrt durch das UNESCO-nahe Olivenmeer.",
+        "hu": "Autóval kényelmesen érheti el Ámfissza látnivalóit. Kezdjen a belvárosban, látogassa meg a múzeumot, majd Harmainát. Kímélje meg magát a várba vezető kaptatótól, a napot pedig zárja egy autózással az UNESCO-szintű olajfaligetekben.",
+        "ro": "Cu mașina puteți ajunge confortabil la atracțiile din Amfissa. Începeți în centru cu muzeul și cartierul Harmaina. Economisiți energie pentru vizitarea castelului și încheiați ziua cu o plimbare prin imensa livadă de măslini.",
+        "en": "By car, you can easily reach Amfissa's highlights. Start in the center for the museum and Harmaina district. Save your breath by driving up to the castle and finish the tour with a scenic drive through the vast, ancient olive groves."
       },
       "gastro_picks": {
-        "de": [],
-        "hu": [],
-        "ro": [],
-        "en": []
+        "de": [
+          {
+            "name": "Lokales Fleisch",
+            "tip": "Probieren Sie Lammgerichte in den Bergtavernen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi húsételek",
+            "tip": "Kóstolja meg a báránysülteket a hegyi tavernákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Carne locală",
+            "tip": "Gustați preparatele din miel la tavernele de munte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Meat",
+            "tip": "Try lamb dishes in the mountain-side taverns."
+          }
+        ]
       },
       "quiet_picks": {
-        "de": [],
-        "hu": [],
-        "ro": [],
-        "en": []
+        "de": [
+          {
+            "name": "Aussichtspunkt im Hain",
+            "tip": "Ruhe inmitten tausender Bäume.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátó a ligetben",
+            "tip": "Csend több ezer olajfa ölelésében.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere în livadă",
+            "tip": "Liniște în mijlocul miilor de măslini.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grove Viewpoint",
+            "tip": "Peace and quiet among thousands of trees.",
+            "emoji": "🏞️"
+          }
+        ]
       },
       "shopping_picks": {
-        "de": [],
-        "hu": [],
-        "ro": [],
-        "en": []
+        "de": [
+          {
+            "name": "Konserven",
+            "tip": "Oliven in großen Behältern für die Heimreise."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konzervek",
+            "tip": "Olajbogyó nagy kiszerelésben hazautazáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Conserve",
+            "tip": "Măsline la recipiente mari pentru drumul spre casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Preserves",
+            "tip": "Olives in large containers to take home."
+          }
+        ]
       },
       "tips": {
         "de": [
-          "Kaufen Sie eine Tageskarte für den Bus, wenn verfügbar.",
-          "Überprüfen Sie den Busfahrplan im Voraus, insbesondere für die letzte Rückfahrt von der Burg.",
-          "Die Bushaltestellen sind möglicherweise nicht immer deutlich gekennzeichnet. Fragen Sie Einheimische, wenn Sie unsicher sind.",
-          "Vom Busstopp an der Burg ist es immer noch ein kurzer, aber steiler Aufstieg."
+          "Die Straßen im Zentrum sind sehr eng, parken Sie sobald möglich.",
+          "Die Fahrt zur Burg ist asphaltiert und einfach.",
+          "Achten Sie auf Traktoren im Olivenhain."
         ],
         "hu": [
-          "Vásároljon napijegyet a buszra, ha rendelkezésre áll.",
-          "Ellenőrizze előre a buszmenetrendet, különösen az utolsó, várból visszainduló járatot.",
-          "A buszmegállók nem mindig vannak egyértelműen jelölve. Kérdezze meg a helyieket, ha bizonytalan.",
-          "A vár melletti buszmegállótól még egy rövid, de meredek emelkedő van hátra."
+          "A belvárosi utcák nagyon szűkek, parkoljon le, amint tud.",
+          "A várhoz vezető út aszfaltozott és könnyen járható.",
+          "Vigyázzon a traktorokra az olajfaligetben."
         ],
         "ro": [
-          "Cumpărați un bilet de o zi pentru autobuz, dacă este disponibil.",
-          "Verificați programul autobuzelor în avans, în special pentru ultima cursă de întoarcere de la castel.",
-          "Stațiile de autobuz s-ar putea să nu fie întotdeauna clar marcate. Întrebați localnicii dacă sunteți nesiguri.",
-          "De la stația de autobuz de la castel, mai este o urcare scurtă, dar abruptă."
+          "Străzile centrale sunt foarte înguste, parcați imediat ce găsiți loc.",
+          "Drumul spre castel este asfaltat și ușor de parcurs.",
+          "Atenție la tractoarele din livada de măslini."
         ],
         "en": [
-          "Buy a day pass for the bus if available.",
-          "Check the bus schedule in advance, especially for the last return trip from the castle.",
-          "Bus stops may not always be clearly marked; ask locals if you're unsure.",
-          "It's still a short but steep climb from the bus stop at the castle."
+          "Streets in the center are very narrow; park your car as soon as you find a spot.",
+          "The road to the castle is paved and easy to drive.",
+          "Watch out for tractors in the olive grove areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto erkunden wir Amfissa ganz entspannt trotz Regens. Wir parken direkt unterhalb der Burg für einen kurzen, aber lohnenswerten Besuch. Danach geht es durch die verregneten Olivenhaine zu einem ausgiebigen Mittagessen im Zentrum. Den Nachmittag verbringen wir in den Museen und der Kathedrale, immer in der Nähe eines trockenen Parkplatzes.",
+            "hu": "Autóval az eső ellenére is kényelmesen felfedezhetjük Amfisszát. Közvetlenül a vár alatt parkolunk a rövid, de látványos vizithez. Ezután a vizes olajfaligeteken át gurulunk a központi ebédre. A délutánt a múzeumokban és a katedrálisban töltjük, mindig közel maradva a száraz autóhoz.",
+            "ro": "Cu mașina, explorăm Amfissa relaxați, în ciuda ploii. Parcăm chiar sub castel pentru o vizită scurtă dar intensă. Apoi trecem prin livezile de măslini spre un prânz lung în centru. După-amiaza o petrecem în muzee și la catedrală, având mereu mașina aproape pentru a ne feri de stropi.",
+            "en": "Driving through Amfissa is a comfortable way to see the sights despite the rain. We park near the castle base for a quick explore, then drive through the misty olive groves. Lunch in the center is followed by indoor visits to the museum and cathedral, keeping travel dry and easy."
+          },
+          "stops": [
+            {
+              "name": "Parking at the base of the Castle of Salona",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Tor, um den Fußweg im Regen zu minimieren.",
+                "hu": "Parkoljon a lehető legközelebb a kapuhoz, hogy keveset kelljen sétálnia az esőben.",
+                "ro": "Parchează cât mai aproape de poartă pentru a evita ploaia.",
+                "en": "Park as close to the gate as possible to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Castle of Salona",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mauern als Windschutz während Ihrer Erkundung.",
+                "hu": "Használja a várfalakat szélfogóként a nézelődés során.",
+                "ro": "Folosește zidurile castelului ca protecție împotriva vântului.",
+                "en": "Use the high castle walls as a windbreak during your exploration."
+              }
+            },
+            {
+              "name": "Drive to the Amfissa Olive Grove",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die regennassen, uralten Bäume aus dem trockenen Auto.",
+                "hu": "Élvezze az esőtől csillogó, ősi fák látványát a száraz autóból.",
+                "ro": "Admiră măslinii seculari umeziți de ploaie din confortul mașinii.",
+                "en": "Enjoy the view of the ancient, rain-soaked trees from your dry car."
+              }
+            },
+            {
+              "name": "Park in the center & Lunch",
+              "tip_5lang": {
+                "de": "Ein Parkhaus oder ein überdachter Parkplatz ist im Zentrum ratsam.",
+                "hu": "Érdemes fedett parkolót keresni a központban az ebéd idejére.",
+                "ro": "Caută o parcare acoperită în centru pentru a rămâne uscat.",
+                "en": "Look for a covered parking spot in the center to stay dry for lunch."
+              }
+            },
+            {
+              "name": "Harmaina Quarter",
+              "tip_5lang": {
+                "de": "Machen Sie nur eine kurze Fahrt durch das Viertel, da das Parken schwierig ist.",
+                "hu": "Csak rövid kört tegyen az autóval, a parkolás nehézkes a szűk utcákban.",
+                "ro": "Fă doar o tură scurtă, parcarea în cartier este limitată.",
+                "en": "Keep the visit brief as parking is very difficult in these narrow streets."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt davor spart Ihnen einen nassen Spaziergang.",
+                "hu": "A közvetlenül előtte lévő parkoló megkíméli a vizes sétától.",
+                "ro": "Parcarea chiar în față te scutește de o plimbare prin ploaie.",
+                "en": "The parking lot directly in front saves you from a wet walk."
+              }
+            },
+            {
+              "name": "Cathedral of the Annunciation",
+              "tip_5lang": {
+                "de": "Lassen Sie Mitreisende direkt vor dem Eingang aussteigen.",
+                "hu": "Az utasok kiszállhatnak közvetlenül a bejárat előtt.",
+                "ro": "Lasă pasagerii să coboare chiar în fața intrării.",
+                "en": "Drop off passengers directly in front of the entrance to avoid the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht bei Fahrten durch die Olivenhaine; die Wege können schlammig sein.",
+              "Die Sicht in den Bergen kann bei Regen stark eingeschränkt sein.",
+              "Parken Sie im Stadtzentrum eher in den breiteren Nebenstraßen.",
+              "Nutzen Sie das Auto als Basis, um zwischendurch Kleidung zu wechseln.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt in die Berge."
+            ],
+            "hu": [
+              "Legyen óvatos az olajfaligetek útjain, sárátfolyások lehetnek.",
+              "A hegyekben a látási viszonyok esőben jelentősen romolhatnak.",
+              "A városközpontban inkább a szélesebb mellékutcákban parkoljon.",
+              "Használja az autót bázisként az átázott ruhák cseréjéhez.",
+              "Ellenőrizze az ablaktörlőket a hegyi út előtt."
+            ],
+            "ro": [
+              "Atenție la drumurile prin livezi, pot fi alunecoase din cauza noroiului.",
+              "Vizibilitatea în zona montană poate fi redusă pe timp de ploaie.",
+              "Parchează pe străzile secundare mai largi în centrul orașului.",
+              "Folosește mașina ca bază pentru a depozita haine de schimb.",
+              "Verifică ștergătoarele înainte de a urca spre munte."
+            ],
+            "en": [
+              "Be cautious on grove roads; rain can cause muddy patches or small washouts.",
+              "Visibility in the mountain passes can drop quickly during heavy rain.",
+              "Prefer parking on wider side streets in the city center.",
+              "Use your car as a 'dry base' to keep extra jackets or a change of clothes.",
+              "Check your windshield wipers before heading into the mountains."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Amfissa lässt sich hervorragend mit dem Auto erkunden. Wir starten mit der Burg von Salona und genießen die klare Bergluft. Die Fahrt durch die winterlich kargen Olivenhaine ist faszinierend. Mittags wärmen wir uns im Zentrum auf. Den Nachmittag verbringen wir in der Wärme des Museums und beenden die Tour bei der Kathedrale.",
+            "hu": "A téli Amfissza kiválóan felfedezhető autóval. A Salona várával kezdünk, élvezve a tiszta hegyi levegőt. A téli olajfaligetek látványa lenyűgöző. Ebédre a városközpontban melegszünk fel. A délutánt a múzeum fűtött termeiben töltjük, majd a katedrálisnál zárjuk a kirándulást.",
+            "ro": "Amfissa pe timp de iarnă se vizitează cel mai bine cu mașina. Începem cu castelul Salona și aerul curat de munte. Drumul prin livezile de măslini iarna este fascinant. La prânz ne încălzim în centru. După-amiaza o petrecem la căldura muzeului și încheiem turul la catedrală.",
+            "en": "Winter in Amfissa is best explored by car for maximum warmth. We start at Salona Castle for the crisp mountain views, then drive through the quiet, wintery olive groves. After a warm lunch in town, the heated museum provides a perfect afternoon stop before finishing at the cathedral."
+          },
+          "stops": [
+            {
+              "name": "Parking at the base of the Castle of Salona",
+              "tip_5lang": {
+                "de": "Schattenparkplätze können morgens noch vereist sein.",
+                "hu": "Az árnyékos parkolók reggel még jegesek lehetnek.",
+                "ro": "Parcările la umbră pot fi înghețate dimineața.",
+                "en": "Shaded parking spots might still have ice in the early morning."
+              }
+            },
+            {
+              "name": "Castle of Salona",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über das verschneite Parnass-Gebirge in der Ferne.",
+                "hu": "Csodálja meg a távoli, havas Parnasszosz-hegység látványát.",
+                "ro": "Admiră priveliștea spre munții Parnassos înzăpeziți în depărtare.",
+                "en": "Admire the distant views of the snow-capped Parnassus mountains."
+              }
+            },
+            {
+              "name": "Drive to the Amfissa Olive Grove",
+              "tip_5lang": {
+                "de": "Die Straßen durch die Haine sind im Winter oft sehr ruhig.",
+                "hu": "Az olajfaligetek közötti utak télen általában nagyon csendesek.",
+                "ro": "Drumurile prin livezi sunt foarte liniștite în timpul iernii.",
+                "en": "The roads through the groves are usually very quiet in winter."
+              }
+            },
+            {
+              "name": "Park in the center & Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie eine Taverne mit einem gemütlichen Kaminfeuer.",
+                "hu": "Keressen egy tavernat, ahol hangulatos kandallótűz mellett ebédelhet.",
+                "ro": "Caută o tavernă cu șemineu pentru un prânz autentic.",
+                "en": "Find a local tavern with a cozy fireplace for your lunch break."
+              }
+            },
+            {
+              "name": "Harmaina Quarter",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für Fotos der historischen Architektur lohnt sich.",
+                "hu": "Egy rövid megálló a történelmi épületek fotózásához megéri.",
+                "ro": "O oprire scurtă pentru poze cu arhitectura istorică merită efortul.",
+                "en": "A quick photo stop for the historic architecture is well worth it."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Zeit bis zum Sonnenuntergang im Warmen zu verbringen.",
+                "hu": "Ideális helyszín a naplemente előtti idő melegben való eltöltéséhez.",
+                "ro": "Locul perfect pentru a sta la căldură până la apus.",
+                "en": "An ideal place to spend the pre-sunset hours in a warm environment."
+              }
+            },
+            {
+              "name": "Cathedral of the Annunciation",
+              "tip_5lang": {
+                "de": "Die warme Beleuchtung im Inneren wirkt im Winter besonders einladend.",
+                "hu": "A belső meleg világítás télen különösen hívogató.",
+                "ro": "Iluminatul cald din interior este foarte primitor iarna.",
+                "en": "The warm interior lighting feels especially inviting during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Mietwagen über eine gute Heizung verfügt.",
+              "Achten Sie auf Glätte in den schattigen Kurven der Burgauffahrt.",
+              "Nutzen Sie das Tageslicht voll aus, es wird früh dunkel.",
+              "Haben Sie immer einen Eiskratzer im Handschuhfach.",
+              "Die Parkplatzsuche im Zentrum ist im Winter meist einfacher als im Sommer."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy az autó fűtése megfelelően működik.",
+              "Figyeljen a lefagyásokra a várba vezető út árnyékos kanyarjaiban.",
+              "Használja ki a nappali fényt, mert korán sötétedik.",
+              "Mindig legyen jégkaparó az autóban.",
+              "A központban télen általában könnyebb parkolóhelyet találni."
+            ],
+            "ro": [
+              "Asigură-te că sistemul de încălzire al mașinii funcționează bine.",
+              "Atenție la polei pe curbele umbrite spre castel.",
+              "Profită de lumina zilei, se întunecă devreme.",
+              "Păstrează o racletă pentru gheață în torpedo.",
+              "Parcarea în centru este de obicei mai facilă iarna decât vara."
+            ],
+            "en": [
+              "Ensure your car's heating system is working perfectly for the mountain air.",
+              "Watch out for black ice on shaded curves leading up to the castle.",
+              "Maximize your daylight hours as it gets dark quite early.",
+              "Keep an ice scraper in the car just in case of morning frost.",
+              "Parking in the town center is generally easier in winter than in summer."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 5.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            22.3772,
+            38.5292
+          ],
+          "category": "museums",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zentraler Halt für den Bus aus Delphi oder Itea.",
+            "hu": "Központi megálló a Delphiből vagy Iteából érkező buszoknak.",
+            "ro": "Stație centrală pentru autobuzul din Delphi sau Itea.",
+            "en": "Central stop for buses from Delphi or Itea."
+          }
+        },
+        {
+          "name": {
+            "de": "Volkskundemuseum",
+            "hu": "Néprajzi Múzeum",
+            "ro": "Muzeul de Etnografie",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            22.3765,
+            38.5275
+          ],
+          "category": "museums",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Einblick in das tägliche Leben früherer Generationen.",
+            "hu": "Betekintés a korábbi generációk mindennapi életébe.",
+            "ro": "Informații despre viața de zi cu zi a generațiilor trecute.",
+            "en": "Insight into the daily life of past generations."
+          }
+        },
+        {
+          "name": {
+            "de": "Viertel Harmaina",
+            "hu": "Harmaina negyed",
+            "ro": "Cartierul Harmaina",
+            "en": "Harmaina District"
+          },
+          "coords": [
+            22.3735,
+            38.5255
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Zu Fuß gut vom Zentrum erreichbar.",
+            "hu": "Gyalogosan jól elérhető a központból.",
+            "ro": "Ușor accesibil pe jos din centru.",
+            "en": "Easily accessible on foot from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Verkündigung",
+            "hu": "Angyali üdvözlet székesegyház",
+            "ro": "Catedrala Bunei Vestiri",
+            "en": "Cathedral of the Annunciation"
+          },
+          "coords": [
+            22.3782,
+            38.5285
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Die religiöse Seele der Stadt.",
+            "hu": "A város vallási szíve.",
+            "ro": "Inima religioasă a orașului.",
+            "en": "The religious heart of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Salona",
+            "hu": "Szalónai vár",
+            "ro": "Castelul Salona",
+            "en": "Castle of Salona"
+          },
+          "coords": [
+            22.3745,
+            38.5315
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Rückfahrt mit dem Bus.",
+            "hu": "Utolsó állomás a busz visszaindulása előtt.",
+            "ro": "Ultima oprire înainte de plecarea autobuzului.",
+            "en": "Last stop before the bus ride back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Amfissa ist ein idealer Tagesausflug mit dem regionalen Bus (KTEL). Vom zentralen Busstopp aus erreichen Sie die wichtigsten Museen und das Gerberviertel bequem zu Fuß. Die Stadtführung kombiniert Kultur, Tradition und Geschichte auf kompaktem Raum.",
+        "hu": "Ámfissza ideális egynapos kirándulás regionális busszal (KTEL). A központi buszmegállótól gyalogosan is kényelmesen elérhetők a főbb múzeumok és a cserzőnegyed. A városnézés a kultúrát, a hagyományt és a történelmet ötvözi.",
+        "ro": "Amfissa este o excursie ideală de o zi cu autobuzul regional (KTEL). De la stația centrală, puteți ajunge pe jos la principalele muzee și la cartierul tăbăcarilor. Turul orașului combină cultura, tradiția și istoria într-un spațiu compact.",
+        "en": "Amfissa is an ideal day trip using regional buses (KTEL). From the central bus stop, you can comfortably reach the main museums and the tannery district on foot. This tour combines culture, tradition, and history in a compact area."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Platzcafés",
+            "tip": "Gönnen Sie sich einen griechischen Kaffee am Busstopp."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Téri kávézók",
+            "tip": "Igyon meg egy görög kávét a buszmegálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenelele din piață",
+            "tip": "Savurați o cafea grecească lângă stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Square Cafés",
+            "tip": "Enjoy a traditional Greek coffee near the bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Museumshof",
+            "tip": "Ein ruhiger Moment zwischen antiken Steinen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Múzeumudvar",
+            "tip": "Csendes pillanat az ókori kövek között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea muzeului",
+            "tip": "Un moment de liniște printre pietre antice.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Museum Courtyard",
+            "tip": "A quiet moment among ancient stones.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Traditionelle Süßwaren",
+            "tip": "Spoon Sweets (Glyka tou koutaliou) als Mitbringsel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hagyományos édességek",
+            "tip": "Vigyen haza gyümölcsbefőttet (glika tu kutaliu)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dulciuri tradiționale",
+            "tip": "Cumpărați fructe confiate (glyka tou koutaliou)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Traditional Sweets",
+            "tip": "Pick up some 'spoon sweets' as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die KTEL-Fahrpläne vorab, da die Verbindungen selten sein können.",
+          "Die KTEL-Station liegt zentral am Kehagias-Platz.",
+          "Alles ist fußläufig erreichbar, aber es geht bergauf."
+        ],
+        "hu": [
+          "Ellenőrizze előre a KTEL menetrendet, mert ritkák lehetnek a járatok.",
+          "A KTEL állomás központi helyen, a Kehagias téren található.",
+          "Minden sétatávolságra van, de számítson emelkedőkre."
+        ],
+        "ro": [
+          "Verificați orarul KTEL în avans, cursele pot fi rare.",
+          "Stația KTEL este situată central, în Piața Kehagias.",
+          "Totul este la mică distanță de mers pe jos, dar traseul este în urcare."
+        ],
+        "en": [
+          "Check the KTEL bus schedules in advance as connections can be infrequent.",
+          "The KTEL station is centrally located at Kehagias Square.",
+          "Everything is within walking distance, but expect some uphill climbs."
+        ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus navigieren wir trocken durch das verregnete Amfissa. Den Vormittag verbringen wir in den Museen, geschützt vor den Schauern. Mittags genießen wir ein warmes Essen in einer Taverne nahe der Bushaltestelle. Trotz Regen besuchen wir die Burg, bevor wir uns in die gemütliche Kathedrale zurückziehen.",
+            "hu": "Busszal az eső ellenére is szárazon közlekedhetünk Amfisszában. A délelőttöt a múzeumokban töltjük, védve a záporoktól. Ebédre a buszmegállóhoz közeli tavernát választunk. Az esőben is ellátogatunk a várba, majd a napot a katedrális békéjében zárjuk.",
+            "ro": "Cu autobuzul, navigăm prin Amfissa fără să ne udăm. Dimineața o petrecem în muzee, feriți de ploaie. La prânz savurăm o masă caldă într-o tavernă aproape de stație. În ciuda ploii, vizităm castelul, apoi ne retragem în liniștea catedralei.",
+            "en": "Public transit keeps us dry as we navigate rainy Amfissa. Spend the morning in the sheltered museums. Lunch is enjoyed at a tavern close to a bus stop. Even in the rain, we head to the castle before ending the day in the dry and peaceful cathedral."
+          },
+          "stops": [
+            {
+              "name": "Bus ride to the city center",
+              "tip_5lang": {
+                "de": "Halten Sie Ihr Ticket griffbereit, um nicht im Regen suchen zu müssen.",
+                "hu": "Legyen kéznél a jegye, hogy ne az esőben kelljen keresgélnie.",
+                "ro": "Ține biletul la îndemână pentru a nu sta în ploaie căutându-l.",
+                "en": "Have your ticket ready so you don't have to fumble for it in the rain."
+              }
+            },
+            {
+              "name": "Harmaina Quarter",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist nur einen kurzen Sprint vom Viertel entfernt.",
+                "hu": "A buszmegálló csak egy rövid sprintre van a negyedtől.",
+                "ro": "Stația de autobuz este la doar câțiva pași de cartier.",
+                "en": "The bus stop is just a quick dash away from the historic quarter."
+              }
+            },
+            {
+              "name": "Archaeological & Folklore Museum",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um auf den nächsten Bus im Trockenen zu warten.",
+                "hu": "Tökéletes helyszín a következő buszra való várakozáshoz, fedett helyen.",
+                "ro": "Un loc excelent pentru a aștepta următorul autobuz la adăpost.",
+                "en": "A perfect indoor location to wait for your next bus connection."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit direktem Blick auf die Bushaltestelle.",
+                "hu": "Válasszon olyan éttermet, ahonnan rálát a buszmegállóra.",
+                "ro": "Alege un restaurant de unde poți vedea stația de autobuz.",
+                "en": "Choose a restaurant where you can keep an eye on the bus stop."
+              }
+            },
+            {
+              "name": "Bus ride to the castle's base",
+              "tip_5lang": {
+                "de": "Fragen Sie den Fahrer nach der genauen Rückfahrzeit bei Regen.",
+                "hu": "Kérdezze meg a sofőrt a pontos visszaindulási időről esőben.",
+                "ro": "Întreabă șoferul despre ora exactă de retur pe timp de ploaie.",
+                "en": "Confirm the return bus schedule with the driver during bad weather."
+              }
+            },
+            {
+              "name": "Exploring the Castle of Salona",
+              "tip_5lang": {
+                "de": "Suchen Sie bei starken Böen Schutz in den Torbögen.",
+                "hu": "Erős széllökések esetén keressen menedéket a kapualjakban.",
+                "ro": "Caută adăpost în arcadele porților în caz de vânt puternic.",
+                "en": "Seek shelter under the ancient archways if a sudden downpour hits."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überprüfen Sie die Busfahrzeiten online; bei Regen kann es Verspätungen geben.",
+              "Die Haltestellen im Zentrum haben oft nur wenig Unterstand.",
+              "Nutzen Sie die Zeit im Museum, um Regenphasen zu überbrücken.",
+              "Tragen Sie wasserfeste Schuhe für die kurzen Wege zur Haltestelle.",
+              "Einige lokale Busse akzeptieren nur Bargeld."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet, esőben előfordulhatnak késések.",
+              "A központi megállókban kevés a fedett várakozóhely.",
+              "A múzeumi időt igazítsa a legnagyobb záporokhoz.",
+              "Viseljen vízálló cipőt a buszhoz vezető rövid sétákhoz.",
+              "Néhány helyi járaton csak készpénzzel lehet jegyet venni."
+            ],
+            "ro": [
+              "Verifică orarul autobuzelor; ploaia poate cauza mici întârzieri.",
+              "Stațiile din centru nu sunt întotdeauna complet acoperite.",
+              "Adaptează timpul petrecut în muzeu în funcție de intensitatea ploii.",
+              "Poartă încălțăminte impermeabilă pentru drumul până la stație.",
+              "Unele autobuze locale acceptă doar plata cu numerar."
+            ],
+            "en": [
+              "Check bus schedules online; rain can sometimes cause minor delays.",
+              "Central bus stops may have limited cover; bring an umbrella for the wait.",
+              "Use museum visits to time your transit during the heaviest rain.",
+              "Wear waterproof footwear for the short walks to and from bus stops.",
+              "Keep small change ready as some local buses may only take cash."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter in Amfissa mit dem Bus bedeutet warme Fahrten zwischen den Sehenswürdigkeiten. Den Vormittag verbringen wir im historischen Viertel und der Kathedrale. Mittags stärken wir uns im Zentrum, bevor wir mit dem Bus zur Burg von Salona fahren, um die Aussicht zu genießen. Den Abschluss bildet ein gemütlicher Museumsbesuch im Warmen.",
+            "hu": "A téli Amfissza felfedezése busszal kényelmes és meleg utazást ígér. A délelőttöt a történelmi negyedben és a katedrálisban töltjük. Ebéd után busszal megyünk fel a Salona várához a kilátásért. A napot a múzeum fűtött termeiben zárjuk, elkerülve az esti hideget.",
+            "ro": "Iarna în Amfissa cu autobuzul înseamnă călătorii călduroase între obiective. Dimineața o petrecem în cartierul istoric și la catedrală. După prânz, luăm autobuzul spre castelul Salona pentru priveliște. Încheiem ziua la căldură, într-un muzeu primitor.",
+            "en": "Winter transit in Amfissa offers warm rides between the main sights. Spend the morning exploring the old quarter and cathedral. After lunch, take the bus up to Salona Castle for the views, then finish your day in the cozy warmth of the museum."
+          },
+          "stops": [
+            {
+              "name": "Bus ride to the city center",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse oft angenehm beheizt.",
+                "hu": "Télen a buszok általában kellemesen fűtöttek.",
+                "ro": "Iarna, autobuzele sunt de obicei bine încălzite.",
+                "en": "Buses are usually well-heated during the winter months."
+              }
+            },
+            {
+              "name": "Harmaina Quarter",
+              "tip_5lang": {
+                "de": "Warten Sie im Café direkt an der Haltestelle auf den Bus.",
+                "hu": "Várja a buszt a közvetlenül a megálló mellett lévő kávézóban.",
+                "ro": "Așteaptă autobuzul într-o cafenea de lângă stație.",
+                "en": "Wait for the bus in a cafe located directly next to the stop."
+              }
+            },
+            {
+              "name": "Archaeological & Folklore Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter der wärmste Ort der Tour.",
+                "hu": "A múzeum a túra legmelegebb helyszíne télen.",
+                "ro": "Muzeul este cel mai călduros punct al itinerariului iarna.",
+                "en": "The museum is the warmest indoor spot on today's itinerary."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Genießen Sie ein heißes Getränk vor der Weiterfahrt zur Burg.",
+                "hu": "Igyon egy forró italt a várba indulás előtt.",
+                "ro": "Savurează o băutură caldă înainte de a pleca spre castel.",
+                "en": "Enjoy a hot drink before heading up to the castle."
+              }
+            },
+            {
+              "name": "Bus ride to the castle's base",
+              "tip_5lang": {
+                "de": "Beachten Sie den ausgedünnten Winterfahrplan am Nachmittag.",
+                "hu": "Ügyeljen a ritkább téli menetrendre délután.",
+                "ro": "Atenție la programul de iarnă redus în timpul după-amiezii.",
+                "en": "Be mindful of the reduced winter bus schedule in the afternoon."
+              }
+            },
+            {
+              "name": "Exploring the Castle of Salona",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor dem Einsetzen der Abendkälte.",
+                "hu": "Tervezze meg a visszautat az esti lehűlés beállta előtt.",
+                "ro": "Planifică întoarcerea înainte de lăsarea frigului de seară.",
+                "en": "Plan your return trip before the evening chill sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne können von den Sommerzeiten abweichen; prüfen Sie vorab.",
+              "Die Busse fahren im Winter seltener zu den touristischen Punkten.",
+              "Nutzen Sie Cafés in der Nähe der Haltestellen zum Aufwärmen.",
+              "Ab 17 Uhr wird es merklich kühler beim Warten an der Haltestelle.",
+              "Kaufen Sie Rückfahrtickets im Voraus, falls die Kioske früh schließen."
+            ],
+            "hu": [
+              "A téli menetrend eltérhet a nyáritól, ellenőrizze előre.",
+              "Télen a buszok ritkábban járnak a turisztikai helyszínekre.",
+              "Használja a megállók közeli kávézókat a várakozáshoz.",
+              "Délután 5 után már érezhetően hidegebb van a megállókban.",
+              "Vegye meg előre a retúrjegyet, mert a bódék korán bezárhatnak."
+            ],
+            "ro": [
+              "Orarele de iarnă pot diferi de cele de vară; verifică în avans.",
+              "Autobuzele circulă mai rar spre punctele turistice în timpul iernii.",
+              "Folosește cafenelele de lângă stații pentru a te încălzi.",
+              "După ora 17:00 devine considerabil mai frig în timp ce aștepți stație.",
+              "Cumpără biletele de întoarcere din timp, chioșcurile se pot închide devreme."
+            ],
+            "en": [
+              "Winter schedules often differ from summer ones; double-check in advance.",
+              "Buses to tourist sites like the castle may run less frequently in winter.",
+              "Use cafes near bus stops as warm waiting areas.",
+              "Temperatures drop sharply after 5 PM while waiting for transit.",
+              "Buy return tickets in advance as kiosks might close early in winter."
+            ]
+          }
+        }
       }
     }
   }

@@ -379,6 +379,206 @@
           "Always have some cash on hand for small purchases at the market.",
           "The Brno PAS tourist card can be worthwhile if you visit multiple attractions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Freiheitsplatz unter dem Regenschirm und suchen Sie Schutz unter den Arkaden des Alten Rathauses. Mittags führt ein kurzer, nasser Weg zur Kathedrale und zum Zelný trh, wo Sie sich bei einem warmen Mittagessen aufwärmen können. Den Nachmittag verbringen Sie trocken im Beinhaus und in den weiten Hallen der Mährischen Galerie. Der Tag endet neblig-atmosphärisch auf der Festung Špilberk.",
+            "hu": "Kezdje a napot a Szabadság téren esernyővel, majd keressen menedéket a Régi Városháza árkádjai alatt. Délben rövid séta vezet a székesegyházhoz és a Zelný trh-hoz egy meleg ebédre. A délutánt töltse szárazon a Szent Jakab-csontvázházban és a Morva Galéria termeiben. Az este ködös, hangulatos lezárást ígér a Špilberk várfalai között, rálátással az esős városra.",
+            "ro": "Începeți ziua în Piața Libertății cu umbrela, apoi căutați adăpost sub arcadele Primăriei Vechi. La prânz, o scurtă plimbare prin ploaie vă duce la Catedrală și la Zelný trh pentru un prânz cald. Petreceți după-amiaza la adăpost în Osuarul Sf. Iacob și în sălile Galeriei Morave. Ziua se încheie cu o atmosferă mistică la fortăreața Špilberk, admirând orașul ud.",
+            "en": "Start at Freedom Square with an umbrella, then find shelter under the arcades of the Old Town Hall. At noon, a short wet walk leads to the Cathedral and Zelný trh for a warm lunch. Spend the afternoon dry in the St. James Ossuary and the Moravian Gallery. The day ends with a misty, atmospheric visit to Špilberk Fortress, overlooking the glistening rainy streets."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square",
+              "tip_5lang": {
+                "de": "Die Glasuhr bietet kaum Schutz, nutzen Sie die nahen Ladenpassagen.",
+                "hu": "Az óra környékén nincs tető, használja a közeli üzletsorok átjáróit.",
+                "ro": "Ceasul de sticlă nu oferă adăpost, folosiți pasajele comerciale din apropiere.",
+                "en": "The glass clock offers no cover; use the nearby shopping passages for shelter."
+              }
+            },
+            {
+              "name": "Old Town Hall & Brno Dragon",
+              "tip_5lang": {
+                "de": "Der Durchgang mit dem Drachen ist überdacht und perfekt für Fotos.",
+                "hu": "A sárkányos átjáró fedett, ideális hely egy esőmentes fotóhoz.",
+                "ro": "Pasajul cu dragonul este acoperit, perfect pentru o fotografie ferită de ploaie.",
+                "en": "The passage with the dragon is covered, perfect for a rain-free photo."
+              }
+            },
+            {
+              "name": "Cathedral of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort; die Akustik des Regens an den Fenstern ist toll.",
+                "hu": "Csendes, száraz hely; az ablakokon kopogó eső hangja különleges.",
+                "ro": "Un loc liniștit și uscat; sunetul ploii pe ferestre este relaxant.",
+                "en": "A quiet, dry place; the sound of rain on the tall windows is very soothing."
+              }
+            },
+            {
+              "name": "Lunch at the Vegetable Market",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Labyrinth unter dem Markt, wenn es draußen zu stark regnet.",
+                "hu": "Látogasson el a piac alatti labirintusba, ha kint túl erősen esik.",
+                "ro": "Vizitați labirintul de sub piață dacă ploaia de afară devine prea puternică.",
+                "en": "Visit the labyrinth under the market if the rain outside gets too heavy."
+              }
+            },
+            {
+              "name": "Ossuary at the Church of St. James",
+              "tip_5lang": {
+                "de": "Untergrund-Sehenswürdigkeit, absolut regensicher und mystisch.",
+                "hu": "Föld alatti látnivaló, teljesen esőbiztos és misztikus élmény.",
+                "ro": "Obiectiv subteran, complet ferit de ploaie și cu o atmosferă mistică.",
+                "en": "Underground attraction, completely rain-proof and mystically atmospheric."
+              }
+            },
+            {
+              "name": "Moravian Gallery",
+              "tip_5lang": {
+                "de": "Ideal für zwei Stunden im Trockenen zwischen klassischer Kunst.",
+                "hu": "Ideális két óra szárazon a klasszikus művészeti alkotások között.",
+                "ro": "Ideal pentru două ore la adăpost între opere de artă clasică.",
+                "en": "Ideal for two hours of dry exploration among classical art pieces."
+              }
+            },
+            {
+              "name": "Špilberk Fortress",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kasematten-Tour, um den Regen draußen zu lassen.",
+                "hu": "Válassza a kazamata-túrát, hogy elkerülje a kinti esőzést.",
+                "ro": "Alegeți turul cazinatelor pentru a rămâne la adăpost de ploaie.",
+                "en": "Take the casemates tour to stay sheltered from the rain outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die zahlreichen Passagen in der Altstadt als Abkürzung im Trockenen.",
+              "Das mährische Museum am Zelný trh bietet guten Schutz.",
+              "Regenschirme können bei starkem Wind auf dem Špilberk-Hügel problematisch sein.",
+              "Die Straßenbahnen sind ideal, um nasse Füße zu vermeiden."
+            ],
+            "hu": [
+              "Használja az óvárosi passzázsokat 'száraz' útvonalként.",
+              "A Zelný trh-nál található Morva Múzeum kiváló menedék.",
+              "Erős szélben az esernyő nehézkes lehet a Špilberk-dombon.",
+              "A villamosok jó alternatívát jelentenek a vizes lábak elkerülésére."
+            ],
+            "ro": [
+              "Folosiți pasajele din centrul vechi ca rute scurte și uscate.",
+              "Muzeul Moravei din Zelný trh este un refugiu excelent.",
+              "Umbrelele pot fi greu de controlat pe dealul Špilberk în caz de vânt.",
+              "Tramvaiele sunt ideale pentru a evita picioarele ude între obiective."
+            ],
+            "en": [
+              "Use the many passages in the Old Town as dry shortcuts.",
+              "The Moravian Museum at Zelný trh offers great shelter.",
+              "Umbrellas can be tricky on Špilberk hill if it's windy.",
+              "Trams are a great way to skip long wet walks between sites."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterluft am Freiheitsplatz ist belebend, besonders wenn das Alte Rathaus festlich beleuchtet ist. Mittags wärmt ein Besuch in der Kathedrale Körper und Geist, bevor es zum Zelný trh geht. Am Nachmittag bietet die Mährische Galerie Schutz vor der frühen Kälte. Den Tag beschließt ein Besuch auf der Festung Špilberk, wenn die Stadtlichter in der frühen Dunkelheit funkeln.",
+            "hu": "A téli levegő frissítő a Szabadság téren, különösen a kivilágított Régi Városháza mellett. Délben a székesegyház nyugalma melegíti fel a lelket a piaci séta előtt. Délután a Morva Galéria nyújt menedéket a korai fagy elől. A napot a Špilberk várában zárjuk, ahonnan csodás a kilátás a korai sötétségben felgyúló városi fényekre.",
+            "ro": "Aerul de iarnă este revigorant în Piața Libertății, mai ales lângă Primăria Veche luminată festiv. La prânz, Catedrala oferă un moment de liniște caldă înainte de piață. După-amiaza, Galeria Moravă este refugiul perfect împotriva frigului timpuriu. Ziua se încheie la Špilberk, de unde luminile orașului se văd superb în întunericul serii.",
+            "en": "The winter air is bracing at Freedom Square, especially with the Old Town Hall festively lit. At noon, the Cathedral offers warm solace before hitting the market. In the afternoon, the Moravian Gallery is the perfect refuge from the early chill. End the day at Špilberk Fortress as the city lights sparkle in the early winter darkness."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square",
+              "tip_5lang": {
+                "de": "Probieren Sie heißen tschechischen Punsch an den Marktständen.",
+                "hu": "Kóstolja meg a forró cseh puncsot a piaci bódéknál.",
+                "ro": "Încercați punciul fierbinte ceh de la standurile din piață.",
+                "en": "Try some hot Czech punch from the market stalls to stay warm."
+              }
+            },
+            {
+              "name": "Old Town Hall & Brno Dragon",
+              "tip_5lang": {
+                "de": "Der Turmaufstieg ist windig; ziehen Sie sich warm an für die Aussicht.",
+                "hu": "A toronyba vezető út szeles; öltözzön rétegesen a kilátáshoz.",
+                "ro": "Urcarea în turn este vântoasă; îmbrăcați-vă bine pentru panoramă.",
+                "en": "The tower climb is windy; dress warmly for the rooftop view."
+              }
+            },
+            {
+              "name": "Cathedral of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "In den Kirchenschiffen ist es oft wärmer als draußen; Zeit zum Innehalten.",
+                "hu": "A templomhajóban gyakran melegebb van, mint kint; kiváló pihenőhely.",
+                "ro": "În interior este adesea mai cald decât afară; un moment bun de odihnă.",
+                "en": "The interior is often warmer than outside; a good spot to thaw out."
+              }
+            },
+            {
+              "name": "Lunch at the Vegetable Market",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit 'Svíčková', um Energie zu tanken.",
+                "hu": "Keressen egy éttermet, ahol 'Svíčková'-t mérnek az energiapótláshoz.",
+                "ro": "Căutați un restaurant care servește 'Svíčková' pentru energie.",
+                "en": "Look for a restaurant serving 'Svíčková' for a hearty energy boost."
+              }
+            },
+            {
+              "name": "Ossuary at the Church of St. James",
+              "tip_5lang": {
+                "de": "Die Temperatur unter der Erde ist konstant kühl, aber windstill.",
+                "hu": "A föld alatti hőmérséklet állandó, hűvös, de szélvédett.",
+                "ro": "Temperatura subterană este constantă, răcoroasă, dar fără vânt.",
+                "en": "Underground temperature is constant; cool, but protected from wind."
+              }
+            },
+            {
+              "name": "Moravian Gallery",
+              "tip_5lang": {
+                "de": "Die Garderobe ist obligatorisch; genießen Sie die Wärme im Inneren.",
+                "hu": "A ruhatár használata kötelező; élvezze a benti meleget.",
+                "ro": "Garderoba este obligatorie; bucurați-vă de căldura din interior.",
+                "en": "The cloakroom is mandatory; enjoy the warmth of the galleries."
+              }
+            },
+            {
+              "name": "Špilberk Fortress",
+              "tip_5lang": {
+                "de": "Die Wege im Park können bei Frost rutschig sein; Vorsicht beim Abstieg.",
+                "hu": "A park ösvényei fagypont alatt csúszósak lehetnek; vigyázzon lefelé.",
+                "ro": "Potecile din parc pot fi alunecoase la îngheț; atenție la coborâre.",
+                "en": "Park paths can be slippery in freezing weather; be careful descending."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 16:30 Uhr unter; planen Sie Špilberk rechtzeitig.",
+              "Kopfsteinpflaster kann bei Glätte sehr rutschig sein.",
+              "Viele Cafés bieten 'Horká čokoláda' (heiße Schokolade) an.",
+              "Die Weihnachtsbeleuchtung wird meist ab Ende November eingeschaltet."
+            ],
+            "hu": [
+              "A nap télen 16:30 körül nyugszik; a Špilberk-et tervezze korábbra.",
+              "A macskaköves utcák fagyban nagyon csúszósak lehetnek.",
+              "Sok kávézó kínál kiváló 'Horká čokoláda'-t (forró csokoládé).",
+              "Az ünnepi fényeket általában november végétől kapcsolják fel."
+            ],
+            "ro": [
+              "Soarele apune în jur de 16:30 iarna; planificați vizita la Špilberk din timp.",
+              "Străzile pietruite pot fi foarte alunecoase în caz de îngheț.",
+              "Multe cafenele oferă 'Horká čokoláda' (ciocolată caldă) excelentă.",
+              "Luminile de sărbătoare sunt aprinse de obicei de la sfârșitul lui noiembrie."
+            ],
+            "en": [
+              "Sunset is around 4:30 PM in winter; visit Špilberk before dark for views.",
+              "Cobblestone streets can be very slippery when frozen.",
+              "Many cafes offer excellent 'Horká čokoláda' (hot chocolate).",
+              "Festive lights are usually switched on from late November."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +952,206 @@
           "Some hills, like the one to Špilberk Fortress, are steep. Be prepared for a strenuous ride.",
           "Always wear a helmet and lock your bike securely."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour durch Brünn erfordert Vorsicht auf den Schienen am Freiheitsplatz. Die Fahrt entlang der Svratka ist bei Regen grün, aber der Weg kann schlammig sein. Nach dem steilen, rutschigen Anstieg zum Špilberk wärmen Sie sich im Inneren auf. Der Tag endet sicher mit einem Blick auf das Mahen-Theater und einem gemütlichen Abendessen im Zentrum.",
+            "hu": "A vizes brünni biciklizés óvatosságot igényel a Szabadság tér villamossínjein. A Svratka-menti tekerés esőben is szép, de az utak sárosak lehetnek. A Špilberk-re vezető csúszós kaptató után jól esik a benti pihenő. A napot a Mahen Színház érintésével és egy belvárosi vacsorával zárjuk, vigyázva a nedves aszfaltra.",
+            "ro": "O tură cu bicicleta prin Brno pe ploaie necesită atenție la șinele de tramvai. Traseul pe lângă Svratka este verde, dar poate fi noroios. După urcarea alunecoasă la Špilberk, încălziți-vă în interior. Ziua se încheie cu o trecere pe lângă Teatrul Mahen și o cină caldă în centru.",
+            "en": "A rainy bike ride through Brno requires caution on the tram tracks near Freedom Square. The ride along the Svratka is lush, but paths might be muddy. After the slippery climb to Špilberk, warm up inside the castle. The day ends with a pass by Mahen Theatre and a cozy dinner in the city center."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square",
+              "tip_5lang": {
+                "de": "Achtung: Nasse Straßenbahnschienen sind für Radfahrer extrem gefährlich.",
+                "hu": "Vigyázat: A vizes villamossínek rendkívül veszélyesek a kerékpárosokra.",
+                "ro": "Atenție: Șinele de tramvai ude sunt extrem de periculoase pentru bicicliști.",
+                "en": "Caution: Wet tram tracks are extremely slippery and dangerous for cyclists."
+              }
+            },
+            {
+              "name": "Old Town Hall & Cathedral",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad trocken unter den Arkaden in der Nähe.",
+                "hu": "Parkolja le a biciklit száraz helyen a közeli árkádok alatt.",
+                "ro": "Parcați bicicleta la adăpost sub arcadele din apropiere.",
+                "en": "Park your bike in a dry spot under the nearby arcades."
+              }
+            },
+            {
+              "name": "Ride along the Svratka River",
+              "tip_5lang": {
+                "de": "Die Wege sind teils unbefestigt; Vorsicht vor Pfützen und Schlamm.",
+                "hu": "Az utak helyenként burkolatlanok; vigyázzon a tócsákkal és a sárral.",
+                "ro": "Unele secțiuni nu sunt asfaltate; atenție la bălți și noroi.",
+                "en": "Some path sections are unpaved; watch out for puddles and mud."
+              }
+            },
+            {
+              "name": "Špilberk Fortress",
+              "tip_5lang": {
+                "de": "Der steile Anstieg ist bei Nässe rutschig; nutzen Sie niedrige Gänge.",
+                "hu": "A meredek emelkedő esőben csúszik; használjon alacsony sebességfokozatot.",
+                "ro": "Urcarea abruptă este alunecoasă; folosiți viteze inferioare.",
+                "en": "The steep climb is slippery when wet; use low gears and stay seated."
+              }
+            },
+            {
+              "name": "Mahen Theatre",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; die Fassade glänzt schön im Regen.",
+                "hu": "Gyors fotómegálló; a homlokzat szépen csillog az esőben.",
+                "ro": "Oprire scurtă; fațada strălucește frumos în reflexia ploii.",
+                "en": "Quick photo stop; the facade looks beautiful glistening in the rain."
+              }
+            },
+            {
+              "name": "Villa Tugendhat (exterior view)",
+              "tip_5lang": {
+                "de": "Der Gartenweg kann weich sein; bleiben Sie auf den festen Wegen.",
+                "hu": "A kerti utak felázhatnak; maradjon a szilárd burkolaton.",
+                "ro": "Potecile din grădină pot fi moi; rămâneți pe căile pavate.",
+                "en": "Garden paths may be soft; stay on the paved sections for views."
+              }
+            },
+            {
+              "name": "Dinner in the City Center",
+              "tip_5lang": {
+                "de": "Suchen Sie Lokale mit Innenhof-Stellplätzen für das Rad.",
+                "hu": "Keressen belső udvaros éttermet a bicikli biztonságos tárolásához.",
+                "ro": "Căutați restaurante cu curte interioară pentru a lăsa bicicleta.",
+                "en": "Look for restaurants with inner courtyards to keep your bike dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Kleidung; Brünn hat einige windige Hügel.",
+              "Meiden Sie bei Starkregen das Kopfsteinpflaster im Zentrum.",
+              "Prüfen Sie Ihre Bremsen vor dem Abstieg vom Špilberk.",
+              "Die Fahrradständer am Hauptbahnhof sind teils überdacht."
+            ],
+            "hu": [
+              "Viseljen vízálló ruhát; Brünn dombjain szeles lehet az idő.",
+              "Heves esőben kerülje a belvárosi macskaköveket.",
+              "Ellenőrizze a fékeket a Špilberk-ről való leereszkedés előtt.",
+              "A főpályaudvarnál lévő biciklitárolók részben fedettek."
+            ],
+            "ro": [
+              "Purtați haine impermeabile; dealurile din Brno pot fi vântoase.",
+              "Evitați zonele cu piatră cubică din centru în caz de ploaie torențială.",
+              "Verificați frânele înainte de a coborî de la Špilberk.",
+              "Suporturile de biciclete de la gară sunt parțial acoperite."
+            ],
+            "en": [
+              "Wear waterproof gear; Brno's hills can be very windy in the rain.",
+              "Avoid cobblestone streets in the center during heavy downpours.",
+              "Check your brakes before descending from the Špilberk fortress.",
+              "Bike racks near the main station are partially sheltered."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Brünn ist erfrischend, erfordert aber warme Handschuhe für die Fahrt zum Špilberk. Die Route entlang der Svratka ist friedlich und frostig. Nach dem Besuch der Villa Tugendhat und des Mahen-Theaters wird die Fahrt im Licht der frühen Dämmerung zu einem besonderen Erlebnis. Ein warmes Abendessen beendet die sportliche Tour.",
+            "hu": "A téli biciklizés Brünnben frissítő, de meleg kesztyű kötelező a Špilberk felé. A Svratka menti útvonal békés és deres ilyenkor. A Tugendhat-villa és a Mahen Színház megtekintése után a szürkületi fényekben való tekerés különleges élmény. A sportos napot egy forró vacsorával zárjuk a belvárosban.",
+            "ro": "Ciclismul de iarnă în Brno este revigorant, dar mănușile groase sunt obligatorii spre Špilberk. Traseul pe lângă Svratka este liniștit și înghețat. După Vila Tugendhat și Teatrul Mahen, plimbarea în lumina amurgului timpuriu este deosebită. O cină caldă încheie această tură sportivă.",
+            "en": "Winter cycling in Brno is bracing, but warm gloves are a must for the ride to Špilberk. The Svratka river path is peaceful and frosty. After visiting Villa Tugendhat and Mahen Theatre, riding in the early twilight is a unique experience. A warm dinner completes this active winter tour."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Kondenswasser auf den Metallgittern.",
+                "hu": "Vigyázzon a fémrácsokon lévő fagyott párával.",
+                "ro": "Atenție la condensul înghețat de pe grătarele metalice.",
+                "en": "Watch out for frozen condensation on metal grates and manhole covers."
+              }
+            },
+            {
+              "name": "Old Town Hall & Cathedral",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad nicht zu nah an Schneehaufen ab.",
+                "hu": "Ne parkoljon túl közel a felhalmozott hókupacokhoz.",
+                "ro": "Nu parcați bicicleta prea aproape de mormanele de zăpadă.",
+                "en": "Avoid parking your bike too close to piled snow banks."
+              }
+            },
+            {
+              "name": "Ride along the Svratka River",
+              "tip_5lang": {
+                "de": "Der Wind am Fluss ist deutlich kälter; schützen Sie Ihr Gesicht.",
+                "hu": "A folyóparti szél sokkal hidegebb; védje az arcát.",
+                "ro": "Vântul pe malul râului este mult mai rece; protejați-vă fața.",
+                "en": "The wind along the river is much colder; use a neck gaiter."
+              }
+            },
+            {
+              "name": "Špilberk Fortress",
+              "tip_5lang": {
+                "de": "Streusalz kann die Kette angreifen; kurz abwischen nach der Tour.",
+                "hu": "Az útszóró só károsíthatja a láncot; törölje át a túra után.",
+                "ro": "Sarea de pe drum poate ataca lanțul; ștergeți-l după tură.",
+                "en": "Road salt can damage your chain; give it a quick wipe after the ride."
+              }
+            },
+            {
+              "name": "Mahen Theatre",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Beleuchtung des Gebäudes.",
+                "hu": "Élvezze az épület meleg tónusú éjszakai kivilágítását.",
+                "ro": "Bucurați-vă de iluminarea caldă a clădirii pe timp de seară.",
+                "en": "Enjoy the warm architectural lighting of the building at dusk."
+              }
+            },
+            {
+              "name": "Villa Tugendhat (exterior view)",
+              "tip_5lang": {
+                "de": "Aussichtspunkt bei Kälte oft verlassen; sehr fotogen.",
+                "hu": "A kilátópont hidegben gyakran üres; nagyon fotogén ilyenkor.",
+                "ro": "Punctul de observație este adesea pustiu iarna; foarte fotogenic.",
+                "en": "The viewing point is often deserted in winter; great for photos."
+              }
+            },
+            {
+              "name": "Dinner in the City Center",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz nahe der Heizung, um die Glieder zu lockern.",
+                "hu": "Keressen helyet a fűtőtest mellett, hogy átmelegedjen.",
+                "ro": "Căutați un loc lângă calorifer pentru a vă dezmorți.",
+                "en": "Find a seat near a heater to warm up your hands and feet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Batterien von E-Bikes entladen sich bei Kälte schneller.",
+              "Tragen Sie Schichten und eine winddichte Jacke.",
+              "Die Sonne sinkt früh; sorgen Sie für funktionierendes Licht.",
+              "Meiden Sie vereiste Radwege im Stadtpark."
+            ],
+            "hu": [
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül hidegben.",
+              "Öltözzön rétegesen és viseljen szélálló kabátot.",
+              "A nap korán nyugszik; ellenőrizze a lámpákat.",
+              "Kerülje a jeges kerékpárutakat a városi parkokban."
+            ],
+            "ro": [
+              "Bateriile bicicletelor electrice se descarcă mai repede la ger.",
+              "Purtați straturi multiple și o jachetă rezistentă la vânt.",
+              "Soarele apune devreme; asigurați-vă că aveți lumini funcționale.",
+              "Evitați pistele de biciclete înghețate din parcurile orașului."
+            ],
+            "en": [
+              "E-bike batteries drain significantly faster in sub-zero temperatures.",
+              "Dress in layers and ensure your outer shell is windproof.",
+              "The sun sets early; double-check that your lights are working.",
+              "Avoid icy patches on unmaintained bike paths in city parks."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1132,6 +1532,206 @@
           "Book tickets for Villa Tugendhat and the Špilberk Fortress casemates online to avoid long queues.",
           "Pay attention to the blue parking zones, which are for residents only."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bei Regen ist das Auto ideal, um Brünn komfortabel zu erkunden. Starten Sie trocken bei der Villa Tugendhat und fahren Sie direkt zum Parkplatz der Festung Špilberk. Nach einem kurzen Gang durch den nassen Park bietet das Zentrum Parkhäuser für den Besuch des Alten Rathauses und der Kathedrale. Der Tag endet bequem beim Beinhaus St. Jakob.",
+            "hu": "Esőben az autó a legkényelmesebb módja Brünn felfedezésének. Kezdje szárazon a Tugendhat-villánál, majd hajtson közvetlenül a Špilberk vár parkolójához. A rövid vizes parki séta után a belvárosi parkolóházak nyújtanak kényelmet a Városháza és a székesegyház megtekintéséhez. A napot a Szent Jakab-csontvázháznál zárjuk.",
+            "ro": "Pe ploaie, mașina este ideală pentru a explora Brno confortabil. Începeți la Vila Tugendhat și conduceți direct la parcarea de la Špilberk. După o scurtă plimbare prin parcul ud, parcările acoperite din centru vă permit vizitarea Primăriei și a Catedralei fără efort. Ziua se încheie la Osuarul Sf. Iacob.",
+            "en": "In the rain, a car is the most comfortable way to explore Brno. Start dry at Villa Tugendhat, then drive directly to the Špilberk Fortress parking. After a quick stroll through the wet park, central parking garages make visiting the Town Hall and Cathedral easy. End the day conveniently at the St. James Ossuary."
+          },
+          "stops": [
+            {
+              "name": "Villa Tugendhat",
+              "tip_5lang": {
+                "de": "Parkplätze vor dem Haus sind begrenzt; nutzen Sie die Seitenstraßen.",
+                "hu": "A ház előtti parkolás korlátozott; használja az oldalsó utcákat.",
+                "ro": "Locurile de parcare în fața vilei sunt limitate; folosiți străzile laterale.",
+                "en": "Parking directly in front is limited; try the nearby side streets."
+              }
+            },
+            {
+              "name": "Špilberk Fortress",
+              "tip_5lang": {
+                "de": "Der Parkplatz oben spart den nassen Aufstieg zu Fuß.",
+                "hu": "A fenti parkoló megkíméli önt a vizes gyalogos kaptatótól.",
+                "ro": "Parcarea de sus vă scutește de urcarea pe jos prin ploaie.",
+                "en": "Using the upper parking lot saves you from a long, wet walk uphill."
+              }
+            },
+            {
+              "name": "Walk in Špilberk Park",
+              "tip_5lang": {
+                "de": "Kurzer Weg; Asphaltwege bevorzugen, um Schlamm zu vermeiden.",
+                "hu": "Rövid séta; maradjon az aszfalton a sár elkerülése végett.",
+                "ro": "Traseu scurt; preferați căile asfaltate pentru a evita noroiul.",
+                "en": "Short walk; stick to asphalt paths to avoid mud and puddles."
+              }
+            },
+            {
+              "name": "Central Parking & Lunch",
+              "tip_5lang": {
+                "de": "Das Parkhaus 'Rozmarýn' ist geräumig und trocken.",
+                "hu": "A 'Rozmarýn' parkolóház tágas és teljesen száraz.",
+                "ro": "Parcarea supraetajată 'Rozmarýn' este spațioasă și uscată.",
+                "en": "The 'Rozmarýn' parking garage is spacious and keeps you dry."
+              }
+            },
+            {
+              "name": "Freedom Square & Old Town Hall",
+              "tip_5lang": {
+                "de": "Nur 5 Min. Fußweg vom Parkhaus; Schirm nicht vergessen.",
+                "hu": "Csak 5 perc séta a parkolóháztól; ne felejtse az esernyőt.",
+                "ro": "Doar 5 minute de mers de la parcare; nu uitați umbrela.",
+                "en": "Only a 5-minute walk from the garage; don't forget your umbrella."
+              }
+            },
+            {
+              "name": "Cathedral of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Zufahrt zur Kathedrale ist für PKW eingeschränkt; Parkplatz unterhalb.",
+                "hu": "A székesegyházhoz a behajtás korlátozott; parkoljon lejjebb.",
+                "ro": "Accesul auto la catedrală este restricționat; parcați mai jos.",
+                "en": "Car access to the Cathedral is restricted; park in the lots below."
+              }
+            },
+            {
+              "name": "Ossuary at the Church of St. James",
+              "tip_5lang": {
+                "de": "Parkhaus am Janáček-Theater ist ganz in der Nähe.",
+                "hu": "A Janáček Színháznál lévő parkolóház nagyon közel van.",
+                "ro": "Parcarea de la Teatrul Janáček este foarte aproape.",
+                "en": "The parking garage at Janáček Theatre is very close to the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achtung bei Aquaplaning auf der Ringstraße.",
+              "Parkhäuser sind im Zentrum stressfreier als die Parkplatzsuche am Straßenrand.",
+              "Die Sicht kann bei Starkregen in den Hügeln von Brünn eingeschränkt sein.",
+              "Nutzen Sie Park-Apps wie 'ParkDots'."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra (aquaplaning) a körgyűrűn.",
+              "A belvárosi parkolóházak egyszerűbbek, mint az utcai helykeresés.",
+              "Heves esőben a látótávolság lecsökkenhet a dombos részeken.",
+              "Használja a 'ParkDots' vagy hasonló parkolási alkalmazásokat."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul de centură.",
+              "Parcările supraetajate sunt mai sigure decât căutarea unui loc pe stradă.",
+              "Vizibilitatea poate fi redusă în zonele deluroase pe ploaie torențială.",
+              "Utilizați aplicații de parcare precum 'ParkDots'."
+            ],
+            "en": [
+              "Be cautious of hydroplaning on the city's ring roads.",
+              "Parking garages are much less stressful than searching for street spots.",
+              "Visibility can be poor in Brno's hilly areas during heavy rain.",
+              "Use parking apps like 'ParkDots' for easy payments."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist die Wintertour durch Brünn angenehm warm. Besuchen Sie die Villa Tugendhat und fahren Sie dann zur Festung Špilberk, um die winterliche Aussicht ohne Frostbeulen zu genießen. Nach einem Mittagessen im warmen Zentrum besuchen Sie die Kathedrale und das Alte Rathaus. Die Tour endet beim Beinhaus, bevor die winterliche Dunkelheit die Stadt einhüllt.",
+            "hu": "Autóval a téli brünni túra kellemesen meleg élmény. Látogasson el a Tugendhat-villához, majd hajtson a Špilberk várához a téli panorámáért fagyoskodás nélkül. Egy meleg belvárosi ebéd után jöhet a székesegyház és a Régi Városháza. A túra a csontvázháznál ér véget, mielőtt a téli sötétség leszállna a városra.",
+            "ro": "Cu mașina, turul de iarnă prin Brno este confortabil și cald. Vizitați Vila Tugendhat, apoi mergeți la Špilberk pentru panorama de iarnă fără a îngheța. După un prânz cald în centru, vizitați Catedrala și Primăria Veche. Turul se încheie la Osuar, înainte ca întunericul să cuprindă orașul.",
+            "en": "By car, your winter tour of Brno stays warm and cozy. Visit Villa Tugendhat and then drive to Špilberk Fortress for winter views without the frostbite. After a hearty lunch in the heated center, visit the Cathedral and Old Town Hall. The tour ends at the Ossuary before the winter darkness fully sets in."
+          },
+          "stops": [
+            {
+              "name": "Villa Tugendhat",
+              "tip_5lang": {
+                "de": "Scheiben rechtzeitig enteisen für die Fahrt durch die Stadt.",
+                "hu": "Időben jégtelenítse a szélvédőt a városi vezetés előtt.",
+                "ro": "Dezghețați parbrizul din timp pentru drumul prin oraș.",
+                "en": "Ensure your windows are fully defrosted before starting the drive."
+              }
+            },
+            {
+              "name": "Špilberk Fortress",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Hügel kann bei Glätte tückisch sein.",
+                "hu": "A dombra vezető út jegesedés esetén trükkös lehet.",
+                "ro": "Urcarea pe deal poate fi înșelătoare în caz de polei.",
+                "en": "The drive up the hill can be tricky if there is black ice."
+              }
+            },
+            {
+              "name": "Walk in Špilberk Park",
+              "tip_5lang": {
+                "de": "Kurze Runde; genießen Sie die klare Winterluft.",
+                "hu": "Rövid kör; élvezze a tiszta téli levegőt.",
+                "ro": "O plimbare scurtă; bucurați-vă de aerul curat de iarnă.",
+                "en": "Take a quick loop; enjoy the crisp, clear winter air."
+              }
+            },
+            {
+              "name": "Central Parking & Lunch",
+              "tip_5lang": {
+                "de": "Viele Parkhäuser sind beheizt, was den Motor schont.",
+                "hu": "Sok parkolóház temperált, ami kíméli a motort.",
+                "ro": "Multe parcări subterane sunt încălzite, protejând mașina.",
+                "en": "Many underground garages are tempered, which is better for the car."
+              }
+            },
+            {
+              "name": "Freedom Square & Old Town Hall",
+              "tip_5lang": {
+                "de": "Der Fußweg führt an festlich geschmückten Schaufenstern vorbei.",
+                "hu": "A gyalogút ünnepi díszbe öltözött kirakatok mellett vezet.",
+                "ro": "Drumul pe jos trece pe lângă vitrine decorate festiv.",
+                "en": "The walk takes you past many festively decorated shop windows."
+              }
+            },
+            {
+              "name": "Cathedral of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem 'Petrov'-Parkplatz, falls Plätze frei sind.",
+                "hu": "Parkoljon a 'Petrov' parkolóban, ha van szabad hely.",
+                "ro": "Parcați în zona 'Petrov' dacă găsiți locuri libere.",
+                "en": "Try parking at the 'Petrov' lot if there are spaces available."
+              }
+            },
+            {
+              "name": "Ossuary at the Church of St. James",
+              "tip_5lang": {
+                "de": "Nach dem Besuch ist das Auto schnell wieder warm.",
+                "hu": "A látogatás után az autóban gyorsan felmelegedhet.",
+                "ro": "După vizită, vă puteți încălzi rapid în mașină.",
+                "en": "The car will be a quick warm refuge after your underground visit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Tschechien bei winterlichen Bedingungen Pflicht.",
+              "Achten Sie auf Fußgänger, die auf glatten Wegen ausrutschen könnten.",
+              "Sitzheizung und Standheizung machen die Tour deutlich angenehmer.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche ein."
+            ],
+            "hu": [
+              "Csehországban téli útviszonyok között kötelező a téli gumi.",
+              "Figyeljen a gyalogosokra, akik megcsúszhatnak a jeges úton.",
+              "Az ülésfűtés sokat javít a komfortérzeten.",
+              "Számoljon több idővel a parkolóhely keresésére a sötétben."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Cehia în condiții de îngheț.",
+              "Atenție la pietonii care pot aluneca pe carosabilul înghețat.",
+              "Încălzirea în scaune face turul mult mai plăcut.",
+              "Alocați mai mult timp pentru parcare în zonele aglomerate."
+            ],
+            "en": [
+              "Winter tires are mandatory in Czechia during winter conditions.",
+              "Be extra mindful of pedestrians who might slip on icy curbs.",
+              "Seat heaters and climate control make this tour much better.",
+              "Allow extra time for parking as lots fill up for winter events."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1512,6 +2112,206 @@
           "A one-day or 24-hour ticket is usually the cheapest option for tourists.",
           "Most announcements in the vehicles are also in English."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Brünns effiziente Straßenbahnen halten Sie bei Regen trocken. Starten Sie am Freiheitsplatz und nutzen Sie die Linie 4 für kurze Sprünge zwischen den Sehenswürdigkeiten. Der Weg zum Špilberk erfordert einen kurzen, nassen Fußweg, aber die Museen und Galerien danach sind perfekt für Regentage. Ein Abendessen im Zentrum beschließt den Tag, bevor Sie mit der Tram zurückfahren.",
+            "hu": "Brünn hatékony villamoshálózata szárazon tartja önt esőben is. Kezdjen a Szabadság téren, és használja a 4-es vonalat a látnivalók közötti ugrásokhoz. A Špilberk-hez vezető út igényel egy kis vizes gyaloglást, de a múzeumok és galériák utána tökéletes menedéket nyújtanak. A napot egy belvárosi vacsorával zárjuk.",
+            "ro": "Tramvaiele eficiente din Brno vă țin la adăpost de ploaie. Începeți în Piața Libertății și folosiți linia 4 pentru a ajunge rapid între obiective. Drumul spre Špilberk implică o scurtă plimbare prin ploaie, dar muzeele și galeriile care urmează sunt ideale. Ziua se încheie cu o cină în centru.",
+            "en": "Brno's efficient trams keep you dry while hopping between sites. Start at Freedom Square and use line 4 for short transits. The way to Špilberk requires a brief wet walk, but the museums and galleries afterwards are perfect for a rainy day. End your day with dinner in the center before taking a cozy tram back."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Freedom Square",
+              "tip_5lang": {
+                "de": "Die Tramhaltestelle ist direkt am Platz; ideal bei Regen.",
+                "hu": "A villamosmegálló közvetlenül a téren van; ideális esőben.",
+                "ro": "Stația de tramvai este chiar în piață; ideal pe timp de ploaie.",
+                "en": "The tram stop is right on the square, minimizing your time in the rain."
+              }
+            },
+            {
+              "name": "Old Town Hall & Vegetable Market",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Tram-Intervalle, um draußen Zeit zu sparen.",
+                "hu": "Használja ki a sűrű villamosjáratokat, hogy keveset ázzon.",
+                "ro": "Folosiți intervalele scurte ale tramvaielor pentru a evita ploaia.",
+                "en": "Take advantage of frequent trams to minimize outdoor walking."
+              }
+            },
+            {
+              "name": "Cathedral of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Haltestelle 'Šilingrovo náměstí' ist am nächsten und teils überdacht.",
+                "hu": "A 'Šilingrovo náměstí' megálló van a legközelebb, részben fedett.",
+                "ro": "Stația 'Šilingrovo náměstí' este cea mai apropiată și parțial acoperită.",
+                "en": "The 'Šilingrovo náměstí' stop is closest and partially sheltered."
+              }
+            },
+            {
+              "name": "Špilberk Fortress",
+              "tip_5lang": {
+                "de": "Der Bus 80 fährt näher heran als die Tram; weniger Laufen im Regen.",
+                "hu": "A 80-as busz közelebb visz, mint a villamos; kevesebb gyaloglás.",
+                "ro": "Autobuzul 80 oprește mai aproape decât tramvaiul; mai puțin mers pe jos.",
+                "en": "Bus 80 gets you closer to the castle gate than the tram does."
+              }
+            },
+            {
+              "name": "Moravian Gallery",
+              "tip_5lang": {
+                "de": "Haltestelle 'Česká' ist ein großer Umsteigepunkt mit vielen Unterständen.",
+                "hu": "A 'Česká' megálló nagy csomópont, sok fedett várakozóval.",
+                "ro": "Stația 'Česká' este un nod mare cu multe zone acoperite.",
+                "en": "The 'Česká' stop is a major hub with plenty of covered waiting areas."
+              }
+            },
+            {
+              "name": "Villa Tugendhat",
+              "tip_5lang": {
+                "de": "Straßenbahnlinie 3 oder 5 bis 'Dětská nemocnice' nehmen.",
+                "hu": "Használja a 3-as vagy 5-ös villamost a 'Dětská nemocnice' megállóig.",
+                "ro": "Luați tramvaiul 3 sau 5 până la stația 'Dětská nemocnice'.",
+                "en": "Take tram 3 or 5 to the 'Dětská nemocnice' stop for easy access."
+              }
+            },
+            {
+              "name": "Dinner & Departure",
+              "tip_5lang": {
+                "de": "Vom Hauptbahnhof (Hlavní nádraží) fahren Züge und Busse im Trockenen.",
+                "hu": "A főpályaudvarról (Hlavní nádraží) fedett helyen várhatja az indulást.",
+                "ro": "De la gara centrală puteți aștepta plecarea la adăpost.",
+                "en": "The main station (Hlavní nádraží) provides a large indoor waiting area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrkarten können kontaktlos mit der Karte direkt in der Tram bezahlt werden ('Pípni a jeď').",
+              "Die 'DPMBinfo' App zeigt Echtzeit-Abfahrten.",
+              "Abends fahren die Trams etwas seltener; Fahrplan prüfen.",
+              "Halten Sie sich bei Nässe in den Fahrzeugen gut fest."
+            ],
+            "hu": [
+              "A jegyet érintésmentesen, kártyával is megveheti a villamoson ('Pípni a jeď').",
+              "A 'DPMBinfo' alkalmazás valós idejű indulásokat mutat.",
+              "Este ritkábban járnak a villamosok; ellenőrizze a menetrendet.",
+              "Vizes időben kapaszkodjon erősen a járműveken."
+            ],
+            "ro": [
+              "Biletele pot fi plătite contactless direct în tramvai ('Pípni a jeď').",
+              "Aplicația 'DPMBinfo' arată plecările în timp real.",
+              "Seara tramvaiele circulă mai rar; verificați orarul.",
+              "Țineți-vă bine de bare în vehicule, podeaua poate fi alunecoasă."
+            ],
+            "en": [
+              "You can pay for tickets contactless directly on the tram ('Pípni a jeď').",
+              "The 'DPMBinfo' app shows real-time departures and delays.",
+              "Trams run less frequently in the evening; check the schedule.",
+              "Hold on tight in the vehicles as floors can be slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die geheizten Straßenbahnen Brünns für eine gemütliche Wintertour. Nach dem Start am Freiheitsplatz bringt Sie die Tram schnell zur Kathedrale und zum Zelný trh. Die Fahrt zum Špilberk und zur Villa Tugendhat ist im Winter besonders stimmungsvoll, wenn die Stadt im Dämmerlicht leuchtet. Den Tag beenden Sie im warmen Hauptbahnhof oder bei einem Dinner im Zentrum.",
+            "hu": "Használja Brünn fűtött villamosait egy kényelmes téli túrához. A Szabadság téri kezdés után a villamos gyorsan elviszi a székesegyházhoz és a piachoz. A Špilberk és a Tugendhat-villa felé tartó út télen különösen hangulatos a szürkületi fényekben. A napot a főpályaudvar közelében vagy egy belvárosi vacsorával zárjuk.",
+            "ro": "Folosiți tramvaiele încălzite din Brno pentru un tur de iarnă confortabil. După Piața Libertății, tramvaiul vă duce rapid la Catedrală și la piață. Drumul spre Špilberk și Vila Tugendhat este deosebit în lumina crepusculului de iarnă. Ziua se încheie lângă gara centrală sau cu o cină caldă în centru.",
+            "en": "Enjoy Brno's heated trams for a cozy winter exploration. After starting at Freedom Square, the tram zips you to the Cathedral and the market. The journey to Špilberk and Villa Tugendhat is especially atmospheric in the winter twilight. End your day near the main station or with a warm dinner in the city center."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Freedom Square",
+              "tip_5lang": {
+                "de": "Die Trams sind im Winter gut beheizt; ideal zum Aufwärmen.",
+                "hu": "A villamosok télen jól fűtöttek; kiválóak egy kis melegedéshez.",
+                "ro": "Tramvaiele sunt bine încălzite iarna; ideale pentru a vă încălzi.",
+                "en": "Trams are well-heated in winter, making them great for warming up."
+              }
+            },
+            {
+              "name": "Old Town Hall & Vegetable Market",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprung mit der Tram spart den kalten Fußweg.",
+                "hu": "Egy rövid villamosozás megspórolja a hideg gyaloglást.",
+                "ro": "O scurtă călătorie cu tramvaiul vă scutește de mersul prin frig.",
+                "en": "A short hop on the tram saves you from walking in the freezing air."
+              }
+            },
+            {
+              "name": "Cathedral of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneematsch beim Ein- und Aussteigen.",
+                "hu": "Vigyázzon a latyakra a le- és felszállásnál.",
+                "ro": "Atenție la zăpada topită la urcarea și coborârea din vehicul.",
+                "en": "Watch out for slushy steps when getting on or off the tram."
+              }
+            },
+            {
+              "name": "Špilberk Fortress",
+              "tip_5lang": {
+                "de": "Der Bus 80 fährt auch im Winter regelmäßig zum Burgtor.",
+                "hu": "A 80-as busz télen is rendszeresen jár a várkapuhoz.",
+                "ro": "Autobuzul 80 circulă regulat spre poarta cetății și iarna.",
+                "en": "Bus 80 runs regularly to the fortress gate even in winter."
+              }
+            },
+            {
+              "name": "Moravian Gallery",
+              "tip_5lang": {
+                "de": "Von der Haltestelle 'Česká' sind es nur wenige Schritte ins Warme.",
+                "hu": "A 'Česká' megállótól csak pár lépés a fűtött galéria.",
+                "ro": "De la stația 'Česká' sunt doar câțiva pași până la căldură.",
+                "en": "It's only a few steps from the 'Česká' stop to the warm museum."
+              }
+            },
+            {
+              "name": "Villa Tugendhat",
+              "tip_5lang": {
+                "de": "Genießen Sie die beleuchteten Villenviertel aus dem Fenster.",
+                "hu": "Élvezze a kivilágított villanegyed látványát az ablakból.",
+                "ro": "Admirați cartierul de vile iluminat de la fereastra tramvaiului.",
+                "en": "Enjoy views of the lit-up residential districts from the window."
+              }
+            },
+            {
+              "name": "Dinner & Departure",
+              "tip_5lang": {
+                "de": "Der Bahnhofsvorplatz kann bei Frost sehr glatt sein.",
+                "hu": "A pályaudvar előtti tér fagyban nagyon csúszós lehet.",
+                "ro": "Piața din fața gării poate fi foarte alunecoasă la îngheț.",
+                "en": "The square in front of the station can be very slippery when frozen."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Pípni a jeď' Funktion für einfaches Bezahlen.",
+              "In der Dämmerung sind die Trams oft voll; planen Sie Zeit ein.",
+              "Wärmen Sie sich in den Wartehallen des Hauptbahnhofs auf.",
+              "Die Fahrpläne ändern sich an Feiertagen."
+            ],
+            "hu": [
+              "Használja a 'Pípni a jeď' (érintős) fizetést a kényelemért.",
+              "Szürkületkor a villamosok zsúfoltak lehetnek; számoljon ezzel.",
+              "Melegedjen meg a főpályaudvar várócsarnokaiban.",
+              "Ünnepnapokon a menetrend módosulhat."
+            ],
+            "ro": [
+              "Folosiți funcția 'Pípni a jeď' pentru plată rapidă cu cardul.",
+              "La lăsarea serii tramvaiele pot fi aglomerate; plecați din timp.",
+              "Vă puteți încălzi în sălile de așteptare din gara centrală.",
+              "Orarele pot varia în zilele de sărbătoare."
+            ],
+            "en": [
+              "Use the 'Pípni a jeď' tap-to-pay feature for maximum convenience.",
+              "Trams can be crowded during rush hour; allow extra travel time.",
+              "The main station waiting halls are a good place to thaw out.",
+              "Check for special holiday schedules if visiting in late December."
+            ]
+          }
+        }
       }
     }
   }

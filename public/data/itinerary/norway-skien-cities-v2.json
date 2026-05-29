@@ -362,6 +362,196 @@
           "Check museum opening hours in advance as they can vary seasonally.",
           "Take time for a coffee break, a Norwegian 'fika', to soak up the local culture."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Beginnen Sie den Tag am regnerischen Handelstorget, wo die nassen Pflastersteine die Stadtlichter reflektieren, bevor Sie in der Skien Kirke Schutz suchen. Mittag: Das Henrik Ibsen Museum bietet eine ideale Flucht vor dem Regen in die Welt des Dramatikers. Nachmittag: Erkunden Sie die Innenräume von Brekkeparken und beobachten Sie die dramatischen Schleusen des Telemarkkanals unter grauem Himmel. Abend: Ein kurzer Spaziergang am Bakkestranda beschließt den Tag.",
+            "hu": "Reggel: Kezdje a napot az esős Handelstorgeten, ahol a vizes macskakövek tükrözik a város fényeit, majd keressen menedéket a Skien templomban. Délben: A Henrik Ibsen Múzeum tökéletes búvóhely az eső elől a drámaíró világába. Délután: Fedezze fel Brekkeparken belső kiállításait, és nézze meg a Telemark-csatorna zsilipjeit a szürke égbolt alatt. Este: Egy rövid séta a Bakkestranda partján zárja a napot.",
+            "ro": "Dimineața: Începeți ziua în Handelstorget sub ploaie, unde pavajul umed reflectă luminile orașului, apoi adăpostiți-vă în Biserica Skien. La prânz: Muzeul Henrik Ibsen oferă o evadare ideală din calea ploii în lumea dramaturgului. După-amiaza: Explorați expozițiile interioare din Brekkeparken și observați ecluzele dramatice ale Canalului Telemark sub cerul gri. Seara: O scurtă plimbare pe Bakkestranda încheie ziua.",
+            "en": "Morning: Start the day at a rainy Handelstorget, where the wet cobblestones reflect the city lights, then seek shelter in Skien Church. Midday: The Henrik Ibsen Museum provides a perfect escape from the rain into the playwright's world. Afternoon: Explore the indoor exhibits of Brekkeparken and watch the dramatic Telemark Canal locks under gray skies. Evening: A short walk along Bakkestranda concludes the day as the mist settles over the water."
+          },
+          "stops": [
+            {
+              "name": "Handelstorget (Market Square)",
+              "tip_5lang": {
+                "de": "Suchen Sie unter den Markisen der Cafés Schutz vor dem Regen.",
+                "hu": "Használja a kávézók napellenzőit az eső elleni védekezéshez.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor din piață.",
+                "en": "Use the cafe awnings around the square for quick rain cover."
+              }
+            },
+            {
+              "name": "Skien Kirke (Skien Church)",
+              "tip_5lang": {
+                "de": "Die Kirche ist ein hervorragender trockener Rückzugsort.",
+                "hu": "A templom belső tere kiváló száraz menedékhely.",
+                "ro": "Interiorul bisericii este un refugiu uscat excelent.",
+                "en": "The church interior is an excellent dry sanctuary today."
+              }
+            },
+            {
+              "name": "Henrik Ibsen Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre nassen Regensachen.",
+                "hu": "Használja a ruhatárat a vizes esőkabátok számára.",
+                "ro": "Folosiți garderoba pentru hainele de ploaie umede.",
+                "en": "Make use of the cloakroom for your wet rain gear."
+              }
+            },
+            {
+              "name": "Brekkeparken",
+              "tip_5lang": {
+                "de": "Konzentrieren Sie sich auf die Ausstellungen im Herrenhaus.",
+                "hu": "Koncentráljon az udvarház belső kiállításaira.",
+                "ro": "Concentrați-vă pe expozițiile din interiorul conacului.",
+                "en": "Focus on the indoor exhibits within the manor house."
+              }
+            },
+            {
+              "name": "Telemark Canal (Skien Lock)",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steine an der Schleuse sind bei Nässe rutschig.",
+                "hu": "Vigyázat, a zsilip melletti kövek vizesen csúszósak.",
+                "ro": "Atenție, pietrele de lângă ecluză sunt alunecoase pe ploaie.",
+                "en": "Be careful, the stones near the lock are slippery when wet."
+              }
+            },
+            {
+              "name": "Bakkestranda",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Wegen, um Pfützen zu vermeiden.",
+                "hu": "Maradjon az aszfaltozott utakon a tócsák elkerülése érdekében.",
+                "ro": "Rămâneți pe potecile asfaltate pentru a evita bălțile.",
+                "en": "Stick to the paved paths to avoid deep puddles."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster Wasser sammelt.",
+              "Die Museen in Skien sind montags oft geschlossen; prüfen Sie die Zeiten.",
+              "Ein Regenschirm ist bei dem oft windigen Wetter in Telemark weniger stabil als ein Regenponcho.",
+              "Nutzen Sie die Cafés in der Nähe von Landmannstorget für Aufwärmpausen.",
+              "Die Aussicht auf den Kanal ist bei Regen besonders atmosphärisch."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskakövek között megáll a víz.",
+              "A skieni múzeumok hétfőnként gyakran zárva tartanak; ellenőrizze az időpontokat.",
+              "Az esernyő a gyakran szeles telemarki időben kevésbé stabil, mint egy esőponcsó.",
+              "Használja a Landmannstorget környéki kávézókat melegedő szünetekre.",
+              "A csatorna látványa esőben kifejezetten hangulatos és drámai."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece apa se adună între pavaje.",
+              "Muzeele din Skien sunt adesea închise lunea; verificați programul.",
+              "O umbrelă este mai puțin stabilă decât o pelerină în vântul din Telemark.",
+              "Folosiți cafenelele de lângă Landmannstorget pentru pauze de încălzire.",
+              "Vederea asupra canalului este deosebit de atmosferică pe timp de ploaie."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones tend to collect puddles.",
+              "Skien's museums are often closed on Mondays; check opening times beforehand.",
+              "An umbrella might struggle with Telemark's wind; a sturdy raincoat is better.",
+              "Utilize the cafes near Landmannstorget for warm indoor breaks.",
+              "The canal view is uniquely atmospheric and dramatic during rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Ein knisternder Start am verschneiten Handelstorget, gefolgt von der stillen Wärme der Skien Kirke. Mittag: Tauchen Sie im Ibsen-Museum in die Geschichte ein, während draußen der Schnee fällt. Nachmittag: Der Brekkeparken verwandelt sich in ein Winterwunderland, bevor die Sonne früh über den gefrorenen Schleusen des Kanals untergeht. Abend: Genießen Sie die gemütliche Atmosphäre der beleuchteten Stadt am Bakkestranda.",
+            "hu": "Reggel: Ropogós kezdés a havas Handelstorgeten, majd a Skien templom csendes melege várja. Délben: Merüljön el a történelemben az Ibsen Múzeumban, miközben odakint hull a hó. Délután: A Brekkeparken téri csodaországgá változik, mielőtt a nap korán lenyugszik a csatorna fagyos zsilipjei felett. Este: Élvezze a kivilágított város meghitt hangulatát a Bakkestranda partján.",
+            "ro": "Dimineața: Un început crocant în Handelstorget înzăpezit, urmat de căldura liniștită a Bisericii Skien. La prânz: Scufundați-vă în istorie la Muzeul Ibsen în timp ce afară ninge. După-amiaza: Brekkeparken se transformă într-un tărâm de basm, înainte ca soarele să apună devreme peste ecluzele înghețate. Seara: Bucurați-vă de atmosfera primitoare a orașului iluminat pe Bakkestranda.",
+            "en": "Morning: A crisp start at the snow-covered Handelstorget, followed by the quiet warmth of Skien Church. Midday: Dive into history at the Ibsen Museum while the snow falls outside. Afternoon: Brekkeparken transforms into a winter wonderland before the sun sets early over the frozen canal locks. Evening: Enjoy the cozy atmosphere of the illuminated city at Bakkestranda under the winter stars."
+          },
+          "stops": [
+            {
+              "name": "Handelstorget (Market Square)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf dem offenen Platz.",
+                "hu": "Vigyázzon a jégre a nyitott téren.",
+                "ro": "Atenție la gheața de pe platforma deschisă a pieței.",
+                "en": "Watch out for black ice on the open square."
+              }
+            },
+            {
+              "name": "Skien Kirke (Skien Church)",
+              "tip_5lang": {
+                "de": "Ein perfekt beheizter Ort, um sich aufzuwärmen.",
+                "hu": "Tökéletesen fűtött hely a felmelegedéshez.",
+                "ro": "Un loc bine încălzit, ideal pentru a vă dezgheța.",
+                "en": "A perfectly heated place to warm up your hands."
+              }
+            },
+            {
+              "name": "Henrik Ibsen Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Stille dieses historischen Ortes.",
+                "hu": "Élvezze a történelmi helyszín téli csendjét.",
+                "ro": "Bucurați-vă de liniștea hibernală a acestui loc istoric.",
+                "en": "Enjoy the peaceful winter silence of this historical site."
+              }
+            },
+            {
+              "name": "Brekkeparken",
+              "tip_5lang": {
+                "de": "Die Wege können verschneit sein; festes Schuhwerk ist nötig.",
+                "hu": "Az utak havasak lehetnek; bakancs ajánlott.",
+                "ro": "Potecile pot fi înzăpezite; aveți nevoie de ghete solide.",
+                "en": "Paths can be snowy; sturdy winter boots are required."
+              }
+            },
+            {
+              "name": "Telemark Canal (Skien Lock)",
+              "tip_5lang": {
+                "de": "Das Eis am Kanalrand kann dünn und gefährlich sein.",
+                "hu": "A csatorna szélén a jég vékony és veszélyes lehet.",
+                "ro": "Gheața de la marginea canalului poate fi subțire și periculoasă.",
+                "en": "Ice near the canal edge can be thin and dangerous."
+              }
+            },
+            {
+              "name": "Bakkestranda",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung ist hier im Winter besonders schön.",
+                "hu": "Az esti kivilágítás itt télen különösen szép.",
+                "ro": "Iluminatul de seară este superb aici pe timp de iarnă.",
+                "en": "The evening lights are especially beautiful here in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 15:30 Uhr unter.",
+              "Tragen Sie Thermo-Unterwäsche; die Feuchtigkeit vom Wasser macht es kälter.",
+              "Spikes für die Schuhe (Broddene) sind auf den eisigen Gehwegen sehr nützlich.",
+              "Die Museen haben im Winter oft verkürzte Öffnungszeiten.",
+              "Genießen Sie ein heißes Getränk am Landmannstorget nach Ihrem Spaziergang."
+            ],
+            "hu": [
+              "A nap decemberben már délután fél 4 körül lenyugszik.",
+              "Viseljen termő aláöltözetet; a víz közelsége miatt hidegebbnek érződik az idő.",
+              "A cipőre csatolható csúszásgátló (broddene) nagyon hasznos a jeges járdákon.",
+              "A múzeumok télen gyakran rövidített nyitvatartással üzemelnek.",
+              "Igyon egy forró italt a Landmannstorgeten a séta után."
+            ],
+            "ro": [
+              "Soarele apune în decembrie deja în jurul orei 15:30.",
+              "Purtați lenjerie termică; umiditatea de lângă apă sporește senzația de frig.",
+              "Crampoanele pentru pantofi sunt foarte utile pe trotuarele înghețate.",
+              "Muzeele au adesea program redus în timpul iernii.",
+              "Savurați o băutură fierbinte la Landmannstorget după plimbare."
+            ],
+            "en": [
+              "Sunset occurs as early as 15:30 in mid-winter.",
+              "Wear thermal layers; proximity to the water makes the air feel colder.",
+              "Ice cleats (broddene) are highly recommended for the icy pavements.",
+              "Museums often have shorter operating hours during the winter season.",
+              "Enjoy a hot drink at Landmannstorget to warm up after your walk."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +956,232 @@
           "Many paths along the water are shared between cyclists and pedestrians.",
           "A small backpack for water and snacks is essential on a longer bike tour."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Eine nasse Fahrt vom Handelstorget zum Ibsenhuset, wo Kultur Schutz bietet. Mittag: Weiter zur Skien Kirke und zum Ibsen-Museum durch den Nieselregen. Nachmittag: Erkunden Sie Brekkeparken und Klosterøya, während die Reifen auf dem nassen Asphalt singen. Abend: Beenden Sie die Tour am Telemarkkanal und Bakkestranda.",
+            "hu": "Reggel: Vizes tekerés a Handelstorgettől az Ibsenhusetig, ahol a kultúra nyújt menedéket. Délben: Folytassa az utat a Skien templomhoz és az Ibsen Múzeumhoz a szemerkélő esőben. Délután: Fedezze fel Brekkeparkent és Klosterøyát, miközben a gumik suhognak a vizes aszfalton. Este: Zárja a túrát a Telemark-csatornánál és a Bakkestrandánál.",
+            "ro": "Dimineața: O cursă umedă de la Handelstorget la Ibsenhuset, unde cultura oferă adăpost. La prânz: Continuați spre Biserica Skien și Muzeul Ibsen prin burniță. După-amiaza: Explorați Brekkeparken și Klosterøya în timp ce anvelopele șuieră pe asfaltul ud. Seara: Încheiați turul la Canalul Telemark și Bakkestranda.",
+            "en": "Morning: A wet ride from Handelstorget to Ibsenhuset, where culture offers shelter. Midday: Continue to Skien Church and the Ibsen Museum through the drizzle. Afternoon: Explore Brekkeparken and Klosterøya as your tires hum on the wet asphalt. Evening: Finish the tour at the Telemark Canal and Bakkestranda as the rain clears."
+          },
+          "stops": [
+            {
+              "name": "Handelstorget (Market Square)",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster ist bei Regen extrem rutschig.",
+                "hu": "A macskakő esőben rendkívül csúszós.",
+                "ro": "Pavajul este extrem de alunecos pe ploaie.",
+                "en": "The cobblestones are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Ibsenhuset (Cultural Centre)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Fahrradständer am Eingang.",
+                "hu": "Használja a bejáratnál lévő fedett biciklitárolót.",
+                "ro": "Folosiți suporturile de biciclete acoperite de la intrare.",
+                "en": "Use the covered bike racks near the entrance."
+              }
+            },
+            {
+              "name": "Skien Kirke",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad vorsichtig am Fuße der Treppen.",
+                "hu": "Parkoljon óvatosan a lépcsők alján.",
+                "ro": "Parcați bicicleta cu grijă la baza scărilor.",
+                "en": "Park your bike carefully at the base of the steps."
+              }
+            },
+            {
+              "name": "Henrik Ibsen Museum",
+              "tip_5lang": {
+                "de": "Schützen Sie Ihren Sattel mit einem Überzug.",
+                "hu": "Védje a nyergét üléshuzattal.",
+                "ro": "Protejați șaua cu o husă impermeabilă.",
+                "en": "Protect your saddle with a waterproof cover."
+              }
+            },
+            {
+              "name": "Brekkeparken",
+              "tip_5lang": {
+                "de": "Die Kieswege im Park können schlammig sein.",
+                "hu": "A park kavicsos útjai sarasak lehetnek.",
+                "ro": "Aleile cu pietriș din parc pot fi noroioase.",
+                "en": "Gravel paths in the park can get muddy."
+              }
+            },
+            {
+              "name": "Klosterøya",
+              "tip_5lang": {
+                "de": "Industrielles Ambiente wirkt bei Regen besonders authentisch.",
+                "hu": "Az ipari környezet esőben kifejezetten hitelesnek hat.",
+                "ro": "Ambianța industrială pare autentică pe ploaie.",
+                "en": "Industrial vibes feel very authentic in the rain."
+              }
+            },
+            {
+              "name": "Telemark Canal",
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig auf den nassen Abfahrten.",
+                "hu": "Fékezzen időben a vizes lejtőkön.",
+                "ro": "Frânați din timp pe coborârile umede.",
+                "en": "Brake early on the wet descents towards the canal."
+              }
+            },
+            {
+              "name": "Bakkestranda",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Gras, es ist sehr weich und nass.",
+                "hu": "Kerülje a füvet, mert nagyon puha és vizes.",
+                "ro": "Evitați iarba, este foarte moale și udă.",
+                "en": "Avoid the grass as it gets very soft and soggy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind unerlässlich, um trocken zu bleiben.",
+              "Tragen Sie neongelbe Regenkleidung für bessere Sichtbarkeit.",
+              "Vermeiden Sie metallische Schachtdeckel, sie sind wie Eis.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Fahrt.",
+              "Eine wasserdichte Tasche schützt Ihre Kamera und Elektronik."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a szárazon maradáshoz.",
+              "Viseljen neon esőruházatot a jobb láthatóságért.",
+              "Kerülje a fém csatornafedeleket, mert jégként csúsznak.",
+              "Ellenőrizze a fékbetéteket az indulás előtt.",
+              "Vízálló táska védi a kamerát és az elektronikát."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt esențiale pentru a rămâne uscat.",
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate.",
+              "Evitați capacele de canal metalice, sunt extrem de alunecoase.",
+              "Verificați saboții de frână înainte de plecare.",
+              "O geantă impermeabilă vă protejează electronicele."
+            ],
+            "en": [
+              "Mudguards are essential to keep your back dry.",
+              "Wear high-visibility rain gear to be seen by drivers.",
+              "Avoid metal manhole covers; they become incredibly slick.",
+              "Check your brake pads before starting the ride.",
+              "A waterproof pannier will protect your camera and gear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Eine frostige Fahrt durch Skien, beginnend am Handelstorget. Mittag: Kurze Stopps am Ibsenhuset und der Kirche, um die Kälte zu unterbrechen. Nachmittag: Radeln Sie vorsichtig zum Ibsen-Museum und durch den verschneiten Brekkeparken. Abend: Die industrielle Kulisse von Klosterøya und der Telemarkkanal funkeln im Frost, bevor Sie am Bakkestranda ankommen.",
+            "hu": "Reggel: Fagylalt tekerés Skienen át a Handelstorgetről indulva. Délben: Rövid megállók az Ibsenhusetnél és a templomnál a hideg enyhítésére. Délután: Tekerjen óvatosan az Ibsen Múzeumhoz és a havas Brekkeparkenbe. Este: Klosterøya ipari díszletei és a Telemark-csatorna csillognak a fagyban, mielőtt megérkezik a Bakkestrandára.",
+            "ro": "Dimineața: O cursă geroasă prin Skien, pornind din Handelstorget. La prânz: Scurte opriri la Ibsenhuset și biserică pentru a întrerupe frigul. După-amiaza: Pedalați cu grijă spre Muzeul Ibsen și prin Brekkeparken înzăpezit. Seara: Decorul industrial din Klosterøya și Canalul Telemark sclipesc în ger înainte de sosirea la Bakkestranda.",
+            "en": "Morning: A frosty ride through Skien, starting at Handelstorget. Midday: Quick stops at Ibsenhuset and the church to break the cold. Afternoon: Pedal carefully to the Ibsen Museum and through snowy Brekkeparken. Evening: The industrial backdrop of Klosterøya and the Telemark Canal sparkle in the frost before you arrive at Bakkestranda."
+          },
+          "stops": [
+            {
+              "name": "Handelstorget (Market Square)",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen zwischen den Steinen.",
+                "hu": "Ügyeljen a kövek közötti fagyott tócsákra.",
+                "ro": "Atenție la bălțile înghețate dintre pietre.",
+                "en": "Watch out for frozen puddles between the cobbles."
+              }
+            },
+            {
+              "name": "Ibsenhuset (Cultural Centre)",
+              "tip_5lang": {
+                "de": "Kurzes Aufwärmen im Foyer ist empfehlenswert.",
+                "hu": "Rövid felmelegedés a foyer-ben ajánlott.",
+                "ro": "O scurtă încălzire în foaier este recomandată.",
+                "en": "A quick warm-up in the foyer is recommended."
+              }
+            },
+            {
+              "name": "Skien Kirke",
+              "tip_5lang": {
+                "de": "Steigen Sie bei der Auffahrt zur Kirche lieber ab.",
+                "hu": "A templomhoz vezető emelkedőn inkább tolja a biciklit.",
+                "ro": "Mai bine coborâți de pe bicicletă pe panta spre biserică.",
+                "en": "It is safer to dismount on the icy slope to the church."
+              }
+            },
+            {
+              "name": "Henrik Ibsen Museum",
+              "tip_5lang": {
+                "de": "Das Museumsgelände ist im Winter oft spiegelglatt.",
+                "hu": "A múzeum környéke télen gyakran tükörsima.",
+                "ro": "Zona muzeului este adesea foarte alunecoasă iarna.",
+                "en": "The museum grounds can be very slippery in winter."
+              }
+            },
+            {
+              "name": "Brekkeparken",
+              "tip_5lang": {
+                "de": "Fahren Sie nur auf geräumten Hauptwegen.",
+                "hu": "Csak a letakarított főutakon közlekedjen.",
+                "ro": "Circulați doar pe aleile principale deszăpezite.",
+                "en": "Stay only on the cleared main paths in the park."
+              }
+            },
+            {
+              "name": "Klosterøya",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Metallbrücken zur Insel.",
+                "hu": "Vigyázzon a szigetre vezető fémhidakon.",
+                "ro": "Atenție pe podurile metalice spre insulă.",
+                "en": "Be extra careful on the metal bridges to the island."
+              }
+            },
+            {
+              "name": "Telemark Canal",
+              "tip_5lang": {
+                "de": "Die Luft am Wasser ist hier besonders schneidend.",
+                "hu": "A vízparti levegő itt különösen metsző.",
+                "ro": "Aerul de lângă apă este tăios aici.",
+                "en": "The air near the water is particularly biting here."
+              }
+            },
+            {
+              "name": "Bakkestranda",
+              "tip_5lang": {
+                "de": "Starke Lichter sind für die Rückfahrt im Dunkeln Pflicht.",
+                "hu": "Erős lámpák kötelezőek a sötétben való visszatéréshez.",
+                "ro": "Luminile puternice sunt obligatorii pentru întoarcere.",
+                "en": "Bright lights are mandatory for the return in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen (Piggdekk) sind für skandinavische Winter notwendig.",
+              "Halten Sie die Kette gut geölt, um Salzkorrosion zu vermeiden.",
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Die Batterien von E-Bikes entladen sich bei Kälte schneller.",
+              "Planen Sie Ihre Tour so, dass Sie vor 15:30 Uhr fertig sind."
+            ],
+            "hu": [
+              "Szöges gumik (piggdekk) szükségesek a skandináv télhez.",
+              "Tartsa a láncot jól olajozottan a sómarás ellen.",
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "Az e-bike akkumulátorok hidegben gyorsabban merülnek.",
+              "Tervezze úgy a túrát, hogy délután fél 4-re végezzen."
+            ],
+            "ro": [
+              "Anvelopele cu ținte sunt necesare pentru iarna scandinavă.",
+              "Mențineți lanțul bine uns pentru a evita coroziunea de la sare.",
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la ger.",
+              "Planificați turul astfel încât să terminați înainte de 15:30."
+            ],
+            "en": [
+              "Studded tires (piggdekk) are essential for Norwegian winters.",
+              "Keep your chain well-oiled to prevent corrosion from road salt.",
+              "Wear windproof gloves and a thin hat under your helmet.",
+              "E-bike batteries drain much faster in sub-zero temperatures.",
+              "Aim to finish your outdoor cycling before the 15:30 sunset."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1146,6 +1562,214 @@
           "The streets in the city center can be narrow, so drive carefully.",
           "The cluster method saves time and parking fees and allows for more immersive walks."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Bequemer Start mit dem Auto zum Stadtzentrum. Mittag: Besuchen Sie die Kirche und das Ibsenhuset, ohne nass zu werden. Nachmittag: Eine kurze Fahrt zum Ibsen-Museum und Brekkeparken bietet trockenen Komfort. Abend: Beenden Sie den Tag mit einer Fahrt entlang des Telemarkkanals zum Bakkestranda, während der Regen gegen die Scheiben trommelt.",
+            "hu": "Reggel: Kényelmes kezdés autóval a városközpont felé. Délben: Látogassa meg a templomot és az Ibsenhusetet anélkül, hogy elázna. Délután: Egy rövid autózás az Ibsen Múzeumhoz és a Brekkeparkenhez száraz kényelmet nyújt. Este: Zárja a napot egy autózással a Telemark-csatorna mentén a Bakkestrandáig, miközben az eső kopog a szélvédőn.",
+            "ro": "Dimineața: Început confortabil cu mașina spre centrul orașului. La prânz: Vizitați biserica și Ibsenhuset fără a vă uda. După-amiaza: O scurtă cursă spre Muzeul Ibsen și Brekkeparken oferă confort uscat. Seara: Încheiați ziua cu o plimbare de-a lungul Canalului Telemark spre Bakkestranda, în timp ce ploaia bate în geamuri.",
+            "en": "Morning: A comfortable start by car towards the city center. Midday: Visit the church and Ibsenhuset without getting soaked. Afternoon: A short drive to the Ibsen Museum and Brekkeparken provides dry comfort. Evening: Finish the day with a drive along the Telemark Canal to Bakkestranda as the rain drums against the windshield."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking (near Handelstorget)",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser, um trocken ins Freie zu gelangen.",
+                "hu": "Használja a parkolóházakat a száraz kijutáshoz.",
+                "ro": "Folosiți parcările acoperite pentru a rămâne uscat.",
+                "en": "Use covered parking garages to stay dry upon exiting."
+              }
+            },
+            {
+              "name": "Handelstorget & Skien Kirke",
+              "tip_5lang": {
+                "de": "Lassen Sie Passagiere nah am Eingang aussteigen.",
+                "hu": "Engedje ki az utasokat a bejárathoz közel.",
+                "ro": "Lăsați pasagerii să coboare aproape de intrare.",
+                "en": "Drop off passengers close to the entrance to minimize rain exposure."
+              }
+            },
+            {
+              "name": "Ibsenhuset",
+              "tip_5lang": {
+                "de": "Parkplätze direkt am Haus sind bei Regen schnell belegt.",
+                "hu": "A ház melletti parkolók esőben hamar megtelnek.",
+                "ro": "Locurile de parcare de lângă centru se ocupă rapid pe ploaie.",
+                "en": "Parking spots right by the center fill up quickly in the rain."
+              }
+            },
+            {
+              "name": "Henrik Ibsen Museum & Brekkeparken",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei starkem Regen matschig sein.",
+                "hu": "A parkoló nagy esőben saras lehet.",
+                "ro": "Parcarea poate deveni noroioasă la ploi abundente.",
+                "en": "The parking area can get muddy during heavy rain."
+              }
+            },
+            {
+              "name": "Klosterøya Parking",
+              "tip_5lang": {
+                "de": "Kurze Wege von hier zu den industriellen Sehenswürdigkeiten.",
+                "hu": "Rövid séta innen az ipari látnivalókig.",
+                "ro": "Distanțe scurte de aici până la obiectivele industriale.",
+                "en": "Short walking distances from here to industrial landmarks."
+              }
+            },
+            {
+              "name": "Telemark Canal (Locks)",
+              "tip_5lang": {
+                "de": "Beobachten Sie das Schleusenmanöver vom Auto aus.",
+                "hu": "Figyelje a zsilipelést az autóból.",
+                "ro": "Observați ecluzarea direct din mașină.",
+                "en": "You can watch the locking process from inside the car."
+              }
+            },
+            {
+              "name": "Bakkestranda",
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie die Aussicht im Trockenen genießen.",
+                "hu": "Parkoljon úgy, hogy szárazon élvezhesse a kilátást.",
+                "ro": "Parcați astfel încât să vedeți peisajul din confortul mașinii.",
+                "en": "Park in a spot where you can enjoy the view while staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Achten Sie auf Aquaplaning auf der E18 nach Skien.",
+              "Halten Sie einen Regenschirm im Türfach bereit.",
+              "Parkhäuser im Zentrum bieten oft Ladestationen für E-Autos.",
+              "Die Sicht kann durch Nebel am Kanal eingeschränkt sein."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket indulás előtt.",
+              "Vigyázzon az aquaplaningre a Skien felé vezető E18-as úton.",
+              "Tartson esernyőt az ajtózsebben.",
+              "A belvárosi parkolóházakban gyakran van E-autó töltő.",
+              "A csatorna menti köd ronthatja a látási viszonyokat."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a pleca la drum.",
+              "Atenție la acvaplanare pe drumul E18 spre Skien.",
+              "Țineți o umbrelă la îndemână în buzunarul portierei.",
+              "Parcările etajate din centru au adesea stații de încărcare.",
+              "Vizibilitatea poate fi redusă de ceața de pe canal."
+            ],
+            "en": [
+              "Ensure your windshield wipers are in good condition.",
+              "Watch out for aquaplaning on the E18 highway to Skien.",
+              "Keep an umbrella handy in the car door pocket.",
+              "Central parking garages often provide EV charging stations.",
+              "Visibility can be limited by mist near the canal area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Ein warmer Start im Auto, während die Stadt unter einer Schneedecke liegt. Mittag: Besuchen Sie die historischen Orte bequem und warm. Nachmittag: Die Fahrt zum Ibsen-Museum ist bei Schnee malerisch, ebenso wie der Blick auf die vereisten Kanäle. Abend: Beenden Sie die Tour am beleuchteten Bakkestranda, bevor Sie die Heimreise im beheizten Wagen antreten.",
+            "hu": "Reggel: Meleg kezdés az autóban, miközben a várost hó fedi. Délben: Látogassa meg a történelmi helyszíneket kényelmesen és melegben. Délután: Az autózás az Ibsen Múzeumhoz festői a hóban, akárcsak a jeges csatornák látványa. Este: Zárja a túrát a kivilágított Bakkestrandánál, mielőtt hazaindul a fűtött kocsiban.",
+            "ro": "Dimineața: Un început călduros în mașină, în timp ce orașul e sub zăpadă. La prânz: Vizitați locurile istorice în confort și căldură. După-amiaza: Drumul spre Muzeul Ibsen este pitoresc sub zăpadă, la fel și vederea canalelor înghețate. Seara: Încheiați turul la Bakkestranda iluminată înainte de drumul spre casă.",
+            "en": "Morning: A warm start in your car while the city lies under a blanket of snow. Midday: Visit the historical sites comfortably and warmly. Afternoon: The drive to the Ibsen Museum is picturesque in the snow, as is the view of the frozen canals. Evening: Conclude the tour at the illuminated Bakkestranda before heading home in your heated vehicle."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking (near Handelstorget)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen in den Parklücken.",
+                "hu": "Vigyázzon a hóbuckákra a parkolóhelyeken.",
+                "ro": "Atenție la mormanele de zăpadă din locurile de parcare.",
+                "en": "Watch out for snow piles in the parking stalls."
+              }
+            },
+            {
+              "name": "Handelstorget & Skien Kirke",
+              "tip_5lang": {
+                "de": "Die Straßen im Zentrum werden meist gut geräumt.",
+                "hu": "A belvárosi utakat általában jól takarítják.",
+                "ro": "Străzile din centru sunt de obicei bine deszăpezite.",
+                "en": "City center streets are usually well-cleared of snow."
+              }
+            },
+            {
+              "name": "Ibsenhuset",
+              "tip_5lang": {
+                "de": "Das Parkdeck kann im Winter sehr rutschig sein.",
+                "hu": "A parkolófedélzet télen nagyon csúszós lehet.",
+                "ro": "Platforma parcării poate fi foarte alunecoasă iarna.",
+                "en": "The parking deck can be quite slippery in winter."
+              }
+            },
+            {
+              "name": "Henrik Ibsen Museum & Brekkeparken",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob der Parkplatz geräumt ist.",
+                "hu": "Ellenőrizze, hogy a parkoló le van-e takarítva.",
+                "ro": "Verificați dacă parcarea a fost deszăpezită.",
+                "en": "Check if the parking lot has been plowed recently."
+              }
+            },
+            {
+              "name": "Klosterøya Parking",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eiszapfen an den alten Industriegebäuden.",
+                "hu": "Vigyázzon a jégcsapokra a régi ipari épületeken.",
+                "ro": "Atenție la țurțurii de pe clădirile industriale vechi.",
+                "en": "Watch out for icicles on the old industrial buildings."
+              }
+            },
+            {
+              "name": "Telemark Canal (Locks)",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor bei kurzen Stopps nicht unnötig laufen.",
+                "hu": "Rövid megállásnál ne járassa feleslegesen a motort.",
+                "ro": "Nu lăsați motorul pornit inutil la opriri scurte.",
+                "en": "Avoid idling your engine during short stops at the locks."
+              }
+            },
+            {
+              "name": "Bakkestranda",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den zugefrorenen See.",
+                "hu": "Élvezze a kilátást a befagyott tóra.",
+                "ro": "Bucurați-vă de vederea spre lacul înghețat.",
+                "en": "Enjoy the view over the frozen lake from your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Norwegen gesetzlich vorgeschrieben.",
+              "Führen Sie eine Schneeschaufel und ein Starthilfekabel mit.",
+              "Halten Sie den Tank mindestens halb voll für Notfälle.",
+              "Sprühen Sie Türschlösser mit Enteiser ein.",
+              "Die Straßenbeleuchtung in Skien ist auch im Winter exzellent."
+            ],
+            "hu": [
+              "A téli gumi Norvégiában törvényi előírás.",
+              "Tartson az autóban hólapátot és indítókábelt.",
+              "Tartsa a tankot legalább félig vészhelyzet esetére.",
+              "Használjon jégoldót az ajtózárakhoz.",
+              "Skien utcai világítása télen is kiváló."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Norvegia.",
+              "Aveți în mașină o lopată de zăpadă și cabluri de pornire.",
+              "Mențineți rezervorul cel puțin pe jumătate plin.",
+              "Folosiți spray de dezghețare pentru încuietori.",
+              "Iluminatul stradal din Skien este excelent și iarna."
+            ],
+            "en": [
+              "Winter tires are mandatory by law in Norway.",
+              "Carry a snow shovel and jumper cables in your trunk.",
+              "Keep your fuel tank at least half full for emergencies.",
+              "Use lock de-icer on car door locks to prevent freezing.",
+              "Street lighting in Skien is excellent even in deep winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1526,6 +2150,214 @@
           "Be aware that buses run less frequently on Sundays and in the evenings.",
           "Signal the bus driver when you are waiting at a stop to ensure they stop for you."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Start am Landmannstorget, dem zentralen Busknotenpunkt. Mittag: Nutzen Sie die Busverbindungen, um trocken zwischen Handelstorget, der Kirche und dem Ibsen-Museum zu pendeln. Nachmittag: Der Bus bringt Sie bequem zum Brekkeparken und zur Klosterøya. Abend: Ein letzter Trip zum Bakkestranda, bevor Sie zum Bahnhof oder Hotel zurückkehren.",
+            "hu": "Reggel: Kezdés a Landmannstorgeten, a központi buszpályaudvaron. Délben: Használja a buszjáratokat, hogy szárazon közlekedjen a Handelstorget, a templom és az Ibsen Múzeum között. Délután: A busz kényelmesen elviszi a Brekkeparkenhez és Klosterøyához. Este: Egy utolsó út a Bakkestrandához, mielőtt visszatérne az állomásra vagy a szállodába.",
+            "ro": "Dimineața: Start în Landmannstorget, nodul central de autobuze. La prânz: Folosiți conexiunile de autobuz pentru a pendula uscat între punctele de interes. După-amiaza: Autobuzul vă duce confortabil la Brekkeparken și Klosterøya. Seara: O ultimă cursă spre Bakkestranda înainte de a reveni la gară sau hotel.",
+            "en": "Morning: Start at Landmannstorget, the central bus hub. Midday: Use the bus connections to commute dryly between Handelstorget, the church, and the Ibsen Museum. Afternoon: The bus takes you comfortably to Brekkeparken and Klosterøya. Evening: A final trip to Bakkestranda before returning to the station or your hotel."
+          },
+          "stops": [
+            {
+              "name": "Landmannstorget (Bus Terminal)",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Bereich des Terminals.",
+                "hu": "Várjon a buszpályaudvar fedett részén.",
+                "ro": "Așteptați în zona acoperită a terminalului.",
+                "en": "Wait inside the covered areas of the terminal."
+              }
+            },
+            {
+              "name": "Handelstorget & Skien Kirke",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen hier bieten guten Regenschutz.",
+                "hu": "Az itteni buszmegállók jó védelmet nyújtanak az eső ellen.",
+                "ro": "Stațiile de autobuz de aici oferă protecție bună.",
+                "en": "The bus stops here offer decent rain protection."
+              }
+            },
+            {
+              "name": "Brekkeparken",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten per App, um Wartezeit im Regen zu minimieren.",
+                "hu": "Ellenőrizze az időpontokat applikációban a várakozás csökkentésére.",
+                "ro": "Verificați timpii în aplicație pentru a nu aștepta în ploaie.",
+                "en": "Check the app for live times to minimize waiting in the rain."
+              }
+            },
+            {
+              "name": "Henrik Ibsen Museum",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Haltestelle ist kurz, aber nass.",
+                "hu": "A séta a megállótól rövid, de vizes.",
+                "ro": "Drumul de la stație este scurt, dar ud.",
+                "en": "The walk from the stop is short but wet."
+              }
+            },
+            {
+              "name": "Klosterøya",
+              "tip_5lang": {
+                "de": "Halten Sie Ihr Ticket griffbereit, um schnell einzusteigen.",
+                "hu": "Tartsa készenlétben a jegyét a gyors felszálláshoz.",
+                "ro": "Țineți biletul la îndemână pentru îmbarcare rapidă.",
+                "en": "Have your ticket ready for quick boarding."
+              }
+            },
+            {
+              "name": "Telemark Canal",
+              "tip_5lang": {
+                "de": "Busse verkehren hier regelmäßig zum Zentrum.",
+                "hu": "A buszok rendszeresen járnak innen a központba.",
+                "ro": "Autobuzele circulă regulat de aici spre centru.",
+                "en": "Buses run frequently from here back to the center."
+              }
+            },
+            {
+              "name": "Bakkestranda",
+              "tip_5lang": {
+                "de": "Die letzte Fahrt des Tages bietet einen schönen Blick auf den Kanal.",
+                "hu": "A nap utolsó útja szép kilátást nyújt a csatornára.",
+                "ro": "Ultima cursă a zilei oferă o vedere frumoasă spre canal.",
+                "en": "The day's final ride offers a great view of the canal."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Farte' App für Live-Fahrpläne.",
+              "Ein Tagesticket ist oft günstiger als Einzelfahrten.",
+              "Busse in Skien sind sauber und meist pünktlich.",
+              "Vermeiden Sie es, nasse Schirme auf die Sitze zu legen.",
+              "Die Haltestellenansagen helfen bei schlechter Sicht durch Regen."
+            ],
+            "hu": [
+              "Használja a 'Farte' alkalmazást az élő menetrendhez.",
+              "A napijegy gyakran olcsóbb, mint az egyedi jegyek.",
+              "A skieni buszok tiszták és általában pontosak.",
+              "Ne tegye a vizes esernyőt az ülésre.",
+              "A megálló-bemondások segítenek esőben a tájékozódásban."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Farte' pentru orare în timp real.",
+              "Un bilet de o zi este adesea mai avantajos.",
+              "Autobuzele din Skien sunt curate și punctuale.",
+              "Nu puneți umbrelele ude pe scaunele autobuzului.",
+              "Anunțurile vocale ajută la orientare când vizibilitatea e redusă."
+            ],
+            "en": [
+              "Download the 'Farte' app for real-time bus tracking.",
+              "A day pass is usually more cost-effective than single tickets.",
+              "Buses in Skien are clean, warm, and generally on time.",
+              "Avoid placing wet umbrellas on the bus seats.",
+              "Audio announcements help you find your stop in heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Start am winterlichen Landmannstorget, wo die Busse im Schnee warten. Mittag: Warme Fahrten verbinden die kulturellen Highlights von Skien. Nachmittag: Besuchen Sie das Ibsen-Museum und den verschneiten Brekkeparken mit dem öffentlichen Nahverkehr. Abend: Die beleuchtete Stadt zieht am Fenster vorbei, während Sie zum Bakkestranda und schließlich zurück zum Startpunkt fahren.",
+            "hu": "Reggel: Kezdés a téli Landmannstorgeten, ahol a buszok várnak a hóban. Délben: Meleg járatok kötik össze Skien kulturális fénypontjait. Délután: Látogassa meg az Ibsen Múzeumot és a havas Brekkeparkent tömegközlekedéssel. Este: A kivilágított város elsuhan az ablak előtt, miközben a Bakkestrandához, majd vissza a kiindulópontra utazik.",
+            "ro": "Dimineața: Start în Landmannstorget hibernal, unde autobuzele așteaptă în zăpadă. La prânz: Cursele călduroase conectează punctele culturale importante. După-amiaza: Vizitați Muzeul Ibsen și Brekkeparken înzăpezit cu transportul public. Seara: Orașul iluminat trece pe lângă fereastră în drum spre Bakkestranda și înapoi.",
+            "en": "Morning: Start at a wintry Landmannstorget, where buses wait in the snow. Midday: Warm bus rides connect Skien's cultural highlights. Afternoon: Visit the Ibsen Museum and snowy Brekkeparken via public transit. Evening: The illuminated city glides past the window as you travel to Bakkestranda and finally back to your starting point."
+          },
+          "stops": [
+            {
+              "name": "Landmannstorget (Bus Terminal)",
+              "tip_5lang": {
+                "de": "Der Terminalbereich ist im Winter beheizt.",
+                "hu": "A pályaudvar váróterme télen fűtött.",
+                "ro": "Zona terminalului este încălzită pe timp de iarnă.",
+                "en": "The terminal waiting area is heated during winter."
+              }
+            },
+            {
+              "name": "Handelstorget & Skien Kirke",
+              "tip_5lang": {
+                "de": "Busse sind im Winter der sicherste Weg durch die Stadt.",
+                "hu": "A busz télen a legbiztonságosabb közlekedési mód.",
+                "ro": "Autobuzul e cel mai sigur mod de transport iarna.",
+                "en": "Buses are the safest way to navigate the city in snow."
+              }
+            },
+            {
+              "name": "Brekkeparken",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Schritte vom Parkeingang entfernt.",
+                "hu": "A megálló csak pár lépésre van a park bejáratától.",
+                "ro": "Stația este la doar câțiva pași de intrarea în parc.",
+                "en": "The bus stop is just a few steps from the park gate."
+              }
+            },
+            {
+              "name": "Henrik Ibsen Museum",
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf glatte Stellen an der Haltestelle.",
+                "hu": "Leszálláskor ügyeljen a jeges foltokra a megállóban.",
+                "ro": "Atenție la porțiunile cu gheață când coborâți.",
+                "en": "Watch for icy patches when stepping off the bus."
+              }
+            },
+            {
+              "name": "Klosterøya",
+              "tip_5lang": {
+                "de": "Busse bieten eine willkommene Aufwärmpause.",
+                "hu": "A buszok kellemes felmelegedési lehetőséget nyújtanak.",
+                "ro": "Autobuzele oferă o pauză de încălzire binevenită.",
+                "en": "Buses provide a welcome chance to warm up between sites."
+              }
+            },
+            {
+              "name": "Telemark Canal",
+              "tip_5lang": {
+                "de": "Die Fahrten bieten tolle Ausblicke auf den gefrorenen Kanal.",
+                "hu": "Az utazás remek kilátást nyújt a befagyott csatornára.",
+                "ro": "Călătoria oferă vederi superbe spre canalul înghețat.",
+                "en": "The ride offers great views of the frozen canal landscape."
+              }
+            },
+            {
+              "name": "Bakkestranda",
+              "tip_5lang": {
+                "de": "Letzte Busse fahren auch bei starkem Schneefall meist zuverlässig.",
+                "hu": "Az utolsó buszok erős havazáskor is megbízhatóan járnak.",
+                "ro": "Ultimele autobuze sunt de încredere chiar și pe ninsoare.",
+                "en": "Final buses remain reliable even during heavy snowfall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft wärmer als Cafés.",
+              "Bei extremem Wetter kann es zu leichten Verspätungen kommen.",
+              "Tragen Sie Reflektoren, wenn Sie an unbeleuchteten Haltestellen warten.",
+              "Die Farte-App zeigt Verspätungen in Echtzeit an.",
+              "Schütteln Sie den Schnee von Ihrer Kleidung, bevor Sie einsteigen."
+            ],
+            "hu": [
+              "A buszok télen gyakran melegebbek, mint a kávézók.",
+              "Extrém időjárás esetén kisebb késések előfordulhatnak.",
+              "Viseljen fényvisszaverőt, ha kivilágítatlan megállóban vár.",
+              "A Farte alkalmazás valós időben mutatja a késéseket.",
+              "Rázza le a havat a ruhájáról, mielőtt felszállna."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea mai calde decât cafenelele iarna.",
+              "Pot apărea mici întârzieri în caz de vreme extremă.",
+              "Purtați elemente reflectorizante dacă așteptați în stații obscure.",
+              "Aplicația Farte indică întârzierile în timp real.",
+              "Scuturați zăpada de pe haine înainte de a urca în autobuz."
+            ],
+            "en": [
+              "Buses are often warmer than local cafes during cold spells.",
+              "Slight delays may occur during extreme snow conditions.",
+              "Wear safety reflectors when waiting at poorly lit stops.",
+              "Use the Farte app to track any weather-related delays.",
+              "Shake off loose snow from your clothes before boarding."
+            ]
+          }
+        }
       }
     }
   }

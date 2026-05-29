@@ -386,6 +386,206 @@
           "Don't forget your camera, the views of the Danube and the vineyards are beautiful.",
           "Some smaller museums may have limited opening hours, check them in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens nutzen wir die schmalen Gassen der Altstadt als natürlichen Regenschutz. Mittags bieten die Gozzoburg und die Stadtpfarrkirche trockene Rückzugsorte mit beeindruckender Architektur. Am Nachmittag konzentrieren wir uns auf die Kunstmeile, wo die Museen nur wenige Schritte voneinander entfernt liegen. Den Tag lassen wir in einem gemütlichen Weinlokal in der Steiner Landstraße ausklingen.",
+            "hu": "Reggel az óváros szűk, védett utcáin kezdünk a Városházánál, ahol az épületek némi fedezéket nyújtanak. Délben a Gozzoburg és a Szent Vitus-templom vastag falai között vészelhetjük át a záporokat. Délután a Művészeti Negyed fedett kiállítótereiben kalandozunk, amelyek közel fekszenek egymáshoz. Az estét egy hangulatos, Steiner környéki borozóban zárjuk, távol az esőtől.",
+            "ro": "Dimineața explorăm străzile înguste ale centrului vechi, care oferă adăpost natural împotriva ploii. La prânz, interiorul castelului Gozzoburg și biserica parohială sunt refugii perfecte și pline de istorie. După-amiaza este dedicată muzeelor de pe Kunstmeile, unde distanțele scurte dintre clădiri minimizează expunerea la apă. Seara ne relaxăm într-o tavernă locală primitoare din zona Stein.",
+            "en": "In the morning, we use the narrow alleys of the old town as natural shelter from the drizzle. At midday, Gozzoburg and the parish church provide dry sanctuaries with stunning interiors. The afternoon is focused on the Art Mile, where museums are just a few steps apart, minimizing time spent in the rain. We finish the day in a cozy wine tavern along Steiner Landstraße."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Old Market",
+              "tip_5lang": {
+                "de": "Die Arkaden des Rathauses bieten guten Schutz bei kurzen Schauern.",
+                "hu": "A városháza árkádjai alatt rövid ideig megpihenhetünk az eső elől.",
+                "ro": "Arcadele primăriei oferă un adăpost bun în timpul ploilor scurte.",
+                "en": "The town hall arcades provide good cover during brief showers."
+              }
+            },
+            {
+              "name": "Parish Church of St. Veit",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um das Regenwetter bei spiritueller Stille zu vergessen.",
+                "hu": "Tökéletes helyszín, hogy a csendben megvárjuk a zápor végét.",
+                "ro": "Un loc ideal pentru a uita de ploaie în liniște spirituală.",
+                "en": "An ideal place to wait out the rain in spiritual silence."
+              }
+            },
+            {
+              "name": "Gozzoburg",
+              "tip_5lang": {
+                "de": "Die Innenführung ist absolut wetterunabhängig und sehr lohnenswert.",
+                "hu": "A belső vezetés teljesen időjárásfüggetlen és rendkívül érdekes.",
+                "ro": "Turul interior este complet independent de vreme și merită vizitat.",
+                "en": "The indoor tour is completely weather-independent and very worthwhile."
+              }
+            },
+            {
+              "name": "Dominican Monastery",
+              "tip_5lang": {
+                "de": "Großzügige Innenräume des Museums bieten viel Platz zum Trocknen.",
+                "hu": "A múzeum tágas belső terei kiváló menedéket nyújtanak az esőben.",
+                "ro": "Spațiile interioare generoase ale muzeului oferă mult loc la adăpost.",
+                "en": "Spacious interior rooms of the museum offer plenty of dry space."
+              }
+            },
+            {
+              "name": "Steiner Tor",
+              "tip_5lang": {
+                "de": "Das Torhaus bietet nur kurz Schutz, nutzen Sie die nahen Cafés.",
+                "hu": "A kapu csak rövid védelmet ad, érdemes a közeli kávézókba beülni.",
+                "ro": "Poarta oferă doar adăpost temporar; folosiți cafenelele din apropiere.",
+                "en": "The gate offers only brief shelter; use the nearby cafes if it pours."
+              }
+            },
+            {
+              "name": "Kunsthalle Krems",
+              "tip_5lang": {
+                "de": "Perfekter Ort für einen ausgiebigen Museumsbesuch bei Dauerregen.",
+                "hu": "Ideális helyszín egy hosszabb múzeumlátogatáshoz tartós eső esetén.",
+                "ro": "Locul perfect pentru o vizită lungă la muzeu în caz de ploaie continuă.",
+                "en": "Perfect spot for an extensive museum visit during persistent rain."
+              }
+            },
+            {
+              "name": "Caricature Museum Krems",
+              "tip_5lang": {
+                "de": "Lachen vertreibt die Regenwolken; der Shop ist ebenfalls überdacht.",
+                "hu": "A nevetés elűzi a felhőket; a múzeumi bolt is fedett és érdekes.",
+                "ro": "Râsul alungă norii; magazinul muzeului este, de asemenea, acoperit.",
+                "en": "Laughter chases away the rain clouds; the shop is also undercover."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Enge Gasse', sie ist besser vor Wind und Schlagregen geschützt.",
+              "Die Museen der Kunstmeile sind durch kurze Wege verbunden, ideal bei Regen.",
+              "Tragen Sie rutschfeste Schuhe, das alte Kopfsteinpflaster wird bei Nässe glatt.",
+              "Ein Taschenschirm ist in den engen Gassen praktischer als ein großer Stockschirm."
+            ],
+            "hu": [
+              "Használja az 'Enge Gasse' szűk utcát, amely jobban véd a széltől és a verőfényes esőtől.",
+              "A Művészeti Negyed múzeumai közel vannak egymáshoz, így alig kell ázni közöttük.",
+              "Viseljen csúszásmentes talpú cipőt, mert a macskakő nedvesen síkossá válik.",
+              "A szűk utcákban egy kisméretű összecsukható esernyő praktikusabb az óriásinál."
+            ],
+            "ro": [
+              "Folosiți 'Enge Gasse', este mai bine protejată de vânt și de ploaia oblică.",
+              "Muzeele de pe Kunstmeile sunt legate prin distanțe scurte, ideal pe ploaie.",
+              "Purtați încălțăminte antiderapantă, pavajul vechi devine alunecos când este ud.",
+              "O umbrelă compactă este mai practică în zonele înguste decât una mare de golf."
+            ],
+            "en": [
+              "Use the 'Enge Gasse' alley; it is better protected from wind and driving rain.",
+              "The museums on the Art Mile are connected by short paths, ideal for rainy days.",
+              "Wear non-slip shoes, as the old cobblestones become slippery when wet.",
+              "A compact travel umbrella is more practical in narrow alleys than a large one."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch am Rathausmarkt, wo der Duft von heißem Tee in der Luft liegt. Mittags wärmen wir uns in der prächtigen Stadtpfarrkirche und bestaunen die barocke Kunst. Da die Sonne früh untergeht, genießen wir die stimmungsvolle Beleuchtung der Steiner Landstraße schon am Nachmittag. Den Tag beenden wir bei einem Glas Wachauer Marillenbrand in einer geheizten Weinstube.",
+            "hu": "A téli reggel frissen indul a városházi piacon, ahol forró italok illata száll a levegőben. Délben a barokk plébániatemplomban melegedhetünk fel, miközben a művészeti kincseket csodáljuk. Mivel korán sötétedik, már délután élvezhetjük a Steiner Landstraße hangulatos fényeit. A napot egy pohár melengető barackpálinkával zárjuk egy fűtött borozóban.",
+            "ro": "Dimineața de iarnă începe cu aer proaspăt în piața primăriei, unde se simte mirosul de ceai fierbinte. La prânz ne încălzim în biserica parohială, admirând arta barocă în liniște. Deoarece soarele apune devreme, ne bucurăm de iluminatul atmosferic al străzii Steiner Landstraße încă de după-amiază. Încheiem ziua cu un pahar de rachiu de caise într-o cramă încălzită.",
+            "en": "The winter morning starts crisp at the Town Hall market, with the scent of hot tea in the air. At midday, we warm up inside the magnificent parish church while admiring Baroque art. As the sun sets early, we enjoy the atmospheric lighting of Steiner Landstraße by late afternoon. We conclude the day with a glass of Wachau apricot brandy in a heated wine tavern."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Old Market",
+              "tip_5lang": {
+                "de": "Frühmorgens ist es hier am kältesten; ziehen Sie sich warm an.",
+                "hu": "Kora reggel itt a leghidegebb; öltözzön fel rétegesen és melegen.",
+                "ro": "Dimineața devreme este cel mai frig aici; îmbrăcați-vă gros.",
+                "en": "It is coldest here in the early morning; dress in warm layers."
+              }
+            },
+            {
+              "name": "Parish Church of St. Veit",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte, aber es ist windstill.",
+                "hu": "A vastag falak tartják a hideget, de legalább a szél nem fúj bent.",
+                "ro": "Zidurile groase păstrează frigul, dar în interior nu bate vântul.",
+                "en": "The thick walls keep out the wind, though it remains cool inside."
+              }
+            },
+            {
+              "name": "Gozzoburg",
+              "tip_5lang": {
+                "de": "Die Innenräume sind moderat temperiert, ideal zum Aufwärmen.",
+                "hu": "A belső terek mérsékelten fűtöttek, ideálisak a felmelegedéshez.",
+                "ro": "Interioarele sunt temperate moderat, ideale pentru a vă încălzi.",
+                "en": "The interiors are moderately tempered, ideal for warming up."
+              }
+            },
+            {
+              "name": "Dominican Monastery",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Klostermuseum für eine längere Pause im Warmen.",
+                "hu": "Látogasson el a kolostormúzeumba egy hosszabb meleg pihenőre.",
+                "ro": "Vizitați muzeul mănăstirii pentru o pauză mai lungă la căldură.",
+                "en": "Visit the monastery museum for an extended break in the warmth."
+              }
+            },
+            {
+              "name": "Steiner Tor",
+              "tip_5lang": {
+                "de": "Bei Dämmerung ist das Tor besonders fotogen beleuchtet.",
+                "hu": "Szürkületkor a kapu különösen fotogén a kivilágításnak köszönhetően.",
+                "ro": "La amurg, poarta este iluminată foarte frumos pentru fotografii.",
+                "en": "At twilight, the gate is beautifully illuminated for photos."
+              }
+            },
+            {
+              "name": "Kunsthalle Krems",
+              "tip_5lang": {
+                "de": "Genießen Sie die moderne Kunst in wohltemperierten Hallen.",
+                "hu": "Élvezze a modern művészetet a kellemesen fűtött csarnokokban.",
+                "ro": "Bucurați-vă de arta modernă în săli bine încălzite.",
+                "en": "Enjoy modern art in comfortably heated exhibition halls."
+              }
+            },
+            {
+              "name": "Caricature Museum Krems",
+              "tip_5lang": {
+                "de": "Ein humorvoller Abschluss, bevor es draußen richtig dunkel wird.",
+                "hu": "Humoros befejezés, mielőtt odakint teljesen besötétedne.",
+                "ro": "O încheiere plină de umor înainte de a se întuneca complet afară.",
+                "en": "A humorous way to end the tour before it gets dark outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glatteis auf den Treppen zur Oberstadt.",
+              "Die Sonne verschwindet im Winter gegen 16:30 Uhr hinter den Hügeln.",
+              "Kehren Sie zwischendurch in eines der traditionellen Kaffeehäuser ein.",
+              "Warme Socken sind wichtig, da man in Museen oft lange steht."
+            ],
+            "hu": [
+              "Vigyázzon a jegesedésre a felsővárosba vezető lépcsőkön.",
+              "Télen a nap már 16:30 körül eltűnik a dombok mögött.",
+              "Iktasson be pihenőket a hagyományos, fűtött kávéházakban.",
+              "A meleg zokni fontos, mivel a múzeumokban sokat kell állni a hideg padlón."
+            ],
+            "ro": [
+              "Atenție la polei pe scările care duc spre orașul de sus.",
+              "Iarna, soarele dispare după dealuri în jurul orei 16:30.",
+              "Faceți pauze în cafenelele tradiționale pentru a vă încălzi.",
+              "Șosetele groase sunt importante, deoarece în muzee se stă mult în picioare."
+            ],
+            "en": [
+              "Watch out for icy patches on the steps leading to the upper town.",
+              "In winter, the sun disappears behind the hills around 4:30 PM.",
+              "Take frequent breaks in traditional heated coffee houses.",
+              "Warm socks are essential, as you spend a lot of time standing in museums."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +942,188 @@
           "A bike lock is essential to park your bike safely during sightseeing.",
           "Many bike rentals also offer e-bikes, which makes the hills easier."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet wetterfest am Steiner Tor. Den Vormittag verbringen wir in den weitläufigen Museen der Kunstmeile, während das Fahrrad sicher geparkt ist. Mittags radeln wir ein kurzes Stück zur Stadtpfarrkirche für eine Regenpause. Am Nachmittag genießen wir trotz Nässe die frische Luft an der Donau, bevor wir den Tag an der Gozzoburg beenden.",
+            "hu": "A kerékpártúra vízhatlan felszerelésben indul a Steiner Tor-nál. A délelőttöt a Művészeti Negyed tágas múzeumaiban töltjük, miközben a biciklik biztonságban pihennek. Délben egy rövid tekeréssel elérjük a plébániatemplomot egy esőszünetre. Délután a nedvesség ellenére is élvezzük a Duna-parti friss levegőt, majd a Gozzoburgnál zárunk.",
+            "ro": "Turul cu bicicleta începe echipat pentru ploaie la Steiner Tor. Petrecem dimineața în muzeele spațioase de pe Kunstmeile, în timp ce bicicletele sunt parcate sigur. La prânz pedalăm puțin până la biserica parohială pentru o pauză de ploaie. După-amiaza ne bucurăm de aerul curat de pe malul Dunării, în ciuda umezelii, înainte de finalul de la Gozzoburg.",
+            "en": "The bike tour starts fully waterproofed at Steiner Tor. We spend the morning in the spacious museums of the Art Mile while the bikes are safely parked. At midday, we cycle a short distance to the parish church for a rain break. In the afternoon, we enjoy the fresh air along the Danube despite the wet, before ending the day at Gozzoburg."
+          },
+          "stops": [
+            {
+              "name": "Steiner Tor",
+              "tip_5lang": {
+                "de": "Vorsicht beim Losfahren; das Pflaster unter dem Tor ist rutschig.",
+                "hu": "Vigyázat induláskor; a kapu alatti kövezet nedvesen csúszik.",
+                "ro": "Atenție la plecare; pavajul de sub poartă este alunecos.",
+                "en": "Careful when starting off; the pavement under the gate is slippery."
+              }
+            },
+            {
+              "name": "Kunsthalle & Caricature Museum",
+              "tip_5lang": {
+                "de": "Es gibt überdachte Fahrradständer direkt vor den Museen.",
+                "hu": "Közvetlenül a múzeumok előtt fedett kerékpártárolók találhatók.",
+                "ro": "Există suporturi de biciclete acoperite chiar în fața muzeelor.",
+                "en": "There are covered bike racks directly in front of the museums."
+              }
+            },
+            {
+              "name": "Dominican Monastery",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Museum, um Ihre Kleidung etwas zu trocknen.",
+                "hu": "Használja ki a múzeumban töltött időt a ruházata szárítására.",
+                "ro": "Folosiți timpul petrecut în muzeu pentru a vă usca puțin hainele.",
+                "en": "Use the time in the museum to let your gear dry out a bit."
+              }
+            },
+            {
+              "name": "Parish Church of St. Veit",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad in der Fußgängerzone bei Nässe besonders vorsichtig.",
+                "hu": "A sétálóövezetben nedves időben különös óvatossággal tolja a biciklit.",
+                "ro": "Împingeți bicicleta cu grijă în zona pietonală dacă pavajul este ud.",
+                "en": "Push your bike carefully in the pedestrian zone if it's wet."
+              }
+            },
+            {
+              "name": "Bike ride along the Danube",
+              "tip_5lang": {
+                "de": "Der Radweg ist asphaltiert und bietet auch bei Regen guten Grip.",
+                "hu": "A kerékpárút aszfaltozott, így esőben is jó a tapadása.",
+                "ro": "Pista de biciclete este asfaltată și oferă aderență bună și pe ploaie.",
+                "en": "The bike path is paved and offers good grip even in the rain."
+              }
+            },
+            {
+              "name": "Gozzoburg",
+              "tip_5lang": {
+                "de": "Ein steiler Anstieg; achten Sie auf nasse Blätter auf dem Boden.",
+                "hu": "Meredek emelkedő; figyeljen az úton lévő nedves levelekre.",
+                "ro": "O urcare abruptă; atenție la frunzele ude de pe jos.",
+                "en": "A steep climb; watch out for wet leaves on the ground."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Vermeiden Sie abruptes Bremsen auf dem Kopfsteinpflaster der Altstadt.",
+              "Wasserdichte Packtaschen halten Ihre Ausrüstung trocken.",
+              "Der Wind an der Donau kann den Regen intensiver wirken lassen."
+            ],
+            "hu": [
+              "A sárvédő használata ilyen időben elengedhetetlen.",
+              "Kerülje a hirtelen fékezést az óváros macskaköves utcáin.",
+              "A vízhatlan táskák szárazon tartják a felszerelését.",
+              "A dunai szél miatt az eső intenzívebbnek tűnhet."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe o astfel de vreme.",
+              "Evitați frânările bruște pe pavajul din centrul vechi.",
+              "Gentile impermeabile vă vor păstra echipamentul uscat.",
+              "Vântul de pe malul Dunării poate face ploaia să pară mai intensă."
+            ],
+            "en": [
+              "Fenders on your bike are indispensable in this weather.",
+              "Avoid sudden braking on the cobblestones in the old town.",
+              "Waterproof panniers will keep your belongings dry.",
+              "Wind along the Danube can make the rain feel more intense."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag auf dem Rad beginnt erfrischend am Steiner Tor. Wir verbringen viel Zeit in den geheizten Museen der Kunstmeile, um der Kälte zu entkommen. Mittags führt eine kurze Fahrt zur Stadtpfarrkirche, bevor wir die winterliche Ruhe an der Donau genießen. Da es früh dämmert, beenden wir unsere Tour bei Flutlicht-Atmosphäre an der Gozzoburg.",
+            "hu": "A téli biciklis nap frissítően indul a Steiner Tor-nál. Sok időt töltünk a Művészeti Negyed fűtött múzeumaiban, hogy elmeneküljünk a hideg elől. Délben egy rövid tekeréssel a plébániatemplomhoz érünk, majd élvezzük a Duna téli nyugalmát. Mivel korán sötétedik, a túrát már esti kivilágítás mellett zárjuk a Gozzoburgnál.",
+            "ro": "Ziua de iarnă pe bicicletă începe revigorant la Steiner Tor. Petrecem mult timp în muzeele încălzite de pe Kunstmeile pentru a scăpa de frig. La prânz, o scurtă plimbare ne duce la biserica parohială, înainte de a ne bucura de liniștea iernii pe Dunăre. Deoarece se întunecă devreme, încheiem turul la Gozzoburg sub lumina reflectoarelor.",
+            "en": "The winter bike day starts refreshingly at Steiner Tor. We spend plenty of time in the heated museums of the Art Mile to escape the cold. At midday, a short ride leads to the parish church before we enjoy the wintry silence of the Danube. As it gets dark early, we finish our tour under the atmospheric lights at Gozzoburg."
+          },
+          "stops": [
+            {
+              "name": "Steiner Tor",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe; der Fahrtwind ist im Winter beißend.",
+                "hu": "Viseljen meleg kesztyűt; a menetszél télen metsző tud lenni.",
+                "ro": "Purtați mănuși groase; vântul este tăios iarna când pedalați.",
+                "en": "Wear warm gloves; the wind chill is biting in winter."
+              }
+            },
+            {
+              "name": "Kunsthalle & Caricature Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Winterkleidung abzulegen.",
+                "hu": "Használja a ruhatárat, hogy letegye a nehéz téli ruházatot.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă.",
+                "en": "Use the cloakroom to drop off heavy winter layers."
+              }
+            },
+            {
+              "name": "Dominican Monastery",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine Pause, weit weg vom kalten Wind.",
+                "hu": "Csendes hely egy pihenőhöz, távol a hideg széltől.",
+                "ro": "Un loc liniștit pentru o pauză, departe de vântul rece.",
+                "en": "A quiet spot for a break, far away from the cold wind."
+              }
+            },
+            {
+              "name": "Parish Church of St. Veit",
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Eisstellen auf dem Kirchplatz.",
+                "hu": "Figyeljen az esetleges jeges foltokra a templomtéren.",
+                "ro": "Atenție la posibilele porțiuni cu gheață din piața bisericii.",
+                "en": "Watch out for potential icy patches on the church square."
+              }
+            },
+            {
+              "name": "Bike ride along the Danube",
+              "tip_5lang": {
+                "de": "Die Fernsicht auf die verschneiten Weinberge ist oft fantastisch.",
+                "hu": "A kilátás a havas szőlőhegyekre gyakran lenyűgöző.",
+                "ro": "Priveliștea spre podgoriile înzăpezite este adesea fantastică.",
+                "en": "The view of the snow-dusted vineyards is often fantastic."
+              }
+            },
+            {
+              "name": "Gozzoburg",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Beleuchtung; es wird jetzt schnell dunkel.",
+                "hu": "Ellenőrizze a világítását; ilyenkor már gyorsan sötétedik.",
+                "ro": "Verificați luminile; se întunecă foarte repede acum.",
+                "en": "Check your lights; it gets dark very quickly now."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermounterwäsche schützt effektiv vor dem Auskühlen.",
+              "Die Donaupromenade kann im Winter sehr zugig sein.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+              "Warme Getränke in einer Thermoskanne sind ein guter Begleiter."
+            ],
+            "hu": [
+              "A thermo-aláöltözet hatékonyan véd a kihűlés ellen.",
+              "A dunai sétány télen nagyon huzatos lehet.",
+              "Győződjön meg róla, hogy a kerékpár kivilágítása tökéletesen működik.",
+              "A termoszos forró ital jó társ a téli tekeréshez."
+            ],
+            "ro": [
+              "Lenjeria termică protejează eficient împotriva frigului.",
+              "Promenada Dunării poate fi foarte expusă vântului iarna.",
+              "Asigurați-vă că luminile bicicletei funcționează impecabil.",
+              "Băuturile calde într-un termos sunt un companion bun."
+            ],
+            "en": [
+              "Thermal underwear effectively protects against the cold.",
+              "The Danube promenade can be very drafty in winter.",
+              "Make sure your bike lights are in perfect working order.",
+              "Hot drinks in a thermos are a great companion for the ride."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1504,206 @@
           "The roads in the Wachau valley are narrow and winding, drive carefully.",
           "Plan time for spontaneous stops at beautiful viewpoints."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Tage in Krems lassen sich ideal mit dem Auto bewältigen. Wir nutzen die Parkgaragen direkt an der Kunstmeile, um trocken zu den Museen zu gelangen. Mittags parken wir nahe der Altstadt für einen kurzen Fußweg zur Gozzoburg. Der Komfort des Autos ermöglicht es uns, zwischen den Sehenswürdigkeiten im Trockenen zu bleiben.",
+            "hu": "Az esős napok Kremsben autóval a legkényelmesebbek. A Művészeti Negyed parkolóházait használjuk, hogy száraz lábbal jussunk a múzeumokba. Délben az óvároshoz közel parkolunk, így csak rövid ideig kell az esőben gyalogolnunk a Gozzoburgig. Az autó kényelme lehetővé teszi, hogy szárazon maradjunk a helyszínek között.",
+            "ro": "Zilele ploioase în Krems sunt ușor de gestionat cu mașina. Folosim parcările acoperite de pe Kunstmeile pentru a ajunge uscați la muzee. La prânz parcăm aproape de centrul vechi pentru un drum scurt pe jos până la Gozzoburg. Confortul mașinii ne permite să rămânem la adăpost între obiectivele turistice.",
+            "en": "Rainy days in Krems are best managed by car. We use the parking garages right on the Art Mile to reach the museums without getting wet. At midday, we park near the old town for a short walk to Gozzoburg. The comfort of the car allows us to stay dry between the various sights."
+          },
+          "stops": [
+            {
+              "name": "Art Mile Parking Garage",
+              "tip_5lang": {
+                "de": "Perfekter Startpunkt, um völlig trocken in die Museen zu kommen.",
+                "hu": "Tökéletes kiindulópont, hogy teljesen szárazon jusson a múzeumokba.",
+                "ro": "Punct de plecare perfect pentru a ajunge la muzee fără a vă uda.",
+                "en": "Perfect starting point to reach the museums completely dry."
+              }
+            },
+            {
+              "name": "Caricature Museum Krems",
+              "tip_5lang": {
+                "de": "Direkter Zugang vom Parkdeck ist fast möglich.",
+                "hu": "A parkolótól szinte közvetlen a bejutás a múzeumba.",
+                "ro": "Accesul este aproape direct de la nivelul parcării.",
+                "en": "Access is almost direct from the parking levels."
+              }
+            },
+            {
+              "name": "Kunsthalle Krems",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Sprint durch den Regen vom Parkhaus.",
+                "hu": "Csak egy rövid sprint az esőben a parkolóháztól.",
+                "ro": "Doar un scurt sprint prin ploaie de la parcare.",
+                "en": "Only a short sprint through the rain from the parking garage."
+              }
+            },
+            {
+              "name": "Parking at Steiner Landstraße",
+              "tip_5lang": {
+                "de": "Oft belegt, nutzen Sie bei starkem Regen die Garagen.",
+                "hu": "Gyakran foglalt; heves esőben inkább a garázsokat válassza.",
+                "ro": "Adesea ocupată; pe ploaie puternică, folosiți garajele.",
+                "en": "Often full; in heavy rain, prefer the parking garages."
+              }
+            },
+            {
+              "name": "Steiner Tor",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto, bevor es zurück ins Auto geht.",
+                "hu": "Rövid megálló egy fotóra, mielőtt visszatérne az autóba.",
+                "ro": "O oprire scurtă pentru o fotografie înainte de a reveni la mașină.",
+                "en": "A brief stop for a photo before returning to the car."
+              }
+            },
+            {
+              "name": "Parking garage at the Campus",
+              "tip_5lang": {
+                "de": "Sicherer und trockener Parkplatz für den Altstadtbesuch.",
+                "hu": "Biztonságos és száraz parkolóhely az óvárosi látogatáshoz.",
+                "ro": "Loc de parcare sigur și uscat pentru vizitarea centrului vechi.",
+                "en": "Safe and dry parking spot for visiting the old town."
+              }
+            },
+            {
+              "name": "Gozzoburg & Parish Church",
+              "tip_5lang": {
+                "de": "Planen Sie 5 Minuten Fußweg im Regen von der Garage ein.",
+                "hu": "Számoljon 5 perc gyaloglással az esőben a garázstól.",
+                "ro": "Calculați 5 minute de mers prin ploaie de la garaj.",
+                "en": "Plan for a 5-minute walk in the rain from the garage."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkgaragen sind bei Regen die beste Wahl, um trocken zu bleiben.",
+              "Haben Sie einen Regenschirm im Auto für die kurzen Wege zu den Toren.",
+              "Die Sicht kann bei starkem Regen in den engen Gassen eingeschränkt sein.",
+              "Nutzen Sie die App für Parkgebühren, um nicht am Automaten im Regen zu stehen."
+            ],
+            "hu": [
+              "Esőben a parkolóházak a legjobb választások a szárazon maradáshoz.",
+              "Tartson esernyőt az autóban a kapukig tartó rövid utakhoz.",
+              "Heves esőben a szűk utcákban korlátozott lehet a látótávolság.",
+              "Használjon parkolási applikációt, hogy ne kelljen az esőben az automatánál állni."
+            ],
+            "ro": [
+              "Garajele de parcare sunt cea mai bună alegere pentru a rămâne uscat.",
+              "Țineți o umbrelă în mașină pentru drumurile scurte spre porți.",
+              "Vizibilitatea poate fi redusă pe ploaie puternică pe străzile înguste.",
+              "Folosiți o aplicație de parcare pentru a nu sta la automat în ploaie."
+            ],
+            "en": [
+              "Parking garages are your best bet for staying dry in the rain.",
+              "Keep an umbrella in the car for short walks to the city gates.",
+              "Visibility can be limited in narrow streets during heavy rain.",
+              "Use a parking app to avoid standing at the ticket machine in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter genießen wir die beheizte Fahrt durch das malerische Krems. Wir parken bequem in der Nähe der Kunstmeile und besuchen die warmen Museen. Mittags wechseln wir zum Campus-Parkhaus, um die winterliche Altstadt und die Gozzoburg zu erkunden. Das Auto dient als willkommene Aufwärmstation zwischen den historischen Stopps.",
+            "hu": "Télen élvezzük a fűtött utazást a festői Kremsben. Kényelmesen parkolunk a Művészeti Negyed közelében, és felkeressük a meleg múzeumokat. Délben a Campus parkolóházba költözünk, hogy felfedezzük a téli óvárost és a Gozzoburgot. Az autó kellemes melegedőhelyként szolgál a történelmi megállók között.",
+            "ro": "Iarna ne bucurăm de călătoria încălzită prin pitorescul Krems. Parcăm confortabil lângă Kunstmeile și vizităm muzeele călduroase. La prânz ne mutăm în parcarea de la Campus pentru a explora centrul vechi și Gozzoburg. Mașina servește ca stație de încălzire între opririle istorice.",
+            "en": "In winter, we enjoy the heated drive through picturesque Krems. We park conveniently near the Art Mile and visit the warm museums. At midday, we move to the Campus parking garage to explore the wintry old town and Gozzoburg. The car serves as a welcome warming station between the historical stops."
+          },
+          "stops": [
+            {
+              "name": "Art Mile Parking Garage",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Eiskratzen durch Parken in der Garage.",
+                "hu": "Kerülje el a jégkaparást a garázsban való parkolással.",
+                "ro": "Evitați curățarea gheții parcând în garajul acoperit.",
+                "en": "Avoid ice scraping by parking inside the garage."
+              }
+            },
+            {
+              "name": "Caricature Museum Krems",
+              "tip_5lang": {
+                "de": "Kurze Wege sind im Winter ein Segen.",
+                "hu": "A rövid utak télen igazi áldást jelentenek.",
+                "ro": "Drumurile scurte sunt o binecuvântare iarna.",
+                "en": "Short walking distances are a blessing in winter."
+              }
+            },
+            {
+              "name": "Kunsthalle Krems",
+              "tip_5lang": {
+                "de": "Die Cafeteria bietet heiße Schokolade zum Aufwärmen.",
+                "hu": "A kávézóban forró csokoládéval melegedhetünk fel.",
+                "ro": "Cafeneaua oferă ciocolată caldă pentru încălzire.",
+                "en": "The cafeteria offers hot chocolate to warm you up."
+              }
+            },
+            {
+              "name": "Parking at Steiner Landstraße",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneehaufen am Straßenrand.",
+                "hu": "Vigyázzon az útmenti hórakásokra parkoláskor.",
+                "ro": "Atenție la mormanele de zăpadă de pe marginea drumului.",
+                "en": "Watch out for snow piles along the roadside."
+              }
+            },
+            {
+              "name": "Steiner Tor",
+              "tip_5lang": {
+                "de": "Bei Schnee sieht das Tor wie im Märchen aus.",
+                "hu": "Hóban a kapu úgy néz ki, mintha egy tündérmeséből lépett volna elő.",
+                "ro": "Când ninge, poarta arată ca într-un basm.",
+                "en": "When it snows, the gate looks like something out of a fairy tale."
+              }
+            },
+            {
+              "name": "Parking garage at the Campus",
+              "tip_5lang": {
+                "de": "Gut beleuchtet und sicher, auch wenn es früh dunkel wird.",
+                "hu": "Jól kivilágított és biztonságos, még akkor is, ha korán sötétedik.",
+                "ro": "Bine iluminată și sigură, chiar dacă se întunecă devreme.",
+                "en": "Well-lit and safe, even when it gets dark early."
+              }
+            },
+            {
+              "name": "Gozzoburg & Parish Church",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich für den Rundgang in der Burg warm an.",
+                "hu": "A várnézéshez öltözzön fel nagyon melegen.",
+                "ro": "Îmbrăcați-vă gros pentru turul castelului.",
+                "en": "Dress warmly for the tour inside the castle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser Region absolut gesetzliche Pflicht.",
+              "Achten Sie auf Räumfahrzeuge in den engen Gassen.",
+              "Die Batterieleistung kann bei extremer Kälte nachlassen.",
+              "Die Parkhäuser sind oft etwas wärmer als die Außenparkplätze."
+            ],
+            "hu": [
+              "A téli gumi használata ebben a régióban kötelező.",
+              "Figyeljen a hókotrókra a szűk utcákban.",
+              "Extrém hidegben az akkumulátor teljesítménye csökkenhet.",
+              "A parkolóházakban gyakran valamivel melegebb van, mint kint."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în această regiune.",
+              "Atenție la utilajele de deszăpezire pe străzile înguste.",
+              "Performanța bateriei poate scădea la temperaturi extreme.",
+              "Parcările acoperite sunt adesea ceva mai calde decât cele exterioare."
+            ],
+            "en": [
+              "Winter tires are a legal requirement in this region.",
+              "Watch out for snowplows in the narrow streets.",
+              "Battery performance can drop in extreme cold.",
+              "Parking garages are often slightly warmer than outdoor lots."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1502,6 +2084,206 @@
           "Check the bus schedule, especially on weekends and in the evening.",
           "Most stops are clearly marked, but a public transport app can be helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn bleiben wir in Krems weitgehend trocken. Vom Bahnhof bringt uns der Bus direkt zur Kunstmeile, wo wir den Vormittag in den Museen verbringen. Mittags fahren wir zur Altstadt, um Steiner Tor und Gozzoburg wettergeschützt zu erreichen. Die kurzen Wege zwischen den Haltestellen und Sehenswürdigkeiten sind ideal bei Regen.",
+            "hu": "Busszal és vonattal Kremsben nagyrészt szárazon maradhatunk. A vasútállomástól busz visz közvetlenül a Művészeti Negyedbe, ahol a délelőttöt töltjük. Délben az óvárosba utazunk, hogy védett módon érjük el a Steiner Tor-t és a Gozzoburgot. A megállók és a látnivalók közötti rövid távolságok ideálisak esőben.",
+            "ro": "Cu autobuzul și trenul rămânem în mare parte uscați în Krems. De la gară, autobuzul ne duce direct la Kunstmeile, unde petrecem dimineața în muzee. La prânz mergem spre centrul vechi pentru a ajunge la Steiner Tor și Gozzoburg protejați de vreme. Distanțele scurte între stații și obiective sunt ideale pe ploaie.",
+            "en": "By bus and train, we stay largely dry in Krems. From the station, the bus takes us directly to the Art Mile, where we spend the morning. At midday, we travel to the old town to reach Steiner Tor and Gozzoburg while protected from the elements. The short distances between stops and sights are ideal for rainy weather."
+          },
+          "stops": [
+            {
+              "name": "Krems Train Station",
+              "tip_5lang": {
+                "de": "Die Wartehalle ist beheizt und bietet Schutz vor Wind.",
+                "hu": "A váróterem fűtött és védelmet nyújt a szél ellen.",
+                "ro": "Sala de așteptare este încălzită și oferă protecție contra vântului.",
+                "en": "The waiting hall is heated and offers shelter from the wind."
+              }
+            },
+            {
+              "name": "Kunstmeile/Steinertor Stop",
+              "tip_5lang": {
+                "de": "Die Haltestelle hat ein Dach, man bleibt beim Warten trocken.",
+                "hu": "A megálló fedett, így várakozás közben is száraz maradhat.",
+                "ro": "Stația are acoperiș, deci veți rămâne uscați în timp ce așteptați.",
+                "en": "The bus stop is covered, so you stay dry while waiting."
+              }
+            },
+            {
+              "name": "Kunsthalle & Caricature Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die 15 Minuten Fußweg zu sparen.",
+                "hu": "Használja a buszt, hogy megspóroljon 15 perc gyaloglást az esőben.",
+                "ro": "Folosiți autobuzul pentru a economisi 15 minute de mers prin ploaie.",
+                "en": "Take the bus to save yourself a 15-minute walk in the rain."
+              }
+            },
+            {
+              "name": "Steiner Tor",
+              "tip_5lang": {
+                "de": "Nur wenige Meter von der Haltestelle entfernt.",
+                "hu": "Csak néhány méterre található a buszmegállótól.",
+                "ro": "La doar câțiva metri distanță de stația de autobuz.",
+                "en": "Located just a few meters away from the bus stop."
+              }
+            },
+            {
+              "name": "Theaterplatz Stop",
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt mit Unterstand.",
+                "hu": "Központi átszállási pont esővédővel.",
+                "ro": "Punct central de transfer cu adăpost.",
+                "en": "Central transfer point with a shelter."
+              }
+            },
+            {
+              "name": "Town Hall & Dominican Monastery",
+              "tip_5lang": {
+                "de": "Ein kurzer, aber nasser Fußweg durch die Altstadt.",
+                "hu": "Rövid, de nedves séta az óvároson keresztül.",
+                "ro": "Un drum scurt, dar ud, prin centrul vechi.",
+                "en": "A short but wet walk through the old town."
+              }
+            },
+            {
+              "name": "Gozzoburg & Parish Church",
+              "tip_5lang": {
+                "de": "Der Bus bringt Sie fast bis vor die Tür der Kirche.",
+                "hu": "A busz szinte a templom bejáratáig viszi Önt.",
+                "ro": "Autobuzul vă duce aproape până în fața bisericii.",
+                "en": "The bus brings you almost to the doorstep of the church."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Fahrpläne der Stadtbusse, sie fahren oft halbstündlich.",
+              "Ein Tagesticket ist bei Regen die komfortabelste Lösung.",
+              "Die Busse sind gut klimatisiert und die Scheiben beschlagen selten.",
+              "Am Bahnhof gibt es Schließfächer für nasse Schirme oder Taschen."
+            ],
+            "hu": [
+              "Ellenőrizze a városi buszok menetrendjét, gyakran félóránként járnak.",
+              "Esőben a napijegy a legkényelmesebb megoldás.",
+              "A buszok jól klimatizáltak, az ablakok ritkán párásodnak.",
+              "A vasútállomáson csomagmegőrző szekrények vannak a nedves táskáknak."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor urbane; circulă adesea la 30 de minute.",
+              "Un bilet de o zi este cea mai confortabilă soluție pe ploaie.",
+              "Autobuzele sunt bine climatizate, iar geamurile se aburesc rar.",
+              "La gară există dulapuri pentru umbrele ude sau bagaje."
+            ],
+            "en": [
+              "Check the city bus schedules; they often run every half hour.",
+              "A day ticket is the most convenient solution in rainy weather.",
+              "Buses are well-ventilated, so windows rarely fog up.",
+              "There are lockers at the train station for wet umbrellas or bags."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag mit den Öffis beginnt warm im Zug nach Krems. Die Stadtbusse sind gut geheizt und bringen uns bequem zur Kunstmeile. Mittags nutzen wir den Transit zur Altstadt, um die frostige Luft nur auf kurzen Wegen zu spüren. Die hell erleuchteten Busse bieten am späten Nachmittag einen sicheren Rückweg zum Bahnhof.",
+            "hu": "A tömegközlekedős téli nap melegben indul a Kremsbe tartó vonaton. A városi buszok jól fűtöttek, és kényelmesen elvisznek a Művészeti Negyedbe. Délben az óvárosba utazunk, így csak rövid ideig kell a fagyos levegőn lennünk. A kivilágított buszok késő délután biztonságos visszautat kínálnak a vasútállomásra.",
+            "ro": "Ziua de iarnă cu transportul public începe la căldură în trenul spre Krems. Autobuzele urbane sunt bine încălzite și ne duc confortabil la Kunstmeile. La prânz folosim transportul spre centrul vechi pentru a simți aerul înghețat doar pe distanțe scurte. Autobuzele luminate oferă o cale sigură de întoarcere la gară după-amiaza târziu.",
+            "en": "The winter day with public transit starts warmly on the train to Krems. City buses are well-heated and take us comfortably to the Art Mile. At midday, we use transit to reach the old town, keeping our exposure to the frosty air minimal. The brightly lit buses provide a safe return to the station in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Krems Train Station",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Kaffee im Bahnhofsshop.",
+                "hu": "Vegyen egy forró kávét a vasútállomás boltjában.",
+                "ro": "Luați o cafea fierbinte de la magazinul din gară.",
+                "en": "Grab a hot coffee at the station shop."
+              }
+            },
+            {
+              "name": "Kunstmeile/Steinertor Stop",
+              "tip_5lang": {
+                "de": "Die Wartezeit beträgt im Winter selten mehr als 10 Minuten.",
+                "hu": "A várakozási idő télen ritkán több 10 percnél.",
+                "ro": "Timpul de așteptare iarna este rar mai mare de 10 minute.",
+                "en": "Waiting times in winter are rarely more than 10 minutes."
+              }
+            },
+            {
+              "name": "Kunsthalle & Caricature Museum",
+              "tip_5lang": {
+                "de": "Die Museen sind perfekte Wärmespeicher für den Vormittag.",
+                "hu": "A múzeumok tökéletes helyszínek a délelőtti felmelegedéshez.",
+                "ro": "Muzeele sunt locuri perfecte pentru a vă încălzi dimineața.",
+                "en": "The museums are perfect places to stay warm during the morning."
+              }
+            },
+            {
+              "name": "Steiner Tor",
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp direkt an der Bushaltestelle.",
+                "hu": "Gyors fotómegálló közvetlenül a buszmegállónál.",
+                "ro": "O oprire rapidă pentru poze chiar lângă stația de autobuz.",
+                "en": "A quick photo stop right next to the bus stop."
+              }
+            },
+            {
+              "name": "Theaterplatz Stop",
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf glatte Bordsteinkanten.",
+                "hu": "Leszálláskor ügyeljen a csúszós járdaszegélyekre.",
+                "ro": "Atenție la marginile alunecoase ale trotuarului la coborâre.",
+                "en": "Watch out for slippery curb edges when getting off the bus."
+              }
+            },
+            {
+              "name": "Town Hall & Dominican Monastery",
+              "tip_5lang": {
+                "de": "In der Altstadt sind die Wege im Winter oft gestreut.",
+                "hu": "Az óvárosban az utakat télen gyakran felszórják a csúszás ellen.",
+                "ro": "În centrul vechi, drumurile sunt adesea presărate cu sare iarna.",
+                "en": "In the old town, paths are often gritted in winter."
+              }
+            },
+            {
+              "name": "Gozzoburg & Parish Church",
+              "tip_5lang": {
+                "de": "Die letzte Fahrt zurück zum Bahnhof ist meist gut besetzt.",
+                "hu": "Az utolsó járat a vasútállomásra általában elég zsúfolt.",
+                "ro": "Ultima cursă înapoi spre gară este de obicei destul de plină.",
+                "en": "The last trip back to the station is usually quite busy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Im Winter können Busse witterungsbedingt leichte Verspätungen haben.",
+              "Die VOR-A-Bus App zeigt Echtzeit-Abfahrten an.",
+              "Heißgetränke sind in den Bussen meist in geschlossenen Bechern erlaubt.",
+              "Nutzen Sie die Unterführung am Bahnhof, um dem kalten Wind zu entgehen."
+            ],
+            "hu": [
+              "Télen a buszok az időjárás miatt kisebb késéssel járhatnak.",
+              "A VOR-A-Bus alkalmazás valós idejű indulásokat mutat.",
+              "A buszokon a forró italok általában csak zárt pohárban megengedettek.",
+              "Használja a vasútállomás aluljáróját a hideg szél elkerülése érdekében."
+            ],
+            "ro": [
+              "Iarna, autobuzele pot avea mici întârzieri din cauza vremii.",
+              "Aplicația VOR-A-Bus afișează plecările în timp real.",
+              "Băuturile calde sunt de obicei permise în autobuz în pahare închise.",
+              "Folosiți pasajul subteran de la gară pentru a evita vântul rece."
+            ],
+            "en": [
+              "In winter, buses may experience slight delays due to weather.",
+              "The VOR-A-Bus app shows real-time departures.",
+              "Hot drinks are usually allowed on buses in closed containers.",
+              "Use the station underpass to escape the biting cold wind."
+            ]
+          }
+        }
       }
     }
   }

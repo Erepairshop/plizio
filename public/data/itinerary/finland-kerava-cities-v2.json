@@ -300,6 +300,188 @@
           "Museums can get crowded, plan your visit on a weekday if possible.",
           "Take advantage of the many green spaces for short breaks."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Sampola Centre, wo Sie Schutz vor dem Regen finden, bevor Sie zur Kirche von Kerava weitergehen. Der Vormittag gehört der Kunst im Sinkka-Zentrum, ideal bei schlechtem Wetter. Nachmittags erkunden Sie die Geschichte in Heikkilä und das Herrenhaus Kerava, wobei Sie die kurzen Wege nutzen. Der Tag endet ruhig am Aurinkomäki, wenn der Regen nachlässt.",
+            "hu": "Kezdje a napot a Sampola központban, ahol fedett helyen készülhet fel az esős sétára a közeli templomig. A délelőtt a Sinkka Művészeti Központé, amely tökéletes menedék a csapadék elől. Délután látogasson el a Heikkilä Múzeumba és a Kerava-kúriához, kihasználva a beltéri kiállításokat. Az este az Aurinkomäki dombon zárul, ahol az eső utáni friss levegőt élvezheti.",
+            "ro": "Începeți ziua la Centrul Sampola, oferind adăpost înainte de a merge la biserica din Kerava. Dimineața este dedicată artei la centrul Sinkka, ideal pentru vreme nefavorabilă. După-amiaza, explorați istoria la Heikkilä și conacul Kerava, profitând de expozițiile interioare. Ziua se încheie liniștit la Aurinkomäki, profitând de aerul proaspăt de după ploaie.",
+            "en": "Start your day at Sampola Centre, providing cover before walking to Kerava Church. The morning is dedicated to art at the Sinkka Centre, perfect for rainy weather. In the afternoon, explore history at Heikkilä and Kerava Manor, taking advantage of the indoor exhibits. The day ends quietly at Aurinkomäki, enjoying the fresh air after the rain."
+          },
+          "stops": [
+            {
+              "name": "Sampola Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Zentrums, um trocken zu bleiben.",
+                "hu": "Használja a központ árkádjait, hogy száraz maradjon.",
+                "ro": "Folosiți arcadele centrului pentru a rămâne uscat.",
+                "en": "Use the center's arcades to stay dry."
+              }
+            },
+            {
+              "name": "Church of Kerava",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den Regenschauer abzuwarten.",
+                "hu": "Csendes hely az eső elől való behúzódásra.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea ploii.",
+                "en": "A quiet place to wait out the rain shower."
+              }
+            },
+            {
+              "name": "Sinkka Art and Museum Centre",
+              "tip_5lang": {
+                "de": "Ideales Ziel für einen ausgiebigen Museumsbesuch im Trockenen.",
+                "hu": "Ideális célpont egy hosszú, fedett múzeumlátogatáshoz.",
+                "ro": "Destinație ideală pentru o vizită lungă la muzeu, la adăpost.",
+                "en": "Ideal destination for a long museum visit indoors."
+              }
+            },
+            {
+              "name": "Heikkilä Local History Museum",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Holzwegen im Außenbereich.",
+                "hu": "Vigyázat a csúszós fapadlókkal a kültéri részeken.",
+                "ro": "Atenție la potecile de lemn alunecoase din zonele exterioare.",
+                "en": "Watch out for slippery wooden paths in the outdoor areas."
+              }
+            },
+            {
+              "name": "Kerava Manor",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Café auf, während es draußen regnet.",
+                "hu": "Melegedjen meg a kávézóban, amíg kint esik.",
+                "ro": "Încălziți-vă la cafenea în timp ce afară plouă.",
+                "en": "Warm up in the cafe while it rains outside."
+              }
+            },
+            {
+              "name": "Aurinkomäki (Sun Hill)",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind auch bei Nässe gut begehbar.",
+                "hu": "Az aszfaltozott utak esőben is jól járhatóak.",
+                "ro": "Potecile asfaltate sunt ușor de parcurs chiar și pe ploaie.",
+                "en": "The paved paths are easy to walk even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da einige Wege in Museen unbefestigt sind.",
+              "Ein kompakter Regenschirm ist in den Windböen von Kerava praktischer.",
+              "Nutzen Sie die Bibliothek im Sampola Centre als kostenlosen Pausenort.",
+              "Planen Sie mehr Zeit für die Museumsbesuche ein, um Schauer zu überbrücken."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a múzeumok körüli utak néhol sárosak lehetnek.",
+              "Egy kompakt esernyő praktikusabb Kerava szeles utcáin.",
+              "Használja a Sampola központ könyvtárát ingyenes pihenőhelyként.",
+              "Tervezzen több időt a múzeumlátogatásokra az eső elkerülése végett."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece unele poteci pot fi noroioase.",
+              "O umbrelă compactă este mai practică pe străzile vântoase din Kerava.",
+              "Folosiți biblioteca din Centrul Sampola ca loc de odihnă gratuit.",
+              "Alocați mai mult timp vizitelor la muzeu pentru a evita aversele."
+            ],
+            "en": [
+              "Wear waterproof shoes as paths around museums can be muddy.",
+              "A compact umbrella is more practical in Kerava's windy streets.",
+              "Use the library in Sampola Centre as a free rest stop.",
+              "Plan more time for museum visits to avoid the rain showers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Kerava, beginnend im warmen Sampola Centre. Ein kurzer Spaziergang führt zur verschneiten Kirche, bevor Sie den Vormittag im gut beheizten Sinkka-Museum verbringen. Mittags besuchen Sie das Heikkilä-Museum und das Kerava-Herrenhaus, die im Schnee besonders malerisch wirken. Beenden Sie den Tag frühzeitig am Aurinkomäki, bevor die Dunkelheit gegen 15:30 Uhr einsetzt.",
+            "hu": "Fedezze fel a téli Keravát a meleg Sampola központból indulva. Rövid séta vezet a havas templomhoz, majd a délelőttöt a jól fűtött Sinkka Múzeumban töltheti. Délután a Heikkilä Múzeum és a Kerava-kúria havas tája várja, amely ilyenkor rendkívül festői. Fejezze be a napot korán az Aurinkomäki dombon, mielőtt 15:30 körül besötétedik.",
+            "ro": "Experimentați Kerava de iarnă, începând din Centrul Sampola călduros. O scurtă plimbare duce la biserica înzăpezită, înainte de a petrece dimineața la muzeul Sinkka bine încălzit. După-amiaza, vizitați muzeul Heikkilä și conacul Kerava, care arată pitoresc în zăpadă. Încheiați ziua devreme la Aurinkomäki, înainte de lăsarea întunericului în jurul orei 15:30.",
+            "en": "Experience winter in Kerava, starting from the warm Sampola Centre. A short walk leads to the snowy church before spending the morning at the well-heated Sinkka Museum. In the afternoon, visit Heikkilä Museum and Kerava Manor, which look picturesque in the snow. End the day early at Aurinkomäki before darkness sets in around 15:30."
+          },
+          "stops": [
+            {
+              "name": "Sampola Centre",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Kakao für den Spaziergang.",
+                "hu": "Vegyél egy forró kakaót a sétához.",
+                "ro": "Luați o ciocolată caldă pentru plimbare.",
+                "en": "Grab a hot cocoa for your walk."
+              }
+            },
+            {
+              "name": "Church of Kerava",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Weihnachtsbeleuchtung in der Dämmerung.",
+                "hu": "Csodálja meg a karácsonyi fényeket a szürkületben.",
+                "ro": "Admirați luminile de Crăciun în amurg.",
+                "en": "Admire the Christmas lights at twilight."
+              }
+            },
+            {
+              "name": "Sinkka Art and Museum Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Winterkleidung abzulegen.",
+                "hu": "Használja a ruhatárat a nehéz téli ruhák lerakásához.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă.",
+                "en": "Use the cloakroom to drop off heavy winter coats."
+              }
+            },
+            {
+              "name": "Heikkilä Local History Museum",
+              "tip_5lang": {
+                "de": "Das Gelände ist oft rutschig; festes Schuhwerk ist Pflicht.",
+                "hu": "A terület gyakran csúszós; a stabil lábbeli kötelező.",
+                "ro": "Terenul este adesea alunecos; încălțămintea solidă este obligatorie.",
+                "en": "The grounds are often slippery; sturdy footwear is a must."
+              }
+            },
+            {
+              "name": "Kerava Manor",
+              "tip_5lang": {
+                "de": "Die beleuchtete Fassade bietet ein tolles Fotomotiv im Schnee.",
+                "hu": "A kivilágított homlokzat remek fotótéma a hóban.",
+                "ro": "Fațada iluminată oferă o oportunitate foto excelentă în zăpadă.",
+                "en": "The illuminated facade offers a great photo op in the snow."
+              }
+            },
+            {
+              "name": "Aurinkomäki (Sun Hill)",
+              "tip_5lang": {
+                "de": "Ein beliebter Ort zum Rodeln für Kinder bei Schnee.",
+                "hu": "Népszerű szánkózóhely gyerekeknek hó esetén.",
+                "ro": "Un loc popular pentru săniuș în caz de zăpadă.",
+                "en": "A popular spot for sledding if there is snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schichten, da es in Museen warm, draußen aber eiskalt ist.",
+              "Die Sonne geht bereits gegen 15:30 Uhr unter.",
+              "Einige Außenbereiche von Museen könnten bei starkem Schneefall gesperrt sein.",
+              "Achten Sie auf Glatteis auf den Gehwegen im Stadtzentrum."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a múzeumokban meleg, kint viszont fagyos az idő.",
+              "A nap már 15:30 körül lemegy.",
+              "Erős havazás esetén a múzeumok egyes kültéri részei lezárhatók.",
+              "Ügyeljen a jegesedésre a városközpont járdáin."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, e cald în muzee și ger afară.",
+              "Soarele apune deja în jurul orei 15:30.",
+              "Unele zone exterioare ale muzeelor pot fi închise în caz de ninsoare abundentă.",
+              "Atenție la gheața de pe trotuarele din centrul orașului."
+            ],
+            "en": [
+              "Dress in layers; it's warm in museums but freezing outside.",
+              "The sun sets as early as 15:30.",
+              "Some outdoor areas of museums might be closed during heavy snowfall.",
+              "Watch out for black ice on city center sidewalks."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -617,6 +799,206 @@
           "A helmet is strongly recommended.",
           "Kerava is relatively flat, but there are some gentle slopes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Kerava per Rad trotz des Regens auf gut ausgebauten Radwegen. Starten Sie am Sampola Centre und radeln Sie zur Kirche und zum Sinkka-Museum, wo Sie lange Pausen im Trockenen einlegen können. Nachmittags führt die Route zum Kerava-Herrenhaus und nach Heikkilä. Den Abschluss bildet das Savio-Industriegebiet, wo die historischen Backsteingebäude im Regen besonders markant wirken.",
+            "hu": "Fedezze fel Keravát kerékpárral az eső ellenére a jól kiépített kerékpárutakon. Kezdje a Sampola központnál, majd tekerjen a templomhoz és a Sinkka Múzeumhoz, ahol hosszabb időt tölthet fedett helyen. Délután az út a Kerava-kúriához és Heikkiläbe vezet. A napot a Savio ipari negyed zárja, ahol a történelmi téglaépületek esőben is karakteresek.",
+            "ro": "Explorați Kerava cu bicicleta în ciuda ploii pe pistele bine întreținute. Începeți la Centrul Sampola, apoi pedalați spre biserică și muzeul Sinkka pentru pauze lungi la adăpost. După-amiaza, traseul duce la conacul Kerava și Heikkilä. Finalul este în zona industrială Savio, unde clădirile istorice din cărămidă arată marcant pe ploaie.",
+            "en": "Explore Kerava by bike despite the rain on well-maintained paths. Start at Sampola Centre, then cycle to the church and Sinkka Museum for long indoor breaks. In the afternoon, the route leads to Kerava Manor and Heikkilä. The day ends at the Savio Industrial Area, where historic brick buildings look striking in the rain."
+          },
+          "stops": [
+            {
+              "name": "Sampola Centre",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Fedett kerékpártárolók találhatók a bejárat közelében.",
+                "ro": "Rasteluri de biciclete acoperite se află lângă intrare.",
+                "en": "Covered bike racks are located near the entrance."
+              }
+            },
+            {
+              "name": "Church of Kerava",
+              "tip_5lang": {
+                "de": "Vorsicht vor nassem Laub auf dem Kirchplatz.",
+                "hu": "Vigyázzon a nedves levelekre a templomtéren.",
+                "ro": "Atenție la frunzele ude din piața bisericii.",
+                "en": "Watch out for wet leaves in the church square."
+              }
+            },
+            {
+              "name": "Sinkka Art and Museum Centre",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Regenjacke zu trocknen.",
+                "hu": "Tökéletes hely az esőkabát megszárítására.",
+                "ro": "Locul perfect pentru a vă usca pelerina de ploaie.",
+                "en": "Perfect place to dry your raincoat."
+              }
+            },
+            {
+              "name": "Kerava Manor",
+              "tip_5lang": {
+                "de": "Die Zuwege können bei starkem Regen etwas matschig sein.",
+                "hu": "A bekötőutak heves esőzéskor sárosak lehetnek.",
+                "ro": "Drumurile de acces pot fi noroioase în caz de ploaie torențială.",
+                "en": "Access roads can be muddy during heavy rain."
+              }
+            },
+            {
+              "name": "Aurinkomäki (Sun Hill)",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Bremswirkung bei nassen Felgen.",
+                "hu": "Ügyeljen a fékhatásra nedves felnik esetén.",
+                "ro": "Atenție la eficiența frânării pe jante ude.",
+                "en": "Watch your braking distance with wet rims."
+              }
+            },
+            {
+              "name": "Heikkilä Local History Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad auf befestigtem Untergrund ab.",
+                "hu": "A kerékpárt szilárd talajon parkolja le.",
+                "ro": "Parcați bicicleta pe o suprafață solidă.",
+                "en": "Park your bike on solid ground."
+              }
+            },
+            {
+              "name": "Savio Industrial Area",
+              "tip_5lang": {
+                "de": "Industrie-Charme, der auch bei grauem Himmel wirkt.",
+                "hu": "Ipari báj, amely szürke égbolt alatt is érvényesül.",
+                "ro": "Farmec industrial care funcționează și sub cerul gri.",
+                "en": "Industrial charm that works even under gray skies."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollständige Regenmontur inklusive Überschuhen.",
+              "Prüfen Sie Ihre Bremsen vor der Fahrt, da Nässe den Bremsweg verlängert.",
+              "Vermeiden Sie metallische Oberflächen wie Kanaldeckel bei Nässe.",
+              "Ein Sattelschutz hält Ihren Sitz während der Museumsbesuche trocken."
+            ],
+            "hu": [
+              "Viseljen teljes esőfelszerelést, beleértve a kamáslit is.",
+              "Indulás előtt ellenőrizze a fékeket, a nedvesség növeli a féktávot.",
+              "Esőben kerülje a fémfelületeket, például a csatornafedeleket.",
+              "Egy nyeregvédő szárazon tartja az ülést a múzeumlátogatások alatt."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, inclusiv protecții pentru pantofi.",
+              "Verificați frânele înainte de drum, umezeala prelungește distanța de frânare.",
+              "Evitați suprafețele metalice, cum ar fi capacele de canal, pe timp de ploaie.",
+              "O protecție pentru șa vă menține scaunul uscat în timpul vizitelor."
+            ],
+            "en": [
+              "Wear full rain gear including shoe covers.",
+              "Check your brakes before starting; wetness increases braking distance.",
+              "Avoid metal surfaces like manhole covers when wet.",
+              "A saddle cover keeps your seat dry during museum visits."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Radfahren in Kerava erfordert Ausrüstung, bietet aber leere Wege. Beginnen Sie am Sampola Centre und besuchen Sie die Kirche, bevor Sie sich im Sinkka-Museum aufwärmen. Die Route führt weiter zum Kerava-Herrenhaus und nach Heikkilä durch verschneite Parks. Der Tag endet im Savio-Industriegebiet, wo die Beleuchtung der alten Fabriken in der frühen Dunkelheit für Atmosphäre sorgt.",
+            "hu": "A téli kerékpározás Keravában felszerelést igényel, de üres utakat kínál. Kezdjen a Sampola központnál, látogasson el a templomhoz, majd melegedjen fel a Sinkka Múzeumban. Az út a Kerava-kúriához és Heikkiläbe folytatódik havas parkokon át. A nap a Savio ipari negyedben ér véget, ahol a régi gyárak fényei hangulatosak a korai sötétben.",
+            "ro": "Ciclismul de iarnă în Kerava necesită echipament, dar oferă piste libere. Începeți la Centrul Sampola și vizitați biserica înainte de a vă încălzi la muzeul Sinkka. Traseul continuă spre conacul Kerava și Heikkilä prin parcuri înzăpezite. Ziua se încheie în zona industrială Savio, unde luminile fabricilor vechi creează atmosferă în întunericul timpuriu.",
+            "en": "Winter cycling in Kerava requires gear but offers empty paths. Start at Sampola Centre and visit the church before warming up at Sinkka Museum. The route continues to Kerava Manor and Heikkilä through snowy parks. The day ends at the Savio Industrial Area, where factory lights create atmosphere in the early darkness."
+          },
+          "stops": [
+            {
+              "name": "Sampola Centre",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradlichter funktionieren.",
+                "hu": "Győződjön meg róla, hogy a kerékpárlámpák működnek.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează.",
+                "en": "Make sure your bike lights are working."
+              }
+            },
+            {
+              "name": "Church of Kerava",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schneematsch auf dem Vorplatz.",
+                "hu": "Vigyázzon a latyakra a templom előtti téren.",
+                "ro": "Atenție la fleșcăraia din fața bisericii.",
+                "en": "Watch out for slush in the church square."
+              }
+            },
+            {
+              "name": "Sinkka Art and Museum Centre",
+              "tip_5lang": {
+                "de": "Geben Sie Helm und Handschuhe an der Garderobe ab.",
+                "hu": "Adja le a sisakot és a kesztyűt a ruhatárban.",
+                "ro": "Lăsați casca și mănușile la garderobă.",
+                "en": "Leave your helmet and gloves in the cloakroom."
+              }
+            },
+            {
+              "name": "Kerava Manor",
+              "tip_5lang": {
+                "de": "Die Alleen sind bei Schnee oft nur schmal geräumt.",
+                "hu": "A fasorokat hóban gyakran csak keskenyen takarítják.",
+                "ro": "Aleile sunt adesea deszăpezite doar parțial în caz de ninsoare.",
+                "en": "Tree-lined paths are often only narrowly cleared in snow."
+              }
+            },
+            {
+              "name": "Aurinkomäki (Sun Hill)",
+              "tip_5lang": {
+                "de": "Meiden Sie steile, vereiste Abfahrten im Park.",
+                "hu": "Kerülje a meredek, jeges lejtőket a parkban.",
+                "ro": "Evitați coborârile abrupte și înghețate din parc.",
+                "en": "Avoid steep, icy descents in the park."
+              }
+            },
+            {
+              "name": "Heikkilä Local History Museum",
+              "tip_5lang": {
+                "de": "Ein historischer Ort, der im Winterschlaf ruht.",
+                "hu": "Történelmi hely, amely téli álmot alszik.",
+                "ro": "Un loc istoric aflat în amorțire hibernală.",
+                "en": "A historic place resting in winter hibernation."
+              }
+            },
+            {
+              "name": "Savio Industrial Area",
+              "tip_5lang": {
+                "de": "Die Fahrt nach Savio kann bei Gegenwind sehr kalt sein.",
+                "hu": "A Savio felé vezető út szembeszélben nagyon hideg lehet.",
+                "ro": "Drumul spre Savio poate fi foarte rece în caz de vânt frontal.",
+                "en": "The ride to Savio can be very cold with a headwind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen sind auf Finnlands Winterwegen sehr zu empfehlen.",
+              "Tragen Sie winddichte Kleidung und warme Handschuhe.",
+              "Die Fahrradwege werden in Kerava meist vorrangig geräumt.",
+              "Planen Sie die Rückfahrt vor 16 Uhr ein, wenn es dunkel wird."
+            ],
+            "hu": [
+              "A szöges gumiabroncsok erősen ajánlottak Finnország téli útjain.",
+              "Viseljen szélálló ruházatot és meleg kesztyűt.",
+              "Keravában a kerékpárutakat általában elsőbbséggel takarítják.",
+              "Tervezze a visszautat 16 óra elé, amikor sötétedni kezd."
+            ],
+            "ro": [
+              "Anvelopele cu ținte sunt recomandate pe drumurile de iarnă din Finlanda.",
+              "Purtați haine rezistente la vânt și mănuși groase.",
+              "Pistele de biciclete din Kerava sunt de obicei deszăpezite cu prioritate.",
+              "Planificați drumul de întoarcere înainte de ora 16, când se întunecă."
+            ],
+            "en": [
+              "Studded tires are highly recommended on Finland's winter paths.",
+              "Wear windproof clothing and warm gloves.",
+              "Bike paths in Kerava are usually cleared with priority.",
+              "Plan your return trip before 16:00 as it gets dark."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -911,6 +1293,188 @@
           "Plan your route in advance to minimize driving time.",
           "A GPS or navigation app is very helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine komfortable Tour durch Kerava im trockenen Auto. Starten Sie im Savio-Industriegebiet und besuchen Sie anschließend das herrschaftliche Kerava-Herrenhaus. Den regnerischen Vormittag verbringen Sie im Sinkka-Museum. Nachmittags erkunden Sie Heikkilä und das Stadtzentrum am Sampola Centre, bevor Sie den Tag am Aurinkomäki ausklingen lassen, wo Sie bequem in der Nähe parken können.",
+            "hu": "Élvezze a kényelmes keravai túrát a száraz autóban. Kezdjen a Savio ipari negyedben, majd látogasson el a tekintélyes Kerava-kúriához. Az esős délelőttöt töltse a Sinkka Múzeumban. Délután fedezze fel Heikkilät és a városközpontot a Sampola központnál, mielőtt a napot az Aurinkomäki dombnál zárná, ahol kényelmesen parkolhat a közelben.",
+            "ro": "Bucurați-vă de un tur confortabil în Kerava, în mașina uscată. Începeți în zona industrială Savio, apoi vizitați impunătorul conac Kerava. Petreceți dimineața ploioasă la muzeul Sinkka. După-amiaza, explorați Heikkilä și centrul orașului la Sampola Centre, înainte de a încheia ziua la Aurinkomäki, unde puteți parca convenabil în apropiere.",
+            "en": "Enjoy a comfortable tour of Kerava in a dry car. Start at the Savio Industrial Area, then visit the grand Kerava Manor. Spend the rainy morning at the Sinkka Museum. In the afternoon, explore Heikkilä and the city center at Sampola Centre before ending the day at Aurinkomäki, with convenient parking nearby."
+          },
+          "stops": [
+            {
+              "name": "Savio Industrial Area",
+              "tip_5lang": {
+                "de": "Große Parkplätze direkt bei den alten Fabrikhallen.",
+                "hu": "Nagy parkolók közvetlenül a régi gyárak mellett.",
+                "ro": "Parcări mari chiar lângă vechile hale industriale.",
+                "en": "Large parking lots right by the old factory halls."
+              }
+            },
+            {
+              "name": "Kerava Manor",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem markierten Platz, um Schlamm zu vermeiden.",
+                "hu": "Parkoljon a kijelölt helyen, hogy elkerülje a sarat.",
+                "ro": "Parcați în locul marcat pentru a evita noroiul.",
+                "en": "Park in the designated area to avoid mud."
+              }
+            },
+            {
+              "name": "Sinkka Art and Museum Centre",
+              "tip_5lang": {
+                "de": "Parkhaus in der Nähe bietet komplett trockenen Zugang.",
+                "hu": "A közeli parkolóház teljesen száraz kijutást biztosít.",
+                "ro": "Parcarea supraetajată din apropiere oferă acces uscat.",
+                "en": "Nearby parking garage offers completely dry access."
+              }
+            },
+            {
+              "name": "Heikkilä Local History Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie keine Wertsachen sichtbar im Auto.",
+                "hu": "Ne hagyjon értéktárgyakat látható helyen az autóban.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
+                "en": "Do not leave valuables visible in the car."
+              }
+            },
+            {
+              "name": "Sampola Centre",
+              "tip_5lang": {
+                "de": "Zentrales Parken ermöglicht schnellen Zugang zu Geschäften.",
+                "hu": "A központi parkolás gyors hozzáférést biztosít az üzletekhez.",
+                "ro": "Parcarea centrală permite accesul rapid la magazine.",
+                "en": "Central parking allows quick access to shops."
+              }
+            },
+            {
+              "name": "Aurinkomäki (Sun Hill)",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum Aussichtspunkt.",
+                "hu": "Rövid séta a parkolótól a kilátópontig.",
+                "ro": "Scurtă plimbare de la parcare până la punctul de belvedere.",
+                "en": "Short walk from the parking lot to the viewpoint."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Hauptstraße nach Savio.",
+              "Halten Sie einen Regenschirm für die Wege vom Parkplatz bereit.",
+              "Die Parkuhren in Kerava akzeptieren meist Apps.",
+              "Nutzen Sie die Sitzheizung für die kurzen Fahrten zwischen den Stopps."
+            ],
+            "hu": [
+              "Ügyeljen a vízfelúszásra a Savio felé vezető főúton.",
+              "Tartson kéznél esernyőt a parkolótól vezető utakra.",
+              "Keravában a parkolóórák többsége alkalmazással is működik.",
+              "Használja az ülésfűtést a megállók közötti rövid utakon."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul principal spre Savio.",
+              "Aveți o umbrelă la îndemână pentru drumul de la parcare.",
+              "Parcometrele din Kerava acceptă în mare parte aplicații.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte între opriri."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the main road to Savio.",
+              "Keep an umbrella ready for the walks from the parking lot.",
+              "Most parking meters in Kerava accept mobile apps.",
+              "Use seat heating for the short drives between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kerava im Winter ist mit dem Auto am stressfreiesten. Beginnen Sie in Savio und bewundern Sie das Kerava-Herrenhaus im Schnee. Das Sinkka-Museum bietet Wärme während des Vormittags. Nachmittags geht es nach Heikkilä und zum Sampola Centre für Besorgungen im Warmen. Den Tag schließen Sie am Aurinkomäki ab, wo die Winterbeleuchtung für eine magische Atmosphäre sorgt.",
+            "hu": "A téli Kerava autóval a legnyugodtabb. Kezdjen Savióban, és csodálja meg a Kerava-kúriát a hóban. A Sinkka Múzeum meleget kínál a délelőtt folyamán. Délután látogasson el Heikkiläbe és a Sampola központba melegben intézhető ügyekhez. A napot az Aurinkomäki dombnál zárja, ahol a téli kivilágítás varázslatos hangulatot áraszt.",
+            "ro": "Kerava iarna este cel mai puțin stresantă cu mașina. Începeți în Savio și admirați conacul Kerava în zăpadă. Muzeul Sinkka oferă căldură pe parcursul dimineții. După-amiaza mergeți la Heikkilä și la Centrul Sampola pentru cumpărături la căldură. Încheiați ziua la Aurinkomäki, unde iluminatul de iarnă creează o atmosferă magică.",
+            "en": "Winter in Kerava is stress-free by car. Start in Savio and admire Kerava Manor in the snow. Sinkka Museum offers warmth during the morning. In the afternoon, head to Heikkilä and Sampola Centre for errands in the warm. End the day at Aurinkomäki, where winter lighting creates a magical atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Savio Industrial Area",
+              "tip_5lang": {
+                "de": "Parkplätze werden hier meist gut geräumt.",
+                "hu": "A parkolókat itt általában jól takarítják.",
+                "ro": "Parcările de aici sunt de obicei bine deszăpezite.",
+                "en": "Parking lots here are usually well cleared."
+              }
+            },
+            {
+              "name": "Kerava Manor",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneewehen auf der Zufahrtsstraße.",
+                "hu": "Vigyázzon a hóátfúvásokkal a bekötőúton.",
+                "ro": "Atenție la troienele de zăpadă de pe drumul de acces.",
+                "en": "Watch out for snowdrifts on the access road."
+              }
+            },
+            {
+              "name": "Sinkka Art and Museum Centre",
+              "tip_5lang": {
+                "de": "Das warme Parkhaus ist ideal, um das Auto abzutauen.",
+                "hu": "A meleg parkolóház ideális az autó leolvasztásához.",
+                "ro": "Parcarea încălzită este ideală pentru dezghețarea mașinii.",
+                "en": "The warm parking garage is ideal for defrosting the car."
+              }
+            },
+            {
+              "name": "Heikkilä Local History Museum",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Neuschnee schwer passierbar sein.",
+                "hu": "A parkoló friss hóban nehezen járható lehet.",
+                "ro": "Parcarea poate fi greu accesibilă în caz de zăpadă proaspătă.",
+                "en": "The parking lot can be difficult to access in fresh snow."
+              }
+            },
+            {
+              "name": "Sampola Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgarage für einen schneefreien Stopp.",
+                "hu": "Használja a mélygarázst a hómentes megállóhoz.",
+                "ro": "Folosiți parcarea subterană pentru o oprire fără zăpadă.",
+                "en": "Use the underground parking for a snow-free stop."
+              }
+            },
+            {
+              "name": "Aurinkomäki (Sun Hill)",
+              "tip_5lang": {
+                "de": "Die Parkplätze am Straßenrand können durch Schneehaufen verengt sein.",
+                "hu": "Az útmenti parkolókat hóbuckák szűkíthetik le.",
+                "ro": "Parcările de la marginea drumului pot fi îngustate de mormane de zăpadă.",
+                "en": "Roadside parking may be narrowed by snow piles."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Finnland gesetzlich vorgeschrieben.",
+              "Halten Sie einen Eiskratzer und eine Schneeschaufel im Kofferraum bereit.",
+              "Planen Sie mehr Zeit für das Einparken bei Schnee ein.",
+              "Achten Sie auf Wildtiere, die im Winter oft die Straßen kreuzen."
+            ],
+            "hu": [
+              "A téli gumi Finnországban törvényi előírás.",
+              "Tartson jégkaparót és hólapátot a csomagtartóban.",
+              "Hagyjon több időt a parkolásra hó esetén.",
+              "Ügyeljen a vadon élő állatokra, amelyek télen gyakran keresztezik az utat."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Finlanda.",
+              "Aveți o răzuitoare de gheață și o lopată de zăpadă în portbagaj.",
+              "Alocați mai mult timp pentru parcare în caz de zăpadă.",
+              "Atenție la animalele sălbatice care traversează adesea drumul iarna."
+            ],
+            "en": [
+              "Winter tires are legally required in Finland.",
+              "Keep an ice scraper and a snow shovel in the trunk.",
+              "Allow more time for parking in snowy conditions.",
+              "Watch out for wildlife crossing the roads in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1205,6 +1769,188 @@
           "Check bus schedules in advance, especially on weekends.",
           "The HSL app is essential for real-time route planning."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das effiziente Bussystem von Kerava, um trocken zwischen den Sehenswürdigkeiten zu wechseln. Starten Sie am Sampola Centre direkt am Bahnhof. Besuchen Sie die Kirche und das Sinkka-Museum per Kurzstrecke. Nachmittags bringen Sie lokale Busse nach Heikkilä und zum Kerava-Herrenhaus. Der Tag endet bequem im Stadtzentrum, wo Sie geschützte Wartehallen finden.",
+            "hu": "Használja Kerava hatékony buszhálózatát, hogy szárazon utazhasson a látnivalók között. Kezdjen a Sampola központnál, közvetlenül a vasútállomás mellett. Látogasson el a templomhoz és a Sinkka Múzeumhoz rövid buszúttal. Délután helyi járatok viszik Heikkiläbe és a Kerava-kúriához. A nap kényelmesen a városközpontban zárul, ahol fedett várók várják.",
+            "ro": "Utilizați sistemul eficient de autobuze din Kerava pentru a călători uscat între atracții. Începeți la Centrul Sampola, chiar lângă gară. Vizitați biserica și muzeul Sinkka cu o scurtă călătorie. După-amiaza, autobuzele locale vă duc la Heikkilä și la conacul Kerava. Ziua se încheie confortabil în centrul orașului, unde găsiți stații adăpostite.",
+            "en": "Use Kerava's efficient bus system to travel dry between sights. Start at Sampola Centre right by the train station. Visit the church and Sinkka Museum with a short ride. In the afternoon, local buses take you to Heikkilä and Kerava Manor. The day ends comfortably in the city center, where you'll find sheltered bus stops."
+          },
+          "stops": [
+            {
+              "name": "Sampola Centre",
+              "tip_5lang": {
+                "de": "Direkter Zugang zum Bahnhof und Busbahnhof unter Dach.",
+                "hu": "Közvetlen fedett kijárat a vasút- és autóbusz-állomáshoz.",
+                "ro": "Acces direct acoperit la gară și autogară.",
+                "en": "Direct sheltered access to the train and bus station."
+              }
+            },
+            {
+              "name": "Church of Kerava",
+              "tip_5lang": {
+                "de": "Bushaltestelle befindet sich fast direkt vor dem Kircheneingang.",
+                "hu": "A buszmegálló szinte közvetlenül a templombejárat előtt van.",
+                "ro": "Stația de autobuz este aproape direct în fața intrării în biserică.",
+                "en": "Bus stop is almost directly in front of the church entrance."
+              }
+            },
+            {
+              "name": "Sinkka Art and Museum Centre",
+              "tip_5lang": {
+                "de": "Kurzer, meist asphaltierter Weg von der Haltestelle.",
+                "hu": "Rövid, többnyire aszfaltozott út a megállótól.",
+                "ro": "Drum scurt, în mare parte asfaltat, de la stație.",
+                "en": "Short, mostly paved walk from the bus stop."
+              }
+            },
+            {
+              "name": "Heikkilä Local History Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan, da Busse hier seltener halten.",
+                "hu": "Ellenőrizze a menetrendet, mert itt ritkábban járnak a buszok.",
+                "ro": "Verificați orarul, deoarece autobuzele opresc aici mai rar.",
+                "en": "Check the schedule as buses stop here less frequently."
+              }
+            },
+            {
+              "name": "Kerava Manor",
+              "tip_5lang": {
+                "de": "Warten Sie im Manor-Café auf den Bus zurück.",
+                "hu": "Várja a visszajáratot a kúria kávézójában.",
+                "ro": "Așteptați autobuzul de întoarcere la cafeneaua conacului.",
+                "en": "Wait for the return bus in the manor cafe."
+              }
+            },
+            {
+              "name": "Aurinkomäki (Sun Hill)",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt mit vielen Verbindungen auch bei Regen.",
+                "hu": "Központi csomópont számos csatlakozással esőben is.",
+                "ro": "Nod central cu multe conexiuni chiar și pe ploaie.",
+                "en": "Central hub with many connections even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die HSL-App für Echtzeit-Infos und Ticketkauf.",
+              "Wartehallen in Kerava bieten guten Schutz vor Wind und Regen.",
+              "Die Busse sind klimatisiert und bieten Zeit zum Trocknen.",
+              "An Wochentagen verkehren die Busse im 15-Minuten-Takt."
+            ],
+            "hu": [
+              "Használja a HSL alkalmazást valós idejű infókért és jegyvásárláshoz.",
+              "A keravai buszvárók jó védelmet nyújtanak szél és eső ellen.",
+              "A buszok légkondicionáltak, így van idő megszáradni.",
+              "Hétköznapokon a buszok 15 percenként járnak."
+            ],
+            "ro": [
+              "Utilizați aplicația HSL pentru informații în timp real și bilete.",
+              "Stațiile de autobuz oferă protecție bună împotriva vântului și ploii.",
+              "Autobuzele sunt climatizate, oferind timp pentru a vă usca.",
+              "În zilele lucrătoare, autobuzele circulă la intervale de 15 minute."
+            ],
+            "en": [
+              "Use the HSL app for real-time info and ticket purchases.",
+              "Bus shelters in Kerava provide good protection from wind and rain.",
+              "Buses are climate-controlled, giving you time to dry off.",
+              "On weekdays, buses run every 15 minutes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Trotzen Sie der finnischen Kälte mit dem gut beheizten ÖPNV in Kerava. Starten Sie am Sampola Centre und nutzen Sie die kurzen Wege zur Kirche und zum Sinkka-Museum. Die Busse bringen Sie zuverlässig zum Kerava-Herrenhaus und nach Heikkilä. Den Tag beenden Sie am Aurinkomäki, von wo aus Sie schnell zurück zum warmen Bahnhof kommen, bevor der Frost am Abend anzieht.",
+            "hu": "Dacoljon a finn hideggel a jól fűtött tömegközlekedéssel Keravában. Kezdjen a Sampola központnál, és használja ki a templomhoz és a Sinkka Múzeumhoz vezető rövid utakat. A buszok megbízhatóan elviszik a Kerava-kúriához és Heikkiläbe. A napot az Aurinkomäki dombnál zárja, ahonnan gyorsan visszatérhet a meleg vasútállomásra.",
+            "ro": "Înfruntați gerul finlandez cu transportul public bine încălzit din Kerava. Începeți la Centrul Sampola și profitați de drumurile scurte spre biserică și muzeul Sinkka. Autobuzele vă duc în siguranță la conacul Kerava și Heikkilä. Încheiați ziua la Aurinkomäki, de unde puteți reveni rapid la gara călduroasă.",
+            "en": "Brave the Finnish cold with well-heated public transit in Kerava. Start at Sampola Centre and take advantage of the short trips to the church and Sinkka Museum. Buses reliably take you to Kerava Manor and Heikkilä. End the day at Aurinkomäki, from where you can quickly return to the warm train station."
+          },
+          "stops": [
+            {
+              "name": "Sampola Centre",
+              "tip_5lang": {
+                "de": "Warten Sie im Bahnhofsgebäude, bis der Bus angezeigt wird.",
+                "hu": "Várjon az állomás épületében, amíg a busz megérkezik.",
+                "ro": "Așteptați în clădirea gării până când autobuzul este afișat.",
+                "en": "Wait inside the station building until the bus is shown."
+              }
+            },
+            {
+              "name": "Church of Kerava",
+              "tip_5lang": {
+                "de": "Der Weg zur Haltestelle kann bei Eis rutschig sein.",
+                "hu": "A megállóhoz vezető út jeges és csúszós lehet.",
+                "ro": "Drumul spre stație poate fi alunecos din cauza gheții.",
+                "en": "The path to the stop can be slippery with ice."
+              }
+            },
+            {
+              "name": "Sinkka Art and Museum Centre",
+              "tip_5lang": {
+                "de": "Ein warmer Stopp, um die Kälte draußen zu vergessen.",
+                "hu": "Meleg megálló, ahol elfelejtheti a kinti hideget.",
+                "ro": "O oprire călduroasă pentru a uita de frigul de afară.",
+                "en": "A warm stop to forget the cold outside."
+              }
+            },
+            {
+              "name": "Heikkilä Local History Museum",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter pünktlich, aber seltener.",
+                "hu": "A buszok télen is pontosak, de ritkábban járnak.",
+                "ro": "Autobuzele circulă la timp iarna, dar mai rar.",
+                "en": "Buses run on time in winter but less frequently."
+              }
+            },
+            {
+              "name": "Kerava Manor",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet leider wenig Windschutz.",
+                "hu": "A buszmegálló sajnos kevés szélvédelmet nyújt.",
+                "ro": "Stația de autobuz oferă din păcate puțină protecție contra vântului.",
+                "en": "The bus stop unfortunately offers little wind protection."
+              }
+            },
+            {
+              "name": "Aurinkomäki (Sun Hill)",
+              "tip_5lang": {
+                "de": "Schneller Rückweg zum Bahnhof für den Zug nach Helsinki.",
+                "hu": "Gyors visszajutás az állomásra a helsinki vonathoz.",
+                "ro": "Revenire rapidă la gară pentru trenul spre Helsinki.",
+                "en": "Quick return to the station for the train to Helsinki."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Winterschuhe, auch wenn Sie meist im Bus sitzen.",
+              "Die HSL-App zeigt Verspätungen durch Schneefall sofort an.",
+              "Bahnhöfe in Finnland sind im Winter gut beheizt.",
+              "Verwenden Sie Reflektoren an Ihrer Kleidung für die dunklen Stunden."
+            ],
+            "hu": [
+              "Viseljen meleg téli cipőt, még ha többnyire a buszon is ül.",
+              "A HSL alkalmazás azonnal jelzi a havazás miatti késéseket.",
+              "A finn vasútállomások télen jól fűtöttek.",
+              "Használjon fényvisszaverőt a ruháján a sötét órákban."
+            ],
+            "ro": [
+              "Purtați încălțăminte de iarnă groasă, chiar dacă stați în autobuz.",
+              "Aplicația HSL afișează imediat întârzierile cauzate de ninsoare.",
+              "Gările din Finlanda sunt bine încălzite iarna.",
+              "Folosiți reflectorizante pe haine pentru orele de întuneric."
+            ],
+            "en": [
+              "Wear warm winter shoes even if you're mostly on the bus.",
+              "The HSL app shows delays due to snowfall immediately.",
+              "Train stations in Finland are well-heated in winter.",
+              "Use reflectors on your clothing for the dark hours."
+            ]
+          }
+        }
       }
     }
   }

@@ -402,6 +402,214 @@
           "Cash can be useful in smaller shops and for votive offerings.",
           "The tour is quite intensive; take time for breaks and enjoy a coffee in one of the local cafes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem Schutz der dicken Mauern der St.-Jakobs-Kirche und des Ernestinum-Schlosses, wo die Geschichte Příbrams lebendig wird. Mittags führt ein kurzer Sprint durch den Regen zur Statue des hl. Johannes von Nepomuk. Den Nachmittag verbringen Sie völlig trocken in den tiefen Schächten des Bergbaumuseums, einem perfekten Zufluchtsort. Der Tag endet unter den überdachten Arkaden des Heiligen Berges, bevor ein kurzer Spaziergang durch den feuchten Stadtpark den Kreis schließt.",
+            "hu": "A reggel Szent Jakab-templom és az Ernestinum-kastély vastag falai között indul, ahol az eső kopogása csak fokozza a történelmi hangulatot. Délben egy gyors pillantás a Nepomuki Szent János-szoborra, majd irány a Bányászati Múzeum, ahol a föld alatt teljesen védve vagyunk. Délután a Szent-hegy fedett árkádsorai nyújtanak menedéket a látogatás alatt. Az estét a párás levegőjű Hořejší Obora park zárja, mielőtt egy hangulatos helyi cseh sörözőbe menekülnénk a csapadék elől.",
+            "ro": "Dimineața începe la adăpostul zidurilor groase ale Bisericii Sf. Iacob și ale Castelului Ernestinum, unde istoria orașului Příbram prinde viață. La prânz, o scurtă trecere pe lângă statuia Sf. Ioan de Nepomuk precede vizita la Muzeul Mineritului, refugiul perfect sub pământ. După-amiaza este dedicată Muntelui Sfânt, ale cărui coridoare acoperite vă protejează de ploaie. Ziua se încheie cu o plimbare rapidă prin parcul Hořejší Obora, unde aerul curat de după ploaie este revigorant.",
+            "en": "The morning starts under the protection of the thick walls of St. James Church and Ernestinum Castle, where Pribram's history comes alive. At noon, a quick dash past the statue of St. John of Nepomuk leads to the Mining Museum, the perfect underground sanctuary. The afternoon is spent at Holy Mountain, where covered cloisters keep you dry during your visit. The day ends with a damp but atmospheric stroll through Hořejší Obora Park, before finding a cozy local pub."
+          },
+          "stops": [
+            {
+              "name": "St. James's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorbau der Kirche, um den Regenschirm in Ruhe zu schließen.",
+                "hu": "Használja a templom előcsarnokát az esernyő kényelmes összecsukásához.",
+                "ro": "Folosiți pridvorul bisericii pentru a închide umbrela în liniște.",
+                "en": "Use the church porch to close your umbrella comfortably before entering."
+              }
+            },
+            {
+              "name": "Ernestinum Castle",
+              "tip_5lang": {
+                "de": "Die Innenausstellungen bieten eine ideale, trockene Kulturpause.",
+                "hu": "A belső kiállítások ideális, száraz kulturális pihenőt kínálnak.",
+                "ro": "Expozițiile interioare oferă o pauză culturală uscată și ideală.",
+                "en": "The indoor exhibitions provide an ideal dry cultural break from the rain."
+              }
+            },
+            {
+              "name": "Statue of St. John of Nepomuk",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Stopp für ein Foto; das Pflaster kann bei Nässe rutschig sein.",
+                "hu": "Csak egy gyors fotó erejéig álljon meg; a nedves macskakő csúszós lehet.",
+                "ro": "Doar o scurtă oprire pentru poze; pavajul poate fi alunecos când este ud.",
+                "en": "Just a quick photo stop; the cobblestones can be slippery when wet."
+              }
+            },
+            {
+              "name": "Příbram Mining Museum",
+              "tip_5lang": {
+                "de": "Die unterirdischen Gänge sind der beste Ort bei Regen; festes Schuhwerk ist wichtig.",
+                "hu": "A föld alatti járatok a legjobb helyszínek esőben; a stabil cipő fontos.",
+                "ro": "Galeriile subterane sunt cel mai bun loc pe ploaie; încălțămintea fixă e vitală.",
+                "en": "Underground tunnels are the best place during rain; sturdy footwear is essential."
+              }
+            },
+            {
+              "name": "Březové Hory (Birch Mountains)",
+              "tip_5lang": {
+                "de": "Die kurzen Wege zwischen den Gebäuden erfordern einen griffbereiten Schirm.",
+                "hu": "Az épületek közötti rövid utakhoz legyen kéznél az esernyő.",
+                "ro": "Distanțele scurte dintre clădiri necesită o umbrelă la îndemână.",
+                "en": "The short walks between buildings require having an umbrella ready."
+              }
+            },
+            {
+              "name": "Svatá Hora (Holy Mountain)",
+              "tip_5lang": {
+                "de": "Die überdachten Kreuzgänge erlauben eine Besichtigung ohne nass zu werden.",
+                "hu": "A fedett kerengők lehetővé teszik a nézelődést anélkül, hogy megázna.",
+                "ro": "Cloistrele acoperite permit vizitarea fără a vă uda deloc.",
+                "en": "The covered cloisters allow for a thorough visit without getting wet."
+              }
+            },
+            {
+              "name": "Hořejší Obora City Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege meiden Pfützen besser als die Parkpfade.",
+                "hu": "Az aszfaltozott utak jobban elvezetik a vizet, mint a parki ösvények.",
+                "ro": "Aleile asfaltate evită bălțile mai bine decât potecile din parc.",
+                "en": "Asphalt paths avoid puddles better than the dirt tracks in the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Das Bergbaumuseum bietet kilometerlange unterirdische Gänge, die völlig wetterunabhängig sind.",
+              "Der Aufstieg zum Heiligen Berg ist über die überdachte Treppe (Svatohorské schody) trocken möglich.",
+              "Die Stadtbusse verbinden das Zentrum effizient mit Březové Hory, falls der Regen zu stark wird.",
+              "In der Altstadt gibt es viele kleine Cafés, die sich perfekt zum Abwarten von Schauern eignen.",
+              "Achten Sie auf die historischen Pflastersteine, die bei Nässe extrem glatt werden können."
+            ],
+            "hu": [
+              "A Bányászati Múzeum kilométernyi föld alatti járata teljesen védett az időjárástól.",
+              "A Szent-hegyre való feljutás a fedett lépcsősoron (Svatohorské schody) szárazon megoldható.",
+              "A helyi buszok hatékonyan összekötik a központot Březové Hory-val, ha túl erős lenne az eső.",
+              "Az óvárosban számos kis kávézó található, ahol kényelmesen kivárható egy-egy zápor.",
+              "Vigyázzon a történelmi macskakövekre, amelyek nedvesen rendkívül csúszóssá válnak."
+            ],
+            "ro": [
+              "Muzeul Mineritului oferă kilometri de galerii subterane care sunt complet protejate de ploaie.",
+              "Urcarea spre Muntele Sfânt se poate face la uscat prin scările acoperite (Svatohorské schody).",
+              "Autobuzele locale fac legătura rapid între centru și Březové Hory dacă ploaia devine prea densă.",
+              "În centrul vechi există multe cafenele mici, perfecte pentru a aștepta trecerea ploii.",
+              "Atenție la pavajul istoric, care poate deveni extrem de alunecos atunci când este ud."
+            ],
+            "en": [
+              "The Mining Museum offers kilometers of underground tunnels that are completely weather-proof.",
+              "Access to Holy Mountain is possible via the covered stairs (Svatohorské schody) to stay dry.",
+              "Local buses connect the center with Březové Hory efficiently if the rain gets too heavy.",
+              "The old town has many small cafes perfect for waiting out a passing shower.",
+              "Be careful on historical cobblestones, which can become extremely slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt an der St.-Jakobs-Kirche, wo der Reif die gotischen Details betont. Mittags wärmen Sie sich in den Ausstellungen des Ernestinum-Schlosses auf, bevor Sie die verschneite Březové Hory erreichen. Der Nachmittag im Bergbaumuseum ist ideal, da die Temperatur unter Tage konstant bleibt, während draußen der Winterwind weht. Zum Sonnenuntergang bietet der Heilige Berg ein magisches Panorama über die Stadt, gefolgt von einem beleuchteten Abendspaziergang im Obora-Park.",
+            "hu": "A fagyos reggel a Szent Jakab-templomnál indul, ahol a zúzmara kiemeli a gótikus részleteket. Délben az Ernestinum-kastély kiállításaiban melegedhetünk fel, mielőtt elérnénk a havas Březové Hory negyedet. A délutáni bányalátogatás ideális, mivel a föld alatt állandó a hőmérséklet, miközben kint süvít a téli szél. Naplementekor a Szent-hegy mágikus panorámát nyújt a városra, az estét pedig az Obora park kivilágított sétánya zárja.",
+            "ro": "O dimineață geroasă începe la Biserica Sf. Iacob, unde chiciura subliniază detaliile gotice. La prânz, vă încălziți în expozițiile Castelului Ernestinum înainte de a ajunge în cartierul înzăpezit Březové Hory. După-amiaza la Muzeul Mineritului este ideală, deoarece temperatura din subteran rămâne constantă. La apus, Muntele Sfânt oferă o panoramă magică peste oraș, urmată de o plimbare de seară pe aleile iluminate ale parcului Obora.",
+            "en": "A frosty morning begins at St. James Church, where hoarfrost highlights the gothic details. At noon, warm up in the exhibitions of Ernestinum Castle before reaching the snowy Březové Hory area. The afternoon visit to the Mining Museum is ideal, as underground temperatures remain stable while the winter wind blows outside. At sunset, Holy Mountain offers a magical panorama over the city, followed by a lit evening walk in Obora Park."
+          },
+          "stops": [
+            {
+              "name": "St. James's Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Innere, um der morgendlichen Kälte kurz zu entfliehen.",
+                "hu": "Látogasson be a belső térbe, hogy kicsit elmeneküljön a reggeli hideg elől.",
+                "ro": "Vizitați interiorul pentru a scăpa scurt de frigul dimineții.",
+                "en": "Visit the interior to escape the morning cold for a while."
+              }
+            },
+            {
+              "name": "Ernestinum Castle",
+              "tip_5lang": {
+                "de": "Hinter den dicken Steinmauern ist es angenehm warm für eine Besichtigung.",
+                "hu": "A vastag kőfalak mögött kellemesen meleg van a nézelődéshez.",
+                "ro": "În spatele zidurilor groase de piatră este plăcut și cald pentru vizitare.",
+                "en": "Behind the thick stone walls, it is pleasantly warm for sightseeing."
+              }
+            },
+            {
+              "name": "Statue of St. John of Nepomuk",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf dem Platz; ein schnelles Foto genügt.",
+                "hu": "Vigyázzon a jegesedésre a téren; egy gyors fotó is elég.",
+                "ro": "Atenție la polei în piață; o fotografie rapidă este suficientă.",
+                "en": "Watch out for black ice on the square; a quick photo is enough."
+              }
+            },
+            {
+              "name": "Příbram Mining Museum",
+              "tip_5lang": {
+                "de": "Unter Tage herrschen ca. 10°C – oft wärmer als an der winterlichen Oberfläche.",
+                "hu": "A föld alatt kb. 10°C van – gyakran melegebb, mint a téli felszínen.",
+                "ro": "În subteran sunt cca. 10°C – adesea mai cald decât la suprafață iarna.",
+                "en": "Underground it is about 10°C – often warmer than on the winter surface."
+              }
+            },
+            {
+              "name": "Březové Hory (Birch Mountains)",
+              "tip_5lang": {
+                "de": "Die historischen Gebäude sehen unter einer Schneedecke besonders malerisch aus.",
+                "hu": "A történelmi épületek különösen festőien mutatnak hótakaró alatt.",
+                "ro": "Clădirile istorice arată deosebit de pitoresc sub un strat de zăpadă.",
+                "en": "The historical buildings look particularly picturesque under a blanket of snow."
+              }
+            },
+            {
+              "name": "Svatá Hora (Holy Mountain)",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist hier im Winter gegen 16:15 Uhr am schönsten.",
+                "hu": "A naplemente itt télen 16:15 körül a legszebb.",
+                "ro": "Apusul de soare este cel mai frumos aici iarna, în jurul orei 16:15.",
+                "en": "Sunset is most beautiful here in winter around 4:15 PM."
+              }
+            },
+            {
+              "name": "Hořejší Obora City Park",
+              "tip_5lang": {
+                "de": "Abends gut beleuchtet, aber auf vereiste Wege in Ufernähe achten.",
+                "hu": "Este jól kivilágított, de ügyeljen a jeges utakra a tópart közelében.",
+                "ro": "Bine iluminat seara, dar atenție la aleile înghețate de lângă apă.",
+                "en": "Well-lit in the evening, but watch out for icy paths near the water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Zwiebelschichten; die Bergwerksschächte sind wärmer als die Außenluft.",
+              "Die Sonne geht im Dezember bereits vor 16:30 Uhr unter; planen Sie Svatá Hora rechtzeitig.",
+              "Die Svatohorské-Treppen können im Winter rutschig sein; nutzen Sie die Handläufe.",
+              "Kombinieren Sie den Stadtbummel mit einer heißen tschechischen Schokolade in der Altstadt.",
+              "Prüfen Sie die Winteröffnungszeiten des Bergbaumuseums, da einige Schächte früher schließen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen; a bányajáratok gyakran melegebbek, mint a kinti levegő.",
+              "A nap decemberben már 16:30 előtt lemegy; tervezze időben a Szent-hegyet.",
+              "A Svatohorské-lépcsők télen csúszósak lehetnek; használja a korlátokat.",
+              "Kösse össze a városi sétát egy forró cseh csokoládéval az óvárosban.",
+              "Ellenőrizze a Bányászati Múzeum téli nyitvatartását, néhány tárna korábban zárhat."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; galeriile miniere sunt adesea mai calde decât aerul de afară.",
+              "Soarele apune în decembrie înainte de 16:30; planificați vizita la Muntele Sfânt din timp.",
+              "Scările Svatohorské pot fi alunecoase iarna; folosiți balustradele cu încredere.",
+              "Combinați plimbarea prin oraș cu o ciocolată caldă cehească în centrul vechi.",
+              "Verificați programul de iarnă al Muzeului Mineritului, unele puțuri se închid mai devreme."
+            ],
+            "en": [
+              "Dress in layers; the mining shafts are often warmer than the outside air.",
+              "The sun sets before 4:30 PM in December; plan your Holy Mountain visit accordingly.",
+              "The Svatohorské stairs can be slippery in winter; make sure to use the handrails.",
+              "Combine your city walk with a hot Czech chocolate in the old town area.",
+              "Check the Mining Museum winter hours, as some shafts might close earlier."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -774,6 +982,196 @@
           "Bring a reusable water bottle and fill it up.",
           "Always lock your bike to a fixed object, especially at tourist attractions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Tour spannende Einblicke, beginnend am Obora-Park, wo die Bäume ersten Schutz bieten. Das Dvořák-Theater ist ein kurzer Kulturstopp, bevor es zum Bergbaumuseum geht – hier parken Sie das Rad und verbringen Stunden im Trockenen. Nach dem Mittagessen in der Altstadt führt eine steile Fahrt zum Heiligen Berg, dessen Kreuzgänge perfekt zum Unterstellen sind. Den Abschluss bildet das Ernestinum-Schloss, ein historisches Highlight für nasse Tage.",
+            "hu": "Az eső ellenére a túra izgalmas marad, az Obora parkkal kezdve, ahol a fák némi védelmet nyújtanak. A Dvořák Színház egy rövid kulturális megálló, mielőtt a Bányászati Múzeumhoz érnénk – itt leparkolhatjuk a gépet, és órákat tölthetünk szárazon. Az óvárosi ebéd után meredek tekerés vár ránk a Szent-hegyig, melynek kerengői alatt tökéletesen megpihenhetünk. A napot az Ernestinum-kastély zárja, amely igazi történelmi fénypont esős napokon.",
+            "ro": "În ciuda ploii, turul oferă perspective interesante, începând cu parcul Obora, unde copacii oferă o primă protecție. Teatrul Dvořák este o scurtă oprire culturală înainte de a merge la Muzeul Mineritului – aici parcați bicicleta și petreceți ore la uscat. După prânzul în centrul vechi, urmează o urcare abruptă spre Muntele Sfânt, ale cărui coridoare sunt perfecte pentru adăpost. Finalul aparține Castelului Ernestinum, un punct istoric ideal pentru zilele umede.",
+            "en": "Despite the rain, the tour offers exciting insights, starting at Obora Park where trees provide initial shelter. The Dvořák Theatre is a quick cultural stop before heading to the Mining Museum – park your bike and spend hours in the dry underground. After lunch in the old town, a steep ride leads to Holy Mountain, where cloisters are perfect for taking cover. The finale is at Ernestinum Castle, a historical highlight for wet days."
+          },
+          "stops": [
+            {
+              "name": "Hořejší Obora City Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor nassem Laub auf den Wegen; Schutzbleche sind heute Pflicht.",
+                "hu": "Vigyázzon a nedves levelekre az utakon; a sárvédő ma kötelező.",
+                "ro": "Atenție la frunzele ude de pe poteci; aripile de protecție sunt obligatorii azi.",
+                "en": "Watch out for wet leaves on the paths; fenders are a must today."
+              }
+            },
+            {
+              "name": "Antonín Dvořák Theatre",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um unter dem Vordach kurz die Karte zu prüfen.",
+                "hu": "Jó helyszín az előtető alatt egy gyors térképellenőrzésre.",
+                "ro": "Un loc bun pentru a verifica scurt harta sub copertina de la intrare.",
+                "en": "A good place to briefly check the map under the entrance canopy."
+              }
+            },
+            {
+              "name": "Březové Hory & Mining Museum",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer direkt am Eingang; nutzen Sie die Zeit unter Tage.",
+                "hu": "Biztonságos kerékpártárolók a bejáratnál; használja ki a föld alatti időt.",
+                "ro": "Suporturi de biciclete sigure chiar la intrare; profitați de timpul din subteran.",
+                "en": "Secure bike racks right at the entrance; enjoy your time underground."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit Sicht auf Ihr Fahrrad durch das Fenster.",
+                "hu": "Keressen olyan éttermet, ahol az ablakból rálát a kerékpárjára.",
+                "ro": "Căutați un restaurant cu vedere spre bicicletă prin fereastră.",
+                "en": "Look for a restaurant where you can see your bike through the window."
+              }
+            },
+            {
+              "name": "Svatá Hora (Holy Mountain)",
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Regen rutschig; fahren Sie vorsichtig bergab.",
+                "hu": "Az emelkedő esőben csúszós; óvatosan ereszkedjen lefelé.",
+                "ro": "Urcarea este alunecoasă pe ploaie; coborâți cu mare atenție.",
+                "en": "The climb is slippery in the rain; descend very carefully."
+              }
+            },
+            {
+              "name": "Ernestinum Castle",
+              "tip_5lang": {
+                "de": "Überdachter Innenhof bietet Schutz beim Anschließen des Rades.",
+                "hu": "A fedett belső udvar védelmet nyújt a kerékpár lezárásakor.",
+                "ro": "Curtea interioară acoperită oferă protecție la legarea bicicletei.",
+                "en": "The covered inner courtyard provides shelter while locking your bike."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Kleidung; die Pfade in Březové Hory können matschig sein.",
+              "Vermeiden Sie bei starkem Regen die steilen Kopfsteinpflastergassen in der Altstadt.",
+              "Nutzen Sie die Besichtigungszeit im Bergbaumuseum, um Ihre Ausrüstung etwas zu trocknen.",
+              "Die Bremswege auf nassem Asphalt sind länger; halten Sie mehr Abstand zu Autos.",
+              "Ein Sattelschutz hält Ihr Rad trocken, während Sie das Ernestinum besichtigen."
+            ],
+            "hu": [
+              "Viseljen vízálló ruházatot; a Březové Hory ösvényei sárosak lehetnek.",
+              "Erős esőben kerülje az óváros meredek macskaköves utcáit.",
+              "Használja ki a bányamúzeumi időt a felszerelése megszárítására.",
+              "A féktávolság vizes aszfalton hosszabb; tartson nagyobb távolságot az autóktól.",
+              "A nyeregkímélő huzat szárazon tartja a gépet, amíg az Ernestinumot nézi."
+            ],
+            "ro": [
+              "Purtați haine impermeabile; potecile din Březové Hory pot fi noroioase.",
+              "Evitați străzile abrupte cu pavaj din centrul vechi în timpul ploii abundente.",
+              "Folosiți timpul de vizitare de la Muzeul Mineritului pentru a vă usca echipamentul.",
+              "Distanța de frânare pe asfalt ud este mai mare; păstrați distanța față de mașini.",
+              "O protecție de șa vă menține bicicleta uscată în timp ce vizitați Ernestinum."
+            ],
+            "en": [
+              "Wear waterproof clothing; the paths in Březové Hory can get muddy.",
+              "Avoid the steep cobblestone alleys in the old town during heavy rain.",
+              "Use the museum tour time to dry off some of your gear underground.",
+              "Braking distances are longer on wet asphalt; keep more distance from cars.",
+              "A saddle cover keeps your bike dry while you are inside Ernestinum."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Wintertour startet im frostigen Obora-Park. Nach einem kurzen Blick auf das Dvořák-Theater erreichen Sie Březové Hory, wo die alten Fördertürme vor dem blauen Winterhimmel thronen. Das Bergbaumuseum bietet die perfekte Flucht vor der Kälte – unter Tage ist es deutlich milder. Nach einem stärkenden Mittagessen folgt der winterliche Aufstieg zum Heiligen Berg mit seiner grandiosen Aussicht. Der Tag endet beim Ernestinum-Schloss, wenn die Dämmerung früh einsetzt.",
+            "hu": "Egy frissítő téli túra indul a fagyos Obora parkban. A Dvořák Színház után elérjük Březové Hory negyedet, ahol a régi bányatornyok méltóságteljesen állnak a kék téli égbolt előtt. A Bányászati Múzeum tökéletes menekvés a hideg elől – a föld alatt lényegesen enyhébb az idő. Egy bőséges ebéd után következik a téli tekerés a Szent-hegyre a lenyűgöző kilátásért. A nap az Ernestinum-kastélynál ér véget, ahogy korán leszáll az alkony.",
+            "ro": "Un tur de iarnă revigorant începe în parcul înghețat Obora. După o scurtă privire la Teatrul Dvořák, ajungeți în Březové Hory, unde vechile turnuri de mină tronează pe cerul albastru de iarnă. Muzeul Mineritului oferă evadarea perfectă de frig – în subteran este mult mai blând. După un prânz sățios, urmează urcarea hibernală spre Muntele Sfânt pentru o priveliște grandioasă. Ziua se încheie la Castelul Ernestinum, pe măsură ce amurgul coboară devreme.",
+            "en": "A refreshing winter tour starts in the frosty Obora Park. After a quick look at the Dvořák Theatre, reach Březové Hory, where old mining towers stand tall against the blue winter sky. The Mining Museum offers the perfect escape from the cold – underground it's significantly milder. After a hearty lunch, the winter climb to Holy Mountain follows for a grand view. The day ends at Ernestinum Castle as dusk falls early."
+          },
+          "stops": [
+            {
+              "name": "Hořejší Obora City Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen auf den Brücken und am Seeufer.",
+                "hu": "Vigyázzon a jeges szakaszokra a hidakon és a tóparton.",
+                "ro": "Atenție la porțiunile înghețate de pe poduri și de pe malul lacului.",
+                "en": "Watch out for icy spots on the bridges and by the lakeshore."
+              }
+            },
+            {
+              "name": "Antonín Dvořák Theatre",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Halt; halten Sie die Muskeln in Bewegung.",
+                "hu": "Csak egy rövid megálló; tartsa mozgásban az izmait.",
+                "ro": "Doar o scurtă oprire; mențineți mușchii în mișcare.",
+                "en": "Just a short stop; keep your muscles moving to stay warm."
+              }
+            },
+            {
+              "name": "Březové Hory & Mining Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die 10°C unter Tage als willkommene Aufwärmpause.",
+                "hu": "Élvezze a föld alatti 10 fokot, mint kellemes melegedőt.",
+                "ro": "Bucurați-vă de cele 10 grade din subteran ca de o pauză de încălzire.",
+                "en": "Enjoy the 10°C underground as a welcome warming break."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Ein warmes Getränk ist jetzt wichtig, um die Körpertemperatur zu halten.",
+                "hu": "Egy meleg ital most fontos a testhőmérséklet fenntartásához.",
+                "ro": "O băutură caldă este importantă acum pentru a menține temperatura corpului.",
+                "en": "A warm drink is essential now to maintain your body temperature."
+              }
+            },
+            {
+              "name": "Svatá Hora (Holy Mountain)",
+              "tip_5lang": {
+                "de": "Der Anstieg hält warm, aber oben zieht oft ein kalter Wind.",
+                "hu": "Az emelkedő melegen tart, de fent gyakran fúj a hideg szél.",
+                "ro": "Urcarea vă menține cald, dar sus bate adesea un vânt rece.",
+                "en": "The climb keeps you warm, but a cold wind often blows at the top."
+              }
+            },
+            {
+              "name": "Ernestinum Castle",
+              "tip_5lang": {
+                "de": "Besichtigung zum Abschluss, wenn es draußen bereits dämmert.",
+                "hu": "Zárja a látogatást itt, amikor kint már sötétedik.",
+                "ro": "Încheiați vizita aici, când afară începe deja să se însereze.",
+                "en": "Finish your visit here as dusk begins to settle outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe; der Fahrtwind ist bei Minusgraden sehr aggressiv.",
+              "Achten Sie auf Streusalz, das die Kette und Bremsen angreifen kann; nach der Tour reinigen.",
+              "Planen Sie die Tour so, dass Sie vor 16:30 Uhr fertig sind, wenn das Licht schwindet.",
+              "Der Luftdruck in den Reifen sinkt bei Kälte; prüfen Sie ihn vor dem Start.",
+              "Vermeiden Sie schattige Waldwege, dort hält sich Glatteis am längsten."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt; a menetszél mínuszokban nagyon agresszív.",
+              "Ügyeljen az útszóró sóra, amely kikezdheti a láncot; túra után tisztítsa meg.",
+              "Tervezze úgy a túrát, hogy 16:30-ra végezzen, amikor elfogy a fény.",
+              "A guminyomás hidegben csökken; ellenőrizze indulás előtt.",
+              "Kerülje az árnyékos erdei utakat, ott marad meg legtovább a jég."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt; curentul de aer este agresiv la temperaturi negative.",
+              "Atenție la sarea de pe drum care poate ataca lanțul; curățați bicicleta după tură.",
+              "Planificați tura astfel încât să terminați înainte de 16:30, când lumina scade.",
+              "Presiunea în anvelope scade la frig; verificați-o înainte de start.",
+              "Evitați drumurile forestiere umbrite, acolo poleiul rezistă cel mai mult."
+            ],
+            "en": [
+              "Wear windproof gloves; the wind chill is very aggressive in sub-zero temperatures.",
+              "Watch out for road salt which can damage the chain and brakes; clean after the tour.",
+              "Plan the tour to finish by 4:30 PM as the natural light disappears quickly.",
+              "Tire pressure drops in the cold; check it before you head out.",
+              "Avoid shaded forest paths, as black ice tends to linger there longest."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1170,6 +1568,214 @@
           "The car gives you the flexibility to also visit nearby sights outside the city.",
           "Pay attention to parking restrictions and times to avoid fines."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Regentag beginnt mit der Fahrt direkt zum Parkplatz am Heiligen Berg, wo Sie trocken die Basilika erreichen. Danach geht es zum Bergbaumuseum in Březové Hory, dem perfekten Ort für nasses Wetter. Nach einer ausführlichen Tour unter Tage führt die Fahrt zurück ins Zentrum zum Ernestinum-Schloss und der St.-Jakobs-Kirche. Der Tag endet mit einem kurzen Blick auf den Obora-Park, bevor Sie gemütlich im Auto die Heimreise antreten.",
+            "hu": "Egy pihentető esős nap közvetlenül a Szent-hegyi parkolóba való behajtással indul, ahonnan szárazon érhető el a bazilika. Ezután irány a Bányászati Múzeum Březové Hory-ban, ami a legtökéletesebb helyszín ilyenkor. A kiadós föld alatti túra után a központba autózunk az Ernestinum-kastélyhoz és a Szent Jakab-templomhoz. A nap az Obora parknál zárul egy rövid megállóval, mielőtt kényelmesen, az autó melegében elindulnánk haza.",
+            "ro": "O zi ploioasă relaxantă începe cu drumul direct spre parcarea de la Muntele Sfânt, de unde ajungeți uscat la bazilică. Apoi, mergeți la Muzeul Mineritului din Březové Hory, locul ideal pentru vreme umedă. După un tur detaliat în subteran, drumul revine în centru pentru Castelul Ernestinum și Biserica Sf. Iacob. Ziua se încheie cu o scurtă oprire la parcul Obora înainte de a pleca spre casă în confortul mașinii.",
+            "en": "A relaxed rainy day starts with a drive directly to the Holy Mountain parking lot, allowing dry access to the basilica. Next, head to the Mining Museum in Březové Hory, the perfect spot for wet weather. After an extensive underground tour, drive back to the center for Ernestinum Castle and St. James Church. The day ends with a quick look at Obora Park before a comfortable drive home in the warmth of your car."
+          },
+          "stops": [
+            {
+              "name": "Parking at Svatá Hora",
+              "tip_5lang": {
+                "de": "Zahlen Sie die Parkgebühr am Automaten; Schirm griffbereit halten.",
+                "hu": "Fizesse ki a parkolási díjat az automatánál; legyen kéznél az esernyő.",
+                "ro": "Plătiți taxa de parcare la automat; țineți umbrela la îndemână.",
+                "en": "Pay the parking fee at the machine; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Svatá Hora (Holy Mountain)",
+              "tip_5lang": {
+                "de": "Der kurze Weg vom Parkplatz zur Basilika ist teils ungeschützt.",
+                "hu": "A parkolótól a bazilikáig tartó rövid út részben fedetlen.",
+                "ro": "Scurta plimbare de la parcare la bazilică este parțial neprotejată.",
+                "en": "The short walk from the parking lot to the basilica is partly unsheltered."
+              }
+            },
+            {
+              "name": "Drive to the Mining Museum",
+              "tip_5lang": {
+                "de": "Vorsicht bei Aquaplaning auf der Verbindungsstraße nach Březové Hory.",
+                "hu": "Vigyázzon a vízenfutásra a Březové Hory-ba vezető összekötő úton.",
+                "ro": "Atenție la acvaplanare pe drumul de legătură spre Březové Hory.",
+                "en": "Watch out for aquaplaning on the connecting road to Březové Hory."
+              }
+            },
+            {
+              "name": "Příbram Mining Museum & Březové Hory",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Ševčinský-Schacht für minimale Wege im Regen.",
+                "hu": "Parkoljon közvetlenül a Ševčinský-aknánál, hogy keveset kelljen áznia.",
+                "ro": "Parcați chiar lângă puțul Ševčinský pentru a merge cât mai puțin prin ploaie.",
+                "en": "Park right by the Ševčinský shaft for minimal walking in the rain."
+              }
+            },
+            {
+              "name": "Drive to the City Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus im Zentrum für einen absolut trockenen Ausstieg.",
+                "hu": "Használja a belvárosi parkolóházat a teljesen száraz kiszálláshoz.",
+                "ro": "Folosiți parcarea etajată din centru pentru o debarcare absolut uscată.",
+                "en": "Use the multi-story car park in the center for a completely dry exit."
+              }
+            },
+            {
+              "name": "St. James's Church & Ernestinum",
+              "tip_5lang": {
+                "de": "Beide Ziele liegen nah beieinander, ideal bei unbeständigem Wetter.",
+                "hu": "Mindkét célpont közel van egymáshoz, ideális változékony időben.",
+                "ro": "Ambele obiective sunt aproape unul de altul, ideal pe vreme instabilă.",
+                "en": "Both targets are close to each other, ideal during unstable weather."
+              }
+            },
+            {
+              "name": "Hořejší Obora City Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den See kurz aus dem Autofenster.",
+                "hu": "Élvezze a tóra nyíló kilátást rövid ideig az autó ablakából.",
+                "ro": "Bucurați-vă de vederea spre lac scurt timp din fereastra mașinii.",
+                "en": "Enjoy the lake view briefly from the comfort of your car window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze direkt an den Sehenswürdigkeiten, um Regenzeiten zu minimieren.",
+              "Die Straßen in Březové Hory sind eng; achten Sie bei Regen auf Fußgänger mit Schirmen.",
+              "Ein Regenschirm im Auto ist in Příbram Pflicht, da die Wege zwischen den Schächten offen sind.",
+              "Das Ernestinum-Schloss hat oft Parkplätze direkt davor für Museumsbesucher.",
+              "Bei starkem Regen kann die Sicht auf den Heiligen Berg von der Stadt aus eingeschränkt sein."
+            ],
+            "hu": [
+              "Használja a közvetlenül a látnivalóknál lévő parkolókat az ázási idő minimalizálására.",
+              "Březové Hory utcái szűkek; esőben ügyeljen az esernyős gyalogosokra.",
+              "Az autóban tartott esernyő kötelező, mert a bányaknák közötti utak nyitottak.",
+              "Az Ernestinum-kastély előtt gyakran van szabad hely a múzeumlátogatóknak.",
+              "Erős esőben a Szent-hegyre nyíló kilátás a városból korlátozott lehet."
+            ],
+            "ro": [
+              "Folosiți parcările situate chiar lângă obiective pentru a minimiza timpul prin ploaie.",
+              "Străzile din Březové Hory sunt înguste; atenție la pietonii cu umbrele pe timp de ploaie.",
+              "O umbrelă în mașină este obligatorie, deoarece drumurile dintre puțuri sunt deschise.",
+              "Castelul Ernestinum are adesea locuri de parcare chiar în față pentru vizitatori.",
+              "Pe ploaie torențială, vizibilitatea spre Muntele Sfânt din oraș poate fi limitată."
+            ],
+            "en": [
+              "Use parking spots right at the attractions to minimize time spent in the rain.",
+              "Streets in Březové Hory are narrow; watch out for pedestrians with umbrellas.",
+              "Keep an umbrella in the car, as paths between the mining shafts are outdoors.",
+              "Ernestinum Castle often has parking spaces directly in front for museum guests.",
+              "During heavy rain, the view of Holy Mountain from the city might be obscured."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein gemütlicher Wintertag beginnt mit der Auffahrt zum Heiligen Berg, der im Schnee wie ein Märchenschloss wirkt. Die Sitzheizung macht die Fahrt nach Březové Hory angenehm, wo Sie in die konstante Wärme des Bergbaumuseums abtauchen. Nach einem Mittagessen in der Altstadt besuchen Sie das Ernestinum und die St.-Jakobs-Kirche, die im Winterlicht besonders stimmungsvoll sind. Der Tag endet am zugefrorenen Obora-Teich, bevor es im warmen Auto zurückgeht.",
+            "hu": "Egy kényelmes téli nap a Szent-hegyre való felhajtással indul, amely a hóban mesebeli kastélynak tűnik. Az ülésfűtés kellemessé teszi az utat Březové Hory-ba, ahol a bányamúzeum állandó melegébe merülhetünk. Az óvárosi ebéd után meglátogatjuk az Ernestinumot és a Szent Jakab-templomot, amelyek a téli fényben különösen hangulatosak. A nap a befagyott Obora-tónál zárul, mielőtt a meleg autóval hazaindulnánk.",
+            "ro": "O zi de iarnă confortabilă începe cu urcarea spre Muntele Sfânt, care arată ca un castel de basm în zăpadă. Încălzirea în scaune face drumul spre Březové Hory plăcut, unde coborâți în căldura constantă a muzeului. După prânzul în centrul vechi, vizitați Ernestinum și Biserica Sf. Iacob, deosebit de atmosferice în lumina iernii. Ziua se încheie la iazul înghețat Obora, înainte de a pleca cu mașina caldă.",
+            "en": "A cozy winter day starts with a drive up to Holy Mountain, which looks like a fairytale castle in the snow. Seat heating makes the trip to Březové Hory pleasant, where you dive into the constant warmth of the Mining Museum. After lunch in the old town, visit Ernestinum and St. James Church, which are especially atmospheric in the winter light. The day ends at the frozen Obora pond before heading back in your warm car."
+          },
+          "stops": [
+            {
+              "name": "Parking at Svatá Hora",
+              "tip_5lang": {
+                "de": "Parkplatz wird geräumt, aber auf festgefahrenen Schnee achten.",
+                "hu": "A parkolót takarítják, de ügyeljen a letaposott hóra.",
+                "ro": "Parcarea este deszăpezită, dar atenție la zăpada bătătorită.",
+                "en": "The parking lot is cleared, but watch out for packed snow."
+              }
+            },
+            {
+              "name": "Svatá Hora (Holy Mountain)",
+              "tip_5lang": {
+                "de": "Die Aussicht auf das verschneite Příbram ist von hier oben unschlagbar.",
+                "hu": "A havas Příbramra nyíló kilátás innen fentről felülmúlhatatlan.",
+                "ro": "Vederea spre orașul Příbram înzăpezit este imbatabilă de aici de sus.",
+                "en": "The view of snowy Pribram from up here is unbeatable."
+              }
+            },
+            {
+              "name": "Drive to the Mining Museum",
+              "tip_5lang": {
+                "de": "Steile Abschnitte in Březové Hory können bei Glätte tückisch sein.",
+                "hu": "Březové Hory meredek szakaszai jegesedéskor csalókák lehetnek.",
+                "ro": "Secțiunile abrupte din Březové Hory pot fi înșelătoare pe polei.",
+                "en": "Steep sections in Březové Hory can be tricky when icy."
+              }
+            },
+            {
+              "name": "Příbram Mining Museum & Březové Hory",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmphase für den Körper.",
+                "hu": "Használja a múzeumlátogatást a test felmelegítésére.",
+                "ro": "Folosiți vizita la muzeu ca pe o etapă de încălzire pentru corp.",
+                "en": "Use the museum visit as a warming-up phase for your body."
+              }
+            },
+            {
+              "name": "Drive to the City Center",
+              "tip_5lang": {
+                "de": "Die Hauptstraßen sind meist gut gestreut und sicher befahrbar.",
+                "hu": "A főutak általában jól szórtak és biztonságosan járhatók.",
+                "ro": "Drumurile principale sunt de obicei bine dezapezite și sigure.",
+                "en": "Main roads are usually well-salted and safe to drive on."
+              }
+            },
+            {
+              "name": "St. James's Church & Ernestinum",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten minimieren den Kältekontakt.",
+                "hu": "A látnivalók közötti rövid utak minimalizálják a hideggel való érintkezést.",
+                "ro": "Distanțele scurte între obiective minimizează contactul cu frigul.",
+                "en": "Short distances between attractions minimize exposure to the cold."
+              }
+            },
+            {
+              "name": "Hořejší Obora City Park",
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt am Teich ermöglicht einen kurzen Winter-Check.",
+                "hu": "A közvetlenül a tónál lévő parkoló lehetővé teszi a rövid téli nézelődést.",
+                "ro": "Parcarea de lângă iaz permite o scurtă vizionare de iarnă.",
+                "en": "The parking lot right by the pond allows for a quick winter viewing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Fahrzeug winterfest ist; die Region Příbram ist hügelig.",
+              "Eiskratzer und Besen sind bei Parkstopps an Svatá Hora oft nötig.",
+              "Die Parkplatzsuche in der Altstadt ist im Winter durch Schneehaufen oft erschwert.",
+              "Nutzen Sie die Tiefgarage im Zentrum, um ein Einfrieren der Scheiben zu verhindern.",
+              "Achten Sie auf Wildwechsel auf der Strecke zwischen Heiliger Berg und Březové Hory."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy autója téliesített; a Příbram környéke dombos.",
+              "A Szent-hegyi megállásoknál gyakran szükség lehet jégkaparóra és kefére.",
+              "Az óvárosi parkolás télen a hóbuckák miatt nehezebb lehet.",
+              "Használja a belvárosi mélygarázst, hogy megelőzze a szélvédők befagyását.",
+              "Ügyeljen a vadakra a Szent-hegy és Březové Hory közötti útszakaszon."
+            ],
+            "ro": [
+              "Asigurați-vă că mașina este echipată de iarnă; regiunea Příbram este deluroasă.",
+              "Răzuitoarea de gheață și peria sunt adesea necesare la opririle de la Muntele Sfânt.",
+              "Căutarea unui loc de parcare în centrul vechi este îngreunată iarna de grămezile de zăpadă.",
+              "Folosiți parcarea subterană din centru pentru a preveni înghețarea parbrizului.",
+              "Atenție la animalele sălbatice pe segmentul dintre Muntele Sfânt și Březové Hory."
+            ],
+            "en": [
+              "Ensure your vehicle is winter-ready; the Pribram region is quite hilly.",
+              "An ice scraper and brush are often needed after parking at Holy Mountain.",
+              "Finding parking in the old town can be harder in winter due to snow piles.",
+              "Use the underground garage in the center to prevent your windshield from freezing.",
+              "Watch out for wildlife on the road between Holy Mountain and Březové Hory."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1542,6 +2148,196 @@
           "Allow for some buffer time as buses can be delayed.",
           "Pay attention to the final destination of your line to avoid going in the wrong direction."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt trocken mit der Ankunft an der Haltestelle Jiráskovy sady im Zentrum. Nach der Besichtigung von St. Jakob und dem Ernestinum bringt Sie der Bus bequem zum Bergbaumuseum, wo Sie die Regenzeit unter Tage vergessen. Ein warmes Mittagessen in Březové Hory stärkt Sie, bevor die Linie 2 Sie direkt zum Fuß des Heiligen Berges chauffiert. Die überdachten Kreuzgänge dort sind das perfekte Finale für einen nassen, aber kulturell reichen Tag.",
+            "hu": "A nap szárazon indul a központi Jiráskovy sady megállónál való érkezéssel. A Szent Jakab és az Ernestinum megtekintése után a busz kényelmesen elviszi a Bányászati Múzeumba, ahol a föld alatt elfelejtheti az esőt. Egy meleg ebéd Březové Hory-ban erőt ad, mielőtt a 2-es járat közvetlenül a Szent-hegy lábához repítené. Az ottani fedett kerengők tökéletes záróakkordjai egy esős, de kultúrában gazdag napnak.",
+            "ro": "Ziua începe la uscat cu sosirea în stația Jiráskovy sady din centru. După vizitarea Sf. Iacob și a castelului Ernestinum, autobuzul vă duce confortabil la Muzeul Mineritului, unde uitați de ploaie în subteran. Un prânz cald în Březové Hory vă dă putere înainte ca linia 2 să vă transporte direct la poalele Muntelui Sfânt. Coridoarele acoperite de acolo sunt finalul perfect pentru o zi ploioasă, dar bogată cultural.",
+            "en": "The day starts dry with an arrival at the Jiráskovy sady stop in the center. After visiting St. James and Ernestinum, the bus takes you comfortably to the Mining Museum, where you'll forget the rain underground. A warm lunch in Březové Hory energizes you before line 2 whisks you to the foot of Holy Mountain. The covered cloisters there are the perfect finale for a rainy but culturally rich day."
+          },
+          "stops": [
+            {
+              "name": "Arrival in the City Center (Jiráskovy sady stop)",
+              "tip_5lang": {
+                "de": "Die Haltestelle bietet ein Wartehäuschen zum Unterstellen.",
+                "hu": "A megállóban van fedett várakozó az eső ellen.",
+                "ro": "Stația oferă un adăpost pentru a aștepta la uscat.",
+                "en": "The stop has a shelter to keep you dry while waiting."
+              }
+            },
+            {
+              "name": "St. James's Church & Ernestinum",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg von der Haltestelle; Schirm bereit halten.",
+                "hu": "Csak 5 perc séta a megállótól; tartsa készenlétben az esernyőt.",
+                "ro": "Doar 5 minute de mers de la stație; țineți umbrela pregătită.",
+                "en": "Only a 5-minute walk from the stop; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Bus ride to the Mining Museum",
+              "tip_5lang": {
+                "de": "Die Linien 1 oder 2 fahren regelmäßig; trockenes Reisen garantiert.",
+                "hu": "Az 1-es vagy 2-es járat rendszeresen jár; garantált a száraz utazás.",
+                "ro": "Liniile 1 sau 2 circulă regulat; călătorie uscată garantată.",
+                "en": "Lines 1 or 2 run regularly; dry travel is guaranteed."
+              }
+            },
+            {
+              "name": "Mining Museum & Lunch",
+              "tip_5lang": {
+                "de": "Der Ševčinský-Schacht liegt direkt neben der Bushaltestelle.",
+                "hu": "A Ševčinský-akna közvetlenül a buszmegálló mellett található.",
+                "ro": "Puțul Ševčinský este situat chiar lângă stația de autobuz.",
+                "en": "The Ševčinský shaft is located right next to the bus stop."
+              }
+            },
+            {
+              "name": "Bus ride to Svatá Hora",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Haltestelle 'Svatá Hora, areál' für den kürzesten Weg.",
+                "hu": "Használja a 'Svatá Hora, areál' megállót a legrövidebb úthoz.",
+                "ro": "Folosiți stația 'Svatá Hora, areál' pentru cel mai scurt drum.",
+                "en": "Use the 'Svatá Hora, areál' stop for the shortest walk."
+              }
+            },
+            {
+              "name": "Svatá Hora (Holy Mountain)",
+              "tip_5lang": {
+                "de": "Der Bus hält nah am Eingang, was langes Laufen im Regen erspart.",
+                "hu": "A busz közel áll meg a bejárathoz, így elkerülhető a hosszú ázás.",
+                "ro": "Autobuzul oprește aproape de intrare, evitând mersul lung prin ploaie.",
+                "en": "The bus stops close to the entrance, saving you from a long walk in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die App 'IDOS' für Echtzeit-Busverbindungen in Příbram herunter.",
+              "Fahrkarten können direkt beim Fahrer gekauft werden (Bargeld bereit halten).",
+              "Die Busse sind gut beheizt, ideal zum Aufwärmen zwischen den Stopps.",
+              "Die Haltestelle am Bergbaumuseum ist sehr nah an den Kassenhäusern.",
+              "An Wochenenden fahren die Busse seltener; prüfen Sie den Fahrplan vorab."
+            ],
+            "hu": [
+              "Töltse le az 'IDOS' alkalmazást a valós idejű příbrami buszjáratokhoz.",
+              "Jegyek közvetlenül a sofőrnél vásárolhatók (legyen aprópénze).",
+              "A buszok jól fűtöttek, ideálisak a felmelegedésre a megállók között.",
+              "A bányamúzeumi megálló nagyon közel van a pénztárakhoz.",
+              "Hétvégén ritkábban járnak a buszok; előre ellenőrizze a menetrendet."
+            ],
+            "ro": [
+              "Descărcați aplicația 'IDOS' pentru conexiuni de autobuz în timp real în Příbram.",
+              "Biletele pot fi cumpărate direct de la șofer (pregătiți bani cash).",
+              "Autobuzele sunt bine încălzite, ideale pentru încălzire între opriri.",
+              "Stația de la Muzeul Mineritului este foarte aproape de casele de bilete.",
+              "În weekend autobuzele circulă mai rar; verificați orarul în avans."
+            ],
+            "en": [
+              "Download the 'IDOS' app for real-time bus connections in Pribram.",
+              "Tickets can be purchased directly from the driver (have cash ready).",
+              "Buses are well-heated, ideal for warming up between stops.",
+              "The stop at the Mining Museum is very close to the ticket offices.",
+              "Buses run less frequently on weekends; check the schedule in advance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen beginnt mit der Ankunft im frostigen Zentrum, wo die St.-Jakobs-Kirche in der Kälte glänzt. Der Bus bietet eine warme Zuflucht auf dem Weg nach Březové Hory, wo das Bergbaumuseum mit seinen milden Unter-Tage-Temperaturen lockt. Nach einem deftigen tschechischen Mittagessen bringt Sie die Linie 2 hinauf zum Heiligen Berg. Von dort oben genießen Sie die Aussicht auf die verschneite Stadt, bevor der Bus Sie pünktlich vor der Dunkelheit zurück zum Bahnhof bringt.",
+            "hu": "Egy téli reggel a fagyos központba való érkezéssel indul, ahol a Szent Jakab-templom csillog a hidegben. A busz meleg menedéket nyújt a Březové Hory felé vezető úton, ahol a bányamúzeum enyhe föld alatti hőmérséklete csalogatja. Egy kiadós cseh ebéd után a 2-es járat felviszi a Szent-hegyre. Onnan fentről élvezheti a havas város látványát, mielőtt a busz még sötétedés előtt visszavinné a vasútállomásra.",
+            "ro": "O dimineață de iarnă începe cu sosirea în centrul înghețat, unde Biserica Sf. Iacob strălucește în frig. Autobuzul oferă un refugiu cald în drum spre Březové Hory, unde Muzeul Mineritului atrage cu temperaturile sale blânde din subteran. După un prânz cehesc consistent, linia 2 vă duce sus la Muntele Sfânt. De acolo, vă bucurați de vederea orașului înzăpezit, înainte ca autobuzul să vă ducă înapoi la gară înainte de lăsarea întunericului.",
+            "en": "A winter morning starts with an arrival in the frosty center, where St. James Church shines in the cold. The bus provides a warm sanctuary on the way to Březové Hory, where the Mining Museum beckons with its mild underground temperatures. After a hearty Czech lunch, line 2 takes you up to Holy Mountain. From there, enjoy the view of the snowy city before the bus brings you back to the station before dark."
+          },
+          "stops": [
+            {
+              "name": "Arrival in the City Center (Jiráskovy sady stop)",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt zentral; halten Sie sich im Windschatten warm.",
+                "hu": "A megálló központi helyen van; keressen szélvédett helyet a hidegben.",
+                "ro": "Stația este centrală; stați la adăpost de vânt pentru a vă menține cald.",
+                "en": "The stop is central; stay in a wind-sheltered spot to keep warm."
+              }
+            },
+            {
+              "name": "St. James's Church & Ernestinum",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang zum Aufwärmen; achten Sie auf glatte Gehwege.",
+                "hu": "Rövid séta a bemelegítéshez; ügyeljen a jeges járdákra.",
+                "ro": "Scurtă plimbare pentru încălzire; atenție la trotuarele înghețate.",
+                "en": "A short walk to warm up; watch out for slippery sidewalks."
+              }
+            },
+            {
+              "name": "Bus ride to the Mining Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verschneiten Gassen aus dem warmen Bus.",
+                "hu": "Élvezze a havas utcák látványát a meleg buszból.",
+                "ro": "Bucurați-vă de vederea străzilor înzăpezite din autobuzul cald.",
+                "en": "Enjoy the view of the snowy streets from the warmth of the bus."
+              }
+            },
+            {
+              "name": "Mining Museum & Lunch",
+              "tip_5lang": {
+                "de": "Im Winter sind die Cafés in Březové Hory besonders gemütlich.",
+                "hu": "Télen a Březové Hory kávézói különösen hangulatosak.",
+                "ro": "Iarna, cafenelele din Březové Hory sunt deosebit de primitoare.",
+                "en": "In winter, the cafes in Březové Hory are especially cozy."
+              }
+            },
+            {
+              "name": "Bus ride to Svatá Hora",
+              "tip_5lang": {
+                "de": "Die Busfahrt erspart den anstrengenden Aufstieg bei Kälte.",
+                "hu": "A buszozás megkíméli a fárasztó emelkedőtől a hidegben.",
+                "ro": "Drumul cu autobuzul vă scutește de urcarea obositoare prin frig.",
+                "en": "The bus ride saves you from the strenuous climb in the cold."
+              }
+            },
+            {
+              "name": "Svatá Hora (Holy Mountain)",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Rückfahrplan, um nicht zu lange in der Kälte zu warten.",
+                "hu": "Ellenőrizze a visszautat, hogy ne kelljen sokat várnia a hidegben.",
+                "ro": "Verificați orarul de întoarcere pentru a nu aștepta prea mult în frig.",
+                "en": "Check the return schedule to avoid waiting too long in the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Kontaktlose Zahlung im Bus, um das Suchen nach Kleingeld zu vermeiden.",
+              "Die Haltestellenanzeigen im Bus helfen bei der Orientierung in der Dämmerung.",
+              "Warten Sie in Geschäften oder Cafés in der Nähe der Haltestellen, wenn der Bus Verspätung hat.",
+              "Der Busbahnhof Příbram ist ein guter Startpunkt mit beheiztem Wartesaal.",
+              "Planen Sie Pufferzeiten ein, da Schnee den Fahrplan leicht beeinflussen kann."
+            ],
+            "hu": [
+              "Használja az érintésmentes fizetést a buszon, hogy ne kelljen apró után kutatnia.",
+              "A busz belső kijelzői segítenek a tájékozódásban a korai sötétedéskor.",
+              "Várakozzon a megállók közeli boltjaiban vagy kávézóiban, ha késik a busz.",
+              "A příbrami buszpályaudvar jó kiindulópont fűtött váróteremmel.",
+              "Számoljon rá egy kis időt, mert a hó befolyásolhatja a menetrendet."
+            ],
+            "ro": [
+              "Folosiți plata contactless în autobuz pentru a evita căutarea restului.",
+              "Afișajele din autobuz ajută la orientare pe timpul amurgului.",
+              "Așteptați în magazinele sau cafenelele de lângă stații dacă autobuzul întârzie.",
+              "Autogara Příbram este un punct de plecare bun, având sală de așteptare încălzită.",
+              "Planificați timp suplimentar, deoarece zăpada poate afecta ușor orarul."
+            ],
+            "en": [
+              "Use contactless payment on the bus to avoid searching for small change.",
+              "Internal bus displays help with orientation during the early dusk.",
+              "Wait in nearby shops or cafes if the bus is running late in the cold.",
+              "Pribram bus station is a good starting point with a heated waiting room.",
+              "Allow for some buffer time, as snow can slightly affect the bus schedule."
+            ]
+          }
+        }
       }
     }
   }

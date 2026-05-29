@@ -280,6 +280,188 @@
           "Wear comfortable shoes as the cobblestones in the city centre can be uneven.",
           "Check the opening hours for the museum in Bagenal's Castle in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Rathaus, wo das markante Gebäude über dem Fluss Clanrye Schutz vor den ersten Tropfen bietet. Ein kurzer Sprint führt zur St. Patrick's Church, deren geschichtsträchtiges Inneres eine trockene Zuflucht für stille Gebete bietet.\n\nMittags erreichen Sie die beeindruckende Newry Cathedral. Die prächtigen Mosaike leuchten auch bei grauem Himmel. Danach bietet das Bagenal's Castle im Museumsbereich reichlich Zeit, die Stadtgeschichte im Trockenen zu erkunden.\n\nAm Nachmittag führt der Weg am Newry Canal entlang. Die Reflexionen des Regens auf dem Wasser verleihen der industriellen Erbe-Stätte eine melancholische Schönheit. Festes Schuhwerk ist hier für die Uferwege unerlässlich.\n\nDer Abend endet am Flagstaff Viewpoint. Auch wenn Wolken die Sicht auf Carlingford Lough einschränken könnten, wirkt die neblige Landschaft mystisch und friedvoll unter dem Schutz eines stabilen Regenschirms.",
+            "hu": "A reggel a Városházánál indul, ahol a Clanrye-folyó felett átívelő épület menedéket nyújt az első cseppek elől. Egy rövid séta a Szent Patrik-templomig vezet, melynek történelmi falai között szárazon pihenhetünk meg.\n\nDélben a Newry-székesegyház lenyűgöző mozaikjai feledtetik a kinti szürkeséget. Ezt követi a Bagenal-kastély, ahol a múzeumi kiállítások hosszú órákra elegendő fedett programot kínálnak a helyi történelem kedvelőinek.\n\nDélután a Newry-csatorna mentén haladunk. Az esőcseppek tánca a vízen különleges hangulatot ad az ipari örökségnek, bár a parti sétányon figyelnünk kell a tócsákra és a csúszós szakaszokra.\n\nAz este a Flagstaff kilátópontnál zárul. Bár a köd elfedheti a Carlingford Lough panorámáját, a párás hegyoldal és a sűrű felhők misztikus keretet adnak a nap végének, ha van nálunk egy jó esernyő.",
+            "ro": "Dimineața începe la Primărie, unde clădirea ridicată peste râul Clanrye oferă un adăpost vizual contra ploii. O scurtă plimbare vă duce la Biserica Sf. Patrick, un loc liniștit unde interiorul istoric vă protejează de intemperii.\n\nLa prânz, vizitați Catedrala din Newry, ale cărei mozaicuri strălucesc chiar și sub cerul plumburiu. Urmează Castelul Bagenal, unde expozițiile muzeului oferă o experiență culturală bogată și complet adăpostită de ploaie.\n\nDupă-amiaza este dedicată Canalului Newry. Reflexiile ploii pe apă adaugă un farmec melancolic patrimoniului industrial. Este recomandat să aveți încălțăminte impermeabilă pentru potecile de pe malul apei.\n\nSeara se încheie la punctul de observație Flagstaff. Chiar dacă norii pot limita vizibilitatea spre Carlingford Lough, peisajul învăluit în ceață are o aură mistică, perfectă pentru o încheiere liniștită a zilei.",
+            "en": "The morning starts at the Town Hall, where the iconic building over the River Clanrye provides cover from the first drops. A short walk leads to St Patrick's Church, offering a dry sanctuary within its historic and peaceful walls.\n\nAt noon, the Newry Cathedral's magnificent mosaics shine even under grey skies. This is followed by Bagenal's Castle, where the museum galleries provide ample indoor time to explore local history away from the rain.\n\nIn the afternoon, follow the Newry Canal. The rain's reflection on the water adds a melancholic beauty to the industrial heritage site, though waterproof boots are recommended for the towpath stretches.\n\nAn evening at Flagstaff Viewpoint concludes the day. While clouds might mask the full view of Carlingford Lough, the misty landscape offers a mystical and atmospheric end to your journey under a sturdy umbrella."
+          },
+          "stops": [
+            {
+              "name": "Newry Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um die Kamera für Fotos vorzubereiten.",
+                "hu": "Használja a fedett bejáratot a fényképezőgép előkészítéséhez.",
+                "ro": "Folosiți intrarea acoperită pentru a vă pregăti camera foto.",
+                "en": "Use the sheltered entrance area to prep your camera for photos."
+              }
+            },
+            {
+              "name": "St Patrick's Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um einen heftigen Schauer in Würde abzuwarten.",
+                "hu": "Méltóságteljes hely egy hirtelen zápor átvészelésére.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea unei averse puternice.",
+                "en": "A dignified place to wait out a heavy downpour in silence."
+              }
+            },
+            {
+              "name": "Newry Cathedral",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Mosaike; das Licht wirkt bei Regen besonders weich.",
+                "hu": "Csodálja meg a mozaikokat; a fény esőben különlegesen lágy.",
+                "ro": "Admirați mozaicurile; lumina este deosebit de blândă pe timp de ploaie.",
+                "en": "Admire the mosaics; the natural light is particularly soft during rain."
+              }
+            },
+            {
+              "name": "Bagenal's Castle",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, da das gesamte Museum überdacht ist.",
+                "hu": "Töltsön itt több időt, mivel a teljes múzeum fedett.",
+                "ro": "Petreceți mai mult timp aici, deoarece întregul muzeu este acoperit.",
+                "en": "Plan extra time here as the entire museum is indoors and dry."
+              }
+            },
+            {
+              "name": "Newry Canal",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Stellen an den alten Schleusen.",
+                "hu": "Vigyázzon a csúszós részekre a régi zsilipeknél.",
+                "ro": "Atenție la porțiunile alunecoase din apropierea ecluzelor vechi.",
+                "en": "Watch out for slippery patches near the old lock gates."
+              }
+            },
+            {
+              "name": "Flagstaff Viewpoint",
+              "tip_5lang": {
+                "de": "Nur bei leichterem Regen zu empfehlen, sonst ist die Sicht zu gering.",
+                "hu": "Csak enyhe esőben ajánlott, különben a látótávolság túl kicsi.",
+                "ro": "Recomandat doar pe ploaie ușoară, altfel vizibilitatea este redusă.",
+                "en": "Recommended only in light rain; otherwise, visibility is very poor."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Buttercrane und Quays Shopping Center bieten gute Ausweichmöglichkeiten bei Starkregen.",
+              "Ein großer Stockschirm ist wegen der oft windigen Böen am Kanal besser als ein kleiner Knirps.",
+              "Die Innenstadt hat viele kleine Cafés, in denen man sich zwischendurch aufwärmen kann.",
+              "Wasserdichte Wanderschuhe sind für die Wege am Kanal und zum Viewpoint sehr ratsam."
+            ],
+            "hu": [
+              "A Buttercrane és Quays bevásárlóközpontok jó menekülők útvonalak heves esőzés esetén.",
+              "A csatorna menti szél miatt egy stabilabb boternyő praktikusabb, mint az összecsukható változat.",
+              "A belvárosban számos hangulatos kávézó várja, ha két megálló között megszáradna.",
+              "Vízálló túrabakancs ajánlott, különösen a csatornaparton és a kilátónál."
+            ],
+            "ro": [
+              "Centrele comerciale Buttercrane și Quays sunt bune refugii în caz de ploaie torențială.",
+              "O umbrelă mare este mai utilă decât una mică din cauza vântului de pe canal.",
+              "Centrul orașului are multe cafenele mici unde vă puteți încălzi între opriri.",
+              "Încălțămintea impermeabilă este esențială pentru potecile de lângă canal și belvedere."
+            ],
+            "en": [
+              "The Buttercrane and Quays shopping centres offer great indoor alternatives during heavy downpours.",
+              "A sturdy golf umbrella is better than a travel one due to windy gusts along the canal.",
+              "The city centre has many cozy cafes perfect for drying off between stops.",
+              "Waterproof walking shoes are highly advisable for the canal towpath and viewpoint."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Rathaus, das oft festlich beleuchtet ist. Die Kälte beißt, aber der Anblick des Wassers unter der Brücke ist erfrischend. In der St. Patrick's Church findet man kurzzeitige Ruhe vor dem Winterwind.\n\nDie Mittagszeit in der Newry Cathedral ist besonders stimmungsvoll. Die Kerzen und die dicken Steinmauern schaffen eine Atmosphäre von Beständigkeit. Im Bagenal's Castle wärmt man sich bei der Erkundung der mittelalterlichen Exponate wieder auf.\n\nNachmittags am Newry Canal zeigt sich die Natur im Winterschlaf. Der kahle Baumbestand lässt die historischen Industriegebäude deutlicher hervortreten. Die tiefstehende Sonne sorgt für lange Schatten auf dem Treppelweg.\n\nDer frühe Abend bricht am Flagstaff Viewpoint an. Da es bereits gegen 16:30 Uhr dunkel wird, genießt man die glitzernden Lichter der Stadt im Tal, bevor man sich in die Wärme eines Pubs zurückzieht.",
+            "hu": "A deres reggel a Városházánál indul, melyet ilyenkor gyakran ünnepi fények díszítenek. A hideg csípős, de a folyó látványa frissítő. A Szent Patrik-templom csendes falai között rövid pihenőt tarthatunk a téli szél elől.\n\nA délidő a Newry-székesegyházban különlegesen hangulatos. A gyertyák fénye és a vastag kőfalak az állandóság érzetét keltik. A Bagenal-kastélyban a középkori kiállítások között sétálva újra felmelegedhetünk.\n\nDélután a Newry-csatorna partján a természet téli álmát láthatjuk. A kopár fák mögött jobban kirajzolódnak a történelmi ipari épületek. Az alacsonyan járó nap hosszú árnyékokat vet a sétányra.\n\nA korai este a Flagstaff kilátópontnál ér utol minket. Mivel fél öt körül már sötétedik, a völgyben szikrázó városi fények látványa kárpótol a hidegért, mielőtt egy meleg pubba térnénk.",
+            "ro": "O dimineață geroasă începe la Primărie, adesea decorată festiv în timpul iernii. Frigul este tăios, dar vederea râului este revigorantă. În Biserica Sf. Patrick găsiți un moment de liniște ferit de vântul rece de iarnă.\n\nPrânzul la Catedrala din Newry este deosebit de atmosferic. Lumânările și zidurile groase de piatră creează o senzație de căldură spirituală. La Castelul Bagenal, vă puteți încălzi în timp ce explorați exponatele medievale.\n\nDupă-amiaza pe Canalul Newry dezvăluie natura în repaus hibernal. Copacii desfrunziți permit o vedere mai clară asupra clădirilor industriale istorice. Soarele jos produce umbre lungi pe aleile de plimbare.\n\nSeara timpurie se lasă peste punctul de observație Flagstaff. Deoarece se întunecă în jur de 16:30, vă veți bucura de luminile sclipitoare ale orașului din vale înainte de a căuta căldura unui pub local.",
+            "en": "A frosty morning begins at the Town Hall, often festively lit during winter. The chill is sharp, but the river views are refreshing. Seek a brief moment of respite from the winter wind inside St Patrick's Church.\n\nNoontime at Newry Cathedral is particularly atmospheric. Candles and thick stone walls create a sense of enduring warmth. At Bagenal's Castle, you can thaw out while exploring the fascinating medieval exhibits.\n\nIn the afternoon, the Newry Canal shows nature in its winter sleep. The bare trees allow for a clearer view of the historic industrial architecture. The low sun casts long, dramatic shadows across the towpath.\n\nEarly evening arrives at Flagstaff Viewpoint. As it gets dark by 4:30 PM, you can enjoy the twinkling lights of the city in the valley below before retreating to the warmth of a local pub."
+          },
+          "stops": [
+            {
+              "name": "Newry Town Hall",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Weihnachtsbeleuchtung, falls Sie im Dezember dort sind.",
+                "hu": "Nézze meg az ünnepi kivilágítást, ha decemberben jár erre.",
+                "ro": "Admirați luminile de sărbătoare dacă vizitați orașul în decembrie.",
+                "en": "Check out the festive lighting if you are visiting in December."
+              }
+            },
+            {
+              "name": "St Patrick's Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten den eisigen Wind gut ab.",
+                "hu": "A vastag falak jól felfogják a jeges szelet.",
+                "ro": "Zidurile groase blochează eficient vântul înghețat.",
+                "en": "The thick stone walls provide excellent shelter from icy winds."
+              }
+            },
+            {
+              "name": "Newry Cathedral",
+              "tip_5lang": {
+                "de": "Die Kerzenlichter bieten im Winter eine besonders warme Atmosphäre.",
+                "hu": "A gyertyafény télen különösen meleg hangulatot áraszt.",
+                "ro": "Lumina lumânărilor oferă o atmosferă caldă în timpul iernii.",
+                "en": "The candlelight provides a particularly warm atmosphere in winter."
+              }
+            },
+            {
+              "name": "Bagenal's Castle",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich für eine Stunde richtig aufzuwärmen.",
+                "hu": "Ideális hely, hogy egy órára alaposan felmelegedjen.",
+                "ro": "Un loc ideal pentru a vă încălzi bine timp de o oră.",
+                "en": "An ideal place to properly warm up for an hour or so."
+              }
+            },
+            {
+              "name": "Newry Canal",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe auf dem Treppelweg.",
+                "hu": "Vigyázzon a lefagyott tócsákra a parti sétányon.",
+                "ro": "Atenție la gheața formată pe aleile de lângă canal.",
+                "en": "Watch out for patches of black ice on the canal towpath."
+              }
+            },
+            {
+              "name": "Flagstaff Viewpoint",
+              "tip_5lang": {
+                "de": "Warm anziehen; der Wind hier oben kann im Winter schneidend sein.",
+                "hu": "Öltözzön rétegesen; a szél itt fent metsző lehet télen.",
+                "ro": "Îmbrăcați-vă gros; vântul de aici poate fi tăios iarna.",
+                "en": "Dress warmly; the wind up here can be biting in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche, da die Feuchtigkeit vom Kanal die Kälte verstärkt.",
+              "Die Sonne geht früh unter; planen Sie den Viewpoint für spätestens 15:30 Uhr ein.",
+              "Viele Cafés bieten im Winter traditionelle herzhafte Suppen an.",
+              "Die Gehwege können morgens gestreut sein, aber Vorsicht bleibt geboten."
+            ],
+            "hu": [
+              "Viseljen termikus aláöltözetet, mert a csatorna felőli pára fokozza a hideget.",
+              "A nap korán nyugszik; a kilátót legkésőbb 15:30-ra tervezze be.",
+              "Sok kávézó kínál télen hagyományos, laktató leveseket.",
+              "A járdákat reggel felszórhatják, de továbbra is legyen óvatos a csúszásveszély miatt."
+            ],
+            "ro": [
+              "Purtați haine termice, deoarece umiditatea de pe canal accentuează frigul.",
+              "Soarele apune devreme; planificați vizita la belvedere cel târziu la 15:30.",
+              "Multe cafenele oferă iarna supe calde tradiționale și consistente.",
+              "Trotuarele pot fi date cu sare dimineața, dar prudența rămâne necesară."
+            ],
+            "en": [
+              "Wear thermal layers as the dampness from the canal amplifies the cold.",
+              "The sun sets early; aim to reach the viewpoint by 3:30 PM at the latest.",
+              "Many local cafes serve traditional hearty soups during the winter months.",
+              "Pavements may be salted in the morning, but remain cautious of slippery spots."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -554,6 +736,188 @@
           "Bring a good bike lock.",
           "A helmet is strongly recommended, especially for city traffic and country roads."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Tour beginnt am Newry Canal, wo der Regen kleine Ringe auf die Wasseroberfläche zeichnet. Das Treten auf dem flachen Uferweg ist auch bei Nässe gut machbar, erfordert aber Konzentration. Beim Rathaus bietet das Gebäude einen kurzen Stopp im Trockenen.\n\nMittags erreichen Sie Bagenal's Castle. Die Räder können sicher in der Nähe abgestellt werden, während Sie drinnen die trockene Museumsluft genießen. Danach führt ein kurzer Weg zur Kathedrale, wo das prachtvolle Innere zum Verweilen einlädt.\n\nAm Nachmittag wird es sportlich beim Anstieg zum Flagstaff Viewpoint. Der Regen macht den Asphalt glänzend, aber die Anstrengung hält warm. Die Aussicht ist verhangen, wirkt aber gerade dadurch sehr nordisch und rau.\n\nDer Tag endet am Narrow Water Castle. Das monumentale Gebäude am Wasser trotzt dem Regen und bietet eine dramatische Kulisse für das Ende einer nass-kalten, aber erfrischenden Radtour.",
+            "hu": "A túra a Newry-csatornánál indul, ahol az eső apró gyűrűket rajzol a vízre. A sík parti úton haladni esőben is könnyű, de figyelmet igényel. A Városházánál az épület rövid, száraz pihenőt kínál.\n\nDélben a Bagenal-kastélyhoz érünk. A bicikliket a közelben lezárva élvezhetjük a múzeum száraz levegőjét. Ezután egy rövid tekerés a székesegyház, ahol a pompás belső tér hívogat maradásra.\n\nDélután sportosabb szakasz következik a Flagstaff kilátó felé. Az eső fényessé teszi az aszfaltot, de a mozgás melegen tart. A kilátás párás, de pont ettől válik igazán északivá és nyerssé.\n\nA nap a Narrow Water kastélynál zárul. A monumentális vízi épület dacol az esővel, drámai hátteret biztosítva egy vizes, de frissítő kerékpártúra végéhez.",
+            "ro": "Turul începe la Canalul Newry, unde ploaia desenează cercuri mici pe suprafața apei. Pedalarea pe drumul plat de pe mal este fezabilă și pe ploaie, dar necesită concentrare. La Primărie, clădirea oferă o scurtă oprire la adăpost.\n\nLa prânz, ajungeți la Castelul Bagenal. Bicicletele pot fi parcate în apropiere în timp ce vă bucurați de aerul uscat din muzeu. Urmează un drum scurt spre Catedrală, unde interiorul magnific vă invită să zăboviți.\n\nDupă-amiaza devine sportivă cu urcarea spre punctul de observație Flagstaff. Ploaia face asfaltul strălucitor, dar efortul vă menține calzi. Vederea este cețoasă, dar tocmai de aceea pare autentic nordică și brută.\n\nZiua se încheie la Castelul Narrow Water. Edificiul monumental de pe malul apei sfidează ploaia și oferă un decor dramatic pentru finalul unei ture cu bicicleta răcoroase, dar revigorante.",
+            "en": "The tour begins at Newry Canal, where raindrops create ripples on the water. Cycling the flat towpath is manageable in the wet but requires focus. At the Town Hall, the overhead building offers a quick dry break.\n\nAt noon, you reach Bagenal's Castle. Lock your bikes nearby and enjoy the dry museum air while exploring the history. A short ride follows to the Cathedral, where the grand interior invites you to stay a while.\n\nIn the afternoon, the climb to Flagstaff Viewpoint gets physical. The rain makes the asphalt glisten, but the exertion keeps you warm. The view is misty, giving the landscape a raw, Northern character.\n\nThe day concludes at Narrow Water Castle. The monumental tower house by the water braves the rain, providing a dramatic backdrop for the end of a wet but invigorating cycling journey."
+          },
+          "stops": [
+            {
+              "name": "Newry Canal",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Bremsmanöver auf dem nassen Treppelweg.",
+                "hu": "Kerülje az éles fékezést a vizes parti sétányon.",
+                "ro": "Evitați frânările bruște pe poteca umedă de lângă canal.",
+                "en": "Avoid sharp braking on the wet canal towpath."
+              }
+            },
+            {
+              "name": "Newry Town Hall",
+              "tip_5lang": {
+                "de": "Kurze Pause unter der Brückenkonstruktion zum Trinken.",
+                "hu": "Rövid pihenő a híd alatt egy kis frissítőre.",
+                "ro": "Scurtă pauză sub structura podului pentru hidratare.",
+                "en": "Quick drink break under the bridge structure for shelter."
+              }
+            },
+            {
+              "name": "Bagenal's Castle",
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad gut an; der Boden kann hier rutschig sein.",
+                "hu": "Zárja le jól a gépet; a talaj itt csúszós lehet.",
+                "ro": "Asigurați bine bicicleta; pavajul poate fi alunecos aici.",
+                "en": "Lock your bike securely; the pavement can be slick here."
+              }
+            },
+            {
+              "name": "Newry Cathedral",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Regenkleidung kurz zu lüften.",
+                "hu": "Jó hely az esőruházat rövid szellőztetésére.",
+                "ro": "Un loc bun pentru a aerisi scurt hainele de ploaie.",
+                "en": "A good spot to briefly air out your waterproof gear."
+              }
+            },
+            {
+              "name": "Flagstaff Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Abfahrt; die Kurven können tückisch sein.",
+                "hu": "Vigyázzon a lefelé úton; a kanyarok trükkösek lehetnek.",
+                "ro": "Atenție la coborâre; curbele pot fi înșelătoare pe ploaie.",
+                "en": "Be cautious on the descent; corners can be treacherous when wet."
+              }
+            },
+            {
+              "name": "Narrow Water Castle",
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick, bevor Sie sich ins Trockene begeben.",
+                "hu": "Élvezze a látványt, mielőtt száraz helyre vonulna.",
+                "ro": "Admirați vederea înainte de a vă retrage la adăpost.",
+                "en": "Enjoy the view before heading back to a dry indoor spot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter absolut notwendig.",
+              "Tragen Sie neongelbe Regenkleidung, da die Sicht für Autofahrer eingeschränkt ist.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Viewpoint besonders gründlich.",
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können."
+            ],
+            "hu": [
+              "A sárvédő használata ebben az időben elengedhetetlen.",
+              "Viseljen neon esőruhát, mert az autósok látási viszonyai korlátozottak.",
+              "A kilátótól való leereszkedés előtt ellenőrizze alaposan a fékeket.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt absolut necesare pe această vreme.",
+              "Purtați haine de ploaie reflectorizante, vizibilitatea șoferilor fiind redusă.",
+              "Verificați frânele cu atenție înainte de a coborî de la belvedere.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci în carosabil."
+            ],
+            "en": [
+              "Mudguards are absolutely essential on your bike in this weather.",
+              "Wear high-vis waterproofs as driver visibility is significantly reduced.",
+              "Check your brakes thoroughly before descending from the viewpoint.",
+              "Avoid puddles as they can hide deep and dangerous potholes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Newry Canal ist ruhig und klar. Die kalte Luft füllt die Lungen, während man am Wasser entlanggleitet. Ein kurzer Stopp am Rathaus zeigt das historische Gebäude in kühlem, nordischem Licht.\n\nMittags bietet Bagenal's Castle eine willkommene Aufwärmpause. Nach dem Besuch der warmen Museumsräume geht es weiter zur Kathedrale. Die Stille im Inneren wird nur durch den eigenen Atem in der kalten Luft unterstrichen.\n\nNachmittags steht die Herausforderung zum Flagstaff Viewpoint an. Die Muskelarbeit am Berg vertreibt die Kälte. Oben angekommen, ist die Luft oft kristallklar und bietet eine weite Sicht über die winterliche Landschaft.\n\nDer Tag endet früh am Narrow Water Castle. Bei Sonnenuntergang gegen 16:30 Uhr wirken die Mauern besonders trutzig gegen den Winterhimmel. Eine schnelle Fahrt zurück in die Stadt beendet diesen sportlichen Wintertag.",
+            "hu": "A téli reggel a Newry-csatornánál csendes és tiszta. A hideg levegő megtölti a tüdőt, miközben a víz mellett siklunk. Egy rövid megálló a Városházánál megmutatja az épületet a hűvös, északi fényben.\n\nDélben a Bagenal-kastély nyújt várva várt felmelegedést. A meleg múzeumi terek után a székesegyház felé vesszük az irányt, ahol a benti csendet csak a saját leheletünk töri meg a hidegben.\n\nDélután jön a kihívás: a Flagstaff kilátó. A hegyi menet elűzi a hideget. Felérve a levegő gyakran kristálytiszta, messzire ellátni a téli táj felett.\n\nA nap korán zárul a Narrow Water kastélynál. A fél öt körüli naplementében a falak különösen büszkén állnak a téli égbolt előtt. Egy gyors tekerés vissza a városba zárja ezt a sportos napot.",
+            "ro": "Dimineața de iarnă pe Canalul Newry este liniștită și senină. Aerul rece vă umple plămânii în timp ce pedalați pe lângă apă. O scurtă oprire la Primărie arată clădirea istorică într-o lumină nordică rece.\n\nLa prânz, Castelul Bagenal oferă o pauză de încălzire binevenită. După vizitarea muzeului, continuați spre Catedrală. Liniștea din interior este subliniată doar de propria respirație în aerul rece.\n\nDupă-amiaza presupune provocarea urcării la punctul de observație Flagstaff. Efortul muscular pe deal alungă frigul. Odată ajunși sus, aerul este adesea cristal de curat, oferind o vedere vastă peste peisajul hibernal.\n\nZiua se încheie devreme la Castelul Narrow Water. La apus, în jur de 16:30, zidurile par deosebit de dârze sub cerul de iarnă. O cursă rapidă înapoi în oraș încheie această zi sportivă de iarnă.",
+            "en": "The winter morning at Newry Canal is quiet and clear. Cold air fills your lungs as you glide along the water. A quick stop at the Town Hall reveals the historic building in cool, Nordic light.\n\nAt noon, Bagenal's Castle offers a welcome warm-up break. After visiting the museum rooms, continue to the Cathedral. The silence inside is punctuated only by your own breath in the cold air.\n\nIn the afternoon, face the challenge of climbing to Flagstaff Viewpoint. The physical effort on the hill chases away the chill. Once at the top, the air is often crystal clear, offering a wide view over the wintry landscape.\n\nThe day ends early at Narrow Water Castle. At sunset around 4:30 PM, the walls look particularly defiant against the winter sky. A brisk ride back to town concludes this active winter day."
+          },
+          "stops": [
+            {
+              "name": "Newry Canal",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Fahrt am offenen Kanal.",
+                "hu": "Viseljen szélálló kesztyűt a nyitott csatornaparti tekeréshez.",
+                "ro": "Purtați mănuși rezistente la vânt pentru porțiunea deschisă a canalului.",
+                "en": "Wear windproof gloves for the stretch along the open canal."
+              }
+            },
+            {
+              "name": "Newry Town Hall",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für ein schnelles Foto im Winterlicht.",
+                "hu": "Szép hely egy gyors fotóhoz a téli fényekben.",
+                "ro": "Un loc frumos pentru o fotografie rapidă în lumina de iarnă.",
+                "en": "A beautiful spot for a quick photo in the crisp winter light."
+              }
+            },
+            {
+              "name": "Bagenal's Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Winterkleidung kurz abzulegen.",
+                "hu": "Használja a ruhatárat a nehéz téli ruhák ideiglenes elhelyezésére.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele groase în timpul vizitei.",
+                "en": "Use the cloakroom to briefly shed heavy winter layers during your visit."
+              }
+            },
+            {
+              "name": "Newry Cathedral",
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, mit nassen Schuhen auf dem Steinboden auszurutschen.",
+                "hu": "Vigyázzon, ne csússzon meg a vizes cipővel a kőpadlón.",
+                "ro": "Aveți grijă să nu alunecați cu încălțămintea umedă pe podeaua de piatră.",
+                "en": "Be careful not to slip on the stone floor with wet footwear."
+              }
+            },
+            {
+              "name": "Flagstaff Viewpoint",
+              "tip_5lang": {
+                "de": "Bei der Abfahrt kühlt man extrem schnell aus; Schal hochziehen.",
+                "hu": "Lefelé menet rendkívül gyorsan lehűl az ember; húzza fel a sálat.",
+                "ro": "Vă veți răci rapid la coborâre; ridicați fularul peste față.",
+                "en": "You will cool down very quickly on the descent; pull up your scarf."
+              }
+            },
+            {
+              "name": "Narrow Water Castle",
+              "tip_5lang": {
+                "de": "Achten Sie auf das Tageslicht; die Rückfahrt sollte vor 17 Uhr erfolgen.",
+                "hu": "Figyeljen a fényviszonyokra; a visszaút 17 óra előtt javasolt.",
+                "ro": "Atenție la lumina zilei; întoarcerea trebuie făcută înainte de ora 17.",
+                "en": "Keep an eye on the daylight; aim to be heading back by 5 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten (Zwiebelprinzip) für maximale Wärmeisolierung.",
+              "Stirnlampen und gute Fahrradlichter sind wegen der frühen Dämmerung Pflicht.",
+              "Die Reifen sollten etwas weniger Luftdruck haben für besseren Grip auf kaltem Asphalt.",
+              "Eine isolierte Thermoskanne mit Tee hält die Körpertemperatur stabil."
+            ],
+            "hu": [
+              "Használjon réteges öltözködést a maximális hőszigetelés érdekében.",
+              "A korai sötétedés miatt a jó kerékpáros lámpa és a fejlámpa kötelező.",
+              "A gumiabroncsokban legyen kicsit kevesebb nyomás a jobb tapadásért a hideg aszfalton.",
+              "Egy szigetelt termosz meleg teával segít stabilan tartani a testhőt."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine pentru o izolare termică maximă.",
+              "Farurile bune și o lanternă frontală sunt obligatorii din cauza amurgului timpuriu.",
+              "Anvelopele ar trebui să aibă o presiune ușor mai mică pentru aderență pe asfaltul rece.",
+              "Un termos izolat cu ceai cald ajută la menținerea temperaturii corpului."
+            ],
+            "en": [
+              "Use multiple thin layers (onion principle) for maximum thermal insulation.",
+              "Front and rear lights are mandatory due to the very early winter dusk.",
+              "Keep your tyre pressure slightly lower for better grip on cold, hard asphalt.",
+              "An insulated flask with hot tea will help maintain your core body temperature."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -858,6 +1222,206 @@
           "Many car parks in the city centre are pay-and-display, so have coins ready.",
           "Country roads can be narrow, so drive with care."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt bequem im Auto bei Derrymore House. Der Regen prasselt auf das Dach, während Sie die Aussicht auf das historische Anwesen genießen. Ein kurzer Sprung zum Flagstaff Viewpoint bietet trotz Wolken eine dramatische Perspektive.\n\nMittags parken Sie im Stadtzentrum. Das Parkhaus bietet Schutz, während Sie zu Fuß das Bagenal's Castle und die Kathedrale erkunden. Die kurzen Wege zwischen den Sehenswürdigkeiten sind auch bei Regen kein Problem.\n\nNach dem Mittagessen in der Stadt führt die Fahrt zum Narrow Water Castle. Vom warmen Fahrzeug aus lässt sich die Küstenstraße und die stürmische See besonders entspannt beobachten.\n\nDer Abend endet gemütlich. Die Rückfahrt durch die regnerischen Straßen von Newry bietet eine stimmungsvolle Atmosphäre, bevor Sie den Wagen sicher abstellen.",
+            "hu": "A nap kényelmesen indul a Derrymore House-nál. Az eső kopog a tetőn, miközben a történelmi birtok látványában gyönyörködünk. Egy rövid autózás a Flagstaff kilátóhoz drámai panorámát kínál a felhők ellenére is.\n\nDélben a városközpontban parkolunk. A parkolóház védelmet nyújt, amíg gyalogosan felfedezzük a Bagenal-kastélyt és a székesegyházat. A látnivalók közötti rövid távolság esőben sem akadály.\n\nA városi ebéd után az út a Narrow Water kastélyhoz vezet. A meleg autóból nézve a tengerparti út és a viharos víz látványa kifejezetten pihentető.\n\nAz este kellemesen zárul. Az esős Newry utcáin való átkelés hangulatos befejezése a napnak, mielőtt biztonságba helyeznénk az autót.",
+            "ro": "Ziua începe confortabil în mașină la Derrymore House. Ploaia bate în plafon în timp ce admirați domeniul istoric. O scurtă cursă spre punctul de observație Flagstaff oferă o perspectivă dramatică în ciuda norilor.\n\nLa prânz, parcați în centrul orașului. Parcarea acoperită vă protejează în timp ce explorați Castelul Bagenal și Catedrala pe jos. Distanțele scurte dintre obiective nu sunt o problemă nici pe ploaie.\n\nDupă prânzul în oraș, drumul continuă spre Castelul Narrow Water. Din vehiculul cald, drumul de coastă și marea agitată pot fi observate într-un mod relaxant.\n\nSeara se încheie liniștit. Drumul de întoarcere prin străzile ploiase din Newry oferă o atmosferă aparte înainte de a parca mașina în siguranță.",
+            "en": "The day begins comfortably in the car at Derrymore House. Rain drums on the roof while you enjoy the views of the historic estate. A short drive to Flagstaff Viewpoint offers a dramatic perspective despite the clouds.\n\nAt noon, park in the city centre. The multi-storey car park provides shelter while you explore Bagenal's Castle and the Cathedral on foot. The short distances between sites are manageable even in the rain.\n\nAfter lunch in town, drive to Narrow Water Castle. From the warmth of your vehicle, the coastal road and stormy sea are relaxing to observe.\n\nAn evening drive through the rainy streets of Newry provides an atmospheric conclusion to the day before parking up safely."
+          },
+          "stops": [
+            {
+              "name": "Derrymore House",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Haus; ideal für Regenwetter.",
+                "hu": "A parkoló közel van a házhoz; ideális esős időben.",
+                "ro": "Parcarea este aproape de casă; ideal pentru vreme ploioasă.",
+                "en": "The car park is close to the house; ideal for rainy weather."
+              }
+            },
+            {
+              "name": "Flagstaff Viewpoint",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht direkt aus dem Auto, falls es zu stark regnet.",
+                "hu": "Élvezze a kilátást közvetlenül az autóból, ha túl erősen esik.",
+                "ro": "Admirați vederea direct din mașină dacă plouă prea tare.",
+                "en": "Enjoy the view directly from your car if the rain is too heavy."
+              }
+            },
+            {
+              "name": "City Centre Car Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie ein überdachtes Parkhaus, um trocken auszusteigen.",
+                "hu": "Használjon fedett parkolóházat, hogy szárazon szállhasson ki.",
+                "ro": "Folosiți o parcare acoperită pentru a coborî la adăpost de ploaie.",
+                "en": "Use a multi-storey car park to stay dry when getting out."
+              }
+            },
+            {
+              "name": "Bagenal's Castle",
+              "tip_5lang": {
+                "de": "Nur wenige Gehminuten vom Parkplatz entfernt.",
+                "hu": "Csak pár perc séta a parkolótól.",
+                "ro": "La doar câteva minute de mers pe jos de parcare.",
+                "en": "Just a few minutes' walk from the central parking areas."
+              }
+            },
+            {
+              "name": "Newry Cathedral",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken in tiefen Pfützen am Straßenrand.",
+                "hu": "Kerülje a parkolást az útmenti mély tócsákban.",
+                "ro": "Evitați parcarea în bălțile adânci de la marginea drumului.",
+                "en": "Avoid parking in deep puddles at the side of the road."
+              }
+            },
+            {
+              "name": "Lunch in the City Centre",
+              "tip_5lang": {
+                "de": "Suchen Sie Restaurants mit Parkplätzen in unmittelbarer Nähe.",
+                "hu": "Keressen olyan éttermet, amelynek közvetlen közelében van parkoló.",
+                "ro": "Căutați restaurante cu parcare în imediata apropiere.",
+                "en": "Look for restaurants with parking in the immediate vicinity."
+              }
+            },
+            {
+              "name": "Narrow Water Castle",
+              "tip_5lang": {
+                "de": "Der Zugangsweg kann bei Regen sehr schlammig sein.",
+                "hu": "Az odavezető út esőben nagyon sáros lehet.",
+                "ro": "Calea de acces poate fi foarte noroioasă pe ploaie.",
+                "en": "The access path can be very muddy during or after rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer, bevor Sie die Küstenstraße befahren.",
+              "Das Quays Shopping Centre bietet kostenlose überdachte Parkplätze für Kunden.",
+              "Achten Sie auf Aquaplaning auf den tiefergelegenen Straßen nahe des Kanals.",
+              "Halten Sie ein Handtuch im Auto bereit, um nasse Kleidung abzutrocknen."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket, mielőtt a tengerparti útra hajtana.",
+              "A Quays bevásárlóközpont ingyenes fedett parkolást kínál a vásárlóknak.",
+              "Ügyeljen a vízenfutásra (aquaplaning) a csatorna közeli mélyebb utakon.",
+              "Tartson egy törölközőt az autóban a vizes ruhák áttörléséhez."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a porni pe drumul de coastă.",
+              "Centrul comercial Quays oferă parcare acoperită gratuită pentru clienți.",
+              "Atenție la acvaplanare pe drumurile joase de lângă canal.",
+              "Țineți un prosop în mașină pentru a vă șterge după ieșirile scurte."
+            ],
+            "en": [
+              "Check your windshield wipers before heading onto the coastal roads.",
+              "The Quays Shopping Centre offers free covered parking for customers.",
+              "Be wary of aquaplaning on the lower roads near the canal during heavy rain.",
+              "Keep a small towel in the car to dry off after your short walks outside."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag beginnt am Derrymore House. Die frostigen Wiesen glitzern in der Morgensonne. Die Heizung im Auto sorgt für Gemütlichkeit auf dem Weg zum Flagstaff Viewpoint, wo Sie die klare Winterluft genießen.\n\nMittags im Stadtzentrum ist das Parken unkompliziert. In Bagenal's Castle und der Kathedrale tauchen Sie in die lokale Kultur ein, während draußen der Winterwind weht. Die warmen Innenräume sind ein perfekter Kontrast zur Kälte.\n\nNach einem stärkenden Mittagessen führt die Route zum Narrow Water Castle. Die tiefstehende Sonne taucht die Bucht in ein goldenes Licht, das ideal für Fotos ist.\n\nDer frühe Abend bricht herein, während Sie zurückfahren. Die weihnachtliche Beleuchtung in Newry macht die Fahrt durch das Zentrum zu einem festlichen Erlebnis, bevor der Tag endet.",
+            "hu": "A téli nap a Derrymore House-nál indul. A deres mezők csillognak a reggeli napsütésben. Az autó fűtése kényelmessé teszi az utat a Flagstaff kilátóhoz, ahol élvezhetjük a friss téli levegőt.\n\nDélben a városközpontban a parkolás egyszerű. A Bagenal-kastélyban és a székesegyházban elmerülhetünk a helyi kultúrában, miközben kint fúj a téli szél. A meleg belső terek tökéletes ellentétet alkotnak a hideggel.\n\nEgy laktató ebéd után az út a Narrow Water kastélyhoz vezet. Az alacsonyan járó nap arany fénybe vonja az öblöt, ami ideális a fotózáshoz.\n\nA korai este közeledtével indulunk vissza. Newry karácsonyi kivilágítása ünnepi élménnyé teszi az átutazást a városon, mielőtt véget érne a nap.",
+            "ro": "Ziua de iarnă începe la Derrymore House. Pajiștile înghețate sclipesc în soarele dimineții. Încălzirea din mașină asigură confortul pe drumul spre punctul Flagstaff, unde vă bucurați de aerul curat de iarnă.\n\nLa prânz, parcarea în centrul orașului este facilă. În Castelul Bagenal și la Catedrală vă puteți bucura de cultură în timp ce afară suflă vântul rece. Interioarele calde sunt un contrast perfect pentru frigul de afară.\n\nDupă un prânz consistent, traseul duce spre Castelul Narrow Water. Soarele jos scaldă golful într-o lumină aurie, ideală pentru fotografii.\n\nSeara timpurie se instalează în timp ce vă întoarceți. Iluminatul de Crăciun din Newry transformă drumul prin centru într-o experiență festivă înainte de finalul zilei.",
+            "en": "The winter day begins at Derrymore House. Frosty meadows glisten in the morning sun. The car's heater keeps you cozy on the way to Flagstaff Viewpoint, where you can enjoy the crisp, clear winter air.\n\nAt noon, parking in the city centre is straightforward. At Bagenal's Castle and the Cathedral, dive into local culture while the winter wind blows outside. The warm interiors provide a perfect contrast to the cold.\n\nAfter a hearty lunch, the route leads to Narrow Water Castle. The low sun bathes the bay in golden light, ideal for photography.\n\nEarly evening sets in as you head back. Newry's Christmas lights make the drive through the centre a festive experience before the day concludes."
+          },
+          "stops": [
+            {
+              "name": "Derrymore House",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den schattigen Zufahrtswegen.",
+                "hu": "Vigyázzon a jegesedésre az árnyékos bekötőutakon.",
+                "ro": "Atenție la polei pe drumurile de acces umbrite.",
+                "en": "Watch out for black ice on the shaded access roads."
+              }
+            },
+            {
+              "name": "Flagstaff Viewpoint",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig lange im Leerlauf laufen.",
+                "hu": "Ne járassa feleslegesen hosszan a motort alapjáraton.",
+                "ro": "Nu lăsați motorul pornit inutil pentru perioade lungi.",
+                "en": "Avoid idling your engine for too long while taking in the view."
+              }
+            },
+            {
+              "name": "City Centre Car Park",
+              "tip_5lang": {
+                "de": "Bevorzugen Sie Parkhäuser; das Auto kühlt dort weniger schnell aus.",
+                "hu": "Válasszon parkolóházat; az autó ott lassabban hűl le.",
+                "ro": "Preferați parcările acoperite; mașina se va răci mai greu.",
+                "en": "Prefer indoor car parks; your vehicle will cool down more slowly."
+              }
+            },
+            {
+              "name": "Bagenal's Castle",
+              "tip_5lang": {
+                "de": "Ein kurzer, knackiger Spaziergang vom Parkplatz aus.",
+                "hu": "Rövid, frissítő séta a parkolótól.",
+                "ro": "O plimbare scurtă și revigorantă de la parcare.",
+                "en": "A short, brisk walk from your parking spot."
+              }
+            },
+            {
+              "name": "Newry Cathedral",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Steinplatten vor dem Eingang.",
+                "hu": "Vigyázzon a csúszós kőlapokra a bejárat előtt.",
+                "ro": "Atenție la plăcile de piatră alunecoase de la intrare.",
+                "en": "Watch out for slippery stone slabs near the entrance."
+              }
+            },
+            {
+              "name": "Lunch in the City Centre",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob das Restaurant eine Garderobe für Mäntel hat.",
+                "hu": "Ellenőrizze, van-e a vendéglőnek ruhatára a kabátoknak.",
+                "ro": "Verificați dacă restaurantul are un loc pentru haine groase.",
+                "en": "Check if the restaurant has a cloakroom for bulky coats."
+              }
+            },
+            {
+              "name": "Narrow Water Castle",
+              "tip_5lang": {
+                "de": "Die Parkmöglichkeiten können im Winter begrenzt sein.",
+                "hu": "A parkolási lehetőségek télen korlátozottabbak lehetnek.",
+                "ro": "Posibilitățile de parcare pot fi limitate în timpul iernii.",
+                "en": "Parking options near the castle may be more limited in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Frostschutzmittel in der Scheibenwaschanlage ist.",
+              "Die Straßen in den Mourne Mountains können bei Schneefall schwierig sein.",
+              "Ein Eiskratzer im Auto ist für den frühen Morgen und Abend unverzichtbar.",
+              "Nutzen Sie die Sitzheizung, um nach den Besichtigungen schnell wieder warm zu werden."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy van fagyálló a szélvédőmosóban.",
+              "A Mourne-hegység útjai hóesésben nehezen járhatóak lehetnek.",
+              "A jégkaparó elengedhetetlen a kora reggeli és esti órákban.",
+              "Használja az ülésfűtést a gyors felmelegedéshez a megállók után."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți lichid de parbriz rezistent la îngheț.",
+              "Drumurile din Munții Mourne pot fi dificile în caz de ninsoare.",
+              "Răzuitoarea de gheață este indispensabilă dimineața și seara.",
+              "Folosiți încălzirea în scaune pentru a vă încălzi rapid după vizite."
+            ],
+            "en": [
+              "Ensure you have anti-freeze in your screen wash reservoir.",
+              "Be aware that Mourne Mountain roads can be tricky during snowfall.",
+              "An ice scraper is essential for early mornings and late evenings.",
+              "Use seat heaters to warm up quickly after returning from outdoor stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1137,6 +1701,188 @@
           "Purchase a day-pass for the best value.",
           "Download the local bus app for real-time schedules."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Buszentrum von Newry, einem perfekten Knotenpunkt, um dem Regen zu entkommen. Von hier aus ist es nur ein kurzer Weg zum Rathaus, das als architektonischer Unterstand dient. Die Busse fahren regelmäßig und halten die Wege kurz.\n\nMittags erkunden Sie Bagenal's Castle und die Kathedrale. Beide sind gut vernetzt und bieten reichlich Schutz vor den Schauern. Die Wartezeiten an den Haltestellen lassen sich durch die zentrale Lage in Cafés überbrücken.\n\nNachmittags führt die Busfahrt in Richtung Narrow Water. Das Busfahren im Regen hat eine beruhigende Qualität, während man die vorbeiziehende Landschaft vom trockenen Sitz aus betrachtet.\n\nDer Abend endet zurück im Zentrum. Die gute Taktung der Busse sorgt dafür, dass man nie lange im Regen stehen muss, bevor man sein Ziel erreicht.",
+            "hu": "A nap a Newry buszközpontban indul, amely tökéletes csomópont az eső elől való meneküléshez. Innen csak egy rövid út a Városháza, amely építészeti menedékként is szolgál. A buszok rendszeresen járnak, így a séták rövidek maradnak.\n\nDélben a Bagenal-kastélyt és a székesegyházat keressük fel. Mindkettő jól megközelíthető és bőséges védelmet nyújt a záporok ellen. A megállókban való várakozást a közeli kávézókban tehetjük kényelmesebbé.\n\nDélután a busz Narrow Water felé visz minket. Az esőben való buszozásnak megvan a maga megnyugtató hangulata, ahogy a száraz ülésből figyeljük a tájat.\n\nAz este a központban zárul. A buszok sűrű követési ideje biztosítja, hogy soha ne kelljen sokáig az esőben állnunk, mielőtt elérnénk úticélunkat.",
+            "ro": "Ziua începe la autogara din Newry, un nod perfect pentru a scăpa de ploaie. De aici, este doar un drum scurt până la Primărie, care servește drept adăpost arhitectural. Autobuzele circulă regulat, menținând traseele scurte.\n\nLa prânz, explorați Castelul Bagenal și Catedrala. Ambele sunt bine conectate și oferă protecție împotriva averselor. Timpii de așteptare în stații pot fi petrecuți în cafenelele centrale din apropiere.\n\nDupă-amiaza, cursa de autobuz vă duce spre Narrow Water. Călătoria cu autobuzul pe ploaie are o calitate liniștitoare în timp ce priviți peisajul de pe scaunul uscat.\n\nSeara se încheie înapoi în centru. Frecvența bună a autobuzelor asigură faptul că nu veți sta mult timp în ploaie înainte de a ajunge la destinație.",
+            "en": "The day begins at Newry Bus Centre, a perfect hub to escape the rain. From here, it's just a short distance to the Town Hall, which serves as an architectural shelter. Buses run regularly, keeping walking distances minimal.\n\nAt noon, explore Bagenal's Castle and the Cathedral. Both are well-connected and offer plenty of cover from showers. Waiting times at bus stops can be easily managed by popping into nearby central cafes.\n\nIn the afternoon, the bus journey takes you towards Narrow Water. Riding the bus in the rain has a soothing quality as you watch the landscape pass by from your dry seat.\n\nThe evening concludes back in the centre. The good frequency of the bus service ensures you never have to stand in the rain for long before reaching your destination."
+          },
+          "stops": [
+            {
+              "name": "Newry Buscentre",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um Fahrpläne im Trockenen zu studieren.",
+                "hu": "Ideális hely a menetrendek szárazon való tanulmányozásához.",
+                "ro": "Un loc ideal pentru a studia orarele la adăpost.",
+                "en": "An ideal spot to study the timetables while staying dry."
+              }
+            },
+            {
+              "name": "Newry Town Hall",
+              "tip_5lang": {
+                "de": "Die nächste Haltestelle ist nur wenige Schritte entfernt.",
+                "hu": "A legközelebbi megálló csak pár lépésre van.",
+                "ro": "Cea mai apropiată stație este la doar câțiva pași distanță.",
+                "en": "The nearest bus stop is only a few steps away."
+              }
+            },
+            {
+              "name": "Bagenal's Castle",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es viele überdachte Wartebereiche.",
+                "hu": "A közelben sok fedett várakozóhely található.",
+                "ro": "Există multe zone de așteptare acoperite în apropiere.",
+                "en": "There are many sheltered waiting areas in the vicinity."
+              }
+            },
+            {
+              "name": "Newry Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Translink-App, um Wartezeiten im Regen zu minimieren.",
+                "hu": "Használja a Translink alkalmazást a várakozási idő csökkentésére.",
+                "ro": "Folosiți aplicația Translink pentru a minimiza timpul de așteptare.",
+                "en": "Use the Translink app to minimize waiting time in the rain."
+              }
+            },
+            {
+              "name": "Bus Stop for Narrow Water",
+              "tip_5lang": {
+                "de": "Diese Haltestelle ist oft etwas zugig; stellen Sie sich geschützt auf.",
+                "hu": "Ez a megálló gyakran huzatos; keressen szélvédett pontot.",
+                "ro": "Această stație este adesea expusă vântului; căutați un loc ferit.",
+                "en": "This stop can be a bit breezy; stand in a sheltered spot if possible."
+              }
+            },
+            {
+              "name": "Narrow Water Castle",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrtzeiten genau, da diese seltener sein können.",
+                "hu": "Ellenőrizze pontosan a visszautat, mert ritkábban járhatnak a buszok.",
+                "ro": "Verificați orarul de întoarcere, autobuzele pot fi mai rare.",
+                "en": "Check the return times carefully as buses may be less frequent here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Holen Sie sich eine mLink-App für kontaktloses Bezahlen im Trockenen.",
+              "Das Buszentrum hat Toiletten und einen kleinen Kiosk für Snacks.",
+              "Die Busse sind im Winter gut beheizt; ideal zum Aufwärmen.",
+              "Einige Haltestellen haben keine Unterstände; ein kleiner Schirm ist Pflicht."
+            ],
+            "hu": [
+              "Használja az mLink alkalmazást a száraz, érintésmentes fizetéshez.",
+              "A buszközpontban van mosdó és egy kis újságos snackekkel.",
+              "A buszok télen jól fűtöttek, így remekül fel lehet frissülni rajtuk.",
+              "Néhány megálló nem fedett, így egy kisméretű esernyő mindenképpen ajánlott."
+            ],
+            "ro": [
+              "Folosiți aplicația mLink pentru plata contactless la adăpost.",
+              "Autogara are toalete și un mic chioșc pentru gustări.",
+              "Autobuzele sunt bine încălzite iarna; ideale pentru a vă revigora.",
+              "Unele stații nu au adăpost; o umbrelă mică este obligatorie."
+            ],
+            "en": [
+              "Use the mLink app for dry, contactless payment on the go.",
+              "The Bus Centre has toilets and a small kiosk for snacks and drinks.",
+              "Buses are well-heated in winter, making them great for warming up.",
+              "Some minor stops lack shelters; always carry a small travel umbrella."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Morgen beginnt am Buszentrum von Newry. Die warme Luft im Gebäude ist ein schöner Kontrast zum Frost draußen. Kurze Busfahrten bringen Sie schnell zum Rathaus und zur St. Patrick's Church.\n\nMittags erkunden Sie die Kathedrale und das Bagenal's Castle. Die Wege zwischen den Haltestellen sind kurz, was bei eisigem Wind sehr angenehm ist. In den Museen kann man die Winterkälte für eine Weile vergessen.\n\nNachmittags führt die Fahrt mit dem Überlandbus nach Narrow Water. Die Fenster sind oft leicht beschlagen, was der Fahrt ein gemütliches, privates Gefühl verleiht, während man auf die schneebedeckten Felder blickt.\n\nDer frühe Abend bricht an, während man im warmen Bus zurück in die Stadt fährt. Die beleuchteten Fenster der Häuser entlang der Strecke wirken im Dunkeln besonders einladend.",
+            "hu": "A téli reggel a Newry buszközpontban indul. A benti meleg levegő kellemes kontrasztot alkot a kinti fagygal. Rövid buszutak juttatnak el gyorsan a Városházához és a Szent Patrik-templomhoz.\n\nDélben a székesegyházat és a Bagenal-kastélyt keressük fel. A megállók közötti utak rövidek, ami a jeges szélben kifejezetten kényelmes. A múzeumokban egy időre elfelejthetjük a téli hideget.\n\nDélután a távolsági busszal Narrow Water felé vesszük az irányt. Az ablakok néha párásak, ami otthonos, privát hangulatot ad az utazásnak, miközben a havas mezőket nézzük.\n\nA korai este közeledtével a meleg buszon utazunk vissza a városba. Az út menti házak kivilágított ablakai a sötétben különösen hívogatóak.",
+            "ro": "O dimineață de iarnă începe la autogara din Newry. Aerul cald din interior este un contrast plăcut față de gerul de afară. Cursele scurte vă duc rapid la Primărie și la Biserica Sf. Patrick.\n\nLa prânz, vizitați Catedrala și Castelul Bagenal. Distanțele dintre stații sunt mici, ceea ce este foarte plăcut pe vânt înghețat. În muzee puteți uita pentru o vreme de frigul iernii.\n\nDupă-amiaza, cursa de autobuz vă poartă spre Narrow Water. Geamurile sunt adesea ușor aburite, oferind călătoriei o senzație de intimitate în timp ce priviți câmpurile înghețate.\n\nSeara timpurie se instalează în timp ce vă întoarceți cu autobuzul cald spre oraș. Ferestrele luminate ale caselor de pe traseu par deosebit de primitoare în întuneric.",
+            "en": "A winter morning starts at Newry Bus Centre. The warm air inside is a lovely contrast to the frost outside. Short bus rides get you quickly to the Town Hall and St Patrick's Church.\n\nAt noon, explore the Cathedral and Bagenal's Castle. The short walks between bus stops are a relief in the icy wind. Inside the museums, you can forget the winter chill for a while.\n\nIn the afternoon, take the bus towards Narrow Water. The windows might be slightly misty, giving the ride a cozy, private feel as you look out at the frosty fields.\n\nEarly evening arrives as you ride back to the city in a warm bus. The lit windows of houses along the route look particularly inviting in the gathering dark."
+          },
+          "stops": [
+            {
+              "name": "Newry Buscentre",
+              "tip_5lang": {
+                "de": "Holen Sie sich hier einen warmen Kaffee für die erste Etappe.",
+                "hu": "Vegyen itt egy forró kávét az első szakaszra.",
+                "ro": "Luați o cafea caldă de aici pentru prima etapă a drumului.",
+                "en": "Grab a hot coffee here before starting your first leg."
+              }
+            },
+            {
+              "name": "Newry Town Hall",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind im Winter gut beleuchtet.",
+                "hu": "A megállók télen jól ki vannak világítva.",
+                "ro": "Stațiile sunt bine iluminate în timpul iernii.",
+                "en": "The bus stops are well-lit during the winter months."
+              }
+            },
+            {
+              "name": "Bagenal's Castle",
+              "tip_5lang": {
+                "de": "Der Weg zur Haltestelle kann bei Frost glatt sein.",
+                "hu": "A megállóhoz vezető út fagyban csúszós lehet.",
+                "ro": "Drumul spre stație poate fi alunecos pe timp de îngheț.",
+                "en": "The path to the bus stop can be slippery during frost."
+              }
+            },
+            {
+              "name": "Newry Cathedral",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren vor der nächsten Busfahrt.",
+                "hu": "Élvezze a benti meleget a következő buszút előtt.",
+                "ro": "Bucurați-vă de căldura din interior înainte de următoarea cursă.",
+                "en": "Enjoy the indoor warmth before your next bus ride."
+              }
+            },
+            {
+              "name": "Bus Stop for Narrow Water",
+              "tip_5lang": {
+                "de": "Tragen Sie eine Mütze, da es an dieser Haltestelle zugig ist.",
+                "hu": "Viseljen sapkát, mert ebben a megállóban huzat van.",
+                "ro": "Purtați o căciulă, stația fiind expusă vântului rece.",
+                "en": "Wear a hat, as this particular stop can be quite drafty."
+              }
+            },
+            {
+              "name": "Narrow Water Castle",
+              "tip_5lang": {
+                "de": "Warten Sie im Schutz des Castles, bis der Bus kommt.",
+                "hu": "Várjon a kastély védelmében, amíg jön a busz.",
+                "ro": "Așteptați la adăpostul castelului până vine autobuzul.",
+                "en": "Wait in the shelter of the castle area until your bus arrives."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Translink-Website für Echtzeit-Infos bei Schnee-Verzögerungen.",
+              "Kaufen Sie ein Tagesticket (Day Ticket), um flexibel ein- und auszusteigen.",
+              "Die Busse sind im Winter oft die sicherste Wahl bei glatten Straßen.",
+              "Achten Sie auf geänderte Fahrpläne an Feiertagen im Dezember."
+            ],
+            "hu": [
+              "Használja a Translink weboldalt valós idejű infókért hó miatti késéseknél.",
+              "Vegyen napijegyet (Day Ticket) a rugalmas utazáshoz.",
+              "A buszok télen gyakran a legbiztonságosabb választást jelentik jeges utakon.",
+              "Figyeljen a decemberi ünnepi menetrend-módosításokra."
+            ],
+            "ro": [
+              "Folosiți site-ul Translink pentru info în timp real la întârzieri de zăpadă.",
+              "Cumpărați un bilet de o zi (Day Ticket) pentru flexibilitate maximă.",
+              "Autobuzele sunt adesea cea mai sigură opțiune iarna pe drumuri înghețate.",
+              "Atenție la orarele modificate în timpul sărbătorilor din decembrie."
+            ],
+            "en": [
+              "Check the Translink website for real-time updates during snow delays.",
+              "Buy a Day Ticket for maximum flexibility to hop on and off.",
+              "Buses are often the safest travel option when local roads are icy.",
+              "Watch out for holiday service changes during the month of December."
+            ]
+          }
+        }
       }
     }
   }

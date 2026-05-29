@@ -326,6 +326,188 @@
           "Pick up a bottle of local cider to enjoy later.",
           "Check opening times for the Priories as they can be limited."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die historischen Lagerhäuser am Hafen guten Schutz vor dem Regen. Mittags laden die Museen und das Einkaufszentrum Quays zum trockenen Verweilen ein. Am Nachmittag ist die Atmosphäre in der Kathedrale besonders andächtig, wenn der Regen gegen die Fenster prasselt. Den Abend lassen Sie gemütlich in einem der Pubs im Stadtzentrum ausklingen.",
+            "hu": "Reggel a kikötő történelmi raktárépületei között találhat menedéket a záporok elől. Délben a vízi múzeum és a Quays fedett folyosói szárazon tartják a látogatókat. Délután a katedrális belső terei különleges hangulatot árasztanak az esős időben. Az estét érdemes egy belvárosi pub melegében, egy forró ital mellett tölteni.",
+            "ro": "Dimineața, depozitele istorice din port oferă un adăpost excelent împotriva ploii. La prânz, muzeul și centrul comercial Quays vă permit să rămâneți la adăpost. După-amiaza, atmosfera din catedrală este deosebit de liniștită în timp ce ploaia bate în geamuri. Seara se încheie plăcut într-unul dintre pub-urile primitoare din centrul orașului.",
+            "en": "In the morning, the historic warehouses at the docks offer great shelter from the rain. At midday, the museums and Quays shopping centre provide a dry retreat. The afternoon atmosphere in the cathedral is particularly evocative as rain lashes the windows. Spend the evening relaxing in the warmth of a city centre pub."
+          },
+          "stops": [
+            {
+              "name": "Gloucester Docks",
+              "tip_5lang": {
+                "de": "Die alten Lagerhäuser bieten viele Durchgänge zum Unterstellen.",
+                "hu": "A régi raktárépületek számos átjárót kínálnak eső esetére.",
+                "ro": "Vechile depozite oferă multe pasaje pentru a vă adăposti.",
+                "en": "Old warehouses offer many passageways to stay under cover."
+              }
+            },
+            {
+              "name": "National Waterways Museum",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die Regenzeit komplett im Trockenen zu verbringen.",
+                "hu": "Tökéletes helyszín az esős órák teljes szárazságban töltéséhez.",
+                "ro": "Un loc perfect pentru a petrece timpul ploios complet la uscat.",
+                "en": "A perfect place to spend the rainy hours completely dry."
+              }
+            },
+            {
+              "name": "Gloucester Quays",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Passagen zwischen den Geschäften.",
+                "hu": "Használja az üzletek közötti fedett átjárókat.",
+                "ro": "Folosiți pasajele acoperite dintre magazine.",
+                "en": "Utilize the covered walkways between the shops."
+              }
+            },
+            {
+              "name": "Blackfriars Priory",
+              "tip_5lang": {
+                "de": "Die Innenräume sind trocken, aber der Weg dorthin ist ungeschützt.",
+                "hu": "A belső terek szárazak, de az odavezető út nyitott.",
+                "ro": "Interioarele sunt uscate, dar drumul până acolo este expus.",
+                "en": "Interiors are dry, but the path there is unsheltered."
+              }
+            },
+            {
+              "name": "Beatrix Potter Museum",
+              "tip_5lang": {
+                "de": "Ein kleiner, aber feiner und warmer Rückzugsort.",
+                "hu": "Kicsi, de barátságos és meleg menedékhely.",
+                "ro": "Un refugiu mic, dar primitor și călduros.",
+                "en": "A small but cozy and warm retreat."
+              }
+            },
+            {
+              "name": "Gloucester Cathedral",
+              "tip_5lang": {
+                "de": "Die berühmten Kreuzgänge sind vollkommen überdacht und trocken.",
+                "hu": "A híres keringők teljesen fedettek és szárazak.",
+                "ro": "Celebrele cloistre sunt complet acoperite și uscate.",
+                "en": "The famous cloisters are fully roofed and dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das oft rutschige Kopfsteinpflaster.",
+              "Ein stabiler Regenschirm ist bei Wind am Hafen unverzichtbar.",
+              "Die Museen sind ideale 'Regenstopper' für längere Aufenthalte.",
+              "Viele Cafés in den Quays bieten einen Blick auf den Regen im Hafen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a gyakran csúszós macskakövek miatt.",
+              "A kikötői szélben egy strapabíró esernyő elengedhetetlen.",
+              "A múzeumok ideális megállók hosszabb esőzések idejére.",
+              "A Quays kávézóiból szárazon nézheti a kikötői esőt."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru pavajul adesea alunecos.",
+              "O umbrelă rezistentă este esențială din cauza vântului din port.",
+              "Muzeele sunt opriri ideale pentru perioadele lungi de ploaie.",
+              "Multe cafenele din Quays oferă o vedere spre ploaia din port."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones can be very slippery.",
+              "A sturdy umbrella is essential due to the wind at the docks.",
+              "Museums are ideal 'rain-stops' for longer periods of downpour.",
+              "Many cafes in the Quays offer great views of the rainy harbor."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterluft am Hafen macht den Morgen besonders klar und belebend. Mittags wärmen Sie sich in den Ausstellungen der Museen auf, bevor die Sonne früh untergeht. Am Nachmittag erstrahlt die Kathedrale im warmen Kunstlicht. Der Abend ist perfekt für einen Besuch auf dem Weihnachtsmarkt oder in einem beheizten Restaurant in den Quays.",
+            "hu": "A friss téli levegő a kikötőben tisztává és élénkítővé teszi a reggelt. Délben a múzeumok kiállításain melegedhet fel, mielőtt korán lenyugszik a nap. Délután a katedrális belső terei meleg műfényben úsznak. Az este ideális a karácsonyi vásár vagy a Quays egyik fűtött éttermének meglátogatására.",
+            "ro": "Aerul proaspăt de iarnă din port face dimineața clară și revigorantă. La prânz vă încălziți în expozițiile muzeelor înainte ca soarele să apună devreme. După-amiaza, catedrala strălucește în lumină artificială caldă. Seara este perfectă pentru o vizită la târgul de Crăciun sau într-un restaurant încălzit.",
+            "en": "The crisp winter air at the docks makes the morning clear and bracing. Warm up in museum exhibitions at midday before the early sunset. In the afternoon, the cathedral glows with warm artificial lighting. The evening is perfect for visiting the Christmas market or a heated restaurant in the Quays."
+          },
+          "stops": [
+            {
+              "name": "Gloucester Docks",
+              "tip_5lang": {
+                "de": "Windfeste Kleidung schützt vor der Kälte vom Wasser her.",
+                "hu": "Szélálló ruházat véd a víz felől érkező hideg ellen.",
+                "ro": "Hainele rezistente la vânt vă protejează de frigul apei.",
+                "en": "Windproof clothing protects against the cold from the water."
+              }
+            },
+            {
+              "name": "National Waterways Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Museum zum Aufwärmen.",
+                "hu": "Használja a múzeum fűtését az átmelegedéshez.",
+                "ro": "Folosiți încălzirea din muzeu pentru a vă încălzi.",
+                "en": "Take advantage of the museum's heating to warm up."
+              }
+            },
+            {
+              "name": "Gloucester Quays",
+              "tip_5lang": {
+                "de": "Besuchen Sie den saisonalen Wintermarkt im Außenbereich.",
+                "hu": "Látogasson el a szezonális kültéri téli vásárba.",
+                "ro": "Vizitați târgul sezonier de iarnă din zona exterioară.",
+                "en": "Visit the seasonal winter market in the outdoor area."
+              }
+            },
+            {
+              "name": "Blackfriars Priory",
+              "tip_5lang": {
+                "de": "Die historischen Gemäuer können im Winter sehr kühl sein.",
+                "hu": "A történelmi falak télen nagyon hűvösek lehetnek.",
+                "ro": "Zidurile istorice pot fi foarte reci pe timpul iernii.",
+                "en": "The historic walls can be very chilly in winter."
+              }
+            },
+            {
+              "name": "Beatrix Potter Museum",
+              "tip_5lang": {
+                "de": "Ein herrlich weihnachtlich dekorierter kleiner Laden.",
+                "hu": "Csodás karácsonyi díszbe öltöztetett kis bolt.",
+                "ro": "Un magazin mic decorat minunat de Crăciun.",
+                "en": "A beautifully Christmas-decorated little shop."
+              }
+            },
+            {
+              "name": "Gloucester Cathedral",
+              "tip_5lang": {
+                "de": "Die Beleuchtung in der Dämmerung ist hier magisch.",
+                "hu": "A szürkületi fények itt egészen varázslatosak.",
+                "ro": "Iluminatul la amurg este de-a dreptul magic aici.",
+                "en": "The lighting at twilight is truly magical here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:15 Uhr unter.",
+              "Tragen Sie Mütze und Handschuhe wegen des Windes am Severn.",
+              "Suchen Sie regelmäßig beheizte Innenräume wie Museen auf.",
+              "Die Kathedrale bietet im Winter oft stimmungsvolle Konzerte an."
+            ],
+            "hu": [
+              "Télen a nap már délután 4 óra 15 perc körül lemegy.",
+              "Viseljen sapkát és kesztyűt a Severn felől fújó szél miatt.",
+              "Rendszeresen keressen fel fűtött belső tereket, például múzeumokat.",
+              "A katedrális télen gyakran ad otthont hangulatos koncerteknek."
+            ],
+            "ro": [
+              "Iarna, soarele apune deja în jurul orei 16:15.",
+              "Purtați căciulă și mănuși din cauza vântului de pe Severn.",
+              "Căutați regulat spații interioare încălzite, cum ar fi muzeele.",
+              "Catedrala oferă adesea concerte atmosferice pe timpul iernii."
+            ],
+            "en": [
+              "The sun sets as early as 4:15 PM during winter months.",
+              "Wear a hat and gloves due to the biting wind off the Severn.",
+              "Regularly seek out heated indoor spaces like museums.",
+              "The cathedral often hosts atmospheric concerts in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -646,6 +828,188 @@
           "Plan your route to include some of the traffic-free paths along the canal.",
           "A light waterproof jacket is always a good idea in England!"
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet der Radweg entlang des Kanals eine erfrischende Fahrt am Morgen. Mittags finden Sie an den Docks schnell überdachte Abstellplätze und warme Cafés. Der Nachmittag lässt sich flexibel zwischen Kathedrale und Museen aufteilen. Am Abend ist der Weg zurück durch die beleuchtete Stadt auch bei Nässe gut befahrbar.",
+            "hu": "Az eső ellenére a csatorna menti kerékpárút frissítő reggeli tekerést kínál. Délben a dokkoknál gyorsan találhat fedett tárolót és meleg kávézót. A délutánt rugalmasan oszthatja meg a katedrális és a múzeumok között. Este a kivilágított városon keresztüli visszatérés nedves úton is biztonságos.",
+            "ro": "În ciuda ploii, pista de biciclete de-a lungul canalului oferă o plimbare revigorantă. La prânz veți găsi rapid locuri de parcare acoperite și cafenele calde. După-amiaza poate fi împărțită flexibil între catedrală și muzee. Seara, drumul de întoarcere prin orașul iluminat este sigur chiar și pe ploaie.",
+            "en": "Despite the rain, the canal-side cycle path offers a bracing morning ride. At midday, you'll quickly find covered bike racks and warm cafes at the docks. Divide your afternoon flexibly between the cathedral and museums. In the evening, the return through the lit city is manageable even in wet conditions."
+          },
+          "stops": [
+            {
+              "name": "Gloucester Cathedral",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf den nassen Steinplatten.",
+                "hu": "Legyen óvatos a leszálláskor a nedves kőlapokon.",
+                "ro": "Atenție la coborâre pe plăcile de piatră umede.",
+                "en": "Be careful when dismounting on wet stone slabs."
+              }
+            },
+            {
+              "name": "St Oswald's Priory",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht, da es hier wenig Regenschutz gibt.",
+                "hu": "Egy rövid megálló elég, mivel itt kevés az esővédett hely.",
+                "ro": "O scurtă oprire e suficientă, fiind puțin adăpost aici.",
+                "en": "A quick stop is enough as there is little rain cover here."
+              }
+            },
+            {
+              "name": "Blackfriars Priory",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Unterstellen.",
+                "hu": "Használja a fedett bejárati részt eső elleni menedéknek.",
+                "ro": "Folosiți zona de intrare acoperită pentru adăpost.",
+                "en": "Use the covered entrance area for shelter."
+              }
+            },
+            {
+              "name": "Gloucester Docks",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster mit dem Rad.",
+                "hu": "Vigyázzon a kerékpárral a nedves macskaköveken.",
+                "ro": "Atenție cu bicicleta pe pavajul de piatră umed.",
+                "en": "Exercise caution on wet cobblestones with your bike."
+              }
+            },
+            {
+              "name": "National Waterways Museum",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz direkt vor dem Museumseingang.",
+                "hu": "Biztonságos tárolóhely közvetlenül a múzeum bejárata előtt.",
+                "ro": "Loc de parcare sigur chiar în fața intrării în muzeu.",
+                "en": "Secure bike parking available right outside the museum."
+              }
+            },
+            {
+              "name": "Gloucester Quays",
+              "tip_5lang": {
+                "de": "Das Parkhaus der Quays bietet oft trockene Radständer.",
+                "hu": "A Quays parkolóháza gyakran kínál száraz biciklitárolót.",
+                "ro": "Parcarea Quays oferă adesea rastele uscate de biciclete.",
+                "en": "The Quays car park often provides dry bicycle racks."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Regenbekleidung und Schutzbleche sind heute Pflicht.",
+              "Vermeiden Sie schnelle Kurven auf den glatten Hafenwegen.",
+              "Nutzen Sie die kurzen Wege zwischen den Sehenswürdigkeiten.",
+              "Halten Sie an den Docks Ausschau nach überdachten Sitzplätzen."
+            ],
+            "hu": [
+              "A jó esőruházat és a sárvédő ma kötelező.",
+              "Kerülje a gyors kanyarodást a csúszós kikötői utakon.",
+              "Használja ki a látnivalók közötti rövid távolságokat.",
+              "A dokkoknál keressen fedett ülőhelyeket a pihenéshez."
+            ],
+            "ro": [
+              "Hainele de ploaie bune și apărătorile sunt obligatorii astăzi.",
+              "Evitați virajele rapide pe drumurile alunecoase din port.",
+              "Profitați de distanțele scurte dintre obiective.",
+              "Căutați locuri de șezut acoperite în zona docurilor."
+            ],
+            "en": [
+              "Good waterproof gear and mudguards are a must today.",
+              "Avoid sharp turns on the slippery harbor paths.",
+              "Take advantage of the short distances between sights.",
+              "Look out for covered seating areas around the docks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein knackig kalter Wintermorgen am Kanal ist ideal für eine schnelle Radtour. Die Docks bieten mittags warme Rückzugsorte und heiße Getränke. Nutzen Sie das helle Tageslicht am Nachmittag für die Kathedrale, bevor es dunkel wird. Der Abendweg durch die beleuchteten Quays ist ein stimmungsvoller Abschluss des Tages.",
+            "hu": "Egy csípős téli reggel a csatorna mentén ideális egy gyors kerékpártúrához. A dokkok délben meleg menedéket és forró italokat kínálnak. Használja ki a délutáni világos órákat a katedrálishoz, mielőtt besötétedik. Az esti út a kivilágított Quays-en keresztül hangulatos zárása a napnak.",
+            "ro": "O dimineață geroasă de iarnă pe canal este ideală pentru o tură rapidă. Docurile oferă la prânz refugii calde și băuturi fierbinți. Profitați de lumina zilei după-amiaza pentru catedrală înainte de lăsarea întunericului. Seara prin Quays iluminat este un final atmosferic.",
+            "en": "A crisp winter morning by the canal is ideal for a brisk cycle. The docks offer warm retreats and hot drinks at midday. Use the bright afternoon daylight for the cathedral before it gets dark. The evening ride through the lit-up Quays is an atmospheric way to end the day."
+          },
+          "stops": [
+            {
+              "name": "Gloucester Cathedral",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad im Sichtbereich des Personals ab.",
+                "hu": "A kerékpárt a személyzet látóterében parkolja le.",
+                "ro": "Parcați bicicleta în câmpul vizual al personalului.",
+                "en": "Park your bike within view of the cathedral staff."
+              }
+            },
+            {
+              "name": "St Oswald's Priory",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Wegen rund um die Ruine.",
+                "hu": "Ügyeljen a zúzmarára a rom körüli utakon.",
+                "ro": "Atenție la chiciură pe potecile din jurul ruinei.",
+                "en": "Watch out for frost on the paths around the ruins."
+              }
+            },
+            {
+              "name": "Blackfriars Priory",
+              "tip_5lang": {
+                "de": "Im Winter sind die Besuchszeiten oft kürzer, vorher prüfen.",
+                "hu": "Télen a látogatási idő gyakran rövidebb, ellenőrizze.",
+                "ro": "Iarna programul e adesea mai scurt, verificați înainte.",
+                "en": "Visiting hours are often shorter in winter; check ahead."
+              }
+            },
+            {
+              "name": "Gloucester Docks",
+              "tip_5lang": {
+                "de": "Der Wind vom Wasser kann die gefühlte Kälte verstärken.",
+                "hu": "A víz felőli szél erősítheti a hidegérzetet.",
+                "ro": "Vântul de pe apă poate intensifica senzația de frig.",
+                "en": "Wind from the water can increase the perceived cold."
+              }
+            },
+            {
+              "name": "National Waterways Museum",
+              "tip_5lang": {
+                "de": "Die Cafeteria ist ein guter Ort zum Aufwärmen.",
+                "hu": "A kávézó remek hely a felmelegedéshez.",
+                "ro": "Cafeneaua este un loc bun pentru a vă încălzi.",
+                "en": "The cafeteria is a great spot to warm up."
+              }
+            },
+            {
+              "name": "Gloucester Quays",
+              "tip_5lang": {
+                "de": "Vorsicht beim Fahren durch Fußgängerzonen am Abend.",
+                "hu": "Vigyázzon az esti órákban a sétálóövezetben való haladáskor.",
+                "ro": "Atenție la deplasarea prin zonele pietonale seara.",
+                "en": "Be careful when cycling through pedestrian areas in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Beleuchtung ist wegen der frühen Dunkelheit wichtig.",
+              "Handschuhe sind bei Frost unverzichtbar für die Bremskontrolle.",
+              "Achten Sie auf Glatteis auf den Brücken über den Kanal.",
+              "Die Route ist meist flach und auch im Winter gut befahrbar."
+            ],
+            "hu": [
+              "A jó világítás a korai sötétedés miatt fontos.",
+              "A kesztyű fagyban elengedhetetlen a fékek kezeléséhez.",
+              "Ügyeljen a jegesedésre a csatorna feletti hidakon.",
+              "Az útvonal többnyire sík és télen is jól járható."
+            ],
+            "ro": [
+              "Iluminarea bună este importantă din cauza întunericului timpuriu.",
+              "Mănușile sunt esențiale pe ger pentru controlul frânelor.",
+              "Atenție la polei pe podurile peste canal.",
+              "Ruta este în mare parte plană și practicabilă și iarna."
+            ],
+            "en": [
+              "Reliable lighting is crucial due to the early onset of darkness.",
+              "Gloves are essential in freezing weather for brake control.",
+              "Watch out for black ice on the bridges over the canal.",
+              "The route is mostly flat and manageable even in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -966,6 +1330,188 @@
           "Use a sat-nav app to navigate between the clusters.",
           "Be aware of any Clean Air Zone signage in the city centre."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt zum Robinswood Hill bietet trotz Regen einen weiten Blick über die Wolkenlandschaft. In der Innenstadt parken Sie trocken in modernen Parkhäusern direkt an den Docks und Quays. Der Mittag im Museum lässt den Regen vergessen, während Sie nachmittags die Kathedrale bequem erreichen. Der Tag endet entspannt mit kurzen Wegen zum Fahrzeug.",
+            "hu": "A Robinswood Hill felé tartó út az eső ellenére tágas kilátást nyújt a felhős tájra. A belvárosban szárazon parkolhat a közvetlenül a dokkok és a Quays melletti parkolóházakban. A múzeumban töltött délidő alatt elfelejtheti az esőt, a katedrálist pedig kényelmesen elérheti. A nap pihentetően zárul a parkolóhoz közeli látnivalókkal.",
+            "ro": "Drumul spre Robinswood Hill oferă o vedere largă asupra norilor în ciuda ploii. În centrul orașului parcați la uscat în parcările moderne direct de la docuri și Quays. Prânzul la muzeu vă face să uitați de ploaie, iar după-amiaza ajungeți confortabil la catedrală. Ziua se încheie relaxat cu distanțe scurte până la mașină.",
+            "en": "The drive to Robinswood Hill offers expansive views of the cloudscape despite the rain. In the city centre, park dry in modern garages right at the docks and Quays. Midday at the museum lets you forget the rain, while the cathedral is easily accessible in the afternoon. The day ends relaxed with short walks back to your vehicle."
+          },
+          "stops": [
+            {
+              "name": "Robinswood Hill Country Park",
+              "tip_5lang": {
+                "de": "Die Wege können bei Regen sehr schlammig sein.",
+                "hu": "Az utak esőben nagyon sárosak lehetnek.",
+                "ro": "Potecile pot fi foarte noroioase pe ploaie.",
+                "en": "Paths can be very muddy during rain."
+              }
+            },
+            {
+              "name": "Gloucester Docks (Parking)",
+              "tip_5lang": {
+                "de": "Überdachtes Parken im 'Docks Car Park' empfohlen.",
+                "hu": "Fedett parkolás a 'Docks Car Park'-ban ajánlott.",
+                "ro": "Parcare acoperită recomandată în 'Docks Car Park'.",
+                "en": "Covered parking at 'Docks Car Park' is recommended."
+              }
+            },
+            {
+              "name": "National Waterways Museum",
+              "tip_5lang": {
+                "de": "Nur ein kurzer, ungeschützter Weg vom Parkhaus.",
+                "hu": "Csak rövid, fedetlen út a parkolóháztól.",
+                "ro": "Doar un drum scurt, neprotejat, de la parcare.",
+                "en": "Only a short, unsheltered walk from the car park."
+              }
+            },
+            {
+              "name": "Gloucester Quays",
+              "tip_5lang": {
+                "de": "Direkter Zugang vom Parkhaus zum Einkaufszentrum.",
+                "hu": "Közvetlen bejárat a parkolóházból a bevásárlóközpontba.",
+                "ro": "Acces direct din parcare în centrul comercial.",
+                "en": "Direct access from the car park to the shopping centre."
+              }
+            },
+            {
+              "name": "Gloucester Cathedral (Parking)",
+              "tip_5lang": {
+                "de": "Nahegelegenes Parkhaus am Westgate Street nutzen.",
+                "hu": "Használja a közeli parkolót a Westgate Streeten.",
+                "ro": "Folosiți parcarea apropiată de pe Westgate Street.",
+                "en": "Use the nearby car park on Westgate Street."
+              }
+            },
+            {
+              "name": "Beatrix Potter Museum",
+              "tip_5lang": {
+                "de": "Ganz in der Nähe der Kathedrale, ideal kombinierbar.",
+                "hu": "Nagyon közel a katedrálishoz, jól kombinálható.",
+                "ro": "Foarte aproape de catedrală, ideal de combinat.",
+                "en": "Very close to the cathedral, perfect to combine."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkhäuser bieten den besten Schutz vor Regen.",
+              "Achten Sie auf Pfützen auf den flachen Hafenparkplätzen.",
+              "Nutzen Sie die Park-and-Ride-Plätze bei starkem Regen.",
+              "Die Sicht am Robinswood Hill kann bei Regen eingeschränkt sein."
+            ],
+            "hu": [
+              "A parkolóházak nyújtják a legjobb védelmet az eső ellen.",
+              "Ügyeljen a tócsákra a kikötő lapos parkolóiban.",
+              "Heves esőzés esetén használja a Park-and-Ride parkolókat.",
+              "Esőben a kilátás korlátozott lehet a Robinswood Hillen."
+            ],
+            "ro": [
+              "Parcările etajate oferă cea mai bună protecție contra ploii.",
+              "Atenție la bălți în parcările plate din port.",
+              "Folosiți locurile Park-and-Ride în caz de ploaie torențială.",
+              "Vizibilitatea pe Robinswood Hill poate fi redusă pe ploaie."
+            ],
+            "en": [
+              "Multi-storey car parks offer the best rain protection.",
+              "Watch out for deep puddles in the flat harbor parking lots.",
+              "Consider using Park-and-Ride facilities during heavy rain.",
+              "Visibility at Robinswood Hill can be limited during downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am Robinswood Hill bietet eine fantastische Fernsicht über die frostige Landschaft. Die Innenstadtbesuche lassen sich dank kurzer Wege von den Parkhäusern angenehm gestalten. Mittags wärmen die Museen auf, und am Nachmittag bietet die Kathedrale einen festlichen Anblick. Der Abend endet gemütlich in den hell erleuchteten Quays.",
+            "hu": "Egy tiszta téli reggel a Robinswood Hillen fantasztikus távlati kilátást nyújt a zúzmarás tájra. A belvárosi látogatások a parkolóházak közelsége miatt kényelmesek. Délben a múzeumok segítenek az átmelegedésben, délután pedig a katedrális ünnepi látványt nyújt. Az este kellemesen zárul a fényesen kivilágított Quays-nél.",
+            "ro": "O dimineață senină de iarnă pe Robinswood Hill oferă o vedere fantastică asupra peisajului înghețat. Vizitele în centru sunt plăcute datorită distanțelor scurte de la parcări. La prânz vă încălziți în muzee, iar după-amiaza catedrala oferă o priveliște festivă. Seara se încheie plăcut în zona Quays puternic iluminată.",
+            "en": "A clear winter morning at Robinswood Hill offers fantastic long-distance views over the frosty landscape. City centre visits are comfortable thanks to short walks from the parking garages. Warm up in museums at midday, and enjoy the festive sight of the cathedral in the afternoon. The evening ends cozily in the brightly lit Quays."
+          },
+          "stops": [
+            {
+              "name": "Robinswood Hill Country Park",
+              "tip_5lang": {
+                "de": "Bei Frost können die steilen Wege rutschig sein.",
+                "hu": "Fagy esetén a meredek utak csúszósak lehetnek.",
+                "ro": "În caz de îngheț, potecile abrupte pot fi alunecoase.",
+                "en": "In frosty weather, the steep paths can be slippery."
+              }
+            },
+            {
+              "name": "Gloucester Docks (Parking)",
+              "tip_5lang": {
+                "de": "Das Auto bleibt im Parkhaus eisfrei.",
+                "hu": "Az autó jégmentes marad a parkolóházban.",
+                "ro": "Mașina rămâne fără gheață în parcarea etajată.",
+                "en": "The car stays frost-free in the parking garage."
+              }
+            },
+            {
+              "name": "National Waterways Museum",
+              "tip_5lang": {
+                "de": "Ein angenehm beheizter Zwischenstopp.",
+                "hu": "Kellemesen fűtött köztes megálló.",
+                "ro": "O oprire intermediară plăcut încălzită.",
+                "en": "A pleasantly heated interim stop."
+              }
+            },
+            {
+              "name": "Gloucester Quays",
+              "tip_5lang": {
+                "de": "Ideal für Wintereinkäufe im Warmen.",
+                "hu": "Ideális téli bevásárláshoz a melegben.",
+                "ro": "Ideal pentru cumpărături de iarnă la căldură.",
+                "en": "Ideal for winter shopping in the warmth."
+              }
+            },
+            {
+              "name": "Gloucester Cathedral (Parking)",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Parkzeiten während der Abendmessen.",
+                "hu": "Ügyeljen a parkolási időre az esti misék alatt.",
+                "ro": "Atenție la timpii de parcare în timpul slujbelor de seară.",
+                "en": "Check parking times during evening services."
+              }
+            },
+            {
+              "name": "Beatrix Potter Museum",
+              "tip_5lang": {
+                "de": "Besonders gemütlich zur Weihnachtszeit.",
+                "hu": "Különösen meghitt a karácsonyi időszakban.",
+                "ro": "Deosebit de primitor în perioada Crăciunului.",
+                "en": "Particularly cozy during the Christmas season."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkhäuser ersparen das Eiskratzen nach dem Besuch.",
+              "Prüfen Sie den Reifendruck bei plötzlichem Kälteeinbruch.",
+              "Robinswood Hill bietet bei Schnee tolle Rodelmöglichkeiten.",
+              "Sitzheizung und warme Getränke machen die Fahrt angenehmer."
+            ],
+            "hu": [
+              "A parkolóházak megkímélik a jégkaparástól látogatás után.",
+              "Hirtelen lehűléskor ellenőrizze a gumiabroncsok nyomását.",
+              "Hó esetén a Robinswood Hill remek szánkózási lehetőséget nyújt.",
+              "Az ülésfűtés és a forró italok kényelmesebbé teszik az utat."
+            ],
+            "ro": [
+              "Parcările etajate vă scutesc de curățatul gheții după vizită.",
+              "Verificați presiunea în anvelope la răcirea bruscă a vremii.",
+              "Robinswood Hill oferă locuri grozave de săniuș în caz de zăpadă.",
+              "Încălzirea în scaune și băuturile calde fac drumul mai plăcut."
+            ],
+            "en": [
+              "Multi-storey car parks save you from scraping ice later.",
+              "Check tire pressure during sudden cold snaps.",
+              "Robinswood Hill offers great sledding opportunities in snow.",
+              "Heated seats and hot drinks make the drive more pleasant."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1286,6 +1832,188 @@
           "Buses can be busy during peak hours, so plan accordingly.",
           "Confirm the return bus number before you alight."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom modernen Busbahnhof erreichen Sie schnell die überdachten Bereiche am Hafen. Der Vormittag an den Docks lässt sich gut mit Museumsbesuchen kombinieren, um dem Regen zu entgehen. Mittags bietet die Quays Mall perfekten Schutz. Nachmittags bringt Sie der Bus direkt zur Kathedrale. Der Abend endet bequem an den zentralen Haltestellen.",
+            "hu": "A modern buszpályaudvarról gyorsan elérheti a kikötő fedett részeit. A délelőtt a dokkoknál jól kombinálható múzeumlátogatással az eső elől menekülve. Délben a Quays bevásárlóközpont tökéletes védelmet nyújt. Délután a busz közvetlenül a katedrálishoz viszi. Az este kényelmesen zárul a központi megállókban.",
+            "ro": "De la autogara modernă ajungeți rapid în zonele acoperite din port. Dimineața la docuri poate fi combinată cu vizite la muzee pentru a evita ploaia. La prânz, mall-ul Quays oferă protecție perfectă. După-amiaza, autobuzul vă duce direct la catedrală. Seara se încheie confortabil la stațiile centrale.",
+            "en": "From the modern bus station, you can quickly reach covered areas at the docks. A morning at the harbor combines well with museum visits to escape the rain. At midday, the Quays mall offers perfect shelter. In the afternoon, the bus takes you directly to the cathedral. The evening ends conveniently at central stops."
+          },
+          "stops": [
+            {
+              "name": "Bus Station",
+              "tip_5lang": {
+                "de": "Vollständig überdachte Wartehalle mit Cafés.",
+                "hu": "Teljesen fedett váróterem kávézókkal.",
+                "ro": "Sală de așteptare complet acoperită cu cafenele.",
+                "en": "Fully covered waiting hall with cafes available."
+              }
+            },
+            {
+              "name": "Gloucester Docks",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle, Schirm bereit halten.",
+                "hu": "Rövid séta a buszmegállótól, legyen kéznél esernyő.",
+                "ro": "Drum scurt de la stație, țineți umbrela la îndemână.",
+                "en": "Short walk from the bus stop; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "National Waterways Museum",
+              "tip_5lang": {
+                "de": "Gut mit lokalen Buslinien erreichbar.",
+                "hu": "Helyi buszjáratokkal jól megközelíthető.",
+                "ro": "Ușor accesibil cu liniile de autobuz locale.",
+                "en": "Easily accessible via local bus routes."
+              }
+            },
+            {
+              "name": "Gloucester Quays",
+              "tip_5lang": {
+                "de": "Haltestelle direkt am Eingang des Zentrums.",
+                "hu": "Megálló közvetlenül a központ bejáratánál.",
+                "ro": "Stație chiar la intrarea în centrul comercial.",
+                "en": "Bus stop located right at the shopping centre entrance."
+              }
+            },
+            {
+              "name": "Gloucester Cathedral",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Westgate Street' ist am nächsten.",
+                "hu": "A 'Westgate Street' megálló van a legközelebb.",
+                "ro": "Stația 'Westgate Street' este cea mai apropiată.",
+                "en": "The 'Westgate Street' stop is the closest."
+              }
+            },
+            {
+              "name": "Blackfriars Priory",
+              "tip_5lang": {
+                "de": "Wenige Gehminuten von den Hauptbuslinien entfernt.",
+                "hu": "Pár perc séta a fő buszvonalaktól.",
+                "ro": "La câteva minute de mers pe jos de liniile principale.",
+                "en": "A few minutes' walk from the main bus routes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind beheizt und bieten Schutz vor Nässe.",
+              "Nutzen Sie die 'Gloucester Ticket' App für schnelles Zahlen.",
+              "Die Wartezeiten an den Docks sind meist kurz.",
+              "Bei starkem Regen sind die Busse eine gute Alternative zum Laufen."
+            ],
+            "hu": [
+              "A buszok fűtöttek és védelmet nyújtanak a nedvesség ellen.",
+              "Használja a 'Gloucester Ticket' alkalmazást a gyors fizetéshez.",
+              "A dokkoknál a várakozási idő általában rövid.",
+              "Heves esőben a busz remek alternatíva a gyaloglás helyett."
+            ],
+            "ro": [
+              "Autobuzele sunt încălzite și oferă protecție contra umezelii.",
+              "Folosiți aplicația 'Gloucester Ticket' pentru plată rapidă.",
+              "Timpii de așteptare la docuri sunt de obicei scurți.",
+              "Pe ploaie torențială, autobuzul e o alternativă bună la mers."
+            ],
+            "en": [
+              "Buses are heated and provide shelter from the wet weather.",
+              "Use the 'Gloucester Ticket' app for quick fare payment.",
+              "Waiting times at the docks are generally short.",
+              "During heavy rain, buses are a great alternative to walking."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Bus genießen Sie die Fahrt durch die frostige Stadt zum Hafen. Der Morgen an den Docks ist windig, aber die Busstation bietet einen warmen Startpunkt. Mittags wärmen Sie sich in den Quays auf, bevor Sie nachmittags die beleuchtete Kathedrale besuchen. Der Abend endet entspannt mit der Rückfahrt direkt vom Stadtzentrum.",
+            "hu": "A fűtött buszból élvezheti a zúzmarás városon átvezető utat a kikötőig. A reggel a dokkoknál szeles, de a buszpályaudvar meleg kiindulópontot nyújt. Délben a Quays-nél melegedhet fel, mielőtt délután meglátogatja a kivilágított katedrálist. Az este pihentetően zárul a belvárosból induló visszautal.",
+            "ro": "În autobuzul încălzit vă bucurați de drumul prin orașul înghețat spre port. Dimineața la docuri este vântoasă, dar autogara oferă un punct de plecare cald. La prânz vă încălziți în Quays, apoi vizitați catedrala iluminată după-amiaza. Seara se încheie relaxat cu drumul de întoarcere.",
+            "en": "Enjoy the ride through the frosty city to the docks in a heated bus. Mornings at the docks are windy, but the bus station provides a warm starting point. Warm up at the Quays at midday before visiting the lit-up cathedral in the afternoon. The evening ends relaxed with a return journey from the city centre."
+          },
+          "stops": [
+            {
+              "name": "Bus Station",
+              "tip_5lang": {
+                "de": "Ein moderner, warmer Ort zum Warten.",
+                "hu": "Modern, meleg hely a várakozáshoz.",
+                "ro": "Un loc modern și cald pentru așteptare.",
+                "en": "A modern, warm place to wait for your bus."
+              }
+            },
+            {
+              "name": "Gloucester Docks",
+              "tip_5lang": {
+                "de": "Zügig zur nächsten Bushaltestelle gehen, um warm zu bleiben.",
+                "hu": "Haladjon tempósan a megállóig, hogy melegen maradjon.",
+                "ro": "Mergeți rapid spre următoarea stație pentru a nu îngheța.",
+                "en": "Walk briskly to the next stop to stay warm."
+              }
+            },
+            {
+              "name": "National Waterways Museum",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse oft weniger überfüllt.",
+                "hu": "Télen a buszok gyakran kevésbé zsúfoltak.",
+                "ro": "Iarna autobuzele sunt adesea mai puțin aglomerate.",
+                "en": "Buses are often less crowded during the winter months."
+              }
+            },
+            {
+              "name": "Gloucester Quays",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind abends gut beleuchtet.",
+                "hu": "A megállók este jól ki vannak világítva.",
+                "ro": "Stațiile sunt bine iluminate pe timpul serii.",
+                "en": "Bus stops are well-lit during the evening hours."
+              }
+            },
+            {
+              "name": "Gloucester Cathedral",
+              "tip_5lang": {
+                "de": "Ein kurzer Weg durch die festlich dekorierte Innenstadt.",
+                "hu": "Rövid séta az ünnepi díszbe öltözött belvároson át.",
+                "ro": "Drum scurt prin centrul orașului decorat festiv.",
+                "en": "A short walk through the festively decorated city centre."
+              }
+            },
+            {
+              "name": "Blackfriars Priory",
+              "tip_5lang": {
+                "de": "Achten Sie auf geänderte Fahrpläne an Feiertagen.",
+                "hu": "Ügyeljen az ünnepek alatti módosított menetrendre.",
+                "ro": "Atenție la orarul modificat în timpul sărbătorilor.",
+                "en": "Check for modified holiday schedules during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busstation bietet elektronische Anzeigen für Echtzeit-Infos.",
+              "Nutzen Sie die Wärme im Bus für kleine Pausen.",
+              "Abends fahren die Busse seltener, Fahrplan prüfen.",
+              "Tragen Sie warme Kleidung für die Wartezeiten im Freien."
+            ],
+            "hu": [
+              "A buszpályaudvar elektronikus kijelzői valós idejű infót adnak.",
+              "Használja ki a busz melegét a rövid pihenőkhöz.",
+              "Este a buszok ritkábban járnak, ellenőrizze a menetrendet.",
+              "Viseljen meleg ruhát a kültéri várakozáshoz."
+            ],
+            "ro": [
+              "Autogara are panouri electronice cu informații în timp real.",
+              "Folosiți căldura din autobuz pentru scurte pauze.",
+              "Seara autobuzele circulă mai rar, verificați orarul.",
+              "Purtați haine groase pentru perioadele de așteptare afară."
+            ],
+            "en": [
+              "The bus station features electronic displays for real-time info.",
+              "Take advantage of the warmth on the bus for brief rests.",
+              "Buses run less frequently in the evening; check the timetable.",
+              "Wear warm layers for any waiting time spent outdoors."
+            ]
+          }
+        }
       }
     }
   }

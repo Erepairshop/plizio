@@ -362,6 +362,188 @@
           "A reusable water bottle is a good idea to stay hydrated.",
           "Check the opening hours of the Memorial House and the thermal spa in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im gemütlichen Geburtshaus von Géza Gárdonyi, ideal um dem Regen zu entfliehen. Mittags führt ein kurzer Spaziergang unter dem Regenschirm zur reformierten Kirche, bevor wir den Nachmittag im warmen Wasser der Agárder Therme verbringen. Den Abend genießen wir bei einem warmen Abendessen in einem Restaurant mit Blick auf den regnerischen Velence-See.",
+            "hu": "A napot Gárdonyi Géza szülőházának védelmében kezdjük, elmerülve az irodalomban. Délben esernyős séta következik az agárdi templomig, majd a délutánt az Agárdi Gyógyfürdő gőzölgő medencéiben töltjük, ami tökéletes menedék az eső elől. Az estét egy tóparti étterem barátságos belső terében zárjuk, figyelve a víztükröt érő esőcseppeket.",
+            "ro": "Dimineața începe în interiorul Casei Memoriale Géza Gárdonyi, un refugiu cultural perfect împotriva ploii. La prânz, o plimbare scurtă cu umbrela ne duce spre biserica reformată, iar după-amiaza este dedicată relaxării în apele calde ale Termelor Agárd. Seara se încheie cu o cină caldă într-un restaurant de pe malul lacului, admirând peisajul melancolic de afară.",
+            "en": "Start your morning inside the cozy Gárdonyi Memorial House, escaping the drizzle. At noon, a short walk under an umbrella leads to the Reformed Church, followed by an afternoon in the steaming pools of Agárd Thermal Spa, the perfect sanctuary from the rain. Finish the evening with a warm dinner in a lakeside restaurant, watching the rain dance on Lake Velence."
+          },
+          "stops": [
+            {
+              "name": "Gárdonyi Géza Memorial House",
+              "tip_5lang": {
+                "de": "Perfekter Indoor-Start, die Ausstellungen sind komplett überdacht.",
+                "hu": "Tökéletes fedett program, a kiállítások védve vannak az esőtől.",
+                "ro": "Program interior ideal, expozițiile sunt complet protejate de ploaie.",
+                "en": "Perfect indoor activity, the exhibitions are fully sheltered."
+              }
+            },
+            {
+              "name": "Gárdony Public Beach",
+              "tip_5lang": {
+                "de": "Kurzer, stimmungsvoller Spaziergang am Ufer; asphaltierte Wege nutzen.",
+                "hu": "Rövid, hangulatos parti séta; használja az aszfaltozott utakat.",
+                "ro": "Plimbare scurtă pe mal; folosiți potecile asfaltate pentru a evita noroiul.",
+                "en": "Short, atmospheric stroll; stick to paved paths to avoid mud."
+              }
+            },
+            {
+              "name": "Reformed Church of Agárd",
+              "tip_5lang": {
+                "de": "Kurze Innenbesichtigung möglich, bietet Schutz vor Schauern.",
+                "hu": "Rövid belső látogatás, védelmet nyújt a záporok elől.",
+                "ro": "Vizită scurtă în interior, oferă adăpost împotriva averselor.",
+                "en": "Brief indoor visit possible, providing shelter from the showers."
+              }
+            },
+            {
+              "name": "Agárd Thermal Spa",
+              "tip_5lang": {
+                "de": "Das Highlight bei Regen; die Innenbecken sind sehr entspannend.",
+                "hu": "A legjobb esős program; a beltéri medencék kiválóak a kikapcsolódásra.",
+                "ro": "Cea mai bună opțiune pe ploaie; bazinele interioare sunt foarte relaxante.",
+                "en": "Top rainy day choice; the indoor pools are excellent for relaxing."
+              }
+            },
+            {
+              "name": "Madárvárta Bird Watching Tower",
+              "tip_5lang": {
+                "de": "Der Turm ist überdacht, bietet aber nur begrenzten Schutz vor Wind.",
+                "hu": "A torony fedett, de a szél ellen kevésbé véd; csak egy gyors pillantásra.",
+                "ro": "Turnul este acoperit, dar oferă protecție limitată împotriva vântului.",
+                "en": "The tower is roofed but offers limited protection from the wind."
+              }
+            },
+            {
+              "name": "Dinner by the Lake",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch im Innenbereich nahe am Fenster.",
+                "hu": "Foglaljon asztalt a belső térben, ablak melletti helyen.",
+                "ro": "Rezervați o masă în interior, lângă fereastră, pentru vedere.",
+                "en": "Book a table indoors, preferably near the window for the view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Wege am Seeufer rutschig sein können.",
+              "Die Agárder Therme ist der ideale Zufluchtsort für mehrere Stunden.",
+              "In der Nähe des Gárdonyi-Hauses gibt es kleine Cafés zum Aufwärmen.",
+              "Ein großer Regenschirm ist wegen des Windes am See besser als ein kleiner."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a tóparti sétányok csúszósak lehetnek.",
+              "Az Agárdi Gyógyfürdő a legjobb helyszín több órás tartózkodásra esőben.",
+              "A Gárdonyi-ház környékén több hangulatos kávézó várja a melegedni vágyókat.",
+              "A tavi szél miatt egy stabilabb esernyő praktikusabb, mint a könnyű verziók."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, faleza poate fi alunecoasă.",
+              "Termele Agárd sunt locul ideal pentru a petrece câteva ore pe ploaie.",
+              "Lângă casa memorială există cafenele mici unde vă puteți încălzi.",
+              "O umbrelă rezistentă la vânt este mai utilă decât una mică și ușoară."
+            ],
+            "en": [
+              "Wear waterproof shoes, as the lakeside paths can be slippery when wet.",
+              "The Agárd Spa is the ideal refuge for spending several hours indoors.",
+              "Small cafes near the Gárdonyi House are great for warming up.",
+              "A sturdy umbrella is better than a small one due to the lake winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen besichtigen wir das Gárdonyi-Haus, bevor wir die frische Luft am zugefrorenen See genießen. Das Mittagessen wärmt uns auf, und der Nachmittag gehört ganz der Entspannung in der Agárder Therme, während draußen der Frost klirrt. Da die Sonne früh untergeht, genießen wir den Abend in der gemütlichen Atmosphäre eines Gárdonyer Restaurants.",
+            "hu": "A csípős téli reggelen Gárdonyi Géza hagyatékát fedezzük fel, majd teszünk egy rövid sétát a sokszor befagyott tó partján. Az ebédet követően a délutánt az Agárdi Gyógyfürdő forró termálvizében töltjük, ami ilyenkor a legélvezetesebb. A korai naplemente után már egy meghitt, fűtött étteremben élvezzük a helyi ízeket.",
+            "ro": "Într-o dimineață geroasă de iarnă, vizităm casa memorială, apoi ne bucurăm de aerul curat de pe malul lacului înghețat. Prânzul ne încălzește, iar după-amiaza este dedicată relaxării la Termele Agárd, în timp ce afară este ger. Deoarece soarele apune devreme, petrecem seara în atmosfera primitoare a unui restaurant local.",
+            "en": "On a crisp winter morning, explore Gárdonyi's legacy, then enjoy a short walk by the frozen lake. After lunch, spend the afternoon in the hot thermal waters of Agárd Spa, which is most enjoyable in the cold. Since the sun sets early, enjoy the evening in the cozy atmosphere of a heated local restaurant."
+          },
+          "stops": [
+            {
+              "name": "Gárdonyi Géza Memorial House",
+              "tip_5lang": {
+                "de": "Das Museum ist beheizt und bietet einen warmen Start in den Tag.",
+                "hu": "A múzeum fűtött, kellemes helyszín a nap kezdéséhez.",
+                "ro": "Muzeul este încălzit, oferind un început de zi confortabil.",
+                "en": "The museum is heated, making it a comfortable start to the day."
+              }
+            },
+            {
+              "name": "Gárdony Public Beach",
+              "tip_5lang": {
+                "de": "Wenn der See zugefroren ist, bietet sich eine einzigartige Kulisse.",
+                "hu": "Ha a tó befagyott, különleges látványt nyújt; vigyázzon a jéggel!",
+                "ro": "Dacă lacul este înghețat, peisajul este spectaculos; atenție la gheață!",
+                "en": "If the lake is frozen, it offers a unique backdrop; be careful on the ice."
+              }
+            },
+            {
+              "name": "Reformed Church of Agárd",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zur Besinnung, warm anziehen für den Weg.",
+                "hu": "Rövid megálló, öltözzön rétegesen az idevezető úton.",
+                "ro": "O oprire scurtă, îmbrăcați-vă gros pentru drumul până aici.",
+                "en": "A short stop; dress in layers for the walk here."
+              }
+            },
+            {
+              "name": "Agárd Thermal Spa",
+              "tip_5lang": {
+                "de": "Sensationell im Winter; probieren Sie die Außensauna.",
+                "hu": "Télen a legjobb; próbálja ki a szaunát a fürdőzés után.",
+                "ro": "Senzațional iarna; încercați sauna după baie.",
+                "en": "Sensational in winter; try the sauna after your swim."
+              }
+            },
+            {
+              "name": "Madárvárta Bird Watching Tower",
+              "tip_5lang": {
+                "de": "Sehr windig; nur für einen kurzen Blick auf die Wintervögel.",
+                "hu": "Nagyon szeles hely; csak egy rövid pillantásra a téli madárvilágra.",
+                "ro": "Loc foarte vântos; doar pentru o privire scurtă la păsările de iarnă.",
+                "en": "Very windy location; only for a quick look at the winter birds."
+              }
+            },
+            {
+              "name": "Dinner by the Lake",
+              "tip_5lang": {
+                "de": "Ab 17:00 Uhr ist es dunkel; genießen Sie das warme Licht im Inneren.",
+                "hu": "17 óra után már sötét van; élvezze a belső tér meleg fényeit.",
+                "ro": "După ora 17 este întuneric; bucurați-vă de lumina caldă din interior.",
+                "en": "It is dark after 5 PM; enjoy the warm lighting and cozy interior."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Wind vom See kann im Winter extrem schneidend sein.",
+              "Die Therme schließt im Winter oft etwas früher als im Sommer.",
+              "Prüfen Sie, ob Eislaufen auf dem See offiziell erlaubt ist.",
+              "Warme Getränke wie Tee oder Glühwein sind in den lokalen Cafés ein Muss."
+            ],
+            "hu": [
+              "A tavi szél télen rendkívül metsző tud lenni, öltözzön melegen.",
+              "A gyógyfürdő téli nyitvatartása eltérhet a nyáritól.",
+              "Csak akkor lépjen a jégre, ha azt hivatalosan engedélyezték.",
+              "A helyi kávézókban a forró tea vagy forralt bor elengedhetetlen."
+            ],
+            "ro": [
+              "Vântul de pe lac poate fi extrem de tăios iarna.",
+              "Programul de iarnă al termelor poate fi mai scurt decât cel de vară.",
+              "Intrați pe gheață doar dacă acest lucru este permis oficial.",
+              "Băuturile calde precum ceaiul sau vinul fiert sunt obligatorii la cafenele."
+            ],
+            "en": [
+              "The lake wind can be extremely piercing in winter; dress warmly.",
+              "Check winter opening hours for the spa, as they may differ from summer.",
+              "Only step onto the ice if it has been officially permitted.",
+              "Hot tea or mulled wine in local cafes is a must during winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +924,206 @@
           "Wear a helmet and bring water and snacks.",
           "Always lock your bike securely at the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour bei Regen erfordert die richtige Ausrüstung. Wir starten im geschützten Militärpark Pákozd und radeln vorsichtig zum Agárder Thermalbad, wo wir uns aufwärmen und trocknen können. Der Nachmittag wird ruhiger im Gárdonyi-Haus verbracht, bevor wir den Tag im Velence Korzó abschließen, das viele überdachte Bereiche zum Bummeln bietet.",
+            "hu": "Az esős bringázáshoz elengedhetetlen a vízálló ruházat. A pákozdi emlékpark fedett részei után óvatosan tekerünk az agárdi fürdőbe, hogy átmelegedjünk. A délutáni irodalmi látogatás után a Velence Korzó felé vesszük az irányt, ahol az üzletház fedett árkádjai alatt védve vagyunk az esőtől az esti vacsoráig.",
+            "ro": "O tură cu bicicleta pe ploaie necesită echipament adecvat. Începem la parcul memorial din Pákozd, apoi pedalăm cu grijă spre termele din Agárd pentru a ne încălzi. După o vizită la casa memorială, ne îndreptăm spre Velence Korzó, care oferă multe zone acoperite pentru plimbare înainte de cină.",
+            "en": "Cycling in the rain requires proper gear. We start at the sheltered Pákozd Military Park, then pedal carefully to Agárd Spa to warm up and dry off. After an afternoon literary visit, we head to Velence Korzó, which offers plenty of covered areas for strolling before dinner."
+          },
+          "tips": {
+            "de": [
+              "Vorsicht auf den Radwegen, das Laub kann bei Nässe sehr rutschig sein.",
+              "Verwenden Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Die Agárder Therme bietet überdachte Fahrradständer.",
+              "Das Velence Korzó ist der beste Ort, um das Fahrrad sicher und trocken abzustellen."
+            ],
+            "hu": [
+              "Vigyázzon a kerékpárutakon, a vizes falevelek nagyon csúszhatnak.",
+              "Használjon sárvédőt a felfröccsenő víz ellen.",
+              "Az Agárdi Gyógyfürdőnél vannak fedett kerékpártárolók.",
+              "A Velence Korzó kiváló hely a kerékpár biztonságos és száraz leállítására."
+            ],
+            "ro": [
+              "Atenție pe pistele de biciclete, frunzele ude pot fi foarte alunecoase.",
+              "Folosiți apărători de noroi pentru a vă proteja de apă.",
+              "Termele Agárd oferă rastele de biciclete acoperite.",
+              "Velence Korzó este cel mai bun loc pentru a lăsa bicicleta la loc uscat."
+            ],
+            "en": [
+              "Be careful on bike paths; wet leaves can be very slippery.",
+              "Use mudguards to protect yourself from water splashes.",
+              "Agárd Spa provides covered bicycle racks for guests.",
+              "Velence Korzó is a great place to park your bike safely and stay dry."
+            ]
+          },
+          "stops": [
+            {
+              "name": "Pákozd Military Memorial Park",
+              "tip_5lang": {
+                "de": "Viele Ausstellungen sind in Gebäuden untergebracht.",
+                "hu": "A kiállítások nagy része épületekben található, így esőben is jó.",
+                "ro": "Multe expoziții sunt în interiorul clădirilor.",
+                "en": "Many exhibitions are housed in buildings, making it rain-friendly."
+              }
+            },
+            {
+              "name": "Chernel István Bird Sanctuary",
+              "tip_5lang": {
+                "de": "Kurzer Halt; die Wege können bei Regen schlammig sein.",
+                "hu": "Rövid megálló; az utak esőben sarasak lehetnek.",
+                "ro": "Oprire scurtă; potecile pot fi noroioase pe ploaie.",
+                "en": "Quick stop; the paths can get muddy when it rains."
+              }
+            },
+            {
+              "name": "Agárd Thermal Spa",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen nach der nassen Fahrt.",
+                "hu": "Tökéletes átmelegedni a vizes tekerés után.",
+                "ro": "Ideal pentru a vă încălzi după tura prin ploaie.",
+                "en": "Perfect for warming up after a wet ride."
+              }
+            },
+            {
+              "name": "Gárdonyi Géza Memorial House",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen der Ausrüstung.",
+                "hu": "Használja a fedett bejáratot a vizes holmik lerakásához.",
+                "ro": "Folosiți intrarea acoperită pentru a vă lăsa echipamentul ud.",
+                "en": "Use the covered entrance area to drop off your wet gear."
+              }
+            },
+            {
+              "name": "Gárdony Public Beach",
+              "tip_5lang": {
+                "de": "Nur für einen schnellen Blick aufs Wasser; Wege sind fest.",
+                "hu": "Csak egy gyors pillantásra; a parti utak szilárd burkolatúak.",
+                "ro": "Doar pentru o privire rapidă; potecile sunt pavate.",
+                "en": "Just for a quick look; the lakeside paths are paved."
+              }
+            },
+            {
+              "name": "Velence Korzó",
+              "tip_5lang": {
+                "de": "Das Einkaufszentrum ist komplett überdacht und trocken.",
+                "hu": "Az üzletház teljesen fedett és száraz.",
+                "ro": "Centrul comercial este complet acoperit și uscat.",
+                "en": "The shopping center is fully covered and dry."
+              }
+            },
+            {
+              "name": "Sunset at the Korzó",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Regen durch die großen Glasfronten.",
+                "hu": "Élvezze a kilátást az esős tóra a nagy üvegfelületeken át.",
+                "ro": "Bucurați-vă de vedere prin vitrinele mari de sticlă.",
+                "en": "Enjoy the view of the rainy lake through the large glass windows."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterradeln am Velence-See bietet klare Sichten und Ruhe. Wir starten in Pákozd und fahren auf dem gut ausgebauten Radweg nach Agárd. Nach der Thermenpause wird es im Gárdonyi-Haus gemütlich. Der Tag endet im modernen Velence Korzó, wo wir die festliche Stimmung genießen, bevor die Winterkälte zu stark wird.",
+            "hu": "A téli kerékpározás a Velencei-tónál tiszta kilátást és csendet ígér. Pákozdról indulunk a jól karbantartott úton Agárd felé. A fürdőzés utáni pihenő a Gárdonyi-házban folytatódik, majd a napot a Velence Korzó modern épületében zárjuk, élvezve az ünnepi fényeket a korai sötétedésben.",
+            "ro": "Ciclismul de iarnă la lacul Velence oferă priveliști clare și liniște. Începem în Pákozd și mergem spre Agárd pe pista bine întreținută. După relaxarea la terme, vizităm casa memorială, iar ziua se încheie la Velence Korzó, bucurându-ne de luminile festive de seară.",
+            "en": "Winter cycling at Lake Velence offers clear views and tranquility. We start in Pákozd and ride to Agárd on the well-maintained path. After a spa break, visit the Gárdonyi House, then end the day at Velence Korzó, enjoying the festive lights in the early twilight."
+          },
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe und eine Mütze unter dem Helm gegen den Fahrtwind.",
+              "Die Radwege werden im Winter nicht immer komplett geräumt.",
+              "Planen Sie die Tour so, dass Sie vor Einbruch der Dunkelheit (ca. 16:30 Uhr) am Ziel sind.",
+              "Ein Thermosbecher mit heißem Tee ist ein Lebensretter."
+            ],
+            "hu": [
+              "Viseljen kesztyűt és sisak alatti sapkát a menetszél ellen.",
+              "A kerékpárutakat télen nem mindenhol takarítják teljes körűen.",
+              "Tervezze úgy az utat, hogy sötétedés előtt (kb. 16:30) célba érjen.",
+              "Egy termosz forró teával életmentő lehet a hidegben."
+            ],
+            "ro": [
+              "Purtați mănuși și o căciulă sub cască împotriva vântului.",
+              "Pistele de biciclete nu sunt întotdeauna curățate complet iarna.",
+              "Planificați tura astfel încât să ajungeți la destinație înainte de întuneric.",
+              "Un termos cu ceai fierbinte este esențial în frig."
+            ],
+            "en": [
+              "Wear gloves and a cap under your helmet against the wind chill.",
+              "Bike paths may not be fully cleared of snow or ice in winter.",
+              "Plan your trip to reach your destination before dark (around 4:30 PM).",
+              "A thermos with hot tea is a lifesaver in the cold."
+            ]
+          },
+          "stops": [
+            {
+              "name": "Pákozd Military Memorial Park",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den Außenbereich der Denkmäler nötig.",
+                "hu": "Meleg öltözet szükséges a kültéri emlékművek megtekintéséhez.",
+                "ro": "Haine groase necesare pentru zona exterioară a monumentelor.",
+                "en": "Warm clothes needed for visiting the outdoor monuments."
+              }
+            },
+            {
+              "name": "Chernel István Bird Sanctuary",
+              "tip_5lang": {
+                "de": "Interessante Wintervögel; Fernglas nicht vergessen.",
+                "hu": "Érdekes téli madárvilág; ne felejtse otthon a távcsövet.",
+                "ro": "Păsări de iarnă interesante; nu uitați binoclul.",
+                "en": "Interesting winter birdlife; don't forget your binoculars."
+              }
+            },
+            {
+              "name": "Agárd Thermal Spa",
+              "tip_5lang": {
+                "de": "Das warme Wasser ist ein perfekter Kontrast zur kalten Luft.",
+                "hu": "A meleg víz tökéletes kontraszt a hideg levegővel.",
+                "ro": "Apa caldă este un contrast perfect cu aerul rece.",
+                "en": "The warm water is a perfect contrast to the cold air."
+              }
+            },
+            {
+              "name": "Gárdonyi Géza Memorial House",
+              "tip_5lang": {
+                "de": "Drinnen ist es herrlich warm; ideal zum Ausruhen.",
+                "hu": "Bent kellemes meleg van; ideális a pihenéshez.",
+                "ro": "În interior este cald și bine; ideal pentru odihnă.",
+                "en": "It's lovely and warm inside; ideal for a break."
+              }
+            },
+            {
+              "name": "Gárdony Public Beach",
+              "tip_5lang": {
+                "de": "Wunderschön bei Reif oder Schnee auf den Stegen.",
+                "hu": "Gyönyörű, ha zúzmarás vagy havas a part és a stégek.",
+                "ro": "Superb dacă debarcaderele sunt acoperite de chiciură sau zăpadă.",
+                "en": "Beautiful when frost or snow covers the piers and the shore."
+              }
+            },
+            {
+              "name": "Velence Korzó",
+              "tip_5lang": {
+                "de": "Oft gibt es hier im Winter kleine Weihnachtsmärkte.",
+                "hu": "Télen gyakran van itt kisebb adventi vásár vagy korcsolyapálya.",
+                "ro": "Iarna există adesea mici târguri sau un patinoar aici.",
+                "en": "In winter, there are often small markets or an ice rink here."
+              }
+            },
+            {
+              "name": "Sunset at the Korzó",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter besonders farbenfroh.",
+                "hu": "A téli naplementék színei különösen intenzívek a tónál.",
+                "ro": "Culorile apusului de iarnă sunt deosebit de intense la lac.",
+                "en": "Winter sunsets over the lake are especially colorful."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -1122,6 +1504,206 @@
           "Plan your parking strategy within the clusters to minimize walking.",
           "Traffic can be heavy on summer weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist die Tour um den See auch bei Regen komfortabel. Wir besuchen zuerst den Militärpark in Pákozd und fahren dann direkt zur Agárder Therme. Nach der Entspannung im Wasser besichtigen wir das Gárdonyi-Haus und verbringen den Rest des Tages im Velence Korzó, wo wir trockenen Fußes parken und speisen können.",
+            "hu": "Autóval az esős időben is kényelmes a tó körüli túra. Először a pákozdi emlékparkot látogatjuk meg, majd közvetlenül az Agárdi Gyógyfürdőhöz hajtunk. A vizes kikapcsolódás után a Gárdonyi-házat érintjük, a napot pedig a Velence Korzó fedett garázsában és üzletei között zárjuk.",
+            "ro": "Cu mașina, turul lacului este confortabil chiar și pe ploaie. Vizităm parcul din Pákozd, apoi mergem direct la Termele Agárd. După relaxare, vizităm casa memorială și petrecem restul zilei la Velence Korzó, unde putem parca și mânca fără să ne udăm.",
+            "en": "By car, the tour around the lake is comfortable even in the rain. We first visit the Pákozd Military Park, then drive directly to Agárd Spa. After relaxing, visit the Gárdonyi House and spend the rest of the day at Velence Korzó, where you can park and dine without getting wet."
+          },
+          "tips": {
+            "de": [
+              "Die Parkplätze an der Therme und am Korzó sind nah an den Eingängen.",
+              "Vermeiden Sie bei starkem Regen unbefestigte Parkflächen am See.",
+              "Nutzen Sie die Tiefgarage am Velence Korzó, um trocken zu bleiben.",
+              "Das Gárdonyi-Haus hat einen kleinen Parkplatz direkt davor."
+            ],
+            "hu": [
+              "A fürdőnél és a Korzónál a parkolók közel vannak a bejáratokhoz.",
+              "Erős esőben kerülje a tóparti nem aszfaltozott parkolókat.",
+              "Használja a Velence Korzó mélygarázsát, hogy szárazon maradjon.",
+              "A Gárdonyi-háznak közvetlenül az épület előtt van kis parkolója."
+            ],
+            "ro": [
+              "Parcările de la terme și de la Korzó sunt aproape de intrări.",
+              "Evitați parcările neasfaltate de pe malul lacului în caz de ploaie torențială.",
+              "Folosiți parcarea subterană de la Velence Korzó pentru a rămâne uscat.",
+              "Casa memorială are o parcare mică chiar în față."
+            ],
+            "en": [
+              "Parking lots at the spa and Korzó are close to the entrances.",
+              "Avoid unpaved parking areas near the lake during heavy rain.",
+              "Use the underground parking at Velence Korzó to stay dry.",
+              "The Gárdonyi House has a small parking area directly in front."
+            ]
+          },
+          "stops": [
+            {
+              "name": "Pákozd Military Memorial Park",
+              "tip_5lang": {
+                "de": "Parken Sie am Haupteingang für kurze Wege zum Museum.",
+                "hu": "Parkoljon a főbejáratnál a múzeum rövid elérhetőségéhez.",
+                "ro": "Parcați la intrarea principală pentru acces rapid la muzeu.",
+                "en": "Park at the main entrance for a short walk to the museum building."
+              }
+            },
+            {
+              "name": "Gárdony/Agárd Cluster",
+              "tip_5lang": {
+                "de": "Knotenpunkt für Besichtigungen; alles nah beieinander.",
+                "hu": "Központi csomópont; minden látnivaló közel van.",
+                "ro": "Punct central; toate atracțiile sunt aproape una de alta.",
+                "en": "Central hub; all sights are close to each other."
+              }
+            },
+            {
+              "name": "Agárd Thermal Spa",
+              "tip_5lang": {
+                "de": "Großer Parkplatz; idealer Stopp für Regentage.",
+                "hu": "Nagy parkoló; ideális megálló esős napokon.",
+                "ro": "Parcare mare; oprire ideală pentru zilele ploioase.",
+                "en": "Large parking lot; ideal stop for rainy days."
+              }
+            },
+            {
+              "name": "Gárdonyi Géza Memorial House",
+              "tip_5lang": {
+                "de": "Kleiner, befestigter Parkplatz direkt am Haus.",
+                "hu": "Kicsi, szilárd burkolatú parkoló közvetlenül a háznál.",
+                "ro": "Parcare mică, pavată, chiar lângă casă.",
+                "en": "Small, paved parking lot directly at the house."
+              }
+            },
+            {
+              "name": "Velence Cluster",
+              "tip_5lang": {
+                "de": "Schneller Zugang zum Einkaufszentrum und Strand.",
+                "hu": "Gyors bejutás az üzletházba és a strand területére.",
+                "ro": "Acces rapid la centrul comercial și zona de plajă.",
+                "en": "Quick access to the shopping center and beach area."
+              }
+            },
+            {
+              "name": "Velence Korzó",
+              "tip_5lang": {
+                "de": "Die Tiefgarage bietet Schutz vor Regen.",
+                "hu": "A mélygarázs védelmet nyújt az eső elől.",
+                "ro": "Parcarea subterană oferă protecție împotriva ploii.",
+                "en": "The underground garage provides full protection from rain."
+              }
+            },
+            {
+              "name": "Dinner at the Korzó",
+              "tip_5lang": {
+                "de": "Perfekt für ein gemütliches Essen ohne nass zu werden.",
+                "hu": "Tökéletes egy kényelmes vacsorához anélkül, hogy megázna.",
+                "ro": "Perfect pentru o cină confortabilă fără a vă uda.",
+                "en": "Perfect for a comfortable dinner without getting wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autofahrt um den See führt uns zu den geschichtsträchtigen Orten von Pákozd und Gárdony. Die Wärme des Autos macht den Wechsel zwischen den Sehenswürdigkeiten angenehm. Der Nachmittag in der Agárder Therme ist das Highlight, bevor wir den Tag bei den festlichen Lichtern am Velence Korzó ausklingen lassen.",
+            "hu": "A téli autózás a tó körül kényelmes módon fűzi fel Pákozd és Gárdony történelmi emlékeit. Az autó melege kellemessé teszi a látnivalók közötti váltást. A délutáni fürdőzés Agárdon a nap fénypontja, majd a Velence Korzó ünnepi fényei között zárjuk az utazást.",
+            "ro": "Turul de iarnă cu mașina în jurul lacului ne poartă prin locurile istorice din Pákozd și Gárdony. Căldura mașinii face plăcută tranziția între atracții. După-amiaza la Termele Agárd este punctul culminant, iar seara se încheie printre luminile festive de la Velence Korzó.",
+            "en": "The winter drive around the lake takes us through the historical sites of Pákozd and Gárdony. The car's warmth makes switching between sights pleasant. The afternoon at Agárd Spa is the highlight, followed by an evening among the festive lights of Velence Korzó."
+          },
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Auto winterfest ist (Winterreifen sind Pflicht).",
+              "Die Parkplätze werden bei Schnee meist geräumt.",
+              "Genießen Sie die Heizung zwischen den Stopps.",
+              "Vorsicht vor Straßenglätte in der Nähe des Sees."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy autója fel van készítve a télre (téli gumi kötelező).",
+              "A parkolókat hóesés esetén általában takarítják.",
+              "Élvezze a fűtést a megállók közötti utakon.",
+              "Vigyázzon az útra kifagyó nedvességre a tó közelében."
+            ],
+            "ro": [
+              "Asigurați-vă că mașina este pregătită pentru iarnă (anvelope de iarnă).",
+              "Parcările sunt de obicei curățate în caz de ninsoare.",
+              "Bucurați-vă de căldura din mașină între opriri.",
+              "Atenție la polei pe drumurile din apropierea lacului."
+            ],
+            "en": [
+              "Ensure your car is winter-ready (winter tires are mandatory).",
+              "Parking lots are usually cleared of snow in winter.",
+              "Enjoy the heating between the different stops.",
+              "Watch out for icy patches on roads near the lake."
+            ]
+          },
+          "stops": [
+            {
+              "name": "Pákozd Military Memorial Park",
+              "tip_5lang": {
+                "de": "Heißgetränke sind oft im Besucherzentrum erhältlich.",
+                "hu": "A látogatóközpontban gyakran kapható forró ital.",
+                "ro": "Băuturi calde sunt adesea disponibile la centrul de vizitare.",
+                "en": "Hot drinks are often available in the visitor center."
+              }
+            },
+            {
+              "name": "Gárdony/Agárd Cluster",
+              "tip_5lang": {
+                "de": "Knotenpunkt; gute Straßenverhältnisse auch im Winter.",
+                "hu": "Közlekedési csomópont; télen is jó útviszonyok.",
+                "ro": "Nod rutier; condiții bune de drum și iarna.",
+                "en": "Transport hub; road conditions remain good in winter."
+              }
+            },
+            {
+              "name": "Agárd Thermal Spa",
+              "tip_5lang": {
+                "de": "Entspannung pur, wenn es draußen kalt ist.",
+                "hu": "Tiszta kikapcsolódás, amikor kint hideg van.",
+                "ro": "Relaxare pură când afară este frig.",
+                "en": "Pure relaxation when it's cold outside."
+              }
+            },
+            {
+              "name": "Gárdonyi Géza Memorial House",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei der Besichtigung der Ausstellungen auf.",
+                "hu": "Melegedjen át a kiállítások megtekintése közben.",
+                "ro": "Încălziți-vă în timp ce vizitați expozițiile.",
+                "en": "Warm up while exploring the indoor exhibitions."
+              }
+            },
+            {
+              "name": "Velence Cluster",
+              "tip_5lang": {
+                "de": "Schnelle Erreichbarkeit aller Winteraktivitäten.",
+                "hu": "Minden téli program gyorsan elérhető innen.",
+                "ro": "Acces rapid la toate activitățile de iarnă.",
+                "en": "Quick access to all winter activities in Velence."
+              }
+            },
+            {
+              "name": "Velence Korzó",
+              "tip_5lang": {
+                "de": "Die Parkplätze sind auch bei Schnee gut zugänglich.",
+                "hu": "A parkolók hóban is jól megközelíthetőek.",
+                "ro": "Parcările sunt ușor accesibile chiar și în caz de zăpadă.",
+                "en": "Parking lots remain easily accessible even in snow."
+              }
+            },
+            {
+              "name": "Dinner at the Korzó",
+              "tip_5lang": {
+                "de": "Gemütlicher Abschluss in beheizter Umgebung.",
+                "hu": "Meghitt zárás fűtött környezetben.",
+                "ro": "Încheiere confortabilă într-un mediu încălzit.",
+                "en": "A cozy finish in a well-heated environment."
+              }
+            }
+          ]
+        }
       }
     },
     "transit": {
@@ -1478,6 +2060,188 @@
           "Gárdony and Velence train stations are on the main line between Budapest and Székesfehérvár.",
           "Some sights like the military park are difficult to reach by public transport."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Zug und Bus erkunden wir Gárdony trotz Regen. Vom Bahnhof ist es nur ein kurzer Weg zum Gárdonyi-Haus. Ein Bus bringt uns bequem zur Therme in Agárd, wo wir den Regen vergessen können. Später fahren wir zum Velence Korzó, um den Tag trocken und gemütlich in einem der Restaurants zu beenden.",
+            "hu": "Vonattal és busszal esőben is felfedezhető Gárdony. A vasútállomástól csak rövid séta a Gárdonyi-ház. A helyi buszjárat kényelmesen elvisz az agárdi fürdőbe, ahol elfelejthetjük a kinti esőt. Később a Velence Korzó felé vesszük az irányt, hogy a napot szárazon és kényelemben zárjuk.",
+            "ro": "Cu trenul și autobuzul explorăm Gárdony în ciuda ploii. De la gară este doar o scurtă plimbare până la casa memorială. Un autobuz ne duce confortabil la termele din Agárd, unde putem uita de ploaie. Mai târziu, mergem la Velence Korzó pentru a încheia ziua la loc uscat.",
+            "en": "Explore Gárdony by train and bus despite the rain. It's just a short walk from the station to Gárdonyi House. A local bus takes you comfortably to Agárd Spa, where you can forget the rain outside. Later, head to Velence Korzó to end the day in dry comfort."
+          },
+          "tips": {
+            "de": [
+              "Die Bahnhöfe Gárdony und Agárd haben überdachte Bahnsteige.",
+              "Nutzen Sie die App für Echtzeit-Businformationen, um Wartezeiten im Regen zu minimieren.",
+              "Die Therme ist gut an das Busnetz angebunden.",
+              "Das Velence Korzó ist nur wenige Gehminuten vom Bahnhof Velence entfernt."
+            ],
+            "hu": [
+              "Gárdony és Agárd vasútállomásain vannak fedett peronok.",
+              "Használja a menetrendi appot, hogy ne kelljen sokat várnia az esőben.",
+              "A fürdő jól megközelíthető a helyi buszjáratokkal.",
+              "A Velence Korzó csak pár perc séta Velence vasúti megállóhelytől."
+            ],
+            "ro": [
+              "Gările Gárdony și Agárd au peroane acoperite.",
+              "Folosiți aplicația de transport pentru a minimiza așteptarea în ploaie.",
+              "Termele sunt bine conectate la rețeaua de autobuze.",
+              "Velence Korzó este la câteva minute de mers pe jos de gara Velence."
+            ],
+            "en": [
+              "Gárdony and Agárd train stations have covered platforms.",
+              "Use a transit app for real-time bus info to minimize waiting in the rain.",
+              "The spa is well-connected to the local bus network.",
+              "Velence Korzó is just a few minutes' walk from Velence train stop."
+            ]
+          },
+          "stops": [
+            {
+              "name": "Arrival at Gárdony Train Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet einen kleinen Warteraum.",
+                "hu": "Az állomásépületben van egy kis váróterem.",
+                "ro": "Gara are o mică sală de așteptare.",
+                "en": "The station building has a small waiting room."
+              }
+            },
+            {
+              "name": "Gárdonyi Géza Memorial House",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Bahnhof; Gehwege sind gepflastert.",
+                "hu": "Rövid séta az állomástól; a járdák végig burkoltak.",
+                "ro": "Scurtă plimbare de la gară; trotuarele sunt pavate.",
+                "en": "Short walk from the station; the sidewalks are paved all the way."
+              }
+            },
+            {
+              "name": "Bus ride to Agárd",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen haben meist kleine Unterstände.",
+                "hu": "A buszmegállóknál általában van kis esőbeálló.",
+                "ro": "Stațiile de autobuz au de obicei mici adăposturi.",
+                "en": "Bus stops usually have small shelters to protect from rain."
+              }
+            },
+            {
+              "name": "Agárd Thermal Spa",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle befindet sich direkt vor der Therme.",
+                "hu": "A buszmegálló közvetlenül a fürdő előtt található.",
+                "ro": "Stația de autobuz este chiar în fața termelor.",
+                "en": "The bus stop is located directly in front of the spa entrance."
+              }
+            },
+            {
+              "name": "Velence Korzó",
+              "tip_5lang": {
+                "de": "Vom Bahnhof Velence aus fast komplett überdacht erreichbar.",
+                "hu": "Velence megállóhelytől szinte végig fedett úton elérhető.",
+                "ro": "Accesibil din gara Velence pe un drum aproape complet acoperit.",
+                "en": "Accessible from Velence station via an almost entirely covered path."
+              }
+            },
+            {
+              "name": "Dinner and Departure",
+              "tip_5lang": {
+                "de": "Der Bahnhof Velence ist sehr nah für die Rückreise.",
+                "hu": "A velencei vasúti megálló nagyon közel van a hazautazáshoz.",
+                "ro": "Gara Velence este foarte aproape pentru drumul de întoarcere.",
+                "en": "Velence train stop is very close for your return journey."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreise mit der Bahn: Wir starten in Gárdony und besuchen das Memorial House. Mit dem Bus geht es weiter zur warmen Therme in Agárd, dem perfekten Winterziel. Der Abend endet am Velence Korzó, von wo aus die Züge regelmäßig zurückfahren, während wir die winterliche Aussicht genießen.",
+            "hu": "Téli utazás vonattal: Gárdonyban kezdünk az Emlékház látogatásával. Busszal megyünk tovább az agárdi fürdőbe, ami a tökéletes téli célpont. Az este a Velence Korzónál ér minket, ahonnan a vonatok rendszeresen indulnak vissza, miközben mi a téli tájban gyönyörködünk.",
+            "ro": "Călătorie de iarnă cu trenul: Începem în Gárdony cu vizitarea Casei Memoriale. Cu autobuzul mergem mai departe la termele din Agárd, destinația perfectă de iarnă. Seara ne găsește la Velence Korzó, de unde trenurile pleacă regulat înapoi.",
+            "en": "Winter travel by train: Start in Gárdony with a visit to the Memorial House. Take a bus to Agárd Spa, the perfect winter destination. The evening ends at Velence Korzó, from where trains depart regularly as you enjoy the winter scenery."
+          },
+          "tips": {
+            "de": [
+              "Die Züge sind im Winter gut beheizt.",
+              "Achten Sie auf eventuelle witterungsbedingte Verspätungen im Bahnverkehr.",
+              "Warten Sie in den beheizten Bahnhofsgebäuden oder Cafés auf Ihren Bus.",
+              "Der Fußweg zum Korzó ist im Winter geräumt."
+            ],
+            "hu": [
+              "A vonatok télen jól fűtöttek.",
+              "Figyeljen az esetleges időjárás miatti késésekre a vasúton.",
+              "Várjon a fűtött állomásépületekben vagy kávézókban a buszra.",
+              "A Korzóhoz vezető gyalogutat télen is takarítják."
+            ],
+            "ro": [
+              "Trenurile sunt bine încălzite iarna.",
+              "Fiți atenți la eventualele întârzieri cauzate de vreme la căile ferate.",
+              "Așteptați autobuzul în clădirile încălzite ale gărilor sau în cafenele.",
+              "Drumul pietonal către Korzó este curățat iarna."
+            ],
+            "en": [
+              "Trains are well-heated during the winter months.",
+              "Keep an eye out for potential weather-related rail delays.",
+              "Wait for your bus inside heated station buildings or nearby cafes.",
+              "The walking path to Korzó is cleared of snow and ice in winter."
+            ]
+          },
+          "stops": [
+            {
+              "name": "Arrival at Gárdony Train Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Warteraum bei Kälte.",
+                "hu": "Hideg esetén használja a fűtött várótermet.",
+                "ro": "Folosiți sala de așteptare încălzită în caz de frig.",
+                "en": "Use the heated waiting room if it's very cold outside."
+              }
+            },
+            {
+              "name": "Gárdonyi Géza Memorial House",
+              "tip_5lang": {
+                "de": "Nur 10 Minuten zu Fuß, aber warm anziehen.",
+                "hu": "Csak 10 perc séta, de öltözzön fel jól.",
+                "ro": "Doar 10 minute de mers pe jos, dar îmbrăcați-vă bine.",
+                "en": "Only a 10-minute walk, but make sure to dress warmly."
+              }
+            },
+            {
+              "name": "Bus ride to Agárd",
+              "tip_5lang": {
+                "de": "Die Busse fahren regelmäßig zwischen Gárdony und Agárd.",
+                "hu": "A buszok rendszeresen járnak Gárdony és Agárd között.",
+                "ro": "Autobuzele circulă regulat între Gárdony și Agárd.",
+                "en": "Buses run regularly between Gárdony and Agárd."
+              }
+            },
+            {
+              "name": "Agárd Thermal Spa",
+              "tip_5lang": {
+                "de": "Ein Highlight im Winter-Fahrplan.",
+                "hu": "A téli menetrend egyik legnépszerűbb célpontja.",
+                "ro": "Una dintre cele mai populare destinații din programul de iarnă.",
+                "en": "One of the most popular destinations in the winter schedule."
+              }
+            },
+            {
+              "name": "Velence Korzó",
+              "tip_5lang": {
+                "de": "Viel Platz im Inneren zum Aufwärmen vor der Abfahrt.",
+                "hu": "Sok hely van bent a melegedéshez az indulás előtt.",
+                "ro": "Mult spațiu în interior pentru a vă încălzi înainte de plecare.",
+                "en": "Plenty of indoor space to warm up before your departure."
+              }
+            },
+            {
+              "name": "Dinner and Departure",
+              "tip_5lang": {
+                "de": "Die Züge nach Budapest/Székesfehérvár fahren oft.",
+                "hu": "A vonatok Budapest/Székesfehérvár felé gyakran járnak.",
+                "ro": "Trenurile spre Budapesta/Székesfehérvár circulă frecvent.",
+                "en": "Trains to Budapest or Székesfehérvár run frequently."
+              }
+            }
+          ]
+        }
       }
     }
   }

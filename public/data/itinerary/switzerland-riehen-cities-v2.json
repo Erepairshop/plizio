@@ -266,6 +266,188 @@
           "Riehen is very pedestrian-friendly.",
           "Combine your visit with a trip to Basel (Tram 6)."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag geschützt in der Dorfkirche Riehen. Die historischen Gassen führen Sie zum Haus zu den Sieben Kurfürsten und weiter ins Spielzeugmuseum – ein idealer Ort, um dem Regen zu entfliehen. Der Nachmittag gehört der Fondation Beyeler, wo Sie Weltklasse-Kunst im Trockenen genießen. Ein kurzer, erfrischender Spaziergang führt schließlich zum Mahnmal für die Flüchtlinge.",
+            "hu": "Kezdje a napot a rieheni falusi templom fedett falai között. A történelmi utcák a Hét Választófejedelem házához, majd a Játékmúzeumba vezetnek, amely kiváló menedék az eső elől. A délutánt a Fondation Beyeler modern épületében töltheti művészetek között. A napot egy rövid, frissítő séta zárja a menekültek emlékművénél a határ közelében.",
+            "ro": "Începeți ziua la adăpostul bisericii din sat. Străzile istorice vă conduc spre Casa celor Șapte Electori și apoi la Muzeul Jucăriilor, un refugiu ideal împotriva ploii. După-amiaza aparține fundației Fondation Beyeler, unde vă bucurați de artă de talie mondială la interior. O scurtă plimbare revigorantă vă duce în final la Monumentul Refugiaților.",
+            "en": "Start your day sheltered within the Riehen village church. The historic alleys lead to the House of the Seven Electors and on to the Toy Museum – an ideal spot to escape the rain. The afternoon is dedicated to Fondation Beyeler, where you enjoy world-class art indoors. A short, refreshing walk finally leads to the Refugee Memorial near the border."
+          },
+          "stops": [
+            {
+              "name": "Dorfkirche Riehen",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als ersten trockenen Treffpunkt.",
+                "hu": "Használja a templom bejáratát első száraz gyülekezőhelyként.",
+                "ro": "Folosiți intrarea bisericii ca prim punct de întâlnire uscat.",
+                "en": "Use the church entrance as your first dry meeting point."
+              }
+            },
+            {
+              "name": "Haus zu den Sieben Kurfürsten",
+              "tip_5lang": {
+                "de": "Betrachten Sie die Fassade kurz unter einem Regenschirm.",
+                "hu": "Tekintse meg a homlokzatot gyorsan egy esernyő alól.",
+                "ro": "Admirați fațada rapid de sub o umbrelă.",
+                "en": "View the facade briefly from under an umbrella."
+              }
+            },
+            {
+              "name": "Toy Museum Riehen",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine ausgiebige Pause im Warmen und Trockenen.",
+                "hu": "Tökéletes hely egy hosszabb szünetre a melegben és szárazon.",
+                "ro": "Loc perfect pentru o pauză lungă la căldură și uscat.",
+                "en": "Perfect place for an extended break in the warm and dry."
+              }
+            },
+            {
+              "name": "Sarasinpark",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Wege unter den alten Bäumen.",
+                "hu": "Vigyázzon a csúszós utakra az öreg fák alatt.",
+                "ro": "Atenție la aleile alunecoase de sub copacii bătrâni.",
+                "en": "Watch out for slippery paths under the old trees."
+              }
+            },
+            {
+              "name": "Fondation Beyeler",
+              "tip_5lang": {
+                "de": "Große Garderobe vorhanden; ideal für nasse Mäntel und Schirme.",
+                "hu": "Nagy ruhatár áll rendelkezésre az esőkabátoknak és ernyőknek.",
+                "ro": "Garderobă mare disponibilă pentru haine și umbrele ude.",
+                "en": "Large cloakroom available; ideal for wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Refugee Memorial",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt im Freien; feste Schuhe sind ratsam.",
+                "hu": "Rövid kinti tartózkodás; vízálló cipő ajánlott.",
+                "ro": "Scurtă ședere în aer liber; se recomandă încălțăminte solidă.",
+                "en": "Short outdoor stop; waterproof shoes are advisable."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Parkwege.",
+              "Die Fondation Beyeler ist ein hervorragender Rückzugsort bei starkem Regen.",
+              "Nutzen Sie die kurzen Distanzen zwischen den Museen im Ortskern.",
+              "Ein Taschenregenschirm ist bei den wechselhaften Basler Winden praktisch."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a parki sétányokhoz.",
+              "A Fondation Beyeler kiváló menedék heves esőzés esetén.",
+              "Használja ki a múzeumok közötti rövid távolságokat a központban.",
+              "Az összecsukható esernyő praktikus a változékony bázeli szélben."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru aleile din parc.",
+              "Fondation Beyeler este un refugiu excelent în caz de ploaie torențială.",
+              "Profitați de distanțele scurte între muzee în centrul localității.",
+              "O umbrelă de buzunar este practică în vântul schimbător din Basel."
+            ],
+            "en": [
+              "Wear waterproof shoes for the park paths.",
+              "Fondation Beyeler is an excellent retreat during heavy rain.",
+              "Take advantage of the short distances between museums in the center.",
+              "A pocket umbrella is practical in the changeable Basel winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Riehen mit einem besinnlichen Start in der Dorfkirche. Nach einem Blick auf das historische Sieben-Kurfürsten-Haus wärmen Sie sich im Spielzeugmuseum auf. Der Sarasinpark bietet oft eine zauberhafte Schneekulisse auf dem Weg zur Fondation Beyeler, wo das warme Licht die Kunstwerke perfekt in Szene setzt. Der Tag endet bei früh einsetzender Dämmerung am Grenzübergang.",
+            "hu": "Ismerje meg a téli Riehent egy csendes kezdéssel a falusi templomban. A történelmi Hét Választófejedelem háza után melegedjen fel a Játékmúzeumban. A Sarasinpark gyakran varázslatos havas díszletet kínál a Fondation Beyeler felé vezető úton, ahol a benti fények kiemelik a műalkotásokat. A nap a korai szürkületben ér véget a határnál lévő emlékműnél.",
+            "ro": "Experimentați Riehen-ul de iarnă cu un început contemplativ la biserica satului. După o privire asupra Casei celor Șapte Electori, încălziți-vă în Muzeul Jucăriilor. Parcul Sarasin oferă adesea un decor de zăpadă magic în drum spre Fondation Beyeler, unde lumina caldă pune în valoare operele de artă. Ziua se încheie odată cu amurgul timpuriu la monumentul de la graniță.",
+            "en": "Experience winter in Riehen with a contemplative start at the village church. After a look at the historic House of the Seven Electors, warm up in the Toy Museum. Sarasin Park often offers a magical snowy backdrop on the way to Fondation Beyeler, where the warm indoor light perfectly highlights the artworks. The day ends as dusk falls early at the memorial."
+          },
+          "stops": [
+            {
+              "name": "Dorfkirche Riehen",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und die Wärme im Kirchenschiff.",
+                "hu": "Élvezze a csendet és a viszonylagos meleget a templomhajóban.",
+                "ro": "Bucurați-vă de liniște și de căldura din interiorul bisericii.",
+                "en": "Enjoy the silence and relative warmth inside the church."
+              }
+            },
+            {
+              "name": "Haus zu den Sieben Kurfürsten",
+              "tip_5lang": {
+                "de": "Die Fassade wirkt im Winterlicht besonders markant.",
+                "hu": "A homlokzat a téli fényben különösen karakteresnek tűnik.",
+                "ro": "Fațada pare deosebit de marcantă în lumina de iarnă.",
+                "en": "The facade looks particularly striking in the winter light."
+              }
+            },
+            {
+              "name": "Toy Museum Riehen",
+              "tip_5lang": {
+                "de": "Heißer Tee im Museumsbereich hilft gegen die Kälte.",
+                "hu": "Forró tea a múzeumi részen segít a hideg ellen.",
+                "ro": "Un ceai fierbinte în zona muzeului ajută împotriva frigului.",
+                "en": "Hot tea in the museum area helps against the cold."
+              }
+            },
+            {
+              "name": "Sarasinpark",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen auf den Gehwegen.",
+                "hu": "Vigyázzon a jeges szakaszokra a járdákon.",
+                "ro": "Atenție la porțiunile înghețate de pe trotuare.",
+                "en": "Beware of icy patches on the walkways."
+              }
+            },
+            {
+              "name": "Fondation Beyeler",
+              "tip_5lang": {
+                "de": "Der Blick in den winterlichen Garten ist vom Café aus herrlich.",
+                "hu": "A téli kertre nyíló kilátás csodás a kávézóból.",
+                "ro": "Vederea spre grădina de iarnă este superbă din cafenea.",
+                "en": "The view of the winter garden is wonderful from the cafe."
+              }
+            },
+            {
+              "name": "Refugee Memorial",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 16:30 Uhr, um Tageslicht zu haben.",
+                "hu": "Látogasson el ide 16:30 előtt, hogy még legyen természetes fény.",
+                "ro": "Vizitați acest loc înainte de 16:30 pentru a avea lumină naturală.",
+                "en": "Visit this spot before 4:30 PM to catch the last daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung im Zwiebelprinzip ist für Riehen wichtig.",
+              "Die Museen bieten guten Schutz vor Kälteperioden.",
+              "Sonnenuntergang ist im Winter bereits gegen 16:45 Uhr.",
+              "Kopfsteinpflaster im alten Kern kann bei Frost glatt sein."
+            ],
+            "hu": [
+              "A réteges öltözködés fontos Riehenben télen.",
+              "A múzeumok jó védelmet nyújtanak a hideg ellen.",
+              "A naplemente télen már 16:45 körül bekövetkezik.",
+              "Az óváros macskakövei fagy esetén csúszósak lehetnek."
+            ],
+            "ro": [
+              "Îmbrăcămintea groasă în straturi este importantă în Riehen iarna.",
+              "Muzeele oferă o bună protecție împotriva perioadelor de frig.",
+              "Apusul soarelui este iarna deja în jurul orei 16:45.",
+              "Pavajul din centrul vechi poate fi alunecos în caz de îngheț."
+            ],
+            "en": [
+              "Warm layered clothing is important for Riehen in winter.",
+              "The museums provide good shelter from cold spells.",
+              "Sunset in winter is already around 4:45 PM.",
+              "Cobblestones in the old core can be slippery when frosted."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -526,6 +708,188 @@
           "The route is flat and very safe.",
           "Use the bike stations near the museums."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine sportliche Regenfahrt beginnt an der Dorfkirche. Über das Naturbad Riehen, das bei Regen eine mystische Ruhe ausstrahlt, radeln Sie zur Fondation Beyeler. Nach einer kulturellen Pause führen die Wege durch den Sarasin- und Wenkenpark, wo das nasse Grün besonders intensiv leuchtet. Den Abschluss bildet die Fahrt zum Refugee Memorial an der Grenze.",
+            "hu": "Egy sportos esős bringázás kezdődik a falusi templomnál. Az esőben misztikus nyugalmat árasztó rieheni Naturbad érintésével tekerjen a Fondation Beyelerhez. A kulturális pihenő után az út a Sarasin- és Wenkenparkon át vezet, ahol a nedves növényzet színei felerősödnek. A napot a határ menti emlékműhöz való tekerés zárja.",
+            "ro": "O plimbare sportivă pe ploaie începe la biserica satului. Trecând pe la Naturbad Riehen, care emană o liniște mistică pe ploaie, pedalați spre Fondation Beyeler. După o pauză culturală, drumurile duc prin parcurile Sarasin și Wenken, unde verdele umed este deosebit de intens. Finalul este marcat de drumul spre Monumentul Refugiaților.",
+            "en": "A sporty rainy ride starts at the village church. Cycling via Naturbad Riehen, which exudes a mystic calm in the rain, you reach Fondation Beyeler. After a cultural break, the paths lead through Sarasin and Wenken Parks, where the wet greenery glows intensely. The tour ends with a ride to the Refugee Memorial at the border."
+          },
+          "stops": [
+            {
+              "name": "Dorfkirche Riehen",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt auf nassen Straßen.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a nedves úton.",
+                "ro": "Verificați frânele înainte de plecare pe drumurile ude.",
+                "en": "Check your brakes before setting off on wet roads."
+              }
+            },
+            {
+              "name": "Naturbad Riehen",
+              "tip_5lang": {
+                "de": "Überdachte Bereiche bieten Schutz für eine kurze Trinkpause.",
+                "hu": "Fedett részek nyújtanak menedéket egy rövid ivószünethez.",
+                "ro": "Zonele acoperite oferă adăpost pentru o scurtă pauză de hidratare.",
+                "en": "Covered areas provide shelter for a short drink break."
+              }
+            },
+            {
+              "name": "Fondation Beyeler",
+              "tip_5lang": {
+                "de": "Fahrradständer sind direkt vor dem Museum vorhanden.",
+                "hu": "Kerékpártárolók közvetlenül a múzeum előtt találhatók.",
+                "ro": "Suporturile de biciclete sunt disponibile direct în fața muzeului.",
+                "en": "Bike racks are available directly in front of the museum."
+              }
+            },
+            {
+              "name": "Sarasinpark",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den asphaltierten Hauptwegen.",
+                "hu": "Vigyázzon az aszfaltozott főutakon.",
+                "ro": "Mergeți cu atenție pe aleile principale asfaltate.",
+                "en": "Ride carefully on the paved main paths."
+              }
+            },
+            {
+              "name": "Wenkenpark",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Schloss vom Radweg aus.",
+                "hu": "Élvezze a kastély látványát a kerékpárútról.",
+                "ro": "Bucurați-vă de vederea spre castel de pe pista de biciclete.",
+                "en": "Enjoy the view of the castle from the bike path."
+              }
+            },
+            {
+              "name": "Refugee Memorial",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher am Rand der Grenzzone ab.",
+                "hu": "Állítsa le biztonságosan a biciklit a határzóna szélén.",
+                "ro": "Parcați bicicleta în siguranță la marginea zonei de frontieră.",
+                "en": "Park your bike safely at the edge of the border zone."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist für diese Tour unerlässlich.",
+              "Vorsicht bei nassem Laub auf den Parkwegen.",
+              "Nutzen Sie die Radwege entlang der Baselstrasse.",
+              "Wischen Sie den Sattel bei jedem Stopp trocken."
+            ],
+            "hu": [
+              "A teljes esőruházat elengedhetetlen ehhez a túrához.",
+              "Vigyázzon a nedves levelekre a parki utakon.",
+              "Használja a Baselstrasse menti kerékpárutakat.",
+              "Minden megállónál törölje szárazra a nyerget."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este esențial pentru acest tur.",
+              "Atenție la frunzele ude de pe aleile din parc.",
+              "Folosiți pistele de biciclete de-a lungul Baselstrasse.",
+              "Ștergeți șaua la fiecare oprire."
+            ],
+            "en": [
+              "Full rain gear is essential for this tour.",
+              "Be careful with wet leaves on the park paths.",
+              "Use the bike paths along Baselstrasse.",
+              "Wipe your saddle dry at every stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt an der Dorfkirche. Radeln Sie durch die kühle Luft zum Naturbad und weiter zur Fondation Beyeler, wo Sie sich aufwärmen können. Die Fahrt durch den Sarasin- und Wenkenpark zeigt die winterliche Ruhe Riehens. Den Abschluss bildet der Grenzübergang beim Refugee Memorial, bevor die Kälte am späten Nachmittag intensiver wird.",
+            "hu": "Friss téli reggel kezdődik a falusi templomnál. Tekerjen a hűvös levegőn a Naturbad felé, majd a Fondation Beyelerhez, ahol felmelegedhet. A Sarasin- és Wenkenparkon át vezető út Riehen téli nyugalmát mutatja be. A túrát a határátkelőnél lévő emlékmű zárja, mielőtt a késő délutáni hideg felerősödne.",
+            "ro": "O dimineață proaspătă de iarnă începe la biserica satului. Pedalați prin aerul rece spre Naturbad și mai departe spre Fondation Beyeler, unde vă puteți încălzi. Drumul prin parcurile Sarasin și Wenken arată liniștea de iarnă a localității Riehen. Finalul este la graniță, la Monumentul Refugiaților, înainte ca frigul să se intensifice după-amiaza târziu.",
+            "en": "A crisp winter morning starts at the village church. Cycle through the cool air to the Naturbad and on to Fondation Beyeler, where you can warm up. The ride through Sarasin and Wenken Parks showcases Riehen's winter tranquility. The tour concludes at the border crossing near the Refugee Memorial before the late afternoon chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Dorfkirche Riehen",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe für den Start der Tour.",
+                "hu": "Viseljen meleg kesztyűt a túra megkezdéséhez.",
+                "ro": "Purtați mănuși groase pentru începutul turului.",
+                "en": "Wear warm gloves for the start of the tour."
+              }
+            },
+            {
+              "name": "Naturbad Riehen",
+              "tip_5lang": {
+                "de": "Im Winter ist das Bad geschlossen, aber das Areal ist sehenswert.",
+                "hu": "Télen a fürdő zárva van, de a terület látványos maradt.",
+                "ro": "Iarna ștrandul este închis, dar zona merită văzută.",
+                "en": "The pool is closed in winter, but the area is still worth seeing."
+              }
+            },
+            {
+              "name": "Fondation Beyeler",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum vollständigen Aufwärmen.",
+                "hu": "Használja ki a múzeumlátogatást a teljes felmelegedéshez.",
+                "ro": "Profitați de vizita la muzeu pentru a vă încălzi complet.",
+                "en": "Use the museum visit to fully warm up."
+              }
+            },
+            {
+              "name": "Sarasinpark",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Brücken im Park.",
+                "hu": "Vigyázzon a zúzmarára a park hídjain.",
+                "ro": "Atenție la chiciura de pe podurile din parc.",
+                "en": "Watch out for hoarfrost on the bridges in the park."
+              }
+            },
+            {
+              "name": "Wenkenpark",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Park hält Sie körperlich warm.",
+                "hu": "A parkba vezető emelkedő segít melegen tartani a testet.",
+                "ro": "Urcarea spre parc vă va ține corpul cald.",
+                "en": "The uphill ride to the park will keep you physically warm."
+              }
+            },
+            {
+              "name": "Refugee Memorial",
+              "tip_5lang": {
+                "de": "Hinterlegen Sie eine kurze Pause, da es hier zugig sein kann.",
+                "hu": "Csak rövid szünetet tartsunk, mert itt szeles lehet az idő.",
+                "ro": "Faceți doar o scurtă pauză, deoarece aici poate fi curent.",
+                "en": "Keep the break short as it can be drafty here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck; Kälte kann ihn verringern.",
+              "Achten Sie auf die Beleuchtung, da es früh dunkel wird.",
+              "Halten Sie sich auf den geräumten Hauptwegen.",
+              "Warme Getränke in einer Thermoskanne mitnehmen."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást; a hideg csökkentheti azt.",
+              "Ügyeljen a világításra, mert korán sötétedik.",
+              "Maradjon a letakarított főutakon.",
+              "Vigyen magával meleg italt termoszban."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope; frigul o poate reduce.",
+              "Atenție la iluminat, deoarece se întunecă devreme.",
+              "Rămâneți pe aleile principale curățate.",
+              "Luați băuturi calde într-un termos."
+            ],
+            "en": [
+              "Check your tire pressure; cold can reduce it.",
+              "Pay attention to your lights as it gets dark early.",
+              "Stay on the cleared main paths.",
+              "Take warm drinks in a thermos with you."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -786,6 +1150,188 @@
           "Pay attention to the parking zones (Blue Zone).",
           "Naturbad has limited parking on hot days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Riehen bequem vom Auto aus. Nach dem Stopp an der Dorfkirche führt die Fahrt zum Spielzeugmuseum und zur Fondation Beyeler – beide bieten exzellente Parkmöglichkeiten und Schutz vor dem Regen. Ein kurzer Abstecher zum Naturbad und zum Wenkenpark zeigt die grüne Seite des Ortes, bevor Sie den Tag am Haus zu den Sieben Kurfürsten abschließen.",
+            "hu": "Fedezze fel Riehent kényelmesen az autóból. A templomi megálló után az út a Játékmúzeumba és a Fondation Beyelerhez vezet – mindkét hely kiváló parkolást és védelmet nyújt az eső elől. Egy rövid kitérő a Naturbadhoz és a Wenkenparkhoz megmutatja a település zöld arcát, mielőtt a napot a Hét Választófejedelem házánál zárná.",
+            "ro": "Bucurați-vă de Riehen confortabil din mașină. După oprirea la biserica satului, drumul duce la Muzeul Jucăriilor și la Fondation Beyeler – ambele oferă opțiuni excelente de parcare și protecție împotriva ploii. O scurtă vizită la Naturbad și la Wenkenpark arată partea verde a localității, înainte de a încheia ziua la Casa celor Șapte Electori.",
+            "en": "Enjoy Riehen comfortably from your car. After stopping at the village church, drive to the Toy Museum and Fondation Beyeler – both offer excellent parking and protection from the rain. A short detour to the Naturbad and Wenken Park shows the green side of town before concluding the day at the House of the Seven Electors."
+          },
+          "stops": [
+            {
+              "name": "Dorfkirche Riehen",
+              "tip_5lang": {
+                "de": "Parkplätze in der blauen Zone direkt im Kern nutzen.",
+                "hu": "Használja a kék zónás parkolókat közvetlenül a központban.",
+                "ro": "Folosiți locurile de parcare din zona albastră direct în centru.",
+                "en": "Use the blue zone parking spaces directly in the core."
+              }
+            },
+            {
+              "name": "Toy Museum Riehen",
+              "tip_5lang": {
+                "de": "Ideales Ziel, da der Eingang nah an den Parkplätzen liegt.",
+                "hu": "Ideális célpont, mivel a bejárat közel van a parkolókhoz.",
+                "ro": "Destinație ideală, deoarece intrarea este aproape de parcare.",
+                "en": "Ideal destination as the entrance is close to the parking."
+              }
+            },
+            {
+              "name": "Fondation Beyeler",
+              "tip_5lang": {
+                "de": "Nutzen Sie das museumseigene Parkhaus bei starkem Regen.",
+                "hu": "Heves esőzéskor használja a múzeum saját parkolóházát.",
+                "ro": "Folosiți parcarea proprie a muzeului în caz de ploaie puternică.",
+                "en": "Use the museum's own underground parking during heavy rain."
+              }
+            },
+            {
+              "name": "Naturbad Riehen",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp vom Parkplatz aus möglich.",
+                "hu": "Rövid fotómegálló lehetséges a parkolóból.",
+                "ro": "Scurtă oprire pentru poze posibilă din parcare.",
+                "en": "Short photo stop possible from the parking lot."
+              }
+            },
+            {
+              "name": "Wenkenpark",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am oberen Parkplatz beim Wenkenhof.",
+                "hu": "Parkoljon közvetlenül a Wenkenhof felső parkolójában.",
+                "ro": "Parcați direct în parcarea de sus de la Wenkenhof.",
+                "en": "Park directly at the upper parking lot near Wenkenhof."
+              }
+            },
+            {
+              "name": "Haus zu den Sieben Kurfürsten",
+              "tip_5lang": {
+                "de": "Schneller Stopp; achten Sie auf die Einbahnstraßen.",
+                "hu": "Gyors megálló; ügyeljen az egyirányú utcákra.",
+                "ro": "Oprire rapidă; atenție la străzile cu sens unic.",
+                "en": "Quick stop; pay attention to the one-way streets."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie eine Parkscheibe für die blaue Zone bereit.",
+              "Achten Sie auf Fußgänger bei schlechter Sicht.",
+              "Die Parkgaragen in Riehen sind meist trocken und hell.",
+              "Planen Sie etwas Zeit für die Parkplatzsuche am Wochenende ein."
+            ],
+            "hu": [
+              "Készítse elő a parkolótárcsát a kék zónához.",
+              "Rossz látási viszonyok között figyeljen a gyalogosokra.",
+              "Riehen parkolóházai többnyire szárazak és világosak.",
+              "Hétvégén számoljon némi idővel a parkolóhely-keresésre."
+            ],
+            "ro": [
+              "Aveți pregătit discul de parcare pentru zona albastră.",
+              "Atenție la pietoni în condiții de vizibilitate redusă.",
+              "Parcările subterane din Riehen sunt de obicei uscate și luminoase.",
+              "Rezervați-vă timp pentru căutarea unui loc de parcare în weekend."
+            ],
+            "en": [
+              "Have a parking disc ready for the blue zone.",
+              "Watch out for pedestrians in poor visibility.",
+              "Parking garages in Riehen are mostly dry and bright.",
+              "Plan some time for finding a parking spot on weekends."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterkomfort pur bietet die Tour mit dem Auto. Starten Sie an der beheizten Dorfkirche und fahren Sie weiter zum Spielzeugmuseum. Die Fondation Beyeler bietet einen warmen Rückzugsort mit Blick auf den winterlichen Garten. Die Fahrt zum Naturbad und Wenkenpark zeigt die frostige Landschaft, bevor die Tour am historischen Sieben-Kurfürsten-Haus im gemütlichen Ortskern endet.",
+            "hu": "Tiszta téli kényelmet nyújt az autós túra. Kezdjen a fűtött falusi templomnál, majd folytassa az utat a Játékmúzeumba. A Fondation Beyeler meleg menedéket kínál kilátással a téli kertre. A Naturbad és a Wenkenpark felé vezető út a fagyos tájat mutatja be, mielőtt a túra a történelmi Hét Választófejedelem házánál véget érne a hangulatos központban.",
+            "ro": "Turul cu mașina oferă confort pur de iarnă. Începeți la biserica satului încălzită și continuați spre Muzeul Jucăriilor. Fondation Beyeler oferă un refugiu cald cu vedere la grădina de iarnă. Drumul spre Naturbad și Wenkenpark arată peisajul înghețat, înainte ca turul să se încheie la Casa celor Șapte Electori în centrul primitor.",
+            "en": "The car tour offers pure winter comfort. Start at the heated village church and continue to the Toy Museum. Fondation Beyeler provides a warm retreat with views of the winter garden. The drive to the Naturbad and Wenken Park showcases the frosty landscape before the tour ends at the historic House of the Seven Electors in the cozy center."
+          },
+          "stops": [
+            {
+              "name": "Dorfkirche Riehen",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Flächen auf den Parkplätzen.",
+                "hu": "Vigyázzon a jeges felületekre a parkolókban.",
+                "ro": "Atenție la suprafețele înghețate din parcări.",
+                "en": "Watch out for icy patches in the parking areas."
+              }
+            },
+            {
+              "name": "Toy Museum Riehen",
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter sehr gut beheizt.",
+                "hu": "A múzeum télen nagyon jól fűtött.",
+                "ro": "Muzeul este foarte bine încălzit iarna.",
+                "en": "The museum is very well heated in winter."
+              }
+            },
+            {
+              "name": "Fondation Beyeler",
+              "tip_5lang": {
+                "de": "Parkhausnutzung vermeidet das Eiskratzen nach dem Besuch.",
+                "hu": "A parkolóház használatával elkerülhető a jégkaparás látogatás után.",
+                "ro": "Folosirea parcării subterane evită curățarea gheții după vizită.",
+                "en": "Using the parking garage avoids ice scraping after the visit."
+              }
+            },
+            {
+              "name": "Naturbad Riehen",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist oft geräumt und bietet gute Sicht.",
+                "hu": "A parkolót gyakran takarítják, így jó a kilátás.",
+                "ro": "Parcarea este adesea deszăpezită și oferă vizibilitate bună.",
+                "en": "The parking lot is often cleared and offers good views."
+              }
+            },
+            {
+              "name": "Wenkenpark",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Auffahrt bei Schneefall.",
+                "hu": "Havazás esetén óvatosan hajtson fel az emelkedőn.",
+                "ro": "Atenție la urcare în caz de ninsoare.",
+                "en": "Careful when driving uphill during snowfall."
+              }
+            },
+            {
+              "name": "Haus zu den Sieben Kurfürsten",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es Cafés zum Aufwärmen nach dem Stopp.",
+                "hu": "A közelben kávézók találhatók a megálló utáni felmelegedéshez.",
+                "ro": "În apropiere există cafenele pentru a vă încălzi după oprire.",
+                "en": "There are cafes nearby to warm up after the stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser Region obligatorisch.",
+              "Halten Sie einen Eiskratzer und Frostschutz bereit.",
+              "Achten Sie auf Streusalz, das die Sicht einschränken kann.",
+              "Die Batteriekapazität kann bei Kälte sinken."
+            ],
+            "hu": [
+              "A téli gumi kötelező ebben a régióban.",
+              "Legyen kéznél jégkaparó és fagyálló.",
+              "Ügyeljen az útszóró sóra, amely rontja a kilátást.",
+              "Az akkumulátor kapacitása csökkenhet a hidegben."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în această regiune.",
+              "Aveți la îndemână o racletă și antigel.",
+              "Atenție la sarea de pe drum, care poate reduce vizibilitatea.",
+              "Capacitatea bateriei poate scădea la frig."
+            ],
+            "en": [
+              "Winter tires are mandatory in this region.",
+              "Keep an ice scraper and antifreeze ready.",
+              "Be careful with road salt, which can reduce visibility.",
+              "Battery capacity can decrease in the cold."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1046,6 +1592,188 @@
           "The TNW ticket is also valid in Riehen.",
           "Tram 6 runs every 7.5 minutes to Basel."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Tram 6 erreichen Sie alle Highlights trockenen Fußes. Starten Sie bei der Fondation Beyeler und schlendern Sie durch den Sarasinpark zur Dorfkirche. Das Spielzeugmuseum bietet Schutz vor Schauern, bevor Sie den Wenkenpark besuchen. Die Tour endet am historischen Sieben-Kurfürsten-Haus, nur wenige Schritte von der Tramhaltestelle entfernt.",
+            "hu": "A 6-os villamossal száraz lábbal érheti el az összes látnivalót. Kezdjen a Fondation Beyelernél, majd sétáljon át a Sarasinparkon a falusi templomhoz. A Játékmúzeum védelmet nyújt a záporok elől, mielőtt a Wenkenparkot látogatná meg. A túra a történelmi Hét Választófejedelem házánál zárul, pár lépésre a villamosmegállótól.",
+            "ro": "Cu tramvaiul 6 ajungeți la toate punctele de atracție fără să vă udați. Începeți la Fondation Beyeler și plimbați-vă prin parcul Sarasin spre biserica satului. Muzeul Jucăriilor oferă protecție împotriva averselor înainte de a vizita parcul Wenken. Turul se încheie la Casa celor Șapte Electori, la doar câțiva pași de stația de tramvai.",
+            "en": "With Tram 6, you can reach all the highlights while staying dry. Start at Fondation Beyeler and stroll through Sarasin Park to the village church. The Toy Museum offers shelter from showers before you visit Wenken Park. The tour ends at the historic House of the Seven Electors, just a few steps from the tram stop."
+          },
+          "stops": [
+            {
+              "name": "Fondation Beyeler",
+              "tip_5lang": {
+                "de": "Die Tramhaltestelle liegt fast direkt vor dem Eingang.",
+                "hu": "A villamosmegálló szinte közvetlenül a bejárat előtt van.",
+                "ro": "Stația de tramvai este aproape direct în fața intrării.",
+                "en": "The tram stop is almost directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Sarasinpark",
+              "tip_5lang": {
+                "de": "Überdachte Haltestellen bieten Schutz beim Warten.",
+                "hu": "A fedett megállók védelmet nyújtanak várakozás közben.",
+                "ro": "Stațiile acoperite oferă protecție în timpul așteptării.",
+                "en": "Covered stops provide shelter while waiting."
+              }
+            },
+            {
+              "name": "Dorfkirche Riehen",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg von der Haltestelle 'Riehen Dorf'.",
+                "hu": "Használja a rövid utat a 'Riehen Dorf' megállótól.",
+                "ro": "Profitați de drumul scurt de la stația 'Riehen Dorf'.",
+                "en": "Take the short walk from the 'Riehen Dorf' stop."
+              }
+            },
+            {
+              "name": "Toy Museum Riehen",
+              "tip_5lang": {
+                "de": "Ideales Ziel, um Regenpausen sinnvoll zu nutzen.",
+                "hu": "Ideális célpont az esőszünetek hasznos eltöltésére.",
+                "ro": "Destinație ideală pentru a folosi util pauzele de ploaie.",
+                "en": "Ideal destination to make good use of rain breaks."
+              }
+            },
+            {
+              "name": "Wenkenpark",
+              "tip_5lang": {
+                "de": "Der Bus 31/34 bringt Sie näher an den Parkeingang.",
+                "hu": "A 31/34-es busz közelebb visz a park bejáratához.",
+                "ro": "Autobuzul 31/34 vă aduce mai aproape de intrarea în parc.",
+                "en": "Bus 31/34 brings you closer to the park entrance."
+              }
+            },
+            {
+              "name": "Haus zu den Sieben Kurfürsten",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg zur nächsten Tramhaltestelle.",
+                "hu": "Csak 2 perc séta a legközelebbi villamosmegálló.",
+                "ro": "Doar 2 minute de mers pe jos până la cea mai apropiată stație de tramvai.",
+                "en": "Only a 2-minute walk to the nearest tram stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App der Basler Verkehrs-Betriebe (BVB).",
+              "Tram 6 fährt in dichtem Takt durch Riehen.",
+              "Die Haltestellen haben oft digitale Anzeigen im Trockenen.",
+              "Ein Tagesticket lohnt sich bei mehreren Fahrten."
+            ],
+            "hu": [
+              "Használja a bázeli közlekedési vállalat (BVB) alkalmazását.",
+              "A 6-os villamos sűrűn jár Riehenben.",
+              "A megállókban gyakran van fedett digitális kijelző.",
+              "A napijegy megéri több utazás esetén."
+            ],
+            "ro": [
+              "Folosiți aplicația companiei de transport din Basel (BVB).",
+              "Tramvaiul 6 circulă la intervale scurte prin Riehen.",
+              "Stațiile au adesea afișaje digitale la adăpost.",
+              "Un bilet de o zi merită în cazul mai multor călătorii."
+            ],
+            "en": [
+              "Use the Basel transport authority (BVB) app.",
+              "Tram 6 runs frequently through Riehen.",
+              "Stops often have digital displays under cover.",
+              "A day ticket is worth it for multiple trips."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie ein warmes Transit-Erlebnis im winterlichen Riehen. Die gut beheizten Trams der Linie 6 bringen Sie komfortabel zur Fondation Beyeler und weiter in den Ortskern zur Dorfkirche und zum Spielzeugmuseum. Ein kurzer Spaziergang durch den verschneiten Wenkenpark führt Sie zurück zur Transitstation, bevor Sie den Tag am Sieben-Kurfürsten-Haus beenden.",
+            "hu": "Élvezze a meleg közösségi közlekedést a téli Riehenben. A 6-os vonal jól fűtött villamosai kényelmesen elviszik a Fondation Beyelerhez, majd a központba, a falusi templomhoz és a Játékmúzeumhoz. Egy rövid séta a havas Wenkenparkon át visszavezeti a megállóhoz, mielőtt a napot a Hét Választófejedelem házánál zárná.",
+            "ro": "Bucurați-vă de o experiență caldă de tranzit în Riehen-ul de iarnă. Tramvaiele bine încălzite de pe linia 6 vă duc confortabil la Fondation Beyeler și mai departe în centru, la biserica satului și la Muzeul Jucăriilor. O scurtă plimbare prin parcul Wenken înzăpezit vă readuce la stație, înainte de a încheia ziua la Casa celor Șapte Electori.",
+            "en": "Enjoy a warm transit experience in winter in Riehen. The well-heated Line 6 trams take you comfortably to Fondation Beyeler and on to the town center for the village church and Toy Museum. A short walk through snowy Wenken Park leads you back to the station before ending the day at the House of the Seven Electors."
+          },
+          "stops": [
+            {
+              "name": "Fondation Beyeler",
+              "tip_5lang": {
+                "de": "Warten Sie im Museumsfoyer, bis das Tram angezeigt wird.",
+                "hu": "Várjon a múzeum előcsarnokában, amíg a villamos közeledik.",
+                "ro": "Așteptați în foierul muzeului până când apare tramvaiul.",
+                "en": "Wait in the museum foyer until the tram is shown on the display."
+              }
+            },
+            {
+              "name": "Sarasinpark",
+              "tip_5lang": {
+                "de": "Kurze Wege halten die Kälteexposition minimal.",
+                "hu": "A rövid utak minimálisra csökkentik a hidegben töltött időt.",
+                "ro": "Drumurile scurte mențin minimă expunerea la frig.",
+                "en": "Short paths keep cold exposure to a minimum."
+              }
+            },
+            {
+              "name": "Dorfkirche Riehen",
+              "tip_5lang": {
+                "de": "Die Tramhaltestelle bietet Schutz vor winterlichem Wind.",
+                "hu": "A villamosmegálló védelmet nyújt a téli szél ellen.",
+                "ro": "Stația de tramvai oferă protecție împotriva vântului de iarnă.",
+                "en": "The tram stop provides shelter from winter winds."
+              }
+            },
+            {
+              "name": "Toy Museum Riehen",
+              "tip_5lang": {
+                "de": "Perfekt zum Aufwärmen zwischen zwei Transitfahrten.",
+                "hu": "Tökéletes felmelegedéshez két utazás között.",
+                "ro": "Perfect pentru încălzire între două călătorii.",
+                "en": "Perfect for warming up between two transit rides."
+              }
+            },
+            {
+              "name": "Wenkenpark",
+              "tip_5lang": {
+                "de": "Der Busanschluss ist im Winter oft pünktlich.",
+                "hu": "A buszcsatlakozás télen is gyakran pontos.",
+                "ro": "Legătura cu autobuzul este adesea punctuală iarna.",
+                "en": "The bus connection is often punctual in winter."
+              }
+            },
+            {
+              "name": "Haus zu den Sieben Kurfürsten",
+              "tip_5lang": {
+                "de": "Schnelle Rückkehr ins warme Tram möglich.",
+                "hu": "Gyors visszatérés lehetséges a meleg villamosra.",
+                "ro": "Revenire rapidă posibilă în tramvaiul cald.",
+                "en": "Quick return to the warm tram is possible."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Trams sind im Winter oft die zuverlässigste Wahl.",
+              "Achten Sie auf geänderte Fahrpläne an Feiertagen.",
+              "Nutzen Sie die Heizung in den Fahrzeugen zum Aufwärmen.",
+              "Halten Sie Ihr Handy für das Ticket warm (Batterie!)."
+            ],
+            "hu": [
+              "Télen gyakran a villamos a legmegbízhatóbb választás.",
+              "Ügyeljen az ünnepnapi menetrendváltozásokra.",
+              "Használja ki a járművek fűtését a felmelegedéshez.",
+              "Tartsa melegen a telefonját a jegyhez (akkumulátor!)."
+            ],
+            "ro": [
+              "Tramvaiele sunt adesea cea mai sigură alegere iarna.",
+              "Atenție la orarele modificate de sărbători.",
+              "Folosiți încălzirea din vehicule pentru a vă încălzi.",
+              "Păstrați telefonul la căldură pentru bilet (baterie!)."
+            ],
+            "en": [
+              "Trams are often the most reliable choice in winter.",
+              "Watch out for modified schedules on holidays.",
+              "Take advantage of the heating in vehicles to warm up.",
+              "Keep your phone warm for the ticket (battery life!)."
+            ]
+          }
+        }
       }
     }
   }

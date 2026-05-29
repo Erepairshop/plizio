@@ -386,6 +386,206 @@
           "A water bottle is essential on warm days.",
           "Most sights are compactly located in the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen am Hauptplatz lässt die historischen Fassaden glänzen, während die tief hängenden Wolken über der Mur hängen. Mittags bietet das Kornmesserhaus mit seinen Arkaden einen perfekten trockenen Rückzugsort für Architekturfreunde. Am Nachmittag steigen wir zum Schlossberg auf, wo der Nebel dem Uhrturm eine fast mystische Aura verleiht. Der Abend endet gemütlich in einer der warmen, holzgetäfelten Gaststuben der Altstadt, weit weg vom prasselnden Regen.",
+            "hu": "Az esős reggel a Fő téren kezdődik, ahol a történelmi homlokzatok csillognak a vizes aszfalton, a felhők pedig alacsonyan szállnak a Mur felett. Délben a Kornmesser-ház árkádjai nyújtanak tökéletes menedéket, ahol szárazon csodálhatjuk a gótikus részleteket. Délután a Schlossbergre kapaszkodunk fel, ahol a köd szinte misztikus aurát kölcsönöz az óratoronynak. Az este egy barátságos, faborítású óvárosi vendéglőben zárul, távol a kopogó esőtől.",
+            "ro": "O dimineață ploioasă în Piața Principală face fațadele istorice să strălucească, în timp ce norii joși plutesc deasupra râului Mur. La prânz, Casa Kornmesser cu arcadele sale oferă un refugiu perfect uscat pentru iubitorii de arhitectură. După-amiaza urcăm pe Schlossberg, unde ceața oferă turnului cu ceas o aură aproape mistică. Seara se încheie confortabil într-una dintre tavernele calde din centrul vechi, departe de ploaia de afară.",
+            "en": "A rainy morning on the Main Square makes the historic facades glisten as low-hanging clouds hover over the Mur. At noon, the Kornmesser House with its arcades offers a perfect dry retreat for architecture lovers. In the afternoon, we ascend Schlossberg, where the mist gives the clock tower an almost mystical aura. The evening ends cozily in one of the warm, wood-paneled taverns of the old town, far from the pattering rain."
+          },
+          "stops": [
+            {
+              "name": "Main Square & Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie die tiefen Portale der umliegenden Häuser als Regenschutz.",
+                "hu": "Használja a környező házak mély kapualjait eső elleni védelemként.",
+                "ro": "Folosiți portalurile adânci ale caselor din jur ca protecție împotriva ploii.",
+                "en": "Use the deep portals of the surrounding houses as rain protection."
+              }
+            },
+            {
+              "name": "Kornmesser House",
+              "tip_5lang": {
+                "de": "Die prachtvolle Loggia lässt sich hervorragend aus dem Schutz der Arkaden betrachten.",
+                "hu": "A pompás loggia kiválóan megcsodálható az árkádok védelméből.",
+                "ro": "Loggia magnifică poate fi admirată excelent din protecția arcadelor.",
+                "en": "The magnificent loggia can be perfectly admired from the protection of the arcades."
+              }
+            },
+            {
+              "name": "Iron Fountain",
+              "tip_5lang": {
+                "de": "Das nasse Eisen des Brunnengitters wirkt im Regen besonders dunkel und kontrastreich.",
+                "hu": "A kút rácsának nedves vasa az esőben különösen sötétnek és kontrasztosnak hat.",
+                "ro": "Fierul umed al grilajului fântânii pare deosebit de întunecat și contrastant în ploaie.",
+                "en": "The wet iron of the fountain grid looks particularly dark and high-contrast in the rain."
+              }
+            },
+            {
+              "name": "Parish Church of the Nativity of Mary",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine längere Innenbesichtigung während eines Regenschauers.",
+                "hu": "Ideális hely egy hosszabb belső látogatáshoz egy eső zápor alatt.",
+                "ro": "Un loc ideal pentru o vizită interioară prelungită în timpul unei averse.",
+                "en": "An ideal place for a longer indoor visit during a rain shower."
+              }
+            },
+            {
+              "name": "Castle Hill (Schlossberg)",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Treppen; der befestigte Fahrweg ist bei Nässe sicherer zu begehen.",
+                "hu": "Vigyázat a lépcsőkön; a burkolt kocsiút nedves időben biztonságosabb gyalogosan.",
+                "ro": "Atenție pe scări; drumul asfaltat este mai sigur de parcurs pe jos pe vreme umedă.",
+                "en": "Caution on the stairs; the paved access road is safer to walk on in the wet."
+              }
+            },
+            {
+              "name": "Minorite Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Barockaltäre im trockenen und ruhigen Kirchenschiff.",
+                "hu": "Csodálja meg a barokk oltárokat a száraz és csendes templomhajóban.",
+                "ro": "Admirați altarele baroce în nava bisericii, uscată și liniștită.",
+                "en": "Admire the Baroque altars in the dry and quiet nave."
+              }
+            },
+            {
+              "name": "Mur Promenade",
+              "tip_5lang": {
+                "de": "Die Mur wirkt bei Regen besonders kraftvoll; ein Regenschirm ist hier unverzichtbar.",
+                "hu": "A Mur esőben különösen erőteljesnek tűnik; az esernyő itt elengedhetetlen.",
+                "ro": "Râul Mur pare deosebit de puternic pe ploaie; o umbrelă este indispensabilă aici.",
+                "en": "The Mur looks particularly powerful in the rain; an umbrella is essential here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für den Aufstieg zum Schlossberg.",
+              "Die Arkaden am Hauptplatz bieten eine zusammenhängende trockene Gehstrecke.",
+              "Kombinieren Sie den Stadtrundgang mit einem Besuch in den Konditoreien am Platz.",
+              "Der asphaltierte Weg zum Uhrturm ist weniger rutschig als die Steinstufen."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a Schlossbergre való feljutáshoz.",
+              "A Fő tér árkádjai összefüggő száraz útvonalat biztosítanak a gyalogláshoz.",
+              "Kösse össze a városnézést egy látogatással a tér cukrászdáiban.",
+              "Az óratoronyhoz vezető aszfaltozott út kevésbé csúszós, mint a kőlépcsők."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție impermeabilă pentru urcarea pe Schlossberg.",
+              "Arcadele din Piața Principală oferă un traseu de mers uscat și continuu.",
+              "Combinați turul orașului cu o vizită la cofetăriile din piață.",
+              "Drumul asfaltat către turnul cu ceas este mai puțin alunecos decât treptele de piatră."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the ascent to Schlossberg.",
+              "The arcades on the Main Square offer a continuous dry walking route.",
+              "Combine the city tour with a visit to the pastry shops on the square.",
+              "The paved path to the clock tower is less slippery than the stone steps."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen am Hauptplatz beginnt mit dem Anblick des vereisten Brunnens und klarem blauen Himmel. Mittags wärmen wir uns in der Stadtpfarrkirche auf, während das Sonnenlicht durch die hohen Fenster auf die Schneereste im Hof fällt. Am Nachmittag bietet der Schlossberg einen weiten Blick über die verschneiten Dächer von Bruck bis zu den Alpen. Sobald die Dämmerung gegen 17:00 Uhr einsetzt, verwandelt die festliche Beleuchtung die Stadt in ein funkelndes Winterwunderland.",
+            "hu": "A fagyos téli reggel a Fő téren a jeges kút látványával és tiszta kék éggel indul. Délben a Városi Plébániatemplomban melegszünk fel, miközben a napfény a magas ablakokon át a belső udvar hómaradványaira esik. Délután a Schlossbergről nyílik pazar kilátás Bruck havas háztetőire és a távoli Alpokra. Amint 17:00 körül beáll az alkonyat, az ünnepi kivilágítás szikrázó téli meseországgá változtatja a várost.",
+            "ro": "O dimineață geroasă de iarnă în Piața Principală începe cu vederea fântânii înghețate și a cerului albastru limpede. La prânz ne încălzim în Biserica Parohială, în timp ce lumina soarelui cade prin ferestrele înalte pe resturile de zăpadă din curte. După-amiaza, Schlossberg oferă o vedere largă peste acoperișurile înzăpezite ale orașului Bruck până spre Alpi. De îndată ce se lasă amurgul în jurul orei 17:00, iluminatul festiv transformă orașul într-un tărâm al minunilor de iarnă.",
+            "en": "A frosty winter morning on the Main Square begins with the sight of the frozen fountain and clear blue skies. At noon, we warm up in the Parish Church as sunlight falls through the high windows onto the remnants of snow in the courtyard. In the afternoon, Schlossberg offers a wide view over the snowy roofs of Bruck to the Alps. As dusk sets in around 17:00, the festive lighting transforms the city into a sparkling winter wonderland."
+          },
+          "stops": [
+            {
+              "name": "Main Square & Town Hall",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Granitplatten des Platzes.",
+                "hu": "Ügyeljen a jegesedésre a tér gránitlapjain.",
+                "ro": "Atenție la polei pe plăcile de granit din piață.",
+                "en": "Watch out for black ice on the granite slabs of the square."
+              }
+            },
+            {
+              "name": "Kornmesser House",
+              "tip_5lang": {
+                "de": "Die filigrane Steinmetzkunst wirkt bei tiefstehender Wintersonne besonders plastisch.",
+                "hu": "A finom kőfaragás az alacsonyan járó téli napsütésben különösen plasztikusnak hat.",
+                "ro": "Arta filigranată a sculpturii în piatră pare deosebit de plastică în soarele jos de iarnă.",
+                "en": "The delicate stonework looks particularly sculptural in the low winter sun."
+              }
+            },
+            {
+              "name": "Iron Fountain",
+              "tip_5lang": {
+                "de": "Raureif auf dem schmiedeeisernen Gitter verleiht dem Brunnen einen silbernen Glanz.",
+                "hu": "A kovácsoltvas rácson lévő zúzmara ezüstös csillogást kölcsönöz a kútnak.",
+                "ro": "Chiciura de pe grilajul de fier forjat oferă fântânii o strălucire argintie.",
+                "en": "Hoarfrost on the wrought-iron grid gives the fountain a silvery glow."
+              }
+            },
+            {
+              "name": "Parish Church of the Nativity of Mary",
+              "tip_5lang": {
+                "de": "Ein windstiller Rückzugsort; bewundern Sie die weihnachtliche Krippe im Dezember.",
+                "hu": "Szélvédett menedékhely; decemberben csodálja meg a karácsonyi betlehemet.",
+                "ro": "Un refugiu ferit de vânt; admirați ieslea de Crăciun în luna decembrie.",
+                "en": "A wind-still retreat; admire the Christmas nativity scene in December."
+              }
+            },
+            {
+              "name": "Castle Hill (Schlossberg)",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk ist Pflicht; die Aussicht auf die verschneiten Alpen ist bei Fernsicht grandios.",
+                "hu": "A stabil lábbeli kötelező; a havas Alpokra nyíló kilátás tiszta időben pazar.",
+                "ro": "Încălțămintea robustă este obligatorie; vederea spre Alpii înzăpeziți este grandioasă în zilele senine.",
+                "en": "Sturdy footwear is a must; the view of the snowy Alps is magnificent in clear weather."
+              }
+            },
+            {
+              "name": "Minorite Church",
+              "tip_5lang": {
+                "de": "Die Ruhe im Inneren ist nach dem kalten Wind auf dem Berg besonders wohltuend.",
+                "hu": "A benti csend a hegyen tapasztalt hideg szél után különösen jóleső.",
+                "ro": "Liniștea din interior este deosebit de binevenită după vântul rece de pe munte.",
+                "en": "The silence inside is especially pleasant after the cold wind on the hill."
+              }
+            },
+            {
+              "name": "Mur Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die dunkle Mur und den Kontrast zum weißen Uferschnee.",
+                "hu": "Élvezze a sötét Mur látványát és a kontrasztot a parti fehér hóval.",
+                "ro": "Bucurați-vă de vederea râului Mur întunecat și de contrastul cu zăpada albă de pe mal.",
+                "en": "Enjoy the view of the dark Mur and the contrast with the white snow on the banks."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung für den windanfälligen Schlossberg einplanen.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr hinter den Bergen unter.",
+              "Besuchen Sie das Schlossberg-Restaurant für einen heißen Tee mit Aussicht.",
+              "In der Vorweihnachtszeit ist der Hauptplatz festlich beleuchtet."
+            ],
+            "hu": [
+              "Tervezzen meleg ruházatot a szeles Schlossbergre.",
+              "A nap télen már 16:30 körül lenyugszik a hegyek mögött.",
+              "Látogassa meg a Schlossberg éttermét egy forró teára a kilátás mellett.",
+              "A karácsony előtti időszakban a Fő tér ünnepi kivilágítást kap."
+            ],
+            "ro": [
+              "Planificați îmbrăcăminte groasă pentru Schlossberg, unde bate vântul.",
+              "Soarele apune iarna în spatele munților deja în jurul orei 16:30.",
+              "Vizitați restaurantul de pe Schlossberg pentru un ceai fierbinte cu vedere.",
+              "În perioada premergătoare Crăciunului, Piața Principală este iluminată festiv."
+            ],
+            "en": [
+              "Plan warm clothing for the wind-prone Schlossberg.",
+              "In winter, the sun sets behind the mountains as early as 16:30.",
+              "Visit the Schlossberg restaurant for a hot tea with a view.",
+              "During the pre-Christmas season, the Main Square is festively lit."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +966,206 @@
           "Use the Mur Cycle Path for a safe and beautiful route through the city.",
           "Most sights are bike-friendly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag in Bruck beginnt auf dem glatten Pflaster des Hauptplatzes. Wir erkunden die historischen Ecken, während der Regen auf unsere Helme trommelt. Mittags suchen wir Schutz in den Kirchen, die trockene Raststationen für Geist und Körper bieten. Die Fahrt entlang der Mur-Promenade ist trotz Nässe erfrischend, da der Fluss kraftvoll an uns vorbeirauscht. Den Nachmittag verbringen wir im Kulturhaus, bevor wir den Tag bei einer heißen Schokolade im Zentrum ausklingen lassen.",
+            "hu": "Egy esős kerékpáros nap Bruckban a Fő tér csúszós macskakövén kezdődik. A történelmi sarkokat fedezzük fel, miközben az eső a sisakunkon kopog. Délben a templomokban keresünk menedéket, amelyek száraz pihenőhelyet nyújtanak léleknek és testnek egyaránt. A Mur-parti kerékpározás a nedvesség ellenére frissítő, ahogy a folyó erőteljesen zúg mellettünk. A délutánt a Kultúrházban töltjük, majd a napot egy forró csokoládéval zárjuk a központban.",
+            "ro": "O zi ploioasă cu bicicleta în Bruck începe pe pavajul alunecos din Piața Principală. Explorăm colțurile istorice în timp ce ploaia tobează pe căștile noastre. La prânz căutăm adăpost în biserici, care oferă stații de odihnă uscate pentru minte și corp. Călătoria de-a lungul promenadei Mur este revigorantă în ciuda umezelii, râul curgând cu putere pe lângă noi. După-amiaza o petrecem la Casa de Cultură, înainte de a încheia ziua cu o ciocolată caldă în centru.",
+            "en": "A rainy cycling day in Bruck begins on the slippery pavement of the Main Square. We explore the historic corners while rain drums on our helmets. At noon, we seek shelter in the churches, which offer dry rest stops for mind and body. The ride along the Mur promenade is refreshing despite the wetness, as the river rushes powerfully past us. We spend the afternoon at the Culture House before ending the day with a hot chocolate in the center."
+          },
+          "stops": [
+            {
+              "name": "Main Square & Town Hall",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf dem nassen Kopfsteinpflaster; Rutschgefahr!",
+                "hu": "Vezessen óvatosan a nedves macskakövön; csúszásveszély!",
+                "ro": "Conduceți cu atenție pe pavajul umed; risc de alunecare!",
+                "en": "Ride carefully on the wet cobblestones; risk of slipping!"
+              }
+            },
+            {
+              "name": "Kornmesser House & Iron Fountain",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Trockenen unter den nahen Arkaden einlegen.",
+                "hu": "Tartson egy rövid szünetet a szárazon a közeli árkádok alatt.",
+                "ro": "Faceți o scurtă oprire la uscat sub arcadele din apropiere.",
+                "en": "Take a short break in the dry under the nearby arcades."
+              }
+            },
+            {
+              "name": "Parish Church of the Nativity of Mary",
+              "tip_5lang": {
+                "de": "Fahrradständer sind vorhanden; nutzen Sie die Zeit für eine regenfreie Pause.",
+                "hu": "Kerékpártárolók rendelkezésre állnak; használja az időt egy esőmentes szünetre.",
+                "ro": "Sunt disponibile suporturi pentru biciclete; folosiți timpul pentru o pauză fără ploaie.",
+                "en": "Bike racks are available; use the time for a rain-free break."
+              }
+            },
+            {
+              "name": "Minorite Church",
+              "tip_5lang": {
+                "de": "Vermeiden Sie abrupte Bremsmanöver auf den feuchten Wegen zur Kirche.",
+                "hu": "Kerülje a hirtelen fékezést a templomhoz vezető nedves utakon.",
+                "ro": "Evitați frânarea bruscă pe drumurile umede către biserică.",
+                "en": "Avoid abrupt braking maneuvers on the damp paths to the church."
+              }
+            },
+            {
+              "name": "Mur Promenade",
+              "tip_5lang": {
+                "de": "Schutzbleche sind bei den Pfützen auf dem Radweg sehr zu empfehlen.",
+                "hu": "A kerékpárút tócsái miatt a sárvédő erősen ajánlott.",
+                "ro": "Aripile de protecție sunt foarte recomandate din cauza bălților de pe pistă.",
+                "en": "Mudguards are highly recommended given the puddles on the bike path."
+              }
+            },
+            {
+              "name": "Schlossberg (Ascent)",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist der asphaltierte Weg die sicherste Wahl für Radfahrer.",
+                "hu": "Erős esőben az aszfaltozott út a legbiztonságosabb választás a kerékpárosoknak.",
+                "ro": "În caz de ploaie abundentă, drumul asfaltat este cea mai sigură alegere pentru bicicliști.",
+                "en": "In heavy rain, the paved road is the safest choice for cyclists."
+              }
+            },
+            {
+              "name": "Bruck Culture House",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um das Rad zu parken und sich drinnen aufzuwärmen.",
+                "hu": "Tökéletes hely a bicikli leállítására és a benti felmelegedésre.",
+                "ro": "Locul perfect pentru a parca bicicleta și a vă încălzi în interior.",
+                "en": "The perfect place to park your bike and warm up inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Bremsen auf nassen Markierungen und Gullydeckeln.",
+              "Wasserdichte Sattelbezüge halten das Rad bei Besichtigungen trocken.",
+              "Beleuchtung einschalten, da die Sicht bei Regen deutlich eingeschränkt ist.",
+              "Die Mur-Radwege sind gut ausgebaut, können aber Laub und Matsch führen."
+            ],
+            "hu": [
+              "Kerülje a fékezést a nedves útburkolati jeleken és csatornafedeleken.",
+              "Vízálló nyereghuzat szárazon tartja a biciklit a nézelődés alatt.",
+              "Kapcsolja be a világítást, mert az esőben a látótávolság jelentősen csökken.",
+              "A Mur-menti kerékpárutak jól kiépítettek, de avart és sarat hordhat rájuk az eső."
+            ],
+            "ro": [
+              "Evitați frânarea pe marcajele rutiere umede și pe capacele de canal.",
+              "Husele de șa impermeabile mențin bicicleta uscată în timpul vizitelor.",
+              "Porniți luminile, deoarece vizibilitatea este redusă semnificativ pe ploaie.",
+              "Pistele de biciclete de pe Mur sunt bine amenajate, dar pot avea frunze și noroi."
+            ],
+            "en": [
+              "Avoid braking on wet road markings and manhole covers.",
+              "Waterproof saddle covers keep the bike dry during sightseeing.",
+              "Turn on lights, as visibility is significantly reduced in the rain.",
+              "The Mur bike paths are well-developed but can have leaves and mud."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag lädt zur Radtour durch das verschneite Bruck ein. Der Morgen beginnt frisch am Hauptplatz, wo die Reifen auf dem kalten Untergrund knirschen. Mittags besuchen wir die Kirchen der Stadt, deren massive Mauern Schutz vor dem eisigen Wind bieten. Die Fahrt entlang der Mur führt an glitzernden Eiskristallen am Ufer vorbei. Der Aufstieg zum Schlossberg erfordert Kraft, belohnt aber mit einer kristallklaren Fernsicht. Am späten Nachmittag wärmen wir uns bei einer Indoor-Aktivität im Kulturhaus auf.",
+            "hu": "Egy tiszta téli nap kerékpártúrára hív a havas Bruckon át. A reggel frissen indul a Fő téren, ahol a gumiabroncsok csikorognak a hideg talajon. Délben a város templomait látogatjuk meg, melyek masszív falai védelmet nyújtanak a jeges szél ellen. A Mur-menti tekerés a parton ragyogó jégkristályok mellett vezet el. A Schlossbergre való feljutás erőt igényel, de kristálytiszta kilátással jutalmaz. Késő délután a Kultúrház egyik beltéri programján melegszünk fel.",
+            "ro": "O zi senină de iarnă vă invită la o tură cu bicicleta prin orașul Bruck înzăpezit. Dimineața începe proaspăt în Piața Principală, unde anvelopele scârțâie pe solul rece. La prânz vizităm bisericile orașului, ale căror ziduri masive oferă protecție împotriva vântului înghețat. Călătoria de-a lungul râului Mur trece pe lângă cristale de gheață sclipitoare de pe mal. Urcarea pe Schlossberg necesită forță, dar recompensează cu o vedere clară la distanță. După-amiaza târziu ne încălzim la o activitate interioară în Casa de Cultură.",
+            "en": "A clear winter day invites a bike tour through snowy Bruck. The morning starts fresh at the Main Square, where tires crunch on the cold ground. At noon, we visit the city's churches, whose massive walls offer protection from the icy wind. The ride along the Mur passes sparkling ice crystals on the banks. The ascent to Schlossberg requires strength but rewards with crystal-clear distant views. In the late afternoon, we warm up at an indoor activity in the Culture House."
+          },
+          "stops": [
+            {
+              "name": "Main Square & Town Hall",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; etwas weniger Druck bietet mehr Grip auf Eis.",
+                "hu": "Ellenőrizze a guminyomást; a kicsit alacsonyabb nyomás jobb tapadást ad a jégen.",
+                "ro": "Verificați presiunea anvelopelor; o presiune puțin mai mică oferă mai multă aderență pe gheață.",
+                "en": "Check tire pressure; slightly lower pressure provides more grip on ice."
+              }
+            },
+            {
+              "name": "Kornmesser House & Iron Fountain",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Spritzwasser im Bereich des Brunnens.",
+                "hu": "Vigyázzon a kifröccsent és megfagyott vízre a kút környékén.",
+                "ro": "Atenție la apa înghețată din jurul fântânii.",
+                "en": "Watch out for frozen spray water in the area of the fountain."
+              }
+            },
+            {
+              "name": "Parish Church of the Nativity of Mary",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad an einem windgeschützten Platz ab.",
+                "hu": "Állítsa le a biciklit egy szélvédett helyen.",
+                "ro": "Parcați bicicleta într-un loc ferit de vânt.",
+                "en": "Park the bike in a wind-sheltered spot."
+              }
+            },
+            {
+              "name": "Minorite Church",
+              "tip_5lang": {
+                "de": "Handschuhe sind bei den Abfahrten in der kalten Luft unerlässlich.",
+                "hu": "A kesztyű elengedhetetlen a hideg levegőben való lejtőzéskor.",
+                "ro": "Mănușile sunt esențiale la coborâri în aerul rece.",
+                "en": "Gloves are essential for descents in the cold air."
+              }
+            },
+            {
+              "name": "Mur Promenade",
+              "tip_5lang": {
+                "de": "Achten Sie auf geräumte Wege; Brücken können besonders glatt sein.",
+                "hu": "Ügyeljen a letakarított utakra; a hidak különösen csúszósak lehetnek.",
+                "ro": "Atenție la drumurile curățate; podurile pot fi deosebit de alunecoase.",
+                "en": "Watch for cleared paths; bridges can be particularly slippery."
+              }
+            },
+            {
+              "name": "Schlossberg (Ascent)",
+              "tip_5lang": {
+                "de": "Bei Vereisung das Rad lieber schieben; Sicherheit geht vor.",
+                "hu": "Jegesedés esetén inkább tolja a kerékpárt; a biztonság az első.",
+                "ro": "În caz de îngheț, mai bine împingeți bicicleta; siguranța este pe primul loc.",
+                "en": "If there is icing, it is better to push the bike; safety first."
+              }
+            },
+            {
+              "name": "Bruck Culture House",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenbereich, um die Glieder wieder aufzuwärmen.",
+                "hu": "Használja a belső teret, hogy végtagjai újra felmelegedjenek.",
+                "ro": "Folosiți zona interioară pentru a vă încălzi membrele.",
+                "en": "Use the indoor area to warm up your limbs again."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip) gegen den Fahrtwind.",
+              "Die Kette benötigt im Winter aufgrund von Salz und Nässe mehr Pflege.",
+              "Starten Sie Touren spät am Vormittag, wenn das Eis oft schon angetaut ist.",
+              "Reflektierende Kleidung ist wichtig, da es früh dunkel wird."
+            ],
+            "hu": [
+              "Viseljen réteges öltözetet (hagyma-elv) a menetszél ellen.",
+              "A lánc télen a só és a nedvesség miatt több ápolást igényel.",
+              "A túrákat késő délelőtt kezdje, amikor a jég gyakran már felolvadt.",
+              "A fényvisszaverő ruházat fontos, mert korán sötétedik."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine împotriva vântului din timpul mersului.",
+              "Lanțul necesită mai multă îngrijire iarna din cauza sării și umezelii.",
+              "Începeți tururile târziu dimineața, când gheața s-a mai topit.",
+              "Îmbrăcămintea reflectorizantă este importantă, deoarece se întunecă devreme."
+            ],
+            "en": [
+              "Wear multiple layers of clothing (onion principle) against the wind chill.",
+              "The chain requires more maintenance in winter due to salt and moisture.",
+              "Start tours late in the morning when the ice has often already thawed.",
+              "Reflective clothing is important as it gets dark early."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1522,188 @@
           "A navigation device makes it easier to drive between clusters.",
           "Do not leave valuables in the parked car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "An einem regnerischen Tag in Bruck nutzen wir die Vorteile des Autos, um trocken zwischen den Highlights zu wechseln. Der Morgen beginnt mit dem Parken in der Nähe des Zentrums, von wo aus wir den Hauptplatz erkunden. Mittags besuchen wir die historischen Kirchen, die nur kurze Fußwege vom Parkplatz erfordern. Am Nachmittag fahren wir zum Fuße des Schlossbergs und genießen den Ausblick, bevor wir den Tag mit einer Panoramafahrt entlang der Mur und einem gemütlichen Abendessen abschließen.",
+            "hu": "Egy esős napon Bruckban kihasználjuk az autó előnyeit, hogy szárazon közlekedjünk a látnivalók között. A reggel a központ közeli parkolással indul, ahonnan felfedezzük a Fő teret. Délben a történelmi templomokat látogatjuk meg, amelyek csak rövid sétát igényelnek a parkolótól. Délután a Schlossberg lábához hajtunk, és élvezzük a kilátást, majd a napot egy Mur-menti panorámaautózással és egy hangulatos vacsorával zárjuk.",
+            "ro": "Într-o zi ploioasă în Bruck, profităm de avantajele mașinii pentru a trece uscați între punctele de interes. Dimineața începe cu parcarea în apropierea centrului, de unde explorăm Piața Principală. La prânz vizităm bisericile istorice, care necesită doar scurte plimbări de la parcare. După-amiaza conducem până la poalele Schlossberg și ne bucurăm de priveliște, înainte de a încheia ziua cu o plimbare panoramică de-a lungul râului Mur și o cină confortabilă.",
+            "en": "On a rainy day in Bruck, we take advantage of the car to move dryly between the highlights. The morning begins with parking near the center, from where we explore the Main Square. At noon, we visit the historic churches, which require only short walks from the parking lot. In the afternoon, we drive to the foot of Schlossberg and enjoy the view before ending the day with a scenic drive along the Mur and a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center (Parking)",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkgaragen, um das Auto und sich selbst trocken zu halten.",
+                "hu": "Használja a parkolóházakat, hogy az autót és önmagát is szárazon tartsa.",
+                "ro": "Utilizați parcările etajate pentru a vă menține mașina și pe dvs. uscați.",
+                "en": "Use parking garages to keep your car and yourself dry."
+              }
+            },
+            {
+              "name": "Main Square, Kornmesser House & Iron Fountain",
+              "tip_5lang": {
+                "de": "Lassen Sie den Schirm im Auto bereit, für die kurzen Wege zwischen den Gebäuden.",
+                "hu": "Legyen kéznél az esernyő az autóban az épületek közötti rövid sétákhoz.",
+                "ro": "Aveți umbrela pregătită în mașină pentru distanțele scurte dintre clădiri.",
+                "en": "Keep an umbrella ready in the car for the short walks between buildings."
+              }
+            },
+            {
+              "name": "Parish Church & Minorite Church",
+              "tip_5lang": {
+                "de": "Nahegelegene Parkplätze ermöglichen einen schnellen Zugang zu den Innenräumen.",
+                "hu": "A közeli parkolóhelyek gyors hozzáférést biztosítanak a belső terekhez.",
+                "ro": "Locurile de parcare din apropiere permit accesul rapid în interior.",
+                "en": "Nearby parking spaces allow quick access to the interiors."
+              }
+            },
+            {
+              "name": "Cluster 2: Schlossberg & Mur (Change Parking)",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Fuße des Berges, um den Aufstieg im Regen zu verkürzen.",
+                "hu": "Parkoljon közvetlenül a hegy lábánál, hogy lerövidítse az esőben való feljutást.",
+                "ro": "Parcați chiar la poalele muntelui pentru a scurta urcarea prin ploaie.",
+                "en": "Park directly at the foot of the hill to shorten the ascent in the rain."
+              }
+            },
+            {
+              "name": "Schlossberg (Ascent & View)",
+              "tip_5lang": {
+                "de": "Die Auffahrt ist asphaltiert und auch bei starkem Regen gut befahrbar.",
+                "hu": "A felvezető út aszfaltozott és heves esőzéskor is jól járható.",
+                "ro": "Drumul de urcare este asfaltat și ușor de parcurs chiar și în ploaie abundentă.",
+                "en": "The access road is paved and easily navigable even in heavy rain."
+              }
+            },
+            {
+              "name": "Mur Promenade",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Ufer bietet auch vom Auto aus schöne Ausblicke auf den Fluss.",
+                "hu": "Egy rövid megálló a parton az autóból is szép kilátást nyújt a folyóra.",
+                "ro": "O scurtă oprire pe mal oferă priveliști frumoase ale râului chiar și din mașină.",
+                "en": "A short stop on the banks offers beautiful views of the river even from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkgarage 'Hauptplatz' ist der ideale Startpunkt bei Schlechtwetter.",
+              "Achten Sie bei Regen auf Fußgänger in der Nähe der engen Altstadtgassen.",
+              "Vermeiden Sie das Parken unter Bäumen an der Mur wegen möglicher Astbrüche.",
+              "Die Straßen im Zentrum können bei Starkregen schnell Wasser führen."
+            ],
+            "hu": [
+              "A 'Hauptplatz' parkolóház ideális kiindulópont rossz idő esetén.",
+              "Esőben ügyeljen a gyalogosokra a szűk óvárosi utcák környékén.",
+              "Kerülje a fák alatti parkolást a Mur-parton az esetleges ágtörések miatt.",
+              "A központ utcáin heves esőzéskor gyorsan felgyűlhet a víz."
+            ],
+            "ro": [
+              "Parcarea 'Hauptplatz' este punctul de plecare ideal în caz de vreme rea.",
+              "Pe ploaie, fiți atenți la pietoni în apropierea străzilor înguste din centrul vechi.",
+              "Evitați parcarea sub copaci pe malul râului Mur din cauza posibilelor ruperi de crengi.",
+              "Străzile din centru pot acumula rapid apă în timpul ploilor abundente."
+            ],
+            "en": [
+              "The 'Hauptplatz' parking garage is the ideal starting point in bad weather.",
+              "In the rain, watch out for pedestrians near the narrow old town alleys.",
+              "Avoid parking under trees along the Mur due to possible falling branches.",
+              "Streets in the center can quickly accumulate water during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Tag in Bruck beginnt mit einer Fahrt durch die verschneite Steiermark. Am Morgen parken wir im beheizten Parkhaus am Hauptplatz und bewundern die frostige Altstadt. Mittags bieten die Kirchen der Stadt eine warme Zuflucht für eine stille Pause. Die Fahrt zum Schlossberg führt über geräumte Straßen, von wo aus wir den Blick auf die winterlichen Alpen genießen. Am späten Nachmittag lassen wir das Auto an der Mur-Promenade stehen für einen kurzen Spaziergang in der klaren Winterluft.",
+            "hu": "Egy télies nap Bruckban a havas Stájerországon keresztüli autózással kezdődik. Reggel a Fő téri fűtött parkolóházban állunk meg, és megcsodáljuk a fagyos óvárost. Délben a város templomai nyújtanak meleg menedéket egy csendes szünethez. A Schlossbergre vezető út letakarított utcákon át vezet, ahonnan élvezzük a kilátást a téli Alpokra. Késő délután a Mur-promenádnál hagyjuk az autót egy rövid sétára a tiszta téli levegőn.",
+            "ro": "O zi de iarnă în Bruck începe cu o plimbare prin Stiria înzăpezită. Dimineața parcăm în parcarea încălzită din Piața Principală și admirăm orașul vechi înghețat. La prânz, bisericile orașului oferă un refugiu cald pentru o pauză liniștită. Drumul către Schlossberg trece pe străzi curățate, de unde ne bucurăm de vederea spre Alpii de iarnă. După-amiaza târziu lăsăm mașina la promenada Mur pentru o scurtă plimbare în aerul curat de iarnă.",
+            "en": "A winter day in Bruck begins with a drive through snowy Styria. In the morning, we park in the heated parking garage at the Main Square and admire the frosty old town. At noon, the city's churches offer a warm refuge for a quiet break. The drive to Schlossberg leads through cleared streets, from where we enjoy the view of the winter Alps. In the late afternoon, we leave the car at the Mur promenade for a short walk in the clear winter air."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center (Parking)",
+              "tip_5lang": {
+                "de": "Ein Tiefgaragenplatz verhindert das Einfrieren der Scheiben während des Besuchs.",
+                "hu": "A mélygarázs megakadályozza a szélvédők befagyását a látogatás alatt.",
+                "ro": "Un loc în parcarea subterană previne înghețarea geamurilor în timpul vizitei.",
+                "en": "An underground parking space prevents windows from freezing during the visit."
+              }
+            },
+            {
+              "name": "Main Square, Kornmesser House & Iron Fountain",
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf glatte Stellen an den Bordsteinkanten.",
+                "hu": "Kiszálláskor ügyeljen a csúszós részekre a padkák mentén.",
+                "ro": "Fiți atenți la zonele alunecoase de la marginea trotuarului când coborâți.",
+                "en": "Watch out for slippery spots along the curbs when getting out."
+              }
+            },
+            {
+              "name": "Parish Church & Minorite Church",
+              "tip_5lang": {
+                "de": "Kurze Wege minimieren die Zeit in der Kälte; heizen Sie das Auto vor.",
+                "hu": "A rövid távok minimalizálják a hidegben töltött időt; fűtse fel előre az autót.",
+                "ro": "Distanțele scurte minimizează timpul petrecut în frig; preîncălziți mașina.",
+                "en": "Short distances minimize time spent in the cold; preheat the car."
+              }
+            },
+            {
+              "name": "Cluster 2: Schlossberg & Mur (Change Parking)",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Zustand der Parkflächen am Schlossberg auf Schneematsch.",
+                "hu": "Ellenőrizze a parkolófelületek állapotát a Schlossbergnél a hókása miatt.",
+                "ro": "Verificați starea locurilor de parcare de la Schlossberg pentru noroi și zăpadă.",
+                "en": "Check the condition of the parking areas at Schlossberg for slush."
+              }
+            },
+            {
+              "name": "Schlossberg (Ascent & View)",
+              "tip_5lang": {
+                "de": "Winterreifen sind auf den ansteigenden Straßen zwingend erforderlich.",
+                "hu": "A téli gumi kötelező az emelkedő utakon.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pe drumurile în pantă.",
+                "en": "Winter tires are mandatory on the ascending roads."
+              }
+            },
+            {
+              "name": "Mur Promenade",
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet einen schönen Blick auf den Fluss, ohne das Auto verlassen zu müssen.",
+                "hu": "A parkoló szép kilátást nyújt a folyóra anélkül, hogy ki kellene szállnia az autóból.",
+                "ro": "Parcarea oferă o vedere frumoasă spre râu fără a fi nevoie să părăsiți mașina.",
+                "en": "The parking lot offers a nice view of the river without having to leave the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer einen Eiskratzer und einen kleinen Besen im Auto mit.",
+              "Die Batterieleistung kann bei extremen Minusgraden nachlassen.",
+              "Achten Sie auf Streusalz, das die Sicht durch die Windschutzscheibe trüben kann.",
+              "Einige kleinere Gassen in der Altstadt werden erst spät geräumt."
+            ],
+            "hu": [
+              "Mindig tartson jégkaparót és egy kis seprűt az autóban.",
+              "Az akkumulátor teljesítménye extrém mínuszokban csökkenhet.",
+              "Ügyeljen az útszóró sóra, amely elhomályosíthatja a kilátást a szélvédőn.",
+              "Az óváros néhány kisebb utcáját csak későn takarítják le."
+            ],
+            "ro": [
+              "Aveți întotdeauna în mașină o racletă de gheață și o mătură mică.",
+              "Performanța bateriei poate scădea la temperaturi extrem de scăzute.",
+              "Atenție la sarea de pe drum, care poate murdări parbrizul și reduce vizibilitatea.",
+              "Unele străduțe mai mici din orașul vechi sunt curățate mai târziu."
+            ],
+            "en": [
+              "Always carry an ice scraper and a small broom in the car.",
+              "Battery performance can decrease in extreme sub-zero temperatures.",
+              "Watch out for road salt, which can cloud the view through the windshield.",
+              "Some smaller alleys in the old town are cleared late."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2060,188 @@
           "Pay attention to the last bus connection for your return journey.",
           "Payment for tickets on buses is usually only possible with cash."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Bruck lässt sich ideal mit den öffentlichen Verkehrsmitteln gestalten. Der Morgen beginnt mit der Ankunft am Hauptplatz, wo wir die kurzen Wege zwischen den Sehenswürdigkeiten schätzen. Mittags nutzen wir die Zeit in den geschützten Kirchenräumen, während es draußen regnet. Am Nachmittag bringt uns ein kurzer Bustransfer näher zum Schlossberg, wodurch wir weniger Zeit im Freien verbringen müssen. Den Tag beenden wir mit einer entspannten Busfahrt entlang der Mur zurück zum Ausgangspunkt.",
+            "hu": "Egy esős nap Bruckban ideálisan megoldható tömegközlekedéssel. A reggel a Fő térre való érkezéssel indul, ahol értékeljük a látnivalók közötti rövid távolságokat. Délben a védett templomterekben töltjük az időt, amíg odakint esik. Délután egy rövid buszos átszállás közelebb visz minket a Schlossberghez, így kevesebb időt kell a szabadban töltenünk. A napot egy pihentető buszozással zárjuk a Mur mentén vissza a kiindulópontig.",
+            "ro": "O zi ploioasă în Bruck poate fi gestionată ideal cu transportul public. Dimineața începe cu sosirea în Piața Principală, unde apreciem distanțele scurte dintre obiective. La prânz folosim timpul în spațiile protejate ale bisericilor în timp ce afară plouă. După-amiaza, un scurt transfer cu autobuzul ne aduce mai aproape de Schlossberg, reducând timpul petrecut în aer liber. Încheiem ziua cu o călătorie relaxantă cu autobuzul de-a lungul râului Mur înapoi la punctul de plecare.",
+            "en": "A rainy day in Bruck can be ideally managed with public transport. The morning begins with arrival at the Main Square, where we appreciate the short distances between the sights. At noon, we spend time in the protected church spaces while it rains outside. In the afternoon, a short bus transfer brings us closer to Schlossberg, reducing the time spent outdoors. We end the day with a relaxing bus ride along the Mur back to the starting point."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at Main Square",
+              "tip_5lang": {
+                "de": "Warten Sie in den Bushaltestellen-Häuschen auf den nächsten Anschluss.",
+                "hu": "Várja a következő csatlakozást a buszmegállók fedett váróiban.",
+                "ro": "Așteptați următoarea legătură în refugiile acoperite ale stațiilor de autobuz.",
+                "en": "Wait for the next connection in the covered bus stop shelters."
+              }
+            },
+            {
+              "name": "Kornmesser House & Iron Fountain",
+              "tip_5lang": {
+                "de": "Der Weg von der Haltestelle zum Kornmesserhaus ist kurz und gut befestigt.",
+                "hu": "A megállótól a Kornmesser-házig vezető út rövid és jól kiépített.",
+                "ro": "Drumul de la stație până la Casa Kornmesser este scurt și bine amenajat.",
+                "en": "The path from the stop to the Kornmesser House is short and well-paved."
+              }
+            },
+            {
+              "name": "Parish Church of the Nativity of Mary",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirchen als trockene Wartebereiche zwischen den Buszeiten.",
+                "hu": "Használja a templomokat száraz váróhelyként a buszjáratok között.",
+                "ro": "Utilizați bisericile ca zone de așteptare uscate între orele de autobuz.",
+                "en": "Use the churches as dry waiting areas between bus times."
+              }
+            },
+            {
+              "name": "Cluster 2: Ride towards Schlossberg",
+              "tip_5lang": {
+                "de": "Wählen Sie Linien, die direkt am Fuße des Schlossberges halten.",
+                "hu": "Válasszon olyan járatokat, amelyek közvetlenül a Schlossberg lábánál állnak meg.",
+                "ro": "Alegeți liniile care opresc chiar la poalele Schlossberg.",
+                "en": "Choose lines that stop directly at the foot of Schlossberg."
+              }
+            },
+            {
+              "name": "Schlossberg (Ascent & View)",
+              "tip_5lang": {
+                "de": "Bei starkem Regen bietet der Bus eine komfortable Anfahrt bis zum Berg.",
+                "hu": "Erős esőben a busz kényelmes feljutást biztosít a hegyig.",
+                "ro": "În ploaie abundentă, autobuzul oferă un acces confortabil până la munte.",
+                "en": "In heavy rain, the bus provides comfortable access to the hill."
+              }
+            },
+            {
+              "name": "Mur Promenade",
+              "tip_5lang": {
+                "de": "Mehrere Linien verkehren entlang des Flusses und bieten Ausblicke aus dem Trockenen.",
+                "hu": "Több járat is közlekedik a folyó mentén, kilátást nyújtva a szárazból.",
+                "ro": "Mai multe linii circulă de-a lungul râului și oferă vederi de la adăpost.",
+                "en": "Several lines run along the river and offer views from the dry interior."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die 'Bruck/Mur App' zeigt Abfahrtszeiten in Echtzeit an.",
+              "Nutzen Sie das Bahnhofsgebäude als warmen und trockenen Knotenpunkt.",
+              "Tageskarten sind günstiger als Einzelfahrscheine beim Fahrer.",
+              "Achten Sie auf mögliche Verzögerungen im Straßenverkehr bei Starkregen."
+            ],
+            "hu": [
+              "A 'Bruck/Mur App' valós időben mutatja az indulási időket.",
+              "Használja a vasútállomás épületét meleg és száraz csomópontként.",
+              "A napijegyek olcsóbbak, mint a sofőrnél váltott vonaljegyek.",
+              "Heves esőzéskor ügyeljen a közúti forgalom esetleges késéseire."
+            ],
+            "ro": [
+              "Aplicația 'Bruck/Mur' afișează timpii de plecare în timp real.",
+              "Utilizați clădirea gării ca nod central cald și uscat.",
+              "Biletele de o zi sunt mai ieftine decât biletele individuale cumpărate de la șofer.",
+              "Fiți atenți la posibilele întârzieri în trafic în timpul ploilor abundente."
+            ],
+            "en": [
+              "The 'Bruck/Mur App' shows departure times in real-time.",
+              "Use the railway station building as a warm and dry hub.",
+              "Day tickets are cheaper than single tickets bought from the driver.",
+              "Watch out for possible traffic delays during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag in Bruck lässt sich bequem mit Bus und Bahn erleben. Der Morgen beginnt am Hauptplatz, wo wir die festliche Atmosphäre der Altstadt genießen. Mittags bieten die beheizten Busse eine willkommene Aufwärmpause zwischen den Besichtigungen der historischen Kirchen. Der Nachmittag führt uns zum Schlossberg, von wo wir den Sonnenuntergang über den verschneiten Bergen beobachten. Den Abend lassen wir bei einem kurzen Spaziergang an der Mur ausklingen, bevor uns der Transit sicher zurückbringt.",
+            "hu": "Egy tiszta téli nap Bruckban kényelmesen átélhető busszal és vonattal. A reggel a Fő téren indul, ahol élvezzük az óváros ünnepi hangulatát. Délben a fűtött buszok hívogató felmelegedési szünetet nyújtanak a történelmi templomok megtekintése között. A délután a Schlossbergre vezet minket, ahonnan megfigyeljük a naplementét a havas hegyek felett. Az estét egy rövid Mur-menti sétával zárjuk, mielőtt a tömegközlekedés biztonságban hazavisz.",
+            "ro": "O zi senină de iarnă în Bruck poate fi trăită confortabil cu autobuzul și trenul. Dimineața începe în Piața Principală, unde ne bucurăm de atmosfera festivă a centrului vechi. La prânz, autobuzele încălzite oferă o pauză de încălzire binevenită între vizitele la bisericile istorice. După-amiaza ne duce la Schlossberg, de unde observăm apusul peste munții înzăpeziți. Încheiem seara cu o scurtă plimbare pe malul râului Mur, înainte ca transportul public să ne aducă înapoi în siguranță.",
+            "en": "A clear winter day in Bruck can be comfortably experienced by bus and train. The morning starts at the Main Square, where we enjoy the festive atmosphere of the old town. At noon, the heated buses offer a welcome warm-up break between visits to the historic churches. The afternoon leads us to Schlossberg, where we watch the sun set over the snowy mountains. We end the evening with a short walk along the Mur before transit brings us back safely."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at Main Square",
+              "tip_5lang": {
+                "de": "Die Wartebereiche im Freien können bei Wind sehr kalt sein; tragen Sie Mütze und Schal.",
+                "hu": "A szabadtéri várók szélben nagyon hidegek lehetnek; viseljen sapkát és sálat.",
+                "ro": "Zonele de așteptare în aer liber pot fi foarte reci pe vânt; purtați căciulă și fular.",
+                "en": "Outdoor waiting areas can be very cold in the wind; wear a hat and scarf."
+              }
+            },
+            {
+              "name": "Kornmesser House & Iron Fountain",
+              "tip_5lang": {
+                "de": "Die Wege von den Haltestellen sind meist gut geräumt und gestreut.",
+                "hu": "A megállóktól vezető utakat általában jól letakarítják és felsózzák.",
+                "ro": "Drumurile de la stații sunt de obicei bine curățate și presărate cu material antiderapant.",
+                "en": "The paths from the stops are usually well-cleared and gritted."
+              }
+            },
+            {
+              "name": "Parish Church of the Nativity of Mary",
+              "tip_5lang": {
+                "de": "Ein kurzer Aufenthalt im Bus zwischendurch hilft, die Körpertemperatur zu halten.",
+                "hu": "Egy rövid buszozás közben segít fenntartani a testhőmérsékletet.",
+                "ro": "O scurtă călătorie cu autobuzul între timp ajută la menținerea temperaturii corpului.",
+                "en": "A short ride on the bus in between helps maintain body temperature."
+              }
+            },
+            {
+              "name": "Cluster 2: Ride towards Schlossberg",
+              "tip_5lang": {
+                "de": "Planen Sie mehr Zeit für den Weg zur Haltestelle ein, wenn es schneit.",
+                "hu": "Tervezzen több időt a megállóhoz való jutásra, ha havazik.",
+                "ro": "Planificați mai mult timp pentru a ajunge la stație dacă ninge.",
+                "en": "Plan more time to get to the stop if it is snowing."
+              }
+            },
+            {
+              "name": "Schlossberg (Ascent & View)",
+              "tip_5lang": {
+                "de": "Der Bus bietet eine windgeschützte Fahrt bis zum Fuße des Schlossbergs.",
+                "hu": "A busz szélvédett utazást biztosít a Schlossberg lábáig.",
+                "ro": "Autobuzul oferă o călătorie ferită de vânt până la poalele Schlossberg.",
+                "en": "The bus provides a wind-sheltered ride to the foot of Schlossberg."
+              }
+            },
+            {
+              "name": "Mur Promenade",
+              "tip_5lang": {
+                "de": "Die Haltestellen nahe des Ufers bieten einen schnellen Rückzug in die Wärme.",
+                "hu": "A parthoz közeli megállók gyors visszatérést kínálnak a melegbe.",
+                "ro": "Stațiile de lângă mal oferă o retragere rapidă la căldură.",
+                "en": "Stops near the bank offer a quick retreat to the warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Fahrzeuge sind im Winter gut beheizt und komfortabel.",
+              "Achten Sie auf geänderte Fahrpläne an Feiertagen im Dezember.",
+              "Kaufen Sie Tickets vorab am Automaten, um Wartezeiten im Freien zu vermeiden.",
+              "Abends ist die Beleuchtung der Stadt aus dem Busfenster besonders schön."
+            ],
+            "hu": [
+              "A járművek télen jól fűtöttek és kényelmesek.",
+              "Ügyeljen a módosított menetrendekre a decemberi ünnepek alatt.",
+              "Vásároljon jegyet előre az automatánál, hogy elkerülje a szabadban való várakozást.",
+              "Este a város kivilágítása a busz ablakából különösen szép."
+            ],
+            "ro": [
+              "Vehiculele sunt bine încălzite și confortabile iarna.",
+              "Fiți atenți la orarele modificate în timpul sărbătorilor din decembrie.",
+              "Cumpărați bilete în avans de la automat pentru a evita așteptarea în aer liber.",
+              "Seara, iluminatul orașului este deosebit de frumos văzut de la fereastra autobuzului."
+            ],
+            "en": [
+              "Vehicles are well-heated and comfortable in winter.",
+              "Watch out for modified schedules during the holidays in December.",
+              "Buy tickets in advance at the machine to avoid waiting outdoors.",
+              "In the evening, the city's lighting is particularly beautiful from the bus window."
+            ]
+          }
+        }
       }
     }
   }

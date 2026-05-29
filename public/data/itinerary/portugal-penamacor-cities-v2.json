@@ -350,6 +350,214 @@
           "Most sights are close together, making this a very pleasant walk.",
           "Ask for a 'bica' (espresso) at local cafes for a boost of energy."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag geschützt unter den Torbögen von Penamacor. Der Vormittag gehört der Kirche und dem Museum, wo Sie dem Regen entfliehen können. Mittags genießen Sie lokale Spezialitäten in einer gemütlichen Taverne. Am Nachmittag bietet die Burg eine mystische, wolkenverhangene Aussicht, bevor Sie den Tag bei einem Glas Rotwein im historischen Kern ausklingen lassen.",
+            "hu": "Kezdje a napot a város boltívei alatt, elkerülve az esőt. A délelőttöt szentelje a templom és a múzeum felfedezésének, ahol szárazon maradhat. Ebédidőben keressen egy meghitt helyi fogadót. Délután a vár romjai közül nézze meg a ködös, drámai tájat, majd zárja az estét a történelmi központ egyik hangulatos borozójában, élvezve a csendes eső kopogását az ódon köveken.",
+            "ro": "Începeți ziua sub arcadele din Penamacor, protejați de ploaie. Dimineața este ideală pentru vizitarea bisericii și a muzeului. La prânz, relaxați-vă într-o tavernă locală călduroasă. După-amiaza, castelul oferă o priveliște mistică printre nori, iar seara vă puteți bucura de atmosfera liniștită a centrului istoric, unde reflexiile ploii pe caldarâm creează un decor de poveste.",
+            "en": "Start your day under the arches of Penamacor, staying dry. Spend your morning exploring the church and museum. At noon, find a cozy local tavern for a warm meal. In the afternoon, the castle offers a moody, misty view of the borderlands. End your evening in the historic heart with a glass of local wine, watching the rain transform the ancient stone streets into a reflective masterpiece."
+          },
+          "stops": [
+            {
+              "name": "Pillory of Penamacor",
+              "tip_5lang": {
+                "de": "Die nahen Steinbögen bieten Schutz vor plötzlichen Schauern.",
+                "hu": "A közeli kőívek kiváló menedéket nyújtanak egy hirtelen zápor elől.",
+                "ro": "Arcadele de piatră din apropiere oferă adăpost în caz de ploaie.",
+                "en": "Nearby stone arches provide a quick refuge from sudden showers."
+              }
+            },
+            {
+              "name": "Main Church of Penamacor",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um das Interieur trocken zu bewundern.",
+                "hu": "Tökéletes helyszín a belső tér száraz, nyugodt megcsodálására.",
+                "ro": "Un loc perfect pentru a admira interiorul în timp ce sunteți la adăpost.",
+                "en": "A perfect spot to admire the interior while staying completely dry."
+              }
+            },
+            {
+              "name": "Municipal Museum of Penamacor",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regen für einen ausgiebigen Museumsbesuch.",
+                "hu": "Használja ki az esős időt egy alapos és tartalmas múzeumlátogatásra.",
+                "ro": "Folosiți timpul ploios pentru o vizită detaliată la muzeu.",
+                "en": "Take advantage of the rainy weather for an extended museum visit."
+              }
+            },
+            {
+              "name": "Manor of the Counts of Penamacor",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen, glatten Stufen vor dem Herrenhaus.",
+                "hu": "Vigyázzon a kúria előtti vizes, csúszós lépcsőkön.",
+                "ro": "Atenție la treptele umede și alunecoase din fața conacului.",
+                "en": "Watch your step on the wet, slippery stairs in front of the manor."
+              }
+            },
+            {
+              "name": "Clock Tower",
+              "tip_5lang": {
+                "de": "Der Turm wirkt bei grauem Himmel besonders imposant.",
+                "hu": "Az óratorony a szürke égbolt alatt különösen méltóságteljes.",
+                "ro": "Turnul cu ceas arată impunător sub cerul plumburiu.",
+                "en": "The clock tower looks particularly imposing under a gray sky."
+              }
+            },
+            {
+              "name": "Castle of Penamacor",
+              "tip_5lang": {
+                "de": "Die Aussicht auf die nebligen Berge ist jetzt einmalig.",
+                "hu": "A ködbe burkolózó hegyek látványa most egészen egyedülálló.",
+                "ro": "Priveliștea munților înnebuniți de ceață este unică acum.",
+                "en": "The view of the mist-covered mountains is truly unique right now."
+              }
+            },
+            {
+              "name": "Convent of Saint Anthony",
+              "tip_5lang": {
+                "de": "Der Kreuzgang bietet einen wunderbaren, trockenen Rundgang.",
+                "hu": "A kolostor folyosói száraz sétát tesznek lehetővé az udvar körül.",
+                "ro": "Cloisterul oferă o plimbare plăcută și uscată în jurul curții.",
+                "en": "The cloister offers a wonderful, dry walk around the courtyard."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die steilen Kopfsteinpflastergassen.",
+              "Die Museen in Penamacor sind hervorragende Rückzugsorte bei Dauerregen.",
+              "Nutzen Sie die vielen Torbögen im alten Viertel als kurze Unterstände.",
+              "Planen Sie längere Pausen in den Cafés ein, um Schauer abzuwarten.",
+              "Ein stabiler Regenschirm ist bei Wind in den Höhenlagen wichtig."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a meredek, macskaköves utcák miatt.",
+              "A helyi múzeumok kiváló menedéket nyújtanak tartós eső esetén.",
+              "Használja ki az óváros számos boltívét rövid pihenőkre.",
+              "Tervezzen hosszabb kávéházi szüneteket a nagyobb záporok idejére.",
+              "A szelesebb várnegyedben egy stabil esernyő elengedhetetlen."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile abrupte cu pavaj.",
+              "Muzeele din Penamacor sunt refugii excelente în caz de ploaie persistentă.",
+              "Folosiți numeroasele arcade din cartierul vechi ca adăposturi temporare.",
+              "Planificați pauze mai lungi în cafenele pentru a aștepta trecerea ploii.",
+              "O umbrelă rezistentă este esențială în zonele înalte unde bate vântul."
+            ],
+            "en": [
+              "Wear waterproof shoes for the steep, cobblestone alleyways.",
+              "The local museums are excellent retreats during persistent rain.",
+              "Take advantage of the many arches in the old quarter for short breaks.",
+              "Plan longer café stops to wait out the heaviest showers.",
+              "A sturdy umbrella is essential for the windier areas near the castle."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die klare Winterluft in den Gassen von Penamacor. Der Morgen beginnt erfrischend am Pranger, gefolgt von der wärmenden Stille der Hauptkirche. Mittags stärken Sie sich mit einem herzhaften Eintopf der Beira Baixa. Der Nachmittag führt Sie zum Schloss, wo die tiefstehende Sonne die Ebene in goldenes Licht taucht, bevor die Dämmerung früh einsetzt und Sie in eine gemütliche Weinstube lockt.",
+            "hu": "Élvezze a friss téli levegőt Penamacor szűk utcáin. A reggel frissítően indul a szégyenoszlopnál, majd a főtemplom melengető csendje következik. Ebédre kóstoljon meg egy tápláló Beira Baixa-i egytálételt. Délután a várnál a korán lemenő nap aranyló fénybe vonja a síkságot, mielőtt a szürkület beköszöntével betérne egy barátságos, fűtött borozóba.",
+            "ro": "Experimentați aerul curat de iarnă pe străzile din Penamacor. Dimineața începe revigorant la stâlpul infamiei, urmată de liniștea primitoare a bisericii. La prânz, savurați o tocană consistentă specifică regiunii Beira Baixa. După-amiaza, soarele jos transformă castelul într-un peisaj auriu, înainte ca amurgul timpuriu să vă ghideze spre o tavernă călduroasă.",
+            "en": "Experience the crisp winter air in the narrow streets of Penamacor. The morning starts refreshingly at the pillory, followed by the warming silence of the main church. For lunch, warm up with a hearty Beira Baixa stew. In the afternoon, the low winter sun bathes the castle in golden light before the early twilight leads you to a cozy wine cellar with a crackling atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Pillory of Penamacor",
+              "tip_5lang": {
+                "de": "Die kalten Granitsteine wirken im Winter besonders markant.",
+                "hu": "A hideg gránitkövek télen különösen karakteres látványt nyújtanak.",
+                "ro": "Piatra rece de granit arată deosebit de spectaculos iarna.",
+                "en": "The cold granite stones look particularly striking in the winter light."
+              }
+            },
+            {
+              "name": "Main Church of Penamacor",
+              "tip_5lang": {
+                "de": "Ein ruhiger, windgeschützter Ort zum Aufwärmen und Besinnen.",
+                "hu": "Csendes, szélvédett helyszín egy kis testi-lelki melegedéshez.",
+                "ro": "Un loc liniștit și ferit de vânt pentru a vă încălzi puțin.",
+                "en": "A quiet, wind-sheltered spot to warm up and reflect for a moment."
+              }
+            },
+            {
+              "name": "Municipal Museum of Penamacor",
+              "tip_5lang": {
+                "de": "Das beheizte Museum ist ideal für die kühleren Mittagsstunden.",
+                "hu": "A fűtött múzeum ideális menedék a hűvösebb déli órákban.",
+                "ro": "Muzeul încălzit este ideal pentru orele mai reci ale amiezii.",
+                "en": "The heated museum is ideal for the cooler midday hours."
+              }
+            },
+            {
+              "name": "Manor of the Counts of Penamacor",
+              "tip_5lang": {
+                "de": "Die historischen Mauern strahlen eine besondere Winterruhe aus.",
+                "hu": "A történelmi falak különleges téli nyugalmat árasztanak.",
+                "ro": "Zidurile istorice emană o liniște aparte în timpul iernii.",
+                "en": "The historic walls exude a special sense of winter tranquility."
+              }
+            },
+            {
+              "name": "Clock Tower",
+              "tip_5lang": {
+                "de": "Frühzeitiger Sonnenuntergang sorgt hier für tolles Licht.",
+                "hu": "A korai naplemente itt fantasztikus fényeket teremt a fotózáshoz.",
+                "ro": "Apusul timpuriu creează aici o lumină superbă pentru fotografii.",
+                "en": "The early sunset creates wonderful light for photography here."
+              }
+            },
+            {
+              "name": "Castle of Penamacor",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wichtig für den windigen Burgberg.",
+                "hu": "Meleg ruházat javasolt a szeles és kitett várhegyen.",
+                "ro": "Îmbrăcămintea groasă este necesară pentru dealul castelului.",
+                "en": "Warm clothing is essential for the windy and exposed castle hill."
+              }
+            },
+            {
+              "name": "Convent of Saint Anthony",
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche Stille am Ende des Wintertages.",
+                "hu": "Élvezze a békés csendet a téli nap lezárásaként.",
+                "ro": "Bucurați-vă de liniștea deplină la sfârșitul unei zile de iarnă.",
+                "en": "Enjoy the peaceful silence at the end of a crisp winter day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten, da es im Schatten sehr kühl sein kann.",
+              "Die Sonne geht im Winter bereits gegen 17:30 Uhr unter.",
+              "Probieren Sie die typischen Kastaniengerichte der Region.",
+              "Kopfsteinpflaster kann bei Frost am frühen Morgen rutschig sein.",
+              "Suchen Sie Cafés mit Kamin für eine authentische Winterpause."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert az árnyékos utcákban hűvösebb van.",
+              "A nap télen már 17:30 körül lenyugszik, tervezzen eszerint.",
+              "Kóstolja meg a régióra jellemző sült gesztenyés ételeket.",
+              "A macskakövek kora reggeli fagy esetén csúszósak lehetnek.",
+              "Keressen kandallós kávézókat az autentikus téli élményért."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, deoarece la umbră este mult mai frig.",
+              "Soarele apune în jurul orei 17:30, deci planificați din timp.",
+              "Gustați preparatele tipice cu castane din această regiune.",
+              "Pavelele pot fi alunecoase în cazul înghețului de dimineață.",
+              "Căutați cafenele cu șemineu pentru o pauză de iarnă autentică."
+            ],
+            "en": [
+              "Dress in layers as it can be quite chilly in the shaded alleys.",
+              "The sun sets around 5:30 PM in winter, so plan your day accordingly.",
+              "Try the region's typical chestnut-based winter dishes.",
+              "Cobblestones can be slippery during early morning frosts.",
+              "Look for cafés with fireplaces for an authentic winter break."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -670,6 +878,196 @@
           "Wear a helmet and be cautious in the narrow alleys.",
           "Many cafes will allow you to park your bike outside."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf dem Kopfsteinpflaster von Penamacor. Starten Sie vorsichtig am Pranger und nutzen Sie die Kirchenbesuche für Pausen im Trockenen. Das Schloss bietet trotz Regen eine beeindruckende Kulisse. Am Nachmittag bringt Sie eine kurze Fahrt zum Museum, wo Sie sich aufwärmen können, bevor Sie den Abend gemütlich beenden.",
+            "hu": "Az esős kerékpározás óvatosságot igényel Penamacor macskakövein. Kezdje a túrát óvatosan a szégyenoszlopnál, és használja a templomi megállókat száraz pihenőként. A vár az eső ellenére is lenyűgöző látványt nyújt. Délután tekerjen el a múzeumhoz, ahol bemelegedhet, mielőtt kényelmesen lezárná a napot.",
+            "ro": "O plimbare cu bicicleta în ploaie necesită atenție sporită pe pavajul din Penamacor. Începeți cu grijă la stâlpul infamiei și folosiți vizitele la biserici ca popasuri uscate. Castelul oferă un decor impresionant chiar și pe ploaie. După-amiaza, pedalați spre muzeu pentru a vă încălzi înainte de finalul zilei.",
+            "en": "Cycling in the rain requires extra caution on Penamacor's cobblestones. Start carefully at the pillory and use church visits as dry breaks. The castle remains an impressive backdrop despite the weather. In the afternoon, ride to the museum to warm up before ending your day in a cozy local spot."
+          },
+          "stops": [
+            {
+              "name": "Pillory of Penamacor",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anhalten auf glattem Untergrund.",
+                "hu": "Vigyázzon a megállásnál a csúszós felületen.",
+                "ro": "Atenție la oprire pe suprafața alunecoasă.",
+                "en": "Be careful when stopping on the slippery surface."
+              }
+            },
+            {
+              "name": "Main Church of Penamacor",
+              "tip_5lang": {
+                "de": "Guter Ort, um die Regenkleidung kurz zu lüften.",
+                "hu": "Jó hely az esőruházat rövid átszellőztetésére.",
+                "ro": "Loc bun pentru a aerisi puțin hainele de ploaie.",
+                "en": "Good place to air out your rain gear for a moment."
+              }
+            },
+            {
+              "name": "Manor of the Counts of Penamacor",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Dachüberstand möglich.",
+                "hu": "Rövid megálló lehetséges az ereszek védelmében.",
+                "ro": "Scurt popas posibil sub streșinile clădirii.",
+                "en": "Short stop possible under the building's overhangs."
+              }
+            },
+            {
+              "name": "Clock Tower & Castle of Penamacor",
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Nässe sehr rutschig sein.",
+                "hu": "A felfelé vezető út esőben nagyon csúszós lehet.",
+                "ro": "Urcarea poate fi foarte alunecoasă pe timp de ploaie.",
+                "en": "The uphill path can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Convent of Saint Anthony",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingang zum Abstellen.",
+                "hu": "Használja a fedett bejáratot a kerékpár tárolására.",
+                "ro": "Folosiți intrarea acoperită pentru a lăsa bicicleta.",
+                "en": "Use the covered entrance area to park your bike."
+              }
+            },
+            {
+              "name": "Municipal Museum of Penamacor",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine lange Pause im Trockenen.",
+                "hu": "Tökéletes helyszín egy hosszú, száraz pihenőhöz.",
+                "ro": "Loc perfect pentru o pauză lungă la adăpost.",
+                "en": "Perfect spot for a long, dry break indoors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip.",
+              "Vermeiden Sie abrupte Bremsmanöver auf nassem Pflaster.",
+              "Vollständige Regenbekleidung inklusive Überschuhen wird empfohlen.",
+              "Nutzen Sie helle Beleuchtung bei schlechten Sichtverhältnissen.",
+              "Parken Sie Ihr Rad nach Möglichkeit unter Arkaden."
+            ],
+            "hu": [
+              "Csökkentse kissé a guminyomást a jobb tapadás érdekében.",
+              "Kerülje a hirtelen fékezést a nedves macskaköveken.",
+              "Teljes esőruházat és kamásli használata javasolt.",
+              "Rossz látási viszonyok között használjon erős világítást.",
+              "Lehetőség szerint árkádok alatt parkolja le a kerékpárt."
+            ],
+            "ro": [
+              "Reduceți ușor presiunea în anvelope pentru o aderență mai bună.",
+              "Evitați frânările bruște pe pavajul umed.",
+              "Se recomandă costum complet de ploaie și protecții pentru pantofi.",
+              "Folosiți lumini puternice în condiții de vizibilitate redusă.",
+              "Parcați bicicleta sub arcade ori de câte ori este posibil."
+            ],
+            "en": [
+              "Lower your tire pressure slightly for better grip.",
+              "Avoid sudden braking maneuvers on wet cobblestones.",
+              "Full rain gear including shoe covers is highly recommended.",
+              "Use bright lights in low-visibility conditions.",
+              "Park your bike under arches whenever possible."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine erfrischende Winterfahrt durch Penamacor. Die kühle Luft am Morgen macht hellwach, während Sie die historischen Monumente ansteuern. Mittags wärmen Sie sich in einem traditionellen Restaurant auf. Der Nachmittag bietet am Schloss eine klare Fernsicht, die im Sommer oft getrübt ist. Beenden Sie Ihre Tour vor Einbruch der frühen Dunkelheit in der gemütlichen Altstadt.",
+            "hu": "Élvezze a frissítő téli kerékpározást Penamacorban. A reggeli hűvös levegő éberré teszi, miközben a történelmi emlékek felé teker. Ebédre keressen egy hagyományos éttermet a melegedéshez. Délután a várnál olyan tiszta kilátás fogadja, ami nyáron ritka. Fejezze be a túrát a korai sötétedés előtt az óváros barátságos utcáin.",
+            "ro": "Bucurați-vă de o tură revigorantă de iarnă prin Penamacor. Aerul rece de dimineață vă va trezi complet în timp ce vizitați monumentele istorice. La prânz, încălziți-vă într-un restaurant tradițional. După-amiaza, castelul oferă o vizibilitate clară, rară în timpul verii. Încheiați tura înainte de lăsarea serii în orașul vechi.",
+            "en": "Enjoy a refreshing winter ride through Penamacor. The crisp morning air will wake you up as you visit the historical monuments. Warm up with a traditional lunch at midday. In the afternoon, the castle offers clear long-distance views that are often hazy in summer. Finish your tour before the early darkness sets in the cozy old town."
+          },
+          "stops": [
+            {
+              "name": "Pillory of Penamacor",
+              "tip_5lang": {
+                "de": "Vorsicht bei möglichem Bodenfrost in den Gassen.",
+                "hu": "Vigyázzon az utcákban előforduló reggeli fagyra.",
+                "ro": "Atenție la posibilul polei de dimineață pe străzi.",
+                "en": "Watch out for potential morning frost in the alleys."
+              }
+            },
+            {
+              "name": "Main Church of Penamacor",
+              "tip_5lang": {
+                "de": "Kurze Pause im geschützten Bereich der Kirche.",
+                "hu": "Rövid pihenő a templom szélvédett környékén.",
+                "ro": "Scurt popas în zona protejată a bisericii.",
+                "en": "Short break in the sheltered area around the church."
+              }
+            },
+            {
+              "name": "Manor of the Counts of Penamacor",
+              "tip_5lang": {
+                "de": "Helle Wintersonne lässt den Granit glänzen.",
+                "hu": "Az alacsony téli napfény szépen megcsillan a grániton.",
+                "ro": "Soarele de iarnă face granitul să strălucească frumos.",
+                "en": "Bright winter sun makes the granite stones sparkle."
+              }
+            },
+            {
+              "name": "Clock Tower & Castle of Penamacor",
+              "tip_5lang": {
+                "de": "Winddichte Kleidung für die Abfahrt bereithalten.",
+                "hu": "Készítse elő a szélálló ruhát a lefelé úthoz.",
+                "ro": "Pregătiți hainele rezistente la vânt pentru coborâre.",
+                "en": "Have windproof clothing ready for the downhill ride."
+              }
+            },
+            {
+              "name": "Convent of Saint Anthony",
+              "tip_5lang": {
+                "de": "Genießen Sie das weiche Licht der Wintersonne.",
+                "hu": "Élvezze a téli napsütés lágy, aranyló fényeit.",
+                "ro": "Bucurați-vă de lumina caldă a soarelui de iarnă.",
+                "en": "Enjoy the soft light of the winter sun on the facade."
+              }
+            },
+            {
+              "name": "Municipal Museum of Penamacor",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Hände wieder aufzuwärmen.",
+                "hu": "Ideális helyszín az átfagyott kezek felmelegítésére.",
+                "ro": "Loc ideal pentru a vă încălzi mâinile amorțite.",
+                "en": "Ideal place to warm up your cold hands indoors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie windfeste Handschuhe für die Abfahrten.",
+              "Achten Sie auf die kürzere Akkulaufzeit bei E-Bikes.",
+              "Nutzen Sie die Mittagsstunden für die längeren Fahrten.",
+              "Vermeiden Sie schattige Waldwege am frühen Morgen.",
+              "Halten Sie die Kette gut geölt gegen winterliche Feuchtigkeit."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt a lejtőkön való guruláshoz.",
+              "Ügyeljen az elektromos kerékpárok rövidebb hatótávjára.",
+              "Használja ki a déli órákat a hosszabb szakaszok megtételére.",
+              "Kora reggel kerülje az árnyékos, jegesedésre hajlamos utakat.",
+              "Tartsa jól olajozottan a láncot a téli pára miatt."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt pentru coborâri.",
+              "Atenție la autonomia redusă a bateriei bicicletelor electrice.",
+              "Folosiți orele amiezii pentru segmentele mai lungi de drum.",
+              "Evitați drumurile umbrite dimineața devreme din cauza înghețului.",
+              "Mențineți lanțul bine uns împotriva umidității de iarnă."
+            ],
+            "en": [
+              "Wear windproof gloves for the downhill stretches.",
+              "Be aware of shorter battery life on e-bikes in the cold.",
+              "Make the most of the midday hours for longer rides.",
+              "Avoid shaded paths early in the morning due to frost.",
+              "Keep the chain well-oiled against winter dampness."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -966,6 +1364,178 @@
           "Roads in the reserve can be unpaved; drive carefully.",
           "Bring binoculars for wildlife spotting."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Penamacor und das Umland komfortabel mit dem Auto. Der Vormittag am Schloss bietet spektakuläre Ausblicke auf Regenfronten über der Ebene. Mittags genießen Sie den Besuch im Museum ohne nass zu werden. Nachmittags fahren Sie in das Naturreservat Serra da Malcata, wo der Regen die Natur zum Leuchten bringt und die Wasserläufe anschwellen lässt.",
+            "hu": "Fedezze fel Penamacort és környékét kényelmesen, autóval. A délelőtti várnéző során figyelje meg a síkság felett vonuló esőfelhőket. Ebéd után látogassa meg a múzeumot, elkerülve az ázást. Délután autózzon el a Serra da Malcata természetvédelmi területre, ahol az eső hatására a természet felélénkül és a patakok megduzzadnak.",
+            "ro": "Explorați Penamacor și împrejurimile confortabil cu mașina. Dimineața la castel puteți observa fronturile de ploaie trecând peste câmpie. La prânz, vizitați muzeul fără a vă uda. După-amiaza, conduceți spre Rezervația Naturală Serra da Malcata, unde ploaia face natura să strălucească și umflă cursurile de apă.",
+            "en": "Explore Penamacor and its surroundings in comfort by car. In the morning, watch the rain fronts move across the plains from the castle. Visit the museum at midday to stay dry. In the afternoon, drive to the Serra da Malcata Nature Reserve, where the rain brings out vibrant colors in the landscape and fills the streams."
+          },
+          "stops": [
+            {
+              "name": "Castle of Penamacor",
+              "tip_5lang": {
+                "de": "Bequemes Parken direkt am Fuße der Burganlage.",
+                "hu": "Kényelmes parkolás közvetlenül a várfalak tövében.",
+                "ro": "Parcare convenabilă chiar la baza zidurilor castelului.",
+                "en": "Convenient parking right at the base of the castle walls."
+              }
+            },
+            {
+              "name": "Clock Tower & Main Church",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten im Regen.",
+                "hu": "Rövid séták a látnivalók között, minimális ázás.",
+                "ro": "Distanțe scurte între obiective, ideal pe timp de ploaie.",
+                "en": "Short walking distances between sights to minimize getting wet."
+              }
+            },
+            {
+              "name": "Municipal Museum of Penamacor",
+              "tip_5lang": {
+                "de": "Parkplatzsuche im historischen Zentrum einplanen.",
+                "hu": "Számoljon a parkolóhely-kereséssel a központban.",
+                "ro": "Planificați timp pentru găsirea unui loc de parcare în centru.",
+                "en": "Allow some time for finding parking in the historic center."
+              }
+            },
+            {
+              "name": "Serra da Malcata Nature Reserve",
+              "tip_5lang": {
+                "de": "Vorsicht auf unbefestigten Straßen bei starkem Regen.",
+                "hu": "Vigyázzon a nem aszfaltozott utakon erős esőben.",
+                "ro": "Atenție pe drumurile neasfaltate în caz de ploaie torențială.",
+                "en": "Be careful on unpaved roads during heavy rainfall."
+              }
+            },
+            {
+              "name": "Viewpoint in the Reserve",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht direkt aus dem warmen Auto.",
+                "hu": "Élvezze a kilátást közvetlenül a meleg autóból.",
+                "ro": "Bucurați-vă de priveliște direct din confortul mașinii.",
+                "en": "Enjoy the dramatic views directly from your warm car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Nebel in den höheren Lagen der Malcata.",
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Abfahrt.",
+              "Manche Zufahrtsstraßen können bei Starkregen überflutet sein.",
+              "Halten Sie Abstand auf rutschigen Bergstraßen.",
+              "Ein Regenschirm im Auto ist für die kurzen Wege unerlässlich."
+            ],
+            "hu": [
+              "Ügyeljen a ködre a Malcata-hegység magasabb részein.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Erős esőzéskor egyes mellékutak víz alá kerülhetnek.",
+              "Tartson nagyobb követési távolságot a csúszós hegyi utakon.",
+              "Az autóban tartott esernyő nélkülözhetetlen a rövid sétákhoz."
+            ],
+            "ro": [
+              "Atenție la ceață în zonele înalte din Serra da Malcata.",
+              "Verificați starea ștergătoarelor înainte de a porni la drum.",
+              "Unele drumuri secundare pot fi inundate după ploi torențiale.",
+              "Păstrați o distanță mai mare pe drumurile montane alunecoase.",
+              "O umbrelă în mașină este esențială pentru deplasările scurte."
+            ],
+            "en": [
+              "Watch out for fog in the higher elevations of Malcata.",
+              "Check the condition of your windshield wipers before starting.",
+              "Some secondary roads may flood during heavy downpours.",
+              "Maintain a safe distance on slippery mountain roads.",
+              "An umbrella in the car is essential for short walks to sights."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch die Beira Baixa zeigt Penamacor von seiner stillen Seite. Beginnen Sie am Schloss und genießen Sie die klare Luft. Mittags bietet das Museum einen kulturellen Zwischenstopp im Warmen. Am Nachmittag führt die Fahrt in die Serra da Malcata, wo die kahle Winterlandschaft eine ganz eigene raue Schönheit besitzt, bevor Sie rechtzeitig zum Sonnenuntergang zurückkehren.",
+            "hu": "A téli autózás a Beira Baixa vidéken Penamacor csendesebb arcát mutatja meg. Kezdjen a várnál és szívja be a friss levegőt. Ebéd után a múzeum kínál meleg kulturális pihenőt. Délután tegyen egy kört a Serra da Malcata felé, ahol a kopár téli táj nyers szépsége lenyűgöző, majd térjen vissza a faluba a naplemente idejére.",
+            "ro": "O plimbare de iarnă prin regiunea Beira Baixa vă arată latura liniștită a orașului Penamacor. Începeți la castel și bucurați-vă de aerul curat. După prânz, muzeul oferă un popas cultural călduros. După-amiaza, conduceți spre Serra da Malcata pentru a admira frumusețea aspră a peisajului de iarnă.",
+            "en": "A winter drive through the Beira Baixa region reveals the quiet side of Penamacor. Start at the castle and enjoy the crisp air. At midday, the museum provides a warm cultural stop. In the afternoon, head into the Serra da Malcata to witness the raw beauty of the winter landscape before returning in time for sunset."
+          },
+          "stops": [
+            {
+              "name": "Castle of Penamacor",
+              "tip_5lang": {
+                "de": "Heizung im Auto sorgt für angenehme Anfahrt.",
+                "hu": "Az autó fűtése kellemessé teszi a feljutást.",
+                "ro": "Căldura din mașină face drumul spre castel foarte plăcut.",
+                "en": "Car heating makes the drive up to the castle very comfortable."
+              }
+            },
+            {
+              "name": "Clock Tower & Main Church",
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und blendet beim Fahren.",
+                "hu": "Az alacsony téli nap elvakíthat vezetés közben.",
+                "ro": "Soarele jos de iarnă poate fi orbitor în timpul condusului.",
+                "en": "The low winter sun can be blinding while driving through town."
+              }
+            },
+            {
+              "name": "Municipal Museum of Penamacor",
+              "tip_5lang": {
+                "de": "Idealer Ort für eine Pause von der Kälte.",
+                "hu": "Ideális helyszín egy kis szünetre a kinti hideg elől.",
+                "ro": "Loc ideal pentru o pauză ferită de frigul de afară.",
+                "en": "Ideal place for a break from the cold outdoor temperatures."
+              }
+            },
+            {
+              "name": "Serra da Malcata Nature Reserve",
+              "tip_5lang": {
+                "de": "In höheren Lagen ist mit Raureif zu rechnen.",
+                "hu": "A magasabb részeken zúzmarára és jegesedésre lehet számítani.",
+                "ro": "În zonele înalte este de așteptat să apară chiciura.",
+                "en": "Expect hoarfrost and icy patches in higher elevations."
+              }
+            },
+            {
+              "name": "Viewpoint in the Reserve",
+              "tip_5lang": {
+                "de": "Klare Sicht ermöglicht weite Blicke nach Spanien.",
+                "hu": "A tiszta időben ellátni egészen Spanyolországig.",
+                "ro": "Vizibilitatea clară permite vederea până în Spania.",
+                "en": "Clear conditions allow for far-reaching views into Spain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Vorsicht bei Glätte auf schattigen Bergpassagen.",
+              "Planen Sie Ihre Rückkehr vor der frühen Dunkelheit.",
+              "Führen Sie warme Decken für den Notfall mit.",
+              "Die Tankstellen in der Region sind im Winter seltener."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosó tartályban.",
+              "Vigyázzon a jegesedésre az árnyékos hegyi szakaszokon.",
+              "Tervezze meg a visszatérést a korai sötétedés előtt.",
+              "Vigyen magával meleg takarót vészhelyzet esetére.",
+              "A régióban télen ritkábban találhat nyitva tartó benzinkutat."
+            ],
+            "ro": [
+              "Verificați antigelul în lichidul de spălare a parbrizului.",
+              "Atenție la porțiunile înghețate de pe drumurile umbrite.",
+              "Planificați întoarcerea înainte de lăsarea timpurie a serii.",
+              "Luați pături groase în mașină pentru situații de urgență.",
+              "Benzinăriile din regiune pot avea program redus iarna."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer fluid.",
+              "Be careful of icy patches on shaded mountain roads.",
+              "Plan your return before the early onset of darkness.",
+              "Carry warm blankets in the car for emergencies.",
+              "Be aware that gas stations in the area may have shorter hours."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1262,6 +1832,178 @@
           "Most buses are not wheelchair accessible.",
           "Signal clearly to the driver that you want to get off at the next stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Nahverkehr, um Penamacor auch bei Regen zu erkunden. Der Vormittag an der Kirche und dem Pranger lässt sich gut mit Busstopps verbinden. Mittags bietet das Museum ein langes, trockenes Programm. Den Nachmittag verbringen Sie am geschützten Konvent, bevor Sie bequem mit dem Bus zurückfahren und den Regentag entspannt ausklingen lassen.",
+            "hu": "Használja a tömegközlekedést Penamacor felfedezéséhez esős időben is. A délelőtti templomlátogatás jól összehangolható a buszmegállókkal. Ebéd után a múzeum kínál hosszabb, száraz programot. A délutánt töltse a védett kolostorban, majd busszal térjen vissza, kényelmesen zárva ezt a borús napot.",
+            "ro": "Utilizați transportul local pentru a explora Penamacor chiar și pe ploaie. Dimineața la biserică poate fi combinată ușor cu stațiile de autobuz. După prânz, muzeul oferă un program lung la adăpost. Petreceți după-amiaza la mănăstirea protejată, înainte de a vă întoarce relaxat cu autobuzul.",
+            "en": "Use local transit to explore Penamacor even in the rain. Your morning visits to the church and pillory can be easily timed with bus stops. Spend a long, dry midday at the museum. In the afternoon, explore the sheltered convent before taking a comfortable bus ride back to finish your rainy day relaxed."
+          },
+          "stops": [
+            {
+              "name": "Main Church & Pillory",
+              "tip_5lang": {
+                "de": "Überdachte Bushaltestellen in der Nähe vorhanden.",
+                "hu": "Fedett buszmegállók találhatók a közvetlen közelben.",
+                "ro": "Stații de autobuz acoperite sunt disponibile în apropiere.",
+                "en": "Covered bus stops are available in the immediate vicinity."
+              }
+            },
+            {
+              "name": "Municipal Museum of Penamacor",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von der Bushaltestelle.",
+                "hu": "Csak egy rövid séta a legközelebbi buszmegállótól.",
+                "ro": "La doar câțiva pași de mers pe jos de la stația de autobuz.",
+                "en": "Only a short walk from the nearest bus stop."
+              }
+            },
+            {
+              "name": "Castle of Penamacor",
+              "tip_5lang": {
+                "de": "Vom Busstopp geht es steil bergauf; Rutschgefahr.",
+                "hu": "A megállótól meredek az út felfelé; csúszásveszély.",
+                "ro": "De la stație drumul urcă abrupt; risc de alunecare.",
+                "en": "Steep walk up from the stop; watch out for slippery stones."
+              }
+            },
+            {
+              "name": "Convent of Saint Anthony",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten bei Regen genau.",
+                "hu": "Esőben ellenőrizze pontosan a visszainduló buszokat.",
+                "ro": "Verificați cu atenție orele de întoarcere pe timp de ploaie.",
+                "en": "Double-check the return bus times during rainy weather."
+              }
+            },
+            {
+              "name": "Riverside Walk",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist dieser Stopp weniger ratsam.",
+                "hu": "Erős esőzés esetén ez a megálló kevésbé ajánlott.",
+                "ro": "În caz de ploaie torențială, acest popas nu este recomandat.",
+                "en": "This stop is less advisable during heavy rainfall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeit-Infos bei Verzögerungen.",
+              "Halten Sie Kleingeld für den Fahrkartenkauf bereit.",
+              "Busse können bei starkem Regen unpünktlich sein.",
+              "Tragen Sie auch im Bus Ihre Regenjacke griffbereit.",
+              "Die Wartebereiche im Zentrum bieten den besten Schutz."
+            ],
+            "hu": [
+              "Használja az alkalmazást a valós idejű menetrendhez.",
+              "Készítsen elő aprópénzt a jegyvásárláshoz.",
+              "Erős esőben a buszok menetrendje módosulhat.",
+              "A buszon is tartsa kéznél az esőkabátját.",
+              "A központi várakozóhelyek nyújtják a legjobb védelmet."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru informații în timp real despre întârzieri.",
+              "Pregătiți bani mărunți pentru achiziționarea biletelor.",
+              "Autobuzele pot avea întârzieri în caz de ploaie torențială.",
+              "Păstrați pelerina de ploaie la îndemână chiar și în autobuz.",
+              "Zonele de așteptare din centru oferă cel mai bun adăpost."
+            ],
+            "en": [
+              "Use the transit app for real-time updates on any delays.",
+              "Have small change ready for buying tickets from the driver.",
+              "Buses may be less punctual during heavy rainstorms.",
+              "Keep your rain jacket handy even while on the bus.",
+              "Waiting areas in the town center offer the best shelter."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Penamacor im Winter ganz entspannt mit dem Bus. Starten Sie am Vormittag im historischen Zentrum. Mittags wärmen Sie sich im Museum auf, während Sie auf den nächsten Anschluss warten. Den Nachmittag verbringen Sie am Schloss, bevor Sie mit dem letzten Tageslicht den Bus zurück nehmen und den Abend in einer gemütlichen Stube ausklingen lassen.",
+            "hu": "Fedezze fel Penamacort télen is kényelmesen, busszal. Kezdje a délelőttöt a történelmi központban. Ebéd után melegedjen fel a múzeumban, miközben a következő járatra vár. Töltse a délutánt a várnál, majd az utolsó fénysugarakkal szálljon buszra, és zárja az estét egy barátságos helyi fogadóban.",
+            "ro": "Descoperiți Penamacor iarna într-un mod relaxat cu autobuzul. Începeți dimineața în centrul istoric. După prânz, încălziți-vă în muzeu în timp ce așteptați următoarea conexiune. Petreceți după-amiaza la castel, apoi luați autobuzul înapoi înainte de lăsarea serii.",
+            "en": "Discover Penamacor in winter with a relaxed bus journey. Start your morning in the historic center. Warm up at the museum during midday while waiting for your next connection. Spend the afternoon at the castle before catching a bus back as the sun sets, ending your day in a cozy local tavern."
+          },
+          "stops": [
+            {
+              "name": "Main Church & Pillory",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle mit kurzem Weg zum Aufwärmen.",
+                "hu": "Központi megálló, ahonnan gyorsan beérhet egy meleg helyre.",
+                "ro": "Stație centrală cu acces rapid la locuri încălzite.",
+                "en": "Central stop with quick access to warm indoor spots."
+              }
+            },
+            {
+              "name": "Municipal Museum of Penamacor",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum als warmen Warteraum.",
+                "hu": "Használja a múzeumot meleg váróteremként a járatok között.",
+                "ro": "Folosiți muzeul ca sală de așteptare călduroasă.",
+                "en": "Use the museum as a warm waiting area between buses."
+              }
+            },
+            {
+              "name": "Castle of Penamacor",
+              "tip_5lang": {
+                "de": "Letzte Busfahrt vor Sonnenuntergang einplanen.",
+                "hu": "Tervezze az utolsó buszt még a naplemente előttre.",
+                "ro": "Planificați ultima cursă de autobuz înainte de apus.",
+                "en": "Plan to catch the last bus before the early sunset."
+              }
+            },
+            {
+              "name": "Convent of Saint Anthony",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Haltestelle kann windig sein.",
+                "hu": "A megállótól vezető séta télen szeles lehet.",
+                "ro": "Drumul pe jos de la stație poate fi destul de vântos.",
+                "en": "The walk from the bus stop can be quite windy in winter."
+              }
+            },
+            {
+              "name": "Riverside Walk",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; achten Sie auf den Fahrplan.",
+                "hu": "Rövid megálló; figyeljen a ritkább téli menetrendre.",
+                "ro": "Popas scurt; atenție la programul de iarnă redus.",
+                "en": "Short stop; keep an eye on the reduced winter schedule."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie die ausgedünnten Fahrpläne in den Ferien.",
+              "Warten Sie in Cafés statt an zugigen Haltestellen.",
+              "Tragen Sie warme Kleidung für die Wartezeiten.",
+              "Die Busse sind im Winter meist gut beheizt.",
+              "Nutzen Sie die frühen Verbindungen für maximales Licht."
+            ],
+            "hu": [
+              "Ügyeljen a ritkább menetrendre az ünnepi időszakban.",
+              "Várjon inkább kávézókban a huzatos megállók helyett.",
+              "Öltözzön melegen a várakozási időkre való tekintettel.",
+              "A buszok télen általában jól fűtöttek.",
+              "Használja a korai járatokat a legtöbb fény kihasználásához."
+            ],
+            "ro": [
+              "Atenție la orarul redus în perioadele de vacanță.",
+              "Așteptați în cafenele în loc de stațiile unde trage curentul.",
+              "Purtați haine groase pentru perioadele de așteptare.",
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Folosiți conexiunile matinale pentru a profita de lumină."
+            ],
+            "en": [
+              "Be aware of reduced transit schedules during holidays.",
+              "Wait in nearby cafés instead of drafty bus stops.",
+              "Wear extra warm clothing for the waiting periods.",
+              "Buses are usually well-heated during the winter months.",
+              "Take early connections to make the most of the daylight."
+            ]
+          }
+        }
       }
     }
   }

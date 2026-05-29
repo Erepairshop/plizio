@@ -356,6 +356,188 @@
           "Check the weather forecast and dress in layers.",
           "A small backpack for snacks and water is a good idea."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt wettergeschützt im Skedsmosenteret, wo man gemütlich in den Tag starten kann. Ein kurzer Spaziergang führt zur historischen Kirche, bevor es zum Huseby-Hof geht, dessen Gebäude Schutz vor den Schauern bieten. Nach einem stärkenden Mittagessen im Hotel Olavsgaard erkunden wir die neblige Flusslandschaft der Leira. Der Tag endet sicher und trocken wieder im Stadtzentrum.",
+            "hu": "A reggel a Skedsmosenteret fedett üzletei között indul, védve az esőtől. Később a templom és a Huseby gazdaság történelmi falai adnak menedéket a záporok elől. A bőséges ebéd után az Olavsgaard Hotelben a Leira-folyó menti párás, de hangulatos tájat fedezzük fel. A napot végül szárazon, a városközpontba visszatérve zárjuk, ahol minden elérhető közelségben van.",
+            "ro": "Dimineața începe la adăpost în Skedsmosenteret, un loc ideal pentru a evita ploaia. O scurtă plimbare vă duce la biserica istorică și apoi la ferma Huseby, unde clădirile vechi oferă refugiu. După un prânz cald la Hotelul Olavsgaard, explorăm peisajul mistic al râului Leira sub cerul înnorat. Ziua se încheie confortabil înapoi în centrul orașului, aproape de facilități.",
+            "en": "The morning starts protected from the elements at Skedsmosenteret, perfect for a dry start. A short walk leads to the historic church and Huseby Farm, where the old buildings provide shelter from the rain. After a hearty lunch at Olavsgaard Hotel, we explore the misty river landscape of Leira. The day ends back at the town center, ensuring you stay dry and close to local amenities."
+          },
+          "stops": [
+            {
+              "name": "Skedsmosenteret (Town Center)",
+              "tip_5lang": {
+                "de": "Idealer Ort, um auf das Ende eines starken Regenschauers zu warten.",
+                "hu": "Ideális hely megvárni a hevesebb záporok végét.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei averse puternice.",
+                "en": "Ideal place to wait out a heavy rain shower."
+              }
+            },
+            {
+              "name": "Skedsmo Church",
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern bieten einen ruhigen, trockenen Rückzugsort.",
+                "hu": "A vastag kőfalak csendes, száraz menedéket nyújtanak.",
+                "ro": "Zidurile groase de piatră oferă un refugiu liniștit și uscat.",
+                "en": "The thick stone walls offer a quiet, dry sanctuary."
+              }
+            },
+            {
+              "name": "Huseby Farm",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Innenräume der historischen Gebäude bei Regen.",
+                "hu": "Esőben látogassa meg a történelmi épületek belső tereit.",
+                "ro": "Vizitați interioarele clădirilor istorice dacă plouă.",
+                "en": "Visit the interiors of the historical buildings during rain."
+              }
+            },
+            {
+              "name": "Olavsgaard Hotel (Lunch)",
+              "tip_5lang": {
+                "de": "Genießen Sie das warme Buffet, während es draußen regnet.",
+                "hu": "Élvezze a meleg büfét, miközben kint esik az eső.",
+                "ro": "Bucurați-vă de bufetul cald în timp ce afară plouă.",
+                "en": "Enjoy the warm buffet while it rains outside."
+              }
+            },
+            {
+              "name": "Leira River Landscape",
+              "tip_5lang": {
+                "de": "Vorsicht, die Uferwege können bei Nässe rutschig und schlammig sein.",
+                "hu": "Vigyázat, a folyóparti utak nedvesen csúszósak és sárosak lehetnek.",
+                "ro": "Atenție, potecile de pe malul râului pot fi alunecoase și noroioase.",
+                "en": "Caution, the riverbank paths can be slippery and muddy when wet."
+              }
+            },
+            {
+              "name": "Return to Skedsmosenteret",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgarage, um trocken zu Ihrem Fahrzeug zu gelangen.",
+                "hu": "Használja a mélygarázst, hogy szárazon jusson vissza autójához.",
+                "ro": "Folosiți parcarea subterană pentru a ajunge uscat la vehicul.",
+                "en": "Use the underground parking to reach your vehicle dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Wege am Fluss.",
+              "Regenschirme sind bei Wind in dieser Gegend oft unpraktisch, wählen Sie lieber eine Regenjacke.",
+              "Die Einkaufszentren bieten kostenloses WLAN und trockene Sitzgelegenheiten.",
+              "Achten Sie auf Pfützen auf den Gehwegen entlang der Hauptstraße."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a folyóparti szakaszokon.",
+              "Az esernyő a szélben itt nem praktikus, válasszon inkább esőkabátot.",
+              "A bevásárlóközpontok ingyenes wifit és száraz pihenőhelyeket kínálnak.",
+              "Ügyeljen a tócsákra a főút melletti járdákon."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție impermeabilă pentru porțiunile de râu.",
+              "Umbrelele sunt adesea inutile din cauza vântului, alegeți o pelerină de ploaie.",
+              "Centrele comerciale oferă Wi-Fi gratuit și locuri de odihnă uscate.",
+              "Atenție la bălțile de pe trotuarele de-a lungul drumului principal."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the river sections.",
+              "Umbrellas are often impractical in the wind here, choose a raincoat instead.",
+              "Shopping centers offer free Wi-Fi and dry seating areas.",
+              "Watch out for puddles on the sidewalks along the main road."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter glitzert Skedsmokorset unter einer Schneedecke. Wir starten am beleuchteten Einkaufszentrum und wandern durch die verschneite Landschaft zur Kirche. Der Huseby-Hof wirkt in der Kälte wie aus einer anderen Zeit. Nach einem wärmenden Mittagessen im Olavsgaard Hotel nutzen wir das schwindende Tageslicht für einen Spaziergang an der gefrorenen Leira, bevor wir uns im Zentrum aufwärmen.",
+            "hu": "Télen Skedsmokorset csillogó hótakaró alá bújik. A kivilágított bevásárlóközponttól indulunk, majd a havas tájon át sétálunk a templomhoz. A Huseby gazdaság a hidegben egy másik korszakot idéz. Az Olavsgaard Hotel melegítő ebédje után kihasználjuk a kevés nappali fényt a befagyott Leira-folyó mentén, végül a központban melegszünk fel.",
+            "ro": "Iarna, Skedsmokorset strălucește sub zăpadă. Începem de la centrul comercial luminat și mergem prin peisajul înzăpezit către biserică. Ferma Huseby pare desprinsă din altă epocă în gerul iernii. După un prânz revigorant la Hotelul Olavsgaard, profităm de puțina lumină a zilei pentru o plimbare pe lângă Leira înghețată, revenind apoi la căldură.",
+            "en": "In winter, Skedsmokorset glitters under a blanket of snow. We start at the illuminated shopping center and hike through the snowy landscape to the church. Huseby Farm feels like a different era in the cold. After a warming lunch at Olavsgaard Hotel, we take advantage of the limited daylight for a walk by the frozen Leira, finally warming up back at the center."
+          },
+          "stops": [
+            {
+              "name": "Skedsmosenteret (Town Center)",
+              "tip_5lang": {
+                "de": "Holen Sie sich hier einen heißen Kaffee für den Spaziergang.",
+                "hu": "Vegyél itt egy forró kávét a sétához.",
+                "ro": "Luați o cafea fierbinte de aici pentru plimbare.",
+                "en": "Grab a hot coffee here for your walk."
+              }
+            },
+            {
+              "name": "Skedsmo Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stufen am Kircheneingang.",
+                "hu": "Ügyeljen a jeges lépcsőkre a templom bejáratánál.",
+                "ro": "Atenție la treptele înghețate de la intrarea în biserică.",
+                "en": "Watch out for icy steps at the church entrance."
+              }
+            },
+            {
+              "name": "Huseby Farm",
+              "tip_5lang": {
+                "de": "Die historischen Holzgebäude sind im Schnee besonders fotogen.",
+                "hu": "A történelmi faépületek különösen szépek a hóban.",
+                "ro": "Clădirile istorice din lemn sunt foarte fotogenice în zăpadă.",
+                "en": "The historic wooden buildings are very photogenic in the snow."
+              }
+            },
+            {
+              "name": "Olavsgaard Hotel (Lunch)",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um sich zwischen den Besichtigungen aufzuwärmen.",
+                "hu": "Tökéletes hely a felmelegedéshez a látnivalók között.",
+                "ro": "Un loc perfect pentru a vă încălzi între vizite.",
+                "en": "A perfect place to warm up between sights."
+              }
+            },
+            {
+              "name": "Leira River Landscape",
+              "tip_5lang": {
+                "de": "Betreten Sie niemals das Eis auf dem Fluss, es ist unberechenbar.",
+                "hu": "Soha ne lépjen a folyó jegére, mert kiszámíthatatlan.",
+                "ro": "Nu călcați niciodată pe gheața râului, este imprevizibilă.",
+                "en": "Never step onto the river ice, it is unpredictable."
+              }
+            },
+            {
+              "name": "Return to Skedsmosenteret",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier ab 16:00 Uhr dunkel, genießen Sie die Lichter.",
+                "hu": "Télen már délután 4-kor sötét van, élvezze a fényeket.",
+                "ro": "Iarna se întunecă aici de la ora 16:00, bucurați-vă de lumini.",
+                "en": "In winter it gets dark here from 4:00 PM, enjoy the lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip mit Wolle als Basisschicht.",
+              "Die Sonne geht im Dezember gegen 15:15 Uhr unter.",
+              "Tragen Sie Schuhspikes (Brodder) bei Glatteisgefahr.",
+              "Die Wege werden geräumt, können aber dennoch rutschig sein."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, gyapjú alsóneművel.",
+              "Decemberben a nap már délután negyed 4 körül lemegy.",
+              "Jegesedés esetén használjon csúszásgátló talpat (brodder).",
+              "Az utakat takarítják, de így is lehetnek csúszós szakaszok."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, cu lână ca strat de bază.",
+              "În decembrie, soarele apune în jurul orei 15:15.",
+              "Folosiți crampoane pentru încălțăminte dacă este polei.",
+              "Drumurile sunt deszăpezite, dar pot fi totuși alunecoase."
+            ],
+            "en": [
+              "Dress in layers with wool as a base layer.",
+              "In December, the sun sets around 3:15 PM.",
+              "Use shoe spikes (brodder) if there is a risk of black ice.",
+              "Paths are cleared but can still be slippery."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +888,188 @@
           "Bring a bike lock.",
           "The hills can be challenging, so be prepared for some climbs."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert die richtige Ausrüstung. Wir starten im Zentrum und fahren zum Sagelva-Kulturerbe, wo das Rauschen des Wassers bei Regen noch intensiver ist. Über den Huseby-Hof geht es zum Mittagessen ins Olavsgaard. Am Nachmittag fordern uns die Anstiege von Brånåsen und Tæruddalen auf nassen Waldwegen heraus, bevor wir die Tour abschließen.",
+            "hu": "Egy esős bringázáshoz elengedhetetlen a jó felszerelés. A központból a Sagelva ipari örökségéhez tekerünk, ahol a víz zúgása esőben még erősebb. A Huseby gazdaság érintésével érkezünk ebédre az Olavsgaardba. Délután a Brånåsen és Tæruddalen emelkedői nedves erdei utakon tesznek próbára, mielőtt befejeznénk a túrát.",
+            "ro": "O tură cu bicicleta în ploaie necesită echipament adecvat. Pornim din centru spre patrimoniul Sagelva, unde sunetul apei este mai intens pe ploaie. Trecem pe la ferma Huseby spre prânzul de la Olavsgaard. După-amiaza, pantele de la Brånåsen și Tæruddalen ne provoacă pe poteci forestiere ude, înainte de a încheia tura.",
+            "en": "A bike ride in the rain requires the right gear. We start in the center and cycle to Sagelva Heritage, where the sound of the water is even more intense in the rain. Via Huseby Farm, we arrive at Olavsgaard for lunch. In the afternoon, the climbs of Brånåsen and Tæruddalen challenge us on wet forest paths before finishing the tour."
+          },
+          "stops": [
+            {
+              "name": "Skedsmosenteret (Town Center)",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start auf nassen Straßen.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a vizes utakra való tekintettel.",
+                "ro": "Verificați frânele înainte de a porni pe drumuri ude.",
+                "en": "Check your brakes before starting on wet roads."
+              }
+            },
+            {
+              "name": "Sagelva Cultural Heritage",
+              "tip_5lang": {
+                "de": "Die Holzstege können bei Nässe extrem rutschig sein.",
+                "hu": "A fapallók nedvesen rendkívül csúszósak lehetnek.",
+                "ro": "Podiumurile de lemn pot fi extrem de alunecoase când sunt ude.",
+                "en": "The wooden boardwalks can be extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Huseby Farm",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Dachüberständen ab.",
+                "hu": "Parkolja le a bringát az ereszek alatt.",
+                "ro": "Parcați bicicleta sub streșinile clădirilor.",
+                "en": "Park your bike under the eaves of the buildings."
+              }
+            },
+            {
+              "name": "Olavsgaard Hotel (Lunch)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit, um Ihre Kleidung etwas zu trocknen.",
+                "hu": "Használja ki az időt a ruházat szárítására.",
+                "ro": "Folosiți timpul pentru a vă usca puțin hainele.",
+                "en": "Use the time to dry your clothes a bit."
+              }
+            },
+            {
+              "name": "Brånåsen",
+              "tip_5lang": {
+                "de": "Fahren Sie in den Kurven auf dem nassen Asphalt vorsichtig.",
+                "hu": "Kanyarodjon óvatosan a nedves aszfalton.",
+                "ro": "Virați cu atenție pe asfaltul umed.",
+                "en": "Turn carefully on the wet asphalt."
+              }
+            },
+            {
+              "name": "Tæruddalen",
+              "tip_5lang": {
+                "de": "Die Waldwege sind schlammig, Schutzbleche sind sehr empfohlen.",
+                "hu": "Az erdei utak sárosak, a sárvédő erősen ajánlott.",
+                "ro": "Potecile de pădure sunt noroioase, aripile sunt recomandate.",
+                "en": "Forest paths are muddy, fenders are highly recommended."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Überschuhen wird empfohlen.",
+              "Verringern Sie den Reifendruck leicht für besseren Grip.",
+              "Halten Sie Abstand zu anderen Verkehrsteilnehmern wegen längerer Bremswege.",
+              "Ein wasserdichter Rucksack schützt Ihre Wertsachen."
+            ],
+            "hu": [
+              "Teljes esőruházat és kamásli ajánlott.",
+              "Csökkentse kissé a guminyomást a jobb tapadásért.",
+              "Tartson nagyobb követési távolságot a hosszabb fékút miatt.",
+              "Vízálló hátizsák védi az értékeit."
+            ],
+            "ro": [
+              "Se recomandă costum complet de ploaie și protecții pentru pantofi.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună.",
+              "Păstrați distanța față de ceilalți din cauza distanței de frânare mai mari.",
+              "Un rucsac impermeabil vă protejează obiectele de valoare."
+            ],
+            "en": [
+              "Full rain gear including shoe covers is recommended.",
+              "Lower your tire pressure slightly for better grip.",
+              "Keep your distance from others due to longer braking distances.",
+              "A waterproof backpack protects your valuables."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Radfahren in Norwegen ist ein Abenteuer. Mit Spikereifen starten wir im Zentrum und erkunden die Industriegeschichte von Sagelva im Schnee. Nach dem Huseby-Hof wärmen wir uns im Olavsgaard auf. Die frostigen Anstiege nach Brånåsen bieten klare Winterluft, und in Tæruddalen erleben wir die Stille des verschneiten Waldes, bevor die Dämmerung einsetzt.",
+            "hu": "A téli bringázás Norvégiában igazi kaland. Szöges gumikkal indulunk a központból, és a hóban fedezzük fel Sagelva ipari múltját. A Huseby gazdaság után az Olavsgaardban melegszünk fel. Brånåsen fagyos emelkedői tiszta téli levegőt kínálnak, Tæruddalenben pedig a havas erdő csendjét élvezzük a szürkület beállta előtt.",
+            "ro": "Ciclismul de iarnă în Norvegia este o aventură. Cu cauciucuri cu ținte, pornim din centru și explorăm istoria industrială a Sagelva în zăpadă. După ferma Huseby, ne încălzim la Olavsgaard. Pantele înghețate spre Brånåsen oferă aer curat de iarnă, iar în Tæruddalen experimentăm liniștea pădurii înzăpezite înainte de amurg.",
+            "en": "Winter cycling in Norway is an adventure. With studded tires, we start from the center and explore the industrial history of Sagelva in the snow. After Huseby Farm, we warm up at Olavsgaard. The frosty climbs to Brånåsen offer crisp winter air, and in Tæruddalen, we experience the silence of the snowy forest before dusk sets in."
+          },
+          "stops": [
+            {
+              "name": "Skedsmosenteret (Town Center)",
+              "tip_5lang": {
+                "de": "Spikereifen (Piggdekk) sind für diese Tour zwingend erforderlich.",
+                "hu": "A szöges gumi (piggdekk) kötelező ehhez a túrához.",
+                "ro": "Cauciucurile cu ținte (piggdekk) sunt obligatorii pentru această tură.",
+                "en": "Studded tires (piggdekk) are mandatory for this tour."
+              }
+            },
+            {
+              "name": "Sagelva Cultural Heritage",
+              "tip_5lang": {
+                "de": "Achten Sie auf verborgene Eisplatten unter dem Pulverschnee.",
+                "hu": "Ügyeljen a porhó alatt megbújó jégfoltokra.",
+                "ro": "Atenție la plăcile de gheață ascunse sub zăpada proaspătă.",
+                "en": "Watch out for hidden ice patches under the powder snow."
+              }
+            },
+            {
+              "name": "Huseby Farm",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Muskeln in Bewegung zu halten.",
+                "hu": "Rövid megálló, hogy az izmok mozgásban maradjanak.",
+                "ro": "Oprire scurtă pentru a menține mușchii în mișcare.",
+                "en": "Short stop to keep your muscles moving."
+              }
+            },
+            {
+              "name": "Olavsgaard Hotel (Lunch)",
+              "tip_5lang": {
+                "de": "Tauen Sie Ihre Wasserflaschen auf, falls sie eingefroren sind.",
+                "hu": "Olvassza ki a kulacsát, ha befagyott.",
+                "ro": "Dezghețați bidoanele cu apă dacă au înghețat.",
+                "en": "Thaw your water bottles if they have frozen."
+              }
+            },
+            {
+              "name": "Brånåsen",
+              "tip_5lang": {
+                "de": "Der Anstieg hält Sie warm, aber ziehen Sie für die Abfahrt mehr an.",
+                "hu": "Az emelkedő melegen tart, de a lejtőre öltözzön fel jobban.",
+                "ro": "Urcarea vă ține de cald, dar îmbrăcați-vă mai bine pentru coborâre.",
+                "en": "The climb keeps you warm, but dress more for the descent."
+              }
+            },
+            {
+              "name": "Tæruddalen",
+              "tip_5lang": {
+                "de": "Schalten Sie spätestens um 15:00 Uhr Ihr Licht ein.",
+                "hu": "Legkésőbb délután 3-kor kapcsolja be a világítást.",
+                "ro": "Aprindeți luminile cel târziu la ora 15:00.",
+                "en": "Turn on your lights by 3:00 PM at the latest."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Batterien, die kälteresistent sind, für Ihr Licht.",
+              "Wollhandschuhe unter Windstoppern sind ideal.",
+              "Vermeiden Sie starkes Bremsen in Kurven auf Eis.",
+              "Ein Thermo-Trinkbeutel verhindert das Einfrieren Ihres Getränks."
+            ],
+            "hu": [
+              "Használjon hidegtűrő elemeket a világításhoz.",
+              "A szélálló kesztyű alatt viseljen gyapjút.",
+              "Kerülje az erős fékezést a jeges kanyarokban.",
+              "A hőszigetelt kulacs megakadályozza az ital befagyását."
+            ],
+            "ro": [
+              "Folosiți baterii rezistente la frig pentru lumini.",
+              "Mănușile de lână sub cele de vânt sunt ideale.",
+              "Evitați frânarea bruscă în curbe pe gheață.",
+              "Un bidon termic previne înghețarea băuturii."
+            ],
+            "en": [
+              "Use cold-resistant batteries for your lights.",
+              "Wool gloves under windstoppers are ideal.",
+              "Avoid heavy braking in corners on ice.",
+              "A thermal water bottle prevents your drink from freezing."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1086,6 +1450,206 @@
           "Speed limits are strict and fines are high.",
           "Have a good navigation app or GPS."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist man in Skedsmokorset bestens für Regentage gerüstet. Wir starten bequem am Einkaufszentrum und fahren zur Kirche und zum Huseby-Hof, wobei wir kaum nass werden. Das Mittagessen im Olavsgaard ist ein Highlight, bevor wir zur Sagelva und den Aussichtspunkten fahren, wo die Wolken tief über den Wäldern hängen und für eine dramatische Atmosphäre sorgen.",
+            "hu": "Autóval Skedsmokorsetben a legjobb az esős napokat átvészelni. Kényelmesen indulunk a bevásárlóközponttól, majd a templomhoz és a Huseby gazdasághoz hajtunk, alig érve az esőhöz. Az Olavsgaard-i ebéd kiemelkedő pontja a napnak, mielőtt Sagelva és a kilátók felé vennénk az irányt, ahol a mélyen szálló felhők drámai látványt nyújtanak.",
+            "ro": "Cu mașina, sunteți cel mai bine pregătiți pentru zilele ploioase în Skedsmokorset. Pornim confortabil de la centrul comercial spre biserică și ferma Huseby, fără a ne uda prea mult. Prânzul la Olavsgaard este un punct culminant, înainte de a merge la Sagelva și punctele de belvedere, unde norii joși oferă o atmosferă dramatică.",
+            "en": "By car, you are best equipped for rainy days in Skedsmokorset. We start comfortably at the shopping center and drive to the church and Huseby Farm, barely getting wet. Lunch at Olavsgaard is a highlight before driving to Sagelva and the viewpoints, where low clouds over the forests create a dramatic atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Skedsmosenteret",
+              "tip_5lang": {
+                "de": "Kostenlose Parkplätze im Parkhaus machen den Start einfach.",
+                "hu": "Az ingyenes parkolóház megkönnyíti az indulást.",
+                "ro": "Parcarea gratuită în garaj facilitează pornirea.",
+                "en": "Free parking in the garage makes the start easy."
+              }
+            },
+            {
+              "name": "Skedsmo Church",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Tor, um den Weg im Regen zu verkürzen.",
+                "hu": "Parkoljon közvetlenül a kapunál, hogy lerövidítse az utat az esőben.",
+                "ro": "Parcați chiar la poartă pentru a scurta drumul prin ploaie.",
+                "en": "Park right at the gate to shorten the walk in the rain."
+              }
+            },
+            {
+              "name": "Cluster B: Huseby Farm",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße kann bei starkem Regen viele Pfützen haben.",
+                "hu": "A bekötőúton sok tócsa lehet heves esőzéskor.",
+                "ro": "Drumul de acces poate avea multe bălți în caz de ploaie torențială.",
+                "en": "The access road can have many puddles during heavy rain."
+              }
+            },
+            {
+              "name": "Olavsgaard Hotel (Lunch)",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt vor dem Hoteleingang vorhanden.",
+                "hu": "Nagy parkoló áll rendelkezésre közvetlenül a szálloda bejárata előtt.",
+                "ro": "Parcare mare disponibilă chiar în fața intrării în hotel.",
+                "en": "Large parking lot available directly in front of the hotel entrance."
+              }
+            },
+            {
+              "name": "Cluster C: Sagelva Cultural Heritage",
+              "tip_5lang": {
+                "de": "Einige Parkbereiche können bei Nässe etwas schlammig sein.",
+                "hu": "Néhány parkolóhely sáros lehet nedves időben.",
+                "ro": "Unele zone de parcare pot fi puțin noroioase când este ud.",
+                "en": "Some parking areas can be a bit muddy when wet."
+              }
+            },
+            {
+              "name": "Tæruddalen",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Parkplätzen am Sportkomplex.",
+                "hu": "Maradjon a sportkomplexum melletti burkolt parkolókban.",
+                "ro": "Rămâneți în parcările asfaltate de lângă complexul sportiv.",
+                "en": "Stay in the paved parking lots by the sports complex."
+              }
+            },
+            {
+              "name": "Brånåsen Viewpoint",
+              "tip_5lang": {
+                "de": "Die Aussicht ist auch aus dem Auto bei Regen reizvoll.",
+                "hu": "A kilátás az autóból is élvezhető esőben.",
+                "ro": "Priveliștea este plăcută chiar și din mașină pe ploaie.",
+                "en": "The view is also pleasant from the car during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer auf Funktionstüchtigkeit.",
+              "Halten Sie die Fenster leicht geöffnet, um Beschlagen zu verhindern.",
+              "Achten Sie auf Fußgänger an Bushaltestellen, die vor Regen flüchten.",
+              "Die Straßen sind gut ausgebaut, aber bei Aquaplaning-Gefahr vorsichtig fahren."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlők állapotát.",
+              "Tartsa résnyire nyitva az ablakot a párásodás ellen.",
+              "Figyeljen az eső elől menekülő gyalogosokra a buszmegállóknál.",
+              "Az utak jók, de aquaplaning veszély esetén vezessen óvatosan."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor de parbriz.",
+              "Țineți fereastra ușor deschisă pentru a preveni aburirea.",
+              "Atenție la pietonii de la stațiile de autobuz care se adăpostesc de ploaie.",
+              "Drumurile sunt bune, dar conduceți cu atenție în caz de acvaplanare."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers.",
+              "Keep the window slightly open to prevent fogging.",
+              "Watch out for pedestrians at bus stops taking shelter from the rain.",
+              "The roads are good, but drive carefully if there's a risk of aquaplaning."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Skedsmokorset zeigt die norwegische Gemütlichkeit. Vom verschneiten Einkaufszentrum geht es zur festlich wirkenden Kirche und dem Huseby-Hof. Das Mittagessen im Olavsgaard bietet wohlige Wärme. Am Nachmittag genießen wir die Wintersonne an der Sagelva und fahren zum Brånåsen-Aussichtspunkt, um das blaue Licht der norwegischen Dämmerung über der weißen Landschaft zu bewundern.",
+            "hu": "Egy téli autózás Skedsmokorsetben megmutatja a norvég barátságosságot. A havas bevásárlóközponttól az ünnepi hangulatú templomhoz és a Huseby gazdasághoz hajtunk. Az Olavsgaard ebédje kellemes meleget ad. Délután a Sagelvánál élvezzük a téli napsütést, majd a Brånåsen kilátóhoz megyünk, hogy megcsodáljuk a szürkület kék fényeit a fehér táj felett.",
+            "ro": "O plimbare de iarnă prin Skedsmokorset arată ospitalitatea norvegiană. De la centrul comercial înzăpezit mergem spre biserica festivă și ferma Huseby. Prânzul de la Olavsgaard oferă căldură confortabilă. După-amiaza ne bucurăm de soarele de iarnă la Sagelva și mergem la punctul de belvedere Brånåsen pentru a admira lumina albastră a amurgului.",
+            "en": "A winter drive through Skedsmokorset showcases Norwegian coziness. From the snowy shopping center, we drive to the festive-looking church and Huseby Farm. Lunch at Olavsgaard offers cozy warmth. In the afternoon, we enjoy the winter sun at Sagelva and drive to the Brånåsen viewpoint to admire the blue light of the Norwegian twilight over the white landscape."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Skedsmosenteret",
+              "tip_5lang": {
+                "de": "Befreien Sie Ihr Fahrzeugdach vollständig von Schnee vor der Abfahrt.",
+                "hu": "Indulás előtt teljesen takarítsa le a havat az autó tetejéről.",
+                "ro": "Curățați complet zăpada de pe plafonul mașinii înainte de plecare.",
+                "en": "Completely clear snow from the roof of your vehicle before starting."
+              }
+            },
+            {
+              "name": "Skedsmo Church",
+              "tip_5lang": {
+                "de": "Die Parkplätze können vereist sein, bremsen Sie frühzeitig.",
+                "hu": "A parkolók jegesek lehetnek, fékezzen időben.",
+                "ro": "Parcările pot fi înghețate, frânați din timp.",
+                "en": "Parking lots can be icy, brake early."
+              }
+            },
+            {
+              "name": "Cluster B: Huseby Farm",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Allradantrieb, falls vorhanden, auf der Zufahrt.",
+                "hu": "Használjon összkerékhajtást a bekötőúton, ha rendelkezésre áll.",
+                "ro": "Folosiți tracțiunea integrală pe drumul de acces, dacă este disponibilă.",
+                "en": "Use all-wheel drive on the access road if available."
+              }
+            },
+            {
+              "name": "Olavsgaard Hotel (Lunch)",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird regelmäßig geräumt, aber Vorsicht vor Glätte.",
+                "hu": "A parkolót rendszeresen takarítják, de vigyázzon a csúszós részekre.",
+                "ro": "Parcarea este deszăpezită regulat, dar atenție la polei.",
+                "en": "The parking lot is cleared regularly, but watch out for slippery spots."
+              }
+            },
+            {
+              "name": "Cluster C: Sagelva Cultural Heritage",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor bei kurzen Fotostopps nicht unnötig laufen.",
+                "hu": "Rövid fotómegállóknál ne járassa feleslegesen a motort.",
+                "ro": "Nu lăsați motorul pornit inutil la opririle scurte pentru poze.",
+                "en": "Don't leave the engine running unnecessarily during short photo stops."
+              }
+            },
+            {
+              "name": "Tæruddalen",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Batterie bei extremer Kälte fit ist.",
+                "hu": "Győződjön meg róla, hogy az akkumulátor bírja a nagy hideget.",
+                "ro": "Asigurați-vă că bateria este în stare bună pentru ger.",
+                "en": "Ensure your battery is fit for extreme cold."
+              }
+            },
+            {
+              "name": "Brånåsen Viewpoint",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang bequem aus der beheizten Kabine.",
+                "hu": "Élvezze a naplementét kényelmesen a fűtött utastérből.",
+                "ro": "Bucurați-vă de apus confortabil din cabina încălzită.",
+                "en": "Enjoy the sunset comfortably from the heated cabin."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Norwegen gesetzlich vorgeschrieben.",
+              "Führen Sie einen Eiskratzer und eine Schneeschaufel im Kofferraum mit.",
+              "Halten Sie den Tank mindestens halbvoll für Notfälle.",
+              "Achten Sie auf Wildwechsel (Elche) in der Dämmerung."
+            ],
+            "hu": [
+              "A téli gumi Norvégiában törvényi előírás.",
+              "Tartson jégkaparót és hólapátot a csomagtartóban.",
+              "Vészhelyzet esetére tartsa az üzemanyagszintet félig.",
+              "Vigyázzon a vadakra (szarvas, jávorszarvas) szürkületkor."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Norvegia.",
+              "Țineți o racletă și o lopată de zăpadă în portbagaj.",
+              "Păstrați rezervorul cel puțin pe jumătate plin pentru urgențe.",
+              "Atenție la animale sălbatice (elan) în amurg."
+            ],
+            "en": [
+              "Winter tires are mandatory by law in Norway.",
+              "Keep an ice scraper and a snow shovel in the trunk.",
+              "Keep the tank at least half full for emergencies.",
+              "Watch out for wildlife (moose) at dusk."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1442,6 +2006,188 @@
           "Be at the bus stop on time, especially in rural areas.",
           "Signal the driver for the bus to stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regenwetter ist kein Grund, Skedsmokorset nicht mit dem Bus zu erkunden. Wir starten am Skedsmosenteret und nutzen die regelmäßigen Verbindungen zur Kirche und zum Huseby-Hof. Das Mittagessen im Olavsgaard ist ein perfekter warmer Zwischenstopp. Am Nachmittag bringt uns der Bus zur Sagelva, bevor wir entspannt und trocken die Rückreise antreten.",
+            "hu": "Az esős idő nem akadály, hogy busszal fedezzük fel Skedsmokorsetet. A Skedsmosenterettől indulunk, kihasználva a templomhoz és a Huseby gazdasághoz tartó járatokat. Az Olavsgaard-i ebéd tökéletes meleg pihenő. Délután busszal megyünk Sagelvához, mielőtt kényelmesen és szárazon visszatérnénk.",
+            "ro": "Vremea ploioasă nu este un motiv pentru a nu explora Skedsmokorset cu autobuzul. Pornim de la Skedsmosenteret și folosim legăturile regulate către biserică și ferma Huseby. Prânzul la Olavsgaard este o oprire caldă perfectă. După-amiaza, autobuzul ne duce la Sagelva, înainte de a ne întoarce relaxați și uscați.",
+            "en": "Rainy weather is no reason not to explore Skedsmokorset by bus. We start at Skedsmosenteret and use the regular connections to the church and Huseby Farm. Lunch at Olavsgaard is a perfect warm stopover. In the afternoon, the bus takes us to Sagelva before we head back relaxed and dry."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Skedsmosenteret",
+              "tip_5lang": {
+                "de": "Warten Sie im Inneren des Centers auf die Busabfahrt.",
+                "hu": "Várja meg a buszindulást a központ belsejében.",
+                "ro": "Așteptați plecarea autobuzului în interiorul centrului comercial.",
+                "en": "Wait inside the center for the bus departure."
+              }
+            },
+            {
+              "name": "Skedsmo Church",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle hat ein kleines Wartehäuschen als Regenschutz.",
+                "hu": "A buszmegállóban kis váróterem ad védelmet az esőtől.",
+                "ro": "Stația de autobuz are un mic adăpost pentru protecție împotriva ploii.",
+                "en": "The bus stop has a small shelter for rain protection."
+              }
+            },
+            {
+              "name": "Cluster B: Huseby Farm",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten in der Ruter-App bei Regen.",
+                "hu": "Esőben ellenőrizze a visszautat a Ruter alkalmazásban.",
+                "ro": "Verificați orele de întoarcere în aplicația Ruter pe ploaie.",
+                "en": "Check return times in the Ruter app during rain."
+              }
+            },
+            {
+              "name": "Leira River Landscape",
+              "tip_5lang": {
+                "de": "Kürzen Sie den Spaziergang ab, wenn der Regen zu stark wird.",
+                "hu": "Rövidítse le a sétát, ha az eső túl erőssé válik.",
+                "ro": "Scurtați plimbarea dacă ploaia devine prea puternică.",
+                "en": "Shorten the walk if the rain becomes too heavy."
+              }
+            },
+            {
+              "name": "Cluster C: Olavsgaard (Lunch)",
+              "tip_5lang": {
+                "de": "Der Busbahnhof Olavsgaard ist ein wichtiger Knotenpunkt mit Schutz.",
+                "hu": "Az Olavsgaard buszállomás fontos, védett csomópont.",
+                "ro": "Autogara Olavsgaard este un nod important cu adăpost.",
+                "en": "Olavsgaard bus station is a major hub with shelter."
+              }
+            },
+            {
+              "name": "Sagelva Cultural Heritage",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um direkt zur Sagelva zu gelangen.",
+                "hu": "Használja a buszt, hogy közvetlenül Sagelvához jusson.",
+                "ro": "Folosiți autobuzul pentru a ajunge direct la Sagelva.",
+                "en": "Use the bus to get directly to Sagelva."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie die Ruter-App für Echtzeit-Informationen.",
+              "Kaufen Sie Ihr Ticket vorab in der App, um Zeit zu sparen.",
+              "Busse können bei starkem Regen leicht verspätet sein.",
+              "Halten Sie Kleingeld oder eine Karte für Notfälle bereit."
+            ],
+            "hu": [
+              "Használja a Ruter alkalmazást a valós idejű adatokhoz.",
+              "Vegye meg a jegyet előre az alkalmazásban időmegtakarítás céljából.",
+              "Heves esőzéskor a buszok kissé késhetnek.",
+              "Tartson magánál aprópénzt vagy kártyát vészhelyzetre."
+            ],
+            "ro": [
+              "Folosiți aplicația Ruter pentru informații în timp real.",
+              "Cumpărați biletul în avans în aplicație pentru a economisi timp.",
+              "Autobuzele pot avea întârzieri ușoare pe ploaie torențială.",
+              "Aveți pregătite mărunt sau un card pentru urgențe."
+            ],
+            "en": [
+              "Use the Ruter app for real-time information.",
+              "Buy your ticket in advance in the app to save time.",
+              "Buses may be slightly delayed during heavy rain.",
+              "Have some change or a card ready for emergencies."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus durch das winterliche Skedsmokorset ist komfortabel und warm. Wir starten am Skedsmosenteret und besuchen die verschneite Kirche und den Huseby-Hof. Die warmen Busse machen den Transfer zwischen den Stopps angenehm. Nach dem Mittagessen im Olavsgaard erkunden wir die Winterlandschaft an der Leira und Sagelva, bevor wir die Rückfahrt im beleuchteten Bus genießen.",
+            "hu": "Busszal a téli Skedsmokorsetben kényelmes és meleg. A Skedsmosenterettől indulunk, meglátogatjuk a havas templomot és a Huseby gazdaságot. A fűtött buszok kellemessé teszik a megállók közötti utat. Az Olavsgaard-i ebéd után felfedezzük a téli tájat a Leira és Sagelva mentén, majd élvezzük a hazautat a kivilágított buszon.",
+            "ro": "Cu autobuzul prin Skedsmokorset-ul de iarnă este confortabil și cald. Pornim de la Skedsmosenteret și vizităm biserica înzăpezită și ferma Huseby. Autobuzele încălzite fac transferul între opriri plăcut. După prânzul la Olavsgaard, explorăm peisajul de iarnă de la Leira și Sagelva, apoi ne bucurăm de drumul de întoarcere.",
+            "en": "By bus through wintery Skedsmokorset is comfortable and warm. We start at Skedsmosenteret and visit the snowy church and Huseby Farm. The warm buses make transfers between stops pleasant. After lunch at Olavsgaard, we explore the winter landscape at Leira and Sagelva before enjoying the ride back in the illuminated bus."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Skedsmosenteret",
+              "tip_5lang": {
+                "de": "Klopfen Sie den Schnee von Ihren Schuhen, bevor Sie den Bus betreten.",
+                "hu": "Rázza le a havat a cipőjéről, mielőtt felszáll a buszra.",
+                "ro": "Scuturați zăpada de pe încălțăminte înainte de a urca în autobuz.",
+                "en": "Shake the snow off your shoes before entering the bus."
+              }
+            },
+            {
+              "name": "Skedsmo Church",
+              "tip_5lang": {
+                "de": "Gehen Sie vorsichtig zur Haltestelle, die Wege können glatt sein.",
+                "hu": "Óvatosan menjen a megállóig, az utak csúszósak lehetnek.",
+                "ro": "Mergeți cu atenție până la stație, drumurile pot fi alunecoase.",
+                "en": "Walk carefully to the stop, paths can be slippery."
+              }
+            },
+            {
+              "name": "Cluster B: Huseby Farm",
+              "tip_5lang": {
+                "de": "Halten Sie sich in der Nähe von Laternen auf, wenn es dunkel wird.",
+                "hu": "Sötétedés után maradjon a lámpák közelében.",
+                "ro": "Stați în apropierea felinarelor când se întunecă.",
+                "en": "Stay near streetlights when it gets dark."
+              }
+            },
+            {
+              "name": "Leira River Landscape",
+              "tip_5lang": {
+                "de": "Beachten Sie die eingeschränkten Fahrpläne an Feiertagen im Winter.",
+                "hu": "Ügyeljen a téli ünnepek alatti korlátozott menetrendre.",
+                "ro": "Atenție la orarele reduse în timpul sărbătorilor de iarnă.",
+                "en": "Note the limited schedules during winter holidays."
+              }
+            },
+            {
+              "name": "Cluster C: Olavsgaard (Lunch)",
+              "tip_5lang": {
+                "de": "Die Wartehalle im Hotel ist warm und einladend.",
+                "hu": "A szálloda várócsarnoka meleg és hívogató.",
+                "ro": "Sala de așteptare din hotel este caldă și primitoare.",
+                "en": "The waiting hall in the hotel is warm and inviting."
+              }
+            },
+            {
+              "name": "Sagelva Cultural Heritage",
+              "tip_5lang": {
+                "de": "Tragen Sie einen Reflektor, damit der Busfahrer Sie im Dunkeln sieht.",
+                "hu": "Viseljen fényvisszaverőt, hogy a buszvezető lássa Önt a sötétben.",
+                "ro": "Purtați un reflector pentru ca șoferul să vă vadă în întuneric.",
+                "en": "Wear a reflector so the bus driver sees you in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Reflektoren (Refleks) sind im norwegischen Winter lebenswichtig.",
+              "Busse sind gut beheizt, also kleiden Sie sich variabel.",
+              "Bei starkem Schneefall können Fahrplanänderungen auftreten.",
+              "Die Haupthaltestellen sind oft überdacht und beleuchtet."
+            ],
+            "hu": [
+              "A fényvisszaverő (refleks) életmentő a norvég télben.",
+              "A buszok jól fűtöttek, így öltözzön változatosan.",
+              "Erős havazáskor előfordulhatnak menetrendi változások.",
+              "A fő megállók gyakran fedettek és kivilágítottak."
+            ],
+            "ro": [
+              "Reflectorizantele (refleks) sunt vitale în iarna norvegiană.",
+              "Autobuzele sunt bine încălzite, deci îmbrăcați-vă variabil.",
+              "Pot apărea modificări de orar în caz de ninsori abundente.",
+              "Stațiile principale sunt adesea acoperite și iluminate."
+            ],
+            "en": [
+              "Reflectors (refleks) are vital in the Norwegian winter.",
+              "Buses are well-heated, so dress adaptably.",
+              "Schedule changes may occur during heavy snowfall.",
+              "Main stops are often covered and illuminated."
+            ]
+          }
+        }
       }
     }
   }

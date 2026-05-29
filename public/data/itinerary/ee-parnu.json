@@ -386,6 +386,214 @@
           "Bring sunscreen and a hat for the beach, even on cloudy days.",
           "Many cafes offer free Wi-Fi."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt im kulturellen Zentrum, wo die Architektur den ersten Schauern trotzt. In der Mittagszeit bieten die historischen Tore und engen Gassen der Altstadt natürlichen Schutz vor dem Wind. Der Nachmittag steht im Zeichen des Museumsbesuchs, perfekt um dem Regen für längere Zeit zu entkommen. Der Abend klingt mit einem windgepeitschten Spaziergang an der Promenade aus, bei dem die salzige Meeresluft besonders intensiv spürbar ist.",
+            "hu": "A reggel kulturális központban kezdődik, ahol az épület falai védenek az első záporoktól. Ebédidőben a történelmi városkapuk és az óváros szűk utcái nyújtanak természetes menedéket a szél elől. A délutánt a múzeumban töltjük, amely tökéletes helyszín a hosszabb esőzés átvészelésére. Az estét egy szeles tengerparti séta zárja, ahol a sós tengeri levegő az esőben még intenzívebben érezhető.",
+            "ro": "Dimineața începe la adăpost în centrul cultural, unde arhitectura sfidează primele averse. La prânz, porțile istorice și străzile înguste ale orașului vechi oferă protecție naturală împotriva vântului. După-amiaza este dedicată vizitării muzeului, locul perfect pentru a scăpa de ploaie pentru mai mult timp. Seara se încheie cu o plimbare pe faleză, unde aerul sărat al mării se simte deosebit de intens în timpul ploii.",
+            "en": "The morning begins sheltered in the cultural center, where the architecture defies the first showers. At midday, the historical gates and narrow streets of the Old Town provide natural protection from the wind. The afternoon is dedicated to a museum visit, perfect for escaping the rain for an extended time. The evening concludes with a wind-swept walk on the promenade, where the salty sea air is particularly intense during the rain."
+          },
+          "stops": [
+            {
+              "name": "Endla Theater",
+              "tip_5lang": {
+                "de": "Das geräumige Foyer bietet einen trockenen Treffpunkt vor dem Start der Tour.",
+                "hu": "A tágas aula száraz találkozóhelyet kínál a túra megkezdése előtt.",
+                "ro": "Foaierul spațios oferă un punct de întâlnire uscat înainte de începerea turului.",
+                "en": "The spacious foyer offers a dry meeting point before starting the tour."
+              }
+            },
+            {
+              "name": "Tallinner Tor",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Durchgang des Tores als kurzen Unterschlupf bei plötzlichen Güssen.",
+                "hu": "Használja a kapualjat rövid menedékként hirtelen jött zápor esetén.",
+                "ro": "Folosiți pasajul porții ca adăpost scurt în cazul averselor bruște.",
+                "en": "Use the gate's passage as a quick shelter during sudden downpours."
+              }
+            },
+            {
+              "name": "Katharinenkirche",
+              "tip_5lang": {
+                "de": "Die prachtvolle Innenausstattung lässt sich am besten bei Regen in Ruhe bewundern.",
+                "hu": "A pompás belső teret esőben, nyugodt körülmények között csodálhatjuk meg a legjobban.",
+                "ro": "Interiorul splendid poate fi admirat cel mai bine în liniște atunci când plouă.",
+                "en": "The splendid interior is best admired in peace while it's raining outside."
+              }
+            },
+            {
+              "name": "Pärnu Museum",
+              "tip_5lang": {
+                "de": "Ideal für die regenreichste Zeit des Tages; planen Sie hier mindestens 90 Minuten ein.",
+                "hu": "Ideális a nap legesősebb szakaszára; tervezzen ide legalább 90 percet.",
+                "ro": "Ideal pentru cea mai ploioasă parte a zilei; planificați cel puțin 90 de minute aici.",
+                "en": "Ideal for the rainiest part of the day; plan at least 90 minutes here."
+              }
+            },
+            {
+              "name": "Villa Ammende",
+              "tip_5lang": {
+                "de": "Das elegante Interieur bietet eine stilvolle Flucht vor dem nassen Wetter.",
+                "hu": "Az elegáns belső tér stílusos menekülést kínál a vizes időjárás elől.",
+                "ro": "Interiorul elegant oferă o evadare stilată din calea vremii umede.",
+                "en": "The elegant interior offers a stylish escape from the wet weather."
+              }
+            },
+            {
+              "name": "Raimond-Valgre-Denkmal",
+              "tip_5lang": {
+                "de": "Die Statue wirkt im Regen besonders melancholisch, passend zur Musik des Komponisten.",
+                "hu": "A szobor esőben különösen melankolikus, jól illik a zeneszerző művészetéhez.",
+                "ro": "Statuia pare deosebit de melancolică în ploaie, potrivindu-se cu muzica compozitorului.",
+                "en": "The statue looks particularly melancholic in the rain, fitting the composer's music."
+              }
+            },
+            {
+              "name": "Pärnu Strandpromenade",
+              "tip_5lang": {
+                "de": "Wasserdichte Kleidung ist hier wegen der ungeschützten Lage und des Windes Pflicht.",
+                "hu": "Vízálló ruházat kötelező itt a nyitott terület és az erős szél miatt.",
+                "ro": "Îmbrăcămintea impermeabilă este obligatorie aici din cauza locației expuse și a vântului.",
+                "en": "Waterproof clothing is mandatory here due to the exposed location and wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Arkaden der Rüütli-Straße als natürlichen Regenschutz.",
+              "Die Meeresbrise kann Regenschirme schnell zerstören; eine gute Regenjacke ist besser.",
+              "Pärnu ist flach, aber Pfützen bilden sich schnell auf den Gehwegen.",
+              "Viele Cafés im Zentrum haben überdachte Terrassen mit Heizstrahlern.",
+              "Das Museum bietet Schließfächer für nasse Mäntel und Schirme."
+            ],
+            "hu": [
+              "Használja a Rüütli utca árkádjait természetes esővédőként.",
+              "A tengeri szél gyorsan tönkreteheti az esernyőket; egy jó esőkabát praktikusabb.",
+              "Pärnu sík terület, de a járdákon gyorsan kialakulhatnak tócsák.",
+              "A központban sok kávézó rendelkezik fedett, fűtött terasszal.",
+              "A múzeumban vannak értékmegőrzők a vizes kabátok és esernyők számára."
+            ],
+            "ro": [
+              "Folosiți arcadele de pe strada Rüütli ca protecție naturală împotriva ploii.",
+              "Briza mării poate distruge rapid umbrelele; o jachetă impermeabilă bună este mai utilă.",
+              "Pärnu este plat, dar se pot forma rapid bălți pe trotuare.",
+              "Multe cafenele din centru au terase acoperite cu încălzitoare.",
+              "Muzeul oferă dulapuri pentru hainele și umbrelele ude."
+            ],
+            "en": [
+              "Use the arcades of Rüütli Street as natural rain shelter.",
+              "The sea breeze can easily flip umbrellas; a high-quality raincoat is more practical.",
+              "Pärnu is flat, but puddles form quickly on the sidewalks.",
+              "Many downtown cafes have covered terraces with outdoor heaters.",
+              "The museum provides lockers for wet coats and umbrellas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen in Pärnu beginnt mit dem Anblick der dampfenden Schornsteine der Holzhaussiedlungen. Mittags glitzert der Schnee auf den Türmen der Kirchen, während man sich in kleinen Teestuben aufwärmt. Der frühe Sonnenuntergang am Nachmittag taucht die Ammende Villa in ein magisches Licht, bevor die Dunkelheit einsetzt. Den Abend verbringt man am besten bei einem Spaziergang über die gefrorene Bucht, wenn das Eis dick genug ist, unter dem klaren Sternenhimmel.",
+            "hu": "A fagyos reggel Pärnuban a faházak gőzölgő kéményeinek látványával indul. Ebédidőben a hó csillog a templomtornyokon, miközben kis teázókban melegszünk fel. A korai naplemente délután varázslatos fénybe öltözteti az Ammende Villát, mielőtt beáll a sötétség. Az estét a legérdemesebb a befagyott öböl jegén tett sétával tölteni, ha a jég elég vastag, a tiszta csillagos ég alatt.",
+            "ro": "Dimineața geroasă în Pärnu începe cu imaginea coșurilor fumegânde ale caselor de lemn. La prânz, zăpada sclipește pe turnurile bisericilor, în timp ce ne încălzim în ceainării mici. Apusul timpuriu de după-amiază scaldă Villa Ammende într-o lumină magică înainte de lăsarea întunericului. Seara este cel mai bine petrecută cu o plimbare pe golful înghețat, dacă gheața este destul de groasă, sub cerul senin înstelat.",
+            "en": "The frosty morning in Pärnu begins with the sight of steaming chimneys from the wooden house districts. At midday, snow glistens on the church spires while you warm up in small tea rooms. The early afternoon sunset bathes Villa Ammende in magical light before darkness sets in. The evening is best spent walking across the frozen bay, if the ice is thick enough, under the clear starry sky."
+          },
+          "stops": [
+            {
+              "name": "Endla Theater",
+              "tip_5lang": {
+                "de": "Die Innentemperatur ist ideal, um nach dem ersten Spaziergang die Finger aufzuwärmen.",
+                "hu": "A benti hőmérséklet ideális az ujjak felmelegítéséhez az első séta után.",
+                "ro": "Temperatura interioară este ideală pentru a vă încălzi degetele după prima plimbare.",
+                "en": "The indoor temperature is ideal for warming up your fingers after the first walk."
+              }
+            },
+            {
+              "name": "Tallinner Tor",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eiszapfen, die von den historischen Strukturen hängen könnten.",
+                "hu": "Vigyázzon a történelmi építményekről lelógó jégcsapokra.",
+                "ro": "Atenție la țurțurii care ar putea atârna de structurile istorice.",
+                "en": "Watch out for icicles that might be hanging from the historical structures."
+              }
+            },
+            {
+              "name": "Katharinenkirche",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und Wärme; achten Sie auf rutschige Stufen am Eingang.",
+                "hu": "A nyugalom és meleg szigete; vigyázzon a csúszós lépcsőkre a bejáratnál.",
+                "ro": "Un loc de liniște și căldură; atenție la treptele alunecoase de la intrare.",
+                "en": "A place of silence and warmth; watch out for slippery steps at the entrance."
+              }
+            },
+            {
+              "name": "Pärnu Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch während der kältesten Mittagsstunden.",
+                "hu": "Használja ki a múzeumlátogatást a leghidegebb déli órákban.",
+                "ro": "Profită de vizita la muzeu în timpul celor mai reci ore ale amiezii.",
+                "en": "Take advantage of the museum visit during the coldest midday hours."
+              }
+            },
+            {
+              "name": "Villa Ammende",
+              "tip_5lang": {
+                "de": "Fragen Sie nach heißem estnischen Glögg im Restaurantbereich.",
+                "hu": "Kérjen forró észt Glögg-öt az éttermi részen.",
+                "ro": "Cereți un Glögg estonian fierbinte în zona restaurantului.",
+                "en": "Ask for hot Estonian Glögg in the restaurant area."
+              }
+            },
+            {
+              "name": "Raimond-Valgre-Denkmal",
+              "tip_5lang": {
+                "de": "Die Statue trägt oft einen Schal, den Einheimische ihr umgebunden haben.",
+                "hu": "A szobor gyakran sálat visel, amit a helyiek kötöttek rá.",
+                "ro": "Statuia poartă adesea un fular pus de localnici.",
+                "en": "The statue often wears a scarf wrapped around it by locals."
+              }
+            },
+            {
+              "name": "Pärnu Strand / Eisweg",
+              "tip_5lang": {
+                "de": "Erkunden Sie die gefrorene Ostsee nur auf markierten Wegen.",
+                "hu": "A befagyott Balti-tengert csak a kijelölt útvonalakon fedezze fel.",
+                "ro": "Explorați Marea Baltică înghețată doar pe traseele marcate.",
+                "en": "Explore the frozen Baltic Sea only on marked paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 15:45 Uhr unter.",
+              "Tragen Sie mehrere Schichten; der Wind vom Meer senkt die gefühlte Temperatur drastisch.",
+              "Glatteis ist auf den Kopfsteinpflastergassen der Altstadt häufig.",
+              "Die Stadtbeleuchtung zur Weihnachtszeit ist besonders fotogen.",
+              "Öffentliche Saunen sind eine perfekte Abendaktivität zum Aufwärmen."
+            ],
+            "hu": [
+              "A nap télen már 15:45 körül lemegy.",
+              "Öltözzön rétegesen; a tengeri szél drasztikusan csökkenti a hőérzetet.",
+              "Az óváros macskaköves utcáin gyakori a jegesedés.",
+              "A karácsonyi időszak városi díszkivilágítása nagyon fotogén.",
+              "A nyilvános szaunák tökéletes esti programot kínálnak a felmelegedéshez."
+            ],
+            "ro": [
+              "Soarele apune iarna deja în jurul orei 15:45.",
+              "Purtați mai multe straturi; vântul de pe mare scade drastic temperatura resimțită.",
+              "Poleiul este frecvent pe străzile pietruite din orașul vechi.",
+              "Iluminatul festiv din perioada Crăciunului este foarte fotogenic.",
+              "Saunele publice sunt o activitate de seară perfectă pentru a vă încălzi."
+            ],
+            "en": [
+              "The sun sets as early as 15:45 in the winter.",
+              "Wear multiple layers; the sea wind drastically lowers the perceived temperature.",
+              "Black ice is common on the cobblestone streets of the Old Town.",
+              "The city's Christmas lights are particularly photogenic.",
+              "Public saunas are a perfect evening activity to warm up."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +974,214 @@
           "Bike rentals are available near the bus station and at many hotels.",
           "Check your tire pressure before setting off."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Entschlossenheit, belohnt aber mit leeren Wegen. Der Vormittag führt schnell zwischen den historischen Sehenswürdigkeiten hindurch. Mittags bietet das Museum einen sicheren Parkplatz und eine lange Pause im Trockenen. Der Nachmittag wird genutzt, um die Parks zu durchqueren, bevor man sich am Abend in die Gemütlichkeit der Stadt zurückzieht.",
+            "hu": "Az esőben tett kerékpártúra határozottságot igényel, de üres utakkal jutalmaz. A délelőtt gyorsan eltelik a történelmi látnivalók között. Ebédidőben a múzeum biztonságos parkolót és hosszú száraz pihenőt kínál. A délutánt a parkokon való átvágásra használjuk, mielőtt este visszavonulnánk a város kényelmébe.",
+            "ro": "O tură cu bicicleta prin ploaie necesită hotărâre, dar te răsplătește cu drumuri goale. Dimineața trece rapid printre obiectivele istorice. La prânz, muzeul oferă o parcare sigură și o pauză lungă la uscat. După-amiaza este folosită pentru a traversa parcurile, înainte de a ne retrage seara în confortul orașului.",
+            "en": "A bike tour in the rain requires determination but rewards you with empty paths. The morning flows quickly between historical sights. At midday, the museum offers secure parking and a long dry break. The afternoon is spent traversing the parks before retreating to the comfort of the city in the evening."
+          },
+          "stops": [
+            {
+              "name": "Tallinner Tor",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf dem nassen Kopfsteinpflaster unter dem Tor.",
+                "hu": "Vigyázzon a fékezéssel a kapu alatti vizes macskaköveken.",
+                "ro": "Atenție la frânare pe pavajul umed de sub poartă.",
+                "en": "Be careful when braking on the wet cobblestones under the gate."
+              }
+            },
+            {
+              "name": "Elisabethkirche",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich direkt am Eingang, ideal für einen schnellen Stopp.",
+                "hu": "Kerékpártárolók közvetlenül a bejáratnál találhatók, ideális egy gyors megálláshoz.",
+                "ro": "Suporturile pentru biciclete se află chiar la intrare, ideale pentru o oprire rapidă.",
+                "en": "Bike racks are located right at the entrance, ideal for a quick stop."
+              }
+            },
+            {
+              "name": "Pärnu Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad im Sichtbereich ab und nutzen Sie die Garderobe für nasse Kleidung.",
+                "hu": "Állítsa le a biciklit látható helyen, és használja a ruhatárat a vizes ruhákhoz.",
+                "ro": "Parcați bicicleta la vedere și folosiți garderoba pentru hainele ude.",
+                "en": "Park your bike within sight and use the cloakroom for wet clothing."
+              }
+            },
+            {
+              "name": "Rannapark",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind bei Regen sicherer als die unbefestigten Pfade.",
+                "hu": "Az aszfaltozott utak esőben biztonságosabbak, mint a földutak.",
+                "ro": "Aleile asfaltate sunt mai sigure pe ploaie decât potecile neamenajate.",
+                "en": "Asphalt paths are safer in the rain than unpaved trails."
+              }
+            },
+            {
+              "name": "Villa Ammende",
+              "tip_5lang": {
+                "de": "Ein eleganter Stopp; wischen Sie den Sattel vor der Weiterfahrt gut trocken.",
+                "hu": "Elegáns megálló; alaposan törölje szárazra a nyerget az indulás előtt.",
+                "ro": "O oprire elegantă; ștergeți bine șaua înainte de a pleca mai departe.",
+                "en": "An elegant stop; wipe your saddle dry before continuing your ride."
+              }
+            },
+            {
+              "name": "Strandpark",
+              "tip_5lang": {
+                "de": "Meiden Sie die Holzwege am Strand, diese werden bei Nässe extrem rutschig.",
+                "hu": "Kerülje a tengerparti fapallókat, mert nedvesen rendkívül csúszósak.",
+                "ro": "Evitați podurile de lemn de pe plajă, acestea devin extrem de alunecoase când sunt ude.",
+                "en": "Avoid the wooden boardwalks on the beach; they become extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Pärnu Mole",
+              "tip_5lang": {
+                "de": "Bei starkem Wind und Regen ist die Mole für Radfahrer gefährlich; lieber schieben.",
+                "hu": "Erős szélben és esőben a móló veszélyes biciklivel; inkább tolja a gépet.",
+                "ro": "Pe vânt puternic și ploaie, digul este periculos pentru biciclisti; mai bine împingeți bicicleta.",
+                "en": "In strong wind and rain, the pier is dangerous for cyclists; better to walk your bike."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Pärnus Küstenregen unerlässlich.",
+              "Vermeiden Sie scharfe Kurven auf Fahrbahnmarkierungen, da diese glatt sind.",
+              "Verwenden Sie wasserdichte Packtaschen für Ihre Wertsachen.",
+              "Die Sicht ist oft eingeschränkt; schalten Sie das Licht auch tagsüber ein.",
+              "Eine Regenponcho bietet besseren Schutz als eine einfache Jacke."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a pärnui tengerparti esőben.",
+              "Kerülje az éles kanyarodást az útburkolati jeleken, mert csúszósak.",
+              "Használjon vízálló táskákat az értéktárgyaihoz.",
+              "A látási viszonyok korlátozottak lehetnek; használja a világítást nappal is.",
+              "Egy esőponcsó jobb védelmet nyújt, mint egy egyszerű dzseki."
+            ],
+            "ro": [
+              "Aripile de protecție sunt indispensabile în ploaia de coastă din Pärnu.",
+              "Evitați virajele strânse pe marcajele rutiere, deoarece sunt alunecoase.",
+              "Folosiți genți impermeabile pentru obiectele de valoare.",
+              "Vizibilitatea este adesea limitată; aprindeți luminile și în timpul zilei.",
+              "Un pelerină de ploaie oferă o protecție mai bună decât o simplă jachetă."
+            ],
+            "en": [
+              "Fenders are essential in Pärnu's coastal rain.",
+              "Avoid sharp turns on road markings as they become slick.",
+              "Use waterproof panniers for your valuables.",
+              "Visibility is often poor; keep your lights on even during the day.",
+              "A rain poncho provides better coverage than a simple jacket."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Pärnu ist ein Abenteuer durch eine weiße Wunderwelt. Der Vormittag führt über festgefahrenen Schnee zu den Wahrzeichen. Mittags ist das Museum eine warme Basisstation. Nachmittags genießt man das Knirschen des Schnees unter den Reifen, während das goldene Licht der tiefstehenden Sonne die Stadt verzaubert. Den Abend lässt man in einer der gemütlichen Bars im Zentrum ausklingen.",
+            "hu": "A téli kerékpározás Pärnuban egy kaland a fehér csodaországban. A délelőtt a letaposott havon vezet a nevezetességekhez. Ebédidőben a múzeum meleg bázisállomásként szolgál. Délután élvezhetjük a hó ropogását a gumi alatt, miközben az alacsonyan járó nap aranyfénye elvarázsolja a várost. Az estét a központ egyik hangulatos bárjában zárjuk.",
+            "ro": "Mersul cu bicicleta iarna în Pärnu este o aventură printr-o lume albă de basm. Dimineața duce peste zăpada bătătorită către simbolurile orașului. La prânz, muzeul este o stație de bază caldă. După-amiaza vă bucurați de scârțâitul zăpezii sub roți, în timp ce lumina aurie a soarelui care apune vrăjește orașul. Seara se încheie într-unul dintre barurile primitoare din centru.",
+            "en": "Winter cycling in Pärnu is an adventure through a white wonderland. The morning leads over packed snow to the city landmarks. At midday, the museum serves as a warm base station. In the afternoon, enjoy the crunch of snow under your tires while the golden light of the low sun enchants the city. Spend the evening in one of the cozy bars downtown."
+          },
+          "stops": [
+            {
+              "name": "Tallinner Tor",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Pfützen unter der Schneedecke.",
+                "hu": "Vigyázzon a hóréteg alatt megbújó fagyott tócsákkal.",
+                "ro": "Atenție la bălțile înghețate de sub stratul de zăpadă.",
+                "en": "Watch out for frozen puddles hidden under the snow layer."
+              }
+            },
+            {
+              "name": "St. Elisabeth-Kirche",
+              "tip_5lang": {
+                "de": "Sperren Sie Ihr Rad so ab, dass das Schloss nicht einfriert.",
+                "hu": "Úgy zárja le a biciklit, hogy a lakat ne fagyjon be.",
+                "ro": "Încuiați bicicleta astfel încât lacătul să nu înghețe.",
+                "en": "Lock your bike in a way that the lock doesn't freeze shut."
+              }
+            },
+            {
+              "name": "Pärnu Museum",
+              "tip_5lang": {
+                "de": "Ein langer Stopp zum Aufwärmen ist nach der Fahrt durch die Kälte nötig.",
+                "hu": "A hidegben való tekerés után szükség van egy hosszú melegedő szünetre.",
+                "ro": "O oprire lungă pentru încălzire este necesară după drumul prin frig.",
+                "en": "A long stop to warm up is necessary after riding through the cold."
+              }
+            },
+            {
+              "name": "Vana-Pärnu Rand",
+              "tip_5lang": {
+                "de": "Fatbikes sind ideal für den weichen Schnee am Strand.",
+                "hu": "A Fatbike-ok ideálisak a tengerparti puha hóban való közlekedéshez.",
+                "ro": "Bicicletele de tip Fatbike sunt ideale pentru zăpada moale de pe plajă.",
+                "en": "Fatbikes are ideal for the soft snow on the beach."
+              }
+            },
+            {
+              "name": "Villa Ammende",
+              "tip_5lang": {
+                "de": "Die Auffahrt kann glatt sein; steigen Sie im Zweifel ab und schieben Sie.",
+                "hu": "A feljáró csúszós lehet; kétség esetén szálljon le és tolja a biciklit.",
+                "ro": "Aleea poate fi alunecoasă; dacă aveți dubii, coborâți și împingeți bicicleta.",
+                "en": "The driveway can be slippery; if in doubt, dismount and walk your bike."
+              }
+            },
+            {
+              "name": "Rannapark",
+              "tip_5lang": {
+                "de": "Die Parkwege werden im Winter geräumt und sind gut befahrbar.",
+                "hu": "A parki utakat télen takarítják, így jól járhatóak biciklivel.",
+                "ro": "Aleile parcului sunt deszăpezite iarna și sunt ușor de parcurs.",
+                "en": "Park paths are cleared in winter and are easy to ride on."
+              }
+            },
+            {
+              "name": "Mai-Viertel Küstenweg",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die zugefrorene Bucht direkt vom Sattel aus.",
+                "hu": "Élvezze a befagyott öböl látványát közvetlenül a nyeregből.",
+                "ro": "Bucurați-vă de vederea golfului înghețat direct din șa.",
+                "en": "Enjoy the view of the frozen bay directly from your saddle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen werden für die vereisten Abschnitte dringend empfohlen.",
+              "Batterien von E-Bikes entladen sich bei Kälte deutlich schneller.",
+              "Tragen Sie warme, winddichte Handschuhe – die Hände kühlen am Lenker zuerst aus.",
+              "Bremsen Sie vorsichtig und vorausschauend auf verschneiten Wegen.",
+              "Die meisten Radwege werden in Pärnu vorrangig geräumt."
+            ],
+            "hu": [
+              "Szöges gumik erősen ajánlottak a jeges szakaszokon.",
+              "Az elektromos kerékpárok akkumulátora hidegben sokkal gyorsabban merül.",
+              "Viseljen meleg, szélálló kesztyűt – a kezek hűlnek ki először a kormányon.",
+              "Óvatosan és előrelátóan fékezzen a havas utakon.",
+              "Pärnuban a legtöbb kerékpárutat elsőbbséggel takarítják a hótól."
+            ],
+            "ro": [
+              "Anvelopele cu ținte sunt recomandate cu tărie pentru secțiunile înghețate.",
+              "Bateriile bicicletelor electrice se descarcă mult mai repede la frig.",
+              "Purtați mănuși calde și rezistente la vânt – mâinile îngheață primele pe ghidon.",
+              "Frânați cu atenție și anticipare pe drumurile înzăpezite.",
+              "Majoritatea pistelor de biciclete din Pärnu sunt deszăpezite cu prioritate."
+            ],
+            "en": [
+              "Studded tires are highly recommended for the icy sections.",
+              "E-bike batteries drain much faster in cold temperatures.",
+              "Wear warm, windproof gloves – hands freeze first on the handlebars.",
+              "Brake carefully and with foresight on snowy paths.",
+              "Most bike paths in Pärnu are prioritized for snow removal."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1126,6 +1542,214 @@
           "Refuel outside the city center, prices are often cheaper there.",
           "Road conditions are generally good."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Pärnu auch bei Starkregen komfortabel zu erkunden. Der Vormittag führt ohne nass zu werden zu den kulturellen Hotspots. Mittags findet man in der Nähe des Museums problemlos Parkplätze. Nachmittags ermöglicht das Auto einen schnellen Wechsel zwischen den Parks und Villenvierteln, während man draußen den peitschenden Regen beobachtet. Der Abend endet stilvoll in einem Restaurant mit eigenem Parkplatz.",
+            "hu": "Autóval Pärnu még heves esőzésben is kényelmesen felfedezhető. A délelőtt folyamán anélkül jutunk el a kulturális csomópontokhoz, hogy megáznánk. Ebédidőben a múzeum közelében könnyen találunk parkolót. Délután az autó lehetővé teszi a gyors váltást a parkok és villanegyedek között, miközben kintről figyeljük a zuhogó esőt. Az este stílusosan, egy saját parkolóval rendelkező étteremben zárul.",
+            "ro": "Cu mașina, Pärnu poate fi explorat confortabil chiar și în timpul ploilor torențiale. Dimineața duce către punctele culturale fierbinți fără a vă uda. La prânz, se găsesc ușor locuri de parcare în apropierea muzeului. După-amiaza, mașina permite schimbarea rapidă între parcuri și cartierele cu vile, în timp ce priviți ploaia de afară. Seara se încheie cu stil într-un restaurant cu parcare proprie.",
+            "en": "By car, Pärnu can be explored comfortably even during heavy rain. The morning takes you to cultural hotspots without getting wet. At midday, you'll easily find parking near the museum. In the afternoon, the car allows for quick transitions between parks and villa districts while watching the pouring rain outside. The evening ends in style at a restaurant with its own parking lot."
+          },
+          "stops": [
+            {
+              "name": "Pärnu Zentrum",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser, um trockenen Fußes in die Einkaufsstraßen zu gelangen.",
+                "hu": "Használja a parkolóházakat, hogy száraz lábbal érjen a bevásárlóutcákhoz.",
+                "ro": "Folosiți parcările supraetajate pentru a ajunge cu picioarele uscate la străzile comerciale.",
+                "en": "Use parking garages to reach the shopping streets with dry feet."
+              }
+            },
+            {
+              "name": "Tallinner Tor Area",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es Kurzzeitparkplätze für einen schnellen Blick auf das Tor.",
+                "hu": "A közelben rövid távú parkolók találhatók a kapu gyors megtekintéséhez.",
+                "ro": "Există parcări pe termen scurt în apropiere pentru o privire rapidă la poartă.",
+                "en": "There are short-term parking spots nearby for a quick look at the gate."
+              }
+            },
+            {
+              "name": "Endla Theater",
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt vor dem Theater ist ideal bei Regen.",
+                "hu": "A színház előtti közvetlen parkoló ideális esőben.",
+                "ro": "Parcarea direct din fața teatrului este ideală pe ploaie.",
+                "en": "The parking lot directly in front of the theater is ideal during rain."
+              }
+            },
+            {
+              "name": "Pärnu Museum",
+              "tip_5lang": {
+                "de": "Das Museum verfügt über eine gute Zufahrt direkt zum Eingangsbereich.",
+                "hu": "A múzeumnak jó a megközelíthetősége közvetlenül a bejárati részig.",
+                "ro": "Muzeul are un acces bun direct către zona de intrare.",
+                "en": "The museum has good access directly to the entrance area."
+              }
+            },
+            {
+              "name": "Strandviertel",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch Pfützen, um Fußgänger nicht zu bespritzen.",
+                "hu": "Hajtson lassan a tócsákba, hogy ne fröcskölje le a gyalogosokat.",
+                "ro": "Conduceți încet prin bălți pentru a nu stropi pietonii.",
+                "en": "Drive slowly through puddles to avoid splashing pedestrians."
+              }
+            },
+            {
+              "name": "Villa Ammende",
+              "tip_5lang": {
+                "de": "Gäste können oft direkt auf dem Gelände der Villa parken.",
+                "hu": "A vendégek gyakran közvetlenül a villa területén parkolhatnak.",
+                "ro": "Oaspeții pot parca adesea direct în incinta vilei.",
+                "en": "Guests can often park directly on the villa grounds."
+              }
+            },
+            {
+              "name": "Pärnu Strandpromenade",
+              "tip_5lang": {
+                "de": "Parken Sie am Strandhotel, um den kürzesten Weg zum Meer zu haben.",
+                "hu": "Parkoljon a strandhotelnév, hogy a lehető legrövidebb úton érjen a tengerhez.",
+                "ro": "Parcați la hotelul de pe plajă pentru cel mai scurt drum către mare.",
+                "en": "Park at the beach hotel for the shortest path to the sea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf die Parkzonen; das Stadtzentrum ist kostenpflichtig.",
+              "Aquaplaning kann auf den Hauptstraßen nach plötzlichen Güssen auftreten.",
+              "Verwenden Sie eine Park-App (Pargi.ee), um nicht im Regen am Automaten stehen zu müssen.",
+              "Die Sicht kann durch beschlagene Scheiben beeinträchtigt sein; Klimaanlage nutzen.",
+              "Viele Sehenswürdigkeiten sind nur wenige Fahrminuten voneinander entfernt."
+            ],
+            "hu": [
+              "Ügyeljen a parkolási zónákra; a városközpont fizetős.",
+              "A főutakon hirtelen záporok után fennáll az aquaplaning veszélye.",
+              "Használjon parkolási alkalmazást (Pargi.ee), hogy ne kelljen az esőben az automatánál állnia.",
+              "A látást rontatja a párás szélvédő; használja a klímát.",
+              "Sok látnivaló csak néhány percnyi autóútra van egymástól."
+            ],
+            "ro": [
+              "Atenție la zonele de parcare; centrul orașului este cu plată.",
+              "Acvaplanarea poate apărea pe drumurile principale după averse bruște.",
+              "Folosiți o aplicație de parcare (Pargi.ee) pentru a nu sta în ploaie la automat.",
+              "Vizibilitatea poate fi afectată de geamurile aburite; folosiți aerul condiționat.",
+              "Multe obiective turistice se află la doar câteva minute de mers cu mașina."
+            ],
+            "en": [
+              "Watch the parking zones; the city center requires payment.",
+              "Aquaplaning can occur on main roads after sudden downpours.",
+              "Use a parking app (Pargi.ee) to avoid standing at the ticket machine in the rain.",
+              "Visibility can be reduced by fogged windows; use the air conditioning.",
+              "Many sights are just a few minutes' drive from each other."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Pärnu im Winter mit dem Auto ist die wärmste Art, die frostige Schönheit zu erleben. Der Vormittag führt durch schneebedeckte Alleen zu den Kirchen. Mittags genießt man die Sitzheizung auf dem Weg zum Museum. Nachmittags ermöglicht das Auto einen Abstecher zur Küste, wo man den Sonnenuntergang aus dem warmen Innenraum beobachtet. Den Abend verbringt man entspannt im beleuchteten Stadtkern, bevor man ins Hotel zurückkehrt.",
+            "hu": "Télen autóval Pärnuban a legmelegebb módja a fagyos szépség átélésének. A délelőtt havas fasorokon keresztül vezet a templomokhoz. Ebédidőben élvezhetjük az ülésfűtést a múzeum felé menet. Délután az autó lehetővé teszi a kiruccanást a partra, ahol a meleg utastérből nézhetjük a naplementét. Az estét pihentetően töltjük a kivilágított városmagban, mielőtt visszatérnénk a hotelbe.",
+            "ro": "Pärnu iarna cu mașina este cel mai călduros mod de a experimenta frumusețea înghețată. Dimineața duce prin alei înzăpezite către biserici. La prânz, vă bucurați de încălzirea în scaune în drum spre muzeu. După-amiaza, mașina permite o excursie la coastă, unde priviți apusul din interiorul cald. Seara este petrecută relaxat în centrul luminat, înainte de a reveni la hotel.",
+            "en": "Pärnu in winter by car is the warmest way to experience the frosty beauty. The morning leads through snow-covered avenues to the churches. At midday, enjoy the heated seats on the way to the museum. In the afternoon, the car allows for a trip to the coast to watch the sunset from the warm interior. Spend the evening relaxing in the illuminated city center before returning to your hotel."
+          },
+          "stops": [
+            {
+              "name": "Pärnu Zentrum",
+              "tip_5lang": {
+                "de": "Vorsicht beim Parken; Schneehaufen können Parklücken verkleinern.",
+                "hu": "Vigyázzon a parkolásnál; a hókupacok leszűkíthetik a helyeket.",
+                "ro": "Atenție la parcare; mormanele de zăpadă pot micșora locurile de parcare.",
+                "en": "Be careful when parking; snow piles can shrink the available spots."
+              }
+            },
+            {
+              "name": "Tallinner Tor Area",
+              "tip_5lang": {
+                "de": "Die Straßen in der Altstadt können bei Frost sehr glatt sein.",
+                "hu": "Az óvárosi utcák fagyban nagyon csúszósak lehetnek.",
+                "ro": "Străzile din orașul vechi pot fi foarte alunecoase în caz de îngheț.",
+                "en": "The streets in the Old Town can be very slippery during frost."
+              }
+            },
+            {
+              "name": "Endla Theater",
+              "tip_5lang": {
+                "de": "Schütteln Sie den Schnee von den Schuhen, bevor Sie ins Auto steigen.",
+                "hu": "Rázza le a havat a cipőjéről, mielőtt beszáll az autóba.",
+                "ro": "Scuturați zăpada de pe pantofi înainte de a urca în mașină.",
+                "en": "Shake the snow off your shoes before getting into the car."
+              }
+            },
+            {
+              "name": "Pärnu Museum",
+              "tip_5lang": {
+                "de": "Parkplätze werden hier meist zügig geräumt.",
+                "hu": "A parkolókat itt általában gyorsan megtisztítják a hótól.",
+                "ro": "Parcările sunt de obicei deszăpezite rapid aici.",
+                "en": "Parking lots here are usually cleared of snow promptly."
+              }
+            },
+            {
+              "name": "Küstenviertel",
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick auf die verschneite Küste während der Fahrt.",
+                "hu": "Élvezze a havas tengerpart panorámáját menet közben.",
+                "ro": "Bucurați-vă de vederea panoramică a coastei înzăpezite în timpul mersului.",
+                "en": "Enjoy the panoramic view of the snowy coast while driving."
+              }
+            },
+            {
+              "name": "Villa Ammende",
+              "tip_5lang": {
+                "de": "Die Villa sieht unter einer Schneedecke besonders prachtvoll aus.",
+                "hu": "A villa hólepel alatt különösen pompásan fest.",
+                "ro": "Vila arată deosebit de splendid sub un strat de zăpadă.",
+                "en": "The villa looks particularly splendid under a blanket of snow."
+              }
+            },
+            {
+              "name": "Pärnu Strand",
+              "tip_5lang": {
+                "de": "Einige Strandparkplätze sind im Winter gesperrt oder ungeräumt.",
+                "hu": "Néhány strandparkoló télen lezárva maradhat vagy nincs letakarítva.",
+                "ro": "Unele parcări de pe plajă sunt închise sau nedeszăpezite iarna.",
+                "en": "Some beach parking lots are closed or un-cleared in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Estland von Dezember bis März gesetzlich vorgeschrieben.",
+              "Halten Sie einen Eiskratzer und Handbesen im Auto bereit.",
+              "Achten Sie auf Straßensalz, das den Unterboden des Autos angreifen kann.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche in ungeräumten Zonen ein.",
+              "Die Batterieleistung kann bei extremen Minustemperaturen sinken."
+            ],
+            "hu": [
+              "Észtországban decembertől márciusig kötelező a téli gumi.",
+              "Tartson jégkaparót és kézi seprűt az autóban.",
+              "Ügyeljen az útszóró sóra, amely károsíthatja az autó alvázát.",
+              "Tervezzen több időt a parkolásra a nem letakarított zónákban.",
+              "Az akkumulátor teljesítménye extrém mínuszokban csökkenhet."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Estonia din decembrie până în martie.",
+              "Țineți o racletă și o perie de mână pregătite în mașină.",
+              "Atenție la sarea de pe drum, care poate ataca șasiul mașinii.",
+              "Planificați mai mult timp pentru căutarea locurilor de parcare în zonele nedeszăpezite.",
+              "Performanța bateriei poate scădea la temperaturi extrem de scăzute."
+            ],
+            "en": [
+              "Winter tires are legally required in Estonia from December to March.",
+              "Keep an ice scraper and a snow brush ready in your car.",
+              "Watch out for road salt, which can corrode the car's underbody.",
+              "Allow more time for finding parking in un-cleared zones.",
+              "Battery performance can drop in extreme sub-zero temperatures."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1470,6 +2094,214 @@
           "Buses are often crowded in the summer, so allow for some extra time.",
           "The main bus station (Bussijaam) is the central hub for most lines."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Pärnus Busnetz bietet einen zuverlässigen Schutz vor dem Regen während der Erkundung. Der Vormittag beginnt mit einer kurzen Fahrt zum Theater. Mittags nutzt man die gut getakteten Linien, um schnell zum Museum zu gelangen. Nachmittags bieten die überdachten Bushaltestellen Schutz, während man auf den nächsten Bus zum Strand wartet. Der Abend endet mit einer bequemen Rückfahrt ins Zentrum, ohne sich um das Wetter sorgen zu müssen.",
+            "hu": "Pärnu buszhálózata megbízható védelmet nyújt az eső ellen a városnézés során. A délelőtt egy rövid buszúttal indul a színházhoz. Ebédidőben a jól ütemezett járatokat használjuk, hogy gyorsan a múzeumhoz érjünk. Délután a fedett megállók védenek, miközben a tengerparthoz induló következő buszra várunk. Az este kényelmes visszautazással zárul a központba, anélkül, hogy az időjárás miatt aggódnánk.",
+            "ro": "Rețeaua de autobuze din Pärnu oferă o protecție fiabilă împotriva ploii în timpul explorării. Dimineața începe cu o scurtă călătorie către teatru. La prânz, se folosesc liniile bine programate pentru a ajunge rapid la muzeu. După-amiaza, stațiile acoperite oferă adăpost în timp ce așteptați următorul autobuz către plajă. Seara se încheie cu o întoarcere confortabilă în centru, fără a vă face griji pentru vreme.",
+            "en": "Pärnu's bus network provides reliable shelter from the rain during your exploration. The morning starts with a short ride to the theater. At midday, use the well-timed lines to reach the museum quickly. In the afternoon, covered bus stops offer shelter while waiting for the next bus to the beach. The evening ends with a comfortable ride back to the center without worrying about the weather."
+          },
+          "stops": [
+            {
+              "name": "Busbahnhof Pärnu",
+              "tip_5lang": {
+                "de": "Der Busbahnhof ist modern und bietet einen großen überdachten Wartebereich.",
+                "hu": "A buszpályaudvar modern, és nagy fedett váróteremmel rendelkezik.",
+                "ro": "Autogara este modernă și oferă o zonă de așteptare mare și acoperită.",
+                "en": "The bus station is modern and features a large covered waiting area."
+              }
+            },
+            {
+              "name": "Endla Theater Stop",
+              "tip_5lang": {
+                "de": "Die Haltestelle befindet sich fast direkt vor dem Haupteingang.",
+                "hu": "A megálló szinte közvetlenül a főbejárat előtt található.",
+                "ro": "Stația se află aproape direct în fața intrării principale.",
+                "en": "The stop is located almost directly in front of the main entrance."
+              }
+            },
+            {
+              "name": "Zentrum / Old Town Stop",
+              "tip_5lang": {
+                "de": "Nutzen Sie die zentralen Haltestellen für kurze Wege zu den Kirchen.",
+                "hu": "Használja a központi megállókat a templomokhoz vezető rövid sétákhoz.",
+                "ro": "Folosiți stațiile centrale pentru distanțe scurte până la biserici.",
+                "en": "Use the central stops for short walks to the churches."
+              }
+            },
+            {
+              "name": "Vabaduse Park Stop",
+              "tip_5lang": {
+                "de": "Ein guter Ausstiegspunkt für das Museum; der Weg ist weitgehend eben.",
+                "hu": "Jó leszállási pont a múzeumhoz; az út nagyjából sík.",
+                "ro": "Un punct bun de coborâre pentru muzeu; drumul este în mare parte plat.",
+                "en": "A good drop-off point for the museum; the path is mostly flat."
+              }
+            },
+            {
+              "name": "Side / Strand Stop",
+              "tip_5lang": {
+                "de": "Halten Sie die Fahrkarte bereit, um beim Einsteigen nicht im Regen zu stehen.",
+                "hu": "Tartsa készenlétben a jegyét, hogy felszálláskor ne kelljen az esőben állnia.",
+                "ro": "Țineți biletul pregătit pentru a nu sta în ploaie la urcare.",
+                "en": "Have your ticket ready to avoid standing in the rain while boarding."
+              }
+            },
+            {
+              "name": "Ammende Villa Area",
+              "tip_5lang": {
+                "de": "Einige Linien halten in den Seitenstraßen; achten Sie auf die Ansagen.",
+                "hu": "Néhány járat a mellékutcákban áll meg; figyeljen a bemondásokra.",
+                "ro": "Unele linii opresc pe străzile laterale; atenție la anunțuri.",
+                "en": "Some lines stop in the side streets; pay attention to the announcements."
+              }
+            },
+            {
+              "name": "Rannapark Bus Stop",
+              "tip_5lang": {
+                "de": "Von hier aus sind es nur wenige Schritte zur Strandpromenade.",
+                "hu": "Innentől már csak néhány lépés a strandpromenád.",
+                "ro": "De aici sunt doar câțiva pași până la faleza plajei.",
+                "en": "From here, it's just a few steps to the beach promenade."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kontaktloses Bezahlen mit Kreditkarte ist in den Bussen möglich.",
+              "Die Fahrpläne hängen an jeder Station aus und sind bei Regen oft beschlagen.",
+              "Haupthaltstellen haben elektronische Anzeigen mit Echtzeitdaten.",
+              "Vermeiden Sie die Stoßzeiten am Nachmittag, wenn Schüler die Busse nutzen.",
+              "Busse sind in Pärnu sauber und meist pünktlich."
+            ],
+            "hu": [
+              "A buszokon lehetséges az érintésmentes bankkártyás fizetés.",
+              "A menetrendek minden megállóban kint vannak, esőben gyakran bepárásodnak.",
+              "A fő megállókban elektronikus kijelzők mutatják a valós idejű adatokat.",
+              "Kerülje a délutáni csúcsidőt, amikor a diákok használják a buszokat.",
+              "Pärnuban a buszok tiszták és általában pontosak."
+            ],
+            "ro": [
+              "Plata contactless cu cardul bancar este posibilă în autobuze.",
+              "Orarele sunt afișate în fiecare stație și sunt adesea aburite când plouă.",
+              "Stațiile principale au afișaje electronice cu date în timp real.",
+              "Evitați orele de vârf de după-amiază, când elevii folosesc autobuzele.",
+              "Autobuzele din Pärnu sunt curate și de cele mai multe ori punctuale."
+            ],
+            "en": [
+              "Contactless payment with a credit card is possible on the buses.",
+              "Timetables are posted at every station but can get foggy in the rain.",
+              "Main stops feature electronic displays with real-time data.",
+              "Avoid the afternoon rush hour when students are using the buses.",
+              "Buses in Pärnu are clean and mostly on time."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Pärnu lässt sich am entspanntesten mit dem beheizten Nahverkehr erleben. Der Vormittag beginnt gemütlich im warmen Bus auf dem Weg zum Theater. Mittags bieten die Busse eine willkommene Pause von der klirrenden Kälte zwischen den Kirchenbesuchen. Nachmittags erreicht man den Strand bequem per Transit, um das blaue Licht der Dämmerung zu erleben. Der Abend endet mit einer sicheren Fahrt zurück zum Busbahnhof, während draußen der Schnee leise fällt.",
+            "hu": "Pärnu tele a legnyugodtabban a fűtött tömegközlekedéssel élvezhető. A délelőtt kényelmesen, a meleg buszon indul a színház felé. Ebédidőben a buszok üdvözlendő pihenőt nyújtanak a templomlátogatások közötti metsző hidegben. Délután kényelmesen elérjük a strandot, hogy lássuk a szürkület kék fényeit. Az este biztonságos utazással zárul vissza a pályaudvarra, miközben odakint halkan hullik a hó.",
+            "ro": "Iarna în Pärnu poate fi experimentată cel mai relaxat cu transportul public încălzit. Dimineața începe plăcut în autobuzul cald în drum spre teatru. La prânz, autobuzele oferă o pauză binevenită de frigul tăios între vizitele la biserici. După-amiaza, ajungeți confortabil la plajă cu transportul în comun pentru a experimenta lumina albastră a amurgului. Seara se încheie cu o călătorie sigură înapoi la autogară, în timp ce afară zăpada cade încet.",
+            "en": "Winter in Pärnu is best experienced via heated public transit. The morning starts comfortably on a warm bus to the theater. At midday, the buses provide a welcome break from the biting cold between church visits. In the afternoon, reach the beach easily by transit to witness the blue twilight light. The evening ends with a safe ride back to the bus station as the snow falls silently outside."
+          },
+          "stops": [
+            {
+              "name": "Busbahnhof Pärnu",
+              "tip_5lang": {
+                "de": "Warten Sie im beheizten Innenbereich des Bahnhofsgebäudes.",
+                "hu": "Várjon az állomásépület fűtött belső terében.",
+                "ro": "Așteptați în zona interioară încălzită a clădirii gării.",
+                "en": "Wait in the heated interior of the station building."
+              }
+            },
+            {
+              "name": "Theater Stop",
+              "tip_5lang": {
+                "de": "Der Gehweg vom Bus zum Eingang wird meist schnell geräumt.",
+                "hu": "A busztól a bejáratig vezető járdát általában gyorsan letakarítják.",
+                "ro": "Trotuarul de la autobuz până la intrare este de obicei deszăpezit rapid.",
+                "en": "The sidewalk from the bus to the entrance is usually cleared quickly."
+              }
+            },
+            {
+              "name": "Tallinn Gate Area",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen vor gefrorenem Schneematsch an der Bordsteinkante.",
+                "hu": "Vigyázzon leszálláskor a padkánál lévő fagyott hókásával.",
+                "ro": "Atenție la coborâre la lapovița înghețată de lângă bordură.",
+                "en": "Be careful when dismounting due to frozen slush at the curb."
+              }
+            },
+            {
+              "name": "Museum Stop",
+              "tip_5lang": {
+                "de": "Busse halten hier häufig; nutzen Sie die App für genaue Zeiten.",
+                "hu": "A buszok itt gyakran megállnak; használja az alkalmazást a pontos időkhöz.",
+                "ro": "Autobuzele opresc frecvent aici; folosiți aplicația pentru ore exacte.",
+                "en": "Buses stop here frequently; use the app for precise times."
+              }
+            },
+            {
+              "name": "Strandhotel Stop",
+              "tip_5lang": {
+                "de": "Die Wartehäuschen bieten guten Schutz gegen den schneidenden Ostseewind.",
+                "hu": "A váró fülkék jó védelmet nyújtanak a metsző balti szél ellen.",
+                "ro": "Adăposturile din stații oferă o protecție bună împotriva vântului tăios al Mării Baltice.",
+                "en": "The bus shelters provide good protection against the biting Baltic wind."
+              }
+            },
+            {
+              "name": "Ammende Stop",
+              "tip_5lang": {
+                "de": "Klopfen Sie den Schnee von den Schuhen, um nicht im Bus auszurutschen.",
+                "hu": "Verje le a havat a cipőjéről, hogy ne csússzon meg a buszon.",
+                "ro": "Scuturați zăpada de pe pantofi pentru a nu aluneca în autobuz.",
+                "en": "Kick the snow off your shoes to avoid slipping inside the bus."
+              }
+            },
+            {
+              "name": "Ranna Bus Stop",
+              "tip_5lang": {
+                "de": "Einige Linien verkehren im Winter seltener; prüfen Sie den Winterfahrplan.",
+                "hu": "Néhány járat télen ritkábban közlekedik; ellenőrizze a téli menetrendet.",
+                "ro": "Unele linii circulă mai rar iarna; verificați mersul autobuzelor de iarnă.",
+                "en": "Some lines run less frequently in winter; check the winter timetable."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bussen sind in Estland auch bei starkem Schneefall sehr zuverlässig.",
+              "Die Innentemperaturen in den Bussen sind angenehm warm.",
+              "Achten Sie auf vereiste Haltestellenbereiche beim Ein- und Aussteigen.",
+              "Digitale Anzeigen zeigen Verspätungen durch Schneeglätte in Echtzeit an.",
+              "In der Weihnachtszeit sind einige Busse festlich geschmückt."
+            ],
+            "hu": [
+              "Észtországban a buszok még erős havazásban is nagyon megbízhatóak.",
+              "A buszok belső hőmérséklete kellemesen meleg.",
+              "Ügyeljen a jeges megállókra a fel- és leszálláskor.",
+              "A digitális kijelzők valós időben mutatják a hó miatti késéseket.",
+              "A karácsonyi időszakban néhány busz ünnepi díszítést kap."
+            ],
+            "ro": [
+              "Autobuzele din Estonia sunt foarte fiabile chiar și în timpul ninsorilor abundente.",
+              "Temperaturile interioare din autobuze sunt plăcut de calde.",
+              "Atenție la zonele înghețate din stații la urcare și coborâre.",
+              "Afișajele digitale arată în timp real întârzierile cauzate de zăpadă.",
+              "În perioada Crăciunului, unele autobuze sunt decorate festiv."
+            ],
+            "en": [
+              "Buses in Estonia are very reliable even during heavy snowfall.",
+              "Interior temperatures in the buses are kept comfortably warm.",
+              "Watch out for icy areas at the bus stops when boarding or exiting.",
+              "Digital displays show real-time delays caused by snowy conditions.",
+              "During the Christmas season, some buses are festively decorated."
+            ]
+          }
+        }
       }
     }
   }

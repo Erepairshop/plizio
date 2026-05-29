@@ -313,6 +313,170 @@
           "Always watch out for bicycle lanes when crossing streets.",
           "Most shops in the center are open on Sunday afternoons."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens besuchen wir kurz die Ochsenstatue, Schirme sind hier Pflicht. Die Grote Kerk bietet danach einen trockenen Zufluchtsort. Mittags vertiefen wir uns im Museum Jan Cunen in die lokale Geschichte, ohne nass zu werden. Der Nachmittag in der Stadtbibliothek ist perfekt zum Lesen, bevor wir den Tag im Golfbad Oss verbringen, wo uns das Wetter draußen völlig egal sein kann.",
+            "hu": "Reggel az Os szobornál kezdünk, gyors fotó az esőben. A Grote Kerk falai között találunk menedéket a zivatar elől. Délben a Museum Jan Cunen kiállításait böngésszük szárazon. Délután a városi könyvtár modern tereiben pihenünk meg egy könyvvel, a napot pedig a Golfbad fedett medencéiben zárjuk, ahol az eső már nem zavar minket.",
+            "ro": "Dimineața începem la statuia boului, umbrelele fiind obligatorii. Grote Kerk oferă apoi un refugiu uscat. La prânz explorăm istoria locală la Muzeul Jan Cunen, feriți de ploaie. După-amiaza la biblioteca orașului este perfectă pentru lectură, înainte de a încheia ziua la Golfbad Oss, unde vremea de afară nu mai contează deloc în bazinele acoperite.",
+            "en": "In the morning, we quickly visit the ox statue, where umbrellas are a must. The Grote Kerk provides a dry sanctuary afterward. At midday, we dive into local history at Museum Jan Cunen, staying dry. The afternoon in the city library is perfect for reading before ending the day at Golfbad Oss, where the indoor tropical waves make us forget the rain outside."
+          },
+          "stops": [
+            {
+              "name": "De Os",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp unter dem Regenschirm.",
+                "hu": "Gyors fotómegálló az esernyő alatt.",
+                "ro": "Oprire rapidă pentru fotografii sub umbrelă.",
+                "en": "Quick photo stop under the umbrella."
+              }
+            },
+            {
+              "name": "Grote Kerk (Willibrorduskerk)",
+              "tip_5lang": {
+                "de": "Idealer Ort, um einen starken Schauer abzuwarten.",
+                "hu": "Ideális hely egy nagyobb zápor kivárására.",
+                "ro": "Loc ideal pentru a aștepta trecerea unei averse.",
+                "en": "Ideal place to wait out a heavy shower."
+              }
+            },
+            {
+              "name": "Museum Jan Cunen",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Mäntel.",
+                "hu": "Használja a ruhatárat a vizes kabátoknak.",
+                "ro": "Folosiți garderoba pentru haine ude.",
+                "en": "Use the cloakroom for wet coats."
+              }
+            },
+            {
+              "name": "Stadtbibliothek Oss",
+              "tip_5lang": {
+                "de": "Gemütliche Leseecken mit Blick auf den Regen.",
+                "hu": "Hangulatos olvasósarkok kilátással az esőre.",
+                "ro": "Colțuri de lectură primitoare cu vedere la ploaie.",
+                "en": "Cozy reading corners with a view of the rain."
+              }
+            },
+            {
+              "name": "Golfbad Oss",
+              "tip_5lang": {
+                "de": "Drinnen ist es tropisch warm und trocken.",
+                "hu": "Bent trópusi meleg és szárazság vár.",
+                "ro": "În interior este cald și tropical.",
+                "en": "It is tropically warm and dry inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die gepflasterten Wege.",
+              "Die Bibliothek ist ein kostenloser, warmer Rückzugsort.",
+              "Zwischen Museum und Kirche gibt es wenig Unterstand.",
+              "Das Golfbad hat großzügige überdachte Umkleidebereiche."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a kövezett belvárosi utcákon.",
+              "A könyvtár remek ingyenes menedék a városközpontban.",
+              "A múzeum és a templom közötti távolság rövid, de nyitott.",
+              "A Golfbad előtt fedett várakozóhely található."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pavate.",
+              "Biblioteca este un refugiu gratuit excelent în centru.",
+              "Distanța dintre muzeu și biserică este scurtă, dar expusă.",
+              "Golfbad are zone de așteptare acoperite la intrare."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobbled city streets.",
+              "The library is a great free indoor retreat in the center.",
+              "The walk between the museum and church is short but open.",
+              "Golfbad has spacious covered areas near the entrance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen beginnt am Wahrzeichen der Stadt. In der Grote Kerk wärmen wir uns kurz auf, bevor wir das Museum Jan Cunen in seiner prächtigen Villa besuchen. Die Stadtbibliothek bietet mittags einen gemütlichen Platz im Warmen. Da es früh dunkel wird, ziehen wir uns am Nachmittag in das beheizte Golfbad zurück, um den Tag entspannt ausklingen zu lassen.",
+            "hu": "A fagyos reggel a város jelképénél indul. A Grote Kerk falai között kicsit átmelegszünk, mielőtt a pompás villában helyet kapó Museum Jan Cunen-be mennénk. Délben a könyvtár kínál meleg pihenőhelyet. Mivel korán sötétedik, délután már a Golfbad fűtött medencéiben élvezzük a trópusi hangulatot, amíg kint lehűl a levegő.",
+            "ro": "Dimineața geroasă începe la simbolul orașului. Ne încălzim puțin în Grote Kerk înainte de a vizita Muzeul Jan Cunen în vila sa splendidă. Biblioteca oferă la prânz un loc călduros. Deoarece se întunecă devreme, ne retragem după-amiaza la Golfbad, bucurându-ne de atmosfera tropicală în timp ce afară e frig.",
+            "en": "The frosty morning starts at the city's landmark. We warm up briefly in the Grote Kerk before visiting Museum Jan Cunen in its grand villa. The library offers a cozy warm spot at midday. As it gets dark early, we retreat to the heated Golfbad in the afternoon to enjoy the tropical atmosphere while it freezes outside."
+          },
+          "stops": [
+            {
+              "name": "De Os",
+              "tip_5lang": {
+                "de": "Vorsicht bei Frost auf dem Metall-Denkmal.",
+                "hu": "Vigyázat, fagy esetén csúszhat a fém szobor környéke.",
+                "ro": "Atenție la îngheț în jurul monumentului de metal.",
+                "en": "Beware of frost around the metal monument."
+              }
+            },
+            {
+              "name": "Grote Kerk (Willibrorduskerk)",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten den kalten Wind ab.",
+                "hu": "A vastag falak felfogják a jeges szelet.",
+                "ro": "Zidurile groase opresc vântul înghețat.",
+                "en": "The thick walls block out the icy wind."
+              }
+            },
+            {
+              "name": "Museum Jan Cunen",
+              "tip_5lang": {
+                "de": "Das Café im Museum ist ideal zum Aufwärmen.",
+                "hu": "A múzeum kávézója ideális egy meleg italra.",
+                "ro": "Cafeneaua muzeului este ideală pentru a te încălzi.",
+                "en": "The museum cafe is ideal for warming up."
+              }
+            },
+            {
+              "name": "Stadtbibliothek Oss",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Ort für eine Pause.",
+                "hu": "Jól fűtött hely egy hosszabb pihenőhöz.",
+                "ro": "Un loc bine încălzit pentru o pauză.",
+                "en": "A well-heated place for a long break."
+              }
+            },
+            {
+              "name": "Golfbad Oss",
+              "tip_5lang": {
+                "de": "Abends besonders stimmungsvoll beleuchtet.",
+                "hu": "Este különösen hangulatos a kivilágítása.",
+                "ro": "Iluminat deosebit de frumos seara.",
+                "en": "Particularly atmospheric lighting in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Handschuhe sind für die Stadttour unerlässlich.",
+              "Die Sonne geht im Dezember bereits gegen 16:30 Uhr unter.",
+              "Die Innenstadtwege werden bei Glätte schnell gestreut.",
+              "Genießen Sie einen heißen Kakao im Zentrum."
+            ],
+            "hu": [
+              "A kesztyű elengedhetetlen a városnézéshez.",
+              "Decemberben a nap már 16:30 körül lemegy.",
+              "A belvárosi utakat csúszás esetén gyorsan sózzák.",
+              "Kóstoljon meg egy forró csokoládét a központban."
+            ],
+            "ro": [
+              "Mănușile sunt esențiale pentru turul orașului.",
+              "Soarele apune deja în jur de ora 16:30 în decembrie.",
+              "Străzile din centru sunt curățate rapid în caz de polei.",
+              "Savurați o ciocolată caldă în zona centrală."
+            ],
+            "en": [
+              "Gloves are essential for the city walk.",
+              "The sun sets around 4:30 PM in December.",
+              "City center paths are quickly salted if slippery.",
+              "Enjoy a hot cocoa in the city center."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -620,6 +784,170 @@
           "Take plenty of water with you when heading into the nature reserve.",
           "Always lock your bike securely when in the center of Oss."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen radeln wir morgens zum Museum, die Wege im Zentrum sind gut befestigt. Mittags geht es zum Vorstengraf, wo der Boden etwas matschig sein kann. Die Fahrt durch De Maashorst bietet eine mystische Stimmung unter grauen Wolken. Zum Abschluss wärmen wir uns im Golfbad auf, was die nasse Rückfahrt schnell vergessen lässt.",
+            "hu": "Az eső ellenére a múzeumhoz tekerünk, a központi utak jól járhatóak. Délben a Vorstengraf felé vesszük az irányt, ahol a talaj sáros lehet. A Maashorst erdői misztikus hangulatot árasztanak a szürke ég alatt. A nap végén a Golfbad melegében pihenünk meg, elfelejtve a vizes kilométereket.",
+            "ro": "În ciuda ploii, pedalăm spre muzeu, drumurile din centru fiind bine întreținute. La prânz mergem spre Vorstengraf, unde terenul poate fi noroios. Călătoria prin De Maashorst oferă o atmosferă mistică sub norii cenușii. La final, ne încălzim la Golfbad, uitând rapid de kilometrii parcurși prin apă.",
+            "en": "Despite the rain, we cycle to the museum in the morning; central paths are well-paved. At midday, we head to Vorstengraf, where the ground can be muddy. The ride through De Maashorst offers a mystical mood under grey skies. Finally, we warm up at Golfbad, making the wet ride easily forgotten."
+          },
+          "stops": [
+            {
+              "name": "De Os",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Markierungen am Boden.",
+                "hu": "Vigyázat, a felfestések csúszhatnak az úton.",
+                "ro": "Atenție la marcajele rutiere alunecoase.",
+                "en": "Beware of slippery road markings."
+              }
+            },
+            {
+              "name": "Museum Jan Cunen",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe vorhanden.",
+                "hu": "Fedett kerékpártárolók találhatók a közelben.",
+                "ro": "Există rastele de biciclete acoperite în apropiere.",
+                "en": "Covered bike racks are available nearby."
+              }
+            },
+            {
+              "name": "Vorstengraf",
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege können sehr weich sein.",
+                "hu": "A burkolatlan utak nagyon felázhatnak.",
+                "ro": "Potecile neasfaltate pot fi foarte moi.",
+                "en": "The unpaved paths can be very soft."
+              }
+            },
+            {
+              "name": "De Maashorst",
+              "tip_5lang": {
+                "de": "Tragen Sie unbedingt eine Regenhose im Wald.",
+                "hu": "Az erdőben mindenképpen viseljen esőnadrágot.",
+                "ro": "Purtați neapărat pantaloni de ploaie în pădure.",
+                "en": "Be sure to wear rain trousers in the forest."
+              }
+            },
+            {
+              "name": "Golfbad Oss",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihre Ausrüstung im Vorraum.",
+                "hu": "Szárítsa meg felszerelését az előtérben.",
+                "ro": "Uscați-vă echipamentul în holul de la intrare.",
+                "en": "Dry your gear in the entrance hall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, sie greifen bei Nässe später.",
+              "Vermeiden Sie Pfützen, sie könnten tief sein.",
+              "Ein Sattelschutz hält Ihre Hose trocken.",
+              "Nutzen Sie die Hauptradwege (Fietspaden)."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, nedves úton hosszabb a fékút.",
+              "Kerülje a tócsákat, mélyebbek lehetnek a vártnál.",
+              "Egy nyeregvédő szárazon tartja a nadrágját.",
+              "Használja a kijelölt kerékpárutakat (fietspaden)."
+            ],
+            "ro": [
+              "Verificați frânele, distanța de frânare crește pe ud.",
+              "Evitați bălțile, pot fi mai adânci decât par.",
+              "O protecție pentru șa vă va menține pantalonii uscați.",
+              "Folosiți pistele principale de biciclete (fietspaden)."
+            ],
+            "en": [
+              "Check your brakes; they respond slower in the wet.",
+              "Avoid puddles as they might be deeper than expected.",
+              "A saddle cover will keep your trousers dry.",
+              "Use the primary cycle paths (fietspaden)."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bei klirrender Kälte radeln wir morgens durch das historische Zentrum. Das Museum Jan Cunen bietet die erste Aufwärmpause. Mittags führt die Tour zum Vorstengraf, wo der Reif auf den Feldern glitzert. In De Maashorst genießen wir die stille Winterlandschaft, bevor wir uns auf den Rückweg zum Golfbad machen, um den Frost aus den Gliedern zu vertreiben.",
+            "hu": "Csípős hidegben tekerünk át a történelmi központon. A Museum Jan Cunen az első állomás a melegedésre. Délben a Vorstengraf felé tartunk, ahol a dér csillog a mezőkön. A Maashorst vidékén a csendes téli táj vár ránk, mielőtt visszafordulnánk a Golfbad felé, hogy kiűzzük a fagyot a tagjainkból.",
+            "ro": "Pedalăm prin centrul istoric pe un frig pătrunzător. Muzeul Jan Cunen oferă prima pauză de încălzire. La prânz, turul ne duce la Vorstengraf, unde chiciura strălucește pe câmpuri. În De Maashorst ne bucurăm de peisajul liniștit de iarnă înainte de a ne întoarce la Golfbad pentru a ne dezgheța.",
+            "en": "In biting cold, we cycle through the historic center. Museum Jan Cunen offers the first warm break. At midday, the tour leads to Vorstengraf, where frost glitters on the fields. In De Maashorst, we enjoy the quiet winter landscape before heading back to Golfbad to drive the frost out of our bones."
+          },
+          "stops": [
+            {
+              "name": "De Os",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Kurven im Zentrum.",
+                "hu": "Vigyázat a jeges kanyarokkal a központban.",
+                "ro": "Atenție la curbele înghețate din centru.",
+                "en": "Beware of icy corners in the center."
+              }
+            },
+            {
+              "name": "Museum Jan Cunen",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nah am Eingang.",
+                "hu": "Parkoljon közel a bejárathoz.",
+                "ro": "Parcați bicicleta aproape de intrare.",
+                "en": "Park your bike close to the entrance."
+              }
+            },
+            {
+              "name": "Vorstengraf",
+              "tip_5lang": {
+                "de": "Der Wind auf freier Strecke ist sehr kalt.",
+                "hu": "A szél a nyílt terepen nagyon hideg.",
+                "ro": "Vântul pe porțiunile deschise este foarte rece.",
+                "en": "The wind on open stretches is very cold."
+              }
+            },
+            {
+              "name": "De Maashorst",
+              "tip_5lang": {
+                "de": "Die Wege können stellenweise glatt sein.",
+                "hu": "Az utak helyenként csúszósak lehetnek.",
+                "ro": "Drumurile pot fi alunecoase pe alocuri.",
+                "en": "The paths can be slippery in places."
+              }
+            },
+            {
+              "name": "Golfbad Oss",
+              "tip_5lang": {
+                "de": "Das warme Wasser ist die beste Belohnung.",
+                "hu": "A meleg víz a legjobb jutalom a végén.",
+                "ro": "Apa caldă este cea mai bună recompensă.",
+                "en": "Warm water is the best reward at the end."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie ein Thermostirnband unter dem Helm.",
+              "Vermeiden Sie plötzliches Bremsen auf Laub oder Eis.",
+              "Der Akku von E-Bikes entlädt sich bei Kälte schneller.",
+              "Beleuchtung ist ab 16:00 Uhr zwingend erforderlich."
+            ],
+            "hu": [
+              "Viseljen termo fejpántot a sisak alatt.",
+              "Kerülje a hirtelen fékezést avaron vagy jégen.",
+              "Az e-bike akkumulátora gyorsabban merül hidegben.",
+              "A világítás délután 4 órától kötelező."
+            ],
+            "ro": [
+              "Purtați o bentiță termică sub cască.",
+              "Evitați frânarea bruscă pe frunze sau gheață.",
+              "Bateria bicicletelor electrice se descarcă mai repede la frig.",
+              "Luminile sunt obligatorii începând cu ora 16:00."
+            ],
+            "en": [
+              "Wear a thermal headband under your helmet.",
+              "Avoid sudden braking on leaves or ice.",
+              "E-bike batteries drain faster in the cold.",
+              "Lights are mandatory from 4:00 PM onwards."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -927,6 +1255,170 @@
           "De Maashorst has designated, free parking lots on the edge.",
           "Avoid driving in the narrowest alleys of the old town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen wir morgens bequem die Ochsenstatue und die Grote Kerk. Bei Regen ist das Museum Jan Cunen ein perfektes Ziel mit Parkplätzen in der Nähe. Mittags fahren wir zum Vorstengraf, wo wir die Aussicht fast trocken genießen können. Die Fahrt durch De Maashorst bietet Naturerlebnis vom Fenster aus, bevor wir den Tag entspannt beenden.",
+            "hu": "Autóval kényelmesen érjük el reggel az Os szobrot és a templomot. Esőben a Museum Jan Cunen tökéletes választás a közeli parkolók miatt. Délben a Vorstengrafhoz autózunk, ahol a kilátást majdnem szárazon élvezhetjük. A Maashorst tájait az ablakból csodáljuk, majd kényelmesen fejezzük be a napot.",
+            "ro": "Cu mașina ajungem confortabil dimineața la statuia boului și la Grote Kerk. Pe ploaie, Muzeul Jan Cunen este o destinație perfectă, având parcări în apropiere. La prânz conducem spre Vorstengraf, unde putem admira priveliștea aproape uscați. Călătoria prin De Maashorst oferă o experiență a naturii de la fereastră.",
+            "en": "By car, we comfortably reach the ox statue and Grote Kerk in the morning. In the rain, Museum Jan Cunen is a perfect destination with nearby parking. At midday, we drive to Vorstengraf, where we can enjoy the view almost dry. The drive through De Maashorst offers nature views from the window before ending the day."
+          },
+          "stops": [
+            {
+              "name": "De Os",
+              "tip_5lang": {
+                "de": "Kurzparkzone direkt am Marktplatz nutzen.",
+                "hu": "Használja a rövidtávú parkolót a piactéren.",
+                "ro": "Folosiți zona de parcare scurtă din piață.",
+                "en": "Use the short-stay parking zone at the market square."
+              }
+            },
+            {
+              "name": "Grote Kerk (Willibrorduskerk)",
+              "tip_5lang": {
+                "de": "Parkplatz hinter der Kirche meist frei.",
+                "hu": "A templom mögötti parkoló általában szabad.",
+                "ro": "Parcarea din spatele bisericii este de obicei liberă.",
+                "en": "The parking lot behind the church is usually free."
+              }
+            },
+            {
+              "name": "Museum Jan Cunen",
+              "tip_5lang": {
+                "de": "Parkhaus 'Bergoss' ist nur wenige Gehminuten entfernt.",
+                "hu": "A 'Bergoss' parkolóház csak pár perc séta.",
+                "ro": "Parcarea supraetajată 'Bergoss' este la câteva minute de mers.",
+                "en": "The 'Bergoss' parking garage is just a few minutes walk away."
+              }
+            },
+            {
+              "name": "Vorstengraf",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Zufahrt auf schmalen Wegen.",
+                "hu": "Vigyázat a behajtáskor a keskeny utakon.",
+                "ro": "Atenție la accesul pe drumurile înguste.",
+                "en": "Be careful when accessing via narrow paths."
+              }
+            },
+            {
+              "name": "De Maashorst",
+              "tip_5lang": {
+                "de": "Parken Sie am Naturzentrum für kurze Wege.",
+                "hu": "Parkoljon a látogatóközpontnál a rövid sétákhoz.",
+                "ro": "Parcați la centrul vizitatorilor pentru trasee scurte.",
+                "en": "Park at the nature center for short walks."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Radfahrer, die bei Regen oft unberechenbar sind.",
+              "Das Parken im Zentrum ist fast überall kostenpflichtig.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt.",
+              "Nutzen Sie Park-Apps wie EasyPark oder Yellowbrick."
+            ],
+            "hu": [
+              "Figyeljen a kerékpárosokra, esőben kiszámíthatatlanabbak.",
+              "A belvárosi parkolás szinte mindenhol fizetős.",
+              "Ellenőrizze az ablaktörlőket indulás előtt.",
+              "Használjon parkolási appokat (pl. EasyPark)."
+            ],
+            "ro": [
+              "Atenție la bicicliști, pot fi imprevizibili pe ploaie.",
+              "Parcarea în centru este cu plată aproape peste tot.",
+              "Verificați ștergătoarele înainte de plecare.",
+              "Folosiți aplicații de parcare precum EasyPark."
+            ],
+            "en": [
+              "Watch out for cyclists; they can be unpredictable in the rain.",
+              "Parking in the center is paid almost everywhere.",
+              "Check your windshield wipers before starting.",
+              "Use parking apps like EasyPark or Yellowbrick."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintertag beginnt im Herzen von Oss. Mit dem Auto lassen sich die Ziele im Zentrum und das Museum Jan Cunen schnell verbinden. Mittags führt die Fahrt zum Vorstengraf, wo die frostigen Felder eine wunderschöne Kulisse bieten. De Maashorst wirkt im Winter besonders ruhig. Den Nachmittag verbringen wir in der Wärme, bevor wir sicher nach Hause fahren.",
+            "hu": "Hűvös téli nap indul Oss szívében. Autóval gyorsan összeköthetjük a központi látnivalókat a múzeummal. Délben a Vorstengrafhoz hajtunk, ahol a jeges mezők csodás hátteret adnak. A Maashorst télen különösen csendes. A délutánt melegben töltjük, mielőtt biztonságban hazaindulnánk.",
+            "ro": "O zi răcoroasă de iarnă începe în inima orașului Oss. Cu mașina, obiectivele din centru și muzeul pot fi legate rapid. La prânz, conducem spre Vorstengraf, unde câmpurile înghețate oferă un decor superb. De Maashorst pare deosebit de liniștit iarna.",
+            "en": "A cool winter day begins in the heart of Oss. By car, you can quickly connect the central sights with Museum Jan Cunen. At midday, the drive leads to Vorstengraf, where the frosty fields offer a beautiful backdrop. De Maashorst is especially quiet in winter."
+          },
+          "stops": [
+            {
+              "name": "De Os",
+              "tip_5lang": {
+                "de": "Scheibenheizung nutzen, da es morgens oft friert.",
+                "hu": "Használja a szélvédőfűtést, reggel gyakori a fagy.",
+                "ro": "Folosiți degivrarea, înghețul este frecvent dimineața.",
+                "en": "Use the defroster as it often freezes in the morning."
+              }
+            },
+            {
+              "name": "Grote Kerk (Willibrorduskerk)",
+              "tip_5lang": {
+                "de": "Achten Sie auf glatte Stellen auf dem Kopfsteinpflaster.",
+                "hu": "Figyeljen a jeges foltokra a macskakövön.",
+                "ro": "Atenție la porțiunile cu gheață pe pavaj.",
+                "en": "Watch out for icy patches on the cobblestones."
+              }
+            },
+            {
+              "name": "Museum Jan Cunen",
+              "tip_5lang": {
+                "de": "Parkhaus bietet Schutz vor der Kälte für das Auto.",
+                "hu": "A parkolóház védi az autót a hidegtől.",
+                "ro": "Parcarea acoperită protejează mașina de frig.",
+                "en": "The parking garage protects the car from the cold."
+              }
+            },
+            {
+              "name": "Vorstengraf",
+              "tip_5lang": {
+                "de": "Straßen am Stadtrand können glatt sein.",
+                "hu": "A városszéli utak csúszósak lehetnek.",
+                "ro": "Drumurile de la marginea orașului pot fi alunecoase.",
+                "en": "Roads on the outskirts can be slippery."
+              }
+            },
+            {
+              "name": "De Maashorst",
+              "tip_5lang": {
+                "de": "Hauptwege im Park sind meist geräumt.",
+                "hu": "A park főbb útjait általában takarítják.",
+                "ro": "Drumurile principale din parc sunt de obicei curățate.",
+                "en": "Main paths in the park are usually cleared."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Vermeiden Sie das Parken unter schneebeladenen Bäumen.",
+              "Lassen Sie den Motor nicht im Stand warm laufen.",
+              "Fahren Sie bei Dämmerung besonders vorsichtig."
+            ],
+            "hu": [
+              "Töltsön fagyállót a szélvédőmosóba.",
+              "Kerülje a parkolást hóval terhelt fák alatt.",
+              "Ne járassa a motort álló helyzetben melegítés céljából.",
+              "Szürkületben vezessen különösen óvatosan."
+            ],
+            "ro": [
+              "Puneți lichid de parbriz rezistent la îngheț.",
+              "Evitați parcarea sub copaci încărcați de zăpadă.",
+              "Nu lăsați motorul să meargă în staționare pentru încălzire.",
+              "Conduceți cu mare atenție la amurg."
+            ],
+            "en": [
+              "Fill your windshield washer with anti-freeze.",
+              "Avoid parking under snow-laden trees.",
+              "Do not leave the engine idling to warm up.",
+              "Drive extra carefully during twilight."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1234,6 +1726,170 @@
           "Plan in clusters: travel to a district and walk around there.",
           "The Oss train station is an excellent central hub."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bringt uns der Bus direkt zum Zentrum für einen kurzen Besuch bei De Os. Die Grote Kerk und das Museum Jan Cunen sind bequem erreichbar, während wir im Trockenen fahren. Mittags besuchen wir das Kulturzentrum Elzenburg. Den regnerischen Nachmittag verbringen wir im Golfbad Oss, das mit dem Bus direkt vor der Tür perfekt erschlossen ist.",
+            "hu": "Reggel a busz egyenesen a központba visz minket az Os szoborhoz. A Grote Kerk és a múzeum könnyen elérhető, miközben mi szárazon utazunk. Délben az Elzenburg kulturális központot látogatjuk meg. Az esős délutánt a Golfbad Oss-ban töltjük, ahová a busz szinte az ajtóig visz.",
+            "ro": "Dimineața, autobuzul ne duce direct în centru pentru o scurtă vizită la De Os. Grote Kerk și Muzeul Jan Cunen sunt ușor accesibile în timp ce călătorim la adăpost. La prânz vizităm centrul cultural Elzenburg. După-amiaza ploioasă o petrecem la Golfbad Oss, unde autobuzul oprește chiar la ușă.",
+            "en": "In the morning, the bus takes us directly to the center for a quick visit to De Os. Grote Kerk and Museum Jan Cunen are easily accessible while we travel in the dry. At midday, we visit the Elzenburg cultural center. We spend the rainy afternoon at Golfbad Oss, which is perfectly accessible by bus right to the door."
+          },
+          "stops": [
+            {
+              "name": "De Os",
+              "tip_5lang": {
+                "de": "Bushaltestelle 'Centrum' bietet etwas Schutz.",
+                "hu": "A 'Centrum' buszmegálló némi menedéket nyújt.",
+                "ro": "Stația de autobuz 'Centrum' oferă puțin adăpost.",
+                "en": "The 'Centrum' bus stop offers some shelter."
+              }
+            },
+            {
+              "name": "Grote Kerk (Willibrorduskerk)",
+              "tip_5lang": {
+                "de": "Kurzer Sprint von der Haltestelle zum Portal.",
+                "hu": "Rövid futás a megállótól a bejáratig.",
+                "ro": "Sprint scurt de la stație până la intrare.",
+                "en": "Short sprint from the stop to the entrance."
+              }
+            },
+            {
+              "name": "Museum Jan Cunen",
+              "tip_5lang": {
+                "de": "Direktverbindung zum Bahnhof Oss vorhanden.",
+                "hu": "Közvetlen összeköttetés az Oss vasútállomással.",
+                "ro": "Legătură directă cu gara Oss.",
+                "en": "Direct connection to Oss railway station available."
+              }
+            },
+            {
+              "name": "Elzenburg",
+              "tip_5lang": {
+                "de": "Indoor-Aktivitäten für regnerische Stunden.",
+                "hu": "Beltéri tevékenységek esős órákra.",
+                "ro": "Activități de interior pentru orele ploioase.",
+                "en": "Indoor activities for rainy hours."
+              }
+            },
+            {
+              "name": "Golfbad Oss",
+              "tip_5lang": {
+                "de": "Haltestelle direkt am Schwimmbad nutzen.",
+                "hu": "Használja a közvetlenül az uszodánál lévő megállót.",
+                "ro": "Folosiți stația de chiar lângă piscină.",
+                "en": "Use the stop right at the swimming pool."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App '9292' für Echtzeit-Infos bei Regen.",
+              "An den Haltestellen kann es bei Wind zugig sein.",
+              "Die Busse in Oss sind meist sehr pünktlich.",
+              "Halten Sie Ihre OV-Chipkaart griffbereit."
+            ],
+            "hu": [
+              "Használja a '9292' appot a valós idejű infókért.",
+              "A megállókban szeles időben huzat lehet.",
+              "Az ossi buszok általában nagyon pontosak.",
+              "Tartsa kéznél az OV-chipkaartot."
+            ],
+            "ro": [
+              "Folosiți aplicația '9292' pentru informații în timp real.",
+              "În stații poate fi curent în zilele cu vânt.",
+              "Autobuzele din Oss sunt de obicei foarte punctuale.",
+              "Aveți OV-chipkaart la îndemână."
+            ],
+            "en": [
+              "Use the '9292' app for real-time info during rain.",
+              "Stops can be drafty during windy weather.",
+              "Buses in Oss are usually very punctual.",
+              "Keep your OV-chipkaart ready."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt mit einer Busfahrt ins Zentrum. Im Museum Jan Cunen verbringen wir die kälteste Zeit des Vormittags. Mittags geht es zum Kulturzentrum Elzenburg, einem warmen Treffpunkt. Da die Sonne früh untergeht, ist das Golfbad Oss am Nachmittag das ideale Ziel, bevor wir gemütlich mit dem Bus zurückfahren.",
+            "hu": "A téli reggel buszozással indul a központba. A Museum Jan Cunen-ben töltjük a délelőtt leghidegebb óráit. Délben az Elzenburg kulturális központ felé vesszük az irányt. Mivel a nap korán nyugszik, a Golfbad ideális délutáni célpont, mielőtt kényelmesen hazabuszoznánk.",
+            "ro": "Dimineața de iarnă începe cu o călătorie cu autobuzul spre centru. Petrecem cele mai reci ore la Muzeul Jan Cunen. La prânz mergem spre centrul cultural Elzenburg. Deoarece soarele apune devreme, Golfbad este destinația ideală după-amiaza.",
+            "en": "The winter morning starts with a bus ride to the center. We spend the coldest part of the morning at Museum Jan Cunen. At midday, we head to the Elzenburg cultural center, a warm meeting spot. As the sun sets early, Golfbad Oss is the ideal afternoon destination."
+          },
+          "stops": [
+            {
+              "name": "De Os",
+              "tip_5lang": {
+                "de": "Die Busse sind gut beheizt und gemütlich.",
+                "hu": "A buszok jól fűtöttek és kényelmesek.",
+                "ro": "Autobuzele sunt bine încălzite și confortabile.",
+                "en": "Buses are well-heated and comfortable."
+              }
+            },
+            {
+              "name": "Grote Kerk (Willibrorduskerk)",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Socken für den Kirchenbesuch.",
+                "hu": "Viseljen meleg zoknit a templomlátogatáshoz.",
+                "ro": "Purtați șosete groase pentru vizita la biserică.",
+                "en": "Wear warm socks for the church visit."
+              }
+            },
+            {
+              "name": "Museum Jan Cunen",
+              "tip_5lang": {
+                "de": "Der Bahnhof Oss ist ein guter Umstiegspunkt.",
+                "hu": "Oss vasútállomása kiváló átszállási pont.",
+                "ro": "Gara Oss este un punct bun de transfer.",
+                "en": "Oss station is a good transfer point."
+              }
+            },
+            {
+              "name": "Elzenburg",
+              "tip_5lang": {
+                "de": "Warmes Ambiente im Inneren genießen.",
+                "hu": "Élvezze a meleg belső környezetet.",
+                "ro": "Bucurați-vă de ambianța caldă din interior.",
+                "en": "Enjoy the warm interior ambiance."
+              }
+            },
+            {
+              "name": "Golfbad Oss",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan am Abend.",
+                "hu": "Ellenőrizze az esti téli menetrendet.",
+                "ro": "Verificați mersul autobuzelor de iarnă pentru seară.",
+                "en": "Check the winter timetable for the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrplanänderungen bei starkem Schneefall möglich.",
+              "Die Wartebereiche am Bahnhof Oss sind beheizt.",
+              "Kaufen Sie Ihr Ticket vorab digital.",
+              "Tragen Sie helle Kleidung für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "Erős hóesésben változhat a menetrend.",
+              "Az ossi vasútállomás várótermei fűtöttek.",
+              "Vásárolja meg jegyét előre digitálisan.",
+              "Viseljen világos ruhát a jobb láthatóságért."
+            ],
+            "ro": [
+              "Sunt posibile modificări de orar în caz de ninsoare.",
+              "Sălile de așteptare din gara Oss sunt încălzite.",
+              "Cumpărați biletul digital în avans.",
+              "Purtați haine deschise la culoare pentru vizibilitate."
+            ],
+            "en": [
+              "Schedule changes are possible during heavy snowfall.",
+              "Waiting areas at Oss station are heated.",
+              "Buy your ticket digitally in advance.",
+              "Wear bright clothing for better visibility."
+            ]
+          }
+        }
       }
     }
   }

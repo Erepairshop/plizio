@@ -310,6 +310,152 @@
           "Always carry a bottle of water, especially in the summer.",
           "Most museums and shops accept credit cards, but cash is useful for smaller purchases."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Start an der Hahn-Statue mit Regenschirm. Mittag: Das Atatürk-Museum bietet trockenes Asyl, gefolgt von warmem Kebap. Nachmittag: Der Çamlık-Park duftet nach Regen und Kiefern. Abend: Die Lichter der Stadt spiegeln sich in den Pfützen.",
+            "hu": "Reggel: Esernyővel indulunk a Kakas-szobortól. Délben: Az Atatürk Múzeum száraz menedéket nyújt, majd jöhet egy forró kebab. Délután: A Çamlık Park friss, párás levegője vár. Este: A város fényei csillognak az eső áztatta kövezeten.",
+            "ro": "Dimineața: Pornim de la Statuia Cocoșului cu umbrela. La prânz: Muzeul Atatürk oferă adăpost uscat, urmat de un kebab cald. După-amiaza: Parcul Çamlık miroase a ploaie și pini. Seara: Luminile orașului se oglindesc frumos în bălți.",
+            "en": "Morning: Start at the Rooster Statue with an umbrella. Noon: Atatürk Museum offers dry shelter, followed by warm kebab. Afternoon: Çamlık Park smells fresh with rain and pines. Evening: City lights reflect beautifully on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": "Rooster Statue",
+              "tip_5lang": {
+                "de": "Regenschirm fest halten, es kann windig sein.",
+                "hu": "Tartsuk erősen az esernyőt, szeles lehet.",
+                "ro": "Țineți bine umbrela, poate fi vânt.",
+                "en": "Hold your umbrella tight, it might be windy."
+              }
+            },
+            {
+              "name": "Atatürk House and Ethnography Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um trocken zu bleiben.",
+                "hu": "Tökéletes hely, hogy szárazon maradjunk.",
+                "ro": "Locul perfect pentru a rămâne uscat.",
+                "en": "Perfect place to stay dry and warm."
+              }
+            },
+            {
+              "name": "Lunch with Denizli Kebabı",
+              "tip_5lang": {
+                "de": "Ein heißer Tandır-Kebap wärmt von innen.",
+                "hu": "Egy forró tandir kebab belülről melenget.",
+                "ro": "Un kebab de tip tandır vă va încălzi.",
+                "en": "A hot Tandır kebab will warm you up inside."
+              }
+            },
+            {
+              "name": "Çamlık Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Waldwege.",
+                "hu": "Vigyázzunk a csúszós erdei utakra.",
+                "ro": "Atenție la potecile alunecoase din pădure.",
+                "en": "Watch out for slippery forest paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Innenstadt.",
+              "Nutzen Sie die Arkaden der Geschäfte als Unterstand.",
+              "Das Atatürk-Museum ist der beste Regen-Stopp.",
+              "Denizli-Kebap-Restaurants sind gemütlich und warm."
+            ],
+            "hu": [
+              "Viseljünk vízálló cipőt a belvárosban.",
+              "Használjuk az üzletek árkádjait fedezékként.",
+              "Az Atatürk Múzeum a legjobb eső elleni megálló.",
+              "A Denizli kebab éttermek barátságosak és melegek."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă în centrul orașului.",
+              "Folosiți arcadele magazinelor ca adăpost.",
+              "Muzeul Atatürk este cel mai bun popas pe ploaie.",
+              "Restaurantele cu kebab sunt primitoare și calde."
+            ],
+            "en": [
+              "Wear waterproof shoes for the city center.",
+              "Use shop arcades as temporary shelter from rain.",
+              "Atatürk Museum is the best indoor stop.",
+              "Denizli kebab restaurants are cozy and warm."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Kühle Brise an der Hahn-Statue. Mittag: Historische Wärme im Atatürk-Museum und herzhafter Kebap. Nachmittag: Ein kurzer Spaziergang durch den frostigen Çamlık-Park. Abend: Gemütlicher Abschluss in einem beheizten Café.",
+            "hu": "Reggel: Hűvös szellő a Kakas-szobornál. Délben: Történelmi melegség az Atatürk Múzeumban és laktató kebab. Délután: Rövid séta a deres Çamlık Parkban. Este: Hangulatos zárás egy fűtött kávézóban.",
+            "ro": "Dimineața: Adiere rece la Statuia Cocoșului. La prânz: Căldură istorică la Muzeul Atatürk și un kebab sățios. După-amiaza: O scurtă plimbare prin parcul înghețat. Seara: Final primitor într-o cafenea încălzită.",
+            "en": "Morning: Chilly breeze at the Rooster Statue. Noon: Historical warmth in Atatürk Museum and a hearty kebab. Afternoon: A brisk walk through the frosty Çamlık Park. Evening: Cozy end in a heated local café."
+          },
+          "stops": [
+            {
+              "name": "Rooster Statue",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind für Fotos nötig.",
+                "hu": "Meleg kesztyű kell a fotózáshoz.",
+                "ro": "Mănușile groase sunt necesare pentru poze.",
+                "en": "Warm gloves are needed for taking photos."
+              }
+            },
+            {
+              "name": "Atatürk House and Ethnography Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre drinnen.",
+                "hu": "Élvezzük a benti barátságos hangulatot.",
+                "ro": "Bucurați-vă de atmosfera plăcută din interior.",
+                "en": "Enjoy the cozy atmosphere inside."
+              }
+            },
+            {
+              "name": "Lunch with Denizli Kebabı",
+              "tip_5lang": {
+                "de": "Bestellen Sie heißen Tee zum Abschluss.",
+                "hu": "Rendeljünk forró teát a végén.",
+                "ro": "Comandați un ceai fierbinte la final.",
+                "en": "Order a hot tea after your meal."
+              }
+            },
+            {
+              "name": "Çamlık Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Stellen auf den Wegen.",
+                "hu": "Vigyázzunk a fagyott foltokra az utakon.",
+                "ro": "Atenție la porțiunile înghețate de pe drum.",
+                "en": "Watch out for frozen patches on the paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichtenkleidung ist bei Denizlis Winterwind wichtig.",
+              "Die Sonne geht gegen 17:30 Uhr unter.",
+              "Atatürk-Museum ist gut beheizt.",
+              "Suchen Sie Cafés mit Kohlebecken (Semaver) für Tee."
+            ],
+            "hu": [
+              "A réteges öltözködés fontos a téli szélben.",
+              "A nap 17:30 körül nyugszik.",
+              "Az Atatürk Múzeum jól fűtött.",
+              "Keressünk parázson főzött teát kínáló helyeket."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi e vitală pentru vânt.",
+              "Soarele apune în jurul orei 17:30.",
+              "Muzeul Atatürk este bine încălzit.",
+              "Căutați cafenele care servesc ceai la semaver."
+            ],
+            "en": [
+              "Layered clothing is key for the winter wind.",
+              "Sunset is around 17:30 in winter.",
+              "Atatürk Museum is well-heated and comfortable.",
+              "Look for tea spots with traditional coal heaters."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -637,6 +783,170 @@
           "Bring a good lock to secure your bike at the stops.",
           "The ride to the cable car has some inclines, be prepared."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Schnelle Fahrt zur Statue im Nieselregen. Mittag: Museumshalt und Kiefernduft im nassen Park. Nachmittag: Warme Stärkung und Seilbahnfahrt in die Wolken. Abend: Rückfahrt durch die erfrischte Stadt.",
+            "hu": "Reggel: Gyors tekerés a szoborig a szemerkélő esőben. Délben: Múzeumi pihenő és fenyőillat a vizes parkban. Délután: Meleg ebéd és felvonózás a felhők közé. Este: Visszaút a felfrissült városon át.",
+            "ro": "Dimineața: Pedalare rapidă spre statuie prin burniță. La prânz: Popas la muzeu și miros de pini în parc. După-amiaza: Prânz cald și urcare cu telecabina în nori. Seara: Retur prin orașul revigorat.",
+            "en": "Morning: Fast ride to the statue in light drizzle. Noon: Museum break and pine scent in the wet park. Afternoon: Warm lunch and cable car ride into the clouds. Evening: Return through the refreshed city."
+          },
+          "stops": [
+            {
+              "name": "Rooster Statue",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassen Steinen.",
+                "hu": "Vigyázzunk a fékezéssel a vizes köveken.",
+                "ro": "Atenție la frânare pe pavajul ud.",
+                "en": "Be careful when braking on wet stones."
+              }
+            },
+            {
+              "name": "Atatürk House and Ethnography Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter das Vordach.",
+                "hu": "Tegyük a bringát az előtető alá.",
+                "ro": "Parcați bicicleta sub copertină.",
+                "en": "Park your bike under the overhang."
+              }
+            },
+            {
+              "name": "Çamlık Park",
+              "tip_5lang": {
+                "de": "Pflasterwege sind sicherer als Erdpfade.",
+                "hu": "A kövezett utak biztonságosabbak, mint a földutak.",
+                "ro": "Drumurile pavate sunt mai sigure decât potecile.",
+                "en": "Paved paths are safer than dirt trails."
+              }
+            },
+            {
+              "name": "Lunch near the park",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihre Ausrüstung beim Essen.",
+                "hu": "Szárítsuk meg a felszerelést evés közben.",
+                "ro": "Uscați-vă echipamentul în timpul mesei.",
+                "en": "Dry your gear while you eat."
+              }
+            },
+            {
+              "name": "Bağbaşı Cable Car (lower station)",
+              "tip_5lang": {
+                "de": "In den Kabinen bleiben Sie völlig trocken.",
+                "hu": "A kabinokban teljesen szárazak maradunk.",
+                "ro": "În cabine veți rămâne complet uscați.",
+                "en": "You will stay completely dry inside the cabins."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist ein Muss.",
+              "Vermeiden Sie Markierungen auf der Straße (rutschig).",
+              "Die Seilbahn bietet Schutz vor dem Regen.",
+              "Nutzen Sie helle Lichter für bessere Sicht."
+            ],
+            "hu": [
+              "A teljes esőruházat kötelező.",
+              "Kerüljük az útburkolati jeleket (csúsznak).",
+              "A felvonó jó menedék az eső elől.",
+              "Használjunk erős lámpákat a láthatóságért."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este obligatoriu.",
+              "Evitați marcajele rutiere, sunt foarte alunecoase.",
+              "Telecabina oferă protecție excelentă contra ploii.",
+              "Folosiți lumini puternice pentru vizibilitate."
+            ],
+            "en": [
+              "Full rain gear is absolutely necessary.",
+              "Avoid road markings as they become very slippery.",
+              "The cable car is a great refuge from the rain.",
+              "Use bright lights for better visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Frische Fahrt zur Hahn-Statue. Mittag: Aufwärmen im Museum und Radeln durch den stillen Park. Nachmittag: Kräftiges Essen und Seilbahnfahrt zum verschneiten Plateau. Abend: Abfahrt bei kühler Winterluft.",
+            "hu": "Reggel: Frissítő tekerés a Kakas-szoborig. Délben: Melegedés a múzeumban és bringázás a csendes parkban. Délután: Kiadós ebéd és felvonózás a havas fennsíkra. Este: Gurulás a hűvös téli levegőben.",
+            "ro": "Dimineața: Pedalare răcoroasă spre Statuia Cocoșului. La prânz: Încălzire la muzeu și plimbare prin parcul liniștit. După-amiaza: Prânz copios și urcare spre platoul înzăpezit. Seara: Coborâre prin aerul rece de iarnă.",
+            "en": "Morning: Brisk ride to the Rooster Statue. Noon: Warming up at the museum and cycling through the quiet park. Afternoon: Hearty lunch and cable car ride to the snowy plateau. Evening: Descent in the cool winter air."
+          },
+          "stops": [
+            {
+              "name": "Rooster Statue",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck bei Kälte.",
+                "hu": "Ellenőrizzük a guminyomást a hidegben.",
+                "ro": "Verificați presiunea roților la frig.",
+                "en": "Check tire pressure in the cold weather."
+              }
+            },
+            {
+              "name": "Atatürk House and Ethnography Museum",
+              "tip_5lang": {
+                "de": "Gute Pause, um die Finger aufzuwärmen.",
+                "hu": "Jó pihenő az ujjak átmelegítésére.",
+                "ro": "Pauză bună pentru a vă încălzi degetele.",
+                "en": "Good break to warm up your fingers."
+              }
+            },
+            {
+              "name": "Çamlık Park",
+              "tip_5lang": {
+                "de": "Tiefe Schatten im Park sind oft vereist.",
+                "hu": "A park árnyékos részei gyakran jegesek.",
+                "ro": "Zonele umbrite din parc sunt adesea înghețate.",
+                "en": "Shaded areas in the park are often icy."
+              }
+            },
+            {
+              "name": "Lunch near the park",
+              "tip_5lang": {
+                "de": "Essen Sie drinnen, um Energie zu tanken.",
+                "hu": "Együnk bent, hogy feltöltődjünk energiával.",
+                "ro": "Mâncați în interior pentru a vă reîncărca.",
+                "en": "Eat indoors to recharge your energy."
+              }
+            },
+            {
+              "name": "Bağbaşı Cable Car (lower station)",
+              "tip_5lang": {
+                "de": "Oben liegt oft Schnee – ziehen Sie sich warm an.",
+                "hu": "Fent gyakran van hó – öltözzünk melegen.",
+                "ro": "Sus e adesea zăpadă – îmbrăcați-vă gros.",
+                "en": "It's often snowy at the top – dress warmly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe sind unverzichtbar.",
+              "Das Plateau ist viel kälter als die Stadt.",
+              "Achten Sie auf Glatteis in schattigen Kurven.",
+              "Die Seilbahn schließt bei extremem Wind."
+            ],
+            "hu": [
+              "A szélálló kesztyű elengedhetetlen.",
+              "A fennsík sokkal hidegebb, mint a város.",
+              "Vigyázzunk a jegesedésre az árnyékos kanyarokban.",
+              "A felvonó erős szélben leállhat."
+            ],
+            "ro": [
+              "Mănușile rezistente la vânt sunt esențiale.",
+              "Platoul este mult mai rece decât orașul.",
+              "Atenție la polei în curbele umbrite.",
+              "Telecabina se poate închide la vânt puternic."
+            ],
+            "en": [
+              "Windproof gloves are indispensable.",
+              "The plateau is much colder than the city.",
+              "Watch out for black ice in shaded turns.",
+              "The cable car might close during high winds."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -993,6 +1303,188 @@
           "Parking fees at tourist sites are common. Have some cash ready.",
           "Bring a swimsuit and towel for Pamukkale and Cleopatra's Pool."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Besuch der antiken Ruinen von Laodikeia im Regen. Mittag: Pamukkale glänzt silbern unter den Wolken. Nachmittag: Entspannung im warmen Cleopatra-Pool. Abend: Rückfahrt zur Hahn-Statue und Abendessen im Trockenen.",
+            "hu": "Reggel: Laodikeia romjainak felfedezése az esőben. Délben: Pamukkale ezüstösen csillog a felhők alatt. Délután: Lazítás a meleg Kleopátra-medencében. Este: Visszatérés a Kakas-szoborhoz és vacsora szárazon.",
+            "ro": "Dimineața: Vizitarea ruinelor Laodiceei pe ploaie. La prânz: Pamukkale strălucește argintiu sub nori. După-amiaza: Relaxare în piscina caldă a Cleopatrei. Seara: Retur la Statuia Cocoșului și cină la adăpost.",
+            "en": "Morning: Exploring Laodicea ruins in the rain. Noon: Pamukkale shines silvery under the clouds. Afternoon: Relaxing in the warm Cleopatra's Pool. Evening: Return to the Rooster Statue and dinner in the dry."
+          },
+          "stops": [
+            {
+              "name": "Laodicea Ancient City",
+              "tip_5lang": {
+                "de": "Die Steine können bei Nässe rutschig sein.",
+                "hu": "A kövek nedvesen csúszósak lehetnek.",
+                "ro": "Pietrele pot fi alunecoase când sunt ude.",
+                "en": "The ancient stones can be slippery when wet."
+              }
+            },
+            {
+              "name": "Pamukkale Travertine Terraces",
+              "tip_5lang": {
+                "de": "Barfußlaufen auf Travertin ist auch im Regen sicher.",
+                "hu": "A travertinen mezítláb járni esőben is biztonságos.",
+                "ro": "Mersul desculț pe travertin e sigur și pe ploaie.",
+                "en": "Walking barefoot on travertine is safe even in rain."
+              }
+            },
+            {
+              "name": "Hierapolis Ancient Theatre",
+              "tip_5lang": {
+                "de": "Der Blick auf die Wolken über dem Theater ist mystisch.",
+                "hu": "A színház feletti felhők látványa misztikus.",
+                "ro": "Priveliștea norilor deasupra teatrului e mistică.",
+                "en": "The view of clouds over the theatre is mystical."
+              }
+            },
+            {
+              "name": "Cleopatra's Pool",
+              "tip_5lang": {
+                "de": "Baden im warmen Wasser, während es regnet, ist toll.",
+                "hu": "A meleg vízben fürödni, miközben esik, remek.",
+                "ro": "Să înoți în apa caldă în timp ce plouă e grozav.",
+                "en": "Swimming in warm water while it rains is great."
+              }
+            },
+            {
+              "name": "Rooster Statue",
+              "tip_5lang": {
+                "de": "Parken Sie im nahen Parkhaus.",
+                "hu": "Parkoljunk a közeli parkolóházban.",
+                "ro": "Parcați în garajul subteran din apropiere.",
+                "en": "Park in the nearby parking garage."
+              }
+            },
+            {
+              "name": "Dinner in Denizli",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Parkplatz.",
+                "hu": "Válasszunk parkolóval rendelkező éttermet.",
+                "ro": "Alegeți un restaurant cu parcare proprie.",
+                "en": "Choose a restaurant with its own parking."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig auf den kurvigen Straßen nach Pamukkale.",
+              "Cleopatra's Pool ist der beste Ort bei Regen.",
+              "Laodikeia ist sehr offen, nehmen Sie Windschutz mit.",
+              "Gute Scheibenwischer sind in Denizli wichtig."
+            ],
+            "hu": [
+              "Vezessünk óvatosan a kanyargós utakon Pamukkale felé.",
+              "A Kleopátra-medence a legjobb hely esőben.",
+              "Laodikeia nagyon nyitott, vigyünk szélvédőt.",
+              "A jó ablaktörlő fontos Denizli környékén."
+            ],
+            "ro": [
+              "Conduceți cu atenție pe drumul spre Pamukkale.",
+              "Piscina Cleopatrei e refugiul ideal pe ploaie.",
+              "Laodiceea e expusă, luați o jachetă de vânt.",
+              "Ștergătoarele bune sunt esențiale aici."
+            ],
+            "en": [
+              "Drive carefully on the winding roads to Pamukkale.",
+              "Cleopatra's Pool is the best place to be in the rain.",
+              "Laodicea is very exposed, bring wind protection.",
+              "Good windshield wipers are important in Denizli area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Klare Winterluft in Laodikeia. Mittag: Die weißen Terrassen von Pamukkale glänzen in der Wintersonne. Nachmittag: Das 36 Grad warme Wasser im Cleopatra-Pool genießen. Abend: Rückkehr in die Stadt zum wärmenden Abendessen.",
+            "hu": "Reggel: Tiszta téli levegő Laodikeiában. Délben: Pamukkale fehér teraszai csillognak a téli napsütésben. Délután: A 36 fokos Kleopátra-medence élvezete. Este: Visszatérés a városba egy melengető vacsorára.",
+            "ro": "Dimineața: Aer curat de iarnă în Laodiceea. La prânz: Terasele albe din Pamukkale strălucesc în soare. După-amiaza: Bucurați-vă de apa de 36 de grade a Cleopatrei. Seara: Retur în oraș pentru o cină caldă.",
+            "en": "Morning: Clear winter air in Laodicea. Noon: The white terraces of Pamukkale shine in the winter sun. Afternoon: Enjoying the 36-degree water in Cleopatra's Pool. Evening: Return to the city for a warming dinner."
+          },
+          "stops": [
+            {
+              "name": "Laodicea Ancient City",
+              "tip_5lang": {
+                "de": "Es kann hier oben sehr windig und kalt sein.",
+                "hu": "Itt fent nagyon szeles és hideg lehet.",
+                "ro": "Poate fi foarte vânt și frig aici sus.",
+                "en": "It can be very windy and cold up here."
+              }
+            },
+            {
+              "name": "Pamukkale Travertine Terraces",
+              "tip_5lang": {
+                "de": "Das fließende Wasser ist angenehm warm.",
+                "hu": "A folyó víz kellemesen meleg.",
+                "ro": "Apa care curge este plăcut de caldă.",
+                "en": "The flowing water is pleasantly warm."
+              }
+            },
+            {
+              "name": "Hierapolis Ancient Theatre",
+              "tip_5lang": {
+                "de": "Hinter den Steinen findet man Windschutz.",
+                "hu": "A kövek mögött szélvédett helyet találunk.",
+                "ro": "Găsiți adăpost contra vântului după ziduri.",
+                "en": "Find wind protection behind the ancient walls."
+              }
+            },
+            {
+              "name": "Cleopatra's Pool",
+              "tip_5lang": {
+                "de": "Der Kontrast zwischen Luft und Wasser ist magisch.",
+                "hu": "A levegő és a víz kontrasztja varázslatos.",
+                "ro": "Contrastul între aer și apă este magic.",
+                "en": "The contrast between air and water is magical."
+              }
+            },
+            {
+              "name": "Rooster Statue",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um das Eis auf den Scheiben zu prüfen.",
+                "hu": "Rövid megálló, ellenőrizzük a jeget a szélvédőn.",
+                "ro": "Popas scurt, verificați gheața de pe geamuri.",
+                "en": "Short stop, check for ice on your windshield."
+              }
+            },
+            {
+              "name": "Dinner in Denizli",
+              "tip_5lang": {
+                "de": "Probieren Sie eine heiße Suppe vor dem Kebap.",
+                "hu": "Kóstoljunk meg egy forró levest a kebab előtt.",
+                "ro": "Încercați o supă fierbinte înainte de kebab.",
+                "en": "Try a hot soup before your kebab."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutzmittel im Wischwasser ist Pflicht.",
+              "Pamukkale ist im Winter weniger überlaufen.",
+              "Nehmen Sie einen Bademantel für Cleopatra's Pool mit.",
+              "Achten Sie auf Glätte auf den Parkplätzen."
+            ],
+            "hu": [
+              "Fagyálló szélvédőmosó kötelező.",
+              "Pamukkale télen sokkal kevésbé zsúfolt.",
+              "Vigyünk fürdőköpenyt a Kleopátra-medencéhez.",
+              "Vigyázzunk a csúszós parkolókra."
+            ],
+            "ro": [
+              "Lichidul de parbriz antigel este obligatoriu.",
+              "Pamukkale este mult mai liber iarna.",
+              "Luați un halat de baie pentru Piscina Cleopatrei.",
+              "Atenție la gheața din parcări."
+            ],
+            "en": [
+              "Antifreeze in wiper fluid is a must.",
+              "Pamukkale is much less crowded in winter.",
+              "Bring a bathrobe for the exit from Cleopatra's Pool.",
+              "Watch out for ice in the parking lots."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1325,6 +1817,170 @@
           "Have small change ready for the fare.",
           "Bring water and snacks for the day, as prices are higher in Pamukkale."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Ankunft am Otogar und Fahrt nach Pamukkale. Mittag: Die weißen Terrassen im Regen und Besuch von Hierapolis. Nachmittag: Rückreise nach Denizli im komfortablen Dolmuş. Abend: Abendessen in der Nähe des Busbahnhofs im Trockenen.",
+            "hu": "Reggel: Érkezés az Otogarhoz és indulás Pamukkale felé. Délben: A fehér teraszok az esőben és Hierapolis látogatása. Délután: Visszautazás Denizlibe a kényelmes dolmusszal. Este: Vacsora a buszpályaudvar közelében, száraz helyen.",
+            "ro": "Dimineața: Sosire la autogară și plecare spre Pamukkale. La prânz: Terasele albe pe ploaie și vizitarea Hierapolis. După-amiaza: Retur în Denizli cu un dolmuș confortabil. Seara: Cină lângă autogară, la adăpost de ploaie.",
+            "en": "Morning: Arrival at the Otogar and departure for Pamukkale. Noon: The white terraces in the rain and visiting Hierapolis. Afternoon: Return to Denizli in a comfy dolmuş. Evening: Dinner near the bus terminal in a dry spot."
+          },
+          "stops": [
+            {
+              "name": "Denizli Bus Terminal (Otogar)",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Bereich auf den Dolmuş.",
+                "hu": "Várjunk a fedett részen a dolmuszra.",
+                "ro": "Așteptați dolmușul în zona acoperită.",
+                "en": "Wait for the dolmuş in the covered area."
+              }
+            },
+            {
+              "name": "Pamukkale Travertine Terraces",
+              "tip_5lang": {
+                "de": "Tragen Sie eine Regenjacke statt Schirm (Wind).",
+                "hu": "Viseljünk esőkabátot esernyő helyett a szél miatt.",
+                "ro": "Purtați pelerină, nu umbrelă (e vânt).",
+                "en": "Wear a raincoat instead of an umbrella (wind)."
+              }
+            },
+            {
+              "name": "Hierapolis Ancient City",
+              "tip_5lang": {
+                "de": "Das Museum vor Ort bietet Schutz.",
+                "hu": "A helyi múzeum védelmet nyújt.",
+                "ro": "Muzeul sitului oferă protecție contra ploii.",
+                "en": "The onsite museum offers good protection."
+              }
+            },
+            {
+              "name": "Return to Denizli",
+              "tip_5lang": {
+                "de": "Beschlagene Fenster erschweren die Sicht.",
+                "hu": "A párás ablakok nehezítik a kilátást.",
+                "ro": "Geamurile aburite pot îngreuna vizibilitatea.",
+                "en": "Foggy windows might limit your view."
+              }
+            },
+            {
+              "name": "Dinner near the Bus Terminal",
+              "tip_5lang": {
+                "de": "Viele Cafés haben hier Heizstrahler.",
+                "hu": "Sok kávézóban van itt hősugárzó.",
+                "ro": "Multe cafenele au radiatoare aici.",
+                "en": "Many cafés here have outdoor heaters."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Dolmuşe fahren alle 15-20 Minuten.",
+              "Halten Sie Kleingeld für den Fahrpreis bereit.",
+              "Der Otogar ist modern und bietet viel Schutz.",
+              "Pamukkale-Dorf hat viele überdachte Cafés."
+            ],
+            "hu": [
+              "A dolmuszok 15-20 percenként járnak.",
+              "Legyen nálunk aprópénz a viteldíjhoz.",
+              "Az Otogar modern és jó védelmet nyújt.",
+              "Pamukkale faluban sok fedett kávézó van."
+            ],
+            "ro": [
+              "Microbuzele pleacă la fiecare 15-20 minute.",
+              "Pregătiți mărunțiș pentru bilet.",
+              "Autogara e modernă și oferă adăpost bun.",
+              "Satul Pamukkale are multe cafenele acoperite."
+            ],
+            "en": [
+              "Dolmuş minibuses run every 15-20 minutes.",
+              "Keep small change ready for the fare.",
+              "The Otogar is modern and provides good shelter.",
+              "Pamukkale village has many covered cafés."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Start am Otogar im kühlen Denizli. Mittag: Die strahlend weißen Terrassen von Pamukkale im Winterlicht. Nachmittag: Erkundung von Hierapolis und Rückfahrt im warmen Minibus. Abend: Herzhaftes Essen zum Aufwärmen am Busbahnhof.",
+            "hu": "Reggel: Indulás az Otogartól a hűvös Denizliben. Délben: Pamukkale vakítóan fehér teraszai a téli fényben. Délután: Hierapolis felfedezése és visszatérés a meleg minibuszban. Este: Kiadós étel a buszpályaudvarnál.",
+            "ro": "Dimineața: Plecare de la autogară în Denizliul rece. La prânz: Terasele albe sclipitoare în lumina iernii. După-amiaza: Explorarea Hierapolis și retur cu microbuzul încălzit. Seara: O masă caldă lângă autogară.",
+            "en": "Morning: Start at the Otogar in chilly Denizli. Noon: The brilliant white terraces of Pamukkale in winter light. Afternoon: Exploring Hierapolis and return in a warm minibus. Evening: Hearty meal to warm up by the bus terminal."
+          },
+          "stops": [
+            {
+              "name": "Denizli Bus Terminal (Otogar)",
+              "tip_5lang": {
+                "de": "Warten Sie in der beheizten Wartehalle.",
+                "hu": "Várjunk a fűtött váróteremben.",
+                "ro": "Așteptați în sala de așteptare încălzită.",
+                "en": "Wait in the heated waiting hall."
+              }
+            },
+            {
+              "name": "Pamukkale Travertine Terraces",
+              "tip_5lang": {
+                "de": "Die Sonne reflektiert stark auf dem Weiß.",
+                "hu": "A nap erősen tükröződik a fehéren.",
+                "ro": "Soarele reflectă puternic pe albul teraselor.",
+                "en": "The sun reflects strongly on the white surface."
+              }
+            },
+            {
+              "name": "Hierapolis Ancient City",
+              "tip_5lang": {
+                "de": "Ziehen Sie eine Mütze gegen den Wind an.",
+                "hu": "Vegyünk fel sapkát a szél ellen.",
+                "ro": "Purtați o căciulă contra vântului.",
+                "en": "Wear a hat against the biting wind."
+              }
+            },
+            {
+              "name": "Return to Denizli",
+              "tip_5lang": {
+                "de": "Die Dolmuşe sind im Winter gut beheizt.",
+                "hu": "A dolmuszok télen jól fűtöttek.",
+                "ro": "Microbuzele sunt bine încălzite iarna.",
+                "en": "The dolmuşes are well-heated in winter."
+              }
+            },
+            {
+              "name": "Dinner near the Bus Terminal",
+              "tip_5lang": {
+                "de": "Ein heißer Çay ist hier immer kostenlos.",
+                "hu": "Egy forró tea itt mindig ingyen van.",
+                "ro": "Un ceai fierbinte e adesea oferit gratuit.",
+                "en": "A hot Çay (tea) is usually free here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die untere Ebene des Otogar für Dolmuşe.",
+              "Sonnenbrille ist wegen des Schneeweißes nötig.",
+              "Die letzte Rückfahrt ist im Winter oft früher.",
+              "Warten Sie im Warmen, bis der Dolmuş abfährt."
+            ],
+            "hu": [
+              "Használjuk az Otogar alsó szintjét a dolmuszokhoz.",
+              "Napszemüveg kell a vakító fehérség miatt.",
+              "Az utolsó visszajárat télen gyakran korábban van.",
+              "Várjunk bent a melegben a dolmusz indulásáig."
+            ],
+            "ro": [
+              "Folosiți nivelul inferior al autogării pentru dolmuș.",
+              "Ochelarii de soare sunt necesari din cauza reflexiilor.",
+              "Ultima cursă de retur e adesea mai devreme iarna.",
+              "Așteptați la căldură până pleacă microbuzul."
+            ],
+            "en": [
+              "Use the lower level of the Otogar for dolmuşes.",
+              "Sunglasses are needed due to the white reflection.",
+              "The last return trip is often earlier in winter.",
+              "Wait inside where it's warm until the dolmuş leaves."
+            ]
+          }
+        }
       }
     }
   }

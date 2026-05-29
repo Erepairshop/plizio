@@ -382,6 +382,206 @@
           "Most museums are closed on Mondays, so plan accordingly.",
           "Always keep some cash on hand for small purchases."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag am regnerischen Marktplatz, wo die Renaissance-Fassaden im nassen Glanz erstrahlen. Mittags bieten die Kathedrale und das Diözesanmuseum perfekten Schutz und faszinierende Kunst. Nachmittags erkunden Sie die jüdische Geschichte an der Bima und flüchten vor dem Regen ins Ethnographische Museum. Den Abend lassen Sie ruhig im Strzelecki-Park unter dichtem Blätterdach ausklingen.",
+            "hu": "Kezdje a reggelt a Ryneken, az esőben csillogó reneszánsz épületek között. Délben a Székesegyház és az Egyházmegyei Múzeum nyújt száraz menedéket és gazdag látnivalót. Délután a zsidó múlt emlékeit keresheti fel a Bimánál, majd az Néprajzi Múzeum belső tárlataiban gyönyörködhet. Az estét a Strzelecki park fái alatt, az eső kopogását hallgatva zárhatja a város szívében.",
+            "ro": "Începeți dimineața în Piața Mare, unde clădirile renascentiste strălucesc sub ploaie. La prânz, Catedrala și Muzeul Diecezan oferă un refugiu cald și expoziții fascinante. După-amiaza, descoperiți istoria evreiască la Bima și adăpostiți-vă de stropi în Muzeul Etnografic. Seara se încheie liniștit în Parcul Strzelecki, unde aleile umede creează o atmosferă melancolică și relaxantă.",
+            "en": "Start your morning at the Market Square, admiring Renaissance facades glistening in the rain. At noon, the Cathedral and Diocesan Museum provide a dry sanctuary filled with art. In the afternoon, explore Jewish heritage at the Bimah before heading into the Ethnographic Museum to escape the weather. End your day with a peaceful stroll through Strzelecki Park, enjoying the misty atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Market Square (Rynek)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge als Regenschutz.",
+                "hu": "Használja az árkádokat eső elleni védelemként.",
+                "ro": "Folosiți arcadele pentru a vă proteja de ploaie.",
+                "en": "Use the arcades for shelter from the rain."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Die Innenbesichtigung ist ideal bei Schauern.",
+                "hu": "A belső látogatás ideális záporok idején.",
+                "ro": "Vizitarea interiorului este ideală pe timp de ploaie.",
+                "en": "The interior visit is perfect during showers."
+              }
+            },
+            {
+              "name": "Cathedral Basilica of the Nativity of the Blessed Virgin Mary",
+              "tip_5lang": {
+                "de": "Ein herrlich trockener Ort voller Geschichte.",
+                "hu": "Csodálatosan száraz, történelmi helyszín.",
+                "ro": "Un loc istoric superb și uscat.",
+                "en": "A magnificent dry place full of history."
+              }
+            },
+            {
+              "name": "Diocesan Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, um trocken zu bleiben.",
+                "hu": "Tervezzen ide több időt, hogy szárazon maradjon.",
+                "ro": "Planificați mai mult timp aici pentru a rămâne uscat.",
+                "en": "Plan more time here to stay dry."
+              }
+            },
+            {
+              "name": "Bimah of the Old Synagogue",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Stopp, da das Denkmal im Freien steht.",
+                "hu": "Csak rövid megálló, az emlékmű szabadtéri.",
+                "ro": "O oprire scurtă, monumentul fiind în aer liber.",
+                "en": "Just a quick stop as the monument is outdoors."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Perfektes Ziel, um den Regenschirm zuzuklappen.",
+                "hu": "Tökéletes célpont, hogy összecsukja az esernyőt.",
+                "ro": "Destinație perfectă pentru a închide umbrela.",
+                "en": "Perfect destination to close your umbrella."
+              }
+            },
+            {
+              "name": "Strzelecki Park",
+              "tip_5lang": {
+                "de": "Die großen Bäume bieten einen gewissen Schutz.",
+                "hu": "A nagy fák némi védelmet nyújtanak.",
+                "ro": "Copacii mari oferă o oarecare protecție.",
+                "en": "The large trees offer some protection."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tarnóws Altstadt hat viele Cafés zum Aufwärmen.",
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Die Museen sind montags oft geschlossen, prüfen Sie das.",
+              "Ein Regenschirm ist wegen der kurzen Wege ideal."
+            ],
+            "hu": [
+              "Tarnów óvárosában sok kávézó várja a melegedni vágyókat.",
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "A múzeumok hétfőnként zárva lehetnek, ellenőrizze előre.",
+              "A rövid távolságok miatt az esernyő a legjobb választás."
+            ],
+            "ro": [
+              "Centrul vechi din Tarnów are multe cafenele pentru încălzire.",
+              "Purtați încălțăminte impermeabilă pentru străzile cu piatră cubică.",
+              "Muzeele sunt adesea închise lunea, verificați programul.",
+              "O umbrelă este ideală datorită distanțelor scurte."
+            ],
+            "en": [
+              "Tarnów's old town has many cafes for warming up.",
+              "Wear waterproof shoes for the cobblestone streets.",
+              "Museums are often closed on Mondays, check beforehand.",
+              "An umbrella is ideal due to the short walking distances."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie den winterlichen Zauber Tarnóws am frostigen Marktplatz. Mittags wärmen Sie sich in der prächtigen Kathedrale und im Diözesanmuseum auf, während draußen der Schnee fällt. Nachmittags besuchen Sie die Bima in der frühen Dämmerung und tauchen im Ethnographischen Museum in die Kultur ein. Der Abend endet stimmungsvoll im beleuchteten Strzelecki-Park bei klirrender Kälte.",
+            "hu": "Fedezze fel Tarnów téli varázsát a fagyos Ryneken. Napközben a fenséges Székesegyház és az Egyházmegyei Múzeum nyújt menedéket a hideg elől, miközben kint hull a hó. Délután látogassa meg a Bimát a korai szürkületben, majd merüljön el a kultúrában a Néprajzi Múzeumban. Az este hangulatosan zárul a kivilágított Strzelecki parkban, a friss téli levegőn.",
+            "ro": "Descoperiți magia iernii în Tarnów în Piața Mare înghețată. La prânz, Catedrala maiestuoasă și Muzeul Diecezan oferă căldură în timp ce afară ninge. După-amiaza, vizitați Bima în amurgul timpuriu și explorați cultura la Muzeul Etnografic. Seara se încheie atmosferic în Parcul Strzelecki iluminat, sub aerul rece de iarnă.",
+            "en": "Experience the winter charm of Tarnów at the frosty Market Square. At noon, warm up in the majestic Cathedral and Diocesan Museum while snow falls outside. In the afternoon, visit the Bimah in the early twilight and dive into culture at the Ethnographic Museum. The evening ends atmospherically in the lit-up Strzelecki Park amidst the winter chill."
+          },
+          "stops": [
+            {
+              "name": "Market Square (Rynek)",
+              "tip_5lang": {
+                "de": "Vorsicht bei glattem Kopfsteinpflaster.",
+                "hu": "Vigyázat, a macskakő csúszós lehet.",
+                "ro": "Atenție la piatra cubică alunecoasă.",
+                "en": "Be careful on slippery cobblestones."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Beleuchtung am Abend.",
+                "hu": "Élvezze a városháza meleg esti kivilágítását.",
+                "ro": "Bucurați-vă de iluminarea caldă de seară.",
+                "en": "Enjoy the warm evening lighting."
+              }
+            },
+            {
+              "name": "Cathedral Basilica of the Nativity of the Blessed Virgin Mary",
+              "tip_5lang": {
+                "de": "Ein Ort der Ruhe und relativen Wärme.",
+                "hu": "A nyugalom és a relatív meleg helyszíne.",
+                "ro": "Un loc de liniște și căldură relativă.",
+                "en": "A place of peace and relative warmth."
+              }
+            },
+            {
+              "name": "Diocesan Museum",
+              "tip_5lang": {
+                "de": "Perfekt, um die kalten Hände aufzuwärmen.",
+                "hu": "Tökéletes hely a hideg kezek felmelegítésére.",
+                "ro": "Perfect pentru a vă încălzi mâinile reci.",
+                "en": "Perfect for warming up cold hands."
+              }
+            },
+            {
+              "name": "Bimah of the Old Synagogue",
+              "tip_5lang": {
+                "de": "Im Winter besonders stimmungsvoll bei Dämmerung.",
+                "hu": "Télen különösen hangulatos a szürkületben.",
+                "ro": "Iarna este deosebit de atmosferic la amurg.",
+                "en": "Particularly atmospheric at twilight in winter."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Die Ausstellungen sind gut beheizt.",
+                "hu": "A kiállítások jól fűtöttek.",
+                "ro": "Expozițiile sunt bine încălzite.",
+                "en": "The exhibitions are well heated."
+              }
+            },
+            {
+              "name": "Strzelecki Park",
+              "tip_5lang": {
+                "de": "Der Park schließt bei Dunkelheit oft früher.",
+                "hu": "A park sötétedéskor gyakran korábban zár.",
+                "ro": "Parcul se închide adesea mai devreme la lăsarea întunericului.",
+                "en": "The park often closes earlier at dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht bereits gegen 16:00 Uhr unter.",
+              "Tragen Sie warme Schichten für die Gehstrecken.",
+              "Warmer Tee in der Altstadt ist ein Muss.",
+              "Die Wege im Park können vereist sein."
+            ],
+            "hu": [
+              "A nap már 16:00 körül lenyugszik.",
+              "Öltözzön rétegesen a sétákhoz.",
+              "Egy forró tea az óvárosban kötelező program.",
+              "A park útjai jegesek lehetnek."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:00.",
+              "Purtați haine groase în straturi pentru mersul pe jos.",
+              "Un ceai cald în centrul vechi este obligatoriu.",
+              "Aleile din parc pot fi înghețate."
+            ],
+            "en": [
+              "The sun sets as early as 16:00.",
+              "Wear warm layers for the walking sections.",
+              "A hot tea in the old town is a must.",
+              "Park paths may be icy."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -758,6 +958,206 @@
           "Always lock your bike in a secure place.",
           "There are several bike rental stations in the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie morgens zum Sanguszko-Palast und nutzen Sie die Baumkronen als Schutz. Mittags führt die Tour zum Strzelecki-Park und weiter zum Marktplatz, wobei Sie bei Schauern in Cafés einkehren können. Nachmittags besichtigen Sie die Kathedrale und das Ethnographische Museum als trockene Zwischenstopps. Der Tag endet mit einem gemütlichen Abendessen in der Altstadt, während es draußen regnet.",
+            "hu": "Tekerjen reggel a Sanguszko-palotához, használja a fák lombjait védelemként. Délben a túra a Strzelecki parkon át a Rynekre vezet, ahol kávézókban pihenhet az eső elől. Délután a Székesegyház és a Néprajzi Múzeum kínál száraz megállókat. A napot egy hangulatos óvárosi vacsora zárja, miközben kint az eső kopog az ablakon.",
+            "ro": "Pedalați dimineața spre Palatul Sanguszko, folosind coroanele copacilor ca protecție. La prânz, turul trece prin Parcul Strzelecki spre Piața Mare, cu opriri în cafenele în caz de averse. După-amiaza, vizitați Catedrala și Muzeul Etnografic ca puncte de oprire uscate. Ziua se încheie cu o cină caldă în centrul vechi, în timp ce ploaia cade afară.",
+            "en": "Cycle to Sanguszko Palace in the morning, using the tree canopy for cover. At noon, head through Strzelecki Park to the Market Square, taking refuge in cafes during showers. In the afternoon, visit the Cathedral and Ethnographic Museum as dry stops. The day ends with a cozy dinner in the Old Town while it rains outside."
+          },
+          "stops": [
+            {
+              "name": "Sanguszko Palace",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Blättern auf den Wegen.",
+                "hu": "Vigyázat a csúszós levelekkel az utakon.",
+                "ro": "Atenție la frunzele alunecoase de pe alei.",
+                "en": "Watch out for slippery leaves on the paths."
+              }
+            },
+            {
+              "name": "Strzelecki Park",
+              "tip_5lang": {
+                "de": "Radfahren bei Regen erfordert gute Bremsen.",
+                "hu": "Az esőben való biciklizés jó fékeket igényel.",
+                "ro": "Ciclismul pe ploaie necesită frâne bune.",
+                "en": "Cycling in the rain requires good brakes."
+              }
+            },
+            {
+              "name": "Market Square (Rynek)",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster wird sehr rutschig.",
+                "hu": "A macskakő nagyon csúszóssá válik.",
+                "ro": "Piatra cubică devine foarte alunecoasă.",
+                "en": "The cobblestones become very slippery."
+              }
+            },
+            {
+              "name": "Town Hall & Cathedral",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer in der Nähe vorhanden.",
+                "hu": "Biztonságos biciklitárolók találhatók a közelben.",
+                "ro": "Rasteluri de biciclete sigure sunt disponibile în apropiere.",
+                "en": "Secure bike racks available nearby."
+              }
+            },
+            {
+              "name": "Bimah of the Old Synagogue",
+              "tip_5lang": {
+                "de": "Kurzer Halt, halten Sie Regenbekleidung bereit.",
+                "hu": "Rövid megálló, tartsa készenlétben az esőruhát.",
+                "ro": "Oprire scurtă, aveți pregătit echipamentul de ploaie.",
+                "en": "Short stop, have rain gear ready."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter, falls möglich.",
+                "hu": "Ha lehet, állítsa a biciklit fedett helyre.",
+                "ro": "Parcați bicicleta sub un adăpost, dacă este posibil.",
+                "en": "Park your bike under cover if possible."
+              }
+            },
+            {
+              "name": "Dinner in the Old Town",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Kleidung zu trocknen.",
+                "hu": "Tökéletes hely a ruhák megszárításához.",
+                "ro": "Locul perfect pentru a vă usca hainele.",
+                "en": "Perfect place to dry off your clothes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie schnelle Kurven auf nassem Pflaster.",
+              "Ein Poncho schützt besser als eine Regenjacke.",
+              "Lichter am Rad sind bei Regen Pflicht.",
+              "Prüfen Sie den Reifendruck für mehr Grip."
+            ],
+            "hu": [
+              "Kerülje a hirtelen kanyarodást nedves úton.",
+              "A poncsó jobban véd, mint az esőkabát.",
+              "Esőben a lámpa használata kötelező.",
+              "Ellenőrizze a guminyomást a jobb tapadásért."
+            ],
+            "ro": [
+              "Evitați virajele bruște pe pavajul ud.",
+              "Un poncho protejează mai bine decât o jachetă de ploaie.",
+              "Luminile la bicicletă sunt obligatorii pe ploaie.",
+              "Verificați presiunea în pneuri pentru aderență."
+            ],
+            "en": [
+              "Avoid sharp turns on wet pavement.",
+              "A poncho protects better than a rain jacket.",
+              "Bike lights are mandatory in the rain.",
+              "Check tire pressure for better grip."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour zum Sanguszko-Palast in der klaren Morgenluft. Mittags führt die Route durch den verschneiten Strzelecki-Park zum Marktplatz, wo die historische Kulisse im Frost glänzt. Nachmittags wärmen Sie sich bei Besichtigungen in der Kathedrale und im Museum auf. Den Abend krönen Sie mit einem herzhaften Abendessen in der warmen Atmosphäre der Altstadt.",
+            "hu": "Kezdje téli túráját a Sanguszko-palotánál a friss reggeli levegőn. Délben az út a havas Strzelecki parkon át vezet a Rynekre, ahol a történelmi falak csillognak a fagyban. Délután melegedjen fel a Székesegyházban és a múzeumban tett látogatás során. Az estét egy bőséges vacsorával zárja az óváros barátságos melegében.",
+            "ro": "Începeți turul de iarnă la Palatul Sanguszko în aerul curat de dimineață. La prânz, ruta trece prin Parcul Strzelecki înzăpezit spre Piața Mare, unde decorul istoric strălucește sub îngheț. După-amiaza, încălziți-vă vizitând Catedrala și muzeul. Seara este marcată de o cină copioasă în atmosfera caldă a centrului vechi.",
+            "en": "Start your winter tour to Sanguszko Palace in the crisp morning air. At noon, the route leads through the snowy Strzelecki Park to the Market Square, where the historic setting glitters in the frost. In the afternoon, warm up while visiting the Cathedral and the museum. Crown the evening with a hearty dinner in the warm atmosphere of the Old Town."
+          },
+          "stops": [
+            {
+              "name": "Sanguszko Palace",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe für den Lenker.",
+                "hu": "Viseljen meleg kesztyűt a kormányhoz.",
+                "ro": "Purtați mănuși groase pentru ghidon.",
+                "en": "Wear warm gloves for the handlebars."
+              }
+            },
+            {
+              "name": "Strzelecki Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Pfützen auf den Wegen.",
+                "hu": "Vigyázat a fagyott tócsákkal az utakon.",
+                "ro": "Atenție la bălțile înghețate de pe alei.",
+                "en": "Beware of frozen puddles on the paths."
+              }
+            },
+            {
+              "name": "Market Square (Rynek)",
+              "tip_5lang": {
+                "de": "Das Pflaster kann unter dem Schnee glatt sein.",
+                "hu": "A macskakő a hó alatt csúszós lehet.",
+                "ro": "Pavajul poate fi alunecos sub zăpadă.",
+                "en": "Pavement can be slippery under the snow."
+              }
+            },
+            {
+              "name": "Town Hall & Cathedral",
+              "tip_5lang": {
+                "de": "Kurze Stopps im Freien, lange Aufenthalte drinnen.",
+                "hu": "Rövid megállók kint, hosszú tartózkodás bent.",
+                "ro": "Opriri scurte afară, șederi lungi în interior.",
+                "en": "Short outdoor stops, long stays indoors."
+              }
+            },
+            {
+              "name": "Bimah of the Old Synagogue",
+              "tip_5lang": {
+                "de": "Schnelles Foto, dann weiter in die Wärme.",
+                "hu": "Gyors fotó, aztán tovább a melegbe.",
+                "ro": "O fotografie rapidă, apoi înapoi la căldură.",
+                "en": "Quick photo, then move on to the warmth."
+              }
+            },
+            {
+              "name": "Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Guter Ort, um die Kälte abzuschütteln.",
+                "hu": "Jó hely a hideg lerázására.",
+                "ro": "Un loc bun pentru a scăpa de frig.",
+                "en": "Good place to shake off the cold."
+              }
+            },
+            {
+              "name": "Dinner in the Old Town",
+              "tip_5lang": {
+                "de": "Belohnung für die winterliche Radfahrt.",
+                "hu": "Jutalmat ér a téli biciklizésért.",
+                "ro": "Recompensă pentru plimbarea cu bicicleta iarna.",
+                "en": "Reward for the winter bike ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kettenfett gegen Salz und Feuchtigkeit nutzen.",
+              "Warme Socken und Thermounterwäsche tragen.",
+              "Der Akku von E-Bikes hält im Kalten kürzer.",
+              "Vermeiden Sie abruptes Bremsen auf Eis."
+            ],
+            "hu": [
+              "Használjon lánczsírt a só és a nedvesség ellen.",
+              "Viseljen meleg zoknit és hőtartó aláöltözetet.",
+              "Az e-bike-ok akkumulátora hamarabb lemerül a hidegben.",
+              "Kerülje a hirtelen fékezést a jégen."
+            ],
+            "ro": [
+              "Folosiți vaselină pentru lanț împotriva sării.",
+              "Purtați șosete groase și lenjerie termică.",
+              "Bateria bicicletelor electrice ține mai puțin la frig.",
+              "Evitați frânarea bruscă pe gheață."
+            ],
+            "en": [
+              "Use chain grease against salt and moisture.",
+              "Wear warm socks and thermal underwear.",
+              "E-bike batteries drain faster in the cold.",
+              "Avoid abrupt braking on ice."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1110,6 +1510,188 @@
           "Be aware of parking fees and timings.",
           "A GPS is helpful for navigating between clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Auto für bequeme Sprünge zwischen den Clustern. Morgens besuchen Sie den Sanguszko-Palast und den Strzelecki-Park, wobei das Auto als trockener Rückzugsort dient. Mittags parken Sie in der Nähe des Néprajzi-Museums für einen ausgiebigen Besuch. Nachmittags erkunden Sie die Altstadt und die Kathedrale, ideal ergänzt durch kurze Wege vom Parkplatz.",
+            "hu": "Használja az autót a kényelmes közlekedéshez a helyszínek között. Reggel látogassa meg a Sanguszko-palotát és a Strzelecki parkot, az autó pedig száraz menedéket nyújt két megálló között. Délben parkoljon a Néprajzi Múzeum közelében egy alapos látogatáshoz. Délután fedezze fel az óvárost és a Székesegyházat, kihasználva a parkolótól való rövid távolságokat.",
+            "ro": "Folosiți mașina pentru deplasări confortabile între obiective. Dimineața vizitați Palatul Sanguszko și Parcul Strzelecki, mașina fiind un refugiu uscat. La prânz, parcați lângă Muzeul Etnografic pentru o vizită detaliată. După-amiaza, explorați centrul vechi și Catedrala, profitând de distanțele scurte de la parcare.",
+            "en": "Use the car for comfortable jumps between clusters. In the morning, visit Sanguszko Palace and Strzelecki Park, with the car serving as a dry retreat. At noon, park near the Ethnographic Museum for an extensive visit. In the afternoon, explore the Old Town and Cathedral, perfectly complemented by short walks from the parking lot."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Park at Sanguszko Palace",
+              "tip_5lang": {
+                "de": "Parkplätze sind bei Regen oft matschig.",
+                "hu": "A parkolók esőben gyakran sárosak.",
+                "ro": "Parcările sunt adesea noroioase pe ploaie.",
+                "en": "Parking areas are often muddy in the rain."
+              }
+            },
+            {
+              "name": "Cluster 2: Park at Strzelecki Park",
+              "tip_5lang": {
+                "de": "Naher Parkplatz minimiert die Regenzeit.",
+                "hu": "A közeli parkoló minimalizálja az esőben töltött időt.",
+                "ro": "Parcarea apropiată minimizează timpul petrecut în ploaie.",
+                "en": "Close parking minimizes time in the rain."
+              }
+            },
+            {
+              "name": "Walk to the Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Auto zum Eingang.",
+                "hu": "Rövid sprint az autótól a bejáratig.",
+                "ro": "Sprint scurt de la mașină până la intrare.",
+                "en": "Short sprint from the car to the entrance."
+              }
+            },
+            {
+              "name": "Cluster 3: Park near the Old Town",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz ist bei Regen Gold wert.",
+                "hu": "A központi parkoló esőben aranyat ér.",
+                "ro": "Parcarea centrală valorează aur pe ploaie.",
+                "en": "Central parking is worth its weight in gold when raining."
+              }
+            },
+            {
+              "name": "Old Town Exploration: Market Square & Town Hall",
+              "tip_5lang": {
+                "de": "Regenschirm im Auto griffbereit lassen.",
+                "hu": "Tartsa az esernyőt kéznél az autóban.",
+                "ro": "Țineți umbrela la îndemână în mașină.",
+                "en": "Keep an umbrella handy in the car."
+              }
+            },
+            {
+              "name": "Walk to the Cathedral & Diocesan Museum",
+              "tip_5lang": {
+                "de": "Besichtigungen im Innenbereich genießen.",
+                "hu": "Élvezze a benti látnivalókat.",
+                "ro": "Bucurați-vă de vizitarea interiorului.",
+                "en": "Enjoy the indoor sightseeing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Pfützen in den Parkzonen.",
+              "Die Sicht kann bei starkem Regen eingeschränkt sein.",
+              "Parkhäuser bieten komplett trockene Ausstiege.",
+              "Halten Sie Kleingeld für die Parkautomaten bereit."
+            ],
+            "hu": [
+              "Vigyázzon a tócsákra a parkolóövezetekben.",
+              "Erős esőben a látási viszonyok korlátozottak lehetnek.",
+              "A parkolóházak teljesen száraz kiszállást biztosítanak.",
+              "Legyen kéznél aprópénz a parkolóautomatákhoz."
+            ],
+            "ro": [
+              "Atenție la bălți în zonele de parcare.",
+              "Vizibilitatea poate fi redusă în caz de ploaie torențială.",
+              "Parcările etajate oferă coborâre complet uscată.",
+              "Aveți pregătite monede pentru automatele de parcare."
+            ],
+            "en": [
+              "Watch out for puddles in parking zones.",
+              "Visibility can be limited during heavy rain.",
+              "Parking garages offer completely dry exits.",
+              "Keep change ready for parking meters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Komfort Ihres geheizten Autos bei der winterlichen Tour durch Tarnów. Besuchen Sie morgens die Parks und Paläste, ohne lange in der Kälte stehen zu müssen. Mittags bietet das Néprajzi-Museum warme Einblicke in die Kultur. Nachmittags parken Sie nahe der Altstadt für einen gemütlichen Spaziergang zur Kathedrale und dem Diözesanmuseum, bevor die Dunkelheit hereinbricht.",
+            "hu": "Élvezze fűtött autója kényelmét a téli Tarnów-i körút során. Látogassa meg reggel a parkokat és palotákat anélkül, hogy sokat kellene a hidegben állnia. Délben a Néprajzi Múzeum nyújt meleg kulturális betekintést. Délután parkoljon az óváros közelében egy kellemes sétához a Székesegyházig, mielőtt leszáll az est.",
+            "ro": "Bucurați-vă de confortul mașinii încălzite în turul de iarnă prin Tarnów. Vizitați dimineața parcurile și palatele fără a sta mult în frig. La prânz, Muzeul Etnografic oferă perspective culturale calde. După-amiaza, parcați aproape de centrul vechi pentru o plimbare spre Catedrală înainte de lăsarea întunericului.",
+            "en": "Enjoy the comfort of your heated car during a winter tour of Tarnów. Visit the parks and palaces in the morning without staying in the cold for too long. At noon, the Ethnographic Museum offers warm cultural insights. In the afternoon, park near the Old Town for a cozy walk to the Cathedral before darkness falls."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Park at Sanguszko Palace",
+              "tip_5lang": {
+                "de": "Scheibenheizung vor der Weiterfahrt nutzen.",
+                "hu": "Használja a szélvédőfűtést indulás előtt.",
+                "ro": "Folosiți degivrarea parbrizului înainte de plecare.",
+                "en": "Use window heating before continuing."
+              }
+            },
+            {
+              "name": "Cluster 2: Park at Strzelecki Park",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt im Freien empfohlen.",
+                "hu": "Rövid szabadtéri tartózkodás javasolt.",
+                "ro": "Se recomandă o ședere scurtă afară.",
+                "en": "Short outdoor stay recommended."
+              }
+            },
+            {
+              "name": "Walk to the Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Schütteln Sie den Schnee vor dem Einsteigen ab.",
+                "hu": "Rázza le a havat beszállás előtt.",
+                "ro": "Scuturați zăpada înainte de a urca în mașină.",
+                "en": "Shake off the snow before entering the car."
+              }
+            },
+            {
+              "name": "Cluster 3: Park near the Old Town",
+              "tip_5lang": {
+                "de": "Parkplätze können durch Schneehaufen enger sein.",
+                "hu": "A parkolók a hóbuckák miatt szűkebbek lehetnek.",
+                "ro": "Locurile de parcare pot fi mai înguste din cauza zăpezii.",
+                "en": "Parking spots might be narrower due to snow piles."
+              }
+            },
+            {
+              "name": "Old Town Exploration: Market Square & Town Hall",
+              "tip_5lang": {
+                "de": "Abends die beleuchtete Kulisse genießen.",
+                "hu": "Élvezze este a kivilágított várost.",
+                "ro": "Bucurați-vă de decorul iluminat seara.",
+                "en": "Enjoy the lit-up scenery in the evening."
+              }
+            },
+            {
+              "name": "Walk to the Cathedral & Diocesan Museum",
+              "tip_5lang": {
+                "de": "Die Museen sind ideale Wärmestationen.",
+                "hu": "A múzeumok ideális melegedőhelyek.",
+                "ro": "Muzeele sunt stații de încălzire ideale.",
+                "en": "Museums are ideal warming stations."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Eiskratzer sind Pflicht.",
+              "Achten Sie auf Streusalz auf dem Lack.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche ein.",
+              "Die Batterie wird bei Kälte stärker belastet."
+            ],
+            "hu": [
+              "A téli gumi és a jégkaparó kötelező.",
+              "Ügyeljen az utakon lévő szórósóra.",
+              "Tervezzen több időt a parkolóhely-keresésre.",
+              "A hideg jobban igénybe veszi az akkumulátort."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și răzuitoarea sunt obligatorii.",
+              "Atenție la sarea de pe drumuri.",
+              "Planificați mai mult timp pentru găsirea parcării.",
+              "Bateria este mai solicitată la temperaturi scăzute."
+            ],
+            "en": [
+              "Winter tires and ice scrapers are mandatory.",
+              "Watch out for road salt on the paintwork.",
+              "Allow more time for finding a parking spot.",
+              "The car battery is under more stress in the cold."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1462,6 +2044,188 @@
           "Download the local public transport app for real-time schedules.",
           "Buses can be crowded during peak hours, so plan for a little extra time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie Busse, um bei Regen bequem durch Tarnów zu kommen. Morgens erreichen Sie den Marktplatz und die umliegenden Kirchen fast trocken. Mittags bringt Sie der Nahverkehr zum Néprajzi-Museum. Nachmittags besuchen Sie den Strzelecki-Park, wobei Sie Regenschauer in den Wartehäuschen aussitzen können. Der Tag endet mit einer unkomplizierten Rückfahrt vom Park.",
+            "hu": "Használja a buszokat, hogy esőben is kényelmesen bejárja Tarnówot. Reggel szinte szárazon érheti el a Ryneket és a környező templomokat. Délben a tömegközlekedés a Néprajzi Múzeumhoz repíti. Délután látogassa meg a Strzelecki parkot, az esőt pedig a buszvárókban is átvészelheti. A nap a parktól való egyszerű visszautazással zárul.",
+            "ro": "Folosiți autobuzele pentru a traversa confortabil Tarnów pe ploaie. Dimineața ajungeți aproape uscat în Piața Mare și la biserici. La prânz, transportul public vă duce la Muzeul Etnografic. După-amiaza, vizitați Parcul Strzelecki, adăpostindu-vă de ploaie în stații. Ziua se încheie cu o întoarcere simplă de la parc.",
+            "en": "Use buses to get around Tarnów comfortably in the rain. In the morning, reach the Market Square and nearby churches almost dry. At noon, public transit takes you to the Ethnographic Museum. In the afternoon, visit Strzelecki Park, taking shelter from showers in the bus stops. The day ends with an easy return trip from the park."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at the Market Square",
+              "tip_5lang": {
+                "de": "Bushaltestellen bieten oft Überdachungen.",
+                "hu": "A buszmegállók gyakran fedettek.",
+                "ro": "Stațiile de autobuz sunt adesea acoperite.",
+                "en": "Bus stops often have shelters."
+              }
+            },
+            {
+              "name": "Walk: Town Hall and Cathedral",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Gebäuden nutzen.",
+                "hu": "Használja ki az épületek közötti rövid távot.",
+                "ro": "Profitate de distanțele scurte între clădiri.",
+                "en": "Take advantage of short distances between buildings."
+              }
+            },
+            {
+              "name": "Walk: Bimah and Diocesan Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist ein toller Regenzufluchtsort.",
+                "hu": "A múzeum remek menedék az eső elől.",
+                "ro": "Muzeul este un refugiu excelent împotriva ploii.",
+                "en": "The museum is a great rain refuge."
+              }
+            },
+            {
+              "name": "Cluster 2: Transit to the Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Fahrkarten können oft per App gekauft werden.",
+                "hu": "A jegyek gyakran alkalmazáson keresztül is megvehetők.",
+                "ro": "Biletele pot fi cumpărate adesea prin aplicație.",
+                "en": "Tickets can often be bought via app."
+              }
+            },
+            {
+              "name": "Walk to Strzelecki Park",
+              "tip_5lang": {
+                "de": "Warten Sie den Schauer im Bus ab.",
+                "hu": "Várja meg a zápor végét a buszon.",
+                "ro": "Așteptați trecerea aversei în autobuz.",
+                "en": "Wait out the shower inside the bus."
+              }
+            },
+            {
+              "name": "Return from the Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan bei Regen genau.",
+                "hu": "Esőben ellenőrizze pontosan a menetrendet.",
+                "ro": "Verificați orarul cu atenție pe timp de ploaie.",
+                "en": "Check the timetable carefully when it rains."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Echtzeit-Apps für Busse nutzen.",
+              "Tragen Sie wasserfeste Kleidung für die Umstiege.",
+              "Haben Sie passendes Kleingeld oder eine Karte dabei.",
+              "Vermeiden Sie Stoßzeiten, wenn die Busse voll sind."
+            ],
+            "hu": [
+              "Használjon valós idejű menetrendi alkalmazást.",
+              "Viseljen vízálló ruhát az átszállásokhoz.",
+              "Legyen önnél aprópénz vagy kártya a jegyhez.",
+              "Kerülje a csúcsidőt, amikor a buszok zsúfoltak."
+            ],
+            "ro": [
+              "Folosiți aplicații în timp real pentru autobuze.",
+              "Purtați haine impermeabile pentru transferuri.",
+              "Aveți monede sau un card pentru bilet.",
+              "Evitați orele de vârf când autobuzele sunt pline."
+            ],
+            "en": [
+              "Use real-time apps for buses.",
+              "Wear waterproof clothing for transfers.",
+              "Have exact change or a card for tickets.",
+              "Avoid rush hours when buses are crowded."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bewegen Sie sich im Winter mit dem Bus durch das frostige Tarnów. Morgens erreichen Sie schnell den stimmungsvollen Marktplatz. Mittags bieten die Fahrten im geheizten Bus eine willkommene Pause von der Kälte, bevor Sie die Museen erkunden. Nachmittags geht es zum Strzelecki-Park, der in der Winterdämmerung besonders zauberhaft wirkt. Den Tag beschließen Sie mit einer gemütlichen Heimfahrt.",
+            "hu": "Télen közlekedjen busszal a fagyos Tarnówban. Reggel gyorsan elérheti a hangulatos Ryneket. Napközben a fűtött buszozás kellemes szünetet jelent a hidegben a múzeumlátogatások között. Délután a Strzelecki park következik, amely a téli szürkületben különösen varázslatos. A napot egy kényelmes hazautazással zárhatja.",
+            "ro": "Circulați cu autobuzul prin Tarnówul înghețat pe timp de iarnă. Dimineața ajungeți rapid în Piața Mare plină de atmosferă. La prânz, călătoriile în autobuzul încălzit oferă o pauză binemeritată de la frig. După-amiaza vizitați Parcul Strzelecki, care pare magic în amurgul de iarnă. Ziua se încheie cu o călătorie confortabilă spre casă.",
+            "en": "Get around frosty Tarnów by bus in winter. In the morning, quickly reach the atmospheric Market Square. At noon, heated bus rides offer a welcome break from the cold before exploring museums. In the afternoon, head to Strzelecki Park, which looks particularly magical in the winter twilight. End the day with a comfortable ride home."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at the Market Square",
+              "tip_5lang": {
+                "de": "Die Wartehäuschen schützen vor kaltem Wind.",
+                "hu": "A buszvárók védenek a hideg széltől.",
+                "ro": "Stațiile de autobuz protejează de vântul rece.",
+                "en": "Bus stops provide shelter from cold wind."
+              }
+            },
+            {
+              "name": "Walk: Town Hall and Cathedral",
+              "tip_5lang": {
+                "de": "Die Kathedrale ist meist wärmer als draußen.",
+                "hu": "A székesegyház általában melegebb, mint a kinti levegő.",
+                "ro": "Catedrala este de obicei mai caldă decât afară.",
+                "en": "The cathedral is usually warmer than outside."
+              }
+            },
+            {
+              "name": "Walk: Bimah and Diocesan Museum",
+              "tip_5lang": {
+                "de": "Museen sind perfekt zum Aufwärmen.",
+                "hu": "A múzeumok tökéletesek a melegedésre.",
+                "ro": "Muzeele sunt perfecte pentru încălzire.",
+                "en": "Museums are perfect for warming up."
+              }
+            },
+            {
+              "name": "Cluster 2: Transit to the Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Heizung im Bus.",
+                "hu": "Élvezze a fűtést a buszon.",
+                "ro": "Bucurați-vă de căldura din autobuz.",
+                "en": "Enjoy the heating inside the bus."
+              }
+            },
+            {
+              "name": "Walk to Strzelecki Park",
+              "tip_5lang": {
+                "de": "Der Park ist im Winter früher dunkel.",
+                "hu": "A park télen hamarabb sötétedik.",
+                "ro": "Parcul se întunecă mai devreme iarna.",
+                "en": "The park gets dark earlier in winter."
+              }
+            },
+            {
+              "name": "Return from the Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie Winterfahrpläne auf Änderungen.",
+                "hu": "Ellenőrizze a téli menetrendi változásokat.",
+                "ro": "Verificați modificările de orar de iarnă.",
+                "en": "Check winter timetables for changes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei Schnee Verspätung haben.",
+              "Dicke Kleidung ist für die Wartezeit nötig.",
+              "Nutzen Sie elektronische Tickets für Schnelligkeit.",
+              "Die Heizung in alten Bussen variiert."
+            ],
+            "hu": [
+              "A buszok hóesésben késhetnek.",
+              "Vastag ruházat szükséges a várakozási időre.",
+              "Használjon e-jegyet a gyorsaság érdekében.",
+              "A fűtés a régi buszokon változó lehet."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri în caz de ninsoare.",
+              "Hainele groase sunt necesare pentru timpul de așteptare.",
+              "Folosiți bilete electronice pentru rapiditate.",
+              "Încălzirea în autobuzele vechi poate varia."
+            ],
+            "en": [
+              "Buses may be delayed during snowfall.",
+              "Thick clothing is necessary for waiting times.",
+              "Use electronic tickets for speed.",
+              "Heating in older buses varies."
+            ]
+          }
+        }
       }
     }
   }

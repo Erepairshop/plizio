@@ -379,6 +379,206 @@
           "Gleisdorf is compact, and most sights are easily reachable on foot.",
           "Plan for a longer lunch break to truly enjoy the Styrian cuisine."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen am Hauptplatz, die Arkaden bieten Schutz. Mittags besuchen wir die Stadtpfarrkirche und das trockene Museum im Getreidespeicher. Nachmittags betrachten wir den glänzenden Solarbaum unter dem Schirm. Abends entspannen wir im Hallenbereich des Wellenbades.",
+            "hu": "Esős reggel a főtéren, az árkádok alatt sétálunk. Délben a városi plébániatemplom és a magtár múzeuma nyújt száraz menedéket. Délután az esőben csillogó Napelem-fát nézzük meg ernyő alatt, este pedig a Wellenbad fedett részlegén pihenünk.",
+            "ro": "O dimineață ploioasă în piața centrală, arcadele oferă adăpost. La prânz vizităm biserica parohială și muzeul din hambar. După-amiază admirăm Copacul Solar strălucind sub ploaie, iar seara ne relaxăm în zona acoperită a piscinei.",
+            "en": "A rainy morning at the main square, using the arcades for cover. At noon, the parish church and the granary museum provide a dry retreat. In the afternoon, we see the Solar Tree glistening in the rain, ending the day at the wave pool's indoor area."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Die Arkaden des Rathauses bieten guten Schutz vor Regen.",
+                "hu": "A városháza árkádjai kiváló védelmet nyújtanak az eső ellen.",
+                "ro": "Arcadele primăriei oferă un adăpost bun împotriva ploii.",
+                "en": "The town hall arcades offer excellent protection from the rain."
+              }
+            },
+            {
+              "name": "Mary's Column & Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach für ein schnelles Foto.",
+                "hu": "Rövid megálló az előtető alatt egy gyors fotóra.",
+                "ro": "Scurt popas sub streașină pentru o fotografie rapidă.",
+                "en": "Short stop under the eaves for a quick photo."
+              }
+            },
+            {
+              "name": "Parish Church of St. Lawrence",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort, um die Regenpause abzuwarten.",
+                "hu": "Csendes, száraz hely, ideális megvárni az eső végét.",
+                "ro": "Un loc liniștit și uscat, ideal pentru a aștepta oprirea ploii.",
+                "en": "A quiet, dry place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "House of Music",
+              "tip_5lang": {
+                "de": "Im Foyer gibt es oft Informationen zu Konzerten im Trockenen.",
+                "hu": "Az előcsarnokban szárazon böngészhetjük a koncertnaptárt.",
+                "ro": "În hol puteți găsi informații despre concerte la adăpost.",
+                "en": "The foyer often has concert info in a dry setting."
+              }
+            },
+            {
+              "name": "Museum in the Granary",
+              "tip_5lang": {
+                "de": "Perfekt für Regentage, nehmen Sie sich Zeit für die Exponate.",
+                "hu": "Tökéletes esős napra, szánjon időt a kiállításokra.",
+                "ro": "Perfect pentru zilele ploioase, vizitați expozițiile pe îndelete.",
+                "en": "Perfect for rainy days, take your time with the exhibits."
+              }
+            },
+            {
+              "name": "Solar Tree",
+              "tip_5lang": {
+                "de": "Der Metallbaum wirkt bei grauem Himmel besonders futuristisch.",
+                "hu": "A fémfa szürke égbolt alatt különösen futurisztikus.",
+                "ro": "Arborele metalic pare deosebit de futurist sub cerul gri.",
+                "en": "The metal tree looks particularly futuristic under grey skies."
+              }
+            },
+            {
+              "name": "Gleisdorf Wave Pool",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Hallenbad und die Sauna bei schlechtem Wetter.",
+                "hu": "Használja a fedett medencét és a szaunát rossz időben.",
+                "ro": "Folosiți piscina interioară și sauna pe vreme rea.",
+                "en": "Make use of the indoor pool and sauna during bad weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Die Innenstadt hat viele kleine Cafés zum Aufwärmen.",
+              "Ein Regenschirm ist wegen der Windböen am Solarbaum wichtig.",
+              "Das Museum bietet eine ideale lange Pause bei Starkregen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákon.",
+              "A belvárosban számos kis kávézó várja a melegedni vágyókat.",
+              "Az esernyő fontos a Napelem-fánál tapasztalható szél miatt.",
+              "A múzeum ideális hosszú pihenőhely erős esőzés idején."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "Centrul orașului are multe cafenele mici pentru încălzire.",
+              "Umbrela este importantă din cauza vântului de lângă Copacul Solar.",
+              "Muzeul oferă o pauză lungă ideală în caz de ploaie torențială."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "The town center has many small cafes to warm up in.",
+              "An umbrella is important due to wind gusts near the Solar Tree.",
+              "The museum offers an ideal long break during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalter Wintermorgen am geschmückten Hauptplatz. Mittags wärmen wir uns in der Kirche und im Museum auf. Nachmittags leuchtet der Solarbaum in der frühen Dämmerung besonders hell. Abends genießen wir die heiße Sauna im Wellenbad-Komplex.",
+            "hu": "Hideg téli reggel a feldíszített főtéren. Délben a templomban és a múzeumban melegszünk fel. Délután a Napelem-fa a korai szürkületben különösen szépen világít. Este a Wellenbad forró szaunájában lazítunk.",
+            "ro": "Dimineață rece de iarnă în piața centrală decorată. La prânz ne încălzim în biserică și în muzeu. După-amiază, Copacul Solar strălucește în amurgul timpuriu. Seara ne bucurăm de sauna fierbinte de la piscina orașului.",
+            "en": "A cold winter morning at the decorated main square. At noon, we warm up in the church and museum. In the afternoon, the Solar Tree shines brightly in the early dusk. In the evening, we enjoy the hot sauna at the wave pool complex."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem Kopfsteinpflaster.",
+                "hu": "Vigyázat, a macskakő néhol csúszós lehet a fagytól.",
+                "ro": "Atenție la porțiunile alunecoase de pe pavaj.",
+                "en": "Watch out for slippery patches on the cobblestones."
+              }
+            },
+            {
+              "name": "Mary's Column & Town Hall",
+              "tip_5lang": {
+                "de": "Der Platz ist im Winter oft festlich beleuchtet.",
+                "hu": "A tér télen gyakran ünnepi díszkivilágítást kap.",
+                "ro": "Piața este adesea iluminată festiv în timpul iernii.",
+                "en": "The square is often festively illuminated in winter."
+              }
+            },
+            {
+              "name": "Parish Church of St. Lawrence",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine besinnliche Pause in der Kälte.",
+                "hu": "Csendes hely egy meghitt pihenőhöz a hidegben.",
+                "ro": "Un loc liniștit pentru o pauză de reflecție în frig.",
+                "en": "A quiet place for a peaceful break in the cold."
+              }
+            },
+            {
+              "name": "House of Music",
+              "tip_5lang": {
+                "de": "Abends finden hier oft gemütliche Winterkonzerte statt.",
+                "hu": "Este gyakran tartanak itt hangulatos téli koncerteket.",
+                "ro": "Seara au loc adesea concerte de iarnă primitoare.",
+                "en": "Cozy winter concerts often take place here in the evening."
+              }
+            },
+            {
+              "name": "Museum in the Granary",
+              "tip_5lang": {
+                "de": "Genießen Sie die gut beheizten Ausstellungsräume.",
+                "hu": "Élvezze a jól fűtött kiállítótermek nyugalmát.",
+                "ro": "Bucurați-vă de sălile de expoziție bine încălzite.",
+                "en": "Enjoy the well-heated exhibition rooms."
+              }
+            },
+            {
+              "name": "Solar Tree",
+              "tip_5lang": {
+                "de": "In der frühen Dunkelheit ist die Beleuchtung beeindruckend.",
+                "hu": "A korai sötétedésben lenyűgöző az objektum világítása.",
+                "ro": "Iluminarea este impresionantă în întunericul timpuriu.",
+                "en": "The lighting is impressive in the early darkness."
+              }
+            },
+            {
+              "name": "Gleisdorf Wave Pool",
+              "tip_5lang": {
+                "de": "Die Sauna ist der perfekte Abschluss für einen Wintertag.",
+                "hu": "A szauna tökéletes lezárása egy fagyos téli napnak.",
+                "ro": "Sauna este finalul perfect pentru o zi de iarnă.",
+                "en": "The sauna is the perfect end to a winter day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und Mütze sind für den Solarbaum-Besuch nötig.",
+              "Die Sonne geht im Dezember bereits gegen 16:15 Uhr unter.",
+              "Suchen Sie nach Cafés mit regionalen Heißgetränken.",
+              "Der Weg zum Wellenbad kann bei Schneefall rutschig sein."
+            ],
+            "hu": [
+              "Meleg kesztyű és sapka szükséges a Napelem-fa látogatásához.",
+              "A nap decemberben már 16:15 körül lemegy.",
+              "Keressen helyi forró italokat kínáló kávézókat.",
+              "A Wellenbad felé vezető út havazáskor csúszós lehet."
+            ],
+            "ro": [
+              "Mănușile și căciula sunt necesare pentru vizita la Copacul Solar.",
+              "Soarele apune deja în jurul orei 16:15 în decembrie.",
+              "Căutați cafenele cu băuturi calde regionale.",
+              "Drumul spre piscină poate fi alunecos în caz de ninsoare."
+            ],
+            "en": [
+              "Warm gloves and a hat are needed for the Solar Tree visit.",
+              "The sun sets as early as 4:15 PM in December.",
+              "Look for cafes offering regional hot drinks.",
+              "The path to the wave pool can be slippery during snowfall."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +929,188 @@
           "Gleisdorf is part of the R11 Raab Valley Cycle Path, which is suitable for longer tours.",
           "Use a backpack for water, snacks, and any purchases."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Radtour durch Gleisdorf. Wir starten vorsichtig am nassen Hauptplatz und nutzen das Museum für eine lange Pause. Nachmittags radeln wir zum Solarbaum und beenden die Tour beim Wellenbad, um uns wieder aufzuwärmen.",
+            "hu": "Esős kerékpártúra Gleisdorfban. Óvatosan indulunk a vizes főtérről, a múzeumnál pedig hosszú pihenőt tartunk. Délután a Napelem-fához tekerünk, majd a Wellenbadnál melegszünk fel a túra végén.",
+            "ro": "Tur cu bicicleta prin Gleisdorf pe ploaie. Pornim cu atenție din piața umedă și folosim muzeul pentru o pauză lungă. După-amiază pedalăm spre Copacul Solar și terminăm la piscină pentru a ne încălzi.",
+            "en": "Rainy bike tour through Gleisdorf. We start carefully at the wet main square and use the museum for a long break. In the afternoon, we cycle to the Solar Tree and end at the wave pool to warm up again."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázat az induláskor a vizes macskakövön.",
+                "ro": "Atenție la plecare pe pavajul umed.",
+                "en": "Be careful when starting off on wet cobblestones."
+              }
+            },
+            {
+              "name": "Parish Church of St. Lawrence",
+              "tip_5lang": {
+                "de": "Gute Fahrradständer in der Nähe des Eingangs vorhanden.",
+                "hu": "Jó kerékpártárolók találhatók a bejárat közelében.",
+                "ro": "Suporturi bune de biciclete disponibile lângă intrare.",
+                "en": "Good bike racks available near the entrance."
+              }
+            },
+            {
+              "name": "Museum in the Granary",
+              "tip_5lang": {
+                "de": "Idealer Ort, um nasse Kleidung kurz zu trocknen.",
+                "hu": "Ideális hely a vizes ruhák rövid szárítására.",
+                "ro": "Loc ideal pentru a usca scurt hainele umede.",
+                "en": "Ideal place to dry off wet gear for a bit."
+              }
+            },
+            {
+              "name": "House of Music",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, achten Sie auf Fußgänger mit Regenschirmen.",
+                "hu": "Rövid megálló, ügyeljen az esernyős gyalogosokra.",
+                "ro": "Scurt popas, atenție la pietonii cu umbrele.",
+                "en": "Short stop, watch out for pedestrians with umbrellas."
+              }
+            },
+            {
+              "name": "Solar Tree",
+              "tip_5lang": {
+                "de": "Der Boden um den Baum kann bei Nässe rutschig sein.",
+                "hu": "A fa körüli talaj nedvesen csúszós lehet.",
+                "ro": "Solul din jurul copacului poate fi alunecos când este ud.",
+                "en": "The ground around the tree can be slippery when wet."
+              }
+            },
+            {
+              "name": "Gleisdorf Wave Pool",
+              "tip_5lang": {
+                "de": "Fahrradparkplätze direkt vor dem Eingang.",
+                "hu": "Kerékpárparkolók közvetlenül a bejárat előtt.",
+                "ro": "Parcare pentru biciclete chiar în fața intrării.",
+                "en": "Bike parking available right in front of the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt im Regen.",
+              "Vermeiden Sie metallische Markierungen auf der Straße.",
+              "Wasserdichte Packtaschen sind sehr zu empfehlen.",
+              "Nutzen Sie die Unterführung beim Bahnhof als Regenschutz."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket az esőben való indulás előtt.",
+              "Kerülje az úttesten lévő fémjelzéseket.",
+              "Vízálló táskák használata erősen ajánlott.",
+              "Használja az állomási aluljárót eső elleni védelemként."
+            ],
+            "ro": [
+              "Verificați frânele înainte de plecare pe ploaie.",
+              "Evitați marcajele metalice de pe carosabil.",
+              "Genzile de transport impermeabile sunt foarte recomandate.",
+              "Folosiți pasajul subteran de la gară ca protecție contra ploii."
+            ],
+            "en": [
+              "Check your brakes before starting out in the rain.",
+              "Avoid metal markings on the road surface.",
+              "Waterproof panniers are highly recommended.",
+              "Use the station underpass as rain protection if needed."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostige Radtour durch das winterliche Gleisdorf. Wir radeln zügig zwischen den Sehenswürdigkeiten, um warm zu bleiben. Nachmittags erreichen wir den Solarbaum in der Dämmerung und beenden die Tour mit einem heißen Getränk beim Wellenbad.",
+            "hu": "Fagyos kerékpártúra a téli Gleisdorfban. Gyorsan tekerünk a látnivalók között, hogy melegen tartsuk magunkat. Délután a szürkületben érjük el a Napelem-fát, a túrát pedig egy forró itallal zárjuk a Wellenbadnál.",
+            "ro": "Tur cu bicicleta prin Gleisdorful înghețat. Pedalăm rapid între obiective pentru a ne menține calzi. După-amiază ajungem la Copacul Solar în amurg și încheiem turul cu o băutură caldă la piscină.",
+            "en": "A frosty bike tour through wintery Gleisdorf. We cycle briskly between sights to stay warm. In the afternoon, we reach the Solar Tree at dusk and end the tour with a hot drink near the wave pool."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen auf dem Platz.",
+                "hu": "Ügyeljen a téren lévő befagyott tócsákra.",
+                "ro": "Atenție la bălțile înghețate din piață.",
+                "en": "Watch out for frozen puddles in the square."
+              }
+            },
+            {
+              "name": "Parish Church of St. Lawrence",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause im Inneren der Kirche möglich.",
+                "hu": "Rövid melegedő pihenő lehetséges a templomban.",
+                "ro": "Scurtă pauză de încălzire posibilă în interior.",
+                "en": "Short warm-up break possible inside the church."
+              }
+            },
+            {
+              "name": "Museum in the Granary",
+              "tip_5lang": {
+                "de": "Lassen Sie die Handschuhe an der Garderobe trocknen.",
+                "hu": "Hagyja a kesztyűket a ruhatárban száradni.",
+                "ro": "Lăsați mănușile la garderobă pentru a se usca.",
+                "en": "Let your gloves dry at the cloakroom."
+              }
+            },
+            {
+              "name": "House of Music",
+              "tip_5lang": {
+                "de": "Die Glasfassade reflektiert das winterliche Licht.",
+                "hu": "Az üveghomlokzat szépen tükrözi a téli fényt.",
+                "ro": "Fațada de sticlă reflectă lumina de iarnă.",
+                "en": "The glass facade reflects the winter light beautifully."
+              }
+            },
+            {
+              "name": "Solar Tree",
+              "tip_5lang": {
+                "de": "Wunderschön beleuchtet, aber windig auf dem Hügel.",
+                "hu": "Gyönyörűen kivilágított, de szeles a dombtetőn.",
+                "ro": "Frumos iluminat, dar vântos pe vârful dealului.",
+                "en": "Beautifully lit, but windy on the hilltop."
+              }
+            },
+            {
+              "name": "Gleisdorf Wave Pool",
+              "tip_5lang": {
+                "de": "Heiße Duschen sind nach der kalten Fahrt ein Genuss.",
+                "hu": "A forró zuhany igazi élvezet a hideg túra után.",
+                "ro": "Dușurile fierbinți sunt o plăcere după drumul rece.",
+                "en": "Hot showers are a treat after the cold ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen für Fahrräder sind bei Eis ratsam.",
+              "Akkus von E-Bikes entladen sich bei Kälte schneller.",
+              "Gute Beleuchtung ist ab 16:00 Uhr Pflicht.",
+              "Vermeiden Sie scharfes Bremsen auf gestreuten Wegen."
+            ],
+            "hu": [
+              "Jeges úton ajánlott a téli gumi a kerékpárhoz.",
+              "Az elektromos kerékpárok akkuja gyorsabban merül hidegben.",
+              "Jó világítás kötelező 16:00 óra után.",
+              "Kerülje az erős fékezést a felszórt utakon."
+            ],
+            "ro": [
+              "Anvelopele de iarnă pentru biciclete sunt recomandate pe gheață.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Iluminarea bună este obligatorie după ora 16:00.",
+              "Evitați frânarea bruscă pe drumurile cu material antiderapant."
+            ],
+            "en": [
+              "Winter tires for bikes are advisable on ice.",
+              "E-bike batteries drain faster in the cold.",
+              "Good lighting is mandatory after 4:00 PM.",
+              "Avoid sharp braking on gritted paths."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1079,6 +1461,188 @@
           "Do not leave valuables visible in the car.",
           "The cluster planning allows you to leave the car and enjoy the atmosphere on foot."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequeme Autotour bei Regen. Wir parken zentral und besuchen den Hauptplatz und die Kirche. Mittags verbringen wir viel Zeit im Museum, bevor wir zum Wellenbad weiterfahren, um den Regentag im warmen Wasser zu genießen.",
+            "hu": "Kényelmes autós túra esőben. Központilag parkolunk, meglátogatjuk a főteret és a templomot. Délben sok időt töltünk a múzeumban, majd a Wellenbadhoz hajtunk, hogy a meleg vízben élvezzük az esős napot.",
+            "ro": "Tur auto confortabil pe ploaie. Parcăm central și vizităm piața și biserica. La prânz petrecem mult timp în muzeu, înainte de a pleca spre piscină pentru a ne bucura de apa caldă.",
+            "en": "Comfortable car tour in the rain. We park centrally and visit the main square and church. At noon, we spend plenty of time in the museum before driving to the wave pool to enjoy the rainy day in warm water."
+          },
+          "stops": [
+            {
+              "name": "Central Car Park",
+              "tip_5lang": {
+                "de": "Kurze Wege zu den Geschäften minimieren den Regen.",
+                "hu": "A rövid séta az üzletekig minimalizálja az elázást.",
+                "ro": "Distanțele scurte până la magazine minimizează udarea.",
+                "en": "Short paths to the shops minimize time in the rain."
+              }
+            },
+            {
+              "name": "Main Square & Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten direkt am Platz.",
+                "hu": "Használja a közvetlenül a téren lévő parkolóhelyeket.",
+                "ro": "Folosiți locurile de parcare direct în piață.",
+                "en": "Use the parking spaces directly on the square."
+              }
+            },
+            {
+              "name": "Parish Church of St. Lawrence",
+              "tip_5lang": {
+                "de": "Parken Sie kurz für einen schnellen Blick ins Innere.",
+                "hu": "Parkoljon le rövid időre egy gyors benti látogatáshoz.",
+                "ro": "Parcați scurt pentru o privire rapidă în interior.",
+                "en": "Park briefly for a quick look inside."
+              }
+            },
+            {
+              "name": "Museum in the Granary",
+              "tip_5lang": {
+                "de": "Parkplätze in unmittelbarer Nähe vorhanden.",
+                "hu": "Parkolóhelyek találhatók a közvetlen közelben.",
+                "ro": "Locuri de parcare disponibile în imediata apropiere.",
+                "en": "Parking spaces available in the immediate vicinity."
+              }
+            },
+            {
+              "name": "Car Park Wave Pool/Solar Tree",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist asphaltiert und meist pfützenfrei.",
+                "hu": "A parkoló aszfaltozott és többnyire pocsolyamentes.",
+                "ro": "Parcarea este asfaltată și în general fără bălți.",
+                "en": "The parking lot is paved and mostly puddle-free."
+              }
+            },
+            {
+              "name": "Gleisdorf Wave Pool",
+              "tip_5lang": {
+                "de": "Direkter Zugang vom Auto zum beheizten Eingangsbereich.",
+                "hu": "Közvetlen bejutás az autótól a fűtött bejárathoz.",
+                "ro": "Acces direct de la mașină spre intrarea încălzită.",
+                "en": "Direct access from the car to the heated entrance area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Fußgänger beim Einparken im Regen.",
+              "Die Sicht kann bei starkem Niederschlag eingeschränkt sein.",
+              "Halten Sie Kleingeld für die Parkautomaten bereit.",
+              "Das Auto ist der ideale Ort, um trockene Kleidung zu lagern."
+            ],
+            "hu": [
+              "Ügyeljen a gyalogosokra az esőben való parkoláskor.",
+              "A látási viszonyok korlátozottak lehetnek erős esőben.",
+              "Készítsen elő aprópénzt a parkolóautomatákhoz.",
+              "Az autó ideális hely a tartalék száraz ruha tárolására."
+            ],
+            "ro": [
+              "Atenție la pietoni când parcați pe ploaie.",
+              "Vizibilitatea poate fi limitată în caz de precipitații abundente.",
+              "Pregătiți mărunțiș pentru automatele de parcare.",
+              "Mașina este locul ideal pentru a depozita haine de schimb uscate."
+            ],
+            "en": [
+              "Watch out for pedestrians when parking in the rain.",
+              "Visibility may be limited during heavy precipitation.",
+              "Keep spare change ready for the parking meters.",
+              "The car is the ideal place to store dry spare clothes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Autotour durch das verschneite Gleisdorf. Wir genießen die Wärme im Fahrzeug zwischen den Stopps. Am Nachmittag bewundern wir den Solarbaum bequem vom Parkplatz aus und beenden den Tag in der Sauna des Wellenbades.",
+            "hu": "Téli autós túra a havas Gleisdorfban. Élvezzük a jármű melegét a megállók között. Délután kényelmesen, a parkolóból csodáljuk meg a Napelem-fát, a napot pedig a Wellenbad szaunájában zárjuk.",
+            "ro": "Tur auto de iarnă prin Gleisdorful înzăpezit. Ne bucurăm de căldura din mașină între opriri. După-amiază admirăm Copacul Solar confortabil din parcare și încheiem ziua la saună.",
+            "en": "A winter car tour through snowy Gleisdorf. We enjoy the warmth inside the vehicle between stops. In the afternoon, we admire the Solar Tree comfortably from the parking lot and end the day in the sauna."
+          },
+          "stops": [
+            {
+              "name": "Central Car Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schneehaufen auf den Parkflächen.",
+                "hu": "Vigyázat a parkolóhelyeken lévő hókupacokkal.",
+                "ro": "Atenție la mormanele de zăpadă de pe locurile de parcare.",
+                "en": "Be careful with snow piles on the parking spaces."
+              }
+            },
+            {
+              "name": "Main Square & Town Hall",
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche kann bei Wintermärkten länger dauern.",
+                "hu": "A parkolóhely-keresés téli vásárok idején tovább tarthat.",
+                "ro": "Căutarea unui loc de parcare poate dura mai mult în timpul târgurilor.",
+                "en": "Finding a parking spot may take longer during winter markets."
+              }
+            },
+            {
+              "name": "Parish Church of St. Lawrence",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eiszapfen an historischen Gebäuden.",
+                "hu": "Ügyeljen a történelmi épületeken lévő jégcsapokra.",
+                "ro": "Atenție la țurțurii de pe clădirile istorice.",
+                "en": "Watch out for icicles on historical buildings."
+              }
+            },
+            {
+              "name": "Museum in the Granary",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stehen laufen.",
+                "hu": "Ne járassa feleslegesen a motort várakozás közben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Do not leave the engine idling unnecessarily while waiting."
+              }
+            },
+            {
+              "name": "Car Park Wave Pool/Solar Tree",
+              "tip_5lang": {
+                "de": "Schnee kann die Parkmarkierungen verdeckt haben.",
+                "hu": "A hó elfedheti a parkolási felfestéseket.",
+                "ro": "Zăpada poate acoperi marcajele de parcare.",
+                "en": "Snow might hide the parking markings."
+              }
+            },
+            {
+              "name": "Gleisdorf Wave Pool",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den Weg vom Parkplatz nötig.",
+                "hu": "Meleg ruha kell a parkolótól a bejáratig tartó útra.",
+                "ro": "Haine groase necesare pentru drumul de la parcare.",
+                "en": "Warm clothes needed for the walk from the parking lot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Frostschutzmittel sind obligatorisch.",
+              "Parkhäuser sind im Winter oft wärmer und schneeferi.",
+              "Vermeiden Sie das Parken unter tief hängenden Ästen.",
+              "Heizen Sie das Auto vor, bevor Sie zum Wellenbad aufbrechen."
+            ],
+            "hu": [
+              "Téli gumi és fagyálló használata kötelező.",
+              "A parkolóházak télen gyakran melegebbek és hómentesek.",
+              "Kerülje a parkolást az alacsonyan lógó, havas ágak alatt.",
+              "Fűtse fel az autót, mielőtt elindul a Wellenbadhoz."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și antigelul sunt obligatorii.",
+              "Parcările etajate sunt adesea mai calde și fără zăpadă.",
+              "Evitați parcarea sub ramurile încărcate cu zăpadă.",
+              "Preîncălziți mașina înainte de a pleca spre piscină."
+            ],
+            "en": [
+              "Winter tires and antifreeze are mandatory.",
+              "Parking garages are often warmer and snow-free in winter.",
+              "Avoid parking under low-hanging, snow-laden branches.",
+              "Pre-heat the car before heading to the wave pool."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1429,6 +1993,188 @@
           "Most buses have displays for the next stop.",
           "Have small change ready for tickets if you buy them directly from the driver."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Gleisdorf mit Bus und Bahn bei Regen erkunden. Wir nutzen die überdachten Haltestellen am Hauptplatz und fahren mittags zum Museum. Der Nachmittag endet entspannt im Wellenbad, das gut an das Verkehrsnetz angebunden ist.",
+            "hu": "Gleisdorf felfedezése busszal és vonattal esőben. A főtér fedett megállóit használjuk, délben pedig a múzeumhoz utazunk. A délután a Wellenbadban zárul, amely jól kapcsolódik a közlekedési hálózathoz.",
+            "ro": "Explorarea orașului Gleisdorf cu autobuzul și trenul pe ploaie. Folosim stațiile acoperite din piață și mergem la muzeu la prânz. După-amiaza se încheie la piscină, bine conectată la rețea.",
+            "en": "Exploring Gleisdorf by bus and train in the rain. We use the sheltered stops at the main square and travel to the museum at noon. The afternoon ends at the wave pool, which is well-connected to the transit network."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Main Square",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Wartehäuschen auf den Anschluss.",
+                "hu": "Várja a csatlakozást a fedett utasváró alatt.",
+                "ro": "Așteptați legătura sub adăpostul stației.",
+                "en": "Wait for your connection under the bus shelter."
+              }
+            },
+            {
+              "name": "Main Square & Mary's Column",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt, viele Busse halten hier.",
+                "hu": "Központi csomópont, számos busz megáll itt.",
+                "ro": "Nod central, multe autobuze opresc aici.",
+                "en": "Central hub, many buses stop here."
+              }
+            },
+            {
+              "name": "Parish Church of St. Lawrence",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von der nächsten Haltestelle.",
+                "hu": "Csak rövid séta a legközelebbi megállótól.",
+                "ro": "Doar o scurtă plimbare de la cea mai apropiată stație.",
+                "en": "Only a short walk from the nearest stop."
+              }
+            },
+            {
+              "name": "Bus ride to the Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus dem trockenen Busfenster.",
+                "hu": "Élvezze a kilátást a száraz buszablak mögül.",
+                "ro": "Bucurați-vă de priveliște de la fereastra uscată a autobuzului.",
+                "en": "Enjoy the view from the dry bus window."
+              }
+            },
+            {
+              "name": "Museum in the Granary",
+              "tip_5lang": {
+                "de": "Die Haltestelle befindet sich fast direkt vor der Tür.",
+                "hu": "A megálló szinte közvetlenül az ajtó előtt van.",
+                "ro": "Stația se află aproape direct în fața ușii.",
+                "en": "The stop is almost directly in front of the door."
+              }
+            },
+            {
+              "name": "Gleisdorf Wave Pool",
+              "tip_5lang": {
+                "de": "Regelmäßige Busverbindungen zurück zum Bahnhof.",
+                "hu": "Rendszeres buszjáratok indulnak vissza az állomásra.",
+                "ro": "Conexiuni regulate de autobuz înapoi spre gară.",
+                "en": "Regular bus connections back to the train station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Abfahrtszeiten online bei Verspätungen.",
+              "Führen Sie einen kleinen Schirm für die Wege zur Haltestelle mit.",
+              "Nutzen Sie die App des steirischen Verkehrsverbunds.",
+              "Im Bus ist es oft feucht, lüften Sie Ihre Kleidung kurz."
+            ],
+            "hu": [
+              "Ellenőrizze az indulási időket online késés esetén.",
+              "Vigyen egy kis esernyőt a megállóig tartó sétatávokra.",
+              "Használja a stájer közlekedési szövetség alkalmazását.",
+              "A buszokon gyakran magas a pára, rázza le a vizet a ruhájáról."
+            ],
+            "ro": [
+              "Verificați orele de plecare online în caz de întârzieri.",
+              "Purtați o umbrelă mică pentru drumul până la stație.",
+              "Folosiți aplicația regiei de transport din Stiria.",
+              "În autobuz este adesea umezeală, scuturați apa de pe haine."
+            ],
+            "en": [
+              "Check departure times online in case of delays.",
+              "Carry a small umbrella for the walks to the stops.",
+              "Use the Styrian transport association app for real-time info.",
+              "Buses can be humid; shake off excess water before boarding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Ausflug mit öffentlichen Verkehrsmitteln. Wir genießen die Wärme in den Zügen und Bussen. Nachmittags besuchen wir den Solarbaum und nutzen die gute Anbindung, um rechtzeitig zur Sauna im Wellenbad zu gelangen.",
+            "hu": "Téli kirándulás tömegközlekedéssel. Élvezzük a vonatok és buszok melegét. Délután meglátogatjuk a Napelem-fát, és kihasználjuk a jó összeköttetést, hogy időben a Wellenbad szaunájába érjünk.",
+            "ro": "Excursie de iarnă cu transportul public. Ne bucurăm de căldura din trenuri și autobuze. După-amiază vizităm Copacul Solar și profităm de conexiunile bune pentru a ajunge la saună.",
+            "en": "A winter trip by public transport. We enjoy the warmth inside the trains and buses. In the afternoon, we visit the Solar Tree and use the good connections to reach the sauna at the wave pool on time."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Main Square",
+              "tip_5lang": {
+                "de": "Die Wartebereiche am Bahnhof sind beheizt.",
+                "hu": "Az állomás várótermei fűtöttek.",
+                "ro": "Sălile de așteptare din gară sunt încălzite.",
+                "en": "The waiting areas at the station are heated."
+              }
+            },
+            {
+              "name": "Main Square & Mary's Column",
+              "tip_5lang": {
+                "de": "Hier halten die Busse direkt beim Wintermarkt.",
+                "hu": "A buszok itt közvetlenül a téli vásárnál állnak meg.",
+                "ro": "Autobuzele opresc aici direct lângă târgul de iarnă.",
+                "en": "Buses stop here right next to the winter market."
+              }
+            },
+            {
+              "name": "Parish Church of St. Lawrence",
+              "tip_5lang": {
+                "de": "Kürzerer Aufenthalt bei starkem Schneefall empfohlen.",
+                "hu": "Erős havazáskor ajánlott rövidebb ideig maradni.",
+                "ro": "Se recomandă o ședere mai scurtă în caz de ninsoare abundentă.",
+                "en": "Shorter stay recommended during heavy snowfall."
+              }
+            },
+            {
+              "name": "Bus ride to the Museum",
+              "tip_5lang": {
+                "de": "Bequeme Fahrt durch das verschneite Stadtgebiet.",
+                "hu": "Kényelmes utazás a havas városi területen keresztül.",
+                "ro": "Călătorie confortabilă prin zona urbană înzăpezită.",
+                "en": "Comfortable ride through the snowy urban area."
+              }
+            },
+            {
+              "name": "Museum in the Granary",
+              "tip_5lang": {
+                "de": "Ideal für eine längere Pause im Warmen.",
+                "hu": "Ideális egy hosszabb pihenőhöz a melegben.",
+                "ro": "Ideal pentru o pauză mai lungă la căldură.",
+                "en": "Ideal for a longer break in the warmth."
+              }
+            },
+            {
+              "name": "Gleisdorf Wave Pool",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nahe am Haupteingang.",
+                "hu": "A buszmegálló közel van a főbejárathoz.",
+                "ro": "Stația de autobuz este aproape de intrarea principală.",
+                "en": "The bus stop is located close to the main entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Pufferzeiten für mögliche Schneeverzögerungen ein.",
+              "Halten Sie sich im beheizten Bahnhofsbereich auf.",
+              "Warme Kleidung ist für das Warten an der Haltestelle wichtig.",
+              "Abends sind die Busfrequenzen im Winter reduziert."
+            ],
+            "hu": [
+              "Tervezzen be tartalékidőt az esetleges téli késésekre.",
+              "Várjon a fűtött állomási helyiségekben.",
+              "Meleg ruha fontos a megállóban való várakozáshoz.",
+              "Téli estéken a buszok ritkábban járhatnak."
+            ],
+            "ro": [
+              "Planificați timp suplimentar pentru eventuale întârzieri de iarnă.",
+              "Așteptați în zonele încălzite ale gării.",
+              "Hainele groase sunt importante pentru așteptarea în stație.",
+              "Seara, frecvența autobuzelor este redusă iarna."
+            ],
+            "en": [
+              "Plan buffer time for potential snow-related delays.",
+              "Stay in the heated station areas while waiting.",
+              "Warm clothing is essential for waiting at the bus stops.",
+              "Bus frequencies are often reduced on winter evenings."
+            ]
+          }
+        }
       }
     }
   }

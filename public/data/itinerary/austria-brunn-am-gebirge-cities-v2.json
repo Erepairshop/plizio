@@ -332,6 +332,188 @@
           "Check the opening hours of the Local History Museum before your visit.",
           "Take water with you for the walk to the Brunner Heide."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt geschützt in der Kunigundenkirche, während der Regen auf das Dach prasselt. Mittags bietet das Heimatmuseum den perfekten Rückzugsort, gefolgt von einem gemütlichen Mittagessen im Gliedererhof. Am Nachmittag trotzen wir dem Wetter für einen Blick auf die Jugendstilfassaden und atmen die frische, feuchte Luft auf der Heide. Der Tag endet besinnlich in der Herz-Jesu-Kirche.",
+            "hu": "A délelőtt a Kunigunda-templom oltalmában indul, miközben az eső a tetőn kopog. Délben a helytörténeti múzeum nyújt tökéletes menedéket, majd egy kiadós ebéd következik a Gliedererhofban. Délután rövid sétát teszünk a szecessziós házaknál, és belélegezzük a Heide friss, párás levegőjét. A napot a Jézus Szíve-templom csendjében zárjuk, szárazon.",
+            "ro": "Dimineața începe la adăpost în Biserica Sf. Kunigunda, în timp ce ploaia bate în geamuri. La prânz, muzeul de istorie locală oferă refugiul perfect, urmat de o masă caldă la Gliedererhof. După-amiaza admirăm fațadele Art Nouveau sub umbrelă și respirăm aerul curat de pe pajiștea Heide. Ziua se încheie liniștit în interiorul uscat al Bisericii Sacra Inimă.",
+            "en": "The morning starts sheltered in St. Kunigunda's Church as rain taps on the roof. At noon, the local history museum provides the perfect indoor escape, followed by a cozy lunch at Gliedererhof. In the afternoon, we brave the weather for a glance at Art Nouveau facades and enjoy the fresh, damp air on the heath. The day ends peacefully inside the dry Sacred Heart Church."
+          },
+          "stops": [
+            {
+              "name": "Parish Church of St. Kunigunde",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als ersten trockenen Sammelpunkt.",
+                "hu": "Használja a templom bejáratát az első száraz gyülekezőhelyként.",
+                "ro": "Folosiți intrarea bisericii ca prim punct de întâlnire uscat.",
+                "en": "Use the church entrance as your first dry meeting point."
+              }
+            },
+            {
+              "name": "Brunn Local History Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den stärksten Regen bei spannender Geschichte auszusitzen.",
+                "hu": "Ideális hely a legnagyobb eső kivárására a helyi történetek közt.",
+                "ro": "Locul ideal pentru a aștepta trecerea ploii printre exponate.",
+                "en": "Ideal place to wait out the heaviest rain among local history."
+              }
+            },
+            {
+              "name": "Art Nouveau townhouses",
+              "tip_5lang": {
+                "de": "Blicken Sie unter dem Regenschirm nach oben zu den verzierten Giebeln.",
+                "hu": "Az esernyő alól is érdemes felnézni a díszes oromzatokra.",
+                "ro": "Priviți de sub umbrelă spre frontoanele decorate ale caselor.",
+                "en": "Look up from under your umbrella at the decorated gables."
+              }
+            },
+            {
+              "name": "Lunch at Gliedererhof",
+              "tip_5lang": {
+                "de": "Hängen Sie Ihre nassen Mäntel an die Garderobe und genießen Sie die Wärme.",
+                "hu": "Akassza a vizes kabátokat a fogasra, és élvezze a benti meleget.",
+                "ro": "Lăsați haina udă la cuier și bucurați-vă de căldura din interior.",
+                "en": "Hang your wet coats on the rack and enjoy the indoor warmth."
+              }
+            },
+            {
+              "name": "Brunner Heide (heathland)",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Pfaden, um Matsch zu vermeiden.",
+                "hu": "Maradjon a kijelölt ösvényeken a sár elkerülése érdekében.",
+                "ro": "Rămâneți pe potecile amenajate pentru a evita noroiul.",
+                "en": "Stay on the paved paths to avoid getting muddy."
+              }
+            },
+            {
+              "name": "Sacred Heart Church",
+              "tip_5lang": {
+                "de": "Ein letzter ruhiger Moment im Trockenen vor der Abreise.",
+                "hu": "Egy utolsó nyugodt pillanat szárazon a hazaindulás előtt.",
+                "ro": "Un ultim moment de liniște la uscat înainte de plecare.",
+                "en": "A final quiet moment in the dry before heading back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei den Windböen auf der Heide wichtig.",
+              "Tragen Sie wasserfeste Wanderschuhe für die unbefestigten Abschnitte.",
+              "Nutzen Sie die Kirchen für kurze, trockene Pausen zwischendurch.",
+              "Im Heimatmuseum können Sie Ihre Kleidung ein wenig trocknen lassen."
+            ],
+            "hu": [
+              "Egy stabil esernyő fontos a Heide nyílt területén fújó szél miatt.",
+              "Vízálló túracipő ajánlott a nem aszfaltozott részekre.",
+              "Használja ki a templomokat rövid, száraz pihenőkre útközben.",
+              "A helytörténeti múzeumban van lehetőség a ruházat szárítására."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este necesară pentru vântul de pe pajiște.",
+              "Purtați încălțăminte de munte impermeabilă pentru porțiunile de pământ.",
+              "Folosiți bisericile pentru scurte pauze uscate pe parcurs.",
+              "La muzeul local vă puteți usca puțin hainele în timpul vizitei."
+            ],
+            "en": [
+              "A sturdy umbrella is essential for the wind gusts on the open heath.",
+              "Wear waterproof hiking shoes for the unpaved sections.",
+              "Use the churches for short, dry breaks throughout the day.",
+              "The local museum is a great place to let your gear dry out a bit."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch an der Kunigundenkirche. Mittags wärmen wir uns im Heimatmuseum auf und genießen später ein herzhaftes Wintergericht im Gliedererhof. Am Nachmittag leuchten die Jugendstilfassaden im sanften Winterlicht, bevor wir einen kurzen Spaziergang über die frostige Heide machen. Der Tag endet im Kerzenschein der Herz-Jesu-Kirche, wenn die Dämmerung früh einsetzt.",
+            "hu": "A téli reggel frissen indul a Kunigunda-templomnál. Délben a helytörténeti múzeumban melegszünk fel, majd egy bőséges téli tálat eszünk a Gliedererhofban. Délután a szecessziós házak a lágy téli fényben ragyognak, mielőtt rövid sétát tennénk a fagyos Heide füvén. A nap a Jézus Szíve-templom gyertyafényében ér véget, ahogy korán leszáll az alkonyat.",
+            "ro": "Dimineața de iarnă începe cu aer rece la Biserica Sf. Kunigunda. La prânz ne încălzim în muzeu, apoi savurăm un prânz consistent la Gliedererhof. După-amiaza, fațadele Art Nouveau strălucesc în lumina blândă a iernii, urmată de o plimbare scurtă pe pajiștea înghețată. Ziua se încheie la lumina lumânărilor în Biserica Sacra Inimă, pe măsură ce se înserează devreme.",
+            "en": "The winter morning starts crisp at St. Kunigunda's Church. At noon, we warm up in the local museum and enjoy a hearty winter meal at Gliedererhof. In the afternoon, the Art Nouveau facades glow in the soft winter light before a short walk across the frosty heath. The day ends by candlelight in the Sacred Heart Church as dusk falls early."
+          },
+          "stops": [
+            {
+              "name": "Parish Church of St. Kunigunde",
+              "tip_5lang": {
+                "de": "Bewundern Sie die historischen Details in der kühlen Stille.",
+                "hu": "Csodálja meg a történelmi részleteket a hűvös csendben.",
+                "ro": "Admirați detaliile istorice în liniștea rece a dimineții.",
+                "en": "Admire the historical details in the cool morning silence."
+              }
+            },
+            {
+              "name": "Brunn Local History Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die kalten Finger an der Heizung aufzuwärmen.",
+                "hu": "Tökéletes hely a hideg ujjak felmelegítésére a fűtőtesteknél.",
+                "ro": "Locul perfect pentru a vă încălzi mâinile la calorifer.",
+                "en": "The perfect place to warm up your cold hands by the radiators."
+              }
+            },
+            {
+              "name": "Art Nouveau townhouses",
+              "tip_5lang": {
+                "de": "Die Fassaden wirken im tiefstehenden Winterlicht besonders plastisch.",
+                "hu": "A homlokzatok a lapos téli fényben különösen látványosak.",
+                "ro": "Fațadele par mai reliefate în lumina joasă a iernii.",
+                "en": "The facades look especially sculptural in the low winter light."
+              }
+            },
+            {
+              "name": "Lunch at Gliedererhof",
+              "tip_5lang": {
+                "de": "Bestellen Sie einen heißen Punsch oder Tee zum Aufwärmen.",
+                "hu": "Rendeljen egy forró puncsot vagy teát a felmelegedéshez.",
+                "ro": "Comandați un punch fierbinte sau un ceai pentru a vă încălzi.",
+                "en": "Order a hot punch or tea to warm yourself up."
+              }
+            },
+            {
+              "name": "Brunner Heide (heathland)",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über die oft schneebedeckte Ebene.",
+                "hu": "Élvezze a tágas kilátást az gyakran hófödte síkságra.",
+                "ro": "Bucurați-vă de priveliștea largă peste câmpia adesea înzăpezită.",
+                "en": "Enjoy the wide view over the often snow-covered plain."
+              }
+            },
+            {
+              "name": "Sacred Heart Church",
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Lichter in der frühen Dämmerung.",
+                "hu": "Figyelje meg a fények játékát a korai szürkületben.",
+                "ro": "Observați jocul luminilor în amurgul sosit devreme.",
+                "en": "Observe the play of lights in the early winter dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung und Handschuhe sind für die Heide unverzichtbar.",
+              "Bedenken Sie, dass die Dämmerung bereits gegen 16:30 Uhr einsetzt.",
+              "In der Kirche kann es kühler sein, behalten Sie die Jacke an.",
+              "Festes Schuhwerk schützt vor rutschigen Stellen auf den Wegen."
+            ],
+            "hu": [
+              "Meleg ruházat és kesztyű elengedhetetlen a Heide szeles részén.",
+              "Vegye figyelembe, hogy a szürkület már 16:30 körül elkezdődik.",
+              "A templomban hűvösebb lehet, ne vegye le a kabátját.",
+              "A stabil bakancs véd a jeges, csúszós útszakaszokon."
+            ],
+            "ro": [
+              "Hainele groase și mănușile sunt indispensabile pentru pajiște.",
+              "Rețineți că amurgul se instalează deja în jurul orei 16:30.",
+              "În interiorul bisericii poate fi răcoare, păstrați haina pe dvs.",
+              "Încălțămintea solidă protejează împotriva porțiunilor alunecoase."
+            ],
+            "en": [
+              "Warm clothing and gloves are indispensable for the windy heath.",
+              "Keep in mind that dusk already begins around 4:30 PM.",
+              "It can be chilly inside the church, so keep your jacket on.",
+              "Sturdy boots will protect you from slippery spots on the paths."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -642,6 +824,188 @@
           "Bring a lock to secure your bike.",
           "A water bottle is essential for this tour."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt bei Nieselregen am Wolfshof. Mittags erkunden wir die Kunigundenkirche und fahren dann zur Heide, wo der Duft des nassen Kalkbodens besonders intensiv ist. Am Nachmittag suchen wir Schutz im Naturpark Föhrenberge unter dem dichten Blätterdach. Den Tag lassen wir entspannt im Heimatmuseum und bei den Jugendstilvillen ausklingen, wenn der Regen nachlässt.",
+            "hu": "A kerékpártúra szemerkélő esőben indul a Wolfshofnál. Délben megnézzük a Kunigunda-templomot, majd a Heide felé tekerünk, ahol a vizes mészkő illata intenzív. Délután a Föhrenberge Natúrpark sűrű lombkoronája alatt keresünk menedéket. A napot a múzeumban és a szecessziós villáknál zárjuk, amikor az eső alábbhagy.",
+            "ro": "Turul pe bicicletă începe sub o ploaie ușoară la Wolfshof. La prânz vizităm biserica, apoi pedalăm spre pajiște, unde mirosul solului umed este intens. După-amiaza căutăm adăpost sub coronamentul des al parcului natural Föhrenberge. Încheiem ziua la muzeu și la vilele Art Nouveau, când ploaia se mai domolește.",
+            "en": "The bike tour starts in light drizzle at Wolfshof. At noon, we explore St. Kunigunda's Church, then ride to the heath where the scent of wet limestone is intense. In the afternoon, we seek shelter under the thick canopy of Föhrenberge Nature Park. We end the day at the museum and Art Nouveau villas as the rain subsides."
+          },
+          "stops": [
+            {
+              "name": "Start: Wolfshof & Gliedererhof",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, da der Asphalt rutschig sein kann.",
+                "hu": "Ellenőrizze a fékeket, az aszfalt csúszós lehet.",
+                "ro": "Verificați frânele, asfaltul poate fi alunecos.",
+                "en": "Check your brakes, as the asphalt can be slippery."
+              }
+            },
+            {
+              "name": "Parish Church of St. Kunigunde",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Dachvorsprung ab.",
+                "hu": "Parkolja le a kerékpárt az eresz alatt.",
+                "ro": "Parcați bicicleta sub streașina bisericii.",
+                "en": "Park your bike under the roof overhang."
+              }
+            },
+            {
+              "name": "Brunner Heide (heathland)",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen auf den Schotterwegen.",
+                "hu": "Vigyázat a mélyebb tócsákkal a murvás utakon.",
+                "ro": "Atenție la bălțile adânci de pe drumurile cu pietriș.",
+                "en": "Watch out for deep puddles on the gravel paths."
+              }
+            },
+            {
+              "name": "Bike ride to Föhrenberge Nature Park",
+              "tip_5lang": {
+                "de": "Die Bäume bieten guten Schutz vor leichtem Regen.",
+                "hu": "A fák jó védelmet nyújtanak az enyhe eső ellen.",
+                "ro": "Copacii oferă o protecție bună împotriva ploii ușoare.",
+                "en": "The trees provide good protection from light rain."
+              }
+            },
+            {
+              "name": "Brunn Local History Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als ausgiebige Regenpause.",
+                "hu": "Használja a múzeumlátogatást hosszabb esőpihenőnek.",
+                "ro": "Folosiți vizita la muzeu ca o pauză prelungită de ploaie.",
+                "en": "Use the museum visit as an extended rain break."
+              }
+            },
+            {
+              "name": "Art Nouveau townhouses",
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für Fotos, bevor es zurückgeht.",
+                "hu": "Egy gyors fotómegálló, mielőtt visszaindulna.",
+                "ro": "O oprire scurtă pentru poze înainte de întoarcere.",
+                "en": "A quick stop for photos before heading back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist für diese Tour unerlässlich.",
+              "Vermeiden Sie scharfe Kurven auf nassem Laub oder Markierungen.",
+              "Schutzbleche am Fahrrad verhindern Schlammspritzer auf der Heide.",
+              "Ein wasserdichter Sattelüberzug hält Sie während der Pausen trocken."
+            ],
+            "hu": [
+              "A teljes esőruházat elengedhetetlen ehhez a túrához.",
+              "Kerülje az éles kanyarokat vizes leveleken vagy útburkolati jeleken.",
+              "A sárvédő megakadályozza a sár felverődését a Heide útjain.",
+              "Egy vízálló nyeregvédő szárazon tartja önt a pihenők alatt."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este esențial pentru acest tur.",
+              "Evitați virajele strânse pe frunze ude sau marcaje rutiere.",
+              "Apărătorile de noroi sunt utile pentru porțiunile de pe pajiște.",
+              "O husă de șa impermeabilă vă va menține uscat în timpul pauzelor."
+            ],
+            "en": [
+              "Full rain gear is essential for this cycling tour.",
+              "Avoid sharp turns on wet leaves or road markings.",
+              "Mudguards on your bike will prevent mud splashes on the heath.",
+              "A waterproof saddle cover will keep you dry during the breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour startet am eiskalten Wolfshof. Mittags wärmen wir uns kurz in der Kunigundenkirche auf, bevor wir über die gefrorene Heide zur Naturpark Föhrenberge fahren, wo die Kiefern oft mit Reif bedeckt sind. Am Nachmittag bietet das Heimatmuseum den nötigen thermischen Rückzugsort. Der Tag endet bei den Jugendstilvillen, deren Konturen im harten Winterlicht scharf hervortreten.",
+            "hu": "A téli biciklitúra a jéghideg Wolfshofnál indul. Délben röviden felmelegszünk a Kunigunda-templomban, majd a fagyott Heidén át a Föhrenberge Natúrparkba tekerünk, ahol a fenyőket zúzmara fedi. Délután a helytörténeti múzeum nyújt menedéket a hideg elől. A nap a szecessziós villáknál zárul, melyek kontúrjai élesek a kemény téli fényben.",
+            "ro": "Turul hibernal începe la Wolfshoful înghețat. La prânz ne încălzim scurt în biserică, apoi pedalăm peste pajiștea înghețată spre parcul natural Föhrenberge, unde pinii sunt acoperiți de chiciură. După-amiaza, muzeul oferă refugiul termic necesar. Ziua se încheie la vilele Art Nouveau, ale căror contururi sunt clare în lumina tăioasă a iernii.",
+            "en": "The winter bike tour starts at the freezing Wolfshof. At noon, we briefly warm up in St. Kunigunda's Church before riding across the frozen heath to Föhrenberge Nature Park, where pines are often covered in frost. In the afternoon, the local museum offers a necessary thermal retreat. The day ends at the Art Nouveau villas, their contours sharp in the harsh winter light."
+          },
+          "stops": [
+            {
+              "name": "Start: Wolfshof & Gliedererhof",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteisstellen in schattigen Gassen.",
+                "hu": "Ügyeljen a jeges foltokra az árnyékos utcákban.",
+                "ro": "Atenție la porțiunile cu polei în zonele umbrite.",
+                "en": "Watch out for icy patches in shaded alleys."
+              }
+            },
+            {
+              "name": "Parish Church of St. Kunigunde",
+              "tip_5lang": {
+                "de": "Kurze Pause, um die Finger wieder zu spüren.",
+                "hu": "Rövid pihenő, hogy újra érezze az ujjait.",
+                "ro": "O scurtă pauză pentru a vă dezmorți degetele.",
+                "en": "Short break to get the feeling back in your fingers."
+              }
+            },
+            {
+              "name": "Brunner Heide (heathland)",
+              "tip_5lang": {
+                "de": "Der Boden ist hier oft sehr hart gefroren und rutschig.",
+                "hu": "A talaj itt gyakran keményre fagyott és csúszós.",
+                "ro": "Solul este adesea înghețat bocnă și alunecos aici.",
+                "en": "The ground here is often frozen solid and slippery."
+              }
+            },
+            {
+              "name": "Bike ride to Föhrenberge Nature Park",
+              "tip_5lang": {
+                "de": "Der Anstieg bringt den Kreislauf in Schwung.",
+                "hu": "Az emelkedő segít beindítani a vérkeringést.",
+                "ro": "Urcarea vă va ajuta să vă puneți sângele în mișcare.",
+                "en": "The climb will help get your circulation going."
+              }
+            },
+            {
+              "name": "Brunn Local History Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre im beheizten Haus.",
+                "hu": "Élvezze a barátságos hangulatot a fűtött épületben.",
+                "ro": "Bucurați-vă de atmosfera primitoare din clădirea încălzită.",
+                "en": "Enjoy the cozy atmosphere in the heated building."
+              }
+            },
+            {
+              "name": "Art Nouveau townhouses",
+              "tip_5lang": {
+                "de": "Zügiges Besichtigen, bevor die Kälte wieder durchzieht.",
+                "hu": "Gyors megtekintés, mielőtt a hideg újra átjárná.",
+                "ro": "Vizitare rapidă înainte ca frigul să pătrundă iar în haine.",
+                "en": "Quick sightseeing before the cold sets in again."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten und winddichte Handschuhe.",
+              "Vermeiden Sie das Fahren bei extremer Glätte oder Schneefall.",
+              "Der Akku von E-Bikes entlädt sich bei Kälte deutlich schneller.",
+              "Warmer Tee in einer Thermoskanne ist der beste Begleiter."
+            ],
+            "hu": [
+              "Viseljen réteges öltözetet és szélálló kesztyűt.",
+              "Kerülje a biciklizést extrém jegesedés vagy havazás idején.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül hidegben.",
+              "A termoszban vitt forró tea a legjobb kísérő a túrán."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine și mănuși anti-vânt.",
+              "Evitați deplasarea pe polei extrem sau în timpul ninsorii.",
+              "Bateria bicicletelor electrice se descarcă mult mai repede la ger.",
+              "Ceaiul cald într-un termos este cel mai bun partener de drum."
+            ],
+            "en": [
+              "Wear multiple layers and windproof gloves for the ride.",
+              "Avoid cycling during extreme icing or heavy snowfall.",
+              "E-bike batteries discharge significantly faster in the cold.",
+              "Hot tea in a thermos is your best companion on this tour."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -982,6 +1346,206 @@
           "Change your shoes between the city walk and the hike.",
           "Allow enough time for traffic between locations."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Tour beginnt entspannt mit der Parkplatzsuche im Zentrum. Mittags besuchen wir die Kunigundenkirche und das Museum, während es draußen schüttet. Am Nachmittag fahren wir bequem zum Naturpark Föhrenberge und zur Brunner Heide, wo wir die Aussicht trocken aus dem Wagen oder bei kurzen Stopps genießen. Der Tag endet mit einer kleinen Rundfahrt vorbei an den Jugendstilvillen.",
+            "hu": "A túra kényelmesen, központi parkolással indul. Délben a Kunigunda-templomot és a múzeumot látogatjuk meg, miközben odakint szakad az eső. Délután autónkkal a Föhrenberge Natúrparkhoz és a Heidéhez hajtunk, a kilátást szárazon, a kocsiból vagy rövid kiszállásokkal élvezve. A nap a szecessziós villák melletti autózással zárul.",
+            "ro": "Turul începe relaxat cu parcarea în centru. La prânz vizităm biserica și muzeul, în timp ce afară plouă torențial. După-amiaza conducem confortabil spre parcul natural și pajiștea Heide, admirând peisajul la adăpostul mașinii sau în opriri scurte. Ziua se încheie cu o mică plimbare auto pe lângă vilele Art Nouveau.",
+            "en": "The tour starts relaxed with parking in the center. At noon, we visit St. Kunigunda's Church and the museum while it pours outside. In the afternoon, we drive comfortably to the nature park and the heath, enjoying the views from the dry car or during short stops. The day ends with a scenic drive past the Art Nouveau villas."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Park & Start in the Center",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz nah an den Museen.",
+                "hu": "Keressen parkolót a múzeumok közvetlen közelében.",
+                "ro": "Căutați un loc de parcare aproape de muzee.",
+                "en": "Look for a parking spot close to the museums."
+              }
+            },
+            {
+              "name": "Parish Church of St. Kunigunde",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Auto zum Kircheneingang.",
+                "hu": "Rövid sprint az autótól a templombejáratig.",
+                "ro": "Un sprint scurt de la mașină până la intrarea bisericii.",
+                "en": "A short sprint from the car to the church entrance."
+              }
+            },
+            {
+              "name": "Brunn Local History Museum",
+              "tip_5lang": {
+                "de": "Parken Sie idealerweise in der Kirchengasse.",
+                "hu": "Parkoljon lehetőleg a Kirchengasse környékén.",
+                "ro": "Parcați ideal în zona Kirchengasse.",
+                "en": "Ideally, park in the Kirchengasse area."
+              }
+            },
+            {
+              "name": "Art Nouveau townhouses",
+              "tip_5lang": {
+                "de": "Die Fassaden lassen sich auch gut im Vorbeifahren bewundern.",
+                "hu": "A homlokzatok lassú áthajtás mellett is jól látszanak.",
+                "ro": "Fațadele pot fi admirate și din mersul mașinii.",
+                "en": "The facades can be admired well even while driving past."
+              }
+            },
+            {
+              "name": "Cluster B: Föhrenberge Nature Park",
+              "tip_5lang": {
+                "de": "Vom Waldparkplatz aus hat man eine gute Sicht.",
+                "hu": "Az erdei parkolóból is jó a kilátás.",
+                "ro": "De la parcarea din pădure aveți o priveliște bună.",
+                "en": "You have a good view right from the forest parking lot."
+              }
+            },
+            {
+              "name": "Cluster C: Brunner Heide",
+              "tip_5lang": {
+                "de": "Parken Sie am Rand und genießen Sie das Panorama.",
+                "hu": "Parkoljon le a szélén, és élvezze a panorámát.",
+                "ro": "Parcați la margine și bucurați-vă de panoramă.",
+                "en": "Park at the edge and enjoy the panorama."
+              }
+            },
+            {
+              "name": "Walk on the Heath",
+              "tip_5lang": {
+                "de": "Nur mit festen Schuhen aussteigen, Wege können rutschig sein.",
+                "hu": "Csak bakancsban szálljon ki, az utak csúszósak lehetnek.",
+                "ro": "Coborâți doar cu ghete solide, potecile pot fi alunecoase.",
+                "en": "Only get out with sturdy shoes; paths can be slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die kurzen Wege vom Auto zu den Sehenswürdigkeiten.",
+              "Vermeiden Sie unbefestigte Parkflächen auf der Heide bei Starkregen.",
+              "Gute Scheibenwischer sind wichtig für die Fahrt durch den Naturpark.",
+              "Haben Sie immer einen Schirm im Auto für den Weg zum Restaurant."
+            ],
+            "hu": [
+              "Használja ki a rövid sétákat az autó és a látnivalók között.",
+              "Heves esőben kerülje a nem aszfaltozott parkolóhelyeket a Heidénél.",
+              "A jó ablaktörlő fontos a Natúrparkon átvezető úton.",
+              "Mindig legyen esernyő az autóban az étteremig tartó útra."
+            ],
+            "ro": [
+              "Beneficiați de distanțele scurte de la mașină la obiective.",
+              "Evitați parcările neamenajate de pe pajiște în caz de ploaie grea.",
+              "Ștergătoarele bune sunt esențiale pentru drumul prin parcul natural.",
+              "Păstrați mereu o umbrelă în mașină pentru drumul spre restaurant."
+            ],
+            "en": [
+              "Take advantage of the short walks from the car to the sights.",
+              "Avoid unpaved parking areas on the heath during heavy rain.",
+              "Good windshield wipers are crucial for driving through the nature park.",
+              "Always keep an umbrella in the car for the walk to the restaurant."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen startet bequem im beheizten Wagen. Mittags besuchen wir die historischen Stätten im Zentrum und wärmen uns im Museum auf. Am Nachmittag fahren wir hinauf zum Naturpark Föhrenberge, um die verschneite Waldkulisse zu erleben, und blicken über die frostige Heide. Der Tag endet mit einer Fahrt durch die beleuchteten Straßen von Brunn, vorbei an den prächtigen Jugendstilvillen.",
+            "hu": "A téli reggel kényelmesen, a fűtött autóban indul. Délben felkeressük a központ történelmi helyszíneit, és a múzeumban melegszünk fel. Délután felhajtunk a Föhrenberge Natúrparkhoz a havas erdei látványért, majd a fagyos Heidére tekintünk. A nap Brunn kivilágított utcáin ér véget, elhaladva a pompás szecessziós villák mellett.",
+            "ro": "Dimineața de iarnă începe confortabil în mașina încălzită. La prânz vizităm siturile istorice din centru și ne încălzim la muzeu. După-amiaza urcăm spre parcul natural Föhrenberge pentru decorul forestier înzăpezit și admirăm pajiștea înghețată. Ziua se încheie cu o plimbare prin străzile iluminate, pe lângă vilele Art Nouveau.",
+            "en": "The winter morning starts comfortably in a heated car. At noon, we visit the historical sites in the center and warm up in the museum. In the afternoon, we drive up to Föhrenberge Nature Park to experience the snowy forest backdrop and look across the frosty heath. The day ends with a drive through the illuminated streets of Brunn, past the grand Art Nouveau villas."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Park & Start in the Center",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken auf schneebedeckten Flächen.",
+                "hu": "Vigyázat a parkolásnál a hóval fedett részeken.",
+                "ro": "Atenție la parcare pe suprafețele acoperite de zăpadă.",
+                "en": "Be careful when parking on snow-covered surfaces."
+              }
+            },
+            {
+              "name": "Parish Church of St. Kunigunde",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille im kühlen Kirchenraum.",
+                "hu": "Élvezze a csendet a hűvös templomtérben.",
+                "ro": "Bucurați-vă de liniște în interiorul răcoros al bisericii.",
+                "en": "Enjoy the silence in the cool church interior."
+              }
+            },
+            {
+              "name": "Brunn Local History Museum",
+              "tip_5lang": {
+                "de": "Ideale Aufwärmpause zwischen den Fahrten.",
+                "hu": "Ideális melegedő szünet az autózások között.",
+                "ro": "Pauză ideală de încălzire între deplasările cu mașina.",
+                "en": "An ideal warming break between the drives."
+              }
+            },
+            {
+              "name": "Art Nouveau townhouses",
+              "tip_5lang": {
+                "de": "Im Winterlicht wirken die Farben der Fassaden dezenter.",
+                "hu": "A téli fényben a homlokzatok színei visszafogottabbak.",
+                "ro": "În lumina iernii, culorile fațadelor par mai discrete.",
+                "en": "The colors of the facades appear more subtle in winter light."
+              }
+            },
+            {
+              "name": "Cluster B: Föhrenberge Nature Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Straßenglätte bei der Auffahrt.",
+                "hu": "Ügyeljen az útviszonyokra a felfelé vezető úton.",
+                "ro": "Atenție la drumul alunecos în timpul urcării.",
+                "en": "Watch out for slippery roads during the ascent."
+              }
+            },
+            {
+              "name": "Cluster C: Brunner Heide",
+              "tip_5lang": {
+                "de": "Ein herrlicher Panoramablick über die winterliche Ebene.",
+                "hu": "Pazar panoráma a téli síkság felett.",
+                "ro": "O panoramă superbă peste câmpia hibernală.",
+                "en": "A wonderful panoramic view over the winter plain."
+              }
+            },
+            {
+              "name": "Walk on the Heath",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für Fotos vom Frost oder Schnee.",
+                "hu": "Rövid kiszállás fotózni a zúzmarát vagy a havat.",
+                "ro": "Coborâre scurtă pentru poze cu chiciura sau zăpada.",
+                "en": "Short exit for photos of the frost or snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und ein Eiskratzer sind absolut notwendig.",
+              "Achten Sie auf vereiste Stellen auf den Parkplätzen.",
+              "Die Bergstraße zum Naturpark kann bei Neuschnee tückisch sein.",
+              "Lassen Sie den Motor bei längeren Stopps nicht unnötig laufen."
+            ],
+            "hu": [
+              "A téli gumi és a jégkaparó elengedhetetlen kellékek.",
+              "Ügyeljen a jeges foltokra a parkolókban.",
+              "A natúrparkhoz vezető hegyi út friss hóban csalóka lehet.",
+              "Hosszabb megállásoknál ne járassa feleslegesen a motort."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și racleta sunt absolut necesare.",
+              "Atenție la zonele înghețate din parcări.",
+              "Drumul spre parcul natural poate fi înșelător în caz de ninsoare.",
+              "Nu lăsați motorul pornit inutil în timpul opririlor mai lungi."
+            ],
+            "en": [
+              "Winter tires and an ice scraper are absolutely necessary.",
+              "Watch out for icy spots in the parking areas.",
+              "The mountain road to the nature park can be tricky with fresh snow.",
+              "Do not leave the engine running unnecessarily during longer stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1298,6 +1862,188 @@
           "Find out about the departure times of the buses to the heath.",
           "Have small change ready for bus tickets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am regnerischen Bahnhof Brunn-Maria Enzersdorf. Mittags besichtigen wir die Kirchen und das Heimatmuseum, die trockene Rückzugsorte bieten. Am Nachmittag nehmen wir den Bus zur Brunner Heide, um den Fußweg im Regen zu verkürzen, und genießen die Stimmung der nassen Natur. Der Tag endet mit einer entspannten Bahnfahrt zurück, während draußen der Regen gegen die Scheiben peitscht.",
+            "hu": "A nap az esős Brunn-Maria Enzersdorf vasútállomáson indul. Délben a templomokat és a múzeumot keressük fel, melyek száraz menedéket nyújtanak. Délután busszal megyünk a Heidéhez, hogy lerövidítsük az esőben való gyaloglást, és élvezzük a vizes természet hangulatát. A nap egy nyugodt vonatozással zárul, miközben az eső veri az ablakokat.",
+            "ro": "Ziua începe în gara Brunn-Maria Enzersdorf sub ploaie. La prânz vizităm bisericile și muzeul, care oferă refugii uscate. După-amiaza luăm autobuzul spre pajiște pentru a scurta mersul pe jos prin ploaie și admirăm natura umedă. Ziua se încheie cu o călătorie relaxantă cu trenul, în timp ce ploaia bate în geamuri.",
+            "en": "The day begins at the rainy Brunn-Maria Enzersdorf station. At noon, we visit the churches and the museum, which offer dry retreats. In the afternoon, we take the bus to the heath to shorten the walk in the rain and enjoy the atmosphere of damp nature. The day ends with a relaxed train ride back as rain lashes against the windows."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Arrival at Brunn-Maria Enzersdorf station",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Bahnhofsdach auf den Anschluss.",
+                "hu": "Várjon a perontető alatt a csatlakozásra.",
+                "ro": "Așteptați sub copertina gării pentru legătură.",
+                "en": "Wait under the station roof for your connection."
+              }
+            },
+            {
+              "name": "Sacred Heart Church",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von der Bushaltestelle entfernt.",
+                "hu": "Csak rövid séta a buszmegállótól.",
+                "ro": "La doar scurtă distanță de mers pe jos de stația de autobuz.",
+                "en": "Just a short walk away from the bus stop."
+              }
+            },
+            {
+              "name": "Parish Church of St. Kunigunde & Lunch",
+              "tip_5lang": {
+                "de": "Im Restaurant können Sie das Wetter bequem beobachten.",
+                "hu": "Az étteremből kényelmesen figyelheti az időjárást.",
+                "ro": "Din restaurant puteți observa confortabil vremea de afară.",
+                "en": "You can comfortably watch the weather from the restaurant."
+              }
+            },
+            {
+              "name": "Brunn Local History Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Warmen für lokale Geschichten.",
+                "hu": "Töltse a melegben az időt a helyi történetek közt.",
+                "ro": "Petreceți timpul la căldură aflând povești locale.",
+                "en": "Spend time in the warmth learning local stories."
+              }
+            },
+            {
+              "name": "Cluster B: Bus ride to Brunner Heide",
+              "tip_5lang": {
+                "de": "Der Bus schützt Sie vor dem Wind und Regen.",
+                "hu": "A busz megvédi önt a széltől és az esőtől.",
+                "ro": "Autobuzul vă protejează de vânt și ploaie.",
+                "en": "The bus will protect you from the wind and rain."
+              }
+            },
+            {
+              "name": "Walk and relax on the heath",
+              "tip_5lang": {
+                "de": "Bleiben Sie für den Rückweg nah an der Haltestelle.",
+                "hu": "A visszajutáshoz maradjon a megálló közelében.",
+                "ro": "Rămâneți aproape de stație pentru drumul de întoarcere.",
+                "en": "Stay close to the stop for your return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Busfahrzeiten vorab in der ÖBB-App.",
+              "Bahnhöfe und Bushaltestellen bieten oft guten Wetterschutz.",
+              "Ein kleiner Schirm passt gut in die Tasche für die kurzen Wege.",
+              "Nutzen Sie die Gastronomie für längere Wartezeiten im Trockenen."
+            ],
+            "hu": [
+              "Előre ellenőrizze a buszmenetrendet az ÖBB applikációban.",
+              "Az állomások és megállók gyakran jó védelmet nyújtanak.",
+              "Egy kisméretű esernyő ideális a rövid gyalogutakhoz.",
+              "Hosszabb várakozásnál használja ki a közeli kávézókat."
+            ],
+            "ro": [
+              "Verificați din timp orarul autobuzelor în aplicația ÖBB.",
+              "Gările și stațiile oferă adesea protecție bună contra ploii.",
+              "O umbrelă mică este ideală pentru distanțele scurte de mers.",
+              "Folosiți cafenelele din zonă pentru timpii de așteptare lungi."
+            ],
+            "en": [
+              "Check the bus schedules in advance using the ÖBB app.",
+              "Stations and bus stops often provide good shelter from rain.",
+              "A small umbrella is perfect for the short walking distances.",
+              "Utilize local cafes for longer waiting periods in the dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag beginnt am frostigen Bahnhof. Mittags wärmen wir uns in den Kirchen und im Heimatmuseum auf, bevor wir den Bus zur Brunner Heide nehmen. Dort genießen wir die kühle, klare Luft und den weiten Blick über die oft gefrorene Landschaft. Der Tag endet mit der Rückfahrt im beheizten Zug, während die Lichter von Brunn in der frühen Dunkelheit funkeln.",
+            "hu": "A téli nap a fagyos vasútállomáson indul. Délben a templomokban és a múzeumban melegszünk fel, mielőtt busszal a Heidéhez mennénk. Ott élvezzük a hűvös, tiszta levegőt és a kilátást a gyakran fagyott tájra. A nap a fűtött vonaton zárul, miközben Brunn fényei csillognak a korai sötétségben.",
+            "ro": "Ziua de iarnă începe în gara înghețată. La prânz ne încălzim în biserici și la muzeu, înainte de a lua autobuzul spre pajiște. Acolo ne bucurăm de aerul rece și curat și de priveliștea peste peisajul adesea înghețat. Ziua se încheie cu drumul de întoarcere în trenul încălzit, sub luminile orașului.",
+            "en": "The winter day starts at the frosty station. At noon, we warm up in the churches and the local museum before taking the bus to the heath. There, we enjoy the cool, crisp air and the wide view over the often frozen landscape. The day ends with a ride back in a heated train as the lights of Brunn sparkle in the early darkness."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Arrival at Brunn-Maria Enzersdorf station",
+              "tip_5lang": {
+                "de": "Achten Sie auf die glatten Bahnsteigkanten.",
+                "hu": "Ügyeljen a peronok csúszós szélére.",
+                "ro": "Atenție la marginile alunecoase ale peroanelor.",
+                "en": "Watch out for slippery platform edges."
+              }
+            },
+            {
+              "name": "Sacred Heart Church",
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im Winterlicht besonders eindrucksvoll.",
+                "hu": "Az építészet a téli fényben különösen hatásos.",
+                "ro": "Arhitectura pare mai impresionantă în lumina iernii.",
+                "en": "The architecture looks especially impressive in winter light."
+              }
+            },
+            {
+              "name": "Parish Church of St. Kunigunde & Lunch",
+              "tip_5lang": {
+                "de": "Ein heißes Getränk ist nach der Ankunft sehr willkommen.",
+                "hu": "Egy forró ital nagyon jól esik az érkezés után.",
+                "ro": "O băutură fierbinte este binevenită după sosire.",
+                "en": "A hot drink is very welcome upon arrival."
+              }
+            },
+            {
+              "name": "Brunn Local History Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen.",
+                "hu": "Használja a múzeumlátogatást felmelegedésre.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi.",
+                "en": "Use the museum visit to warm yourself up."
+              }
+            },
+            {
+              "name": "Cluster B: Bus ride to Brunner Heide",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus dem warmen Busfenster.",
+                "hu": "Élvezze a kilátást a meleg busz ablakából.",
+                "ro": "Bucurați-vă de priveliște de la fereastra caldă a autobuzului.",
+                "en": "Enjoy the view from the warm bus window."
+              }
+            },
+            {
+              "name": "Walk and relax on the heath",
+              "tip_5lang": {
+                "de": "Bewegen Sie sich viel, um warm zu bleiben.",
+                "hu": "Mozogjon sokat, hogy melegen tartsa magát.",
+                "ro": "Mișcați-vă mult pentru a vă menține căldura corporală.",
+                "en": "Keep moving to stay warm while on the heath."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrplanänderungen bei Wintereinbruch sind möglich.",
+              "Tragen Sie warme Winterschuhe für das Warten an Haltestellen.",
+              "Züge und Busse sind im Winter meist gut beheizt.",
+              "Beachten Sie den früheren Sonnenuntergang für Ihre Rückreise."
+            ],
+            "hu": [
+              "Téli időjárás esetén előfordulhatnak menetrendi változások.",
+              "Viseljen meleg téli cipőt a megállókban való várakozáshoz.",
+              "A vonatok és buszok télen általában jól fűtöttek.",
+              "A visszautazásnál vegye figyelembe a korai naplementét."
+            ],
+            "ro": [
+              "Sunt posibile modificări de orar în caz de vreme severă.",
+              "Purtați încălțăminte groasă pentru așteptarea în stații.",
+              "Trenurile și autobuzele sunt de regulă bine încălzite iarna.",
+              "Țineți cont de apusul sosit devreme pentru drumul de întoarcere."
+            ],
+            "en": [
+              "Schedule changes are possible during severe winter weather.",
+              "Wear warm winter shoes for waiting at transit stops.",
+              "Trains and buses are usually well-heated in winter.",
+              "Keep the early sunset in mind for your return journey."
+            ]
+          }
+        }
       }
     }
   }

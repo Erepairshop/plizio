@@ -302,6 +302,170 @@
           "Bring water with you, especially on warm days.",
           "An early morning walk is best to enjoy the town's tranquility."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den verregneten Vormittag im Besucherzentrum des Nationalparks, wo Sie im Trockenen mehr über das Prokletije-Gebirge erfahren können. Mittags bieten die historische Wesir-Moschee und der befestigte Radončić-Turm Schutz vor dem Wetter und faszinierende Einblicke in die Architektur von Gusinje. Den Nachmittag verbringen Sie in der St.-Antonius-Kirche und bei einem ausgiebigen Mittagessen im Stadtzentrum, während draußen der Regen die Bergkulisse in mystischen Nebel hüllt.",
+            "hu": "Kezdje az esős délelőttöt a nemzeti park látogatóközpontjában, ahol fedett helyen ismerkedhet meg a Prokletije élővilágával. Délben a Vezír-mecset és a Radončić-torony vastag falai között kereshet menedéket az égi áldás elől, felfedezve a helyi építészet remekeit. Délután a Szent Antal-templom megtekintése után egy hosszú, melengető ebéd következik a központban, miközben a város felett gomolyog a köd.",
+            "ro": "Începeți dimineața ploioasă la Centrul de Vizitare al Parcului Național, un refugiu ideal pentru a învăța despre munții Prokletije. La prânz, Moscheea Vizirului și Turnul Radončić oferă adăpost și o incursiune în istoria locală. După-amiaza este dedicată Bisericii Sf. Anton și unui prânz prelungit în centrul orașului, bucurându-vă de atmosfera liniștită creată de ploaia care spală străzile vechi.",
+            "en": "Start the rainy morning at the National Park Visitor Center, a perfect indoor spot to learn about the Prokletije range. At noon, find shelter within the historic Vizier's Mosque and the fortified Radončić Tower while exploring Gusinje's unique heritage. Spend the afternoon visiting St. Anthony's Church and enjoying a long, hearty lunch in the town center as the rain turns the surrounding peaks into a misty landscape."
+          },
+          "stops": [
+            {
+              "name": "Prokletije National Park Visitor Center",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen und Trocknen bei Regen.",
+                "hu": "Tökéletes hely a szárítkozásra és információszerzésre.",
+                "ro": "Locul ideal pentru a scăpa de ploaie și a lua hărți.",
+                "en": "Perfect spot to stay dry and gather hiking info."
+              }
+            },
+            {
+              "name": "Vizier's Mosque",
+              "tip_5lang": {
+                "de": "Schuhe ausziehen – Socken bereithalten, Boden ist kühl.",
+                "hu": "Vegyük le a cipőt; a zokni legyen kéznél a hűvös padlóhoz.",
+                "ro": "Descălțați-vă la intrare; interiorul este protejat și uscat.",
+                "en": "Take off shoes at the entrance; the interior is dry and quiet."
+              }
+            },
+            {
+              "name": "Radončić Tower",
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten Sie garantiert trocken.",
+                "hu": "A vastag kőfalak garantáltan megvédenek az esőtől.",
+                "ro": "Zidurile groase de piatră vă vor proteja de umiditate.",
+                "en": "The thick stone walls will keep you perfectly dry."
+              }
+            },
+            {
+              "name": "St. Anthony's Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Rückzugsort vor dem stürmischen Wetter.",
+                "hu": "Csendes menedék a kinti viharos időjárás elől.",
+                "ro": "Un refugiu liniștit departe de vremea furtunoasă.",
+                "en": "A quiet sanctuary away from the stormy weather."
+              }
+            },
+            {
+              "name": "Lunch in the Town Center",
+              "tip_5lang": {
+                "de": "Probieren Sie heißen 'Mantije' – perfekt gegen Regenblues.",
+                "hu": "Kóstolja meg a forró mantijét, remek eső ellen.",
+                "ro": "Încercați plăcintele calde 'Mantije' pentru a vă încălzi.",
+                "en": "Try hot 'Mantije' pastries to beat the rainy blues."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gusinje liegt in einem Kessel, Regenwolken hängen oft tief.",
+              "Die Gehwege können bei Nässe rutschig sein, tragen Sie Profilsohlen.",
+              "Nutzen Sie die Indoor-Sehenswürdigkeiten als Etappenziele zum Trocknen.",
+              "Ein Regenschirm ist bei den kurzen Distanzen im Ort praktischer als ein Poncho."
+            ],
+            "hu": [
+              "Gusinje völgyében az esőfelhők gyakran megrekednek a hegyek között.",
+              "A járdák vizesen csúszhatnak, válasszon tapadós talpú cipőt.",
+              "Használja a múzeumokat és templomokat pihenőpontként a száradáshoz.",
+              "A városi séta során az esernyő praktikusabb a poncsónál."
+            ],
+            "ro": [
+              "Norii de ploaie tind să stăruie în valea adâncă a orașului Gusinje.",
+              "Trotuarele pot deveni alunecoase; purtați încălțăminte cu aderență bună.",
+              "Folosiți obiectivele interioare ca puncte de oprire pentru a vă usca.",
+              "O umbrelă este mai comodă decât o pelerină pentru distanțele scurte."
+            ],
+            "en": [
+              "Rain clouds often linger in the deep valley surrounding Gusinje.",
+              "Pavements can be slippery when wet; wear shoes with good traction.",
+              "Use indoor sights as strategic points to dry off between walks.",
+              "An umbrella is more practical than a poncho for short town hops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Gusinje als Wintermärchen. Am Vormittag bietet das Besucherzentrum einen gemütlichen Start, bevor Sie zur Wesir-Moschee stapfen. Das Licht im Winter ist kurz, daher nutzen Sie die Mittagsstunden für den Radončić-Turm und die St.-Antonius-Kirche. Der Nachmittag endet früh bei einem wärmenden Essen im Zentrum, während die Sonne bereits hinter den schneebedeckten Gipfeln der Prokletije verschwindet.",
+            "hu": "Fedezze fel Gusinjét téli mesevilágként. Délelőtt a látogatóközpont melegéből indulva látogassa meg a hófödte Vezír-mecsetet. A téli napok rövidek, így a déli órákat használja ki a Radončić-toronyra és a templomra. A délután már egy forró ebéd mellett ér véget a központban, miközben a nap korán eltűnik a Prokletije csipkés, havas csúcsai mögött.",
+            "ro": "Descoperiți Gusinje într-o atmosferă de basm hibernal. Dimineața începe la centrul de vizitare, urmată de o plimbare prin zăpadă spre Moscheea Vizirului. Lumina este scurtă iarna, așa că profitați de orele prânzului pentru Turnul Radončić și biserică. După-amiaza se încheie devreme cu o masă caldă în centru, în timp ce soarele apune rapid după crestele înzăpezite.",
+            "en": "Experience Gusinje as a winter wonderland. In the morning, start cozy at the visitor center before trekking to the snow-draped Vizier's Mosque. Winter daylight is short, so use the midday hours for the Radončić Tower and St. Anthony's Church. The afternoon ends early with a warm meal in the center as the sun vanishes behind the jagged, snowy peaks of Prokletije."
+          },
+          "stops": [
+            {
+              "name": "Prokletije National Park Visitor Center",
+              "tip_5lang": {
+                "de": "Prüfen Sie hier die Schneebedingungen der Wanderwege.",
+                "hu": "Itt tájékozódhat a túraútvonalak hóviszonyairól.",
+                "ro": "Verificați aici starea zăpezii pe traseele montane.",
+                "en": "Check here for snow conditions on the mountain trails."
+              }
+            },
+            {
+              "name": "Vizier's Mosque",
+              "tip_5lang": {
+                "de": "Vorsicht vor herabfallendem Schnee vom Dach.",
+                "hu": "Vigyázzon a tetőről lezúduló hótömegre a bejáratnál.",
+                "ro": "Atenție la zăpada care poate cădea de pe acoperiș.",
+                "en": "Watch out for snow sliding off the roof near the entrance."
+              }
+            },
+            {
+              "name": "Radončić Tower",
+              "tip_5lang": {
+                "de": "Innen ist es kühl; behalten Sie die Jacke an.",
+                "hu": "Belül hűvös van, ne vegye le a kabátját.",
+                "ro": "Interiorul este răcoros; păstrați haina pe dvs.",
+                "en": "It's chilly inside; keep your winter coat on."
+              }
+            },
+            {
+              "name": "St. Anthony's Church",
+              "tip_5lang": {
+                "de": "Der Vorplatz kann vereist sein, gehen Sie vorsichtig.",
+                "hu": "A templom előtti tér jeges lehet, óvatosan lépkedjen.",
+                "ro": "Piața din fața bisericii poate fi înghețată.",
+                "en": "The church courtyard can be icy; walk carefully."
+              }
+            },
+            {
+              "name": "Lunch in the Town Center",
+              "tip_5lang": {
+                "de": "Bestellen Sie Tee mit lokalem Honig zum Aufwärmen.",
+                "hu": "Rendeljen teát helyi mézzel az átmelegedéshez.",
+                "ro": "Comandați un ceai cu miere locală pentru încălzire.",
+                "en": "Order tea with local honey to warm up thoroughly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gusinje bekommt sehr viel Schnee; wasserfeste Stiefel sind Pflicht.",
+              "Die Sonne verschwindet im Winter bereits gegen 16:00 Uhr hinter den Bergen.",
+              "Viele kleine Läden im Zentrum bieten heiße Getränke an.",
+              "Achten Sie auf Eiszapfen an den traditionellen Holzhäusern."
+            ],
+            "hu": [
+              "Gusinjéban rengeteg hó esik; a vízálló bakancs elengedhetetlen.",
+              "A nap télen már 16:00 körül eltűnik a magas hegyek mögött.",
+              "A központ kisboltjaiban érdemes forró italt venni útközben.",
+              "Vigyázzon a hagyományos faházak ereszéről lelógó jégcsapokra."
+            ],
+            "ro": [
+              "Gusinje primește multă zăpadă; cizmele impermeabile sunt obligatorii.",
+              "Soarele apune după munți deja în jurul orei 16:00 iarna.",
+              "Multe magazine mici din centru oferă băuturi calde la pachet.",
+              "Fiți atenți la țurțurii de gheață de pe streșinile caselor vechi."
+            ],
+            "en": [
+              "Gusinje gets significant snowfall; waterproof boots are a must.",
+              "The sun sets behind the mountains as early as 4 PM in winter.",
+              "Small shops in the center are great for grabbing a quick hot tea.",
+              "Watch out for large icicles hanging from traditional wooden eaves."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -582,6 +746,170 @@
           "Check your bike before leaving, especially the brakes.",
           "Bring enough water and high-energy snacks."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour beginnt bei den Quellen von Ali Pascha, wo der Regen das sprudelnde Wasser noch gewaltiger wirken lässt. Mittags suchen Sie Schutz im historischen Kern bei der Moschee und dem Radončić-Turm, bevor Sie sich im Ort aufwärmen. Der Nachmittag führt zum Besucherzentrum, während die geplante Fahrt ins Grebaje-Tal bei Regen besonders vorsichtige Fahrweise auf den rutschigen Straßen erfordert.",
+            "hu": "Az esős bringatúra az Ali pasa forrásainál indul, ahol a csapadék még dübörgőbbé teszi a vizet. Délben a történelmi központban, a mecset és a Radončić-torony környékén keressen fedett helyet, majd melegedjen fel ebédnél. Délután a látogatóközpont következik, a Grebaje-völgy felé vezető út pedig fokozott figyelmet igényel a csúszós aszfalton.",
+            "ro": "O tură cu bicicleta pe ploaie începe la Izvoarele lui Ali Pașa, unde apa pare și mai vijelioasă. La prânz, căutați adăpost în nucleul istoric lângă moschee și Turnul Radončić, apoi încălziți-vă la un restaurant. După-amiaza vizitați centrul parcului, iar drumul spre Valea Grebaje necesită prudență maximă pe asfaltul ud.",
+            "en": "A wet bike ride starts at Ali Pasha's Springs, where the rain adds to the power of the bubbling waters. At noon, seek shelter in the historic core near the mosque and Radončić Tower before warming up with lunch. The afternoon continues to the visitor center, while the ride toward Grebaje Valley requires extra caution on the slick, rain-soaked roads."
+          },
+          "stops": [
+            {
+              "name": "Ali Pasha's Springs",
+              "tip_5lang": {
+                "de": "Vorsicht, die Holzstege sind bei Nässe extrem rutschig.",
+                "hu": "Vigyázat, a fapallók vizesen rendkívül csúszósak.",
+                "ro": "Atenție, podețele de lemn sunt extrem de alunecoase pe ploaie.",
+                "en": "Caution: the wooden walkways are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Vizier's Mosque & Radončić Tower",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Dachvorsprung ab.",
+                "hu": "Támassza le a biciklit az eresz alá a száradáshoz.",
+                "ro": "Parcați bicicleta sub streșină pentru a o păstra uscată.",
+                "en": "Park your bike under the eaves to keep it dry."
+              }
+            },
+            {
+              "name": "Lunch in town",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Platz für Ihre nassen Sachen.",
+                "hu": "Kérjen helyet a vizes ruhák felakasztásához.",
+                "ro": "Întrebați dacă puteți lăsa hainele ude la uscat.",
+                "en": "Ask for a spot to hang your wet gear during lunch."
+              }
+            },
+            {
+              "name": "National Park Visitor Center",
+              "tip_5lang": {
+                "de": "Guter Stopp, um die Regenkleidung zu richten.",
+                "hu": "Jó megálló az esőfelszerelés igazításához.",
+                "ro": "Un loc bun pentru a vă rearanja echipamentul de ploaie.",
+                "en": "Good stop to readjust your rain gear and dry off."
+              }
+            },
+            {
+              "name": "Ride towards Grebaje Valley",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Sicht im Tal oft gering.",
+                "hu": "Erős esőben a látótávolság a völgyben minimális lehet.",
+                "ro": "Vizibilitatea în vale poate fi scăzută în timpul ploii.",
+                "en": "Visibility in the valley can be very poor during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei den Pfützen in Gusinje essenziell.",
+              "Vermeiden Sie plötzliches Bremsen auf den Kopfsteinpflaster-Abschnitten.",
+              "Wasserdichte Packtaschen schützen Ihre Kamera und Wechselkleidung.",
+              "Die Bergstraßen haben bei Regen oft Steinschlaggefahr."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a gusinjei tócsák ellen.",
+              "Kerülje a hirtelen fékezést a macskaköves szakaszokon.",
+              "A vízálló táska kötelező a fényképezőgép és váltóruha védelmére.",
+              "Esőben a hegyi utak mentén megnő a kőomlás veszélye."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt esențiale pentru bălțile din Gusinje.",
+              "Evitați frânările bruște pe secțiunile cu piatră cubică.",
+              "Genzile impermeabile sunt vitale pentru aparatul foto și haine.",
+              "Drumurile montane pot prezenta riscuri de căderi de pietre pe ploaie."
+            ],
+            "en": [
+              "Mudguards/fenders are essential for the frequent puddles in Gusinje.",
+              "Avoid sudden braking on the cobblestone sections in town.",
+              "Waterproof panniers are a must for protecting your camera and dry clothes.",
+              "Be aware of increased rockfall risk on mountain roads during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour in Gusinje erfordert Mut und Ausrüstung. Am Vormittag funkeln die Ali-Pascha-Quellen im Frost. Mittags bieten die historischen Bauten im Ort eine willkommene Pause vom kalten Fahrtwind. Nach einem stärkenden Mittagessen besuchen Sie das Besucherzentrum, bevor Sie in der klaren Winterluft kurz Richtung Grebaje-Tal radeln, um das beeindruckende Panorama der verschneiten Massive zu genießen.",
+            "hu": "A téli bringázás Gusinjéban elszántságot igényel. Délelőtt az Ali pasa forrásai fagypont környékén csillognak. Napközben a város történelmi épületei nyújtanak szélvédett pihenőt a hideg menetszél után. Egy forró ebéd és a látogatóközpont után tegyen egy rövid kört a Grebaje-völgy felé, élvezve a kristálytiszta levegőt és a havas hegycsúcsok látványát.",
+            "ro": "O tură de iarnă cu bicicleta necesită echipament adecvat. Dimineața, Izvoarele lui Ali Pașa sclipesc sub ger. La prânz, clădirile istorice oferă o pauză necesară de la vântul tăios. După un prânz cald și o vizită la centru, pedalați scurt spre Valea Grebaje pentru a admira panorama crestelor înzăpezite în aerul curat de munte.",
+            "en": "Winter cycling in Gusinje requires grit and proper gear. In the morning, Ali Pasha's Springs sparkle in the frost. At midday, the town's historic buildings provide a welcome break from the freezing wind. After a hearty lunch and a visitor center stop, take a short ride toward Grebaje Valley to soak in the stunning views of the snow-covered massifs."
+          },
+          "stops": [
+            {
+              "name": "Ali Pasha's Springs",
+              "tip_5lang": {
+                "de": "Achtung vor Glatteis auf dem Weg zu den Quellen.",
+                "hu": "Vigyázzon a forrásokhoz vezető út jegesedésére.",
+                "ro": "Atenție la porțiunile de gheață de pe drumul spre izvoare.",
+                "en": "Watch out for black ice on the approach road to the springs."
+              }
+            },
+            {
+              "name": "Vizier's Mosque & Radončić Tower",
+              "tip_5lang": {
+                "de": "Kurze Pause einlegen, um die Finger aufzuwärmen.",
+                "hu": "Tartsanak rövid szünetet az ujjaik átmelegítésére.",
+                "ro": "Faceți o pauză scurtă pentru a vă încălzi mâinile.",
+                "en": "Take a short break to warm up your fingers."
+              }
+            },
+            {
+              "name": "Lunch in town",
+              "tip_5lang": {
+                "de": "Zuckerhaltige Speisen liefern Energie für die Kälte.",
+                "hu": "A cukros ételek energiát adnak a hideg elleni harchoz.",
+                "ro": "Mâncărurile bogate în calorii vă ajută să luptați cu frigul.",
+                "en": "Calorie-rich foods provide energy for cycling in the cold."
+              }
+            },
+            {
+              "name": "National Park Visitor Center",
+              "tip_5lang": {
+                "de": "Fragen Sie nach geräumten Radrouten.",
+                "hu": "Érdeklődjön a letakarított kerékpáros útvonalakról.",
+                "ro": "Întrebați care drumuri sunt deszăpezite pentru biciclete.",
+                "en": "Ask which routes are cleared of snow for cycling."
+              }
+            },
+            {
+              "name": "Ride towards Grebaje Valley",
+              "tip_5lang": {
+                "de": "Nur bei Tageslicht fahren; Kälte zieht abends an.",
+                "hu": "Csak világosban tekerjen; este hirtelen lehűl a levegő.",
+                "ro": "Pedalați doar pe lumină; gerul se intensifică seara.",
+                "en": "Ride only during daylight; temperatures drop fast at dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Handschuhe und eine winddichte Maske.",
+              "Der Reifendruck sollte für mehr Grip im Schnee etwas niedriger sein.",
+              "Vermeiden Sie Fahrten nach 15:30 Uhr wegen der sinkenden Temperaturen.",
+              "Streusalz kann die Kette angreifen, nach der Tour reinigen."
+            ],
+            "hu": [
+              "Viseljen termokesztyűt és szélálló maszkot a menetszél ellen.",
+              "A guminyomás legyen kicsit alacsonyabb a jobb tapadásért a havon.",
+              "A hirtelen lehűlés miatt 15:30 után már ne legyen úton.",
+              "Az útszóró só károsíthatja a láncot, túra után tisztítsa le."
+            ],
+            "ro": [
+              "Purtați mănuși termice și o mască rezistentă la vânt.",
+              "Scădeți puțin presiunea în pneuri pentru aderență pe zăpadă.",
+              "Evitați deplasările după ora 15:30 din cauza gerului brusc.",
+              "Sarea de pe drum poate ataca lanțul; curățați-l după tură."
+            ],
+            "en": [
+              "Wear thermal gloves and a windproof face mask against the chill.",
+              "Lower your tire pressure slightly for better grip on snow/ice.",
+              "Be off the road by 3:30 PM as temperatures plummet rapidly.",
+              "Road salt can corrode your chain; clean it after your ride."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -886,6 +1214,188 @@
           "Watch out for farm animals on the road.",
           "A car is essential to reach the remote natural beauties."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag im Auto ermöglicht den Besuch entlegener Orte wie dem Grebaje-Tal, wo die Wolken tief in den Felswänden hängen. Mittags bestaunen Sie den Grlja-Wasserfall und das 'Auge der Skakavica', die bei Regen besonders viel Wasser führen. Der Nachmittag gehört dem gemütlichen Teil im Stadtzentrum von Gusinje mit Mittagessen und Kultur, sicher geschützt vor den Schauern.",
+            "hu": "Az esős nap autóval kényelmesen telik: kezdje a Grebaje-völgyben, ahol a felhők drámaian ülik meg a sziklákat. Délben a Grlja-vízesés és a 'Kék Szem' (Oko Skakavice) következik, amelyek ilyenkor a leglátványosabbak. A délutánt töltse Gusinje központjában, ahol az ebéd és a történelmi látnivalók fedett menedéket nyújtanak az eső elől.",
+            "ro": "O zi ploioasă cu mașina permite vizitarea locurilor izolate precum Valea Grebaje, unde norii coboară spectaculos peste stânci. La prânz, admirați Cascada Grlja și 'Ochiul Albastru', care au un debit maxim pe ploaie. După-amiaza este rezervată centrului orașului Gusinje pentru prânz și cultură, departe de aversele de afară.",
+            "en": "A rainy car trip lets you explore remote spots like Grebaje Valley, where clouds hang low against the dramatic cliffs. At noon, witness Grlja Waterfall and 'Oko Skakavice' (Blue Eye) at their most powerful due to the rainfall. Spend the afternoon in Gusinje's town center for lunch and culture, staying comfortably dry between stops."
+          },
+          "stops": [
+            {
+              "name": "Grebaje Valley Cluster: Arrival & Exploration",
+              "tip_5lang": {
+                "de": "Die Straße ins Tal ist schmal; Vorsicht bei Aquaplaning.",
+                "hu": "A völgybe vezető út szűk; vigyázzon a vízátfolyásokra.",
+                "ro": "Drumul spre vale este îngust; atenție la acvaplanare.",
+                "en": "The valley road is narrow; watch out for hydroplaning."
+              }
+            },
+            {
+              "name": "Waterfalls Cluster: Grlja Waterfall",
+              "tip_5lang": {
+                "de": "Die Gischt ist bei Regen besonders stark – Poncho mitnehmen.",
+                "hu": "A permet ilyenkor nagyon erős, vigyen esőkabátot.",
+                "ro": "Vaporii de apă sunt densi pe ploaie; purtați pelerină.",
+                "en": "The spray is very intense during rain; bring a poncho."
+              }
+            },
+            {
+              "name": "Waterfalls Cluster: Oko Skakavice (Blue Eye)",
+              "tip_5lang": {
+                "de": "Der Pfad vom Parkplatz kann schlammig sein.",
+                "hu": "A parkolótól vezető ösvény sáros lehet.",
+                "ro": "Poteca de la parcare poate fi noroioasă.",
+                "en": "The short trail from the parking spot can be muddy."
+              }
+            },
+            {
+              "name": "Town Center Cluster: Lunch & Walk",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Restaurant, um trocken zu bleiben.",
+                "hu": "Parkoljon közel az étteremhez, hogy ne ázzon meg.",
+                "ro": "Parcați aproape de restaurant pentru a evita ploaia.",
+                "en": "Park close to the restaurant to minimize time in the rain."
+              }
+            },
+            {
+              "name": "Town Center Cluster: Vizier's Mosque & Radončić Tower",
+              "tip_5lang": {
+                "de": "Gute Fotomotive von innen nach draußen zum Regen.",
+                "hu": "Remek fotótémák a belső terekből a kinti esőre.",
+                "ro": "Oportunități bune de foto din interior spre ploaie.",
+                "en": "Great photo ops from the interiors looking out at the rain."
+              }
+            },
+            {
+              "name": "Ali Pasha's Springs at Sunset",
+              "tip_5lang": {
+                "de": "Die Quellen wirken im trüben Licht fast mystisch.",
+                "hu": "A források a borús fényben szinte misztikusak.",
+                "ro": "Izvoarele par mistice în lumina difuză a ploii.",
+                "en": "The springs look almost mystical in the dim, rainy light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bergstraßen können bei Starkregen Geröll führen.",
+              "Nutzen Sie die Scheibenheizung gegen das Beschlagen im Auto.",
+              "Die Wasserfälle sind nach Regen am beeindruckendsten.",
+              "Fahren Sie im Grebaje-Tal besonders langsam wegen möglicher Tiere."
+            ],
+            "hu": [
+              "Erős esőben hordalék kerülhet a hegyi utakra.",
+              "Használja a szélvédőfűtést a párásodás ellen.",
+              "A vízesések eső után a leglátványosabbak.",
+              "A Grebaje-völgyben vezessen lassan a lehetséges vadállatok miatt."
+            ],
+            "ro": [
+              "Drumurile montane pot fi acoperite de grohotiș după ploi torențiale.",
+              "Folosiți dezaburirea parbrizului pentru vizibilitate maximă.",
+              "Cascadele sunt cele mai spectaculoase imediat după ploaie.",
+              "Conduceți încet în Valea Grebaje; animalele pot ieși pe drum."
+            ],
+            "en": [
+              "Mountain roads may have debris or small rocks after heavy rain.",
+              "Use your windshield defroster to keep visibility clear.",
+              "Waterfalls are at their most impressive during/after rainfall.",
+              "Drive slowly in Grebaje Valley; wildlife often crosses the road."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Ausflug mit dem Auto: Starten Sie im tief verschneiten Grebaje-Tal, einem der spektakulärsten Winterpanoramen Montenegros. Mittags besuchen Sie die gefrorenen Wunder von Grlja und das Auge der Skakavica, bevor Sie sich nach Gusinje zurückziehen. Den Nachmittag verbringen Sie gemütlich bei lokalem Essen und kulturellen Stopps im Ort, während die Wintersonne die Berge in rosa Licht taucht.",
+            "hu": "Téli autós kirándulás: kezdje a mély hóval borított Grebaje-völgyben, amely Montenegró egyik legszebb téli látványa. Délben nézze meg a Grlja befagyott csodáit, majd térjen vissza Gusinjéba. A délutánt töltse a város meleg éttermeiben és történelmi házaiban, miközben a téli naplemente rózsaszínre festi a havas csúcsokat.",
+            "ro": "Excursie de iarnă cu mașina: începeți în Valea Grebaje înzăpezită, una dintre cele mai frumoase panorame hibernale. La prânz, vizitați minunile înghețate de la Grlja, apoi retrageți-vă în oraș. După-amiaza savurați mâncarea locală în Gusinje, în timp ce soarele de iarnă colorează munții în nuanțe de roz.",
+            "en": "A winter car tour: start in the deep snow of Grebaje Valley, offering one of Montenegro's finest winter vistas. At noon, visit the frozen wonders of Grlja and the Blue Eye before heading back to town. Spend the afternoon cozying up with local food and cultural stops in Gusinje as the winter sun paints the peaks in shades of pink."
+          },
+          "stops": [
+            {
+              "name": "Grebaje Valley Cluster: Arrival & Exploration",
+              "tip_5lang": {
+                "de": "Winterreifen und Schneeketten sind hier absolut Pflicht.",
+                "hu": "Téli gumi és hólánc itt abszolút kötelező.",
+                "ro": "Anvelopele de iarnă și lanțurile sunt obligatorii aici.",
+                "en": "Winter tires and snow chains are strictly mandatory here."
+              }
+            },
+            {
+              "name": "Waterfalls Cluster: Grlja Waterfall",
+              "tip_5lang": {
+                "de": "Oft teilweise gefroren – ein einmaliges Fotomotiv.",
+                "hu": "Gyakran részben befagy – egyedülálló fotótéma.",
+                "ro": "Adesea parțial înghețată – un subiect foto unic.",
+                "en": "Often partially frozen – a unique winter photo opportunity."
+              }
+            },
+            {
+              "name": "Waterfalls Cluster: Oko Skakavice (Blue Eye)",
+              "tip_5lang": {
+                "de": "Der Zugang kann bei hohem Schnee schwierig sein.",
+                "hu": "A hozzáférés mély hóban nehézkes lehet.",
+                "ro": "Accesul poate fi dificil dacă zăpada este mare.",
+                "en": "Access can be difficult if the snow hasn't been cleared."
+              }
+            },
+            {
+              "name": "Town Center Cluster: Lunch & Walk",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Leerlauf laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în parcare.",
+                "en": "Avoid idling your engine unnecessarily while parked."
+              }
+            },
+            {
+              "name": "Town Center Cluster: Vizier's Mosque & Radončić Tower",
+              "tip_5lang": {
+                "de": "Parkplätze im Ort werden meist zügig geräumt.",
+                "hu": "A városi parkolókat általában gyorsan letakarítják.",
+                "ro": "Parcările din oraș sunt de obicei deszăpezite rapid.",
+                "en": "Town parking spots are usually cleared of snow quickly."
+              }
+            },
+            {
+              "name": "Ali Pasha's Springs at Sunset",
+              "tip_5lang": {
+                "de": "Die Temperatur sinkt sofort, wenn die Sonne weg ist.",
+                "hu": "A hőmérséklet azonnal zuhan, amint lemegy a nap.",
+                "ro": "Temperatura scade brusc imediat ce soarele apune.",
+                "en": "Temperature drops instantly once the sun disappears."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Tanken Sie voll, bevor Sie in entlegene Täler fahren.",
+              "Ein kleiner Klappspaten im Kofferraum kann im Schnee helfen.",
+              "Die Straße nach Grebaje wird geräumt, kann aber glatt sein."
+            ],
+            "hu": [
+              "Töltsön fagyállót a szélvédőmosóba.",
+              "Tankoljon tele, mielőtt a távoli völgyekbe indulna.",
+              "Egy kis hólapát a csomagtartóban jól jöhet.",
+              "A Grebaje felé vezető utat takarítják, de jeges maradhat."
+            ],
+            "ro": [
+              "Puneți lichid de parbriz rezistent la îngheț.",
+              "Faceți plinul înainte de a pleca spre văile izolate.",
+              "O lopată mică în portbagaj poate fi utilă în zăpadă.",
+              "Drumul spre Grebaje este deszăpezit, dar poate fi alunecos."
+            ],
+            "en": [
+              "Use antifreeze windshield washer fluid for the mountain cold.",
+              "Fill up your gas tank before heading into the remote valleys.",
+              "A small snow shovel in the trunk can be a lifesaver.",
+              "The road to Grebaje is plowed but can remain very icy."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1166,6 +1676,170 @@
           "Ask your accommodation for contacts of reliable drivers.",
           "Plan for buffer times as transport may not always be on schedule."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem lokalen Transit/Taxi durch den Regen: Starten Sie bei den Quellen von Ali Pascha, wo der Nebel mystisch aufsteigt. Mittags kehren Sie ins Zentrum zurück, um Gusinjes Geschichte in der Moschee und den Wohntürmen trocken zu erleben. Ein herzhaftes Mittagessen bietet die nötige Pause, bevor Sie am Nachmittag das Grebaje-Tal besuchen, dessen schroffe Gipfel oft dramatisch im Regen verschwinden.",
+            "hu": "Helyi taxival vagy kisbusszal az esőben: kezdje az Ali pasa forrásainál, ahol a pára misztikusan száll fel a vízből. Délben térjen vissza a központba, hogy a mecset és a lakótorony falai között szárazon ismerje meg a történelmet. Egy kiadós ebéd után irány a Grebaje-völgy, melynek csúcsai drámai módon tűnnek el az esőfüggönyben.",
+            "ro": "Cu transportul local sau taxiul pe ploaie: începeți la izvoarele lui Ali Pașa, unde ceața se ridică mistic. La prânz, reveniți în centru pentru a descoperi istoria la adăpostul moscheii și al turnurilor. Un prânz copios oferă pauza necesară înainte de a vizita Valea Grebaje, ale cărei creste dispar dramatic în ploaie.",
+            "en": "Using local transit or taxis through the rain: start at Ali Pasha's Springs where mist rises mystically from the water. At noon, return to the center to explore history dryly inside the mosque and tower houses. After a hearty lunch, head to Grebaje Valley, whose jagged peaks often vanish dramatically behind a curtain of rain."
+          },
+          "stops": [
+            {
+              "name": "Trip to Ali Pasha's Springs",
+              "tip_5lang": {
+                "de": "Vereinbaren Sie die Abholzeit vorab mit dem Taxifahrer.",
+                "hu": "Beszélje meg előre a visszaindulás idejét a taxissal.",
+                "ro": "Stabiliți ora de întoarcere cu taximetristul în avans.",
+                "en": "Agree on a pickup time with the taxi driver in advance."
+              }
+            },
+            {
+              "name": "Town Center Cluster: Arrival & Exploration",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten nutzen.",
+                "hu": "Használja ki a látnivalók közötti rövid távolságokat.",
+                "ro": "Profitați de distanțele scurte între obiective.",
+                "en": "Take advantage of the short distances between sights."
+              }
+            },
+            {
+              "name": "Town Center Cluster: Lunch",
+              "tip_5lang": {
+                "de": "Viele Cafés im Ort sind gemütliche Warteorte.",
+                "hu": "A helyi kávézók remek várakozóhelyek az esőben.",
+                "ro": "Cafenelele locale sunt locuri bune de așteptat ploaia.",
+                "en": "Local cafes are cozy places to wait out heavy showers."
+              }
+            },
+            {
+              "name": "Trip to Grebaje Valley",
+              "tip_5lang": {
+                "de": "Bei Regen fahren weniger Gelegenheits-Transits; Taxi nutzen.",
+                "hu": "Esőben kevesebb az alkalmi fuvar; hívjon taxit.",
+                "ro": "Pe ploaie sunt mai puține ocazii; folosiți un taxi.",
+                "en": "Fewer informal rides available in rain; book a taxi."
+              }
+            },
+            {
+              "name": "Return to Gusinje",
+              "tip_5lang": {
+                "de": "Lassen Sie sich direkt vor Ihrer Unterkunft absetzen.",
+                "hu": "Kérje, hogy közvetlenül a szállásánál tegyék le.",
+                "ro": "Cereți să fiți lăsat direct la ușa cazării.",
+                "en": "Ask to be dropped off directly at your accommodation."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Taxifahren in Gusinje ist günstig und bei Regen ideal.",
+              "Speichern Sie die Nummer eines lokalen Taxiunternehmens.",
+              "Erwarten Sie bei Regen leichte Verzögerungen bei der Abholung.",
+              "Nutzen Sie die Wartezeiten für Gespräche mit Einheimischen."
+            ],
+            "hu": [
+              "A taxizás Gusinjéban olcsó és esőben ideális megoldás.",
+              "Mentse el egy helyi taxitársaság telefonszámát.",
+              "Esőben számítson némi késésre a fuvaroknál.",
+              "Használja ki a várakozási időt a helyiekkel való beszélgetésre."
+            ],
+            "ro": [
+              "Taxiul în Gusinje este ieftin și ideal pe timp de ploaie.",
+              "Salvați numărul unei companii locale de taxi.",
+              "Așteptați-vă la mici întârzieri ale curselor când plouă.",
+              "Folosiți timpul de așteptare pentru a interacționa cu localnicii."
+            ],
+            "en": [
+              "Taking a taxi in Gusinje is affordable and ideal for rain.",
+              "Save the number of a local taxi operator in your phone.",
+              "Expect slight delays for pickups during heavy downpours.",
+              "Use any waiting time to chat with friendly locals in cafes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Transit-Tag: Starten Sie mit der Fahrt zu den Ali-Pascha-Quellen, die im Frost dampfen. Mittags erkunden Sie das historische Gusinje zu Fuß, wobei die kurzen Wege bei Kälte ein Vorteil sind. Ein warmes Mittagessen ist der Höhepunkt, bevor Sie sich ins Grebaje-Tal fahren lassen, um die verschneite Bergwelt ohne eigenes Fahrrisiko zu bewundern. Die Rückkehr erfolgt pünktlich zum frühen Sonnenuntergang.",
+            "hu": "Téli tömegközlekedés/taxi: kezdje az Ali pasa forrásainál, melyek gőzölögnek a fagyban. Délben fedezze fel a történelmi Gusinjét gyalog; a rövid távolságok előnyösek a hidegben. Egy forró ebéd után vitesse magát a Grebaje-völgybe, hogy élvezze a havas tájat vezetési kockázat nélkül. Térjen vissza időben a korai naplemente előtt.",
+            "ro": "Tranzit de iarnă: începeți cu o cursă spre izvoarele lui Ali Pașa, care scot aburi pe ger. La prânz, explorați Gusinje pe jos; distanțele scurte sunt un avantaj în frig. Un prânz cald este punctul culminant, apoi lăsați-vă dus în Valea Grebaje pentru a admira munții fără riscul de a conduce pe zăpadă. Reveniți înainte de apus.",
+            "en": "Winter transit day: start with a ride to Ali Pasha's Springs, steaming in the frost. At noon, explore historic Gusinje on foot; short distances are a big plus in the cold. A warm lunch is the highlight before taking a ride to Grebaje Valley to admire the snowy mountains without the stress of winter driving. Return in time for the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Trip to Ali Pasha's Springs",
+              "tip_5lang": {
+                "de": "Taxis haben meist gute Winterreifen für die Strecke.",
+                "hu": "A taxik általában jó téli gumival vannak felszerelve.",
+                "ro": "Taxiurile au de obicei anvelope bune de iarnă.",
+                "en": "Local taxis are usually well-equipped for snowy roads."
+              }
+            },
+            {
+              "name": "Town Center Cluster: Arrival & Exploration",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Socken für die Moscheebesichtigung.",
+                "hu": "Viseljen meleg zoknit a mecset látogatásához.",
+                "ro": "Purtați șosete groase pentru vizitarea moscheii.",
+                "en": "Wear thick thermal socks for the mosque visit."
+              }
+            },
+            {
+              "name": "Town Center Cluster: Lunch",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kälte aus den Knochen zu vertreiben.",
+                "hu": "Ideális hely a hideg kipihenésére és átmelegedésre.",
+                "ro": "Locul ideal pentru a vă dezmorți și încălzi.",
+                "en": "The perfect place to shake off the winter chill."
+              }
+            },
+            {
+              "name": "Trip to Grebaje Valley",
+              "tip_5lang": {
+                "de": "Fragen Sie den Fahrer nach Fotostopps im Schnee.",
+                "hu": "Kérje meg a sofőrt, hogy álljon meg fotózni a hóban.",
+                "ro": "Rugați șoferul să oprească pentru poze în zăpadă.",
+                "en": "Ask the driver to stop for quick photos in the snow."
+              }
+            },
+            {
+              "name": "Return to Gusinje",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor 16:30 Uhr ein.",
+                "hu": "Tervezze a visszautat 16:30 előttre.",
+                "ro": "Planificați întoarcerea înainte de ora 16:30.",
+                "en": "Plan your return ride before 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können im Winter wetterabhängig variieren.",
+              "Vermeiden Sie langes Warten an ungeschützten Ecken.",
+              "Taxis sind oft die einzige verlässliche Option bei viel Schnee.",
+              "Wärmen Sie sich in lokalen Cafés zwischen den Fahrten auf."
+            ],
+            "hu": [
+              "A menetrendek télen az időjárástól függően változhatnak.",
+              "Kerülje a hosszú várakozást a szélnek kitett helyeken.",
+              "Nagy hóban gyakran a taxi az egyetlen megbízható opció.",
+              "Melegedjen fel a helyi kávézókban két fuvar között."
+            ],
+            "ro": [
+              "Orarele pot varia iarna în funcție de condițiile meteo.",
+              "Evitați așteptarea prelungită în locuri expuse vântului.",
+              "Taxiurile sunt adesea singura opțiune sigură pe zăpadă mare.",
+              "Încălziți-vă în cafenelele locale între curse."
+            ],
+            "en": [
+              "Schedules may fluctuate in winter depending on snow clearing.",
+              "Avoid waiting for long periods at unsheltered stops.",
+              "Taxis are often the only reliable way to reach the valleys in snow.",
+              "Warm up in local cafes between transit legs."
+            ]
+          }
+        }
       }
     }
   }

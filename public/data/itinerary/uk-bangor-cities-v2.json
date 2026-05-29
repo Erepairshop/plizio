@@ -313,6 +313,170 @@
           "Weather in Wales can change quickly, pack a rain jacket.",
           "It can be windy on the pier, a scarf is often helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Hauptgebäude der Universität Schutz vor dem walisischen Regen. Mittags erkunden wir das Pontio-Zentrum und Storiel, ideal für trockene Kulturmomente. Nachmittags besuchen wir die Kathedrale. Den Abschluss bildet ein erfrischender, windiger Spaziergang auf dem Garth Pier unter dem Regenschirm.",
+            "hu": "Reggel az egyetem főépülete nyújt menedéket a walesi eső elől. Délben a Pontio központ és a Storiel múzeum ideális a száraz kulturális élményekhez. Délután a katedrálist látogatjuk meg. A napot egy frissítő, szeles séta zárja a Garth Pier mólón, esernyővel a kézben.",
+            "ro": "Dimineața, clădirea principală a universității oferă adăpost împotriva ploii galeze. La prânz, explorăm centrul Pontio și Storiel, ideale pentru momente culturale uscate. După-amiaza vizităm catedrala. Ziua se încheie cu o plimbare revigorantă și vântoasă pe debarcaderul Garth Pier, sub umbrelă.",
+            "en": "In the morning, the university's main building provides shelter from the Welsh rain. At noon, the Pontio Centre and Storiel are ideal for dry cultural moments. In the afternoon, we visit the cathedral. The day concludes with a refreshing, windy walk on Garth Pier under an umbrella."
+          },
+          "stops": [
+            {
+              "name": "Bangor University (Main Building)",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur der 'Kathedrale auf dem Hügel' vom trockenen Innenhof aus.",
+                "hu": "Csodálja meg a 'dombtetői katedrális' építészetét a fedett belső udvarról.",
+                "ro": "Admirați arhitectura „catedralei de pe deal” din curtea interioară uscată.",
+                "en": "Admire the architecture of the 'cathedral on the hill' from the dry inner courtyard."
+              }
+            },
+            {
+              "name": "Pontio Arts and Innovation Centre",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um sich bei einem Kaffee aufzuwärmen, während es draußen regnet.",
+                "hu": "Tökéletes hely egy kávéra és melegedésre, amíg odakint esik az eső.",
+                "ro": "Un loc perfect pentru a vă încălzi cu o cafea în timp ce afară plouă.",
+                "en": "A perfect place to warm up with a coffee while it rains outside."
+              }
+            },
+            {
+              "name": "Storiel",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre nassen Regensachen, bevor Sie die Ausstellungen sehen.",
+                "hu": "Használja a ruhatárat a vizes esőkabátoknak, mielőtt megnézi a kiállításokat.",
+                "ro": "Folosiți garderoba pentru hainele de ploaie ude înainte de a vedea expozițiile.",
+                "en": "Use the cloakroom for your wet rain gear before viewing the exhibitions."
+              }
+            },
+            {
+              "name": "Bangor Cathedral",
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern bieten eine stille und trockene Zuflucht vor dem Wetter.",
+                "hu": "A vastag kőfalak csendes és száraz menedéket nyújtanak az időjárás elől.",
+                "ro": "Zidurile groase de piatră oferă un refugiu liniștit și uscat în fața vremii.",
+                "en": "The thick stone walls offer a quiet and dry refuge from the weather."
+              }
+            },
+            {
+              "name": "Bangor Garth Pier",
+              "tip_5lang": {
+                "de": "Vorsicht, die Holzplanken können bei Nässe rutschig sein. Halten Sie den Schirm fest!",
+                "hu": "Vigyázat, a fapadlók nedvesen csúszhatnak. Erősen fogja az esernyőt!",
+                "ro": "Atenție, scândurile de lemn pot fi alunecoase când sunt ude. Țineți bine umbrela!",
+                "en": "Caution, the wooden planks can be slippery when wet. Hold onto your umbrella tightly!"
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da Bangor viele Hügel hat, auf denen das Wasser abfließt.",
+              "Nutzen Sie die zahlreichen Cafés im Pontio oder Storiel für Pausen im Trockenen.",
+              "Ein stabiler Sturmschirm ist am Garth Pier aufgrund des Windes unerlässlich.",
+              "Die Gehwege in der Nähe der Universität können bei Regen etwas rutschig sein."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert Bangor dombjain gyorsan lefolyik a csapadék.",
+              "Használja ki a Pontio vagy a Storiel kávézóit a száraz pihenőkhöz.",
+              "A mólónál elengedhetetlen egy erős, szélálló esernyő a tengeri szél miatt.",
+              "Az egyetem környéki járdák esőben néhol csúszósak lehetnek."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece Bangor are multe dealuri unde apa se scurge.",
+              "Folosiți cafenelele din Pontio sau Storiel pentru pauze la adăpost.",
+              "O umbrelă rezistentă la furtună este esențială pe debarcader din cauza vântului.",
+              "Trotuarele de lângă universitate pot fi puțin alunecoase când plouă."
+            ],
+            "en": [
+              "Wear waterproof shoes as Bangor's hills cause significant rainwater runoff.",
+              "Take advantage of the cafes in Pontio or Storiel for dry breaks.",
+              "A sturdy storm umbrella is essential at the pier due to the coastal wind.",
+              "Pavements near the university can be slightly slippery during rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt kühl an der Universität. Mittags bieten Pontio und Storiel gemütliche Wärme und Kultur. Nach der Besichtigung der Kathedrale erreichen wir den Garth Pier pünktlich zum frühen Sonnenuntergang über der Menai-Straße, bevor die Abendkälte einsetzt.",
+            "hu": "A téli reggel hűvösen indul az egyetemen. Délben a Pontio és a Storiel kínál barátságos meleget és kultúrát. A katedrális megtekintése után pontosan a korai naplementére érünk a Garth Pier mólóhoz a Menai-szoros felett, mielőtt beáll az esti fagy.",
+            "ro": "Dimineața de iarnă începe răcoroasă la universitate. La prânz, Pontio și Storiel oferă căldură primitoare și cultură. După vizitarea catedralei, ajungem la Garth Pier exact pentru apusul devreme peste strâmtoarea Menai, înainte de gerul serii.",
+            "en": "The winter morning starts chilly at the university. At noon, Pontio and Storiel offer cozy warmth and culture. After visiting the cathedral, we reach Garth Pier just in time for the early sunset over the Menai Strait, before the evening frost sets in."
+          },
+          "stops": [
+            {
+              "name": "Bangor University (Main Building)",
+              "tip_5lang": {
+                "de": "Die Aussicht auf die verschneiten Berge von Eryri (Snowdonia) ist von hier aus magisch.",
+                "hu": "A havas Eryri (Snowdonia) hegyek látványa innen nézve varázslatos.",
+                "ro": "Vederea munților înzăpeziți Eryri (Snowdonia) de aici este magică.",
+                "en": "The view of the snowy Eryri (Snowdonia) mountains from here is magical."
+              }
+            },
+            {
+              "name": "Pontio Arts and Innovation Centre",
+              "tip_5lang": {
+                "de": "Holen Sie sich ein heißes Getränk, um sich für den weiteren Weg aufzuwärmen.",
+                "hu": "Igyon egy forró italt, hogy átmelegedjen a további útra.",
+                "ro": "Luați o băutură caldă pentru a vă încălzi pentru drumul care urmează.",
+                "en": "Grab a hot drink to warm up for the rest of the walk."
+              }
+            },
+            {
+              "name": "Storiel",
+              "tip_5lang": {
+                "de": "Ideal, um die kälteste Stunde des Tages in beheizten Galerien zu verbringen.",
+                "hu": "Ideális a nap leghidegebb óráját fűtött galériákban tölteni.",
+                "ro": "Ideal pentru a petrece cea mai rece oră a zilei în galerii încălzite.",
+                "en": "Ideal for spending the coldest hour of the day in heated galleries."
+              }
+            },
+            {
+              "name": "Bangor Cathedral",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kathedrale für einen Moment der besinnlichen Ruhe im Warmen.",
+                "hu": "Látogasson el a székesegyházba egy pillanatnyi meghitt nyugalomra a melegben.",
+                "ro": "Vizitați catedrala pentru un moment de liniște interioară la căldură.",
+                "en": "Visit the cathedral for a moment of peaceful reflection in the warmth."
+              }
+            },
+            {
+              "name": "Bangor Garth Pier",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist nötig! Der Wind vom Meer ist im Winter besonders beißend.",
+                "hu": "Meleg ruházat szükséges! A tenger felőli szél télen különösen metsző.",
+                "ro": "Este necesară îmbrăcăminte groasă! Vântul dinspre mare este tăios iarna.",
+                "en": "Warm clothing is necessary! The sea wind is particularly biting in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 16:00 Uhr unter, planen Sie Ihren Pier-Besuch rechtzeitig.",
+              "Achten Sie auf vereiste Stellen auf den steilen Straßen zur Universität.",
+              "Zwiebelprinzip bei der Kleidung hilft beim Wechsel zwischen Frost und beheizten Räumen.",
+              "Genießen Sie die klare Sicht auf die Menai Bridge in der kalten Winterluft."
+            ],
+            "hu": [
+              "A nap 16:00 körül nyugszik, tervezze a móló látogatását időben.",
+              "Ügyeljen a jeges foltokra az egyetemhez vezető meredek utcákon.",
+              "A réteges öltözködés segít a kinti fagy és a fűtött belső terek közti váltásban.",
+              "Élvezze a tiszta kilátást a Menai-hídra a hideg téli levegőben."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 16:00, planificați vizita la debarcader din timp.",
+              "Atenție la porțiunile înghețate de pe străzile abrupte spre universitate.",
+              "Îmbrăcămintea în straturi ajută la tranziția între ger și spațiile încălzite.",
+              "Bucurați-vă de vizibilitatea clară spre Podul Menai în aerul rece de iarnă."
+            ],
+            "en": [
+              "Sunset is around 4:00 PM, plan your pier visit accordingly to see the light.",
+              "Watch out for icy patches on the steep streets leading up to the university.",
+              "Layered clothing helps when moving between the frost and heated indoor spaces.",
+              "Enjoy the crystal-clear views of the Menai Bridge in the cold winter air."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -620,6 +784,170 @@
           "Take a good lock to secure your bike during visits.",
           "Cycling along the coast can be tiring in strong winds."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir an der Universität. Wir radeln zügig zur Kathedrale und zum Pier, wo wir uns kurz unterstellen. Die Auffahrt zum Roman Camp erfordert Vorsicht auf nassem Untergrund, bevor wir im Penrhyn Castle trockenes Asyl finden.",
+            "hu": "Az eső ellenére az egyetemen kezdünk. Gyorsan tekerünk a katedrálishoz és a mólóhoz, ahol rövid menedéket keresünk. A Roman Camp felé vezető emelkedő óvatosságot igényel a nedves talajon, mielőtt a Penrhyn Castle-ben lelnénk száraz menedékre.",
+            "ro": "În ciuda ploii, începem la universitate. Pedalăm rapid spre catedrală și debarcader, unde ne adăpostim scurt. Urcarea spre Roman Camp necesită prudență pe solul umed, înainte de a găsi azil uscat în Castelul Penrhyn.",
+            "en": "Despite the rain, we start at the university. We cycle quickly to the cathedral and the pier for short shelter. The climb to Roman Camp requires caution on wet ground before finding dry asylum in Penrhyn Castle."
+          },
+          "stops": [
+            {
+              "name": "Bangor University (Main Building)",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie den Hügel bei Nässe hinunterfahren.",
+                "hu": "Ellenőrizze a fékeit, mielőtt elindulna lefelé a dombról az esőben.",
+                "ro": "Verificați frânele înainte de a coborî dealul pe ploaie.",
+                "en": "Check your brakes before heading down the hill in the wet."
+              }
+            },
+            {
+              "name": "Bangor Cathedral",
+              "tip_5lang": {
+                "de": "Es gibt begrenzte überdachte Fahrradständer in der Nähe des Eingangs.",
+                "hu": "A bejárat közelében korlátozott számban vannak fedett kerékpártárolók.",
+                "ro": "Există suporturi de biciclete acoperite limitate lângă intrare.",
+                "en": "There are limited covered bike racks near the entrance."
+              }
+            },
+            {
+              "name": "Bangor Garth Pier",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad auf dem Pier; die nassen Bretter sind sehr rutschig.",
+                "hu": "Tolja a biciklit a mólón; a nedves deszkák nagyon csúszósak.",
+                "ro": "Împingeți bicicleta pe debarcader; scândurile ude sunt foarte alunecoase.",
+                "en": "Push your bike on the pier; the wet planks are very slippery."
+              }
+            },
+            {
+              "name": "Roman Camp",
+              "tip_5lang": {
+                "de": "Meiden Sie bei starkem Regen die grasbewachsenen Pfade; bleiben Sie auf den Wegen.",
+                "hu": "Heves esőben kerülje a füves ösvényeket; maradjon a kijelölt utakon.",
+                "ro": "Evitați potecile cu iarbă în caz de ploaie torențială; rămâneți pe drumuri.",
+                "en": "Avoid grassy paths during heavy rain; stick to the hard-packed trails."
+              }
+            },
+            {
+              "name": "Penrhyn Castle",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um das Rad zu parken und Stunden im trockenen Schloss zu verbringen.",
+                "hu": "Tökéletes hely a bringa leparkolására és órák eltöltésére a száraz kastélyban.",
+                "ro": "Locul perfect pentru a parca bicicleta și a petrece ore în castelul uscat.",
+                "en": "The perfect place to park the bike and spend hours inside the dry castle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine komplette Regenmontur, der Wind verstärkt das Nässegefühl beim Radeln.",
+              "Vermeiden Sie abrupte Bremsmanöver auf den steilen Gefällen der Stadt.",
+              "Das Schutzblech ist heute Ihr bester Freund gegen aufspritzendes Wasser.",
+              "Nutzen Sie die Teestube im Penrhyn Castle zum Aufwärmen und Trocknen."
+            ],
+            "hu": [
+              "Viseljen teljes esőfelszerelést, a szél fokozza a nedvességérzetet tekerés közben.",
+              "Kerülje a hirtelen fékezést a város meredek lejtőin.",
+              "A sárvédő ma a legjobb barátja a felcsapódó víz ellen.",
+              "Használja a Penrhyn Castle teázóját a felmelegedéshez és száradáshoz."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, vântul accentuează senzația de umezeală.",
+              "Evitați frânarea bruscă pe pantele abrupte ale orașului.",
+              "Aripa bicicletei este astăzi cel mai bun prieten împotriva apei împroșcate.",
+              "Folosiți ceainăria de la Castelul Penrhyn pentru a vă încălzi și usca."
+            ],
+            "en": [
+              "Wear full waterproof gear; the wind increases the chill while cycling in rain.",
+              "Avoid sudden braking on the city's steep descents.",
+              "Mudguards are your best friend today against road spray.",
+              "Use the tea room at Penrhyn Castle to warm up and dry off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frostige Wintertour durch Bangor. Wir starten an der Uni und radeln zur Kathedrale. Der Wind am Pier ist eisig, aber die klare Luft bietet Fernsicht. Nach dem Roman Camp beenden wir die Tour im Penrhyn Castle, bevor es dunkel wird.",
+            "hu": "Fagyos téli túra Bangoron keresztül. Az egyetemtől indulunk a katedrálishoz. A szél a mólónál jeges, de a tiszta levegő távoli kilátást enged. A Roman Camp után a Penrhyn Castle-ben fejezzük be a túrát, mielőtt besötétedik.",
+            "ro": "Un tur de iarnă geros prin Bangor. Pornim de la universitate spre catedrală. Vântul la debarcader este înghețat, dar aerul curat oferă vizibilitate. După Roman Camp, terminăm turul la Castelul Penrhyn înainte de lăsarea întunericului.",
+            "en": "A frosty winter tour through Bangor. We start at the university and cycle to the cathedral. The wind at the pier is icy, but the clear air offers distant views. After Roman Camp, we finish the tour at Penrhyn Castle before dark."
+          },
+          "stops": [
+            {
+              "name": "Bangor University (Main Building)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis im Schatten des imposanten Hauptgebäudes.",
+                "hu": "Ügyeljen a felfagyásokra az impozáns főépület árnyékos oldalán.",
+                "ro": "Atenție la polei în umbra impunătoarei clădiri principale.",
+                "en": "Watch out for black ice in the shadows of the imposing main building."
+              }
+            },
+            {
+              "name": "Bangor Cathedral",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Inneren hilft, die gefrorenen Finger wieder aufzuwärmen.",
+                "hu": "Egy rövid benti megálló segít felmelegíteni az átfagyott ujjakat.",
+                "ro": "O scurtă oprire în interior ajută la reîncălzirea degetelor înghețate.",
+                "en": "A short stop inside helps to warm up frozen fingers."
+              }
+            },
+            {
+              "name": "Bangor Garth Pier",
+              "tip_5lang": {
+                "de": "Der Windchill-Faktor ist hier extrem. Tragen Sie winddichte Handschuhe.",
+                "hu": "A hőérzet itt a szél miatt jóval alacsonyabb. Viseljen szélálló kesztyűt.",
+                "ro": "Factorul de răcire a vântului este extrem aici. Purtați mănuși rezistente la vânt.",
+                "en": "The wind chill factor is extreme here. Wear windproof gloves."
+              }
+            },
+            {
+              "name": "Roman Camp",
+              "tip_5lang": {
+                "de": "Der gefrorene Boden bietet gute Traktion, aber Vorsicht vor verborgenem Eis.",
+                "hu": "A fagyott talaj jó tapadást biztosít, de vigyázzon a rejtett jégfoltokkal.",
+                "ro": "Solul înghețat oferă tracțiune bună, dar atenție la gheața ascunsă.",
+                "en": "The frozen ground offers good traction, but beware of hidden ice patches."
+              }
+            },
+            {
+              "name": "Penrhyn Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Schlossmuseum, um der Winterkälte zu entfliehen.",
+                "hu": "Látogassa meg a kastélymúzeumot, hogy elmeneküljön a téli hideg elől.",
+                "ro": "Vizitați muzeul castelului pentru a scăpa de frigul iernii.",
+                "en": "Visit the castle museum to escape the winter cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrradbeleuchtung ist wegen des frühen Sonnenuntergangs und Nebels zwingend.",
+              "Tragen Sie Thermokleidung; die Abfahrten in Bangor kühlen den Körper schnell aus.",
+              "Halten Sie die Kette gut geölt, um sie vor Streusalz und Feuchtigkeit zu schützen.",
+              "Ein heißer Tee im Castle-Café ist der ideale Abschluss der Tour."
+            ],
+            "hu": [
+              "A kerékpáros világítás kötelező a korai naplemente és a köd miatt.",
+              "Viseljen thermo ruházatot; a bangori lejtőkön hamar kihűl a test.",
+              "Tartsa a láncot jól olajozottan, hogy védje a sótól és a nedvességtől.",
+              "Egy forró tea a kastély kávézójában a túra ideális lezárása."
+            ],
+            "ro": [
+              "Luminile de bicicletă sunt obligatorii din cauza apusului devreme și a ceții.",
+              "Purtați haine termice; coborârile din Bangor răcesc rapid corpul.",
+              "Păstrați lanțul bine uns pentru a-l proteja de sarea de pe drum și umezeală.",
+              "Un ceai fierbinte la cafeneaua castelului este finalul ideal al turului."
+            ],
+            "en": [
+              "Bike lights are mandatory due to early sunset and potential winter fog.",
+              "Wear thermal layers; the descents in Bangor will cool you down quickly.",
+              "Keep your chain well-lubricated to protect against road salt and moisture.",
+              "A hot tea in the Castle cafe is the ideal conclusion to the tour."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -946,6 +1274,188 @@
           "Allow plenty of time for Penrhyn Castle, the grounds are huge.",
           "Bring binoculars for the nature reserve."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein komfortabler Regentag im Auto. Wir starten trocken an der Kathedrale und besuchen das Storiel-Museum. Nach der Universität fahren wir zum Pier und bewundern Penrhyn Castle sowie das Naturschutzgebiet Spinnies gemütlich aus dem beheizten Wagen oder von Aussichtspunkten.",
+            "hu": "Kényelmes esős nap autóval. Szárazon kezdünk a katedrálisnál, majd a Storiel múzeumot látogatjuk. Az egyetem után a mólóhoz hajtunk, a Penrhyn Castle-t és a Spinnies természetvédelmi területet pedig kényelmesen, a fűtött autóból vagy kilátókból csodáljuk meg.",
+            "ro": "O zi ploioasă confortabilă cu mașina. Începem uscați la catedrală și vizităm muzeul Storiel. După universitate, mergem spre debarcader și admirăm Castelul Penrhyn și rezervația Spinnies din mașina încălzită sau din puncte de observație.",
+            "en": "A comfortable rainy day by car. We start dry at the cathedral and visit the Storiel museum. After the university, we drive to the pier and admire Penrhyn Castle and the Spinnies nature reserve comfortably from the heated car or viewpoints."
+          },
+          "stops": [
+            {
+              "name": "Bangor Cathedral",
+              "tip_5lang": {
+                "de": "Parkplätze in der Nähe ermöglichen einen fast trockenen Zugang zur Kathedrale.",
+                "hu": "A közeli parkolók szinte teljesen száraz bejutást tesznek lehetővé a katedrálisba.",
+                "ro": "Parcările din apropiere permit un acces aproape uscat la catedrală.",
+                "en": "Nearby parking allows for almost completely dry access to the cathedral."
+              }
+            },
+            {
+              "name": "Storiel",
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor; perfekt für einen längeren Aufenthalt bei Dauerregen.",
+                "hu": "Parkoljon közvetlenül előtte; tökéletes hosszabb tartózkodásra tartós esőben.",
+                "ro": "Parcați direct în față; perfect pentru o ședere lungă în caz de ploaie continuă.",
+                "en": "Park right in front; perfect for a longer stay during persistent rain."
+              }
+            },
+            {
+              "name": "Bangor University (Main Building)",
+              "tip_5lang": {
+                "de": "Vom Parkplatz oben hat man auch bei Regen einen tollen Blick auf die Stadt.",
+                "hu": "A fenti parkolóból esőben is remek kilátás nyílik a városra.",
+                "ro": "Din parcarea de sus aveți o vedere excelentă asupra orașului chiar și pe ploaie.",
+                "en": "The upper parking lot offers a great view of the city even in the rain."
+              }
+            },
+            {
+              "name": "Bangor Garth Pier",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze am Eingang des Piers. Kurzer Sprint zum ersten Kiosk!",
+                "hu": "A móló bejáratánál van parkoló. Rövid sprint az első bódéig!",
+                "ro": "Există locuri de parcare la intrarea pe debarcader. Sprint scurt până la primul chioșc!",
+                "en": "There is parking at the pier entrance. Short sprint to the first kiosk!"
+              }
+            },
+            {
+              "name": "Penrhyn Castle",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden. Das Schlossinnere bietet stundenlangen Schutz.",
+                "hu": "Nagy parkoló áll rendelkezésre. A kastély belseje órákig tartó védelmet nyújt.",
+                "ro": "Parcare mare disponibilă. Interiorul castelului oferă protecție ore în șir.",
+                "en": "Large parking lot available. The castle interior offers hours of shelter."
+              }
+            },
+            {
+              "name": "Spinnies Aberogwen",
+              "tip_5lang": {
+                "de": "Die Vogelbeobachtungshütten (Hides) sind perfekt, um trocken Tiere zu sehen.",
+                "hu": "A madármegfigyelő lesek tökéletesek az állatok száraz megfigyeléséhez.",
+                "ro": "Observatoarele de păsări (hides) sunt perfecte pentru a vedea animalele la uscat.",
+                "en": "The bird watching hides are perfect for seeing wildlife while staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht auf den schmalen Küstenstraßen bei Aquaplaning-Gefahr.",
+              "Halten Sie einen Schirm im Auto bereit für die Wege vom Parkplatz zum Eingang.",
+              "Die Sicht kann bei starkem Regen an der Küste stark eingeschränkt sein.",
+              "Nutzen Sie die Heizung, um feuchte Kleidung zwischen den Stopps zu trocknen."
+            ],
+            "hu": [
+              "Vigyázzon a keskeny parti utakon a vízenfutás (aquaplaning) veszélye miatt.",
+              "Tartson esernyőt az autóban a parkolótól a bejáratig tartó szakaszokra.",
+              "Heves esőben a látótávolság jelentősen lecsökkenhet a tengerparton.",
+              "Használja az autó fűtését a nedves ruhák szárítására a megállók között."
+            ],
+            "ro": [
+              "Atenție pe drumurile înguste de coastă la pericolul de acvaplanare.",
+              "Țineți o umbrelă în mașină pentru drumul de la parcare la intrare.",
+              "Vizibilitatea poate fi redusă semnificativ pe coastă în timpul ploilor abundente.",
+              "Folosiți încălzirea mașinii pentru a usca hainele umede între opriri."
+            ],
+            "en": [
+              "Be careful on narrow coastal roads due to aquaplaning risks.",
+              "Keep an umbrella ready in the car for the short walks from parking to entrances.",
+              "Visibility can be severely limited on the coast during heavy downpours.",
+              "Use the car heater to dry out damp clothing between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Panoramafahrt durch Bangor. Wir starten an der Kathedrale und dem Storiel-Museum. Vorbei an der Universität geht es zum Pier für die frostige Seeluft. Penrhyn Castle glänzt in der Wintersonne, bevor wir den Tag bei den Spinnies ausklingen lassen.",
+            "hu": "Téli panorámaút Bangoron át. A katedrálisnál és a Storiel múzeumnál kezdünk. Az egyetem mellett elhaladva a mólóhoz megyünk a fagyos tengeri levegőért. A Penrhyn Castle ragyog a téli napsütésben, mielőtt a napot a Spinniesnél zárnánk.",
+            "ro": "O călătorie panoramică de iarnă prin Bangor. Începem la catedrală și muzeul Storiel. Trecând pe lângă universitate, mergem la debarcader pentru aerul înghețat al mării. Castelul Penrhyn strălucește în soarele de iarnă înainte de a încheia ziua la Spinnies.",
+            "en": "A winter scenic drive through Bangor. We start at the cathedral and Storiel museum. Passing the university, we head to the pier for the frosty sea air. Penrhyn Castle shines in the winter sun before ending the day at the Spinnies."
+          },
+          "stops": [
+            {
+              "name": "Bangor Cathedral",
+              "tip_5lang": {
+                "de": "Die Heizung in der Kathedrale sorgt für eine angenehme Atmosphäre.",
+                "hu": "A katedrális fűtése kellemes hangulatot biztosít.",
+                "ro": "Încălzirea din catedrală asigură o atmosferă plăcută.",
+                "en": "The heating in the cathedral provides a pleasant atmosphere."
+              }
+            },
+            {
+              "name": "Storiel",
+              "tip_5lang": {
+                "de": "Ideal, um die Mittagskälte in einer gut beheizten Umgebung zu verbringen.",
+                "hu": "Ideális a déli hideget egy jól fűtött környezetben tölteni.",
+                "ro": "Ideal pentru a petrece frigul de la prânz într-un mediu bine încălzit.",
+                "en": "Ideal for spending the midday cold in a well-heated environment."
+              }
+            },
+            {
+              "name": "Bangor University (Main Building)",
+              "tip_5lang": {
+                "de": "Die Parkplätze können bei Frost glatt sein; Vorsicht beim Aussteigen.",
+                "hu": "A parkolók fagyban csúszósak lehetnek; vigyázzon a kiszállásnál.",
+                "ro": "Parcările pot fi alunecoase pe timp de îngheț; atenție la coborâre.",
+                "en": "Parking lots can be slippery during frost; be careful when stepping out."
+              }
+            },
+            {
+              "name": "Bangor Garth Pier",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf Anglesey aus dem warmen Auto, bevor Sie auf den Pier gehen.",
+                "hu": "Élvezze a kilátást Anglesey-re a meleg autóból, mielőtt kisétálna a mólóra.",
+                "ro": "Bucurați-vă de vederea spre Anglesey din mașina caldă înainte de a merge pe debarcader.",
+                "en": "Enjoy the view of Anglesey from the warm car before walking out onto the pier."
+              }
+            },
+            {
+              "name": "Penrhyn Castle",
+              "tip_5lang": {
+                "de": "Das Schloss ist im Winter oft weniger besucht – genießen Sie die Ruhe.",
+                "hu": "A kastély télen gyakran kevésbé látogatott – élvezze a nyugalmat.",
+                "ro": "Castelul este adesea mai puțin vizitat iarna – bucurați-vă de liniște.",
+                "en": "The castle is often less crowded in winter – enjoy the tranquility."
+              }
+            },
+            {
+              "name": "Spinnies Aberogwen",
+              "tip_5lang": {
+                "de": "Bringen Sie ein Fernglas mit, um Vögel aus dem trockenen Hide zu beobachten.",
+                "hu": "Hozzon távcsövet a madarak megfigyeléséhez a száraz lesből.",
+                "ro": "Aduceți binoclu pentru a observa păsările din observatorul uscat.",
+                "en": "Bring binoculars to watch birds from the dry shelter of the hide."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie morgens die Straßenbedingungen, besonders auf den Hügeln um Bangor.",
+              "Frostschutzmittel für die Scheibenwaschanlage ist bei der Meeresluft wichtig.",
+              "Die Parkplatzsuche ist im Winter einfacher als in der Hauptsaison.",
+              "Nutzen Sie die kurzen Tage für Fotos zur 'Blauen Stunde' an der Menai Bridge."
+            ],
+            "hu": [
+              "Reggel ellenőrizze az útviszonyokat, különösen a Bangor környéki dombokon.",
+              "A fagyálló szélvédőmosó fontos a sós tengeri levegő mellett.",
+              "A parkolás télen jóval egyszerűbb, mint a főszezonban.",
+              "Használja ki a rövid nappalokat 'kék órás' fotókhoz a Menai-hídnál."
+            ],
+            "ro": [
+              "Verificați starea drumurilor dimineața, mai ales pe dealurile din jurul Bangorului.",
+              "Lichidul de parbriz antigel este important în aerul sărat de mare.",
+              "Găsirea unui loc de parcare este mai ușoară iarna decât în plin sezon.",
+              "Folosiți zilele scurte pentru fotografii la „ora albastră” la Podul Menai."
+            ],
+            "en": [
+              "Check road conditions in the morning, especially on the hills around Bangor.",
+              "Antifreeze screenwash is essential with the salty coastal air.",
+              "Parking is much easier to find in winter compared to the peak season.",
+              "Take advantage of the short days for 'blue hour' photos at the Menai Bridge."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1272,6 +1782,188 @@
           "The center is best explored completely on foot.",
           "Keep some change handy for buses, in case card payment doesn't work."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn durch das regnerische Bangor. Wir nutzen die Universität und das Pontio-Zentrum als trockene Stationen. Storiel und die Kathedrale sind gut vernetzt. Ein kurzer Busritt bringt uns zum Pier, bevor wir das majestätische Penrhyn Castle erreichen.",
+            "hu": "Busszal és vonattal az esős Bangorban. Az egyetemet és a Pontio központot használjuk száraz megállóként. A Storiel és a katedrális jól megközelíthető. Egy rövid buszozás után érünk a mólóhoz, majd a fenséges Penrhyn Castle-höz.",
+            "ro": "Cu autobuzul și trenul prin Bangorul ploios. Folosim universitatea și centrul Pontio ca stații uscate. Storiel și catedrala sunt bine conectate. O scurtă plimbare cu autobuzul ne duce la debarcader înainte de a ajunge la Castelul Penrhyn.",
+            "en": "By bus and train through rainy Bangor. We use the university and Pontio Centre as dry hubs. Storiel and the cathedral are well connected. A short bus ride takes us to the pier before reaching the majestic Penrhyn Castle."
+          },
+          "stops": [
+            {
+              "name": "Bangor University (Main Building)",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen an der College Road sind nur wenige Schritte entfernt.",
+                "hu": "A College Road buszmegállói mindössze néhány lépésre találhatók.",
+                "ro": "Stațiile de autobuz de pe College Road sunt la doar câțiva pași distanță.",
+                "en": "The bus stops on College Road are just a few steps away."
+              }
+            },
+            {
+              "name": "Pontio Arts and Innovation Centre",
+              "tip_5lang": {
+                "de": "Warten Sie im Foyer im Trockenen auf Ihren nächsten Anschluss.",
+                "hu": "Várja a következő csatlakozást a száraz előcsarnokban.",
+                "ro": "Așteptați următoarea legătură la uscat, în foier.",
+                "en": "Wait for your next connection in the dry foyer."
+              }
+            },
+            {
+              "name": "Storiel",
+              "tip_5lang": {
+                "de": "Der Bahnhof Bangor ist ganz in der Nähe, ideal bei plötzlichem Starkregen.",
+                "hu": "A bangori vasútállomás a közelben van, ideális hirtelen felhőszakadáskor.",
+                "ro": "Gara Bangor este foarte aproape, ideală în caz de ploaie torențială bruscă.",
+                "en": "Bangor railway station is very close, ideal in case of sudden heavy rain."
+              }
+            },
+            {
+              "name": "Bangor Cathedral",
+              "tip_5lang": {
+                "de": "Zentrale Lage, viele Buslinien halten fast direkt vor der Tür.",
+                "hu": "Központi elhelyezkedés, számos buszjárat szinte közvetlenül az ajtó előtt áll meg.",
+                "ro": "Locație centrală, multe linii de autobuz opresc aproape direct în față.",
+                "en": "Central location, many bus lines stop almost directly in front of the door."
+              }
+            },
+            {
+              "name": "Bangor Garth Pier",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten; bei Regen wartet es sich am Pier-Eingang besser.",
+                "hu": "Ellenőrizze az indulási időket; esőben jobb a móló bejáratánál várni.",
+                "ro": "Verificați orele de plecare; pe ploaie e mai bine să așteptați la intrarea pe debarcader.",
+                "en": "Check departure times; it's better to wait at the pier entrance during rain."
+              }
+            },
+            {
+              "name": "Penrhyn Castle",
+              "tip_5lang": {
+                "de": "Vom Busstopp an der A5 ist es ein kurzer, eventuell nasser Fußweg zum Schloss.",
+                "hu": "Az A5-ös úti buszmegállótól rövid, esetleg vizes séta vezet a kastélyhoz.",
+                "ro": "De la stația de autobuz de pe A5 este o scurtă plimbare, posibil umedă, până la castel.",
+                "en": "From the bus stop on the A5, it's a short, possibly wet walk to the castle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Traveline Cymru App für Echtzeit-Infos bei wetterbedingten Verspätungen.",
+              "Tragen Sie Kleidung, die schnell trocknet, falls Sie beim Umsteigen nass werden.",
+              "Die Busse sind im Winter gut beheizt und bieten eine Pause vom Wetter.",
+              "Ein Tagesticket lohnt sich bei dieser Route besonders."
+            ],
+            "hu": [
+              "Használja a Traveline Cymru alkalmazást az élő információkért időjárási késések esetén.",
+              "Viseljen gyorsan száradó ruhát, ha átszálláskor megázna.",
+              "A buszok télen jól fűtöttek, így pihenőt nyújtanak az időjárás elől.",
+              "Ezen az útvonalon különösen megéri a napijegy váltása."
+            ],
+            "ro": [
+              "Folosiți aplicația Traveline Cymru pentru info în timp real în caz de întârzieri.",
+              "Purtați haine care se usucă repede în caz că vă udați la transfer.",
+              "Autobuzele sunt bine încălzite iarna și oferă o pauză de la vreme.",
+              "Un bilet de o zi merită în mod special pe această rută."
+            ],
+            "en": [
+              "Use the Traveline Cymru app for real-time info during weather-related delays.",
+              "Wear quick-drying clothes in case you get wet during transfers.",
+              "Buses are well-heated in winter, providing a break from the elements.",
+              "A day ticket is particularly good value for this route."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreise mit Bangor Transit. Vom frostigen Bahnhof geht es zur Universität und zum warmen Pontio. Storiel und die Kathedrale bieten kulturelle Wärme. Den Pier besuchen wir vor Sonnenuntergang, bevor der Bus uns zum Penrhyn Castle bringt.",
+            "hu": "Téli utazás bangori tömegközlekedéssel. A fagyos állomástól az egyetemig és a meleg Pontioig megyünk. A Storiel és a katedrális kulturális meleget ad. A mólót naplemente előtt látogatjuk, mielőtt a busz a Penrhyn Castle-höz vinne.",
+            "ro": "Călătorie de iarnă cu transportul din Bangor. De la gara înghețată mergem la universitate și la Pontio cel cald. Storiel și catedrala oferă căldură culturală. Vizităm debarcaderul înainte de apus, apoi autobuzul ne duce la Castelul Penrhyn.",
+            "en": "Winter travel with Bangor Transit. From the frosty station to the university and warm Pontio. Storiel and the cathedral provide cultural warmth. We visit the pier before sunset, then the bus takes us to Penrhyn Castle."
+          },
+          "stops": [
+            {
+              "name": "Bangor University (Main Building)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verschneite Stadt aus dem Busfenster beim Aufstieg.",
+                "hu": "Élvezze a kilátást a havas városra a busz ablakából az emelkedő közben.",
+                "ro": "Bucurați-vă de vederea orașului înzăpezit de la geamul autobuzului în timpul urcării.",
+                "en": "Enjoy the view of the snowy city from the bus window during the climb."
+              }
+            },
+            {
+              "name": "Pontio Arts and Innovation Centre",
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um auf den Bus zu warten und sich aufzuwärmen.",
+                "hu": "Nagyszerű hely a buszra várni és felmelegedni.",
+                "ro": "Un loc excelent pentru a aștepta autobuzul și a vă încălzi.",
+                "en": "A great place to wait for the bus and warm up."
+              }
+            },
+            {
+              "name": "Storiel",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg vom beheizten Bahnhof entfernt.",
+                "hu": "Mindössze 5 perc séta a fűtött vasútállomástól.",
+                "ro": "La doar 5 minute de mers pe jos de gara încălzită.",
+                "en": "Only a 5-minute walk from the heated railway station."
+              }
+            },
+            {
+              "name": "Bangor Cathedral",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Laden in der Kathedrale für lokale Winter-Souvenirs.",
+                "hu": "Látogasson el a katedrális boltjába helyi téli szuvenírekért.",
+                "ro": "Vizitați magazinul catedralei pentru suveniruri locale de iarnă.",
+                "en": "Visit the cathedral shop for local winter souvenirs."
+              }
+            },
+            {
+              "name": "Bangor Garth Pier",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Fahrplan; Busse fahren im Winter seltener zum Pier.",
+                "hu": "Ügyeljen a menetrendre; a buszok télen ritkábban járnak a mólóhoz.",
+                "ro": "Atenție la orar; autobuzele merg mai rar la debarcader iarna.",
+                "en": "Check the timetable; buses may run less frequently to the pier in winter."
+              }
+            },
+            {
+              "name": "Penrhyn Castle",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit; die Wege zum Bus sind unbeleuchtet.",
+                "hu": "Tervezze a visszautat sötétedés előtt; a buszhoz vezető utak nincsenek kivilágítva.",
+                "ro": "Planificați drumul de întoarcere înainte de lăsarea întunericului; potecile spre bus nu sunt iluminate.",
+                "en": "Plan your return trip before dark; the paths to the bus stop are unlit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Socken, da das Warten an Haltestellen im Winter kühl sein kann.",
+              "Nutzen Sie die Bahnhöfe als warme Stützpunkte während Ihrer Reise.",
+              "Dunkelheit setzt früh ein – behalten Sie die Fahrpläne für den Abend im Blick.",
+              "Die Menai Bridge ist im Winter beleuchtet ein toller Anblick vom Bus aus."
+            ],
+            "hu": [
+              "Viseljen meleg zoknit, mert a megállókban várakozás télen hűvös lehet.",
+              "Használja a vasútállomásokat meleg bázisként az út során.",
+              "A sötétség hamar leszáll – figyelje az esti menetrendeket.",
+              "A kivilágított Menai-híd télen nagyszerű látvány a buszból."
+            ],
+            "ro": [
+              "Purtați șosete groase, deoarece așteptarea în stații poate fi răcoroasă iarna.",
+              "Folosiți gările ca baze calde în timpul călătoriei.",
+              "Întunericul se lasă devreme – fiți atenți la orarele de seară.",
+              "Podul Menai iluminat este o priveliște minunată din autobuz iarna."
+            ],
+            "en": [
+              "Wear warm socks, as waiting at bus stops can be chilly in winter.",
+              "Use the train stations as warm hubs during your journey.",
+              "Darkness sets in early – keep an eye on evening bus schedules.",
+              "The illuminated Menai Bridge is a great sight from the bus in winter."
+            ]
+          }
+        }
       }
     }
   }

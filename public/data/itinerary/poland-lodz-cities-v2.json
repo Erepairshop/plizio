@@ -402,6 +402,214 @@
           "Many restaurants and cafes have outdoor seating, perfect for people-watching.",
           "Keep an eye out for the unique courtyards along Piotrkowska."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen am Plac Wolności erfordert einen Schirm; nutzen Sie die Arkaden des Rathauses als Schutz. Mittags bieten die tiefen Toreinfahrten der Piotrkowska-Straße trockene Passagen zwischen den Boutiquen. Den Nachmittag verbringen Sie im Poznański-Palast, dessen prunkvolle Säle ein perfektes Refugium vor dem Regen sind. Der Tag endet im überdachten Manufaktura-Komplex, wo das Wetter keine Rolle spielt.",
+            "hu": "A reggel a Plac Wolności-n indul; a városháza ereszei védenek a hirtelen záportól. Délben a Piotrkowska utca magas kapualjai (bramy) száraz építészeti folyosót biztosítanak a nézelődéshez. A délutánt a Poznański-palota falai között tölthetjük, ahol a 19. századi ipari gazdagság száraz marad. Az este a Manufaktura hatalmas fedett csarnokaiban zárul, ahol az eső már nem zavarja a programot.",
+            "ro": "Dimineața în Plac Wolności necesită o umbrelă; folosiți arcadele primăriei pentru adăpost. La prânz, porțile înalte ale străzii Piotrkowska oferă pasaje uscate între magazine. După-amiaza este rezervată Palatului Poznański, ale cărui săli opulente sunt un refugiu perfect împotriva ploii. Ziua se încheie în complexul acoperit Manufaktura, unde vremea nu mai contează.",
+            "en": "Morning at Plac Wolności requires an umbrella; use the town hall eaves for cover. At noon, the deep gateways of Piotrkowska Street provide dry passages between boutiques. Spend the afternoon in the Poznański Palace, where the opulent 19th-century halls offer a perfect refuge from the rain. The day ends in the vast covered Manufaktura complex, where the weather is no longer a factor."
+          },
+          "stops": [
+            {
+              "name": "Liberty Square",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem Vordach des Rathauses am Nordrand.",
+                "hu": "Keressen menedéket a városháza északi peremén lévő előtető alatt.",
+                "ro": "Căutați adăpost sub copertina primăriei de pe marginea de nord.",
+                "en": "Seek shelter under the town hall canopy on the northern edge."
+              }
+            },
+            {
+              "name": "Piotrkowska Street",
+              "tip_5lang": {
+                "de": "Nutzen Sie die 'Bramy' (Toreinfahrten) als trockene Abkürzungen.",
+                "hu": "Használja a 'Bramy'-kat (kapualjak) száraz rövidítésként.",
+                "ro": "Folosiți 'Bramy' (intrările de poartă) ca scurtături uscate.",
+                "en": "Use the 'Bramy' (gateways) as dry shortcuts between buildings."
+              }
+            },
+            {
+              "name": "Alexander Nevsky Cathedral",
+              "tip_5lang": {
+                "de": "Die prachtvolle Innenausstattung ist ein idealer Ort zum Aufwärmen.",
+                "hu": "A pompás belső tér ideális hely a felmelegedésre és elmélyülésre.",
+                "ro": "Interiorul splendid este un loc ideal pentru a vă încălzi.",
+                "en": "The splendid interior is an ideal place to warm up and stay dry."
+              }
+            },
+            {
+              "name": "Izrael Poznański's Palace",
+              "tip_5lang": {
+                "de": "Nehmen Sie an einer Führung teil, um die Regenzeit drinnen zu nutzen.",
+                "hu": "Vegyen részt egy vezetett túrán, hogy bent töltse az esős időt.",
+                "ro": "Participați la un tur ghidat pentru a petrece timpul ploios înăuntru.",
+                "en": "Take a guided tour to make the most of the rainy weather indoors."
+              }
+            },
+            {
+              "name": "Manufaktura",
+              "tip_5lang": {
+                "de": "Das riesige Einkaufszentrum bietet stundenlangen Schutz im Trockenen.",
+                "hu": "A hatalmas bevásárlóközpont órákig tartó száraz menedéket nyújt.",
+                "ro": "Centrul comercial uriaș oferă ore de adăpost la uscat.",
+                "en": "The huge shopping center offers hours of dry shelter and entertainment."
+              }
+            },
+            {
+              "name": "Art Museum ms2",
+              "tip_5lang": {
+                "de": "Kulturelle Pause in modernen Hallen ohne Sorge um das Wetter.",
+                "hu": "Kulturális szünet modern termekben, időjárási gondok nélkül.",
+                "ro": "Pauză culturală în hale moderne fără griji legate de vreme.",
+                "en": "Cultural break in modern halls without worrying about the weather."
+              }
+            },
+            {
+              "name": "Grand Theatre (Teatr Wielki)",
+              "tip_5lang": {
+                "de": "Der Portikus bietet kurzzeitigen Schutz vor dem nächsten Schauer.",
+                "hu": "A portikusz rövid távú védelmet nyújt a következő zápor előtt.",
+                "ro": "Porticul oferă protecție pe termen scurt înainte de următoarea ploaie.",
+                "en": "The portico provides short-term protection before the next shower."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Łódź ist berühmt für seine 'Bramy' an der Piotrkowska, die ideal sind, um Regenschauer abzuwarten.",
+              "Die Manufaktura ist ein massiver Innenkomplex, in dem man stundenlang trocken bleiben kann.",
+              "Ein stabiler Regenschirm ist wichtig, da der Wind in den offenen Plätzen stark sein kann.",
+              "Museen wie das ms2 bieten exzellente kulturelle Zufluchtsorte bei schlechtem Wetter.",
+              "Tragen Sie wasserfeste Schuhe für das unebene industrielle Kopfsteinpflaster."
+            ],
+            "hu": [
+              "Łódź híres a Piotrkowska utcai kapualjairól (bramy), amelyek ideálisak az eső megvárására.",
+              "A Manufaktura egy hatalmas fedett komplexum, ahol órákig szárazon maradhat.",
+              "Erős esernyő ajánlott, mert a szél a nyitott tereken felerősödhet.",
+              "Az olyan múzeumok, mint az ms2, kiváló kulturális menedéket nyújtanak rossz időben.",
+              "Viseljen vízálló cipőt az egyenetlen ipari macskaköves burkolatok miatt."
+            ],
+            "ro": [
+              "Łódź este faimos pentru 'Bramy' (porțile) de pe strada Piotrkowska, ideale pentru a aștepta trecerea ploii.",
+              "Manufaktura este un complex interior masiv unde puteți rămâne uscat ore în șir.",
+              "O umbrelă rezistentă este esențială, deoarece vântul poate fi puternic în piețele deschise.",
+              "Muzee precum ms2 oferă refugii culturale excelente pe vreme rea.",
+              "Purtați încălțăminte impermeabilă pentru pavajele industriale neregulate."
+            ],
+            "en": [
+              "Lodz is famous for its 'bramy' (gateways) on Piotrkowska street, perfect for skipping between rain showers.",
+              "Manufaktura is a massive indoor complex where you can stay dry for hours.",
+              "Keep a sturdy umbrella as wind can be strong in open squares.",
+              "The museums like ms2 offer excellent indoor refuge during heavy rain.",
+              "Wear waterproof shoes for the uneven industrial pavements and puddles."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Plac Wolności beginnt den Tag; die kalten Winde fordern warme Kleidung. Mittags laden die gemütlichen Cafés entlang der Piotrkowska zum Aufwärmen bei heißer Schokolade ein. Am Nachmittag glänzen die vergoldeten Säle des Poznański-Palasts besonders hell im frühen Winterlicht. Wenn die Dunkelheit gegen 16 Uhr hereinbricht, erstrahlt die Manufaktura in festlicher Beleuchtung.",
+            "hu": "Egy fagyos reggel indul a Plac Wolności-n; a hideg szél meleg ruházatot igényel. Délben a Piotrkowska utca hangulatos kávézói hívogatnak egy forró csokoládéra. Délután a Poznański-palota aranyozott termei különösen fényesen ragyognak a korai téli világításban. Amikor 16 óra körül leszáll az éj, a Manufaktura ünnepi díszkivilágítása káprázatos látványt nyújt.",
+            "ro": "O dimineață geroasă în Plac Wolności începe ziua; vântul rece necesită haine groase. La prânz, cafenelele primitoare de pe strada Piotrkowska vă invită la o ciocolată caldă. După-amiaza, sălile aurite ale Palatului Poznański strălucesc intens în lumina timpurie de iarnă. Când întunericul coboară în jurul orei 16, Manufaktura strălucește în iluminat festiv.",
+            "en": "A frosty morning at Plac Wolności starts the day; cold winds demand warm clothing. At noon, cozy cafes along Piotrkowska Street invite you for a hot chocolate to warm up. In the afternoon, the gilded halls of Poznański Palace shine especially bright in the early winter light. As darkness falls around 4 PM, Manufaktura lights up with festive illumination."
+          },
+          "stops": [
+            {
+              "name": "Liberty Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Granitpflaster des Platzes.",
+                "hu": "Ügyeljen a jegesedésre a tér gránitburkolatán.",
+                "ro": "Atenție la polei pe pavajul de granit al pieței.",
+                "en": "Watch out for ice on the granite pavement of the square."
+              }
+            },
+            {
+              "name": "Piotrkowska Street",
+              "tip_5lang": {
+                "de": "Machen Sie regelmäßig Pausen in den beheizten Passagen.",
+                "hu": "Tartson rendszeres szünetet a fűtött passzázsokban és kávézókban.",
+                "ro": "Faceți pauze regulate în pasajele încălzite.",
+                "en": "Take regular breaks in the heated passages and cafes along the street."
+              }
+            },
+            {
+              "name": "Alexander Nevsky Cathedral",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den Körper vor dem nächsten Spaziergang aufzuwärmen.",
+                "hu": "Csendes hely a test felmelegítésére a következő séta előtt.",
+                "ro": "Un loc liniștit pentru a vă încălzi înainte de următoarea plimbare.",
+                "en": "A quiet place to warm up your body before the next walk."
+              }
+            },
+            {
+              "name": "Izrael Poznański's Palace",
+              "tip_5lang": {
+                "de": "Die prunkvollen Innenräume sind im Winter bestens beheizt.",
+                "hu": "A pompás belső terek télen is kiválóan fűtöttek.",
+                "ro": "Interioarele somptuoase sunt bine încălzite în timpul iernii.",
+                "en": "The opulent interiors are well-heated and cozy during winter."
+              }
+            },
+            {
+              "name": "Manufaktura",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Eisbahn und die Weihnachtsdekoration auf dem Markt.",
+                "hu": "Csodálja meg a jégpályát és a karácsonyi dekorációt a piacon.",
+                "ro": "Admirați patinoarul și decorațiunile de Crăciun din piață.",
+                "en": "Admire the ice rink and Christmas decorations in the market square."
+              }
+            },
+            {
+              "name": "Art Museum ms2",
+              "tip_5lang": {
+                "de": "Idealer Zufluchtsort, wenn die Nachmittagskälte zu stark wird.",
+                "hu": "Ideális menedék, ha a délutáni hideg túl erőssé válik.",
+                "ro": "Refugiu ideal dacă frigul de după-amiază devine prea intens.",
+                "en": "Ideal refuge if the afternoon cold becomes too intense."
+              }
+            },
+            {
+              "name": "Grand Theatre (Teatr Wielki)",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung wirkt im Schnee besonders stimmungsvoll.",
+                "hu": "Az esti kivilágítás a hóban különösen hangulatos.",
+                "ro": "Iluminatul de seară arată deosebit de atmosferic în zăpadă.",
+                "en": "The evening illumination looks especially atmospheric in the snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Winter in Łódź können windig sein; ein Gesichtsschutz ist auf offenen Plätzen ratsam.",
+              "Die Sonne geht gegen 16:00 Uhr unter, planen Sie Außenfotos für den Vormittag.",
+              "Die meisten Paläste und Museen sind sehr gut beheizt und bieten Komfort.",
+              "Die Piotrkowska ist im Winter festlich beleuchtet und sehr fotogen.",
+              "Tragen Sie Schuhe mit gutem Profil wegen möglicher Vereisung der Gehwege."
+            ],
+            "hu": [
+              "A łódźi telek szelesek lehetnek; a nyitott tereken javasolt az arc védelme.",
+              "A nap 16:00 körül nyugszik, a kültéri fotókat délelőttre tervezze.",
+              "A legtöbb palota és múzeum nagyon jól fűtött, kényelmes menedéket nyújtva.",
+              "A Piotrkowska télen ünnepi fénybe öltözik és rendkívül fotogén.",
+              "Viseljen jó tapadású cipőt a járdák esetleges jegesedése miatt."
+            ],
+            "ro": [
+              "Iernile din Łódź pot fi vântoase; protecția feței este recomandată în piețele deschise.",
+              "Soarele apune în jurul orei 16:00, planificați fotografiile de exterior dimineața.",
+              "Majoritatea palatelor și muzeelor sunt foarte bine încălzite și oferă confort.",
+              "Strada Piotrkowska este iluminată festiv iarna și este foarte fotogenică.",
+              "Purtați încălțăminte cu aderență bună din cauza posibilei înghețări a trotuarelor."
+            ],
+            "en": [
+              "Winters in Lodz can be windy; a face mask or scarf is advisable in open squares.",
+              "Sunset is around 4 PM, so plan your outdoor photos for the morning.",
+              "Most palaces and museums are well-heated and provide a warm refuge.",
+              "Piotrkowska is festively illuminated in winter and very photogenic.",
+              "Wear boots with good grip due to potential ice on the industrial pavements."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -822,6 +1030,232 @@
           "Be careful of tram tracks, especially when wet.",
           "Always lock your bike to a fixed object."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start am Plac Wolności erfordert Vorsicht auf dem glatten Kopfsteinpflaster. Radeln Sie zur Manufaktura, wo überdachte Stellplätze das Rad trocken halten. Mittags führt die Route zur Piotrkowska, deren Radwege auch bei Regen gut befahrbar sind. Nachmittags bieten Parks wie am Herbst-Palast eine ruhige, wenn auch feuchte Kulisse, bevor der Tag am Radegast-Bahnhof endet.",
+            "hu": "Vizes kezdés a Plac Wolności-n; óvatosan a csúszós macskaköveken. Teperjen a Manufaktura felé, ahol a fedett tárolók szárazon tartják a gépet. Délben az útvonal a Piotrkowska felé vezet, melynek kerékpárútjai esőben is jól járhatók. Délután a Herbst-palota parkja csendes, bár párás díszletet ad, mielőtt a nap a Radegast állomásnál zárulna.",
+            "ro": "Un început umed în Plac Wolności necesită prudență pe pavajul alunecos. Pedalați spre Manufaktura, unde rastelurile acoperite mențin bicicleta uscată. La prânz, traseul duce spre Piotrkowska, ale cărei piste de biciclete sunt practicabile și pe ploaie. După-amiaza, parcurile de lângă Palatul Herbst oferă un cadru liniștit, deși umed, înainte de finalul zilei la Gara Radegast.",
+            "en": "A wet start at Plac Wolności requires caution on the slippery cobblestones. Cycle to Manufaktura, where covered racks keep your bike dry. At noon, the route leads to Piotrkowska, whose bike lanes are manageable even in rain. In the afternoon, parks near Herbst Palace provide a quiet, albeit damp, backdrop before the day ends at Radegast Station."
+          },
+          "stops": [
+            {
+              "name": "Liberty Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren; der Granit ist bei Nässe extrem rutschig.",
+                "hu": "Vigyázat induláskor; a gránit nedvesen rendkívül csúszós.",
+                "ro": "Atenție la pornire; granitul este extrem de alunecos când este umed.",
+                "en": "Be careful when starting; the granite is extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Manufaktura",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Fahrradständer nahe dem Haupteingang.",
+                "hu": "Használja a főbejárat közelében lévő fedett kerékpártárolókat.",
+                "ro": "Folosiți suporturile de biciclete acoperite de lângă intrarea principală.",
+                "en": "Use the covered bike racks located near the main entrance."
+              }
+            },
+            {
+              "name": "Izrael Poznański's Palace",
+              "tip_5lang": {
+                "de": "Parken Sie im Innenhof, um den Weg zum Eingang kurz zu halten.",
+                "hu": "Parkoljon a belső udvarban, hogy rövid legyen az út a bejáratig.",
+                "ro": "Parcați în curtea interioară pentru a scurta drumul spre intrare.",
+                "en": "Park in the inner courtyard to keep the walk to the entrance short."
+              }
+            },
+            {
+              "name": "Piotrkowska Street",
+              "tip_5lang": {
+                "de": "Meiden Sie die Straßenbahnschienen; sie sind eine Sturzgefahr bei Regen.",
+                "hu": "Kerülje a villamossíneket; esőben komoly esésveszélyt jelentenek.",
+                "ro": "Evitați șinele de tramvai; sunt un pericol de cădere pe ploaie.",
+                "en": "Avoid tram tracks; they are a serious fall hazard when wet."
+              }
+            },
+            {
+              "name": "Herbst Palace",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen; die Rasenflächen werden schlammig.",
+                "hu": "Maradjon a szilárd utakon; a füves területek sárossá válnak.",
+                "ro": "Rămâneți pe potecile pavate; zonele cu iarbă devin noroioase.",
+                "en": "Stay on the paved paths; the grassy areas become very muddy."
+              }
+            },
+            {
+              "name": "Alexander Nevsky Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter den Bäumen, um die Ausrüstung kurz zu prüfen.",
+                "hu": "Rövid megálló a fák alatt, hogy ellenőrizze a felszerelését.",
+                "ro": "Oprire scurtă sub copaci pentru a verifica echipamentul.",
+                "en": "Short stop under the trees to quickly check your gear."
+              }
+            },
+            {
+              "name": "Jewish Cemetery",
+              "tip_5lang": {
+                "de": "Achten Sie auf tief hängende Äste und rutschiges Laub auf den Pfaden.",
+                "hu": "Ügyeljen a belógó ágakra és a csúszós levelekre az ösvényeken.",
+                "ro": "Atenție la crengile joase și frunzele alunecoase pe poteci.",
+                "en": "Watch out for low-hanging branches and slippery leaves on the paths."
+              }
+            },
+            {
+              "name": "Radegast Station",
+              "tip_5lang": {
+                "de": "Vollständig im Freien; halten Sie den Besuch bei starkem Regen kurz.",
+                "hu": "Teljesen szabadtéri; heves esőben tartsa rövidre a látogatást.",
+                "ro": "Complet în aer liber; scurtați vizita în caz de ploaie torențială.",
+                "en": "Entirely outdoors; keep the visit short if heavy rain persists."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Überschuhen ist für Łódź obligatorisch.",
+              "Die Straßenbahnschienen in der Stadtmitte sind bei Nässe extrem gefährlich.",
+              "Nutzen Sie die Asphalt-Radwege der Piotrkowska, um Kopfsteinpflaster zu meiden.",
+              "Prüfen Sie Ihre Bremsen vorab; die industriellen Beläge fordern das Material.",
+              "Verstauen Sie Wertsachen in wasserdichten Packtaschen."
+            ],
+            "hu": [
+              "Teljes esőruházat, beleértve a kamáslit is, kötelező Łódźban.",
+              "A belvárosi villamossínek nedvesen rendkívül veszélyesek.",
+              "Használja a Piotrkowska aszfaltos kerékpárútjait a macskakő elkerülésére.",
+              "Előzetesen ellenőrizze a fékeket; az ipari burkolatok igénybe veszik az anyagot.",
+              "Értékeit vízhatlan táskákban tárolja."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie, inclusiv protecțiile pentru pantofi, este obligatoriu.",
+              "Șinele de tramvai din centrul orașului sunt extrem de periculoase când sunt ude.",
+              "Folosiți pistele de biciclete asfaltate de pe Piotrkowska pentru a evita pavajul.",
+              "Verificați frânele în prealabil; pavajele industriale uzează materialul.",
+              "Depozitați obiectele de valoare în genți impermeabile."
+            ],
+            "en": [
+              "Full rain gear, including shoe covers, is mandatory for cycling in Lodz.",
+              "Tram tracks in the city center are extremely dangerous when wet.",
+              "Use the asphalt bike lanes on Piotrkowska to avoid the slippery cobblestones.",
+              "Check your brakes beforehand; the industrial pavements are tough on the gear.",
+              "Store valuables in waterproof panniers or bags."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein eisiger Morgen am Plac Wolności fordert Ihre Ausdauer; der Wind weht ungehindert über den Platz. Radeln Sie zügig zur Manufaktura, um sich im Inneren aufzuwärmen. Mittags ist die Piotrkowska dank geräumter Wege gut befahrbar, wobei die kalte Luft die Fahrt erfrischend macht. Nachmittags bietet der jüdische Friedhof eine stille, verschneite Kulisse, bevor der Tag am Radegast-Bahnhof endet.",
+            "hu": "Fagyos reggel a Plac Wolności-n; a szél akadálytalanul fúj át a téren. Teperjen gyorsan a Manufaktura felé, hogy bent felmelegedjen. Délben a Piotrkowska a letakarított utaknak köszönhetően jól járható, a hideg levegő pedig frissítővé teszi az utat. Délután a zsidó temető csendes, havas díszletet ad, mielőtt a nap a Radegast állomásnál zárulna.",
+            "ro": "O dimineață geroasă în Plac Wolności vă provoacă rezistența; vântul suflă nestingherit. Pedalați rapid spre Manufaktura pentru a vă încălzi în interior. La prânz, Piotrkowska este practicabilă datorită drumurilor curățate. După-amiaza, cimitirul evreiesc oferă un cadru liniștit și înzăpezit, înainte de finalul zilei la Gara Radegast.",
+            "en": "A frosty morning at Plac Wolności challenges your stamina; the wind blows unchecked across the square. Cycle quickly to Manufaktura to warm up inside. At noon, Piotrkowska is manageable thanks to cleared paths, with the cold air making the ride refreshing. In the afternoon, the Jewish Cemetery provides a quiet, snowy backdrop before the day ends at Radegast Station."
+          },
+          "stops": [
+            {
+              "name": "Liberty Square",
+              "tip_5lang": {
+                "de": "Extremer Windchill; ein Gesichtsschutz oder Buff ist hier ratsam.",
+                "hu": "Extrém szélhideg; arcvédő vagy csősál használata javasolt.",
+                "ro": "Vânt extrem de rece; se recomandă o protecție pentru față.",
+                "en": "Extreme wind chill; a face mask or buff is highly recommended here."
+              }
+            },
+            {
+              "name": "Manufaktura",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und gehen Sie direkt in den geheizten Food-Court.",
+                "hu": "Parkolja le a bringát, és menjen egyenesen a fűtött ételudvarba.",
+                "ro": "Parcați bicicleta și mergeți direct în zona de restaurante încălzită.",
+                "en": "Park your bike and head straight for the heated food court to thaw out."
+              }
+            },
+            {
+              "name": "Izrael Poznański's Palace",
+              "tip_5lang": {
+                "de": "Die Innenräume bieten eine willkommene Wärme nach der Fahrt.",
+                "hu": "A belső terek üdvözlendő meleget kínálnak a tekerés után.",
+                "ro": "Interioarele oferă o căldură binevenită după cursă.",
+                "en": "The interiors offer a welcome warmth after the chilly ride."
+              }
+            },
+            {
+              "name": "Piotrkowska Street",
+              "tip_5lang": {
+                "de": "Radwege sind meist geräumt, aber achten Sie auf gefrorene Pfützen.",
+                "hu": "A kerékpárutak többnyire letakarítottak, de ügyeljen a fagyott tócsákra.",
+                "ro": "Pistele sunt curățate, dar atenție la bălțile înghețate.",
+                "en": "Bike lanes are usually cleared, but watch out for frozen puddles."
+              }
+            },
+            {
+              "name": "Herbst Palace",
+              "tip_5lang": {
+                "de": "Malerisch, aber sehr kalt nahe dem Wasser; bleiben Sie in Bewegung.",
+                "hu": "Festői, de nagyon hideg a víz közelében; maradjon mozgásban.",
+                "ro": "Pittoresc, dar foarte frig lângă apă; rămâneți în mișcare.",
+                "en": "Scenic but very cold near the water; keep moving to stay warm."
+              }
+            },
+            {
+              "name": "Alexander Nevsky Cathedral",
+              "tip_5lang": {
+                "de": "Ein kurzer, stiller Moment, um die Hände kurz aufzuwärmen.",
+                "hu": "Rövid, csendes pillanat a kezek gyors felmelegítésére.",
+                "ro": "Un moment scurt și liniștit pentru a vă încălzi mâinile.",
+                "en": "A short, quiet moment to briefly warm up your hands."
+              }
+            },
+            {
+              "name": "Jewish Cemetery",
+              "tip_5lang": {
+                "de": "Verschneite Pfade sind schön, erfordern aber mehr Kraft beim Treten.",
+                "hu": "A havas ösvények szépek, de több erőt igényelnek a tekeréshez.",
+                "ro": "Potecile înzăpezite sunt frumoase, dar necesită mai mult efort.",
+                "en": "Snowy paths are beautiful but require more effort to pedal through."
+              }
+            },
+            {
+              "name": "Radegast Station",
+              "tip_5lang": {
+                "de": "Die winterliche Stille unterstreicht die bedrückende Atmosphäre.",
+                "hu": "A téli csend felerősíti a hely nyomasztó atmoszféráját.",
+                "ro": "Liniștea iernii subliniază atmosfera apăsătoare a locului.",
+                "en": "The winter silence emphasizes the oppressive atmosphere of the site."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten und winddichte Handschuhe beim Radeln.",
+              "Die Batterielaufzeit von E-Bikes sinkt bei Kälte drastisch; planen Sie dies ein.",
+              "Achten Sie auf Streusalz, das die Kette angreifen kann; nach der Tour reinigen.",
+              "Beleuchtung ist ab 15:30 Uhr aufgrund der frühen Dämmerung unerlässlich.",
+              "Die Radwege auf der Piotrkowska werden meist priorisiert geräumt."
+            ],
+            "hu": [
+              "Viseljen több réteget és szélálló kesztyűt a kerékpározáshoz.",
+              "Az e-bike-ok akkumulátorának élettartama hidegben drasztikusan csökken.",
+              "Ügyeljen az útszóró sóra, amely károsíthatja a láncot; túra után tisztítsa meg.",
+              "A világítás 15:30-tól elengedhetetlen a korai sötétedés miatt.",
+              "A Piotrkowska kerékpárútjait általában elsőként takarítják le."
+            ],
+            "ro": [
+              "Purtați mai multe straturi și mănuși rezistente la vânt.",
+              "Durata bateriei bicicletelor electrice scade drastic la ger.",
+              "Atenție la sarea de pe drum care poate ataca lanțul; curățați după tură.",
+              "Iluminarea este esențială de la ora 15:30 din cauza amurgului timpuriu.",
+              "Pistele de pe Piotrkowska sunt de obicei curățate cu prioritate."
+            ],
+            "en": [
+              "Wear multiple layers and windproof gloves while cycling in winter.",
+              "E-bike battery life drops drastically in the cold; plan your route accordingly.",
+              "Watch out for road salt which can damage the chain; clean it after the tour.",
+              "Lights are essential from 3:30 PM onwards due to early sunset.",
+              "Bike lanes on Piotrkowska are usually prioritized for snow removal."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1242,6 +1676,232 @@
           "The cluster strategy saves on parking fees and stress.",
           "Check parking zones and fees to avoid fines."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen am Plac Wolności macht das Parken zur Herausforderung. Fahren Sie zur Piotrkowska, wo Sie nahe dem nördlichen Ende halten können. Mittags bietet die Kathedrale einen trockenen Zwischenstopp, bevor es zur Manufaktura geht, deren Parkhaus idealen Schutz bietet. Der Nachmittag im Poznański-Palast und im ms2-Museum ist wetterunabhängig, bevor die Tour am Radegast-Bahnhof endet.",
+            "hu": "Az esős reggel a Plac Wolności-n megnehezíti a parkolást. Hajtson a Piotrkowska felé, ahol az északi vég közelében találhat helyet. Délben a székesegyház száraz megállót kínál, mielőtt a Manufaktura felé veszi az irányt, melynek parkolóháza ideális védelmet nyújt. A délután a Poznański-palotában és az ms2 múzeumban időjárásfüggetlen, mielőtt a túra a Radegast állomásnál zárul.",
+            "ro": "O dimineață ploioasă în Plac Wolności face parcarea o provocare. Conduceți spre Piotrkowska, unde puteți opri aproape de capătul de nord. La prânz, catedrala oferă o oprire uscată înainte de a merge la Manufaktura, a cărei parcare supraetajată oferă protecție ideală. După-amiaza la Palatul Poznański și muzeul ms2 este independentă de vreme, înainte de finalul la Gara Radegast.",
+            "en": "A rainy morning at Plac Wolności makes parking a challenge. Drive to Piotrkowska, where you can stop near the northern end. At noon, the cathedral offers a dry stopover before heading to Manufaktura, whose multi-story car park provides ideal protection. The afternoon in the Poznański Palace and ms2 museum is weather-independent before the tour ends at Radegast Station."
+          },
+          "stops": [
+            {
+              "name": "Liberty Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze in den Seitenstraßen, um Fußwege im Regen zu minimieren.",
+                "hu": "Használja az oldalsó utcák parkolóit, hogy minimalizálja az esőben való gyaloglást.",
+                "ro": "Folosiți parcările de pe străzile laterale pentru a minimiza mersul prin ploaie.",
+                "en": "Use parking spots in side streets to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Piotrkowska Street (northern section)",
+              "tip_5lang": {
+                "de": "Parken Sie in einem der bewachten Parkhäuser für trockenen Zugang.",
+                "hu": "Parkoljon az egyik őrzött parkolóházban a száraz bejutáshoz.",
+                "ro": "Parcați într-una dintre parcările păzite pentru acces uscat.",
+                "en": "Park in one of the guarded parking garages for dry access to the street."
+              }
+            },
+            {
+              "name": "Alexander Nevsky Cathedral",
+              "tip_5lang": {
+                "de": "Kurzes Halten direkt vor dem Eingang für ein schnelles Foto möglich.",
+                "hu": "Rövid megállás közvetlenül a bejárat előtt lehetséges egy gyors fotóhoz.",
+                "ro": "Oprirea scurtă chiar în fața intrării este posibilă pentru o fotografie rapidă.",
+                "en": "Short stop right in front of the entrance is possible for a quick photo."
+              }
+            },
+            {
+              "name": "Manufaktura",
+              "tip_5lang": {
+                "de": "Das Parkhaus bietet direkten, überdachten Zugang zu den Geschäften.",
+                "hu": "A parkolóház közvetlen, fedett bejáratot biztosít az üzletekhez.",
+                "ro": "Parcarea supraetajată oferă acces direct și acoperit la magazine.",
+                "en": "The multi-story car park offers direct, covered access to the complex."
+              }
+            },
+            {
+              "name": "Izrael Poznański's Palace",
+              "tip_5lang": {
+                "de": "Parken Sie an der Ogrodowa-Straße, um den Regenweg kurz zu halten.",
+                "hu": "Parkoljon az Ogrodowa utcában, hogy rövid legyen az út az esőben.",
+                "ro": "Parcați pe strada Ogrodowa pentru a scurta drumul prin ploaie.",
+                "en": "Park on Ogrodowa Street to keep the walking distance in rain short."
+              }
+            },
+            {
+              "name": "Art Museum ms2",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgarage der Manufaktura für den Besuch.",
+                "hu": "Használja a Manufaktura mélygarázsát a látogatáshoz.",
+                "ro": "Folosiți parcarea subterană de la Manufaktura pentru vizită.",
+                "en": "Use the Manufaktura underground parking for a dry visit to the museum."
+              }
+            },
+            {
+              "name": "Jewish Cemetery",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und betrachten Sie das Tor.",
+                "hu": "Heves esőben maradjon az autóban, és nézze meg a kaput.",
+                "ro": "Rămâneți în mașină în caz de ploaie torențială și admirați poarta.",
+                "en": "Stay in the car during heavy rain and view the historic gate from inside."
+              }
+            },
+            {
+              "name": "Radegast Station",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Tunnel, um die Gedenkstätte im Trockenen zu sehen.",
+                "hu": "Parkoljon közel az alagúthoz, hogy szárazon láthassa az emlékhelyet.",
+                "ro": "Parcați aproape de tunel pentru a vedea memorialul la uscat.",
+                "en": "Park close to the tunnel to see the memorial while staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Verkehr in Łódź kann bei Regen aufgrund von Pfützen und Staus zunehmen.",
+              "Nutzen Sie die großen Parkhäuser der Manufaktura als strategische Basis.",
+              "Achten Sie auf beschlagene Scheiben; die Klimaanlage hilft bei der Entfeuchtung.",
+              "Einige Straßen im Zentrum können bei Starkregen kurzzeitig überflutet sein.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche in der Nähe der Piotrkowska ein."
+            ],
+            "hu": [
+              "Łódźban az eső miatt a forgalom a tócsák és dugók miatt megnövekedhet.",
+              "Használja a Manufaktura nagy parkolóházait stratégiai bázisként.",
+              "Ügyeljen a párásodó szélvédőre; a légkondicionáló segít a páramentesítésben.",
+              "A belváros egyes utcái heves esőzéskor rövid időre víz alá kerülhetnek.",
+              "Tervezzen több időt a parkolóhely keresésére a Piotrkowska közelében."
+            ],
+            "ro": [
+              "Traficul din Łódź poate crește pe ploaie din cauza bălților și ambuteiajelor.",
+              "Folosiți parcările mari de la Manufaktura ca bază strategică.",
+              "Atenție la geamurile aburite; aerul condiționat ajută la dezaburire.",
+              "Unele străzi din centru pot fi inundate temporar în caz de ploaie torențială.",
+              "Planificați mai mult timp pentru găsirea unui loc de parcare lângă Piotrkowska."
+            ],
+            "en": [
+              "Traffic in Lodz can increase during rain due to puddles and congestion.",
+              "Use Manufaktura's large parking garages as a strategic base for the day.",
+              "Watch out for fogged windows; use air conditioning to dehumidify the interior.",
+              "Some central streets may experience minor flooding during heavy downpours.",
+              "Allow extra time for finding parking near the popular Piotrkowska area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Plac Wolności beginnt im warmen Auto; achten Sie auf glatte Straßenabschnitte. Mittags führt die Fahrt zur Piotrkowska, wo beleuchtete Schaufenster die Kälte vergessen lassen. Nachmittags bietet die Manufaktura mit ihrer Eisbahn und dem Parkhaus einen komfortablen Stopp. Die Tour endet am jüdischen Friedhof und dem Radegast-Bahnhof, die im Schnee eine feierliche Ruhe ausstrahlen.",
+            "hu": "Fagyos reggel a Plac Wolności-n a meleg autóban; ügyeljen a jeges útszakaszokra. Délben az út a Piotrkowska felé vezet, ahol a kivilágított kirakatok elfeledtetik a hideget. Délután a Manufaktura jégpályája és parkolóháza kényelmes megállót kínál. A túra a zsidó temetőnél és a Radegast állomásnál zárul, melyek a hóban ünnepélyes nyugalmat árasztanak.",
+            "ro": "O dimineață geroasă în Plac Wolności începe în mașina caldă; atenție la porțiunile de drum alunecoase. La prânz, drumul duce spre Piotrkowska, unde vitrinele luminate vă fac să uitați de frig. După-amiaza, Manufaktura oferă o oprire confortabilă cu patinoarul și parcarea sa. Turul se încheie la cimitirul evreiesc și Gara Radegast, care emană o liniște solemnă în zăpadă.",
+            "en": "A frosty morning at Plac Wolności starts in a warm car; watch out for icy road sections. At noon, the drive leads to Piotrkowska, where illuminated shop windows make you forget the cold. In the afternoon, Manufaktura offers a comfortable stop with its ice rink and parking garage. The tour ends at the Jewish Cemetery and Radegast Station, which radiate a solemn peace in the snow."
+          },
+          "stops": [
+            {
+              "name": "Liberty Square",
+              "tip_5lang": {
+                "de": "Der Platz kann morgens sehr glatt sein; parken Sie vorsichtig.",
+                "hu": "A tér reggelente nagyon csúszós lehet; parkoljon óvatosan.",
+                "ro": "Piața poate fi foarte alunecoasă dimineața; parcați cu atenție.",
+                "en": "The square can be very slippery in the morning; park carefully."
+              }
+            },
+            {
+              "name": "Piotrkowska Street (northern section)",
+              "tip_5lang": {
+                "de": "Parkhäuser sind im Winter oft wärmer als Außenparkplätze.",
+                "hu": "A parkolóházak télen gyakran melegebbek, mint a kültéri parkolók.",
+                "ro": "Parcările supraetajate sunt adesea mai calde iarna decât parcările exterioare.",
+                "en": "Parking garages are often warmer than outdoor spots in winter."
+              }
+            },
+            {
+              "name": "Alexander Nevsky Cathedral",
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche ist im Winter einfacher, da weniger Fußgänger unterwegs sind.",
+                "hu": "Télen könnyebb parkolót találni, mert kevesebb a gyalogos.",
+                "ro": "Găsirea unui loc de parcare este mai ușoară iarna, fiind mai puțini pietoni.",
+                "en": "Finding parking is slightly easier in winter as there are fewer pedestrians."
+              }
+            },
+            {
+              "name": "Manufaktura",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkdeck, um direkt in die beheizte Mall zu gelangen.",
+                "hu": "Használja a parkolófedélzetet, hogy közvetlenül a fűtött plázába jusson.",
+                "ro": "Folosiți etajul parcării pentru a intra direct în mall-ul încălzit.",
+                "en": "Use the parking deck to get directly into the heated mall complex."
+              }
+            },
+            {
+              "name": "Izrael Poznański's Palace",
+              "tip_5lang": {
+                "de": "Kurze Wege sind wichtig; parken Sie so nah wie möglich am Museum.",
+                "hu": "A rövid utak fontosak; parkoljon a lehető legközelebb a múzeumhoz.",
+                "ro": "Căile scurte sunt importante; parcați cât mai aproape de muzeu.",
+                "en": "Short walking distances are key; park as close to the museum as possible."
+              }
+            },
+            {
+              "name": "Art Museum ms2",
+              "tip_5lang": {
+                "de": "Die Ausstellungen sind ein warmer Kontrast zur Außenwelt.",
+                "hu": "A kiállítások meleg kontrasztot alkotnak a külvilággal.",
+                "ro": "Expozițiile sunt un contrast cald față de lumea exterioară.",
+                "en": "The exhibitions provide a warm and bright contrast to the outside world."
+              }
+            },
+            {
+              "name": "Jewish Cemetery",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraßen können bei Schneefall schlechter geräumt sein.",
+                "hu": "A bekötőutak hóeséskor nehezebben lehetnek letakarítva.",
+                "ro": "Drumurile de acces pot fi mai puțin curățate în caz de ninsoare.",
+                "en": "Access roads may be less cleared during heavy snowfall."
+              }
+            },
+            {
+              "name": "Radegast Station",
+              "tip_5lang": {
+                "de": "Die Parkplätze am Denkmal werden meist zügig geräumt.",
+                "hu": "Az emlékmű melletti parkolókat általában gyorsan letakarítják.",
+                "ro": "Parcările de lângă monument sunt de obicei curățate rapid.",
+                "en": "Parking spots near the monument are usually cleared of snow quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie vor der Abfahrt den Frostschutz und die Batterieleistung.",
+              "Einige Nebenstraßen im Industriegebiet werden im Winter seltener geräumt.",
+              "Planen Sie Zeit für das Enteisen der Scheiben ein; Sonnenuntergang ist um 16:00 Uhr.",
+              "Verwenden Sie die beheizten Parkhäuser, um das Auto eisfrei zu halten.",
+              "Achten Sie auf Fußgänger, die aufgrund von Schnee auf die Fahrbahn ausweichen."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fagyállót és az akkumulátor teljesítményét.",
+              "Az ipari negyed egyes mellékutcáit télen ritkábban takarítják.",
+              "Tervezzen időt a szélvédők jégtelenítésére; a napnyugta 16:00-kor van.",
+              "Használja a fűtött parkolóházakat, hogy az autó jégmentes maradjon.",
+              "Ügyeljen a gyalogosokra, akik a hó miatt az úttestre kényszerülhetnek."
+            ],
+            "ro": [
+              "Verificați antigelul și performanța bateriei înainte de plecare.",
+              "Unele străzi secundare din zona industrială sunt curățate mai rar iarna.",
+              "Planificați timp pentru degivrarea geamurilor; apusul este la ora 16:00.",
+              "Folosiți parcările încălzite pentru a păstra mașina fără gheață.",
+              "Atenție la pietonii care pot ieși pe carosabil din cauza zăpezii."
+            ],
+            "en": [
+              "Check your antifreeze and battery health before starting the day trip.",
+              "Some side streets in industrial areas may not be cleared of snow promptly.",
+              "Allow time for defrosting windows; remember sunset is around 4 PM.",
+              "Use heated multi-story parking garages to keep the car ice-free.",
+              "Be careful of pedestrians who may walk on the road due to snowy sidewalks."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1638,6 +2298,214 @@
           "Check schedules in advance, especially for later trips.",
           "The 'jakdojade' app is very useful for planning public transport routes in Poland."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Morgen am Plac Wolności beginnt mit kurzen Wegen zur Straßenbahn. Mittags bringt Sie der Nahverkehr zur Piotrkowska, wo die überdachten Haltestellen Schutz bieten. Am Nachmittag führt die Fahrt zur Manufaktura, einem idealen Ort, um dem Regen zu entkommen. Der Tag klingt bei einem Abendessen an der Piotrkowska aus, wobei die Bahnen Sie fast trocken bis vor die Tür bringen.",
+            "hu": "A vizes reggel a Plac Wolności-n kezdődik, rövid sétával a villamosig. Délben a tömegközlekedés a Piotrkowska felé repít, ahol a fedett megállók védenek az esőtől. Délután az út a Manufaktura felé vezet, mely ideális hely az eső elől való menekülésre. A nap egy vacsorával zárul a Piotrkowska-n, a járatok pedig szinte szárazon viszik az ajtóig.",
+            "ro": "Dimineața umedă în Plac Wolności începe cu drumuri scurte spre tramvai. La prânz, transportul public vă duce spre Piotrkowska, unde stațiile acoperite oferă adăpost. După-amiaza, drumul duce spre Manufaktura, un loc ideal pentru a scăpa de ploaie. Ziua se încheie cu o cină pe Piotrkowska, mijloacele de transport lăsându-vă aproape uscat la destinație.",
+            "en": "A wet morning at Plac Wolności begins with short walks to the tram. At noon, public transit whisks you to Piotrkowska, where covered stops provide shelter. In the afternoon, the route leads to Manufaktura, an ideal place to escape the rain. The day ends with dinner on Piotrkowska, with trams dropping you off nearly dry at your destination."
+          },
+          "stops": [
+            {
+              "name": "Liberty Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehäuschen am Platz, um trocken auf die Bahn zu warten.",
+                "hu": "Használja a téren lévő várókat, hogy szárazon várja a villamost.",
+                "ro": "Folosiți adăposturile din piață pentru a aștepta tramvaiul la uscat.",
+                "en": "Use the shelters on the square to wait for your tram while staying dry."
+              }
+            },
+            {
+              "name": "Piotrkowska Street (northern section)",
+              "tip_5lang": {
+                "de": "Die Straßenbahnen halten direkt in der Nähe der Passagen.",
+                "hu": "A villamosok közvetlenül a passzázsok közelében állnak meg.",
+                "ro": "Tramvaiele opresc direct lângă pasaje.",
+                "en": "The trams stop very close to the covered passages of the street."
+              }
+            },
+            {
+              "name": "Manufaktura",
+              "tip_5lang": {
+                "de": "Die Haltestelle Zachodnia bietet einen kurzen Weg zum überdachten Komplex.",
+                "hu": "A Zachodnia megálló rövid utat biztosít a fedett komplexumhoz.",
+                "ro": "Stația Zachodnia oferă un drum scurt către complexul acoperit.",
+                "en": "The Zachodnia stop offers a short walk to the covered complex entrance."
+              }
+            },
+            {
+              "name": "Izrael Poznański's Palace",
+              "tip_5lang": {
+                "de": "Vom Bus/Bahn ist es nur ein kurzer Sprint bis zum prächtigen Eingang.",
+                "hu": "A busztól/villamostól csak egy rövid sprint a pompás bejárat.",
+                "ro": "De la autobuz/tramvai este doar un sprint scurt până la intrare.",
+                "en": "It's just a short sprint from the bus/tram stop to the palace entrance."
+              }
+            },
+            {
+              "name": "Herbst Palace",
+              "tip_5lang": {
+                "de": "Planen Sie den Fußweg von der Haltestelle mit einem Schirm ein.",
+                "hu": "Tervezze meg a megállótól való gyalogutat esernyővel.",
+                "ro": "Planificați mersul pe jos de la stație cu o umbrelă.",
+                "en": "Plan the short walk from the stop with a sturdy umbrella ready."
+              }
+            },
+            {
+              "name": "Grand Theatre (Teatr Wielki)",
+              "tip_5lang": {
+                "de": "Die Haltestelle Plac Dąbrowskiego liegt direkt vor dem Theater.",
+                "hu": "A Plac Dąbrowskiego megálló közvetlenül a színház előtt található.",
+                "ro": "Stația Plac Dăbrowskiego este chiar în fața teatrului.",
+                "en": "The Plac Dąbrowskiego stop is located right in front of the theatre."
+              }
+            },
+            {
+              "name": "Dinner on Piotrkowska Street",
+              "tip_5lang": {
+                "de": "Viele Restaurants liegen in unmittelbarer Nähe der Bahnstationen.",
+                "hu": "Sok étterem a villamosmegállók közvetlen közelében található.",
+                "ro": "Multe restaurante sunt în imediata apropiere a stațiilor de tramvai.",
+                "en": "Many restaurants are located in the immediate vicinity of the tram stops."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Jakdojade', um die Wartezeiten im Regen zu minimieren.",
+              "Die Straßenbahnen in Łódź sind ein trockenes und verlässliches Transportmittel.",
+              "Einige Haltestellen im Zentrum sind modernisiert und gut überdacht.",
+              "Kaufen Sie Tickets bequem über das Smartphone (SkyCash oder mPay).",
+              "Planen Sie bei starkem Regen mögliche Verzögerungen im Schienenverkehr ein."
+            ],
+            "hu": [
+              "Használja a 'Jakdojade' alkalmazást, hogy minimalizálja az esőben való várakozást.",
+              "A łódźi villamosok száraz és megbízható közlekedési eszközök.",
+              "A belvárosi megállók egy része modernizált és jól fedett.",
+              "Vásároljon jegyet kényelmesen okostelefonon (SkyCash vagy mPay).",
+              "Heves esőzéskor számoljon a kötöttpályás közlekedés esetleges késéseivel."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Jakdojade' pentru a minimiza așteptarea în ploaie.",
+              "Tramvaiele din Łódź sunt un mijloc de transport uscat și de încredere.",
+              "Unele stații din centru sunt modernizate și bine acoperite.",
+              "Cumpărați bilete convenabil prin smartphone (SkyCash sau mPay).",
+              "În caz de ploaie torențială, planificați posibile întârzieri ale tramvaielor."
+            ],
+            "en": [
+              "Use the 'Jakdojade' app to minimize waiting times at rainy stops.",
+              "Trams in Lodz are a dry and reliable way to get around the city.",
+              "Many central stops are modernized and offer good shelter from rain.",
+              "Buy tickets conveniently via your smartphone (SkyCash or mPay apps).",
+              "Plan for potential transit delays during particularly heavy rainstorms."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein furchtbar kalter Morgen am Plac Wolności macht die beheizten Straßenbahnen zum Segen. Mittags bringt Sie der Transit zur Piotrkowska, wo Sie direkt vor den warmen Cafés aussteigen können. Am Nachmittag lockt die Manufaktura mit ihrer Eisbahn; die Bahnen fahren bis spät in die Nacht. Der Tag endet gemütlich bei einem Abendessen, bevor Sie die beleuchtete Stadt durch das Fenster der Bahn genießen.",
+            "hu": "Egy borzasztóan hideg reggel a Plac Wolności-n; a fűtött villamosok valóságos áldást jelentenek. Délben a közlekedés a Piotrkowska-hoz viszi, ahol közvetlenül a meleg kávézók előtt szállhat le. Délután a Manufaktura jégpályája hívogat; a járatok késő éjszakáig közlekednek. A nap egy hangulatos vacsorával zárul, mielőtt a villamos ablakából csodálná a kivilágított várost.",
+            "ro": "O dimineață teribil de geroasă în Plac Wolności face tramvaiele încălzite o binecuvântare. La prânz, transportul vă duce la Piotrkowska, unde puteți coborî direct în fața cafenelelor calde. După-amiaza, Manufaktura vă atrage cu patinoarul său; cursele circulă până noaptea târziu. Ziua se încheie cu o cină plăcută, înainte de a admira orașul iluminat de pe geamul tramvaiului.",
+            "en": "A terribly cold morning at Plac Wolności makes the heated trams a true blessing. At noon, transit takes you to Piotrkowska, where you can hop off right in front of warm cafes. In the afternoon, Manufaktura's ice rink beckons; transit runs late into the night. The day ends with a cozy dinner before enjoying the illuminated city through the tram window."
+          },
+          "stops": [
+            {
+              "name": "Liberty Square",
+              "tip_5lang": {
+                "de": "Warten Sie im Windschatten der Gebäude, bis die Bahn einfährt.",
+                "hu": "Várjon az épületek szélárnyékában, amíg a villamos beérkezik.",
+                "ro": "Așteptați la adăpostul clădirilor până când sosește tramvaiul.",
+                "en": "Wait in the lee of the buildings until the tram arrives at the stop."
+              }
+            },
+            {
+              "name": "Piotrkowska Street (northern section)",
+              "tip_5lang": {
+                "de": "Die Bahnen sind im Winter gut beheizt und bieten eine Pause von der Kälte.",
+                "hu": "A villamosok télen jól fűtöttek, szünetet nyújtva a hideg elől.",
+                "ro": "Tramvaiele sunt bine încălzite iarna, oferind o pauză de la frig.",
+                "en": "Trams are well-heated in winter, providing a welcome break from the cold."
+              }
+            },
+            {
+              "name": "Manufaktura",
+              "tip_5lang": {
+                "de": "Die Haltestellen an der Zachodnia sind ein wichtiger Verkehrsknotenpunkt.",
+                "hu": "A Zachodnia megállói fontos közlekedési csomópontot jelentenek.",
+                "ro": "Stațiile de pe Zachodnia sunt un nod important de transport.",
+                "en": "The stops at Zachodnia street are a major transit hub for the city."
+              }
+            },
+            {
+              "name": "Izrael Poznański's Palace",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Intervalle der Linien, um Standzeiten zu vermeiden.",
+                "hu": "Használja a járatok rövid követési idejét a várakozás elkerülésére.",
+                "ro": "Folosiți intervalele scurte ale liniilor pentru a evita așteptarea.",
+                "en": "Take advantage of the short service intervals to avoid long waits in the cold."
+              }
+            },
+            {
+              "name": "Herbst Palace",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Fahrpläne der Busse, da diese seltener fahren als Bahnen.",
+                "hu": "Ügyeljen a buszmenetrendre, mert ritkábban járnak, mint a villamosok.",
+                "ro": "Atenție la orarul autobuzelor, circulă mai rar decât tramvaiele.",
+                "en": "Check the bus schedules carefully, as they run less frequently than trams."
+              }
+            },
+            {
+              "name": "Grand Theatre (Teatr Wielki)",
+              "tip_5lang": {
+                "de": "Der Platz vor dem Theater ist im Winter oft schneefrei geräumt.",
+                "hu": "A színház előtti teret télen gyakran hómentesítik.",
+                "ro": "Piața din fața teatrului este adesea curățată de zăpadă iarna.",
+                "en": "The square in front of the theatre is usually kept clear of snow."
+              }
+            },
+            {
+              "name": "Dinner on Piotrkowska Street",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Nachtlinien, falls das Abendessen länger dauert.",
+                "hu": "Használja az éjszakai járatokat, ha a vacsora hosszabbra nyúlna.",
+                "ro": "Folosiți liniile de noapte dacă cina durează mai mult.",
+                "en": "Use the night transit lines if your dinner lasts longer than planned."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Fahrzeuge des MPK Łódź sind in der Regel gut beheizt und komfortabel.",
+              "Warten Sie bei extremem Frost in nahegelegenen Geschäften oder Cafés.",
+              "Die Fahrpläne können sich bei starkem Schneefall kurzfristig ändern.",
+              "Nutzen Sie die Echtzeit-Anzeige in der App für genaue Abfahrtszeiten.",
+              "Einige ältere Straßenbahntypen können am Einstieg rutschig sein."
+            ],
+            "hu": [
+              "Az MPK Łódź járművei általában jól fűtöttek és kényelmesek.",
+              "Extrém fagy esetén várjon a közeli üzletekben vagy kávézókban.",
+              "A menetrendek heves hóeséskor rövid távon módosulhatnak.",
+              "Használja az alkalmazás valós idejű kijelzőjét a pontos induláshoz.",
+              "Néhány régebbi villamostípus lépcsője csúszós lehet a hótól."
+            ],
+            "ro": [
+              "Vehiculele MPK Łódź sunt de obicei bine încălzite și confortabile.",
+              "În caz de ger extrem, așteptați în magazinele sau cafenelele din apropiere.",
+              "Orarele se pot modifica pe termen scurt în caz de ninsoare abundentă.",
+              "Folosiți afișajul în timp real din aplicație pentru orele exacte de plecare.",
+              "Unele tipuri de tramvaie mai vechi pot fi alunecoase la urcare."
+            ],
+            "en": [
+              "MPK Lodz vehicles are generally well-heated and comfortable in winter.",
+              "Wait in nearby shops or cafes during extreme frost until your tram arrives.",
+              "Schedules may change on short notice during heavy snowfall.",
+              "Use the real-time tracking feature in transit apps for accurate departure times.",
+              "Be careful when boarding older tram models, as steps can be slippery."
+            ]
+          }
+        }
       }
     }
   }

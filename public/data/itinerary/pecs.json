@@ -395,6 +395,188 @@
           "Carry a bottle of water, especially during the summer.",
           "Many museums are closed on Mondays, so check opening hours in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Széchenyi-Platz und an der Basilika hilft ein robuster Regenschirm auf den kurzen Wegen. Mittags bieten der Bischofspalast und das farbenfrohe Zsolnay-Museum einen hervorragenden trockenen Unterschlupf. Nachmittags atmen wir die frische, kühle Luft auf den befestigten Wegen des Tettye-Parks ein. Abends trocknen wir uns bei einer heißen Suppe und einem guten Essen im Corso Restaurant auf.",
+            "hu": "Reggel a Széchenyi téren és a Bazilikánál kezdünk, az esernyő jó barátunk lesz a rövid sétákon. Délben a Püspöki Palota és a Zsolnay Múzeum gazdag beltéri kiállításain bújunk el a záporok elől. Délután a Tettye Park burkolt sétányain szívjuk magunkba az eső utáni friss mecseki levegőt. Este egy kellemes meleg vacsora a Corso Étteremben tökéletes zárása a vizes, de élménydús napnak.",
+            "ro": "Dimineața începem la Piața Széchenyi și Bazilică, umbrela fiind utilă pe distanțele scurte. La prânz, Palatul Episcopal și Muzeul Zsolnay oferă un excelent refugiu uscat. După-amiaza ne bucurăm de aerul proaspăt de după ploaie pe aleile pavate din Parcul Tettye. Seara, o masă caldă la restaurantul Corso reprezintă finalul perfect pentru a ne usca și relaxa.",
+            "en": "We start the morning at Széchenyi Square and the Basilica, keeping an umbrella handy for the short walks. At noon, the Bishop's Palace and Zsolnay Museum offer excellent indoor shelter from the showers. In the afternoon, we enjoy the fresh post-rain air on the paved pathways of Tettye Park. We end the wet but wonderful day by warming up with a hearty meal at the Corso Restaurant."
+          },
+          "stops": [
+            {
+              "name": "Széchenyi tér",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschiges Kopfsteinpflaster.",
+                "hu": "A vizes macskaköveken óvatosan lépkedjünk.",
+                "ro": "Atenție la pietrele cubice alunecoase.",
+                "en": "Watch your step on the slippery cobblestones."
+              }
+            },
+            {
+              "name": "Pécsi Bazilika",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um einem Regenschauer zu entgehen.",
+                "hu": "Kiváló menedék egy hirtelen zápor esetén.",
+                "ro": "Un loc perfect pentru a scăpa de o aversă.",
+                "en": "A perfect refuge to escape a sudden downpour."
+              }
+            },
+            {
+              "name": "Püspöki Palota",
+              "tip_5lang": {
+                "de": "Genießen Sie die trockenen Innenräume.",
+                "hu": "Élvezzük a száraz, kényelmes beltéri termeket.",
+                "ro": "Bucurați-vă de interioarele uscate și confortabile.",
+                "en": "Enjoy the dry and comfortable indoor spaces."
+              }
+            },
+            {
+              "name": "Zsolnay Múzeum",
+              "tip_5lang": {
+                "de": "Die bunte Keramik hellt jeden grauen Tag auf.",
+                "hu": "A színes kerámiák minden szürke napot felderítenek.",
+                "ro": "Ceramica colorată înveselește orice zi mohorâtă.",
+                "en": "The colorful ceramics brighten up any gray day."
+              }
+            },
+            {
+              "name": "Tettye Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Wegen.",
+                "hu": "Maradjunk a burkolt utakon a sár elkerülése végett.",
+                "ro": "Rămâneți pe aleile pavate pentru a evita noroiul.",
+                "en": "Stick to the paved paths to avoid the mud."
+              }
+            },
+            {
+              "name": "Pécsi Corso Étterem",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einer heißen Gulaschsuppe auf.",
+                "hu": "Melegedjünk át egy forró leves kíséretében.",
+                "ro": "Încălziți-vă cu o supă fierbinte tradițională.",
+                "en": "Warm up with a bowl of hot traditional soup."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste und rutschfeste Schuhe für das Pflaster im Zentrum.",
+              "Ein starker Regenschirm schützt vor den Winden am Tettye-Hügel.",
+              "Nutzen Sie die Garderoben in den Museen, um nasse Jacken abzulegen.",
+              "Die Entfernungen sind kurz, sodass Sie nicht lange im Regen bleiben müssen."
+            ],
+            "hu": [
+              "Viseljünk vízálló, csúszásmentes cipőt a belvárosi macskakövek miatt.",
+              "A Tettyénél erősebb szél is lehet, egy stabil esernyő jól jön.",
+              "Használjuk a múzeumok ruhatárát a vizes kabátok szárítására.",
+              "A távolságok rövidek, így sosem kell sokat az esőben tartózkodni."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă și antiderapantă pentru centrul istoric.",
+              "O umbrelă rezistentă vă va proteja de vântul de pe dealul Tettye.",
+              "Folosiți garderobele muzeelor pentru a vă usca hainele exterioare.",
+              "Distanțele sunt scurte, deci nu veți sta mult timp în ploaie."
+            ],
+            "en": [
+              "Wear waterproof, non-slip shoes for the cobblestones in the center.",
+              "A sturdy umbrella will protect you from the wind up at Tettye.",
+              "Use the museum cloakrooms to leave your wet jackets behind.",
+              "Distances are short, so you will not have to endure the rain for long."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am winterlichen Morgen erkunden wir den Széchenyi-Platz und wärmen uns in der beeindruckenden Basilika auf. Zur Mittagszeit bieten der Bischofspalast und das Zsolnay-Museum gemütliche, beheizte Räume voller Geschichte. Am Nachmittag steigen wir zum Tettye-Park hinauf, wo die frühe Dämmerung einen schönen Blick auf die Lichter der Stadt freigibt. Den kalten Tag beenden wir mit einem herzhaften, warmen Abendessen im Corso Restaurant.",
+            "hu": "A téli reggelen a Széchenyi teret járjuk be, majd a lenyűgöző Bazilikában melegszünk át. Délidőben a Püspöki Palota és a Zsolnay Múzeum fűtött, történelemmel teli termei nyújtanak kényelmet. Délután felsétálunk a Tettye Parkba, ahol a korai sötétedés miatt már láthatjuk a város fényeit. A hideg napot egy tartalmas, forró vacsorával zárjuk a Corso Étteremben.",
+            "ro": "În dimineața de iarnă explorăm Piața Széchenyi și ne încălzim în impresionanta Bazilică. La prânz, Palatul Episcopal și Muzeul Zsolnay oferă spații încălzite și pline de istorie. După-amiaza urcăm spre Parcul Tettye, unde apusul timpuriu dezvăluie luminile orașului. Încheiem ziua rece cu o cină consistentă și caldă la restaurantul Corso.",
+            "en": "On this winter morning, we explore Széchenyi Square and warm up inside the impressive Basilica. At midday, the Bishop's Palace and Zsolnay Museum provide cozy, heated spaces full of history. In the afternoon, we walk up to Tettye Park, where the early sunset reveals the beautiful city lights. We finish the chilly day with a hearty, warm dinner at the Corso Restaurant."
+          },
+          "stops": [
+            {
+              "name": "Széchenyi tér",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Ruhe auf dem Platz.",
+                "hu": "Élvezzük a tér téli, békés hangulatát.",
+                "ro": "Bucurați-vă de liniștea de iarnă a pieței.",
+                "en": "Enjoy the peaceful winter atmosphere of the square."
+              }
+            },
+            {
+              "name": "Pécsi Bazilika",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen.",
+                "hu": "A vastag falak jól kint tartják a hideget.",
+                "ro": "Zidurile groase țin frigul la distanță.",
+                "en": "The thick walls keep the cold out nicely."
+              }
+            },
+            {
+              "name": "Püspöki Palota",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei der Innenführung auf.",
+                "hu": "Melegedjünk fel a beltéri tárlatvezetés alatt.",
+                "ro": "Încălziți-vă în timpul turului ghidat din interior.",
+                "en": "Warm up during the indoor guided tour."
+              }
+            },
+            {
+              "name": "Zsolnay Múzeum",
+              "tip_5lang": {
+                "de": "Ein farbenfroher Kontrast zum Wintergrau.",
+                "hu": "Színes kontraszt a téli szürkeségben.",
+                "ro": "Un contrast colorat față de peisajul gri de iarnă.",
+                "en": "A colorful contrast to the gray winter landscape."
+              }
+            },
+            {
+              "name": "Tettye Park",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, hier weht ein kalter Wind.",
+                "hu": "Öltözzünk melegen, a hegyoldalban hideg szél fújhat.",
+                "ro": "Îmbrăcați-vă gros, aici poate bate un vânt rece.",
+                "en": "Dress warmly, as the hillside wind can be cold."
+              }
+            },
+            {
+              "name": "Pécsi Corso Étterem",
+              "tip_5lang": {
+                "de": "Heiße Getränke und schwere Speisen tun jetzt gut.",
+                "hu": "A forró italok és a tartalmas ételek most nagyon jól esnek.",
+                "ro": "Băuturile fierbinți și mâncarea consistentă pică excelent.",
+                "en": "Hot drinks and heavy meals are perfect right now."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Kleidungsschichten (Zwiebelprinzip) für die Spaziergänge.",
+              "Beachten Sie, dass es bereits gegen 16:30 Uhr dunkel wird.",
+              "In der Fußgängerzone gibt es oft Stände mit heißen Getränken.",
+              "Die Museen sind gut geheizt, planen Sie dort genügend Zeit ein."
+            ],
+            "hu": [
+              "Öltözzünk rétegesen, mert a kinti hideg és a fűtött múzeumok közt nagy a különbség.",
+              "Vegyük figyelembe, hogy már 16:30 körül sötétedik a téli hónapokban.",
+              "A sétálóutcán gyakran találunk forró italokat árusító helyeket.",
+              "A múzeumok kellemesen fűtöttek, szánjunk rájuk elegendő időt."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru diferențele de temperatură dintre exterior și muzee.",
+              "Rețineți că soarele apune devreme, în jur de ora 16:30.",
+              "Pe zona pietonală găsiți adesea băuturi calde pentru a vă încălzi.",
+              "Muzeele sunt bine încălzite, planificați suficient timp pentru ele."
+            ],
+            "en": [
+              "Dress in layers to adjust between the cold outdoors and heated museums.",
+              "Keep in mind that it gets dark early, around 16:30 in the winter.",
+              "You can often find places selling hot drinks along the pedestrian street.",
+              "The museums are comfortably heated, so allocate plenty of time for them."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -746,6 +928,188 @@
           "The climb to the Mecsek Hills is challenging; e-bikes are a good option.",
           "Always lock your bike securely."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig über den nassen Széchenyi-Platz zur Basilika. Mittags stellen wir unsere Fahrräder ab, um den Bischofspalast und das Zsolnay-Museum trockenen Fußes zu erkunden. Am Nachmittag erfordert der feuchte Anstieg zum Tettye-Park etwas Ausdauer, aber die Waldluft ist wunderbar frisch. Abends lassen wir den regnerischen Radtag bei einem gemütlichen Essen im Corso Restaurant ausklingen.",
+            "hu": "Reggel óvatosan tekerünk át a vizes Széchenyi téren a Bazilikáig. Délben leparkoljuk a bicikliket, hogy szárazon fedezzük fel a Püspöki Palotát és a Zsolnay Múzeumot. Délután a nedves emelkedő a Tettye Parkba egy kis kitartást igényel, cserébe harapni lehet a friss levegőt. Este egy kellemes vacsorával zárjuk a kihívásokkal teli, esős bringás napot a Corso Étteremben.",
+            "ro": "Dimineața pedalăm cu grijă prin Piața Széchenyi umedă spre Bazilică. La prânz, parcăm bicicletele pentru a explora uscat Palatul Episcopal și Muzeul Zsolnay. După-amiaza, urcarea umedă spre Parcul Tettye necesită efort, dar aerul pădurii este extrem de proaspăt. Seara, încheiem ziua ploioasă de ciclism cu o cină relaxantă la restaurantul Corso.",
+            "en": "In the morning, we cycle carefully across the wet Széchenyi Square to the Basilica. At midday, we park our bikes to explore the Bishop's Palace and Zsolnay Museum while staying dry. In the afternoon, the wet ascent to Tettye Park requires some effort, but the fresh forest air is rewarding. We end our rainy cycling day with a cozy dinner at the Corso Restaurant."
+          },
+          "stops": [
+            {
+              "name": "Széchenyi tér",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf dem nassen Pflaster.",
+                "hu": "Óvatosan fékezzünk a vizes macskaköveken.",
+                "ro": "Frânați cu prudență pe pietrele cubice umede.",
+                "en": "Brake carefully on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Pécsi Bazilika",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad und trocknen Sie sich im Inneren.",
+                "hu": "Kössük le a biciklit és száradjunk meg bent.",
+                "ro": "Parcați bicicleta și uscați-vă înăuntru.",
+                "en": "Lock up the bike and dry off inside."
+              }
+            },
+            {
+              "name": "Püspöki Palota",
+              "tip_5lang": {
+                "de": "Nehmen Sie regenfeste Taschen mit hinein.",
+                "hu": "A vízálló táskákat vihetjük magunkkal.",
+                "ro": "Luați gențile impermeabile cu dumneavoastră.",
+                "en": "Take your waterproof bags inside with you."
+              }
+            },
+            {
+              "name": "Zsolnay Múzeum",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um das Schlimmste abzuwarten.",
+                "hu": "Jó hely megvárni, amíg eláll a neheze.",
+                "ro": "Un loc bun pentru a aștepta trecerea ploii.",
+                "en": "A great spot to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "Tettye Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei der nassen Abfahrt ins Zentrum.",
+                "hu": "Vigyázzunk a vizes, csúszós lejtőkön lefelé.",
+                "ro": "Atenție la coborârea umedă spre centru.",
+                "en": "Be careful on the wet downhill ride."
+              }
+            },
+            {
+              "name": "Pécsi Corso Étterem",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich nach der feuchten Fahrt auf.",
+                "hu": "Melegedjünk át a hűvös, esős tekerés után.",
+                "ro": "Încălziți-vă după plimbarea umedă.",
+                "en": "Warm up after the chilly, wet ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Vermeiden Sie abrupte Lenkbewegungen auf den rutschigen Steinen im Zentrum.",
+              "Bremsen Sie bei der Abfahrt vom Tettye-Hügel besonders früh.",
+              "Tragen Sie gut sichtbare Regenbekleidung für mehr Sicherheit."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen, hogy ne verjük fel a vizet magunkra.",
+              "Kerüljük a hirtelen kormánymozdulatokat a csúszós belvárosi köveken.",
+              "A Tettyéről lefelé gurulva kezdjünk el sokkal korábban fékezni.",
+              "Viseljünk élénk színű vízálló ruházatot a jobb láthatóságért."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale pe această vreme.",
+              "Evitați manevrele bruște pe pietrele cubice alunecoase din centru.",
+              "Frânați mult mai devreme la coborârea de pe dealul Tettye.",
+              "Purtați haine de ploaie vizibile pentru o siguranță sporită."
+            ],
+            "en": [
+              "Mudguards on your bike are essential in this weather.",
+              "Avoid sudden steering movements on the slippery cobblestones downtown.",
+              "Brake much earlier than usual when descending from Tettye.",
+              "Wear high-visibility rain gear for your own safety."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An diesem winterlichen Morgen radeln wir frisch verpackt zum Széchenyi-Platz und zur Basilika. Mittags wärmen wir uns bei den Besichtigungen des Bischofspalastes und des Zsolnay-Museums auf, bevor wir wieder in die Kälte hinausgehen. Nachmittags hält uns der sportliche Aufstieg zum Tettye-Park warm, während die Sonne früh untergeht. Abends belohnen wir uns für die winterliche Fahrradtour mit einem festlichen Essen im Corso Restaurant.",
+            "hu": "Ezen a téli reggelen jól felöltözve tekerünk a Széchenyi térre és a Bazilikához. Délben a Püspöki Palota és a Zsolnay Múzeum tárlatain melegszünk fel a hideg tekerés után. Délután a Tettye Parkba vezető sportos emelkedő garantáltan kimelegít, miközben a nap korán nyugovóra tér. Este a Corso Étteremben jutalmazzuk meg magunkat a téli kerékpározás után.",
+            "ro": "În această dimineață de iarnă pedalăm bine îmbrăcați spre Piața Széchenyi și Bazilică. La prânz, ne încălzim vizitând Palatul Episcopal și Muzeul Zsolnay după frigul de afară. După-amiaza, urcarea sportivă spre Parcul Tettye ne ține de cald, în timp ce soarele apune devreme. Seara, ne recompensăm cu o cină festivă la restaurantul Corso.",
+            "en": "On this winter morning, we bundle up and cycle to Széchenyi Square and the Basilica. At midday, we warm up inside the Bishop's Palace and Zsolnay Museum after the chilly ride. In the afternoon, the energetic climb up to Tettye Park keeps us warm as the sun sets early. We reward our winter cycling efforts with a festive dinner at the Corso Restaurant."
+          },
+          "stops": [
+            {
+              "name": "Széchenyi tér",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, es könnte stellenweise glatt sein.",
+                "hu": "Tekerjünk lassan, helyenként jeges lehet a burkolat.",
+                "ro": "Pedalați încet, pe alocuri poate fi alunecos.",
+                "en": "Ride slowly, as patches may be icy."
+              }
+            },
+            {
+              "name": "Pécsi Bazilika",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pause, um die Hände aufzuwärmen.",
+                "hu": "Használjuk ki a pihenőt a kezünk felmelegítésére.",
+                "ro": "Folosiți pauza pentru a vă încălzi mâinile.",
+                "en": "Use the stop to warm up your hands."
+              }
+            },
+            {
+              "name": "Püspöki Palota",
+              "tip_5lang": {
+                "de": "Dicke Handschuhe können im Spind bleiben.",
+                "hu": "A vastag kesztyűket betehetjük a szekrénybe.",
+                "ro": "Mănușile groase pot fi lăsate la dulap.",
+                "en": "Heavy gloves can be left in the lockers."
+              }
+            },
+            {
+              "name": "Zsolnay Múzeum",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für eine ausgiebige Mittagspause.",
+                "hu": "Meleg helyszín egy hosszabb déli megállóhoz.",
+                "ro": "Un loc cald pentru o oprire de prânz mai lungă.",
+                "en": "A warm spot for an extended midday break."
+              }
+            },
+            {
+              "name": "Tettye Park",
+              "tip_5lang": {
+                "de": "Schalten Sie für die Abfahrt im Dunkeln das Licht ein.",
+                "hu": "Lefelé a sötétben már mindenképp kapcsoljunk lámpát.",
+                "ro": "Porniți farurile pentru coborârea pe întuneric.",
+                "en": "Turn on your lights for the dark descent."
+              }
+            },
+            {
+              "name": "Pécsi Corso Étterem",
+              "tip_5lang": {
+                "de": "Heiße Getränke geben schnell wieder Energie.",
+                "hu": "Egy forró tea vagy leves gyorsan visszaadja az energiát.",
+                "ro": "Băuturile calde vă vor reda rapid energia.",
+                "en": "Hot drinks will quickly restore your energy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme, winddichte Handschuhe und eine Gesichtstuch sind beim Radfahren ein Muss.",
+              "Achten Sie auf Glatteis (Blitzeis), besonders morgens in den schattigen Gassen.",
+              "Fahrradbeleuchtung ist Pflicht, da es in den Wintermonaten früh dunkel wird.",
+              "Planen Sie etwas mehr Zeit ein, da man im Winter oft langsamer unterwegs ist."
+            ],
+            "hu": [
+              "Vastag, szélálló kesztyű és sál vagy maszk kötelező a téli menetszél miatt.",
+              "Figyeljünk a lefagyott tócsákra és a fekete jégre, különösen a hegyről lefelé.",
+              "A világítás használata kiemelten fontos a korai sötétedés miatt.",
+              "Számoljunk kicsit lassabb tempóval és hosszabb fékúttal a hideg aszfalton."
+            ],
+            "ro": [
+              "Mănușile groase și rezistente la vânt sunt obligatorii pentru ciclismul de iarnă.",
+              "Atenție la polei și gheață, în special la coborârea de pe deal.",
+              "Luminile pentru bicicletă sunt esențiale din cauza apusului timpuriu.",
+              "Alocați mai mult timp, deoarece viteza de deplasare scade pe vreme rece."
+            ],
+            "en": [
+              "Thick, windproof gloves and a face covering are essential for the wind chill.",
+              "Watch out for black ice and frozen puddles, especially on the descent.",
+              "Bike lights are absolutely mandatory due to the early winter sunset.",
+              "Expect a slower pace and allow for longer braking distances on cold roads."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1077,6 +1441,206 @@
           "Plan your parking strategy before driving from one cluster to the next.",
           "Be aware of pedestrian-only zones in the historic center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir entspannt zu unserem ersten Cluster am Széchenyi-Platz und parken nahe der Basilika. Mittags bietet das Auto bequemen Schutz auf dem Weg zum Zsolnay-Museum, wo wir dem Regen entfliehen. Nachmittags fahren wir bequem zum Tettye-Park und dem Aussichtspunkt, ohne bei dem nassen Wetter weit bergauf laufen zu müssen. Abends parken wir nahe dem Corso Restaurant und genießen dort eine warme Mahlzeit.",
+            "hu": "Reggel kényelmesen leparkolunk a Széchenyi tér és a Bazilika közelében. Délben az autó remek menedéket nyújt, amíg átgurulunk a Zsolnay Múzeumhoz. Délután a szakadó eső ellenére is könnyedén feljutunk a Tettye Parkba és a Kilátóhoz, megspórolva a vizes hegymászást. Este a Corso Étterem közelében állunk meg, és felmelegszünk egy bőséges vacsorával.",
+            "ro": "Dimineața conducem confortabil spre primul cluster la Piața Széchenyi și parcăm lângă Bazilică. La prânz, mașina ne protejează pe drumul scurt spre Muzeul Zsolnay. După-amiaza, ajungem ușor cu mașina la Parcul Tettye și la Punctul de belvedere, evitând mersul pe ploaie. Seara parcăm lângă restaurantul Corso pentru a savura o cină caldă.",
+            "en": "In the morning, we drive comfortably to our first cluster at Széchenyi Square and park near the Basilica. At midday, the car provides shelter as we drive over to the Zsolnay Museum. In the afternoon, driving up to Tettye Park and the Viewpoint saves us from a wet uphill hike. In the evening, we park near the Corso Restaurant and warm up with a rich dinner."
+          },
+          "stops": [
+            {
+              "name": "Széchenyi tér (Cluster A)",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Tiefgaragenparkplatz im Zentrum.",
+                "hu": "Érdemes mélygarázst keresni a belvárosban.",
+                "ro": "Căutați o parcare subterană în centru.",
+                "en": "Look for an underground parking garage downtown."
+              }
+            },
+            {
+              "name": "Pécsi Bazilika (Cluster A)",
+              "tip_5lang": {
+                "de": "Der kurze Weg vom Parkplatz ist auch bei Regen machbar.",
+                "hu": "A rövid séta a parkolótól esőben is kibírható.",
+                "ro": "Traseul scurt de la parcare e ușor pe ploaie.",
+                "en": "The short walk from the car is easy even in rain."
+              }
+            },
+            {
+              "name": "Püspöki Palota (Cluster A)",
+              "tip_5lang": {
+                "de": "Lassen Sie den Regenschirm am Eingang.",
+                "hu": "Hagyjuk az esernyőt a bejáratnál.",
+                "ro": "Lăsați umbrela la intrarea clădirii.",
+                "en": "Leave your umbrella at the entrance."
+              }
+            },
+            {
+              "name": "Zsolnay Múzeum (Cluster B)",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze in den umliegenden Straßen.",
+                "hu": "A környező utcákban találunk parkolóhelyet.",
+                "ro": "Există locuri de parcare pe străzile din jur.",
+                "en": "You can find parking in the surrounding streets."
+              }
+            },
+            {
+              "name": "Tettye Park (Cluster C)",
+              "tip_5lang": {
+                "de": "Mit dem Auto sparen Sie sich den nassen Aufstieg.",
+                "hu": "Az autóval megússzuk a vizes, sáros kapaszkodót.",
+                "ro": "Mașina vă scutește de urcarea prin ploaie.",
+                "en": "The car saves you from a wet, muddy climb."
+              }
+            },
+            {
+              "name": "Tettye Kilátó (Cluster C)",
+              "tip_5lang": {
+                "de": "Die Sicht könnte durch tiefe Wolken eingeschränkt sein.",
+                "hu": "A kilátást az alacsony felhők korlátozhatják.",
+                "ro": "Vizibilitatea poate fi redusă din cauza norilor.",
+                "en": "Visibility might be limited by low clouds."
+              }
+            },
+            {
+              "name": "Pécsi Corso Étterem (Cluster C: Rückfahrt)",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig bei Dunkelheit und Nässe.",
+                "hu": "Sötétben és vizes úton vezessünk óvatosan lefelé.",
+                "ro": "Conduceți cu prudență pe întuneric și carosabil umed.",
+                "en": "Drive carefully on the wet roads in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf nasses Laub auf den steilen Straßen zum Tettye-Hügel.",
+              "Unterirdische Parkhäuser im Zentrum (z.B. Kossuth tér) halten das Auto trocken.",
+              "Die Sicht am Aussichtspunkt kann bei starkem Regen eingeschränkt sein.",
+              "Nehmen Sie einen kleinen Schirm für die kurzen Wege zwischen Auto und Museum mit."
+            ],
+            "hu": [
+              "Vigyázzunk a vizes falevelekre a Tettye felé vezető kanyargós utakon.",
+              "A központi mélygarázsokban (pl. Kossuth tér) az autó és mi is szárazon maradunk.",
+              "Nagy esőzés idején a Tettye Kilátóból a panoráma korlátozott lehet.",
+              "Tartsunk a kocsiban egy kompakt esernyőt a parkoló és a látnivalók közötti szakaszokra."
+            ],
+            "ro": [
+              "Atenție la frunzele umede pe drumurile abrupte spre dealul Tettye.",
+              "Parcările subterane din centru vă mențin mașina și hainele uscate.",
+              "Vizibilitatea de la Punctul de belvedere poate fi redusă pe ploaie abundentă.",
+              "Păstrați o umbrelă compactă în mașină pentru drumurile scurte pe jos."
+            ],
+            "en": [
+              "Watch out for slippery wet leaves on the steep winding roads up to Tettye.",
+              "Using underground parking downtown keeps you and the car completely dry.",
+              "Visibility from the Viewpoint may be restricted during heavy rainfall.",
+              "Keep a compact umbrella in the car for the short walks from your parking spot."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am Wintermorgen parken wir im Zentrum, um die Kälte bei den kurzen Wegen zum Széchenyi-Platz und zur Basilika zu minimieren. Mittags schätzen wir die Autoheizung auf der kurzen Fahrt zum Zsolnay-Museum. Nachmittags fahren wir komfortabel die vereisten Straßen zum Tettye-Park hinauf, um den frühen Sonnenuntergang vom Aussichtspunkt zu genießen. Den kalten Tag beenden wir mit einer warmen Fahrt zurück ins Zentrum zum Corso Restaurant.",
+            "hu": "A téli reggelen a központban parkolunk, hogy minimalizáljuk a hidegben sétálást a Széchenyi tér és a Bazilika közt. Délben nagyra értékeljük az autó fűtését a Zsolnay Múzeum felé tartva. Délután kényelmesen gurulunk fel a hideg hegyi utakon a Tettyéig, ahonnan megcsodáljuk a korai naplementét a Kilátóból. A fagyos napot egy meleg kocsikázás és egy forró vacsora zárja a Corsóban.",
+            "ro": "În dimineața de iarnă parcăm în centru pentru a minimiza frigul pe distanțele scurte spre Piața Széchenyi și Bazilică. La prânz apreciem căldura din mașină spre Muzeul Zsolnay. După-amiaza conducem confortabil spre Parcul Tettye pentru a admira apusul timpuriu de la Punctul de belvedere. Încheiem ziua geroasă cu o cină caldă la restaurantul Corso.",
+            "en": "On this winter morning, we park downtown to minimize walking in the cold around Széchenyi Square and the Basilica. At midday, we appreciate the car's heater on the short drive to the Zsolnay Museum. In the afternoon, we easily navigate the cold roads up to Tettye Park to watch the early sunset from the Viewpoint. We finish the freezing day with a warm drive and dinner at the Corso."
+          },
+          "stops": [
+            {
+              "name": "Széchenyi tér (Cluster A)",
+              "tip_5lang": {
+                "de": "Im Winter sind einige Parkzonen oft günstiger.",
+                "hu": "Télen egyes parkolási zónák szabályai változhatnak.",
+                "ro": "Iarna, unele zone de parcare pot fi mai ieftine.",
+                "en": "Winter parking rules might offer better rates."
+              }
+            },
+            {
+              "name": "Pécsi Bazilika (Cluster A)",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um sich kurz aufzuwärmen.",
+                "hu": "Kiváló hely egy gyors felmelegedésre.",
+                "ro": "Un loc excelent pentru a vă încălzi rapid.",
+                "en": "A great spot for a quick warm-up."
+              }
+            },
+            {
+              "name": "Püspöki Palota (Cluster A)",
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Restwärme.",
+                "hu": "A vastag falak bent tartják a fűtés melegét.",
+                "ro": "Pereții groși păstrează căldura la interior.",
+                "en": "The thick walls retain the heating inside."
+              }
+            },
+            {
+              "name": "Zsolnay Múzeum (Cluster B)",
+              "tip_5lang": {
+                "de": "Das Auto kann in den ruhigen Nebenstraßen warten.",
+                "hu": "Az autót a csendes mellékutcákban hagyhatjuk.",
+                "ro": "Puteți lăsa mașina pe străzile lăturalnice liniștite.",
+                "en": "You can leave the car in the quiet side streets."
+              }
+            },
+            {
+              "name": "Tettye Park (Cluster C)",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Bergstraße eisfrei ist.",
+                "hu": "Nézzük meg, nem jeges-e a hegyre vezető út.",
+                "ro": "Verificați dacă drumul spre deal nu este înghețat.",
+                "en": "Check if the mountain road is free of ice."
+              }
+            },
+            {
+              "name": "Tettye Kilátó (Cluster C)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Lichter der Stadt.",
+                "hu": "Élvezzük a korán kigyulladó városi fényeket.",
+                "ro": "Bucurați-vă de luminile orașului aprinse devreme.",
+                "en": "Enjoy the city lights turning on early."
+              }
+            },
+            {
+              "name": "Pécsi Corso Étterem (Cluster C: Rückfahrt)",
+              "tip_5lang": {
+                "de": "Das Auto bringt Sie schnell ins Warme.",
+                "hu": "Az autóval gyorsan a meleg étteremhez érünk.",
+                "ro": "Mașina vă duce rapid la restaurantul încălzit.",
+                "en": "The car gets you quickly to the warm restaurant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind für die steile Fahrt zum Tettye-Hügel absolut notwendig.",
+              "Kratzen Sie alle Scheiben komplett frei, bevor Sie losfahren.",
+              "An kalten Tagen ist es sehr komfortabel, die Höhenunterschiede der Stadt per Auto zu überwinden.",
+              "Prüfen Sie die Parkuhren, da an einigen Feiertagen das Parken kostenlos sein kann."
+            ],
+            "hu": [
+              "A téligumi elengedhetetlen a Tettyére vezető meredek és esetleg jeges utakon.",
+              "Indulás előtt mindig jégmentesítsük teljesen a szélvédőt és az ablakokat.",
+              "A hideg napokon hatalmas előny, hogy a város komoly szintkülönbségeit autóval küzdjük le.",
+              "Figyeljünk a parkolóautomatákra, téli ünnepek alatt gyakran ingyenes a parkolás."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt esențiale pentru urcarea abruptă spre dealul Tettye.",
+              "Dezghețați complet toate geamurile înainte de a porni la drum.",
+              "Mașina este un avantaj major iarna, evitând efortul urcării pe jos la temperaturi scăzute.",
+              "Verificați parcometrele, de sărbătorile de iarnă parcarea poate fi gratuită."
+            ],
+            "en": [
+              "Winter tires are absolutely necessary for the steep drive up to the Tettye area.",
+              "Make sure to completely defrost and clear all windows before driving.",
+              "On cold days, having a car is a huge advantage to handle the city's steep elevation changes.",
+              "Check the parking meters, as street parking is often free during winter holidays."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1385,6 +1949,206 @@
           "Buses can be crowded during peak hours.",
           "Validate your ticket when boarding to avoid a fine."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir mit dem Bus ins Zentrum zum Széchenyi-Platz und zur Basilika, was uns vor dem Regen schützt. Mittags nutzen wir das dichte Busnetz für den kurzen Transfer zum Zsolnay-Museum. Nachmittags bringt uns der Bus trocken und bequem den Hügel hinauf zum Tettye-Park und dem Aussichtspunkt. Abends fahren wir entspannt zurück ins Zentrum, um im Corso Restaurant dem Regenwetter zu entfliehen.",
+            "hu": "Reggel busszal érkezünk a központba, hogy esőtől védve kezdjük a napot a Széchenyi téren és a Bazilikánál. Délben a sűrű buszhálózatot használjuk a Zsolnay Múzeum megközelítésére. Délután a busz kényelmesen és szárazon visz fel minket a meredek hegyoldalon a Tettye Parkba és a Kilátóhoz. Este visszagurulunk a belvárosba, hogy a Corso Étteremben zárjuk a vizes napot.",
+            "ro": "Dimineața luăm autobuzul spre centru, la Piața Széchenyi și Bazilică, protejându-ne de ploaie. La prânz, folosim rețeaua de autobuze pentru transferul scurt spre Muzeul Zsolnay. După-amiaza, autobuzul ne duce uscat și confortabil pe deal, la Parcul Tettye și Punctul de belvedere. Seara ne întoarcem în centru pentru o masă caldă la restaurantul Corso.",
+            "en": "In the morning, we take the bus to the center, starting at Széchenyi Square and the Basilica shielded from the rain. At midday, we use the local bus network for a quick transfer to the Zsolnay Museum. In the afternoon, the bus takes us comfortably and dry up the steep hill to Tettye Park and the Viewpoint. In the evening, we ride back downtown for a nice dinner at the Corso."
+          },
+          "stops": [
+            {
+              "name": "Széchenyi tér (Distrikt A)",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen hier bieten guten Regenschutz.",
+                "hu": "A helyi buszmegállók jól védenek az esőtől.",
+                "ro": "Stațiile de autobuz de aici oferă adăpost bun.",
+                "en": "The bus stops here provide good rain shelter."
+              }
+            },
+            {
+              "name": "Pécsi Bazilika (Distrikt A)",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Spaziergang von der Haltestelle.",
+                "hu": "Csak egy rövid séta a megállótól.",
+                "ro": "Doar o scurtă plimbare de la stație.",
+                "en": "Just a short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Püspöki Palota (Distrikt A)",
+              "tip_5lang": {
+                "de": "Genießen Sie die trockene Führung.",
+                "hu": "Élvezzük a száraz benti tárlatvezetést.",
+                "ro": "Bucurați-vă de turul ghidat uscat în interior.",
+                "en": "Enjoy the dry indoor guided tour."
+              }
+            },
+            {
+              "name": "Zsolnay Múzeum (Distrikt B)",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten auf dem Handy.",
+                "hu": "Nézzük meg telefonon a busz indulását.",
+                "ro": "Verificați orarul autobuzului pe telefon.",
+                "en": "Check bus departure times on your phone."
+              }
+            },
+            {
+              "name": "Tettye Park (Distrikt C)",
+              "tip_5lang": {
+                "de": "Der Bus nimmt Ihnen den anstrengenden Aufstieg ab.",
+                "hu": "A busz megkímél a fárasztó hegymászástól esőben.",
+                "ro": "Autobuzul vă scutește de urcarea obositoare.",
+                "en": "The bus spares you the exhausting uphill hike."
+              }
+            },
+            {
+              "name": "Tettye Kilátó (Distrikt C)",
+              "tip_5lang": {
+                "de": "Die Scheiben im Bus können beschlagen sein.",
+                "hu": "A busz ablakai ilyenkor párásak lehetnek.",
+                "ro": "Geamurile autobuzului se pot aburi.",
+                "en": "The bus windows might be fogged up."
+              }
+            },
+            {
+              "name": "Pécsi Corso Étterem (Distrikt A, Rückweg)",
+              "tip_5lang": {
+                "de": "Ein warmer Abschluss in der Nähe einer Haltestelle.",
+                "hu": "Meleg lezárás egy megálló közvetlen közelében.",
+                "ro": "Un final cald foarte aproape de o stație.",
+                "en": "A warm finish right next to a transit stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie sich eine Fahrplan-App herunter, um Wartezeiten im Regen zu vermeiden.",
+              "Ein kleiner Faltschirm ist ideal für die kurzen Wege zwischen Haltestelle und Museum.",
+              "Nutzen Sie den Bus der Linie 33, um bequem auf den Tettye-Hügel zu gelangen.",
+              "Kaufen Sie ein Tagesticket im Voraus, um nicht im Regen nach Kleingeld suchen zu müssen."
+            ],
+            "hu": [
+              "Használjunk menetrendi applikációt (pl. menetrend.app), hogy ne ázzunk a megállóban.",
+              "Egy kompakt összecsukható esernyő a legjobb a megállók és a múzeumok közötti utakra.",
+              "A 33-as busszal kényelmesen feljuthatunk a Tettyére ahelyett, hogy esőben kapaszkodnánk.",
+              "Érdemes napijegyet vagy mobiljegyet venni, hogy ne a vizes esőben kelljen aprót keresgélni."
+            ],
+            "ro": [
+              "Folosiți o aplicație de transport pentru a nu aștepta mult timp în ploaie.",
+              "O umbrelă pliantă este perfectă pentru transferurile scurte pe jos.",
+              "Folosiți autobuzul 33 pentru a urca ușor pe dealul Tettye.",
+              "Cumpărați un bilet de o zi electronic pentru a evita manipularea banilor în ploaie."
+            ],
+            "en": [
+              "Use a public transit app to time your arrivals and avoid waiting in the rain.",
+              "A small folding umbrella is perfect for the short walks from the bus stops.",
+              "Take bus line 33 to comfortably ride up the steep hill to Tettye.",
+              "Buy a digital day pass so you don't have to fumble with coins while holding an umbrella."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am winterlichen Morgen bringt uns der beheizte Bus direkt ins Zentrum zum Széchenyi-Platz. Mittags, nachdem wir die Basilika und den Palast gesehen haben, nutzen wir die öffentlichen Verkehrsmittel zum Zsolnay-Museum, um nicht auszukühlen. Nachmittags ist die Busfahrt hinauf zum Tettye-Park eine wahre Wohltat bei den eisigen Temperaturen. Abends, nachdem wir die Stadtlichter bewundert haben, bringt uns der Bus zurück zum Corso Restaurant.",
+            "hu": "A fagyos téli reggelen a fűtött busz rögtön a központba, a Széchenyi térhez visz minket. Délben, a Bazilika és a Palota után, tömegközlekedéssel megyünk a Zsolnay Múzeumhoz, így nem hűlünk ki. Délután a buszozás a Tettye Parkba igazi megváltás a csípős hidegben, megkímélve minket az emelkedőtől. Este, a korai városi fények megcsodálása után, könnyedén visszagurulunk a Corso Étterembe.",
+            "ro": "În dimineața geroasă, autobuzul încălzit ne duce direct în centru, la Piața Széchenyi. La prânz, după Bazilică și Palat, luăm transportul în comun spre Muzeul Zsolnay pentru a nu ne răci. După-amiaza, cursa cu autobuzul spre Parcul Tettye este o binecuvântare la temperaturi scăzute. Seara, după ce am admirat luminile orașului, ne întoarcem cu autobuzul la restaurantul Corso.",
+            "en": "On this freezing winter morning, the heated bus drops us right downtown at Széchenyi Square. At midday, after visiting the Basilica and Palace, we use transit to reach the Zsolnay Museum so we don't get cold. In the afternoon, the bus ride up the hill to Tettye Park is a real blessing in the biting cold. In the evening, after admiring the early city lights, we ride back down to the Corso Restaurant."
+          },
+          "stops": [
+            {
+              "name": "Széchenyi tér (Distrikt A)",
+              "tip_5lang": {
+                "de": "Steigen Sie hier aus und genießen Sie die Wintersonne.",
+                "hu": "Szálljunk le itt, és élvezzük a téli napsütést.",
+                "ro": "Coborâți aici și bucurați-vă de soarele de iarnă.",
+                "en": "Get off here and enjoy the winter sun."
+              }
+            },
+            {
+              "name": "Pécsi Bazilika (Distrikt A)",
+              "tip_5lang": {
+                "de": "Die dicken Wände machen das Innere angenehm.",
+                "hu": "A vastag falaknak köszönhetően bent kellemes az idő.",
+                "ro": "Pereții groși fac interiorul plăcut și izolat.",
+                "en": "The thick walls make the interior quite pleasant."
+              }
+            },
+            {
+              "name": "Püspöki Palota (Distrikt A)",
+              "tip_5lang": {
+                "de": "Der Innenraum ist gut geheizt.",
+                "hu": "A belső terek kellemesen fűtöttek.",
+                "ro": "Interiorul este foarte bine încălzit.",
+                "en": "The interior spaces are well heated."
+              }
+            },
+            {
+              "name": "Zsolnay Múzeum (Distrikt B)",
+              "tip_5lang": {
+                "de": "Der Bus hält ganz in der Nähe des Eingangs.",
+                "hu": "A busz egészen közel áll meg a bejárathoz.",
+                "ro": "Autobuzul oprește foarte aproape de intrare.",
+                "en": "The bus stops very close to the entrance."
+              }
+            },
+            {
+              "name": "Tettye Park (Distrikt C)",
+              "tip_5lang": {
+                "de": "Die Busfahrt wärmt vor dem windigen Aussichtspunkt auf.",
+                "hu": "A buszút felmelegít a szeles kilátó előtt.",
+                "ro": "Cursa cu autobuzul vă încălzește înainte de belvedere.",
+                "en": "The bus ride warms you up before the windy viewpoint."
+              }
+            },
+            {
+              "name": "Tettye Kilátó (Distrikt C)",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stufen.",
+                "hu": "Vigyázzunk a lefagyott lépcsőfokokkal.",
+                "ro": "Atenție la treptele care pot fi înghețate.",
+                "en": "Watch out for potentially icy steps."
+              }
+            },
+            {
+              "name": "Pécsi Corso Étterem (Distrikt A, Rückweg)",
+              "tip_5lang": {
+                "de": "Nach dem Essen geht es schnell zur Bushaltestelle.",
+                "hu": "Vacsora után hamar elérjük a közeli buszmegállót.",
+                "ro": "După cină ajungeți repede la stația de autobuz.",
+                "en": "After dinner, you can quickly reach the nearby bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die beheizten Busse sind eine großartige Möglichkeit, sich zwischen den Sehenswürdigkeiten aufzuwärmen.",
+              "Die Busfahrt zum Tettye-Hügel erspart Ihnen einen schweißtreibenden Aufstieg in dicker Winterkleidung.",
+              "Beachten Sie, dass Busse im Winter bei Schnee oder Eis gelegentlich leichte Verspätungen haben können.",
+              "Ein digitales Ticket verhindert, dass Sie Ihre warmen Handschuhe ausziehen müssen."
+            ],
+            "hu": [
+              "A fűtött buszok nagyszerű lehetőséget kínálnak a felmelegedésre két látnivaló között.",
+              "A Tettyére vezető buszút megkímél attól, hogy a vastag téli ruhában megizzadjunk a hegyoldalban.",
+              "Téli időjárás (hó, jég) esetén a helyi járatok menetrendjében lehetnek apróbb csúszások.",
+              "A mobiljegy használatával nem kell levennünk a kesztyűt a fizetéshez."
+            ],
+            "ro": [
+              "Autobuzele încălzite sunt o modalitate excelentă de a vă încălzi între atracții.",
+              "Mersul cu autobuzul spre dealul Tettye vă scutește de a transpira sub hainele groase.",
+              "Iarna, în caz de zăpadă sau gheață, pot exista mici întârzieri în orar.",
+              "Un bilet digital vă permite să nu vă scoateți mănușile calde pentru a plăti."
+            ],
+            "en": [
+              "The heated buses are a great way to thaw out while moving between attractions.",
+              "Taking the bus up to Tettye saves you from a sweaty hike while wearing heavy winter gear.",
+              "Keep in mind that winter weather like snow or ice might cause slight delays in the schedule.",
+              "Using a mobile ticket means you won't have to take off your gloves to handle cash."
+            ]
+          }
+        }
       }
     }
   }

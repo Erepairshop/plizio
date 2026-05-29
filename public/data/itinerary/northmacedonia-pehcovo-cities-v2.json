@@ -362,6 +362,188 @@
           "The paths to the waterfalls can be slippery, so be cautious.",
           "Locals are friendly, but learning a few words of Macedonian is always polite."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag am Stadtplatz unter den Arkaden. Der Besuch der Kirche und des Museums bietet Schutz vor dem Regen. Mittags führt ein kurzer Spaziergang zum Ravna Reka, wo der Wald dichten Schutz bietet. Nachmittags sind die Wasserfälle durch den Regen besonders wasserreich. Den Abend lassen Sie in einem gemütlichen Restaurant im Zentrum bei warmen lokalen Spezialitäten ausklingen.",
+            "hu": "A napot a főtéren kezdjük, esernyővel a kézben. A Szent Péter és Pál templom és a helyi múzeum tökéletes menedéket nyújt a záporok elől. Délben a Ravna Reka felé vesszük az irányt, ahol a fák lombkoronája véd az esőtől. Délután a vízesések látványosabbak a bőséges csapadék miatt. Az estét egy központi étteremben töltjük, élvezve a Maleševo-vidék meleg vendégszeretetét.",
+            "ro": "Începeți ziua în piața centrală, protejați de umbrelă. Biserica Sf. Petru și Pavel și Muzeul din Pehčevo oferă adăpost ideal împotriva ploii. La prânz, zona Ravna Reka devine mistică sub picăturile de ploaie. După-amiaza, cascadele au un debit impresionant datorită precipitațiilor. Seara se încheie confortabil într-un restaurant local din centru, cu preparate calde tradiționale.",
+            "en": "Start the day at the town square with an umbrella. The Church of St. Peter and Paul and the local museum provide excellent shelter from the rain. At noon, head to Ravna Reka, where the dense forest canopy offers some protection. In the afternoon, the waterfalls are particularly powerful due to the rainfall. Spend the evening in a cozy city center restaurant with warm local dishes."
+          },
+          "stops": [
+            {
+              "name": "Pehčevo Town Square",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Vordächern der Cafés am Platz.",
+                "hu": "Használja a tér menti kávézók előtetőit menedékként.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor din piață.",
+                "en": "Use the cafe awnings around the square for quick shelter."
+              }
+            },
+            {
+              "name": "Church of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den stärksten Regen abzuwarten.",
+                "hu": "Csendes hely a hevesebb esőzés megvárására.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea ploii torențiale.",
+                "en": "A peaceful spot to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "Museum of Pehčevo",
+              "tip_5lang": {
+                "de": "Ideales Ziel bei Regen; entdecken Sie lokale Geschichte im Trockenen.",
+                "hu": "Ideális esős időben; fedezze fel a helyi történelmet szárazon.",
+                "ro": "Destinație ideală pe ploaie; descoperiți istoria locală la adăpost.",
+                "en": "Perfect indoor activity; explore local history while staying dry."
+              }
+            },
+            {
+              "name": "Ravna Reka Recreational Area",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Waldwegen, sie können bei Nässe rutschig sein.",
+                "hu": "Vigyázat az erdei utakon, nedves időben csúszósak lehetnek.",
+                "ro": "Atenție pe potecile din pădure, pot fi alunecoase când sunt ude.",
+                "en": "Be careful on the forest paths; they can be slippery when wet."
+              }
+            },
+            {
+              "name": "Pehčevo Waterfalls",
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Schuhe für den Zugang zum schlammigen Ufer.",
+                "hu": "Viseljen vízálló cipőt a saras parthoz való hozzáféréshez.",
+                "ro": "Purtați încălțăminte impermeabilă pentru accesul pe malul noroios.",
+                "en": "Wear waterproof shoes for access to the muddy riverbanks."
+              }
+            },
+            {
+              "name": "Return to the city center for dinner",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Kamin für zusätzliche Wärme.",
+                "hu": "Válasszon kandallós éttermet a plusz melegségért.",
+                "ro": "Alegeți un restaurant cu șemineu pentru un plus de căldură.",
+                "en": "Choose a restaurant with a fireplace for extra warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen möglicher Bergwinde wichtig.",
+              "Wanderstiefel mit gutem Profil verhindern Ausrutschen auf Schlamm.",
+              "Nutzen Sie die Museumszeit, wenn der Niederschlag am stärksten ist.",
+              "Die Luftfeuchtigkeit in den Bergen lässt es kühler erscheinen als es ist."
+            ],
+            "hu": [
+              "A hegyi szél miatt egy strapabíró esernyő elengedhetetlen.",
+              "A sárban való csúszkálás ellen profilozott talpú túrabakancs javasolt.",
+              "Idzítse a múzeumlátogatást a leghevesebb esőzés idejére.",
+              "A magas páratartalom miatt hűvösebbnek érezheti a levegőt."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza vântului de munte.",
+              "Bocancii de drumeție cu talpă aderentă previn alunecarea în noroi.",
+              "Planificați vizita la muzeu în timpul celor mai puternice averse.",
+              "Umiditatea ridicată din munți face ca temperatura să pară mai scăzută."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to potential mountain winds.",
+              "Hiking boots with good grip prevent slipping on muddy trails.",
+              "Time your museum visit for when the rainfall is heaviest.",
+              "High humidity in the mountains can make it feel colder than it is."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Pehčevo im winterlichen Glanz am zentralen Platz. Nach einem kurzen Besuch der frostigen Kirche bietet das Museum wohlige Wärme. Mittags verwandelt sich Ravna Reka in eine Märchenlandschaft aus Schnee und Eis. Die gefrorenen Wasserfälle sind ein seltener und beeindruckender Anblick am Nachmittag. Da es früh dunkel wird, genießen Sie den Abend bei deftiger mazedonischer Küche im warmen Stadtkern.",
+            "hu": "Fedezze fel Pehčevo téli arcát a havas főtéren. A templomlátogatás után a múzeumban melegedhetünk fel. Délben a Ravna Reka rekreációs terület igazi mesevilággá változik a hófödte fenyők között. Délután a befagyott vízesések lenyűgöző jégcsapjai kínálnak különleges látványt. A korai sötétedés miatt az estét már egy barátságos, meleg étteremben töltjük a városközpontban.",
+            "ro": "Experimentați farmecul iernii în Pehčevo începând din piața centrală. După o scurtă vizită la biserică, muzeul oferă căldura necesară. La prânz, zona Ravna Reka se transformă într-un peisaj de basm înzăpezit. Cascadele înghețate sunt o atracție spectaculoasă după-amiaza. Deoarece se întunecă devreme, seara este dedicată gastronomiei macedonene într-un cadru călduros în centru.",
+            "en": "Experience Pehčevo's winter charm starting at the snowy town square. After visiting the frosty church, the museum provides a warm retreat. At noon, Ravna Reka turns into a winter wonderland of snow and ice. The frozen waterfalls are a spectacular sight in the afternoon. With early sunsets, enjoy the evening with hearty Macedonian cuisine in the warm city center."
+          },
+          "stops": [
+            {
+              "name": "Pehčevo Town Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem Pflaster bei Frost.",
+                "hu": "Vigyázzon a jeges foltokkal a tér kövezetén.",
+                "ro": "Atenție la porțiunile înghețate de pe pavajul pieței.",
+                "en": "Watch out for icy patches on the square's pavement."
+              }
+            },
+            {
+              "name": "Church of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Im Inneren ist es oft kühler als draußen; behalten Sie die Jacke an.",
+                "hu": "Bent gyakran hűvösebb van, mint kint; tartsa magán a kabátot.",
+                "ro": "În interior este adesea mai rece decât afară; păstrați haina pe dvs.",
+                "en": "It is often colder inside than outside; keep your coat on."
+              }
+            },
+            {
+              "name": "Museum of Pehčevo",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Innenraum zum Aufwärmen.",
+                "hu": "Használja a fűtött belső teret a felmelegedéshez.",
+                "ro": "Folosiți spațiul interior încălzit pentru a vă încălzi.",
+                "en": "Take advantage of the heated indoor space to warm up."
+              }
+            },
+            {
+              "name": "Ravna Reka Recreational Area",
+              "tip_5lang": {
+                "de": "Der Weg kann verschneit sein; folgen Sie den vorhandenen Spuren.",
+                "hu": "Az út havas lehet; kövesse a meglévő nyomokat.",
+                "ro": "Drumul poate fi înzăpezit; urmați urmele existente.",
+                "en": "The path may be snowy; follow the existing tracks."
+              }
+            },
+            {
+              "name": "Pehčevo Waterfalls",
+              "tip_5lang": {
+                "de": "Halten Sie Abstand von den Kanten, Eis kann instabil sein.",
+                "hu": "Tartson távolságot a peremektől, a jég bizonytalan lehet.",
+                "ro": "Păstrați distanța de margini, gheața poate fi instabilă.",
+                "en": "Keep distance from the edges; ice can be unstable."
+              }
+            },
+            {
+              "name": "Return to the city center for dinner",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Rakija zum Aufwärmen nach der Wanderung.",
+                "hu": "Élvezzen egy forró rakiját a túra utáni felmelegedéshez.",
+                "ro": "Savurați o rakija fiartă pentru a vă încălzi după drumeție.",
+                "en": "Enjoy a hot rakija to warm up after the hike."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:15 Uhr unter.",
+              "Thermounterwäsche ist in dieser Höhenlage (800m) sehr ratsam.",
+              "Einige Bergpfade könnten bei starkem Schneefall unpassierbar sein.",
+              "Tragen Sie Handschuhe und Mütze gegen den beißenden Bergwind."
+            ],
+            "hu": [
+              "A nap télen már 16:15 körül lemegy, tervezzen előre.",
+              "A 800 méteres tengerszint feletti magasság miatt a termoalsó ajánlott.",
+              "Erős havazás esetén egyes hegyi ösvények járhatatlanok lehetnek.",
+              "Viseljen kesztyűt és sapkát a metsző hegyi szél ellen."
+            ],
+            "ro": [
+              "Soarele apune iarna în jurul orei 16:15; planificați din timp.",
+              "Lenjeria termică este recomandată la această altitudine (800m).",
+              "Unele poteci montane pot fi impracticabile în caz de ninsoare abundentă.",
+              "Purtați mănuși și căciulă împotriva vântului tăios de munte."
+            ],
+            "en": [
+              "Sunset in winter is around 16:15; plan your outdoor time carefully.",
+              "Thermal underwear is highly recommended at this altitude (800m).",
+              "Some mountain trails might be impassable during heavy snowfall.",
+              "Wear gloves and a hat against the biting mountain wind."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +924,206 @@
           "Take enough water and some snacks for the journey.",
           "A helmet is highly recommended, especially on the country roads."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert gute Vorbereitung am Stadtplatz. Nach einem trockenen Zwischenstopp im Museum führt die Fahrt durch den nassen Wald nach Ravna Reka. Die Wasserfälle wirken bei diesem Wetter besonders wild. Besuchen Sie die Kirche am Nachmittag für einen Moment der Ruhe, bevor Sie den Tag mit einem wohlverdienten Abendessen beenden. Achten Sie auf rutschige Straßen.",
+            "hu": "Az esős kerékpározás alapos felkészülést igényel a főtéren. A múzeumi kitérő után a vizes erdőn át tekerünk Ravna Reka felé. A vízesések ilyenkor különösen vadregényesek. Délután látogassuk meg a templomot egy kis nyugalomért, majd fejezzük be a napot egy bőséges vacsorával a központban. Ügyeljen a csúszós aszfaltra és az erdei utakra.",
+            "ro": "O tură cu bicicleta pe ploaie necesită pregătire atentă în piață. După o oprire uscată la muzeu, traseul continuă prin pădurea udă spre Ravna Reka. Cascadele par deosebit de sălbatice pe acest timp. Vizitați biserica după-amiaza pentru un moment de liniște înainte de cină. Fiți atenți la drumurile alunecoase din zonă.",
+            "en": "Cycling in the rain requires good preparation at the town square. After a dry stop at the museum, the ride continues through the wet forest to Ravna Reka. The waterfalls look particularly wild in this weather. Visit the church in the afternoon for a quiet moment before ending the day with a well-deserved dinner. Watch out for slippery roads."
+          },
+          "stops": [
+            {
+              "name": "Pehčevo Town Square",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen gründlich vor der Abfahrt im Regen.",
+                "hu": "Indulás előtt alaposan ellenőrizze a fékeket az esőben.",
+                "ro": "Verificați frânele cu atenție înainte de plecare pe ploaie.",
+                "en": "Check your brakes thoroughly before starting in the rain."
+              }
+            },
+            {
+              "name": "Museum of Pehčevo",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter einem Dachvorsprung.",
+                "hu": "Parkolja le a kerékpárt egy védett előtető alatt.",
+                "ro": "Parcați bicicleta sub o streașină protejată.",
+                "en": "Park your bike under a protected overhang."
+              }
+            },
+            {
+              "name": "Ravna Reka Recreational Area",
+              "tip_5lang": {
+                "de": "Vermeiden Sie tiefen Matsch auf den unbefestigten Wegen.",
+                "hu": "Kerülje a mély sarat a nem aszfaltozott utakon.",
+                "ro": "Evitați noroiul adânc pe drumurile neasfaltate.",
+                "en": "Avoid deep mud on the unpaved forest tracks."
+              }
+            },
+            {
+              "name": "Pehčevo Waterfalls",
+              "tip_5lang": {
+                "de": "Steigen Sie ab und gehen Sie das letzte Stück zu Fuß.",
+                "hu": "Szálljon le a bicikliről, és gyalog tegye meg az utolsó szakaszt.",
+                "ro": "Coborâți de pe bicicletă și mergeți pe jos ultima porțiune.",
+                "en": "Dismount and walk the last section to the falls."
+              }
+            },
+            {
+              "name": "Spikovski Waterfall",
+              "tip_5lang": {
+                "de": "Achten Sie auf herabfallende Äste bei Wind und Regen.",
+                "hu": "Vigyázzon a lehulló ágakra szeles, esős időben.",
+                "ro": "Atenție la crengile căzute în condiții de vânt și ploaie.",
+                "en": "Watch for falling branches during wind and rain."
+              }
+            },
+            {
+              "name": "Church of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorplatz zum sicheren Abstellen der Räder.",
+                "hu": "Használja a templom előtti teret a bringák biztonságos leállításához.",
+                "ro": "Folosiți curtea bisericii pentru parcarea sigură a bicicletelor.",
+                "en": "Use the church forecourt for safe bike parking."
+              }
+            },
+            {
+              "name": "Dinner in the center",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz, wo Sie Ihre nasse Kleidung trocknen können.",
+                "hu": "Keressen olyan helyet, ahol megszáríthatja vizes ruháit.",
+                "ro": "Căutați un loc unde vă puteți usca hainele ude.",
+                "en": "Look for a spot where you can dry your wet clothes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Überschuhen ist ratsam.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf Nässe.",
+              "Vermeiden Sie abrupte Bremsmanöver auf nassem Asphalt oder Laub.",
+              "Die Sicht kann im Wald bei Regen stark eingeschränkt sein."
+            ],
+            "hu": [
+              "Teljes esőruházat, beleértve a cipővédőt is, javasolt.",
+              "Csökkentse kicsit a guminyomást a jobb tapadás érdekében.",
+              "Kerülje a hirtelen fékezést vizes aszfalton vagy avaron.",
+              "Az erdei látótávolság esőben jelentősen lecsökkenhet."
+            ],
+            "ro": [
+              "Se recomandă costum complet de ploaie, inclusiv protecții de încălțăminte.",
+              "Reduceți ușor presiunea în pneuri pentru aderență mai bună pe ud.",
+              "Evitați frânările bruște pe asfalt ud sau frunziș.",
+              "Vizibilitatea în pădure poate fi mult redusă pe ploaie."
+            ],
+            "en": [
+              "Full rain gear including shoe covers is highly recommended.",
+              "Slightly reduce tire pressure for better grip on wet surfaces.",
+              "Avoid sudden braking on wet asphalt or fallen leaves.",
+              "Visibility in the forest can be significantly reduced during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour startet am frostigen Stadtplatz. Nach einem wärmenden Stopp im Museum geht es durch die glitzernde Schneelandschaft nach Ravna Reka. Die gefrorenen Wasserfälle bieten ein einzigartiges Fotomotiv. Besuchen Sie die Kirche am Nachmittag für einen Moment der Besinnung, bevor die frühe Dämmerung einsetzt. Beenden Sie den Tag bei einem heißen Getränk und mazedonischen Spezialitäten im Zentrum.",
+            "hu": "A téli bringatúra a fagyos főtéren indul. A múzeumi melegedő után a csillogó havas tájon át tekerünk Ravna Reka felé. A befagyott vízesések egyedülálló fotótémát kínálnak a bátrabbaknak. Délután látogassuk meg a templomot, mielőtt beáll a korai szürkület. A napot forró itallal és macedón különlegességekkel zárjuk a város szívében.",
+            "ro": "Tura de iarnă cu bicicleta începe în piața înghețată. După o pauză caldă la muzeu, pedalați prin peisajul sclipitor spre Ravna Reka. Cascadele înghețate oferă un cadru fotografic unic. Vizitați biserica după-amiaza pentru un moment de reflecție înainte de amurg. Încheiați ziua cu o băutură fierbinte și specialități locale în centru.",
+            "en": "The winter bike tour starts at the frosty town square. After a warming stop at the museum, ride through the glittering snow to Ravna Reka. The frozen waterfalls offer a unique photo opportunity. Visit the church in the afternoon for a moment of reflection before the early dusk sets in. End the day with a hot drink and Macedonian specialties in the center."
+          },
+          "stops": [
+            {
+              "name": "Pehčevo Town Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eisplatten unter der dünnen Schneedecke.",
+                "hu": "Ügyeljen a vékony hóréteg alatti jégfoltokra.",
+                "ro": "Fiți atenți la gheața de sub stratul subțire de zăpadă.",
+                "en": "Watch for ice patches hidden under thin snow."
+              }
+            },
+            {
+              "name": "Museum of Pehčevo",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Kette gut geölt ist (Schnee/Salz).",
+                "hu": "Ellenőrizze, hogy a lánc jól olajozott-e (hó/só ellen).",
+                "ro": "Asigurați-vă că lanțul este bine uns (contra zăpezii/sării).",
+                "en": "Ensure your chain is well-lubricated against snow and salt."
+              }
+            },
+            {
+              "name": "Ravna Reka Recreational Area",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig, Schnee kann Bodenunebenheiten verbergen.",
+                "hu": "Tekerjen óvatosan, a hó elfedheti a talaj egyenetlenségeit.",
+                "ro": "Pedalați cu grijă, zăpada poate ascunde denivelările solului.",
+                "en": "Ride carefully; snow can hide bumps in the ground."
+              }
+            },
+            {
+              "name": "Pehčevo Waterfalls",
+              "tip_5lang": {
+                "de": "Lassen Sie das Rad stehen, falls der Pfad zu glatt wird.",
+                "hu": "Hagyja hátra a bringát, ha az ösvény túl csúszóssá válik.",
+                "ro": "Lăsați bicicleta dacă poteca devine prea alunecoasă.",
+                "en": "Leave the bike behind if the path becomes too slippery."
+              }
+            },
+            {
+              "name": "Spikovski Waterfall",
+              "tip_5lang": {
+                "de": "Kürzere Aufenthalte im Freien verhindern Auskühlung.",
+                "hu": "A rövidebb kinti megállók segítenek elkerülni a kihűlést.",
+                "ro": "Staționările scurte în aer liber previn hipotermia.",
+                "en": "Shorter outdoor stops help prevent getting chilled."
+              }
+            },
+            {
+              "name": "Church of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch für eine kurze Aufwärmpause.",
+                "hu": "Használja ki a látogatást egy rövid melegedőre.",
+                "ro": "Folosiți vizita pentru o scurtă pauză de încălzire.",
+                "en": "Use the visit for a brief warming break."
+              }
+            },
+            {
+              "name": "Dinner in the center",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einer herzhaften 'Tavče Gravče' zum Aufwärmen.",
+                "hu": "Kérjen egy kiadós 'Tavče Gravče'-t a felmelegedéshez.",
+                "ro": "Cereți o porție de 'Tavče Gravče' pentru a vă încălzi.",
+                "en": "Ask for a hearty 'Tavče Gravče' to warm up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Winter-Fahrradhandschuhe gegen taube Finger.",
+              "Achten Sie auf die Akkulaufzeit von Licht/Handy bei Kälte.",
+              "Mountainbike-Reifen mit grobem Profil sind im Schnee ein Muss.",
+              "Planen Sie die Rückkehr spätestens für 16:00 Uhr ein."
+            ],
+            "hu": [
+              "Használjon téli kerékpáros kesztyűt az elgémberedett ujjak ellen.",
+              "Ügyeljen a lámpa/telefon akkumulátorára a hidegben.",
+              "A durva profilú MTB gumik kötelezőek a hóban.",
+              "Tervezze meg a visszatérést legkésőbb 16:00 órára."
+            ],
+            "ro": [
+              "Folosiți mănuși de iarnă pentru ciclism contra degetelor amorțite.",
+              "Atenție la durata bateriei luminii/telefonului pe ger.",
+              "Anvelopele MTB cu profil cramponat sunt obligatorii pe zăpadă.",
+              "Planificați revenirea cel târziu la ora 16:00."
+            ],
+            "en": [
+              "Use winter cycling gloves to prevent numb fingers.",
+              "Be aware of reduced battery life for lights/phone in the cold.",
+              "Mountain bike tires with aggressive tread are a must in snow.",
+              "Plan to be back by 16:00 at the latest due to failing light."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1504,206 @@
           "Do not leave valuables in the car, especially at remote parking spots.",
           "Plan enough time for the drives, as roads can be winding."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Autotour im Zentrum von Pehčevo. Besuchen Sie den Stadtplatz und die Kirche, während Sie zwischen den Schauern das Auto nutzen. Die Fahrt zu den Wasserfällen führt über kurvige Bergstraßen, die bei Regen Vorsicht erfordern. Das Yudovi Livadi Reservat wirkt im Nebel besonders atmosphärisch. Beenden Sie den Tag am Crn Kamen Wanderparkplatz, bevor Sie für ein gemütliches Abendessen ins Stadtzentrum zurückkehren.",
+            "hu": "Autós túránkat Pehčevo központjából indítjuk. Látogassuk meg a főteret és a templomot, kihasználva az autó nyújtotta védelmet a záporok között. A vízesésekhez vezető kanyargós hegyi utak esőben óvatosságot igényelnek. A Yudovi Livadi rezervátum a ködben különlegesen misztikus. A napot a Crn Kamen kiindulópontjánál zárjuk, majd visszatérünk a városba egy hangulatos vacsorára.",
+            "ro": "Începeți turul cu mașina din centrul orașului Pehčevo. Vizitați piața și biserica, folosind mașina pentru a vă adăposti între averse. Drumul spre cascade include porțiuni montane sinuoase care necesită atenție sporită pe ploaie. Rezervația Yudovi Livadi are o atmosferă aparte în ceață. Încheiați ziua la punctul de plecare spre Crn Kamen înainte de a reveni în centru.",
+            "en": "Start your car tour in the center of Pehčevo. Visit the town square and church, using the car to stay dry between showers. The drive to the waterfalls involves winding mountain roads that require caution in the rain. Yudovi Livadi Nature Reserve looks particularly atmospheric in the mist. End the day at the Crn Kamen trailhead before returning to the center for dinner."
+          },
+          "stops": [
+            {
+              "name": "Parking in the Center (Cluster A)",
+              "tip_5lang": {
+                "de": "Parken Sie auf befestigtem Grund, um Matsch zu vermeiden.",
+                "hu": "Parkoljon szilárd talajon, hogy elkerülje a sarat.",
+                "ro": "Parcați pe teren consolidat pentru a evita noroiul.",
+                "en": "Park on paved ground to avoid getting stuck in mud."
+              }
+            },
+            {
+              "name": "Pehčevo Town Square",
+              "tip_5lang": {
+                "de": "Halten Sie den Regenschirm griffbereit für den Weg vom Parkplatz.",
+                "hu": "Tartsa kéznél az esernyőt a parkolótól a térig tartó úton.",
+                "ro": "Țineți umbrela la îndemână pentru drumul de la parcare.",
+                "en": "Keep your umbrella handy for the walk from the parking lot."
+              }
+            },
+            {
+              "name": "Church of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Ein kurzer, regnerischer Fußweg vom Auto zum Eingang.",
+                "hu": "Rövid, esős séta az autótól a bejáratig.",
+                "ro": "O scurtă plimbare pe ploaie de la mașină la intrare.",
+                "en": "A short, rainy walk from the car to the entrance."
+              }
+            },
+            {
+              "name": "Ravna Reka Recreational Area (Cluster B)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Aquaplaning auf der Zufahrtsstraße.",
+                "hu": "Ügyeljen az aquaplaningre a bekötőúton.",
+                "ro": "Atenție la acvaplanare pe drumul de acces.",
+                "en": "Watch out for aquaplaning on the access road."
+              }
+            },
+            {
+              "name": "Pehčevo Waterfalls",
+              "tip_5lang": {
+                "de": "Parken Sie sicher am Straßenrand, wo der Boden fest ist.",
+                "hu": "Parkoljon biztonságosan az út szélén, ahol szilárd a talaj.",
+                "ro": "Parcați în siguranță pe marginea drumului, pe teren solid.",
+                "en": "Park safely on the roadside where the ground is firm."
+              }
+            },
+            {
+              "name": "Yudovi Livadi Nature Reserve (Cluster C)",
+              "tip_5lang": {
+                "de": "Die Sicht kann durch Nebel in dieser Höhe stark eingeschränkt sein.",
+                "hu": "A köd miatt a látási viszonyok korlátozottak lehetnek.",
+                "ro": "Vizibilitatea poate fi redusă din cauza ceții la această altitudine.",
+                "en": "Visibility can be significantly reduced by mist at this altitude."
+              }
+            },
+            {
+              "name": "Crn Kamen Peak (trailhead)",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig, da die Straße schmal und nass ist.",
+                "hu": "Vezessen óvatosan, az út keskeny és vizes.",
+                "ro": "Conduceți cu grijă, drumul este îngust și umed.",
+                "en": "Drive carefully as the road is narrow and wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Tour.",
+              "Vermeiden Sie unbefestigte Seitenstreifen; Gefahr des Einsinkens.",
+              "Schalten Sie auch tagsüber das Licht ein für bessere Sichtbarkeit.",
+              "Die Bergstraßen um Pehčevo können bei Regen rutschig sein."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlők állapotát az indulás előtt.",
+              "Kerülje a laza útpadkát; fennáll az elakadás veszélye.",
+              "Napközben is használjon tompított fényszórót a láthatóságért.",
+              "A Pehčevo környéki hegyi utak esőben csúszósak lehetnek."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de a pleca la drum.",
+              "Evitați acostamentele neconsolidate; risc de împotmolire.",
+              "Folosiți faza scurtă și ziua pentru o mai bună vizibilitate.",
+              "Drumurile montane din jurul Pehčevo pot fi alunecoase pe ploaie."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers before the tour.",
+              "Avoid unpaved road shoulders; there's a risk of getting stuck.",
+              "Keep your headlights on during the day for better visibility.",
+              "Mountain roads around Pehčevo can be slippery in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Pehčevo bequem mit dem Auto. Nach dem Besuch des Stadtzentrums fahren Sie durch verschneite Wälder zur Ravna Reka. Die Fahrt zu den Wasserfällen bietet herrliche Ausblicke auf die mazedonischen Alpen im Schnee. Im Yudovi Livadi Reservat erleben Sie unberührte Natur im Winterkleid. Beenden Sie den Tag vorsichtig am Crn Kamen Parkplatz, da die Straßen dort oben vereist sein können, und kehren Sie dann ins warme Zentrum zurück.",
+            "hu": "Fedezze fel a téli Pehčevót kényelmesen, autóval. A belváros után havas erdőkön át autózunk a Ravna Reka felé. A vízesésekhez vezető út csodás kilátást nyújt a macedón Alpok hófödte csúcsaira. A Yudovi Livadi rezervátumban érintetlen téli táj fogadja. A napot óvatosan fejezzük be a Crn Kamen parkolójánál, mivel az utak jegesek lehetnek, majd térjünk vissza a meleg belvárosba.",
+            "ro": "Explorați orașul Pehčevo iarna din confortul mașinii. După centrul orașului, conduceți prin păduri troienite spre Ravna Reka. Drumul spre cascade oferă vederi superbe asupra munților înzăpeziți. În rezervația Yudovi Livadi veți găsi natura intactă sub haina de iarnă. Finalizați ziua cu grijă la parcarea Crn Kamen, deoarece drumurile pot fi înghețate, apoi reveniți în centrul primitor.",
+            "en": "Explore winter Pehčevo comfortably by car. After visiting the city center, drive through snowy forests to Ravna Reka. The road to the waterfalls offers great views of the snow-capped Macedonian mountains. At Yudovi Livadi Reserve, experience untouched winter nature. End the day carefully at the Crn Kamen parking area, as high-altitude roads can be icy, before returning to the warm center."
+          },
+          "stops": [
+            {
+              "name": "Parking in the Center (Cluster A)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen, die Parkplätze blockieren könnten.",
+                "hu": "Ügyeljen a hóbuckákra, amik elzárhatják a parkolóhelyeket.",
+                "ro": "Atenție la mormanele de zăpadă care pot bloca parcările.",
+                "en": "Watch out for snow piles that might block parking spots."
+              }
+            },
+            {
+              "name": "Pehčevo Town Square",
+              "tip_5lang": {
+                "de": "Ein kurzer Gang durch die Kälte vom warmen Auto aus.",
+                "hu": "Rövid séta a hidegben a meleg autóból kiszállva.",
+                "ro": "O scurtă plimbare prin frig după ieșirea din mașina caldă.",
+                "en": "A short walk in the cold after leaving the warm car."
+              }
+            },
+            {
+              "name": "Church of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eiszapfen an den Dachrinnen der Gebäude.",
+                "hu": "Vigyázzon az épületek ereszeiről lelógó jégcsapokkal.",
+                "ro": "Atenție la țurțurii de pe streșinile clădirilor.",
+                "en": "Watch out for icicles hanging from the building eaves."
+              }
+            },
+            {
+              "name": "Ravna Reka Recreational Area (Cluster B)",
+              "tip_5lang": {
+                "de": "Winterreifen sind auf dieser Bergstraße absolut notwendig.",
+                "hu": "Téli gumi kötelező ezen a hegyi úton.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pe acest drum montan.",
+                "en": "Winter tires are absolutely necessary on this mountain road."
+              }
+            },
+            {
+              "name": "Pehčevo Waterfalls",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Neuschnee schwierig sein.",
+                "hu": "Friss hó esetén a behajtás nehézkes lehet.",
+                "ro": "Accesul poate fi dificil în caz de ninsoare proaspătă.",
+                "en": "Access can be difficult during fresh snowfall."
+              }
+            },
+            {
+              "name": "Yudovi Livadi Nature Reserve (Cluster C)",
+              "tip_5lang": {
+                "de": "Nehmen Sie Schneeketten mit, falls Sie höher fahren wollen.",
+                "hu": "Vigyen magával hóláncot, ha magasabbra akar hajtani.",
+                "ro": "Luați lanțuri antiderapante dacă doriți să urcați mai sus.",
+                "en": "Carry snow chains if you plan to drive to higher elevations."
+              }
+            },
+            {
+              "name": "Crn Kamen Peak (trailhead)",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Straßenzustand; oft nicht geräumt.",
+                "hu": "Ellenőrizze az útviszonyokat; gyakran nincs letakarítva.",
+                "ro": "Verificați starea drumului; adesea nu este deszăpezit.",
+                "en": "Check road conditions; this section is often not plowed."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer eine Schaufel und Enteiser im Auto mit.",
+              "Tanken Sie voll, bevor Sie in die höheren Lagen fahren.",
+              "Achten Sie auf plötzliche Wetterumschwünge in den Bergen.",
+              "Parken Sie nicht unter hohen Bäumen mit schwerer Schneelast."
+            ],
+            "hu": [
+              "Mindig legyen az autóban hólapát és jégoldó.",
+              "Tankoljon tele, mielőtt elindul a magasabb részekre.",
+              "Ügyeljen a hirtelen időjárás-változásokra a hegyekben.",
+              "Ne parkoljon nehéz hóval borított, magas fák alá."
+            ],
+            "ro": [
+              "Aveți întotdeauna în mașină o lopată și spray degivrant.",
+              "Faceți plinul înainte de a urca spre zonele înalte.",
+              "Atenție la schimbările bruște de vreme în munți.",
+              "Nu parcați sub copaci înalți cu multă zăpadă pe ramuri."
+            ],
+            "en": [
+              "Always carry a shovel and de-icer in your car.",
+              "Fill your tank before heading to higher elevations.",
+              "Be aware of sudden weather changes in the mountains.",
+              "Avoid parking under tall trees with heavy snow loads."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2036,170 @@
           "Shared taxis (marshrutkas) are common and can be a fast alternative to the bus.",
           "Be flexible; public transport in rural areas can be unpredictable."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den lokalen Bus, um Pehčevo bei Regen zu erkunden. Starten Sie im Zentrum und besuchen Sie das Museum, um trocken zu bleiben. Der Bus bringt Sie in die Nähe der Ravna Reka, von wo aus Sie einen kurzen Spaziergang zu den Wasserfällen unternehmen können. Planen Sie Ihre Rückkehr sorgfältig, da die Wartezeiten im Regen unangenehm sein können. Genießen Sie am späten Nachmittag ein warmes Mittagessen in einem zentralen Restaurant.",
+            "hu": "Használja a helyi közlekedést Pehčevo felfedezéséhez esőben. Kezdje a központban, és látogassa meg a múzeumot, hogy szárazon maradjon. A busz Ravna Reka közelébe visz, ahonnan rövid séta vezet a vízesésekhez. Tervezze meg pontosan a visszautat, mert az esőben való várakozás kellemetlen lehet. A napot egy késői, bőséges ebéddel zárja a városközpontban.",
+            "ro": "Folosiți transportul local pentru a explora Pehčevo pe ploaie. Începeți în centru și vizitați muzeul pentru a rămâne la adăpost. Autobuzul vă lasă aproape de Ravna Reka, de unde puteți merge pe jos spre cascade. Planificați revenirea cu grijă pentru a nu aștepta mult în ploaie. Bucurați-vă de un prânz întârziat într-un restaurant central.",
+            "en": "Use local transport to explore Pehčevo in the rain. Start in the center and visit the museum to stay dry. The bus takes you near Ravna Reka, from where a short walk leads to the waterfalls. Plan your return carefully, as waiting in the rain can be unpleasant. Enjoy a late, hearty lunch in a central restaurant in the afternoon."
+          },
+          "stops": [
+            {
+              "name": "Pehčevo Town Square (Cluster A)",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet nur begrenzten Schutz vor Regen.",
+                "hu": "A buszmegálló csak korlátozott védelmet nyújt az eső ellen.",
+                "ro": "Stația de autobuz oferă adăpost limitat împotriva ploii.",
+                "en": "The bus stop provides only limited shelter from the rain."
+              }
+            },
+            {
+              "name": "Museum of Pehčevo",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Zeit bis zum nächsten Bus zu überbrücken.",
+                "hu": "Ideális hely a következő buszig tartó idő eltöltésére.",
+                "ro": "Locul ideal pentru a petrece timpul până la următorul autobuz.",
+                "en": "An ideal place to spend time until the next bus arrives."
+              }
+            },
+            {
+              "name": "Bus stop for Ravna Reka (Cluster B)",
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Kleidung für die Wartezeit im Freien.",
+                "hu": "Viseljen vízálló ruházatot a kinti várakozáshoz.",
+                "ro": "Purtați haine impermeabile pentru așteptarea în aer liber.",
+                "en": "Wear waterproof clothing for waiting outdoors."
+              }
+            },
+            {
+              "name": "Pehčevo Waterfalls",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Busfahrplan, da dieser im Regen variieren kann.",
+                "hu": "Ügyeljen a buszmenetrendre, esőben változhat.",
+                "ro": "Atenție la orarul autobuzelor, poate varia pe timp de ploaie.",
+                "en": "Keep an eye on the bus schedule; it might vary in rain."
+              }
+            },
+            {
+              "name": "Return to the center for a late lunch",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einer heißen Suppe im Restaurant auf.",
+                "hu": "Melegedjen fel egy forró levessel az étteremben.",
+                "ro": "Încălziți-vă cu o supă fierbinte la restaurant.",
+                "en": "Warm up with a hot soup at the restaurant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Informieren Sie sich vorab über aktuelle Fahrplanänderungen.",
+              "Nehmen Sie Kleingeld für die Fahrkarte mit.",
+              "Ein kleiner Snack überbrückt eventuelle Wartezeiten an Haltestellen.",
+              "Die Busse können bei starkem Regen verspätet sein."
+            ],
+            "hu": [
+              "Indulás előtt tájékozódjon az esetleges menetrendi változásokról.",
+              "Legyen önnél aprópénz a jegyvásárláshoz.",
+              "Egy kis rágcsálnivaló segít átvészelni a várakozási időt.",
+              "Heves esőzés esetén a buszok késhetnek."
+            ],
+            "ro": [
+              "Informați-vă din timp despre eventualele modificări de orar.",
+              "Aveți la dvs. bani mărunți pentru bilet.",
+              "O gustare mică ajută la trecerea timpului în stații.",
+              "Autobuzele pot avea întârzieri în caz de ploaie torențială."
+            ],
+            "en": [
+              "Check for any schedule changes before you head out.",
+              "Keep small change ready for buying tickets.",
+              "Carry a small snack to bridge any waiting time at stops.",
+              "Buses may experience delays during heavy rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Pehčevo im Winter mit den öffentlichen Verkehrsmitteln. Starten Sie am zentralen Platz und nutzen Sie das Museum als wärmenden Stopp. Die Busfahrt in Richtung Ravna Reka bietet einen Blick auf die verschneite Berglandschaft. Ein kurzer Spaziergang führt Sie zu den beeindruckend gefrorenen Wasserfällen. Da die Busse im Winter seltener fahren könnten, planen Sie Ihre Rückkehr für ein spätes Mittagessen im warmen Zentrum rechtzeitig ein.",
+            "hu": "Fedezze fel a téli Pehčevót tömegközlekedéssel. Kezdje a főtéren, a múzeumban pedig melegedjen fel. A Ravna Reka felé tartó buszút során gyönyörködhet a havas hegyi tájban. Rövid séta után érheti el a lenyűgöző befagyott vízeséseket. Mivel télen ritkább lehet a buszjárat, tervezze meg időben a visszautat egy meleg ebéthez a városközpontban.",
+            "ro": "Descoperiți orașul Pehčevo iarna folosind transportul public. Începeți în piață și vizitați muzeul pentru a vă încălzi. Călătoria cu autobuzul spre Ravna Reka oferă priveliști montane superbe. O scurtă plimbare vă duce la cascadele înghețate spectaculoase. Deoarece autobuzele pot circula mai rar iarna, planificați revenirea pentru prânz în centrul călduros.",
+            "en": "Discover winter Pehčevo using public transport. Start at the town square and use the museum as a warm stop. The bus ride towards Ravna Reka offers views of the snowy mountain landscape. A short walk leads you to the impressive frozen waterfalls. As buses might run less frequently in winter, plan your return for a late lunch in the warm center in good time."
+          },
+          "stops": [
+            {
+              "name": "Pehčevo Town Square (Cluster A)",
+              "tip_5lang": {
+                "de": "Halten Sie sich in Bewegung, um beim Warten nicht auszukühlen.",
+                "hu": "Maradjon mozgásban, hogy ne fázzon meg várakozás közben.",
+                "ro": "Rămâneți în mișcare pentru a nu îngheța în timp ce așteptați.",
+                "en": "Keep moving to stay warm while waiting for the bus."
+              }
+            },
+            {
+              "name": "Museum of Pehčevo",
+              "tip_5lang": {
+                "de": "Die beste Gelegenheit, sich vor der Weiterfahrt aufzuwärmen.",
+                "hu": "A legjobb alkalom a felmelegedésre a továbbutazás előtt.",
+                "ro": "Cea mai bună ocazie de a vă încălzi înainte de a continua drumul.",
+                "en": "The best opportunity to warm up before continuing your journey."
+              }
+            },
+            {
+              "name": "Bus stop for Ravna Reka (Cluster B)",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Trittstufen beim Ein- und Aussteigen.",
+                "hu": "Vigyázzon a jeges lépcsőfokokkal a le- és felszálláskor.",
+                "ro": "Atenție la treptele înghețate la urcare și coborâre.",
+                "en": "Be careful of icy steps when getting on and off the bus."
+              }
+            },
+            {
+              "name": "Pehčevo Waterfalls",
+              "tip_5lang": {
+                "de": "Planen Sie genug Pufferzeit für den Weg zurück zum Bus ein.",
+                "hu": "Tervezzen elég időt a buszhoz való visszasétáláshoz.",
+                "ro": "Planificați suficient timp pentru drumul de întoarcere la bus.",
+                "en": "Allow plenty of time for the walk back to the bus stop."
+              }
+            },
+            {
+              "name": "Return to the center for a late lunch",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme der Gaststube nach dem Winterausflug.",
+                "hu": "Élvezze a vendéglő melegét a téli kirándulás után.",
+                "ro": "Bucurați-vă de căldura restaurantului după excursia de iarnă.",
+                "en": "Enjoy the warmth of the restaurant after your winter outing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne können von den Sommerzeiten abweichen.",
+              "Tragen Sie warme Schuhe mit dicker Sohle gegen die Bodenkälte.",
+              "Halten Sie ein Heißgetränk in einer Thermoskanne bereit.",
+              "Die letzte Busverbindung könnte früher sein als gewohnt."
+            ],
+            "hu": [
+              "A téli menetrend eltérhet a nyáritól, ellenőrizze.",
+              "Viseljen vastag talpú, meleg cipőt a talaj felőli hideg ellen.",
+              "Legyen önnél forró ital egy termosztátban.",
+              "Az utolsó buszjárat a szokásosnál korábban indulhat."
+            ],
+            "ro": [
+              "Orarele de iarnă pot diferi de cele de vară; verificați.",
+              "Purtați încălțăminte caldă cu talpă groasă contra frigului.",
+              "Aveți la dvs. o băutură caldă într-un termos.",
+              "Ultima cursă de autobuz poate fi mai devreme decât de obicei."
+            ],
+            "en": [
+              "Winter schedules may differ from summer ones; double-check.",
+              "Wear warm shoes with thick soles against the ground chill.",
+              "Keep a hot drink ready in a thermos flask.",
+              "The last bus connection might be earlier than usual."
+            ]
+          }
+        }
       }
     }
   }

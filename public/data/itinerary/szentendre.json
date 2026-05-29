@@ -379,6 +379,224 @@
           "Bring cash, as not all small shops and stalls accept cards.",
           "Szentendre is very popular on weekends, plan your visit on a weekday for fewer crowds."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Bahnhof und suchen Sie schnell ein Café am Bükkös-Bach auf. Mittags bieten die vielen Museen rund um den Hauptplatz perfekten Schutz vor dem Regen. Verbringen Sie den nassen Nachmittag gemütlich in den Margit Kovács und Szamos Museen. Am Abend spiegelt sich das Licht stimmungsvoll auf der regennassen Donaupromenade.",
+            "hu": "Reggel az állomásról érkezve érdemes hamar egy kávézóba húzódni a Bükkös-pataknál. Délben a Fő tér körüli múzeumok nyújtanak tökéletes menedéket a záporok elől. A délutánt töltsük szárazon, a Margit Kovács és a Szamos múzeumok kiállításait böngészve. Este a vizes macskaköveken és a Duna-parton megcsillanó fények különleges hangulatot adnak.",
+            "ro": "Dimineața, grăbiți-vă de la gară spre o cafenea de pe malul pârâului. La prânz, muzeele din jurul pieței principale oferă adăpostul perfect împotriva ploii. Petreceți după-amiaza umedă în interior, explorând muzeele Margit Kovács și Szamos. Seara, luminile se reflectă frumos pe promenada umedă a Dunării.",
+            "en": "Start at the station and quickly find a cozy cafe along the Bükkös stream. By noon, the museums around the Main Square provide perfect shelter from the showers. Spend the wet afternoon comfortably indoors at the Margit Kovács and Szamos museums. In the evening, enjoy how the lights reflect on the wet cobblestones of the Danube promenade."
+          },
+          "stops": [
+            {
+              "name": "HÉV Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Wartebereich, um den Schirm vorzubereiten.",
+                "hu": "A peronok fedett részein kényelmesen előkészítheti az esernyőt.",
+                "ro": "Folosiți zonele acoperite pentru a vă pregăti umbrela.",
+                "en": "Use the covered platform areas to get your umbrella ready."
+              }
+            },
+            {
+              "name": "Bükkös Stream Bank",
+              "tip_5lang": {
+                "de": "Die Wege können matschig sein, achten Sie auf Ihre Schritte.",
+                "hu": "A parti sétány esőben saras lehet, figyeljen a lépéseire.",
+                "ro": "Potecile pot fi noroioase pe ploaie, aveți grijă.",
+                "en": "The waterside paths can get muddy in the rain, watch your step."
+              }
+            },
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Vorsicht, das nasse Kopfsteinpflaster ist hier sehr rutschig.",
+                "hu": "Vigyázat, a vizes macskakő ezen a téren különösen csúszós.",
+                "ro": "Atenție, piatra cubică umedă este foarte alunecoasă aici.",
+                "en": "Be careful, the wet cobblestones are very slippery in this square."
+              }
+            },
+            {
+              "name": "Blagovestenska Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger und trockener Ort für eine Pause.",
+                "hu": "Csendes és száraz hely egy rövid pihenőre a zápor elől.",
+                "ro": "Un loc liniștit și uscat pentru a scăpa de ploaie.",
+                "en": "A quiet and dry place to escape the passing showers."
+              }
+            },
+            {
+              "name": "Margit Kovács Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren nassen Schirm am Eingang im Ständer.",
+                "hu": "A vizes esernyőket a bejárat melletti tartóban hagyhatja.",
+                "ro": "Lăsați umbrela udă în suportul de la intrare.",
+                "en": "You can leave your wet umbrella in the stand by the entrance."
+              }
+            },
+            {
+              "name": "Church Hill Viewpoint",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Sicht eingeschränkt, Vorsicht auf den Stufen.",
+                "hu": "Szakadó esőben a kilátás korlátozott, a lépcsők csúszhatnak.",
+                "ro": "Pe ploaie abundentă vizibilitatea scade, treptele pot aluneca.",
+                "en": "In heavy rain visibility is reduced, watch out on the steps."
+              }
+            },
+            {
+              "name": "Szamos Marzipan Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich hier mit einem heißen Kaffee und Marzipan auf.",
+                "hu": "Melegedjen fel egy forró kávéval és marcipánnal a benti kávézóban.",
+                "ro": "Încălziți-vă cu o cafea fierbinte și marțipan înăuntru.",
+                "en": "Warm up with a hot coffee and marzipan in the indoor cafe."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Der Wind weht oft stark vom Fluss, Regenjacke schließen.",
+                "hu": "A folyó felől erős lehet a szél, érdemes összehúzni a kabátot.",
+                "ro": "Vântul bate adesea puternic dinspre râu, încheiați geaca.",
+                "en": "Wind often blows strongly from the river, zip up your rain jacket."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe mit gutem Profil, da das Kopfsteinpflaster rutschig ist.",
+              "Ein kompakter Regenschirm ist ideal für die engen Gassen von Szentendre.",
+              "Die vielen Museen bieten hervorragende Möglichkeiten, längere Regengüsse abzuwarten.",
+              "Planen Sie mehr Zeit für Kaffeepausen ein, wenn das Wetter umschlägt."
+            ],
+            "hu": [
+              "Viseljen jó tapadású, vízálló cipőt, mert a macskaköves utcák nagyon csúsznak.",
+              "Egy kompakt esernyő ideális a szűk szentendrei sikátorok felfedezéséhez.",
+              "A város rengeteg múzeuma kiváló menedéket nyújt a hosszabb záporok idejére.",
+              "Tervezzen be több kávézós pihenőt a szárazföldi feltöltődéshez."
+            ],
+            "ro": [
+              "Purtați pantofi impermeabili cu aderență bună, piatra cubică alunecă.",
+              "O umbrelă compactă este ideală pentru străzile înguste din Szentendre.",
+              "Numeroasele muzee sunt excelente pentru a aștepta trecerea ploilor lungi.",
+              "Alocați mai mult timp pentru pauze de cafea când se strică vremea."
+            ],
+            "en": [
+              "Wear waterproof shoes with good grip, as the cobblestone streets get slippery.",
+              "A compact umbrella is ideal for navigating the narrow alleys of Szentendre.",
+              "The town's many museums offer great shelter during longer downpours.",
+              "Plan extra time for indoor cafe breaks to stay dry and comfortable."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Luft am Bahnhof frisch und die Stadt erwacht langsam. Mittags wärmen Sie sich bei einem Spaziergang über die Kopfsteinpflaster auf, bevor Sie die Museen erkunden. Der Nachmittag bietet sich für den Besuch des Marzipanmuseums an, wenn die Kälte zunimmt. Am frühen Abend erstrahlt die Donaupromenade bereits in festlicher Winterbeleuchtung.",
+            "hu": "Reggel a hűvös, friss levegőn indulunk az állomásról a lassan ébredező városba. Délben a macskaköves utcákon sétálva felfedezzük a Fő tér környékét, majd behúzódunk a múzeumokba. A fagyos délutánt a Szamos múzeum melegében érdemes tölteni. Kora este, ahogy gyorsan sötétedik, a Duna-part ünnepi fényekben pompázik.",
+            "ro": "Dimineața aerul este rece la gară, iar orașul se trezește încet. La prânz, vă încălziți plimbându-vă pe străzile pietruite înainte de a vizita muzeele. După-amiaza rece este perfectă pentru a sta la căldură în muzeul marțipanului. Seara devreme, promenada Dunării strălucește în lumini de iarnă.",
+            "en": "In the morning, the air is crisp at the station as the town slowly wakes up. By noon, warm up walking the cobblestone streets before heading inside the museums. Spend the freezing afternoon getting cozy inside the Szamos Marzipan Museum. By early evening, the Danube promenade is already glowing with festive winter lights."
+          },
+          "stops": [
+            {
+              "name": "HÉV Station",
+              "tip_5lang": {
+                "de": "Die Züge sind gut beheizt, bereiten Sie sich auf den Temperaturunterschied vor.",
+                "hu": "A vonatok jól fűtöttek, készüljön a kinti hideg levegőre való kilépésre.",
+                "ro": "Trenurile sunt bine încălzite, pregătiți-vă pentru aerul rece de afară.",
+                "en": "The trains are well heated, prepare for the temperature drop outside."
+              }
+            },
+            {
+              "name": "Bükkös Stream Bank",
+              "tip_5lang": {
+                "de": "Der Wind entlang des Baches kann eisig sein, Mütze nicht vergessen.",
+                "hu": "A patak mentén csípős lehet a szél, húzza a fejébe a sapkát.",
+                "ro": "Vântul de-a lungul pârâului poate fi înghețat, nu uitați căciula.",
+                "en": "The wind along the stream can be freezing, don't forget your beanie."
+              }
+            },
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Im Winter oft wunderschön dekoriert, ideal für Fotos.",
+                "hu": "Télen gyakran ünnepi díszkivilágítást kap a tér, remek fotótéma.",
+                "ro": "Adesea frumos decorat iarna, ideal pentru fotografii.",
+                "en": "Often beautifully decorated in winter, perfect for taking photos."
+              }
+            },
+            {
+              "name": "Blagovestenska Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte, behalten Sie die Jacke an.",
+                "hu": "A vastag falak tartják a hideget, bent is érdemes kabátban maradni.",
+                "ro": "Zidurile groase țin frigul, păstrați geaca pe dumneavoastră.",
+                "en": "The thick walls keep the cold in, you might want to keep your coat on."
+              }
+            },
+            {
+              "name": "Margit Kovács Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre dicke Winterkleidung.",
+                "hu": "Használja a ruhatárat a vastag télikabátok elhelyezésére.",
+                "ro": "Folosiți garderoba pentru hainele groase de iarnă.",
+                "en": "Use the cloakroom to drop off your heavy winter coats."
+              }
+            },
+            {
+              "name": "Church Hill Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Treppenstufen auf dem Weg nach oben.",
+                "hu": "Fagyos napokon a felvezető lépcsők és kövek jegesek lehetnek.",
+                "ro": "Atenție la treptele înghețate pe drumul spre vârf.",
+                "en": "Watch out for icy steps and stones on the way up."
+              }
+            },
+            {
+              "name": "Szamos Marzipan Museum",
+              "tip_5lang": {
+                "de": "Probieren Sie hier eine heiße Schokolade zum Aufwärmen.",
+                "hu": "Egy forró csokoládé itt tökéletes a gyors átmelegedéshez.",
+                "ro": "Încercați o ciocolată caldă aici pentru a vă încălzi.",
+                "en": "Try a hot chocolate here to quickly warm up your hands."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Gegen 16:00 Uhr wird es dunkel, genießen Sie die Abendlichter.",
+                "hu": "Délután 4 körül már sötétedik, élvezze a kigyúló fényeket.",
+                "ro": "În jur de 16:00 se întunecă, bucurați-vă de luminile de seară.",
+                "en": "It gets dark around 4 PM, perfect for enjoying the evening lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ziehen Sie sich warm in Schichten an, der Wind an der Donau kann sehr kalt sein.",
+              "Beachten Sie die verkürzten Winteröffnungszeiten vieler kleiner Museen.",
+              "Die Sonne geht im Winter früh unter (oft schon gegen 16:00 Uhr), starten Sie also pünktlich.",
+              "Vorsicht auf dem Kopfsteinpflaster, das bei Frost tückisch glatt werden kann."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a Duna felől érkező fagyos szél csökkenti a hőérzetet.",
+              "Ellenőrizze a téli nyitvatartást, sok kis múzeum korábban zár a szezonban.",
+              "Télen a nap már délután 4 óra körül lemegy, érdemes a sétát korán kezdeni.",
+              "Fagyos napokon a macskakő különösen csúszós lehet, lépkedjen óvatosan."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, vântul de pe Dunăre poate fi foarte rece.",
+              "Verificați programul de iarnă, multe muzee mici închid mai devreme.",
+              "Soarele apune devreme iarna (în jur de 16:00), așa că începeți la timp.",
+              "Atenție pe piatra cubică, care poate deveni foarte alunecoasă la îngheț."
+            ],
+            "en": [
+              "Dress warmly in layers, as the wind off the Danube can significantly drop the temperature.",
+              "Check for winter opening hours, as many smaller museums close earlier.",
+              "Sunset is early in winter (often around 4 PM), so try to start your day on time.",
+              "Be careful on the cobblestones, which can become treacherous when frosty."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +947,188 @@
           "Check your tire pressure before the longer ride to Skanzen.",
           "A bike map or navigation app is helpful for finding the best routes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt auf dem Donauradweg erfordert regenfeste Kleidung. Mittags erreichen Sie das Freilichtmuseum, wo die Wege etwas matschig sein können. Verbringen Sie den Nachmittag bei Schauern im Trockenen der Skanzen-Mühle. Am späten Nachmittag radeln Sie vorsichtig über das nasse Kopfsteinpflaster zurück zur Fähre.",
+            "hu": "A reggeli tekerés a Duna-parti kerékpárúton vízálló öltözéket kíván. Délben a Skanzenhez érve számoljon az eső áztatta, saras földutakkal. A délutáni záporok idején a Skanzen malma nyújt kiváló száraz menedéket. Késő délután óvatosan guruljon vissza a vizes szentendrei macskaköveken a komphoz.",
+            "ro": "Plimbarea de dimineață pe pista de biciclete necesită haine impermeabile. La prânz, ajungeți la Muzeul Satului, unde potecile pot fi noroioase. Petreceți după-amiaza ploioasă la adăpost în Moara Skanzen. Spre seară, pedalați cu grijă pe piatra cubică umedă înapoi la feribot.",
+            "en": "The morning ride on the Danube bike path requires good rain gear. By noon, arrive at the Open Air Museum where the dirt paths might be muddy. Spend the rainy afternoon sheltered inside the historic Skanzen Mill. In the late afternoon, ride carefully over the wet cobblestones back to the ferry."
+          },
+          "stops": [
+            {
+              "name": "Danube Bike Path",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen und rutschiges Laub auf dem Radweg.",
+                "hu": "Figyeljen a kerékpárúton felgyűlő tócsákra és a csúszós falevelekre.",
+                "ro": "Atenție la bălți și frunze alunecoase pe pista de biciclete.",
+                "en": "Watch out for puddles and slippery leaves on the bike path."
+              }
+            },
+            {
+              "name": "Skanzen Open Air Museum",
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege hier werden bei Regen schnell zu Schlamm.",
+                "hu": "A skanzen földútjai esőben hamar sarassá válhatnak.",
+                "ro": "Drumurile neasfaltate de aici devin repede noroioase pe ploaie.",
+                "en": "The unpaved roads here quickly turn to mud in the rain."
+              }
+            },
+            {
+              "name": "Skanzen Mill",
+              "tip_5lang": {
+                "de": "Ein hervorragender überdachter Ort, um den Regen abzuwarten.",
+                "hu": "Kiváló fedett helyszín, ahol kényelmesen kivárhatja az eső végét.",
+                "ro": "Un loc acoperit excelent pentru a aștepta trecerea ploii.",
+                "en": "An excellent covered spot to wait out the passing rain."
+              }
+            },
+            {
+              "name": "Szentendre Old Town",
+              "tip_5lang": {
+                "de": "Nasses Kopfsteinpflaster ist für Reifen extrem rutschig, besser schieben.",
+                "hu": "A vizes macskakő életveszélyes a gumiknak, a belvárosban inkább tolja.",
+                "ro": "Piatra cubică umedă este alunecoasă, mai bine împingeți bicicleta.",
+                "en": "Wet cobblestones are extremely slippery for tires, better walk your bike here."
+              }
+            },
+            {
+              "name": "Ferry Station",
+              "tip_5lang": {
+                "de": "Die Metallrampen zur Fähre können bei Nässe glatt sein.",
+                "hu": "A komphoz vezető fémrámpák nagyon csúsznak, ha vizesek.",
+                "ro": "Rampele metalice spre feribot pot fi alunecoase când sunt ude.",
+                "en": "The metal ramps to the ferry can be very slick when wet."
+              }
+            },
+            {
+              "name": "Postás Beach",
+              "tip_5lang": {
+                "de": "Bei Regen kaum besucht, aber ein ruhiger Blick auf den Fluss.",
+                "hu": "Esőben kihalt a part, de a folyó hangulata így is megkapó.",
+                "ro": "Aproape pustiu pe ploaie, dar oferă o priveliște liniștită.",
+                "en": "Empty during the rain, but offers a moody view of the river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie gut sichtbare, reflektierende Regenkleidung, da die Sicht bei Regen eingeschränkt ist.",
+              "Vermeiden Sie starkes Bremsen auf dem Kopfsteinpflaster der Altstadt, es ist extrem rutschig.",
+              "Im Skanzen werden die Wege matschig; Schutzbleche am Fahrrad sind hier von Vorteil.",
+              "Verpacken Sie elektronische Geräte und Wertsachen in wasserdichten Taschen."
+            ],
+            "hu": [
+              "Viseljen jól láthatósági esőkabátot, mert a szürke időben nehezebben veszik észre a kerékpárosokat.",
+              "Kerülje az erős fékezést a belváros macskakövein, nedvesen kifejezetten csúsznak a gumik.",
+              "A Skanzen földútjai sarasak lesznek, a sárvédő nagyon hasznos ezen a szakaszon.",
+              "A telefont és az értékeket feltétlenül vízálló táskában vagy tasakban tartsa."
+            ],
+            "ro": [
+              "Purtați haine de ploaie reflectorizante, vizibilitatea scade pe ploaie.",
+              "Evitați frânarea bruscă pe piatra cubică din centrul vechi, este foarte alunecoasă.",
+              "La Skanzen potecile devin noroioase; aripile la bicicletă sunt un avantaj.",
+              "Împachetați electronicele și obiectele de valoare în pungi impermeabile."
+            ],
+            "en": [
+              "Wear high-visibility rain gear, as driver visibility is reduced during showers.",
+              "Avoid hard braking on the old town's cobblestones; wet stones act like ice for bike tires.",
+              "The dirt paths in the Skanzen turn to mud; having mudguards will save your clothes.",
+              "Make sure to pack your phone and valuables in a dry bag or waterproof pouch."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen am Donauradweg weckt die Lebensgeister. Mittags erreichen Sie das weitläufige Freilichtmuseum, wo der kalte Wind dicke Kleidung erfordert. Am Nachmittag wärmen Sie sich in der Altstadt bei einem heißen Getränk auf. Beenden Sie die Tour an der Fähre, bevor die winterliche Dunkelheit früh hereinbricht.",
+            "hu": "A fagyos reggeli levegő a Duna-parti tekerésnél azonnal felébreszt. Délben a tágas Skanzenhez érve a nyílt terepen elkél a vastag téli réteg. A hideg délutánon a szentendrei óváros kávézóiban érdemes forró itallal melegedni. Érjen a komphoz kora este, még mielőtt a téli sötétség teljesen leszállna.",
+            "ro": "Dimineața geroasă pe pista de biciclete vă trezește simțurile. La prânz, ajungeți la Muzeul Satului, unde vântul rece necesită haine groase. După-amiaza, vă încălziți în centrul vechi cu o băutură caldă. Terminați turul la feribot înainte ca întunericul iernii să cadă devreme.",
+            "en": "The frosty morning air on the bike path instantly wakes you up. By noon, reach the open Skanzen where the winter wind demands thick layers. Spend the cold afternoon warming up with a hot drink in the old town. Finish the ride at the ferry just before the early winter darkness settles in."
+          },
+          "stops": [
+            {
+              "name": "Danube Bike Path",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe in den Schattenbereichen.",
+                "hu": "A fák árnyékában maradó szakaszokon számítson ráfagyott nedvességre.",
+                "ro": "Atenție la polei în zonele umbrite de pe traseu.",
+                "en": "Watch out for black ice in the shaded areas of the path."
+              }
+            },
+            {
+              "name": "Skanzen Open Air Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie vorher, welche Häuser im Winter überhaupt geöffnet sind.",
+                "hu": "Télen ellenőrizze előre, mely tájegységek házai látogathatók.",
+                "ro": "Verificați din timp ce case sunt deschise pe timpul iernii.",
+                "en": "Check ahead to see which exhibition houses are open in winter."
+              }
+            },
+            {
+              "name": "Skanzen Mill",
+              "tip_5lang": {
+                "de": "Hier pfeift oft der Wind, bleiben Sie warm eingepackt.",
+                "hu": "Itt gyakran átsüvít a szél, tartsa magán a meleg kabátot.",
+                "ro": "Vântul suflă des pe aici, rămâneți bine înfofoliți.",
+                "en": "The wind often cuts through here, keep your layers on tight."
+              }
+            },
+            {
+              "name": "Szentendre Old Town",
+              "tip_5lang": {
+                "de": "Steigen Sie ab; kalte Reifen haben weniger Grip auf dem Stein.",
+                "hu": "Szálljon le; a hideg gumik kevésbé tapadnak a köveken.",
+                "ro": "Descălecați; anvelopele reci au aderență redusă pe piatră.",
+                "en": "Dismount your bike; cold tires have much less grip on the stone."
+              }
+            },
+            {
+              "name": "Ferry Station",
+              "tip_5lang": {
+                "de": "Auf der Fähre ist der Wind auf dem Fluss besonders beißend.",
+                "hu": "A kompon a nyílt víz feletti szél különösen metsző lehet.",
+                "ro": "Pe feribot, vântul de pe râu este deosebit de tăios.",
+                "en": "The wind over the open river on the ferry can be biting cold."
+              }
+            },
+            {
+              "name": "Postás Beach",
+              "tip_5lang": {
+                "de": "Ein schöner, ruhiger Ort, um Eisschollen auf dem Fluss zu beobachten.",
+                "hu": "Szép, csendes pont, ha úszó jégtáblákat szeretne nézni a Dunán.",
+                "ro": "Un loc liniștit, frumos pentru a vedea sloiuri de gheață pe râu.",
+                "en": "A beautiful, quiet spot to watch ice floes drift down the river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermokleidung und winddichte Handschuhe sind für die Abfahrten unerlässlich.",
+              "Informieren Sie sich über die Winteröffnungszeiten des Skanzen, diese sind oft stark verkürzt.",
+              "Achten Sie in den Kurven auf Raureif oder überfrierende Nässe auf dem Asphalt.",
+              "Starten Sie die Tour rechtzeitig, um vor der frühen Dunkelheit (ab 16 Uhr) fertig zu sein."
+            ],
+            "hu": [
+              "A menetszél miatt a thermo aláöltözet és a szélálló kesztyű elengedhetetlen a tekeréshez.",
+              "Mindenképp ellenőrizze a Skanzen téli nyitvatartását, gyakran csak limitáltan látogatható.",
+              "A reggeli órákban fokozottan figyeljen a kerékpárúton kialakuló zúzmarára és jégfoltokra.",
+              "Kalkulálja be a korai (16:00 körüli) sötétedést, legyen jó minőségű lámpája a biciklin."
+            ],
+            "ro": [
+              "Hainele termice și mănușile rezistente la vânt sunt esențiale pentru pedalat.",
+              "Informați-vă despre programul de iarnă al Skanzenului, care este adesea redus.",
+              "Atenție la brumă sau polei pe asfalt în curbe, mai ales dimineața.",
+              "Începeți turul la timp pentru a termina înainte de întunericul timpuriu (ora 16)."
+            ],
+            "en": [
+              "Thermal baselayers and windproof gloves are absolutely essential to handle the wind chill.",
+              "Verify the winter opening times for the Open Air Museum, as they are often heavily restricted.",
+              "Be extremely cautious of hoarfrost or hidden black ice on the paths, especially in the morning.",
+              "Bring strong bike lights and plan your route knowing that it will be completely dark by 4:30 PM."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1085,6 +1485,206 @@
           "Some streets in the centre are pedestrian-only.",
           "Note that parking meters often only accept coins."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens parken Sie bequem zentral, um dem Regen auf dem kurzen Weg zum Hauptplatz zu entgehen. Mittags fahren Sie im trockenen Auto zum Freilichtmuseum, auch wenn dort die Wege nass sind. Den verregneten Nachmittag verbringen Sie größtenteils drinnen oder auf der Panoramastraße im Auto. Am späten Nachmittag parken Sie nahe der Promenade für einen kurzen Blick auf den Fluss.",
+            "hu": "Reggel a központi parkolóban hagyva az autót, gyorsan beérhet a Fő tér fedett részeire. Délben kényelmes, száraz autózással éri el a Skanzent, bár ott számítani kell az esőre. A csapadékos délután nagy részét autózással vagy fedett látnivalóknál tölti. Késő délután a Duna-part mellett parkolva élvezheti a vizes városképet.",
+            "ro": "Dimineața parcați central pentru a evita ploaia pe drumul scurt spre piață. La prânz conduceți la adăpost spre Muzeul Satului, chiar dacă potecile sunt ude acolo. Petreceți după-amiaza ploioasă mai mult în interior sau pe drumul panoramic în mașină. Spre seară, parcați lângă promenadă pentru o privire scurtă asupra râului.",
+            "en": "In the morning, park centrally to minimize walking in the rain to the Main Square. By noon, enjoy a dry drive to the Open Air Museum, though expect wet paths once there. Spend the rainy afternoon exploring indoor sites or admiring the views from the warm car on the panoramic road. Late afternoon, park right by the promenade for a quick river view."
+          },
+          "stops": [
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Haben Sie den Regenschirm griffbereit, bevor Sie aussteigen.",
+                "hu": "Már kiszállás előtt készítse elő az esernyőt a csomagtartóból.",
+                "ro": "Aveți umbrela la îndemână înainte de a ieși din mașină.",
+                "en": "Have your umbrella easily accessible before you step out."
+              }
+            },
+            {
+              "name": "Szentendre Main Square",
+              "tip_5lang": {
+                "de": "Die Wege vom Parkplatz sind bei Nässe rutschig.",
+                "hu": "A parkolóból a térre vezető rövid séta is csúszós lehet esőben.",
+                "ro": "Drumurile de la parcare sunt alunecoase când sunt ude.",
+                "en": "The short walk from the parking area can be slick in the rain."
+              }
+            },
+            {
+              "name": "Serbian Cathedral",
+              "tip_5lang": {
+                "de": "Ein prächtiges, trockenes Interieur, das zum Verweilen einlädt.",
+                "hu": "Pompás, száraz belső tér, ahol érdemes hosszabban elidőzni.",
+                "ro": "Un interior uscat și magnific, care vă invită să zăboviți.",
+                "en": "A magnificent, dry interior where you can wait out the rain."
+              }
+            },
+            {
+              "name": "Skanzen Entrance",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann tiefe Pfützen haben, parken Sie vorsichtig.",
+                "hu": "A murvás parkolóban mély tócsák lehetnek, álljon meg óvatosan.",
+                "ro": "Parcarea poate avea bălți adânci, parcați cu atenție.",
+                "en": "The dirt parking lot can have deep puddles, park carefully."
+              }
+            },
+            {
+              "name": "Folk Architecture Quarter",
+              "tip_5lang": {
+                "de": "Viele der historischen Häuser bieten keinen Regenschutz.",
+                "hu": "A tájházak közötti sétákon szinte végig esni fog önre, készüljön.",
+                "ro": "Multe dintre casele istorice nu oferă protecție împotriva ploii.",
+                "en": "You'll be exposed to the rain walking between the historic houses."
+              }
+            },
+            {
+              "name": "Pilis Panoramic Road",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, bei starkem Regen ist die Sicht eingeschränkt.",
+                "hu": "Erős esőben csökken a látótávolság és csúszik az erdei út, lassítson.",
+                "ro": "Conduceți încet, vizibilitatea este redusă în ploaie abundentă.",
+                "en": "Drive slowly, visibility is reduced and the forest road is slick."
+              }
+            },
+            {
+              "name": "Danube Promenade Parking",
+              "tip_5lang": {
+                "de": "Hier können Sie auch aus dem trockenen Auto auf den Fluss schauen.",
+                "hu": "Ebből a parkolóból akár a meleg autóból is rálát a folyóra.",
+                "ro": "De aici puteți privi râul și din mașina uscată.",
+                "en": "You can enjoy a view of the river right from your dry car here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Das Auto ist ideal, um bei Regenwetter trocken zwischen der Altstadt und dem Skanzen zu pendeln.",
+              "Nehmen Sie Wechselschuhe im Auto mit, falls die Füße beim Spaziergang durch Pfützen nass werden.",
+              "Vorsicht auf der Panoramastraße im Pilisgebirge: Nasses Laub und Regen machen den Asphalt rutschig.",
+              "Das Parken nahe der Promenade ist praktisch, um bei Regenschauern schnell wieder im Trockenen zu sein."
+            ],
+            "hu": [
+              "Az autó a legjobb választás, ha esőben szeretné összekötni a belvárost és a távolabbi Skanzent.",
+              "Tartson egy váltócipőt a csomagtartóban, mert a Skanzen saras útjain könnyen átázhat a lábbeli.",
+              "A Pilisi panorámaúton fokozott óvatossággal vezessen, a vizes falevelek nagyon csúsznak.",
+              "A belvárosi fizetős parkolók esőben hamar megtelnek, de megérik az árukat a szárazságért."
+            ],
+            "ro": [
+              "Mașina este ideală pentru a naviga uscat între centrul vechi și Muzeul Satului pe ploaie.",
+              "Luați pantofi de schimb în mașină în caz că vă udați la picioare prin bălți.",
+              "Atenție pe drumul panoramic din Pilis: frunzele ude și ploaia fac asfaltul alunecos.",
+              "Parcarea lângă promenadă este practică pentru a reveni rapid la uscat în caz de aversă."
+            ],
+            "en": [
+              "A car is perfectly suited for traveling between the downtown and the Skanzen while staying dry.",
+              "Keep a spare pair of shoes in the trunk in case yours get muddy walking through the open air museum.",
+              "Exercise caution on the Pilis panoramic road; wet leaves and rain severely reduce tire traction.",
+              "Paying for premium parking right by the promenade is worth it to escape sudden downpours quickly."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am kalten Morgen genießen Sie die Sitzheizung, während Sie im Zentrum parken. Mittags fahren Sie entspannt durch die winterliche Landschaft zum Skanzen. Der Nachmittag erfordert warme Kleidung draußen, aber das Auto bringt Sie danach behaglich zur Panoramastraße. Am frühen Abend parken Sie am Donauufer und sehen den Frost aufleuchten.",
+            "hu": "A fagyos reggelen az ülésfűtést élvezve érkezik a központi parkolóba. Délben a téli tájon át, meleg autóval kényelmes a kijutás a Skanzenbe. A délutáni kinti sétához kell a vastag kabát, de utána a fűtött utastérben hajthat végig a panorámaúton. Kora este a parti parkolóból nézheti a fagyos folyót.",
+            "ro": "În dimineața rece, vă bucurați de scaunele încălzite în timp ce parcați în centru. La prânz, conduceți relaxat prin peisajul de iarnă spre Skanzen. După-amiaza necesită haine calde afară, dar mașina vă duce apoi confortabil pe drumul panoramic. Spre seară parcați pe malul Dunării.",
+            "en": "On a freezing morning, enjoy the heated seats before parking centrally in town. By noon, drive through the stark winter landscape out to the Skanzen in comfort. The afternoon requires heavy layers outside, but the warm car easily takes you up the panoramic road. Park by the river as early evening frost sets in."
+          },
+          "stops": [
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Scheiben kratzen nicht vergessen, falls Sie morgens starten.",
+                "hu": "Ha kora reggel indul, számoljon a szélvédő jégkaparásával.",
+                "ro": "Nu uitați să curățați parbrizul dacă porniți dimineața.",
+                "en": "Don't forget to scrape the ice off your windshield if starting early."
+              }
+            },
+            {
+              "name": "Szentendre Main Square",
+              "tip_5lang": {
+                "de": "Zentral parken lohnt sich bei Kälte, der Fußweg bleibt kurz.",
+                "hu": "Hidegben megéri a belvárosban parkolni, hogy rövidebb legyen a séta.",
+                "ro": "Parcarea centrală merită în frig, drumul pe jos rămâne scurt.",
+                "en": "Parking centrally is worth the cost in the cold to keep walking short."
+              }
+            },
+            {
+              "name": "Serbian Cathedral",
+              "tip_5lang": {
+                "de": "Der Steinboden in der Kirche ist im Winter extrem kalt.",
+                "hu": "A templom kőpadlója télen nagyon ontja a hideget, viseljen meleg cipőt.",
+                "ro": "Podeaua de piatră din biserică este extrem de rece iarna.",
+                "en": "The stone floor inside the cathedral radiates freezing cold in winter."
+              }
+            },
+            {
+              "name": "Skanzen Entrance",
+              "tip_5lang": {
+                "de": "Der riesige Parkplatz ist im Winter oft vereist, Vorsicht beim Gehen.",
+                "hu": "A hatalmas, nyílt parkolóban sokszor összefagy a latyak.",
+                "ro": "Parcarea uriașă este adesea înghețată iarna, grijă la mers.",
+                "en": "The large open parking lot often freezes over; walk carefully."
+              }
+            },
+            {
+              "name": "Folk Architecture Quarter",
+              "tip_5lang": {
+                "de": "Die Häuser sind teils ungeheizt, die Kälte zieht schnell durch.",
+                "hu": "A tájházak többsége fűtetlen, öltözzön fel mintha kint lenne.",
+                "ro": "Casele sunt parțial neîncălzite, frigul pătrunde rapid.",
+                "en": "Most of the historic houses are unheated, keep your winter gear on."
+              }
+            },
+            {
+              "name": "Pilis Panoramic Road",
+              "tip_5lang": {
+                "de": "Achtung: Im Pilisgebirge liegt oft Schnee, auch wenn das Tal frei ist.",
+                "hu": "Figyelem: A Pilisben gyakran van hó és jég, amikor a városban már nem.",
+                "ro": "Atenție: În munții Pilis este adesea zăpadă, chiar dacă valea e curată.",
+                "en": "Warning: The Pilis mountains often have snow and ice even when the town is clear."
+              }
+            },
+            {
+              "name": "Danube Promenade Parking",
+              "tip_5lang": {
+                "de": "Parken Sie hier, um den winterlichen Sonnenuntergang vom Auto aus zu sehen.",
+                "hu": "Álljon meg itt, ha az autóból szeretné nézni a téli naplementét.",
+                "ro": "Parcați aici pentru a vedea apusul de iarnă din mașină.",
+                "en": "Park here to watch the early winter sunset straight from your warm car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein Auto ist im Winter perfekt, um sich zwischen den Sehenswürdigkeiten schnell wieder aufzuwärmen.",
+              "Achten Sie auf Winterreifen: Die Panoramastraße im Pilis kann verschneit oder vereist sein.",
+              "Prüfen Sie, ob das Freilichtmuseum im tiefen Winter überhaupt geöffnet ist.",
+              "Verlassen Sie das Gebirge vor Einbruch der Dunkelheit (ca. 16:00 Uhr), da die Straßen schlecht beleuchtet sind."
+            ],
+            "hu": [
+              "Az autó kiváló menedék a fagyos napokon, a helyszínek közötti utakon jól felmelegedhet.",
+              "A téli gumi kötelező: a Pilisi panorámaút magasabban fekszik, gyakran havas vagy jeges.",
+              "Szervezésnél vegye figyelembe a Skanzen esetleges téli bezárását vagy rövidített nyitvatartását.",
+              "Igyekezzen a hegyi szakaszokat még sötétedés (16:00) előtt magunk mögött hagyni."
+            ],
+            "ro": [
+              "O mașină este perfectă iarna pentru a vă încălzi rapid între atracții.",
+              "Atenție la anvelopele de iarnă: drumul panoramic din Pilis poate fi înzăpezit sau înghețat.",
+              "Verificați dacă Muzeul Satului este deschis în mijlocul iernii.",
+              "Părăsiți munții înainte de lăsarea întunericului (aprox. 16:00), străzile sunt slab iluminate."
+            ],
+            "en": [
+              "Having a car in winter is perfect for quickly warming back up between different outdoor sites.",
+              "Winter tires are critical if you drive the panoramic road, as the elevation often brings snow and ice.",
+              "Double-check the Skanzen's website; they often have very limited opening days during deep winter.",
+              "Ensure you drive the mountain roads before 4 PM, as they are unlit and dangerous in the dark."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1441,6 +2041,206 @@
           "The HÉV trains can be crowded during peak hours.",
           "From the HÉV station, everything in the centre is easily accessible on foot."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens kommen Sie trocken mit der HÉV an und können direkt auf dem Markt stöbern. Mittags nehmen Sie bequem den Bus, um dem Regen auf dem Weg zum Skanzen zu entgehen. Der Nachmittag im Freilichtmuseum erfordert trotz Busfahrt einen Schirm. Am späten Nachmittag bringt Sie der Bus sicher zum Bahnhof zurück.",
+            "hu": "Reggel a száraz HÉV-szerelvényből kilépve rövid sétával elérheti a piac fedett részeit. Délben a belvárosból helyi busszal utazhat a Skanzenig, elkerülve az elázást. A délutánt a múzeumházak és a buszmegálló közötti esős séták jellemzik. Késő délután a fűtött járat visszarepíti a kényelmes HÉV állomásra.",
+            "ro": "Dimineața sosiți uscat cu HÉV-ul și puteți explora direct piața. La prânz luați confortabil autobuzul pentru a evita ploaia spre Skanzen. După-amiaza în muzeul satului necesită o umbrelă, în ciuda autobuzului. Spre seară, autobuzul vă aduce în siguranță înapoi la gară.",
+            "en": "Morning arrives dry on the HÉV train, allowing a quick dash to the covered market. By noon, catch the local bus to avoid getting soaked walking out to the Skanzen. Spend the rainy afternoon walking between museum exhibits with your umbrella handy. Late afternoon, the bus brings you comfortably back to the station."
+          },
+          "stops": [
+            {
+              "name": "HÉV Terminus",
+              "tip_5lang": {
+                "de": "Warten Sie bei Schauern unter dem großen Bahnhofsdach.",
+                "hu": "Nagyobb zápor esetén várjon a széles perontető alatt.",
+                "ro": "Așteptați sub acoperișul mare al gării în caz de aversă.",
+                "en": "Wait out heavy showers under the large station canopy."
+              }
+            },
+            {
+              "name": "Szentendre Market",
+              "tip_5lang": {
+                "de": "Die Marktzelt-Dächer bieten guten Schutz beim Stöbern.",
+                "hu": "A piaci sátrak és bódék tetői alatt viszonylag szárazon nézelődhet.",
+                "ro": "Acoperișurile corturilor din piață oferă o bună protecție.",
+                "en": "The market stall awnings provide decent cover from the rain."
+              }
+            },
+            {
+              "name": "City Center (Fő tér)",
+              "tip_5lang": {
+                "de": "Flüchten Sie bei plötzlichem Regen in eine der vielen Galerien.",
+                "hu": "Hirtelen eső esetén ugorjon be egy közeli galériába vagy kávézóba.",
+                "ro": "Refugiați-vă într-o galerie în caz de ploaie bruscă.",
+                "en": "Duck into one of the many galleries if a sudden downpour starts."
+              }
+            },
+            {
+              "name": "Bus 869 Stop",
+              "tip_5lang": {
+                "de": "Die Haltestelle hat ein kleines Wartehäuschen.",
+                "hu": "A megállóban van fedett váró, de esőben gyorsan megtelik.",
+                "ro": "Stația are un mic adăpost de așteptare.",
+                "en": "The bus stop has a small shelter, though it fills up fast in the rain."
+              }
+            },
+            {
+              "name": "Skanzen",
+              "tip_5lang": {
+                "de": "Der Weg von der Bushaltestelle zum Eingang ist nicht überdacht.",
+                "hu": "A buszmegállótól a bejáratig nyitott az út, nyissa ki az esernyőt.",
+                "ro": "Drumul de la stația de autobuz la intrare nu este acoperit.",
+                "en": "The path from the bus drop-off to the gates is completely exposed."
+              }
+            },
+            {
+              "name": "Skanzen Village Center",
+              "tip_5lang": {
+                "de": "Suchen Sie bei starkem Regen die größeren Ausstellungsgebäude auf.",
+                "hu": "Szakadó esőben válassza a nagyobb, zárt kiállítótereket.",
+                "ro": "Căutați clădirile expoziționale mai mari în ploaie abundentă.",
+                "en": "Seek out the larger enclosed exhibition buildings during heavy rain."
+              }
+            },
+            {
+              "name": "HÉV Station (return)",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihren Schirm kurz, bevor Sie in den Zug steigen.",
+                "hu": "Rázza le az esernyőjét, mielőtt felszáll a vonatra.",
+                "ro": "Uscați-vă puțin umbrela înainte de a urca în tren.",
+                "en": "Shake off your umbrella before boarding the train back to Budapest."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Bus 869 ist bei Regen Gold wert, um den langen Fußweg zum Freilichtmuseum zu sparen.",
+              "Laden Sie die BudapestGO App herunter, um Busfahrpläne zu prüfen und nicht im Regen zu warten.",
+              "Ein klappbarer Schirm ist im öffentlichen Verkehr praktischer als ein großer Stockschirm.",
+              "Planen Sie etwas Puffer ein, Busse können sich bei schlechtem Wetter verspäten."
+            ],
+            "hu": [
+              "Szakadó esőben a 869-es busz életmentő, megspórolja a hosszú, nyitott sétát a Skanzenig.",
+              "Használja a BudapestGO appot, hogy ne kelljen sokat az esőben állni a megállóban.",
+              "A tömegközlekedésen az összecsukható esernyő sokkal praktikusabb, nem foglal sok helyet.",
+              "Rossz időben a buszok lassabban haladhatnak, hagyjon rá 10 percet a csatlakozásoknál."
+            ],
+            "ro": [
+              "Autobuzul 869 merită aur pe ploaie, economisind drumul lung pe jos spre Muzeul Satului.",
+              "Descărcați aplicația BudapestGO pentru a verifica orarele și a nu aștepta în ploaie.",
+              "O umbrelă pliabilă este mai practică în transportul public decât una mare clasică.",
+              "Lăsați o marjă de timp, autobuzele pot întârzia pe vreme rea."
+            ],
+            "en": [
+              "Taking Bus 869 is a lifesaver in the rain, saving you a long, fully exposed walk to the Skanzen.",
+              "Use the BudapestGO app for real-time bus tracking so you aren't waiting outside in the wet.",
+              "A compact folding umbrella is much easier to manage on crowded local buses.",
+              "Allow a bit of extra time, as traffic in the rain can delay local transit schedules slightly."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am frostigen Morgen bringt Sie die warme HÉV direkt nach Szentendre. Mittags fahren Sie nach einem Bummel im Zentrum mit dem geheizten Bus komfortabel zum Freilichtmuseum. Der kalte Nachmittag im Freien wird durch die warmen Transitphasen angenehmer. Am frühen Abend steigen Sie in den hellen, warmen Zug für die Rückfahrt.",
+            "hu": "A hideg téli reggelen a jól fűtött HÉV-vel érkezik a városba. Délben, a belvárosi séta után, a meleg busz kellemes felüdülés a Skanzen felé. A fagyos kinti múzeumi délutánt jól ellensúlyozzák a buszozások. Kora este, a sötétben a kivilágított állomásról indul vissza a fővárosba.",
+            "ro": "În dimineața geroasă, HÉV-ul cald vă aduce direct la Szentendre. La prânz, după o plimbare în centru, luați autobuzul încălzit spre Muzeul Satului. După-amiaza rece afară devine mai plăcută datorită etapelor calde de tranzit. Seara devreme, urcați în trenul luminos și cald pentru întoarcere.",
+            "en": "On a freezing morning, the heated HÉV train delivers you right to Szentendre. By noon, escape the cold town center by catching the warm bus out to the Open Air Museum. The freezing outdoor afternoon is made bearable by the cozy transit rides. By early evening, step into the brightly lit train back to the city."
+          },
+          "stops": [
+            {
+              "name": "HÉV Terminus",
+              "tip_5lang": {
+                "de": "Die Züge sind gut beheizt, ziehen Sie sich im Waggon ruhig etwas aus.",
+                "hu": "A szerelvényeken meleg van, érdemes kigombolni a kabátot utazás közben.",
+                "ro": "Trenurile sunt bine încălzite, puteți să vă dezbrăcați puțin în vagon.",
+                "en": "The trains run very warm, you'll want to unzip your winter coat inside."
+              }
+            },
+            {
+              "name": "Szentendre Market",
+              "tip_5lang": {
+                "de": "Im Winter gibt es hier oft heißen Tee oder Glühwein.",
+                "hu": "Télen sokszor kapható itt forró tea és forralt bor az átmelegedéshez.",
+                "ro": "Iarna găsiți adesea aici ceai fierbinte sau vin fiert.",
+                "en": "You can often find hot tea or mulled wine here in the winter months."
+              }
+            },
+            {
+              "name": "City Center (Fő tér)",
+              "tip_5lang": {
+                "de": "Die Wege zwischen den Gassen sind oft windig, Mütze aufsetzen.",
+                "hu": "A szűk utcák behúzzák a jeges szelet, a sapka kötelező.",
+                "ro": "Străzile dintre alei sunt adesea vântoase, puneți-vă căciula.",
+                "en": "The narrow alleys create a wind tunnel effect, definitely wear a hat."
+              }
+            },
+            {
+              "name": "Bus 869 Stop",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan rechtzeitig, um nicht in der Kälte zu stehen.",
+                "hu": "Időzítse az érkezést az induláshoz, hogy ne fagyjon oda a megállóban.",
+                "ro": "Verificați orarul din timp pentru a nu sta în frig.",
+                "en": "Time your arrival to the timetable so you don't stand freezing outside."
+              }
+            },
+            {
+              "name": "Skanzen",
+              "tip_5lang": {
+                "de": "Das offene Gelände ist eiskalt, der Bus bringt Sie bis zum Tor.",
+                "hu": "A nyílt terep farkasordítóan hideg lehet, de a busz a kapuig visz.",
+                "ro": "Terenul deschis este extrem de rece, autobuzul vă duce până la poartă.",
+                "en": "The open terrain here is freezing, luckily the bus drops you at the gate."
+              }
+            },
+            {
+              "name": "Skanzen Village Center",
+              "tip_5lang": {
+                "de": "Tauschen Sie sich über die warmen Öfen in den alten Häusern aus.",
+                "hu": "Télen néhány házban be is fűtenek a régi kemencékbe.",
+                "ro": "Bucurați-vă de sobele calde din casele vechi.",
+                "en": "Look out for the few historic houses that light their traditional stoves in winter."
+              }
+            },
+            {
+              "name": "HÉV Station (return)",
+              "tip_5lang": {
+                "de": "Im Wartesaal können Sie sich vor der Rückfahrt aufwärmen.",
+                "hu": "A fűtött váróteremben kényelmesen megvárhatja az indulást.",
+                "ro": "Vă puteți încălzi în sala de așteptare înainte de drumul de întoarcere.",
+                "en": "You can wait in the heated indoor ticket area until your train arrives."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die beheizten Busse und Bahnen als willkommene Aufwärmphasen zwischen den Stopps.",
+              "Vorsicht, die Busse zum Skanzen fahren im Winter oft nach einem ausgedünnten Fahrplan.",
+              "Kaufen Sie Tickets vorab in der App, damit Sie in der Kälte nicht am Automaten hantieren müssen.",
+              "Das Warten an zugigen Haltestellen erfordert dicke Handschuhe und Schals."
+            ],
+            "hu": [
+              "A fűtött HÉV és a helyi buszok tökéletesek arra, hogy visszanyerje a testhőmérsékletét.",
+              "Télen ritkább a buszközlekedés a Skanzen felé, nagyon figyeljen a téli menetrendre.",
+              "Vegye meg a jegyet a BudapestGO appban, így nem kell a fagyos automatával vesződnie.",
+              "A buszmegállók a folyó közelében nagyon huzatosak, sál és vastag kesztyű ajánlott."
+            ],
+            "ro": [
+              "Folosiți autobuzele și trenurile încălzite ca pauze binevenite pentru încălzire.",
+              "Atenție, autobuzele spre Skanzen circulă adesea cu un orar redus iarna.",
+              "Cumpărați bilete în avans din aplicație pentru a nu sta la tonomat în frig.",
+              "Așteptarea în stațiile cu curent necesită mănuși groase și fulare."
+            ],
+            "en": [
+              "Treat the well-heated local buses and trains as essential warming stations between your outdoor walks.",
+              "Be highly aware that the bus schedule out to the Skanzen is often significantly reduced in winter.",
+              "Buy your transit passes in the BudapestGO app so you don't have to use touchscreens with freezing fingers.",
+              "Waiting at exposed bus stops near the river will require heavy gloves and a thick scarf."
+            ]
+          }
+        }
       }
     }
   }

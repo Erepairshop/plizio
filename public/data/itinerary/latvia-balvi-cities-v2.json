@@ -386,6 +386,206 @@
           "Check the opening hours for the museum and manor in advance.",
           "A small umbrella is always a good idea; the weather can change quickly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Kulturzentrum Balvi einen trockenen Start. Mittags vertiefen wir uns im Museum in die Geschichte von Lettgallen, während es draußen regnet. Nachmittags spazieren wir unter Schirmen durch den Schlosspark und besuchen die Kathedrale. Den Abend lassen wir am Balvi-See ausklingen, wo die Regentropfen auf der Wasseroberfläche eine ruhige Atmosphäre schaffen.",
+            "hu": "A reggelt a Balvi Kulturális Központ fedett falai között kezdjük. Délben a múzeum nyújt menedéket a záporok elől, ahol megismerjük Latgale múltját. Délután esernyővel járjuk be a kastélyparkot és a befagyott tó partját, majd megcsodáljuk a székesegyházat. Az este a tóparti sétányon ér véget, figyelve a víz felszínén koppanó esőcseppeket.",
+            "ro": "Dimineața începe la Centrul de Cultură, feriți de ploaie. La prânz, explorăm istoria regiunii Latgale în muzeu, un refugiu perfect. După-amiaza vizităm conacul și parcul cu umbrelele pregătite, apoi intrăm în catedrală. Seara se încheie pe malul lacului Balvi, unde sunetul ploii pe apă creează o ambianță relaxantă și melancolică.",
+            "en": "Morning starts at the Balvi Culture Centre, sheltered from the rain. At noon, the museum provides a dry haven to explore Latgale's history. Afternoon includes a walk to the manor and park with umbrellas, followed by a visit to the cathedral. The evening ends by Lake Balvi, watching raindrops ripple across the water in a peaceful setting."
+          },
+          "stops": [
+            {
+              "name": "Balvi Culture Centre",
+              "tip_5lang": {
+                "de": "Trockener Eingangsbereich.",
+                "hu": "Fedett bejárat és váró.",
+                "ro": "Zonă de intrare acoperită.",
+                "en": "Covered entrance area."
+              }
+            },
+            {
+              "name": "Balvi Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort bei Dauerregen.",
+                "hu": "Tökéletes menedék esőben.",
+                "ro": "Refugiu ideal pentru ploaie.",
+                "en": "Perfect shelter for rain."
+              }
+            },
+            {
+              "name": "Monument to the Partisans of Latgale",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter Bäumen.",
+                "hu": "Gyors fotó az aszfaltról.",
+                "ro": "Oprire scurtă pe asfalt.",
+                "en": "Quick stop on paved path."
+              }
+            },
+            {
+              "name": "Balvi Manor",
+              "tip_5lang": {
+                "de": "Innenbesichtigung empfohlen.",
+                "hu": "Érdemes bemenni a kiállításra.",
+                "ro": "Vizitați expoziția interioară.",
+                "en": "Indoor exhibition recommended."
+              }
+            },
+            {
+              "name": "Lāča dārzs Park (Bear Garden)",
+              "tip_5lang": {
+                "de": "Achtung, rutschige Wege.",
+                "hu": "Vigyázat, csúszós ösvények.",
+                "ro": "Atenție la aleile alunecoase.",
+                "en": "Careful on slippery paths."
+              }
+            },
+            {
+              "name": "Cathedral of the Nativity of Christ",
+              "tip_5lang": {
+                "de": "Stiller Rückzugsort.",
+                "hu": "Csendes, száraz pihenőhely.",
+                "ro": "Loc de odihnă liniștit și uscat.",
+                "en": "Quiet, dry place of rest."
+              }
+            },
+            {
+              "name": "Lake Balvi",
+              "tip_5lang": {
+                "de": "Überdachte Bänke am Ufer.",
+                "hu": "Fedett padok a parton.",
+                "ro": "Bănci acoperite pe mal.",
+                "en": "Covered benches on the shore."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist in Lettgallen Pflicht.",
+              "Die Gehwege im Park können bei Nässe rutschig sein.",
+              "Nutzen Sie das Museum für eine längere Pause.",
+              "Wasserdichte Schuhe sind für die Uferwege ratsam."
+            ],
+            "hu": [
+              "Latgaléban az eső makacs, vigyen erős esernyőt.",
+              "A parki ösvények sárgulhatnak eső után.",
+              "A múzeumban töltsön több időt a szárazon.",
+              "A tóparti sétához vízálló cipő javasolt."
+            ],
+            "ro": [
+              "Ploaia în Latgale poate fi persistentă, luați umbrela.",
+              "Aleile din parc pot deveni noroioase.",
+              "Folosiți muzeul pentru o pauză lungă de la ploaie.",
+              "Încălțămintea impermeabilă este necesară pe mal."
+            ],
+            "en": [
+              "Rain in Latgale can be persistent; bring a sturdy umbrella.",
+              "Park paths can get muddy after heavy rain.",
+              "Spend more time in the museum to stay dry.",
+              "Waterproof shoes are advised for the lakeside walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch am Kulturzentrum. Mittags wärmen wir uns im Balvi-Museum auf und erfahren Spannendes über die Region. Nachmittags glitzert der Schnee im Park Lāča dārzs und am alten Herrenhaus. Die Kathedrale bietet einen besinnlichen Moment, bevor wir den frühen Sonnenuntergang über dem gefrorenen Balvi-See bei klirrender Kälte beobachten.",
+            "hu": "A fagyos téli reggel a Kulturális Központnál indul. Délben a Balvi Múzeum fűtött termeiben melegedünk fel, miközben helyi történeteket hallgatunk. Délután a Lāča dārzs park és a kastély havas tája vár ránk. A székesegyház után a befagyott Balvi-tó felett nézzük végig a korai naplementét a tiszta, hideg levegőben.",
+            "ro": "Dimineața geroasă începe la Centrul de Cultură. La prânz, ne încălzim în sălile Muzeului Balvi, descoperind legende locale. După-amiaza, zăpada strălucește în parcul Lāča dărzs și lângă conac. După un moment de liniște la catedrală, admirăm apusul timpuriu peste lacul Balvi înghețat, în aerul tăios de iarnă.",
+            "en": "A frosty winter morning begins at the Culture Centre. At noon, we warm up in the Balvi Museum while learning about local legends. Afternoon reveals a snowy wonderland in Lāča dārzs Park and the manor grounds. After a quiet moment at the cathedral, we watch the early sunset over the frozen Lake Balvi in the crisp winter air."
+          },
+          "stops": [
+            {
+              "name": "Balvi Culture Centre",
+              "tip_5lang": {
+                "de": "Drinnen aufwärmen möglich.",
+                "hu": "Bent lehet melegedni.",
+                "ro": "Posibilitate de încălzire în interior.",
+                "en": "Warming up inside is possible."
+              }
+            },
+            {
+              "name": "Balvi Museum",
+              "tip_5lang": {
+                "de": "Gut beheizte Ausstellungsräume.",
+                "hu": "Jól fűtött kiállítótermek.",
+                "ro": "Săli de expoziție bine încălzite.",
+                "en": "Well-heated exhibition rooms."
+              }
+            },
+            {
+              "name": "Monument to the Partisans of Latgale",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schnee auf Stufen.",
+                "hu": "Vigyázat a havas lépcsőkön.",
+                "ro": "Atenție la treptele cu zăpadă.",
+                "en": "Careful on snowy steps."
+              }
+            },
+            {
+              "name": "Balvi Manor",
+              "tip_5lang": {
+                "de": "Prachtvoll im weißen Kleid.",
+                "hu": "Gyönyörű a havas tájban.",
+                "ro": "Splendid în peisajul de iarnă.",
+                "en": "Beautiful in the snow."
+              }
+            },
+            {
+              "name": "Lāča dārzs Park (Bear Garden)",
+              "tip_5lang": {
+                "de": "Schneeräumung unregelmäßig.",
+                "hu": "Hótakarítás nem garantált.",
+                "ro": "Deszăpezire neregulată.",
+                "en": "Snow removal is irregular."
+              }
+            },
+            {
+              "name": "Cathedral of the Nativity of Christ",
+              "tip_5lang": {
+                "de": "Warmer Rückzugsort.",
+                "hu": "Meleg, békés belső tér.",
+                "ro": "Interior cald și liniștit.",
+                "en": "Warm and peaceful interior."
+              }
+            },
+            {
+              "name": "Lake Balvi",
+              "tip_5lang": {
+                "de": "Betreten der Eisfläche riskant.",
+                "hu": "Jégre lépni veszélyes lehet.",
+                "ro": "Accesul pe gheață este riscant.",
+                "en": "Stepping on ice is risky."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Temperaturen fallen oft unter -10 Grad.",
+              "Die Sonne geht bereits gegen 16:00 Uhr unter.",
+              "Tragen Sie Thermokleidung und Wollsocken.",
+              "Im Park kann es stellenweise sehr glatt sein."
+            ],
+            "hu": [
+              "A hőmérséklet gyakran -10 fok alá süllyed.",
+              "A nap már 16:00 körül lemegy.",
+              "Réteges öltözet és hótaposó javasolt.",
+              "A parkban néhol jeges lehet az út."
+            ],
+            "ro": [
+              "Temperaturile scad adesea sub -10 grade.",
+              "Soarele apune deja în jurul orei 16:00.",
+              "Purtați haine termice și șosete de lână.",
+              "În parc poate fi foarte polei pe alocuri."
+            ],
+            "en": [
+              "Temperatures often drop below -10°C.",
+              "Sunset is early, around 16:00.",
+              "Wear thermal layers and wool socks.",
+              "Paths in the park can be very icy."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -393,7 +593,7 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "17:15",
-      "total_km": 3.3,
+      "total_km": 9.5,
       "stop_count": 8,
       "stops": [
         {
@@ -790,6 +990,224 @@
           "Bring a bike lock to secure your bike at stops.",
           "Many of the paths around the lake are unpaved, so ride with care."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet am See, wo wir trotz Regen die Natur genießen. Mittags fahren wir zur Kathedrale und zum Kulturzentrum. Nachmittags bietet das Museum eine willkommene Pause im Trockenen. Den Abschluss bilden das Denkmal und das Herrenhaus, wobei wir auf den nassen Straßen besonders vorsichtig navigieren, bis wir den Tag im Lāča dārzs Park beenden.",
+            "hu": "A bringázás a tónál indul, az eső ellenére is friss a levegő. Délben a székesegyház és a művelődési ház felé tekerünk. Délután a múzeum biztosít száraz pihenőt. Végül az emlékmű és a kastély következik, óvatosan haladva a vizes aszfalton, majd a napot a Lāča dārzs parkban zárjuk a csendes esőben.",
+            "ro": "Turul cu bicicleta începe la lac, savurând natura în ciuda ploii. La prânz pedalăm spre catedrală și centrul cultural. După-amiaza, muzeul oferă o pauză binemeritată la uscat. Încheiem cu monumentul și conacul, navigând cu grijă pe străzile ude, finalizând traseul în parcul Lāča dărzs.",
+            "en": "The bike tour starts at the lake, enjoying nature despite the rain. At noon, we pedal towards the cathedral and culture centre. Afternoon brings a welcome dry break at the museum. We conclude with the monument and manor, carefully navigating wet streets, ending the day in Lāča dārzs Park under the gentle rain."
+          },
+          "stops": [
+            {
+              "name": "Lake Balvi",
+              "tip_5lang": {
+                "de": "Rutschige Uferwege.",
+                "hu": "Csúszós parti utak.",
+                "ro": "Piste umede pe mal.",
+                "en": "Slippery shore paths."
+              }
+            },
+            {
+              "name": "Garden of Stones",
+              "tip_5lang": {
+                "de": "Glatte Steine bei Nässe.",
+                "hu": "Vizesen csúszós kövek.",
+                "ro": "Pietre alunecoase când sunt ude.",
+                "en": "Stones are slippery when wet."
+              }
+            },
+            {
+              "name": "Cathedral of the Nativity of Christ",
+              "tip_5lang": {
+                "de": "Fahrradständer am Eingang.",
+                "hu": "Bringatároló a bejáratnál.",
+                "ro": "Suport biciclete la intrare.",
+                "en": "Bike racks at the entrance."
+              }
+            },
+            {
+              "name": "Balvi Culture Centre",
+              "tip_5lang": {
+                "de": "Unterstand am Gebäude.",
+                "hu": "Eresz alatti várakozó.",
+                "ro": "Adăpost lângă clădire.",
+                "en": "Shelter near the building."
+              }
+            },
+            {
+              "name": "Balvi Museum",
+              "tip_5lang": {
+                "de": "Zeit zum Trocknen nutzen.",
+                "hu": "Ideje megszárítkozni.",
+                "ro": "Timp pentru uscare interior.",
+                "en": "Time to dry off inside."
+              }
+            },
+            {
+              "name": "Monument to the Partisans of Latgale",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen.",
+                "hu": "Óvatosan fékezzen.",
+                "ro": "Frânați cu prudență.",
+                "en": "Brake with caution."
+              }
+            },
+            {
+              "name": "Balvi Manor",
+              "tip_5lang": {
+                "de": "Gravel-Pfade sind fest.",
+                "hu": "A kavicsos utak stabilak.",
+                "ro": "Potecile cu pietriș sunt ferme.",
+                "en": "Gravel paths remain firm."
+              }
+            },
+            {
+              "name": "Lāča dārzs Park (Bear Garden)",
+              "tip_5lang": {
+                "de": "Pfützen auf den Wegen.",
+                "hu": "Tócsák az ösvényeken.",
+                "ro": "Bălți pe poteci.",
+                "en": "Puddles on the paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Regen unverzichtbar.",
+              "Vermeiden Sie scharfes Bremsen auf Laub.",
+              "Wasserdichte Packtaschen schützen Ihr Gepäck.",
+              "Die Sichtweite kann bei starkem Regen sinken."
+            ],
+            "hu": [
+              "Sárvédő nélkül ne induljon el esőben.",
+              "Kerülje a hirtelen fékezést a vizes leveleken.",
+              "A vízálló táska kötelező felszerelés.",
+              "Erős esőben a látótávolság jelentősen csökken."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale pe ploaie.",
+              "Evitați frânarea bruscă pe frunze ude.",
+              "Genzile impermeabile vă protejează bagajul.",
+              "Vizibilitatea poate scădea în timpul ploii torențiale."
+            ],
+            "en": [
+              "Mudguards are essential for rainy rides.",
+              "Avoid sharp braking on wet leaves.",
+              "Waterproof panniers protect your gear.",
+              "Visibility can decrease during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start mit dem Rad am Balvi-See. Mittags geht es durch die verschneite Stadt zur Kathedrale und zum Kulturzentrum. Nachmittags wärmen wir uns im Museum auf, bevor wir das Partisanen-Denkmal besuchen. Den Abend verbringen wir am Herrenhaus und im Lāča dārzs Park, wobei wir die winterliche Stille auf zwei Rädern genießen.",
+            "hu": "Deres reggel a bringán a Balvi-tó partján. Napközben a havas városon át tekerünk a székesegyházhoz és a művelődési házhoz. Délután a múzeumban engednek ki tagjaink, majd megnézzük a partizán emlékművet. Az estét a kastélynál és a Lāča dārzs parkban zárjuk, élvezve a téli csendet a két keréken.",
+            "ro": "Start înghețat pe bicicletă pe malul lacului Balvi. La prânz traversăm orașul înzăpezit spre catedrală și centrul cultural. După-amiaza ne încălzim la muzeu înainte de a vizita monumentul partizanilor. Seara o petrecem lângă conac și în parcul Lāča dărzs, savurând liniștea iernii pe două roți.",
+            "en": "A frosty start on the bike by Lake Balvi. At noon, we ride through the snowy town to the cathedral and culture centre. Afternoon brings a warm-up session at the museum before visiting the partisan monument. We spend the evening at the manor and Lāča dărzs Park, enjoying the winter silence on two wheels."
+          },
+          "stops": [
+            {
+              "name": "Lake Balvi",
+              "tip_5lang": {
+                "de": "Kalter Wind vom Wasser.",
+                "hu": "Hideg szél fúj a tóról.",
+                "ro": "Vânt rece dinspre apă.",
+                "en": "Cold wind from the water."
+              }
+            },
+            {
+              "name": "Garden of Stones",
+              "tip_5lang": {
+                "de": "Steine oft vereist.",
+                "hu": "A kövek gyakran jegesek.",
+                "ro": "Pietrele sunt adesea înghețate.",
+                "en": "Stones are often icy."
+              }
+            },
+            {
+              "name": "Cathedral of the Nativity of Christ",
+              "tip_5lang": {
+                "de": "Räumung vor dem Eingang.",
+                "hu": "A bejárat előtt takarítják a havat.",
+                "ro": "Zăpadă curățată la intrare.",
+                "en": "Snow cleared at the entrance."
+              }
+            },
+            {
+              "name": "Balvi Culture Centre",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Aufwärmen.",
+                "hu": "Rövid melegedő megálló.",
+                "ro": "Scurt popas pentru încălzire.",
+                "en": "Short warm-up stop."
+              }
+            },
+            {
+              "name": "Balvi Museum",
+              "tip_5lang": {
+                "de": "Heißer Tee oft verfügbar.",
+                "hu": "Gyakran van forró tea.",
+                "ro": "Ceai cald disponibil adesea.",
+                "en": "Hot tea often available."
+              }
+            },
+            {
+              "name": "Monument to the Partisans of Latgale",
+              "tip_5lang": {
+                "de": "Zufahrtswege können glatt sein.",
+                "hu": "Az utak jegesek lehetnek.",
+                "ro": "Căile de acces pot fi alunecoase.",
+                "en": "Access paths can be icy."
+              }
+            },
+            {
+              "name": "Balvi Manor",
+              "tip_5lang": {
+                "de": "Schneeverwehungen möglich.",
+                "hu": "Hófúvásokra számítson.",
+                "ro": "Posibile troiene de zăpadă.",
+                "en": "Snowdrifts possible."
+              }
+            },
+            {
+              "name": "Lāča dārzs Park (Bear Garden)",
+              "tip_5lang": {
+                "de": "Tiefer Schnee abseits der Wege.",
+                "hu": "Mély hó az utakon kívül.",
+                "ro": "Zăpadă mare în afara potecilor.",
+                "en": "Deep snow off the paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen werden dringend empfohlen.",
+              "Tragen Sie winddichte Kleidung.",
+              "Der Akku von E-Bikes entlädt sich schneller.",
+              "Bremsen Sie frühzeitig wegen Glatteis."
+            ],
+            "hu": [
+              "Téli gumi vagy szöges gumi ajánlott.",
+              "Szélálló ruházat kötelező.",
+              "Az e-bike akkumulátora gyorsabban merül.",
+              "A jég miatt fékezzen időben."
+            ],
+            "ro": [
+              "Se recomandă anvelope cu crampoane.",
+              "Purtați îmbrăcăminte rezistentă la vânt.",
+              "Bateria bicicletelor electrice se descarcă rapid.",
+              "Frânați din timp din cauza poleiului."
+            ],
+            "en": [
+              "Studded tires are highly recommended.",
+              "Wear windproof clothing.",
+              "E-bike batteries drain faster in the cold.",
+              "Brake early due to potential ice patches."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1170,6 +1588,206 @@
           "Keep some small change for parking meters or small purchases.",
           "The cluster-walking method will save you time and stress finding parking."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen wir bequem den See trotz Regenschauern. Mittags parken wir im Zentrum für den Museumsbesuch. Nachmittags fahren wir zur prachtvollen Kathedrale und schließlich zum Herrenhaus. Die kurzen Wege zwischen Parkplatz und Sehenswürdigkeit halten uns trocken, während wir Balvi im Regen erkunden.",
+            "hu": "Autóval kényelmesen elérjük a tavat a záporok ellenére is. Délben a központban parkolunk a múzeumlátogatáshoz. Délután a székesegyházhoz, majd a kastélyhoz hajtunk. A parkolók és a látnivalók közötti rövid távolságoknak köszönhetően szárazon maradunk, miközben felfedezzük Balvi városát.",
+            "ro": "Cu mașina ajungem confortabil la lac în ciuda averselor. La prânz parcăm în centru pentru vizita la muzeu. După-amiaza conducem spre catedrală și apoi spre conac. Distanțele scurte între parcare și obiective ne mențin uscați în timp ce explorăm orașul Balvi pe ploaie.",
+            "en": "By car, we comfortably reach the lake despite the showers. At noon, we park in the center for the museum visit. Afternoon includes a drive to the cathedral and finally the manor. Short distances between parking and sights keep us dry while exploring Balvi in the rain."
+          },
+          "stops": [
+            {
+              "name": "Parking at Lake Balvi",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen.",
+                "hu": "Vigyázat a mély tócsákkal.",
+                "ro": "Atenție la bălțile adânci.",
+                "en": "Watch out for deep puddles."
+              }
+            },
+            {
+              "name": "Lake Balvi Walk",
+              "tip_5lang": {
+                "de": "Kurze Runde bei Regen.",
+                "hu": "Rövid kör esőben.",
+                "ro": "Tur scurt pe ploaie.",
+                "en": "Short walk in the rain."
+              }
+            },
+            {
+              "name": "Garden of Stones",
+              "tip_5lang": {
+                "de": "Parkplatz direkt daneben.",
+                "hu": "Parkoló közvetlenül mellette.",
+                "ro": "Parcare chiar lângă.",
+                "en": "Parking right next to it."
+              }
+            },
+            {
+              "name": "City Centre Parking",
+              "tip_5lang": {
+                "de": "Oft Pfützen auf dem Platz.",
+                "hu": "Gyakori tócsák a téren.",
+                "ro": "Bălți frecvente în parcare.",
+                "en": "Puddles common in the lot."
+              }
+            },
+            {
+              "name": "Balvi Museum",
+              "tip_5lang": {
+                "de": "Eingang nah am Parkplatz.",
+                "hu": "Bejárat a parkoló közelében.",
+                "ro": "Intrare aproape de parcare.",
+                "en": "Entrance near the parking."
+              }
+            },
+            {
+              "name": "Cathedral of the Nativity of Christ",
+              "tip_5lang": {
+                "de": "Gute Zufahrt möglich.",
+                "hu": "Jó megközelíthetőség.",
+                "ro": "Acces auto facil.",
+                "en": "Easy car access."
+              }
+            },
+            {
+              "name": "Balvi Manor and Park",
+              "tip_5lang": {
+                "de": "Bäume bieten etwas Schutz.",
+                "hu": "A fák némi védelmet adnak.",
+                "ro": "Copacii oferă puțin adăpost.",
+                "en": "Trees provide some shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer.",
+              "Einige Parkplätze sind unbefestigt.",
+              "Halten Sie Abstand bei Gischt.",
+              "Regenschirm im Auto griffbereit halten."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket.",
+              "Néhány parkoló nincs leaszfaltozva.",
+              "Tartson nagyobb követési távolságot.",
+              "Legyen kéznél az esernyő az autóban."
+            ],
+            "ro": [
+              "Verificați ștergătoarele de parbriz.",
+              "Unele parcări sunt neasfaltate.",
+              "Păstrați distanța în caz de vizibilitate redusă.",
+              "Țineți umbrela la îndemână în mașină."
+            ],
+            "en": [
+              "Check your windshield wipers.",
+              "Some parking areas are unpaved.",
+              "Increase following distance in heavy rain.",
+              "Keep an umbrella handy in the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Roadtrip durch das verschneite Balvi. Wir starten am See und genießen die warme Heizung im Auto. Mittags parken wir im Zentrum für das Museum. Nachmittags geht es zur Kathedrale und zum frostigen Herrenhauspark. Das Auto ist unser warmer Rückzugsort zwischen den beeindruckenden Fotostopps im lettgallischen Winter.",
+            "hu": "Téli autós kirándulás a havas Balviban. A tónál kezdünk, élvezve az autó melegét. Délben a központban parkolunk a múzeumnál. Délután a székesegyházhoz és a deres kastélyparkhoz hajtunk. Az autó a meleg menedékünk a lenyűgöző latgalei téli fotómegállók között.",
+            "ro": "O excursie de iarnă cu mașina prin Balvi înzăpezit. Începem la lac, bucurându-ne de căldura din mașină. La prânz parcăm în centru lângă muzeu. După-amiaza conducem spre catedrală și parcul înghețat al conacului. Mașina este refugiul nostru cald între opririle foto spectaculoase.",
+            "en": "A winter road trip through snowy Balvi. We start at the lake, enjoying the car's warmth. At noon, we park in the center for the museum. Afternoon includes a drive to the cathedral and the frosty manor park. The car serves as our warm retreat between impressive photo stops in the Latgalian winter."
+          },
+          "stops": [
+            {
+              "name": "Parking at Lake Balvi",
+              "tip_5lang": {
+                "de": "Räumung kann dauern.",
+                "hu": "A takarítás eltarthat egy ideig.",
+                "ro": "Deszăpezirea poate dura.",
+                "en": "Snow clearing may take time."
+              }
+            },
+            {
+              "name": "Lake Balvi Walk",
+              "tip_5lang": {
+                "de": "Fester Schnee am Ufer.",
+                "hu": "Letaposott hó a parton.",
+                "ro": "Zăpadă bătătorită pe mal.",
+                "en": "Packed snow on the shore."
+              }
+            },
+            {
+              "name": "Garden of Stones",
+              "tip_5lang": {
+                "de": "Einfahrt oft vereist.",
+                "hu": "A bejárat gyakran jeges.",
+                "ro": "Intrarea este adesea înghețată.",
+                "en": "Entrance often icy."
+              }
+            },
+            {
+              "name": "City Centre Parking",
+              "tip_5lang": {
+                "de": "Zentral und gut geräumt.",
+                "hu": "Központi, jól takarított.",
+                "ro": "Central și bine deszăpezit.",
+                "en": "Central and well-cleared."
+              }
+            },
+            {
+              "name": "Balvi Museum",
+              "tip_5lang": {
+                "de": "Warmlaufen lassen vermeiden.",
+                "hu": "Ne járassa álló helyben a motort.",
+                "ro": "Evitați încălzirea motorului pe loc.",
+                "en": "Avoid idling the engine too long."
+              }
+            },
+            {
+              "name": "Cathedral of the Nativity of Christ",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Wagen.",
+                "hu": "Rövid séta az autótól.",
+                "ro": "Scurtă plimbare de la mașină.",
+                "en": "Short walk from the car."
+              }
+            },
+            {
+              "name": "Balvi Manor and Park",
+              "tip_5lang": {
+                "de": "Parkplatz oft schneebedeckt.",
+                "hu": "A parkoló gyakran havas.",
+                "ro": "Parcare adesea acoperită de zăpadă.",
+                "en": "Parking often snow-covered."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind absolut Pflicht.",
+              "Eiskratzer und Besen einpacken.",
+              "Frostschutz für Scheiben prüfen.",
+              "Parken auf Schnee kann tückisch sein."
+            ],
+            "hu": [
+              "Téli gumi használata kötelező.",
+              "Legyen jégkaparó és kefe az autóban.",
+              "Ellenőrizze a fagyállót.",
+              "A havas parkolás trükkös lehet."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii.",
+              "Luați racleta și mătura de zăpadă.",
+              "Verificați lichidul antigel.",
+              "Parcarea pe zăpadă poate fi dificilă."
+            ],
+            "en": [
+              "Winter tires are mandatory.",
+              "Pack an ice scraper and snow brush.",
+              "Check antifreeze levels.",
+              "Parking on snow can be tricky."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1526,6 +2144,188 @@
           "Wave at the bus driver to ensure they stop for you.",
           "Plan for some buffer time, as buses can be delayed."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir nutzen den Bus, um trocken durch Balvi zu kommen. Morgens starten wir im Zentrum, mittags besuchen wir das Museum. Nachmittags bringt uns der Bus zum Herrenhaus und schließlich zum See. Die Wartezeiten verbringen wir in den überdachten Haltestellen, während der Regen gegen die Busscheiben trommelt.",
+            "hu": "Busszal közlekedünk, hogy szárazon maradjunk Balviban. Reggel a központban kezdünk, délben a múzeumot látogatjuk meg. Délután a busz a kastélyhoz, majd a tóhoz visz minket. A várakozási időt fedett megállókban töltjük, miközben az eső a busz ablakán kopog.",
+            "ro": "Folosim autobuzul pentru a rămâne uscați în Balvi. Dimineața începem în centru, la prânz vizităm muzeul. După-amiaza autobuzul ne duce la conac și în final la lac. Petrecem timpul de așteptare în stații acoperite, în timp ce ploaia bate în geamurile autobuzului.",
+            "en": "We use the bus to stay dry while moving through Balvi. Morning starts in the center, at noon we visit the museum. Afternoon takes us by bus to the manor and finally to the lake. Waiting times are spent in covered stops while rain drums against the bus windows."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop",
+              "tip_5lang": {
+                "de": "Großes Wartehäuschen.",
+                "hu": "Nagy váróterem.",
+                "ro": "Stație mare cu adăpost.",
+                "en": "Large shelter available."
+              }
+            },
+            {
+              "name": "Balvi Culture Centre",
+              "tip_5lang": {
+                "de": "Halt direkt vor der Tür.",
+                "hu": "Megálló közvetlenül az ajtó előtt.",
+                "ro": "Stație chiar în față.",
+                "en": "Stop right in front."
+              }
+            },
+            {
+              "name": "Balvi Museum",
+              "tip_5lang": {
+                "de": "Nahverkehr pünktlich.",
+                "hu": "A járatok pontosak.",
+                "ro": "Transportul este punctual.",
+                "en": "Buses are punctual."
+              }
+            },
+            {
+              "name": "Bus Stop at the Manor",
+              "tip_5lang": {
+                "de": "Überdachter Stopp.",
+                "hu": "Fedett megállóhely.",
+                "ro": "Stație acoperită.",
+                "en": "Covered bus stop."
+              }
+            },
+            {
+              "name": "Balvi Manor and Lāča dārzs Park",
+              "tip_5lang": {
+                "de": "Eingang in Sichtweite.",
+                "hu": "Bejárat látótávolságban.",
+                "ro": "Intrarea este vizibilă.",
+                "en": "Entrance within sight."
+              }
+            },
+            {
+              "name": "Bus Stop at the Lake",
+              "tip_5lang": {
+                "de": "Sitzbänke im Trockenen.",
+                "hu": "Padok a szárazon.",
+                "ro": "Bănci la adăpost.",
+                "en": "Benches in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne an den Haltestellen prüfen.",
+              "Kleingeld für Fahrkarten bereithalten.",
+              "Busse sind ein guter Regenschutz.",
+              "Abstand zur Fahrbahn wegen Spritzwasser."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet a megállókban.",
+              "Legyen aprópénz a jegyre.",
+              "A busz jó védelmet nyújt az eső ellen.",
+              "Álljon távol az úttesttől a felcsapódó víz miatt."
+            ],
+            "ro": [
+              "Verificați orarul în stații.",
+              "Aveți mărunțiș pentru bilet.",
+              "Autobuzul oferă protecție bună contra ploii.",
+              "Stați departe de carosabil din cauza stropilor."
+            ],
+            "en": [
+              "Check schedules at the stops.",
+              "Have small change ready for tickets.",
+              "Buses provide good rain protection.",
+              "Stand back from the road to avoid splashes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem beheizten Bus erkunden wir das winterliche Balvi. Morgens erreichen wir das Zentrum, mittags wärmen wir uns im Museum auf. Nachmittags bringt uns der Nahverkehr zum verschneiten Herrenhaus und zum frostigen See. Die warmen Busse sind eine Wohltat zwischen den Spaziergängen in der kalten lettischen Winterluft.",
+            "hu": "Fűtött busszal fedezzük fel a téli Balvit. Reggel a központba érkezünk, délben a múzeumban melegedünk fel. Délután a tömegközlekedés a havas kastélyhoz és a fagyos tóhoz visz minket. A meleg buszok igazi felüdülést jelentenek a hideg lett téli levegőn tett séták között.",
+            "ro": "Explorăm Balvi de iarnă cu autobuzul încălzit. Dimineața ajungem în centru, la prânz ne încălzim la muzeu. După-amiaza transportul public ne duce la conacul înzăpezit și la lacul înghețat. Autobuzele calde sunt o binecuvântare între plimbările în aerul rece de iarnă.",
+            "en": "We explore winter Balvi via heated buses. Morning brings us to the center, at noon we warm up in the museum. Afternoon transit takes us to the snowy manor and the frozen lake. The warm buses are a relief between walks in the cold Latvian winter air."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop",
+              "tip_5lang": {
+                "de": "Beheizter Warteraum.",
+                "hu": "Fűtött váróhelyiség.",
+                "ro": "Sală de așteptare încălzită.",
+                "en": "Heated waiting room."
+              }
+            },
+            {
+              "name": "Balvi Culture Centre",
+              "tip_5lang": {
+                "de": "Busse meist pünktlich.",
+                "hu": "A buszok többnyire pontosak.",
+                "ro": "Autobuzele sunt de obicei punctuale.",
+                "en": "Buses are usually on time."
+              }
+            },
+            {
+              "name": "Balvi Museum",
+              "tip_5lang": {
+                "de": "Kurzer Weg zur Haltestelle.",
+                "hu": "Rövid út a megállóig.",
+                "ro": "Drum scurt până la stație.",
+                "en": "Short walk to the stop."
+              }
+            },
+            {
+              "name": "Bus Stop at the Manor",
+              "tip_5lang": {
+                "de": "Streusalz im Haltestellenbereich.",
+                "hu": "Sózott terület a megállónál.",
+                "ro": "Sare pe jos în zona stației.",
+                "en": "Grit/salt in the stop area."
+              }
+            },
+            {
+              "name": "Balvi Manor and Lāča dārzs Park",
+              "tip_5lang": {
+                "de": "Frühzeitig zur Abfahrt kommen.",
+                "hu": "Érkezzen időben az induláshoz.",
+                "ro": "Veniți la timp pentru plecare.",
+                "en": "Arrive early for departure."
+              }
+            },
+            {
+              "name": "Bus Stop at the Lake",
+              "tip_5lang": {
+                "de": "Schutz vor kaltem Wind.",
+                "hu": "Védelem a hideg szél ellen.",
+                "ro": "Protecție contra vântului rece.",
+                "en": "Protection from cold wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter gut beheizt.",
+              "Winterfahrplan beachten.",
+              "Vorsicht beim Einsteigen (Glatteis).",
+              "Früher Sonnenuntergang begrenzt Sicht."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek.",
+              "Figyeljen a téli menetrendre.",
+              "Vigyázat felszálláskor (jeges lépcső).",
+              "A korai naplemente rontja a látási viszonyokat."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite iarna.",
+              "Respectați programul de iarnă.",
+              "Atenție la urcare (polei).",
+              "Apusul timpuriu limitează vizibilitatea."
+            ],
+            "en": [
+              "Buses are well-heated in winter.",
+              "Mind the winter schedule.",
+              "Be careful when boarding (icy steps).",
+              "Early sunset limits visibility."
+            ]
+          }
+        }
       }
     }
   }

@@ -256,6 +256,188 @@
           "The local wineries often require advanced booking for tastings.",
           "Check the museum's opening hours as they may vary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Urlați beginnt gemütlich auf dem Zentralplatz. Vormittags bietet das Museum für Ethnographie den perfekten Zufluchtsort vor dem Wetter. Mittags erkunden Sie das prächtige Herrenhaus Bellu, dessen Innenräume Sie trocken halten. Nachmittags führt ein kurzer Gang zur Steinkirche, bevor der Tag in den Weinbergen trotz Nieselregen mit einem Glas Wein endet.",
+            "hu": "Egy esős nap Urlați városában a főtéren indul. Délelőtt a Néprajzi Múzeum nyújt menedéket a csapadék elől, ahol elmerülhet a helyi kultúrában. Ebéd után a Bellu-kúria belső tereit érdemes felfedezni. Délután egy rövid séta vár a kőtemplomhoz, majd a napot a szőlőültetvények között, egy fedett teraszon, helyi borokkal zárhatja az eső ellenére is.",
+            "ro": "O zi ploioasă în Urlați începe în Piața Centrală. Dimineața, Muzeul de Etnografie oferă adăpostul perfect, permițând explorarea tradițiilor locale la interior. La prânz, vizitați Conacul Bellu, unde interioarele rafinate vă țin la uscat. După-amiaza include o scurtă plimbare spre Biserica de Piatră, iar ziua se încheie în podgorii, unde un pahar de vin compensează vremea gri.",
+            "en": "A rainy day in Urlați starts at the Central Square. In the morning, the Museum of Ethnography provides a dry refuge to explore local culture. Midday is spent inside the beautiful Bellu Manor. The afternoon features a brief walk to the Stone Church, followed by a visit to the vineyards, where the local wine tasting warms up the damp atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Zentraler Platz",
+              "tip_4lang": {
+                "de": "Kaffeehäuser am Platz bieten Schutz vor dem ersten Regenschauer.",
+                "hu": "A tér körüli kávézók jó menedéket nyújtanak az első záporok elől.",
+                "ro": "Cafenelele din piață oferă adăpost în fața primelor averse.",
+                "en": "Cafes around the square offer good shelter from early showers."
+              }
+            },
+            {
+              "name": "Denkmal des Aufstands von 1907",
+              "tip_4lang": {
+                "de": "Kurzer Stopp unter dem Schirm; der Weg zum Museum ist nah.",
+                "hu": "Gyors megálló esernyővel; a múzeum bejárata pár lépésre van.",
+                "ro": "Oprire scurtă cu umbrela; intrarea în muzeu este foarte aproape.",
+                "en": "Quick stop with an umbrella; the museum entrance is just steps away."
+              }
+            },
+            {
+              "name": "Museum für Ethnographie",
+              "tip_4lang": {
+                "de": "Ideal zum Aufwärmen und Trocknen während der Besichtigung.",
+                "hu": "Ideális hely a száradáshoz és melegedéshez a kiállítás alatt.",
+                "ro": "Loc ideal pentru a vă usca și încălzi în timpul vizitei.",
+                "en": "Perfect place to dry off and warm up while touring the exhibits."
+              }
+            },
+            {
+              "name": "Herrenhaus Bellu",
+              "tip_4lang": {
+                "de": "Die Innenausstellung ist umfassend und absolut regensicher.",
+                "hu": "A belső kiállítás bőséges és teljesen esővédett program.",
+                "ro": "Expoziția interioară este bogată și oferă protecție totală contra ploii.",
+                "en": "The indoor exhibition is extensive and fully protected from the rain."
+              }
+            },
+            {
+              "name": "Steinkirche",
+              "tip_4lang": {
+                "de": "Achten Sie auf die rutschigen Steinstufen am Eingang.",
+                "hu": "Vigyázzon a bejáratnál lévő csúszós kőlépcsőkre.",
+                "ro": "Atenție la treptele de piatră de la intrare, pot fi alunecoase.",
+                "en": "Watch out for the slippery stone steps at the entrance."
+              }
+            },
+            {
+              "name": "Urlați Weinberge",
+              "tip_4lang": {
+                "de": "Fragen Sie nach einer Weinprobe im Keller oder auf der Veranda.",
+                "hu": "Kérjen borkóstolót a pincében vagy a fedett teraszon.",
+                "ro": "Cereți o degustare în cramă sau pe terasa acoperită.",
+                "en": "Ask for a wine tasting in the cellar or on the covered terrace."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Wege zu den Weinbergen matschig sein können.",
+              "Nutzen Sie das Museum und das Herrenhaus für längere Regenpausen.",
+              "In Urlați gibt es mehrere Weinkeller, die Innenbesichtigungen anbieten.",
+              "Ein Taschenschirm ist bei Wind in den Hügeln praktischer als ein Stockschirm."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a szőlőbe vezető utak sárosak lehetnek.",
+              "Használja ki a múzeumot és a kúriát a hosszabb eső szüneteltetésére.",
+              "Urlați több pincészete is kínál beltéri látogatást és kóstolót.",
+              "A dombok közötti szélben a kisméretű esernyő praktikusabb."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, drumurile spre vii pot fi noroioase.",
+              "Folosiți muzeul și conacul pentru pauze mai lungi în caz de ploaie torențială.",
+              "Multe crame din Urlați oferă tururi și degustări la interior.",
+              "O umbrelă compactă este mai utilă pe dealurile unde vântul poate sufla tare."
+            ],
+            "en": [
+              "Wear waterproof shoes as vineyard paths can get muddy.",
+              "Take advantage of the museum and manor for longer breaks from the rain.",
+              "Many wineries in Urlați offer indoor tours and tastings.",
+              "A compact umbrella is more practical in the windy hills."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Urlați im Winter hat einen besonderen Charme. Der Morgen beginnt frisch am Zentralplatz, gefolgt von einer geschichtsträchtigen Tour durch das Museum. Mittags wärmt die aristokratische Atmosphäre des Herrenhauses Bellu das Herz. Der Nachmittag führt zur Steinkirche, bevor die Wintersonne früh über den kahlen, aber malerischen Weinbergen untergeht und zur gemütlichen Einkehr einlädt.",
+            "hu": "Urlați télen különleges nyugalmat áraszt. A reggel frissen indul a főtéren, majd a Néprajzi Múzeum melegében folytatódik. Ebédidőben a Bellu-kúria arisztokratikus belső terei nyújtanak felüdülést. Délután látogatás a kőtemplomnál, majd a korai naplemente előtt még megcsodálhatjuk a dérlepte szőlőskerteket egy pohár forralt bor társaságában.",
+            "ro": "Urlați iarna oferă o liniște aparte. Dimineața începe cu aer proaspăt în piață, urmată de o vizită la căldura Muzeului de Etnografie. La prânz, atmosfera aristocratică a Conacului Bellu vă va încânta. După-amiaza vizităm Biserica de Piatră, iar înainte de apusul timpuriu admirăm viile înghețate, încheind ziua cu un vin fiert local.",
+            "en": "Urlați in winter offers a serene atmosphere. Start your cold morning at the square, then warm up inside the Ethnography Museum. At noon, enjoy the historic interiors of Bellu Manor. The afternoon includes the Stone Church, finishing with a view of the frosty vineyards before the early winter sunset, ideally with a glass of mulled wine."
+          },
+          "stops": [
+            {
+              "name": "Zentraler Platz",
+              "tip_4lang": {
+                "de": "Warm anziehen; der Wind kann über den offenen Platz pfeifen.",
+                "hu": "Öltözzön rétegesen, a szél fagyos lehet a nyitott téren.",
+                "ro": "Îmbrăcați-vă gros; vântul poate fi tăios în piața deschisă.",
+                "en": "Dress warmly; the wind can be biting across the open square."
+              }
+            },
+            {
+              "name": "Denkmal des Aufstands von 1907",
+              "tip_4lang": {
+                "de": "Vorsicht vor vereisten Flächen rund um das Denkmal.",
+                "hu": "Vigyázzon a jeges foltokra az emlékmű környékén.",
+                "ro": "Atenție la porțiunile cu gheață din jurul monumentului.",
+                "en": "Watch out for icy patches around the monument."
+              }
+            },
+            {
+              "name": "Museum für Ethnographie",
+              "tip_4lang": {
+                "de": "Genießen Sie die gemütliche Wärme in den traditionellen Räumen.",
+                "hu": "Élvezze a hagyományos szobák barátságos melegét.",
+                "ro": "Bucurați-vă de căldura plăcută din încăperile tradiționale.",
+                "en": "Enjoy the cozy warmth inside the traditional rooms."
+              }
+            },
+            {
+              "name": "Herrenhaus Bellu",
+              "tip_4lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten vorab; es lohnt sich.",
+                "hu": "Ellenőrizze előre a téli nyitvatartást; megéri a látogatást.",
+                "ro": "Verificați programul de iarnă în prealabil; merită vizitat.",
+                "en": "Check winter opening hours in advance; it is well worth the visit."
+              }
+            },
+            {
+              "name": "Steinkirche",
+              "tip_4lang": {
+                "de": "Das Licht der tiefstehenden Wintersonne ist hier fantastisch.",
+                "hu": "Az alacsonyan járó téli nap fényei fantasztikusak itt.",
+                "ro": "Lumina soarelui de iarnă oferă un cadru fotografic superb aici.",
+                "en": "The low winter sun creates fantastic lighting here."
+              }
+            },
+            {
+              "name": "Urlați Weinberge",
+              "tip_4lang": {
+                "de": "Der Sonnenuntergang ist bereits gegen 16:30 Uhr; seien Sie pünktlich.",
+                "hu": "A naplemente már 16:30 körül bekövetkezik, érkezzen időben.",
+                "ro": "Apusul are loc în jur de 16:30; asigurați-vă că ajungeți la timp.",
+                "en": "Sunset is around 16:30; make sure to arrive on time for the view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Winterschuhe mit gutem Profil für die Hügelpfade.",
+              "Planen Sie die Außenstopps für die Mittagsstunden ein.",
+              "Die Sonne verschwindet im Dezember/Januar bereits vor 17:00 Uhr.",
+              "Fragen Sie in den Weingütern nach lokalem Glühwein."
+            ],
+            "hu": [
+              "Viseljen jó tapadású téli cipőt a domboldali utakhoz.",
+              "A szabadtéri megállókat érdemes a déli órákra időzíteni.",
+              "A nap decemberben és januárban már 17:00 előtt lemegy.",
+              "Kérdezzen rá a helyi pincészeteknél a forralt borra."
+            ],
+            "ro": [
+              "Purtați ghete de iarnă cu aderență bună pentru potecile de pe deal.",
+              "Planificați opririle în exterior pentru orele prânzului.",
+              "Soarele apune înainte de ora 17:00 în lunile decembrie și ianuarie.",
+              "Întrebați la cramele locale despre vinul fiert tradițional."
+            ],
+            "en": [
+              "Wear winter boots with good grip for the hilly paths.",
+              "Schedule outdoor stops for the midday hours.",
+              "The sun sets before 17:00 in December and January.",
+              "Ask local wineries about their traditional mulled wine."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -490,6 +672,188 @@
           "The roads to the monasteries can be hilly.",
           "Bring plenty of water for the ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert in Urlați gute Vorbereitung. Start am Platz, dann trockene Stunden im Museum. Die Fahrt zum Herrenhaus Bellu führt durch die Hügel, wo Vorsicht bei Nässe geboten ist. Das Highlight ist das Kloster Jercălăi, dessen Holzstruktur im Regen glänzt. Den Abschluss bildet das Herrenhaus Valea Crângului, ein sicherer Hafen für müde Radfahrer.",
+            "hu": "Egy esős bringatúra Urlați környékén felkészültséget igényel. Kezdés a téren, majd száraz órák a múzeumban. A Bellu-kúriához vezető dombos út nedvesen csúszhat, óvatosan hajtson. A Jercălăi-kolostor faszerkezete csodásan fénylik az esőben. A napot a Valea Crângului kúriánál zárjuk, amely biztos menedék a megfáradt kerékpárosoknak.",
+            "ro": "O tură cu bicicleta prin ploaie în Urlați necesită echipament adecvat. Începeți în piață, apoi refugiați-vă la muzeu. Drumul spre Conacul Bellu traversează dealuri unde carosabilul umed poate fi alunecos. Mănăstirea Jercălăi arată spectaculos în ploaie, iar finalul la Conacul Valea Crângului oferă confortul meritat după efort.",
+            "en": "A rainy bike tour in Urlați requires good gear. Start at the square, then spend dry hours at the museum. The ride to Bellu Manor involves hills where caution is needed on wet roads. Jercălăi Monastery shines beautifully in the rain. End the trip at Valea Crângului Manor, a perfect shelter for weary cyclists."
+          },
+          "stops": [
+            {
+              "name": "Zentraler Platz",
+              "tip_4lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie in die nassen Hügel fahren.",
+                "hu": "Ellenőrizze a fékeket, mielőtt a vizes domboknak indulna.",
+                "ro": "Verificați frânele înainte de a porni pe dealurile ude.",
+                "en": "Check your brakes before heading into the wet hills."
+              }
+            },
+            {
+              "name": "Museum für Ethnographie",
+              "tip_4lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder in der Nähe vorhanden.",
+                "hu": "Biztonságos kerékpárparkoló található a közelben.",
+                "ro": "Există locuri sigure de parcare pentru biciclete în apropiere.",
+                "en": "Safe bicycle parking is available nearby."
+              }
+            },
+            {
+              "name": "Herrenhaus Bellu",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Besuchszeit, um Ihre Regenbekleidung zu lüften.",
+                "hu": "Használja ki a látogatást az esőruházat szellőztetésére.",
+                "ro": "Folosiți timpul vizitei pentru a vă aerisi echipamentul de ploaie.",
+                "en": "Use the tour time to air out your rain gear."
+              }
+            },
+            {
+              "name": "Jercălăi-Kloster",
+              "tip_4lang": {
+                "de": "Der Weg hierher kann bei starkem Regen schlammig sein.",
+                "hu": "Az idevezető út heves esőzéskor sáros lehet.",
+                "ro": "Drumul până aici poate fi noroios în caz de ploaie torențială.",
+                "en": "The path here can be muddy during heavy rain."
+              }
+            },
+            {
+              "name": "Urlați Weinberge",
+              "tip_4lang": {
+                "de": "Meiden Sie unbefestigte Wege; bleiben Sie auf den Asphaltstraßen.",
+                "hu": "Kerülje a földutakat; maradjon az aszfaltozott szakaszokon.",
+                "ro": "Evitați drumurile de pământ; rămâneți pe cele asfaltate.",
+                "en": "Avoid dirt tracks; stick to the paved vineyard roads."
+              }
+            },
+            {
+              "name": "Valea Crângului Herrenhaus",
+              "tip_4lang": {
+                "de": "Ein hervorragender Ort, um den Tag im Trockenen ausklingen zu lassen.",
+                "hu": "Kiváló hely a nap befejezésére száraz, meleg környezetben.",
+                "ro": "Un loc excelent pentru a încheia ziua într-un cadru uscat și cald.",
+                "en": "An excellent place to end the day in a dry and warm setting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie steile Weinbergswege bei Nässe (Rutschgefahr).",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Tragen Sie neongelbe Regenkleidung für bessere Sichtbarkeit.",
+              "Planen Sie mehr Zeit für die Bremswege auf nassen Straßen ein."
+            ],
+            "hu": [
+              "Kerülje a meredek szőlőskerti utakat esőben (csúszásveszély).",
+              "A sárvédő elengedhetetlen kiegészítő ilyenkor a biciklin.",
+              "Viseljen élénk esőruházatot a jobb láthatóság érdekében.",
+              "Számoljon hosszabb féktávval a vizes aszfalton."
+            ],
+            "ro": [
+              "Evitați drumurile abrupte prin vii când sunt ude (risc de derapare).",
+              "Apărătorile de noroi sunt indispensabile pe acest tip de vreme.",
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate sporită.",
+              "Luați în calcul o distanță de frânare mai mare pe drumuri ude."
+            ],
+            "en": [
+              "Avoid steep vineyard paths in the rain due to slipping risks.",
+              "Mudguards are essential on your bike in this weather.",
+              "Wear high-visibility rain gear for better safety on the roads.",
+              "Allow for longer braking distances on wet surfaces."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Radfahren in Urlați ist erfrischend. Nach dem Start am Platz bieten das Museum und das Herrenhaus Bellu wichtige Aufwärmstopps. Die Route zum Jercălăi-Kloster führt durch die stille Winterlandschaft der Prahova-Hügel. Der Nachmittag in den Weinbergen bietet klare Luft, bevor Sie sich im Herrenhaus Valea Crângului bei einem heißen Getränk regenerieren.",
+            "hu": "A téli kerékpározás Urlați környékén felfrissítő élmény. A főtéri rajt után a múzeum és a Bellu-kúria fontos melegedőpontok. A Jercălăi-kolostorhoz vezető út a Prahova-dombság csendes téli tájain visz keresztül. A szőlőskertek tiszta levegője után a Valea Crângului kúriánál egy forró itallal nyerheti vissza erejét.",
+            "ro": "Ciclismul de iarnă în Urlați este revigorant. După startul din piață, muzeul și Conacul Bellu sunt puncte esențiale de încălzire. Traseul spre Mănăstirea Jercălăi oferă peisaje hibernale superbe pe dealurile Prahovei. După aerul curat din vii, relaxați-vă cu o băutură caldă la Conacul Valea Crângului.",
+            "en": "Winter cycling in Urlați is invigorating. After starting at the square, the museum and Bellu Manor serve as vital warming stations. The route to Jercălăi Monastery showcases the quiet winter landscapes of the Prahova hills. Enjoy the crisp air in the vineyards before recovering with a hot drink at Valea Crângului Manor."
+          },
+          "stops": [
+            {
+              "name": "Zentraler Platz",
+              "tip_4lang": {
+                "de": "Achten Sie auf kalten Fahrtwind; Stirnband oder Mütze unter den Helm.",
+                "hu": "Figyeljen a hideg szélre; viseljen fejpántot a sisak alatt.",
+                "ro": "Atenție la vântul rece; purtați o bandană sau căciulă sub cască.",
+                "en": "Beware of cold wind; wear a headband or cap under your helmet."
+              }
+            },
+            {
+              "name": "Museum für Ethnographie",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Stopp, um die Blutzirkulation in den Fingern anzuregen.",
+                "hu": "Használja a megállót az ujjak vérkeringésének serkentésére.",
+                "ro": "Folosiți oprirea pentru a vă activa circulația în degete.",
+                "en": "Use this stop to get the circulation back into your fingers."
+              }
+            },
+            {
+              "name": "Herrenhaus Bellu",
+              "tip_4lang": {
+                "de": "Im Winter sind die Wege im Park oft schneebedeckt und ruhig.",
+                "hu": "Télen a park útjai gyakran hóval borítottak és nagyon csendesek.",
+                "ro": "Iarna, aleile parcului sunt adesea acoperite de zăpadă și liniștite.",
+                "en": "In winter, the park paths are often snow-covered and very quiet."
+              }
+            },
+            {
+              "name": "Jercălăi-Kloster",
+              "tip_4lang": {
+                "de": "Die Holzfassade wirkt im Winterfrost besonders eindrucksvoll.",
+                "hu": "A homlokzat faborítása lenyűgöző a téli zúzmarában.",
+                "ro": "Structura din lemn arată impresionant sub chiciura iernii.",
+                "en": "The wooden structure looks impressive under the winter frost."
+              }
+            },
+            {
+              "name": "Urlați Weinberge",
+              "tip_4lang": {
+                "de": "Vorsicht vor gefrorenen Pfützen auf den Schattenseiten der Hügel.",
+                "hu": "Vigyázzon a fagyott tócsákra a dombok árnyékos oldalán.",
+                "ro": "Atenție la bălțile înghețate de pe versanții umbriți ai dealurilor.",
+                "en": "Watch out for frozen puddles on the shaded sides of the hills."
+              }
+            },
+            {
+              "name": "Valea Crângului Herrenhaus",
+              "tip_4lang": {
+                "de": "Perfekter Ort für eine heiße Suppe oder Tee nach der Tour.",
+                "hu": "Tökéletes hely egy forró levesre vagy teára a túra után.",
+                "ro": "Locul perfect pentru o supă caldă sau un ceai după tură.",
+                "en": "The perfect place for a hot soup or tea after your ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Mehrlagige Kleidung (Zwiebelprinzip) ist überlebenswichtig.",
+              "Trinken Sie ausreichend, auch wenn Sie bei Kälte weniger Durst haben.",
+              "Akku-Check: Kälte lässt Handy- und Lampenakkus schneller leeren.",
+              "Schattenstellen im Weinberg können auch tagsüber glatt bleiben."
+            ],
+            "hu": [
+              "A réteges öltözködés (hagyma-elv) alapvető fontosságú.",
+              "Igyon eleget, még ha hidegben kevésbé is érzi szomjasnak magát.",
+              "Akku-kontroll: a hideg gyorsabban meríti a telefonokat és lámpákat.",
+              "Az árnyékos részek a szőlőben napközben is jegesek maradhatnak."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi (principiul cepei) este esențială.",
+              "Hidratați-vă suficient, chiar dacă simțiți mai puțin setea la frig.",
+              "Verificați bateria: frigul descarcă mai repede telefonul și luminile.",
+              "Zonele umbrite din vii pot rămâne înghețate și în timpul zilei."
+            ],
+            "en": [
+              "Layered clothing (onion principle) is absolutely essential.",
+              "Stay hydrated, even if you feel less thirsty in the cold.",
+              "Battery check: cold weather drains phone and light batteries faster.",
+              "Shaded spots in the vineyards can stay icy even during the day."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -762,6 +1126,224 @@
           "The roads to the monastery are narrow.",
           "Plan enough time for the walks at the clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Urlați per Auto ist die komfortabelste Wahl bei Regen. Sie können direkt am Zentralplatz parken und trocken ins Museum gelangen. Das Herrenhaus Bellu bietet ausreichend Parkraum nahe dem Eingang. Die Fahrt zum Kloster Jercălăi und zum Herrenhaus Valea Crângului ermöglicht es Ihnen, die regnerische Landschaft bequem vom Sitz aus zu genießen, bevor Sie zu den Besichtigungen aussteigen.",
+            "hu": "Autóval a legkényelmesebb Urlați felfedezése esőben. Parkoljon közvetlenül a téren, és szárazon jusson a múzeumba. A Bellu-kúria közelében elegendő parkolóhely áll rendelkezésre. A Jercălăi-kolostorhoz és a Valea Crângului kúriához vezető út során az autóból csodálhatja az esőáztatta tájat, mielőtt kiszállna a látnivalókhoz.",
+            "ro": "Cu mașina, explorarea orașului Urlați pe ploaie este foarte confortabilă. Puteți parca chiar în piață pentru a intra rapid în muzeu. Conacul Bellu are parcare suficientă aproape de intrare. Drumul spre Mănăstirea Jercălăi și Conacul Valea Crângului vă permite să admirați peisajul ploios din confortul mașinii înainte de vizite.",
+            "en": "Car travel is the most comfortable way to see Urlați in the rain. Park right at the square for easy museum access. Bellu Manor offers plenty of parking near the entrance. The drive to Jercălăi Monastery and Valea Crângului Manor lets you enjoy the rainy landscapes from your seat before stepping out for the sights."
+          },
+          "stops": [
+            {
+              "name": "Zentraler Platz",
+              "tip_4lang": {
+                "de": "Parken Sie nahe den Arkaden, um beim Aussteigen trocken zu bleiben.",
+                "hu": "Parkoljon az árkádok közelében, hogy kiszálláskor száraz maradjon.",
+                "ro": "Parcați aproape de arcade pentru a rămâne uscat la coborâre.",
+                "en": "Park near the arcades to stay dry when getting out of the car."
+              }
+            },
+            {
+              "name": "Museum für Ethnographie",
+              "tip_4lang": {
+                "de": "Der Eingang ist nur wenige Meter vom Straßenparkplatz entfernt.",
+                "hu": "A bejárat csak pár méterre van az utcai parkolótól.",
+                "ro": "Intrarea este la doar câțiva metri de locurile de parcare de pe stradă.",
+                "en": "The entrance is just a few meters from the street parking."
+              }
+            },
+            {
+              "name": "Denkmal des Aufstands von 1907",
+              "tip_4lang": {
+                "de": "Ein schneller Fotostopp aus dem Autofenster ist möglich.",
+                "hu": "Egy gyors fotómegálló az autó ablakából is kivitelezhető.",
+                "ro": "O oprire rapidă pentru poze direct din mașină este posibilă.",
+                "en": "A quick photo stop from the car window is possible here."
+              }
+            },
+            {
+              "name": "Herrenhaus Bellu",
+              "tip_4lang": {
+                "de": "Nutzen Sie den befestigten Parkplatz direkt am Haupttor.",
+                "hu": "Használja a közvetlenül a főkapunál lévő burkolt parkolót.",
+                "ro": "Folosiți parcarea amenajată chiar de lângă poarta principală.",
+                "en": "Use the paved parking area right by the main gate."
+              }
+            },
+            {
+              "name": "Steinkirche",
+              "tip_4lang": {
+                "de": "Die Zufahrt ist schmal; fahren Sie bei Regen vorsichtig.",
+                "hu": "A bekötőút keskeny; esőben vezessen fokozott óvatossággal.",
+                "ro": "Drumul de acces este îngust; conduceți cu prudență pe ploaie.",
+                "en": "The access road is narrow; drive with extra care in the rain."
+              }
+            },
+            {
+              "name": "Urlați Weinberge",
+              "tip_4lang": {
+                "de": "Viele Weingüter erlauben das Parken direkt vor dem Verkostungsraum.",
+                "hu": "Sok pincészet engedi a parkolást közvetlenül a kóstolóterem előtt.",
+                "ro": "Multe crame permit parcarea chiar în fața sălii de degustare.",
+                "en": "Many wineries allow parking right in front of the tasting room."
+              }
+            },
+            {
+              "name": "Jercălăi-Kloster",
+              "tip_4lang": {
+                "de": "Der Parkplatz kann bei starkem Regen Pfützen bilden.",
+                "hu": "A parkolóban heves esőzéskor tócsák alakulhatnak ki.",
+                "ro": "Parcarea poate avea bălți mari în caz de ploaie abundentă.",
+                "en": "The parking area may develop large puddles during heavy rain."
+              }
+            },
+            {
+              "name": "Valea Crângului Herrenhaus",
+              "tip_4lang": {
+                "de": "Sicheres Parken im Innenhof oder direkt davor möglich.",
+                "hu": "Biztonságos parkolás az udvaron vagy közvetlenül a ház előtt.",
+                "ro": "Parcare sigură în curte sau direct în fața conacului.",
+                "en": "Safe parking is available in the courtyard or right in front."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt in die Hügel.",
+              "Vorsicht vor Aquaplaning auf der Landstraße nach Urlați.",
+              "Haben Sie einen Regenschirm im Auto für die Wege zum Eingang.",
+              "Die Weinbergswege können rutschig sein; bleiben Sie auf befestigten Straßen."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Vigyázzon a vízenfutásra (aquaplaning) az Urlați-ba vezető úton.",
+              "Tartson esernyőt az autóban a bejáratig tartó rövid sétákhoz.",
+              "A dűlőutak csúszósak lehetnek; maradjon a burkolt utakon."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a porni spre dealuri.",
+              "Atenție la acvaplanare pe drumul spre Urlați.",
+              "Păstrați o umbrelă în mașină pentru distanțele scurte până la intrări.",
+              "Drumurile printre vii pot fi alunecoase; rămâneți pe cele asfaltate."
+            ],
+            "en": [
+              "Check your windshield wipers before driving into the hills.",
+              "Beware of aquaplaning on the main road to Urlați.",
+              "Keep an umbrella in the car for the short walks to entrances.",
+              "Vineyard roads can be slippery; stay on the paved sections."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto die nötige Wärme zwischen den historischen Zielen von Urlați. Nach dem frostigen Zentralplatz ist die Fahrt zum beheizten Museum ein Genuss. Das Herrenhaus Bellu wirkt im Winterschlaf majestätisch. Die Route zum Kloster Jercălăi führt durch malerisch verschneite Weinberge, bevor Sie den Tag im warmen Ambiente des Herrenhauses Valea Crângului beschließen.",
+            "hu": "Télen az autó biztosítja a szükséges meleget Urlați történelmi helyszínei között. A fagyos főtér után a fűtött múzeumba érkezni igazi felüdülés. A Bellu-kúria fenséges látványt nyújt téli álmában. A Jercălăi-kolostorhoz vezető út festői, havas szőlőskerteken át visz, mielőtt a Valea Crângului kúria melegében zárná a napot.",
+            "ro": "Iarna, mașina oferă căldura necesară între obiectivele istorice din Urlați. După piața înghețată, drumul spre muzeul încălzit este o plăcere. Conacul Bellu arată maiestuos în decorul de iarnă. Traseul spre Mănăstirea Jercălăi trece prin vii nins spectaculos, finalizând ziua în ambianța caldă de la Valea Crângului.",
+            "en": "In winter, a car provides essential warmth between Urlați's historic sites. After the frosty central square, the drive to the heated museum is a treat. Bellu Manor looks majestic in its winter slumber. The route to Jercălăi Monastery takes you through picturesque snowy vineyards, ending the day in the warm ambiance of Valea Crângului Manor."
+          },
+          "stops": [
+            {
+              "name": "Zentraler Platz",
+              "tip_4lang": {
+                "de": "Achten Sie auf Glatteis in den Parklücken am Rand.",
+                "hu": "Vigyázzon a tükörjégre a szélső parkolóhelyeken.",
+                "ro": "Atenție la polei în locurile de parcare de pe margine.",
+                "en": "Watch out for black ice in the parking spots at the edge."
+              }
+            },
+            {
+              "name": "Museum für Ethnographie",
+              "tip_4lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort várakozás közben.",
+                "ro": "Nu lăsați motorul pornit inutil în timp ce staționați.",
+                "en": "Do not leave the engine idling unnecessarily while waiting."
+              }
+            },
+            {
+              "name": "Denkmal des Aufstands von 1907",
+              "tip_4lang": {
+                "de": "Kurzer Ausstieg für ein Foto; der Wind ist hier oft kalt.",
+                "hu": "Csak egy gyors fotó erejéig szálljon ki; a szél itt gyakran metsző.",
+                "ro": "Coborâre scurtă pentru poze; vântul este adesea tăios aici.",
+                "en": "Briefly step out for a photo; the wind is often biting here."
+              }
+            },
+            {
+              "name": "Herrenhaus Bellu",
+              "tip_4lang": {
+                "de": "Die Parkplatzeinfahrt kann bei Schnee rutschig sein.",
+                "hu": "A parkoló bejárata havazáskor csúszós lehet.",
+                "ro": "Intrarea în parcare poate fi alunecoasă în caz de ninsoare.",
+                "en": "The parking entrance can be slippery when it snows."
+              }
+            },
+            {
+              "name": "Steinkirche",
+              "tip_4lang": {
+                "de": "Winterreifen sind für die steile Zufahrt zwingend erforderlich.",
+                "hu": "A téli gumi kötelező a meredek bekötőúthoz.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pentru accesul în pantă.",
+                "en": "Winter tires are mandatory for the steep access road."
+              }
+            },
+            {
+              "name": "Urlați Weinberge",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf die verschneiten Reben aus dem Auto.",
+                "hu": "Élvezze a havas tőkék látványát a fűtött autóból.",
+                "ro": "Admirați viile ninse din confortul mașinii încălzite.",
+                "en": "Enjoy the view of the snowy vines from the heated car."
+              }
+            },
+            {
+              "name": "Jercălăi-Kloster",
+              "tip_4lang": {
+                "de": "Fahren Sie vorsichtig; der Weg wird im Winter seltener geräumt.",
+                "hu": "Vezessen óvatosan; az utat télen ritkábban takarítják.",
+                "ro": "Conduceți cu grijă; drumul este deszăpezit mai rar iarna.",
+                "en": "Drive carefully; the road is cleared less frequently in winter."
+              }
+            },
+            {
+              "name": "Valea Crângului Herrenhaus",
+              "tip_4lang": {
+                "de": "Das warme Licht des Hauses ist ein schöner Empfang am Abend.",
+                "hu": "A ház meleg fényei barátságos fogadtatást nyújtanak este.",
+                "ro": "Luminile calde ale conacului oferă o primire plăcută seara.",
+                "en": "The warm lights of the manor offer a welcoming sight in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Frostschutzmittel sind ein Muss.",
+              "Führen Sie einen Eiskratzer und einen kleinen Besen mit.",
+              "Die Bergstraßen um Urlați können tückisch vereist sein.",
+              "Laden Sie Ihr Handy im Auto auf, da Kälte den Akku schwächt."
+            ],
+            "hu": [
+              "A téli gumi és a fagyálló folyadék elengedhetetlen.",
+              "Legyen az autóban jégkaparó és hókefe.",
+              "Az Urlați környéki hegyi utak alattomosan jegesek lehetnek.",
+              "Töltse telefonját az autóban, mert a hideg meríti az akkut."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și lichidul antigriz sunt obligatorii.",
+              "Aveți în mașină o racletă și o perie pentru zăpadă.",
+              "Drumurile de deal din jurul orașului pot fi înșelător de înghețate.",
+              "Încărcați telefonul în mașină, deoarece frigul îi scade autonomia."
+            ],
+            "en": [
+              "Winter tires and antifreeze are absolute must-haves.",
+              "Keep an ice scraper and a small snow brush in the car.",
+              "Mountain roads around Urlați can be treacherously icy.",
+              "Charge your phone in the car as cold drains the battery faster."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -996,6 +1578,188 @@
           "Keep small change ready for the minibuses.",
           "Schedules may be limited on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit öffentlichen Verkehrsmitteln erfordert Urlați bei Regen Geduld. Vom Platz gelangen Sie schnell zum Museum. Für das Herrenhaus Bellu nutzen Sie lokale Busse oder ein Taxi, um trocken zu bleiben. Das Kloster Jercălăi ist bei Regen am besten per Taxi erreichbar, da die Fußwege von den Haltestellen lang und nass sein können. Enden Sie in den Weinbergen mit einer gemütlichen Verkostung.",
+            "hu": "Tömegközlekedéssel Urlați felfedezése esőben türelmet igényel. A térről gyorsan elérhető a múzeum. A Bellu-kúriához használjon helyi buszt vagy taxit, hogy száraz maradjon. A Jercălăi-kolostor esőben leginkább taxival ajánlott, mert a megállóktól hosszú a gyalogút. A napot a szőlőbirtokokon zárja egy hangulatos kóstolóval.",
+            "ro": "Cu transportul public, explorarea orașului Urlați pe ploaie necesită răbdare. Din piață ajungeți rapid la muzeu. Pentru Conacul Bellu, folosiți autobuzul local sau un taxi pentru a rămâne uscat. Mănăstirea Jercălăi este mai accesibilă cu taxiul pe ploaie, drumul de la stație fiind lung. Încheiați ziua la o cramă cu o degustare relaxantă.",
+            "en": "Using transit in Urlați during rain requires patience. The museum is a quick walk from the square. For Bellu Manor, take a local bus or taxi to stay dry. Jercălăi Monastery is best reached by taxi in the rain, as the walk from bus stops is long and wet. End your day at a vineyard with a cozy wine tasting."
+          },
+          "stops": [
+            {
+              "name": "Zentraler Platz",
+              "tip_4lang": {
+                "de": "Warten Sie in den Cafés auf den nächsten Bus.",
+                "hu": "Várja meg a következő buszt a tér körüli kávézókban.",
+                "ro": "Așteptați următorul autobuz în cafenelele din piață.",
+                "en": "Wait for the next bus in the cafes around the square."
+              }
+            },
+            {
+              "name": "Museum für Ethnographie",
+              "tip_4lang": {
+                "de": "Die nächste Haltestelle bietet leider kaum Regenschutz.",
+                "hu": "A legközelebbi megálló sajnos alig nyújt védelmet az eső ellen.",
+                "ro": "Cea mai apropiată stație nu oferă, din păcate, prea mult adăpost.",
+                "en": "The nearest stop unfortunately offers little shelter from rain."
+              }
+            },
+            {
+              "name": "Herrenhaus Bellu",
+              "tip_4lang": {
+                "de": "Planen Sie die Rückfahrt vorab; Busse fahren seltener bei Regen.",
+                "hu": "Tervezze meg előre a visszautat; esőben ritkábbak lehetnek a buszok.",
+                "ro": "Planificați returul; autobuzele pot avea întârzieri pe ploaie.",
+                "en": "Plan your return trip in advance; buses may be infrequent."
+              }
+            },
+            {
+              "name": "Steinkirche",
+              "tip_4lang": {
+                "de": "Der Fußweg von der Haltestelle ist bei Regen beschwerlich.",
+                "hu": "A megállótól tartó gyalogút esőben kényelmetlen lehet.",
+                "ro": "Drumul pe jos de la stație este obositor pe timp de ploaie.",
+                "en": "The walk from the stop can be cumbersome in the rain."
+              }
+            },
+            {
+              "name": "Urlați Weinberge",
+              "tip_4lang": {
+                "de": "Lassen Sie sich am besten ein Taxi direkt zum Weingut rufen.",
+                "hu": "Érdemes taxit hívni közvetlenül a borászathoz.",
+                "ro": "Este recomandat să chemați un taxi direct la cramă.",
+                "en": "It is recommended to call a taxi directly to the winery."
+              }
+            },
+            {
+              "name": "Jercălăi-Kloster",
+              "tip_4lang": {
+                "de": "Informieren Sie sich über die spärlichen Busverbindungen hierher.",
+                "hu": "Tájékozódjon a ritka buszjáratokról ezen a környéken.",
+                "ro": "Informați-vă despre cursele rare de autobuz din această zonă.",
+                "en": "Check the infrequent bus schedules for this specific area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Fahrpläne der 'Maxitaxi' Linien genau.",
+              "Ein Regenschirm ist beim Warten an Haltestellen unverzichtbar.",
+              "Nutzen Sie lokale Taxi-Apps oder Nummern als Backup.",
+              "Die Haltestellen sind oft nicht überdacht; kleiden Sie sich wasserfest."
+            ],
+            "hu": [
+              "Ellenőrizze pontosan a 'Maxitaxi' járatok menetrendjét.",
+              "Az esernyő nélkülözhetetlen a megállókban való várakozáskor.",
+              "Használjon helyi taxi alkalmazásokat vagy számokat tartalékként.",
+              "A megállók gyakran nem fedettek; viseljen vízálló öltözetet."
+            ],
+            "ro": [
+              "Verificați cu atenție mersul 'Maxitaxi-urilor' locale.",
+              "Umbrela este indispensabilă în timp ce așteptați în stații.",
+              "Folosiți aplicații sau numere de taxi locale ca alternativă.",
+              "Stațiile nu sunt adesea acoperite; purtați haine impermeabile."
+            ],
+            "en": [
+              "Check the local 'Maxitaxi' schedules very carefully.",
+              "An umbrella is essential while waiting at transit stops.",
+              "Have local taxi numbers or apps ready as a backup plan.",
+              "Stops are often unsheltered; wear waterproof clothing."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Urlați im Winter mit Transit erfordert gute Zeitplanung. Die Kälte am Platz lässt sich im Museum schnell vergessen. Zum Herrenhaus Bellu ist ein Taxi die wärmere Alternative zum Bus. Die Landschaft um das Kloster Jercălăi ist im Schnee wunderschön, aber die Wege von den Haltestellen sind oft vereist. Beenden Sie den Tag früh, bevor es dunkel und noch kälter wird.",
+            "hu": "Télen a tömegközlekedés Urlați-ban jó időbeosztást igényel. A főtéri hideget a múzeumban gyorsan elfelejtheti. A Bellu-kúriához a taxi melegebb alternatíva a busznál. A Jercălăi-kolostor környéke gyönyörű a hóban, de a megállóktól vezető utak gyakran jegesek. Fejezze be korán a napot, mielőtt besötétedik és lehűl az idő.",
+            "ro": "Iarna, transportul în Urlați necesită o planificare riguroasă. Frigul din piață este uitat repede odată intrați în muzeu. Pentru Conacul Bellu, taxiul este o variantă mai călduroasă decât autobuzul. Zona Mănăstirii Jercălăi este superbă sub zăpadă, dar drumul de la stație poate fi înghețat. Încheiați vizitele devreme, înainte de lăsarea serii.",
+            "en": "Winter transit in Urlați demands careful timing. Forget the cold of the square once you step into the museum. A taxi to Bellu Manor is a warmer alternative to the bus. The area around Jercălăi Monastery is beautiful in the snow, but paths from stops are often icy. Finish your day early before it gets dark and even colder."
+          },
+          "stops": [
+            {
+              "name": "Zentraler Platz",
+              "tip_4lang": {
+                "de": "Warten Sie in beheizten Innenräumen auf den Bus.",
+                "hu": "Várja a buszt fűtött beltéri helyen, amíg lehet.",
+                "ro": "Așteptați autobuzul în spații interioare încălzite.",
+                "en": "Wait for the bus in heated indoor spaces whenever possible."
+              }
+            },
+            {
+              "name": "Museum für Ethnographie",
+              "tip_4lang": {
+                "de": "Beachten Sie, dass Busse im Winter Verspätung haben können.",
+                "hu": "Vegye figyelembe, hogy télen a buszok késhetnek.",
+                "ro": "Luați în calcul faptul că autobuzele pot avea întârzieri iarna.",
+                "en": "Keep in mind that buses may experience delays in winter."
+              }
+            },
+            {
+              "name": "Herrenhaus Bellu",
+              "tip_4lang": {
+                "de": "Vom Busstopp zum Eingang ist es ein kurzer, aber kalter Fußweg.",
+                "hu": "A buszmegállótól a bejáratig rövid, de hideg séta vezet.",
+                "ro": "De la stația de autobuz până la intrare este o plimbare scurtă, dar rece.",
+                "en": "It's a short but cold walk from the bus stop to the entrance."
+              }
+            },
+            {
+              "name": "Steinkirche",
+              "tip_4lang": {
+                "de": "Achten Sie auf Glätte auf dem Gehweg zur Kirche.",
+                "hu": "Vigyázzon a járdák jegesedésére a templom felé.",
+                "ro": "Atenție la porțiunile înghețate de pe trotuarul spre biserică.",
+                "en": "Watch out for icy patches on the sidewalk towards the church."
+              }
+            },
+            {
+              "name": "Urlați Weinberge",
+              "tip_4lang": {
+                "de": "Taxis sind im Winter die verlässlichste Art, die Hügel zu verlassen.",
+                "hu": "Télen a taxi a legmegbízhatóbb módja a dombok elhagyásának.",
+                "ro": "Iarna, taxiul este cea mai sigură metodă de a pleca de pe dealuri.",
+                "en": "In winter, taxis are the most reliable way to leave the hilly areas."
+              }
+            },
+            {
+              "name": "Jercălăi-Kloster",
+              "tip_4lang": {
+                "de": "Der Busverkehr ist hier im Winter sehr eingeschränkt.",
+                "hu": "A buszközlekedés itt télen nagyon korlátozott.",
+                "ro": "Transportul cu autobuzul este foarte limitat aici pe timp de iarnă.",
+                "en": "Bus services are very limited in this area during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie sehr warme Socken; man kühlt beim Warten schnell aus.",
+              "Nutzen Sie die Mittagsstunden für die Transit-Fahrten.",
+              "Busfahrpläne können sich im Winter kurzfristig ändern.",
+              "Haben Sie die Telefonnummer eines lokalen Taxiunternehmens parat."
+            ],
+            "hu": [
+              "Viseljen nagyon meleg zoknit; várakozás közben gyorsan áthűl a láb.",
+              "Használja a déli órákat a tömegközlekedéshez.",
+              "A buszmenetrendek télen rövid úton változhatnak.",
+              "Legyen kéznél egy helyi taxis társaság telefonszáma."
+            ],
+            "ro": [
+              "Purtați șosete foarte groase; picioarele îngheață repede la stație.",
+              "Folosiți orele prânzului pentru deplasările cu transportul public.",
+              "Mersul autobuzelor se poate modifica neanunțat iarna.",
+              "Aveți la îndemână numărul de telefon al unei firme de taxi locale."
+            ],
+            "en": [
+              "Wear very warm socks; feet get cold quickly while waiting at stops.",
+              "Use the midday hours for your transit trips.",
+              "Bus schedules can change on short notice during winter.",
+              "Keep the phone number of a local taxi company handy."
+            ]
+          }
+        }
       }
     }
   }

@@ -284,6 +284,196 @@
           "Bring water, especially for the climb to the fortress.",
           "The best photos are taken in the morning or late afternoon when the light is softer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag an der Zeta-Brücke, wo der Regen rhythmisch auf das Wasser klatscht. Ein Spaziergang unter dem Regenschirm entlang der Promenade offenbart die melancholische Schönheit des Flusses.\n\nMittags bietet die Marienkirche einen trockenen Zufluchtsort für stille Besinnung. Der Aufstieg zum Monument ist kurz, aber erfrischend in der kühlen, feuchten Luft.\n\nAm Nachmittag erfordert der Weg zur Festung Spuž festes Schuhwerk, da die Pfade rutschig sein können. Die Wolken hängen tief über dem Bjelopavlići-Tal und schaffen eine mystische Atmosphäre.\n\nDer Tag endet an der alten Mühle, wo das Rauschen des Wassers und der Regen zu einer beruhigenden Kulisse verschmelzen. Ein gemütlicher Abschluss trotz des grauen Himmels.",
+            "hu": "Kezdje a napot a Zeta-hídnál, ahol az eső ritmikusan kopog a folyó vizén. Az esernyős séta a sétányon feltárja a folyó melankolikus szépségét.\n\nDélben a Mária születése templom száraz menedéket nyújt a csendes elmélkedéshez. Az emlékműhöz vezető út rövid, de frissítő a hűvös, párás levegőben.\n\nDélután a Spuž-erőd felé vezető út biztos lábbelit igényel, mivel az ösvények csúszósak lehetnek. A felhők alacsonyan szállnak a Bjelopavlići-völgy felett, misztikus hangulatot árasztva.\n\nA nap az ódon malomnál ér véget, ahol a víz zúgása és az eső megnyugtató háttérré olvad össze. Meghitt befejezés a szürke égbolt ellenére.",
+            "ro": "Începeți ziua la Podul Zeta, unde ploaia cade ritmic pe suprafața apei. O plimbare cu umbrela pe faleză dezvăluie frumusețea melancolică a râului.\n\nLa prânz, Biserica Nașterea Maicii Domnului oferă un refugiu uscat pentru reflecție tăcută. Drumul spre monument este scurt, dar revigorant în aerul răcoros și umed.\n\nDupă-amiaza, urcarea spre Cetatea Spuž necesită încălțăminte stabilă, deoarece potecile pot fi alunecoase. Norii plutesc jos peste valea Bjelopavlići, creând o atmosferă mistică.\n\nZiua se încheie la moara veche, unde susurul apei și ploaia se contopesc într-un fundal liniștitor. Un final confortabil în ciuda cerului gri.",
+            "en": "Start your day at the Zeta Bridge, where rain taps rhythmically on the water. A walk with an umbrella along the promenade reveals the river's melancholic beauty.\n\nAt noon, the Church of the Birth of Mary provides a dry sanctuary for quiet reflection. The short walk to the monument is refreshing in the cool, damp air.\n\nIn the afternoon, the climb to Spuž Fortress requires steady footwear as paths can be slippery. Clouds hang low over the Bjelopavlići valley, creating a mystical atmosphere.\n\nThe day ends at the old mill, where the rushing water and rain blend into a soothing backdrop. A cozy finish despite the grey skies."
+          },
+          "stops": [
+            {
+              "name": "Zeta Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Pflaster; halten Sie den Regenschirm fest gegen den Wind.",
+                "hu": "Vigyázzon a nedves köveken; tartsa erősen az esernyőt a szélben.",
+                "ro": "Atenție pe pavajul umed; țineți bine umbrela împotriva vântului.",
+                "en": "Watch your step on the wet stones; hold your umbrella firmly against the wind."
+              }
+            },
+            {
+              "name": "Zeta Promenade",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bäume als natürlichen Schutz vor kurzen Schauern.",
+                "hu": "Használja a fákat természetes menedékként a rövid záporok idején.",
+                "ro": "Folosiți copacii ca adăpost natural în timpul averselor scurte.",
+                "en": "Use the trees as natural shelter during brief showers."
+              }
+            },
+            {
+              "name": "Church of the Birth of Mary",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich aufzuwärmen und die Kleidung zu trocknen.",
+                "hu": "Ideális hely a felmelegedéshez és a ruhák megszárításához.",
+                "ro": "Un loc ideal pentru a vă încălzi și a vă usca hainele.",
+                "en": "An ideal place to warm up and dry your clothes."
+              }
+            },
+            {
+              "name": "Monument to the Fallen",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt für ein schnelles Foto im Regen.",
+                "hu": "Rövid megálló egy gyors fotóra az esőben.",
+                "ro": "Oprire scurtă pentru o fotografie rapidă în ploaie.",
+                "en": "Short stay for a quick photo in the rain."
+              }
+            },
+            {
+              "name": "Spuž Fortress (Glavica)",
+              "tip_5lang": {
+                "de": "Wanderschuhe sind wegen des Schlamms und der rutschigen Felsen unerlässlich.",
+                "hu": "A túrabakancs elengedhetetlen a sár és a csúszós sziklák miatt.",
+                "ro": "Bocancii de drumeție sunt esențiali din cauza noroiului și a stâncilor alunecoase.",
+                "en": "Hiking boots are essential due to mud and slippery rocks."
+              }
+            },
+            {
+              "name": "Old Mill of Spuž",
+              "tip_5lang": {
+                "de": "Die überdachten Bereiche der Mühle bieten Schutz vor dem Wetter.",
+                "hu": "A malom fedett részei védelmet nyújtanak az időjárás ellen.",
+                "ro": "Zonele acoperite ale morii oferă protecție împotriva intemperiilor.",
+                "en": "The covered areas of the mill offer protection from the weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Pfade zur Festung.",
+              "Ein robuster Regenschirm ist bei Wind im Tal besser als ein leichter.",
+              "Die Kirche ist der beste Ort für eine längere Pause im Trockenen.",
+              "Packen Sie Ihre Elektronik in wasserdichte Beutel ein.",
+              "Warme Getränke in einer Thermoskanne sind bei Regen sehr willkommen."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt az erődhöz vezető ösvényeken.",
+              "Egy stabil esernyő jobb a völgyi szélben, mint egy könnyű darab.",
+              "A templom a legjobb hely egy hosszabb száraz pihenőre.",
+              "Csomagolja az elektronikát vízhatlan tasakokba.",
+              "A termoszban vitt meleg italok nagyon jól jönnek esőben."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție impermeabilă pentru potecile spre cetate.",
+              "O umbrelă robustă este mai bună în vântul din vale decât una ușoară.",
+              "Biserica este cel mai bun loc pentru o pauză lungă la uscat.",
+              "Împachetați electronicele în pungi impermeabile.",
+              "Băuturile calde într-un termos sunt binevenite pe ploaie."
+            ],
+            "en": [
+              "Wear waterproof hiking boots for the paths to the fortress.",
+              "A sturdy umbrella is better in the valley wind than a flimsy one.",
+              "The church is the best spot for a longer dry break.",
+              "Pack your electronics in waterproof pouches.",
+              "Warm drinks in a thermos are very welcome in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die kühle Morgenluft an der Zeta-Brücke, während der Frost die Geländer überzieht. Ein zügiger Gang entlang der Promenade hält den Kreislauf in Schwung.\n\nMittags strahlt die Marienkirche eine friedliche Stille aus. Die Sonne steht tief und taucht den Kalkstein in ein sanftes, winterliches Licht.\n\nDer Nachmittag gehört dem Aufstieg zur Glavica. Die kahlen Bäume geben den Blick auf die schneebedeckten Gipfel in der Ferne frei, bevor die Dämmerung früh einsetzt.\n\nZum Abend hin leuchten die Lichter von Spuž an der alten Mühle auf. Die Kälte des Winters wird durch die historische Kulisse und die Vorfreude auf ein warmes Abendessen gemildert.",
+            "hu": "Élje át a hűvös reggeli levegőt a Zeta-hídnál, miközben a dér belepi a korlátokat. Egy tempós séta a sétányon segít fenntartani a testhőt.\n\nDélben a Mária születése templom békés csendet áraszt. A nap alacsonyan jár, lágy téli fénybe vonva a mészkő falakat.\n\nA délután a Glavica megmászásáé. A kopár fák közül feltárulnak a távoli havas hegycsúcsok, mielőtt korán beköszönt az alkonyat.\n\nEste felé kigyúlnak Spuž fényei az ódon malomnál. A tél hidegét enyhíti a történelmi környezet és a meleg vacsora ígérete.",
+            "ro": "Experimentați aerul rece al dimineții la Podul Zeta, în timp ce bruma acoperă balustradele. O plimbare vioaie pe faleză vă va menține circulația activă.\n\nLa prânz, Biserica Nașterea Maicii Domnului emană o liniște pașnică. Soarele stă jos, scăldând piatra de var într-o lumină blândă de iarnă.\n\nDupă-amiaza este dedicată urcării pe Glavica. Copacii golași dezvăluie vârfurile înzăpezite din depărtare înainte ca amurgul să se instaleze devreme.\n\nSpre seară, luminile din Spuž se aprind la moara veche. Frigul iernii este atenuat de cadrul istoric și de anticiparea unei cine calde.",
+            "en": "Experience the crisp morning air at the Zeta Bridge as frost coats the railings. A brisk walk along the promenade keeps your circulation going.\n\nAt noon, the Church of the Birth of Mary exudes a peaceful silence. The sun sits low, bathing the limestone in a soft, wintry light.\n\nAfternoon is for the climb to Glavica. The bare trees reveal snow-capped peaks in the distance before dusk sets in early.\n\nTowards evening, the lights of Spuž flicker on near the old mill. The winter chill is softened by the historic setting and the prospect of a warm dinner."
+          },
+          "stops": [
+            {
+              "name": "Zeta Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem Metall und den Steinen.",
+                "hu": "Vigyázzon a csúszós részekkel a fémfelületeken és a köveken.",
+                "ro": "Atenție la porțiunile alunecoase de pe metal și pietre.",
+                "en": "Beware of slippery patches on metal and stone surfaces."
+              }
+            },
+            {
+              "name": "Zeta Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht, die nur der Winter bietet.",
+                "hu": "Élvezze a tiszta kilátást, amit csak a tél kínál.",
+                "ro": "Bucurați-vă de vizibilitatea clară pe care o oferă doar iarna.",
+                "en": "Enjoy the clear views that only winter provides."
+              }
+            },
+            {
+              "name": "Church of the Birth of Mary",
+              "tip_5lang": {
+                "de": "Die Kerzen im Inneren sorgen für eine warme und einladende Atmosphäre.",
+                "hu": "A benti gyertyák meleg és hívogató hangulatot teremtenek.",
+                "ro": "Lumânările din interior creează o atmosferă caldă și primitoare.",
+                "en": "The candles inside create a warm and inviting atmosphere."
+              }
+            },
+            {
+              "name": "Monument to the Fallen",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht aus, um die Inschriften im Winterlicht zu lesen.",
+                "hu": "Egy rövid megálló elég, hogy elolvassa a feliratokat a téli fényben.",
+                "ro": "O oprire scurtă este suficientă pentru a citi inscripțiile în lumina iernii.",
+                "en": "A short stop is enough to read the inscriptions in the winter light."
+              }
+            },
+            {
+              "name": "Spuž Fortress (Glavica)",
+              "tip_5lang": {
+                "de": "Beginnen Sie den Abstieg vor 16:30 Uhr, um Tageslicht zu haben.",
+                "hu": "Kezdje meg az ereszkedést 16:30 előtt, hogy még lásson.",
+                "ro": "Începeți coborârea înainte de ora 16:30 pentru a avea lumină naturală.",
+                "en": "Start your descent before 4:30 PM to have daylight."
+              }
+            },
+            {
+              "name": "Old Mill of Spuž",
+              "tip_5lang": {
+                "de": "Die Mühle wirkt im winterlichen Abendlicht besonders fotogen.",
+                "hu": "A malom a téli esti fényben különösen fotogén.",
+                "ro": "Moara arată deosebit de fotogenic în lumina serii de iarnă.",
+                "en": "The mill looks particularly photogenic in the winter evening light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip gegen den Wind vom Fluss.",
+              "Die Sonne geht im Winter gegen 16:30 Uhr unter.",
+              "Tragen Sie Handschuhe, wenn Sie die Metallgeländer der Brücke berühren.",
+              "Feste Sohlen isolieren besser gegen den kalten Boden.",
+              "Planen Sie Besichtigungen im Freien für die Mittagsstunden."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a folyó felől fújó szél ellen.",
+              "A nap télen 16:30 körül nyugszik.",
+              "Viseljen kesztyűt, ha megérinti a híd fémkorlátait.",
+              "A vastag talpú cipő jobban szigetel a hideg föld ellen.",
+              "A szabadtéri látnivalókat a déli órákra tervezze."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi împotriva vântului de pe râu.",
+              "Soarele apune în jur de ora 16:30 iarna.",
+              "Purtați mănuși dacă atingeți balustradele metalice ale podului.",
+              "Tălpile groase izolează mai bine împotriva solului rece.",
+              "Planificați vizitele în aer liber pentru orele amiezii."
+            ],
+            "en": [
+              "Dress in layers against the wind coming off the river.",
+              "The sun sets around 4:30 PM in winter.",
+              "Wear gloves if you touch the metal railings of the bridge.",
+              "Thick soles insulate better against the cold ground.",
+              "Plan outdoor sightings for the midday hours."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -585,6 +775,214 @@
           "A helmet is strongly recommended.",
           "Take plenty of water and some snacks for the ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Bahnhof mit gut geölter Kette. Die Fahrt zur Zeta-Brücke erfordert Konzentration auf den nassen Straßen, bietet aber erfrischende Luft.\n\nMittags dient die Promenade als grüner Korridor, während der Regen die Farben der Natur intensiviert. Die Auffahrt zur Festung ist anspruchsvoll und rutschig.\n\nDer Nachmittag bringt Rettung in der Spuž-Höhle, einem natürlichen Unterstand, der völlig trocken bleibt. Ein faszinierendes Erlebnis, während draußen der Sturm tobt.\n\nDer Rückweg führt über die alte Mühle zur Marienkirche. Die nassen Reifen surren auf dem Asphalt, während Sie den Tag sportlich abschließen.",
+            "hu": "Induljon az állomástól jól megkent lánccal. A Zeta-hídhoz vezető út koncentrációt igényel a nedves utakon, de friss levegőt kínál.\n\nDélben a sétány zöld folyosóként szolgál, miközben az eső felerősíti a természet színeit. Az erőd felé vezető kaptató technikás és csúszós.\n\nA délután menedéket hoz a Spuž-barlangban, amely egy természetes óvóhely, és teljesen száraz marad. Lebilincselő élmény, miközben kint tombol a vihar.\n\nA visszaút az ódon malmon keresztül vezet a Mária-templomhoz. A nedves gumiabroncsok zümmögnek az aszfalton, miközben sportosan zárja a napot.",
+            "ro": "Porniți de la gară cu lanțul bine uns. Drumul spre Podul Zeta necesită concentrare pe străzile umede, dar oferă aer proaspăt.\n\nLa prânz, faleza servește drept coridor verde, în timp ce ploaia intensifică culorile naturii. Urcarea spre cetate este solicitantă și alunecoasă.\n\nDupă-amiaza aduce salvare în Peștera Spuž, un adăpost natural care rămâne complet uscat. O experiență fascinantă în timp ce afară plouă torențial.\n\nDrumul de întoarcere trece pe la moara veche spre Biserica Maria. Anvelopele umede zumzăie pe asfalt în timp ce încheiați ziua într-un mod sportiv.",
+            "en": "Start at the station with a well-oiled chain. The ride to Zeta Bridge requires concentration on wet roads but offers refreshing air.\n\nAt noon, the promenade serves as a green corridor as rain intensifies nature's colors. The climb to the fortress is technical and slippery.\n\nAfternoon brings rescue in the Spuž Cave, a natural shelter that remains completely dry. A fascinating experience while the storm rages outside.\n\nThe return path leads via the old mill to Mary's Church. Wet tires hum on the asphalt as you finish the day on a sporty note."
+          },
+          "stops": [
+            {
+              "name": "Spuž Train Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen im Trockenen unter dem Bahnsteigdach.",
+                "hu": "Ellenőrizze a fékeket a szárazon, a perontető alatt.",
+                "ro": "Verificați frânele la uscat, sub acoperișul peronului.",
+                "en": "Check your brakes in the dry under the platform roof."
+              }
+            },
+            {
+              "name": "Zeta Bridge",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Kurven auf den nassen Metallfugen.",
+                "hu": "Kerülje az éles kanyarodást a nedves fémillesztéseken.",
+                "ro": "Evitați virajele strânse pe îmbinările metalice umede.",
+                "en": "Avoid sharp turns on the wet metal joints."
+              }
+            },
+            {
+              "name": "Zeta Promenade",
+              "tip_5lang": {
+                "de": "Schutzbleche sind hier wegen der Pfützen sehr zu empfehlen.",
+                "hu": "A sárvédő itt a tócsák miatt nagyon ajánlott.",
+                "ro": "Aripile de protecție sunt foarte recomandate aici din cauza bălților.",
+                "en": "Mudguards are highly recommended here due to puddles."
+              }
+            },
+            {
+              "name": "Spuž Fortress (Glavica)",
+              "tip_5lang": {
+                "de": "Lassen Sie das Fahrrad unten, wenn der Weg zu schlammig ist.",
+                "hu": "Hagyja lent a biciklit, ha az út túl sáros.",
+                "ro": "Lăsați bicicleta jos dacă drumul este prea noroios.",
+                "en": "Leave your bike at the bottom if the path is too muddy."
+              }
+            },
+            {
+              "name": "Spuž Cave",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen schweren Schauer trocken abzuwarten.",
+                "hu": "Tökéletes hely egy nagy zápor szárazon való megvárásához.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei averse torențiale.",
+                "en": "Perfect spot to wait out a heavy downpour in the dry."
+              }
+            },
+            {
+              "name": "Old Mill of Spuž",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem Kopfsteinpflaster im Mühlenbereich.",
+                "hu": "Vigyázzon a csúszós macskakővel a malom környékén.",
+                "ro": "Atenție la pavajul alunecos din zona morii.",
+                "en": "Watch out for slippery cobblestones in the mill area."
+              }
+            },
+            {
+              "name": "Church of the Birth of Mary",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Vordach für einen letzten Check vor der Heimfahrt.",
+                "hu": "Használja az előtetőt egy utolsó ellenőrzésre hazaindulás előtt.",
+                "ro": "Folosiți copertina pentru o ultimă verificare înainte de plecare.",
+                "en": "Use the porch for a final check before heading home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie weiße Fahrbahnmarkierungen, sie sind bei Regen extrem glatt.",
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit.",
+              "Die Spuž-Höhle ist ein erstklassiger Unterstand für Radfahrer.",
+              "Wischen Sie die Felgen regelmäßig trocken für bessere Bremsleistung.",
+              "Reduzieren Sie den Reifendruck leicht für mehr Grip auf nassen Wegen."
+            ],
+            "hu": [
+              "Kerülje a fehér útburkolati jeleket, esőben rendkívül csúsznak.",
+              "Viseljen neonsárga esőkabátot a jobb láthatóságért.",
+              "A Spuž-barlang kiváló búvóhely a kerékpárosoknak.",
+              "Rendszeresen törölje szárazra a felniket a jobb fékhatásért.",
+              "Csökkentse kissé a guminyomást a jobb tapadásért a nedves utakon."
+            ],
+            "ro": [
+              "Evitați marcajele rutiere albe, sunt extrem de alunecoase pe ploaie.",
+              "Purtați o jachetă de ploaie galben neon pentru o mai bună vizibilitate.",
+              "Peștera Spuž este un adăpost de primă clasă pentru bicicliști.",
+              "Ștergeți jantele regulat pentru o performanță mai bună a frânelor.",
+              "Reduceți ușor presiunea în anvelope pentru aderență pe drumuri umede."
+            ],
+            "en": [
+              "Avoid white road markings; they are extremely slippery when wet.",
+              "Wear a neon yellow rain jacket for better visibility.",
+              "Spuž Cave is a top-tier shelter for cyclists.",
+              "Wipe your rims regularly for better braking performance.",
+              "Reduce tire pressure slightly for more grip on wet paths."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Bahnhof Spuž. Die kalte Luft beißt im Gesicht, aber die Bewegung wärmt schnell auf, während Sie zur Brücke radeln.\n\nMittags glitzert der Frost auf der Promenade. Die klare Winterluft ermöglicht weite Ausblicke auf die Berge, die im Sonnenlicht funkeln.\n\nDer Nachmittag erfordert Kraft für die Glavica. Oben angekommen, belohnt die kühle Stille der Festung die Mühen, bevor die Schatten länger werden.\n\nBesuchen Sie die Höhle und die alte Mühle in der goldenen Stunde. Die tiefstehende Sonne taucht die Landschaft in warme Töne, bevor der Tag frostig an der Kirche endet.",
+            "hu": "Deres indulás a Spuž-állomástól. A hideg levegő marja az arcot, de a mozgás gyorsan felmelegít, miközben a híd felé teker.\n\nDélben csillog a dér a sétányon. A tiszta téli levegő messzi kilátást enged a hegyekre, amelyek szikráznak a napsütésben.\n\nA délután erőt igényel a Glavica megmászásához. Felérve az erőd hűvös csendje jutalmazza a fáradságot, mielőtt megnyúlnak az árnyékok.\n\nLátogasson el a barlanghoz és az ódon malomhoz az aranyórában. Az alacsonyan járó nap meleg tónusokba vonja a tájat, mielőtt a nap fagyosan ér véget a templomnál.",
+            "ro": "Un start înghețat la gara Spuž. Aerul rece ciupește fața, dar mișcarea vă încălzește rapid în timp ce pedalați spre pod.\n\nLa prânz, bruma strălucește pe faleză. Aerul clar de iarnă permite vederi panoramice spre munții care sclipesc în lumina soarelui.\n\nDupă-amiaza necesită efort pentru Glavica. Odată ajuns sus, liniștea rece a cetății răsplătește efortul înainte ca umbrele să se lungească.\n\nVizitați peștera și moara veche în ora de aur. Soarele blând scaldă peisajul în tonuri calde înainte ca ziua să se încheie la biserică.",
+            "en": "A frosty start at Spuž station. The cold air bites your face, but the movement warms you up quickly as you cycle to the bridge.\n\nAt noon, frost glitters on the promenade. The clear winter air allows for wide views of the mountains sparkling in the sunlight.\n\nAfternoon requires effort for Glavica. Once at the top, the cool silence of the fortress rewards your toil before shadows lengthen.\n\nVisit the cave and the old mill during the golden hour. The low sun bathes the landscape in warm tones before the day ends frostily at the church."
+          },
+          "stops": [
+            {
+              "name": "Spuž Train Station",
+              "tip_5lang": {
+                "de": "Kettenöl für niedrige Temperaturen verwenden, um Einfrieren zu vermeiden.",
+                "hu": "Használjon alacsony hőmérsékletre szánt láncolajat a fagyás elkerülésére.",
+                "ro": "Folosiți ulei de lanț pentru temperaturi joase pentru a evita înghețarea.",
+                "en": "Use chain oil for low temperatures to prevent freezing."
+              }
+            },
+            {
+              "name": "Zeta Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht bei Windböen auf der offenen Brücke.",
+                "hu": "Vigyázzon a széllökésekkel a nyitott hídon.",
+                "ro": "Atenție la rafalele de vânt pe podul deschis.",
+                "en": "Watch out for wind gusts on the open bridge."
+              }
+            },
+            {
+              "name": "Zeta Promenade",
+              "tip_5lang": {
+                "de": "Schattige Abschnitte können länger glatt bleiben.",
+                "hu": "Az árnyékos szakaszok tovább maradhatnak csúszósak.",
+                "ro": "Secțiunile umbrite pot rămâne alunecoase mai mult timp.",
+                "en": "Shaded sections may stay slippery longer."
+              }
+            },
+            {
+              "name": "Spuž Fortress (Glavica)",
+              "tip_5lang": {
+                "de": "Körperwärme durch konstantes Treten halten.",
+                "hu": "Tartsa fenn a testhőt folyamatos tekeréssel.",
+                "ro": "Mențineți căldura corporală prin pedalare constantă.",
+                "en": "Maintain body heat by pedaling constantly."
+              }
+            },
+            {
+              "name": "Spuž Cave",
+              "tip_5lang": {
+                "de": "Die Höhlentemperatur ist oft milder als die Außenluft.",
+                "hu": "A barlang hőmérséklete gyakran enyhébb, mint a kinti levegő.",
+                "ro": "Temperatura din peșteră este adesea mai blândă decât aerul exterior.",
+                "en": "Cave temperature is often milder than the outside air."
+              }
+            },
+            {
+              "name": "Old Mill of Spuž",
+              "tip_5lang": {
+                "de": "Frühzeitiges Licht am Fahrrad für die Dämmerung prüfen.",
+                "hu": "Ellenőrizze időben a kerékpár lámpáit az alkonyat előtt.",
+                "ro": "Verificați luminile bicicletei din timp pentru amurg.",
+                "en": "Check your bike lights early for the dusk."
+              }
+            },
+            {
+              "name": "Church of the Birth of Mary",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Aufwärmen, bevor es zurück geht.",
+                "hu": "Rövid megálló melegedni, mielőtt visszaindulna.",
+                "ro": "Scurtă oprire pentru încălzire înainte de întoarcere.",
+                "en": "Short stop to warm up before heading back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe sind für Winterradler in Montenegro Pflicht.",
+              "Vermeiden Sie langes Stehenbleiben, um nicht auszukühlen.",
+              "Die Zeta-Promenade bietet im Winter hervorragende Fotomotive.",
+              "Trinken Sie ausreichend, auch wenn Sie weniger Durst verspüren.",
+              "Prüfen Sie den Reifendruck, da Luft bei Kälte an Volumen verliert."
+            ],
+            "hu": [
+              "A szélálló kesztyű kötelező a téli bringásoknak Montenegróban.",
+              "Kerülje a hosszú álldogálást, nehogy kihűljön.",
+              "A Zeta-sétány télen kiváló fotótémákat kínál.",
+              "Igyon elegendő folyadékot, még ha kevésbé is szomjas.",
+              "Ellenőrizze a guminyomást, mert a hidegben csökken a levegő térfogata."
+            ],
+            "ro": [
+              "Mănușile rezistente la vânt sunt obligatorii pentru bicicliștii de iarnă.",
+              "Evitați opririle lungi pentru a nu vă răci.",
+              "Faleza Zeta oferă oportunități foto excelente iarna.",
+              "Beți suficiente lichide, chiar dacă simțiți mai puțină sete.",
+              "Verificați presiunea în pneuri, deoarece aerul își pierde volumul la frig."
+            ],
+            "en": [
+              "Windproof gloves are a must for winter cyclists in Montenegro.",
+              "Avoid standing still for too long to prevent getting chilled.",
+              "The Zeta promenade offers excellent photo opportunities in winter.",
+              "Drink enough fluids even if you feel less thirsty.",
+              "Check tire pressure, as air loses volume in the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -845,6 +1243,178 @@
           "Plan your route in advance, as signage can sometimes be unclear.",
           "Have some cash on hand for small purchases or parking fees."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Fahrt durch das verregnete Spuž vom trockenen Inneren Ihres Wagens aus. Das Stadtzentrum bietet kurze Wege zwischen den Sehenswürdigkeiten.\n\nMittags ist die Marienkirche leicht zu erreichen, mit Parkmöglichkeiten direkt in der Nähe. Der Blick auf den Fluss von der Promenade aus ist auch durch die Windschutzscheibe reizvoll.\n\nNachmittags parken Sie am Fuße der Glavica. Der kurze Sprint zur Festung wird durch die dramatische Aussicht auf das wolkenverhangene Tal belohnt.\n\nSchließen Sie den Tag mit einem Besuch der Höhle ab. Das Auto dient als perfektes Basislager, um zwischen den Besichtigungen trocken zu bleiben.",
+            "hu": "Élvezze a vezetést az esős Spužban autója száraz belsejéből. A városközpont rövid távolságokat kínál a látnivalók között.\n\nDélben a Mária-templom könnyen megközelíthető, közvetlen közeli parkolással. A folyóra nyíló kilátás a sétányról a szélvédőn keresztül is elragadó.\n\nDélután parkoljon a Glavica lábánál. A rövid sprint az erődhöz kárpótol a felhőkbe burkolózó völgy drámai látványáért.\n\nZárja a napot a barlang meglátogatásával. Az autó tökéletes bázisként szolgál, hogy száraz maradjon a látogatások között.",
+            "ro": "Bucurați-vă de condus prin Spuž-ul ploios din interiorul uscat al mașinii. Centrul orașului oferă distanțe scurte între obiective.\n\nLa prânz, Biserica Maria este ușor accesibilă, cu locuri de parcare în apropiere. Vederea spre râu de pe faleză este încântătoare chiar și prin parbriz.\n\nDupă-amiaza parcați la poalele Glavica. Scurtul sprint spre cetate este răsplătit de vederea dramatică a văii acoperite de nori.\n\nÎncheiați ziua cu o vizită la peșteră. Mașina servește ca bază perfectă pentru a rămâne uscat între vizite.",
+            "en": "Enjoy the drive through rainy Spuž from the dry interior of your car. The city center offers short distances between the sights.\n\nAt noon, Mary's Church is easily accessible with parking available nearby. The river view from the promenade is charming even through the windshield.\n\nIn the afternoon, park at the foot of Glavica. The short sprint to the fortress is rewarded by dramatic views of the cloud-covered valley.\n\nFinish the day with a visit to the cave. The car serves as the perfect base camp to stay dry between explorations."
+          },
+          "stops": [
+            {
+              "name": "Spuž Center Cluster",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz im Zentrum für schnellen Zugang zur Brücke.",
+                "hu": "Használja a központi parkolót a híd gyors eléréséhez.",
+                "ro": "Folosiți parcarea din centru pentru acces rapid la pod.",
+                "en": "Use the central car park for quick access to the bridge."
+              }
+            },
+            {
+              "name": "Church of the Birth of Mary",
+              "tip_5lang": {
+                "de": "Parken Sie direkt vor dem Tor, um Regenminuten zu minimieren.",
+                "hu": "Parkoljon közvetlenül a kapunál az esőben töltött idő minimalizálására.",
+                "ro": "Parcați chiar în fața porții pentru a minimiza timpul petrecut în ploaie.",
+                "en": "Park right by the gate to minimize minutes in the rain."
+              }
+            },
+            {
+              "name": "Zeta Promenade",
+              "tip_5lang": {
+                "de": "Vom Parkstreifen aus haben Sie einen tollen Blick auf den Fluss.",
+                "hu": "A parkolósávból remek kilátás nyílik a folyóra.",
+                "ro": "Din zona de parcare aveți o vedere excelentă asupra râului.",
+                "en": "From the parking strip, you have a great view of the river."
+              }
+            },
+            {
+              "name": "Fortress & Cave Cluster",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße kann bei starkem Regen schlammig sein.",
+                "hu": "A bekötőút heves esőzéskor sáros lehet.",
+                "ro": "Drumul de acces poate fi noroios în caz de ploaie torențială.",
+                "en": "The access road can be muddy during heavy rain."
+              }
+            },
+            {
+              "name": "Spuž Cave",
+              "tip_5lang": {
+                "de": "Lassen Sie keine nassen Schirme auf den Polstern liegen.",
+                "hu": "Ne hagyjon nedves esernyőket az üléseken.",
+                "ro": "Nu lăsați umbrele umede pe tapițerie.",
+                "en": "Don't leave wet umbrellas on the upholstery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Straßen entlang der Zeta.",
+              "Die Klimaanlage hilft, die beschlagenen Scheiben schnell zu klären.",
+              "Spitzenzeiten im Zentrum sind bei Regen oft hektischer.",
+              "Halten Sie ein Handtuch im Kofferraum für nasse Kleidung bereit.",
+              "Nutzen Sie Google Maps für Echtzeit-Infos zu Straßenzuständen."
+            ],
+            "hu": [
+              "Ügyeljen a vízfelúszásra a Zeta menti utakon.",
+              "A légkondicionáló segít a párás szélvédő gyors leolvasztásában.",
+              "A központban az esős csúcsforgalom gyakran hektikusabb.",
+              "Tartson egy törölközőt a csomagtartóban a nedves ruhákhoz.",
+              "Használja a Google Maps-et a valós idejű útinformációkhoz."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile de-a lungul Zeta.",
+              "Aerul condiționat ajută la dezaburirea rapidă a parbrizului.",
+              "Orele de vârf în centru sunt adesea mai agitate pe ploaie.",
+              "Păstrați un prosop în portbagaj pentru hainele ude.",
+              "Utilizați Google Maps pentru informații în timp real despre starea drumurilor."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the roads along the Zeta.",
+              "Air conditioning helps clear fogged windshields quickly.",
+              "Peak times in the center are often more hectic in the rain.",
+              "Keep a towel in the trunk for wet clothes.",
+              "Use Google Maps for real-time road condition updates."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Wintertour im vorgewärmten Auto. Die Fahrt durch Spuž ist entspannt, während draußen der Morgenfrost die Landschaft verziert.\n\nMittags strahlt die Marienkirche im klaren Winterlicht. Dank der kurzen Wege im Auto bleibt Ihnen mehr Zeit für die Innenbesichtigungen im Warmen.\n\nDer Nachmittag am Fortress-Cluster bietet spektakuläre Ausblicke. Die tiefstehende Sonne sorgt für perfekte Lichtverhältnisse für Ihre Fotos vom Tal.\n\nBeenden Sie den Tag an der Höhle, bevor es dunkel wird. Die Heizung im Wagen sorgt für wohlige Wärme auf der kurzen Rückfahrt ins Stadtzentrum.",
+            "hu": "Kezdje a téli túrát az előmelegített autóban. A vezetés Spužban pihentető, miközben kint a reggeli dér díszíti a tájat.\n\nDélben a Mária-templom ragyog a tiszta téli fényben. Az autóval megtett rövid utaknak köszönhetően több idő marad a benti, meleg nézelődésre.\n\nA délután az erőd-klaszternél látványos kilátást kínál. Az alacsonyan járó nap tökéletes fényviszonyokat biztosít a völgyről készült fotókhoz.\n\nZárja a napot a barlangnál, mielőtt besötétedik. Az autó fűtése kellemes meleget ad a rövid visszaúton a városközpontba.",
+            "ro": "Începeți turul de iarnă în mașina preîncălzită. Condusul prin Spuž este relaxant, în timp ce afară bruma dimineții decorează peisajul.\n\nLa prânz, Biserica Maria strălucește în lumina clară de iarnă. Datorită distanțelor scurte cu mașina, aveți mai mult timp pentru vizite în interior la căldură.\n\nDupă-amiaza la zona cetății oferă vederi spectaculoase. Soarele jos oferă condiții de lumină perfecte pentru fotografiile din vale.\n\nÎncheiați ziua la peșteră înainte de lăsarea întunericului. Încălzirea din mașină asigură o căldură plăcută pe drumul scurt de întoarcere în centru.",
+            "en": "Start your winter tour in a preheated car. Driving through Spuž is relaxed as morning frost decorates the landscape outside.\n\nAt noon, Mary's Church shines in the clear winter light. Thanks to short drives, you have more time for indoor viewings in the warmth.\n\nAfternoon at the fortress cluster offers spectacular views. The low sun provides perfect lighting conditions for your photos of the valley.\n\nFinish the day at the cave before it gets dark. The car's heater ensures cozy warmth on the short drive back to the city center."
+          },
+          "stops": [
+            {
+              "name": "Spuž Center Cluster",
+              "tip_5lang": {
+                "de": "Parken Sie in der Sonne, um das Auto auf natürliche Weise warm zu halten.",
+                "hu": "Parkoljon a napon, hogy az autó természetes módon meleg maradjon.",
+                "ro": "Parcați la soare pentru a menține mașina caldă în mod natural.",
+                "en": "Park in the sun to keep the car warm naturally."
+              }
+            },
+            {
+              "name": "Church of the Birth of Mary",
+              "tip_5lang": {
+                "de": "Der kurze Fußweg vom Parkplatz schont Ihre Energie.",
+                "hu": "A parkolótól való rövid séta segít megőrizni az energiáját.",
+                "ro": "Scurta plimbare de la parcare vă menține energia.",
+                "en": "The short walk from the car park saves your energy."
+              }
+            },
+            {
+              "name": "Zeta Promenade",
+              "tip_5lang": {
+                "de": "Heizung während kurzer Fotostopps auf kleiner Stufe lassen.",
+                "hu": "A fűtést a rövid fotómegállók alatt hagyja alacsony fokozaton.",
+                "ro": "Lăsați încălzirea pe treaptă mică în timpul opririlor scurte pentru poze.",
+                "en": "Keep the heater on low during short photo stops."
+              }
+            },
+            {
+              "name": "Fortress & Cave Cluster",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe in den schattigen Kurven.",
+                "hu": "Vigyázzon a lefagyásokkal az árnyékos kanyarokban.",
+                "ro": "Atenție la polei în curbele umbrite.",
+                "en": "Watch out for black ice in shaded turns."
+              }
+            },
+            {
+              "name": "Spuž Cave",
+              "tip_5lang": {
+                "de": "Warme Jacken für den Gang vom Auto zur Höhle anziehen.",
+                "hu": "Vegyen fel meleg kabátot az autótól a barlangig tartó sétához.",
+                "ro": "Puneți-vă haine groase pentru mersul de la mașină la peșteră.",
+                "en": "Put on warm jackets for the walk from the car to the cave."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Batteriekapazität sinkt bei Kälte; starten Sie den Wagen rechtzeitig.",
+              "Eiskratzer und Handfeger gehören im Winter zur Standardausrüstung.",
+              "Winterreifen sind auf den Nebenstraßen von Spuž sehr ratsam.",
+              "Nutzen Sie die Sitzheizung für schnellen Komfort nach Außenbesichtigungen."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Az akkumulátor kapacitása csökken hidegben; időben indítsa be az autót.",
+              "A jégkaparó és a kefe alapfelszerelés télen.",
+              "A téli gumi nagyon ajánlott Spuž mellékútjain.",
+              "Használja az ülésfűtést a gyors kényelemért a kinti nézelődés után."
+            ],
+            "ro": [
+              "Verificați antigelul în lichidul de parbriz.",
+              "Capacitatea bateriei scade la frig; porniți mașina la timp.",
+              "Răzuitoarea de gheață și peria sunt echipamente standard iarna.",
+              "Anvelopele de iarnă sunt foarte recomandate pe drumurile secundare din Spuž.",
+              "Folosiți încălzirea în scaune pentru confort rapid după vizitele externe."
+            ],
+            "en": [
+              "Check the antifreeze in the windshield washer fluid.",
+              "Battery capacity drops in the cold; start the car in good time.",
+              "Ice scraper and brush are standard equipment in winter.",
+              "Winter tires are highly advisable on Spuž's side roads.",
+              "Use seat heating for quick comfort after outdoor sightseeing."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1085,6 +1655,178 @@
           "Have small change ready for bus tickets.",
           "Most distances in the center are easily walkable."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Bahnhof als trockene Basis für Ihren Tag. Der Zug bietet eine entspannte Anreise mit Blick auf die verregnete Zeta-Ebene.\n\nMittags erreichen Sie das Denkmal und das Flussufer. Kurze Sprints zwischen den Haltestellen und den überdachten Bereichen halten Sie trocken.\n\nNachmittags ist die Promenade im Regen ein ruhiger Ort. Die Festung Spuž ist vom Transit-Cluster aus gut erreichbar, erfordert aber einen wetterfesten Aufstieg.\n\nLassen Sie den Tag am Bahnhof ausklingen, während Sie auf den Rückzug warten. Ein unkomplizierter Weg, Spuž auch bei schlechtem Wetter zu erleben.",
+            "hu": "Használja az állomást száraz bázisként. A vonat nyugodt érkezést biztosít, kilátással az esős Zeta-síkságra.\n\nDélben elérheti az emlékművet és a folyópartot. A megállók és a fedett részek közötti rövid futások segítenek szárazon maradni.\n\nDélután a sétány az esőben csendes hely. A Spuž-erőd jól megközelíthető a tranzitcsomópontból, de időjárásálló felkapaszkodást igényel.\n\nZárja a napot az állomáson, miközben a visszautat várja. Egyszerű módja Spuž felfedezésének rossz időben is.",
+            "ro": "Folosiți gara ca bază uscată pentru ziua dumneavoastră. Trenul oferă o sosire relaxată cu vedere spre câmpia Zeta ploioasă.\n\nLa prânz ajungeți la monument și la malul râului. Sprinturile scurte între stații și zonele acoperite vă mențin uscat.\n\nDupă-amiaza faleza este un loc liniștit pe ploaie. Cetatea Spuž este ușor accesibilă din nodul de tranzit, dar necesită o urcare rezistentă la intemperii.\n\nÎncheiați ziua la gară în timp ce așteptați plecarea. O modalitate simplă de a experimenta Spuž chiar și pe vreme rea.",
+            "en": "Use the station as a dry base for your day. The train offers a relaxed arrival with views of the rainy Zeta plain.\n\nAt noon you reach the monument and the riverbank. Short dashes between stops and covered areas keep you dry.\n\nIn the afternoon, the promenade is a quiet place in the rain. Spuž Fortress is easily accessible from the transit cluster but requires a weatherproof climb.\n\nFinish the day at the station while waiting for your return. An uncomplicated way to experience Spuž even in bad weather."
+          },
+          "stops": [
+            {
+              "name": "Train Station Cluster",
+              "tip_5lang": {
+                "de": "Warten Sie im Bahnhofsgebäude auf den Zug.",
+                "hu": "Várjon a vonat érkezésére az állomásépületben.",
+                "ro": "Așteptați trenul în interiorul clădirii gării.",
+                "en": "Wait for the train inside the station building."
+              }
+            },
+            {
+              "name": "Monument to the Fallen",
+              "tip_5lang": {
+                "de": "Die nächste Bushaltestelle bietet Schutz bei plötzlichen Schauern.",
+                "hu": "A legközelebbi buszmegálló védelmet nyújt a hirtelen záporoknál.",
+                "ro": "Cea mai apropiată stație de autobuz oferă adăpost în caz de averse.",
+                "en": "The nearest bus stop provides shelter from sudden showers."
+              }
+            },
+            {
+              "name": "Riverbank Cluster",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das lange Warten direkt am Wasser ohne Schirm.",
+                "hu": "Kerülje a hosszas várakozást közvetlenül a víznél esernyő nélkül.",
+                "ro": "Evitați așteptarea lungă direct lângă apă fără umbrelă.",
+                "en": "Avoid long waits directly by the water without an umbrella."
+              }
+            },
+            {
+              "name": "Zeta Promenade",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg zur Haltestelle rechtzeitig ein.",
+                "hu": "Tervezze meg időben a visszautat a megállóhoz.",
+                "ro": "Planificați din timp întoarcerea la stație.",
+                "en": "Plan your return to the stop in good time."
+              }
+            },
+            {
+              "name": "Spuž Fortress (Glavica)",
+              "tip_5lang": {
+                "de": "Der Aufenthalt kann bei starkem Regen verkürzt werden.",
+                "hu": "Erős esőzés esetén a tartózkodás lerövidíthető.",
+                "ro": "Șederea poate fi scurtată în caz de ploaie puternică.",
+                "en": "The stay can be shortened in case of heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die Fahrplan-App für Echtzeit-Updates bei Regen.",
+              "Die Züge zwischen Podgorica und Nikšić halten zuverlässig in Spuž.",
+              "Nutzen Sie die Wartehallen als trockenen Treffpunkt.",
+              "Ein Poncho ist praktischer als ein Schirm beim Ein- und Aussteigen.",
+              "Halten Sie Kleingeld für die Fahrkarten im Bus bereit."
+            ],
+            "hu": [
+              "Töltse le a menetrendi appot a valós idejű frissítésekhez esőben.",
+              "A Podgorica és Nikšić közötti vonatok megbízhatóan megállnak Spužban.",
+              "Használja a várótermeket száraz találkozási pontként.",
+              "A poncsó praktikusabb az esernyőnél a le- és felszálláskor.",
+              "Legyen kéznél aprópénz a buszjegyezéshez."
+            ],
+            "ro": [
+              "Descărcați aplicația de mers al trenurilor pentru actualizări pe ploaie.",
+              "Trenurile între Podgorica și Nikšić opresc regulat în Spuž.",
+              "Folosiți sălile de așteptare ca punct de întâlnire uscat.",
+              "Un pelerină de ploaie este mai practică decât o umbrelă la urcare/coborâre.",
+              "Aveți pregătit mărunțiș pentru biletele de autobuz."
+            ],
+            "en": [
+              "Download the schedule app for real-time updates in the rain.",
+              "Trains between Podgorica and Nikšić stop reliably in Spuž.",
+              "Use waiting halls as a dry meeting point.",
+              "A poncho is more practical than an umbrella when boarding.",
+              "Keep small change ready for bus tickets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am Bahnhof Spuž. Die Anreise mit öffentlichen Verkehrsmitteln ist entspannt und bietet Zeit, die frostige Landschaft zu beobachten.\n\nMittags erkunden Sie das Denkmal und das Ufer. Die kühle Luft ist belebend, und die Transit-Verbindungen halten die Gehwege kurz.\n\nDer Nachmittag an der Promenade und der Festung bietet weite Ausblicke. Das winterliche Licht ist perfekt für Landschaftsaufnahmen vom Gipfel der Glavica.\n\nBeenden Sie die Tour im beheizten Bahnhofsgebäude. Eine komfortable Möglichkeit, die historische Atmosphäre von Spuž in der kalten Jahreszeit zu genießen.",
+            "hu": "Tiszta téli reggel a Spuž-állomáson. A tömegközlekedéssel való érkezés nyugodt, és időt ad a deres táj megfigyelésére.\n\nDélben felfedezheti az emlékművet és a folyópartot. A hűvös levegő élénkítő, a tranzitkapcsolatok pedig rövidre fogják a gyalogutakat.\n\nA délután a sétányon és az erődnél messzi kilátást kínál. A téli fény tökéletes a Glavica csúcsáról készült tájképekhez.\n\nZárja a túrát a fűtött állomásépületben. Kényelmes módja annak, hogy élvezze Spuž történelmi hangulatát a hideg évszakban.",
+            "ro": "O dimineață clară de iarnă la gara Spuž. Sosirea cu transportul public este relaxantă și oferă timp pentru a observa peisajul brumat.\n\nLa prânz explorați monumentul și malul râului. Aerul rece este revigorant, iar conexiunile de tranzit mențin scurte distanțele pe jos.\n\nDupă-amiaza pe faleză și la cetate oferă vederi panoramice. Lumina de iarnă este perfectă pentru fotografii de pe vârful Glavica.\n\nÎncheiați turul în clădirea încălzită a gării. O modalitate confortabilă de a vă bucura de atmosfera istorică a Spuž-ului în sezonul rece.",
+            "en": "A clear winter morning at Spuž station. Arriving by public transport is relaxed and offers time to observe the frosty landscape.\n\nAt noon you explore the monument and the riverbank. The cool air is invigorating, and transit connections keep the walking distances short.\n\nAfternoon on the promenade and the fortress offers wide views. The winter light is perfect for landscape shots from the top of Glavica.\n\nFinish the tour in the heated station building. A comfortable way to enjoy the historic atmosphere of Spuž in the cold season."
+          },
+          "stops": [
+            {
+              "name": "Train Station Cluster",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Warteraum, falls vorhanden.",
+                "hu": "Használja a fűtött várótermet, ha rendelkezésre áll.",
+                "ro": "Folosiți sala de așteptare încălzită, dacă este disponibilă.",
+                "en": "Use the heated waiting room if available."
+              }
+            },
+            {
+              "name": "Monument to the Fallen",
+              "tip_5lang": {
+                "de": "Der Aufenthalt im Freien sollte durch Bewegung warm gehalten werden.",
+                "hu": "A szabadban tartózkodás alatt mozogjon, hogy ne fagyjon meg.",
+                "ro": "Rămâneți în mișcare afară pentru a vă păstra căldura.",
+                "en": "Keep moving while outside to stay warm."
+              }
+            },
+            {
+              "name": "Riverbank Cluster",
+              "tip_5lang": {
+                "de": "Vorsicht vor Windchill-Effekt direkt am Wasser.",
+                "hu": "Vigyázzon a szélhűtés-hatással közvetlenül a víznél.",
+                "ro": "Atenție la efectul de răcire a vântului lângă apă.",
+                "en": "Beware of the wind chill effect right by the water."
+              }
+            },
+            {
+              "name": "Zeta Promenade",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg, bevor es zu kalt wird.",
+                "hu": "Tervezze meg a visszautat, mielőtt túl hideg lesz.",
+                "ro": "Planificați întoarcerea înainte de a deveni prea frig.",
+                "en": "Plan your return before it gets too cold."
+              }
+            },
+            {
+              "name": "Spuž Fortress (Glavica)",
+              "tip_5lang": {
+                "de": "Die Züge verkehren auch im Winter nach dem regulären Fahrplan.",
+                "hu": "A vonatok télen is a rendes menetrend szerint közlekednek.",
+                "ro": "Trenurile circulă conform orarului regulat și iarna.",
+                "en": "Trains run according to the regular schedule in winter as well."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie mögliche Winterfahrplan-Änderungen online.",
+              "Tragen Sie warme Socken für das Warten an der Haltestelle.",
+              "Die Züge sind in der Regel gut beheizt.",
+              "Nutzen Sie die Tageslichtstunden effizient zwischen 9 und 16 Uhr.",
+              "Die Bushaltestellen im Zentrum sind im Winter oft ruhiger."
+            ],
+            "hu": [
+              "Ellenőrizze online az esetleges téli menetrendi változásokat.",
+              "Viseljen meleg zoknit a megállóban való várakozáshoz.",
+              "A vonatok általában jól fűtöttek.",
+              "Használja ki hatékonyan a nappali órákat 9 és 16 óra között.",
+              "A központi buszmegállók télen gyakran csendesebbek."
+            ],
+            "ro": [
+              "Verificați online eventualele modificări ale mersului trenurilor de iarnă.",
+              "Purtați șosete groase pentru așteptarea în stație.",
+              "Trenurile sunt de obicei bine încălzite.",
+              "Folosiți eficient orele de lumină între 9:00 și 16:00.",
+              "Stațiile de autobuz din centru sunt adesea mai liniștite iarna."
+            ],
+            "en": [
+              "Check for potential winter schedule changes online.",
+              "Wear warm socks for waiting at the stop.",
+              "The trains are usually well heated.",
+              "Use daylight hours efficiently between 9 AM and 4 PM.",
+              "Central bus stops are often quieter in winter."
+            ]
+          }
+        }
       }
     }
   }

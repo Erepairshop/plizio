@@ -362,6 +362,188 @@
           "Take your time strolling along the riverbank to enjoy the scenery.",
           "Chat with the locals; the people of Fermoy are known for their friendliness."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in den schützenden Mauern der St. Patrick's und Christ Church. Mittags locken die gemütlichen Cafés im Stadtzentrum mit warmer Suppe. Nachmittags bietet die Fermoy Bridge einen dramatischen Blick auf den schäumenden Blackwater River im Regen. Der Tag endet mit einem kurzen, erfrischenden Spaziergang durch den Town Park, bevor Sie ins Trockene zurückkehren.",
+            "hu": "A napot a St. Patrick és Christ Church falaiban kezdjük, védve az esőtől. Ebédidőben Fermoy központjának hangulatos éttermei nyújtanak menedéket. Délután a történelmi hídról figyelhetjük a megduzzadt Blackwater folyót, majd egy rövid sétát teszünk a városi park esőáztatta ösvényein. Az estét egy közeli pub melegében zárjuk, hallgatva az ír eső kopogását.",
+            "ro": "Începeți ziua în interiorul bisericilor St. Patrick și Christ Church, feriți de ploaie. La prânz, restaurantele din centru vă așteaptă cu preparate calde. După-amiaza, admirați râul Blackwater de pe podul istoric, unde ploaia creează un decor dramatic. Încheiați ziua cu o plimbare scurtă prin parcul orașului, bucurându-vă de aerul proaspăt înainte de a vă retrage la căldură.",
+            "en": "Start your day inside the sheltering walls of St. Patrick’s and Christ Church. At lunch, the cozy cafes in the town centre offer the perfect refuge from the drizzle. In the afternoon, Fermoy Bridge provides a dramatic view of the Blackwater River in the rain. End the day with a refreshing stroll through the town park's wet paths before heading back to a warm indoor spot."
+          },
+          "stops": [
+            {
+              "name": "St. Patrick's Church",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ersten Regenschauer trocken abzuwarten.",
+                "hu": "Tökéletes helyszín az első záporok átvészeléséhez a szárazban.",
+                "ro": "Locul ideal pentru a aștepta trecerea primei averse de ploaie.",
+                "en": "The perfect place to wait out the first rain shower in the dry."
+              }
+            },
+            {
+              "name": "Christ Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur, während es draußen regnet.",
+                "hu": "Csodálja meg az építészetet, miközben odakint esik az eső.",
+                "ro": "Admirați arhitectura interioară în timp ce afară plouă.",
+                "en": "Admire the interior architecture while it rains outside."
+              }
+            },
+            {
+              "name": "Fermoy Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht, der Bürgersteig kann bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a járdaszegély nedvesen csúszós lehet.",
+                "ro": "Atenție, trotuarul poate fi alunecos când este ud.",
+                "en": "Careful, the pavement can be slippery when wet."
+              }
+            },
+            {
+              "name": "Fermoy Town Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die hohen Bäume als natürlichen Regenschutz.",
+                "hu": "Használja a magas fákat természetes esernyőként.",
+                "ro": "Folosiți copacii înalți ca adăpost natural împotriva ploii.",
+                "en": "Use the tall trees as natural shelter against the rain."
+              }
+            },
+            {
+              "name": "Lunch in the Town Centre",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz am Fenster, um den Regen zu beobachten.",
+                "hu": "Válasszon ablak melletti asztalt az eső figyeléséhez.",
+                "ro": "Alegeți o masă la fereastră pentru a privi ploaia.",
+                "en": "Pick a window seat to watch the rain fall outside."
+              }
+            },
+            {
+              "name": "Barnane Walk",
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Schuhe für die ufernahen Wege.",
+                "hu": "Viseljen vízálló cipőt a folyóparti ösvényekhez.",
+                "ro": "Purtați încălțăminte impermeabilă pentru potecile de pe mal.",
+                "en": "Wear waterproof shoes for the riverside paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fermoy hat viele Arkaden und Vordächer im Zentrum.",
+              "Der Blackwater River führt bei Regen oft mehr Wasser.",
+              "Die Kirchen bieten den besten Schutz bei Starkregen.",
+              "In den lokalen Pubs gibt es oft Trockenmöglichkeiten für Jacken."
+            ],
+            "hu": [
+              "Fermoy központjában sok a fedett árkád és előtető.",
+              "A Blackwater folyó esőben látványosabb és sodróbb.",
+              "A templomok a legjobb menedékek hirtelen felhőszakadáskor.",
+              "A helyi pubokban gyakran van lehetőség a kabátok megszárítására."
+            ],
+            "ro": [
+              "Centrul orașului Fermoy are multe arcade și copertine.",
+              "Râul Blackwater este mult mai spectaculos pe timp de ploaie.",
+              "Bisericile oferă cel mai bun adăpost în caz de furtună.",
+              "Pub-urile locale au adesea spații unde vă puteți usca hainele."
+            ],
+            "en": [
+              "Fermoy centre has many covered archways and shop awnings.",
+              "The Blackwater River is much more dramatic during rainfall.",
+              "Churches provide the best shelter during heavy downpours.",
+              "Local pubs often have areas where you can dry your coat."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen glänzt der Frost auf den Dächern von Fermoy. Mittags wärmen wir uns in einem Pub mit offenem Kamin auf. Da die Sonne früh untergeht, genießen wir das goldene Licht auf dem Blackwater River bereits am frühen Nachmittag. Der Tag endet mit einem stimmungsvollen Spaziergang unter der Weihnachtsbeleuchtung im Stadtpark.",
+            "hu": "A tiszta téli reggelen zúzmara csillog Fermoy háztetőin. Ebédidőben egy kandallós pubban melegszünk fel a hideg után. Mivel a nap korán nyugszik, már kora délután élvezhetjük az aranyló fényeket a Blackwater folyón. A napot hangulatos séta zárja a városi parkban, ahol a téli fények ünnepi hangulatot árasztanak.",
+            "ro": "Într-o dimineață senină de iarnă, promoroaca strălucește pe acoperișurile din Fermoy. La prânz, ne încălzim într-un pub cu șemineu. Deoarece soarele apune devreme, ne bucurăm de lumina aurie de pe râul Blackwater încă de la începutul după-amiezii. Ziua se încheie cu o plimbare atmosferică sub luminile de iarnă din parcul orașului.",
+            "en": "On a crisp winter morning, frost glistens on the rooftops of Fermoy. At lunch, we warm up in a pub with a roaring fireplace. Since the sun sets early, we enjoy the golden light on the Blackwater River by mid-afternoon. The day ends with an atmospheric stroll under the winter lights in the town park as the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "St. Patrick's Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte gut ab.",
+                "hu": "A vastag falak jól kint tartják a téli fagyot.",
+                "ro": "Zidurile groase protejează bine împotriva frigului.",
+                "en": "The thick stone walls keep the winter chill at bay."
+              }
+            },
+            {
+              "name": "Christ Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am Vormittag für das beste Licht.",
+                "hu": "Látogassa meg délelőtt a legszebb fényekért.",
+                "ro": "Vizitați biserica dimineața pentru cea mai bună lumină.",
+                "en": "Visit in the morning for the best low winter light."
+              }
+            },
+            {
+              "name": "Fermoy Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf der Brücke bei Minusgraden.",
+                "hu": "Vigyázat, fagypont alatt a híd jegesedhet.",
+                "ro": "Atenție la polei pe pod când temperaturile scad sub zero.",
+                "en": "Watch out for black ice on the bridge in freezing temps."
+              }
+            },
+            {
+              "name": "Fermoy Town Park",
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief über dem Fluss, ideal für Fotos.",
+                "hu": "A téli nap alacsonyan jár a folyó felett, fotózáshoz ideális.",
+                "ro": "Soarele de iarnă stă jos deasupra râului, ideal pentru poze.",
+                "en": "The winter sun sits low over the river, perfect for photos."
+              }
+            },
+            {
+              "name": "Lunch in the Town Centre",
+              "tip_5lang": {
+                "de": "Probieren Sie einen traditionellen Irish Stew zum Aufwärmen.",
+                "hu": "Kóstoljon meg egy hagyományos ír pörköltet a melegedéshez.",
+                "ro": "Încercați un Irish Stew tradițional pentru a vă încălzi.",
+                "en": "Try a traditional Irish Stew to warm you up thoroughly."
+              }
+            },
+            {
+              "name": "Barnane Walk",
+              "tip_5lang": {
+                "de": "Gehen Sie hier vor 16:30 Uhr spazieren, bevor es dunkel wird.",
+                "hu": "Sétáljon itt 16:30 előtt, mielőtt teljesen besötétedik.",
+                "ro": "Plimbați-vă aici înainte de 16:30, înainte de lăsarea întunericului.",
+                "en": "Take your stroll here before 16:30 before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht in Fermoy im Dezember gegen 16:15 Uhr unter.",
+              "Tragen Sie mehrere Schichten Kleidung gegen den Wind vom Fluss.",
+              "Die Cafés bieten in der Weihnachtszeit spezielle Heißgetränke an.",
+              "Der Town Park ist im Winter oft weniger besucht und sehr ruhig."
+            ],
+            "hu": [
+              "Fermoyban decemberben már 16:15 körül lemegy a nap.",
+              "Réteges öltözködés javasolt a folyó felől fújó hideg szél miatt.",
+              "A kávézók karácsony környékén különleges forró italokat kínálnak.",
+              "A városi park télen csendesebb és nyugodtabb, mint máskor."
+            ],
+            "ro": [
+              "Soarele apune în Fermoy în jurul orei 16:15 în decembrie.",
+              "Purtați haine în mai multe straturi contra vântului de pe râu.",
+              "Cafenelele oferă băuturi calde speciale în perioada Crăciunului.",
+              "Parcul orașului este mult mai liniștit și mai puțin aglomerat iarna."
+            ],
+            "en": [
+              "Sunset in Fermoy occurs around 16:15 in December.",
+              "Dress in layers to block the cold wind coming off the river.",
+              "Local cafes offer special seasonal hot drinks in winter.",
+              "The town park is much quieter and more peaceful in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +924,206 @@
           "Carry water and snacks, as options are limited outside the town.",
           "Always lock your bike when leaving it unattended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt am Corrin Cross, wo der Wind den Regen peitscht. Mittags finden wir Schutz in den Kirchen von Fermoy, während die Räder sicher parken. Nachmittags fahren wir vorsichtig über die nasse Brücke und durch den Town Park. Der Tag endet mit einer windigen Fahrt nach Castlehyde, wobei die wasserfeste Ausrüstung ihr Bestes gibt.",
+            "hu": "A bringatúra a Corrin Cross-nál indul, ahol a szél esőt korbácsol. Ebédidőben Fermoy templomaiban találunk menedéket, míg a kerékpárok biztonságban pihennek. Délután óvatosan kelünk át a nedves hídon és a városi parkon. A nap egy szeles tekeréssel zárul Castlehyde felé, ahol a vízálló felszerelés tesz jó szolgálatot.",
+            "ro": "Turul cu bicicleta începe la Corrin Cross, unde vântul poartă ploaia. La prânz, găsim adăpost în bisericile din Fermoy, în timp ce bicicletele sunt parcate în siguranță. După-amiaza, pedalăm cu grijă peste podul ud și prin parcul orașului. Ziua se încheie cu o cursă vântoasă spre Castlehyde, unde echipamentul impermeabil este esențial.",
+            "en": "The bike tour starts at Corrin Cross, where the wind whips the rain across the hill. At lunch, we find shelter in Fermoy’s churches while the bikes rest safely. In the afternoon, we cycle carefully across the wet bridge and through the town park. The day ends with a breezy ride to Castlehyde, with our waterproof gear proving its worth against the Irish weather."
+          },
+          "stops": [
+            {
+              "name": "Corrin Cross",
+              "tip_5lang": {
+                "de": "Sehr exponiert, achten Sie auf starken Seitenwind.",
+                "hu": "Nagyon kitett hely, figyeljen az erős oldalszélre.",
+                "ro": "Zonă foarte expusă, atenție la vântul lateral puternic.",
+                "en": "Very exposed area, watch out for strong side winds."
+              }
+            },
+            {
+              "name": "St. Patrick's Church",
+              "tip_5lang": {
+                "de": "Guter Ort, um die Regenkleidung kurz zu lüften.",
+                "hu": "Jó hely az esőruházat rövid szellőztetésére.",
+                "ro": "Un loc bun pentru a aerisi scurt echipamentul de ploaie.",
+                "en": "Good spot to briefly air out your rain gear indoors."
+              }
+            },
+            {
+              "name": "Fermoy Bridge",
+              "tip_5lang": {
+                "de": "Die Metallfugen auf der Brücke sind bei Nässe extrem glatt.",
+                "hu": "A híd fém illesztései nedvesen rendkívül csúszósak.",
+                "ro": "Îmbinările metalice de pe pod sunt extrem de alunecoase.",
+                "en": "The metal joints on the bridge are extremely slick when wet."
+              }
+            },
+            {
+              "name": "Fermoy Town Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind sicherer als die Erdpfade.",
+                "hu": "Az aszfaltozott utak biztonságosabbak, mint a földutak.",
+                "ro": "Aleile asfaltate sunt mai sigure decât potecile de pământ.",
+                "en": "The paved paths are safer than the dirt trails in the rain."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Café mit Sichtkontakt zu Ihrem Fahrrad.",
+                "hu": "Keressen olyan kávézót, ahonnan rálát a biciklijére.",
+                "ro": "Căutați o cafenea de unde vă puteți supraveghea bicicleta.",
+                "en": "Look for a cafe where you can keep an eye on your bike."
+              }
+            },
+            {
+              "name": "Barnane Walk",
+              "tip_5lang": {
+                "de": "Vorsicht vor tief hängenden nassen Ästen am Ufer.",
+                "hu": "Vigyázat a vízparti, mélyre lógó nedves ágakkal.",
+                "ro": "Atenție la crengile umede care atârnă jos pe malul apei.",
+                "en": "Watch out for low-hanging wet branches along the river."
+              }
+            },
+            {
+              "name": "Castlehyde",
+              "tip_5lang": {
+                "de": "Die Straße hierhin ist schmal und hat Pfützen.",
+                "hu": "Az idevezető út keskeny és tócsás lehet.",
+                "ro": "Drumul spre această locație este îngust și are bălți.",
+                "en": "The road here is narrow and prone to large puddles."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter in Fermoy unverzichtbar.",
+              "Vermeiden Sie starkes Bremsen auf den nassen Brückenplatten.",
+              "Halten Sie an der Tankstelle im Zentrum für Luft oder Kette.",
+              "Wasserdichte Handschuhe halten die Finger warm und griffig."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ebben az időben Fermoy környékén.",
+              "Kerülje az erős fékezést a nedves hídelemeken.",
+              "Álljon meg a központi benzinkútnál pumpálni vagy láncot kenni.",
+              "A vízálló kesztyű melegen és magabiztosan tartja a kezeket."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe această vreme.",
+              "Evitați frânările bruște pe plăcile umede ale podului.",
+              "Opriți la benzinăria din centru pentru aer sau lanț.",
+              "Mănușile impermeabile vă vor menține mâinile calde."
+            ],
+            "en": [
+              "Mudguards are essential in this weather around Fermoy.",
+              "Avoid heavy braking on the wet bridge surfaces.",
+              "Stop at the central petrol station for air or chain lube.",
+              "Waterproof gloves keep your fingers warm and maintain grip."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Corrin Cross, wo der Winterwind kräftig weht. Die Fahrt durch Fermoy führt an frostigen Kirchen vorbei zum Town Park. Mittags stärken wir uns bei einem heißen Getränk im Zentrum. Am Nachmittag radeln wir entlang des Blackwater Rivers und beenden die Tour bei Castlehyde, gerade rechtzeitig, bevor die Winterdämmerung einsetzt.",
+            "hu": "Kezdje a Corrin Cross-nál, ahol a téli szél erősen fúj. A túra fagyos templomok mellett vezet a városi parkba. Ebédidőben egy forró itallal frissülünk fel a központban. Délután a Blackwater folyó mentén tekerünk, és Castlehyde-nál zárjuk a túrát, éppen mielőtt a téli szürkület beállna.",
+            "ro": "Începeți la Corrin Cross, unde vântul de iarnă bate cu putere. Cursa prin Fermoy trece pe lângă biserici înghețate spre parcul orașului. La prânz, ne revigorăm cu o băutură caldă în centru. După-amiaza, pedalăm de-a lungul râului Blackwater și încheiem turul la Castlehyde, chiar înainte de lăsarea serii.",
+            "en": "Start at Corrin Cross, where the winter wind bites hard. The ride through Fermoy passes frosty churches and leads to the town park. At lunch, recharge with a hot drink in the centre. In the afternoon, cycle along the Blackwater River and finish the tour at Castlehyde, just in time before the winter twilight sets in."
+          },
+          "stops": [
+            {
+              "name": "Corrin Cross",
+              "tip_5lang": {
+                "de": "Tragen Sie einen Windstopper, es ist hier oben sehr kalt.",
+                "hu": "Viseljen szélfogót, itt fent nagyon hideg van.",
+                "ro": "Purtați un windstopper, este foarte frig aici sus.",
+                "en": "Wear a windstopper; it is significantly colder up here."
+              }
+            },
+            {
+              "name": "St. Patrick's Church",
+              "tip_5lang": {
+                "de": "Der Vorplatz kann morgens mit Reif bedeckt sein.",
+                "hu": "A templomkert reggelente deres lehet.",
+                "ro": "Curtea bisericii poate fi acoperită cu chiciură dimineața.",
+                "en": "The church grounds can be covered in hoarfrost in the morning."
+              }
+            },
+            {
+              "name": "Fermoy Bridge",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenen Nebel auf dem Brückengeländer.",
+                "hu": "Figyeljen a korláton kicsapódott jeges ködre.",
+                "ro": "Atenție la ceața înghețată de pe balustrada podului.",
+                "en": "Watch out for frozen mist on the bridge railings."
+              }
+            },
+            {
+              "name": "Fermoy Town Park",
+              "tip_5lang": {
+                "de": "Die Wege im Schatten der Bäume bleiben lange gefroren.",
+                "hu": "A fák árnyékában az utak sokáig fagyottak maradnak.",
+                "ro": "Aleile din umbra copacilor rămân înghețate mult timp.",
+                "en": "Paths in the shade of trees stay frozen for a long time."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Kohlenhydratreiches Essen hilft gegen die Kälte beim Fahren.",
+                "hu": "A szénhidrátdús étel segít a hideg elleni küzdelemben.",
+                "ro": "Mâncarea bogată în carbohidrați ajută contra frigului.",
+                "en": "Carb-rich food helps your body fight the cold while riding."
+              }
+            },
+            {
+              "name": "Barnane Walk",
+              "tip_5lang": {
+                "de": "Der Wind vom Fluss fühlt sich im Winter eisig an.",
+                "hu": "A folyó felől fújó szél télen jegesnek érződik.",
+                "ro": "Vântul de pe râu se simte înghețat iarna.",
+                "en": "The breeze off the river feels icy in the winter months."
+              }
+            },
+            {
+              "name": "Castlehyde",
+              "tip_5lang": {
+                "de": "Gute Beleuchtung ist für die Rückfahrt nach 16:00 Uhr Pflicht.",
+                "hu": "A jó világítás kötelező a 16:00 utáni visszaúthoz.",
+                "ro": "Luminile bune sunt obligatorii pentru returul după ora 16:00.",
+                "en": "Good lights are mandatory for the return trip after 16:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck; Kälte verringert ihn leicht.",
+              "Warme Schuhüberzieher schützen vor dem eisigen Fahrtwind.",
+              "Die Sonne verschwindet früh hinter den Hügeln von Fermoy.",
+              "Nehmen Sie eine Thermoskanne mit Tee für Pausen mit."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást; a hideg kismértékben csökkenti.",
+              "A meleg kamásli megvéd a jeges menetszéltől.",
+              "A nap korán eltűnik a fermoyi dombok mögött.",
+              "Vigyen magával termoszban teát a pihenőkhöz."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri; frigul o scade ușor.",
+              "Husele calde pentru pantofi protejează de vântul înghețat.",
+              "Soarele dispare devreme în spatele dealurilor din Fermoy.",
+              "Luați un termos cu ceai pentru pauzele de pe traseu."
+            ],
+            "en": [
+              "Check your tyre pressure; cold air reduces it slightly.",
+              "Warm shoe covers protect against the biting headwind.",
+              "The sun disappears early behind the hills of Fermoy.",
+              "Bring a thermos with hot tea for your breaks."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1504,206 @@
           "A GPS is useful for finding more remote sites like Labbacallee.",
           "Check opening times for attractions, as some may be seasonal."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die Fahrt beim Labbacallee Tomb, wo der Regen über die Megalithen peitscht. Danach führt die Route zum herrschaftlichen Castlehyde. Parken Sie im Zentrum von Fermoy und erkunden Sie die Kirchen trockenen Fußes. Nach dem Mittagessen fahren wir zum Corrin Cross für einen nebligen Ausblick, bevor der Tag im Town Park entspannt ausklingt.",
+            "hu": "Indítsa a napot a Labbacallee sírnál, ahol az eső mossa a megalitokat. Ezután utunk a tekintélyes Castlehyde felé vezet. Parkoljon le Fermoy központjában, és fedezze fel a templomokat száraz lábbal. Ebéd után a Corrin Cross-hoz hajtunk a ködös kilátásért, majd a napot a városi parkban zárjuk pihentetően.",
+            "ro": "Începeți ziua la Labbacallee Tomb, unde ploaia spală megaliții antici. Traseul continuă spre impunătorul Castlehyde. Parcați în centrul orașului Fermoy și explorați bisericile fără să vă udați. După prânz, conducem spre Corrin Cross pentru o vedere cețoasă, înainte de a încheia ziua relaxat în parcul orașului.",
+            "en": "Start your journey at Labbacallee Tomb, where rain lashes against the ancient megaliths. Next, drive to the stately Castlehyde. Park in Fermoy's centre and explore the churches while staying dry. After lunch, we head to Corrin Cross for a misty hilltop view, before the day ends with a relaxing stop at the town park."
+          },
+          "stops": [
+            {
+              "name": "Labbacallee Megalithic Tomb",
+              "tip_5lang": {
+                "de": "Wenig Schutz, halten Sie den Regenschirm griffbereit.",
+                "hu": "Kevés a menedék, tartsa kéznél az esernyőt.",
+                "ro": "Puține locuri de adăpost, țineți umbrela la îndemână.",
+                "en": "Very little shelter here; keep your umbrella handy."
+              }
+            },
+            {
+              "name": "Castlehyde",
+              "tip_5lang": {
+                "de": "Gute Sicht vom Auto aus auf das Anwesen.",
+                "hu": "A kocsiból is remek kilátás nyílik a birtokra.",
+                "ro": "Vedere bună asupra proprietății direct din mașină.",
+                "en": "Excellent views of the estate directly from your car."
+              }
+            },
+            {
+              "name": "Park & Explore Town Centre",
+              "tip_5lang": {
+                "de": "Das Parkhaus im Zentrum bietet trockenen Zugang zu den Läden.",
+                "hu": "A központi parkoló száraz utat biztosít az üzletekhez.",
+                "ro": "Parcarea din centru oferă acces uscat spre magazine.",
+                "en": "The central car park provides dry access to nearby shops."
+              }
+            },
+            {
+              "name": "Fermoy Bridge & Churches",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten minimieren Nässe.",
+                "hu": "A látnivalók közötti rövid távolság miatt alig fog megázni.",
+                "ro": "Distanțele scurte între obiective minimizează expunerea.",
+                "en": "Short distances between sights minimize your time in the rain."
+              }
+            },
+            {
+              "name": "Lunch in the Centre",
+              "tip_5lang": {
+                "de": "Nahegelegene Parkplätze machen den Zugang zum Restaurant leicht.",
+                "hu": "A közeli parkolók megkönnyítik az étterembe jutást.",
+                "ro": "Parcările din apropiere facilitează accesul la restaurant.",
+                "en": "Nearby parking makes reaching the restaurant very easy."
+              }
+            },
+            {
+              "name": "Corrin Cross",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen für den Ausblick im Auto.",
+                "hu": "Szakadó esőben maradjon az autóban a kilátásért.",
+                "ro": "Rămâneți în mașină pentru priveliște dacă plouă torențial.",
+                "en": "Stay in the car for the view if the rain is heavy."
+              }
+            },
+            {
+              "name": "Stroll in Fermoy Town Park",
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt am Eingang spart lange Wege im Regen.",
+                "hu": "A közvetlen bejárat melletti parkoló megkíméli az esőtől.",
+                "ro": "Parcarea de la intrare vă scutește de drumul prin ploaie.",
+                "en": "The car park right at the entrance saves a long walk in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Landstraßen um Fermoy.",
+              "Die Parkplatzsuche im Zentrum ist bei Regen oft einfacher.",
+              "Nutzen Sie die Scheibenheizung gegen die hohe Luftfeuchtigkeit.",
+              "Bewahren Sie nasse Regenschirme im Kofferraum auf."
+            ],
+            "hu": [
+              "Ügyeljen a vízátfolyásokra a Fermoy környéki utakon.",
+              "Esőben gyakran könnyebb parkolóhelyet találni a központban.",
+              "Használja a szélvédőfűtést a párosodás ellen.",
+              "A nedves esernyőket tartsa a csomagtartóban."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile din jurul orașului.",
+              "Găsirea unui loc de parcare este mai ușoară când plouă.",
+              "Folosiți dezaburirea parbrizului contra umidității ridicate.",
+              "Păstrați umbrelele ude în portbagaj."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the rural roads around Fermoy.",
+              "Finding a parking spot in the centre is often easier in the rain.",
+              "Use the windscreen heaters to combat high humidity.",
+              "Keep wet umbrellas in the boot to avoid interior fogging."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie ein winterliches Fermoy ab dem Labbacallee Tomb, das oft im Morgennebel liegt. Die Fahrt geht weiter zum frostigen Castlehyde-Anwesen. Im Stadtzentrum genießen wir die weihnachtliche Atmosphäre, bevor wir zu den Kirchen spazieren. Nach einem warmen Mittagessen besuchen wir das Corrin Cross und beenden den Tag bei Sonnenuntergang im Stadtpark.",
+            "hu": "Élje át a téli Fermoyt a gyakran reggeli ködbe burkolózó Labbacallee sírtól indulva. Utunk a fagyos Castlehyde birtok felé folytatódik. A városközpontban élvezzük a karácsonyi hangulatot, mielőtt a templomokhoz sétálnánk. Egy meleg ebéd után meglátogatjuk a Corrin Cross-t, és naplementekor a városi parkban zárunk.",
+            "ro": "Experimentați un Fermoy de iarnă începând de la Labbacallee Tomb, aflat adesea în ceața dimineții. Drumul continuă spre domeniul înghețat Castlehyde. În centrul orașului ne bucurăm de atmosfera festivă înainte de a merge la biserici. După un prânz cald, vizităm Corrin Cross și încheiem ziua la apus în parcul orașului.",
+            "en": "Experience a wintry Fermoy starting at Labbacallee Tomb, often shrouded in morning mist. The drive continues to the frosty Castlehyde estate. In the town centre, we enjoy the festive atmosphere before strolling to the churches. After a warm lunch, we visit Corrin Cross and end the day at sunset in the town park."
+          },
+          "stops": [
+            {
+              "name": "Labbacallee Megalithic Tomb",
+              "tip_5lang": {
+                "de": "Morgens oft neblig, fahren Sie vorsichtig auf der Zufahrt.",
+                "hu": "Reggelente gyakran ködös, óvatosan vezessen a bekötőúton.",
+                "ro": "Adesea cețos dimineața, conduceți cu grijă pe drumul de acces.",
+                "en": "Often misty in the morning; drive carefully on the access road."
+              }
+            },
+            {
+              "name": "Castlehyde",
+              "tip_5lang": {
+                "de": "Die Bäume entlang der Auffahrt wirken im Reif bezaubernd.",
+                "hu": "Az út menti fák varázslatosak a zúzmarában.",
+                "ro": "Copacii de-a lungul drumului arată magic acoperiți de brumă.",
+                "en": "The trees along the drive look enchanting when frosted."
+              }
+            },
+            {
+              "name": "Park & Explore Town Centre",
+              "tip_5lang": {
+                "de": "Die Parkplätze sind im Winter nah an den beleuchteten Straßen.",
+                "hu": "Télen a parkolók közel vannak a kivilágított utcákhoz.",
+                "ro": "Parcările sunt aproape de străzile luminate festiv iarna.",
+                "en": "Parking spots are close to the festive lights in winter."
+              }
+            },
+            {
+              "name": "Fermoy Bridge & Churches",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Kirchen kurz auf.",
+                "hu": "Melegedjen fel egy kicsit a templomok falai között.",
+                "ro": "Încălziți-vă pentru câteva momente în interiorul bisericilor.",
+                "en": "Take a moment to warm up inside the churches."
+              }
+            },
+            {
+              "name": "Lunch in the Centre",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Platz in der Nähe der Heizung.",
+                "hu": "Kérjen asztalt a fűtőtest közelében.",
+                "ro": "Cereți o masă lângă calorifer sau șemineu.",
+                "en": "Ask for a table near the heater or fireplace."
+              }
+            },
+            {
+              "name": "Corrin Cross",
+              "tip_5lang": {
+                "de": "Die Straße zum Kreuz kann im Winter glatt sein.",
+                "hu": "A kereszthez vezető út télen csúszós lehet.",
+                "ro": "Drumul spre cruce poate fi alunecos pe timp de iarnă.",
+                "en": "The road up to the cross can be slippery in winter."
+              }
+            },
+            {
+              "name": "Stroll in Fermoy Town Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 16:20 Uhr am Fluss.",
+                "hu": "Élvezze a naplementét 16:20 körül a folyónál.",
+                "ro": "Bucurați-vă de apus în jurul orei 16:20 lângă râu.",
+                "en": "Enjoy the sunset around 16:20 by the riverbank."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kontrollieren Sie den Frostschutz in Ihrem Wischwasser.",
+              "Vorsicht vor überfrierender Nässe auf den Brücken Fermoys.",
+              "Nutzen Sie die frühen Abendstunden für die Stadtbeleuchtung.",
+              "Die Landstraßen werden morgens oft gestreut."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosó folyadékban.",
+              "Vigyázat a felfagyásokkal a fermoyi hidakon.",
+              "Használja ki a kora esti órákat a városi fények megtekintéséhez.",
+              "A vidéki utakat reggelente gyakran sózzák."
+            ],
+            "ro": [
+              "Verificați antigelul în lichidul de parbriz.",
+              "Atenție la gheața de pe podurile din Fermoy.",
+              "Aprofitați de orele serii devreme pentru a vedea luminile orașului.",
+              "Drumurile județene sunt adesea deszăpezite dimineața."
+            ],
+            "en": [
+              "Check the antifreeze levels in your screenwash.",
+              "Beware of black ice on Fermoy’s bridges.",
+              "Take advantage of the early evening to see the town lights.",
+              "Rural roads are often gritted early in the morning."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2060,188 @@
           "Have small change ready for the bus fare.",
           "Combine bus rides with short walks to make the most of your day."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Tag mit dem Bus ins Zentrum, um trocken anzukommen. Besuchen Sie die St. Patrick's und Christ Church, die ideale Indoor-Ziele sind. Mittags verbringen wir Zeit beim Essen und Shopping in den Arkaden. Nachmittags bringt uns der Bus zum Corrin Hill, bevor wir den Tag mit einem erfrischenden Spaziergang am Barnane Walk beenden.",
+            "hu": "Kezdje a napot busszal a központba, hogy szárazon érkezzen meg. Látogassa meg a St. Patrick és Christ templomokat, amelyek ideális beltéri célpontok. Ebédidőben étkezéssel és vásárlással töltjük az időt az árkádok alatt. Délután a busz a Corrin Hill-hez repít, majd a napot egy frissítő sétával zárjuk a Barnane Walk-on.",
+            "ro": "Începeți ziua cu autobuzul spre centru pentru a ajunge uscați. Vizitați bisericile St. Patrick și Christ Church, destinații ideale de interior. La prânz, petrecem timpul mâncând și făcând cumpărături sub arcade. După-amiaza, autobuzul ne duce la Corrin Hill, înainte de a încheia ziua cu o plimbare revigorantă pe Barnane Walk.",
+            "en": "Start the day by taking the bus to the centre to arrive dry. Visit St. Patrick’s and Christ Church, which are perfect indoor destinations. At lunch, spend time dining and shopping under the covered archways. In the afternoon, the bus takes us to Corrin Hill, before we finish the day with a refreshing walk along the Barnane Walk."
+          },
+          "stops": [
+            {
+              "name": "Bus to Town Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Echtzeit-App, um nicht im Regen zu warten.",
+                "hu": "Használja a valós idejű alkalmazást, hogy ne várjon az esőben.",
+                "ro": "Folosiți aplicația în timp real pentru a nu aștepta în ploaie.",
+                "en": "Use the real-time app to avoid waiting in the rain."
+              }
+            },
+            {
+              "name": "St. Patrick's & Christ Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zwischen den Kirchen hält Sie trocken.",
+                "hu": "Egy rövid futás a templomok között, és száraz marad.",
+                "ro": "Un scurt sprint între biserici vă va menține uscat.",
+                "en": "A short sprint between the churches will keep you dry."
+              }
+            },
+            {
+              "name": "Fermoy Bridge & Town Park",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle am Park bietet einen kleinen Unterstand.",
+                "hu": "A park melletti buszmegállónak van egy kis beállója.",
+                "ro": "Stația de autobuz de lângă parc are un mic adăpost.",
+                "en": "The bus stop near the park has a small shelter."
+              }
+            },
+            {
+              "name": "Lunch and Shopping",
+              "tip_5lang": {
+                "de": "In den Läden am Marktplatz finden Sie gute Regenschirme.",
+                "hu": "A főtéri üzletekben remek esernyőket találhat.",
+                "ro": "Găsiți umbrele bune în magazinele din piața centrală.",
+                "en": "You can find good umbrellas in the shops around the square."
+              }
+            },
+            {
+              "name": "Bus to Corrin Hill",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt am Fuß des Hügels.",
+                "hu": "A busz közvetlenül a domb lábánál áll meg.",
+                "ro": "Autobuzul oprește chiar la baza dealului.",
+                "en": "The bus stops right at the base of the hill."
+              }
+            },
+            {
+              "name": "Barnane Walk",
+              "tip_5lang": {
+                "de": "Vom Ende des Weges gibt es direkte Busverbindungen zurück.",
+                "hu": "A sétány végéről közvetlen buszjáratok indulnak vissza.",
+                "ro": "De la capătul promenadei sunt autobuze directe de întoarcere.",
+                "en": "There are direct bus links back from the end of the walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fermoy hat gute Busanbindungen nach Cork bei Verspätungen.",
+              "Die Bushaltestellen im Zentrum sind teilweise überdacht.",
+              "Nutzen Sie die Wartezeiten für einen schnellen Kaffee.",
+              "Halten Sie Ihre Fahrkarte für schnellen Einstieg bereit."
+            ],
+            "hu": [
+              "Fermoyból jó buszos összeköttetés van Corkba késések esetén.",
+              "A központi buszmegállók részben fedettek.",
+              "Használja ki a várakozási időt egy gyors kávéra.",
+              "Tartsa készenlétben a jegyét a gyors felszálláshoz."
+            ],
+            "ro": [
+              "Fermoy are legături bune cu autobuzul spre Cork în caz de întârzieri.",
+              "Stațiile de autobuz din centru sunt parțial acoperite.",
+              "Folosiți timpii de așteptare pentru o cafea rapidă.",
+              "Aveți biletul la îndemână pentru o îmbarcare rapidă."
+            ],
+            "en": [
+              "Fermoy has good bus links to Cork in case of delays.",
+              "The bus stops in the centre are partially sheltered.",
+              "Use waiting times for a quick coffee in a nearby cafe.",
+              "Have your ticket ready for quick boarding in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nehmen Sie den beheizten Bus ins Zentrum von Fermoy. Besuchen Sie die Kirchen am Vormittag und genießen Sie die Stille. Mittags laden die warmen Restaurants zum Verweilen ein. Am Nachmittag führt die Fahrt zum Corrin Hill, bevor wir den Tag mit einem Spaziergang bei winterlicher Dämmerung am Fluss beenden.",
+            "hu": "Szálljon fel a fűtött buszra Fermoy központja felé. Látogassa meg a templomokat délelőtt, és élvezze a csendet. Ebédidőben a meleg éttermek hívogatnak egy kis pihenőre. Délután utunk a Corrin Hill-hez vezet, majd a napot egy téli szürkületi sétával zárjuk a folyóparton.",
+            "ro": "Luați autobuzul încălzit spre centrul orașului Fermoy. Vizitați bisericile dimineața și bucurați-vă de liniște. La prânz, restaurantele călduroase vă invită la relaxare. După-amiaza, drumul continuă spre Corrin Hill, înainte de a încheia ziua cu o plimbare la amurgul iernii pe malul râului.",
+            "en": "Board a heated bus to Fermoy's town centre. Visit the churches in the morning and enjoy the peaceful atmosphere. At lunch, the warm restaurants invite you to linger. In the afternoon, head out to Corrin Hill before finishing the day with a winter twilight stroll along the riverbank."
+          },
+          "stops": [
+            {
+              "name": "Bus to Town Centre",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse meist gut beheizt.",
+                "hu": "Télen a buszok általában jól fűtöttek.",
+                "ro": "Iarna, autobuzele sunt de obicei bine încălzite.",
+                "en": "Buses are usually well-heated during the winter months."
+              }
+            },
+            {
+              "name": "St. Patrick's & Christ Church",
+              "tip_5lang": {
+                "de": "Die Kirchen sind windgeschützte Orte für die Vormittagspause.",
+                "hu": "A templomok szélvédett helyek a délelőtti pihenőhöz.",
+                "ro": "Bisericile sunt locuri ferite de vânt pentru pauza de dimineață.",
+                "en": "Churches are wind-sheltered spots for a morning break."
+              }
+            },
+            {
+              "name": "Fermoy Bridge & Town Park",
+              "tip_5lang": {
+                "de": "Vom Bus aus hat man einen tollen Blick auf den Winterfluss.",
+                "hu": "A buszból remek kilátás nyílik a téli folyóra.",
+                "ro": "Din autobuz aveți o vedere excelentă asupra râului iarna.",
+                "en": "The bus offers great views of the winter river scenery."
+              }
+            },
+            {
+              "name": "Lunch and Shopping",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Warmen für Ihre Besorgungen.",
+                "hu": "Használja ki a melegben töltött időt a bevásárláshoz.",
+                "ro": "Aprofitați de timpul petrecut la căldură pentru cumpărături.",
+                "en": "Take advantage of your time in the warmth for shopping."
+              }
+            },
+            {
+              "name": "Bus to Corrin Hill",
+              "tip_5lang": {
+                "de": "Achten Sie auf die früheren Rückfahrzeiten im Winterplan.",
+                "hu": "Figyeljen a téli menetrend korábbi visszajárataira.",
+                "ro": "Atenție la orele de retur mai devreme din orarul de iarnă.",
+                "en": "Check for earlier return times in the winter bus schedule."
+              }
+            },
+            {
+              "name": "Barnane Walk",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle am Ende des Weges ist hell beleuchtet.",
+                "hu": "A sétány végén lévő buszmegálló jól kivilágított.",
+                "ro": "Stația de autobuz de la capătul potecii este bine iluminată.",
+                "en": "The bus stop at the end of the walk is brightly lit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei winterlichem Wetter leicht variieren.",
+              "Die Busse sind im Winter oft weniger überfüllt.",
+              "Tragen Sie reflektierende Kleidung für den Weg zur Haltestelle.",
+              "Ein heißer Kaffee To-Go verkürzt die Wartezeit."
+            ],
+            "hu": [
+              "A menetrendek télen kismértékben változhatnak.",
+              "A buszok télen gyakran kevésbé zsúfoltak.",
+              "Viseljen fényvisszaverő elemeket a megállóhoz menet.",
+              "Egy elviteles forró kávé kellemesebbé teszi a várakozást."
+            ],
+            "ro": [
+              "Orarele pot varia ușor în condiții de iarnă.",
+              "Autobuzele sunt adesea mai puțin aglomerate iarna.",
+              "Purtați elemente reflectorizante în drum spre stație.",
+              "O cafea fierbinte la pachet face așteptarea mai ușoară."
+            ],
+            "en": [
+              "Schedules may vary slightly during extreme winter weather.",
+              "Buses are often less crowded during the winter season.",
+              "Wear reflective gear when walking to the bus stop at night.",
+              "A hot takeaway coffee makes waiting much more pleasant."
+            ]
+          }
+        }
       }
     }
   }

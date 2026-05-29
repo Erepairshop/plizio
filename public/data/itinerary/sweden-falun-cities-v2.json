@@ -356,6 +356,188 @@
           "Most museums and attractions close around 5 or 6 PM, so plan accordingly.",
           "Check the mine's opening hours in advance as they can vary seasonally."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie im historischen Viertel Elsborg, wo die roten Holzhäuser im Regen leuchten. Ein kurzer Spaziergang führt zur Kristine-Kirche für einen trockenen Moment der Ruhe. Mittags bietet das Dalarnas Museum Schutz und Kultur. Der Nachmittag unter Tage im Kupferbergwerk ist ideal, da es dort immer trocken ist. Beenden Sie den Tag mit einem Blick auf den Großen Abgrund unter grauem Himmel.",
+            "hu": "Kezdje a sétát Elsborg negyedében, ahol az eső mélyíti a vörös faházak színét. A Kristine-templom tökéletes menedék a városközpontban. Délben a Dalarnas Múzeum kiállításai között maradhat szárazon. A délutánt töltse a rézbánya járataiban, ahol az időjárás teljesen mellékes. Az estét a bányaperem látványával zárja, mielőtt egy hangulatos kávézóba vonulna.",
+            "ro": "Începeți în cartierul Elsborg, unde casele roșii strălucesc sub ploaie. Biserica Kristine oferă un adăpost liniștit în centru. La prânz, Muzeul Dalarnas este locul ideal pentru a rămâne uscat. După-amiaza în mină este perfectă, deoarece galeriile sunt ferite de intemperii. Încheiați ziua admirând marea prăpastie Stora Stöten, care capătă un aer dramatic pe vreme ploioasă.",
+            "en": "Start in Elsborg, where rain deepens the iconic Falu red of the wooden houses. Find shelter in the serene Kristine Church before heading to Dalarnas Museum for a dry, cultural noon. The copper mine tour is the perfect rainy afternoon activity, being entirely underground. Finish by the Great Pit, where the mist adds a haunting beauty to the massive excavation."
+          },
+          "stops": [
+            {
+              "name": "Elsborg District",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster zwischen den alten Holzhäusern.",
+                "hu": "Vigyázzon a vizes macskaköveken az ódon faházak között.",
+                "ro": "Atenție la pavajul umed printre casele vechi de lemn.",
+                "en": "Careful on the wet cobblestones between the historic wooden houses."
+              }
+            },
+            {
+              "name": "Kristine Church",
+              "tip_5lang": {
+                "de": "Ein prächtiger Ort, um einen Regenschauer trocken abzuwarten.",
+                "hu": "Pompás helyszín egy futó zápor száraz megvárásához.",
+                "ro": "Un loc splendid pentru a aștepta trecerea unei ploi.",
+                "en": "A magnificent place to wait out a rain shower in comfort."
+              }
+            },
+            {
+              "name": "Falun Town Hall",
+              "tip_5lang": {
+                "de": "Das Vordach bietet Schutz für ein schnelles Foto des Marktplatzes.",
+                "hu": "Az előtető védelmet nyújt a főtér gyors lefotózásához.",
+                "ro": "Copertina oferă protecție pentru o fotografie rapidă a pieței.",
+                "en": "The overhang provides shelter for a quick photo of the square."
+              }
+            },
+            {
+              "name": "Dalarnas Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um nasse Mäntel vor dem Rundgang abzugeben.",
+                "hu": "Használja a ruhatárat a vizes kabátok leadására a körút előtt.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele ude înainte de vizită.",
+                "en": "Use the cloakroom to drop off wet coats before exploring."
+              }
+            },
+            {
+              "name": "Falun Copper Mine (Falu Gruva)",
+              "tip_5lang": {
+                "de": "Unter Tage ist es trocken, aber bringen Sie feste, wasserdichte Schuhe mit.",
+                "hu": "A föld alatt száraz az idő, de vízálló cipőt mindenképp viseljen.",
+                "ro": "Sub pământ este uscat, dar purtați încălțăminte impermeabilă.",
+                "en": "It's dry underground, but wear sturdy, waterproof footwear."
+              }
+            },
+            {
+              "name": "The Great Pit (Stora Stöten)",
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt kann bei Wind sehr ungemütlich und nass sein.",
+                "hu": "A kilátópont szeles időben nagyon barátságtalan és vizes lehet.",
+                "ro": "Punctul de observație poate fi foarte expus și umed pe vânt.",
+                "en": "The viewpoint can be very exposed and wet during wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Wasserdichte Schuhe sind für die unebenen Wege in Elsborg essenziell.",
+              "Die Bergwerkstour ist die beste Flucht vor schlechtem Wetter.",
+              "Viele Cafés im Zentrum bieten gemütliche 'Fika'-Pausen im Trockenen.",
+              "Nutzen Sie die Schließfächer im Dalarnas Museum für Ihre Regenschirme."
+            ],
+            "hu": [
+              "A vízálló lábbeli alapfeltétel Elsborg egyenetlen útjain.",
+              "A bányatúra a legjobb menekülési útvonal rossz idő esetén.",
+              "A központ kávézói ideálisak egy száraz, meleg 'fika' szünetre.",
+              "Használja a múzeumi szekrényeket az esernyők tárolására."
+            ],
+            "ro": [
+              "Încălțămintea impermeabilă este esențială pe străzile din Elsborg.",
+              "Turul minei este cea mai bună evadare în caz de vreme rea.",
+              "Multe cafenele din centru oferă pauze 'fika' primitoare la adăpost.",
+              "Folosiți dulapurile de la muzeu pentru depozitarea umbrelelor."
+            ],
+            "en": [
+              "Waterproof shoes are essential for the uneven paths in Elsborg.",
+              "The mine tour is the ultimate escape from bad weather.",
+              "Central cafes are perfect for a cozy 'fika' break out of the rain.",
+              "Use the museum lockers to store your umbrellas during the visit."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Falun als Wintermärchen in Elsborg, wenn Schnee auf den roten Häusern liegt. Die Kristine-Kirche strahlt Wärme und festliche Stille aus. Im Dalarnas Museum tauchen Sie in die Geschichte der Region ein, während es draußen friert. Der Besuch im Bergwerk fühlt sich bei konstanten 5 Grad fast warm an. Sehen Sie den Sonnenuntergang über dem verschneiten Großen Abgrund bereits am frühen Nachmittag.",
+            "hu": "Falun téli mesevilággá válik Elsborgban, amikor hó borítja a vörös házakat. A Kristine-templom ünnepi csendet és meleget áraszt. A Dalarnas Múzeumban elmerülhet a régió történelmében, miközben kint fagy. A bányalátogatás a maga állandó 5 fokával szinte melegnek tűnik a kinti mínuszokhoz képest. A naplemente a havas bányaperem felett már kora délután beköszönt.",
+            "ro": "Experimentați Falun ca un basm de iarnă în Elsborg, cu zăpadă pe casele roșii. Biserica Kristine emană căldură și o liniște festivă. La Muzeul Dalarnas, explorați istoria regiunii în timp ce afară îngheață. Vizita la mină pare aproape caldă la cele 5 grade constante. Admirați apusul peste marea prăpastie înzăpezită încă de la mijlocul după-amiezii.",
+            "en": "Falun turns into a winter wonderland in Elsborg, with snow capping the red wooden houses. Kristine Church offers warmth and festive silence. Inside Dalarnas Museum, delve into regional history while the frost bites outside. The mine visit feels surprisingly warm at a constant 5°C compared to the freezing air. Catch the sunset over the snowy Great Pit as early as mid-afternoon."
+          },
+          "stops": [
+            {
+              "name": "Elsborg District",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eiszapfen und rutschige Stellen auf den Gehwegen.",
+                "hu": "Ügyeljen a jégcsapokra és a járdák csúszós szakaszaira.",
+                "ro": "Atenție la țurțuri și la porțiunile alunecoase de pe trotuare.",
+                "en": "Watch out for icicles and slippery spots on the sidewalks."
+              }
+            },
+            {
+              "name": "Kristine Church",
+              "tip_5lang": {
+                "de": "Ein herrlicher Ort, um sich zwischen den Besichtigungen aufzuwärmen.",
+                "hu": "Pompás helyszín a felmelegedésre két látnivaló között.",
+                "ro": "Un loc excelent pentru a vă încălzi între vizite.",
+                "en": "A wonderful place to warm up between sightseeing stops."
+              }
+            },
+            {
+              "name": "Falun Town Hall",
+              "tip_5lang": {
+                "de": "Der Marktplatz davor ist im Winter oft festlich beleuchtet.",
+                "hu": "A városháza előtti tér télen gyakran ünnepi díszkivilágítást kap.",
+                "ro": "Piața din față este adesea iluminată festiv iarna.",
+                "en": "The square in front is often festively lit during winter."
+              }
+            },
+            {
+              "name": "Dalarnas Museum",
+              "tip_5lang": {
+                "de": "Perfekt für eine lange Pause in der beheizten Ausstellung.",
+                "hu": "Tökéletes helyszín egy hosszú szünetre a fűtött kiállításon.",
+                "ro": "Perfect pentru o pauză lungă în expoziția încălzită.",
+                "en": "Perfect for a long break in the heated exhibition halls."
+              }
+            },
+            {
+              "name": "Falun Copper Mine (Falu Gruva)",
+              "tip_5lang": {
+                "de": "Die 5 Grad im Stollen wirken bei Frost draußen wie eine Heizung.",
+                "hu": "A tárna 5 foka fűtésnek tűnik a kinti kemény fagyban.",
+                "ro": "Cele 5 grade din galerii par calde față de gerul de afară.",
+                "en": "The 5°C inside the mine feels like heating during a frost."
+              }
+            },
+            {
+              "name": "The Great Pit (Stora Stöten)",
+              "tip_5lang": {
+                "de": "Seien Sie vor 15:00 Uhr hier, um das Tageslicht zu nutzen.",
+                "hu": "Érkezzen 15:00 előtt, hogy még lásson valamit a napfényben.",
+                "ro": "Ajungeți înainte de ora 15:00 pentru a prinde lumina zilei.",
+                "en": "Arrive before 3 PM to catch the last of the daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Schichten und Wollsocken sind in Dalarna ein Muss.",
+              "Die Sonne geht im Dezember bereits gegen 15:00 Uhr unter.",
+              "Spikes für die Schuhe helfen auf den vereisten Wegen zur Mine.",
+              "Genießen Sie eine heiße Schokolade in einem der gemütlichen Cafés."
+            ],
+            "hu": [
+              "A réteges öltözet és a gyapjúzokni kötelező Dalarnában.",
+              "A nap decemberben már délután 3 körül lenyugszik.",
+              "A cipőre csatolható szögek segítenek a jeges bányautakon.",
+              "Élvezzen egy forró csokoládét a hangulatos kávézók egyikében."
+            ],
+            "ro": [
+              "Hainele în straturi și șosetele de lână sunt obligatorii în Dalarna.",
+              "Soarele apune în decembrie deja în jurul orei 15:00.",
+              "Crampoanele pentru încălțăminte ajută pe drumurile înghețate.",
+              "Savurați o ciocolată caldă într-una dintre cafenelele primitoare."
+            ],
+            "en": [
+              "Warm layers and wool socks are non-negotiable in Dalarna.",
+              "The sun sets as early as 3 PM during the peak of winter.",
+              "Ice cleats for your shoes help on the frozen paths to the mine.",
+              "Enjoy a hot chocolate in one of the city's cozy cafes."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +888,188 @@
           "Always lock your bike securely, especially at tourist attractions.",
           "A helmet is highly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie durch Elsborg, wo die Farben der Holzhäuser im Regen leuchten. Ein kurzer Stopp im Dalarnas Museum bietet trockene Kultur. Danach geht es zum Lugnet Ski-Stadion, wo der Asphalt auch bei Nässe gut befahrbar ist. Den Nachmittag verbringen Sie unter Tage im Bergwerk. Die Tour endet an der Stora Kopparberg Kirche, während der Regen auf das Dach trommelt.",
+            "hu": "Kerekezzen át Elsborgon, ahol a faházak színei mélyülnek az esőben. A Dalarnas Múzeum száraz menedéket és kultúrát kínál. Ezután irány a Lugnet sístadion, ahol az aszfalt nedvesen is jól tekerhető. A délutánt töltse a rézbánya mélyén, távol az elemektől. A túra a Stora Kopparberg templomnál ér véget, miközben az eső kopog a tetőn.",
+            "ro": "Pedalați prin Elsborg, unde culorile caselor de lemn se intensifică sub ploaie. O oprire la Muzeul Dalarnas oferă cultură la adăpost. Continuați spre Stadionul Lugnet, unde asfaltul este practicabil și pe umiditate. Petreceți după-amiaza în mină, departe de intemperii. Turul se încheie la Biserica Stora Kopparberg, în timp ce ploaia bate în acoperiș.",
+            "en": "Cycle through Elsborg, where the wooden facades glow under the rain. A stop at Dalarnas Museum provides dry cultural relief. Then, head to Lugnet Ski Stadium, where the paved paths remain safe even when wet. Spend your afternoon deep inside the copper mine, sheltered from the weather. End your ride at Stora Kopparberg Church as rain patters on the historic roof."
+          },
+          "stops": [
+            {
+              "name": "Elsborg District",
+              "tip_5lang": {
+                "de": "Vorsicht bei Kurven auf nassem Holz oder Kopfsteinpflaster.",
+                "hu": "Vigyázzon a kanyarokban a vizes fán vagy macskakövön.",
+                "ro": "Atenție la curbe pe lemn ud sau pavaj de piatră.",
+                "en": "Use caution when cornering on wet wood or cobblestones."
+              }
+            },
+            {
+              "name": "Dalarnas Museum",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich oft in der Nähe.",
+                "hu": "Fedett biciklitárolók gyakran találhatók a közelben.",
+                "ro": "Suporturile acoperite pentru biciclete sunt adesea în apropiere.",
+                "en": "Covered bike racks are often available nearby."
+              }
+            },
+            {
+              "name": "Lugnet Ski Stadium",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind weniger rutschig als Waldpfade.",
+                "hu": "Az aszfaltozott utak kevésbé csúsznak, mint az erdei ösvények.",
+                "ro": "Căile asfaltate sunt mai puțin alunecoase decât potecile.",
+                "en": "Paved paths here are less slippery than forest trails."
+              }
+            },
+            {
+              "name": "Falun Copper Mine (Falu Gruva)",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad ab und genießen Sie die trockene Mine.",
+                "hu": "Támassza le a biciklit, és élvezze a bánya száraz klímáját.",
+                "ro": "Parcați bicicleta și bucurați-vă de mina uscată.",
+                "en": "Park your bike and enjoy the dry environment of the mine."
+              }
+            },
+            {
+              "name": "The Great Pit (Stora Stöten)",
+              "tip_5lang": {
+                "de": "Bei starkem Regen kann die Sicht in den Abgrund getrübt sein.",
+                "hu": "Heves esőben a kilátás a mélybe korlátozott lehet.",
+                "ro": "Pe ploaie torențială, vizibilitatea în prăpastie poate fi scăzută.",
+                "en": "In heavy rain, the view into the pit might be obscured."
+              }
+            },
+            {
+              "name": "Stora Kopparberg Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort zum Abschluss der Tour.",
+                "hu": "Csendes, száraz helyszín a túra lezárásához.",
+                "ro": "Un loc liniștit și uscat pentru a încheia turul.",
+                "en": "A peaceful, dry spot to conclude your rainy ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenbekleidung für die Fahrt.",
+              "Vermeiden Sie bei Nässe die steilen Schotterwege am Lugnet.",
+              "Überprüfen Sie Ihre Bremsen, da der Bremsweg länger sein kann.",
+              "Ein Poncho schützt auch Ihren Rucksack vor der Feuchtigkeit."
+            ],
+            "hu": [
+              "Viseljen teljes esővédő ruházatot a tekeréshez.",
+              "Kerülje a meredek murvás utakat a Lugnetnél esőben.",
+              "Ellenőrizze a fékeket, mert a fékút nedvesen hosszabb lehet.",
+              "Egy poncsó a hátizsákot is megvédi a nedvességtől."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie pentru călătorie.",
+              "Evitați drumurile abrupte cu pietriș de la Lugnet pe ploaie.",
+              "Verificați frânele, deoarece distanța de frânare crește pe ud.",
+              "O pelerină vă protejează și rucsacul de umiditate."
+            ],
+            "en": [
+              "Wear full waterproof gear for the duration of the ride.",
+              "Avoid the steep gravel paths at Lugnet in wet conditions.",
+              "Check your brakes, as stopping distances increase on wet roads.",
+              "A poncho also helps keep your backpack dry while cycling."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterliches Radabenteuer durch das verschneite Elsborg. Nach einem Stopp im Dalarnas Museum führt der Weg zum Lugnet, wo die Wintersport-Atmosphäre am stärksten ist. Radeln Sie vorsichtig zur Kupfermine, wo die Temperatur unter Tage angenehm konstant bleibt. Beenden Sie den Tag an der Stora Kopparberg Kirche, wenn die Dämmerung die Schneelandschaft in blaues Licht taucht.",
+            "hu": "Téli kerékpáros kaland a havas Elsborgon át. A Dalarnas Múzeum után irány a Lugnet, ahol a téli sportok hangulata a legélénkebb. Óvatosan tekerjen a rézbányához, ahol a föld alatti hőmérséklet kellemesen állandó. A napot a Stora Kopparberg templomnál zárja, amikor a szürkület kék fénybe vonja a havas tájat.",
+            "ro": "O aventură hibernală pe bicicletă prin Elsborgul înzăpezit. După Muzeul Dalarnas, drumul duce spre Lugnet, inima sporturilor de iarnă. Pedalați cu grijă spre mină, unde temperatura rămâne constantă. Încheiați ziua la Biserica Stora Kopparberg, când amurgul scaldă peisajul alb într-o lumină albastră.",
+            "en": "A wintry cycling adventure through snowy Elsborg. After a museum stop, head to Lugnet, where the winter sports vibe is at its peak. Cycle carefully to the copper mine, where the underground air is mild. Conclude at Stora Kopparberg Church as the early dusk paints the snowy landscape in shades of blue."
+          },
+          "stops": [
+            {
+              "name": "Elsborg District",
+              "tip_5lang": {
+                "de": "Vorsicht vor verstecktem Glatteis unter dem Neuschnee.",
+                "hu": "Vigyázzon a friss hó alatt megbújó jégfoltokra.",
+                "ro": "Atenție la gheața ascunsă sub stratul de zăpadă proaspătă.",
+                "en": "Watch out for black ice hidden under fresh snow."
+              }
+            },
+            {
+              "name": "Dalarnas Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Finger wieder aufzuwärmen.",
+                "hu": "Ideális helyszín az elgémberedett ujjak felmelegítésére.",
+                "ro": "Un loc ideal pentru a vă dezmorți degetele înghețate.",
+                "en": "An ideal spot to warm up your fingers between stops."
+              }
+            },
+            {
+              "name": "Lugnet Ski Stadium",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Skispringer beim Training.",
+                "hu": "Élvezze a síugrók edzésének látványát a havas pályán.",
+                "ro": "Bucurați-vă de vederea săritorilor cu schiurile la antrenament.",
+                "en": "Enjoy the sight of ski jumpers practicing on the snowy hills."
+              }
+            },
+            {
+              "name": "Falun Copper Mine (Falu Gruva)",
+              "tip_5lang": {
+                "de": "Der Weg zur Mine kann im Winter sehr windig und kalt sein.",
+                "hu": "A bányához vezető út télen nagyon szeles és hideg lehet.",
+                "ro": "Drumul spre mină poate fi foarte vântos și rece iarna.",
+                "en": "The ride to the mine can be very windy and cold in winter."
+              }
+            },
+            {
+              "name": "The Great Pit (Stora Stöten)",
+              "tip_5lang": {
+                "de": "Der Schnee macht den Abgrund im Winter besonders fotogen.",
+                "hu": "A hó télen különösen fotogénné teszi a hatalmas mélységet.",
+                "ro": "Zăpada face prăpastia extrem de fotogenică în timpul iernii.",
+                "en": "The snow makes the massive pit exceptionally photogenic in winter."
+              }
+            },
+            {
+              "name": "Stora Kopparberg Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf funktionierendes Licht für die Rückfahrt im Dunkeln.",
+                "hu": "Ügyeljen a működő lámpákra a sötétben történő visszatéréshez.",
+                "ro": "Asigurați-vă că aveți lumini bune pentru drumul de întoarcere.",
+                "en": "Ensure you have working lights for the ride back in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen mit Spikes sind für Radfahrer sehr zu empfehlen.",
+              "Tragen Sie winddichte Handschuhe und eine warme Mütze.",
+              "Die Batterien von E-Bikes entladen sich bei Kälte schneller.",
+              "Nutzen Sie die geräumten Hauptwege und meiden Sie steile Pfade."
+            ],
+            "hu": [
+              "A szöges téli gumik erősen ajánlottak a kerékpárosoknak.",
+              "Viseljen szélálló kesztyűt és meleg sapkát a tekeréshez.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül hidegben.",
+              "Használja a letakarított főutakat, kerülje a meredek ösvényeket."
+            ],
+            "ro": [
+              "Anvelopele de iarnă cu ținte sunt recomandate bicicliștilor.",
+              "Purtați mănuși rezistente la vânt și o căciulă călduroasă.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Folosiți drumurile principale curățate și evitați pantele mari."
+            ],
+            "en": [
+              "Winter tires with studs are highly recommended for cyclists.",
+              "Wear windproof gloves and a warm hat for the ride.",
+              "E-bike batteries drain much faster in sub-zero temperatures.",
+              "Stick to cleared main roads and avoid steep, unplowed paths."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1086,6 +1450,206 @@
           "The streets in the older parts of town can be narrow, so drive carefully.",
           "Check the opening hours of Carl Larsson-gården as they are highly seasonal."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie mit einer Fahrt zum Carl Larsson Hof in Sundborn, der im Regen besonders idyllisch wirkt. Zurück in Falun parken Sie bequem im Zentrum und besuchen die Kristine-Kirche und das Dalarnas Museum. Den Nachmittag verbringen Sie im Bergwerk, wo das Wetter keine Rolle spielt. Zum Abschluss genießen Sie den Blick vom Lugnet Ski-Stadion aus dem trockenen Auto.",
+            "hu": "Kezdje a napot a sundborni Carl Larsson-háznál, amely esőben is idilli látványt nyújt. Visszatérve Falunba, parkoljon kényelmesen a központban, látogassa meg a templomot és a múzeumot. A délutánt töltse a bányában, ahol az időjárás nem tényező. Végezetül élvezze a Lugnet sístadion panorámáját a száraz autó kényelméből.",
+            "ro": "Începeți cu o vizită la ferma Carl Larsson din Sundborn, idilică sub ploaie. Revenind în Falun, parcați central pentru a vizita Biserica Kristine și Muzeul Dalarnas. Petreceți după-amiaza în mină, unde vremea nu contează. La final, bucurați-vă de vederea de la Stadionul Lugnet din confortul mașinii uscate.",
+            "en": "Begin with a drive to the Carl Larsson Farm in Sundborn, which looks particularly idyllic in the rain. Back in Falun, park centrally to visit Kristine Church and Dalarnas Museum. Spend your afternoon at the mine, unaffected by the downpour. End the day with a view from Lugnet Ski Stadium, enjoying the vista from your dry car."
+          },
+          "stops": [
+            {
+              "name": "Carl Larsson Farm in Sundborn",
+              "tip_5lang": {
+                "de": "Der kurze Weg vom Parkplatz zum Haus kann matschig sein.",
+                "hu": "A parkolótól a házig vezető rövid út sáros lehet.",
+                "ro": "Scurtul drum de la parcare la casă poate fi noroios.",
+                "en": "The short walk from the parking lot to the house can be muddy."
+              }
+            },
+            {
+              "name": "Parking in Falun Center (Cluster A)",
+              "tip_5lang": {
+                "de": "Parkhäuser im Zentrum bieten einen trockenen Ein- und Ausstieg.",
+                "hu": "A központi parkolóházak száraz ki- és beszállást biztosítanak.",
+                "ro": "Parcările acoperite din centru oferă acces uscat la mașină.",
+                "en": "Indoor parking garages in the center offer dry access to your car."
+              }
+            },
+            {
+              "name": "Kristine Church",
+              "tip_5lang": {
+                "de": "Der Eingang liegt nur wenige Schritte von den Parkplätzen entfernt.",
+                "hu": "A bejárat csak pár lépésre van a központi parkolóktól.",
+                "ro": "Intrarea este la doar câțiva pași de locurile de parcare.",
+                "en": "The entrance is just a few steps away from central parking."
+              }
+            },
+            {
+              "name": "Dalarnas Museum",
+              "tip_5lang": {
+                "de": "Perfekt für einen längeren Aufenthalt bei starkem Regen.",
+                "hu": "Tökéletes választás egy hosszabb tartózkodásra heves esőben.",
+                "ro": "O alegere perfectă pentru o vizită lungă pe ploaie torențială.",
+                "en": "Perfect for a longer indoor stay during heavy rainfall."
+              }
+            },
+            {
+              "name": "Falun Copper Mine (Cluster B)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz direkt am Besucherzentrum.",
+                "hu": "Használja a közvetlenül a látogatóközpont melletti nagy parkolót.",
+                "ro": "Folosiți parcarea mare de lângă centrul pentru vizitatori.",
+                "en": "Use the large parking area right by the visitor center."
+              }
+            },
+            {
+              "name": "The Great Pit (Stora Stöten)",
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man oft eine gute Sicht auf den Rand.",
+                "hu": "Az autóból is gyakran jó rálátás nyílik a bánya szélére.",
+                "ro": "Din mașină aveți adesea o vedere bună asupra marginii.",
+                "en": "You can often get a good view of the edge from your car."
+              }
+            },
+            {
+              "name": "View from Lugnet Ski Stadium (Cluster C)",
+              "tip_5lang": {
+                "de": "Der Parkplatz oben bietet ein tolles Panorama ohne nass zu werden.",
+                "hu": "A felső parkoló remek panorámát kínál anélkül, hogy megázna.",
+                "ro": "Parcarea de sus oferă o panoramă grozavă fără a vă uda.",
+                "en": "The top parking lot offers a great panorama without getting wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Park-Apps, um das Bezahlen im Regen zu vermeiden.",
+              "Die Sicht kann auf den Landstraßen nach Sundborn eingeschränkt sein.",
+              "Halten Sie einen Regenschirm im Auto für die kurzen Wege bereit.",
+              "Parkhäuser im Zentrum sind bei Dauerregen die beste Wahl."
+            ],
+            "hu": [
+              "Használjon parkolási appot, hogy ne kelljen az esőben fizetnie.",
+              "A látási viszonyok korlátozottak lehetnek a Sundborn felé vezető úton.",
+              "Tartson esernyőt az autóban a rövid gyalogutakhoz.",
+              "A központi parkolóházak a legjobb választások tartós esőben."
+            ],
+            "ro": [
+              "Folosiți aplicații de parcare pentru a evita plata în ploaie.",
+              "Vizibilitatea poate fi redusă pe drumul spre Sundborn.",
+              "Păstrați o umbrelă în mașină pentru distanțele scurte pe jos.",
+              "Parcările supraetajate sunt cea mai bună alegere pe ploaie."
+            ],
+            "en": [
+              "Use parking apps to avoid paying at machines in the rain.",
+              "Visibility can be limited on the country roads to Sundborn.",
+              "Keep an umbrella in the car for short walks to entrances.",
+              "Multi-story car parks are the best choice during persistent rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Fahren Sie durch eine glitzernde Schneelandschaft zum Carl Larsson Hof. In Falun angekommen, bietet die Kristine-Kirche eine besinnliche Winterstimmung. Im Dalarnas Museum wärmen Sie sich auf, bevor es zur Kupfermine geht, deren Besuch im Winter besonders mystisch ist. Den Tag schließen Sie am Lugnet ab, wo Sie die beleuchteten Schanzen im Abendlicht bewundern können.",
+            "hu": "Hajtson át a csillogó havas tájon a Carl Larsson-házhoz. Falunba érve a Kristine-templom meghitt téli hangulatot áraszt. A Dalarnas Múzeumban felmelegedhet, mielőtt a rézbányához indulna, amelynek látogatása télen különösen misztikus. A napot a Lugnetnél zárja, ahol az esti fényben úszó kivilágított sáncokat csodálhatja meg.",
+            "ro": "Conduceți printr-un peisaj sclipitor de iarnă spre Sundborn. Ajunși în Falun, Biserica Kristine oferă o atmosferă liniștită de iarnă. Încălziți-vă la Muzeul Dalarnas înainte de a vizita mina, care pare mistică iarna. Încheiați ziua la Lugnet, admirând trambulinele iluminate în lumina serii.",
+            "en": "Drive through a glittering snowscape to the Carl Larsson Farm. Once in Falun, Kristine Church provides a contemplative winter atmosphere. Warm up at Dalarnas Museum before heading to the copper mine, which feels especially mystical in winter. Conclude your day at Lugnet, admiring the illuminated ski jumps in the evening light."
+          },
+          "stops": [
+            {
+              "name": "Carl Larsson Farm in Sundborn",
+              "tip_5lang": {
+                "de": "Die Straßen nach Sundborn können im Winter glatt sein.",
+                "hu": "A Sundbornba vezető utak télen jegesek és csúszósak lehetnek.",
+                "ro": "Drumurile spre Sundborn pot fi alunecoase în timpul iernii.",
+                "en": "The roads to Sundborn can be slippery during winter."
+              }
+            },
+            {
+              "name": "Parking in Falun Center (Cluster A)",
+              "tip_5lang": {
+                "de": "In Parkhäusern ist Ihr Auto vor Schneefall geschützt.",
+                "hu": "A parkolóházakban az autó védve van a hóeséstől.",
+                "ro": "În parcările acoperite, mașina este protejată de ninsoare.",
+                "en": "Indoor car parks keep your vehicle protected from snowfall."
+              }
+            },
+            {
+              "name": "Kristine Church",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es oft Parkplätze mit kurzer Gehdistanz.",
+                "hu": "A közelben gyakran találni parkolót rövid gyalogtávolságra.",
+                "ro": "Există locuri de parcare la mică distanță de mers pe jos.",
+                "en": "Parking is usually available within a short walking distance."
+              }
+            },
+            {
+              "name": "Dalarnas Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kälte draußen für eine Weile zu vergessen.",
+                "hu": "Ideális helyszín, hogy egy időre elfelejtse a kinti hideget.",
+                "ro": "Un loc ideal pentru a uita de frigul de afară pentru o vreme.",
+                "en": "An ideal place to escape the biting cold for a while."
+              }
+            },
+            {
+              "name": "Falun Copper Mine (Cluster B)",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird regelmäßig geräumt, kann aber glatt sein.",
+                "hu": "A parkolót rendszeresen takarítják, de jeges maradhat.",
+                "ro": "Parcarea este curățată regulat, dar poate fi alunecoasă.",
+                "en": "The parking lot is cleared regularly but can still be icy."
+              }
+            },
+            {
+              "name": "The Great Pit (Stora Stöten)",
+              "tip_5lang": {
+                "de": "Genießen Sie den verschneiten Abgrund direkt vom warmen Fahrersitz.",
+                "hu": "Élvezze a havas mélységet közvetlenül a meleg vezetőülésből.",
+                "ro": "Admirați prăpastia înzăpezită direct din scaunul cald al mașinii.",
+                "en": "Enjoy the snowy pit view directly from your warm car seat."
+              }
+            },
+            {
+              "name": "View from Lugnet Ski Stadium (Cluster C)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Wintersportler, die die Parkbereiche kreuzen.",
+                "hu": "Ügyeljen a parkolózónákon áthaladó téli sportolókra.",
+                "ro": "Atenție la sportivii care traversează zonele de parcare.",
+                "en": "Watch out for winter athletes crossing the parking areas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Schweden gesetzlich vorgeschrieben.",
+              "Führen Sie einen Eiskratzer und eine Schneeschaufel mit.",
+              "Die Straßenbeleuchtung ist gut, aber Vorsicht bei Wildwechsel.",
+              "Nutzen Sie die Motorvorwärmung, falls Ihr Auto diese hat."
+            ],
+            "hu": [
+              "A téli gumi használata Svédországban törvényileg kötelező.",
+              "Legyen az autóban jégkaparó és hólapát is.",
+              "A közvilágítás jó, de ügyeljen a vadakra az utakon.",
+              "Használja a motor-előmelegítőt, ha az autó rendelkezik vele."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Suedia.",
+              "Aveți întotdeauna în mașină o răzuitoare de gheață și o lopată.",
+              "Iluminatul stradal este bun, dar atenție la animalele sălbatice.",
+              "Folosiți preîncălzirea motorului dacă mașina este dotată cu ea."
+            ],
+            "en": [
+              "Winter tires are legally required in Sweden during this season.",
+              "Keep an ice scraper and a small snow shovel in your car.",
+              "Road lighting is good, but watch out for wildlife crossings.",
+              "Use engine pre-heating if your vehicle is equipped with it."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1442,6 +2006,188 @@
           "Pay attention to the departure times of the last bus, especially from the more distant attractions like Lugnet.",
           "The buses are usually on time, so be at the stop in time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Busse, um bequem und trocken zwischen den Sehenswürdigkeiten zu pendeln. Starten Sie am Dalarnas Museum und fahren Sie weiter zur Kristine-Kirche. Eine kurze Busfahrt bringt Sie zur Kupfermine, wo Sie den Nachmittag unter Tage verbringen. Zum Abschluss führt die Linie zum Lugnet Ski-Stadion, bevor Sie zum Bahnhof zurückkehren.",
+            "hu": "Használja a buszokat, hogy kényelmesen és szárazon közlekedjen a látnivalók között. Kezdjen a Dalarnas Múzeumnál, majd folytassa a Kristine-templommal. Egy rövid buszút elviszi a rézbányához, ahol a délutánt a föld alatt töltheti. Végezetül a vonal a Lugnet sístadionhoz vezet, mielőtt visszatérne a vasútállomásra.",
+            "ro": "Folosiți autobuzele pentru a călători confortabil și uscat între atracții. Începeți la Muzeul Dalarnas și continuați spre Biserica Kristine. O scurtă călătorie cu autobuzul vă duce la mină pentru o după-amiază subterană. La final, linia vă duce la Stadionul Lugnet înainte de a reveni la gară.",
+            "en": "Use the local buses to commute between sights comfortably and dry. Start at Dalarnas Museum and continue to Kristine Church. A short bus ride takes you to the copper mine for an underground afternoon. Finally, take the bus to Lugnet Ski Stadium before returning to the central station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Central Station (Cluster A)",
+              "tip_5lang": {
+                "de": "Die Wartehalle bietet Schutz und Echtzeit-Abfahrtszeiten.",
+                "hu": "A váróterem védelmet és valós idejű menetrendet biztosít.",
+                "ro": "Sala de așteptare oferă adăpost și informații în timp real.",
+                "en": "The waiting hall provides shelter and real-time departure info."
+              }
+            },
+            {
+              "name": "Dalarnas Museum",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt fast direkt vor dem Museumseingang.",
+                "hu": "A buszmegálló szinte közvetlenül a múzeum bejárata előtt van.",
+                "ro": "Stația de autobuz este aproape direct în fața muzeului.",
+                "en": "The bus stop is located almost right in front of the museum."
+              }
+            },
+            {
+              "name": "Kristine Church & Town Hall",
+              "tip_5lang": {
+                "de": "Im Zentrum sind die Wege zwischen den Haltestellen sehr kurz.",
+                "hu": "A központban a megállók közötti gyalogutak nagyon rövidek.",
+                "ro": "În centru, distanțele între stații sunt foarte mici.",
+                "en": "In the center, walking distances between stops are very short."
+              }
+            },
+            {
+              "name": "Bus ride to the Copper Mine (Cluster B)",
+              "tip_5lang": {
+                "de": "Die Buslinie 1 bringt Sie trocken direkt zum Bergwerk.",
+                "hu": "Az 1-es buszjárat szárazon, közvetlenül a bányához viszi.",
+                "ro": "Linia 1 de autobuz vă duce direct la mină, la adăpost.",
+                "en": "Bus line 1 takes you directly to the mine, keeping you dry."
+              }
+            },
+            {
+              "name": "Stora Kopparberg Church",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten bequem per App im Trockenen.",
+                "hu": "Ellenőrizze a menetrendet kényelmesen, száraz helyen az appban.",
+                "ro": "Verificați programul în aplicație cât timp sunteți la adăpost.",
+                "en": "Check departure times in the app while staying in the dry."
+              }
+            },
+            {
+              "name": "Bus ride to Lugnet (Cluster C)",
+              "tip_5lang": {
+                "de": "Die Haltestelle am Lugnet ist nur einen kurzen Fußweg vom Stadion entfernt.",
+                "hu": "A lugneti megálló csak rövid sétára van a stadiontól.",
+                "ro": "Stația de la Lugnet este la doar o scurtă plimbare de stadion.",
+                "en": "The Lugnet stop is just a short walk away from the stadium."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab in der App 'Dalatrafik'.",
+              "Die Busse sind pünktlich und bieten eine gute Flucht vor Regen.",
+              "Nutzen Sie die überdachten Haltestellen im Stadtzentrum.",
+              "Die Hauptlinien verkehren tagsüber in kurzen Intervallen."
+            ],
+            "hu": [
+              "Vásároljon jegyet előre a 'Dalatrafik' alkalmazásban.",
+              "A buszok pontosak és jó menekülést nyújtanak az eső elől.",
+              "Használja a fedett buszmegállókat a városközpontban.",
+              "A fővonalak napközben sűrűn közlekednek."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans prin aplicația 'Dalatrafik'.",
+              "Autobuzele sunt punctuale și oferă o evadare bună din ploaie.",
+              "Folosiți stațiile de autobuz acoperite din centrul orașului.",
+              "Liniile principale circulă la intervale scurte în timpul zilei."
+            ],
+            "en": [
+              "Purchase tickets in advance using the 'Dalatrafik' app.",
+              "Buses are punctual and provide a great escape from the rain.",
+              "Make use of the sheltered bus stops in the city center.",
+              "Main bus lines run at frequent intervals during the day."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Reisen Sie warm und sicher mit dem Bus durch das verschneite Falun. Starten Sie Ihre Tour am Dalarnas Museum und besuchen Sie die festlich beleuchtete Kristine-Kirche. Der Bus bringt Sie zur Kupfermine, wo die Besichtigung ein warmes Highlight ist. Zum Abschluss genießen Sie die Winterstimmung am Lugnet, bevor der Bus Sie zurück in die gemütliche Stadt bringt.",
+            "hu": "Utazzon melegben és biztonságban busszal a havas Falunon át. Kezdje a túrát a Dalarnas Múzeumnál, majd látogasson el az ünnepi fényben úszó Kristine-templomhoz. A busz elviszi a rézbányához, ahol a látogatás egy meleg fénypontja a napnak. Végezetül élvezze a téli hangulatot a Lugnetnél, mielőtt a busz visszavinné a barátságos városba.",
+            "ro": "Călătoriți în căldură și siguranță cu autobuzul prin Faluna înzăpezită. Începeți turul la Muzeul Dalarnas și vizitați Biserica Kristine iluminată festiv. Autobuzul vă duce la mină, unde vizita este un punct culminant călduros. La final, bucurați-vă de atmosfera de iarnă la Lugnet înainte de a reveni în oraș.",
+            "en": "Travel warmly and safely by bus through snowy Falun. Start your tour at Dalarnas Museum and visit the festively lit Kristine Church. The bus whisks you to the copper mine, where the tour is a cozy highlight. Finish with the winter vibe at Lugnet before the bus takes you back to the inviting city center."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Central Station (Cluster A)",
+              "tip_5lang": {
+                "de": "In der beheizten Wartehalle lässt es sich angenehm warten.",
+                "hu": "A fűtött váróteremben kellemes a várakozás.",
+                "ro": "Așteptarea este plăcută în sala de așteptare încălzită.",
+                "en": "Waiting is pleasant inside the heated station hall."
+              }
+            },
+            {
+              "name": "Dalarnas Museum",
+              "tip_5lang": {
+                "de": "Die Nähe zur Haltestelle minimiert die Zeit in der Kälte.",
+                "hu": "A megálló közelsége minimálisra csökkenti a hidegben töltött időt.",
+                "ro": "Proximitatea stației reduce la minimum timpul petrecut în frig.",
+                "en": "The stop's proximity minimizes your time out in the cold."
+              }
+            },
+            {
+              "name": "Kristine Church & Town Hall",
+              "tip_5lang": {
+                "de": "Im Winter sind die Gehwege im Zentrum meist gut geräumt.",
+                "hu": "Télen a központi járdákat általában jól letakarítják.",
+                "ro": "Iarna, trotuarele din centru sunt de obicei bine curățate.",
+                "en": "In winter, central sidewalks are usually well-plowed."
+              }
+            },
+            {
+              "name": "Bus ride to the Copper Mine (Cluster B)",
+              "tip_5lang": {
+                "de": "Genießen Sie die verschneite Aussicht aus dem warmen Bus.",
+                "hu": "Élvezze a havas kilátást a fűtött busz ablakából.",
+                "ro": "Bucurați-vă de peisajul înzăpezit din autobuzul cald.",
+                "en": "Enjoy the snowy views from the warmth of the bus."
+              }
+            },
+            {
+              "name": "Stora Kopparberg Church",
+              "tip_5lang": {
+                "de": "Die Haltestelle bietet oft eine digitale Anzeige der Abfahrten.",
+                "hu": "A megállóban gyakran van digitális kijelző az indulásokról.",
+                "ro": "Stația are adesea un afișaj digital pentru plecări.",
+                "en": "The stop often features a digital display for departures."
+              }
+            },
+            {
+              "name": "Bus ride to Lugnet (Cluster C)",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt am Eingang zum großen Sportareal.",
+                "hu": "A busz közvetlenül a nagy sportközpont bejáratánál áll meg.",
+                "ro": "Autobuzul oprește chiar la intrarea în marea zonă sportivă.",
+                "en": "The bus stops right at the entrance to the large sports complex."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verlassen Sie sich auf die pünktlichen Busse bei Schneefall.",
+              "Tragen Sie warme Schuhe für die Wege zu den Haltestellen.",
+              "Die App zeigt Ihnen Verspätungen durch Wintereinbrüche an.",
+              "Nutzen Sie die zentrale Umsteigestelle 'Knutpunkten'."
+            ],
+            "hu": [
+              "Hóesésben is számíthat a buszok pontosságára.",
+              "Viseljen meleg lábbelit a megállókig tartó sétákhoz.",
+              "Az app mutatja a hó miatti esetleges késéseket.",
+              "Használja a 'Knutpunkten' központi átszállópontot."
+            ],
+            "ro": [
+              "Bazați-vă pe punctualitatea autobuzelor chiar și când ninge.",
+              "Purtați încălțăminte călduroasă pentru drumul spre stații.",
+              "Aplicația vă arată întârzierile cauzate de condițiile de iarnă.",
+              "Folosiți punctul central de transfer 'Knutpunkten'."
+            ],
+            "en": [
+              "Rely on the punctual buses even during heavy snowfall.",
+              "Wear warm footwear for the walks to and from bus stops.",
+              "The app displays any delays caused by winter conditions.",
+              "Utilize the 'Knutpunkten' central hub for easy transfers."
+            ]
+          }
+        }
       }
     }
   }

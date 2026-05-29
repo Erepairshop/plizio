@@ -382,6 +382,206 @@
           "A reusable water bottle is useful.",
           "The weather can change quickly, so pack a light raincoat."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir den Gjøvik-Hof mit Schirm im Garten. Mittags suchen wir Schutz in den historischen Mauern von Kauffeldtgården und der nahen Kirche. Nachmittags schlendern wir kurz am regnerischen Mjøsa-Ufer, bevor wir uns bei den Glasbläsern aufwärmen. Den Abend verbringen wir trocken in der beeindruckenden olympischen Felsenhöhle tief im Berg.",
+            "hu": "Reggel a Gjøvik-udvarházat fedezzük fel esernyővel a kertben. Délben a Kauffeldtgården és a templom falai közt bújunk meg a zápor elől. Délután teszünk egy rövid sétát a borongós Mjøsa-parton, majd az üveggyárban melegszünk fel. Az estét teljesen szárazon, a hegy gyomrába vájt olimpiai csarnok különleges falai között zárjuk.",
+            "ro": "Dimineața explorăm ferma Gjøvik cu umbrela prin grădină. La prânz ne adăpostim în clădirile istorice de la Kauffeldtgården și în biserică. După-amiaza facem o scurtă plimbare pe faleza Mjøsa, apoi ne încălzim la suflătorii de sticlă. Seara ne prinde la adăpost în sala olimpică săpată în stâncă, unde ploaia de afară nu mai contează.",
+            "en": "Morning starts at Gjøvik Farm with an umbrella in the gardens. At noon, we find shelter within the historic walls of Kauffeldtgården and the church. Afternoon involves a misty walk by Mjøsa before retreating to the warmth of the Glassworks. We end the day perfectly dry inside the Olympic Cavern Hall, deep within the mountain rock."
+          },
+          "stops": [
+            {
+              "name": "Gjøvik Farm",
+              "tip_5lang": {
+                "de": "Die Innenräume des Herrenhauses bieten perfekten Schutz vor Regen.",
+                "hu": "A kúria belső terei kiváló menedéket nyújtanak az eső elől.",
+                "ro": "Interioarele conacului oferă un adăpost perfect împotriva ploii.",
+                "en": "The manor house interiors provide excellent shelter from the rain."
+              }
+            },
+            {
+              "name": "Kauffeldtgården",
+              "tip_5lang": {
+                "de": "Kleine Galerien im Inneren sind ideal für regnerische Stunden.",
+                "hu": "A belső galériák ideálisak a csapadékos órák átvészelésére.",
+                "ro": "Galeriile interioare sunt ideale pentru orele cu precipitații.",
+                "en": "Small indoor galleries are ideal for spending rainy hours."
+              }
+            },
+            {
+              "name": "Gjøvik Church",
+              "tip_5lang": {
+                "de": "Die Akustik des Regens auf dem Kirchendach ist sehr beruhigend.",
+                "hu": "A templomtetőn kopogó eső hangja különleges nyugalmat áraszt.",
+                "ro": "Sunetul ploii pe acoperișul bisericii oferă o atmosferă liniștitoare.",
+                "en": "The sound of rain on the church roof creates a very calming atmosphere."
+              }
+            },
+            {
+              "name": "Mjøsa Promenade",
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang mit wasserfesten Schuhen lohnt sich trotzdem.",
+                "hu": "Egy rövid séta vízálló cipőben a ködös tavon is élmény.",
+                "ro": "O scurtă plimbare cu încălțăminte impermeabilă merită chiar și pe ploaie.",
+                "en": "A short walk with waterproof shoes is worth it even in the mist."
+              }
+            },
+            {
+              "name": "Skibladner Paddle-Steamer",
+              "tip_5lang": {
+                "de": "Der Kiosk am Kai bietet Unterstand mit Blick auf den Raddampfer.",
+                "hu": "A kikötői pavilon alól jól látható a gőzhajó az esőben is.",
+                "ro": "Pavilionul din port oferă adăpost cu vedere spre vaporul cu aburi.",
+                "en": "The pier kiosk offers shelter while viewing the historic steamer."
+              }
+            },
+            {
+              "name": "Gjøvik Glassworks",
+              "tip_5lang": {
+                "de": "Die Hitze der Glasöfen vertreibt sofort jede Feuchtigkeit.",
+                "hu": "Az üvegfúvó kemencék melege azonnal elfeledteti a kinti nyirkosságot.",
+                "ro": "Căldura cuptoarelor de sticlărie alungă imediat orice urmă de umezeală.",
+                "en": "The heat from the glass furnaces quickly dispels any dampness."
+              }
+            },
+            {
+              "name": "Gjøvik Olympic Cavern Hall",
+              "tip_5lang": {
+                "de": "Absolut wetterunabhängig, da die gesamte Anlage tief im Fels liegt.",
+                "hu": "Teljesen időjárásfüggetlen, mivel a csarnok mélyen a sziklában van.",
+                "ro": "Complet independent de vreme, fiind situat adânc în inima stâncii.",
+                "en": "Completely weather-proof as the entire hall is deep inside the rock."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Passagen im CC Gjøvik Einkaufszentrum zum trockenen Wechsel.",
+              "Wasserfeste Kleidung ist bei dem Wind vom See her unerlässlich.",
+              "Die Museen in Gjøvik haben oft gemütliche Cafés für Regenpausen.",
+              "Achten Sie auf rutschige Pflastersteine in der Nähe des Hafens."
+            ],
+            "hu": [
+              "Használja a CC Gjøvik bevásárlóközpont folyosóit a száraz áthaladáshoz.",
+              "A tavi szél miatt a vízálló öltözet és a stabil esernyő kötelező.",
+              "A múzeumok kávézóiban érdemes kivárni a nagyobb záporok végét.",
+              "Vigyázzon a kikötő környékén a csúszós macskakövekre."
+            ],
+            "ro": [
+              "Folosiți coridoarele centrului comercial CC Gjøvik pentru tranzit uscat.",
+              "Echipamentul impermeabil este esențial din cauza vântului de pe lac.",
+              "Cafenelele muzeelor sunt locuri excelente pentru a aștepta oprirea ploii.",
+              "Atenție la pavajul alunecos din zona portului când este ud."
+            ],
+            "en": [
+              "Use the CC Gjøvik shopping mall passages for dry transitions between areas.",
+              "Waterproof gear is essential due to the biting wind coming off the lake.",
+              "Museum cafes are perfect spots to wait out heavy downpours.",
+              "Be careful of slippery cobblestones near the pier area when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein tief verschneiter Gjøvik-Hof empfängt uns in der Morgenkälte. Mittags stapfen wir durch den Schnee zur Kirche und genießen die Stille am gefrorenen See. Da die Sonne früh untergeht, wärmen wir uns nachmittags bei den Glasbläsern auf. Den Winterabend verbringen wir in der konstant temperierten olympischen Felsenhöhle.",
+            "hu": "Reggel a hófödte Gjøvik-udvarház vár minket a csípős hidegben. Délben a hóban gázolva érjük el a templomot, majd a befagyott tó látványában gyönyörködünk. A korai naplemente miatt a délutánt már az üveggyár melegében töltjük. A téli estét a hegy gyomrában, az állandó hőmérsékletű sziklacsarnokban fejezzük be.",
+            "ro": "Ferma Gjøvik acoperită de zăpadă ne întâmpină în gerul dimineții. La prânz mergem prin zăpadă spre biserică și admirăm lacul înghețat. Deoarece soarele apune devreme, după-amiaza ne încălzim la sticlărie. Seara de iarnă se încheie în sala olimpică din stâncă, unde temperatura este constantă.",
+            "en": "A snow-blanketed Gjøvik Farm greets us in the morning chill. At noon, we crunch through snow to the church and enjoy the silence of the frozen lake. With the early sunset, we retreat to the warmth of the Glassworks by mid-afternoon. We spend the winter evening inside the rock cavern, where it stays warm regardless of the frost outside."
+          },
+          "stops": [
+            {
+              "name": "Gjøvik Farm",
+              "tip_5lang": {
+                "de": "Die historischen Gebäude sehen unter einer Schneedecke zauberhaft aus.",
+                "hu": "A történelmi épületek varázslatos látványt nyújtanak a hótakaró alatt.",
+                "ro": "Clădirile istorice arată magic sub stratul de zăpadă proaspătă.",
+                "en": "The historic buildings look magical under a fresh blanket of snow."
+              }
+            },
+            {
+              "name": "Kauffeldtgården",
+              "tip_5lang": {
+                "de": "Ein kurzer Aufenthalt im Inneren hilft, die Zehen wieder aufzuwärmen.",
+                "hu": "Egy rövid benti pihenő segít átmelegíteni a lábujjakat a séta közben.",
+                "ro": "O scurtă oprire în interior ajută la reîncălzirea picioarelor.",
+                "en": "A short stay inside helps warm up your toes during the walk."
+              }
+            },
+            {
+              "name": "Gjøvik Church",
+              "tip_5lang": {
+                "de": "In der beheizten Kirche lässt es sich wunderbar zur Ruhe kommen.",
+                "hu": "A fűtött templombelsőben kellemesen megpihenhetünk a hideg után.",
+                "ro": "Interiorul încălzit al bisericii este un refugiu perfect după ger.",
+                "en": "The heated church interior is a wonderful place to rest after the cold."
+              }
+            },
+            {
+              "name": "Mjøsa Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis! Der Blick auf das blaue Eis des Sees ist grandios.",
+                "hu": "Vigyázzon a jégre! A tó kék jege és a havas táj látványa lenyűgöző.",
+                "ro": "Atenție la gheață! Vederea spre gheața albastră a lacului este superbă.",
+                "en": "Watch out for ice! The view of the lake's blue ice is magnificent."
+              }
+            },
+            {
+              "name": "Skibladner Paddle-Steamer",
+              "tip_5lang": {
+                "de": "Das im Eis festgefrorene Schiff bietet ein tolles Fotomotiv.",
+                "hu": "A jégbe fagyott patinás gőzhajó különleges fotótéma télen.",
+                "ro": "Vaporul istoric înghețat în lac oferă un subiect foto inedit.",
+                "en": "The historic steamer frozen in the lake ice makes for a great photo."
+              }
+            },
+            {
+              "name": "Gjøvik Glassworks",
+              "tip_5lang": {
+                "de": "Ideal, um sich bei heißem Glas und Kaffee aufzuwärmen.",
+                "hu": "Tökéletes hely a felmelegedésre a forró üveg és egy kávé mellett.",
+                "ro": "Locul ideal pentru reîncălzire lângă sticla topită și o cafea.",
+                "en": "The perfect place to warm up near hot glass and a cup of coffee."
+              }
+            },
+            {
+              "name": "Gjøvik Olympic Cavern Hall",
+              "tip_5lang": {
+                "de": "Im Berg herrscht das ganze Jahr über eine milde Temperatur.",
+                "hu": "A hegy belsejében egész évben állandó, enyhe hőmérséklet fogad.",
+                "ro": "În interiorul muntelui se menține o temperatură blândă tot anul.",
+                "en": "Inside the mountain, a mild temperature is maintained year-round."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Spikes an den Schuhen, da die Gehwege oft spiegelglatt sind.",
+              "Die Sonne geht im Dezember bereits gegen 15:30 Uhr unter.",
+              "Nutzen Sie Thermounterwäsche und mehrere Schichten Kleidung.",
+              "Warme Getränke in Thermoskannen verlängern das Durchhaltevermögen."
+            ],
+            "hu": [
+              "Viseljen csúszásgátló tüskéket, mert a járdák gyakran tükörjegesek.",
+              "Decemberben a nap már délután fél 4 körül lenyugszik.",
+              "Használjon termikus alsóneműt és öltözzön rétegesen a hideg ellen.",
+              "A termoszházba készített forró ital sokat segít a hosszú sétán."
+            ],
+            "ro": [
+              "Purtați crampoane pe încălțăminte, trotuarele sunt adesea înghețate.",
+              "Soarele apune în decembrie deja în jurul orei 15:30.",
+              "Folosiți lenjerie termică și îmbrăcați-vă în mai multe straturi.",
+              "Băuturile calde în termos vă vor ajuta să rezistați mai mult afară."
+            ],
+            "en": [
+              "Wear shoe spikes as the pavements are often extremely icy.",
+              "The sun sets as early as 3:30 PM during the peak of winter.",
+              "Use thermal underwear and multiple layers to combat the sub-zero wind.",
+              "Hot drinks in a thermos will significantly extend your outdoor stamina."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -734,6 +934,188 @@
           "Bring a lock to secure your bike at stops.",
           "Check your tire pressure before you start."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir beim Eiktunet Freilichtmuseum, wo die alten Hütten Schutz bieten. Danach radeln wir schnell zur Felsenhalle, um dem Guss zu entkommen. Mittags besuchen wir den Gjøvik-Hof und die Kirche. Den Nachmittag verbringen wir am Mjøsa-Ufer und wärmen uns schließlich in der Glasmanufaktur wieder auf.",
+            "hu": "Esőben is nekivágunk az Eiktunet múzeumnak, ahol a régi házak közt keresünk menedéket. Gyorsan áttekerünk a sziklacsarnokba, hogy elmeneküljünk az égi áldás elől. Délben a Gjøvik-udvarházat és a templomot érintjük. Délután a tavi fuvallat kísér minket az üveggyárig, ahol végleg megpihenünk.",
+            "ro": "Pornim spre muzeul Eiktunet în ciuda ploii, folosind casele vechi ca adăpost. Pedalam rapid spre sala din stâncă pentru a scăpa de duș. La prânz vizităm ferma Gjøvik și biserica. După-amiaza o petrecem pe faleză, iar la final ne uscăm în incinta fabricii de sticlărie.",
+            "en": "Despite the rain, we start at Eiktunet where old cabins provide shelter. We bike quickly to the Cavern Hall to escape the downpour. Midday is spent at Gjøvik Farm and the church. The afternoon involves a ride along the Mjøsa shore before finally warming up at the Glassworks."
+          },
+          "stops": [
+            {
+              "name": "Eiktunet Open-Air Museum",
+              "tip_5lang": {
+                "de": "Die historischen Bauernhäuser bieten viele Unterstellmöglichkeiten.",
+                "hu": "A történelmi parasztházak számos lehetőséget adnak az eső elől való bebújásra.",
+                "ro": "Casele țărănești istorice oferă multe locuri de adăpostire.",
+                "en": "The historic farmhouses offer many spots to take cover from rain."
+              }
+            },
+            {
+              "name": "Gjøvik Olympic Cavern Hall",
+              "tip_5lang": {
+                "de": "Sicherer, trockener Abstellplatz für Fahrräder im Eingangsbereich.",
+                "hu": "Biztonságos, száraz kerékpártároló található a bejárat közelében.",
+                "ro": "Loc de parcare sigur și uscat pentru biciclete lângă intrare.",
+                "en": "Secure and dry bike parking is available near the entrance area."
+              }
+            },
+            {
+              "name": "Gjøvik Farm",
+              "tip_5lang": {
+                "de": "Große Bäume im Park bieten natürlichen Schutz bei leichtem Regen.",
+                "hu": "A park hatalmas fái természetes védelmet nyújtanak szemerkélő esőben.",
+                "ro": "Copacii mari din parc oferă protecție naturală la ploaie ușoară.",
+                "en": "Large trees in the park provide natural cover during light rain."
+              }
+            },
+            {
+              "name": "Gjøvik Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine meditative Pause im trockenen Inneren.",
+                "hu": "Használja ki az időt egy békés pihenőre a száraz templombelsőben.",
+                "ro": "Folosiți timpul pentru o pauză liniștită în interiorul uscat.",
+                "en": "Use the time for a peaceful break inside the dry church interior."
+              }
+            },
+            {
+              "name": "Mjøsa Promenade & Skibladner",
+              "tip_5lang": {
+                "de": "Vorsicht bei nassen Holzwegen am Hafen, sie können rutschig sein.",
+                "hu": "Vigyázzon a vizes deszkákra a kikötőben, mert csúszhatnak.",
+                "ro": "Atenție la podețele de lemn umede din port, pot fi alunecoase.",
+                "en": "Be careful on wet wooden walkways near the pier; they can be slippery."
+              }
+            },
+            {
+              "name": "Gjøvik Glassworks",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um nasse Kleidung bei der Ofenwärme zu trocknen.",
+                "hu": "Tökéletes hely a vizes ruhák szárítására a kemencék melegénél.",
+                "ro": "Locul perfect pentru a usca hainele ude la căldura cuptoarelor.",
+                "en": "The perfect spot to dry off damp gear near the furnace heat."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei norwegischem Regen ein Muss.",
+              "Vermeiden Sie scharfes Bremsen auf den nassen Straßen bergab.",
+              "Wasserfeste Packtaschen schützen Ihre Kamera und Wertsachen.",
+              "Warme Handschuhe sind wichtig, da nasse Hände schnell auskühlen."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a norvég esős utakon való tekeréshez.",
+              "Kerülje az erős fékezést a vizes lejtőkön lefelé menet.",
+              "Vízálló táskákkal védje értékeit és a fényképezőgépét.",
+              "A meleg kesztyű fontos, mert a vizes kéz gyorsan áthűl a menetszélben."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii pentru drumurile norvegiene.",
+              "Evitați frânările bruște pe drumurile umede în pantă.",
+              "Folosiți genți impermeabile pentru a vă proteja obiectele de valoare.",
+              "Mănușile calde sunt esențiale, mâinile ude îngheață rapid în vânt."
+            ],
+            "en": [
+              "Mudguards on your bike are a must for Norwegian rainy weather.",
+              "Avoid sharp braking on wet downhill roads; take it slow.",
+              "Waterproof panniers or bags are essential to protect your electronics.",
+              "Warm gloves are vital as wet hands cool down very quickly while riding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Auf Winterreifen radeln wir morgens zum verschneiten Eiktunet. Die Abfahrt zur Felsenhalle erfordert volle Konzentration auf dem Eis. Mittags besuchen wir kurz den Gjøvik-Hof, bevor wir zum gefrorenen See fahren. Die Tour endet bei den Glasbläsern, wo wir die gefrorenen Glieder bei einem heißen Kakao wieder spüren.",
+            "hu": "Téli gumikkal vágunk neki reggel a havas Eiktunetnek. A sziklacsarnok felé tartó lejtő teljes koncentrációt igényel a jégen. Délben meglátogatjuk a Gjøvik-udvarházat, majd a befagyott tóhoz tekerünk. A túra az üveggyárban ér véget, ahol forró kakaó mellett nyerjük vissza életkedvünket.",
+            "ro": "Cu anvelope de iarnă pornim dimineața spre Eiktunet înzăpezit. Coborârea spre sala olimpică necesită concentrare maximă pe gheață. La prânz vizităm ferma Gjøvik, apoi pedalăm spre lacul înghețat. Turul se încheie la sticlărie, unde ne dezghețăm cu o ciocolată caldă.",
+            "en": "On winter tires, we head to snow-covered Eiktunet in the morning. The downhill ride to the Cavern Hall requires full focus on the ice. Midday involves a quick visit to Gjøvik Farm before riding to the frozen lake. The tour ends at the Glassworks, warming up our frozen limbs with hot cocoa."
+          },
+          "stops": [
+            {
+              "name": "Eiktunet Open-Air Museum",
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Neuschnee sehr anstrengend sein.",
+                "hu": "A friss hóban való felfelé tekerés komoly fizikai kihívás lehet.",
+                "ro": "Urcarea poate fi foarte solicitantă dacă zăpada este proaspătă.",
+                "en": "The ride uphill can be very strenuous if there is fresh snow."
+              }
+            },
+            {
+              "name": "Gjøvik Olympic Cavern Hall",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kälte für eine Weile ganz zu vergessen.",
+                "hu": "Ideális hely, ahol egy időre teljesen elfelejthetjük a kinti fagyot.",
+                "ro": "Un loc ideal pentru a uita de gerul de afară pentru o vreme.",
+                "en": "An ideal place to completely forget about the frost outside for a while."
+              }
+            },
+            {
+              "name": "Gjøvik Farm",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneeverwehungen auf den Wegen im Park.",
+                "hu": "Vigyázzon a hóátfúvásokra a parkon belüli ösvényeken.",
+                "ro": "Atenție la troienele de zăpadă pe aleile din incinta parcului.",
+                "en": "Watch out for snowdrifts on the paths inside the farm park."
+              }
+            },
+            {
+              "name": "Gjøvik Church",
+              "tip_5lang": {
+                "de": "Die beleuchtete Kirche ist in der Winterdämmerung wunderschön.",
+                "hu": "A kivilágított templom csodás látvány a téli szürkületben.",
+                "ro": "Biserica iluminată arată superb în amurgul scurt de iarnă.",
+                "en": "The illuminated church looks beautiful in the winter twilight."
+              }
+            },
+            {
+              "name": "Mjøsa Promenade & Skibladner",
+              "tip_5lang": {
+                "de": "Spikes-Reifen sind hier auf den gefrorenen Wegen lebensnotwendig.",
+                "hu": "A szöges gumik itt életmentőek a fagyott, csúszós utakon.",
+                "ro": "Anvelopele cu ținte sunt vitale pe aleile înghețate de aici.",
+                "en": "Studded tires are vital on the frozen paths along the lake."
+              }
+            },
+            {
+              "name": "Gjøvik Glassworks",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nah am Eingang, um schnell ins Warme zu kommen.",
+                "hu": "Parkoljon a bejárathoz közel, hogy minél előbb beérjen a melegre.",
+                "ro": "Parcați bicicleta aproape de intrare pentru a intra rapid la căldură.",
+                "en": "Park your bike close to the entrance to get inside the warmth quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikes-Reifen sind für das Radfahren im winterlichen Gjøvik Pflicht.",
+              "Tragen Sie eine winddichte Skibrille gegen den eisigen Fahrtwind.",
+              "Akku-Lichter entladen sich in der Kälte schneller, immer voll laden.",
+              "Vermeiden Sie langes Stehenbleiben, um nicht auszukühlen."
+            ],
+            "hu": [
+              "A szöges téli gumi alapfeltétel a téli Gjøvikben való tekeréshez.",
+              "Viseljen szélálló síszemüveget a jeges menetszél ellen.",
+              "Az akkumulátoros lámpák gyorsabban merülnek a hidegben.",
+              "Kerülje a hosszú egy helyben állást, hogy ne hűljön ki a teste."
+            ],
+            "ro": [
+              "Anvelopele cu ținte sunt obligatorii pentru ciclismul de iarnă aici.",
+              "Purtați ochelari de schi împotriva vântului înghețat la pedalare.",
+              "Luminile cu acumulator se descarcă mai repede la ger, încărcați-le des.",
+              "Evitați staționările lungi pentru a nu lăsa corpul să se răcească."
+            ],
+            "en": [
+              "Studded tires are mandatory for cycling in Gjøvik during winter.",
+              "Wear windproof ski goggles to protect your eyes from the icy wind.",
+              "Battery-powered lights drain faster in the cold; keep them fully charged.",
+              "Avoid long stops to prevent your body temperature from dropping."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1110,6 +1492,206 @@
           "Plan for extra time for traffic, especially in the afternoon.",
           "A GPS is highly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen wir bequem das Eiktunet im Regen. Danach fahren wir zur Felsenhalle und zur Glasmanufaktur, wobei wir kaum nass werden. Mittags steht der Gjøvik-Hof auf dem Plan, gefolgt von Kauffeldtgården und der Kirche. Der Tag endet am Hafen, wo wir den Skibladner aus dem trockenen Auto heraus bewundern können.",
+            "hu": "Autóval kényelmesen elérjük az Eiktunet múzeumot az esőben is. Ezután a sziklacsarnok és az üveggyár következik, így alig ér minket nedvesség. Délben a Gjøvik-udvarház, majd a Kauffeldtgården és a templom vár. A nap a kikötőben zárul, ahol a Skibladnert akár a száraz autóból is megcsodálhatjuk.",
+            "ro": "Cu mașina ajungem confortabil la Eiktunet chiar și pe ploaie. Urmează sala olimpică și sticlăria, fără a ne uda prea tare. La prânz vizităm ferma Gjøvik, apoi Kauffeldtgården și biserica. Ziua se încheie în port, unde putem admira vaporul Skibladner din confortul mașinii uscate.",
+            "en": "By car, we easily reach Eiktunet despite the rain. We then visit the Cavern Hall and Glassworks, staying mostly dry throughout. Midday includes Gjøvik Farm, followed by Kauffeldtgården and the church. The day ends at the pier, where we can admire the Skibladner from the comfort of our dry vehicle."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Eiktunet Open-Air Museum",
+              "tip_5lang": {
+                "de": "Kostenlose Parkplätze direkt am Eingang des Freilichtmuseums.",
+                "hu": "Ingyenes parkolóhelyek közvetlenül a skanzen bejáratánál.",
+                "ro": "Locuri de parcare gratuite chiar la intrarea în muzeu.",
+                "en": "Free parking spaces available right at the museum entrance."
+              }
+            },
+            {
+              "name": "Cluster B: Gjøvik Olympic Cavern Hall",
+              "tip_5lang": {
+                "de": "Das Parkhaus im Berg hält Ihr Auto während des Besuchs trocken.",
+                "hu": "A sziklába vájt parkolóházban az autó is szárazon marad a látogatás alatt.",
+                "ro": "Parcarea din munte vă menține mașina uscată pe durata vizitei.",
+                "en": "The parking garage inside the mountain keeps your car dry during the visit."
+              }
+            },
+            {
+              "name": "Gjøvik Glassworks",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nur wenige Schritte vom Eingang entfernt.",
+                "hu": "A parkoló csupán néhány lépésre található a bejárattól.",
+                "ro": "Parcarea se află la doar câțiva pași de intrarea principală.",
+                "en": "The parking lot is just a few steps away from the entrance."
+              }
+            },
+            {
+              "name": "Cluster C: Gjøvik Farm",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze ermöglichen schnellen Zugang zum Haupthaus.",
+                "hu": "A központi parkolókból gyorsan elérhető a főépület az esőben.",
+                "ro": "Parcările centrale permit accesul rapid la clădirea principală.",
+                "en": "Central parking allows for quick access to the main house in the rain."
+              }
+            },
+            {
+              "name": "Kauffeldtgården",
+              "tip_5lang": {
+                "de": "In der Innenstadt gibt es viele Parkmöglichkeiten in der Nähe.",
+                "hu": "A belvárosban számos parkolási lehetőség van a közvetlen közelben.",
+                "ro": "Există multe opțiuni de parcare în imediata apropiere, în centru.",
+                "en": "There are many parking options available nearby in the city center."
+              }
+            },
+            {
+              "name": "Gjøvik Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp direkt vor der Kirche ist meist möglich.",
+                "hu": "A templom előtt általában lehetséges egy rövid megállás.",
+                "ro": "O oprire scurtă chiar în fața bisericii este de obicei posibilă.",
+                "en": "A short stop directly in front of the church is usually possible."
+              }
+            },
+            {
+              "name": "Cluster D: Mjøsa Promenade & Skibladner",
+              "tip_5lang": {
+                "de": "Parken Sie am Hafen, um den Blick auf den See trocken zu genießen.",
+                "hu": "Parkoljon a kikötőben, hogy az autóból is lássa a tavi panorámát.",
+                "ro": "Parcați în port pentru a savura vederea spre lac la adăpost.",
+                "en": "Park at the harbor to enjoy the lake views while staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt durch das hügelige Gjøvik.",
+              "Das Parken im Fjellhallen-Parkhaus ist bei Regen besonders bequem.",
+              "Achten Sie auf Fußgänger mit Regenschirmen, die Sie schlechter sehen.",
+              "Nutzen Sie die Park-Apps, um nicht im Regen am Automaten zu stehen."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket a dombos Gjøvikben való vezetés előtt.",
+              "A sziklagarázsban való parkolás esőben a legkényelmesebb megoldás.",
+              "Figyeljen az esernyős gyalogosokra, akiket nehezebb észrevenni.",
+              "Használjon parkolóalkalmazást, hogy ne kelljen az esőben jegyet venni."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a conduce prin Gjøvik-ul deluros.",
+              "Parcarea în garajul din stâncă este cea mai comodă pe timp de ploaie.",
+              "Atenție la pietonii cu umbrele, sunt mai greu de observat în trafic.",
+              "Folosiți aplicații de parcare pentru a evita automatele de tichete."
+            ],
+            "en": [
+              "Check your windshield wipers before driving through hilly Gjøvik.",
+              "Parking in the Fjellhallen rock garage is most convenient when it rains.",
+              "Watch out for pedestrians with umbrellas who may have reduced visibility.",
+              "Use parking apps to avoid standing in the rain at payment machines."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Auf verschneiten Straßen fahren wir morgens hinauf zum Eiktunet. Die Fahrt zur Felsenhalle bietet tolle Ausblicke auf das Winterwunderland. Mittags besuchen wir den Gjøvik-Hof und die Kirche, wobei das Auto als willkommene Wärmestation dient. Den Tag lassen wir bei den Glasbläsern und am Hafen ausklingen, bevor wir sicher durch den Schnee heimfahren.",
+            "hu": "Havas utakon kapaszkodunk fel reggel az Eiktunet múzeumhoz. A sziklacsarnok felé tartva csodás téli panoráma tárul elénk. Délben a Gjøvik-udvarház és a templom a cél, az autó pedig remek melegedőhely két megálló között. A napot az üveggyárban és a kikötőben zárjuk, majd biztonságban hazaautózunk.",
+            "ro": "Urcăm pe drumuri înzăpezite dimineața spre Eiktunet. Drumul spre sala olimpică oferă panorame de iarnă superbe. La prânz vizităm ferma Gjøvik și biserica, mașina fiind un refugiu cald între opriri. Încheiem ziua la sticlărie și în port, înainte de a conduce în siguranță prin zăpadă.",
+            "en": "We drive up snowy roads in the morning to reach Eiktunet. The route to the Cavern Hall offers stunning winter wonderland views. Midday includes Gjøvik Farm and the church, with the car serving as a warm base between stops. We finish the day at the Glassworks and harbor before a safe drive home through the snow."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Eiktunet Open-Air Museum",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Glätte steil sein, Winterreifen sind Pflicht.",
+                "hu": "A felvezető út jegesedéskor meredek lehet, a téli gumi kötelező.",
+                "ro": "Drumul de acces poate fi abrupt când îngheață, cauciucurile de iarnă sunt vitale.",
+                "en": "The access road can be steep when icy; winter tires are mandatory."
+              }
+            },
+            {
+              "name": "Cluster B: Gjøvik Olympic Cavern Hall",
+              "tip_5lang": {
+                "de": "Das beheizte Parkhaus im Berg schmilzt das Eis von Ihrem Auto.",
+                "hu": "A fűtött sziklagarázsban leolvad a jég és a hó az autóról.",
+                "ro": "Garajul încălzit din stâncă va topi gheața de pe mașina dumneavoastră.",
+                "en": "The heated rock garage will melt the ice and snow off your car."
+              }
+            },
+            {
+              "name": "Gjøvik Glassworks",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird regelmäßig geräumt, aber Vorsicht vor Eis.",
+                "hu": "A parkolót rendszeresen takarítják, de vigyázzon a jégre.",
+                "ro": "Parcarea este curățată regulat, dar atenție la porțiunile înghețate.",
+                "en": "The parking lot is regularly cleared, but watch out for patches of ice."
+              }
+            },
+            {
+              "name": "Cluster C: Gjøvik Farm",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Tor, um den Fußweg im Schnee kurz zu halten.",
+                "hu": "Parkoljon a kapuhoz közel, hogy lerövidítse a havas sétát.",
+                "ro": "Parcați aproape de poartă pentru a scurta mersul prin zăpadă.",
+                "en": "Park close to the gate to keep the walk through the snow short."
+              }
+            },
+            {
+              "name": "Kauffeldtgården",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen, die Bordsteine können sehr glatt sein.",
+                "hu": "Vigyázzon kiszálláskor, a padka és a járda nagyon csúszós lehet.",
+                "ro": "Atenție la coborâre, bordurile și trotuarele pot fi foarte alunecoase.",
+                "en": "Be careful when getting out; the curbs and sidewalks can be very slippery."
+              }
+            },
+            {
+              "name": "Gjøvik Church",
+              "tip_5lang": {
+                "de": "Die Parkplätze direkt an der Kirche sind im Winter oft begrenzt.",
+                "hu": "A közvetlen templomi parkolók télen gyakran korlátozottak.",
+                "ro": "Parcările de lângă biserică sunt adesea limitate pe timp de iarnă.",
+                "en": "Parking spaces directly at the church are often limited in winter."
+              }
+            },
+            {
+              "name": "Cluster D: Mjøsa Promenade & Skibladner",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, während Sie schauen.",
+                "hu": "Ne járassa feleslegesen a motort, amíg a kilátást élvezi.",
+                "ro": "Nu lăsați motorul pornit inutil în timp ce admirați priveliștea.",
+                "en": "Don't leave the engine idling while you admire the lake view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer einen Eiskratzer und einen Schneebesen im Auto mit.",
+              "Stellen Sie sicher, dass Ihr Wischwasser für extreme Kälte geeignet ist.",
+              "Planen Sie mehr Zeit für die Fahrt auf den steilen Straßen ein.",
+              "Parken Sie im Fjellhallen-Garázs, um ein Einfrieren der Schlösser zu vermeiden."
+            ],
+            "hu": [
+              "Mindig tartson jégkaparót és hóseprűt az autóban.",
+              "Ellenőrizze, hogy a szélvédőmosó folyadék bírja-e az extrém hideget.",
+              "Hagyjon több időt a közlekedésre a meredek, havas utcákon.",
+              "Parkoljon a sziklagarázsban, hogy elkerülje a zárak befagyását."
+            ],
+            "ro": [
+              "Păstrați întotdeauna o răzuitoare de gheață și o perie în mașină.",
+              "Asigurați-vă că lichidul de parbriz rezistă la ger extrem.",
+              "Alocați mai mult timp pentru deplasarea pe străzile abrupte.",
+              "Parcați în garajul din stâncă pentru a evita înghețarea încuietorilor."
+            ],
+            "en": [
+              "Always keep an ice scraper and a snow brush in your car.",
+              "Ensure your washer fluid is rated for extreme sub-zero temperatures.",
+              "Allow extra time for driving on steep, snow-covered local roads.",
+              "Park in the Fjellhallen garage to prevent locks and wipers from freezing."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1462,6 +2044,188 @@
           "Download the local public transport app for real-time schedules.",
           "Be at the stop on time, buses often leave exactly on the minute."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir im Regen schnell die Felsenhalle und die Glasmanufaktur. Mittags besuchen wir den Gjøvik-Hof, wobei wir die kurzen Fußwege zwischen den Haltestellen trocken bewältigen. Danach stehen Kauffeldtgården und die Kirche auf dem Plan. Den Tag lassen wir gemütlich am Hafen ausklingen, bevor uns der Zug oder Bus wieder heimwärts bringt.",
+            "hu": "Busszal az esőben is gyorsan elérjük a sziklacsarnokot és az üveggyárat. Délben a Gjøvik-udvarház következik, a megállók közötti rövid sétákat igyekszünk szárazon megúszni. Ezután a Kauffeldtgården és a templom vár ránk. A napot a kikötőben zárjuk, majd busszal vagy vonattal indulunk haza.",
+            "ro": "Cu autobuzul ajungem rapid la sala olimpică și la sticlărie, feriți de ploaie. La prânz vizităm ferma Gjøvik, parcurgând rapid distanțele scurte dintre stații. Urmează Kauffeldtgården și biserica. Încheiem ziua în zona portului, înainte ca autobuzul sau trenul să ne ducă spre casă.",
+            "en": "By bus, we quickly reach the Cavern Hall and Glassworks despite the rain. Midday is spent at Gjøvik Farm, keeping the short walks between stops as dry as possible. Afterward, we visit Kauffeldtgården and the church. We wrap up the day at the harbor before catching a bus or train back home."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Gjøvik Olympic Cavern Hall",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle 'Fjellhallen' liegt fast direkt vor dem Eingang.",
+                "hu": "A 'Fjellhallen' buszmegálló szinte közvetlenül a bejáratnál van.",
+                "ro": "Stația de autobuz 'Fjellhallen' este situată aproape de intrare.",
+                "en": "The 'Fjellhallen' bus stop is located almost right at the entrance."
+              }
+            },
+            {
+              "name": "Gjøvik Glassworks",
+              "tip_5lang": {
+                "de": "Vom Bahnhof Gjøvik ist es nur ein kurzer Busritt bis hierher.",
+                "hu": "A gjöviki pályaudvartól csak egy rövid buszozás az üveggyár.",
+                "ro": "De la gara Gjøvik este doar o scurtă călătorie cu autobuzul până aici.",
+                "en": "It is just a short bus ride from Gjøvik station to the Glassworks."
+              }
+            },
+            {
+              "name": "Cluster B: Gjøvik Farm",
+              "tip_5lang": {
+                "de": "Die Haltestellen in der Nähe haben meist überdachte Wartebereiche.",
+                "hu": "A közeli buszmegállók többsége fedett váróval rendelkezik.",
+                "ro": "Majoritatea stațiilor de autobuz din zonă sunt acoperite.",
+                "en": "Most bus stops in the vicinity have covered waiting areas."
+              }
+            },
+            {
+              "name": "Kauffeldtgården",
+              "tip_5lang": {
+                "de": "Sehr gut erreichbar mit fast allen Stadtbuslinien.",
+                "hu": "Szinte minden városi buszjárattal könnyen megközelíthető.",
+                "ro": "Foarte ușor de accesat cu aproape toate liniile de autobuz urban.",
+                "en": "Very easily accessible with almost all local city bus lines."
+              }
+            },
+            {
+              "name": "Gjøvik Church",
+              "tip_5lang": {
+                "de": "Vom Busbahnhof 'Skysstasjon' sind es nur ca. 10 Minuten zu Fuß.",
+                "hu": "A központi buszpályaudvartól csak 10 perc gyalogút az esőben.",
+                "ro": "Sunt doar aproximativ 10 minute de mers de la autogară.",
+                "en": "It is only about a 10-minute walk from the main bus station."
+              }
+            },
+            {
+              "name": "Cluster C: Mjøsa Promenade & Skibladner",
+              "tip_5lang": {
+                "de": "Direkt am Bahnhof gelegen, ideal für die Abreise nach dem Besuch.",
+                "hu": "Közvetlenül a pályaudvarnál van, ideális az indulás előtt.",
+                "ro": "Situat chiar lângă gară, ideal pentru plecare după vizită.",
+                "en": "Located right by the station, perfect for departure after your visit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Entur' App für Echtzeit-Infos bei Regen-Verspätungen.",
+              "Der Bahnhof bietet einen trockenen Warteraum mit Kiosk.",
+              "Halten Sie Kleingeld oder die App für die Busfahrt bereit.",
+              "Die Busse in Gjøvik sind beheizt und bieten Schutz vor Nässe."
+            ],
+            "hu": [
+              "Használja az 'Entur' alkalmazást az eső miatti késések követésére.",
+              "A pályaudvar száraz váróteremmel és büfével várja az utazókat.",
+              "Készítse elő az alkalmazást vagy az aprót a buszjegyhez.",
+              "A gjöviki buszok fűtöttek, így remek menedéket adnak az eső elől."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Entur' pentru info în timp real despre întârzieri.",
+              "Gara oferă o sală de așteptare uscată și un chioșc.",
+              "Aveți pregătită aplicația sau mărunțișul pentru biletul de autobuz.",
+              "Autobuzele din Gjøvik sunt încălzite și oferă protecție contra ploii."
+            ],
+            "en": [
+              "Use the 'Entur' app for real-time info if rain causes bus delays.",
+              "The train station has a dry waiting room and a kiosk available.",
+              "Have your bus app or exact change ready to avoid fumbling in the rain.",
+              "Gjøvik buses are well-heated and provide a great escape from the wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens bringt uns der warme Bus zur Felsenhalle und zur Glasmanufaktur, während draußen der Schnee fällt. Mittags erkunden wir den winterlichen Gjøvik-Hof und die Kirche, wobei wir uns in den Wartehäuschen vor dem Wind schützen. Den Tag beenden wir am zugefrorenen Hafen, bevor uns der Zug sicher durch die Winterlandschaft bringt.",
+            "hu": "Reggel a meleg busz repít minket a sziklacsarnokhoz és az üveggyárhoz, miközben kint szakad a hó. Délben a téli Gjøvik-udvarházat és a templomot érintjük, a buszvárókban húzódva meg a szél elől. A napot a befagyott kikötőnél zárjuk, majd vonattal indulunk haza a havas tájon át.",
+            "ro": "Dimineața autobuzul cald ne duce la sala olimpică și la sticlărie în timp ce afară ninge. La prânz explorăm ferma Gjøvik și biserica, adăpostindu-ne în stații contra vântului. Încheiem ziua în portul înghețat, înainte ca trenul să ne poarte prin peisajul de iarnă.",
+            "en": "In the morning, the warm bus takes us to the Cavern Hall and Glassworks while snow falls outside. Midday is spent exploring Gjøvik Farm and the church, using bus shelters to hide from the wind. We finish the day at the frozen harbor before the train carries us home through the winter scenery."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Gjøvik Olympic Cavern Hall",
+              "tip_5lang": {
+                "de": "Der Weg von der Haltestelle zum Berg ist meist gut geräumt.",
+                "hu": "A megállótól a hegy bejáratáig vezető utat rendszeresen takarítják.",
+                "ro": "Drumul de la stație până la intrare este de obicei bine curățat.",
+                "en": "The path from the stop to the mountain entrance is usually well-cleared."
+              }
+            },
+            {
+              "name": "Gjøvik Glassworks",
+              "tip_5lang": {
+                "de": "Busse fahren hier auch bei viel Schnee zuverlässig.",
+                "hu": "A buszok ide nagy hóesésben is megbízhatóan közlekednek.",
+                "ro": "Autobuzele circulă spre această zonă chiar și când ninge abundent.",
+                "en": "Buses run reliably here even during heavy snowfall."
+              }
+            },
+            {
+              "name": "Cluster B: Gjøvik Farm",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneehaufen an den Haltestellenkanten.",
+                "hu": "Vigyázzon a megállók szélén felhalmozott hókupacokra.",
+                "ro": "Atenție la mormanele de zăpadă de pe marginea stațiilor.",
+                "en": "Be careful of snow piles accumulated at the edges of the bus stops."
+              }
+            },
+            {
+              "name": "Kauffeldtgården",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es beheizte Cafés zum Warten auf den Bus.",
+                "hu": "A közelben fűtött kávézókban is megvárhatjuk a következő buszt.",
+                "ro": "Există cafenele încălzite în apropiere unde puteți aștepta autobuzul.",
+                "en": "There are heated cafes nearby where you can wait for your next bus."
+              }
+            },
+            {
+              "name": "Gjøvik Church",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Haltestelle kann bei Eis glatt sein.",
+                "hu": "A megállótól a templomig vezető járda jeges és csúszós lehet.",
+                "ro": "Trotuarul de la stație spre biserică poate fi înghețat și alunecos.",
+                "en": "The sidewalk from the bus stop to the church can be very icy."
+              }
+            },
+            {
+              "name": "Cluster C: Mjøsa Promenade & Skibladner",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist der wärmste Ort, um auf den Anschluss zu warten.",
+                "hu": "A pályaudvar a legmelegebb hely a csatlakozásra való várakozáshoz.",
+                "ro": "Gara este cel mai cald loc pentru a aștepta legătura de transport.",
+                "en": "The train station is the warmest place to wait for your connection."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Rechnen Sie im Winter mit leichten Verspätungen im Busverkehr.",
+              "Die 'Innlandstrafikk' App zeigt Busse in Echtzeit an.",
+              "Tragen Sie warme Schuhe, da das Warten an Haltestellen kalt sein kann.",
+              "Nutzen Sie den Bahnhof als zentralen, beheizten Knotenpunkt."
+            ],
+            "hu": [
+              "Télen számítson kisebb késésekre a buszközlekedésben.",
+              "Az 'Innlandstrafikk' alkalmazás valós időben mutatja a buszokat.",
+              "Viseljen nagyon meleg lábbelit, a megállóban állni fagyos élmény.",
+              "Használja a vasútállomást központi, fűtött bázisként."
+            ],
+            "ro": [
+              "Alocați timp suplimentar, autobuzele pot avea mici întârzieri iarna.",
+              "Aplicația 'Innlandstrafikk' arată poziția autobuzelor în timp real.",
+              "Purtați încălțăminte groasă, așteptarea în stații poate fi geroasă.",
+              "Folosiți gara ca punct central încălzit pentru transferuri."
+            ],
+            "en": [
+              "Expect minor delays in bus services during heavy winter conditions.",
+              "The 'Innlandstrafikk' app displays buses in real-time on your phone.",
+              "Wear very warm boots, as waiting at stops can be a freezing experience.",
+              "Use the train station as your central, heated hub for all transitions."
+            ]
+          }
+        }
       }
     }
   }

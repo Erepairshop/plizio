@@ -362,6 +362,196 @@
           "Most central sights are easily reachable on foot.",
           "Plan for extra time for photo stops, the scenery is worth it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Tag im Kulturzentrum, einem idealen Zufluchtsort. Die Kirchen bieten trost und trockene Besichtigungsmöglichkeiten, während der Regen den Denkmälern eine melancholische Note verleiht. Die Industrieruinen der Minen wirken im Nebel fast mystisch. Beenden Sie den Spaziergang im Park, wenn die Wolken tief hängen.",
+            "hu": "Kezdje az esős napot a Művelődési Házban, amely kiváló menedéket nyújt. A katolikus és ortodox templomok belső terei szárazon is látogathatók, miközben az eső melankolikus hangulatot kölcsönöz a bányászati emlékműveknek. A régi rézbányák ködös látványa különleges élmény. A sétát a park fái alatt zárjuk.",
+            "ro": "Începeți ziua ploioasă la Centrul Cultural, un refugiu ideal. Bisericile oferă adăpost și liniște, în timp ce ploaia adaugă o notă melancolică monumentelor miniere. Ruinele vechilor mine de cupru par mistice în ceață. Încheiați plimbarea în parcul unde copacii oferă o protecție naturală împotriva stropilor.",
+            "en": "Start the rainy day at the Cultural Center, a perfect indoor refuge. The churches provide dry exploration and spiritual calm, while the rain adds a somber touch to the mining monuments. The industrial ruins of the copper mines look mystical in the mountain mist. Finish your walk in the park under the heavy clouds."
+          },
+          "stops": [
+            {
+              "name": "Cultural Center of Bălan",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ersten Regenschauer abzuwarten.",
+                "hu": "Tökéletes hely az első záporok átvészeléséhez.",
+                "ro": "Locul ideal pentru a aștepta trecerea primei averse.",
+                "en": "Perfect place to wait out the first rain showers."
+              }
+            },
+            {
+              "name": "Mining Monument",
+              "tip_5lang": {
+                "de": "Vorsicht, der Boden um das Denkmal kann rutschig sein.",
+                "hu": "Vigyázat, az emlékmű körüli talaj csúszós lehet.",
+                "ro": "Atenție, terenul din jurul monumentului poate fi alunecos.",
+                "en": "Careful, the ground around the monument can be slippery."
+              }
+            },
+            {
+              "name": "Saint Catherine Roman-Catholic Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille für eine trockene Pause im Inneren.",
+                "hu": "Használja ki a csendet egy száraz pihenőre odabent.",
+                "ro": "Profitați de liniște pentru o pauză uscată în interior.",
+                "en": "Use the silence for a dry break inside."
+              }
+            },
+            {
+              "name": "Holy Emperors Orthodox Church",
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im Regen besonders dramatisch.",
+                "hu": "Az építészet az esőben különösen drámaian hat.",
+                "ro": "Arhitectura pare deosebit de dramatică în ploaie.",
+                "en": "The architecture looks particularly dramatic in the rain."
+              }
+            },
+            {
+              "name": "Former Copper Mines",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk ist wegen des Matsches unerlässlich.",
+                "hu": "A sár miatt elengedhetetlen a vízálló bakancs.",
+                "ro": "Încălțămintea robustă este esențială din cauza noroiului.",
+                "en": "Sturdy footwear is essential due to the mud."
+              }
+            },
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Die Bäume bieten etwas Schutz vor leichtem Nieselregen.",
+                "hu": "A fák némi védelmet nyújtanak a szemerkélő eső ellen.",
+                "ro": "Copacii oferă protecție împotriva burniței ușoare.",
+                "en": "The trees offer some protection from light drizzle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei Bergwinden oft besser als ein Cape.",
+              "Besuchen Sie das Kulturzentrum für lokale Indoor-Ausstellungen.",
+              "Wasserdichte Wanderschuhe sind für das Minengelände Pflicht.",
+              "Die Kirchen bieten ideale Rückzugsorte bei starken Schauern.",
+              "Die Cafés im Zentrum sind gemütliche Wärmestuben."
+            ],
+            "hu": [
+              "A hegyi szélben az erős esernyő többet ér, mint az esőponcsó.",
+              "A Művelődési Ház beltéri kiállításai kiváló esőprogramok.",
+              "A bányaterületen vízálló bakancs viselése kötelező a sár miatt.",
+              "A templomok ideális menedéket nyújtanak a nagyobb záporok alatt.",
+              "A központ kávézói barátságos menedékek a hideg eső elől."
+            ],
+            "ro": [
+              "O umbrelă robustă este mai eficientă decât o pelerină în vântul montan.",
+              "Centrul Cultural oferă expoziții interioare excelente pentru zile ploioase.",
+              "Bocancii impermeabili sunt obligatorii pentru zona minelor.",
+              "Bisericile sunt puncte de refugiu ideale în timpul averselor puternice.",
+              "Cafenelele din centru sunt locuri calde și primitoare."
+            ],
+            "en": [
+              "A sturdy umbrella is often better than a poncho in mountain winds.",
+              "Check the Cultural Center for local indoor exhibitions.",
+              "Waterproof hiking boots are a must for the mine area.",
+              "The churches offer ideal shelters during heavy downpours.",
+              "Central cafes are cozy spots to dry off and warm up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bălan verwandelt sich im Winter in eine frostige Bergwelt. Die verschneiten Minenruinen wirken wie aus einer anderen Zeit, während die Kirchen warm und einladend leuchten. Der Spaziergang durch den Jugendpark ist bei frischem Schnee besonders friedlich. Achten Sie auf den frühen Sonnenuntergang hinter den Hășmaș-Gipfeln.",
+            "hu": "Balánbánya télen zord, de gyönyörű hegyi világgá változik. A havas bányaromok kísértetiesen szépek, miközben a templomok meleg fénye hívogató. A parkban tett séta a friss hóban rendkívül békés. Figyeljen a korai naplementére, amely hamar elbukik a Hargita bércei mögött.",
+            "ro": "Bălan se transformă iarna într-o lume montană înghețată. Ruinele miniere înzăpezite par desprinse din altă eră, în timp ce bisericile luminează primitor. Plimbarea prin Parcul Tineretului este liniștită pe zăpada proaspătă. Atenție la apusul timpuriu de după crestele Hășmașului.",
+            "en": "Bălan transforms into a frosty mountain world in winter. The snow-covered mine ruins look hauntingly beautiful, while the churches glow warmly in the dusk. A walk through the Youth Park is exceptionally peaceful in fresh snow. Watch for the early sunset behind the Hășmaș peaks."
+          },
+          "stops": [
+            {
+              "name": "Cultural Center of Bălan",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um sich vor dem Rundgang aufzuwärmen.",
+                "hu": "Meleg hely a városnézés előtti bemelegedéshez.",
+                "ro": "Un loc călduros pentru a vă încălzi înainte de tur.",
+                "en": "A warm spot to heat up before starting your tour."
+              }
+            },
+            {
+              "name": "Mining Monument",
+              "tip_5lang": {
+                "de": "Vorsicht vor verstecktem Glatteis auf den Stufen.",
+                "hu": "Vigyázat, a lépcsőkön rejtett jégpáncél lehet.",
+                "ro": "Atenție la gheața ascunsă sub zăpadă pe trepte.",
+                "en": "Watch out for hidden black ice on the steps."
+              }
+            },
+            {
+              "name": "Saint Catherine Roman-Catholic Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte gut ab.",
+                "hu": "A vastag falak jól kint tartják a hegyi hideget.",
+                "ro": "Zidurile groase oferă o barieră bună împotriva frigului.",
+                "en": "The thick walls provide a good buffer against the cold."
+              }
+            },
+            {
+              "name": "Holy Emperors Orthodox Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche für die warme Atmosphäre der Kerzen.",
+                "hu": "Látogassa meg a templomot a gyertyák meleg fényéért.",
+                "ro": "Vizitați biserica pentru atmosfera caldă a lumânărilor.",
+                "en": "Visit the church for the warm atmosphere of the candles."
+              }
+            },
+            {
+              "name": "Former Copper Mines",
+              "tip_5lang": {
+                "de": "Spektakuläre Fotomotive der Industrieruinen im Schnee.",
+                "hu": "Látványos fotótéma a havas bányaromok látványa.",
+                "ro": "Subiecte spectaculoase pentru fotografii în zăpadă.",
+                "en": "Spectacular photo opportunities of the industrial ruins."
+              }
+            },
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt empfohlen, da es im Schatten schnell auskühlt.",
+                "hu": "Rövid megálló ajánlott, az árnyékban gyorsan hűl a levegő.",
+                "ro": "Popas scurt recomandat, se răcește repede la umbră.",
+                "en": "Short stay recommended as it cools down fast in the shade."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Thermokleidung ist in dieser 'Kältepol'-Region nötig.",
+              "Die Sonne verschwindet im Winter bereits gegen 16:30 Uhr.",
+              "Tragen Sie Schuhe mit gutem Profil gegen Schneeglätte.",
+              "Ein Thermosbecher mit heißem Tee ist ein idealer Begleiter.",
+              "Nutzen Sie die Mittagsstunden für die Außenbesichtigungen."
+            ],
+            "hu": [
+              "A 'hidegpólus' vidéken a réteges termoöltözet elengedhetetlen.",
+              "A nap télen már 16:30 körül eltűnik a hegyek mögött.",
+              "Viseljen jó tapadású talppal ellátott bakancsot a jegesedés miatt.",
+              "Egy termosz forró tea a legjobb barátja lesz a séta során.",
+              "A kinti látnivalókat a déli, naposabb órákra időzítse."
+            ],
+            "ro": [
+              "Îmbrăcămintea termică este necesară în această regiune rece.",
+              "Soarele dispare după munți deja în jurul orei 16:30.",
+              "Purtați încălțăminte cu talpă aderentă pentru gheață.",
+              "Un termos cu ceai fierbinte este partenerul ideal de drum.",
+              "Programați vizitele exterioare în orele amiezii."
+            ],
+            "en": [
+              "Thermal layers are essential in this 'pole of cold' region.",
+              "The sun sets behind the mountains as early as 16:30.",
+              "Wear boots with good grip to handle icy patches.",
+              "A thermos with hot tea is your best companion here.",
+              "Schedule outdoor visits for the midday hours for maximum light."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +932,214 @@
           "Bring enough water and some high-energy snacks.",
           "A small repair kit can be very useful in case of a flat tire."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt durch das Bergbautal erfordert Vorsicht. Nutzen Sie die Kirchen für trockene Pausen, während die Industrielandschaft im Regen glänzt. Die Fahrt Richtung Hășmaș-Gebirge führt durch dichten Nebel, was der Natur eine geheimnisvolle Aura verleiht. Fahren Sie langsam auf dem rutschigen Asphalt.",
+            "hu": "A vizes bányászvárosi utcák óvatosságot igényelnek. Használja a templomokat száraz megállókhoz, miközben az ipari táj csillog az esőben. Az Egyeskő felé vezető út ködbe vész, ami titokzatos aurát kölcsönöz a tájnak. Hajtson lassan a csúszós aszfalton.",
+            "ro": "O plimbare umedă prin valea minieră necesită prudență. Folosiți bisericile pentru pauze uscate, în timp ce peisajul industrial strălucește sub ploaie. Drumul spre Munții Hășmaș intră în ceață deasă, oferind o aură misterioasă naturii. Conduceți încet pe asfaltul alunecos.",
+            "en": "A wet ride through the mining valley requires caution. Use the churches for dry breaks while the industrial landscape glitters in the rain. The route towards the Hășmaș Mountains leads through thick mist, giving nature a mysterious aura. Cycle slowly on the slippery asphalt."
+          },
+          "stops": [
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor nassen Blättern auf den Wegen.",
+                "hu": "Vigyázat a vizes falevelekkel az utakon.",
+                "ro": "Atenție la frunzele ude de pe poteci.",
+                "en": "Watch out for wet leaves on the paths."
+              }
+            },
+            {
+              "name": "Holy Emperors Orthodox Church",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder in der Nähe.",
+                "hu": "Biztonságos kerékpártárolási lehetőség a közelben.",
+                "ro": "Loc sigur de parcare pentru biciclete în apropiere.",
+                "en": "Safe bicycle parking available nearby."
+              }
+            },
+            {
+              "name": "Saint Catherine Roman-Catholic Church",
+              "tip_5lang": {
+                "de": "Ideal für eine kurze Pause vom Regen.",
+                "hu": "Ideális egy rövid pihenőre az eső elől.",
+                "ro": "Ideal pentru o scurtă pauză de ploaie.",
+                "en": "Ideal for a quick break from the rain."
+              }
+            },
+            {
+              "name": "Mining Monument",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, Boden kann schmierig sein.",
+                "hu": "Gyors fotómegálló, a talaj csúszós lehet.",
+                "ro": "Oprire scurtă, terenul poate fi mâlos.",
+                "en": "Quick photo stop, ground can be greasy."
+              }
+            },
+            {
+              "name": "Cultural Center of Bălan",
+              "tip_5lang": {
+                "de": "Gute Möglichkeit, die Regenkleidung zu richten.",
+                "hu": "Jó alkalom az esőfelszerelés igazítására.",
+                "ro": "Oportunitate bună de a vă aranja pelerina.",
+                "en": "Good chance to adjust your rain gear."
+              }
+            },
+            {
+              "name": "Former Copper Mines",
+              "tip_5lang": {
+                "de": "Schlammgefahr auf den unbefestigten Abschnitten.",
+                "hu": "Sárveszély a burkolatlan útszakaszokon.",
+                "ro": "Pericol de noroi pe porțiunile neasfaltate.",
+                "en": "Mud hazard on the unpaved sections."
+              }
+            },
+            {
+              "name": "Ride towards Hășmaș Mountains",
+              "tip_5lang": {
+                "de": "Vorsicht bei Abfahrten auf nassem Untergrund.",
+                "hu": "Vigyázat a lejtőkön vizes útfelületen.",
+                "ro": "Atenție la coborâri pe suprafețe umede.",
+                "en": "Be careful on descents with wet surfaces."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei den schlammigen Bergstraßen ein Muss.",
+              "Bremsen Sie frühzeitig, da der Bremsweg auf nassem Asphalt länger ist.",
+              "Vermeiden Sie Pfützen, sie könnten tiefe Schlaglöcher verbergen.",
+              "Tragen Sie helle, reflektierende Regenkleidung für bessere Sichtbarkeit.",
+              "Ein wasserdichter Sattelschutz hält Ihre Hose trocken."
+            ],
+            "hu": [
+              "A sárfelverődés ellen a sárvédő használata kötelező.",
+              "Fékezzen időben, mert a fékút vizes úton jelentősen megnő.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek.",
+              "Viseljen élénk, fényvisszaverő esőruhát a láthatóságért.",
+              "A vízálló nyereghuzat segít szárazon tartani az öltözetet."
+            ],
+            "ro": [
+              "Apărătorile sunt obligatorii pe drumurile montane noroioase.",
+              "Frânați din timp, distanța de frânare crește pe asfalt ud.",
+              "Evitați bălțile, pot ascunde gropi adânci.",
+              "Purtați echipament reflectorizant pentru vizibilitate sporită.",
+              "O protecție impermeabilă pentru șa vă menține hainele uscate."
+            ],
+            "en": [
+              "Mudguards are a must on the muddy mountain roads.",
+              "Brake early as stopping distances increase on wet asphalt.",
+              "Avoid puddles as they might hide deep potholes.",
+              "Wear bright, reflective rain gear for better visibility.",
+              "A waterproof saddle cover will keep your pants dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren in Bălan im Winter ist eine Herausforderung für Hartgesottene. Die frostige Luft schneidet im Gesicht, während Sie an den schneebedeckten Kirchen vorbeifahren. Die Industrieruinen der Minen wirken in der weißen Landschaft besonders gewaltig. Der Weg zum Hășmaș erfordert wegen Eisglätte höchste Konzentration.",
+            "hu": "A téli kerékpározás Balánbányán igazi kihívás. A fagyos levegő csípi az arcot, miközben a havas templomok mellett halad el. A bányaromok monumentálisan emelkednek ki a fehér tájból. Az Egyeskő felé vezető út a jegesedés miatt maximális koncentrációt igényel.",
+            "ro": "Ciclismul iarna în Bălan este o provocare pentru cei rezistenți. Aerul înghețat ciupește fața în timp ce treceți pe lângă bisericile înzăpezite. Ruinele miniere par monumentale în peisajul alb. Drumul spre Hășmaș necesită concentrare maximă din cauza poleiului.",
+            "en": "Cycling in Bălan in winter is a challenge for the hardy. The frosty air stings your face as you pass the snow-covered churches. The mine ruins rise monumentally from the white landscape. The route to Hășmaș requires maximum concentration due to icy conditions."
+          },
+          "stops": [
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Glatte Wege, fahren Sie nur im Schritttempo.",
+                "hu": "Jeges utak, csak lépésben haladjon.",
+                "ro": "Alei alunecoase, circulați cu viteză redusă.",
+                "en": "Slippery paths, cycle at walking pace only."
+              }
+            },
+            {
+              "name": "Holy Emperors Orthodox Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf gefrorenem Boden.",
+                "hu": "Vigyázat a leszálláskor a fagyott talajon.",
+                "ro": "Atenție la coborârea de pe bicicletă pe sol înghețat.",
+                "en": "Be careful when dismounting on frozen ground."
+              }
+            },
+            {
+              "name": "Saint Catherine Roman-Catholic Church",
+              "tip_5lang": {
+                "de": "Stoppen Sie hier für ein kurzes Aufwärmen.",
+                "hu": "Álljon meg itt egy rövid bemelegedésre.",
+                "ro": "Opriți aici pentru o scurtă încălzire.",
+                "en": "Stop here for a quick warm-up."
+              }
+            },
+            {
+              "name": "Mining Monument",
+              "tip_5lang": {
+                "de": "Metallteile können extrem kalt und rutschig sein.",
+                "hu": "A fém részek rendkívül hidegek és csúszósak lehetnek.",
+                "ro": "Elementele metalice pot fi extrem de reci și alunecoase.",
+                "en": "Metal parts can be extremely cold and slippery."
+              }
+            },
+            {
+              "name": "Cultural Center of Bălan",
+              "tip_5lang": {
+                "de": "Öffentlicher Innenraum zum Aufwärmen der Finger.",
+                "hu": "Nyilvános beltér az ujjak felmelegítéséhez.",
+                "ro": "Spațiu interior public pentru încălzirea degetelor.",
+                "en": "Public indoor space to warm up your fingers."
+              }
+            },
+            {
+              "name": "Former Copper Mines",
+              "tip_5lang": {
+                "de": "Schneeverwehungen können die Wege blockieren.",
+                "hu": "Hófúvások akadályozhatják az utat.",
+                "ro": "Troienele de zăpadă pot bloca trecerea.",
+                "en": "Snowdrifts might block the paths."
+              }
+            },
+            {
+              "name": "Ride towards Hășmaș Mountains",
+              "tip_5lang": {
+                "de": "Nur mit Winterreifen oder Spikes befahrbar.",
+                "hu": "Csak téli gumival vagy szöges gumival ajánlott.",
+                "ro": "Accesibil doar cu anvelope de iarnă sau crampoane.",
+                "en": "Only accessible with winter tires or studs."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie dicke, winddichte Handschuhe gegen Erfrierungen.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck bietet mehr Grip.",
+              "Vermeiden Sie hektische Lenkbewegungen auf Schnee.",
+              "Die Kälte entlädt E-Bike-Akkus deutlich schneller.",
+              "Kehren Sie vor Einbruch der Dunkelheit um 16:30 Uhr zurück."
+            ],
+            "hu": [
+              "Viseljen vastag, szélálló kesztyűt a fagyás ellen.",
+              "Ellenőrizze a guminyomást; a kisebb nyomás jobb tapadást ad.",
+              "Kerülje a hirtelen kormánymozdulatokat a havon.",
+              "A hideg miatt az e-bike akkumulátora gyorsabban merül.",
+              "Térjen vissza a sötétség beállta, 16:30 előtt."
+            ],
+            "ro": [
+              "Purtați mănuși groase, rezistente la vânt contra degerăturilor.",
+              "Verificați presiunea; o presiune mai mică oferă aderență mai bună.",
+              "Evitați mișcările bruște de ghidon pe zăpadă.",
+              "Frigul descarcă bateriile bicicletelor electrice mult mai repede.",
+              "Întoarceți-vă înainte de lăsarea întunericului, ora 16:30."
+            ],
+            "en": [
+              "Wear thick, windproof gloves to prevent frostbite.",
+              "Check tire pressure; slightly lower pressure provides more grip.",
+              "Avoid sudden steering movements on snow.",
+              "Cold weather drains e-bike batteries significantly faster.",
+              "Return before darkness falls at 16:30."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1520,214 @@
           "Bring a good map or GPS device, as cell reception can be patchy.",
           "Be prepared for sudden weather changes in the mountains."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist der bequemste Weg, um Bălan im Regen zu erkunden. Besuchen Sie die kulturellen Zentren und Kirchen trockenen Fußes. Die Fahrt zu den Minen bietet spektakuläre Ausblicke auf die wolkenverhangenen Berge. Genießen Sie den Panoramablick auf das Hășmaș-Gebirge direkt aus dem warmen Fahrzeug.",
+            "hu": "Az autó a legkényelmesebb módja Balánbánya felfedezésének esőben. Látogassa meg a kulturális központot és a templomokat száraz lábbal. A bányák felé vezető út látványos kilátást nyújt a felhőkbe burkolózó hegyekre. Élvezze az Egyeskő panorámáját közvetlenül a meleg járműből.",
+            "ro": "Mașina este cea mai confortabilă modalitate de a explora Bălanul pe ploaie. Vizitați centrele culturale și bisericile fără a vă uda. Drumul spre mine oferă vederi spectaculoase spre munții acoperiți de nori. Bucurați-vă de panorama Hășmașului direct din vehiculul cald.",
+            "en": "The car is the most comfortable way to explore Bălan in the rain. Visit the cultural centers and churches dry-shod. The drive to the mines offers spectacular views of the cloud-covered mountains. Enjoy the panoramic view of the Hășmaș range directly from your warm vehicle."
+          },
+          "stops": [
+            {
+              "name": "City Center Cluster (Parking)",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz, idealer Ausgangspunkt bei Regen.",
+                "hu": "Központi parkoló, ideális bázis esőben.",
+                "ro": "Parcare centrală, punct de plecare ideal pe ploaie.",
+                "en": "Central parking, ideal starting point in the rain."
+              }
+            },
+            {
+              "name": "Cultural Center and Mining Monument",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken zu bleiben.",
+                "hu": "Parkoljon közel a bejárathoz, hogy száraz maradjon.",
+                "ro": "Parcați aproape de intrare pentru a rămâne uscați.",
+                "en": "Park close to the entrance to stay dry."
+              }
+            },
+            {
+              "name": "Roman-Catholic and Orthodox Churches",
+              "tip_5lang": {
+                "de": "Gute Zufahrtswege direkt zu den Kirchengeländen.",
+                "hu": "Közvetlen autós hozzáférés a templomkertekhez.",
+                "ro": "Acces auto bun direct spre incintele bisericilor.",
+                "en": "Good road access directly to the church grounds."
+              }
+            },
+            {
+              "name": "Copper Mines Cluster (Parking)",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem unbefestigten Parkplatz (Schlamm).",
+                "hu": "Vigyázat a burkolatlan parkolóban (sárveszély).",
+                "ro": "Atenție în parcarea neasfaltată (pericol de noroi).",
+                "en": "Be careful in the unpaved parking area (mud)."
+              }
+            },
+            {
+              "name": "Hășmaș Mountains Cluster (Parking)",
+              "tip_5lang": {
+                "de": "Bester Platz für Fotos bei tief hängenden Wolken.",
+                "hu": "A legjobb hely fotózáshoz alacsony felhőzetnél.",
+                "ro": "Cel mai bun loc pentru poze cu nori joși.",
+                "en": "Best spot for photos with low-hanging clouds."
+              }
+            },
+            {
+              "name": "Lonely Rock",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Sicht oft eingeschränkt.",
+                "hu": "Erős esőben a kilátás gyakran korlátozott.",
+                "ro": "Vizibilitate redusă în caz de ploaie torențială.",
+                "en": "Visibility is often limited during heavy rain."
+              }
+            },
+            {
+              "name": "Hășmaș Mountains Viewpoint",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht sicher aus dem Auto.",
+                "hu": "Élvezze a kilátást biztonságban az autóból.",
+                "ro": "Bucurați-vă de priveliște în siguranță din mașină.",
+                "en": "Enjoy the view safely from inside the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den steilen Bergstraßen.",
+              "Die Berggipfel sind bei Regen oft in dichten Nebel gehüllt.",
+              "Halten Sie die Scheiben mit der Klimaanlage beschlagfrei.",
+              "Nutzen Sie befestigte Parkplätze, um Steckenbleiben zu vermeiden.",
+              "Schalten Sie bei Nebel das Abblendlicht manuell ein."
+            ],
+            "hu": [
+              "Ügyeljen a vízreúszásra (aquaplaning) a meredek utakon.",
+              "A hegycsúcsok esőben gyakran sűrű ködbe burkolóznak.",
+              "Használja a légkondicionálót a szélvédő páramentesítésére.",
+              "Csak szilárd burkolatú helyen parkoljon a sár miatt.",
+              "Köd esetén kapcsolja be manuálisan a tompított fényszórót."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile montane abrupte.",
+              "Crestele montane sunt adesea învelite în ceață deasă.",
+              "Folosiți aerul condiționat pentru a dezaburi geamurile.",
+              "Parcați doar pe suprafețe dure pentru a nu rămâne împotmoliți.",
+              "Aprindeți manual faza scurtă în caz de ceață."
+            ],
+            "en": [
+              "Watch out for aquaplaning on steep mountain roads.",
+              "Mountain peaks are often shrouded in thick mist during rain.",
+              "Use the A/C to keep the windshield from fogging up.",
+              "Stick to paved parking areas to avoid getting stuck in mud.",
+              "Manually turn on your low beams in foggy conditions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Auto durch Bălan ist wie eine Fahrt durch ein Märchen. Die verschneite Industriekulisse und die hell erleuchteten Kirchen bieten wunderbare Kontraste. Die Fahrt hinauf Richtung Hășmaș ist atemberaubend, erfordert aber Winterausrüstung. Genießen Sie die winterliche Einsamkeit der Berge bequem bei laufender Heizung.",
+            "hu": "Az autós téri túra Balánbányán olyan, mint egy mese. A havas ipari díszletek és a kivilágított templomok csodás kontrasztot alkotnak. Az Egyeskő felé vezető út lélegzetelállító, de téli felszerelést igényel. Élvezze a hegyek téli magányát kényelmesen, járó fűtés mellett.",
+            "ro": "Un tur auto de iarnă prin Bălan este ca o călătorie într-un basm. Cadrul industrial înzăpezit și bisericile luminate oferă contraste superbe. Drumul spre Hășmaș este spectaculos, dar necesită echipament de iarnă. Bucurați-vă de liniștea munților din confortul mașinii încălzite.",
+            "en": "A winter car tour through Bălan is like a fairy tale drive. The snowy industrial backdrop and brightly lit churches offer wonderful contrasts. The drive up towards Hășmaș is breathtaking but requires winter equipment. Enjoy the winter solitude of the mountains from the comfort of your heated car."
+          },
+          "stops": [
+            {
+              "name": "City Center Cluster (Parking)",
+              "tip_5lang": {
+                "de": "Oft geräumt, aber Vorsicht vor hohen Schneewällen.",
+                "hu": "Gyakran takarítják, de vigyázat a hóbuckákkal.",
+                "ro": "Deszăpezit des, dar atenție la mormanele de zăpadă.",
+                "en": "Often cleared, but watch out for high snow banks."
+              }
+            },
+            {
+              "name": "Cultural Center and Mining Monument",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Parkplatz und Eingang nutzen.",
+                "hu": "Használja a parkoló és bejárat közti rövid utat.",
+                "ro": "Folosiți distanța scurtă dintre parcare și intrare.",
+                "en": "Take advantage of the short walk between parking and entry."
+              }
+            },
+            {
+              "name": "Roman-Catholic and Orthodox Churches",
+              "tip_5lang": {
+                "de": "Vorsicht bei steilen Zufahrten zu den Kirchen.",
+                "hu": "Vigyázat a templomokhoz vezető meredek feljárókon.",
+                "ro": "Atenție la rampele abrupte spre biserici.",
+                "en": "Be careful on the steep access roads to the churches."
+              }
+            },
+            {
+              "name": "Copper Mines Cluster (Parking)",
+              "tip_5lang": {
+                "de": "Parkplatz kann vereist sein, vorsichtig rangieren.",
+                "hu": "A parkoló jeges lehet, óvatosan manőverezzen.",
+                "ro": "Parcarea poate fi înghețată, manevrați cu grijă.",
+                "en": "Parking lot may be icy, maneuver carefully."
+              }
+            },
+            {
+              "name": "Hășmaș Mountains Cluster (Parking)",
+              "tip_5lang": {
+                "de": "Nur mit Allrad oder Ketten sicher erreichbar.",
+                "hu": "Csak összkerekes hajtással vagy lánccal biztonságos.",
+                "ro": "Accesibil în siguranță doar cu 4x4 sau lanțuri.",
+                "en": "Safely accessible only with AWD or snow chains."
+              }
+            },
+            {
+              "name": "Lonely Rock",
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus tolle Sicht auf die Felsformation.",
+                "hu": "A parkolóból kiváló rálátás nyílik a sziklára.",
+                "ro": "Vedere excelentă spre stâncă direct din parcare.",
+                "en": "Great view of the rock formation from the parking area."
+              }
+            },
+            {
+              "name": "Hășmaș Mountains Viewpoint",
+              "tip_5lang": {
+                "de": "Idealer Fotostopp kurz vor Sonnenuntergang.",
+                "hu": "Ideális fotómegálló röviddel naplemente előtt.",
+                "ro": "Oprire foto ideală chiar înainte de apus.",
+                "en": "Ideal photo stop shortly before sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Harghita gesetzlich und praktisch Pflicht.",
+              "Führen Sie Schneeketten für die Auffahrt zum Hășmaș mit.",
+              "Frostschutzmittel in der Scheibenwaschanlage ist lebenswichtig.",
+              "Planen Sie mehr Zeit für die Fahrt auf verschneiten Straßen ein.",
+              "Halten Sie den Tank für Notfälle immer mindestens halb voll."
+            ],
+            "hu": [
+              "Hargitában a téli gumi törvényileg és gyakorlatilag is kötelező.",
+              "Vigyen magával hóláncot az Egyeskő felé vezető úthoz.",
+              "A fagyálló ablakmosó folyadék használata életmentő.",
+              "Tervezzen több menetidőt a havas, jeges útszakaszokra.",
+              "Vészhelyzet esetére tartsa az üzemanyagszintet félig töltve."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Harghita.",
+              "Aveți la voi lanțuri pentru urcarea spre Hășmaș.",
+              "Lichidul de parbriz rezistent la îngheț este vital.",
+              "Alocați mai mult timp pentru deplasarea pe drumuri înzăpezite.",
+              "Păstrați rezervorul cel puțin pe jumătate plin pentru urgențe."
+            ],
+            "en": [
+              "Winter tires are legally and practically mandatory in Harghita.",
+              "Carry snow chains for the ascent towards Hășmaș.",
+              "Anti-freeze windshield fluid is vital for visibility.",
+              "Allow extra time for driving on snow-covered roads.",
+              "Keep your fuel tank at least half full for emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2060,178 @@
           "Ask locals for the right stop; they are usually very helpful.",
           "A day pass might be cheaper if you plan multiple trips."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den lokalen Bus, um trocken zwischen dem Zentrum und den Minen zu pendeln. Das Kulturzentrum und die Kirchen dienen als ideale Anlaufstellen bei Schauern. Der Blick aus dem Busfenster auf das vernebelte Tal ist beruhigend. Planen Sie kurze Wartezeiten in überdachten Bereichen ein.",
+            "hu": "Használja a helyi buszt, hogy szárazon közlekedjen a központ és a bányák között. A művelődési ház és a templomok kiváló menedékek záporok idején. A busz ablakából nyíló kilátás a ködös völgyre megnyugtató. Tervezzen rövid várakozást fedett helyeken.",
+            "ro": "Folosiți autobuzul local pentru a circula uscat între centru și mine. Centrul cultural și bisericile sunt refugii ideale în timpul averselor. Vederea din geamul autobuzului spre valea cețoasă este liniștitoare. Planificați așteptări scurte în zone acoperite.",
+            "en": "Use the local bus to commute dry between the center and the mines. The cultural center and churches serve as ideal spots during showers. The view from the bus window of the misty valley is soothing. Plan for short waits in covered areas."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster (Walk)",
+              "tip_5lang": {
+                "de": "Zentrale Haltestelle mit Unterstand in der Nähe.",
+                "hu": "Központi megálló közeli fedett váróval.",
+                "ro": "Stație centrală cu adăpost în apropiere.",
+                "en": "Central stop with a shelter nearby."
+              }
+            },
+            {
+              "name": "Roman-Catholic and Orthodox Churches",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Bus zum Kircheneingang.",
+                "hu": "Rövid sprint a busztól a templom bejáratáig.",
+                "ro": "Sprint scurt de la autobuz la intrarea bisericii.",
+                "en": "Short sprint from the bus to the church entrance."
+              }
+            },
+            {
+              "name": "Cultural Center and Mining Monument",
+              "tip_5lang": {
+                "de": "Das Foyer bietet Schutz vor dem Regen.",
+                "hu": "Az előtér védelmet nyújt az eső elől.",
+                "ro": "Foaierul oferă protecție împotriva ploii.",
+                "en": "The foyer provides protection from the rain."
+              }
+            },
+            {
+              "name": "Copper Mines Cluster (Bus Ride)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt durch das verregnete Tal.",
+                "hu": "Élvezze az utazást az esős völgyön át.",
+                "ro": "Bucurați-vă de drumul prin valea ploioasă.",
+                "en": "Enjoy the ride through the rainy valley."
+              }
+            },
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Haltestelle direkt am Parkeingang.",
+                "hu": "Megálló közvetlenül a park bejáratánál.",
+                "ro": "Stație chiar la intrarea în parc.",
+                "en": "Stop located right at the park entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busplan bei Regen auf mögliche Verzögerungen.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zur Haltestelle.",
+              "Halten Sie Kleingeld für das Busticket bereit.",
+              "Nutzen Sie die Kirchen als trockene Wartebereiche.",
+              "Die Busse sind im Winter meist gut beheizt."
+            ],
+            "hu": [
+              "Esőben ellenőrizze a buszmenetrendet az esetleges késések miatt.",
+              "Viseljen vízálló ruhát a megállóig tartó rövid sétákhoz.",
+              "Készítsen elő aprópénzt a buszjegy vásárlásához.",
+              "Használja a templomokat száraz várakozási helyként.",
+              "A buszok télen általában jól fűtöttek."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor pentru eventuale întârzieri pe ploaie.",
+              "Purtați haine impermeabile pentru drumul până la stație.",
+              "Aveți pregătit mărunt pentru biletul de autobuz.",
+              "Folosiți bisericile ca zone de așteptare uscate.",
+              "Autobuzele sunt de obicei bine încălzite iarna."
+            ],
+            "en": [
+              "Check the bus schedule for potential delays during rain.",
+              "Wear waterproof clothing for the walks to the stops.",
+              "Have small change ready for the bus ticket.",
+              "Use the churches as dry waiting areas.",
+              "Buses are usually well-heated during winter."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Fahrt mit den öffentlichen Verkehrsmitteln durch das verschneite Bălan schützt Sie vor der beißenden Kälte. Die warmen Kirchen bieten einen spirituellen und physischen Rückzugsort. Erleben Sie die winterliche Industriestadt aus der Sicherheit des Busses. Achten Sie auf festes Schuhwerk für die vereisten Wege zwischen den Haltestellen.",
+            "hu": "A tömegközlekedés Balánbányán megvédi a metsző téli hidegtől. A meleg templomok lelki és fizikai menedéket is nyújtanak. Ismerje meg a téli iparvárost a busz biztonságából. Viseljen tapadós talpú bakancsot a megállók közti jeges szakaszokon.",
+            "ro": "Transportul public în Bălan vă protejează de frigul tăios. Bisericile calde oferă un refugiu spiritual și fizic. Experimentați orașul industrial iarna din siguranța autobuzului. Purtați încălțăminte aderentă pentru zonele înghețate dintre stații.",
+            "en": "Public transit in Bălan protects you from the biting winter cold. The warm churches offer both spiritual and physical refuge. Experience the winter industrial town from the safety of the bus. Wear boots with good grip for the icy stretches between stops."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster (Walk)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einsteigen, die Stufen können glatt sein.",
+                "hu": "Vigyázat a felszálláskor, a lépcsők jegesek lehetnek.",
+                "ro": "Atenție la urcare, treptele pot fi alunecoase.",
+                "en": "Be careful when boarding, the steps may be slippery."
+              }
+            },
+            {
+              "name": "Roman-Catholic and Orthodox Churches",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Inneren kurz auf.",
+                "hu": "Melegedjen fel egy kicsit a templombelsőben.",
+                "ro": "Încălziți-vă puțin în interiorul bisericii.",
+                "en": "Warm up for a bit inside the church."
+              }
+            },
+            {
+              "name": "Cultural Center and Mining Monument",
+              "tip_5lang": {
+                "de": "Drinnen gibt es oft lokale Veranstaltungen im Winter.",
+                "hu": "Télen gyakran tartanak bent helyi rendezvényeket.",
+                "ro": "Iarna au loc adesea evenimente locale în interior.",
+                "en": "Local indoor events are often held here in winter."
+              }
+            },
+            {
+              "name": "Copper Mines Cluster (Bus Ride)",
+              "tip_5lang": {
+                "de": "Die Fahrt bietet tolle Ausblicke auf schneebedeckte Halden.",
+                "hu": "Az utazás remek kilátást nyújt a havas meddőhányókra.",
+                "ro": "Călătoria oferă vederi superbe spre haldele înzăpezite.",
+                "en": "The ride offers great views of snow-covered slag heaps."
+              }
+            },
+            {
+              "name": "Youth Park",
+              "tip_5lang": {
+                "de": "Holen Sie sich bei der Ankunft einen heißen Kaffee.",
+                "hu": "Érkezéskor igyon egy forró kávét a közelben.",
+                "ro": "Luați o cafea fierbinte în apropiere la sosire.",
+                "en": "Get a hot coffee nearby upon arrival."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Stiefel für die Wartezeit an der Haltestelle.",
+              "Busse können bei starkem Schneefall Verspätungen haben.",
+              "Ein Thermosbecher wärmt die Hände während der Fahrt.",
+              "Die Kirchen sind die besten Orte, um die Kältepause zu überbrücken.",
+              "Nutzen Sie die hellen Stunden bis 16:00 Uhr für Ihre Tour."
+            ],
+            "hu": [
+              "Viseljen meleg bakancsot a megállóban való várakozáshoz.",
+              "Erős havazáskor a buszok menetrendje módosulhat.",
+              "Egy termosz forró ital jól jön az utazás közben.",
+              "A templomok a legjobb helyek a hideg elleni pihenőre.",
+              "A túrát a világos órákra, 16:00-ig fejezze be."
+            ],
+            "ro": [
+              "Purtați ghete călduroase pentru așteptarea în stație.",
+              "Autobuzele pot avea întârzieri în caz de ninsoare abundentă.",
+              "Un termos cu băutură caldă este util pe durata drumului.",
+              "Bisericile sunt cele mai bune locuri pentru popas contra frigului.",
+              "Finalizați turul până la ora 16:00, cât este încă lumină."
+            ],
+            "en": [
+              "Wear warm boots for the wait at the bus stop.",
+              "Buses may experience delays during heavy snowfall.",
+              "A thermos with a hot drink is great during the journey.",
+              "Churches are the best places for a break from the cold.",
+              "Complete your tour during the light hours until 16:00."
+            ]
+          }
+        }
       }
     }
   }

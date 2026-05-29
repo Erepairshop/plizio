@@ -326,6 +326,206 @@
           "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
           "Most sights are within walking distance, so this is the ideal way to explore the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Marktplatz unter den Arkaden. Der Vormittag gehört der orthodoxen Kirche und dem Schloss Krustpils, die idealen Schutz vor dem Regen bieten. Mittags vertiefen Sie sich im Geschichtsmuseum in die Region. Der Weg über die Daugava-Brücke kann windig sein, bevor Sie die lutherische Kirche erreichen. Den Tag lassen Sie mit einem kurzen, erfrischenden Spaziergang im Kena-Park ausklingen.",
+            "hu": "Kezdje a napot az ódon piactéren az ereszek alatt. A délelőtt a Szent Miklós templom és a Krustpils-vár falai között telik, ami tökéletes menedék az eső elől. Délben a Jēkabpils Történeti Múzeumban merülhet el a helyi emlékekben. A Daugava-hídon való átkelésnél számítson szélre, majd látogassa meg az evangélikus templomot. A napot a Kena Park friss illatú fái között zárhatja egy rövid sétával.",
+            "ro": "Începeți ziua în Piața Veche, folosind porțiunile acoperite. Dimineața este dedicată Bisericii Ortodoxe și Castelului Krustpils, ambele oferind adăpost excelent. La prânz, Muzeul de Istorie vă invită la o explorare indoor. Traversarea podului peste Daugava poate fi expusă vântului, urmată de vizita la biserica luterană. Încheiați ziua cu o plimbare scurtă și revigorantă prin parcul Kena.",
+            "en": "Start at the Old Market Square using nearby shelters. Spend the morning inside St. Nicholas Church and Krustpils Castle, perfect for staying dry. Midday is best spent exploring the Jēkabpils History Museum. The walk across the Daugava Bridge might be wet and windy, leading to the Lutheran Church. Finish the day with a brisk walk through the rain-freshened Kena Park."
+          },
+          "stops": [
+            {
+              "name": "Old Market Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Gebäudevorsprünge am Platzrand.",
+                "hu": "Használja a tér szélén lévő épületek ereszeit.",
+                "ro": "Folosiți streșinile clădirilor de la marginea pieței.",
+                "en": "Use the building overhangs around the square."
+              }
+            },
+            {
+              "name": "St. Nicholas Orthodox Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den ersten Schauer abzuwarten.",
+                "hu": "Csendes hely az első zápor kivárására.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea primei averse.",
+                "en": "A quiet place to wait out the first shower."
+              }
+            },
+            {
+              "name": "Krustpils Castle",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten Sie garantiert trocken.",
+                "hu": "A vastag falak garantáltan szárazon tartják.",
+                "ro": "Zidurile groase vă vor menține cu siguranță uscat.",
+                "en": "The thick walls are guaranteed to keep you dry."
+              }
+            },
+            {
+              "name": "Jēkabpils History Museum",
+              "tip_5lang": {
+                "de": "Ideal für eine ausgiebige Besichtigung bei Regen.",
+                "hu": "Ideális egy kiadós múzeumlátogatáshoz esőben.",
+                "ro": "Ideal pentru o vizită prelungită la muzeu pe timp de ploaie.",
+                "en": "Ideal for an extensive museum visit during rain."
+              }
+            },
+            {
+              "name": "Daugava Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht, der Metallboden kann rutschig sein.",
+                "hu": "Vigyázat, a fémfelületek csúszósak lehetnek.",
+                "ro": "Atenție, suprafețele metalice pot fi alunecoase.",
+                "en": "Watch out, metal surfaces can be slippery."
+              }
+            },
+            {
+              "name": "Krustpils Evangelical Lutheran Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im Trockenen.",
+                "hu": "Csodálja meg az építészetet a száraz belsőben.",
+                "ro": "Admirați arhitectura în interiorul uscat.",
+                "en": "Admire the architecture in the dry interior."
+              }
+            },
+            {
+              "name": "Kena Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege minimieren Matschfüße.",
+                "hu": "Az aszfaltozott utak megvédenek a sártól.",
+                "ro": "Aleile asfaltate minimizează noroiul.",
+                "en": "Paved paths minimize muddy feet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen des Windes an der Daugava ratsam.",
+              "Das Museum und das Schloss bieten zusammen über 3 Stunden Indoor-Programm.",
+              "Wasserdichtes Schuhwerk ist für die Brückenquerung wichtig.",
+              "In der Nähe des Marktplatzes gibt es kleine Cafés zum Aufwärmen."
+            ],
+            "hu": [
+              "A Daugava menti szél miatt egy stabil esernyő ajánlott.",
+              "A múzeum és a vár összesen több mint 3 órányi fedett programot nyújt.",
+              "A hídon való átkeléshez vízálló lábbeli javasolt.",
+              "A piactér környékén apró kávézókban kereshet menedéket."
+            ],
+            "ro": [
+              "Se recomandă o umbrelă stabilă din cauza vântului de pe Daugava.",
+              "Muzeul și castelul oferă în total peste 3 ore de program indoor.",
+              "Încălțămintea impermeabilă este importantă pentru traversarea podului.",
+              "În apropierea pieței există cafenele mici pentru adăpost."
+            ],
+            "en": [
+              "A sturdy umbrella is advised due to the wind along the Daugava.",
+              "The museum and castle combined offer over 3 hours of indoor activities.",
+              "Waterproof footwear is important for the bridge crossing.",
+              "Small cafes near the market square offer cozy shelters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Krustpils im winterlichen Glanz. Der Marktplatz wirkt unter Schnee besonders ruhig. Die Kirchen bieten Momente der Stille und Wärme. Das Highlight ist das Schloss Krustpils, dessen weiße Silhouette über der gefrorenen Daugava thront. Nach dem Museumsbesuch bietet die Brücke einen weiten Blick über die Eislandschaft. Beenden Sie die Tour im Kena-Park, bevor die frühe Dämmerung einsetzt.",
+            "hu": "Ismerje meg Krustpils téli arcát. A piactér a hó alatt különösen csendes. A templomok meghitt nyugalmat és némi melegséget árasztanak. A nap fénypontja a Krustpils-vár, melynek fehér sziluettje a befagyott Daugava felett magasodik. A múzeum után a hídról csodálatos panoráma nyílik a jeges folyóra. A sétát a Kena Parkban fejezze be, még a korai sötétedés előtt.",
+            "ro": "Experimentați Krustpils în straie de iarnă. Piața Veche pare deosebit de liniștită sub zăpadă. Bisericile oferă momente de tăcere și puțină căldură. Punctul culminant este Castelul Krustpils, a cărui siluetă albă domină Daugava înghețată. După muzeu, podul oferă o vedere amplă asupra peisajului înghețat. Încheiați turul în parcul Kena înainte de lăsarea serii timpurii.",
+            "en": "Experience Krustpils in its winter coat. The Market Square is exceptionally quiet under the snow. The churches provide moments of warmth and reflection. The highlight is Krustpils Castle, its white silhouette towering over the frozen Daugava. After the museum, the bridge offers a panoramic view of the icy river. Finish your walk in Kena Park before the early winter sunset."
+          },
+          "stops": [
+            {
+              "name": "Old Market Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a jeges foltokra a macskakövön.",
+                "ro": "Atenție la porțiunile înghețate de pe pavaj.",
+                "en": "Watch out for icy patches on the cobblestones."
+              }
+            },
+            {
+              "name": "St. Nicholas Orthodox Church",
+              "tip_5lang": {
+                "de": "Die Kerzen im Inneren spenden eine gemütliche Atmosphäre.",
+                "hu": "A benti gyertyák meghitt hangulatot árasztanak.",
+                "ro": "Lumânările din interior creează o atmosferă primitoare.",
+                "en": "The candles inside provide a cozy atmosphere."
+              }
+            },
+            {
+              "name": "Krustpils Castle",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den historischen Räumen auf.",
+                "hu": "Melegedjen fel a történelmi termekben.",
+                "ro": "Încălziți-vă în sălile istorice.",
+                "en": "Warm up inside the historical rooms."
+              }
+            },
+            {
+              "name": "Jēkabpils History Museum",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um der Kälte für eine Stunde zu entfliehen.",
+                "hu": "Tökéletes hely, hogy egy órára elmeneküljön a hideg elől.",
+                "ro": "Locul perfect pentru a scăpa de frig timp de o oră.",
+                "en": "A perfect place to escape the cold for an hour."
+              }
+            },
+            {
+              "name": "Daugava Bridge",
+              "tip_5lang": {
+                "de": "Extremer Windchill möglich, ziehen Sie sich warm an.",
+                "hu": "Erős szélvihar lehetséges, öltözzön fel melegen.",
+                "ro": "Vânt tăios posibil, îmbrăcați-vă gros.",
+                "en": "Extreme wind chill possible, dress warmly."
+              }
+            },
+            {
+              "name": "Krustpils Evangelical Lutheran Church",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Öffnungszeiten im Winter.",
+                "hu": "Ellenőrizze a téli nyitvatartást.",
+                "ro": "Verificați programul de iarnă.",
+                "en": "Check the winter opening hours."
+              }
+            },
+            {
+              "name": "Kena Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die blaue Stunde zwischen den Bäumen.",
+                "hu": "Élvezze a kék órát a fák között.",
+                "ro": "Bucurați-vă de ora albastră printre copaci.",
+                "en": "Enjoy the blue hour among the trees."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In Lettland geht die Sonne im Dezember bereits gegen 15:45 Uhr unter.",
+              "Tragen Sie mehrere Schichten Kleidung gegen den Wind am Fluss.",
+              "Die Wege am Schloss können bei Frost rutschig sein.",
+              "Heiße Getränke sind in den lokalen Bäckereien erhältlich."
+            ],
+            "hu": [
+              "Lettországban decemberben már 15:45 körül lemegy a nap.",
+              "Réteges öltözködés javasolt a folyóparti szél miatt.",
+              "A vár körüli utak fagyban csúszósak lehetnek.",
+              "Forró italokat a helyi pékségekben szerezhet be."
+            ],
+            "ro": [
+              "În Letonia, soarele apune deja în jur de 15:45 în decembrie.",
+              "Purtați mai multe straturi de haine împotriva vântului de pe râu.",
+              "Căile din jurul castelului pot fi alunecoase pe timp de îngheț.",
+              "Băuturi calde pot fi găsite la brutăriile locale."
+            ],
+            "en": [
+              "In Latvia, the sun sets as early as 15:45 in December.",
+              "Wear multiple layers to combat the wind chill by the river.",
+              "Paths around the castle can be slippery during frost.",
+              "Hot drinks are available in local bakeries."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -670,6 +870,224 @@
           "Check your tire pressure before setting off.",
           "A bike lock is essential to secure your bike at stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt durch Krustpils erfordert gute Ausrüstung. Starten Sie zügig am Marktplatz und suchen Sie Schutz im Schloss Krustpils. Das Geschichtsmuseum bietet eine lange Pause im Trockenen. Überqueren Sie vorsichtig die nasse Daugava-Brücke zu den Kirchen. Der Kena-Park bietet befestigte Wege, bevor Sie die Tour am markanten Fernsehturm beenden, der im Nebel mystisch wirkt.",
+            "hu": "Az esős biciklizés Krustpilsben jó felszerelést igényel. Kezdjen a piactéren, majd keressen menedéket a Krustpils-várban. A történeti múzeum hosszú kikapcsolódást nyújt szárazon. Óvatosan keljen át a vizes Daugava-hídon a templomok felé. A Kena Park aszfaltozott útjai után zárja a kört a tévétoronynál, amely ködben misztikus látványt nyújt.",
+            "ro": "O plimbare cu bicicleta prin Krustpils pe ploaie necesită echipament bun. Începeți rapid în Piața Veche și adăpostiți-vă la Castelul Krustpils. Muzeul de Istorie oferă o pauză lungă la uscat. Traversați cu atenție podul umed peste Daugava către biserici. Parcul Kena are alei pavate, iar turul se încheie la turnul TV, care pare mistic în ceață.",
+            "en": "Rainy cycling in Krustpils requires proper gear. Start quickly at the square and seek shelter in Krustpils Castle. The history museum offers a long dry break. Cross the wet Daugava Bridge carefully toward the churches. Kena Park provides paved paths before ending at the TV Tower, which looks mystical in the mist."
+          },
+          "stops": [
+            {
+              "name": "Old Market Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a fékezéssel a vizes macskakövön.",
+                "ro": "Atenție la frânare pe pavajul umed.",
+                "en": "Be careful when braking on wet cobblestones."
+              }
+            },
+            {
+              "name": "Krustpils Castle",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer im Innenhof suchen.",
+                "hu": "Keressen fedett kerékpártárolót az udvaron.",
+                "ro": "Căutați rastele de biciclete acoperite în curte.",
+                "en": "Look for covered bike racks in the courtyard."
+              }
+            },
+            {
+              "name": "Jēkabpils History Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch zum Trocknen der Kleidung.",
+                "hu": "Használja ki a látogatást a ruházat szárítására.",
+                "ro": "Folosiți vizita pentru a vă usca hainele.",
+                "en": "Use the visit to dry your clothing."
+              }
+            },
+            {
+              "name": "Daugava Bridge",
+              "tip_5lang": {
+                "de": "Seitenwind kann die Fahrt erschweren.",
+                "hu": "Az oldalszél megnehezítheti a haladást.",
+                "ro": "Vântul lateral poate îngreuna deplasarea.",
+                "en": "Crosswinds can make cycling difficult."
+              }
+            },
+            {
+              "name": "St. Nicholas Orthodox Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach möglich.",
+                "hu": "Rövid megálló az előtető alatt lehetséges.",
+                "ro": "Scurt popas sub streșină posibil.",
+                "en": "Short stop under the porch is possible."
+              }
+            },
+            {
+              "name": "Krustpils Evangelical Lutheran Church",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz direkt vor der Kirche.",
+                "hu": "Biztonságos tároló közvetlenül a templom előtt.",
+                "ro": "Loc de parcare sigur direct în fața bisericii.",
+                "en": "Safe parking spot directly in front of the church."
+              }
+            },
+            {
+              "name": "Kena Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den Hauptwegen, um Pfützen zu meiden.",
+                "hu": "Maradjon a főutakon a tócsák elkerüléséhez.",
+                "ro": "Rămâneți pe aleile principale pentru a evita bălțile.",
+                "en": "Stay on main paths to avoid puddles."
+              }
+            },
+            {
+              "name": "Jēkabpils TV Tower",
+              "tip_5lang": {
+                "de": "Das Ziel bietet wenig Schutz, planen Sie den Rückweg.",
+                "hu": "A célpont kevés védelmet nyújt, tervezze meg a visszutat.",
+                "ro": "Destinația oferă puțin adăpost, planificați drumul de întoarcere.",
+                "en": "The destination offers little shelter; plan your return."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Die Bremswege auf nassen Metallbrücken verlängern sich deutlich.",
+              "Nutzen Sie die Schlossbesichtigung für eine längere Aufwärmphase."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóságért.",
+              "A féktávolság jelentősen megnő a vizes fémhidakon.",
+              "Használja ki a várlátogatást egy hosszabb melegedésre."
+            ],
+            "ro": [
+              "Apărătorile la bicicletă sunt indispensabile pe acest tip de vreme.",
+              "Purtați o jachetă de ploaie stridentă pentru vizibilitate mai bună.",
+              "Distanța de frânare pe podurile metalice umede crește considerabil.",
+              "Folosiți vizita la castel pentru o fază de încălzire mai lungă."
+            ],
+            "en": [
+              "Mudguards on your bike are essential in this weather.",
+              "Wear a bright raincoat for better visibility.",
+              "Braking distances on wet metal bridges increase significantly.",
+              "Use the castle visit for a longer warm-up phase."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking in Krustpils ist erfrischend, aber herausfordernd. Der verschneite Marktplatz und das Schloss bieten eine tolle Kulisse. Das Museum ist der wichtigste Stopp, um die steifen Finger aufzuwärmen. Über die Brücke weht ein eisiger Wind von der Daugava. Besuchen Sie die Kirchen und den Kena-Park in der Dämmerung, bevor Sie die Tour am beleuchteten Fernsehturm abschließen.",
+            "hu": "A téli biciklizés Krustpilsben frissítő, de embert próbáló. A havas piactér és a vár lenyűgöző látványt nyújt. A múzeum a legfontosabb megálló az átfagyott ujjak felmelegítésére. A hídon jéghideg szél fúj a Daugava felől. Látogassa meg a templomokat és a Kena Parkot szürkületben, majd zárja a napot a kivilágított tévétoronynál.",
+            "ro": "Biciclitul pe timp de iarnă în Krustpils este revigorant, dar provocator. Piața înzăpezită și castelul oferă un decor superb. Muzeul este cel mai important punct pentru a vă încălzi degetele amorțite. Pe pod suflă un vânt înghețat de pe Daugava. Vizitați bisericile și parcul Kena la amurg, înainte de a încheia la turnul TV iluminat.",
+            "en": "Winter biking in Krustpils is refreshing but challenging. The snowy square and castle provide a great backdrop. The museum is the most vital stop to warm up stiff fingers. An icy wind blows across the bridge from the Daugava. Visit the churches and Kena Park at dusk before finishing at the illuminated TV Tower."
+          },
+          "stops": [
+            {
+              "name": "Old Market Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Matsch in den Fugen.",
+                "hu": "Vigyázzon a fagyott sárra a kövek között.",
+                "ro": "Atenție la noroiul înghețat dintre pavele.",
+                "en": "Watch out for frozen slush in the cracks."
+              }
+            },
+            {
+              "name": "Krustpils Castle",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schloss kann glatt sein.",
+                "hu": "A vár felé vezető út csúszós lehet.",
+                "ro": "Urcarea spre castel poate fi alunecoasă.",
+                "en": "The climb to the castle can be slippery."
+              }
+            },
+            {
+              "name": "Jēkabpils History Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Garderobenservice für schwere Jacken.",
+                "hu": "Használja a ruhatárat a nehéz kabátoknak.",
+                "ro": "Folosiți garderoba pentru jachetele groase.",
+                "en": "Use the cloakroom for heavy jackets."
+              }
+            },
+            {
+              "name": "Daugava Bridge",
+              "tip_5lang": {
+                "de": "Handschuhe sind wegen des Windchills obligatorisch.",
+                "hu": "A kesztyű kötelező a metsző szél miatt.",
+                "ro": "Mănușile sunt obligatorii din cauza vântului tăios.",
+                "en": "Gloves are mandatory due to the wind chill."
+              }
+            },
+            {
+              "name": "St. Nicholas Orthodox Church",
+              "tip_5lang": {
+                "de": "Respektieren Sie die Stille im warmen Innenraum.",
+                "hu": "Tisztelje a csendet a meleg belső térben.",
+                "ro": "Respectați liniștea în interiorul călduros.",
+                "en": "Respect the silence in the warm interior."
+              }
+            },
+            {
+              "name": "Krustpils Evangelical Lutheran Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf herabfallenden Schnee von Dächern.",
+                "hu": "Vigyázzon a tetőkről lezúduló hóra.",
+                "ro": "Atenție la zăpada care poate cădea de pe acoperișuri.",
+                "en": "Watch out for snow falling from roofs."
+              }
+            },
+            {
+              "name": "Kena Park",
+              "tip_5lang": {
+                "de": "Licht am Fahrrad ist ab 15:30 Uhr ratsam.",
+                "hu": "A biciklilámpa 15:30-tól már ajánlott.",
+                "ro": "Luminile la bicicletă sunt recomandate de la 15:30.",
+                "en": "Bike lights are advised from 15:30."
+              }
+            },
+            {
+              "name": "Jēkabpils TV Tower",
+              "tip_5lang": {
+                "de": "Endpunkt mit weitem Blick über das dunkle Jēkabpils.",
+                "hu": "Végpont pazar kilátással a sötétedő városra.",
+                "ro": "Punct final cu o vedere amplă asupra orașului întunecat.",
+                "en": "End point with a wide view over dark Jēkabpils."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen oder reduzierter Reifendruck helfen bei Glätte.",
+              "Verkürzen Sie die Standzeiten im Freien, um Auskühlung zu vermeiden.",
+              "Die Sonne verschwindet früh, planen Sie die Rückfahrt im Hellen.",
+              "Winddichte Kleidung ist wichtiger als dicke Isolierung."
+            ],
+            "hu": [
+              "A téli gumi vagy az alacsonyabb guminyomás segít a csúszós úton.",
+              "Rövidítse le a kinti várakozást a lehűlés elkerülésére.",
+              "A nap korán nyugszik, tervezze a visszutat világosban.",
+              "A szélálló ruházat fontosabb, mint a vastag hőszigetelés."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sau presiunea redusă ajută pe polei.",
+              "Scurtați timpii de staționare afară pentru a evita răceala.",
+              "Soarele apune devreme, planificați drumul de întoarcere pe lumină.",
+              "Hainele rezistente la vânt sunt mai importante decât izolarea groasă."
+            ],
+            "en": [
+              "Winter tires or lower tire pressure help on slippery surfaces.",
+              "Shorten outdoor stops to avoid getting too cold.",
+              "The sun sets early; plan your return trip during daylight.",
+              "Windproof gear is more important than thick insulation."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -930,6 +1348,188 @@
           "Find out about parking options and fees in advance.",
           "A navigation device is helpful for navigating between clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Krustpils komfortabel und trocken. Starten Sie am Schloss Krustpils, wo Sie direkt parken können. Der Marktplatz und das Museum sind nur eine kurze Fahrt entfernt. Die Daugava-Brücke bietet im Regen dramatische Ausblicke aus dem Autofenster. Nach einem kurzen Halt am Kena-Park fahren Sie zum Fernsehturm, dem modernen Wahrzeichen der Stadt.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel Krustpils értékeit. Kezdjen a Krustpils-várnál, ahol közvetlenül parkolhat. A piactér és a múzeum csak rövid autózásra van. A Daugava-híd esőben is drámai kilátást nyújt az ablakból. Egy rövid Kena Park-i megálló után hajtson a tévétoronyhoz, a város modern jelképéhez.",
+            "ro": "Cu mașina explorați Krustpils confortabil și uscat. Începeți la Castelul Krustpils, unde puteți parca direct. Piața și muzeul sunt la scurtă distanță de condus. Podul peste Daugava oferă vederi dramatice pe ploaie prin geamul mașinii. După o scurtă oprire la parcul Kena, conduceți spre turnul TV, simbolul modern al orașului.",
+            "en": "Explore Krustpils comfortably and dry by car. Start at Krustpils Castle, where parking is available on-site. The market square and museum are just a short drive away. The Daugava Bridge offers dramatic rainy views from the car window. After a brief stop at Kena Park, drive to the TV Tower, the city's modern landmark."
+          },
+          "stops": [
+            {
+              "name": "Krustpils Castle",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Schlosseingang nutzen.",
+                "hu": "Használja a várbejárat melletti parkolót.",
+                "ro": "Folosiți parcarea de lângă intrarea în castel.",
+                "en": "Use the parking lot right at the castle entrance."
+              }
+            },
+            {
+              "name": "Old Market Square",
+              "tip_5lang": {
+                "de": "Kurzzeitparkplätze rund um den Platz verfügbar.",
+                "hu": "Rövid távú parkolók a tér körül elérhetőek.",
+                "ro": "Parcări de scurtă durată disponibile în jurul pieței.",
+                "en": "Short-term parking available around the square."
+              }
+            },
+            {
+              "name": "Jēkabpils History Museum",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken zu bleiben.",
+                "hu": "Parkoljon közel a bejárathoz, hogy száraz maradjon.",
+                "ro": "Parcați aproape de intrare pentru a rămâne uscat.",
+                "en": "Park close to the entrance to stay dry."
+              }
+            },
+            {
+              "name": "Daugava Bridge",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick, während die Scheibenwischer laufen.",
+                "hu": "Élvezze a kilátást a járó ablaktörlők mellett.",
+                "ro": "Bucurați-vă de priveliște în timp ce merg ștergătoarele.",
+                "en": "Enjoy the view while the wipers are running."
+              }
+            },
+            {
+              "name": "Kena Park",
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp vom Parkplatz aus.",
+                "hu": "Gyors fotómegálló a parkolóból.",
+                "ro": "O scurtă oprire pentru poze din parcare.",
+                "en": "A quick photo stop from the parking area."
+              }
+            },
+            {
+              "name": "Jēkabpils TV Tower",
+              "tip_5lang": {
+                "de": "Gute Zufahrt direkt bis zum Fuß des Turms.",
+                "hu": "Jó megközelíthetőség közvetlenül a torony lábáig.",
+                "ro": "Acces bun direct până la baza turnului.",
+                "en": "Good access right up to the base of the tower."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die meisten Sehenswürdigkeiten haben kostenlose Parkplätze.",
+              "Das Auto ist Ihr idealer Rückzugsort bei starken Schauern.",
+              "Achten Sie auf Aquaplaning auf der Brücke.",
+              "Kombinieren Sie die Fahrt mit einem Besuch in einem Drive-in-Café."
+            ],
+            "hu": [
+              "A legtöbb látnivalónál ingyenes a parkolás.",
+              "Az autó tökéletes menedék a heves záporok idején.",
+              "Vigyázzon a felúszásra (aquaplaning) a hídon.",
+              "Kösse össze az utat egy látogatással egy autós kávézóban."
+            ],
+            "ro": [
+              "Majoritatea obiectivelor au parcare gratuită.",
+              "Mașina este refugiul ideal în timpul averselor puternice.",
+              "Atenție la acvaplanare pe pod.",
+              "Combinați drumul cu o vizită la o cafenea drive-in."
+            ],
+            "en": [
+              "Most attractions have free parking lots nearby.",
+              "The car is your perfect retreat during heavy showers.",
+              "Watch out for aquaplaning on the bridge.",
+              "Combine the trip with a visit to a drive-in cafe."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die winterliche Panoramafahrt durch Krustpils. Das beheizte Auto macht den Wechsel zwischen Schloss und Museum angenehm. Bewundern Sie die schneebedeckte Altstadt und die Eisschollen auf der Daugava beim Überqueren der Brücke. Der Kena-Park glitzert im Frost, bevor Sie die Tour am imposanten Fernsehturm beenden, der in der Winterdämmerung hell erleuchtet ist.",
+            "hu": "Élvezze a téli panorámaautózást Krustpilsben. A fűtött autó kellemessé teszi a vár és a múzeum közötti váltást. Csodálja meg a hófödte óvárost és a Daugava jégtábláit a hídon átkelve. A Kena Park csillog a fagyban, mielőtt a napot az impozáns tévétoronynál zárná, mely a téli szürkületben fényesen ragyog.",
+            "ro": "Bucurați-vă de o plimbare panoramică de iarnă prin Krustpils. Mașina încălzită face plăcută tranziția între castel și muzeu. Admirați orașul vechi înzăpezit și sloiurile de gheață de pe Daugava în timp ce traversați podul. Parcul Kena strălucește în ger, înainte de a încheia la turnul TV impunător, luminat puternic în amurgul de iarnă.",
+            "en": "Enjoy a scenic winter drive through Krustpils. The heated car makes moving between the castle and museum pleasant. Admire the snow-covered old town and ice floes on the Daugava while crossing the bridge. Kena Park sparkles in the frost before finishing at the imposing TV Tower, brightly lit in the winter twilight."
+          },
+          "stops": [
+            {
+              "name": "Krustpils Castle",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken auf ungeräumten Flächen.",
+                "hu": "Vigyázzon a parkolással a le nem takarított helyeken.",
+                "ro": "Atenție la parcare pe suprafețele nedezăpezite.",
+                "en": "Be careful when parking on unplowed surfaces."
+              }
+            },
+            {
+              "name": "Old Market Square",
+              "tip_5lang": {
+                "de": "Die Beleuchtung des Platzes ist im Winter sehr schön.",
+                "hu": "A tér kivilágítása télen különösen szép.",
+                "ro": "Iluminatul pieței este foarte frumos iarna.",
+                "en": "The square's lighting is very beautiful in winter."
+              }
+            },
+            {
+              "name": "Jēkabpils History Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie keine Wertsachen sichtbar im kalten Auto.",
+                "hu": "Ne hagyjon értéket látható helyen a hideg autóban.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașina rece.",
+                "en": "Don't leave valuables visible in the cold car."
+              }
+            },
+            {
+              "name": "Daugava Bridge",
+              "tip_5lang": {
+                "de": "Oft weht hier starker Wind, der das Auto leicht versetzt.",
+                "hu": "Gyakran fúj itt erős szél, ami megdobhatja az autót.",
+                "ro": "Aici suflă des vânt puternic care poate mișca mașina.",
+                "en": "Strong winds often blow here, slightly affecting steering."
+              }
+            },
+            {
+              "name": "Kena Park",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang auf den geräumten Hauptwegen.",
+                "hu": "Rövid séta a letakarított főutakon.",
+                "ro": "Scurtă plimbare pe aleile principale dezăpezite.",
+                "en": "Short walk on the cleared main paths."
+              }
+            },
+            {
+              "name": "Jēkabpils TV Tower",
+              "tip_5lang": {
+                "de": "Die Zufahrt wird meist priorisiert geräumt.",
+                "hu": "Az ide vezető utat általában hamar letakarítják.",
+                "ro": "Accesul este de obicei dezăpezit cu prioritate.",
+                "en": "The access road is usually plowed with priority."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf vereiste Brückenrampen.",
+              "Winterreifen sind in Lettland ab Dezember gesetzlich vorgeschrieben.",
+              "Die Sichtweite kann bei Schneefall stark eingeschränkt sein.",
+              "Nutzen Sie die Standheizung, falls vorhanden."
+            ],
+            "hu": [
+              "Vigyázzon a hídfelhajtók jegesedésére.",
+              "Lettországban decembertől kötelező a téli gumi.",
+              "Hóesésben a látótávolság jelentősen lecsökkenhet.",
+              "Használja az állófűtést, ha van."
+            ],
+            "ro": [
+              "Atenție la rampele podului care pot fi înghețate.",
+              "Anvelopele de iarnă sunt obligatorii în Letonia din decembrie.",
+              "Vizibilitatea poate fi redusă drastic în timpul ninsorii.",
+              "Folosiți încălzirea auxiliară, dacă este disponibilă."
+            ],
+            "en": [
+              "Watch out for icy bridge ramps.",
+              "Winter tires are legally required in Latvia from December.",
+              "Visibility can be severely limited during snowfall.",
+              "Use the stationary heater if available."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1190,6 +1790,188 @@
           "Buy a day ticket for unlimited travel.",
           "Download the local transport app to check departure times."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Nahverkehr in Krustpils, um den Regen zu umgehen. Starten Sie am Marktplatz und fahren Sie zum Schloss Krustpils. Die Busse bringen Sie nah an die Eingänge. Die Überquerung der Daugava-Brücke bietet tolle Ausblicke, bevor Sie die Kirchen auf der anderen Seite besuchen. Der Kena-Park bildet den Abschluss, wobei die Bushaltestellen kurze Wege garantieren.",
+            "hu": "Használja Krustpils tömegközlekedését az eső elkerülésére. Kezdjen a piactéren, majd buszozzon a Krustpils-várhoz. A járatok közel viszik a bejáratokhoz. A Daugava-hídon való áthaladás látványos, mielőtt megnézné a túloldali templomokat. A napot a Kena Park zárja, ahol a közeli megállók garantálják a rövid sétát.",
+            "ro": "Folosiți transportul în comun din Krustpils pentru a evita ploaia. Începeți în piață și luați autobuzul spre Castelul Krustpils. Autobuzele vă lasă aproape de intrări. Traversarea podului oferă vederi frumoase înainte de a vizita bisericile de pe cealaltă parte. Parcul Kena încheie turul, stațiile fiind la mică distanță.",
+            "en": "Use Krustpils transit to bypass the rain. Start at the square and take a bus to Krustpils Castle. Buses drop you off close to the entrances. Crossing the Daugava Bridge provides great views before visiting the churches on the other side. Kena Park is the final stop, with nearby bus stations ensuring short walks."
+          },
+          "stops": [
+            {
+              "name": "Old Market Square",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Haltestellenhäuschen.",
+                "hu": "Várjon a fedett buszmegállóban.",
+                "ro": "Așteptați în refugiul acoperit al stației.",
+                "en": "Wait in the covered bus shelter."
+              }
+            },
+            {
+              "name": "Krustpils Castle",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Schritte vom Tor entfernt.",
+                "hu": "A megálló csak pár lépésre van a kaputól.",
+                "ro": "Stația este la doar câțiva pași de poartă.",
+                "en": "The stop is just a few steps from the gate."
+              }
+            },
+            {
+              "name": "Daugava Bridge",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt über den Fluss im Trockenen.",
+                "hu": "Élvezze a folyón való átkelést szárazon.",
+                "ro": "Bucurați-vă de traversarea râului la uscat.",
+                "en": "Enjoy the river crossing while staying dry."
+              }
+            },
+            {
+              "name": "St. Nicholas Orthodox Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle zur Kirche.",
+                "hu": "Rövid séta a buszmegállótól a templomig.",
+                "ro": "Scurtă plimbare de la stația de autobuz la biserică.",
+                "en": "Short walk from the bus stop to the church."
+              }
+            },
+            {
+              "name": "Krustpils Evangelical Lutheran Church",
+              "tip_5lang": {
+                "de": "Zentrale Lage mit guten Umsteigemöglichkeiten.",
+                "hu": "Központi elhelyezkedés jó átszállási lehetőségekkel.",
+                "ro": "Locație centrală cu opțiuni bune de transfer.",
+                "en": "Central location with good transfer options."
+              }
+            },
+            {
+              "name": "Kena Park",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt direkt am Parkeingang.",
+                "hu": "A megálló közvetlenül a park bejáratánál van.",
+                "ro": "Stația se află direct la intrarea în parc.",
+                "en": "The stop is located right at the park entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Informieren Sie sich vorab über die App 'Jēkabpils autobusu parks'.",
+              "Halten Sie Kleingeld oder eine Fahrkarte bereit.",
+              "Die Busse verkehren in regelmäßigen Abständen.",
+              "Nutzen Sie die Wartezeiten für einen Blick auf den Regenradar."
+            ],
+            "hu": [
+              "Tájékozódjon előre a 'Jēkabpils autobusu parks' alkalmazásban.",
+              "Készítsen elő aprópénzt vagy menetjegyet.",
+              "A buszok rendszeres időközönként járnak.",
+              "Használja ki a várakozási időt az esőradar ellenőrzésére."
+            ],
+            "ro": [
+              "Informați-vă din timp folosind aplicația 'Jēkabpils autobusu parks'.",
+              "Aveți pregătit mărunțiș sau biletul.",
+              "Autobuzele circulă la intervale regulate.",
+              "Folosiți timpul de așteptare pentru a verifica radarul de ploaie."
+            ],
+            "en": [
+              "Check the 'Jēkabpils autobusu parks' app for schedules.",
+              "Have small change or your ticket ready.",
+              "Buses run at regular intervals.",
+              "Use wait times to check the local rain radar."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Transit ist die wärmste Art, Krustpils im Winter zu sehen. Starten Sie am Marktplatz und lassen Sie sich zum Schloss Krustpils chauffieren. Die Busse sind meist gut beheizt. Erleben Sie die Eislandschaft der Daugava beim Überqueren der Brücke ohne den eisigen Wind zu spüren. Nach den Kirchenbesuchen bietet der Kena-Park eine winterliche Kulisse für einen kurzen Aufenthalt.",
+            "hu": "A tömegközlekedés a legmelegebb módja Krustpils felfedezésének télen. Kezdjen a piactéren, majd buszozzon a Krustpils-várhoz. A buszok általában jól fűtöttek. Csodálja meg a Daugava jeges világát a hídon átkelve anélkül, hogy érezné a metsző szelet. A templomlátogatások után a Kena Park téli díszletei várják egy rövid sétára.",
+            "ro": "Transportul în comun este cel mai călduros mod de a vedea Krustpils iarna. Începeți în piață și lăsați-vă condus spre Castelul Krustpils. Autobuzele sunt de obicei bine încălzite. Experimentați peisajul înghețat al Daugavei traversând podul fără a simți vântul tăios. După biserici, parcul Kena oferă un decor de iarnă pentru o scurtă vizită.",
+            "en": "Transit is the warmest way to see Krustpils in winter. Start at the market square and take a bus to Krustpils Castle. The buses are usually well-heated. Experience the icy landscape of the Daugava while crossing the bridge without feeling the freezing wind. After visiting the churches, Kena Park provides a winter backdrop for a brief stay."
+          },
+          "stops": [
+            {
+              "name": "Old Market Square",
+              "tip_5lang": {
+                "de": "Die Wartehäuschen bieten Schutz vor Schneefall.",
+                "hu": "A várótermek védelmet nyújtanak a hóesés ellen.",
+                "ro": "Refugiile stațiilor oferă protecție împotriva ninsorii.",
+                "en": "The shelters provide protection from snowfall."
+              }
+            },
+            {
+              "name": "Krustpils Castle",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit.",
+                "hu": "Tervezze meg a visszautat sötétedés előtt.",
+                "ro": "Planificați drumul de întoarcere înainte de lăsarea serii.",
+                "en": "Plan your return trip before darkness falls."
+              }
+            },
+            {
+              "name": "Daugava Bridge",
+              "tip_5lang": {
+                "de": "Warme Sicht aus dem Busfenster auf das Eis.",
+                "hu": "Meleg kilátás a buszablakból a jégre.",
+                "ro": "Vedere caldă de pe geamul autobuzului spre gheață.",
+                "en": "Warm view of the ice from the bus window."
+              }
+            },
+            {
+              "name": "St. Nicholas Orthodox Church",
+              "tip_5lang": {
+                "de": "Die Wege von der Haltestelle können gestreut sein.",
+                "hu": "A megállótól vezető utak fel lehetnek szórva homokkal.",
+                "ro": "Căile de la stație pot fi presărate cu nisip.",
+                "en": "Paths from the stop may be gritted."
+              }
+            },
+            {
+              "name": "Krustpils Evangelical Lutheran Church",
+              "tip_5lang": {
+                "de": "Ein wichtiger Knotenpunkt im Jēkabpils-Netz.",
+                "hu": "Fontos csomópont a Jēkabpils-i hálózatban.",
+                "ro": "Un nod important în rețeaua din Jēkabpils.",
+                "en": "An important hub in the Jēkabpils network."
+              }
+            },
+            {
+              "name": "Kena Park",
+              "tip_5lang": {
+                "de": "Beleuchtete Haltestelle für sicheres Warten.",
+                "hu": "Kivilágított megálló a biztonságos várakozáshoz.",
+                "ro": "Stație iluminată pentru o așteptare sigură.",
+                "en": "Illuminated stop for safe waiting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft der zuverlässigste Weg.",
+              "Beachten Sie mögliche winterbedingte Verzögerungen.",
+              "Die Haltestellen am Schloss sind der Kälte ausgesetzt.",
+              "Nutzen Sie den Transit, um die 16-Uhr-Dämmerung zu überbrücken."
+            ],
+            "hu": [
+              "A buszok télen gyakran a legmegbízhatóbbak.",
+              "Számítson az időjárás miatti esetleges késésekre.",
+              "A várnál lévő megállók kitettek a hidegnek.",
+              "Használja a közlekedést a 16 órai szürkület áthidalására."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea cea mai sigură cale iarna.",
+              "Țineți cont de posibilele întârzieri cauzate de vreme.",
+              "Stațiile de la castel sunt expuse la frig.",
+              "Folosiți transportul pentru a depăși amurgul de la ora 16."
+            ],
+            "en": [
+              "Buses are often the most reliable way in winter.",
+              "Be aware of potential winter-related delays.",
+              "The stops at the castle are exposed to the cold.",
+              "Use transit to bridge the 16:00 twilight."
+            ]
+          }
+        }
       }
     }
   }

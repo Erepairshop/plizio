@@ -411,6 +411,232 @@
           "Respect the privacy of the locals who still live inside the castle.",
           "Always ask for permission before taking pictures of people."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Berat zeigt sich im Regen von seiner melancholischen Seite. Die weißen Häuser von Mangalem leuchten vor dem grauen Himmel. Der Vormittag gehört den Innenräumen der Moscheen und Museen. Mittags glänzen die nassen Steine der Gorica-Brücke. Der Aufstieg zur Burg ist bei Regen rutschig, belohnt aber mit wolkenverhangener Mystik. Den Abend verbringt man am besten in den beheizten Tavernen der Oberstadt.",
+            "hu": "Berat esőben is különleges, a fehér falak élesen elválnak a szürke égbolttól. A délelőttöt érdemes a mecsetek és a Néprajzi Múzeum védelmében tölteni. Délben a Gorica-híd nedves kövei csillognak az Osum felett. A várba vezető út esőben csúszós, óvatosan lépkedjünk. A délutánt az Onufri Múzeum ikonjai között, fedett helyen tölthetjük, majd egy meleg teával zárjuk a napot a várfalak között.",
+            "ro": "Berat sub ploaie are o atmosferă melancolică, casele albe strălucind pe fundalul gri. Dimineața explorăm interiorul moscheilor și al Muzeului Etnografic. La prânz, pietrele ude ale Podului Gorica oferă cadre foto unice. Urcarea spre cetate necesită atenție sporită pe pavajul alunecos. După-amiaza este dedicată Muzeului Onufri, un refugiu cultural perfect, urmată de o seară caldă într-o tavernă locală.",
+            "en": "Berat in the rain offers a moody perspective, with white houses standing out against gray skies. Spend the morning inside mosques and the Ethnographic Museum. By noon, the wet stones of Gorica Bridge glisten over the Osum. The climb to the castle is slippery, so tread carefully. Afternoon is best spent among the icons of the Onufri Museum, followed by a cozy evening in a heated upper-town tavern."
+          },
+          "stops": [
+            {
+              "name": "Mangalem Quarter",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Kopfsteinpflaster.",
+                "hu": "Vigyázat, a macskakő esőben nagyon csúszik.",
+                "ro": "Atenție la pavajul extrem de alunecos.",
+                "en": "Caution: cobblestones are very slippery when wet."
+              }
+            },
+            {
+              "name": "Bachelors' Mosque",
+              "tip_5lang": {
+                "de": "Ein trockener Ort, um die Fresken zu bewundern.",
+                "hu": "Száraz menedék a freskók megcsodálásához.",
+                "ro": "Un loc uscat pentru a admira frescele.",
+                "en": "A dry sanctuary to admire the frescoes."
+              }
+            },
+            {
+              "name": "National Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Idealer Schutz vor starkem Regen.",
+                "hu": "Ideális menedék heves esőzés esetén.",
+                "ro": "Refugiu ideal în caz de ploaie torențială.",
+                "en": "Ideal shelter during heavy downpours."
+              }
+            },
+            {
+              "name": "Gorica Bridge",
+              "tip_5lang": {
+                "de": "Die Steine sind rutschig, Handlauf nutzen.",
+                "hu": "A kövek csúsznak, használd a korlátot.",
+                "ro": "Pietrele sunt alunecoase, folosiți balustrada.",
+                "en": "Stones are slippery, use the handrail."
+              }
+            },
+            {
+              "name": "Gorica Quarter",
+              "tip_5lang": {
+                "de": "Enge Gassen bieten teilweise Regenschutz.",
+                "hu": "A szűk utcák néhol védelmet nyújtanak.",
+                "ro": "Străzile înguste oferă parțial adăpost.",
+                "en": "Narrow alleys provide some rain cover."
+              }
+            },
+            {
+              "name": "Berat Castle",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk mit Profil ist Pflicht.",
+                "hu": "Profilos talpú, vízálló cipő kötelező.",
+                "ro": "Încălțăminte cu aderență bună este obligatorie.",
+                "en": "Sturdy footwear with good grip is mandatory."
+              }
+            },
+            {
+              "name": "Onufri National Iconographic Museum",
+              "tip_5lang": {
+                "de": "Perfektes Indoor-Programm für den Nachmittag.",
+                "hu": "Tökéletes beltéri program délutánra.",
+                "ro": "Program interior perfect pentru după-amiază.",
+                "en": "Perfect indoor activity for the afternoon."
+              }
+            },
+            {
+              "name": "Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Außenbereich kann sehr matschig sein.",
+                "hu": "A templom környéke sáros lehet.",
+                "ro": "Zona din jurul bisericii poate fi noroioasă.",
+                "en": "The area around the church can be muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die steilen Gassen.",
+              "Regenschirme sind bei Wind in der Burg unpraktisch, Regenponchos sind besser.",
+              "Nutzen Sie die Museumsbesuche für die stärksten Regenschauer.",
+              "Die Steinstufen in Mangalem werden extrem glatt.",
+              "Kehren Sie in Cafés mit Holzofen ein."
+            ],
+            "hu": [
+              "Viselj vízálló, tapadós talpú cipőt a meredek utcákhoz.",
+              "A várban fújhat a szél, az esernyő helyett a poncsó praktikusabb.",
+              "A hevesebb záporokat időzítsd a múzeumlátogatásokra.",
+              "Mangalem lépcsői tükörsimára kopottak és esőben veszélyesek.",
+              "Keress fatüzelésű kályhával fűtött kávézókat."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă cu talpă aderentă.",
+              "În cetate vântul poate fi puternic, pelerina e mai bună decât umbrela.",
+              "Planificați vizitele la muzee în timpul celor mai puternice averse.",
+              "Treptele de piatră din Mangalem devin extrem de alunecoase.",
+              "Căutați cafenele cu sobă pe lemne pentru încălzire."
+            ],
+            "en": [
+              "Wear waterproof shoes with good grip for the steep alleys.",
+              "Wind can be strong at the castle; a poncho is better than an umbrella.",
+              "Time your museum visits during the heaviest rain showers.",
+              "The stone steps in Mangalem become dangerously slick.",
+              "Look for cafes with wood-burning stoves to dry off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter in Berat ist kühl und klar, oft mit Blick auf die schneebedeckten Gipfel des Tomorr. Der Morgen startet frisch in den Gassen von Mangalem. Mittags wärmt die tiefstehende Sonne die Steinfassaden in Gorica. Da es früh dunkel wird, erreicht man die Burg am besten am frühen Nachmittag. Die 'Stadt der tausend Fenster' wirkt in der frühen Dämmerung, wenn die Lichter angehen, besonders magisch und friedlich.",
+            "hu": "A tél Beratban hűvös és tiszta, gyakran látni a Tomorr-hegy havas csúcsait. A reggel frissen indul Mangalem szűk utcáin. Délben az alacsonyan járó nap sugarai melengetik Gorica kőfalait. Mivel korán sötétedik, a várat érdemes kora délutánra időzíteni. Az 'ezer ablak városa' a kora esti szürkületben, a kigyúló fényekkel a legszebb, ilyenkor igazi térei nyugalom árad a völgyből.",
+            "ro": "Iarna în Berat este rece și senină, oferind deseori priveliști spre muntele Tomorr înzăpezit. Dimineața începe cu aer proaspăt în Mangalem. La prânz, soarele blând încălzește fațadele din Gorica. Deoarece se întunecă devreme, vizita la cetate trebuie planificată pentru prima parte a după-amiezii. 'Orașul celor o mie de ferestre' devine magic la amurg, când luminile se aprind în liniștea iernii.",
+            "en": "Winter in Berat is crisp and clear, often featuring views of the snow-capped Tomorr Mountain. The morning starts fresh in the alleys of Mangalem. At noon, the low sun warms the stone facades of Gorica. Since it gets dark early, time your castle visit for the early afternoon. The 'city of a thousand windows' looks most magical at dusk when the lights flicker on in the peaceful winter air."
+          },
+          "stops": [
+            {
+              "name": "Mangalem Quarter",
+              "tip_5lang": {
+                "de": "Warme Kleidung für die schattigen Gassen nötig.",
+                "hu": "Meleg ruha kell az árnyékos, hűvös utcákba.",
+                "ro": "Haine groase necesare pentru străzile umbrite.",
+                "en": "Warm layers needed for the shaded alleys."
+              }
+            },
+            {
+              "name": "Bachelors' Mosque",
+              "tip_5lang": {
+                "de": "Innen ist es oft kühler als draußen.",
+                "hu": "Odabent gyakran hűvösebb van, mint kint.",
+                "ro": "În interior este adesea mai rece decât afară.",
+                "en": "It's often cooler inside than outside."
+              }
+            },
+            {
+              "name": "National Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Einblick in das winterliche Leben früherer Zeiten.",
+                "hu": "Bepillantás a régi idők téli mindennapjaiba.",
+                "ro": "Incursiune în viața de iarnă a vremurilor trecute.",
+                "en": "Insight into winter life of former times."
+              }
+            },
+            {
+              "name": "Gorica Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht vor Reifglätte am frühen Morgen.",
+                "hu": "Kora reggel vigyázz a zúzmarás köveken.",
+                "ro": "Atenție la polei la primele ore ale dimineții.",
+                "en": "Watch out for morning frost on the stones."
+              }
+            },
+            {
+              "name": "Gorica Quarter",
+              "tip_5lang": {
+                "de": "Sonnige Plätze am Flussufer suchen.",
+                "hu": "Keresd a napsütötte helyeket a folyóparton.",
+                "ro": "Căutați locurile însorite de pe malul râului.",
+                "en": "Look for sunny spots along the riverbank."
+              }
+            },
+            {
+              "name": "Berat Castle",
+              "tip_5lang": {
+                "de": "Starker Wind auf dem Plateau möglich.",
+                "hu": "Erős szél fújhat a vár fennsíkján.",
+                "ro": "Vânt puternic posibil pe platoul cetății.",
+                "en": "Strong winds possible on the castle plateau."
+              }
+            },
+            {
+              "name": "Onufri National Iconographic Museum",
+              "tip_5lang": {
+                "de": "Hübsch beleuchtet in der frühen Dämmerung.",
+                "hu": "Szép világítás a korai szürkületben.",
+                "ro": "Iluminat frumos la lăsarea timpurie a serii.",
+                "en": "Beautifully lit during the early twilight."
+              }
+            },
+            {
+              "name": "Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Bester Platz für den frühen Sonnenuntergang.",
+                "hu": "A legjobb hely a korai naplemente nézéséhez.",
+                "ro": "Cel mai bun loc pentru apusul timpuriu.",
+                "en": "Best spot for the early winter sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne verschwindet gegen 16:30 Uhr hinter den Bergen.",
+              "Zwiebelprinzip bei der Kleidung ist wegen des Windes in der Burg wichtig.",
+              "Probieren Sie heißen Raki oder lokalen Tee zum Aufwärmen.",
+              "Die Gassen im Schatten bleiben den ganzen Tag kühl.",
+              "Die Luft ist im Winter oft klarer für Fotos vom Tomorr."
+            ],
+            "hu": [
+              "A nap 16:30 körül tűnik el a hegyek mögött.",
+              "A várban fújó szél miatt öltözz rétegesen.",
+              "Kóstold meg a forró rakit vagy a helyi gyógyteát a felmelegedéshez.",
+              "Az árnyékos szűk utcák egész nap hűvösek maradnak.",
+              "Télen a levegő tisztább, így jobb fotók készülhetnek a Tomorr-hegyről."
+            ],
+            "ro": [
+              "Soarele dispare după munți în jurul orei 16:30.",
+              "Îmbrăcați-vă în straturi din cauza vântului din cetate.",
+              "Încercați un raki fiert sau un ceai local pentru încălzire.",
+              "Străduțele umbrite rămân reci pe tot parcursul zilei.",
+              "Aerul este mai clar iarna pentru poze cu muntele Tomorr."
+            ],
+            "en": [
+              "The sun disappears behind the mountains around 4:30 PM.",
+              "Dress in layers due to the biting wind at the castle heights.",
+              "Try hot raki or local mountain tea to warm up.",
+              "Shaded alleys remain chilly throughout the day.",
+              "Winter air is often clearer for photos of Mount Tomorr."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -791,6 +1017,214 @@
           "Many of the old streets are cobblestone, so ride with care.",
           "Ask your hotel about bike rentals if you don't have one."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Berat bei Regen erfordert Konzentration. Die Route entlang des Osum ist flach, aber die Straßen können rutschig sein. Vormittags besuchen wir die Bleimoschee, bevor der Regen zunimmt. Mittags erkunden wir Mangalem und Gorica, wobei das Fahrrad oft geschoben werden muss. Nachmittags führt der Weg am Fluss entlang, bevor wir den anstrengenden Aufstieg zur Burg wagen, wo das Onufri-Museum ein trockenes Ziel bietet.",
+            "hu": "A biciklizés esőben Beratban figyelmet igényel. Az Osum menti útvonal sík, de az aszfalt csúszós lehet. Délelőtt az Ólommecsetet látogatjuk meg, mielőtt eleredne az eső. Délben Mangalem és Gorica környékén tekerünk, de a szűk utcákban sokszor tolni kell a gépet. Délután a folyóparton haladunk, majd nekivágunk a várba vezető emelkedőnek, ahol az Onufri Múzeum nyújt száraz pihenőt.",
+            "ro": "Ciclismul în Berat pe ploaie necesită concentrare maximă. Ruta de-a lungul râului Osum este plată, dar carosabilul poate fi alunecos. Dimineața vizităm Moscheea de Plumb înainte ca ploaia să se intensifice. La prânz explorăm Mangalem și Gorica, unde bicicleta va fi mai mult împinsă. După-amiaza pedalăm pe malul râului, înainte de urcarea spre cetate, unde Muzeul Onufri este destinația finală uscată.",
+            "en": "Cycling in Berat during rain demands focus. The route along the Osum is flat, but roads can be slick. Visit the Lead Mosque in the morning before the rain picks up. At noon, explore Mangalem and Gorica, though you'll likely push your bike in the narrow alleys. In the afternoon, ride along the river before tackling the climb to the castle, where the Onufri Museum awaits as a dry sanctuary."
+          },
+          "stops": [
+            {
+              "name": "Lead Mosque",
+              "tip_5lang": {
+                "de": "Fahrradständer sind oft ungeschützt.",
+                "hu": "A biciklitárolók általában fedetlenek.",
+                "ro": "Suporturile de bicicletă sunt adesea neacoperite.",
+                "en": "Bike racks are mostly unsheltered."
+              }
+            },
+            {
+              "name": "Mangalem Quarter",
+              "tip_5lang": {
+                "de": "Extrem rutschig, besser absteigen und schieben.",
+                "hu": "Nagyon csúszik, jobb leszállni és tolni.",
+                "ro": "Extrem de alunecos, coborâți și împingeți.",
+                "en": "Extremely slippery; better to dismount and walk."
+              }
+            },
+            {
+              "name": "Gorica Bridge",
+              "tip_5lang": {
+                "de": "Radfahren auf der Brücke bei Nässe verboten.",
+                "hu": "Vizes időben tilos a hídon tekerni.",
+                "ro": "Ciclismul pe pod interzis pe timp de ploaie.",
+                "en": "Cycling on the bridge is prohibited when wet."
+              }
+            },
+            {
+              "name": "Gorica Quarter",
+              "tip_5lang": {
+                "de": "Vorsicht in engen, nassen Kurven.",
+                "hu": "Vigyázz a szűk, vizes kanyarokban.",
+                "ro": "Atenție în curbele strâmte și ude.",
+                "en": "Be careful in narrow, wet turns."
+              }
+            },
+            {
+              "name": "Ride along the Osum River",
+              "tip_5lang": {
+                "de": "Pfützen können tief sein, Spritzschutz nötig.",
+                "hu": "A tócsák mélyek lehetnek, sárvédő ajánlott.",
+                "ro": "Bălțile pot fi adânci, apărătoarea e necesară.",
+                "en": "Puddles can be deep; fenders are essential."
+              }
+            },
+            {
+              "name": "Berat Castle (lower entrance)",
+              "tip_5lang": {
+                "de": "Steiler, rutschiger Anstieg, niedriger Gang.",
+                "hu": "Meredek, csúszós emelkedő, használj kisfokozatot.",
+                "ro": "Urcare abruptă și alunecoasă, viteză mică.",
+                "en": "Steep, slick climb; use low gear."
+              }
+            },
+            {
+              "name": "Onufri National Iconographic Museum",
+              "tip_5lang": {
+                "de": "Sicheres Abstellen im Burghof möglich.",
+                "hu": "Biztonságos tárolás a várudvaron.",
+                "ro": "Parcare sigură posibilă în curtea cetății.",
+                "en": "Safe bike parking possible in the castle courtyard."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Bremsen auf nassen Markierungen.",
+              "Ein Regenponcho schützt auch die Beine beim Treten.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Fahrt.",
+              "Die Kopfsteinpflastergassen sind eine Sturzgefahr.",
+              "Nehmen Sie ein trockenes Tuch für den Sattel mit."
+            ],
+            "hu": [
+              "Kerüld a fékezést a vizes útburkolati jeleken.",
+              "Az esőponcsó tekerés közben a lábadat is védi.",
+              "Indulás előtt ellenőrizd a fékbetéteket.",
+              "A macskaköves utcák komoly esésveszélyt jelentenek.",
+              "Vigyél magaddal száraz rongyot a nyereg letörléséhez."
+            ],
+            "ro": [
+              "Evitați frânarea pe marcajele rutiere ude.",
+              "Pelerina de ploaie protejează și picioarele la pedalat.",
+              "Verificați saboții de frână înainte de drum.",
+              "Străduțele cu pavaj sunt un real pericol de cădere.",
+              "Luați o cârpă uscată pentru a șterge șaua."
+            ],
+            "en": [
+              "Avoid braking on wet road markings.",
+              "A rain poncho also protects your legs while pedaling.",
+              "Check your brake pads before starting the ride.",
+              "Cobblestone alleys are a major fall hazard.",
+              "Carry a dry cloth to wipe down the saddle."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Rad durch Berat ist erfrischend. Die kühle Luft am Osum weckt die Geister. Vormittags radeln wir zur Bleimoschee und durch Mangalem. Mittags genießen wir die Sonne am Flussufer in Gorica. Der Aufstieg zur Burg am Nachmittag bringt den Kreislauf in Schwung. Oben angekommen, belohnt die klare Winterluft mit weiten Panoramablicken, bevor wir das Onufri-Museum besuchen und vor der frühen Dunkelheit den Rückweg antreten.",
+            "hu": "Egy téli biciklitúra Beratban igazi felfrissülés. Az Osum menti hűvös levegő élénkítően hat. Délelőtt az Ólommecsethez és Mangalembe tekerünk. Délben Gorica folyóparti részén élvezzük a napsütést. A várba vezető délutáni emelkedő segít bemelegedni. A várba érve a tiszta téli levegő távoli panorámát enged, mielőtt megnéznénk az Onufri Múzeumot és a korai sötétedés előtt visszaindulnánk.",
+            "ro": "O tură de iarnă cu bicicleta prin Berat este revigorantă. Aerul rece de pe Osum trezește simțurile. Dimineața pedalăm spre Moscheea de Plumb și prin Mangalem. La prânz ne bucurăm de soare pe malul râului în Gorica. Urcarea spre cetate de după-amiază pune sângele în mișcare. Odată ajunși sus, aerul clar de iarnă oferă panorame spectaculoase, înainte de vizita la Muzeul Onufri și retragerea înainte de lăsarea serii.",
+            "en": "A winter bike tour through Berat is truly refreshing. The crisp air along the Osum invigorates the senses. Cycle to the Lead Mosque and through Mangalem in the morning. At noon, enjoy the sun on the riverbank in Gorica. The afternoon climb to the castle gets the heart pumping. Once at the top, the clear winter air offers distant panoramas before visiting the Onufri Museum and heading back before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Lead Mosque",
+              "tip_5lang": {
+                "de": "Schattenparkplätze meiden, es wird schnell kalt.",
+                "hu": "Kerüld az árnyékos parkolást, hamar lehűl a gép.",
+                "ro": "Evitați parcarea la umbră, bicicleta se răcește repede.",
+                "en": "Avoid parking in the shade; the bike cools down fast."
+              }
+            },
+            {
+              "name": "Mangalem Quarter",
+              "tip_5lang": {
+                "de": "In engen Gassen weht oft ein kalter Zug.",
+                "hu": "A szűk utcákban gyakran hideg huzat van.",
+                "ro": "Curenți de aer rece frecvenți pe străzile înguste.",
+                "en": "Cold drafts are common in the narrow alleys."
+              }
+            },
+            {
+              "name": "Gorica Bridge",
+              "tip_5lang": {
+                "de": "Fahrtwind auf der Brücke ist sehr kühl.",
+                "hu": "A menetszél a hídon nagyon hideg.",
+                "ro": "Curentul de aer pe pod este foarte rece.",
+                "en": "The wind while crossing the bridge is very chilly."
+              }
+            },
+            {
+              "name": "Gorica Quarter",
+              "tip_5lang": {
+                "de": "Sonnige Abschnitte für Pausen nutzen.",
+                "hu": "A napsütötte részeket használd pihenésre.",
+                "ro": "Folosiți porțiunile însorite pentru pauze.",
+                "en": "Use sunny sections for your breaks."
+              }
+            },
+            {
+              "name": "Ride along the Osum River",
+              "tip_5lang": {
+                "de": "Winddichte Kleidung ist hier entscheidend.",
+                "hu": "Itt elengedhetetlen a szélálló ruházat.",
+                "ro": "Îmbrăcămintea rezistentă la vânt e esențială aici.",
+                "en": "Windproof clothing is essential here."
+              }
+            },
+            {
+              "name": "Berat Castle (lower entrance)",
+              "tip_5lang": {
+                "de": "Körperwärme beim Aufstieg halten.",
+                "hu": "Tartsd meg a testhőt az emelkedőn.",
+                "ro": "Mențineți căldura corporală în timpul urcării.",
+                "en": "Keep your body heat up during the climb."
+              }
+            },
+            {
+              "name": "Onufri National Iconographic Museum",
+              "tip_5lang": {
+                "de": "Fahrradschloss kann bei Frost klemmen.",
+                "hu": "A biciklizár fagyban nehezen nyílhat.",
+                "ro": "Antifurtul se poate bloca la temperaturi joase.",
+                "en": "The bike lock might jam in freezing temperatures."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe gegen den kalten Fahrtwind.",
+              "Die Wege am Fluss können am frühen Morgen gefroren sein.",
+              "Trinken Sie ausreichend, auch wenn es kalt ist.",
+              "Planen Sie die Rückfahrt vor 16:30 Uhr ein.",
+              "Ein Buff-Tuch schützt Hals und Gesicht."
+            ],
+            "hu": [
+              "Viselj kesztyűt a hideg menetszél ellen.",
+              "A folyóparti utak kora reggel fagyosak lehetnek.",
+              "Igyál eleget, még hidegben is fontos a hidratálás.",
+              "Tervezd meg a visszautat 16:30 előtt.",
+              "Egy csősál jól védi a nyakat és az arcot."
+            ],
+            "ro": [
+              "Purtați mănuși împotriva curentului de aer rece.",
+              "Drumurile de pe malul râului pot fi înghețate dimineața.",
+              "Hidratați-vă suficient, chiar dacă e frig.",
+              "Planificați drumul de întoarcere înainte de ora 16:30.",
+              "Un fular tip burlan protejează gâtul și fața."
+            ],
+            "en": [
+              "Wear gloves to shield your hands from the cold wind.",
+              "Riverbank paths can be icy early in the morning.",
+              "Stay hydrated, even when it feels cold.",
+              "Plan your return trip before 4:30 PM.",
+              "A neck gaiter is great for protecting your face and neck."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1195,6 +1629,232 @@
           "Do not leave valuables visible in the car.",
           "The cluster-walking method is ideal for Berat as the two main areas are distinct."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Berat auch im Regen bequem zu erkunden. Wir starten am Mangalem-Parkplatz und besichtigen das Viertel sowie das Néprajzi-Museum, während es draußen prasselt. Mittags fahren wir kurz über die Brücke nach Gorica. Der größte Vorteil ist die Fahrt direkt zum Parkplatz der Burg, was den rutschigen Fußweg erspart. Den Nachmittag verbringen wir trocken im Onufri-Museum und den Kirchen der Festung, bevor wir den Tag entspannt ausklingen lassen.",
+            "hu": "Autóval Berat esőben is kényelmesen felfedezhető. A Mangalem parkolóból indulva nézzük meg a negyedet és a Néprajzi Múzeumot, miközben kint dobol az eső. Délben átgurulunk a hídon Gorica felé. A legnagyobb előny a vár felső parkolójáig vezető út, így megússzuk a csúszós gyaloglást. A délutánt az Onufri Múzeumban és a vár templomaiban töltjük szárazon, majd kényelmesen fejezzük be a napot.",
+            "ro": "Cu mașina, Berat poate fi explorat confortabil chiar și pe ploaie. Începem de la parcarea Mangalem și vizităm cartierul și Muzeul Etnografic în timp ce afară plouă. La prânz traversăm podul spre Gorica. Cel mai mare avantaj este accesul auto direct în parcarea cetății, evitând urcarea pe jos prin ploaie. După-amiaza o petrecem la adăpost în Muzeul Onufri și în bisericile cetății.",
+            "en": "Exploring Berat by car is comfortable even in the rain. Starting from Mangalem Parking, visit the quarter and the Ethnographic Museum while it pours outside. At noon, drive across to Gorica. The biggest advantage is driving straight to the castle's upper parking lot, skipping the slippery walk up. Spend the afternoon dry inside the Onufri Museum and the fortress churches before a relaxed evening."
+          },
+          "stops": [
+            {
+              "name": "Mangalem Parking",
+              "tip_5lang": {
+                "de": "In Parkplatznähe gibt es oft große Pfützen.",
+                "hu": "A parkoló környékén nagy tócsák lehetnek.",
+                "ro": "Bălți mari pot apărea în zona parcării.",
+                "en": "Expect large puddles near the parking area."
+              }
+            },
+            {
+              "name": "Mangalem Quarter",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Auto und Sehenswürdigkeit.",
+                "hu": "Rövid séta az autó és a látnivalók között.",
+                "ro": "Distanțe scurte între mașină și obiective.",
+                "en": "Short walks between the car and the sights."
+              }
+            },
+            {
+              "name": "National Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Direkte Zufahrt bis fast zum Eingang möglich.",
+                "hu": "Szinte a bejáratig lehet hajtani.",
+                "ro": "Acces auto aproape până la intrare.",
+                "en": "Vehicle access is possible almost to the entrance."
+              }
+            },
+            {
+              "name": "Gorica Quarter (across the bridge)",
+              "tip_5lang": {
+                "de": "Parkplatzsuche bei Regen oft einfacher.",
+                "hu": "Esőben gyakran könnyebb parkolót találni.",
+                "ro": "Găsirea parcării e adesea mai ușoară pe ploaie.",
+                "en": "Finding a parking spot is often easier in the rain."
+              }
+            },
+            {
+              "name": "Berat Castle (Parking)",
+              "tip_5lang": {
+                "de": "Sicherster Weg zur Burg bei Nässe.",
+                "hu": "A legbiztonságosabb út a várba esőben.",
+                "ro": "Cea mai sigură cale spre cetate pe timp umed.",
+                "en": "The safest way to reach the castle when it's wet."
+              }
+            },
+            {
+              "name": "Onufri National Iconographic Museum",
+              "tip_5lang": {
+                "de": "Kein langer Fußweg im Regen nötig.",
+                "hu": "Nem kell hosszan gyalogolni az esőben.",
+                "ro": "Nu e nevoie de mers mult pe jos prin ploaie.",
+                "en": "No need for a long walk in the rain."
+              }
+            },
+            {
+              "name": "St. Mary of Blachernae Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen, Boden ist glatt.",
+                "hu": "Vigyázz kiszálláskor, a talaj csúszós.",
+                "ro": "Atenție la coborâre, solul este alunecos.",
+                "en": "Be careful when getting out; the ground is slick."
+              }
+            },
+            {
+              "name": "Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang.",
+                "hu": "Parkolj a lehető legközelebb a bejárathoz.",
+                "ro": "Parcați cât mai aproape de intrare.",
+                "en": "Park as close to the entrance as possible."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die steilen Straßen zur Burg können bei Regen rutschig sein.",
+              "Nutzen Sie den oberen Parkplatz der Burg (Kala).",
+              "Halten Sie einen Regenschirm im Auto bereit.",
+              "Die Sicht kann durch beschlagene Scheiben eingeschränkt sein.",
+              "Einige Gassen in Mangalem sind für Autos gesperrt."
+            ],
+            "hu": [
+              "A várba vezető meredek utak esőben csúszósak lehetnek.",
+              "Használd a vár felső parkolóját (Kala).",
+              "Tarts esernyőt az autóban az átszállásokhoz.",
+              "A párásodó ablakok ronthatják a kilátást.",
+              "Mangalem néhány szűk utcája le van zárva az autók elől."
+            ],
+            "ro": [
+              "Străzile abrupte spre cetate pot fi alunecoase pe ploaie.",
+              "Folosiți parcarea superioară a cetății (Kala).",
+              "Țineți o umbrelă în mașină pentru transferuri.",
+              "Geamurile aburite pot limita vizibilitatea.",
+              "Unele străduțe din Mangalem sunt închise mașinilor."
+            ],
+            "en": [
+              "Steep roads to the castle can be slick in the rain.",
+              "Use the upper castle parking lot (Kala).",
+              "Keep an umbrella in the car for transfers.",
+              "Foggy windows may limit your view of the scenery.",
+              "Some narrow alleys in Mangalem are restricted for cars."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Berat im Winter mit dem Auto bietet Flexibilität und Wärme. Wir starten den Morgen in Mangalem und besuchen das Néprajzi-Museum. Mittags ermöglicht das Auto einen schnellen Wechsel zum sonnigen Gorica-Viertel. Der Nachmittag wird auf der Burg verbracht, wobei die Fahrt nach oben die kalte Wanderung ersetzt. Vom Burgparkplatz aus sind Onufri-Museum und Kirchen leicht erreichbar. Zum Sonnenuntergang bietet das Auto einen warmen Rückzugsort nach der Besichtigung der Heiligen Dreifaltigkeit.",
+            "hu": "A téli Berat autóval rugalmasságot és meleget kínál. A reggelt Mangalemben indítjuk, meglátogatva a Néprajzi Múzeumot. Délben az autóval gyorsan átérünk a napsütötte Gorica negyedbe. A délutánt a várban töltjük, a felhajtás megkímél a hideg hegymenettől. A várparkolóból az Onufri Múzeum és a templomok könnyen elérhetőek. Naplemente után az autó meleg menedéket nyújt a Szentháromság-templom megtekintése után.",
+            "ro": "Beratul iarna cu mașina oferă flexibilitate și confort termic. Începem dimineața în Mangalem cu vizita la Muzeul Etnografic. La prânz, mașina ne permite un transfer rapid spre cartierul însorit Gorica. După-amiaza este dedicată cetății, urcarea auto înlocuind marșul prin frig. Din parcarea cetății, Muzeul Onufri și bisericile sunt ușor accesibile. După apus, mașina e un refugiu cald după vizita la Sfânta Treime.",
+            "en": "Winter in Berat by car offers flexibility and warmth. Start the morning in Mangalem with a visit to the Ethnographic Museum. At noon, the car allows a quick transfer to the sunny Gorica district. The afternoon is spent at the castle; driving up replaces the chilly hike. From the castle parking, the Onufri Museum and churches are easily accessible. After sunset, the car provides a warm retreat following the visit to Holy Trinity Church."
+          },
+          "stops": [
+            {
+              "name": "Mangalem Parking",
+              "tip_5lang": {
+                "de": "Scheiben können morgens leicht gefroren sein.",
+                "hu": "Reggelente vékony jégréteg lehet a szélvédőn.",
+                "ro": "Parbrizul poate fi ușor înghețat dimineața.",
+                "en": "Windshields might be slightly frosted in the morning."
+              }
+            },
+            {
+              "name": "Mangalem Quarter",
+              "tip_5lang": {
+                "de": "Schattenparkplätze bleiben lange frostig.",
+                "hu": "Az árnyékos parkolók sokáig fagyosak maradnak.",
+                "ro": "Parcările la umbră rămân înghețate mult timp.",
+                "en": "Shaded parking spots stay frosty for a long time."
+              }
+            },
+            {
+              "name": "National Ethnographic Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter eher kühl, Jacke anlassen.",
+                "hu": "A múzeum télen hűvös, ne vedd le a kabátot.",
+                "ro": "Muzeul e destul de rece iarna, păstrați haina.",
+                "en": "The museum is quite chilly in winter; keep your coat on."
+              }
+            },
+            {
+              "name": "Gorica Quarter (across the bridge)",
+              "tip_5lang": {
+                "de": "Sonne am Mittag zum Aufwärmen nutzen.",
+                "hu": "Használd ki a déli napsütést a felmelegedéshez.",
+                "ro": "Profitați de soarele de la prânz pentru încălzire.",
+                "en": "Take advantage of the noon sun to warm up."
+              }
+            },
+            {
+              "name": "Berat Castle (Parking)",
+              "tip_5lang": {
+                "de": "Einfacher Zugang ohne anstrengenden Kaltaufstieg.",
+                "hu": "Könnyű feljutás hideg hegymenet nélkül.",
+                "ro": "Acces ușor fără urcare obositoare prin frig.",
+                "en": "Easy access without a strenuous cold climb."
+              }
+            },
+            {
+              "name": "Onufri National Iconographic Museum",
+              "tip_5lang": {
+                "de": "Trockenes und windgeschütztes Programm.",
+                "hu": "Száraz és szélvédett program.",
+                "ro": "Program uscat și protejat de vânt.",
+                "en": "Dry and wind-protected activity."
+              }
+            },
+            {
+              "name": "St. Mary of Blachernae Church",
+              "tip_5lang": {
+                "de": "Kurzer Weg zurück zur Autoheizung.",
+                "hu": "Rövid séta vissza az autó fűtéséhez.",
+                "ro": "Drum scurt înapoi la căldura din mașină.",
+                "en": "Short walk back to the car's heater."
+              }
+            },
+            {
+              "name": "Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Sonnenuntergang genießen, dann schnell ins Auto.",
+                "hu": "Élvezd a naplementét, majd irány a meleg autó.",
+                "ro": "Admirați apusul, apoi fugiți la căldură.",
+                "en": "Enjoy the sunset, then head quickly to the warm car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Straßen in der Altstadt können morgens glatt sein.",
+              "Parken Sie wenn möglich in der Sonne.",
+              "Die Burgstraße ist steil, Winterreifen sind ratsam.",
+              "Nutzen Sie die Sitzheizung nach langen Spaziergängen."
+            ],
+            "hu": [
+              "Ellenőrizd a fagyállót a szélvédőmosóban.",
+              "Az óvárosi utak reggelente jegesek lehetnek.",
+              "Ha teheted, parkolj napos helyen.",
+              "A várút meredek, a téli gumi ajánlott.",
+              "Használd az ülésfűtést a hosszú séták után."
+            ],
+            "ro": [
+              "Verificați lichidul de parbriz rezistent la îngheț.",
+              "Drumurile din centrul vechi pot fi poleite dimineața.",
+              "Parcați la soare dacă este posibil.",
+              "Drumul spre cetate e abrupt, anvelopele de iarnă sunt recomandate.",
+              "Folosiți încălzirea în scaune după plimbările lungi."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer fluid.",
+              "Old town roads can be icy in the early mornings.",
+              "Park in sunny spots whenever possible.",
+              "The castle road is steep; winter tires are advised.",
+              "Use the seat heaters after long walks outside."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1575,6 +2235,214 @@
           "Public transport in Berat is limited, so be prepared for some walking.",
           "The bus to the castle is a great relief for tired legs."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind bei Regen in Berat ein Segen. Der lokale Bus verbindet das Stadtzentrum effizient mit dem Burgberg. Vormittags erkunden wir Mangalem und die Moschee, wobei wir Buswartehäuschen als Schutz nutzen. Mittags spazieren wir kurz durch Gorica, bevor wir den Bus zur Burg nehmen. Der Nachmittag im Onufri-Museum bleibt trocken. Den Abend lassen wir in der Nähe einer Bushaltestelle ausklingen, um schnell wieder ins Trockene zu kommen.",
+            "hu": "A tömegközlekedés Beratban esőben igazi áldás. A helyi busz hatékonyan összeköti a központot a várheggyel. Délelőtt Mangalemet és a mecsetet nézzük meg, a buszmegállókat menedékként használva. Délben teszünk egy rövid kört Goricában, majd busszal megyünk fel a várba. Az Onufri Múzeumban töltött délután száraz marad. Az estét egy buszmegálló közelében zárjuk, hogy gyorsan fedél alá kerüljünk.",
+            "ro": "Transportul public din Berat este o binecuvântare pe ploaie. Autobuzul local face legătura eficient între centru și dealul cetății. Dimineața explorăm Mangalem și moscheea, folosind stațiile ca adăpost. La prânz facem o scurtă plimbare în Gorica, apoi luăm autobuzul spre cetate. După-amiaza la Muzeul Onufri rămâne uscată. Încheiem seara aproape de o stație de autobuz pentru a ajunge rapid la adăpost.",
+            "en": "Public transit in Berat is a blessing during the rain. The local bus efficiently connects the city center with the castle hill. In the morning, explore Mangalem and the mosque, using bus shelters for cover. At noon, take a quick stroll through Gorica before catching the bus up to the castle. The afternoon in the Onufri Museum stays dry. End the evening near a bus stop for a quick transit back to shelter."
+          },
+          "stops": [
+            {
+              "name": "Mangalem Quarter",
+              "tip_5lang": {
+                "de": "Bushaltestelle bietet Schutz vor dem Regen.",
+                "hu": "A buszmegálló védelmet nyújt az eső elől.",
+                "ro": "Stația de autobuz oferă protecție contra ploii.",
+                "en": "The bus stop provides shelter from the rain."
+              }
+            },
+            {
+              "name": "Bachelors' Mosque",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle.",
+                "hu": "Rövid séta a megállótól.",
+                "ro": "Drum scurt pe jos de la stație.",
+                "en": "Short walk from the transit stop."
+              }
+            },
+            {
+              "name": "Gorica Quarter",
+              "tip_5lang": {
+                "de": "Einige Haltestellen haben keine Überdachung.",
+                "hu": "Néhány megálló nem fedett.",
+                "ro": "Unele stații nu au acoperiș.",
+                "en": "Some stops lack overhead cover."
+              }
+            },
+            {
+              "name": "Bus Stop to Castle",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Dach auf den Bus.",
+                "hu": "Várd a buszt a tető alatt.",
+                "ro": "Așteptați autobuzul sub acoperiș.",
+                "en": "Wait for the bus under the shelter."
+              }
+            },
+            {
+              "name": "Berat Castle",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt am Haupteingang.",
+                "hu": "A busz közvetlenül a főbejáratnál áll meg.",
+                "ro": "Autobuzul oprește chiar la intrarea principală.",
+                "en": "The bus stops right at the main entrance."
+              }
+            },
+            {
+              "name": "Onufri National Iconographic Museum",
+              "tip_5lang": {
+                "de": "Trockener Aufenthalt im Museum garantiert.",
+                "hu": "Száraz időtöltés a múzeumban garantált.",
+                "ro": "Timp petrecut la adăpost în muzeu.",
+                "en": "Guaranteed dry time inside the museum."
+              }
+            },
+            {
+              "name": "Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten für den Rückweg.",
+                "hu": "Ellenőrizd a visszainduló busz menetrendjét.",
+                "ro": "Verificați programul autobuzului de retur.",
+                "en": "Check the return bus schedule carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse fahren regelmäßig zwischen Stadt und Burg.",
+              "Halten Sie Kleingeld für das Ticket bereit.",
+              "In den Bussen kann es bei Regen sehr voll sein.",
+              "Die Haltestellen in der Nähe der Brücke sind am zentralsten.",
+              "Nutzen Sie Offline-Karten für die Haltestellensuche."
+            ],
+            "hu": [
+              "A buszok rendszeresen járnak a város és a vár között.",
+              "Legyen nálad aprópénz a jegyhez.",
+              "Esőben a buszok nagyon zsúfoltak lehetnek.",
+              "A híd környéki megállók a legközpontibbak.",
+              "Használj offline térképet a megállók megtalálásához."
+            ],
+            "ro": [
+              "Autobuzele circulă regulat între oraș și cetate.",
+              "Aveți pregătit mărunt pentru bilet.",
+              "Autobuzele pot fi foarte aglomerate pe ploaie.",
+              "Stațiile de lângă pod sunt cele mai centrale.",
+              "Folosiți hărți offline pentru a localiza stațiile."
+            ],
+            "en": [
+              "Buses run regularly between the city and the castle.",
+              "Keep small change ready for the bus ticket.",
+              "Buses can get very crowded during rain showers.",
+              "Stops near the bridge are the most central.",
+              "Use offline maps to locate the transit stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Transit im winterlichen Berat ist eine warme Alternative zum Wandern. Der Morgen beginnt in Mangalem, gut erreichbar mit dem Stadtbus. Mittags fahren wir nach Gorica, um die Wintersonne am Fluss zu genießen. Da der Aufstieg zur Burg im Winterwind anstrengend ist, nutzen wir den Nachmittagsbus nach oben. Das Onufri-Museum bietet kulturelle Wärme. Den frühen Abend verbringen wir bei der Heiligen Dreifaltigkeit, bevor uns der letzte Bus vor der Dunkelheit zurückbringt.",
+            "hu": "A tömegközlekedés a téli Beratban meleg alternatívája a gyaloglásnak. A reggel Mangalemben indul, ami könnyen elérhető a városi busszal. Délben Goricába utazunk, hogy élvezzük a téli napsütést a folyónál. Mivel a várba vezető út a téli szélben fárasztó, a délutáni busszal megyünk fel. Az Onufri Múzeum kulturális feltöltődést kínál. Az estét a Szentháromság-templomnál töltjük, mielőtt az utolsó busz visszavisz a sötétedés előtt.",
+            "ro": "Transportul în comun în Beratul de iarnă este o alternativă caldă la mersul pe jos. Dimineața începe în Mangalem, ușor accesibil cu autobuzul urban. La prânz mergem în Gorica pentru a profita de soarele de iarnă de lângă râu. Deoarece urcarea spre cetate prin vântul tăios e grea, folosim autobuzul de după-amiază. Muzeul Onufri oferă un refugiu cultural cald. Încheiem seara la Sfânta Treime înainte ca ultimul autobuz să ne ducă înapoi.",
+            "en": "Transit in winter Berat is a warm alternative to hiking. The morning begins in Mangalem, easily reachable by city bus. At noon, travel to Gorica to enjoy the winter sun by the river. Since climbing to the castle in the winter wind is exhausting, catch the afternoon bus up. The Onufri Museum offers cultural warmth. Spend the early evening at Holy Trinity Church before the last bus takes you back before dark."
+          },
+          "stops": [
+            {
+              "name": "Mangalem Quarter",
+              "tip_5lang": {
+                "de": "Busse sind im Winter oft angenehm beheizt.",
+                "hu": "A buszok télen gyakran kellemesen fűtöttek.",
+                "ro": "Autobuzele sunt adesea încălzite iarna.",
+                "en": "Buses are often pleasantly heated in winter."
+              }
+            },
+            {
+              "name": "Bachelors' Mosque",
+              "tip_5lang": {
+                "de": "Wartezeit an der Haltestelle kurz halten.",
+                "hu": "Minimálisra csökkentsd a várakozást a megállóban.",
+                "ro": "Minimizați timpul de așteptare în stație.",
+                "en": "Keep wait times at the stop to a minimum."
+              }
+            },
+            {
+              "name": "Gorica Quarter",
+              "tip_5lang": {
+                "de": "Winterfahrplan kann von Sommerzeiten abweichen.",
+                "hu": "A téli menetrend eltérhet a nyáritól.",
+                "ro": "Orarele de iarnă pot diferi de cele de vară.",
+                "en": "Winter schedules may differ from summer times."
+              }
+            },
+            {
+              "name": "Bus Stop to Castle",
+              "tip_5lang": {
+                "de": "Warten Sie in der Sonne auf den Bus.",
+                "hu": "Várd a buszt a napsütötte részeken.",
+                "ro": "Așteptați autobuzul în zonele însorite.",
+                "en": "Wait for the bus in sunny spots if possible."
+              }
+            },
+            {
+              "name": "Berat Castle",
+              "tip_5lang": {
+                "de": "Busfahrt spart den kalten Aufstieg zu Fuß.",
+                "hu": "A buszoal megúszod a hideg gyaloglást.",
+                "ro": "Drumul cu autobuzul vă scutește de urcarea prin frig.",
+                "en": "The bus ride saves you from a cold hike uphill."
+              }
+            },
+            {
+              "name": "Onufri National Iconographic Museum",
+              "tip_5lang": {
+                "de": "Ein Ort zum Aufwärmen zwischen den Besichtigungen.",
+                "hu": "Hely a felmelegedéshez a látnivalók között.",
+                "ro": "Un loc bun pentru încălzire între vizite.",
+                "en": "A place to warm up between sightseeing stops."
+              }
+            },
+            {
+              "name": "Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Letzten Bus vor Sonnenuntergang nicht verpassen.",
+                "hu": "Ne késd le az utolsó buszt naplemente előtt.",
+                "ro": "Nu ratați ultimul autobuz înainte de apus.",
+                "en": "Don't miss the last bus before sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busfrequenz kann im Winter etwas niedriger sein.",
+              "Suchen Sie Haltestellen in windgeschützten Lagen.",
+              "Die Heizung im Bus ist ein guter Moment zum Aufwärmen.",
+              "Ab 17:00 Uhr fahren weniger Busse zur Burg.",
+              "Fragen Sie Einheimische nach aktuellen Abfahrtszeiten."
+            ],
+            "hu": [
+              "Télen a buszok ritkábban járhatnak.",
+              "Keress szélvédett buszmegállókat.",
+              "A busz fűtése jó alkalom a felmelegedésre.",
+              "17:00 után kevesebb busz jár a várba.",
+              "Kérdezd a helyieket a pontos indulási időkről."
+            ],
+            "ro": [
+              "Frecvența autobuzelor poate fi mai mică iarna.",
+              "Căutați stații de autobuz ferite de vânt.",
+              "Încălzirea din autobuz e binevenită pentru dezghețare.",
+              "După ora 17:00 sunt mai puține autobuze spre cetate.",
+              "Întrebați localnicii despre orele exacte de plecare."
+            ],
+            "en": [
+              "Bus frequency might be slightly lower in winter.",
+              "Look for bus stops in wind-sheltered locations.",
+              "The bus heater provides a great moment to warm up.",
+              "Fewer buses run to the castle after 5:00 PM.",
+              "Ask locals for the most up-to-date departure times."
+            ]
+          }
+        }
       }
     }
   }

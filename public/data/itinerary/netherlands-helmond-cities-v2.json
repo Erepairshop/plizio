@@ -362,6 +362,188 @@
           "Check the opening hours of museums in advance.",
           "Bring a reusable water bottle."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Kasteel Helmond mit seinen dicken Mauern perfekten Schutz vor Regen. Mittags erkunden Sie die St. Lambertuskirche und die schützenden Überhänge der Würfelhäuser. Nachmittags laden die Museen im Zentrum zu einer trockenen Zeitreise in die Industrie- und Kunstgeschichte ein. Den Abend beschließen Sie mit einem kurzen Spaziergang im Park, wo die alten Alleen Schutz bieten.",
+            "hu": "Reggel a Helmond-kastély vaskos falai és belső terei nyújtanak menedéket a záporok elől. Délben a Szent Lambert-templom és a kockaházak geometriai formái alatt maradhat szárazon. Délután a városi múzeum és az ipari emlékház kínál tartalmas, fedett programot. Az estét a Warandepark fái alatt zárhatja, ahol a sűrű lombkorona felfogja az esőcseppek nagy részét.",
+            "ro": "Dimineața începe la Castelul Helmond, unde șanțul cu apă arată spectaculos sub ploaie, iar interiorul este uscat. La prânz, biserica și casele cubice oferă adăpost vizual și fizic. După-amiaza este dedicată muzeelor locale, ideale pentru a evita vremea umedă. Seara se încheie în Warandepark, unde aerul curat de după ploaie este extrem de revigorant sub umbrela arborilor bătrâni.",
+            "en": "In the morning, the thick walls of Helmond Castle provide a dry sanctuary while the rain dances on the moat. At noon, the church and the overhangs of the Cube Houses offer shelter from the showers. The afternoon is best spent exploring industrial heritage in the city's museums. Finish the evening with a walk in Warandepark, where the canopy provides a natural shield against the drizzle."
+          },
+          "stops": [
+            {
+              "name": "Kasteel Helmond",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Innenhof bei starken Güssen.",
+                "hu": "Használja a fedett udvart a nagyobb záporok idején.",
+                "ro": "Folosiți curtea interioară acoperită în timpul averselor.",
+                "en": "Use the covered inner courtyard during heavy downpours."
+              }
+            },
+            {
+              "name": "Sint-Lambertuskerk",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort für Besinnung.",
+                "hu": "Csendes, száraz hely az elmélyüléshez.",
+                "ro": "Un loc liniștit și uscat pentru reflecție.",
+                "en": "A quiet, dry place for reflection."
+              }
+            },
+            {
+              "name": "Cube Houses (Kubuswoningen)",
+              "tip_5lang": {
+                "de": "Die Architektur bietet guten Schutz vor vertikalem Regen.",
+                "hu": "Az építészet jó védelmet nyújt a függőleges eső ellen.",
+                "ro": "Arhitectura oferă o bună protecție împotriva ploii verticale.",
+                "en": "The architecture provides good shelter from vertical rain."
+              }
+            },
+            {
+              "name": "Museum Helmond",
+              "tip_5lang": {
+                "de": "Idealer Ort, um mehrere Stunden im Trockenen zu verbringen.",
+                "hu": "Ideális hely több óra száraz eltöltéséhez.",
+                "ro": "Loc ideal pentru a petrece câteva ore la adăpost.",
+                "en": "Ideal place to spend several hours in the dry."
+              }
+            },
+            {
+              "name": "Industrieel Atrium",
+              "tip_5lang": {
+                "de": "Vollständig überdachte Ausstellung zur Textilgeschichte.",
+                "hu": "Teljesen fedett kiállítás a textilipar történetéről.",
+                "ro": "Expoziție complet acoperită despre istoria textilă.",
+                "en": "Fully covered exhibition on textile history."
+              }
+            },
+            {
+              "name": "Warandepark",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind auch bei Nässe gut begehbar.",
+                "hu": "Az aszfaltozott utak esőben is jól járhatóak.",
+                "ro": "Potecile asfaltate sunt ușor de parcurs și pe ploaie.",
+                "en": "The paved paths are easily walkable even when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Buienradar für Regenpausen.",
+              "Tragen Sie wasserfeste Schuhe, da Kopfsteinpflaster rutschig wird.",
+              "Die Cafés rund um den Markt bieten gemütliche Unterstände.",
+              "Regenschirme sind bei Wind in den offenen Straßen wenig effektiv."
+            ],
+            "hu": [
+              "Ellenőrizze a Buienradart az esőszünetek tervezéséhez.",
+              "Viseljen vízálló cipőt, a macskakő csúszóssá válhat.",
+              "A piaci kávézók remek menedéket nyújtanak.",
+              "Szeles időben az esernyő helyett a kapucni praktikusabb."
+            ],
+            "ro": [
+              "Verificați Buienradar pentru a planifica pauzele de ploaie.",
+              "Purtați încălțăminte impermeabilă, pavajul devine alunecos.",
+              "Cafenelele din jurul pieței oferă adăposturi primitoare.",
+              "În caz de vânt, o pelerină este mai utilă decât o umbrelă."
+            ],
+            "en": [
+              "Check Buienradar to time your movements between stops.",
+              "Wear waterproof shoes as cobblestones can be slippery.",
+              "Market-side cafes are perfect for waiting out heavy rain.",
+              "Hoods are often more practical than umbrellas in windy Dutch rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Kasteel Helmond wirkt durch den Frost auf den Backsteinen besonders historisch. Mittags wärmen Sie sich in der Lambertuskirche oder in den gemütlichen Cafés bei den Würfelhäusern auf. Der Nachmittag gehört den warmen Museumssälen, während draußen die Dämmerung früh einsetzt. Am Abend leuchten die Lichter im Warandepark und führen Sie sicher durch die kühle Winterluft.",
+            "hu": "A téli reggel a Helmond-kastélynál a déres téglafalakkal igazi történelmi hangulatot áraszt. Délben a Lambert-templom békéje vagy a kockaházak melletti fűtött kávézók nyújtanak meleget. A délutánt töltse a múzeumok fűtött termeiben, miközben odakint korán sötétedik. Este a Warandepark kivilágított ösvényei vezetnek át a friss, csípős téli levegőn.",
+            "ro": "O dimineață de iarnă la Castelul Helmond are un farmec aparte datorită chiciurei de pe cărămizi. La prânz, interiorul bisericii sau cafenelele încălzite de lângă casele cubice oferă confort. După-amiaza este ideală pentru galeriile muzeului, în timp ce amurgul coboară devreme. Seara, luminile din Warandepark creează o atmosferă feerică în aerul rece de decembrie.",
+            "en": "Winter mornings at Helmond Castle feel extra historic with frost on the bricks. At noon, warm up inside the Lambertuskerk or cozy cafes near the Cube Houses. Spend the afternoon in heated museum galleries as the early twilight settles over the city. In the evening, the lights in Warandepark guide you through the crisp and chilly winter air."
+          },
+          "stops": [
+            {
+              "name": "Kasteel Helmond",
+              "tip_5lang": {
+                "de": "Die Innenräume sind beheizt, aber ziehen Sie sich warm an.",
+                "hu": "A belső terek fűtöttek, de öltözzön rétegesen.",
+                "ro": "Interioarele sunt încălzite, dar îmbrăcați-vă gros.",
+                "en": "Interiors are heated, but dress in warm layers."
+              }
+            },
+            {
+              "name": "Sint-Lambertuskerk",
+              "tip_5lang": {
+                "de": "Oft festlich geschmückt in der Adventszeit.",
+                "hu": "Advent idején gyakran ünnepi díszben látható.",
+                "ro": "Adesea decorată festiv în perioada Adventului.",
+                "en": "Often festively decorated during the Advent season."
+              }
+            },
+            {
+              "name": "Cube Houses (Kubuswoningen)",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Treppenstufen bei Frost.",
+                "hu": "Vigyázat, a lépcsőfokok fagyban csúszósak lehetnek.",
+                "ro": "Atenție la treptele care pot fi alunecoase pe îngheț.",
+                "en": "Watch out for stairs that might be slippery in frost."
+              }
+            },
+            {
+              "name": "Museum Helmond",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Kakao im Museumscafé.",
+                "hu": "Élvezzen egy forró kakaót a múzeum kávézójában.",
+                "ro": "Savurați o ciocolată caldă la cafeneaua muzeului.",
+                "en": "Enjoy a hot cocoa at the museum cafe."
+              }
+            },
+            {
+              "name": "Industrieel Atrium",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Gebäuden einplanen.",
+                "hu": "Tervezzen rövid utakat az épületek között.",
+                "ro": "Planificați trasee scurte între clădiri.",
+                "en": "Plan short walking bursts between indoor sections."
+              }
+            },
+            {
+              "name": "Warandepark",
+              "tip_5lang": {
+                "de": "Der Park schließt bei Einbruch der Dunkelheit teils früher.",
+                "hu": "A park bizonyos részei sötétedéskor korábban zárhatnak.",
+                "ro": "Unele zone din parc se pot închide mai devreme la lăsarea serii.",
+                "en": "Some park areas might close earlier at dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sonnenuntergang ist bereits gegen 16:30 Uhr.",
+              "Tragen Sie Thermokleidung für längere Außenaufenthalte.",
+              "Kopfsteinpflaster kann bei Frost sehr glatt sein.",
+              "Öffnungszeiten können an Feiertagen variieren."
+            ],
+            "hu": [
+              "A nap már 16:30 körül nyugszik.",
+              "Viseljen termaruházatot a hosszabb kinti tartózkodáshoz.",
+              "A macskakő fagyban rendkívül csúszós lehet.",
+              "Az ünnepi nyitvatartást érdemes előre ellenőrizni."
+            ],
+            "ro": [
+              "Apusul soarelui este în jurul orei 16:30.",
+              "Purtați haine termice pentru perioade lungi afară.",
+              "Pavajul poate fi foarte alunecos pe timp de îngheț.",
+              "Verificați programul de sărbători înainte de vizită."
+            ],
+            "en": [
+              "Sunset occurs as early as 16:30 in mid-winter.",
+              "Wear thermal layers for extended outdoor segments.",
+              "Cobblestones can be extremely slippery when frosted.",
+              "Check holiday opening hours for museums and castle."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +924,206 @@
           "Wear a helmet for safety.",
           "Be mindful of the complex intersections in the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen in Helmond hält echte Radfahrer nicht auf. Morgens glänzt das Kasteel im nassen Licht, während Sie schnell zum Schutz der Kirche radeln. Mittags bieten die Würfelhäuser und das Theater kurze Unterstände. Der Nachmittag im Industrieel Atrium und Jan Visser Museum ist perfekt, um das Rad sicher und trocken zu parken. Den Tag beenden Sie mit einer erfrischenden Fahrt durch den nassen Warandepark.",
+            "hu": "Az eső Helmondban nem akadály a bicikliseknek. Reggel a kastély vizes árka mellett tekerve érezheti az elemeket, mielőtt a templomhoz érne. Délben a kockaházak és a színház környéke kínál gyors fedezéket. A délutáni múzeumlátogatások alatt a kerékpár is pihenhet a fedett tárolókban. A napot egy frissítő tekeréssel zárhatja a párás levegőjű Warandeparkban.",
+            "ro": "Ploaia în Helmond nu oprește bicicliștii pasionați. Dimineața, castelul strălucește sub stropi, iar drumul spre biserică este rapid. La prânz, casele cubice și teatrul oferă refugii temporare. După-amiaza la Atrium și Muzeul Jan Visser este ideală pentru a lăsa bicicleta la adăpost. Încheiați ziua cu o tură revigorantă prin Warandepark, profitând de pistele libere.",
+            "en": "Rain in Helmond doesn't stop dedicated cyclists. In the morning, the castle shines in the wet light as you pedal toward the church. At noon, the Cube Houses and theatre provide quick overhead cover. The afternoon at the Industrial Atrium and Jan Visser Museum is perfect for keeping your bike and yourself dry. End the day with a refreshing ride through the misty Warandepark."
+          },
+          "stops": [
+            {
+              "name": "Kasteel Helmond",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer nahe dem Eingang.",
+                "hu": "Használja a bejárathoz közeli kerékpártárolókat.",
+                "ro": "Folosiți rastelele de biciclete de lângă intrare.",
+                "en": "Use the bike racks located close to the entrance."
+              }
+            },
+            {
+              "name": "Sint-Lambertuskerk",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Pflaster.",
+                "hu": "Vigyázat a leszálláskor a nedves kövezeten.",
+                "ro": "Atenție la descălecare pe pavajul umed.",
+                "en": "Be careful when dismounting on wet pavement."
+              }
+            },
+            {
+              "name": "Cube Houses",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter den vorspringenden Wänden.",
+                "hu": "Rövid megálló a kinyúló falak védelmében.",
+                "ro": "Scurt popas sub pereții proeminenți.",
+                "en": "Short stop under the projecting walls for cover."
+              }
+            },
+            {
+              "name": "Het Speelhuis Theatre",
+              "tip_5lang": {
+                "de": "Das Vordach bietet Schutz für eine kurze Pause.",
+                "hu": "Az előtető védelmet nyújt egy rövid pihenőhöz.",
+                "ro": "Copertina oferă protecție pentru o scurtă pauză.",
+                "en": "The overhang provides shelter for a quick break."
+              }
+            },
+            {
+              "name": "Industrieel Atrium",
+              "tip_5lang": {
+                "de": "Überdachte Parkmöglichkeiten oft vorhanden.",
+                "hu": "Gyakran van fedett parkolási lehetőség.",
+                "ro": "Posibilități de parcare acoperită în apropiere.",
+                "en": "Covered parking options are often available nearby."
+              }
+            },
+            {
+              "name": "Jan Visser Museum",
+              "tip_5lang": {
+                "de": "Drinnen ist es gemütlich und trocken.",
+                "hu": "Bent barátságos és száraz az idő.",
+                "ro": "Interiorul este primitor și uscat.",
+                "en": "The interior is cozy and perfectly dry."
+              }
+            },
+            {
+              "name": "Warandepark",
+              "tip_5lang": {
+                "de": "Achtung vor rutschigem Laub auf den Wegen.",
+                "hu": "Vigyázat a csúszós levelekkel az utakon.",
+                "ro": "Atenție la frunzele alunecoase de pe alei.",
+                "en": "Watch out for slippery leaves on the paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollständige Regenmontur (Hose und Jacke).",
+              "Prüfen Sie Ihre Bremsen, da der Bremsweg bei Nässe länger ist.",
+              "Scharfe Kurven auf nassem Kopfsteinpflaster vermeiden.",
+              "Nutzen Sie Packtaschen statt Rucksäcke für trockenen Rücken."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot (nadrág és dzseki).",
+              "Ellenőrizze a fékeket, nedves úton hosszabb a féktáv.",
+              "Kerülje az éles kanyarokat a nedves macskakövön.",
+              "Használjon kerékpáros táskát a hátizsák helyett."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie (pantaloni și jachetă).",
+              "Verificați frânele, distanța de frânare crește pe ud.",
+              "Evitați virajele strânse pe pavajul umed.",
+              "Folosiți genți de portbagaj pentru a vă menține spatele uscat."
+            ],
+            "en": [
+              "Wear full rain gear, including trousers and jacket.",
+              "Check your brakes as stopping distance increases when wet.",
+              "Avoid sharp turns on wet cobblestones.",
+              "Use panniers instead of a backpack to keep your back dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Helmond ist erfrischend. Morgens glitzert der Frost am Kasteel, während Sie durch die klare Luft radeln. Mittags bieten die Museen und das Theater willkommene Wärme. Nachmittags im Jan Visser Museum erfahren Sie mehr über das ländliche Leben, bevor die Sonne früh sinkt. Der Rückweg durch den beleuchteten Warandepark ist ein stimmungsvoller Abschluss des Tages.",
+            "hu": "A téli kerékpározás Helmondban felfrissíti a testet és lelket. Reggel a kastélynál csillog a dér, miközben a tiszta levegőn teker. Délben a múzeumok és a színház várja a felmelegedni vágyókat. Délután a Jan Visser Múzeumban elmerülhet a múltban, mielőtt korán lenyugszik a nap. A kivilágított Warandeparkon át vezető út hangulatos zárása a napnak.",
+            "ro": "Ciclismul de iarnă în Helmond este revigorant. Dimineața, chiciura sclipește lângă castel în aerul tăios. La prânz, muzeele și teatrul oferă căldura necesară. După-amiaza la Muzeul Jan Visser este o incursiune în viața rurală înainte de apusul timpuriu. Drumul de întoarcere prin Warandepark-ul luminat este un final de zi plin de atmosferă.",
+            "en": "Cycling in winter through Helmond is brisk and refreshing. In the morning, frost glitters by the castle as you pedal through the crisp air. At noon, museums and the theatre offer welcome warmth. Spend the afternoon at Jan Visser Museum before the early sunset. The ride back through the illuminated Warandepark is an atmospheric conclusion to your day."
+          },
+          "stops": [
+            {
+              "name": "Kasteel Helmond",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Pfützen auf dem Radweg.",
+                "hu": "Vigyázat a fagyott tócsákkal a kerékpárúton.",
+                "ro": "Atenție la bălțile înghețate de pe pistă.",
+                "en": "Watch out for frozen puddles on the cycle path."
+              }
+            },
+            {
+              "name": "Sint-Lambertuskerk",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Aufwärmen im Kirchenschiff.",
+                "hu": "Rövid megálló melegedni a templomhajóban.",
+                "ro": "Scurt popas pentru încălzire în naos.",
+                "en": "Short stop to warm up inside the nave."
+              }
+            },
+            {
+              "name": "Cube Houses",
+              "tip_5lang": {
+                "de": "Schattige Bereiche können länger glatt bleiben.",
+                "hu": "Az árnyékos részek tovább maradhatnak csúszósak.",
+                "ro": "Zonele umbrite pot rămâne înghețate mai mult timp.",
+                "en": "Shaded areas may remain slippery longer."
+              }
+            },
+            {
+              "name": "Het Speelhuis Theatre",
+              "tip_5lang": {
+                "de": "Prüfen Sie Abendvorstellungen für später.",
+                "hu": "Nézze meg az esti előadásokat későbbre.",
+                "ro": "Verificați spectacolele de seară pentru mai târziu.",
+                "en": "Check evening performances for later."
+              }
+            },
+            {
+              "name": "Industrieel Atrium",
+              "tip_5lang": {
+                "de": "Gute Heizung in den Ausstellungsräumen.",
+                "hu": "Jó fűtés a kiállítótermekben.",
+                "ro": "Încălzire bună în sălile de expoziție.",
+                "en": "Good heating in the exhibition rooms."
+              }
+            },
+            {
+              "name": "Jan Visser Museum",
+              "tip_5lang": {
+                "de": "Warme Getränke oft vor Ort erhältlich.",
+                "hu": "Gyakran kapható forró ital a helyszínen.",
+                "ro": "Băuturi calde disponibile adesea la fața locului.",
+                "en": "Hot drinks are often available on-site."
+              }
+            },
+            {
+              "name": "Warandepark",
+              "tip_5lang": {
+                "de": "Beleuchtung geht mit der Dämmerung an.",
+                "hu": "A közvilágítás sötétedéskor kapcsol be.",
+                "ro": "Iluminatul public se aprinde la amurg.",
+                "en": "Lighting turns on automatically at dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Funktionierendes Licht vorne und hinten ist Pflicht.",
+              "Tragen Sie warme Handschuhe und eine Mütze unter dem Helm.",
+              "Halten Sie die Kette gut geölt gegen Streusalz.",
+              "Planen Sie mehr Zeit für langsame Fahrten auf Eis ein."
+            ],
+            "hu": [
+              "Az első és hátsó világítás kötelező és életmentő.",
+              "Viseljen meleg kesztyűt és sapkát a sisak alatt.",
+              "Tartsa olajozottan a láncot a szórósó ellen.",
+              "Tervezzen több időt a jeges utakon való lassabb haladásra."
+            ],
+            "ro": [
+              "Luminile față și spate funcționale sunt obligatorii.",
+              "Purtați mănuși groase și o căciulă sub cască.",
+              "Mențineți lanțul uns pentru a-l proteja de sare.",
+              "Alocați mai mult timp pentru deplasarea prudentă pe gheață."
+            ],
+            "en": [
+              "Functional front and rear lights are mandatory and vital.",
+              "Wear warm gloves and a thin hat under your helmet.",
+              "Keep your chain well-oiled to protect against road salt.",
+              "Allow extra time for slower travel on icy patches."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1480,188 @@
           "Plan your route to avoid rush hour traffic.",
           "A car gives you the flexibility to also explore the surroundings of Helmond."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "An Regentagen ist das Auto in Helmond ideal, um trocken zwischen den Clustern zu wechseln. Morgens parken Sie im Zentrum und erreichen das Kasteel in wenigen Schritten. Mittags besuchen Sie die Kirche und die Würfelhäuser, fast ohne nass zu werden. Nachmittags fahren Sie zum Warandepark, wo das Mittagessen und der Blick ins Grüne auch bei Regen entspannend sind. Der Abend klingt gemütlich im Auto oder einem Restaurant aus.",
+            "hu": "Esős napokon az autó Helmondban ideális a városrészek közötti száraz közlekedéshez. Reggel a központban parkolva pár lépéssel elérheti a kastélyt. Délben a templom és a kockaházak megtekintése után szinte szárazon térhet vissza autójához. Délután guruljon át a Warandeparkhoz, ahol az ebéd és a zöldre nyíló kilátás esőben is pihentető. Az estét zárja egy kényelmes étteremben.",
+            "ro": "În zilele ploioase, mașina este ideală în Helmond pentru a trece uscat între zonele de interes. Dimineața, parcați în centru și ajungeți la castel în câteva secunde. La prânz, vizitați biserica și casele cubice, revenind rapid la vehicul. După-amiaza, mergeți spre Warandepark, unde prânzul și vederea spre verdeață sunt relaxante chiar și pe ploaie. Seara se încheie confortabil la un restaurant.",
+            "en": "On rainy days, the car is ideal in Helmond for moving dryly between clusters. In the morning, park in the center and reach the castle in just a few steps. At noon, visit the church and Cube Houses with minimal exposure to the weather. In the afternoon, drive to Warandepark where lunch and the green views are relaxing even in the rain. End the evening comfortably at a local restaurant."
+          },
+          "stops": [
+            {
+              "name": "Parking City Center (Cluster 1)",
+              "tip_5lang": {
+                "de": "Parkhäuser bieten komplett trockenen Ausstieg.",
+                "hu": "A parkolóházak teljesen száraz kiszállást biztosítanak.",
+                "ro": "Parcările etajate oferă debarcare complet uscată.",
+                "en": "Multi-story car parks offer completely dry disembarkation."
+              }
+            },
+            {
+              "name": "Kasteel Helmond",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum Eingang.",
+                "hu": "Rövid séta a parkolótól a bejáratig.",
+                "ro": "Drum scurt de la parcare la intrare.",
+                "en": "Short walk from the parking lot to the entrance."
+              }
+            },
+            {
+              "name": "Sint-Lambertuskerk",
+              "tip_5lang": {
+                "de": "Zentrale Lage, oft Parkplätze direkt davor.",
+                "hu": "Központi fekvés, gyakran van hely közvetlenül előtte.",
+                "ro": "Locație centrală, adesea locuri chiar în față.",
+                "en": "Central location, often with parking right in front."
+              }
+            },
+            {
+              "name": "Cube Houses",
+              "tip_5lang": {
+                "de": "Vom Auto aus sind sie auch bei Regen gut zu sehen.",
+                "hu": "Az autóból esőben is jól láthatóak.",
+                "ro": "Pot fi văzute bine din mașină chiar și pe ploaie.",
+                "en": "Visible from the car even during heavy rain."
+              }
+            },
+            {
+              "name": "Parking Warandepark (Cluster 2)",
+              "tip_5lang": {
+                "de": "Parkplatz ist oft von Pfützen übersät.",
+                "hu": "A parkoló esőben gyakran tócsás.",
+                "ro": "Parcarea este adesea plină de bălți la ploaie.",
+                "en": "The parking lot is often riddled with puddles."
+              }
+            },
+            {
+              "name": "Warandepark & Lunch",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus dem Restaurantfenster.",
+                "hu": "Élvezze a kilátást az étterem ablakából.",
+                "ro": "Bucurați-vă de priveliște de la fereastra restaurantului.",
+                "en": "Enjoy the park views from the restaurant window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie überdachte Parkhäuser im Zentrum.",
+              "Halten Sie einen Schirm für die kurzen Wege bereit.",
+              "Vorsicht vor Aquaplaning auf den Ausfallstraßen.",
+              "Zahlen Sie Parkgebühren bequem per App im Trockenen."
+            ],
+            "hu": [
+              "Használja a fedett parkolóházakat a belvárosban.",
+              "Tartson ernyőt az autóban a rövid sétákhoz.",
+              "Vigyázat a felvízfelúszással (aquaplaning) a főutakon.",
+              "Fizesse a parkolást applikációval az autóban ülve."
+            ],
+            "ro": [
+              "Utilizați parcările acoperite din centru.",
+              "Păstrați o umbrelă în mașină pentru drumurile scurte.",
+              "Atenție la acvaplanare pe drumurile principale.",
+              "Plătiți parcarea prin aplicație, direct din mașină."
+            ],
+            "en": [
+              "Use covered parking garages in the city center.",
+              "Keep an umbrella handy for the short walks to entrances.",
+              "Watch out for aquaplaning on main access roads.",
+              "Pay for parking via app while staying dry inside the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto in Helmond wohltuende Wärme zwischen den Sehenswürdigkeiten. Morgens bringt es Sie zum frostigen Kasteel, wo Sie die Geschichte im Warmen erleben. Mittags erkunden Sie die Lambertuskirche und die Würfelhäuser, bevor Sie sich im Wagen wieder aufheizen. Nachmittags fahren Sie zum Warandepark für ein gemütliches Mittagessen mit Blick auf die Winterlandschaft. Der Tag endet sicher und warm auf der Heimfahrt.",
+            "hu": "Télen az autó Helmondban áldásos meleget nyújt a látnivalók között. Reggel a dérlepte kastélyhoz viszi, ahol a történelmet fűtött falak között ismerheti meg. Délben a templom és a kockaházak után gyorsan visszatérhet a fűtött utastérbe. Délután guruljon a Warandeparkhoz egy kényelmes ebédre, miközben a téli tájban gyönyörködik. A nap biztonságos és meleg hazautazással zárul.",
+            "ro": "Iarna, mașina oferă în Helmond o căldură binevenită între punctele de interes. Dimineața vă duce la castelul înghețat, unde vizitați interiorul încălzit. La prânz, vedeți biserica și casele cubice, revenind rapid la confortul termic al mașinii. După-amiaza, mergeți la Warandepark pentru un prânz liniștit cu vedere spre peisajul hibernal. Ziua se încheie sigur și cald pe drumul spre casă.",
+            "en": "In winter, the car provides soothing warmth between Helmond's sights. In the morning, drive to the frosty castle where you can experience history in heated rooms. At noon, explore the church and Cube Houses before warming up again in your vehicle. In the afternoon, head to Warandepark for a cozy lunch overlooking the winter scenery. The day ends with a safe and warm drive home."
+          },
+          "stops": [
+            {
+              "name": "Parking City Center (Cluster 1)",
+              "tip_5lang": {
+                "de": "Scheiben rechtzeitig enteisen.",
+                "hu": "Időben jégtelenítse a szélvédőt.",
+                "ro": "Dezghețați parbrizul din timp.",
+                "en": "De-ice your windshield before starting the trip."
+              }
+            },
+            {
+              "name": "Kasteel Helmond",
+              "tip_5lang": {
+                "de": "Parkplatz kann bei Frost glatt sein.",
+                "hu": "A parkoló fagyban csúszós lehet.",
+                "ro": "Parcarea poate fi alunecoasă pe îngheț.",
+                "en": "The parking surface can be slippery when frozen."
+              }
+            },
+            {
+              "name": "Sint-Lambertuskerk",
+              "tip_5lang": {
+                "de": "Kurzer Weg minimiert die Kälteexposition.",
+                "hu": "A rövid út minimalizálja a hideget.",
+                "ro": "Drumul scurt minimizează expunerea la frig.",
+                "en": "The short walk minimizes exposure to the cold."
+              }
+            },
+            {
+              "name": "Cube Houses",
+              "tip_5lang": {
+                "de": "Fotostopp aus dem warmen Auto möglich.",
+                "hu": "Fotómegálló a meleg autóból is lehetséges.",
+                "ro": "Oprire foto posibilă direct din mașină.",
+                "en": "Photo stop possible directly from the warm car."
+              }
+            },
+            {
+              "name": "Parking Warandepark (Cluster 2)",
+              "tip_5lang": {
+                "de": "Winterdienst räumt hier oft zeitverzögert.",
+                "hu": "A hóeltakarítás itt gyakran késhet.",
+                "ro": "Deszăpezirea poate întârzia în această zonă.",
+                "en": "Snow clearing may be delayed in this area."
+              }
+            },
+            {
+              "name": "Warandepark & Lunch",
+              "tip_5lang": {
+                "de": "Fensterplätze sind im Winter sehr beliebt.",
+                "hu": "Az ablak melletti helyek télen népszerűek.",
+                "ro": "Locurile de la fereastră sunt foarte căutate iarna.",
+                "en": "Window seats are very popular during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Streusalz und glatte Brücken.",
+              "Batteriecheck vor der Wintertour empfohlen.",
+              "Immer einen Eiskratzer und Handschuhe dabei haben.",
+              "Lassen Sie den Motor nicht im Stand warm laufen."
+            ],
+            "hu": [
+              "Ügyeljen a szórósóra és a csúszós hidakra.",
+              "Téli túra előtt ajánlott az akkumulátor ellenőrzése.",
+              "Mindig legyen jégkaparó és kesztyű az autóban.",
+              "Ne járassa álló helyzetben a motort a bemelegítéshez."
+            ],
+            "ro": [
+              "Atenție la sarea de pe carosabil și la podurile înghețate.",
+              "Se recomandă verificarea bateriei înainte de drum.",
+              "Aveți întotdeauna în mașină o răzuitoare și mănuși.",
+              "Nu lăsați motorul pornit pe loc pentru a se încălzi."
+            ],
+            "en": [
+              "Watch out for road salt and slippery bridge surfaces.",
+              "Check your battery before starting a winter day trip.",
+              "Always keep an ice scraper and gloves in the car.",
+              "Don't leave the engine idling to warm up the cabin."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2018,188 @@
           "Buses may not run as frequently in the evening or on weekends.",
           "Keep an eye on your belongings at busy stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der öffentliche Nahverkehr in Helmond ist bei Regen die komfortabelste Wahl. Morgens bringt Sie der Bus fast bis zum Kasteel-Eingang. Mittags erreichen Sie die Kirche und die Würfelhäuser nach nur kurzem Weg im Freien. Nachmittags fährt der Bus direkt zum Warandepark und weiter zum Industrieel Atrium, sodass Sie die meiste Zeit im Trockenen verbringen. Der Abend endet entspannt mit der Rückfahrt zum Bahnhof.",
+            "hu": "Az esős Helmondban a tömegközlekedés a legkényelmesebb választás. Reggel a busz szinte a kastély bejáratáig viszi. Délben a templomot és a kockaházakat is minimális kültéri sétával érheti el. Délután a busz közvetlenül a Warandeparkhoz, majd az ipari múzeumhoz repíti, így az idő nagy részét fedett helyen tölti. Az estét zárja egy nyugodt buszos visszautazással a vasútállomásra.",
+            "ro": "Transportul public în Helmond este cea mai confortabilă opțiune pe ploaie. Dimineața, autobuzul vă lasă aproape de intrarea în castel. La prânz, ajungeți la biserică și casele cubice cu o expunere minimă la precipitații. După-amiaza, autobuzul merge direct spre Warandepark și Atrium, ținându-vă la adăpost. Seara se încheie relaxat cu drumul de întoarcere spre gară.",
+            "en": "Public transport in Helmond is the most comfortable choice during rain. In the morning, the bus drops you off near the castle entrance. At noon, reach the church and Cube Houses with minimal outdoor walking. In the afternoon, the bus connects you directly to Warandepark and the Industrial Atrium, keeping you dry most of the time. End the evening with a relaxed ride back to the station."
+          },
+          "stops": [
+            {
+              "name": "Bus Stop Kasteel Traverse (Cluster 1)",
+              "tip_5lang": {
+                "de": "Überdachte Haltestelle vorhanden.",
+                "hu": "Fedett buszmegálló áll rendelkezésre.",
+                "ro": "Stație de autobuz acoperită disponibilă.",
+                "en": "Sheltered bus stop available here."
+              }
+            },
+            {
+              "name": "Kasteel Helmond",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg vom Bus.",
+                "hu": "Mindössze 2 perc séta a busztól.",
+                "ro": "Doar 2 minute de mers de la autobuz.",
+                "en": "Only a 2-minute walk from the bus stop."
+              }
+            },
+            {
+              "name": "Sint-Lambertuskerk",
+              "tip_5lang": {
+                "de": "Haltestellen sind in unmittelbarer Nähe.",
+                "hu": "A megállók a közvetlen közelben vannak.",
+                "ro": "Stațiile sunt în imediata apropiere.",
+                "en": "Stops are located in the immediate vicinity."
+              }
+            },
+            {
+              "name": "Bus Stop Julianalaan (Cluster 2)",
+              "tip_5lang": {
+                "de": "Guter Unterstand bei plötzlichem Schauer.",
+                "hu": "Jó menedék hirtelen zápor esetén.",
+                "ro": "Adăpost bun în caz de aversă bruscă.",
+                "en": "Good shelter in case of a sudden downpour."
+              }
+            },
+            {
+              "name": "Warandepark",
+              "tip_5lang": {
+                "de": "Busse fahren regelmäßig alle 15-30 Minuten.",
+                "hu": "A buszok 15-30 percenként járnak.",
+                "ro": "Autobuzele circulă la fiecare 15-30 minute.",
+                "en": "Buses run regularly every 15-30 minutes."
+              }
+            },
+            {
+              "name": "Industrieel Atrium",
+              "tip_5lang": {
+                "de": "Vom Bus zur Tür sind es nur wenige Meter.",
+                "hu": "A busztól az ajtóig csak pár méter a séta.",
+                "ro": "De la autobuz la ușă sunt doar câțiva metri.",
+                "en": "Only a few meters walk from the bus to the door."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die OV-chipkaart oder kontaktloses Bezahlen.",
+              "Prüfen Sie Verspätungen in der 9292-App.",
+              "Halten Sie die Fenster im Bus bei Feuchtigkeit geschlossen.",
+              "Tragen Sie bei Nässe rutschfeste Sohlen im Bus."
+            ],
+            "hu": [
+              "Használjon OV-chipkaartot vagy érintésmentes fizetést.",
+              "Ellenőrizze a késéseket a 9292 alkalmazásban.",
+              "Nedves időben ne nyissa ki a busz ablakait a párásodás ellen.",
+              "Viseljen csúszásmentes talpú cipőt a buszon."
+            ],
+            "ro": [
+              "Folosiți cardul OV-chipkaart sau plata contactless.",
+              "Verificați întârzierile în aplicația 9292.",
+              "Păstrați ferestrele închise în autobuz pe timp de ploaie.",
+              "Purtați încălțăminte cu talpă aderentă în autobuz."
+            ],
+            "en": [
+              "Use your OV-chipkaart or contactless payment (OVpay).",
+              "Check for real-time delays in the 9292 app.",
+              "Keep bus windows closed during rain to avoid humidity.",
+              "Wear non-slip soles as bus floors can become wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist der Bus in Helmond eine warme Verbindung zwischen den historischen Highlights. Morgens erreichen Sie das gefrorene Kasteel bequem und ohne kalte Füße. Mittags bringen Sie die Linien schnell zur Kirche und zu den Würfelhäusern. Nachmittags genießen Sie die Fahrt zum Warandepark, während draußen die Wintersonne tief steht. Der Abend endet warm im Bus auf dem Weg zurück zum Hauptbahnhof.",
+            "hu": "Télen a busz Helmondban meleg összeköttetést jelent a történelmi helyszínek között. Reggel kényelmesen, átfagyott lábak nélkül érheti el a jeges kastélyt. Délben a járatok gyorsan a templomhoz és a kockaházakhoz repítik. Délután élvezze az utat a Warandeparkhoz, miközben odakint a téli nap alacsonyan jár. Az estét zárja a busz melegében, úton a főpályaudvar felé.",
+            "ro": "Iarna, autobuzul în Helmond este o conexiune călduroasă între atracțiile istorice. Dimineața, ajungeți la castelul înghețat confortabil, fără a dârdâi de frig. La prânz, liniile vă duc rapid la biserică și casele cubice. După-amiaza, bucurați-vă de drumul spre Warandepark în timp ce soarele de iarnă stă jos pe cer. Seara se încheie la căldură în autobuz, spre gara centrală.",
+            "en": "In winter, the bus in Helmond provides a warm link between historic highlights. In the morning, reach the frozen castle comfortably without getting cold feet. At noon, the lines quickly take you to the church and Cube Houses. In the afternoon, enjoy the ride to Warandepark while the winter sun sits low outside. The evening ends warmly on the bus heading back to the central station."
+          },
+          "stops": [
+            {
+              "name": "Bus Stop Kasteel Traverse (Cluster 1)",
+              "tip_5lang": {
+                "de": "Haltestelle bietet Schutz vor kaltem Wind.",
+                "hu": "A megálló védelmet nyújt a hideg szél ellen.",
+                "ro": "Stația oferă protecție împotriva vântului rece.",
+                "en": "The stop provides protection against chilly winds."
+              }
+            },
+            {
+              "name": "Kasteel Helmond",
+              "tip_5lang": {
+                "de": "Winterlandschaft vom Bus aus sichtbar.",
+                "hu": "A téli táj jól látható a buszból.",
+                "ro": "Peisajul de iarnă este vizibil din autobuz.",
+                "en": "The winter scenery is visible from the bus window."
+              }
+            },
+            {
+              "name": "Sint-Lambertuskerk",
+              "tip_5lang": {
+                "de": "Busse sind im Winter gut beheizt.",
+                "hu": "A buszok télen jól fűtöttek.",
+                "ro": "Autobuzele sunt bine încălzite iarna.",
+                "en": "Buses are well-heated during the winter months."
+              }
+            },
+            {
+              "name": "Bus Stop Julianalaan (Cluster 2)",
+              "tip_5lang": {
+                "de": "Beleuchtung an der Haltestelle ist gut.",
+                "hu": "A megálló kivilágítása megfelelő.",
+                "ro": "Iluminatul în stație este bun.",
+                "en": "The stop is well-lit for early winter sunsets."
+              }
+            },
+            {
+              "name": "Warandepark",
+              "tip_5lang": {
+                "de": "Vermeiden Sie langes Warten durch Fahrplan-Check.",
+                "hu": "Kerülje a hosszú várakozást a menetrend ellenőrzésével.",
+                "ro": "Evitați așteptarea lungă verificând programul.",
+                "en": "Avoid long waits by checking the schedule in advance."
+              }
+            },
+            {
+              "name": "Industrieel Atrium",
+              "tip_5lang": {
+                "de": "Letzte Busse fahren oft bis spät abends.",
+                "hu": "Az utolsó buszok gyakran késő estig járnak.",
+                "ro": "Ultimele autobuze circulă adesea până târziu.",
+                "en": "Last buses often run until late in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrplan kann bei Schnee beeinträchtigt sein.",
+              "Warten Sie in beheizten Bahnhofsbereichen wenn möglich.",
+              "Haben Sie genug Guthaben auf der Karte.",
+              "Tragen Sie warme Schuhe für den Weg zur Haltestelle."
+            ],
+            "hu": [
+              "Havas időben a téli menetrend módosulhat.",
+              "Lehetőség szerint fűtött állomási várókban várjon.",
+              "Legyen elég egyenleg a kártyáján.",
+              "Viseljen meleg cipőt a megállóig tartó sétához."
+            ],
+            "ro": [
+              "Programul de iarnă poate fi afectat de zăpadă.",
+              "Așteptați în zonele încălzite ale gării dacă e posibil.",
+              "Asigurați-vă că aveți suficient credit pe card.",
+              "Purtați încălțăminte călduroasă pentru drumul spre stație."
+            ],
+            "en": [
+              "Winter schedules may be impacted by heavy snowfall.",
+              "Wait in heated station areas whenever possible.",
+              "Ensure you have sufficient balance on your card.",
+              "Wear warm shoes for the walk to and from stops."
+            ]
+          }
+        }
       }
     }
   }

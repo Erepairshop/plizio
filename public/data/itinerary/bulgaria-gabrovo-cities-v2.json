@@ -338,6 +338,188 @@
           "Most central sights are within easy walking distance.",
           "Take time for the side streets to discover the charm of the old architecture."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Gabrowo beginnt mit einem feinen Nieselregen, der die Fassade der Aprilow-Gymnasium glänzen lässt. Wir suchen Schutz unter den Arkaden in der Nähe des Uhrturms, während der Klang der Glocke durch die feuchte Luft hallt.\n\nMittags überqueren wir die Baew-Brücke, von der aus man die angeschwollene Jantra beobachten kann. Ein warmes Mittagessen in der Innenstadt bietet die nötige Pause, bevor wir das Regionale Historische Museum betreten, um trocken in die Industriegeschichte einzutauchen.\n\nDer Nachmittag gehört dem Haus des Humors und der Satire. Es ist der perfekte Zufluchtsort bei Regen, da die weitläufigen Ausstellungsräume stundenlange Unterhaltung bieten, weit weg von den Pfützen und grauen Wolken draußen.\n\nAm Abend lassen wir den Tag in einem gemütlichen Café ausklingen. Der Regen auf dem Kopfsteinpflaster reflektiert die Lichter der Stadt, und wir genießen die melancholische, aber friedliche Atmosphäre des bulgarischen Manchesters.",
+            "hu": "A reggel Gabrovóban szemerkélő esővel indul, ami fényessé teszi az Aprilov Gimnázium történelmi homlokzatát. Az Óratorony melletti árkádok alatt keresünk menedéket, miközben a harangszó tompán visszhangzik a párás levegőben.\n\nDélben a Baev-hídon kelünk át, figyelve a Jantra folyó sebes sodrását az esőben. Egy meleg ebéd a belvárosban felfrissít, majd a Regionális Történeti Múzeum falai között, szárazon fedezzük fel a város ipari múltjának emlékeit.\n\nDélután a Humor és Szatíra Háza a legjobb választás. Ez a hatalmas épület ideális búvóhely a csapadék elől, ahol órákon át szórakozhatunk a kiállításokon, miközben kint kopog az eső az ablakokon.\n\nEste egy hangulatos kávézóban pihenünk meg a központ közelében. Az eső áztatta köveken megcsillannak a város fényei, mi pedig élvezzük Gabrovó nyugodt, esős báját és a helyiek töretlen jókedvét.",
+            "ro": "Dimineața în Gabrovo începe cu o ploaie fină care face să strălucească fațada Liceului Național Aprilov. Căutăm adăpost sub arcadele de lângă Turnul cu Ceas, în timp ce sunetul clopotului răsună prin aerul umed.\n\nLa prânz traversăm Podul Baev, de unde observăm curentul rapid al râului Iantra sub ploaie. Un prânz cald în centrul orașului oferă pauza necesară înainte de a intra în Muzeul Regional de Istorie pentru a explora uscați trecutul industrial.\n\nDupă-amiaza este dedicată Casei Umorului și Satirei. Este destinația ideală pentru o zi ploioasă, deoarece sălile sale spațioase oferă ore de divertisment cultural, departe de bălțile și norii cenușii de afară.\n\nSeara încheiem turul într-o cafenea primitoare din centru. Ploaia de pe caldarâm reflectă luminile orașului, iar noi savurăm atmosfera liniștită a „Manchester-ului bulgar” sub sunetul picăturilor de apă.",
+            "en": "The morning in Gabrovo starts with a light drizzle that makes the historic Aprilov High School facade gleam. We seek shelter near the Clock Tower, listening to the chime echoing through the damp air.\n\nAt noon, we cross the Baev Bridge, watching the Yantra river's fast current swell in the rain. A warm lunch in the city center provides a dry break before we delve into industrial history at the Regional Historical Museum.\n\nIn the afternoon, the House of Humour and Satire is the ultimate refuge. Its extensive indoor galleries offer hours of entertainment and wit, keeping us completely dry while the rain falls outside.\n\nBy evening, we settle into a cozy downtown cafe. The rain on the cobblestones reflects the city lights, creating a melancholic yet peaceful end to our exploration of the Bulgarian capital of humor."
+          },
+          "stops": [
+            {
+              "name": "Aprilov National High School",
+              "tip_5lang": {
+                "de": "Schutz unter dem Vordach suchen und die Statue von Aprilov bewundern.",
+                "hu": "Keressen menedéket az előtető alatt, és csodálja meg Aprilov szobrát.",
+                "ro": "Căutați adăpost sub streașină și admirați statuia lui Aprilov.",
+                "en": "Seek shelter under the eaves and admire the statue of Aprilov."
+              }
+            },
+            {
+              "name": "Gabrovo Clock Tower",
+              "tip_5lang": {
+                "de": "Der Turm ist ein guter Orientierungspunkt, auch bei schlechter Sicht.",
+                "hu": "A torony kiváló tájékozódási pont még korlátozott látási viszonyok között is.",
+                "ro": "Turnul este un punct de reper excelent chiar și în condiții de vizibilitate redusă.",
+                "en": "The tower is an excellent landmark even with limited visibility."
+              }
+            },
+            {
+              "name": "Baev Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Stein; die Jantra führt bei Regen viel Wasser.",
+                "hu": "Vigyázzon a nedves köveken; a Jantra esőben nagyon megduzzad.",
+                "ro": "Atenție pe piatra umedă; Iantra poartă multă apă când plouă.",
+                "en": "Be careful on the wet stones; the Yantra carries a lot of water in the rain."
+              }
+            },
+            {
+              "name": "Regional Historical Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Regenschirme und Mäntel.",
+                "hu": "Használja a ruhatárat a vizes esernyők és kabátok elhelyezésére.",
+                "ro": "Folosiți garderoba pentru umbrelele și haina umedă.",
+                "en": "Use the cloakroom for wet umbrellas and coats."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit gemütlichem Innenbereich zum Aufwärmen.",
+                "hu": "Válasszon egy hangulatos belső térrel rendelkező éttermet a felmelegedéshez.",
+                "ro": "Alegeți un restaurant cu interior primitor pentru a vă încălzi.",
+                "en": "Choose a restaurant with a cozy interior to warm up."
+              }
+            },
+            {
+              "name": "House of Humour and Satire",
+              "tip_5lang": {
+                "de": "Das größte Indoor-Highlight; ideal, um den Regen komplett zu vergessen.",
+                "hu": "A legnagyobb fedett látnivaló; ideális az eső teljes elfelejtésére.",
+                "ro": "Cea mai mare atracție interioară; ideală pentru a uita complet de ploaie.",
+                "en": "The biggest indoor highlight; ideal for completely forgetting the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster bei Nässe rutschig sein kann.",
+              "Die Museen in Gabrowo sind montags oft geschlossen; prüfen Sie die Öffnungszeiten.",
+              "Nutzen Sie die Kaffeepausen, um Ihre Kleidung zu trocknen.",
+              "Ein Taschenregenschirm ist bei den wechselhaften Winden am Fluss unerlässlich."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskaköves utcák esőben csúszósak lehetnek.",
+              "A gabrovói múzeumok hétfőnként gyakran zárva tartanak; ellenőrizze a nyitvatartást.",
+              "Használja ki a kávészüneteket a ruházat megszárítására.",
+              "A folyóparti változékony szél miatt egy stabil esernyő elengedhetetlen."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece străzile pavate pot fi alunecoase.",
+              "Muzeele din Gabrovo sunt adesea închise lunea; verificați programul.",
+              "Profitați de pauzele de cafea pentru a vă usca hainele.",
+              "O umbrelă rezistentă este esențială din cauza vântului schimbător de lângă râu."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestone streets can be slippery when wet.",
+              "Gabrovo museums are often closed on Mondays; always check opening hours.",
+              "Take advantage of coffee breaks to dry off your outer layers.",
+              "A sturdy umbrella is essential due to shifting winds near the river."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Gabrowo ist frostig, und der Nebel liegt tief über der Jantra. Vor der Aprilow-Gymnasium knirscht der Schnee unter den Stiefeln, während wir die ersten historischen Eindrücke sammeln.\n\nZur Mittagszeit bietet der Uhrturm ein malerisches Bild im Winterlicht. Nach einem kurzen Stopp an der Baew-Brücke ziehen wir uns schnell in das beheizte Regionale Historische Museum zurück, um uns bei der Geschichte Gabrowos aufzuwärmen.\n\nNachmittags, wenn die Kälte am intensivsten ist, bietet das Haus des Humors und der Satire eine warme und fröhliche Atmosphäre. Es ist der perfekte Ort, um den kurzen Wintertag sinnvoll zu nutzen, bevor es dunkel wird.\n\nAm frühen Abend, da die Sonne in Gabrowo bereits gegen 17:00 Uhr untergeht, erleuchten die Straßenlaternen die schneebedeckten Wege. Wir beenden unseren Rundgang bei einem heißen bulgarischen Tee in einer der traditionellen Tavernen.",
+            "hu": "A téli reggel Gabrovóban fagyos, a köd sűrűn üli meg a Jantra folyót. Az Aprilov Gimnázium előtt ropog a hó a talpunk alatt, miközben az első történelmi látnivalókat vesszük szemügyre a csípős hidegben.\n\nDélidőben az Óratorony festői látványt nyújt a téli napsütésben. A Baev-hídnál tett rövid séta után gyorsan a fűtött Regionális Történeti Múzeumba vesszük az irányt, hogy felmelegedjünk Gabrovó ipartörténeti emlékei között.\n\nDélután, amikor a leghidegebb van, a Humor és Szatíra Háza meleg és vidám környezetet biztosít. Ideális helyszín a rövid téli nap kihasználására, távol a metsző széltől.\n\nKora este, mivel a nap 17:00 körül már lebukik a horizont alá, az utcai lámpák fénye megvilágítja a havas utakat. Utunkat egy forró bolgár teával zárjuk az egyik belvárosi hagyományos vendéglőben.",
+            "ro": "Dimineața de iarnă în Gabrovo este geroasă, cu ceața așezată jos peste râul Iantra. În fața Liceului Aprilov, zăpada scrâșnește sub ghete în timp ce admirăm primele repere istorice ale zilei.\n\nLa prânz, Turnul cu Ceas oferă o imagine pitorească în lumina iernii. După o scurtă oprire la Podul Baev, ne retragem rapid în Muzeul Regional de Istorie încălzit pentru a ne dezmorți printre exponate.\n\nDupă-amiaza, când frigul devine pătrunzător, Casa Umorului și Satirei oferă o atmosferă caldă și veselă. Este locul perfect pentru a petrece ultimele ore de lumină ale zilei scurte de iarnă.\n\nSeara devreme, deoarece soarele apune în jurul orei 17:00, felinarele luminează potecile înzăpezite. Ne încheiem plimbarea cu un ceai bulgăresc fierbinte într-o tavernă tradițională din centrul orașului.",
+            "en": "A winter morning in Gabrovo is frosty, with mist hanging low over the Yantra. In front of the Aprilov High School, snow crunches underfoot as we take in the first historical sights in the biting cold.\n\nBy noon, the Clock Tower looks picturesque in the winter light. After a quick stop at Baev Bridge, we retreat to the heated Regional Historical Museum to warm up while exploring Gabrovo's industrial heritage.\n\nIn the afternoon, as the cold intensifies, the House of Humour and Satire provides a warm and cheerful environment. It’s the perfect place to spend the remaining hours of the short winter day.\n\nBy early evening, since the sun sets around 5:00 PM, the streetlights illuminate the snowy paths. We conclude our tour with a hot Bulgarian tea in one of the traditional taverns downtown."
+          },
+          "stops": [
+            {
+              "name": "Aprilov National High School",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Stufen vor der Schule.",
+                "hu": "Ügyeljen a jegesedésre az iskola előtti lépcsőkön.",
+                "ro": "Atenție la gheața de pe treptele din fața școlii.",
+                "en": "Watch out for black ice on the steps in front of the school."
+              }
+            },
+            {
+              "name": "Gabrovo Clock Tower",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, um die Kälte an den Fingern zu minimieren.",
+                "hu": "Rövid fotómegálló, hogy elkerülje az ujjak lefagyását.",
+                "ro": "Oprire scurtă pentru poze pentru a evita înghețarea degetelor.",
+                "en": "Short photo stop to minimize the cold on your fingers."
+              }
+            },
+            {
+              "name": "Baev Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorener Gischt auf dem Brückengeländer.",
+                "hu": "Vigyázzon a hídkorláton lévő fagyott párára.",
+                "ro": "Atenție la gheața formată pe balustrada podului.",
+                "en": "Be careful of frozen mist on the bridge railings."
+              }
+            },
+            {
+              "name": "Regional Historical Museum",
+              "tip_5lang": {
+                "de": "Perfekt beheizt; nehmen Sie sich Zeit für die Ausstellungen.",
+                "hu": "Kiválóan fűtött; szánjon időt a kiállítások megtekintésére.",
+                "ro": "Încălzit perfect; acordați-vă timp pentru vizitarea expozițiilor.",
+                "en": "Perfectly heated; take your time exploring the exhibits."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Bestellen Sie eine heiße 'Shkembe chorba' zum Aufwärmen.",
+                "hu": "Rendeljen egy forró pacallevest (shkembe chorba) a felmelegedéshez.",
+                "ro": "Comandați o „shkembe chorba” fierbinte pentru a vă încălzi.",
+                "en": "Order a hot 'shkembe chorba' to warm up quickly."
+              }
+            },
+            {
+              "name": "House of Humour and Satire",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch für den späten Nachmittag ein.",
+                "hu": "Tervezze a látogatást késő délutánra, a sötétedés előtt.",
+                "ro": "Planificați vizita pentru sfârșitul după-amiezii.",
+                "en": "Plan your visit for the late afternoon as light fades."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Unterwäsche, da der Wind im Flusstal schneidend sein kann.",
+              "Die Sonne geht früh unter; planen Sie Outdoor-Aktivitäten vor 16 Uhr.",
+              "Vorsicht vor rutschigen Gehwegen nach dem Frost in der Nacht.",
+              "Probieren Sie lokale Winterspezialitäten in den warmen 'Mehanas'."
+            ],
+            "hu": [
+              "Viseljen termikus fehérneműt, mert a folyóvölgyi szél metsző lehet.",
+              "A nap korán nyugszik; a szabadtéri programokat tervezze délután 4 előttre.",
+              "Vigyázzon a csúszós járdákkal az éjszakai fagyok után.",
+              "Kóstolja meg a helyi téli különlegességeket a meleg 'mehanákban'."
+            ],
+            "ro": [
+              "Purtați lenjerie termică, deoarece vântul de pe vale poate fi tăios.",
+              "Soarele apune devreme; planificați activitățile în aer liber înainte de ora 16:00.",
+              "Atenție la trotuarele alunecoase după înghețul nocturn.",
+              "Gustați specialitățile locale de iarnă în 'mehanele' primitoare."
+            ],
+            "en": [
+              "Wear thermal layers as the wind in the river valley can be biting.",
+              "The sun sets early; plan all outdoor activities before 4 PM.",
+              "Be cautious of slippery sidewalks after overnight frosts.",
+              "Try local winter specialties in the warm, traditional 'mehanas'."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -694,6 +876,206 @@
           "Watch out for traffic in the city center.",
           "Some streets have cobblestones, ride carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Unsere Radtour durch Gabrowo beginnt am Haus des Humors. Der Regen trommelt auf die Fahrradhelme, während wir uns auf den Weg zum Aprilow-Gymnasium machen. Die Reifen greifen gut auf dem nassen Asphalt, aber Vorsicht ist geboten.\n\nMittags radeln wir zum Uhrturm. Die Sicht ist etwas eingeschränkt, aber die markante Silhouette des Turms ist unverkennbar. Nach einer Pause zum Trocknen beim Mittagessen setzen wir unsere Fahrt fort.\n\nDer Nachmittag führt uns zum Regionalen Historischen Museum und zum Dechkow-Haus. Die kurzen Strecken zwischen den Museen minimieren die Zeit im Regen, sodass wir die Ausstellungen entspannt genießen können.\n\nAm Abend wagen wir eine Fahrt entlang der Jantra. Der Fluss wirkt im Regen wilder, und die feuchte Luft riecht nach Erde und Natur. Wir beenden die Tour erfrischt und bereit für eine warme Dusche.",
+            "hu": "Bringás túránk Gabrovóban a Humor Házától indul. Az eső kopog a bukósisakokon, miközben az Aprilov Gimnázium felé vesszük az irányt. A gumik jól tapadnak a nedves aszfalton, de a fokozott óvatosság indokolt.\n\nDélben az Óratoronyhoz tekerünk. A látótávolság kicsit korlátozott, de a torony jellegzetes sziluettje messziről felismerhető. Egy szárítkozós ebédszünet után folytatjuk az utunkat.\n\nDélután a Regionális Történeti Múzeumot és a Decskov-házat keressük fel. A múzeumok közötti rövid távolságok miatt kevés időt töltünk az esőben, így zavartalanul élvezhetjük a tárlatokat.\n\nEste egy rövid kört teszünk a Jantra partján. A folyó esőben vadvíznek tűnik, a párás levegőnek pedig friss földillata van. A túrát felfrissülve, egy forró zuhany ígéretével zárjuk.",
+            "ro": "Turul nostru cu bicicleta prin Gabrovo începe la Casa Umorului. Ploaia bate în căștile de protecție în timp ce ne îndreptăm spre Liceul Aprilov. Anvelopele aderă bine pe asfaltul ud, dar prudența este necesară.\n\nLa prânz pedalăm spre Turnul cu Ceas. Vizibilitatea este puțin redusă, dar silueta distinctivă a turnului este inconfundabilă. După o pauză de uscare la prânz, ne continuăm traseul.\n\nDupă-amiaza ne conduce la Muzeul Regional de Istorie și la Casa Dechkov. Distanțele scurte între muzee minimizează timpul petrecut în ploaie, permițându-ne să ne bucurăm de expoziții.\n\nSeara ne aventurăm pe o porțiune de-a lungul râului Iantra. Râul pare mai sălbatic sub ploaie, iar aerul umed miroase a pământ și natură. Încheiem turul revigorați și gata pentru un duș cald.",
+            "en": "Our bike tour through Gabrovo starts at the House of Humour. Rain drums on our helmets as we head toward the Aprilov High School. Tires grip well on the wet asphalt, but extra caution is required today.\n\nAt noon, we cycle to the Clock Tower. Visibility is slightly reduced, but the tower's striking silhouette is unmistakable. After a drying break during lunch, we continue our ride.\n\nIn the afternoon, we visit the Regional Historical Museum and the Dechkov House. Short distances between museums minimize time spent in the rain, letting us enjoy the exhibits at a relaxed pace.\n\nBy evening, we take a ride along the Yantra river. The water seems wilder in the rain, and the damp air smells of earth and nature. We finish the tour refreshed and ready for a warm shower."
+          },
+          "stops": [
+            {
+              "name": "House of Humour and Satire",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer am Eingang nutzen.",
+                "hu": "Használja a bejáratnál található fedett kerékpártárolókat.",
+                "ro": "Folosiți suporturile pentru biciclete acoperite de la intrare.",
+                "en": "Use the covered bike racks near the entrance."
+              }
+            },
+            {
+              "name": "Aprilov National High School",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Asphalt.",
+                "hu": "Vigyázzon a leszállásnál a nedves aszfalton.",
+                "ro": "Atenție la coborârea de pe bicicletă pe asfaltul ud.",
+                "en": "Be careful when dismounting on wet asphalt."
+              }
+            },
+            {
+              "name": "Gabrovo Clock Tower",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster hier ist bei Regen sehr rutschig.",
+                "hu": "A macskakő itt esőben rendkívül csúszós.",
+                "ro": "Pavelele de aici sunt foarte alunecoase când plouă.",
+                "en": "The cobblestones here are very slippery in the rain."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit Sicht auf das geparkte Rad.",
+                "hu": "Keressen olyan helyet, ahonnan rálát a leparkolt biciklire.",
+                "ro": "Căutați un local cu vedere spre locul unde ați parcat.",
+                "en": "Find a place with a view of your parked bike."
+              }
+            },
+            {
+              "name": "Regional Historical Museum",
+              "tip_5lang": {
+                "de": "Wischen Sie den Sattel vor der Weiterfahrt trocken.",
+                "hu": "Törölje szárazra a nyerget az indulás előtt.",
+                "ro": "Ștergeți șaua înainte de a pleca mai departe.",
+                "en": "Wipe your saddle dry before heading out again."
+              }
+            },
+            {
+              "name": "Dechkov House",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für eine kurze, trockene Pause.",
+                "hu": "Szép helyszín egy rövid, száraz pihenőre.",
+                "ro": "Un loc frumos pentru o scurtă pauză la uscat.",
+                "en": "A beautiful spot for a short, dry break."
+              }
+            },
+            {
+              "name": "Ride along the Yantra River",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen und Schlamm am Ufer.",
+                "hu": "Vigyázzon a mély tócsákkal és a sárral a parton.",
+                "ro": "Atenție la bălțile adânci și noroiul de pe mal.",
+                "en": "Watch out for deep puddles and mud along the riverbank."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie plötzliches Bremsen auf nassem Kopfsteinpflaster.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Überprüfen Sie den Bremsweg bei nassen Felgen.",
+              "Nutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a nedves macskakövön.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóság érdekében.",
+              "Ellenőrizze a fékutat nedves felnik esetén.",
+              "Használjon sárvédőt, hogy megvédje magát a felcsapódó víztől."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe pavajul ud.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate.",
+              "Verificați distanța de frânare când jantele sunt ude.",
+              "Folosiți apărători de noroi pentru a vă proteja de apă."
+            ],
+            "en": [
+              "Avoid sudden braking on wet cobblestone surfaces.",
+              "Wear a high-visibility raincoat for better safety in traffic.",
+              "Check your braking distance with wet rims.",
+              "Use mudguards to protect yourself from road spray."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am Haus des Humors. Die Luft ist eiskalt, aber die Straßen sind geräumt. Mit Schal und Handschuhen radeln wir zum Aprilow-Gymnasium, während der Atem weiße Wolken bildet.\n\nMittags erreichen wir den Uhrturm. Die tiefstehende Sonne wirft lange Schatten auf den Schnee. Ein kurzer Halt an der Baew-Brücke bietet einen eisigen Blick auf die Jantra, bevor wir uns beim Mittagessen aufwärmen.\n\nNachmittags besuchen wir das Regionalmuseum und das Dechkow-Haus. Die Bewegung hält uns warm, aber wir genießen die Pausen in den beheizten Innenräumen sehr.\n\nAm späten Nachmittag radeln wir kurz am Fluss entlang, bevor die Dämmerung einsetzt. Die winterliche Stille von Gabrowo ist beim Radfahren besonders intensiv erlebbar. Wir beenden die Tour frühzeitig, bevor die Straßen glatt werden.",
+            "hu": "Tiszta téli reggel a Humor Házánál. A levegő jéghideg, de az utak le vannak takarítva. Sállal és kesztyűvel felszerelkezve tekerünk az Aprilov Gimnázium felé, miközben leheletünk fehér felhőket képez.\n\nDélben érjük el az Óratoronyt. Az alacsonyan járó nap hosszú árnyékokat vet a hóra. Egy rövid megálló a Baev-hídnál jeges kilátást nyújt a Jantrára, mielőtt az ebédnél felmelegednénk.\n\nDélután a Regionális Múzeumot és a Decskov-házat keressük fel. A mozgás melegen tart, de a fűtött múzeumokban töltött időt nagyon értékeljük.\n\nKéső délután még teszünk egy kört a folyó mentén, mielőtt beállna az alkonyat. Gabrovó téli csendje kerékpározás közben különösen mélyen átélhető. Korán befejezzük a túrát, mielőtt az utak csúszóssá válnának az esti fagyban.",
+            "ro": "O dimineață senină de iarnă la Casa Umorului. Aerul este înghețat, dar drumurile sunt curățate. Cu fular și mănuși, pedalăm spre Liceul Aprilov, în timp ce respirația formează nori albi.\n\nLa prânz ajungem la Turnul cu Ceas. Soarele jos aruncă umbre lungi pe zăpadă. O scurtă oprire la Podul Baev oferă o priveliște înghețată asupra râului Iantra înainte de a ne încălzi la prânz.\n\nDupă-amiaza vizităm Muzeul Regional și Casa Dechkov. Mișcarea ne menține calzi, dar apreciem mult pauzele în interioarele încălzite.\n\nSpre sfârșitul după-amiezii pedalăm scurt pe malul râului înainte de lăsarea serii. Liniștea hibernală a orașului Gabrovo este resimțită intens de pe bicicletă. Încheiem turul devreme, înainte ca drumurile să devină alunecoase.",
+            "en": "A clear winter morning at the House of Humour. The air is freezing, but the roads are cleared. Bundled in scarves and gloves, we cycle toward Aprilov High School as our breath turns into white clouds.\n\nAt noon, we reach the Clock Tower. The low sun casts long shadows on the snow. A quick stop at Baev Bridge offers an icy view of the Yantra before we warm up during lunch.\n\nIn the afternoon, we visit the Regional Museum and the Dechkov House. The movement keeps us warm, but we highly appreciate the breaks inside the heated buildings.\n\nBy late afternoon, we take a short ride by the river before dusk sets in. The winter silence of Gabrovo is especially powerful while cycling. We finish the tour early, before the roads glaze over with evening ice."
+          },
+          "stops": [
+            {
+              "name": "House of Humour and Satire",
+              "tip_5lang": {
+                "de": "Sicherstellen, dass das Fahrradschloss nicht einfriert.",
+                "hu": "Győződjön meg róla, hogy a kerékpárzár nem fagyott be.",
+                "ro": "Asigurați-vă că antifurtul nu îngheață.",
+                "en": "Ensure your bike lock doesn't freeze up."
+              }
+            },
+            {
+              "name": "Aprilov National High School",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf eventuellen Eisresten.",
+                "hu": "Vigyázzon a leszállásnál az esetleges jégfoltokon.",
+                "ro": "Atenție la coborâre pe eventualele resturi de gheață.",
+                "en": "Watch for icy patches when dismounting your bike."
+              }
+            },
+            {
+              "name": "Gabrovo Clock Tower",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast des Steins zum weißen Schnee.",
+                "hu": "Élvezze a kőépület és a fehér hó közötti kontrasztot.",
+                "ro": "Admirați contrastul pietrei cu zăpada albă.",
+                "en": "Enjoy the contrast of the dark stone against white snow."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Dehnen Sie die Mittagspause aus, um sich aufzuwärmen.",
+                "hu": "Hosszabbítsa meg az ebédszünetet a teljes felmelegedéshez.",
+                "ro": "Prelungiți pauza de prânz pentru a vă încălzi.",
+                "en": "Extend your lunch break to fully thaw out."
+              }
+            },
+            {
+              "name": "Regional Historical Museum",
+              "tip_5lang": {
+                "de": "Ein trockener Ort, um die Handschuhe aufzuwärmen.",
+                "hu": "Száraz hely, ahol felmelegítheti a kesztyűit.",
+                "ro": "Un loc uscat pentru a vă încălzi mănușile.",
+                "en": "A dry place to warm up your gloves."
+              }
+            },
+            {
+              "name": "Dechkov House",
+              "tip_5lang": {
+                "de": "Kurzer Besuch, um die winterliche Atmosphäre zu genießen.",
+                "hu": "Rövid látogatás a téli hangulat megéléséhez.",
+                "ro": "Vizită scurtă pentru a savura atmosfera de iarnă.",
+                "en": "Short visit to enjoy the winter atmosphere."
+              }
+            },
+            {
+              "name": "Ride along the Yantra River",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrorenen Stellen auf dem Radweg.",
+                "hu": "Vigyázzon a kerékpárút lefagyott szakaszaira.",
+                "ro": "Atenție la porțiunile înghețate de pe pista de biciclete.",
+                "en": "Watch out for black ice on the bike paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip).",
+              "Achten Sie auf gestreutes Salz, das die Fahrradkette angreifen kann.",
+              "Vermeiden Sie späte Fahrten, wenn Nässe zu Eis gefriert.",
+              "Halten Sie Akkus von E-Bikes bei Pausen im Warmen."
+            ],
+            "hu": [
+              "Viseljen több réteg ruhát (réteges öltözködés).",
+              "Ügyeljen a kiszórt sóra, amely károsíthatja a láncot.",
+              "Kerülje a késői biciklizést, amikor a nedvesség jéggé fagy.",
+              "Az elektromos kerékpárok akkumulátorát tartsa melegben a szünetekben."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine.",
+              "Atenție la sarea de pe drum care poate coroda lanțul.",
+              "Evitați deplasările târzii când umezeala îngheață.",
+              "Păstrați bateriile bicicletelor electrice la cald în timpul pauzelor."
+            ],
+            "en": [
+              "Dress in multiple layers (the onion principle).",
+              "Watch out for road salt which can corrode your bike chain.",
+              "Avoid late rides when wet surfaces turn to ice.",
+              "Keep e-bike batteries indoors during long breaks."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1026,6 +1408,188 @@
           "Parking in the center of Gabrovo can be challenging on weekdays.",
           "The road to Etar is winding, drive carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir fahren durch den Regen in Richtung Etar. Die Scheibenwischer arbeiten im Takt, während wir die bewaldete Umgebung von Gabrowo passieren. Das Freilichtmuseum wirkt im Nebel besonders geheimnisvoll.\n\nMittags genießen wir ein herzhaftes Essen in der Nähe von Etar, während draußen der Regen auf das Dach prasselt. Die Fahrt zurück ins Zentrum ist kurz und komfortabel.\n\nNachmittags parken wir direkt am Haus des Humors. Es ist ein großer Vorteil, bei diesem Wetter mit dem Auto direkt vor die Tür fahren zu können. Wir verbringen viel Zeit drinnen, bevor wir zum Uhrturm aufbrechen.\n\nDer Tag endet mit einer kurzen Fahrt zur Aprilow-Schule. Wir bleiben meist im Auto oder unter den Regenschirmen und genießen den Blick auf die beleuchtete Stadt durch die regennassen Fenster.",
+            "hu": "Az esőben Etar felé autózunk. Az ablaktörlők ütemesen járnak, miközben Gabrovó erdős környékén haladunk át. A skanzen a ködben és esőben különösen titokzatos arcát mutatja.\n\nDélben egy bőséges ebédet fogyasztunk Etar közelében, miközben kint az eső kopog a tetőn. A visszaút a központba rövid és kényelmes a fűtött utastérben.\n\nDélután közvetlenül a Humor Házánál parkolunk le. Nagy előny ilyenkor, hogy az autóval szinte az ajtóig mehetünk. Hosszú időt töltünk bent, mielőtt az Óratorony felé vennénk az irányt.\n\nA napot az Aprilov-iskolánál tett rövid látogatással zárjuk. Leginkább az autóban vagy az esernyők alatt maradunk, és a vizes ablakokon keresztül csodáljuk a kivilágított várost.",
+            "ro": "Conducem prin ploaie spre Etar. Ștergătoarele lucrează ritmic în timp ce trecem prin împrejurimile împădurite ale orașului Gabrovo. Muzeul în aer liber pare deosebit de misterios în ceață.\n\nLa prânz ne bucurăm de o masă copioasă lângă Etar, în timp ce ploaia bate pe acoperiș. Drumul de întoarcere spre centru este scurt și confortabil în mașină.\n\nDupă-amiaza parcăm chiar lângă Casa Umorului. Este un mare avantaj pe această vreme să poți opri mașina aproape de intrare. Petrecem mult timp în interior înainte de a pleca spre Turnul cu Ceas.\n\nZiua se încheie cu o scurtă vizită la Școala Aprilov. Rămânem mai mult în mașină sau sub umbrele, admirând orașul iluminat prin ferestrele ude de ploaie.",
+            "en": "We drive through the rain toward Etar. The windshield wipers work rhythmically as we pass through the wooded surroundings of Gabrovo. The open-air museum looks especially mysterious in the mist.\n\nAt noon, we enjoy a hearty meal near Etar while the rain drums on the roof. The drive back to the center is short and comfortable in the car.\n\nIn the afternoon, we park directly at the House of Humour. It’s a huge advantage in this weather to drive right to the doorstep. We spend plenty of time inside before heading to the Clock Tower.\n\nThe day ends with a short drive to Aprilov High School. We mostly stay in the car or under umbrellas, enjoying the view of the illuminated city through the rain-streaked windows."
+          },
+          "stops": [
+            {
+              "name": "Etar Architectural-Ethnographic Complex",
+              "tip_5lang": {
+                "de": "Viel Zeit im Auto einplanen, da das Gelände weitläufig und nass ist.",
+                "hu": "Tervezzen több időt az autóban, mivel a terület nagy és vizes.",
+                "ro": "Planificați timp în mașină, deoarece terenul este vast și ud.",
+                "en": "Plan for extra transit time as the site is large and wet."
+              }
+            },
+            {
+              "name": "Lunch near Etar",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor den Gasthäusern nutzen.",
+                "hu": "Használja a közvetlenül a vendéglők előtt található parkolókat.",
+                "ro": "Folosiți parcările chiar din fața hanurilor.",
+                "en": "Use the parking spaces right in front of the taverns."
+              }
+            },
+            {
+              "name": "Drive to the center & Park",
+              "tip_5lang": {
+                "de": "Ein zentrales Parkhaus bietet trockenen Zugang zur Stadt.",
+                "hu": "Egy központi parkolóház száraz utat biztosít a városhoz.",
+                "ro": "O parcare centrală oferă acces uscat spre oraș.",
+                "en": "A central parking garage offers dry access to the city."
+              }
+            },
+            {
+              "name": "House of Humour and Satire",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor dem Museum verfügbar.",
+                "hu": "Parkoló közvetlenül a múzeum előtt rendelkezésre áll.",
+                "ro": "Parcare disponibilă chiar în fața muzeului.",
+                "en": "Parking is available directly in front of the museum."
+              }
+            },
+            {
+              "name": "Walk to the Clock Tower",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Stadtzentrum.",
+                "hu": "Parkoljon a lehető legközelebb a városközponthoz.",
+                "ro": "Parcați cât mai aproape posibil de centrul orașului.",
+                "en": "Park as close to the city center as possible."
+              }
+            },
+            {
+              "name": "Aprilov High School & Baev Bridge",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für Fotos unter dem Regenschirm.",
+                "hu": "Rövid kiszállás fotózáshoz, esernyővel.",
+                "ro": "Coborâre scurtă pentru poze sub umbrelă.",
+                "en": "Quick exit for photos under an umbrella."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Parken in tiefen Pfützen.",
+              "Prüfen Sie den Zustand der Scheibenwischer vor der Abfahrt.",
+              "Die Bergstraßen um Gabrowo können bei Regen rutschig sein.",
+              "Nutzen Sie die Sitzheizung, um nach Außenstopps schnell aufzuwärmen."
+            ],
+            "hu": [
+              "Kerülje a parkolást mély tócsákban.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "A Gabrovó környéki hegyi utak esőben csúszósak lehetnek.",
+              "Használja az ülésfűtést a kinti megállók utáni gyors felmelegedéshez."
+            ],
+            "ro": [
+              "Evitați parcarea în bălți adânci.",
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "Drumurile montane din jurul orașului pot fi alunecoase.",
+              "Folosiți încălzirea în scaune pentru a vă încălzi rapid."
+            ],
+            "en": [
+              "Avoid parking in deep puddles.",
+              "Check the condition of your windshield wipers before setting off.",
+              "Mountain roads around Gabrovo can be slippery in the rain.",
+              "Use seat heating to warm up quickly after outdoor stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Fahrt nach Etar im Winter führt durch eine wunderschöne Schneelandschaft. Die Straßen sind meist gut geräumt, aber wir fahren vorsichtig. Etar im Schnee ist ein unvergesslicher Anblick, fast wie in einem Märchen.\n\nMittags genießen wir die Wärme einer traditionellen Taverne bei Etar. Die Rückfahrt ins Stadtzentrum ist sicher und warm, während draußen die Temperatur unter den Gefrierpunkt sinkt.\n\nNachmittags bietet das Haus des Humors eine willkommene Abwechslung zur Kälte. Wir parken in der Nähe und verbringen die meiste Zeit in den beheizten Ausstellungsräumen.\n\nDer Abend endet mit einem Blick auf den beleuchteten Uhrturm und die Aprilow-Schule. Vom warmen Auto aus genießen wir die festliche Atmosphäre der Stadt, bevor wir uns auf den Heimweg machen.",
+            "hu": "A téli út Etar felé gyönyörű havas tájakon vezet keresztül. Az utak többnyire jól takarítottak, de óvatosan vezetünk. Etar a hóban felejthetetlen látvány, mintha egy mesébe csöppentünk volna.\n\nDélben egy hagyományos taverna melegét élvezzük Etar mellett. A visszaút a központba biztonságos és fűtött, miközben kint a hőmérséklet fagypont alá süllyed.\n\nDélután a Humor Háza nyújt kellemes felüdülést a hideg után. A közelben parkolunk le, és az időnk nagy részét a fűtött kiállítótermekben töltjük.\n\nAz este a kivilágított Óratorony és az Aprilov-iskola látványával zárul. A meleg autóból csodáljuk a város ünnepi hangulatát, mielőtt elindulnánk pihenni.",
+            "ro": "Drumul spre Etar iarna trece printr-un peisaj de zăpadă superb. Drumurile sunt în general bine curățate, dar conducem cu atenție. Etar sub zăpadă este o priveliște de neuitat, ca dintr-o poveste.\n\nLa prânz ne bucurăm de căldura unei taverne tradiționale lângă Etar. Drumul de întoarcere spre centru este sigur și cald, în timp ce afară temperatura scade sub pragul de îngheț.\n\nDupă-amiaza, Casa Umorului oferă o schimbare binevenită față de frigul de afară. Parcăm în apropiere și petrecem majoritatea timpului în expozițiile încălzite.\n\nSeara se încheie cu o vedere asupra Turnului cu Ceas iluminat și a Școlii Aprilov. Din mașina caldă, savurăm atmosfera festivă a orașului înainte de a ne îndrepta spre casă.",
+            "en": "The winter drive to Etar takes us through a beautiful snowy landscape. Roads are mostly well-cleared, but we drive carefully. Etar in the snow is an unforgettable sight, almost like a fairy tale.\n\nAt noon, we enjoy the warmth of a traditional tavern near Etar. The drive back to the city center is safe and warm while the temperature outside drops below freezing.\n\nIn the afternoon, the House of Humour provides a welcome break from the cold. We park nearby and spend most of our time in the heated galleries.\n\nThe evening ends with a view of the illuminated Clock Tower and Aprilov School. From the warm car, we enjoy the city's festive atmosphere before heading back."
+          },
+          "stops": [
+            {
+              "name": "Etar Architectural-Ethnographic Complex",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Parkplatz bei Vereisung.",
+                "hu": "Vigyázzon a parkolóban az esetleges jegesedésre.",
+                "ro": "Atenție la gheața din parcare.",
+                "en": "Watch for ice in the parking lot."
+              }
+            },
+            {
+              "name": "Lunch near Etar",
+              "tip_5lang": {
+                "de": "Ideale Gelegenheit, das Auto aufzuwärmen.",
+                "hu": "Ideális alkalom az autó felfűtésére.",
+                "ro": "Ocazie ideală pentru a încălzi mașina.",
+                "en": "Perfect time to let the car heater run."
+              }
+            },
+            {
+              "name": "Drive to the center & Park",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz ohne Schneehaufen.",
+                "hu": "Keressen hóbuckáktól mentes parkolóhelyet.",
+                "ro": "Căutați un loc de parcare fără mormane de zăpadă.",
+                "en": "Look for a parking spot cleared of snow piles."
+              }
+            },
+            {
+              "name": "House of Humour and Satire",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird im Winter oft geräumt.",
+                "hu": "A parkolót télen gyakran takarítják.",
+                "ro": "Parcarea este adesea curățată iarna.",
+                "en": "The parking lot is usually well-cleared in winter."
+              }
+            },
+            {
+              "name": "Walk to the Clock Tower",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Auto und Sehenswürdigkeit einplanen.",
+                "hu": "Tervezzen rövid utakat az autó és a látnivalók között.",
+                "ro": "Planificați distanțe scurte între mașină și obiective.",
+                "en": "Plan for short walks between the car and the sights."
+              }
+            },
+            {
+              "name": "Aprilov High School & Baev Bridge",
+              "tip_5lang": {
+                "de": "Blick aus dem Auto genießen, wenn es zu kalt ist.",
+                "hu": "Élvezze a kilátást az autóból, ha túl hideg van.",
+                "ro": "Admirați vederea din mașină dacă este prea frig.",
+                "en": "Enjoy the view from inside the car if it's too cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Schneeketten (im Kofferraum) sind in dieser Region Pflicht.",
+              "Achten Sie auf die Frostschutzflüssigkeit für die Scheibenwischer.",
+              "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+              "Parken Sie nicht unter Dächern mit großen Eiszapfen."
+            ],
+            "hu": [
+              "A téli gumi és a hólánc (a csomagtartóban) kötelező ebben a régióban.",
+              "Ellenőrizze a fagyálló szélvédőmosó folyadék szintjét.",
+              "Ne járassa feleslegesen a motort álló helyzetben.",
+              "Ne parkoljon nagy jégcsapokkal teli tetők alá."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și lanțurile (în portbagaj) sunt obligatorii în regiune.",
+              "Verificați lichidul de parbriz anti-îngheț.",
+              "Nu lăsați motorul pornit inutil în staționare.",
+              "Nu parcați sub acoperișuri cu țurțuri mari de gheață."
+            ],
+            "en": [
+              "Winter tires and snow chains (in the trunk) are mandatory in this region.",
+              "Ensure you have anti-freeze windshield washer fluid.",
+              "Avoid idling the engine unnecessarily for long periods.",
+              "Do not park under roofs with large icicles."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1358,6 +1922,188 @@
           "Take a photo of the bus schedule so you don't miss the return trip.",
           "Have small change ready for bus tickets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir nehmen den Bus nach Etar. Das Prasseln des Regens auf das Busdach wirkt beruhigend, während wir durch die grünen Vororte von Gabrowo fahren. Die Ankunft am Etar-Museum ist trotz des Wetters unkompliziert.\n\nMittags erkunden wir das Museum, wobei wir oft in den Werkstätten der Handwerker Schutz suchen. Die Rückfahrt ins Zentrum mit dem Bus ist eine gute Gelegenheit, sich kurz auszuruhen und zu trocknen.\n\nNachmittags kombinieren wir das Mittagessen mit einem Besuch im Haus des Humors. Da beide Orte nahe beieinander liegen, ist der Weg kurz. Die öffentlichen Verkehrsmittel bringen uns zuverlässig von A nach B.\n\nDer Tag endet mit einem Spaziergang durch das Zentrum zur Aprilow-Schule. Wir nutzen die überdachten Bushaltestellen als Zwischenstationen und genießen die entspannte Atmosphäre der Stadt im Regen.",
+            "hu": "Busszal megyünk Etar felé. Az eső kopogása a busz tetején megnyugtató, miközben Gabrovó zöld elővárosain haladunk át. Az érkezés a skanzenhez az időjárás ellenére is zökkenőmentes.\n\nDélben a múzeumot fedezzük fel, gyakran keresve menedéket a kézművesek műhelyeiben. A buszos visszaút a központba jó alkalom a pihenésre és a szárítkozásra.\n\nDélután az ebédet összekötjük a Humor Háza meglátogatásával. Mivel a két hely közel van egymáshoz, a gyaloglás minimális. A tömegközlekedés megbízhatóan szállít minket a helyszínek között.\n\nA napot a központban tett sétával zárjuk az Aprilov-iskola felé. A fedett buszmegállókat köztes állomásként használjuk, és élvezzük a város nyugodt, esős hangulatát.",
+            "ro": "Luăm autobuzul spre Etar. Ropotul ploii pe plafonul autobuzului este liniștitor în timp ce trecem prin suburbiile verzi ale orașului Gabrovo. Sosirea la muzeu este simplă, în ciuda vremii.\n\nLa prânz explorăm muzeul, adăpostindu-ne adesea în atelierele meșteșugarilor. Întoarcerea spre centru cu autobuzul este o ocazie bună pentru odihnă și uscare.\n\nDupă-amiaza combinăm prânzul cu o vizită la Casa Umorului. Deoarece ambele locuri sunt aproape, drumul este scurt. Transportul public ne duce sigur de la un punct la altul.\n\nZiua se încheie cu o plimbare prin centru spre Școala Aprilov. Folosim stațiile de autobuz acoperite ca puncte de oprire și savurăm atmosfera relaxată a orașului sub ploaie.",
+            "en": "We take the bus to Etar. The drumming of rain on the bus roof is soothing as we pass through Gabrovo's green outskirts. Arriving at the Etar museum is straightforward despite the weather.\n\nAt noon, we explore the museum, often seeking shelter in the craftsmen's workshops. The bus ride back to the center is a good chance to rest and dry off briefly.\n\nIn the afternoon, we combine lunch with a visit to the House of Humour. Since both are located close to each other, the walk is short. Public transit reliably gets us from A to B.\n\nThe day ends with a walk through the center to Aprilov High School. We use covered bus stops as transit points, enjoying the city's relaxed atmosphere in the rain."
+          },
+          "stops": [
+            {
+              "name": "Bus ride to the Etar Open Air Museum",
+              "tip_5lang": {
+                "de": "Fahrplan vorab prüfen; Busse fahren bei Regen seltener.",
+                "hu": "Ellenőrizze a menetrendet; esőben a buszok ritkábban járhatnak.",
+                "ro": "Verificați programul; autobuzele pot circula mai rar pe ploaie.",
+                "en": "Check the schedule beforehand; buses may run less frequently in heavy rain."
+              }
+            },
+            {
+              "name": "Exploring the Etar Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Handwerkshäuser als trockene Stationen.",
+                "hu": "Használja a kézműves házakat száraz állomáshelyként.",
+                "ro": "Folosiți casele meșteșugărești ca puncte de adăpost.",
+                "en": "Use the artisan houses as dry stops along the way."
+              }
+            },
+            {
+              "name": "Return to the center",
+              "tip_5lang": {
+                "de": "An der Haltestelle unter dem Dach warten.",
+                "hu": "Várjon a buszra a megálló fedett része alatt.",
+                "ro": "Așteptați în zona acoperită a stației.",
+                "en": "Wait for the bus under the covered area of the stop."
+              }
+            },
+            {
+              "name": "Lunch and House of Humour",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle zum Museum.",
+                "hu": "Rövid séta a megállótól a múzeumig.",
+                "ro": "Drum scurt pe jos de la stație la muzeu.",
+                "en": "Short walk from the bus stop to the museum."
+              }
+            },
+            {
+              "name": "Walk through the center",
+              "tip_5lang": {
+                "de": "Zentrale Haltestellen sind gute Orientierungspunkte.",
+                "hu": "A központi megállók kiváló tájékozódási pontok.",
+                "ro": "Stațiile centrale sunt puncte bune de reper.",
+                "en": "Central bus stops are good landmarks for navigation."
+              }
+            },
+            {
+              "name": "Visit to Aprilov High School",
+              "tip_5lang": {
+                "de": "Buslinie wählen, die direkt am Gymnasium hält.",
+                "hu": "Válasszon olyan buszjáratot, amely közvetlenül a gimnáziumnál áll meg.",
+                "ro": "Alegeți o linie care oprește direct lângă liceu.",
+                "en": "Choose a bus line that stops directly near the high school."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten im Voraus beim Fahrer oder am Kiosk.",
+              "Halten Sie Kleingeld für den Fahrpreis bereit.",
+              "Achten Sie auf die Ansagen der Haltestellen.",
+              "Nutzen Sie die Wartezeiten für die Planung des nächsten Stopps."
+            ],
+            "hu": [
+              "Vegye meg a jegyet előre a sofőrnél vagy a kioszkban.",
+              "Készítsen elő aprópénzt a jegyvásárláshoz.",
+              "Figyeljen a megállók bemondására.",
+              "Használja ki a várakozási időt a következő állomás megtervezésére."
+            ],
+            "ro": [
+              "Cumpărați biletele în avans de la șofer sau chioșc.",
+              "Pregătiți mărunțiș pentru plata biletului.",
+              "Fiți atenți la anunțurile stațiilor.",
+              "Folosiți timpul de așteptare pentru a planifica următoarea oprire."
+            ],
+            "en": [
+              "Buy tickets in advance from the driver or at a kiosk.",
+              "Keep small change ready for bus fares.",
+              "Pay attention to stop announcements on the bus.",
+              "Use waiting times to plan your next indoor stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Bus nach Etar ist im Winter angenehm geheizt. Die Fahrt durch die verschneiten Vororte bietet tolle Ausblicke, ohne dass man selbst fahren muss. Die Ankunft am Freilichtmuseum ist pünktlich und komfortabel.\n\nMittags genießen wir die winterliche Ruhe in Etar, bevor wir mit dem Bus zurück ins Zentrum fahren. Die kurzen Wartezeiten an den Haltestellen sind bei der Kälte gut auszuhalten.\n\nNachmittags besuchen wir das Haus des Humors. Die Verbindung vom Zentrum ist hervorragend. Wir nutzen die Zeit in den beheizten Innenräumen, um uns aufzuwärmen und die Kultur zu genießen.\n\nDer Abend endet mit einem kurzen Spaziergang im Zentrum. Die öffentlichen Verkehrsmittel bringen uns sicher zurück zum Ausgangspunkt, während die Stadt in winterlicher Festbeleuchtung erstrahlt.",
+            "hu": "Az Etar felé tartó busz télen kellemesen fűtött. A havas elővárosokon átvezető út nagyszerű kilátást nyújt, anélkül, hogy nekünk kellene vezetnünk. Érkezés a skanzenhez pontos és kényelmes.\n\nDélben élvezzük Etar téli nyugalmát, mielőtt busszal visszatérnénk a központba. A megállókban töltött rövid várakozási idő a hidegben is jól bírható.\n\nDélután a Humor Házát látogatjuk meg. A központból kiváló a közlekedés. A fűtött belső terekben töltött időt a felmelegedésre és a kultúra élvezetére használjuk.\n\nAz este rövid sétával zárul a belvárosban. A tömegközlekedés biztonságosan visz vissza minket a kiindulópontra, miközben a város téli díszkivilágításban pompázik.",
+            "ro": "Autobuzul spre Etar este plăcut încălzit iarna. Drumul prin suburbiile înzăpezite oferă priveliști superbe fără efortul de a conduce. Sosirea la muzeu este punctuală și confortabilă.\n\nLa prânz savurăm liniștea hibernală din Etar înainte de a reveni cu autobuzul în centru. Timpii scurți de așteptare în stații sunt ușor de suportat chiar și pe frig.\n\nDupă-amiaza vizităm Casa Umorului. Legătura din centru este excelentă. Folosim timpul în spațiile încălzite pentru a ne relaxa și a ne bucura de cultură.\n\nSeara se încheie cu o scurtă plimbare în centru. Mijloacele de transport public ne duc în siguranță înapoi, în timp ce orașul strălucește sub iluminatul festiv de iarnă.",
+            "en": "The bus to Etar is pleasantly heated in winter. The ride through snowy outskirts offers great views without the stress of driving. Arriving at the open-air museum is punctual and comfortable.\n\nAt noon, we enjoy the winter silence at Etar before taking the bus back to the center. Short wait times at the stops are manageable even in the cold.\n\nIn the afternoon, we visit the House of Humour. Connections from the center are excellent. We spend time in the heated interior to warm up and enjoy the local culture.\n\nThe evening ends with a short walk downtown. Public transit brings us safely back to our starting point as the city glows under festive winter lights."
+          },
+          "stops": [
+            {
+              "name": "Bus ride to the Etar Open Air Museum",
+              "tip_5lang": {
+                "de": "Im Bus ist es warm; ziehen Sie die Jacke etwas auf.",
+                "hu": "A buszon meleg van; érdemes kicsit kicipzározni a kabátot.",
+                "ro": "Este cald în autobuz; desfaceți puțin jacheta.",
+                "en": "It's warm on the bus; unzip your coat to stay comfortable."
+              }
+            },
+            {
+              "name": "Exploring the Etar Museum",
+              "tip_5lang": {
+                "de": "Planen Sie weniger Zeit im Freien ein als im Sommer.",
+                "hu": "Tervezzen kevesebb időt a szabadban, mint nyáron.",
+                "ro": "Planificați mai puțin timp în aer liber decât vara.",
+                "en": "Plan for less outdoor time compared to a summer visit."
+              }
+            },
+            {
+              "name": "Return to the center",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob es Winterfahrpläne gibt.",
+                "hu": "Ellenőrizze, hogy van-e külön téli menetrend.",
+                "ro": "Verificați dacă există programe de iarnă.",
+                "en": "Check if there are special winter schedules in effect."
+              }
+            },
+            {
+              "name": "Lunch and House of Humour",
+              "tip_5lang": {
+                "de": "Museen sind im Winter oft kürzer geöffnet.",
+                "hu": "A múzeumok télen gyakran rövidebb ideig tartanak nyitva.",
+                "ro": "Muzeele au adesea program redus pe timp de iarnă.",
+                "en": "Museums often have shorter opening hours in winter."
+              }
+            },
+            {
+              "name": "Walk through the center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die beleuchteten Hauptstraßen.",
+                "hu": "Használja a kivilágított főutcákat a sétához.",
+                "ro": "Folosiți străzile principale iluminate pentru plimbare.",
+                "en": "Stick to the illuminated main streets for your walk."
+              }
+            },
+            {
+              "name": "Visit to Aprilov High School",
+              "tip_5lang": {
+                "de": "Idealer Stopp kurz vor Sonnenuntergang.",
+                "hu": "Ideális megálló közvetlenül naplemente előtt.",
+                "ro": "Oprire ideală chiar înainte de apusul soarelui.",
+                "en": "An ideal stop just before the early winter sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf eventuelle witterungsbedingte Verspätungen.",
+              "Halten Sie sich in der Nähe der Heizungen im Bus auf.",
+              "Vermeiden Sie das Warten an abgelegenen Haltestellen bei Dunkelheit.",
+              "Informieren Sie sich über die letzte Rückfahrt ins Zentrum."
+            ],
+            "hu": [
+              "Ügyeljen az időjárás okozta esetleges késésekre.",
+              "Lehetőleg a busz fűtött részei közelében foglaljon helyet.",
+              "Sötétedés után kerülje a várakozást a kreeső megállókban.",
+              "Tájékozódjon az utolsó központba tartó járat idejéről."
+            ],
+            "ro": [
+              "Fiți atenți la eventualele întârzieri cauzate de vreme.",
+              "Stați în apropierea surselor de căldură din autobuz.",
+              "Evitați așteptarea în stații izolate după lăsarea întunericului.",
+              "Informați-vă despre ultima cursă de întoarcere spre centru."
+            ],
+            "en": [
+              "Be aware of potential weather-related transit delays.",
+              "Try to sit near the heaters inside the bus.",
+              "Avoid waiting at remote stops after dark.",
+              "Check the time of the last return bus to the center."
+            ]
+          }
+        }
       }
     }
   }

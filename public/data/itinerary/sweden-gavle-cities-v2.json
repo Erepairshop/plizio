@@ -386,6 +386,214 @@
           "Embrace the 'Fika' tradition for a coffee and pastry break in the afternoon.",
           "The tap water is of excellent quality and is safe to drink."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Stortorget unter grauen Wolken, doch die Cafés bieten Zuflucht. In Gamla Gefle schützen die engen Gassen ein wenig vor dem Wind.\r\nMittags suchen wir Wärme im Joe Hill Museum und der Dreifaltigkeitskirche, wo die Stille den Regen draußen vergessen lässt.\r\nNachmittags führt der Weg zum Schloss Gävle. Die herbstliche Nässe lässt die alten Mauern dunkel und geheimnisvoll leuchten.\r\nAbends spazieren wir durch den Boulognerskogen, wo das Rauschen des Flusses Gävleån mit dem Prasseln des Regens verschmilzt.",
+            "hu": "A nap a Stortorgeten indul, esernyők alatt, de a közeli pékségek illata kárpótol. Gamla Gefle macskakövei csillognak az esőben.\r\nDélben a Joe Hill Múzeum és a Szentháromság-templom nyújt menedéket, ahol elmélyedhetünk a város történelmében.\r\nDélután a Gävlei kastély zord falai között kalandozunk, miközben az eső mossa az udvart.\r\nEste egy rövid, frissítő séta a Boulognerskogen parkban, ahol a vizes levegőben felerősödnek az erdő illatai.",
+            "ro": "Ziua începe în Stortorget sub umbrele, dar cafenelele din jur oferă un refugiu cald. În Gamla Gefle, străzile înguste capătă un farmec aparte pe ploaie.\r\nLa prânz, Muzeul Joe Hill și Biserica Sfânta Treime sunt locurile perfecte pentru a rămâne la adăpost și a învăța despre cultura locală.\r\nDupă-amiaza vizităm Castelul Gävle, ale cărui ziduri vechi par și mai impunătoare sub cerul plumburiu.\r\nSeara se încheie cu o plimbare prin parcul Boulognerskogen, unde sunetul ploii se împletește cu clipocitul râului.",
+            "en": "The day starts at Stortorget under umbrellas, but nearby cafés offer a warm refuge. In Gamla Gefle, the wet cobblestones glisten beautifully.\r\nAt noon, the Joe Hill Museum and Holy Trinity Church provide the perfect indoor escape to dive into local history.\r\nIn the afternoon, we explore Gävle Castle, its historic walls standing firm against the misty Swedish rain.\r\nEvening brings a refreshing walk through Boulognerskogen Park, where the damp air carries the scent of pine and the rushing river."
+          },
+          "stops": [
+            {
+              "name": "Stortorget (Main Square)",
+              "tip_5lang": {
+                "de": "Die Arkaden der umliegenden Gebäude bieten guten Schutz vor Schauern.",
+                "hu": "A környező épületek árkádjai alatt szárazon maradhatsz a záporok idején.",
+                "ro": "Arcadele clădirilor din jur oferă protecție bună împotriva averselor.",
+                "en": "The arcades of the surrounding buildings offer good shelter from showers."
+              }
+            },
+            {
+              "name": "Gamla Gefle (Old Town)",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster, es wird bei Nässe sehr rutschig.",
+                "hu": "Vigyázz a macskaköveken, esőben nagyon csúszóssá válnak.",
+                "ro": "Atenție pe piatra cubică, devine foarte alunecoasă când este udă.",
+                "en": "Watch your step on the cobblestones; they become very slippery when wet."
+              }
+            },
+            {
+              "name": "Joe Hill Museum",
+              "tip_5lang": {
+                "de": "Ideal, um die regenreichste Stunde des Vormittags drinnen zu verbringen.",
+                "hu": "Ideális helyszín a délelőtti legesősebb óra benti eltöltéséhez.",
+                "ro": "Loc ideal pentru a petrece cea mai ploioasă oră a dimineții la interior.",
+                "en": "Ideal place to spend the rainiest hour of the morning indoors."
+              }
+            },
+            {
+              "name": "Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Holzschnitzereien, während es draußen regnet.",
+                "hu": "Csodáld meg a fafaragásokat, amíg kint dobol az eső.",
+                "ro": "Admiră sculpturile în lemn în timp ce afară plouă torențial.",
+                "en": "Admire the wood carvings while the rain drums outside."
+              }
+            },
+            {
+              "name": "Gävle Castle",
+              "tip_5lang": {
+                "de": "Das Schlossmuseum bietet trockene Einblicke in die regionale Geschichte.",
+                "hu": "A kastélymúzeum száraz menedéket és érdekes helytörténeti kiállítást kínál.",
+                "ro": "Muzeul castelului oferă o perspectivă uscată asupra istoriei regionale.",
+                "en": "The castle museum offers dry insights into regional history."
+              }
+            },
+            {
+              "name": "Gävle Goat Location",
+              "tip_5lang": {
+                "de": "Ein schnelles Foto genügt bei diesem Wetter, bevor es weitergeht.",
+                "hu": "Egy gyors fotó elég ilyenkor, mielőtt továbbállnál a fedett helyek felé.",
+                "ro": "O fotografie rapidă este suficientă pe această vreme înainte de a pleca.",
+                "en": "A quick photo is enough in this weather before moving to covered areas."
+              }
+            },
+            {
+              "name": "Boulognerskogen Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die asphaltierten Wege, um Matsch zu vermeiden.",
+                "hu": "Használd az aszfaltozott utakat, hogy elkerüld a sárban gázolást.",
+                "ro": "Folosește potecile asfaltate pentru a evita noroiul din parc.",
+                "en": "Use the paved paths to avoid walking through mud in the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen der Windböen vom Meer her ratsam.",
+              "Die Stadtbibliothek am Stortorget ist ein großartiger, kostenloser Rückzugsort.",
+              "Tragen Sie wasserfeste Schuhe für die Pfützen in der Altstadt.",
+              "Nutzen Sie die Cafés in der Drottninggatan für trockene Pausen.",
+              "Die Innenräume der Museen sind in Gävle meist gut beheizt."
+            ],
+            "hu": [
+              "A tenger felől érkező szél miatt érdemes erős esernyőt vinni.",
+              "A Stortorget melletti könyvtár remek ingyenes pihenőhely esőben.",
+              "Vízálló cipő kötelező az óvárosi macskaköves tócsák miatt.",
+              "A Drottninggatan kávézói ideálisak egy-egy száraz pihenőre.",
+              "A gävlei múzeumok belső terei általában kellemesen fűtöttek."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este recomandată din cauza rafalelor de vânt marine.",
+              "Biblioteca municipală de lângă Stortorget este un refugiu gratuit excelent.",
+              "Purtați încălțăminte impermeabilă pentru bălțile din orașul vechi.",
+              "Folosiți cafenelele de pe Drottninggatan pentru pauze la adăpost.",
+              "Interioarele muzeelor din Gävle sunt de obicei bine încălzite."
+            ],
+            "en": [
+              "A sturdy umbrella is advised due to wind gusts coming from the sea.",
+              "The city library near Stortorget is a great, free indoor retreat.",
+              "Wear waterproof shoes for the puddles in the Old Town's cobblestones.",
+              "Use the cafés on Drottninggatan for dry breaks during the walk.",
+              "Museum interiors in Gävle are typically well-heated and cozy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Gävle im Winter ist magisch, besonders wenn Schnee den Stortorget bedeckt. Die kalte Luft beißt, doch die Vorfreude auf die Altstadt wärmt.\r\nMittags schlendern wir durch Gamla Gefle, wo die bunten Holzhäuser vor dem weißen Hintergrund wie aus einem Märchen wirken.\r\nNachmittags besuchen wir das Schloss und hoffen auf den Anblick des berühmten Gävle-Bocks, der hier oft in Flammen oder Pracht steht.\r\nDer Tag endet früh im Boulognerskogen, wenn die Dämmerung gegen 15:30 Uhr einsetzt und die Parklaternen die verschneiten Pfade beleuchten.",
+            "hu": "Gävle télen varázslatos, különösen, ha hó borítja a főteret. A hideg csípős, de az óváros látványa mindenért kárpótol.\r\nDélben Gamla Gefle színes faházai között sétálunk, amelyek mesebelien festenek a fehér hótakaróban.\r\nDélután a kastély környékén járunk, és megcsodáljuk a híres Gävlei Kecskét, a város ikonikus szalmaszobrát.\r\nA nap korán véget ér a Boulognerskogenben, mivel 15:30-kor már sötétedik, és kigyúlnak a hangulatos parki fények.",
+            "ro": "Gävle iarna este magic, mai ales când zăpada acoperă Stortorget. Aerul rece este tăios, dar farmecul orașului vechi merită efortul.\r\nLa prânz ne plimbăm prin Gamla Gefle, unde casele colorate din lemn arată ca într-o poveste pe fundalul alb.\r\nDupă-amiaza vizităm castelul și admirăm faimoasa Capră din Gävle, simbolul de paie uriaș al orașului.\r\nZiua se încheie devreme în Boulognerskogen, deoarece amurgul se lasă la 15:30, iar felinarele luminează potecile înzăpezite.",
+            "en": "Gävle in winter is magical, especially with snow blanketing Stortorget. The air is crisp, but the festive atmosphere keeps spirits high.\r\nAt noon, we wander through Gamla Gefle, where colorful wooden houses look like a fairy tale against the white snow.\r\nIn the afternoon, we visit the castle area to see the world-famous Gävle Goat, the city's iconic giant straw monument.\r\nThe day ends early at Boulognerskogen Park as twilight sets in by 3:30 PM, with park lamps lighting up the snowy trails."
+          },
+          "stops": [
+            {
+              "name": "Stortorget (Main Square)",
+              "tip_5lang": {
+                "de": "Besuchen Sie den kleinen Weihnachtsmarkt, falls Sie im Dezember hier sind.",
+                "hu": "Látogasd meg a kis karácsonyi vásárt, ha decemberben jársz erre.",
+                "ro": "Vizitați micul târg de Crăciun dacă sunteți aici în decembrie.",
+                "en": "Visit the small Christmas market if you are here during December."
+              }
+            },
+            {
+              "name": "Gamla Gefle (Old Town)",
+              "tip_5lang": {
+                "de": "Die festliche Beleuchtung macht die Altstadt am späten Nachmittag magisch.",
+                "hu": "Az ünnepi díszkivilágítás késő délután teszi igazán varázslatossá az óvárost.",
+                "ro": "Iluminatul festiv face orașul vechi magic la sfârșitul după-amiezii.",
+                "en": "Festive lighting makes the Old Town magical in the late afternoon."
+              }
+            },
+            {
+              "name": "Joe Hill Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um sich nach dem Spaziergang die Hände aufzuwärmen.",
+                "hu": "Kiváló melegedőhely, ahol felengedhetnek átfagyott végtagjaid.",
+                "ro": "Un loc cald pentru a vă încălzi mâinile după plimbarea prin frig.",
+                "en": "A warm spot to thaw out your hands after the cold walk."
+              }
+            },
+            {
+              "name": "Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Die Kirche strahlt im Winter eine besonders friedliche Ruhe aus.",
+                "hu": "A templom télen különösen békés és meghitt hangulatot áraszt.",
+                "ro": "Biserica emană o liniște deosebit de pașnică în timpul iernii.",
+                "en": "The church radiates a particularly peaceful tranquility in winter."
+              }
+            },
+            {
+              "name": "Gävle Castle",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eiszapfen an den historischen Dachrinnen.",
+                "hu": "Vigyázz a történelmi ereszcsatornákról lelógó jégcsapokra.",
+                "ro": "Atenție la țurțurii de gheață de pe jgheaburile istorice.",
+                "en": "Watch out for icicles hanging from the historic gutters."
+              }
+            },
+            {
+              "name": "Gävle Goat Location",
+              "tip_5lang": {
+                "de": "Das Highlight im Dezember! Prüfen Sie, ob er noch steht.",
+                "hu": "A decemberi fénypont! Ellenőrizd, hogy áll-e még a Kecske.",
+                "ro": "Punctul culminant în decembrie! Verificați dacă mai este în picioare.",
+                "en": "The highlight in December! Check if the Goat is still standing."
+              }
+            },
+            {
+              "name": "Boulognerskogen Park",
+              "tip_5lang": {
+                "de": "Die verschneiten Bäume bieten tolle Fotomotive, aber bleiben Sie auf den Wegen.",
+                "hu": "A havas fák remek fotótémák, de maradj a letakarított ösvényeken.",
+                "ro": "Copacii înzăpeziți oferă motive foto grozave, dar rămâneți pe poteci.",
+                "en": "Snow-covered trees offer great photo ops, but stay on the cleared paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche; die Temperaturen fallen oft weit unter Null.",
+              "Die Sonne geht im Dezember gegen 15:00 Uhr unter, planen Sie frühe Fotos.",
+              "Gute Winterschuhe mit Profil sind wegen Eisglätte unerlässlich.",
+              "Genießen Sie eine 'Fika' mit heißem Kakao in einem der Cafés.",
+              "Achten Sie auf Räumfahrzeuge, die den Schnee von den Gehwegen schieben."
+            ],
+            "hu": [
+              "Viselj termikus alsóneműt, a hőmérséklet gyakran fagypont alatt marad.",
+              "A nap decemberben 15:00 körül nyugszik, tervezd korábbra a fotózást.",
+              "A csúszós utak miatt elengedhetetlen a jó profilú téli bakancs.",
+              "Élvezz egy forró kakaós 'Fika' szünetet valamelyik hangulatos kávézóban.",
+              "Figyelj a hókotrókra, amelyek folyamatosan tisztítják a járdákat."
+            ],
+            "ro": [
+              "Purtați lenjerie termică; temperaturile scad adesea mult sub zero grade.",
+              "Soarele apune în jur de ora 15:00 în decembrie, planificați pozele devreme.",
+              "Încălțămintea de iarnă cu talpă aderentă este esențială din cauza gheții.",
+              "Savurați o 'Fika' cu ciocolată caldă în una dintre cafenelele locale.",
+              "Fiți atenți la utilajele de deszăpezire care curăță trotuarele."
+            ],
+            "en": [
+              "Wear thermal layers; temperatures often drop well below freezing point.",
+              "The sun sets around 3:00 PM in December, so plan your photos early.",
+              "Good winter boots with grip are essential due to icy patches.",
+              "Enjoy a 'Fika' break with hot chocolate in one of the cozy cafés.",
+              "Watch out for snowplows that frequently clear the city's walkways."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +950,196 @@
           "Wear a helmet and always lock your bike securely.",
           "Be mindful of pedestrians in the car-free zones of the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir die Radtour am Stortorget. Die Stadt ist fahrradfreundlich, mit gut asphaltierten Wegen, die das Wasser ableiten.\r\nMittags radeln wir am Schloss vorbei zum Boulognerskogen, wo die dichten Baumkronen einen natürlichen Schutz bieten.\r\nNachmittags geht es zum Eisenbahnmuseum. Die Fahrt dorthin ist flach, aber der Gegenwind kann bei Regen herausfordernd sein.\r\nAbends kehren wir ins Zentrum zurück, wobei die Stadtlichter in den nassen Straßen reflektiert werden und uns den Weg weisen.",
+            "hu": "Az eső ellenére a Stortorgetről indulunk bringával. Gävle kerékpárosbarát, a jól karbantartott utak elvezetik a vizet.\r\nDélben a kastély mellett elhaladva a Boulognerskogen felé vesszük az irányt, ahol a lombok némi védelmet nyújtanak.\r\nDélután a Vasúti Múzeumba tekerünk. Az út sík, de az esős szél próbára teheti a kitartást.\r\nEste visszatérünk a központba, miközben a városi fények tükröződnek a vizes aszfalton, mutatva az utat.",
+            "ro": "În ciuda ploii, începem turul cu bicicleta din Stortorget. Gävle este prietenos cu bicicliștii, având piste care drenează bine apa.\r\nLa prânz pedalăm pe lângă castel spre Boulognerskogen, unde coroanele bogate ale copacilor oferă o protecție naturală.\r\nDupă-amiaza ne îndreptăm spre Muzeul Căilor Ferate. Drumul este plat, dar vântul din față poate fi o provocare pe ploaie.\r\nSeara revenim în centru, luminile orașului reflectându-se în străzile ude și ghidându-ne drumul.",
+            "en": "Despite the rain, we start our bike tour at Stortorget. Gävle is bike-friendly, with well-paved paths that drain water efficiently.\r\nAt noon, we cycle past the castle to Boulognerskogen, where the thick tree canopy offers some natural shelter.\r\nIn the afternoon, we head to the Railway Museum. The ride is flat, but the rainy headwind can be a bit challenging.\r\nIn the evening, we return to the center as the city lights reflect on the wet pavement, guiding our way back."
+          },
+          "stops": [
+            {
+              "name": "Stortorget & Gamla Gefle",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad in der Altstadt, um auf nassen Steinen Stürze zu vermeiden.",
+                "hu": "Az óvárosban inkább told a bringát, hogy elkerüld az esést a csúszós köveken.",
+                "ro": "Împingeți bicicleta în orașul vechi pentru a evita căzăturile pe pietrele ude.",
+                "en": "Push your bike in the Old Town to avoid falls on the wet stones."
+              }
+            },
+            {
+              "name": "Gävle Castle",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Fedett biciklitárolókat találsz a bejárat közelében.",
+                "ro": "Suporturile acoperite pentru biciclete se află lângă intrare.",
+                "en": "Covered bike racks are located near the entrance for your convenience."
+              }
+            },
+            {
+              "name": "Boulognerskogen Park",
+              "tip_5lang": {
+                "de": "Die Hauptwege sind asphaltiert und auch bei Regen gut befahrbar.",
+                "hu": "A főutak aszfaltozottak, így esőben is jól tekerhetők.",
+                "ro": "Aleile principale sunt asfaltate și ușor de parcurs chiar și pe ploaie.",
+                "en": "The main paths are paved and easy to cycle even in the rain."
+              }
+            },
+            {
+              "name": "Gävle Concert Hall",
+              "tip_5lang": {
+                "de": "Das Vordach bietet einen kurzen trockenen Platz für eine Karte-Check-Pause.",
+                "hu": "Az előtető alatt szárazon nézheted meg a térképet a következő szakasz előtt.",
+                "ro": "Copertina oferă un loc uscat pentru o scurtă pauză de verificare a hărții.",
+                "en": "The overhang provides a dry spot for a quick map-check break."
+              }
+            },
+            {
+              "name": "Swedish Railway Museum",
+              "tip_5lang": {
+                "de": "Ein großes Ziel mit viel Platz im Inneren, um trocken zu werden.",
+                "hu": "Hatalmas benti terület, ahol bőven van időd megszáradni.",
+                "ro": "O destinație mare cu mult spațiu interior pentru a vă usca.",
+                "en": "A large destination with plenty of indoor space to dry off."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Beleuchtung einschalten! Die Sicht ist bei Regen oft eingeschränkt.",
+                "hu": "Kapcsold be a lámpákat! Esőben jelentősen romlanak a látási viszonyok.",
+                "ro": "Aprindeți luminile! Vizibilitatea este adesea redusă pe ploaie.",
+                "en": "Turn on your lights! Visibility is often reduced during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein kompletter Regenanzug ist besser als nur ein Ponyo beim Radfahren.",
+              "Prüfen Sie Ihre Bremsen; der Bremsweg verlängert sich auf nasser Fahrbahn.",
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können.",
+              "Ein Sattelschutz hält Ihre Hose auch bei kurzen Stopps trocken.",
+              "Die Fahrradwege in Gävle sind im Winter oft besser geräumt als Nebenstraßen."
+            ],
+            "hu": [
+              "Bringázáshoz a teljes esőruha sokkal hatékonyabb, mint egy sima poncsó.",
+              "Ellenőrizd a fékeket, mert vizes úton jelentősen megnő a féktávolság.",
+              "Kerüld a tócsákat, mert mély kátyúkat rejthetnek az aszfalton.",
+              "Egy nyeregvédő szárazon tartja a nadrágodat a rövid megállók alatt is.",
+              "Gävle kerékpárútjait gyakran hamarabb letakarítják, mint a mellékutcákat."
+            ],
+            "ro": [
+              "Un costum complet de ploaie este mai bun decât o pelerină când pedalați.",
+              "Verificați frânele; distanța de frânare crește pe carosabil ud.",
+              "Evitați bălțile, deoarece acestea pot ascunde gropi adânci.",
+              "O protecție pentru șa vă va menține pantalonii uscați la opriri scurte.",
+              "Pistele de biciclete din Gävle sunt adesea curățate mai rapid decât străzile."
+            ],
+            "en": [
+              "A full rain suit is much more effective than a poncho while cycling.",
+              "Check your brakes; stopping distance increases significantly on wet roads.",
+              "Avoid puddles as they can hide deep potholes in the asphalt.",
+              "A saddle cover will keep your trousers dry during short stops.",
+              "Bike paths in Gävle are often cleared of water/snow faster than side streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren in Gävle im Winter erfordert Mut und gute Reifen. Der Stortorget ist oft glatt, aber die Wege sind meist gestreut.\r\nMittags radeln wir vorsichtig zum Schloss, während der Frost die Speichen weiß färbt und die Luft nach Schnee riecht.\r\nNachmittags führt uns die Route zum warmen Eisenbahnmuseum. Die flache Landschaft lässt den kalten Ostwind ungehindert über uns fegen.\r\nAbends leuchten die Fahrradscheinwerfer auf dem weißen Schnee besonders hell, während wir zurück in die warme Innenstadt fahren.",
+            "hu": "A téli bringázás Gävlében bátorságot és jó gumikat igényel. A főtér gyakran jeges, de az utakat általában szórják.\r\nDélben óvatosan tekerünk a kastély felé, miközben a dér fehérre festi a küllőket és a levegőben hószag érezhető.\r\nDélután az út a meleg Vasúti Múzeumba vezet. A sík tájon a hideg keleti szél akadálytalanul söpör végig.\r\nEste a biciklilámpák fénye különösen erősen verődik vissza a fehér havon, miközben a meleg belvárosba igyekszünk.",
+            "ro": "Mersul cu bicicleta iarna în Gävle necesită curaj și anvelope bune. Stortorget este adesea alunecos, dar pistele sunt de obicei dezhăpezite.\r\nLa prânz pedalăm cu grijă spre castel, în timp ce gerul albește spițele, iar aerul miroase a zăpadă.\r\nDupă-amiaza traseul ne duce spre căldura Muzeului Căilor Ferate. Peisajul plat permite vântului rece de est să bată neîncetat.\r\nSeara, farurile bicicletei strălucesc puternic pe zăpada albă în timp ce ne întoarcem spre centrul cald al orașului.",
+            "en": "Cycling in Gävle in winter requires courage and good tires. Stortorget is often icy, but the paths are usually gritted or cleared.\r\nAt noon, we cycle carefully towards the castle, with frost whitening the spokes and the air smelling of fresh snow.\r\nIn the afternoon, the route takes us to the warm Railway Museum. The flat landscape offers no shield against the biting east wind.\r\nIn the evening, bike lights shine extra bright against the white snow as we head back to the cozy city center."
+          },
+          "stops": [
+            {
+              "name": "Stortorget & Gamla Gefle",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Radfahren auf ungeräumten Gehwegen in der Altstadt.",
+                "hu": "Kerüld a tekerést az óváros le nem takarított járdáin.",
+                "ro": "Evitați mersul cu bicicleta pe trotuarele necurățate din orașul vechi.",
+                "en": "Avoid cycling on uncleared sidewalks in the Old Town area."
+              }
+            },
+            {
+              "name": "Gävle Castle",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schloss kann bei Eis sehr tückisch sein.",
+                "hu": "A kastélyhoz vezető emelkedő jeges időben nagyon trükkös lehet.",
+                "ro": "Urcarea spre castel poate fi foarte înșelătoare în caz de îngheț.",
+                "en": "The climb to the castle can be very treacherous when icy."
+              }
+            },
+            {
+              "name": "Boulognerskogen Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die Winterlandschaft, aber achten Sie auf vereiste Kurven.",
+                "hu": "Élvezd a téli tájat, de vigyázz a jeges kanyarokban.",
+                "ro": "Bucurați-vă de peisajul de iarnă, dar atenție la curbele înghețate.",
+                "en": "Enjoy the winter scenery, but be careful of icy patches in corners."
+              }
+            },
+            {
+              "name": "Gävle Concert Hall",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um kurz anzuhalten und die Handschuhe zu richten.",
+                "hu": "Jó hely egy rövid megállásra, hogy megigazítsd a kesztyűdet.",
+                "ro": "Un loc bun pentru o scurtă oprire și pentru a vă aranja mănușile.",
+                "en": "A good spot for a quick stop to adjust your gloves."
+              }
+            },
+            {
+              "name": "Swedish Railway Museum",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad gut ab; Schlösser können bei Kälte einfrieren.",
+                "hu": "Zárd le jól a bringát, de vigyázz, a zárak belefagyhatnak a hidegbe.",
+                "ro": "Încuiați bine bicicleta; antifurturile pot îngheța la temperaturi scăzute.",
+                "en": "Lock your bike well; locks can freeze up in extreme cold."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Planen Sie mehr Zeit ein, da die Durchschnittsgeschwindigkeit im Schnee sinkt.",
+                "hu": "Számolj több idővel, mert a hóban jelentősen lecsökken az átlagsebesség.",
+                "ro": "Planificați mai mult timp, deoarece viteza medie scade pe zăpadă.",
+                "en": "Plan for more time as average speed drops significantly in the snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen (dubbade däck) sind für Gävles Wintertage sehr zu empfehlen.",
+              "Tragen Sie eine winddichte Maske oder einen Schal unter dem Helm.",
+              "Batterien von E-Bikes und Lichtern entladen sich in der Kälte schneller.",
+              "Vermeiden Sie hektische Lenkbewegungen auf festgefahrenem Schnee.",
+              "Die Dunkelheit setzt früh ein; reflektierende Kleidung rettet Leben."
+            ],
+            "hu": [
+              "A szöges gumik (dubbade däck) nagyon ajánlottak a gävlei téli napokon.",
+              "Viselj szélálló maszkot vagy sálat a bukósisak alatt.",
+              "Az e-bike-ok és a lámpák akkumulátorai gyorsabban merülnek a hidegben.",
+              "Kerüld a hirtelen kormánymozdulatokat a letaposott havon.",
+              "A sötétség korán leszáll, a fényvisszaverő ruházat életet menthet."
+            ],
+            "ro": [
+              "Anvelopele cu ținte (dubbade däck) sunt recomandate pentru iarna din Gävle.",
+              "Purtați o mască rezistentă la vânt sau un fular sub cască.",
+              "Bateriile bicicletelor electrice și ale luminilor se descarcă mai repede la frig.",
+              "Evitați mișcările bruște de direcție pe zăpada bătătorită.",
+              "Întunericul se lasă devreme; îmbrăcămintea reflectorizantă salvează vieți."
+            ],
+            "en": [
+              "Studded tires (dubbade däck) are highly recommended for Gävle winter days.",
+              "Wear a windproof mask or a scarf under your helmet to stay warm.",
+              "E-bike and light batteries drain much faster in freezing temperatures.",
+              "Avoid sudden steering movements on hard-packed snow or ice.",
+              "Darkness sets in early; high-visibility reflective clothing is essential."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1074,6 +1472,178 @@
           "Buy tickets for Furuviksparken online in advance to avoid queues.",
           "Fill up with gas before leaving the city if you plan longer drives."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Gävle bei Regen ein Kinderspiel. Wir starten im trockenen Fahrzeug am Stortorget und fahren entspannt zur Altstadt.\r\nMittags parken wir nahe Gamla Gefle und besuchen das Joe Hill Museum, bevor wir zum Schloss weiterfahren, ohne nass zu werden.\r\nNachmittags führt uns die Fahrt zum Eisenbahnmuseum am Stadtrand. Das Auto dient als perfekter Rückzugsort zwischen den Besichtigungen.\r\nAbends fahren wir die Küste entlang zum Furuviksparken, wo wir den Regen vom warmen Innenraum des Wagens aus beobachten können.",
+            "hu": "Autóval az esős Gävle gyerekjáték. A száraz utastérből indulunk a Stortorgetről, és kényelmesen gurulunk az óváros felé.\r\nDélben Gamla Gefle közelében parkolunk, megnézzük a múzeumot, majd a kastélyhoz hajtunk anélkül, hogy megáznánk.\r\nDélután a város szélén található Vasúti Múzeumot látogatjuk meg, az autó tökéletes bázis két megálló között.\r\nEste a part mentén Furuvik felé autózunk, a meleg kocsiból figyelve az esőcseppeket az ablakon.",
+            "ro": "Cu mașina, Gävle pe ploaie este o joacă de copii. Pornim în habitaclul uscat din Stortorget și conducem relaxat spre orașul vechi.\r\nLa prânz parcăm lângă Gamla Gefle, vizităm muzeul, apoi mergem la castel fără a ne uda deloc.\r\nDupă-amiaza drumul ne duce la Muzeul Căilor Ferate de la marginea orașului, mașina fiind refugiul perfect între vizite.\r\nSeara conducem de-a lungul coastei spre Furuvik, observând ploaia din interiorul cald al vehiculului.",
+            "en": "By car, Gävle in the rain is a breeze. We start in a dry vehicle at Stortorget and drive relaxed towards the Old Town.\r\nAt noon, we park near Gamla Gefle, visit the museum, and then head to the castle without getting wet.\r\nIn the afternoon, the drive takes us to the Railway Museum on the outskirts; the car serves as the perfect base between stops.\r\nIn the evening, we drive along the coast to Furuvik, watching the rain from the warmth of our car."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Gävle Old Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkhäuser im Zentrum, um trockenen Fußes in die Läden zu gelangen.",
+                "hu": "Használd a belvárosi parkolóházakat, hogy száraz lábbal érj az üzletekbe.",
+                "ro": "Folosiți parcările etajate din centru pentru a ajunge uscați la magazine.",
+                "en": "Use the multi-story car parks in the center to stay dry while reaching shops."
+              }
+            },
+            {
+              "name": "Gamla Gefle & Joe Hill Museum",
+              "tip_5lang": {
+                "de": "In den schmalen Gassen ist das Parken schwierig; nutzen Sie größere Parkplätze in der Nähe.",
+                "hu": "A szűk utcákban nehéz parkolni, keress nagyobb parkolót a közelben.",
+                "ro": "Parcarea este dificilă pe străzile înguste; folosiți parcări mari din apropiere.",
+                "en": "Parking is difficult in narrow streets; use larger parking lots nearby."
+              }
+            },
+            {
+              "name": "Gävle Castle & Church",
+              "tip_5lang": {
+                "de": "Es gibt begrenzte Parkmöglichkeiten direkt vor dem Schlossgelände.",
+                "hu": "Közvetlenül a kastély előtt korlátozott számban vannak parkolóhelyek.",
+                "ro": "Există locuri de parcare limitate direct în fața domeniului castelului.",
+                "en": "There are limited parking spaces directly in front of the castle grounds."
+              }
+            },
+            {
+              "name": "Cluster 2: Swedish Railway Museum",
+              "tip_5lang": {
+                "de": "Großer kostenloser Parkplatz direkt am Museumseingang vorhanden.",
+                "hu": "Hatalmas ingyenes parkoló áll rendelkezésre közvetlenül a múzeumnál.",
+                "ro": "Parcare gratuită mare disponibilă chiar la intrarea în muzeu.",
+                "en": "Large free parking lot available right at the museum entrance."
+              }
+            },
+            {
+              "name": "Cluster 3: Furuviksparken Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie bei Regen die Öffnungszeiten der Außenbereiche des Parks.",
+                "hu": "Esőben ellenőrizd a park szabadtéri részeinek nyitvatartását.",
+                "ro": "Verificați programul zonelor exterioare ale parcului în caz de ploaie.",
+                "en": "Check the opening hours of the park's outdoor areas during rainy weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkgebühren können bequem per App (z.B. EasyPark) bezahlt werden.",
+              "Achten Sie auf Aquaplaning auf den größeren Straßen wie der E4.",
+              "Behalten Sie einen Schirm im Auto für den Weg vom Parkplatz zum Ziel.",
+              "Die Scheinwerfer sollten bei schlechter Sicht immer eingeschaltet sein.",
+              "Tankstellen in Schweden bieten oft gute Bistro-Optionen für Regenpausen."
+            ],
+            "hu": [
+              "A parkolási díjat kényelmesen fizetheted applikációval (pl. EasyPark).",
+              "Figyelj a vízenfutásra (aquaplaning) a nagyobb utakon, mint az E4.",
+              "Tarts esernyőt az autóban a parkoló és a bejárat közötti szakaszra.",
+              "Rossz látási viszonyok között mindig maradjon bekapcsolva a fényszóró.",
+              "A svéd benzinkutak gyakran jó bisztrókkal szolgálnak eső elleni pihenőnek."
+            ],
+            "ro": [
+              "Taxele de parcare pot fi plătite convenabil prin aplicație (ex: EasyPark).",
+              "Atenție la acvaplanare pe drumurile principale, cum ar fi E4.",
+              "Țineți o umbrelă în mașină pentru drumul de la parcare la destinație.",
+              "Farurile trebuie să fie întotdeauna aprinse în condiții de vizibilitate redusă.",
+              "Benzinăriile din Suedia oferă adesea opțiuni bune de bistro pentru pauze."
+            ],
+            "en": [
+              "Parking fees can be conveniently paid via apps (e.g., EasyPark).",
+              "Watch out for aquaplaning on major roads like the E4 during heavy rain.",
+              "Keep an umbrella in the car for the walk from the parking lot to the entrance.",
+              "Always keep your headlights on in poor visibility conditions.",
+              "Swedish gas stations often have good bistro options for quick rainy breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterfahrten in Gävle bieten spektakuläre Ausblicke auf verschneite Wälder. Wir starten am Stortorget und genießen die Sitzheizung.\r\nMittags erkunden wir die Altstadt und das Schloss, während wir die kurzen Wege zwischen den warmen Parkplätzen schätzen.\r\nNachmittags fahren wir zum Eisenbahnmuseum, wobei die tiefstehende Wintersonne uns oft blendet, aber die Landschaft verzaubert.\r\nAbends beenden wir die Tour in Furuvik. Die Fahrt durch die dunkle, verschneite Landschaft ist ein echtes schwedisches Wintererlebnis.",
+            "hu": "A téli autózás Gävlében látványos havas erdők mellett vezet. A Stortorgetről indulunk, élvezve az ülésfűtést.\r\nDélben az óvárost és a kastélyt fedezzük fel, értékelve a meleg autó és a látnivalók közötti rövid távokat.\r\nDélután a Vasúti Múzeumba hajtunk, a mélyen járó téli nap gyakran elvakít, de a táj lenyűgöző.\r\nEste Furuvikban zárjuk a túrát, a sötét, havas tájon átvezető út igazi svéd téli élmény.",
+            "ro": "Condusul iarna în Gävle oferă vederi spectaculoase spre pădurile înzăpezite. Pornim din Stortorget, bucurându-ne de scaunele încălzite.\r\nLa prânz explorăm orașul vechi și castelul, apreciind distanțele scurte între parcările calde și obiective.\r\nDupă-amiaza conducem spre Muzeul Căilor Ferate, soarele jos de iarnă ne poate orbi, dar peisajul este fermecător.\r\nSeara încheiem turul în Furuvik, drumul prin peisajul întunecat și înzăpezit fiind o experiență de iarnă suedeză autentică.",
+            "en": "Winter driving in Gävle offers spectacular views of snow-covered forests. We start at Stortorget, enjoying the heated seats.\r\nAt noon, we explore the Old Town and the castle, appreciating the short distances between warm parking spots and the sights.\r\nIn the afternoon, we head to the Railway Museum; the low winter sun might be blinding, but the scenery is enchanting.\r\nIn the evening, we finish in Furuvik. The drive through the dark, snowy landscape is a true Swedish winter experience."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Gävle Old Town",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneewälle am Straßenrand, die Parkplätze verengen können.",
+                "hu": "Figyelj az útmenti hófalakra, amelyek leszűkíthetik a parkolóhelyeket.",
+                "ro": "Atenție la mormanele de zăpadă de pe marginea drumului care pot îngusta parcările.",
+                "en": "Watch out for snow banks along the road that can narrow the parking spaces."
+              }
+            },
+            {
+              "name": "Gamla Gefle & Joe Hill Museum",
+              "tip_5lang": {
+                "de": "Fahren Sie in den engen Gassen der Altstadt bei Glätte besonders vorsichtig.",
+                "hu": "Az óváros szűk utcáin jeges időben vezess különösen óvatosan.",
+                "ro": "Conduceți cu mare atenție pe străzile înguste din orașul vechi în caz de îngheț.",
+                "en": "Drive with extra caution in the narrow Old Town streets during icy conditions."
+              }
+            },
+            {
+              "name": "Gävle Castle & Church",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken unter tief hängenden Ästen mit schwerer Schneelast.",
+                "hu": "Ne parkolj nehéz hóval borított, mélyre lógó faágak alá.",
+                "ro": "Evitați parcarea sub crengile lăsate sub greutatea zăpezii.",
+                "en": "Avoid parking under low-hanging branches heavy with snow load."
+              }
+            },
+            {
+              "name": "Cluster 2: Swedish Railway Museum",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird regelmäßig geräumt, kann aber morgens noch glatt sein.",
+                "hu": "A parkolót rendszeresen takarítják, de reggelente még jeges lehet.",
+                "ro": "Parcarea este curățată regulat, dar poate fi alunecoasă dimineața.",
+                "en": "The parking lot is cleared regularly but can still be slippery in the morning."
+              }
+            },
+            {
+              "name": "Cluster 3: Furuviksparken Park",
+              "tip_5lang": {
+                "de": "Die Fahrt nach Furuvik ist bei Schnee landschaftlich reizvoll, erfordert aber Winterreifen.",
+                "hu": "A Furuvikba vezető út hóban csodás, de téli gumit igényel.",
+                "ro": "Drumul spre Furuvik este pitoresc pe zăpadă, dar necesită anvelope de iarnă.",
+                "en": "The drive to Furuvik is scenic in the snow but requires winter tires."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Schweden vom 1. Dezember bis 31. März gesetzlich vorgeschrieben.",
+              "Führen Sie immer einen Eiskratzer und eine kleine Schneeschaufel im Auto mit.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage regelmäßig.",
+              "Vermeiden Sie hastiges Bremsen auf vereisten Kreuzungen im Stadtgebiet.",
+              "Wildwechsel (Elche!) ist auf den Landstraßen rund um Gävle im Winter häufig."
+            ],
+            "hu": [
+              "Svédországban december 1. és március 31. között kötelező a téli gumi.",
+              "Mindig tarts jégkaparót és egy kis hólapátot az autóban.",
+              "Rendszeresen ellenőrizd a szélvédőmosó folyadék fagyállóságát.",
+              "Kerüld a hirtelen fékezést a városi jeges kereszteződésekben.",
+              "A Gävle környéki utakon télen gyakori a vadátvonulás (szarvas, jávorszarvas!)."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Suedia de la 1 decembrie la 31 martie.",
+              "Aveți întotdeauna în mașină o racletă și o lopată mică de zăpadă.",
+              "Verificați regulat nivelul antigelului din lichidul de parbriz.",
+              "Evitați frânarea bruscă în intersecțiile înghețate din oraș.",
+              "Atenție la animale sălbatice (elani!) pe drumurile din jurul Gävle iarna."
+            ],
+            "en": [
+              "Winter tires are legally required in Sweden from Dec 1st to March 31st.",
+              "Always carry an ice scraper and a small snow shovel in your car.",
+              "Regularly check the antifreeze level in your windshield washer fluid.",
+              "Avoid sudden braking at icy intersections within the city limits.",
+              "Watch for wildlife (moose/elk) on the rural roads around Gävle in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2024,214 @@
           "Most buses are cashless, so have a credit card or the app ready.",
           "Note that buses only stop at bus stops if you press the stop button."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir nutzen die effizienten X-trafik-Busse, um den Regen am Stortorget zu umgehen. Die Wartehallen sind meist verglast und trocken.\r\nMittags bringt uns der Bus schnell von der Altstadt zum Schloss, wobei wir die Aussicht aus dem trockenen Fenster genießen.\r\nNachmittags steigen wir am Bahnhof um, um zum Eisenbahnmuseum zu gelangen. Die Busse fahren pünktlich, auch wenn es draußen stürmt.\r\nAbends kehren wir bequem ins Stadtzentrum zurück, während die Regentropfen an den Busscheiben herablaufen.",
+            "hu": "Az X-trafik buszait használjuk, hogy elkerüljük az esőt a Stortorgeten. A megállók várói általában fedettek és szárazak.\r\nDélben a busz gyorsan elvisz az óvárostól a kastélyig, közben a száraz ablakon át figyeljük a várost.\r\nDélután a vasútállomásnál átszállva jutunk el a Vasúti Múzeumba. A buszok pontosak, még viharos időben is.\r\nEste kényelmesen térünk vissza a belvárosba, miközben az esőcseppek versenyeznek a busz ablaküvegén.",
+            "ro": "Folosim autobuzele eficiente X-trafik pentru a evita ploaia din Stortorget. Adăposturile din stații sunt de obicei vitrate și uscate.\r\nLa prânz, autobuzul ne duce rapid de la orașul vechi la castel, în timp ce admirăm priveliștea de la fereastră.\r\nDupă-amiaza schimbăm la gară pentru a ajunge la Muzeul Căilor Ferate. Autobuzele circulă la timp, chiar și pe furtună.\r\nSeara revenim confortabil în centrul orașului, în timp ce picăturile de ploaie se scurg pe geamurile autobuzului.",
+            "en": "We use the efficient X-trafik buses to bypass the rain at Stortorget. The waiting shelters are mostly glass-covered and dry.\r\nAt noon, the bus quickly takes us from the Old Town to the castle, while we enjoy the view through the dry window.\r\nIn the afternoon, we transfer at the station to reach the Railway Museum. Buses run on time, even when it's stormy outside.\r\nEvening brings us comfortably back to the city center as raindrops race down the bus windows."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at Stortorget",
+              "tip_5lang": {
+                "de": "Der zentrale Busknotenpunkt bietet viele überdachte Warteplätze.",
+                "hu": "A központi buszcsomópont sok fedett várakozóhelyet kínál.",
+                "ro": "Nodul central de autobuze oferă multe locuri de așteptare acoperite.",
+                "en": "The central bus hub offers many covered waiting areas to stay dry."
+              }
+            },
+            {
+              "name": "Gamla Gefle",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Rådhuset' liegt sehr nah an der Altstadt.",
+                "hu": "A 'Rådhuset' megálló közvetlenül az óváros mellett található.",
+                "ro": "Stația 'Rådhuset' este situată foarte aproape de orașul vechi.",
+                "en": "The 'Rådhuset' stop is located very close to the Old Town entrance."
+              }
+            },
+            {
+              "name": "Gävle Castle",
+              "tip_5lang": {
+                "de": "Mehrere Buslinien halten direkt vor dem Schlossgelände.",
+                "hu": "Számos buszjárat megáll közvetlenül a kastély területe előtt.",
+                "ro": "Mai multe linii de autobuz opresc direct în fața domeniului castelului.",
+                "en": "Several bus lines stop directly in front of the castle grounds."
+              }
+            },
+            {
+              "name": "Cluster 2: Boulognerskogen",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die nassen Wege durch den Park abzukürzen.",
+                "hu": "Használd a buszt, hogy lerövidítsd a vizes utat a parkon keresztül.",
+                "ro": "Folosiți autobuzul pentru a scurta drumurile ude prin parc.",
+                "en": "Use the bus to shorten the wet walks through the park area."
+              }
+            },
+            {
+              "name": "Gävle Concert Hall",
+              "tip_5lang": {
+                "de": "Haltestellen in der Nähe haben oft Echtzeitanzeigen für die nächste Abfahrt.",
+                "hu": "A közeli megállókban gyakran van valós idejű kijelző a következő buszról.",
+                "ro": "Stațiile din apropiere au adesea afișaje în timp real pentru următoarea plecare.",
+                "en": "Nearby stops often have real-time displays for the next departure."
+              }
+            },
+            {
+              "name": "Cluster 3: Swedish Railway Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten für die Rückfahrt, da diese seltener sein können.",
+                "hu": "Ellenőrizd a visszautat, mert a múzeumhoz ritkábban járnak a buszok.",
+                "ro": "Verificați orele de plecare pentru retur, deoarece pot fi mai rare.",
+                "en": "Check the departure times for your return, as buses may be less frequent."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Fahrt zurück zum Hauptbahnhof.",
+                "hu": "Élvezd a meleg utazást vissza a központi pályaudvarra.",
+                "ro": "Bucurați-vă de drumul cald înapoi la gara centrală.",
+                "en": "Enjoy the warm ride back to the central railway station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die X-trafik App für einfache Ticketkäufe herunter.",
+              "Im Bus ist es oft warm, aber bringen Sie Wechselkleidung für draußen mit.",
+              "Schwedische Busse sind bargeldlos; zahlen Sie per App oder Karte.",
+              "Nutzen Sie die Wartezeiten in der Bahnhofshalle für einen Kaffee.",
+              "Die Fahrpläne bleiben in Gävle auch bei Regen sehr stabil."
+            ],
+            "hu": [
+              "Töltsd le az X-trafik appot az egyszerű jegyvásárláshoz.",
+              "A buszokon meleg van, de vigyél váltóruhát a kinti sétákhoz.",
+              "A svéd buszokon nem fogadnak el készpénzt, fizess kártyával vagy appal.",
+              "Használd ki a vasútállomás várótermét egy gyors kávéra esőben.",
+              "Gävlében a menetrend esőben is megbízható és pontos marad."
+            ],
+            "ro": [
+              "Descărcați aplicația X-trafik pentru achiziționarea ușoară a biletelor.",
+              "În autobuz este cald, dar aduceți haine de schimb pentru exterior.",
+              "Autobuzele suedeze nu acceptă numerar; plătiți cu aplicația sau cardul.",
+              "Folosiți timpii de așteptare din holul gării pentru o cafea.",
+              "Orarele rămân foarte stabile în Gävle chiar și pe timp de ploaie."
+            ],
+            "en": [
+              "Download the X-trafik app for easy mobile ticket purchases.",
+              "Buses are well-heated, but keep a change of clothes for outdoor stops.",
+              "Swedish buses are cashless; pay via the app or contactless card.",
+              "Utilize the waiting hall at the train station for a dry coffee break.",
+              "Bus schedules in Gävle remain very reliable even during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Transit-Tag beginnt am verschneiten Stortorget. Die Busse sind die warmen Adern der Stadt in der winterlichen Kälte.\r\nMittags erreichen wir die Altstadt bequem per Transit, ohne lange im beißenden Frost stehen zu müssen.\r\nNachmittags bringt uns der Bus direkt zum Eisenbahnmuseum. Wir bewundern die gefrorene Landschaft Gävles durch die großen Fenster.\r\nAbends beenden wir die Tour im hell erleuchteten Zentrum, dankbar für die kurzen Wege zwischen Haltestelle und Wärme.",
+            "hu": "A közlekedős nap a havas Stortorgeten indul. A buszok a város meleg ütőerei a téli fagyban.\r\nDélben kényelmesen érjük el az óvárost busszal, elkerülve a hosszú ácsorgást a csípős hidegben.\r\nDélután a busz egyenesen a Vasúti Múzeumhoz visz, közben a nagy ablakokon át csodáljuk a fagyos tájat.\r\nEste a fényárban úszó központban zárunk, hálásan a megállók és a meleg helyek közti rövid távokért.",
+            "ro": "Ziua începe în Stortorgetul înzăpezit. Autobuzele sunt arterele calde ale orașului în gerul iernii.\r\nLa prânz ajungem confortabil în orașul vechi cu transportul public, fără a sta mult în frigul tăios.\r\nDupă-amiaza autobuzul ne duce direct la Muzeul Căilor Ferate, admirând peisajul înghețat prin ferestrele mari.\r\nSeara încheiem turul în centrul luminat festiv, recunoscători pentru distanțele scurte de parcurs prin frig.",
+            "en": "The transit day begins at a snowy Stortorget. Buses are the city's warm lifelines in the biting winter cold.\r\nAt noon, we reach the Old Town comfortably by transit, avoiding long waits in the freezing air.\r\nIn the afternoon, the bus takes us directly to the Railway Museum, offering views of the frozen landscape through large windows.\r\nIn the evening, we finish in the brightly lit center, thankful for the short distances between bus stops and indoor warmth."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at Stortorget",
+              "tip_5lang": {
+                "de": "Die Wartehäuschen sind im Winter oft beheizt oder gut windgeschützt.",
+                "hu": "A várótermek télen gyakran fűtöttek vagy jól védettek a szél ellen.",
+                "ro": "Adăposturile din stații sunt adesea încălzite sau bine protejate de vânt.",
+                "en": "Waiting shelters are often heated or well-protected from the wind in winter."
+              }
+            },
+            {
+              "name": "Gamla Gefle",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle; achten Sie auf Schnee auf den Stufen.",
+                "hu": "Rövid séta a megállótól; vigyázz a busz lépcsőjén lévő hóra.",
+                "ro": "Plimbare scurtă de la stație; atenție la zăpada de pe treptele autobuzului.",
+                "en": "Short walk from the stop; be careful of snow on the bus steps."
+              }
+            },
+            {
+              "name": "Gävle Castle",
+              "tip_5lang": {
+                "de": "Die Haltestelle direkt am Schloss spart Zeit im kalten Wind.",
+                "hu": "A közvetlenül a kastélynál lévő megálló időt spórol a hideg szélben.",
+                "ro": "Stația direct de la castel economisește timp în vântul rece.",
+                "en": "The stop directly at the castle saves you from time spent in the cold wind."
+              }
+            },
+            {
+              "name": "Cluster 2: Boulognerskogen",
+              "tip_5lang": {
+                "de": "Steigen Sie an der Haltestelle 'Sjukhuset' aus, um den Park von oben zu sehen.",
+                "hu": "Szállj le a 'Sjukhuset' megállónál, hogy fentről lásd a havas parkot.",
+                "ro": "Coborâți la stația 'Sjukhuset' pentru a vedea parcul înzăpezit de sus.",
+                "en": "Get off at 'Sjukhuset' stop for a beautiful view of the snowy park from above."
+              }
+            },
+            {
+              "name": "Gävle Concert Hall",
+              "tip_5lang": {
+                "de": "Ein moderner Stopp mit guter Beleuchtung am späten Nachmittag.",
+                "hu": "Modern megálló jó világítással, ami késő délután sokat segít.",
+                "ro": "O stație modernă cu iluminat bun pentru sfârșitul după-amiezii.",
+                "en": "A modern stop with good lighting for the dark late afternoon."
+              }
+            },
+            {
+              "name": "Cluster 3: Swedish Railway Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan; manche Linien fahren seltener.",
+                "hu": "Ellenőrizd a téli menetrendet, mert néhány járat ritkábban közlekedik.",
+                "ro": "Verificați orarul de iarnă; unele linii pot circula mai rar.",
+                "en": "Check the winter schedule; some bus lines may operate less frequently."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App, um nicht unnötig lange draußen warten zu müssen.",
+                "hu": "Használd az applikációt, hogy ne kelljen feleslegesen kint várnod a hidegben.",
+                "ro": "Folosiți aplicația pentru a nu aștepta inutil de mult afară în frig.",
+                "en": "Use the app to avoid waiting outside in the cold longer than necessary."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Reflektoren, während Sie auf den Bus warten; es ist sehr dunkel.",
+              "Schnee kann gelegentlich zu leichten Verspätungen führen; planen Sie Puffer ein.",
+              "Die Busse sind im Winter sehr zuverlässig und warm klimatisiert.",
+              "Kaufen Sie Tickets vorab in der App, um Zeit an der Haltestelle zu sparen.",
+              "An der Information im Bahnhof erhalten Sie gedruckte Winterfahrpläne."
+            ],
+            "hu": [
+              "Viselj fényvisszaverőt, amíg a buszra vársz, mert korán sötétedik.",
+              "A hó miatt előfordulhatnak kisebb késések, számolj némi ráhagyással.",
+              "A buszok télen is megbízhatóak és kellemesen fűtöttek.",
+              "Vegyél jegyet előre az appban, hogy ne a hidegben kelljen bajlódni vele.",
+              "A vasútállomás információs pultjánál kérhetsz nyomtatott téli menetrendet."
+            ],
+            "ro": [
+              "Purtați elemente reflectorizante în timp ce așteptați autobuzul; este foarte întuneric.",
+              "Zăpada poate cauza ocazional mici întârzieri; planificați o marjă de timp.",
+              "Autobuzele sunt foarte fiabile și bine încălzite în timpul iernii.",
+              "Cumpărați bilete în avans din aplicație pentru a economisi timp în stație.",
+              "La biroul de informații din gară puteți obține orare de iarnă tipărite."
+            ],
+            "en": [
+              "Wear reflectors while waiting for the bus; it gets very dark early in winter.",
+              "Heavy snow can occasionally cause minor delays; plan for extra time.",
+              "Buses are very reliable and well-heated during the Swedish winter.",
+              "Buy tickets in advance via the app to minimize time spent at the stop.",
+              "Printed winter schedules are available at the station's information desk."
+            ]
+          }
+        }
       }
     }
   }

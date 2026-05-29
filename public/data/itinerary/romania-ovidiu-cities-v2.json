@@ -286,6 +286,188 @@
           "Bring water with you, especially on warm days.",
           "Allow plenty of time for lunch at the harbor to enjoy the view."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter grauem Himmel bei der Ovid-Statue. Ein schneller Spaziergang durch den Central Park führt uns zur Moschee, die einen ruhigen Zufluchtsort vor dem Regen bietet. Am Nachmittag erkunden wir die antiken Ruinen der römischen Festung, deren nasse Steine eine besondere Atmosphäre verströmen. Der Tag endet am Hafen, wo wir den Regen über dem Siutghiol-See beobachten.",
+            "hu": "A reggel borús időben kezdődik az Ovidius-szobornál. Gyors séta a központi parkban, majd a mecset nyújt menedéket és nyugalmat az eső elől. Délután a római erőd romjait fedezzük fel, a vizes kövek ilyenkor különleges hangulatot árasztanak. A napot a turisztikai kikötőben zárjuk, nézve a Siutghiol-tóra hulló esőt egy fedett teraszról.",
+            "ro": "Dimineața începe sub un cer cenușiu la Statuia lui Ovidiu. O plimbare rapidă prin parcul central ne conduce spre geamia din Ovidiu, care oferă un refugiu liniștit împotriva ploii. După-amiaza explorăm ruinele castrului roman, ale cărui pietre ude emană o atmosferă aparte. Ziua se încheie în portul turistic, urmărind ploaia peste lacul Siutghiol de la adăpost.",
+            "en": "The morning starts under grey skies at the Ovid Statue. A brisk walk through the central park leads to the mosque, offering a quiet sanctuary from the rain. In the afternoon, we explore the ancient ruins of the Roman fort, where the wet stones exude a unique atmosphere. The day ends at the tourist harbor, watching the rain fall over Lake Siutghiol from a sheltered spot."
+          },
+          "stops": [
+            {
+              "name": "Ovid Statue",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, halten Sie den Regenschirm bereit.",
+                "hu": "Gyors fotómegálló, tartsa készenlétben az esernyőt.",
+                "ro": "Oprire scurtă pentru poze, țineți umbrela pregătită.",
+                "en": "Quick photo stop, keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Ovidiu Central Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind weniger schlammig.",
+                "hu": "Az aszfaltozott ösvények kevésbé sárosak.",
+                "ro": "Potecile asfaltate sunt mai puțin noroioase.",
+                "en": "The paved paths are less muddy during rain."
+              }
+            },
+            {
+              "name": "Ovidiu Mosque",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den stärksten Regen abzuwarten.",
+                "hu": "Ideális hely a leghevesebb eső kivárására.",
+                "ro": "Un loc ideal pentru a aștepta trecerea ploii torențiale.",
+                "en": "An ideal place to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "Roman Fort",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen antiken Steinen.",
+                "hu": "Vigyázat, az antik kövek csúszósak lehetnek.",
+                "ro": "Atenție, pietrele antice pot fi alunecoase.",
+                "en": "Caution, the ancient stones can be slippery when wet."
+              }
+            },
+            {
+              "name": "Tourist Harbor",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den Cafés am Hafenbecken.",
+                "hu": "Keressen menedéket a kikötő melletti kávézókban.",
+                "ro": "Căutați adăpost în cafenelele de lângă port.",
+                "en": "Seek shelter in the cafes near the harbor basin."
+              }
+            },
+            {
+              "name": "Siutghiol Lakeside",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den See vom Pavillon aus.",
+                "hu": "Élvezze a tavi kilátást a pavilon oltalmából.",
+                "ro": "Bucurați-vă de priveliștea lacului din pavilion.",
+                "en": "Enjoy the lake view from the shelter of the pavilion."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich am Seeufer Pfützen bilden können.",
+              "Die Moschee und das Kulturzentrum sind gute Rückzugsorte bei Güssen.",
+              "Ein stabiler Regenschirm ist wegen der Windböen vom See her ratsam.",
+              "Nutzen Sie die Cafés am Hafen für eine ausgedehnte Mittagspause im Trockenen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a tóparton tócsák alakulhatnak ki.",
+              "A mecset és a kulturális központ jó menedék hirtelen zivatar esetén.",
+              "A tavi szél miatt egy stabilabb esernyő javasolt.",
+              "Használja ki a kikötői kávézókat egy hosszabb, száraz ebédszünethez."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pot apărea bălți pe malul lacului.",
+              "Geamia și centrul cultural sunt refugii bune în caz de aversă.",
+              "Se recomandă o umbrelă rezistentă din cauza rafalelor de vânt de pe lac.",
+              "Profitați de cafenelele din port pentru o pauză de prânz prelungită la uscat."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles may form near the lakeside.",
+              "The mosque and cultural center are good retreats during heavy downpours.",
+              "A sturdy umbrella is advised due to wind gusts from the lake.",
+              "Use the harbor cafes for an extended lunch break in the dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen besichtigen wir die Ovid-Statue, bevor die Kälte anzieht. Ein kurzer Gang durch den frostigen Central Park führt uns zur Moschee, die im Winterlicht besonders friedlich wirkt. Nach einem Besuch der historischen Festungsruinen wärmen wir uns im Hafen auf. Den frühen Sonnenuntergang erleben wir am Ufer des Siutghiol-Sees, wo der Wind oft eisig weht.",
+            "hu": "Egy tiszta téli reggelen megnézzük az Ovidius-szobrot, mielőtt felerősödne a hideg. Rövid séta a fagyos központi parkban, majd a mecset következik, amely békés a téli fényekben. A történelmi erődromok után a kikötőben melegszünk fel. A korai naplementét a Siutghiol-tó partján éljük át, ahol a szél gyakran metsző.",
+            "ro": "Într-o dimineață senină de iarnă, vizităm Statuia lui Ovidiu înainte de a se înăspri frigul. O scurtă plimbare prin parcul central înghețat ne duce la geamie, care pare foarte liniștită în lumina iernii. După ruinele cetății, ne încălzim în port. Prindem apusul timpuriu pe malul lacului Siutghiol, unde vântul suflă adesea tăios.",
+            "en": "On a clear winter morning, we visit the Ovid Statue before the cold sets in. A quick stroll through the frosty central park leads to the mosque, which looks peaceful in the winter light. After visiting the historical fort ruins, we warm up at the harbor. We catch the early sunset by the shores of Lake Siutghiol, where the wind often blows icy."
+          },
+          "stops": [
+            {
+              "name": "Ovid Statue",
+              "tip_5lang": {
+                "de": "Morgensonne nutzen, solange sie wärmt.",
+                "hu": "Használja ki a reggeli napsütést, amíg melegít.",
+                "ro": "Profită de soarele dimineții cât timp mai încălzește.",
+                "en": "Take advantage of the morning sun while it warms."
+              }
+            },
+            {
+              "name": "Ovidiu Central Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen auf den Wegen.",
+                "hu": "Vigyázzon a jeges foltokkal az ösvényeken.",
+                "ro": "Atenție la porțiunile înghețate de pe alei.",
+                "en": "Watch out for icy patches on the paths."
+              }
+            },
+            {
+              "name": "Ovidiu Mosque",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine kurze Aufwärmpause.",
+                "hu": "Csendes hely egy rövid melegedő pihenőhöz.",
+                "ro": "Un loc liniștit pentru o scurtă pauză de încălzire.",
+                "en": "A quiet spot for a short warm-up break."
+              }
+            },
+            {
+              "name": "Roman Fort",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist bei den offenen Ruinen Pflicht.",
+                "hu": "Meleg ruházat kötelező a nyitott romoknál.",
+                "ro": "Îmbrăcămintea groasă e obligatorie la ruinele deschise.",
+                "en": "Warm clothing is a must at the exposed ruins."
+              }
+            },
+            {
+              "name": "Tourist Harbor",
+              "tip_5lang": {
+                "de": "Perfekt für einen heißen Tee mit Seeblick.",
+                "hu": "Tökéletes egy forró teához tavi kilátással.",
+                "ro": "Perfect pentru un ceai fierbinte cu vedere la lac.",
+                "en": "Perfect for a hot tea with a view of the lake."
+              }
+            },
+            {
+              "name": "Siutghiol Lakeside",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter schon gegen 16:30 Uhr.",
+                "hu": "A naplemente télen már 16:30 körül bekövetkezik.",
+                "ro": "Apusul are loc deja în jurul orei 16:30 iarna.",
+                "en": "Sunset occurs as early as 16:30 in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip gegen den eisigen Seewind.",
+              "Planen Sie Outdoor-Aktivitäten vor dem frühen Dunkelwerden ein.",
+              "Die Hafenrestaurants sind im Winter beheizt und gemütlich.",
+              "Achten Sie auf Glätte in der Nähe des Wassers."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a jeges tavi szél ellen.",
+              "A szabadtéri programokat a korai sötétedés előttre tervezze.",
+              "A kikötői éttermek télen fűtöttek és hangulatosak.",
+              "Vigyázzon a csúszós szakaszokra a víz közelében."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi împotriva vântului înghețat de pe lac.",
+              "Planificați activitățile în aer liber înainte de lăsarea serii.",
+              "Restaurantele din port sunt încălzite și primitoare iarna.",
+              "Atenție la polei în apropierea apei."
+            ],
+            "en": [
+              "Dress in layers against the icy lake wind.",
+              "Plan outdoor activities before the early darkness sets in.",
+              "The harbor restaurants are heated and cozy in winter.",
+              "Watch out for slippery surfaces near the water."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -584,6 +766,206 @@
           "Bring a lock to secure the bike during sight visits.",
           "The lakeside route can be windy, a light jacket is recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir vorsichtig im Central Park und radeln zur Ovid-Statue. Das Ion Creangă Kulturzentrum bietet uns am Vormittag einen trockenen Stopp mit kulturellen Einblicken. Nach einem Besuch der Moschee und der römischen Festung stärken wir uns im Hafen. Die Fahrt entlang des Siutghiol-Sees ist bei Regen anspruchsvoll, aber die neblige Aussicht ist faszinierend.",
+            "hu": "Az eső ellenére óvatosan kezdünk a parkban, és eltekerünk az Ovidius-szoborhoz. Az Ion Creangă Kulturális Központ délelőtt száraz megállót és kulturális élményt kínál. A mecset és a római erőd után a kikötőben pihenünk meg. A Siutghiol-tó menti bringázás esőben kihívást jelent, de a ködös kilátás lenyűgöző.",
+            "ro": "În ciuda ploii, începem cu prudență în parcul central și pedalăm spre Statuia lui Ovidiu. Centrul Cultural Ion Creangă ne oferă un popas uscat și incursiuni culturale. După vizitarea geamiei și a castrului roman, ne refacem forțele în port. Plimbarea cu bicicleta pe malul lacului Siutghiol e solicitantă pe ploaie, dar priveliștea cețoasă e fascinantă.",
+            "en": "Despite the rain, we start cautiously in the central park and cycle to the Ovid Statue. The Ion Creangă Cultural Center offers a dry morning stop with cultural insights. After visiting the mosque and the Roman fort, we recharge at the harbor. The bike ride along Lake Siutghiol is challenging in the rain, but the misty views are fascinating."
+          },
+          "stops": [
+            {
+              "name": "Ovidiu Central Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start im Nassen.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a vizes úton.",
+                "ro": "Verificați frânele înainte de a porni pe carosabil ud.",
+                "en": "Check your brakes before starting in the wet."
+              }
+            },
+            {
+              "name": "Ovid Statue",
+              "tip_5lang": {
+                "de": "Vorsicht beim Auf- und Absteigen auf nassem Pflaster.",
+                "hu": "Vigyázzon a le- és felszállásnál a vizes köveken.",
+                "ro": "Atenție la urcare și coborâre pe pavajul ud.",
+                "en": "Be careful when mounting or dismounting on wet pavement."
+              }
+            },
+            {
+              "name": "Ion Creangă Cultural Center",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder vorhanden.",
+                "hu": "Biztonságos kerékpártároló áll rendelkezésre.",
+                "ro": "Există parcare sigură pentru biciclete aici.",
+                "en": "Secure bike parking is available here."
+              }
+            },
+            {
+              "name": "Ovidiu Mosque",
+              "tip_5lang": {
+                "de": "Kurze Pause im Trockenen einlegen.",
+                "hu": "Tartson egy rövid szünetet a szárazon.",
+                "ro": "Luați o scurtă pauză la adăpost.",
+                "en": "Take a short break in the dry."
+              }
+            },
+            {
+              "name": "Roman Fort",
+              "tip_5lang": {
+                "de": "Der Zugangsweg kann bei Regen schlammig sein.",
+                "hu": "A bevezető út esőben sáros lehet.",
+                "ro": "Drumul de acces poate fi noroios pe ploaie.",
+                "en": "The access path can be muddy in the rain."
+              }
+            },
+            {
+              "name": "Tourist Harbor & Lunch",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit zum Trocknen der Kleidung.",
+                "hu": "Használja ki az időt a ruhák megszárítására.",
+                "ro": "Folosiți timpul pentru a vă usca hainele.",
+                "en": "Use the time to dry your gear."
+              }
+            },
+            {
+              "name": "Bike ride along Lake Siutghiol",
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefe Pfützen am Uferweg.",
+                "hu": "Ügyeljen a mély tócsákra a parti úton.",
+                "ro": "Atenție la bălțile adânci de pe drumul de coastă.",
+                "en": "Watch out for deep puddles on the lakeside path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter unverzichtbar.",
+              "Tragen Sie auffällige Regenkleidung für bessere Sichtbarkeit.",
+              "Vermeiden Sie abrupte Bremsmanöver auf markierten Flächen.",
+              "Das Kulturzentrum bietet Schutz bei plötzlichen Güssen."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időjárás mellett.",
+              "Viseljen feltűnő esőruházatot a jobb láthatóságért.",
+              "Kerülje a hirtelen fékezést a festett útburkolati jeleken.",
+              "A kulturális központ védelmet nyújt hirtelen zápor esetén."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe o astfel de vreme.",
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate.",
+              "Evitați frânarea bruscă pe marcajele rutiere.",
+              "Centrul cultural oferă protecție în caz de averse bruște."
+            ],
+            "en": [
+              "Mudguards are essential in this kind of weather.",
+              "Wear high-visibility rain gear for better safety.",
+              "Avoid abrupt braking on painted road markings.",
+              "The cultural center provides shelter during sudden showers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch Ovidiu beginnt erfrischend im Central Park. Nach einem Halt bei der Ovid-Statue wärmen wir uns im Ion Creangă Kulturzentrum auf. Die Route führt uns weiter zur Moschee und den römischen Ruinen, wo der Wind vom See spürbar kühler wird. Mittags rasten wir im gemütlichen Hafen, bevor wir die letzte Etappe entlang des Siutghiol-Sees vor Einbruch der Dunkelheit beenden.",
+            "hu": "Egy frissítő téli bringázás Ovidiuban a parkban kezdődik. Az Ovidius-szobor után az Ion Creangă Kulturális Központban melegszünk fel. Az útvonal a mecsethez és a római romokhoz vezet, ahol a tavi szél érezhetően hidegebb. Délben a hangulatos kikötőben pihenünk, majd befejezzük az utolsó szakaszt a tó mentén sötétedés előtt.",
+            "ro": "O tură răcoroasă de iarnă cu bicicleta prin Ovidiu începe în parcul central. După un popas la Statuia lui Ovidiu, ne încălzim la Centrul Cultural Ion Creangă. Traseul continuă spre geamie și ruinele romane, unde vântul de pe lac e mult mai rece. La prânz ne odihnim în port, apoi terminăm ultima etapă pe malul lacului înainte de lăsarea serii.",
+            "en": "A refreshing winter bike tour through Ovidiu starts in the central park. After a stop at the Ovid Statue, we warm up at the Ion Creangă Cultural Center. The route continues to the mosque and Roman ruins, where the lake wind feels noticeably cooler. At noon, we rest in the cozy harbor, then finish the last stage along the lake before darkness falls."
+          },
+          "stops": [
+            {
+              "name": "Ovidiu Central Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei Laub oder Reif auf den Wegen.",
+                "hu": "Vigyázzon a levelekre vagy zúzmarára az úton.",
+                "ro": "Atenție la frunze sau chiciură pe poteci.",
+                "en": "Watch out for leaves or frost on the paths."
+              }
+            },
+            {
+              "name": "Ovid Statue",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um nicht auszukühlen.",
+                "hu": "Rövid megálló, hogy ne hűljön ki.",
+                "ro": "Oprire scurtă pentru a nu vă răci.",
+                "en": "Keep the stop short to avoid catching a chill."
+              }
+            },
+            {
+              "name": "Ion Creangă Cultural Center",
+              "tip_5lang": {
+                "de": "Perfekt, um die Finger wieder aufzuwärmen.",
+                "hu": "Tökéletes az ujjak átmelegítésére.",
+                "ro": "Perfect pentru a vă reîncălzi degetele.",
+                "en": "Perfect for warming up your fingers again."
+              }
+            },
+            {
+              "name": "Ovidiu Mosque",
+              "tip_5lang": {
+                "de": "Respektieren Sie die Ruhe an diesem windgeschützten Ort.",
+                "hu": "Tisztelje a csendet ezen a szélvédett helyen.",
+                "ro": "Respectați liniștea în acest loc ferit de vânt.",
+                "en": "Respect the silence in this wind-sheltered spot."
+              }
+            },
+            {
+              "name": "Roman Fort",
+              "tip_5lang": {
+                "de": "Der Wind kann hier oben sehr schneidend sein.",
+                "hu": "A szél itt fenn nagyon metsző lehet.",
+                "ro": "Vântul poate fi foarte tăios aici sus.",
+                "en": "The wind can be very biting up here."
+              }
+            },
+            {
+              "name": "Tourist Harbor & Lunch",
+              "tip_5lang": {
+                "de": "Ein warmes Mittagessen gibt neue Energie.",
+                "hu": "Egy meleg ebéd új energiát ad.",
+                "ro": "Un prânz cald vă va da energie nouă.",
+                "en": "A warm lunch will provide new energy."
+              }
+            },
+            {
+              "name": "Bike ride along Lake Siutghiol",
+              "tip_5lang": {
+                "de": "Licht einschalten, die Dämmerung setzt früh ein.",
+                "hu": "Kapcsolja be a lámpákat, korán szürkül.",
+                "ro": "Aprindeți luminile, amurgul vine devreme.",
+                "en": "Turn on your lights, dusk sets in early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Prüfen Sie den Reifendruck; bei Kälte sinkt er leicht.",
+              "Fahren Sie vorausschauend wegen möglicher Glätte.",
+              "Beenden Sie die Tour bis 16:00 Uhr, um Tageslicht zu nutzen."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "Ellenőrizze a guminyomást; hidegben kissé lecsökken.",
+              "Vezessen előrelátóan az esetleges csúszós szakaszok miatt.",
+              "Fejezze be a túrát 16:00-ig, hogy kihasználja a nappali fényt."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Verificați presiunea în pneuri; scade ușor la frig.",
+              "Conduceți preventiv din cauza posibilelor porțiuni alunecoase.",
+              "Încheiați tura până la ora 16:00 pentru a profita de lumină."
+            ],
+            "en": [
+              "Wear windproof gloves and a hat under your helmet.",
+              "Check tire pressure; it drops slightly in the cold.",
+              "Ride cautiously due to potential icy spots.",
+              "Finish the tour by 16:00 to utilize the daylight."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -864,6 +1246,188 @@
           "Parking in the city center can be limited, allow extra time to find a spot.",
           "Make a reservation at the island restaurant, especially during peak season."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem im Auto trotzen wir dem Regen und starten bei der Ovid-Statue. Ein kurzer Abstecher zum Central Park und zur Moschee erfolgt zwischen den Güssen. Die Fahrt zur römischen Festung bietet tolle Ausblicke auf das aufgewühlte Wasser des Sees. Mittags genießen wir den Komfort im Hafen, bevor wir den Tag mit einer Panoramafahrt entlang des Ufers bei stimmungsvollem Regenwetter ausklingen lassen.",
+            "hu": "Kényelmesen, az autóból dacolunk az esővel, kezdve az Ovidius-szobornál. Egy rövid kitérő a parkba és a mecsethez a záporok között. Az út a római erődhöz nagyszerű kilátást nyújt a tó felkorbácsolt vizére. Délben a kikötő kényelmét élvezzük, majd a napot egy hangulatos, esős parti kocsikázással zárjuk a tó mentén.",
+            "ro": "Confortabil, din mașină, înfruntăm ploaia începând de la Statuia lui Ovidiu. O scurtă vizită în parc și la geamie între reprizele de ploaie. Drumul spre castrul roman oferă vederi superbe asupra apelor agitate ale lacului. La prânz ne bucurăm de confortul din port, apoi încheiem ziua cu o plimbare panoramică pe malul lacului pe o vreme ploioasă plină de atmosferă.",
+            "en": "Comfortably in the car, we brave the rain starting at the Ovid Statue. A short detour to the park and mosque happens between showers. The drive to the Roman fort offers great views of the lake's turbulent waters. At noon, we enjoy the comfort of the harbor, then end the day with a scenic drive along the shore in atmospheric rainy weather."
+          },
+          "stops": [
+            {
+              "name": "Central Parking & Ovid Statue",
+              "tip_5lang": {
+                "de": "Parkplatz direkt im Zentrum für kurze Wege.",
+                "hu": "Parkoló közvetlenül a központban a rövid utakért.",
+                "ro": "Parcare chiar în centru pentru distanțe scurte.",
+                "en": "Parking right in the center for short walks."
+              }
+            },
+            {
+              "name": "Ovidiu Central Park",
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man einen guten Blick auf den Park.",
+                "hu": "Az autóból is jó kilátás nyílik a parkra.",
+                "ro": "Aveți o vedere bună asupra parcului din mașină.",
+                "en": "You have a good view of the park from the car."
+              }
+            },
+            {
+              "name": "Ovidiu Mosque",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken zu bleiben.",
+                "hu": "Parkoljon közel a bejárathoz, hogy száraz maradjon.",
+                "ro": "Parcați aproape de intrare pentru a rămâne uscat.",
+                "en": "Park close to the entrance to stay dry."
+              }
+            },
+            {
+              "name": "Drive to the Roman Fort",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt entlang des nebligen Sees.",
+                "hu": "Élvezze az utazást a ködös tó mentén.",
+                "ro": "Bucurați-vă de drumul de-a lungul lacului cețos.",
+                "en": "Enjoy the drive along the misty lake."
+              }
+            },
+            {
+              "name": "Tourist Harbor & Boat trip to Ovidiu Island",
+              "tip_5lang": {
+                "de": "Bootsfahrten finden bei starkem Wind evtl. nicht statt.",
+                "hu": "Erős szélben a hajójáratok elmaradhatnak.",
+                "ro": "Plimbările cu barca se pot anula pe vânt puternic.",
+                "en": "Boat trips may be cancelled in case of strong winds."
+              }
+            },
+            {
+              "name": "Drive to Siutghiol Lakeside for sunset",
+              "tip_5lang": {
+                "de": "Perfekter Ort für Fotos aus dem warmen Auto.",
+                "hu": "Tökéletes hely fotózáshoz a meleg autóból.",
+                "ro": "Loc perfect pentru poze din mașina caldă.",
+                "en": "Perfect spot for photos from the warm car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze in der Nähe der Sehenswürdigkeiten.",
+              "Bei Regen kann die Sicht auf der Küstenstraße eingeschränkt sein.",
+              "Prüfen Sie vorab, ob die Inselfähre wetterbedingt fährt.",
+              "Die Fahrt am Seeufer bietet viele Fotopunkte direkt vom Fenster aus."
+            ],
+            "hu": [
+              "Használja a látnivalókhoz közeli parkolókat.",
+              "Esőben a látási viszonyok korlátozottak lehetnek a parti úton.",
+              "Előre ellenőrizze, hogy jár-e a komp a szigetnél.",
+              "A tóparti út sok fotózási pontot kínál közvetlenül az ablakból."
+            ],
+            "ro": [
+              "Folosiți parcările din apropierea obiectivelor turistice.",
+              "Pe ploaie, vizibilitatea pe drumul de coastă poate fi redusă.",
+              "Verificați din timp dacă feribotul spre insulă circulă.",
+              "Drumul de pe mal oferă multe puncte de fotografiat direct din mașină."
+            ],
+            "en": [
+              "Use the parking spots close to the main attractions.",
+              "Visibility on the coastal road may be limited during rain.",
+              "Check in advance if the island ferry is operating.",
+              "The lakeside drive offers many photo ops directly from the window."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterausflug mit dem Auto beginnt im historischen Zentrum von Ovidiu. Nach einem kurzen Stopp bei der Ovid-Statue und der Moschee fahren wir zur antiken römischen Festung, während die Heizung für Komfort sorgt. Den Nachmittag verbringen wir im Hafen, wo wir den Blick auf den frostigen See genießen. Zum Sonnenuntergang fahren wir zum Uferweg am Siutghiol, bevor wir den Abend in einem warmen Restaurant ausklingen lassen.",
+            "hu": "Egy téli autós kirándulás Ovidiu történelmi központjában kezdődik. Az Ovidius-szobornál és a mecsetnél tett rövid megálló után az antik római erődhöz hajtunk, miközben a fűtés biztosítja a kényelmet. A délutánt a kikötőben töltjük, élvezve a kilátást a fagyos tóra. Naplementekor a Siutghiol parti útjához autózunk, majd egy meleg étteremben zárjuk az estét.",
+            "ro": "O excursie de iarnă cu mașina începe în centrul istoric al orașului Ovidiu. După o scurtă oprire la Statuia lui Ovidiu și la geamie, mergem spre cetatea romană, în timp ce căldura din mașină ne asigură confortul. După-amiaza o petrecem în port, admirând lacul înghețat. La apus, mergem pe drumul de coastă al Siutghiolului, apoi încheiem seara la un restaurant călduros.",
+            "en": "A winter car trip starts in the historical center of Ovidiu. After a short stop at the Ovid Statue and the mosque, we drive to the ancient Roman fort while the heater ensures comfort. We spend the afternoon at the harbor, enjoying the view of the frosty lake. For sunset, we drive to the Siutghiol lakeside road before ending the evening in a warm restaurant."
+          },
+          "stops": [
+            {
+              "name": "Central Parking & Ovid Statue",
+              "tip_5lang": {
+                "de": "Zentrale Lage, ideal für einen schnellen Check.",
+                "hu": "Központi elhelyezkedés, ideális egy gyors körre.",
+                "ro": "Locație centrală, ideală pentru o vizită rapidă.",
+                "en": "Central location, ideal for a quick look around."
+              }
+            },
+            {
+              "name": "Ovidiu Central Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Ruhe im Park.",
+                "hu": "Élvezze a téli nyugalmat a parkban.",
+                "ro": "Bucurați-vă de liniștea iernii în parc.",
+                "en": "Enjoy the winter tranquility in the park."
+              }
+            },
+            {
+              "name": "Ovidiu Mosque",
+              "tip_5lang": {
+                "de": "Ein besinnlicher Halt auf der Route.",
+                "hu": "Egy elmélyült megálló az útvonalon.",
+                "ro": "Un popas liniștit pe traseu.",
+                "en": "A contemplative stop on the route."
+              }
+            },
+            {
+              "name": "Drive to the Roman Fort",
+              "tip_5lang": {
+                "de": "Die Straßen können bei Frost glatt sein.",
+                "hu": "Az utak fagy esetén csúszósak lehetnek.",
+                "ro": "Drumurile pot fi alunecoase în caz de îngheț.",
+                "en": "Roads can be slippery in freezing conditions."
+              }
+            },
+            {
+              "name": "Tourist Harbor & Boat trip to Ovidiu Island",
+              "tip_5lang": {
+                "de": "Im Winter ist der Bootsverkehr oft eingeschränkt.",
+                "hu": "Télen a hajóforgalom gyakran korlátozott.",
+                "ro": "Iarna, traficul navelor este adesea limitat.",
+                "en": "Boat traffic is often restricted in winter."
+              }
+            },
+            {
+              "name": "Drive to Siutghiol Lakeside for sunset",
+              "tip_5lang": {
+                "de": "Früher Aufbruch ratsam wegen früher Dunkelheit.",
+                "hu": "Érdemes korán indulni a korai sötétedés miatt.",
+                "ro": "Se recomandă plecarea devreme din cauza serii timpurii.",
+                "en": "Early departure is advised due to early darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Auto winterfest ist.",
+              "Parken Sie im Hafen, um schnell ins Warme zu gelangen.",
+              "Die Aussichtspunkte am See sind im Winter weniger überlaufen.",
+              "Behalten Sie die Wettervorhersage für Küstennebel im Auge."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy autója fel van készítve a télre.",
+              "Parkoljon a kikötőben, hogy gyorsan meleg helyre érjen.",
+              "A tavi kilátópontok télen kevésbé zsúfoltak.",
+              "Kísérje figyelemmel az időjárás-jelentést a parti köd miatt."
+            ],
+            "ro": [
+              "Asigurați-vă că mașina este echipată corespunzător de iarnă.",
+              "Parcați în port pentru a ajunge rapid la căldură.",
+              "Punctele de belvedere de pe lac sunt mai puțin aglomerate iarna.",
+              "Urmăriți prognoza meteo pentru ceața de coastă."
+            ],
+            "en": [
+              "Ensure your car is winter-ready.",
+              "Park at the harbor to quickly get indoors to the warmth.",
+              "Lakeside viewpoints are less crowded in winter.",
+              "Keep an eye on the weather forecast for coastal fog."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1126,6 +1690,170 @@
           "Buy a day pass if it is a more cost-effective option.",
           "Pay attention to the departure time of the last ferry from Ovidiu Island."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit öffentlichen Verkehrsmitteln erkunden wir Ovidiu flexibel trotz Regen. Der Tag startet im Zentrum bei der Ovid-Statue. Ein kurzer Fußweg führt zum Central Park und zur Moschee, wo wir Schutz vor den Schauern suchen. Mit dem Bus geht es weiter zum Hafen. Da die Bootsfahrten bei Regen oft ausfallen, genießen wir stattdessen ein ausgiebiges Mittagessen am Ufer, bevor wir zum Siutghiol-See weiterfahren.",
+            "hu": "Tömegközlekedéssel rugalmasan fedezzük fel Ovidiut az eső ellenére. A nap a központban kezdődik az Ovidius-szobornál. Rövid séta a parkhoz és a mecsethez, ahol menedéket keresünk a záporok elől. Busszal megyünk tovább a kikötőbe. Mivel a hajóutak esőben gyakran elmaradnak, inkább egy bőséges ebédet fogyasztunk a parton, mielőtt a Siutghiol-tóhoz utaznánk.",
+            "ro": "Cu transportul public explorăm Ovidiu flexibil, în ciuda ploii. Ziua începe în centru la Statuia lui Ovidiu. O scurtă plimbare ne duce la parcul central și la geamie, unde căutăm adăpost. Continuăm cu autobuzul spre port. Deoarece plimbările cu barca se anulează des pe ploaie, savurăm un prânz prelungit pe mal înainte de a pleca spre lacul Siutghiol.",
+            "en": "By public transport, we explore Ovidiu flexibly despite the rain. The day starts in the center at the Ovid Statue. A short walk leads to the central park and the mosque, where we seek shelter from the showers. We continue by bus to the harbor. As boat trips are often cancelled in the rain, we enjoy a long lunch on the shore instead before heading to Lake Siutghiol."
+          },
+          "stops": [
+            {
+              "name": "Center & Ovid Statue",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt vieler Buslinien.",
+                "hu": "Számos buszjárat központi csomópontja.",
+                "ro": "Nod central pentru multe linii de autobuz.",
+                "en": "Central hub for many bus lines."
+              }
+            },
+            {
+              "name": "Central Park and Mosque",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehäuschen an den Haltestellen.",
+                "hu": "Használja a várókat a megállókban.",
+                "ro": "Folosiți adăposturile din stații.",
+                "en": "Make use of the shelters at the bus stops."
+              }
+            },
+            {
+              "name": "Transit to Tourist Harbor",
+              "tip_5lang": {
+                "de": "Kurze Busfahrt, ideal um trocken zu bleiben.",
+                "hu": "Rövid buszút, ideális, hogy száraz maradjon.",
+                "ro": "Călătorie scurtă cu autobuzul, ideală pentru a rămâne uscat.",
+                "en": "Short bus ride, ideal for staying dry."
+              }
+            },
+            {
+              "name": "Boat trip & Lunch on Ovidiu Island",
+              "tip_5lang": {
+                "de": "Prüfen Sie Aushänge für wetterbedingte Änderungen.",
+                "hu": "Ellenőrizze a hirdetményeket az időjárás miatti változásokról.",
+                "ro": "Verificați anunțurile pentru modificări cauzate de vreme.",
+                "en": "Check announcements for weather-related changes."
+              }
+            },
+            {
+              "name": "Transit to Siutghiol Lakeside",
+              "tip_5lang": {
+                "de": "Haltestellen befinden sich nah am Uferweg.",
+                "hu": "A megállók közel vannak a parti úthoz.",
+                "ro": "Stațiile sunt situate aproape de drumul de pe mal.",
+                "en": "Stops are located close to the lakeside path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die lokale Fahrplan-App herunter.",
+              "Halten Sie Kleingeld für Fahrkarten bereit, falls nötig.",
+              "Warten Sie in den Haltestellenhäuschen auf den Bus.",
+              "Planen Sie Pufferzeiten bei starkem Regen ein."
+            ],
+            "hu": [
+              "Töltse le a helyi menetrendi alkalmazást.",
+              "Tartson készenlétben aprópénzt a jegyekhez, ha szükséges.",
+              "Várja a buszt a megállók fedett váróiban.",
+              "Számoljon ráhagyással heves esőzés esetén."
+            ],
+            "ro": [
+              "Descărcați aplicația locală pentru orarul transportului.",
+              "Aveți pregătit mărunt pentru bilete, dacă este necesar.",
+              "Așteptați autobuzul în adăposturile din stații.",
+              "Planificați marje de timp în caz de ploaie torențială."
+            ],
+            "en": [
+              "Download the local transit schedule app.",
+              "Keep small change ready for tickets if needed.",
+              "Wait for the bus inside the stop shelters.",
+              "Allow for extra travel time during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Tour mit dem Bus durch Ovidiu beginnt im historischen Zentrum. Nach einem Besuch der Ovid-Statue und der Moschee nutzen wir den Nahverkehr, um bequem zum Hafen zu gelangen. Dort genießen wir den Blick auf den frostigen See aus der Wärme eines Cafés. Die letzte Etappe führt uns zum Ufer des Siutghiol, wo wir die klare Winterluft atmen, bevor wir im Dunkeln die Rückreise mit dem Bus antreten.",
+            "hu": "A téli buszos túra Ovidiuban a történelmi központban kezdődik. Az Ovidius-szobor és a mecset után tömegközlekedéssel kényelmesen a kikötőbe jutunk. Ott egy kávézó melegéből élvezzük a kilátást a fagyos tóra. Az utolsó szakasz a Siutghiol partjára vezet, ahol belélegezzük a tiszta téli levegőt, majd sötétben busszal indulunk vissza.",
+            "ro": "Turul de iarnă cu autobuzul prin Ovidiu începe în centrul istoric. După o vizită la Statuia lui Ovidiu și la geamie, folosim transportul local pentru a ajunge confortabil în port. Acolo admirăm lacul înghețat din căldura unei cafenele. Ultima etapă ne duce pe malul Siutghiolului, unde respirăm aerul curat de iarnă, apoi ne întoarcem cu autobuzul pe întuneric.",
+            "en": "The winter bus tour through Ovidiu starts in the historical center. After visiting the Ovid Statue and the mosque, we use public transport to get comfortably to the harbor. There, we enjoy the view of the frosty lake from the warmth of a cafe. The final leg takes us to the shore of the Siutghiol, where we breathe the crisp winter air before returning by bus in the dark."
+          },
+          "stops": [
+            {
+              "name": "Center & Ovid Statue",
+              "tip_5lang": {
+                "de": "Gut beleuchtete Haltestellen im Zentrum.",
+                "hu": "Jól kivilágított megállók a központban.",
+                "ro": "Stații bine luminate în centru.",
+                "en": "Well-lit bus stops in the center."
+              }
+            },
+            {
+              "name": "Central Park and Mosque",
+              "tip_5lang": {
+                "de": "Busse sind im Winter angenehm beheizt.",
+                "hu": "A buszok télen kellemesen fűtöttek.",
+                "ro": "Autobuzele sunt încălzite plăcut iarna.",
+                "en": "Buses are comfortably heated in winter."
+              }
+            },
+            {
+              "name": "Transit to Tourist Harbor",
+              "tip_5lang": {
+                "de": "Häufige Verbindungen auch zur Winterzeit.",
+                "hu": "Gyakori járatok télen is.",
+                "ro": "Conexiuni frecvente și pe timp de iarnă.",
+                "en": "Frequent connections even in winter time."
+              }
+            },
+            {
+              "name": "Boat trip & Lunch on Ovidiu Island",
+              "tip_5lang": {
+                "de": "Fährzeiten sind im Winter oft reduziert.",
+                "hu": "A komp menetrendje télen gyakran ritkább.",
+                "ro": "Orarele feribotului sunt adesea reduse iarna.",
+                "en": "Ferry schedules are often reduced in winter."
+              }
+            },
+            {
+              "name": "Transit to Siutghiol Lakeside",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor 17:00 Uhr.",
+                "hu": "Tervezze meg a visszautat 17:00 előtt.",
+                "ro": "Planificați drumul de întoarcere înainte de 17:00.",
+                "en": "Plan your return trip before 17:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Wärme im Bus zum Aufwärmen zwischen Stopps.",
+              "Achten Sie auf die veränderten Winterfahrpläne.",
+              "Tragen Sie warme Kleidung für die Wartezeiten an Haltestellen.",
+              "Die Hafenbusse fahren bis spät in den Abend."
+            ],
+            "hu": [
+              "Használja ki a busz melegét a megállók közötti felmelegedésre.",
+              "Ügyeljen a módosult téli menetrendre.",
+              "Viseljen meleg ruhát a megállókban való várakozáshoz.",
+              "A kikötői buszok késő estig járnak."
+            ],
+            "ro": [
+              "Folosiți căldura din autobuz pentru a vă încălzi între opriri.",
+              "Atenție la orarele de iarnă modificate.",
+              "Purtați haine groase pentru timpul de așteptare în stații.",
+              "Autobuzele spre port circulă până târziu în noapte."
+            ],
+            "en": [
+              "Use the warmth of the bus to warm up between stops.",
+              "Pay attention to the modified winter schedules.",
+              "Wear warm clothing for the wait times at bus stops.",
+              "Harbor buses run until late in the evening."
+            ]
+          }
+        }
       }
     }
   }

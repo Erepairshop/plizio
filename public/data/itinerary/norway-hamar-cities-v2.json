@@ -359,6 +359,188 @@
           "A reusable water bottle is useful as there are public water fountains.",
           "Bring a light rain jacket; the weather can change quickly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Tag in Hamar geschützt im Basaren. Der kurze Weg zur Kathedrale führt Sie in den beeindruckenden Glasbau, der die Ruinen trocken hält. Mittags bietet die Mjøsa-Promenade eine melancholische Aussicht auf den grauen See, bevor Sie im Koigen-Park unter Bäumen Schutz suchen. Den Nachmittag verbringen Sie in den weitläufigen Innenräumen von Domkirkeodden und dem Flagstad-Museum.",
+            "hu": "Kezdje az esős napot a fedett Basaren csarnokban. A katedrálishoz vezető rövid séta után a romokat védő üvegépítmény alatt maradhat szárazon. Délben a Mjøsa-sétány melankolikus arcát mutatja, majd a Koigen park fái alatt kereshet menedéket. A délutánt töltse a Domkirkeodden és a Flagstad Múzeum tágas belső tereiben, ahol az eső kopogása csak fokozza a hangulatot.",
+            "ro": "Începeți ziua ploioasă în Hamar în interiorul protejat de la Basaren. Scurta plimbare spre catedrală vă duce sub structura impresionantă de sticlă care păstrează ruinele uscate. La prânz, promenada Mjøsa oferă o vedere melancolică asupra lacului gri, înainte de a căuta adăpost în parcul Koigen. Petreceți după-amiaza în spațiile interioare generoase de la Domkirkeodden și Muzeul Flagstad.",
+            "en": "Start your rainy day in Hamar inside the sheltered Basaren. The short walk to the cathedral leads you to the impressive glass structure protecting the ruins from the wet. At noon, the Mjøsa promenade offers a moody view of the grey lake before seeking cover in Koigen Park. Spend the afternoon in the extensive indoor areas of Domkirkeodden and the Flagstad Museum, staying dry while exploring history."
+          },
+          "stops": [
+            {
+              "name": "Basaren",
+              "tip_5lang": {
+                "de": "Perfekter Ort für ein zweites Frühstück im Trockenen.",
+                "hu": "Tökéletes hely egy második reggelihez, védve az esőtől.",
+                "ro": "Loc perfect pentru un al doilea mic dejun, ferit de ploaie.",
+                "en": "Perfect spot for a second breakfast while staying dry."
+              }
+            },
+            {
+              "name": "Hamar Cathedral",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Ruinen unter dem schützenden Glasdach.",
+                "hu": "Csodálja meg a romokat a védelmet nyújtó üvegtető alatt.",
+                "ro": "Admirați ruinele sub acoperișul protector de sticlă.",
+                "en": "Admire the ruins under the protective glass roof."
+              }
+            },
+            {
+              "name": "Mjøsa Promenade",
+              "tip_5lang": {
+                "de": "Ein stabiler Regenschirm ist bei Seewind unverzichtbar.",
+                "hu": "Egy erős esernyő nélkülözhetetlen a tavi szélben.",
+                "ro": "O umbrelă rezistentă este indispensabilă pe vântul de pe lac.",
+                "en": "A sturdy umbrella is essential with the lake wind."
+              }
+            },
+            {
+              "name": "Koigen Park",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den kleinen Pavillons am Ufer.",
+                "hu": "Keressen menedéket a parton található kis pavilonokban.",
+                "ro": "Căutați adăpost în micile pavilioane de pe mal.",
+                "en": "Seek shelter in the small pavilions along the shore."
+              }
+            },
+            {
+              "name": "Domkirkeodden",
+              "tip_5lang": {
+                "de": "Großartige Indoor-Ausstellungen, ideal bei Dauerregen.",
+                "hu": "Nagyszerű beltéri kiállítások, ideális tartós esőben.",
+                "ro": "Expoziții interioare superbe, ideale pentru ploaie continuă.",
+                "en": "Great indoor exhibitions, ideal for continuous rain."
+              }
+            },
+            {
+              "name": "Kirsten Flagstad Museum",
+              "tip_5lang": {
+                "de": "Gemütliches Museumserlebnis abseits des nassen Wetters.",
+                "hu": "Hangulatos múzeumi élmény távol a nedves időjárástól.",
+                "ro": "O experiență muzeală primitoare, departe de vremea umedă.",
+                "en": "Cozy museum experience away from the wet weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Pfützen an der Promenade.",
+              "Die Glasstruktur der Kathedrale bietet perfekten Regenschutz.",
+              "In den Museen gibt es Garderoben für nasse Mäntel.",
+              "Nutzen Sie die Cafés in der Stadtmitte zum Aufwärmen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a sétányon lévő tócsák miatt.",
+              "A katedrális üvegszerkezete tökéletes védelmet nyújt az eső ellen.",
+              "A múzeumokban van ruhatár a nedves kabátoknak.",
+              "Használja a városközpont kávézóit a bemelegedéshez."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru bălțile de pe promenadă.",
+              "Structura de sticlă a catedralei oferă protecție perfectă contra ploii.",
+              "Muzeele au garderobe pentru hainele ude.",
+              "Folosiți cafenelele din centrul orașului pentru a vă încălzi."
+            ],
+            "en": [
+              "Wear waterproof shoes for the puddles on the promenade.",
+              "The glass structure of the cathedral provides perfect rain shelter.",
+              "Museums have cloakrooms for wet coats.",
+              "Use downtown cafes to dry off and warm up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Hamar als Winterwunderland. Der Tag beginnt am Basaren, bevor Sie durch den knirschenden Schnee zur Kathedrale stapfen. Die Promenade am gefrorenen Mjøsa-See bietet kristallklare Luft. Mittags wärmen Sie sich im Domkirkeodden auf, während draußen das Tageslicht früh schwindet. Da die Sonne gegen 15:30 Uhr untergeht, genießen Sie das goldene Licht am See, bevor Sie das warme Flagstad-Museum besuchen.",
+            "hu": "Tapasztalja meg Hamart téli csodaországként. A nap a Basarennél kezdődik, majd a ropogós hóban sétálhat a katedrálishoz. A befagyott Mjøsa-tó melletti sétány kristálytiszta levegőt kínál. Délben melegedjen fel a Domkirkeoddenben, miközben kint korán fogy a fény. Mivel a nap 15:30 körül nyugszik, élvezze az arany fényeket a tónál, mielőtt meglátogatná a meleg Flagstad Múzeumot.",
+            "ro": "Experimentați Hamar ca pe un tărâm de iarnă. Ziua începe la Basaren, înainte de a merge prin zăpada scârțâitoare spre catedrală. Promenada de lângă lacul înghețat Mjøsa oferă un aer de cristal. La prânz, încălziți-vă la Domkirkeodden, în timp ce afară lumina zilei dispare rapid. Deoarece soarele apune în jur de 15:30, bucurați-vă de lumina aurie de pe lac înainte de a vizita caldul Muzeu Flagstad.",
+            "en": "Experience Hamar as a winter wonderland. The day starts at Basaren before trudging through crunching snow to the cathedral. The promenade by the frozen Mjøsa lake offers crystal-clear air. Warm up at Domkirkeodden at noon as the daylight fades early. With sunset around 3:30 PM, catch the golden hour by the lake before heading to the warmth of the Flagstad Museum."
+          },
+          "stops": [
+            {
+              "name": "Basaren",
+              "tip_5lang": {
+                "de": "Starten Sie mit einem heißen norwegischen Kaffee.",
+                "hu": "Kezdje a napot egy forró norvég kávéval.",
+                "ro": "Începeți cu o cafea norvegiană fierbinte.",
+                "en": "Start with a hot Norwegian coffee to warm up."
+              }
+            },
+            {
+              "name": "Hamar Cathedral",
+              "tip_5lang": {
+                "de": "Das Glasgehäuse leuchtet im winterlichen Dämmerlicht.",
+                "hu": "Az üvegburkolat gyönyörűen világít a téli szürkületben.",
+                "ro": "Carcasa de sticlă strălucește în amurgul de iarnă.",
+                "en": "The glass enclosure glows beautifully in winter twilight."
+              }
+            },
+            {
+              "name": "Mjøsa Promenade",
+              "tip_5lang": {
+                "de": "Achtung, der Wind vom See kann extrem kalt sein.",
+                "hu": "Vigyázat, a tó felőli szél rendkívül hideg lehet.",
+                "ro": "Atenție, vântul de pe lac poate fi extrem de rece.",
+                "en": "Caution, the wind from the lake can be extremely cold."
+              }
+            },
+            {
+              "name": "Koigen Park",
+              "tip_5lang": {
+                "de": "Ideal für Fotos der verschneiten Seelandschaft.",
+                "hu": "Ideális hely a havas táj fotózásához.",
+                "ro": "Ideal pentru fotografii cu peisajul înzăpezit al lacului.",
+                "en": "Ideal for photos of the snow-covered lake scenery."
+              }
+            },
+            {
+              "name": "Domkirkeodden",
+              "tip_5lang": {
+                "de": "Ein warmer Zufluchtsort mit faszinierender Geschichte.",
+                "hu": "Meleg menedékhely lenyűgöző történelemmel.",
+                "ro": "Un refugiu cald cu o istorie fascinantă.",
+                "en": "A warm sanctuary with fascinating local history."
+              }
+            },
+            {
+              "name": "Kirsten Flagstad Museum",
+              "tip_5lang": {
+                "de": "Kleines, gut geheiztes Museum im Stadtzentrum.",
+                "hu": "Kicsi, jól fűtött múzeum a városközpontban.",
+                "ro": "Un muzeu mic și bine încălzit în centrul orașului.",
+                "en": "Small, well-heated museum in the city center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikeschuhe (Brodder) sind auf vereisten Wegen sehr ratsam.",
+              "Planen Sie Outdoor-Aktivitäten vor 15:00 Uhr ein.",
+              "Zwiebelprinzip bei der Kleidung schützt vor dem kalten Seewind.",
+              "Die Gehwege im Zentrum sind oft beheizt und schnee-frei."
+            ],
+            "hu": [
+              "A jeges utakon erősen ajánlott a csúszásgátló (brodder).",
+              "A szabadtéri programokat 15:00 óra elé tervezze.",
+              "A réteges öltözködés véd a hideg tavi szél ellen.",
+              "A központban a járdák gyakran fűtöttek és hómentesek."
+            ],
+            "ro": [
+              "Crampoanele (brodder) sunt foarte recomandate pe potecile înghețate.",
+              "Planificați activitățile în aer liber înainte de ora 15:00.",
+              "Îmbrăcămintea în straturi protejează contra vântului rece.",
+              "Trotuarele din centru sunt adesea încălzite și fără zăpadă."
+            ],
+            "en": [
+              "Ice spikes (brodder) are highly recommended on icy paths.",
+              "Plan all outdoor activities before 3:00 PM due to early sunset.",
+              "Layered clothing protects against the biting lake wind.",
+              "Main sidewalks in the center are often heated and snow-free."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -712,6 +894,188 @@
           "Many cafes are bike-friendly and have places to park your bike.",
           "The bike paths are well-marked, but having an offline map is always a good idea."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert gute Ausrüstung, bietet aber leere Wege. Nach dem Start am Basaren radeln Sie zum Eisenbahnmuseum, wo Sie die historischen Züge im Trockenen bewundern können. Die Fahrt zum Domkirkeodden führt entlang des Sees, wo die Gischt den Regen trifft. Den Abschluss bildet das Vikingskipet, eine massive Halle, die Ihnen am späten Nachmittag perfekten Schutz bietet.",
+            "hu": "Egy esős kerékpártúra jó felszerelést igényel, de cserébe üres utakat kínál. A Basaren után tekerjen a Vasútmúzeumba, ahol szárazon csodálhatja meg a történelmi vonatokat. A Domkirkeodden felé vezető út a tó mentén halad, ahol a vízpermet találkozik az esővel. A napot a Vikingskipet zárja, egy hatalmas csarnok, amely tökéletes menedéket nyújt késő délután.",
+            "ro": "O tură cu bicicleta pe ploaie necesită echipament bun, dar oferă poteci libere. După Basaren, pedalați spre Muzeul Căilor Ferate, unde trenurile istorice pot fi admirate la adăpost. Drumul spre Domkirkeodden urmează lacul, unde stropii de apă se întâlnesc cu ploaia. Finalul este la Vikingskipet, o sală masivă care oferă protecție perfectă după-amiaza târziu.",
+            "en": "A bike ride in the rain requires good gear but rewards you with empty paths. From Basaren, cycle to the Railway Museum to see historic trains under cover. The ride to Domkirkeodden follows the lake where spray meets rain. Conclude your tour at the Vikingskipet, a massive indoor arena that provides perfect shelter in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Basaren",
+              "tip_5lang": {
+                "de": "Checken Sie Ihre Bremsen, bevor es auf nasse Wege geht.",
+                "hu": "Ellenőrizze a fékeket, mielőtt nedves utakra indulna.",
+                "ro": "Verificați frânele înainte de a pleca pe drumuri ude.",
+                "en": "Check your brakes before heading out on wet paths."
+              }
+            },
+            {
+              "name": "Norwegian Railway Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad am überdachten Eingang ab.",
+                "hu": "Hagyja a kerékpárt a fedett bejáratnál.",
+                "ro": "Parcați bicicleta la intrarea acoperită.",
+                "en": "Park your bike at the sheltered entrance."
+              }
+            },
+            {
+              "name": "Domkirkeodden",
+              "tip_5lang": {
+                "de": "Der Radweg am See kann bei Regen etwas rutschig sein.",
+                "hu": "A tóparti kerékpárút esőben kissé csúszós lehet.",
+                "ro": "Pista de biciclete de lângă lac poate fi alunecoasă pe ploaie.",
+                "en": "The lakeside bike path can be slippery when wet."
+              }
+            },
+            {
+              "name": "Mjøsa Promenade",
+              "tip_5lang": {
+                "de": "Schnelle Fahrt durch den Regen mit Blick auf den See.",
+                "hu": "Gyors tekerés az esőben, kilátással a tóra.",
+                "ro": "O plimbare rapidă prin ploaie cu vedere la lac.",
+                "en": "A quick ride through the rain with lake views."
+              }
+            },
+            {
+              "name": "Hamar Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos unter dem Glasvordach.",
+                "hu": "Rövid megálló fotózáshoz az üvegtető alatt.",
+                "ro": "Oprire scurtă pentru poze sub copertina de sticlă.",
+                "en": "Short stop for photos under the glass canopy."
+              }
+            },
+            {
+              "name": "Vikingskipet (The Viking Ship)",
+              "tip_5lang": {
+                "de": "Ein riesiger Innenraum, um den Tag trocken zu beenden.",
+                "hu": "Hatalmas belső tér, hogy szárazon zárja a napot.",
+                "ro": "Un spațiu interior uriaș pentru a încheia ziua uscat.",
+                "en": "A massive indoor space to end the day dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Schutzbleche sind bei diesem Wetter ein Muss.",
+              "Vermeiden Sie scharfe Kurven auf nassen Holzstegen an der Promenade.",
+              "Wasserdichte Packtaschen halten Ihre Ausrüstung trocken.",
+              "Das Vikingskipet bietet gute Parkmöglichkeiten für Fahrräder."
+            ],
+            "hu": [
+              "A jó sárvédő elengedhetetlen ebben az időben.",
+              "Kerülje az éles kanyarokat a sétány nedves fapallóin.",
+              "A vízálló táskák szárazon tartják a felszerelését.",
+              "A Vikingskipet jó parkolási lehetőséget kínál kerékpároknak."
+            ],
+            "ro": [
+              "Apărătorile bune sunt obligatorii pe această vreme.",
+              "Evitați virajele strânse pe podurile de lemn ude de pe promenadă.",
+              "Gențile de bicicletă impermeabile vă păstrează echipamentul uscat.",
+              "Vikingskipet oferă facilități bune de parcare pentru biciclete."
+            ],
+            "en": [
+              "Good fenders are a must in this weather.",
+              "Avoid sharp turns on wet wooden planks along the promenade.",
+              "Waterproof panniers will keep your belongings dry.",
+              "The Vikingskipet has plenty of bike parking near the entrance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking in Hamar ist ein Abenteuer auf festem Schnee. Starten Sie im Zentrum und nutzen Sie die geräumten Wege zum Eisenbahnmuseum. Die kalte Fahrt zum Domkirkeodden wird durch die atemberaubende Aussicht auf den weißen See belohnt. Nach einem Stopp an der Kathedrale radeln Sie zum beeindruckenden Vikingskipet. Das Tageslicht schwindet früh, daher ist eine gute Beleuchtung für die Rückfahrt am späten Nachmittag essenziell.",
+            "hu": "A téli kerékpározás Hamarban kaland a döngölt havon. Kezdjen a központban, és használja a takarított utakat a Vasútmúzeum felé. A hideg tekerést a Domkirkeodden felé a fehér tó látványa kárpótolja. A katedrális után tekerjen a lenyűgöző Vikingskipet csarnokhoz. A fény korán elfogy, így a jó világítás elengedhetetlen a késő délutáni visszaúthoz.",
+            "ro": "Ciclismul de iarnă în Hamar este o aventură pe zăpadă bătătorită. Începeți în centru și folosiți pistele curățate spre Muzeul Căilor Ferate. Drumul rece spre Domkirkeodden este răsplătit de vederea uimitoare a lacului alb. După catedrală, pedalați spre impresionantul Vikingskipet. Lumina dispare devreme, deci iluminarea bună este esențială pentru drumul de întoarcere.",
+            "en": "Winter biking in Hamar is an adventure on packed snow. Start in the center and use cleared paths towards the Railway Museum. The cold ride to Domkirkeodden is rewarded by stunning views of the white lake. After visiting the cathedral, cycle to the impressive Vikingskipet. Daylight fades fast, so good lighting is essential for the ride back in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Basaren",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck für besseren Grip auf Schnee.",
+                "hu": "Ellenőrizze a guminyomást a jobb tapadásért a havon.",
+                "ro": "Verificați presiunea în pneuri pentru aderență pe zăpadă.",
+                "en": "Check tire pressure for better grip on packed snow."
+              }
+            },
+            {
+              "name": "Norwegian Railway Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich auf, bevor Sie die Fahrt fortsetzen.",
+                "hu": "Melegedjen fel, mielőtt folytatná az utat.",
+                "ro": "Încălziți-vă înainte de a continua drumul.",
+                "en": "Warm up inside before continuing your ride."
+              }
+            },
+            {
+              "name": "Domkirkeodden",
+              "tip_5lang": {
+                "de": "Der Weg am Seeufer ist oft vereist, fahren Sie vorsichtig.",
+                "hu": "A tóparti út gyakran jeges, közlekedjen óvatosan.",
+                "ro": "Drumul de pe mal este adesea înghețat, conduceți cu grijă.",
+                "en": "The lakeside path is often icy, ride with extreme caution."
+              }
+            },
+            {
+              "name": "Mjøsa Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille des tiefen Winters am See.",
+                "hu": "Élvezze a mélytél csendjét a tónál.",
+                "ro": "Bucurați-vă de liniștea iernii profunde pe malul lacului.",
+                "en": "Enjoy the silence of deep winter by the lake."
+              }
+            },
+            {
+              "name": "Hamar Cathedral",
+              "tip_5lang": {
+                "de": "Kurze Fotopause im magischen Winterlicht.",
+                "hu": "Rövid fotószünet a varázslatos téli fényben.",
+                "ro": "Scurtă pauză foto în lumina magică de iarnă.",
+                "en": "Short photo break in the magical winter light."
+              }
+            },
+            {
+              "name": "Vikingskipet (The Viking Ship)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume, um dem Frost zu entfliehen.",
+                "hu": "Használja a belső tereket, hogy elmeneküljön a fagy elől.",
+                "ro": "Folosiți interiorul pentru a scăpa de ger.",
+                "en": "Utilize the indoor facilities to escape the frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen sind für die vereisten Abschnitte unerlässlich.",
+              "Tragen Sie winddichte Handschuhe gegen den Fahrtwind.",
+              "Stellen Sie sicher, dass Ihre Lichter voll aufgeladen sind.",
+              "Die Wege im Hedmarksmuseet werden meist gut geräumt."
+            ],
+            "hu": [
+              "A szöges gumik elengedhetetlenek a jeges szakaszokon.",
+              "Viseljen szélálló kesztyűt a menetszél ellen.",
+              "Győződjön meg róla, hogy a lámpái teljesen fel vannak töltve.",
+              "A Hedmarksmuseet útjait általában jól takarítják."
+            ],
+            "ro": [
+              "Anvelopele cu ținte sunt esențiale pentru porțiunile înghețate.",
+              "Purtați mănuși rezistente la vânt contra curentului de aer.",
+              "Asigurați-vă că luminile sunt complet încărcate.",
+              "Potecile de la Hedmarksmuseet sunt de obicei bine curățate."
+            ],
+            "en": [
+              "Studded tires are essential for the icy sections.",
+              "Wear windproof gloves to protect against the wind chill.",
+              "Ensure your bike lights are fully charged for the early dark.",
+              "Paths around Hedmarksmuseet are usually well-plowed."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1087,6 +1451,206 @@
           "Plan your route in advance to avoid unnecessary driving in the city center.",
           "A car gives you the flexibility to also explore nearby sights outside of Hamar."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Hamar bei Regen besonders komfortabel. Starten Sie am imposanten Vikingskipet und fahren Sie zum Eisenbahnmuseum, während die Scheibenwischer den Blick auf den Mjøsa-See freihalten. Mittags erreichen Sie Domkirkeodden, wo Sie fast trocken vom Parkplatz in die Ausstellungen gelangen. Nach einem Abstecher zum Basaren endet der Tag an der Kathedrale, deren Glasdach im Regen besonders dramatisch wirkt.",
+            "hu": "Autóval Hamar különösen kényelmes esőben. Kezdjen az impozáns Vikingskipetnél, majd hajtson a Vasútmúzeumhoz, miközben az ablaktörlők szabadon tartják a kilátást a Mjøsa-tóra. Délben érkezik a Domkirkeoddenhez, ahol szinte szárazon juthat a parkolóból a kiállításokra. Egy kis kitérő után a Basarennél a nap a katedrálisnál zárul, melynek üvegtetője drámai látványt nyújt az esőben.",
+            "ro": "Cu mașina, Hamar este deosebit de confortabil pe ploaie. Începeți la impunătorul Vikingskipet și conduceți spre Muzeul Căilor Ferate, în timp ce ștergătoarele mențin vederea spre lac. La prânz ajungeți la Domkirkeodden, unde intrați aproape uscat din parcare la expoziții. După o oprire la Basaren, ziua se încheie la catedrală, al cărei acoperiș de sticlă arată dramatic pe ploaie.",
+            "en": "By car, Hamar is very comfortable during rain. Start at the imposing Vikingskipet and drive to the Railway Museum while wipers clear the view of Lake Mjøsa. Reach Domkirkeodden at noon, where you can move from the car to the exhibitions almost entirely dry. After a stop at Basaren, end your day at the cathedral, where the glass roof looks particularly dramatic in the rain."
+          },
+          "stops": [
+            {
+              "name": "Vikingskipet (The Viking Ship)",
+              "tip_5lang": {
+                "de": "Großer, bequemer Parkplatz direkt vor dem Eingang.",
+                "hu": "Nagy, kényelmes parkoló közvetlenül a bejárat előtt.",
+                "ro": "Parcare mare și comodă chiar în fața intrării.",
+                "en": "Large, convenient parking right in front of the entrance."
+              }
+            },
+            {
+              "name": "Norwegian Railway Museum",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Haupteingang, um trocken zu bleiben.",
+                "hu": "Parkoljon közel a főbejárathoz, hogy száraz maradjon.",
+                "ro": "Parcați aproape de intrarea principală pentru a rămâne uscat.",
+                "en": "Park close to the main entrance to minimize time in the rain."
+              }
+            },
+            {
+              "name": "Domkirkeodden",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nur einen kurzen Fußweg von den Ruinen entfernt.",
+                "hu": "A parkoló csak egy rövid sétára van a romoktól.",
+                "ro": "Parcarea este la doar o scurtă plimbare de ruine.",
+                "en": "The parking lot is just a short walk from the sheltered ruins."
+              }
+            },
+            {
+              "name": "Koigen Park",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Seeblick aus dem warmen Auto.",
+                "hu": "Rövid megálló a tavi kilátásért a meleg autóból.",
+                "ro": "Oprire scurtă pentru vederea spre lac din mașina caldă.",
+                "en": "Short stop to enjoy lake views from the warm car."
+              }
+            },
+            {
+              "name": "Basaren",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus im Stadtzentrum.",
+                "hu": "Használja a városközpontban lévő parkolóházat.",
+                "ro": "Folosiți parcarea etajată din centrul orașului.",
+                "en": "Use the multi-story parking garage in the city center."
+              }
+            },
+            {
+              "name": "Hamar Cathedral",
+              "tip_5lang": {
+                "de": "Parken Sie am Strandvegen für direkten Zugang.",
+                "hu": "Parkoljon a Strandvegennél a közvetlen bejutáshoz.",
+                "ro": "Parcați pe Strandvegen pentru acces direct.",
+                "en": "Park along Strandvegen for direct access to the site."
+              }
+            },
+            {
+              "name": "Mjøsa Promenade",
+              "tip_5lang": {
+                "de": "Perfekt für einen schnellen Blick auf den stürmischen See.",
+                "hu": "Tökéletes egy gyors pillantáshoz a viharos tóra.",
+                "ro": "Perfect pentru o privire rapidă spre lacul învolburat.",
+                "en": "Perfect for a quick look at the stormy lake before leaving."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkplätze an den Museen sind auch bei Regen gut befahrbar.",
+              "Nutzen Sie Park-Apps (wie EasyPark) für bequemes Bezahlen.",
+              "Hamar hat mehrere Parkhäuser im Zentrum, die Sie trocken halten.",
+              "Achten Sie auf Fußgänger an der Promenade bei schlechter Sicht."
+            ],
+            "hu": [
+              "A múzeumok parkolói esőben is jól járhatók.",
+              "Használjon parkolási appokat (pl. EasyPark) a kényelmes fizetéshez.",
+              "Hamar központjában több parkolóház is található.",
+              "Vigyázzon a gyalogosokra a sétánynál rossz látási viszonyok között."
+            ],
+            "ro": [
+              "Parcările de la muzee sunt ușor accesibile și pe ploaie.",
+              "Folosiți aplicații de parcare (ca EasyPark) pentru plată facilă.",
+              "Hamar are mai multe parcări etajate în centru.",
+              "Atenție la pietonii de pe promenadă în condiții de vizibilitate redusă."
+            ],
+            "en": [
+              "Museum parking lots are well-maintained and easy to use in rain.",
+              "Use parking apps like EasyPark for contactless payment.",
+              "Hamar has several central parking garages to keep you dry.",
+              "Watch out for pedestrians near the promenade in low visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Hamars Winterpracht vom warmen Auto aus. Beginnen Sie beim Vikingskipet und fahren Sie zum Eisenbahnmuseum durch die verschneite Stadt. Die Route entlang des Mjøsa bietet spektakuläre Ausblicke auf das Eis. Mittags erreichen Sie Domkirkeodden, wo die Ruinen im Schnee magisch aussehen. Besuchen Sie das Zentrum und beenden Sie den Tag an der Promenade, um das letzte Licht über dem gefrorenen See einzufangen.",
+            "hu": "Élvezze Hamar téli pompáját a meleg autóból. Kezdjen a Vikingskipetnél, majd hajtson a Vasútmúzeumhoz a havas városon keresztül. A Mjøsa menti útvonal látványos kilátást nyújt a jégre. Délben érkezik a Domkirkeoddenhez, ahol a romok varázslatosan festenek a hóban. Látogasson el a központba, és zárja a napot a sétányon, elkapva az utolsó fényeket a befagyott tó felett.",
+            "ro": "Bucurați-vă de splendoarea iernii în Hamar din căldura mașinii. Începeți la Vikingskipet și conduceți spre Muzeul Căilor Ferate prin orașul înzăpezit. Ruta de-a lungul Mjøsa oferă vederi spectaculoase spre gheață. La prânz ajungeți la Domkirkeodden, unde ruinele arată magic în zăpadă. Vizitați centrul și încheiați ziua pe promenadă pentru a prinde ultima lumină peste lacul înghețat.",
+            "en": "Enjoy Hamar's winter splendor from the warmth of your car. Start at the Vikingskipet and drive through the snowy town to the Railway Museum. The route along Mjøsa offers spectacular views of the ice. At noon, reach Domkirkeodden, where the ruins look magical in the snow. Visit the center and end your day at the promenade to catch the last light over the frozen lake."
+          },
+          "stops": [
+            {
+              "name": "Vikingskipet (The Viking Ship)",
+              "tip_5lang": {
+                "de": "Parkplätze werden hier meist vorrangig geräumt.",
+                "hu": "A parkolókat itt általában elsőként takarítják.",
+                "ro": "Parcările de aici sunt de obicei curățate prioritar.",
+                "en": "Parking lots here are usually cleared of snow early."
+              }
+            },
+            {
+              "name": "Norwegian Railway Museum",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken auf festgefahrenem Schnee.",
+                "hu": "Vigyázzon a parkolásnál a döngölt havon.",
+                "ro": "Atenție la parcare pe zăpada bătătorită.",
+                "en": "Be careful when parking on packed snow surfaces."
+              }
+            },
+            {
+              "name": "Domkirkeodden",
+              "tip_5lang": {
+                "de": "Wunderbarer Blick auf den See direkt vom Parkplatz.",
+                "hu": "Csodálatos kilátás a tóra közvetlenül a parkolóból.",
+                "ro": "Vedere minunată spre lac direct din parcare.",
+                "en": "Wonderful lake views directly from the parking area."
+              }
+            },
+            {
+              "name": "Koigen Park",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, bevor es im Auto wieder warm wird.",
+                "hu": "Rövid fotómegálló, mielőtt visszatérne a meleg autóba.",
+                "ro": "Scurtă oprire foto înainte de a reveni în mașina caldă.",
+                "en": "Quick photo stop before warming back up in the car."
+              }
+            },
+            {
+              "name": "Basaren",
+              "tip_5lang": {
+                "de": "Beheizte Parkhäuser im Zentrum verhindern das Einfrieren.",
+                "hu": "A fűtött parkolóházak a központban megvédik az autót a fagytól.",
+                "ro": "Parcările încălzite din centru previn înghețarea.",
+                "en": "Heated central garages prevent your car from freezing over."
+              }
+            },
+            {
+              "name": "Hamar Cathedral",
+              "tip_5lang": {
+                "de": "Das Glasgebäude ist im Winter ein glitzerndes Highlight.",
+                "hu": "Az üvegépület télen egy csillogó fénypont.",
+                "ro": "Clădirea de sticlă este un punct de atracție sclipitor iarna.",
+                "en": "The glass structure is a glittering highlight in winter."
+              }
+            },
+            {
+              "name": "Mjøsa Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie die blaue Stunde vom Uferparkplatz aus.",
+                "hu": "Élvezze a kék órát a tóparti parkolóból.",
+                "ro": "Bucurați-vă de ora albastră din parcarea de pe mal.",
+                "en": "Enjoy the blue hour from the lakeside parking spot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Norwegen gesetzlich vorgeschrieben.",
+              "Lassen Sie den Motor beim Eiskratzen nicht unnötig laufen.",
+              "Fahren Sie defensiv auf den eventuell glatten Nebenstraßen.",
+              "Halten Sie eine Schaufel und Decken für Notfälle im Auto bereit."
+            ],
+            "hu": [
+              "A téli gumi Norvégiában törvényi előírás.",
+              "Jégkaparás közben ne járassa feleslegesen a motort.",
+              "Vezessen óvatosan az esetleg csúszós mellékutakon.",
+              "Tartson hólapátot és takarót az autóban vészhelyzetre."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Norvegia.",
+              "Nu lăsați motorul pornit inutil în timp ce curățați gheața.",
+              "Conduceți defensiv pe străzile secundare posibil alunecoase.",
+              "Păstrați o lopată și pături în mașină pentru urgențe."
+            ],
+            "en": [
+              "Winter tires are legally required in Norway.",
+              "Don't leave the engine idling while scraping ice.",
+              "Drive defensively on side streets which can be slippery.",
+              "Keep a snow shovel and blankets in the car for emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1437,6 +2001,188 @@
           "Buses may run less frequently on weekends, so plan ahead.",
           "Keep an eye on the time so you don't miss the last bus back to the center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Hamar lässt sich bei Regen hervorragend mit dem Bus erkunden. Vom Basaren aus bringen Sie die lokalen Linien schnell zur Kathedrale und zum Vikingskipet, während Sie draußen den Regen beobachten. Mittags bietet Domkirkeodden Schutz und Geschichte. Die Busse sind pünktlich und bringen Sie trocken vom Zentrum zum Eisenbahnmuseum, sodass Sie den Tag trotz des Wetters voll ausnutzen können.",
+            "hu": "Hamart esőben is kiválóan felfedezheti busszal. A Basarentől a helyi járatok gyorsan elviszik a katedrálishoz és a Vikingskipethez, miközben bentről nézheti az esőt. Délben a Domkirkeodden nyújt menedéket és történelmet. A buszok pontosak, és szárazon viszik a központból a Vasútmúzeumba, így az időjárás ellenére is teljesen kihasználhatja a napot.",
+            "ro": "Hamar poate fi explorat excelent cu autobuzul pe ploaie. De la Basaren, liniile locale vă duc rapid la catedrală și Vikingskipet, în timp ce priviți ploaia de la geam. La prânz, Domkirkeodden oferă adăpost și istorie. Autobuzele sunt punctuale și vă duc uscat de la centru la Muzeul Căilor Ferate, permițându-vă să profitați de zi.",
+            "en": "Hamar is easy to explore by bus when it rains. From Basaren, local lines take you quickly to the cathedral and Vikingskipet while you watch the rain from inside. At noon, Domkirkeodden offers shelter and history. The buses are punctual and keep you dry while traveling from the center to the Railway Museum, making the most of your day regardless of the weather."
+          },
+          "stops": [
+            {
+              "name": "Basaren",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen im Zentrum sind meist überdacht.",
+                "hu": "A központi buszmegállók többnyire fedettek.",
+                "ro": "Stațiile de autobuz din centru sunt în mare parte acoperite.",
+                "en": "Main bus stops in the center are mostly sheltered."
+              }
+            },
+            {
+              "name": "Hamar Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App 'Entur' für Echtzeit-Abfahrten.",
+                "hu": "Használja az 'Entur' alkalmazást a valós idejű indulásokhoz.",
+                "ro": "Folosiți aplicația 'Entur' pentru plecări în timp real.",
+                "en": "Use the 'Entur' app for real-time departure info."
+              }
+            },
+            {
+              "name": "Vikingskipet (The Viking Ship)",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Schritte von der Halle entfernt.",
+                "hu": "A megálló csak pár lépésre van a csarnoktól.",
+                "ro": "Stația este la doar câțiva pași de sală.",
+                "en": "The bus stop is just a few steps from the arena entrance."
+              }
+            },
+            {
+              "name": "Domkirkeodden",
+              "tip_5lang": {
+                "de": "Planen Sie kurze Sprints zwischen Bus und Museum ein.",
+                "hu": "Tervezzen rövid futásokat a busz és a múzeum között.",
+                "ro": "Planificați sprinturi scurte între autobuz și muzeu.",
+                "en": "Plan for short sprints between the bus and the museum."
+              }
+            },
+            {
+              "name": "Koigen Park",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Regen, bevor der nächste Bus kommt.",
+                "hu": "Rövid megálló az esőben a következő busz érkezéséig.",
+                "ro": "O oprire scurtă în ploaie până vine următorul autobuz.",
+                "en": "A brief stop in the rain before the next bus arrives."
+              }
+            },
+            {
+              "name": "Norwegian Railway Museum",
+              "tip_5lang": {
+                "de": "Bequeme Rückfahrt ins Zentrum mit der Linie 100.",
+                "hu": "Kényelmes visszautazás a központba a 100-as vonalon.",
+                "ro": "Întoarcere comodă în centru cu linia 100.",
+                "en": "Convenient ride back to the center on line 100."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab in der App, um Zeit zu sparen.",
+              "Die Busse sind gut beheizt und bieten WLAN.",
+              "Der Umstieg am Bahnhof Hamar ist zentral und trocken.",
+              "Achten Sie auf die Abstände der Linien am Wochenende."
+            ],
+            "hu": [
+              "Vásároljon jegyet előre az appban, hogy időt spóroljon.",
+              "A buszok jól fűtöttek és van rajtuk Wi-Fi.",
+              "A hamari vasútállomásnál a csatlakozás központi és száraz.",
+              "Ügyeljen a járatok ritkább követésére hétvégén."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans prin aplicație pentru a economisi timp.",
+              "Autobuzele sunt bine încălzite și au Wi-Fi.",
+              "Transferul la gara Hamar este central și ferit de ploaie.",
+              "Atenție la frecvența liniilor în weekend."
+            ],
+            "en": [
+              "Buy tickets in advance via the app to save time.",
+              "Buses are well-heated and often offer free Wi-Fi.",
+              "The Hamar station hub is central and mostly sheltered.",
+              "Check the weekend schedules as buses run less frequently."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Hamar stressfrei mit dem öffentlichen Nahverkehr. Die Busse bringen Sie zuverlässig vom Basaren zu den Highlights wie dem Vikingskipet und dem Domkirkeodden. Genießen Sie die Fahrt durch die glitzernde Schneelandschaft, während Sie im Warmen sitzen. Da es im Winter früh dunkel wird, sind die hell beleuchteten Busse eine sichere und bequeme Art, zwischen den Museen und dem Stadtzentrum zu pendeln.",
+            "hu": "Tapasztalja meg a téli Hamart stresszmentesen tömegközlekedéssel. A buszok megbízhatóan viszik a Basarentől olyan látnivalókhoz, mint a Vikingskipet és a Domkirkeodden. Élvezze az utazást a csillogó havas tájon keresztül a meleg buszban ülve. Mivel télen korán sötétedik, a jól kivilágított buszok biztonságos és kényelmes módot kínálnak az ingázásra a múzeumok és a városközpont között.",
+            "ro": "Experimentați Hamarul de iarnă fără stres cu transportul public. Autobuzele vă duc în siguranță de la Basaren la puncte de atracție precum Vikingskipet și Domkirkeodden. Bucurați-vă de drumul prin peisajul înzăpezit din căldura autobuzului. Deoarece iarna se întunecă devreme, autobuzele bine iluminate sunt o cale sigură și comodă de a naviga între muzee și centru.",
+            "en": "Experience winter in Hamar stress-free using public transit. Buses reliably take you from Basaren to highlights like the Vikingskipet and Domkirkeodden. Enjoy the ride through the glittering snowscapes while staying warm inside. With early sunsets in winter, the brightly lit buses are a safe and comfortable way to commute between the museums and the city center."
+          },
+          "stops": [
+            {
+              "name": "Basaren",
+              "tip_5lang": {
+                "de": "Warten Sie in der warmen Halle, bis der Bus kommt.",
+                "hu": "Várjon a meleg csarnokban, amíg megérkezik a busz.",
+                "ro": "Așteptați în hala caldă până vine autobuzul.",
+                "en": "Wait inside the warm hall until shortly before your bus arrives."
+              }
+            },
+            {
+              "name": "Hamar Cathedral",
+              "tip_5lang": {
+                "de": "Die Glasfassade sieht in der Winternacht herrlich aus.",
+                "hu": "Az üveghomlokzat csodásan fest a téli éjszakában.",
+                "ro": "Fațada de sticlă arată superb în noaptea de iarnă.",
+                "en": "The glass facade looks magnificent in the winter night."
+              }
+            },
+            {
+              "name": "Vikingskipet (The Viking Ship)",
+              "tip_5lang": {
+                "de": "Busse halten direkt vor dieser Olympia-Ikone.",
+                "hu": "A buszok közvetlenül az olimpiai ikon előtt állnak meg.",
+                "ro": "Autobuzele opresc chiar în fața acestei pictograme olimpice.",
+                "en": "Buses stop right in front of this Olympic icon."
+              }
+            },
+            {
+              "name": "Domkirkeodden",
+              "tip_5lang": {
+                "de": "Die Wege von der Haltestelle sind meist gut gestreut.",
+                "hu": "A megállótól vezető utakat általában jól szórják.",
+                "ro": "Drumurile de la stație sunt de obicei bine deparazitate.",
+                "en": "Paths from the bus stop are usually well-gritted."
+              }
+            },
+            {
+              "name": "Koigen Park",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für das Winterpanorama am Mjøsa.",
+                "hu": "Rövid megálló a mjøsai téli panorámáért.",
+                "ro": "Scurtă oprire pentru panorama de iarnă de pe Mjøsa.",
+                "en": "Quick stop for the winter panorama over Lake Mjøsa."
+              }
+            },
+            {
+              "name": "Norwegian Railway Museum",
+              "tip_5lang": {
+                "de": "Ein Highlight, das auch im Winter gut erreichbar ist.",
+                "hu": "Egy látnivaló, ami télen is jól megközelíthető.",
+                "ro": "O atracție ușor accesibilă chiar și iarna.",
+                "en": "A highlight that remains easily accessible even in deep winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft die sicherste Wahl bei Glatteis.",
+              "Tragen Sie einen Reflektor, damit der Busfahrer Sie sieht.",
+              "Verwenden Sie die Entur-App für alle Linien in der Region.",
+              "Die Wartehäuschen am Bahnhof bieten Schutz vor dem Wind."
+            ],
+            "hu": [
+              "A busz télen gyakran a legbiztonságosabb választás jegesedéskor.",
+              "Viseljen fényvisszaverőt, hogy a buszsofőr láthassa Önt.",
+              "Használja az Entur alkalmazást a régió összes járatához.",
+              "A vasútállomás várói védelmet nyújtanak a szél ellen."
+            ],
+            "ro": [
+              "Autobuzul este adesea cea mai sigură alegere pe polei.",
+              "Purtați un reflectorizant pentru ca șoferul să vă vadă.",
+              "Utilizați aplicația Entur pentru toate liniile din regiune.",
+              "Adăposturile din gară oferă protecție contra vântului."
+            ],
+            "en": [
+              "Buses are often the safest option when roads are icy.",
+              "Wear a reflector (reflex) so the bus driver can see you in the dark.",
+              "Use the Entur app for integrated schedules across all local lines.",
+              "The waiting areas at the train station provide good wind protection."
+            ]
+          }
+        }
       }
     }
   }

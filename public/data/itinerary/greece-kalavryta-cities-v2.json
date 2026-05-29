@@ -362,6 +362,196 @@
           "Bring water, especially for the hike around Zachlorou.",
           "Be respectful at the historical memorial sites."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet der Freiheitsplatz trotz Regen Schutz unter Arkaden. Der Besuch im Holocaust-Museum ist ideal, um trocken zu bleiben und Geschichte zu vertiefen. Mittags führt der Weg zum Opferplatz durch neblige Gassen. Nachmittags genießen Sie eine gemütliche Fahrt mit der Zahnradbahn nach Zachlorou, wo der Regen den Vouraikos-Fluss wilder erscheinen lässt. Abends Rückkehr im warmen Zug.",
+            "hu": "Reggel a Szabadság tér árkádjai alatt kezdünk, majd a Holokauszt Múzeumban találunk menedéket az eső elől. Délben a monumentális emlékhely a ködben még drámaibb látványt nyújt. Délután az Odontotos kisvasúton pihenünk, figyelve a megáradt Vouraikos-folyót Zachlorou felé. Az estét a városba visszatérve, egy meleg teázóban zárjuk, miközben odakint kopog az eső.",
+            "ro": "Dimineața, Piața Libertății oferă adăpost sub arcade, iar Muzeul Holocaustului este locul perfect pentru a evita ploaia. La prânz, vizita la Locul Sacrificiului capătă o aură melancolică prin ceață. După-amiaza, călătoria cu trenul spre Zachlorou vă protejează de intemperii, oferind vederi dramatice asupra defileului. Seara se încheie cu o întoarcere relaxantă în vagonul încălzit.",
+            "en": "Morning starts under the covers of Freedom Square, followed by a long stay inside the Holocaust Museum to stay dry. At noon, the misty atmosphere adds solemnity to the Place of Sacrifice. In the afternoon, the rack railway provides a dry vantage point to admire the rain-swollen Vouraikos river on the way to Zachlorou. The evening concludes with a cozy train ride back to Kalavryta."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Vordächern der Cafés am Platz.",
+                "hu": "Használja a kávézók előtetőit az eső elleni védekezéshez.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor din piață.",
+                "en": "Seek shelter under the café awnings around the square."
+              }
+            },
+            {
+              "name": "Kalavryta Holocaust Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenzeit sinnvoll im Inneren zu verbringen.",
+                "hu": "Tökéletes beltéri program, amíg eláll az eső odakint.",
+                "ro": "Locul ideal pentru a petrece timpul la interior în mod util.",
+                "en": "Perfect indoor location to spend time while it rains outside."
+              }
+            },
+            {
+              "name": "Place of Sacrifice",
+              "tip_5lang": {
+                "de": "Vorsicht, die gepflasterten Wege können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a köves utak vizesen csúszóssá válhatnak.",
+                "ro": "Atenție, aleile pavate pot deveni alunecoase când sunt ude.",
+                "en": "Caution, the paved paths can become slippery when wet."
+              }
+            },
+            {
+              "name": "Ride the Odontotos Rack Railway",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht auf die Schlucht aus dem trockenen Waggon.",
+                "hu": "Élvezze a szurdok látványát a száraz és fűtött vagonból.",
+                "ro": "Bucurați-vă de priveliștea defileului din vagonul uscat.",
+                "en": "Enjoy the gorge views from the comfort of a dry carriage."
+              }
+            },
+            {
+              "name": "Lunch in Zachlorou",
+              "tip_5lang": {
+                "de": "Wählen Sie eine Taverne mit Kamin für maximale Gemütlichkeit.",
+                "hu": "Válasszon kandallós tavernát a maximális kényelemért.",
+                "ro": "Alegeți o tavernă cu șemineu pentru un confort maxim.",
+                "en": "Choose a tavern with a fireplace for maximum coziness."
+              }
+            },
+            {
+              "name": "Return journey to Kalavryta",
+              "tip_5lang": {
+                "de": "Halten Sie die Kamera bereit für Wasserfälle entlang der Gleise.",
+                "hu": "Készítse a kamerát az eső miatt aktív vízesésekhez a sínek mentén.",
+                "ro": "Pregătiți camera pentru cascadele active de-a lungul șinelor.",
+                "en": "Keep your camera ready for waterfalls along the tracks."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen der Bergwinde in Kalavryta unerlässlich.",
+              "Wasserdichte Schuhe sind für den Weg zum Opferplatz sehr zu empfehlen.",
+              "Das Holocaust-Museum bietet eine hervorragende, trockene Alternative für den Vormittag.",
+              "Buchen Sie Bahntickets im Voraus, da bei Regen mehr Wanderer auf den Zug umsteigen.",
+              "Die neblige Schlucht bietet bei Regen einzigartige Fotomotive vom Zug aus."
+            ],
+            "hu": [
+              "A hegyi szelek miatt az erős vázú esernyő kötelező Kalavrytában.",
+              "Vízálló cipő ajánlott az emlékhelyhez vezető emelkedőn.",
+              "A kisvasút vagonjai fűtöttek, így esőben is kényelmes az utazás.",
+              "Érdemes előre jegyet váltani a vonatra, mert esőben mindenki ezzel utazik.",
+              "A Vouraikos-szurdok ilyenkor a legvadregényesebb a sok vízesés miatt."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza vânturilor montane.",
+              "Încălțămintea impermeabilă este recomandată pentru drumul spre monument.",
+              "Muzeul Holocaustului oferă un refugiu cultural excelent pe timp de ploaie.",
+              "Rezervați biletele de tren din timp, mulți turiști aleg trenul când plouă.",
+              "Defileul cețos oferă oportunități foto unice direct din tren."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to mountain winds in Kalavryta.",
+              "Waterproof shoes are highly recommended for the walk to the memorial.",
+              "The Holocaust Museum is an excellent dry alternative for the morning.",
+              "Book train tickets in advance as more people opt for transit during rain.",
+              "The misty gorge provides unique photo opportunities from the train."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Kalavryta beginnt oft mit Frost auf dem Freiheitsplatz. Im warmen Holocaust-Museum erfahren Sie mehr über die bewegte Geschichte. Mittags liegt oft Schnee am Opferplatz, was die Stille noch eindringlicher macht. Die Fahrt nach Zachlorou mit der Zahnradbahn führt durch eine glitzernde Winterlandschaft. Abends lockt die Stadt mit dem Duft von Kaminfeuer und lokalen Spezialitäten.",
+            "hu": "A téli reggel gyakran dérrel borítja a Szabadság teret, a múzeum melegében pedig elmélyedhetünk a múltban. Délben az emlékhelyet borító hó némasága méltóságteljes hangulatot áraszt. Délután a fogaskerekű vonat ablakából csodáljuk a jeges Vouraikos-szurdokot Zachlorou felé. Az este már a kandalló melletti vacsoráról szól, mielőtt korán lemegy a nap a hegyek mögött.",
+            "ro": "Dimineața de iarnă începe cu brumă în Piața Libertății, dar muzeul oferă un refugiu călduros. La prânz, zăpada depusă la Locul Sacrificiului sporește solemnitatea locului. După-amiaza, trenul Odontotos traversează peisajul înghețat al defileului spre Zachlorou. Seara, orașul miroase a lemn ars în șeminee, invitându-vă la o cină tradițională copioasă.",
+            "en": "Winter mornings in Kalavryta often start with frost on Freedom Square, making the warm museum a welcome stop. At noon, snow at the Place of Sacrifice enhances the site's quiet dignity. The afternoon rack railway journey to Zachlorou showcases a sparkling winter wonderland in the gorge. As the sun sets early, the town's wood-burning fireplaces create a cozy atmosphere for the evening."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen griechischen Kaffee in einer der geheizten Bars.",
+                "hu": "Igyon egy forró görög kávét a fűtött beltéri kávézók egyikében.",
+                "ro": "Savurați o cafea grecească fierbinte într-unul dintre barurile încălzite.",
+                "en": "Enjoy a hot Greek coffee in one of the heated indoor bars."
+              }
+            },
+            {
+              "name": "Kalavryta Holocaust Museum",
+              "tip_5lang": {
+                "de": "Die Heizung im Museum sorgt für einen angenehmen Aufenthalt.",
+                "hu": "A múzeum fűtése kellemes környezetet biztosít a látogatáshoz.",
+                "ro": "Sistemul de încălzire din muzeu asigură o vizită confortabilă.",
+                "en": "The museum's heating system ensures a comfortable visit."
+              }
+            },
+            {
+              "name": "Place of Sacrifice",
+              "tip_5lang": {
+                "de": "Tragen Sie feste Stiefel, da der Weg vereist sein kann.",
+                "hu": "Viseljen bakancsot, mert az út jeges és csúszós lehet.",
+                "ro": "Purtați ghete aderente, deoarece drumul poate fi înghețat.",
+                "en": "Wear sturdy boots as the path can be icy and slippery."
+              }
+            },
+            {
+              "name": "Ride the Odontotos Rack Railway",
+              "tip_5lang": {
+                "de": "Die Waggons sind gut beheizt; genießen Sie die Winterpracht.",
+                "hu": "A vagonok jól fűtöttek, élvezze a téli táj látványát.",
+                "ro": "Vagoanele sunt bine încălzite; admirați splendoarea iernii.",
+                "en": "The carriages are well-heated; enjoy the winter scenery."
+              }
+            },
+            {
+              "name": "Lunch in Zachlorou",
+              "tip_5lang": {
+                "de": "Probieren Sie lokale Suppen und Fleischgerichte zum Aufwärmen.",
+                "hu": "Kóstolja meg a helyi leveseket és húsételeket a felmelegedéshez.",
+                "ro": "Gustați supele locale și preparatele din carne pentru a vă încălzi.",
+                "en": "Try local soups and meat dishes to warm up after the journey."
+              }
+            },
+            {
+              "name": "Return journey to Kalavryta",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang in den Bergen beginnt im Winter sehr früh.",
+                "hu": "A naplemente a hegyekben télen már 17 óra körül bekövetkezik.",
+                "ro": "Apusul în munți începe foarte devreme în timpul iernii.",
+                "en": "Sunset in the mountains starts very early during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten Kleidung, da die Temperaturen stark sinken können.",
+              "Die Sonne verschwindet im Winter bereits gegen 17:00 Uhr hinter den Gipfeln.",
+              "Kalavryta ist im Winter ein beliebtes Skigebiet; die Stadt ist sehr lebhaft.",
+              "Wollmützen und Handschuhe sind bei Spaziergängen im Freien unerlässlich.",
+              "Probieren Sie 'Rakomelo' (warmer Raki mit Honig) zum Aufwärmen am Abend."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen, mert a hőmérséklet fagypont alá is süllyedhet.",
+              "A nap 17:00 körül már lemegy, tervezze ehhez a szabadtéri látnivalókat.",
+              "A síközpont közelsége miatt a város télen is élettel teli és forgalmas.",
+              "A sapka és kesztyű kötelező az emlékhely felé vezető sétához.",
+              "Kóstolja meg a forró 'Rakomelo'-t az esti felmelegedéshez."
+            ],
+            "ro": [
+              "Purtați haine în straturi, temperaturile pot scădea sub zero grade.",
+              "Soarele apune în jurul orei 17:00, planificați vizitele exterioare devreme.",
+              "Orașul este foarte animat iarna datorită stațiunii de schi din apropiere.",
+              "Căciula și mănușile sunt indispensabile pentru plimbarea la monument.",
+              "Încercați 'Rakomelo' (raki cald cu miere) pentru a vă încălzi seara."
+            ],
+            "en": [
+              "Dress in layers as temperatures can drop significantly in the mountains.",
+              "The sun sets behind the peaks as early as 17:00 in winter.",
+              "Kalavryta is a popular ski destination, making the town very lively in winter.",
+              "Woolen hats and gloves are essential for the walk to the memorial site.",
+              "Try 'Rakomelo' (warm raki with honey) to warm up in the evening."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -674,6 +864,178 @@
           "Check the weather before you go; it can change quickly in the mountains.",
           "A bike lock is useful for stops in the town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag erfordert gute Ausrüstung auf dem Freiheitsplatz. Der Museumsbesuch bietet eine lange Pause vom Regen. Die Fahrt Richtung Mega Spilaion ist auf nassen Straßen anspruchsvoll, aber die nebligen Berge wirken mystisch. Mittags stärken Sie sich in Kalavryta, bevor Sie den Bahnhof besuchen. Der Opferplatz am Nachmittag ist im Regen ein Ort der stillen Einkehr.",
+            "hu": "Az esős bringás naphoz elengedhetetlen a vízálló ruházat már a Szabadság téren. A múzeumi megálló hosszú pihenőt ad a záporok között. A Mega Spilaion felé vezető út vizes aszfalton nehezebb, de a párás hegyoldal látványa kárpótol. Ebéd után a vasútállomást érintjük, majd a délutáni esőben az emlékhely némasága még hatásosabb.",
+            "ro": "O zi de ciclism pe ploaie necesită echipament adecvat încă din Piața Libertății. Vizita la muzeu oferă o pauză lungă și uscată. Drumul spre Mega Spilaion este solicitant pe carosabil umed, dar munții cețoși arată mistic. După prânzul în oraș, vizitați gara, iar după-amiaza vizitați monumentul într-o atmosferă de reculegere.",
+            "en": "A rainy cycling day starts with waterproof gear at Freedom Square. The museum provides a long refuge from the downpours. The ride towards Mega Spilaion is challenging on wet roads, but the misty mountains look mystical. After a local lunch, visit the station, and end at the memorial where the rain adds to the site's solemn atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square & Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter dem Vordach des Museums trocken ab.",
+                "hu": "Parkolja le a kerékpárt a múzeum előtetője alatt, hogy száraz maradjon.",
+                "ro": "Parcați bicicleta sub copertina muzeului pentru a o menține uscată.",
+                "en": "Park your bike under the museum's overhang to keep it dry."
+              }
+            },
+            {
+              "name": "Bike ride towards Mega Spilaion",
+              "tip_5lang": {
+                "de": "Vorsicht in den Kurven; nasses Laub kann sehr rutschig sein.",
+                "hu": "Vigyázzon a kanyarokban; a vizes levelek csúszósak lehetnek.",
+                "ro": "Atenție în curbe; frunzele ude pot fi foarte alunecoase.",
+                "en": "Careful in the bends; wet leaves on the road can be very slippery."
+              }
+            },
+            {
+              "name": "Lunch in Kalavryta",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagspause, um Ihre Kleidung zu trocknen.",
+                "hu": "Használja ki az ebédszünetet a vizes ruhák szárítására.",
+                "ro": "Folosiți pauza de prânz pentru a vă usca hainele.",
+                "en": "Use the lunch break as an opportunity to dry your gear."
+              }
+            },
+            {
+              "name": "Odontotos Railway Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet überdachte Bereiche für Radfahrer.",
+                "hu": "Az állomás fedett területei jó pihenőt kínálnak bringásoknak.",
+                "ro": "Gara oferă zone acoperite potrivite pentru bicicliști.",
+                "en": "The railway station has covered areas perfect for a rest."
+              }
+            },
+            {
+              "name": "Place of Sacrifice",
+              "tip_5lang": {
+                "de": "Die letzte Steigung ist bei Regen besonders kräftezehrend.",
+                "hu": "Az utolsó emelkedő esőben különösen sokat kivesz az emberből.",
+                "ro": "Ultima urcare este deosebit de solicitantă pe timp de ploaie.",
+                "en": "The final climb is particularly draining in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Scheibenbremsen sind bei Regen in den Bergen sicherer.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Schützen Sie Ihre elektronischen Geräte in wasserdichten Taschen.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck gibt mehr Grip.",
+              "Die Bergstraßen können bei starkem Regen kleine Steinschläge aufweisen."
+            ],
+            "hu": [
+              "A tárcsafék sokkal nagyobb biztonságot ad az esős hegyi lejtőkön.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóság érdekében.",
+              "Tartsa az elektronikus eszközeit teljesen vízhatlan táskában.",
+              "Csökkentse kicsit a guminyomást a jobb tapadásért a vizes úton.",
+              "Erős esőben figyeljen az útra kerülő apróbb kövekre a kanyarokban."
+            ],
+            "ro": [
+              "Frânele pe disc sunt mult mai sigure pe coborârile montane ude.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate sporită.",
+              "Păstrați dispozitivele electronice în pungi sau genți impermeabile.",
+              "Verificați presiunea; o presiune mai mică oferă aderență mai bună.",
+              "Atenție la micile căderi de pietre pe drum în timpul ploilor torențiale."
+            ],
+            "en": [
+              "Disc brakes offer significantly better safety on wet mountain descents.",
+              "Wear a high-visibility rain jacket for better safety on the road.",
+              "Keep all your electronic devices in waterproof bags or cases.",
+              "Slightly lower tire pressure provides better grip on wet asphalt.",
+              "Be alert for small rockfalls on mountain roads during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Kalavryta startet bei klarem, kaltem Wetter. Das Museum bietet eine erste Aufwärmpause. Die Fahrt Richtung Mega Spilaion bietet atemberaubende Blicke auf schneebedeckte Gipfel, erfordert aber Vorsicht bei Eis. Mittags stärkt eine warme Mahlzeit für den Bahnhofsbesuch. Der Opferplatz wirkt im weißen Kleid besonders friedlich vor der frühen Dämmerung.",
+            "hu": "A téli bringázás friss hegyi levegővel indul a Szabadság téren. A múzeumi megálló segít átmelegedni az út előtt. A Mega Spilaion felé vezető szakasz jeges foltokat tartogathat, de a havas csúcsok látványa felejthetetlen. Ebéd után a vasútállomás következik, majd a délutáni fényekben az emlékhelyet látogatjuk meg a korai sötétedés előtt.",
+            "ro": "Ciclismul de iarnă începe cu aer rece și proaspăt în Piața Libertății. Muzeul este prima oprire pentru încălzire. Drumul spre Mega Spilaion oferă vederi superbe spre vârfurile înzăpezite, dar necesită atenție la gheață. După prânz, vizităm gara, iar monumentul arată impresionant sub zăpadă înainte de lăsarea serii.",
+            "en": "Winter cycling in Kalavryta starts with crisp air at Freedom Square. The museum stop is essential to warm up. The ride towards Mega Spilaion offers stunning snowy peak views but requires caution due to ice patches. After a hearty lunch, visit the station, then reach the memorial site which looks peaceful under its winter coat before the early dusk."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square & Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände im Museum auf, bevor es weitergeht.",
+                "hu": "Melegítse fel a kezeit a múzeumban a hosszabb tekerés előtt.",
+                "ro": "Încălziți-vă mâinile în muzeu înainte de a pleca la drum lung.",
+                "en": "Warm your hands in the museum before heading out for the ride."
+              }
+            },
+            {
+              "name": "Bike ride towards Mega Spilaion",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in schattigen Kurven der Bergstraße.",
+                "hu": "Figyeljen a jeges foltokra a hegyi út árnyékos kanyarjaiban.",
+                "ro": "Atenție la porțiunile înghețate în curbele umbrite ale drumului.",
+                "en": "Watch out for black ice in the shaded turns of the mountain road."
+              }
+            },
+            {
+              "name": "Lunch in Kalavryta",
+              "tip_5lang": {
+                "de": "Essen Sie kalorienreich, um den Körper warm zu halten.",
+                "hu": "Fogyasszon kalóriadús ételeket, hogy bírja a hideget.",
+                "ro": "Consumați alimente bogate caloric pentru a menține căldura corpului.",
+                "en": "Eat calorie-rich food to help your body maintain its temperature."
+              }
+            },
+            {
+              "name": "Odontotos Railway Station",
+              "tip_5lang": {
+                "de": "Bewegen Sie sich, um während der Wartezeit nicht auszukühlen.",
+                "hu": "Mozogjon folyamatosan a várakozás alatt, hogy ne fázzon meg.",
+                "ro": "Mențineți-vă în mișcare în timp ce așteptați pentru a nu îngheța.",
+                "en": "Keep moving while waiting to prevent your body from cooling down."
+              }
+            },
+            {
+              "name": "Place of Sacrifice",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 16:30 Uhr, um Licht zu haben.",
+                "hu": "Látogasson el ide 16:30 előtt, hogy még legyen természetes fény.",
+                "ro": "Vizitați acest loc înainte de 16:30 pentru a beneficia de lumină.",
+                "en": "Visit this site before 16:30 to ensure you have daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Handschuhe und Überschuhe sind im Winter lebenswichtig.",
+              "Die Temperaturen können im Schatten drastisch sinken.",
+              "Führen Sie eine Thermoskanne mit warmem Tee mit.",
+              "Licht am Fahrrad ist wegen der frühen Dämmerung obligatorisch.",
+              "Prüfen Sie die Bremsbeläge; Kälte kann die Bremskraft beeinflussen."
+            ],
+            "hu": [
+              "A termokesztyű és a kamásli elengedhetetlen a téli hegyi túrához.",
+              "Az árnyékos szakaszokon a hőmérséklet hirtelen sokat eshet.",
+              "Vigyen magával termoszban forró teát az út során.",
+              "A világítás kötelező, mert 17:00 után hirtelen sötét lesz.",
+              "Ellenőrizze a fékeket; a hideg befolyásolhatja a fékhatást."
+            ],
+            "ro": [
+              "Mănușile termice și protecțiile de pantofi sunt vitale iarna.",
+              "Temperaturile pot scădea drastic în zonele umbrite ale muntelui.",
+              "Luați un termos cu ceai cald pentru drumul spre Mega Spilaion.",
+              "Luminile la bicicletă sunt obligatorii din cauza amurgului timpuriu.",
+              "Verificați saboții de frână; frigul poate afecta eficiența frânării."
+            ],
+            "en": [
+              "Thermal gloves and shoe covers are vital for winter mountain rides.",
+              "Temperatures can drop drastically in shaded areas of the climb.",
+              "Carry a thermos with warm tea to stay hydrated and warm.",
+              "Bike lights are mandatory as darkness falls rapidly after 17:00.",
+              "Check your brake pads; cold can sometimes affect braking performance."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1034,6 +1396,214 @@
           "Fill up your gas tank before heading into the mountains.",
           "Parking near the sights can be challenging during peak season."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen in Kalavryta macht das Auto zum idealen Begleiter. Der Museumsbesuch am Morgen bleibt trocken, gefolgt von einem kurzen Sprint zum Freiheitsplatz. Die Klöster Agia Lavra und Mega Spilaion bieten beeindruckende Innenräume, während es draußen stürmt. Mittags lockt eine warme Taverne. Das Highlight ist die Höhle der Seen, wo der Regen das unterirdische Wasserspiel noch verstärkt.",
+            "hu": "Az esőben az autó a legkényelmesebb választás Kalavrytában. Reggel a múzeumban kezdünk, majd csak egy gyors sétát teszünk a Szabadság téren. Az Agia Lavra és Mega Spilaion kolostorok belső terei lenyűgözőek, miközben kint szakad. Ebéd után a Tavak barlangja következik, ahol az esőzés miatt a földalatti vízszint és a látvány még látványosabb.",
+            "ro": "Ploaia face ca mașina să fie alegerea ideală în Kalavryta. Vizita la muzeu și Piața Libertății se face rapid între reprizele de ploaie. Mănăstirile Agia Lavra și Mega Spilaion oferă interioare superbe, ferite de furtună. După prânz, vizitați Peștera Lacurilor, unde ploaia de afară alimentează spectaculos cursul apei subterane.",
+            "en": "Rain in Kalavryta makes the car the perfect shelter. Start with the museum and a quick dash to Freedom Square. The monasteries of Agia Lavra and Mega Spilaion provide grand interiors while the storm rages outside. After a warm lunch, head to the Cave of the Lakes, where the rain enhances the underground water levels and creates a magical atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Kalavryta Town Cluster: Museum & Place of Sacrifice",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Museumseingang, um nicht nass zu werden.",
+                "hu": "Parkoljon közvetlenül a múzeum bejáratánál, hogy elkerülje az esőt.",
+                "ro": "Parcați aproape de intrarea muzeului pentru a evita ploaia.",
+                "en": "Park close to the museum entrance to minimize time in the rain."
+              }
+            },
+            {
+              "name": "Walk to Freedom Square",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg, halten Sie den Schirm bereit.",
+                "hu": "Rövid séta, tartsa készenlétben az esernyőjét.",
+                "ro": "O plimbare scurtă, țineți umbrela la îndemână.",
+                "en": "Short walk, keep your umbrella ready for the dash to the square."
+              }
+            },
+            {
+              "name": "Monastery of Agia Lavra",
+              "tip_5lang": {
+                "de": "Die Bergstraße kann bei starkem Regen neblig sein.",
+                "hu": "A hegyi út Agia Lavra felé erősen ködös lehet esőben.",
+                "ro": "Drumul montan spre Agia Lavra poate fi cețos pe ploaie.",
+                "en": "The mountain road to Agia Lavra can be foggy during heavy rain."
+              }
+            },
+            {
+              "name": "Mega Spilaion Monastery",
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche kleine Erdrutsche an der Felswand.",
+                "hu": "Figyeljen az esetleges kőomlásokra a sziklafal mentén.",
+                "ro": "Atenție la posibilele căderi de pietre de-a lungul peretelui de stâncă.",
+                "en": "Watch for potential minor rockfalls along the cliffside road."
+              }
+            },
+            {
+              "name": "Lunch near Mega Spilaion",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die regenverhangenen Berge.",
+                "hu": "Élvezze a kilátást az esőbe burkolózó hegyekre a taverna ablakából.",
+                "ro": "Admirați munții acoperiți de ploaie de la geamul tavernei.",
+                "en": "Enjoy the view of the rain-shrouded mountains from the tavern window."
+              }
+            },
+            {
+              "name": "Cave of the Lakes",
+              "tip_5lang": {
+                "de": "Ein perfekter, trockener Ort für den späten Nachmittag.",
+                "hu": "Tökéletesen száraz program késő délutánra, az esőtől védve.",
+                "ro": "Un loc perfect uscat pentru după-amiaza târzie, ferit de ploaie.",
+                "en": "A perfectly dry activity for late afternoon, sheltered from the rain."
+              }
+            },
+            {
+              "name": "Return to Kalavryta",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf der kurvigen, nassen Rückfahrt.",
+                "hu": "Vezessen óvatosan a kanyargós, vizes úton visszafelé.",
+                "ro": "Conduceți cu prudență pe drumul sinuos și umed la întoarcere.",
+                "en": "Drive carefully on the winding, wet road back to the town."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Scheibenwischer in gutem Zustand sind.",
+              "Die Bergstraßen um Kalavryta können bei Regen sehr rutschig sein.",
+              "Die Höhle der Seen ist ein idealer 'Regenschutz' mit konstanter Temperatur.",
+              "Planen Sie mehr Zeit für die Fahrten zwischen den Klöstern ein.",
+              "Achten Sie auf Nebel in den höheren Lagen der Peloponnes."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlők állapotát az indulás előtt.",
+              "A Kalavryta környéki hegyi utak vizesen rendkívül csúszósak.",
+              "A Tavak barlangja kiváló esőmentes program, állandó hőmérséklettel.",
+              "Számoljon hosszabb menetidővel a kolostorok közötti szakaszon.",
+              "Figyeljen a hirtelen leereszkedő ködre a magasabb szakaszokon."
+            ],
+            "ro": [
+              "Asigurați-vă că ștergătoarele sunt în stare bună de funcționare.",
+              "Drumurile montane din jurul Kalavrytei pot fi foarte alunecoase.",
+              "Peștera Lacurilor este un refugiu ideal, având temperatură constantă.",
+              "Alocați mai mult timp pentru deplasarea între mănăstiri.",
+              "Atenție la ceața densă care poate apărea în zonele înalte."
+            ],
+            "en": [
+              "Ensure your windshield wipers are in good working condition.",
+              "Mountain roads around Kalavryta can be extremely slippery when wet.",
+              "Cave of the Lakes is an ideal 'rain shelter' with constant temperature.",
+              "Plan for extra travel time between the monasteries due to weather.",
+              "Watch out for dense fog in the higher altitudes of the Peloponnese."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterzauber in Kalavryta beginnt mit einer frostigen Fahrt zum Museum. Im Auto erreichen Sie Agia Lavra und Mega Spilaion sicher, während die Klöster im Schnee liegen. Mittags wärmen lokale Gerichte auf. Die Höhle der Seen bleibt auch im Winter angenehm mild. Die Rückfahrt nach Kalavryta bei Sonnenuntergang bietet spektakuläre Ausblicke auf die verschneite Bergwelt.",
+            "hu": "A téli varázslat Kalavrytában fagyos reggellel indul, de az autóban meleg van. Biztonságban érhetjük el az Agia Lavra és Mega Spilaion kolostorokat a havas tájon át. Ebédre egy tartalmas helyi fogás ad erőt. A Tavak barlangja télen is kellemesen enyhe klímát kínál. A visszaút a naplementében a havas hegycsúcsok között felejthetetlen élmény.",
+            "ro": "Magia iernii în Kalavryta începe cu o deplasare spre muzeu și Piața Libertății. Cu mașina ajungeți în siguranță la Agia Lavra și Mega Spilaion prin peisajul înzăpezit. Prânzul tradițional vă va încălzi cu siguranță. Peștera Lacurilor oferă o temperatură plăcută chiar și iarna. Întoarcerea la apus oferă priveliști spectaculoase asupra munților albi.",
+            "en": "Winter magic in Kalavryta starts with a frosty drive to the museum. By car, you can safely reach Agia Lavra and Mega Spilaion while the monasteries are draped in snow. A hearty local lunch warms you up for the afternoon. The Cave of the Lakes remains pleasantly mild even in winter. The return drive at sunset offers spectacular views of the snow-covered peaks."
+          },
+          "stops": [
+            {
+              "name": "Kalavryta Town Cluster: Museum & Place of Sacrifice",
+              "tip_5lang": {
+                "de": "Heizen Sie das Auto vor, während Sie im Museum sind.",
+                "hu": "Fűtse fel az autót, amíg a múzeumban tartózkodik.",
+                "ro": "Preîncălziți mașina în timp ce vizitați muzeul.",
+                "en": "Warm up the car while you are inside the museum."
+              }
+            },
+            {
+              "name": "Walk to Freedom Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Pfützen auf dem Weg zum Platz.",
+                "hu": "Vigyázzon a fagyott tócsákra a tér felé vezető gyalogúton.",
+                "ro": "Atenție la bălțile înghețate pe drumul spre piață.",
+                "en": "Watch out for frozen puddles on the walkway to the square."
+              }
+            },
+            {
+              "name": "Monastery of Agia Lavra",
+              "tip_5lang": {
+                "de": "Winterreifen oder Schneeketten sind hier oft erforderlich.",
+                "hu": "Téli gumi vagy hólánc gyakran kötelező ezen a szakaszon.",
+                "ro": "Anvelopele de iarnă sau lanțurile sunt adesea obligatorii aici.",
+                "en": "Winter tires or snow chains are often required on this route."
+              }
+            },
+            {
+              "name": "Mega Spilaion Monastery",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Schneefall rutschig sein.",
+                "hu": "A parkoló havas időben csúszós lehet, parkoljon óvatosan.",
+                "ro": "Parcarea poate fi alunecoasă în caz de ninsoare.",
+                "en": "The parking lot can be slippery during snowfall; park carefully."
+              }
+            },
+            {
+              "name": "Lunch near Mega Spilaion",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die schneebedeckten Felsen.",
+                "hu": "Élvezze a kilátást a hófödte sziklákra az asztaltól.",
+                "ro": "Admirați stâncile înzăpezite de la masa tavernei.",
+                "en": "Enjoy the view of the snow-covered cliffs from your table."
+              }
+            },
+            {
+              "name": "Cave of the Lakes",
+              "tip_5lang": {
+                "de": "Die Innentemperatur der Höhle liegt konstant bei etwa 13-16°C.",
+                "hu": "A barlang belső hőmérséklete télen is kellemes 13-16 fok.",
+                "ro": "Temperatura interioară a peșterii este constantă la 13-16°C.",
+                "en": "The cave's interior temperature stays constant at about 13-16°C."
+              }
+            },
+            {
+              "name": "Return to Kalavryta",
+              "tip_5lang": {
+                "de": "Fahren Sie vor Einbruch der Dunkelheit zurück in die Stadt.",
+                "hu": "Térjen vissza a városba, mielőtt teljesen besötétedik.",
+                "ro": "Întoarceți-vă în oraș înainte de lăsarea întunericului.",
+                "en": "Head back to town before total darkness falls for safety."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schneeketten im Kofferraum sind im Winter in dieser Region Pflicht.",
+              "Prüfen Sie den Frostschutzgehalt Ihres Kühlwassers.",
+              "Die Straße zum Mega-Spilaion-Kloster wird meist gut geräumt.",
+              "Tanken Sie voll; bei Kälte verbraucht das Auto mehr Energie.",
+              "Genießen Sie die klare Bergluft, aber bleiben Sie bei Eis vorsichtig."
+            ],
+            "hu": [
+              "A hólánc a csomagtartóban kötelező felszerelés télen ebben a régióban.",
+              "Ellenőrizze a fagyálló folyadék szintjét az indulás előtt.",
+              "A Mega Spilaionhoz vezető utat általában jól tisztítják a hótól.",
+              "Tartsa tele a tankot; a fűtés és a hideg növeli a fogyasztást.",
+              "Élvezze a friss hegyi levegőt, de legyen résen a jeges aszfalton."
+            ],
+            "ro": [
+              "Lanțurile în portbagaj sunt obligatorii iarna în această regiune.",
+              "Verificați nivelul antigelului înainte de a porni la drum.",
+              "Drumul spre Mega Spilaion este de obicei bine deszăpezit.",
+              "Mențineți rezervorul plin; consumul crește pe timp de iarnă.",
+              "Bucurați-vă de aerul curat, dar fiți atenți la gheața de pe drum."
+            ],
+            "en": [
+              "Carrying snow chains in the trunk is mandatory in this region in winter.",
+              "Check your antifreeze levels before starting your mountain journey.",
+              "The road to Mega Spilaion is usually well-maintained and cleared of snow.",
+              "Keep your fuel tank full; heating and cold increase fuel consumption.",
+              "Enjoy the crisp mountain air but stay alert for icy patches on asphalt."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1041,7 +1611,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "18:00",
-      "total_km": 6.2,
+      "total_km": 46.2,
       "stop_count": 6,
       "narrative_4lang": {
         "de": "Ihr Tag mit öffentlichen Verkehrsmitteln dreht sich um die berühmte Odontotos-Zahnradbahn. Starten Sie in Kalavryta mit der Erkundung der Stadt zu Fuß. Am späten Vormittag nehmen Sie die Bahn durch die atemberaubende Vouraikos-Schlucht. Das Ziel ist das Kloster Mega Spilaion, das Sie nach einer kurzen Wanderung vom Bahnhof Zachlorou erreichen. Nach dem Mittagessen in einer Taverne dort fahren Sie am Nachmittag mit der Bahn zurück und lassen den Tag mit nachdenklichen Momenten am Ort der Opfer ausklingen.",
@@ -1370,6 +1940,196 @@
           "Services in Zachlorou are limited, so plan accordingly.",
           "Bring cash, as not all tavernas may accept cards."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag mit dem Odontotos-Zug ist ein Erlebnis. Morgens besuchen Sie das Museum, bevor die Fahrt nach Zachlorou beginnt. Die neblige Vouraikos-Schlucht wirkt aus dem warmen Waggon mystisch. Nach einer Wanderung zum Kloster Mega Spilaion stärkt Sie ein Mittagessen in Zachlorou. Die Rückfahrt im Zug bietet Schutz vor dem Wetter, bevor der Tag am Opferplatz endet.",
+            "hu": "Az esős nap az Odontotos vonattal különleges élmény. Reggel a múzeumot látogatjuk, majd indul a vonat Zachlorouba. A párás Vouraikos-szurdok a fűtött vagonból nézve varázslatos. A kolostori túra után Zachlorouban ebédelünk, majd a vonaton pihenünk meg. A napot a monumentális emlékhelynél zárjuk, ahol az eső tovább mélyíti a csendet.",
+            "ro": "O zi ploioasă cu trenul Odontotos este o experiență memorabilă. Dimineața vizitați muzeul, apoi porniți spre Zachlorou. Defileul Vouraikos, învăluit în ceață, arată mistic din vagonul cald. După drumeția la mănăstire, prânzul în Zachlorou este binemeritat. Întoarcerea cu trenul oferă adăpost, iar ziua se încheie sobru la monument.",
+            "en": "A rainy day on the Odontotos train is a unique experience. Visit the museum before starting the journey to Zachlorou. The misty Vouraikos gorge looks mystical from the comfort of the warm carriage. After the monastery hike, enjoy lunch in Zachlorou. The return train ride provides shelter before the day concludes at the solemn memorial site."
+          },
+          "stops": [
+            {
+              "name": "Kalavryta Cluster: Museum & Freedom Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum als trockenen Stützpunkt am Morgen.",
+                "hu": "Használja a múzeumot bázisként az esős délelőtt során.",
+                "ro": "Folosiți muzeul ca punct de refugiu uscat dimineața.",
+                "en": "Use the museum as a dry base for your morning activities."
+              }
+            },
+            {
+              "name": "Odontotos train to Zachlorou",
+              "tip_5lang": {
+                "de": "Buchen Sie einen Fensterplatz für die beste Sicht im Regen.",
+                "hu": "Foglaljon ablak melletti helyet a legjobb kilátásért.",
+                "ro": "Rezervați un loc la fereastră pentru cea mai bună vedere.",
+                "en": "Book a window seat for the best views of the rainy gorge."
+              }
+            },
+            {
+              "name": "Hike to Mega Spilaion Monastery",
+              "tip_5lang": {
+                "de": "Der Wanderweg kann bei Regen sehr rutschig und matschig sein.",
+                "hu": "A gyalogút esőben nagyon csúszós és sáros lehet, legyen óvatos.",
+                "ro": "Traseul de drumeție poate fi foarte alunecos și noroios.",
+                "en": "The hiking trail can be very slippery and muddy during rain."
+              }
+            },
+            {
+              "name": "Lunch in Zachlorou",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit lokalen Kräutertees auf.",
+                "hu": "Melegedjen fel a helyi gyógyteákkal az ebéd mellé.",
+                "ro": "Încălziți-vă cu ceaiuri de plante locale la prânz.",
+                "en": "Warm up with some local herbal teas during your lunch."
+              }
+            },
+            {
+              "name": "Return journey on the Odontotos train",
+              "tip_5lang": {
+                "de": "Die Züge fahren im Regen oft mit reduzierter Geschwindigkeit.",
+                "hu": "A vonatok esőben gyakran lassabban közlekednek a biztonságért.",
+                "ro": "Trenurile circulă adesea cu viteză redusă pe timp de ploaie.",
+                "en": "Trains often run at reduced speed during heavy rain for safety."
+              }
+            },
+            {
+              "name": "Conclusion at the Place of Sacrifice",
+              "tip_5lang": {
+                "de": "Ein kurzer, aber nasser Fußweg vom Bahnhof.",
+                "hu": "Rövid, de vizes séta várható az állomástól az emlékhelyig.",
+                "ro": "O plimbare scurtă, dar umedă, de la gară la monument.",
+                "en": "A short but wet walk from the station to the memorial site."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Zug ist das zuverlässigste Transportmittel bei schlechtem Wetter.",
+              "Wasserdichte Wanderstiefel sind für den Weg zum Kloster Pflicht.",
+              "In Zachlorou gibt es nur begrenzte überdachte Wartebereiche.",
+              "Die Zugfenster können beschlagen; ein Tuch zum Abwischen hilft.",
+              "Das Ticket gilt nur für den gebuchten Zug; verpassen Sie ihn nicht."
+            ],
+            "hu": [
+              "Rossz időben a vonat a legmegbízhatóbb közlekedési eszköz.",
+              "Vízálló túrabakancs kötelező a kolostorhoz vezető ösvényen.",
+              "Zachlorouban kevés a fedett váróterület az állomáson.",
+              "A vonatablakok bepárásodhatnak, vigyen egy törlőkendőt.",
+              "A jegy csak a foglalás szerinti járatra érvényes, ne késse le."
+            ],
+            "ro": [
+              "Trenul este cel mai sigur mijloc de transport pe vreme rea.",
+              "Ghetele de munte impermeabile sunt obligatorii pentru mănăstire.",
+              "În Zachlorou există zone de așteptare acoperite limitate.",
+              "Geamurile trenului se pot aburi; un șervețel vă va fi util.",
+              "Biletul este valabil doar pentru trenul rezervat; nu întârziați."
+            ],
+            "en": [
+              "The train is the most reliable mode of transport in bad weather.",
+              "Waterproof hiking boots are a must for the monastery trail.",
+              "There are limited covered waiting areas at Zachlorou station.",
+              "Train windows may fog up; carry a small cloth to wipe them.",
+              "Tickets are valid only for the specific train booked; don't miss it."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterstimmung mit dem Odontotos-Zug ist unvergleichlich. Nach dem Museumsbesuch gleitet der Zug durch die verschneite Schlucht nach Zachlorou. Die Wanderung zum Kloster Mega Spilaion erfordert Trittsicherheit im Schnee. Nach einem herzhaften Mittagessen geht es zurück im fahlen Winterlicht. Der Tag endet am Opferplatz, der unter der Schneedecke eine besondere Stille ausstrahlt.",
+            "hu": "A téli hangulat az Odontotos vonattal felülmúlhatatlan. A múzeum után a vonat a havas szurdokon át visz Zachlorouba. A kolostori túra a hóban igazi kaland és biztos fellépést igényel. Egy tápláló ebéd után a vonat ablakából nézzük a korai szürkületet, majd az emlékhelyen zárunk, ahol a hó némasága lenyűgöző.",
+            "ro": "Atmosfera de iarnă cu trenul Odontotos este inegalabilă. După muzeu, trenul alunecă prin defileul înzăpezit spre Zachlorou. Drumeția la mănăstire prin zăpadă necesită atenție sporită. După un prânz copios, întoarcerea oferă lumini de iarnă superbe. Ziua se încheie la monumentul tăcut, acoperit de neaua albă.",
+            "en": "Winter atmosphere on the Odontotos train is second to none. After the museum visit, the train glides through the snowy gorge to Zachlorou. The hike to the monastery requires careful stepping in the snow. Following a hearty lunch, enjoy the winter light on the return journey. The day ends at the memorial site, radiating a special peace under the snow."
+          },
+          "stops": [
+            {
+              "name": "Kalavryta Cluster: Museum & Freedom Square",
+              "tip_5lang": {
+                "de": "Die Stadt ist im Winter wegen des nahen Skigebiets sehr belebt.",
+                "hu": "A város télen a közeli síközpont miatt nagyon életteli.",
+                "ro": "Orașul este foarte animat iarna datorită stațiunii de schi.",
+                "en": "The town is very lively in winter due to the nearby ski resort."
+              }
+            },
+            {
+              "name": "Odontotos train to Zachlorou",
+              "tip_5lang": {
+                "de": "Die Heizung in den Zügen sorgt für eine gemütliche Fahrt.",
+                "hu": "A vonatok fűtése garantálja a kényelmes utazást a hidegben.",
+                "ro": "Încălzirea din trenuri asigură o călătorie confortabilă.",
+                "en": "The heating in the carriages ensures a cozy journey through the cold."
+              }
+            },
+            {
+              "name": "Hike to Mega Spilaion Monastery",
+              "tip_5lang": {
+                "de": "Benutzen Sie Wanderstöcke für besseren Halt auf Schnee.",
+                "hu": "Használjon túrabotot a jobb stabilitásért a havas úton.",
+                "ro": "Folosiți bețe de trekking pentru stabilitate pe zăpadă.",
+                "en": "Use trekking poles for better stability on the snowy path."
+              }
+            },
+            {
+              "name": "Lunch in Zachlorou",
+              "tip_5lang": {
+                "de": "Genießen Sie den Duft von Holzfeuer in der Taverne.",
+                "hu": "Élvezze a fafűtéses kemence illatát az ebéd mellé.",
+                "ro": "Bucurați-vă de mirosul de lemne arse din tavernă.",
+                "en": "Enjoy the smell of wood-burning fires in the local tavern."
+              }
+            },
+            {
+              "name": "Return journey on the Odontotos train",
+              "tip_5lang": {
+                "de": "Die letzte Fahrt bietet oft einen Blick auf das Alpenglühen.",
+                "hu": "Az utolsó járatról gyakran látni a havas csúcsok izzását.",
+                "ro": "Ultima cursă oferă adesea o vedere superbă asupra crestelor.",
+                "en": "The last train often offers views of the sunset glow on peaks."
+              }
+            },
+            {
+              "name": "Conclusion at the Place of Sacrifice",
+              "tip_5lang": {
+                "de": "Nehmen Sie eine Taschenlampe für den Rückweg in die Stadt mit.",
+                "hu": "Vigyen zseblámpát a visszaúthoz, mert korán sötétedik.",
+                "ro": "Luați o lanternă pentru drumul de întoarcere în oraș.",
+                "en": "Bring a flashlight for the walk back to town after dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Wollsocken für den Aufenthalt im Freien.",
+              "Die Züge sind im Winter oft wegen Skifahrern gut besetzt.",
+              "Der Wanderweg zum Kloster kann bei Vereisung gesperrt sein.",
+              "Nutzen Sie die Mittagspause zum Aufwärmen der Muskulatur.",
+              "Der Sonnenuntergang ist im Winter bereits gegen 17 Uhr."
+            ],
+            "hu": [
+              "Viseljen meleg gyapjúzoknit a kinti tartózkodáshoz.",
+              "A vonatok télen a síelők miatt gyakran teltházzal közlekednek.",
+              "A kolostorhoz vezető út erős jegesedés esetén lezárható.",
+              "Használja ki az ebédszünetet az átfázott végtagok felmelegítésére.",
+              "A naplemente télen már 17 óra körül bekövetkezik."
+            ],
+            "ro": [
+              "Purtați șosete groase de lână pentru plimbările exterioare.",
+              "Trenurile sunt adesea pline iarna datorită schiorilor.",
+              "Traseul spre mănăstire poate fi închis în caz de îngheț sever.",
+              "Folosiți pauza de prânz pentru a vă recăpăta căldura corporală.",
+              "Soarele apune foarte devreme, în jur de ora 17:00."
+            ],
+            "en": [
+              "Wear warm woolen socks for your time spent outdoors.",
+              "Trains can be very busy in winter with visitors heading to the slopes.",
+              "The hiking trail to the monastery may be closed if it's too icy.",
+              "Use the lunch break as an opportunity to fully warm up your body.",
+              "Sunset occurs as early as 17:00 during the winter months."
+            ]
+          }
+        }
       }
     }
   }

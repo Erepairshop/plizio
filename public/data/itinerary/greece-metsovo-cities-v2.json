@@ -388,6 +388,188 @@
           "Most shops and museums have a lunch break, so plan accordingly.",
           "Try the tap water; it comes fresh from the mountains and is delicious."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der neblige Morgen am Hauptplatz führt in die trockene Geborgenheit der Kirche. Mittags bieten die holzgetäfelten Räume des Tositsa-Hauses Schutz vor dem Regen. Am Nachmittag bewundern wir Kunst im Averoff-Museum, gefolgt von einem kurzen Spaziergang unter schützenden Tannen im Garten. Der Abend endet gemütlich in der Weinkellerei bei lokalem Rotwein und geräuchertem Metsovone-Käse.",
+            "hu": "A ködös reggel a főtéren indul, majd a templom száraz menedékében folytatódik. Délben a Tositsa-kastély faborítású belső terei nyújtanak melegséget az eső elől. Délután az Averoff Múzeum művészeti kincseit nézzük meg, majd teszünk egy sétát a kert fenyői alatt. Az estét a borászat kőfalai között zárjuk, ahol a helyi vörösbor és a füstölt sajt feledteti a kinti borús időt.",
+            "ro": "Dimineața cețoasă în piață ne trimite spre adăpostul uscat al bisericii. La prânz, interioarele din lemn ale Conacului Tositsa oferă căldură departe de ploaie. După-amiaza admirăm arta la Muzeul Averoff, urmată de o plimbare scurtă sub pinii din grădină. Seara se încheie perfect în pivnița vinăriei, cu vin roșu local și brânză afumată Metsovone, în timp ce ploaia bate în geam.",
+            "en": "A misty morning at the square leads to the dry shelter of the church. Midday, the Tositsa Mansion's wood interiors offer warmth away from the rain. Afternoon art at Averoff Museum is followed by a damp garden walk under pine cover. Evening ends in the stone cellar of the winery with local wine and smoked cheese, providing the perfect refuge from the Pindus mountain drizzle."
+          },
+          "stops": [
+            {
+              "name": "Central Square of Metsovo",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Häuser, um trocken zu bleiben.",
+                "hu": "Használja a környező házak árkádjait, hogy szárazon maradjon a téren.",
+                "ro": "Folosiți arcadele clădirilor din jur pentru a rămâne uscați în piață.",
+                "en": "Use the arcades of the surrounding stone buildings to stay dry while crossing."
+              }
+            },
+            {
+              "name": "Church of Agia Paraskevi",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um das Ende eines starken Regenschauers abzuwarten.",
+                "hu": "Csendes hely, ahol megvárhatja egy nagyobb zápor végét.",
+                "ro": "Un loc liniștit unde puteți aștepta trecerea unei averse mai puternice.",
+                "en": "A quiet place to wait out a heavy downpour while admiring the carvings."
+              }
+            },
+            {
+              "name": "Tositsa Mansion",
+              "tip_5lang": {
+                "de": "Vollständig überdacht, ideal um zwei Stunden im Trockenen zu verbringen.",
+                "hu": "Teljesen fedett, ideális két órát eltölteni szárazon a belső terekben.",
+                "ro": "Complet acoperit, ideal pentru a petrece două ore la adăpost.",
+                "en": "Fully indoor museum, ideal for spending two hours away from the damp weather."
+              }
+            },
+            {
+              "name": "Averoff Museum of Neo-Hellenic Art",
+              "tip_5lang": {
+                "de": "Die Garderobe bietet Platz für nasse Regenschirme und Mäntel.",
+                "hu": "A ruhatárban kényelmesen elhelyezheti a vizes esernyőket és kabátokat.",
+                "ro": "Garderoba oferă spațiu pentru umbrelele și hainele ude.",
+                "en": "The cloakroom has space for wet umbrellas and coats before you start the tour."
+              }
+            },
+            {
+              "name": "Averoff Garden",
+              "tip_5lang": {
+                "de": "Die dichten Nadelbäume bieten einen natürlichen Schutz vor leichtem Nieselregen.",
+                "hu": "A sűrű fenyőfák természetes védelmet nyújtanak az enyhe szitálás ellen.",
+                "ro": "Coniferele dese oferă o protecție naturală împotriva burniței ușoare.",
+                "en": "Dense conifers provide natural shelter from light drizzle during your walk."
+              }
+            },
+            {
+              "name": "Katogi Averoff Winery",
+              "tip_5lang": {
+                "de": "Der tiefe Keller ist der trockenste und gemütlichste Ort in ganz Metsovo.",
+                "hu": "A mély borospince a legszárazabb és legbarátságosabb hely egész Metsovóban.",
+                "ro": "Crama adâncă este cel mai uscat și primitor loc din tot satul.",
+                "en": "The deep wine cellar is the driest and coziest place in all of Metsovo."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe, da die Steingassen bei Nässe rutschig sind.",
+              "Ein stabiler Regenschirm ist wichtig, da der Wind in den Bergen oft auffrischt.",
+              "Viele Tavernen am Platz haben beheizte Außenbereiche mit Markisen.",
+              "Die Museen sind montags oder dienstags oft geschlossen, prüfen Sie die Zeiten."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt, mert a köves utcák nedvesen nagyon csúsznak.",
+              "Erős esernyő ajánlott, mert a Pindosz-hegységben gyakran fúj a szél eső közben.",
+              "A főtér melletti fogadók többsége fűtött, fedett terasszal várja a vendégeket.",
+              "Az esős időben a köd miatt a kilátás korlátozott, fókuszáljon a belső terekre."
+            ],
+            "ro": [
+              "Purtați încălțăminte de munte impermeabilă; străzile pietruite devin foarte alunecoase.",
+              "O umbrelă rezistentă este necesară deoarece vântul se intensifică adesea în munți.",
+              "Multe taverne din piață au zone exterioare încălzite și acoperite cu copertine.",
+              "Profitați de atmosfera mistică creată de ceața care coboară peste acoperișuri."
+            ],
+            "en": [
+              "Wear waterproof hiking boots as the stone streets become very slippery when wet.",
+              "A sturdy umbrella is essential; mountain winds can be strong during rainfall.",
+              "Many taverns around the square offer heated outdoor areas with sturdy awnings.",
+              "Rainy days are perfect for long lunches featuring the local giant beans (gigantes)."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Metsovo verwandelt sich in ein verschneites Wintermärchen. Der Morgen am Platz duftet nach Kaminfeuer. Mittags wärmen wir uns in der Kirche auf, bevor wir das Tositsa-Haus mit seinen schweren Teppichen besuchen. Der Nachmittag im Museum ist eine Flucht vor dem Frost, gefolgt von einem Gang durch den tief verschneiten Garten. Der Abend in der Kellerei bei kräftigem Rotwein ist der Höhepunkt dieses Wintertages.",
+            "hu": "Metsovo igazi téli mesevilággá változik, a főtéren kandallók füstje lengi be a hideg levegőt. Délben a templom csendjében melegszünk fel, majd a Tositsa-kastély vastag szőnyegei között folytatjuk. A délutáni múzeumlátogatás után a kert hófödte ösvényein sétálunk. Az estét a borászat melegében zárjuk, ahol a testes vörösbor tökéletesen illik a havas tájhoz.",
+            "ro": "Metsovo se transformă într-un basm de iarnă, cu miros de fum de lemne în piața centrală. La prânz ne încălzim în biserică, apoi vizităm Conacul Tositsa cu covoarele sale groase tradiționale. După-amiaza la muzeu este o escapadă din ger, urmată de o plimbare prin grădina înzăpezită. Seara la vinărie, cu un vin roșu robust, este punctul culminant al acestei zile hibernale.",
+            "en": "Metsovo turns into a snowy alpine wonderland. The morning square smells of wood smoke from stone chimneys. Midday warmth is found in the church and the Tositsa Mansion with its heavy traditional rugs. An afternoon at the gallery is a retreat from the frost, followed by a walk through the deeply snow-covered garden. The evening at the winery, featuring robust red wine, is the ultimate winter comfort."
+          },
+          "stops": [
+            {
+              "name": "Central Square of Metsovo",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Kopfsteinpflaster rund um den Brunnen.",
+                "hu": "Vigyázzon a tükörjéggel a szökőkút körüli macskaköveken.",
+                "ro": "Atenție la polei pe pietrele cubice din jurul fântânii centrale.",
+                "en": "Watch out for black ice on the cobblestones around the central fountain."
+              }
+            },
+            {
+              "name": "Church of Agia Paraskevi",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille, oft angenehm temperiert durch die dicken Steinmauern.",
+                "hu": "A csend helyszíne, a vastag kőfalak gyakran tartják a benti hőt.",
+                "ro": "Un loc de liniște, adesea cu o temperatură plăcută datorită zidurilor groase.",
+                "en": "A place of silence; the thick stone walls keep the interior relatively tempered."
+              }
+            },
+            {
+              "name": "Tositsa Mansion",
+              "tip_5lang": {
+                "de": "Bewundern Sie die traditionellen Heizsysteme und die gemütlichen Sitzecken.",
+                "hu": "Csodálja meg a hagyományos fűtési módokat és a kényelmes ülősarkokat.",
+                "ro": "Admirați sistemele tradiționale de încălzire și zonele de relaxare primitoare.",
+                "en": "Admire the traditional heating systems and the cozy 'sofas' along the walls."
+              }
+            },
+            {
+              "name": "Averoff Museum of Neo-Hellenic Art",
+              "tip_5lang": {
+                "de": "Perfekt, um die kälteste Stunde des Nachmittags im Warmen zu verbringen.",
+                "hu": "Tökéletes helyszín a délután leghidegebb óráinak eltöltésére a melegben.",
+                "ro": "Perfect pentru a petrece cea mai rece oră a după-amiezii la căldură.",
+                "en": "Perfect for spending the coldest hour of the afternoon in a warm environment."
+              }
+            },
+            {
+              "name": "Averoff Garden",
+              "tip_5lang": {
+                "de": "Die verschneiten Bäume bieten fantastische Fotomotive, aber bleiben Sie auf den Wegen.",
+                "hu": "A havas fák fantasztikus fotótémák, de maradjon a letakarított ösvényeken.",
+                "ro": "Copacii înzăpeziți oferă cadre foto superbe, dar rămâneți pe poteci.",
+                "en": "Snow-covered trees offer great photos; stay on cleared paths to avoid deep snow."
+              }
+            },
+            {
+              "name": "Katogi Averoff Winery",
+              "tip_5lang": {
+                "de": "Die Weinverkostung wärmt von innen nach einem langen Tag im Schnee.",
+                "hu": "A borkóstoló belülről melegít fel a havas séta után.",
+                "ro": "Degustarea de vin vă va încălzi după o zi lungă petrecută în zăpadă.",
+                "en": "The wine tasting will warm you up from the inside after a snowy walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Winterstiefel mit gutem Profil für die steilen, verschneiten Gassen.",
+              "Die Sonne geht im Winter gegen 17:15 Uhr hinter den Bergen unter.",
+              "Probieren Sie den lokalen 'Metsovone' Käse, der im Winter besonders gut schmeckt.",
+              "In den Tavernen brennen oft offene Kamine – reservieren Sie einen Tisch in der Nähe."
+            ],
+            "hu": [
+              "Viseljen jó tapadású téli bakancsot a meredek, havas utcákhoz.",
+              "A nap télen 17:15 körül nyugszik le a hegyek mögött, korán sötétedik.",
+              "Kóstolja meg a helyi 'Metsovone' sajtot, ami télen a legjobb sült ételekben.",
+              "A fogadókban gyakran ég a kandalló – próbáljon meg a közelébe ülni."
+            ],
+            "ro": [
+              "Purtați ghete de iarnă cu talpă aderentă pentru străzile abrupte și înzăpezite.",
+              "Soarele apune în spatele munților în jurul orei 17:15 în timpul iernii.",
+              "Gustați brânza locală 'Metsovone', excelentă iarna lângă un foc de lemne.",
+              "Tavernele au adesea șeminee deschise – rezervați o masă în apropierea lor."
+            ],
+            "en": [
+              "Wear winter boots with excellent grip for the steep, snow-covered alleys.",
+              "Sunset occurs early around 17:15 behind the high Pindus peaks.",
+              "Try the local 'Metsovone' smoked cheese, often served grilled in winter.",
+              "Most taverns have open fireplaces; try to book a table nearby for warmth."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -731,6 +913,170 @@
           "Take plenty of water and some snacks for the longer stretches.",
           "Check the opening hours of the winery and monastery in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt durch das Epirus-Gebirge erfordert Vorsicht. Der Morgen startet am Platz, bevor es in den regenfeuchten Averoff-Garten geht. Die Fahrt zum Kloster führt über nasse Asphaltstraßen mit mystischen Ausblicken. Mittags erreichen wir das Skizentrum im dichten Nebel. Den Nachmittag verbringen wir in der Kellerei, wo die Räder sicher stehen und wir uns abtrocknen können.",
+            "hu": "A vizes tekerés az épeiroszi hegyekben óvatosságot igényel. A reggel a főtéren indul, majd az esőáztatta Averoff-kertben folytatódik. A kolostorig vezető út párás és misztikus panorámát kínál. Délben a síközponthoz érve a ködé a főszerep. A délutánt a borászatban töltjük, ahol a biciklik biztonságban vannak, mi pedig megszárítkozhatunk.",
+            "ro": "O tură cu bicicleta prin munții Epirului pe ploaie necesită prudență maximă. Dimineața începe în piață, urmată de grădina Averoff umedă. Drumul spre mănăstire oferă priveliști mistice printre nori. La prânz ajungem la centrul de schi dominat de ceață. După-amiaza o petrecem la vinărie, unde bicicletele sunt la adăpost și noi ne putem usca.",
+            "en": "A wet ride through the Epirus mountains demands extra caution on the descent. Morning starts at the square before heading into the rain-soaked Averoff Garden. The ride to the monastery offers misty, mystical views of the valley. Midday at the Ski Center is atmospheric despite the fog. Afternoon is spent at the winery, where bikes are stored safely while you dry off."
+          },
+          "stops": [
+            {
+              "name": "Central Square of Metsovo",
+              "tip_5lang": {
+                "de": "Steigen Sie bei Regen ab; das nasse Pflaster ist extrem rutschig.",
+                "hu": "Esőben szálljon le a nyeregből; a vizes kövezet rendkívül csúszós.",
+                "ro": "Coborâți de pe bicicletă; pavajul ud este extrem de alunecos.",
+                "en": "Dismount and walk your bike; the wet cobblestones are treacherous."
+              }
+            },
+            {
+              "name": "Averoff Garden",
+              "tip_5lang": {
+                "de": "Achten Sie auf weichen Schlamm auf den unbefestigten Wegen im Garten.",
+                "hu": "Vigyázzon a felázott sárra a kert ki nem kövezett ösvényein.",
+                "ro": "Atenție la noroiul moale pe potecile neasfaltate din grădină.",
+                "en": "Watch for soft mud on the unpaved paths throughout the garden area."
+              }
+            },
+            {
+              "name": "Monastery of Agios Nikolaos",
+              "tip_5lang": {
+                "de": "Die Abfahrt zum Kloster kann bei Regen tückisch sein; bremsen Sie vorsichtig.",
+                "hu": "A kolostorhoz vezető lejtő esőben csalóka lehet; fékezzen óvatosan.",
+                "ro": "Coborârea spre mănăstire poate fi periculoasă pe ploaie; frânați cu grijă.",
+                "en": "The descent to the monastery can be tricky in the rain; use brakes gently."
+              }
+            },
+            {
+              "name": "Metsovo Ski Center (Viewpoint)",
+              "tip_5lang": {
+                "de": "Bei starkem Regen bietet das Café im Erdgeschoss Unterschlupf.",
+                "hu": "Heves esőzés esetén a földszinti kávézó nyújt menedéket.",
+                "ro": "În caz de ploaie torențială, cafeneaua de la parter oferă adăpost.",
+                "en": "If rain turns heavy, the ground-floor cafe provides a solid shelter."
+              }
+            },
+            {
+              "name": "Katogi Averoff Winery",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenkleidung zu lüften und sich aufzuwärmen.",
+                "hu": "Ideális hely az esőruházat kiszellőztetésére és a felmelegedésre.",
+                "ro": "Locul ideal pentru a aerisi hainele de ploaie și a vă încălzi.",
+                "en": "An ideal spot to air out your rain gear and warm up after the ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen; nasse Felgen verlängern den Bremsweg deutlich.",
+              "Tragen Sie helle, reflektierende Regenbekleidung wegen der schlechten Sicht.",
+              "Schutzbleche sind in Metsovo bei Regen ein Muss gegen aufwirbelnden Schlamm.",
+              "Meiden Sie steile Abkürzungen; bleiben Sie auf den Hauptstraßen."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket; a vizes abroncsok jelentősen növelik a fékutat.",
+              "Viseljen világos, fényvisszaverő esőruhát a korlátozott látási viszonyok miatt.",
+              "A sárvédő elengedhetetlen Metsovóban a felcsapódó víz és sár ellen.",
+              "Kerülje a meredek rövidítéseket; maradjon a főutakon."
+            ],
+            "ro": [
+              "Verificați frânele; jantele ude măresc considerabil distanța de frânare.",
+              "Purtați haine de ploaie reflectorizante din cauza vizibilității reduse.",
+              "Apărătorile de noroi sunt esențiale aici împotriva apei aruncate de roți.",
+              "Evitați scurtăturile abrupte; rămâneți pe drumurile principale asfaltate."
+            ],
+            "en": [
+              "Check your brakes; wet rims significantly increase your stopping distance.",
+              "Wear bright, reflective rain gear due to low visibility in the mountains.",
+              "Mudguards are a must in Metsovo to protect against road spray and mud.",
+              "Avoid steep dirt shortcuts; stick to the main paved roads for safety."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Metsovo ist ein Abenteuer für Mutige. Der Morgen beginnt frostig am Platz, gefolgt von einer Fahrt durch den Garten. Der Weg zum Kloster ist oft schneebedeckt, was eine langsame Fahrt erfordert. Mittags erreichen wir das belebte Skizentrum, wo Skifahrer und Radfahrer aufeinandertreffen. Den Nachmittag lassen wir in der Wärme der Kellerei ausklingen.",
+            "hu": "A téli biciklizés Metsovóban igazi kaland a bátraknak. A reggel fagyosan indul a téren, majd a kerten vágunk át. A kolostorhoz vezető út gyakran havas, ami lassú haladást igényel. Délben a síközpont nyüzsgésébe érünk, ahol síelők és bringások találkoznak. A délutánt a borászat melengető falai között fejezzük be.",
+            "ro": "Ciclismul de iarnă în Metsovo este o aventură pentru cei curajoși. Dimineața începe geroasă în piață, urmată de grădina înzăpezită. Drumul spre mănăstire este adesea acoperit de zăpadă, necesitând viteză redusă. La prânz ajungem la centrul de schi animat, unde schiorii se întâlnesc cu bicicliștii. După-amiaza se încheie în căldura primitoare a vinăriei.",
+            "en": "Winter cycling in Metsovo is an adventure for the bold and well-equipped. Morning starts frosty at the square, followed by a crisp ride through the garden. The path to the monastery is often snow-dusted, requiring slow and steady progress. Midday at the Ski Center is lively with winter sports energy. The afternoon concludes in the comforting warmth of the winery cellar."
+          },
+          "stops": [
+            {
+              "name": "Central Square of Metsovo",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen zwischen den Pflastersteinen.",
+                "hu": "Figyeljen a macskakövek közötti jeges foltokra.",
+                "ro": "Atenție la porțiunile înghețate dintre pietrele de pavaj.",
+                "en": "Watch out for patches of ice hidden between the cobblestones."
+              }
+            },
+            {
+              "name": "Averoff Garden",
+              "tip_5lang": {
+                "de": "Fatbikes sind hier bei tiefem Schnee von großem Vorteil.",
+                "hu": "A Fatbike-ok itt nagy előnyt jelentenek a mély hóban.",
+                "ro": "Bicicletele de tip fatbike sunt un mare avantaj aici în zăpadă.",
+                "en": "Fatbikes are a huge advantage here if the snow is deep on the paths."
+              }
+            },
+            {
+              "name": "Monastery of Agios Nikolaos",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann im Winter glatt sein; fahren Sie extrem vorsichtig.",
+                "hu": "A bejárat télen csúszós lehet; vezessen rendkívül óvatosan.",
+                "ro": "Accesul poate fi alunecos iarna; conduceți cu extremă prudență.",
+                "en": "The access road can be slippery in winter; ride with extreme caution."
+              }
+            },
+            {
+              "name": "Metsovo Ski Center (Viewpoint)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht, aber bleiben Sie nicht zu lange unbeweglich im Wind.",
+                "hu": "Élvezze a kilátást, de ne maradjon túl sokáig mozdulatlan a szélben.",
+                "ro": "Bucurați-vă de priveliște, dar nu stați prea mult nemișcați în vânt.",
+                "en": "Enjoy the view, but don't stay stationary in the wind for too long."
+              }
+            },
+            {
+              "name": "Katogi Averoff Winery",
+              "tip_5lang": {
+                "de": "Ein warmer Tee oder ein Glas Wein ist die beste Belohnung für die Kälte.",
+                "hu": "Egy meleg tea vagy egy pohár bor a legjobb jutalom a hideg után.",
+                "ro": "Un ceai cald sau un pahar de vin este cea mai bună recompensă.",
+                "en": "A warm tea or a glass of wine is the best reward for the cold ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Reifen mit Spikes oder breitem Profil für besseren Halt auf Eis.",
+              "Tragen Sie Thermokleidung in mehreren Schichten; der Fahrtwind ist eisig.",
+              "Achten Sie auf Schneepflüge auf den Straßen zum Skizentrum.",
+              "Batterien von E-Bikes entladen sich bei Kälte deutlich schneller."
+            ],
+            "hu": [
+              "Használjon szöges vagy széles profilú gumikat a jégen való tapadáshoz.",
+              "Viseljen több rétegű termoruházatot; a menetszél jeges lehet.",
+              "Figyeljen a hókotrókra a síközpont felé vezető utakon.",
+              "Az elektromos kerékpárok akkumulátora hidegben sokkal gyorsabban merül."
+            ],
+            "ro": [
+              "Folosiți anvelope cu ținte sau profil lat pentru aderență pe gheață.",
+              "Purtați haine termice în straturi; vântul creat de mișcare este înghețat.",
+              "Atenție la utilajele de deszăpezire pe drumurile spre centrul de schi.",
+              "Bateriile bicicletelor electrice se descarcă mult mai repede la ger."
+            ],
+            "en": [
+              "Use studded tires or wide treads for better grip on icy patches.",
+              "Wear layered thermal clothing; the wind chill while riding is intense.",
+              "Be aware of snowplows operating on the roads leading to the ski center.",
+              "E-bike batteries drain significantly faster in sub-zero temperatures."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1111,6 +1457,206 @@
           "Plan for extra time for photo stops; the scenery is spectacular.",
           "A smaller car is advantageous for the mountain roads."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt durch Metsovo beginnt am Skizentrum, das im Nebel verschwindet. Mittags führt der Weg zum Kloster, wo der Regen auf das Dach trommelt. Das Parken im Zentrum ermöglicht einen trockenen Zugang zu den Museen am Nachmittag. Der Tag endet sicher in der Kellerei, wo wir das Auto stehen lassen und die lokale Gastfreundschaft genießen.",
+            "hu": "Az esős autózás a ködbe burkolózó síközpontnál indul. Délben a kolostorhoz hajtunk, ahol az eső kopog a tetőn. A központi parkolás után délután szárazon érjük el a múzeumokat. A nap biztonságban zárul a borászatnál, ahol az autót leparkolva élvezhetjük a helyi vendégszeretetet.",
+            "ro": "O plimbare cu mașina prin Metsovo pe ploaie începe la centrul de schi pierdut în ceață. La prânz mergem spre mănăstire, unde ploaia răsună pe acoperiș. Parcarea centrală ne permite accesul rapid la muzee după-amiaza. Ziua se încheie în siguranță la vinărie, unde parcăm și ne bucurăm de ospitalitatea locală.",
+            "en": "A rainy drive through Metsovo starts at the Ski Center, often shrouded in thick clouds. Midday leads to the monastery, where the rain drums rhythmically on the car roof. Central parking allows for dry transitions to the museums in the afternoon. The day concludes safely at the winery, a perfect indoor finale to a damp mountain excursion."
+          },
+          "stops": [
+            {
+              "name": "Metsovo Ski Center",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Weg im Regen zu verkürzen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy lerövidítse az utat az esőben.",
+                "ro": "Parcați aproape de intrare pentru a scurta drumul prin ploaie.",
+                "en": "Park as close to the entrance as possible to minimize time in the rain."
+              }
+            },
+            {
+              "name": "Monastery of Agios Nikolaos",
+              "tip_5lang": {
+                "de": "Die Zufahrt ist schmal und bei Nässe rutschig; fahren Sie langsam.",
+                "hu": "A bejárat szűk és nedvesen csúszós; hajtson lassan.",
+                "ro": "Accesul este îngust și alunecos pe ploaie; conduceți încet.",
+                "en": "The access road is narrow and slippery when wet; drive slowly."
+              }
+            },
+            {
+              "name": "Central Parking & Lunch",
+              "tip_5lang": {
+                "de": "Das Parkhaus im Zentrum ist der beste Ort, um das Auto trocken abzustellen.",
+                "hu": "A központi parkolóház a legjobb hely az autó szárazon tartására.",
+                "ro": "Parcarea supraetajată din centru este cea mai bună opțiune pe ploaie.",
+                "en": "The multi-story parking in the center is the best place to stay dry."
+              }
+            },
+            {
+              "name": "Central Square & Agia Paraskevi Church",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Gebäuden minimieren den Kontakt mit dem Regen.",
+                "hu": "A közeli épületek közötti rövid utak segítenek szárazon maradni.",
+                "ro": "Distanțele scurte între clădiri vă ajută să rămâneți uscați.",
+                "en": "Short distances between buildings help you minimize exposure to rain."
+              }
+            },
+            {
+              "name": "Averoff Museum of Neo-Hellenic Art",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Haupteingang für einen schnellen Zugang aus dem Auto.",
+                "hu": "Használja a főbejáratot a gyors bejutáshoz az autóból.",
+                "ro": "Folosiți intrarea principală pentru un acces rapid din mașină.",
+                "en": "Use the main entrance for quick access directly from your vehicle."
+              }
+            },
+            {
+              "name": "Tositsa Mansion",
+              "tip_5lang": {
+                "de": "Parkplätze in der Nähe sind bei Regen oft schnell belegt; seien Sie früh da.",
+                "hu": "A közeli parkolók esőben hamar megtelnek; érkezzen időben.",
+                "ro": "Locurile de parcare din apropiere se ocupă repede pe ploaie.",
+                "en": "Parking spots nearby fill up fast during rain; arrive early if possible."
+              }
+            },
+            {
+              "name": "Katogi Averoff Winery",
+              "tip_5lang": {
+                "de": "Es gibt ausreichend Gästeparkplätze direkt vor dem Gebäude.",
+                "hu": "Közvetlenül az épület előtt bőséges vendégparkoló áll rendelkezésre.",
+                "ro": "Există locuri de parcare suficiente pentru oaspeți chiar în față.",
+                "en": "There is ample guest parking available directly in front of the building."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht vor Aquaplaning auf der Egnatia Odos bei der Anfahrt.",
+              "Die Bergstraßen können bei starkem Regen Steinschlag aufweisen.",
+              "Das Parkhaus im Zentrum bietet Schutz vor den Elementen.",
+              "Halten Sie die Scheinwerfer auch tagsüber bei Nebel eingeschaltet."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra az Egnatia Odos autópályán érkezéskor.",
+              "A hegyi utakon heves esőzéskor kőomlás fordulhat elő.",
+              "A központi parkolóház védelmet nyújt az időjárás viszontagságai ellen.",
+              "Köd esetén nappal is tartsa bekapcsolva a fényszórókat."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe autostrada Egnatia Odos la sosire.",
+              "Drumurile montane pot prezenta căderi de pietre în timpul ploilor torențiale.",
+              "Parcarea acoperită din centru oferă protecție împotriva intemperiilor.",
+              "Țineți farurile aprinse și în timpul zilei dacă este ceață densă."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the Egnatia Odos highway when arriving.",
+              "Mountain roads may experience minor rockfalls during heavy rain.",
+              "The central indoor parking garage provides excellent shelter for your car.",
+              "Keep your headlights on even during the day if visibility is low due to mist."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt in Metsovo bietet spektakuläre Ausblicke auf schneebedeckte Gipfel. Wir starten am Skizentrum inmitten von Wintersportlern. Die Fahrt zum Kloster erfordert Winterausrüstung. Mittags parken wir im Zentrum für einen gemütlichen Lunch. Den Nachmittag verbringen wir in den warmen Museen, bevor wir den Tag in der Kellerei bei einem Glas Wein ausklingen lassen.",
+            "hu": "A téli autózás Metsovóban látványos panorámát nyújt a hófödte csúcsokra. A síközpontnál kezdünk a télisport-rajongók körében. A kolostorhoz vezető úthoz téli felszerelés szükséges. Délben a központban parkolunk egy hangulatos ebédhez. A délutánt a fűtött múzeumokban töltjük, majd a borászatban zárjuk a napot egy pohár borral.",
+            "ro": "O plimbare cu mașina iarna prin Metsovo oferă priveliști spectaculoase. Începem la centrul de schi, în mijlocul amatorilor de sporturi de iarnă. Drumul spre mănăstire necesită echipament de iarnă. La prânz parcăm în centru pentru un prânz cald. După-amiaza o petrecem în muzeele încălzite, înainte de a încheia ziua la vinărie.",
+            "en": "A winter drive in Metsovo offers spectacular views of snow-capped Pindus peaks. Start at the Ski Center, surrounded by skiers and mountain air. The drive to the monastery requires full winter gear for your vehicle. Midday parking in the center leads to a cozy lunch. Afternoon is for warm museums, followed by a refined evening at the winery."
+          },
+          "stops": [
+            {
+              "name": "Metsovo Ski Center",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Auto winterfest ist; die Parkplätze sind oft vereist.",
+                "hu": "Győződjön meg róla, hogy autója téliesített; a parkolók gyakran jegesek.",
+                "ro": "Asigurați-vă că mașina e pregătită de iarnă; parcările sunt adesea înghețate.",
+                "en": "Ensure your car is winter-ready; the parking lots are often icy."
+              }
+            },
+            {
+              "name": "Monastery of Agios Nikolaos",
+              "tip_5lang": {
+                "de": "Winterreifen oder Schneeketten sind für diese Zufahrt im Winter oft Pflicht.",
+                "hu": "A téli gumi vagy a hólánc itt gyakran kötelező a téli időszakban.",
+                "ro": "Anvelopele de iarnă sau lanțurile sunt adesea obligatorii aici.",
+                "en": "Winter tires or snow chains are often mandatory for this access road."
+              }
+            },
+            {
+              "name": "Central Parking & Lunch",
+              "tip_5lang": {
+                "de": "Das überdachte Parken schützt vor Schneefall während des Essens.",
+                "hu": "A fedett parkolás megvédi az autót a havazástól ebéd közben.",
+                "ro": "Parcarea acoperită protejează mașina de ninsoare în timpul prânzului.",
+                "en": "Covered parking protects your vehicle from snowfall while you eat."
+              }
+            },
+            {
+              "name": "Central Square & Agia Paraskevi Church",
+              "tip_5lang": {
+                "de": "Kurze Fußwege im Zentrum sind auch bei Kälte gut machbar.",
+                "hu": "A központban a rövid gyalogutak hidegben is jól bírhatók.",
+                "ro": "Distanțele scurte de mers pe jos sunt rezonabile chiar și pe ger.",
+                "en": "Short walking distances in the center are manageable even in deep cold."
+              }
+            },
+            {
+              "name": "Averoff Museum of Neo-Hellenic Art",
+              "tip_5lang": {
+                "de": "Die Heizung im Museum ist im Winter sehr willkommen.",
+                "hu": "A múzeumi fűtés télen nagyon kellemes érzés.",
+                "ro": "Sistemul de încălzire din muzeu este foarte binevenit iarna.",
+                "en": "The museum's heating system is very welcoming during the winter."
+              }
+            },
+            {
+              "name": "Tositsa Mansion",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellung, um den kalten Wind draußen zu vergessen.",
+                "hu": "Látogassa meg a kiállítást, hogy elfelejtse a kinti hideg szelet.",
+                "ro": "Vizitați expoziția pentru a uita de vântul rece de afară.",
+                "en": "Visit the exhibit to forget the biting cold wind outside."
+              }
+            },
+            {
+              "name": "Katogi Averoff Winery",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird regelmäßig geräumt, dennoch ist Vorsicht geboten.",
+                "hu": "A parkolót rendszeresen takarítják, de azért legyen óvatos.",
+                "ro": "Parcarea este curățată regulat, dar prudența este totuși necesară.",
+                "en": "The parking lot is cleared regularly, but caution is still advised."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schneeketten im Kofferraum sind in dieser Region Pflicht.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Egnatia Odos wird gut geräumt, aber Nebenstraßen können schwierig sein.",
+              "Lassen Sie das Auto bei starkem Schneefall lieber im Parkhaus stehen."
+            ],
+            "hu": [
+              "A hólánc a csomagtartóban kötelező ebben a régióban.",
+              "Ellenőrizze a fagyállót a szélvédőmosó tartályban.",
+              "Az Egnatia Odos autópályát jól takarítják, de a mellékutak nehezek lehetnek.",
+              "Heves havazás esetén jobb az autót a parkolóházban hagyni."
+            ],
+            "ro": [
+              "Lanțurile de zăpadă în portbagaj sunt obligatorii în această regiune.",
+              "Verificați lichidul de parbriz să fie rezistent la îngheț.",
+              "Autostrada Egnatia Odos este bine curățată, dar drumurile secundare pot fi grele.",
+              "În caz de ninsoare abundentă, lăsați mașina în parcarea acoperită."
+            ],
+            "en": [
+              "Snow chains in the trunk are legally required in this mountainous region.",
+              "Check that your windshield washer fluid is rated for sub-zero temperatures.",
+              "The Egnatia Odos is well-maintained, but side roads can be challenging.",
+              "In heavy snowfall, it's better to leave your car in the parking garage."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1118,7 +1664,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "17:15",
-      "total_km": 10.9,
+      "total_km": 6.3,
       "stop_count": 6,
       "stops": [
         {
@@ -1467,6 +2013,188 @@
           "Metsovo does not have regular public transport; taxis are the main option.",
           "Most sights in the center are easily walkable, so you'll only need a taxi for longer distances."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem lokalen Bus geht es morgens zum Skizentrum, während draußen der Regen gegen die Scheiben peitscht. Mittags kehren wir ins Zentrum zurück, wo die Cafés am Platz trockene Wärme spenden. Den Nachmittag verbringen wir in den Museen von Metsovo, die alle fußläufig erreichbar sind. Den Tag schließen wir mit einem Besuch der historischen Kirche Agia Paraskevi ab.",
+            "hu": "A helyi busszal reggel a síközponthoz utazunk, miközben az eső veri az ablakot. Délben visszatérünk a központba, ahol a főtér kávézói száraz meleget kínálnak. A délutánt Metsovo múzeumaiban töltjük, amelyek mind sétatávolságra vannak egymástól. A napot a történelmi Agia Paraskevi-templom meglátogatásával zárjuk.",
+            "ro": "Cu autobuzul local mergem dimineața spre centrul de schi, în timp ce ploaia bate în geamuri. La prânz revenim în centru, unde cafenelele oferă căldură. După-amiaza o petrecem în muzeele din Metsovo, toate fiind la mică distanță de mers pe jos. Încheiem ziua cu o vizită la biserica istorică Agia Paraskevi.",
+            "en": "Take the local bus to the Ski Center in the morning as rain lashes against the windows. Return to the center for lunch, where square-side cafes offer dry warmth. Spend the afternoon in Metsovo's indoor museums, all within easy walking distance of each other. Finish the day with a visit to the historic Agia Paraskevi church as the rain subsides."
+          },
+          "stops": [
+            {
+              "name": "Trip to the Ski Center",
+              "tip_5lang": {
+                "de": "Warten Sie in der Lodge auf den Bus zurück, um nicht im Regen zu stehen.",
+                "hu": "Várja a buszt a fogadóban, hogy ne kelljen az esőben állnia.",
+                "ro": "Așteptați autobuzul în cabană pentru a nu sta afară în ploaie.",
+                "en": "Wait for the return bus inside the lodge to avoid standing in the rain."
+              }
+            },
+            {
+              "name": "Return to Center & Lunch",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle im Zentrum liegt nah an vielen überdachten Tavernen.",
+                "hu": "A központi buszmegálló közel van számos fedett teraszú fogadóhoz.",
+                "ro": "Stația de autobuz din centru este aproape de multe taverne acoperite.",
+                "en": "The central bus stop is close to many sheltered taverns for lunch."
+              }
+            },
+            {
+              "name": "Central Square of Metsovo",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint über den Platz bringt Sie schnell ins nächste Museum.",
+                "hu": "Egy rövid sprint a téren, és máris a következő múzeumban van.",
+                "ro": "Un sprint scurt prin piață vă duce repede la următorul muzeu.",
+                "en": "A short dash across the square gets you quickly to the next museum."
+              }
+            },
+            {
+              "name": "Tositsa Mansion",
+              "tip_5lang": {
+                "de": "Ideal erreichbar vom Platz aus, ohne lange dem Regen ausgesetzt zu sein.",
+                "hu": "Ideálisan elérhető a térről, anélkül, hogy sokáig ázna az esőben.",
+                "ro": "Accesibil ideal din piață, fără a sta mult timp în ploaie.",
+                "en": "Perfectly accessible from the square without long exposure to the rain."
+              }
+            },
+            {
+              "name": "Averoff Museum of Neo-Hellenic Art",
+              "tip_5lang": {
+                "de": "Planen Sie mehr Zeit ein, wenn es draußen besonders stark regnet.",
+                "hu": "Tervezzen több időt ide, ha kint különösen hevesen esik az eső.",
+                "ro": "Planificați mai mult timp aici dacă afară plouă torențial.",
+                "en": "Plan for extra time here if the rain outside is particularly heavy."
+              }
+            },
+            {
+              "name": "Church of Agia Paraskevi",
+              "tip_5lang": {
+                "de": "Das Vordach der Kirche bietet Schutz beim Warten auf die Gruppe.",
+                "hu": "A templom előtetője védelmet nyújt, amíg a csoportra vár.",
+                "ro": "Copertina bisericii oferă adăpost în timp ce așteptați grupul.",
+                "en": "The church porch provides a dry spot while waiting for your party."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busfahrpläne können sich bei schlechtem Wetter leicht verschieben.",
+              "Halten Sie Kleingeld für das Busticket bereit, um den Einstieg zu beschleunigen.",
+              "Die meisten Sehenswürdigkeiten im Ort liegen nah beieinander.",
+              "Nutzen Sie die Wartehäuschen an den Bushaltestellen."
+            ],
+            "hu": [
+              "A buszmenetrend rossz idő esetén kismértékben módosulhat.",
+              "Készítsen elő aprópénzt a jegyhez, hogy gyorsabb legyen a felszállás.",
+              "A legtöbb látnivaló a faluban nagyon közel van egymáshoz.",
+              "Használja ki a buszmegállók fedett várakozóhelyeit."
+            ],
+            "ro": [
+              "Orarele autobuzelor se pot modifica ușor în caz de vreme rea.",
+              "Pregătiți mărunțiș pentru bilet pentru a grăbi urcarea în autobuz.",
+              "Majoritatea obiectivelor din sat sunt foarte aproape unul de altul.",
+              "Folosiți adăposturile din stațiile de autobuz pentru a rămâne uscați."
+            ],
+            "en": [
+              "Bus schedules may shift slightly during periods of heavy mountain rain.",
+              "Have small change ready for the bus fare to speed up boarding.",
+              "Most of the village's attractions are located very close to each other.",
+              "Make use of the sheltered bus stops while waiting for your connection."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winterbus bringt uns durch die verschneite Landschaft zum Skizentrum. Dort genießen wir das alpine Treiben, bevor wir zum Mittagessen ins Dorf zurückkehren. Der Nachmittag gehört der Kultur in den warmen Innenräumen des Tositsa-Hauses und des Averoff-Museums. Den Tag beenden wir in der Agia Paraskevi Kirche, während draußen leise die Schneeflocken tanzen.",
+            "hu": "A téli busz a havas tájon át visz minket a síközponthoz. Ott élvezzük az alpesi hangulatot, mielőtt visszatérnénk a faluba ebédelni. A délután a kultúráé a Tositsa-kastély és az Averoff Múzeum meleg belső tereiben. A napot az Agia Paraskevi-templomban zárjuk, miközben kint halkan hullanak a hópelyhek.",
+            "ro": "Autobuzul de iarnă ne poartă prin peisajul înzăpezit spre centrul de schi. Acolo ne bucurăm de atmosfera alpină înainte de prânzul în sat. După-amiaza este dedicată culturii în interioarele calde de la Tositsa și Averoff. Încheiem ziua la biserica Agia Paraskevi, în timp ce afară ninge liniștit.",
+            "en": "The winter bus carries us through the snowy landscape to the Ski Center. Enjoy the alpine bustle before returning to the village for a warm lunch. Afternoon is dedicated to culture in the cozy interiors of the Tositsa Mansion and Averoff Museum. End the day at Agia Paraskevi church while snowflakes gently fall outside."
+          },
+          "stops": [
+            {
+              "name": "Trip to the Ski Center",
+              "tip_5lang": {
+                "de": "Der Bus ist die sicherste Wahl bei verschneiten Straßen zum Skizentrum.",
+                "hu": "A busz a legbiztonságosabb választás a havas utakon a síközpont felé.",
+                "ro": "Autobuzul este cea mai sigură alegere pe drumurile înzăpezite.",
+                "en": "The bus is the safest choice for navigating snowy roads to the ski area."
+              }
+            },
+            {
+              "name": "Return to Center & Lunch",
+              "tip_5lang": {
+                "de": "Der kurze Weg vom Bus zur Taverne ist auch bei Schnee kein Problem.",
+                "hu": "A busztól a fogadóig tartó rövid út hóban sem jelent problémát.",
+                "ro": "Drumul scurt de la autobuz la tavernă e ușor de parcurs și prin zăpadă.",
+                "en": "The short walk from the bus to the tavern is easy even in deep snow."
+              }
+            },
+            {
+              "name": "Central Square of Metsovo",
+              "tip_5lang": {
+                "de": "Der Platz ist im Winter besonders stimmungsvoll beleuchtet.",
+                "hu": "A főtér télen különösen hangulatos kivilágítást kap.",
+                "ro": "Piața este luminată foarte sugestiv în serile de iarnă.",
+                "en": "The square is especially atmospheric when lit up on winter evenings."
+              }
+            },
+            {
+              "name": "Tositsa Mansion",
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten eine wunderbare Zuflucht vor dem Frost.",
+                "hu": "A vastag falak csodálatos menedéket nyújtanak a fagy elől.",
+                "ro": "Zidurile groase oferă un refugiu minunat împotriva gerului.",
+                "en": "The thick walls offer a wonderful refuge from the biting frost outside."
+              }
+            },
+            {
+              "name": "Averoff Museum of Neo-Hellenic Art",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Schließfächer, um schwere Wintermäntel abzulegen.",
+                "hu": "Használja az értékmegőrzőket a nehéz télikabátok tárolására.",
+                "ro": "Folosiți dulapurile pentru a lăsa hainele grele de iarnă.",
+                "en": "Use the lockers to store heavy winter coats during your gallery visit."
+              }
+            },
+            {
+              "name": "Church of Agia Paraskevi",
+              "tip_5lang": {
+                "de": "Die Kerzen im Inneren spenden ein warmes Licht an grauen Wintertagen.",
+                "hu": "A benti gyertyák meleg fényt árasztanak a szürke téli napokon.",
+                "ro": "Lumânările din interior oferă o lumină caldă în zilele gri de iarnă.",
+                "en": "The candles inside provide a warm glow on grey winter afternoons."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Socken, da die Steinböden in den Kirchen kühl sein können.",
+              "Im Winter fahren zusätzliche Busse für die Skifahrer.",
+              "Die Sonne verschwindet früh; planen Sie Ihre Rückfahrt rechtzeitig.",
+              "Genießen Sie den Blick aus dem Busfenster auf das Pindos-Gebirge."
+            ],
+            "hu": [
+              "Viseljen meleg zoknit, mert a templomok kőpadlója hideg lehet.",
+              "Télen külön buszjáratok indulnak a síelők számára.",
+              "A nap korán nyugszik; tervezze meg időben a visszautat.",
+              "Élvezze a busz ablakából nyíló kilátást a Pindosz-hegységre."
+            ],
+            "ro": [
+              "Purtați șosete groase, deoarece podelele bisericilor pot fi reci.",
+              "Iarna circulă autobuze suplimentare pentru schiori.",
+              "Soarele apune devreme; planificați din timp drumul de întoarcere.",
+              "Bucurați-vă de priveliștea Munților Pind din fereastra autobuzului."
+            ],
+            "en": [
+              "Wear warm socks as the stone floors in historic buildings can be chilly.",
+              "Extra buses often run during the peak winter season for skiers.",
+              "The sun disappears early behind the peaks; plan your return trip by 16:30.",
+              "Enjoy the scenic views of the Pindus range from the bus windows."
+            ]
+          }
+        }
       }
     }
   }

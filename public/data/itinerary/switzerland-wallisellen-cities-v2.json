@@ -264,6 +264,188 @@
           "A reusable water bottle is useful.",
           "Check the museum's opening hours in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die Arkaden im Richti-Areal guten Schutz vor dem Regen. Mittags wärmen wir uns im gemütlichen Ortsmuseum auf.\n\nNach dem Lunch im Zentrum besichtigen wir die Reformierte Kirche, ein trockener Ort der Stille.\n\nDas Naturschutzgebiet Moos ist nachmittags dank befestigter Wege auch bei Schmuddelwetter gut begehbar.\n\nDer Tag endet friedlich in der St. Antonius Kirche, bevor es zurück zum Bahnhof geht.",
+            "hu": "Reggel a Richti-negyed épületeinek árkádjai alatt kezdünk, védve az esőtől. Délben a helytörténeti múzeumban száradunk meg.\n\nAz ebéd után a református templom belső terét csodáljuk meg, elkerülve a záporokat.\n\nDélután a Moos lápvidék következik, ahol a kiépített utak esőben is biztonságosan járhatók.\n\nA napot a Szent Antal templom csendjében zárjuk, tökéletes menedéket találva a hazaindulás előtt.",
+            "ro": "Dimineața, arcadele din cartierul Richti oferă o protecție excelentă împotriva ploii. La prânz, ne încălzim în muzeul local.\n\nDupă masa de prânz, vizităm Biserica Reformată, un spațiu liniștit și ferit de intemperii.\n\nRezervația naturală Moos este accesibilă după-amiaza pe potecile pavate, chiar și pe vreme umedă.\n\nZiua se încheie la biserica Sf. Antonius, un loc cald și primitor înainte de plecare.",
+            "en": "Morning starts under the protective eaves of the modern Richti-Areal. At noon, we dry off in the cozy Local Museum.\n\nAfter lunch in the center, we admire the Reformed Church's interior while staying out of the rain.\n\nIn the afternoon, the Moos nature reserve remains accessible thanks to its well-paved, stable paths.\n\nThe day concludes peacefully at St. Antonius Church, a perfect dry refuge before returning to the station."
+          },
+          "stops": [
+            {
+              "name": "Walk in the Richti-Areal",
+              "tip_5lang": {
+                "de": "Bleiben Sie unter den Arkaden der modernen Bürogebäude.",
+                "hu": "Használja az irodaházak árkádjait az eső elleni védelemhez.",
+                "ro": "Rămâneți sub arcadele clădirilor de birouri pentru adăpost.",
+                "en": "Stay under the eaves of the modern office buildings for shelter."
+              }
+            },
+            {
+              "name": "Wallisellen Local Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Zeit trocken mit lokaler Geschichte zu verbringen.",
+                "hu": "Tökéletes hely a száraz pihenésre a helyi múlt emlékei között.",
+                "ro": "Locul ideal pentru a petrece timpul la adăpost, explorând istoria.",
+                "en": "Perfect spot to spend dry time exploring local history indoors."
+              }
+            },
+            {
+              "name": "Reformed Church Wallisellen",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Innenraum für einen Moment der Ruhe im Trockenen.",
+                "hu": "Látogasson el a templom belsejébe egy csendes, száraz pihenőre.",
+                "ro": "Vizitați interiorul pentru un moment de liniște la loc uscat.",
+                "en": "Visit the interior for a quiet moment away from the downpour."
+              }
+            },
+            {
+              "name": "Lunch Break",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
+                "hu": "Válasszon olyan éttermet, ahol van hely a vizes kabátoknak.",
+                "ro": "Alegeți un restaurant cu garderobă pentru hainele umede.",
+                "en": "Choose a restaurant with space for wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Moos Nature Reserve",
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Schuhe, die Wege können stellenweise rutschig sein.",
+                "hu": "Viseljen vízálló cipőt, az utak néhol csúszósak lehetnek.",
+                "ro": "Purtați încălțăminte impermeabilă, potecile pot fi alunecoase.",
+                "en": "Wear waterproof shoes; paths can be slippery in some areas."
+              }
+            },
+            {
+              "name": "St. Antonius Catholic Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorraum, um den Regenschirm auszuschütteln.",
+                "hu": "Használja az előteret az esernyő lerázására belépés előtt.",
+                "ro": "Folosiți vestibulul pentru a scutura umbrela înainte de intrare.",
+                "en": "Use the vestibule to shake off your umbrella before entering."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Gehwege im Zentrum sind oft überdacht.",
+              "Das Glattzentrum ist in 10 Min. zu Fuß als XXL-Regenschutz erreichbar.",
+              "Viele Cafés am Bahnhof bieten gemütliche Plätze am Fenster.",
+              "Gute Regenkleidung ist im Moos-Gebiet wegen des Windes wichtig."
+            ],
+            "hu": [
+              "A központ járdái sok helyen fedettek.",
+              "A Glattzentrum 10 perc alatt elérhető gyalog, ha nagy eső jön.",
+              "A vasútállomás környéki kávézók remek ablak melletti helyeket kínálnak.",
+              "A Moos területén a szél miatt fontos a jó esőkabát."
+            ],
+            "ro": [
+              "Trotuarele din centru sunt adesea acoperite.",
+              "Glattzentrum este la 10 minute de mers pe jos, ideal pentru ploi mari.",
+              "Multe cafenele de lângă gară oferă locuri confortabile la fereastră.",
+              "Echipamentul de ploaie este esențial în zona Moos din cauza vântului."
+            ],
+            "en": [
+              "Many sidewalks in the center offer partial overhead cover.",
+              "Glattzentrum is just 10 mins away on foot for serious rain shelter.",
+              "Cafes near the station are great for watching the rain from inside.",
+              "Wind-resistant rain gear is recommended for the open Moos area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen im Richti-Areal ist oft neblig-schön. Zum Aufwärmen geht es direkt ins beheizte Ortsmuseum.\n\nNach dem Mittagessen bietet die Reformierte Kirche einen besinnlichen Halt in der Kälte.\n\nIm Moos-Naturschutzgebiet glitzert nachmittags oft der Frost auf den Gräsern – ein herrlicher Winterspaziergang.\n\nDie Tour endet mit der frühen Dämmerung in der St. Antonius Kirche, bevor man die kurze Heimreise antritt.",
+            "hu": "A téli reggel a Richti-negyedben gyakran ködös és hangulatos. Bemelegítésnek irány a fűtött helytörténeti múzeum.\n\nAz ebéd utáni megálló a református templom, amely a hideg elől nyújt csendes menedéket.\n\nDélután a Moos területén a dér csillog a sás között – igazi téli varázslat a város szélén.\n\nA túra a korai szürkületben a Szent Antal templomnál ér véget, mielőtt hazatérnénk.",
+            "ro": "Dimineața de iarnă în Richti este adesea cețoasă și frumoasă. Ne încălzim vizitând muzeul local bine încălzit.\n\nDupă prânz, Biserica Reformată oferă un moment de reflecție departe de frigul de afară.\n\nÎn rezervația Moos, chiciura strălucește pe iarbă după-amiaza – o plimbare de iarnă autentică.\n\nTurul se încheie odată cu amurgul timpuriu la biserica Sf. Antonius, înainte de scurta călătorie spre casă.",
+            "en": "A winter morning in Richti-Areal is often misty and atmospheric. Warm up early in the heated Local Museum.\n\nAfter lunch, the Reformed Church provides a peaceful sanctuary from the biting cold.\n\nIn the Moos nature reserve, frost glitters on the marsh grass in the afternoon—a crisp winter experience.\n\nThe tour ends as dusk falls early at St. Antonius Church, just in time for a warm train ride home."
+          },
+          "stops": [
+            {
+              "name": "Walk in the Richti-Areal",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen auf den modernen Betonflächen.",
+                "hu": "Vigyázzon a fagyott tócsákra a modern betonfelületeken.",
+                "ro": "Atenție la bălțile înghețate de pe suprafețele moderne de beton.",
+                "en": "Watch out for frozen puddles on the modern concrete surfaces."
+              }
+            },
+            {
+              "name": "Wallisellen Local Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die wohlige Wärme im historischen Gebäude.",
+                "hu": "Élvezze a történelmi épület barátságos melegét.",
+                "ro": "Bucurați-vă de căldura plăcută din interiorul clădirii istorice.",
+                "en": "Enjoy the cozy warmth inside this historic local house."
+              }
+            },
+            {
+              "name": "Reformed Church Wallisellen",
+              "tip_5lang": {
+                "de": "Die Kirche ist meist moderat temperiert, ideal für eine kurze Rast.",
+                "hu": "A templom mérsékelten fűtött, ideális egy rövid pihenőre.",
+                "ro": "Biserica este încălzită moderat, fiind ideală pentru un scurt popas.",
+                "en": "The church is usually moderately heated, ideal for a quick rest."
+              }
+            },
+            {
+              "name": "Lunch Break",
+              "tip_5lang": {
+                "de": "Bestellen Sie ein Schweizer Fondue oder eine heiße Suppe zum Aufwärmen.",
+                "hu": "Rendeljen egy svájci fonduet vagy forró levest a felmelegedéshez.",
+                "ro": "Comandați un fondue elvețian sau o supă fierbinte pentru a vă încălzi.",
+                "en": "Order a Swiss cheese fondue or hot soup to warm up thoroughly."
+              }
+            },
+            {
+              "name": "Moos Nature Reserve",
+              "tip_5lang": {
+                "de": "Die Sonne geht hier im Winter gegen 16:30 Uhr unter.",
+                "hu": "A nap itt télen délután fél 5 körül nyugszik.",
+                "ro": "Soarele apune aici în jurul orei 16:30 pe timp de iarnă.",
+                "en": "Note that the sun sets around 4:30 PM here in winter."
+              }
+            },
+            {
+              "name": "St. Antonius Catholic Church",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um das Abendgebet in der Wärme abzuwarten.",
+                "hu": "Szép hely megvárni az esti imát a meleg falak között.",
+                "ro": "Un loc frumos pentru a aștepta rugăciunea de seară la căldură.",
+                "en": "A beautiful place to sit and enjoy the warmth before the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche, es zieht oft vom nahen Glatttal her.",
+              "Besuchen Sie das Hallenbad 'Water World' für echte Winterwärme.",
+              "Im Winter sind die Tage kurz, starten Sie pünktlich um 09:00 Uhr.",
+              "Die Züge ab Wallisellen verkehren auch bei Schnee sehr zuverlässig."
+            ],
+            "hu": [
+              "Viseljen aláöltözetet, a közeli Glatt-völgy felől gyakran fúj a szél.",
+              "Látogassa meg a 'Water World' uszodát a valódi téli felfrissüléshez.",
+              "Télen rövidek a nappalok, kezdje a túrát pontosan reggel 9-kor.",
+              "A vonatok Wallisellenből hóesésben is nagyon megbízhatóan járnak."
+            ],
+            "ro": [
+              "Purtați haine termice, vântul suflă adesea dinspre valea Glatt.",
+              "Vizitați piscina interioară 'Water World' pentru o încălzire reală.",
+              "Iarna zilele sunt scurte, începeți turul punctual la ora 09:00.",
+              "Trenurile din Wallisellen circulă foarte fiabil chiar și pe zăpadă."
+            ],
+            "en": [
+              "Wear thermal layers; cold winds often blow from the Glatt valley.",
+              "Visit the 'Water World' indoor pool for a real winter warm-up.",
+              "Days are short in winter, so start your tour promptly at 9:00 AM.",
+              "Trains from Wallisellen are very reliable even during snowfall."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -545,6 +727,206 @@
           "Bring a lock to secure your bike.",
           "Most paths are flat, but the climb to Tambel is challenging."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Richti-Areal und radeln schnell zum Glattzentrum, wo wir trocken parken können. Mittags bietet das Hallenbad 'Water World' die perfekte nasse Alternative.\n\nNach dem Lunch radeln wir durch den Regen zum Moos-Gebiet, die Natur riecht hier besonders frisch.\n\nEin kurzer Stopp am Tambel-Aussichtspunkt zeigt Wallisellen im Nebel, bevor wir die Tour am Ortsmuseum beenden.\n\nDer Tag endet kulturell und im Trockenen, ideal um die nassen Kleider kurz abzulegen.",
+            "hu": "A Richti-negyedből indulunk és gyorsan a Glattzentrum felé tekerünk, ahol fedett helyen parkolhatunk. Délben a 'Water World' uszoda tökéletes vizes alternatíva.\n\nEbéd után az esőben a Moos-láp felé vesszük az irányt, a természet illata ilyenkor a legfrissebb.\n\nEgy rövid megálló a Tambel kilátónál megmutatja a ködös Wallisellent, mielőtt a múzeumnál zárnánk.\n\nA nap kulturális élményekkel és szárazon ér véget, ideális a vizes ruhák levételéhez.",
+            "ro": "Plecăm din cartierul Richti și pedalăm rapid spre Glattzentrum, unde parcăm la adăpost. La prânz, piscina 'Water World' oferă alternativa perfectă.\n\nDupă prânz, pedalăm prin ploaie spre zona Moos, unde aerul este extrem de proaspăt.\n\nO scurtă oprire la punctul de belvedere Tambel ne arată un Wallisellen cețos, înainte de a termina la muzeu.\n\nZiua se încheie cultural și la uscat, ideal pentru a ne schimba hainele umede.",
+            "en": "Start at Richti-Areal and cycle quickly to Glattzentrum for covered bike parking. At noon, 'Water World' indoor pool is the perfect rainy-day pivot.\n\nAfter lunch, we ride through the rain to the Moos area; the nature smells incredibly fresh now.\n\nA quick stop at the Tambel viewpoint shows Wallisellen in the mist before finishing at the Local Museum.\n\nThe day ends indoors with local culture, giving you a chance to dry off and relax."
+          },
+          "stops": [
+            {
+              "name": "Start at the Richti-Areal",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, nasser Asphalt ist rutschig.",
+                "hu": "Ellenőrizze a fékeket, a vizes aszfalt csúszós lehet.",
+                "ro": "Verificați frânele, asfaltul umed este alunecos.",
+                "en": "Check your brakes; wet asphalt can be slippery."
+              }
+            },
+            {
+              "name": "Glattzentrum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Fahrradständer am Haupteingang.",
+                "hu": "Használja a fedett kerékpártárolókat a főbejáratnál.",
+                "ro": "Folosiți rastelele de biciclete acoperite de la intrarea principală.",
+                "en": "Use the covered bicycle racks located at the main entrance."
+              }
+            },
+            {
+              "name": "Water World Swimming Pool",
+              "tip_5lang": {
+                "de": "Perfekt für ein Indoor-Training, wenn es draußen zu stark regnet.",
+                "hu": "Tökéletes beltéri edzéshez, ha odakint túl erősen esik.",
+                "ro": "Perfect pentru antrenament interior dacă plouă prea tare afară.",
+                "en": "Perfect for indoor exercise if it's raining too hard outside."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz mit Blick auf Ihr Rad im Regen.",
+                "hu": "Keressen olyan helyet, ahonnan rálát a biciklijére az esőben.",
+                "ro": "Căutați un loc cu vedere la bicicletă în timp ce plouă.",
+                "en": "Find a seat with a view of your bike out in the rain."
+              }
+            },
+            {
+              "name": "Moos Nature Reserve",
+              "tip_5lang": {
+                "de": "Die Pfade sind fest, aber achten Sie auf Pfützen in den Kurven.",
+                "hu": "Az utak stabilak, de figyeljen a tócsákra a kanyarokban.",
+                "ro": "Potecile sunt ferme, dar atenție la bălțile din curbe.",
+                "en": "Paths are solid, but watch out for puddles in the bends."
+              }
+            },
+            {
+              "name": "Tambel Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Abfahrt auf der nassen Straße.",
+                "hu": "Vigyázzon a lejtőn a vizes úton való lefelé menetnél.",
+                "ro": "Atenție la coborâre pe drumul umed.",
+                "en": "Be careful during the descent on the wet road surface."
+              }
+            },
+            {
+              "name": "Wallisellen Local Museum",
+              "tip_5lang": {
+                "de": "Schütteln Sie nasse Kleidung draußen aus, bevor Sie eintreten.",
+                "hu": "Rázza le a vizes ruhákat odakint, mielőtt belépne.",
+                "ro": "Scuturați hainele ude afară înainte de a intra.",
+                "en": "Shake off wet gear outside before entering the museum."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter in Wallisellen unerlässlich.",
+              "Das Glattzentrum bietet viele Shops für wasserfeste Ausrüstung.",
+              "Die Radwege sind gut markiert, aber bei Regen weniger sichtbar.",
+              "Nutzen Sie helle Lichter, um im grauen Wetter gesehen zu werden."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben Wallisellenben.",
+              "A Glattzentrumban sok bolt kínál vízálló felszerelést.",
+              "A bicikliutak jól jelzettek, de esőben kevésbé látszanak.",
+              "Használjon erős lámpákat, hogy látható maradjon a szürkületben."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe această vreme.",
+              "Glattzentrum are multe magazine cu echipament impermeabil.",
+              "Pistele sunt bine marcate, dar mai puțin vizibile pe ploaie.",
+              "Folosiți lumini puternice pentru a fi vizibili pe vreme gri."
+            ],
+            "en": [
+              "Mudguards are essential in this weather around Wallisellen.",
+              "Glattzentrum has many shops offering waterproof cycling gear.",
+              "Cycle paths are well-marked but less visible in heavy rain.",
+              "Use bright lights to ensure you stay visible in gray weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Richti-Areal startet die Tour. Das Glattzentrum bietet danach den ersten warmen Zwischenstopp zum Aufwärmen.\n\nNach dem Schwimmen im 'Water World' Hallenbad stärken wir uns beim Mittagessen für die kalte Weiterfahrt.\n\nDas Moos-Naturschutzgebiet wirkt im Winter erstarrt und friedlich. Der Tambel-Aussichtspunkt bietet bei klarer Luft die beste Fernsicht.\n\nZum Aufwärmen endet der Tag im beheizten Ortsmuseum, wo wir die Walliseller Geschichte gemütlich Revue passieren lassen.",
+            "hu": "Friss téli reggel indul a Richti-negyedben. A Glattzentrum kínálja az első meleg megállót a felmelegedéshez.\n\nA 'Water World' uszodai úszás után az ebéddel gyűjtünk erőt a hideg folytatáshoz.\n\nA Moos természetvédelmi terület télen dermedt és békés. A Tambel kilátó tiszta levegőben a legjobb távoli kilátást nyújtja.\n\nA nap a fűtött múzeumban ér véget, ahol kényelmesen áttekinthetjük Wallisellen múltját.",
+            "ro": "O dimineață răcoroasă de iarnă în Richti dă startul turului. Glattzentrum oferă prima oprire caldă pentru încălzire.\n\nDupă înotul la piscina 'Water World', prânzul ne dă putere pentru continuarea prin frig.\n\nRezervația Moos pare încremenită și liniștită iarna. Punctul de belvedere Tambel oferă cea mai bună vizibilitate pe aer curat.\n\nZiua se încheie la muzeul încălzit, unde trecem în revistă istoria locală la căldură.",
+            "en": "A crisp winter morning at Richti-Areal kicks off the ride. Glattzentrum then provides the first warm pit stop to thaw out.\n\nAfter a swim at 'Water World', lunch refuels us for the chilly ride ahead toward the nature reserve.\n\nThe Moos area feels frozen and peaceful in winter. Tambel viewpoint offers the best panoramic views in the clear air.\n\nTo warm up, the day ends at the heated Local Museum, where we can reflect on Wallisellen's history in comfort."
+          },
+          "stops": [
+            {
+              "name": "Start at the Richti-Areal",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe, der Fahrtwind ist im Winter beißend.",
+                "hu": "Viseljen kesztyűt, a menetszél télen metsző lehet.",
+                "ro": "Purtați mănuși, vântul este tăios iarna în timpul mersului.",
+                "en": "Wear warm gloves; the wind chill while riding is biting in winter."
+              }
+            },
+            {
+              "name": "Glattzentrum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die eingefrorenen Finger aufzuwärmen.",
+                "hu": "Használja ki a megállót a lefagyott ujjak felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi degetele înghețate.",
+                "en": "Use this stop to warm up your fingers before continuing."
+              }
+            },
+            {
+              "name": "Water World Swimming Pool",
+              "tip_5lang": {
+                "de": "Föhnen Sie Ihr Haar gründlich, bevor Sie wieder aufs Rad steigen.",
+                "hu": "Alaposan szárítsa meg a haját, mielőtt újra nyeregbe szállna.",
+                "ro": "Uscați-vă bine părul înainte de a urca din nou pe bicicletă.",
+                "en": "Dry your hair thoroughly before getting back on your bike."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Ein heißer Tee ist jetzt das beste Getränk für Radfahrer.",
+                "hu": "Egy forró tea most a legjobb ital a bicikliseknek.",
+                "ro": "Un ceai fierbinte este cea mai bună băutură acum.",
+                "en": "A hot tea is the best drink for cyclists right now."
+              }
+            },
+            {
+              "name": "Moos Nature Reserve",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Holzstegen.",
+                "hu": "Vigyázzon a jeges foltokra a fapallókon.",
+                "ro": "Atenție la porțiunile înghețate de pe podețele de lemn.",
+                "en": "Watch out for icy patches on the wooden boardwalks."
+              }
+            },
+            {
+              "name": "Tambel Viewpoint",
+              "tip_5lang": {
+                "de": "Bleiben Sie in Bewegung, um oben nicht auszukühlen.",
+                "hu": "Maradjon mozgásban, hogy ne hűljön ki odafönt.",
+                "ro": "Rămâneți în mișcare pentru a nu îngheța sus la belvedere.",
+                "en": "Keep moving to avoid getting too cold at the viewpoint."
+              }
+            },
+            {
+              "name": "Wallisellen Local Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den Tag gemütlich im Warmen zu beenden.",
+                "hu": "Tökéletes hely a nap kellemes, meleg befejezéséhez.",
+                "ro": "Locul perfect pentru a încheia ziua confortabil la căldură.",
+                "en": "The perfect place to end the day cozy and warm indoors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck, er sinkt bei Kälte oft ab.",
+              "Vermeiden Sie bei Glatteis die steilen Wege zum Tambel.",
+              "Licht ist im Winter ab 16:00 Uhr lebenswichtig.",
+              "Mehrere Schichten Kleidung schützen am besten vor dem Fahrtwind."
+            ],
+            "hu": [
+              "Ellenőrizze a keréknyomást, hidegben gyakran csökken.",
+              "Jegesedés esetén kerülje a meredek utakat a Tambel felé.",
+              "A lámpa használata télen délután 4-től létfontosságú.",
+              "A réteges öltözködés véd legjobban a menetszél ellen."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri, scade adesea la frig.",
+              "Evitați drumurile abrupte spre Tambel dacă este polei.",
+              "Luminile sunt vitale iarna începând cu ora 16:00.",
+              "Mai multe straturi de haine protejează cel mai bine de vânt."
+            ],
+            "en": [
+              "Check your tire pressure; it often drops in cold weather.",
+              "Avoid steep paths to Tambel if there's a risk of black ice.",
+              "Bike lights are essential starting from 4:00 PM in winter.",
+              "Layered clothing is the best defense against winter wind chill."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -809,6 +1191,188 @@
           "Be aware of the parking fees.",
           "A navigation system is helpful to find the different clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten bequem im Richti-Areal mit Parkhaus-Anschluss. Danach fahren wir zum Ortsmuseum, das direkt an der Straße liegt.\n\nDas Moos-Naturschutzgebiet besuchen wir trotz Regen, da der Parkplatz nah am Eingang liegt.\n\nEin kurzer Abstecher zum Tambel-Aussichtspunkt zeigt das graue Glatttal, bevor wir zum Glattzentrum shoppen fahren.\n\nDer Tag endet mit einem gemütlichen Dinner im Zentrum, während es draußen weiter regnet.",
+            "hu": "Kényelmesen indulunk a Richti-negyedben, közvetlen parkolóházi kapcsolattal. Ezután a múzeumhoz hajtunk, amely az út mellett van.\n\nA Moos területét esőben is meglátogatjuk, mert a parkoló közel van a bejárathoz.\n\nEgy rövid kitérő a Tambel kilátóhoz megmutatja a szürke Glatt-völgyet, majd a Glattcentrumba megyünk vásárolni.\n\nA nap egy kellemes vacsorával zárul a központban, miközben odakint tovább esik.",
+            "ro": "Începem confortabil în Richti, cu acces la parcarea etajată. Apoi conducem spre muzeul local aflat chiar lângă drum.\n\nVizităm rezervația Moos în ciuda ploii, parcarea fiind aproape de intrare.\n\nO scurtă oprire la Tambel ne arată valea Glatt sub nori, apoi mergem la cumpărături în Glattzentrum.\n\nZiua se încheie cu o cină plăcută în centru, în timp ce afară continuă să plouă.",
+            "en": "Start comfortably at Richti-Areal with easy parking garage access. Then drive to the Local Museum located right by the road.\n\nVisit the Moos nature reserve despite the rain, as the parking lot is very close to the entrance.\n\nA quick detour to Tambel viewpoint shows the misty Glatt valley before heading to Glattzentrum for shopping.\n\nThe day ends with a cozy dinner in the center while the rain continues outside."
+          },
+          "stops": [
+            {
+              "name": "Parking and walk in the Richti-Areal",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus am Bahnhof für einen trockenen Start.",
+                "hu": "Használja a vasútállomás melletti parkolóházat a száraz induláshoz.",
+                "ro": "Folosiți parcarea de la gară pentru un start la uscat.",
+                "en": "Use the parking garage at the station for a dry start to the tour."
+              }
+            },
+            {
+              "name": "Local Museum and Reformed Church",
+              "tip_5lang": {
+                "de": "Parken Sie in der blauen Zone direkt vor dem Museum.",
+                "hu": "Parkoljon a kék zónában közvetlenül a múzeum előtt.",
+                "ro": "Parcați în zona albastră chiar în fața muzeului.",
+                "en": "Park in the blue zone directly in front of the museum."
+              }
+            },
+            {
+              "name": "Drive to the Moos Nature Reserve",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist bei Regen oft matschig, Vorsicht beim Aussteigen.",
+                "hu": "A parkoló esőben gyakran sáros, vigyázzon kiszálláskor.",
+                "ro": "Parcarea este adesea noroioasă pe ploaie, atenție la coborâre.",
+                "en": "The parking area can be muddy in the rain; watch your step."
+              }
+            },
+            {
+              "name": "Drive to the Tambel Viewpoint",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Sicht eingeschränkt, ein kurzer Stopp reicht.",
+                "hu": "Heves esőben a látáskorlátozott, egy rövid megálló is elég.",
+                "ro": "Vizibilitatea este redusă pe ploaie torențială, ajunge o scurtă oprire.",
+                "en": "Visibility is limited during heavy rain; a quick stop is enough."
+              }
+            },
+            {
+              "name": "Shopping and coffee at the Glattzentrum",
+              "tip_5lang": {
+                "de": "Das riesige Parkhaus bietet perfekten Schutz vor jedem Unwetter.",
+                "hu": "A hatalmas parkolóház tökéletes védelmet nyújt bármilyen vihar ellen.",
+                "ro": "Parcarea imensă oferă protecție perfectă împotriva furtunilor.",
+                "en": "The massive parking garage offers perfect shelter from any storm."
+              }
+            },
+            {
+              "name": "Dinner",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit nahem Parkplatz im Zentrum.",
+                "hu": "Keressen olyan éttermet a központban, aminek van közeli parkolója.",
+                "ro": "Căutați un restaurant cu parcare aproape în centru.",
+                "en": "Find a restaurant in the center with nearby parking available."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Das Glattzentrum ist der beste Ort für Regentage in der Region.",
+              "Vermeiden Sie bei Starkregen die tiefergelegenen Straßenabschnitte.",
+              "Regenschirme im Auto griffbereit zu haben ist heute Gold wert."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "A Glattzentrum a legjobb hely a régióban esős napokra.",
+              "Heves esőzéskor kerülje az alacsonyabban fekvő útszakaszokat.",
+              "Aranyat ér ma, ha az esernyő kéznél van az autóban."
+            ],
+            "ro": [
+              "Verificați ștergătoarele de parbriz înainte de plecare.",
+              "Glattzentrum este cel mai bun loc din regiune pentru zile ploioase.",
+              "Evitați secțiunile de drum joase în caz de ploaie torențială.",
+              "E bine să aveți umbrelele la îndemână în mașină astăzi."
+            ],
+            "en": [
+              "Check your windshield wipers before setting off.",
+              "Glattzentrum is the premier local destination for rainy days.",
+              "Avoid lower-lying road sections during heavy downpours.",
+              "Having umbrellas ready in the car is worth its weight in gold today."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen startet beheizt im Auto am Richti-Areal. Die kurzen Wege zum Museum und zur Kirche sind auch bei Kälte ideal.\n\nIm Moos-Naturschutzgebiet genießen wir die Winterlandschaft direkt vom Parkplatz aus oder bei einem kurzen Rundgang.\n\nDie Fahrt zum Tambel bietet bei Frost oft spektakuläre Aussichten über das neblige Zürich Nord.\n\nDas Glattzentrum ist danach der ideale Ort zum Aufwärmen und Shoppen, bevor der Tag beim Dinner gemütlich ausklingt.",
+            "hu": "A téli reggel fűtött autóban indul a Richti-negyednél. A múzeumhoz és templomhoz vezető rövid utak hidegben is ideálisak.\n\nA Moos területén a téli tájat közvetlenül a parkolóból vagy egy rövid körsétán élvezhetjük.\n\nA Tambelhez vezető út fagyos időben gyakran látványos kilátást nyújt a ködös Észak-Zürichtől.\n\nA Glattzentrum ezután ideális hely a felmelegedéshez, mielőtt a nap egy vacsorával zárulna.",
+            "ro": "Dimineața de iarnă începe în mașina încălzită la Richti. Distanțele scurte spre muzeu și biserică sunt ideale pe frig.\n\nÎn zona Moos ne bucurăm de peisajul de iarnă direct din parcare sau într-o scurtă plimbare.\n\nDrumul spre Tambel oferă adesea vederi spectaculoase peste nordul cețos al Zurich-ului.\n\nGlattzentrum este apoi locul ideal pentru încălzire și cumpărături înainte de cină.",
+            "en": "Start your winter morning in a pre-heated car at Richti-Areal. Short walks to the museum and church are ideal in the cold.\n\nAt the Moos nature reserve, enjoy the winter scenery directly from the parking lot or during a brief stroll.\n\nThe drive to Tambel often rewards you with spectacular views over misty North Zurich during frost.\n\nGlattzentrum is the perfect spot to warm up and shop before ending the day with a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Parking and walk in the Richti-Areal",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in den Einfahrten der Parkhäuser.",
+                "hu": "Vigyázzon a jegesedésre a parkolóházak bejáratánál.",
+                "ro": "Atenție la polei la intrările în parcările etajate.",
+                "en": "Watch out for black ice at the entrances of parking garages."
+              }
+            },
+            {
+              "name": "Local Museum and Reformed Church",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken unter schneebeladenen Bäumen.",
+                "hu": "Kerülje a parkolást a hótól roskadozó fák alatt.",
+                "ro": "Evitați parcarea sub copaci încărcați cu zăpadă.",
+                "en": "Avoid parking under trees heavily laden with snow."
+              }
+            },
+            {
+              "name": "Drive to the Moos Nature Reserve",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße kann bei Schneefall rutschig sein.",
+                "hu": "A bekötőút hóesésben csúszós lehet.",
+                "ro": "Drumul de acces poate fi alunecos în caz de ninsoare.",
+                "en": "The access road can be slippery during active snowfall."
+              }
+            },
+            {
+              "name": "Drive to the Tambel Viewpoint",
+              "tip_5lang": {
+                "de": "Gute Winterreifen sind für die Steigung zum Tambel Pflicht.",
+                "hu": "A Tambel felé vezető emelkedőhöz kötelező a jó téli gumi.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pentru panta spre Tambel.",
+                "en": "Good winter tires are mandatory for the incline up to Tambel."
+              }
+            },
+            {
+              "name": "Shopping and coffee at the Glattzentrum",
+              "tip_5lang": {
+                "de": "Genießen Sie das beheizte Parkhaus, es schont die Autobatterie.",
+                "hu": "Élvezze a fűtött parkolóházat, kíméli az autó akkumulátorát.",
+                "ro": "Bucurați-vă de parcarea încălzită, protejează bateria mașinii.",
+                "en": "Enjoy the heated parking garage; it's easier on your car battery."
+              }
+            },
+            {
+              "name": "Dinner",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Parkplatzsituation im Voraus, um Kälte-Märsche zu vermeiden.",
+                "hu": "Ellenőrizze előre a parkolást, hogy elkerülje a gyaloglást a hidegben.",
+                "ro": "Verificați parcarea în avans pentru a evita mersul prin frig.",
+                "en": "Check parking availability in advance to avoid long walks in the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "In der Schweiz sind Winterreifen bei entsprechenden Verhältnissen Pflicht.",
+              "Batterien entladen sich bei Kälte schneller, Licht nicht brennen lassen.",
+              "Die Bergstraßen um Wallisellen werden meist schnell geräumt."
+            ],
+            "hu": [
+              "Legyen önnél jégkaparó és fagyálló folyadék.",
+              "Svájcban a téli gumi kötelező a megfelelő útviszonyok mellett.",
+              "Az akkumulátorok gyorsabban merülnek hidegben, ne hagyja égve a lámpát.",
+              "A Wallisellen környéki hegyi utakat általában gyorsan letakarítják."
+            ],
+            "ro": [
+              "Aveți la voi o răzuitoare de gheață și lichid antigel.",
+              "În Elveția, anvelopele de iarnă sunt obligatorii în condiții de iarnă.",
+              "Bateriile se descarcă mai repede la frig, nu lăsați luminile aprinse.",
+              "Drumurile spre dealurile din jurul Wallisellen sunt de obicei curățate rapid."
+            ],
+            "en": [
+              "Keep an ice scraper and antifreeze fluid in your car.",
+              "In Switzerland, winter tires are mandatory in wintry road conditions.",
+              "Car batteries drain faster in the cold; don't leave lights on.",
+              "Mountain roads around Wallisellen are usually cleared quickly."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1049,6 +1613,170 @@
           "Download the ZVV app to check timetables and connections.",
           "Note that buses and trains in Switzerland are very punctual."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Bahnhof Wallisellen unter dem Dach. Der Weg zu den Kirchen ist kurz, sodass wir kaum nass werden.\n\nDer Bus bringt uns danach direkt zum Glattzentrum, wo wir den Nachmittag komplett im Trockenen verbringen können.\n\nEin kurzer Busausflug zum Moos-Gebiet lohnt sich auch bei Regen für die frische Luft.\n\nAm Abend kehren wir mit dem Bus ins Zentrum zurück und genießen ein warmes Getränk am Bahnhof.",
+            "hu": "A walliselleni vasútállomáson indulunk a tető alatt. A templomokhoz vezető út rövid, így alig ázunk meg.\n\nA busz ezután közvetlenül a Glattzentrumhoz visz, ahol a délutánt teljesen szárazon tölthetjük.\n\nEgy rövid buszos kirándulás a Moos területére esőben is megéri a friss levegőért.\n\nEste busszal térünk vissza a központba, és egy meleg italt fogyasztunk az állomásnál.",
+            "ro": "Începem la gara Wallisellen sub acoperiș. Drumul spre biserici este scurt, deci abia dacă ne udăm.\n\nAutobuzul ne duce apoi direct la Glattzentrum, unde putem petrece după-amiaza complet la uscat.\n\nO scurtă excursie cu autobuzul la Moos merită chiar și pe ploaie pentru aerul curat.\n\nSeara revenim cu autobuzul în centru și savurăm o băutură caldă la gară.",
+            "en": "Start at Wallisellen station under the platform roof. The walk to the local churches is short, minimizing rain exposure.\n\nThe bus then takes us directly to Glattzentrum, where we can spend the entire afternoon completely dry.\n\nA quick bus trip to the Moos area is worth it even in the rain for the crisp, fresh air.\n\nIn the evening, return by bus to the center and enjoy a warm drink near the station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Wallisellen Station & Richti-Areal",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den überdachten Bahnsteigen, bis Ihr Bus kommt.",
+                "hu": "Maradjon a fedett peronon, amíg megérkezik a busza.",
+                "ro": "Rămâneți pe peroanele acoperite până vine autobuzul.",
+                "en": "Stay on the covered platforms until your bus arrives."
+              }
+            },
+            {
+              "name": "Walk to the churches",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Gassen als Abkürzung zwischen den Gebäuden.",
+                "hu": "Használja a rövid sikátorokat egérútként az épületek között.",
+                "ro": "Folosiți străduțele scurte ca scurtătură între clădiri.",
+                "en": "Use the short alleys as shortcuts between the buildings."
+              }
+            },
+            {
+              "name": "Bus to the Glattzentrum",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle am Glattzentrum ist direkt am Eingang.",
+                "hu": "A Glattzentrum buszmegállója közvetlenül a bejáratnál van.",
+                "ro": "Stația de autobuz de la Glattzentrum este chiar la intrare.",
+                "en": "The bus stop at Glattzentrum is located right by the entrance."
+              }
+            },
+            {
+              "name": "Bus to the Moos Nature Reserve",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten, um Wartezeiten im Regen zu vermeiden.",
+                "hu": "Ellenőrizze az indulási időket, hogy ne várjon sokat az esőben.",
+                "ro": "Verificați timpii de plecare pentru a evita așteptarea în ploaie.",
+                "en": "Check departure times to avoid waiting long in the rain."
+              }
+            },
+            {
+              "name": "Return to the center",
+              "tip_5lang": {
+                "de": "Im Bahnhofsgebäude gibt es Kioske für einen trockenen Snack.",
+                "hu": "Az állomás épületében vannak kioszkok egy száraz harapnivalóhoz.",
+                "ro": "În clădirea gării există chioșcuri pentru o gustare la uscat.",
+                "en": "There are kiosks inside the station building for a dry snack."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die ZVV-App für Echtzeit-Infos bei Wetterverzögerungen.",
+              "Die Busse in Wallisellen sind modern und immer trocken.",
+              "Das Glattzentrum ist ideal per Glattalbahn (Tram) erreichbar.",
+              "Tageskarten für die Zone 121 lohnen sich bei diesem Wetter."
+            ],
+            "hu": [
+              "Használja a ZVV appot a valós idejű infókért késés esetén.",
+              "A walliselleni buszok modernek és mindig szárazak.",
+              "A Glattzentrum ideálisan elérhető a Glattalbahn villamossal is.",
+              "A 121-es zónára érvényes napijegy megéri ilyen időben."
+            ],
+            "ro": [
+              "Folosiți aplicația ZVV pentru info în timp real în caz de întârzieri.",
+              "Autobuzele din Wallisellen sunt moderne și întotdeauna uscate.",
+              "Glattzentrum este accesibil ideal și cu tramvaiul Glattalbahn.",
+              "Abonamentele de o zi pentru zona 121 merită pe această vreme."
+            ],
+            "en": [
+              "Use the ZVV app for real-time info on any weather delays.",
+              "Buses in Wallisellen are modern and keep you perfectly dry.",
+              "Glattzentrum is also easily reachable via the Glattalbahn tram.",
+              "Day passes for Zone 121 are great value for multiple short trips."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Bahnhof startet mit einer heißen Schokolade. Der kurze Weg zu den Kirchen ist perfekt, um die Kälte kurz zu spüren.\n\nDanach bringt uns der warme Bus zum Glattzentrum, dem ultimativen Winter-Rückzugsort zum Shoppen.\n\nEin Ausflug zum Moos-Gebiet bietet klare Winterluft, bevor wir uns im Bus wieder aufwärmen.\n\nAm Abend kehren wir ins Zentrum zurück, wo die Bahnhofsbeleuchtung eine schöne Winterstimmung verbreitet.",
+            "hu": "A téli reggel az állomáson egy forró csokoládéval indul. A templomokhoz vezető rövid út épp elég a friss hideghez.\n\nEzután a meleg busz elvisz a Glattzentrumhoz, a végső téli menedékhez a vásárláshoz.\n\nA Moos területére tett kirándulás tiszta téli levegőt kínál, mielőtt a buszban újra felmelegednénk.\n\nEste visszatérünk a központba, ahol az állomás fényei szép téli hangulatot árasztanak.",
+            "ro": "Dimineața de iarnă la gară începe cu o ciocolată caldă. Drumul scurt spre biserici este perfect pentru a simți aerul rece.\n\nApoi, autobuzul cald ne duce la Glattzentrum, refugiul suprem de iarnă pentru cumpărături.\n\nO excursie în zona Moos oferă aer curat de iarnă înainte de a ne încălzi din nou în autobuz.\n\nSeara revenim în centru, unde luminile gării creează o atmosferă frumoasă de iarnă.",
+            "en": "Start your winter morning at the station with a hot chocolate. The short walk to the churches is just enough to enjoy the crisp air.\n\nThen, a warm bus whisks us away to Glattzentrum, the ultimate winter retreat for shopping and leisure.\n\nA trip to the Moos area offers refreshing winter air before thawing out back on the bus.\n\nIn the evening, return to the center where the station lights create a wonderful winter ambiance."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Wallisellen Station & Richti-Areal",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wartesaal im Bahnhof, wenn es draußen zu kalt ist.",
+                "hu": "Használja az állomási várótermet, ha odakint túl hideg van.",
+                "ro": "Folosiți sala de așteptare din gară dacă este prea frig afară.",
+                "en": "Use the station waiting room if it's too cold on the platform."
+              }
+            },
+            {
+              "name": "Walk to the churches",
+              "tip_5lang": {
+                "de": "Vorsicht, die Gehwege können am frühen Morgen glatt sein.",
+                "hu": "Vigyázzon, a járdák kora reggel csúszósak lehetnek.",
+                "ro": "Atenție, trotuarele pot fi alunecoase dimineața devreme.",
+                "en": "Be careful; sidewalks can be slippery early in the morning."
+              }
+            },
+            {
+              "name": "Bus to the Glattzentrum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Heizung im Bus während der kurzen Fahrt.",
+                "hu": "Élvezze a fűtést a buszon a rövid út alatt.",
+                "ro": "Bucurați-vă de căldura din autobuz în timpul călătoriei scurte.",
+                "en": "Enjoy the bus heating during the short trip to the mall."
+              }
+            },
+            {
+              "name": "Bus to the Moos Nature Reserve",
+              "tip_5lang": {
+                "de": "Warten Sie im Unterstand der Haltestelle auf den Rückbus.",
+                "hu": "Várjon a megálló fedett részén a visszafelé tartó buszra.",
+                "ro": "Așteptați în adăpostul stației autobuzul de întoarcere.",
+                "en": "Wait inside the bus stop shelter for your return trip."
+              }
+            },
+            {
+              "name": "Return to the center",
+              "tip_5lang": {
+                "de": "Die Züge nach Zürich fahren alle paar Minuten für eine warme Heimreise.",
+                "hu": "A vonatok Zürichbe pár percenként járnak a meleg hazatéréshez.",
+                "ro": "Trenurile spre Zurich circulă la câteva minute pentru un drum cald.",
+                "en": "Trains to Zurich run every few minutes for a warm ride home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bahnhöfe in der Schweiz sind im Winter meist gut beheizt.",
+              "Die Busfrequenzen sind hoch, langes Warten in der Kälte entfällt.",
+              "Das Glattzentrum ist der wärmste Ort für den ganzen Nachmittag.",
+              "Achten Sie auf die Ansagen bei eventuellen Schneeverzögerungen."
+            ],
+            "hu": [
+              "A svájci vasútállomások télen általában jól fűtöttek.",
+              "A buszok gyakran járnak, így nem kell sokat várni a hidegben.",
+              "A Glattzentrum a legmelegebb hely az egész délutánra.",
+              "Figyeljen a bemondásokra esetleges havazás miatti késéseknél."
+            ],
+            "ro": [
+              "Gările din Elveția sunt de obicei bine încălzite iarna.",
+              "Frecvența autobuzelor este mare, deci nu veți aștepta mult în frig.",
+              "Glattzentrum este cel mai cald loc pentru întreaga după-amiază.",
+              "Fiți atenți la anunțuri în caz de întârzieri cauzate de zăpadă."
+            ],
+            "en": [
+              "Swiss train stations are generally well-heated in winter.",
+              "Buses run frequently, minimizing your wait time in the cold.",
+              "Glattzentrum is the warmest place to spend a winter afternoon.",
+              "Listen for station announcements regarding any snow-related delays."
+            ]
+          }
+        }
       }
     }
   }

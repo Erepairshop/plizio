@@ -386,6 +386,206 @@
           "Most sights are close to each other, making the walk very pleasant.",
           "Check the opening hours of the church as they may vary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Kulturhaus Skrunda einen trockenen Zufluchtsort für den Start. Mittags führt der Weg zum Herrenhaus, wo die Architektur auch im Regen beeindruckt. Nachmittags wird der Spaziergang an der Venta-Brücke kürzer gehalten, um die Nässe zu meiden. Abends endet die Tour bei den Riesensesseln, wobei der graue Himmel eine mystische Atmosphäre schafft.",
+            "hu": "Reggel a Skrunda Kultúrház nyújt fedezéket a kezdéshez az eső elől. Délben a kúria belső terei és építészeti részletei jelentik a fő látnivalót. Délután a Venta-híd és a folyóparti sétány csak egy gyors kitérő a szélben, míg az este a hatalmas székeknél ér véget, amelyek esőben is különleges fotótémát adnak.",
+            "ro": "Dimineața, Casa de Cultură Skrunda oferă un refugiu uscat pentru începutul traseului. La prânz, conacul oferă protecție și o privire în istoria locală sub sunetul ploii. După-amiaza, podul peste Venta este parcurs rapid din cauza vremii, iar seara se încheie la Scaunele Giganților, unde reflexiile apei creează un decor dramatic.",
+            "en": "In the morning, the Skrunda Culture House provides a dry start to your journey. By noon, the manor's architecture shines even under grey skies, offering a brief indoor escape. Afternoon visits to the Venta bridge and promenade are kept short due to the wind, while the evening concludes at the Giant Chairs, which look mystical in the rain."
+          },
+          "stops": [
+            {
+              "name": "Skrunda Culture House",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den Regenschirm aufzuspannen.",
+                "hu": "Ideális hely az esernyők kibontásához.",
+                "ro": "Locul perfect pentru a pregăti umbrela.",
+                "en": "Ideal spot to prepare your umbrella."
+              }
+            },
+            {
+              "name": "Skrunda Manor",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Park von der Veranda.",
+                "hu": "Élvezze a park látványát a verandáról.",
+                "ro": "Bucurați-vă de vedere de pe verandă.",
+                "en": "Enjoy the park view from the veranda."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Die hohen Bäume bieten begrenzten Schutz.",
+                "hu": "A magas fák némi védelmet nyújtanak.",
+                "ro": "Copacii înalți oferă o protecție limitată.",
+                "en": "Tall trees offer limited shelter."
+              }
+            },
+            {
+              "name": "Skrunda Lutheran Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort zum Innehalten.",
+                "hu": "Csendes, száraz hely az elmélyüléshez.",
+                "ro": "Un loc liniștit și uscat pentru reculegere.",
+                "en": "A quiet, dry place for reflection."
+              }
+            },
+            {
+              "name": "Venta Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht, die Metallteile können rutschig sein.",
+                "hu": "Vigyázat, a fém részek csúszósak lehetnek.",
+                "ro": "Atenție, părțile metalice pot fi alunecoase.",
+                "en": "Caution, metal parts can be slippery."
+              }
+            },
+            {
+              "name": "River Promenade",
+              "tip_5lang": {
+                "de": "Ein wasserfester Mantel ist hier unerlässlich.",
+                "hu": "A vízálló kabát itt elengedhetetlen.",
+                "ro": "O haină impermeabilă este esențială aici.",
+                "en": "A waterproof coat is essential here."
+              }
+            },
+            {
+              "name": "The Giant Chairs",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, bevor es zu nass wird.",
+                "hu": "Gyors fotómegálló, mielőtt túl vizes lenne.",
+                "ro": "Oprire scurtă înainte de a deveni prea ud.",
+                "en": "Quick photo stop before getting too wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Innenräume des Herrenhauses für längere Pausen.",
+              "Ein stabiler Regenschirm ist wegen des Windes an der Venta wichtig.",
+              "Achten Sie auf Pfützen auf dem Weg zum Park.",
+              "Tragen Sie wasserfeste Wanderschuhe für die Uferwege."
+            ],
+            "hu": [
+              "Használja ki a kúria belső tereit a hosszabb pihenőkhöz.",
+              "A Venta menti szél miatt stabil esernyőre lesz szüksége.",
+              "Figyeljen a tócsákra a park felé vezető úton.",
+              "Viseljen vízálló cipőt a folyóparti szakaszokon."
+            ],
+            "ro": [
+              "Folosiți interiorul conacului pentru pauze mai lungi.",
+              "O umbrelă stabilă este necesară din cauza vântului de pe Venta.",
+              "Atenție la bălți pe drumul spre parc.",
+              "Purtați încălțăminte impermeabilă pentru malul râului."
+            ],
+            "en": [
+              "Use the manor's interior for longer breaks.",
+              "A sturdy umbrella is needed due to the wind by the Venta.",
+              "Watch out for puddles on the path to the park.",
+              "Wear waterproof shoes for the riverside sections."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am Morgen glitzert der Frost am Kulturhaus, während die Kälte die Luft frisch macht. Mittags bietet das Herrenhaus eine herrschaftliche Kulisse im Winterschlaf. Nachmittags ist das Licht an der Venta-Brücke vor dem frühen Sonnenuntergang besonders weich. Abends wirken die Riesensessel im Schnee wie aus einem Märchen gefallen, wenn die Dunkelheit Skrunda einhüllt.",
+            "hu": "Reggel a dér csillog a kultúrház falain, a csípős hideg pedig frissítően hat. Délben a Skrunda-kúria méltóságteljesen áll a téli tájban. Délután a Venta-hídnál a fények már a korai naplemente közeledtét jelzik. Este a havas óriásszékeknél zárul a nap, ahol a sötétség és a hóesés különleges, mesebeli hangulatot teremt a kisvárosban.",
+            "ro": "Dimineața, chiciura strălucește pe Casa de Cultură sub cerul rece. La prânz, conacul oferă un decor impunător în peisajul hibernal. După-amiaza, lumina de la podul Venta devine aurie înainte de apusul timpuriu. Seara se încheie la Scaunele Giganților, unde zăpada transformă monumentul într-o scenă de basm în liniștea nopții.",
+            "en": "Morning frost glistens on the culture house as the crisp air wakes you up. By noon, the manor stands grandly amidst the winter scenery. Afternoon light by the Venta bridge is soft before the early Latvian sunset. The evening ends at the Giant Chairs, where the snow creates a fairy-tale atmosphere as darkness falls over Skrunda."
+          },
+          "stops": [
+            {
+              "name": "Skrunda Culture House",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich kurz im Foyer auf.",
+                "hu": "Melegedjen fel egy kicsit az előtérben.",
+                "ro": "Încălziți-vă puțin în foaier.",
+                "en": "Warm up briefly in the foyer."
+              }
+            },
+            {
+              "name": "Skrunda Manor",
+              "tip_5lang": {
+                "de": "Perfekt für ein heißes Getränk im Inneren.",
+                "hu": "Tökéletes hely egy forró italhoz bent.",
+                "ro": "Perfect pentru o băutură caldă în interior.",
+                "en": "Perfect for a hot drink inside."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Wegen unter dem Schnee.",
+                "hu": "Vigyázat, a hó alatt jegesek lehetnek az utak.",
+                "ro": "Atenție la potecile înghețate sub zăpadă.",
+                "en": "Watch out for icy paths under the snow."
+              }
+            },
+            {
+              "name": "Skrunda Lutheran Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern schützen vor dem Wind.",
+                "hu": "A vastag falak védenek a szél ellen.",
+                "ro": "Zidurile groase oferă protecție contra vântului.",
+                "en": "Thick walls offer protection from the wind."
+              }
+            },
+            {
+              "name": "Venta Bridge",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Treibeis.",
+                "hu": "Élvezze a kilátást a zajló jégre.",
+                "ro": "Bucurați-vă de vederea gheții de pe râu.",
+                "en": "Enjoy the view of the drifting ice."
+              }
+            },
+            {
+              "name": "River Promenade",
+              "tip_5lang": {
+                "de": "Der Wind vom Fluss kann sehr schneidig sein.",
+                "hu": "A folyó felőli szél igen metsző lehet.",
+                "ro": "Vântul de pe râu poate fi foarte tăios.",
+                "en": "The river wind can be very biting."
+              }
+            },
+            {
+              "name": "The Giant Chairs",
+              "tip_5lang": {
+                "de": "Ein tolles Fotomotiv im weißen Schnee.",
+                "hu": "Remek fotótéma a fehér hóban.",
+                "ro": "O oportunitate foto excelentă în zăpadă.",
+                "en": "A great photo opportunity in the snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:00 Uhr unter.",
+              "Tragen Sie Thermokleidung, da Skrunda sehr windanfällig ist.",
+              "Ein Heißgetränk in der Thermoskanne ist sehr zu empfehlen.",
+              "Achten Sie auf Glätte auf der Brücke und am Ufer."
+            ],
+            "hu": [
+              "A nap télen már délután 4 óra körül lemegy.",
+              "Viseljen termaruházatot, Skrunda szeles hely.",
+              "Erősen ajánlott egy termosz forró teával.",
+              "Vigyázzon a csúszós szakaszokra a hídon és a parton."
+            ],
+            "ro": [
+              "Soarele apune deja în jur de ora 16:00 iarna.",
+              "Purtați haine termice, Skrunda este o zonă vântoasă.",
+              "Un termos cu ceai cald este recomandat.",
+              "Atenție la porțiunile alunecoase de pe pod și mal."
+            ],
+            "en": [
+              "Sunset occurs around 4:00 PM in winter.",
+              "Wear thermal clothing; Skrunda can be very windy.",
+              "A thermos with a hot drink is highly recommended.",
+              "Watch for slippery spots on the bridge and riverbank."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -790,6 +990,224 @@
           "Always lock your bike when you leave it.",
           "Many paths are flat and easy to ride, but be aware of traffic in the town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens startet die Tour an der Venta-Brücke, wo das Wasser unter dem Regen aufgewühlt wirkt. Mittags erreichen Sie das Kulturhaus, eine willkommene Pause vom nassen Sattel. Nachmittags führt die Route zum Herrenhaus, dessen Park im Regen besonders grün leuchtet. Abends endet die Fahrt am Schlosspark, während der Schlamm auf den Wegen die Anstrengung erhöht.",
+            "hu": "Reggel a Venta-hídnál kezdődik a tekerés, ahol a folyó vize borús esőben fodrozódik. Délben a kultúrház kínál pihenőt a nedves nyeregből kiszállva. Délután az útvonal a kúriához vezet, melynek parkja esőben mélyzöld színeket ölt. Az este a várparknál ér véget, miközben a felázott utak próbára teszik a kitartást.",
+            "ro": "Dimineața, tura începe la podul Venta, unde apa pare agitată sub ploaie. La prânz, ajungeți la Casa de Cultură pentru o pauză binevenită. După-amiaza, traseul continuă spre conac, al cărui parc strălucește în nuanțe de verde intens. Seara se încheie la parcul castelului, în timp ce noroiul de pe poteci adaugă o provocare suplimentară.",
+            "en": "The tour starts at the Venta bridge in the morning, where the water ripples under the rain. By noon, the culture house offers a welcome break from the wet saddle. Afternoon cycling leads to the manor, where the greenery looks vibrant in the wet. The evening ends at the Castle Park, with the damp paths testing your endurance."
+          },
+          "stops": [
+            {
+              "name": "Venta Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Untergrund.",
+                "hu": "Óvatosan fékezzen a nedves burkolaton.",
+                "ro": "Frânați cu prudență pe suprafața umedă.",
+                "en": "Brake carefully on the wet surface."
+              }
+            },
+            {
+              "name": "River Promenade",
+              "tip_5lang": {
+                "de": "Halten Sie den Lenker bei Windböen fest.",
+                "hu": "Erősen fogja a kormányt a széllökésekben.",
+                "ro": "Țineți bine ghidonul în rafalele de vânt.",
+                "en": "Hold the handlebars firmly in gusts of wind."
+              }
+            },
+            {
+              "name": "The Giant Chairs",
+              "tip_5lang": {
+                "de": "Schnell parken und Foto machen.",
+                "hu": "Gyors parkolás és fotózás.",
+                "ro": "Parcați rapid și faceți o fotografie.",
+                "en": "Park quickly and snap a photo."
+              }
+            },
+            {
+              "name": "War Cemetery",
+              "tip_5lang": {
+                "de": "Die Wege können hier etwas matschig sein.",
+                "hu": "Az utak itt kissé sárosak lehetnek.",
+                "ro": "Potecile pot fi puțin noroioase aici.",
+                "en": "Paths here can be a bit muddy."
+              }
+            },
+            {
+              "name": "Skrunda Lutheran Church",
+              "tip_5lang": {
+                "de": "Guter Ort für eine kurze Regenpause.",
+                "hu": "Jó hely egy rövid esőszünetre.",
+                "ro": "Un loc bun pentru o scurtă pauză de ploaie.",
+                "en": "A good place for a short rain break."
+              }
+            },
+            {
+              "name": "Skrunda Culture House",
+              "tip_5lang": {
+                "de": "Fahrradständer sind oft nicht überdacht.",
+                "hu": "A biciklitárolók gyakran fedetlenek.",
+                "ro": "Suporturile de biciclete nu sunt acoperite.",
+                "en": "Bike racks are often uncovered."
+              }
+            },
+            {
+              "name": "Skrunda Manor",
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Weg zum Eingang.",
+                "hu": "Használja a kövezett utat a bejárathoz.",
+                "ro": "Folosiți drumul pavat spre intrare.",
+                "en": "Use the paved path to the entrance."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschiges Laub auf dem Asphalt.",
+                "hu": "Vigyázzon a csúszós levelekre az aszfalton.",
+                "ro": "Atenție la frunzele alunecoase pe asfalt.",
+                "en": "Watch out for slippery leaves on the asphalt."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter Pflicht.",
+              "Ein wasserdichter Sattelbezug spart viel Ärger.",
+              "Vermeiden Sie tiefe Pfützen, da sie Schlaglöcher tarnen.",
+              "Wischen Sie die Felgenbremsen regelmäßig trocken."
+            ],
+            "hu": [
+              "A sárvédő használata ebben az időben kötelező.",
+              "Egy vízálló nyeregvédő sokat segít.",
+              "Kerülje a mély tócsákat, mert kátyúkat rejthetnek.",
+              "Rendszeresen törölje szárazra a felnifékeket."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii pe această vreme.",
+              "O husă de șa impermeabilă este foarte utilă.",
+              "Evitați bălțile adânci, pot ascunde gropi.",
+              "Ștergeți regulat jantele dacă aveți frâne pe jantă."
+            ],
+            "en": [
+              "Mudguards are mandatory in this weather.",
+              "A waterproof saddle cover is a lifesaver.",
+              "Avoid deep puddles as they might hide potholes.",
+              "Wipe rim brakes dry regularly for better grip."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt frisch an der Venta-Brücke, wo der kalte Fahrtwind die Wangen rötet. Mittags wärmt ein Stopp am Kulturhaus die Glieder auf. Nachmittags führt die Route durch das winterliche Skrunda zum Herrenhaus, während die tiefstehende Sonne lange Schatten wirft. Abends endet die Tour im Schlosspark, kurz bevor das Licht ganz schwindet und die Kälte zunimmt.",
+            "hu": "A reggel frissen indul a Venta-hídnál, ahol a menetszél hamar kipirosítja az arcot. Délben a kultúrházi megálló segít átmelegedni. Délután a téli Skrundán át kerekezünk a kúriáig, miközben az alacsonyan járó nap hosszú árnyékokat vet. Az este a várparkban ér véget, épp mielőtt a fények teljesen eltűnnének és felerősödne a fagy.",
+            "ro": "Dimineața începe energic la podul Venta, cu un vânt rece care vă pișcă obrajii. La prânz, oprirea la Casa de Cultură vă ajută să vă încălziți. După-amiaza, traseul traversează Skrunda hibernală spre conac, sub umbrele lungi ale soarelui jos. Seara se încheie în parcul castelului, înainte ca lumina să dispară și gerul să se intensifice.",
+            "en": "Morning starts briskly at the Venta bridge, where the cold wind reddens your cheeks. By noon, the stop at the culture house warms your limbs. Afternoon cycling through winter Skrunda leads to the manor as the low sun casts long shadows. The evening wraps up in the Castle Park just before the light fades and the frost settles in."
+          },
+          "stops": [
+            {
+              "name": "Venta Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe auf der Brücke.",
+                "hu": "Vigyázat, a hídon ráfagyásos jegesedés lehet.",
+                "ro": "Atenție la polei pe suprafața podului.",
+                "en": "Watch out for black ice on the bridge."
+              }
+            },
+            {
+              "name": "River Promenade",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die Lenkerführung wichtig.",
+                "hu": "A kesztyű elengedhetetlen a kormányzáshoz.",
+                "ro": "Mănușile sunt esențiale pentru ghidaj.",
+                "en": "Gloves are essential for handling the bike."
+              }
+            },
+            {
+              "name": "The Giant Chairs",
+              "tip_5lang": {
+                "de": "Die Stühle können mit Schnee bedeckt sein.",
+                "hu": "A székeket vastag hó boríthatja.",
+                "ro": "Scaunele pot fi acoperite cu zăpadă.",
+                "en": "The chairs might be covered in snow."
+              }
+            },
+            {
+              "name": "War Cemetery",
+              "tip_5lang": {
+                "de": "Ruhiger Ort, oft nicht geräumt.",
+                "hu": "Csendes hely, gyakran nincs letakarítva a hó.",
+                "ro": "Loc liniștit, adesea necurățat de zăpadă.",
+                "en": "Quiet spot, often not cleared of snow."
+              }
+            },
+            {
+              "name": "Skrunda Lutheran Church",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher auf festem Grund ab.",
+                "hu": "Stabil talajon támassza le a biciklit.",
+                "ro": "Parcați bicicleta pe un teren stabil.",
+                "en": "Park the bike on stable ground."
+              }
+            },
+            {
+              "name": "Skrunda Culture House",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Luftdruck bei Kälte.",
+                "hu": "Hidegben ellenőrizze a guminyomást.",
+                "ro": "Verificați presiunea roților în frig.",
+                "en": "Check tire pressure in cold weather."
+              }
+            },
+            {
+              "name": "Skrunda Manor",
+              "tip_5lang": {
+                "de": "Das Herrenhaus wirkt im Frost imposant.",
+                "hu": "A kúria impozáns látvány a dérben.",
+                "ro": "Conacul arată impunător în chiciură.",
+                "en": "The manor looks imposing in the frost."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Beleuchtung prüfen, es wird früh dunkel.",
+                "hu": "Ellenőrizze a lámpákat, korán sötétedik.",
+                "ro": "Verificați luminile, se întunecă devreme.",
+                "en": "Check your lights; it gets dark early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Reifen mit gutem Profil für den Schnee.",
+              "Schmieren Sie die Kette häufiger gegen Streusalz.",
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip).",
+              "Reflektoren sind bei kurzem Tageslicht lebenswichtig."
+            ],
+            "hu": [
+              "Használjon jó profilú gumikat a hóhoz.",
+              "Gyakrabban kenje a láncot a sózás ellen.",
+              "Öltözzön rétegesen a menetszél miatt.",
+              "A fényvisszaverők életmentőek a rövid nappalokon."
+            ],
+            "ro": [
+              "Folosiți anvelope cu profil bun pentru zăpadă.",
+              "Lubrifiați lanțul mai des împotriva sării.",
+              "Purtați mai multe straturi de haine.",
+              "Reflectorizantele sunt vitale la lumina scurtă a zilei."
+            ],
+            "en": [
+              "Use tires with good tread for the snow.",
+              "Lubricate the chain more often to fight road salt.",
+              "Dress in layers against the wind chill.",
+              "Reflectors are vital during short daylight hours."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1146,6 +1564,188 @@
           "Do not leave valuables in the car.",
           "The surrounding roads might be narrow, so drive carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt gemütlich im Auto auf dem Weg zum Herrenhaus, während die Scheibenwischer den Takt vorgeben. Mittags ist der kurze Gang durch den Schlosspark erfrischend, bevor man ins trockene Fahrzeug zurückkehrt. Nachmittags bietet die Fahrt zur Venta-Brücke einen tollen Ausblick, ohne nass zu werden. Abends endet der Tag bei den Riesensesseln im warmen Licht der Scheinwerfer.",
+            "hu": "A reggel kényelmesen indul az autóban a kúria felé, miközben az ablaktörlők adják az ütemet. Délben egy rövid séta a várparkban frissítő, mielőtt visszatérnénk a száraz járműbe. Délután a Venta-hídhoz vezető út szép kilátást kínál anélkül, hogy megáznánk. Az este a hatalmas székeknél zárul, a fényszórók meleg fényében.",
+            "ro": "Dimineața începe confortabil în mașină spre conac, cu ștergătoarele marcând ritmul ploii. La prânz, o scurtă plimbare în parcul castelului este revigorantă înainte de a reveni în vehiculul uscat. După-amiaza, drumul spre podul Venta oferă vederi frumoase fără a vă uda. Seara se încheie la Scaunele Giganților, în lumina farurilor.",
+            "en": "Morning starts comfortably in the car heading to the manor while wipers set the rhythm. By noon, a quick stroll in the Castle Park is refreshing before returning to the dry vehicle. Afternoon driving to the Venta bridge offers great views without getting soaked. The day ends at the Giant Chairs in the warm glow of the headlights."
+          },
+          "stops": [
+            {
+              "name": "Skrunda Manor",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Haupteingang.",
+                "hu": "Parkoljon közel a főbejárathoz.",
+                "ro": "Parcați aproape de intrarea principală.",
+                "en": "Park close to the main entrance."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Schuhe vor dem Einsteigen gut abtreten.",
+                "hu": "Beszállás előtt alaposan törölje le a cipőjét.",
+                "ro": "Ștergeți bine încălțămintea înainte de urcare.",
+                "en": "Wipe your shoes well before getting in."
+              }
+            },
+            {
+              "name": "Skrunda Lutheran Church",
+              "tip_5lang": {
+                "de": "Die Parkmöglichkeiten sind direkt davor.",
+                "hu": "Parkolási lehetőség közvetlenül előtte.",
+                "ro": "Locuri de parcare chiar în față.",
+                "en": "Parking is available right in front."
+              }
+            },
+            {
+              "name": "Venta Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht bei Aquaplaning auf der Zufahrt.",
+                "hu": "Vigyázat, felúszásveszély a bekötőúton.",
+                "ro": "Atenție la acvaplanare pe drumul de acces.",
+                "en": "Watch out for aquaplaning on the access road."
+              }
+            },
+            {
+              "name": "River Promenade",
+              "tip_5lang": {
+                "de": "Kurzer Stopp am Aussichtspunkt ist ideal.",
+                "hu": "Rövid megálló a kilátópontnál az ideális.",
+                "ro": "O oprire scurtă la punctul de belvedere e ideală.",
+                "en": "A short stop at the viewpoint is ideal."
+              }
+            },
+            {
+              "name": "The Giant Chairs",
+              "tip_5lang": {
+                "de": "Lassen Sie das Standlicht für Fotos an.",
+                "hu": "Hagyja égve a helyzetjelzőt a fotókhoz.",
+                "ro": "Lăsați pozițiile aprinse pentru fotografii.",
+                "en": "Keep the parking lights on for photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie die Lüftung auf Entfrosten, um Beschlag zu vermeiden.",
+              "Halten Sie einen Regenschirm im Türfach bereit.",
+              "Prüfen Sie den Zustand der Wischerblätter.",
+              "Fahren Sie in Kurven langsamer wegen der nassen Blätter."
+            ],
+            "hu": [
+              "Állítsa a szellőzést páramentesítésre.",
+              "Tartson esernyőt az ajtózsebben.",
+              "Ellenőrizze az ablaktörlő lapátok állapotát.",
+              "A kanyarokban lassítson a nedves levelek miatt."
+            ],
+            "ro": [
+              "Setați ventilația pentru dezaburire.",
+              "Țineți o umbrelă în buzunarul portierei.",
+              "Verificați starea lamelelor ștergătoarelor.",
+              "Încetiniți în curbe din cauza frunzelor ude."
+            ],
+            "en": [
+              "Set ventilation to defrost to avoid fogging.",
+              "Keep an umbrella ready in the door pocket.",
+              "Check the condition of your wiper blades.",
+              "Slow down in curves due to wet leaves."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens muss das Auto am Herrenhaus erst vom Eis befreit werden, während die Heizung langsam warm wird. Mittags ist der Blick aus dem Wagen auf den verschneiten Schlosspark zauberhaft. Nachmittags führt die Fahrt sicher über die gestreuten Straßen zur Venta-Brücke. Abends bilden die beleuchteten Riesensessel den glanzvollen Abschluss einer sicheren und warmen Winterreise.",
+            "hu": "Reggel a kúriánál először le kell takarítani a jeget az autóról, miközben a fűtés lassan bemelegszik. Délben varázslatos a kilátás a kocsiból a havas várparkra. Délután az út biztonságosan vezet a sózott utakon a Venta-hídig. Este a kivilágított óriásszékek adják a méltó lezárását egy biztonságos és meleg téli utazásnak.",
+            "ro": "Dimineața, mașina trebuie curățată de gheață la conac în timp ce căldura pornește încet. La prânz, vederea din vehicul spre parcul înzăpezit este magică. După-amiaza, drumul continuă în siguranță pe șoselele deszăpezite spre podul Venta. Seara, scaunele iluminate oferă un final strălucitor unei călătorii de iarnă calde.",
+            "en": "In the morning, the car at the manor needs de-icing while the heater warms up. By noon, the view from the window of the snowy Castle Park is magical. Afternoon driving stays safe on treated roads to the Venta bridge. The evening concludes at the illuminated Giant Chairs, a glowing end to a warm winter trip."
+          },
+          "stops": [
+            {
+              "name": "Skrunda Manor",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz warm laufen.",
+                "hu": "Hagyja kicsit melegedni a motort.",
+                "ro": "Lăsați motorul să se încălzească puțin.",
+                "en": "Let the engine warm up briefly."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Parkplatz kann ungeräumt sein.",
+                "hu": "A parkoló lehet, hogy nincs letakarítva.",
+                "ro": "Parcarea ar putea fi necurățată.",
+                "en": "Parking lot might not be cleared of snow."
+              }
+            },
+            {
+              "name": "Skrunda Lutheran Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf Glatteis.",
+                "hu": "Vigyázat a kiszálláskor a tükörjégen.",
+                "ro": "Atenție la coborâre pe gheață.",
+                "en": "Watch your step on black ice when exiting."
+              }
+            },
+            {
+              "name": "Venta Bridge",
+              "tip_5lang": {
+                "de": "Bremsweg auf der Brücke ist deutlich länger.",
+                "hu": "A féktáv a hídon jóval hosszabb.",
+                "ro": "Distanța de frânare pe pod e mult mai mare.",
+                "en": "Braking distance on the bridge is much longer."
+              }
+            },
+            {
+              "name": "River Promenade",
+              "tip_5lang": {
+                "de": "Heckscheibenheizung einschalten.",
+                "hu": "Kapcsolja be a hátsó ablakfűtést.",
+                "ro": "Porniți degivrarea lunetei.",
+                "en": "Turn on the rear window defroster."
+              }
+            },
+            {
+              "name": "The Giant Chairs",
+              "tip_5lang": {
+                "de": "Parken Sie auf festem Untergrund.",
+                "hu": "Parkoljon szilárd talajon.",
+                "ro": "Parcați pe teren solid.",
+                "en": "Park on solid ground."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Lettland ab Dezember Pflicht.",
+              "Führen Sie einen Eiskratzer und Besen im Auto mit.",
+              "Prüfen Sie den Frostschutz der Waschanlage.",
+              "Halten Sie den Tank für Notfälle über viertelvoll."
+            ],
+            "hu": [
+              "Lettországban decembertől kötelező a téli gumi.",
+              "Legyen jégkaparó és kefe az autóban.",
+              "Ellenőrizze az ablakmosó fagyállóságát.",
+              "Tartsa az üzemanyagszintet negyed felett."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Letonia.",
+              "Aveți mereu o racletă și o perie în mașină.",
+              "Verificați lichidul de parbriz antigel.",
+              "Mențineți rezervorul peste un sfert plin."
+            ],
+            "en": [
+              "Winter tires are mandatory in Latvia from December.",
+              "Keep an ice scraper and brush in the car.",
+              "Check your washer fluid's freezing point.",
+              "Keep the fuel tank above a quarter for safety."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1502,6 +2102,188 @@
           "Keep an eye on the time so you don't miss the last bus back.",
           "Ask locals for the right stop; they are usually helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet der Bus zum Kulturhaus Schutz vor den ersten Tropfen. Mittags ist der Aufenthalt in der Kirche ein ruhiger Moment im Trockenen. Nachmittags führt der Weg zum Herrenhaus, wobei man die Fahrpläne im Blick behalten sollte, um nicht im Regen zu warten. Abends endet die Tour bei den Riesensesseln, während die Lichter der Stadt im nassen Asphalt reflektieren.",
+            "hu": "Reggel a kultúrházhoz tartó busz megvéd az első cseppektől. Délben a templomban töltött idő nyugodt, száraz pillanatot nyújt. Délután a kúria felé tartva érdemes figyelni a menetrendet, hogy ne kelljen sokat várni az esőben. Az este a hatalmas székeknél zárul, miközben a város fényei megcsillannak a vizes aszfalton.",
+            "ro": "Dimineața, autobuzul spre Casa de Cultură oferă protecție contra primilor stropi. La prânz, timpul petrecut în biserică este un moment liniștit la adăpost. După-amiaza, spre conac, urmăriți orarul pentru a nu aștepta în ploaie. Seara se încheie la Scaunele Giganților, cu luminile orașului reflectate în asfaltul ud.",
+            "en": "Morning bus rides to the culture house shield you from the first drops. By noon, the time in the church is a quiet, dry moment. Afternoon travel to the manor requires keeping an eye on schedules to avoid waiting in the rain. The evening wraps up at the Giant Chairs as city lights shimmer on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": "Skrunda Culture House",
+              "tip_5lang": {
+                "de": "Wartebereich im Gebäude nutzen.",
+                "hu": "Használja az épületen belüli várót.",
+                "ro": "Folosiți zona de așteptare din interior.",
+                "en": "Use the waiting area inside the building."
+              }
+            },
+            {
+              "name": "Skrunda Lutheran Church",
+              "tip_5lang": {
+                "de": "Bushaltestelle ist in Gehweite.",
+                "hu": "A buszmegálló gyalogtávra van.",
+                "ro": "Stația de autobuz este la mică distanță.",
+                "en": "The bus stop is within walking distance."
+              }
+            },
+            {
+              "name": "Skrunda Manor",
+              "tip_5lang": {
+                "de": "Bester Ort für eine Teepause.",
+                "hu": "A legjobb hely egy teázáshoz.",
+                "ro": "Cel mai bun loc pentru o pauză de ceai.",
+                "en": "Best place for a tea break."
+              }
+            },
+            {
+              "name": "Venta Bridge",
+              "tip_5lang": {
+                "de": "Haltestelle bietet wenig Regenschutz.",
+                "hu": "A megálló kevés védelmet nyújt az eső ellen.",
+                "ro": "Stația oferă puțină protecție contra ploii.",
+                "en": "The stop offers little rain protection."
+              }
+            },
+            {
+              "name": "River Promenade",
+              "tip_5lang": {
+                "de": "Laufen Sie zügig zum nächsten Unterstand.",
+                "hu": "Sétáljon gyorsan a következő fedett részig.",
+                "ro": "Mergeți rapid spre următorul adăpost.",
+                "en": "Walk quickly to the next shelter."
+              }
+            },
+            {
+              "name": "The Giant Chairs",
+              "tip_5lang": {
+                "de": "Prüfen Sie die letzte Abfahrt online.",
+                "hu": "Ellenőrizze az utolsó járatot online.",
+                "ro": "Verificați ultima cursă online.",
+                "en": "Check the last departure online."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine Regenjacke, da Umstiege im Freien sind.",
+              "Die App '1188.lv' hilft bei lettischen Busverbindungen.",
+              "Halten Sie Kleingeld für das Ticket beim Fahrer bereit.",
+              "Wartehäuschen sind in Skrunda oft klein."
+            ],
+            "hu": [
+              "Viseljen esőkabátot, az átszállások kint vannak.",
+              "A '1188.lv' app segít a lett buszjáratoknál.",
+              "Legyen aprópénze a sofőrnél váltott jegyhez.",
+              "A buszvárók Skrundában gyakran kicsik."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie pentru transferuri.",
+              "Aplicația '1188.lv' ajută la rutele de autobuz.",
+              "Aveți bani mărunți pentru biletul de la șofer.",
+              "Adăposturile de autobuz sunt adesea mici."
+            ],
+            "en": [
+              "Wear a raincoat as transfers are outdoors.",
+              "The '1188.lv' app is helpful for Latvian bus routes.",
+              "Have small change ready for tickets from the driver.",
+              "Bus shelters in Skrunda are often small."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am frostigen Morgen bringt der geheizte Bus Sie zum Kulturhaus. Mittags bietet die Kirche eine andächtige Stille fernab der Kälte. Nachmittags ist die Fahrt zum Herrenhaus besonders stimmungsvoll, wenn der Schnee die Landschaft in Weiß taucht. Abends ist der Besuch der Riesensessel kurz, bevor der nächste Bus zurück ins Warme fährt und der Wintertag in Skrunda endet.",
+            "hu": "A fagyos reggelen a fűtött busz repít a kultúrházig. Délben a templom áhítatos csendje nyújt menedéket a hideg elől. Délután a kúria felé vezető út különösen hangulatos, ahogy a hó fehérbe öltözteti a tájat. Este az óriásszékeknél tett látogatás rövid, mielőtt a következő busz visszavinne a melegbe, lezárva a skrundai téli napot.",
+            "ro": "În dimineața geroasă, autobuzul încălzit vă duce la Casa de Cultură. La prânz, biserica oferă o liniște pioasă departe de frig. După-amiaza, drumul spre conac este atmosferic sub mantia de zăpadă a peisajului. Seara, vizita la scaune este scurtă înainte ca următorul autobuz să vă ducă la căldură.",
+            "en": "On a frosty morning, the heated bus takes you to the culture house. By noon, the church provides a solemn escape from the cold. Afternoon travel to the manor is atmospheric as snow blankets the landscape. The evening visit to the chairs is brief before the next bus arrives to whisk you back to warmth."
+          },
+          "stops": [
+            {
+              "name": "Skrunda Culture House",
+              "tip_5lang": {
+                "de": "Warten Sie drinnen, bis der Bus kommt.",
+                "hu": "Várjon bent, amíg a busz megérkezik.",
+                "ro": "Așteptați în interior până vine autobuzul.",
+                "en": "Wait inside until the bus arrives."
+              }
+            },
+            {
+              "name": "Skrunda Lutheran Church",
+              "tip_5lang": {
+                "de": "Vorsicht, die Stufen können vereist sein.",
+                "hu": "Vigyázat, a lépcsők jegesek lehetnek.",
+                "ro": "Atenție, treptele pot fi înghețate.",
+                "en": "Caution, the steps might be icy."
+              }
+            },
+            {
+              "name": "Skrunda Manor",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Innenraum.",
+                "hu": "Élvezze a benti meleget.",
+                "ro": "Bucurați-vă de căldura din interior.",
+                "en": "Enjoy the warmth indoors."
+              }
+            },
+            {
+              "name": "Venta Bridge",
+              "tip_5lang": {
+                "de": "Der Wind an der Haltestelle ist eiskalt.",
+                "hu": "A szél a megállóban jéghideg.",
+                "ro": "Vântul în stație este înghețat.",
+                "en": "The wind at the stop is freezing."
+              }
+            },
+            {
+              "name": "River Promenade",
+              "tip_5lang": {
+                "de": "Winterstiefel mit gutem Grip nutzen.",
+                "hu": "Használjon jó tapadású téli bakancsot.",
+                "ro": "Purtați ghete de iarnă cu aderență bună.",
+                "en": "Use winter boots with good grip."
+              }
+            },
+            {
+              "name": "The Giant Chairs",
+              "tip_5lang": {
+                "de": "Halten Sie sich am Geländer fest.",
+                "hu": "Kapaszkodjon meg a korlátban.",
+                "ro": "Țineți-vă bine de balustradă.",
+                "en": "Hold onto the railing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Schneefall Verspätung haben.",
+              "Warten Sie lieber in Cafés als an zugigen Haltestellen.",
+              "Tragen Sie warme Socken für die Gehminuten.",
+              "Die Fahrpläne ändern sich im Winter kaum."
+            ],
+            "hu": [
+              "Erős hóesésben a buszok késhetnek.",
+              "Inkább kávézókban várjon, mint huzatos megállókban.",
+              "Viseljen meleg zoknit a gyalogos szakaszokhoz.",
+              "A menetrendek télen alig változnak."
+            ],
+            "ro": [
+              "Autobuzele pot întârzia în caz de ninsoare abundentă.",
+              "Așteptați în cafenele, nu în stații cu curent.",
+              "Purtați șosete groase pentru minutele de mers.",
+              "Orarele se schimbă foarte puțin iarna."
+            ],
+            "en": [
+              "Buses may be delayed during heavy snowfall.",
+              "Wait in cafes rather than drafty bus stops.",
+              "Wear warm socks for the walking minutes.",
+              "Schedules rarely change in winter."
+            ]
+          }
+        }
       }
     }
   }

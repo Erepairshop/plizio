@@ -426,6 +426,224 @@
           "It can get crowded during the summer. Start your day early to avoid the crowds.",
           "The Imperial Villa requires a guided tour; it's worth checking times and booking in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Trinkhalle perfekten Schutz vor dem Regen, während Sie Ihren ersten Plan machen. Mittags verbringen Sie viel Zeit im Stadtmuseum und in der Lehár-Villa, wo das Wetter draußen keine Rolle spielt. Am Nachmittag führt der Weg zur Kaiservilla durch den nassen Park, was eine mystische Stimmung erzeugt. Den Abend lassen Sie gemütlich bei Zauner ausklingen.",
+            "hu": "A reggeli eső elől a Trinkhalle oszlopcsarnoka nyújt menedéket a városnézés kezdetén. Napközben a hangsúly a belső tereken van: a Városi Múzeum és a Lehár-villa száraz és tartalmas programot ígér. Délután az esernyők alatt sétálunk át a Császárvillához, ahol a ködös park különleges hangulatot áraszt. Az estét a Zauner cukrászda melegében, sütemények mellett zárjuk.",
+            "ro": "Dimineața, Trinkhalle oferă un adăpost excelent împotriva ploii în timp ce vă organizați traseul. La prânz, vizitele la Muzeul Orașului și Vila Lehár vă țin la adăpost în interioare istorice fascinante. După-amiaza, drumul spre Vila Imperială prin parcul umed creează o atmosferă mistică sub umbrelă. Seara se încheie confortabil la cofetăria Zauner, departe de stropii de ploaie.",
+            "en": "In the morning, the Trinkhalle provides perfect shelter from the rain as you begin your tour. During midday, focus on the indoor treasures of the City Museum and Lehár Villa. In the afternoon, the walk to the Imperial Villa through the misty park offers a unique, melancholic beauty. Finish the day drying off in the warm, historic atmosphere of the Zauner confectionery."
+          },
+          "stops": [
+            {
+              "name": "Arrival & First Impression at the Trinkhalle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Trinkhalle als überdachten Treffpunkt und Informationszentrum.",
+                "hu": "Használja a Trinkhalle csarnokát esővédett találkozási pontnak és információszerzésre.",
+                "ro": "Folosiți Trinkhalle ca punct de întâlnire acoperit și centru de informare.",
+                "en": "Use the Trinkhalle hall as a covered meeting point and information center."
+              }
+            },
+            {
+              "name": "Parish Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine Regenpause mit beeindruckenden Altarbildern.",
+                "hu": "Csendes hely egy esőszünetre, lenyűgöző oltárképekkel a száraz belsőben.",
+                "ro": "Un loc liniștit pentru o pauză de ploaie, cu picturi de altar impresionante.",
+                "en": "A quiet place for a rain break with impressive altarpieces in a dry interior."
+              }
+            },
+            {
+              "name": "Museum of the town of Bad Ischl",
+              "tip_5lang": {
+                "de": "Idealer Ort, um eine längere Regenfront trocken zu überbrücken.",
+                "hu": "Ideális helyszín egy hosszabb esőfront szárazon történő átvészeléséhez.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei reprize lungi de ploaie.",
+                "en": "Ideal location to bridge a longer rain front while staying completely dry."
+              }
+            },
+            {
+              "name": "Congress & Theatre House",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach möglich, bevor es weitergeht.",
+                "hu": "Rövid megálló az előtető alatt lehetséges, mielőtt továbbindulna.",
+                "ro": "Scurt popas sub streșină posibil înainte de a continua drumul.",
+                "en": "Short stop under the canopy possible before continuing your route."
+              }
+            },
+            {
+              "name": "Lehár Villa",
+              "tip_5lang": {
+                "de": "Besichtigung der Innenräume ist perfekt für nasses Wetter geeignet.",
+                "hu": "A belső terek megtekintése tökéletes program nedves, esős időben.",
+                "ro": "Vizitarea interioarelor este o activitate perfectă pentru vreme umedă.",
+                "en": "The indoor tour of the villa is perfectly suited for wet weather."
+              }
+            },
+            {
+              "name": "Imperial Villa",
+              "tip_5lang": {
+                "de": "Die Führung durch die Kaiservilla lässt Sie den Regen draußen vergessen.",
+                "hu": "A Császárvilla belső vezetése alatt teljesen elfelejtheti a kinti esőt.",
+                "ro": "Turul ghidat al Vilei Imperiale vă face să uitați de ploaia de afară.",
+                "en": "The guided tour inside the Imperial Villa lets you forget the rain outside."
+              }
+            },
+            {
+              "name": "Kurpark Bad Ischl",
+              "tip_5lang": {
+                "de": "Nutzen Sie die befestigten Wege; bei starkem Regen eher kurz halten.",
+                "hu": "Használja a szilárd burkolatú utakat; erős esőben érdemes lerövidíteni.",
+                "ro": "Folosiți aleile pavate; scurtați vizita în caz de ploaie torențială.",
+                "en": "Stick to the paved paths; keep the visit short during heavy downpours."
+              }
+            },
+            {
+              "name": "Confectionery Zauner",
+              "tip_5lang": {
+                "de": "Der beste Ort, um nasse Kleidung bei einer Melange zu trocknen.",
+                "hu": "A legjobb hely a nedves ruhák megszárítására egy bécsi kávé mellett.",
+                "ro": "Cel mai bun loc pentru a vă usca hainele la o cafea Melange.",
+                "en": "The best spot to dry off your clothes over a traditional Melange coffee."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Stockschirm ist im Salzkammergut wegen plötzlicher Schnürlregen Pflicht.",
+              "Die Gehwege im Zentrum sind meist asphaltiert, aber in den Parks können sie rutschig sein.",
+              "Die Trinkhalle und das Stadtmuseum bieten gute Rückzugsorte bei starkem Guss.",
+              "Tragen Sie wasserfeste Schuhe, da sich in den Parkanlagen Pfützen bilden können."
+            ],
+            "hu": [
+              "A Salzkammergut vidékén a hirtelen esők miatt kötelező a stabil esernyő.",
+              "A belváros járdái többnyire aszfaltozottak, de a parkokban csúszósak lehetnek az utak.",
+              "A Trinkhalle és a Városi Múzeum jó menedékhelyek erős zápor esetén.",
+              "Vízálló cipő ajánlott, mivel a parkos részeken nagyobb tócsák alakulhatnak ki."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este obligatorie în Salzkammergut din cauza ploilor subite.",
+              "Trotuarele din centru sunt asfaltate, dar aleile din parcuri pot deveni alunecoase.",
+              "Trinkhalle și Muzeul Orașului oferă adăpost bun în caz de aversă puternică.",
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți în zonele verzi."
+            ],
+            "en": [
+              "A sturdy umbrella is a must in Salzkammergut due to sudden, heavy rain showers.",
+              "Central sidewalks are mostly paved, but park paths can get slippery when wet.",
+              "The Trinkhalle and City Museum are excellent refuges during heavy downpours.",
+              "Wear waterproof shoes as puddles often form in the park and villa grounds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt erfrischend an der Trinkhalle, oft umhüllt von leichtem Nebel. Mittags bieten die Museen und Villen angenehme Wärme und kulturelle Tiefe. Da es bereits gegen 16:30 Uhr dunkel wird, erstrahlt der Kurpark im festlichen Lichterglanz. Der Tag endet bei heißer Schokolade im legendären Zauner, während draußen der Frost klirrt.",
+            "hu": "A téli reggel frissítően indul a Trinkhalle környékén, gyakran ködbe burkolózva. Napközben a múzeumok és villák kellemes meleget és kulturális feltöltődést nyújtanak. Mivel 16:30 körül sötétedik, a Kurpark már délután ünnepi díszkivilágításban úszik. A napot forró csokoládéval zárjuk a Zaunerben, miközben kint röpködnek a mínuszok.",
+            "ro": "Dimineața de iarnă începe revigorant la Trinkhalle, adesea învăluită în ceață ușoară. La prânz, muzeele și vilele oferă căldură plăcută și profunzime culturală. Deoarece se întunecă în jur de ora 16:30, parcul Kurpark strălucește în lumini festive. Ziua se încheie cu o ciocolată caldă la legendarul Zauner, în timp ce afară gerul strânge.",
+            "en": "The winter morning starts refreshingly at the Trinkhalle, often shrouded in a light mist. During midday, the museums and villas provide welcoming warmth and cultural depth. As darkness falls around 4:30 PM, the Kurpark glows with festive lights. The day concludes with a thick hot chocolate at the legendary Zauner as the frost settles outside."
+          },
+          "stops": [
+            {
+              "name": "Arrival & First Impression at the Trinkhalle",
+              "tip_5lang": {
+                "de": "Holen Sie sich Informationen zu aktuellen Adventveranstaltungen im Haus.",
+                "hu": "Kérjen információt az épületben az aktuális adventi rendezvényekről.",
+                "ro": "Cereți informații despre evenimentele de Advent din interior.",
+                "en": "Inquire inside for information on current local Advent events."
+              }
+            },
+            {
+              "name": "Parish Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Bewundern Sie die traditionellen Krippen, die im Winter oft ausgestellt sind.",
+                "hu": "Csodálja meg a hagyományos betlehemeket, melyeket télen gyakran kiállítanak.",
+                "ro": "Admirați ieslele tradiționale expuse adesea în timpul iernii.",
+                "en": "Admire the traditional nativity scenes often on display during winter."
+              }
+            },
+            {
+              "name": "Museum of the town of Bad Ischl",
+              "tip_5lang": {
+                "de": "Perfekt aufgewärmt lässt sich die Stadtgeschichte viel besser erkunden.",
+                "hu": "Tökéletesen átmelegedve sokkal kellemesebb a város történetének felfedezése.",
+                "ro": "Perfect încălziți, puteți explora mult mai bine istoria orașului.",
+                "en": "Once warmed up, exploring the town's history is much more enjoyable."
+              }
+            },
+            {
+              "name": "Congress & Theatre House",
+              "tip_5lang": {
+                "de": "Achten Sie auf winterliche Operettenaufführungen im Spielplan.",
+                "hu": "Figyelje a téli operett-előadásokat a színház műsortervében.",
+                "ro": "Verificați programul pentru spectacole de operetă de iarnă.",
+                "en": "Check the schedule for winter operetta performances during your visit."
+              }
+            },
+            {
+              "name": "Lehár Villa",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winter-Öffnungszeiten vorab (oft eingeschränkt).",
+                "hu": "Előzetesen ellenőrizze a téli nyitvatartást (gyakran korlátozott).",
+                "ro": "Verificați programul de iarnă în avans (adesea este limitat).",
+                "en": "Check winter opening hours in advance as they are often restricted."
+              }
+            },
+            {
+              "name": "Imperial Villa",
+              "tip_5lang": {
+                "de": "Der Park wirkt im Schnee wie eine kaiserliche Winterlandschaft.",
+                "hu": "A park a hóban olyan, mint egy császári téli tájkép.",
+                "ro": "Parcul arată ca un peisaj imperial de iarnă sub zăpadă.",
+                "en": "The park looks like an imperial winter wonderland under the snow."
+              }
+            },
+            {
+              "name": "Kurpark Bad Ischl",
+              "tip_5lang": {
+                "de": "Genießen Sie die Weihnachtsbeleuchtung bei einem kurzen Spaziergang.",
+                "hu": "Élvezze a karácsonyi kivilágítást egy rövid séta alkalmával.",
+                "ro": "Bucurați-vă de iluminatul de Crăciun în timpul unei scurte plimbări.",
+                "en": "Enjoy the festive Christmas lighting during a quick afternoon stroll."
+              }
+            },
+            {
+              "name": "Confectionery Zauner",
+              "tip_5lang": {
+                "de": "Probieren Sie den berühmten Zaunerstollen zur Weihnachtszeit.",
+                "hu": "Kóstolja meg a híres Zauner-stollent a karácsonyi szezonban.",
+                "ro": "Gustați celebrul Zaunerstollen în perioada Crăciunului.",
+                "en": "Try the famous Zaunerstollen (Stollen cake) during the festive season."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung im Zwiebelprinzip ist für den Wechsel zwischen Kälte und Museen ideal.",
+              "Die Sonne verschwindet früh hinter den Bergen; planen Sie Außenaktivitäten vor 15:30 Uhr.",
+              "Bei Schnee kann es auf den Gehwegen glatt sein, tragen Sie griffiges Schuhwerk.",
+              "Besuchen Sie nach dem Rundgang die Eurotherme für ein heißes Solebad."
+            ],
+            "hu": [
+              "A réteges öltözködés ideális a kinti hideg és a fűtött múzeumok közötti váltáshoz.",
+              "A nap korán eltűnik a hegyek mögött; a kinti programokat tervezze 15:30 elé.",
+              "Hó esetén a járdák csúszósak lehetnek, viseljen jó tapadású talpú cipőt.",
+              "A városnézés után látogasson el az Eurotherme fürdőbe egy forró sós vizes fürdőre."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este ideală pentru trecerea de la frig la muzeele încălzite.",
+              "Soarele dispare devreme după munți; planificați activitățile externe înainte de 15:30.",
+              "În caz de zăpadă, trotuarele pot fi alunecoase; purtați încălțăminte cu aderență bună.",
+              "După tur, vizitați Eurotherme pentru o baie caldă cu apă sărată."
+            ],
+            "en": [
+              "Layered clothing is ideal for moving between the cold air and heated museums.",
+              "The sun disappears early behind the mountains; finish outdoor visits by 3:30 PM.",
+              "Pavements can be slippery in snow; wear footwear with good grip.",
+              "After the tour, consider visiting Eurotherme for a hot salt-water thermal bath."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -846,6 +1064,224 @@
           "A bike lock is essential to enjoy the sights without worry.",
           "Bring a water bottle with you, especially on warmer days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen lässt sich Bad Ischl per Rad erkunden, wenn man die kurzen Wege nutzt. Am Vormittag radeln Sie schnell zwischen den kulturellen Highlights im Zentrum hin und her. Mittags bietet die längere Pause im Museum Schutz. Die Fahrt entlang der Traun zur Lehár-Villa ist bei Regen stimmungsvoll, erfordert aber Vorsicht auf nassen Brücken. Der Tag endet sicher am Radständer vor dem Café Zauner.",
+            "hu": "Az eső ellenére a rövid távok miatt Bad Ischl kerékpárral is bejárható. Délelőtt gyorsan válthat a központi kulturális látnivalók között. Délben a múzeumi pihenő nyújt védelmet. A Traun-parti tekerés a Lehár-villához esőben is hangulatos, de óvatosságot igényel a vizes hidakon. A napot a bicikliket biztonságba helyezve a Zauner cukrászdánál zárjuk.",
+            "ro": "În ciuda ploii, Bad Ischl poate fi explorat cu bicicleta datorită distanțelor scurte. Dimineața pedalați rapid între punctele culturale din centru. La prânz, pauza lungă la muzeu vă oferă protecție. Drumul de-a lungul râului Traun spre Vila Lehár este atmosferic pe ploaie, dar necesită prudență pe podurile umede. Ziua se încheie lăsând bicicleta în siguranță lângă cafeneaua Zauner.",
+            "en": "Despite the rain, Bad Ischl is bikeable due to the short distances between sights. Zip between cultural highlights in the center during the morning. Use the midday museum break to dry off. The ride along the Traun to Lehár Villa is atmospheric in the rain but requires care on wet bridges. End your ride by parking securely near Café Zauner for a long break."
+          },
+          "stops": [
+            {
+              "name": "Arrival & First Impression at the Trinkhalle",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Arkaden ab, um trocken zu bleiben.",
+                "hu": "Állítsa le a biciklit az árkádok alatt, hogy száraz maradjon.",
+                "ro": "Parcați bicicleta sub arcade pentru a o menține uscată.",
+                "en": "Park your bike under the arcades to keep it dry during your stop."
+              }
+            },
+            {
+              "name": "Parish Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Kopfsteinpflaster vor der Kirche.",
+                "hu": "Vigyázat a leszálláskor a templom előtti nedves macskakövön.",
+                "ro": "Atenție la coborârea de pe bicicletă pe pavajul umed din fața bisericii.",
+                "en": "Be careful when dismounting on the wet cobblestones in front of the church."
+              }
+            },
+            {
+              "name": "Museum of the town of Bad Ischl",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine gründliche Abtrocknung Ihrer Ausrüstung.",
+                "hu": "Használja ki az időt a felszerelése alapos megszárítására.",
+                "ro": "Folosiți timpul pentru a vă usca bine echipamentul.",
+                "en": "Use this indoor time to thoroughly dry off your cycling gear."
+              }
+            },
+            {
+              "name": "Congress & Theatre House",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; achten Sie auf spritzendes Wasser von Pfützen.",
+                "hu": "Rövid fotómegálló; ügyeljen a tócsákból felcsapódó vízre.",
+                "ro": "Scurt popas foto; atenție la apa împroșcată din bălți.",
+                "en": "Short photo stop; watch out for splashes from nearby puddles."
+              }
+            },
+            {
+              "name": "Ride along the Traun to the Lehár Villa",
+              "tip_5lang": {
+                "de": "Der Uferweg kann rutschig sein; drosseln Sie Ihr Tempo.",
+                "hu": "A parti út csúszós lehet; mérsékelje a sebességét.",
+                "ro": "Aleea de pe mal poate fi alunecoasă; reduceți viteza.",
+                "en": "The riverside path can be slippery; reduce your cycling speed."
+              }
+            },
+            {
+              "name": "Imperial Villa & Park",
+              "tip_5lang": {
+                "de": "Im Park ist das Radfahren nur auf markierten Wegen erlaubt.",
+                "hu": "A parkban kerékpározni csak a kijelölt utakon szabad.",
+                "ro": "Ciclismul în parc este permis doar pe traseele marcate.",
+                "en": "Cycling in the park is only permitted on designated paths."
+              }
+            },
+            {
+              "name": "Cycling through the Kurpark",
+              "tip_5lang": {
+                "de": "Meiden Sie bei starkem Regen die unbefestigten Randwege.",
+                "hu": "Erős esőben kerülje a nem szilárd burkolatú szélső utakat.",
+                "ro": "Evitați potecile neamenajate în caz de ploaie puternică.",
+                "en": "Avoid unpaved side paths during heavy rain to stay clean."
+              }
+            },
+            {
+              "name": "Confectionery Zauner",
+              "tip_5lang": {
+                "de": "Genießen Sie die Belohnung nach der feuchten Fahrt.",
+                "hu": "Élvezze a megérdemelt jutalmat a nedves tekerés után.",
+                "ro": "Bucurați-vă de recompensa binemeritată după tura pe ploaie.",
+                "en": "Enjoy your well-deserved reward after the wet ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Überschuhen wird dringend empfohlen.",
+              "Vermeiden Sie abruptes Bremsen auf den gusseisernen Brückenelementen der Traun.",
+              "In der Trinkhalle gibt es oft Möglichkeiten, den Helm sicher zwischenzulagern.",
+              "Prüfen Sie Ihre Bremsen, da Nässe den Bremsweg erheblich verlängert."
+            ],
+            "hu": [
+              "Teljes esőruházat és kamásli használata erősen ajánlott.",
+              "Kerülje a hirtelen fékezést a Traun folyó öntöttvas hídelemein.",
+              "A Trinkhalléban gyakran van lehetőség a bukósisak biztonságos tárolására.",
+              "Ellenőrizze a fékeket, mivel a nedvesség jelentősen meghosszabbítja a fékutat."
+            ],
+            "ro": [
+              "Se recomandă insistent echipament complet de ploaie, inclusiv protecții pentru pantofi.",
+              "Evitați frânarea bruscă pe elementele de fontă ale podurilor peste Traun.",
+              "La Trinkhalle există adesea posibilitatea de a lăsa casca în siguranță.",
+              "Verificați frânele, deoarece umiditatea prelungește considerabil distanța de frânare."
+            ],
+            "en": [
+              "Full rain gear including shoe covers is highly recommended for this tour.",
+              "Avoid sudden braking on the cast-iron bridge elements crossing the Traun.",
+              "The Trinkhalle often provides spots to safely store your helmet indoors.",
+              "Test your brakes regularly as wet conditions significantly increase braking distance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Winterradtour durch Ischl bietet klare Luft und tolle Ausblicke auf die verschneiten Berge. Morgens radeln Sie durch das ruhige Zentrum zur Trinkhalle. Die Mittagszeit verbringen Sie aufgewärmt in den Museen, während das Rad sicher parkt. Nachmittags ist die Fahrt zur Kaiservilla kurz, aber knackig kalt. Bevor die Dämmerung einsetzt, erreichen Sie das wärmende Ziel bei Zauner.",
+            "hu": "A téli kerékpározás Ischlben friss levegőt és pazar kilátást nyújt a havas hegyekre. Reggel a csendes központon át tekerünk a Trinkhalléhoz. A délidőt a fűtött múzeumokban töltjük, miközben a bicikli a tárolóban vár. Délután a Császárvillához vezető út rövid, de csípősen hideg. Még sötétedés előtt érjük el a Zauner melengető belső terét.",
+            "ro": "O tură de iarnă cu bicicleta prin Ischl oferă aer curat și vederi superbe spre munții înzăpeziți. Dimineața pedalați prin centrul liniștit spre Trinkhalle. Prânzul îl petreceți la căldură în muzee, în timp ce bicicleta stă în siguranță. După-amiaza, drumul spre Vila Imperială este scurt, dar foarte rece. Înainte de amurg, ajungeți la destinația primitoare: Zauner.",
+            "en": "A winter bike tour through Ischl offers crisp air and stunning views of the snow-capped mountains. Cycle through the quiet center to the Trinkhalle in the morning. Spend midday warming up in museums while your bike is parked. The afternoon ride to the Imperial Villa is short but biting cold. Reach the warmth of Zauner before the early winter twilight sets in."
+          },
+          "stops": [
+            {
+              "name": "Arrival & First Impression at the Trinkhalle",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Stellen auf dem Vorplatz beim Parken.",
+                "hu": "Ügyeljen a fagyott foltokra az előtéren a parkoláskor.",
+                "ro": "Atenție la porțiunile înghețate din fața clădirii când parcați.",
+                "en": "Watch out for icy patches on the forecourt when parking your bike."
+              }
+            },
+            {
+              "name": "Parish Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Kurze Pause; lassen Sie das Radschloss nicht einfrieren.",
+                "hu": "Rövid pihenő; ne hagyja, hogy a biciklizár befagyjon.",
+                "ro": "Pauză scurtă; aveți grijă să nu înghețe mecanismul antifurtului.",
+                "en": "Short break; ensure your bike lock mechanism doesn't freeze up."
+              }
+            },
+            {
+              "name": "Museum of the town of Bad Ischl",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die steifen Finger wieder aufzuwärmen.",
+                "hu": "Használja ki a megállót az elgémberedett ujjak átmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă reîncălzi degetele amorțite.",
+                "en": "Use this stop to thaw out your fingers and warm up properly."
+              }
+            },
+            {
+              "name": "Congress & Theatre House",
+              "tip_5lang": {
+                "de": "Stoppen Sie kurz für ein Foto der winterlichen Fassade.",
+                "hu": "Álljon meg egy pillanatra a téli homlokzat lefotózásához.",
+                "ro": "Opriți scurt pentru o fotografie cu fațada de iarnă.",
+                "en": "Stop briefly for a photo of the beautiful winter facade."
+              }
+            },
+            {
+              "name": "Ride along the Traun to the Lehár Villa",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneematsch und Streusalz auf dem Uferweg.",
+                "hu": "Vigyázzon a latyakra és az útszóró sóra a parti úton.",
+                "ro": "Atenție la zloată și sarea de pe drum pe aleea de lângă râu.",
+                "en": "Watch out for slush and road salt on the riverside cycling path."
+              }
+            },
+            {
+              "name": "Imperial Villa & Park",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig, da die Wege im Park oft nur geräumt, nicht gestreut sind.",
+                "hu": "Tekerjen óvatosan, mert a parkban az utak gyakran csak letakarítottak, nem sózottak.",
+                "ro": "Pedalați cu grijă, aleile din parc sunt deszăpezite, dar rar presărate cu sare.",
+                "en": "Ride carefully; park paths are often cleared of snow but not salted."
+              }
+            },
+            {
+              "name": "Cycling through the Kurpark",
+              "tip_5lang": {
+                "de": "Genießen Sie das Knirschen des Schnees unter den Reifen.",
+                "hu": "Élvezze a hó ropogását a gumiabroncsok alatt.",
+                "ro": "Bucurați-vă de sunetul zăpezii strivite sub roți.",
+                "en": "Enjoy the satisfying crunch of snow beneath your bike tires."
+              }
+            },
+            {
+              "name": "Confectionery Zauner",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad am beleuchteten Platz vor dem Haus ab.",
+                "hu": "Állítsa le a biciklit a kivilágított téren az épület előtt.",
+                "ro": "Lăsați bicicleta în piața iluminată din fața clădirii.",
+                "en": "Park your bike in the well-lit square in front of the building."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe, um den Fahrtwind abzuwehren.",
+              "Stellen Sie sicher, dass Ihre Beleuchtung funktioniert, da es früh dunkel wird.",
+              "Reinigen Sie Ihr Rad nach der Tour vom aggressiven Streusalz.",
+              "Der Akku von E-Bikes entlädt sich bei Kälte deutlich schneller."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt a menetszél elleni védekezéshez.",
+              "Győződjön meg a világítás működéséről, mert korán sötétedik.",
+              "A túra után tisztítsa meg a biciklit az agresszív útszóró sótól.",
+              "Az e-bike-ok akkumulátora hidegben jelentősen gyorsabban merül."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt pentru a vă proteja de curent.",
+              "Asigurați-vă că luminile funcționează, deoarece se întunecă devreme.",
+              "Curățați bicicleta de sarea corozivă după terminarea turei.",
+              "Bateria bicicletelor electrice se descarcă mult mai repede la ger."
+            ],
+            "en": [
+              "Wear windproof gloves to protect your hands from the cold biting wind.",
+              "Ensure your bike lights are working perfectly as it gets dark very early.",
+              "Wash your bike after the tour to remove corrosive road salt.",
+              "Remember that e-bike batteries drain much faster in freezing temperatures."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1242,6 +1678,206 @@
           "The cluster-walking method is ideal for Bad Ischl, as the main sights are concentrated in two groups.",
           "A navigation device helps to master the small streets and one-way roads."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie die Trinkhalle trocken und parken bequem in der Nähe. Die kurzen Fußwege zwischen den Museen sind bei Regen gut machbar. Mittags fahren Sie zum Kaiserviertel, wo Sie direkt am Eingang der Villa parken können. Der Nachmittag im Kurpark wird bei Regen kürzer ausfallen, dafür bleibt mehr Zeit für den gemütlichen Ausklang bei Zauner.",
+            "hu": "Autóval szárazon érkezik a Trinkhalléhoz, és kényelmesen parkolhat a közelben. A múzeumok közötti rövid séták esőben is könnyen teljesíthetők. Délben a Császárnegyedbe hajtunk, ahol közvetlenül a villa bejáratánál parkolhatunk. A délutáni parki séta esőben rövidebb lesz, így több idő marad a Zauner süteményeire.",
+            "ro": "Cu mașina ajungeți la Trinkhalle fără să vă udați și parcați comod în apropiere. Scurtele plimbări între muzee sunt ușor de făcut chiar și pe ploaie. La prânz mergeți spre Cartierul Imperial, unde puteți parca lângă intrarea vilei. După-amiaza în Kurpark va fi mai scurtă din cauza ploii, lăsând mai mult timp pentru Zauner.",
+            "en": "By car, you reach the Trinkhalle dry and can park conveniently nearby. The short walks between museums are manageable even in the rain. At midday, drive to the Imperial Quarter, where parking is available near the villa entrance. The afternoon in the Kurpark might be shorter, leaving more time for a relaxed visit to Zauner."
+          },
+          "stops": [
+            {
+              "name": "Arrival & Parking in the Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser, um trockenen Fußes ins Zentrum zu gelangen.",
+                "hu": "Használja a parkolóházakat, hogy száraz lábbal jusson a központba.",
+                "ro": "Folosiți parcările etajate pentru a ajunge în centru fără să vă udați.",
+                "en": "Use parking garages to reach the center while staying completely dry."
+              }
+            },
+            {
+              "name": "Walk: Trinkhalle & Parish Church",
+              "tip_5lang": {
+                "de": "Ein kleiner Schirm für den kurzen Weg vom Parkplatz ist ratsam.",
+                "hu": "Egy kis esernyő javasolt a parkolótól vezető rövid útra.",
+                "ro": "O umbrelă mică este recomandată pentru drumul scurt de la parcare.",
+                "en": "A small travel umbrella is advised for the short walk from the car."
+              }
+            },
+            {
+              "name": "Walk: Museum of the town of Bad Ischl",
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Mäntel an der Garderobe trocknen.",
+                "hu": "Hagyja a nedves kabátokat a ruhatárban megszáradni.",
+                "ro": "Lăsați haina umedă la garderobă pentru a se usca.",
+                "en": "Leave your wet coats at the cloakroom to dry while you explore."
+              }
+            },
+            {
+              "name": "Drive to the Imperial Quarter: Imperial Villa",
+              "tip_5lang": {
+                "de": "Vorsicht bei Aquaplaning auf der Fahrt durch den Ort.",
+                "hu": "Vigyázzon a felúszás (aquaplaning) veszélyére a városon áthajtva.",
+                "ro": "Atenție la acvaplanare în timpul condusului prin oraș.",
+                "en": "Watch out for hydroplaning while driving through the town."
+              }
+            },
+            {
+              "name": "Walk: Lehár Villa",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Gebäude, um den Regenweg zu minimieren.",
+                "hu": "Parkoljon közel az épülethez, hogy minimalizálja az esőben töltött időt.",
+                "ro": "Parcați aproape de clădire pentru a minimiza drumul prin ploaie.",
+                "en": "Park as close as possible to the building to minimize time in the rain."
+              }
+            },
+            {
+              "name": "Walk: Kurpark",
+              "tip_5lang": {
+                "de": "Bei starkem Regen bietet der Musikpavillon kurzzeitig Schutz.",
+                "hu": "Erős esőben a zenepavilon nyújt rövid távú menedéket.",
+                "ro": "În caz de ploaie torențială, pavilionul muzical oferă adăpost temporar.",
+                "en": "The music pavilion offers temporary shelter during sudden downpours."
+              }
+            },
+            {
+              "name": "Drive to the Konditorei Zauner",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger mit Schirmen, die die Sicht behindern.",
+                "hu": "Ügyeljen az esernyős gyalogosokra, akik korlátozhatják a látást.",
+                "ro": "Atenție la pietonii cu umbrele care pot bloca vizibilitatea.",
+                "en": "Be cautious of pedestrians with umbrellas who may block your view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sichtverhältnisse können bei starkem Regen im Gebirge schlecht sein.",
+              "Achten Sie auf Parkzonen, die bei Nässe besonders rutschige Markierungen haben.",
+              "Nutzen Sie die Sitzheizung, um nach den Spaziergängen schnell aufzuwärmen.",
+              "Vermeiden Sie das Parken unter Bäumen im Park bei Sturmgefahr."
+            ],
+            "hu": [
+              "A látási viszonyok erős esőben a hegyek között rosszak lehetnek.",
+              "Ügyeljen a parkolózónákra, ahol a felfestések nedvesen nagyon csúsznak.",
+              "Használja az ülésfűtést a séták utáni gyors átmelegedéshez.",
+              "Viharveszély esetén kerülje a parkolást a park fái alatt."
+            ],
+            "ro": [
+              "Vizibilitatea poate fi redusă în munți în timpul ploilor torențiale.",
+              "Atenție în zonele de parcare, marcajele pot fi foarte alunecoase pe ud.",
+              "Folosiți încălzirea în scaune pentru a vă încălzi rapid după plimbări.",
+              "Evitați parcarea sub copaci în parc dacă există risc de furtună."
+            ],
+            "en": [
+              "Visibility can be poor in the mountains during heavy rain showers.",
+              "Be careful in parking zones, as road markings can be very slippery when wet.",
+              "Use your seat heaters to warm up quickly after outdoor walks.",
+              "Avoid parking under large trees in the park area if there's a storm risk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Auto das komfortabelste Mittel, um zwischen den Ischler Sehenswürdigkeiten zu wechseln. Morgens parken Sie im beheizten Parkhaus und spazieren kurz zur Trinkhalle. Die Mittagsstunden in den Museen sind eine wohlige Pause. Die Fahrt zur Kaiservilla führt durch die verschneite Landschaft, bevor Sie den Tag bei Kamin-Atmosphäre und Gebäck bei Zauner beenden.",
+            "hu": "Télen az autó a legkényelmesebb módja az ischli látnivalók közötti közlekedésnek. Reggel fűtött parkolóházban hagyjuk a kocsit, és rövid sétát teszünk a Trinkhalléhoz. A múzeumi órák kellemes pihenőt jelentenek. A Császárvillához vezető út havas tájon át visz, majd a napot kandallóhangulatban és sütemények mellett zárjuk a Zaunernél.",
+            "ro": "Iarna, mașina este cel mai confortabil mijloc de a naviga între atracțiile din Ischl. Dimineața parcați într-o parcare încălzită și mergeți scurt până la Trinkhalle. Orele amiezii în muzee sunt o pauză plăcută. Drumul spre Vila Imperială trece printr-un peisaj înzăpezit, înainte de a încheia ziua la Zauner, cu produse de patiserie.",
+            "en": "In winter, the car is the most comfortable way to move between Ischl's attractions. Park in a heated garage in the morning and take a short stroll to the Trinkhalle. Midday museum visits offer a cozy escape from the frost. Drive to the Imperial Villa through snow-dusted scenery before ending your day with pastries at the warm Zauner."
+          },
+          "stops": [
+            {
+              "name": "Arrival & Parking in the Center",
+              "tip_5lang": {
+                "de": "Befreien Sie das Auto vollständig von Schnee, bevor Sie losfahren.",
+                "hu": "Indulás előtt teljesen takarítsa le a havat az autóról.",
+                "ro": "Curățați mașina complet de zăpadă înainte de a pleca la drum.",
+                "en": "Thoroughly clear all snow from your car before starting your drive."
+              }
+            },
+            {
+              "name": "Walk: Trinkhalle & Parish Church",
+              "tip_5lang": {
+                "de": "Tragen Sie griffige Schuhe für den Weg vom Parkplatz.",
+                "hu": "Viseljen jó tapadású cipőt a parkolótól vezető úton.",
+                "ro": "Purtați încălțăminte antiderapantă pentru drumul de la parcare.",
+                "en": "Wear shoes with good grip for the walk from the parking area."
+              }
+            },
+            {
+              "name": "Walk: Museum of the town of Bad Ischl",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren nach der kalten Fahrt.",
+                "hu": "Élvezze a benti meleget a hideg autóút után.",
+                "ro": "Bucurați-vă de căldura din interior după drumul prin frig.",
+                "en": "Enjoy the cozy indoor warmth after your cold drive to the museum."
+              }
+            },
+            {
+              "name": "Drive to the Imperial Quarter: Imperial Villa",
+              "tip_5lang": {
+                "de": "Achten Sie auf Streufahrzeuge und Schneematsch auf den Straßen.",
+                "hu": "Ügyeljen a hókotrókra és a latyakra az utakon.",
+                "ro": "Atenție la utilajele de deszăpezire și la zloata de pe șosele.",
+                "en": "Watch out for snowplows and slushy conditions on the local roads."
+              }
+            },
+            {
+              "name": "Walk: Lehár Villa",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann im Winter vereist sein; Vorsicht beim Aussteigen.",
+                "hu": "A parkoló télen jeges lehet; vigyázzon a kiszálláskor.",
+                "ro": "Parcarea poate fi înghețată iarna; atenție la coborâre.",
+                "en": "Parking lots can be icy in winter; be careful when stepping out."
+              }
+            },
+            {
+              "name": "Walk: Kurpark",
+              "tip_5lang": {
+                "de": "Ein kurzer Winterspaziergang unter der Festbeleuchtung lohnt sich.",
+                "hu": "Egy rövid téli séta az ünnepi kivilágítás alatt megéri a fáradságot.",
+                "ro": "O scurtă plimbare de iarnă sub luminile festive merită efortul.",
+                "en": "A short winter stroll under the festive lights is well worth it."
+              }
+            },
+            {
+              "name": "Drive to the Konditorei Zauner",
+              "tip_5lang": {
+                "de": "Planen Sie Zeit für das Enteisen der Scheiben vor der Rückfahrt ein.",
+                "hu": "Számoljon időt a szélvédők jégtelenítésére a visszút előtt.",
+                "ro": "Alocați timp pentru dezghețarea parbrizului înainte de plecare.",
+                "en": "Allow extra time for defrosting your windshield before heading home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Österreich bei winterlichen Bedingungen Pflicht.",
+              "Führen Sie einen Eiskratzer und eventuell Schneeketten im Kofferraum mit.",
+              "Parkhäuser sind im Winter teurer, aber schützen das Auto vor dem Einfrieren.",
+              "Vermeiden Sie hastige Lenkbewegungen auf festgefahrener Schneedecke."
+            ],
+            "hu": [
+              "Ausztriában téli útviszonyok között kötelező a téli gumi használata.",
+              "Tartson jégkaparót és esetleg hóláncot a csomagtartóban.",
+              "A parkolóházak drágábbak, de megvédik az autót a befagyástól.",
+              "Kerülje a hirtelen kormánymozdulatokat a letaposott havas úton."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Austria în condiții de iarnă.",
+              "Țineți o racletă și eventual lanțuri antiderapante în portbagaj.",
+              "Parcările etajate sunt mai scumpe, dar protejează mașina de îngheț.",
+              "Evitați manevrele bruște de direcție pe stratul de zăpadă bătătorită."
+            ],
+            "en": [
+              "Winter tires are mandatory in Austria during winter road conditions.",
+              "Keep an ice scraper and potentially snow chains in your trunk.",
+              "Parking garages are pricier but protect your car from freezing over.",
+              "Avoid sudden steering movements on hard-packed snow or ice."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1638,6 +2274,206 @@
           "Buses can be crowded in the summer, so plan for some buffer time.",
           "Most sights are within easy walking distance of the bus stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus pendeln Sie bei Regen bequem zwischen den Ischler Ortsteilen. Morgens bringt Sie der Bus direkt zur Trinkhalle, wo Sie im Trockenen planen. Die Mittagszeit verbringen Sie wetterfest in den Museen und Villen. Der Nachmittag am Kaiserpark wird durch die Busverbindung abgekürzt, sodass Sie trocken bei Zauner ankommen, um den Tag bei einer heißen Schokolade zu genießen.",
+            "hu": "Esőben busszal kényelmesen ingázhat Ischl városrészei között. Reggel a busz közvetlenül a Trinkhalléhoz viszi, ahol szárazon tervezhet. A délidőt időjárásbiztos múzeumokban és villákban töltjük. A Császárparkba tartó utat a buszjárat lerövidíti, így szárazon érkezik a Zaunerhez, hogy egy forró csokoládé mellett pihenjen.",
+            "ro": "Pe ploaie, puteți naviga confortabil între cartierele din Ischl cu autobuzul. Dimineața, autobuzul vă lasă la Trinkhalle, unde vă puteți organiza la adăpost. Prânzul este petrecut în muzee și vile protejate de vreme. După-amiaza la Parcul Imperial este scurtată de conexiunea cu autobuzul, ajungând uscați la Zauner.",
+            "en": "By bus, you can easily commute between Ischl's districts during the rain. The morning bus drops you right at the Trinkhalle for dry planning. Spend your midday in weather-proof museums and historic villas. The bus connection shortens the trip to the Imperial Park, ensuring you arrive dry at Zauner to enjoy a warm drink."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the station & bus to the center",
+              "tip_5lang": {
+                "de": "Warten Sie im Bahnhofsgebäude, bis der Bus abfahrbereit ist.",
+                "hu": "Várjon az állomásépületben, amíg a busz indulásra kész.",
+                "ro": "Așteptați în clădirea gării până când autobuzul este gata de plecare.",
+                "en": "Wait inside the station building until your bus is ready to depart."
+              }
+            },
+            {
+              "name": "Walk: Trinkhalle & Parish Church",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen im Zentrum sind meist überdacht.",
+                "hu": "A központi buszmegállók többnyire fedettek.",
+                "ro": "Stațiile de autobuz din centru sunt în mare parte acoperite.",
+                "en": "Most bus stops in the center are covered to protect from rain."
+              }
+            },
+            {
+              "name": "Walk: Museum of the town of Bad Ischl",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Abstellen von nassen Schirmen im Ausstellungsraum.",
+                "hu": "Kerülje a nedves esernyők bevitelét a kiállítótérbe.",
+                "ro": "Evitați să lăsați umbrelele ude în sala de expoziție.",
+                "en": "Avoid bringing wet umbrellas into the actual exhibition rooms."
+              }
+            },
+            {
+              "name": "Bus to the Imperial Quarter: Imperial Villa",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Bus, um die Kleidung etwas zu lüften.",
+                "hu": "Használja ki az időt a buszon a ruházat szellőztetésére.",
+                "ro": "Folosiți timpul în autobuz pentru a vă aerisi puțin hainele.",
+                "en": "Use the time on the bus to shake off the water and ventilate your gear."
+              }
+            },
+            {
+              "name": "Walk: Lehár Villa",
+              "tip_5lang": {
+                "de": "Die nächste Haltestelle ist nur wenige Gehminuten entfernt.",
+                "hu": "A legközelebbi megálló csak pár perc sétára található.",
+                "ro": "Cea mai apropiată stație este la doar câteva minute de mers pe jos.",
+                "en": "The nearest bus stop is only a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Walk: Kurpark",
+              "tip_5lang": {
+                "de": "Der Weg vom Bus zum Park führt an vielen Geschäften vorbei.",
+                "hu": "A busztól a parkhoz vezető út sok üzlet mellett visz el.",
+                "ro": "Drumul de la autobuz la parc trece pe lângă multe magazine.",
+                "en": "The walk from the bus to the park passes many sheltered shops."
+              }
+            },
+            {
+              "name": "Walk to the Konditorei Zauner",
+              "tip_5lang": {
+                "de": "Der Spaziergang durch die Pfarrgasse bietet viele Vordächer.",
+                "hu": "A Pfarrgassén végigvezető sétán sok előtető nyújt védelmet.",
+                "ro": "Plimbarea prin Pfarrgasse oferă multe streșini protectoare.",
+                "en": "The walk through Pfarrgasse offers many protective shop canopies."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket direkt beim Fahrer oder über die ÖBB-App.",
+              "Die Busse verkehren im Salzkammergut bei Regen meist fahrplanmäßig.",
+              "Achten Sie auf rutschige Böden beim Ein- und Aussteigen aus dem Bus.",
+              "Nutzen Sie die Wartehäuschen, um nicht im Regen stehen zu müssen."
+            ],
+            "hu": [
+              "Vásároljon napijegyet közvetlenül a sofőrnél vagy az ÖBB-appon keresztül.",
+              "A buszok a Salzkammergutban esőben is többnyire menetrend szerint járnak.",
+              "Ügyeljen a csúszós padlóra a buszba való be- és kiszálláskor.",
+              "Használja a várótermeket, hogy ne kelljen az esőben állnia."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi direct de la șofer sau prin aplicația ÖBB.",
+              "Autobuzele circulă de obicei conform orarului chiar și pe ploaie.",
+              "Atenție la podelele alunecoase la urcarea și coborârea din autobuz.",
+              "Folosiți refugiile din stații pentru a nu sta direct în ploaie."
+            ],
+            "en": [
+              "Purchase a day ticket directly from the driver or via the ÖBB app.",
+              "Buses in Salzkammergut usually run strictly on schedule even in the rain.",
+              "Be careful of slippery floors when boarding or exiting the bus.",
+              "Make use of the bus shelters to avoid standing in the rain while waiting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag mit Bus und Bahn ist entspannt und sicher. Morgens kommen Sie warm am Bahnhof an und fahren kurz ins Zentrum zur Trinkhalle. Die Museen bieten mittags den perfekten Kontrast zur Kälte draußen. Nachmittags bringt Sie der Bus direkt zum Kaiserpark, bevor Sie die beleuchtete Innenstadt auf dem Weg zu Zauner durchqueren, wo der Tag gemütlich endet.",
+            "hu": "A buszos és vonatos téli városnézés pihentető és biztonságos. Reggel melegben érkezünk az állomásra, majd rövid buszúttal a Trinkhalléhoz jutunk. A múzeumok délben tökéletes kontrasztot nyújtanak a kinti hideggel. Délután a busz közvetlenül a Császárparkhoz visz, majd a kivilágított belvároson át érjük el a Zaunert.",
+            "ro": "Ziua de iarnă cu autobuzul și trenul este relaxată și sigură. Dimineața ajungeți la gară la căldură și mergeți scurt în centru la Trinkhalle. Muzeele oferă la prânz contrastul perfect cu frigul de afară. După-amiaza, autobuzul vă duce la Parcul Imperial, înainte de a traversa centrul iluminat spre Zauner.",
+            "en": "A winter day using bus and train is both relaxed and safe. Arrive at the station in the warm morning and take a quick ride to the Trinkhalle. The museums provide a perfect midday contrast to the freezing outside air. In the afternoon, the bus takes you directly to the Imperial Park before you cross the festive town center to Zauner."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the station & bus to the center",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Warteraum im Bahnhof Bad Ischl.",
+                "hu": "Használja a fűtött várótermet a Bad Ischl-i állomáson.",
+                "ro": "Folosiți sala de așteptare încălzită din gara Bad Ischl.",
+                "en": "Take advantage of the heated waiting room at Bad Ischl station."
+              }
+            },
+            {
+              "name": "Walk: Trinkhalle & Parish Church",
+              "tip_5lang": {
+                "de": "Die Wege zwischen den Haltestellen sind gut geräumt.",
+                "hu": "A megállók közötti utak jól le vannak takarítva.",
+                "ro": "Drumurile dintre stații sunt bine deszăpezite.",
+                "en": "The walkways between bus stops are usually well-cleared of snow."
+              }
+            },
+            {
+              "name": "Walk: Museum of the town of Bad Ischl",
+              "tip_5lang": {
+                "de": "Tauen Sie in der Ausstellung langsam wieder auf.",
+                "hu": "A kiállításon lassan újra átmelegedhet.",
+                "ro": "Reîncălziți-vă treptat în timpul vizitării expoziției.",
+                "en": "Thaw out slowly while exploring the museum's exhibitions."
+              }
+            },
+            {
+              "name": "Bus to the Imperial Quarter: Imperial Villa",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verschneite Stadt aus dem Busfenster.",
+                "hu": "Élvezze a havas város látványát a busz ablakából.",
+                "ro": "Bucurați-vă de vederea orașului înzăpezit de pe fereastra autobuzului.",
+                "en": "Enjoy the views of the snow-covered town from the bus window."
+              }
+            },
+            {
+              "name": "Walk: Lehár Villa",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Fahrplan, da Busse im Winter seltener fahren können.",
+                "hu": "Figyelje a menetrendet, mert a buszok télen ritkábban járhatnak.",
+                "ro": "Verificați orarul, autobuzele pot circula mai rar iarna.",
+                "en": "Check the schedule, as buses may run less frequently in winter."
+              }
+            },
+            {
+              "name": "Walk: Kurpark",
+              "tip_5lang": {
+                "de": "Die Haltestelle direkt am Park spart lange Wege in der Kälte.",
+                "hu": "A közvetlenül a parknál lévő megálló megkíméli a hosszú hideg sétáktól.",
+                "ro": "Stația de lângă parc vă scutește de plimbări lungi prin frig.",
+                "en": "The bus stop right by the park saves you from long walks in the cold."
+              }
+            },
+            {
+              "name": "Walk to the Konditorei Zauner",
+              "tip_5lang": {
+                "de": "Der kurze Fußweg führt durch die festlich beleuchtete Zone.",
+                "hu": "A rövid séta az ünnepi kivilágítású zónán keresztül vezet.",
+                "ro": "Scurta plimbare trece prin zona iluminată festiv.",
+                "en": "The short walk takes you through the beautifully lit festive zone."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Verspätungen der Bahn bei starkem Schneefall online.",
+              "In den Bussen ist es meist sehr warm, planen Sie Kleidung zum Ablegen ein.",
+              "Die Haltestellen können durch Streusalz und Matsch schmutzig sein.",
+              "Der letzte Bus fährt oft früher als im Sommer, prüfen Sie den Abendplan."
+            ],
+            "hu": [
+              "Erős havazás esetén ellenőrizze online a vonat késéseit.",
+              "A buszokon többnyire nagyon meleg van, készüljön levehető rétegekkel.",
+              "A megállók az útszóró só és a latyak miatt piszkosak lehetnek.",
+              "Az utolsó busz gyakran korábban indul, mint nyáron; ellenőrizze az esti rendet."
+            ],
+            "ro": [
+              "Verificați online întârzierile trenurilor în caz de ninsori abundente.",
+              "În autobuze este de obicei foarte cald, purtați haine în straturi.",
+              "Stațiile pot fi murdare din cauza sării și a zloatei.",
+              "Ultimul autobuz pleacă adesea mai devreme decât vara; verificați orarul."
+            ],
+            "en": [
+              "Check online for train delays during periods of heavy snowfall.",
+              "Buses are usually very warm inside; wear layers you can easily remove.",
+              "Bus stops can be messy due to road salt and melting slush.",
+              "The last bus often leaves earlier than in summer; check the evening schedule."
+            ]
+          }
+        }
       }
     }
   }

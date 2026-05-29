@@ -310,6 +310,206 @@
           "Wear comfortable shoes as the cobblestones can be uneven.",
           "Most sights are very close to each other, making for a very pleasant walk."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens schützt der weite Dorfplatz mit seinen Arkaden vor den ersten Tropfen, während das Winkelrieddenkmal im Regen glänzt. Mittags bietet die barocke Pfarrkirche St. Peter und Paul einen prachtvollen und trockenen Zufluchtsort mit Blick auf das Deckenfresko.\n\nNachmittags vertiefen Sie sich im Salzmagazin in die Geschichte Nidwaldens, fernab vom nassen Wetter. Der Tag endet kulinarisch im Culinarium Alpinum, wo alpine Spezialitäten in der gemütlichen Atmosphäre des ehemaligen Klosters serviert werden.",
+            "hu": "A reggeli eső elől a Dorfplatz árkádjai és a közeli kávézók nyújtanak menedéket, miközben a Winkelried-emlékmű sötét árnyalatot ölt a vízben. Délben a Szent Péter és Pál plébániatemplom gazdag barokk belső tere tökéletes helyszín az elmélyülésre és a szárazon maradásra.\n\nDélután a Nidwalden Múzeum kiállításai kínálnak fedett programot a Salzmagazin történelmi falaiban. Az estét a Culinarium Alpinum gasztronómiai élményeivel zárjuk, ahol a helyi sajtok és borok a régi kolostor melegében élvezhetők.",
+            "ro": "Dimineața începe sub arcadele pieței centrale, unde monumentul Winkelried capătă o strălucire aparte în ploaie. La prânz, interiorul baroc al bisericii parohiale Sf. Petru și Pavel oferă un refugiu liniștit și uscat, ideal pentru a admira detaliile arhitecturale.\n\nDupă-amiaza este dedicată explorării Muzeului Nidwalden din fosta magazie de sare, protejându-vă de vremea instabilă. Seara se încheie la Culinarium Alpinum, unde cultura culinară alpină este celebrată într-o atmosferă caldă, în ciuda ploii de afară.",
+            "en": "The morning rain highlights the textures of the Dorfplatz, where covered walkways offer refuge near the Winkelried monument. By midday, the Parish Church of St. Peter and Paul provides a grand, dry interior to admire 18th-century craftsmanship.\n\nIn the afternoon, the Nidwaldner Museum in the old salt store keeps you dry while exploring regional history. The day concludes at Culinarium Alpinum, where Alpine flavors are served within the cozy, refurbished walls of a former Capuchin monastery."
+          },
+          "stops": [
+            {
+              "name": "Stans Village Square (Dorfplatz)",
+              "tip_5lang": {
+                "de": "Arkaden unter den Häusern nutzen.",
+                "hu": "Használja a házak alatti árkádokat.",
+                "ro": "Folosiți arcadele de sub clădiri.",
+                "en": "Use the arcades for shelter."
+              }
+            },
+            {
+              "name": "Winkelried Monument",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp mit Schirm.",
+                "hu": "Gyors fotómegálló esernyővel.",
+                "ro": "Oprire scurtă pentru poze cu umbrela.",
+                "en": "Quick photo stop with an umbrella."
+              }
+            },
+            {
+              "name": "Parish Church of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Idealer Ort zum Aufwärmen.",
+                "hu": "Ideális hely a melegedésre.",
+                "ro": "Loc ideal pentru a vă încălzi.",
+                "en": "Ideal spot to stay dry and warm."
+              }
+            },
+            {
+              "name": "Nidwaldner Museum (Salzmagazin)",
+              "tip_5lang": {
+                "de": "Garderobe für nasse Mäntel nutzen.",
+                "hu": "Használja a ruhatárat a vizes kabátoknak.",
+                "ro": "Folosiți garderoba pentru haine ude.",
+                "en": "Use the cloakroom for wet coats."
+              }
+            },
+            {
+              "name": "Höfli Castle (Rosenburg)",
+              "tip_5lang": {
+                "de": "Ansicht von außen im Vorbeigehen.",
+                "hu": "Külső megtekintés elhaladás közben.",
+                "ro": "Vedere exterioară în trecere.",
+                "en": "External view while passing by."
+              }
+            },
+            {
+              "name": "Capuchin Monastery",
+              "tip_5lang": {
+                "de": "Stille Atmosphäre im Inneren genießen.",
+                "hu": "Élvezze a belső csendes hangulatot.",
+                "ro": "Bucurați-vă de liniștea din interior.",
+                "en": "Enjoy the quiet interior atmosphere."
+              }
+            },
+            {
+              "name": "Culinarium Alpinum",
+              "tip_5lang": {
+                "de": "Regionale Produkte im Shop kaufen.",
+                "hu": "Vásároljon helyi termékeket a boltban.",
+                "ro": "Cumpărați produse locale din magazin.",
+                "en": "Buy regional products at the shop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stabile Schirme sind bei Bergwind in Stans essenziell.",
+              "Die Wege zwischen den Museen sind kurz und meist asphaltiert.",
+              "Nutzen Sie die Cafés am Dorfplatz für kurze Trockenpausen.",
+              "In Kirchen ist das Tragen von nassen Kapuzen unhöflich."
+            ],
+            "hu": [
+              "Az erős hegyi szél miatt stabil esernyő javasolt.",
+              "A múzeumok közötti utak rövidek és többnyire aszfaltozottak.",
+              "A főtéri kávézók kiválóak a rövid száradási szünetekre.",
+              "A templomokban a vizes kapucni levétele elvárt."
+            ],
+            "ro": [
+              "Umbrelele rezistente sunt esențiale din cauza vântului montan.",
+              "Traseele între muzee sunt scurte și majoritatea asfaltate.",
+              "Cafenelele din piață sunt bune pentru pauze de uscare.",
+              "În biserici se recomandă scoaterea glugilor ude."
+            ],
+            "en": [
+              "Sturdy umbrellas are essential due to mountain gusts.",
+              "Distances between indoor sites are short and paved.",
+              "Dorfplatz cafes are perfect for quick drying breaks.",
+              "Removing wet hoods in churches is a local courtesy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Dorfplatz von Stans präsentiert sich morgens oft schneebedeckt vor der Kulisse des Stanserhorns. Mittags wärmt die prunkvolle Ausstattung der Pfarrkirche, bevor die dicken Mauern des Salzmagazins Schutz vor dem kalten Winterwind bieten.\n\nNachmittags führt der Spaziergang zum Kapuzinerkloster, dessen Garten in winterlicher Ruhe liegt. Der Abend findet seinen Höhepunkt im Culinarium Alpinum, wo herzhafte Berggerichte und die warme Beleuchtung des Refektoriums für Wohlbefinden sorgen.",
+            "hu": "A reggeli Stans a havas Stanserhorn lábánál ébred, a Dorfplatz kövei ilyenkor deresek lehetnek. Délben a plébániatemplom aranyozott oltárai között melegedhetünk fel, majd a Salzmagazin vastag falai mögött ismerhetjük meg a kanton múltját.\n\nDélután a Kapucinus kolostor csendes udvarán keresztül vezet az út a Culinarium Alpinumhoz. Az estét a helyi konyha remekei teszik teljessé, ahol a sült gesztenye és a meleg alpesi ételek illata tölti be a teret.",
+            "ro": "Dimineața, piața centrală din Stans oferă o priveliște de iarnă autentică, cu muntele Stanserhorn în fundal. La prânz, interiorul bisericii parohiale oferă căldură, urmat de zidurile groase ale Muzeului Nidwalden care protejează vizitatorii de frigul alpin.\n\nDupă-amiaza, o plimbare spre mănăstirea Capucinilor dezvăluie farmecul liniștit al grădinilor înghețate. Seara este dedicată confortului la Culinarium Alpinum, unde preparatele montane consistente sunt servite într-un cadru istoric primitor.",
+            "en": "The morning Dorfplatz shines under winter frost with the Stanserhorn towering above. By midday, the warmth of the Parish Church's interior is welcome, followed by a visit to the robust Nidwaldner Museum to escape the biting mountain air.\n\nIn the afternoon, the walk to the Capuchin Monastery offers crisp air and serene views. The day ends perfectly at Culinarium Alpinum, where hearty Alpine stews and warm lighting create a quintessential winter atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Stans Village Square (Dorfplatz)",
+              "tip_5lang": {
+                "de": "Auf glatte Pflastersteine achten.",
+                "hu": "Vigyázzon a csúszós macskakövekre.",
+                "ro": "Atenție la pietrele cubice alunecoase.",
+                "en": "Watch out for slippery cobblestones."
+              }
+            },
+            {
+              "name": "Winkelried Monument",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Winterfotos.",
+                "hu": "Gyors megálló téli fotókhoz.",
+                "ro": "Oprire scurtă pentru poze de iarnă.",
+                "en": "Brief stop for winter photography."
+              }
+            },
+            {
+              "name": "Parish Church of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Warme Kleidung auch im Inneren nötig.",
+                "hu": "Belül is szükséges a meleg ruházat.",
+                "ro": "Haine groase necesare și în interior.",
+                "en": "Warm layers needed even inside."
+              }
+            },
+            {
+              "name": "Nidwaldner Museum (Salzmagazin)",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen geeignet.",
+                "hu": "Kiválóan alkalmas a melegedésre.",
+                "ro": "Ideal pentru a vă încălzi.",
+                "en": "Perfect for warming up between sites."
+              }
+            },
+            {
+              "name": "Höfli Castle (Rosenburg)",
+              "tip_5lang": {
+                "de": "Frühe Dämmerung beachten.",
+                "hu": "Ügyeljen a korai sötétedésre.",
+                "ro": "Atenție la amurgul timpuriu.",
+                "en": "Mind the early winter dusk."
+              }
+            },
+            {
+              "name": "Capuchin Monastery",
+              "tip_5lang": {
+                "de": "Festliche Beleuchtung am Abend.",
+                "hu": "Ünnepi kivilágítás este.",
+                "ro": "Iluminat festiv în timpul serii.",
+                "en": "Festive lighting in the evening."
+              }
+            },
+            {
+              "name": "Culinarium Alpinum",
+              "tip_5lang": {
+                "de": "Tischreservierung dringend empfohlen.",
+                "hu": "Asztalfoglalás erősen ajánlott.",
+                "ro": "Rezervarea mesei este recomandată.",
+                "en": "Table reservation is highly recommended."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Winterschuhe mit gutem Profil sind Pflicht.",
+              "Die Sonne verschwindet im Winter früh hinter den Bergen.",
+              "Öffentliche Brunnen sind im Winter oft abgestellt.",
+              "Heisse Schokolade in der Konditorei Christen probieren."
+            ],
+            "hu": [
+              "Meleg, bordázott talpú téli cipő kötelező.",
+              "A nap télen korán eltűnik a hegyek mögött.",
+              "A nyilvános kutakat télen gyakran elzárják.",
+              "Kóstolja meg a forró csokoládét a Christen cukrászdában."
+            ],
+            "ro": [
+              "Încălțămintea de iarnă cu talpă aderentă este obligatorie.",
+              "Soarele dispare devreme în spatele munților iarna.",
+              "Cișmelele publice sunt adesea închise iarna.",
+              "Încercați ciocolata caldă la cofetăria Christen."
+            ],
+            "en": [
+              "Insulated winter boots with good grip are essential.",
+              "Sunset occurs early behind the steep mountains.",
+              "Public fountains are often drained during winter.",
+              "Try the hot chocolate at Christen confectionery."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -614,6 +814,206 @@
           "The paths are well-maintained, but some climbs require a bit of fitness.",
           "Bring a good lock to secure your bike at the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Dorfplatz, wo die Fahrräder unter den Vordächern geparkt werden können. Die Route führt zur barocken Pfarrkirche, bevor es zum Nidwaldner Museum geht, wo man sich ausgiebig Zeit für die Geschichte nehmen kann, während es draußen regnet.\n\nDie Fahrt zum Seeufer erfordert bei Regen gute Schutzkleidung, belohnt aber mit einer mystischen Stimmung über dem Vierwaldstättersee. Nach der Rückkehr bietet das Culinarium Alpinum und die Talstation der Stanserhorn-Bahn ein trockenes und faszinierendes Finale.",
+            "hu": "A túra a főtéren indul, ahol a kerékpárokat az előtetők alatt hagyhatjuk. A barokk plébániatemplom után a Nidwalden Múzeumba vezet az út, ahol az eső elől menekülve bőven van idő a tárlatokra.\n\nA tó felé vezető szakasz esőben jó felszerelést igényel, de a ködös Vierwaldstätti-tó látványa kárpótol a fáradtságért. Visszatérve a Culinarium Alpinum és a Stanserhorn-vasút völgyállomása kínál fedett és érdekes zárást a napnak.",
+            "ro": "Turul începe în piața centrală, unde bicicletele pot fi parcate sub streșini. Traseul continuă spre biserica parohială și apoi spre Muzeul Nidwalden, oferind timp suficient pentru vizitare în timp ce plouă afară.\n\nCălătoria spre malul lacului necesită echipament de protecție bun, dar oferă o atmosferă mistică peste lacul celor Patru Cantoane. La întoarcere, Culinarium Alpinum și stația de bază Stanserhorn oferă un final uscat și fascinant.",
+            "en": "Start at the Dorfplatz where bikes can be leaned under overhangs. Cycle to the Parish Church and then to the Nidwaldner Museum, spending extra time indoors while the clouds pass over the valley.\n\nThe ride towards the lake demands waterproof gear but offers misty, atmospheric views of Lake Lucerne. Returning to Stans, both Culinarium Alpinum and the Stanserhorn Valley Station provide dry highlights for the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Stans Village Square (Dorfplatz)",
+              "tip_5lang": {
+                "de": "Fahrradständer am Bahnhof nutzen.",
+                "hu": "Használja a vasútállomásnál lévő tárolókat.",
+                "ro": "Folosiți suporturile de biciclete de la gară.",
+                "en": "Use the bike racks near the station."
+              }
+            },
+            {
+              "name": "Parish Church of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Vorsicht bei nassen Treppen.",
+                "hu": "Vigyázzon a vizes lépcsőkkel.",
+                "ro": "Atenție la scările umede.",
+                "en": "Be careful on wet stone steps."
+              }
+            },
+            {
+              "name": "Nidwaldner Museum (Salzmagazin)",
+              "tip_5lang": {
+                "de": "Lange Besuchszeit bei Regen einplanen.",
+                "hu": "Tervezzen hosszú látogatást esőben.",
+                "ro": "Planificați o vizită lungă dacă plouă.",
+                "en": "Plan a long visit to stay dry."
+              }
+            },
+            {
+              "name": "Ride towards the lake",
+              "tip_5lang": {
+                "de": "Schutzbleche am Rad kontrollieren.",
+                "hu": "Ellenőrizze a sárvédőket a biciklin.",
+                "ro": "Verificați aripile bicicletei.",
+                "en": "Check your bike's mudguards."
+              }
+            },
+            {
+              "name": "Capuchin Monastery",
+              "tip_5lang": {
+                "de": "Fahrrad schiebend passieren.",
+                "hu": "A kolostornál tolja a kerékpárt.",
+                "ro": "Treceți pe lângă mănăstire pe jos.",
+                "en": "Walk your bike near the monastery."
+              }
+            },
+            {
+              "name": "Culinarium Alpinum",
+              "tip_5lang": {
+                "de": "Sattel vor dem Abstellen abdecken.",
+                "hu": "Takarja le a nyerget parkoláskor.",
+                "ro": "Acoperiți șaua la parcare.",
+                "en": "Cover your saddle when parking."
+              }
+            },
+            {
+              "name": "Stanserhorn-Bahn Valley Station",
+              "tip_5lang": {
+                "de": "Überdachte Parkplätze vorhanden.",
+                "hu": "Fedett parkolóhelyek elérhetőek.",
+                "ro": "Locuri de parcare acoperite disponibile.",
+                "en": "Covered parking spots available."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bremsweg auf nassem Asphalt ist deutlich länger.",
+              "Achten Sie auf rutschige Gullydeckel in der Altstadt.",
+              "Wasserdichte Packtaschen schützen Ihre Ausrüstung.",
+              "Die Stanserhorn-Bahn fährt bei starkem Wind nicht."
+            ],
+            "hu": [
+              "A fékút vizes aszfalton jelentősen megnő.",
+              "Vigyázzon a csúszós csatornafedelekre az óvárosban.",
+              "A vízálló táskák megvédik felszerelését.",
+              "Erős szélben a Stanserhorn-vasút nem közlekedik."
+            ],
+            "ro": [
+              "Distanța de frânare pe asfalt umed este mai mare.",
+              "Atenție la capacele de canal alunecoase în centrul vechi.",
+              "Gențile impermeabile vă protejează echipamentul.",
+              "Calea ferată Stanserhorn nu circulă pe vânt puternic."
+            ],
+            "en": [
+              "Braking distance increases significantly on wet roads.",
+              "Watch for slippery manhole covers in the old town.",
+              "Waterproof panniers are highly recommended.",
+              "The Stanserhorn railway closes during high winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens am Dorfplatz ist die Luft kristallklar, aber die Wege können frostig sein. Nach dem kulturellen Stopp in der Kirche und dem Museum führt die winterliche Radtour in Richtung See, wobei die flache Strecke weniger windanfällig ist.\n\nDank der kurzen Distanzen in Stans bleibt man aktiv, ohne auszukühlen. Der Nachmittag wird durch den Besuch des Klosters und das kulinarische Angebot im Culinarium Alpinum angenehm gestaltet, bevor die historische Talstation der Standseilbahn besichtigt wird.",
+            "hu": "Reggel a főtéren kristálytiszta a levegő, de az utak deresek lehetnek. A templom és a múzeum után a téli kerékpározás a tó felé folytatódik, ahol a sík terep kevésbé szeles szakaszokat kínál.\n\nA rövid távolságoknak köszönhetően aktívak maradhatunk anélkül, hogy áthűlnénk. A délután a kolostor látogatásával és a Culinarium Alpinum finomságaival telik, majd a sikló történelmi völgyállomása zárja a napot.",
+            "ro": "Dimineața în piața centrală aerul este cristalinstalin, dar drumurile pot fi înghețate. După opririle culturale, traseul de iarnă continuă spre lac, unde secțiunile plate sunt mai puțin expuse vântului.\n\nDatorită distanțelor scurte din Stans, rămâneți activi fără a îngheța. După-amiaza este completată de vizitarea mănăstirii și de oferta culinară de la Culinarium Alpinum, înainte de a vedea stația istorică a funicularului.",
+            "en": "Morning air at the Dorfplatz is crisp, but watch for frost on the stones. After warming up in the church and museum, the winter cycle towards the lake offers flat terrain and beautiful snowy mountain panoramas.\n\nThe short distances in Stans keep you moving without getting too cold. Spend the afternoon at the monastery and Culinarium Alpinum for a warm break before exploring the heritage of the Stanserhorn funicular station."
+          },
+          "stops": [
+            {
+              "name": "Stans Village Square (Dorfplatz)",
+              "tip_5lang": {
+                "de": "Auf Streusalz am Boden achten.",
+                "hu": "Vigyázzon az útszóró sóra.",
+                "ro": "Atenție la sarea de pe drum.",
+                "en": "Watch out for road salt on the ground."
+              }
+            },
+            {
+              "name": "Parish Church of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Rad sicher am Rand abstellen.",
+                "hu": "A kerékpárt biztonságosan parkolja le.",
+                "ro": "Parcați bicicleta în siguranță.",
+                "en": "Park bike securely at the designated area."
+              }
+            },
+            {
+              "name": "Nidwaldner Museum (Salzmagazin)",
+              "tip_5lang": {
+                "de": "Aufwärmen in der Ausstellung.",
+                "hu": "Melegedjen fel a kiállításon.",
+                "ro": "Încălziți-vă în expoziție.",
+                "en": "Perfect time to warm up inside."
+              }
+            },
+            {
+              "name": "Ride towards the lake",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind nötig.",
+                "hu": "Meleg kesztyű szükséges.",
+                "ro": "Mănuși groase sunt necesare.",
+                "en": "Thermal gloves are necessary."
+              }
+            },
+            {
+              "name": "Capuchin Monastery",
+              "tip_5lang": {
+                "de": "Kurzer Stopp im Klosterladen.",
+                "hu": "Gyors megálló a kolostorboltban.",
+                "ro": "Oprire scurtă la magazinul mănăstirii.",
+                "en": "Brief stop at the monastery shop."
+              }
+            },
+            {
+              "name": "Culinarium Alpinum",
+              "tip_5lang": {
+                "de": "Fahrradbeleuchtung für Rückweg prüfen.",
+                "hu": "Ellenőrizze a lámpákat a hazaúthoz.",
+                "ro": "Verificați luminile pentru întoarcere.",
+                "en": "Check bike lights for the return trip."
+              }
+            },
+            {
+              "name": "Stanserhorn-Bahn Valley Station",
+              "tip_5lang": {
+                "de": "Checken, ob die Bahn in Betrieb ist.",
+                "hu": "Ellenőrizze az üzemidőt.",
+                "ro": "Verificați dacă trenul circulă.",
+                "en": "Check if the railway is operating."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "E-Bike Akkus bei Kälte schneller leer.",
+              "Reifendruck für mehr Grip leicht senken.",
+              "Wintersonne steht tief und blendet oft.",
+              "Tragen Sie helle Kleidung in der Dämmerung."
+            ],
+            "hu": [
+              "Az e-bike akkumulátorok gyorsabban merülnek.",
+              "Engedjen kicsit a keréknyomásból a tapadásért.",
+              "A téli nap alacsonyan jár és vakíthat.",
+              "Viseljen világos ruhát szürkületben."
+            ],
+            "ro": [
+              "Bateriile de e-bike se descarcă mai repede la frig.",
+              "Reduceți ușor presiunea în pneuri pentru aderență.",
+              "Soarele de iarnă este jos și poate fi orbitor.",
+              "Purtați haine reflectorizante în amurg."
+            ],
+            "en": [
+              "E-bike batteries drain faster in cold weather.",
+              "Lower tire pressure slightly for better grip.",
+              "Winter sun is low and often blinding.",
+              "Wear bright or reflective clothing at dusk."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -926,6 +1326,188 @@
           "Check the operating times of the Stanserhorn-Bahn in advance.",
           "Parking in the center is paid. Have coins or a parking app ready."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nach dem Parken im Zentrum erreichen Sie den Dorfplatz mit wenigen Schritten. Der Vormittag gehört der Kultur in der Pfarrkirche und dem Nidwaldner Museum, die beide ideale Innenaktivitäten bieten.\n\nEin gemütliches Mittagessen in der Altstadt überbrückt die regnerische Mittagszeit. Den Nachmittag verbringen Sie geschützt in der Talstation der Stanserhorn-Bahn und dem Culinarium Alpinum, wo die alpine Genusswelt zum Verweilen einlädt.",
+            "hu": "A központi parkolás után pár lépés alatt elérhető a főtér. A délelőtt a kultúráé: a plébániatemplom és a Nidwalden Múzeum kiváló benti programokat kínálnak az esős időben is.\n\nEgy kényelmes ebéd az óvárosban segít átvészelni a csapadékos délutánt. A nap végén a Stanserhorn-vasút völgyállomása és a Culinarium Alpinum nyújt fedett menedéket és kulináris élményeket.",
+            "ro": "După parcarea în centru, ajungeți în piață în câteva minute. Dimineața este dedicată culturii la biserica parohială și Muzeul Nidwalden, ambele fiind activități ideale pentru interior.\n\nUn prânz relaxat în centrul vechi trece peste amiaza ploioasă. După-amiaza o petreceți la adăpost în stația de bază Stanserhorn și la Culinarium Alpinum, unde deliciile alpine vă invită la relaxare.",
+            "en": "Park centrally to reach the Dorfplatz with minimal walking. The morning is dedicated to indoor culture at the Parish Church and the Nidwaldner Museum, both offering rich heritage away from the rain.\n\nA slow lunch in the old town bridges the wet midday hours. Spend your afternoon sheltered at the Stanserhorn Valley Station and Culinarium Alpinum, exploring Alpine food culture in a comfortable environment."
+          },
+          "stops": [
+            {
+              "name": "Parking in the Center",
+              "tip_5lang": {
+                "de": "Überdachtes Parkhaus bevorzugen.",
+                "hu": "Válasszon fedett parkolóházat.",
+                "ro": "Preferați o parcare acoperită.",
+                "en": "Prefer a covered parking garage."
+              }
+            },
+            {
+              "name": "Village Square and Winkelried Monument",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang mit Schirm.",
+                "hu": "Rövid séta esernyővel.",
+                "ro": "Plimbare scurtă cu umbrela.",
+                "en": "Short walk with an umbrella."
+              }
+            },
+            {
+              "name": "Parish Church and Museum",
+              "tip_5lang": {
+                "de": "Viel Zeit für Innenbesichtigung.",
+                "hu": "Szánjon időt a belső látogatásra.",
+                "ro": "Alocați timp pentru interior.",
+                "en": "Allow plenty of time for interiors."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Restaurant direkt im Zentrum suchen.",
+                "hu": "Keressen éttermet a központban.",
+                "ro": "Căutați un restaurant în centru.",
+                "en": "Find a restaurant in the center."
+              }
+            },
+            {
+              "name": "Stanserhorn-Bahn Valley Station",
+              "tip_5lang": {
+                "de": "Technik-Ausstellung ist überdacht.",
+                "hu": "A technikai kiállítás fedett.",
+                "ro": "Expoziția tehnică este acoperită.",
+                "en": "The technical exhibit is indoors."
+              }
+            },
+            {
+              "name": "Culinarium Alpinum",
+              "tip_5lang": {
+                "de": "Perfekter Ort für den Regennachmittag.",
+                "hu": "Tökéletes hely esős délutánra.",
+                "ro": "Loc perfect pentru o după-amiază ploioasă.",
+                "en": "Perfect spot for a rainy afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sichtweite in den Bergen bei Regen begrenzt.",
+              "Parkhäuser sind oft eng, vorsichtig manövrieren.",
+              "Innerschweizer Strassen können rutschig sein.",
+              "Regenschirm griffbereit im Auto lassen."
+            ],
+            "hu": [
+              "Esőben a látótávolság korlátozott a hegyekben.",
+              "A parkolóházak gyakran szűkek, óvatosan manőverezzen.",
+              "Közép-Svájc útjai csúszósak lehetnek.",
+              "Tartsa az esernyőt kézközelben az autóban."
+            ],
+            "ro": [
+              "Vizibilitatea în munți este limitată pe ploaie.",
+              "Parcările sunt adesea înguste, manevrați cu grijă.",
+              "Drumurile din Elveția Centrală pot fi alunecoase.",
+              "Păstrați umbrela la îndemână în mașină."
+            ],
+            "en": [
+              "Visibility in the mountains is limited in the rain.",
+              "Parking garages are narrow; maneuver carefully.",
+              "Central Swiss roads can be slick when wet.",
+              "Keep your umbrella within reach in the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens parken Sie bequem im Zentrum und starten den Tag auf dem stimmungsvoll beleuchteten Dorfplatz. Die Besichtigung der barocken Kirche und des Museums bietet angenehme Wärme während der kältesten Tageszeit.\n\nNach einem stärkenden Mittagessen im Herzen von Stans geht es zur geschichtsträchtigen Talstation der Bergbahn. Den Tag lassen Sie bei regionalen Spezialitäten im Culinarium Alpinum ausklingen, wo die klösterliche Ruhe besonders im Winter spürbar ist.",
+            "hu": "Reggel kényelmesen parkolhat a központban, majd a hangulatosan kivilágított főtéren indul a nap. A barokk templom és a múzeum látogatása kellemes meleget nyújt a nap leghidegebb óráiban.\n\nEgy bőséges ebéd után a történelmi völgyállomás felé vesszük az irányt. A napot a Culinarium Alpinum regionális finomságaival zárjuk, ahol a kolostori nyugalom télen még inkább átélhető.",
+            "ro": "Dimineața parcați confortabil în centru și începeți ziua în piața centrală luminată festiv. Vizitarea bisericii baroce și a muzeului oferă căldură plăcută în cele mai reci ore ale zilei.\n\nDupă un prânz consistent în inima orașului Stans, mergeți spre stația istorică a funicularului. Încheiați ziua cu specialități regionale la Culinarium Alpinum, unde liniștea mănăstirească este palpabilă iarna.",
+            "en": "Park easily in the center and start your day at the atmospherically lit Dorfplatz. Exploring the Baroque church and the museum offers a warm retreat during the coldest part of the morning.\n\nAfter a fortifying lunch in central Stans, visit the historic mountain railway station. Conclude your winter day with regional specialties at Culinarium Alpinum, where the monastic serenity is especially profound in winter."
+          },
+          "stops": [
+            {
+              "name": "Parking in the Center",
+              "tip_5lang": {
+                "de": "Winterausrüstung für das Auto nötig.",
+                "hu": "Téli felszerelés szükséges az autóhoz.",
+                "ro": "Echipament de iarnă necesar pentru mașină.",
+                "en": "Winter equipment for the car is mandatory."
+              }
+            },
+            {
+              "name": "Village Square and Winkelried Monument",
+              "tip_5lang": {
+                "de": "Stimmungsvolles Licht am Morgen.",
+                "hu": "Hangulatos fények reggel.",
+                "ro": "Lumină atmosferică dimineața.",
+                "en": "Atmospheric lighting in the morning."
+              }
+            },
+            {
+              "name": "Parish Church and Museum",
+              "tip_5lang": {
+                "de": "Garderobe für dicke Jacken nutzen.",
+                "hu": "Használja a ruhatárat a kabátoknak.",
+                "ro": "Folosiți garderoba pentru haine groase.",
+                "en": "Use the cloakroom for heavy coats."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Regionale Wintergerichte probieren.",
+                "hu": "Kóstolja meg a téli ételeket.",
+                "ro": "Încercați mâncărurile regionale de iarnă.",
+                "en": "Try regional winter specialties."
+              }
+            },
+            {
+              "name": "Stanserhorn-Bahn Valley Station",
+              "tip_5lang": {
+                "de": "Betriebszeiten im Winter prüfen.",
+                "hu": "Ellenőrizze a téli üzemidőt.",
+                "ro": "Verificați programul de iarnă.",
+                "en": "Verify winter operating hours."
+              }
+            },
+            {
+              "name": "Culinarium Alpinum",
+              "tip_5lang": {
+                "de": "Abendessen im Kerzenschein.",
+                "hu": "Vacsora gyertyafényben.",
+                "ro": "Cină la lumina lumânărilor.",
+                "en": "Candlelit dinner atmosphere."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Eiskratzer sind obligatorisch.",
+              "Parkplatzsuche ist im Winter meist entspannt.",
+              "Achten Sie auf Fussgänger bei Schneematsch.",
+              "Batteriekapazität bei Kälte im Auge behalten."
+            ],
+            "hu": [
+              "Téli gumi és jégkaparó kötelező.",
+              "A parkolás télen általában könnyebb.",
+              "Vigyázzon a gyalogosokra latyakos időben.",
+              "Ügyeljen az akkumulátor állapotára a hidegben."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și răzuitoarea de gheață sunt obligatorii.",
+              "Parcarea este de obicei mai relaxată iarna.",
+              "Atenție la pietoni în condiții de zăpadă topită.",
+              "Supravegheați bateria mașinii la temperaturi scăzute."
+            ],
+            "en": [
+              "Winter tires and an ice scraper are mandatory.",
+              "Finding parking is usually easier in winter.",
+              "Watch out for pedestrians in slushy conditions.",
+              "Monitor battery capacity during cold snaps."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1206,6 +1788,188 @@
           "Buy a day pass for the local buses if you plan multiple trips.",
           "The train station is the central hub for all bus lines."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom Bahnhof Stans ist es nur ein kurzer, fast ebener Weg zum Dorfplatz. Vormittags bieten die Kirche und das Nidwaldner Museum trockene Kulturhighlights, während der Regen gegen die alten Fensterscheiben trommelt.\n\nNach dem Mittagessen in Museumsnähe ist die Talstation der Standseilbahn bequem zu Fuss erreichbar. Der Tag endet sicher und trocken mit der Rückkehr zum Bahnhof, wobei die kurzen Wege in Stans bei Regen ein grosser Vorteil sind.",
+            "hu": "A stansi pályaudvartól csak egy rövid, sík út vezet a főtérre. Délelőtt a templom és a Nidwalden Múzeum száraz kulturális élményeket nyújt, miközben az eső kopog az ódon ablakokon.\n\nA múzeum közeli ebéd után a sikló völgyállomása kényelmesen elérhető gyalog. A nap biztonságosan és szárazon ér véget a vasútállomáson; a rövid távolságok esőben nagy előnyt jelentenek.",
+            "ro": "De la gara Stans este doar o scurtă plimbare până în piața centrală. Dimineața, biserica și Muzeul Nidwalden oferă atracții culturale la adăpost, în timp ce ploaia bate în ferestrele vechi.\n\nDupă prânzul lângă muzeu, stația funicularului este ușor accesibilă pe jos. Ziua se încheie în siguranță și la uscat cu întoarcerea la gară, distanțele scurte fiind un avantaj major pe ploaie.",
+            "en": "From Stans station, it is a very short, flat walk to the Dorfplatz. The morning highlights include the church and Nidwaldner Museum, both perfect for staying dry while exploring Swiss heritage.\n\nFollowing lunch near the museum, the heritage funicular station is easily reached on foot. The day concludes comfortably with a quick return to the station, making the most of Stans' compact and accessible layout."
+          },
+          "stops": [
+            {
+              "name": "Stans Train Station",
+              "tip_5lang": {
+                "de": "Unterführung trocken nutzen.",
+                "hu": "Használja a száraz aluljárót.",
+                "ro": "Folosiți pasajul subteran uscat.",
+                "en": "Use the dry pedestrian underpass."
+              }
+            },
+            {
+              "name": "Village Square and Parish Church",
+              "tip_5lang": {
+                "de": "Kurzer Weg durch kleine Gassen.",
+                "hu": "Rövid út a kis utcákon.",
+                "ro": "Traseu scurt prin străduțe.",
+                "en": "Short path through narrow alleys."
+              }
+            },
+            {
+              "name": "Nidwaldner Museum",
+              "tip_5lang": {
+                "de": "Direkt neben dem Dorfzentrum.",
+                "hu": "Közvetlenül a központ mellett.",
+                "ro": "Direct lângă centrul orașului.",
+                "en": "Located right by the village center."
+              }
+            },
+            {
+              "name": "Lunch near the Museum",
+              "tip_5lang": {
+                "de": "Viele Cafés direkt in Reichweite.",
+                "hu": "Sok kávézó elérhető közelségben.",
+                "ro": "Multe cafenele în apropiere.",
+                "en": "Many cafes within easy reach."
+              }
+            },
+            {
+              "name": "Stanserhorn-Bahn Valley Station",
+              "tip_5lang": {
+                "de": "Gut beschilderter Weg.",
+                "hu": "Jól kitáblázott útvonal.",
+                "ro": "Traseu bine semnalizat.",
+                "en": "Well-signposted walking path."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Züge fahren halbstündlich nach Luzern.",
+                "hu": "A vonatok félóránként járnak Luzernbe.",
+                "ro": "Trenurile spre Lucerna circulă la 30 min.",
+                "en": "Trains to Lucerne run every 30 mins."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bahnhof Stans bietet Schliessfächer für Gepäck.",
+              "S-Bahn Zentralschwinnz ist pünktlich und sauber.",
+              "Der Bahnhof ist teilweise überdacht.",
+              "Zentralbahn-App für Live-Abfahrten nutzen."
+            ],
+            "hu": [
+              "A stansi állomáson vannak csomagmegőrzők.",
+              "A közép-svájci S-Bahn pontos és tiszta.",
+              "Az állomás részben fedett.",
+              "Használja a Zentralbahn appot a menetrendhez."
+            ],
+            "ro": [
+              "Gara Stans oferă dulapuri pentru bagaje.",
+              "Trenurile S-Bahn sunt punctuale și curate.",
+              "Gara este parțial acoperită.",
+              "Folosiți aplicația Zentralbahn pentru plecări live."
+            ],
+            "en": [
+              "Stans station has lockers for luggage.",
+              "Central Swiss S-Bahn is punctual and clean.",
+              "The station platform is partially covered.",
+              "Use the Zentralbahn app for live departures."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am winterlichen Bahnhof Stans, nur einen Steinwurf vom historischen Zentrum entfernt. Die Besichtigung der warmen barocken Pfarrkirche und der Ausstellungen im Nidwaldner Museum ist ideal für kalte Wintertage.\n\nNach dem Mittagessen im Ortskern spazieren Sie zur Talstation der Stanserhorn-Bahn, die auch im Winter ein wichtiges Wahrzeichen bleibt. Die Rückreise zum Bahnhof erfolgt am späten Nachmittag, wenn die Weihnachtsbeleuchtung den Ort in ein besonderes Licht taucht.",
+            "hu": "A nap a téli stansi vasútállomáson indul, egy kőhajításnyira a történelmi központtól. A meleg barokk plébániatemplom és a Nidwalden Múzeum kiállításai ideálisak a hideg téli napokon.\n\nAz óvárosi ebéd után a Stanserhorn-vasút völgyállomásához sétálunk, amely télen is fontos jelkép. A pályaudvarra késő délután térünk vissza, amikor az ünnepi fények különleges hangulatot árasztanak.",
+            "ro": "Ziua începe la gara Stans, la doar câțiva pași de centrul istoric. Vizitarea bisericii parohiale primitoare și a expozițiilor de la Muzeul Nidwalden este ideală pentru zilele reci de iarnă.\n\nDupă prânzul în centrul vechi, mergeți la stația de bază a funicularului Stanserhorn. Întoarcerea la gară are loc spre seară, când iluminatul de sărbătoare transformă atmosfera orașului.",
+            "en": "Start your day at Stans station, just a stone's throw from the historic heart of town. Visiting the warm Baroque church and the indoor exhibits of the Nidwaldner Museum is the perfect strategy for a cold winter's day.\n\nAfter lunch in the village, walk to the Stanserhorn Valley Station, a key landmark even in winter. Head back to the station in the late afternoon, as the festive lights begin to twinkle across the snow-dusted town."
+          },
+          "stops": [
+            {
+              "name": "Stans Train Station",
+              "tip_5lang": {
+                "de": "Warmer Wartesaal vorhanden.",
+                "hu": "Meleg váróterem áll rendelkezésre.",
+                "ro": "Sală de așteptare încălzită disponibilă.",
+                "en": "Heated waiting room available."
+              }
+            },
+            {
+              "name": "Village Square and Parish Church",
+              "tip_5lang": {
+                "de": "Geräumte Wege im Zentrum.",
+                "hu": "Takarított utak a központban.",
+                "ro": "Drumuri curățate în centru.",
+                "en": "Cleared paths in the center."
+              }
+            },
+            {
+              "name": "Nidwaldner Museum",
+              "tip_5lang": {
+                "de": "Kurzer, flacher Fussweg.",
+                "hu": "Rövid, sík gyalogút.",
+                "ro": "Traseu scurt și plat.",
+                "en": "Short, flat walking distance."
+              }
+            },
+            {
+              "name": "Lunch near the Museum",
+              "tip_5lang": {
+                "de": "Warmer Tee zur Stärkung.",
+                "hu": "Meleg tea a felfrissüléshez.",
+                "ro": "Ceai cald pentru revigorare.",
+                "en": "Warm tea is a local winter favorite."
+              }
+            },
+            {
+              "name": "Stanserhorn-Bahn Valley Station",
+              "tip_5lang": {
+                "de": "Foto-Tipp: Historische Wagen im Schnee.",
+                "hu": "Fotótipp: történelmi kocsik a hóban.",
+                "ro": "Sfat foto: vagoane istorice în zăpadă.",
+                "en": "Photo tip: Historic cars in the snow."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Sicherer Weg bei Dunkelheit.",
+                "hu": "Biztonságos út sötétben is.",
+                "ro": "Traseu sigur pe întuneric.",
+                "en": "Safe and well-lit path at night."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge sind im Winter gut beheizt.",
+              "Anschlüsse in Luzern sind meist garantiert.",
+              "Bahnhofsnähe minimiert Aufenthalt im Freien.",
+              "Letzte Talabfahrten im Winter beachten."
+            ],
+            "hu": [
+              "A vonatok télen jól fűtöttek.",
+              "A luzerni csatlakozások általában garantáltak.",
+              "A közelség minimalizálja a kinti tartózkodást.",
+              "Ügyeljen a téli utolsó járatokra."
+            ],
+            "ro": [
+              "Trenurile sunt bine încălzite iarna.",
+              "Legăturile în Lucerna sunt de obicei garantate.",
+              "Proximitatea gării reduce timpul petrecut afară.",
+              "Atenție la ultimele plecări de iarnă."
+            ],
+            "en": [
+              "Trains are well-heated in winter.",
+              "Connections in Lucerne are usually reliable.",
+              "Proximity to the station limits exposure to cold.",
+              "Check the last winter departures carefully."
+            ]
+          }
+        }
       }
     }
   }

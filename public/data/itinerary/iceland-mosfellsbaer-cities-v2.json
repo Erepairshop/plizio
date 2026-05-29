@@ -313,6 +313,178 @@
           "Be sure to bring a swimsuit for the geothermal pool.",
           "Check the church's opening hours, as it is sometimes closed for events."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen im gemütlichen Wollviertel Álafoss, wo Sie wetterfeste Kleidung finden. Der Regen verleiht dem Wasserfall eine dramatische Note.\n\nMittags suchen wir Schutz im Stadtzentrum bei einem warmen isländischen Eintopf, während die Wolken tief über den Bergen hängen.\n\nAm Nachmittag ist das geothermale Bad Lágafellslaug der perfekte Ort, um dem Regen zu entfliehen und im heißen Wasser zu entspannen.\n\nDer Abend klingt ruhig in einer lokalen Bar aus, während der Regen gegen die Fenster trommelt und die Atmosphäre im Inneren umso gemütlicher macht.",
+            "hu": "Kezdje az esős reggelt az Álafoss gyapjúnegyedben, ahol a meleg izlandi pulóverek között válogathat. Az eső még látványosabbá teszi a közeli vízesést.\n\nEbédidőben keressen menedéket a városközpontban egy forró leves mellett, miközben a felhők megülik a környező hegycsúcsokat.\n\nDélután a Lágafellslaug geotermikus fürdő a legjobb választás: a forró vízben ülve az esőcseppek csak fokozzák az élményt.\n\nAz este békésen telik egy helyi kávézóban, élvezve a benti melegséget és a kopogó eső megnyugtató hangját.",
+            "ro": "Începeți dimineața ploioasă în cartierul lânii Álafoss, unde vă puteți adăposti printre haine groase. Ploaia adaugă o notă dramatică cascadei din apropiere.\n\nLa prânz, căutați refugiu în centrul orașului pentru o supă caldă islandeză, în timp ce norii coboară peste munții din jur.\n\nDupă-amiaza, piscina geotermală Lágafellslaug este locul ideal pentru a scăpa de umezeală și a vă relaxa în apa fierbinte.\n\nSeara se încheie liniștit într-un local primitor, savurând atmosfera caldă în timp ce ploaia bate în ferestre.",
+            "en": "Start your rainy morning in the cozy Álafoss wool quarter, where you can find shelter among traditional sweaters. The rain makes the waterfall even more powerful.\n\nAt noon, seek refuge in the city center for a warm Icelandic stew as the clouds hang low over the surrounding mountains.\n\nIn the afternoon, the Lágafellslaug geothermal pool is the perfect escape: relaxing in hot water while rain falls is a unique experience.\n\nThe evening ends peacefully in a local spot, enjoying the indoor warmth while the rain patters against the glass."
+          },
+          "stops": [
+            {
+              "name": "Álafosskvos - The Wool Quarter",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um hochwertige Regenkleidung und Wolle zu kaufen.",
+                "hu": "Kiváló hely esőálló gyapjúruhák beszerzésére és fedett nézelődésre.",
+                "ro": "Loc perfect pentru a cumpăra haine de lână rezistente la umezeală.",
+                "en": "Great place to buy waterproof wool gear and stay dry indoors."
+              }
+            },
+            {
+              "name": "Álafoss Waterfall",
+              "tip_5lang": {
+                "de": "Der Wasserfall ist bei Regen besonders beeindruckend; Vorsicht, rutschige Steine.",
+                "hu": "Esőben a vízhozam nagyobb; vigyázzon a csúszós kövekkel a parton.",
+                "ro": "Cascada este impresionantă pe ploaie; atenție la pietrele alunecoase.",
+                "en": "The waterfall is more powerful in the rain; watch out for slippery rocks."
+              }
+            },
+            {
+              "name": "Mosfellskirkja Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine kurze Pause im Trockenen.",
+                "hu": "Békés helyszín egy rövid, száraz pihenőhöz az út mentén.",
+                "ro": "Un loc liniștit pentru o scurtă pauză la adăpost de ploaie.",
+                "en": "A peaceful spot for a short, dry break during your walk."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Fensterplatz, um das Wetter zu beobachten.",
+                "hu": "Válasszon ablak melletti asztalt, és figyelje a ködös tájat ebéd közben.",
+                "ro": "Alegeți un restaurant cu vedere spre munte pentru a vedea ceața.",
+                "en": "Pick a window seat to enjoy the misty mountain views while you eat."
+              }
+            },
+            {
+              "name": "Lágafellslaug Geothermal Pool",
+              "tip_5lang": {
+                "de": "Das warme Wasser fühlt sich bei kühlem Regen besonders gut an.",
+                "hu": "A forró víz és a hűvös eső kontrasztja felejthetetlen élmény.",
+                "ro": "Apa fierbinte se simte minunat când afară plouă și e răcoare.",
+                "en": "The hot water feels extra relaxing when it is raining outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe, da die Wege matschig werden können.",
+              "Ein windfester Regenschirm ist nützlich, aber Regenjacken sind sicherer.",
+              "Isländische Wolle (Lopi) hält auch im feuchten Zustand warm.",
+              "Die geothermalen Bäder haben beheizte Umkleiden zum Trocknen.",
+              "Prüfen Sie die Windvorhersage, da Regen oft mit starkem Wind kommt."
+            ],
+            "hu": [
+              "Viseljen vízálló túrabakancsot, mert az ösvények sárosak lehetnek.",
+              "A szélálló esőkabát praktikusabb, mint az esernyő az izlandi szélben.",
+              "Az izlandi gyapjú nedvesen is jól tartja a hőt, érdemes rétegezni.",
+              "A fürdőben van lehetőség a vizes ruhák biztonságos tárolására.",
+              "Figyelje a szélirányt, mert az eső gyakran vízszintesen esik."
+            ],
+            "ro": [
+              "Purtați bocanci impermeabili, deoarece potecile pot deveni noroioase.",
+              "O pelerină de ploaie este mai utilă decât o umbrelă din cauza vântului.",
+              "Lâna islandeză păstrează căldura chiar și atunci când este umedă.",
+              "Vestiarele de la piscină sunt încălzite, ideale pentru a vă usca.",
+              "Verificați prognoza de vânt; ploaia vine adesea cu rafale puternice."
+            ],
+            "en": [
+              "Wear waterproof hiking boots as trails can get muddy.",
+              "A windproof rain jacket is more effective than an umbrella in Iceland.",
+              "Icelandic wool keeps you warm even if it gets slightly damp.",
+              "Geothermal pool changing rooms are heated and great for drying off.",
+              "Check the wind speed, as rain often comes with strong gusts here."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt in Mosfellsbær. Der Schnee knirscht unter den Stiefeln, während wir das Wollviertel besuchen, um uns für den Tag zu rüsten.\n\nMittags ist das Tageslicht kurz, aber magisch. Wir genießen ein warmes Mittagessen im Zentrum, bevor die Dämmerung bereits am frühen Nachmittag einsetzt.\n\nDer Nachmittag gehört dem heißen Wasser. In Lágafellslaug steigen Dampfwolken in die eiskalte Luft, ein typisch isländisches Wintererlebnis.\n\nAm Abend, wenn es dunkel ist, halten wir Ausschau nach Nordlichtern über den verschneiten Feldern, bevor wir uns in die wohlige Wärme zurückziehen.",
+            "hu": "Fagyos reggel köszönt ránk Mosfellsbærben. A hó ropog a talpunk alatt, miközben a gyapjúnegyedben keressük a legmelegebb sálakat.\n\nEbédidőben a fények rövidek, de varázslatosak. A városközpontban melegedünk fel, mielőtt a korai szürkület már délután átveszi az uralmat.\n\nA délután a gőzölgő fürdőé. A Lágafellslaug medencéiből felszálló pára és a jéghideg levegő kontrasztja igazi téli kaland.\n\nEste, a sötét beállta után érdemes az eget kémlelni az északi fény után a havas mezők felett, majd behúzódni a fűtött szobába.",
+            "ro": "O dimineață geroasă începe în Mosfellsbær. Zăpada scârțâie sub ghete în timp ce vizităm cartierul lânii pentru a ne pregăti de frig.\n\nLa prânz, lumina zilei este scurtă, dar magică. Savurăm un prânz cald în centru înainte ca amurgul să se lase devreme.\n\nDupă-amiaza este dedicată apei fierbinți. La Lágafellslaug, aburii se ridică în aerul înghețat, oferind o experiență de iarnă autentică.\n\nSeara, după ce se întunecă, urmărim cerul pentru aurora boreală deasupra câmpurilor înzăpezite, apoi ne retragem la căldură.",
+            "en": "A frosty morning begins in Mosfellsbær. Snow crunches under your boots as you visit the wool quarter to layer up for the cold day.\n\nAt noon, the daylight is brief but magical. Enjoy a warm lunch in the center before the twilight sets in during the early afternoon.\n\nThe afternoon is for the steaming pools. At Lágafellslaug, the steam rises into the freezing air, a classic Icelandic winter vibe.\n\nIn the evening, with total darkness, keep an eye out for Northern Lights over the snowy fields before retreating to the warmth."
+          },
+          "stops": [
+            {
+              "name": "Álafosskvos - The Wool Quarter",
+              "tip_5lang": {
+                "de": "Bester Ort für authentische Wintermützen und Handschuhe.",
+                "hu": "Itt veheti meg a legmelegebb sapkákat és kesztyűket a túrához.",
+                "ro": "Cel mai bun loc pentru căciuli și mănuși de lână autentice.",
+                "en": "Best place to buy authentic winter hats and gloves for the walk."
+              }
+            },
+            {
+              "name": "Álafoss Waterfall",
+              "tip_5lang": {
+                "de": "Eiszapfen am Wasserfall bilden wunderschöne Skulpturen.",
+                "hu": "A vízesés szélén kialakuló jégcsapok gyönyörű látványt nyújtanak.",
+                "ro": "Țurțurii de gheață de la cascadă formează sculpturi superbe.",
+                "en": "Ice formations around the waterfall create stunning winter sculptures."
+              }
+            },
+            {
+              "name": "Mosfellskirkja Church",
+              "tip_5lang": {
+                "de": "Oft beleuchtet, bietet die Kirche einen festlichen Anblick im Schnee.",
+                "hu": "A kivilágított templom ünnepi látványt nyújt a havas tájban.",
+                "ro": "Biserica iluminată oferă o priveliște festivă în zăpadă.",
+                "en": "The illuminated church looks festive and welcoming in the snow."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einer heißen Schokolade oder Kaffee auf.",
+                "hu": "Igyon egy forró csokoládét a bőséges ebéd mellé a melegben.",
+                "ro": "Încălziți-vă cu o ciocolată caldă sau o cafea după plimbare.",
+                "en": "Warm up with a hot chocolate or coffee along with your meal."
+              }
+            },
+            {
+              "name": "Lágafellslaug Geothermal Pool",
+              "tip_5lang": {
+                "de": "Ein Bad im Freien bei Frost ist ein Muss in Island.",
+                "hu": "A szabadtéri fürdőzés fagyban kötelező izlandi program.",
+                "ro": "O baie în aer liber pe timp de ger este esențială în Islanda.",
+                "en": "Outdoor bathing in freezing temperatures is a must-do in Iceland."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schuhspikes (Crampons) auf vereisten Gehwegen.",
+              "Tragen Sie Reflektoren, da es bereits ab 15:30 Uhr dunkel sein kann.",
+              "Kleiden Sie sich nach dem Zwiebelprinzip mit Merinowolle.",
+              "Trinken Sie viel Wasser, die Heizungsluft trocknet den Körper aus.",
+              "Prüfen Sie vedur.is auf Sturmwarnungen vor dem Abmarsch."
+            ],
+            "hu": [
+              "Használjon csúszásgátlót a cipőjén a jeges járdák miatt.",
+              "Viseljen fényvisszaverőt, mert délután 4-kor már sötét lehet.",
+              "Öltözzön rétegesen, a merinó gyapjú alapréteg életmentő.",
+              "A benti fűtés miatt igyon sok vizet, könnyen kiszáradhat.",
+              "Indulás előtt ellenőrizze az időjárást a vedur.is oldalon."
+            ],
+            "ro": [
+              "Folosiți crampoane pentru încălțăminte pe trotuarele înghețate.",
+              "Purtați elemente reflectorizante; se întunecă în jur de ora 16:00.",
+              "Îmbrăcați-vă în straturi, folosind lâna ca strat de bază.",
+              "Hidratați-vă bine, aerul încălzit din interior este foarte uscat.",
+              "Verificați vedur.is pentru alerte de furtună înainte de a pleca."
+            ],
+            "en": [
+              "Use ice spikes or crampons on your shoes for slippery paths.",
+              "Wear reflectors as it can get dark as early as 3:30 PM.",
+              "Layer your clothing with merino wool as a base layer.",
+              "Drink plenty of water; indoor heating can be very dehydrating.",
+              "Always check vedur.is for storm alerts before heading out."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -643,6 +815,196 @@
           "Bring water and snacks, as there are few shops between stops.",
           "Always lock your bike securely when you park it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag erfordert gute Vorbereitung. Wir starten vorsichtig in Richtung Álafoss, wo der nasse Asphalt glänzt.\n\nAm Mittag erreichen wir Gljúfrasteinn. Das Haus von Halldór Laxness bietet eine trockene Kulturpause, während wir draußen unsere Räder sichern.\n\nNachmittags radeln wir zur Laxnes Horse Farm. Der Schlamm spritzt, aber die Begegnung mit den Pferden entschädigt für alles.\n\nDer Tag endet mit einer schnellen Fahrt zurück nach Lágafellslaug, wo wir die nassen Kleider gegen das heiße Thermalwasser eintauschen.",
+            "hu": "Az esős bringázáshoz elszántság kell. Óvatosan indulunk Álafoss felé, ahol a vizes aszfalt csillog a fényben.\n\nDélben elérjük Gljúfrasteinnt. Halldór Laxness otthona tökéletes kulturális menedék, amíg kint pihennek a gépek.\n\nDélután a Laxnes lovasfarm felé vesszük az irányt. A sár fröccsen, de a lovak látványa kárpótol a nehézségekért.\n\nA nap végén gyorsan visszatekerünk Lágafellslaugba, hogy a vizes ruhákat forró termálvízre cseréljük.",
+            "ro": "O zi de bicicletă pe ploaie necesită pregătire. Pornim cu grijă spre Álafoss, unde asfaltul umed strălucește sub nori.\n\nLa prânz ajungem la Gljúfrasteinn. Casa lui Halldór Laxness oferă o pauză culturală uscată în timp ce securizăm bicicletele.\n\nDupă-amiaza pedalăm spre ferma de cai Laxnes. Noroiul sare, dar întâlnirea cu caii merită tot efortul.\n\nZiua se încheie cu o cursă rapidă înapoi spre Lágafellslaug, unde schimbăm hainele ude cu apa termală fierbinte.",
+            "en": "A rainy bike day requires good prep. Start carefully towards Álafoss, where the wet asphalt glistens under the moody sky.\n\nAt noon, reach Gljúfrasteinn. Halldór Laxness's home offers a dry cultural break while your bikes rest outside.\n\nIn the afternoon, pedal to the Laxnes Horse Farm. It might be muddy, but meeting the Icelandic horses makes up for it.\n\nThe day ends with a quick ride back to Lágafellslaug to swap your wet gear for the steaming thermal water."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start",
+              "tip_5lang": {
+                "de": "Fragen Sie nach Fahrrädern mit Schutzblechen und wasserfesten Taschen.",
+                "hu": "Kérjen sárvédős kerékpárt és vízhatlan táskákat a bérlésnél.",
+                "ro": "Cereți biciclete cu apărători și genți impermeabile la închiriere.",
+                "en": "Ask for bikes with mudguards and waterproof panniers at rental."
+              }
+            },
+            {
+              "name": "Álafosskvos & Waterfall",
+              "tip_5lang": {
+                "de": "Kurze Pause im Wollviertel, um sich trocken zu halten.",
+                "hu": "Rövid pihenő a gyapjúnegyedben, hogy szárazon maradjon.",
+                "ro": "O scurtă pauză în cartierul lânii pentru a rămâne uscat.",
+                "en": "Short break in the wool quarter to keep yourself dry."
+              }
+            },
+            {
+              "name": "Gljúfrasteinn - Home of Halldór Laxness",
+              "tip_5lang": {
+                "de": "Der ideale Ort für eine längere Pause im Trockenen.",
+                "hu": "Ideális helyszín egy hosszabb száraz pihenőhöz és kultúrához.",
+                "ro": "Locul ideal pentru o pauză lungă la adăpost de ploaie.",
+                "en": "Ideal spot for a longer indoor break and some culture."
+              }
+            },
+            {
+              "name": "Lunch near Gljúfrasteinn",
+              "tip_5lang": {
+                "de": "Achten Sie auf sichere Abstellplätze für nasse Räder.",
+                "hu": "Keressen fedett vagy biztonságos helyet a vizes bringáknak.",
+                "ro": "Căutați un loc sigur pentru a lăsa bicicletele ude.",
+                "en": "Look for a safe or covered spot to park your wet bikes."
+              }
+            },
+            {
+              "name": "Laxnes Horse Farm",
+              "tip_5lang": {
+                "de": "Die Wege hier können bei Regen sehr matschig sein.",
+                "hu": "Az ide vezető utak esőben nagyon sárosak lehetnek.",
+                "ro": "Drumurile spre fermă pot fi foarte noroioase pe ploaie.",
+                "en": "The trails around the farm can be very muddy in the rain."
+              }
+            },
+            {
+              "name": "Relaxation at Lágafellslaug",
+              "tip_5lang": {
+                "de": "Nichts schlägt das heiße Bad nach einer nassen Radtour.",
+                "hu": "Semmi sem jobb egy forró fürdőnél egy áázós tekerés után.",
+                "ro": "Nimic nu se compară cu o baie fierbinte după o tură udă.",
+                "en": "Nothing beats a hot soak after a wet and rainy bike ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Regen unerlässlich gegen Schlammspritzer.",
+              "Vermeiden Sie scharfe Bremsungen auf nassem Asphalt.",
+              "Tragen Sie eine Brille, um die Augen vor Regen zu schützen.",
+              "Verpacken Sie Wertsachen in wasserdichte Plastikbeutel.",
+              "Licht einschalten, auch tagsüber ist die Sicht bei Regen schlecht."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a felcsapódó víz és sár ellen.",
+              "Kerülje a hirtelen fékezést a csúszós, vizes aszfalton.",
+              "Viseljen szemüveget, hogy megvédje szemét az esőcseppektől.",
+              "Értékeit csomagolja vízhatlan tasakokba a táskán belül is.",
+              "Kapcsolja be a lámpákat, nappal is rosszak a látási viszonyok."
+            ],
+            "ro": [
+              "Apărătorile sunt esențiale împotriva noroiului și a apei.",
+              "Evitați frânările bruște pe asfaltul umed și alunecos.",
+              "Purtați ochelari pentru a vă proteja ochii de picăturile de ploaie.",
+              "Puneți obiectele de valoare în pungi impermeabile în rucsac.",
+              "Aprindeți luminile; vizibilitatea este redusă chiar și ziua."
+            ],
+            "en": [
+              "Mudguards are essential to protect you from splashes and mud.",
+              "Avoid sudden braking on wet and slippery asphalt surfaces.",
+              "Wear glasses or goggles to keep rain out of your eyes while riding.",
+              "Pack your valuables in waterproof bags inside your panniers.",
+              "Turn on your lights; visibility is often poor during rain even at noon."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Island ist ein Abenteuer für sich. Wir starten in der kalten Morgenluft, die Reifen greifen auf dem harten Schnee.\n\nMittags erreichen wir das Laxness-Haus. Die Wärme im Inneren ist nach der Fahrt durch die eisige Landschaft eine Wohltat.\n\nDer Nachmittag ist kurz. Wir besuchen die Pferde auf der Farm, die in ihrem dicken Winterfell im Schnee stehen, ein wunderschöner Anblick.\n\nDie letzte Etappe führt uns im Dunkeln zurück. Das Ziel ist Lágafellslaug, wo wir uns im heißen Wasser langsam wieder aufwärmen.",
+            "hu": "A téli bringázás Izlandon igazi kaland. Hideg reggeli levegőben indulunk, a kerekek jól tapadnak a keményre fagyott havon.\n\nDélben elérjük a Laxness-házat. A benti meleg igazi áldás a jeges tájon való tekerés után.\n\nA délután rövid. Meglátogatjuk a lovakat a farmon, akik vastag téli bundájukban állnak a hóban, csodás látvány.\n\nAz utolsó szakaszt már sötétben tesszük meg. A cél Lágafellslaug, ahol a forró vízben lassan újra felmelegedünk.",
+            "ro": "Ciclismul de iarnă în Islanda este o adevărată aventură. Pornim în aerul rece de dimineață, cu anvelopele pe zăpada întărită.\n\nLa prânz ajungem la casa lui Laxness. Căldura din interior este o binecuvântare după pedalatul prin peisajul înghețat.\n\nDupă-amiaza este scurtă. Vizităm caii la fermă, care arată superb în zăpadă cu blana lor groasă de iarnă.\n\nUltima etapă o parcurgem pe întuneric. Destinația este Lágafellslaug, unde ne reîncălzim lent în apa termală fierbinte.",
+            "en": "Winter cycling in Iceland is a true adventure. Start in the crisp morning air, with tires gripping the hard-packed snow.\n\nAt noon, reach the Laxness house. The indoor warmth is a blessing after riding through the freezing landscape.\n\nThe afternoon is short. Visit the horses at the farm; they look stunning in the snow with their thick winter coats.\n\nThe final stretch is completed in darkness. The goal is Lágafellslaug, where you will slowly warm up in the hot water."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start",
+              "tip_5lang": {
+                "de": "Fragen Sie nach Spikereifen für besseren Halt auf Eis.",
+                "hu": "Kérjen szöges gumikat a jobb tapadásért a jeges utakon.",
+                "ro": "Cereți anvelope cu ținte pentru aderență pe gheață.",
+                "en": "Ask for studded tires for better grip on icy roads."
+              }
+            },
+            {
+              "name": "Álafosskvos & Waterfall",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen, der Boden am Wasserfall ist oft vereist.",
+                "hu": "Vigyázzon a leszálláskor, a vízesés környéke gyakran jeges.",
+                "ro": "Atenție la coborâre; zona cascadei este adesea înghețată.",
+                "en": "Be careful when dismounting; the area near the falls is often icy."
+              }
+            },
+            {
+              "name": "Gljúfrasteinn - Home of Halldór Laxness",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um Ihre Glieder aufzuwärmen.",
+                "hu": "Használja ki a múzeumlátogatást a végtagjai felmelegítésére.",
+                "ro": "Folosiți vizita la muzeu pentru a vă dezmorți și încălzi.",
+                "en": "Use the museum visit to warm up your hands and feet."
+              }
+            },
+            {
+              "name": "Lunch near Gljúfrasteinn",
+              "tip_5lang": {
+                "de": "Essen Sie etwas Energiereiches für die Fahrt in der Kälte.",
+                "hu": "Egyen energiadús ételt a hidegben való tekeréshez.",
+                "ro": "Mâncați ceva energizant pentru a rezista la frig pe drum.",
+                "en": "Eat a high-energy meal to sustain you through the cold ride."
+              }
+            },
+            {
+              "name": "Laxnes Horse Farm",
+              "tip_5lang": {
+                "de": "Pferde im Winterfell sind ein tolles Fotomotiv im Schnee.",
+                "hu": "A téli bundás lovak remek fotótémát adnak a hóban.",
+                "ro": "Caii cu blană de iarnă sunt un subiect foto superb în zăpadă.",
+                "en": "Horses in their winter coats make for great photos in the snow."
+              }
+            },
+            {
+              "name": "Relaxation at Lágafellslaug",
+              "tip_5lang": {
+                "de": "Duschen Sie gründlich warm, bevor Sie ins kalte Freie gehen.",
+                "hu": "Zuhanyozzon alaposan, mielőtt kimegy a kinti medencékbe.",
+                "ro": "Faceți un duș cald înainte de a ieși la bazinele exterioare.",
+                "en": "Take a warm shower before heading to the outdoor pools."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Unterwäsche und winddichte Oberbekleidung.",
+              "Vermeiden Sie das Fahren bei starkem Schneesturm oder Glatteis.",
+              "Halten Sie die Fahrtzeiten kurz wegen des begrenzten Tageslichts.",
+              "Starke LED-Leuchten vorne und hinten sind lebenswichtig.",
+              "Isolierte Handschuhe und Überschuhe verhindern Erfrierungen."
+            ],
+            "hu": [
+              "Viseljen termikus aláöltözetet és szélálló külső ruhát.",
+              "Hóviharban vagy tükörjégen ne induljon el kerékpárral.",
+              "Tervezzen rövid utakat a korai sötétedés miatt.",
+              "Az erős első és hátsó LED-lámpa elengedhetetlen.",
+              "A hőszigetelt kesztyű és kamásli megvéd a lefagyástól."
+            ],
+            "ro": [
+              "Purtați lenjerie termică și haine exterioare rezistente la vânt.",
+              "Nu pedalați în timpul viscolului sau pe polei periculos.",
+              "Planificați rute scurte din cauza luminii limitate a zilei.",
+              "Luminile LED puternice față/spate sunt obligatorii.",
+              "Mănușile izolate și protecțiile pentru pantofi sunt esențiale."
+            ],
+            "en": [
+              "Wear thermal base layers and windproof outer clothing.",
+              "Do not cycle during snowstorms or on dangerous black ice.",
+              "Keep riding sessions short due to limited daylight hours.",
+              "Powerful front and rear LED lights are a safety requirement.",
+              "Insulated gloves and shoe covers prevent frostbite."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1003,6 +1365,214 @@
           "Park only in designated areas to protect the sensitive nature.",
           "A GPS or navigation app is essential to find the more remote places."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag ist perfekt für eine Autotour durch Mosfellsbær. Wir starten im Álafoss-Viertel, wo wir im Trockenen shoppen können.\n\nMittags fahren wir zum Laxness-Museum. Die Fahrt durch die vernebelten Hügel ist atmosphärisch und sicher im warmen Auto.\n\nNachmittags besuchen wir die Wasserfälle. Im Regen führen sie mehr Wasser und wirken besonders kraftvoll, während wir nur kurz aussteigen.\n\nDer Tag endet entspannt in Lágafellslaug. Das Auto ist der ideale Rückzugsort zwischen den Stopps, um trocken zu bleiben.",
+            "hu": "Az esős nap tökéletes egy autós túrához Mosfellsbærben. Az Álafoss negyedben kezdünk, ahol fedett helyen vásárolhatunk.\n\nEbéd után a Laxness múzeumhoz hajtunk. A ködös dombok közötti autózás hangulatos és biztonságos a meleg kocsiban.\n\nDélután a vízeséseket nézzük meg. Esőben több vizet szállítanak és erőteljesebbek, mi pedig csak rövid időre szállunk ki.\n\nA nap a Lágafellslaug fürdőben zárul. Az autó ideális menedék a megállók között, hogy szárazak maradjunk.",
+            "ro": "O zi ploioasă este perfectă pentru un tur cu mașina prin Mosfellsbær. Începem în cartierul Álafoss, unde putem face cumpărături la adăpost.\n\nLa prânz mergem la muzeul Laxness. Condusul prin dealurile cețoase este atmosferic și sigur în mașina încălzită.\n\nDupă-amiaza vizităm cascadele. Pe ploaie, acestea au debit mai mare și sunt spectaculoase; coborâm doar pentru scurt timp.\n\nZiua se încheie relaxat la Lágafellslaug. Mașina este refugiul ideal între opriri pentru a rămâne uscat.",
+            "en": "A rainy day is perfect for a car tour of Mosfellsbær. Start in the Álafoss quarter, where you can shop indoors and stay dry.\n\nAt noon, drive to the Laxness museum. The drive through the misty hills is atmospheric and safe in the warmth of the car.\n\nIn the afternoon, visit the waterfalls. They carry more water during rain and look powerful; just hop out for quick views.\n\nThe day ends at Lágafellslaug pool. The car provides the ideal shelter between stops to keep you perfectly dry."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Álafoss Quarter",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um Regen zu vermeiden.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az ázást.",
+                "ro": "Parcați aproape de intrare pentru a evita ploaia.",
+                "en": "Park close to the entrance to minimize time in the rain."
+              }
+            },
+            {
+              "name": "Álafoss Waterfall",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp direkt vom Parkplatz aus möglich.",
+                "hu": "Rövid fotómegálló, a vízesés a parkoló közeléből is látszik.",
+                "ro": "Pauză foto scurtă; cascada se vede de lângă parcare.",
+                "en": "Quick photo stop; the falls are visible near the parking."
+              }
+            },
+            {
+              "name": "Cluster 2: Gljúfrasteinn",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden, ideal bei schlechtem Wetter.",
+                "hu": "Tágas parkoló áll rendelkezésre, ideális rossz időben.",
+                "ro": "Parcare mare disponibilă, ideală pe vreme nefavorabilă.",
+                "en": "Spacious parking available, ideal for bad weather days."
+              }
+            },
+            {
+              "name": "Lunch at Laxnes Restaurant",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Pferde aus dem trockenen Restaurant.",
+                "hu": "Élvezze a lovak látványát a száraz étteremből.",
+                "ro": "Admirați caii de la geamul restaurantului încălzit.",
+                "en": "Enjoy the view of the horses from the dry restaurant interior."
+              }
+            },
+            {
+              "name": "Cluster 3: Mount Úlfarsfell & Helgufoss",
+              "tip_5lang": {
+                "de": "Die Straßen können rutschig sein, fahren Sie vorsichtig.",
+                "hu": "Az utak csúszósak lehetnek, vezessen óvatosan a kanyarokban.",
+                "ro": "Drumurile pot fi alunecoase; conduceți cu prudență.",
+                "en": "Roads can be slippery in the rain; drive carefully on curves."
+              }
+            },
+            {
+              "name": "Helgufoss Waterfall",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie die Aussicht.",
+                "hu": "Szakadó esőben maradjon az autóban, és onnan nézze a vízesést.",
+                "ro": "Dacă plouă torențial, admirați cascada din mașină.",
+                "en": "In heavy rain, enjoy the waterfall view from inside the car."
+              }
+            },
+            {
+              "name": "Relaxation at Lágafellslaug",
+              "tip_5lang": {
+                "de": "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+                "hu": "Ne hagyjon értéktárgyat látható helyen az autóban a parkolóban.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
+                "en": "Do not leave valuables visible in the car while at the pool."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht vor Aquaplaning auf den Landstraßen.",
+              "Halten Sie die Scheinwerfer immer eingeschaltet.",
+              "Nutzen Sie die Sitzheizung, um nach kurzen Stopps warm zu werden.",
+              "Prüfen Sie den Reifendruck für bessere Haftung bei Nässe.",
+              "Ein Mikrofasertuch hilft, beschlagene Scheiben schnell zu reinigen."
+            ],
+            "hu": [
+              "Vigyázzon a vízenúszásra (aquaplaning) az országutakon.",
+              "Mindig tartsa bekapcsolva a fényszórókat esőben is.",
+              "Használja az ülésfűtést a gyors felmelegedéshez a megállók után.",
+              "Ellenőrizze a guminyomást a jobb tapadás érdekében.",
+              "Egy mikroszálas kendő hasznos a bepárásodott ablakokhoz."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile naționale.",
+              "Păstrați farurile aprinse în permanență, chiar și ziua.",
+              "Folosiți încălzirea în scaune pentru a vă reîncălzi rapid.",
+              "Verificați presiunea în anvelope pentru aderență optimă.",
+              "O lavetă din microfibră ajută la dezaburirea rapidă a geamurilor."
+            ],
+            "en": [
+              "Beware of aquaplaning on the main roads during heavy rain.",
+              "Keep your headlights on at all times for better visibility.",
+              "Use seat heaters to warm up quickly after short outdoor stops.",
+              "Check tire pressure to ensure best grip on wet surfaces.",
+              "Keep a microfiber cloth handy to wipe foggy windows quickly."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterfahren in Mosfellsbær erfordert Konzentration. Wir starten im Álafoss-Viertel, während die Straßen vom frühen Schnee geräumt werden.\n\nMittags erreichen wir Gljúfrasteinn. Die verschneite Landschaft sieht aus wie auf einer Postkarte, während wir sicher im 4x4-Wagen reisen.\n\nNachmittags geht es zu den Wasserfällen und dem Úlfarsfell. Die winterliche Stille ist beeindruckend, und das Auto bietet die nötige Wärme.\n\nDer Tag endet in Lágafellslaug. Die Rückfahrt im Dunkeln ist dank der guten Beleuchtung des Wagens kein Problem, bevor wir uns entspannen.",
+            "hu": "A téli vezetés Mosfellsbærben koncentrációt igényel. Az Álafoss negyedben kezdünk, miközben az utakat már tisztítják a hótól.\n\nEbédidőben érünk Gljúfrasteinnbe. A havas táj olyan, mint egy képeslap, miközben biztonságban utazunk a 4x4-es autónkkal.\n\nDélután a vízesések és az Úlfarsfell felé vesszük az irányt. A téli csend lenyűgöző, az autó pedig biztosítja a meleget.\n\nA nap Lágafellslaugban zárul. A sötétben való visszatérés nem gond a jó fényszórókkal, mielőtt belecsobbannánk a vízbe.",
+            "ro": "Condusul pe timp de iarnă în Mosfellsbær necesită atenție. Începem în cartierul Álafoss, în timp ce drumurile sunt curățate de zăpadă.\n\nLa prânz ajungem la Gljúfrasteinn. Peisajul înzăpezit arată ca o vedere poștală, iar noi călătorim sigur în mașina 4x4.\n\nDupă-amiaza ne îndreptăm spre cascade și Úlfarsfell. Liniștea iernii este impresionantă, iar mașina oferă căldura necesară.\n\nZiua se încheie la Lágafellslaug. Întoarcerea pe întuneric este ușoară cu faruri bune, înainte de relaxarea binemeritată.",
+            "en": "Winter driving in Mosfellsbær requires focus. Start in the Álafoss quarter as the roads are being cleared of the fresh snow.\n\nAt noon, reach Gljúfrasteinn. The snowy landscape looks like a postcard as you travel safely in your 4x4 vehicle.\n\nIn the afternoon, head to the waterfalls and Úlfarsfell. The winter silence is stunning, and the car provides essential warmth.\n\nThe day ends at Lágafellslaug. Returning in the dark is no issue with good headlights before you enjoy the hot pool."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Álafoss Quarter",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Parkplatz.",
+                "hu": "Vigyázzon a tükörjégre a parkolóban kiszálláskor.",
+                "ro": "Atenție la polei în parcare când coborâți.",
+                "en": "Watch out for black ice in the parking lot when exiting."
+              }
+            },
+            {
+              "name": "Álafoss Waterfall",
+              "tip_5lang": {
+                "de": "Schneehauben auf den Steinen sind ein tolles Fotomotiv.",
+                "hu": "A köveken lévő hósapkák remek fotótémát szolgáltatnak.",
+                "ro": "Zăpada de pe pietre oferă ocazii foto excelente.",
+                "en": "Snow caps on the rocks make for excellent winter photos."
+              }
+            },
+            {
+              "name": "Cluster 2: Gljúfrasteinn",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Haus, um sich aufzuwärmen.",
+                "hu": "Látogasson be a házba egy kis melegedésért.",
+                "ro": "Vizitați interiorul casei pentru a vă încălzi.",
+                "en": "Visit the interior of the house to warm up properly."
+              }
+            },
+            {
+              "name": "Lunch at Laxnes Restaurant",
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie nicht eingeschneit werden.",
+                "hu": "Úgy parkoljon, hogy ne ragadjon be a hóba, ha esni kezd.",
+                "ro": "Parcați astfel încât să nu rămâneți blocați în zăpadă.",
+                "en": "Park in a way that ensures you won't get stuck if it snows."
+              }
+            },
+            {
+              "name": "Cluster 3: Mount Úlfarsfell & Helgufoss",
+              "tip_5lang": {
+                "de": "Nur mit 4x4-Antrieb bei hohem Schnee befahren.",
+                "hu": "Csak 4x4 hajtással vágjon neki magas hó esetén.",
+                "ro": "Mergeți doar cu tracțiune 4x4 dacă zăpada este mare.",
+                "en": "Only attempt this area with a 4x4 if snow is deep."
+              }
+            },
+            {
+              "name": "Helgufoss Waterfall",
+              "tip_5lang": {
+                "de": "Der Weg zum Wasserfall kann tief verschneit sein.",
+                "hu": "A vízeséshez vezető ösvényt mély hó boríthatja.",
+                "ro": "Poteca spre cascadă poate fi acoperită de zăpadă mare.",
+                "en": "The path to the waterfall might be covered in deep snow."
+              }
+            },
+            {
+              "name": "Relaxation at Lágafellslaug",
+              "tip_5lang": {
+                "de": "Ein Eiskratzer im Auto ist morgens und abends wichtig.",
+                "hu": "A jégkaparó reggel és este is fontos eszköz lesz.",
+                "ro": "Răzuitoarea de gheață este esențială dimineața și seara.",
+                "en": "An ice scraper is vital for your windows morning and night."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein 4x4-Fahrzeug mit Winterreifen ist dringend empfohlen.",
+              "Prüfen Sie road.is stündlich auf Straßensperrungen.",
+              "Halten Sie den Tank immer mindestens halb voll.",
+              "Führen Sie eine Schaufel und eine Decke im Kofferraum mit.",
+              "Entfernen Sie vor der Fahrt allen Schnee vom Autodach."
+            ],
+            "hu": [
+              "4x4-es jármű téli gumival erősen ajánlott télen.",
+              "Óránként ellenőrizze a road.is oldalt az útlezárások miatt.",
+              "Tartsa az üzemanyagtartályt legalább félig tele.",
+              "Legyen a csomagtartóban hólapát és meleg takaró.",
+              "Indulás előtt minden havat takarítson le az autó tetejéről."
+            ],
+            "ro": [
+              "Un vehicul 4x4 cu anvelope de iarnă este recomandat.",
+              "Verificați road.is în fiecare oră pentru închideri de drumuri.",
+              "Păstrați rezervorul de combustibil cel puțin pe jumătate plin.",
+              "Aveți întotdeauna o lopată și o pătură în portbagaj.",
+              "Curățați toată zăpada de pe plafonul mașinii înainte de drum."
+            ],
+            "en": [
+              "A 4x4 vehicle with winter tires is strongly recommended.",
+              "Check road.is every hour for updates on road closures.",
+              "Keep your fuel tank at least half full at all times.",
+              "Carry a snow shovel and a warm blanket in the trunk.",
+              "Clear all snow from the car roof before starting your drive."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1339,6 +1909,196 @@
           "Signal the driver if you want the bus to stop.",
           "Be at the bus stop on time; buses are usually very punctual."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag mit dem Bus bietet Komfort. Wir starten am Terminal und fahren trocken nach Álafoss.\n\nMittags besuchen wir die Mosfellskirkja. Die Busse sind pünktlich und bieten eine gute Flucht vor den Schauern.\n\nNachmittags genießen wir ein spätes Mittagessen im Kaffi Lágafell. Das warme Café ist der ideale Ort, um den Regen draußen zu vergessen.\n\nDer Abend endet mit einer entspannten Busfahrt zurück, während wir die Lichter der Stadt durch die regennassen Scheiben sehen.",
+            "hu": "Az esős nap buszozással is kényelmes lehet. A terminálról indulunk, és szárazon érkezünk meg Álafossba.\n\nEbéd előtt meglátogatjuk a Mosfellskirkját. A buszok pontosak és jó menedéket nyújtanak a záporok elől.\n\nDélután a Kaffi Lágafellben ebédelünk meg későn. A meleg kávézó ideális hely elfelejteni a kinti esőt.\n\nA nap egy pihentető buszos visszautazással zárul, miközben a város fényeit nézzük a vizes ablakokon át.",
+            "ro": "O zi ploioasă cu autobuzul oferă confort. Pornim de la terminal și ajungem uscați în cartierul Álafoss.\n\nLa prânz vizităm Mosfellskirkja. Autobuzele sunt punctuale și oferă un refugiu excelent împotriva averselor.\n\nDupă-amiaza ne bucurăm de un prânz târziu la Kaffi Lágafell. Cafeneaua caldă este locul ideal pentru a uita de ploaia de afară.\n\nSeara se încheie cu o călătorie relaxantă cu autobuzul, privind luminile orașului prin geamurile ude.",
+            "en": "A rainy day using public transit offers comfort. Start at the terminal and arrive dry at the Álafoss quarter.\n\nAt noon, visit Mosfellskirkja. The buses are punctual and provide a great escape from the passing showers.\n\nIn the afternoon, enjoy a late lunch at Kaffi Lágafell. The warm cafe is the ideal place to forget about the rain outside.\n\nThe day ends with a relaxing bus ride back, watching the city lights through the rain-streaked windows."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Start at the Bus Terminal",
+              "tip_5lang": {
+                "de": "Warten Sie im beheizten Terminalgebäude auf den Bus.",
+                "hu": "Várjon a buszra a fűtött terminálépületben.",
+                "ro": "Așteptați autobuzul în interiorul terminalului încălzit.",
+                "en": "Wait for your bus inside the heated terminal building."
+              }
+            },
+            {
+              "name": "Álafosskvos & Waterfall",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist nur wenige Gehminuten entfernt.",
+                "hu": "A buszmegálló csak pár perc sétára van a negyedtől.",
+                "ro": "Stația de autobuz este la doar câteva minute de mers.",
+                "en": "The bus stop is just a few minutes' walk from the quarter."
+              }
+            },
+            {
+              "name": "Mosfellskirkja Church",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan, um Wartezeiten im Regen zu vermeiden.",
+                "hu": "Nézze meg a menetrendet, hogy ne kelljen sokat várnia kint.",
+                "ro": "Verificați orarul pentru a nu aștepta mult în ploaie.",
+                "en": "Check the schedule to avoid long waits in the rain."
+              }
+            },
+            {
+              "name": "Cluster 2: Lágafell Area",
+              "tip_5lang": {
+                "de": "Viele überdachte Haltestellen in diesem Bereich.",
+                "hu": "Számos fedett buszmegálló található ezen a környéken.",
+                "ro": "Există multe stații de autobuz acoperite în această zonă.",
+                "en": "There are several covered bus stops in this local area."
+              }
+            },
+            {
+              "name": "Late lunch at Kaffi Lágafell",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Rückzugsort bei nasskaltem Wetter.",
+                "hu": "Hangulatos menedék a hűvös és vizes időben.",
+                "ro": "Un refugiu primitor pe vreme rece și umedă.",
+                "en": "A cozy retreat during cold and wet weather conditions."
+              }
+            },
+            {
+              "name": "Cluster 3: Laxnes Horse Farm",
+              "tip_5lang": {
+                "de": "Der Weg von der Haltestelle zur Farm kann nass sein.",
+                "hu": "A megállótól a farmig tartó út vizes és sáros lehet.",
+                "ro": "Drumul de la stație la fermă poate fi ud și noroios.",
+                "en": "The walk from the stop to the farm might be wet and muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Klapp.is App für Tickets und Echtzeit-Infos.",
+              "Tragen Sie wasserfeste Schuhe für die Wege zur Haltestelle.",
+              "Die Busse sind gut beheizt, ideal zum Aufwärmen.",
+              "Halten Sie Kleingeld oder die App bereit für schnelles Einsteigen.",
+              "Einige Haltestellen haben Windschutz, nutzen Sie diesen."
+            ],
+            "hu": [
+              "Használja a Klapp.is alkalmazást jegyvásárláshoz és infókért.",
+              "Viseljen vízálló cipőt a megállókig tartó rövid sétákhoz.",
+              "A buszok jól fűtöttek, ideálisak a felmelegedéshez.",
+              "Készítse elő a jegyét előre a gyors felszálláshoz.",
+              "Használja ki a szélvédett megállókat, ahol csak lehet."
+            ],
+            "ro": [
+              "Folosiți aplicația Klapp.is pentru bilete și info în timp real.",
+              "Purtați pantofi impermeabili pentru drumul spre stație.",
+              "Autobuzele sunt bine încălzite, ideale pentru a vă usca.",
+              "Aveți biletul pregătit în aplicație pentru o urcare rapidă.",
+              "Folosiți adăposturile din stații pentru a evita vântul."
+            ],
+            "en": [
+              "Use the Klapp.is app for easy tickets and real-time tracking.",
+              "Wear waterproof shoes for the short walks to the bus stops.",
+              "Buses are well-heated, making them perfect for warming up.",
+              "Have your ticket or app ready for quick boarding.",
+              "Look for sheltered bus stops to stay out of the wind and rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Tag mit dem Bus ist sicher und warm. Wir starten am Terminal, während der Schnee die Stadt in Weiß hüllt.\n\nMittags besuchen wir die Kirche im Schnee. Die Busfahrt bietet großartige Ausblicke auf die winterliche Landschaft von Mosfellsbær.\n\nNachmittags wärmen wir uns im Kaffi Lágafell auf. Es ist der perfekte Stopp, bevor es weiter zur Pferde-Farm geht.\n\nDer Abend kommt früh. Wir fahren im beleuchteten Bus zurück und genießen die friedliche Winterstimmung in der Stadt.",
+            "hu": "A téli nap buszozással biztonságos és meleg. A terminálról indulunk, miközben a hó fehérbe öltözteti a várost.\n\nEbédidőben a havas templomot látogatjuk meg. A buszablakból remek kilátás nyílik Mosfellsbær téli tájaira.\n\nDélután a Kaffi Lágafellben melegszünk fel. Ez a tökéletes megálló, mielőtt továbbmennénk a lovasfarmra.\n\nAz este korán érkezik. Kivilágított busszal térünk vissza, élvezve a város békés téli hangulatát.",
+            "ro": "O zi de iarnă cu autobuzul este sigură și caldă. Pornim de la terminal în timp ce zăpada îmbracă orașul în alb.\n\nLa prânz vizităm biserica înzăpezită. Călătoria cu autobuzul oferă vederi superbe asupra peisajului de iarnă.\n\nDupă-amiaza ne încălzim la Kaffi Lágafell. Este oprirea perfectă înainte de a continua spre ferma de cai.\n\nSeara vine devreme. Ne întoarcem cu un autobuz bine iluminat, savurând atmosfera liniștită de iarnă.",
+            "en": "A winter day by bus is safe and warm. Start at the terminal as the snow covers the city in a beautiful white blanket.\n\nAt noon, visit the church in the snow. The bus ride offers great views of Mosfellsbær's stunning winter landscape.\n\nIn the afternoon, warm up at Kaffi Lágafell. It is the perfect stop before heading out to the horse farm.\n\nThe evening arrives early. Return by an illuminated bus, enjoying the peaceful winter atmosphere of the city."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Start at the Bus Terminal",
+              "tip_5lang": {
+                "de": "Das Terminal ist ein guter Ort, um die aktuelle Wetterlage zu prüfen.",
+                "hu": "A terminál remek hely az aktuális időjárás ellenőrzésére.",
+                "ro": "Terminalul este un loc bun pentru a verifica vremea curentă.",
+                "en": "The terminal is a good spot to check for any weather updates."
+              }
+            },
+            {
+              "name": "Álafosskvos & Waterfall",
+              "tip_5lang": {
+                "de": "Die Wege zwischen Haltestelle und Álafoss können vereist sein.",
+                "hu": "A buszmegálló és Álafoss közötti utak jegesek lehetnek.",
+                "ro": "Drumul dintre stație și Álafoss poate fi înghețat.",
+                "en": "The paths between the stop and Álafoss can be very icy."
+              }
+            },
+            {
+              "name": "Mosfellskirkja Church",
+              "tip_5lang": {
+                "de": "Die Kirche ist im Winter oft ein schöner, ruhiger Rückzugsort.",
+                "hu": "A templom télen gyakran egy szép, csendes menedékhely.",
+                "ro": "Biserica este adesea un refugiu frumos și liniștit iarna.",
+                "en": "The church is often a beautiful, quiet retreat in winter."
+              }
+            },
+            {
+              "name": "Cluster 2: Lágafell Area",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Fahrplanaushänge an den Haltestellen.",
+                "hu": "Figyelje a menetrendi kiírásokat a megállókban.",
+                "ro": "Urmăriți afișajele cu orarul în stații.",
+                "en": "Keep an eye on the schedule displays at the bus stops."
+              }
+            },
+            {
+              "name": "Late lunch at Kaffi Lágafell",
+              "tip_5lang": {
+                "de": "Probieren Sie das traditionelle isländische Gebäck zum Aufwärmen.",
+                "hu": "Kóstolja meg a hagyományos izlandi süteményeket a melegben.",
+                "ro": "Gustați produsele de patiserie tradiționale pentru a vă încălzi.",
+                "en": "Try some traditional Icelandic pastries to warm you up."
+              }
+            },
+            {
+              "name": "Cluster 3: Laxnes Horse Farm",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nah an der Farm, ideal bei Kälte.",
+                "hu": "A buszmegálló közel van a farmhoz, ideális hidegben.",
+                "ro": "Stația este aproape de fermă, ideal pe timp de ger.",
+                "en": "The bus stop is close to the farm, ideal for cold days."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bussen (Strætó) sind im Winter sehr zuverlässig.",
+              "Prüfen Sie straeto.is auf Verspätungen bei starkem Schneefall.",
+              "Tragen Sie warme Kleidung, das Warten an Haltestellen kann kalt sein.",
+              "Nutzen Sie die App, um die genaue Position des Busses zu sehen.",
+              "Reflektoren sind wichtig, damit der Busfahrer Sie im Dunkeln sieht."
+            ],
+            "hu": [
+              "A buszok (Strætó) télen is nagyon megbízhatóak.",
+              "Erős havazáskor ellenőrizze a straeto.is oldalt késésekért.",
+              "Öltözzön melegen, a megállókban való várakozás hideg lehet.",
+              "Használja az appot a busz pontos helyzetének követéséhez.",
+              "A fényvisszaverő fontos, hogy a sofőr lássa önt a sötétben."
+            ],
+            "ro": [
+              "Autobuzele (Strætó) sunt foarte de încredere iarna.",
+              "Verificați straeto.is pentru întârzieri în caz de ninsoare mare.",
+              "Îmbrăcați-vă gros; așteptarea în stații poate fi friguroasă.",
+              "Folosiți aplicația pentru a vedea poziția reală a autobuzului.",
+              "Elementele reflectorizante sunt vitale pentru a fi văzut de șofer."
+            ],
+            "en": [
+              "The local buses (Strætó) are very reliable even in winter.",
+              "Check straeto.is for any delays during heavy snowfall.",
+              "Dress warmly as waiting at stops can be quite cold.",
+              "Use the mobile app to track the bus's live location.",
+              "Wear reflectors so the driver can see you in the dark."
+            ]
+          }
+        }
       }
     }
   }

@@ -362,6 +362,188 @@
           "A reusable water bottle is useful as Norwegian tap water is of excellent quality.",
           "The weather can change quickly, so pack a light rain jacket."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Tag in Stjørdal beginnt im modernen Kimen Kulturhaus, einem perfekten Zufluchtsort. Mittags führt ein kurzer, nasser Spaziergang zur historischen Værnes-Kirche und zum Museum, wo Sie im Trockenen in die Geschichte eintauchen. Nach dem Mittagessen im Zentrum bietet der Sandskogan-Wald trotz Regen eine erfrischende Atmosphäre. Der Tag endet gemütlich beim Shopping in den überdachten Bereichen der Innenstadt.",
+            "hu": "Az esős nap Stjørdalban a modern Kimen Kulturházban kezdődik, amely tökéletes menedék a víz elől. Délben rövid, ázós séta vezet a történelmi Værnes templomhoz és múzeumhoz, ahol fedett helyen ismerkedhet a múlttal. Az ebéd után a Sandskogan erdő az esőben is friss illatú, bár sáros lehet. A napot a belváros üzleteiben, védett helyen zárjuk, egy kis vásárlással.",
+            "ro": "O zi ploioasă în Stjørdal începe la moderna Casă de Cultură Kimen, refugiul perfect împotriva vremii. La prânz, o scurtă plimbare prin ploaie vă duce la biserica istorică Værnes și la muzeu, unde explorați istoria la adăpost. După prânzul în centru, pădurea Sandskogan oferă o atmosferă revigorantă, în ciuda umezelii. Ziua se încheie confortabil cu cumpărături în zonele acoperite ale centrului.",
+            "en": "A rainy day in Stjørdal starts at the modern Kimen Culture House, a perfect sanctuary from the weather. At noon, a short, wet walk leads to the historic Værnes Church and museum, where you dive into history indoors. After lunch in the center, the Sandskogan forest offers a refreshing atmosphere despite the rain. The day ends cozily with shopping in the sheltered areas of the city center."
+          },
+          "stops": [
+            {
+              "name": "Kimen Culture House",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bibliothek und das Café, um trocken zu bleiben.",
+                "hu": "Használja a könyvtárat és a kávézót a szárazon maradáshoz.",
+                "ro": "Folosiți biblioteca și cafeneaua pentru a rămâne la adăpost.",
+                "en": "Use the library and cafe to stay dry and warm."
+              }
+            },
+            {
+              "name": "Værnes Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Steinkunst im Inneren während es draußen regnet.",
+                "hu": "Csodálja meg a kőfaragásokat belül, miközben kint esik.",
+                "ro": "Admirați sculpturile în piatră din interior în timp ce plouă.",
+                "en": "Admire the stone art inside while it rains outside."
+              }
+            },
+            {
+              "name": "Stjørdal Museum Værnes",
+              "tip_5lang": {
+                "de": "Die Innenausstellungen bieten stundenlangen Schutz vor dem Regen.",
+                "hu": "A benti kiállítások órákig tartó védelmet nyújtanak az eső ellen.",
+                "ro": "Expozițiile interioare oferă ore de protecție împotriva ploii.",
+                "en": "Indoor exhibitions provide hours of shelter from the rain."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
+                "hu": "Válasszon olyan éttermet, ahol van ruhatár a vizes kabátoknak.",
+                "ro": "Alegeți un restaurant cu garderobă pentru hainele ude.",
+                "en": "Choose a restaurant with a cloakroom for wet coats."
+              }
+            },
+            {
+              "name": "Sandskogan",
+              "tip_5lang": {
+                "de": "Die Nadelbäume bieten einen natürlichen Schutz vor leichtem Regen.",
+                "hu": "A fenyőfák természetes védelmet nyújtanak az enyhe eső ellen.",
+                "ro": "Coniferele oferă o protecție naturală împotriva ploii ușoare.",
+                "en": "The coniferous trees provide natural cover from light rain."
+              }
+            },
+            {
+              "name": "Shopping in the Center",
+              "tip_5lang": {
+                "de": "Die Einkaufszentren im Zentrum sind ideal für regnerische Nachmittage.",
+                "hu": "A központ bevásárlóközpontjai ideálisak esős délutánokra.",
+                "ro": "Centrele comerciale din centru sunt ideale pentru după-amiezi ploioase.",
+                "en": "Shopping malls in the center are ideal for rainy afternoons."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei Küstenwinden unerlässlich.",
+              "Wasserdichte Schuhe sind für die Wege zum Museum wichtig.",
+              "Kimen hat oft kostenlose Ausstellungen im Innenbereich.",
+              "Die Wege in Sandskogan können bei starkem Regen matschig sein."
+            ],
+            "hu": [
+              "A tengerparti szél miatt egy erős esernyő elengedhetetlen.",
+              "Vízálló cipő ajánlott a múzeum környéki sétákhoz.",
+              "A Kimen gyakran kínál ingyenes benti kiállításokat.",
+              "A Sandskogan ösvényei nagy esőben sárosak lehetnek."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza vântului de coastă.",
+              "Încălțămintea impermeabilă este importantă pentru drumul spre muzeu.",
+              "Kimen are adesea expoziții interioare gratuite.",
+              "Potecile din Sandskogan pot fi noroioase în caz de ploaie abundentă."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to coastal winds.",
+              "Waterproof shoes are important for the paths to the museum.",
+              "Kimen often has free indoor exhibitions to enjoy.",
+              "Paths in Sandskogan can be muddy during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Stjørdal im Winter versprüht einen besonderen Charme. Morgens bietet das Kimen Kulturhaus wohlige Wärme, bevor Sie zur verschneiten Værnes-Kirche spazieren. Mittags tauchen Sie im Museum in die winterliche Geschichte Norwegens ein. Nach einem stärkenden Mittagessen im hell erleuchteten Zentrum erleben Sie die blaue Stunde im Sandskogan-Wald. Der Tag endet mit einem gemütlichen Einkaufsbummel, während draußen die Dunkelheit einbricht.",
+            "hu": "A téli Stjørdal különleges bájt áraszt. Reggel a Kimen Kulturház nyújt meleget, mielőtt elsétálnánk a hófödte Værnes templomhoz. Délben a múzeumban merülhetünk el Norvégia téli történelmében. Egy kiadós ebéd után a kivilágított központban, a Sandskogan erdőben élvezhetjük a kék órát. A napot hangulatos vásárlással zárjuk, miközben odakint korán leszáll az éj.",
+            "ro": "Stjørdal iarna emană un farmec aparte. Dimineața, Casa de Cultură Kimen oferă căldură, înainte de a merge la biserica Værnes înzăpezită. La prânz, vă delectați cu istoria iernatică a Norvegiei la muzeu. După un prânz consistent în centrul luminat, experimentați ora albastră în pădurea Sandskogan. Ziua se încheie cu cumpărături plăcute, în timp ce afară se întunecă devreme.",
+            "en": "Stjørdal in winter radiates a special charm. In the morning, Kimen Culture House offers cozy warmth before you walk to the snowy Værnes Church. At noon, immerse yourself in Norway's winter history at the museum. After a hearty lunch in the brightly lit center, experience the blue hour in Sandskogan forest. The day ends with a pleasant shopping trip as darkness falls early outside."
+          },
+          "stops": [
+            {
+              "name": "Kimen Culture House",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich hier auf, bevor Sie den Spaziergang antreten.",
+                "hu": "Melegedjen fel itt, mielőtt elindulna a sétára.",
+                "ro": "Încălziți-vă aici înainte de a începe plimbarea.",
+                "en": "Warm up here properly before starting your walk."
+              }
+            },
+            {
+              "name": "Værnes Church",
+              "tip_5lang": {
+                "de": "Die Kirche wirkt im weißen Schnee besonders mystisch.",
+                "hu": "A templom a fehér hóban különösen misztikus látványt nyújt.",
+                "ro": "Biserica arată deosebit de mistic în zăpada albă.",
+                "en": "The church looks particularly mystical in the white snow."
+              }
+            },
+            {
+              "name": "Stjørdal Museum Værnes",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Atmosphäre in den Ausstellungsräumen.",
+                "hu": "Élvezze a kiállítótermek meleg és barátságos légkörét.",
+                "ro": "Bucurați-vă de atmosfera caldă din sălile de expoziție.",
+                "en": "Enjoy the warm and welcoming atmosphere in the galleries."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_5lang": {
+                "de": "Probieren Sie eine heiße norwegische Suppe zur Stärkung.",
+                "hu": "Kóstoljon meg egy forró norvég levest az erőgyűjtéshez.",
+                "ro": "Încercați o supă norvegiană fierbinte pentru a vă revigora.",
+                "en": "Try a hot Norwegian soup to recharge your energy."
+              }
+            },
+            {
+              "name": "Sandskogan",
+              "tip_5lang": {
+                "de": "Beachten Sie, dass es hier ab 15:30 Uhr dunkel wird.",
+                "hu": "Vegye figyelembe, hogy itt délután fél 4-kor már sötétedik.",
+                "ro": "Rețineți că se întunecă deja de la ora 15:30.",
+                "en": "Note that it starts getting dark here from 15:30."
+              }
+            },
+            {
+              "name": "Shopping in the Center",
+              "tip_5lang": {
+                "de": "Die festliche Beleuchtung sorgt für eine tolle Stimmung.",
+                "hu": "Az ünnepi kivilágítás remek hangulatot teremt a vásárláshoz.",
+                "ro": "Iluminatul festiv creează o atmosferă minunată.",
+                "en": "The festive lighting creates a great shopping atmosphere."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schuhspikes (Broddar) sind bei vereisten Gehwegen sehr ratsam.",
+              "Tragen Sie mehrere Schichten Wolle (Ull), um warm zu bleiben.",
+              "Die Sonne geht im Dezember bereits vor 15:00 Uhr unter.",
+              "Kimen bietet oft heißen Kakao in seinem Café an."
+            ],
+            "hu": [
+              "A jeges járdákon erősen ajánlott a csúszásgátló talp (Broddar).",
+              "Viseljen több réteg gyapjúruhát a melegen maradáshoz.",
+              "Decemberben a nap már délután 3 előtt lemegy.",
+              "A Kimen kávézójában gyakran kapható forró kakaó."
+            ],
+            "ro": [
+              "Crampoanele pentru pantofi sunt recomandate pe trotuarele înghețate.",
+              "Purtați mai multe straturi de lână pentru a vă menține căldura.",
+              "Soarele apune deja înainte de ora 15:00 în decembrie.",
+              "Kimen oferă adesea ciocolată caldă în cafeneaua sa."
+            ],
+            "en": [
+              "Shoe spikes (Broddar) are highly recommended on icy pavements.",
+              "Wear multiple layers of wool (Ull) to stay warm.",
+              "The sun sets before 15:00 in December.",
+              "Kimen often serves hot cocoa in its cozy cafe."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -718,6 +900,188 @@
           "Bring snacks and water, especially for the ride to Leirfall.",
           "Check the weather forecast; coastal winds can be strong."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert die richtige Einstellung. Morgens geht es zügig zum Kimen Kulturhaus, gefolgt von einem Besuch der Værnes-Kirche. Der Weg nach Hell ist flach, aber bei Nässe rutschig. Nach einem warmen Mittagessen in Hell radeln Sie durch den Sandskogan zum Abschluss bei den Felsritzungen in Leirfall. Die frische, feuchte Luft macht die Fahrt zu einem intensiven Naturerlebnis.",
+            "hu": "A biciklitúra esőben megfelelő hozzáállást igényel. Reggel gyorsan tekerünk a Kimen Kulturházhoz, majd a Værnes templomhoz. A Hell felé vezető út sík, de vizesen csúszós lehet. Egy meleg ebéd után Hellben, a Sandskogan-on át a Leirfall sziklarajzokhoz tekerünk. A friss, párás levegő intenzív természetközeli élménnyé teszi az utat.",
+            "ro": "O tură cu bicicleta pe ploaie necesită atitudinea potrivită. Dimineața pedalați rapid spre Casa de Cultură Kimen, urmată de biserica Værnes. Drumul spre Hell este plat, dar alunecos când este ud. După un prânz cald în Hell, pedalați prin Sandskogan spre desenele rupestre din Leirfall. Aerul proaspăt și umed face din călătorie o experiență intensă în natură.",
+            "en": "A bike tour in the rain requires the right mindset. In the morning, pedal quickly to Kimen Culture House, followed by Værnes Church. The road to Hell is flat but slippery when wet. After a warm lunch in Hell, cycle through Sandskogan to finish at the Leirfall rock carvings. The fresh, damp air makes the ride an intense nature experience."
+          },
+          "stops": [
+            {
+              "name": "Kimen Culture House",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad im überdachten Bereich am Eingang.",
+                "hu": "Parkolja le a biciklit a bejárat melletti fedett tárolóban.",
+                "ro": "Parcați bicicleta în zona acoperită de la intrare.",
+                "en": "Park your bike in the sheltered area by the entrance."
+              }
+            },
+            {
+              "name": "Værnes Church & Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Museum, um Ihre Kleidung zu trocknen.",
+                "hu": "Használja ki a múzeumban töltött időt a ruhái szárítására.",
+                "ro": "Folosiți timpul petrecut în muzeu pentru a vă usca hainele.",
+                "en": "Take advantage of the museum visit to dry your gear."
+              }
+            },
+            {
+              "name": "Hell Station",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Schienenübergängen in Bahnhofsnähe.",
+                "hu": "Vigyázzon a csúszós sínátjárókkal az állomás közelében.",
+                "ro": "Atenție la trecerile peste șine alunecoase lângă gară.",
+                "en": "Watch out for slippery rail crossings near the station."
+              }
+            },
+            {
+              "name": "Lunch in Hell",
+              "tip_5lang": {
+                "de": "Ein heißer Kaffee hilft gegen die Kälte des Regens.",
+                "hu": "Egy forró kávé segít az eső okozta lehűlés ellen.",
+                "ro": "O cafea fierbinte ajută împotriva frigului adus de ploaie.",
+                "en": "A hot coffee helps against the chill of the rain."
+              }
+            },
+            {
+              "name": "Sandskogan",
+              "tip_5lang": {
+                "de": "Fahren Sie auf den asphaltierten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon az aszfaltozott utakon a sár elkerülése érdekében.",
+                "ro": "Mergeți pe potecile asfaltate pentru a evita noroiul.",
+                "en": "Stick to paved paths to avoid excessive mud."
+              }
+            },
+            {
+              "name": "Rock Carvings at Leirfall",
+              "tip_5lang": {
+                "de": "Die Felsen sind bei Nässe extrem glatt, Vorsicht beim Gehen.",
+                "hu": "A sziklák vizesen rendkívül csúszósak, óvatosan lépkedjen.",
+                "ro": "Stâncile sunt extrem de alunecoase, atenție la mers.",
+                "en": "The rocks are extremely slippery when wet, walk carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Wasserdichte Handschuhe halten Ihre Hände beweglich.",
+              "Überprüfen Sie Ihre Bremsen, da der Bremsweg bei Nässe länger ist.",
+              "Ein Helmvisier hilft, die Sicht bei Regen frei zu halten."
+            ],
+            "hu": [
+              "A sárvédő használata ilyenkor kötelező a biciklin.",
+              "A vízálló kesztyű segít, hogy a kezei ne fagyjanak el.",
+              "Ellenőrizze a fékeket, mert vizes úton hosszabb a féktáv.",
+              "A sisakrostély segít tisztán tartani a látást esőben."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii pe vremea asta.",
+              "Mănușile impermeabile vă mențin mâinile mobile.",
+              "Verificați frânele, distanța de frânare este mai mare pe ud.",
+              "O vizieră la cască ajută la menținerea vizibilității pe ploaie."
+            ],
+            "en": [
+              "Mudguards are a must-have on your bike in this weather.",
+              "Waterproof gloves will keep your hands from freezing.",
+              "Check your brakes as stopping distance is longer when wet.",
+              "A helmet visor helps keep your vision clear in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking in Stjørdal ist ein Abenteuer für Mutige. Mit Spikereifen geht es morgens zum Kimen Kulturhaus und weiter zur Værnes-Kirche. Die flache Strecke nach Hell bietet weite Ausblicke über die verschneite Landschaft. Nach dem Aufwärmen beim Mittagessen führt der Weg durch den winterlichen Sandskogan. Bevor es ganz dunkel wird, erreichen Sie die magisch wirkenden Felsritzungen in Leirfall.",
+            "hu": "A téli biciklizés Stjørdalban a bátrak kalandja. Szöges gumikkal vágunk neki a Kimen Kulturháznak, majd a Værnes templomnak. A Hell felé vezető sík szakasz pazar kilátást nyújt a hófödte tájra. Ebéd utáni átmelegedést követően a téli Sandskogan-on tekerünk át, majd még sötétedés előtt elérjük a mágikus Leirfall sziklarajzokat.",
+            "ro": "Ciclismul de iarnă în Stjørdal este o aventură pentru cei curajoși. Cu anvelope cu ținte, mergeți la Kimen și apoi la biserica Værnes. Traseul plat spre Hell oferă vederi largi asupra peisajului înzăpezit. După încălzirea la prânz, drumul duce prin Sandskogan-ul de iarnă. Înainte de a se întuneca complet, ajungeți la desenele rupestre din Leirfall.",
+            "en": "Winter biking in Stjørdal is an adventure for the brave. With studded tires, head to Kimen in the morning and on to Værnes Church. The flat stretch to Hell offers wide views over the snowy landscape. After warming up at lunch, the path leads through wintery Sandskogan. Before it gets completely dark, you reach the magical rock carvings at Leirfall."
+          },
+          "stops": [
+            {
+              "name": "Kimen Culture House",
+              "tip_5lang": {
+                "de": "Hinterlassen Sie keinen Schnee im Eingangsbereich.",
+                "hu": "Ne vigyen be havat a cipőjével vagy kerekével a bejárathoz.",
+                "ro": "Nu lăsați zăpadă în zona de intrare.",
+                "en": "Try not to bring snow into the entrance area."
+              }
+            },
+            {
+              "name": "Værnes Church & Museum",
+              "tip_5lang": {
+                "de": "Parken Sie auf festem Untergrund, um nicht einzusinken.",
+                "hu": "Parkoljon szilárd talajon, hogy ne süllyedjen el a hóban.",
+                "ro": "Parcați pe teren solid pentru a nu vă scufunda în zăpadă.",
+                "en": "Park on solid ground to avoid sinking into the snow."
+              }
+            },
+            {
+              "name": "Hell Station",
+              "tip_5lang": {
+                "de": "Das 'Hell'-Schild sieht im Schnee besonders kurios aus.",
+                "hu": "A 'Hell' felirat különösen furcsán fest a hóban.",
+                "ro": "Semnul 'Hell' arată deosebit de curios în zăpadă.",
+                "en": "The 'Hell' sign looks especially quirky in the snow."
+              }
+            },
+            {
+              "name": "Lunch in Hell",
+              "tip_5lang": {
+                "de": "Trinken Sie etwas Heißes, bevor Sie weiterfahren.",
+                "hu": "Igyon valami forrót, mielőtt továbbtekerne.",
+                "ro": "Beți ceva fierbinte înainte de a porni din nou la drum.",
+                "en": "Drink something hot before you continue your ride."
+              }
+            },
+            {
+              "name": "Sandskogan",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen unter der Schneedecke.",
+                "hu": "Vigyázzon a hóréteg alatt megbúvó jeges foltokkal.",
+                "ro": "Atenție la porțiunile înghețate de sub stratul de zăpadă.",
+                "en": "Watch out for icy patches hidden under the snow layer."
+              }
+            },
+            {
+              "name": "Rock Carvings at Leirfall",
+              "tip_5lang": {
+                "de": "Die Gravuren sind im Winter oft mit Schnee bedeckt.",
+                "hu": "A sziklarajzokat télen gyakran hó fedi, nehéz megtalálni.",
+                "ro": "Gravurile sunt adesea acoperite de zăpadă iarna.",
+                "en": "The carvings are often covered with snow in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen (Piggdekk) sind für Eisflächen absolut notwendig.",
+              "Front- und Rücklichter müssen ab 14:30 Uhr eingeschaltet sein.",
+              "Die Kälte entlädt E-Bike-Akkus deutlich schneller.",
+              "Trinken Sie auch bei Kälte genug Wasser."
+            ],
+            "hu": [
+              "A szöges gumi (Piggdekk) elengedhetetlen a jeges úton.",
+              "Az első és hátsó lámpákat délután fél 3-tól be kell kapcsolni.",
+              "A hideg jelentősen gyorsabban meríti az e-bike akkumulátorokat.",
+              "Hidegben is figyeljen a megfelelő folyadékpótlásra."
+            ],
+            "ro": [
+              "Anvelopele cu ținte (Piggdekk) sunt absolut necesare pe gheață.",
+              "Luminile față și spate trebuie aprinse de la ora 14:30.",
+              "Frigul descarcă bateriile bicicletelor electrice mult mai repede.",
+              "Beți suficientă apă chiar și atunci când este frig."
+            ],
+            "en": [
+              "Studded tires (Piggdekk) are absolutely necessary for icy roads.",
+              "Front and rear lights must be switched on by 14:30.",
+              "Cold weather drains e-bike batteries much faster.",
+              "Make sure to stay hydrated even in cold weather."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1462,206 @@
           "The 'cluster-walking' principle is key: park once per area and explore on foot.",
           "Fuel up beforehand, as gas stations can be less frequent in rural areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto lässt sich Stjørdal bei Regen komfortabel erkunden. Den Vormittag verbringen Sie bei der imposanten Festung Hegra und den Leirfall-Felsritzungen. Mittags führt die Fahrt zum geschichtsträchtigen Steinvikholm Castle am Fjord. Nach dem Lunch in Stjørdal besuchen Sie die Værnes-Kirche und das Museum, bevor Sie den Tag am berühmten Bahnhof Hell ausklingen lassen.",
+            "hu": "Autóval Stjørdal esőben is kényelmesen felfedezhető. A délelőttöt az impozáns Hegra erődnél és a Leirfall sziklarajzoknál töltjük. Délben a fjord partján álló, történelmi Steinvikholm várához autózunk. A stjørdali ebéd után a Værnes templomot és múzeumot látogatjuk meg, majd a napot a híres Hell vasútállomásnál zárjuk.",
+            "ro": "Cu mașina, Stjørdal poate fi explorat confortabil chiar și pe ploaie. Dimineața o petreceți la impunătoarea cetate Hegra și la desenele rupestre din Leirfall. La prânz, drumul duce la castelul istoric Steinvikholm de pe fjord. După prânzul în Stjørdal, vizitați biserica Værnes și muzeul, înainte de a încheia ziua la faimoasa gară Hell.",
+            "en": "By car, Stjørdal can be explored comfortably even in the rain. Spend the morning at the imposing Hegra Fortress and the Leirfall rock carvings. At noon, the drive leads to the historic Steinvikholm Castle on the fjord. After lunch in Stjørdal, visit Værnes Church and the museum before ending the day at the famous Hell Station."
+          },
+          "stops": [
+            {
+              "name": "Hegra Fortress",
+              "tip_5lang": {
+                "de": "Der Weg zur Festung kann bei Regen rutschig sein.",
+                "hu": "Az erődhöz vezető út esőben csúszós lehet.",
+                "ro": "Drumul spre cetate poate fi alunecos pe ploaie.",
+                "en": "The path to the fortress can be slippery during rain."
+              }
+            },
+            {
+              "name": "Rock Carvings at Leirfall",
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Felsen schnell zwischen den Regenschauern.",
+                "hu": "Nézze meg a sziklákat gyorsan a záporok közötti szünetben.",
+                "ro": "Vizitați stâncile rapid între reprizele de ploaie.",
+                "en": "View the rocks quickly during breaks between showers."
+              }
+            },
+            {
+              "name": "Steinvikholm Castle",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob der Damm bei Hochwasser passierbar ist.",
+                "hu": "Ellenőrizze, hogy a gát járható-e magas vízállásnál.",
+                "ro": "Verificați dacă digul este practicabil în caz de flux.",
+                "en": "Check if the causeway is passable during high tide."
+              }
+            },
+            {
+              "name": "Lunch in Stjørdal",
+              "tip_5lang": {
+                "de": "Parken Sie in der Tiefgarage des Einkaufszentrums.",
+                "hu": "Parkoljon a bevásárlóközpont mélygarázsában.",
+                "ro": "Parcați în garajul subteran al centrului comercial.",
+                "en": "Park in the underground garage of the shopping center."
+              }
+            },
+            {
+              "name": "Værnes Church",
+              "tip_5lang": {
+                "de": "Vom Parkplatz zum Eingang sind es nur wenige Meter.",
+                "hu": "A parkolótól a bejáratig csak pár métert kell sétálni.",
+                "ro": "Sunt doar câțiva metri de la parcare până la intrare.",
+                "en": "It's only a few meters from the parking lot to the entrance."
+              }
+            },
+            {
+              "name": "Stjørdal Museum Værnes",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um eine längere Regenperiode abzuwarten.",
+                "hu": "Tökéletes hely egy hosszabb esős időszak kivárására.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei perioade cu ploaie.",
+                "en": "Perfect place to wait out a longer period of rain."
+              }
+            },
+            {
+              "name": "Hell Station",
+              "tip_5lang": {
+                "de": "Ein kurzes Foto am Schild ist auch bei Regen möglich.",
+                "hu": "Egy gyors fotó a táblánál esőben is belefér.",
+                "ro": "O fotografie rapidă la semn este posibilă și pe ploaie.",
+                "en": "A quick photo by the sign is possible even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht vor Aquaplaning auf der E6 bei starkem Regen.",
+              "Halten Sie die Scheinwerfer für bessere Sichtbarkeit sauber.",
+              "Steinvikholm kann bei Wind sehr ungemütlich sein.",
+              "In Stjørdal gibt es viele Parkplätze mit Ladesäulen."
+            ],
+            "hu": [
+              "Vigyázzon az aquaplaningre az E6-os úton nagy esőben.",
+              "Tartsa tisztán a fényszórókat a jobb láthatóságért.",
+              "Steinvikholm szeles időben nagyon barátságtalan lehet.",
+              "Stjørdalban sok parkolóhelyen van elektromos töltőoszlop."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe E6 în caz de ploaie torențială.",
+              "Păstrați farurile curate pentru o mai bună vizibilitate.",
+              "Steinvikholm poate fi foarte inconfortabil pe vânt.",
+              "În Stjørdal există multe parcări cu stații de încărcare."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the E6 during heavy rain.",
+              "Keep your headlights clean for better visibility.",
+              "Steinvikholm can be very exposed and windy.",
+              "There are plenty of parking spots with EV chargers in Stjørdal."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch Stjørdal offenbart die stille Schönheit Norwegens. Zuerst geht es zur verschneiten Festung Hegra und den Leirfall-Felsritzungen. Mittags ist das Steinvikholm Castle im Fjord ein dramatisches Fotomotiv. Nach dem Lunch in Stjørdal besuchen Sie die warme Værnes-Kirche und das Museum. Der Tag endet am stimmungsvoll beleuchteten Bahnhof Hell.",
+            "hu": "A téli autózás Stjørdal környékén megmutatja Norvégia csendes szépségét. Először a hófödte Hegra erődöt és a Leirfall sziklarajzokat keressük fel. Délben a fjordban álló Steinvikholm vár drámai látványt nyújt. Ebéd után a meleg Værnes templom és múzeum következik, majd a hangulatosan kivilágított Hell vasútállomás zárja a napot.",
+            "ro": "O călătorie cu mașina prin Stjørdal iarna dezvăluie frumusețea liniștită a Norvegiei. Mai întâi mergeți la cetatea Hegra înzăpezită și la desenele rupestre din Leirfall. La prânz, castelul Steinvikholm de pe fjord este un subiect foto dramatic. După prânzul în Stjørdal, vizitați biserica caldă Værnes și muzeul. Ziua se încheie la gara Hell, luminată atmosferic.",
+            "en": "A winter drive through Stjørdal reveals the quiet beauty of Norway. First, visit the snowy Hegra Fortress and the Leirfall rock carvings. At noon, Steinvikholm Castle in the fjord makes for a dramatic photo. After lunch in Stjørdal, visit the warm Værnes Church and museum. The day ends at the atmospherically lit Hell Station."
+          },
+          "stops": [
+            {
+              "name": "Hegra Fortress",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Zufahrtsstraße geräumt ist.",
+                "hu": "Ellenőrizze, hogy a bekötőutat letakarították-e.",
+                "ro": "Verificați dacă drumul de acces este deszăpezit.",
+                "en": "Check if the access road has been cleared of snow."
+              }
+            },
+            {
+              "name": "Rock Carvings at Leirfall",
+              "tip_5lang": {
+                "de": "Vorsicht, der Parkplatz kann vereist sein.",
+                "hu": "Vigyázat, a parkoló jeges lehet.",
+                "ro": "Atenție, parcarea poate fi înghețată.",
+                "en": "Be careful, the parking lot might be icy."
+              }
+            },
+            {
+              "name": "Steinvikholm Castle",
+              "tip_5lang": {
+                "de": "Der Damm ist im Winter oft glatt, gehen Sie vorsichtig.",
+                "hu": "A gát télen gyakran csúszós, óvatosan sétáljon át rajta.",
+                "ro": "Digul este adesea alunecos iarna, mergeți cu atenție.",
+                "en": "The causeway is often slippery in winter, walk carefully."
+              }
+            },
+            {
+              "name": "Lunch in Stjørdal",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung, um sich schnell aufzuwärmen.",
+                "hu": "Használja az ülésfűtést a gyors felmelegedéshez.",
+                "ro": "Folosiți încălzirea în scaune pentru a vă încălzi rapid.",
+                "en": "Use your seat heaters to warm up quickly after the stop."
+              }
+            },
+            {
+              "name": "Værnes Church",
+              "tip_5lang": {
+                "de": "Die Steinmauern halten die Kälte gut ab.",
+                "hu": "A kőfalak jól kirekesztik a kinti hideget.",
+                "ro": "Zidurile de piatră izolează bine împotriva frigului.",
+                "en": "The thick stone walls keep the outside chill at bay."
+              }
+            },
+            {
+              "name": "Stjørdal Museum Værnes",
+              "tip_5lang": {
+                "de": "Die Cafeteria bietet im Winter warme Getränke an.",
+                "hu": "A múzeum kávézója télen meleg italokkal várja.",
+                "ro": "Cafeneaua oferă băuturi calde pe timpul iernii.",
+                "en": "The museum cafeteria serves warm drinks during winter."
+              }
+            },
+            {
+              "name": "Hell Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof wirkt in der Dunkelheit sehr einladend.",
+                "hu": "Az állomás sötétben nagyon barátságosnak tűnik.",
+                "ro": "Gara arată foarte primitoare la lăsarea întunericului.",
+                "en": "The station looks very inviting in the darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Norwegen gesetzlich vorgeschrieben.",
+              "Führen Sie eine Schaufel und ein Abschleppseil im Auto mit.",
+              "Die Straßen können extrem glatt sein, fahren Sie vorsichtig.",
+              "Die Scheibenwaschanlage muss frostsicher bis -30°C sein."
+            ],
+            "hu": [
+              "Norvégiában a téli gumi használata kötelező.",
+              "Tartson az autóban hólapátot és vontatókötelet.",
+              "Az utak rendkívül csúszósak lehetnek, vezessen óvatosan.",
+              "A szélvédőmosó folyadéknak -30 fokig fagyállónak kell lennie."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Norvegia.",
+              "Țineți o lopată și o sufă de remorcare în mașină.",
+              "Drumurile pot fi extrem de alunecoase, conduceți cu prudență.",
+              "Lichidul de parbriz trebuie să reziste până la -30°C."
+            ],
+            "en": [
+              "Winter tires are mandatory by law in Norway.",
+              "Keep a snow shovel and a tow rope in your car.",
+              "Roads can be extremely icy, drive with great caution.",
+              "Ensure your windshield washer fluid is rated for -30°C."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2018,188 @@
           "Be aware of bus schedules, especially in the evening as frequencies may decrease.",
           "Remember you'll be walking within the clusters, so still wear comfortable shoes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn lässt sich der Regen in Stjørdal gut umgehen. Morgens starten Sie am Bahnhof und fahren zur Værnes-Kirche. Der Besuch des Museums schließt sich nahtlos an. Danach geht es mit dem Zug nach Hell, wo Sie gemütlich zu Mittag essen. Den Nachmittag verbringen Sie im Kimen Kulturhaus, dem kulturellen Herz der Stadt, bevor die Tour endet.",
+            "hu": "Tömegközlekedéssel Stjørdal esőben is kényelmesen bejárható. Reggel az állomásról indulunk a Værnes templomhoz, majd a múzeumba. Ezután vonattal megyünk Hellbe, ahol egy kellemes ebédet fogyasztunk el. A délutánt a város kulturális szívében, a Kimen Kulturházban töltjük, mielőtt a túra véget ér.",
+            "ro": "Cu autobuzul și trenul, ploaia din Stjørdal poate fi evitată ușor. Dimineața porniți de la gară spre biserica Værnes, urmată de vizita la muzeu. Apoi luați trenul spre Hell, unde luați un prânz plăcut. După-amiaza o petreceți la Casa de Cultură Kimen, inima culturală a orașului, înainte de finalul turului.",
+            "en": "By bus and train, you can easily avoid the rain in Stjørdal. In the morning, start at the station and travel to Værnes Church, followed by a museum visit. Then take the train to Hell for a pleasant lunch. Spend the afternoon at the Kimen Culture House, the cultural heart of the city, before the tour concludes."
+          },
+          "stops": [
+            {
+              "name": "Stjørdal Station (Start)",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle, um trocken zu bleiben.",
+                "hu": "Várjon az állomás várótermében, hogy száraz maradjon.",
+                "ro": "Așteptați în sala gării pentru a rămâne la uscat.",
+                "en": "Wait inside the station hall to stay dry."
+              }
+            },
+            {
+              "name": "Værnes Church",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle befindet sich ganz in der Nähe.",
+                "hu": "A buszmegálló egészen közel található.",
+                "ro": "Stația de autobuz se află foarte aproape.",
+                "en": "The bus stop is located very close to the church."
+              }
+            },
+            {
+              "name": "Stjørdal Museum Værnes",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg führt vom Museum zur Haltestelle.",
+                "hu": "Egy rövid séta vezet a múzeumtól a megállóig.",
+                "ro": "O scurtă plimbare duce de la muzeu la stație.",
+                "en": "A short walk connects the museum to the transit stop."
+              }
+            },
+            {
+              "name": "Hell Station",
+              "tip_5lang": {
+                "de": "Züge halten hier stündlich in beide Richtungen.",
+                "hu": "A vonatok óránként állnak meg itt mindkét irányban.",
+                "ro": "Trenurile opresc aici din oră în oră în ambele sensuri.",
+                "en": "Trains stop here hourly in both directions."
+              }
+            },
+            {
+              "name": "Lunch and Walk in Hell",
+              "tip_5lang": {
+                "de": "Das Restaurant ist nur wenige Schritte vom Bahnsteig entfernt.",
+                "hu": "Az étterem csak pár lépésre van a perontól.",
+                "ro": "Restaurantul este la doar câțiva pași de peron.",
+                "en": "The restaurant is just a few steps from the platform."
+              }
+            },
+            {
+              "name": "Kimen Culture House & Center",
+              "tip_5lang": {
+                "de": "Der Busbahnhof liegt direkt neben dem Kulturhaus.",
+                "hu": "A buszpályaudvar közvetlenül a kulturház mellett van.",
+                "ro": "Autogara este situată chiar lângă casa de cultură.",
+                "en": "The bus station is right next to the culture house."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'AtB'-App für Echtzeit-Fahrpläne.",
+              "In den Bussen und Zügen ist es angenehm warm und trocken.",
+              "Die Züge zwischen Stjørdal und Hell sind sehr zuverlässig.",
+              "Kaufen Sie Ihr Ticket vorab, um im Regen nicht am Automaten zu stehen."
+            ],
+            "hu": [
+              "Használja az 'AtB' alkalmazást a valós idejű menetrendhez.",
+              "A buszokon és vonatokon kellemes meleg és száraz idő van.",
+              "A Stjørdal és Hell közötti vonatok nagyon megbízhatóak.",
+              "Vegye meg a jegyét előre, hogy ne az esőben kelljen automatázni."
+            ],
+            "ro": [
+              "Folosiți aplicația 'AtB' pentru orare în timp real.",
+              "În autobuze și trenuri este plăcut, cald și uscat.",
+              "Trenurile între Stjørdal și Hell sunt foarte fiabile.",
+              "Cumpărați biletul în avans pentru a nu sta la aparat în ploaie."
+            ],
+            "en": [
+              "Use the 'AtB' app for real-time transit schedules.",
+              "Buses and trains are comfortably warm and dry.",
+              "Trains between Stjørdal and Hell are very reliable.",
+              "Buy your ticket in advance to avoid waiting at machines in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreisen mit Öffis in Stjørdal sind entspannt und sicher. Vom Bahnhof geht es zur verschneiten Værnes-Kirche und ins Museum. Eine kurze Zugfahrt bringt Sie nach Hell, wo Sie die winterliche Stille am Bahnhof genießen. Nach dem Lunch in Hell fahren Sie zurück ins Zentrum zum Kimen Kulturhaus, das in der Winterdämmerung hell erleuchtet ist.",
+            "hu": "A téli utazás tömegközlekedéssel Stjørdalban nyugodt és biztonságos. Az állomásról a hófödte Værnes templomhoz és a múzeumba megyünk. Egy rövid vonatozás után Hellben élvezhetjük a téli csendet az állomáson. Ebéd után visszatérünk a központba a Kimen Kulturházhoz, amely a téli szürkületben ragyogóan van kivilágítva.",
+            "ro": "Călătoriile de iarnă cu transportul public în Stjørdal sunt relaxate și sigure. De la gară mergeți la biserica Værnes înzăpezită și la muzeu. O scurtă călătorie cu trenul vă duce la Hell, unde vă bucurați de liniștea iernii la gară. După prânz, reveniți în centru la Casa de Cultură Kimen, iluminată puternic în amurgul de iarnă.",
+            "en": "Winter travel by public transit in Stjørdal is relaxed and safe. From the station, head to the snowy Værnes Church and the museum. A short train ride takes you to Hell, where you can enjoy the winter silence at the station. After lunch, return to the center to Kimen Culture House, which is brightly lit in the winter twilight."
+          },
+          "stops": [
+            {
+              "name": "Stjørdal Station (Start)",
+              "tip_5lang": {
+                "de": "Die Züge sind im Winter meist pünktlich.",
+                "hu": "A vonatok télen is többnyire pontosak.",
+                "ro": "Trenurile sunt de obicei punctuale și iarna.",
+                "en": "Trains are usually on time even during winter."
+              }
+            },
+            {
+              "name": "Værnes Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Stufen beim Ein- und Aussteigen.",
+                "hu": "Ügyeljen a csúszós lépcsőkre a fel- és leszálláskor.",
+                "ro": "Atenție la treptele alunecoase la urcare și coborâre.",
+                "en": "Watch out for slippery steps when boarding the bus."
+              }
+            },
+            {
+              "name": "Stjørdal Museum Værnes",
+              "tip_5lang": {
+                "de": "Die Wartehäuschen an den Haltestellen bieten Windschutz.",
+                "hu": "A megállók várói védelmet nyújtanak a szél ellen.",
+                "ro": "Adăposturile din stații oferă protecție împotriva vântului.",
+                "en": "The shelters at the stops provide protection from the wind."
+              }
+            },
+            {
+              "name": "Hell Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist ein toller Ort für Winterfotos.",
+                "hu": "Az állomás remek helyszín téli fotók készítéséhez.",
+                "ro": "Gara este un loc minunat pentru fotografii de iarnă.",
+                "en": "The station is a great spot for winter photography."
+              }
+            },
+            {
+              "name": "Lunch and Walk in Hell",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Zug auf der Rückfahrt.",
+                "hu": "Élvezze a vonat melegét a visszaúton.",
+                "ro": "Bucurați-vă de căldura din tren la întoarcere.",
+                "en": "Enjoy the warmth of the train on your way back."
+              }
+            },
+            {
+              "name": "Kimen Culture House & Center",
+              "tip_5lang": {
+                "de": "Das Gebäude ist bis spät abends ein warmer Treffpunkt.",
+                "hu": "Az épület késő estig meleg találkozóhelyként szolgál.",
+                "ro": "Clădirea este un punct de întâlnire cald până seara târziu.",
+                "en": "The building is a warm meeting point until late evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bei starkem Schneefall kann es zu kurzen Verspätungen kommen.",
+              "Die Busse sind gut beheizt, ziehen Sie sich im Zwiebelprinzip an.",
+              "Fahrkartenautomaten können bei extremer Kälte langsam reagieren.",
+              "Die 'AtB'-App zeigt Verspätungen in Echtzeit an."
+            ],
+            "hu": [
+              "Nagy havazás esetén előfordulhatnak rövid késések.",
+              "A buszok jól fűtöttek, öltözzön rétegesen.",
+              "A jegyautomaták extrém hidegben lassabban reagálhatnak.",
+              "Az 'AtB' alkalmazás valós időben jelzi a késéseket."
+            ],
+            "ro": [
+              "În caz de ninsori abundente, pot apărea scurte întârzieri.",
+              "Autobuzele sunt bine încălzite, îmbrăcați-vă în straturi.",
+              "Automatele de bilete pot reacționa lent la frig extrem.",
+              "Aplicația 'AtB' afișează întârzierile în timp real."
+            ],
+            "en": [
+              "Brief delays may occur during heavy snowfall.",
+              "Buses are well-heated; dress in layers for comfort.",
+              "Ticket machines may respond slowly in extreme cold.",
+              "The 'AtB' app shows delays and service alerts in real-time."
+            ]
+          }
+        }
       }
     }
   }

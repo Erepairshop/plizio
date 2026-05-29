@@ -304,6 +304,188 @@
           "Most museums are closed on Mondays.",
           "Look for small cafes in Odunpazarı for a traditional Turkish coffee break."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in den charmanten Gassen von Odunpazarı, wo die bunten Häuser auch bei Regen leuchten. Am Mittag bietet der Kurşunlu-Komplex mit seinen Arkaden einen trockenen Rückzugsort voller Geschichte. Nachmittags entfliehen Sie dem Wetter im Wachsmuseum, bevor Sie den Tag in einem gemütlichen Café am Porsuk-Fluss ausklingen lassen, während die Tropfen auf das Wasser fallen. Den Abend krönt der Besuch des Devrim-Museums.",
+            "hu": "Kezdje a napot Odunpazarı történelmi negyedében, ahol a színes házak az esőben is varázslatosak. Délben a Kurşunlu komplexum árkádjai nyújtanak védelmet a záporok elől. Délután merüljön el a viaszmúzeum világában, majd keressen egy hangulatos folyóparti kávézót a Porsuk mentén. Az estét a Tülomsaş múzeumban zárhatja, ahol fedett helyen csodálhatja meg az első török autót.",
+            "ro": "Începeți ziua în cartierul istoric Odunpazarı, unde casele colorate strălucesc chiar și pe ploaie. La prânz, complexul Kurşunlu oferă adăpost sub arcadele sale istorice. După-amiaza, vizitați muzeul figurilor de ceară pentru a scăpa de vremea de afară, apoi relaxați-vă într-o cafenea de pe malul râului Porsuk. Seara se încheie la muzeul Tülomsaş, explorând istoria auto sub un acoperiș sigur.",
+            "en": "Start your day in the historic Odunpazarı district, where colorful houses look vibrant even under grey skies. At noon, the Kurşunlu Complex provides sheltered walkways amidst history. In the afternoon, stay dry at the Wax Museum, then enjoy the rhythmic rain from a cozy riverside cafe in the Adalar region. End your rainy day by visiting the indoor Devrim car exhibit at the Tülomsaş Museum."
+          },
+          "stops": [
+            {
+              "name": "Odunpazarı Historical Houses",
+              "tip_5lang": {
+                "de": "Die engen Gassen bieten etwas Schutz; nutzen Sie die vielen Museen hier.",
+                "hu": "A szűk utcák némi védelmet adnak; látogasson el a helyi galériákba.",
+                "ro": "Străzile înguste oferă adăpost; vizitați micile galerii de artă locale.",
+                "en": "Narrow alleys provide some shelter; duck into the local boutique museums."
+              }
+            },
+            {
+              "name": "Kurşunlu Complex",
+              "tip_5lang": {
+                "de": "Der Innenhof hat überdachte Gänge, ideal bei kurzen Schauern.",
+                "hu": "A belső udvar fedett folyosói tökéletesek egy rövid zápor idején.",
+                "ro": "Coridoarele acoperite din curte sunt ideale în timpul ploii.",
+                "en": "The courtyard's covered walkways are perfect during short showers."
+              }
+            },
+            {
+              "name": "Atlıhan Bazaar",
+              "tip_5lang": {
+                "de": "Ein vollständig überdachter Basar, perfekt zum Souvenirshopping im Trockenen.",
+                "hu": "Teljesen fedett bazár, ideális szuvenírvásárláshoz esőben is.",
+                "ro": "Bazar complet acoperit, perfect pentru cumpărături ferite de ploaie.",
+                "en": "A fully covered bazaar, perfect for souvenir shopping while staying dry."
+              }
+            },
+            {
+              "name": "Yılmaz Büyükerşen Wax Museum",
+              "tip_5lang": {
+                "de": "Großartige Indoor-Aktivität, planen Sie hier bei starkem Regen mehr Zeit ein.",
+                "hu": "Kiváló beltéri program; szakadó esőben töltsön itt több időt.",
+                "ro": "Activitate excelentă în interior; petreceți mai mult timp aici dacă plouă tare.",
+                "en": "Great indoor activity; plan more time here if the rain intensifies."
+              }
+            },
+            {
+              "name": "Porsuk River (Adalar Region)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Fluss aus einem der vielen Glascafés.",
+                "hu": "Élvezze a folyóparti látványt a számos üvegfalú kávézó egyikéből.",
+                "ro": "Bucurați-vă de priveliștea râului dintr-o cafenea cu pereți de sticlă.",
+                "en": "Enjoy the river view from one of the many glass-enclosed cafes."
+              }
+            },
+            {
+              "name": "Tülomsaş Revolution Car Museum",
+              "tip_5lang": {
+                "de": "Das berühmte Auto steht in einem geschlossenen Glaspavillon.",
+                "hu": "A híres autó egy zárt üvegpavilonban tekinthető meg.",
+                "ro": "Mașina faimoasă este expusă într-un pavilion de sticlă închis.",
+                "en": "The famous car is displayed inside a closed glass pavilion."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster in Odunpazarı Pfützen bilden kann.",
+              "Die vielen Museen in der Altstadt sind perfekte 'Regenstopps'.",
+              "Cafés am Porsuk-Fluss bieten gemütliche Innenplätze mit Blick aufs Wasser.",
+              "Ein Regenschirm ist bei Wind in den offenen Parkbereichen unerlässlich."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az odunpazarıi macskaköveken megállhat a víz.",
+              "Az óváros számos kis múzeuma tökéletes menedék a záporok elől.",
+              "A Porsuk-parti kávézók meleg belső tereiből remekül látszik az esős folyó.",
+              "Az esernyő elengedhetetlen, különösen a nyitottabb múzeumi kertekben."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă; pavelele din Odunpazarı pot reține apa.",
+              "Muzeele din centrul vechi sunt refugii perfecte împotriva ploii.",
+              "Cafenelele de pe malul Porsuk au spații interioare primitoare cu vedere la râu.",
+              "O umbrelă este esențială, mai ales în zonele deschise dintre obiective."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones in Odunpazarı can form puddles.",
+              "The numerous museums in the old town serve as perfect 'rain stops'.",
+              "Riverside cafes at Porsuk offer cozy indoor seating with water views.",
+              "An umbrella is essential, especially when walking between museums."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eskişehir im Winter versprüht einen besonderen Zauber, wenn Schnee die roten Dächer von Odunpazarı deckt. Wärmen Sie sich am Mittag bei einem traditionellen Tee im Kurşunlu-Komplex auf. Der Nachmittag gehört den warmen Hallen des Wachsmuseums, gefolgt von einem Spaziergang am nebligen Porsuk-Fluss. Bevor es früh dunkel wird, besuchen Sie das Devrim-Auto im Tülomsaş-Museum und genießen die winterliche Ruhe der Stadt.",
+            "hu": "A téli Eskişehir varázslatos, amikor hó fedi Odunpazarı piros tetőit. Napközben melegedjen fel egy hagyományos teával a Kurşunlu komplexumban. A délutánt töltse a viaszmúzeum fűtött termeiben, majd tegyen egy rövid sétát a ködös Porsuk-parton. Mielőtt korán leszáll az éj, csodálja meg a Devrim autót, és élvezze a város csendes, téli nyugalmát.",
+            "ro": "Eskişehir iarna are un farmec aparte, mai ales când zăpada acoperă acoperișurile din Odunpazarı. La prânz, încălziți-vă cu un ceai tradițional în complexul Kurşunlu. După-amiaza este dedicată sălilor încălzite ale muzeului de ceară, urmată de o plimbare scurtă pe malul râului Porsuk. Înainte de apusul timpuriu, vizitați mașina Devrim la muzeul Tülomsaş.",
+            "en": "Eskişehir in winter is magical, especially when snow dusts the red roofs of Odunpazarı. Warm up with a traditional tea at the Kurşunlu Complex at noon. Spend your afternoon in the heated halls of the Wax Museum, followed by a crisp walk along the misty Porsuk River. Before the early sunset, visit the Devrim car at the Tülomsaş Museum and enjoy the serene winter atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Odunpazarı Historical Houses",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schnee; das Kopfsteinpflaster kann sehr glatt sein.",
+                "hu": "Vigyázat, a macskaköves utcák hóban rendkívül csúszósak lehetnek.",
+                "ro": "Atenție la zăpadă; pavajul poate fi foarte alunecos.",
+                "en": "Watch your step; the cobblestone streets can be slippery in snow."
+              }
+            },
+            {
+              "name": "Kurşunlu Complex",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Meerschaum-Museum im Inneren, um sich aufzuwärmen.",
+                "hu": "Látogasson el a tajtékpipa múzeumba a falakon belül, hogy felmelegedjen.",
+                "ro": "Vizitați muzeul spumei de mare din interior pentru a vă încălzi.",
+                "en": "Visit the Meerschaum Museum inside to warm up during your tour."
+              }
+            },
+            {
+              "name": "Atlıhan Bazaar",
+              "tip_5lang": {
+                "de": "Holen Sie sich hier einen heißen Tee, während Sie lokales Kunsthandwerk bestaunen.",
+                "hu": "Igyon egy forró teát, miközben a helyi kézműves termékeket böngészi.",
+                "ro": "Beți un ceai fierbinte în timp ce admirați artizanatul local.",
+                "en": "Grab a hot tea while browsing local handicrafts inside."
+              }
+            },
+            {
+              "name": "Yılmaz Büyükerşen Wax Museum",
+              "tip_5lang": {
+                "de": "Gut beheizt, ein idealer Ort, um der Kälte für eine Weile zu entkommen.",
+                "hu": "Jól fűtött, ideális hely, hogy egy időre elmeneküljön a hideg elől.",
+                "ro": "Bine încălzit, un loc ideal pentru a scăpa de frig pentru o vreme.",
+                "en": "Well-heated, an ideal place to escape the cold for a while."
+              }
+            },
+            {
+              "name": "Porsuk River (Adalar Region)",
+              "tip_5lang": {
+                "de": "Probieren Sie 'Boza', ein traditionelles Wintergetränk, in den nahen Läden.",
+                "hu": "Kóstolja meg a 'bozát', a hagyományos téli italt a közeli boltokban.",
+                "ro": "Gustați 'boza', o băutură tradițională de iarnă, la magazinele din apropiere.",
+                "en": "Try 'boza', a traditional thick winter drink, at nearby shops."
+              }
+            },
+            {
+              "name": "Tülomsaş Revolution Car Museum",
+              "tip_5lang": {
+                "de": "Der kurze Weg vom Eingang zum Glaspavillon ist bei Wind oft eisig.",
+                "hu": "A bejárattól a pavilonig tartó rövid út szeles időben jeges lehet.",
+                "ro": "Drumul scurt până la pavilion poate fi înghețat pe vânt puternic.",
+                "en": "The short path to the pavilion can be icy during windy conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In Eskişehir kann es sehr kalt werden; Schichten und warme Socken sind wichtig.",
+              "Probieren Sie 'Çibörek' heiß direkt aus der Pfanne in Odunpazarı.",
+              "Die Sonne geht im Winter gegen 17:00 Uhr unter; planen Sie Outdoor-Fotos früh.",
+              "Achten Sie auf vereiste Stellen auf den Brücken über den Porsuk-Fluss."
+            ],
+            "hu": [
+              "Eskişehirben nagyon hideg lehet; a réteges öltözködés és meleg zokni alapfeltétel.",
+              "Kóstolja meg a forró 'çiböreket' közvetlenül a sütőből Odunpazarıban.",
+              "A nap télen 17:00 körül nyugszik; a kültéri fotózást időzítse korábbra.",
+              "Vigyázzon a jeges foltokra a Porsuk-folyó hídjain."
+            ],
+            "ro": [
+              "Poate fi foarte frig în Eskişehir; straturile și șosetele groase sunt vitale.",
+              "Gustați 'çibörek' fierbinte, direct de la cuptor, în Odunpazarı.",
+              "Soarele apune în jur de ora 17:00; planificați fotografiile de exterior devreme.",
+              "Atenție la porțiunile înghețate de pe podurile peste râul Porsuk."
+            ],
+            "en": [
+              "Eskişehir can get very cold; layering and warm socks are essential.",
+              "Try hot 'çibörek' fresh from the pan in the Odunpazarı district.",
+              "Sunset is around 17:00 in winter; plan your outdoor photos early.",
+              "Watch out for icy patches on the bridges crossing the Porsuk River."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -602,6 +784,188 @@
           "There are bike rental stations in the city (Esbike).",
           "The parks are large, a bike is ideal for covering more ground in less time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das regnerische Eskişehir auf zwei Rädern, beginnend bei den bunten Häusern von Odunpazarı. Am Mittag bietet der Kurşunlu-Komplex eine kurze Pause im Trockenen. Radeln Sie entlang des Porsuk-Flusses zum weitläufigen Kent Park, wo die Natur im Regen auflebt. Den Nachmittag verbringen Sie im Sazova Park, bevor Sie den Tag am Atlıhan-Basar abschließen. Die flachen Wege machen das Fahren trotz Nässe angenehm.",
+            "hu": "Fedezze fel az esős Eskişehirt két keréken, indulva Odunpazarı színes házaitól. Délben a Kurşunlu komplexum nyújt rövid pihenőt a szárazon. Tekerjen a Porsuk mentén a tágas Kent Parkba, ahol a természet újjáéled az esőben. A délutánt a Sazova Parkban töltse, majd zárja a napot az Atlıhan bazárnál. A sík utak az eső ellenére is kényelmes tekerést biztosítanak.",
+            "ro": "Explorați Eskişehir pe două roți chiar și pe ploaie, pornind de la casele din Odunpazarı. La prânz, complexul Kurşunlu oferă o pauză binemeritată. Pedalați de-a lungul râului Porsuk spre Kent Park, unde natura prinde viață sub ploaie. După-amiaza aparține parcului Sazova, terminând ziua la bazarul Atlıhan. Pistele plate fac deplasarea ușoară.",
+            "en": "Explore rainy Eskişehir on two wheels, starting from the vibrant Odunpazarı district. At noon, take a dry break at the Kurşunlu Complex. Cycle along the Porsuk River towards Kent Park, where the greenery looks refreshed by the rain. Spend your afternoon at Sazova Park before finishing at Atlıhan Bazaar. The city's flat terrain makes cycling manageable even in wet weather."
+          },
+          "stops": [
+            {
+              "name": "Odunpazarı Historical Houses",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassem Kopfsteinpflaster; fahren Sie langsam in Kurven.",
+                "hu": "Vigyázzon a nedves macskaköveken; lassítson a kanyarokban.",
+                "ro": "Atenție pe pavajul ud; încetiniți în curbe.",
+                "en": "Be careful on wet cobblestones; slow down when turning."
+              }
+            },
+            {
+              "name": "Kurşunlu Complex",
+              "tip_5lang": {
+                "de": "Es gibt Fahrradständer in der Nähe des Haupteingangs.",
+                "hu": "A főbejárat közelében találhatók kerékpártárolók.",
+                "ro": "Există suporturi pentru biciclete lângă intrarea principală.",
+                "en": "There are bicycle racks available near the main entrance."
+              }
+            },
+            {
+              "name": "Porsuk River (Adalar Region)",
+              "tip_5lang": {
+                "de": "Die Wege am Fluss können bei Regen rutschig sein.",
+                "hu": "A folyóparti utak esőben csúszósak lehetnek.",
+                "ro": "Aleile de pe malul râului pot fi alunecoase pe ploaie.",
+                "en": "The paths along the river can be slippery when wet."
+              }
+            },
+            {
+              "name": "Kent Park",
+              "tip_5lang": {
+                "de": "Große asphaltierte Wege sind ideal für Radfahrer bei Regen.",
+                "hu": "A széles aszfaltozott utak esőben is ideálisak a bringázáshoz.",
+                "ro": "Aleile asfaltate largi sunt ideale pentru bicicliști pe ploaie.",
+                "en": "Wide paved paths are ideal for cyclists during rain."
+              }
+            },
+            {
+              "name": "Sazova Park (Science, Art and Culture Park)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche bei den Museen für Pausen.",
+                "hu": "Használja a múzeumok melletti fedett részeket pihenésre.",
+                "ro": "Folosiți zonele acoperite de lângă muzee pentru pauze.",
+                "en": "Use the covered areas near the museums for short breaks."
+              }
+            },
+            {
+              "name": "Atlıhan Bazaar",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad ab und wärmen Sie sich im Inneren auf.",
+                "hu": "Parkolja le a biciklit, és melegedjen fel a bazár belsejében.",
+                "ro": "Parcați bicicleta și încălziți-vă în interiorul bazarului.",
+                "en": "Park your bike and warm up inside the bazaar."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um sich vor Spritzwasser auf den Radwegen zu schützen.",
+              "Vermeiden Sie die Straßenbahnschienen, diese sind bei Nässe extrem rutschig.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit im Verkehr.",
+              "Die Stadt ist sehr flach, was das Radfahren bei Regen weniger anstrengend macht."
+            ],
+            "hu": [
+              "Használjon sárvédőt, hogy megvédje magát a felcsapódó víztől.",
+              "Kerülje el a villamossíneket, mert nedvesen rendkívül csúszósak.",
+              "Viseljen élénk színű esőkabátot a jobb láthatóság érdekében.",
+              "A város nagyon sík, így esőben is könnyű a tekerés."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi pentru a vă proteja de apă pe pistele de biciclete.",
+              "Evitați șinele de tramvai; sunt extrem de alunecoase când sunt ude.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate sporită.",
+              "Orașul este plat, ceea ce face pedalatul pe ploaie mai puțin obositor."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from splashes on the bike paths.",
+              "Avoid riding on tram tracks as they become extremely slippery when wet.",
+              "Wear a bright rain jacket for better visibility in traffic.",
+              "The city is very flat, making cycling in the rain less strenuous."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch Eskişehir bietet klare Luft und ruhige Wege. Starten Sie in Odunpazarı, wo der Schnee die historischen Gassen dämpft. Nach einem Mittagshalt im Kurşunlu-Komplex radeln Sie am eisigen Porsuk-Fluss entlang zum Kent Park. Der Sazova Park wirkt im Winter wie ein Märchenschloss im Eis. Beenden Sie Ihre Tour am Atlıhan-Basar mit einem heißen Getränk, bevor die Kälte des Abends einsetzt.",
+            "hu": "A téli kerékpártúra Eskişehirben friss levegőt és csendes utakat kínál. Induljon Odunpazaríból, ahol a hó tompítja a történelmi utcák zaját. A Kurşunlu komplexumnál tartott pihenő után tekerjen a jeges Porsuk mentén a Kent Parkba. A Sazova Park télen olyan, mint egy jégbe zárt tündérkastély. Zárja a túrát az Atlıhan bazárnál egy forró itallal.",
+            "ro": "O tură cu bicicleta iarna prin Eskişehir oferă aer curat și poteci liniștite. Porniți din Odunpazarı, unde zăpada acoperă străzile istorice. După un popas la Kurşunlu, pedalați pe lângă Porsuk spre Kent Park. Parcul Sazova arată ca un castel de basm în gheață. Încheiați tura la bazarul Atlıhan cu o băutură fierbinte.",
+            "en": "A winter bike tour through Eskişehir offers crisp air and quiet paths. Start in Odunpazarı, where snow blankets the historic alleys. After a midday stop at the Kurşunlu Complex, cycle along the icy Porsuk River to Kent Park. Sazova Park looks like a fairytale kingdom in winter. End your journey at Atlıhan Bazaar with a hot drink before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Odunpazarı Historical Houses",
+              "tip_5lang": {
+                "de": "Glatteisgefahr auf dem alten Kopfsteinpflaster.",
+                "hu": "Jegesedés veszélye a régi macskaköveken.",
+                "ro": "Pericol de polei pe pavajul vechi din piatră.",
+                "en": "Risk of black ice on the old cobblestone streets."
+              }
+            },
+            {
+              "name": "Kurşunlu Complex",
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause, um die Finger am heißen Tee aufzuwärmen.",
+                "hu": "Tartson szünetet, és melegítse fel ujjait egy forró teával.",
+                "ro": "Faceți o pauză pentru a vă încălzi mâinile cu un ceai.",
+                "en": "Take a break to warm your fingers with a hot tea here."
+              }
+            },
+            {
+              "name": "Porsuk River (Adalar Region)",
+              "tip_5lang": {
+                "de": "Der Wind am Fluss kann im Winter sehr schneidend sein.",
+                "hu": "A folyóparti szél télen nagyon metsző lehet.",
+                "ro": "Vântul de lângă râu poate fi foarte tăios iarna.",
+                "en": "The wind along the river can be very piercing in winter."
+              }
+            },
+            {
+              "name": "Kent Park",
+              "tip_5lang": {
+                "de": "Die Wege werden meist schnell geräumt, ideal für eine Winterrunde.",
+                "hu": "Az utakat általában gyorsan letakarítják, ideális téli tekeréshez.",
+                "ro": "Aleile sunt de obicei curățate rapid, ideale pentru o tură iarna.",
+                "en": "Paths are usually cleared quickly, ideal for a winter ride."
+              }
+            },
+            {
+              "name": "Sazova Park (Science, Art and Culture Park)",
+              "tip_5lang": {
+                "de": "Die Cafés im Park sind im Winter wunderbare Wärmestationen.",
+                "hu": "A park kávézói télen kiváló melegedőhelyek.",
+                "ro": "Cafenelele din parc sunt puncte de încălzire excelente iarna.",
+                "en": "The park's cafes are wonderful warming stations in winter."
+              }
+            },
+            {
+              "name": "Atlıhan Bazaar",
+              "tip_5lang": {
+                "de": "Trockener Platz zum Abstellen der Ausrüstung während des Besuchs.",
+                "hu": "Száraz hely a felszerelés tárolására a látogatás alatt.",
+                "ro": "Loc uscat pentru a lăsa echipamentul în timpul vizitei.",
+                "en": "Dry place to rest and store gear while you look around."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe, da die Hände am Lenker schnell auskühlen.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck hilft auf rutschigem Untergrund.",
+              "Beleuchtung ist wichtig, da es im Winter bereits ab 16:30 Uhr dämmert.",
+              "Die Wege am Porsuk-Fluss können morgens oft glatt gefroren sein."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt, mert a kezek gyorsan kihűlnek a kormányon.",
+              "Ellenőrizze a guminyomást; a kicsit laposabb gumi jobban tapad a csúszós úton.",
+              "A világítás elengedhetetlen, mert 16:30-kor már sötétedik.",
+              "A Porsuk-parti utak reggelente gyakran lejegesedhetnek."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt; mâinile îngheață rapid pe ghidon.",
+              "Verificați presiunea anvelopelor; o presiune mai mică ajută pe suprafețe alunecoase.",
+              "Luminile sunt esențiale, deoarece se întunecă deja de la ora 16:30.",
+              "Aleile de lângă râul Porsuk pot fi înghețate dimineața devreme."
+            ],
+            "en": [
+              "Wear windproof gloves as hands cool down quickly on the handlebars.",
+              "Check tire pressure; slightly lower pressure helps on slippery surfaces.",
+              "Lights are crucial as it starts getting dark from 16:30 in winter.",
+              "The paths along the Porsuk River can often be frozen over in the morning."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -923,6 +1287,206 @@
           "Traffic can get busy during rush hours, plan your drives between clusters accordingly.",
           "The car gives you the flexibility to visit attractions slightly outside the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Eskişehir bequem vom Auto aus, beginnend mit den Attraktionen im Sazova Park. Am Mittag fahren Sie zum Kent Park, wo Sie den Regen von den Cafés aus beobachten können. Der Nachmittag führt Sie in das historische Odunpazarı und den Kurşunlu-Komplex, wo Museen Schutz bieten. Beenden Sie den Tag im Wachsmuseum und am Atlıhan-Basar, bevor Sie eine kurze Fahrt zum beleuchteten Porsuk-Fluss unternehmen.",
+            "hu": "Élvezze Eskişehirt kényelmesen az autóból, kezdve a Sazova Park látnivalóival. Délben hajtson a Kent Parkba, ahol a kávézókból figyelheti az esőt. A délután az odunpazarıi negyedbe és a Kurşunlu komplexumba vezet, ahol a múzeumok nyújtanak menedéket. Zárja a napot a viaszmúzeumban és az Atlıhan bazárban, majd tegyen egy rövid autózást a kivilágított Porsuk mentén.",
+            "ro": "Bucurați-vă de Eskişehir din confortul mașinii, începând cu parcul Sazova. La prânz, conduceți spre Kent Park pentru o pauză relaxantă. După-amiaza vă duce în cartierul istoric Odunpazarı și la complexul Kurşunlu, unde muzeele oferă protecție. Încheiați ziua la muzeul de ceară și bazarul Atlıhan, urmate de o scurtă plimbare pe lângă râul Porsuk.",
+            "en": "Enjoy Eskişehir from the comfort of your car, starting with the attractions at Sazova Park. At noon, drive to Kent Park where you can watch the rain from the indoor cafes. Your afternoon leads to historic Odunpazarı and the Kurşunlu Complex, where museums provide shelter. Finish the day at the Wax Museum and Atlıhan Bazaar, followed by a short drive along the illuminated Porsuk River."
+          },
+          "stops": [
+            {
+              "name": "Sazova Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz direkt am Haupteingang.",
+                "hu": "Használja a tágas parkolót közvetlenül a főbejáratnál.",
+                "ro": "Folosiți parcarea mare chiar lângă intrarea principală.",
+                "en": "Use the large parking lot located right at the main entrance."
+              }
+            },
+            {
+              "name": "Kent Park",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Restaurantbereich, um Regenwege kurz zu halten.",
+                "hu": "Parkoljon az éttermi rész közelében, hogy ne ázzon el hosszan.",
+                "ro": "Parcați aproape de zona restaurantelor pentru a evita ploaia.",
+                "en": "Park near the restaurant area to keep walking distance in rain short."
+              }
+            },
+            {
+              "name": "Odunpazarı District (Starting Point)",
+              "tip_5lang": {
+                "de": "Parkhäuser am Rand der Altstadt sind bei Regen bequemer.",
+                "hu": "Az óváros szélén található parkolóházak kényelmesebbek esőben.",
+                "ro": "Parcările supraetajate de la marginea centrului vechi sunt mai utile.",
+                "en": "Parking garages at the edge of the old town are more convenient in rain."
+              }
+            },
+            {
+              "name": "Kurşunlu Complex",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nur 2 Minuten Fußweg vom Komplex entfernt.",
+                "hu": "A parkoló mindössze 2 perc sétára található a komplexumtól.",
+                "ro": "Parcarea este la doar 2 minute de mers pe jos de complex.",
+                "en": "The parking lot is just a 2-minute walk from the complex."
+              }
+            },
+            {
+              "name": "Yılmaz Büyükerşen Wax Museum",
+              "tip_5lang": {
+                "de": "Das Museum liegt zentral; nutzen Sie die Parkzonen an der Hauptstraße.",
+                "hu": "A múzeum központi helyen van; használja a főút menti parkolókat.",
+                "ro": "Muzeul este central; folosiți zonele de parcare de pe strada principală.",
+                "en": "The museum is central; use the parking zones on the main street."
+              }
+            },
+            {
+              "name": "Atlıhan Bazaar",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Auto und Basar schützen vor Nässe.",
+                "hu": "Az autó és a bazár közötti rövid távolság véd az elázástól.",
+                "ro": "Distanța scurtă dintre mașină și bazar vă protejează de ploaie.",
+                "en": "Short distance between car and bazaar helps stay dry."
+              }
+            },
+            {
+              "name": "Adalar (Porsuk River)",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Parkhaus in der Nähe der Atatürk Caddesi.",
+                "hu": "Keressen egy parkolóházat az Atatürk sugárút közelében.",
+                "ro": "Căutați o parcare etajată în apropierea bulevardului Atatürk.",
+                "en": "Look for a parking garage near Atatürk Avenue for easy access."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig auf dem nassen Kopfsteinpflaster von Odunpazarı.",
+              "Die Parkplatzsuche in der Innenstadt kann bei Regen schwieriger sein.",
+              "Nutzen Sie die Tiefgaragen in der Nähe der Einkaufszentren für trockenes Aussteigen.",
+              "Die Hauptstraßen in Eskişehir sind bei Regen oft staubelastet."
+            ],
+            "hu": [
+              "Vezessen óvatosan Odunpazarı nedves macskaköves útjain.",
+              "A belvárosi parkolóhely-keresés esőben nehezebb lehet.",
+              "Használja a plázák mélygarázsait a száraz kiszállás érdekében.",
+              "Eskişehir főútjai esőben gyakran zsúfoltabbak lehetnek."
+            ],
+            "ro": [
+              "Conduceți cu atenție pe pavajul ud din Odunpazarı.",
+              "Găsirea unui loc de parcare în centru poate fi mai dificilă pe ploaie.",
+              "Folosiți parcările subterane ale mall-urilor pentru a coborî la uscat.",
+              "Străzile principale din Eskişehir sunt adesea aglomerate când plouă."
+            ],
+            "en": [
+              "Drive carefully on the wet cobblestone roads of Odunpazarı.",
+              "Finding parking in the city center can be more difficult during rain.",
+              "Use underground parking near malls for dry access to the car.",
+              "Main roads in Eskişehir often experience more traffic during rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Eskişehir warm und sicher mit dem Auto. Beginnen Sie im verschneiten Sazova Park, der wie eine Eiskönigin-Kulisse wirkt. Nach dem Mittagessen im Kent Park fahren Sie zum historischen Hügel von Odunpazarı, wo der Kurşunlu-Komplex in winterlicher Stille ruht. Der Nachmittag im Wachsmuseum bietet wohlige Wärme. Beenden Sie den Tag am Atlıhan-Basar und genießen Sie die abendliche Fahrt entlang des frostigen Porsuk-Flusses.",
+            "hu": "Ismerje meg a téli Eskişehirt melegben és biztonságban autóval. Kezdje a havas Sazova Parkban, amely olyan, mint egy jégkirálynő birodalma. A Kent Parkban elköltött ebéd után hajtson Odunpazarı dombjára, ahol a Kurşunlu komplexum téli csendben pihen. A viaszmúzeumban töltött délután kellemes meleget ad. Zárja a napot az Atlıhan bazárnál, majd autózzon a fagyos Porsuk mentén.",
+            "ro": "Experimentați Eskişehirul de iarnă în căldură și siguranță cu mașina. Începeți în parcul Sazova înzăpezit, care arată ca un decor de basm. După prânzul în Kent Park, conduceți spre dealul istoric Odunpazarı. După-amiaza la muzeul de ceară oferă o căldură primitoare. Încheiați ziua la bazarul Atlıhan și bucurați-vă de drumul pe lângă râul Porsuk înghețat.",
+            "en": "Experience winter in Eskişehir warmly and safely by car. Start at the snowy Sazova Park, which looks like a scene from the Ice Queen. After lunch at Kent Park, drive up to the historic Odunpazarı hill where the Kurşunlu Complex rests in winter silence. An afternoon at the Wax Museum provides cozy warmth. Finish at Atlıhan Bazaar and enjoy the evening drive along the frosty Porsuk River."
+          },
+          "stops": [
+            {
+              "name": "Sazova Park",
+              "tip_5lang": {
+                "de": "Die Parkwege können bei Frost glatt sein; parken Sie nah am Eingang.",
+                "hu": "A parkoló utak fagyban csúszósak lehetnek; parkoljon közel a bejárathoz.",
+                "ro": "Aleeile parcării pot fi alunecoase; parcați aproape de intrare.",
+                "en": "Parking area paths can be icy; try to park close to the entrance."
+              }
+            },
+            {
+              "name": "Kent Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze in der Nähe der beheizten Cafés.",
+                "hu": "Használja a fűtött kávézókhoz közeli parkolóhelyeket.",
+                "ro": "Folosiți locurile de parcare din apropierea cafenelelor încălzite.",
+                "en": "Use the parking spots near the heated indoor cafes."
+              }
+            },
+            {
+              "name": "Odunpazarı District (Starting Point)",
+              "tip_5lang": {
+                "de": "Vermeiden Sie steile Nebenstraßen bei Schneeglätte.",
+                "hu": "Havas időben kerülje a meredek mellékutcákat.",
+                "ro": "Evitați străzile secundare abrupte când este zăpadă.",
+                "en": "Avoid steep side streets when there is snow or ice."
+              }
+            },
+            {
+              "name": "Kurşunlu Complex",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird im Winter meist gut geräumt.",
+                "hu": "A parkolót télen általában jól takarítják.",
+                "ro": "Parcarea este de obicei bine curățată iarna.",
+                "en": "The parking lot is usually well-cleared in winter."
+              }
+            },
+            {
+              "name": "Yılmaz Büyükerşen Wax Museum",
+              "tip_5lang": {
+                "de": "Zentrales Parken ermöglicht schnellen Zugang zur Wärme.",
+                "hu": "A központi parkolás gyors bejutást biztosít a melegbe.",
+                "ro": "Parcarea centrală permite accesul rapid la căldură.",
+                "en": "Central parking allows for quick access to the heated building."
+              }
+            },
+            {
+              "name": "Atlıhan Bazaar",
+              "tip_5lang": {
+                "de": "Das Ein- und Aussteigen geht hier direkt vor dem Eingang.",
+                "hu": "A be- és kiszállás közvetlenül a bejárat előtt megoldható.",
+                "ro": "Puteți coborî direct în fața intrării.",
+                "en": "Drop-off and pick-up are possible right in front of the entrance."
+              }
+            },
+            {
+              "name": "Adalar (Porsuk River)",
+              "tip_5lang": {
+                "de": "Beheizte Parkhäuser verhindern das Einfrieren der Scheiben.",
+                "hu": "A fűtött parkolóházak megakadályozzák a szélvédő befagyását.",
+                "ro": "Parcările acoperite previn înghețarea parbrizului.",
+                "en": "Covered parking garages prevent windshield icing while you visit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Eskişehir aufgrund der häufigen Frostnächte Pflicht.",
+              "Achten Sie auf die steilen Straßen in Odunpazarı bei Eisbildung.",
+              "Die Parkplatzsuche am Porsuk ist im Winter in Parkhäusern entspannter.",
+              "Halten Sie Enteiser-Spray bereit, da die Luftfeuchtigkeit hoch sein kann."
+            ],
+            "hu": [
+              "Eskişehirben a gyakori fagyok miatt a téli gumi kötelező.",
+              "Jegesedéskor figyeljen Odunpazarı meredek utcáira.",
+              "A Porsuk mentén télen a parkolóházakban kényelmesebb megállni.",
+              "Legyen kéznél jégoldó spray, mert a páratartalom magas lehet."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii din cauza înghețului frecvent.",
+              "Atenție la străzile abrupte din Odunpazarı în caz de polei.",
+              "Parcarea lângă Porsuk este mai relaxată în parcările etajate iarna.",
+              "Aveți la îndemână spray pentru dezghețare; umiditatea poate fi mare."
+            ],
+            "en": [
+              "Winter tires are mandatory in Eskişehir due to frequent freezing nights.",
+              "Watch out for steep roads in Odunpazarı during icy conditions.",
+              "Parking near Porsuk is more relaxed in multi-story garages in winter.",
+              "Keep de-icer spray handy as humidity can cause quick frost on windows."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1221,6 +1785,188 @@
           "Check bus schedules in advance, especially for the return trip from Sazova Park.",
           "Most main attractions are well-connected by the tram network."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das moderne Straßenbahnnetz von Eskişehir, um trocken durch die Stadt zu kommen. Starten Sie in Odunpazarı und besichtigen Sie die historischen Häuser und den Kurşunlu-Komplex. Mittags bringt Sie die Tram zur Haltestelle Çarşı am Porsuk-Fluss, ideal für eine Pause im Café. Nachmittags führt die Fahrt zum Sazova Park, bevor Sie den Tag am Tülomsaş-Museum beenden. Die kurzen Wege von den Haltestellen machen den Regen erträglich.",
+            "hu": "Használja Eskişehir modern villamoshálózatát, hogy szárazon járja be a várost. Kezdje Odunpazarıban, látogassa meg a történelmi házakat és a Kurşunlu komplexumot. Délben a villamos elviszi a Porsuk-parti Çarşı megállóhoz, amely ideális egy kávézóba való betéréshez. Délután utazzon a Sazova Parkba, majd zárja a napot a Tülomsaş múzeumnál. A megállóktól mért rövid távolságok elviselhetővé teszik az esőt.",
+            "ro": "Folosiți rețeaua modernă de tramvaie din Eskişehir pentru a rămâne uscat. Începeți în Odunpazarı, vizitând casele istorice și complexul Kurşunlu. La prânz, tramvaiul vă duce la stația Çarşı de pe malul râului Porsuk. După-amiaza mergeți spre parcul Sazova, terminând ziua la muzeul Tülomsaş. Distanțele scurte de la stații fac ploaia mai ușor de suportat.",
+            "en": "Use Eskişehir's modern tram network to stay dry while exploring. Start in Odunpazarı to see the historic houses and Kurşunlu Complex. At noon, the tram takes you to the Çarşı stop by the Porsuk River, ideal for a cafe break. Spend your afternoon at Sazova Park before finishing at the Tülomsaş Museum. Short walks from the stops make the rain manageable."
+          },
+          "stops": [
+            {
+              "name": "Odunpazarı (Atatürk Lisesi Tram Stop)",
+              "tip_5lang": {
+                "de": "Überdachte Haltestelle, nur wenige Schritte von den Museen entfernt.",
+                "hu": "Fedett megálló, csak pár lépésre a múzeumoktól.",
+                "ro": "Stație acoperită, la doar câțiva pași de muzee.",
+                "en": "Covered stop, just a few steps away from the museums."
+              }
+            },
+            {
+              "name": "Odunpazarı Historical Houses",
+              "tip_5lang": {
+                "de": "Der Weg von der Tram zur Altstadt ist kurz und gut befestigt.",
+                "hu": "A villamostól az óvárosig vezető út rövid és jól kiépített.",
+                "ro": "Drumul de la tramvai spre centrul vechi este scurt și bine amenajat.",
+                "en": "The walk from the tram to the old town is short and well-paved."
+              }
+            },
+            {
+              "name": "Kurşunlu Complex",
+              "tip_5lang": {
+                "de": "Ein leichter Anstieg von der Haltestelle; nutzen Sie einen Regenschirm.",
+                "hu": "Enyhe emelkedő a megállótól; használjon esernyőt.",
+                "ro": "Urcuș ușor de la stație; folosiți o umbrelă.",
+                "en": "A slight uphill walk from the stop; use an umbrella."
+              }
+            },
+            {
+              "name": "Porsuk River (Çarşı Tram Stop)",
+              "tip_5lang": {
+                "de": "Die Haltestelle Çarşı liegt im Herzen der belebten Fußgängerzone.",
+                "hu": "A Çarşı megálló a nyüzsgő sétálóövezet szívében található.",
+                "ro": "Stația Çarşı se află în inima zonei pietonale animate.",
+                "en": "The Çarşı stop is located in the heart of the busy pedestrian zone."
+              }
+            },
+            {
+              "name": "Sazova Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie Busse oder Minibusse von der Tram-Endstation.",
+                "hu": "Használjon buszt vagy minibuszt a villamos végállomásától.",
+                "ro": "Folosiți autobuze sau microbuze de la capătul liniei de tramvai.",
+                "en": "Use connecting buses or minibuses from the tram terminus."
+              }
+            },
+            {
+              "name": "Tülomsaş Museum",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist fast direkt vor dem Museumseingang.",
+                "hu": "A megálló szinte közvetlenül a múzeum bejárata előtt van.",
+                "ro": "Stația este aproape direct în fața intrării muzeului.",
+                "en": "The stop is almost directly in front of the museum entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die EsTram-Bahnen sind modern, sauber und bieten Schutz vor dem Wetter.",
+              "Kaufen Sie eine Eskart für einfache Fahrten zwischen den Sehenswürdigkeiten.",
+              "Die Haltestelle Çarşı ist ein zentraler Umsteigepunkt im Trockenen.",
+              "Bei Regen sind die Bahnen oft voll; planen Sie etwas Pufferzeit ein."
+            ],
+            "hu": [
+              "Az EsTram szerelvények modernek, tiszták és védelmet nyújtanak az időjárás ellen.",
+              "Vásároljon Eskartot a látnivalók közötti egyszerű közlekedéshez.",
+              "A Çarşı megálló központi átszállási pont, fedett peronnal.",
+              "Esőben a villamosok zsúfoltabbak lehetnek; számoljon némi várakozási idővel."
+            ],
+            "ro": [
+              "Tramvaiele EsTram sunt moderne, curate și oferă protecție împotriva vremii.",
+              "Cumpărați un Eskart pentru călătorii ușoare între obiective.",
+              "Stația Çarşı este un punct central de transfer cu peron acoperit.",
+              "Tramvaiele pot fi aglomerate pe ploaie; planificați ceva timp suplimentar."
+            ],
+            "en": [
+              "EsTram trams are modern, clean, and offer great protection from the weather.",
+              "Purchase an Eskart for easy travel between the city's sights.",
+              "The Çarşı stop is a central transfer point with covered platforms.",
+              "Trams can get crowded during rain; allow some extra time for your journey."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eskişehir mit der Straßenbahn zu erkunden, ist im Winter besonders gemütlich. Starten Sie in Odunpazarı, wo die warme Tram Sie fast bis vor die historischen Tore bringt. Mittags erreichen Sie bequem den Porsuk-Fluss zum Aufwärmen in einem Café. Nachmittags geht es weiter zum verschneiten Sazova Park, bevor Sie den Abend am Tülomsaş-Museum ausklingen lassen. Die beheizten Bahnen machen die Fahrt durch die frostige Stadt zum Vergnügen.",
+            "hu": "A villamosozás Eskişehirben télen kifejezetten hangulatos. Induljon Odunpazarıból, ahol a meleg villamos szinte a történelmi kapukig viszi. Délben kényelmesen elérheti a Porsuk-partot, hogy felmelegedjen egy kávézóban. Délután utazzon a havas Sazova Parkba, majd zárja az estét a Tülomsaş múzeumnál. A fűtött szerelvények élvezetessé teszik az utat a fagyos városon át.",
+            "ro": "Explorarea orașului cu tramvaiul este foarte confortabilă iarna. Începeți în Odunpazarı, unde tramvaiul încălzit vă duce aproape de porțile istorice. La prânz ajungeți la râul Porsuk pentru a vă încălzi într-o cafenea. După-amiaza mergeți spre parcul Sazova înzăpezit. Tramvaiele încălzite transformă drumul prin orașul înghețat într-o plăcere.",
+            "en": "Exploring Eskişehir by tram is especially cozy in winter. Start in Odunpazarı, where the warm tram takes you nearly to the historic gates. At noon, easily reach the Porsuk River to warm up in a cafe. Spend your afternoon at the snowy Sazova Park before finishing at the Tülomsaş Museum. The heated trams make traveling through the frosty city a real pleasure."
+          },
+          "stops": [
+            {
+              "name": "Odunpazarı (Atatürk Lisesi Tram Stop)",
+              "tip_5lang": {
+                "de": "Die beheizten Wartebereiche sind im Winter sehr willkommen.",
+                "hu": "A fűtött váróterek télen nagyon hívogatóak.",
+                "ro": "Zonele de așteptare încălzite sunt binevenite iarna.",
+                "en": "The heated waiting areas are very welcome in the winter cold."
+              }
+            },
+            {
+              "name": "Odunpazarı Historical Houses",
+              "tip_5lang": {
+                "de": "Der Boden an der Haltestelle kann bei Frost glatt sein.",
+                "hu": "A megálló peronja fagyos időben csúszós lehet.",
+                "ro": "Peronul stației poate fi alunecos când este îngheț.",
+                "en": "The station platform can be slippery during freezing temperatures."
+              }
+            },
+            {
+              "name": "Kurşunlu Complex",
+              "tip_5lang": {
+                "de": "Ein 10-minütiger Spaziergang von der Haltestelle, ziehen Sie sich warm an.",
+                "hu": "10 perces séta a megállótól; öltözzön fel melegen.",
+                "ro": "O plimbare de 10 minute de la stație; îmbrăcați-vă gros.",
+                "en": "A 10-minute walk from the stop; make sure to dress warmly."
+              }
+            },
+            {
+              "name": "Porsuk River (Çarşı Tram Stop)",
+              "tip_5lang": {
+                "de": "Zentraler Punkt, um schnell in beheizte Cafés zu gelangen.",
+                "hu": "Központi pont, ahonnan gyorsan bejuthat a fűtött kávézókba.",
+                "ro": "Punct central pentru a ajunge rapid în cafenelele încălzite.",
+                "en": "Central point to quickly reach heated cafes in the area."
+              }
+            },
+            {
+              "name": "Sazova Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Busfahrpläne, da sie im Winter variieren können.",
+                "hu": "Ellenőrizze a buszmenetrendet, mert télen változhat.",
+                "ro": "Verificați orarul autobuzelor; poate varia iarna.",
+                "en": "Check bus schedules as they may vary during winter months."
+              }
+            },
+            {
+              "name": "Tülomsaş Museum",
+              "tip_5lang": {
+                "de": "Direkte Anbindung an die Hauptstraßenbahnlinie.",
+                "hu": "Közvetlen kapcsolat a fő villamosvonallal.",
+                "ro": "Conexiune directă cu linia principală de tramvai.",
+                "en": "Direct connection to the main tram line for a warm return."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßenbahnen sind im Winter gut beheizt und sehr zuverlässig.",
+              "Verlassen Sie sich auf die EsTram-App für Echtzeit-Abfahrten.",
+              "Vermeiden Sie Stoßzeiten, um einen Sitzplatz im Warmen zu ergattern.",
+              "Die Eskart kann an vielen Kiosken an den Haltestellen aufgeladen werden."
+            ],
+            "hu": [
+              "A villamosok télen jól fűtöttek és nagyon megbízhatóak.",
+              "Használja az EsTram appot a valós idejű indulásokhoz.",
+              "Kerülje a csúcsidőt, hogy biztosan kapjon ülőhelyet a melegben.",
+              "Az Eskartot számos megálló melletti kioszkban feltöltheti."
+            ],
+            "ro": [
+              "Tramvaiele sunt bine încălzite iarna și foarte sigure.",
+              "Folosiți aplicația EsTram pentru orele de plecare în timp real.",
+              "Evitați orele de vârf pentru a găsi un loc pe scaun la căldură.",
+              "Eskart-ul poate fi reîncărcat la multe chioșcuri de lângă stații."
+            ],
+            "en": [
+              "The trams are well-heated in winter and very reliable.",
+              "Use the EsTram app for real-time departures and schedules.",
+              "Avoid rush hours to ensure you get a seat in the warm cabin.",
+              "The Eskart can be topped up at many kiosks located near the stops."
+            ]
+          }
+        }
       }
     }
   }

@@ -386,6 +386,214 @@
           "Many of the central attractions are very close to each other.",
           "Check the Cathedral's opening times for any special events or services."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag unter den schützenden Arkaden der Chester Rows, wo Sie trotz Regen trockenen Fußes bummeln können. Mittags bietet die massive Kathedrale einen imposanten und trockenen Rückzugsort. Am Nachmittag erkunden wir die Geschichte im Grosvenor Museum. Den Tag lassen wir in einem gemütlichen Pub nahe der Eastgate Clock ausklingen, während draußen der britische Regen prasselt.",
+            "hu": "A napot a Chester Rows középkori emeleti árkádjai alatt kezdjük, így az eső ellenére is szárazon nézelődhetünk. Délben a monumentális katedrális nyújt menedéket és lelki feltöltődést. Délután a Grosvenor Múzeum tárlatait böngésszük, ahol a római emlékek között elfelejtjük a kinti borút. Estére egy hangulatos belvárosi teázót javaslunk, ahol figyelhetjük az esőáztatta Eastgate órát.",
+            "ro": "Începeți ziua sub arcadele etajate din Chester Rows, care oferă o protecție excelentă împotriva ploii. La prânz, Catedrala masivă este refugiul ideal pentru a admira arhitectura gotică la adăpost. După-amiaza este dedicată Muzeului Grosvenor, un spațiu interior fascinant. Seara se încheie într-un pub istoric lângă ceasul Eastgate, savurând atmosfera tipic britanică în timp ce plouă afară.",
+            "en": "Start your day under the medieval tiered galleries of the Chester Rows, perfect for staying dry while shopping. Midday is best spent inside the vast Cathedral, offering a grand indoor sanctuary. In the afternoon, explore local history at the Grosvenor Museum. End the rainy day in a cozy city-centre pub, watching the droplets fall on the historic Eastgate Clock from a warm window seat."
+          },
+          "stops": [
+            {
+              "name": "Start at Chester Rows",
+              "tip_5lang": {
+                "de": "Nutzen Sie die oberen Ebenen der Rows, um dem Regen auf den Straßen zu entkommen.",
+                "hu": "Használja a Rows emeleti járófelületeit, itt teljesen fedetten sétálhat.",
+                "ro": "Folosiți nivelul superior al galeriilor pentru a rămâne uscat în timp ce explorați.",
+                "en": "Stick to the upper 'Rows' galleries to move between shops without needing an umbrella."
+              }
+            },
+            {
+              "name": "Eastgate and the Eastgate Clock",
+              "tip_5lang": {
+                "de": "Ein schnelles Foto vom Gehweg aus reicht; die Gebäude daneben bieten Schutz.",
+                "hu": "Egy gyors fotó az árkádok alól is tökéletes szöget ad az óráról.",
+                "ro": "Faceți o poză rapidă sub streșinile clădirilor adiacente pentru a evita ploaia.",
+                "en": "Take a quick photo from the shelter of the nearby building eaves to stay dry."
+              }
+            },
+            {
+              "name": "Walk the Chester City Walls",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steinstufen können bei Nässe rutschig sein. Kurze Etappen wählen.",
+                "hu": "Vigyázat, a kőlépcsők csúszósak lehetnek esőben. Csak rövid szakaszt járjunk be.",
+                "ro": "Atenție la treptele de piatră care pot deveni alunecoase. Alegeți porțiuni scurte.",
+                "en": "Watch your step on the stone stairs; they can be slippery when wet. Wear waterproof shoes."
+              }
+            },
+            {
+              "name": "Roman Amphitheatre",
+              "tip_5lang": {
+                "de": "Die Infotafeln sind überdacht, so kann man die Ruinen im Trockenen studieren.",
+                "hu": "Az információs táblák fedettek, így szárazon olvashatunk a római múltról.",
+                "ro": "Panourile informative sunt acoperite, permițând studierea ruinelor la adăpost.",
+                "en": "The information boards are sheltered, letting you learn about the site while staying dry."
+              }
+            },
+            {
+              "name": "Chester Cathedral",
+              "tip_5lang": {
+                "de": "Der perfekte Ort für eine ausgiebige Pause im Trockenen; das Café ist sehr gemütlich.",
+                "hu": "Tökéletes hely egy hosszabb pihenőre; a katedrális kávézója kiváló menedék.",
+                "ro": "Locul ideal pentru o pauză lungă; cafeneaua catedralei este foarte primitoare.",
+                "en": "Ideal for a long break; visit the Refectory Cafe for a hot drink inside the old walls."
+              }
+            },
+            {
+              "name": "Grosvenor Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Mäntel, bevor Sie die Ausstellungen besuchen.",
+                "hu": "Használja a ruhatárat a vizes kabátoknak, mielőtt bejárja a kiállításokat.",
+                "ro": "Lăsați hainele ude la garderobă înainte de a vizita expozițiile interioare.",
+                "en": "Use the cloakroom for wet coats before exploring the fascinating period rooms."
+              }
+            },
+            {
+              "name": "Relax at Grosvenor Park",
+              "tip_5lang": {
+                "de": "Der Pavillon bietet Schutz; ansonsten ist der Park bei Regen sehr verlassen.",
+                "hu": "A pavilon alatt találhat menedéket; az esős park ilyenkor nagyon csendes.",
+                "ro": "Pavilionul oferă adăpost; altfel, parcul este foarte liniștit pe timp de ploaie.",
+                "en": "Seek shelter in the park pavilion if the rain intensifies; the trees provide some cover."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die alten Kopfsteinpflaster Pfützen bilden können.",
+              "Die 'Rows' sind Ihr bester Freund – sie verbinden fast das gesamte Stadtzentrum überdacht.",
+              "Die Kathedrale und das Grosvenor Museum sind die besten Indoor-Optionen der Stadt.",
+              "Packen Sie einen stabilen Regenschirm ein, da es an den Stadtmauern windig sein kann.",
+              "Viele historische Pubs im Zentrum haben gemütliche Kamine für regnerische Nachmittage."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a történelmi macskaköveken könnyen megáll a víz.",
+              "A 'Rows' galériák szinte az egész központot lefedik, használja őket közlekedésre.",
+              "A Katedrális és a Grosvenor Múzeum a legjobb beltéri programok eső esetén.",
+              "Erős esernyőt hozzon, mert a városfalon a szél könnyen kifordíthatja a gyengébbeket.",
+              "A belvárosi pubok többsége kandallóval és meleg italokkal várja a megázott túrázókat."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pavajul istoric poate reține apa.",
+              "Galeriile 'Rows' sunt esențiale – vă permit să traversați centrul aproape complet protejat.",
+              "Catedrala și Muzeul Grosvenor sunt cele mai bune opțiuni de interior din oraș.",
+              "Luați o umbrelă rezistentă, deoarece vântul de pe ziduri poate fi destul de puternic.",
+              "Multe pub-uri istorice din centru au șeminee primitoare pentru după-amiezele ploioase."
+            ],
+            "en": [
+              "Wear waterproof footwear as the historic cobblestones tend to collect puddles.",
+              "The 'Rows' are your best asset – they allow you to traverse the centre mostly under cover.",
+              "The Cathedral and Grosvenor Museum are the city's premier indoor refuges.",
+              "Bring a sturdy umbrella; the wind on the city walls can be quite brisk during showers.",
+              "Historic city pubs often have cozy fires, perfect for warming up after a damp walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie den winterlichen Charme von Chester mit Frost auf der Eastgate Clock. Der Vormittag an den Rows ist belebend, gefolgt von der wärmenden Stille der Kathedrale. Da es gegen 16:00 Uhr dunkel wird, nutzen wir die Dämmerung für einen stimmungsvollen Spaziergang auf der Stadtmauer. Der Tag endet im Grosvenor Museum, bevor wir uns bei einem heißen Tee in der Altstadt aufwärmen.",
+            "hu": "Fedezze fel Chester téli báját, amikor a dér megül az Eastgate órán. A reggeli séta a Rows árkádjai alatt frissítő, amit a katedrális melengető csendje követ. Mivel 16:00 körül sötétedik, a szürkületet a városfalon töltjük a kivilágított város látványával. A napot a Grosvenor Múzeumban zárjuk, majd egy forró tea mellett melegszünk fel az óvárosban.",
+            "ro": "Descoperiți farmecul iernii în Chester, cu promoroacă pe ceasul Eastgate. Dimineața sub galeriile Rows este revigorantă, urmată de liniștea primitoare a Catedralei. Deoarece se întunecă în jurul orei 16:00, folosim amurgul pentru o plimbare atmosferică pe ziduri. Ziua se încheie la Muzeul Grosvenor, înainte de a ne încălzi cu un ceai fierbinte în centrul vechi.",
+            "en": "Experience Chester's winter charm with frost glistening on the Eastgate Clock. A morning stroll through the Rows is brisk and bright, followed by the warming silence of the Cathedral. With sunset around 4 PM, use the twilight for an atmospheric walk on the illuminated City Walls. End your visit at the Grosvenor Museum before thawing out with a hot drink in a local cafe."
+          },
+          "stops": [
+            {
+              "name": "Start at Chester Rows",
+              "tip_5lang": {
+                "de": "Die festliche Beleuchtung macht die Rows im Winter besonders stimmungsvoll.",
+                "hu": "A téri kivilágítás és a dekorációk miatt a Rows ilyenkor a legszebb.",
+                "ro": "Iluminatul festiv face galeriile Rows deosebit de atmosferice iarna.",
+                "en": "Winter lights and decorations make the Rows especially atmospheric for a morning start."
+              }
+            },
+            {
+              "name": "Eastgate and the Eastgate Clock",
+              "tip_5lang": {
+                "de": "Perfekt für ein Foto in der blauen Stunde, wenn die Zifferblätter leuchten.",
+                "hu": "A kék órában a legszebb, amikor az óra számlapjai már világítanak.",
+                "ro": "Ideal pentru o fotografie la ora albastră, când cadranul ceasului este iluminat.",
+                "en": "Beautiful during the 'blue hour' when the clock faces begin to glow against the dark sky."
+              }
+            },
+            {
+              "name": "Walk the Chester City Walls",
+              "tip_5lang": {
+                "de": "Warm anziehen! Der Wind auf der Mauer kann im Winter sehr schneidend sein.",
+                "hu": "Öltözzön rétegesen! A szél a városfalon télen nagyon metsző lehet.",
+                "ro": "Îmbrăcați-vă gros! Vântul de pe ziduri poate fi tăios în lunile de iarnă.",
+                "en": "Dress warmly! The wind along the elevated walls can be very biting in winter."
+              }
+            },
+            {
+              "name": "Roman Amphitheatre",
+              "tip_5lang": {
+                "de": "Bei Schnee wirken die Ruinen besonders mystisch; ein kurzer Stopp reicht.",
+                "hu": "Hóban a romok különösen misztikusak; egy rövid megálló is elég a látványhoz.",
+                "ro": "Ruinele arată mistic sub zăpadă; o oprire scurtă este suficientă pentru poze.",
+                "en": "The ruins look mystical under a dusting of frost or snow; keep the visit brief."
+              }
+            },
+            {
+              "name": "Chester Cathedral",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Weihnachtsmarkt (falls Saison) direkt vor dem Nordportal.",
+                "hu": "Nézze meg az adventi vásárt (szezonban) közvetlenül az északi kapu előtt.",
+                "ro": "Vizitați târgul de Crăciun (dacă e sezon) situat chiar lângă catedrală.",
+                "en": "Check for the Christmas market outside the Cathedral if visiting in December."
+              }
+            },
+            {
+              "name": "Grosvenor Museum",
+              "tip_5lang": {
+                "de": "Die viktorianische Küche im Museum wirkt im Winter besonders heimelig.",
+                "hu": "A múzeumban található viktoriánus konyha télen különösen otthonosnak hat.",
+                "ro": "Bucătăria victoriană din muzeu pare deosebit de primitoare în zilele reci.",
+                "en": "The Victorian kitchen display in the museum feels especially cozy on a winter day."
+              }
+            },
+            {
+              "name": "Relax at Grosvenor Park",
+              "tip_5lang": {
+                "de": "Der Park schließt im Winter früher (oft bei Einbruch der Dunkelheit).",
+                "hu": "A park télen korábban zár (gyakran már sötétedéskor, 16 óra után).",
+                "ro": "Parcul se închide mai devreme iarna, de obicei la lăsarea întunericului.",
+                "en": "Note that the park gates often close earlier during the winter months (around dusk)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Outdoor-Aktivitäten vor 15:30 Uhr ein, da es früh dunkel wird.",
+              "Tragen Sie griffige Schuhe, falls die Stadtmauern oder das Pflaster vereist sind.",
+              "Die Kathedrale ist im Winter beheizt und bietet eine wunderbare Aufwärmpause.",
+              "Genießen Sie die festliche Atmosphäre der beleuchteten Altstadt ab 16:00 Uhr.",
+              "Warme Handschuhe sind für den Spaziergang auf der Stadtmauer unverzichtbar."
+            ],
+            "hu": [
+              "Tervezze a kinti programokat 15:30 előttre, mert korán sötétedik.",
+              "Viseljen jó tapadású talpú cipőt, mert a várfal és a kövek lefagyhatnak.",
+              "A katedrális belső tere télen is temperált, jó hely egy kis melegedésre.",
+              "Élvezze a kivilágított óváros ünnepi hangulatát 16:00 után.",
+              "A városfalon való sétához elengedhetetlen a meleg kesztyű és sál."
+            ],
+            "ro": [
+              "Planificați activitățile în aer liber înainte de ora 15:30, deoarece se întunecă devreme.",
+              "Purtați încălțăminte cu talpă aderentă în caz de îngheț pe zidurile cetății.",
+              "Catedrala este încălzită și oferă un refugiu excelent pentru a vă dezmorți.",
+              "Bucurați-vă de atmosfera festivă a centrului vechi iluminat după ora 16:00.",
+              "Mănușile groase sunt indispensabile pentru plimbarea pe zidurile expuse vântului."
+            ],
+            "en": [
+              "Aim to finish outdoor sightseeing by 3:30 PM as daylight fades very quickly.",
+              "Wear shoes with good grip in case the city walls or cobbles are icy.",
+              "The Cathedral is generally heated and provides a great spot to warm up.",
+              "Enjoy the magical festive atmosphere of the lit-up Rows after 4:00 PM.",
+              "Warm gloves are essential for the walk along the exposed city walls."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +950,196 @@
           "The Millennium Greenway provides an excellent traffic-free route through the city.",
           "Plan your route in advance as cycling may be restricted in some pedestrianised zones."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen von Chester erfordert Vorsicht auf dem alten Pflaster am Cross. Wir nutzen die Kathedrale für eine trockene Pause und radeln dann entlang der geschützteren Abschnitte der Stadtmauer. Der Weg am River Dee ist bei Regen erfrischend, führt uns aber schnell zurück zum Grosvenor Park. Den Abschluss bildet die Old Dee Bridge, wo wir trotz Regens den Flussblick genießen.",
+            "hu": "A chesteri biciklizés esőben óvatosságot igényel a Cross környéki régi köveken. A katedrálist használjuk száraz pihenőnek, majd a városfal védettebb szakaszai mellett tekerünk. A Dee folyó menti út ilyenkor is frissítő, de hamar a Grosvenor Parkba érünk. A napot az Old Dee hídnál zárjuk, ahol az esőfüggöny mögül csodáljuk a folyót.",
+            "ro": "Mersul pe bicicletă în ploaie prin Chester necesită prudență pe pavajul vechi de la Cross. Folosim Catedrala pentru o pauză uscată, apoi pedalăm pe lângă secțiunile mai adăpostite ale zidurilor. Traseul de-a lungul râului Dee este răcoritor, ducându-ne rapid spre Parcul Grosvenor. Încheiem la Podul Old Dee, admirând râul prin perdeaua de ploaie.",
+            "en": "Cycling through rainy Chester requires extra care on the historic cobbles at the Cross. Use the Cathedral for a dry intermission before pedalling alongside the city walls. The route along the River Dee is refreshing even in the rain, leading quickly to Grosvenor Park. We conclude at the Old Dee Bridge, where the river views remain impressive despite the damp weather."
+          },
+          "stops": [
+            {
+              "name": "Start at Chester Cross & Rows",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster; es kann sehr rutschig sein.",
+                "hu": "Vigyázzon a nedves macskaköveken; rendkívül csúszósak lehetnek.",
+                "ro": "Atenție sporită pe pavajul umed; poate fi extrem de alunecos.",
+                "en": "Exercise caution on the wet cobblestones at the Cross; they can be very slick."
+              }
+            },
+            {
+              "name": "Chester Cathedral",
+              "tip_5lang": {
+                "de": "Gute Fahrradständer befinden sich in der Nähe des Eingangs; ideal für eine Pause.",
+                "hu": "Jó kerékpártárolók vannak a bejáratnál; ideális hely egy száraz szünetre.",
+                "ro": "Există rastele bune lângă intrare; loc ideal pentru o pauză ferită de ploaie.",
+                "en": "Good bike racks are located near the entrance; perfect for a dry break inside."
+              }
+            },
+            {
+              "name": "Ride alongside the City Walls",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen; meiden Sie nasse Grasflächen.",
+                "hu": "Maradjon a burkolt utakon; kerülje a felázott füves szakaszokat.",
+                "ro": "Rămâneți pe potecile pavate; evitați zonele cu iarbă îmbibată cu apă.",
+                "en": "Stick to the paved paths alongside the walls; avoid any sodden grassy areas."
+              }
+            },
+            {
+              "name": "Roman Amphitheatre and Gardens",
+              "tip_5lang": {
+                "de": "Die Wege im Garten sind fest, aber Pfützenbildung ist möglich.",
+                "hu": "A kerti utak szilárdak, de nagyobb tócsák alakulhatnak ki rajtuk.",
+                "ro": "Aleile din grădină sunt solide, dar pot apărea bălți mari după ploaie.",
+                "en": "Garden paths are firm, but watch out for large puddles after heavy downpours."
+              }
+            },
+            {
+              "name": "Ride along the River Dee to Grosvenor Park",
+              "tip_5lang": {
+                "de": "Der Uferweg kann bei starkem Regen matschig sein; Schutzbleche sind ratsam.",
+                "hu": "A folyóparti út sárfoltos lehet; a sárvédő ilyenkor kötelező tartozék.",
+                "ro": "Poteca de pe malul râului poate fi noroioasă; aripile la bicicletă sunt recomandate.",
+                "en": "The riverside path can get muddy; mudguards are highly recommended for this section."
+              }
+            },
+            {
+              "name": "Return to centre via Old Dee Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf der Brücke; der Untergrund ist bei Nässe tückisch.",
+                "hu": "Óvatosan fékezzen a hídon; a felület nedvesen trükkös lehet.",
+                "ro": "Frânați cu grijă pe pod; suprafața poate fi înșelătoare când este udă.",
+                "en": "Brake gently on the bridge; the surface can be treacherous when saturated."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie scharfe Kurven auf dem nassen Kopfsteinpflaster im Stadtzentrum.",
+              "Vollständige Regenbekleidung und Schutzbleche sind für diese Tour unerlässlich.",
+              "Die Kathedrale bietet einen sicheren und trockenen Ort für eine längere Pause.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt, da Nässe den Bremsweg verlängert.",
+              "Suchen Sie bei starkem Guss Schutz unter den Brücken am Fluss Dee."
+            ],
+            "hu": [
+              "Kerülje az éles kanyarokat a belvárosi nedves macskaköveken.",
+              "A teljes esőruházat és a sárvédő elengedhetetlen ehhez a túrához.",
+              "A Katedrális biztonságos és száraz helyszín egy hosszabb pihenőhöz.",
+              "Indulás előtt ellenőrizze a fékeket, mert a nedvesség növeli a féktávot.",
+              "Heves zivatar esetén keressen menedéket a Dee folyó hídjai alatt."
+            ],
+            "ro": [
+              "Evitați virajele strânse pe pavajul umed din centrul orașului.",
+              "Echipamentul complet de ploaie și aripile sunt esențiale pentru acest traseu.",
+              "Catedrala oferă un loc sigur și uscat pentru o pauză prelungită.",
+              "Verificați frânele înainte de plecare; distanța de frânare crește pe ud.",
+              "În caz de aversă puternică, adăpostiți-vă sub podurile de peste râul Dee."
+            ],
+            "en": [
+              "Avoid sharp turns on the wet historic cobblestones in the city centre.",
+              "Full waterproof gear and mudguards are essential for this rainy circuit.",
+              "The Cathedral offers a safe and dry location for an extended break.",
+              "Check your brakes before setting off; wet rims increase braking distance.",
+              "If caught in a downpour, seek temporary shelter under the River Dee bridges."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch Chester bietet klare Luft und frostige Ausblicke. Wir starten am Cross und besuchen die wärmende Kathedrale, bevor wir entlang der Stadtmauer radeln. Die Fahrt am River Dee ist im Winter besonders ruhig, führt uns aber rechtzeitig vor Einbruch der Dunkelheit in den Grosvenor Park. Wir beenden die Tour an der Old Dee Bridge, wenn die Lichter der Stadt angehen.",
+            "hu": "A téli biciklitúra Chesterben friss levegőt és zúzmarás kilátást ígér. A Cross-tól indulunk, érintjük a melengető katedrálist, majd a várfal mentén tekerünk. A Dee folyó partja télen csendes, de még sötétedés előtt a Grosvenor Parkba érünk. A túrát az Old Dee hídnál zárjuk, épp amikor kigyúlnak a város fényei.",
+            "ro": "O tură de iarnă cu bicicleta prin Chester oferă aer curat și vederi înghețate. Pornim de la Cross și vizităm Catedrala pentru căldură, apoi pedalăm pe lângă ziduri. Malul râului Dee este liniștit iarna, dar ajungem în Parcul Grosvenor înainte de întuneric. Încheiem la Podul Old Dee, exact când se aprind luminile orașului.",
+            "en": "A winter bike tour of Chester offers crisp air and frosty vistas. Starting at the Cross, we visit the warming Cathedral before cycling alongside the city walls. The River Dee path is particularly quiet in winter, leading us to Grosvenor Park before the early dusk. We conclude at the Old Dee Bridge just as the city lights begin to twinkle."
+          },
+          "stops": [
+            {
+              "name": "Start at Chester Cross & Rows",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe im Schatten der hohen Gebäude.",
+                "hu": "Ügyeljen a lefagyásokra a magas épületek árnyékos oldalán.",
+                "ro": "Atenție la porțiunile de gheață în umbra clădirilor înalte.",
+                "en": "Watch out for black ice in the permanent shadows of the tall historic buildings."
+              }
+            },
+            {
+              "name": "Chester Cathedral",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die durchgefrorenen Hände wieder aufzuwärmen.",
+                "hu": "Ideális hely az átfagyott kezek felmelegítésére a belső térben.",
+                "ro": "Locul ideal pentru a vă încălzi mâinile amorțite de frig în interior.",
+                "en": "An ideal spot to warm up frozen hands; the interior is much milder than outside."
+              }
+            },
+            {
+              "name": "Ride alongside the City Walls",
+              "tip_5lang": {
+                "de": "Der Fahrtwind auf den offenen Abschnitten kann sehr kalt sein.",
+                "hu": "A menetszél a nyitott szakaszokon ilyenkor rendkívül hideg.",
+                "ro": "Vântul resimțit în timpul pedalării pe secțiunile deschise poate fi tăios.",
+                "en": "The wind chill on open sections alongside the walls can be significant in winter."
+              }
+            },
+            {
+              "name": "Roman Amphitheatre and Gardens",
+              "tip_5lang": {
+                "de": "Besuch kurz halten; bei Frost sind die Wege oft sehr hart und rutschig.",
+                "hu": "Tartsa röviden a látogatást; fagyban az utak kemények és csúszósak.",
+                "ro": "Vizită scurtă; pe timp de îngheț, aleile pot fi foarte dure și alunecoase.",
+                "en": "Keep the visit brief; in freezing temperatures, the paths can be very hard and slick."
+              }
+            },
+            {
+              "name": "Ride along the River Dee to Grosvenor Park",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne am Fluss kann blenden; Sonnenbrille mitnehmen.",
+                "hu": "A folyó felett alacsonyan járó nap vakíthat; vigyen napszemüveget.",
+                "ro": "Soarele jos de deasupra râului poate fi orbitor; folosiți ochelari de soare.",
+                "en": "The low winter sun reflecting off the river can be blinding; bring sunglasses."
+              }
+            },
+            {
+              "name": "Return to centre via Old Dee Bridge",
+              "tip_5lang": {
+                "de": "Ab 16:00 Uhr ist gute Beleuchtung am Fahrrad zwingend erforderlich.",
+                "hu": "16:00 után a jó kerékpáros világítás már kötelező és életmentő.",
+                "ro": "După ora 16:00, iluminarea bună a bicicletei este absolut obligatorie.",
+                "en": "From 4:00 PM onwards, good bike lights are mandatory as visibility drops fast."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip mit einer winddichten Außenschicht.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung voll aufgeladen ist (Dämmerung ab 16 Uhr).",
+              "Vermeiden Sie die schattigen Radwege am Kanal, dort hält sich Eis am längsten.",
+              "Trinken Sie zwischendurch etwas Heißes, um die Körpertemperatur zu halten.",
+              "Tragen Sie Handschuhe, die auch bei Kälte eine gute Bremsbedienung erlauben."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, szélálló külső réteggel kiegészítve.",
+              "Győződjön meg róla, hogy a lámpák fel vannak töltve (16 órától szürkület).",
+              "Kerülje az árnyékos csatornaparti utakat, ott marad meg legtovább a jég.",
+              "Igyon forró italokat a megállókban a testhőmérséklet fenntartásához.",
+              "Olyan kesztyűt viseljen, amelyben hidegben is magabiztosan fékezhet."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, cu o jachetă exterioară rezistentă la vânt.",
+              "Asigurați-vă că luminile bicicletei sunt încărcate (amurgul începe la ora 16).",
+              "Evitați pistele de biciclete umbrite de lângă canal, unde gheața persistă.",
+              "Consumați băuturi calde în pauze pentru a vă menține temperatura corpului.",
+              "Purtați mănuși care permit operarea precisă a frânelor chiar și pe ger."
+            ],
+            "en": [
+              "Dress in layers with a windproof outer shell to combat the chill.",
+              "Ensure your bike lights are fully charged (dusk starts around 4 PM).",
+              "Avoid shaded canal-side paths where ice tends to linger all day.",
+              "Stop for hot drinks regularly to maintain your core body temperature.",
+              "Wear thermal gloves that still allow for precise braking and shifting."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1496,196 @@
           "Traffic can be heavy during peak hours, plan your drives accordingly.",
           "Be aware of pedestrianised zones in the city centre which are closed to traffic during the day."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Chester bei Regen bequem zu erkunden. Wir parken zentral für einen kurzen Abstecher zu den überdachten Rows und dem Eastgate Clock. Danach bietet die Kathedrale trockene Kultur. Das Highlight bei Regen ist der Chester Zoo, da viele Gehege überdacht oder im Innenbereich sind. Den Tag beenden wir mit einer kurzen Fahrt zum Grosvenor Park, bevor wir im trockenen Auto die Heimreise antreten.",
+            "hu": "Autóval kényelmesen felfedezhető Chester esőben is. Központilag parkolunk a fedett Rows és az Eastgate óra megtekintéséhez. Ezután a katedrális nyújt száraz kulturális élményt. Az esős nap fénypontja a Chester Zoo, mivel számos kifutó fedett vagy beltéri. A napot egy rövid Grosvenor Park-i kitérővel zárjuk, majd száraz autóval indulunk haza.",
+            "ro": "Cu mașina, Chester este ușor de explorat chiar și pe ploaie. Parcăm central pentru o vizită scurtă la galeriile acoperite Rows și ceasul Eastgate. Apoi, Catedrala oferă cultură la adăpost. Punctul culminant pe ploaie este Grădina Zoologică Chester, unde multe habitate sunt interioare. Încheiem ziua cu o scurtă oprire la Parcul Grosvenor înainte de a pleca spre casă.",
+            "en": "By car, Chester remains easily accessible during rain. Park centrally for a quick dash to the sheltered Rows and Eastgate Clock. Next, the Cathedral provides a dry cultural haven. The rainy day highlight is Chester Zoo, as many habitats are indoors or sheltered. We conclude with a brief drive to Grosvenor Park before heading home in the comfort of a dry car."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Park and Explore City Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser mit direktem Zugang zum Zentrum, um Regen zu vermeiden.",
+                "hu": "Válasszon olyan parkolóházat, amely közvetlen átjárást biztosít a központba.",
+                "ro": "Alegeți o parcare multietajată cu acces direct spre centru pentru a evita ploaia.",
+                "en": "Choose a multi-storey car park with direct centre access to minimise time in the rain."
+              }
+            },
+            {
+              "name": "Chester Rows & Eastgate Clock",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg vom Parkhaus; die Rows halten Sie trocken.",
+                "hu": "Csak rövid séta a parkolótól; a Rows alatt szárazon maradhat.",
+                "ro": "Doar o scurtă plimbare de la parcare; galeriile Rows vă mențin uscat.",
+                "en": "Only a short walk from the car park; the Rows will keep you dry once reached."
+              }
+            },
+            {
+              "name": "Chester Cathedral",
+              "tip_5lang": {
+                "de": "Parken Sie am Abbey Square für den kürzesten Weg zum Eingang.",
+                "hu": "Parkoljon az Abbey Square-en a legrövidebb bejárati útvonalhoz.",
+                "ro": "Parcați în Abbey Square pentru cel mai scurt traseu pietonal către intrare.",
+                "en": "Try parking at Abbey Square for the shortest walking distance to the entrance."
+              }
+            },
+            {
+              "name": "Roman Amphitheatre",
+              "tip_5lang": {
+                "de": "Kurzer Stopp am Straßenrand für ein Foto aus dem Auto möglich.",
+                "hu": "Rövid megállás az út szélén egy autómból készített fotóhoz lehetséges.",
+                "ro": "Posibilă o oprire scurtă la marginea drumului pentru o poză din mașină.",
+                "en": "A brief roadside stop for a photo from the car window is possible here."
+              }
+            },
+            {
+              "name": "Cluster B: Drive to Chester Zoo",
+              "tip_5lang": {
+                "de": "Der Zoo hat riesige kostenlose Parkplätze; viele Tierhäuser sind überdacht.",
+                "hu": "A zoo hatalmas ingyenes parkolóval vár; sok állatház fedett.",
+                "ro": "Grădina zoologică are parcare vastă; multe pavilioane sunt interioare.",
+                "en": "The zoo has ample free parking; many major exhibits are housed in large indoor halls."
+              }
+            },
+            {
+              "name": "Cluster C: Return for a walk in Grosvenor Park",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang; bei starkem Regen reicht ein Blick vom Auto.",
+                "hu": "Parkoljon közvetlenül a bejáratnál; heves esőben az autóból is szép a látvány.",
+                "ro": "Parcați chiar la intrare; în caz de ploaie torențială, admirați parcul din mașină.",
+                "en": "Park right by the entrance; in heavy rain, a quick look from the car may suffice."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das 'Park & Ride' System, um die engen, nassen Gassen zu meiden.",
+              "Der Chester Zoo ist die beste Schlechtwetter-Option mit vielen Innenbereichen.",
+              "Halten Sie Kleingeld oder eine Park-App bereit, um nicht im Regen am Automaten zu stehen.",
+              "Vermeiden Sie bei starkem Regen Fahrten direkt am Fluss Dee (Überflutungsgefahr).",
+              "Die Parkhäuser im Zentrum bieten den besten Schutz beim Ein- und Aussteigen."
+            ],
+            "hu": [
+              "Használja a 'Park & Ride' rendszert, hogy elkerülje a szűk, esős utcákat.",
+              "A Chester Zoo a legjobb rosszidős opció a sok beltéri bemutatóhely miatt.",
+              "Készítsen elő aprót vagy parkoló appot, hogy ne ázzon meg az automatánál.",
+              "Heves esőzéskor kerülje a közvetlen folyóparti parkolókat az áradásveszély miatt.",
+              "A központi parkolóházak nyújtják a legjobb védelmet ki- és beszálláskor."
+            ],
+            "ro": [
+              "Utilizați sistemul 'Park & Ride' pentru a evita străzile înguste și aglomerate.",
+              "Grădina Zoologică Chester este cea mai bună opțiune pentru vreme rea.",
+              "Pregătiți monede sau o aplicație de parcare pentru a nu sta în ploaie la aparat.",
+              "Evitați parcările de pe malul râului Dee în caz de ploaie torențială prelungită.",
+              "Parcările multietajate din centru oferă cea mai bună protecție la urcare și coborâre."
+            ],
+            "en": [
+              "Use the 'Park & Ride' system to avoid navigating tight, wet city streets.",
+              "Chester Zoo is the best wet-weather choice with numerous indoor exhibits.",
+              "Have your parking app ready to avoid standing in the rain at the payment machine.",
+              "Avoid riverside parking areas during prolonged heavy rain due to flood risks.",
+              "Multi-storey car parks in the city centre offer the best shelter for passengers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter in Chester ist mit dem Auto stressfrei. Wir beginnen im Zentrum bei den frostigen Rows und wärmen uns in der Kathedrale auf. Danach führt die Fahrt zum Chester Zoo, wo die tropischen Häuser eine perfekte Flucht vor der Kälte bieten. Da es früh dunkelt, genießen wir die Weihnachtsbeleuchtung der Stadt bei einer Fahrt durch die Altstadt. Der Tag endet am ruhigen Grosvenor Park.",
+            "hu": "A tél Chesterben autóval stresszmentes. A központban kezdünk a zúzmarás Rows-nál, majd a katedrálisban melegszünk fel. Ezután a Chester Zoo-ba hajtunk, ahol a trópusi házak tökéletes menekülést kínálnak a hideg elől. Mivel korán sötétedik, az autó kényelméből csodáljuk a város ünnepi fényeit. A napot a csendes Grosvenor Parknál zárjuk.",
+            "ro": "Iarna în Chester este lipsită de stres cu mașina. Începem în centru la galeriile Rows înghețate și ne încălzim în Catedrală. Apoi, conducem spre Grădina Zoologică Chester, unde pavilioanele tropicale oferă o evadare perfectă de frig. Deoarece se întunecă devreme, admirăm luminile festive din confortul mașinii. Ziua se încheie la liniștitul Parc Grosvenor.",
+            "en": "Winter in Chester is stress-free by car. Start in the centre at the frosty Rows and warm up inside the Cathedral. Then, drive to Chester Zoo where the tropical houses provide a perfect escape from the cold. As dusk arrives early, enjoy the festive city lights from the comfort of your car while driving through the old town. End at the quiet Grosvenor Park."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Park and Explore City Centre",
+              "tip_5lang": {
+                "de": "Vorsicht in den oberen Decks der Parkhäuser; diese können vereist sein.",
+                "hu": "Vigyázzon a parkolóházak legfelső szintjén; ezek gyakran lefagynak.",
+                "ro": "Atenție la etajele superioare ale parcărilor; pot fi alunecoase din cauza gheții.",
+                "en": "Be careful on the top decks of open-air car parks; they can be very icy."
+              }
+            },
+            {
+              "name": "Chester Rows & Eastgate Clock",
+              "tip_5lang": {
+                "de": "Der frostige Anblick der Fachwerkhäuser ist ein tolles Fotomotiv.",
+                "hu": "A zúzmarás fagerendás házak látványa ilyenkor különösen szép fotótéma.",
+                "ro": "Casele cu bârne de lemn acoperite de chiciură sunt ideale pentru fotografii.",
+                "en": "The frost-covered timber-framed buildings make for excellent winter photos."
+              }
+            },
+            {
+              "name": "Chester Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg vom Auto, um die Kälteperiode zu minimieren.",
+                "hu": "Használja a legrövidebb utat az autótól, hogy minél kevesebbet legyen a hidegben.",
+                "ro": "Folosiți cel mai scurt traseu de la mașină pentru a minimiza expunerea la frig.",
+                "en": "Plan the shortest walking route from your car to keep time in the cold minimal."
+              }
+            },
+            {
+              "name": "Roman Amphitheatre",
+              "tip_5lang": {
+                "de": "Ein schneller Stopp reicht; der Wind in der Senke ist oft sehr kalt.",
+                "hu": "Egy gyors megálló elég; a mélyedésben gyakran megül a hideg szél.",
+                "ro": "O oprire rapidă este de ajuns; vântul este adesea foarte rece în amfiteatru.",
+                "en": "A quick stop is enough; the wind often feels sharper down in the amphitheatre site."
+              }
+            },
+            {
+              "name": "Cluster B: Drive to Chester Zoo",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Tropenhäuser zum Aufwärmen; der Zoo ist im Winter ruhiger.",
+                "hu": "Látogasson el a trópusi házakba melegedni; a zoo télen sokkal nyugodtabb.",
+                "ro": "Vizitați pavilioanele tropicale pentru a vă încălzi; zoo este mai liberă iarna.",
+                "en": "Head to the tropical houses to thaw out; the zoo is much quieter in winter."
+              }
+            },
+            {
+              "name": "Cluster C: Return for a walk in Grosvenor Park",
+              "tip_5lang": {
+                "de": "Beachten Sie die frühen Schließzeiten des Parks im Winter.",
+                "hu": "Ügyeljen a park téli korai zárórájára (gyakran sötétedéskor).",
+                "ro": "Atenție la orele de închidere timpurii ale parcului pe timpul iernii.",
+                "en": "Keep an eye on the time as the park gates close earlier during winter months."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie vor der Fahrt den Frostschutz und die Scheibenwischer.",
+              "Die Tropenhäuser im Chester Zoo sind der beste Ort zum Aufwärmen.",
+              "Die Weihnachtsbeleuchtung im Zentrum ist ab Ende November sehenswert.",
+              "Vermeiden Sie Nebenstraßen, die im Winter nicht gestreut werden könnten.",
+              "Planen Sie für den Zoo mindestens 3 Stunden ein, bevor es um 16 Uhr dunkel wird."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fagyállót és az ablaktörlőket.",
+              "A Chester Zoo trópusi házai a legjobb helyszínek a felmelegedésre.",
+              "A központi karácsonyi fények november végétől csodálatos látványt nyújtanak.",
+              "Kerülje a mellékutcákat, amelyeket télen esetleg nem sóznak vagy takarítanak.",
+              "Tervezzen legalább 3 órát az állatkertre a 16 órai sötétedés előtt."
+            ],
+            "ro": [
+              "Verificați antigelul și starea ștergătoarelor înainte de a porni la drum.",
+              "Pavilioanele tropicale de la zoo sunt cel mai bun refugiu împotriva gerului.",
+              "Luminile de Crăciun din centru merită văzute începând cu sfârșitul lui noiembrie.",
+              "Evitați străzile secundare care s-ar putea să nu fie deszăpezite sau sărate.",
+              "Alocați cel dintr 3 ore pentru grădina zoologică înainte de asfințitul de la ora 16."
+            ],
+            "en": [
+              "Check your antifreeze levels and wiper blades before setting off in winter.",
+              "The tropical houses at Chester Zoo are the ultimate winter warm-up spots.",
+              "The city centre Christmas lights are best viewed from late November onwards.",
+              "Avoid minor backstreets which may not be gritted during freezing spells.",
+              "Allow at least 3 hours for the zoo before the sun sets around 4 PM."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2042,196 @@
           "The Number 1 bus service is your link to Chester Zoo.",
           "Check timetables for the last bus back from the Zoo, especially on weekdays."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie Chesters Busse, um bei Regen trocken von A nach B zu kommen. Wir starten im Zentrum bei den schützenden Rows und besuchen die Kathedrale. Danach bringt uns der Bus zum Grosvenor Museum. Ein wetterfester Höhepunkt ist die Busfahrt zum Chester Zoo, wo wir den Nachmittag in den überdachten Hallen verbringen. Der Tag endet sicher und trocken mit der Rückfahrt zum Bahnhof oder Parkplatz.",
+            "hu": "Használja Chester buszhálózatát, hogy szárazon jusson el a látnivalókhoz. A központban kezdünk a fedett Rows-nál, majd a katedrális következik. Innen busszal megyünk a Grosvenor Múzeumhoz. Az esős nap fénypontja a buszos kirándulás a Chester Zoo-ba, ahol a délutánt a fedett csarnokokban töltjük. A napot biztonságos és száraz buszos visszautazással zárjuk.",
+            "ro": "Folosiți rețeaua de autobuze din Chester pentru a ajunge la obiective fără a vă uda. Începem în centru la galeriile Rows și vizităm Catedrala. De acolo, autobuzul ne duce la Muzeul Grosvenor. Un punct forte pe ploaie este călătoria cu autobuzul la zoo, unde petrecem după-amiaza în pavilioane acoperite. Încheiem ziua cu o călătorie sigură și uscată înapoi.",
+            "en": "Utilise Chester's bus network to navigate the city while avoiding the rain. Start in the centre at the sheltered Rows and visit the Cathedral. From there, hop on a bus to the Grosvenor Museum. A rainy day highlight is the bus trip to Chester Zoo, where you can spend the afternoon in large indoor exhibits. End your day with a dry bus ride back to your starting point."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Arrive and Explore Centre",
+              "tip_5lang": {
+                "de": "Vom Bahnhof führt ein kurzer, teilweise überdachter Weg ins Zentrum.",
+                "hu": "A vasútállomástól rövid, részben fedett útvonal vezet a központba.",
+                "ro": "De la gară există un traseu scurt, parțial acoperit, spre centrul orașului.",
+                "en": "From the station, there is a short, partially sheltered walk into the centre."
+              }
+            },
+            {
+              "name": "Chester Rows & Eastgate Clock",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen in der Foregate Street liegen nahe an den Rows.",
+                "hu": "A Foregate Street buszmegállói nagyon közel vannak a Rows galériákhoz.",
+                "ro": "Stațiile de autobuz de pe Foregate Street sunt aproape de galeriile Rows.",
+                "en": "Bus stops on Foregate Street are very close to the sheltered Rows galleries."
+              }
+            },
+            {
+              "name": "Chester Cathedral",
+              "tip_5lang": {
+                "de": "Viele Buslinien halten fast direkt vor dem Nordeingang der Kathedrale.",
+                "hu": "Számos buszjárat szinte közvetlenül a katedrális északi bejáratánál áll meg.",
+                "ro": "Multe linii de autobuz opresc aproape direct în fața intrării de nord.",
+                "en": "Many bus routes stop almost directly outside the Cathedral's north entrance."
+              }
+            },
+            {
+              "name": "Cluster B: Bus to Museum Quarter",
+              "tip_5lang": {
+                "de": "Nutzen Sie den City-Bus, um die Strecke zum Museum im Trockenen zu überbrücken.",
+                "hu": "Használja a helyi buszt, hogy szárazon tegye meg az utat a múzeumig.",
+                "ro": "Folosiți autobuzul local pentru a parcurge distanța până la muzeu la adăpost.",
+                "en": "Take the city circular bus to bridge the gap to the museum without getting wet."
+              }
+            },
+            {
+              "name": "Roman Amphitheatre",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt direkt gegenüber; minimaler Aufenthalt im Freien.",
+                "hu": "A buszmegálló közvetlenül szemben van; minimális időt kell kint tölteni.",
+                "ro": "Stația de autobuz este chiar vis-a-vis; expunere minimă la ploaie.",
+                "en": "The bus stop is directly opposite; you'll spend very little time in the open air."
+              }
+            },
+            {
+              "name": "Cluster C: Bus to Chester Zoo",
+              "tip_5lang": {
+                "de": "Der Zoo-Bus fährt regelmäßig; die Haltestelle am Zoo ist überdacht.",
+                "hu": "A Zoo-busz rendszeresen jár; az állatkerti megálló fedett és biztonságos.",
+                "ro": "Autobuzul spre zoo circulă regulat; stația de la destinație este acoperită.",
+                "en": "The dedicated zoo bus runs frequently; the stop at the zoo is sheltered."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket direkt beim Busfahrer oder per App.",
+              "Die Busse zum Chester Zoo (z.B. Linie 1) sind oft Doppeldecker – toller Ausblick.",
+              "Warten Sie unter den Haltestellen-Überdachungen, um trocken zu bleiben.",
+              "Nutzen Sie die Echtzeit-App der Busgesellschaft, um Wartezeiten im Regen zu minimieren.",
+              "Die Kathedrale bietet den besten Indoor-Warteplatz nahe der zentralen Haltestellen."
+            ],
+            "hu": [
+              "Vásároljon napijegyet a buszvezetőnél vagy mobil applikációban.",
+              "A Zoo-buszok (pl. 1-es járat) gyakran emeletesek – remek kilátást nyújtanak.",
+              "Várjon a fedett buszmegállók alatt, hogy elkerülje az elázást.",
+              "Használja a menetrendi appot, hogy minimalizálja az esőben való várakozást.",
+              "A Katedrális a legjobb beltéri várakozóhely a központi buszmegállók közelében."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi direct de la șofer sau prin aplicația mobilă.",
+              "Autobuzele spre zoo (ex. linia 1) sunt adesea etajate – oferă o vedere excelentă.",
+              "Așteptați sub copertinele stațiilor pentru a rămâne uscat.",
+              "Folosiți aplicația de transport în timp real pentru a scurta așteptarea în ploaie.",
+              "Catedrala este cel mai bun loc de așteptare la interior lângă stațiile centrale."
+            ],
+            "en": [
+              "Purchase a day ticket from the bus driver or via the official transport app.",
+              "Buses to Chester Zoo (like Route 1) are often double-deckers – great for views.",
+              "Stay under the bus stop shelters to remain dry while waiting for your connection.",
+              "Use a real-time tracking app to minimise your wait time in the rain.",
+              "The Cathedral is the perfect indoor spot to wait if you have time between buses."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Chester bequem mit Bus und Bahn. Nach der Ankunft im Zentrum besuchen wir die festlichen Rows und wärmen uns in der Kathedrale auf. Danach führt uns die Route zum Grosvenor Museum. Ein winterliches Highlight ist die Busfahrt zum Chester Zoo, wo die warmen Tierhäuser locken. Da es früh dunkelt, genießen wir die Lichterfahrt mit dem Bus zurück ins Zentrum.",
+            "hu": "Fedezze fel a téli Chestert kényelmesen buszozva. A központba érkezés után az ünnepi Rows-t keressük fel, majd a katedrálisban melegszünk fel. Ezután utunk a Grosvenor Múzeumba vezet. A téli nap fénypontja a buszos út a Chester Zoo-ba, ahol a meleg állatházak várnak. Mivel korán sötétedik, élvezze a kivilágított várost a buszból visszafelé.",
+            "ro": "Explorați Chesterul de iarnă confortabil cu autobuzul. După sosirea în centru, vizităm galeriile Rows festive și ne încălzim în Catedrală. Traseul continuă spre Muzeul Grosvenor. Un punct forte iarna este drumul cu autobuzul spre zoo, unde vă așteaptă pavilioane încălzite. Deoarece se înseră devreme, admirați orașul iluminat din autobuz.",
+            "en": "Explore wintery Chester comfortably using the city's bus services. After arriving in the centre, visit the festive Rows and warm up inside the Cathedral. Then, head to the Grosvenor Museum. A winter highlight is the bus ride to Chester Zoo, where warm animal houses await. As it gets dark early, enjoy the view of the city lights from the bus window on your return."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Arrive and Explore Centre",
+              "tip_5lang": {
+                "de": "Im Bahnhof gibt es einen beheizten Wartesaal für die Ankunft.",
+                "hu": "A vasútállomáson fűtött váróterem áll rendelkezésre érkezéskor.",
+                "ro": "În gară există o sală de așteptare încălzită pentru momentele sosirii.",
+                "en": "The railway station has a heated waiting room to use upon arrival."
+              }
+            },
+            {
+              "name": "Chester Rows & Eastgate Clock",
+              "tip_5lang": {
+                "de": "Besuchen Sie die kleinen Cafés in den Rows für ein Heißgetränk.",
+                "hu": "Látogasson el a Rows kis kávézóiba egy melengető forró italra.",
+                "ro": "Vizitați micile cafenele din galeriile Rows pentru o băutură caldă.",
+                "en": "Pop into one of the small cafes in the Rows for a quick hot drink to warm up."
+              }
+            },
+            {
+              "name": "Chester Cathedral",
+              "tip_5lang": {
+                "de": "Die Kathedrale ist im Winter ein willkommener wärmender Stopp.",
+                "hu": "A katedrális télen hívogató, temperált megállóhely a séta közben.",
+                "ro": "Catedrala este o oprire binevenită și caldă în timpul zilelor geroase.",
+                "en": "The Cathedral is a welcome warming stop during your winter exploration."
+              }
+            },
+            {
+              "name": "Cluster B: Bus to Museum Quarter",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter gut beheizt; eine kurze Fahrt zum Aufwärmen.",
+                "hu": "A buszok télen jól fűtöttek; egy rövid út is elég a felmelegedéshez.",
+                "ro": "Autobuzele sunt bine încălzite iarna; o călătorie scurtă pentru dezmorțire.",
+                "en": "Buses are well-heated in winter; use the short ride to thaw your toes."
+              }
+            },
+            {
+              "name": "Roman Amphitheatre",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; die Haltestelle bietet Windschutz.",
+                "hu": "Csak rövid megálló; a buszmegálló pavilonja véd a szél ellen.",
+                "ro": "Oprire scurtă; pavilionul stației oferă protecție împotriva vântului.",
+                "en": "Keep the visit brief; the bus shelter provides some protection from the wind."
+              }
+            },
+            {
+              "name": "Cluster C: Bus to Chester Zoo",
+              "tip_5lang": {
+                "de": "Der Zoo schließt im Winter früher; prüfen Sie den letzten Bus zurück.",
+                "hu": "A zoo télen korábban zár; ellenőrizze az utolsó visszainduló buszt.",
+                "ro": "Zoo se închide mai devreme iarna; verificați ora ultimului autobuz retur.",
+                "en": "The zoo closes earlier in winter; check the time of the last bus back to town."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Ihre Fahrten so, dass Sie nach 16 Uhr die Weihnachtsbeleuchtung sehen.",
+              "Nutzen Sie die beheizten Innenräume der Busse für Pausen zwischen den Stopps.",
+              "Die Busfrequenz kann an Feiertagen oder bei starkem Schneefall variieren.",
+              "Tragen Sie warme Kleidung, da das Warten an Haltestellen kalt sein kann.",
+              "Die Tropenhäuser im Zoo sind der perfekte Endpunkt für einen kalten Tag."
+            ],
+            "hu": [
+              "Tervezze úgy az útjait, hogy 16 óra után láthassa az ünnepi fényeket.",
+              "Használja ki a buszok fűtött utasterét a megállók közötti pihenésre.",
+              "Ünnepnapokon vagy erős havazáskor a buszok ritkábban járhatnak.",
+              "Öltözzön nagyon melegen, mert a megállókban való várakozás fázós lehet.",
+              "A Zoo trópusi házai a legtökéletesebb befejezést jelentik egy hideg napon."
+            ],
+            "ro": [
+              "Planificați călătoriile astfel încât să vedeți luminile de Crăciun după ora 16.",
+              "Profitați de interiorul încălzit al autobuzelor pentru pauze între obiective.",
+              "Frecvența autobuzelor poate varia în zilele de sărbătoare sau pe ninsoare.",
+              "Îmbrăcați-vă gros, deoarece așteptarea în stații poate fi destul de rece.",
+              "Pavilioanele tropicale de la zoo sunt punctul final ideal pentru o zi geroasă."
+            ],
+            "en": [
+              "Time your bus rides to enjoy the city's Christmas lights after 4:00 PM.",
+              "Take advantage of the heated bus interiors to recover between outdoor stops.",
+              "Bus frequencies may change during public holidays or extreme winter weather.",
+              "Wear plenty of layers as waiting at unsheltered bus stops can be chilly.",
+              "Chester Zoo's tropical houses are the perfect final destination for a cold day."
+            ]
+          }
+        }
       }
     }
   }

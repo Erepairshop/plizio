@@ -410,6 +410,232 @@
           "Most city centre attractions are within easy walking distance.",
           "Budget extra time for the cathedral; there is a lot to see."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Broadgate unter den Arkaden. Die Kathedralruinen wirken im Regen besonders melancholisch, bevor Sie im trockenen St. Mary's Guildhall Zuflucht suchen. Der Nachmittag gehört den großartigen Museen der Stadt, die ideal sind, um dem britischen Wetter zu trotzen. Den Abend lassen Sie gemütlich in der historischen Spon Street ausklingen, wo das Kopfsteinpflaster im Regen glänzt.",
+            "hu": "Kezdje a napot a Broadgate fedett részei alatt. A székesegyház romjai esőben is lenyűgözőek, de a St. Mary's Guildhall fűtött falai hamar menedéket nyújtanak. A délutánt töltse a Herbert és a Közlekedési Múzeumban, amelyek tökéletesek a záporok elől. Az estét a történelmi Spon Streeten zárhatja, ahol a vizes macskakövek tükrözik a lámpák fényeit.",
+            "ro": "Începeți ziua sub arcadele din Broadgate. Ruinele Catedralei au o atmosferă aparte pe ploaie, înainte de a vă adăposti în St. Mary's Guildhall. După-amiaza este rezervată muzeelor excelente, ideale pentru a evita vremea britanică tipică. Seara se încheie pe strada istorică Spon Street, unde pavajul umed reflectă luminile orașului.",
+            "en": "Start your day under the arcades at Broadgate. The Cathedral ruins look hauntingly beautiful in the rain, but you'll soon find shelter in St. Mary's Guildhall. The afternoon is dedicated to the city's superb museums, perfect for escaping the British showers. End your evening on the historic Spon Street, where the wet cobblestones add to the medieval atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Lady Godiva Statue",
+              "tip_5lang": {
+                "de": "Unter den Arkaden des Broadgate Shopping Centre bleiben Sie trocken.",
+                "hu": "A Broadgate bevásárlóközpont árkádjai alatt szárazon maradhat.",
+                "ro": "Rămâneți sub arcadele centrului comercial Broadgate pentru a evita ploaia.",
+                "en": "Stay under the Broadgate Shopping Centre arcades to keep dry."
+              }
+            },
+            {
+              "name": "Coventry Cathedral Ruins",
+              "tip_5lang": {
+                "de": "Der Innenraum der neuen Kathedrale direkt daneben bietet perfekten Schutz.",
+                "hu": "A közvetlen szomszédságban lévő új katedrális belseje tökéletes menedék.",
+                "ro": "Interiorul noii catedrale de alături oferă adăpost perfect.",
+                "en": "The interior of the new cathedral right next door offers perfect shelter."
+              }
+            },
+            {
+              "name": "Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie das 'Doom Painting' im Trockenen.",
+                "hu": "Csodálja meg az utolsó ítélet festményt a száraz belső térben.",
+                "ro": "Admirați pictura 'Doom' în interiorul primitor.",
+                "en": "Admire the famous 'Doom Painting' in the warm, dry interior."
+              }
+            },
+            {
+              "name": "St. Mary's Guildhall",
+              "tip_5lang": {
+                "de": "Idealer Ort für eine längere Pause bei Regen.",
+                "hu": "Ideális helyszín egy hosszabb pihenőhöz eső esetén.",
+                "ro": "Locație ideală pentru o pauză prelungită pe timp de ploaie.",
+                "en": "An ideal location for an extended break during rain."
+              }
+            },
+            {
+              "name": "Herbert Art Gallery & Museum",
+              "tip_5lang": {
+                "de": "Große Indoor-Ausstellungen, perfekt für Regentage.",
+                "hu": "Tágas beltéri kiállítások, tökéletes esős napokra.",
+                "ro": "Expoziții interioare vaste, perfecte pentru zilele ploioase.",
+                "en": "Large indoor exhibitions, perfect for rainy days."
+              }
+            },
+            {
+              "name": "Coventry Transport Museum",
+              "tip_5lang": {
+                "de": "Eines der besten Museen der Stadt, komplett überdacht.",
+                "hu": "A város egyik legjobb múzeuma, teljesen fedett.",
+                "ro": "Unul dintre cele mai bune muzee din oraș, complet acoperit.",
+                "en": "One of the city's best museums, fully undercover."
+              }
+            },
+            {
+              "name": "Spon Street",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem rutschigen Kopfsteinpflaster.",
+                "hu": "Vigyázat, a macskakő esőben csúszós lehet.",
+                "ro": "Atenție la pavajul care poate deveni alunecos pe ploaie.",
+                "en": "Be careful on the cobblestones as they can be slippery when wet."
+              }
+            },
+            {
+              "name": "Belgrade Theatre",
+              "tip_5lang": {
+                "de": "Das Foyer bietet einen warmen Platz zum Warten.",
+                "hu": "Az előcsarnok meleg helyet kínál a várakozáshoz.",
+                "ro": "Foaierul oferă un loc cald pentru așteptare.",
+                "en": "The foyer provides a warm space to wait before the show."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Upper Precinct Arkaden für überdachte Fußwege.",
+              "Die Museen in Coventry sind groß und bieten stundenlangen Schutz.",
+              "Packen Sie einen stabilen Regenschirm ein, da es in den Ruinen windig sein kann.",
+              "Das Coventry Transport Museum hat ein tolles Café für nasse Nachmittage.",
+              "Die meisten Sehenswürdigkeiten im Zentrum sind nah beieinander."
+            ],
+            "hu": [
+              "Használja az Upper Precinct árkádjait a fedett közlekedéshez.",
+              "Coventry múzeumai tágasak, órákig tartó védelmet nyújtanak az eső elől.",
+              "Vigyen erős esernyőt, mert a katedrális romjainál szeles lehet az idő.",
+              "A Közlekedési Múzeum kávézója kiváló hely egy esős délutánon.",
+              "A legtöbb belvárosi látnivaló sétatávolságra van egymástól."
+            ],
+            "ro": [
+              "Folosiți arcadele din Upper Precinct pentru trasee pietonale acoperite.",
+              "Muzeele din Coventry sunt vaste și oferă protecție pentru ore întregi.",
+              "Luați o umbrelă rezistentă, vântul poate fi puternic în zona ruinelor.",
+              "Cafeneaua Muzeului Transporturilor este ideală pentru o după-amiază umedă.",
+              "Majoritatea atracțiilor din centru sunt foarte aproape una de cealaltă."
+            ],
+            "en": [
+              "Use the Upper Precinct arcades for covered walking routes.",
+              "Coventry's museums are extensive and provide hours of shelter.",
+              "Pack a sturdy umbrella as it can get windy around the ruins.",
+              "The Transport Museum café is a great spot for a rainy afternoon.",
+              "Most city centre sights are within very close proximity to each other."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Coventrys Geschichte in der klaren Winterluft. Der Vormittag an den Kathedralruinen ist erfrischend, gefolgt von der wohligen Wärme in den mittelalterlichen Hallen des Guildhall. Wenn die Sonne gegen 16 Uhr untergeht, bieten die Museen eine warme Zuflucht, bevor die festlich beleuchtete Spon Street Sie in eine andere Zeit versetzt.",
+            "hu": "Fedezze fel Coventry történelmét a friss téli levegőn. A katedrális romjai reggel különleges hangulatot árasztanak, majd a Guildhall középkori termei nyújtanak meleget. Mivel a nap már délután 4 körül lemegy, a múzeumok fűtött terei ideálisak, mielőtt a kivilágított Spon Street mesebeli díszletei közé érne.",
+            "ro": "Descoperiți istoria orașului Coventry în aerul proaspăt de iarnă. Ruinele catedralei sunt revigorante dimineața, urmate de căldura primitoare din St. Mary's Guildhall. Pe măsură ce soarele apune în jurul orei 16:00, muzeele oferă refugiu, înainte ca Spon Street iluminată festiv să vă transporte în timp.",
+            "en": "Experience Coventry's history in the crisp winter air. A morning at the Cathedral ruins is refreshing, followed by the cozy warmth of the medieval Guildhall. As the sun sets around 4 PM, the heated museums provide sanctuary before the festively lit Spon Street transports you back in time."
+          },
+          "stops": [
+            {
+              "name": "Lady Godiva Statue",
+              "tip_5lang": {
+                "de": "Ein heißer Kaffee vom nahen Markt hilft gegen die Kälte.",
+                "hu": "Egy forró kávé a közeli piacról segít a hideg ellen.",
+                "ro": "O cafea fierbinte de la piața din apropiere ajută împotriva frigului.",
+                "en": "A hot coffee from the nearby market helps against the morning chill."
+              }
+            },
+            {
+              "name": "Coventry Cathedral Ruins",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruinen früh, solange es hell ist.",
+                "hu": "Látogassa meg a romokat korán, amíg tart a világosság.",
+                "ro": "Vizitați ruinele devreme, cât timp este încă lumină.",
+                "en": "Visit the ruins early while there is still daylight."
+              }
+            },
+            {
+              "name": "Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, windgeschützter Ort zum Aufwärmen.",
+                "hu": "Csendes, szélvédett hely a felmelegedéshez.",
+                "ro": "Un loc liniștit și ferit de vânt pentru a vă încălzi.",
+                "en": "A quiet, wind-sheltered spot to warm up."
+              }
+            },
+            {
+              "name": "St. Mary's Guildhall",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre im 'Tales of Tea' Café.",
+                "hu": "Élvezze a hangulatos légkört a Tales of Tea kávézóban.",
+                "ro": "Bucurați-vă de atmosfera primitoare din cafeneaua Tales of Tea.",
+                "en": "Enjoy the cozy atmosphere in the 'Tales of Tea' tea room."
+              }
+            },
+            {
+              "name": "Herbert Art Gallery & Museum",
+              "tip_5lang": {
+                "de": "Perfekt für die kalten Nachmittagsstunden.",
+                "hu": "Tökéletes a hideg délutáni órák eltöltésére.",
+                "ro": "Perfect pentru orele reci de după-amiază.",
+                "en": "Perfect for spending the cold afternoon hours."
+              }
+            },
+            {
+              "name": "Coventry Transport Museum",
+              "tip_5lang": {
+                "de": "Die hellen Hallen lassen den grauen Winter vergessen.",
+                "hu": "A világos csarnokok elfeledtetik a szürke telet.",
+                "ro": "Halele luminoase vă fac să uitați de iarna gri.",
+                "en": "The bright halls make you forget the grey winter outside."
+              }
+            },
+            {
+              "name": "Spon Street",
+              "tip_5lang": {
+                "de": "Besonders stimmungsvoll bei früher Dämmerung.",
+                "hu": "Különösen hangulatos a korai szürkületben.",
+                "ro": "Deosebit de atmosferic la lăsarea timpurie a serii.",
+                "en": "Particularly atmospheric during early twilight."
+              }
+            },
+            {
+              "name": "Belgrade Theatre",
+              "tip_5lang": {
+                "de": "Prüfen Sie das Programm auf weihnachtliche Aufführungen.",
+                "hu": "Ellenőrizze a műsort karácsonyi előadásokért.",
+                "ro": "Verificați programul pentru spectacole de Crăciun.",
+                "en": "Check the schedule for festive Christmas performances."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Tragen Sie warme Schichten, besonders für die Kathedralruinen.",
+              "Die Museen sind gut beheizt und bieten Komfort.",
+              "Spon Street ist in der Vorweihnachtszeit wunderschön beleuchtet.",
+              "Der Coventry Market ist ein guter Ort für warme Snacks."
+            ],
+            "hu": [
+              "A nap decemberben már délután 4 óra körül lemegy.",
+              "Öltözzön rétegesen, különösen a katedrális romjainak megtekintéséhez.",
+              "A múzeumok jól fűtöttek és kényelmesek.",
+              "A Spon Street gyönyörűen ki van világítva az ünnepi időszakban.",
+              "A Coventry Market kiváló hely meleg falatok beszerzéséhez."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:00 în luna decembrie.",
+              "Purtați haine groase în straturi, mai ales pentru ruinele catedralei.",
+              "Muzeele sunt bine încălzite și oferă confort termic.",
+              "Spon Street este iluminată superb în perioada sărbătorilor.",
+              "Piața din Coventry este un loc bun pentru gustări calde."
+            ],
+            "en": [
+              "The sun sets as early as 4 PM in December.",
+              "Wear warm layers, especially for visiting the open-air ruins.",
+              "The museums are well-heated and offer great comfort.",
+              "Spon Street is beautifully lit during the festive season.",
+              "Coventry Market is a good spot for finding warm snacks."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -790,6 +1016,214 @@
           "A good lock is essential, especially in the city centre.",
           "Some parts of the centre are pedestrianised, so you may need to dismount."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Coventry erfordert bei Regen gute Kleidung, bietet aber schnelle Wege zwischen den Museen. Starten Sie beim Transport Museum und nutzen Sie die kurzen Distanzen im Stadtzentrum. Der War Memorial Park ist bei Regen ruhiger, aber die Wege sind gut befestigt. Beenden Sie den Tag bei einem wärmenden Getränk in der Nähe der Kathedrale.",
+            "hu": "Az esős Coventry-i kerékpározás jó felszerelést igényel, de gyors közlekedést biztosít a múzeumok között. Kezdjen a Közlekedési Múzeumnál, és használja ki a belvárosi rövid távolságokat. A War Memorial Park esőben is járható a szilárd utaknak köszönhetően. Zárja a napot egy melengető itallal a katedrális közelében.",
+            "ro": "O plimbare cu bicicleta prin Coventry pe ploaie necesită echipament bun, dar oferă acces rapid între muzee. Începeți la Muzeul Transporturilor și profitați de distanțele scurte din centru. War Memorial Park este mai liniștit pe ploaie, iar potecile sunt bine întreținute. Încheiați ziua cu o băutură caldă lângă catedrală.",
+            "en": "Cycling through Coventry in the rain requires good gear but offers quick transit between museums. Start at the Transport Museum and take advantage of the short city centre distances. War Memorial Park is quieter in the rain, but paths remain solid. End your ride with a warming drink near the Cathedral."
+          },
+          "stops": [
+            {
+              "name": "Coventry Transport Museum",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich direkt vor dem Eingang.",
+                "hu": "Biztonságos kerékpártárolók találhatók közvetlenül a bejáratnál.",
+                "ro": "Rasteluri sigure pentru biciclete se află chiar în fața intrării.",
+                "en": "Secure bike racks are located right outside the entrance."
+              }
+            },
+            {
+              "name": "Cathedral Quarter",
+              "tip_5lang": {
+                "de": "Vorsicht beim Fahren auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a vizes macskakövön való közlekedéssel.",
+                "ro": "Atenție la pedalarea pe pavajul umed din zona catedralei.",
+                "en": "Be careful when cycling on the wet cobblestones in the quarter."
+              }
+            },
+            {
+              "name": "St. Mary's Guildhall",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad in den Gassen unter, um den Sattel trocken zu halten.",
+                "hu": "Támassza le a kerékpárt a sikátorokban, hogy az ülés száraz maradjon.",
+                "ro": "Parcați bicicleta în ganguri pentru a menține șaua uscată.",
+                "en": "Park your bike in the alleyways to keep the saddle dry."
+              }
+            },
+            {
+              "name": "Lunch at Spon Street",
+              "tip_5lang": {
+                "de": "Viele Pubs hier haben überdachte Außenbereiche.",
+                "hu": "Sok itteni pub rendelkezik fedett terasszal.",
+                "ro": "Multe pub-uri de aici au zone exterioare acoperite.",
+                "en": "Many pubs here have covered outdoor areas."
+              }
+            },
+            {
+              "name": "War Memorial Park",
+              "tip_5lang": {
+                "de": "Die Hauptwege sind asphaltiert und nicht schlammig.",
+                "hu": "A főutak aszfaltozottak, így nem sarasak.",
+                "ro": "Aleile principale sunt asfaltate și nu devin noroioase.",
+                "en": "The main paths are paved and won't be muddy."
+              }
+            },
+            {
+              "name": "Herbert Art Gallery & Museum",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Park bringt Sie schnell wieder ins Trockene.",
+                "hu": "Egy rövid sprint a parkból, és gyorsan újra fedett helyen van.",
+                "ro": "Un sprint scurt de la parc vă aduce rapid la adăpost.",
+                "en": "A short sprint from the park gets you back into the dry quickly."
+              }
+            },
+            {
+              "name": "Farewell drink near the Cathedral",
+              "tip_5lang": {
+                "de": "Ein verdienter Abschluss nach einer nassen Tour.",
+                "hu": "Megérdemelt lezárás egy vizes túra után.",
+                "ro": "O încheiere binemeritată după o tură umedă.",
+                "en": "A well-earned finish after a wet cycling tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf rutschige Fahrbahnmarkierungen bei Nässe.",
+              "Schutzbleche sind bei diesem Wetter in Coventry unerlässlich.",
+              "Nutzen Sie die vielen Fahrradabstellplätze an den Museen.",
+              "Bremsen Sie früher, da der Bremsweg auf nassem Asphalt länger ist.",
+              "Wählen Sie beleuchtete Wege, wenn die Sicht schlechter wird."
+            ],
+            "hu": [
+              "Ügyeljen a csúszós útburkolati jelekre esőben.",
+              "A sárvédő elengedhetetlen ebben az időben Coventry-ben.",
+              "Használja ki a múzeumoknál található számos kerékpártárolót.",
+              "Fékezzen időben, mert a fékút hosszabb a vizes aszfalton.",
+              "Válasszon kivilágított utakat, ha romlanak a látási viszonyok."
+            ],
+            "ro": [
+              "Atenție la marcajele rutiere care devin alunecoase pe ploaie.",
+              "Aripile de protecție sunt esențiale pe această vreme în Coventry.",
+              "Folosiți numeroasele locuri de parcare pentru biciclete de la muzee.",
+              "Frânați din timp, distanța de frânare crește pe asfalt umed.",
+              "Alegeți rute luminate dacă vizibilitatea scade."
+            ],
+            "en": [
+              "Watch out for slippery road markings when wet.",
+              "Mudguards are essential in this weather in Coventry.",
+              "Take advantage of the many bike parking spots at the museums.",
+              "Brake earlier as stopping distances increase on wet tarmac.",
+              "Choose well-lit routes if visibility decreases during showers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im winterlichen Coventry bietet klare Ausblicke und wenig Verkehr in den Parks. Starten Sie am Transport Museum und genießen Sie die ruhige Atmosphäre im Cathedral Quarter. Der War Memorial Park wirkt im Winterfrost besonders weitläufig. Wärmen Sie sich nach der Tour in einem der gemütlichen Cafés am Cathedral Square auf.",
+            "hu": "A téli kerékpározás Coventry-ben tiszta kilátást és gyér forgalmat kínál a parkokban. Kezdjen a Közlekedési Múzeumnál, és élvezze a Cathedral Quarter nyugodt hangulatát. A War Memorial Park a téli fagyban különösen tágasnak tűnik. A túra után melegedjen fel a Cathedral Square egyik barátságos kávézójában.",
+            "ro": "Ciclismul în Coventry pe timp de iarnă oferă vederi clare și trafic redus în parcuri. Începeți la Muzeul Transporturilor și bucurați-vă de atmosfera calmă din Cathedral Quarter. War Memorial Park pare extrem de vast în înghețul iernii. După tură, încălziți-vă într-una dintre cafenelele primitoare din Cathedral Square.",
+            "en": "Cycling in wintry Coventry offers clear views and low traffic in the parks. Start at the Transport Museum and enjoy the quiet atmosphere in the Cathedral Quarter. War Memorial Park feels especially spacious in the winter frost. Warm up after your ride in one of the cozy cafes at Cathedral Square."
+          },
+          "stops": [
+            {
+              "name": "Coventry Transport Museum",
+              "tip_5lang": {
+                "de": "Ziehen Sie Ihre Handschuhe erst im Museum aus.",
+                "hu": "Csak a múzeumba érve vegye le a kesztyűjét.",
+                "ro": "Scoateți-vă mănușile abia după ce intrați în muzeu.",
+                "en": "Only take off your gloves once you are inside the museum."
+              }
+            },
+            {
+              "name": "Cathedral Quarter",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen auf dem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a jeges foltokra a macskakövön.",
+                "ro": "Atenție la porțiunile înghețate de pe pavaj.",
+                "en": "Watch out for icy patches on the cobblestones."
+              }
+            },
+            {
+              "name": "St. Mary's Guildhall",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen in historischem Ambiente.",
+                "hu": "Rövid megálló a felmelegedéshez történelmi környezetben.",
+                "ro": "O oprire scurtă pentru încălzire într-un cadru istoric.",
+                "en": "A short stop to warm up in a historical setting."
+              }
+            },
+            {
+              "name": "Lunch at Spon Street",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz nah am Kamin, falls vorhanden.",
+                "hu": "Keressen helyet a kandalló közelében, ha van.",
+                "ro": "Căutați un loc lângă șemineu, dacă este disponibil.",
+                "en": "Look for a seat near the fireplace if available."
+              }
+            },
+            {
+              "name": "War Memorial Park",
+              "tip_5lang": {
+                "de": "Die Wege können bei Frost rutschig sein.",
+                "hu": "Az utak fagy esetén csúszósak lehetnek.",
+                "ro": "Aleile pot fi alunecoase în caz de îngheț.",
+                "en": "Paths can be slippery if there is a frost."
+              }
+            },
+            {
+              "name": "Herbert Art Gallery & Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Lichter für die Rückfahrt funktionieren.",
+                "hu": "Ellenőrizze, hogy a lámpái működnek-e a visszaúthoz.",
+                "ro": "Asigurați-vă că luminile funcționează pentru drumul de întoarcere.",
+                "en": "Ensure your lights are working for the return journey."
+              }
+            },
+            {
+              "name": "Farewell drink near the Cathedral",
+              "tip_5lang": {
+                "de": "Heißer Tee oder Punsch ist jetzt genau das Richtige.",
+                "hu": "Forró tea vagy puncs most a legjobb választás.",
+                "ro": "Un ceai fierbinte sau un punch este exact ce trebuie acum.",
+                "en": "A hot tea or punch is just the right thing now."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck, etwas weniger Grip hilft bei Kälte.",
+              "Licht ist ab 15:30 Uhr aufgrund der frühen Dämmerung Pflicht.",
+              "Achten Sie auf Brücken, diese gefrieren zuerst.",
+              "Warme, winddichte Kleidung ist entscheidend für den Fahrwind.",
+              "Die Route durch den Park ist im Winter sehr windanfällig."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást, a kicsit alacsonyabb nyomás segít a tapadásban.",
+              "A világítás délután fél 4-től kötelező a korai sötétedés miatt.",
+              "Ügyeljen a hidakra, azok fagynak le legelőször.",
+              "A meleg, szélálló ruházat döntő a menetszél miatt.",
+              "A parkon átvezető útvonal télen nagyon szeles lehet."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri, o aderență mai bună ajută pe frig.",
+              "Luminile sunt obligatorii de la ora 15:30 din cauza înserării timpurii.",
+              "Atenție la poduri, acestea îngheață primele.",
+              "Hainele groase și rezistente la vânt sunt esențiale.",
+              "Ruta prin parc este foarte expusă vântului iarna."
+            ],
+            "en": [
+              "Check tyre pressure; slightly lower pressure can help with grip in the cold.",
+              "Lights are mandatory from 3:30 PM due to early twilight.",
+              "Be careful on bridges as they tend to freeze first.",
+              "Warm, windproof clothing is crucial against the wind chill.",
+              "The route through the park can be very windy in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1170,6 +1604,214 @@
           "Coventry has a ring road system that can be confusing for first-time visitors. Use a GPS.",
           "Be aware of bus lanes and restrictions in the city centre."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Coventry und Umgebung trocken und komfortabel. Starten Sie beim Lunt Roman Fort, das auch bei Regen faszinierend ist. Danach bietet der War Memorial Park eine grüne Pause, bevor Sie das Auto im Parkhaus im Zentrum abstellen. Die Museen und die Kathedrale liegen alle nah beieinander, sodass Sie nur kurze Wege im Freien haben.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel Coventry környékét. Kezdjen a Lunt római erődnél, amely esőben is lenyűgöző. Ezután a War Memorial Park kínál zöld pihenőt, mielőtt a központi parkolóházban hagyná az autót. A múzeumok és a katedrális közel vannak egymáshoz, így csak keveset kell a szabadban lennie.",
+            "ro": "Cu mașina, explorați Coventry și împrejurimile în confort și uscat. Începeți la Fortul Roman Lunt, fascinant chiar și pe ploaie. Apoi, War Memorial Park oferă o pauză verde, înainte de a lăsa mașina în parcarea centrală. Muzeele și catedrala sunt aproape una de alta, limitând expunerea la ploaie.",
+            "en": "By car, you can explore Coventry and its surroundings in dry comfort. Start at the Lunt Roman Fort, which remains fascinating even in the rain. Afterwards, War Memorial Park offers a green break before you park in the city centre. The museums and Cathedral are all clustered together, minimizing your time outdoors."
+          },
+          "stops": [
+            {
+              "name": "Lunt Roman Fort",
+              "tip_5lang": {
+                "de": "Einige Außenbereiche sind ungeschützt, nehmen Sie einen Schirm mit.",
+                "hu": "Néhány külső terület nem fedett, vigyen esernyőt.",
+                "ro": "Unele zone exterioare sunt expuse, luați o umbrelă.",
+                "en": "Some outdoor areas are unsheltered, so bring an umbrella."
+              }
+            },
+            {
+              "name": "Cluster 1: War Memorial Park",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Besucherzentrum für einen kurzen Weg ins Trockene.",
+                "hu": "Parkoljon a látogatóközpont közelében a rövid fedett útért.",
+                "ro": "Parcați aproape de centrul pentru vizitatori pentru un drum scurt.",
+                "en": "Park near the visitor centre for a short walk to shelter."
+              }
+            },
+            {
+              "name": "Cluster 2: Cathedral Quarter & Museums",
+              "tip_5lang": {
+                "de": "Nutzen Sie das 'Salt Lane' Parkhaus für direkten Zugang.",
+                "hu": "Használja a Salt Lane parkolóházat a közvetlen kijáráshoz.",
+                "ro": "Folosiți parcarea Salt Lane pentru acces direct.",
+                "en": "Use the Salt Lane multi-storey car park for easy access."
+              }
+            },
+            {
+              "name": "Herbert Art Gallery & Museum",
+              "tip_5lang": {
+                "de": "Direkter Zugang von den umliegenden Fußgängerzonen.",
+                "hu": "Közvetlen hozzáférés a környező sétálóövezetekből.",
+                "ro": "Acces direct din zonele pietonale învecinate.",
+                "en": "Direct access from the surrounding pedestrian areas."
+              }
+            },
+            {
+              "name": "Coventry Transport Museum",
+              "tip_5lang": {
+                "de": "Parken Sie am 'Bishop Street' Parkplatz direkt daneben.",
+                "hu": "Parkoljon a közvetlenül mellette lévő Bishop Street parkolóban.",
+                "ro": "Parcați la Bishop Street, chiar lângă muzeu.",
+                "en": "Park at Bishop Street car park right next to the museum."
+              }
+            },
+            {
+              "name": "Spon Street",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von den zentralen Parkplätzen.",
+                "hu": "Rövid séta a központi parkolóktól.",
+                "ro": "Scurtă plimbare de la parcările centrale.",
+                "en": "Short walk from the central car parks."
+              }
+            },
+            {
+              "name": "Dinner",
+              "tip_5lang": {
+                "de": "Viele Restaurants bieten Parkservice oder nahegelegene Parkplätze.",
+                "hu": "Sok étterem közelében van parkolóhely.",
+                "ro": "Multe restaurante au parcări în apropiere.",
+                "en": "Many restaurants have parking spots nearby."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Das Salt Lane Parkhaus ist modern und nah an den Hauptattraktionen.",
+              "Rechnen Sie bei starkem Regen mit mehr Verkehr im Stadtzentrum.",
+              "Die Fahrt zum Lunt Roman Fort führt über gut ausgebaute Straßen.",
+              "Nutzen Sie Park-and-Ride, wenn Sie das Zentrum meiden wollen.",
+              "Halten Sie Kleingeld oder eine Park-App bereit."
+            ],
+            "hu": [
+              "A Salt Lane parkolóház modern és közel van a fő látnivalókhoz.",
+              "Erős esőben számítson nagyobb forgalomra a belvárosban.",
+              "A Lunt római erődhöz vezető út jól karbantartott.",
+              "Használja a Park-and-Ride rendszert, ha elkerülné a belvárost.",
+              "Készítsen össze aprópénzt vagy használjon parkolási appot."
+            ],
+            "ro": [
+              "Parcarea Salt Lane este modernă și aproape de atracțiile principale.",
+              "Așteptați-vă la trafic mai intens în centru pe ploaie abundentă.",
+              "Drumul către Fortul Roman Lunt este bine întreținut.",
+              "Folosiți Park-and-Ride dacă doriți să evitați aglomerația din centru.",
+              "Pregătiți mărunțiș sau o aplicație de parcare."
+            ],
+            "en": [
+              "The Salt Lane car park is modern and close to major attractions.",
+              "Expect heavier traffic in the city centre during heavy rain.",
+              "The drive to Lunt Roman Fort is on well-maintained roads.",
+              "Consider Park-and-Ride to avoid city centre congestion.",
+              "Have some change ready or use a parking app for convenience."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine winterliche Tour durch Coventry mit dem Komfort Ihres beheizten Autos. Beginnen Sie beim Lunt Roman Fort in der klaren Morgenluft. Der War Memorial Park bietet eine erfrischende Winterkulisse für einen kurzen Spaziergang. Im Stadtzentrum sind die Museen und historischen Gebäude nah beieinander, sodass Sie die Kälte nur kurz spüren, bevor Sie zum Abendessen einkehren.",
+            "hu": "Élvezze a téli Coventry-t fűtött autója kényelméből. Kezdjen a Lunt római erődnél a friss reggeli levegőn. A War Memorial Park frissítő téli látványt nyújt egy rövid sétához. A belvárosban a múzeumok és történelmi épületek közel vannak egymáshoz, így csak rövid ideig kell éreznie a hideget a vacsora előtt.",
+            "ro": "Bucurați-vă de un tur de iarnă în Coventry cu confortul mașinii încălzite. Începeți la Fortul Roman Lunt în aerul clar al dimineții. War Memorial Park oferă un cadru de iarnă revigorant pentru o plimbare scurtă. În centru, muzeele și clădirile istorice sunt grupate, limitând expunerea la frig.",
+            "en": "Enjoy a winter tour of Coventry with the comfort of your heated car. Start at the Lunt Roman Fort in the crisp morning air. War Memorial Park offers a refreshing winter backdrop for a brief stroll. In the city centre, museums and historic buildings are close together, so you'll only feel the cold briefly before heading to dinner."
+          },
+          "stops": [
+            {
+              "name": "Lunt Roman Fort",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Öffnungszeiten, diese können im Winter kürzer sein.",
+                "hu": "Ellenőrizze a nyitvatartást, télen rövidebb lehet.",
+                "ro": "Verificați programul, poate fi mai scurt iarna.",
+                "en": "Check opening times as they may be shorter in winter."
+              }
+            },
+            {
+              "name": "Cluster 1: War Memorial Park",
+              "tip_5lang": {
+                "de": "Das Café im Park ist ein guter Ort zum Aufwärmen.",
+                "hu": "A park kávézója jó hely a felmelegedéshez.",
+                "ro": "Cafeneaua din parc este un loc bun pentru încălzire.",
+                "en": "The park café is a great spot to warm up."
+              }
+            },
+            {
+              "name": "Cluster 2: Cathedral Quarter & Museums",
+              "tip_5lang": {
+                "de": "Parkhäuser bieten im Winter Schutz vor Frost auf den Scheiben.",
+                "hu": "A parkolóházak megvédik az autót a fagytól.",
+                "ro": "Parcările acoperite protejează mașina de îngheț.",
+                "en": "Multi-storey car parks keep your car frost-free while you visit."
+              }
+            },
+            {
+              "name": "Herbert Art Gallery & Museum",
+              "tip_5lang": {
+                "de": "Ein warmes Refugium für den späten Vormittag.",
+                "hu": "Meleg menedék a késő délelőtti órákra.",
+                "ro": "Un refugiu cald pentru sfârșitul dimineții.",
+                "en": "A warm sanctuary for the late morning hours."
+              }
+            },
+            {
+              "name": "Coventry Transport Museum",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellung, wenn es draußen am kältesten ist.",
+                "hu": "Akkor látogassa meg, amikor kint a leghidegebb van.",
+                "ro": "Vizitați expoziția când este cel mai frig afară.",
+                "en": "Visit the exhibition when it's coldest outside."
+              }
+            },
+            {
+              "name": "Spon Street",
+              "tip_5lang": {
+                "de": "Die Beleuchtung wirkt in der Winterdämmerung magisch.",
+                "hu": "A kivilágítás varázslatos a téli szürkületben.",
+                "ro": "Iluminatul pare magic în amurgul de iarnă.",
+                "en": "The lighting looks magical in the winter twilight."
+              }
+            },
+            {
+              "name": "Dinner",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch im Voraus, da es im Winter voll sein kann.",
+                "hu": "Foglaljon asztalt előre, mert télen hamar megtelhetnek.",
+                "ro": "Rezervați o masă în avans, iarna poate fi aglomerat.",
+                "en": "Book a table in advance as restaurants can be busy in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glätte auf den Nebenstraßen zum Fort.",
+              "Nutzen Sie die Tiefgaragen, um das Auto eisfrei zu halten.",
+              "Planen Sie Ihre Fahrten vor 16:00 Uhr, um im Hellen zu parken.",
+              "Coventrys Einbahnstraßensystem kann bei Dunkelheit tückisch sein.",
+              "Haben Sie immer einen Eiskratzer im Auto."
+            ],
+            "hu": [
+              "Ügyeljen a jegesedésre az erődhöz vezető mellékutakon.",
+              "Használjon fedett parkolókat, hogy az autó jégmentes maradjon.",
+              "Tervezze meg útjait délután 4 előtt, hogy még világosban parkoljon.",
+              "Coventry egyirányú utcái sötétben trükkösek lehetnek.",
+              "Mindig legyen jégkaparó az autóban."
+            ],
+            "ro": [
+              "Atenție la polei pe drumurile secundare către fort.",
+              "Folosiți parcările acoperite pentru a evita înghețarea parbrizului.",
+              "Planificați deplasările înainte de ora 16:00 pentru vizibilitate.",
+              "Sistemul de sensuri unice din Coventry poate fi dificil pe întuneric.",
+              "Aveți întotdeauna o racletă pentru gheață în mașină."
+            ],
+            "en": [
+              "Watch out for icy patches on side roads leading to the fort.",
+              "Use multi-storey car parks to keep your vehicle frost-free.",
+              "Plan your trips before 4 PM to park while it's still light.",
+              "Coventry's one-way system can be tricky in the dark.",
+              "Always keep an ice scraper in your car during winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1550,6 +2192,214 @@
           "The main bus station is Pool Meadow, but there are many stops downtown.",
           "Peak times can be busy, try to plan your travel off-peak."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie Coventrys Busnetz, um bei Regen trocken zwischen den Highlights zu pendeln. Starten Sie im War Memorial Park und nehmen Sie den Bus direkt ins Zentrum zum Cathedral Quarter. Die Museen liegen so zentral, dass Sie kaum Zeit im Freien verbringen müssen. Beenden Sie den Tag entspannt im Belgrade Theatre, das gut an den öffentlichen Nahverkehr angebunden ist.",
+            "hu": "Használja Coventry buszhálózatát, hogy szárazon közlekedjen a látnivalók között. Kezdjen a War Memorial Parkban, majd busszal menjen egyenesen a belvárosi Cathedral Quarterhez. A múzeumok központi elhelyezkedése miatt alig kell a szabadban lennie. Zárja a napot a Belgrade Theatre-ben, amely kiváló tömegközlekedési kapcsolatokkal rendelkezik.",
+            "ro": "Utilizați rețeaua de autobuze din Coventry pentru a călători la adăpost de ploaie. Începeți la War Memorial Park și luați autobuzul direct spre centru. Muzeele sunt atât de centrale încât veți petrece foarte puțin timp afară. Încheiați ziua relaxat la Teatrul Belgrade, bine conectat la transportul public.",
+            "en": "Use Coventry's bus network to hop between highlights while staying dry. Start at War Memorial Park and take a bus directly to the Cathedral Quarter. The museums are so centrally located that you'll spend very little time in the rain. End your day at the Belgrade Theatre, which is well-served by public transport."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: War Memorial Park",
+              "tip_5lang": {
+                "de": "Überdachte Bushaltestellen befinden sich direkt am Parkeingang.",
+                "hu": "Fedett buszmegállók találhatók közvetlenül a park bejáratánál.",
+                "ro": "Stații de autobuz acoperite se află chiar la intrarea în parc.",
+                "en": "Covered bus stops are located right by the park entrance."
+              }
+            },
+            {
+              "name": "Cluster 2: Cathedral Quarter",
+              "tip_5lang": {
+                "de": "Kurzer Weg von den Bushaltestellen im Zentrum.",
+                "hu": "Rövid séta a belvárosi buszmegállóktól.",
+                "ro": "Drum scurt de la stațiile de autobuz din centru.",
+                "en": "A very short walk from the central bus stops."
+              }
+            },
+            {
+              "name": "St. Mary's Guildhall",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um auf den nächsten Bus zu warten.",
+                "hu": "Ideális hely a következő buszra való várakozáshoz.",
+                "ro": "Un loc ideal pentru a aștepta următorul autobuz.",
+                "en": "An ideal place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Lady Godiva Statue & Lunch",
+              "tip_5lang": {
+                "de": "Das Zentrum bietet viele überdachte Durchgänge.",
+                "hu": "A belváros sok fedett átjárót kínál.",
+                "ro": "Centrul oferă multe pasaje acoperite.",
+                "en": "The city centre offers many covered walkways."
+              }
+            },
+            {
+              "name": "Cluster 3: Museum Quarter",
+              "tip_5lang": {
+                "de": "Die Busse halten fast direkt vor dem Transport Museum.",
+                "hu": "A buszok szinte közvetlenül a Közlekedési Múzeum előtt állnak meg.",
+                "ro": "Autobuzele opresc aproape direct în fața Muzeului Transporturilor.",
+                "en": "Buses stop almost directly outside the Transport Museum."
+              }
+            },
+            {
+              "name": "Spon Street",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Busse auf der Corporation Street für eine Abkürzung.",
+                "hu": "Használja a Corporation Street buszait egy rövidítéshez.",
+                "ro": "Folosiți autobuzele de pe Corporation Street pentru o scurtătură.",
+                "en": "Use buses on Corporation Street for a shortcut back to the centre."
+              }
+            },
+            {
+              "name": "Belgrade Theatre",
+              "tip_5lang": {
+                "de": "Bushaltestellen befinden sich direkt vor dem Theater.",
+                "hu": "A buszmegállók közvetlenül a színház előtt vannak.",
+                "ro": "Stațiile de autobuz sunt situate chiar în fața teatrului.",
+                "en": "Bus stops are located right in front of the theatre."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die kontaktlose Zahlung für einfache Busfahrten.",
+              "Die App 'Swift' hilft bei der Planung und Ticketbuchung.",
+              "Zentrale Bushaltestellen finden Sie am Pool Meadow Bus Station.",
+              "Die meisten Busse fahren alle 10-15 Minuten.",
+              "Halten Sie Ihren Schirm bereit für die kurzen Wege zwischen Stopps."
+            ],
+            "hu": [
+              "Használjon érintésmentes fizetést a buszokon.",
+              "A Swift alkalmazás segít a tervezésben és a jegyvásárlásban.",
+              "A központi buszpályaudvar a Pool Meadow-nál található.",
+              "A legtöbb busz 10-15 percenként jár.",
+              "Legyen kéznél az esernyő a megállók közötti rövid sétákhoz."
+            ],
+            "ro": [
+              "Folosiți plata contactless pentru călătorii simple cu autobuzul.",
+              "Aplicația Swift vă ajută la planificarea rutelor și bilete.",
+              "Gara centrală de autobuze este Pool Meadow.",
+              "Majoritatea autobuzelor circulă la intervale de 10-15 minute.",
+              "Aveți umbrela pregătită pentru distanțele scurte între stații."
+            ],
+            "en": [
+              "Use contactless payment for easy bus travel.",
+              "The 'Swift' app helps with planning and ticket booking.",
+              "Central bus hubs are located at Pool Meadow Bus Station.",
+              "Most city buses run every 10-15 minutes.",
+              "Keep your umbrella ready for the short walks between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Coventry im Winter bequem mit dem Bus. Starten Sie im War Memorial Park, der im Frost glitzert, und fahren Sie schnell ins Stadtzentrum. Die historischen Hallen und Museen bieten wohlige Wärme während Ihres Aufenthalts. Genießen Sie die festliche Stimmung in der Spon Street, bevor Sie mit dem Bus sicher zum Theater oder nach Hause fahren.",
+            "hu": "Fedezze fel a téli Coventry-t kényelmesen, busszal. Kezdjen a dérlepte War Memorial Parkban, majd utazzon gyorsan a belvárosba. A történelmi termek és múzeumok kellemes meleget nyújtanak látogatása alatt. Élvezze az ünnepi hangulatot a Spon Streeten, mielőtt busszal biztonságban a színházhoz vagy hazautazna.",
+            "ro": "Explorați Coventry iarna confortabil cu autobuzul. Începeți în War Memorial Park, strălucitor sub îngheț, și călătoriți rapid spre centru. Halele istorice și muzeele oferă căldură pe parcursul vizitei. Bucurați-vă de atmosfera de sărbătoare de pe Spon Street înainte de a pleca spre teatru.",
+            "en": "Explore Coventry in winter comfortably by bus. Start at War Memorial Park, sparkling in the frost, and travel quickly to the city centre. The historic halls and museums offer cozy warmth during your visit. Enjoy the festive atmosphere on Spon Street before catching a bus safely to the theatre or back home."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: War Memorial Park",
+              "tip_5lang": {
+                "de": "Warten Sie im Besucherzentrum, falls der Bus Verspätung hat.",
+                "hu": "Várjon a látogatóközpontban, ha késik a busz.",
+                "ro": "Așteptați în centrul pentru vizitatori dacă autobuzul întârzie.",
+                "en": "Wait inside the visitor centre if the bus is delayed."
+              }
+            },
+            {
+              "name": "Cluster 2: Cathedral Quarter",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter gut beheizt.",
+                "hu": "A buszok télen jól fűtöttek.",
+                "ro": "Autobuzele sunt bine încălzite iarna.",
+                "en": "Buses are well-heated during the winter months."
+              }
+            },
+            {
+              "name": "St. Mary's Guildhall",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für eine Pause zwischen den Fahrten.",
+                "hu": "Meleg hely egy pihenőhöz az utazások között.",
+                "ro": "Un loc cald pentru o pauză între călătorii.",
+                "en": "A warm spot for a break between bus rides."
+              }
+            },
+            {
+              "name": "Lady Godiva Statue & Lunch",
+              "tip_5lang": {
+                "de": "Nutzen Sie die nahen Cafés zum Aufwärmen.",
+                "hu": "Használja a közeli kávézókat a felmelegedéshez.",
+                "ro": "Folosiți cafenelele din apropiere pentru a vă încălzi.",
+                "en": "Take advantage of nearby cafes to warm up."
+              }
+            },
+            {
+              "name": "Cluster 3: Museum Quarter",
+              "tip_5lang": {
+                "de": "Perfekt für die Stunden nach Sonnenuntergang um 16:00.",
+                "hu": "Tökéletes a délután 4 órai naplemente utáni órákra.",
+                "ro": "Perfect pentru orele de după apusul soarelui de la 16:00.",
+                "en": "Perfect for the hours after the 4 PM sunset."
+              }
+            },
+            {
+              "name": "Spon Street",
+              "tip_5lang": {
+                "de": "Die Haltestellen an der Corporation Street sind nur wenige Meter entfernt.",
+                "hu": "A Corporation Street megállói csak pár méterre vannak.",
+                "ro": "Stațiile de pe Corporation Street sunt la doar câțiva metri distanță.",
+                "en": "The stops on Corporation Street are just a few metres away."
+              }
+            },
+            {
+              "name": "Belgrade Theatre",
+              "tip_5lang": {
+                "de": "Nach der Vorstellung fahren viele Busse direkt vom Theater ab.",
+                "hu": "Az előadás után sok busz indul közvetlenül a színháztól.",
+                "ro": "După spectacol, multe autobuze pleacă direct de la teatru.",
+                "en": "Many buses depart from right outside the theatre after the show."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter nach dem regulären Fahrplan.",
+              "Prüfen Sie die 'National Express West Midlands' App für Live-Abfahrten.",
+              "Warten Sie an beleuchteten Haltestellen im Zentrum.",
+              "Nutzen Sie die Zeit im Bus, um Ihre Hände aufzuwärmen.",
+              "Die Pool Meadow Bus Station ist überdacht und windgeschützt."
+            ],
+            "hu": [
+              "A buszok télen is a rendes menetrend szerint közlekednek.",
+              "Ellenőrizze a National Express West Midlands alkalmazást az indulásokért.",
+              "Várjon a jól kivilágított belvárosi megállókban.",
+              "Használja ki a buszon töltött időt a kezei felmelegítésére.",
+              "A Pool Meadow buszpályaudvar fedett és szélvédett."
+            ],
+            "ro": [
+              "Autobuzele circulă după programul normal și iarna.",
+              "Verificați aplicația National Express West Midlands pentru plecări live.",
+              "Așteptați în stațiile bine luminate din centru.",
+              "Folosiți timpul petrecut în autobuz pentru a vă încălzi mâinile.",
+              "Autogara Pool Meadow este acoperită și ferită de vânt."
+            ],
+            "en": [
+              "Buses run according to the regular schedule in winter.",
+              "Check the 'National Express West Midlands' app for live departures.",
+              "Wait at well-lit stops in the city centre.",
+              "Use the time on the bus to warm up your hands.",
+              "Pool Meadow Bus Station is covered and sheltered from the wind."
+            ]
+          }
+        }
       }
     }
   }

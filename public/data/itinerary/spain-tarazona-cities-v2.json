@@ -379,6 +379,206 @@
           "Some sights may close for lunch, so plan accordingly.",
           "The best time for photos in the Judería is late afternoon when the light is soft."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag unter den Arkaden der Plaza de Toros Vieja, die perfekten Schutz vor dem Regen bieten. Mittags erkunden Sie die Judería, wo die dichten Dächer den Niederschlag mildern. Nachmittags widmen Sie sich den prachtvollen Innenräumen der Kathedrale und des Bischofspalasts. Den Abend lassen Sie gemütlich in einem Café am Rathausplatz ausklingen, während der Regen auf die vizes macskaköveken trommelt.",
+            "hu": "Kezdje a napot a Régi Bikaviadal-tér árkádjai alatt, amelyek kiváló menedéket nyújtanak az eső elől. Délben fedezze fel a zsidó negyedet, ahol a házak közelsége természetes ernyőként funkcionál. Délután merüljön el a katedrális és a püspöki palota belső művészeti kincseiben. Az estét töltse egy hangulatos kávézóban a városháza közelében, figyelve a vizes macskaköveken megcsillanó fényeket.",
+            "ro": "Începeți ziua sub arcadele din Plaza de Toros Vieja, care oferă un adăpost excelent împotriva ploii. La prânz, explorați cartierul evreiesc, unde acoperișurile apropiate atenuează precipitațiile. După-amiaza, vizitați interioarele spectaculoase ale Catedralei și ale Palatului Episcopal. Încheiați seara într-o cafenea primitoare lângă primărie, admirând reflexiile ploii pe pavajul istoric.",
+            "en": "Start your day under the arcades of the Old Bullring Square, providing perfect shelter from the rain. At noon, explore the narrow streets of the Jewish Quarter, where the close-knit buildings offer natural cover. Spend the afternoon admiring the interior treasures of the Cathedral and the Episcopal Palace. End your evening in a cozy café near the Town Hall, watching the rain glisten on the ancient cobblestones."
+          },
+          "stops": [
+            {
+              "name": "Old Bullring Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge, um trocken zu bleiben.",
+                "hu": "Használja az árkádokat, hogy száraz maradjon.",
+                "ro": "Folosiți arcadele pentru a rămâne uscat.",
+                "en": "Use the arcaded walkways to stay dry."
+              }
+            },
+            {
+              "name": "Jewish Quarter (Judería)",
+              "tip_5lang": {
+                "de": "Die engen Gassen bieten Schutz vor Wind und Regen.",
+                "hu": "A szűk utcák védelmet nyújtanak a szél és az eső ellen.",
+                "ro": "Străzile înguste oferă protecție contra vântului și ploii.",
+                "en": "The narrow alleys offer protection from wind and rain."
+              }
+            },
+            {
+              "name": "Tarazona Town Hall",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade und treten Sie dann ins Trockene.",
+                "hu": "Csodálja meg a homlokzatot, majd húzódjon fedett helyre.",
+                "ro": "Admirați fațada și apoi intrați la adăpost.",
+                "en": "Admire the facade then head for cover."
+              }
+            },
+            {
+              "name": "Episcopal Palace",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine ausgiebige Innenbesichtigung.",
+                "hu": "Ideális helyszín egy alapos belső látogatáshoz.",
+                "ro": "Un loc ideal pentru o vizită interioară detaliată.",
+                "en": "An ideal location for an extensive indoor visit."
+              }
+            },
+            {
+              "name": "Cathedral of Nuestra Señora de la Huerta",
+              "tip_5lang": {
+                "de": "Perfekter Rückzugsort, um den heftigsten Regen abzuwarten.",
+                "hu": "Tökéletes menedék a hevesebb esőzés idejére.",
+                "ro": "Refugiul perfect pentru a aștepta trecerea ploii.",
+                "en": "Perfect shelter to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "Church of Santa María Magdalena",
+              "tip_5lang": {
+                "de": "Vorsicht auf den steilen, rutschigen Stufen zum Viertel.",
+                "hu": "Vigyázzon a negyedbe vezető csúszós lépcsőkön.",
+                "ro": "Atenție la treptele alunecoase spre cartier.",
+                "en": "Be careful on the slippery steps leading to the district."
+              }
+            },
+            {
+              "name": "Bellas Artes Theatre",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Foyer auf und genießen Sie die Akustik.",
+                "hu": "Melegedjen fel az előcsarnokban és élvezze az akusztikát.",
+                "ro": "Încălziți-vă în foier și bucurați-vă de acustică.",
+                "en": "Warm up in the foyer and enjoy the acoustics."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Schirm ist wegen plötzlicher Windböen wichtig.",
+              "Das Pflaster der Oberstadt wird bei Nässe extrem rutschig.",
+              "Suchen Sie bei starkem Guss Schutz in den Bogengängen am Marktplatz.",
+              "Die Kathedrale bietet genügend Platz für eine lange Regenpause."
+            ],
+            "hu": [
+              "Az erős széllökések miatt érdemes masszív esernyőt vinni.",
+              "A felsőváros macskakövei nedvesen nagyon csúszóssá válnak.",
+              "Heves esőben keressen menedéket a főtér árkádjai alatt.",
+              "A katedrális tágas tere ideális egy hosszabb esőszünetre."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este necesară din cauza rafalelor de vânt.",
+              "Pavajul din orașul de sus devine foarte alunecos când este ud.",
+              "În caz de ploaie torențială, căutați adăpost sub arcadele pieței.",
+              "Catedrala oferă spațiu suficient pentru o pauză lungă de ploaie."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to sudden wind gusts.",
+              "The cobblestones in the upper town become very slippery when wet.",
+              "Seek shelter under the arcades of the main square during heavy rain.",
+              "The cathedral provides ample space for a long break from the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Winterluft auf der Plaza de Toros Vieja bei tiefstehender Sonne. Mittags wärmen Sie sich bei einem kräftigen Eintopf in der Judería auf. Am Nachmittag leuchten die Ziegel der Kathedrale im goldenen Winterlicht besonders warm. Den Abend verbringen Sie bei heißer Schokolade, bevor die frühe Dunkelheit die Stadt in festliches Licht taucht.",
+            "hu": "Élvezze a friss téli reggelt a Régi Bikaviadal-téren az alacsonyan járó napfényben. Délben melegedjen fel egy laktató helyi egytálétellel a zsidó negyedben. Délután a katedrális téglái aranyfényben úsznak a téli napsütésben. Az estét töltse egy forró csokoládé mellett, mielőtt a korai sötétség ünnepi fénybe öltözteti a várost.",
+            "ro": "Bucurați-vă de dimineața răcoroasă de iarnă în Plaza de Toros Vieja. La prânz, încălziți-vă cu o tocană locală consistentă în cartierul evreiesc. După-amiaza, cărămizile catedralei strălucesc într-o lumină aurie specială. Seara, savurați o ciocolată caldă înainte ca întunericul timpuriu să îmbrace orașul în lumini festive.",
+            "en": "Enjoy a crisp winter morning at the Old Bullring Square. At noon, warm up with a hearty local stew in the Jewish Quarter. In the afternoon, the bricks of the cathedral glow with a special golden warmth in the winter light. Spend your evening with a hot chocolate before the early darkness wraps the city in festive lights."
+          },
+          "stops": [
+            {
+              "name": "Old Bullring Square",
+              "tip_5lang": {
+                "de": "Die Morgensonne wärmt die Terrassen auf der Nordseite.",
+                "hu": "A reggeli napsütés kellemesen melegíti az északi teraszokat.",
+                "ro": "Soarele de dimineață încălzește terasele din partea de nord.",
+                "en": "The morning sun warms the terraces on the north side."
+              }
+            },
+            {
+              "name": "Jewish Quarter (Judería)",
+              "tip_5lang": {
+                "de": "Ideal für einen Spaziergang in der windgeschützten Unterstadt.",
+                "hu": "Ideális sétahelyszín a szélvédett alsóvárosban.",
+                "ro": "Ideal pentru o plimbare în orașul de jos, ferit de vânt.",
+                "en": "Ideal for a walk in the lower town, sheltered from the wind."
+              }
+            },
+            {
+              "name": "Tarazona Town Hall",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Reliefs im schrägen Winterlicht.",
+                "hu": "Figyelje meg a domborműveket a súroló téli fényben.",
+                "ro": "Observați reliefurile fine în lumina oblică a iernii.",
+                "en": "Observe the delicate reliefs in the slanted winter light."
+              }
+            },
+            {
+              "name": "Episcopal Palace",
+              "tip_5lang": {
+                "de": "Der Innenhof ist im Winter oft schneefrei und ruhig.",
+                "hu": "A belső udvar télen gyakran hómentes és csendes.",
+                "ro": "Curtea interioară este adesea fără zăpadă și liniștită.",
+                "en": "The interior courtyard is often snow-free and quiet."
+              }
+            },
+            {
+              "name": "Cathedral of Nuestra Señora de la Huerta",
+              "tip_5lang": {
+                "de": "Kleiden Sie sich warm an, die Kirchenschiffe sind kühl.",
+                "hu": "Öltözzön rétegesen, a hatalmas templomhajók hűvösek.",
+                "ro": "Îmbrăcați-vă bine, naosurile mari sunt răcoroase.",
+                "en": "Dress warmly; the vast church naves are quite cool."
+              }
+            },
+            {
+              "name": "Church of Santa María Magdalena",
+              "tip_5lang": {
+                "de": "Bester Blick auf den oft schneebedeckten Moncayo.",
+                "hu": "Innen nyílik a legjobb kilátás a gyakran hófödte Moncayóra.",
+                "ro": "Cea mai bună vedere spre muntele Moncayo înzăpezit.",
+                "en": "Best view of the often snow-capped Moncayo mountain."
+              }
+            },
+            {
+              "name": "Bellas Artes Theatre",
+              "tip_5lang": {
+                "de": "Ein gemütlicher, beheizter Ort für den späten Nachmittag.",
+                "hu": "Hangulatos, fűtött helyszín a késő délutáni órákra.",
+                "ro": "Un loc primitor și încălzit pentru orele de după-amiază.",
+                "en": "A cozy, heated venue for the late afternoon hours."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne verschwindet gegen 17:30 Uhr hinter den Bergen.",
+              "In den engen Gassen kann es kühler sein als auf Plätzen.",
+              "Probieren Sie lokale Winterspezialitäten wie Migas.",
+              "Tragen Sie griffige Schuhe für die steilen Gassen der Oberstadt."
+            ],
+            "hu": [
+              "A nap 17:30 körül tűnik el a hegyek mögött.",
+              "A szűk utcákban jóval hűvösebb lehet, mint a tereken.",
+              "Kóstolja meg a helyi téli specialitásokat (pl. Migas).",
+              "Viseljen jól tapadó cipőt a felsőváros meredek utcáin."
+            ],
+            "ro": [
+              "Soarele dispare după munți în jurul orei 17:30.",
+              "Pe străzile înguste poate fi mult mai frig decât în piețe.",
+              "Gustați specialitățile locale de iarnă, cum ar fi Migas.",
+              "Purtați încălțăminte aderentă pentru străzile abrupte."
+            ],
+            "en": [
+              "The sun disappears behind the mountains around 5:30 PM.",
+              "Narrow streets can be significantly cooler than open squares.",
+              "Try local winter specialties like Migas.",
+              "Wear shoes with good grip for the steep streets of the upper town."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +952,206 @@
           "The alleys of the Judería are very narrow, you may have to dismount here.",
           "Plan a longer lunch break to refuel."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig und meiden Sie bei Regen steile Anstiege. Mittags bietet die Kathedrale einen sicheren Unterstand für Radfahrer. Nachmittags erkunden Sie die flacheren Außenbezirke oder Tórtoles. Den Abend lassen Sie ruhig ausklingen, während Sie Ihr Equipment an einem trockenen Ort verstauen.",
+            "hu": "Kezdje óvatosan, kerülve a meredek emelkedőket esőben. Délben a katedrális biztonságos menedéket nyújt a bringásoknak. Délután fedezze fel a laposabb külső részeket vagy Tórtolest. Az estét töltse pihenéssel, miközben felszerelését száraz helyre teszi.",
+            "ro": "Începeți cu prudență, evitând pantele abrupte pe ploaie. La prânz, catedrala oferă un adăpost sigur pentru bicicliști. După-amiaza, explorați zonele plate sau Tórtoles. Încheiați seara relaxându-vă, după ce ați pus echipamentul la uscat.",
+            "en": "Start cautiously, avoiding the steepest climbs in the rain. At noon, the cathedral offers a safe haven for cyclists. In the afternoon, explore the flatter outer areas or visit Tórtoles. End the evening quietly while stowing your equipment in a dry place."
+          },
+          "stops": [
+            {
+              "name": "Old Bullring Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Befahren des historischen Pflasters.",
+                "hu": "Vigyázzon a történelmi macskaköveken való haladáskor.",
+                "ro": "Atenție la deplasarea pe pavajul istoric.",
+                "en": "Be careful when riding on the historical pavement."
+              }
+            },
+            {
+              "name": "Tarazona Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter den Bögen gegenüber vom Rathaus.",
+                "hu": "Rövid megálló a városházával szemközti boltívek alatt.",
+                "ro": "Oprire scurtă sub arcadele de vizavi de primărie.",
+                "en": "Short stop under the arches across from the Town Hall."
+              }
+            },
+            {
+              "name": "Cathedral of Nuestra Señora de la Huerta",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich oft in der Nähe.",
+                "hu": "Fedett kerékpártárolók gyakran találhatók a közelben.",
+                "ro": "Rasteluri de biciclete acoperite sunt adesea în apropiere.",
+                "en": "Covered bike racks are often located nearby."
+              }
+            },
+            {
+              "name": "Church of Santa María Magdalena",
+              "tip_5lang": {
+                "de": "Der Anstieg hierher ist bei Nässe besonders fordernd.",
+                "hu": "Az ide vezető emelkedő esőben különösen nehéz.",
+                "ro": "Urcarea până aici este solicitantă pe ploaie.",
+                "en": "The climb up here is particularly demanding in the wet."
+              }
+            },
+            {
+              "name": "Jewish Quarter (Judería)",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad in den engsten, rutschigen Gassen.",
+                "hu": "Tolja a kerékpárt a legszűkebb, csúszós utcákban.",
+                "ro": "Împingeți bicicleta pe străzile înguste și alunecoase.",
+                "en": "Push your bike in the narrowest, slippery alleys."
+              }
+            },
+            {
+              "name": "Mosque of Tórtoles",
+              "tip_5lang": {
+                "de": "Die Fahrt aus der Stadt bietet wenig Regenschutz.",
+                "hu": "A városon kívüli szakasz kevés esővédelmet nyújt.",
+                "ro": "Drumul în afara orașului oferă puțin adăpost.",
+                "en": "The ride outside the city offers little rain protection."
+              }
+            },
+            {
+              "name": "Bellas Artes Theatre",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorplatz für einen trockenen Check.",
+                "hu": "Használja az előteret egy utolsó ellenőrzésre szárazon.",
+                "ro": "Folosiți spațiul din față pentru o verificare la uscat.",
+                "en": "Use the front area for a final dry check of your gear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Scheibenbremsen sind bei Nässe in der Hügelstadt wichtig.",
+              "Meiden Sie lackierte Markierungen, sie sind extrem glatt.",
+              "Wasserdichte Taschen schützen Ihre Wertsachen.",
+              "Schutzbleche verhindern Schlammspritzer auf der Kleidung."
+            ],
+            "hu": [
+              "A dombos városban a tárcsafék elengedhetetlen esőben.",
+              "Kerülje a festett jelzéseket, mert rendkívül csúszósak.",
+              "Vízálló táskák védik az értékeit és a fényképezőgépét.",
+              "A sárvédő megvédi a ruháját a felcsapódó sártól."
+            ],
+            "ro": [
+              "Frânele pe disc sunt esențiale pe ploaie în acest oraș.",
+              "Evitați marcajele rutiere vopsite, sunt extrem de alunecoase.",
+              "Gentile impermeabile vă protejează obiectele de valoare.",
+              "Apărătorile previn stropirea hainelor cu noroi."
+            ],
+            "en": [
+              "Disc brakes are essential in this hilly town during rain.",
+              "Avoid painted road markings as they are extremely slippery.",
+              "Waterproof panniers will protect your valuables.",
+              "Mudguards prevent mud splashes on your clothes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Wintertour, wenn der Frost gewichen ist. Mittags lädt die Kathedrale zu einer Pause im Windschatten ein. Nachmittags genießen Sie die Sicht vom Magdalena-Viertel auf die Pyrenäenausläufer. Beenden Sie die Fahrt vor Einbruch der Dämmerung, wenn die Temperaturen schnell sinken.",
+            "hu": "Kezdje a téli túrát, amikor a fagy már felszállt az utakról. Délben a katedrális szélvédett környezete hívogat pihenőre. Délután élvezze a kilátást a Magdalena-negyedből a Pireneusok felé. Fejezze be a bringázást sötétedés előtt, mert a levegő gyorsan hűl.",
+            "ro": "Începeți tura de iarnă după ce înghețul a dispărut. La prânz, zona protejată a catedralei este ideală pentru un popas. După-amiaza, bucurați-vă de panorama din cartierul Magdalena. Încheiați traseul înainte de apus, când temperaturile scad rapid.",
+            "en": "Start your winter tour once the frost has cleared. At noon, the sheltered area near the cathedral invites a peaceful break. In the afternoon, enjoy the views from the Magdalena district towards the Pyrenees. Finish your ride before dusk as temperatures drop quickly."
+          },
+          "stops": [
+            {
+              "name": "Old Bullring Square",
+              "tip_5lang": {
+                "de": "In den schattigen Ecken kann es morgens noch glatt sein.",
+                "hu": "Az árnyékos sarkokban reggel még csúszós lehet az út.",
+                "ro": "În colțurile umbrite poate fi încă ghețuș dimineața.",
+                "en": "Shady corners may still be slippery in the morning."
+              }
+            },
+            {
+              "name": "Tarazona Town Hall",
+              "tip_5lang": {
+                "de": "Sonniger Platz, ideal um die Hände aufzuwärmen.",
+                "hu": "Napsütötte tér, ideális a hideg kezek felmelegítésére.",
+                "ro": "Piață însorită, ideală pentru a vă încălzi mâinile.",
+                "en": "Sunny square, ideal for warming up cold hands."
+              }
+            },
+            {
+              "name": "Cathedral of Nuestra Señora de la Huerta",
+              "tip_5lang": {
+                "de": "Windgeschützter Bereich, gut für eine kurze Rast.",
+                "hu": "Szélvédett terület, alkalmas egy rövid pihenőre.",
+                "ro": "Zonă ferită de vânt, bună pentru un scurt popas.",
+                "en": "Wind-sheltered area, good for a short rest."
+              }
+            },
+            {
+              "name": "Church of Santa María Magdalena",
+              "tip_5lang": {
+                "de": "Der Anstieg hält den Körper auf Betriebstemperatur.",
+                "hu": "Az emelkedő segít üzemi hőmérsékleten tartani a testet.",
+                "ro": "Urcarea ajută la menținerea temperaturii corpului.",
+                "en": "The climb helps keep your body at operating temperature."
+              }
+            },
+            {
+              "name": "Jewish Quarter (Judería)",
+              "tip_5lang": {
+                "de": "Die Mauern speichern ein wenig Restwärme der Sonne.",
+                "hu": "A falak tárolnak valamennyit a nap melegéből.",
+                "ro": "Zidurile rețin puțină căldură de la soare.",
+                "en": "The walls retain a bit of residual warmth from the sun."
+              }
+            },
+            {
+              "name": "Mosque of Tórtoles",
+              "tip_5lang": {
+                "de": "Achten Sie auf kalten Fahrtwind auf der Landstraße.",
+                "hu": "Figyeljen a hideg menetszélre az országúton.",
+                "ro": "Atenție la vântul rece de pe drumul deschis.",
+                "en": "Watch out for cold wind chill on the open road."
+              }
+            },
+            {
+              "name": "Bellas Artes Theatre",
+              "tip_5lang": {
+                "de": "Zielpunkt für ein warmes Getränk nach der Tour.",
+                "hu": "Végállomás egy meleg italra a túra után.",
+                "ro": "Punct final pentru o băutură caldă după tură.",
+                "en": "Final destination for a warm drink after the tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Handschuhe sind für die Abfahrten wichtig.",
+              "Trinken Sie ausreichend, auch wenn Sie bei Kälte weniger Durst haben.",
+              "Prüfen Sie den Reifendruck bei niedrigen Temperaturen.",
+              "Ein heller Scheinwerfer ist wegen der frühen Dämmerung ratsam."
+            ],
+            "hu": [
+              "A tarazonai lejtőkön fontos a hőszigetelt kesztyű.",
+              "Igyon eleget, még ha hidegben kevésbé is szomjas.",
+              "Ellenőrizze a guminyomást a hideg miatt.",
+              "A korai sötétedés miatt használjon erős fényszórót."
+            ],
+            "ro": [
+              "Mănușile termice sunt esențiale pentru coborâri.",
+              "Beți suficiente lichide, chiar și la temperaturi joase.",
+              "Verificați presiunea în pneuri la temperaturi scăzute.",
+              "Un far puternic este recomandat din cauza amurgului timpuriu."
+            ],
+            "en": [
+              "Thermal gloves are essential for the descents in Tarazona.",
+              "Drink enough fluids, even if you feel less thirsty in the cold.",
+              "Check tire pressure as it drops in low temperatures.",
+              "A bright headlight is advisable due to the early dusk."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1108,6 +1508,188 @@
           "Use the car to also visit the nearby Moncayo Nature Reserve.",
           "Download an offline map, as mobile reception can be poor in rural areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Parkplatz am Stadtrand für Ihre Erkundung. Mittags verbinden Sie Kathedrale und Bischofspalast, um im Trockenen zu bleiben. Nachmittags fahren Sie zur etwas außerhalb gelegenen Moschee von Tórtoles. Den Abend genießen Sie in der Altstadt, bevor Sie trocken zum Fahrzeug zurückkehren.",
+            "hu": "Használja a város széli parkolót a felfedezéshez. Délben kösse össze a katedrális és a palota látogatását, hogy fedett helyen maradjon. Délután autózzon ki a tórtolesi mecsethez. Az estét töltse az óvárosban, mielőtt szárazon visszatérne az autóhoz.",
+            "ro": "Folosiți parcarea de la marginea orașului. La prânz, vizitați Catedrala și Palatul Episcopal pentru a rămâne la adăpost. După-amiaza, conduceți până la moscheea din Tórtoles. Bucurați-vă de seară în orașul vechi, apoi reveniți la mașină.",
+            "en": "Use the parking at the edge of town for your exploration. At noon, combine visits to the Cathedral and Palace to stay dry. In the afternoon, drive to the Mosque of Tórtoles. Enjoy the evening in the old town before returning dry to your vehicle."
+          },
+          "stops": [
+            {
+              "name": "Parking at the edge of the old town",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz nahe dem Fußweg ins Zentrum.",
+                "hu": "Keressen helyet a központba vezető gyalogút közelében.",
+                "ro": "Căutați un loc aproape de calea spre centru.",
+                "en": "Find a spot near the path to the center."
+              }
+            },
+            {
+              "name": "Old Bullring Square & Town Hall",
+              "tip_5lang": {
+                "de": "Parken Sie kurz für Fotos, dann weiter zum Parkhaus.",
+                "hu": "Parkoljon le rövid időre fotózni, majd menjen tovább.",
+                "ro": "Parcați scurt pentru poze, apoi mergeți mai departe.",
+                "en": "Park briefly for photos, then continue to parking."
+              }
+            },
+            {
+              "name": "Jewish Quarter (Judería)",
+              "tip_5lang": {
+                "de": "Das Befahren der engsten Gassen ist bei Regen schwierig.",
+                "hu": "A legszűkebb utcákban való vezetés esőben nehézkes.",
+                "ro": "Condusul pe străzile înguste este dificil pe ploaie.",
+                "en": "Driving through the narrowest streets is difficult in the rain."
+              }
+            },
+            {
+              "name": "Cathedral and Episcopal Palace",
+              "tip_5lang": {
+                "de": "Große Parkplätze direkt vor dem Eingang der Kathedrale.",
+                "hu": "Tágas parkolók találhatók közvetlenül a katedrális előtt.",
+                "ro": "Parcări mari disponibile direct în fața catedralei.",
+                "en": "Large parking areas available directly in front of the cathedral."
+              }
+            },
+            {
+              "name": "Mosque of Tórtoles",
+              "tip_5lang": {
+                "de": "Die Zufahrt über Landstraßen ist bei Regen gut ausgebaut.",
+                "hu": "Az országúti megközelítés esőben is biztonságos.",
+                "ro": "Accesul pe drumuri este bun chiar și pe ploaie.",
+                "en": "Access via country roads is well-maintained even in rain."
+              }
+            },
+            {
+              "name": "Church of Santa María Magdalena & Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Parkplatzsuche in den steilen Gassen.",
+                "hu": "Vigyázzon a parkolóhely-kereséssel a meredek utcákban.",
+                "ro": "Atenție la căutarea unui loc de parcare pe străzile abrupte.",
+                "en": "Be careful when looking for parking in the steep alleys."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Ein Regenschirm im Auto ist für Parkplatzwege unerlässlich.",
+              "Manche Gassen sind für größere Autos extrem eng.",
+              "Nutzen Sie das Parkhaus am Rathaus für maximalen Komfort."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Egy esernyő az autóban fontos a parkolótól tartó útra.",
+              "Néhány óvárosi utca nagyon szűk a nagyobb autók számára.",
+              "A kényelem érdekében használja a városházi parkolóházat."
+            ],
+            "ro": [
+              "Verificați ștergătoarele de parbriz înainte de a porni.",
+              "O umbrelă în mașină este utilă pentru drumul de la parcare.",
+              "Unele străzi sunt foarte înguste pentru mașini mari.",
+              "Folosiți parcarea de la primărie pentru confort maxim."
+            ],
+            "en": [
+              "Check your windshield wipers before starting your trip.",
+              "Keep an umbrella in the car for the walk from the parking lot.",
+              "Some streets are very narrow for larger vehicles.",
+              "Use the parking garage at the Town Hall for convenience."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Autotour entspannt am kühlen Vormittag. Mittags genießen Sie die Wärme im Fahrzeug zwischen Kathedrale und Palast. Nachmittags bietet die Fahrt nach Tórtoles Ausblicke auf die winterliche Landschaft des Moncayo. Den Abend lassen Sie in Tarazona ausklingen, bevor Sie die Heizung hochdrehen.",
+            "hu": "Kezdje az autós túrát kényelmesen a hűvös délelőttön. Délben élvezze járműve melegét a katedrális és a palota látogatása között. Délután a Tórtoles felé vezető út pazar kilátást nyújt a Moncayo téli tájaira. Az estét töltse Tarazonában a visszautat előtt.",
+            "ro": "Începeți turul cu mașina în dimineața răcoroasă. La prânz, bucurați-vă de căldura din mașină între obiective. După-amiaza, drumul spre Tórtoles oferă vederi asupra peisajului hibernal de pe Moncayo. Încheiați seara în Tarazona înainte de plecare.",
+            "en": "Start your car tour relaxed on a cool morning. At noon, enjoy the warmth of your vehicle between visits to the sights. In the afternoon, the drive to Tórtoles offers views of the wintry Moncayo landscape. Spend your evening in Tarazona before heading back."
+          },
+          "stops": [
+            {
+              "name": "Parking at the edge of the old town",
+              "tip_5lang": {
+                "de": "Morgens kann die Windschutzscheibe leicht vereisen.",
+                "hu": "Reggelente itt könnyen lefagyhat a szélvédő.",
+                "ro": "Dimineața, parbrizul poate fi înghețat aici.",
+                "en": "The windshield may be frosted here in the morning."
+              }
+            },
+            {
+              "name": "Old Bullring Square & Town Hall",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Auto und den Sehenswürdigkeiten.",
+                "hu": "Rövid távolságok az autó és a látnivalók között.",
+                "ro": "Distanțe scurte între mașină și obiective.",
+                "en": "Short distances between the car and the sights."
+              }
+            },
+            {
+              "name": "Jewish Quarter (Judería)",
+              "tip_5lang": {
+                "de": "Parken Sie am Rand und erkunden Sie den Rest zu Fuß.",
+                "hu": "Parkoljon a szélén, és a többit fedezze fel gyalog.",
+                "ro": "Parcați la margine și explorați restul pe jos.",
+                "en": "Park at the edge and explore the rest on foot."
+              }
+            },
+            {
+              "name": "Cathedral and Episcopal Palace",
+              "tip_5lang": {
+                "de": "Sonnige Parkplätze wärmen den Innenraum etwas auf.",
+                "hu": "A napsütötte parkolóhelyek kissé felmelegítik az utasteret.",
+                "ro": "Locurile de parcare însorite încălzesc puțin interiorul.",
+                "en": "Sunny parking spots will warm up the interior slightly."
+              }
+            },
+            {
+              "name": "Mosque of Tórtoles",
+              "tip_5lang": {
+                "de": "Die Heizung ist auf der kurzen Überlandfahrt angenehm.",
+                "hu": "A fűtés kellemes a rövid országúti szakasz alatt.",
+                "ro": "Încălzirea este plăcută pe durata drumului scurt.",
+                "en": "The heating is pleasant during the short drive."
+              }
+            },
+            {
+              "name": "Church of Santa María Magdalena & Viewpoint",
+              "tip_5lang": {
+                "de": "In schattigen Gassen kann Glättegefahr bestehen.",
+                "hu": "Az árnyékos utcákban fennállhat a csúszásveszély.",
+                "ro": "În străzile umbrite poate exista pericol de polei.",
+                "en": "There may be a risk of ice in shady streets."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutzmittel für die Waschanlage ist ratsam.",
+              "Ein Batteriecheck vor der Fahrt wird empfohlen.",
+              "In der Altstadt sind die Straßen oft schattig und kalt.",
+              "Planen Sie die Rückreise vor dem späten Frost ein."
+            ],
+            "hu": [
+              "Tanácsos fagyállót tölteni a szélvédőmosóba.",
+              "Indulás előtt érdemes ellenőrizni az akkumulátort.",
+              "Az óvárosi utcák gyakran árnyékosak és hidegek.",
+              "Tervezze meg a visszautat a késő esti fagy előtt."
+            ],
+            "ro": [
+              "Este recomandat să aveți lichid de parbriz antigel.",
+              "Se recomandă verificarea bateriei înainte de drum.",
+              "Străzile din orașul vechi sunt adesea umbrite și reci.",
+              "Planificați drumul de întoarcere înainte de îngheț."
+            ],
+            "en": [
+              "Anti-freeze for the washer fluid is advisable.",
+              "A battery check before driving is recommended.",
+              "Old town streets are often shady and cold.",
+              "Plan your return trip before the late evening frost."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1464,6 +2046,188 @@
           "Be prepared to walk some sections, as buses don't go everywhere.",
           "Signal the driver when you want to get off at a stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie an der Bushaltestelle und nutzen Sie die kurzen Wege zu den Arkaden. Mittags bietet die Kathedrale einen trockenen Hafen. Nachmittags erkunden Sie die Sehenswürdigkeiten nahe der Haltestellen. Den Abend verbringen Sie in einem gemütlichen Lokal, bis der Bus Sie zurückbringt.",
+            "hu": "Kezdje a buszmegállóban, kihasználva a közeli árkádok védelmét. Délben a katedrális nyújt száraz menedéket. Délután fedezze fel a megállók közelében lévő látnivalókat. Az estét töltse egy hangulatos helyen, amíg a busz vissza nem viszi.",
+            "ro": "Începeți la stația de autobuz, folosind arcadele din apropiere. La prânz, catedrala oferă un refugiu uscat. După-amiaza, explorați obiectivele de lângă stații. Petreceți seara într-un local primitor până la plecarea autobuzului.",
+            "en": "Start at the bus stop, utilizing the nearby arcades for cover. At noon, the cathedral provides a dry haven. In the afternoon, explore sights near the stops. Spend your evening in a cozy spot until the bus takes you back."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop (Plaza San Francisco)",
+              "tip_5lang": {
+                "de": "Überdachte Wartebereiche schützen vor dem Regen.",
+                "hu": "Fedett várakozóhelyek védenek az esőtől.",
+                "ro": "Zonele de așteptare acoperite protejează de ploaie.",
+                "en": "Covered waiting areas protect you from the rain."
+              }
+            },
+            {
+              "name": "Town Hall & Episcopal Palace",
+              "tip_5lang": {
+                "de": "Nahegelegene Bushaltestelle verkürzt den Fußweg im Regen.",
+                "hu": "Közeli buszmegálló lerövidíti az esőben való gyaloglást.",
+                "ro": "Stația de autobuz scurtează mersul pe ploaie.",
+                "en": "Nearby bus stop shortens the walk in the rain."
+              }
+            },
+            {
+              "name": "Cathedral of Nuestra Señora de la Huerta",
+              "tip_5lang": {
+                "de": "Die Kathedrale ist von den Hauptlinien gut erreichbar.",
+                "hu": "A katedrális a főbb vonalakról könnyen megközelíthető.",
+                "ro": "Catedrala este ușor accesibilă de la liniile principale.",
+                "en": "The cathedral is easily accessible from the main lines."
+              }
+            },
+            {
+              "name": "Old Bullring Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Sprint von der Haltestelle ins Trockene.",
+                "hu": "Fusson be gyorsan a megállóból a fedett részekre.",
+                "ro": "Mergeți repede de la stație spre zonele acoperite.",
+                "en": "Make a quick dash from the stop to the covered areas."
+              }
+            },
+            {
+              "name": "Bus Stop 'Magdalena'",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Vordach des nahen Gebäudes.",
+                "hu": "Várjon a közeli épület előtetője alatt.",
+                "ro": "Așteptați sub streașina clădirii din apropiere.",
+                "en": "Wait under the overhang of the nearby building."
+              }
+            },
+            {
+              "name": "Church of Santa María Magdalena & Judería",
+              "tip_5lang": {
+                "de": "Der Weg zur Haltestelle kann bei Regen rutschig sein.",
+                "hu": "A megállóhoz vezető út esőben csúszós lehet.",
+                "ro": "Drumul spre stație poate fi alunecos pe ploaie.",
+                "en": "The path to the stop can be slippery in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die ÖPNV-App für Echtzeit-Updates.",
+              "Ein Taschenschirm passt in jede Tasche für kurze Wege.",
+              "Busse können bei starkem Regen leichte Verspätung haben.",
+              "Die Wartehäuschen bieten begrenzten Schutz vor Wind."
+            ],
+            "hu": [
+              "Töltse le a közlekedési appot a valós idejű infókért.",
+              "Egy kis összecsukható ernyő jól jön a rövid távokra.",
+              "Heves esőben a buszok kisebb késéssel közlekedhetnek.",
+              "A buszvárók korlátozott védelmet nyújtanak a szél ellen."
+            ],
+            "ro": [
+              "Descărcați aplicația de transport pentru actualizări live.",
+              "O umbrelă mică este utilă pentru distanțe scurte.",
+              "Autobuzele pot avea întârzieri pe ploaie torențială.",
+              "Stațiile oferă protecție limitată contra vântului."
+            ],
+            "en": [
+              "Download the transit app for real-time updates.",
+              "A small folding umbrella is handy for short distances.",
+              "Buses may experience slight delays during heavy rain.",
+              "Bus shelters offer limited protection from the wind."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag entspannt mit dem Bus zum Zentrum. Mittags wärmen Sie sich in der Kathedrale auf, bevor Sie den nächsten Bus nehmen. Nachmittags genießen Sie die kurzen Wege zwischen Haltestellen und Sehenswürdigkeiten. Den Abend verbringen Sie in einer beheizten Bar, bis der Bus Sie sicher zurückbringt.",
+            "hu": "Kezdje a napot kényelmesen a városközpontba tartó busszal. Délben melegedjen fel a katedrális belső tereiben a következő járatig. Délután használja ki a megállók és a látnivalók közötti rövid távokat. Az estét töltse egy fűtött bárban a busz érkezéséig.",
+            "ro": "Începeți ziua relaxat cu autobuzul spre centru. La prânz, încălziți-vă în catedrală până la următorul autobuz. După-amiaza, profitați de distanțele scurte între stații și obiective. Petreceți seara într-un bar încălzit până la plecare.",
+            "en": "Start your day relaxed with a bus ride to the center. At noon, warm up in the cathedral before catching your next bus. In the afternoon, take advantage of the short distances between stops and sights. Spend your evening in a heated bar until the bus returns."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop (Plaza San Francisco)",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt, ideal für den Start im Winter.",
+                "hu": "Központi csomópont, ideális kiindulópont télen.",
+                "ro": "Nod central, ideal pentru a începe turul iarna.",
+                "en": "Central hub, ideal for starting your tour in winter."
+              }
+            },
+            {
+              "name": "Town Hall & Episcopal Palace",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg minimiert die Kältebelastung.",
+                "hu": "A rövid gyalogút minimalizálja a hidegben töltött időt.",
+                "ro": "Mersul pe jos scurt minimizează expunerea la frig.",
+                "en": "The short walk minimizes exposure to the cold."
+              }
+            },
+            {
+              "name": "Cathedral of Nuestra Señora de la Huerta",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus für die kühle Strecke zur Kathedrale.",
+                "hu": "Használja a buszt a katedrálishoz vezető hűvös úton.",
+                "ro": "Folosiți autobuzul pentru drumul rece spre catedrală.",
+                "en": "Use the bus for the chilly stretch to the cathedral."
+              }
+            },
+            {
+              "name": "Old Bullring Square",
+              "tip_5lang": {
+                "de": "Der Platz liegt im Winter oft im angenehmen Halbschatten.",
+                "hu": "A tér télen gyakran kellemes félárnyékban fekszik.",
+                "ro": "Piața este adesea într-o semiumbră plăcută iarna.",
+                "en": "The square is often in pleasant partial shade in winter."
+              }
+            },
+            {
+              "name": "Bus Stop 'Magdalena'",
+              "tip_5lang": {
+                "de": "Haltestelle direkt am Fuße der Oberstadt.",
+                "hu": "Megálló közvetlenül a felsőváros lábánál.",
+                "ro": "Stație situată chiar la poalele orașului de sus.",
+                "en": "Bus stop located right at the foot of the upper town."
+              }
+            },
+            {
+              "name": "Church of Santa María Magdalena & Judería",
+              "tip_5lang": {
+                "de": "Bussen fahren im Winter zuverlässig nach Fahrplan.",
+                "hu": "A buszok télen is megbízhatóan járnak.",
+                "ro": "Autobuzele circulă fiabil conform orarului.",
+                "en": "Buses run reliably according to the schedule."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In den Bussen ist es meist angenehm beheizt.",
+              "Prüfen Sie den Winterfahrplan für eventuelle Änderungen.",
+              "Die Wartezeiten an den Haltestellen sind meist kurz.",
+              "Tragen Sie warme Schuhe für die Wartezeit."
+            ],
+            "hu": [
+              "A buszokon általában kellemes fűtés várja.",
+              "Ellenőrizze a téli menetrendet az esetleges változások miatt.",
+              "A várakozási idő a megállókban általában rövid.",
+              "Viseljen meleg cipőt a várakozáshoz."
+            ],
+            "ro": [
+              "Autobuzele sunt de obicei încălzite plăcut.",
+              "Verificați orarul de iarnă pentru modificări.",
+              "Timpii de așteptare în stații sunt de obicei scurți.",
+              "Purtați încălțăminte călduroasă pentru așteptare."
+            ],
+            "en": [
+              "Buses are usually pleasantly heated.",
+              "Check the winter schedule for any potential changes.",
+              "Waiting times at the stops are generally short.",
+              "Wear warm shoes as waiting for the bus can be cold."
+            ]
+          }
+        }
       }
     }
   }

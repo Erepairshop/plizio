@@ -296,6 +296,188 @@
           "Wear comfortable shoes as the cobblestones in the old center can be uneven.",
           "Check opening times, as some smaller attractions may have limited hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mystisch an der Dorpskerk, während der Regen leise auf die Dächer prasselt. Das Van Cappellen House bietet einen idealen trockenen Zufluchtsort mit historischem Charme. Mittags wärmt eine Suppe in der Koperen Molen Leib und Seele. Den Nachmittag verbringen wir im modernen Isala Theater, bevor ein kurzer, erfrischender Spaziergang durch den nassen Schlosspark den Tag abschließt.",
+            "hu": "A nap misztikusan indul a falusi templomnál, miközben az eső halkan kopog a tetőkön. A Van Cappellen-ház tökéletes fedett menedéket nyújt történelmi bájával. Ebédre egy forró leves a Koperen Molenben felmelegíti a testet és lelket. A délutánt a modern Isala Színházban töltjük, majd egy rövid, frissítő séta a vizes Kastélyparkban zárja a napot.",
+            "ro": "Ziua începe mistic la Biserica Satului, în timp ce ploaia bate ușor în acoperișuri. Casa Van Cappellen oferă un refugiu uscat ideal, plin de farmec istoric. La prânz, o supă caldă la Koperen Molen reîncălzește trupul și sufletul. După-amiaza o petrecem în modernul Teatru Isala, înainte ca o scurtă plimbare revigorantă prin Parcul Castelului umed să încheie ziua.",
+            "en": "The day begins mystically at the Village Church as rain taps softly on the roofs. Van Cappellen House provides an ideal dry sanctuary with its historical charm. For lunch, a warm soup at De Koperen Molen warms the body and soul. We spend the afternoon in the modern Isala Theater, before a short, refreshing walk through the wet Castle Park concludes the day."
+          },
+          "stops": [
+            {
+              "name": "Village Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur vom überdachten Eingang aus.",
+                "hu": "Csodálja meg az építészetet a fedett bejárat alól.",
+                "ro": "Admirați arhitectura de sub intrarea acoperită.",
+                "en": "Admire the architecture from under the covered entrance."
+              }
+            },
+            {
+              "name": "Van Cappellen House",
+              "tip_5lang": {
+                "de": "Perfekt für eine ausgiebige Innenbesichtigung bei Regen.",
+                "hu": "Tökéletes egy alapos belső látogatáshoz esőben.",
+                "ro": "Perfect pentru o vizită interioară detaliată pe timp de ploaie.",
+                "en": "Perfect for an extensive indoor visit during rain."
+              }
+            },
+            {
+              "name": "Thief and Dove House",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fotostopp unter dem Regenschirm.",
+                "hu": "Csak egy rövid fotómegálló az esernyő alatt.",
+                "ro": "Doar o scurtă oprire foto sub umbrelă.",
+                "en": "Just a short photo stop under the umbrella."
+              }
+            },
+            {
+              "name": "Lunch at De Koperen Molen",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die nassen Kanäle vom Fensterplatz.",
+                "hu": "Élvezze a kilátást a vizes csatornákra az ablak mellől.",
+                "ro": "Bucurați-vă de vederea canalelor umede de la fereastră.",
+                "en": "Enjoy the view of the wet canals from a window seat."
+              }
+            },
+            {
+              "name": "Isala Theater",
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um trocken Kultur zu genießen.",
+                "hu": "Nagyszerű hely a kultúra szárazon való élvezéséhez.",
+                "ro": "Un loc minunat pentru a te bucura de cultură la adăpost.",
+                "en": "A great place to enjoy culture while staying dry."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon a burkolt utakon a sár elkerülése érdekében.",
+                "ro": "Rămâneți pe potecile pavate pentru a evita noroiul.",
+                "en": "Stay on the paved paths to avoid mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen des Windes an der IJssel unerlässlich.",
+              "Tragen Sie wasserfeste Schuhe für die Wege im Schlosspark.",
+              "Nutzen Sie die Gastronomie im Isala Theater für längere Pausen.",
+              "Das Van Cappellen House bietet viele trockene Ausstellungsbereiche."
+            ],
+            "hu": [
+              "Az IJssel menti szél miatt egy erős esernyő elengedhetetlen.",
+              "Viseljen vízálló cipőt a kastélyparki utakhoz.",
+              "Használja ki az Isala Színház kávézóját a hosszabb pihenőkhöz.",
+              "A Van Cappellen-ház számos fedett kiállítóteret kínál."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza vântului de pe IJssel.",
+              "Purtați încălțăminte impermeabilă pentru aleile din parcul castelului.",
+              "Profitați de cafeneaua Teatrului Isala pentru pauze mai lungi.",
+              "Casa Van Cappellen oferă multe spații expoziționale uscate."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to the wind along the IJssel.",
+              "Wear waterproof shoes for the paths in the castle park.",
+              "Use the Isala Theater café for longer breaks.",
+              "Van Cappellen House offers many dry exhibition areas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft begrüßt uns an der alten Dorfkirche. Ein wärmender Besuch im geschichtsträchtigen Van Cappellen House lässt uns die Kälte vergessen. Nach einem deftigen Mittagessen in der Kupfermühle bewundern wir das Dief- en Duifhuis im fahlen Winterlicht. Das Isala Theater bietet am Nachmittag wohlige Wärme, bevor wir den Sonnenuntergang über dem gefrorenen Teich im Schlosspark erleben.",
+            "hu": "A tiszta téli levegő üdvözöl minket a régi falusi templomnál. A történelmi Van Cappellen-ház melegében elfelejtjük a hideget. Egy kiadós ebéd után a Rézmalomban, a Dief- en Duifhuist csodáljuk a sápadt téli fényben. Az Isala Színház délutáni kényelmet nyújt, mielőtt megnéznénk a naplementét a Kastélypark befagyott tava felett.",
+            "ro": "Aerul curat de iarnă ne întâmpină la vechea biserică a satului. O vizită călduroasă în istorica Casă Van Cappellen ne face să uităm de frig. După un prânz consistent la Moara de Cupru, admirăm Dief- en Duifhuis în lumina palidă a iernii. Teatrul Isala oferă confort după-amiaza, înainte de a vedea apusul peste lacul înghețat din Parcul Castelului.",
+            "en": "The crisp winter air greets us at the old village church. A warming visit to the historic Van Cappellen House makes us forget the cold. After a hearty lunch at the Copper Mill, we admire the Thief and Dove House in the pale winter light. The Isala Theater offers cozy warmth in the afternoon before we witness the sunset over the frozen pond in Castle Park."
+          },
+          "stops": [
+            {
+              "name": "Village Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stufen am Kircheneingang.",
+                "hu": "Ügyeljen a jeges lépcsőkre a templom bejáratánál.",
+                "ro": "Atenție la treptele înghețate de la intrarea în biserică.",
+                "en": "Watch out for icy steps at the church entrance."
+              }
+            },
+            {
+              "name": "Van Cappellen House",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre in den beheizten Räumen.",
+                "hu": "Élvezze a barátságos hangulatot a fűtött szobákban.",
+                "ro": "Bucurați-vă de atmosfera primitoare din camerele încălzite.",
+                "en": "Enjoy the cozy atmosphere in the heated rooms."
+              }
+            },
+            {
+              "name": "Thief and Dove House",
+              "tip_5lang": {
+                "de": "Der Turm wirkt im Winter besonders markant.",
+                "hu": "A torony télen különösen jellegzetesnek tűnik.",
+                "ro": "Turnul arată deosebit de izbitor iarna.",
+                "en": "The tower looks particularly striking in winter."
+              }
+            },
+            {
+              "name": "Lunch at De Koperen Molen",
+              "tip_5lang": {
+                "de": "Probieren Sie typisch holländische Wintergerichte.",
+                "hu": "Kóstolja meg a tipikus holland téli ételeket.",
+                "ro": "Încercați mâncăruri tradiționale olandeze de iarnă.",
+                "en": "Try typical Dutch winter dishes."
+              }
+            },
+            {
+              "name": "Isala Theater",
+              "tip_5lang": {
+                "de": "Perfekt für eine Pause im Warmen vor dem Abendspaziergang.",
+                "hu": "Tökéletes egy meleg pihenőhöz az esti séta előtt.",
+                "ro": "Perfect pentru o pauză la căldură înainte de plimbarea de seară.",
+                "en": "Perfect for a break in the warm before the evening walk."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist hier gegen 16:30 Uhr am schönsten.",
+                "hu": "A naplemente itt 16:30 körül a legszebb.",
+                "ro": "Apusul este cel mai frumos aici în jur de ora 16:30.",
+                "en": "The sunset is most beautiful here around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung in Schichten ist für den Wind an der IJssel wichtig.",
+              "Die Sonne geht im Winter bereits gegen 17:00 Uhr unter.",
+              "Viele Cafés bieten im Winter heiße Schokolade mit Schlagsahne an.",
+              "Vorsicht vor glatten Stellen auf den Brücken über die Kanäle."
+            ],
+            "hu": [
+              "A réteges, meleg öltözet fontos az IJssel menti szél miatt.",
+              "A nap télen már 17:00 körül lemegy.",
+              "Sok kávézó kínál forró csokoládét tejszínhabbal télen.",
+              "Vigyázzon a csúszós szakaszokra a csatornák feletti hidakon."
+            ],
+            "ro": [
+              "Îmbrăcămintea groasă în straturi este importantă pentru vântul de pe IJssel.",
+              "Soarele apune deja în jur de ora 17:00 iarna.",
+              "Multe cafenele oferă ciocolată caldă cu frișcă iarna.",
+              "Atenție la porțiunile alunecoase de pe podurile peste canale."
+            ],
+            "en": [
+              "Warm layered clothing is important for the wind along the IJssel.",
+              "The sun sets as early as 5:00 PM in winter.",
+              "Many cafés offer hot chocolate with whipped cream in winter.",
+              "Beware of slippery spots on the bridges over the canals."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -609,6 +791,206 @@
           "Use the well-developed cycle paths, but be aware of other cyclists.",
           "A wind jacket is recommended even on sunny days, especially in open areas like Hitland."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Algerabrug eine dramatische Aussicht auf den Fluss. Wir radeln zur Dorpskerk für einen kurzen Halt im Trockenen. Das Van Cappellen House ist der perfekte Ort für eine längere Mittagspause, während die Schauer vorbeiziehen. Nach einem Stopp an der Koperen Molen führt uns der Weg zum Isala Theater und schließlich durch den Castle Park bis zum Naturschutzgebiet Hitland.",
+            "hu": "Az eső ellenére az Algerabrug drámai kilátást nyújt a folyóra. Eltekerünk a falusi templomhoz egy rövid száraz pihenőre. A Van Cappellen-ház tökéletes hely egy hosszabb ebédszünethez, amíg elvonulnak a záporok. A Rézmalomnál tett megálló után az Isala Színházhoz, majd a Kastélyparkon át a Hitland természetvédelmi területre tekerünk.",
+            "ro": "În ciuda ploii, Algerabrug oferă o vedere dramatică asupra râului. Pedalăm până la Biserica Satului pentru o scurtă pauză la adăpost. Casa Van Cappellen este locul perfect pentru o pauză de prânz mai lungă în timp ce trec aversele. După o oprire la Moara de Cupru, drumul ne duce la Teatrul Isala și, în final, prin Parcul Castelului până la rezervația Hitland.",
+            "en": "Despite the rain, Algerabrug offers a dramatic view of the river. We cycle to the Village Church for a short dry break. Van Cappellen House is the perfect spot for a longer lunch break while the showers pass. After a stop at the Copper Mill, the path leads us to the Isala Theater and finally through Castle Park to the Hitland nature area."
+          },
+          "stops": [
+            {
+              "name": "Algerabrug Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht, der Metallboden der Brücke kann bei Nässe sehr glatt sein.",
+                "hu": "Vigyázat, a híd fém padlója nedvesen nagyon csúszós lehet.",
+                "ro": "Atenție, podeaua metalică a podului poate fi foarte alunecoasă când este udă.",
+                "en": "Caution: the metal floor of the bridge can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Village Church",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich direkt neben dem überdachten Portal.",
+                "hu": "A kerékpártárolók közvetlenül a fedett bejárat mellett találhatók.",
+                "ro": "Suporturile pentru biciclete sunt chiar lângă portalul acoperit.",
+                "en": "Bike racks are located right next to the covered portal."
+              }
+            },
+            {
+              "name": "Van Cappellen House & Lunch",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine Besichtigung der historischen Räume.",
+                "hu": "Használja ki az időt a történelmi szobák megtekintésére.",
+                "ro": "Folosiți timpul pentru a vizita camerele istorice.",
+                "en": "Use the time to tour the historical rooms."
+              }
+            },
+            {
+              "name": "The Copper Mill",
+              "tip_5lang": {
+                "de": "Ein schöner Zwischenstopp für einen Kaffee im Trockenen.",
+                "hu": "Szép köztes megálló egy kávéra a szárazon.",
+                "ro": "O oprire intermediară plăcută pentru o cafea la adăpost.",
+                "en": "A nice intermediate stop for a coffee in the dry."
+              }
+            },
+            {
+              "name": "Isala Theater",
+              "tip_5lang": {
+                "de": "Das Foyer bietet Schutz vor plötzlichen Regenschauern.",
+                "hu": "Az előcsarnok védelmet nyújt a hirtelen esők ellen.",
+                "ro": "Foaierul oferă protecție împotruva averselor bruște.",
+                "en": "The foyer offers protection from sudden rain showers."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Die Hauptwege sind asphaltiert und gut befahrbar.",
+                "hu": "A főutak aszfaltozottak és jól járhatóak.",
+                "ro": "Drumurile principale sunt asfaltate și ușor de parcurs.",
+                "en": "The main paths are paved and easy to cycle on."
+              }
+            },
+            {
+              "name": "Ride to Hitland",
+              "tip_5lang": {
+                "de": "Regenschutz für die Tasche einplanen, da es hier wenig Unterstand gibt.",
+                "hu": "Tervezzen esővédőt a táskára, mert itt kevés a menedék.",
+                "ro": "Planificați o protecție pentru geantă, deoarece aici sunt puține adăposturi.",
+                "en": "Plan rain protection for your bag, as there is little shelter here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Regenkleidung und wasserfeste Überschuhe werden empfohlen.",
+              "Vermeiden Sie abrupte Bremsmanöver auf nassem Asphalt.",
+              "Nutzen Sie die Fahrradparkhäuser an den Bahnhöfen für trockene Stopps.",
+              "Die Windböen auf den Deichen können bei Regen tückisch sein."
+            ],
+            "hu": [
+              "Jó esőruházat és vízálló kamásli javasolt.",
+              "Kerülje a hirtelen fékezést a nedves aszfalton.",
+              "Használja az állomások kerékpártárolóit a száraz megállókhoz.",
+              "A gátakon lévő széllökések esőben csalókák lehetnek."
+            ],
+            "ro": [
+              "Se recomandă îmbrăcăminte bună de ploaie și protecții impermeabile.",
+              "Evitați frânările bruște pe asfaltul umed.",
+              "Folosiți parcările pentru biciclete din gări pentru opriri uscate.",
+              "Rafalele de vânt de pe diguri pot fi înșelătoare pe ploaie."
+            ],
+            "en": [
+              "Good rain gear and waterproof shoe covers are recommended.",
+              "Avoid abrupt braking on wet asphalt.",
+              "Use the bicycle parking at stations for dry stops.",
+              "The wind gusts on the dikes can be tricky during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Winterradtour entlang der IJssel startet an der Algerabrug. Die Dorpskerk bietet einen Moment der Stille in der Kälte. Zum Aufwärmen halten wir am Van Cappellen House für ein gemütliches Mittagessen. Nach einem Besuch der Kupfermühle und des Isala Theaters radeln wir durch den winterlichen Schlosspark zum weiten Naturschutzgebiet Hitland, wo der Frost die Landschaft verzaubert.",
+            "hu": "Egy frissítő téli kerékpártúra az IJssel mentén indul az Algerabrugnál. A falusi templom egy pillanatnyi csendet kínál a hidegben. Felmelegedésként megállunk a Van Cappellen-háznál egy hangulatos ebédre. A Rézmalom és az Isala Színház megtekintése után a téli Kastélyparkon át tekerünk a tágas Hitland területére, ahol a fagy elvarázsolja a tájat.",
+            "ro": "O tură revigorantă de iarnă cu bicicleta de-a lungul IJssel începe la Algerabrug. Biserica Satului oferă un moment de liniște în frig. Pentru a ne încălzi, ne oprim la Casa Van Cappellen pentru un prânz primitor. După o vizită la Moara de Cupru și Teatrul Isala, pedalăm prin Parcul Castelului spre rezervația Hitland, unde înghețul încântă peisajul.",
+            "en": "A refreshing winter bike tour along the IJssel starts at the Algerabrug. The Village Church offers a moment of silence in the cold. To warm up, we stop at Van Cappellen House for a cozy lunch. After visiting the Copper Mill and the Isala Theater, we cycle through the wintery Castle Park to the vast Hitland nature area, where frost enchants the landscape."
+          },
+          "stops": [
+            {
+              "name": "Algerabrug Viewpoint",
+              "tip_5lang": {
+                "de": "Achtung vor dem beißenden Wind direkt am Fluss.",
+                "hu": "Vigyázzon a metsző szélre közvetlenül a folyónál.",
+                "ro": "Atenție la vântul tăios direct de pe râu.",
+                "en": "Beware of the biting wind directly by the river."
+              }
+            },
+            {
+              "name": "Village Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen im Kircheninneren.",
+                "hu": "Egy rövid megálló felmelegedni a templomban.",
+                "ro": "O scurtă oprire pentru a vă încălzi în interiorul bisericii.",
+                "en": "A short stop to warm up inside the church."
+              }
+            },
+            {
+              "name": "Van Cappellen House & Lunch",
+              "tip_5lang": {
+                "de": "Idealer Ort für eine längere Pause im Warmen.",
+                "hu": "Ideális hely egy hosszabb pihenőre a melegben.",
+                "ro": "Loc ideal pentru o pauză mai lungă la căldură.",
+                "en": "Ideal spot for a longer break in the warm."
+              }
+            },
+            {
+              "name": "The Copper Mill",
+              "tip_5lang": {
+                "de": "Die historische Mühle wirkt im Reif besonders schön.",
+                "hu": "A történelmi malom különösen szép a dérben.",
+                "ro": "Moara istorică arată deosebit de frumos în chiciură.",
+                "en": "The historic mill looks particularly beautiful in the frost."
+              }
+            },
+            {
+              "name": "Isala Theater",
+              "tip_5lang": {
+                "de": "Gönnen Sie sich einen heißen Tee im Theatercafé.",
+                "hu": "Kényeztesse magát egy forró teával a színházi kávézóban.",
+                "ro": "Răsfățați-vă cu un ceai fierbinte în cafeneaua teatrului.",
+                "en": "Treat yourself to a hot tea in the theater café."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Pfützen auf den Wegen.",
+                "hu": "Vigyázzon a jeges tócsákra az utakon.",
+                "ro": "Atenție la bălțile înghețate de pe poteci.",
+                "en": "Beware of frozen puddles on the paths."
+              }
+            },
+            {
+              "name": "Ride to Hitland",
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor Einbruch der Dunkelheit.",
+                "hu": "Fejezze be a túrát sötétedés előtt.",
+                "ro": "Încheiați turul înainte de lăsarea întunericului.",
+                "en": "Finish the tour before dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Handschuhe und eine winddichte Mütze sind unerlässlich.",
+              "Prüfen Sie den Luftdruck Ihrer Reifen, er sinkt bei Kälte.",
+              "Die Wege in Hitland können morgens glatt sein.",
+              "Vergewissern Sie sich, dass Ihre Fahrradbeleuchtung funktioniert."
+            ],
+            "hu": [
+              "A kesztyű és a szélálló sapka elengedhetetlen.",
+              "Ellenőrizze a gumiabroncsok nyomását, hidegben csökken.",
+              "A Hitland-i utak reggel csúszósak lehetnek.",
+              "Győződjön meg róla, hogy a kerékpárlámpa működik."
+            ],
+            "ro": [
+              "Mănușile și o căciulă rezistentă la vânt sunt esențiale.",
+              "Verificați presiunea anvelopelor, aceasta scade la frig.",
+              "Potecile din Hitland pot fi alunecoase dimineața.",
+              "Asigurați-vă că luminile bicicletei funcționează."
+            ],
+            "en": [
+              "Gloves and a windproof hat are essential.",
+              "Check your tire pressure, it drops in the cold.",
+              "The paths in Hitland can be slippery in the morning.",
+              "Make sure your bike lights are working."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -905,6 +1287,188 @@
           "Use 'Park & Ride' options to explore the center without stress.",
           "Pay attention to blue zones where you can park for free for a limited time with a parking disc."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Capelle bequem im Trockenen. Wir starten in Hitland, wo wir die Natur aus dem Fenster beobachten. Im Zentrum besuchen wir die Dorpskerk und das Van Cappellen House, wobei wir die kurzen Wege zwischen den Parkplätzen nutzen. Ein gemütliches Mittagessen und ein Kaffeestopp an der Kupfermühle runden den regnerischen Tag entspannt ab.",
+            "hu": "Autóval kényelmesen, szárazon fedezzük fel Capelle-t. Hitlandban kezdünk, ahol az ablakból figyeljük a természetet. A központban meglátogatjuk a falusi templomot és a Van Cappellen-házat, kihasználva a parkolók közötti rövid távolságokat. Egy hangulatos ebéd és egy kávé a Rézmalomnál zárja lazán az esős napot.",
+            "ro": "Cu mașina explorăm Capelle confortabil la adăpost. Începem în Hitland, unde observăm natura de la fereastră. În centru vizităm Biserica Satului și Casa Van Cappellen, folosind distanțele scurte dintre parcări. Un prânz plăcut și o oprire pentru cafea la Moara de Cupru încheie relaxat ziua ploioasă.",
+            "en": "By car, we explore Capelle comfortably while staying dry. We start in Hitland, observing nature from the window. In the center, we visit the Village Church and Van Cappellen House, taking advantage of the short distances between parking lots. A cozy lunch and a coffee stop at the Copper Mill round off the rainy day in a relaxed way."
+          },
+          "stops": [
+            {
+              "name": "Hitland Nature Area (Cluster A)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Vögel vom Parkplatz aus.",
+                "hu": "Élvezze a madarak látványát a parkolóból.",
+                "ro": "Bucurați-vă de vederea păsărilor din parcare.",
+                "en": "Enjoy the view of the birds from the parking lot."
+              }
+            },
+            {
+              "name": "Drive to Center (Cluster B)",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus Koperwiek für direkten Zugang zum Zentrum.",
+                "hu": "Parkoljon a Koperwiek parkolóházban a központhoz való közvetlen hozzáférésért.",
+                "ro": "Parcați în garajul Koperwiek pentru acces direct în centru.",
+                "en": "Park in the Koperwiek garage for direct access to the center."
+              }
+            },
+            {
+              "name": "Van Cappellen House & Thief's House",
+              "tip_5lang": {
+                "de": "Beide Orte liegen nah beieinander, ideal für kurze Gänge im Regen.",
+                "hu": "Mindkét hely közel van egymáshoz, ideális rövid esőben való sétákhoz.",
+                "ro": "Ambele locuri sunt aproape unul de celălalt, ideale pentru plimbări scurte prin ploaie.",
+                "en": "Both places are close together, ideal for short walks in the rain."
+              }
+            },
+            {
+              "name": "Lunch in the historic center",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch in der Nähe des Eingangs.",
+                "hu": "Foglaljon asztalt a bejárat közelében.",
+                "ro": "Rezervați o masă lângă intrare.",
+                "en": "Reserve a table near the entrance."
+              }
+            },
+            {
+              "name": "Drive to Algerabrug (Cluster C)",
+              "tip_5lang": {
+                "de": "Ein spektakulärer Blick aus dem Auto beim Überqueren der Brücke.",
+                "hu": "Látványos kilátás az autóból a hídon való átkeléskor.",
+                "ro": "O vedere spectaculoasă din mașină în timp ce traversați podul.",
+                "en": "A spectacular view from the car while crossing the bridge."
+              }
+            },
+            {
+              "name": "Coffee at De Koperen Molen",
+              "tip_5lang": {
+                "de": "Parken Sie direkt vor der Mühle, um trocken zu bleiben.",
+                "hu": "Parkoljon közvetlenül a malom előtt, hogy száraz maradjon.",
+                "ro": "Parcați chiar în fața morii pentru a rămâne uscat.",
+                "en": "Park right in front of the mill to stay dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die vielen kostenlosen Parkplätze in den Außenbezirken.",
+              "Vermeiden Sie die Rushhour an der Algerabrug bei starkem Regen.",
+              "Halten Sie die Fenster beschlagfrei für eine gute Sicht auf die Kanäle.",
+              "Ein Regenschirm im Auto ist für die Wege zum Eingang wichtig."
+            ],
+            "hu": [
+              "Használja ki a külső kerületek sok ingyenes parkolóhelyét.",
+              "Kerülje a csúcsforgalmat az Algerabrugnál heves esőben.",
+              "Tartsa páramentesen az ablakokat a csatornákra nyíló kilátásért.",
+              "Az autóban tartott esernyő fontos a bejáratig tartó úton."
+            ],
+            "ro": [
+              "Profitați de numeroasele locuri de parcare gratuite din districtele exterioare.",
+              "Evitați ora de vârf la Algerabrug pe timp de ploaie abundentă.",
+              "Păstrați geamurile dezaburite pentru o vedere bună asupra canalelor.",
+              "O umbrelă în mașină este importantă pentru drumurile până la intrare."
+            ],
+            "en": [
+              "Take advantage of the many free parking spaces in the outer districts.",
+              "Avoid rush hour at the Algerabrug during heavy rain.",
+              "Keep windows defogged for a good view of the canals.",
+              "An umbrella in the car is important for the walks to the entrance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Ausflug beginnt im frostigen Hitland, das wir warm vom Auto aus genießen. Im historischen Zentrum besuchen wir die festlich beleuchtete Dorpskerk und das Van Cappellen House. Nach einem kräftigen Mittagessen bestaunen wir die Algerabrug im klaren Winterlicht. Der Tag endet bei einem heißen Kaffee in der Kupfermühle, während draußen der Frost die Kanäle überzieht.",
+            "hu": "Egy téli kirándulás a fagyos Hitlandben kezdődik, amit melegen az autóból élvezünk. A történelmi központban meglátogatjuk az ünnepi kivilágítású templomot és a Van Cappellen-házat. Egy bőséges ebéd után megcsodáljuk az Algerabrugot a tiszta téli fényben. A nap egy forró kávéval zárul a Rézmalomban, miközben kint a fagy befedi a csatornákat.",
+            "ro": "O excursie de iarnă începe în Hitland-ul înghețat, pe care îl savurăm la căldură din mașină. În centrul istoric vizităm biserica iluminată festiv și Casa Van Cappellen. După un prânz copios, admirăm Algerabrug în lumina clară de iarnă. Ziua se încheie cu o cafea fierbinte la Moara de Cupru, în timp ce afară înghețul acoperă canalele.",
+            "en": "A winter excursion begins in frosty Hitland, which we enjoy warmly from the car. In the historic center, we visit the festively lit Village Church and Van Cappellen House. After a substantial lunch, we marvel at the Algerabrug in the clear winter light. The day ends with a hot coffee at the Copper Mill, while outside, frost covers the canals."
+          },
+          "stops": [
+            {
+              "name": "Hitland Nature Area (Cluster A)",
+              "tip_5lang": {
+                "de": "Die gefrorenen Wiesen sind im Morgenlicht ein tolles Fotomotiv.",
+                "hu": "A befagyott rétek a reggeli fényben remek fotótémák.",
+                "ro": "Pajiștile înghețate sunt un subiect foto excelent în lumina dimineții.",
+                "en": "The frozen meadows are a great photo subject in the morning light."
+              }
+            },
+            {
+              "name": "Drive to Center (Cluster B)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte in den schattigen Nebenstraßen des Dorfes.",
+                "hu": "Vigyázzon a csúszós szakaszokra a falu árnyékos mellékutcáiban.",
+                "ro": "Atenție la porțiunile alunecoase pe străzile secundare umbrite ale satului.",
+                "en": "Watch out for ice in the shaded side streets of the village."
+              }
+            },
+            {
+              "name": "Van Cappellen House & Thief's House",
+              "tip_5lang": {
+                "de": "Die Innenausstellung ist im Winter angenehm geheizt.",
+                "hu": "A belső kiállítás télen kellemesen fűtött.",
+                "ro": "Expoziția interioară este încălzită plăcut iarna.",
+                "en": "The indoor exhibition is pleasantly heated in winter."
+              }
+            },
+            {
+              "name": "Lunch in the historic center",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz am Kamin, falls vorhanden.",
+                "hu": "Keressen helyet a kandalló közelében, ha van.",
+                "ro": "Căutați un loc lângă șemineu, dacă există.",
+                "en": "Find a seat near the fireplace if available."
+              }
+            },
+            {
+              "name": "Drive to Algerabrug (Cluster C)",
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Fahrt den Straßenzustand auf der Brücke.",
+                "hu": "Indulás előtt ellenőrizze az útviszonyokat a hídon.",
+                "ro": "Verificați starea drumului pe pod înainte de a conduce.",
+                "en": "Check road conditions on the bridge before driving."
+              }
+            },
+            {
+              "name": "Coffee at De Koperen Molen",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang über dem Eis vom warmen Café aus.",
+                "hu": "Élvezze a naplementét a jég felett a meleg kávézóból.",
+                "ro": "Bucurați-vă de apusul peste gheață din cafeneaua călduroasă.",
+                "en": "Enjoy the sunset over the ice from the warm café."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind bei Frost und Reif in Holland sehr ratsam.",
+              "Die Parkgebühren im Zentrum können bequem per App bezahlt werden.",
+              "Vermeiden Sie das Abstellen des Autos unter Bäumen bei Frostgefahr.",
+              "Heißgetränke in Thermosbechern sind ideal für kleine Pausen am Wasser."
+            ],
+            "hu": [
+              "A téli gumi fagy és dér esetén nagyon tanácsos Hollandiában.",
+              "A központi parkolási díjak kényelmesen fizethetők applikációval.",
+              "Fagyveszély esetén kerülje az autó parkolását fák alatt.",
+              "A termoszban tartott forró italok ideálisak a vízparti pihenőkhöz."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt foarte recomandate pe îngheț în Olanda.",
+              "Taxele de parcare din centru pot fi plătite convenabil prin aplicație.",
+              "Evitați parcarea mașinii sub copaci când există risc de îngheț.",
+              "Băuturile calde în termos sunt ideale pentru micile pauze lângă apă."
+            ],
+            "en": [
+              "Winter tires are very advisable during frost and ice in Holland.",
+              "Parking fees in the center can be paid conveniently via app.",
+              "Avoid parking the car under trees if there is a risk of frost.",
+              "Hot drinks in thermoses are ideal for small breaks by the water."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1201,6 +1765,188 @@
           "Buy a day ticket (Dagkaart) for unlimited bus and metro travel in the region.",
           "Use a public transport app like 9292 to plan your routes in real-time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Metro und Bus erreichen wir trocken das Isala Theater. Ein Spaziergang zum Schlosspark ist bei leichtem Regen machbar, bevor wir mit dem Bus ins alte Dorf zur Kirche fahren. Das Van Cappellen House bietet Schutz für eine kulturelle Pause. Die Tour führt uns weiter zur Kupfermühle und zur beeindruckenden Algerabrug, wobei die Haltestellen meist überdacht sind.",
+            "hu": "Metróval és busszal szárazon érjük el az Isala Színházat. Egy séta a Kastélyparkba enyhe esőben kivitelezhető, mielőtt busszal a régi falu templomához utazunk. A Van Cappellen-ház védelmet nyújt egy kulturális pihenőhöz. A túra a Rézmalomhoz és a lenyűgöző Algerabrug-hoz folytatódik, a megállók többnyire fedettek.",
+            "ro": "Cu metroul și autobuzul ajungem la adăpost la Teatrul Isala. O plimbare în Parcul Castelului este fezabilă pe o ploaie ușoară, înainte de a lua autobuzul spre vechiul sat la biserică. Casa Van Cappellen oferă protecție pentru o pauză culturală. Turul ne duce mai departe la Moara de Cupru și la impresionantul Algerabrug, stațiile fiind în mare parte acoperite.",
+            "en": "By metro and bus, we reach the Isala Theater while staying dry. A walk to Castle Park is feasible in light rain before we take the bus to the old village church. Van Cappellen House offers shelter for a cultural break. The tour continues to the Copper Mill and the impressive Algerabrug, with most stops being covered."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Centrum (Cluster A)",
+              "tip_5lang": {
+                "de": "Die Metrostation Capelle Centrum bietet direkten Schutz.",
+                "hu": "A Capelle Centrum metróállomás közvetlen védelmet nyújt.",
+                "ro": "Stația de metrou Capelle Centrum oferă protecție directă.",
+                "en": "Capelle Centrum metro station offers direct shelter."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Fußweg von der Haltestelle Slotlaan.",
+                "hu": "Használja a rövid gyalogutat a Slotlaan megállótól.",
+                "ro": "Folosiți drumul scurt pe jos de la stația Slotlaan.",
+                "en": "Use the short walk from the Slotlaan stop."
+              }
+            },
+            {
+              "name": "Trip to the Old Village (Cluster B)",
+              "tip_5lang": {
+                "de": "Busse verkehren regelmäßig und halten nah an der Kirche.",
+                "hu": "A buszok rendszeresen járnak és a templom közelében állnak meg.",
+                "ro": "Autobuzele circulă regulat și opresc aproape de biserică.",
+                "en": "Buses run regularly and stop close to the church."
+              }
+            },
+            {
+              "name": "Van Cappellen House & Lunch",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um auf den nächsten Bus im Trockenen zu warten.",
+                "hu": "Ideális hely, hogy szárazon várja meg a következő buszt.",
+                "ro": "Un loc ideal pentru a aștepta următorul autobuz la adăpost.",
+                "en": "An ideal place to wait for the next bus in the dry."
+              }
+            },
+            {
+              "name": "Trip to the Mill (Cluster C)",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Schritte von der Mühle entfernt.",
+                "hu": "A megálló csak néhány lépésre van a malomtól.",
+                "ro": "Stația este la doar câțiva pași de moară.",
+                "en": "The stop is just a few steps away from the mill."
+              }
+            },
+            {
+              "name": "Walk to Algerabrug",
+              "tip_5lang": {
+                "de": "Die Brücke ist von der Bushaltestelle aus gut sichtbar.",
+                "hu": "A híd jól látható a buszmegállóból.",
+                "ro": "Podul este clar vizibil din stația de autobuz.",
+                "en": "The bridge is clearly visible from the bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die '9292' App für Echtzeit-Infos bei Regen-Verzögerungen.",
+              "Die Metrostationen sind ideale Orte, um kurz zu verschnaufen.",
+              "Achten Sie auf rutschige Böden in den Bussen und Bahnen.",
+              "Ein kleiner, faltbarer Schirm passt in jede Tasche für den Umstieg."
+            ],
+            "hu": [
+              "Használja a '9292' alkalmazást a valós idejű infókért esőben.",
+              "A metróállomások ideálisak egy rövid pihenőre.",
+              "Ügyeljen a csúszós padlóra a buszokon és vonatokon.",
+              "Egy kis, összecsukható esernyő minden táskában elfér az átszálláshoz."
+            ],
+            "ro": [
+              "Folosiți aplicația '9292' pentru informații în timp real în caz de întârzieri.",
+              "Stațiile de metrou sunt locuri ideale pentru o scurtă odihnă.",
+              "Atenție la podelele alunecoase din autobuze și trenuri.",
+              "O umbrelă mică, pliabilă, încape în orice geantă pentru schimburi."
+            ],
+            "en": [
+              "Use the '9292' app for real-time info during rain delays.",
+              "Metro stations are ideal places for a short breather.",
+              "Watch out for slippery floors in buses and trains.",
+              "A small, foldable umbrella fits in any bag for transfers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Tour startet warm im Isala Theater. Nach einem erfrischenden Blick in den Schlosspark bringt uns der Bus ins historische Dorf zur Dorpskerk. Das Van Cappellen House lädt zu einer gemütlichen Mittagspause ein. Mit dem Bus geht es weiter zur Kupfermühle und schließlich zur Algerabrug, wo wir den frostigen Fluss IJssel bestaunen, bevor uns die Metro zurück ins Warme bringt.",
+            "hu": "A téli túra melegen indul az Isala Színházban. Egy frissítő pillantás után a Kastélyparkba, a busz a történelmi faluba visz a templomhoz. A Van Cappellen-ház hangulatos ebédszünetre hív. Busszal megyünk tovább a Rézmalomhoz, végül az Algerabrug-hoz, ahol megcsodáljuk a fagyos IJssel folyót, mielőtt a metró visszavisz a melegbe.",
+            "ro": "Turul de iarnă începe la căldură în Teatrul Isala. După o privire revigorantă în Parcul Castelului, autobuzul ne duce în satul istoric la biserică. Casa Van Cappellen invită la o pauză de prânz primitoare. Cu autobuzul mergem mai departe la Moara de Cupru și în final la Algerabrug, unde admirăm râul IJssel înghețat, înainte ca metroul să ne ducă înapoi la căldură.",
+            "en": "The winter tour starts warmly in the Isala Theater. After a refreshing look at Castle Park, the bus takes us to the historic village church. Van Cappellen House invites us for a cozy lunch break. By bus, we continue to the Copper Mill and finally to the Algerabrug, where we marvel at the frosty IJssel River before the metro takes us back to the warmth."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Centrum (Cluster A)",
+              "tip_5lang": {
+                "de": "Das Theatergebäude ist im Winter ein herrlich warmer Startpunkt.",
+                "hu": "A színházépület télen remek meleg kiindulópont.",
+                "ro": "Clădirea teatrului este un punct de plecare minunat de cald iarna.",
+                "en": "The theater building is a wonderfully warm starting point in winter."
+              }
+            },
+            {
+              "name": "Castle Park",
+              "tip_5lang": {
+                "de": "Der Spaziergang zur Slotlaan ist kurz und belebend.",
+                "hu": "A séta a Slotlaan-ig rövid és élénkítő.",
+                "ro": "Plimbarea până la Slotlaan este scurtă și revigorantă.",
+                "en": "The walk to Slotlaan is short and invigorating."
+              }
+            },
+            {
+              "name": "Trip to the Old Village (Cluster B)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die geheizten Wartehallen an den größeren Haltestellen.",
+                "hu": "Használja a fűtött várótermeket a nagyobb megállóknál.",
+                "ro": "Folosiți sălile de așteptare încălzite la stațiile mai mari.",
+                "en": "Use the heated waiting areas at larger stops."
+              }
+            },
+            {
+              "name": "Van Cappellen House & Lunch",
+              "tip_5lang": {
+                "de": "Ein Muss für Geschichtsliebhaber, die Wärme suchen.",
+                "hu": "Kötelező a történelem szerelmeseinek, akik melegre vágynak.",
+                "ro": "O necesitate pentru iubitorii de istorie care caută căldură.",
+                "en": "A must for history lovers looking for warmth."
+              }
+            },
+            {
+              "name": "Trip to the Mill (Cluster C)",
+              "tip_5lang": {
+                "de": "Die Fahrt bietet schöne Ausblicke auf die winterliche IJssel.",
+                "hu": "Az utazás szép kilátást nyújt a téli IJssel-re.",
+                "ro": "Călătoria oferă vederi frumoase asupra râului IJssel iarna.",
+                "en": "The ride offers beautiful views of the wintery IJssel."
+              }
+            },
+            {
+              "name": "Walk to Algerabrug",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich für den Weg zur Brücke besonders warm an.",
+                "hu": "Öltözzön különösen melegen a hídhoz vezető útra.",
+                "ro": "Îmbrăcați-vă deosebit de gros pentru drumul spre pod.",
+                "en": "Dress extra warmly for the walk to the bridge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Pufferzeiten ein, da Schnee den Verkehr verzögern kann.",
+              "Tragen Sie warme Socken, da es an den Haltestellen ziehen kann.",
+              "Die OV-chipkaart sollte ausreichend Guthaben für den Tag haben.",
+              "Metrozüge sind im Winter meist sehr gut beheizt."
+            ],
+            "hu": [
+              "Tervezzen be puffidőt, mert a hó késleltetheti a forgalmat.",
+              "Viseljen meleg zoknit, mert a megállókban huzat lehet.",
+              "Az OV-chipkaart-on legyen elég egyenleg a napra.",
+              "A metrószerelvények télen általában nagyon jól fűtöttek."
+            ],
+            "ro": [
+              "Planificați timp suplimentar, deoarece zăpada poate întârzia traficul.",
+              "Purtați șosete groase, deoarece în stații poate fi curent.",
+              "OV-chipkaart ar trebui să aibă suficient credit pentru zi.",
+              "Trenurile de metrou sunt de obicei foarte bine încălzite iarna."
+            ],
+            "en": [
+              "Plan for buffer times, as snow can delay traffic.",
+              "Wear warm socks as it can be drafty at the stops.",
+              "The OV-chipkaart should have sufficient balance for the day.",
+              "Metro trains are usually very well heated in winter."
+            ]
+          }
+        }
       }
     }
   }

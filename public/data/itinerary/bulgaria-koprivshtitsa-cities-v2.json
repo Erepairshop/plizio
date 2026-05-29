@@ -410,6 +410,232 @@
           "Check the opening hours in advance, as some houses may have seasonal schedules.",
           "Take your time and soak in the unique atmosphere; don't rush from one site to another."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden Sie die Museumshäuser Oslekov und Lyutov, die perfekten Schutz vor dem Regen bieten. Mittags genießen Sie die warme Atmosphäre einer lokalen Mehana bei traditionellen Gerichten. Am Nachmittag setzen Sie Ihren Rundgang durch die geschichtsträchtigen Innenräume der Häuser Karavelov und Debelyanov fort. Den Tag lassen Sie mit einem kurzen, regnerischen Spaziergang zur First-Shot-Brücke ausklingen.",
+            "hu": "Reggel az Oslekov- és Lyutov-házak belső tereiben bújhat el az eső elől, megcsodálva a festett falakat. Ebédre keressen egy barátságos mehanát a központban. Délután a Karavelov- és Debelyanov-múzeumok kiállításai nyújtanak tartalmas fedett programot. Az estét egy esernyős séta zárja a történelmi Első Lövés hídjánál, ahol a patak zúgása még intenzívebb.",
+            "ro": "Dimineața este dedicată vizitării caselor Oslekov și Lyutov, oferind un adăpost excelent împotriva ploii. La prânz, savurați mâncăruri tradiționale într-o mehana călduroasă. După-amiaza continuă cu interioarele fascinante ale caselor Karavelov și Debelyanov. Seara se încheie cu o scurtă plimbare sub umbrelă până la Podul Primului Glonț, ascultând susurul apei.",
+            "en": "Morning starts with the Oslekov and Lyutov houses, providing great indoor shelter from the rain. For lunch, head to a local mehana to dry off and enjoy hearty Bulgarian soup. Spend the afternoon exploring the historical exhibits inside the Karavelov and Debelyanov houses. The day ends with a quick, atmospheric walk to the First Shot Bridge under your umbrella."
+          },
+          "stops": [
+            {
+              "name": "Oslekov House",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen der Regenschirme.",
+                "hu": "Használja a fedett bejáratot az esernyők lerázásához.",
+                "ro": "Folosiți intrarea acoperită pentru a vă scutura umbrelele.",
+                "en": "Use the covered entrance area to shake off your umbrellas."
+              }
+            },
+            {
+              "name": "Lyutov House",
+              "tip_5lang": {
+                "de": "Die prachtvollen Deckenmalereien lassen den grauen Himmel vergessen.",
+                "hu": "A pompás mennyezeti festmények feledtetik a szürke időt.",
+                "ro": "Picturile murale superbe vă vor face să uitați de cerul gri.",
+                "en": "The magnificent ceiling paintings will make you forget the gray sky."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Die Stille im Inneren ist bei Regen besonders besinnlich.",
+                "hu": "A benti csend esőben még meghittebb hangulatot áraszt.",
+                "ro": "Liniștea din interior este deosebit de relaxantă pe ploaie.",
+                "en": "The silence inside is particularly contemplative during the rain."
+              }
+            },
+            {
+              "name": "Karavelov House",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Holzhüttenstufen im Hof.",
+                "hu": "Vigyázzon a nedves fa lépcsőfokokon az udvaron.",
+                "ro": "Atenție la treptele de lemn umede din curte.",
+                "en": "Be careful on the wet wooden steps in the courtyard."
+              }
+            },
+            {
+              "name": "Debelyanov House",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort, ideal für eine Regenpause.",
+                "hu": "Hangulatos helyszín, ideális egy rövid esőszünetre.",
+                "ro": "Locație primitoare, ideală pentru o scurtă pauză de ploaie.",
+                "en": "A cozy location, ideal for a short break from the rain."
+              }
+            },
+            {
+              "name": "Kableshkov House",
+              "tip_5lang": {
+                "de": "Die großen Ausstellungsräume bieten viel Platz zum Trocknen.",
+                "hu": "A tágas kiállítótermekben bőven van hely megszáradni.",
+                "ro": "Sălile spațioase oferă mult loc pentru a vă usca.",
+                "en": "The spacious exhibition rooms offer plenty of space to dry off."
+              }
+            },
+            {
+              "name": "Benkovski House",
+              "tip_5lang": {
+                "de": "Der Aufstieg zum Haus kann bei Nässe rutschig sein.",
+                "hu": "A házhoz vezető emelkedő nedves időben csúszós lehet.",
+                "ro": "Urcarea spre casă poate fi alunecoasă pe timp de ploaie.",
+                "en": "The climb to the house can be slippery in wet weather."
+              }
+            },
+            {
+              "name": "First Shot Bridge",
+              "tip_5lang": {
+                "de": "Das Pflaster an der Brücke ist bei Regen sehr glatt.",
+                "hu": "A híd környéki macskakő esőben rendkívül csúszós.",
+                "ro": "Pavajul de lângă pod este foarte alunecos pe ploaie.",
+                "en": "The cobblestones near the bridge are very slick when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für das Kopfsteinpflaster.",
+              "Die meisten Museen sind nur wenige Gehminuten voneinander entfernt.",
+              "Nutzen Sie die Mehanas für längere Pausen bei starkem Guss.",
+              "Ein stabiler Regenschirm ist bei Wind in den Bergen wichtig.",
+              "Achten Sie auf tiefere Pfützen zwischen den alten Steinen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a csúszós macskaköves utcákon.",
+              "A múzeumházak többsége pár perces sétára van egymástól.",
+              "Heves eső esetén a helyi éttermek kiváló menedéket nyújtanak.",
+              "A hegyi szél miatt érdemesebb egy masszívabb esernyőt vinni.",
+              "Figyeljen a mélyebb tócsákra az egyenetlen kövek között."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile cu piatră cubică.",
+              "Majoritatea muzeelor sunt la doar câteva minute de mers pe jos.",
+              "În caz de ploaie torențială, restaurantele sunt refugii excelente.",
+              "Datorită vântului montan, o umbrelă rezistentă este necesară.",
+              "Atenție la bălțile adânci dintre pietrele denivelate."
+            ],
+            "en": [
+              "Wear waterproof footwear for the slippery cobblestone streets.",
+              "Most museum houses are within a few minutes' walk of each other.",
+              "In case of heavy rain, local taverns provide excellent shelter.",
+              "Due to mountain winds, a sturdy umbrella is highly recommended.",
+              "Watch out for deep puddles between the uneven stones."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Morgen in Koprivshtitsa beginnt mit frostigen Ansichten der alten Architektur. Mittags wärmen Sie sich bei heißem bulgarischen Tee in einem beheizten Gasthaus auf. Da die Sonne früh untergeht, besuchen Sie die höher gelegenen Häuser am frühen Nachmittag. Den Abend verbringen Sie gemütlich am Kaminfeuer einer Mehana, während draußen der Schnee die historischen Gassen bedeckt.",
+            "hu": "A télies Koprivstica fagyos, de gyönyörű látványt nyújt a reggeli órákban. Délben melegedjen fel egy forró bolgár teával valamelyik fűtött vendéglőben. Mivel korán sötétedik, a domboldali múzeumokat kora délután látogassa meg. Az estét töltse egy kandalló mellett a központban, miközben odakint csendesen hull a hó a régi háztetőkre.",
+            "ro": "O dimineață de iarnă în Koprivshtitsa oferă peisaje înghețate superbe asupra arhitecturii vechi. La prânz, încălziți-vă cu un ceai bulgăresc fierbinte într-o pensiune încălzită. Deoarece soarele apune devreme, vizitați casele de pe deal la începutul după-amiezii. Seara se petrece la gura semineului într-o mehana, admirând ninsoarea.",
+            "en": "A winter morning in Koprivshtitsa starts with frosty, scenic views of the old architecture. At noon, warm up with hot Bulgarian tea in a heated inn. Since the sun sets early, make sure to visit the uphill museum houses by early afternoon. Spend the evening by a fireplace in a local mehana while snow covers the historic alleys outside."
+          },
+          "stops": [
+            {
+              "name": "Oslekov House",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eisglätte auf der Veranda des Hauses.",
+                "hu": "Vigyázzon a jegesedésre a ház verandáján.",
+                "ro": "Atenție la gheața de pe veranda casei.",
+                "en": "Watch out for ice on the house's veranda."
+              }
+            },
+            {
+              "name": "Lyutov House",
+              "tip_5lang": {
+                "de": "Im Inneren ist es deutlich wärmer als in den Gassen.",
+                "hu": "Odabent jóval melegebb van, mint a kinti utcákon.",
+                "ro": "În interior este mult mai cald decât pe străzile de afară.",
+                "en": "It is much warmer inside than in the outdoor alleys."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Beachten Sie die verkürzten Winteröffnungszeiten der Kirche.",
+                "hu": "Ügyeljen a templom rövidített téli nyitvatartására.",
+                "ro": "Respectați programul de iarnă redus al bisericii.",
+                "en": "Note the shortened winter opening hours of the church."
+              }
+            },
+            {
+              "name": "Karavelov House",
+              "tip_5lang": {
+                "de": "Der Hof bietet im Winter eine malerische Schneekulisse.",
+                "hu": "Az udvar télen festői havas látványt nyújt.",
+                "ro": "Curtea oferă un decor de iarnă pitoresc când ninge.",
+                "en": "The courtyard offers a picturesque snowy backdrop in winter."
+              }
+            },
+            {
+              "name": "Debelyanov House",
+              "tip_5lang": {
+                "de": "Besonders stimmungsvoll bei Dämmerung im Schnee.",
+                "hu": "Különösen hangulatos alkonyatkor, a hóban.",
+                "ro": "Deosebit de atmosferic la amurg în zăpadă.",
+                "en": "Particularly atmospheric at dusk in the snow."
+              }
+            },
+            {
+              "name": "Kableshkov House",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Socken, da Holzböden kalt sein können.",
+                "hu": "Viseljen meleg zoknit, a fapadlók hidegek lehetnek.",
+                "ro": "Purtați șosete groase, podelele de lemn pot fi reci.",
+                "en": "Wear warm socks, as wooden floors can be cold."
+              }
+            },
+            {
+              "name": "Benkovski House",
+              "tip_5lang": {
+                "de": "Der steile Weg ist im Winter oft vereist.",
+                "hu": "A meredek út télen gyakran jeges és csúszós.",
+                "ro": "Drumul abrupt este adesea înghețat iarna.",
+                "en": "The steep path is often icy and slippery in winter."
+              }
+            },
+            {
+              "name": "First Shot Bridge",
+              "tip_5lang": {
+                "de": "Fotografieren Sie die Brücke vor dem frühen Sonnenuntergang.",
+                "hu": "Fotózza le a hidat a korai naplemente előtt.",
+                "ro": "Fotografiați podul înainte de apusul timpuriu.",
+                "en": "Photograph the bridge before the early sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Schichten und Mütze sind wegen der Gebirgslage Pflicht.",
+              "Die Sonne verschwindet bereits gegen 16:30 Uhr hinter den Bergen.",
+              "Vorsicht vor Eiszapfen, die von den alten Dächern hängen.",
+              "Einige kleine Läden könnten im Winter geschlossen sein.",
+              "Genießen Sie 'Grejana Rakija' zum Aufwärmen am Abend."
+            ],
+            "hu": [
+              "A hegyi klíma miatt a réteges öltözködés és sapka kötelező.",
+              "A nap már 16:30 körül eltűnik a hegyek mögött.",
+              "Vigyázzon a régi tetőkről lelógó jégcsapokra.",
+              "Néhány kisebb üzlet télen zárva tarthat.",
+              "Kóstolja meg a 'meleg rakiját' az esti felmelegedéshez."
+            ],
+            "ro": [
+              "Îmbrăcămintea stratificată și căciula sunt obligatorii la munte.",
+              "Soarele dispare după munți deja în jurul orei 16:30.",
+              "Atenție la țurțurii de gheață care atârnă de pe acoperișuri.",
+              "Unele magazine mici pot fi închise în timpul iernii.",
+              "Savurați o 'rakija fiartă' pentru a vă încălzi seara."
+            ],
+            "en": [
+              "Layered clothing and a hat are mandatory due to the mountain air.",
+              "The sun disappears behind the mountains as early as 16:30.",
+              "Watch out for icicles hanging from the old roofs.",
+              "Some small shops might be closed during the winter season.",
+              "Enjoy some 'Grejana Rakija' to warm up in the evening."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -814,6 +1040,232 @@
           "A mountain bike is more suitable than a road bike due to the terrain.",
           "Allow for extra time for walking your bike up steeper sections."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf dem glatten Kopfsteinpflaster von Koprivshtitsa. Beginnen Sie oben am Benkovski-Haus und nutzen Sie die Abfahrten vorsichtig. Mittags ist eine Pause in einer Mehana ideal, um Kleidung zu trocknen. Am Nachmittag radeln Sie zwischen den Museen im Tal und beenden die Tour bei der First-Shot-Brücke.",
+            "hu": "Az esős bringázás óvatosságot igényel Koprivstica csúszós macskakövein. Kezdje fent a Benkovszki-háznál, és óvatosan ereszkedjen lefelé. Délben tartson pihenőt egy étteremben, hogy megszárítsa a ruháit. Délután a völgyben lévő múzeumok között tekerjen, majd a túrát az Első Lövés hídjánál zárja.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită prudență pe pavajul alunecos. Începeți sus la Casa Benkovski și coborâți cu grijă. La prânz, o pauză la o mehana este ideală pentru a vă usca hainele. După-amiaza pedalați între muzeele din vale și încheiați turul la Podul Primului Glonț.",
+            "en": "Cycling in the rain requires caution on the slippery cobblestones of Koprivshtitsa. Start high at Benkovski House and descend carefully. At noon, a break in a mehana is ideal for drying your gear. In the afternoon, cycle between the museums in the valley and finish at the First Shot Bridge."
+          },
+          "stops": [
+            {
+              "name": "Benkovski House",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt auf nassen Steinen.",
+                "hu": "Ellenőrizze a fékeit a nedves köveken való ereszkedés előtt.",
+                "ro": "Verificați frânele înainte de coborârea pe pietre umede.",
+                "en": "Check your brakes before descending on wet stones."
+              }
+            },
+            {
+              "name": "Kableshkov House",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad unter dem Dachvorsprung.",
+                "hu": "Parkolja le a biciklit az eresz alatt.",
+                "ro": "Parcați bicicleta sub streașină.",
+                "en": "Park your bike under the roof overhang."
+              }
+            },
+            {
+              "name": "Oslekov House",
+              "tip_5lang": {
+                "de": "Kurze Gehstrecke vom Radständer zum Eingang einplanen.",
+                "hu": "Rövid séta a biciklitárolótól a bejáratig.",
+                "ro": "Planificați o scurtă plimbare de la rastel la intrare.",
+                "en": "Plan a short walk from the bike rack to the entrance."
+              }
+            },
+            {
+              "name": "Lyutov House",
+              "tip_5lang": {
+                "de": "Das Pflaster hier ist besonders uneben und rutschig.",
+                "hu": "Itt a macskakő különösen egyenetlen és csúszós.",
+                "ro": "Pavajul aici este deosebit de denivelat și alunecos.",
+                "en": "The cobblestones here are particularly uneven and slick."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Vermeiden Sie hastiges Bremsen vor dem Kirchplatz.",
+                "hu": "Kerülje a hirtelen fékezést a templomtéren.",
+                "ro": "Evitați frânarea bruscă în fața pieței bisericii.",
+                "en": "Avoid sudden braking in front of the church square."
+              }
+            },
+            {
+              "name": "Debelyanov House",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad stabil auf weichem, nassen Boden ab.",
+                "hu": "Stabilan állítsa le a biciklit a puha, nedves talajon.",
+                "ro": "Parcați bicicleta stabil pe solul moale și umed.",
+                "en": "Park your bike securely on the soft, wet ground."
+              }
+            },
+            {
+              "name": "Karavelov House",
+              "tip_5lang": {
+                "de": "Schutzbleche sind bei diesem Wetter unverzichtbar.",
+                "hu": "A sárvédő elengedhetetlen ilyen időben.",
+                "ro": "Apărătorile de noroi sunt indispensabile pe acest timp.",
+                "en": "Mudguards are indispensable in this weather."
+              }
+            },
+            {
+              "name": "First Shot Bridge",
+              "tip_5lang": {
+                "de": "Steigen Sie vor der Brücke ab, um Rutschen zu vermeiden.",
+                "hu": "Szálljon le a bringáról a híd előtt a csúszásveszély miatt.",
+                "ro": "Coborâți de pe bicicletă înainte de pod pentru a nu aluneca.",
+                "en": "Dismount before the bridge to avoid slipping."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip.",
+              "Vermeiden Sie metallische Abflussgitter in den Kurven.",
+              "Tragen Sie eine gut sichtbare Regenjacke.",
+              "Fahren Sie auf dem Kopfsteinpflaster besonders langsam.",
+              "Trocknen Sie Ihre Kette nach der Tour ab, um Rost zu vermeiden."
+            ],
+            "hu": [
+              "Csökkentse kicsit a guminyomást a jobb tapadásért.",
+              "Kerülje a fém csatornafedeleket a kanyarokban.",
+              "Viseljen jól látható esőkabátot.",
+              "A macskaköves utakon haladjon extra lassan.",
+              "Túra után törölje szárazra a láncot a rozsda ellen."
+            ],
+            "ro": [
+              "Reduceți puțin presiunea în pneuri pentru aderență mai bună.",
+              "Evitați grătarele metalice de scurgere în curbe.",
+              "Purtați o jachetă de ploaie reflectorizantă.",
+              "Circulați foarte încet pe străzile cu piatră cubică.",
+              "Ștergeți lanțul după tură pentru a evita rugina."
+            ],
+            "en": [
+              "Lower your tire pressure slightly for better grip.",
+              "Avoid metallic drainage grates in the corners.",
+              "Wear a high-visibility rain jacket.",
+              "Cycle extra slowly on the cobblestone streets.",
+              "Dry your chain after the ride to prevent rust."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Koprivshtitsa ist nur bei geräumten Wegen ratsam. Der Morgen bietet klare Luft und verschneite Dächer. Mittags ist eine lange Pause zum Aufwärmen notwendig. Am Nachmittag radeln Sie vorsichtig durch die schmalen Gassen, bevor es dunkel wird. Den Abend verbringen Sie nach der Rückgabe des Rades gemütlich in einer Taverne.",
+            "hu": "A téli bringázás Koprivsticában csak letakarított utakon javasolt. A reggel friss levegőt és havas háztetőket ígér. Délben tartsanak hosszú pihenőt a felmelegedéshez. Délután óvatosan tekerjenek át a szűk utcákon, mielőtt leszáll az éj. Este, a bringák leadása után, irány egy hangulatos taverna.",
+            "ro": "Ciclismul de iarnă în Koprivshtitsa este recomandat doar pe drumurile curățate. Dimineața oferă aer curat și acoperișuri înzăpezite. La prânz, este necesară o pauză lungă pentru încălzire. După-amiaza pedalați cu grijă pe străzile înguste înainte de lăsarea întunericului.",
+            "en": "Winter cycling in Koprivshtitsa is only advisable on cleared paths. The morning offers crisp air and snowy rooftops. At noon, a long break to warm up is essential. In the afternoon, cycle carefully through the narrow alleys before it gets dark. Spend the evening in a cozy tavern after returning the bikes."
+          },
+          "stops": [
+            {
+              "name": "Benkovski House",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schneematsch auf dem steilen Weg.",
+                "hu": "Vigyázzon a latyakra a meredek úton.",
+                "ro": "Atenție la lapoviță pe drumul abrupt.",
+                "en": "Watch out for slush on the steep path."
+              }
+            },
+            {
+              "name": "Kableshkov House",
+              "tip_5lang": {
+                "de": "Nutzen Sie Handschuhe, um die kalten Griffe zu halten.",
+                "hu": "Használjon kesztyűt a hideg kormányfogantyúkhoz.",
+                "ro": "Folosiți mănuși pentru a ține mânerele reci.",
+                "en": "Use gloves to handle the cold handlebars."
+              }
+            },
+            {
+              "name": "Oslekov House",
+              "tip_5lang": {
+                "de": "Das Radschloss kann bei Frost einfrieren.",
+                "hu": "A biciklizár befagyhat a nagy hidegben.",
+                "ro": "Antifurtul se poate bloca din cauza gerului.",
+                "en": "The bike lock can freeze in extreme cold."
+              }
+            },
+            {
+              "name": "Lyutov House",
+              "tip_5lang": {
+                "de": "Vermeiden Sie festgefahrenen Schnee auf der Straße.",
+                "hu": "Kerülje a letaposott havat az úttesten.",
+                "ro": "Evitați zăpada bătătorită de pe carosabil.",
+                "en": "Avoid packed snow on the roadway."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Der Kirchvorplatz ist oft vereist.",
+                "hu": "A templom előtti tér gyakran jeges.",
+                "ro": "Piața din fața bisericii este adesea înghețată.",
+                "en": "The church square is often icy."
+              }
+            },
+            {
+              "name": "Debelyanov House",
+              "tip_5lang": {
+                "de": "Die Sonne steht tief; nutzen Sie Ihre Beleuchtung.",
+                "hu": "Alacsonyan jár a nap, használja a világítást.",
+                "ro": "Soarele este jos; folosiți luminile bicicletei.",
+                "en": "The sun is low; make sure to use your lights."
+              }
+            },
+            {
+              "name": "Karavelov House",
+              "tip_5lang": {
+                "de": "Kürzen Sie die Tour bei extremer Kälte ab.",
+                "hu": "Rövidítse le a túrát extrém hideg esetén.",
+                "ro": "Scurtați turul în caz de frig extrem.",
+                "en": "Shorten the tour in case of extreme cold."
+              }
+            },
+            {
+              "name": "First Shot Bridge",
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt, bevor es glatt friert.",
+                "hu": "Fejezze be a tekerést, mielőtt teljesen odafagy.",
+                "ro": "Încheiați tura înainte să înghețe complet.",
+                "en": "Finish the ride before everything freezes over."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie nur bei Tageslicht.",
+              "Tragen Sie Thermo-Unterwäsche und winddichte Kleidung.",
+              "Vermeiden Sie das Radfahren bei Neuschnee.",
+              "Halten Sie Akkus von Lampen und Telefon warm.",
+              "Nehmen Sie eine Thermoskanne mit warmem Getränk mit."
+            ],
+            "hu": [
+              "Csak nappali fényben bringázzon.",
+              "Viseljen aláöltözetet és szélálló ruházatot.",
+              "Kerülje a kerékpározást friss hóban.",
+              "Tartsa melegen a lámpák és a telefon akkuját.",
+              "Vigyen magával termoszban meleg italt."
+            ],
+            "ro": [
+              "Pedalați doar pe timpul zilei.",
+              "Purtați lenjerie termică și haine rezistente la vânt.",
+              "Evitați ciclismul pe zăpadă proaspătă.",
+              "Păstrați bateriile luminilor și ale telefonului la cald.",
+              "Luați un termos cu băutură caldă la voi."
+            ],
+            "en": [
+              "Cycle only during daylight hours.",
+              "Wear thermal underwear and windproof clothing.",
+              "Avoid cycling in fresh snow.",
+              "Keep the batteries of your lights and phone warm.",
+              "Carry a thermos with a warm drink."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1194,6 +1646,214 @@
           "Driving in the historic center is not recommended and is partially restricted.",
           "Plan a full day to explore the town without rushing."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie bequem den Ortsrand von Koprivshtitsa. Nach dem Parken führt ein kurzer, regnerischer Weg zu den ersten Museen. Mittags können Sie kurz zum Wagen zurückkehren, um Schirme zu wechseln. Am Nachmittag erkunden Sie die zentralen Häusergruppen. Da die Gassen schmal sind, bleibt der Wagen am besten auf dem Hauptparkplatz stehen.",
+            "hu": "Autóval kényelmesen elérheti Koprivstica szélét. Parkolás után egy rövid, esős séta vezet az első múzeumokhoz. Délben akár vissza is ugorhat az autóhoz esernyőt cserélni. Délután a központi házcsoportokat fedezze fel. Mivel az utcák szűkek, a legjobb, ha az autó a főparkolóban marad.",
+            "ro": "Cu mașina ajungeți confortabil la marginea localității Koprivshtitsa. După parcare, o scurtă plimbare pe ploaie vă duce la primele muzee. La prânz puteți reveni scurt la mașină. După-amiaza explorați grupurile centrale de case. Deoarece străzile sunt înguste, mașina rămâne cel mai bine în parcarea principală.",
+            "en": "By car, you can easily reach the outskirts of Koprivshtitsa. After parking, a short, rainy walk leads to the first museums. At noon, you can quickly return to the car to swap umbrellas. In the afternoon, explore the central house clusters. As the alleys are narrow, it's best to leave the car at the main parking lot."
+          },
+          "stops": [
+            {
+              "name": "Parking at the edge of town",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz nahe dem befestigten Weg.",
+                "hu": "Keressen helyet a szilárd burkolatú út mellett.",
+                "ro": "Căutați un loc lângă drumul pavat.",
+                "en": "Look for a spot near the paved path."
+              }
+            },
+            {
+              "name": "Benkovski House",
+              "tip_5lang": {
+                "de": "Lassen Sie keine Wertsachen sichtbar im Auto.",
+                "hu": "Ne hagyjon értéktárgyat látható helyen az autóban.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
+                "en": "Do not leave valuables visible in the car."
+              }
+            },
+            {
+              "name": "Kableshkov House",
+              "tip_5lang": {
+                "de": "Vom Parkplatz hierher sind es ca. 10 Min. Fußweg.",
+                "hu": "A parkolótól kb. 10 perc séta idáig.",
+                "ro": "De la parcare până aici sunt cca. 10 min. de mers.",
+                "en": "It's about a 10-minute walk from the parking lot."
+              }
+            },
+            {
+              "name": "Oslekov & Lyutov Houses",
+              "tip_5lang": {
+                "de": "Zwei Museen direkt nebeneinander – ideal bei Regen.",
+                "hu": "Két múzeum egymás mellett – ideális esőben.",
+                "ro": "Două muzee unul lângă altul – ideal pe ploaie.",
+                "en": "Two museums right next to each other – ideal in rain."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefere Pfützen auf der Zufahrtsstraße.",
+                "hu": "Figyeljen a mélyebb tócsákra a bekötőúton.",
+                "ro": "Atenție la bălțile adânci de pe drumul de acces.",
+                "en": "Watch out for deep puddles on the access road."
+              }
+            },
+            {
+              "name": "Debelyanov & Karavelov Houses",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Zwischenlager für nasse Sachen.",
+                "hu": "Használja az autót a nedves holmik átmeneti tárolására.",
+                "ro": "Folosiți mașina ca depozit temporar pentru lucruri ude.",
+                "en": "Use the car as temporary storage for wet items."
+              }
+            },
+            {
+              "name": "First Shot Bridge",
+              "tip_5lang": {
+                "de": "Ein letzter Stopp, bevor Sie die Heizung im Auto genießen.",
+                "hu": "Az utolsó megálló, mielőtt élvezné a fűtést az autóban.",
+                "ro": "O ultimă oprire înainte de a vă bucura de căldura din mașină.",
+                "en": "One last stop before enjoying the car's heater."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Befahren der inneren Gassen bei Regen.",
+              "Die Hauptstraße im Tal ist gut befahrbar.",
+              "Halten Sie eine Decke im Auto bereit.",
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer.",
+              "Parken Sie auf offiziellen, befestigten Flächen."
+            ],
+            "hu": [
+              "Esőben kerülje a belső, szűk utcákba való behajtást.",
+              "A völgyben futó főút jól járható.",
+              "Legyen kéznél egy takaró az autóban.",
+              "Ellenőrizze az ablaktörlők állapotát.",
+              "Csak hivatalos, szilárd burkolatú helyen parkoljon."
+            ],
+            "ro": [
+              "Evitați conducerea pe străzile interioare înguste pe ploaie.",
+              "Drumul principal din vale este practicabil.",
+              "Aveți o pătură pregătită în mașină.",
+              "Verificați starea ștergătoarelor de parbriz.",
+              "Parcați doar în locuri oficiale și pavate."
+            ],
+            "en": [
+              "Avoid driving into the narrow inner alleys during rain.",
+              "The main road in the valley is easily accessible.",
+              "Keep a blanket ready in the car.",
+              "Check the condition of your windshield wipers.",
+              "Park only in official, paved areas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist die Anreise mit dem Auto nach Koprivshtitsa oft eine Fahrt durch eine weiße Wunderwelt. Der Parkplatz am Ortsrand ist meist geräumt. Mittags wärmt man sich im Auto auf, während man zum nächsten Sektor wechselt. Da es früh dunkel wird, sind die hellen Stunden für die Museen reserviert. Abends sorgt der Wagen für eine sichere und warme Heimreise.",
+            "hu": "Télen az autóút Koprivsticába gyakran egy fehér mesevilágon át vezet. A város széli parkolót általában takarítják. Délben az autóban is felmelegedhet két helyszín között. Mivel korán sötétedik, a világos órákat a múzeumoknak tartogassa. Este az autó biztonságos és meleg hazautat biztosít.",
+            "ro": "Iarna, drumul cu mașina spre Koprivshtitsa este adesea o călătorie printr-un decor de basm alb. Parcarea de la marginea localității este de obicei deszăpezită. La prânz vă puteți încălzi în mașină. Deoarece se întunecă devreme, rezervați orele cu lumină pentru muzee.",
+            "en": "In winter, the car journey to Koprivshtitsa is often a trip through a white wonderland. The parking lot at the edge of town is usually cleared of snow. At noon, warm up in the car while moving between sectors. Since it gets dark early, save the daylight hours for the museums."
+          },
+          "stops": [
+            {
+              "name": "Parking at the edge of town",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen beim Einparken.",
+                "hu": "Vigyázzon a hóbuckákra parkoláskor.",
+                "ro": "Atenție la mormanele de zăpadă la parcare.",
+                "en": "Watch out for snow banks when parking."
+              }
+            },
+            {
+              "name": "Benkovski House",
+              "tip_5lang": {
+                "de": "Schütteln Sie den Schnee von den Schuhen vor dem Einsteigen.",
+                "hu": "Rázza le a havat a cipőjéről beszállás előtt.",
+                "ro": "Scuturați zăpada de pe încălțăminte înainte de a urca.",
+                "en": "Shake the snow off your shoes before getting in."
+              }
+            },
+            {
+              "name": "Kableshkov House",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung für kurze Erholungspausen.",
+                "hu": "Használja az ülésfűtést a rövid pihenőkhöz.",
+                "ro": "Folosiți încălzirea în scaune pentru scurte pauze.",
+                "en": "Use the seat heaters for short recovery breaks."
+              }
+            },
+            {
+              "name": "Oslekov & Lyutov Houses",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Straßenverhältnisse im Ort regelmäßig.",
+                "hu": "Rendszeresen ellenőrizze az útviszonyokat a faluban.",
+                "ro": "Verificați regulat starea drumurilor din localitate.",
+                "en": "Regularly check the road conditions in town."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil staționând.",
+                "en": "Do not leave the engine idling unnecessarily."
+              }
+            },
+            {
+              "name": "Debelyanov & Karavelov Houses",
+              "tip_5lang": {
+                "de": "Die Frontscheibe kann während des Besuchs beschlagen.",
+                "hu": "A látogatás alatt az első szélvédő bepárásodhat.",
+                "ro": "Parbrizul se poate aburi în timpul vizitei.",
+                "en": "The windshield may fog up during your visit."
+              }
+            },
+            {
+              "name": "First Shot Bridge",
+              "tip_5lang": {
+                "de": "Starten Sie den Wagen rechtzeitig zum Enteisen.",
+                "hu": "Indítsa be időben az autót a jégtelenítéshez.",
+                "ro": "Porniți mașina din timp pentru dezghețare.",
+                "en": "Start the car in time for de-icing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Schneeketten im Kofferraum sind ratsam.",
+              "Vermeiden Sie steile Nebenstraßen bei Glätte.",
+              "Halten Sie den Tank für Notfälle mindestens halb voll.",
+              "Nutzen Sie Enteisungsspray für die Türschlösser.",
+              "Fahren Sie vorsichtig wegen Wildwechsel bei Dämmerung."
+            ],
+            "hu": [
+              "A téli gumi és a hólánc a csomagtartóban erősen javasolt.",
+              "Jeges időben kerülje a meredek mellékutcákat.",
+              "Tartsa a tankot legalább félig vészhelyzet esetére.",
+              "Használjon jégoldó spray-t az ajtózárakhoz.",
+              "Vigyázzon a vadon élő állatokra a szürkületi úton."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și lanțurile sunt recomandate.",
+              "Evitați străzile secundare abrupte pe polei.",
+              "Păstrați rezervorul cel puțin pe jumătate plin.",
+              "Folosiți spray de dezghețare pentru încuietori.",
+              "Conduceți cu atenție din cauza animalelor sălbatice la amurg."
+            ],
+            "en": [
+              "Winter tires and snow chains in the trunk are advisable.",
+              "Avoid steep side roads during icy conditions.",
+              "Keep the fuel tank at least half full for emergencies.",
+              "Use de-icing spray for the door locks.",
+              "Drive carefully due to wildlife crossings at dusk."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1598,6 +2258,232 @@
           "Buy a combination ticket to save money on museum entrance fees.",
           "Allow plenty of time to get back to the bus station for your departure."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bei Regen ist die Ankunft am Busbahnhof Koprivshtitsa der Startpunkt. Kurze Sprints zwischen den Haltestellen und Museen halten Sie trocken. Mittags bietet eine Mehana nahe der Hauptroute Schutz. Am Nachmittag besuchen Sie die Museen im Zentrum, bevor Sie den Bus zurück nehmen. Das Wetter verleiht den alten Gassen einen glänzenden, historischen Charme.",
+            "hu": "Esőben a buszpályaudvar a kiindulópont. A megállók és a múzeumok közötti rövid szakaszokon próbáljon száraz maradni. Délben egy főút melletti étterem nyújt menedéket. Délután a központi múzeumokat látogassa meg, mielőtt visszaszállna a buszra. Az eső csillogóvá és még történelmibbé teszi a régi utcákat.",
+            "ro": "Pe ploaie, sosirea la autogară este punctul de start. Scurte sprinturi între stații și muzee vă vor menține uscați. La prânz, o mehana lângă ruta principală oferă adăpost. După-amiaza vizitați muzeele din centru înainte de a lua autobuzul înapoi.",
+            "en": "In the rain, arriving at the Koprivshtitsa bus station is the starting point. Short sprints between stops and museums will keep you dry. At noon, a tavern near the main route provides shelter. In the afternoon, visit the central museums before catching the bus back."
+          },
+          "stops": [
+            {
+              "name": "Koprivshtitsa Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Bereich des Bahnhofs.",
+                "hu": "Várjon az állomás fedett részén.",
+                "ro": "Așteptați în zona acoperită a gării.",
+                "en": "Wait in the covered area of the station."
+              }
+            },
+            {
+              "name": "Oslekov House",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrtzeiten bei Ankunft am Museum.",
+                "hu": "Ellenőrizze a visszaindulást, amikor a múzeumhoz ér.",
+                "ro": "Verificați orele de retur la sosirea la muzeu.",
+                "en": "Check return times upon arrival at the museum."
+              }
+            },
+            {
+              "name": "Lyutov House",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um größere Regenzonen zu überbrücken.",
+                "hu": "Használja a buszt a nagyobb esős szakaszok áthidalására.",
+                "ro": "Folosiți autobuzul pentru a evita zonele cu ploaie mare.",
+                "en": "Use the bus to bridge larger rainy sections."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Schritte entfernt.",
+                "hu": "A megálló csak pár lépésre található.",
+                "ro": "Stația este la doar câțiva pași distanță.",
+                "en": "The stop is only a few steps away."
+              }
+            },
+            {
+              "name": "Karavelov House",
+              "tip_5lang": {
+                "de": "Holen Sie sich Informationen über Verspätungen bei Regen.",
+                "hu": "Kérjen információt az eső miatti esetleges késésekről.",
+                "ro": "Cereți informații despre eventualele întârzieri pe ploaie.",
+                "en": "Ask for information about potential rain delays."
+              }
+            },
+            {
+              "name": "Debelyanov House",
+              "tip_5lang": {
+                "de": "Stellen Sie sich unter, falls der Bus nicht pünktlich ist.",
+                "hu": "Húzódjon fedél alá, ha nem jön pontosan a busz.",
+                "ro": "Adăpostiți-vă dacă autobuzul nu vine la timp.",
+                "en": "Take shelter if the bus is not on time."
+              }
+            },
+            {
+              "name": "Kableshkov House",
+              "tip_5lang": {
+                "de": "Planen Sie Pufferzeit für den Weg zur Haltestelle ein.",
+                "hu": "Számoljon ráhagyással a megállóhoz vezető úton.",
+                "ro": "Planificați timp suplimentar pentru drumul spre stație.",
+                "en": "Allow extra time for the walk to the stop."
+              }
+            },
+            {
+              "name": "First Shot Bridge",
+              "tip_5lang": {
+                "de": "Die letzte Etappe zum Busbahnhof ist kurz.",
+                "hu": "Az utolsó szakasz a buszpályaudvarig rövid.",
+                "ro": "Ultima etapă până la autogară este scurtă.",
+                "en": "The last stretch to the bus station is short."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bustickets können oft beim Fahrer gekauft werden.",
+              "Die Busfrequenz kann bei schlechtem Wetter variieren.",
+              "Halten Sie Kleingeld für die Tickets bereit.",
+              "Nutzen Sie die Wartehäuschen als Regenschutz.",
+              "Tragen Sie Kleidung, die schnell trocknet."
+            ],
+            "hu": [
+              "A buszjegyeket gyakran a sofőrnél is meg lehet venni.",
+              "A buszok gyakorisága változhat rossz időben.",
+              "Legyen kéznél aprópénz a jegyekhez.",
+              "Használja a várókat eső elleni védelemként.",
+              "Viseljen gyorsan száradó ruházatot."
+            ],
+            "ro": [
+              "Biletele pot fi cumpărate adesea de la șofer.",
+              "Frecvența autobuzelor poate varia pe timp nefavorabil.",
+              "Aveți mărunt pregătit pentru bilete.",
+              "Folosiți stațiile acoperite ca protecție contra ploii.",
+              "Purtați haine care se usucă repede."
+            ],
+            "en": [
+              "Bus tickets can often be purchased from the driver.",
+              "Bus frequency may vary during bad weather.",
+              "Keep small change ready for tickets.",
+              "Use bus shelters for rain protection.",
+              "Wear clothing that dries quickly."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ankunft in einem verschneiten Koprivshtitsa mit dem Überlandbus. Die Wartehalle ist ein guter Ort, um sich zu orientieren. Mittags wärmt ein lokales Menü in der Nähe der Haltestelle. Nachmittags erkunden Sie die schneebedeckten Museen. Da der letzte Bus oft früh fährt, achten Sie genau auf die Zeit. Der Winterzauber macht die Fahrt durch die Berge unvergesslich.",
+            "hu": "Érkezés a havas Koprivsticába távolsági busszal. A váróterem jó hely a tájékozódáshoz. Délben egy közeli étteremben melegedjen fel. Délután a hófödte múzeumokat járja végig. Mivel az utolsó busz korán indulhat, figyeljen az időre. A téli varázs felejthetetlenné teszi a hegyi utazást.",
+            "ro": "Sosirea în Koprivshtitsa înzăpezită cu autobuzul interurban. Sala de așteptare este un loc bun pentru orientare. La prânz, încălziți-vă la un restaurant din apropiere. După-amiaza explorați muzeele acoperite de zăpadă. Atenție la ora ultimului autobuz.",
+            "en": "Arrival in a snowy Koprivshtitsa by long-distance bus. The waiting room is a good spot to get oriented. At noon, warm up in a restaurant near the stop. In the afternoon, explore the snow-covered museums. As the last bus often leaves early, keep a close eye on the time."
+          },
+          "stops": [
+            {
+              "name": "Koprivshtitsa Bus Station",
+              "tip_5lang": {
+                "de": "Informieren Sie sich über wetterbedingte Ausfälle.",
+                "hu": "Tájékozódjon az időjárás miatti járatkimaradásokról.",
+                "ro": "Informați-vă despre anulările cauzate de vreme.",
+                "en": "Check for weather-related cancellations."
+              }
+            },
+            {
+              "name": "Oslekov House",
+              "tip_5lang": {
+                "de": "Der Weg zum Museum ist im Winter oft geräumt.",
+                "hu": "A múzeumhoz vezető utat télen általában takarítják.",
+                "ro": "Drumul spre muzeu este de obicei deszăpezit iarna.",
+                "en": "The path to the museum is usually cleared in winter."
+              }
+            },
+            {
+              "name": "Lyutov House",
+              "tip_5lang": {
+                "de": "Tragen Sie rutschfeste Schuhe für den Weg zum Bus.",
+                "hu": "Viseljen csúszásmentes talpú cipőt a buszhoz menet.",
+                "ro": "Purtați încălțăminte antiderapantă spre autobuz.",
+                "en": "Wear non-slip shoes for the walk to the bus."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich kurz im Vorraum der Kirche auf.",
+                "hu": "Melegedjen fel röviden a templom előterében.",
+                "ro": "Încălziți-vă scurt în pridvorul bisericii.",
+                "en": "Warm up briefly in the church's vestibule."
+              }
+            },
+            {
+              "name": "Karavelov House",
+              "tip_5lang": {
+                "de": "Beachten Sie die frühen Abfahrtszeiten im Winter.",
+                "hu": "Ügyeljen a téli korai indulási időpontokra.",
+                "ro": "Atenție la orele de plecare timpurii de iarnă.",
+                "en": "Be mindful of early departure times in winter."
+              }
+            },
+            {
+              "name": "Debelyanov House",
+              "tip_5lang": {
+                "de": "Halten Sie sich im Bus an den Haltegriffen fest.",
+                "hu": "Kapaszkodjon erősen a buszon, ha csúszós az út.",
+                "ro": "Țineți-vă bine în autobuz dacă drumul este alunecos.",
+                "en": "Hold on tight in the bus if the road is slippery."
+              }
+            },
+            {
+              "name": "Kableshkov House",
+              "tip_5lang": {
+                "de": "Der Fußweg zum Bahnhof kann länger dauern.",
+                "hu": "A gyalogút az állomásig télen tovább tarthat.",
+                "ro": "Drumul pe jos spre gară poate dura mai mult.",
+                "en": "The walk to the station may take longer in winter."
+              }
+            },
+            {
+              "name": "First Shot Bridge",
+              "tip_5lang": {
+                "de": "Letzter Check der Abfahrtszeit auf dem Handy.",
+                "hu": "Utolsó ellenőrzés az indulás előtt a telefonján.",
+                "ro": "Ultima verificare a orei de plecare pe telefon.",
+                "en": "Final check of the departure time on your phone."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überprüfen Sie den Fahrplan am Vortag online.",
+              "Rechnen Sie mit Verspätungen bei starkem Schneefall.",
+              "Tragen Sie warme Winterschuhe mit Profil.",
+              "Ein heißes Getränk im Thermosbecher ist ideal für Wartezeiten.",
+              "Die Busse sind im Winter meist gut beheizt."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet előző nap online.",
+              "Számoljon késésekkel erős havazás esetén.",
+              "Viseljen meleg, barázdált talpú téli cipőt.",
+              "Egy termosz meleg ital jól jön a várakozáskor.",
+              "A buszok télen általában jól fűtöttek."
+            ],
+            "ro": [
+              "Verificați programul online cu o zi înainte.",
+              "Luați în calcul întârzieri în caz de ninsoare puternică.",
+              "Purtați ghete de iarnă călduroase cu profil aderent.",
+              "O băutură caldă la termos este ideală pentru așteptare.",
+              "Autobuzele sunt de obicei bine încălzite iarna."
+            ],
+            "en": [
+              "Check the schedule online the day before.",
+              "Expect delays during heavy snowfall.",
+              "Wear warm winter boots with good tread.",
+              "A hot drink in a thermos is ideal for waiting times.",
+              "Buses are usually well-heated during winter."
+            ]
+          }
+        }
       }
     }
   }

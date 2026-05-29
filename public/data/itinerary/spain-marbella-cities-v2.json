@@ -422,6 +422,206 @@
           "Most shops observe a siesta from around 2 PM to 5 PM.",
           "Get intentionally lost in the alleyways of the Old Town – it's the best way to discover its hidden gems."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die engen Gassen der Altstadt Schutz vor dem Regen. Mittags genießen wir authentische Tapas in einem gemütlichen Restaurant am Plaza de los Naranjos. Am Nachmittag besuchen wir das Gravurmuseum, um trocken zu bleiben und Kunst zu entdecken. Abends spazieren wir mit dem Schirm zur Avenida del Mar, wo die Skulpturen im Regen glänzen.",
+            "hu": "Reggel az óváros szűk utcái nyújtanak menedéket az eső elől. Délben a Plaza de los Naranjos egyik hangulatos éttermében kóstolunk tapasokat. Délután a Kortárs Spanyol Metszetmúzeumba húzódunk be a csapadék elől. Este esernyővel sétálunk az Avenida del Mar szobrai között, amelyek különleges fényben tündökölnek a vizes burkolaton.",
+            "ro": "Dimineața, străzile înguste din orașul vechi oferă adăpost împotriva ploii. La prânz, savurăm tapas într-un restaurant primitor din Plaza de los Naranjos. După-amiaza, vizităm Muzeul de Gravură pentru a rămâne la adăpost și a descoperi arta locală. Seara, ne plimbăm cu umbrela pe Avenida del Mar, unde sculpturile strălucesc sub ploaie.",
+            "en": "In the morning, the narrow streets of the Old Town offer shelter from the rain. At noon, we enjoy authentic tapas in a cozy restaurant at Plaza de los Naranjos. In the afternoon, we head to the Engraving Museum to stay dry and discover art. In the evening, we stroll with an umbrella to Avenida del Mar, where the statues glisten in the wet light."
+          },
+          "stops": [
+            {
+              "name": "Plaza de los Naranjos (Orange Square)",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Markisen der Cafés.",
+                "hu": "Keress menedéket a kávézók napellenzői alatt.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor.",
+                "en": "Seek shelter under the awnings of the local cafes."
+              }
+            },
+            {
+              "name": "Church of the Incarnation (Iglesia de la Encarnación)",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine trockene, besinnliche Pause.",
+                "hu": "Tökéletes hely egy száraz, csendes pihenőre.",
+                "ro": "Locul perfect pentru o pauză uscată și liniștită.",
+                "en": "Perfect place for a dry and peaceful break."
+              }
+            },
+            {
+              "name": "Marbella Castle (Moorish Castle Walls)",
+              "tip_5lang": {
+                "de": "Die Mauern bieten begrenzten Schutz, Vorsicht auf glatten Steinen.",
+                "hu": "A falak kevés védelmet adnak, vigyázz a csúszós köveken.",
+                "ro": "Zidurile oferă adăpost limitat, atenție la pietrele alunecoase.",
+                "en": "Walls offer limited shelter, be careful on slippery stones."
+              }
+            },
+            {
+              "name": "Museum of Contemporary Spanish Engraving",
+              "tip_5lang": {
+                "de": "Ideales Ziel bei starkem Regen, 16. Jh. Gebäude.",
+                "hu": "Ideális célpont szakadó esőben, 16. századi épület.",
+                "ro": "Destinație ideală în caz de ploaie, clădire din sec. XVI.",
+                "en": "Ideal destination during heavy rain, 16th-century building."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Innenplätzen.",
+                "hu": "Válassz belső térrel rendelkező éttermet.",
+                "ro": "Alegeți un restaurant cu locuri în interior.",
+                "en": "Choose a restaurant with indoor seating."
+              }
+            },
+            {
+              "name": "Alameda Park",
+              "tip_5lang": {
+                "de": "Das dichte Blätterdach hält leichten Regen ab.",
+                "hu": "A sűrű lombozat felfogja a könnyű esőt.",
+                "ro": "Bolta deasă de frunze oprește ploaia ușoară.",
+                "en": "The thick canopy stops light rain."
+              }
+            },
+            {
+              "name": "Avenida del Mar",
+              "tip_5lang": {
+                "de": "Dalí-Skulpturen wirken bei Regen dramatisch.",
+                "hu": "A Dalí-szobrok drámai hatást keltenek esőben.",
+                "ro": "Sculpturile lui Dalí arată dramatic sub ploaie.",
+                "en": "Dalí statues look dramatic in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Marmorpflaster glatt werden können.",
+              "Nutzen Sie das Gravurmuseum als längeren Stopp bei Schauern.",
+              "Die Altstadt hat viele überdachte Durchgänge.",
+              "Ein stabiler Schirm ist wegen der Meeresbrise wichtig."
+            ],
+            "hu": [
+              "Viselj vízálló cipőt, mert a márványburkolat csúszóssá válik.",
+              "Használd a múzeumot hosszabb pihenőre nagyobb zápor esetén.",
+              "Az óvárosban sok fedett átjáró található.",
+              "A tengeri szél miatt érdemes stabil esernyőt választani."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul de marmură devine alunecos.",
+              "Folosiți muzeul pentru o oprire mai lungă în caz de aversă.",
+              "Orașul vechi are multe pasaje acoperite.",
+              "O umbrelă rezistentă este necesară din cauza brizelor marine."
+            ],
+            "en": [
+              "Wear waterproof shoes as the marble pavement becomes slippery.",
+              "Use the engraving museum for a longer stop during heavy showers.",
+              "The old town has many covered passages.",
+              "A sturdy umbrella is essential due to sea breezes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen in der Altstadt ist mild und sonnig, perfekt für Fotos ohne Touristenmassen. Mittags genießen wir die Wärme am Plaza de los Naranjos. Der Nachmittag im Alameda-Park bietet kühlen Schatten, bevor wir den Sonnenuntergang an der Avenida del Mar bewundern. Abends kühlt es schnell ab, ideal für eine heiße Schokolade.",
+            "hu": "Az óvárosi reggel enyhe és napos, tökéletes fotózáshoz tömeg nélkül. Délben a Plaza de los Naranjos melegében pihenünk. A délután az Alameda park hűvösében telik, mielőtt megcsodálnánk a naplementét az Avenida del Maron. Este gyorsan lehűl a levegő, ilyenkor a legjobb egy forró csokoládé.",
+            "ro": "Dimineața în orașul vechi este blândă și însorită, perfectă pentru poze fără mulțimi. La prânz, ne bucurăm de căldură în Plaza de los Naranjos. După-amiaza în Parcul Alameda oferă umbră răcoroasă înainte de apusul pe Avenida del Mar. Seara se răcește rapid, moment ideal pentru o ciocolată caldă.",
+            "en": "The morning in the Old Town is mild and sunny, perfect for photos without the crowds. At noon, we enjoy the warmth at Plaza de los Naranjos. The afternoon in Alameda Park offers cool shade before we admire the sunset at Avenida del Mar. In the evening, the air cools down quickly, ideal for a hot chocolate."
+          },
+          "stops": [
+            {
+              "name": "Plaza de los Naranjos (Orange Square)",
+              "tip_5lang": {
+                "de": "Die Orangenbäume tragen im Winter Früchte.",
+                "hu": "A narancsfák télen érlelik gyümölcsüket.",
+                "ro": "Portocalii poartă fructe pe timpul iernii.",
+                "en": "The orange trees bear fruit in winter."
+              }
+            },
+            {
+              "name": "Church of the Incarnation (Iglesia de la Encarnación)",
+              "tip_5lang": {
+                "de": "Angenehme Innentemperatur im Vergleich zur Außenluft.",
+                "hu": "Kellemes belső hőmérséklet a kinti levegőhöz képest.",
+                "ro": "Temperatură interioară plăcută față de aerul de afară.",
+                "en": "Pleasant indoor temperature compared to the outside air."
+              }
+            },
+            {
+              "name": "Marbella Castle (Moorish Castle Walls)",
+              "tip_5lang": {
+                "de": "Klarere Sicht auf die Berge bei kühler Luft.",
+                "hu": "Tisztább kilátás a hegyekre a hűvös levegőben.",
+                "ro": "Vedere mai clară spre munți datorită aerului rece.",
+                "en": "Clearer views of the mountains in the crisp air."
+              }
+            },
+            {
+              "name": "Museum of Contemporary Spanish Engraving",
+              "tip_5lang": {
+                "de": "Wenig Andrang, genießen Sie die Kunst in Ruhe.",
+                "hu": "Kevés látogató, élvezd a művészetet nyugalomban.",
+                "ro": "Puțini vizitatori, bucurați-vă de artă în liniște.",
+                "en": "Few visitors, enjoy the art in peace."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Sitzplätze in der Sonne sind heiß begehrt.",
+                "hu": "A napsütötte asztalok nagyon népszerűek.",
+                "ro": "Mesele la soare sunt foarte căutate.",
+                "en": "Tables in the sun are highly sought after."
+              }
+            },
+            {
+              "name": "Alameda Park",
+              "tip_5lang": {
+                "de": "Schattige Bänke können im Winter kühl sein.",
+                "hu": "Az árnyékos padok télen hűvösek lehetnek.",
+                "ro": "Băncile la umbră pot fi reci iarna.",
+                "en": "Shady benches can be chilly in winter."
+              }
+            },
+            {
+              "name": "Avenida del Mar",
+              "tip_5lang": {
+                "de": "Sonnenuntergang findet bereits gegen 18:00 Uhr statt.",
+                "hu": "A naplemente már 18:00 körül bekövetkezik.",
+                "ro": "Apusul are loc deja în jurul orei 18:00.",
+                "en": "Sunset occurs as early as 6:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist ratsam.",
+              "Die Sonne ist stark, Sonnenschutz wird empfohlen.",
+              "Ab 17:00 Uhr sinken die Temperaturen spürbar.",
+              "Wintersonne in Marbella ist ideal für lange Spaziergänge."
+            ],
+            "hu": [
+              "Réteges öltözködés javasolt a változó hőérzet miatt.",
+              "A nap még télen is erős, használj fényvédőt.",
+              "17:00 után érezhetően lehűl a levegő.",
+              "A marbellai téli napsütés ideális hosszú sétákhoz."
+            ],
+            "ro": [
+              "Se recomandă îmbrăcămintea în straturi.",
+              "Soarele este puternic chiar și iarna, folosiți protecție solară.",
+              "După ora 17:00 temperaturile scad vizibil.",
+              "Soarele de iarnă din Marbella este ideal pentru plimbări lungi."
+            ],
+            "en": [
+              "Layered clothing is advised for varying temperatures.",
+              "The sun is strong even in winter, use sunscreen.",
+              "Temperatures drop noticeably after 5:00 PM.",
+              "Winter sun in Marbella is ideal for long walks."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -814,6 +1014,188 @@
           "A bell is useful to alert pedestrians on the busy promenade.",
           "Plan for photo stops – the coastline is beautiful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet trotz Regen am Paseo Marítimo. Mittags erreichen wir Puerto Banús, wo wir in einer überdachten Marina rasten. Der Rückweg führt uns durch den Alameda-Park, dessen Bäume Schutz bieten. Abends lassen wir die Tour in der Altstadt ausklingen, während wir die Räder sicher unterstellen.",
+            "hu": "A kerékpártúra az eső ellenére a Paseo Marítimón indul. Délben érjük el Puerto Banúst, ahol a fedett marinában pihenünk meg. A visszaút az Alameda parkon át vezet, ahol a fák némi védelmet nyújtanak. Este az óvárosban fejezzük be a napot, a bringákat fedett helyen lelakatolva.",
+            "ro": "Turul cu bicicleta începe pe Paseo Marítimo în ciuda ploii. La prânz ajungem în Puerto Banús, unde ne odihnim în marina acoperită. Drumul de întoarcere trece prin Parcul Alameda, unde copacii oferă protecție. Seara încheiem turul în orașul vechi, lăsând bicicletele la adăpost.",
+            "en": "The bike tour starts on the Paseo Marítimo despite the rain. At noon, we reach Puerto Banús, resting in the covered marina. The return trip takes us through Alameda Park, where the trees provide some shelter. In the evening, we finish the tour in the Old Town, locking the bikes in a dry spot."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start on the Promenade",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Rad mit Schutzblechen.",
+                "hu": "Kérj sárvédővel felszerelt kerékpárt.",
+                "ro": "Cereți o bicicletă cu apărători de noroi.",
+                "en": "Ask for a bike with mudguards."
+              }
+            },
+            {
+              "name": "Ride along the Golden Mile",
+              "tip_5lang": {
+                "de": "Vorsicht, die Fliesen auf der Promenade sind extrem rutschig.",
+                "hu": "Vigyázat, a sétány csempéi rendkívül csúszósak.",
+                "ro": "Atenție, plăcile de pe faleză sunt extrem de alunecoase.",
+                "en": "Caution, the tiles on the promenade are extremely slippery."
+              }
+            },
+            {
+              "name": "Puerto Banús",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden zum Flanieren ohne Regen.",
+                "hu": "Használd az árkádokat a sétához esőmentesen.",
+                "ro": "Folosiți arcadele pentru a vă plimba fără ploaie.",
+                "en": "Use the arcades for strolling without getting wet."
+              }
+            },
+            {
+              "name": "Lunch in Puerto Banús",
+              "tip_5lang": {
+                "de": "Viele Restaurants haben beheizte, überdachte Terrassen.",
+                "hu": "Sok étterem fűtött, fedett terasszal vár.",
+                "ro": "Multe restaurante au terase încălzite și acoperite.",
+                "en": "Many restaurants have heated, covered terraces."
+              }
+            },
+            {
+              "name": "Ride back to Marbella & Alameda Park",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch Pfützen, um Spritzer zu vermeiden.",
+                "hu": "Hajts lassan a tócsákban a felfröccsenő víz ellen.",
+                "ro": "Mergeți încet prin bălți pentru a evita stropirea.",
+                "en": "Ride slowly through puddles to avoid splashing."
+              }
+            },
+            {
+              "name": "Plaza de los Naranjos & Old Town",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad in den engen Gassen.",
+                "hu": "Told a biciklit a szűk utcákban.",
+                "ro": "Împingeți bicicleta pe străzile înguste.",
+                "en": "Push the bike in the narrow streets."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein Regenponcho ist praktischer als ein Schirm beim Radeln.",
+              "Prüfen Sie die Bremsen vor der Abfahrt auf Nässe.",
+              "Meiden Sie lackierte Markierungen auf dem Boden.",
+              "Kürzen Sie die Strecke bei starkem Wind ab."
+            ],
+            "hu": [
+              "Az esőponcsó praktikusabb kerékpározáshoz, mint az esernyő.",
+              "Indulás előtt ellenőrizd a fékek hatékonyságát nedves úton.",
+              "Kerüld a felfestett útburkolati jeleket.",
+              "Erős szél esetén rövidítsd le az útvonalat."
+            ],
+            "ro": [
+              "Pelerina de ploaie este mai practică decât umbrela pe bicicletă.",
+              "Verificați frânele pe carosabil umed înainte de plecare.",
+              "Evitați marcajele vopsite pe asfalt.",
+              "Scurtați traseul în caz de vânt puternic."
+            ],
+            "en": [
+              "A rain poncho is more practical than an umbrella while cycling.",
+              "Check your brakes for wet performance before starting.",
+              "Avoid painted markings on the ground.",
+              "Shorten the route in case of strong winds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintersonne am Paseo Marítimo ist perfekt für eine Radtour. Mittags radeln wir entlang der Golden Mile bis Puerto Banús, ohne von der Hitze erschöpft zu sein. Der Nachmittag bietet klare Sicht auf die afrikanische Küste. Abends kehren wir nach Marbella zurück, während die Brise kühler wird.",
+            "hu": "A Paseo Marítimo téli napsütése tökéletes a kerékpározáshoz. Délben a Golden Mile mentén tekerünk Puerto Banúsig anélkül, hogy a hőség kimerítene. Délután tiszta a kilátás az afrikai partok felé. Este érünk vissza Marbellára, miközben a tengeri fuvallat egyre hűvösebb lesz.",
+            "ro": "Soarele de iarnă pe Paseo Marítimo este perfect pentru o tură cu bicicleta. La prânz pedalăm pe Golden Mile până în Puerto Banús fără a fi epuizați de căldură. După-amiaza oferă o vedere clară spre coasta Africii. Seara ne întoarcem în Marbella, pe măsură ce briza devine mai rece.",
+            "en": "The winter sun on Paseo Marítimo is perfect for cycling. At noon, we pedal along the Golden Mile to Puerto Banús without being exhausted by the heat. The afternoon offers clear views toward the African coast. In the evening, we return to Marbella as the sea breeze turns cooler."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start on the Promenade",
+              "tip_5lang": {
+                "de": "Handschuhe schützen vor dem kalten Fahrtwind.",
+                "hu": "A kesztyű megvéd a hideg menetszéltől.",
+                "ro": "Mănușile vă protejează de vântul rece.",
+                "en": "Gloves protect you from the cold wind."
+              }
+            },
+            {
+              "name": "Ride along the Golden Mile",
+              "tip_5lang": {
+                "de": "Weniger Fußgänger ermöglichen ein flüssiges Fahren.",
+                "hu": "A kevesebb gyalogos folyamatosabb haladást tesz lehetővé.",
+                "ro": "Mai puțini pietoni permit o deplasare fluidă.",
+                "en": "Fewer pedestrians allow for a smoother ride."
+              }
+            },
+            {
+              "name": "Puerto Banús",
+              "tip_5lang": {
+                "de": "Die Sonne reflektiert stark auf dem Wasser, Brille mitnehmen.",
+                "hu": "A nap erősen tükröződik a vízen, vigyél napszemüveget.",
+                "ro": "Soarele reflectă puternic în apă, purtați ochelari.",
+                "en": "The sun reflects strongly on the water, bring sunglasses."
+              }
+            },
+            {
+              "name": "Lunch in Puerto Banús",
+              "tip_5lang": {
+                "de": "Genießen Sie ein warmes Gazpachuelo Malagueño.",
+                "hu": "Kóstolj meg egy meleg malagai Gazpachuelót.",
+                "ro": "Savurați un Gazpachuelo Malagueño cald.",
+                "en": "Enjoy a warm Malagan Gazpachuelo."
+              }
+            },
+            {
+              "name": "Ride back to Marbella & Alameda Park",
+              "tip_5lang": {
+                "de": "Am späten Nachmittag wird es im Schatten der Gebäude kühl.",
+                "hu": "Késő délután az épületek árnyékában hűvös lesz.",
+                "ro": "După-amiaza târziu se face răcoare la umbra clădirilor.",
+                "en": "In the late afternoon, it gets chilly in the shadows of buildings."
+              }
+            },
+            {
+              "name": "Plaza de los Naranjos & Old Town",
+              "tip_5lang": {
+                "de": "Das Licht der tiefstehenden Sonne ist ideal für Fotos.",
+                "hu": "Az alacsonyan járó nap fénye ideális fotózáshoz.",
+                "ro": "Lumina soarelui la apus este ideală pentru fotografii.",
+                "en": "The low winter sun is ideal for photography."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf die kühle Meeresbrise am Nachmittag.",
+              "Die Fahrradwege sind im Winter leerer und sicherer.",
+              "Packen Sie eine leichte Windjacke ein.",
+              "Planen Sie die Rückkehr vor Sonnenuntergang (ca. 18:00)."
+            ],
+            "hu": [
+              "Figyelj a hűvös tengeri szélre délután.",
+              "A kerékpárutak télen üresebbek és biztonságosabbak.",
+              "Csomagolj be egy könnyű széldzsekit.",
+              "Tervezd a visszaérkezést naplemente elé (kb. 18:00)."
+            ],
+            "ro": [
+              "Atenție la briza rece a mării după-amiaza.",
+              "Pistele de biciclete sunt mai libere și mai sigure iarna.",
+              "Luați o jachetă ușoară împotriva vântului.",
+              "Plănuiți întoarcerea înainte de apus (cca. ora 18:00)."
+            ],
+            "en": [
+              "Watch out for the cool sea breeze in the afternoon.",
+              "Bike paths are emptier and safer in winter.",
+              "Pack a light windbreaker jacket.",
+              "Plan to return before sunset (around 6:00 PM)."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1253,6 +1635,224 @@
           "The streets in the Old Town are for residents only, do not drive in.",
           "A GPS is essential for navigating between the different areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Marbella heute ganz trocken. Morgens parken wir zentrumsnah für die Altstadt. Mittags fahren wir zur Basílica de Vega del Mar, die wir kurz besichtigen. Den Nachmittag verbringen wir beim Shopping in Puerto Banús, wo Parkhäuser direkten Zugang bieten. Abends genießen wir den Meerblick aus einem Restaurantfenster.",
+            "hu": "Autóval ma teljesen szárazon fedezzük fel Marbellát. Reggel a központban parkolunk az óvároshoz. Délben a Basílica de Vega del Marhoz hajtunk egy rövid látogatásra. A délutánt Puerto Banús üzleteiben töltjük, ahol a parkolóházakból közvetlen a bejárás. Este egy étterem ablakából csodáljuk a tengert.",
+            "ro": "Cu mașina explorăm Marbella astăzi fără să ne udăm. Dimineața parcăm aproape de centru pentru orașul vechi. La prânz mergem la Basílica de Vega del Mar pentru o scurtă vizită. După-amiaza o petrecem la cumpărături în Puerto Banús. Seara admirăm marea de la fereastra unui restaurant.",
+            "en": "By car, we explore Marbella today while staying completely dry. In the morning, we park near the center for the Old Town. At noon, we drive to the Basílica de Vega del Mar for a quick visit. We spend the afternoon shopping in Puerto Banús, where parking garages offer direct access. In the evening, we enjoy the sea view from a restaurant window."
+          },
+          "stops": [
+            {
+              "name": "Parking and Start in the Old Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus Avenida del Mar.",
+                "hu": "Használd az Avenida del Mar parkolóházat.",
+                "ro": "Folosiți parcarea subterană Avenida del Mar.",
+                "en": "Use the Avenida del Mar underground parking."
+              }
+            },
+            {
+              "name": "Plaza de los Naranjos",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkhaus, Schirm bereithalten.",
+                "hu": "Rövid séta a parkolótól, legyen nálad esernyő.",
+                "ro": "Drum scurt pe jos din parcare, țineți umbrela la îndemână.",
+                "en": "Short walk from the parking, have an umbrella ready."
+              }
+            },
+            {
+              "name": "Church of the Incarnation & Castle",
+              "tip_5lang": {
+                "de": "Die Burgmauern sind bei Regen schwer begehbar.",
+                "hu": "A várfalak esőben nehezen járhatóak.",
+                "ro": "Zidurile cetății sunt greu de parcurs pe ploaie.",
+                "en": "The castle walls are hard to navigate in the rain."
+              }
+            },
+            {
+              "name": "Drive to Basílica de Vega del Mar",
+              "tip_5lang": {
+                "de": "Die Ruinen sind im Freien, Besuch bei Schauer kurz halten.",
+                "hu": "A romok szabadtéren vannak, zápor esetén rövid látogatás.",
+                "ro": "Ruinele sunt în aer liber, scurtați vizita în caz de aversă.",
+                "en": "Ruins are outdoors, keep the visit short during showers."
+              }
+            },
+            {
+              "name": "Lunch in San Pedro Alcántara",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus am Boulevard.",
+                "hu": "Parkolj a Boulevard alatti parkolóházban.",
+                "ro": "Parcați în parcarea subterană de pe Boulevard.",
+                "en": "Park in the underground garage at the Boulevard."
+              }
+            },
+            {
+              "name": "Drive to Puerto Banús",
+              "tip_5lang": {
+                "de": "Vorsicht bei Aquaplaning auf der N-340.",
+                "hu": "Vigyázz az aquaplaningre az N-340-es úton.",
+                "ro": "Atenție la acvaplanare pe șoseaua N-340.",
+                "en": "Watch out for aquaplaning on the N-340 road."
+              }
+            },
+            {
+              "name": "Shopping & Strolling in Puerto Banús",
+              "tip_5lang": {
+                "de": "El Corte Inglés bietet viele Stunden trockenen Zeitvertreib.",
+                "hu": "Az El Corte Inglés órákig tartó száraz kikapcsolódást nyújt.",
+                "ro": "El Corte Inglés oferă ore întregi de relaxare la adăpost.",
+                "en": "El Corte Inglés offers hours of dry leisure."
+              }
+            },
+            {
+              "name": "Drive to the Golden Mile for Sunset",
+              "tip_5lang": {
+                "de": "Den Sonnenuntergang vom Auto aus genießen.",
+                "hu": "Élvezd a naplementét az autóból.",
+                "ro": "Admirați apusul direct din mașină.",
+                "en": "Admire the sunset from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Tiefgaragen, um trocken in die Gebäude zu kommen.",
+              "Die A-7 kann bei Regen sehr staugefährdet sein.",
+              "Halten Sie die Scheiben beschlagfrei.",
+              "Ein Regenschirm im Auto ist in Marbella Pflicht."
+            ],
+            "hu": [
+              "Használj mélygarázsokat, hogy szárazon juss az épületekbe.",
+              "Az A-7-es úton esőben gyakoriak a dugók.",
+              "Figyelj a szélvédő párátlanítására.",
+              "Egy esernyő az autóban kötelező Marbellán."
+            ],
+            "ro": [
+              "Folosiți parcările subterane pentru a ajunge uscați în clădiri.",
+              "Șoseaua A-7 poate fi foarte aglomerată pe ploaie.",
+              "Asigurați-vă că dezaburiți geamurile.",
+              "O umbrelă în mașină este obligatorie în Marbella."
+            ],
+            "en": [
+              "Use underground parking to enter buildings dry.",
+              "The A-7 road can be very congested during rain.",
+              "Ensure your windshield stays fog-free.",
+              "An umbrella in the car is a must in Marbella."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Fahrt entlang der Küste bei klarer Winterluft herrlich. In der Altstadt finden wir leicht einen Parkplatz. Mittags besuchen wir die antike Basílica, ohne in der Hitze zu schwitzen. Der Nachmittag in Puerto Banús ist entspannt und exklusiv. Zum Sonnenuntergang fahren wir zur Golden Mile, bevor wir uns abends in ein warmes Lokal zurückziehen.",
+            "hu": "Reggel a tiszta téli levegőben csodás az autózás a part mentén. Az óvárosban ilyenkor könnyen találunk parkolót. Délben az antik bazilikát látogatjuk meg izzadás nélkül. A délután Puerto Banúsban nyugodt és exkluzív. Naplementére a Golden Mile-hoz hajtunk, majd este egy meleg étterembe vonulunk vissza.",
+            "ro": "Dimineața, condusul pe coastă în aerul curat de iarnă este minunat. Găsim ușor parcare în orașul vechi. La prânz vizităm basilica antică fără a transpira de căldură. După-amiaza în Puerto Banús este relaxată. Mergem pe Golden Mile pentru apus, apoi ne retragem într-un local călduros.",
+            "en": "In the morning, driving along the coast in the crisp winter air is wonderful. We find parking easily in the Old Town. At noon, we visit the ancient basilica without sweating in the heat. The afternoon in Puerto Banús is relaxed and exclusive. We drive to the Golden Mile for sunset, then retreat to a warm restaurant in the evening."
+          },
+          "stops": [
+            {
+              "name": "Parking and Start in the Old Town",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter deutlich günstiger oder freier.",
+                "hu": "Télen a parkolók jóval olcsóbbak vagy szabadabbak.",
+                "ro": "Parcările sunt mult mai libere iarna.",
+                "en": "Parking is much more available in winter."
+              }
+            },
+            {
+              "name": "Plaza de los Naranjos",
+              "tip_5lang": {
+                "de": "Ideale Zeit für Fotos der historischen Fassaden.",
+                "hu": "Ideális időpont a történelmi homlokzatok fotózásához.",
+                "ro": "Moment ideal pentru poze cu fațadele istorice.",
+                "en": "Ideal time for photos of the historic facades."
+              }
+            },
+            {
+              "name": "Church of the Incarnation & Castle",
+              "tip_5lang": {
+                "de": "Das Licht ist weicher, perfekt für Architekturdetails.",
+                "hu": "A fények lágyabbak, tökéletes az építészeti részletekhez.",
+                "ro": "Lumina este mai blândă, perfectă pentru detalii arhitecturale.",
+                "en": "The light is softer, perfect for architectural details."
+              }
+            },
+            {
+              "name": "Drive to Basílica de Vega del Mar",
+              "tip_5lang": {
+                "de": "Die umliegenden Pinienwälder duften im Winter frisch.",
+                "hu": "A környező fenyvesek télen friss illatúak.",
+                "ro": "Pădurile de pini din jur miros proaspăt iarna.",
+                "en": "The surrounding pine forests smell fresh in winter."
+              }
+            },
+            {
+              "name": "Lunch in San Pedro Alcántara",
+              "tip_5lang": {
+                "de": "Probieren Sie lokale Eintöpfe in den Ventas.",
+                "hu": "Kóstold meg a helyi egytálételeket a Ventákban.",
+                "ro": "Gustați tocănițele locale în restaurantele tip Venta.",
+                "en": "Try local stews in the traditional Ventas."
+              }
+            },
+            {
+              "name": "Drive to Puerto Banús",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt ohne den üblichen Sommerstau.",
+                "hu": "Élvezd az autózást a szokásos nyári dugók nélkül.",
+                "ro": "Bucurați-vă de drum fără aglomerația obișnuită de vară.",
+                "en": "Enjoy the drive without the usual summer traffic."
+              }
+            },
+            {
+              "name": "Shopping & Strolling in Puerto Banús",
+              "tip_5lang": {
+                "de": "Viele Luxuslabels haben Winter-Sales.",
+                "hu": "Sok luxusmárka tart téli kiárusítást.",
+                "ro": "Multe mărci de lux au reduceri de iarnă.",
+                "en": "Many luxury brands have winter sales."
+              }
+            },
+            {
+              "name": "Drive to the Golden Mile for Sunset",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Strand für den besten Blick.",
+                "hu": "Parkolj közvetlen a parton a legjobb kilátásért.",
+                "ro": "Parcați chiar lângă plajă pentru cea mai bună vedere.",
+                "en": "Park right by the beach for the best view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkplatzsuche ist im Winter stressfrei.",
+              "Nutzen Sie die klaren Tage für Panoramafahrten.",
+              "Die Mietwagenpreise sind in der Nebensaison oft niedriger.",
+              "Sonnenschutz im Auto nicht vergessen, die Wintersonne blendet."
+            ],
+            "hu": [
+              "A parkolóhely-keresés télen stresszmentes.",
+              "Használd ki a tiszta napokat panoráma-autózásra.",
+              "A bérautó árak szezonon kívül jóval alacsonyabbak.",
+              "Ne felejtsd a napszemüveget, a téli nap erősen vakíthat."
+            ],
+            "ro": [
+              "Căutarea locului de parcare este relaxantă iarna.",
+              "Folosiți zilele senine pentru trasee panoramice.",
+              "Prețurile la închirieri auto sunt mai mici în extrasezon.",
+              "Nu uitați ochelarii de soare, soarele de iarnă poate fi orbitor."
+            ],
+            "en": [
+              "Searching for parking is stress-free in winter.",
+              "Take advantage of clear days for scenic drives.",
+              "Car rental prices are often lower in the low season.",
+              "Don't forget sunglasses, the winter sun can be blinding."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1669,6 +2269,206 @@
           "Buses can get very crowded in high season, so be prepared to stand.",
           "Validate your ticket when you board the bus."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bringt uns der Bus trocken zum Alameda-Stopp. Von dort ist es ein kurzer Sprung in die Altstadt. Mittags nutzen wir die L-1 Linie nach Puerto Banús, während wir aus dem Fenster den Regen beobachten. Nachmittags erkunden wir die Marina unter schützenden Dächern. Abends kehren wir mit dem Bus ins Zentrum zurück und wärmen uns bei einem Drink auf.",
+            "hu": "Reggel a busz szárazon visz az Alameda megállóig. Onnan csak egy ugrás az óváros. Délben az L-1-es vonalat használjuk Puerto Banús felé, az ablakból figyelve az esőt. Délután a marinát fedett helyek alatt fedezzük fel. Este busszal térünk vissza a központba, és egy ital mellett melegszünk fel.",
+            "ro": "Dimineața autobuzul ne duce uscați la stația Alameda. De acolo e doar un pas până în orașul vechi. La prânz folosim linia L-1 spre Puerto Banús, privind ploaia pe geam. După-amiaza explorăm marina sub zonele acoperite. Seara ne întoarcem cu autobuzul în centru pentru o băutură caldă.",
+            "en": "In the morning, the bus takes us dry to the Alameda stop. From there, it's just a short hop to the Old Town. At noon, we use the L-1 line to Puerto Banús, watching the rain from the window. In the afternoon, we explore the marina under covered areas. In the evening, we return by bus to the center and warm up with a drink."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Alameda Bus Stop",
+              "tip_5lang": {
+                "de": "Das Wartehäuschen bietet Schutz vor Wind und Regen.",
+                "hu": "A buszváró védelmet nyújt a szél és az eső ellen.",
+                "ro": "Adăpostul din stație protejează de vânt și ploaie.",
+                "en": "The bus shelter provides protection from wind and rain."
+              }
+            },
+            {
+              "name": "Alameda Park & Avenida del Mar",
+              "tip_5lang": {
+                "de": "Schneller Durchgang zu den Cafés am Hafen.",
+                "hu": "Gyors átjutási lehetőség a kikötői kávézókhoz.",
+                "ro": "Trecere rapidă spre cafenelele din port.",
+                "en": "Quick passage to the portside cafes."
+              }
+            },
+            {
+              "name": "Walk to the Old Town",
+              "tip_5lang": {
+                "de": "Halten Sie sich unter Balkonen und Vorsprüngen.",
+                "hu": "Haladj az erkélyek és kiszögellések alatt.",
+                "ro": "Mergeți pe sub balcoane și cornișe.",
+                "en": "Keep under balconies and overhangs."
+              }
+            },
+            {
+              "name": "Bus ride to Puerto Banús",
+              "tip_5lang": {
+                "de": "L-1 Bus fährt alle 15-20 Minuten, ideal bei Regen.",
+                "hu": "Az L-1-es busz 15-20 percenként jár, ideális esőben.",
+                "ro": "Autobuzul L-1 circulă la 15-20 minute, ideal pe ploaie.",
+                "en": "L-1 bus runs every 15-20 minutes, ideal in the rain."
+              }
+            },
+            {
+              "name": "Lunch and exploration in Puerto Banús",
+              "tip_5lang": {
+                "de": "Suchen Sie Lokale in der ersten Reihe mit festen Dächern.",
+                "hu": "Keress fix tetővel rendelkező helyeket az első sorban.",
+                "ro": "Căutați localuri în prima linie cu acoperiș fix.",
+                "en": "Look for venues in the front line with solid roofs."
+              }
+            },
+            {
+              "name": "Bus ride back to Marbella Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App 'Avanza Marbella' für Echtzeit-Infos.",
+                "hu": "Használd az 'Avanza Marbella' appot valós idejű infókért.",
+                "ro": "Folosiți aplicația 'Avanza Marbella' pentru info în timp real.",
+                "en": "Use the 'Avanza Marbella' app for real-time info."
+              }
+            },
+            {
+              "name": "Farewell drink in the Old Town",
+              "tip_5lang": {
+                "de": "Urige Weinkeller bieten die beste Atmosphäre bei Regen.",
+                "hu": "A patinás borospincék adják a legjobb hangulatot esőben.",
+                "ro": "Cramele vechi oferă cea mai bună atmosferă pe ploaie.",
+                "en": "Traditional wine cellars offer the best atmosphere in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie eine Mehrfahrtenkarte beim Fahrer oder Kiosk.",
+              "Busse sind bei Regen oft voll, planen Sie Pufferzeit ein.",
+              "Die Haltestellen im Zentrum sind meist überdacht.",
+              "Tragen Sie Kleidung, die in klimatisierten Bussen angenehm ist."
+            ],
+            "hu": [
+              "Vegyél több útra szóló jegyet a sofőrnél vagy újságosnál.",
+              "Esőben a buszok tömöttek lehetnek, számolj rá időt.",
+              "A központi megállók többnyire fedettek.",
+              "Viselj olyan ruhát, ami a klimatizált buszokon is kényelmes."
+            ],
+            "ro": [
+              "Cumpărați un bilet cu mai multe călătorii de la șofer sau chioșc.",
+              "Autobuzele sunt aglomerate pe ploaie, lăsați-vă timp de rezervă.",
+              "Stațiile din centru sunt în mare parte acoperite.",
+              "Purtați haine confortabile pentru autobuzele cu aer condiționat."
+            ],
+            "en": [
+              "Buy a multi-trip card from the driver or a kiosk.",
+              "Buses are often crowded during rain, allow extra time.",
+              "Central bus stops are mostly covered.",
+              "Wear clothing that is comfortable in air-conditioned buses."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir bequem das winterliche Marbella. Morgens flanieren wir durch den sonnigen Alameda-Park. Mittags fahren wir nach Puerto Banús, um die luxuriöse Atmosphäre ohne Sommertrubel zu erleben. Der Nachmittag ist perfekt für einen Spaziergang an der Marina. Abends bringt uns der Transit sicher zurück, während die Lichter der Stadt leuchten.",
+            "hu": "Busszal kényelmesen érjük el a téli Marbellát. Reggel a napfényes Alameda parkban sétálunk. Délben Puerto Banúsba utazunk, hogy élvezzük a luxust a nyári nyüzsgés nélkül. A délután tökéletes egy sétához a marinánál. Este a tömegközlekedés biztonságosan visz vissza a város fényeiben.",
+            "ro": "Ajungem confortabil cu autobuzul în Marbella de iarnă. Dimineața ne plimbăm prin Parcul Alameda însorit. La prânz mergem în Puerto Banús pentru atmosfera de lux fără agitația verii. După-amiaza este perfectă pentru o plimbare în marină. Seara transportul ne duce înapoi în siguranță sub luminile orașului.",
+            "en": "We comfortably reach wintery Marbella by bus. In the morning, we stroll through the sunny Alameda Park. At noon, we travel to Puerto Banús to experience the luxury without the summer hustle. The afternoon is perfect for a walk by the marina. In the evening, transit safely takes us back as the city lights shine."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Alameda Bus Stop",
+              "tip_5lang": {
+                "de": "Zentraler Ausgangspunkt für alle Winteraktivitäten.",
+                "hu": "Központi kiindulópont minden téli tevékenységhez.",
+                "ro": "Punct central de plecare pentru toate activitățile de iarnă.",
+                "en": "Central starting point for all winter activities."
+              }
+            },
+            {
+              "name": "Alameda Park & Avenida del Mar",
+              "tip_5lang": {
+                "de": "Die Keramikbänke sind im Winter oft kühl, Sitzkissen nutzen.",
+                "hu": "A kerámiapadok télen hűvösek, érdemes alátétet használni.",
+                "ro": "Băncile de ceramică sunt reci iarna, folosiți ceva sub voi.",
+                "en": "Ceramic benches are chilly in winter, use a seat pad."
+              }
+            },
+            {
+              "name": "Walk to the Old Town",
+              "tip_5lang": {
+                "de": "Wintersonne in den Gassen genießen, kaum Schatten nötig.",
+                "hu": "Élvezd a téli napot az utcákon, alig van szükség árnyékra.",
+                "ro": "Bucurați-vă de soarele de iarnă, umbra nu e necesară.",
+                "en": "Enjoy the winter sun in the streets, shade is hardly needed."
+              }
+            },
+            {
+              "name": "Bus ride to Puerto Banús",
+              "tip_5lang": {
+                "de": "Sichern Sie sich einen Fensterplatz für die Küstensicht.",
+                "hu": "Foglalj ablak melletti helyet a parti kilátásért.",
+                "ro": "Ocupați un loc la geam pentru vederea spre coastă.",
+                "en": "Grab a window seat for the coastal view."
+              }
+            },
+            {
+              "name": "Lunch and exploration in Puerto Banús",
+              "tip_5lang": {
+                "de": "Die Sonne wärmt mittags die Hafenpromenade auf.",
+                "hu": "A nap délben kellemesen felmelegíti a kikötői sétányt.",
+                "ro": "Soarele încălzește faleza portului la prânz.",
+                "en": "The sun warms up the harbor promenade at noon."
+              }
+            },
+            {
+              "name": "Bus ride back to Marbella Center",
+              "tip_5lang": {
+                "de": "Letzte Busse fahren auch im Winter bis spät abends.",
+                "hu": "Az utolsó buszok télen is késő estig járnak.",
+                "ro": "Ultimele autobuze circulă până târziu chiar și iarna.",
+                "en": "Last buses run until late evening even in winter."
+              }
+            },
+            {
+              "name": "Farewell drink in the Old Town",
+              "tip_5lang": {
+                "de": "Probieren Sie Churros mit heißer Schokolade.",
+                "hu": "Kóstold meg a churrost forró csokoládéval.",
+                "ro": "Gustați churros cu ciocolată caldă.",
+                "en": "Try churros with hot chocolate."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter pünktlicher als im Sommer.",
+              "Nutzen Sie die Zeitkarte 'Bonobús' für Ersparnisse.",
+              "Abends ist es an den Haltestellen am Meer windig.",
+              "Die Frequenz der Busse bleibt ganzjährig stabil."
+            ],
+            "hu": [
+              "A buszok télen pontosabbak, mint nyáron.",
+              "Használd a 'Bonobús' kártyát a spóroláshoz.",
+              "Este a tengerparti megállókban szeles lehet az idő.",
+              "A buszok járatsűrűsége egész évben stabil marad."
+            ],
+            "ro": [
+              "Autobuzele sunt mai punctuale iarna decât vara.",
+              "Folosiți cardul 'Bonobús' pentru economii.",
+              "Seara este vânt în stațiile de lângă mare.",
+              "Frecvența autobuzelor rămâne stabilă tot anul."
+            ],
+            "en": [
+              "Buses are more punctual in winter than in summer.",
+              "Use the 'Bonobús' card for savings.",
+              "It can be windy at the seaside bus stops in the evening.",
+              "The frequency of buses remains stable year-round."
+            ]
+          }
+        }
       }
     }
   }

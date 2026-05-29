@@ -358,6 +358,196 @@
           "Check the weather forecast; an umbrella is always a good idea in Northern Ireland.",
           "Most shops close around 5:30 PM, so plan your shopping accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag trocken im Braid Arts Centre, wo Ausstellungen Schutz vor dem Regen bieten. Mittags finden Sie in den Einkaufspassagen des Zentrums einen warmen Ort für den Lunch. Der Nachmittag führt trotz Schauern zum St. Patrick's und dem People's Park, wobei die Bäume etwas Schutz bieten. Den Abend lassen Sie gemütlich in einem der Pubs im Zentrum bei prasselndem Regen ausklingen.",
+            "hu": "Kezdje a napot a fedett Braid Arts Centre-ben, ahol a kiállítások között megvárhatja az eső elcsendesedését. Ebédidőben a belváros passzázsai kínálnak menedéket a csapadék elől. Délután tegyen egy gyors sétát a People's Parkban esernyővel, élvezve a friss illatokat. Az estét egy barátságos belvárosi vendéglátóhelyen zárja, hallgatva az ablakon kopogó esőt.",
+            "ro": "Începeți ziua la adăpost în Centrul de Artă Braid, explorând muzeul în timp ce afară plouă. La prânz, alegeți restaurantele din centru pentru a rămâne uscat. După-amiaza, o vizită rapidă la Biserica Sf. Patrick și o plimbare cu umbrela prin People's Park vă vor revigora. Seara se încheie perfect într-un pub călduros, ferit de vremea capricioasă de afară.",
+            "en": "Start your day dry at The Braid Arts Centre, exploring exhibits while the rain falls outside. At midday, the town centre's covered spots provide a perfect refuge for lunch. In the afternoon, a brisk walk through People's Park with an umbrella offers a fresh experience. End your evening in a cozy central pub, safe from the damp Northern Irish weather."
+          },
+          "stops": [
+            {
+              "name": "The Braid Arts & Museum Centre",
+              "tip_5lang": {
+                "de": "Perfekter Zufluchtsort bei Regen; besuchen Sie das Museum im Obergeschoss.",
+                "hu": "Ideális búvóhely esőben; nézze meg az emeleti múzeumot.",
+                "ro": "Refugiul perfect pe ploaie; vizitați muzeul de la etaj.",
+                "en": "Perfect refuge during rain; visit the museum on the upper floor."
+              }
+            },
+            {
+              "name": "Ballymena War Memorial",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; die Statuen wirken im Regen besonders stimmungsvoll.",
+                "hu": "Gyors megálló; a szobrok esőben különleges hangulatot árasztanak.",
+                "ro": "Oprire scurtă; statuile au o atmosferă aparte în ploaie.",
+                "en": "Short stop; the statues have a unique atmosphere in the rain."
+              }
+            },
+            {
+              "name": "St. Patrick's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den ruhigen Innenraum für eine besinnliche Pause im Trockenen.",
+                "hu": "Használja ki a csendes belső teret egy száraz pihenőre.",
+                "ro": "Folosiți interiorul liniștit pentru o pauză uscată și meditativă.",
+                "en": "Use the quiet interior for a dry, reflective break."
+              }
+            },
+            {
+              "name": "Lunch in the Town Centre",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café in der Fairhill oder Tower Centre Mall.",
+                "hu": "Válasszon egy kávézót a Fairhill vagy a Tower Centre plázában.",
+                "ro": "Alegeți o cafenea în Fairhill sau în Tower Centre Mall.",
+                "en": "Choose a cafe within the Fairhill or Tower Centre Mall."
+              }
+            },
+            {
+              "name": "People's Park",
+              "tip_5lang": {
+                "de": "Feste Wege nutzen, da die Rasenflächen schnell matschig werden.",
+                "hu": "Maradjon a burkolt utakon, a fű esőben hamar felázik.",
+                "ro": "Rămâneți pe alei, gazonul devine rapid noroios la ploaie.",
+                "en": "Stick to the paved paths as the grass gets muddy quickly."
+              }
+            },
+            {
+              "name": "Ecos Centre and Parklands",
+              "tip_5lang": {
+                "de": "Das Besucherzentrum bietet interaktive Ausstellungen und Schutz.",
+                "hu": "A látogatóközpont interaktív kiállításokat és védelmet nyújt.",
+                "ro": "Centrul de vizitatori oferă expoziții interactive și protecție.",
+                "en": "The visitor centre offers interactive exhibits and shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Wege im Park Pfützen bilden können.",
+              "Nutzen Sie die Fairhill Shopping Mall für überdachte Wege zwischen den Stopps.",
+              "Die Museen in Ballymena sind montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Ein Taschenschirm ist bei dem oft windigen Regen in Nordirland unerlässlich.",
+              "Planen Sie längere Pausen in den Cafés der Bridge Street ein."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a parki utakon tócsák alakulhatnak ki.",
+              "Használja a Fairhill bevásárlóközpontot a fedett közlekedéshez.",
+              "A múzeumok hétfőnként zárva tarthatnak, ellenőrizze az időpontokat.",
+              "Az északír szeles esőben egy stabil esernyő elengedhetetlen.",
+              "Tervezzen hosszabb pihenőket a Bridge Street kávézóiban."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pot apărea bălți pe aleile din parc.",
+              "Folosiți Fairhill Shopping Mall pentru a merge la adăpost între opriri.",
+              "Muzeele sunt adesea închise lunea, verificați programul înainte.",
+              "O umbrelă rezistentă este esențială pentru ploaia vântoasă din Irlanda de Nord.",
+              "Planificați pauze mai lungi în cafenelele de pe Bridge Street."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles often form on park paths.",
+              "Use Fairhill Shopping Mall for covered transit between stops.",
+              "Ballymena museums are often closed on Mondays; check opening times.",
+              "A sturdy umbrella is essential for the windy Northern Irish rain.",
+              "Plan longer breaks in the cafes around Bridge Street."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den frischen Wintermorgen im Braid Museum, wo die Heizung für Wohlbehagen sorgt. Das Mittagessen im Stadtzentrum wärmt Sie für den kurzen Spaziergang zum winterlichen St. Patrick's auf. Da die Sonne bereits um 16:00 Uhr untergeht, besuchen Sie den People's Park im letzten Tageslicht. Der Abend gehört der warmen Gastfreundschaft in den beleuchteten Straßen Ballymenas.",
+            "hu": "Élvezze a friss téli reggelt a Braid Múzeumban, ahol a fűtés kellemes meleget ad. A belvárosi ebéd felmelegíti a rövid sétához a téli fényben úszó Szent Patrik templomhoz. Mivel a nap már 16:00 körül nyugszik, a People's Parkot még az utolsó világos órákban látogassa meg. Az estét töltse Ballymena kivilágított utcáinak barátságos vendéglőiben.",
+            "ro": "Bucurați-vă de o dimineață răcoroasă de iarnă la Muzeul Braid, unde căldura interioară este primitoare. Prânzul în centrul orașului vă va încălzi pentru scurta plimbare spre Biserica Sf. Patrick. Deoarece soarele apune în jurul orei 16:00, vizitați People's Park în ultimele raze de lumină. Seara aparține ospitalității calde de pe străzile luminate ale orașului.",
+            "en": "Enjoy a crisp winter morning at The Braid Museum, where the indoor heating is welcoming. Midday lunch in the town centre warms you up for a short walk to the wintry St. Patrick's. As the sun sets around 4 PM, visit People's Park during the last golden hour. Your evening is best spent enjoying the warm hospitality in Ballymena's illuminated streets."
+          },
+          "stops": [
+            {
+              "name": "The Braid Arts & Museum Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für schwere Wintermäntel während des Besuchs.",
+                "hu": "Használja a ruhatárat a nehéz téli kabátokhoz a látogatás alatt.",
+                "ro": "Folosiți garderoba pentru hainele grele de iarnă în timpul vizitei.",
+                "en": "Use the cloakroom for heavy winter coats during your visit."
+              }
+            },
+            {
+              "name": "Ballymena War Memorial",
+              "tip_5lang": {
+                "de": "Zügiger Stopp; achten Sie auf glatte Stellen auf dem Pflaster.",
+                "hu": "Gyors megálló; ügyeljen a jeges foltokra a kövezeten.",
+                "ro": "Oprire rapidă; atenție la porțiunile alunecoase de pe pavaj.",
+                "en": "Quick stop; watch out for slippery patches on the pavement."
+              }
+            },
+            {
+              "name": "St. Patrick's Church",
+              "tip_5lang": {
+                "de": "Die Kerzenlichter im Inneren schaffen eine warme Winteratmosphäre.",
+                "hu": "A belső gyertyafények meleg téli hangulatot árasztanak.",
+                "ro": "Luminile lumânărilor din interior creează o atmosferă caldă de iarnă.",
+                "en": "The candlelights inside create a warm winter atmosphere."
+              }
+            },
+            {
+              "name": "Lunch in the Town Centre",
+              "tip_5lang": {
+                "de": "Probieren Sie einen 'Irish Stew' zur inneren Aufwärmung.",
+                "hu": "Kóstoljon meg egy melengető ír ragut (Irish Stew).",
+                "ro": "Încercați un 'Irish Stew' pentru a vă încălzi din interior.",
+                "en": "Try a warming 'Irish Stew' to heat up from the inside."
+              }
+            },
+            {
+              "name": "People's Park",
+              "tip_5lang": {
+                "de": "Die Teiche können gefroren sein; ideal für Winterfotos.",
+                "hu": "A tavak be lehetnek fagyva; ideális téli fotótéma.",
+                "ro": "Iazurile pot fi înghețate; ideal pentru fotografii de iarnă.",
+                "en": "The ponds might be frozen; ideal for winter photography."
+              }
+            },
+            {
+              "name": "Ecos Centre and Parklands",
+              "tip_5lang": {
+                "de": "Vogelbeobachtung ist im Winter besonders lohnenswert.",
+                "hu": "A madármegfigyelés télen különösen látványos itt.",
+                "ro": "Observarea păsărilor este deosebit de interesantă iarna aici.",
+                "en": "Birdwatching is particularly rewarding here during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Dunkelheit setzt früh ein (ca. 16:00 Uhr); planen Sie Außenaktivitäten früh.",
+              "Warme Schichten und Handschuhe sind wegen des Windchills wichtig.",
+              "Achten Sie auf Glatteis auf den Parkwegen am frühen Morgen.",
+              "Viele Cafés schließen im Winter etwas früher; prüfen Sie die Zeiten.",
+              "Genießen Sie die festliche Beleuchtung in der Castle Street am Abend."
+            ],
+            "hu": [
+              "Korán sötétedik (kb. 16:00); a kinti programokat tervezze korábbra.",
+              "A réteges öltözködés és kesztyű a hideg szél miatt fontos.",
+              "Kora reggel ügyeljen a jegesedésre a parki utakon.",
+              "Sok kávézó télen korábban zár; ellenőrizze a nyitvatartást.",
+              "Élvezze a Castle Street ünnepi fényeit az esti órákban."
+            ],
+            "ro": [
+              "Se întunecă devreme (aprox. 16:00); planificați activitățile externe dimineața.",
+              "Hainele în straturi și mănușile sunt vitale din cauza vântului rece.",
+              "Atenție la polei pe aleile din parc la primele ore ale dimineții.",
+              "Multe cafenele închid mai devreme iarna; verificați programul.",
+              "Bucurați-vă de iluminatul festiv de pe Castle Street seara."
+            ],
+            "en": [
+              "Darkness sets in early (approx 4 PM); plan outdoor activities early.",
+              "Warm layers and gloves are vital due to the wind chill.",
+              "Watch for black ice on park paths in the early morning.",
+              "Many cafes close slightly earlier in winter; check schedules.",
+              "Enjoy the festive lights on Castle Street in the evening."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -710,6 +900,196 @@
           "Bring water and snacks, especially for the ride out to Galgorm Castle.",
           "Always lock your bike securely at each stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag beginnt am People's Park, wo nasse Wege Vorsicht erfordern. Das Braid Centre bietet eine trockene Pause zur Kulturpflege. Mittags geht es zügig zum St. Patrick's und weiter zum Ecos Centre, wo die Natur im Regen kräftig leuchtet. Ein kurzer Blick auf Galgorm Castle im Nebel rundet die Tour ab, bevor Sie sich im Zentrum bei einem heißen Getränk aufwärmen.",
+            "hu": "Az esős bringás nap a People's Parkban indul, ahol a nedves utak óvatosságot igényelnek. A Braid Centre kulturális menedéket nyújt a záporok elől. Délben tekerjen el a Szent Patrik templomhoz, majd az Ecos Centre-be, ahol az esőben kivirul a természet. A ködös Galgorm Castle után a belvárosban, egy forró ital mellett pihenheti ki az út fáradalmait.",
+            "ro": "O zi ploioasă pe bicicletă începe în People's Park, unde aleile umede cer prudență. Centrul Braid oferă o pauză culturală uscată. La prânz, pedalați spre Biserica Sf. Patrick și Ecos Centre, unde natura strălucește în ploaie. O privire spre Galgorm Castle în ceață încheie turul, înainte de a vă încălzi în centru cu o băutură fierbinte.",
+            "en": "A rainy cycling day starts at People's Park, where wet paths require extra caution. The Braid Centre provides a dry cultural break from the showers. Midday, pedal to St. Patrick's and the Ecos Centre, where nature looks vibrant in the rain. A quick view of Galgorm Castle in the mist rounds off the tour before warming up with a hot drink in the centre."
+          },
+          "stops": [
+            {
+              "name": "Start at People's Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem Laub auf den Radwegen.",
+                "hu": "Vigyázat, a vizes levelek csúszóssá teszik a kerékpárutat.",
+                "ro": "Atenție la frunzele umede, pot fi alunecoase pe pistă.",
+                "en": "Caution: wet leaves can make the cycle paths slippery."
+              }
+            },
+            {
+              "name": "The Braid Arts & Museum Centre",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich direkt vor dem Eingang.",
+                "hu": "Biztonságos biciklitárolók találhatók közvetlenül a bejáratnál.",
+                "ro": "Suporturi de biciclete sigure se află chiar în fața intrării.",
+                "en": "Secure bike racks are available right in front of the entrance."
+              }
+            },
+            {
+              "name": "St. Patrick's Church",
+              "tip_5lang": {
+                "de": "Kurze Pause im Trockenen; der Turm ist im Regen ein tolles Fotomotiv.",
+                "hu": "Rövid száraz pihenő; a torony esőben is remek fotótéma.",
+                "ro": "Pauză scurtă la uscat; turnul este un subiect foto bun și pe ploaie.",
+                "en": "Short dry break; the tower is a great photo subject even in rain."
+              }
+            },
+            {
+              "name": "Ecos Centre and Parklands",
+              "tip_5lang": {
+                "de": "Die Wege hier sind gut drainiert, aber achten Sie auf Pfützen.",
+                "hu": "Az utak jól vezetettek, de ügyeljen a mélyebb tócsákra.",
+                "ro": "Aleile sunt bine drenate, dar atenție la bălțile mari.",
+                "en": "Paths are well-drained here, but watch out for deep puddles."
+              }
+            },
+            {
+              "name": "Galgorm Castle & Golf Club (External View)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick, bleiben Sie aber für besseren Grip auf dem Asphalt.",
+                "hu": "Élvezze a látványt, de a tapadás miatt maradjon az aszfalton.",
+                "ro": "Admirați vederea, dar rămâneți pe asfalt pentru aderență.",
+                "en": "Enjoy the view, but stay on the asphalt for better grip."
+              }
+            },
+            {
+              "name": "Return to Town Centre for wind-down",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Café mit Sicht auf Ihr Fahrrad.",
+                "hu": "Keressen olyan kávézót, ahonnan rálát a kerékpárjára.",
+                "ro": "Căutați o cafenea de unde vă puteți vedea bicicleta.",
+                "en": "Find a cafe where you can keep an eye on your bike."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Vermeiden Sie metallische Oberflächen wie Kanaldeckel, sie sind extrem glatt.",
+              "Tragen Sie eine gut sichtbare Regenjacke (Neonfarben/Reflektoren).",
+              "Bremsen Sie frühzeitig, da Bremsbeläge bei Nässe länger brauchen.",
+              "Ein wasserdichter Sattelbezug hält Ihr Hinterteil trocken."
+            ],
+            "hu": [
+              "Használjon sárvédőt, hogy megvédje magát a felcsapódó víztől.",
+              "Kerülje a fémfelületeket (pl. csatornafedél), mert rendkívül csúsznak.",
+              "Viseljen jól látható, fényvisszaverős esőkabátot.",
+              "Fékezzen időben, mert nedves úton megnő a fékút.",
+              "Egy vízhatlan nyereghuzat sokat segíthet a komfortérzeten."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a vă proteja de apă și noroi.",
+              "Evitați suprafețele metalice (capace de canal), sunt extrem de alunecoase.",
+              "Purtați o jachetă de ploaie reflectorizantă sau în culori neon.",
+              "Frânați din timp, distanța de frânare crește pe carosabil umed.",
+              "O husă impermeabilă pentru șa vă va menține uscat."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from road spray.",
+              "Avoid metal surfaces like manhole covers; they are extremely slippery.",
+              "Wear high-visibility waterproof gear (neon colors/reflectors).",
+              "Brake earlier as wet rims/pads require more time to stop.",
+              "A waterproof saddle cover will keep your seat dry during stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie dick eingepackt am People's Park in den winterlichen Tag. Das Braid Centre bietet die nötige Aufwärmpause bei historischem Ambiente. Mittags radeln Sie durch die klare Luft zum St. Patrick's und weiter zum Ecos Park, wo Reif die Wiesen bedeckt. Ein schneller Abstecher zum Galgorm Castle, bevor das Licht schwindet, führt Sie zurück ins Zentrum zur wohlverdienten heißen Schokolade.",
+            "hu": "Öltözzön rétegesen a People's Parkban induló téli tekeréshez. A Braid Centre biztosítja a szükséges melegedőt történelmi környezetben. Délben a friss levegőn guruljon el a Szent Patrik templomhoz, majd az Ecos Parkba, ahol zúzmara fedi a réteket. Egy gyors Galgorm Castle látogatás után, még sötétedés előtt érjen vissza a belvárosba egy forró csokira.",
+            "ro": "Porniți bine echipat din People's Park în această zi de iarnă. Centrul Braid oferă pauza necesară de încălzire într-un decor istoric. La prânz, pedalați prin aerul curat spre Biserica Sf. Patrick și Ecos Park, unde chiciura acoperă pajiștile. O scurtă vizită la Galgorm Castle înainte de apus vă va readuce în centru pentru o ciocolată caldă.",
+            "en": "Start well-layered at People's Park for a crisp winter ride. The Braid Centre offers a much-needed warm-up break in a historical setting. Midday, cycle through the clear air to St. Patrick's and Ecos Park, where frost covers the meadows. A quick trip to Galgorm Castle before the light fades leads you back to the centre for a well-deserved hot chocolate."
+          },
+          "stops": [
+            {
+              "name": "Start at People's Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; etwas weniger Druck gibt besseren Grip.",
+                "hu": "Ellenőrizze a guminyomást; a kicsit puhább gumi jobban tapad télen.",
+                "ro": "Verificați presiunea; o presiune mai mică oferă aderență mai bună.",
+                "en": "Check tire pressure; slightly lower pressure gives better grip on frost."
+              }
+            },
+            {
+              "name": "The Braid Arts & Museum Centre",
+              "tip_5lang": {
+                "de": "Tauchen Sie die Hände im warmen Waschraum auf.",
+                "hu": "Melegítse fel átfagyott kezeit a mosdó meleg vizénél.",
+                "ro": "Încălziți-vă mâinile înghețate la apa caldă din toaletă.",
+                "en": "Warm up your hands in the warm restroom facilities."
+              }
+            },
+            {
+              "name": "St. Patrick's Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille, bevor Sie gegen den kalten Wind weiterfahren.",
+                "hu": "Élvezze a csendet, mielőtt a hideg szélben továbbtekerne.",
+                "ro": "Bucurați-vă de liniște înainte de a pedala prin vântul rece.",
+                "en": "Enjoy the silence before cycling on against the cold wind."
+              }
+            },
+            {
+              "name": "Ecos Centre and Parklands",
+              "tip_5lang": {
+                "de": "Achten Sie auf schattige Kurven, dort hält sich Eis am längsten.",
+                "hu": "Ügyeljen az árnyékos kanyarokra, ott maradhat meg legtovább a jég.",
+                "ro": "Atenție la curbele umbrite, gheața persistă mai mult acolo.",
+                "en": "Watch out for shaded curves where ice lingers the longest."
+              }
+            },
+            {
+              "name": "Galgorm Castle & Golf Club (External View)",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne kann blenden; tragen Sie eine Sportbrille.",
+                "hu": "Az alacsony nap elvakíthat; viseljen sportnapszemüveget.",
+                "ro": "Soarele jos vă poate orbi; purtați ochelari de sport.",
+                "en": "The low winter sun can be blinding; wear sports sunglasses."
+              }
+            },
+            {
+              "name": "Return to Town Centre for wind-down",
+              "tip_5lang": {
+                "de": "Lichter an! Die Dämmerung setzt hier im Winter sehr früh ein.",
+                "hu": "Lámpákat fel! A szürkület télen már korán beköszönt.",
+                "ro": "Aprindeți luminile! Amurgul se instalează foarte devreme iarna.",
+                "en": "Lights on! Twilight starts very early here during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Windstopper-Handschuhe gegen taube Finger.",
+              "Stellen Sie sicher, dass Ihre Beleuchtung (vorne/hinten) voll geladen ist.",
+              "Halten Sie die Kette gut geölt, um sie vor Streusalz zu schützen.",
+              "Trinken Sie auch bei Kälte genug, am besten Tee aus der Thermoskanne.",
+              "Tragen Sie eine dünne Mütze unter dem Helm gegen den Wärmeverlust."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt az elgémberedett ujjak ellen.",
+              "Győződjön meg róla, hogy a lámpái teljesen fel vannak töltve.",
+              "Tartsa olajozottan a láncot a sós hólé elleni védekezésül.",
+              "Hidegben is igyon eleget, legjobb a termoszban vitt tea.",
+              "Viseljen vékony sapkát a sisak alatt a hőveszteség csökkentésére."
+            ],
+            "ro": [
+              "Purtați mănuși windstopper pentru a evita amorțirea degetelor.",
+              "Asigurați-vă că luminile (față/spate) sunt complet încărcate.",
+              "Mențineți lanțul bine uns pentru a-l proteja de sarea de pe drum.",
+              "Beți suficiente lichide; un ceai în termos este ideal.",
+              "Purtați o căciulă subțire sub cască pentru a reține căldura."
+            ],
+            "en": [
+              "Wear windstopper gloves to prevent numb fingers.",
+              "Ensure your bike lights (front/rear) are fully charged.",
+              "Keep the chain well-oiled to protect it from road salt.",
+              "Stay hydrated even in the cold; warm tea in a thermos is best.",
+              "Wear a thin thermal cap under your helmet to prevent heat loss."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1086,6 +1466,214 @@
           "Hiking boots are essential for Slemish.",
           "Parking in Ballymena town centre is paid, so have coins ready."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag im Auto beginnt gemütlich bei Arthur Cottage. Danach geht es zum Slemish Mountain, wo die Wolken tief hängen und eine mystische Stimmung erzeugen (kurzer Fotostopp reicht). Das Mittagessen im trockenen Broughshane stärkt Sie für den Besuch im Braid Museum. Den Tag lassen Sie mit einer Fahrt zum St. Patrick's und den Galgorm Grounds ausklingen, geschützt vor dem nordirischen Wetter.",
+            "hu": "Az esős autós túra az Arthur Cottage-nál indul. Ezután a Slemish-hegy következik, ahol az alacsonyan szálló felhők misztikus hangulatot árasztanak (egy gyors fotómegálló is elég). A száraz broughshane-i ebéd után várja a Braid Múzeum kulturális kínálata. A napot a Szent Patrik templom és a Galgorm birtok megtekintésével zárja, végig védve az északír esőtől.",
+            "ro": "O zi ploioasă cu mașina începe confortabil la Arthur Cottage. Urmează Muntele Slemish, unde norii joși creează o atmosferă mistică (o oprire foto e suficientă). Prânzul în Broughshane vă pregătește pentru vizita la Muzeul Braid. Încheiați ziua cu Biserica Sf. Patrick și domeniul Galgorm, fiind protejat de intemperiile nord-irlandeze.",
+            "en": "A rainy day by car starts comfortably at Arthur Cottage. Next is Slemish Mountain, where low clouds create a mystical mood (a quick photo stop is enough). Lunch in dry Broughshane prepares you for the Braid Museum. End your day visiting St. Patrick's and the Galgorm grounds, staying shielded from the Northern Irish rain."
+          },
+          "stops": [
+            {
+              "name": "Arthur Cottage",
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor; das Strohdach sieht im Regen toll aus.",
+                "hu": "Parkoljon közvetlenül előtte; a nádtető esőben is remekül mutat.",
+                "ro": "Parcați chiar în față; acoperișul de stuf arată excelent pe ploaie.",
+                "en": "Park right in front; the thatched roof looks great in the rain."
+              }
+            },
+            {
+              "name": "Hike at Slemish Mountain",
+              "tip_5lang": {
+                "de": "Vorsicht, der Pfad ist bei Nässe sehr rutschig und schlammig.",
+                "hu": "Vigyázat, az ösvény nedves időben nagyon csúszós és sáros.",
+                "ro": "Atenție, poteca este foarte alunecoasă și noroioasă pe ploaie.",
+                "en": "Caution: the path is very slippery and muddy when wet."
+              }
+            },
+            {
+              "name": "Lunch in Broughshane",
+              "tip_5lang": {
+                "de": "Broughshane hat viele gemütliche Gasthöfe mit Kamin.",
+                "hu": "Broughshane számos hangulatos, kandallós fogadóval várja.",
+                "ro": "Broughshane are multe hanuri primitoare cu șemineu.",
+                "en": "Broughshane has many cozy inns with fireplaces."
+              }
+            },
+            {
+              "name": "Cluster: Ballymena Town Centre (Park)",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser, um trockenen Fußes ins Zentrum zu kommen.",
+                "hu": "Használja a parkolóházakat, hogy szárazon jusson a központba.",
+                "ro": "Folosiți parcările etajate pentru a ajunge uscat în centru.",
+                "en": "Use multi-story car parks to reach the centre staying dry."
+              }
+            },
+            {
+              "name": "The Braid Arts & Museum Centre",
+              "tip_5lang": {
+                "de": "Direkter Zugang vom Parkplatz möglich.",
+                "hu": "Közvetlen bejutás a parkoló felől lehetséges.",
+                "ro": "Acces direct posibil dinspre parcare.",
+                "en": "Direct access possible from the parking area."
+              }
+            },
+            {
+              "name": "St. Patrick's Church",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg; genießen Sie die Architektur vom Auto aus.",
+                "hu": "Csak egy rövid kiszállás; az autóból is szép a látvány.",
+                "ro": "Coborâre scurtă; admirați arhitectura din mașină.",
+                "en": "Short hop out; enjoy the architecture from the car."
+              }
+            },
+            {
+              "name": "Galgorm Castle (Grounds)",
+              "tip_5lang": {
+                "de": "Die Auffahrt bietet auch bei Regen einen herrschaftlichen Anblick.",
+                "hu": "A kocsifelhajtó esőben is impozáns látványt nyújt.",
+                "ro": "Aleea de la intrare oferă o vedere nobilă chiar și pe ploaie.",
+                "en": "The driveway offers a grand view even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt durch das ländliche Antrim.",
+              "Vermeiden Sie das Parken auf unbefestigten Seitenstreifen (Einsinkgefahr).",
+              "Die Landstraßen zum Slemish können bei Starkregen überflutet sein.",
+              "Halten Sie eine Taschenlampe bereit, falls Sie bei Nebel am Slemish aussteigen.",
+              "Nutzen Sie die Sitzheizung für extra Komfort nach kurzen Stopps draußen."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket a vidéki Antrim útjai előtt.",
+              "Kerülje a parkolást a felázott útpadkán (elsüllyedés veszélye).",
+              "A Slemish felé vezető utak heves esőben víz alá kerülhetnek.",
+              "Legyen kéznél zseblámpa, ha ködben szállna ki a Slemishnél.",
+              "Használja az ülésfűtést a rövid kinti megállók után."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a porni prin zonele rurale.",
+              "Evitați parcarea pe acostamente neasfaltate (risc de împotmolire).",
+              "Drumurile spre Slemish pot fi inundate la ploi torențiale.",
+              "Aveți o lanternă la îndemână dacă coborâți la Slemish pe ceață.",
+              "Folosiți încălzirea în scaune pentru confort după opririle scurte."
+            ],
+            "en": [
+              "Check your wipers before driving through rural Antrim.",
+              "Avoid parking on unpaved verges (risk of getting stuck).",
+              "Country roads to Slemish can flood during heavy downpours.",
+              "Keep a flashlight handy if stepping out at Slemish in the fog.",
+              "Use seat heating for extra comfort after short outdoor stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour am stimmungsvollen Arthur Cottage. Danach geht es zum Slemish Mountain, der oft von Reif oder Schnee bedeckt ist (Vorsicht bei der Auffahrt). Ein wärmendes Mittagessen in Broughshane bereitet Sie auf das Braid Museum vor. Da es früh dunkel wird, besuchen Sie St. Patrick's und Galgorm Castle im Scheinwerferlicht, was den historischen Bauten einen besonderen Glanz verleiht.",
+            "hu": "Kezdje a téli túrát a hangulatos Arthur Cottage-nál. Ezután a Slemish-hegy következik, melyet gyakran zúzmara vagy hó fed (vigyázat a felhajtónál). Egy melengető broughshane-i ebéd után irány a Braid Múzeum. Mivel korán sötétedik, a Szent Patrik templomot és a Galgorm kastélyt már díszkivilágításban láthatja, ami különleges fényt ad az épületeknek.",
+            "ro": "Începeți turul de iarnă la pitorescul Arthur Cottage. Urmează Muntele Slemish, adesea acoperit de chiciură sau zăpadă (atenție pe drumul de urcare). Un prânz cald în Broughshane vă pregătește pentru Muzeul Braid. Deoarece se întunecă devreme, vizitați Sf. Patrick și Galgorm Castle la lumina farurilor, oferind un farmec aparte clădirilor.",
+            "en": "Start your winter tour at the atmospheric Arthur Cottage. Next is Slemish Mountain, often covered in frost or snow (careful on the access road). A warming lunch in Broughshane readies you for the Braid Museum. As it gets dark early, visit St. Patrick's and Galgorm Castle under the lights, giving the historic sites a special glow."
+          },
+          "stops": [
+            {
+              "name": "Arthur Cottage",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Cottage für eine Zeitreise im Warmen.",
+                "hu": "Látogasson be a házba egy kis melegedő időutazásra.",
+                "ro": "Vizitați căsuța pentru o călătorie în timp, la căldură.",
+                "en": "Visit the cottage for a warm journey back in time."
+              }
+            },
+            {
+              "name": "Hike at Slemish Mountain",
+              "tip_5lang": {
+                "de": "Auffahrt kann vereist sein; nur bei sicheren Bedingungen hochfahren.",
+                "hu": "A felvezető út jeges lehet; csak biztonságos körülmények közt induljon el.",
+                "ro": "Drumul poate fi înghețat; urcați doar în condiții sigure.",
+                "en": "The access road can be icy; only drive up in safe conditions."
+              }
+            },
+            {
+              "name": "Lunch in Broughshane",
+              "tip_5lang": {
+                "de": "Genießen Sie den preisgekrönten Blumenschmuck, jetzt winterlich dekoriert.",
+                "hu": "Élvezze a díjnyertes falu téli díszítését.",
+                "ro": "Bucurați-vă de decorațiunile de iarnă ale acestui sat premiat.",
+                "en": "Enjoy the winter decorations of this award-winning village."
+              }
+            },
+            {
+              "name": "Cluster: Ballymena Town Centre (Park)",
+              "tip_5lang": {
+                "de": "Parkhäuser schützen das Auto vor dem Einfrieren während Ihres Braid-Besuchs.",
+                "hu": "A parkolóház megvédi az autót a lefagyástól, amíg Ön a Braidben van.",
+                "ro": "Parcările etajate protejează mașina de îngheț în timpul vizitei.",
+                "en": "Multi-story parks keep the car from freezing while you visit The Braid."
+              }
+            },
+            {
+              "name": "The Braid Arts & Museum Centre",
+              "tip_5lang": {
+                "de": "Ideal, um die kälteste Zeit des Tages drinnen zu verbringen.",
+                "hu": "Ideális a nap leghidegebb óráit bent tölteni.",
+                "ro": "Ideal pentru a petrece cele mai reci ore ale zilei la interior.",
+                "en": "Ideal place to spend the coldest hours of the day indoors."
+              }
+            },
+            {
+              "name": "St. Patrick's Church",
+              "tip_5lang": {
+                "de": "Die Außenbeleuchtung wirkt im Winter besonders majestätisch.",
+                "hu": "A külső világítás télen különösen fenséges látvány.",
+                "ro": "Iluminatul exterior arată maiestuos în serile de iarnă.",
+                "en": "The exterior lighting looks particularly majestic in winter."
+              }
+            },
+            {
+              "name": "Galgorm Castle (Grounds)",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Castle Shop für winterliche Souvenirs.",
+                "hu": "Látogasson el a kastély boltjába téli ajándékokért.",
+                "ro": "Vizitați magazinul castelului pentru suveniruri de iarnă.",
+                "en": "Visit the Castle Shop for winter-themed souvenirs."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer einen Eiskratzer und Frostschutzmittel mit.",
+              "Achten Sie auf Wildwechsel auf den Landwegen in der Dämmerung.",
+              "Die Bergstraßen um den Slemish werden nicht immer sofort geräumt.",
+              "Prüfen Sie den Reifendruck; Kälte lässt ihn leicht sinken.",
+              "Hinterlassen Sie keine Wertsachen sichtbar im Auto (kurze Tage locken Diebe)."
+            ],
+            "hu": [
+              "Mindig legyen az autóban jégkaparó és fagyálló.",
+              "Vigyázzon a vadakra a vidéki utakon a szürkületi órákban.",
+              "A Slemish környéki hegyi utakat nem mindig takarítják azonnal.",
+              "Ellenőrizze a guminyomást, a hidegben kissé lecsökkenhet.",
+              "Ne hagyjon értéket látható helyen (a korai sötét vonzza a tolvajokat)."
+            ],
+            "ro": [
+              "Aveți mereu în mașină o răzuitoare de gheață și lichid de parbriz.",
+              "Atenție la animalele sălbatice pe drumurile secundare la amurg.",
+              "Drumurile montane spre Slemish nu sunt mereu deszăpezite rapid.",
+              "Verificați presiunea roților, frigul o poate scădea ușor.",
+              "Nu lăsați obiecte de valoare la vedere (întunericul atrage hoții)."
+            ],
+            "en": [
+              "Always carry an ice scraper and de-icer in the car.",
+              "Watch out for wildlife on country roads during twilight.",
+              "Mountain roads around Slemish might not be cleared immediately.",
+              "Check tire pressure; cold weather can cause it to drop slightly.",
+              "Don't leave valuables visible in the car (early darkness attracts theft)."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1438,6 +2026,196 @@
           "Check bus timetables in advance, especially for the last bus back.",
           "Have a backup plan in case a bus is cancelled; some locations are walkable if you have time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Tour wetterfest an der Bus Station. Der kurze Weg zum Braid Museum bietet Schutz vor den Schauern. Mittags erreichen Sie per Bus das St. Patrick's und finden im Zentrum viele überdachte Lunch-Optionen. Der Ecos Park ist per Bus gut erreichbar, das Besucherzentrum dort ist ein Highlight im Regen. Zum Abschluss bringt Sie der Bus bequem zum People's Park und zurück in die Wärme.",
+            "hu": "Kezdje a túrát a buszállomáson, védve az elemektől. A Braid Múzeum csak egy rövid séta, így alig éri eső. Délben busszal menjen a Szent Patrik templomhoz, a belvárosban pedig számos fedett ebédelőhely várja. Az Ecos Park busszal is könnyen elérhető, látogatóközpontja remek menedék. Végül a busz kényelmesen elviszi a People's Parkhoz, majd vissza a melegbe.",
+            "ro": "Începeți turul la autogară, protejat de vreme. Drumul scurt spre Muzeul Braid vă ferește de ploaie. La prânz, ajungeți cu autobuzul la Biserica Sf. Patrick, găsind multe opțiuni de prânz la adăpost în centru. Parcul Ecos este ușor accesibil, iar centrul său de vizitatori e perfect pe ploaie. La final, autobuzul vă duce confortabil la People's Park și înapoi spre căldură.",
+            "en": "Start your tour sheltered at the Bus Station. The short walk to The Braid Museum keeps you dry between showers. Midday, take the bus to St. Patrick's and find many covered lunch options in the centre. Ecos Park is easily reached by bus, with its visitor centre being a highlight in the rain. Finally, the bus takes you comfortably to People's Park and back to the warmth."
+          },
+          "stops": [
+            {
+              "name": "Cluster: Town Centre (Arrive at Bus Station)",
+              "tip_5lang": {
+                "de": "Die Wartehalle ist beheizt und bietet Fahrplan-Infos.",
+                "hu": "A váróterem fűtött és friss menetrendi infókkal szolgál.",
+                "ro": "Sala de așteptare este încălzită și oferă informații despre rute.",
+                "en": "The waiting area is heated and provides real-time schedule info."
+              }
+            },
+            {
+              "name": "The Braid Arts & Museum Centre",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg von der Busstation entfernt.",
+                "hu": "Csak 5 perc séta a buszállomástól.",
+                "ro": "La doar 5 minute de mers pe jos de autogară.",
+                "en": "Only a 5-minute walk from the bus station."
+              }
+            },
+            {
+              "name": "St. Patrick's Church",
+              "tip_5lang": {
+                "de": "Bushaltestelle befindet sich fast direkt vor dem Kircheneingang.",
+                "hu": "A buszmegálló szinte közvetlenül a templom bejárata előtt van.",
+                "ro": "Stația de autobuz este aproape de intrarea în biserică.",
+                "en": "The bus stop is located almost directly in front of the church."
+              }
+            },
+            {
+              "name": "Lunch and shopping in the centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Fairhill Centre für regenfreies Shopping.",
+                "hu": "Válassza a Fairhill központot az esőmentes vásárláshoz.",
+                "ro": "Alegeți Fairhill Centre pentru cumpărături ferite de ploaie.",
+                "en": "Use Fairhill Centre for rain-free shopping and dining."
+              }
+            },
+            {
+              "name": "Cluster: Ecos Park (Bus Ride)",
+              "tip_5lang": {
+                "de": "Buslinie 322 bringt Sie direkt zum Eingang.",
+                "hu": "A 322-es buszjárat közvetlenül a bejárathoz viszi.",
+                "ro": "Linia 322 vă duce direct la intrarea în parc.",
+                "en": "Bus route 322 takes you directly to the park entrance."
+              }
+            },
+            {
+              "name": "People's Park (walk)",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nah; ideal für einen kurzen Sprung ins Grüne.",
+                "hu": "A megálló közeli; ideális egy gyors látogatásra a parkban.",
+                "ro": "Stația este aproape; ideal pentru o scurtă vizită în parc.",
+                "en": "The stop is close; ideal for a quick visit to the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Translink mLink App für kontaktloses Bezahlen.",
+              "Warten Sie im Fairhill Centre, falls Ihr Bus Verspätung hat.",
+              "Die Busse in Ballymena sind im Regen oft beschlagen; Fensterplatz suchen.",
+              "Tragen Sie eine Regenjacke, da manche Haltestellen keinen Unterstand haben.",
+              "Planen Sie Pufferzeiten ein, da der Verkehr bei Regen oft stockt."
+            ],
+            "hu": [
+              "Használja a Translink mLink alkalmazást az érintésmentes jegyvásárláshoz.",
+              "Várjon a Fairhill központban, ha késik a busza.",
+              "A buszok ablakai esőben gyakran bepárásodnak; keressen jó helyet.",
+              "Viseljen esőkabátot, mert nem minden megálló fedett.",
+              "Tervezzen több időt az utazásra, az eső lassíthatja a forgalmat."
+            ],
+            "ro": [
+              "Folosiți aplicația Translink mLink pentru plată fără contact.",
+              "Așteptați în Fairhill Centre dacă autobuzul are întârziere.",
+              "Geamurile autobuzelor se aburesc des la ploaie; căutați un loc bun.",
+              "Purtați o jachetă de ploaie, unele stații nu sunt acoperite.",
+              "Planificați timp suplimentar, traficul se aglomerează la ploaie."
+            ],
+            "en": [
+              "Use the Translink mLink app for contactless ticket purchases.",
+              "Wait inside Fairhill Centre if your bus is delayed.",
+              "Bus windows often fog up during rain; try to find a clear spot.",
+              "Wear a raincoat as some bus stops lack shelters.",
+              "Allow extra time as traffic often slows down during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit dem Bus startet in der warmen Wartehalle der Station. Das Braid Museum ist schnell erreicht und bietet stundenlange Unterhaltung im Warmen. Nach einem stärkenden Lunch im Zentrum bringt Sie der Bus zum winterlichen St. Patrick's. Besuchen Sie den Ecos Park im letzten Nachmittagslicht, bevor Sie der Bus im Dunkeln sicher zurück zur Station und zu Ihrer Unterkunft bringt.",
+            "hu": "A téli napot kezdje a buszállomás meleg várótermében. A Braid Múzeum gyorsan elérhető és órákig tartó benti szórakozást nyújt. Egy laktató belvárosi ebéd után a busz elviszi a téli Szent Patrik templomhoz. Az Ecos Parkot még az utolsó délutáni fényeknél látogassa meg, mielőtt a busz biztonságban visszavinné a sötétben.",
+            "ro": "O zi de iarnă cu autobuzul începe în sala de așteptare caldă a autogării. Muzeul Braid este aproape și oferă divertisment la căldură pentru câteva ore. După un prânz consistent în centru, luați autobuzul spre Sf. Patrick. Vizitați Ecos Park în ultimele raze de lumină, înainte ca autobuzul să vă readucă în siguranță pe întuneric.",
+            "en": "A winter's day by bus starts in the warm waiting hall at the station. The Braid Museum is quickly reached, offering hours of indoor entertainment. After a filling lunch in the centre, the bus takes you to the wintry St. Patrick's. Visit Ecos Park in the last afternoon light before the bus safely brings you back in the darkness."
+          },
+          "stops": [
+            {
+              "name": "Cluster: Town Centre (Arrive at Bus Station)",
+              "tip_5lang": {
+                "de": "Kaufen Sie ein Tagesticket (Day Ticket) für unbegrenzte Fahrten.",
+                "hu": "Vegyen napijegyet (Day Ticket) a korlátlan utazáshoz.",
+                "ro": "Cumpărați un bilet de o zi (Day Ticket) pentru călătorii nelimitate.",
+                "en": "Buy a Day Ticket for unlimited travel throughout the town."
+              }
+            },
+            {
+              "name": "The Braid Arts & Museum Centre",
+              "tip_5lang": {
+                "de": "Die Cafeteria im Inneren ist ideal für ein warmes Getränk.",
+                "hu": "A benti kávézó tökéletes egy melengető italhoz.",
+                "ro": "Cafeneaua interioară este ideală pentru o băutură caldă.",
+                "en": "The indoor cafeteria is perfect for a warming drink."
+              }
+            },
+            {
+              "name": "St. Patrick's Church",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan, da manche Linien seltener fahren.",
+                "hu": "Ellenőrizze a téli menetrendet, néhány járat ritkábban indul.",
+                "ro": "Verificați programul de iarnă, unele rute au frecvență redusă.",
+                "en": "Check the winter timetable as some routes may run less frequently."
+              }
+            },
+            {
+              "name": "Lunch and shopping in the centre",
+              "tip_5lang": {
+                "de": "Das Einkaufszentrum ist weihnachtlich dekoriert und angenehm warm.",
+                "hu": "A bevásárlóközpont karácsonyi díszben pompázik és kellemesen meleg.",
+                "ro": "Centrul comercial este decorat festiv și este foarte cald.",
+                "en": "The shopping centre is festively decorated and pleasantly warm."
+              }
+            },
+            {
+              "name": "Cluster: Ecos Park (Bus Ride)",
+              "tip_5lang": {
+                "de": "Achten Sie auf den letzten Bus zurück (meist gegen 18 Uhr).",
+                "hu": "Ügyeljen az utolsó visszainduló buszra (általában 18 óra körül).",
+                "ro": "Atenție la ultimul autobuz de întoarcere (de obicei în jur de ora 18).",
+                "en": "Watch out for the last bus back (usually around 6 PM)."
+              }
+            },
+            {
+              "name": "People's Park (walk)",
+              "tip_5lang": {
+                "de": "Die Beleuchtung im Park schafft eine schöne Winterstimmung am Abend.",
+                "hu": "A park esti kivilágítása szép téli hangulatot teremt.",
+                "ro": "Iluminatul parcului creează o atmosferă frumoasă de iarnă seara.",
+                "en": "The park's lighting creates a beautiful winter atmosphere in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Reflektoren, damit Busfahrer Sie an dunklen Haltestellen sehen.",
+              "Achten Sie auf glatte Stellen beim Ein- und Aussteigen.",
+              "Nutzen Sie die Wärme im Bus, um Ihre elektronischen Geräte aufzuladen.",
+              "Die mLink-App spart das Hantieren mit Kleingeld in der Kälte.",
+              "Busse können bei Schneefall kurzfristige Umleitungen haben."
+            ],
+            "hu": [
+              "Viseljen fényvisszaverőt, hogy a sofőr észrevegye a sötét megállóban.",
+              "Vigyázzon a csúszós lépcsőkre a le- és felszálláskor.",
+              "Használja ki a busz melegét az elektronikus eszközei töltésére.",
+              "Az mLink alkalmazással elkerülheti az aprópénzzel való bajlódást a hidegben.",
+              "Hóesés esetén a buszok útvonala rövid időn belül módosulhat."
+            ],
+            "ro": [
+              "Purtați elemente reflectorizante pentru a fi văzut în stațiile întunecate.",
+              "Atenție la treptele alunecoase la urcare și coborâre.",
+              "Folosiți căldura din autobuz pentru a vă reîncărca dispozitivele.",
+              "Aplicația mLink vă scutește de manevrarea banilor în frig.",
+              "Autobuzele pot avea rute deviate în caz de ninsoare abundentă."
+            ],
+            "en": [
+              "Wear reflectors so bus drivers can see you at dark stops.",
+              "Watch for icy patches when getting on or off the bus.",
+              "Take advantage of the bus's warmth to charge your electronics.",
+              "The mLink app avoids the need to handle cash in the cold.",
+              "Buses may have short-term diversions during heavy snowfall."
+            ]
+          }
+        }
       }
     }
   }

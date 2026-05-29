@@ -366,6 +366,206 @@
           "Sunglasses and a hat are essential to protect yourself from the strong Mediterranean sun.",
           "Most sights are located in the Kato Paphos area, so everything is within easy walking distance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Paphos zeigt sich bei Regen von seiner mystischen Seite. Wir beginnen den Vormittag geschützt in den Katakomben und besichtigen die Mosaike unter ihren schützenden Dächern. Mittags bietet der Hafen gemütliche Tavernen mit Blick auf die aufgewühlte See. Der Nachmittag gehört den Felsengräbern, bevor wir den Tag bei einem stürmischen, aber faszinierenden Ausblick auf die Küste beenden.",
+            "hu": "Paphos esőben is varázslatos, a programot a fedett katakombákhoz és a mozaikok védőtetői alá igazítjuk. A reggeli séta után a kikötő egyik védett tavernájában ebédelünk, figyelve a hullámzó tengert. Délután a Királysírok sziklába vájt üregei nyújtanak menedéket a záporok elől. Az estét egy közeli, barátságos kávézóban zárjuk, élvezve a tengerparti vihar látványát.",
+            "ro": "Paphos are o latură mistică pe ploaie. Începem dimineața protejați în catacombe și vizităm mozaicurile sub acoperișurile lor protectoare. La prânz, portul oferă taverne primitoare cu vedere la marea agitată. După-amiaza este dedicată mormintelor săpate în stâncă, care oferă adăpost, înainte de a încheia ziua cu o priveliște furtunoasă, dar fascinantă, asupra coastei.",
+            "en": "Paphos reveals a mystic side in the rain. We start the morning sheltered in catacombs and view the mosaics under their protective roofs. At noon, the harbour offers cozy taverns with views of the churning sea. The afternoon belongs to the rock-cut tombs which provide shelter from showers, before ending the day with a stormy yet fascinating view of the coastline."
+          },
+          "stops": [
+            {
+              "name": "St. Paul's Pillar",
+              "tip_5lang": {
+                "de": "Regenschirm bereit halten, da das Gelände weitestgehend ungeschützt ist.",
+                "hu": "Legyen kéznél esernyő, mert a terület teljesen nyitott.",
+                "ro": "Țineți umbrela la îndemână, deoarece zona este în mare parte neprotejată.",
+                "en": "Keep an umbrella ready as the site is largely unprotected."
+              }
+            },
+            {
+              "name": "Agia Solomoni Catacombs",
+              "tip_5lang": {
+                "de": "Ideal bei Regen; die unterirdischen Gänge bleiben trocken.",
+                "hu": "Ideális esőben; a föld alatti járatok szárazon tartanak.",
+                "ro": "Ideal pe ploaie; pasajele subterane rămân uscate.",
+                "en": "Ideal in the rain; the underground passages stay dry."
+              }
+            },
+            {
+              "name": "Paphos Archaeological Park",
+              "tip_5lang": {
+                "de": "Die wichtigsten Mosaike sind überdacht und somit regenfest.",
+                "hu": "A legfontosabb mozaikok tető alatt vannak, így esőben is látogathatók.",
+                "ro": "Cele mai importante mozaicuri sunt acoperite, deci protejate de ploaie.",
+                "en": "The main mosaics are covered and thus rain-proof."
+              }
+            },
+            {
+              "name": "Paphos Castle",
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten perfekten Schutz vor Wind und Wetter.",
+                "hu": "A vastag falak tökéletes menedéket nyújtanak a szél és eső elől.",
+                "ro": "Zidurile groase oferă protecție perfectă împotriva vântului și ploii.",
+                "en": "The thick walls provide perfect shelter from wind and rain."
+              }
+            },
+            {
+              "name": "Lunch at the Harbour",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz im Innenbereich mit Blick auf die Wellen.",
+                "hu": "Válasszunk beltéri asztalt, ahonnan rálátni a habzó hullámokra.",
+                "ro": "Alegeți un loc în interior cu vedere la valurile mării.",
+                "en": "Choose an indoor table with a view of the crashing waves."
+              }
+            },
+            {
+              "name": "Tombs of the Kings",
+              "tip_5lang": {
+                "de": "Die tiefen Felsengräber bieten bei kurzen Schauern guten Unterschlupf.",
+                "hu": "A mély sziklasírok jó búvóhelyet jelentenek a rövid záporok idején.",
+                "ro": "Mormintele adânci în stâncă oferă un adăpost bun în timpul averselor scurte.",
+                "en": "The deep rock tombs offer good shelter during short showers."
+              }
+            },
+            {
+              "name": "Sunset at the Lighthouse Beach",
+              "tip_5lang": {
+                "de": "Vom nahen Café aus die dramatischen Wolkenformationen beobachten.",
+                "hu": "Egy közeli kávézóból figyeljük a drámai felhőket a tenger felett.",
+                "ro": "Observați formațiunile dramatice de nori de la o cafenea din apropiere.",
+                "en": "Watch the dramatic cloud formations from a nearby café."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht auf den antiken Steinen im Archäologischen Park, sie werden bei Nässe sehr rutschig.",
+              "Tragen Sie wasserfeste Schuhe, da sich zwischen den Ruinen schnell Pfützen bilden.",
+              "Nutzen Sie die Regenpausen für die Wege zwischen den Sehenswürdigkeiten.",
+              "Die Hafen-Tavernen sind im Innenbereich oft gut beheizt und gemütlich."
+            ],
+            "hu": [
+              "Vigyázzon az antik kövekre a régészeti parkban, mert vizesen rendkívül csúszósak.",
+              "Viseljen vízálló cipőt, mert a romok között gyorsan összegyűlik a víz.",
+              "Használja ki az esőszüneteket a látnivalók közötti átvonulásra.",
+              "A kikötői tavernák belső terei ilyenkor nagyon hangulatosak és fűtöttek."
+            ],
+            "ro": [
+              "Atenție la pietrele antice din parcul arheologic, devin foarte alunecoase când sunt ude.",
+              "Purtați încălțăminte impermeabilă, deoarece se formează rapid bălți între ruine.",
+              "Profitați de pauzele de ploaie pentru a vă deplasa între obiective.",
+              "Tavernele din port sunt adesea bine încălzite și primitoare în interior."
+            ],
+            "en": [
+              "Be careful on the ancient stones in the Archaeological Park as they become very slippery when wet.",
+              "Wear waterproof shoes, as puddles form quickly among the ruins.",
+              "Use rain breaks to move between the different sights.",
+              "Harbour taverns are often well-heated and cozy inside during rainy days."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Paphos ist mild und ideal für lange Spaziergänge ohne die Sommerhitze. Wir erkunden die antiken Stätten unter der angenehmen Wintersonne. Mittags genießen wir die frische Meeresbrise am Hafen bei einem warmen Getränk. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen wir unseren Besuch bei den Königsgräbern früher ein, um das goldene Licht voll auszunutzen.",
+            "hu": "A ciprusi tél enyhe, tökéletes a hosszú sétákhoz a tikkasztó hőség nélkül. A délelőtti napsütésben kényelmesen járhatjuk be a romkert hatalmas területét. Délben a kikötőben egy forró ital mellett élvezzük a sós tengeri levegőt. Mivel a nap korán, 17:00 körül nyugszik, a délutáni programokat előrébb hozzuk, hogy elkapjuk az utolsó fényeket.",
+            "ro": "Iarna în Paphos este blândă și ideală pentru plimbări lungi fără canicula verii. Explorăm siturile antice sub soarele plăcut de iarnă. La prânz, ne bucurăm de briza proaspătă a mării în port cu o băutură caldă. Deoarece soarele apune în jur de ora 17:00, planificăm vizitele de după-amiază mai devreme pentru a profita de lumina aurie.",
+            "en": "Winter in Paphos is mild and ideal for long walks without the summer heat. We explore the ancient sites under the pleasant winter sun. At noon, we enjoy the fresh sea breeze at the harbour with a warm drink. Since the sun sets around 5:00 PM, we schedule our afternoon visits earlier to fully enjoy the golden light."
+          },
+          "stops": [
+            {
+              "name": "St. Paul's Pillar",
+              "tip_5lang": {
+                "de": "Perfekte Zeit für Fotos ohne die Touristenmassen des Sommers.",
+                "hu": "Tökéletes időpont a fotózáshoz a nyári tömeg nélkül.",
+                "ro": "Momentul perfect pentru fotografii fără mulțimile de turiști din vară.",
+                "en": "Perfect time for photos without the summer tourist crowds."
+              }
+            },
+            {
+              "name": "Agia Solomoni Catacombs",
+              "tip_5lang": {
+                "de": "Die Temperatur unter der Erde ist im Winter angenehm konstant.",
+                "hu": "A föld alatti hőmérséklet télen is kellemesen állandó.",
+                "ro": "Temperatura subterană este plăcut de constantă în timpul iernii.",
+                "en": "The underground temperature remains pleasantly constant in winter."
+              }
+            },
+            {
+              "name": "Paphos Archaeological Park",
+              "tip_5lang": {
+                "de": "Beste Zeit für die Erkundung des weitläufigen Geländes ohne Hitze.",
+                "hu": "A legjobb idő a hatalmas terület bejárására a hőség nélkül.",
+                "ro": "Cea mai bună perioadă pentru a explora zona vastă fără căldură.",
+                "en": "Best time to explore the expansive site without the intense heat."
+              }
+            },
+            {
+              "name": "Paphos Castle",
+              "tip_5lang": {
+                "de": "Vom Dach hat man eine klare Sicht auf das schneebedeckte Troodos-Gebirge.",
+                "hu": "A tetőről tiszta időben látni a Troodos-hegység havas csúcsait.",
+                "ro": "De pe acoperiș aveți o vedere clară spre munții Troodos înzăpeziți.",
+                "en": "From the roof, you can see the snow-capped Troodos mountains on clear days."
+              }
+            },
+            {
+              "name": "Lunch at the Harbour",
+              "tip_5lang": {
+                "de": "Probieren Sie lokale Winterspezialitäten wie warme Suppen oder Eintöpfe.",
+                "hu": "Kóstolja meg a helyi téli specialitásokat, például a meleg leveseket.",
+                "ro": "Încercați specialitățile locale de iarnă, cum ar fi supele calde.",
+                "en": "Try local winter specialties like warm soups or hearty stews."
+              }
+            },
+            {
+              "name": "Tombs of the Kings",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Gräber spätestens um 15:30 Uhr wegen des frühen Sonnenuntergangs.",
+                "hu": "Látogasson ide legkésőbb 15:30-kor a korai sötétedés miatt.",
+                "ro": "Vizitați mormintele cel târziu la 15:30 din cauza apusului timpuriu.",
+                "en": "Visit the tombs by 3:30 PM at the latest due to the early sunset."
+              }
+            },
+            {
+              "name": "Sunset at the Lighthouse Beach",
+              "tip_5lang": {
+                "de": "Bringen Sie eine Jacke mit; sobald die Sonne weg ist, wird es kühl.",
+                "hu": "Vigyen magával kabátot; amint lemegy a nap, hirtelen lehűl a levegő.",
+                "ro": "Luați o jachetă; imediat ce soarele apune, se lasă răcoarea.",
+                "en": "Bring a jacket; as soon as the sun disappears, it gets chilly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 17:00 Uhr unter, planen Sie das Ende der Tour frühzeitig.",
+              "Zwiebelprinzip bei der Kleidung: In der Sonne ist es warm, im Schatten und Wind kühl.",
+              "Viele Cafés bieten jetzt Decken für die Außenbereiche an.",
+              "Die Luftfeuchtigkeit ist niedriger, was die Fernsicht auf das Meer verbessert."
+            ],
+            "hu": [
+              "A nap télen 17:00 körül nyugszik, tervezze korábbra a túra végét.",
+              "Öltözködjön rétegesen: a napon meleg van, árnyékban és szélben hűvös.",
+              "Sok kávézó biztosít pokrócot a teraszon ülőknek.",
+              "A levegő tisztább ilyenkor, így távolabb el lehet látni a tengeren."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 17:00 iarna, planificați sfârșitul turului mai devreme.",
+              "Îmbrăcați-vă în straturi: la soare este cald, la umbră și în vânt este răcoare.",
+              "Multe cafenele oferă acum pături pentru zonele exterioare.",
+              "Umiditatea este mai scăzută, ceea ce îmbunătățește vizibilitatea la distanță spre mare."
+            ],
+            "en": [
+              "The sun sets around 5:00 PM in winter, so plan the end of your tour early.",
+              "Dress in layers: it's warm in the sun but cool in the shade and wind.",
+              "Many cafés now provide blankets for their outdoor seating areas.",
+              "Humidity is lower, which improves the long-distance visibility over the sea."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -686,6 +886,188 @@
           "Always lock your bike securely when you leave it.",
           "Drink plenty of water and use sunscreen, as you will have a lot of sun exposure."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Paphos bei Regen erfordert die richtige Ausrüstung. Wir starten am Hafen und nutzen die asphaltierten Wege der Promenade. Die Stopps im Archäologischen Park und bei den Königsgräbern bieten Möglichkeiten, sich unterzustellen. Mittags wärmen wir uns in Coral Bay auf, bevor wir den Rückweg antreten. Ein Tag für Abenteurer, die das Meer auch bei stürmischem Wetter lieben.",
+            "hu": "A bringázás Paphosban esőben megfelelő felszerelést igényel. A kikötőből indulva a sétány aszfaltozott útjait használjuk. A régészeti parkban és a Királysíroknál van lehetőség fedett helyre húzódni. Délben Coral Bay-nél melegedünk fel, mielőtt visszaindulnánk. Ez a nap az igazi kalandoroké, akik a viharos tenger látványát is élvezik.",
+            "ro": "Ciclismul în Paphos pe ploaie necesită echipament adecvat. Pornind din port, folosim potecile asfaltate ale fanteziei. Oprelile la parcul arheologic și la mormintele regilor oferă oportunități de adăpost. La prânz ne încălzim în Coral Bay înainte de a ne întoarce. O zi pentru aventurieri care iubesc marea chiar și pe vreme furtunoasă.",
+            "en": "Cycling in Paphos in the rain requires proper gear. Starting from the harbour, we use the paved paths of the promenade. Stops at the Archaeological Park and Tombs of the Kings offer opportunities to take cover. At noon, we warm up at Coral Bay before heading back. A day for adventurers who love the sea even in stormy weather."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental at the Harbour",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Fahrrad mit Schutzblechen und wasserfesten Taschen.",
+                "hu": "Kérjen sárvédővel és vízálló táskákkal felszerelt kerékpárt.",
+                "ro": "Cereți o bicicletă cu aripi de protecție și genți impermeabile.",
+                "en": "Ask for a bike with mudguards and waterproof panniers."
+              }
+            },
+            {
+              "name": "Ride along the Coastal Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen und rutschigem Asphalt an der Ufermauer.",
+                "hu": "Vigyázzon a tócsákra és a csúszós aszfaltra a part mentén.",
+                "ro": "Atenție la bălți și asfaltul alunecos de lângă faleza mării.",
+                "en": "Watch out for puddles and slippery asphalt along the sea wall."
+              }
+            },
+            {
+              "name": "Paphos Archaeological Park",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad am Eingang unter und erkunden Sie die Mosaike zu Fuß.",
+                "hu": "Hagyja a biciklit a bejáratnál, és gyalog nézze meg a fedett mozaikokat.",
+                "ro": "Lăsați bicicleta la intrare și explorați mozaicurile pe jos.",
+                "en": "Park your bike at the entrance and explore the covered mosaics on foot."
+              }
+            },
+            {
+              "name": "Tombs of the Kings",
+              "tip_5lang": {
+                "de": "Die Felskammern sind ideal, um einen kurzen Schauer abzuwarten.",
+                "hu": "A sziklakamrák ideálisak egy rövid zápor kivárására.",
+                "ro": "Camerele în stâncă sunt ideale pentru a aștepta trecerea unei averse.",
+                "en": "The rock chambers are ideal for waiting out a short shower."
+              }
+            },
+            {
+              "name": "Lunch near Coral Bay",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit Abstellmöglichkeit im Trockenen.",
+                "hu": "Keressen olyan helyet, ahol fedett helyen hagyhatja a bringát.",
+                "ro": "Căutați un local cu spațiu de depozitare la uscat pentru bicicletă.",
+                "en": "Look for a place with dry storage for your bike while you eat."
+              }
+            },
+            {
+              "name": "Relaxing at Coral Bay",
+              "tip_5lang": {
+                "de": "Statt Strandbesuch lieber einen warmen Tee in der Strandbar genießen.",
+                "hu": "Strandolás helyett élvezzen egy meleg teát a tengerparti bárban.",
+                "ro": "În loc de plajă, savurați un ceai cald la barul de pe țărm.",
+                "en": "Instead of the beach, enjoy a warm tea at a beachfront bar."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine gute Regenjacke und Regenhose; der Wind am Meer ist stark.",
+              "Bremsen Sie auf nassem Untergrund früher, besonders auf Holzstegen.",
+              "Vermeiden Sie unbefestigte Wege, da diese schnell schlammig werden.",
+              "Ein Handtuch zum Trocknen des Sattels ist sehr hilfreich."
+            ],
+            "hu": [
+              "Viseljen jó esőkabátot és nadrágot; a tengeri szél felerősítheti az esőt.",
+              "Vizes úton fékezzen korábban, különösen a fapadlókon.",
+              "Kerülje a földutakat, mert azok gyorsan sárossá válhatnak.",
+              "Egy kis törölköző a nyereg megszárításához nagyon hasznos."
+            ],
+            "ro": [
+              "Purtați o jachetă și pantaloni de ploaie buni; vântul pe mare este puternic.",
+              "Frânați mai devreme pe suprafețe umede, în special pe pasarelele de lemn.",
+              "Evitați drumurile neasfaltate, deoarece acestea devin rapid noroioase.",
+              "Un prosop pentru a usca șaua este foarte util."
+            ],
+            "en": [
+              "Wear a good rain jacket and trousers; the sea wind can be strong.",
+              "Brake earlier on wet surfaces, especially on wooden boardwalks.",
+              "Avoid unpaved paths as they quickly become muddy.",
+              "A small towel to dry the saddle is very helpful."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Paphos ist ein Genuss für Aktive. Die kühle Luft ist erfrischend auf der Fahrt entlang der Küste nach Coral Bay. Wir nutzen das helle Tageslicht für die antiken Ausgrabungen. Mittags locken die Sonnenplätze der Cafés, bevor die Luft am späten Nachmittag spürbar abkühlt. Ein perfekter Tag, um die Region ohne die drückende Hitze des Sommers zu erkunden.",
+            "hu": "A téli bringázás Paphosban az aktív utazók álma. A hűvös levegő frissítő a Coral Bay felé vezető parti úton. Kihasználjuk a nappali fényt a régészeti helyszínek bejárásához. Délben a kávézók napsütötte teraszai hívogatnak, mielőtt késő délután érezhetően lehűlne az idő. Tökéletes nap a régió felfedezésére a nyári hőség nélkül.",
+            "ro": "Ciclismul de iarnă în Paphos este o plăcere pentru cei activi. Aerul rece este revigorant în timpul călătoriei de-a lungul coastei spre Coral Bay. Folosim lumina zilei pentru săpăturile antice. La prânz, locurile însorite ale cafenelelor atrag turiștii, înainte ca aerul să se răcească vizibil după-amiaza târziu.",
+            "en": "Winter cycling in Paphos is a treat for active travelers. The cool air is refreshing on the ride along the coast to Coral Bay. We use the bright daylight for exploring the ancient excavations. At noon, sun-drenched café seats are inviting, before the air cools down significantly in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental at the Harbour",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Beleuchtung, falls Sie erst nach Sonnenuntergang zurückkehren.",
+                "hu": "Ellenőrizze a világítást, ha csak naplemente után érne vissza.",
+                "ro": "Verificați luminile în caz că vă întoarceți după apusul soarelui.",
+                "en": "Check the lights in case you return after sunset."
+              }
+            },
+            {
+              "name": "Ride along the Coastal Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht bis zum Horizont.",
+                "hu": "Élvezze a tiszta kilátást egészen a horizontig.",
+                "ro": "Bucurați-vă de vederea clară până la orizont.",
+                "en": "Enjoy the clear views all the way to the horizon."
+              }
+            },
+            {
+              "name": "Paphos Archaeological Park",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen durch Bewegung auf dem großen Gelände.",
+                "hu": "Ideális átmozgatás a hatalmas terület bejárása közben.",
+                "ro": "Ideal pentru încălzire prin mișcare pe terenul vast.",
+                "en": "Ideal for warming up by moving around the large site."
+              }
+            },
+            {
+              "name": "Tombs of the Kings",
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist im Winter besonders weich und schön.",
+                "hu": "A délutáni fények télen különösen lágyak és szépek itt.",
+                "ro": "Lumina de după-amiază este deosebit de blândă și frumoasă iarna.",
+                "en": "The afternoon light is particularly soft and beautiful here in winter."
+              }
+            },
+            {
+              "name": "Lunch near Coral Bay",
+              "tip_5lang": {
+                "de": "Ein Platz an der Sonne ist jetzt wertvoller als ein Schattenplatz.",
+                "hu": "Ilyenkor egy napsütötte asztal többet ér, mint az árnyék.",
+                "ro": "Un loc la soare este acum mai valoros decât unul la umbră.",
+                "en": "A seat in the sun is now more valuable than a shaded spot."
+              }
+            },
+            {
+              "name": "Relaxing at Coral Bay",
+              "tip_5lang": {
+                "de": "Nur für Mutige: Das Wasser ist frisch, aber die Strandsicht toll.",
+                "hu": "Csak bátraknak: a víz hideg, de a látvány pazar.",
+                "ro": "Doar pentru cei curajoși: apa este rece, dar priveliștea e grozavă.",
+                "en": "Only for the brave: the water is fresh, but the beach view is great."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe; der Fahrtwind kann im Winter sehr kalt sein.",
+              "Die Sonne wärmt stark, aber im Schatten sinkt die Temperatur sofort.",
+              "Planen Sie Ihre Ankunft in Coral Bay vor 15:00 Uhr.",
+              "Nehmen Sie eine Thermoskanne mit einem warmen Getränk mit."
+            ],
+            "hu": [
+              "Viseljen kesztyűt; a menetszél télen nagyon hideg lehet.",
+              "A nap erősen melegít, de az árnyékban azonnal visszaesik a hőmérséklet.",
+              "Tervezze meg, hogy 15:00 előtt megérkezzen Coral Bay-hez.",
+              "Vigyen magával termoszt egy meleg itallal."
+            ],
+            "ro": [
+              "Purtați mănuși; vântul din timpul mersului poate fi foarte rece iarna.",
+              "Soarele încălzește puternic, dar la umbră temperatura scade imediat.",
+              "Planificați sosirea în Coral Bay înainte de ora 15:00.",
+              "Luați un termos cu o băutură caldă la voi."
+            ],
+            "en": [
+              "Wear gloves; the headwind can be very cold in winter.",
+              "The sun warms you up, but the temperature drops instantly in the shade.",
+              "Plan to arrive at Coral Bay before 3:00 PM.",
+              "Take a thermos with a warm drink with you."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1066,6 +1448,206 @@
           "Parking can be difficult in the Paphos harbour area, so be patient or use paid car parks.",
           "Look out for the road signs for archaeological sites, which are often brown."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Paphos und seine Umgebung ganz entspannt im Trockenen. Wir besuchen das Heiligtum der Aphrodite und bewundern den Felsen der Aphrodite, während die Wellen dramatisch gegen die Küste schlagen. Mittags parken wir direkt am Hafen für einen kurzen Weg in die Taverne. Der Tag endet sicher und komfortabel bei einem Abendessen in Coral Bay, unbeeindruckt vom Regen.",
+            "hu": "Autóval kényelmesen és szárazon fedezzük fel Paphos környékét. Meglátogatjuk Aphrodité szentélyét, és megcsodáljuk a sziklát, miközben a hullámok drámai módon csapkodják a partot. Délben közvetlenül a kikötőnél parkolunk, hogy csak pár lépés legyen a taverna. A nap biztonságban és komfortosan ér véget Coral Bay-nél, mit sem törődve az esővel.",
+            "ro": "Cu mașina explorăm Paphos și împrejurimile sale relaxați și la uscat. Vizităm sanctuarul Afroditei și admirăm stânca Afroditei în timp ce valurile se sparg dramatic de coastă. La prânz parcăm direct în port pentru un drum scurt până la tavernă. Ziua se încheie sigur și confortabil cu o cină în Coral Bay, neafectați de ploaie.",
+            "en": "By car, we explore Paphos and its surroundings comfortably and dry. We visit the Sanctuary of Aphrodite and admire Aphrodite's Rock as waves crash dramatically against the shore. At noon, we park right at the harbour for a short walk to the tavern. The day ends safely and comfortably with dinner at Coral Bay, unaffected by the rain."
+          },
+          "stops": [
+            {
+              "name": "Sanctuary of Aphrodite",
+              "tip_5lang": {
+                "de": "Das angeschlossene Museum ist ein perfekter Rückzugsort bei Regen.",
+                "hu": "A szomszédos múzeum tökéletes menedék eső esetén.",
+                "ro": "Muzeul adiacent este un refugiu perfect în caz de ploaie.",
+                "en": "The attached museum is a perfect retreat during rain."
+              }
+            },
+            {
+              "name": "Petra tou Romiou (Aphrodite's Rock)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick sicher aus dem Auto am Aussichtspunkt.",
+                "hu": "Élvezze a kilátást biztonságban az autóból a kilátópontnál.",
+                "ro": "Bucurați-vă de priveliște în siguranță din mașină la punctul de observație.",
+                "en": "Enjoy the view safely from the car at the viewpoint."
+              }
+            },
+            {
+              "name": "Paphos Archaeological Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nah am Eingang, um nass zu werden zu vermeiden.",
+                "hu": "Használja a bejárathoz közeli parkolót, hogy elkerülje az elázást.",
+                "ro": "Folosiți parcarea de lângă intrare pentru a evita să vă udați.",
+                "en": "Use the parking lot close to the entrance to avoid getting wet."
+              }
+            },
+            {
+              "name": "Lunch at the Harbour",
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus oder auf befestigten Flächen am Hafen.",
+                "hu": "Parkoljon a mélygarázsban vagy a kikötő aszfaltozott részein.",
+                "ro": "Parcați în parcarea etajată sau pe suprafețele asfaltate din port.",
+                "en": "Park in the parking garage or on paved areas at the harbour."
+              }
+            },
+            {
+              "name": "Paphos Castle",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto reicht, um ins trockene Innere zu gelangen.",
+                "hu": "Egy rövid sprint az autótól, és már a száraz belső térben is van.",
+                "ro": "Un sprint scurt de la mașină este suficient pentru a ajunge în interiorul uscat.",
+                "en": "A short sprint from the car is enough to reach the dry interior."
+              }
+            },
+            {
+              "name": "Tombs of the Kings",
+              "tip_5lang": {
+                "de": "Bei starkem Regen kann man die Gräber auch teilweise vom Auto aus sehen.",
+                "hu": "Heves esőben a sírok egy része az autóból is látható.",
+                "ro": "În caz de ploaie torențială, mormintele pot fi văzute parțial din mașină.",
+                "en": "In heavy rain, some of the tombs can be partially seen from the car."
+              }
+            },
+            {
+              "name": "Dinner at Coral Bay",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch in Fensternähe, um das Wetter zu beobachten.",
+                "hu": "Foglaljon asztalt az ablaknál, hogy figyelhesse a kinti vihart.",
+                "ro": "Rezervați o masă lângă fereastră pentru a observa vremea de afară.",
+                "en": "Reserve a table near the window to watch the weather outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht auf den Küstenstraßen; bei Starkregen kann es zu Aquaplaning kommen.",
+              "Nutzen Sie die Klimaanlage des Autos, um das Beschlagen der Scheiben zu verhindern.",
+              "Prüfen Sie, ob die Parkplätze an den Sehenswürdigkeiten asphaltiert sind.",
+              "Lassen Sie keine nassen Schirme auf den Polstern liegen."
+            ],
+            "hu": [
+              "Vigyázzon a parti utakon; heves esőben fennáll az aquaplaning veszélye.",
+              "Használja az autó klímáját a szélvédő párátlanításához.",
+              "Ellenőrizze, hogy a látnivalók parkolói aszfaltozottak-e.",
+              "Ne hagyja a vizes esernyőket az üléseken."
+            ],
+            "ro": [
+              "Atenție pe drumurile de coastă; în caz de ploaie torențială poate apărea acvaplanarea.",
+              "Folosiți aerul condiționat pentru a preveni aburirea geamurilor.",
+              "Verificați dacă parcările de la obiectivele turistice sunt asfaltate.",
+              "nu lăsați umbrelele ude pe tapițerie."
+            ],
+            "en": [
+              "Be careful on coastal roads; heavy rain can cause aquaplaning.",
+              "Use the car's AC to prevent the windshield from fogging up.",
+              "Check if the parking lots at the sights are paved.",
+              "Don't leave wet umbrellas on the car seats."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto die Freiheit, auch abgelegenere Orte wie das Heiligtum der Aphrodite bequem zu besuchen. Wir genießen die Fahrt durch die grüne Winterlandschaft Zyperns. Mittags lockt der Hafen mit sonnigen Parkplätzen und Cafés. Da es früh dunkel wird, sind wir mit dem Auto flexibel und können den Sonnenuntergang an der Küste genießen, bevor wir bequem zum Abendessen nach Coral Bay fahren.",
+            "hu": "Télen az autó szabadságot ad, hogy távolabbi helyeket, például Aphrodité szentélyét is kényelmesen felkeressük. Élvezzük az autózást Ciprus ilyenkor zöldellő tájain. Délben a kikötő napsütötte parkolói és kávézói hívogatnak. Mivel korán sötétedik, autóval rugalmasak vagyunk: megnézzük a naplementét a parton, majd kényelmesen átgurulunk vacsorázni Coral Bay-hez.",
+            "ro": "Iarna, mașina oferă libertatea de a vizita confortabil locuri mai îndepărtate, cum ar fi sanctuarul Afroditei. Ne bucurăm de drumul prin peisajul verde de iarnă al Ciprului. La prânz, portul atrage cu locuri de parcare însorite și cafenele. Deoarece se întunecă devreme, suntem flexibili cu mașina și putem savura apusul înainte de a merge la cină.",
+            "en": "In winter, the car gives you the freedom to comfortably visit more remote places like the Sanctuary of Aphrodite. We enjoy driving through Cyprus's lush green winter landscape. At noon, the harbour's sunny parking spots and cafés are inviting. Since it gets dark early, the car provides flexibility to enjoy the sunset before driving to dinner."
+          },
+          "stops": [
+            {
+              "name": "Sanctuary of Aphrodite",
+              "tip_5lang": {
+                "de": "Die Anlage ist im Winter viel grüner und lebendiger als im Sommer.",
+                "hu": "A terület télen sokkal zöldebb és élettel telibb, mint nyáron.",
+                "ro": "Situl este mult mai verde și plin de viață iarna decât vara.",
+                "en": "The site is much greener and more vibrant in winter than in summer."
+              }
+            },
+            {
+              "name": "Petra tou Romiou (Aphrodite's Rock)",
+              "tip_5lang": {
+                "de": "Ideal für einen Stopp, ohne in der prallen Sonne schwitzen zu müssen.",
+                "hu": "Ideális megálló, nem kell a tűző napon izzadni.",
+                "ro": "Ideal pentru o oprire fără a fi nevoie să transpiri sub soarele arzător.",
+                "en": "Ideal for a stop without having to sweat in the blazing sun."
+              }
+            },
+            {
+              "name": "Paphos Archaeological Park",
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche ist im Winter deutlich entspannter.",
+                "hu": "Télen sokkal könnyebb parkolóhelyet találni a bejáratnál.",
+                "ro": "Căutarea unui loc de parcare este mult mai relaxată iarna.",
+                "en": "Finding a parking spot is much more relaxed in winter."
+              }
+            },
+            {
+              "name": "Lunch at the Harbour",
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Außenbereiche vieler Restaurants.",
+                "hu": "Használja ki a sok étteremben megtalálható fűtött teraszokat.",
+                "ro": "Profitați de zonele exterioare încălzite ale multor restaurante.",
+                "en": "Take advantage of the heated outdoor areas at many restaurants."
+              }
+            },
+            {
+              "name": "Paphos Castle",
+              "tip_5lang": {
+                "de": "Die Aussicht vom Turm ist bei der klaren Winterluft fantastisch.",
+                "hu": "A toronyból nyíló kilátás a tiszta téli levegőben fantasztikus.",
+                "ro": "Priveliștea din turn este fantastică în aerul curat de iarnă.",
+                "en": "The view from the tower is fantastic in the clear winter air."
+              }
+            },
+            {
+              "name": "Tombs of the Kings",
+              "tip_5lang": {
+                "de": "Beachten Sie die kürzeren Winteröffnungszeiten der antiken Stätten.",
+                "hu": "Ügyeljen a régészeti helyszínek rövidebb téli nyitvatartására.",
+                "ro": "Respectați programul de iarnă mai scurt al siturilor antice.",
+                "en": "Note the shorter winter opening hours for the ancient sites."
+              }
+            },
+            {
+              "name": "Dinner at Coral Bay",
+              "tip_5lang": {
+                "de": "Dank Auto ist der Rückweg im Dunkeln sicher und unkompliziert.",
+                "hu": "Az autónak köszönhetően a hazavezető út sötétben is biztonságos.",
+                "ro": "Datorită mașinii, drumul de întoarcere pe întuneric este sigur.",
+                "en": "Thanks to the car, the drive back in the dark is safe and easy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Bergstraßen (Troodos) können Schnee haben, an der Küste bleibt es frostfrei.",
+              "Die Benzinpreise sind im Winter oft etwas stabiler.",
+              "Vermeiden Sie es, das Auto direkt am Meer zu parken (Salzgischt).",
+              "Nutzen Sie das Tageslicht bis 16:30 Uhr voll aus."
+            ],
+            "hu": [
+              "A hegyi utakon (Troodos) lehet hó, de a parton fagymentes marad az idő.",
+              "Az üzemanyagárak télen gyakran stabilabbak.",
+              "Kerülje az autó közvetlen tengerparti parkolását a sós permet miatt.",
+              "Használja ki teljesen a nappali fényt 16:30-ig."
+            ],
+            "ro": [
+              "Drumurile montane (Troodos) pot avea zăpadă, pe coastă rămâne fără îngheț.",
+              "Prețurile la combustibil sunt adesea mai stabile iarna.",
+              "Evitați parcarea mașinii direct lângă mare (din cauza sării pulverizate).",
+              "Profitați din plin de lumina zilei până la ora 16:30."
+            ],
+            "en": [
+              "Mountain roads (Troodos) may have snow, but the coast remains frost-free.",
+              "Fuel prices are often a bit more stable in winter.",
+              "Avoid parking the car directly by the sea due to salt spray.",
+              "Make full use of the daylight until 4:30 PM."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1386,6 +1968,188 @@
           "The 615 bus is your main transport for this route, running along the coast.",
           "Signal clearly to the driver when you want to get off at your stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind in Paphos bei Regen eine gute Wahl. Wir starten an der Harbour Bus Station und erreichen schnell den Archäologischen Park. Die Busse sind trocken und gut getaktet. Mittags genießen wir die Hafenküche, bevor wir mit dem Bus 615 nach Coral Bay fahren, um die stürmische See zu bewundern. Ein stressfreier Tag, an dem man sich nicht um das Fahren kümmern muss.",
+            "hu": "A tömegközlekedés Paphosban esőben is kiváló választás. A kikötői buszállomástól indulva gyorsan elérjük a régészeti parkot. A buszok szárazak és sűrűn járnak. Délben a kikötői konyhát élvezzük, majd a 615-ös busszal Coral Bay-be utazunk, hogy megcsodáljuk a viharos tengert. Stresszmentes nap, ahol nem kell a vezetéssel törődni.",
+            "ro": "Transportul public în Paphos este o alegere bună pe ploaie. Pornim de la stația de autobuz din port și ajungem rapid la parcul arheologic. Autobuzele sunt uscate și circulă regulat. La prânz ne bucurăm de bucătăria din port înainte de a lua autobuzul 615 spre Coral Bay pentru a admira marea furtunoasă. O zi fără stres, fără grija condusului.",
+            "en": "Public transit in Paphos is a great choice during rain. Starting from the Harbour Bus Station, we quickly reach the Archaeological Park. The buses are dry and run frequently. At noon, we enjoy the harbour cuisine before taking bus 615 to Coral Bay to admire the stormy sea. A stress-free day without the worry of driving."
+          },
+          "stops": [
+            {
+              "name": "Harbour Bus Station",
+              "tip_5lang": {
+                "de": "Überdachte Wartebereiche schützen vor dem schlimmsten Regen.",
+                "hu": "A fedett váróterületek védenek a szakadó esőtől.",
+                "ro": "Zonele de așteptare acoperite vă protejează de ploaie.",
+                "en": "Covered waiting areas protect you from the worst of the rain."
+              }
+            },
+            {
+              "name": "Archaeological Park & Castle",
+              "tip_5lang": {
+                "de": "Die Mosaikhäuser bieten perfekten Unterschlupf für Besichtigungen.",
+                "hu": "A mozaikházak tökéletes fedett helyszínt biztosítanak a nézelődéshez.",
+                "ro": "Casele cu mozaic oferă un adăpost perfect pentru vizitare.",
+                "en": "The mosaic houses provide perfect shelter for sightseeing."
+              }
+            },
+            {
+              "name": "Lunch at the Harbour",
+              "tip_5lang": {
+                "de": "Viele Restaurants liegen direkt an den Bushaltestellen.",
+                "hu": "Számos étterem közvetlenül a buszmegállók mellett található.",
+                "ro": "Multe restaurante sunt situate chiar lângă stațiile de autobuz.",
+                "en": "Many restaurants are located right next to the bus stops."
+              }
+            },
+            {
+              "name": "Tombs of the Kings",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle befindet sich direkt gegenüber dem Haupteingang.",
+                "hu": "A buszmegálló közvetlenül a főbejárattal szemben van.",
+                "ro": "Stația de autobuz se află chiar vizavi de intrarea principală.",
+                "en": "The bus stop is located directly opposite the main entrance."
+              }
+            },
+            {
+              "name": "Coral Bay",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus 615; er fährt alle 15 Minuten.",
+                "hu": "Használja a 615-ös buszt; 15 percenként jár.",
+                "ro": "Folosiți autobuzul 615; circulă la fiecare 15 minute.",
+                "en": "Use bus 615; it runs every 15 minutes."
+              }
+            },
+            {
+              "name": "Return to Harbour",
+              "tip_5lang": {
+                "de": "Warten Sie im Unterstand, falls der Bus Verspätung hat.",
+                "hu": "Várjon a fedett megállóban, ha késne a busz.",
+                "ro": "Așteptați în adăpost dacă autobuzul are întârziere.",
+                "en": "Wait in the shelter if the bus is delayed."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Holen Sie sich eine Tageskarte (Day Pass) beim Fahrer.",
+              "In den Bussen kann es bei Regen durch nasse Kleidung feucht sein.",
+              "Die Bushaltestellen am Hafen sind ein guter Treffpunkt.",
+              "Achten Sie auf die Anzeigen in den Bussen für die nächsten Stopps."
+            ],
+            "hu": [
+              "Vásároljon napijegyet közvetlenül a sofőrnél.",
+              "A buszokon esőben párás lehet a levegő a vizes ruhák miatt.",
+              "A kikötői buszmegállók jó találkozási pontok.",
+              "Figyelje a busz kijelzőjén a következő megállókat."
+            ],
+            "ro": [
+              "Cumpărați un permis de o zi (Day Pass) de la șofer.",
+              "În autobuze poate fi umiditate din cauza hainelor ude pe ploaie.",
+              "Stațiile de autobuz din port sunt un punct bun de întâlnire.",
+              "Urmăriți afișajele din autobuz pentru următoarele stații."
+            ],
+            "en": [
+              "Get a Day Pass from the driver to save money.",
+              "Buses can get humid in the rain due to everyone's wet clothes.",
+              "The harbour bus stations are good meeting points.",
+              "Watch the displays in the buses for the next stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Zyperns Busse sind im Winter angenehm leerer. Wir starten am Hafen und nutzen den Vormittag für die Archäologie. Mittags lockt der Hafen mit seinem milden Seeklima. Mit dem Bus 615 geht es entspannt nach Coral Bay, um dort den frühen Wintersonnenuntergang zu erleben. Da die Busse zuverlässig sind, ist man auch ohne eigenes Auto sehr flexibel in der gesamten Paphos-Region unterwegs.",
+            "hu": "Ciprus buszai télen kellemesen üresek. A kikötőből indulunk, és a délelőttöt a régészetnek szenteljük. Délben a kikötő enyhe tengeri klímája hívogat. A 615-ös busszal kényelmesen jutunk el Coral Bay-be, hogy elkapjuk a korai téli naplementét. Mivel a buszok megbízhatóak, saját autó nélkül is rugalmasan bejárható az egész Paphos régió.",
+            "ro": "Autobuzele din Cipru sunt plăcut de goale iarna. Pornim din port și dedicăm dimineața arheologiei. La prânz, portul atrage cu climatul său marin blând. Cu autobuzul 615 mergem relaxați spre Coral Bay pentru a experimenta apusul timpuriu de iarnă. Deoarece autobuzele sunt de încredere, ești foarte flexibil în toată regiunea Paphos chiar și fără mașină.",
+            "en": "Cyprus's buses are pleasantly empty in winter. We start at the harbour and dedicate the morning to archaeology. At noon, the harbour's mild sea climate is inviting. Take bus 615 for a relaxed trip to Coral Bay to experience the early winter sunset. Since the buses are reliable, you stay very flexible in the Paphos region even without your own car."
+          },
+          "stops": [
+            {
+              "name": "Harbour Bus Station",
+              "tip_5lang": {
+                "de": "Im Winter gibt es oft geänderte Fahrpläne, prüfen Sie diese online.",
+                "hu": "Télen gyakran változik a menetrend, ellenőrizze online.",
+                "ro": "Iarna există adesea orare modificate, verificați-le online.",
+                "en": "Check schedules online as there are often winter service changes."
+              }
+            },
+            {
+              "name": "Archaeological Park & Castle",
+              "tip_5lang": {
+                "de": "Weniger Wartezeiten an den Kassen im Vergleich zum Sommer.",
+                "hu": "Kevesebb várakozási idő a pénztáraknál a nyárhoz képest.",
+                "ro": "Timpi de așteptare mai scurți la case comparativ cu vara.",
+                "en": "Shorter waiting times at the ticket offices compared to summer."
+              }
+            },
+            {
+              "name": "Lunch at the Harbour",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant, das auch im Winter gut besucht ist.",
+                "hu": "Keressen olyan éttermet, ami télen is népszerű a helyiek körében.",
+                "ro": "Căutați un restaurant care este popular și iarna.",
+                "en": "Look for a restaurant that is well-frequented even in winter."
+              }
+            },
+            {
+              "name": "Tombs of the Kings",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um sich zwischen den Stopps kurz aufzuwärmen.",
+                "hu": "Használja a buszt, hogy kicsit felmelegedjen a megállók között.",
+                "ro": "Folosiți autobuzul pentru a vă încălzi scurt între opriri.",
+                "en": "Use the bus to warm up briefly between stops."
+              }
+            },
+            {
+              "name": "Coral Bay",
+              "tip_5lang": {
+                "de": "Die letzte Rückfahrt ist oft früher als im Hochsommer.",
+                "hu": "Az utolsó járat gyakran korábban indul, mint főszezonban.",
+                "ro": "Ultima cursă de întoarcere este adesea mai devreme decât vara.",
+                "en": "The last return trip is often earlier than in high summer."
+              }
+            },
+            {
+              "name": "Return to Harbour",
+              "tip_5lang": {
+                "de": "Abends sind die Busse oft gut geheizt.",
+                "hu": "Este a buszok gyakran jól fűtöttek.",
+                "ro": "Seara, autobuzele sunt adesea bine încălzite.",
+                "en": "Buses are often well-heated in the evenings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Winter-Fahrpläne der OSEA-Busse.",
+              "Die Busse sind klimatisiert, was im Winter auch Heizung bedeutet.",
+              "Reisen Sie außerhalb der Stoßzeiten der Einheimischen.",
+              "Halten Sie Kleingeld für den Fahrkartenkauf bereit."
+            ],
+            "hu": [
+              "Ellenőrizze az OSEA buszok téli menetrendjét.",
+              "A buszok klimatizáltak, ami télen fűtést jelent.",
+              "Utazzon a helyiek csúcsidőjén kívül.",
+              "Legyen kéznél aprópénz a jegyvásárláshoz."
+            ],
+            "ro": [
+              "Verificați orarele de iarnă ale autobuzelor OSEA.",
+              "Autobuzele sunt climatizate, ceea ce înseamnă și încălzire iarna.",
+              "Călătoriți în afara orelor de vârf ale localnicilor.",
+              "Aveți pregătit mărunt pentru cumpărarea biletelor."
+            ],
+            "en": [
+              "Check the winter schedules of OSEA buses.",
+              "Buses are climate-controlled, which means heating in winter.",
+              "Travel outside of local rush hours for more comfort.",
+              "Have small change ready for buying tickets."
+            ]
+          }
+        }
       }
     }
   }

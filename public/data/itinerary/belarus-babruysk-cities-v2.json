@@ -13,7 +13,7 @@
       "speed_kmh": 3,
       "start": "09:00",
       "end_estimate": "17:55",
-      "total_km": 7.8,
+      "total_km": 4.1,
       "stop_count": 7,
       "stops": [
         {
@@ -379,6 +379,206 @@
           "Carry some cash for small purchases or entrance fees.",
           "Start your day early to make the most of it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am berühmten Biber-Denkmal unter dem Regenschirm, gefolgt von der Ruhe der Weißen Kirche. Mittags bewundern wir das Katznelson-Haus und flüchten vor dem Schauer ins Regionalmuseum. Nachmittags erkunden wir die weitläufige Festung Bobruisk trotz des nassen Wetters. Den Abend lassen wir in der prächtigen St.-Nikolaus-Kathedrale ausklingen, wo wir im Trockenen verweilen können.",
+            "hu": "A nap az ikonikus Hód-szobornál kezdődik esernyővel, majd a Fehér Templom csendjében keresünk menedéket. Délben a szecessziós Katznelson-házat csodáljuk meg, mielőtt a Regionális Múzeum termeibe vonulnánk az eső elől. Délután a hatalmas várrendszer vizes romjai között teszünk egy sétát. Az estét a Szent Miklós-székesegyház arany kupolái alatt, szárazon fejezzük be.",
+            "ro": "Ziua începe la faimosul Monument al Castorului sub umbrelă, urmată de liniștea Bisericii Albe. La prânz admirăm Casa Katznelson și ne refugiem de ploaie în Muzeul Regional. După-amiaza explorăm ruinele ude ale Cetății Babruisk, în ciuda vremii nefavorabile. Seara se încheie la Catedrala Sf. Nicolae, unde ne putem bucura de interiorul somptuos, feriți de picăturile de ploaie.",
+            "en": "The day starts at the iconic Beaver Monument with an umbrella, followed by the serenity of the White Church. At noon, we admire the Katznelson House before seeking refuge from the rain in the Regional Museum. In the afternoon, we take a wet stroll through the massive fortress ruins. The evening ends at St. Nicholas Cathedral, where we can appreciate the golden domes while staying dry inside."
+          },
+          "stops": [
+            {
+              "name": "Beaver Monument",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; der Biber glänzt im Regen besonders schön.",
+                "hu": "Gyors fotó; a hód bundája esőben különlegesen csillog.",
+                "ro": "Oprire rapidă pentru poze; castorul strălucește frumos în ploaie.",
+                "en": "Quick photo op; the beaver's bronze surface shines beautifully in the rain."
+              }
+            },
+            {
+              "name": "St. George's Church (White Church)",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den ersten heftigen Schauer abzuwarten.",
+                "hu": "Ideális helyszín az első nagyobb zápor kivárására.",
+                "ro": "Un loc ideal pentru a aștepta trecerea primei averse de ploaie.",
+                "en": "An ideal spot to wait out the first heavy shower of the morning."
+              }
+            },
+            {
+              "name": "Katznelson House",
+              "tip_5lang": {
+                "de": "Bewundern Sie die blaue Holzfassade schnell vom Gehweg aus.",
+                "hu": "Csodálja meg a kék fagerendás homlokzatot gyorsan a járdáról.",
+                "ro": "Admirați fațada albastră de lemn rapid de pe trotuar.",
+                "en": "Admire the blue wooden facade quickly from the sidewalk."
+              }
+            },
+            {
+              "name": "Dunin-Marcinkiewicz Theatre",
+              "tip_5lang": {
+                "de": "Der überdachte Eingang bietet kurzzeitig Schutz vor dem Wind.",
+                "hu": "A fedett bejárat rövid ideig védelmet nyújt a szél ellen.",
+                "ro": "Intrarea acoperită oferă protecție temporară împotriva vântului.",
+                "en": "The covered entrance provides brief shelter from the wind."
+              }
+            },
+            {
+              "name": "Regional Museum of Local Lore",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um nasse Mäntel und Schirme abzugeben.",
+                "hu": "Használja a ruhatárat a vizes kabátok és esernyők leadására.",
+                "ro": "Folosiți garderoba pentru a lăsa haina și umbrela udă.",
+                "en": "Use the cloakroom to drop off wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Bobruisk Fortress",
+              "tip_5lang": {
+                "de": "Vorsicht auf den unbefestigten Wegen; sie können sehr schlammig sein.",
+                "hu": "Vigyázzon a földsáncokon; esőben nagyon sárosak és csúszósak lehetnek.",
+                "ro": "Atenție pe poteci; pot deveni foarte noroioase în timpul ploii.",
+                "en": "Watch your step on the unpaved paths; they can get quite muddy."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Trocknen Sie sich im warmen Inneren auf, bevor Sie heimkehren.",
+                "hu": "Szárítkozzon meg a meleg belső térben a hazatérés előtt.",
+                "ro": "Uscați-vă în interiorul cald înainte de a pleca spre casă.",
+                "en": "Dry off in the warm interior before heading back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht auf den Kopfsteinpflasterstraßen im Zentrum, sie sind bei Nässe extrem rutschig.",
+              "Ein stabiler Regenschirm ist wichtig, da es an der Festung oft windig ist.",
+              "In den kleinen Cafés am Sozialistitscheskaja-Boulevard kann man gut aufwärmen.",
+              "Wasserdichtes Schuhwerk ist für die Festungsbesichtigung unerlässlich."
+            ],
+            "hu": [
+              "Vigyázzon a belvárosi macskaköveken, esőben rendkívül csúszósak.",
+              "Strapabíró esernyőt hozzon, mert a vár nyílt területein erős a szél.",
+              "A Szocialista sugárút kávézóiban érdemes megállni egy forró teára.",
+              "Vízálló cipő elengedhetetlen a vár körüli sáros ösvényekhez."
+            ],
+            "ro": [
+              "Atenție pe străzile pavate din centru; devin extrem de alunecoase când sunt ude.",
+              "O umbrelă rezistentă este esențială, deoarece la cetate vântul bate puternic.",
+              "Cafenelele de pe bulevardul Socialisticeskaia sunt perfecte pentru încălzire.",
+              "Încălțămintea impermeabilă este obligatorie pentru vizitarea cetății."
+            ],
+            "en": [
+              "Be careful on the cobblestone streets in the center; they are extremely slippery when wet.",
+              "Bring a sturdy umbrella as it gets quite windy near the fortress ruins.",
+              "The cafes along Sotsialisticheskaya Street are great for warming up with a tea.",
+              "Waterproof footwear is essential for navigating the muddy paths around the fortress."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Biber-Denkmal führt uns schnell in die warme Weiße Kirche. Mittags bewundern wir das Katznelson-Haus im Schnee und tauchen in die Geschichte des Regionalmuseums ein. Nachmittags bietet die schneebedeckte Festung einen mystischen Anblick, bevor die Sonne früh untergeht. Die beleuchtete St.-Nikolaus-Kathedrale bildet den glanzvollen, warmen Abschluss unseres Wintertages.",
+            "hu": "A fagyos reggel a Hód-szobornál indul, majd a Fehér Templom fűtött terében melegszünk fel. Délben a hófödte Katznelson-házat csodáljuk meg, utána a Regionális Múzeum tárlatai között bújunk el a hideg elől. Délután a vár fehér falai misztikus látványt nyújtanak a korai naplemente előtt. A kivilágított Szent Miklós-székesegyház meleg belsője tökéletes zárása a téli napnak.",
+            "ro": "O dimineață geroasă la Monumentul Castorului ne trimite rapid spre căldura Bisericii Albe. La prânz admirăm Casa Katznelson sub zăpadă și ne cufundăm în istoria Muzeului Regional. După-amiaza, cetatea acoperită de zăpadă oferă o priveliște mistică înainte de apusul timpuriu. Catedrala Sf. Nicolae iluminată oferă un final cald și strălucitor zilei de iarnă.",
+            "en": "A frosty morning at the Beaver Monument leads us quickly to the warmth of the White Church. At noon, we admire the snow-covered Katznelson House and dive into history at the Regional Museum. In the afternoon, the snowy fortress offers a mystical sight before the early sunset. The illuminated St. Nicholas Cathedral provides a warm and glowing conclusion to our winter day."
+          },
+          "stops": [
+            {
+              "name": "Beaver Monument",
+              "tip_5lang": {
+                "de": "Vorsicht beim Posieren; das Metall ist bei Frost eiskalt.",
+                "hu": "Vigyázzon a fotózásnál; a fém szobor fagyban jéghideg lehet.",
+                "ro": "Atenție la poze; metalul este extrem de rece pe timp de ger.",
+                "en": "Careful when posing; the metal surface is freezing cold in winter."
+              }
+            },
+            {
+              "name": "St. George's Church (White Church)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und die angenehme Wärme im Kirchenschiff.",
+                "hu": "Élvezze a csendet és a kellemes meleget a templomhajóban.",
+                "ro": "Bucurați-vă de liniște și de căldura plăcută din interior.",
+                "en": "Enjoy the silence and the pleasant warmth inside the nave."
+              }
+            },
+            {
+              "name": "Katznelson House",
+              "tip_5lang": {
+                "de": "Die blaue Farbe bildet einen tollen Kontrast zum weißen Schnee.",
+                "hu": "A kék szín remek kontrasztot alkot a fehér hóval a fotókon.",
+                "ro": "Culoarea albastră creează un contrast superb cu zăpada albă.",
+                "en": "The bright blue color creates a great contrast with the white snow."
+              }
+            },
+            {
+              "name": "Dunin-Marcinkiewicz Theatre",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Spielplan für eine Abendvorstellung im Warmen.",
+                "hu": "Nézze meg a műsort egy esti, meleg színházi előadáshoz.",
+                "ro": "Verificați programul pentru un spectacol de seară la căldură.",
+                "en": "Check the schedule for a warm evening theater performance."
+              }
+            },
+            {
+              "name": "Regional Museum of Local Lore",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, um den Körper aufzuwärmen.",
+                "hu": "Töltsön itt több időt, hogy alaposan átmelegedjen a teste.",
+                "ro": "Planificați mai mult timp aici pentru a vă încălzi corpul.",
+                "en": "Plan to spend extra time here to warm up thoroughly."
+              }
+            },
+            {
+              "name": "Bobruisk Fortress",
+              "tip_5lang": {
+                "de": "Die Sonne geht gegen 16:30 Uhr unter; nutzen Sie das Restlicht.",
+                "hu": "A nap 16:30 körül nyugszik; használja ki az utolsó fényeket.",
+                "ro": "Soarele apune în jurul orei 16:30; profitați de lumina rămasă.",
+                "en": "The sun sets around 4:30 PM; make the most of the remaining light."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Der Duft von Weihrauch und Kerzen sorgt für wohlige Wärme.",
+                "hu": "A tömjén és a gyertyák illata bensőséges meleget áraszt.",
+                "ro": "Parfumul de tămâie și lumânări oferă o căldură primitoare.",
+                "en": "The scent of incense and candles provides a cozy warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche; der Wind in den belarussischen Ebenen ist beißend.",
+              "Die Gehwege können unter dem Schnee vereist sein; laufen Sie vorsichtig.",
+              "In Belarus ist heißer Tee mit Zitrone das beste Mittel gegen die Kälte.",
+              "Beachten Sie, dass die Dämmerung im Winter bereits sehr früh einsetzt."
+            ],
+            "hu": [
+              "Viseljen hőtartó aláöltözetet; a belorusz síkság szele metsző hideg tud lenni.",
+              "A járdák a hó alatt jegesek lehetnek; közlekedjen óvatosan.",
+              "A citromos forró tea a legjobb védekezés a kinti hideg ellen.",
+              "Vegye figyelembe, hogy télen már korán, délután fél ötkor sötétedik."
+            ],
+            "ro": [
+              "Purtați lenjerie termică; vântul din câmpiile belaruse este tăios.",
+              "Trotuarele pot fi înghețate sub zăpadă; mergeți cu mare atenție.",
+              "Ceaiul fierbinte cu lămâie este cel mai bun remediu împotriva frigului.",
+              "Rețineți că amurgul începe foarte devreme în timpul iernii."
+            ],
+            "en": [
+              "Wear thermal layers; the wind across the Belarusian plains can be biting.",
+              "Sidewalks can be icy under the snow; walk carefully throughout the city.",
+              "Hot tea with lemon is the best local remedy for the winter chill.",
+              "Keep in mind that sunset occurs early, around 4:30 PM in mid-winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +952,206 @@
           "Some roads can be uneven, ride with caution.",
           "Use a good lock to secure your bike at the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten unsere Radtour an der Festung, wo die Pfade heute etwas rutschig sind. Zum Aufwärmen geht es ins Regionalmuseum, bevor wir kurz am Theater stoppen. Das Biber-Denkmal und das Katznelson-Haus besuchen wir zügig zwischen den Schauern. Über die Weiße Kirche radeln wir schließlich zur St.-Nikolaus-Kathedrale, wo wir unser Fahrrad sicher abstellen und im Trockenen entspannen.",
+            "hu": "A várnál kezdjük a biciklitúrát, ahol az ösvények ma kissé csúszósak. Melegedni a Regionális Múzeumba megyünk, majd rövid megállót teszünk a színháznál. A Hód-szobrot és a Katznelson-házat két zápor között látogatjuk meg. A Fehér Templomon keresztül tekerünk a Szent Miklós-székesegyházhoz, ahol biztonságban leparkolunk és megpihenünk.",
+            "ro": "Începem turul cu bicicleta la cetate, unde potecile sunt puțin alunecoase astăzi. Pentru încălzire mergem la Muzeul Regional, înainte de a opri scurt la teatru. Vizităm Monumentul Castorului și Casa Katznelson rapid între averse. Pedalăm pe lângă Biserica Albă până la Catedrala Sf. Nicolae, unde parcăm bicicleta și ne relaxăm la adăpost.",
+            "en": "We start our bike tour at the fortress, where the paths are a bit slippery today. We head to the Regional Museum to warm up, then make a quick stop at the theater. We visit the Beaver Monument and Katznelson House swiftly between showers. Cycling past the White Church, we reach St. Nicholas Cathedral, where we can park safely and relax in the dry interior."
+          },
+          "stops": [
+            {
+              "name": "Bobruisk Fortress",
+              "tip_5lang": {
+                "de": "Vermeiden Sie steile Grasböschungen; diese sind bei Regen extrem glatt.",
+                "hu": "Kerülje a meredek füves rézsűket; esőben ezek életveszélyesen csúsznak.",
+                "ro": "Evitați pantele cu iarbă; acestea devin extrem de alunecoase pe ploaie.",
+                "en": "Avoid steep grassy slopes; they are extremely slippery when raining."
+              }
+            },
+            {
+              "name": "Regional Museum of Local Lore",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Fahrradständer in der Nähe des Haupteingangs.",
+                "hu": "Keressen egy kerékpártárolót a főbejárat közelében.",
+                "ro": "Căutați un suport de biciclete în apropierea intrării principale.",
+                "en": "Look for a bike rack near the main entrance to secure your cycle."
+              }
+            },
+            {
+              "name": "Dunin-Marcinkiewicz Theatre",
+              "tip_5lang": {
+                "de": "Kurzer Halt unter dem Vordach, um die Karte zu prüfen.",
+                "hu": "Rövid megálló az előtető alatt a térkép ellenőrzéséhez.",
+                "ro": "Oprire scurtă sub copertină pentru a verifica harta.",
+                "en": "Short stop under the canopy to check your map or GPS."
+              }
+            },
+            {
+              "name": "Beaver Monument",
+              "tip_5lang": {
+                "de": "Achten Sie beim Absteigen auf nasse Pfützen auf dem Platz.",
+                "hu": "Vigyázzon a leszállásnál a téren lévő vizes tócsákra.",
+                "ro": "Atenție la bălțile de pe piață când coborâți de pe bicicletă.",
+                "en": "Watch out for puddles in the square when dismounting your bike."
+              }
+            },
+            {
+              "name": "Katznelson House",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schmalen Gehwegen vor dem Haus.",
+                "hu": "Hajtson óvatosan a ház előtti keskeny járdaszakaszokon.",
+                "ro": "Conduceți cu atenție pe porțiunile înguste de trotuar din fața casei.",
+                "en": "Ride carefully on the narrow sidewalk sections in front of the house."
+              }
+            },
+            {
+              "name": "St. George's Church (White Church)",
+              "tip_5lang": {
+                "de": "Der Kiesweg zur Kirche kann bei Regen etwas weich sein.",
+                "hu": "A templomhoz vezető kavicsos út esőben felázhat.",
+                "ro": "Drumul cu pietriș spre biserică poate fi moale din cauza ploii.",
+                "en": "The gravel path to the church can get soft and muddy in the rain."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Wischen Sie den Sattel trocken, bevor Sie nach der Besichtigung weiterfahren.",
+                "hu": "Törölje szárazra a nyerget a látogatás után, mielőtt továbbindulna.",
+                "ro": "Ștergeți șaua înainte de a pleca mai departe după vizită.",
+                "en": "Wipe your saddle dry before heading off after your visit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke; der Fahrtwind kühlt bei Nässe stark aus.",
+              "Vermeiden Sie plötzliches Bremsen auf nassem Kopfsteinpflaster.",
+              "Schutzbleche am Fahrrad sind in Babrujsk bei Regen unerlässlich.",
+              "Nutzen Sie die Indoor-Museumszeit, um Ihre Kleidung etwas zu trocknen."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot; a menetszél vizesen nagyon lehűti a testet.",
+              "Kerülje a hirtelen fékezést a vizes macskaköveken.",
+              "Sárvédő nélküli biciklivel ne induljon el esőben Babrujszkban.",
+              "Használja ki a múzeumi időt a ruházata részleges megszárítására."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie completă; vântul vă va răci rapid dacă sunteți ud.",
+              "Evitați frânările bruște pe pavajul ud din centrul orașului.",
+              "Apărătorile de noroi sunt esențiale în Babruisk pe timp de ploaie.",
+              "Folosiți timpul petrecut în muzeu pentru a vă usca puțin hainele."
+            ],
+            "en": [
+              "Wear a full raincoat; the wind chill while riding is much worse when wet.",
+              "Avoid sudden braking on wet cobblestones to prevent skidding.",
+              "Fenders/mudguards are essential in Babrujsk when cycling in the rain.",
+              "Use the indoor museum time to let your outer layers dry off a bit."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Trotz Kälte starten wir an der Festung, deren Wälle märchenhaft verschneit sind. Im Regionalmuseum tauen wir auf, bevor wir über den Theaterplatz radeln. Der Biber und das Katznelson-Haus sind im Winterlicht schnell erreicht. Nach einem Stopp an der Weißen Kirche beenden wir die Tour an der St.-Nikolaus-Kathedrale, wo die Wärme des Innenraums eine wahre Wohltat nach der frostigen Fahrt ist.",
+            "hu": "A hideg ellenére a várnál kezdünk, amelynek sáncai mesésen hófödték. A Regionális Múzeumban engedünk fel, majd áttekerünk a színház téren. A Hódot és a Katznelson-házat a téli fényben gyorsan elérjük. A Fehér Templom után a Szent Miklós-székesegyháznál fejezzük be a túrát, ahol a belső tér melege igazi áldás a fagyos tekerés után.",
+            "ro": "În ciuda frigului, începem la cetate, ale cărei ziduri sunt acoperite de o zăpadă de basm. Ne încălzim la Muzeul Regional, apoi pedalăm prin piața teatrului. Castorul și Casa Katznelson sunt vizitate rapid în lumina iernii. După o oprire la Biserica Albă, încheiem turul la Catedrala Sf. Nicolae, unde căldura din interior este o binecuvântare.",
+            "en": "Despite the cold, we start at the fortress, its ramparts looking fairytale-like under the snow. We thaw out at the Regional Museum before cycling across the theater square. The Beaver and Katznelson House are quickly reached in the winter light. After a stop at the White Church, we finish at St. Nicholas Cathedral, where the interior warmth is a true blessing after the frosty ride."
+          },
+          "stops": [
+            {
+              "name": "Bobruisk Fortress",
+              "tip_5lang": {
+                "de": "Fahren Sie nur auf geräumten Hauptwegen; der Schnee verbirgt Schlaglöcher.",
+                "hu": "Csak a letakarított utakon hajtson; a hó elrejtheti az úthibákat.",
+                "ro": "Conduceți doar pe drumurile curățate; zăpada poate ascunde gropi.",
+                "en": "Stick to cleared main paths; deep snow can hide dangerous potholes."
+              }
+            },
+            {
+              "name": "Regional Museum of Local Lore",
+              "tip_5lang": {
+                "de": "Schütteln Sie den Schnee vom Fahrrad, bevor Sie es abschließen.",
+                "hu": "Rázza le a havat a bicikliről, mielőtt lezárná a tárolónál.",
+                "ro": "Scuturați zăpada de pe bicicletă înainte de a o încuia.",
+                "en": "Shake the snow off your bike before locking it up at the museum."
+              }
+            },
+            {
+              "name": "Dunin-Marcinkiewicz Theatre",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eiszapfen, die von den Dächern hängen könnten.",
+                "hu": "Vigyázzon a tetőkről lelógó jégcsapokra a színház környékén.",
+                "ro": "Atenție la țurțurii care ar putea cădea de pe acoperișuri.",
+                "en": "Watch out for icicles that might be hanging from the theater roof."
+              }
+            },
+            {
+              "name": "Beaver Monument",
+              "tip_5lang": {
+                "de": "Der Platz kann durch festgetretenen Schnee sehr glatt sein.",
+                "hu": "A tér a letaposott hó miatt nagyon csúszós lehet.",
+                "ro": "Piața poate fi foarte alunecoasă din cauza zăpezii bătătorite.",
+                "en": "The square can be very slippery due to packed snow and ice."
+              }
+            },
+            {
+              "name": "Katznelson House",
+              "tip_5lang": {
+                "de": "Ein kurzes Foto reicht; die Kälte zieht schnell in die Finger.",
+                "hu": "Egy gyors fotó elég; a hideg hamar belemar az ujjakba.",
+                "ro": "O poză rapidă este suficientă; frigul pătrunde repede la degete.",
+                "en": "A quick photo is enough; the cold will nip at your fingers quickly."
+              }
+            },
+            {
+              "name": "St. George's Church (White Church)",
+              "tip_5lang": {
+                "de": "Treten Sie vorsichtig auf die Stufen; diese könnten vereist sein.",
+                "hu": "Óvatosan lépjen a lépcsőkre; jegesek lehetnek a templomnál.",
+                "ro": "Pășiți cu atenție pe trepte; acestea ar putea fi înghețate.",
+                "en": "Step carefully on the stairs; they might be coated in thin ice."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen der Frostluft und dem warmen Kerzenlicht.",
+                "hu": "Élvezze a fagyos levegő és a meleg gyertyafény közötti kontrasztot.",
+                "ro": "Bucurați-vă de contrastul dintre aerul înghețat și lumina caldă.",
+                "en": "Enjoy the contrast between the freezing air and the warm candlelight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Winter-Fahrradhandschuhe; herkömmliche Handschuhe reichen nicht.",
+              "Achten Sie auf Streusalz, es kann die Kette Ihres Fahrrads angreifen.",
+              "Die Batterien von E-Bikes oder Handys entladen sich bei Frost viel schneller.",
+              "Fahren Sie defensiv, da Bremswege auf Schnee deutlich länger sind."
+            ],
+            "hu": [
+              "Használjon téli kerékpáros kesztyűt; a sima kesztyű nem elég a menetszélben.",
+              "Ügyeljen az útszóró sóra, mert károsíthatja a kerékpár láncát.",
+              "Az elektromos kerékpárok vagy telefonok akkumulátora gyorsabban merül fagyban.",
+              "Vezessen óvatosan, mert a fékút havon jelentősen meghosszabbodik."
+            ],
+            "ro": [
+              "Folosiți mănuși speciale de iarnă pentru ciclism; cele obișnuite nu sunt suficiente.",
+              "Atenție la sarea de pe drumuri; poate afecta lanțul bicicletei.",
+              "Bateriile bicicletelor electrice sau ale telefoanelor se descarcă mult mai repede.",
+              "Conduceți defensiv; distanța de frânare pe zăpadă este mult mai mare."
+            ],
+            "en": [
+              "Use dedicated winter cycling gloves; regular gloves won't block the freezing wind.",
+              "Watch out for road salt, as it can quickly corrode your bike's chain.",
+              "Phone and e-bike batteries drain much faster in freezing temperatures.",
+              "Ride defensively, as braking distances are significantly longer on snow and ice."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -759,7 +1159,7 @@
       "speed_kmh": 28,
       "start": "09:00",
       "end_estimate": "17:34",
-      "total_km": 12.8,
+      "total_km": 8.5,
       "stop_count": 7,
       "stops": [
         {
@@ -1132,6 +1532,206 @@
           "Be aware of local traffic laws and speed limits.",
           "A car gives you the flexibility to visit places outside the immediate center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Babrujsk heute ganz entspannt und trocken. Wir starten an der weitläufigen Festung und fahren zum Regionalmuseum, wo wir die Geschichte der Stadt vertiefen. Nach kurzen Stopps am Theater und dem Biber-Denkmal besuchen wir die Weiße Kirche. Den späten Nachmittag verbringen wir in der St.-Nikolaus-Kathedrale und beenden den verregneten Tag bei einem gemütlichen Abendessen im Stadtzentrum.",
+            "hu": "Autóval ma kényelmesen és szárazon fedezzük fel Babrujszkot. A hatalmas várnál kezdünk, majd a Regionális Múzeumba hajtunk, hogy elmélyedjünk a város történelmében. A színház és a Hód-szobor után meglátogatjuk a Fehér Templomot. A késő délutánt a Szent Miklós-székesegyházban töltjük, a napot pedig egy hangulatos belvárosi vacsorával zárjuk.",
+            "ro": "Cu mașina explorăm Babruisk astăzi relaxați și uscați. Începem la cetatea vastă și conducem spre Muzeul Regional. După scurte opriri la teatru și la Monumentul Castorului, vizităm Biserica Albă. Petrecem după-amiaza târzie la Catedrala Sf. Nicolae și încheiem ziua ploioasă cu o cină plăcută în centrul orașului.",
+            "en": "By car, we explore Babrujsk today in a relaxed and dry manner. We start at the expansive fortress and drive to the Regional Museum. After quick stops at the theater and the Beaver Monument, we visit the White Church. We spend the late afternoon at St. Nicholas Cathedral and end the rainy day with a cozy dinner in the city center."
+          },
+          "stops": [
+            {
+              "name": "Bobruisk Fortress",
+              "tip_5lang": {
+                "de": "Man kann in der Nähe der Ruinen parken, um lange Fußwege im Regen zu vermeiden.",
+                "hu": "A romok közelében is parkolhat, így elkerülheti a hosszú gyaloglást az esőben.",
+                "ro": "Puteți parca aproape de ruine pentru a evita mersul lung prin ploaie.",
+                "en": "You can park close to the ruins to avoid long walks in the rain."
+              }
+            },
+            {
+              "name": "Regional Museum of Local Lore",
+              "tip_5lang": {
+                "de": "Es gibt ausreichend Parkmöglichkeiten direkt vor dem Gebäude.",
+                "hu": "Közvetlenül az épület előtt bőséges parkolási lehetőség áll rendelkezésre.",
+                "ro": "Există suficiente locuri de parcare chiar în fața clădirii.",
+                "en": "There are plenty of parking spaces available directly in front of the building."
+              }
+            },
+            {
+              "name": "Dunin-Marcinkiewicz Theatre",
+              "tip_5lang": {
+                "de": "Lassen Sie die Beifahrer direkt am Eingang aussteigen.",
+                "hu": "Hagyja, hogy utasai közvetlenül a bejáratnál szálljanak ki a kocsiból.",
+                "ro": "Lăsați pasagerii să coboare chiar la intrarea în teatru.",
+                "en": "Let your passengers out right at the theater entrance to stay dry."
+              }
+            },
+            {
+              "name": "Beaver Monument",
+              "tip_5lang": {
+                "de": "Ein schneller Stopp; das Denkmal steht direkt an einer befahrbaren Straße.",
+                "hu": "Gyors megálló; az emlékmű közvetlenül egy autóval járható út mellett van.",
+                "ro": "O oprire rapidă; monumentul este situat chiar lângă o stradă accesibilă.",
+                "en": "A quick stop; the monument is located right by a driveable street."
+              }
+            },
+            {
+              "name": "St. George's Church (White Church)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz der Kirche, um trocken hineinzukommen.",
+                "hu": "Használja a templom saját parkolóját a gyors bejutáshoz.",
+                "ro": "Folosiți parcarea bisericii pentru a intra rapid și a rămâne uscat.",
+                "en": "Use the church parking lot for quick and dry access to the building."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf dem Parkplatz beim Aussteigen.",
+                "hu": "Kiszálláskor ügyeljen a parkolóban lévő mélyebb tócsákra.",
+                "ro": "Atenție la bălțile din parcare atunci când coborâți din mașină.",
+                "en": "Watch out for deep puddles in the parking area when getting out."
+              }
+            },
+            {
+              "name": "Dinner in the city center",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit Tiefgarage oder Parkplatz direkt davor.",
+                "hu": "Keressen olyan éttermet, amely előtt közvetlenül van parkolóhely.",
+                "ro": "Căutați un restaurant cu parcare direct în față pentru confort.",
+                "en": "Look for a restaurant with parking directly in front for maximum comfort."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Abfahrt.",
+              "Bei starkem Regen können einige Nebenstraßen an der Festung schlecht befahrbar sein.",
+              "Nutzen Sie die Klimaanlage, um das Beschlagen der Scheiben zu verhindern.",
+              "Das Parken im Zentrum ist bei Regen oft einfacher, da weniger Fußgänger unterwegs sind."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Heves esőzéskor a vár körüli mellékutak nehezen járhatóak lehetnek.",
+              "Használja a légkondicionálót az ablakok párásodásának megelőzésére.",
+              "A belvárosi parkolás esőben gyakran könnyebb, mert kevesebb a gyalogos."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de a pleca la drum.",
+              "În caz de ploaie torențială, drumurile secundare de lângă cetate pot fi dificile.",
+              "Folosiți aerul condiționat pentru a preveni aburirea geamurilor.",
+              "Parcarea în centru este adesea mai ușoară pe ploaie, fiind mai puțini pietoni."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers before starting the tour.",
+              "During heavy rain, some side roads near the fortress may be difficult to navigate.",
+              "Use the air conditioning to prevent your windows from fogging up.",
+              "Parking in the center is often easier during rain as there are fewer pedestrians."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im warmen Auto gleiten wir durch das winterliche Babrujsk. Von der verschneiten Festung geht es zum Regionalmuseum und weiter zum Theaterplatz. Der Biber und die Weiße Kirche sind dank kurzer Wege vom Parkplatz aus gut zu besichtigen. Den Nachmittag verbringen wir in der prachtvollen St.-Nikolaus-Kathedrale, bevor wir den Tag bei einem wärmenden Abendessen im Zentrum gemütlich ausklingen lassen.",
+            "hu": "A meleg autóban ülve suhanunk át a télies Babrujszkokon. A havas vár után a Regionális Múzeumba, majd a színház térre hajtunk. A Hód és a Fehér Templom a közeli parkolóknak köszönhetően könnyen megtekinthető. A délutánt a pompás Szent Miklós-székesegyházban töltjük, majd a napot egy melengető belvárosi vacsorával zárjuk le.",
+            "ro": "În mașina caldă, alunecăm prin Babruisk-ul de iarnă. De la cetatea înzăpezită mergem la Muzeul Regional și apoi în piața teatrului. Castorul și Biserica Albă sunt ușor de vizitat datorită parcărilor apropiate. Petrecem după-amiaza la superba Catedrală Sf. Nicolae, înainte de a încheia ziua cu o cină caldă în centru.",
+            "en": "In the warmth of our car, we glide through wintry Babrujsk. From the snowy fortress, we head to the Regional Museum and then to the theater square. The Beaver and the White Church are easily visited thanks to nearby parking. We spend the afternoon at the magnificent St. Nicholas Cathedral before concluding the day with a warming dinner in the center."
+          },
+          "stops": [
+            {
+              "name": "Bobruisk Fortress",
+              "tip_5lang": {
+                "de": "Vorsicht beim Fahren auf ungeräumten Wegen innerhalb des Festungsgeländes.",
+                "hu": "Vigyázzon a vezetéssel a vár területén belüli letakarítatlan utakon.",
+                "ro": "Atenție la condus pe drumurile necurățate din incinta cetății.",
+                "en": "Be careful driving on uncleared paths within the fortress grounds."
+              }
+            },
+            {
+              "name": "Regional Museum of Local Lore",
+              "tip_5lang": {
+                "de": "Klopfen Sie den Schnee von den Schuhen, bevor Sie ins Auto steigen.",
+                "hu": "Verje le a havat a cipőjéről, mielőtt visszaülne az autóba.",
+                "ro": "Scuturați zăpada de pe încălțăminte înainte de a urca în mașină.",
+                "en": "Kick the snow off your boots before getting back into the car."
+              }
+            },
+            {
+              "name": "Dunin-Marcinkiewicz Theatre",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es beleuchtete Parkplätze für die Abenddämmerung.",
+                "hu": "A közelben jól kivilágított parkolók találhatóak az esti szürkülethez.",
+                "ro": "Există parcări bine iluminate în apropiere pentru amurg.",
+                "en": "There are well-lit parking spaces nearby for the early twilight."
+              }
+            },
+            {
+              "name": "Beaver Monument",
+              "tip_5lang": {
+                "de": "Ein Fotostopp ohne den Motor abzustellen ist hier oft möglich.",
+                "hu": "Egy gyors fotómegálló a motor leállítása nélkül is gyakran megoldható.",
+                "ro": "O oprire pentru poze fără a opri motorul este adesea posibilă aici.",
+                "en": "A quick photo stop without turning off the engine is often possible here."
+              }
+            },
+            {
+              "name": "St. George's Church (White Church)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Ein- und Ausparken; der Boden kann spiegelglatt sein.",
+                "hu": "Vigyázzon a be- és kiparkolásnál; a talaj tükörsima lehet.",
+                "ro": "Atenție la parcare; solul poate fi extrem de alunecos.",
+                "en": "Be careful when parking; the ground can be ice-slicked."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem Besuch der kalten Kathedrale.",
+                "hu": "Használja az ülésfűtést a hideg katedrális meglátogatása után.",
+                "ro": "Folosiți încălzirea în scaune după vizitarea catedralei reci.",
+                "en": "Turn on the seat heaters after visiting the cold cathedral."
+              }
+            },
+            {
+              "name": "Dinner in the city center",
+              "tip_5lang": {
+                "de": "Buchen Sie einen Tisch vorab, da Restaurants im Winter gut besucht sind.",
+                "hu": "Foglaljon asztalt előre, mert a meleg éttermek télen hamar megtelnek.",
+                "ro": "Rezervați o masă în avans, deoarece restaurantele sunt pline iarna.",
+                "en": "Book a table in advance, as warm restaurants fill up quickly in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Sie Winterreifen und ausreichend Frostschutzmittel haben.",
+              "Ein Eiskratzer und ein kleiner Besen sollten immer im Auto sein.",
+              "Achten Sie auf Blitzeis, besonders auf den Brücken über die Beresina.",
+              "Lassen Sie den Motor nicht unnötig lange im Stand laufen."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy van téli gumija és elegendő fagyálló folyadékja.",
+              "Jégkaparó és egy kis kefe mindig legyen az autóban.",
+              "Ügyeljen a fekete jégre, különösen a Berezina-folyó hídjain.",
+              "Ne járassa feleslegesen hosszan a motort álló helyzetben."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți anvelope de iarnă și suficient lichid de parbriz antigel.",
+              "O răzuitoare de gheață și o perie mică ar trebui să fie mereu în mașină.",
+              "Atenție la polei, în special pe podurile peste râul Berezina.",
+              "Nu lăsați motorul să meargă în gol pentru perioade lungi de timp."
+            ],
+            "en": [
+              "Ensure you have winter tires and sufficient anti-freeze fluid.",
+              "An ice scraper and a small snow brush should always be in your car.",
+              "Watch out for black ice, especially on the bridges over the Berezina River.",
+              "Avoid idling the engine for unnecessarily long periods in residential areas."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1512,6 +2112,206 @@
           "Have the bus line number you need ready.",
           "Be prepared for crowds during peak hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Trolleybus erkunden wir Babrujsk wetterunabhängig. Von der Festung fahren wir zur St.-Nikolaus-Kathedrale und weiter zur Weißen Kirche. Das Biber-Denkmal besuchen wir kurz, bevor wir den Nachmittag im Regionalmuseum und dem Theater verbringen. Zum Abschluss genießen wir ein gemütliches Abendessen im Zentrum, das gut mit dem öffentlichen Nahverkehr erreichbar ist.",
+            "hu": "Busszal és trolibusszal az időjárástól függetlenül fedezzük fel Babrujszkot. A vártól a Szent Miklós-székesegyházhoz, majd a Fehér Templomhoz utazunk. A Hód-szobrot csak rövid időre látogatjuk meg, mielőtt a délutánt a múzeumban és a színházban töltenénk. Végül egy kellemes belvárosi vacsorát élvezünk, amely tömegközlekedéssel is könnyen elérhető.",
+            "ro": "Cu autobuzul și troleibuzul explorăm Babruisk indiferent de vreme. De la cetate mergem la Catedrala Sf. Nicolae și apoi la Biserica Albă. Vizităm scurt Monumentul Castorului înainte de a petrece după-amiaza la Muzeul Regional și la teatru. La final, savurăm o cină în centru, ușor accesibilă cu transportul public.",
+            "en": "By bus and trolleybus, we explore Babrujsk regardless of the weather. From the fortress, we travel to St. Nicholas Cathedral and then to the White Church. We visit the Beaver Monument briefly before spending the afternoon at the Regional Museum and the theater. To finish, we enjoy a cozy dinner in the center, easily accessible by public transport."
+          },
+          "stops": [
+            {
+              "name": "Bobruisk Fortress",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen haben oft kleine Unterstände gegen den Regen.",
+                "hu": "A buszmegállók gyakran rendelkeznek kis védőtetővel az eső ellen.",
+                "ro": "Stațiile de autobuz au adesea mici adăposturi împotriva ploii.",
+                "en": "Bus stops often have small shelters to protect you from the rain."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Vom Trolleybus sind es nur wenige Meter bis zum Eingang.",
+                "hu": "A trolibusz megállójától csak pár méter séta a bejárat.",
+                "ro": "De la stația de troleibuz sunt doar câțiva metri până la intrare.",
+                "en": "It's only a few meters' walk from the trolleybus stop to the entrance."
+              }
+            },
+            {
+              "name": "St. George's Church (White Church)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeit in der Kirche, bis der nächste Bus kommt.",
+                "hu": "Használja ki a templomban töltött időt a következő busz érkezéséig.",
+                "ro": "Folosiți timpul în biserică pentru a aștepta următorul autobuz.",
+                "en": "Use your time in the church to wait for the next scheduled bus."
+              }
+            },
+            {
+              "name": "Beaver Monument",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es Kioske, wo man Fahrkarten im Trockenen kaufen kann.",
+                "hu": "A közelben vannak újságosok, ahol szárazon vehet menetjegyet.",
+                "ro": "Există chioșcuri în apropiere de unde puteți cumpăra bilete la adăpost.",
+                "en": "There are kiosks nearby where you can buy tickets while staying dry."
+              }
+            },
+            {
+              "name": "Regional Museum of Local Lore",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Zeit zwischen zwei Busverbindungen zu füllen.",
+                "hu": "Ideális helyszín két buszjárat közötti idő hasznos eltöltésére.",
+                "ro": "Un loc ideal pentru a petrece timpul între două conexiuni de autobuz.",
+                "en": "An ideal place to spend time between two bus connections."
+              }
+            },
+            {
+              "name": "Dunin-Marcinkiewicz Theatre",
+              "tip_5lang": {
+                "de": "Die Haltestellen im Zentrum sind bei Regen oft recht voll.",
+                "hu": "A belvárosi megállók esőben gyakran elég zsúfoltak.",
+                "ro": "Stațiile din centru sunt adesea destul de aglomerate pe ploaie.",
+                "en": "Central stops can get quite crowded during rainy weather."
+              }
+            },
+            {
+              "name": "Dinner",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant direkt an einer Hauptverkehrslinie.",
+                "hu": "Válasszon egy éttermet közvetlenül valamelyik fő közlekedési vonal mentén.",
+                "ro": "Alegeți un restaurant situat direct pe o linie principală de transport.",
+                "en": "Choose a restaurant located directly on a major transit line."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie eine App für die Fahrpläne der Stadt herunter.",
+              "Halten Sie Ihr Kleingeld für den Fahrkartenkauf beim Schaffner bereit.",
+              "Trolleybusse sind eine zuverlässige und trockene Art der Fortbewegung.",
+              "Achten Sie beim Einsteigen auf nasse und rutschige Stufen im Bus."
+            ],
+            "hu": [
+              "Töltsön le egy alkalmazást a helyi járatok menetrendjéhez.",
+              "Készítse elő az aprópénzt a jegyvásárláshoz a kalauznál.",
+              "A trolibuszok megbízható és száraz közlekedési módot jelentenek.",
+              "Felszálláskor ügyeljen a busz vizes és csúszós lépcsőire."
+            ],
+            "ro": [
+              "Descărcați o aplicație pentru orarul transportului local.",
+              "Pregătiți mărunțișul pentru cumpărarea biletului de la taxator.",
+              "Troleibuzele sunt un mod de transport fiabil și uscat.",
+              "Atenție la treptele ude și alunecoase ale autobuzului la urcare."
+            ],
+            "en": [
+              "Download a local app for city transit schedules and real-time info.",
+              "Keep small change ready for buying tickets from the conductor.",
+              "Trolleybuses are a reliable and dry way to get around the city.",
+              "Watch your step on wet and slippery bus stairs when boarding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "In den gut geheizten Trolleybussen erkunden wir das winterliche Babrujsk. Von der verschneiten Festung führt uns der Weg zur St.-Nikolaus-Kathedrale und zur Weißen Kirche. Das Biber-Denkmal ist nur einen kurzen Marsch von der Haltestelle entfernt. Nachmittags genießen wir die Wärme im Regionalmuseum und im Theater, bevor wir den Tag bei einem gemütlichen Abendessen abschließen.",
+            "hu": "A jól fűtött trolibuszokon utazva fedezzük fel a téli Babrujszkot. A havas vártól az utunk a Szent Miklós-székesegyházhoz és a Fehér Templomhoz vezet. A Hód-szobor csak egy rövid séta a megállótól. Délután a múzeum és a színház melegét élvezzük, majd egy hangulatos vacsorával zárjuk a napot.",
+            "ro": "În troleibuzele bine încălzite, explorăm Babruisk-ul de iarnă. De la cetatea înzăpezită, drumul ne duce la Catedrala Sf. Nicolae și la Biserica Albă. Monumentul Castorului este la doar o scurtă plimbare de stație. După-amiaza ne bucurăm de căldura din Muzeul Regional și teatru, înainte de cină.",
+            "en": "In well-heated trolleybuses, we explore wintry Babrujsk. From the snowy fortress, our path leads to St. Nicholas Cathedral and the White Church. The Beaver Monument is just a short walk from the stop. In the afternoon, we enjoy the warmth of the Regional Museum and theater before finishing with a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Bobruisk Fortress",
+              "tip_5lang": {
+                "de": "Planen Sie Pufferzeiten ein; Busse können bei Schnee Verspätung haben.",
+                "hu": "Számoljon ráhagyással; a buszok hóban késhetnek.",
+                "ro": "Planificați timp suplimentar; autobuzele pot avea întârzieri pe zăpadă.",
+                "en": "Allow extra time; buses and trolleybuses may be delayed by snow."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Die beleuchtete Kirche ist im Winter von der Haltestelle aus weithin sichtbar.",
+                "hu": "A kivilágított templom télen messziről látható a megállóból.",
+                "ro": "Biserica iluminată este vizibilă de la distanță iarna din stație.",
+                "en": "The illuminated church is clearly visible from the stop in winter."
+              }
+            },
+            {
+              "name": "St. George's Church (White Church)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufenthalt, um die kalten Füße aufzuwärmen.",
+                "hu": "Használja ki a látogatást az átfagyott lábak felmelegítésére.",
+                "ro": "Folosiți vizita pentru a vă încălzi picioarele înghețate.",
+                "en": "Take advantage of the visit to warm up your frozen feet."
+              }
+            },
+            {
+              "name": "Beaver Monument",
+              "tip_5lang": {
+                "de": "Der Weg von der Haltestelle zum Biber kann vereist sein.",
+                "hu": "A megállótól a Hódhoz vezető út jeges lehet.",
+                "ro": "Drumul de la stație la Castor poate fi înghețat.",
+                "en": "The path from the stop to the Beaver might be icy."
+              }
+            },
+            {
+              "name": "Regional Museum of Local Lore",
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp, um die Kälte für eine Weile zu vergessen.",
+                "hu": "Tökéletes állomás, hogy egy időre elfelejtse a kinti hideget.",
+                "ro": "O oprire perfectă pentru a uita de frigul de afară pentru o vreme.",
+                "en": "A perfect stop to forget about the outside cold for a while."
+              }
+            },
+            {
+              "name": "Dunin-Marcinkiewicz Theatre",
+              "tip_5lang": {
+                "de": "Warten Sie im Foyer, falls Sie zu früh für den Bus sind.",
+                "hu": "Várjon az előcsarnokban, ha túl korán érkezett a buszhoz.",
+                "ro": "Așteptați în foaier dacă ați ajuns prea devreme pentru autobuz.",
+                "en": "Wait in the foyer if you are too early for your next bus."
+              }
+            },
+            {
+              "name": "Dinner",
+              "tip_5lang": {
+                "de": "Bestellen Sie ein Taxi für den Heimweg, wenn es zu kalt wird.",
+                "hu": "Rendeljen taxit a hazaúthoz, ha túl hidegre fordulna az idő.",
+                "ro": "Comandați un taxi pentru drumul spre casă dacă devine prea frig.",
+                "en": "Order a taxi for the way home if it gets too cold to wait for the bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrzeuge des ÖPNV sind in Belarus im Winter meist sehr gut geheizt.",
+              "Haltestellen ohne Häuschen können bei Wind sehr ungemütlich sein.",
+              "Prüfen Sie die letzte Abfahrtzeit, da der Verkehr abends dünner wird.",
+              "Vorsicht vor Schneematsch beim Ein- und Aussteigen an den Haltestellen."
+            ],
+            "hu": [
+              "A tömegközlekedési eszközök télen általában nagyon jól fűtöttek.",
+              "A váróterem nélküli megállók szélben nagyon kellemetlenek lehetnek.",
+              "Ellenőrizze az utolsó járat indulását, mert este ritkul a közlekedés.",
+              "Vigyázzon a latyakos hóra a megállóknál le- és felszálláskor."
+            ],
+            "ro": [
+              "Mijloacele de transport în comun sunt de obicei foarte bine încălzite iarna.",
+              "Stațiile fără adăpost pot fi foarte inconfortabile pe vânt.",
+              "Verificați ora ultimei plecări, deoarece traficul se rărește seara.",
+              "Atenție la zăpada topită și noroi la urcare și coborâre în stații."
+            ],
+            "en": [
+              "Public transit vehicles in Belarus are usually very well heated in winter.",
+              "Stops without shelters can be very uncomfortable when the wind blows.",
+              "Check the last departure times as services become less frequent in the evening.",
+              "Be careful of slush and slippery patches when boarding or exiting at stops."
+            ]
+          }
+        }
       }
     }
   }

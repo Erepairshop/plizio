@@ -233,6 +233,178 @@
         "en": [
           "Wear comfortable shoes as the center is easy to explore on foot. Plan for a longer lunch break to enjoy the local cuisine."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens besuchen wir den Kirchplatz und die Pfarrkirche, die guten Schutz vor dem Regen bieten. Mittags tauchen wir im Stickereimuseum tief in die Textilgeschichte ein, während es draußen stürmt. Nachmittags bewundern wir das Blaue Haus kurz von außen. Der Tag endet mit einem zügigen Spaziergang durch den Millennium Park, wobei die modernen Gebäude oft Unterstände bieten.",
+            "hu": "Reggel a templomteret és a plébániatemplomot keressük fel, amelyek kiváló menedéket nyújtanak az eső elől. Délben a Hímzésmúzeum falai között ismerkedünk a textiliparral, távol a sártól. Délután a Kék Házat nézzük meg, majd a Millennium Park modern negyedében sétálunk, ahol az épületek ereszei alatt viszonylag szárazon maradhatunk az esti órákig.",
+            "ro": "Dimineața vizităm Piața Bisericii și biserica parohială, oferind un adăpost excelent împotriva ploii. La prânz, explorăm istoria textilă la Muzeul de Broderie, feriți de vremea de afară. După-amiaza admirăm Casa Albastră, iar ziua se încheie cu o plimbare prin Millennium Park, unde structurile moderne oferă protecție temporară până la lăsarea serii.",
+            "en": "In the morning, we visit the Church Square and the parish church, providing great shelter from the rain. At noon, we dive into textile history at the Embroidery Museum while staying dry. In the afternoon, we take a quick look at the Blue House, ending the day with a brisk walk through Millennium Park, where modern architecture offers some cover from the showers."
+          },
+          "stops": [
+            {
+              "name": "Church Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
+                "hu": "Használja a környező épületek árkádjait esővédőként.",
+                "ro": "Folosiți arcadele clădirilor din jur pentru a vă proteja de ploaie.",
+                "en": "Use the arcades of the surrounding buildings as rain cover."
+              }
+            },
+            {
+              "name": "Parish Church of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Ein idealer, ruhiger Ort, um den stärksten Schauer abzuwarten.",
+                "hu": "Ideális, csendes hely a legerősebb záporok kivárására.",
+                "ro": "Un loc ideal și liniștit pentru a aștepta trecerea ploii torențiale.",
+                "en": "An ideal, quiet place to wait out the heaviest downpours."
+              }
+            },
+            {
+              "name": "Embroidery Museum",
+              "tip_5lang": {
+                "de": "Perfekt für regnerische Stunden; Garderobe für nasse Mäntel vorhanden.",
+                "hu": "Tökéletes esős órákra; van ruhatár a vizes kabátoknak.",
+                "ro": "Perfect pentru orele ploioase; există garderobă pentru haine ude.",
+                "en": "Perfect for rainy hours; cloakroom available for wet coats."
+              }
+            },
+            {
+              "name": "Blue House",
+              "tip_5lang": {
+                "de": "Betrachten Sie die Fassade schnell vom gegenüberliegenden Dachvorsprung.",
+                "hu": "Nézze meg gyorsan a homlokzatot a szemközti tetőpárkány alól.",
+                "ro": "Priviți rapid fațada de sub streșina clădirii de vizavi.",
+                "en": "View the facade quickly from under the opposite eaves."
+              }
+            },
+            {
+              "name": "Millennium Park",
+              "tip_5lang": {
+                "de": "Die Glasfassaden der Bürogebäude bieten sporadischen Schutz.",
+                "hu": "Az irodaépületek üvegfalai némi védelmet nyújtanak a szél ellen.",
+                "ro": "Fațadele de sticlă ale birourilor oferă protecție sporadică.",
+                "en": "The glass facades of the office buildings offer sporadic shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Lustenau ist flach, aber Pfützen bilden sich schnell auf den Gehwegen.",
+              "Tragen Sie wasserfeste Schuhe, da der Weg zum Millennium Park offen ist.",
+              "Das Stickereimuseum ist die beste Indoor-Option bei Starkregen.",
+              "Cafés rund um den Kirchplatz eignen sich gut für kurze Aufwärmpausen.",
+              "Ein stabiler Regenschirm ist wegen des Windes vom Rhein her wichtig."
+            ],
+            "hu": [
+              "Lustenau sík vidék, de a járdákon gyorsan kialakulnak a tócsák.",
+              "Viseljen vízálló cipőt, mert a Millennium Park felé vezető út nyitott.",
+              "A Hímzésmúzeum a legjobb beltéri opció heves esőzés esetén.",
+              "A templom környéki kávézók alkalmasak rövid melegedő szünetekre.",
+              "A Rajna felől fújó szél miatt egy strapabíró esernyő elengedhetetlen."
+            ],
+            "ro": [
+              "Lustenau este plat, dar se formează rapid bălți pe trotuare.",
+              "Purtați încălțăminte impermeabilă, drumul spre Millennium Park fiind deschis.",
+              "Muzeul de Broderie este cea mai bună opțiune de interior pe ploaie.",
+              "Cafenelele din jurul pieței sunt bune pentru scurte pauze de încălzire.",
+              "O umbrelă rezistentă este necesară din cauza vântului dinspre Rin."
+            ],
+            "en": [
+              "Lustenau is flat, but puddles form quickly on the sidewalks.",
+              "Wear waterproof shoes as the path to Millennium Park is exposed.",
+              "The Embroidery Museum is your best indoor option during heavy rain.",
+              "Cafes around the Church Square are good for short warming breaks.",
+              "A sturdy umbrella is essential due to the wind coming from the Rhine."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch am Kirchplatz und in der beheizten Pfarrkirche. Mittags bietet das Stickereimuseum wohlige Wärme und faszinierende Exponate. Nachmittags werfen wir einen Blick auf das Blaue Haus im weichen Winterlicht. Da die Sonne gegen 16:30 Uhr untergeht, genießen wir die blaue Stunde im beleuchteten Millennium Park, bevor die Kälte einzieht.",
+            "hu": "A téli reggel frissen indul a templomtéren és a fűtött plébániatemplomban. Délben a Hímzésmúzeum nyújt melengető menedéket és érdekes kiállításokat. Délután a Kék Házat nézzük meg a lágy téli fényben. Mivel a nap 16:30 körül nyugszik, a kivilágított Millennium Parkban élvezzük a kék órát, mielőtt teljesen lehűlne a levegő.",
+            "ro": "Dimineața de iarnă începe proaspăt în piață și în biserica parohială încălzită. La prânz, Muzeul de Broderie oferă căldură și exponate fascinante. După-amiaza admirăm Casa Albastră în lumina blândă a iernii. Deoarece soarele apune în jurul orei 16:30, ne bucurăm de ora albastră în Millennium Park iluminat înainte de ger.",
+            "en": "The winter morning starts fresh at Church Square and the heated parish church. At noon, the Embroidery Museum provides cozy warmth and fascinating exhibits. In the afternoon, we view the Blue House in soft winter light. Since the sun sets around 4:30 PM, we enjoy the blue hour in the illuminated Millennium Park before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Church Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Kopfsteinpflaster vor der Kirche.",
+                "hu": "Vigyázzon a jegesedésre a templom előtti macskaköveken.",
+                "ro": "Atenție la polei pe pavajul din fața bisericii.",
+                "en": "Watch out for black ice on the cobblestones in front of the church."
+              }
+            },
+            {
+              "name": "Parish Church of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Die Innenräume sind meist moderat beheizt und bieten Erholung.",
+                "hu": "A belső terek általában mérsékelten fűtöttek, jó pihenőhely.",
+                "ro": "Interiorul este de obicei încălzit moderat, oferind un refugiu.",
+                "en": "The interior is usually moderately heated, offering a nice respite."
+              }
+            },
+            {
+              "name": "Embroidery Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Zufluchtsort für die kälteste Zeit des Tages.",
+                "hu": "Meleg menedék a nap leghidegebb óráira.",
+                "ro": "Un refugiu cald pentru cele mai reci ore ale zilei.",
+                "en": "A warm sanctuary for the coldest part of the day."
+              }
+            },
+            {
+              "name": "Blue House",
+              "tip_5lang": {
+                "de": "Der Kontrast zwischen blauem Haus und weißem Schnee ist fotogen.",
+                "hu": "A kék ház és a fehér hó kontrasztja nagyon fotogén.",
+                "ro": "Contrastul dintre casa albastră și zăpadă este foarte fotogenic.",
+                "en": "The contrast between the blue house and white snow is very photogenic."
+              }
+            },
+            {
+              "name": "Millennium Park",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park zur blauen Stunde für die beste Beleuchtung.",
+                "hu": "Látogasson el ide a kék órában a legszebb fényekért.",
+                "ro": "Vizitați parcul la ora albastră pentru cel mai frumos iluminat.",
+                "en": "Visit the park during the blue hour for the best lighting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne verschwindet im Winter früh hinter den Schweizer Bergen.",
+              "Planen Sie Outdoor-Aktivitäten strikt vor 16:00 Uhr ein.",
+              "Tragen Sie Schichten, da die Feuchtigkeit vom Rhein die Kälte verstärkt.",
+              "In der Nähe des Rathauses gibt es oft kleine Wintermärkte oder Stände.",
+              "Die Gehwege zum Millennium Park werden meist gut geräumt."
+            ],
+            "hu": [
+              "A nap télen korán eltűnik a svájci hegyek mögött.",
+              "A kültéri programokat szigorúan 16:00 óra elé tervezze.",
+              "Öltözzön rétegesen, a Rajna közelsége miatt a hideg metszőbb.",
+              "A városháza környékén gyakran vannak téli árusok vagy standok.",
+              "A Millennium Park felé vezető járdákat általában jól takarítják."
+            ],
+            "ro": [
+              "Soarele dispare devreme iarna în spatele munților elvețieni.",
+              "Planificați activitățile în aer liber strict înainte de ora 16:00.",
+              "Purtați haine groase; umiditatea Rinului intensifică senzația de frig.",
+              "Lângă primărie există adesea mici piețe sau tarabe de iarnă.",
+              "Trotuarele spre Millennium Park sunt de obicei bine deszăpezite."
+            ],
+            "en": [
+              "The sun disappears early behind the Swiss mountains in winter.",
+              "Plan your outdoor activities strictly before 4:00 PM.",
+              "Wear layers; moisture from the Rhine makes the cold feel sharper.",
+              "There are often small winter markets or stalls near the town hall.",
+              "Sidewalks towards Millennium Park are usually well-cleared of snow."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -460,6 +632,178 @@
         "en": [
           "The cycle paths along the Rhine are flat and well-maintained. Watch out for the wind, which can sometimes be strong. A bottle of water is essential."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir am Kirchplatz. Die Fahrt zum Stickereimuseum ist kurz und durch Häuserzeilen geschützt. Danach radeln wir zum Rhein-Schauen Museum, wo wir viel Zeit im Trockenen verbringen. Die Tour zum Naturschutzgebiet Rohr verkürzen wir bei starkem Regen, bevor wir am Reichshofstadion ankommen, wo das Dach der Tribüne oft Schutz bietet.",
+            "hu": "Az eső ellenére a templomtéren kezdünk. Az út a Hímzésmúzeumig rövid és épületek védi. Ezután a Rhein-Schauen múzeumba tekerünk, ahol sok időt tölthetünk fedett helyen. A Rohr természetvédelmi terület látogatását erős esőben lerövidítjük, majd a Reichshofstadionhoz érünk, ahol a lelátó tetőszerkezete védelmet nyújthat.",
+            "ro": "În ciuda ploii, începem în piață. Drumul spre Muzeul de Broderie este scurt și protejat de clădiri. Apoi pedalăm spre Muzeul Rhein-Schauen, unde stăm la adăpost. Scurtăm vizita în rezervația Rohr dacă plouă torențial, terminând la Reichshofstadion, unde acoperișul tribunei oferă protecție.",
+            "en": "Despite the rain, we start at Church Square. The ride to the Embroidery Museum is short and sheltered by buildings. Next, we cycle to the Rhein-Schauen Museum to stay dry indoors. We shorten the Rohr Nature Reserve visit if the rain is heavy, ending at Reichshofstadion where the grandstand roof offers some cover."
+          },
+          "stops": [
+            {
+              "name": "Church Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf nassem Pflaster; Rutschgefahr.",
+                "hu": "Vigyázzon az induláskor a vizes kövön; csúszásveszély.",
+                "ro": "Atenție la plecare pe pavajul ud; risc de alunecare.",
+                "en": "Be careful when starting on wet pavement; risk of slipping."
+              }
+            },
+            {
+              "name": "Embroidery Museum",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Fedett kerékpártárolók találhatók a bejárat közelében.",
+                "ro": "Suporturile de biciclete acoperite sunt aproape de intrare.",
+                "en": "Covered bike racks are located near the entrance."
+              }
+            },
+            {
+              "name": "Rhein-Schauen Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Inneren, um Ihre Kleidung zu trocknen.",
+                "hu": "Használja ki a bent töltött időt a ruházata szárítására.",
+                "ro": "Folosiți timpul petrecut în interior pentru a vă usca hainele.",
+                "en": "Use the time spent inside to let your gear dry off."
+              }
+            },
+            {
+              "name": "Rohr Nature Reserve",
+              "tip_5lang": {
+                "de": "Die Wege können matschig sein; bleiben Sie auf den befestigten Dämmen.",
+                "hu": "Az utak sarasak lehetnek; maradjon a kiépített gátakon.",
+                "ro": "Potecile pot fi noroioase; rămâneți pe digurile amenajate.",
+                "en": "Paths can be muddy; stick to the paved embankments."
+              }
+            },
+            {
+              "name": "Reichshofstadion",
+              "tip_5lang": {
+                "de": "Der überdachte Bereich der Tribüne bietet Schutz vor dem Regen.",
+                "hu": "A lelátó fedett része védelmet nyújt az eső elől.",
+                "ro": "Zona acoperită a tribunei oferă protecție contra ploii.",
+                "en": "The covered grandstand area offers protection from rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen; der Bremsweg verlängert sich auf nassen Straßen.",
+              "Vermeiden Sie die Markierungen auf der Straße, diese sind bei Nässe extrem glatt.",
+              "Das Rheinvorland kann bei Dauerregen teilweise gesperrt oder überflutet sein.",
+              "Ein Regenponcho ist praktischer als ein Schirm beim Radfahren.",
+              "Beleuchtung einschalten, da die Sichtverhältnisse bei Regen oft schlecht sind."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket; a fékút jelentősen megnő a vizes úton.",
+              "Kerülje az útburkolati jeleket, mert nedvesen rendkívül csúszósak.",
+              "A Rajna ártere tartós esőzésnél részben lezárható vagy víz alá kerülhet.",
+              "A biciklizéshez praktikusabb egy esőponcsó, mint az esernyő.",
+              "Kapcsolja be a világítást, mert esőben gyakran rosszak a látási viszonyok."
+            ],
+            "ro": [
+              "Verificați frânele; distanța de frânare crește pe drumuri ude.",
+              "Evitați marcajele rutiere, sunt extrem de alunecoase când sunt ude.",
+              "Zona inundabilă a Rinului poate fi închisă parțial în caz de ploi lungi.",
+              "O pelerină de ploaie este mai practică decât o umbrelă pe bicicletă.",
+              "Aprindeți luminile, vizibilitatea este adesea redusă pe timp de ploaie."
+            ],
+            "en": [
+              "Check your brakes; stopping distance increases on wet roads.",
+              "Avoid road markings as they become extremely slippery when wet.",
+              "The Rhine floodplains may be partially closed during persistent rain.",
+              "A rain poncho is more practical than an umbrella while cycling.",
+              "Turn on your lights as visibility is often poor during rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frühmorgens radeln wir vorsichtig durch das winterliche Lustenau. Das Stickereimuseum bietet die erste Aufwärmpause. Die Strecke zum Rhein-Schauen Museum ist windig, aber flach. Im Naturschutzgebiet Rohr genießen wir die frostige Stille des Rheins. Den Tag beenden wir am Reichshofstadion, bevor die Dämmerung und die nächtliche Kälte die Weiterfahrt erschweren.",
+            "hu": "Kora reggel óvatosan tekerünk át a téli Lustenaun. A Hímzésmúzeum az első melegedő megálló. A Rhein-Schauen múzeumhoz vezető út szeles, de sík. A Rohr természetvédelmi területen a Rajna fagyos csendjét élvezzük. Napunkat a Reichshofstadionnál zárjuk, mielőtt a szürkület és az éjszakai hideg megnehezítené a haladást.",
+            "ro": "Dis-de-dimineață pedalăm cu grijă prin Lustenau de iarnă. Muzeul de Broderie este prima oprire pentru încălzire. Drumul spre Muzeul Rhein-Schauen este vântos, dar plat. În rezervația Rohr savurăm liniștea înghețată a Rinului. Încheiem ziua la Reichshofstadion înainte ca gerul nopții să se instaleze.",
+            "en": "Early morning, we cycle carefully through wintry Lustenau. The Embroidery Museum offers the first warming break. The route to the Rhein-Schauen Museum is windy but flat. In the Rohr Nature Reserve, we enjoy the frozen silence of the Rhine. We end the day at Reichshofstadion before twilight and night chills arrive."
+          },
+          "stops": [
+            {
+              "name": "Church Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Kondenswasser auf den Metallgittern.",
+                "hu": "Vigyázzon a fagyott páralecsapódásra a fémrácsokon.",
+                "ro": "Atenție la condensul înghețat de pe grătarele metalice.",
+                "en": "Watch out for frozen condensation on metal grates."
+              }
+            },
+            {
+              "name": "Embroidery Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände hier auf, bevor Sie zum Rhein weiterfahren.",
+                "hu": "Melegítse fel a kezeit itt, mielőtt továbbteker a Rajnához.",
+                "ro": "Încălziți-vă mâinile aici înainte de a continua spre Rin.",
+                "en": "Warm up your hands here before continuing towards the Rhine."
+              }
+            },
+            {
+              "name": "Rhein-Schauen Museum",
+              "tip_5lang": {
+                "de": "Das Museumscafé bietet heiße Getränke für durchgefrorene Radler.",
+                "hu": "A múzeum kávézója forró italokat kínál az átfagyott bicikliseknek.",
+                "ro": "Cafeneaua muzeului oferă băuturi calde pentru bicicliștii înghețați.",
+                "en": "The museum cafe offers hot drinks for frozen cyclists."
+              }
+            },
+            {
+              "name": "Rohr Nature Reserve",
+              "tip_5lang": {
+                "de": "Bei Schnee sind die Dammwege oft windgepeitscht und sehr kalt.",
+                "hu": "Hóban a gátak menti utak gyakran szelesek és nagyon hidegek.",
+                "ro": "În caz de zăpadă, drumurile de pe dig sunt bătute de vânt și reci.",
+                "en": "In snow, the embankment paths are often windswept and very cold."
+              }
+            },
+            {
+              "name": "Reichshofstadion",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückkehr vor Einbruch der Dunkelheit ein.",
+                "hu": "Tervezze meg a visszatérést még sötétedés előtt.",
+                "ro": "Planificați întoarcerea înainte de lăsarea întunericului.",
+                "en": "Plan your return before darkness sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe; der Fahrtwind am Rhein ist eisig.",
+              "Der Akku von E-Bikes entlädt sich bei Kälte deutlich schneller.",
+              "Vermeiden Sie bei Glatteis ruckartige Lenkbewegungen.",
+              "Die Sonne steht tief; eine Sonnenbrille hilft gegen Blendung durch Schnee.",
+              "Stellen Sie sicher, dass Ihre Reflektoren sauber und gut sichtbar sind."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt; a menetszél a Rajnánál jeges.",
+              "Az elektromos kerékpárok akkumulátora hidegben gyorsabban merül.",
+              "Jeges úton kerülje a hirtelen kormánymozdulatokat.",
+              "A nap alacsonyan jár; a napszemüveg segít a hóvakság ellen.",
+              "Győződjön meg róla, hogy a prizmák tiszták és jól láthatóak."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt; curentul de aer de la Rin este înghețat.",
+              "Bateria bicicletelor electrice se descarcă mult mai repede la frig.",
+              "Evitați mișcările bruște de ghidon pe polei.",
+              "Soarele este jos; ochelarii de soare ajută împotriva reflexiei zăpezii.",
+              "Asigurați-vă că reflectorizantele sunt curate și vizibile."
+            ],
+            "en": [
+              "Wear windproof gloves; the wind chill along the Rhine is icy.",
+              "E-bike batteries drain significantly faster in cold temperatures.",
+              "Avoid sudden steering movements on icy patches.",
+              "The sun sits low; sunglasses help against glare from the snow.",
+              "Ensure your reflectors are clean and highly visible."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -715,6 +1059,196 @@
         "en": [
           "Use the park-and-walk strategy to save on parking fees and see more. Check the opening hours of the museums in advance, especially outside the main season."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir parken bequem im Zentrum und erkunden den Kirchplatz und die Kirche bei kurzen Regenpausen. Mittags verbringen wir entspannte Zeit im Stickereimuseum. Mit dem Auto erreichen wir das Rhein-Schauen Museum trocken und direkt. Der Abschluss im Naturschutzgebiet Rohr bietet aus dem Auto heraus schöne Ausblicke auf den verregneten Rhein.",
+            "hu": "Kényelmesen parkolunk a központban, és az esőszünetekben fedezzük fel a templomteret. Délben a Hímzésmúzeumban töltünk hosszabb időt. Autóval szárazon és közvetlenül érjük el a Rhein-Schauen múzeumot. A napot a Rohr természetvédelmi területen zárjuk, ahol az autóból is szép kilátás nyílik az eső áztatta Rajnára.",
+            "ro": "Parcăm confortabil în centru și explorăm piața și biserica în scurte pauze de ploaie. La prânz, stăm la căldură în Muzeul de Broderie. Cu mașina ajungem uscați direct la Muzeul Rhein-Schauen. Încheiem în rezervația Rohr, admirând Rinul ploios din confortul mașinii.",
+            "en": "We park conveniently in the center and explore Church Square during rain breaks. At noon, we spend a relaxed time in the Embroidery Museum. By car, we reach the Rhein-Schauen Museum dry and directly. The visit to the Rohr Nature Reserve offers beautiful views of the rainy Rhine from the car."
+          },
+          "stops": [
+            {
+              "name": "Parking lot downtown",
+              "tip_5lang": {
+                "de": "Zentraler Startpunkt mit kurzen Wegen zu den ersten Zielen.",
+                "hu": "Központi indulópont rövid sétára az első úticéloktól.",
+                "ro": "Punct central de pornire, cu distanțe scurte până la primele obiective.",
+                "en": "Central starting point with short walks to the first destinations."
+              }
+            },
+            {
+              "name": "Church Square",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz; Schirm im Auto bereithalten.",
+                "hu": "Rövid futás a parkolótól; tartsa készenlétben az esernyőt.",
+                "ro": "Sprint scurt din parcare; țineți umbrela la îndemână în mașină.",
+                "en": "Short sprint from the parking lot; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Parish Church of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Parkplätze direkt an der Kirche für minimalen Aufenthalt im Regen.",
+                "hu": "Parkolók közvetlenül a templomnál a minimális kint tartózkodáshoz.",
+                "ro": "Locuri de parcare chiar lângă biserică pentru expunere minimă la ploaie.",
+                "en": "Parking spaces right by the church for minimal rain exposure."
+              }
+            },
+            {
+              "name": "Embroidery Museum",
+              "tip_5lang": {
+                "de": "Parkmöglichkeiten in der Nähe erleichtern den Besuch bei Guss.",
+                "hu": "A közeli parkolási lehetőség megkönnyíti a látogatást felhőszakadáskor.",
+                "ro": "Parcarea în apropiere facilitează vizita în caz de aversă.",
+                "en": "Nearby parking makes the visit easier during downpours."
+              }
+            },
+            {
+              "name": "Rhein-Schauen Museum",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt am Museum vorhanden.",
+                "hu": "Közvetlenül a múzeumnál nagy parkoló áll rendelkezésre.",
+                "ro": "Există o parcare mare chiar lângă muzeu.",
+                "en": "Large parking lot available directly at the museum."
+              }
+            },
+            {
+              "name": "Rohr Nature Reserve",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Natur sicher vom Parkplatz aus.",
+                "hu": "Élvezze a természet látványát biztonságban a parkolóból.",
+                "ro": "Bucurați-vă de priveliștea naturii în siguranță din parcare.",
+                "en": "Enjoy the nature views safely from the parking area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der L203 bei starken Regenfällen.",
+              "Zentrale Parkplätze sind bei Regen sehr begehrt, planen Sie Puffer ein.",
+              "Nutzen Sie die Parkhäuser im Zentrum, um trockenen Fußes auszusteigen.",
+              "Die Sicht zum Rhein kann durch Nebel und Gischt eingeschränkt sein.",
+              "Überprüfen Sie den Zustand Ihrer Scheibenwischer vor der Fahrt."
+            ],
+            "hu": [
+              "Heves esőzéskor ügyeljen az aquaplaning jelenségre az L203-as úton.",
+              "A központi parkolók esőben hamar betelnek, számoljon plusz idővel.",
+              "Használja a belvárosi parkolóházakat, hogy száraz lábbal szállhasson ki.",
+              "A Rajna felé a kilátást korlátozhatja a köd és a vízpermet.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe L203 în timpul ploilor torențiale.",
+              "Parcările centrale sunt foarte solicitate pe ploaie, veniți din timp.",
+              "Folosiți parcările supraetajate din centru pentru a coborî la uscat.",
+              "Vizibilitatea spre Rin poate fi redusă de ceață și stropi.",
+              "Verificați starea ștergătoarelor înainte de a pleca la drum."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the L203 during heavy rainfall.",
+              "Central parking spots are popular in the rain; allow extra time.",
+              "Use parking garages in the center to stay dry when exiting.",
+              "Views towards the Rhine might be obscured by mist and spray.",
+              "Check the condition of your windshield wipers before the trip."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour startet am beheizten Parkplatz im Zentrum. Nach einem kurzen Besuch am Kirchplatz wärmen wir uns in der Kirche auf. Das Stickereimuseum bietet eine lange, warme Mittagspause. Nachmittags fahren wir zum Rhein-Schauen Museum und weiter zum frostigen Rohr. Die Rückfahrt erfolgt bei Dämmerung, wobei die verschneiten Straßen von Lustenau eine festliche Atmosphäre verbreiten.",
+            "hu": "A téli túra a központi parkolóból indul. A templomtéren tett rövid látogatás után a templomban melegszünk fel. A Hímzésmúzeum hosszú, meleg ebédszünetet kínál. Délután a Rhein-Schauen múzeumhoz, majd a fagyos Rohr területére hajtunk. A visszautat már szürkületben tesszük meg, miközben Lustenau havas utcái ünnepi hangulatot árasztanak.",
+            "ro": "Turul de iarnă începe în parcarea centrală. După o scurtă vizită în piață, ne încălzim în biserică. Muzeul de Broderie oferă o pauză caldă și lungă la prânz. După-amiaza conducem spre Muzeul Rhein-Schauen și apoi spre Rohr cel înghețat. Întoarcerea se face pe amurg, Lustenau având o atmosferă festivă sub zăpadă.",
+            "en": "The winter tour starts at the central parking lot. After a brief visit to Church Square, we warm up inside the church. The Embroidery Museum offers a long, warm lunch break. In the afternoon, we drive to the Rhein-Schauen Museum and on to the frosty Rohr. The return drive at twilight shows Lustenau's snowy streets in a festive light."
+          },
+          "stops": [
+            {
+              "name": "Parking lot downtown",
+              "tip_5lang": {
+                "de": "Parken Sie bevorzugt in Parkhäusern, um Eiskratzen zu vermeiden.",
+                "hu": "Lehetőleg parkolóházban álljon meg, hogy elkerülje a jégkaparást.",
+                "ro": "Parcați de preferință în parcări acoperite pentru a evita gheața.",
+                "en": "Prefer parking garages to avoid having to scrape ice off windows."
+              }
+            },
+            {
+              "name": "Church Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneematsch am Straßenrand beim Aussteigen.",
+                "hu": "Kiszálláskor vigyázzon az út szélén felgyülemlett hókására.",
+                "ro": "Atenție la fleșcăraia de la marginea drumului când coborâți.",
+                "en": "Watch out for slush at the roadside when getting out of the car."
+              }
+            },
+            {
+              "name": "Parish Church of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Kälte kurzzeitig zu vergessen.",
+                "hu": "Jó hely, hogy egy rövid időre elfelejtse a kinti hideget.",
+                "ro": "Un loc bun pentru a uita scurt de gerul de afară.",
+                "en": "A good place to briefly forget the cold outside."
+              }
+            },
+            {
+              "name": "Embroidery Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme im Inneren für eine ausgiebige Besichtigung.",
+                "hu": "Használja ki a benti meleget egy alapos nézelődésre.",
+                "ro": "Profitați de căldura din interior pentru o vizită detaliată.",
+                "en": "Take advantage of the warmth inside for a thorough visit."
+              }
+            },
+            {
+              "name": "Rhein-Schauen Museum",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei plötzlichem Schneefall rutschig sein.",
+                "hu": "A bekötőút hirtelen havazáskor csúszóssá válhat.",
+                "ro": "Drumul de acces poate fi alunecos în caz de ninsoare bruscă.",
+                "en": "The access road can be slippery during sudden snowfall."
+              }
+            },
+            {
+              "name": "Rohr Nature Reserve",
+              "tip_5lang": {
+                "de": "Verlassen Sie die geräumten Wege nicht mit dem Fahrzeug.",
+                "hu": "Ne hagyja el járművel a letakarított utakat.",
+                "ro": "Nu părăsiți drumurile deszăpezite cu vehiculul.",
+                "en": "Do not leave the cleared roads with your vehicle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Vorarlberg absolut notwendig.",
+              "Führen Sie einen Eiskratzer und eventuell Enteiserspray mit.",
+              "Achten Sie auf Räumfahrzeuge, die auf den Hauptstraßen Priorität haben.",
+              "Die Batterieleistung kann bei extremen Minustemperaturen nachlassen.",
+              "Brücken über den Rhein frieren oft früher zu als normale Straßen."
+            ],
+            "hu": [
+              "Vorarlbergben a téli gumi használata elengedhetetlen.",
+              "Legyen Önnél jégkaparó és esetleg jégoldó spray.",
+              "Figyeljen a hókotrókra, nekik elsőbbségük van a főutakon.",
+              "Extrém mínuszokban az akkumulátor teljesítménye csökkenhet.",
+              "A Rajna feletti hidak gyakran hamarabb lefagynak, mint a sima utak."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt absolut obligatorii în Vorarlberg.",
+              "Aveți la voi o răzuitoare de gheață și spray de dezghețare.",
+              "Atenție la utilajele de deszăpezire, au prioritate pe drumurile principale.",
+              "Performanța bateriei poate scădea la temperaturi de îngheț extreme.",
+              "Podurile peste Rin îngheață adesea mai devreme decât drumurile obișnuite."
+            ],
+            "en": [
+              "Winter tires are absolutely mandatory in Vorarlberg.",
+              "Keep an ice scraper and possibly a de-icer spray in your car.",
+              "Watch out for snowplows; they have priority on main roads.",
+              "Battery performance can decrease during extreme sub-zero temperatures.",
+              "Bridges over the Rhine often freeze over earlier than regular roads."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -946,6 +1480,178 @@
         "en": [
           "Buy a day ticket for the bus to stay flexible. Check the bus schedules to minimize waiting times. The VVV (Vorarlberg Transport Association) app is very helpful for this."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir den Kirchplatz fast trocken. Die Kirche und das Blaue Haus liegen nah beieinander, was den Aufenthalt im Regen minimiert. Mittags genießen wir die Natur im Millennium Park unter den Vordächern der modernen Bauten. Der Nachmittag gehört dem Stickereimuseum, bevor wir bequem mit den Linienbussen zurückkehren.",
+            "hu": "Busszal szinte szárazon érjük el a templomteret. A templom és a Kék Ház közel van egymáshoz, így minimális időt töltünk az esőben. Délben a Millennium Parkot fedezzük fel a modern épületek ereszei alatt maradva. A délutánt a Hímzésmúzeumban töltjük, majd menetrend szerinti járatokkal térünk vissza.",
+            "ro": "Cu autobuzul ajungem aproape uscați în Piața Bisericii. Biserica și Casa Albastră sunt aproape, minimizând timpul petrecut în ploaie. La prânz explorăm Millennium Park sub streșinile clădirilor moderne. După-amiaza este dedicată Muzeului de Broderie, revenind confortabil cu liniile locale.",
+            "en": "By bus, we reach Church Square almost completely dry. The church and Blue House are close together, minimizing rain exposure. At noon, we explore Millennium Park while staying under the eaves of modern buildings. The afternoon is spent at the Embroidery Museum before returning via local bus lines."
+          },
+          "stops": [
+            {
+              "name": "Kirchplatz stop",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Wartehäuschen, bis der Regen nachlässt.",
+                "hu": "Várjon a fedett megállóban, amíg alábbhagy az eső.",
+                "ro": "Așteptați în stația acoperită până când ploaia se mai domolește.",
+                "en": "Wait in the covered bus shelter until the rain lets up."
+              }
+            },
+            {
+              "name": "Church Square & Parish Church",
+              "tip_5lang": {
+                "de": "Sehr kurze Wege zwischen Bushaltestelle und Kirche.",
+                "hu": "Nagyon rövid út a buszmegálló és a templom között.",
+                "ro": "Distanțe foarte scurte între stație și biserică.",
+                "en": "Very short walking distances between the stop and the church."
+              }
+            },
+            {
+              "name": "Blue House",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um zur nächsten Haltestelle zu springen.",
+                "hu": "Használja a buszt, hogy átugorjon a következő megállóhoz.",
+                "ro": "Folosiți autobuzul pentru a ajunge rapid la următoarea stație.",
+                "en": "Use the bus to hop to the next stop and avoid walking in rain."
+              }
+            },
+            {
+              "name": "Millennium Park",
+              "tip_5lang": {
+                "de": "Moderne Bushaltestellen im Park bieten guten Schutz.",
+                "hu": "A park modern buszmegállói jó védelmet nyújtanak.",
+                "ro": "Stațiile de autobuz moderne din parc oferă adăpost bun.",
+                "en": "Modern bus stops in the park provide excellent shelter."
+              }
+            },
+            {
+              "name": "Embroidery Museum",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Schritte vom Eingang entfernt.",
+                "hu": "A megálló csak néhány lépésre van a bejárattól.",
+                "ro": "Stația se află la doar câțiva pași de intrare.",
+                "en": "The stop is located just a few steps from the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Lustenau ist gut durch das Landbussystem vernetzt.",
+              "Die Busse verkehren auch bei schlechtem Wetter pünktlich.",
+              "Nutzen Sie die 'VMOBIL' App für Echtzeit-Informationen.",
+              "Ein Tagesticket ist oft günstiger als Einzelfahrten.",
+              "Vermeiden Sie das Warten an ungeschützten Haltestellen am Stadtrand."
+            ],
+            "hu": [
+              "Lustenauban kiváló a regionális autóbusz-közlekedés.",
+              "A buszok rossz idő esetén is pontosan közlekednek.",
+              "Használja a 'VMOBIL' alkalmazást a valós idejű adatokhoz.",
+              "A napijegy gyakran olcsóbb, mint az egyedi menetjegyek.",
+              "Kerülje a várakozást a szélnek kitett, fedetlen peremkerületi megállókban."
+            ],
+            "ro": [
+              "Lustenau este bine conectat prin sistemul de autobuze regionale.",
+              "Autobuzele circulă punctual chiar și pe vreme nefavorabilă.",
+              "Folosiți aplicația 'VMOBIL' pentru informații în timp real.",
+              "Un bilet de o zi este adesea mai rentabil decât călătoriile individuale.",
+              "Evitați așteptarea în stațiile neprotejate de la periferie."
+            ],
+            "en": [
+              "Lustenau is well-connected by the regional Landbus system.",
+              "Buses run on schedule even during bad weather.",
+              "Use the 'VMOBIL' app for real-time transit information.",
+              "A day ticket is often cheaper than buying individual fares.",
+              "Avoid waiting at unsheltered stops on the outskirts of town."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag mit dem Bus beginnt am Kirchplatz. Die warmen Busse sind eine Wohltat zwischen den Besichtigungen von Kirche und Blauem Haus. Mittags besuchen wir den Millennium Park, wobei die kurzen Wege zwischen den Haltestellen ideal bei Kälte sind. Das Stickereimuseum bildet den warmen Höhepunkt, bevor wir im beheizten Bus die Heimreise antreten.",
+            "hu": "A téli buszos nap a templomtéren indul. A fűtött buszok áldást jelentenek a templom és a Kék Ház látogatása között. Délben a Millennium Parkba látogatunk, ahol a megállók közti rövid távok ideálisak hidegben. A Hímzésmúzeum a nap meleg fénypontja, mielőtt a fűtött járattal hazaindulnánk.",
+            "ro": "Ziua de iarnă cu autobuzul începe în piață. Autobuzele calde sunt o binecuvântare între vizitele la biserică și Casa Albastră. La prânz mergem în Millennium Park, distanțele scurte fiind ideale pe ger. Muzeul de Broderie este punctul culminant călduros înainte de întoarcere.",
+            "en": "The winter day by bus starts at Church Square. Heated buses are a relief between visiting the church and the Blue House. At noon, we head to Millennium Park, where short distances between stops are ideal in the cold. The Embroidery Museum is a warm highlight before heading home in a cozy bus."
+          },
+          "stops": [
+            {
+              "name": "Kirchplatz stop",
+              "tip_5lang": {
+                "de": "Die Wartehäuschen schützen vor dem kalten Wind.",
+                "hu": "A várótermek védenek a hideg széltől.",
+                "ro": "Stațiile închise vă protejează de vântul rece.",
+                "en": "The shelters provide protection against the cold wind."
+              }
+            },
+            {
+              "name": "Church Square & Parish Church",
+              "tip_5lang": {
+                "de": "Profitieren Sie von der Wärme im Bus auf dem kurzen Weg.",
+                "hu": "Élvezze a busz melegét a rövid utazás alatt.",
+                "ro": "Profități de căldura din autobuz pe traseul scurt.",
+                "en": "Take advantage of the warmth inside the bus during the short ride."
+              }
+            },
+            {
+              "name": "Blue House",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fotostopp, bevor der nächste Bus kommt.",
+                "hu": "Csak egy rövid fotómegálló a következő busz érkezéséig.",
+                "ro": "Doar o scurtă oprire pentru poze până vine următorul autobuz.",
+                "en": "Just a quick photo stop before the next bus arrives."
+              }
+            },
+            {
+              "name": "Millennium Park",
+              "tip_5lang": {
+                "de": "Die Wege im Park sind im Winter meist geräumt und gestreut.",
+                "hu": "A parkban az utakat télen általában takarítják és szórják.",
+                "ro": "Aleile din parc sunt de obicei curățate și presărate cu sare.",
+                "en": "Paths in the park are usually cleared and salted in winter."
+              }
+            },
+            {
+              "name": "Embroidery Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Heizung im Museum nach der Fahrt.",
+                "hu": "Élvezze a múzeum fűtését az utazás után.",
+                "ro": "Bucurați-vă de căldura din muzeu după călătorie.",
+                "en": "Enjoy the heating inside the museum after your journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei extremem Schneefall leicht abweichen.",
+              "Die Busse sind im Winter gut beheizt.",
+              "Tragen Sie feste Schuhe, da die Haltestellen rutschig sein können.",
+              "Nutzen Sie die Abendstunden, um die beleuchtete Stadt aus dem Bus zu sehen.",
+              "Die Anschlüsse zwischen den Linien sind meist gut abgestimmt."
+            ],
+            "hu": [
+              "Extrém havazás esetén a menetrend kismértékben eltérhet.",
+              "A buszok télen jól fűtöttek.",
+              "Viseljen stabil cipőt, mert a megállók környéke csúszós lehet.",
+              "Használja ki az esti órákat a kivilágított város megtekintésére a buszból.",
+              "A járatok közötti csatlakozások általában jól összehangoltak."
+            ],
+            "ro": [
+              "Orarele pot varia ușor în caz de ninsori extreme.",
+              "Autobuzele sunt bine încălzite în timpul iernii.",
+              "Purtați încălțăminte aderentă, stațiile pot fi alunecoase.",
+              "Folosiți orele serii pentru a vedea orașul iluminat din autobuz.",
+              "Legăturile între linii sunt de obicei bine coordonate."
+            ],
+            "en": [
+              "Schedules may vary slightly during extreme snowfall.",
+              "Buses are well-heated during the winter months.",
+              "Wear sturdy shoes as bus stop areas can be slippery.",
+              "Enjoy the illuminated city from the warmth of the bus in the evening.",
+              "Connections between different lines are usually well-timed."
+            ]
+          }
+        }
       }
     }
   }

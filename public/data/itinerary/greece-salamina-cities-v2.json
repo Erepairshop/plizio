@@ -379,6 +379,206 @@
           "A hat and sunscreen are essential.",
           "Plan for extra time to relax at a café and soak in the atmosphere."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der Agios-Dimitrios-Kirche, wo die Ikonen im fahlen Regenlicht glänzen. Danach bieten das Volkskundemuseum und das Archäologische Museum perfekte Zufluchtsorte vor den Schauern. Mittags genießen Sie frische Meeresfrüchte in einer gemütlichen Taverne direkt am Meer, während die Regentropfen auf den Saronischen Golf klatschen. Nachmittags spazieren Sie unter dem Regenschirm zum Euripides-Theater und den Windmühlen, die im Nebel fast mystisch wirken. Der Tag endet mit einem kurzen, ergreifenden Besuch am Grab der Salamis-Krieger, bevor Sie sich ins Trockene zurückziehen.",
+            "hu": "A reggel az Ájosz Dimítriosz-templom oltalmában indul, ahol az ikonok különleges fényben tündökölnek az esős időben. A délelőtt folyamán a Népművészeti és a Régészeti Múzeum kínál tökéletes menedéket a záporok elől. Ebédre keressen egy vízparti taverna fedett teraszát, és figyelje a tengerre hulló esőcseppeket egy tál gőzölgő tenger gyümölcse mellett. Délután az esernyő alatt tett séta az Euripidész-színházhoz és a szélmalmokhoz ködös, misztikus hangulatot áraszt. A napot a szalamiszi harcosok sírjánál tett rövid látogatással zárjuk, mielőtt visszatérnénk a melegbe.",
+            "ro": "Dimineața începe la adăpost în Biserica Agios Dimitrios, unde icoanele strălucesc în lumina difuză a ploii. Apoi, Muzeul de Artă Populară și Muzeul Arheologic oferă refugiul perfect împotriva averselor. La prânz, savurați fructe de mare proaspete într-o tavernă primitoare de pe malul mării, urmărind stropii de ploaie care cad peste Golful Saronic. După-amiaza, o plimbare sub umbrelă către Teatrul lui Euripide și morile de vânt oferă o atmosferă aproape mistică prin ceață. Ziua se încheie cu o vizită scurtă și solemnă la Mormântul Războinicilor din Salamina, înainte de a vă retrage la căldură.",
+            "en": "The morning begins sheltered in the Church of Agios Dimitrios, where icons shine in the pale rainy light. Afterwards, the Museum of Folk Art and the Archaeological Museum provide the perfect sanctuary from the showers. For lunch, enjoy fresh seafood in a cozy seaside tavern while watching the raindrops hit the Saronic Gulf. In the afternoon, a walk under the umbrella to the Euripides Theatre and the windmills feels almost mystical in the mist. The day ends with a brief, poignant visit to the Tomb of the Salamis Warriors before retreating to the dry."
+          },
+          "stops": [
+            {
+              "name": "Church of Agios Dimitrios",
+              "tip_5lang": {
+                "de": "Perfekter trockener Start; bewundern Sie die Wandmalereien.",
+                "hu": "Tökéletes száraz kezdés; csodálja meg a falfestményeket.",
+                "ro": "Un început perfect și uscat; admirați picturile murale.",
+                "en": "Perfect dry start; admire the interior murals."
+              }
+            },
+            {
+              "name": "Museum of Folk Art",
+              "tip_5lang": {
+                "de": "Viel Zeit für die Ausstellungen lassen, während es draußen regnet.",
+                "hu": "Hagyjon időt a kiállításokra, amíg kint esik.",
+                "ro": "Acordați timp expozițiilor în timp ce afară plouă.",
+                "en": "Spend extra time on the exhibits while it rains outside."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Salamina",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Mäntel.",
+                "hu": "Használja a ruhatárat a vizes kabátoknak.",
+                "ro": "Folosiți garderoba pentru hainele ude.",
+                "en": "Use the cloakroom for wet coats."
+              }
+            },
+            {
+              "name": "Lunch by the Sea",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Tisch weit weg vom Eingang wegen der Zugluft.",
+                "hu": "Válasszon bejárattól távoli asztalt a huzat miatt.",
+                "ro": "Alegeți o masă departe de intrare din cauza curentului.",
+                "en": "Choose a table away from the entrance to avoid drafts."
+              }
+            },
+            {
+              "name": "Euripides Theatre",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steinstufen können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat, a kőlépcsők nedvesen nagyon csúszósak lehetnek.",
+                "ro": "Atenție, treptele de piatră pot fi foarte alunecoase când sunt ude.",
+                "en": "Caution, stone steps can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Windmills of Salamina",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, da es hier oben sehr windig und nass ist.",
+                "hu": "Gyors fotómegálló, mert itt fent szeles és vizes az idő.",
+                "ro": "Oprire rapidă pentru poze, deoarece aici este vânt și umezeală.",
+                "en": "Quick photo stop as it is very windy and wet up here."
+              }
+            },
+            {
+              "name": "Tomb of the Salamis Warriors",
+              "tip_5lang": {
+                "de": "Der Weg zum Denkmal kann etwas schlammig sein.",
+                "hu": "Az emlékműhöz vezető út kissé sáros lehet.",
+                "ro": "Drumul spre monument poate fi puțin noroios.",
+                "en": "The path to the monument can be a bit muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Küstenabschnitte.",
+              "Ein stabiler Regenschirm ist wegen der Meeresbrise unerlässlich.",
+              "Die Museen sind montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Nutzen Sie die Tavernen-Pausen zum Aufwärmen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a tengerparti szakaszokon.",
+              "A tengeri szél miatt egy erős esernyő elengedhetetlen.",
+              "A múzeumok hétfőn gyakran zárva vannak, ellenőrizze az időpontokat.",
+              "Használja ki a tavernai szüneteket a felmelegedésre."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru secțiunile de coastă.",
+              "O umbrelă rezistentă este esențială din cauza brizelor marine.",
+              "Muzeele sunt adesea închise lunea, verificați programul.",
+              "Folosiți pauzele la tavernă pentru a vă încălzi."
+            ],
+            "en": [
+              "Wear waterproof shoes for the coastal sections.",
+              "A sturdy umbrella is essential due to the sea breeze.",
+              "Museums are often closed on Mondays, check the schedule.",
+              "Use tavern breaks to warm up and dry off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Salamina ist frisch und klar. Beginnen Sie in der Wärme der Agios-Dimitrios-Kirche, bevor Sie die faszinierende Geschichte im Volkskunde- und Archäologischen Museum erkunden, wo es angenehm temperiert ist. Zum Mittagessen lockt eine Taverne mit Kamin oder Heizstrahlern, wo Sie traditionelle griechische Wintergerichte probieren können. Der Nachmittag bietet am Euripides-Theater und den Windmühlen eine dramatische Aussicht bei tiefstehender Sonne. Beenden Sie den Rundgang am Grab der Salamis-Krieger pünktlich zum frühen Sonnenuntergang, wenn der Himmel in Purpur getaucht wird.",
+            "hu": "A téli reggel Szalamiszon friss és tiszta. Kezdjen az Ájosz Dimítriosz-templom melegében, majd fedezze fel a lenyűgöző történelmet a Népművészeti és Régészeti Múzeumban, ahol kellemes a hőmérséklet. Ebédre keressen egy kandallós vagy hősugárzós tavernát, ahol megkóstolhatja a hagyományos görög téli ételeket. Délután az Euripidész-színház és a szélmalmok drámai kilátást nyújtanak az alacsonyan járó nap fényében. A túrát a harcosok sírjánál fejezze be, pont a korai naplemente idején, amikor az ég bíbor színben úszik.",
+            "ro": "Dimineața de iarnă în Salamina este proaspătă și senină. Începeți la căldura Bisericii Agios Dimitrios, înainte de a explora istoria fascinantă la Muzeul de Artă Populară și cel Arheologic, unde temperatura este plăcută. Pentru prânz, alegeți o tavernă cu șemineu sau încălzitoare, unde puteți gusta mâncăruri tradiționale grecești de iarnă. După-amiaza oferă o vedere dramatică la Teatrul lui Euripide și la morile de vânt, sub soarele palid. Încheiați turul la Mormântul Războinicilor la timp pentru apusul timpuriu, când cerul devine purpuriu.",
+            "en": "The winter morning in Salamis is fresh and clear. Start in the warmth of the Church of Agios Dimitrios before exploring fascinating history in the Folk Art and Archaeological Museums, which are comfortably heated. For lunch, a tavern with a fireplace or heaters beckons, where you can try traditional Greek winter dishes. The afternoon offers dramatic views at the Euripides Theatre and the windmills under the low sun. End the tour at the Tomb of the Salamis Warriors just in time for the early sunset when the sky turns purple."
+          },
+          "stops": [
+            {
+              "name": "Church of Agios Dimitrios",
+              "tip_5lang": {
+                "de": "Ein ruhiger, warmer Ort zum Innehalten.",
+                "hu": "Csendes, meleg hely az elmélyüléshez.",
+                "ro": "Un loc liniștit și cald pentru reculegere.",
+                "en": "A quiet, warm place for reflection."
+              }
+            },
+            {
+              "name": "Museum of Folk Art",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Nebensaison.",
+                "hu": "Élvezze a holtszezon nyugalmát.",
+                "ro": "Bucurați-vă de liniștea din afara sezonului.",
+                "en": "Enjoy the tranquility of the off-season."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Salamina",
+              "tip_5lang": {
+                "de": "Gut beheizt, ideal zum Aufwärmen.",
+                "hu": "Jól fűtött, ideális a felmelegedéshez.",
+                "ro": "Bine încălzit, ideal pentru a vă încălzi.",
+                "en": "Well-heated, ideal for warming up."
+              }
+            },
+            {
+              "name": "Lunch by the Sea",
+              "tip_5lang": {
+                "de": "Fragen Sie nach dem Tageseintopf (Fasolada).",
+                "hu": "Kérdezze a napi főzeléket (faszoláda).",
+                "ro": "Întrebați de mâncarea zilei (fasolada).",
+                "en": "Ask for the daily stew (Fasolada)."
+              }
+            },
+            {
+              "name": "Euripides Theatre",
+              "tip_5lang": {
+                "de": "Bringen Sie ein Sitzkissen mit, die Steine sind kalt.",
+                "hu": "Hozzon ülőpárnát, a kövek hidegek.",
+                "ro": "Aduceți o pernă de scaun, pietrele sunt reci.",
+                "en": "Bring a seat cushion, the stones are cold."
+              }
+            },
+            {
+              "name": "Windmills of Salamina",
+              "tip_5lang": {
+                "de": "Windfeste Kleidung ist hier oben Pflicht.",
+                "hu": "Szélálló ruházat itt fent kötelező.",
+                "ro": "Îmbrăcămintea rezistentă la vânt este obligatorie.",
+                "en": "Windproof clothing is a must up here."
+              }
+            },
+            {
+              "name": "Tomb of the Salamis Warriors",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist hier gegen 17:15 Uhr.",
+                "hu": "A naplemente itt 17:15 körül van.",
+                "ro": "Apusul soarelui este aici în jur de ora 17:15.",
+                "en": "Sunset is here around 17:15."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung beachten.",
+              "Die Sonne geht früh unter (ca. 17:00).",
+              "Einige Museen haben im Winter verkürzte Öffnungszeiten.",
+              "Warme Getränke wie griechischer Bergtee helfen gegen Kälte."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a változó hőmérséklet miatt.",
+              "A nap korán nyugszik (kb. 17:00).",
+              "Néhány múzeum télen rövidített nyitvatartással üzemel.",
+              "A görög hegyi tea segít a hideg ellen."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru a vă adapta temperaturii.",
+              "Soarele apune devreme (aproximativ ora 17:00).",
+              "Unele muzee au program redus iarna.",
+              "Ceaiul grecesc de munte ajută împotriva frigului."
+            ],
+            "en": [
+              "Dress in layers to adapt to the temperature.",
+              "The sun sets early (around 17:00).",
+              "Some museums have shorter winter hours.",
+              "Greek mountain tea is great for staying warm."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +952,206 @@
           "A helmet is highly recommended.",
           "Carry a repair kit for minor punctures."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet Salamina für Radfahrer reizvolle, wenn auch anspruchsvolle Wege. Der Morgen führt zum Faneromeni-Kloster, dessen Hof bei Regen besonders friedlich ist. Mittags radeln Sie vorsichtig über die nassen Straßen zum Denkmal der Krieger und den Windmühlen, wo die Luft frisch und salzig ist. Das Mittagessen in einem Fischerdorf bietet die nötige Pause zum Trocknen der Kleidung. Nachmittags besuchen Sie das Archäologische Museum zur Erholung, bevor Sie den Tag an der Euripides-Höhle und dem Strand abschließen, wo das graue Meer eine gewaltige Kraft ausstrahlt.",
+            "hu": "Az eső ellenére Szalamisz izgalmas, bár kihívást jelentő utakat kínál a kerékpárosoknak. A reggel a Faneromeni kolostorhoz vezet, melynek udvara esőben különösen békés. Délben óvatosan tekerjen a vizes utakon a harcosok emlékművéhez és a szélmalmokhoz, ahol a levegő friss és sós. Egy halászfaluban elfogyasztott ebéd lehetőséget ad a ruhák megszárítására. Délután látogasson el a Régészeti Múzeumba pihenésképpen, mielőtt a napot az Euripidész-barlangnál és a tengerpartnál zárná, ahol a szürke tenger lenyűgöző erőt áraszt.",
+            "ro": "În ciuda ploii, Salamina oferă trasee fermecătoare, deși provocatoare, pentru bicicliști. Dimineața duce la Mănăstirea Faneromeni, a cărei curte este deosebit de liniștită pe ploaie. La prânz, pedalați cu atenție pe străzile ude către monumentul războinicilor și morile de vânt, unde aerul este proaspăt și sărat. Prânzul într-un sat de pescari oferă pauza necesară pentru uscarea hainelor. După-amiaza, vizitați Muzeul Arheologic pentru relaxare, înainte de a încheia ziua la Peștera lui Euripide și la plajă, unde marea cenușie emană o forță imensă.",
+            "en": "Despite the rain, Salamina offers delightful, if challenging, paths for cyclists. The morning leads to the Faneromeni Monastery, whose courtyard is particularly peaceful in the rain. At noon, cycle carefully over the wet roads to the warriors' monument and the windmills, where the air is fresh and salty. Lunch in a fishing village provides the necessary break to dry your clothes. In the afternoon, visit the Archaeological Museum for recovery before ending the day at the Cave of Euripides and the beach, where the grey sea radiates powerful energy."
+          },
+          "stops": [
+            {
+              "name": "Faneromeni Monastery",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad unter dem Vordach am Eingang.",
+                "hu": "Parkolja a bringát az előtető alatt a bejáratnál.",
+                "ro": "Parcați bicicleta sub acoperișul de la intrare.",
+                "en": "Park your bike under the canopy at the entrance."
+              }
+            },
+            {
+              "name": "Tomb of the Salamis Warriors",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf dem unbefestigten Weg.",
+                "hu": "Ügyeljen a tócsákra a burkolatlan úton.",
+                "ro": "Atenție la bălți pe drumul neasfaltat.",
+                "en": "Watch out for puddles on the unpaved path."
+              }
+            },
+            {
+              "name": "Windmills of Salamina",
+              "tip_5lang": {
+                "de": "Starker Seitenwind möglich, halten Sie den Lenker fest.",
+                "hu": "Erős oldalszél lehetséges, fogja szorosan a kormányt.",
+                "ro": "Vânt lateral puternic posibil, țineți bine ghidonul.",
+                "en": "Strong crosswinds possible, keep a firm grip on the handlebars."
+              }
+            },
+            {
+              "name": "Lunch break in a fishing village",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Platz zum Aufhängen der Regenjacke.",
+                "hu": "Kérjen helyet az esőkabát felakasztására.",
+                "ro": "Cereți un loc pentru a agăța jacheta de ploaie.",
+                "en": "Ask for a place to hang your rain jacket."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Salamina",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradständer in der Nähe vorhanden.",
+                "hu": "Biztonságos kerékpártároló található a közelben.",
+                "ro": "Suport sigur pentru biciclete disponibil în apropiere.",
+                "en": "Secure bike rack available nearby."
+              }
+            },
+            {
+              "name": "Cave of Euripides",
+              "tip_5lang": {
+                "de": "Der Aufstieg kann rutschig sein, tragen Sie Profilschuhe.",
+                "hu": "A felkapaszkodás csúszós lehet, viseljen profilos cipőt.",
+                "ro": "Urcarea poate fi alunecoasă, purtați pantofi cu profil.",
+                "en": "The climb can be slippery, wear shoes with good grip."
+              }
+            },
+            {
+              "name": "Sunset at the beach",
+              "tip_5lang": {
+                "de": "Ein dramatischer grauer Himmel ersetzt den Sonnenuntergang.",
+                "hu": "Drámai szürke égbolt helyettesíti a naplementét.",
+                "ro": "Un cer cenușiu dramatic înlocuiește apusul.",
+                "en": "A dramatic grey sky replaces the sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Rad sind bei Regen unverzichtbar.",
+              "Bremsen Sie auf nassem Asphalt frühzeitig.",
+              "Vermeiden Sie Markierungen auf der Straße, diese sind extrem glatt.",
+              "Packen Sie Wertsachen in wasserdichte Taschen."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen esőben.",
+              "Vizes aszfalton fékezzen időben.",
+              "Kerülje az útburkolati jeleket, mert rendkívül csúsznak.",
+              "Tegye az értékeket vízhatlan táskába."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe ploaie.",
+              "Frânați din timp pe asfaltul ud.",
+              "Evitați marcajele rutiere, acestea sunt extrem de alunecoase.",
+              "Puneți obiectele de valoare în genți impermeabile."
+            ],
+            "en": [
+              "Mudguards are essential in the rain.",
+              "Brake early on wet asphalt.",
+              "Avoid road markings, as they become extremely slippery.",
+              "Pack valuables in waterproof bags."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour auf Salamina erfordert warme Kleidung, belohnt aber mit einsamen Straßen und klarer Luft. Der Morgen startet am Kloster Faneromeni, umgeben von winterlicher Stille. Danach führt die Route zum Kriegergrab und den Windmühlen, wo der Wind kräftig wehen kann. Ein warmes Mittagessen im Fischerdorf gibt neue Energie für die Weiterfahrt zum Archäologischen Museum. Der Nachmittag endet an der Euripides-Höhle. Da es früh dunkel wird, sollten Sie den Sonnenuntergang am Strand genießen und sicherstellen, dass Ihre Beleuchtung funktioniert.",
+            "hu": "Egy téli kerékpártúra Szalamiszon meleg ruházatot igényel, de cserébe üres utakkal és friss levegővel ajándékoz meg. A reggel a Faneromeni kolostornál indul, téli csendben. Ezután az út a harcosok sírjához és a szélmalmokhoz vezet, ahol a szél erősen fújhat. Egy meleg ebéd a halászfaluban erőt ad a Régészeti Múzeum felé vezető úthoz. A délután az Euripidész-barlangnál ér véget. Mivel korán sötétedik, élvezze a naplementét a parton, és győződjön meg róla, hogy a világítása jól működik.",
+            "ro": "O tură de iarnă cu bicicleta în Salamina necesită haine groase, dar vă recompensează cu drumuri pustii și aer curat. Dimineața începe la Mănăstirea Faneromeni, înconjurată de liniște hibernală. Traseul continuă spre mormântul războinicilor și morile de vânt, unde vântul poate fi puternic. Un prânz cald în satul de pescari vă dă energie pentru drumul spre Muzeul Arheologic. După-amiaza se încheie la Peștera lui Euripide. Deoarece se întunecă devreme, bucurați-vă de apus pe plajă și asigurați-vă că luminile bicicletei funcționează.",
+            "en": "A winter bike tour on Salamis requires warm clothing but rewards you with empty roads and clear air. The morning starts at Faneromeni Monastery, surrounded by winter silence. Then the route leads to the warriors' tomb and the windmills, where the wind can blow strongly. A warm lunch in the fishing village gives energy for the ride to the Archaeological Museum. The afternoon ends at the Cave of Euripides. Since it gets dark early, enjoy the sunset at the beach and ensure your lights are working."
+          },
+          "stops": [
+            {
+              "name": "Faneromeni Monastery",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe, der Fahrtwind ist kalt.",
+                "hu": "Viseljen kesztyűt, a menetszél hideg.",
+                "ro": "Purtați mănuși, vântul în timpul mersului este rece.",
+                "en": "Wear gloves, the wind chill is significant."
+              }
+            },
+            {
+              "name": "Tomb of the Salamis Warriors",
+              "tip_5lang": {
+                "de": "Klarste Sicht auf das Festland im Winter.",
+                "hu": "Télen a legtisztább a kilátás a szárazföldre.",
+                "ro": "Cea mai clară vedere spre continent în timpul iernii.",
+                "en": "Clearest views of the mainland in winter."
+              }
+            },
+            {
+              "name": "Windmills of Salamina",
+              "tip_5lang": {
+                "de": "Vorsicht vor Windböen beim Fotografieren.",
+                "hu": "Vigyázzon a széllökésekre fotózás közben.",
+                "ro": "Atenție la rafalele de vânt când faceți poze.",
+                "en": "Watch out for wind gusts while taking photos."
+              }
+            },
+            {
+              "name": "Lunch break in a fishing village",
+              "tip_5lang": {
+                "de": "Suppen sind jetzt die beste Wahl.",
+                "hu": "A levesek most a legjobb választások.",
+                "ro": "Supele sunt cea mai bună alegere acum.",
+                "en": "Soups are the best choice right now."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Salamina",
+              "tip_5lang": {
+                "de": "Ideale Pause, um die Finger aufzuwärmen.",
+                "hu": "Ideális szünet az ujjak felmelegítésére.",
+                "ro": "Pauză ideală pentru a vă încălzi degetele.",
+                "en": "Ideal break to warm up your fingers."
+              }
+            },
+            {
+              "name": "Cave of Euripides",
+              "tip_5lang": {
+                "de": "In der Höhle ist es wärmer als draußen.",
+                "hu": "A barlangban melegebb van, mint kint.",
+                "ro": "În peșteră este mai cald decât afară.",
+                "en": "It's warmer inside the cave than outside."
+              }
+            },
+            {
+              "name": "Sunset at the beach",
+              "tip_5lang": {
+                "de": "Licht anmachen für die Rückfahrt ab 17:00 Uhr.",
+                "hu": "Kapcsolja be a világítást a visszautashoz 17:00-tól.",
+                "ro": "Aprindeți luminile pentru drumul de întoarcere după ora 17:00.",
+                "en": "Turn on lights for the ride back from 17:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie ein helles Frontlicht für den frühen Abend.",
+              "Trinken Sie ausreichend, auch wenn es kalt ist.",
+              "Warme Socken und Thermo-Unterwäsche einplanen.",
+              "Die Küstenstraßen sind im Winter oft windiger."
+            ],
+            "hu": [
+              "Használjon erős első lámpát a kora esti órákban.",
+              "Igyon eleget akkor is, ha hideg van.",
+              "Tervezzen meleg zoknit és aláöltözetet.",
+              "A tengerparti utak télen gyakran szelesebbek."
+            ],
+            "ro": [
+              "Folosiți o lumină frontală puternică pentru seara devreme.",
+              "Beți suficiente lichide, chiar dacă este frig.",
+              "Planificați șosete groase și lenjerie termică.",
+              "Drumurile de coastă sunt adesea mai bântuite de vânt iarna."
+            ],
+            "en": [
+              "Use a bright front light for the early evening.",
+              "Drink enough fluids even if it is cold.",
+              "Plan for warm socks and thermal underwear.",
+              "Coastal roads are often windier in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1156,6 +1556,224 @@
           "Parking in the city center can be difficult; be patient.",
           "A GPS is very helpful for navigating the island."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Salamina bei Regen ganz entspannt und trocken. Der Tag beginnt am Faneromeni-Kloster, gefolgt von einer kurzen Fahrt zum Kriegergrab, das Sie bequem vom Wagen aus sehen können. Danach geht es zur Euripides-Höhle und dem Theater, wobei Sie die Regenschauer einfach im Auto abwarten können. Das Mittagessen im Stadtzentrum bietet eine willkommene Unterbrechung. Den Nachmittag verbringen Sie in den Museen der Stadt, bevor Sie den Tag an der Agios-Dimitrios-Kirche abschließen, während draußen der Regen die Straßen reinigt.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel Szalamiszt esőben is. A nap a Faneromeni kolostornál indul, majd egy rövid autózás következik a harcosok sírjához, melyet a kocsiból is jól láthat. Ezután az Euripidész-barlang és a színház következik, a záporokat pedig egyszerűen kivárhatja az autóban. A városközponti ebéd kellemes pihenőt kínál. A délutánt a város múzeumaiban töltheti, majd a napot az Ájosz Dimítriosz-templomnál zárhatja, miközben kint az eső mossa az utcákat.",
+            "ro": "Cu mașina, explorați Salamina pe ploaie într-un mod relaxat și uscat. Ziua începe la Mănăstirea Faneromeni, urmată de o scurtă călătorie către mormântul războinicilor, pe care îl puteți vedea confortabil din mașină. Urmează Peștera lui Euripide și teatrul, putând aștepta trecerea averselor pur și simplu în mașină. Prânzul în centrul orașului oferă o întrerupere binevenită. Petreceți după-amiaza în muzeele orașului, înainte de a încheia ziua la Biserica Agios Dimitrios, în timp ce afară ploaia curăță străzile.",
+            "en": "By car, you can explore Salamina in the rain in a relaxed and dry manner. The day begins at Faneromeni Monastery, followed by a short drive to the warriors' tomb, which you can conveniently see from the car. Next are the Cave of Euripides and the theatre; you can simply wait out the showers in the vehicle. Lunch in the city center provides a welcome break. Spend the afternoon in the city's museums before concluding the day at the Church of Agios Dimitrios while the rain cleans the streets outside."
+          },
+          "stops": [
+            {
+              "name": "Faneromeni Monastery",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor dem Eingang verfügbar.",
+                "hu": "Parkolóhelyek közvetlenül a bejárat előtt találhatók.",
+                "ro": "Locuri de parcare disponibile chiar în fața intrării.",
+                "en": "Parking spaces available right in front of the entrance."
+              }
+            },
+            {
+              "name": "Tomb of the Salamis Warriors",
+              "tip_5lang": {
+                "de": "Gute Sicht vom Parkplatz aus, falls es stark regnet.",
+                "hu": "Jó kilátás a parkolóból, ha erősen esik.",
+                "ro": "Vedere bună din parcare dacă plouă torențial.",
+                "en": "Good view from the parking lot if it's raining hard."
+              }
+            },
+            {
+              "name": "Cave of Euripides",
+              "tip_5lang": {
+                "de": "Die schmale Straße kann bei Regen rutschig sein.",
+                "hu": "A keskeny út esőben csúszós lehet.",
+                "ro": "Drumul îngust poate fi alunecos pe ploaie.",
+                "en": "The narrow road can be slippery in the rain."
+              }
+            },
+            {
+              "name": "Euripides Theatre",
+              "tip_5lang": {
+                "de": "Lassen Sie den Regenschirm griffbereit im Auto.",
+                "hu": "Tartsa az esernyőt kéznél az autóban.",
+                "ro": "Țineți umbrela la îndemână în mașină.",
+                "en": "Keep your umbrella handy in the car."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Nutzen Sie ein Parkhaus, um trocken ins Restaurant zu kommen.",
+                "hu": "Használjon parkolóházat, hogy szárazon jusson az étterembe.",
+                "ro": "Folosiți o parcare acoperită pentru a ajunge uscat la restaurant.",
+                "en": "Use a parking garage to stay dry on your way to the restaurant."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Salamina",
+              "tip_5lang": {
+                "de": "Der Eingang ist nur einen kurzen Sprung vom Parkplatz entfernt.",
+                "hu": "A bejárat csak egy ugrásra van a parkolótól.",
+                "ro": "Intrarea este la doar un pas de parcare.",
+                "en": "The entrance is just a short hop from the parking area."
+              }
+            },
+            {
+              "name": "Museum of Folk Art",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen heftigen Schauer abzuwarten.",
+                "hu": "Ideális hely egy heves zápor kivárására.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse puternice.",
+                "en": "An ideal place to wait out a heavy shower."
+              }
+            },
+            {
+              "name": "Church of Agios Dimitrios",
+              "tip_5lang": {
+                "de": "Abends sind oft weniger Autos in den schmalen Gassen.",
+                "hu": "Este gyakran kevesebb autó van a szűk utcákban.",
+                "ro": "Seara sunt adesea mai puține mașini în zonele înguste.",
+                "en": "Fewer cars in the narrow streets in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf beschlagene Scheiben, nutzen Sie die Klimaanlage.",
+              "In der Stadtmitte sind Parkplätze bei Regen begehrt.",
+              "Vermeiden Sie tiefes Wasser in Senken.",
+              "Die Straßen können durch Ölreste sehr glatt sein."
+            ],
+            "hu": [
+              "Ügyeljen a párásodó szélvédőre, használja a klímát.",
+              "A városközpontban esőben keresettek a parkolók.",
+              "Kerülje a mély vizet az úthibákban.",
+              "Az utak az olajmaradványoktól nagyon csúszhatnak."
+            ],
+            "ro": [
+              "Atenție la parbrizul aburit, folosiți aerul condiționat.",
+              "În centrul orașului, parcările sunt la mare căutare pe ploaie.",
+              "Evitați bălțile adânci din zonele joase.",
+              "Drumurile pot fi foarte alunecoase din cauza reziduurilor de ulei."
+            ],
+            "en": [
+              "Watch out for fogged windows, use the AC.",
+              "Parking in the city center is in high demand during rain.",
+              "Avoid deep water in dips.",
+              "Roads can be very slippery due to oil residue."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour über Salamina ist komfortabel und bietet tolle Panoramen. Starten Sie am Kloster Faneromeni und genießen Sie die klare Luft. Besuchen Sie das Kriegergrab und die Euripides-Höhle, bevor Sie das Theater besichtigen. Das Auto bleibt angenehm warm zwischen den Stopps. Mittags kehren Sie im Zentrum ein und erkunden danach die Museen. Der Tag endet an der Agios-Dimitrios-Kirche, wenn die Lichter der Stadt in der kühlen Winternacht zu leuchten beginnen.",
+            "hu": "Egy téli autós kirándulás Szalamiszon kényelmes és nagyszerű panorámákat kínál. Kezdjen a Faneromeni kolostornál, és élvezze a tiszta levegőt. Látogasson el a harcosok sírjához és az Euripidész-barlanghoz, mielőtt megnézné a színházat. Az autó kellemesen meleg marad a megállók között. Ebédeljen a központban, majd fedezze fel a múzeumokat. A nap az Ájosz Dimítriosz-templomnál ér véget, amikor a város fényei gyúlni kezdenek a hűvös téli éjszakában.",
+            "ro": "O plimbare de iarnă cu mașina prin Salamina este confortabilă și oferă panorame grozave. Începeți la Mănăstirea Faneromeni și bucurați-vă de aerul curat. Vizitați mormântul războinicilor și Peștera lui Euripide înainte de a vedea teatrul. Mașina rămâne plăcut caldă între opriri. La prânz, opriți în centru și apoi explorați muzeele. Ziua se încheie la Biserica Agios Dimitrios, când luminile orașului încep să strălucească în noaptea rece de iarnă.",
+            "en": "A winter drive across Salamis is comfortable and offers great panoramas. Start at Faneromeni Monastery and enjoy the clear air. Visit the warriors' tomb and the Cave of Euripides before touring the theatre. The car remains pleasantly warm between stops. At noon, dine in the center and then explore the museums. The day ends at the Church of Agios Dimitrios as the city lights begin to glow in the cool winter night."
+          },
+          "stops": [
+            {
+              "name": "Faneromeni Monastery",
+              "tip_5lang": {
+                "de": "Die Heizung im Auto sorgt für Wohlbefinden nach dem Rundgang.",
+                "hu": "A fűtés gondoskodik a kényelemről a körséta után.",
+                "ro": "Căldura din mașină asigură confortul după tur.",
+                "en": "The car heater ensures comfort after the walk."
+              }
+            },
+            {
+              "name": "Tomb of the Salamis Warriors",
+              "tip_5lang": {
+                "de": "Klare Sicht auf die Bucht von Salamis.",
+                "hu": "Tiszta kilátás a Szalamiszi-öbölre.",
+                "ro": "Vedere clară spre golful Salamina.",
+                "en": "Clear view of the Bay of Salamis."
+              }
+            },
+            {
+              "name": "Cave of Euripides",
+              "tip_5lang": {
+                "de": "Wenig Verkehr auf der Küstenstraße im Winter.",
+                "hu": "Télen kicsi a forgalom a tengerparti úton.",
+                "ro": "Trafic redus pe drumul de coastă iarna.",
+                "en": "Little traffic on the coastal road in winter."
+              }
+            },
+            {
+              "name": "Euripides Theatre",
+              "tip_5lang": {
+                "de": "Die Parkplätze sind jetzt fast leer.",
+                "hu": "A parkolók most szinte üresek.",
+                "ro": "Parcările sunt aproape goale acum.",
+                "en": "Parking lots are almost empty now."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei einer heißen Schokolade auf.",
+                "hu": "Melegedjen fel egy forró csokoládéval.",
+                "ro": "Încălziți-vă cu o ciocolată caldă.",
+                "en": "Warm up with a hot chocolate."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Salamina",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum in der wärmeren Mittagszeit.",
+                "hu": "Látogasson el a múzeumba a melegebb déli órákban.",
+                "ro": "Vizitați muzeul în orele mai calde ale amiezii.",
+                "en": "Visit the museum during the warmer midday hours."
+              }
+            },
+            {
+              "name": "Museum of Folk Art",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Auto und Museumseingang.",
+                "hu": "Rövid séta az autó és a múzeum bejárata között.",
+                "ro": "Distanțe scurte între mașină și intrarea în muzeu.",
+                "en": "Short distance between the car and the museum entrance."
+              }
+            },
+            {
+              "name": "Church of Agios Dimitrios",
+              "tip_5lang": {
+                "de": "Die Abenddämmerung beginnt bereits um 17:00 Uhr.",
+                "hu": "A szürkület már 17:00-kor elkezdődik.",
+                "ro": "Amurgul începe deja la ora 17:00.",
+                "en": "Twilight already begins at 17:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei Kälte.",
+              "Frost ist auf Salamina selten, aber nicht unmöglich.",
+              "Die Küstenstraßen können im Winter windanfällig sein.",
+              "Bringen Sie Decken für längere Pausen mit."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást hidegben.",
+              "A fagy ritka Szalamiszon, de nem lehetetlen.",
+              "A tengerparti utak télen szélérzékenyek lehetnek.",
+              "Hozzon takarót a hosszabb pihenőkhöz."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope la frig.",
+              "Înghețul este rar în Salamina, dar nu imposibil.",
+              "Drumurile de coastă pot fi expuse vântului iarna.",
+              "Aduceți pături pentru pauzele mai lungi."
+            ],
+            "en": [
+              "Check tire pressure in cold weather.",
+              "Frost is rare in Salamis but not impossible.",
+              "Coastal roads can be windy in winter.",
+              "Bring blankets for longer breaks."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1507,6 +2125,188 @@
           "Buses can be crowded, especially during peak season.",
           "Ask locals if you're unsure which bus to take; they are usually helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit den öffentlichen Bussen erkunden Sie Salamina auch bei Regen sicher. Der Tag beginnt am Busbahnhof, von wo Sie zum Faneromeni-Kloster fahren. Nutzen Sie die Wartehäuschen, um trocken zu bleiben. Mittags geht es zurück zum Hafen für ein stärkendes Essen. Den Nachmittag verbringen Sie in den Museen der Stadt, die gut an das Busnetz angebunden sind. Zum Abschluss besuchen Sie die Agios-Dimitrios-Kirche, bevor Sie bequem mit dem Bus zurück zum Ausgangspunkt fahren.",
+            "hu": "Tömegközlekedéssel esőben is biztonságosan felfedezheti Szalamiszt. A nap a buszpályaudvaron indul, ahonnan a Faneromeni kolostorhoz utazhat. Használja a várótermeket, hogy száraz maradjon. Délben térjen vissza a kikötőbe egy tápláló ebédre. A délutánt a város múzeumaiban töltse, melyek jól megközelíthetők busszal. Végezetül látogasson el az Ájosz Dimítriosz-templomhoz, mielőtt kényelmesen visszabuszozna a kiindulópontra.",
+            "ro": "Cu autobuzele publice, explorați Salamina în siguranță chiar și pe ploaie. Ziua începe la autogară, de unde mergeți la Mănăstirea Faneromeni. Folosiți stațiile acoperite pentru a rămâne uscat. La prânz, reveniți în port pentru o masă sățioasă. Petreceți după-amiaza în muzeele orașului, care sunt bine conectate la rețeaua de autobuze. În final, vizitați Biserica Agios Dimitrios înainte de a vă întoarce confortabil cu autobuzul la punctul de plecare.",
+            "en": "By public bus, you can explore Salamina safely even in the rain. The day begins at the bus station, from where you travel to Faneromeni Monastery. Use the bus shelters to stay dry. At noon, return to the port for a hearty meal. Spend the afternoon in the city's museums, which are well connected to the bus network. Finally, visit the Church of Agios Dimitrios before taking a comfortable bus ride back to your starting point."
+          },
+          "stops": [
+            {
+              "name": "Start: Salamina Main Bus Station",
+              "tip_5lang": {
+                "de": "Kaufen Sie Fahrkarten im Voraus am Schalter.",
+                "hu": "Vásárolja meg a jegyeket előre a pénztárnál.",
+                "ro": "Cumpărați bilete în avans de la ghișeu.",
+                "en": "Buy tickets in advance at the counter."
+              }
+            },
+            {
+              "name": "Faneromeni Monastery",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten beim Fahrer.",
+                "hu": "Ellenőrizze a visszaindulást a sofőrnél.",
+                "ro": "Verificați orele de întoarcere la șofer.",
+                "en": "Check return times with the driver."
+              }
+            },
+            {
+              "name": "Lunch near the port",
+              "tip_5lang": {
+                "de": "Viele Restaurants sind nur wenige Schritte von der Bushaltestelle entfernt.",
+                "hu": "Sok étterem csak pár lépésre van a buszmegállótól.",
+                "ro": "Multe restaurante sunt la doar câțiva pași de stația de autobuz.",
+                "en": "Many restaurants are just a few steps from the bus stop."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Salamina",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet Schutz vor dem Regen.",
+                "hu": "A buszmegálló védelmet nyújt az eső elől.",
+                "ro": "Stația de autobuz oferă protecție împotriva ploii.",
+                "en": "The bus stop provides shelter from the rain."
+              }
+            },
+            {
+              "name": "Museum of Folk Art",
+              "tip_5lang": {
+                "de": "Planen Sie Pufferzeiten für eventuelle Verspätungen ein.",
+                "hu": "Tervezzen be puffertidőt az esetleges késésekre.",
+                "ro": "Planificați timp suplimentar pentru eventuale întârzieri.",
+                "en": "Plan for buffer time for possible delays."
+              }
+            },
+            {
+              "name": "Church of Agios Dimitrios",
+              "tip_5lang": {
+                "de": "Die letzte Fahrt zum Hauptbahnhof ist meist pünktlich.",
+                "hu": "Az utolsó járat a főpályaudvarra általában pontos.",
+                "ro": "Ultima cursă spre autogară este de obicei la timp.",
+                "en": "The last bus to the main station is usually on time."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld für den Fahrkartenkauf bereit.",
+              "Die Busse können bei Regen voller sein.",
+              "Nutzen Sie die App für Echtzeit-Infos, falls verfügbar.",
+              "Tragen Sie eine leichte Regenjacke für die Wege zwischen Halt und Ziel."
+            ],
+            "hu": [
+              "Legyen Önnél aprópénz a jegyvásárláshoz.",
+              "Esőben a buszok zsúfoltabbak lehetnek.",
+              "Használja az alkalmazást a valós idejű infókért, ha van.",
+              "Viseljen könnyű esőkabátot a megálló és a cél közötti útra."
+            ],
+            "ro": [
+              "Aveți pregătit mărunt pentru cumpărarea biletelor.",
+              "Autobuzele pot fi mai aglomerate pe ploaie.",
+              "Folosiți aplicația pentru informații în timp real, dacă este disponibilă.",
+              "Purtați o jachetă ușoară de ploaie pentru drumul dintre stație și destinație."
+            ],
+            "en": [
+              "Have small change ready for ticket purchases.",
+              "Buses can be more crowded during rain.",
+              "Use an app for real-time info if available.",
+              "Wear a light rain jacket for walks between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter auf Salamina lässt sich hervorragend mit dem Bus erleben. Starten Sie am gut beheizten Hauptbusbahnhof und fahren Sie zum beschaulichen Faneromeni-Kloster. Mittags genießen Sie ein warmes Essen am Hafen, bevor Sie die kulturellen Schätze im Archäologischen und Volkskundemuseum entdecken. Die Busse sind im Winter angenehm leerer als im Sommer. Den Tag beschließen Sie an der Agios-Dimitrios-Kirche, bevor Sie die letzte Fahrt zurück zum Bahnhof antreten.",
+            "hu": "A szalamiszi telet kiválóan átélheti busszal. Kezdjen a jól fűtött főpályaudvaron, és utazzon a békés Faneromeni kolostorhoz. Délben élvezze a meleg ételt a kikötőben, mielőtt felfedezné a Régészeti és Népművészeti Múzeum kincseit. A buszok télen kellemesen üresebbek, mint nyáron. A napot az Ájosz Dimítriosz-templomnál zárja, mielőtt megtenné az utolsó utat vissza az állomásra.",
+            "ro": "Iarna în Salamina poate fi experimentată excelent cu autobuzul. Începeți la autogara principală bine încălzită și mergeți la mănăstirea Faneromeni. La prânz, savurați o masă caldă în port, înainte de a descoperi comorile culturale de la Muzeul Arheologic și cel de Artă Populară. Autobuzele sunt mult mai libere iarna decât vara. Încheiați ziua la Biserica Agios Dimitrios înainte de a pleca spre autogară.",
+            "en": "Winter on Salamis is great to experience by bus. Start at the well-heated main bus station and travel to the tranquil Faneromeni Monastery. At noon, enjoy a warm meal at the port before discovering cultural treasures in the Archaeological and Folk Art Museums. Buses are pleasantly emptier in winter than in summer. Conclude the day at the Church of Agios Dimitrios before taking the last ride back to the station."
+          },
+          "stops": [
+            {
+              "name": "Start: Salamina Main Bus Station",
+              "tip_5lang": {
+                "de": "Warmer Wartesaal vorhanden.",
+                "hu": "Meleg váróterem áll rendelkezésre.",
+                "ro": "Sală de așteptare caldă disponibilă.",
+                "en": "Warm waiting room available."
+              }
+            },
+            {
+              "name": "Faneromeni Monastery",
+              "tip_5lang": {
+                "de": "Der Busplan ist im Winter reduziert.",
+                "hu": "A buszmenetrend télen ritkább.",
+                "ro": "Programul autobuzelor este redus iarna.",
+                "en": "Bus schedule is reduced in winter."
+              }
+            },
+            {
+              "name": "Lunch near the port",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Winterfähren.",
+                "hu": "Élvezze a kilátást a téli kompokra.",
+                "ro": "Bucurați-vă de vederea spre feriboturile de iarnă.",
+                "en": "Enjoy the view of the winter ferries."
+              }
+            },
+            {
+              "name": "Archaeological Museum of Salamina",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg von der Haltestelle.",
+                "hu": "Rövid séta a megállótól.",
+                "ro": "O scurtă plimbare de la stație.",
+                "en": "A short walk from the stop."
+              }
+            },
+            {
+              "name": "Museum of Folk Art",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan für die Rückfahrt im Voraus.",
+                "hu": "Ellenőrizze előre a menetrendet a visszautashoz.",
+                "ro": "Verificați programul pentru întoarcere în avans.",
+                "en": "Check the return schedule in advance."
+              }
+            },
+            {
+              "name": "Church of Agios Dimitrios",
+              "tip_5lang": {
+                "de": "Die Abendbusse sind gut geheizt.",
+                "hu": "Az esti buszok jól fűtöttek.",
+                "ro": "Autobuzele de seară sunt bine încălzite.",
+                "en": "Evening buses are well-heated."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrplan beachten, Fahrten sind seltener.",
+              "Tragen Sie warme Kleidung für das Warten an Haltestellen.",
+              "Die Busse fahren zuverlässig, auch bei Kälte.",
+              "Kombinieren Sie Busfahrten mit kurzen Fußwegen."
+            ],
+            "hu": [
+              "Ügyeljen a téli menetrendre, a járatok ritkábbak.",
+              "Viseljen meleg ruhát a megállókban való várakozáshoz.",
+              "A buszok megbízhatóan közlekednek hidegben is.",
+              "Kombinálja a buszozást rövid sétákkal."
+            ],
+            "ro": [
+              "Atenție la programul de iarnă, cursele sunt mai rare.",
+              "Purtați haine groase pentru așteptarea în stații.",
+              "Autobuzele circulă cu încredere chiar și pe frig.",
+              "Combinați călătoria cu autobuzul cu scurte plimbări pe jos."
+            ],
+            "en": [
+              "Observe the winter schedule, trips are less frequent.",
+              "Wear warm clothes for waiting at bus stops.",
+              "Buses run reliably even in the cold.",
+              "Combine bus rides with short walks."
+            ]
+          }
+        }
       }
     }
   }

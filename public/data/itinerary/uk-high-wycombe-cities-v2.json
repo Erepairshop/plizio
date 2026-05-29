@@ -333,6 +333,178 @@
           "Check the museum's opening times in advance.",
           "The Rye park is large; allow plenty of time to explore it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie unter den schützenden Bögen der Guildhall. Die All Saints Church bietet einen trockenen Rückzugsort voller Geschichte, während der Regen draußen prasselt. Mittags locken die gemütlichen Cafés im Zentrum. Das Wycombe Museum ist das perfekte Ziel für den Nachmittag, um die lokale Stuhlindustrie im Trockenen zu erkunden, bevor ein kurzer Spaziergang am The Rye den Tag abschließt.",
+            "hu": "Kezdje a napot a Guildhall árkádjai alatt, védve az esőtől. Az All Saints templom békés és száraz menedéket nyújt a délelőtti záporok idején. Délben fedett helyen ebédelhet a központban, majd a Wycombe Museum belső kiállításai következnek. Végül a The Rye parkban egy gyors, frissítő séta zárja a napot a kikövezett utakon, ha alábbhagy az égi áldás.",
+            "ro": "Începeți sub arcadele protectoare de la Guildhall pentru a evita ploaia. Biserica All Saints oferă un refugiu uscat și plin de istorie. La prânz, alegeți restaurantele cu interior primitor din centru. Muzeul Wycombe este destinația ideală pentru după-amiază, permițându-vă să explorați expozițiile la adăpost, înainte de o scurtă plimbare revigorantă prin The Rye.",
+            "en": "Start under the protective arches of the Guildhall to dodge the showers. All Saints Church provides a peaceful, dry sanctuary during the morning rain. Enjoy an indoor lunch in the town centre before heading to the Wycombe Museum for a long afternoon exploring local history. End with a brisk walk at The Rye, sticking to the paved paths to avoid the mud."
+          },
+          "stops": [
+            {
+              "name": "The Guildhall",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden als Unterstand bei plötzlichen Schauern.",
+                "hu": "Használja az árkádokat menedékként hirtelen zápor esetén.",
+                "ro": "Folosiți arcadele ca adăpost în cazul averselor bruște.",
+                "en": "Use the arches as a sheltered spot during sudden downpours."
+              }
+            },
+            {
+              "name": "All Saints Church",
+              "tip_5lang": {
+                "de": "Ideal, um die Architektur im Trockenen zu bewundern.",
+                "hu": "Tökéletes hely az építészet megcsodálására szárazon.",
+                "ro": "Locul ideal pentru a admira arhitectura la adăpost.",
+                "en": "Perfect place to admire the architecture while staying dry."
+              }
+            },
+            {
+              "name": "Wycombe Museum",
+              "tip_5lang": {
+                "de": "Große Innenausstellung, perfekt für Regentage.",
+                "hu": "Nagy belső kiállítás, ideális esős időre.",
+                "ro": "Expoziție interioară vastă, ideală pentru zilele ploioase.",
+                "en": "Large indoor exhibits, perfect for a rainy afternoon."
+              }
+            },
+            {
+              "name": "Lunch in the Centre",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
+                "hu": "Válasszon olyan éttermet, ahol van hely a vizes kabátoknak.",
+                "ro": "Alegeți un restaurant cu spațiu pentru haine ude.",
+                "en": "Choose a restaurant with space for wet coats."
+              }
+            },
+            {
+              "name": "The Rye",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon a kikövezett utakon a sár elkerülése érdekében.",
+                "ro": "Rămâneți pe aleile pavate pentru a evita noroiul.",
+                "en": "Stick to the paved paths to avoid the muddy grass."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Wege am The Rye rutschig sein können.",
+              "Die Guildhall bietet guten Windschutz im historischen Zentrum.",
+              "Im Einkaufszentrum Eden finden Sie viele überdachte Passagen.",
+              "Regenschirme sind im Wycombe Museum an der Garderobe erlaubt.",
+              "Nutzen Sie die Busse, falls der Regen am Nachmittag zu stark wird."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a The Rye útjai csúszósak lehetnek.",
+              "A Guildhall jó szélvédelmet nyújt a történelmi központban.",
+              "Az Eden bevásárlóközpontban számos fedett passzázst talál.",
+              "Az esernyőket a Wycombe Museum ruhatárában leteheti.",
+              "Használja a helyi buszokat, ha délutánra felerősödne az eső."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, aleile din The Rye pot fi alunecoase.",
+              "Guildhall oferă o bună protecție împotriva vântului în centrul istoric.",
+              "Centrul comercial Eden oferă multe pasaje acoperite.",
+              "Umbrelele pot fi lăsate la garderoba Muzeului Wycombe.",
+              "Folosiți autobuzele locale dacă ploaia devine prea puternică după-amiaza."
+            ],
+            "en": [
+              "Wear waterproof shoes as the paths at The Rye can be slippery.",
+              "The Guildhall provides good wind protection in the historic centre.",
+              "The Eden Shopping Centre offers plenty of covered walkways.",
+              "Umbrellas can be stored at the Wycombe Museum cloakroom.",
+              "Check local bus routes if the rain gets too heavy in the afternoon."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche High Wycombe mit einem heißen Kaffee an der Guildhall. Die All Saints Church strahlt in der Kälte eine besondere Ruhe aus. Mittags wärmen Sie sich in einem Pub auf, bevor Sie das Wycombe Museum besuchen. Der Tag endet früh am The Rye, wo der Frost die Wiesen in eine glitzernde Landschaft verwandelt, bevor die Sonne gegen 16 Uhr untergeht.",
+            "hu": "Fedezze fel a téli High Wycombe-ot egy forró kávéval a Guildhallnál. Az All Saints templom különleges nyugalmat áraszt a hidegben. Ebédnél melegedjen fel egy helyi pubban, majd látogasson el a Wycombe Museumba. A nap korán ér véget a The Rye parkban, ahol a dér csillogó tájjá varázsolja a rétet, mielőtt délután 4 körül lemegy a nap.",
+            "ro": "Experimentați High Wycombe iarna cu o cafea fierbinte lângă Guildhall. Biserica All Saints emană o liniște deosebită în aerul rece. La prânz, încălziți-vă într-un pub local înainte de a vizita Muzeul Wycombe. Ziua se încheie devreme în The Rye, unde chiciura transformă peisajul într-unul sclipitor înainte de apusul de la ora 16:00.",
+            "en": "Experience wintry High Wycombe starting with a hot drink near the Guildhall. All Saints Church feels especially serene in the crisp morning air. Warm up during lunch in a cozy pub before exploring the wood-panelled rooms of Wycombe Museum. End your walk at The Rye as frost glitters on the grass, keeping in mind the early sunset around 4 PM."
+          },
+          "stops": [
+            {
+              "name": "The Guildhall",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen Tee zum Mitnehmen für den Spaziergang.",
+                "hu": "Vegyen egy elviteles teát a sétához a közeli kávézóban.",
+                "ro": "Luați un ceai la pachet pentru plimbarea prin centru.",
+                "en": "Grab a takeaway tea from a nearby cafe for the walk."
+              }
+            },
+            {
+              "name": "All Saints Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie das Lichtspiel der tiefstehenden Wintersonne.",
+                "hu": "Csodálja meg az alacsony téli nap fényét az ablakokon.",
+                "ro": "Admirați jocurile de lumină ale soarelui de iarnă prin vitralii.",
+                "en": "Admire the winter sun's light through the stained glass."
+              }
+            },
+            {
+              "name": "Wycombe Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre in den Innenräumen.",
+                "hu": "Élvezze a belső terek barátságos, meleg hangulatát.",
+                "ro": "Bucurați-vă de atmosfera caldă și primitoare din interior.",
+                "en": "Enjoy the cozy and warm atmosphere of the indoor galleries."
+              }
+            },
+            {
+              "name": "Lunch in the Centre",
+              "tip_5lang": {
+                "de": "Probieren Sie eine heiße Suppe zur Stärkung gegen die Kälte.",
+                "hu": "Próbáljon ki egy forró levest a hideg elleni védekezésként.",
+                "ro": "Încercați o supă fierbinte pentru a vă încălzi.",
+                "en": "Try a hot seasonal soup to fuel up against the cold."
+              }
+            },
+            {
+              "name": "The Rye",
+              "tip_5lang": {
+                "de": "Vorsicht bei Frost auf den Holzbrücken im Park.",
+                "hu": "Vigyázzon, a park fahídjai deresek és csúszósak lehetnek.",
+                "ro": "Atenție la podurile de lemn din parc, pot fi înghețate.",
+                "en": "Be careful on the wooden bridges; they can be icy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ziehen Sie sich warm an, da der Wind im Tal empfindlich kalt sein kann.",
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "In der Nähe der Kirche gibt es Cafés mit Heizstrahlern im Freien.",
+              "Das Wycombe Museum ist ein hervorragender Ort zum Aufwärmen.",
+              "Prüfen Sie die Öffnungszeiten, da diese im Winter kürzer sein können."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a völgyben a szél metsző lehet télen.",
+              "Decemberben a nap már délután 4 óra körül nyugovóra tér.",
+              "A templom közelében fűtött teraszos kávézókat is találhat.",
+              "A Wycombe Museum kiváló hely a napközbeni felmelegedésre.",
+              "Ellenőrizze a nyitvatartást, mert télen korábban zárhatnak a helyek."
+            ],
+            "ro": [
+              "Îmbrăcați-vă gros, vântul din vale poate fi tăios în timpul iernii.",
+              "Soarele apune în jurul orei 16:00 în timpul lunii decembrie.",
+              "Găsiți cafenele cu încălzitoare exterioare lângă biserică.",
+              "Muzeul Wycombe este un loc excelent pentru a vă reîncălzi.",
+              "Verificați orarul, unele locații se închid mai devreme iarna."
+            ],
+            "en": [
+              "Dress in warm layers as the valley wind can be biting in winter.",
+              "Keep in mind that the sun sets as early as 4 PM in December.",
+              "Look for cafes with outdoor heaters near the church square.",
+              "The Wycombe Museum is a great place to warm up mid-afternoon.",
+              "Check opening times as some venues close earlier in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -660,6 +832,178 @@
           "Bring a good lock for your bike, especially for the stop at Hughenden.",
           "Pack water and snacks for the longer cycling segments."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am The Rye, wo die Wege bei Regen eine eigene Dynamik haben. Die Fahrt nach Hughenden Manor führt durch die grüne Landschaft der Chilterns, die im Regen besonders intensiv duftet. Nach einem Besuch des Herrenhauses und einem Mittagessen im Trockenen kehren Sie in die Stadt zurück. Die All Saints Church und die Guildhall bieten am Nachmittag ideale Pausenstationen mit Wetterschutz.",
+            "hu": "Kezdje a The Rye-nál, ahol az utak esőben sajátos dinamikát kapnak. A Hughenden Manor felé vezető út a Chilterns dombjai közt esőben különösen friss illatú. A kastélylátogatás és egy száraz helyen elköltött ebéd után térjen vissza a városba. Az All Saints templom és a Guildhall délután ideális pihenőhelyek, amelyek védelmet nyújtanak az időjárás viszontagságai ellen.",
+            "ro": "Începeți la The Rye, unde traseele capătă o dinamică aparte pe ploaie. Drumul spre Hughenden Manor traversează dealurile Chilterns, care miros proaspăt sub stropii de ploaie. După vizitarea conacului și un prânz la adăpost, reveniți în oraș. Biserica All Saints și Guildhall sunt puncte de oprire ideale după-amiaza, oferind protecție împotriva intemperiilor.",
+            "en": "Start at The Rye, where the paths take on a different feel in the rain. The cycle to Hughenden Manor through the Chilterns offers fresh, earthy scents. After touring the manor and enjoying lunch indoors, pedal back to town. All Saints Church and the Guildhall serve as excellent afternoon stops to dry off and explore historic interiors."
+          },
+          "stops": [
+            {
+              "name": "The Rye",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen auf den Uferwegen.",
+                "hu": "Vigyázzon a tóparti utakon kialakuló tócsákra.",
+                "ro": "Atenție la bălțile de pe potecile de lângă apă.",
+                "en": "Watch out for large puddles on the riverside paths."
+              }
+            },
+            {
+              "name": "Hughenden Manor",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich nahe dem Eingang im Trockenen.",
+                "hu": "A kerékpártárolók a bejárat közelében, fedett helyen vannak.",
+                "ro": "Rafturile pentru biciclete sunt aproape de intrare, la adăpost.",
+                "en": "Bike racks are located near the entrance in a sheltered spot."
+              }
+            },
+            {
+              "name": "Lunch near Hughenden",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschfeste Böden beim Betreten mit nassen Schuhen.",
+                "hu": "Vigyázzon a csúszós padlóra vizes cipővel való belépéskor.",
+                "ro": "Atenție la podelele alunecoase când intrați cu încălțăminte udă.",
+                "en": "Be careful on slippery floors when entering with wet shoes."
+              }
+            },
+            {
+              "name": "All Saints Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorraum, um Regenkleidung kurz auszuschütteln.",
+                "hu": "Használja az előteret az esőruha rövid megrázásához.",
+                "ro": "Folosiți vestibulul pentru a scutura hainele de ploaie.",
+                "en": "Use the porch area to shake off excess rain from your gear."
+              }
+            },
+            {
+              "name": "The Guildhall",
+              "tip_5lang": {
+                "de": "Die Arkaden bieten Platz zum Sichern der Räder im Trockenen.",
+                "hu": "Az árkádok alatt szárazon láncolhatja le a bicikliket.",
+                "ro": "Arcadele oferă spațiu pentru a securiza bicicletele la uscat.",
+                "en": "The arches provide a dry space to lock up your bikes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Regen in den Chilterns unverzichtbar.",
+              "Vermeiden Sie starkes Bremsen auf nassem Laub in Hughenden.",
+              "Tragen Sie auffällige Regenbekleidung für bessere Sichtbarkeit.",
+              "Die Hughenden Road kann bei Starkregen viel Spritzwasser führen.",
+              "Ein wasserdichter Sattelüberzug hält Ihren Sitz trocken."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen az esős Chilterns-i utakon.",
+              "Kerülje az erős fékezést a vizes leveleken Hughenden környékén.",
+              "Viseljen feltűnő esőruházatot a jobb láthatóság érdekében.",
+              "A Hughenden Road-on nagy lehet a felcsapódó víz erős esőben.",
+              "Egy vízálló nyereghuzat segít szárazon tartani az ülést."
+            ],
+            "ro": [
+              "Apărătorile sunt esențiale pe drumurile ploioase din Chilterns.",
+              "Evitați frânarea bruscă pe frunzele ude din zona Hughenden.",
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate sporită.",
+              "Hughenden Road poate avea multă apă pulverizată de mașini pe ploaie.",
+              "O husă impermeabilă pentru șa vă va menține scaunul uscat."
+            ],
+            "en": [
+              "Mudguards are essential for cycling in the rainy Chilterns.",
+              "Avoid heavy braking on wet leaves around Hughenden.",
+              "Wear high-visibility rain gear for better safety on the road.",
+              "Hughenden Road can have significant surface spray during heavy rain.",
+              "A waterproof saddle cover will keep your seat dry while parked."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour am frostigen The Rye. Die Auffahrt nach Hughenden Manor erfordert bei kalter Luft Ausdauer, belohnt aber mit klaren Ausblicken. Nach einer Aufwärmpause im Manor-Café radeln Sie zurück ins Zentrum. Die All Saints Church bietet einen stimmungsvollen Stopp, bevor Sie die Tour an der beleuchteten Guildhall beenden, während die Dämmerung früh über die Stadt hereinbricht.",
+            "hu": "Kezdje téli túráját a deres The Rye parkban. A Hughenden Manorhoz vezető emelkedő kitartást igényel a hideg levegőben, de tiszta kilátással jutalmaz. A kastély kávézójában tartott melegedő után tekerjen vissza a központba. Az All Saints templom hangulatos megálló, mielőtt a túrát a kivilágított Guildhallnál fejezné be, miközben korán leszáll az alkony a városra.",
+            "ro": "Începeți tura de iarnă în parcul înghețat The Rye. Urcarea spre Hughenden Manor necesită rezistență în aerul rece, dar oferă priveliști clare. După o pauză de încălzire la cafeneaua conacului, pedalați înapoi spre centru. Biserica All Saints este o oprire atmosferică înainte de a încheia turul la Guildhall-ul iluminat, pe măsură ce amurgul coboară devreme.",
+            "en": "Begin your winter ride at the frosty The Rye. The climb to Hughenden Manor requires extra effort in the cold air but rewards you with crisp views. After warming up at the Manor cafe, cycle back to the town centre. All Saints Church is a cozy stop before finishing your tour at the illuminated Guildhall as dusk settles early over the town."
+          },
+          "stops": [
+            {
+              "name": "The Rye",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eisplatten in schattigen Bereichen.",
+                "hu": "Ügyeljen a jeges foltokra az árnyékos részeken.",
+                "ro": "Fiți atenți la porțiunile de gheață din zonele umbrite.",
+                "en": "Watch out for patches of black ice in shaded areas."
+              }
+            },
+            {
+              "name": "Hughenden Manor",
+              "tip_5lang": {
+                "de": "Das Café bietet im Winter spezielle Heißgetränke an.",
+                "hu": "A kávézó télen különleges forró italokat kínál.",
+                "ro": "Cafeneaua oferă băuturi calde speciale pe timpul iernii.",
+                "en": "The cafe serves special hot seasonal drinks in winter."
+              }
+            },
+            {
+              "name": "Lunch near Hughenden",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz nahe der Heizung, um aufzutauen.",
+                "hu": "Keressen helyet a fűtőtest közelében a felengedéshez.",
+                "ro": "Căutați un loc lângă calorifer pentru a vă dezmorți.",
+                "en": "Find a table near the radiator to thaw out during lunch."
+              }
+            },
+            {
+              "name": "All Saints Church",
+              "tip_5lang": {
+                "de": "Kurze Pause einlegen, um die Finger wieder zu spüren.",
+                "hu": "Tartson rövid szünetet, hogy ujjai újra felmelegedjenek.",
+                "ro": "Faceți o scurtă pauză pentru a vă reîncălzi mâinile.",
+                "en": "Take a short break to get feeling back into your fingers."
+              }
+            },
+            {
+              "name": "The Guildhall",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung macht dies zu einem tollen Fotomotiv.",
+                "hu": "Az esti kivilágítás remek fotótémává teszi az épületet.",
+                "ro": "Iluminatul de seară face din aceasta o locație excelentă pentru poze.",
+                "en": "The evening lights make this a great photo spot at dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Handschuhe; die Abfahrten sind sehr kalt.",
+              "Prüfen Sie Ihre Beleuchtung; es wird ab 16 Uhr dunkel.",
+              "Die Wege am The Rye können bei Frost sehr rutschig sein.",
+              "Trinken Sie ausreichend, auch wenn Sie bei Kälte weniger Durst spüren.",
+              "Nutzen Sie eine isolierte Trinkflasche für warme Getränke."
+            ],
+            "hu": [
+              "Viseljen termokesztyűt; a lejtőkön nagyon hideg lesz a szél.",
+              "Ellenőrizze a világítást; délután 4-től már sötétedik.",
+              "A The Rye útjai fagyban nagyon csúszósak lehetnek.",
+              "Igyon eleget, még ha hidegben kevésbé érzi is a szomjúságot.",
+              "Használjon hőszigetelt kulacsot a meleg italokhoz."
+            ],
+            "ro": [
+              "Purtați mănuși termice; coborârile sunt foarte reci iarna.",
+              "Verificați luminile bicicletei; se întunecă după ora 16:00.",
+              "Potecile din The Rye pot fi foarte alunecoase în caz de îngheț.",
+              "Hidratați-vă corespunzător, chiar dacă senzația de sete e redusă.",
+              "Folosiți un bidon termoizolant pentru băuturi calde."
+            ],
+            "en": [
+              "Wear thermal gloves; the descents feel much colder in winter.",
+              "Check your bike lights; it gets dark from 4 PM onwards.",
+              "Paths at The Rye can be very slippery when frosty.",
+              "Stay hydrated even if you feel less thirsty in the cold.",
+              "Use an insulated water bottle to keep your drinks warm."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1015,6 +1359,196 @@
           "Parking in the town centre can be paid.",
           "Allow plenty of time for driving between locations, especially during peak hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag ist ideal für diese Tour mit dem Auto. Beginnen Sie im West Wycombe Park, wo Sie bei Schauern schnell zum Auto zurückkehren können. Das Dashwood Mausoleum und die Hellfire Caves sind perfekte Ziele: Die Höhlen bieten kompletten Schutz vor dem Regen. Später genießen Sie die viktorianische Pracht von Hughenden Manor im Trockenen, bevor Sie den Tag in der Stadt abschließen.",
+            "hu": "Egy esős nap ideális ehhez az autós túrához. Kezdjen a West Wycombe Parkban, ahonnan zápor esetén gyorsan visszatérhet az autóhoz. A Dashwood Mausoleum és a Hellfire Caves tökéletes célpontok: a barlangok teljes védelmet nyújtanak az eső ellen. Később élvezze Hughenden Manor viktoriánus pompáját szárazon, mielőtt a városban fejezné be a napot.",
+            "ro": "O zi ploioasă este ideală pentru acest tur cu mașina. Începeți în West Wycombe Park, unde vă puteți întoarce rapid la mașină în caz de aversă. Mausoleul Dashwood și Peșterile Hellfire sunt obiective perfecte; peșterile oferă protecție completă. Mai târziu, bucurați-vă de splendoarea victoriană de la Hughenden Manor, înainte de a încheia ziua în oraș.",
+            "en": "A rainy day is perfect for this car-based itinerary. Start at West Wycombe Park, staying close to your vehicle during showers. The Dashwood Mausoleum and Hellfire Caves are excellent rainy-day spots; the caves offer complete shelter from the elements. Later, enjoy the Victorian grandeur of Hughenden Manor indoors before finishing your day in the town centre."
+          },
+          "stops": [
+            {
+              "name": "West Wycombe Park",
+              "tip_5lang": {
+                "de": "Parken Sie strategisch günstig nahe der Hauptgebäude.",
+                "hu": "Parkoljon stratégiailag a főépületek közelében.",
+                "ro": "Parcați strategic aproape de clădirile principale.",
+                "en": "Park strategically close to the main buildings."
+              }
+            },
+            {
+              "name": "Dashwood Mausoleum",
+              "tip_5lang": {
+                "de": "Kurzer, steiler Weg; bei Regen auf Rutschgefahr achten.",
+                "hu": "Rövid, meredek út; esőben ügyeljen a csúszásveszélyre.",
+                "ro": "Drum scurt și abrupt; atenție la alunecare pe ploaie.",
+                "en": "Short, steep path; watch your footing in the rain."
+              }
+            },
+            {
+              "name": "Hellfire Caves",
+              "tip_5lang": {
+                "de": "Der beste Ort bei Starkregen; hier bleiben Sie garantiert trocken.",
+                "hu": "A legjobb hely heves esőben; itt garantáltan száraz marad.",
+                "ro": "Cel mai bun loc pe ploaie torențială; aici rămâneți uscat.",
+                "en": "The best spot during heavy rain; guaranteed to stay dry."
+              }
+            },
+            {
+              "name": "Hughenden Manor",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist befestigt, kein Einsinken im Schlamm.",
+                "hu": "A parkoló szilárd burkolatú, nem fog elsüllyedni a sárban.",
+                "ro": "Parcarea este pavată, nu vă veți scufunda în noroi.",
+                "en": "The car park is surfaced, so no sinking into mud."
+              }
+            },
+            {
+              "name": "All Saints Church",
+              "tip_5lang": {
+                "de": "Parkhäuser in der Nähe bieten trockenen Zugang zum Zentrum.",
+                "hu": "A közeli parkolóházakból fedett úton érhető el a központ.",
+                "ro": "Parcările etajate din apropiere oferă acces uscat spre centru.",
+                "en": "Nearby multi-storey car parks offer dry access to the centre."
+              }
+            },
+            {
+              "name": "The Guildhall",
+              "tip_5lang": {
+                "de": "Kurzzeitparkplätze direkt gegenüber für einen schnellen Blick.",
+                "hu": "Rövid távú parkolók közvetlenül szemben a gyors megtekintéshez.",
+                "ro": "Parcare pe termen scurt chiar vizavi pentru o vizită rapidă.",
+                "en": "Short-stay parking directly opposite for a quick look."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die A40 kann bei Regen viel Verkehr und Pfützen haben.",
+              "Hellfire Caves sind eine ideale Flucht vor dem Wetter.",
+              "Nutzen Sie das Parkhaus 'Eden' für trockenen Zugang zum Einkaufen.",
+              "In Hughenden Manor gibt es einen Schirmständer am Eingang.",
+              "Fahren Sie vorsichtig auf den schmalen Straßen von West Wycombe."
+            ],
+            "hu": [
+              "Az A40-es úton nagy lehet a forgalom és a vízfelverődés esőben.",
+              "A Hellfire Caves ideális menekülési útvonal az időjárás elől.",
+              "Használja az 'Eden' parkolóházat a száraz bejutáshoz a központba.",
+              "Hughenden Manor bejáratánál találni esernyőtartót.",
+              "Vezessen óvatosan West Wycombe szűkebb utcáin."
+            ],
+            "ro": [
+              "Drumul A40 poate fi aglomerat și cu bălți pe timp de ploaie.",
+              "Hellfire Caves este refugiul ideal împotriva vremii nefavorabile.",
+              "Folosiți parcarea 'Eden' pentru acces uscat în zona centrală.",
+              "La Hughenden Manor există suporturi pentru umbrele la intrare.",
+              "Conduceți cu atenție pe străzile înguste din West Wycombe."
+            ],
+            "en": [
+              "The A40 can have heavy traffic and surface spray during rain.",
+              "Hellfire Caves are an ideal escape from bad weather.",
+              "Use the 'Eden' multi-storey car park for dry access to town.",
+              "Hughenden Manor provides umbrella stands at the main entrance.",
+              "Drive carefully on the narrower streets of West Wycombe."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine komfortable Wintertour durch die Buckinghamshire-Landschaft. Starten Sie im West Wycombe Park, wo der Frost die Statuen ziert. Die Hellfire Caves bieten mit konstanten Temperaturen einen warmen Zufluchtsort vor dem Winterwind. Hughenden Manor ist festlich dekoriert, ideal für einen Nachmittagsbesuch. Beenden Sie die Fahrt im stimmungsvoll beleuchteten High Wycombe, bevor es dunkel wird.",
+            "hu": "Élvezze a kényelmes téli túrát a Buckinghamshire-i tájon. Kezdjen a West Wycombe Parkban, ahol a dér díszíti a szobrokat. A Hellfire Caves állandó hőmérsékletével meleg menedéket nyújt a téli szél elől. Hughenden Manor ünnepi díszben várja a látogatókat, ideális délutáni program. Fejezze be az utat a hangulatosan kivilágított High Wycombe-ban, még sötétedés előtt.",
+            "ro": "Bucurați-vă de un tur confortabil de iarnă prin peisajul din Buckinghamshire. Începeți în West Wycombe Park, unde chiciura decorează statuile. Peșterile Hellfire oferă un refugiu cald față de vântul de iarnă. Hughenden Manor este decorat festiv, ideal pentru o vizită de după-amiază. Încheiați drumul în High Wycombe, iluminat feeric, înainte de lăsarea întunericului.",
+            "en": "Enjoy a comfortable winter tour through the Buckinghamshire countryside. Start at West Wycombe Park, where frost highlights the statues. The Hellfire Caves offer a warm retreat from the winter wind with their constant underground temperature. Hughenden Manor is often festively decorated, perfect for a mid-afternoon visit. Finish in the glow of High Wycombe's streetlights as night falls early."
+          },
+          "stops": [
+            {
+              "name": "West Wycombe Park",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den Weg vom Parkplatz nötig.",
+                "hu": "Meleg ruházat szükséges a parkolótól vezető útra.",
+                "ro": "Haine groase necesare pentru drumul de la parcare.",
+                "en": "Warm clothing is needed for the walk from the car park."
+              }
+            },
+            {
+              "name": "Dashwood Mausoleum",
+              "tip_5lang": {
+                "de": "Sehr windanfällig; Mütze und Schal sind hier ein Muss.",
+                "hu": "Nagyon szeles hely; sapka és sál kötelező itt.",
+                "ro": "Zonă foarte expusă vântului; căciula și fularul sunt obligatorii.",
+                "en": "Very exposed to wind; a hat and scarf are essential here."
+              }
+            },
+            {
+              "name": "Hellfire Caves",
+              "tip_5lang": {
+                "de": "Mit ca. 10°C oft wärmer als die Außenluft im Winter.",
+                "hu": "Kb. 10 fokos hőmérsékletével gyakran melegebb a kinti levegőnél.",
+                "ro": "La cca. 10°C, este adesea mai cald decât afară iarna.",
+                "en": "At around 10°C, it is often warmer than the outside air."
+              }
+            },
+            {
+              "name": "Hughenden Manor",
+              "tip_5lang": {
+                "de": "Im Winter oft besondere viktorianische Weihnachtsdeko.",
+                "hu": "Télen gyakran különleges viktoriánus karácsonyi díszítés látható.",
+                "ro": "Iarna există adesea decorațiuni de Crăciun victoriene.",
+                "en": "Check for special Victorian Christmas decorations in winter."
+              }
+            },
+            {
+              "name": "All Saints Church",
+              "tip_5lang": {
+                "de": "Die Heizung in der Kirche macht den Stopp sehr angenehm.",
+                "hu": "A templom fűtése nagyon kellemessé teszi a látogatást.",
+                "ro": "Încălzirea din biserică face vizita foarte plăcută.",
+                "en": "The church heating makes this a very comfortable stop."
+              }
+            },
+            {
+              "name": "The Guildhall",
+              "tip_5lang": {
+                "de": "Der nahegelegene Weihnachtsmarkt (saisonal) lohnt einen Besuch.",
+                "hu": "A közeli karácsonyi vásár (szezonális) megér egy látogatást.",
+                "ro": "Piața de Crăciun din apropiere merită o vizită (sezonier).",
+                "en": "The nearby Christmas market (seasonal) is worth a visit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glatteis auf den steilen Wegen in West Wycombe.",
+              "Die Hellfire Caves sind ein toller Ort, um sich aufzuwärmen.",
+              "Im Winter sind die Parkplätze oft weniger überfüllt.",
+              "Nutzen Sie die Sitzheizung für die Fahrt zwischen den Stationen.",
+              "Planen Sie Hughenden Manor vor 15:00 Uhr ein (Lichtverhältnisse)."
+            ],
+            "hu": [
+              "Ügyeljen a jegesedésre West Wycombe meredekebb útjain.",
+              "A Hellfire Caves remek hely a felmelegedésre.",
+              "Télen a parkolók általában kevésbé zsúfoltak.",
+              "Használja az ülésfűtést a megállók közötti utakon.",
+              "Hughenden Manort tervezze 15:00 előttre a fényviszonyok miatt."
+            ],
+            "ro": [
+              "Atenție la polei pe drumurile în pantă din West Wycombe.",
+              "Hellfire Caves este un loc excelent pentru a vă încălzi.",
+              "Parcările sunt de obicei mai puțin aglomerate iarna.",
+              "Folosiți încălzirea în scaune pentru drumul dintre obiective.",
+              "Planificați vizita la Hughenden Manor înainte de ora 15:00."
+            ],
+            "en": [
+              "Watch out for icy patches on steep West Wycombe roads.",
+              "Hellfire Caves are a surprisingly good place to warm up.",
+              "Car parks are generally less crowded during winter months.",
+              "Make use of your car's heater between these outdoor stops.",
+              "Aim to visit Hughenden Manor before 3 PM for the best light."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1346,6 +1880,178 @@
           "Download a local bus app to track real-time arrivals.",
           "Be aware that services to Hughenden might be less frequent."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Busverbindungen, um an einem Regentag trocken durch High Wycombe zu kommen. Starten Sie an der Guildhall und fahren Sie zum Wycombe Museum, wo Sie den Vormittag verbringen können. Der Bus bringt Sie direkt zum Hughenden Manor, dessen Räume viel Schutz bieten. Den Tag beschließen Sie am The Rye oder in einer gemütlichen Bar am Fluss, gut erreichbar mit dem Nahverkehr.",
+            "hu": "Használja a buszjáratokat, hogy esős napon is szárazon járhassa be High Wycombe-ot. Kezdjen a Guildhallnál, majd utazzon a Wycombe Museumhoz, ahol kényelmesen eltöltheti a délelőttöt. A busz közvetlenül Hughenden Manorhoz viszi, amelynek belső terei védelmet nyújtanak. A napot a The Rye-nál vagy egy folyóparti bárban zárhatja, melyek könnyen elérhetők tömegközlekedéssel.",
+            "ro": "Folosiți liniile de autobuz pentru a rămâne uscat în High Wycombe pe timp de ploaie. Începeți la Guildhall și mergeți la Muzeul Wycombe pentru a vă petrece dimineața. Autobuzul vă duce direct la Hughenden Manor, oferind adăpost generos. Încheiați ziua la The Rye sau într-un bar de lângă râu, ușor accesibile cu transportul public.",
+            "en": "Utilize local bus routes to navigate High Wycombe while staying dry on a rainy day. Start at the Guildhall and take a bus to the Wycombe Museum for a morning of indoor exploration. A direct bus will take you to Hughenden Manor, where you can escape the showers. Finish your day near The Rye or at a riverside pub, all easily reachable by transit."
+          },
+          "stops": [
+            {
+              "name": "The Guildhall",
+              "tip_5lang": {
+                "de": "Bushaltestellen befinden sich direkt in der Nähe der Arkaden.",
+                "hu": "A buszmegállók közvetlenül az árkádok közelében találhatók.",
+                "ro": "Stațiile de autobuz sunt situate chiar lângă arcade.",
+                "en": "Bus stops are located very close to the sheltered arches."
+              }
+            },
+            {
+              "name": "Wycombe Museum",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle; Regenschirm bereit halten.",
+                "hu": "Rövid séta a buszmegállótól; tartsa készenlétben az esernyőt.",
+                "ro": "Drum scurt de la stație; aveți umbrela la îndemână.",
+                "en": "Short walk from the bus stop; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Hughenden Manor",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt am Eingangsbereich des Parks.",
+                "hu": "A busz közvetlenül a park bejáratánál áll meg.",
+                "ro": "Autobuzul oprește chiar la intrarea în parc.",
+                "en": "The bus stops right at the entrance to the park area."
+              }
+            },
+            {
+              "name": "The Rye",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Haltestelle London Road für trockenen Zugang.",
+                "hu": "Használja a London Road megállót a szárazabb megközelítéshez.",
+                "ro": "Folosiți stația London Road pentru acces mai ușor pe ploaie.",
+                "en": "Use the London Road bus stop for easier access on rainy days."
+              }
+            },
+            {
+              "name": "Final Drink by the River",
+              "tip_5lang": {
+                "de": "Viele Pubs liegen in Gehweite zum Busbahnhof.",
+                "hu": "Számos pub sétatávolságra található a buszpályaudvartól.",
+                "ro": "Multe pub-uri sunt la mică distanță de autogară.",
+                "en": "Many pubs are within walking distance of the bus station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die Bus-App für Echtzeit-Infos bei Regen herunter.",
+              "Die Busbahnhöfe bieten guten Schutz vor Wind und Nässe.",
+              "Holen Sie sich eine Tageskarte, um flexibel auf Schauer zu reagieren.",
+              "In Bussen ist es im Herbst/Winter angenehm beheizt.",
+              "Achten Sie auf Pfützen beim Ein- und Aussteigen."
+            ],
+            "hu": [
+              "Töltse le a buszos alkalmazást a valós idejű infókért esőben.",
+              "A buszpályaudvarok jó védelmet nyújtanak a szél és az eső ellen.",
+              "Váltson napijegyet, hogy rugalmasan alkalmazkodhasson a záporokhoz.",
+              "A buszokon ősszel és télen kellemes fűtés van.",
+              "Ügyeljen a tócsákra a buszról való le- és felszálláskor."
+            ],
+            "ro": [
+              "Descărcați aplicația de autobuz pentru info în timp real pe ploaie.",
+              "Stațiile principale oferă protecție bună contra vântului și ploii.",
+              "Luați un bilet de o zi pentru flexibilitate maximă între averse.",
+              "Autobuzele sunt bine încălzite în perioadele reci.",
+              "Atenție la bălțile de la bordură când urcați sau coborâți."
+            ],
+            "en": [
+              "Download the local bus app for real-time updates during rain.",
+              "Major bus interchanges offer good protection from the elements.",
+              "Get a day ticket for flexibility to jump on a bus during showers.",
+              "Buses are comfortably heated during the colder months.",
+              "Watch out for deep puddles when stepping on or off the bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie High Wycombe bequem mit dem Bus während der kalten Wintertage. Beginnen Sie an der Guildhall, bevor Sie zum Wycombe Museum fahren, um sich in den Ausstellungen aufzuwärmen. Eine kurze Busfahrt bringt Sie zum winterlichen Hughenden Manor. Beenden Sie den Tag mit einem Spaziergang am The Rye in der klaren Luft, gefolgt von einem heißen Getränk in einem gemütlichen Pub am Fluss.",
+            "hu": "Fedezze fel High Wycombe-ot kényelmesen busszal a hideg téli napokon. Kezdjen a Guildhallnál, majd utazzon a Wycombe Museumhoz, hogy felmelegedjen a kiállítások között. Egy rövid buszút után érkezzen meg a téli Hughenden Manorhoz. A napot a The Rye parkban zárja a friss, hideg levegőn, majd fogyasszon el egy forró italt egy barátságos folyóparti pubban.",
+            "ro": "Explorați High Wycombe confortabil cu autobuzul în zilele reci de iarnă. Începeți la Guildhall înainte de a merge la Muzeul Wycombe pentru a vă încălzi. O scurtă călătorie cu autobuzul vă duce la Hughenden Manor. Încheiați ziua cu o plimbare în aerul curat din The Rye, urmată de o băutură fierbinte într-un pub primitor de lângă râu.",
+            "en": "Explore High Wycombe comfortably by bus during the cold winter days. Start at the Guildhall before taking a bus to the Wycombe Museum to warm up among the exhibits. A short bus ride takes you to Hughenden Manor in its winter setting. Finish the day with a crisp walk at The Rye followed by a steaming hot drink in a cozy riverside pub."
+          },
+          "stops": [
+            {
+              "name": "The Guildhall",
+              "tip_5lang": {
+                "de": "Warten Sie in den Arkaden, bis der Bus kommt.",
+                "hu": "Várjon az árkádok alatt, amíg megérkezik a busz.",
+                "ro": "Așteptați sub arcade până când sosește autobuzul.",
+                "en": "Wait under the sheltered arches until your bus arrives."
+              }
+            },
+            {
+              "name": "Wycombe Museum",
+              "tip_5lang": {
+                "de": "Ein toller Ort, um die Kälte für eine Weile zu vergessen.",
+                "hu": "Remek hely, ahol egy időre elfelejtheti a kinti hideget.",
+                "ro": "Un loc excelent pentru a uita de frigul de afară.",
+                "en": "A great place to escape the biting cold for a while."
+              }
+            },
+            {
+              "name": "Hughenden Manor",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Rückfahrplan; Busse fahren im Winter seltener.",
+                "hu": "Ellenőrizze a visszautat; a buszok télen ritkábban járhatnak.",
+                "ro": "Verificați programul de retur; autobuzele pot fi mai rare iarna.",
+                "en": "Check the return schedule; buses may run less often in winter."
+              }
+            },
+            {
+              "name": "The Rye",
+              "tip_5lang": {
+                "de": "Die Abenddämmerung am See ist im Winter besonders schön.",
+                "hu": "A tavi alkonyat télen különösen szép látvány.",
+                "ro": "Amurgul deasupra lacului este deosebit de frumos iarna.",
+                "en": "The twilight over the lake is particularly beautiful in winter."
+              }
+            },
+            {
+              "name": "Final Drink by the River",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Pub mit einem echten Kaminfeuer.",
+                "hu": "Keressen egy valódi kandallótűzzel rendelkező pubot.",
+                "ro": "Căutați un pub care are un șemineu cu foc real.",
+                "en": "Look for a pub with a real roaring log fire."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft die wärmste Art der Fortbewegung.",
+              "Holen Sie sich einen Kaffee für die Wartezeit am Busbahnhof.",
+              "Die Sonne geht früh unter, planen Sie Hughenden Manor zuerst.",
+              "Nutzen Sie kontaktloses Bezahlen, um Kälte an den Händen zu vermeiden.",
+              "Achten Sie auf vereiste Stufen beim Einsteigen in den Bus."
+            ],
+            "hu": [
+              "A busz télen gyakran a legmelegebb közlekedési mód.",
+              "Vegyél egy kávét a buszpályaudvaron való várakozáshoz.",
+              "A nap korán nyugszik, tervezd Hughenden Manort a nap elejére.",
+              "Használj érintésmentes fizetést, hogy ne kelljen lehúzni a kesztyűt.",
+              "Ügyeljen a jeges lépcsőkre a buszra való felszálláskor."
+            ],
+            "ro": [
+              "Autobuzul este adesea cel mai călduros mod de transport iarna.",
+              "Luați o cafea pentru timpul de așteptare la autogară.",
+              "Soarele apune devreme, planificați Hughenden Manor prima dată.",
+              "Folosiți plata contactless pentru a evita scoaterea mănușilor.",
+              "Atenție la treptele înghețate când urcați în autobuz."
+            ],
+            "en": [
+              "Buses are often the warmest way to get around in winter.",
+              "Grab a hot coffee to keep warm while waiting at the station.",
+              "The sun sets early, so aim for Hughenden Manor before 3 PM.",
+              "Use contactless payment to avoid taking off your gloves.",
+              "Be careful of icy steps when boarding the bus."
+            ]
+          }
+        }
       }
     }
   }

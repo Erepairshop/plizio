@@ -379,6 +379,206 @@
           "Always keep some cash for smaller shops and restrooms.",
           "Look out for the many free walking tours that start in the Main Market Square."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am verregneten Hauptmarkt, wo die Tuchhallen sofortigen Schutz bieten. Mittags erkunden wir die prächtigen Innenräume der Marienkirche und des Collegium Maius, weit weg vom nassen Kopfsteinpflaster.\n\nAm Nachmittag führt der Weg zum Wawel-Hügel, wo die Kathedrale und das Schloss trockene Kulturräume bieten. Den Abend lassen wir in den gemütlichen, kerzenbeleuchteten Kellern von Kazimierz ausklingen, während draußen der Regen gegen die Scheiben peitscht.",
+            "hu": "A nap az esős Főtéren indul, ahol a Posztócsarnok árkádjai nyújtanak azonnali menedéket. Délben a Mária-templom és a Collegium Maius belső tereit fedezzük fel, távol a vizes macskakövektől.\n\nDélután a Wawel-domb felé vesszük az irányt, ahol a székesegyház és a kastély védett terei várnak. Az estét Kazimierz gyertyafényes, hangulatos pincéiben zárjuk, miközve odakint az eső kopog az ablakokon.",
+            "ro": "Ziua începe în Piața Mare sub ploaie, unde Halele de Postav oferă adăpost imediat. La prânz, explorăm interioarele magnifice ale Bazilicii Sf. Maria și Collegium Maius, departe de pavajul ud.\n\nDupă-amiaza ne îndreptăm spre dealul Wawel, unde catedrala și castelul oferă spații culturale uscate. Seara se încheie în cafenelele intime și luminate de lumânări din Kazimierz, în timp ce ploaia bate în geam.",
+            "en": "The day begins at a rainy Market Square, where the Cloth Hall provides immediate shelter. At midday, we explore the magnificent interiors of St. Mary's Basilica and Collegium Maius, staying dry inside.\n\nIn the afternoon, we head to Wawel Hill, where the cathedral and castle offer protected cultural spaces. The evening concludes in the cozy, candlelit cellars of Kazimierz while the rain beats against the windows outside."
+          },
+          "stops": [
+            {
+              "name": "Main Market Square (Rynek Główny)",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Arkaden der Tuchhallen als trockenen Aussichtspunkt.",
+                "hu": "Használja a Posztócsarnok árkádjait száraz kilátópontként.",
+                "ro": "Folosiți arcadele Halelor de Postav ca punct de observație uscat.",
+                "en": "Use the Cloth Hall arcades as a dry vantage point."
+              }
+            },
+            {
+              "name": "Cloth Hall (Sukiennice)",
+              "tip_4lang": {
+                "de": "Idealer Ort für Souvenir-Shopping bei anhaltendem Regen.",
+                "hu": "Ideális hely ajándékvásárláshoz tartós eső esetén is.",
+                "ro": "Loc ideal pentru cumpărături de suveniruri în timpul ploii.",
+                "en": "Ideal place for souvenir shopping during persistent rain."
+              }
+            },
+            {
+              "name": "St. Mary's Basilica",
+              "tip_4lang": {
+                "de": "Bewundern Sie den Altar im Trockenen; der Einlass ist gut überdacht.",
+                "hu": "Csodálja meg az oltárt szárazon; a bejárat jól védett.",
+                "ro": "Admirați altarul la adăpost; intrarea este bine protejată.",
+                "en": "Admire the altar in the dry; the entrance is well sheltered."
+              }
+            },
+            {
+              "name": "Collegium Maius",
+              "tip_4lang": {
+                "de": "Der Arkadenhof bietet Schutz, während Sie auf die Astronomische Uhr warten.",
+                "hu": "Az árkádos udvar védelmet nyújt, amíg a csillagászati órára vár.",
+                "ro": "Curtea cu arcade oferă protecție în timp ce așteptați ceasul astronomic.",
+                "en": "The arcaded courtyard provides cover while waiting for the clock."
+              }
+            },
+            {
+              "name": "Wawel Cathedral",
+              "tip_4lang": {
+                "de": "Innenbesichtigung ist perfekt, um einen schweren Schauer abzuwarten.",
+                "hu": "A belső látogatás tökéletes egy nagyobb zápor átvészelésére.",
+                "ro": "Vizita interioară este perfectă pentru a aștepta trecerea unei averse.",
+                "en": "Interior visit is perfect for waiting out a heavy shower."
+              }
+            },
+            {
+              "name": "Wawel Royal Castle",
+              "tip_4lang": {
+                "de": "Die Ausstellungen bieten stundenlangen Schutz vor schlechtem Wetter.",
+                "hu": "A kiállítások órákig tartó védelmet nyújtanak a rossz idő ellen.",
+                "ro": "Expozițiile oferă ore întregi de protecție împotriva vremii rele.",
+                "en": "Exhibitions offer hours of protection against bad weather."
+              }
+            },
+            {
+              "name": "Kazimierz (Jewish Quarter)",
+              "tip_4lang": {
+                "de": "Suchen Sie Zuflucht in den zahlreichen urigen Kellerkneipen.",
+                "hu": "Keressen menedéket a számos patinás pincés sörözőben.",
+                "ro": "Căutați refugiu în numeroasele pub-uri intime de la subsol.",
+                "en": "Seek refuge in the many atmospheric cellar pubs."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Krakaus Altstadt hat viele Passagen und Kellerbars für Regenschutz.",
+              "Die Tuchhallen (Sukiennice) sind das Herzstück für trockenes Sightseeing.",
+              "Tragen Sie wasserfeste Schuhe für das oft rutschige Kopfsteinpflaster.",
+              "Museen wie das unterirdische Rynek-Museum sind perfekte Regen-Alternativen."
+            ],
+            "hu": [
+              "Krakkó óvárosa rengeteg átjárót és pincebárt kínál az eső elől.",
+              "A Posztócsarnok (Sukiennice) a száraz városnézés központja.",
+              "Viseljen vízálló cipőt a gyakran csúszós macskakövek miatt.",
+              "A föld alatti Rynek múzeum kiváló alternatíva nagy eső esetén."
+            ],
+            "ro": [
+              "Orașul vechi din Cracovia are multe pasaje și baruri la subsol.",
+              "Halele de Postav (Sukiennice) sunt inima vizitării pe timp de ploaie.",
+              "Purtați încălțăminte impermeabilă pentru pavajul adesea alunecos.",
+              "Muzeele precum cel subteran din Piața Mare sunt alternative perfecte."
+            ],
+            "en": [
+              "Krakow's Old Town has many passages and cellar bars for rain cover.",
+              "The Cloth Hall (Sukiennice) is the centerpiece for dry sightseeing.",
+              "Wear waterproof shoes for the often slippery cobblestones.",
+              "Underground museums like Rynek Underground are perfect rain alternatives."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Rynek, wo der Duft von gerösteten Nüssen und Glühwein (Grzaniec) in der Luft liegt. In den Tuchhallen wärmen wir uns kurz auf, bevor wir die prachtvolle Marienkirche besuchen.\n\nMittags erkunden wir das geschichtsträchtige Collegium Maius. Am Nachmittag stapfen wir durch den Schnee zum Wawel, dessen Türme im Winterlicht besonders majestätisch wirken. Der Tag endet früh bei Sonnenuntergang in den warmen Restaurants von Kazimierz.",
+            "hu": "Dérlepte reggel a Főtéren, ahol pirított mogyoró és forralt bor (Grzaniec) illata száll a levegőben. A Posztócsarnokban melegszünk fel, mielőtt a Mária-templom pompáját megcsodálnánk.\n\nDélben a történelmi Collegium Maiust járjuk be. Délután a hóban gázolva jutunk fel a Wawelre, melynek tornyai fenségesek a téli fényben. A nap korán, naplementekor ér véget Kazimierz meleg éttermeiben.",
+            "ro": "O dimineață geroasă în Piața Mare, unde mirosul de nuci prăjite și vin fiert (Grzaniec) plutește în aer. Ne încălzim în Halele de Postav înainte de a vizita Bazilica Sf. Maria.\n\nLa prânz explorăm istoricul Collegium Maius. După-amiaza urcăm prin zăpadă la Wawel, ale cărui turnuri par maiestuoase în lumina iernii. Ziua se încheie devreme, la apus, în restaurantele calde din Kazimierz.",
+            "en": "A frosty morning at the Main Square, where the smell of roasted nuts and mulled wine (Grzaniec) fills the air. We warm up in the Cloth Hall before visiting St. Mary's.\n\nAt midday, we explore the historic Collegium Maius. In the afternoon, we walk through the snow to Wawel, its towers looking majestic in the winter light. The day ends early at sunset in the warm restaurants of Kazimierz."
+          },
+          "stops": [
+            {
+              "name": "Main Market Square (Rynek Główny)",
+              "tip_4lang": {
+                "de": "Probieren Sie den heißen Oscypek vom Grill an den Marktständen.",
+                "hu": "Kóstolja meg a grillen sütött forró Oscypek sajtot a standoknál.",
+                "ro": "Gustați brânza Oscypek fierbinte de pe grătar la standurile din piață.",
+                "en": "Try the hot grilled Oscypek cheese from the market stalls."
+              }
+            },
+            {
+              "name": "Cloth Hall (Sukiennice)",
+              "tip_4lang": {
+                "de": "Ein warmer Zufluchtsort, um nach lokalem Kunsthandwerk zu suchen.",
+                "hu": "Meleg menedék, ahol helyi kézműves termékeket kereshetünk.",
+                "ro": "Un refugiu călduros pentru a căuta obiecte de artizanat local.",
+                "en": "A warm sanctuary to browse for local handicrafts."
+              }
+            },
+            {
+              "name": "St. Mary's Basilica",
+              "tip_4lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen; ideal zum Aufwärmen.",
+                "hu": "A vastag falak kint tartják a hideget; ideális felmelegedni.",
+                "ro": "Zidurile groase țin frigul afară; ideal pentru a vă încălzi.",
+                "en": "The thick walls keep the cold out; ideal for warming up."
+              }
+            },
+            {
+              "name": "Collegium Maius",
+              "tip_4lang": {
+                "de": "Besuchen Sie das Museum, um der klirrenden Kälte zu entkommen.",
+                "hu": "Látogassa meg a múzeumot, hogy elmeneküljön a metsző hideg elől.",
+                "ro": "Vizitați muzeul pentru a scăpa de frigul pătrunzător.",
+                "en": "Visit the museum to escape the biting cold outside."
+              }
+            },
+            {
+              "name": "Wawel Cathedral",
+              "tip_4lang": {
+                "de": "Vorsicht beim Aufstieg; der Wawelhügel kann bei Frost glatt sein.",
+                "hu": "Vigyázat a felmenetnél; a Wawel-domb fagyban csúszós lehet.",
+                "ro": "Atenție la urcare; dealul Wawel poate fi alunecos pe îngheț.",
+                "en": "Careful on the climb; Wawel Hill can be slippery in frost."
+              }
+            },
+            {
+              "name": "Wawel Royal Castle",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf die vereiste Weichsel vom Schlosshof.",
+                "hu": "Élvezze a kilátást a jeges Visztulára a kastély udvaráról.",
+                "ro": "Bucurați-vă de vederea spre Vistula înghețată din curtea castelului.",
+                "en": "Enjoy the view of the frozen Vistula from the castle courtyard."
+              }
+            },
+            {
+              "name": "Kazimierz (Jewish Quarter)",
+              "tip_4lang": {
+                "de": "Bestellen Sie einen heißen Tee oder Glühwein in einer Bar am Plac Nowy.",
+                "hu": "Rendeljen egy forró teát vagy forralt bort a Plac Nowy egyik bárjában.",
+                "ro": "Comandați un ceai fierbinte sau vin fiert într-un bar din Plac Nowy.",
+                "en": "Order a hot tea or mulled wine in a bar at Plac Nowy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung ist Pflicht, besonders wegen des Windes von der Weichsel.",
+              "Die Sonne geht im Winter bereits gegen 16:00 Uhr unter.",
+              "Der Weihnachtsmarkt auf dem Rynek ist ein Highlight bis Ende Dezember.",
+              "Viele Cafés bieten 'Grzaniec' (Glühwein) als lokale Spezialität an."
+            ],
+            "hu": [
+              "A meleg ruha kötelező, különösen a Visztula felől fújó szél miatt.",
+              "Télen a nap már délután 4 óra körül nyugszik.",
+              "A Főtér karácsonyi vására december végéig kiemelt látványosság.",
+              "Sok kávézó kínál 'Grzaniec'-et (forralt bort) helyi specialitásként."
+            ],
+            "ro": [
+              "Îmbrăcămintea groasă este obligatorie din cauza vântului de pe Vistula.",
+              "Soarele apune iarna în jurul orei 16:00.",
+              "Târgul de Crăciun din Piața Mare este o atracție până la sfârșitul lunii.",
+              "Multe cafenele oferă 'Grzaniec' (vin fiert) ca specialitate locală."
+            ],
+            "en": [
+              "Warm clothing is mandatory, especially due to the wind from the Vistula.",
+              "The sun sets as early as 4:00 PM during the winter months.",
+              "The Christmas market on the Main Square is a highlight until late December.",
+              "Many cafes offer 'Grzaniec' (mulled wine) as a local specialty."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +929,188 @@
           "Be cautious in the Old Town as streets are often crowded with pedestrians.",
           "Many hotels and hostels offer bike rentals."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir am Rynek, wo die nassen Steine glänzen. Der Barbakan bietet einen kurzen Unterstand, bevor wir durch den grünen Planty-Gürtel fahren, dessen Bäume etwas Schutz bieten.\n\nMittags geht es zum Wawel, wo wir das Fahrrad parken und ins Schloss flüchten. Den Nachmittag verbringen wir in den Gassen von Kazimierz, und wer mutig ist, radelt im Regen zum Kościuszko-Hügel für eine dramatische Aussicht.",
+            "hu": "Az eső ellenére a Főtéren kezdünk, ahol csillognak a vizes kövek. A Barbakán rövid menedéket nyújt, mielőtt a Planty zöld gyűrűjén tekernénk át, ahol a fák némi védelmet adnak.\n\nDélben a Wawelhez megyünk, ahol leparkolunk és a kastélyba menekülünk. A délutánt Kazimierz utcáin töltjük, a bátrak pedig kitekernek a Kościuszko-dombhoz a drámai kilátásért.",
+            "ro": "În ciuda ploii, începem în Piața Mare unde pietrele ude strălucesc. Barbacana oferă un scurt adăpost înainte de a pedala prin centura Planty, unde copacii oferă puțină protecție.\n\nLa prânz mergem la Wawel, parcăm bicicleta și ne refugiem în castel. După-amiaza o petrecem în Kazimierz, iar cei curajoși pedalează spre movila Kościuszko pentru o vedere dramatică.",
+            "en": "Despite the rain, we start at the Square where wet stones glisten. The Barbican offers brief cover before cycling through the Planty belt, where trees provide some protection.\n\nAt midday, we head to Wawel, park the bike, and escape into the castle. The afternoon is spent in Kazimierz, and the brave can cycle to Kościuszko Mound for a dramatic, rainy view."
+          },
+          "stops": [
+            {
+              "name": "Main Market Square (Rynek Główny)",
+              "tip_4lang": {
+                "de": "Vorsicht beim Anfahren auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon az elinduláskor a vizes macskaköveken.",
+                "ro": "Atenție la plecarea de pe loc pe pavajul ud.",
+                "en": "Be careful when starting off on wet cobblestones."
+              }
+            },
+            {
+              "name": "Barbican",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Torbau für eine kurze Trinkpause im Trockenen.",
+                "hu": "Használja a kapuépítményt egy rövid száraz frissítő szünetre.",
+                "ro": "Folosiți poarta pentru o scurtă pauză de hidratare la uscat.",
+                "en": "Use the gate structure for a short drink break in the dry."
+              }
+            },
+            {
+              "name": "Planty Park",
+              "tip_4lang": {
+                "de": "Die dichten Baumkronen halten leichten Nieselregen ab.",
+                "hu": "A sűrű lombok felfogják az enyhe szemerkélő esőt.",
+                "ro": "Coroanele dese ale copacilor opresc ploaia ușoară.",
+                "en": "Dense tree canopies block light drizzling rain."
+              }
+            },
+            {
+              "name": "Wawel Royal Castle",
+              "tip_4lang": {
+                "de": "Fahrradständer sind vorhanden; ideal für eine lange Regenpause.",
+                "hu": "Kerékpártárolók elérhetők; ideális egy hosszú esőszünetre.",
+                "ro": "Sunt disponibile rastele pentru biciclete; ideal pentru o pauză lungă.",
+                "en": "Bike racks are available; ideal for a long rain break."
+              }
+            },
+            {
+              "name": "Kazimierz (Jewish Quarter)",
+              "tip_4lang": {
+                "de": "Fahren Sie vorsichtig in den engen, oft pfützenreichen Gassen.",
+                "hu": "Tekerjen óvatosan a szűk, gyakran tócsás utcákban.",
+                "ro": "Pedalați cu atenție pe străzile înguste și pline de bălți.",
+                "en": "Ride carefully in the narrow, often puddled streets."
+              }
+            },
+            {
+              "name": "Kościuszko Mound",
+              "tip_4lang": {
+                "de": "Der Weg nach oben kann bei Regen rutschig und windig sein.",
+                "hu": "A felfelé vezető út esőben csúszós és szeles lehet.",
+                "ro": "Drumul spre vârf poate fi alunecos și vântos pe ploaie.",
+                "en": "The path to the top can be slippery and windy in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine gute Regenjacke und nutzen Sie Radwege mit Asphalt.",
+              "Vermeiden Sie glitschige Straßenbahnschienen bei Nässe.",
+              "Leihräder von Wavelo (falls aktiv) sollten trocken gewischt werden.",
+              "Planen Sie mehr Zeit für Bremsmanöver auf nassem Untergrund ein."
+            ],
+            "hu": [
+              "Viseljen jó esőkabátot és használja az aszfaltozott kerékpárutakat.",
+              "Kerülje a csúszós villamossíneket nedves időben.",
+              "A bérautókat/bicikliket érdemes szárazra törölni indulás előtt.",
+              "Számoljon hosszabb féktávval a nedves útfelületen."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie bună și folosiți pistele asfaltate.",
+              "Evitați șinele de tramvai alunecoase pe timp de umezeală.",
+              "Bicicletele de închiriat ar trebui șterse înainte de utilizare.",
+              "Planificați mai mult timp pentru frânare pe suprafețe ude."
+            ],
+            "en": [
+              "Wear a good raincoat and stick to asphalt bike paths.",
+              "Avoid slippery tram tracks when the ground is wet.",
+              "Wipe down rental bikes before starting your ride.",
+              "Allow for longer braking distances on wet surfaces."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Winterfahrt durch das historische Krakau. Wir starten am Rynek und fahren durch den Barbakan, während die Stadt oft in leichtem Dunst liegt. Im Planty glitzert der Reif auf den Wegen.\n\nMittags machen wir am Wawel eine längere Aufwärmpause. Die Fahrt nach Kazimierz ist kurz und knackig, bevor wir zum Kościuszko-Hügel aufbrechen. Von dort oben bietet sich bei klarer Winterluft ein fantastischer Fernblick auf die Stadt.",
+            "hu": "Frissítő téli tekerés a történelmi Krakkón át. A Főtéren kezdünk, majd a Barbakánon át haladunk, miközben a várost gyakran köd üli meg. A Planty útjain csillog a zúzmara.\n\nDélben a Wawelnél tartunk hosszabb melegedő szünetet. A tekerés Kazimierzbe rövid és intenzív, mielőtt a Kościuszko-domb felé vennénk az irányt. Onnan a tiszta téli levegőben fantasztikus kilátás nyílik a városra.",
+            "ro": "O plimbare de iarnă revigorantă prin Cracovia istorică. Începem în Piața Mare și trecem prin Barbacană, în timp ce orașul e adesea în ceață. În Planty, chiciura strălucește pe drumuri.\n\nLa prânz facem o pauză lungă de încălzire la Wawel. Drumul spre Kazimierz e scurt și intens înainte de a pleca spre movila Kościuszko. De sus, aerul curat de iarnă oferă o vedere panoramică superbă.",
+            "en": "A refreshing winter ride through historic Krakow. We start at the Square and pass through the Barbican, with the city often shrouded in mist. In the Planty, frost glistens on the paths.\n\nAt midday, we take a long warming break at Wawel. The ride to Kazimierz is short and crisp before heading to Kościuszko Mound. From the top, the clear winter air offers a fantastic panoramic view."
+          },
+          "stops": [
+            {
+              "name": "Main Market Square (Rynek Główny)",
+              "tip_4lang": {
+                "de": "Handschuhe sind bei Fahrtwind im Winter unverzichtbar.",
+                "hu": "A kesztyű elengedhetetlen a téli menetszélben.",
+                "ro": "Mănușile sunt indispensabile împotriva vântului iarna.",
+                "en": "Gloves are essential against the wind chill in winter."
+              }
+            },
+            {
+              "name": "Barbican",
+              "tip_4lang": {
+                "de": "Der Wind pfeift hier oft durch; halten Sie sich nicht zu lange auf.",
+                "hu": "Itt gyakran átfütyül a szél; ne időzzön túl sokat.",
+                "ro": "Vântul suflă adesea pe aici; nu zăboviți prea mult.",
+                "en": "The wind often whistles through here; don't linger too long."
+              }
+            },
+            {
+              "name": "Planty Park",
+              "tip_4lang": {
+                "de": "Achten Sie auf vereiste Stellen unter dem Raureif.",
+                "hu": "Ügyeljen a zúzmara alatti jeges foltokra.",
+                "ro": "Atenție la porțiunile înghețate de sub chiciură.",
+                "en": "Watch out for icy patches under the frost."
+              }
+            },
+            {
+              "name": "Wawel Royal Castle",
+              "tip_4lang": {
+                "de": "Parken Sie Ihr Rad und nutzen Sie die Burg für ein warmes Mittagessen.",
+                "hu": "Parkolja le a gépet és használja a várat egy meleg ebédre.",
+                "ro": "Parcați bicicleta și folosiți castelul pentru un prânz cald.",
+                "en": "Park your bike and use the castle for a warm lunch break."
+              }
+            },
+            {
+              "name": "Kazimierz (Jewish Quarter)",
+              "tip_4lang": {
+                "de": "Die dunklen Gassen sind im Winterlicht sehr fotogen.",
+                "hu": "A sötét utcák nagyon fotogének a téli fényben.",
+                "ro": "Străzile întunecate sunt foarte fotogenice în lumina iernii.",
+                "en": "The dark streets are very photogenic in the winter light."
+              }
+            },
+            {
+              "name": "Kościuszko Mound",
+              "tip_4lang": {
+                "de": "Warmer Tee oben im Café ist die beste Belohnung nach dem Aufstieg.",
+                "hu": "A fenti kávézóban egy forró tea a legjobb jutalom a mászás után.",
+                "ro": "Un ceai cald la cafeneaua de sus e cea mai bună recompensă.",
+                "en": "A warm tea at the cafe on top is the best reward after the climb."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung hilft gegen den kalten Fahrtwind.",
+              "Achten Sie auf Streusalz, das die Kette Ihres Fahrrads angreifen kann.",
+              "Die Tage sind kurz; sorgen Sie für funktionierende Beleuchtung.",
+              "Kopfsteinpflaster kann bei Frost extrem glatt sein."
+            ],
+            "hu": [
+              "A réteges öltözködés segít a hideg menetszél ellen.",
+              "Ügyeljen a szórósóra, amely károsíthatja a kerékpárláncot.",
+              "A nappalok rövidek; gondoskodjon a megfelelő világításról.",
+              "A macskakő fagyban rendkívül csúszós lehet."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi ajută împotriva vântului rece.",
+              "Atenție la sarea de pe drum, care poate afecta lanțul bicicletei.",
+              "Zilele sunt scurte; asigurați-vă că aveți lumini funcționale.",
+              "Pavajul poate fi extrem de alunecos pe timp de îngheț."
+            ],
+            "en": [
+              "Layering your clothes helps against the cold wind chill.",
+              "Watch out for road salt, which can damage your bike chain.",
+              "Days are short; make sure your lights are working properly.",
+              "Cobblestones can be extremely slippery when frosted over."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1109,6 +1491,206 @@
           "Pay attention to the 'Strefa' (zone) signs for parking restrictions.",
           "Traffic can be heavy during peak hours, so allow extra time for drives."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem im Auto trotzen wir dem Krakauer Regen. Wir starten am Kościuszko-Hügel, wo man fast bis zum Gipfel fahren kann. Danach parken wir am Wawel und verbringen den Mittag trocken in den königlichen Gemächern.\n\nNachmittags geht es zum Hauptmarkt, wobei wir die Parkhäuser der Altstadt nutzen. Der Tag endet mit einer kurzen Fahrt nach Kazimierz, wo wir direkt vor einem der gemütlichen Restaurants parken können, um nicht nass zu werden.",
+            "hu": "Kényelmesen, autóval dacolunk a krakkói esővel. A Kościuszko-dombnál kezdünk, ahol szinte a csúcsig hajthatunk. Ezután a Wawelnél parkolunk, és a delet szárazon, a királyi lakosztályokban töltjük.\n\nDélután a Főtérre megyünk, az óváros parkolóházait használva. A nap egy rövid autózással zárul Kazimierzbe, ahol közvetlenül egy hangulatos étterem előtt parkolhatunk, hogy ne ázzunk el.",
+            "ro": "Confortabil în mașină, sfidăm ploaia din Cracovia. Începem la movila Kościuszko, unde se poate conduce aproape până în vârf. Apoi parcăm la Wawel și petrecem prânzul la uscat în apartamentele regale.\n\nDupă-amiaza mergem în Piața Mare, folosind parcările din orașul vechi. Ziua se încheie cu o scurtă cursă spre Kazimierz, unde putem parca chiar în fața unui restaurant primitor.",
+            "en": "Comfortably in the car, we defy the Krakow rain. We start at Kościuszko Mound, where you can drive almost to the top. Then we park at Wawel and spend midday dry in the royal apartments.\n\nIn the afternoon, we head to the Main Square, utilizing the Old Town parking garages. The day ends with a short drive to Kazimierz, where we can park right in front of a cozy restaurant to stay dry."
+          },
+          "stops": [
+            {
+              "name": "Kościuszko Mound",
+              "tip_4lang": {
+                "de": "Parkplätze direkt am Fuß des Hügels minimieren den Weg im Regen.",
+                "hu": "A domb lábánál lévő parkoló minimalizálja az esőben megtett utat.",
+                "ro": "Parcarea direct la baza dealului minimizează mersul prin ploaie.",
+                "en": "Parking right at the foot of the mound minimizes walking in rain."
+              }
+            },
+            {
+              "name": "Parking near Wawel",
+              "tip_4lang": {
+                "de": "Das unterirdische Parkhaus am Plac na Groblach ist komplett trocken.",
+                "hu": "A Plac na Groblach alatti mélygarázs teljesen száraz.",
+                "ro": "Parcarea subterană din Piața na Groblach este complet uscată.",
+                "en": "The underground parking at Plac na Groblach is completely dry."
+              }
+            },
+            {
+              "name": "Wawel Cathedral & Castle",
+              "tip_4lang": {
+                "de": "Vom Parkplatz sind es nur wenige Gehminuten bis zum Eingang.",
+                "hu": "A parkolótól csak pár perc séta a bejárat.",
+                "ro": "Sunt doar câteva minute de mers de la parcare până la intrare.",
+                "en": "It's just a few minutes' walk from the parking to the entrance."
+              }
+            },
+            {
+              "name": "Main Market Square (Rynek Główny)",
+              "tip_4lang": {
+                "de": "Nutzen Sie Parkhäuser wie am Nationalmuseum für trockenen Zugang.",
+                "hu": "Használja a Nemzeti Múzeumnál lévő parkolóházat a száraz kijutáshoz.",
+                "ro": "Folosiți parcările etajate pentru un acces uscat spre centru.",
+                "en": "Use parking garages like the one at the National Museum."
+              }
+            },
+            {
+              "name": "Parking in Kazimierz",
+              "tip_4lang": {
+                "de": "Parkplätze am Plac Wolnica sind oft näher an den Cafés.",
+                "hu": "A Plac Wolnicánál lévő parkolók gyakran közelebb vannak a kávézókhoz.",
+                "ro": "Parcările de la Plac Wolnica sunt adesea mai aproape de cafenele.",
+                "en": "Parking at Plac Wolnica is often closer to the cafes."
+              }
+            },
+            {
+              "name": "Kazimierz (Jewish Quarter)",
+              "tip_4lang": {
+                "de": "Vermeiden Sie tiefe Pfützen in den unebenen Seitenstraßen.",
+                "hu": "Kerülje a mély tócsákat az egyenetlen mellékutcákban.",
+                "ro": "Evitați bălțile adânci pe străzile lăturalnice denivelate.",
+                "en": "Avoid deep puddles in the uneven side streets."
+              }
+            },
+            {
+              "name": "Dinner in Kazimierz",
+              "tip_4lang": {
+                "de": "Suchen Sie ein Restaurant mit direktem Parkzugang oder Valet.",
+                "hu": "Keressen közvetlen parkolással rendelkező éttermet.",
+                "ro": "Căutați un restaurant cu parcare directă sau în apropiere.",
+                "en": "Look for a restaurant with nearby parking to stay dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Krakaus Innenstadt ist teilweise für PKW gesperrt; nutzen Sie Parkhäuser.",
+              "Bei Starkregen kann es in Unterführungen zu Stau kommen.",
+              "Das Rynek Underground Museum hat einen trockenen Zugang vom Platz.",
+              "Prüfen Sie Park-Apps, um unnötiges Suchen im Regen zu vermeiden."
+            ],
+            "hu": [
+              "Krakkó belvárosa részben le van zárva az autók elől; használjon parkolóházakat.",
+              "Heves esőzéskor az aluljárókban torlódás alakulhat ki.",
+              "A Rynek Underground múzeumnak száraz bejárata van a tér felől.",
+              "Használjon parkolási appokat, hogy elkerülje az esőben való keresgélést."
+            ],
+            "ro": [
+              "Centrul Cracoviei e parțial închis mașinilor; folosiți parcări etajate.",
+              "În caz de ploaie torențială, pot apărea ambuteiaje în pasaje.",
+              "Muzeul Subteran are acces protejat direct din piață.",
+              "Verificați aplicațiile de parcare pentru a evita căutarea prin ploaie."
+            ],
+            "en": [
+              "Krakow's city center is partially restricted; use designated garages.",
+              "Heavy rain can cause traffic congestion in underpasses.",
+              "The Rynek Underground Museum offers dry access from the square.",
+              "Use parking apps to avoid searching for spots in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterzauber per Auto: Wir starten am Kościuszko-Hügel, der oft schneebedeckt über der stadt thront. Danach geht es zum beheizten Parkhaus am Wawel, von wo aus wir die frostige Pracht der Burg besichtigen.\n\nMittags genießen wir den Blick auf den winterlichen Rynek. Nachmittags fahren wir ins jüdische Viertel Kazimierz, wo die beleuchteten Fenster in der frühen Dämmerung besonders einladend wirken. Der Abend endet bei einem warmen Abendessen in Kazimierz.",
+            "hu": "Téli varázs autóval: A Kościuszko-dombnál kezdünk, mely gyakran hóval borítva trónol a város felett. Ezután a Wawel fűtött parkolóházába megyünk, ahonnan a vár fagyos pompáját csodálhatjuk meg.\n\nDélben a téli Főtér látványában gyönyörködünk. Délután a zsidó negyedbe, Kazimierzbe hajtunk, ahol a kivilágított ablakok hívogatóak a korai szürkületben. Az este egy meleg vacsorával zárul.",
+            "ro": "Magia iernii cu mașina: Începem la movila Kościuszko, care tronează adesea înzăpezită deasupra orașului. Apoi mergem la parcarea încălzită de la Wawel pentru a vizita castelul înghețat.\n\nLa prânz ne bucurăm de vederea Pieței Mari iarna. După-amiaza conducem spre Kazimierz, unde ferestrele luminate par primitoare în amurgul timpuriu. Seara se încheie cu o cină caldă.",
+            "en": "Winter magic by car: We start at Kościuszko Mound, often snow-capped above the city. Then we head to the heated Wawel garage, from where we visit the frosty castle.\n\nAt midday, we enjoy the view of the wintry Main Square. In the afternoon, we drive to Kazimierz, where the lit windows look inviting in the early dusk. The evening ends with a warm dinner in the Jewish Quarter."
+          },
+          "stops": [
+            {
+              "name": "Kościuszko Mound",
+              "tip_4lang": {
+                "de": "Die Zufahrt kann bei Neuschnee steil und glatt sein.",
+                "hu": "A felvezető út friss hó esetén meredek és csúszós lehet.",
+                "ro": "Accesul poate fi abrupt și alunecos în caz de ninsoare.",
+                "en": "The access road can be steep and slippery with fresh snow."
+              }
+            },
+            {
+              "name": "Parking near Wawel",
+              "tip_4lang": {
+                "de": "Parkhäuser sind ideal, um das Auto eisfrei zu halten.",
+                "hu": "A parkolóházak ideálisak az autó jégmentesen tartásához.",
+                "ro": "Parcările etajate sunt ideale pentru a păstra mașina fără gheață.",
+                "en": "Parking garages are ideal to keep your car ice-free."
+              }
+            },
+            {
+              "name": "Wawel Cathedral & Castle",
+              "tip_4lang": {
+                "de": "Nutzen Sie den kurzen Fußweg, um die Kälte zu minimieren.",
+                "hu": "Használja a rövid sétát a hidegnek való kitettség csökkentésére.",
+                "ro": "Folosiți distanța scurtă de mers pentru a minimiza expunerea la frig.",
+                "en": "Use the short walk to minimize exposure to the cold."
+              }
+            },
+            {
+              "name": "Main Market Square (Rynek Główny)",
+              "tip_4lang": {
+                "de": "Parken Sie zentral, um schnell zu den warmen Cafés zu gelangen.",
+                "hu": "Parkoljon központilag, hogy gyorsan elérje a meleg kávézókat.",
+                "ro": "Parcați central pentru a ajunge rapid la cafenelele calde.",
+                "en": "Park centrally to reach warm cafes quickly."
+              }
+            },
+            {
+              "name": "Parking in Kazimierz",
+              "tip_4lang": {
+                "de": "Achten Sie auf Schneehaufen am Straßenrand beim Einparken.",
+                "hu": "Ügyeljen az útmenti hóhalmokra parkoláskor.",
+                "ro": "Atenție la mormanele de zăpadă de la marginea drumului.",
+                "en": "Watch out for snow piles at the curb when parking."
+              }
+            },
+            {
+              "name": "Kazimierz (Jewish Quarter)",
+              "tip_4lang": {
+                "de": "Die Beleuchtung in Kazimierz ist im Winter ab 16 Uhr wunderschön.",
+                "hu": "Kazimierz kivilágítása télen délután 4-től gyönyörű.",
+                "ro": "Iluminatul din Kazimierz este superb iarna după ora 16.",
+                "en": "The lighting in Kazimierz is beautiful after 4 PM in winter."
+              }
+            },
+            {
+              "name": "Dinner in Kazimierz",
+              "tip_4lang": {
+                "de": "Reservieren Sie einen Tisch in der Nähe eines Kamins.",
+                "hu": "Foglaljon asztalt egy kandalló közelében.",
+                "ro": "Rezervați o masă lângă un șemineu, dacă este posibil.",
+                "en": "Reserve a table near a fireplace if possible."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Auto wintertauglich (Reifen, Frostschutz) ist.",
+              "Die Parkplatzsuche in Kazimierz kann bei Schnee schwieriger sein.",
+              "Nutzen Sie die Sitzheizung für die kurzen Fahrten zwischen den POIs.",
+              "Parkhäuser sind in Krakau im Winter oft die stressfreiere Wahl."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy autója téliesítve van (gumik, fagyálló).",
+              "A parkolóhelykeresés Kazimierzben nehezebb lehet hóban.",
+              "Használja az ülésfűtést a POI-k közötti rövid utakon.",
+              "A parkolóházak Krakkóban télen gyakran feszültségmentesebb választások."
+            ],
+            "ro": [
+              "Asigurați-vă că mașina este pregătită de iarnă (anvelope, antigel).",
+              "Căutarea unui loc de parcare în Kazimierz poate fi grea pe zăpadă.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte între obiective.",
+              "Parcările etajate sunt adesea alegerea cea mai lipsită de stres iarna."
+            ],
+            "en": [
+              "Ensure your car is winter-ready (tires, antifreeze).",
+              "Searching for parking in Kazimierz can be harder in the snow.",
+              "Use seat heaters for the short drives between POIs.",
+              "Parking garages are often the stress-free choice in Krakow in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1465,6 +2047,188 @@
           "The 'Jakdojade' app is essential for planning your routes.",
           "Most lines run frequently, but check schedules for night services."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Krakaus effizienten Straßenbahnen bleiben wir im Regen mobil. Wir starten am Rynek, wo die Haltestellen oft überdacht sind. Mittags besuchen wir die Marienkirche und fahren dann bequem zum Wawel-Hügel.\n\nNach dem Schlossbesuch bringt uns die Bahn direkt nach Kazimierz zum Plac Wolnica. So verbringen wir die meiste Zeit in trockenen Waggons oder Innenräumen, während wir das historische Flair der Stadt genießen.",
+            "hu": "Krakkó hatékony villamosaival esőben is mobilak maradunk. A Főtérnél kezdünk, ahol a megállók gyakran fedettek. Délben a Mária-templomot látogatjuk meg, majd kényelmesen a Wawelhez utazunk.\n\nA vár után a villamos közvetlenül Kazimierzbe, a Plac Wolnicához visz. Így az időnk nagy részét száraz kocsikban vagy belső terekben töltjük, miközben élvezzük a város történelmi hangulatát.",
+            "ro": "Cu tramvaiele eficiente din Cracovia, rămânem mobili pe ploaie. Începem în Piața Mare, unde stațiile sunt adesea acoperite. La prânz vizităm Bazilica Sf. Maria, apoi mergem confortabil spre dealul Wawel.\n\nDupă vizitarea castelului, tramvaiul ne duce direct în Kazimierz la Plac Wolnica. Astfel petrecem majoritatea timpului în vagoane uscate sau în interior.",
+            "en": "With Krakow's efficient trams, we stay mobile in the rain. We start at the Square, where stops are often covered. At midday, we visit St. Mary's and then travel comfortably to Wawel Hill.\n\nAfter the castle visit, the tram takes us directly to Kazimierz at Plac Wolnica. This way, we spend most of our time in dry carriages or indoors while enjoying the city's historic flair."
+          },
+          "stops": [
+            {
+              "name": "Main Market Square & Area",
+              "tip_4lang": {
+                "de": "Nutzen Sie die App 'Jakdojade' für Echtzeit-Infos bei Regen.",
+                "hu": "Használja a 'Jakdojade' appot a valós idejű infókért esőben.",
+                "ro": "Folosiți aplicația 'Jakdojade' pentru informații în timp real.",
+                "en": "Use the 'Jakdojade' app for real-time info during the rain."
+              }
+            },
+            {
+              "name": "Main Market Square & St. Mary's",
+              "tip_4lang": {
+                "de": "Die Haltestellen 'Teatr Bagatela' sind wichtige Knotenpunkte.",
+                "hu": "A 'Teatr Bagatela' megállók fontos csomópontok.",
+                "ro": "Stațiile 'Teatr Bagatela' sunt noduri importante de transport.",
+                "en": "The 'Teatr Bagatela' stops are major transit hubs nearby."
+              }
+            },
+            {
+              "name": "Wawel Hill Stop",
+              "tip_4lang": {
+                "de": "Von der Haltestelle 'Wawel' ist der Weg zum Tor kurz.",
+                "hu": "A 'Wawel' megállótól rövid az út a kapuig.",
+                "ro": "De la stația 'Wawel', drumul până la poartă este scurt.",
+                "en": "The walk from the 'Wawel' stop to the gate is short."
+              }
+            },
+            {
+              "name": "Wawel Castle & Cathedral",
+              "tip_4lang": {
+                "de": "Wärmen Sie sich in der Straßenbahn auf dem Weg hierher auf.",
+                "hu": "Melegedjen fel a villamoson útközben idefelé.",
+                "ro": "Încălziți-vă în tramvai în drum spre acest obiectiv.",
+                "en": "Warm up in the tram on your way here."
+              }
+            },
+            {
+              "name": "Kazimierz Stop (Plac Wolnica)",
+              "tip_4lang": {
+                "de": "Die Haltestelle liegt direkt im Herzen der Gastro-Szene.",
+                "hu": "A megálló közvetlenül a gasztro-szcéna szívében található.",
+                "ro": "Stația se află chiar în inima zonei cu restaurante.",
+                "en": "The stop is right in the heart of the culinary scene."
+              }
+            },
+            {
+              "name": "Kazimierz Exploration",
+              "tip_4lang": {
+                "de": "Zwischen den Sehenswürdigkeiten gibt es viele Tram-Optionen.",
+                "hu": "A látnivalók között számos villamosvonal közül választhat.",
+                "ro": "Există multe opțiuni de tramvai între punctele de interes.",
+                "en": "There are many tram options between the points of interest."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets bequem per App oder am Automaten in der Tram.",
+              "Straßenbahnen sind im Regen oft voll; planen Sie Wartezeiten ein.",
+              "Die Haltestellen in der Nähe der Altstadt sind meist überdacht.",
+              "Nutzen Sie die Linien 1, 3, 8 oder 13 für die Hauptattraktionen."
+            ],
+            "hu": [
+              "Vegyen jegyet kényelmesen appon vagy a villamos automatájából.",
+              "A villamosok esőben gyakran zsúfoltak; számoljon várakozással.",
+              "Az óváros közeli megállók többnyire fedettek.",
+              "Használja az 1, 3, 8 vagy 13-as vonalakat a főbb látnivalókhoz."
+            ],
+            "ro": [
+              "Cumpărați bilete prin aplicație sau de la automatele din tramvai.",
+              "Tramvaiele sunt adesea aglomerate pe ploaie; planificați timpul.",
+              "Stațiile din apropierea orașului vechi sunt majoritatea acoperite.",
+              "Folosiți liniile 1, 3, 8 sau 13 pentru atracțiile principale."
+            ],
+            "en": [
+              "Buy tickets conveniently via app or at the tram's vending machine.",
+              "Trams are often crowded during rain; plan for extra wait times.",
+              "Stops near the Old Town are mostly sheltered.",
+              "Use lines 1, 3, 8, or 13 for the main attractions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Gemütlich durch das winterliche Krakau mit der Tram. Wir starten am Rynek, wo die beleuchteten Straßenbahnen eine magische Stimmung verbreiten. Nach dem Besuch der Marienkirche fahren wir zum Wawel.\n\nDie kurzen Wege zwischen den Haltestellen und den Sehenswürdigkeiten minimieren die Kälteexposition. In Kazimierz angekommen, tauchen wir in das jüdische Viertel ein, bevor wir uns in einem der warmen Lokale am Plac Wolnica niederlassen. Die Tram bringt uns auch am Abend sicher zurück.",
+            "hu": "Hangulatos utazás a téli Krakkóban villamossal. A Főtérnél kezdünk, ahol a kivilágított villamosok mágikus hangulatot árasztanak. A Mária-templom után a Wawelhez utazunk.\n\nA megállók és a látnivalók közötti rövid távolságok minimalizálják a hideget. Kazimierzbe érve elmerülünk a zsidó negyedben, majd letelepedünk a Plac Wolnica egyik meleg helyén. A villamos este is biztonságban visszavisz minket.",
+            "ro": "O călătorie primitoare prin Cracovia de iarnă cu tramvaiul. Începem la Piața Mare, unde tramvaiele luminate creează o atmosferă magică. După vizita la Bazilica Sf. Maria, mergem la Wawel.\n\nDistanțele scurte între stații și obiective minimizează expunerea la frig. Ajunși în Kazimierz, explorăm cartierul evreiesc înainte de a ne așeza într-un local cald. Tramvaiul ne aduce înapoi în siguranță și seara.",
+            "en": "A cozy journey through winter Krakow by tram. We start at the Square, where the illuminated trams create a magical mood. After visiting St. Mary's, we travel to Wawel.\n\nThe short distances between stops and sights minimize cold exposure. Upon reaching Kazimierz, we dive into the Jewish Quarter before settling in one of the warm spots at Plac Wolnica. The tram brings us back safely in the evening."
+          },
+          "stops": [
+            {
+              "name": "Main Market Square & Area",
+              "tip_4lang": {
+                "de": "Die Tramhaltestellen bieten oft Windschutz durch Glaswände.",
+                "hu": "A villamosmegállók üvegfalai gyakran szélvédelmet nyújtanak.",
+                "ro": "Stațiile de tramvai oferă adesea protecție contra vântului.",
+                "en": "Tram stops often provide wind protection with glass panels."
+              }
+            },
+            {
+              "name": "Main Market Square & St. Mary's",
+              "tip_4lang": {
+                "de": "In der Tram ist es angenehm beheizt.",
+                "hu": "A villamosokon kellemes fűtés van.",
+                "ro": "În tramvai este încălzit plăcut.",
+                "en": "The trams are comfortably heated."
+              }
+            },
+            {
+              "name": "Wawel Hill Stop",
+              "tip_4lang": {
+                "de": "Achten Sie auf Glatteis am Ein- und Ausstieg.",
+                "hu": "Ügyeljen a jegesedésre a fel- és leszálláskor.",
+                "ro": "Atenție la polei la urcarea și coborârea din vehicul.",
+                "en": "Watch out for black ice when getting on or off."
+              }
+            },
+            {
+              "name": "Wawel Castle & Cathedral",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Zeit in der Tram zum Aufwärmen der Hände.",
+                "hu": "Használja a villamoson töltött időt a kezei felmelegítésére.",
+                "ro": "Folosiți timpul din tramvai pentru a vă încălzi mâinile.",
+                "en": "Use the time in the tram to warm up your hands."
+              }
+            },
+            {
+              "name": "Kazimierz Stop (Plac Wolnica)",
+              "tip_4lang": {
+                "de": "Direkt an der Haltestelle gibt es Cafés für schnellen Heißgetränk-Stopp.",
+                "hu": "Közvetlenül a megállónál vannak kávézók egy gyors forró italhoz.",
+                "ro": "Chiar lângă stație sunt cafenele pentru o băutură caldă rapidă.",
+                "en": "There are cafes right by the stop for a quick hot drink."
+              }
+            },
+            {
+              "name": "Kazimierz Exploration",
+              "tip_4lang": {
+                "de": "Die Tram-Frequenz ist auch im Winter sehr hoch.",
+                "hu": "A villamosok gyakorisága télen is nagyon magas.",
+                "ro": "Frecvența tramvaielor este foarte mare și iarna.",
+                "en": "Tram frequency remains very high even in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Moderne Straßenbahnen sind in Krakau gut beheizt.",
+              "Planen Sie Abends mehr Zeit ein, da die Taktung leicht abnehmen kann.",
+              "Nutzen Sie 24h- oder 48h-Tickets für maximale Flexibilität.",
+              "Die Haltestelle 'Wawel' ist der ideale Startpunkt für den Schlosshügel."
+            ],
+            "hu": [
+              "A modern krakkói villamosok jól fűtöttek.",
+              "Este számoljon több idővel, mert a járatsűrűség kissé csökkenhet.",
+              "Használjon 24 vagy 48 órás jegyet a maximális rugalmasságért.",
+              "A 'Wawel' megálló az ideális kezdőpont a várdombhoz."
+            ],
+            "ro": [
+              "Tramvaiele moderne din Cracovia sunt bine încălzite.",
+              "Seara, planificați mai mult timp, frecvența poate scădea ușor.",
+              "Folosiți bilete de 24h sau 48h pentru flexibilitate maximă.",
+              "Stația 'Wawel' este punctul ideal de plecare spre dealul castelului."
+            ],
+            "en": [
+              "Modern trams in Krakow are well-heated.",
+              "Plan for more time in the evening as frequency may decrease slightly.",
+              "Use 24h or 48h tickets for maximum flexibility.",
+              "The 'Wawel' stop is the ideal starting point for the castle hill."
+            ]
+          }
+        }
       }
     }
   }

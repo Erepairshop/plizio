@@ -366,6 +366,206 @@
           "Always keep a bottle of water with you, especially during the summer months.",
           "Be respectful when entering mosques; women should cover their hair."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die massiven Mauern der Burg von Kayseri perfekten Schutz vor dem Regen. Mittags laden die überdachten Gänge des Hunat-Hatun-Komplexes zum Verweilen im Trockenen ein. Am Nachmittag erkunden Sie die faszinierenden Innenräume des Gevher-Nesibe-Museums. Den Abend lassen Sie gemütlich bei warmen Mantı in einem Restaurant nahe dem historischen Gymnasium ausklingen.",
+            "hu": "Reggel a kayseri vár vastag falai nyújtanak menedéket az eső elől. Délben a Hunat Hatun komplexum fedett részei és a közeli bazár árkádjai alatt maradhatunk szárazon. Délután az orvostörténeti múzeum belső terei ideálisak a nézelődésre. Az estét zárja egy tál forró, gőzölgő manti mellett egy központi étteremben, távol a kinti szürkeségtől.",
+            "ro": "Dimineața, zidurile masive ale castelului Kayseri oferă adăpostul perfect împotriva ploii. La prânz, secțiunile acoperite ale complexului Hunat Hatun și arcadele bazarului vă mențin uscat. După-amiaza este dedicată explorării interiorului fascinant al Muzeului Gevher Nesibe. Seara se încheie confortabil cu o porție de Mantı fierbinte într-un restaurant de lângă liceul istoric.",
+            "en": "In the morning, the massive walls of Kayseri Castle provide perfect shelter from the rain. At noon, the covered passages of the Hunat Hatun complex and the nearby bazaar keep you dry. The afternoon is best spent exploring the fascinating indoor exhibits of the Gevher Nesibe Museum. End your evening cozily with warm Mantı in a restaurant near the historic high school."
+          },
+          "stops": [
+            {
+              "name": "Cumhuriyet Square",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Unterführungen, um trocken die Straßenseite zu wechseln.",
+                "hu": "Használja az aluljárókat a száraz átkeléshez a tér alatt.",
+                "ro": "Folosiți pasajele subterane pentru a traversa piața fără a vă uda.",
+                "en": "Use the underground passages to cross the square and stay dry."
+              }
+            },
+            {
+              "name": "Kayseri Castle",
+              "tip_4lang": {
+                "de": "Die dicken Mauern und Innenräume bieten hervorragenden Schutz vor Güssen.",
+                "hu": "A vastag falak és belső terek kiváló védelmet nyújtanak a záporok ellen.",
+                "ro": "Zidurile groase și spațiile interioare oferă protecție excelentă.",
+                "en": "The thick walls and indoor spaces offer excellent protection from downpours."
+              }
+            },
+            {
+              "name": "Kurşunlu Mosque",
+              "tip_4lang": {
+                "de": "Ein friedlicher, trockener Ort, um die Architektur von Sinan zu bewundern.",
+                "hu": "Békés, száraz hely Sinan építészetének megcsodálásához.",
+                "ro": "Un loc liniștit și uscat pentru a admira arhitectura lui Sinan.",
+                "en": "A peaceful, dry spot to admire Sinan's master architecture."
+              }
+            },
+            {
+              "name": "Hunat Hatun Complex",
+              "tip_4lang": {
+                "de": "Der Innenhof hat viele überdachte Bereiche zum Unterstellen.",
+                "hu": "A belső udvarnak sok fedett része van, ahol megpihenhet.",
+                "ro": "Curtea interioară are multe zone acoperite pentru adăpost.",
+                "en": "The inner courtyard has many covered areas to take a break."
+              }
+            },
+            {
+              "name": "Gevher Nesibe Museum of the History of Medicine",
+              "tip_4lang": {
+                "de": "Perfekter Zufluchtsort; planen Sie hier bei Regen mehr Zeit ein.",
+                "hu": "Tökéletes menedék; esőben töltsön itt bátran több időt.",
+                "ro": "Refugiul perfect; petreceți mai mult timp aici dacă plouă.",
+                "en": "Perfect sanctuary; feel free to spend more time here during rain."
+              }
+            },
+            {
+              "name": "Sahabiye Madrasa",
+              "tip_4lang": {
+                "de": "Genießen Sie einen türkischen Kaffee im überdachten Café im Inneren.",
+                "hu": "Élvezzen egy török kávét a belső, fedett kávézóban.",
+                "ro": "Savurați o cafea turcească în cafeneaua acoperită din interior.",
+                "en": "Enjoy a Turkish coffee in the covered cafe inside."
+              }
+            },
+            {
+              "name": "Kayseri High School Museum",
+              "tip_4lang": {
+                "de": "Komplett überdacht, ideal für den späten Nachmittag bei Regen.",
+                "hu": "Teljesen fedett, ideális késő délutáni program esős időben.",
+                "ro": "Complet acoperit, ideal pentru sfârșitul după-amiezii pe ploaie.",
+                "en": "Fully indoor, ideal for late afternoon during rainy weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, der Wind am Platz kann stark sein.",
+              "Die Basaltpflastersteine können bei Nässe rutschig sein.",
+              "Kayseri hat viele moderne Einkaufszentren als trockene Alternative.",
+              "Besuchen Sie den überdachten Großen Basar (Bedesten) für lokales Shopping."
+            ],
+            "hu": [
+              "Vigyen erős esernyőt, a főtéren a szél trükkös lehet.",
+              "A bazalt kövezés nedvesen csúszós, óvatosan lépkedjen.",
+              "Használja ki a bazár fedett folyosóit a vásárláshoz.",
+              "A múzeumok közötti távolság rövid, de vízálló cipő ajánlott."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, vântul în piață poate fi puternic.",
+              "Pavelele de basalt pot fi alunecoase când sunt ude.",
+              "Bazarul acoperit este cea mai bună opțiune pentru cumpărături pe ploaie.",
+              "Distanțele între muzee sunt scurte, dar încălțămintea impermeabilă e necesară."
+            ],
+            "en": [
+              "Take a sturdy umbrella; the wind in the main square can be tricky.",
+              "The basalt paving stones can be slippery when wet.",
+              "Make use of the covered bazaar passages for shopping.",
+              "Distances between museums are short, but waterproof shoes are recommended."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Kayseri ist oft schneereich und kalt. Starten Sie mit einem heißen Tee am Platz, bevor Sie die Burg besuchen. Mittags wärmt eine kräftige Suppe im Stadtzentrum auf. Nachmittags bieten die beheizten Museen Schutz vor dem eisigen Wind vom Erciyes. Da es früh dunkel wird, erstrahlen die beleuchteten Madrasas am späten Nachmittag in magischem Licht.",
+            "hu": "A kayseri tél hideg és gyakran havas. Kezdje a reggelt forró teával a főtéren, majd nézze meg a havas várfalakat. Délben egy tál forró manti vagy leves ad új erőt. Délután a fűtött múzeumok nyújtanak menedéket az Erciyes felől fújó jeges szél elől. A korai sötétedés miatt a kivilágított mecsetek már délután varázslatos hangulatot árasztanak.",
+            "ro": "Iarna în Kayseri este rece și adesea cu zăpadă. Începeți dimineața cu un ceai fierbinte în piață înainte de a vizita castelul. La prânz, o supă caldă sau manti vă vor încălzi. După-amiaza, muzeele încălzite oferă protecție împotriva vântului înghețat de pe Erciyes. Deoarece se întunecă devreme, moscheile iluminate creează o atmosferă magică încă de după-amiază.",
+            "en": "Winter in Kayseri is cold and often snowy. Start your morning with hot tea at the square before visiting the castle. At noon, a bowl of hot soup or manti will warm you up. In the afternoon, heated museums offer shelter from the icy Erciyes wind. Since it gets dark early, the illuminated mosques and madrasas look magical by late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Cumhuriyet Square",
+              "tip_4lang": {
+                "de": "Achten Sie auf Glatteis auf den weiten Steinflächen des Platzes.",
+                "hu": "Vigyázzon a jegesedésre a tér tágas kőfelületein.",
+                "ro": "Atenție la polei pe suprafețele largi de piatră din piață.",
+                "en": "Watch out for icy patches on the wide stone surfaces of the square."
+              }
+            },
+            {
+              "name": "Kayseri Castle",
+              "tip_4lang": {
+                "de": "Die Innenräume sind windgeschützt, ideal zum Aufwärmen.",
+                "hu": "A belső terek szélvédettek, ideálisak a felmelegedéshez.",
+                "ro": "Spațiile interioare sunt protejate de vânt, ideale pentru încălzire.",
+                "en": "The interior spaces are protected from the wind, ideal for warming up."
+              }
+            },
+            {
+              "name": "Kurşunlu Mosque",
+              "tip_4lang": {
+                "de": "Die dicken Mauern speichern die Kälte, bleiben Sie in Bewegung.",
+                "hu": "A vastag falak tartják a hideget, maradjon mozgásban.",
+                "ro": "Zidurile groase rețin frigul, rămâneți în mișcare.",
+                "en": "The thick walls retain the cold; keep moving inside."
+              }
+            },
+            {
+              "name": "Hunat Hatun Complex",
+              "tip_4lang": {
+                "de": "Besuchen Sie das angeschlossene Café für einen heißen Sahlep.",
+                "hu": "Igyon egy forró szalepet a komplexum kávézójában.",
+                "ro": "Vizitați cafeneaua complexului pentru un Sahlep fierbinte.",
+                "en": "Visit the complex's cafe for a hot Sahlep drink."
+              }
+            },
+            {
+              "name": "Gevher Nesibe Museum of the History of Medicine",
+              "tip_4lang": {
+                "de": "Gut beheizt und informativ – der beste Ort an kalten Tagen.",
+                "hu": "Jól fűtött és informatív – a legjobb hely hideg napokon.",
+                "ro": "Bine încălzit și informativ – cel mai bun loc în zilele reci.",
+                "en": "Well-heated and informative – the best place on cold days."
+              }
+            },
+            {
+              "name": "Sahabiye Madrasa",
+              "tip_4lang": {
+                "de": "Der Steinboden kann sehr kalt sein, tragen Sie warme Socken.",
+                "hu": "A kőpadló nagyon hideg lehet, viseljen meleg zoknit.",
+                "ro": "Podeaua de piatră poate fi foarte rece, purtați șosete groase.",
+                "en": "The stone floor can be very cold; wear warm socks."
+              }
+            },
+            {
+              "name": "Kayseri High School Museum",
+              "tip_4lang": {
+                "de": "Genießen Sie die historische Wärme dieses gut erhaltenen Gebäudes.",
+                "hu": "Élvezze a jól karbantartott épület történelmi melegét.",
+                "ro": "Bucurați-vă de căldura istorică a acestei clădiri bine întreținute.",
+                "en": "Enjoy the historical warmth of this well-maintained building."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Trinken Sie Sahlep, ein typisches Wintergetränk mit Zimt.",
+              "Der Wind vom Berg Erciyes kann die gefühlte Temperatur stark senken.",
+              "Die Sonne geht im Winter gegen 17:00 Uhr unter.",
+              "Tragen Sie Thermounterwäsche für längere Stadtspaziergänge."
+            ],
+            "hu": [
+              "Kóstolja meg a szalepet, a fahéjas téli italt.",
+              "Az Erciyes felől fújó szél jelentősen rontja a hőérzetet.",
+              "Télen a nap már 17:00 körül lemegy, tervezzen előre.",
+              "Réteges öltözködés és thermoruha ajánlott a sétához."
+            ],
+            "ro": [
+              "Gustați Sahlep, o băutură tipică de iarnă cu scorțișoară.",
+              "Vântul de pe muntele Erciyes poate scădea mult temperatura resimțită.",
+              "Soarele apune în jur de ora 17:00 iarna.",
+              "Purtați haine termice pentru plimbările mai lungi prin oraș."
+            ],
+            "en": [
+              "Try Sahlep, a traditional winter drink topped with cinnamon.",
+              "The wind from Mt. Erciyes can significantly lower the perceived temperature.",
+              "Sunset is around 17:00 in winter; plan accordingly.",
+              "Wear thermal layers for extended city walks."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -702,6 +902,188 @@
           "Bring a good lock to secure your bike while exploring the sights.",
           "Traffic in Kayseri can be chaotic, ride defensively."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Kayseri Vorsicht wegen der glatten Straßen. Morgens flitzen Sie zwischen den historischen Madrasas hin und her. Mittags bietet der Basar eine trockene Pause. Nachmittags nutzen Sie die breiten Boulevards, um schnell zu den Museen zu gelangen. Den Abend beschließen Sie nach einer kurzen Fahrt in einem warmen Café im Zentrum.",
+            "hu": "Az esős biciklizés óvatosságot igényel a csúszós utak miatt. Reggel gyorsan guruljon a madraszák között. Délben a bazárnál tartson pihenőt a tető alatt. Délután használja a széles sugárutakat, hogy gyorsan elérje a múzeumokat. Az estét egy rövid tekerés után zárja a belváros egyik meleg kávézójában.",
+            "ro": "Ciclismul pe ploaie necesită prudență din cauza drumurilor alunecoase. Dimineața, pedalați rapid între madresele istorice. La prânz, faceți o pauză sub acoperișul bazarului. După-amiaza, folosiți bulevardele largi pentru a ajunge rapid la muzee. Încheiați seara într-o cafenea caldă din centru după o scurtă plimbare.",
+            "en": "Cycling in the rain requires caution due to slippery roads. In the morning, zip between historical madrasas. At noon, take a dry break near the bazaar. In the afternoon, use the wide boulevards to reach museums quickly. End your evening in a warm central cafe after a short ride."
+          },
+          "stops": [
+            {
+              "name": "Cumhuriyet Square",
+              "tip_4lang": {
+                "de": "Vorsicht vor den Straßenbahnschienen, sie sind bei Regen extrem glatt.",
+                "hu": "Vigyázzon a villamossínekkel, esőben rendkívül csúszósak.",
+                "ro": "Atenție la șinele de tramvai, sunt extrem de alunecoase pe ploaie.",
+                "en": "Watch out for tram tracks; they are extremely slippery in the rain."
+              }
+            },
+            {
+              "name": "Sahabiye Madrasa",
+              "tip_4lang": {
+                "de": "Parken Sie Ihr Rad unter dem Dachvorsprung am Eingang.",
+                "hu": "Parkolja le a biciklit a bejárat melletti tető alatt.",
+                "ro": "Parcați bicicleta sub streașina de la intrare.",
+                "en": "Park your bike under the overhang at the entrance."
+              }
+            },
+            {
+              "name": "Gevher Nesibe Museum of the History of Medicine",
+              "tip_4lang": {
+                "de": "In der Nähe gibt es Fahrradständer; schließen Sie es schnell ab.",
+                "hu": "A közelben vannak biciklitárolók; zárja le gyorsan az esőben.",
+                "ro": "Există rastele pentru biciclete în apropiere; încuiați-o rapid.",
+                "en": "There are bike racks nearby; lock it up quickly in the rain."
+              }
+            },
+            {
+              "name": "Hunat Hatun Complex",
+              "tip_4lang": {
+                "de": "Suchen Sie Schutz in den Arkaden, falls der Guss zu stark wird.",
+                "hu": "Keressen menedéket az árkádok alatt, ha túl erősen esne.",
+                "ro": "Căutați adăpost sub arcade dacă ploaia devine prea puternică.",
+                "en": "Seek shelter under the arcades if the downpour becomes too heavy."
+              }
+            },
+            {
+              "name": "Kayseri Castle",
+              "tip_4lang": {
+                "de": "Die Außenmauern bieten guten Schutz vor seitlichem Wind und Regen.",
+                "hu": "A külső falak jó védelmet nyújtanak az oldalszél és eső ellen.",
+                "ro": "Zidurile exterioare oferă protecție bună împotriva vântului și ploii.",
+                "en": "The outer walls provide good protection from side wind and rain."
+              }
+            },
+            {
+              "name": "Kayseri High School Museum",
+              "tip_4lang": {
+                "de": "Stellen Sie das Rad sicher ab, bevor Sie das Museum betreten.",
+                "hu": "Hagyja a biciklit biztonságos helyen, mielőtt bemegy a múzeumba.",
+                "ro": "Lăsați bicicleta într-un loc sigur înainte de a intra în muzeu.",
+                "en": "Leave your bike in a safe spot before entering the museum."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Kayseris Asphaltstraßen im Regen ein Muss.",
+              "Vermeiden Sie das Bremsen direkt auf den Straßenbahnschienen.",
+              "Tragen Sie eine gut sichtbare Regenjacke.",
+              "Die Hauptstraßen entwässern gut, aber Nebenstraßen können Pfützen haben."
+            ],
+            "hu": [
+              "A sárvédő kötelező a kayseri aszfalton esőben.",
+              "Kerülje a fékezést közvetlenül a villamossíneken.",
+              "Viseljen jól látható esőkabátot.",
+              "A főutak jól elvezetik a vizet, de a mellékutcákban lehetnek tócsák."
+            ],
+            "ro": [
+              "Apărătorile sunt obligatorii pe asfaltul din Kayseri pe ploaie.",
+              "Evitați frânarea direct pe șinele de tramvai.",
+              "Purtați o jachetă de ploaie reflectorizantă.",
+              "Drumurile principale drenează bine, dar străzile secundare pot avea bălți."
+            ],
+            "en": [
+              "Mudguards are a must on Kayseri's asphalt roads in the rain.",
+              "Avoid braking directly on the tram tracks.",
+              "Wear a high-visibility rain jacket.",
+              "Main roads drain well, but side streets might have puddles."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Radfahren in Kayseri ist nur für Abgehärtete. Morgens ist die Luft klirrend kalt, aber klar. Mittags wärmen Sie sich in den historischen Madrasas auf. Nachmittags fordern der Wind und die Kälte Ihre Kondition auf dem Weg zu den Museen. Abends sollten Sie die Fahrt beenden, bevor die Temperaturen nach Sonnenuntergang drastisch sinken.",
+            "hu": "A téli biciklizés Kayseriben csak a legelszántabbaknak ajánlott. Reggel a levegő metszően hideg, de tiszta. Délben melegedjen fel a történelmi madraszákban. Délután a szél és a hideg próbára teszi az állóképességét a múzeumok felé. Estére fejezze be a tekerést, mielőtt a naplemente után drasztikusan lehűlne az idő.",
+            "ro": "Ciclismul de iarnă în Kayseri este doar pentru cei curajoși. Dimineața aerul este tăios de rece, dar senin. La prânz, încălziți-vă în madresele istorice. După-amiaza, vântul și frigul vă vor testa rezistența în drum spre muzee. Încheiați plimbarea înainte ca temperaturile să scadă drastic după apus.",
+            "en": "Winter cycling in Kayseri is for the brave. In the morning, the air is biting cold but clear. At noon, warm up inside the historical madrasas. In the afternoon, the wind and cold will test your stamina on the way to museums. End your ride before temperatures drop drastically after sunset."
+          },
+          "stops": [
+            {
+              "name": "Cumhuriyet Square",
+              "tip_4lang": {
+                "de": "Vorsicht vor gefrorenem Tau auf den glatten Steinen am Morgen.",
+                "hu": "Vigyázzon a reggeli deresedésre a csúszós köveken.",
+                "ro": "Atenție la chiciura de dimineață pe pietrele alunecoase.",
+                "en": "Watch out for morning frost on the slippery stones."
+              }
+            },
+            {
+              "name": "Sahabiye Madrasa",
+              "tip_4lang": {
+                "de": "Ein heißer Tee im Innenhof hilft gegen die steifen Finger.",
+                "hu": "Egy forró tea a belső udvarban segít az elgémberedett ujjakon.",
+                "ro": "Un ceai fierbinte în curtea interioară ajută degetele amorțite.",
+                "en": "A hot tea in the inner courtyard helps with numb fingers."
+              }
+            },
+            {
+              "name": "Gevher Nesibe Museum of the History of Medicine",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Besuchszeit, um Ihre Füße aufzuwärmen.",
+                "hu": "Használja ki a látogatási időt a lábai felmelegítésére.",
+                "ro": "Folosiți timpul vizitei pentru a vă încălzi picioarele.",
+                "en": "Use the visit time to warm up your feet."
+              }
+            },
+            {
+              "name": "Hunat Hatun Complex",
+              "tip_4lang": {
+                "de": "Die Sonne erreicht den Hof im Winter nur kurz, bleiben Sie warm.",
+                "hu": "A nap télen csak rövid ideig éri az udvart, öltözzön melegen.",
+                "ro": "Soarele ajunge în curte doar scurt timp iarna, rămâneți înfofolit.",
+                "en": "The sun hits the courtyard only briefly in winter; stay bundled up."
+              }
+            },
+            {
+              "name": "Kayseri Castle",
+              "tip_4lang": {
+                "de": "Auf den Zinnen kann es extrem windig und kalt sein.",
+                "hu": "A bástyákon rendkívül szeles és hideg lehet az idő.",
+                "ro": "Pe metereze poate fi extrem de vânt și rece.",
+                "en": "It can be extremely windy and cold on the battlements."
+              }
+            },
+            {
+              "name": "Kayseri High School Museum",
+              "tip_4lang": {
+                "de": "Ein toller Abschluss, bevor die frostige Nacht beginnt.",
+                "hu": "Remek zárópont, mielőtt beállna a fagyos éjszaka.",
+                "ro": "Un punct final grozav înainte de lăsarea nopții geroase.",
+                "en": "A great final stop before the frosty night sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe sind bei Erciyes-Wind unverzichtbar.",
+              "Achten Sie auf Schneematsch am Straßenrand.",
+              "Die Fahrradreifen sollten einen guten Grip für kalten Asphalt haben.",
+              "Kürzen Sie die Route ab, wenn der Wind zu stark wird."
+            ],
+            "hu": [
+              "A szélálló kesztyű elengedhetetlen az Erciyes-szélnél.",
+              "Vigyázzon a latyakra az utak szélén.",
+              "A gumiabroncsok tapadása csökken a hideg aszfalton.",
+              "Rövidítse le az utat, ha túl erős a szél."
+            ],
+            "ro": [
+              "Mănușile rezistente la vânt sunt esențiale pentru vântul de pe Erciyes.",
+              "Atenție la fleșcăraia de pe marginea drumului.",
+              "Aderența anvelopelor scade pe asfaltul rece.",
+              "Scurtați traseul dacă vântul devine prea puternic."
+            ],
+            "en": [
+              "Windproof gloves are essential against the Erciyes wind.",
+              "Watch out for slush on the road shoulders.",
+              "Tire grip is reduced on cold asphalt.",
+              "Shorten the route if the wind becomes too strong."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1062,6 +1444,206 @@
           "Google Maps works well for navigation.",
           "Talas is a popular getaway, especially on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist der Regen in Kayseri kein Problem. Morgens besuchen Sie bequem den Hunat-Hatun-Komplex. Mittags parken Sie nahe der Burg und erkunden das Zentrum. Nachmittags fahren Sie ins höher gelegene Talas, wo der Regen die alten Steinhäuser in ein besonderes Licht taucht. Den Abend genießen Sie bei einer Panoramafahrt zurück ins Stadtzentrum.",
+            "hu": "Autóval az eső nem akadály Kayseriben. Reggel kényelmesen látogathatja meg a Hunat Hatun komplexumot. Délben parkoljon a vár közelében és fedezze fel a központot. Délután autózzon fel Talasba, ahol az eső különleges fényt ad a régi kőházaknak. Az estét zárja egy panorámás autózással vissza a városközpontba.",
+            "ro": "Cu mașina, ploaia nu este o problemă în Kayseri. Dimineața vizitați confortabil complexul Hunat Hatun. La prânz, parcați lângă castel și explorați centrul. După-amiaza conduceți până în Talas, unde ploaia oferă o lumină aparte vechilor case de piatră. Încheiați seara cu o tură panoramică înapoi spre centrul orașului.",
+            "en": "By car, the rain in Kayseri is no obstacle. In the morning, comfortably visit the Hunat Hatun complex. At noon, park near the castle and explore the center. In the afternoon, drive up to Talas, where the rain adds a special glow to the old stone houses. End your evening with a panoramic drive back to the city center."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Hunat Hatun Complex",
+              "tip_4lang": {
+                "de": "Es gibt Parkplätze direkt gegenüber dem Komplex.",
+                "hu": "Közvetlenül a komplexummal szemben vannak parkolóhelyek.",
+                "ro": "Există locuri de parcare direct vizavi de complex.",
+                "en": "There are parking spots directly across from the complex."
+              }
+            },
+            {
+              "name": "Gevher Nesibe Museum of the History of Medicine",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Parkplatz am Mimar-Sinan-Park.",
+                "hu": "Használja a Mimar Sinan park melletti parkolót.",
+                "ro": "Folosiți parcarea de lângă Parcul Mimar Sinan.",
+                "en": "Use the parking lot next to Mimar Sinan Park."
+              }
+            },
+            {
+              "name": "Kayseri Castle & Cumhuriyet Square",
+              "tip_4lang": {
+                "de": "Parkhäuser in der Nähe bieten trockenen Zugang zum Zentrum.",
+                "hu": "A közeli parkolóházak száraz bejutást biztosítanak a központba.",
+                "ro": "Parcările etajate din apropiere oferă acces uscat spre centru.",
+                "en": "Nearby parking garages offer dry access to the center."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_4lang": {
+                "de": "Wählen Sie ein Restaurant mit eigenem Parkservice (Valet).",
+                "hu": "Válasszon olyan éttermet, ahol van parkolóinas (Valet).",
+                "ro": "Alegeți un restaurant care oferă serviciu de valet parking.",
+                "en": "Choose a restaurant that offers valet parking service."
+              }
+            },
+            {
+              "name": "Cluster 2: Talas Old Town",
+              "tip_4lang": {
+                "de": "Vorsicht auf den steilen, nassen Pflasterstraßen in Talas.",
+                "hu": "Vigyázzon a meredek, nedves kövezett utakon Talasban.",
+                "ro": "Atenție pe străzile pavate și abrupte din Talas când sunt ude.",
+                "en": "Be careful on the steep, wet cobblestone streets in Talas."
+              }
+            },
+            {
+              "name": "Coffee and Dessert in Talas",
+              "tip_4lang": {
+                "de": "Parken Sie an der Hauptstraße und gehen Sie kurz zum Café.",
+                "hu": "Parkoljon a főúton, és sétáljon egyet a közeli kávézóig.",
+                "ro": "Parcați pe strada principală și mergeți puțin până la cafenea.",
+                "en": "Park on the main road and take a short walk to the cafe."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_4lang": {
+                "de": "Bei Regen kann der Verkehr im Zentrum am Abend dicht sein.",
+                "hu": "Esőben az esti forgalom sűrű lehet a központban.",
+                "ro": "Seara, traficul în centru poate fi intens pe ploaie.",
+                "en": "Evening traffic in the center can be heavy during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Parken in tiefen Pfützen am Straßenrand.",
+              "Die Scheibenwischer sollten für starke Schauer bereit sein.",
+              "Das Zentrum kann bei Regen verkehrsreich sein; planen Sie Zeit ein.",
+              "Nutzen Sie Parkhäuser statt Parkplätzen unter freiem Himmel."
+            ],
+            "hu": [
+              "Kerülje a parkolást mély tócsákban az út szélén.",
+              "Az ablaktörlők legyenek felkészülve a heves záporokra.",
+              "A központ forgalmas lehet esőben, számoljon több idővel.",
+              "Használjon parkolóházakat a nyitott parkolók helyett."
+            ],
+            "ro": [
+              "Evitați parcarea în bălți adânci la marginea drumului.",
+              "Ștergătoarele trebuie să fie pregătite pentru averse puternice.",
+              "Centrul poate fi aglomerat pe ploaie; alocați mai mult timp.",
+              "Folosiți parcări etajate în locul celor în aer liber."
+            ],
+            "en": [
+              "Avoid parking in deep puddles at the road edge.",
+              "Wipers should be ready for heavy downpours.",
+              "The center can be congested during rain; allow extra time.",
+              "Use multi-story parking garages instead of open lots."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Auto das sicherste Mittel, um Kayseri zu erkunden. Morgens sind die Straßen oft geräumt, aber Vorsicht vor Eis. Mittags genießen Sie die Wärme im Wagen zwischen den Stopps. Nachmittags bietet die Fahrt nach Talas spektakuläre Ausblicke auf das verschneite Umland. Abends kehren Sie sicher ins beleuchtete Zentrum zurück, während es draußen frostig wird.",
+            "hu": "Télen az autó a legbiztonságosabb módja Kayseri felfedezésének. Reggel az utak általában takarítottak, de vigyázzon a jéggel. Délben élvezze az autó melegét a megállók között. Délután a talasi út során lenyűgöző kilátás nyílik a havas vidékre. Este térjen vissza a kivilágított központba, miközben kint már fagy.",
+            "ro": "Iarna, mașina este cel mai sigur mod de a explora Kayseri. Dimineața drumurile sunt de obicei curățate, dar atenție la gheață. La prânz, bucurați-vă de căldura mașinii între opriri. După-amiaza, drumul spre Talas oferă vederi spectaculoase asupra împrejurimilor înzăpezite. Seara, reveniți în centrul iluminat în timp ce afară îngheață.",
+            "en": "In winter, a car is the safest way to explore Kayseri. In the morning, roads are usually cleared, but watch out for ice. At noon, enjoy the car's warmth between stops. In the afternoon, the drive to Talas offers spectacular views of the snowy surroundings. Return to the illuminated center in the evening while it freezes outside."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Hunat Hatun Complex",
+              "tip_4lang": {
+                "de": "Achten Sie auf Schneehaufen auf den Parkplätzen.",
+                "hu": "Vigyázzon a hóbuckákra a parkolókban.",
+                "ro": "Atenție la mormanele de zăpadă din parcări.",
+                "en": "Watch out for snow piles in the parking areas."
+              }
+            },
+            {
+              "name": "Gevher Nesibe Museum of the History of Medicine",
+              "tip_4lang": {
+                "de": "Die Zufahrt zum Parkplatz kann bei Neuschnee rutschig sein.",
+                "hu": "A parkolóhoz vezető út friss hóban csúszós lehet.",
+                "ro": "Accesul spre parcare poate fi alunecos în caz de zăpadă proaspătă.",
+                "en": "The access road to the parking can be slippery with fresh snow."
+              }
+            },
+            {
+              "name": "Kayseri Castle & Cumhuriyet Square",
+              "tip_4lang": {
+                "de": "Nutzen Sie Tiefgaragen, um ein Einfrieren der Scheiben zu vermeiden.",
+                "hu": "Használjon mélygarázst, hogy elkerülje az ablakok befagyását.",
+                "ro": "Folosiți parcări subterane pentru a evita înghețarea geamurilor.",
+                "en": "Use underground parking to avoid windows freezing over."
+              }
+            },
+            {
+              "name": "Lunch in the City Center",
+              "tip_4lang": {
+                "de": "Parken Sie nah am Restaurant, um die Kältezeit zu minimieren.",
+                "hu": "Parkoljon közel az étteremhez, hogy keveset kelljen a hidegben lenni.",
+                "ro": "Parcați aproape de restaurant pentru a minimiza timpul în frig.",
+                "en": "Park close to the restaurant to minimize time in the cold."
+              }
+            },
+            {
+              "name": "Cluster 2: Talas Old Town",
+              "tip_4lang": {
+                "de": "Winterreifen sind für die Fahrt bergauf nach Talas Pflicht.",
+                "hu": "A Talasba vezető emelkedőhöz kötelező a téli gumi.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pentru urcarea spre Talas.",
+                "en": "Winter tires are mandatory for the uphill drive to Talas."
+              }
+            },
+            {
+              "name": "Coffee and Dessert in Talas",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf den Berg Erciyes aus dem warmen Café.",
+                "hu": "Élvezze a kilátást az Erciyes-hegyre a meleg kávézóból.",
+                "ro": "Admirați muntele Erciyes din cafeneaua călduroasă.",
+                "en": "Enjoy the view of Mt. Erciyes from the warm cafe."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_4lang": {
+                "de": "Fahren Sie vorsichtig, da die Temperaturen nachts sinken.",
+                "hu": "Vezessen óvatosan, mert éjszaka hirtelen hűl le a levegő.",
+                "ro": "Conduceți cu prudență, deoarece temperaturile scad noaptea.",
+                "en": "Drive carefully as temperatures drop during the night."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Frostschutzmittel sind in Kayseri essenziell.",
+              "Achten Sie auf Räumfahrzeuge auf den Hauptstraßen.",
+              "Lassen Sie den Motor kurz warm laufen, bevor Sie losfahren.",
+              "Halten Sie einen Eiskratzer im Auto bereit."
+            ],
+            "hu": [
+              "Téli gumi és fagyálló folyadék elengedhetetlen Kayseriben.",
+              "Figyeljen a hókotrókra a főutakon.",
+              "Hagyja a motort kicsit bemelegedni indulás előtt.",
+              "Legyen kéznél jégkaparó az autóban."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și antigelul sunt esențiale în Kayseri.",
+              "Atenție la utilajele de deszăpezire pe drumurile principale.",
+              "Lăsați motorul să se încălzească puțin înainte de plecare.",
+              "Aveți la îndemână o racletă pentru gheață în mașină."
+            ],
+            "en": [
+              "Winter tires and antifreeze are essential in Kayseri.",
+              "Watch out for snowplows on the main roads.",
+              "Let the engine warm up for a moment before driving off.",
+              "Keep an ice scraper handy in the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1422,6 +2004,206 @@
           "The tram (Kayseray) is modern and efficient for main routes.",
           "Allow extra time for waiting at stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Kayseray-Straßenbahn ist bei Regen das ideale Transportmittel. Morgens erreichen Sie das Zentrum bequem und trocken. Mittags nutzen Sie die kurzen Wege zwischen den Haltestellen und den Sehenswürdigkeiten. Nachmittags bietet die Fahrt nach Talas mit der Tram eine entspannte Sicht auf die Stadt im Regen. Den Abend lassen Sie im gut angebundenen Stadtzentrum ausklingen.",
+            "hu": "A Kayseray villamos esőben a legjobb választás. Reggel kényelmesen és szárazon érheti el a központot. Délben használja ki a megállók és a látnivalók közötti rövid távolságokat. Délután a talasi villamosozás közben nyugodtan nézheti az esőáztatta várost. Az estét a kiváló közlekedéssel rendelkező belvárosban fejezze be.",
+            "ro": "Tramvaiul Kayseray este alegerea ideală pe ploaie. Dimineața ajungeți confortabil și uscat în centru. La prânz, profitați de distanțele scurte între stații și obiective. După-amiaza, călătoria cu tramvaiul spre Talas oferă o vedere relaxantă asupra orașului ploios. Încheiați seara în centrul orașului, bine conectat.",
+            "en": "The Kayseray tram is the ideal mode of transport during rain. In the morning, reach the center comfortably and dry. At noon, take advantage of the short distances between stops and sights. In the afternoon, the tram ride to Talas offers a relaxing view of the rainy city. End your evening in the well-connected city center."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Cumhuriyet Square",
+              "tip_4lang": {
+                "de": "Die Straßenbahnhaltestelle ist zentral und teils überdacht.",
+                "hu": "A villamosmegálló központi helyen van és részben fedett.",
+                "ro": "Stația de tramvai este centrală și parțial acoperită.",
+                "en": "The tram stop is central and partially covered."
+              }
+            },
+            {
+              "name": "Kayseri Castle",
+              "tip_4lang": {
+                "de": "Nur ein kurzer Fußweg von der Haltestelle 'Cumhuriyet Meydanı'.",
+                "hu": "Csak egy rövid séta a 'Cumhuriyet Meydanı' megállótól.",
+                "ro": "Doar o scurtă plimbare de la stația 'Cumhuriyet Meydanı'.",
+                "en": "Just a short walk from the 'Cumhuriyet Meydanı' stop."
+              }
+            },
+            {
+              "name": "Hunat Hatun Complex",
+              "tip_4lang": {
+                "de": "Die Haltestelle 'Hunat' liegt direkt vor dem Eingang.",
+                "hu": "A 'Hunat' megálló közvetlenül a bejárat előtt található.",
+                "ro": "Stația 'Hunat' este chiar în fața intrării.",
+                "en": "The 'Hunat' stop is located right in front of the entrance."
+              }
+            },
+            {
+              "name": "Lunch near the complex",
+              "tip_4lang": {
+                "de": "In der Umgebung der Haltestellen gibt es viele Restaurants.",
+                "hu": "A megállók környékén számos étterem várja.",
+                "ro": "Există multe restaurante în jurul stațiilor.",
+                "en": "There are many restaurants around the transit stops."
+              }
+            },
+            {
+              "name": "Kayseri High School Museum",
+              "tip_4lang": {
+                "de": "Die Haltestelle 'Kiçikapı' ist am nächsten gelegen.",
+                "hu": "A 'Kiçikapı' megálló van a legközelebb.",
+                "ro": "Stația 'Kiçikapı' este cea mai apropiată.",
+                "en": "The 'Kiçikapı' stop is the nearest one."
+              }
+            },
+            {
+              "name": "Cluster 2: Talas Old Town",
+              "tip_4lang": {
+                "de": "Nehmen Sie die Tramlinie T2 Richtung Talas Cemil Baba.",
+                "hu": "Szálljon fel a T2-es villamosra Talas Cemil Baba felé.",
+                "ro": "Luați linia de tramvai T2 spre Talas Cemil Baba.",
+                "en": "Take the T2 tram line towards Talas Cemil Baba."
+              }
+            },
+            {
+              "name": "Relaxing in Talas",
+              "tip_4lang": {
+                "de": "Warten Sie in einem Café nahe der Haltestelle auf die Rückfahrt.",
+                "hu": "Várjon a visszaindulásra egy megálló közeli kávézóban.",
+                "ro": "Așteptați tramvaiul de întoarcere într-o cafenea de lângă stație.",
+                "en": "Wait for the return tram in a cafe near the stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie eine Kart38-Karte für alle öffentlichen Verkehrsmittel.",
+              "Die Straßenbahn fährt bei Regen sehr pünktlich.",
+              "Nutzen Sie die App 'Kayseri Ulaşım' für Live-Abfahrtszeiten.",
+              "Die Haltestellen haben oft elektronische Anzeigen."
+            ],
+            "hu": [
+              "Vásároljon Kart38 kártyát a tömegközlekedéshez.",
+              "A villamos esőben is nagyon pontosan közlekedik.",
+              "Használja a 'Kayseri Ulaşım' alkalmazást a valós idejű adatokhoz.",
+              "A megállókban gyakran van elektronikus kijelző."
+            ],
+            "ro": [
+              "Cumpărați un card Kart38 pentru toate mijloacele de transport.",
+              "Tramvaiul circulă foarte punctual chiar și pe ploaie.",
+              "Folosiți aplicația 'Kayseri Ulaşım' pentru timpii de sosire live.",
+              "Stațiile au adesea panouri electronice de informare."
+            ],
+            "en": [
+              "Purchase a Kart38 card for all public transport needs.",
+              "The tram runs very punctually even during rain.",
+              "Use the 'Kayseri Ulaşım' app for live departure times.",
+              "Stops often feature electronic information displays."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "In den beheizten Straßenbahnen von Kayseri lässt sich der Winter entspannt genießen. Morgens fahren Sie gemütlich durch die verschneite Stadt zum Zentrum. Mittags bieten die Tram-Stationen Schutz vor dem Wind, während Sie zum Essen fahren. Nachmittags ist die Fahrt nach Talas besonders reizvoll, wenn die Berge weiß leuchten. Abends bringt Sie die Tram sicher und warm zurück.",
+            "hu": "A kayseri villamosok fűtöttek, így télen is kényelmes az utazás. Reggel guruljon végig a havas városon a központ felé. Délben a villamosmegállók védenek a széltől, amíg az étteremhez utazik. Délután a talasi vonalon csodás látványt nyújtanak a fehérlő hegyek. Este a villamos melegében térhet vissza a szállására.",
+            "ro": "În tramvaiele încălzite din Kayseri, iarna poate fi savurată în confort. Dimineața, călătoriți prin orașul înzăpezit spre centru. La prânz, stațiile de tramvai oferă protecție contra vântului în drum spre masă. După-amiaza, călătoria spre Talas este încântătoare cu munții albi în fundal. Seara, tramvaiul vă aduce înapoi în siguranță și la căldură.",
+            "en": "Enjoy winter comfortably in Kayseri's heated trams. In the morning, ride through the snowy city towards the center. At noon, tram stations offer shelter from the wind while you travel to lunch. In the afternoon, the tram ride to Talas is delightful with the white-capped mountains. The tram brings you back safely and warmly in the evening."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Cumhuriyet Square",
+              "tip_4lang": {
+                "de": "Die Haltestelle ist ein wichtiger Knotenpunkt, oft gut geräumt.",
+                "hu": "A megálló fontos csomópont, általában jól le van takarítva.",
+                "ro": "Stația este un nod important, de obicei bine curățată de zăpadă.",
+                "en": "The stop is a major hub, usually well-cleared of snow."
+              }
+            },
+            {
+              "name": "Kayseri Castle",
+              "tip_4lang": {
+                "de": "In der Nähe der Haltestelle gibt es beheizte Cafés zum Warten.",
+                "hu": "A megálló közelében fűtött kávézókban várhat.",
+                "ro": "Există cafenele încălzite lângă stație pentru așteptare.",
+                "en": "There are heated cafes near the stop to wait in."
+              }
+            },
+            {
+              "name": "Hunat Hatun Complex",
+              "tip_4lang": {
+                "de": "Achten Sie beim Aussteigen auf glatte Haltestellenbereiche.",
+                "hu": "Kiszálláskor ügyeljen a megálló jegesedésére.",
+                "ro": "Atenție la porțiunile înghețate din stație la coborâre.",
+                "en": "Watch out for icy spots at the stop when getting off."
+              }
+            },
+            {
+              "name": "Lunch near the complex",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Unterführungen, um warm ins Restaurant zu kommen.",
+                "hu": "Használja az aluljárókat, hogy melegben érjen az étterembe.",
+                "ro": "Folosiți pasajele subterane pentru a ajunge la căldură în restaurant.",
+                "en": "Use the underground passages to reach the restaurant in the warm."
+              }
+            },
+            {
+              "name": "Kayseri High School Museum",
+              "tip_4lang": {
+                "de": "Die Busverbindungen sind im Winter ebenfalls zuverlässig.",
+                "hu": "A buszjáratok télen is megbízhatóak a múzeum közelében.",
+                "ro": "Conexiunile de autobuz sunt de încredere și iarna lângă muzeu.",
+                "en": "Bus connections are also reliable in winter near the museum."
+              }
+            },
+            {
+              "name": "Cluster 2: Talas Old Town",
+              "tip_4lang": {
+                "de": "Die Fahrt mit der Tram T2 nach oben ist bei Schnee sehr sicher.",
+                "hu": "A T2-es villamos havas időben is biztonságos választás felfelé.",
+                "ro": "Linia T2 de tramvai este o alegere sigură pentru urcare pe zăpadă.",
+                "en": "The T2 tram line is a safe choice for the uphill ride in snow."
+              }
+            },
+            {
+              "name": "Relaxing in Talas",
+              "tip_4lang": {
+                "de": "Informieren Sie sich über die letzte Tram für die Rückfahrt.",
+                "hu": "Ellenőrizze az utolsó villamos indulási idejét a visszautashoz.",
+                "ro": "Verificați ora ultimului tramvai pentru întoarcere.",
+                "en": "Check the departure time of the last tram for the return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warten Sie im Inneren der Haltestellenhäuschen, wenn vorhanden.",
+              "Die Tram-Türen öffnen automatisch, bleiben Sie dahinter warm.",
+              "Tragen Sie warme Schuhe, da die Bahnsteige kalt sein können.",
+              "Die Tram-Frequenz bleibt auch bei Schnee meist stabil."
+            ],
+            "hu": [
+              "Várjon a megállóhelyi bódék belsejében, ahol van ilyen.",
+              "A villamosajtók automatikusan nyílnak, maradjon bent a melegben.",
+              "Viseljen meleg cipőt, mert a peronok hidegek lehetnek.",
+              "A villamosok sűrűsége hóban is általában stabil marad."
+            ],
+            "ro": [
+              "Așteptați în interiorul cabinelor din stații, acolo unde există.",
+              "Ușile tramvaiului se deschid automat; rămâneți la căldură înăuntru.",
+              "Purtați încălțăminte groasă, peroanele pot fi foarte reci.",
+              "Frecvența tramvaielor rămâne stabilă de obicei, chiar și pe zăpadă."
+            ],
+            "en": [
+              "Wait inside the station shelters where available.",
+              "Tram doors open automatically; stay warm inside until then.",
+              "Wear warm shoes as the platforms can be very cold.",
+              "Tram frequency usually remains stable even during snow."
+            ]
+          }
+        }
       }
     }
   }

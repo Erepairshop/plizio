@@ -290,6 +290,188 @@
           "A reusable water bottle is useful, especially on warm days.",
           "Most sights in the center are within easy walking distance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Rathausplatz, wo die Arkaden Schutz vor dem Regen bieten. Besuchen Sie die Stadtpfarrkirche und die Stadtgalerie, um trocken zu bleiben und lokale Kunst zu genießen.\n\nMittags bietet das Schloss Traun eine hervorragende Indoor-Alternative mit seinem Museum und den historischen Räumen. Genießen Sie die Atmosphäre des Schlosses, während es draußen regnet.\n\nAm Nachmittag spazieren Sie trotz des Regens kurz durch die Traun-Auen; die befestigten Wege sind gut begehbar. Die mystische Stimmung im Nebel hat ihren eigenen Reiz.\n\nBeenden Sie den Tag am Oedter See. Das graue Wasser und die Regentropfen auf der Oberfläche bieten ein beruhigendes Naturschauspiel, bevor Sie in ein gemütliches Gasthaus einkehren.",
+            "hu": "Kezdje a napot a Városháza téren, ahol az árkádok védelmet nyújtanak az eső elől. Látogasson el a plébániatemplomba és a városi galériába, hogy szárazon maradva élvezze a helyi művészetet.\n\nDélben a Traun-kastély kiváló beltéri alternatívát kínál múzeumával és történelmi termeivel. Élvezze a kastély hangulatát, miközben odakint esik az eső.\n\nDélután a csapadék ellenére tegyen egy rövid sétát a Traun-ártérben; a burkolt utak jól járhatóak. A ködös, misztikus hangulatnak megvan a maga varázsa.\n\nA napot az Oedter-tónál zárja. A szürke víztükör és a felszínen kopogó esőcseppek megnyugtató látványt nyújtanak, mielőtt betérne egy közeli hangulatos vendéglőbe.",
+            "ro": "Începeți ziua în Piața Primăriei, unde arcadele oferă adăpost împotriva ploii. Vizitați Biserica Parohială și Galeria Orașului pentru a rămâne la adăpost și a savura arta locală.\n\nLa prânz, Castelul Traun oferă o alternativă excelentă de interior cu muzeul și sălile sale istorice. Bucurați-vă de atmosfera castelului în timp ce afară plouă.\n\nDupă-amiaza, în ciuda ploii, faceți o scurtă plimbare prin luncile Traunului; potecile pavate sunt ușor de parcurs. Atmosfera mistică în ceață are propriul farmec.\n\nÎncheiați ziua la Lacul Oedter. Apa cenușie și picăturile de ploaie pe suprafață oferă un spectacol natural liniștitor înainte de a intra într-un restaurant primitor.",
+            "en": "Start your day at Town Hall Square, where the arcades provide shelter from the rain. Visit the Parish Church and the City Gallery to stay dry and enjoy local art.\n\nAt noon, Traun Castle offers an excellent indoor alternative with its museum and historic rooms. Enjoy the castle's atmosphere while it rains outside.\n\nIn the afternoon, despite the rain, take a short walk through the Traun floodplains; the paved paths are easy to navigate. The mystical misty atmosphere has its own charm.\n\nEnd the day at Oedter See. The grey water and raindrops on the surface offer a calming natural spectacle before heading into a cozy local inn."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Gebäudevorsprünge am Platz, um trocken zu bleiben.",
+                "hu": "Használja ki az épületek kiugróit a téren, hogy szárazon maradjon.",
+                "ro": "Folosiți arcadele clădirilor din piață pentru a rămâne uscat.",
+                "en": "Use the building overhangs in the square to stay dry."
+              }
+            },
+            {
+              "name": "Traun Parish Church",
+              "tip_4lang": {
+                "de": "Ein ruhiger Ort, um den stärksten Schauer abzuwarten.",
+                "hu": "Csendes hely a legerősebb zápor kivárására.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea ploii torențiale.",
+                "en": "A quiet place to wait out the heaviest downpour."
+              }
+            },
+            {
+              "name": "Gallery of the City of Traun",
+              "tip_4lang": {
+                "de": "Perfekter Indoor-Stopp für Kunstliebhaber bei Regen.",
+                "hu": "Tökéletes beltéri megálló művészetkedvelőknek esőben.",
+                "ro": "Oprire interioară perfectă pentru iubitorii de artă pe ploaie.",
+                "en": "Perfect indoor stop for art lovers when it's raining."
+              }
+            },
+            {
+              "name": "Traun Castle",
+              "tip_4lang": {
+                "de": "Das Museum im Inneren hält Sie für über eine Stunde trocken.",
+                "hu": "A benti múzeum több mint egy órán át szárazon tartja.",
+                "ro": "Muzeul din interior vă va ține la adăpost pentru mai bine de o oră.",
+                "en": "The museum inside will keep you dry for over an hour."
+              }
+            },
+            {
+              "name": "Traun Floodplains",
+              "tip_4lang": {
+                "de": "Bleiben Sie auf den asphaltierten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon az aszfaltozott utakon a sár elkerülése érdekében.",
+                "ro": "Rămâneți pe potecile asfaltate pentru a evita noroiul.",
+                "en": "Stay on the paved paths to avoid the mud."
+              }
+            },
+            {
+              "name": "Oedter See",
+              "tip_4lang": {
+                "de": "Die Cafés am Seeufer bieten einen tollen Blick auf das Regenwetter.",
+                "hu": "A tóparti kávézók remek kilátást nyújtanak az esős időben is.",
+                "ro": "Cafenelele de pe malul lacului oferă o priveliște frumoasă pe ploaie.",
+                "en": "Lakeside cafes offer a great view of the rainy scenery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserfeste Jacke, da der Wind an der Traun den Regen seitlich treiben kann.",
+              "Die Stadtgalerie und das Schloss sind die besten Rückzugsorte bei starkem Niederschlag.",
+              "Achten Sie auf rutschiges Kopfsteinpflaster im alten Stadtzentrum.",
+              "Parken Sie idealerweise in der Tiefgarage im Zentrum, um trockenen Fußes zum Rathaus zu gelangen."
+            ],
+            "hu": [
+              "Viseljen vízálló kabátot, mert a Traun felőli szél oldalról fújhatja az esőt.",
+              "A városi galéria és a kastély a legjobb menedékhelyek erős esőzés idején.",
+              "Ügyeljen a csúszós macskakövekre a történelmi városközpontban.",
+              "Lehetőleg a központi mélygarázsban parkoljon, hogy száraz lábbal érje el a városházát."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă, deoarece vântul de pe Traun poate sufla ploaia lateral.",
+              "Galeria orașului și castelul sunt cele mai bune refugii în caz de precipitații abundente.",
+              "Atenție la pavajul umed și alunecos din centrul vechi al orașului.",
+              "Parcați ideal în parcarea subterană centrală pentru a ajunge la primărie fără să vă udați."
+            ],
+            "en": [
+              "Wear a waterproof jacket as the wind from the Traun river can blow rain sideways.",
+              "The City Gallery and the Castle are the best retreats during heavy rainfall.",
+              "Watch out for slippery cobblestones in the historic town center.",
+              "Ideally, park in the central underground garage to reach the town hall dry-shod."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Rathausplatz lädt zu einem heißen Getränk in den umliegenden Cafés ein. Die Stadtpfarrkirche bietet einen Moment der Stille in beheizter Umgebung.\n\nMittags ist das Schloss Traun mit seinen Ausstellungen der ideale Ort, um sich aufzuwärmen. Das historische Gemäuer wirkt im Winter besonders imposant.\n\nDer Nachmittag führt Sie in die Traun-Auen, wo Raureif die Bäume in eine kristallene Landschaft verwandelt. Ein kurzer Spaziergang an der frischen, kalten Luft belebt die Sinne.\n\nZum Abschluss genießen Sie die winterliche Ruhe am Oedter See. Wenn es dunkel wird, spiegeln sich die Lichter der Stadt im kalten Wasser, bevor Sie den Abend gemütlich ausklingen lassen.",
+            "hu": "A fagyos reggel a Városháza téren egy forró italra csábít a közeli kávézókban. A plébániatemplom a csend és a nyugalom szigete a fűtött belső térben.\n\nDélben a Traun-kastély kiállításaival az ideális hely a felmelegedésre. A történelmi falak télen különösen impozáns látványt nyújtanak.\n\nA délután a Traun-ártérbe vezet, ahol a zúzmara kristályos tájjá varázsolja a fákat. Rövid séta a friss, hideg levegőn élénkíti az érzékeket.\n\nBefejezésül élvezze a téli nyugalmat az Oedter-tónál. Sötétedéskor a város fényei tükröződnek a hideg vízben, mielőtt kényelmesen lezárná az estét.",
+            "ro": "O dimineață geroasă în Piața Primăriei vă invită la o băutură caldă în cafenelele din jur. Biserica Parohială oferă un moment de liniște într-un mediu încălzit.\n\nLa prânz, Castelul Traun cu expozițiile sale este locul ideal pentru a vă încălzi. Zidurile istorice par deosebit de impunătoare în timpul iernii.\n\nDupă-amiaza vă poartă în luncile Traunului, unde chiciura transformă copacii într-un peisaj de cristal. O scurtă plimbare în aerul proaspăt și rece revigorează simțurile.\n\nLa final, bucurați-vă de liniștea hivernală la Lacul Oedter. Pe măsură ce se întunecă, luminile orașului se oglindesc în apa rece, înainte de a încheia seara confortabil.",
+            "en": "A frosty morning at Town Hall Square invites you for a hot drink in the surrounding cafes. The Parish Church offers a moment of silence in a heated environment.\n\nAt noon, Traun Castle with its exhibitions is the ideal place to warm up. The historic walls look particularly imposing in winter.\n\nThe afternoon leads you to the Traun floodplains, where hoarfrost transforms the trees into a crystal landscape. A short walk in the fresh, cold air invigorates the senses.\n\nFinally, enjoy the winter tranquility at Oedter See. As it gets dark, the city lights reflect in the cold water before ending the evening comfortably."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square",
+              "tip_4lang": {
+                "de": "Starten Sie mit einem Punsch oder Tee von einem der lokalen Stände.",
+                "hu": "Kezdjen egy punccsal vagy teával valamelyik helyi árusnál.",
+                "ro": "Începeți cu un punch sau un ceai de la standurile locale.",
+                "en": "Start with a punch or tea from one of the local stalls."
+              }
+            },
+            {
+              "name": "Traun Parish Church",
+              "tip_4lang": {
+                "de": "Genießen Sie die Ruhe und die angenehme Wärme im Kirchenschiff.",
+                "hu": "Élvezze a csendet és a kellemes meleget a templomhajóban.",
+                "ro": "Bucurați-vă de liniște și de căldura plăcută din interiorul bisericii.",
+                "en": "Enjoy the silence and pleasant warmth inside the church nave."
+              }
+            },
+            {
+              "name": "Gallery of the City of Traun",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Besuch für eine Aufwärmpause zwischen den Kunstwerken.",
+                "hu": "Használja ki a látogatást egy kis melegedésre a műalkotások között.",
+                "ro": "Folosiți vizita pentru o pauză de încălzire printre operele de artă.",
+                "en": "Use the visit for a warming break among the artworks."
+              }
+            },
+            {
+              "name": "Traun Castle",
+              "tip_4lang": {
+                "de": "Die dicken Mauern schützen vor dem beißenden Winterwind.",
+                "hu": "A vastag falak megvédenek a metsző téli széltől.",
+                "ro": "Zidurile groase vă protejează de vântul tăios de iarnă.",
+                "en": "The thick walls protect you from the biting winter wind."
+              }
+            },
+            {
+              "name": "Traun Floodplains",
+              "tip_4lang": {
+                "de": "Wunderschön bei Raureif, aber ziehen Sie sich winddicht an.",
+                "hu": "Gyönyörű zúzmarás időben, de öltözzön szélbiztosan.",
+                "ro": "Superb când e chiciură, dar îmbrăcați-vă cu haine rezistente la vânt.",
+                "en": "Beautiful during hoarfrost, but dress in windproof layers."
+              }
+            },
+            {
+              "name": "Oedter See",
+              "tip_4lang": {
+                "de": "Der Sonnenuntergang ist hier im Winter gegen 16:30 Uhr besonders schön.",
+                "hu": "A naplemente itt télen 16:30 körül különösen szép.",
+                "ro": "Apusul de soare aici iarna, în jurul orei 16:30, este deosebit de frumos.",
+                "en": "The sunset here in winter around 4:30 PM is especially beautiful."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Wollmütze und Handschuhe sind Pflicht, besonders für den Spaziergang an der Traun.",
+              "Die Sonne geht im Winter bereits gegen 16:15 Uhr unter, planen Sie die See-Besichtigung rechtzeitig.",
+              "Innenräume wie die Galerie und das Schloss sind ideal, um zwischendurch aufzutauen.",
+              "Vorsicht vor vereisten Stellen auf den Gehwegen nahe des Flusses."
+            ],
+            "hu": [
+              "A gyapjúsapka és kesztyű kötelező, különösen a Traun-parti sétához.",
+              "A nap télen már 16:15 körül lemegy, tervezze a tólátogatást időben.",
+              "A beltéri helyszínek, mint a galéria és a kastély, ideálisak a köztes felmelegedéshez.",
+              "Vigyázzon a jeges foltokkal a folyó menti gyalogutakon."
+            ],
+            "ro": [
+              "Căciula de lână și mănușile sunt obligatorii, mai ales pentru plimbarea pe malul Traunului.",
+              "Soarele apune deja în jurul orei 16:15 iarna, planificați vizita la lac din timp.",
+              "Spațiile interioare precum galeria și castelul sunt ideale pentru a vă încălzi între opriri.",
+              "Atenție la porțiunile înghețate de pe trotuarele din apropierea râului."
+            ],
+            "en": [
+              "Woolen hats and gloves are mandatory, especially for the walk along the Traun.",
+              "The sun sets as early as 4:15 PM in winter, plan your lake visit accordingly.",
+              "Indoor venues like the gallery and the castle are ideal for thawing out in between.",
+              "Watch out for icy patches on the footpaths near the river."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -550,6 +732,170 @@
           "A helmet is highly recommended.",
           "Use the well-developed cycle paths along the Traun river."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Rathausplatz; nasse Pflastersteine können rutschig sein. Das Schloss Traun bietet eine willkommene lange Pause im Trockenen, während Sie das Museum erkunden.\n\nMittags radeln Sie zum Kulturzentrum Spinnerei. Die moderne Architektur bietet nicht nur Schutz, sondern auch einen Einblick in die industrielle Geschichte der Stadt.\n\nDer Nachmittag führt durch die Traun-Auen. Die Bäume fangen den schlimmsten Regen ab, aber achten Sie auf Pfützen auf den Wegen.\n\nBeenden Sie die Tour am Oedter See. Die kühle, feuchte Luft ist erfrischend, bevor Sie die Rückreise antreten oder sich in einem Café aufwärmen.",
+            "hu": "Induljon óvatosan a Városháza térről; a nedves macskakövek csúszósak lehetnek. A Traun-kastély örömteli, hosszú pihenőt kínál szárazon, miközben felfedezi a múzeumot.\n\nDélben tekerjen a Spinnerei kulturális központhoz. A modern építészet nemcsak védelmet nyújt, hanem betekintést is enged a város ipari múltjába.\n\nA délután a Traun-ártéren vezet keresztül. A fák felfogják az eső javát, de ügyeljen az utakon lévő tócsákra.\n\nA túrát az Oedter-tónál zárja. A hűvös, nyirkos levegő frissítő, mielőtt elindulna visszafelé, vagy felmelegedne egy kávézóban.",
+            "ro": "Porniți cu atenție din Piața Primăriei; pavajul umed poate fi alunecos. Castelul Traun oferă o pauză lungă și binevenită la adăpost în timp ce explorați muzeul.\n\nLa prânz, pedalați către centrul cultural Spinnerei. Arhitectura modernă nu oferă doar protecție, ci și o incursiune în istoria industrială a orașului.\n\nDupă-amiaza traversează luncile Traunului. Copacii opresc cea mai mare parte a ploii, dar fiți atenți la bălțile de pe drum.\n\nÎncheiați turul la Lacul Oedter. Aerul răcoros și umed este revigorant înainte de a porni spre casă sau de a vă încălzi într-o cafenea.",
+            "en": "Start carefully at Town Hall Square; wet cobblestones can be slippery. Traun Castle offers a welcome long break in the dry while you explore the museum.\n\nAt noon, cycle to the Spinnerei cultural centre. The modern architecture not only provides shelter but also offers an insight into the city's industrial history.\n\nThe afternoon leads through the Traun floodplains. The trees catch the worst of the rain, but watch out for puddles on the paths.\n\nEnd the tour at Oedter See. The cool, damp air is refreshing before heading back or warming up in a cafe."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square & Start",
+              "tip_4lang": {
+                "de": "Prüfen Sie Ihre Bremsen auf dem nassen Kopfsteinpflaster.",
+                "hu": "Ellenőrizze a fékeit a nedves macskakövön.",
+                "ro": "Verificați frânele pe pavajul umed.",
+                "en": "Check your brakes on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Traun Castle",
+              "tip_4lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen des Rades.",
+                "hu": "Használja a fedett bejáratot a bicikli leállításához.",
+                "ro": "Folosiți zona de intrare acoperită pentru a parca bicicleta.",
+                "en": "Use the covered entrance area to park your bike."
+              }
+            },
+            {
+              "name": "Spinnerei Cultural Centre",
+              "tip_4lang": {
+                "de": "Ein großartiger Ort für eine Kaffeepause im Trockenen.",
+                "hu": "Nagyszerű hely egy kávészünetre szárazon.",
+                "ro": "Un loc excelent pentru o pauză de cafea la adăpost.",
+                "en": "A great place for a coffee break in the dry."
+              }
+            },
+            {
+              "name": "Traun Floodplains",
+              "tip_4lang": {
+                "de": "Achtung vor rutschigem Laub auf dem Radweg.",
+                "hu": "Vigyázat, csúszós levelek a kerékpárúton.",
+                "ro": "Atenție la frunzele alunecoase de pe pista de biciclete.",
+                "en": "Beware of slippery leaves on the cycle path."
+              }
+            },
+            {
+              "name": "Oedter See",
+              "tip_4lang": {
+                "de": "Die asphaltierte Umrundung ist auch bei Regen gut befahrbar.",
+                "hu": "Az aszfaltozott körút esőben is jól járható.",
+                "ro": "Traseul asfaltat din jurul lacului este accesibil și pe ploaie.",
+                "en": "The paved loop is easy to ride even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Vermeiden Sie abrupte Bremsmanöver auf den nassen Straßen im Zentrum.",
+              "Die Spinnerei bietet gute Möglichkeiten, sich kurz unterzustellen.",
+              "Tragen Sie gut sichtbare Regenbekleidung, da die Sichtverhältnisse schlechter sind."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "Kerülje a hirtelen fékezést a központ nedves útjain.",
+              "A Spinnerei jó lehetőséget nyújt a rövid behúzódásra.",
+              "Viseljen jól látható esőruházatot a rosszabb látási viszonyok miatt."
+            ],
+            "ro": [
+              "Folosiți apărători pentru noroi pentru a vă proteja de stropi.",
+              "Evitați frânările bruște pe străzile umede din centru.",
+              "Centrul Spinnerei oferă posibilități bune de a vă adăposti scurt.",
+              "Purtați haine de ploaie reflectorizante, deoarece vizibilitatea este redusă."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from water spray.",
+              "Avoid sudden braking maneuvers on the wet roads in the center.",
+              "The Spinnerei offers good options for taking a quick shelter.",
+              "Wear high-visibility rain gear as visibility conditions are poorer."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalte Luft schlägt Ihnen am Rathausplatz entgegen, also packen Sie sich warm ein. Das Schloss Traun ist das erste Ziel, um die frostigen Glieder im Museum wieder aufzuwärmen.\n\nMittags erreichen Sie die Spinnerei, deren industrielle Wärme und Kultur eine perfekte Pause vom Fahrtwind bieten.\n\nDie Fahrt durch die Traun-Auen zeigt die winterliche Natur von ihrer stillen Seite. Der Weg ist meist frei, aber Vorsicht vor Raureif-Glätte.\n\nAm Oedter See angekommen, ist die Luft besonders klar. Genießen Sie die winterliche Einsamkeit am Wasser, bevor Sie sich auf den schnellen Rückweg machen.",
+            "hu": "Hideg levegő fogadja a Városháza téren, ezért öltözzön fel melegen. A Traun-kastély az első célpont, ahol a múzeumban felmelegítheti átfagyott végtagjait.\n\nDélben éri el a Spinnerei-t, melynek ipari melege és kultúrája tökéletes pihenőt nyújt a menetszél után.\n\nA Traun-ártéren keresztüli út a téli természet csendes oldalát mutatja meg. Az út többnyire szabad, de vigyázzon a zúzmarás csúszóssággal.\n\nAz Oedter-tóhoz érve a levegő különösen tiszta. Élvezze a téli magányt a víznél, mielőtt gyorsan visszaindulna.",
+            "ro": "Aerul rece vă întâmpină în Piața Primăriei, așa că îmbrăcați-vă gros. Castelul Traun este prima destinație pentru a vă reîncălzi membrele înghețate în muzeu.\n\nLa prânz ajungeți la Spinnerei, a cărei căldură industrială și cultură oferă o pauză perfectă de la vântul din timpul mersului.\n\nDrumul prin luncile Traunului dezvăluie natura hivernală în latura sa liniștită. Drumul este în mare parte liber, dar atenție la polei.\n\nAjunși la Lacul Oedter, aerul este deosebit de limpede. Bucurați-vă de singurătatea hivernală de pe malul apei înainte de a porni rapid înapoi.",
+            "en": "Cold air greets you at Town Hall Square, so wrap up warm. Traun Castle is the first destination to warm up your frosty limbs in the museum.\n\nAt noon, you reach the Spinnerei, whose industrial warmth and culture offer a perfect break from the wind chill.\n\nThe ride through the Traun floodplains shows winter nature from its quiet side. The path is mostly clear, but watch out for slippery frost.\n\nArriving at Oedter See, the air is particularly clear. Enjoy the winter solitude by the water before making your quick way back."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square & Start",
+              "tip_4lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Abfahrt.",
+                "hu": "Viseljen szélálló kesztyűt az induláshoz.",
+                "ro": "Purtați mănuși rezistente la vânt pentru pornire.",
+                "en": "Wear windproof gloves for the start."
+              }
+            },
+            {
+              "name": "Traun Castle",
+              "tip_4lang": {
+                "de": "Planen Sie eine längere Pause ein, um die Kälte abzuschütteln.",
+                "hu": "Tervezzen hosszabb pihenőt, hogy lerázza magáról a hideget.",
+                "ro": "Planificați o pauză mai lungă pentru a scăpa de frig.",
+                "en": "Plan a longer break to shake off the cold."
+              }
+            },
+            {
+              "name": "Spinnerei Cultural Centre",
+              "tip_4lang": {
+                "de": "Hier können Sie Ihre Akkus (und sich selbst) im Warmen aufladen.",
+                "hu": "Itt feltöltheti az akkumulátorait (és saját magát is) a melegben.",
+                "ro": "Aici vă puteți reîncărca bateriile (și pe voi înșivă) la căldură.",
+                "en": "Here you can recharge your batteries (and yourself) in the warm."
+              }
+            },
+            {
+              "name": "Traun Floodplains",
+              "tip_4lang": {
+                "de": "Vermeiden Sie schattige Stellen, dort hält sich Eis länger.",
+                "hu": "Kerülje az árnyékos részeket, ott tovább megmarad a jég.",
+                "ro": "Evitați zonele umbrite, gheața persistă mai mult acolo.",
+                "en": "Avoid shaded spots, ice stays longer there."
+              }
+            },
+            {
+              "name": "Oedter See",
+              "tip_4lang": {
+                "de": "Die klare Winterluft sorgt für weite Sicht über den See.",
+                "hu": "A tiszta téli levegő messzi kilátást biztosít a tó felett.",
+                "ro": "Aerul curat de iarnă asigură o vizibilitate mare peste lac.",
+                "en": "The clear winter air provides far-reaching views over the lake."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Schuhüberzüge verhindern taube Zehen bei Minustemperaturen.",
+              "Die Kälte reduziert die Reichweite von E-Bike-Akkus erheblich.",
+              "Trinken Sie ausreichend, auch wenn Sie bei Kälte weniger Durst verspüren.",
+              "Nutzen Sie die frühen Nachmittagsstunden, bevor es ab 16:30 Uhr ungemütlich wird."
+            ],
+            "hu": [
+              "A meleg cipővédők megakadályozzák a lábujjak elzsibbadását mínuszokban.",
+              "A hideg jelentősen csökkenti az e-bike akkumulátorok hatótávolságát.",
+              "Igyon eleget, még ha hidegben kevésbé is érzi magát szomjasnak.",
+              "Használja ki a kora délutáni órákat, mielőtt 16:30-tól kellemetlenné válik az idő."
+            ],
+            "ro": [
+              "Protecțiile calde pentru încălțăminte previn amorțirea degetelor la temperaturi negative.",
+              "Frigul reduce considerabil autonomia bateriilor de e-bike.",
+              "Beți suficiente lichide, chiar dacă simțiți mai puțin senzația de sete la frig.",
+              "Profită de orele de după-amiază devreme, înainte ca vremea să devină neplăcută după ora 16:30."
+            ],
+            "en": [
+              "Warm shoe covers prevent numb toes in freezing temperatures.",
+              "The cold significantly reduces the range of e-bike batteries.",
+              "Drink enough even if you feel less thirsty in the cold.",
+              "Take advantage of the early afternoon hours before it gets uncomfortable after 4:30 PM."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -834,6 +1180,188 @@
           "Plan your route between clusters in advance.",
           "A car gives you the flexibility to reach destinations that are a bit further out."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Dank des Autos erreichen Sie das Zentrum von Traun bequem und trocken. Der Rathausplatz und die Stadtpfarrkirche liegen nur wenige Schritte von den Parkplätzen entfernt.\n\nMittags bietet die Stadtgalerie eine kulturelle Flucht vor dem Regen. Da alles nah beieinander liegt, müssen Sie kaum Zeit im Freien verbringen.\n\nDer Nachmittag am Oedter See ist auch im Auto entspannt. Genießen Sie den Blick auf den Regen über dem Wasser direkt vom Parkplatz aus.\n\nZum Abschluss besuchen Sie das Schloss Traun und das Kraftwerk Traun-Pucking. Die industrielle Größe des Kraftwerks wirkt bei grauem Himmel besonders kraftvoll.",
+            "hu": "Az autónak köszönhetően kényelmesen és szárazon érheti el Traun központját. A Városháza tér és a plébániatemplom csak pár lépésre van a parkolóktól.\n\nDélben a városi galéria kulturális menekülést kínál az eső elől. Mivel minden közel van egymáshoz, alig kell időt töltenie a szabadban.\n\nAz délután az Oedter-tónál autóban is pihentető. Élvezze a tó feletti eső látványát közvetlenül a parkolóból.\n\nBefejezésül látogasson el a Traun-kastélyhoz és a Traun-Pucking erőműhöz. Az erőmű ipari méretei szürke égbolt alatt különösen erőteljesnek hatnak.",
+            "ro": "Datorită mașinii, ajungeți în centrul orașului Traun confortabil și fără să vă udați. Piața Primăriei și Biserica Parohială sunt la doar câțiva pași de parcări.\n\nLa prânz, galeria orașului oferă o evadare culturală din calea ploii. Deoarece totul este aproape, nu va trebui să petreceți mult timp afară.\n\nDupă-amiaza la Lacul Oedter este relaxantă chiar și din mașină. Bucurați-vă de priveliștea ploii peste apă direct din parcare.\n\nÎn final, vizitați Castelul Traun și hidrocentrala Traun-Pucking. Amploarea industrială a centralei pare deosebit de puternică sub cerul gri.",
+            "en": "Thanks to the car, you can reach the center of Traun comfortably and dry. Town Hall Square and the Parish Church are just a few steps away from the parking lots.\n\nAt noon, the City Gallery offers a cultural escape from the rain. Since everything is close together, you hardly have to spend any time outdoors.\n\nThe afternoon at Oedter See is relaxing even in the car. Enjoy the view of the rain over the water directly from the parking lot.\n\nFinally, visit Traun Castle and the Traun-Pucking power plant. The industrial scale of the power plant looks particularly powerful under grey skies."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Center - Parking & Town Hall Square",
+              "tip_4lang": {
+                "de": "Parken Sie in der Tiefgarage, um direkt im Zentrum zu sein.",
+                "hu": "Parkoljon a mélygarázsban, hogy közvetlenül a központban legyen.",
+                "ro": "Parcați în parcarea subterană pentru a fi direct în centru.",
+                "en": "Park in the underground garage to be right in the center."
+              }
+            },
+            {
+              "name": "Traun Parish Church",
+              "tip_4lang": {
+                "de": "Kurzer Fußweg vom Auto, ideal bei Schauern.",
+                "hu": "Rövid séta az autótól, ideális záporok esetén.",
+                "ro": "Scurtă plimbare de la mașină, ideal în caz de averse.",
+                "en": "Short walk from the car, ideal during showers."
+              }
+            },
+            {
+              "name": "Gallery of the City of Traun",
+              "tip_4lang": {
+                "de": "Besuchen Sie die Ausstellungen, während es draußen gießt.",
+                "hu": "Látogassa meg a kiállításokat, miközben odakint szakad az eső.",
+                "ro": "Vizitați expozițiile în timp ce afară plouă torențial.",
+                "en": "Visit the exhibitions while it's pouring outside."
+              }
+            },
+            {
+              "name": "Cluster 2: Nature & Recreation - Oedter See",
+              "tip_4lang": {
+                "de": "Vom Parkplatz aus hat man einen guten Blick auf den See.",
+                "hu": "A parkolóból jó kilátás nyílik a tóra.",
+                "ro": "Din parcare aveți o vedere bună asupra lacului.",
+                "en": "There is a good view of the lake from the parking lot."
+              }
+            },
+            {
+              "name": "Cluster 3: History & Industry - Traun Castle",
+              "tip_4lang": {
+                "de": "Die Zufahrt ist gut ausgebaut und führt nah ans Schloss.",
+                "hu": "A feljáró jól kiépített és közel vezet a kastélyhoz.",
+                "ro": "Accesul auto este bine amenajat și duce aproape de castel.",
+                "en": "The access road is well-developed and leads close to the castle."
+              }
+            },
+            {
+              "name": "Traun-Pucking Power Plant",
+              "tip_4lang": {
+                "de": "Betrachten Sie die imposante Anlage sicher aus dem trockenen Auto.",
+                "hu": "Tekintse meg az impozáns létesítményt biztonságban a száraz autóból.",
+                "ro": "Admirați instalația impunătoare în siguranță din mașina uscată.",
+                "en": "View the impressive facility safely from the dry car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Tiefgarage im Stadtzentrum für maximalen Komfort.",
+              "Die Parkplätze am Oedter See sind bei Regen oft leerer.",
+              "Halten Sie einen Regenschirm im Auto bereit für die kurzen Wege zu den Gebäuden.",
+              "Die Straßenbeleuchtung am Kraftwerk sorgt abends für gute Sicht trotz Regen."
+            ],
+            "hu": [
+              "Használja a városközpont mélygarázsát a maximális kényelem érdekében.",
+              "Az Oedter-tónál a parkolók esőben gyakran üresebbek.",
+              "Tartson esernyőt az autóban az épületekig tartó rövid utakhoz.",
+              "Az erőműnél az utcai világítás este jó látási viszonyokat biztosít esőben is."
+            ],
+            "ro": [
+              "Folosiți parcarea subterană din centrul orașului pentru confort maxim.",
+              "Parcările de la Lacul Oedter sunt adesea mai libere pe ploaie.",
+              "Țineți o umbrelă în mașină pentru drumurile scurte până la clădiri.",
+              "Iluminatul stradal de la hidrocentrală asigură o vizibilitate bună seara, în ciuda ploii."
+            ],
+            "en": [
+              "Use the underground garage in the city center for maximum comfort.",
+              "Parking lots at Oedter See are often emptier when it rains.",
+              "Keep an umbrella in the car for the short distances to the buildings.",
+              "The street lighting at the power plant ensures good visibility in the evening despite the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour im warmen Auto direkt am Rathausplatz. Die Stadtpfarrkirche ist in der kalten Jahreszeit ein wunderbarer Ort der Besinnung.\n\nMittags besuchen Sie die Stadtgalerie, die eine angenehme Abwechslung zum Grau draußen bietet. Die kurzen Wege zwischen den Stopps sind im Winter ein großer Vorteil.\n\nDer Oedter See zeigt sich im Winterkleid. Genießen Sie die frostige Szenerie, bevor Sie zum Schloss Traun weiterfahren, wo die Geschichte der Stadt lebendig wird.\n\nZum Abschluss bietet das Kraftwerk Traun-Pucking einen technischn-kühlen Kontrast zur Natur. Die Lichter der Anlage wirken in der frühen Winterdämmerung besonders faszinierend.",
+            "hu": "Kezdje téli túráját a meleg autóban közvetlenül a Városháza téren. A plébániatemplom a hideg évszakban a csendes elmélkedés csodálatos helyszíne.\n\nDélben látogasson el a városi galériába, amely kellemes változatosságot kínál a kinti szürkeséghez képest. A megállók közötti rövid távolságok télen nagy előnyt jelentenek.\n\nAz Oedter-tó téli ruháját mutatja. Élvezze a fagyos tájat, mielőtt továbbtovábbindulna a Traun-kastélyhoz, ahol életre kel a város történelme.\n\nBefejezésül a Traun-Pucking erőmű technikai-hűvös kontrasztot kínál a természethez képest. A létesítmény fényei a korai téli szürkületben különösen lenyűgözőek.",
+            "ro": "Începeți turul de iarnă în mașina încălzită, direct în Piața Primăriei. Biserica Parohială este un loc minunat de reflecție în sezonul rece.\n\nLa prânz, vizitați galeria orașului, care oferă o diversitate plăcută față de griul de afară. Distanțele scurte între opriri sunt un mare avantaj iarna.\n\nLacul Oedter se prezintă în haine de iarnă. Bucurați-vă de peisajul înghețat înainte de a merge mai departe la Castelul Traun, unde istoria orașului prinde viață.\n\nÎn final, hidrocentrala Traun-Pucking oferă un contrast tehnic rece față de natură. Luminile instalației par deosebit de fascinante în amurgul timpuriu de iarnă.",
+            "en": "Start your winter tour in a warm car right at Town Hall Square. The Parish Church is a wonderful place for reflection during the cold season.\n\nAt noon, visit the City Gallery, which offers a pleasant change from the grey outside. The short distances between stops are a major advantage in winter.\n\nOedter See shows itself in its winter dress. Enjoy the frosty scenery before continuing to Traun Castle, where the city's history comes alive.\n\nFinally, the Traun-Pucking power plant offers a technical-cool contrast to nature. The facility's lights look particularly fascinating in the early winter twilight."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Center - Parking & Town Hall Square",
+              "tip_4lang": {
+                "de": "Stellen Sie sicher, dass Ihr Wischwasser frostgeschützt ist.",
+                "hu": "Győződjön meg róla, hogy a szélvédőmosója fagyálló.",
+                "ro": "Asigurați-vă că lichidul de parbriz are protecție anti-îngheț.",
+                "en": "Make sure your windshield washer fluid is frost-protected."
+              }
+            },
+            {
+              "name": "Traun Parish Church",
+              "tip_4lang": {
+                "de": "Ein warmer Ort für eine kurze Pause vom Winterwind.",
+                "hu": "Meleg hely egy rövid pihenőre a téli szél elől.",
+                "ro": "Un loc cald pentru o scurtă pauză de la vântul de iarnă.",
+                "en": "A warm place for a short break from the winter wind."
+              }
+            },
+            {
+              "name": "Gallery of the City of Traun",
+              "tip_4lang": {
+                "de": "Genießen Sie die geheizten Ausstellungsräume.",
+                "hu": "Élvezze a fűtött kiállítótereket.",
+                "ro": "Bucurați-vă de sălile de expoziție încălzite.",
+                "en": "Enjoy the heated exhibition rooms."
+              }
+            },
+            {
+              "name": "Cluster 2: Nature & Recreation - Oedter See",
+              "tip_4lang": {
+                "de": "Bei klarem Wetter ist die Sicht über den See im Winter unübertroffen.",
+                "hu": "Tiszta időben a kilátás a tóra télen felülmúlhatatlan.",
+                "ro": "Pe vreme senină, vederea peste lac iarna este inegalabilă.",
+                "en": "In clear weather, the view over the lake in winter is unsurpassed."
+              }
+            },
+            {
+              "name": "Cluster 3: History & Industry - Traun Castle",
+              "tip_4lang": {
+                "de": "Der Parkplatz ist meist geräumt und nah am Eingang.",
+                "hu": "A parkoló többnyire takarított és közel van a bejárathoz.",
+                "ro": "Parcarea este de obicei deszăpezită și aproape de intrare.",
+                "en": "The parking lot is usually cleared and close to the entrance."
+              }
+            },
+            {
+              "name": "Traun-Pucking Power Plant",
+              "tip_4lang": {
+                "de": "Die industrielle Beleuchtung wirkt in der Kälte besonders scharf.",
+                "hu": "Az ipari világítás a hidegben különösen élesnek hat.",
+                "ro": "Iluminatul industrial pare deosebit de clar în frig.",
+                "en": "The industrial lighting looks particularly sharp in the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Österreich bei diesen Bedingungen gesetzlich vorgeschrieben.",
+              "Planen Sie für das Schloss und die Galerie mehr Zeit ein, um sich aufzuwärmen.",
+              "Die Sonne geht früh unter, besuchen Sie den See vor 16:00 Uhr.",
+              "Achten Sie auf Glatteis auf den Zufahrtswegen zum Kraftwerk."
+            ],
+            "hu": [
+              "Ausztriában a téli gumi ilyen körülmények között törvényileg kötelező.",
+              "Tervezzen több időt a kastélyra és a galériára a felmelegedéshez.",
+              "A nap korán nyugszik, látogassa meg a tavat 16:00 előtt.",
+              "Ügyeljen a jegesedésre az erőműhöz vezető utakon."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Austria în aceste condiții.",
+              "Planificați mai mult timp pentru castel și galerie pentru a vă încălzi.",
+              "Soarele apune devreme, vizitați lacul înainte de ora 16:00.",
+              "Atenție la polei pe drumurile de acces către hidrocentrală."
+            ],
+            "en": [
+              "Winter tires are legally required in Austria under these conditions.",
+              "Plan more time for the castle and the gallery to warm up.",
+              "The sun sets early, visit the lake before 4:00 PM.",
+              "Watch out for black ice on the access roads to the power plant."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1094,6 +1622,170 @@
           "Download the timetable app to see real-time departure times.",
           "Pay attention to the last bus connection back to the center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das dichte Busnetz von Traun, um bei Regen trocken von A nach B zu kommen. Die Haltestellen am Rathausplatz sind gut angebunden.\n\nMittags bringt Sie der Bus direkt zum Schloss Traun. Die kurzen Fußwege von den Haltestellen minimieren die Zeit im Regen.\n\nBesuchen Sie das Kulturzentrum Spinnerei, ein idealer Indoor-Ort, wenn es draußen ungemütlich ist. Hier trifft Moderne auf Industrie-Charme.\n\nBeenden Sie den Tag am Oedter See. Die Buslinie bringt Sie nah ans Ufer, sodass Sie die Stimmung genießen können, ohne lange nass zu werden.",
+            "hu": "Használja ki Traun sűrű buszhálózatát, hogy esőben is szárazon jusson el A-ból B-be. A Városháza téri megállók kiváló összeköttetést biztosítanak.\n\nDélben a busz közvetlenül a Traun-kastélyhoz viszi. A megállóktól való rövid séta minimálisra csökkenti az esőben töltött időt.\n\nLátogasson el a Spinnerei kulturális központba, amely ideális beltéri helyszín, ha odakint kellemetlen az idő. Itt a modernitás találkozik az ipari bájjal.\n\nA napot az Oedter-tónál zárja. A buszjárat közel visz a parthoz, így élvezheti a hangulatot anélkül, hogy sokáig ázna.",
+            "ro": "Folosiți rețeaua densă de autobuze din Traun pentru a ajunge de la A la B fără să vă udați pe ploaie. Stațiile din Piața Primăriei sunt bine conectate.\n\nLa prânz, autobuzul vă duce direct la Castelul Traun. Distanțele scurte de mers pe jos de la stații minimizează timpul petrecut în ploaie.\n\nVizitați centrul cultural Spinnerei, un loc interior ideal când afară este neplăcut. Aici modernitatea întâlnește farmecul industrial.\n\nÎncheiați ziua la Lacul Oedter. Linia de autobuz vă lasă aproape de mal, astfel încât să vă puteți bucura de atmosferă fără să vă udați prea mult.",
+            "en": "Use Traun's dense bus network to get from A to B dry during the rain. The stops at Town Hall Square are well connected.\n\nAt noon, the bus takes you directly to Traun Castle. The short walks from the stops minimize your time in the rain.\n\nVisit the Spinnerei cultural centre, an ideal indoor location when it's uncomfortable outside. Here, modernity meets industrial charm.\n\nEnd the day at Oedter See. The bus line takes you close to the shore, so you can enjoy the atmosphere without getting wet for long."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Center - Town Hall Square",
+              "tip_4lang": {
+                "de": "Die meisten Bushaltestellen hier sind überdacht.",
+                "hu": "A legtöbb buszmegálló itt fedett.",
+                "ro": "Majoritatea stațiilor de autobuz de aici sunt acoperite.",
+                "en": "Most bus stops here are covered."
+              }
+            },
+            {
+              "name": "Traun Parish Church",
+              "tip_4lang": {
+                "de": "Nur 2 Minuten Fußweg von der zentralen Bushaltestelle.",
+                "hu": "Csak 2 perc séta a központi buszmegállótól.",
+                "ro": "La doar 2 minute de mers pe jos de stația centrală de autobuz.",
+                "en": "Only a 2-minute walk from the central bus stop."
+              }
+            },
+            {
+              "name": "Cluster 2: Culture & History - Traun Castle",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Linie 631 für eine schnelle Verbindung.",
+                "hu": "Használja a 631-es járatot a gyors csatlakozáshoz.",
+                "ro": "Folosiți linia 631 pentru o conexiune rapidă.",
+                "en": "Use line 631 for a quick connection."
+              }
+            },
+            {
+              "name": "Spinnerei Cultural Centre",
+              "tip_4lang": {
+                "de": "Die Haltestelle befindet sich fast direkt vor dem Eingang.",
+                "hu": "A megálló szinte közvetlenül a bejárat előtt van.",
+                "ro": "Stația se află aproape direct în fața intrării.",
+                "en": "The stop is located almost directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Cluster 3: Leisure - Oedter See",
+              "tip_4lang": {
+                "de": "Prüfen Sie den Fahrplan für die Rückfahrt, um Wartezeiten im Regen zu vermeiden.",
+                "hu": "Ellenőrizze a menetrendet a visszajúthoz, hogy elkerülje az esőben várakozást.",
+                "ro": "Verificați programul pentru drumul de întoarcere pentru a evita așteptarea în ploaie.",
+                "en": "Check the timetable for the return journey to avoid waiting in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die OÖVV-App zeigt Verspätungen bei Regen in Echtzeit an.",
+              "Das Tagesticket ist die günstigste Option für alle Stopps.",
+              "Schloss und Spinnerei sind die besten Orte zum Aufwärmen und Trocknen.",
+              "Planen Sie 5 Minuten Puffer ein, da der Verkehr bei Regen oft stockt."
+            ],
+            "hu": [
+              "Az OÖVV alkalmazás valós időben mutatja az eső miatti késéseket.",
+              "A napijegy a legolcsóbb opció az összes megállóhoz.",
+              "A kastély és a Spinnerei a legjobb helyek a felmelegedésre és száradásra.",
+              "Tervezzen 5 perc puffert, mert esőben gyakran lassabb a forgalom."
+            ],
+            "ro": [
+              "Aplicația OÖVV arată întârzierile cauzate de ploaie în timp real.",
+              "Biletul de o zi este cea mai ieftină opțiune pentru toate opririle.",
+              "Castelul și Spinnerei sunt cele mai bune locuri pentru a vă încălzi și usca.",
+              "Planificați o rezervă de 5 minute, deoarece traficul este adesea îngreunat pe ploaie."
+            ],
+            "en": [
+              "The OÖVV app shows rain-related delays in real time.",
+              "The day ticket is the cheapest option for all stops.",
+              "The castle and Spinnerei are the best places to warm up and dry off.",
+              "Plan a 5-minute buffer as traffic often slows down when it rains."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die warmen Busse sind im Winter ein Segen. Starten Sie am Rathausplatz und genießen Sie die weihnachtliche Beleuchtung in der Innenstadt.\n\nMittags führt der Weg zum Schloss Traun. Die kurzen Wege von der Haltestelle machen den winterlichen Besuch angenehm und unkompliziert.\n\nDas Kulturzentrum Spinnerei bietet ein spannendes Winterprogramm und ist ein gemütlicher Ort für den Nachmittag.\n\nBeenden Sie die Tour am Oedter See. Die klare Winterluft und die Ruhe am Wasser sind beeindruckend, bevor Sie der Bus sicher und warm zurück ins Zentrum bringt.",
+            "hu": "A fűtött buszok áldást jelentenek télen. Kezdjen a Városháza téren, és élvezze a belváros karácsonyi kivilágítását.\n\nDélben az út a Traun-kastélyhoz vezet. A megállótól való rövid séta kellemessé és egyszerűvé teszi a téli látogatást.\n\nA Spinnerei kulturális központ izgalmas téli programokat kínál, és hangulatos helyszín a délután eltöltéséhez.\n\nA túrát az Oedter-tónál zárja. A tiszta téli levegő és a vízparti nyugalom lenyűgöző, mielőtt a busz biztonságban és melegben visszavinné a központba.",
+            "ro": "Autobuzele încălzite sunt o binecuvântare iarna. Începeți în Piața Primăriei și bucurați-vă de iluminatul festiv din centrul orașului.\n\nLa prânz, drumul vă duce la Castelul Traun. Distanțele scurte de la stație fac vizita de iarnă plăcută și simplă.\n\nCentrul cultural Spinnerei oferă un program de iarnă interesant și este un loc primitor pentru după-amiază.\n\nÎncheiați turul la Lacul Oedter. Aerul curat de iarnă și liniștea de pe malul apei sunt impresionante înainte ca autobuzul să vă aducă înapoi în centru, la căldură.",
+            "en": "The warm buses are a blessing in winter. Start at Town Hall Square and enjoy the Christmas lighting in the city center.\n\nAt noon, the route leads to Traun Castle. The short walks from the stop make the winter visit pleasant and uncomplicated.\n\nThe Spinnerei cultural centre offers an exciting winter program and is a cozy place for the afternoon.\n\nEnd the tour at Oedter See. The clear winter air and the tranquility by the water are impressive before the bus takes you back to the center safely and warmly."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Center - Town Hall Square",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Wartehäuschen als Windschutz.",
+                "hu": "Használja a várókat szélfogóként.",
+                "ro": "Folosiți adăposturile din stații ca protecție împotriva vântului.",
+                "en": "Use the bus shelters as wind protection."
+              }
+            },
+            {
+              "name": "Traun Parish Church",
+              "tip_4lang": {
+                "de": "Ideal erreichbar ohne lange Kälteexposition.",
+                "hu": "Ideálisan elérhető hosszú hideghatás nélkül.",
+                "ro": "Accesibil ideal fără o expunere lungă la frig.",
+                "en": "Ideally accessible without long exposure to the cold."
+              }
+            },
+            {
+              "name": "Cluster 2: Culture & History - Traun Castle",
+              "tip_4lang": {
+                "de": "Die Busse verkehren auch bei Schnee meist sehr zuverlässig.",
+                "hu": "A buszok hóban is többnyire nagyon megbízhatóan közlekednek.",
+                "ro": "Autobuzele circulă de obicei foarte fiabil chiar și pe zăpadă.",
+                "en": "The buses usually run very reliably even in snow."
+              }
+            },
+            {
+              "name": "Spinnerei Cultural Centre",
+              "tip_4lang": {
+                "de": "Ein beliebter Treffpunkt im Winter mit vielen Indoor-Events.",
+                "hu": "Kedvelt találkozóhely télen, sok beltéri eseménnyel.",
+                "ro": "Un punct de întâlnire popular iarna, cu multe evenimente în interior.",
+                "en": "A popular meeting point in winter with many indoor events."
+              }
+            },
+            {
+              "name": "Cluster 3: Leisure - Oedter See",
+              "tip_4lang": {
+                "de": "Achten Sie auf die letzte Busverbindung vor Einbruch der Dunkelheit.",
+                "hu": "Ügyeljen az utolsó buszjáratra sötétedés előtt.",
+                "ro": "Fiți atenți la ultima cursă de autobuz înainte de lăsarea întunericului.",
+                "en": "Watch out for the last bus connection before dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In den Bussen ist es meist sehr warm, kleiden Sie sich nach dem Zwiebelprinzip.",
+              "Die Haltestelle 'Traun Schloss' bietet direkten Zugang zum Gelände.",
+              "Nutzen Sie die Abendstunden für die beleuchtete Innenstadt.",
+              "Bei starkem Schneefall können Fahrplanabweichungen auftreten, App prüfen."
+            ],
+            "hu": [
+              "A buszokon többnyire nagyon meleg van, öltözzön rétegesen.",
+              "A 'Traun Schloss' megálló közvetlen kijáratot biztosít a kastélyhoz.",
+              "Használja ki az esti órákat a kivilágított belváros megtekintésére.",
+              "Erős havazás esetén eltérések lehetnek a menetrendben, ellenőrizze az appot."
+            ],
+            "ro": [
+              "În autobuze este de obicei foarte cald, îmbrăcați-vă în straturi.",
+              "Stația 'Traun Schloss' oferă acces direct către domeniu.",
+              "Profită de orele serii pentru a vedea centrul orașului iluminat.",
+              "În caz de ninsori abundente, pot apărea abateri de la program, verificați aplicația."
+            ],
+            "en": [
+              "Buses are usually very warm, so dress in layers.",
+              "The 'Traun Schloss' stop provides direct access to the grounds.",
+              "Take advantage of the evening hours for the illuminated city center.",
+              "In case of heavy snowfall, schedule deviations may occur; check the app."
+            ]
+          }
+        }
       }
     }
   }

@@ -12,80 +12,77 @@
       "mode": "walk",
       "speed_kmh": 3,
       "start": "09:00",
-      "end_estimate": "17:15",
-      "total_km": 6.8,
+      "end_estimate": "15:55",
+      "total_km": 2.9,
       "stop_count": 6,
       "stops": [
         {
           "name": {
             "de": "Altes Schulhaus Littau",
-            "hu": "Régi Littau-i Iskolaépület",
+            "hu": "Littaui régi iskolaépület",
             "ro": "Vechea școală din Littau",
-            "en": "Old School House Littau"
+            "en": "Old Schoolhouse Littau"
           },
           "coords": [
-            8.267,
+            8.264,
             47.05
           ],
           "category": "famous residences",
-          "arrive_at": "09:10",
-          "stay_min": 25,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0,
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Bewundern Sie die traditionelle Architektur im Herzen von Littau.",
-            "hu": "Csodálja meg a hagyományos építészetet Littau szívében.",
-            "ro": "Admirați arhitectura tradițională din inima orașului Littau.",
-            "en": "Admire the traditional architecture in the heart of Littau."
+            "de": "Ein prächtiger Holzbau aus dem Jahr 1866 im Dorfzentrum.",
+            "hu": "Egy impozáns, 1866-ból származó faépület a falu központjában.",
+            "ro": "O clădire magnifică din lemn din 1866, situată în centrul satului.",
+            "en": "A magnificent wooden building from 1866 in the village center."
           }
         },
         {
           "name": {
             "de": "Pfarrkirche St. Theodul",
-            "hu": "Szent Theodul plébániatemplom",
-            "ro": "Biserica parohială Sf. Theodul",
-            "en": "Parish Church of St. Theodul"
+            "hu": "Szent Teodul-plébániatemplom",
+            "ro": "Biserica Parohială Sf. Teodul",
+            "en": "St. Theodul Parish Church"
           },
           "coords": [
-            8.2655,
-            47.0505
+            8.265,
+            47.051
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "09:40",
+          "arrive_at": "09:55",
           "stay_min": 40,
-          "hop_mode": "walk",
           "hop_from_prev_min": 5,
           "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Suchen Sie nach den detaillierten Glasfenstern, die lokale Geschichten erzählen.",
-            "hu": "Keresse a részletgazdag ólomüveg ablakokat, melyek helyi történeteket mesélnek el.",
-            "ro": "Căutați vitraliile detaliate care spun povești locale.",
-            "en": "Look for the detailed stained-glass windows that tell local stories."
+            "de": "Achten Sie auf die barocken Altäre im Inneren.",
+            "hu": "Figyelje meg a belső tér barokk oltárait.",
+            "ro": "Admirați altarele baroce din interior.",
+            "en": "Pay attention to the baroque altars inside."
           }
         },
         {
           "name": {
             "de": "Gasthof Ochsen",
-            "hu": "Ochsen Fogadó",
+            "hu": "Ochsen fogadó",
             "ro": "Hanul Ochsen",
-            "en": "Gasthof Ochsen"
+            "en": "Ochsen Inn"
           },
           "coords": [
-            8.2665,
-            47.0515
+            8.267,
+            47.051
           ],
           "category": "famous residences",
-          "arrive_at": "10:25",
+          "arrive_at": "10:40",
           "stay_min": 80,
-          "hop_mode": "walk",
           "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
+          "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Ein idealer Ort für eine Kaffeepause oder ein frühes Mittagessen in einem historischen Gebäude.",
-            "hu": "Ideális hely egy kávészünetre vagy egy korai ebédre egy történelmi épületben.",
-            "ro": "Un loc ideal pentru o pauză de cafea sau un prânz devreme într-o clădire istorică.",
-            "en": "An ideal spot for a coffee break or an early lunch in a historic building."
+            "de": "Historisches Gebäude, ideal für eine traditionelle Mittagspause.",
+            "hu": "Történelmi épület, ideális egy hagyományos ebédszünethez.",
+            "ro": "Clădire istorică, ideală pentru o pauză de prânz tradițională.",
+            "en": "Historic building, ideal for a traditional lunch break."
           }
         },
         {
@@ -96,364 +93,42 @@
             "en": "Reuss Riverside Path"
           },
           "coords": [
-            8.278,
-            47.058
+            8.285,
+            47.065
           ],
           "category": "parks/promenades/beaches",
-          "arrive_at": "12:15",
-          "stay_min": 75,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 1.5,
-          "tip_5lang": {
-            "de": "Ein entspannender Spaziergang entlang des Flusses, perfekt um die Natur zu genießen.",
-            "hu": "Egy pihentető séta a folyó mentén, tökéletes a természet élvezetére.",
-            "ro": "O plimbare relaxantă de-a lungul râului, perfectă pentru a vă bucura de natură.",
-            "en": "A relaxing walk along the river, perfect for enjoying nature."
-          }
-        },
-        {
-          "name": {
-            "de": "Ruine Reussbühl",
-            "hu": "Reussbühl várrom",
-            "ro": "Ruinele Reussbühl",
-            "en": "Reussbühl Ruins"
-          },
-          "coords": [
-            8.281,
-            47.059
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "13:40",
+          "arrive_at": "12:20",
           "stay_min": 60,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.8,
-          "tip_5lang": {
-            "de": "Erklimmen Sie die Ruinen für einen schönen Blick auf die Reuss und die Umgebung.",
-            "hu": "Másszon fel a romokhoz a Reuss folyóra és a környékre nyíló gyönyörű kilátásért.",
-            "ro": "Urcați la ruine pentru o priveliște frumoasă asupra râului Reuss și a zonei înconjurătoare.",
-            "en": "Climb the ruins for a nice view over the Reuss river and the surrounding area."
-          }
-        },
-        {
-          "name": {
-            "de": "Littauer Berg",
-            "hu": "Littauer Berg",
-            "ro": "Muntele Littau",
-            "en": "Littauer Berg"
-          },
-          "coords": [
-            8.25,
-            47.045
-          ],
-          "category": "natural features",
-          "arrive_at": "15:45",
-          "stay_min": 90,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 85,
-          "hop_from_prev_km": 4.0,
-          "tip_5lang": {
-            "de": "Der Höhepunkt des Tages mit Panoramablick. Ideal für den Sonnenuntergang.",
-            "hu": "A nap fénypontja panorámás kilátással. Ideális hely a naplemente megtekintéséhez.",
-            "ro": "Punctul culminant al zilei, cu vederi panoramice. Ideal pentru apus.",
-            "en": "The high point of the day with panoramic views. Ideal for sunset."
-          }
-        }
-      ],
-      "narrative_4lang": {
-        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Littau, wo das Alte Schulhaus und die St. Theodul Kirche warten. Nach einer Stärkung im Gasthof Ochsen führt Sie ein gemütlicher Spaziergang zum Reuss-Uferweg, der Sie mit der Natur verbindet. Der Nachmittag ist der Erkundung der Ruine Reussbühl gewidmet, die einen Einblick in die Vergangenheit bietet. Der krönende Abschluss ist der Aufstieg auf den Littauer Berg, von wo aus Sie eine unvergessliche Aussicht auf die Region Luzern genießen können, während die Sonne untergeht.",
-        "hu": "Kezdje a napot Littau történelmi szívében, ahol a Régi Iskolaépület és a Szent Theodul-templom várja. Az Ochsen Fogadóban elfogyasztott frissítő után egy kellemes séta vezet a Reuss-parti úthoz, amely összeköti Önt a természettel. A délután a Reussbühl várrom felfedezésével telik, bepillantást nyújtva a múltba. A napot a Littauer Berg megmászása koronázza meg, ahonnan felejthetetlen kilátás nyílik a Luzerni régióra, miközben a nap lenyugszik.",
-        "ro": "Începeți ziua în inima istorică a orașului Littau, unde vă așteaptă Vechea Școală și Biserica Sf. Theodul. După o pauză revigorantă la Hanul Ochsen, o plimbare plăcută vă duce la poteca de pe malul râului Reuss, conectându-vă cu natura. După-amiaza este dedicată explorării Ruinelor Reussbühl, oferind o privire în trecut. Ziua culminează cu urcarea pe Muntele Littau, de unde vă puteți bucura de o priveliște de neuitat a regiunii Lucerna în timp ce soarele apune.",
-        "en": "Start your day in the historic heart of Littau, where the Old School House and St. Theodul Church await. After a refreshment at Gasthof Ochsen, a pleasant walk takes you to the Reuss riverside path, connecting you with nature. The afternoon is dedicated to exploring the Reussbühl Ruins, offering a glimpse into the past. The day culminates with the ascent of Littauer Berg, where you can enjoy an unforgettable view of the Lucerne region as the sun sets."
-      },
-      "gastro_picks": {
-        "de": [
-          {
-            "name": "Luzerner Chügelipastete",
-            "tip": "Probieren Sie diese lokale Spezialität in einem traditionellen Gasthof."
-          },
-          {
-            "name": "Gasthof Ochsen",
-            "tip": "Ein historisches Restaurant, das für seine gutbürgerliche Schweizer Küche bekannt ist."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Luzerni Chügelipastete (húsos pite)",
-            "tip": "Kóstolja meg ezt a helyi specialitást egy hagyományos fogadóban."
-          },
-          {
-            "name": "Gasthof Ochsen",
-            "tip": "Történelmi étterem, amely a kiadós svájci konyhájáról ismert."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Luzerner Chügelipastete (plăcintă cu carne)",
-            "tip": "Încercați această specialitate locală la un han tradițional."
-          },
-          {
-            "name": "Gasthof Ochsen",
-            "tip": "Un restaurant istoric renumit pentru bucătăria sa elvețiană consistentă."
-          }
-        ],
-        "en": [
-          {
-            "name": "Luzerner Chügelipastete (veal and mushroom pie)",
-            "tip": "Try this local specialty in a traditional inn."
-          },
-          {
-            "name": "Gasthof Ochsen",
-            "tip": "A historic restaurant known for its hearty Swiss cuisine."
-          }
-        ]
-      },
-      "quiet_picks": {
-        "de": [
-          {
-            "name": "Reuss-Uferweg",
-            "tip": "Ein ruhiger Spaziergang am Flussufer, um dem Trubel zu entfliehen.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Littauer Berg",
-            "tip": "Genießen Sie die Stille und den Panoramablick, besonders bei Sonnenuntergang.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Kapelle St. Niklaus",
-            "tip": "Ein friedlicher Ort der Besinnung abseits der Hauptwege.",
-            "emoji": "🧘"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Reuss-parti sétány",
-            "tip": "Egy csendes séta a folyóparton, hogy elmeneküljön a nyüzsgés elől.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Littauer Berg",
-            "tip": "Élvezze a csendet és a panorámát, különösen naplementekor.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Szent Miklós-kápolna",
-            "tip": "A elmélkedés békés helye, távol a főbb útvonalaktól.",
-            "emoji": "🧘"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Promenada de pe malul râului Reuss",
-            "tip": "O plimbare liniștită pe malul râului pentru a scăpa de agitație.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Muntele Littau",
-            "tip": "Bucurați-vă de liniște și de vederea panoramică, mai ales la apus.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Capela Sf. Nicolae",
-            "tip": "Un loc pașnic de contemplare, departe de potecile principale.",
-            "emoji": "🧘"
-          }
-        ],
-        "en": [
-          {
-            "name": "Reuss Riverside Path",
-            "tip": "A quiet walk along the riverbank to escape the hustle and bustle.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Littauer Berg",
-            "tip": "Enjoy the silence and the panoramic view, especially at sunset.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "St. Niklaus Chapel",
-            "tip": "A peaceful place for contemplation off the main paths.",
-            "emoji": "🧘"
-          }
-        ]
-      },
-      "shopping_picks": {
-        "de": [
-          {
-            "name": "Wochenmarkt in Luzern",
-            "tip": "Wenn Sie Zeit haben, besuchen Sie den nahegelegenen Markt für lokale Produkte."
-          }
-        ],
-        "hu": [
-          {
-            "name": "Hetipiac Luzernben",
-            "tip": "Ha van ideje, látogasson el a közeli piacra helyi termékekért."
-          }
-        ],
-        "ro": [
-          {
-            "name": "Piața săptămânală din Lucerna",
-            "tip": "Dacă aveți timp, vizitați piața din apropiere pentru produse locale."
-          }
-        ],
-        "en": [
-          {
-            "name": "Weekly Market in Lucerne",
-            "tip": "If you have time, visit the nearby market for local products."
-          }
-        ]
-      },
-      "tips": {
-        "de": [
-          "Tragen Sie bequeme Schuhe, da der Tag viel Laufen beinhaltet, besonders den Aufstieg zum Littauer Berg.",
-          "Nehmen Sie Wasser und Snacks mit, besonders für die Wanderung entlang der Reuss und zum Berg.",
-          "Prüfen Sie die Wettervorhersage; die Aussicht vom Littauer Berg ist bei klarem Himmel am besten."
-        ],
-        "hu": [
-          "Viseljen kényelmes cipőt, mivel a nap sok sétát tartalmaz, különösen a Littauer Berg-re való feljutást.",
-          "Vigyen magával vizet és rágcsálnivalót, különösen a Reuss menti túrához és a hegyre.",
-          "Ellenőrizze az időjárás-előrejelzést; a Littauer Berg-ről a kilátás tiszta időben a legjobb."
-        ],
-        "ro": [
-          "Purtați încălțăminte confortabilă, deoarece ziua implică mult mers pe jos, în special urcarea pe Muntele Littau.",
-          "Luați apă și gustări, mai ales pentru plimbarea de-a lungul râului Reuss și spre munte.",
-          "Verificați prognoza meteo; priveliștea de pe Muntele Littau este cea mai frumoasă pe cer senin."
-        ],
-        "en": [
-          "Wear comfortable shoes as the day involves a lot of walking, especially the ascent to Littauer Berg.",
-          "Bring water and snacks, especially for the hike along the Reuss and up the mountain.",
-          "Check the weather forecast; the view from Littauer Berg is best on a clear day."
-        ]
-      }
-    },
-    "bike": {
-      "mode": "bike",
-      "speed_kmh": 10,
-      "start": "09:00",
-      "end_estimate": "16:15",
-      "total_km": 12.5,
-      "stop_count": 6,
-      "stops": [
-        {
-          "name": {
-            "de": "Sonnenberg-Bahn Talstation",
-            "hu": "Sonnenberg-Bahn völgyállomás",
-            "ro": "Stația de vale Sonnenberg-Bahn",
-            "en": "Sonnenberg-Bahn Valley Station"
-          },
-          "coords": [
-            8.28,
-            47.045
-          ],
-          "category": "industrial heritage",
-          "arrive_at": "09:10",
-          "stay_min": 30,
-          "hop_mode": "bike",
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0,
-          "tip_5lang": {
-            "de": "Beginnen Sie mit einer Fahrt mit der historischen Standseilbahn.",
-            "hu": "Kezdje a napot egy utazással a történelmi siklón.",
-            "ro": "Începeți cu o călătorie cu funicularul istoric.",
-            "en": "Start with a ride on the historic funicular."
-          }
-        },
-        {
-          "name": {
-            "de": "Littauer Berg",
-            "hu": "Littauer Berg",
-            "ro": "Muntele Littau",
-            "en": "Littauer Berg"
-          },
-          "coords": [
-            8.25,
-            47.045
-          ],
-          "category": "natural features",
-          "arrive_at": "09:58",
-          "stay_min": 45,
-          "hop_mode": "bike",
-          "hop_from_prev_min": 18,
-          "hop_from_prev_km": 3.0,
-          "tip_5lang": {
-            "de": "Eine kurze Radtour vom Sonnenberg für eine atemberaubende Aussicht.",
-            "hu": "Egy rövid biciklitúra a Sonnenbergről a lélegzetelállító kilátásért.",
-            "ro": "O scurtă plimbare cu bicicleta de la Sonnenberg pentru vederi uimitoare.",
-            "en": "A short bike ride from Sonnenberg for breathtaking views."
-          }
-        },
-        {
-          "name": {
-            "de": "Ruine Reussbühl",
-            "hu": "Reussbühl várrom",
-            "ro": "Ruinele Reussbühl",
-            "en": "Reussbühl Ruins"
-          },
-          "coords": [
-            8.281,
-            47.059
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "11:03",
-          "stay_min": 50,
-          "hop_mode": "bike",
           "hop_from_prev_min": 20,
-          "hop_from_prev_km": 3.5,
-          "tip_5lang": {
-            "de": "Radle hinunter zur Reuss und erkunde die historischen Ruinen.",
-            "hu": "Tekerjen le a Reuss folyóhoz és fedezze fel a történelmi romokat.",
-            "ro": "Pedalați în jos spre Reuss și explorați ruinele istorice.",
-            "en": "Cycle down to the Reuss and explore the historic ruins."
-          }
-        },
-        {
-          "name": {
-            "de": "Reuss-Uferweg",
-            "hu": "Reuss-parti sétány",
-            "ro": "Promenada de pe malul râului Reuss",
-            "en": "Reuss Riverside Path"
-          },
-          "coords": [
-            8.278,
-            47.058
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "12:00",
-          "stay_min": 90,
-          "hop_mode": "bike",
-          "hop_from_prev_min": 7,
           "hop_from_prev_km": 1.0,
           "tip_5lang": {
-            "de": "Perfekt für eine Mittagspause und eine entspannte Radtour entlang des Flusses.",
-            "hu": "Tökéletes egy ebédszünetre és egy pihentető biciklizésre a folyó mentén.",
-            "ro": "Perfect pentru o pauză de prânz și o plimbare relaxantă cu bicicleta de-a lungul râului.",
-            "en": "Perfect for a lunch break and a relaxed cycle along the river."
+            "de": "Flacher Spazierweg direkt am Flussufer.",
+            "hu": "Sík sétány közvetlenül a folyó partján.",
+            "ro": "Traseu plat de plimbare direct pe malul râului.",
+            "en": "Flat walking path directly along the riverbank."
           }
         },
         {
           "name": {
-            "de": "Pfarrkirche St. Theodul",
-            "hu": "Szent Theodul plébániatemplom",
-            "ro": "Biserica parohială Sf. Theodul",
-            "en": "Parish Church of St. Theodul"
+            "de": "Ruine Reussbühl",
+            "hu": "Reussbühli romok",
+            "ro": "Ruinele Reussbühl",
+            "en": "Reussbühl Ruins"
           },
           "coords": [
-            8.2655,
-            47.0505
+            8.288,
+            47.062
           ],
-          "category": "churches/cathedrals",
-          "arrive_at": "13:45",
-          "stay_min": 40,
-          "hop_mode": "bike",
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:35",
+          "stay_min": 60,
           "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.5,
+          "hop_from_prev_km": 0.8,
           "tip_5lang": {
-            "de": "Ein kurzer Stopp, um das spirituelle Zentrum von Littau zu besichtigen.",
-            "hu": "Egy rövid megálló Littau spirituális központjának megtekintésére.",
-            "ro": "O scurtă oprire pentru a vizita centrul spiritual al orașului Littau.",
-            "en": "A brief stop to visit the spiritual center of Littau."
+            "de": "Einstige Burgstelle mit Blick auf den Zusammenfluss der Gewässer.",
+            "hu": "Egykori várhely, rálátással a vizek összefolyására.",
+            "ro": "Fost amplasament de castel cu vedere la confluența apelor.",
+            "en": "Former castle site with a view of the confluence of waters."
           }
         },
         {
@@ -461,71 +136,70 @@
             "de": "Kapelle St. Niklaus",
             "hu": "Szent Miklós-kápolna",
             "ro": "Capela Sf. Nicolae",
-            "en": "St. Niklaus Chapel"
+            "en": "St. Nicholas Chapel"
           },
           "coords": [
-            8.26,
-            47.053
+            8.29,
+            47.058
           ],
           "category": "churches/cathedrals",
-          "arrive_at": "14:40",
-          "stay_min": 65,
-          "hop_mode": "bike",
-          "hop_from_prev_min": 15,
-          "hop_from_prev_km": 2.5,
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Schließen Sie Ihre Tour mit einem Besuch dieser charmanten und ruhigen Kapelle ab.",
-            "hu": "Zárja a túrát ennek a bájos és csendes kápolnának a meglátogatásával.",
-            "ro": "Încheiați-vă turul cu o vizită la această capelă fermecătoare și liniștită.",
-            "en": "Conclude your tour with a visit to this charming and quiet chapel."
+            "de": "Eine kleine, besinnliche Kapelle am Wegrand.",
+            "hu": "Egy kicsi, elcsendesedésre alkalmas kápolna az út mentén.",
+            "ro": "O mică capelă liniștită la marginea drumului.",
+            "en": "A small, contemplative chapel by the wayside."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Starten Sie sportlich mit dem Rad am Sonnenberg und genießen Sie die Aussicht vom Littauer Berg. Von dort geht es hinab zur Reuss, wo die Ruine Reussbühl und der Uferweg auf Sie warten – ideal für eine ausgedehnte Mittagspause. Am Nachmittag radeln Sie ins Zentrum von Littau, um die spirituelle Atmosphäre der Pfarrkirche St. Theodul und der stillen Kapelle St. Niklaus zu erleben. Eine perfekte Mischung aus Natur, Geschichte und Kultur auf zwei Rädern.",
-        "hu": "Kezdje a napot aktívan a Sonnenbergen, és élvezze a kilátást a Littauer Bergről. Innen tekerjen le a Reuss folyóhoz, ahol a Reussbühl várrom és a parti sétány várja – ideális egy hosszabb ebédszünethez. Délután kerekezzen be Littau központjába, hogy megtapasztalja a Szent Theodul plébániatemplom és a csendes Szent Miklós-kápolna spirituális hangulatát. A természet, a történelem és a kultúra tökéletes keveréke két keréken.",
-        "ro": "Începeți activ cu bicicleta la Sonnenberg și bucurați-vă de priveliștea de pe Muntele Littau. De acolo, coborâți la râul Reuss, unde vă așteaptă Ruinele Reussbühl și promenada de pe mal – ideale pentru o pauză de prânz prelungită. După-amiaza, pedalați spre centrul orașului Littau pentru a experimenta atmosfera spirituală a Bisericii Parohiale Sf. Theodul și a liniștitei Capele Sf. Nicolae. Un amestec perfect de natură, istorie și cultură pe două roți.",
-        "en": "Start actively with a bike ride at Sonnenberg and enjoy the view from Littauer Berg. From there, cycle down to the Reuss river, where the Reussbühl Ruins and the riverside path await – ideal for an extended lunch break. In the afternoon, pedal into the center of Littau to experience the spiritual atmosphere of the Parish Church of St. Theodul and the quiet St. Niklaus Chapel. A perfect mix of nature, history, and culture on two wheels."
+        "de": "Beginnen Sie den Morgen im historischen Kern von Littau beim alten Schulhaus. Nach einem Besuch der Theodul-Kirche führt der Weg hinunter zur Reuss, wo Sie die idyllische Flusslandschaft genießen. Der Nachmittag gehört der Ruine Reussbühl und dem besinnlichen Abschluss bei der Kapelle St. Niklaus. Ein perfekter Mix aus Kultur und Natur am Rande Luzerns.",
+        "hu": "Kezdje a reggelt Littau történelmi központjában a régi iskolaépületnél. A Szent Teodul-templom megtekintése után az út a Reuss-partra vezet, ahol élvezheti a folyóparti nyugalmat. A délután a reussbühli romoké és a Szent Miklós-kápolna csendjéé. A túra a kultúra és a természet tökéletes keveréke Luzern tőszomszédságában.",
+        "ro": "Începeți dimineața în centrul istoric al orașului Littau, la vechea școală. După o vizită la Biserica Sf. Teodul, drumul coboară spre râul Reuss, unde vă puteți bucura de peisajul idilic de pe malul apei. După-amiaza este dedicată ruinelor Reussbühl și încheierii liniștite la Capela Sf. Nicolae. Un amestec perfect de cultură și natură lângă Lucerna.",
+        "en": "Start your morning in the historic core of Littau at the old schoolhouse. After visiting St. Theodul's Church, head down to the Reuss river to enjoy the idyllic waterside scenery. The afternoon is dedicated to the Reussbühl ruins and a contemplative finish at St. Nicholas Chapel. A perfect blend of culture and nature on the outskirts of Lucerne."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Picknick am Reuss-Ufer",
-            "tip": "Kaufen Sie lokale Produkte und genießen Sie ein Mittagessen im Freien."
+            "name": "Gasthof Ochsen",
+            "tip": "Traditionelle Schweizer Küche im historischen Ambiente."
           },
           {
-            "name": "Älplermagronen",
-            "tip": "Ein herzhaftes Schweizer Gericht, das nach einer Radtour perfekt ist."
+            "name": "Bäckerei Hug",
+            "tip": "Lokale Backwaren für den schnellen Hunger unterwegs."
           }
         ],
         "hu": [
           {
-            "name": "Piknik a Reuss partján",
-            "tip": "Vásároljon helyi termékeket és élvezze az ebédet a szabadban."
+            "name": "Gasthof Ochsen",
+            "tip": "Hagyományos svájci konyha történelmi környezetben."
           },
           {
-            "name": "Älplermagronen (svájci makaróni)",
-            "tip": "Egy kiadós svájci étel, amely tökéletes egy kerékpártúra után."
+            "name": "Bäckerei Hug",
+            "tip": "Helyi péksütemények gyors útközbeni étkezéshez."
           }
         ],
         "ro": [
           {
-            "name": "Picnic pe malul râului Reuss",
-            "tip": "Cumpărați produse locale și bucurați-vă de un prânz în aer liber."
+            "name": "Hanul Ochsen",
+            "tip": "Bucătărie tradițională elvețiană într-o ambianță istorică."
           },
           {
-            "name": "Älplermagronen",
-            "tip": "Un fel de mâncare elvețian consistent, perfect după o tură cu bicicleta."
+            "name": "Brutăria Hug",
+            "tip": "Produse locale de panificație pentru o gustare rapidă pe drum."
           }
         ],
         "en": [
           {
-            "name": "Picnic on the Reuss riverbank",
-            "tip": "Buy some local produce and enjoy lunch outdoors."
+            "name": "Gasthof Ochsen",
+            "tip": "Traditional Swiss cuisine in a historical setting."
           },
           {
-            "name": "Älplermagronen (Alpine Macaroni)",
-            "tip": "A hearty Swiss dish that's perfect after a bike ride."
+            "name": "Bakery Hug",
+            "tip": "Local baked goods for a quick snack on the go."
           }
         ]
       },
@@ -533,707 +207,1639 @@
         "de": [
           {
             "name": "Reuss-Uferweg",
-            "tip": "Finden Sie eine ruhige Bank und beobachten Sie das fließende Wasser.",
+            "tip": "Ruhiger Spaziergang fernab vom Verkehr.",
             "emoji": "🏞️"
           },
           {
             "name": "Kapelle St. Niklaus",
-            "tip": "Ein Ort der Stille und Einkehr.",
+            "tip": "Ort der Stille und Einkehr.",
             "emoji": "🧘"
-          },
-          {
-            "name": "Aussicht vom Littauer Berg",
-            "tip": "Ein Moment der Ruhe mit weitem Blick über das Land.",
-            "emoji": "🌅"
           }
         ],
         "hu": [
           {
             "name": "Reuss-parti sétány",
-            "tip": "Keressen egy csendes padot, és nézze a folyó vizét.",
+            "tip": "Csendes séta távol a forgalomtól.",
             "emoji": "🏞️"
           },
           {
             "name": "Szent Miklós-kápolna",
-            "tip": "A csend és a befelé fordulás helye.",
+            "tip": "A csend és az elmélyülés helye.",
             "emoji": "🧘"
-          },
-          {
-            "name": "Kilátás a Littauer Berg-ről",
-            "tip": "A nyugalom pillanata, messzire ellátva a tájon.",
-            "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Promenada de pe malul râului Reuss",
-            "tip": "Găsiți o bancă liniștită și priviți apa curgând.",
+            "name": "Promenada Reuss",
+            "tip": "O plimbare liniștită departe de trafic.",
             "emoji": "🏞️"
           },
           {
             "name": "Capela Sf. Nicolae",
-            "tip": "Un loc de liniște și contemplare.",
+            "tip": "Loc de liniște și meditație.",
             "emoji": "🧘"
-          },
-          {
-            "name": "Vedere de pe Muntele Littau",
-            "tip": "Un moment de liniște cu o priveliște vastă asupra peisajului.",
-            "emoji": "🌅"
           }
         ],
         "en": [
           {
-            "name": "Reuss Riverside Path",
-            "tip": "Find a quiet bench and watch the water flow by.",
+            "name": "Reuss River Path",
+            "tip": "Quiet walk away from the traffic noise.",
             "emoji": "🏞️"
           },
           {
-            "name": "St. Niklaus Chapel",
-            "tip": "A place of silence and contemplation.",
+            "name": "St. Nicholas Chapel",
+            "tip": "Place of silence and reflection.",
             "emoji": "🧘"
-          },
-          {
-            "name": "View from Littauer Berg",
-            "tip": "A moment of peace with a wide view over the land.",
-            "emoji": "🌅"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Hofläden in der Umgebung",
-            "tip": "Halten Sie Ausschau nach kleinen Bauernhofläden für frische, lokale Produkte."
+            "name": "Littauer Hofladen",
+            "tip": "Frische Produkte direkt vom Bauernhof."
           }
         ],
         "hu": [
           {
-            "name": "Termelői boltok a környéken",
-            "tip": "Keresse a kis gazdaságokat, ahol friss, helyi termékeket vásárolhat."
+            "name": "Littaui gazdabolt",
+            "tip": "Friss termékek közvetlenül a tanyáról."
           }
         ],
         "ro": [
           {
-            "name": "Magazine de fermă din zonă",
-            "tip": "Fiți atenți la micile magazine de la ferme pentru produse proaspete și locale."
+            "name": "Magazin fermă Littau",
+            "tip": "Produse proaspete direct de la fermă."
           }
         ],
         "en": [
           {
-            "name": "Farm shops in the area",
-            "tip": "Look out for small farm shops for fresh, local produce."
+            "name": "Littau Farm Shop",
+            "tip": "Fresh produce straight from the farm."
           }
         ]
       },
       "tips": {
         "de": [
-          "Stellen Sie sicher, dass Ihr Fahrrad für Hügel geeignet ist, besonders für den Anstieg zum Littauer Berg.",
-          "Ein Fahrradschloss ist unerlässlich, um Ihr Rad bei den Stopps sicher abzustellen.",
-          "Planen Sie genügend Zeit für Pausen ein, besonders am Flussufer."
+          "Gute Wanderschuhe sind für den Uferweg empfohlen.",
+          "Die Busverbindung nach Luzern ist sehr häufig.",
+          "Besuchen Sie den Gasthof Ochsen für authentische 'Rösti'."
         ],
         "hu": [
-          "Győződjön meg róla, hogy a kerékpárja alkalmas a dombos terepre, különösen a Littauer Berg-re való emelkedőhöz.",
-          "A kerékpárzár elengedhetetlen a megállók során a kerékpár biztonságos lezárásához.",
-          "Tervezzen elegendő időt a szünetekre, különösen a folyóparton."
+          "A folyóparti sétányhoz kényelmes gyaloglócipő ajánlott.",
+          "Luzernbe nagyon gyakoriak a buszjáratok.",
+          "Kóstolja meg az eredeti 'Röstit' az Ochsen fogadóban."
         ],
         "ro": [
-          "Asigurați-vă că bicicleta este potrivită pentru dealuri, în special pentru urcarea pe Muntele Littau.",
-          "Un lacăt pentru bicicletă este esențial pentru a o securiza în timpul opririlor.",
-          "Planificați suficient timp pentru pauze, mai ales pe malul râului."
+          "Se recomandă pantofi de mers confortabili pentru poteca de pe malul râului.",
+          "Legăturile de autobuz către Lucerna sunt foarte frecvente.",
+          "Vizitați Hanul Ochsen pentru o porție de 'Rösti' autentică."
         ],
         "en": [
-          "Make sure your bike is suitable for hills, especially for the climb to Littauer Berg.",
-          "A bike lock is essential to secure your bike at the stops.",
-          "Plan enough time for breaks, especially by the riverside."
+          "Good walking shoes are recommended for the riverside path.",
+          "Bus connections to Lucerne are very frequent.",
+          "Visit Gasthof Ochsen for authentic Swiss 'Rösti'."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt unter dem schützenden Dach der alten Schule. Die St. Theodul Kirche bietet einen trockenen Rückzugsort für die morgendliche Besichtigung. Mittags genießen wir die warme Gaststube im Ochsen, während es draußen regnet. Der Uferweg an der Reuss ist dank Asphalt gut begehbar. Die Ruinen wirken im Nebel mystisch. Den Abschluss bildet der Littauer Berg in einer feuchten, grünen Kulisse.",
+            "hu": "Reggel az iskolaépület ereszénél keressünk menedéket. A Szent Teodul-templom belső tere száraz pihenőt kínál a nézelődéshez. Ebédnél a Gasthof Ochsen történelmi falai között időzzünk tovább, amíg a zápor elvonul. Délután a Reuss-parti sétány aszfaltozott szakaszai jól járhatók. A reussbühli romok titokzatosak a ködben, a napot pedig a Littauer Berg párás lankáin zárjuk.",
+            "ro": "Dimineața începe sub streașina vechii școli. Biserica Sf. Teodul oferă un refugiu uscat pentru vizitarea interiorului. La prânz, ne bucurăm de atmosfera caldă de la Gasthof Ochsen în timp ce afară plouă. Poteca de pe malul râului Reuss este practicabilă datorită asfaltului. Ruinele par mistice în ceață. Încheiem ziua pe Littauer Berg, într-un peisaj verde și umed.",
+            "en": "The day starts under the protective eaves of the old school. St. Theodul Church provides a dry sanctuary for morning exploration. At noon, we enjoy the warm dining room of Gasthof Ochsen while it rains outside. The Reuss riverside path remains accessible thanks to its paved sections. The ruins look mystical in the mist. We end the day at Littauer Berg amidst a damp, lush green landscape."
+          },
+          "stops": [
+            {
+              "name": "Old School House Littau",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Dachüberstand als Regenschutz.",
+                "hu": "Használja az épület kiugró tetőjét esővédőként.",
+                "ro": "Folosiți streașina clădirii ca adăpost contra ploii.",
+                "en": "Use the building's overhang as rain protection."
+              }
+            },
+            {
+              "name": "Parish Church of St. Theodul",
+              "tip_5lang": {
+                "de": "Idealer Ort, um einen starken Schauer abzuwarten.",
+                "hu": "Ideális hely egy erősebb zápor kivárásához.",
+                "ro": "Loc ideal pentru a aștepta trecerea unei averse.",
+                "en": "Ideal spot to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Gasthof Ochsen",
+              "tip_5lang": {
+                "de": "Planen Sie hier eine längere Mittagspause ein.",
+                "hu": "Tervezzen ide egy hosszabb ebédszünetet.",
+                "ro": "Planificați aici o pauză de prânz mai lungă.",
+                "en": "Plan a longer lunch break here to stay dry."
+              }
+            },
+            {
+              "name": "Reuss Riverside Path",
+              "tip_5lang": {
+                "de": "Die befestigten Wege verhindern schlammige Schuhe.",
+                "hu": "A burkolt utak megvédik a cipőt a sártól.",
+                "ro": "Potecile pavate previn murdărirea încălțămintei.",
+                "en": "Paved paths prevent shoes from getting muddy."
+              }
+            },
+            {
+              "name": "Reussbühl Ruins",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen, rutschigen Steinen.",
+                "hu": "Vigyázat, a vizes kövek csúszósak lehetnek.",
+                "ro": "Atenție la pietrele umede și alunecoase.",
+                "en": "Be careful on the wet, slippery stones."
+              }
+            },
+            {
+              "name": "Littauer Berg",
+              "tip_5lang": {
+                "de": "Bei Nebel auf den markierten Wanderwegen bleiben.",
+                "hu": "Köd esetén maradjon a jelzett túraútvonalakon.",
+                "ro": "Rămâneți pe traseele marcate în caz de ceață.",
+                "en": "Stay on marked trails during foggy conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein großer Stockschirm ist bei dem Wind an der Reuss besser als ein Knirps.",
+              "Die Kirche St. Theodul ist meist tagsüber für Besucher geöffnet.",
+              "Tragen Sie wasserfeste Wanderschuhe für die unbefestigten Abschnitte am Berg.",
+              "Der Gasthof Ochsen hat einen überdachten Eingangsbereich.",
+              "Prüfen Sie die Sichtverhältnisse am Littauer Berg per Webcam."
+            ],
+            "hu": [
+              "A Reuss menti szélben egy stabil boternyő többet ér, mint az összecsukható.",
+              "A Szent Teodul-templom napközben általában nyitva áll a látogatók előtt.",
+              "Vízálló túrabakancs ajánlott a hegyi szakaszok fövenyes részeihez.",
+              "A Gasthof Ochsen fedett bejárattal rendelkezik a várakozáshoz.",
+              "Ellenőrizze a Littauer Berg látási viszonyait webkamerán."
+            ],
+            "ro": [
+              "O umbrelă mare este mai utilă decât una pliabilă din cauza vântului de pe Reuss.",
+              "Biserica Sf. Teodul este de obicei deschisă vizitatorilor în timpul zilei.",
+              "Purtați bocanci de drumeție impermeabili pentru porțiunile neasfaltate de pe munte.",
+              "Gasthof Ochsen are o zonă de intrare acoperită pentru așteptare.",
+              "Verificați vizibilitatea pe Littauer Berg prin intermediul camerelor web."
+            ],
+            "en": [
+              "A sturdy golf umbrella is better than a compact one due to river winds.",
+              "St. Theodul Church is usually open to visitors during the day.",
+              "Wear waterproof hiking boots for the unpaved sections on the mountain.",
+              "Gasthof Ochsen has a covered entrance area for waiting.",
+              "Check visibility conditions on Littauer Berg via local webcams."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft begrüßt uns an der alten Schule. In der St. Theodul Kirche zünden wir eine Kerze an und genießen die Stille. Ein deftiges Fondue im Ochsen wärmt uns zur Mittagszeit auf. Der Spaziergang an der Reuss führt an frostigen Ufern entlang. Die Ruinen ragen dunkel gegen den frühen Abendhimmel. Den Tag beschließen wir mit dem Sonnenuntergang auf dem Littauer Berg.",
+            "hu": "A friss téli levegő fogad minket a régi iskolánál. A Szent Teodul-templomban gyertyát gyújthatunk a csendes áhítathoz. Ebédre egy forró svájci tál melegít fel minket az Ochsenben. A Reuss menti séta fagyos partok mellett vezet el. A romok sötéten magasodnak a korai esti égbolt előtt. A napot a Littauer Berg havas lankáin, naplementekor zárjuk.",
+            "ro": "Aerul proaspăt de iarnă ne întâmpină la vechea școală. În Biserica Sf. Teodul aprindem o lumânare și ne bucurăm de liniște. Un prânz consistent la Ochsen ne încălzește la mijlocul zilei. Plimbarea pe lângă Reuss trece pe lângă maluri înghețate. Ruinele se înalță întunecate pe cerul serii timpurii. Încheiem ziua cu apusul de soare pe Littauer Berg.",
+            "en": "Crisp winter air greets us at the old schoolhouse. Inside St. Theodul Church, we light a candle and enjoy the silence. A hearty lunch at Ochsen warms us up midday. The walk along the Reuss follows frosty banks. The ruins stand dark against the early evening sky. We conclude the day watching the sunset from the snowy slopes of Littauer Berg."
+          },
+          "stops": [
+            {
+              "name": "Old School House Littau",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eiszapfen an den Dachrinnen.",
+                "hu": "Vigyázzon az ereszekről lelógó jégcsapokra.",
+                "ro": "Atenție la țurțurii de gheață de pe jgheaburi.",
+                "en": "Watch out for icicles hanging from the gutters."
+              }
+            },
+            {
+              "name": "Parish Church of St. Theodul",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause in den beheizten Bänken.",
+                "hu": "Rövid melegedő a fűtött templomi padokban.",
+                "ro": "Scurtă pauză de încălzire în băncile încălzite.",
+                "en": "Brief warm-up break in the heated pews."
+              }
+            },
+            {
+              "name": "Gasthof Ochsen",
+              "tip_5lang": {
+                "de": "Probieren Sie saisonale Wildgerichte oder Fondue.",
+                "hu": "Kóstolja meg a szezonális vadételeket vagy fonduet.",
+                "ro": "Gustați preparatele sezoniere din vânat sau fondue.",
+                "en": "Try the seasonal game dishes or cheese fondue."
+              }
+            },
+            {
+              "name": "Reuss Riverside Path",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung wegen der Zugluft.",
+                "hu": "Viseljen szélálló ruházatot a folyóparti huzat miatt.",
+                "ro": "Purtați haine rezistente la vânt pe malul râului.",
+                "en": "Wear windproof clothing due to the river breeze."
+              }
+            },
+            {
+              "name": "Reussbühl Ruins",
+              "tip_5lang": {
+                "de": "Der Boden kann bei Frost sehr glatt sein.",
+                "hu": "A talaj fagy esetén nagyon csúszós lehet.",
+                "ro": "Solul poate fi foarte alunecos în caz de îngheț.",
+                "en": "The ground can be very slippery during frost."
+              }
+            },
+            {
+              "name": "Littauer Berg",
+              "tip_5lang": {
+                "de": "Die Sonne geht hier im Winter gegen 16:40 Uhr unter.",
+                "hu": "A nap télen 16:40 körül nyugszik itt le.",
+                "ro": "Soarele apune aici iarna în jurul orei 16:40.",
+                "en": "Sunset occurs around 16:40 here in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche für den Aufstieg zum Berg.",
+              "In der Kirche ist es oft wärmer als draußen, ideal für eine Pause.",
+              "Die Sonne verschwindet früh hinter den Bergen, planen Sie das Licht ein.",
+              "Die Wege an der Reuss werden bei Schnee geräumt, sind aber oft vereist.",
+              "Ein heißer Tee in der Thermoskanne ist für den Berggipfel ratsam."
+            ],
+            "hu": [
+              "Viseljen termo alsóruházatot a hegyi kapaszkodóhoz.",
+              "A templomban gyakran melegebb van, mint kint, ideális egy pihenőre.",
+              "A nap korán eltűnik a hegyek mögött, számoljon a fénnyel.",
+              "A Reuss menti utakat letakarítják, de gyakran jegesek maradnak.",
+              "Tanácsos forró teát vinni termoszban a hegycsúcsra."
+            ],
+            "ro": [
+              "Purtați lenjerie termică pentru urcarea pe munte.",
+              "În biserică este adesea mai cald decât afară, ideal pentru o pauză.",
+              "Soarele dispare devreme după munți, planificați în funcție de lumină.",
+              "Căile de pe Reuss sunt curățate de zăpadă, dar adesea rămân înghețate.",
+              "Un ceai fierbinte într-un termos este recomandat pentru vârful muntelui."
+            ],
+            "en": [
+              "Wear thermal underwear for the climb up the mountain.",
+              "The church is often warmer than outside, ideal for a short break.",
+              "The sun disappears early behind the mountains, so plan for the light.",
+              "Reuss paths are cleared of snow but can often be icy.",
+              "A hot tea in a thermos is advisable for the mountain summit."
+            ]
+          }
+        }
       }
     },
-    "car": {
-      "mode": "car",
-      "speed_kmh": 28,
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
       "start": "09:00",
-      "end_estimate": "16:45",
-      "total_km": 11.4,
-      "stop_count": 7,
+      "end_estimate": "14:15",
+      "total_km": 6.8,
+      "stop_count": 5,
       "stops": [
         {
           "name": {
-            "de": "Parkplatz Littauer Berg",
-            "hu": "Parkoló a Littauer Berg-nél",
-            "ro": "Parcare Muntele Littau",
-            "en": "Littauer Berg Parking"
+            "de": "Altes Schulhaus",
+            "hu": "Régi iskola",
+            "ro": "Vechea școală",
+            "en": "Old Schoolhouse"
           },
           "coords": [
-            8.252,
-            47.046
+            8.264,
+            47.05
           ],
-          "category": "transport",
-          "arrive_at": "09:10",
-          "stay_min": 0,
-          "hop_mode": "car",
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0,
+          "category": "famous residences",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Parken Sie hier und beginnen Sie Ihre Erkundung des ersten Clusters.",
-            "hu": "Parkoljon itt, és kezdje meg az első klaszter felfedezését.",
-            "ro": "Parcați aici și începeți explorarea primului cluster.",
-            "en": "Park here and start your exploration of the first cluster."
+            "de": "Startpunkt im Herzen Littaus.",
+            "hu": "Kiindulópont Littau szívében.",
+            "ro": "Punct de plecare în inima orașului Littau.",
+            "en": "Starting point in the heart of Littau."
           }
         },
         {
           "name": {
             "de": "Littauer Berg",
             "hu": "Littauer Berg",
-            "ro": "Muntele Littau",
+            "ro": "Littauer Berg",
             "en": "Littauer Berg"
           },
           "coords": [
-            8.25,
+            8.245,
             47.045
           ],
           "category": "natural features",
-          "arrive_at": "09:15",
+          "arrive_at": "09:55",
           "stay_min": 40,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
           "tip_5lang": {
-            "de": "Ein kurzer Spaziergang vom Parkplatz zur besten Aussicht.",
-            "hu": "Egy rövid séta a parkolótól a legjobb kilátóponthoz.",
-            "ro": "O scurtă plimbare de la parcare la cea mai bună priveliște.",
-            "en": "A short walk from the parking lot to the best viewpoint."
-          }
-        },
-        {
-          "name": {
-            "de": "Sonnenberg-Bahn",
-            "hu": "Sonnenberg-Bahn",
-            "ro": "Sonnenberg-Bahn",
-            "en": "Sonnenberg-Bahn"
-          },
-          "coords": [
-            8.28,
-            47.045
-          ],
-          "category": "industrial heritage",
-          "arrive_at": "10:05",
-          "stay_min": 45,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0.5,
-          "tip_5lang": {
-            "de": "Erleben Sie ein Stück Technikgeschichte in der Nähe.",
-            "hu": "Tapasztalja meg a technikatörténet egy darabját a közelben.",
-            "ro": "Experimentați o bucată de istorie industrială în apropiere.",
-            "en": "Experience a piece of industrial history nearby."
-          }
-        },
-        {
-          "name": {
-            "de": "Parkplatz Reussbühl",
-            "hu": "Parkoló Reussbühlben",
-            "ro": "Parcare Reussbühl",
-            "en": "Reussbühl Parking"
-          },
-          "coords": [
-            8.28,
-            47.057
-          ],
-          "category": "transport",
-          "arrive_at": "11:10",
-          "stay_min": 0,
-          "hop_mode": "car",
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 5,
-          "tip_5lang": {
-            "de": "Fahren Sie zum nächsten Cluster und parken Sie in der Nähe der Reuss.",
-            "hu": "Vezessen a következő klaszterhez, és parkoljon a Reuss közelében.",
-            "ro": "Conduceți la următorul cluster și parcați lângă râul Reuss.",
-            "en": "Drive to the next cluster and park near the Reuss river."
-          }
-        },
-        {
-          "name": {
-            "de": "Ruine Reussbühl",
-            "hu": "Reussbühl várrom",
-            "ro": "Ruinele Reussbühl",
-            "en": "Reussbühl Ruins"
-          },
-          "coords": [
-            8.281,
-            47.059
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "11:15",
-          "stay_min": 50,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
-          "tip_5lang": {
-            "de": "Entdecken Sie die Ruinen nach einem kurzen Spaziergang vom Parkplatz aus.",
-            "hu": "Fedezze fel a romokat egy rövid séta után a parkolóból.",
-            "ro": "Explorați ruinele după o scurtă plimbare de la parcare.",
-            "en": "Explore the ruins after a short walk from the car park."
+            "de": "Anstrengender Aufstieg, aber tolle Aussicht.",
+            "hu": "Megterhelő emelkedő, de pazar kilátás.",
+            "ro": "Urcare solicitantă, dar vedere excelentă.",
+            "en": "Strenuous climb, but great view."
           }
         },
         {
           "name": {
             "de": "Reuss-Uferweg",
-            "hu": "Reuss-parti sétány",
-            "ro": "Promenada de pe malul râului Reuss",
-            "en": "Reuss Riverside Path"
+            "hu": "Reuss-parti út",
+            "ro": "Drumul Reuss",
+            "en": "Reuss Path"
           },
           "coords": [
-            8.278,
-            47.058
+            8.285,
+            47.065
           ],
           "category": "parks/promenades/beaches",
-          "arrive_at": "12:10",
-          "stay_min": 90,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
           "tip_5lang": {
-            "de": "Genießen Sie hier Ihre Mittagspause mit Blick auf den Fluss.",
-            "hu": "Élvezze itt az ebédszünetet a folyóra néző kilátással.",
-            "ro": "Bucurați-vă de pauza de prânz aici, cu vedere la râu.",
-            "en": "Enjoy your lunch break here with a view of the river."
+            "de": "Ebener Radweg entlang des Wassers.",
+            "hu": "Sík kerékpárút a víz mentén.",
+            "ro": "Pistă de biciclete plană de-a lungul apei.",
+            "en": "Flat bike path along the water."
           }
         },
         {
           "name": {
-            "de": "Parkplatz Zentrum",
-            "hu": "Parkoló a központban",
-            "ro": "Parcare Centru",
-            "en": "Center Parking"
+            "de": "Ruine Reussbühl",
+            "hu": "Reussbühli romok",
+            "ro": "Ruinele Reussbühl",
+            "en": "Reussbühl Ruins"
           },
           "coords": [
-            8.268,
+            8.288,
+            47.062
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kleiner Halt bei den Mauerresten.",
+            "hu": "Rövid megálló a maradványoknál.",
+            "ro": "Mică oprire la resturile de zid.",
+            "en": "Small stop at the wall remains."
+          }
+        },
+        {
+          "name": {
+            "de": "Gasthof Ochsen",
+            "hu": "Ochsen fogadó",
+            "ro": "Hanul Ochsen",
+            "en": "Ochsen Inn"
+          },
+          "coords": [
+            8.267,
             47.051
           ],
-          "category": "transport",
-          "arrive_at": "14:10",
-          "stay_min": 175,
-          "hop_mode": "car",
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 5,
+          "category": "famous residences",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Der letzte Stopp des Tages. Erkunden Sie das historische Zentrum von Littau.",
-            "hu": "A nap utolsó megállója. Fedezze fel Littau történelmi központját.",
-            "ro": "Ultima oprire a zilei. Explorați centrul istoric al orașului Littau.",
-            "en": "The final stop of the day. Explore the historic center of Littau."
+            "de": "Verdiente Erfrischung zum Abschluss.",
+            "hu": "Megérdemelt frissítő a végén.",
+            "ro": "O răcorire binemeritată la final.",
+            "en": "Well-deserved refreshment at the end."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Dieser Autotag ist in drei Cluster aufgeteilt, um das Beste von Littau zu erleben. Beginnen Sie auf dem Littauer Berg für eine fantastische Aussicht, gefolgt von einem Besuch der Sonnenberg-Bahn. Dann fahren Sie zum Reuss-Cluster, wo die Ruine Reussbühl und der entspannende Uferweg zum Mittagessen einladen. Der Nachmittag gehört dem historischen Herzen von Littau. Parken Sie Ihr Auto und schlendern Sie zum Alten Schulhaus, der St. Theodul Kirche und beenden Sie den Tag in einem lokalen Gasthof. Effizient und abwechslungsreich.",
-        "hu": "Ez az autós nap három klaszterre oszlik, hogy a legtöbbet hozza ki Littauból. Kezdjen a Littauer Berg-en a fantasztikus kilátásért, majd látogasson el a Sonnenberg-Bahn-hoz. Ezután vezessen a Reuss-klaszterhez, ahol a Reussbühl várrom és a pihentető folyóparti sétány invitálja ebédre. A délután Littau történelmi szívéé. Parkolja le az autót, sétáljon el a Régi Iskolaépülethez, a Szent Theodul-templomhoz, és fejezze be a napot egy helyi fogadóban. Hatékony és változatos.",
-        "ro": "Această zi cu mașina este împărțită în trei clustere pentru a experimenta tot ce este mai bun în Littau. Începeți pe Muntele Littau pentru o priveliște fantastică, urmată de o vizită la Sonnenberg-Bahn. Apoi, conduceți la clusterul Reuss, unde Ruinele Reussbühl și promenada relaxantă de pe malul râului vă invită la prânz. După-amiaza este dedicată inimii istorice a orașului Littau. Parcați mașina și plimbați-vă la Vechea Școală, Biserica Sf. Theodul și încheiați ziua la un han local. Eficient și variat.",
-        "en": "This car day is split into three clusters to experience the best of Littau. Start on Littauer Berg for fantastic views, followed by a visit to the Sonnenberg-Bahn. Then, drive to the Reuss cluster, where the Reussbühl Ruins and the relaxing riverside path invite you for lunch. The afternoon belongs to the historic heart of Littau. Park your car and stroll to the Old School House, St. Theodul Church, and end the day at a local inn. Efficient and diverse."
+        "de": "Diese Radtour kombiniert sportliche Herausforderung mit entspanntem Rollen am Fluss. Vom Littauer Berg genießen Sie das Panorama, bevor es flach entlang der Reuss zurückgeht. Ein kurzer Stopp bei der Ruine Reussbühl rundet den Ausflug ab.",
+        "hu": "Ez a biciklitúra ötvözi a sportos kihívást a folyóparti kényelmes gurulással. A Littauer Bergről élvezheti a panorámát, mielőtt sík terepen visszakerekezne a Reuss mentén. A reussbühli romoknál tett rövid megálló teszi teljessé a kirándulást.",
+        "ro": "Acest tur cu bicicleta combină provocarea sportivă cu rularea relaxată pe lângă râu. De pe Littauer Berg vă bucurați de panoramă înainte de a vă întoarce pe teren plat de-a lungul râului Reuss. O scurtă oprire la ruinele Reussbühl completează excursia.",
+        "en": "This bike tour combines athletic challenge with relaxed rolling by the river. Enjoy the panorama from Littauer Berg before heading back flat along the Reuss. A short stop at the Reussbühl ruins rounds off the excursion."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Zürcher Geschnetzeltes",
-            "tip": "Ein Schweizer Klassiker, den Sie im Gasthof Ochsen finden könnten."
-          },
-          {
-            "name": "Kaffee und Kuchen",
-            "tip": "Gönnen Sie sich am Nachmittag eine süße Pause."
+            "name": "Sonnenberg Restaurant",
+            "tip": "Panoramablick inklusive."
           }
         ],
         "hu": [
           {
-            "name": "Zürichi szelet (Zürcher Geschnetzeltes)",
-            "tip": "Egy svájci klasszikus, amelyet az Ochsen fogadóban találhat."
-          },
-          {
-            "name": "Kávé és sütemény",
-            "tip": "Kényeztesse magát egy édes szünettel délután."
+            "name": "Sonnenberg Étterem",
+            "tip": "Panorámával együtt."
           }
         ],
         "ro": [
           {
-            "name": "Zürcher Geschnetzeltes",
-            "tip": "Un clasic elvețian pe care l-ați putea găsi la Hanul Ochsen."
-          },
-          {
-            "name": "Cafea și prăjitură",
-            "tip": "Răsfățați-vă cu o pauză dulce după-amiaza."
+            "name": "Restaurantul Sonnenberg",
+            "tip": "Cu vedere panoramică inclusă."
           }
         ],
         "en": [
           {
-            "name": "Zürcher Geschnetzeltes (Sliced Veal Zurich Style)",
-            "tip": "A Swiss classic you might find at Gasthof Ochsen."
-          },
-          {
-            "name": "Coffee and Cake",
-            "tip": "Treat yourself to a sweet break in the afternoon."
+            "name": "Sonnenberg Restaurant",
+            "tip": "Panoramic view included."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Aussichtsplattform Littauer Berg",
-            "tip": "Der perfekte Ort, um den Tag in Ruhe zu beginnen.",
+            "name": "Littauer Berg",
+            "tip": "Ruhe über dem Tal.",
             "emoji": "🌅"
-          },
-          {
-            "name": "Bank am Reuss-Ufer",
-            "tip": "Lauschen Sie dem Rauschen des Flusses.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Inneres der Kapelle St. Niklaus",
-            "tip": "Ein Moment der Stille im Dorfzentrum.",
-            "emoji": "🧘"
           }
         ],
         "hu": [
           {
-            "name": "Littauer Berg kilátóterasz",
-            "tip": "Tökéletes hely a nap nyugodt kezdéséhez.",
+            "name": "Littauer Berg",
+            "tip": "Csend a völgy felett.",
             "emoji": "🌅"
-          },
-          {
-            "name": "Pad a Reuss partján",
-            "tip": "Hallgassa a folyó zúgását.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Szent Miklós-kápolna belseje",
-            "tip": "A csend pillanata a falu központjában.",
-            "emoji": "🧘"
           }
         ],
         "ro": [
           {
-            "name": "Platforma de observare Muntele Littau",
-            "tip": "Locul perfect pentru a începe ziua în liniște.",
+            "name": "Littauer Berg",
+            "tip": "Liniște deasupra văii.",
             "emoji": "🌅"
-          },
-          {
-            "name": "Bancă pe malul râului Reuss",
-            "tip": "Ascultați susurul râului.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Interiorul Capelei Sf. Nicolae",
-            "tip": "Un moment de liniște în centrul satului.",
-            "emoji": "🧘"
           }
         ],
         "en": [
           {
-            "name": "Littauer Berg viewing platform",
-            "tip": "The perfect place to start the day in peace.",
+            "name": "Littauer Berg",
+            "tip": "Quiet above the valley.",
             "emoji": "🌅"
-          },
-          {
-            "name": "Bench on the Reuss riverbank",
-            "tip": "Listen to the sound of the river.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Inside St. Niklaus Chapel",
-            "tip": "A moment of silence in the village center.",
-            "emoji": "🧘"
           }
         ]
       },
       "shopping_picks": {
         "de": [
           {
-            "name": "Lokale Bäckerei",
-            "tip": "Kaufen Sie ein frisches Brot oder Gebäck für Ihre Reise."
+            "name": "Landi Littau",
+            "tip": "Regionale Spezialitäten."
           }
         ],
         "hu": [
           {
-            "name": "Helyi pékség",
-            "tip": "Vásároljon friss kenyeret vagy péksüteményt az útra."
+            "name": "Landi Littau",
+            "tip": "Regionális különlegességek."
           }
         ],
         "ro": [
           {
-            "name": "Brutărie locală",
-            "tip": "Cumpărați pâine proaspătă sau produse de patiserie pentru călătoria dvs."
+            "name": "Landi Littau",
+            "tip": "Specialități regionale."
           }
         ],
         "en": [
           {
-            "name": "Local Bakery",
-            "tip": "Buy some fresh bread or pastries for your journey."
+            "name": "Landi Littau",
+            "tip": "Regional specialties."
           }
         ]
       },
       "tips": {
         "de": [
-          "Nutzen Sie die Cluster-Strategie, um Parkgebühren und Stress zu minimieren.",
-          "Die Straßen können eng sein, fahren Sie also vorsichtig.",
-          "Behalten Sie die Parkzeiten im Auge, um Strafzettel zu vermeiden."
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Littauer Berg.",
+          "Die Reuss-Route ist Teil nationaler Radwege."
         ],
         "hu": [
-          "Használja a klaszter-stratégiát a parkolási díjak és a stressz minimalizálására.",
-          "Az utak szűkek lehetnek, ezért vezessen óvatosan.",
-          "Tartsa szemmel a parkolási időket a bírságok elkerülése érdekében."
+          "Ellenőrizze a fékeket a Littauer Bergről való leereszkedés előtt.",
+          "A Reuss-útvonal a nemzeti kerékpárutak része."
         ],
         "ro": [
-          "Folosiți strategia cluster pentru a minimiza taxele de parcare și stresul.",
-          "Străzile pot fi înguste, așa că conduceți cu prudență.",
-          "Fiți atenți la timpii de parcare pentru a evita amenzile."
+          "Verificați frânele înainte de a coborî de pe Littauer Berg.",
+          "Traseul Reuss face parte din rețelele naționale de ciclism."
         ],
         "en": [
-          "Use the cluster strategy to minimize parking fees and stress.",
-          "The roads can be narrow, so drive carefully.",
-          "Keep an eye on parking times to avoid fines."
+          "Check your brakes before descending from Littauer Berg.",
+          "The Reuss route is part of national cycling networks."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten spritzgeschützt an der Talstation Sonnenberg. Die Auffahrt zum Littauer Berg erfordert heute gute Reifenhaftung auf nassem Asphalt. Die Ruinen Reussbühl bieten unter den Bäumen etwas Schutz. Entlang der Reuss spürt man die Gischt des Flusses. In der St. Theodul Kirche legen wir eine trockene Pause ein, bevor wir die St. Niklaus Kapelle als finalen Stopp erreichen.",
+            "hu": "Sárvédőkkel felszerelve indulunk a Sonnenberg völgyállomástól. A Littauer Berg-re való feljutás ma jó tapadást igényel a vizes aszfalton. A reussbühli romok a fák alatt adnak némi menedéket. A Reuss mentén érezni a folyó permetét. A Szent Teodul-templomban tartunk egy száraz pihenőt, mielőtt elérjük a Szent Miklós-kápolnát.",
+            "ro": "Pornim echipați cu aripi de protecție de la stația Sonnenberg. Urcarea pe Littauer Berg necesită o bună aderență a anvelopelor pe asfaltul ud. Ruinele Reussbühl oferă puțin adăpost sub copaci. Pe malul râului Reuss se simte stropirea apei. În Biserica Sf. Teodul facem o pauză uscată înainte de a ajunge la Capela Sf. Nicolae.",
+            "en": "We start with mudguards ready at the Sonnenberg valley station. The climb to Littauer Berg requires good tire grip on wet asphalt today. Reussbühl ruins offer some shelter under the trees. Along the Reuss, you can feel the spray from the river. We take a dry break at St. Theodul Church before reaching St. Niklaus Chapel as our final stop."
+          },
+          "stops": [
+            {
+              "name": "Sonnenberg-Bahn Valley Station",
+              "tip_5lang": {
+                "de": "Überdachter Bereich zum Vorbereiten der Regenkleidung.",
+                "hu": "Fedett terület az esőruházat elrendezéséhez.",
+                "ro": "Zonă acoperită pentru pregătirea echipamentului de ploaie.",
+                "en": "Covered area to prepare your rain gear."
+              }
+            },
+            {
+              "name": "Littauer Berg",
+              "tip_5lang": {
+                "de": "Vermeiden Sie riskante Kurvenlagen auf nasser Fahrbahn.",
+                "hu": "Kerülje a kockázatos kanyarodást a vizes úton.",
+                "ro": "Evitați înclinarea riscantă în curbe pe carosabil ud.",
+                "en": "Avoid risky cornering on the wet roadway."
+              }
+            },
+            {
+              "name": "Reussbühl Ruins",
+              "tip_5lang": {
+                "de": "Der Waldpfad kann heute schlammig sein.",
+                "hu": "Az erdei ösvény ma sáros lehet.",
+                "ro": "Poteca prin pădure poate fi noroioasă astăzi.",
+                "en": "The forest path may be muddy today."
+              }
+            },
+            {
+              "name": "Reuss Riverside Path",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen und rutschiges Laub.",
+                "hu": "Ügyeljen a tócsákra és a csúszós levelekre.",
+                "ro": "Atenție la bălți și frunze alunecoase.",
+                "en": "Watch out for puddles and slippery leaves."
+              }
+            },
+            {
+              "name": "Parish Church of St. Theodul",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich nahe dem Kircheneingang.",
+                "hu": "Kerékpártárolók a templombejárat közelében találhatók.",
+                "ro": "Suporturile pentru biciclete sunt lângă intrarea în biserică.",
+                "en": "Bike racks are located near the church entrance."
+              }
+            },
+            {
+              "name": "St. Niklaus Chapel",
+              "tip_5lang": {
+                "de": "Kleiner Unterstand direkt bei der Kapelle vorhanden.",
+                "hu": "Közvetlenül a kápolnánál kis beálló található.",
+                "ro": "Mic adăpost disponibil direct lângă capelă.",
+                "en": "Small shelter available directly by the chapel."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Reduzieren Sie den Reifendruck leicht für mehr Grip auf Nässe.",
+              "Vermeiden Sie das Bremsen auf Fahrbahnmarkierungen, sie sind spiegelglatt.",
+              "Ein Helmvisier oder eine Radbrille schützt die Augen vor Spritzwasser.",
+              "Ölen Sie die Kette nach der Tour, um Rost durch Regenwasser zu vermeiden.",
+              "Nutzen Sie helle Kleidung oder Warnwesten bei schlechter Sicht."
+            ],
+            "hu": [
+              "Csökkentse kissé a gumiabroncsnyomást a jobb tapadásért vizes úton.",
+              "Kerülje a fékezést az útburkolati jeleken, mert rendkívül csúsznak.",
+              "A sisakellenző vagy szemüveg védi a szemet a felcsapódó víztől.",
+              "A túra után olajozza meg a láncot a rozsdásodás megelőzésére.",
+              "Viseljen világos ruházatot vagy láthatósági mellényt rossz látási viszonyoknál."
+            ],
+            "ro": [
+              "Reduceți ușor presiunea în anvelope pentru aderență pe carosabil ud.",
+              "Evitați frânarea pe marcajele rutiere, sunt extrem de alunecoase.",
+              "O vizieră sau ochelari de ciclism protejează ochii de stropii de apă.",
+              "Lubrifiați lanțul după tură pentru a preveni rugina de la apă.",
+              "Folosiți haine deschise la culoare sau veste reflectorizante."
+            ],
+            "en": [
+              "Slightly reduce tire pressure for better grip on wet surfaces.",
+              "Avoid braking on road markings as they become mirror-slick.",
+              "A helmet visor or cycling glasses protect eyes from spray water.",
+              "Oil your chain after the tour to prevent rust from rainwater.",
+              "Use bright clothing or high-visibility vests in poor visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start an der Sonnenberg-Bahn eröffnet den Tag. Die Auffahrt zum Berg wärmt die Muskeln auf, doch die Abfahrt erfordert dichte Handschuhe. Bei den Ruinen knirscht der Reif unter den Reifen. Der Reussweg ist windig und kalt, aber menschenleer. Nach einer stillen Einkehr in der St. Theodul Kirche beenden wir die Tour an der einsamen St. Niklaus Kapelle.",
+            "hu": "Fagyos indulás a Sonnenberg-vasútnál nyitja meg a napot. A hegyi felkapaszkodás bemelegíti az izmokat, de a lejtmenethez vastag kesztyű kell. A romoknál zúzmara ropog a gumik alatt. A Reuss menti út szeles és hideg, de ilyenkor néptelen. A Szent Teodul-templomban tett csendes látogatás után a magányos Szent Miklós-kápolnánál fejezzük be a túrát.",
+            "ro": "Un start înghețat la Sonnenberg-Bahn deschide ziua. Urcarea pe munte încălzește mușchii, dar coborârea necesită mănuși groase. La ruine, chiciura scrâșnește sub anvelope. Drumul pe lângă Reuss este vântos și rece, dar pustiu. După o vizită liniștită la Biserica Sf. Teodul, încheiem tura la capela solitară Sf. Nicolae.",
+            "en": "A frosty start at the Sonnenberg-Bahn opens the day. The climb up the mountain warms the muscles, but the descent requires thick gloves. At the ruins, hoarfrost crunches under the tires. The Reuss path is windy and cold, but deserted. After a quiet visit to St. Theodul Church, we finish the tour at the lonely St. Niklaus Chapel."
+          },
+          "stops": [
+            {
+              "name": "Sonnenberg-Bahn Valley Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie vor Abfahrt die Funktion Ihrer Bremsen.",
+                "hu": "Indulás előtt ellenőrizze a fékek működését.",
+                "ro": "Verificați funcționarea frânelor înainte de plecare.",
+                "en": "Check your brakes' function before setting off."
+              }
+            },
+            {
+              "name": "Littauer Berg",
+              "tip_5lang": {
+                "de": "Achtung vor überfrierender Nässe in Waldschatten.",
+                "hu": "Vigyázzon a lefagyásokra az erdei árnyékos részeken.",
+                "ro": "Atenție la gheața neagră în zonele umbrite de pădure.",
+                "en": "Watch out for black ice in shaded forest areas."
+              }
+            },
+            {
+              "name": "Reussbühl Ruins",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Muskeln nicht auskühlen zu lassen.",
+                "hu": "Rövid megálló, ne hagyja kihűlni az izmait.",
+                "ro": "Oprire scurtă pentru a nu lăsa mușchii să se răcească.",
+                "en": "Short stop to keep muscles from cooling down."
+              }
+            },
+            {
+              "name": "Reuss Riverside Path",
+              "tip_5lang": {
+                "de": "Der kalte Wind vom Wasser her ist hier am stärksten.",
+                "hu": "Itt a legerősebb a víz felől fújó hideg szél.",
+                "ro": "Vântul rece de pe apă este cel mai puternic aici.",
+                "en": "The cold wind from the water is strongest here."
+              }
+            },
+            {
+              "name": "Parish Church of St. Theodul",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorraum zum kurzen Aufwärmen.",
+                "hu": "Használja az előteret egy rövid melegedéshez.",
+                "ro": "Folosiți vestibulul pentru o scurtă încălzire.",
+                "en": "Use the vestibule for a quick warm-up."
+              }
+            },
+            {
+              "name": "St. Niklaus Chapel",
+              "tip_5lang": {
+                "de": "Beleuchtung für die Rückfahrt jetzt einschalten.",
+                "hu": "Kapcsolja be a világítást a visszatéréshez.",
+                "ro": "Aprindeți luminile acum pentru drumul de întoarcere.",
+                "en": "Turn on your lights now for the return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere dünne Schichten (Zwiebelprinzip).",
+              "Warme Fußsohlen sind wichtig; Winterschuhe oder Überzieher nutzen.",
+              "Akkus von E-Bikes entladen sich bei Kälte schneller; warm lagern.",
+              "Vermeiden Sie hektische Lenkbewegungen auf möglicherweise glatten Wegen.",
+              "Die Dämmerung setzt im Tal früher ein als auf den Anhöhen."
+            ],
+            "hu": [
+              "Alkalmazza a réteges öltözködés (hagyma) elvét.",
+              "A meleg talp fontos; használjon téli cipőt vagy kamáslit.",
+              "Az e-bike akkumulátorok hidegben gyorsabban merülnek; tárolja melegen.",
+              "Kerülje a hirtelen kormánymozdulatokat az esetlegesen csúszós utakon.",
+              "A szürkület a völgyben korábban beáll, mint a magaslatokon."
+            ],
+            "ro": [
+              "Aplicați principiul straturilor (ceapă) pentru îmbrăcăminte.",
+              "Picioarele calde sunt importante; folosiți pantofi de iarnă sau huse.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Evitați mișcările bruște de direcție pe drumurile posibil alunecoase.",
+              "Amurgul se instalează mai devreme în vale decât pe dealuri."
+            ],
+            "en": [
+              "Apply the layering principle for your clothing.",
+              "Warm feet are crucial; use winter shoes or shoe covers.",
+              "E-bike batteries discharge faster in the cold; store them warm.",
+              "Avoid sudden steering movements on potentially slippery paths.",
+              "Dusk sets in earlier in the valley than on the heights."
+            ]
+          }
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:23",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Schulhaus (C1)",
+            "hu": "Régi iskola (C1)",
+            "ro": "Vechea școală (C1)",
+            "en": "Old Schoolhouse (C1)"
+          },
+          "coords": [
+            8.264,
+            47.05
+          ],
+          "category": "famous residences",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken im Dorfzentrum.",
+            "hu": "Parkolás a faluközpontban.",
+            "ro": "Parcare în centrul satului.",
+            "en": "Parking in the village center."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche St. Theodul (C1)",
+            "hu": "Szent Teodul-templom (C1)",
+            "ro": "Biserica Sf. Teodul (C1)",
+            "en": "St. Theodul Church (C1)"
+          },
+          "coords": [
+            8.265,
+            47.051
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Schulhaus.",
+            "hu": "Rövid séta az iskolaépülettől.",
+            "ro": "Scurtă plimbare de la școală.",
+            "en": "Short walk from the schoolhouse."
+          }
+        },
+        {
+          "name": {
+            "de": "Gasthof Ochsen (C1)",
+            "hu": "Ochsen fogadó (C1)",
+            "ro": "Hanul Ochsen (C1)",
+            "en": "Ochsen Inn (C1)"
+          },
+          "coords": [
+            8.267,
+            47.051
+          ],
+          "category": "famous residences",
+          "arrive_at": "10:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Traditionelles Mittagessen.",
+            "hu": "Hagyományos ebéd.",
+            "ro": "Prânz tradițional.",
+            "en": "Traditional lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruine Reussbühl (C2)",
+            "hu": "Reussbühli romok (C2)",
+            "ro": "Ruinele Reussbühl (C2)",
+            "en": "Reussbühl Ruins (C2)"
+          },
+          "coords": [
+            8.288,
+            47.062
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahrt zum Cluster Reussbühl.",
+            "hu": "Autózás a Reussbühl klaszterhez.",
+            "ro": "Deplasare către clusterul Reussbühl.",
+            "en": "Drive to Reussbühl cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle St. Niklaus (C2)",
+            "hu": "Szent Miklós-kápolna (C2)",
+            "ro": "Capela Sf. Nicolae (C2)",
+            "en": "St. Nicholas Chapel (C2)"
+          },
+          "coords": [
+            8.29,
+            47.058
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zu Fuß von der Ruine erreichbar.",
+            "hu": "Gyalog elérhető a romoktól.",
+            "ro": "Accesibil pe jos de la ruine.",
+            "en": "Accessible on foot from the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenberg-Bahn (C3)",
+            "hu": "Sonnenberg-vasút (C3)",
+            "ro": "Calea ferată Sonnenberg (C3)",
+            "en": "Sonnenberg Funicular (C3)"
+          },
+          "coords": [
+            8.278,
+            47.043
+          ],
+          "category": "industrial heritage",
+          "arrive_at": "14:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Historische Standseilbahn zum Berg.",
+            "hu": "Történelmi sikló a hegyre.",
+            "ro": "Funicular istoric către munte.",
+            "en": "Historic funicular to the mountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Littauer Berg (C3)",
+            "hu": "Littauer Berg (C3)",
+            "ro": "Littauer Berg (C3)",
+            "en": "Littauer Berg (C3)"
+          },
+          "coords": [
+            8.245,
+            47.045
+          ],
+          "category": "natural features",
+          "arrive_at": "15:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Abschluss mit Panoramablick.",
+            "hu": "Zárás panorámás kilátással.",
+            "ro": "Final cu vedere panoramică.",
+            "en": "Finish with a panoramic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Littau und Umgebung bequem mit dem Auto in drei Etappen. Zuerst das historische Dorfzentrum, dann die Sehenswürdigkeiten an der Reuss und zum Abschluss die Höhen des Sonnenbergs. Dank kurzer Fußwege in den Clustern bleibt die Tour entspannt und abwechslungsreich.",
+        "hu": "Fedezze fel Littaut és környékét kényelmesen, autóval, három szakaszban. Először a történelmi faluközpontot, majd a Reuss menti látnivalókat, végül pedig a Sonnenberg magaslatait. A klasztereken belüli rövid sétáknak köszönhetően a túra pihentető és változatos marad.",
+        "ro": "Explorați Littau și împrejurimile sale confortabil cu mașina în trei etape. Mai întâi centrul istoric al satului, apoi atracțiile de pe râul Reuss și, în final, înălțimile Sonnenberg. Datorită plimbărilor scurte în cadrul clusterelor, turul rămâne relaxat și variat.",
+        "en": "Explore Littau and its surroundings comfortably by car in three stages. First the historic village center, then the sights along the Reuss, and finally the heights of Sonnenberg. Thanks to short walks within the clusters, the tour remains relaxed and diverse."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sonnenberg",
+            "tip": "Restaurant mit Aussichtsterrasse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sonnenberg",
+            "tip": "Étterem kilátóterasszal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sonnenberg",
+            "tip": "Restaurant cu terasă panoramică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sonnenberg",
+            "tip": "Restaurant with a panoramic terrace."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sonnenberg Wald",
+            "tip": "Ruhige Waldwege am Berg.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sonnenbergi erdő",
+            "tip": "Csendes erdei utak a hegyen.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Sonnenberg",
+            "tip": "Poteci forestiere liniștite pe munte.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sonnenberg Forest",
+            "tip": "Quiet forest paths on the mountain.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Emmen Center",
+            "tip": "Großes Einkaufszentrum in der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Emmen Center",
+            "tip": "Nagy bevásárlóközpont a közelben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Emmen Center",
+            "tip": "Centru comercial mare în apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Emmen Center",
+            "tip": "Large shopping mall nearby."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Blaue Zone Parkplätze im Zentrum beachten.",
+          "Die Sonnenberg-Bahn ist ein Erlebnis für Kinder."
+        ],
+        "hu": [
+          "Ügyeljen a kék zónás parkolóhelyekre a központban.",
+          "A Sonnenberg-vasút élmény a gyerekeknek."
+        ],
+        "ro": [
+          "Atenție la locurile de parcare din zona albastră din centru.",
+          "Calea ferată Sonnenberg este o experiență pentru copii."
+        ],
+        "en": [
+          "Pay attention to blue zone parking spaces in the center.",
+          "The Sonnenberg funicular is an experience for children."
+        ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir parken bequem am Littauer Berg und genießen den Ausblick aus dem trockenen Wagen. Die Fahrt führt weiter zur Sonnenberg-Bahn, wo wir trotz Regen die Aussichtspunkte ansteuern. Bei Reussbühl parken wir direkt am Zugang zu den Ruinen. Den Mittagsschauer verbringen wir am Flussufer, bevor wir im Stadtzentrum in ein Parkhaus einfahren, um die restliche Zeit im Trockenen zu verbringen.",
+            "hu": "Kényelmesen parkolunk a Littauer Bergnél, és a száraz autóból élvezzük a kilátást. Utunk a Sonnenberg-vasúthoz vezet, ahol az eső ellenére is felkeressük a kilátópontokat. Reussbühlben közvetlenül a romok bejáratánál állunk meg. A déli záport a folyóparton töltjük, majd a városközpontban parkolóházba hajtunk, hogy a nap hátralévő részét szárazon töltsük.",
+            "ro": "Parcăm confortabil pe Littauer Berg și admirăm priveliștea din mașina uscată. Drumul continuă spre Sonnenberg-Bahn, unde vizităm punctele de belvedere în ciuda ploii. La Reussbühl parcăm direct la accesul către ruine. Petrecem aversa de prânz pe malul râului, înainte de a intra într-o parcare supraetajată din centrul orașului pentru a rămâne la adăpost.",
+            "en": "We park conveniently at Littauer Berg and enjoy the view from the dry car. The drive continues to Sonnenberg-Bahn, visiting viewpoints despite the rain. At Reussbühl, we park directly at the ruins' access point. We spend the midday shower by the river before heading to a multi-story car park in the center to stay dry for the rest of the day."
+          },
+          "stops": [
+            {
+              "name": "Littauer Berg Parking",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz als Basis für kurze Fotostopps.",
+                "hu": "Használja a parkolót bázisként rövid fotómegállókhoz.",
+                "ro": "Folosiți parcarea ca bază pentru scurte opriri foto.",
+                "en": "Use the parking lot as a base for quick photo stops."
+              }
+            },
+            {
+              "name": "Littauer Berg",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto, falls der Regen zu stark wird.",
+                "hu": "Maradjon az autóban, ha az eső túl erőssé válik.",
+                "ro": "Rămâneți în mașină dacă ploaia devine prea puternică.",
+                "en": "Stay in the car if the rain becomes too heavy."
+              }
+            },
+            {
+              "name": "Sonnenberg-Bahn",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Parkplatz und Station nutzen.",
+                "hu": "Használja ki a parkoló és az állomás közti rövid utat.",
+                "ro": "Folosiți distanța scurtă între parcare și stație.",
+                "en": "Take advantage of the short distance between parking and station."
+              }
+            },
+            {
+              "name": "Reussbühl Parking",
+              "tip_5lang": {
+                "de": "Schattenplätze unter Bäumen meiden (herabfallende Äste).",
+                "hu": "Kerülje a fák alatti árnyékos helyeket (lehulló ágak).",
+                "ro": "Evitați locurile sub copaci (crengi care pot cădea).",
+                "en": "Avoid shaded spots under trees due to falling branches."
+              }
+            },
+            {
+              "name": "Reussbühl Ruins",
+              "tip_5lang": {
+                "de": "Schneller Rückzug zum Auto bei Gewitter möglich.",
+                "hu": "Vihar esetén gyorsan visszahúzódhat az autóba.",
+                "ro": "Retragere rapidă la mașină posibilă în caz de furtună.",
+                "en": "Quick retreat to the car possible during storms."
+              }
+            },
+            {
+              "name": "Reuss Riverside Path",
+              "tip_5lang": {
+                "de": "Parken Sie nahe der Brücke für trockenen Zugang.",
+                "hu": "Parkoljon a híd közelében a száraz bejutáshoz.",
+                "ro": "Parcați lângă pod pentru un acces uscat.",
+                "en": "Park near the bridge for dry access."
+              }
+            },
+            {
+              "name": "Center Parking",
+              "tip_5lang": {
+                "de": "Parkhäuser bieten Schutz vor Wind und Wetter.",
+                "hu": "A parkolóházak védelmet nyújtanak a szél és eső elől.",
+                "ro": "Parcările acoperite oferă protecție contra intemperiilor.",
+                "en": "Parking garages offer protection from wind and weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand der Wischerblätter vor der Abfahrt.",
+              "Vermeiden Sie das Parken in tiefen Pfützen, um nasse Füße zu sparen.",
+              "Die Fenster beschlagen bei Regen schnell; Klimaanlage nutzen.",
+              "In der Nähe der Reuss kann es bei Starkregen zu Sperrungen kommen.",
+              "Ein Regenschirm im Türfach sollte immer griffbereit sein."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlő lapátok állapotát.",
+              "Kerülje a mély tócsákban való parkolást a vizes lábak elkerülése végett.",
+              "Az ablakok esőben gyorsan párásodnak; használja a klímát.",
+              "A Reuss közelében heves esőzéskor útlezárások fordulhatnak elő.",
+              "Az ajtózsebben elhelyezett esernyő mindig legyen kéznél."
+            ],
+            "ro": [
+              "Verificați starea lamelelor ștergătoarelor înainte de plecare.",
+              "Evitați parcarea în bălți adânci pentru a nu vă uda la picioare.",
+              "Geamurile se aburesc repede la ploaie; folosiți aerul condiționat.",
+              "Lângă Reuss pot apărea închideri de drumuri la ploi torențiale.",
+              "O umbrelă în buzunarul portierei trebuie să fie mereu la îndemână."
+            ],
+            "en": [
+              "Check the condition of your wiper blades before setting off.",
+              "Avoid parking in deep puddles to keep your feet dry.",
+              "Windows fog up quickly in the rain; use the air conditioning.",
+              "Road closures may occur near the Reuss during heavy rainfall.",
+              "Always keep an umbrella handy in the door pocket."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir starten mit freigekratzten Scheiben am Parkplatz Littauer Berg. Die Heizung läuft, während wir die verschneite Landschaft überblicken. Über die Sonnenberg-Bahn geht es nach Reussbühl, wo die Parkplätze oft vereist sind. Der Flussweg wirkt im Winterlicht besonders klar. Den Nachmittag verbringen wir flexibel zwischen den Sehenswürdigkeiten, bevor wir im Zentrum ein warmes Parkhaus aufsuchen.",
+            "hu": "Jégmentesített szélvédővel indulunk a Littauer Berg parkolójából. A fűtés jár, miközben belátjuk a havas tájat. A Sonnenberg-vasúton át Reussbühlbe megyünk, ahol a parkolók gyakran jegesek. A folyóparti út a téli fényben különösen tiszta. A délutánt rugalmasan töltjük a látnivalók között, majd a központban egy meleg parkolóházban állunk meg.",
+            "ro": "Pornim cu parbrizul curățat de gheață din parcarea Littauer Berg. Încălzirea funcționează în timp ce admirăm peisajul înzăpezit. Mergem spre Reussbühl via Sonnenberg, unde parcările sunt adesea înghețate. Drumul de pe malul râului pare clar în lumina iernii. Petrecem după-amiaza flexibil între obiective, înainte de a opri într-o parcare caldă în centru.",
+            "en": "We start with cleared windshields at the Littauer Berg parking lot. The heater is on as we overlook the snowy landscape. We drive via Sonnenberg to Reussbühl, where parking lots are often icy. The riverside path looks especially clear in the winter light. We spend the afternoon flexibly visiting sights before stopping in a warm parking garage in the center."
+          },
+          "stops": [
+            {
+              "name": "Littauer Berg Parking",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf glatten Parkflächen.",
+                "hu": "Vigyázzon a kiszálláskor a csúszós parkolófelületen.",
+                "ro": "Atenție la coborâre pe suprafețele de parcare alunecoase.",
+                "en": "Be careful when getting out on slippery parking surfaces."
+              }
+            },
+            {
+              "name": "Littauer Berg",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul să meargă inutil la ralanti.",
+                "en": "Do not let the engine idle unnecessarily."
+              }
+            },
+            {
+              "name": "Sonnenberg-Bahn",
+              "tip_5lang": {
+                "de": "Parkplätze sind hier bei Schnee oft begrenzt.",
+                "hu": "A parkolóhelyek itt hó esetén gyakran korlátozottak.",
+                "ro": "Locurile de parcare sunt adesea limitate aici când ninge.",
+                "en": "Parking spaces are often limited here during snow."
+              }
+            },
+            {
+              "name": "Reussbühl Parking",
+              "tip_5lang": {
+                "de": "Räumdienste können Parkplätze vorübergehend blockieren.",
+                "hu": "A hókotrók átmenetileg elzárhatják a parkolókat.",
+                "ro": "Serviciile de deszăpezire pot bloca temporar parcările.",
+                "en": "Snow removal services may temporarily block parking spots."
+              }
+            },
+            {
+              "name": "Reussbühl Ruins",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick, solange die Heizung noch wärmt.",
+                "hu": "Élvezze a kilátást, amíg a fűtés még tartja a meleget.",
+                "ro": "Admirați priveliștea cât timp încălzirea mai menține căldura.",
+                "en": "Enjoy the view while the heater still keeps you warm."
+              }
+            },
+            {
+              "name": "Reuss Riverside Path",
+              "tip_5lang": {
+                "de": "Anfahrt über geräumte Hauptstraßen bevorzugen.",
+                "hu": "Válassza a letakarított főutakon való megközelítést.",
+                "ro": "Preferați accesul pe drumurile principale deszăpezite.",
+                "en": "Prefer access via cleared main roads."
+              }
+            },
+            {
+              "name": "Center Parking",
+              "tip_5lang": {
+                "de": "Ein warmes Parkhaus schont die Autobatterie.",
+                "hu": "A meleg parkolóház kíméli az autó akkumulátorát.",
+                "ro": "O parcare încălzită protejează bateria mașinii.",
+                "en": "A warm parking garage preserves the car battery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und ein Eiskratzer sind absolut zwingend.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Achten Sie auf Räumfahrzeuge, besonders in den Nebenstraßen am Berg.",
+              "Tiefgaragen im Zentrum verhindern das erneute Einfrieren der Scheiben.",
+              "Führen Sie eine warme Decke für Notfälle im Kofferraum mit."
+            ],
+            "hu": [
+              "A téli gumi és a jégkaparó abszolút kötelező.",
+              "Töltsön fagyállót a szélvédőmosó tartályba.",
+              "Ügyeljen a hókotrókra, különösen a hegyi mellékutcákban.",
+              "A központi mélygarázsok megakadályozzák az ablakok újrajegesedését.",
+              "Vészhelyzet esetére tartson egy meleg takarót a csomagtartóban."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și racleta pentru gheață sunt obligatorii.",
+              "Puneți lichid de parbriz antigel în rezervor.",
+              "Atenție la utilajele de deszăpezire, mai ales pe străzile secundare.",
+              "Parcările subterane din centru previn reînghețarea geamurilor.",
+              "Țineți o pătură caldă în portbagaj pentru situații de urgență."
+            ],
+            "en": [
+              "Winter tires and an ice scraper are absolutely mandatory.",
+              "Fill your windshield washer reservoir with antifreeze fluid.",
+              "Watch out for snowplows, especially on side roads up the mountain.",
+              "Underground garages in the center prevent windows from refreezing.",
+              "Carry a warm blanket in the trunk for emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
       "mode": "transit",
       "speed_kmh": 15,
       "start": "09:00",
-      "end_estimate": "17:00",
-      "total_km": 8.4,
+      "end_estimate": "15:15",
+      "total_km": 8.5,
       "stop_count": 6,
       "stops": [
         {
           "name": {
-            "de": "Bushaltestelle Littau Gasshof",
-            "hu": "Littau Gasshof buszmegálló",
-            "ro": "Stația de autobuz Littau Gasshof",
-            "en": "Littau Gasshof Bus Stop"
+            "de": "Altes Schulhaus (Littau Dorf)",
+            "hu": "Régi iskola (Littau Dorf)",
+            "ro": "Vechea școală (Littau Dorf)",
+            "en": "Old Schoolhouse (Littau Dorf)"
           },
           "coords": [
-            8.267,
-            47.051
-          ],
-          "category": "transport",
-          "arrive_at": "09:10",
-          "stay_min": 0,
-          "hop_mode": "transit",
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0,
-          "tip_5lang": {
-            "de": "Starten Sie im Zentrum von Littau, dem ersten Cluster.",
-            "hu": "Kezdje a napot Littau központjában, az első klaszterben.",
-            "ro": "Începeți în centrul orașului Littau, primul cluster.",
-            "en": "Start in the center of Littau, the first cluster."
-          }
-        },
-        {
-          "name": {
-            "de": "Altes Schulhaus & Pfarrkirche",
-            "hu": "Régi Iskola és Plébániatemplom",
-            "ro": "Vechea Școală și Biserica Parohială",
-            "en": "Old Schoolhouse & Parish Church"
-          },
-          "coords": [
-            8.266,
-            47.0505
+            8.264,
+            47.05
           ],
           "category": "famous residences",
-          "arrive_at": "09:15",
-          "stay_min": 60,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
           "tip_5lang": {
-            "de": "Erkunden Sie diese beiden historischen Sehenswürdigkeiten zu Fuß.",
-            "hu": "Fedezze fel ezt a két történelmi látnivalót gyalog.",
-            "ro": "Explorați aceste două obiective istorice pe jos.",
-            "en": "Explore these two historic sights on foot."
+            "de": "Bus Nr. 12 ab Luzern Bhf.",
+            "hu": "12-es busz Luzern főpályaudvartól.",
+            "ro": "Autobuzul nr. 12 de la Gara Lucerna.",
+            "en": "Bus No. 12 from Lucerne station."
           }
         },
         {
           "name": {
-            "de": "Bushaltestelle Reussbühl",
-            "hu": "Reussbühl buszmegálló",
-            "ro": "Stația de autobuz Reussbühl",
-            "en": "Reussbühl Bus Stop"
+            "de": "Pfarrkirche St. Theodul",
+            "hu": "Szent Teodul-templom",
+            "ro": "Biserica Sf. Teodul",
+            "en": "St. Theodul Church"
           },
           "coords": [
-            8.28,
-            47.057
+            8.265,
+            47.051
           ],
-          "category": "transport",
-          "arrive_at": "10:35",
-          "stay_min": 0,
-          "hop_mode": "transit",
-          "hop_from_prev_min": 20,
-          "hop_from_prev_km": 4.0,
+          "category": "churches/cathedrals",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
           "tip_5lang": {
-            "de": "Nehmen Sie den Bus zum zweiten Cluster am Fluss.",
-            "hu": "Menjen busszal a második, folyóparti klaszterhez.",
-            "ro": "Luați autobuzul spre al doilea cluster, lângă râu.",
-            "en": "Take the bus to the second cluster by the river."
+            "de": "Zu Fuß erreichbar.",
+            "hu": "Gyalogosan elérhető.",
+            "ro": "Accesibil pe jos.",
+            "en": "Accessible on foot."
           }
         },
         {
           "name": {
             "de": "Ruine Reussbühl",
-            "hu": "Reussbühl várrom",
+            "hu": "Reussbühli romok",
             "ro": "Ruinele Reussbühl",
             "en": "Reussbühl Ruins"
           },
           "coords": [
-            8.281,
-            47.059
+            8.288,
+            47.062
           ],
           "category": "castles/fortresses/towers",
-          "arrive_at": "10:40",
+          "arrive_at": "11:00",
           "stay_min": 60,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.2,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.8,
           "tip_5lang": {
-            "de": "Ein kurzer Spaziergang von der Haltestelle zu den Ruinen.",
-            "hu": "Rövid séta a megállótól a romokig.",
-            "ro": "O scurtă plimbare de la stație până la ruine.",
-            "en": "A short walk from the stop to the ruins."
+            "de": "Busverbindung Richtung Reussbühl.",
+            "hu": "Buszjárat Reussbühl felé.",
+            "ro": "Legătură de autobuz spre Reussbühl.",
+            "en": "Bus connection towards Reussbühl."
           }
         },
         {
           "name": {
-            "de": "Reuss-Uferweg (Mittagspause)",
-            "hu": "Reuss-parti sétány (ebédszünet)",
-            "ro": "Promenada Reuss (pauză de prânz)",
-            "en": "Reuss Riverside Path (Lunch Break)"
+            "de": "Reuss-Uferweg",
+            "hu": "Reuss-parti út",
+            "ro": "Drumul Reuss",
+            "en": "Reuss Path"
+          },
+          "coords": [
+            8.285,
+            47.065
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Abstieg zum Flussufer.",
+            "hu": "Ereszkedés a folyópartra.",
+            "ro": "Coborâre spre malul râului.",
+            "en": "Descent to the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenberg-Bahn",
+            "hu": "Sonnenberg-vasút",
+            "ro": "Calea ferată Sonnenberg",
+            "en": "Sonnenberg Funicular"
           },
           "coords": [
             8.278,
-            47.058
+            47.043
           ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "11:45",
-          "stay_min": 90,
-          "hop_mode": "walk",
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
+          "category": "industrial heritage",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.2,
           "tip_5lang": {
-            "de": "Entspannen Sie am Fluss und genießen Sie Ihr Mittagessen.",
-            "hu": "Pihenjen a folyóparton és élvezze az ebédet.",
-            "ro": "Relaxați-vă lângă râu și bucurați-vă de prânz.",
-            "en": "Relax by the river and enjoy your lunch."
+            "de": "Fahrt mit der historischen Bahn.",
+            "hu": "Utazás a történelmi vasúttal.",
+            "ro": "Călătorie cu trenul istoric.",
+            "en": "Ride on the historic funicular."
           }
         },
         {
           "name": {
-            "de": "Bushaltestelle Sonnenberg",
-            "hu": "Sonnenberg buszmegálló",
-            "ro": "Stația de autobuz Sonnenberg",
-            "en": "Sonnenberg Bus Stop"
+            "de": "Gasthof Ochsen",
+            "hu": "Ochsen fogadó",
+            "ro": "Hanul Ochsen",
+            "en": "Ochsen Inn"
           },
           "coords": [
-            8.282,
-            47.046
+            8.267,
+            47.051
           ],
-          "category": "transport",
-          "arrive_at": "13:40",
-          "stay_min": 170,
-          "hop_mode": "transit",
-          "hop_from_prev_min": 35,
-          "hop_from_prev_km": 3.5,
+          "category": "famous residences",
+          "arrive_at": "14:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
           "tip_5lang": {
-            "de": "Fahren Sie zum letzten Cluster für Panoramablicke.",
-            "hu": "Utazzon az utolsó klaszterhez a panorámás kilátásért.",
-            "ro": "Călătoriți la ultimul cluster pentru vederi panoramice.",
-            "en": "Travel to the final cluster for panoramic views."
+            "de": "Letzter Halt vor der Rückreise.",
+            "hu": "Utolsó megálló a visszautazás előtt.",
+            "ro": "Ultima oprire înainte de întoarcere.",
+            "en": "Last stop before the return trip."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Erkunden Sie Littau bequem mit öffentlichen Verkehrsmitteln, aufgeteilt in drei einfache Cluster. Beginnen Sie im Dorfzentrum mit einem Spaziergang zu den historischen Gebäuden. Ein kurzer Bus-Trip bringt Sie zum Reuss-Ufer für eine Mittagspause und die Erkundung der Ruinen. Der letzte Bus bringt Sie in die Nähe des Sonnenbergs. Von dort aus können Sie zur Standseilbahn schlendern und den Tag mit einer atemberaubenden Aussicht vom Littauer Berg ausklingen lassen. Eine stressfreie Art, die Highlights zu entdecken.",
-        "hu": "Fedezze fel Littaut kényelmesen tömegközlekedéssel, három egyszerű klaszterre osztva. Kezdje a faluközpontban egy sétával a történelmi épületekhez. Egy rövid buszút elviszi a Reuss partjára egy ebédszünetre és a romok felfedezésére. Az utolsó busz a Sonnenberg közelébe viszi. Innen elsétálhat a siklóhoz, és a napot a Littauer Berg lélegzetelállító kilátásával zárhatja. Stresszmentes módja a fénypontok felfedezésének.",
-        "ro": "Explorați Littau confortabil cu transportul public, împărțit în trei clustere simple. Începeți în centrul satului cu o plimbare la clădirile istorice. O scurtă călătorie cu autobuzul vă duce pe malul râului Reuss pentru o pauză de prânz și explorarea ruinelor. Ultimul autobuz vă duce aproape de Sonnenberg. De acolo, vă puteți plimba la funicular și puteți încheia ziua cu o priveliște uluitoare de pe Muntele Littau. O modalitate fără stres de a descoperi atracțiile principale.",
-        "en": "Explore Littau comfortably with public transport, divided into three simple clusters. Start in the village center with a walk to the historic buildings. A short bus trip takes you to the Reuss riverbank for a lunch break and ruin exploration. The final bus takes you near Sonnenberg. From there, you can stroll to the funicular and end the day with a breathtaking view from Littauer Berg. A stress-free way to discover the highlights."
+        "de": "Nutzen Sie das ausgezeichnete Luzerner Busnetz, um Littaus Highlights zu sehen. Vom alten Kern geht es nach Reussbühl und weiter zum Sonnenberg. Alles ist perfekt mit ÖV getaktet, sodass Sie sich voll auf die Aussicht und die Kultur konzentrieren können.",
+        "hu": "Használja ki a kiváló luzerni buszhálózatot Littau nevezetességeinek megtekintéséhez. A régi központtól Reussbühlön át egészen a Sonnenbergig juthat. Minden tökéletesen összehangolt a tömegközlekedéssel, így teljesen a kilátásra és a kultúrára koncentrálhat.",
+        "ro": "Utilizați rețeaua excelentă de autobuze din Lucerna pentru a vedea cele mai importante puncte din Littau. Din centrul vechi mergeți spre Reussbühl și mai departe spre Sonnenberg. Totul este perfect sincronizat cu transportul public, astfel încât să vă puteți concentra pe deplin pe priveliște și cultură.",
+        "en": "Use the excellent Lucerne bus network to see Littau's highlights. From the old core, head to Reussbühl and on to Sonnenberg. Everything is perfectly timed with public transport, allowing you to focus entirely on the views and culture."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Lokale Metzgerei",
-            "tip": "Kaufen Sie eine Wurst für ein Picknick am Flussufer."
+            "name": "Migros Restaurant",
+            "tip": "Günstiges Mittagessen im Zentrum."
           }
         ],
         "hu": [
           {
-            "name": "Helyi hentes",
-            "tip": "Vásároljon kolbászt egy folyóparti piknikhez."
+            "name": "Migros Étterem",
+            "tip": "Olcsó ebéd a központban."
           }
         ],
         "ro": [
           {
-            "name": "Măcelărie locală",
-            "tip": "Cumpărați un cârnat pentru un picnic pe malul râului."
+            "name": "Restaurantul Migros",
+            "tip": "Prânz ieftin în centru."
           }
         ],
         "en": [
           {
-            "name": "Local Butcher",
-            "tip": "Buy a sausage for a picnic by the riverside."
+            "name": "Migros Restaurant",
+            "tip": "Affordable lunch in the center."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Busfahrt durch die Landschaft",
-            "tip": "Genießen Sie die Aussicht aus dem Fenster zwischen den Haltestellen.",
-            "emoji": "🍃"
+            "name": "Reussinsel",
+            "tip": "Grüne Oase im Fluss.",
+            "emoji": "🏞️"
           }
         ],
         "hu": [
           {
-            "name": "Buszozás a tájon keresztül",
-            "tip": "Élvezze a kilátást az ablakból a megállók között.",
-            "emoji": "🍃"
+            "name": "Reuss-sziget",
+            "tip": "Zöld oázis a folyóban.",
+            "emoji": "🏞️"
           }
         ],
         "ro": [
           {
-            "name": "Călătorie cu autobuzul prin peisaj",
-            "tip": "Bucurați-vă de priveliștea de la fereastră între stații.",
-            "emoji": "🍃"
+            "name": "Insula Reuss",
+            "tip": "Oază verde în râu.",
+            "emoji": "🏞️"
           }
         ],
         "en": [
           {
-            "name": "Bus ride through the landscape",
-            "tip": "Enjoy the view from the window between stops.",
-            "emoji": "🍃"
+            "name": "Reuss Island",
+            "tip": "Green oasis in the river.",
+            "emoji": "🏞️"
           }
         ]
       },
       "shopping_picks": {
-        "de": [],
-        "hu": [],
-        "ro": [],
-        "en": []
+        "de": [
+          {
+            "name": "Coop Littau",
+            "tip": "Alles für den täglichen Bedarf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Coop Littau",
+            "tip": "Minden a napi szükséglethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coop Littau",
+            "tip": "Totul pentru nevoile zilnice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coop Littau",
+            "tip": "Everything for daily needs."
+          }
+        ]
       },
       "tips": {
         "de": [
-          "Kaufen Sie eine Tageskarte für die öffentlichen Verkehrsmittel, um Geld zu sparen.",
-          "Überprüfen Sie den Busfahrplan im Voraus, um Wartezeiten zu minimieren.",
-          "Einige Haltestellen sind auf Anfrage; achten Sie auf die Anzeigen im Bus."
+          "Tageskarte Zone 10/21 lohnt sich.",
+          "SBB Mobile App für Echtzeit-Fahrpläne nutzen."
         ],
         "hu": [
-          "Vásároljon napijegyet a tömegközlekedéshez, hogy pénzt takarítson meg.",
-          "Ellenőrizze előre a buszmenetrendet a várakozási idők minimalizálása érdekében.",
-          "Néhány megálló kérésre áll meg; figyeljen a buszon lévő jelzésekre."
+          "A 10/21-es zónás napijegy megéri.",
+          "Használja az SBB mobilalkalmazást a valós idejű menetrendekhez."
         ],
         "ro": [
-          "Cumpărați un abonament de o zi pentru transportul public pentru a economisi bani.",
-          "Verificați programul autobuzelor în avans pentru a minimiza timpii de așteptare.",
-          "Unele stații sunt la cerere; fiți atenți la anunțurile din autobuz."
+          "Merită biletul de o zi pentru zonele 10/21.",
+          "Utilizați aplicația mobilă SBB pentru orare în timp real."
         ],
         "en": [
-          "Buy a day pass for public transport to save money.",
-          "Check the bus schedule in advance to minimize waiting times.",
-          "Some stops are on request; pay attention to the signs on the bus."
+          "Day pass for zones 10/21 is worth it.",
+          "Use the SBB Mobile App for real-time schedules."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten an der Bushaltestelle Gasshof, die guten Regenschutz bietet. Die Besichtigung der alten Schule und Kirche erfolgt in den Regenpausen. Mit dem Bus geht es bequem nach Reussbühl, wo wir direkt an der Haltestelle aussteigen. Der Flussweg wird bei Schauern abgekürzt. Wir nutzen die dichte Taktung der Busse, um trocken zum Sonnenberg zu gelangen und den Tag dort zu beenden.",
+            "hu": "A Gasshof buszmegállónál kezdünk, amely jó esővédelmet nyújt. Az iskola és a templom megtekintését az esőszünetekre időzítjük. Busszal kényelmesen jutunk el Reussbühlbe, ahol közvetlenül a megállónál szállunk le. A folyóparti utat zápor esetén lerövidítjük. Kihasználjuk a buszok sűrű követési idejét, hogy szárazon jussunk el a Sonnenberghez a nap végén.",
+            "ro": "Începem la stația de autobuz Gasshof, care oferă o bună protecție contra ploii. Vizitarea școlii și a bisericii se face în pauzele dintre averse. Cu autobuzul ajungem confortabil la Reussbühl, unde coborâm chiar la stație. Scurtăm drumul de pe malul râului dacă plouă. Folosim frecvența mare a autobuzelor pentru a ajunge uscați la Sonnenberg.",
+            "en": "We start at the Gasshof bus stop, which offers good rain protection. Visiting the school and church is timed for breaks in the rain. We take the bus comfortably to Reussbühl, getting off right at the stop. The riverside path is shortened during showers. We use the frequent bus schedule to reach Sonnenberg dry and finish the day there."
+          },
+          "stops": [
+            {
+              "name": "Littau Gasshof Bus Stop",
+              "tip_5lang": {
+                "de": "Warten Sie im gläsernen Wartehäuschen auf den Bus.",
+                "hu": "Várja a buszt az üvegezett váróban.",
+                "ro": "Așteptați autobuzul în adăpostul de sticlă.",
+                "en": "Wait for the bus inside the glass shelter."
+              }
+            },
+            {
+              "name": "Old Schoolhouse & Parish Church",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg von der Haltestelle entfernt.",
+                "hu": "Mindössze 2 perc séta a megállótól.",
+                "ro": "La doar 2 minute de mers pe jos de stație.",
+                "en": "Only a 2-minute walk from the bus stop."
+              }
+            },
+            {
+              "name": "Reussbühl Bus Stop",
+              "tip_5lang": {
+                "de": "Zentrale Umsteigestelle mit Unterstand.",
+                "hu": "Központi átszállóhely váróval.",
+                "ro": "Punct central de transfer cu adăpost.",
+                "en": "Central transfer point with a shelter."
+              }
+            },
+            {
+              "name": "Reussbühl Ruins",
+              "tip_5lang": {
+                "de": "Der Weg von der Haltestelle ist kurz und asphaltiert.",
+                "hu": "A megállótól vezető út rövid és aszfaltozott.",
+                "ro": "Drumul de la stație este scurt și asfaltat.",
+                "en": "The path from the stop is short and paved."
+              }
+            },
+            {
+              "name": "Reuss Riverside Path (Lunch Break)",
+              "tip_5lang": {
+                "de": "Restaurants nahe der Haltestelle für Pausen nutzen.",
+                "hu": "Használja a megálló közeli éttermeket a pihenéshez.",
+                "ro": "Folosiți restaurantele de lângă stație pentru pauze.",
+                "en": "Use restaurants near the stop for breaks."
+              }
+            },
+            {
+              "name": "Sonnenberg Bus Stop",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten per App im Trockenen.",
+                "hu": "Ellenőrizze az indulási időket applikációval, fedett helyen.",
+                "ro": "Verificați orele de plecare prin aplicație la adăpost.",
+                "en": "Check departure times via app while staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'SBB Mobile' App für Echtzeit-Infos bei Verspätungen.",
+              "Die meisten Haltestellen in Littau sind überdacht.",
+              "Ein kleiner Schirm passt gut in die Tasche für die kurzen Gehwege.",
+              "Im Bus ist es trocken, nutzen Sie die Fahrt zur Orientierung.",
+              "Entwerten Sie Ihr Ticket bereits vor dem Einsteigen (außer Halbtax/GA)."
+            ],
+            "hu": [
+              "Használja az 'SBB Mobile' alkalmazást a késésekkel kapcsolatos infókért.",
+              "Littau legtöbb buszmegállója fedett.",
+              "Egy kis esernyő jól elfér a táskában a rövid gyalogutakhoz.",
+              "A buszon száraz az idő, használja az utazást tájékozódásra.",
+              "Még felszállás előtt váltsa meg jegyét (kivéve bérlet esetén)."
+            ],
+            "ro": [
+              "Folosiți aplicația 'SBB Mobile' pentru info în timp real despre întârzieri.",
+              "Majoritatea stațiilor din Littau sunt acoperite.",
+              "O umbrelă mică încape bine în geantă pentru scurtele distanțe pe jos.",
+              "În autobuz este uscat, folosiți călătoria pentru orientare.",
+              "Validați biletul înainte de urcare (dacă nu aveți abonament)."
+            ],
+            "en": [
+              "Use the 'SBB Mobile' app for real-time info on delays.",
+              "Most bus stops in Littau are sheltered.",
+              "A compact umbrella fits well in your bag for short walking distances.",
+              "It's dry on the bus; use the ride to get your bearings.",
+              "Purchase or validate your ticket before boarding (unless you have a pass)."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt an der Gasshof-Haltestelle in der kalten Morgenluft. Die kurzen Wege zur Schule und Kirche halten uns in Bewegung. Der beheizte Bus nach Reussbühl ist eine willkommene Aufwärmpause. Wir erkunden die Ruinen und den frostigen Reussweg zügig. Nach einem heißen Getränk in Haltestellennähe fahren wir zum Sonnenberg, wo wir den Wintertag gemütlich ausklingen lassen.",
+            "hu": "A nap a Gasshof megállónál indul a hideg reggeli levegőben. Az iskolához és a templomhoz vezető rövid utak mozgásban tartanak minket. A Reussbühlbe tartó fűtött busz kellemes melegedő. Gyorsan felfedezzük a romokat és a fagyos Reuss-partot. Egy megálló közeli forró ital után a Sonnenberghez utazunk, ahol kényelmesen zárjuk a téli napot.",
+            "ro": "Ziua începe la stația Gasshof în aerul rece al dimineții. Distanțele scurte până la școală și biserică ne mențin în mișcare. Autobuzul încălzit spre Reussbühl este o pauză de încălzire binevenită. Explorăm rapid ruinele și malul înghețat al râului Reuss. După o băutură caldă lângă stație, mergem spre Sonnenberg pentru un final de zi relaxant.",
+            "en": "The day starts at the Gasshof stop in the cold morning air. Short walks to the school and church keep us moving. The heated bus to Reussbühl is a welcome warm-up break. We quickly explore the ruins and the frosty Reuss path. After a hot drink near the stop, we travel to Sonnenberg, where we comfortably end the winter day."
+          },
+          "stops": [
+            {
+              "name": "Littau Gasshof Bus Stop",
+              "tip_5lang": {
+                "de": "Stellen Sie sich nah an die Heizstrahler, falls vorhanden.",
+                "hu": "Álljon a hősugárzók közelébe, ha vannak.",
+                "ro": "Stați lângă radiatoarele de căldură, dacă sunt disponibile.",
+                "en": "Stand near heat lamps if available."
+              }
+            },
+            {
+              "name": "Old Schoolhouse & Parish Church",
+              "tip_5lang": {
+                "de": "Kirchenbesuch zum Aufwärmen nutzen.",
+                "hu": "Használja a templomlátogatást melegedésre.",
+                "ro": "Folosiți vizita la biserică pentru a vă încălzi.",
+                "en": "Use the church visit to warm up."
+              }
+            },
+            {
+              "name": "Reussbühl Bus Stop",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Flächen am Haltestellenrand.",
+                "hu": "Ügyeljen a jeges felületekre a megálló szélén.",
+                "ro": "Atenție la suprafețele înghețate de la marginea stației.",
+                "en": "Watch out for icy patches at the edge of the stop."
+              }
+            },
+            {
+              "name": "Reussbühl Ruins",
+              "tip_5lang": {
+                "de": "Kleiden Sie sich warm für den zugigen Bereich am Hügel.",
+                "hu": "Öltözzön melegen a domboldali huzatos részhez.",
+                "ro": "Îmbrăcați-vă bine pentru zona cu vânt de pe deal.",
+                "en": "Dress warmly for the breezy area on the hill."
+              }
+            },
+            {
+              "name": "Reuss Riverside Path (Lunch Break)",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal mit direktem Blick auf die Haltestelle.",
+                "hu": "Válasszon olyan helyet, ahonnan rálát a megállóra.",
+                "ro": "Alegeți un local cu vedere directă spre stație.",
+                "en": "Choose a place with a direct view of the stop."
+              }
+            },
+            {
+              "name": "Sonnenberg Bus Stop",
+              "tip_5lang": {
+                "de": "Im Winter verkehren Busse oft in kürzeren Takten.",
+                "hu": "Télen a buszok gyakran sűrűbben közlekednek.",
+                "ro": "Iarna autobuzele circulă adesea la intervale mai scurte.",
+                "en": "Buses often run at more frequent intervals in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Socken, da das Warten auf den Bus kalt sein kann.",
+              "Die Busse sind in der Regel gut beheizt.",
+              "Nutzen Sie die Anzeige an der Haltestelle für aktuelle Abfahrten.",
+              "Planen Sie Pufferzeiten ein, falls Schnee den Verkehr bremst.",
+              "Abends sind die Busse oft weniger überfüllt als zur Rush-Hour."
+            ],
+            "hu": [
+              "Viseljen meleg zoknit, mert a buszra várás hideg lehet.",
+              "A buszok általában jól fűtöttek.",
+              "Használja a megállóban lévő kijelzőt az aktuális indulásokhoz.",
+              "Számoljon ráhagyással, ha a hó lassítja a forgalmat.",
+              "Este a buszok gyakran kevésbé zsúfoltak, mint csúcsidőben."
+            ],
+            "ro": [
+              "Purtați șosete groase, deoarece așteptarea în stație poate fi rece.",
+              "Autobuzele sunt de regulă bine încălzite.",
+              "Folosiți afișajul din stație pentru plecările actualizate.",
+              "Planificați timp suplimentar dacă zăpada încetinește traficul.",
+              "Seara autobuzele sunt adesea mai puțin aglomerate decât la orele de vârf."
+            ],
+            "en": [
+              "Wear warm socks as waiting for the bus can be cold.",
+              "Buses are generally well-heated.",
+              "Use the display at the stop for up-to-date departures.",
+              "Allow extra time if snow slows down the traffic.",
+              "Buses are often less crowded in the evening than during rush hour."
+            ]
+          }
+        }
       }
     }
   }

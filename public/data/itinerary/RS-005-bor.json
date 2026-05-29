@@ -343,6 +343,170 @@
           "The walk to the open pit mine is doable, but take water, especially in summer.",
           "Ask at the museum for guided tours for deeper insights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Konak von Fürst Miloš Schutz vor dem Regen, während Sie die osmanische Architektur bewundern. Mittags ist das Bergbaumuseum der perfekte trockene Zufluchtsort. Nachmittags blicken Sie kurz in das riesige Tagebauloch; der nasse Schiefer wirkt unter Wolken dramatisch. Abends wärmen Sie sich bei deftiger serbischer Küche in einem lokalen Restaurant auf.",
+            "hu": "Reggel Milos herceg konakja nyújt menedéket az eső elől, miközben az oszmán építészetet csodáljuk. Délben a Bányászati Múzeum a legjobb hely a szárazon maradáshoz. Délután vessen egy rövid pillantást a hatalmas külszíni fejtésre; a nedves kőzetek drámai látványt nyújtanak. Este melegedjen fel egy kiadós szerb vacsorával egy közeli étteremben.",
+            "ro": "Dimineața, conacul prințului Miloš oferă adăpost împotriva ploii, permițându-vă să admirați arhitectura otomană. La prânz, Muzeul Mineritului este refugiul perfect uscat. După-amiaza, priviți scurt în uriașa carieră deschisă; rocile umede par dramatice sub nori. Seara, încălziți-vă cu preparate sârbești consistente într-un restaurant local.",
+            "en": "In the morning, Prince Miloš's residence provides shelter from the rain while you admire the Ottoman architecture. At noon, the Mining Museum is the perfect dry sanctuary. In the afternoon, take a quick look at the giant open pit; the wet rocks look dramatic under the clouds. In the evening, warm up with hearty Serbian cuisine in a local restaurant."
+          },
+          "stops": [
+            {
+              "name": "Brestovačka Banja Konak",
+              "tip_5lang": {
+                "de": "Überdachte Gänge nutzen.",
+                "hu": "Használja a fedett folyosókat.",
+                "ro": "Folosiți culoarele acoperite.",
+                "en": "Use the covered walkways."
+              }
+            },
+            {
+              "name": "Museum für Bergbau",
+              "tip_5lang": {
+                "de": "Idealer Ort bei starkem Regen.",
+                "hu": "Ideális hely heves esőben.",
+                "ro": "Loc ideal în caz de ploaie grea.",
+                "en": "Ideal place during heavy rain."
+              }
+            },
+            {
+              "name": "Lokales Restaurant",
+              "tip_5lang": {
+                "de": "Schirmständer am Eingang vorhanden.",
+                "hu": "Esernyőtartó van a bejáratnál.",
+                "ro": "Suport de umbrele la intrare.",
+                "en": "Umbrella stand available at entry."
+              }
+            },
+            {
+              "name": "Tagebau Aussichtspunkt",
+              "tip_5lang": {
+                "de": "Vorsicht, rutschiger Boden.",
+                "hu": "Vigyázat, csúszós talaj.",
+                "ro": "Atenție, teren alunecos.",
+                "en": "Caution, slippery ground."
+              }
+            },
+            {
+              "name": "Stadtpark",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang unter Bäumen.",
+                "hu": "Rövid séta a fák alatt.",
+                "ro": "Scurtă plimbare sub copaci.",
+                "en": "Short walk under the trees."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Industriegebiete können bei Regen schlammig sein.",
+              "Das Bergbaumuseum ist komplett überdacht.",
+              "Tragen Sie wasserfeste Schuhe für den Tagebau-Besuch.",
+              "Viele Cafés im Zentrum haben gemütliche Innenräume."
+            ],
+            "hu": [
+              "Az ipari területek esőben sárosak lehetnek.",
+              "A Bányászati Múzeum teljesen fedett.",
+              "Viseljen vízálló cipőt a bányalátogatáshoz.",
+              "A központ kávézói barátságos belső terekkel várják."
+            ],
+            "ro": [
+              "Zonele industriale pot fi noroioase pe ploaie.",
+              "Muzeul Mineritului este complet acoperit.",
+              "Purtați încălțăminte impermeabilă pentru carieră.",
+              "Multe cafenele din centru au interioare primitoare."
+            ],
+            "en": [
+              "Industrial areas can be muddy in the rain.",
+              "The Mining Museum is fully indoor.",
+              "Wear waterproof shoes for the pit visit.",
+              "Many central cafes have cozy interiors."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Bor beginnt frisch am historischen Konak. Mittags bietet die umfangreiche Sammlung des Bergbaumuseums wohlige Wärme. Nachmittags besuchen Sie die monumentalen Bergbaumaschinen im Freilichtmuseum, die im Frost beeindruckend wirken. Die Dämmerung bricht früh über dem Tagebau herein. Abends lockt das Stadtzentrum mit heißen Getränken und beleuchteten Straßen.",
+            "hu": "A téli reggel Borban frissen indul a történelmi konaknál. Délben a Bányászati Múzeum gazdag gyűjteménye nyújt kellemes meleget. Délután látogassa meg a szabadtéri kiállítás monumentális bányagépeit, amelyek lenyűgözőek a fagyban. A szürkület korán leszáll a bányára. Este a városközpont forró italokkal és kivilágított utcákkal csábít.",
+            "ro": "Dimineața de iarnă în Bor începe proaspăt la conacul istoric. La prânz, colecția bogată a Muzeului Mineritului oferă o căldură plăcută. După-amiaza, vizitați utilajele miniere monumentale din expoziția în aer liber, care par impresionante în îngheț. Amurgul coboară devreme peste carieră. Seara, centrul orașului atrage cu băuturi calde și străzi iluminate.",
+            "en": "A winter morning in Bor starts fresh at the historic residence. At noon, the extensive collection of the Mining Museum offers pleasant warmth. In the afternoon, visit the monumental mining machines in the open-air display, looking impressive in the frost. Twilight falls early over the pit. In the evening, the city center beckons with hot drinks and lit streets."
+          },
+          "stops": [
+            {
+              "name": "Brestovačka Banja Konak",
+              "tip_5lang": {
+                "de": "Warm anziehen, zugige Räume.",
+                "hu": "Öltözzön melegen, huzatos termek.",
+                "ro": "Îmbrăcați-vă gros, săli răcoroase.",
+                "en": "Dress warmly, drafty rooms."
+              }
+            },
+            {
+              "name": "Museum für Bergbau",
+              "tip_5lang": {
+                "de": "Garderobe für dicke Mäntel nutzen.",
+                "hu": "Használja a ruhatárat a kabátoknak.",
+                "ro": "Folosiți garderoba pentru haine.",
+                "en": "Use the cloakroom for heavy coats."
+              }
+            },
+            {
+              "name": "Lokales Restaurant",
+              "tip_5lang": {
+                "de": "Probieren Sie heißen Pflaumenschnaps.",
+                "hu": "Kóstolja meg a forró rakiját.",
+                "ro": "Încercați o rakija fiartă.",
+                "en": "Try some hot rakija."
+              }
+            },
+            {
+              "name": "Freilicht-Bergbaumuseum",
+              "tip_5lang": {
+                "de": "Metallflächen nicht berühren (Frost).",
+                "hu": "Ne érjen a fémfelületekhez (fagy).",
+                "ro": "Nu atingeți metalul (îngheț).",
+                "en": "Do not touch metal surfaces (frost)."
+              }
+            },
+            {
+              "name": "Stadtpark",
+              "tip_5lang": {
+                "de": "Frühzeitige Dämmerung beachten.",
+                "hu": "Ügyeljen a korai sötétedésre.",
+                "ro": "Atenție la amurgul timpuriu.",
+                "en": "Note the early twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 16:15 Uhr unter.",
+              "Der Wind in der Nähe des Tagebaus kann sehr kalt sein.",
+              "Festes Schuhwerk gegen Glätte ist ratsam.",
+              "Das Bergbaumuseum ist im Winter beheizt."
+            ],
+            "hu": [
+              "A nap télen 16:15 körül nyugszik.",
+              "A bánya közelében a szél nagyon hideg lehet.",
+              "Csúszásbiztos lábbeli ajánlott.",
+              "A Bányászati Múzeum télen fűtött."
+            ],
+            "ro": [
+              "Soarele apune iarna în jurul orei 16:15.",
+              "Vântul lângă carieră poate fi foarte rece.",
+              "Se recomandă încălțăminte antiderapantă.",
+              "Muzeul Mineritului este încălzit iarna."
+            ],
+            "en": [
+              "Sunset is around 16:15 in winter.",
+              "The wind near the pit can be very cold.",
+              "Sturdy boots are advised for icy paths.",
+              "The Mining Museum is heated in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -680,6 +844,170 @@
           "Carry enough water and snacks, as there are few shops between locations.",
           "A basic repair kit can be useful in case of a flat tire."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln Sie vorsichtig zum Museum, um den ersten Güssen zu entgehen. Mittags pausieren Sie am Bor-See, wo der Regen auf die Wasseroberfläche trommelt. Nachmittags stärken Sie sich in einer Grillstube, während Ihre Kleidung trocknet. Die Fahrt zum Lazar-Canyon wird durch Nebel mystisch, aber anstrengend. Abends kehren Sie auf asphaltierten Wegen sicher in die Stadt zurück.",
+            "hu": "Reggel óvatosan tekerjen a múzeumhoz az első záporok elől. Délben pihenjen meg a Bori-tónál, ahol az eső kopog a vízfelszínen. Délután egy rostonsülteket kínáló helyen frissüljön fel, amíg a ruhái száradnak. A Lázár-kanyon felé vezető út a ködben misztikus, de fárasztó. Este aszfaltozott utakon térjen vissza biztonságban a városba.",
+            "ro": "Dimineața pedalați cu atenție spre muzeu pentru a evita primele averse. La prânz, odihniți-vă la Lacul Bor, unde ploaia bate în suprafața apei. După-amiaza, recuperați-vă într-o grătarie în timp ce hainele se usucă. Drumul spre Canionul Lazar devine mistic în ceață, dar solicitant. Seara, reveniți în siguranță în oraș pe drumuri asfaltate.",
+            "en": "In the morning, cycle carefully to the museum to dodge the first showers. At noon, rest by Lake Bor, where the rain drums on the water's surface. In the afternoon, recharge at a grill house while your clothes dry. The ride to Lazar's Canyon becomes mystical in the fog but demanding. In the evening, return safely to the city on paved roads."
+          },
+          "stops": [
+            {
+              "name": "Museum für Bergbau",
+              "tip_5lang": {
+                "de": "Fahrradständer sind nicht überdacht.",
+                "hu": "A biciklitárolók nem fedettek.",
+                "ro": "Rafturile de biciclete nu sunt acoperite.",
+                "en": "Bike racks are not covered."
+              }
+            },
+            {
+              "name": "Bor-See (Ufer)",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassen Waldwegen.",
+                "hu": "Vigyázat a vizes erdei utakon.",
+                "ro": "Atenție pe potecile de pădure.",
+                "en": "Caution on wet forest paths."
+              }
+            },
+            {
+              "name": "See-Restaurant",
+              "tip_5lang": {
+                "de": "Große Portionen zum Aufwärmen.",
+                "hu": "Nagy adagok a felmelegedéshez.",
+                "ro": "Porții mari pentru încălzire.",
+                "en": "Large portions to warm up."
+              }
+            },
+            {
+              "name": "Lazar-Canyon Aussicht",
+              "tip_5lang": {
+                "de": "Nebel kann die Sicht einschränken.",
+                "hu": "A köd korlátozhatja a kilátást.",
+                "ro": "Ceața poate limita vizibilitatea.",
+                "en": "Fog may limit visibility."
+              }
+            },
+            {
+              "name": "Stadtzentrum Bor",
+              "tip_5lang": {
+                "de": "Bremsen bei Nässe prüfen.",
+                "hu": "Ellenőrizze a fékeket vizes úton.",
+                "ro": "Verificați frânele pe carosabil umed.",
+                "en": "Check brakes on wet roads."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei den Schotterwegen am See ein Muss.",
+              "Die Straße zum Canyon hat einige steile, rutschige Abschnitte.",
+              "Nutzen Sie wasserfeste Packtaschen.",
+              "In der Nähe des Sees gibt es überdachte Rastplätze."
+            ],
+            "hu": [
+              "A sárvédő kötelező a tó környéki kavicsos utakon.",
+              "A kanyonhoz vezető úton vannak csúszós emelkedők.",
+              "Használjon vízálló táskákat.",
+              "A tó közelében vannak fedett pihenőhelyek."
+            ],
+            "ro": [
+              "Aripile sunt obligatorii pe drumurile de pietriș.",
+              "Drumul spre canion are pante alunecoase.",
+              "Folosiți genți de bicicletă impermeabile.",
+              "Există locuri de popas acoperite lângă lac."
+            ],
+            "en": [
+              "Mudguards are a must on gravel paths near the lake.",
+              "The road to the canyon has steep, slippery sections.",
+              "Use waterproof panniers for your gear.",
+              "There are covered rest areas near the lake."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start führt Sie morgens zum Bergbaumuseum. Mittags radeln Sie durch die stille, winterliche Landschaft zum Bor-See, dessen Ufer oft mit Reif bedeckt sind. Nachmittags bietet eine heiße Suppe am See die nötige Energie. Die Rückfahrt führt durch die kalte Industriekulisse von Bor, die im Winterlicht fast surreal wirkt. Abends beenden Sie die Tour früh vor dem ersten Frosteinbruch.",
+            "hu": "A fagyos reggel a Bányászati Múzeumhoz vezeti. Délben tekerjen át a csendes, téli tájon a Bori-tóhoz, amelynek partját gyakran zúzmara fedi. Délután egy forró leves a tónál adja meg a szükséges energiát. A visszaút Bor hideg ipari díszletei között vezet, amely a téli fényben szinte szürreális. Este fejezze be korán a túrát a fagy beállta előtt.",
+            "ro": "Un început înghețat vă duce dimineața la Muzeul Mineritului. La prânz, pedalați prin peisajul liniștit de iarnă spre Lacul Bor, ale cărui maluri sunt adesea acoperite de chiciură. După-amiaza, o supă fierbinte la lac vă oferă energia necesară. Drumul de întoarcere trece prin decorul industrial rece al Borului. Seara, încheiați turul devreme înainte de îngheț.",
+            "en": "A frosty start leads you to the Mining Museum in the morning. At noon, cycle through the quiet, wintry landscape to Lake Bor, its shores often covered in frost. In the afternoon, a hot soup by the lake provides the necessary energy. The return journey leads through the cold industrial backdrop of Bor, looking almost surreal in winter light. End the tour early before the evening freeze."
+          },
+          "stops": [
+            {
+              "name": "Museum für Bergbau",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause drinnen.",
+                "hu": "Rövid melegedő szünet bent.",
+                "ro": "Scurtă pauză de încălzire în interior.",
+                "en": "Short warm-up break inside."
+              }
+            },
+            {
+              "name": "Bor-See Rundweg",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen.",
+                "hu": "Vigyázzon a jeges foltokkal.",
+                "ro": "Atenție la porțiunile înghețate.",
+                "en": "Watch out for icy patches."
+              }
+            },
+            {
+              "name": "Ufer-Gasthaus",
+              "tip_5lang": {
+                "de": "Platz am Ofen suchen.",
+                "hu": "Keressen helyet a kályha mellett.",
+                "ro": "Căutați un loc lângă sobă.",
+                "en": "Find a spot by the stove."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Crni Vrh",
+              "tip_5lang": {
+                "de": "Extremer Windchill beim Abfahren.",
+                "hu": "Erős szélhűtés lejtmenetben.",
+                "ro": "Vânt foarte rece la coborâre.",
+                "en": "Strong wind chill on descents."
+              }
+            },
+            {
+              "name": "Bor Stadt",
+              "tip_5lang": {
+                "de": "Tour vor 16:30 Uhr beenden.",
+                "hu": "Fejezze be a túrát 16:30 előtt.",
+                "ro": "Încheiați turul înainte de 16:30.",
+                "en": "End the tour before 16:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Unterwäsche und Handschuhe sind obligatorisch.",
+              "Die Straßen können durch Streusalz rutschig sein.",
+              "Akkus von E-Bikes entladen sich bei Kälte schneller.",
+              "Trinken Sie ausreichend Tee während der Pausen."
+            ],
+            "hu": [
+              "A hőtartó aláöltözet és kesztyű kötelező.",
+              "Az utak a sózástól csúszósak lehetnek.",
+              "Az e-bike akkumulátorok gyorsabban merülnek hidegben.",
+              "Igyon elegendő teát a szünetekben."
+            ],
+            "ro": [
+              "Lenjeria termică și mănușile sunt obligatorii.",
+              "Drumurile pot fi alunecoase din cauza sării.",
+              "Bateriile e-bike se descarcă mai repede la frig.",
+              "Beți suficient ceai în timpul pauzelor."
+            ],
+            "en": [
+              "Thermal layers and gloves are mandatory.",
+              "Roads might be slippery due to road salt.",
+              "E-bike batteries drain faster in the cold.",
+              "Drink plenty of tea during breaks."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1042,6 +1370,188 @@
           "Check the opening hours for Lazar's Cave in advance.",
           "Some parking at the attractions may be on unpaved surfaces."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren Sie gemütlich zur Lazar-Höhle; das Trommeln des Regens auf das Autodach beruhigt. Mittags besuchen Sie den Canyon, der bei Regen besonders tief und dunkel wirkt. Nachmittags genießen Sie lokale Spezialitäten in einem warmen Gasthaus in Zlot. Später besichtigen Sie das Bergbaumuseum in Bor. Abends lassen Sie den Tag beim Blick auf die nassen Industriegiganten der Stadt ausklingen.",
+            "hu": "Reggel kényelmesen hajtson a Lázár-barlanghoz; az eső kopogása az autótetőn megnyugtató. Délben látogassa meg a kanyont, amely esőben különösen mélynek és sötétnek tűnik. Délután élvezze a helyi specialitásokat egy meleg fogadóban Zlotban. Később tekintse meg a Bányászati Múzeumot Borban. Este fejezze be a napot a város nedves ipari óriásainak látványával.",
+            "ro": "Dimineața conduceți relaxat spre Peștera Lazar; ropotul ploii pe plafonul mașinii este liniștitor. La prânz, vizitați canionul, care pare deosebit de adânc și întunecat pe ploaie. După-amiaza, savurați specialități locale într-un han cald din Zlot. Mai târziu, vizitați Muzeul Mineritului. Seara, încheiați ziua admirând giganții industriali uzi ai orașului.",
+            "en": "In the morning, drive comfortably to Lazar's Cave; the rain drumming on the car roof is soothing. At noon, visit the canyon, which looks particularly deep and dark in the rain. In the afternoon, enjoy local specialties in a warm inn in Zlot. Later, visit the Mining Museum in Bor. In the evening, end the day by viewing the city's wet industrial giants."
+          },
+          "stops": [
+            {
+              "name": "Lazar-Höhle Eingang",
+              "tip_5lang": {
+                "de": "Höhle ist trocken, Weg dorthin nass.",
+                "hu": "A barlang száraz, az út oda vizes.",
+                "ro": "Peștera e uscată, drumul e umed.",
+                "en": "Cave is dry, path there is wet."
+              }
+            },
+            {
+              "name": "Lazar-Canyon",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen (Schlamm).",
+                "hu": "Vigyázat kiszálláskor (sár).",
+                "ro": "Atenție la coborâre (noroi).",
+                "en": "Caution when exiting (mud)."
+              }
+            },
+            {
+              "name": "Gasthaus in Zlot",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor der Tür.",
+                "hu": "Parkoló közvetlenül az ajtó előtt.",
+                "ro": "Parcare direct în fața ușii.",
+                "en": "Parking right in front of the door."
+              }
+            },
+            {
+              "name": "Museum für Bergbau",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz oft frei.",
+                "hu": "A központi parkoló gyakran szabad.",
+                "ro": "Parcarea centrală e deseori liberă.",
+                "en": "Central parking often available."
+              }
+            },
+            {
+              "name": "Tagebau Aussicht",
+              "tip_5lang": {
+                "de": "Sicht aus dem Auto möglich.",
+                "hu": "Az autóból is van kilátás.",
+                "ro": "Vizibil direct din mașină.",
+                "en": "View possible from the car."
+              }
+            },
+            {
+              "name": "Bor-See Parkplatz",
+              "tip_5lang": {
+                "de": "Asphaltierter Bereich nutzen.",
+                "hu": "Használja az aszfaltozott részt.",
+                "ro": "Folosiți zona asfaltată.",
+                "en": "Use the paved area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Landstraßen um Bor können bei Regen rutschig sein.",
+              "Die Lazar-Höhle ist eine perfekte Indoor-Aktivität.",
+              "Achten Sie auf Schlaglöcher, die mit Wasser gefüllt sind.",
+              "Die Parkplätze am See können bei Regen matschig sein."
+            ],
+            "hu": [
+              "A Bor környéki utak esőben csúszósak lehetnek.",
+              "A Lázár-barlang tökéletes benti program.",
+              "Ügyeljen a vízzel telt kátyúkra.",
+              "A tóparti parkolók esőben sárosak lehetnek."
+            ],
+            "ro": [
+              "Drumurile din jurul Borului pot fi alunecoase.",
+              "Peștera Lazar este o activitate ideală de interior.",
+              "Atenție la gropile umplute cu apă.",
+              "Parcările de la lac pot fi noroioase."
+            ],
+            "en": [
+              "Country roads around Bor can be slippery when wet.",
+              "Lazar's Cave is a perfect indoor activity.",
+              "Watch out for potholes filled with water.",
+              "Lakeside parking can be muddy in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens führt die Fahrt durch verschneite Wälder zur Lazar-Höhle, die im Inneren eine konstante Temperatur hält. Mittags bestaunen Sie den winterlichen Canyon von den gesicherten Aussichtspunkten aus. Nachmittags wärmen Sie sich in Zlot bei traditionellem Essen auf. Später bietet das Bergbaumuseum in Bor einen interessanten Einblick in die Industriegeschichte. Abends reflektieren die Lichter der Stadt im Schnee.",
+            "hu": "Reggel havas erdőkön át vezet az út a Lázár-barlanghoz, amely bent állandó hőmérsékletet tart. Délben csodálja meg a téli kanyont a biztosított kilátóhelyekről. Délután melegedjen fel Zlotban hagyományos ételekkel. Később a bori Bányászati Múzeum nyújt érdekes betekintést az ipartörténetbe. Este a város fényei tükröződnek a hóban.",
+            "ro": "Dimineața, drumul trece prin păduri înzăpezite spre Peștera Lazar, care menține o temperatură constantă. La prânz, admirați canionul hibernal din punctele de observație securizate. După-amiaza, încălziți-vă în Zlot cu mâncare tradițională. Mai târziu, Muzeul Mineritului oferă o perspectivă interesantă. Seara, luminile orașului se reflectă în zăpadă.",
+            "en": "In the morning, the drive goes through snowy forests to Lazar's Cave, which maintains a constant temperature inside. At noon, marvel at the winter canyon from the secured viewpoints. In the afternoon, warm up in Zlot with traditional food. Later, the Mining Museum in Bor offers an interesting insight into industrial history. In the evening, the city lights reflect in the snow."
+          },
+          "stops": [
+            {
+              "name": "Lazar-Höhle",
+              "tip_5lang": {
+                "de": "Höhle wirkt wärmer als draußen.",
+                "hu": "A barlang melegebbnek tűnik, mint kint.",
+                "ro": "Peștera pare mai caldă decât afară.",
+                "en": "Cave feels warmer than outside."
+              }
+            },
+            {
+              "name": "Canyon Aussichtspunkt",
+              "tip_5lang": {
+                "de": "Vorsicht auf vereisten Treppen.",
+                "hu": "Vigyázat a jeges lépcsőkön.",
+                "ro": "Atenție la scările înghețate.",
+                "en": "Caution on icy stairs."
+              }
+            },
+            {
+              "name": "Restaurant Zlot",
+              "tip_5lang": {
+                "de": "Kaminfeuer oft vorhanden.",
+                "hu": "Gyakran van kandallótűz.",
+                "ro": "Deseori există foc în șemineu.",
+                "en": "Fireplace often available."
+              }
+            },
+            {
+              "name": "Museum für Bergbau",
+              "tip_5lang": {
+                "de": "Gut beheizte Ausstellungsräume.",
+                "hu": "Jól fűtött kiállítótermek.",
+                "ro": "Săli de expoziție bine încălzite.",
+                "en": "Well-heated exhibition rooms."
+              }
+            },
+            {
+              "name": "Tagebau Bor",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, starker Wind.",
+                "hu": "Rövid megálló, erős szél.",
+                "ro": "Oprire scurtă, vânt puternic.",
+                "en": "Short stop, strong wind."
+              }
+            },
+            {
+              "name": "Bor-See",
+              "tip_5lang": {
+                "de": "Zufahrt kann glatt sein.",
+                "hu": "A lehajtó csúszós lehet.",
+                "ro": "Accesul poate fi alunecos.",
+                "en": "Access road can be slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Schneeketten sind in dieser Region Pflicht.",
+              "Die Höhle hat das ganze Jahr über ca. 12 Grad.",
+              "Planen Sie mehr Zeit für die Bergstraßen ein.",
+              "Die Heizung im Auto für Pausen anlassen."
+            ],
+            "hu": [
+              "A téli gumi és hólánc kötelező ebben a régióban.",
+              "A barlangban egész évben kb. 12 fok van.",
+              "Hagyjon több időt a hegyi utakra.",
+              "Hagyja menni a fűtést a rövid megállók alatt."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și lanțurile sunt obligatorii.",
+              "În peșteră sunt cca. 12 grade tot anul.",
+              "Rezervați mai mult timp pentru drumurile montane.",
+              "Lăsați căldura pornită în timpul pauzelor."
+            ],
+            "en": [
+              "Winter tires and snow chains are mandatory here.",
+              "The cave is about 12 degrees year-round.",
+              "Allow extra time for mountain roads.",
+              "Keep the car heater on during short stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1379,6 +1889,170 @@
           "Have small change ready for bus tickets.",
           "Confirm the last bus connection back to the center, especially from the lake."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens nehmen Sie den Bus zum Museum, um trocken zu bleiben. Mittags bringt Sie der Regionalverkehr nach Brestovačka Banja, wo Sie in den historischen Kureinrichtungen Schutz suchen. Nachmittags genießen Sie den Blick auf den Bor-See aus dem Fenster eines Cafés am Ufer. Später erkunden Sie das Stadtzentrum mit seinen überdachten Passagen. Abends kehren Sie mit dem Stadtbus gemütlich zu Ihrer Unterkunft zurück.",
+            "hu": "Reggel szálljon buszra a múzeum felé, hogy száraz maradjon. Délben a helyközi járat elviszi Brestovačka Banjába, ahol a történelmi fürdőépületekben keressen menedéket. Délután élvezze a Bori-tó látványát egy tóparti kávézó ablakából. Később fedezze fel a városközpontot a fedett átjáróival. Este a helyi busszal kényelmesen térjen vissza a szállására.",
+            "ro": "Dimineața luați autobuzul spre muzeu pentru a rămâne uscat. La prânz, transportul regional vă duce la Brestovačka Banja, unde vă adăpostiți în clădirile istorice. După-amiaza, admirați Lacul Bor de la fereastra unei cafenele de pe mal. Mai târziu, explorați centrul orașului cu pasajele sale acoperite. Seara, reveniți confortabil cu autobuzul local.",
+            "en": "In the morning, take the bus to the museum to stay dry. At noon, regional transit takes you to Brestovačka Banja, where you seek shelter in historic spa buildings. In the afternoon, enjoy the view of Lake Bor from a lakeside cafe window. Later, explore the city center with its covered passages. In the evening, return comfortably to your accommodation by local bus."
+          },
+          "stops": [
+            {
+              "name": "Museum für Bergbau",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt gegenüber.",
+                "hu": "Buszmegálló közvetlenül szemben.",
+                "ro": "Stație de autobuz chiar vizavi.",
+                "en": "Bus stop right opposite."
+              }
+            },
+            {
+              "name": "Brestovačka Banja",
+              "tip_5lang": {
+                "de": "Überdachte Bushäuschen vorhanden.",
+                "hu": "Vannak fedett buszvárók.",
+                "ro": "Există refugii acoperite în stații.",
+                "en": "Covered bus shelters available."
+              }
+            },
+            {
+              "name": "See-Café",
+              "tip_5lang": {
+                "de": "Nah an der Bushaltestelle.",
+                "hu": "Közel van a buszmegállóhoz.",
+                "ro": "Aproape de stația de autobuz.",
+                "en": "Close to the bus stop."
+              }
+            },
+            {
+              "name": "Brestovica",
+              "tip_5lang": {
+                "de": "Fahrpläne per App prüfen.",
+                "hu": "Ellenőrizze a menetrendet appon.",
+                "ro": "Verificați orarul în aplicație.",
+                "en": "Check schedules via app."
+              }
+            },
+            {
+              "name": "Bor Zentrum",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt, oft Busse.",
+                "hu": "Központi csomópont, sűrű buszok.",
+                "ro": "Nod central, autobuze frecvente.",
+                "en": "Central hub, frequent buses."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse in Bor sind zuverlässig, aber seltener am Wochenende.",
+              "Kaufen Sie Fahrkarten beim Fahrer.",
+              "Tragen Sie einen kleinen Schirm für den Weg zur Haltestelle.",
+              "Das Museum ist ein guter Ort, um auf den nächsten Bus zu warten."
+            ],
+            "hu": [
+              "A bori buszok megbízhatóak, de hétvégén ritkábbak.",
+              "Vásároljon jegyet a sofőrnél.",
+              "Vigyen kisméretű esernyőt a megállóig.",
+              "A múzeumban kényelmesen várhat a következő buszra."
+            ],
+            "ro": [
+              "Autobuzele sunt de încredere, dar rare în weekend.",
+              "Cumpărați bilete de la șofer.",
+              "Purtați o umbrelă mică până la stație.",
+              "Muzeul este un loc bun de așteptat următorul autobuz."
+            ],
+            "en": [
+              "Buses in Bor are reliable but less frequent on weekends.",
+              "Buy tickets from the driver.",
+              "Carry a small umbrella for the walk to the stop.",
+              "The museum is a good place to wait for the next bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens nutzen Sie die beheizten Busse zum Bergbaumuseum. Mittags führt die Fahrt nach Brestovačka Banja, wo die verschneiten Parkanlagen eine friedliche Atmosphäre ausstrahlen. Nachmittags wärmen Sie sich in einem Restaurant am Bor-See bei einer heißen Mahlzeit auf. Die Rückfahrt in der Dämmerung bietet Ausblicke auf die beleuchteten Industrieanlagen von Bor. Abends ist das Stadtzentrum der ideale Ort für einen kurzen Spaziergang im Schnee.",
+            "hu": "Reggel szálljon a fűtött buszokra a Bányászati Múzeum felé. Délben az út Brestovačka Banjába vezet, ahol a havas parkok békés hangulatot árasztanak. Délután melegedjen fel a Bori-tónál egy étteremben egy forró étellel. A visszaút a szürkületben kilátást nyújt Bor kivilágított ipari létesítményeire. Este a városközpont ideális hely egy rövid sétához a hóban.",
+            "ro": "Dimineața folosiți autobuzele încălzite spre Muzeul Mineritului. La prânz, drumul duce la Brestovačka Banja, unde parcurile înzăpezite oferă o atmosferă pașnică. După-amiaza, încălziți-vă la Lacul Bor cu o masă fierbinte. Întoarcerea în amurg oferă priveliști asupra instalațiilor industriale iluminate. Seara, centrul este ideal pentru o scurtă plimbare prin zăpadă.",
+            "en": "In the morning, use the heated buses to the Mining Museum. At noon, the trip leads to Brestovačka Banja, where the snowy parks radiate a peaceful atmosphere. In the afternoon, warm up at Lake Bor in a restaurant with a hot meal. The return trip in the twilight offers views of Bor's illuminated industrial plants. In the evening, the city center is ideal for a short walk in the snow."
+          },
+          "stops": [
+            {
+              "name": "Museum für Bergbau",
+              "tip_5lang": {
+                "de": "Halle ist beheizt.",
+                "hu": "A csarnok fűtött.",
+                "ro": "Hala este încălzită.",
+                "en": "The hall is heated."
+              }
+            },
+            {
+              "name": "Brestovačka Banja",
+              "tip_5lang": {
+                "de": "Pfade können vereist sein.",
+                "hu": "Az ösvények jegesek lehetnek.",
+                "ro": "Potecile pot fi înghețate.",
+                "en": "Paths may be icy."
+              }
+            },
+            {
+              "name": "See-Restaurant",
+              "tip_5lang": {
+                "de": "Fensterplatz mit Aussicht suchen.",
+                "hu": "Keressen ablak melletti helyet.",
+                "ro": "Căutați un loc la fereastră.",
+                "en": "Find a window seat with a view."
+              }
+            },
+            {
+              "name": "Brestovica",
+              "tip_5lang": {
+                "de": "Wartezeiten im Freien kurz halten.",
+                "hu": "Tartsa röviden a várakozást kint.",
+                "ro": "Limitați așteptarea în aer liber.",
+                "en": "Keep outdoor waiting times short."
+              }
+            },
+            {
+              "name": "Bor Zentrum",
+              "tip_5lang": {
+                "de": "Abends gut beleuchtete Haltestellen.",
+                "hu": "Este jól kivilágított megállók.",
+                "ro": "Stații bine iluminate seara.",
+                "en": "Well-lit bus stops in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Schneefall Verspätung haben.",
+              "Die Heizung in den Regionalbussen ist meist gut.",
+              "Halten Sie Kleingeld für die Fahrkarten bereit.",
+              "Tragen Sie warme Schuhe für die Wartezeiten."
+            ],
+            "hu": [
+              "Erős hóesésben a buszok késhetnek.",
+              "A fűtés a távolsági buszokon általában jó.",
+              "Legyen Önnél aprópénz a jegyhez.",
+              "Viseljen meleg cipőt a várakozáshoz."
+            ],
+            "ro": [
+              "Autobuzele pot întârzia în caz de ninsoare.",
+              "Căldura în autobuzele regionale e de obicei bună.",
+              "Aveți mărunțiș pregătit pentru bilete.",
+              "Purtați încălțăminte groasă pentru așteptare."
+            ],
+            "en": [
+              "Buses may be delayed during heavy snowfall.",
+              "Heating in regional buses is usually good.",
+              "Keep small change ready for tickets.",
+              "Wear warm shoes for the waiting times."
+            ]
+          }
+        }
       }
     }
   }

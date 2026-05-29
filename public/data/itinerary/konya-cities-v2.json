@@ -386,6 +386,206 @@
           "When entering mosques, women must cover their hair, and everyone must take off their shoes.",
           "Most central sights are easily reachable on foot."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Spaziergang beginnt am Alaeddin-Hügel, wo die grauen Wolken über der Stadt hängen. Die Madrasas bieten perfekten Schutz vor den Schauern. Mittags führt der Weg zum Mevlana-Museum, einem Ort der Stille, während draußen der Regen auf die Pflastersteine trommelt. Den Nachmittag verbringen wir in den prachtvollen Moscheen und beenden den Tag trocken im überdachten historischen Basar.",
+            "hu": "Az esős reggel az Alaeddin-dombon indul, ahol a sűrű felhők misztikus hangulatot árasztanak. A medreszék kiváló menedéket nyújtanak a záporok elől. Délben a Mevlana Múzeum belső tereiben kalandozunk, távol a kopogó esőtől. Délután az Azizziye mecset monumentális belső tereit csodáljuk meg, majd a napot a történelmi bazár fedett árkádjai alatt zárjuk, ahol garantáltan szárazon maradunk.",
+            "ro": "Dimineața ploioasă începe pe dealul Alaeddin, sub un cer plumburiu. Madrasale oferă adăpostul perfect împotriva averselor. La prânz, vizităm Muzeul Mevlana, unde atmosfera spirituală este accentuată de sunetul ploii de afară. După-amiaza explorăm moscheile impunătoare, iar seara ne retragem în bazarul istoric acoperit, locul ideal pentru a face cumpărături fără a ne uda.",
+            "en": "A rainy morning starts on Alaeddin Hill, where the mist clings to the ancient trees. The nearby madrasas provide perfect shelter from the intermittent showers. By noon, the Mevlana Museum offers a spiritual sanctuary away from the wet streets. Spend the afternoon admiring the grand interiors of the Selimiye and Aziziye mosques, ending your day dry within the vaulted alleys of the Historical Bazaar."
+          },
+          "stops": [
+            {
+              "name": "Alaeddin Hill & Mosque",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Wegen im Park.",
+                "hu": "Vigyázat a park csúszós ösvényein.",
+                "ro": "Atenție la potecile alunecoase din parc.",
+                "en": "Be careful on the slippery paths in the park."
+              }
+            },
+            {
+              "name": "Ince Minareli (Slender Minaret) Madrasa",
+              "tip_5lang": {
+                "de": "Ideal, um einen kräftigen Schauer abzuwarten.",
+                "hu": "Ideális hely egy erősebb zápor kivárására.",
+                "ro": "Loc ideal pentru a aștepta trecerea unei averse.",
+                "en": "Ideal place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Karatay Madrasa",
+              "tip_5lang": {
+                "de": "Genießen Sie die Akustik des Regens unter der Kuppel.",
+                "hu": "Élvezze az eső kopogását a kupola alatt.",
+                "ro": "Bucurați-vă de sunetul ploii sub cupolă.",
+                "en": "Enjoy the sound of rain under the dome."
+              }
+            },
+            {
+              "name": "Mevlana Museum",
+              "tip_5lang": {
+                "de": "Lange Wartezeiten im Freien möglich, Schirm mitnehmen.",
+                "hu": "Hosszú várakozás lehetséges, vigyen esernyőt.",
+                "ro": "Posibile cozi afară, luați o umbrelă.",
+                "en": "Long queues possible outside, bring an umbrella."
+              }
+            },
+            {
+              "name": "Selimiye Mosque",
+              "tip_5lang": {
+                "de": "Warmer Teppichboden ist perfekt zum Aufwärmen.",
+                "hu": "A meleg szőnyeg kiváló a lábak felmelegítésére.",
+                "ro": "Covoarele calde sunt perfecte pentru relaxare.",
+                "en": "The warm carpet is perfect for warming up."
+              }
+            },
+            {
+              "name": "Aziziye Mosque",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Barockdetails bei gedimmtem Licht.",
+                "hu": "Csodálja meg a barokk részleteket a tompa fényben.",
+                "ro": "Admirați detaliile baroce în lumina difuză.",
+                "en": "Admire the Baroque details in the dimmed light."
+              }
+            },
+            {
+              "name": "Historical Bazaar",
+              "tip_5lang": {
+                "de": "Komplett überdacht, bester Ort für regnerische Abende.",
+                "hu": "Teljesen fedett, legjobb hely esős estékre.",
+                "ro": "Complet acoperit, cel mai bun loc pentru seri ploioase.",
+                "en": "Completely covered, best spot for rainy evenings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Gehwege in der Altstadt können bei Nässe sehr rutschig sein.",
+              "Nutzen Sie die Straßenbahn, um größere Pfützen zu umfahren.",
+              "Der historische Basar bietet stundenlangen Schutz vor Regen.",
+              "Viele Cafés rund um das Mevlana-Museum haben beheizte Innenräume."
+            ],
+            "hu": [
+              "Az óváros járdái nedvesen nagyon csúszósak lehetnek.",
+              "Használja a villamost a nagyobb tócsák elkerülése érdekében.",
+              "A történelmi bazár órákig tartó védelmet nyújt az eső ellen.",
+              "A Mevlana Múzeum környéki kávézók többsége fűtött beltérrel bír."
+            ],
+            "ro": [
+              "Trotuarele din orașul vechi pot fi foarte alunecoase când sunt ude.",
+              "Folosiți tramvaiul pentru a evita bălțile mari.",
+              "Bazarul istoric oferă adăpost împotriva ploii timp de ore întregi.",
+              "Multe cafenele din jurul Muzeului Mevlana au interioare încălzite."
+            ],
+            "en": [
+              "Sidewalks in the old city can be very slippery when wet.",
+              "Use the tramway to skip long walks between puddles.",
+              "The historical bazaar provides hours of shelter from the rain.",
+              "Many cafes around the Mevlana Museum have cozy heated interiors."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Konya im Winter ist oft von Schnee bedeckt und die Luft ist klirrend kalt. Wir starten früh am Alaeddin-Hügel, um die Wintersonne zu nutzen. Die Madrasas sind kühl, aber ihre Architektur im fahlen Licht beeindruckend. Mittags wärmen wir uns im Mevlana-Museum auf. Da die Sonne bereits gegen 17:00 Uhr untergeht, verbringen wir die Abendstunden in den beleuchteten Moscheen und dem gemütlichen Basar.",
+            "hu": "A téli Konya gyakran hóval borított, a levegő pedig csípősen hideg. Korán indulunk az Alaeddin-dombra, hogy elcsípjük a téli nap sugarait. A medreszék kőfalai hűvösek, de látványuk lenyűgöző a tiszta fényben. Délben a Mevlana Múzeum spirituális melegében frissülünk fel. Mivel a nap már 17:00 körül lemegy, az estét a kivilágított mecsetek és a bazár hangulatos forgatagában töltjük.",
+            "ro": "Konya iarna este adesea acoperită de zăpadă, iar aerul este tăios. Începem devreme pe dealul Alaeddin pentru a profita de soarele de iarnă. Madrasale sunt reci, dar arhitectura lor este impresionantă în lumina palidă. La prânz ne încălzim în Muzeul Mevlana. Deoarece soarele apune deja în jurul orei 17:00, petrecem seara în moscheile luminate și în bazarul primitor.",
+            "en": "Konya in winter is often draped in snow, with a crisp, biting chill in the air. We start early on Alaeddin Hill to catch the low winter sun. The stone madrasas feel cold, but their intricate carvings shine in the clear light. By noon, we find warmth within the Mevlana Museum. With sunset arriving early around 17:00, the evening is best spent in the illuminated mosques and the lively, sheltered bazaar."
+          },
+          "stops": [
+            {
+              "name": "Alaeddin Hill & Mosque",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stufen zum Hügel hinauf.",
+                "hu": "Ügyeljen a dombra felfelé vezető jeges lépcsőkre.",
+                "ro": "Atenție la treptele înghețate care urcă spre deal.",
+                "en": "Watch out for icy steps leading up the hill."
+              }
+            },
+            {
+              "name": "Ince Minareli (Slender Minaret) Madrasa",
+              "tip_5lang": {
+                "de": "Im Inneren ist es sehr kühl, behalten Sie den Mantel an.",
+                "hu": "Odabent nagyon hűvös van, tartsa magán a kabátot.",
+                "ro": "În interior este foarte rece, păstrați haina pe dvs.",
+                "en": "It is quite chilly inside; keep your coat on."
+              }
+            },
+            {
+              "name": "Karatay Madrasa",
+              "tip_5lang": {
+                "de": "Die blauen Kacheln wirken im Winterlicht besonders edel.",
+                "hu": "A kék csempék különösen szépek a téli fényben.",
+                "ro": "Plăcile albastre arată deosebit în lumina iernii.",
+                "en": "The blue tiles look especially elegant in the winter light."
+              }
+            },
+            {
+              "name": "Mevlana Museum",
+              "tip_5lang": {
+                "de": "Der Innenhof kann bei Wind sehr ungemütlich sein.",
+                "hu": "A belső udvar szeles időben nagyon barátságtalan lehet.",
+                "ro": "Curtea interioară poate fi neprimitoare pe vânt.",
+                "en": "The inner courtyard can be very biting in the wind."
+              }
+            },
+            {
+              "name": "Selimiye Mosque",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um der Kälte kurz zu entfliehen.",
+                "hu": "Csendes hely a hideg előli rövid menekülésre.",
+                "ro": "Un loc liniștit pentru o scurtă evadare din frig.",
+                "en": "A quiet place for a quick escape from the cold."
+              }
+            },
+            {
+              "name": "Aziziye Mosque",
+              "tip_5lang": {
+                "de": "Die Beleuchtung sorgt für eine warme Atmosphäre.",
+                "hu": "A világítás meleg hangulatot áraszt odabent.",
+                "ro": "Iluminatul oferă o atmosferă caldă în interior.",
+                "en": "The lighting creates a warm atmosphere inside."
+              }
+            },
+            {
+              "name": "Historical Bazaar",
+              "tip_5lang": {
+                "de": "Probieren Sie heißen Salep bei einem Straßenverkäufer.",
+                "hu": "Kóstolja meg a forró szalepet egy utcai árusnál.",
+                "ro": "Încercați un Salep fierbinte de la un vânzător stradal.",
+                "en": "Try a hot Salep from a street vendor."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Temperaturen in Konya können weit unter den Gefrierpunkt fallen.",
+              "Die Sonne geht im Winter gegen 17:00 Uhr unter.",
+              "Tragen Sie warme Socken, da Sie in Moscheen die Schuhe ausziehen müssen.",
+              "Heiße Suppen (Mercimek) sind überall preiswert und wärmend."
+            ],
+            "hu": [
+              "Konya hőmérséklete télen jóval fagypont alá süllyedhet.",
+              "A nap télen 17:00 körül nyugszik.",
+              "Viseljen meleg zoknit, mert a mecsetekben le kell venni a cipőt.",
+              "A forró levesek (Mercimek) mindenhol olcsók és laktatóak."
+            ],
+            "ro": [
+              "Temperaturile în Konya pot scădea mult sub punctul de îngheț.",
+              "Soarele apune în jur de ora 17:00 iarna.",
+              "Purtați șosete groase, deoarece trebuie să vă descălțați în moschei.",
+              "Supele fierbinți (Mercimek) sunt ieftine și hrănitoare peste tot."
+            ],
+            "en": [
+              "Temperatures in Konya can drop well below freezing in winter.",
+              "The sun sets early, around 17:00 in the winter months.",
+              "Wear thick socks as you must remove your shoes in mosques.",
+              "Hot lentil soups (Mercimek) are cheap and warming everywhere."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +942,188 @@
           "Plan your route in advance, especially for the longer rides outside the center.",
           "Bring a lock to secure your bike safely."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert gute Ausrüstung, aber die Stadt ist flach und leicht zu befahren. Wir starten am Alaeddin-Hügel und radeln vorsichtig zur Ince Minareli Madrasa. Das Mevlana-Museum bietet eine lange, trockene Pause. Nach dem Mittagessen führt eine längere Fahrt zum tropischen Schmetterlingsgarten, der im Inneren eine feucht-warme Zuflucht bietet. Der Tag endet ruhig in den Gärten von Meram.",
+            "hu": "A kerékpározás az esőben jó felszerelést igényel, de a város lapos és könnyen járható. Az Alaeddin-dombtól indulunk, óvatosan tekerve a medreszék felé. A Mevlana Múzeum hosszú, száraz pihenőt kínál. Ebéd után hosszabb tekerés vár ránk a Trópusi Lepkekertig, amely belül párás, meleg menedéket nyújt. A napot a Meram szőlőskertjei között zárjuk, ahol az eső illata frissítő.",
+            "ro": "O plimbare cu bicicleta în ploaie necesită echipament bun, dar orașul este plat și ușor de parcurs. Pornim de la dealul Alaeddin și pedalăm cu grijă spre Madrasa Ince Minareli. Muzeul Mevlana oferă o pauză lungă și uscată. După prânz, urmează o cursă mai lungă spre Grădina Tropicală de Fluturi, un refugiu cald și umed. Ziua se încheie liniștit în grădinile din Meram.",
+            "en": "Cycling in the rain requires proper gear, but Konya's flat terrain makes it manageable. Start at Alaeddin Hill and pedal cautiously to the Ince Minareli Madrasa. The Mevlana Museum provides a long, dry interval for exploration. After lunch, a longer ride takes you to the Tropical Butterfly Garden, a warm and humid sanctuary. End your day at Meram Vineyards, where the rain brings out the fresh scent of earth."
+          },
+          "stops": [
+            {
+              "name": "Alaeddin Hill & Mosque",
+              "tip_5lang": {
+                "de": "Vorsicht bei den Kurven auf dem Hügel, Rutschgefahr.",
+                "hu": "Vigyázat a dombon lévő kanyarokban, csúszásveszély.",
+                "ro": "Atenție la curbele de pe deal, pericol de antiderapare.",
+                "en": "Be careful in the turns on the hill; risk of skidding."
+              }
+            },
+            {
+              "name": "Ince Minareli Madrasa",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad unter einem Vordach.",
+                "hu": "Parkolja a biciklit egy előtető alá.",
+                "ro": "Parcați bicicleta sub o copertină.",
+                "en": "Park your bike under an overhang to keep it dry."
+              }
+            },
+            {
+              "name": "Mevlana Museum",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden, Regenkleidung gut verstauen.",
+                "hu": "Nagy parkoló van, az esőruhát tegye el biztos helyre.",
+                "ro": "Parcare mare disponibilă, depozitați bine hainele de ploaie.",
+                "en": "Large parking available; store your rain gear securely."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit Fahrrad-Sichtkontakt.",
+                "hu": "Keressen olyan helyet, ahol rálát a kerékpárra.",
+                "ro": "Căutați un loc cu vizibilitate directă la bicicletă.",
+                "en": "Find a place where you can keep an eye on your bike."
+              }
+            },
+            {
+              "name": "Tropical Butterfly Garden",
+              "tip_5lang": {
+                "de": "Genießen Sie die Hitze im Inneren, während es draußen regnet.",
+                "hu": "Élvezze a benti hőséget, miközben kint esik.",
+                "ro": "Bucurați-vă de căldura din interior în timp ce afară plouă.",
+                "en": "Enjoy the tropical heat inside while it rains outside."
+              }
+            },
+            {
+              "name": "Meram Vineyards",
+              "tip_5lang": {
+                "de": "Die Wege in Meram können schlammig sein.",
+                "hu": "Meram ösvényei sárosak lehetnek.",
+                "ro": "Potecile din Meram pot fi noroioase.",
+                "en": "The paths in Meram can be quite muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt im Regen.",
+              "Vermeiden Sie Markierungen auf der Straße, diese sind extrem rutschig.",
+              "Tragen Sie eine wasserfeste Hose, um Spritzwasser abzuhalten.",
+              "Die Fahrt zum Schmetterlingsgarten ist lang, planen Sie Pausen ein."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fékeket az esőben.",
+              "Kerülje az útburkolati jeleket, mert rendkívül csúszósak.",
+              "Viseljen vízálló nadrágot a felverődő víz ellen.",
+              "A Lepkekertig tartó út hosszú, tervezzen pihenőket."
+            ],
+            "ro": [
+              "Verificați frânele înainte de plecare pe ploaie.",
+              "Evitați marcajele rutiere, acestea sunt extrem de alunecoase.",
+              "Purtați pantaloni impermeabili împotriva stropilor de apă.",
+              "Drumul spre Grădina de Fluturi este lung, planificați pauze."
+            ],
+            "en": [
+              "Check your brakes before setting off in the rain.",
+              "Avoid road markings, as they become extremely slippery.",
+              "Wear waterproof trousers to protect against spray.",
+              "The ride to the Butterfly Garden is long; plan rest stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Konya ist erfrischend, aber kalt. Wir starten am Alaeddin-Hügel bei frostigen Temperaturen. Die Fahrt zur Ince Minareli Madrasa ist kurz genug, um nicht auszukühlen. Nach dem Mevlana-Museum und einem stärkenden Mittagessen radeln wir zum Schmetterlingsgarten – der Kontrast zwischen der Winterkälte und dem tropischen Klima ist spektakulär. Den Tag beenden wir in Meram, bevor es nach Sonnenuntergang zu kalt wird.",
+            "hu": "A téli biciklizés Konyában frissítő, de fagyos. Az Alaeddin-dombtól indulunk csípős hidegben. A tekerés a medreszékig rövid, így nem hűlünk ki teljesen. A Mevlana Múzeum és egy tartalmas ebéd után a Lepkekert felé vesszük az irányt – a téli fagy és a trópusi klíma közötti kontraszt fantasztikus. A napot Meramban zárjuk, még mielőtt a naplemente után beállna az igazi hideg.",
+            "ro": "Mersul pe bicicletă iarna în Konya este revigorant, dar friguros. Pornim de la dealul Alaeddin la temperaturi de îngheț. Cursa spre Madrasa Ince Minareli este destul de scurtă pentru a nu îngheța. După Muzeul Mevlana și un prânz consistent, pedalăm spre Grădina de Fluturi – contrastul dintre gerul iernii și climatul tropical este spectaculos. Încheiem ziua la Meram înainte să se facă prea frig după apus.",
+            "en": "Cycling in Konya's winter is refreshing but requires warm layers. Start at Alaeddin Hill in the frosty morning air. The ride to Ince Minareli is short enough to stay warm. After visiting the Mevlana Museum and having a hearty lunch, ride to the Butterfly Garden—the contrast between the winter chill and the tropical climate inside is spectacular. Finish your ride in Meram before it gets too cold after sunset."
+          },
+          "stops": [
+            {
+              "name": "Alaeddin Hill & Mosque",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisplatten auf dem Radweg.",
+                "hu": "Vigyázat a jégfoltokkal a kerékpárúton.",
+                "ro": "Atenție la plăcile de gheață de pe pista de biciclete.",
+                "en": "Watch out for patches of ice on the bike path."
+              }
+            },
+            {
+              "name": "Ince Minareli Madrasa",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Besichtigung zum Aufwärmen der Hände.",
+                "hu": "Használja a látogatást a kezei felmelegítésére.",
+                "ro": "Folosiți vizita pentru a vă încălzi mâinile.",
+                "en": "Use the visit to warm up your hands."
+              }
+            },
+            {
+              "name": "Mevlana Museum",
+              "tip_5lang": {
+                "de": "Achten Sie auf Passanten bei Schnee auf den Wegen.",
+                "hu": "Ügyeljen a gyalogosokra a havas utakon.",
+                "ro": "Atenție la pietoni pe drumurile înzăpezite.",
+                "en": "Be mindful of pedestrians on snowy paths."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Ein heißer Tee ist nach der Fahrt obligatorisch.",
+                "hu": "Egy forró tea kötelező a tekerés után.",
+                "ro": "Un ceai fierbinte este obligatoriu după cursă.",
+                "en": "A hot tea is mandatory after the ride."
+              }
+            },
+            {
+              "name": "Tropical Butterfly Garden",
+              "tip_5lang": {
+                "de": "Der krasseste Temperaturwechsel des Tages!",
+                "hu": "A nap legnagyobb hőmérséklet-változása!",
+                "ro": "Cea mai mare schimbare de temperatură a zilei!",
+                "en": "The biggest temperature shift of the day!"
+              }
+            },
+            {
+              "name": "Meram Vineyards",
+              "tip_5lang": {
+                "de": "Meram ist im Winter oft menschenleer und friedlich.",
+                "hu": "Meram télen gyakran kihalt és békés.",
+                "ro": "Meram este adesea pustiu și liniștit iarna.",
+                "en": "Meram is often deserted and peaceful in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe beim Radfahren.",
+              "Die Kette benötigt im Winter mehr Pflege wegen Streusalz.",
+              "Die Dämmerung setzt früh ein, prüfen Sie Ihre Beleuchtung.",
+              "Warme Schuhe oder Überschuhe sind bei Frost unverzichtbar."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt kerékpározás közben.",
+              "A lánc télen több ápolást igényel a szórósó miatt.",
+              "Korán sötétedik, ellenőrizze a világítást.",
+              "A meleg cipő vagy kamásli elengedhetetlen fagyban."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt când pedalați.",
+              "Lanțul necesită mai multă îngrijire iarna din cauza sării de pe drum.",
+              "Se întunecă devreme, verificați sistemul de iluminare.",
+              "Încălțămintea groasă este indispensabilă pe ger."
+            ],
+            "en": [
+              "Wear windproof gloves while cycling.",
+              "The chain needs more maintenance in winter due to road salt.",
+              "Dusk falls early; make sure your lights are working.",
+              "Warm shoes or shoe covers are essential in freezing weather."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1504,206 @@
           "Allow extra time for traffic, especially during peak hours.",
           "Do not leave valuables visible in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist man bei Regen in Konya bestens aufgehoben. Wir beginnen am tropischen Schmetterlingsgarten im Norden, wo das Wetter draußen keine Rolle spielt. Über Meram fahren wir zurück ins Zentrum zum Alaeddin-Hügel. Die Madrasas und das Mevlana-Museum lassen sich bequem erreichen, ohne nass zu werden. Den Tag beenden wir an der Selimiye-Moschee, wobei das Auto als trockene Basis für alle Wechsel dient.",
+            "hu": "Autóval az eső sem akadály Konyában. Északon, a Trópusi Lepkekertben kezdünk, ahol a kinti időjárás nem számít. Meram érintésével térünk vissza a központba, az Alaeddin-dombhoz. A medreszék és a Mevlana Múzeum kényelmesen elérhetők anélkül, hogy megáznánk. A napot a Selimiye mecsetnél zárjuk; az autó tökéletes bázis a városnézéshez az esős időben.",
+            "ro": "Cu mașina, ploaia nu este un obstacol în Konya. Începem la Grădina Tropicală de Fluturi din nord, unde vremea de afară nu contează. Ne întoarcem spre centru prin Meram, până la dealul Alaeddin. Madrasale și Muzeul Mevlana sunt ușor accesibile fără a ne uda. Încheiem ziua la moscheea Selimiye, mașina fiind baza noastră uscată pentru întreaga excursie.",
+            "en": "By car, the rain in Konya won't dampen your spirits. Start at the Tropical Butterfly Garden in the north, where it's always summer inside. Drive through Meram to return to the city center and Alaeddin Hill. The madrasas and the Mevlana Museum are easily reached with minimal walking in the rain. End your tour at the Selimiye Mosque, using your car as a dry hub throughout the day."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Tropical Butterfly Garden",
+              "tip_5lang": {
+                "de": "Überdachter Parkplatz meist direkt am Eingang.",
+                "hu": "Fedett parkoló általában közvetlenül a bejáratnál.",
+                "ro": "Parcare acoperită de obicei chiar la intrare.",
+                "en": "Covered parking usually available right at the entrance."
+              }
+            },
+            {
+              "name": "Cluster 2: Meram Gardens (Park & Walk)",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz zu den Cafés suchen.",
+                "hu": "Keressen rövid utat a parkolótól a kávézókig.",
+                "ro": "Căutați drumuri scurte de la parcare la cafenele.",
+                "en": "Look for short paths from the parking to the cafes."
+              }
+            },
+            {
+              "name": "Cluster 3: Alaeddin Hill (Parking)",
+              "tip_5lang": {
+                "de": "Parkhäuser in der Nähe nutzen, um Regen zu meiden.",
+                "hu": "Használjon közeli parkolóházakat az eső elkerülésére.",
+                "ro": "Folosiți parcările etajate din apropiere pentru a evita ploaia.",
+                "en": "Use nearby parking garages to avoid the rain."
+              }
+            },
+            {
+              "name": "Ince Minareli Madrasa",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen, Pfützen am Straßenrand.",
+                "hu": "Vigyázat kiszálláskor, tócsák az út szélén.",
+                "ro": "Atenție la coborâre, bălți la marginea drumului.",
+                "en": "Watch out for puddles when getting out of the car."
+              }
+            },
+            {
+              "name": "Karatay Madrasa",
+              "tip_5lang": {
+                "de": "Zentrales Parken ermöglicht schnellen Zugang.",
+                "hu": "A központi parkolás gyors bejutást tesz lehetővé.",
+                "ro": "Parcarea centrală permite accesul rapid.",
+                "en": "Central parking allows for quick access."
+              }
+            },
+            {
+              "name": "Mevlana Museum",
+              "tip_5lang": {
+                "de": "Hinterlegen Sie nasse Schirme im Kofferraum.",
+                "hu": "A vizes esernyőket hagyja a csomagtartóban.",
+                "ro": "Lăsați umbrelele ude în portbagaj.",
+                "en": "Leave wet umbrellas in the trunk."
+              }
+            },
+            {
+              "name": "Selimiye Mosque",
+              "tip_5lang": {
+                "de": "Parken direkt am Platz oft eingeschränkt.",
+                "hu": "A téren a parkolás gyakran korlátozott.",
+                "ro": "Parcarea direct în piață este adesea limitată.",
+                "en": "Parking directly on the square is often restricted."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bei Regen kann der Verkehr im Zentrum stocken.",
+              "Nutzen Sie die Parkhäuser rund um den Mevlana-Platz.",
+              "Vermeiden Sie das Parken unter Bäumen auf dem Alaeddin-Hügel.",
+              "Die Sicht kann bei starkem Regen stark eingeschränkt sein."
+            ],
+            "hu": [
+              "Esőben a forgalom belassulhat a központban.",
+              "Használja a Mevlana tér körüli parkolóházakat.",
+              "Kerülje a fák alatti parkolást az Alaeddin-dombon.",
+              "Heves esőzéskor a látási viszonyok jelentősen romolhatnak."
+            ],
+            "ro": [
+              "Traficul în centru poate fi lent pe timp de ploaie.",
+              "Folosiți parcările etajate din jurul pieței Mevlana.",
+              "Evitați parcarea sub copaci pe dealul Alaeddin.",
+              "Vizibilitatea poate fi redusă în caz de ploaie torențială."
+            ],
+            "en": [
+              "Traffic in the center can crawl during heavy rain.",
+              "Utilize the parking garages around Mevlana Square.",
+              "Avoid parking under trees on Alaeddin Hill during storms.",
+              "Visibility can be significantly reduced during downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Auto das komfortabelste Mittel, um Konya zu erkunden. Wir starten im warmen Auto zum Schmetterlingsgarten, wo tropische Hitze wartet. Danach geht es nach Meram für einen kurzen Winterspaziergang. Den Nachmittag verbringen wir im Stadtzentrum. Die kurzen Wege zwischen Parkplatz und den Madrasas oder dem Mevlana-Museum halten die Kälte fern. Den Tag schließen wir bei Sonnenuntergang an der prachtvollen Selimiye-Moschee ab.",
+            "hu": "Télen az autó a legkényelmesebb módja Konya felfedezésének. A fűtött utastérből indulunk a Lepkekertbe, ahol trópusi hőség fogad. Ezután Meram felé vesszük az irányt egy rövid téli sétára. A délutánt a városközpontban töltjük. A parkoló és a medreszék vagy a Mevlana Múzeum közötti rövid távok segítenek elkerülni a fagyot. A napot naplementekor a gyönyörű Selimiye mecsetnél zárjuk.",
+            "ro": "Iarna, mașina este cel mai confortabil mod de a explora Konya. Pornim din mașina încălzită spre Grădina de Fluturi, unde ne așteaptă căldura tropicală. Apoi mergem spre Meram pentru o scurtă plimbare de iarnă. După-amiaza o petrecem în centrul orașului. Distanțele scurte între parcare și madrasale sau Muzeul Mevlana țin frigul la distanță. Încheiem ziua la apus, la splendida moschee Selimiye.",
+            "en": "In winter, a car is the most comfortable way to navigate Konya's sub-zero temperatures. Start your day in a heated cabin before stepping into the tropical warmth of the Butterfly Garden. Next, drive to Meram for a brief winter walk. Spend the afternoon in the city center, where short walks from parking lots to madrasas or the Mevlana Museum keep the chill away. Wrap up your day at sunset by the grand Selimiye Mosque."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Tropical Butterfly Garden",
+              "tip_5lang": {
+                "de": "Heizung im Auto nicht zu hoch vor dem Aussteigen.",
+                "hu": "Ne tekerje fel túl magasra a fűtést kiszállás előtt.",
+                "ro": "Nu dați căldura prea tare în mașină înainte de a coborî.",
+                "en": "Don't crank the car heater too high before stepping out."
+              }
+            },
+            {
+              "name": "Cluster 2: Meram Gardens (Park & Walk)",
+              "tip_5lang": {
+                "de": "Vorsicht auf ungeräumten Parkplätzen.",
+                "hu": "Vigyázat a le nem takarított parkolókban.",
+                "ro": "Atenție în parcările necurățate de zăpadă.",
+                "en": "Be careful in unplowed parking areas."
+              }
+            },
+            {
+              "name": "Cluster 3: Alaeddin Hill (Parking)",
+              "tip_5lang": {
+                "de": "Zentrale Lage spart lange Wege in der Kälte.",
+                "hu": "A központi elhelyezkedés megkíméli a hideg sétáktól.",
+                "ro": "Locația centrală vă scutește de drumuri lungi prin frig.",
+                "en": "Central location saves you from long walks in the cold."
+              }
+            },
+            {
+              "name": "Ince Minareli Madrasa",
+              "tip_5lang": {
+                "de": "Kurzzeitparkplätze direkt davor nutzen.",
+                "hu": "Használja a közvetlenül előtte lévő rövid idejű parkolókat.",
+                "ro": "Folosiți parcările de scurtă durată direct în față.",
+                "en": "Use short-term parking spots directly in front."
+              }
+            },
+            {
+              "name": "Karatay Madrasa",
+              "tip_5lang": {
+                "de": "Lassen Sie keine Getränke im Auto einfrieren.",
+                "hu": "Ne hagyjon italokat megfagyni az autóban.",
+                "ro": "Nu lăsați băuturi să înghețe în mașină.",
+                "en": "Don't let drinks freeze inside the car."
+              }
+            },
+            {
+              "name": "Mevlana Museum",
+              "tip_5lang": {
+                "de": "Großer, oft geräumter Parkplatz.",
+                "hu": "Nagy, gyakran takarított parkoló.",
+                "ro": "Parcare mare, adesea curățată de zăpadă.",
+                "en": "Large, usually well-plowed parking lot."
+              }
+            },
+            {
+              "name": "Selimiye Mosque",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung ist im Schnee besonders schön.",
+                "hu": "Az esti kivilágítás a hóban különösen szép.",
+                "ro": "Iluminatul de seară este deosebit de frumos pe zăpadă.",
+                "en": "The evening lighting looks especially beautiful in snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Konya im Winter ein Muss.",
+              "Achten Sie auf Glatteis, besonders in den Nebenstraßen.",
+              "Halten Sie Enteisungsspray für die Schlösser bereit.",
+              "Die Batterie kann bei extremen Minusgraden schwächeln."
+            ],
+            "hu": [
+              "Téligumi használata Konyában télen kötelező.",
+              "Ügyeljen a jegesedésre, különösen a mellékutcákban.",
+              "Legyen kéznél jégoldó spray a zárakhoz.",
+              "Az akkumulátor gyengélkedhet a nagy mínuszokban."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Konya iarna.",
+              "Atenție la polei, în special pe străzile secundare.",
+              "Aveți la îndemână un spray de dezghețare pentru încuietori.",
+              "Bateria poate da semne de oboseală la temperaturi negative mari."
+            ],
+            "en": [
+              "Winter tires are a must in Konya during winter months.",
+              "Watch out for black ice, especially on side streets.",
+              "Keep de-icer spray handy for the locks.",
+              "Car batteries can struggle in the extreme cold."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1502,6 +2084,206 @@
           "Trams can be crowded during peak hours, plan accordingly.",
           "Keep an eye on your stops, as announcements may not always be clear."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Straßenbahn von Konya ist bei Regen ein Segen. Wir starten an der Haltestelle Alaeddin und besuchen die nahen Madrasas. Ein kurzer Transfer bringt uns zum Mevlana-Museum, während wir trocken aus dem Fenster schauen. Nach dem Besuch der Aziziye-Moschee nehmen wir den Bus zum Schmetterlingsgarten im Norden. Die öffentlichen Verkehrsmittel bieten eine warme und trockene Verbindung zwischen allen Highlights der Stadt.",
+            "hu": "A konyai villamos igazi áldás esőben. Az Alaeddin megállónál kezdünk, meglátogatva a közeli medreszéket. Egy rövid utazás után a Mevlana Múzeumnál vagyunk, miközben szárazon nézünk ki az ablakon. Az Aziziye mecset után busszal megyünk északra, a Lepkekertbe. A tömegközlekedés meleg és száraz összeköttetést biztosít a város minden fontos látnivalója között.",
+            "ro": "Tramvaiul din Konya este o binecuvântare pe timp de ploaie. Începem la stația Alaeddin și vizităm madrasale din apropiere. Un scurt transfer ne duce la Muzeul Mevlana, în timp ce privim ploaia de la fereastră. După moscheea Aziziye, luăm autobuzul spre Grădina de Fluturi din nord. Transportul public oferă o legătură caldă și uscată între toate atracțiile orașului.",
+            "en": "Konya's tramway is a blessing in the rain. Start at the Alaeddin stop and visit the nearby madrasas. A quick transit hop takes you to the Mevlana Museum while you stay dry looking out the window. After visiting the Aziziye Mosque, catch a bus to the Butterfly Garden in the north. Public transport provides a warm and dry connection between all the city's highlights."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Alaeddin Stop",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt mit vielen Unterständen.",
+                "hu": "Központi csomópont sok váróval.",
+                "ro": "Nod central cu multe adăposturi.",
+                "en": "Central hub with plenty of shelters."
+              }
+            },
+            {
+              "name": "Alaeddin Mosque",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Tramstation.",
+                "hu": "Rövid séta a villamosmegállótól.",
+                "ro": "Scurtă plimbare de la stația de tramvai.",
+                "en": "Short walk from the tram station."
+              }
+            },
+            {
+              "name": "Karatay Madrasa",
+              "tip_5lang": {
+                "de": "Nahe bei der Haltestelle gelegen.",
+                "hu": "Közel található a megállóhoz.",
+                "ro": "Situat aproape de stație.",
+                "en": "Located close to the stop."
+              }
+            },
+            {
+              "name": "Cluster 2: Mevlana Stop",
+              "tip_5lang": {
+                "de": "Oft windig bei Regen, Schirm festheben.",
+                "hu": "Esőben gyakran szeles, fogja erősen az esernyőt.",
+                "ro": "Adesea vântos pe ploaie, țineți bine umbrela.",
+                "en": "Often windy in the rain; hold onto your umbrella."
+              }
+            },
+            {
+              "name": "Mevlana Museum",
+              "tip_5lang": {
+                "de": "Kauf der Tickets am Automaten unter Dach möglich.",
+                "hu": "Jegyvásárlás az automatából fedett helyen lehetséges.",
+                "ro": "Cumpărarea biletelor de la automat este posibilă sub acoperiș.",
+                "en": "Ticket purchase from machines available under cover."
+              }
+            },
+            {
+              "name": "Aziziye Mosque & Bazaar",
+              "tip_5lang": {
+                "de": "Durch den Basar gelangt man trocken zur Haltestelle.",
+                "hu": "A bazáron keresztül szárazon juthat el a megállóig.",
+                "ro": "Prin bazar puteți ajunge uscat la stație.",
+                "en": "You can reach the stop dry by walking through the bazaar."
+              }
+            },
+            {
+              "name": "Cluster 3: Tropical Butterfly Garden (Bus Ride)",
+              "tip_5lang": {
+                "de": "Lange Busfahrt ist perfekt, um den Regen auszusitzen.",
+                "hu": "A hosszú buszút tökéletes az eső kivárására.",
+                "ro": "Călătoria lungă cu autobuzul este perfectă pentru a evita ploaia.",
+                "en": "The long bus ride is perfect for waiting out the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßenbahnen fahren auch bei starkem Regen pünktlich.",
+              "Nutzen Sie die App, um Wartezeiten im Regen zu minimieren.",
+              "Die Ticketkarten (Elkart) können an vielen Kiosken aufgeladen werden.",
+              "Busse in den Norden können bei Regen voller sein als sonst."
+            ],
+            "hu": [
+              "A villamosok heves esőzésben is pontosan járnak.",
+              "Használja az alkalmazást a várakozási idő csökkentésére.",
+              "Az Elkart kártyák számos újságárusnál feltölthetők.",
+              "Az északra tartó buszok esőben a szokásosnál zsúfoltabbak lehetnek."
+            ],
+            "ro": [
+              "Tramvaiele circulă la timp chiar și pe ploaie torențială.",
+              "Folosiți aplicația pentru a minimiza timpul de așteptare în ploaie.",
+              "Cardurile Elkart pot fi reîncărcate la multe chioșcuri.",
+              "Autobuzele spre nord pot fi mai aglomerate decât de obicei pe ploaie."
+            ],
+            "en": [
+              "Tramways in Konya run punctually even during heavy rain.",
+              "Use the transit app to minimize waiting time in the rain.",
+              "Transit cards (Elkart) can be topped up at many kiosks.",
+              "Northbound buses might be more crowded than usual on rainy days."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn durch das verschneite Konya ist ein Erlebnis. Wir starten an der Alaeddin-Haltestelle im Herzen der Stadt. Die beheizten Straßenbahnen bieten einen wunderbaren Blick auf die winterliche Architektur. Nach dem Mevlana-Museum nehmen wir den Bus zum Schmetterlingsgarten – die Fahrt ist die ideale Gelegenheit, sich zwischen den Besichtigungen aufzuwärmen. Den Tag beenden wir sicher und warm mit der Rückfahrt ins Stadtzentrum.",
+            "hu": "Busszal és villamossal a havas Konyán keresztül igazi élmény. Az Alaeddin megállónál kezdünk a város szívében. A fűtött villamosokból csodás kilátás nyílik a téli építészetre. A Mevlana Múzeum után busszal megyünk a Lepkekertbe – az út ideális alkalom a felmelegedésre a látnivalók között. A napot biztonságban és melegben zárjuk a belvárosba való visszatéréssel.",
+            "ro": "Călătoria cu autobuzul și tramvaiul prin Konya înzăpezită este o experiență. Începem la stația Alaeddin, în inima orașului. Tramvaiele încălzite oferă o vedere minunată asupra arhitecturii de iarnă. După Muzeul Mevlana, luăm autobuzul spre Grădina de Fluturi – călătoria este ocazia ideală de a ne încălzi între vizite. Încheiem ziua în siguranță și la căldură cu drumul de întoarcere spre centru.",
+            "en": "Traveling by bus and tram through snowy Konya is a cozy experience. Start at the Alaeddin stop in the heart of the city. The heated tramways offer a wonderful view of the winter architecture. After visiting the Mevlana Museum, take the bus to the Butterfly Garden—the ride is the perfect chance to warm up between sights. End your day safely and warmly by taking the transit back to the city center."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Alaeddin Stop",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte an den Bahnsteigkanten.",
+                "hu": "Ügyeljen a csúszós peronokra.",
+                "ro": "Atenție la peronul alunecos.",
+                "en": "Watch out for slippery platform edges."
+              }
+            },
+            {
+              "name": "Alaeddin Mosque",
+              "tip_5lang": {
+                "de": "Die Tramhaltestelle ist nur wenige Schritte entfernt.",
+                "hu": "A villamosmegálló csak pár lépésre van.",
+                "ro": "Stația de tramvai este la doar câțiva pași.",
+                "en": "The tram stop is only a few steps away."
+              }
+            },
+            {
+              "name": "Karatay Madrasa",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tram, um weite Wege zu vermeiden.",
+                "hu": "Használja a villamost a hosszú séták elkerülésére.",
+                "ro": "Folosiți tramvaiul pentru a evita drumurile lungi.",
+                "en": "Use the tram to avoid long walks in the cold."
+              }
+            },
+            {
+              "name": "Cluster 2: Mevlana Stop",
+              "tip_5lang": {
+                "de": "Die Wartehäuschen bieten Schutz vor dem Wind.",
+                "hu": "A várók védelmet nyújtanak a szél ellen.",
+                "ro": "Adăposturile din stație oferă protecție împotriva vântului.",
+                "en": "The shelters at the stop provide protection from the wind."
+              }
+            },
+            {
+              "name": "Mevlana Museum",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist für den Weg vom Transit nötig.",
+                "hu": "Meleg ruházat szükséges a megállótól tartó útra.",
+                "ro": "Haine groase sunt necesare pentru drumul de la stație.",
+                "en": "Warm clothes are needed for the walk from the stop."
+              }
+            },
+            {
+              "name": "Aziziye Mosque & Bazaar",
+              "tip_5lang": {
+                "de": "Der Transit ist hier sehr gut ausgebaut.",
+                "hu": "A közlekedés itt nagyon jól kiépített.",
+                "ro": "Transportul este foarte bine dezvoltat aici.",
+                "en": "Transit connections are very good in this area."
+              }
+            },
+            {
+              "name": "Cluster 3: Tropical Butterfly Garden (Bus Ride)",
+              "tip_5lang": {
+                "de": "Der Bus ist im Winter oft die wärmste Option.",
+                "hu": "A busz télen gyakran a legmelegebb opció.",
+                "ro": "Autobuzul este adesea cea mai caldă opțiune iarna.",
+                "en": "The bus is often the warmest option in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Straßenbahnen sind im Winter besser beheizt als Busse.",
+              "Bei starkem Schneefall können Busse Verspätung haben.",
+              "Halten Sie Ihre Elkart griffbereit, um Kälte an der Schranke zu meiden.",
+              "Die Heizungen in den Fahrzeugen können sehr trocken sein."
+            ],
+            "hu": [
+              "A villamosok télen jobban fűtöttek, mint a buszok.",
+              "Erős havazáskor a buszok késhetnek.",
+              "Tartsa készenlétben az Elkartot a gyors bejutás érdekében.",
+              "A járművek fűtése nagyon száríthatja a levegőt."
+            ],
+            "ro": [
+              "Tramvaiele sunt mai bine încălzite decât autobuzele iarna.",
+              "Autobuzele pot avea întârzieri în caz de ninsoare abundentă.",
+              "Aveți cardul Elkart la îndemână pentru a evita frigul la poartă.",
+              "Încălzirea din vehicule poate fi foarte uscată."
+            ],
+            "en": [
+              "Trams are usually better heated than buses in winter.",
+              "Buses may experience delays during heavy snowfall.",
+              "Keep your Elkart ready to minimize time spent at outdoor gates.",
+              "Vehicle heaters can make the air inside quite dry."
+            ]
+          }
+        }
       }
     }
   }

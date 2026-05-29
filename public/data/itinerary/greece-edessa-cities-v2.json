@@ -402,6 +402,224 @@
           "Many cafes offer stunning views of the Pella plain.",
           "The best time to visit is in spring when the water flow is strongest and nature is in bloom."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter Regenschirmen im Viertel Varosi, wo das nasse Kopfsteinpflaster glänzt. Mittags mischt sich der Regen mit dem Sprühnebel der Wasserfälle – ein kraftvolles Naturschauspiel. Nachmittags bieten das Hanfmuseum und das Wassermuseum trockene Zufluchtsorte mit faszinierender Technik. Der Abend klingt in den gemütlichen Gassen bei reflektierenden Lichtern in den Pfützen ruhig aus.",
+            "hu": "A reggel esernyők alatt indul Varosi negyedében, ahol a vizes macskakő különös fényt kap. Délben a vízeséseknél az eső és a permet keveredik, ami fenséges látványt nyújt. Délután a kendergyár és a vízimuzeum fedett terei nyújtanak menedéket a csapadék elől. Az este a tócsákban tükröződő városi fények között, csendes sétával ér véget.",
+            "ro": "Dimineața începe sub umbrele în cartierul Varosi, unde pavajul umed strălucește sub ploaie. La prânz, ploaia se contopește cu vaporii cascadelor, creând un spectacol natural impresionant. După-amiaza, Muzeul Cânepii și Muzeul Apei oferă adăpost uscat și povești industriale fascinante. Seara se încheie liniștit, cu luminile orașului reflectându-se în bălțile de pe străzile vechi.",
+            "en": "The morning starts under umbrellas in the Varosi district, where wet cobblestones glisten beautifully. At noon, the rain blends with the waterfall mist, creating a powerful and atmospheric natural display. In the afternoon, the Hemp Factory and Water Museum provide dry havens filled with industrial history. The evening winds down peacefully with city lights reflecting in the rain-slicked streets."
+          },
+          "stops": [
+            {
+              "name": "Varosi District",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Kopfsteinpflaster.",
+                "hu": "Vigyázzon a rendkívül csúszós macskaköveken.",
+                "ro": "Atenție la pavajul foarte alunecos din cartier.",
+                "en": "Careful on the extremely slippery cobblestones."
+              }
+            },
+            {
+              "name": "Byzantine Bridge",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, der Stein ist bei Nässe rutschig.",
+                "hu": "Rövid megálló, a kőfelület vizesen csúszik.",
+                "ro": "Oprire scurtă, piatra este alunecoasă pe ploaie.",
+                "en": "Short stop, the stone surface is slick when wet."
+              }
+            },
+            {
+              "name": "Yeni Mosque",
+              "tip_5lang": {
+                "de": "Guter Unterschlupf für eine kurze Regenpause.",
+                "hu": "Jó menedék egy rövid esőszünet idejére.",
+                "ro": "Un adăpost bun pentru o scurtă pauză de ploaie.",
+                "en": "Good shelter for a brief break from the rain."
+              }
+            },
+            {
+              "name": "Edessa Clock Tower",
+              "tip_5lang": {
+                "de": "Schnelles Foto aus geschützter Position machen.",
+                "hu": "Gyors fotó egy védettebb pontról készítve.",
+                "ro": "O fotografie rapidă dintr-un punct protejat.",
+                "en": "Quick photo taken from a sheltered spot."
+              }
+            },
+            {
+              "name": "Waterfalls Park",
+              "tip_5lang": {
+                "de": "Die Bäume bieten begrenzten Schutz vor Regen.",
+                "hu": "A fák korlátozott védelmet nyújtanak az eső ellen.",
+                "ro": "Copacii oferă o protecție limitată împotriva ploii.",
+                "en": "Trees provide limited protection from the rain."
+              }
+            },
+            {
+              "name": "Edessa Waterfalls",
+              "tip_5lang": {
+                "de": "Regenjacke wegen des starken Sprühnebels nötig.",
+                "hu": "Esőkabát kell a permet és az eső miatt is.",
+                "ro": "Pelerina este necesară din cauza vaporilor de apă.",
+                "en": "Rain jacket needed due to heavy spray and rain."
+              }
+            },
+            {
+              "name": "Open-Air Water Museum",
+              "tip_5lang": {
+                "de": "Besuchen Sie die überdachten Mühlen im Inneren.",
+                "hu": "Látogassa meg a fedett belső malomrészeket.",
+                "ro": "Vizitați secțiunile acoperite ale morilor vechi.",
+                "en": "Visit the indoor sheltered mill sections."
+              }
+            },
+            {
+              "name": "Hemp Factory",
+              "tip_5lang": {
+                "de": "Perfektes Indoor-Ziel bei starkem Regen.",
+                "hu": "Tökéletes beltéri célpont heves esőzés esetén.",
+                "ro": "Destinație interioară perfectă pentru ploaie grea.",
+                "en": "Perfect indoor destination during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Indoor-Museen als Regenschutz.",
+              "Vorsicht auf den Treppen bei den Wasserfällen.",
+              "Gute Regenbekleidung ist wegen der Gischt Pflicht.",
+              "Die Cafés in Varosi sind ideal für Pausen."
+            ],
+            "hu": [
+              "Használja a beltéri múzeumokat eső elleni védelemként.",
+              "Vigyázzon a lépcsőkkel a vízesések közelében.",
+              "A vízpermet miatt a vízálló ruházat kötelező.",
+              "Varosi kávézói ideálisak a hosszabb pihenőkre."
+            ],
+            "ro": [
+              "Folosiți muzeele interioare ca adăpost contra ploii.",
+              "Atenție sporită pe scările de lângă cascade.",
+              "Pelerina de ploaie este obligatorie din cauza spray-ului.",
+              "Cafenelele din Varosi sunt ideale pentru pauze."
+            ],
+            "en": [
+              "Use the indoor museums as shelter from the rain.",
+              "Extra caution is needed on stairs near the falls.",
+              "Waterproof gear is a must due to the heavy spray.",
+              "Cafes in Varosi are ideal for longer breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen im historischen Varosi lässt die alte Architektur streng und schön wirken. Mittags tost das Wasser in der kalten Luft, ein beeindruckender Kontrast zur winterlichen Stille. Nachmittags wärmen wir uns in den Ausstellungen des Hanfmuseums auf, bevor die Sonne früh sinkt. Der Abend hüllt die beleuchtete Stadt in eine frostige, aber magische Atmosphäre.",
+            "hu": "A tiszta téli reggelen Varosi történelmi házai között a levegő friss és metsző. Délben a vízesések robaja a hideg széllel párosul, fenséges és zord élményt nyújtva. Délután a kendergyár kiállításai között melegszünk fel, mielőtt a nap korán lebukna. Az este fagyos, de varázslatos hangulatban, kivilágított utcákon ér véget.",
+            "ro": "O dimineață senină de iarnă în Varosi scoate în evidență arhitectura veche în aerul tăios. La prânz, vuietul cascadelor în aerul rece oferă un contrast spectaculos cu liniștea iernii. După-amiaza ne încălzim în expozițiile Muzeului Cânepii înainte ca soarele să apună devreme. Seara învăluie orașul iluminat într-o atmosferă geroasă, dar magică.",
+            "en": "A crisp winter morning in historic Varosi makes the old architecture stand out in the sharp air. At noon, the roaring waterfalls contrast with the winter chill for a majestic experience. In the afternoon, we warm up inside the Hemp Factory exhibits before the early sunset. The evening wraps the illuminated city in a frosty but truly magical atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Varosi District",
+              "tip_5lang": {
+                "de": "Warme Schuhe für die kalten Steinpflaster.",
+                "hu": "Meleg lábbeli kell a hideg köves utcákra.",
+                "ro": "Încălțăminte călduroasă pentru străzile reci.",
+                "en": "Warm footwear needed for the cold stone streets."
+              }
+            },
+            {
+              "name": "Byzantine Bridge",
+              "tip_5lang": {
+                "de": "Windig, halten Sie Mütze und Schal bereit.",
+                "hu": "Szeles pont, legyen kéznél sapka és sál.",
+                "ro": "Loc vântos, aveți la îndemână căciula și fularul.",
+                "en": "Windy spot, keep your hat and scarf ready."
+              }
+            },
+            {
+              "name": "Yeni Mosque",
+              "tip_5lang": {
+                "de": "Kurze Besichtigung zum Schutz vor dem Wind.",
+                "hu": "Rövid látogatás a szél elleni védekezésül.",
+                "ro": "Vizită scurtă pentru a vă proteja de vânt.",
+                "en": "Short visit to take cover from the cold wind."
+              }
+            },
+            {
+              "name": "Edessa Clock Tower",
+              "tip_5lang": {
+                "de": "Schönes Fotomotiv im klaren Winterlicht.",
+                "hu": "Szép fotótéma a tiszta téli fényekben.",
+                "ro": "Subiect frumos de poză în lumina clară de iarnă.",
+                "en": "Beautiful photo subject in clear winter light."
+              }
+            },
+            {
+              "name": "Waterfalls Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Eisglätte auf Wegen.",
+                "hu": "Ügyeljen az utakon előforduló jegesedésre.",
+                "ro": "Atenție la posibila gheață de pe poteci.",
+                "en": "Watch out for potential ice on the paths."
+              }
+            },
+            {
+              "name": "Edessa Waterfalls",
+              "tip_5lang": {
+                "de": "Gischt kann auf den Geländern gefrieren.",
+                "hu": "A permet ráfagyhat a korlátokra, óvatosan.",
+                "ro": "Vaporii pot îngheța pe balustrade, atenție.",
+                "en": "Spray may freeze on railings, be careful."
+              }
+            },
+            {
+              "name": "Open-Air Water Museum",
+              "tip_5lang": {
+                "de": "Innenbereiche sind windgeschützt und wärmer.",
+                "hu": "A belső terek szélvédettek és melegebbek.",
+                "ro": "Spațiile interioare sunt ferite de vânt.",
+                "en": "Indoor areas are sheltered and warmer."
+              }
+            },
+            {
+              "name": "Hemp Factory",
+              "tip_5lang": {
+                "de": "Idealer Ort zum Aufwärmen am Nachmittag.",
+                "hu": "Ideális hely a délutáni felmelegedéshez.",
+                "ro": "Loc ideal pentru încălzire după-amiaza.",
+                "en": "Ideal place to warm up in the afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sonnenuntergang ist bereits gegen 17:15 Uhr.",
+              "Die Nähe zum Wasser macht die Luft kälter.",
+              "Tragen Sie Schichten gegen den schneidenden Wind.",
+              "Viele Außenbereiche des Museums schließen früher."
+            ],
+            "hu": [
+              "A naplemente már 17:15 körül bekövetkezik.",
+              "A víz közelsége miatt a levegő sokkal hidegebb.",
+              "Öltözzön rétegesen a metsző szél ellen.",
+              "A múzeum külső részei korábban zárhatnak."
+            ],
+            "ro": [
+              "Apusul soarelui are loc deja în jurul orei 17:15.",
+              "Apropierea de apă face aerul mult mai rece.",
+              "Purtați straturi de haine contra vântului tăios.",
+              "Zonele exterioare ale muzeului se pot închide."
+            ],
+            "en": [
+              "Sunset occurs early, around 17:15.",
+              "The proximity to water makes the air feel colder.",
+              "Dress in layers against the biting wind.",
+              "Outdoor museum sections may close earlier."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -733,6 +951,206 @@
           "Carry plenty of water, especially in the summer.",
           "A bike lock is essential to leave your bike securely while you explore the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren durch das regnerische Edessa erfordert Konzentration auf den glatten Wegen. Vormittags erkunden wir Varosi vorsichtig, während der Regen die Farben intensiviert. Mittags erreichen wir die donnernden Wasserfälle, wo die Gischt den Regen ergänzt. Nachmittags parken wir die Räder für ausgiebige Indoor-Besichtigungen im Hanfmuseum. Der Abend endet mit einer zügigen Fahrt durch die nassen Straßen.",
+            "hu": "A biciklizés az esős Edesszában koncentrációt igényel a csúszós utakon. Délelőtt óvatosan járjuk be Varosit, miközben az eső mélyíti a színeket. Délben elérjük a dübörgő vízeséseket, ahol a permet és az eső eggyé válik. Délután leparkoljuk a gépeket a kendergyár fedett kiállításaihoz. Az este egy gyors tekeréssel zárul a vizes aszfalton.",
+            "ro": "Ciclismul prin Edessa ploioasă necesită concentrare pe drumurile alunecoase. Dimineața explorăm Varosi cu grijă, în timp ce ploaia intensifică culorile. La prânz ajungem la cascadele tunătoare, unde vaporii se amestecă cu ploaia. După-amiaza parcăm bicicletele pentru vizite lungi la Muzeul Cânepii. Seara se încheie cu o cursă rapidă pe străzile ude.",
+            "en": "Cycling through rainy Edessa requires focus on the slick paths. In the morning, we explore Varosi carefully as the rain deepens the colors. At noon, we reach the thundering falls where mist and rain merge. In the afternoon, we park the bikes for extensive indoor visits at the Hemp Factory. The evening ends with a brisk ride through the wet streets."
+          },
+          "stops": [
+            {
+              "name": "Edessa Clock Tower",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Grund.",
+                "hu": "Vigyázzon a leszálláskor a vizes talajon.",
+                "ro": "Atenție la coborârea de pe bicicletă pe ud.",
+                "en": "Be careful when dismounting on wet ground."
+              }
+            },
+            {
+              "name": "Varosi District",
+              "tip_5lang": {
+                "de": "Reifenrutschgefahr auf dem alten Pflaster.",
+                "hu": "A gumik megcsúszhatnak a régi köveken.",
+                "ro": "Risc de derapare pe pavajul vechi.",
+                "en": "Risk of tires slipping on the old stones."
+              }
+            },
+            {
+              "name": "Byzantine Bridge",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad über die Brücke.",
+                "hu": "Inkább tolja a biciklit a hídon.",
+                "ro": "Mai bine împingeți bicicleta pe pod.",
+                "en": "Better to push the bike across the bridge."
+              }
+            },
+            {
+              "name": "Waterfalls Park",
+              "tip_5lang": {
+                "de": "Bremsweg auf nassem Laub beachten.",
+                "hu": "Figyeljen a féktávra a vizes leveleken.",
+                "ro": "Atenție la distanța de frânare pe frunze.",
+                "en": "Note the braking distance on wet leaves."
+              }
+            },
+            {
+              "name": "Edessa Waterfalls",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz unter Vordächern.",
+                "hu": "Keressen fedett tárolót a bicikliknek.",
+                "ro": "Căutați un loc de parcare sub acoperiș.",
+                "en": "Find a sheltered parking spot for bikes."
+              }
+            },
+            {
+              "name": "Open-Air Water Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp zum Aufwärmen.",
+                "hu": "Használja ki a megállót a melegedésre.",
+                "ro": "Folosiți oprirea pentru a vă încălzi.",
+                "en": "Use the stop to warm up indoors."
+              }
+            },
+            {
+              "name": "Hemp Factory",
+              "tip_5lang": {
+                "de": "Lange Pause, während es draußen regnet.",
+                "hu": "Hosszú pihenő, amíg kint esik az eső.",
+                "ro": "Pauză lungă în timp ce afară plouă.",
+                "en": "Long break while it rains outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bremsen reagieren bei Nässe verzögert.",
+              "Vermeiden Sie Pfützen, sie könnten tief sein.",
+              "Tragen Sie eine vollflächige Regenmontur.",
+              "Machen Sie das Licht für bessere Sicht an."
+            ],
+            "hu": [
+              "A fékek nedvesen lassabban fognak.",
+              "Kerülje a tócsákat, mélyek lehetnek.",
+              "Viseljen teljes esővédő felszerelést.",
+              "Kapcsolja be a lámpákat a láthatóságért."
+            ],
+            "ro": [
+              "Frânele reacționează mai lent pe umed.",
+              "Evitați bălțile, pot fi adânci.",
+              "Purtați echipament complet de ploaie.",
+              "Aprindeți luminile pentru vizibilitate."
+            ],
+            "en": [
+              "Brakes have a delayed response when wet.",
+              "Avoid puddles as they might be deep.",
+              "Wear full waterproof cycling gear.",
+              "Turn on lights for better visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bei kühlem Wind radeln wir durch das winterliche Edessa, die Luft ist herrlich erfrischend. Vormittags glänzt die Stadt im tiefstehenden Sonnenlicht, während wir durch Varosi rollen. Mittags erreichen wir die frostigen Wasserfälle, deren Anblick im Winter besonders klar ist. Nachmittags suchen wir Schutz vor der Kälte in der Hanffabrik. Der Abend bricht früh an, und wir radeln beleuchtet zurück ins Zentrum.",
+            "hu": "Hűvös szélben tekerünk át a téli Edesszán, a levegő frissítően hideg. Délelőtt a város alacsony napfényben tündököl, miközben Varosi utcáin gurulunk. Délben elérjük a fagyos vízeséseket, melyek látványa télen különösen tiszta. Délután a kendergyárban keresünk menedéket a hideg elől. Az este korán érkezik, kivilágítva tekerünk vissza a központba.",
+            "ro": "Pedalăm prin Edessa de iarnă sub un vânt răcoros, aerul fiind revigorant. Dimineața, orașul strălucește în lumina joasă a soarelui în timp ce rulăm prin Varosi. La prânz ajungem la cascadele înghețate, a căror vedere este clară iarna. După-amiaza căutăm adăpost contra frigului în fabrica de cânepă. Seara vine devreme și pedalăm iluminați înapoi.",
+            "en": "We cycle through winter Edessa in a cool breeze, the air is refreshingly cold. In the morning, the city shines in low sunlight as we roll through Varosi. At noon, we reach the frosty falls, which look exceptionally clear in winter. In the afternoon, we seek shelter from the cold at the Hemp Factory. Evening arrives early, and we cycle back to the center with lights on."
+          },
+          "stops": [
+            {
+              "name": "Edessa Clock Tower",
+              "tip_5lang": {
+                "de": "Kurzer Halt, um nicht auszukühlen.",
+                "hu": "Rövid megálló, hogy ne hűljön ki.",
+                "ro": "Oprire scurtă pentru a nu îngheța.",
+                "en": "Short stop to avoid catching a chill."
+              }
+            },
+            {
+              "name": "Varosi District",
+              "tip_5lang": {
+                "de": "Vorsicht bei Raureif auf den Steinen.",
+                "hu": "Vigyázzon a köveken lévő dérre.",
+                "ro": "Atenție la chiciura de pe pietre.",
+                "en": "Watch out for frost on the stones."
+              }
+            },
+            {
+              "name": "Byzantine Bridge",
+              "tip_5lang": {
+                "de": "Glättegefahr auf der Brückenoberfläche.",
+                "hu": "Csúszásveszély a híd felületén.",
+                "ro": "Risc de alunecare pe suprafața podului.",
+                "en": "Slippery surface risk on the bridge."
+              }
+            },
+            {
+              "name": "Waterfalls Park",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam in schattigen Zonen.",
+                "hu": "Hajtson lassan az árnyékos részeken.",
+                "ro": "Mergeți încet în zonele cu umbră.",
+                "en": "Ride slowly in shaded sections."
+              }
+            },
+            {
+              "name": "Edessa Waterfalls",
+              "tip_5lang": {
+                "de": "Kaltes Sprühwasser, halten Sie Abstand.",
+                "hu": "Hideg vízpermet, tartson távolságot.",
+                "ro": "Vapori reci de apă, păstrați distanța.",
+                "en": "Cold water spray, keep your distance."
+              }
+            },
+            {
+              "name": "Open-Air Water Museum",
+              "tip_5lang": {
+                "de": "Parken Sie windgeschützt beim Eingang.",
+                "hu": "Parkoljon szélvédett helyen a bejáratnál.",
+                "ro": "Parcați ferit de vânt la intrare.",
+                "en": "Park in a wind-sheltered spot at the entry."
+              }
+            },
+            {
+              "name": "Hemp Factory",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände im Inneren auf.",
+                "hu": "Melegítse fel a kezeit odabent.",
+                "ro": "Încălziți-vă mâinile în interior.",
+                "en": "Warm up your hands inside the building."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe sind essenziell.",
+              "Achten Sie auf gefrorene Pfützen (Eis).",
+              "Planen Sie die Rückkehr vor 17 Uhr.",
+              "Warme Getränke in Thermosflaschen helfen."
+            ],
+            "hu": [
+              "A szélálló kesztyű elengedhetetlen.",
+              "Ügyeljen a fagyott tócsákra (jég).",
+              "Tervezze a visszatérést 17 óra elé.",
+              "A termoszban lévő meleg ital sokat segít."
+            ],
+            "ro": [
+              "Mănușile rezistente la vânt sunt esențiale.",
+              "Atenție la bălțile înghețate.",
+              "Planificați întoarcerea înainte de ora 17.",
+              "Băuturile calde în termos ajută mult."
+            ],
+            "en": [
+              "Windproof gloves are essential.",
+              "Watch out for frozen puddles (ice).",
+              "Plan to return before 5 PM.",
+              "Warm drinks in a thermos are helpful."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1071,6 +1489,206 @@
           "Combine your visit with a trip to nearby Loutra Pozar (thermal baths).",
           "Be aware of parking fees, especially near the waterfalls."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Edessa bei Regen komfortabel zu erkunden. Vormittags parken wir nah am Varosi-Viertel und machen kurze Abstecher ins Freie. Mittags bewundern wir die Wasserfälle, wobei der Wagen als trockener Rückzugsort dient. Nachmittags verbringen wir viel Zeit im Wassermuseum und der Hanffabrik. Der Abend schließt mit einer Fahrt zum Aussichtspunkt ab, von dem aus wir die regnerische Stadt überblicken.",
+            "hu": "Autóval Edessza felfedezése esőben is kényelmes marad. Délelőtt a Varosi negyed közelében parkolunk, rövid kirándulásokat téve a szabadba. Délben a vízeséseket csodáljuk meg, az autó pedig száraz menedékként szolgál. Délután több időt töltünk a vízimuzeumban és a kendergyárban. Az este a városon kívüli kilátópontnál zárul, ahonnan rálátunk az esős városra.",
+            "ro": "Cu mașina, explorarea orașului Edessa pe ploaie rămâne confortabilă. Dimineața parcăm aproape de Varosi și facem scurte ieșiri afară. La prânz admirăm cascadele, mașina servind drept refugiu uscat. După-amiaza petrecem mult timp în Muzeul Apei și fabrica de cânepă. Seara se încheie cu o vizită la punctul de belvedere, de unde vedem orașul sub ploaie.",
+            "en": "Exploring Edessa by car remains comfortable even in the rain. In the morning, we park close to Varosi and take short trips outside. At noon, we admire the falls, using the car as a dry retreat. In the afternoon, we spend plenty of time at the Water Museum and Hemp Factory. The evening concludes at the viewpoint, overlooking the rain-washed city."
+          },
+          "stops": [
+            {
+              "name": "Varosi District Parking",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Rand.",
+                "hu": "Használja a közvetlenül a szélén lévő parkolót.",
+                "ro": "Folosiți parcarea de la marginea zonei.",
+                "en": "Use the parking lot right at the edge."
+              }
+            },
+            {
+              "name": "Varosi District",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Auto und Gassen.",
+                "hu": "Rövid utak az autó és a sikátorok között.",
+                "ro": "Drumuri scurte între mașină și străzi.",
+                "en": "Short walks between the car and the alleys."
+              }
+            },
+            {
+              "name": "Byzantine Bridge",
+              "tip_5lang": {
+                "de": "Parken Sie kurz für ein schnelles Foto.",
+                "hu": "Parkoljon le egy gyors fotó erejéig.",
+                "ro": "Parcați scurt pentru o poză rapidă.",
+                "en": "Park briefly for a quick photo."
+              }
+            },
+            {
+              "name": "Waterfalls Parking",
+              "tip_5lang": {
+                "de": "Oft voll bei Regen, da alle das Auto nutzen.",
+                "hu": "Esőben gyakran tele van, mindenki autózik.",
+                "ro": "Adesea plină pe ploaie, toți vin cu mașina.",
+                "en": "Often full in the rain as everyone drives."
+              }
+            },
+            {
+              "name": "Waterfalls Park & Waterfalls",
+              "tip_5lang": {
+                "de": "Regenschirm direkt vom Parkplatz mitnehmen.",
+                "hu": "Vigyen esernyőt közvetlenül a parkolóból.",
+                "ro": "Luați umbrela direct din parcare.",
+                "en": "Take an umbrella directly from the parking."
+              }
+            },
+            {
+              "name": "Open-Air Water Museum",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Haupteingang.",
+                "hu": "Parkoljon közel a főbejárathoz.",
+                "ro": "Parcați aproape de intrarea principală.",
+                "en": "Park close to the main entrance."
+              }
+            },
+            {
+              "name": "Viewpoint Outside the City",
+              "tip_5lang": {
+                "de": "Genießen Sie die Sicht aus dem trockenen Auto.",
+                "hu": "Élvezze a kilátást a száraz autóból.",
+                "ro": "Bucurați-vă de vedere din mașina uscată.",
+                "en": "Enjoy the view from inside the dry car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beschlagene Scheiben durch Klimaanlage vermeiden.",
+              "Vorsicht bei Aquaplaning auf der Zufahrtsstraße.",
+              "Halten Sie Handtücher für nasse Kleidung bereit.",
+              "Parkplätze sind bei Regen oft schneller belegt."
+            ],
+            "hu": [
+              "A klímával akadályozza meg a szélvédő párásodását.",
+              "Vigyázzon a felúszásra a bevezető utakon.",
+              "Legyen kéznél törölköző a vizes ruhákhoz.",
+              "Esőben a parkolók gyorsabban megtelnek."
+            ],
+            "ro": [
+              "Evitați aburirea geamurilor cu climatizarea.",
+              "Atenție la acvaplanare pe drumurile de acces.",
+              "Aveți prosoape la îndemână pentru haine ude.",
+              "Parcările se umplu mai repede când plouă."
+            ],
+            "en": [
+              "Use AC to prevent windshield fogging.",
+              "Watch out for aquaplaning on access roads.",
+              "Keep towels ready for wet clothes.",
+              "Parking lots fill up faster during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Edessa lässt sich ideal mit dem Auto erfahren, da man stets einen warmen Ort hat. Vormittags erkunden wir das ruhige Varosi-Viertel im sanften Licht. Mittags bestaunen wir die beeindruckenden Wasserfälle in der klaren Winterluft. Nachmittags besuchen wir das Wassermuseum, bevor es dunkel wird. Zum Abschluss fahren wir zum Aussichtspunkt, um das Lichtermeer der Stadt in der Winternacht zu sehen.",
+            "hu": "A téli Edessza felfedezése autóval ideális, hiszen mindig van egy meleg bázisunk. Délelőtt a csendes Varosi negyedet járjuk be a lágy fényekben. Délben a lenyűgöző vízeséseket csodáljuk a tiszta téli levegőben. Délután a vízimuzeumba látogatunk, mielőtt besötétedik. Végezetül a kilátóhoz hajtunk, hogy lássuk a város fényeit a téli éjszakában.",
+            "ro": "Edessa de iarnă se explorează ideal cu mașina, având mereu un loc cald la dispoziție. Dimineața vizităm cartierul liniștit Varosi în lumina blândă. La prânz admirăm cascadele impresionante în aerul clar. După-amiaza vizităm Muzeul Apei înainte de lăsarea întunericului. La final, mergem la punctul de belvedere pentru a vedea luminile orașului noaptea.",
+            "en": "Winter Edessa is ideally explored by car, providing a warm base at all times. In the morning, we wander through the quiet Varosi district in soft light. At noon, we marvel at the impressive falls in the clear winter air. In the afternoon, we visit the Water Museum before it gets dark. Finally, we drive to the viewpoint to see the city lights in the winter night."
+          },
+          "stops": [
+            {
+              "name": "Varosi District Parking",
+              "tip_5lang": {
+                "de": "Parkplatz kann morgens überfroren sein.",
+                "hu": "A parkoló reggelente jeges lehet.",
+                "ro": "Parcarea poate fi înghețată dimineața.",
+                "en": "The parking lot may be icy in the morning."
+              }
+            },
+            {
+              "name": "Varosi District",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem Spaziergang.",
+                "hu": "Használja az ülésfűtést a séta után.",
+                "ro": "Folosiți încălzirea în scaune după plimbare.",
+                "en": "Use seat heating after your walk."
+              }
+            },
+            {
+              "name": "Byzantine Bridge",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Kälte zu minimieren.",
+                "hu": "Rövid megálló a hideg minimalizálására.",
+                "ro": "Oprire scurtă pentru a minimiza frigul.",
+                "en": "Short stop to minimize cold exposure."
+              }
+            },
+            {
+              "name": "Waterfalls Parking",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eiszapfen an den Bäumen.",
+                "hu": "Vigyázzon a fákon lévő jégcsapokra.",
+                "ro": "Atenție la țurțurii de pe copaci.",
+                "en": "Watch out for icicles on the trees."
+              }
+            },
+            {
+              "name": "Waterfalls Park & Waterfalls",
+              "tip_5lang": {
+                "de": "Besonders klarer Blick bei Frost.",
+                "hu": "Különösen tiszta kilátás fagy esetén.",
+                "ro": "Vedere foarte clară în caz de îngheț.",
+                "en": "Exceedingly clear views during frost."
+              }
+            },
+            {
+              "name": "Open-Air Water Museum",
+              "tip_5lang": {
+                "de": "Drinnen ist es deutlich angenehmer.",
+                "hu": "Odabent lényegesen kellemesebb az idő.",
+                "ro": "În interior este mult mai plăcut.",
+                "en": "It is significantly warmer inside."
+              }
+            },
+            {
+              "name": "Viewpoint Outside the City",
+              "tip_5lang": {
+                "de": "Perfekt für Nachtaufnahmen der Stadt.",
+                "hu": "Tökéletes hely éjszakai városfotókhoz.",
+                "ro": "Perfect pentru poze de noapte cu orașul.",
+                "en": "Perfect for night photos of the city."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei Kälte.",
+              "Halten Sie einen Eiskratzer griffbereit.",
+              "Achtung bei Schattenplätzen auf den Straßen.",
+              "Licht frühzeitig einschalten (Dämmerung)."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást hidegben.",
+              "Legyen kéznél jégkaparó az autóban.",
+              "Figyeljen az árnyékos útszakaszokra.",
+              "Kapcsolja fel korán a világítást."
+            ],
+            "ro": [
+              "Verificați presiunea roților la frig.",
+              "Aveți o racletă la îndemână în mașină.",
+              "Atenție la porțiunile de drum cu umbră.",
+              "Aprindeți farurile din timp la amurg."
+            ],
+            "en": [
+              "Check tire pressure in cold weather.",
+              "Keep an ice scraper ready in the car.",
+              "Watch out for shaded road sections.",
+              "Turn on lights early during twilight."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1385,6 +2003,188 @@
           "Bus stops are not always clearly marked; ask a local if in doubt.",
           "Buses can be crowded during peak season, be patient."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus navigieren wir durch das verregnete Edessa und bleiben weitgehend trocken. Vormittags führt uns die Fahrt zum Varosi-Viertel, wo wir unter Vordächern Schutz suchen. Mittags verbringen wir viel Zeit bei den Wasserfällen, wobei die Bushäuschen als Rettungsinseln dienen. Nachmittags besuchen wir das Wassermuseum und die Kathedrale, bevor wir zurückfahren. Der Abend endet gemütlich in der Nähe des Busbahnhofs.",
+            "hu": "Busszal közlekedve nagyrészt szárazon járhatjuk be az esős Edesszát. Délelőtt a járat Varosi negyedébe visz, ahol az ereszek alatt keresünk menedéket. Délben sok időt töltünk a vízeséseknél, a buszmegállók váróit használva menedékként. Délután a vízimuzeumba és a székesegyházba látogatunk, mielőtt visszatérnénk. Az este kellemesen zárul a buszpályaudvar közelében.",
+            "ro": "Navigăm prin Edessa ploioasă cu autobuzul și rămânem în mare parte uscați. Dimineața, cursa ne duce în cartierul Varosi, unde ne adăpostim sub stresini. La prânz petrecem timp la cascade, folosind stațiile de autobuz ca refugii. După-amiaza vizităm Muzeul Apei și catedrala înainte de întoarcere. Seara se încheie confortabil lângă autogară.",
+            "en": "We navigate rainy Edessa by bus, staying largely dry between stops. In the morning, the ride takes us to Varosi, where we shelter under overhanging roofs. At noon, we spend time at the falls, using bus shelters as refuge points. In the afternoon, we visit the Water Museum and the cathedral before heading back. The evening ends comfortably near the central station."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der überdachten Halle.",
+                "hu": "Várjon a fedett várócsarnokban.",
+                "ro": "Așteptați în holul acoperit.",
+                "en": "Wait inside the sheltered hall."
+              }
+            },
+            {
+              "name": "Varosi Stop",
+              "tip_5lang": {
+                "de": "Kurzer Sprint zum historischen Viertel.",
+                "hu": "Rövid sprint a történelmi negyedig.",
+                "ro": "Sprint scurt până în cartierul istoric.",
+                "en": "Short sprint to the historic district."
+              }
+            },
+            {
+              "name": "Yeni Mosque",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es gute Unterstände.",
+                "hu": "A közelben jó fedett helyek vannak.",
+                "ro": "Există adăposturi bune în apropiere.",
+                "en": "There are good shelters nearby."
+              }
+            },
+            {
+              "name": "Waterfalls Stop",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Wartehäuschen bei Schauern.",
+                "hu": "Használja a várótermet záporok esetén.",
+                "ro": "Folosiți refugiul stației în caz de averse.",
+                "en": "Use the station shelter during showers."
+              }
+            },
+            {
+              "name": "Open-Air Water Museum",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen am Gehweg.",
+                "hu": "Vigyázzon a tócsákra a járdán.",
+                "ro": "Atenție la bălțile de pe trotuar.",
+                "en": "Watch out for puddles on the sidewalk."
+              }
+            },
+            {
+              "name": "Agia Skepi Cathedral",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den Regen abzuwarten.",
+                "hu": "Tökéletes hely az eső kivárására.",
+                "ro": "Loc perfect pentru a aștepta trecerea ploii.",
+                "en": "Perfect place to wait out the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die App auf Verspätungen.",
+              "Busse sind bei Regen oft sehr voll.",
+              "Halten Sie Kleingeld griffbereit.",
+              "Tragen Sie wasserfeste Schuhe für die Wege."
+            ],
+            "hu": [
+              "Ellenőrizze az alkalmazást a késések miatt.",
+              "Esőben a buszok gyakran tömöttek.",
+              "Legyen kéznél aprópénz a jegyhez.",
+              "Viseljen vízálló cipőt a gyalogutakhoz."
+            ],
+            "ro": [
+              "Verificați aplicația pentru întârzieri.",
+              "Autobuzele sunt adesea aglomerate pe ploaie.",
+              "Aveți mărunțiș pregătit pentru bilet.",
+              "Purtați pantofi impermeabili pentru mers."
+            ],
+            "en": [
+              "Check the app for potential delays.",
+              "Buses are often very crowded in the rain.",
+              "Keep small change ready for tickets.",
+              "Wear waterproof shoes for the walk intervals."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Bus bietet im winterlichen Edessa eine warme Zuflucht zwischen den Sehenswürdigkeiten. Vormittags fahren wir zum Varosi-Viertel, das im Winterlicht besonders ruhig ist. Mittags erreichen wir die frostigen Wasserfälle, bevor wir uns in den beheizten Bussen wieder aufwärmen. Nachmittags besuchen wir das Wassermuseum und die Agia Skepi Kathedrale. Der Abend bricht früh an, und die Busfahrt zurück bietet einen Blick auf die beleuchtete Stadt.",
+            "hu": "A busz meleg menedéket nyújt a téli Edesszában a látnivalók között. Délelőtt a Varosi negyedbe utazunk, amely a téli fényben különösen csendes. Délben megnézzük a fagyos vízeséseket, majd a fűtött buszokon melegszünk fel. Délután a vízimuzeumba és az Agia Skepi székesegyházba látogatunk. Az este korán beköszönt, a visszaút pedig rálátást nyújt a kivilágított városra.",
+            "ro": "Autobuzul oferă un refugiu cald în Edessa de iarnă între obiective. Dimineața mergem în cartierul Varosi, care este foarte liniștit în lumina iernii. La prânz vedem cascadele înghețate, apoi ne încălzim în autobuzele încălzite. După-amiaza vizităm Muzeul Apei și catedrala Agia Skepi. Seara vine devreme, iar drumul de întoarcere oferă o vedere spre orașul iluminat.",
+            "en": "The bus provides a warm refuge between sights in winter Edessa. In the morning, we travel to the Varosi district, which is especially quiet in winter light. At noon, we see the frosty falls before warming up again on the heated buses. In the afternoon, we visit the Water Museum and the Agia Skepi Cathedral. Evening sets in early, and the ride back offers views of the lit city."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Station",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Inneren, bis der Bus kommt.",
+                "hu": "Maradjon odabent a busz érkezéséig.",
+                "ro": "Stați în interior până vine autobuzul.",
+                "en": "Stay inside until the bus arrives."
+              }
+            },
+            {
+              "name": "Varosi Stop",
+              "tip_5lang": {
+                "de": "Zügiges Gehen hält Sie warm.",
+                "hu": "A tempós gyaloglás melegen tartja.",
+                "ro": "Mersul vioi vă va ține de cald.",
+                "en": "Brisk walking will keep you warm."
+              }
+            },
+            {
+              "name": "Yeni Mosque",
+              "tip_5lang": {
+                "de": "Schöner Anblick im klaren Frost.",
+                "hu": "Szép látvány a tiszta fagyban.",
+                "ro": "Vedere frumoasă în gerul clar.",
+                "en": "Beautiful sight in the clear frost."
+              }
+            },
+            {
+              "name": "Waterfalls Stop",
+              "tip_5lang": {
+                "de": "Haltestelle liegt im kalten Windschatten.",
+                "hu": "A megálló a hideg szélárnyékban van.",
+                "ro": "Stația se află în zona de vânt rece.",
+                "en": "The stop is located in a cold wind path."
+              }
+            },
+            {
+              "name": "Open-Air Water Museum",
+              "tip_5lang": {
+                "de": "Besuch der Innenräume empfohlen.",
+                "hu": "A belső terek meglátogatása javasolt.",
+                "ro": "Se recomandă vizitarea spațiilor interioare.",
+                "en": "Visiting the indoor sections is recommended."
+              }
+            },
+            {
+              "name": "Agia Skepi Cathedral",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und Wärme.",
+                "hu": "A csend és a meleg helyszíne.",
+                "ro": "Un loc al liniștii și căldurii.",
+                "en": "A place of silence and warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busfrequenz kann im Winter geringer sein.",
+              "Fahrpläne für die frühen Abendstunden prüfen.",
+              "Sitzplätze über der Heizung bevorzugen.",
+              "Fenster können im Bus beschlagen sein."
+            ],
+            "hu": [
+              "Télen a buszok ritkábban járhatnak.",
+              "Ellenőrizze a kora esti menetrendet.",
+              "A fűtés feletti üléseket részesítse előnyben.",
+              "A buszablakok belülről párásak lehetnek."
+            ],
+            "ro": [
+              "Frecvența curselor poate fi mai mică iarna.",
+              "Verificați orarul pentru orele serii.",
+              "Preferiți locurile de deasupra încălzirii.",
+              "Geamurile autobuzului pot fi aburite."
+            ],
+            "en": [
+              "Bus frequency may be lower in winter.",
+              "Check the early evening schedules.",
+              "Prefer seats located over the heaters.",
+              "Bus windows may be fogged up inside."
+            ]
+          }
+        }
       }
     }
   }

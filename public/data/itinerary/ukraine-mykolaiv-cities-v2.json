@@ -356,6 +356,188 @@
           "Most museums are closed on Mondays, so plan accordingly.",
           "Always have some cash on hand for small purchases or tips."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in der Soborna-Straße beginnt grau, aber die bunten Schirme beleben die Szene. Die Kathedrale bietet einen trockenen, spirituellen Rückzugsort.\nMittags ist das Heimatmuseum der ideale Ort, um der Nässe zu entkommen und tief in die Geschichte der Region einzutauchen.\nAm Nachmittag bieten das Admiralitätsgebäude und das Schiffbaumuseum reichlich Schutz und faszinierende maritime Einblicke.\nDer Abend am Yachtclub wirkt bei Regen fast mystisch. Der Blick auf den Südlichen Bug ist von einem gemütlichen Café aus am schönsten.",
+            "hu": "A reggel szürkén indul a Szoborna utcán, de a színes esernyők feldobják a sétányt. A Székesegyház száraz, békés menedéket nyújt az eső elől.\nDélidőben a Helytörténeti Múzeum a legjobb választás, ahol a falak között várakozva ismerhetjük meg a vidék múltját.\nDélután az Admiralitás és a Hajóépítészeti Múzeum fedett kiállításai garantálják a tartalmas és száraz kikapcsolódást.\nAz este a Yacht Klubnál esőben is hangulatos. A Déli-Bug folyó látványa egy meleg kávézó ablakából a legvonzóbb.",
+            "ro": "Dimineața pe strada Soborna începe sub un cer cenușiu, dar umbrelele colorate înviorează atmosfera. Catedrala oferă un refugiu spiritual uscat.\nLa prânz, Muzeul de Istorie Locală este locul ideal pentru a scăpa de ploaie și a explora trecutul fascinant al regiunii.\nDupă-amiaza, clădirea Amiralității și Muzeul Construcțiilor Navale oferă adăpost și expoziții maritime deosebite.\nSeara la Yacht Club este aproape mistică pe ploaie. Vederea spre râul Bugul de Sud este cea mai frumoasă de la fereastra unei cafenele primitoare.",
+            "en": "Morning starts with a gray sky over Soborna Street, where colorful umbrellas dot the pedestrian way. The Cathedral offers a dry sanctuary.\nLunchtime is best spent indoors at the Local Lore Museum, exploring history while the rain taps on the windows.\nThe afternoon continues through the historical heart. The Admiralty and the Shipbuilding Museum provide ample shelter and fascinating exhibits.\nEvening settles in at the Yacht Club. The Southern Bug river looks mysterious under the rain, perfectly viewed from a cozy indoor cafe seat."
+          },
+          "stops": [
+            {
+              "name": "Soborna Street",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschiges Pflaster in der Fußgängerzone.",
+                "hu": "Vigyázzon, a sétálóutca kövezete esőben csúszós lehet.",
+                "ro": "Atenție la pavajul alunecos de pe strada pietonală.",
+                "en": "Watch out for slippery pavement on the pedestrian street."
+              }
+            },
+            {
+              "name": "Cathedral of the Nativity of the Blessed Virgin Mary",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um die Kleidung kurz zu trocknen.",
+                "hu": "Csendes hely, ideális egy rövid száradáshoz.",
+                "ro": "Un loc liniștit pentru a vă usca puțin hainele.",
+                "en": "A quiet place to dry off your clothes for a bit."
+              }
+            },
+            {
+              "name": "Mykolaiv Regional Museum of Local Lore",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Mäntel und Schirme.",
+                "hu": "Használja a ruhatárat a vizes kabátok és ernyők számára.",
+                "ro": "Folosiți garderoba pentru haine și umbrele ude.",
+                "en": "Use the cloakroom for wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Admiralty Building",
+              "tip_5lang": {
+                "de": "Der Eingangsbereich bietet kurzzeitigen Schutz vor Schauern.",
+                "hu": "A bejárat környéke rövid menedéket nyújt a záporok elől.",
+                "ro": "Zona de intrare oferă adăpost temporar împotriva ploii.",
+                "en": "The entrance area provides temporary shelter from showers."
+              }
+            },
+            {
+              "name": "Museum of Shipbuilding and Fleet",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um eine längere Regenfront abzuwarten.",
+                "hu": "Tökéletes helyszín egy hosszabb eső kivárásához.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei ploi lungi.",
+                "en": "Perfect place to wait out a longer rain front."
+              }
+            },
+            {
+              "name": "Mykolaiv Yacht Club",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Fluss aus dem Restaurant.",
+                "hu": "Élvezze a folyóra nyíló kilátást az étteremből.",
+                "ro": "Bucurați-vă de vederea la râu din interiorul restaurantului.",
+                "en": "Enjoy the river view from inside the restaurant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Soborna-Straße.",
+              "Die Museen in Mykolajiw sind montags oft geschlossen.",
+              "Ein großer Schirm ist bei Wind vom Fluss her wichtig.",
+              "Nutzen Sie die vielen Cafés als Zwischenstopps im Trockenen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a Szoborna utca felfedezéséhez.",
+              "A múzeumok hétfőnként általában zárva tartanak.",
+              "A folyó felől fújó szél miatt erős esernyőre lesz szükség.",
+              "Használja ki a kávézókat száraz pihenőpontként."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru strada Soborna.",
+              "Muzeele din Nikolaev sunt adesea închise lunea.",
+              "O umbrelă rezistentă este necesară din cauza vântului de pe râu.",
+              "Folosiți cafenelele ca puncte de oprire pentru a rămâne uscat."
+            ],
+            "en": [
+              "Wear waterproof shoes for exploring Soborna Street.",
+              "Museums in Mykolaiv are often closed on Mondays.",
+              "A sturdy umbrella is essential due to river winds.",
+              "Use the many cafes as dry pit stops during your walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen auf der Soborna-Straße erfordert warme Kleidung. Die Kathedrale bietet einen friedlichen, beheizten Start in den Tag.\nMittags sind die Korridore des Heimatmuseums eine willkommene Flucht vor dem beißenden Wind, der vom Fluss her weht.\nWenn die frühe Dämmerung einsetzt, steht das Admiralitätsgebäude stolz gegen den blassen Himmel. Das Schiffbaumuseum ist das ideale Nachmittagsziel.\nDer Tag endet am Yachtclub. Die gefrorenen Ufer und die scharfe Winterluft machen den Spaziergang kurz, aber erfrischend.",
+            "hu": "A fagyos reggel a Szoborna utcán meleg öltözetet kíván. A Székesegyház békés, fűtött menedéket nyújt a nap kezdetén.\nDélben a Helytörténeti Múzeum folyosói hívogató menekülést jelentenek a folyó felől fújó metsző szél elől.\nAhogy közeledik a korai naplemente, az Admiralitás büszkén magasodik a fakó égbolt előtt. A Hajóépítészeti Múzeum tökéletes délutáni célpont.\nA nap a Yacht Klubnál ér véget. A jeges folyópart és a csípős téli levegő frissítő, de rövid sétára csábít a vacsora előtt.",
+            "ro": "O dimineață geroasă pe strada Soborna necesită haine groase. Catedrala oferă un început de zi liniștit și încălzit.\nLa prânz, coridoarele Muzeului de Istorie Locală sunt o evadare binevenită de vântul tăios care suflă dinspre râu.\nPe măsură ce apusul timpuriu se apropie, clădirea Amiralității stă mândră pe cerul palid. Muzeul Marinei este destinația ideală.\nZiua se încheie la Yacht Club. Malurile înghețate ale râului și aerul tăios de iarnă fac plimbarea revigorantă, dar scurtă.",
+            "en": "A crisp winter morning on Soborna Street requires warm layers. The Cathedral provides a peaceful, heated start to the journey.\nBy noon, the Regional Museum's corridors offer a welcome escape from the biting wind coming off the river.\nAs the early sunset approaches, the Admiralty building stands tall against the pale sky. The Shipbuilding Museum is a perfect indoor highlight.\nThe day ends at the Yacht Club. The frozen river edges and sharp winter air make for a bracing walk before a warm dinner."
+          },
+          "stops": [
+            {
+              "name": "Soborna Street",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Tee zum Mitnehmen.",
+                "hu": "Vegyél egy forró teát az út menti árusoknál.",
+                "ro": "Luați un ceai fierbinte de la vânzătorii de pe stradă.",
+                "en": "Grab a hot tea to go from the street vendors."
+              }
+            },
+            {
+              "name": "Cathedral of the Nativity of the Blessed Virgin Mary",
+              "tip_5lang": {
+                "de": "Genießen Sie die angenehme Wärme im Inneren.",
+                "hu": "Élvezze a belső tér kellemes melegét.",
+                "ro": "Bucurați-vă de căldura plăcută din interior.",
+                "en": "Enjoy the pleasant warmth of the interior."
+              }
+            },
+            {
+              "name": "Mykolaiv Regional Museum of Local Lore",
+              "tip_5lang": {
+                "de": "Ideale Zeit für die ausführliche Innenausstellung.",
+                "hu": "Ideális időpont a belső kiállítások böngészéséhez.",
+                "ro": "Moment ideal pentru a explora expozițiile interioare.",
+                "en": "Ideal time for exploring the indoor exhibits."
+              }
+            },
+            {
+              "name": "Admiralty Building",
+              "tip_5lang": {
+                "de": "Das Gebäude ist in der frühen Dämmerung schön beleuchtet.",
+                "hu": "Az épület csodás a korai szürkület fényeiben.",
+                "ro": "Clădirea este frumos iluminată la amurg.",
+                "en": "The building is beautifully lit in the early twilight."
+              }
+            },
+            {
+              "name": "Museum of Shipbuilding and Fleet",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungsräume zum Aufwärmen.",
+                "hu": "Látogassa meg a kiállítótermeket a felmelegedéshez.",
+                "ro": "Vizitați sălile de expoziție pentru a vă încălzi.",
+                "en": "Visit the exhibition rooms to warm up."
+              }
+            },
+            {
+              "name": "Mykolaiv Yacht Club",
+              "tip_5lang": {
+                "de": "Achtung, die Uferpromenade kann vereist sein.",
+                "hu": "Vigyázat, a folyóparti sétány jeges lehet.",
+                "ro": "Atenție, promenada de pe mal poate fi înghețată.",
+                "en": "Careful, the riverside promenade may be icy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Vermeiden Sie lange Wartezeiten an zugigen Straßenecken.",
+              "Warme Handschuhe sind wegen des Flusswindes unverzichtbar.",
+              "Die Museen sind gut beheizt und bieten Komfort."
+            ],
+            "hu": [
+              "A nap télen már 16:30 körül lenyugszik.",
+              "Kerülje a hosszú várakozást a huzatos utcasarkokon.",
+              "A folyó felőli szél miatt a meleg kesztyű elengedhetetlen.",
+              "A múzeumok jól fűtöttek és kényelmesek."
+            ],
+            "ro": [
+              "Soarele apune iarna în jurul orei 16:30.",
+              "Evitați așteptările lungi în colțurile de stradă expuse vântului.",
+              "Mănușile groase sunt indispensabile din cauza vântului.",
+              "Muzeele sunt bine încălzite și oferă confort."
+            ],
+            "en": [
+              "The sun sets as early as 16:30 in winter.",
+              "Avoid long waits on drafty street corners.",
+              "Warm gloves are essential due to the river breeze.",
+              "Museums are well-heated and provide comfort."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +911,206 @@
           "A helmet is highly recommended.",
           "Use bike lanes wherever they are available."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Start auf zwei Rädern durch die Soborna-Straße erfordert Vorsicht. Die Kathedrale bietet eine kurze, trockene Pause.\nDie Fahrt zum Admiralitätsgebäude führt über nasse Straßen. Das Schiffbaumuseum ist der perfekte Ort, um die Ausrüstung zu trocknen.\nAm Nachmittag geht es zum Yachtclub, wo die Gischt des Flusses und der Regen eins werden.\nDie Tour endet am Zoo, wo die üppige Vegetation im Regen besonders intensiv duftet und viele Tiere Unterstände suchen.",
+            "hu": "Az esős reggel két keréken a Szoborna utcán óvatosságot igényel. A Székesegyház rövid, száraz pihenőt kínál.\nAz Admiralitáshoz vezető út vizes aszfalton halad. A Hajóépítészeti Múzeum ideális hely a felszerelés megszárítására.\nDélután a Yacht Klub felé vesszük az irányt, ahol a folyó permete és az eső eggyé válik.\nA túra az Állatkertnél zárul, ahol az esőben felfrissült növényzet illata és a fedett pavilonok várják.",
+            "ro": "Un început ploios pe două roți pe strada Soborna necesită prudență. Catedrala oferă o scurtă pauză uscată.\nDrumul spre Amiralitate trece pe străzi ude. Muzeul Construcțiilor Navale este locul perfect pentru a vă usca echipamentul.\nDupă-amiaza ne îndreptăm spre Yacht Club, unde stropii râului și ploaia devin una.\nTurul se încheie la Grădina Zoologică, unde vegetația miroase intens în ploaie și animalele caută adăpost.",
+            "en": "A rainy start on two wheels through Soborna Street requires caution. The Cathedral offers a short, dry break.\nThe ride to the Admiralty leads over wet streets. The Shipbuilding Museum is the perfect place to dry your gear.\nIn the afternoon, head to the Yacht Club, where the river spray and rain become one.\nThe tour ends at the Zoo, where the lush vegetation smells intense in the rain and many animals seek shelter."
+          },
+          "stops": [
+            {
+              "name": "Soborna Street",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Straßenbahnschienen.",
+                "hu": "Vigyázzon a csúszós villamossínekkel.",
+                "ro": "Atenție la șinele de tramvai alunecoase.",
+                "en": "Watch out for slippery tram tracks."
+              }
+            },
+            {
+              "name": "Cathedral of the Nativity of the Blessed Virgin Mary",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter einem Vordach ab.",
+                "hu": "Parkolja le a bringát egy előtető alatt.",
+                "ro": "Parcați bicicleta sub un copertină.",
+                "en": "Park your bike under a canopy."
+              }
+            },
+            {
+              "name": "Admiralty Building",
+              "tip_5lang": {
+                "de": "Kurze Pause im Trockenen beim Haupteingang.",
+                "hu": "Rövid száraz pihenő a főbejáratnál.",
+                "ro": "Scurtă pauză uscată la intrarea principală.",
+                "en": "Short dry break near the main entrance."
+              }
+            },
+            {
+              "name": "Museum of Shipbuilding and Fleet",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer sind vorhanden.",
+                "hu": "Biztonságos kerékpártárolók állnak rendelkezésre.",
+                "ro": "Sunt disponibile suporturi sigure pentru biciclete.",
+                "en": "Secure bike racks are available."
+              }
+            },
+            {
+              "name": "Mykolaiv Yacht Club",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Holzsteg bei Nässe.",
+                "hu": "Vigyázzon a fapallókon, ha nedvesek.",
+                "ro": "Atenție pe pasarelele de lemn când sunt ude.",
+                "en": "Be careful on wooden walkways when wet."
+              }
+            },
+            {
+              "name": "Varvarivskyi Bridge",
+              "tip_5lang": {
+                "de": "Starker Seitenwind bei Regen möglich.",
+                "hu": "Esőben erős oldalszélre kell számítani.",
+                "ro": "Posibil vânt lateral puternic în timpul ploii.",
+                "en": "Strong crosswinds possible during rain."
+              }
+            },
+            {
+              "name": "Mykolaiv Zoo",
+              "tip_5lang": {
+                "de": "Viele überdachte Wege zwischen den Gehegen.",
+                "hu": "Sok fedett útvonal a kifutók között.",
+                "ro": "Multe alei acoperite între țarcuri.",
+                "en": "Many covered pathways between enclosures."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist absolut notwendig.",
+              "Vermeiden Sie Pfützen, da Schlaglöcher tief sein können.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt.",
+              "Wasserdichte Packtaschen schützen Ihre Wertsachen."
+            ],
+            "hu": [
+              "A teljes esőruházat elengedhetetlen.",
+              "Kerülje a tócsákat, a kátyúk mélyek lehetnek.",
+              "Indulás előtt ellenőrizze a fékeket.",
+              "A vízálló táskák megvédik az értékeit."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este absolut necesar.",
+              "Evitați bălțile, gropile pot fi adânci.",
+              "Verificați frânele înainte de plecare.",
+              "Gențile impermeabile vă protejează bunurile."
+            ],
+            "en": [
+              "Full rain gear is absolutely necessary.",
+              "Avoid puddles as potholes can be deep.",
+              "Check your brakes before setting off.",
+              "Waterproof panniers will protect your valuables."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour beginnt erfrischend in der Soborna-Straße. Ein kurzer Stopp an der Kathedrale wärmt die Finger auf.\nDie Fahrt zum Admiralitätsgebäude bei klirrender Kälte erfordert gute Schichten. Das Schiffbaumuseum bietet die nötige Aufwärmpause.\nNachmittags führt der Weg über die Varvarivskyi-Brücke, wo der Wind vom Fluss her besonders schneidig ist.\nDer Tag endet im Zoo. Die winterliche Stille und die Tiere in ihren Winterquartieren bieten eine ganz eigene Atmosphäre.",
+            "hu": "A téli túra frissítően indul a Szoborna utcán. Egy rövid megálló a Székesegyháznál felmelegíti az ujjakat.\nAz Admiralitáshoz vezető út a csípős hidegben réteges öltözetet kíván. A Hajóépítészeti Múzeum biztosítja a szükséges pihenőt.\nDélután az út a Varvarivszkij hídon át vezet, ahol a folyó felőli szél különösen metsző.\nA nap az Állatkertben zárul. A téli csend és a téli szállásukon lévő állatok különleges hangulatot árasztanak.",
+            "ro": "Turul de iarnă începe revigorant pe strada Soborna. O scurtă oprire la Catedrală vă va încălzi degetele.\nDrumul spre Amiralitate în gerul năpraznic necesită straturi bune de haine. Muzeul Marinei oferă pauza necesară.\nDupă-amiaza, drumul trece peste podul Varvarivskyi, unde vântul este deosebit de tăios.\nZiua se încheie la Grădina Zoologică. Liniștea iernii și animalele în adăposturile lor oferă o atmosferă aparte.",
+            "en": "The winter tour starts bracingly on Soborna Street. A quick stop at the Cathedral warms up the fingers.\nThe ride to the Admiralty in the biting cold requires good layers. The Shipbuilding Museum provides a necessary warm-up break.\nIn the afternoon, the route crosses the Varvarivskyi Bridge, where the river wind is particularly sharp.\nThe day ends at the Zoo. The wintry silence and animals in their winter quarters offer a unique atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Soborna Street",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Pflaster.",
+                "hu": "Ügyeljen a jegesedésre a burkolaton.",
+                "ro": "Atenție la gheața de pe pavaj.",
+                "en": "Watch out for black ice on the pavement."
+              }
+            },
+            {
+              "name": "Cathedral of the Nativity of the Blessed Virgin Mary",
+              "tip_5lang": {
+                "de": "Kurzes Aufwärmen im Vorraum möglich.",
+                "hu": "Rövid felmelegedés lehetséges az előtérben.",
+                "ro": "Scurtă încălzire posibilă în vestibul.",
+                "en": "Brief warm-up possible in the vestibule."
+              }
+            },
+            {
+              "name": "Admiralty Building",
+              "tip_5lang": {
+                "de": "Kalte Luft am Flussufer einplanen.",
+                "hu": "Számítson hideg levegőre a folyóparton.",
+                "ro": "Anticipați aerul rece de pe malul râului.",
+                "en": "Expect cold air by the riverbank."
+              }
+            },
+            {
+              "name": "Museum of Shipbuilding and Fleet",
+              "tip_5lang": {
+                "de": "Garderobe zum Ablegen schwerer Kleidung nutzen.",
+                "hu": "Használja a ruhatárat a nehéz ruhákhoz.",
+                "ro": "Folosiți garderoba pentru hainele grele.",
+                "en": "Use the cloakroom for heavy winter gear."
+              }
+            },
+            {
+              "name": "Mykolaiv Yacht Club",
+              "tip_5lang": {
+                "de": "Das Ufer kann sehr windig und kalt sein.",
+                "hu": "A part nagyon szeles és hideg lehet.",
+                "ro": "Malul poate fi foarte vântos și rece.",
+                "en": "The shore can be very windy and cold."
+              }
+            },
+            {
+              "name": "Varvarivskyi Bridge",
+              "tip_5lang": {
+                "de": "Extremer Windchill auf der Brücke.",
+                "hu": "Extrém szélhideg a hídon.",
+                "ro": "Vânt extrem de tăios pe pod.",
+                "en": "Extreme wind chill on the bridge."
+              }
+            },
+            {
+              "name": "Mykolaiv Zoo",
+              "tip_5lang": {
+                "de": "Besuchen Sie die geheizten Affen- und Vogelhäuser.",
+                "hu": "Látogassa meg a fűtött majom- és madárházakat.",
+                "ro": "Vizitați pavilioanele încălzite pentru maimuțe și păsări.",
+                "en": "Visit the heated monkey and bird houses."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Benutzen Sie unbedingt Thermo-Unterwäsche.",
+              "Vorder- und Rücklicht müssen einwandfrei funktionieren.",
+              "Der Akku von E-Bikes entlädt sich bei Kälte schneller.",
+              "Trinken Sie ausreichend warme Flüssigkeit."
+            ],
+            "hu": [
+              "Használjon mindenképpen termo-aláöltözetet.",
+              "Az első és hátsó lámpáknak tökéletesen kell működniük.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül hidegben.",
+              "Igyon elegendő meleg folyadékot."
+            ],
+            "ro": [
+              "Folosiți neapărat lenjerie termică.",
+              "Luminile față și spate trebuie să funcționeze perfect.",
+              "Bateria bicicletelor electrice se descarcă mai repede la frig.",
+              "Beți suficiente lichide calde."
+            ],
+            "en": [
+              "Make sure to use thermal base layers.",
+              "Front and rear lights must be in perfect working order.",
+              "E-bike batteries drain faster in the cold.",
+              "Drink plenty of warm fluids throughout the trip."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1109,6 +1491,206 @@
           "Pay attention to local traffic rules and speed limits.",
           "A car allows you to easily reach sights outside the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt trocken im Auto beim Zoo, während draußen der Regen auf das Dach prasselt. Die Tiere in den Pavillons sind gut zu sehen.\nÜber die Varvarivskyi-Brücke geht es mit Scheibenwischern auf höchster Stufe. Das Mittagessen an der Soborna-Straße ist eine gemütliche Pause.\nNachmittags bieten die Kathedrale und das Admiralitätsgebäude prachtvolle Ansichten, die man fast vom Parkplatz aus genießen kann.\nDer Tag endet beim Schiffbaumuseum und dem Yachtclub. Das Auto bleibt der perfekte Rückzugsort zwischen den kulturellen Highlights.",
+            "hu": "Az út szárazon, az autóban kezdődik az Állatkertnél, miközben kint kopog az eső. A pavilonokban lévő állatok jól láthatóak.\nA Varvarivszkij hídon átkelve a szélvédőtörlők dolgoznak. Az ebéd a Szoborna utcánál egy kellemes, fedett pihenő.\nDélután a Székesegyház és az Admiralitás látványa akár a parkolóból is élvezhető.\nA nap a Hajóépítészeti Múzeumnál és a Yacht Klubnál zárul. Az autó tökéletes menedék marad a kulturális látnivalók között.",
+            "ro": "Călătoria începe confortabil în mașină la Grădina Zoologică, în timp ce ploaia bate în parbriz. Animalele din pavilioane pot fi văzute bine.\nPeste podul Varvarivskyi trecem cu ștergătoarele la maximum. Prânzul pe strada Soborna este o pauză plăcută și uscată.\nDupă-amiaza, Catedrala și Amiralitatea oferă priveliști superbe care pot fi admirate aproape din parcare.\nZiua se încheie la Muzeul Marinei și Yacht Club. Mașina rămâne refugiul perfect între punctele de interes cultural.",
+            "en": "The trip starts dry in the car at the Zoo, while rain patters on the roof. Animals in the pavilions are easy to spot.\nCrossing the Varvarivskyi Bridge requires wipers at full speed. Lunch near Soborna Street is a cozy, sheltered break.\nIn the afternoon, the Cathedral and Admiralty Building offer grand views, some visible right from the parking spot.\nThe day ends at the Shipbuilding Museum and Yacht Club. The car remains a perfect refuge between cultural highlights."
+          },
+          "stops": [
+            {
+              "name": "Mykolaiv Zoo",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Haupteingang.",
+                "hu": "Parkoljon közel a főbejárathoz.",
+                "ro": "Parcați aproape de intrarea principală.",
+                "en": "Park close to the main entrance."
+              }
+            },
+            {
+              "name": "Varvarivskyi Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht bei Aquaplaning-Gefahr auf der Fahrbahn.",
+                "hu": "Vigyázzon az úttesten kialakuló vízátfolyásokra.",
+                "ro": "Atenție la riscul de acvaplanare pe carosabil.",
+                "en": "Watch out for aquaplaning risks on the road."
+              }
+            },
+            {
+              "name": "Soborna Street & Lunch",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser in der Nähe der Fußgängerzone.",
+                "hu": "Használja a sétálóutca közeli parkolóházakat.",
+                "ro": "Folosiți parcările etajate din apropierea zonei pietonale.",
+                "en": "Use parking garages near the pedestrian zone."
+              }
+            },
+            {
+              "name": "Cathedral of the Nativity of the Blessed Virgin Mary",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum Kircheneingang.",
+                "hu": "Rövid séta a parkolótól a templombejáratig.",
+                "ro": "Scurtă plimbare de la parcare până la intrarea în biserică.",
+                "en": "Short walk from the parking to the church entrance."
+              }
+            },
+            {
+              "name": "Admiralty Building",
+              "tip_5lang": {
+                "de": "Halten Sie kurz für ein Foto aus dem Fenster.",
+                "hu": "Álljon meg egy gyors fotóra az ablakból.",
+                "ro": "Opriți scurt pentru o fotografie de la fereastră.",
+                "en": "Stop briefly for a photo from the window."
+              }
+            },
+            {
+              "name": "Museum of Shipbuilding and Fleet",
+              "tip_5lang": {
+                "de": "Besucherparkplätze direkt vor dem Museum.",
+                "hu": "Látogatói parkolók közvetlenül a múzeum előtt.",
+                "ro": "Locuri de parcare pentru vizitatori chiar în fața muzeului.",
+                "en": "Visitor parking right in front of the museum."
+              }
+            },
+            {
+              "name": "Mykolaiv Yacht Club",
+              "tip_5lang": {
+                "de": "Gute Zufahrt bis fast an das Flussufer.",
+                "hu": "Jó megközelíthetőség szinte a folyópartig.",
+                "ro": "Acces bun până aproape de malul râului.",
+                "en": "Good access almost to the riverbank."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer.",
+              "Planen Sie mehr Zeit für den Verkehr bei Regen ein.",
+              "Ein Regenschirm im Auto ist für die Wege zum Eingang wichtig.",
+              "Die Sicht auf der Brücke kann eingeschränkt sein."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlők állapotát.",
+              "Számoljon több idővel a forgalomra esőben.",
+              "Az autóban tartott esernyő fontos a bejáratig tartó úton.",
+              "A kilátás a hídon korlátozott lehet."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor de parbriz.",
+              "Alocați mai mult timp pentru trafic în timpul ploii.",
+              "O umbrelă în mașină este importantă pentru drumul până la intrare.",
+              "Vizibilitatea pe pod poate fi redusă."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers.",
+              "Allow more time for traffic during rain.",
+              "Keep an umbrella in the car for walks to entrances.",
+              "Visibility on the bridge may be limited."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour beginnt gemütlich im beheizten Auto beim Zoo. Die Außenanlagen sind ruhig, die Innenhäuser warm.\nDie Varvarivskyi-Brücke zeigt sich im Winterkleid, Vorsicht bei möglichem Glatteis. Das Mittagessen an der Soborna-Straße wärmt auf.\nNachmittags ist die Kathedrale ein prachtvoller Anblick im Winterlicht. Das Admiralitätsgebäude wirkt bei Frost besonders imposant.\nDer Tag klingt am Schiffbaumuseum und beim Yachtclub aus. Die kurzen Wege vom Parkplatz schützen vor der Kälte.",
+            "hu": "A téli túra kényelmesen, a fűtött autóban kezdődik az Állatkertnél. A külső kifutók csendesek, a pavilonok melegek.\nA Varvarivszkij híd téli díszben tündököl, de vigyázzon a jegesedésre. Az ebéd a Szoborna utcánál jól átmelegít.\nDélután a Székesegyház lenyűgöző a téli fényekben. Az Admiralitás épülete fagyos időben még monumentálisabb.\nA nap a Hajóépítészeti Múzeumnál és a Yacht Klubnál zárul. A parkolótól tartó rövid séták megvédenek a hidegtől.",
+            "ro": "Turul de iarnă începe confortabil în mașina încălzită la Grădina Zoologică. Zonele exterioare sunt liniștite, pavilioanele calde.\nPodul Varvarivskyi arată superb iarna, dar atenție la gheață. Prânzul pe strada Soborna vă va încălzi bine.\nDupă-amiaza, Catedrala este o priveliște magnifică în lumina iernii. Clădirea Amiralității pare și mai impunătoare pe ger.\nZiua se încheie la Muzeul Marinei și Yacht Club. Distanțele scurte de la parcare vă protejează de frig.",
+            "en": "The winter tour starts comfortably in a heated car at the Zoo. Outdoor areas are quiet, but the indoor houses are warm.\nVarvarivskyi Bridge wears its winter coat; be careful of potential ice. Lunch near Soborna Street provides a warm break.\nIn the afternoon, the Cathedral is a magnificent sight in winter light. The Admiralty Building looks particularly imposing in the frost.\nThe day ends at the Shipbuilding Museum and Yacht Club. Short walks from parking spots keep the cold away."
+          },
+          "stops": [
+            {
+              "name": "Mykolaiv Zoo",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze direkt am Eingang.",
+                "hu": "Használja a közvetlenül a bejáratnál lévő parkolókat.",
+                "ro": "Folosiți parcarea direct de la intrare.",
+                "en": "Use the parking spaces right at the entrance."
+              }
+            },
+            {
+              "name": "Varvarivskyi Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht vor tückischem Glatteis auf der Brücke.",
+                "hu": "Vigyázzon a hídon kialakuló alattomos jegesedésre.",
+                "ro": "Atenție la poleiul înșelător de pe pod.",
+                "en": "Watch out for treacherous ice on the bridge."
+              }
+            },
+            {
+              "name": "Soborna Street & Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz in windgeschützten Straßen.",
+                "hu": "Keressen parkolót a szélvédett utcákban.",
+                "ro": "Căutați un loc de parcare în străzile ferite de vânt.",
+                "en": "Find a parking spot in streets sheltered from the wind."
+              }
+            },
+            {
+              "name": "Cathedral of the Nativity of the Blessed Virgin Mary",
+              "tip_5lang": {
+                "de": "Kurzer, aber frostiger Weg zum Kircheneingang.",
+                "hu": "Rövid, de fagyos út a templom bejáratáig.",
+                "ro": "Drum scurt, dar geros până la intrarea în biserică.",
+                "en": "Short but frosty walk to the church entrance."
+              }
+            },
+            {
+              "name": "Admiralty Building",
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im Winterlicht sehr klar.",
+                "hu": "Az építészet nagyon letisztult a téli fényben.",
+                "ro": "Arhitectura pare foarte clară în lumina iernii.",
+                "en": "The architecture looks very sharp in the winter light."
+              }
+            },
+            {
+              "name": "Museum of Shipbuilding and Fleet",
+              "tip_5lang": {
+                "de": "Der Innenhof kann glatt sein.",
+                "hu": "A belső udvar csúszós lehet.",
+                "ro": "Curtea interioară poate fi alunecoasă.",
+                "en": "The inner courtyard may be slippery."
+              }
+            },
+            {
+              "name": "Mykolaiv Yacht Club",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang aus dem Auto.",
+                "hu": "Élvezze a naplementét az autóból.",
+                "ro": "Bucurați-vă de apus din mașină.",
+                "en": "Enjoy the sunset from the comfort of your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser Region absolut Pflicht.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Der Akku Ihres Handys entlädt sich draußen sehr schnell.",
+              "Fahren Sie auf der Brücke besonders vorsichtig."
+            ],
+            "hu": [
+              "A téli gumi ezen a vidéken kötelező.",
+              "Töltsön fagyállót a szélvédőmosóba.",
+              "A telefonja akkumulátora kint nagyon gyorsan merül.",
+              "Vezessen különösen óvatosan a hídon."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în această regiune.",
+              "Puneți lichid antigel în instalația de spălare a parbrizului.",
+              "Bateria telefonului se descarcă foarte repede afară.",
+              "Conduceți cu atenție sporită pe pod."
+            ],
+            "en": [
+              "Winter tires are absolutely mandatory in this region.",
+              "Fill your windshield washer with anti-freeze.",
+              "Your phone battery will drain very quickly outside.",
+              "Drive extra carefully on the bridge."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1489,6 +2071,206 @@
           "Vehicles can get very crowded during peak hours.",
           "Always validate your ticket to avoid a fine."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer Fahrt in der Straßenbahn zur Soborna-Straße. Die Kathedrale bietet einen prachtvollen, trockenen Start.\nMittags ist das Heimatmuseum das perfekte Ziel, bequem mit dem Bus erreichbar. Die Ausstellungen lassen den Regen vergessen.\nNachmittags führen die Linien zum Schiffbaumuseum und zum Yachtclub. Die kurzen Wege zwischen Haltestelle und Museum sind ideal.\nDer Tag endet am Zoo und einem Abendessen in der Nähe. Die öffentlichen Verkehrsmittel halten fast direkt vor der Tür.",
+            "hu": "A nap egy villamosozással kezdődik a Szoborna utcáig. A Székesegyház pompás és száraz kezdést biztosít.\nDélben a Helytörténeti Múzeum a tökéletes célpont, mely busszal könnyen elérhető. A kiállítások elfeledtetik a kinti esőt.\nDélután a Hajóépítészeti Múzeum és a Yacht Klub következik. A megállók és a múzeumok közötti rövid távolság ideális.\nA nap az Állatkertnél és egy közeli vacsorával zárul. A tömegközlekedés szinte az ajtó előtt tesz le.",
+            "ro": "Ziua începe cu o plimbare cu tramvaiul spre strada Soborna. Catedrala oferă un început splendid și uscat.\nLa prânz, Muzeul de Istorie Locală este destinația perfectă, ușor accesibilă cu autobuzul. Expozițiile vă fac să uitați de ploaie.\nDupă-amiaza, liniile vă duc la Muzeul Marinei și Yacht Club. Distanțele scurte între stații și muzee sunt ideale.\nZiua se încheie la Grădina Zoologică și o cină în apropiere. Mijloacele de transport opresc aproape în fața porții.",
+            "en": "The day starts with a tram ride to Soborna Street. The Cathedral offers a grand, dry start to your exploration.\nBy noon, the Regional Museum is the perfect destination, easily reached by bus. The exhibits make you forget the rain outside.\nIn the afternoon, transit lines lead to the Shipbuilding Museum and Yacht Club. Short walks from stops to museums are ideal.\nThe day ends at the Zoo and a nearby dinner. Public transport stops almost directly in front of the entrance."
+          },
+          "stops": [
+            {
+              "name": "Soborna Street",
+              "tip_5lang": {
+                "de": "Haltestellen mit Unterständen nutzen.",
+                "hu": "Használja a fedett váróval rendelkező megállókat.",
+                "ro": "Folosiți stațiile cu adăpost.",
+                "en": "Use stops with shelters."
+              }
+            },
+            {
+              "name": "Cathedral of the Nativity of the Blessed Virgin Mary",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Straßenbahnhaltestelle.",
+                "hu": "Rövid séta a villamosmegállótól.",
+                "ro": "Drum scurt de la stația de tramvai.",
+                "en": "Short walk from the tram stop."
+              }
+            },
+            {
+              "name": "Mykolaiv Regional Museum of Local Lore",
+              "tip_5lang": {
+                "de": "Mehrere Buslinien halten in der Nähe.",
+                "hu": "Több autóbuszjárat is megáll a közelben.",
+                "ro": "Mai multe linii de autobuz opresc în apropiere.",
+                "en": "Several bus lines stop nearby."
+              }
+            },
+            {
+              "name": "Museum of Shipbuilding and Fleet",
+              "tip_5lang": {
+                "de": "Zentrale Lage, gut vernetzt.",
+                "hu": "Központi elhelyezkedés, jó összeköttetés.",
+                "ro": "Locație centrală, bine conectată.",
+                "en": "Central location, well connected."
+              }
+            },
+            {
+              "name": "Mykolaiv Yacht Club",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrzeiten der Trolleybusse.",
+                "hu": "Ellenőrizze a trolibuszok indulási idejét.",
+                "ro": "Verificați orele de plecare ale troleibuzelor.",
+                "en": "Check the trolleybus departure times."
+              }
+            },
+            {
+              "name": "Mykolaiv Zoo",
+              "tip_5lang": {
+                "de": "Haupthaltestelle direkt vor dem Eingang.",
+                "hu": "Főmegálló közvetlenül a bejárat előtt.",
+                "ro": "Stația principală este chiar în fața intrării.",
+                "en": "Main stop is right in front of the entrance."
+              }
+            },
+            {
+              "name": "Dinner near the Zoo",
+              "tip_5lang": {
+                "de": "Viele Verbindungen zurück ins Zentrum.",
+                "hu": "Számos csatlakozás vissza a központba.",
+                "ro": "Multe conexiuni înapoi spre centru.",
+                "en": "Many connections available back to the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die EasyWay-App für Echtzeit-Daten.",
+              "Halten Sie Kleingeld oder eine Karte für Fahrkarten bereit.",
+              "In den Fahrzeugen kann es bei Regen feucht sein.",
+              "Planen Sie Pufferzeiten für Verspätungen ein."
+            ],
+            "hu": [
+              "Használja az EasyWay alkalmazást a valós idejű adatokhoz.",
+              "Legyen kéznél aprópénz vagy kártya a jegyhez.",
+              "A járművekben esős időben párás lehet a levegő.",
+              "Számoljon némi pufferidővel az esetleges késések miatt."
+            ],
+            "ro": [
+              "Folosiți aplicația EasyWay pentru date în timp real.",
+              "Aveți pregătit mărunt sau un card pentru bilete.",
+              "În vehicule poate fi umezeală în timpul ploii.",
+              "Alocați timp suplimentar pentru eventuale întârzieri."
+            ],
+            "en": [
+              "Use the EasyWay app for real-time transit data.",
+              "Keep small change or a card ready for tickets.",
+              "Vehicles can be damp during rainy weather.",
+              "Plan for buffer times in case of delays."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Tour beginnt mit der Straßenbahn, die durch die winterliche Stadt zur Soborna-Straße rattert. Die Kathedrale wärmt auf.\nMittags ist das Heimatmuseum ein komfortables Ziel. Die gut beheizten Busse machen den Weg durch die Kälte angenehm.\nNachmittags geht es zum Schiffbaumuseum und zum Yachtclub. Die öffentlichen Verkehrsmittel bieten Schutz vor dem schneidigen Wind.\nDer Tag endet am Zoo, wo man sich nach dem Besuch in der warmen Straßenbahn auf dem Rückweg entspannen kann.",
+            "hu": "A túra villamossal indul, amely a téli városon át zötyög a Szoborna utcáig. A Székesegyház kellemesen felmelegít.\nDélben a Helytörténeti Múzeum kényelmes célpont. A jól fűtött buszok kellemessé teszik az utat a hidegben.\nDélután a Hajóépítészeti Múzeum és a Yacht Klub következik. A közlekedési eszközök védenek a metsző szél ellen.\nA nap az Állatkertnél zárul, ahonnan a meleg villamoson pihenhetünk meg a visszaúton.",
+            "ro": "Turul începe cu tramvaiul care zdrăngăne prin orașul hibernal spre strada Soborna. Catedrala vă va încălzi.\nLa prânz, Muzeul de Istorie Locală este o destinație confortabilă. Autobuzele bine încălzite fac drumul plăcut.\nDupă-amiaza ne îndreptăm spre Muzeul Marinei și Yacht Club. Mijloacele de transport oferă protecție contra vântului.\nZiua se încheie la Grădina Zoologică, de unde vă puteți relaxa în tramvaiul cald pe drumul de întoarcere.",
+            "en": "The tour starts with a tram rattling through the wintry city to Soborna Street. The Cathedral provides a warm start.\nBy noon, the Regional Museum is a comfortable destination. Well-heated buses make the journey through the cold pleasant.\nIn the afternoon, head to the Shipbuilding Museum and Yacht Club. Transit vehicles offer shelter from the biting wind.\nThe day ends at the Zoo, after which you can relax in a warm tram on your way back."
+          },
+          "stops": [
+            {
+              "name": "Soborna Street",
+              "tip_5lang": {
+                "de": "Warten Sie in Geschäften nahe der Haltestelle.",
+                "hu": "Várjon a megálló közeli üzletekben.",
+                "ro": "Așteptați în magazinele de lângă stație.",
+                "en": "Wait in shops near the stop to stay warm."
+              }
+            },
+            {
+              "name": "Cathedral of the Nativity of the Blessed Virgin Mary",
+              "tip_5lang": {
+                "de": "Die Straßenbahn ist oft gut beheizt.",
+                "hu": "A villamos gyakran jól fűtött.",
+                "ro": "Tramvaiul este adesea bine încălzit.",
+                "en": "The tram is often well-heated."
+              }
+            },
+            {
+              "name": "Mykolaiv Regional Museum of Local Lore",
+              "tip_5lang": {
+                "de": "Direkte Verbindungen vom Zentrum verfügbar.",
+                "hu": "Közvetlen járatok érhetőek el a központból.",
+                "ro": "Conexiuni directe disponibile din centru.",
+                "en": "Direct connections available from the center."
+              }
+            },
+            {
+              "name": "Museum of Shipbuilding and Fleet",
+              "tip_5lang": {
+                "de": "Bushaltestelle nur wenige Meter entfernt.",
+                "hu": "A buszmegálló csak néhány méterre van.",
+                "ro": "Stația de autobuz este la doar câțiva metri.",
+                "en": "Bus stop is just a few meters away."
+              }
+            },
+            {
+              "name": "Mykolaiv Yacht Club",
+              "tip_5lang": {
+                "de": "Trolleybusse fahren regelmäßig ins Zentrum.",
+                "hu": "A trolibuszok rendszeresen járnak a központba.",
+                "ro": "Troleibuzele circulă regulat spre centru.",
+                "en": "Trolleybuses run regularly to the center."
+              }
+            },
+            {
+              "name": "Mykolaiv Zoo",
+              "tip_5lang": {
+                "de": "Haltestelle bietet Schutz vor Wind.",
+                "hu": "A megálló védelmet nyújt a szél ellen.",
+                "ro": "Stația oferă protecție împotriva vântului.",
+                "en": "The stop provides protection from the wind."
+              }
+            },
+            {
+              "name": "Dinner near the Zoo",
+              "tip_5lang": {
+                "de": "Letzte Fahrten gegen 21:00-22:00 Uhr.",
+                "hu": "Az utolsó járatok 21:00-22:00 körül indulnak.",
+                "ro": "Ultimele curse sunt în jur de 21:00-22:00.",
+                "en": "Last trips are around 21:00-22:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie es, verschwitzt in kalte Fahrzeuge zu steigen.",
+              "Die Fahrpläne können im Winter leicht abweichen.",
+              "Trolleybusse sind oft wärmer als kleine Marschrutkas.",
+              "Halten Sie Ihre Hände in den Taschen beim Warten."
+            ],
+            "hu": [
+              "Kerülje el, hogy megizzadva szálljon be a hideg járművekbe.",
+              "A menetrendek télen némileg eltérhetnek.",
+              "A trolibuszok gyakran melegebbek, mint a kis mikrobuszok.",
+              "Várakozás közben tartsa a kezét a zsebében."
+            ],
+            "ro": [
+              "Evitați să urcați transpirați în vehiculele reci.",
+              "Orarele pot varia ușor în timpul iernii.",
+              "Troleibuzele sunt adesea mai calde decât microbuzele.",
+              "Țineți mâinile în buzunare în timp ce așteptați."
+            ],
+            "en": [
+              "Avoid getting sweaty before boarding cold vehicles.",
+              "Schedules may differ slightly in winter.",
+              "Trolleybuses are often warmer than small marshrutkas.",
+              "Keep your hands in your pockets while waiting."
+            ]
+          }
+        }
       }
     }
   }

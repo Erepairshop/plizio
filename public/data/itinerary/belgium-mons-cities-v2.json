@@ -327,6 +327,214 @@
           "Some museums are closed on Mondays, check opening hours in advance.",
           "Enjoy a Belgian waffle from a street vendor for a sweet snack."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen am Grand-Place führt uns unter die Arkaden des Rathauses. Die St.-Waltrudis-Kirche bietet am Vormittag trockenes Staunen. Mittags trotzen wir kurz dem Wetter beim Beffroi, bevor wir den Nachmittag in den warmen Galerien des BAM und dem faszinierenden Mundaneum verbringen. Ein Tag im Zeichen der Kultur, geschützt vor dem belgischen Regen.",
+            "hu": "Esős reggel a Főtéren, menedéket keresünk a Városháza árkádjai alatt. A Szent Waltrudis-templom monumentális beltere délelőtt tökéletes menedék. Délben a Harangtoronynál rövidre fogjuk a sétát, majd a délutánt a BAM és a Mundaneum múzeumok száraz és meleg termeiben töltjük. A kultúra a legjobb orvosság a szürke időre.",
+            "ro": "O dimineață ploioasă în Grand-Place ne trimite sub arcadele Primăriei. Biserica Saint Waltrudis oferă un adăpost spiritual și uscat înainte de prânz. Vizităm rapid Beffroi, apoi ne petrecem după-amiaza în galeriile încălzite de la BAM și Mundaneum. O zi dedicată culturii, ferită de ploaia belgiană tipică.",
+            "en": "A rainy morning at Grand-Place leads us under the Town Hall's arcades. The Collegiate Church of Saint Waltrudis provides dry awe before noon. After a quick stop at the Belfry, we spend the afternoon in the warm galleries of BAM and the fascinating Mundaneum. A day of culture, perfectly shielded from the Belgian rain."
+          },
+          "stops": [
+            {
+              "name": "Grand-Place",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Rathauses als trockenen Aussichtspunkt.",
+                "hu": "Használja a városháza árkádjait száraz kilátópontként.",
+                "ro": "Folosiți arcadele primăriei ca punct de observație uscat.",
+                "en": "Use the Town Hall arcades as a dry vantage point."
+              }
+            },
+            {
+              "name": "Town Hall (Hôtel de Ville)",
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Innenräume, um dem Regen zu entkommen.",
+                "hu": "Látogassa meg a belső tereket az eső elől menekülve.",
+                "ro": "Vizitați interioarele pentru a scăpa de ploaie.",
+                "en": "Visit the interiors to escape the rain."
+              }
+            },
+            {
+              "name": "Collegiate Church of Saint Waltrudis",
+              "tip_5lang": {
+                "de": "Viel Zeit für die Glasfenster einplanen – hier bleibt man trocken.",
+                "hu": "Szánjon időt az üvegablakokra – itt garantáltan száraz marad.",
+                "ro": "Acordați timp vitraliilor – aici veți rămâne uscat.",
+                "en": "Take your time with the stained glass – it's dry in here."
+              }
+            },
+            {
+              "name": "Belfry of Mons (Beffroi)",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Stufen, sie können bei Nässe rutschig sein.",
+                "hu": "Vigyázat a lépcsőkön, nedves időben csúszósak lehetnek.",
+                "ro": "Atenție pe trepte, pot fi alunecoase când sunt ude.",
+                "en": "Careful on the steps, they can be slippery when wet."
+              }
+            },
+            {
+              "name": "Castle Park (Parc du Château)",
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang reicht heute; die Aussicht ist oft neblig.",
+                "hu": "Ma elég egy rövid séta; a kilátás ilyenkor gyakran ködös.",
+                "ro": "O scurtă plimbare e suficientă; vederea este adesea ceațoasă.",
+                "en": "A quick walk is enough today; the view is often misty."
+              }
+            },
+            {
+              "name": "BAM (Fine Arts Museum)",
+              "tip_5lang": {
+                "de": "Idealer Ort für die regenreichsten Stunden des Nachmittags.",
+                "hu": "Ideális hely a délutáni legesősebb órák eltöltésére.",
+                "ro": "Locul ideal pentru cele mai ploioase ore ale după-amiezii.",
+                "en": "Ideal place for the rainiest hours of the afternoon."
+              }
+            },
+            {
+              "name": "Mundaneum",
+              "tip_5lang": {
+                "de": "Perfekter Abschluss im Trockenen; Garderobe für nasse Mäntel nutzen.",
+                "hu": "Tökéletes befejezés szárazon; használja a ruhatárat a vizes kabátoknak.",
+                "ro": "Final perfect la uscat; folosiți garderoba pentru haine ude.",
+                "en": "Perfect dry finish; use the cloakroom for wet coats."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Die Mundaneum-Bibliothek ist ein großartiger Zufluchtsort.",
+              "Cafés rund um den Grand-Place bieten gemütliche Pausen.",
+              "Regenschirme können in den engen Gassen windanfällig sein.",
+              "Die Museen in Mons haben montags oft geschlossen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcák miatt.",
+              "A Mundaneum könyvtára kiváló menedék esőben.",
+              "A Főtér körüli kávézók tökéletesek egy meleg szünetre.",
+              "Az esernyőket a szűk utcákban könnyen kifújhatja a szél.",
+              "A mons-i múzeumok hétfőnként általában zárva tartanak."
+            ],
+            "ro": [
+              "Purtați pantofi impermeabili pentru străzile pietruite.",
+              "Biblioteca Mundaneum este un refugiu excelent pe ploaie.",
+              "Cafenelele din jurul Grand-Place oferă pauze primitoare.",
+              "Umbrelele pot fi luate de vânt în zonele înguste.",
+              "Muzeele din Mons sunt adesea închise lunea."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "The Mundaneum library is a great rainy-day refuge.",
+              "Cafes around Grand-Place offer cozy breaks.",
+              "Umbrellas can catch the wind in the narrow alleys.",
+              "Mons museums are often closed on Mondays."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mons im Winter glänzt durch festliche Beleuchtung am Grand-Place. Wir besichtigen die kühle St.-Waltrudis-Kirche und steigen zum Beffroi auf, wo der Wind scharf weht. Der Nachmittag gehört den warmen Ausstellungen im BAM und Mundaneum. Wenn um 17 Uhr die Sonne sinkt, leuchtet die Altstadt in einem magischen, winterlichen Licht.",
+            "hu": "Téli Mons a Főtér ünnepi fényeivel kezdődik. Meglátogatjuk a hűvös Szent Waltrudis-templomot, majd felkapaszkodunk a Harangtoronyhoz, ahol csípős a szél. A délután a BAM és a Mundaneum fűtött termeiben telik. Amikor 17 órakor lemegy a nap, az óváros varázslatos téli fényekben úszik.",
+            "ro": "Mons iarna strălucește prin luminile festive din Grand-Place. Vizităm biserica răcoroasă Saint Waltrudis și urcăm la Beffroi, unde vântul suflă tăios. După-amiaza aparține expozițiilor calde de la BAM și Mundaneum. Când soarele apune la ora 17, orașul vechi strălucește într-o lumină magică de iarnă.",
+            "en": "Winter in Mons glows with festive lights at Grand-Place. We visit the cool Collegiate Church and climb to the Belfry, where the wind bites. The afternoon is spent in the warm exhibitions of BAM and Mundaneum. As the sun sets at 5 PM, the old town glows in a magical, wintry light."
+          },
+          "stops": [
+            {
+              "name": "Grand-Place",
+              "tip_5lang": {
+                "de": "Genießen Sie den Weihnachtsmarkt oder die Winterbeleuchtung.",
+                "hu": "Élvezze a karácsonyi vásárt vagy a téli kivilágítást.",
+                "ro": "Bucurați-vă de târgul de Crăciun sau de luminile de iarnă.",
+                "en": "Enjoy the Christmas market or winter lighting."
+              }
+            },
+            {
+              "name": "Town Hall (Hôtel de Ville)",
+              "tip_5lang": {
+                "de": "Reiben Sie den Kopf des Äffchens 'Singe du Grand Garde' für Glück im neuen Jahr.",
+                "hu": "Dörzsölje meg a kismajom fejét a szerencsés új évért.",
+                "ro": "Frecați capul maimuței pentru noroc în noul an.",
+                "en": "Rub the monkey's head for good luck in the new year."
+              }
+            },
+            {
+              "name": "Collegiate Church of Saint Waltrudis",
+              "tip_5lang": {
+                "de": "In der Kirche ist es kalt; behalten Sie Ihren Mantel an.",
+                "hu": "A templomban hideg van, ne vegye le a kabátját.",
+                "ro": "Este frig în biserică; păstrați-vă haina pe dvs.",
+                "en": "It's cold inside the church; keep your coat on."
+              }
+            },
+            {
+              "name": "Belfry of Mons (Beffroi)",
+              "tip_5lang": {
+                "de": "Herrliche Aussicht auf die beleuchtete Stadt kurz vor Sonnenuntergang.",
+                "hu": "Pompás kilátás a kivilágított városra röviddel naplemente előtt.",
+                "ro": "Vedere superbă asupra orașului luminat înainte de apus.",
+                "en": "Superb view of the lit city shortly before sunset."
+              }
+            },
+            {
+              "name": "Castle Park (Parc du Château)",
+              "tip_5lang": {
+                "de": "Klarer Winterhimmel bietet hier den besten Blick auf die Region.",
+                "hu": "A tiszta téli égbolt innen adja a legjobb kilátást a régióra.",
+                "ro": "Cerul senin de iarnă oferă aici cea mai bună priveliște.",
+                "en": "Clear winter skies offer the best view of the region here."
+              }
+            },
+            {
+              "name": "BAM (Fine Arts Museum)",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei moderner Kunst auf.",
+                "hu": "Melegedjen fel a modern művészeti alkotások között.",
+                "ro": "Încălziți-vă printre lucrările de artă modernă.",
+                "en": "Warm up while exploring modern art."
+              }
+            },
+            {
+              "name": "Mundaneum",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort, um den frühen Abend zu beginnen.",
+                "hu": "Hangulatos hely a kora este megkezdéséhez.",
+                "ro": "Un loc primitor pentru a începe seara devreme.",
+                "en": "A cozy place to start the early evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Handschuhe sind für den Aufstieg zum Beffroi unerlässlich.",
+              "Die Sonne geht gegen 16:45 Uhr unter.",
+              "Probieren Sie lokale Waffeln an den Marktständen.",
+              "Vorsicht vor vereisten Stellen auf dem Kopfsteinpflaster.",
+              "Viele Cafés bieten heiße Schokolade mit belgischer Praline."
+            ],
+            "hu": [
+              "A kesztyű elengedhetetlen a Harangtoronyba való feljutáshoz.",
+              "A nap 16:45 körül nyugszik.",
+              "Kóstolja meg a helyi gofrit a piaci árusoknál.",
+              "Vigyázzon a jeges foltokra a macskaköveken.",
+              "Sok kávézó kínál forró csokoládét belga pralinéval."
+            ],
+            "ro": [
+              "Mănușile sunt esențiale pentru urcarea la Beffroi.",
+              "Soarele apune în jurul orei 16:45.",
+              "Gustați vafele locale de la tarabele din piață.",
+              "Atenție la porțiunile înghețate de pe piatra cubică.",
+              "Multe cafenele oferă ciocolată caldă cu praline belgiene."
+            ],
+            "en": [
+              "Gloves are essential for the climb to the Belfry.",
+              "Sunset is around 4:45 PM.",
+              "Try local waffles at the market stalls.",
+              "Watch out for icy patches on the cobblestones.",
+              "Many cafes offer hot chocolate with Belgian pralines."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -648,6 +856,214 @@
           "The terrain is mostly flat, but there are some gentle slopes near the belfry.",
           "Always lock your bike securely when leaving it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen erkunden wir Mons per Rad. Vormittags besuchen wir das Memorial Museum, mittags flüchten wir in die St.-Waltrudis-Kirche. Der Beffroi-Hügel ist bei Nässe eine Herausforderung. Der Nachmittag bietet kulturelle Pausen im BAM und Mundaneum, bevor wir den Tag trocken im Maison Losseau beenden.",
+            "hu": "Az eső ellenére kerékpárral fedezzük fel Mons-t. Délelőtt a Memorial Museumot látogatjuk meg, délben a Szent Waltrudis-templomba menekülünk. A Harangtorony dombja nedvesen kihívás. A délután kulturális szüneteket kínál a BAM-ban és a Mundaneumban, mielőtt szárazon zárnánk a napot a Maison Losseau-ban.",
+            "ro": "În ciuda ploii, explorăm Mons pe bicicletă. Dimineața vizităm Memorial Museum, la prânz ne refugiem în biserica Saint Waltrudis. Dealul Beffroi e o provocare pe ud. După-amiaza oferă pauze culturale la BAM și Mundaneum, înainte de a termina ziua la Maison Losseau.",
+            "en": "Despite the rain, we explore Mons by bike. In the morning, we visit the Memorial Museum; at noon, we escape into the Collegiate Church. The Belfry hill is a challenge in the wet. The afternoon offers cultural breaks at BAM and Mundaneum before a dry finish at Maison Losseau."
+          },
+          "stops": [
+            {
+              "name": "Grand-Place",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a fékezéssel a nedves macskakövön.",
+                "ro": "Atenție la frânare pe pavajul umed.",
+                "en": "Be careful when braking on wet cobblestones."
+              }
+            },
+            {
+              "name": "Mons Memorial Museum",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Biztonságos kerékpártárolók találhatók a bejárat közelében.",
+                "ro": "Rasteluri sigure se află lângă intrare.",
+                "en": "Secure bike racks are located near the entrance."
+              }
+            },
+            {
+              "name": "Belfry of Mons (Beffroi)",
+              "tip_5lang": {
+                "de": "Anstieg ist rutschig, schieben Sie das Rad eventuell.",
+                "hu": "Az emelkedő csúszós, esetleg tolja a kerékpárt.",
+                "ro": "Urcarea e alunecoasă, eventual împingeți bicicleta.",
+                "en": "The climb is slippery; consider pushing your bike."
+              }
+            },
+            {
+              "name": "Collegiate Church of Saint Waltrudis",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihre Kleidung während der Besichtigung.",
+                "hu": "Szárítsa meg ruházatát a látogatás alatt.",
+                "ro": "Uscați-vă hainele în timpul vizitei.",
+                "en": "Dry off your clothes during the visit."
+              }
+            },
+            {
+              "name": "BAM (Fine Arts Museum)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Regenpause.",
+                "hu": "Használja a múzeumlátogatást esőszünetként.",
+                "ro": "Folosiți vizita la muzeu ca pauză de ploaie.",
+                "en": "Use the museum visit as a rain break."
+              }
+            },
+            {
+              "name": "Mundaneum",
+              "tip_5lang": {
+                "de": "Innenräume sind gut klimatisiert und trocken.",
+                "hu": "A belső terek jól klimatizáltak és szárazak.",
+                "ro": "Interioarele sunt bine climatizate și uscate.",
+                "en": "Interiors are well-ventilated and dry."
+              }
+            },
+            {
+              "name": "Maison Losseau",
+              "tip_5lang": {
+                "de": "Ein schöner, warmer Ort zum Abschluss der Tour.",
+                "hu": "Szép, meleg hely a túra lezárásához.",
+                "ro": "Un loc frumos și cald pentru a încheia turul.",
+                "en": "A beautiful, warm place to end the tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei Mons-Regen Pflicht.",
+              "Vermeiden Sie Straßenbahnschienen bei Nässe.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Die Steigungen zur Oberstadt sind bei Regen anstrengender.",
+              "Parken Sie Ihr Rad an beleuchteten, offiziellen Plätzen."
+            ],
+            "hu": [
+              "A sárvédő kötelező a mons-i esőben.",
+              "Nedves időben kerülje a villamossíneket.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóságért.",
+              "A felsővárosba vezető emelkedők esőben fárasztóbbak.",
+              "Parkoljon kivilágított, hivatalos helyeken."
+            ],
+            "ro": [
+              "Apărătoarele de noroi sunt obligatorii pe ploaia din Mons.",
+              "Evitați șinele de tramvai pe timp umed.",
+              "Purtați o jachetă de ploaie vizibilă pentru siguranță.",
+              "Pantele spre orașul de sus sunt mai grele pe ploaie.",
+              "Parcați bicicleta în locuri luminate și oficiale."
+            ],
+            "en": [
+              "Mudguards are a must in the Mons rain.",
+              "Avoid tram tracks when they are wet.",
+              "Wear a high-visibility rain jacket for safety.",
+              "The climbs to the upper town are tougher in the rain.",
+              "Park your bike in well-lit, official spots."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Mons erfordert warme Kleidung. Nach dem Memorial Museum wärmen wir uns mittags in der St.-Waltrudis-Kirche auf. Der Blick vom Beffroi ist bei klarer Winterluft fantastisch. Den Nachmittag verbringen wir in den Museen, bevor wir im Maison Losseau bei einsetzender Dunkelheit ankommen.",
+            "hu": "A téli kerékpározás Mons-ban meleg ruházatot igényel. A Memorial Museum után délben a Szent Waltrudis-templomban melegszünk fel. A Harangtoronyból nyíló kilátás fantasztikus a tiszta téli levegőben. A délutánt múzeumokban töltjük, mielőtt sötétedéskor megérkeznénk a Maison Losseau-hoz.",
+            "ro": "Ciclismul de iarnă în Mons necesită haine groase. După Memorial Museum ne încălzim la prânz în biserica Saint Waltrudis. Vederea de la Beffroi este fantastică în aerul curat de iarnă. După-amiaza o petrecem în muzee, ajungând la Maison Losseau pe înserat.",
+            "en": "Winter cycling in Mons requires warm gear. After the Memorial Museum, we warm up at noon in the Collegiate Church. The view from the Belfry is fantastic in the crisp winter air. We spend the afternoon in museums before arriving at Maison Losseau at dusk."
+          },
+          "stops": [
+            {
+              "name": "Grand-Place",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe am frühen Morgen.",
+                "hu": "Vigyázzon a hajnali lefagyásokra.",
+                "ro": "Atenție la polei dimineața devreme.",
+                "en": "Watch out for black ice early in the morning."
+              }
+            },
+            {
+              "name": "Mons Memorial Museum",
+              "tip_5lang": {
+                "de": "Schließen Sie Helm und Handschuhe sicher ein.",
+                "hu": "Zárja el biztonságosan a sisakját és kesztyűjét.",
+                "ro": "Depozitați în siguranță casca și mănușile.",
+                "en": "Securely store your helmet and gloves."
+              }
+            },
+            {
+              "name": "Belfry of Mons (Beffroi)",
+              "tip_5lang": {
+                "de": "Der Wind oben ist im Winter extrem kalt.",
+                "hu": "Fent a szél télen rendkívül hideg.",
+                "ro": "Vântul sus este extrem de rece iarna.",
+                "en": "The wind at the top is extremely cold in winter."
+              }
+            },
+            {
+              "name": "Collegiate Church of Saint Waltrudis",
+              "tip_5lang": {
+                "de": "Kurze Pause zum Aufwärmen, auch wenn es innen kühl ist.",
+                "hu": "Rövid szünet a felmelegedéshez, még ha bent hűvös is van.",
+                "ro": "Pauză scurtă de încălzire, chiar dacă e răcoare în interior.",
+                "en": "Short break to warm up, even if it's cool inside."
+              }
+            },
+            {
+              "name": "BAM (Fine Arts Museum)",
+              "tip_5lang": {
+                "de": "Perfekt temperierte Hallen für eine lange Pause.",
+                "hu": "Tökéletesen temperált csarnokok egy hosszú szünethez.",
+                "ro": "Săli cu temperatură perfectă pentru o pauză lungă.",
+                "en": "Perfectly tempered halls for a long break."
+              }
+            },
+            {
+              "name": "Mundaneum",
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige, warme Atmosphäre.",
+                "hu": "Élvezze a nyugodt, meleg légkört.",
+                "ro": "Bucurați-vă de atmosfera liniștită și caldă.",
+                "en": "Enjoy the quiet, warm atmosphere."
+              }
+            },
+            {
+              "name": "Maison Losseau",
+              "tip_5lang": {
+                "de": "Ein prächtiger Abschluss im winterlichen Mons.",
+                "hu": "Pompás lezárás a téli Mons-ban.",
+                "ro": "Un final grandios în Mons-ul de iarnă.",
+                "en": "A grand finish in wintry Mons."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten und winddichte Kleidung.",
+              "Prüfen Sie den Reifendruck; im Winter etwas niedriger für Grip.",
+              "Achten Sie auf die verkürzte Akkulaufzeit bei E-Bikes.",
+              "Benutzen Sie helles Licht, da es früh dunkel wird.",
+              "Die Kopfsteinpflastergassen können bei Frost sehr glatt sein."
+            ],
+            "hu": [
+              "Viseljen réteges és szélálló ruházatot.",
+              "Ellenőrizze a guminyomást; télen kicsit alacsonyabb jobb tapadást ad.",
+              "Figyeljen az e-bike-ok csökkent akku-élettartamára hidegben.",
+              "Használjon erős lámpát, mert korán sötétedik.",
+              "A macskaköves utcák fagyban nagyon csúszósak lehetnek."
+            ],
+            "ro": [
+              "Purtați haine în straturi și rezistente la vânt.",
+              "Verificați presiunea; iarna, o presiune mai mică ajută aderența.",
+              "Atenție la autonomia scăzută a bateriei e-bike-urilor.",
+              "Folosiți lumini puternice, se întunecă devreme.",
+              "Străzile pietruite pot fi foarte alunecoase la îngheț."
+            ],
+            "en": [
+              "Wear multiple layers and windproof gear.",
+              "Check tire pressure; slightly lower is better for winter grip.",
+              "Mind the reduced battery life of e-bikes in the cold.",
+              "Use bright lights as it gets dark early.",
+              "Cobblestone alleys can be very slippery when frozen."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -946,6 +1362,196 @@
           "A car allows you to combine sights outside the immediate city center.",
           "Be aware of low-emission zones in and around Belgian cities."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir das Umland und die Stadt Mons bequem im Regen. Vormittags besuchen wir die Feuersteinminen von Spiennes – unter Tage ist es trocken. Mittags Parken am Grand-Place und kurze Wege zur Kirche und zum Beffroi. Der Castle Park bietet trotz Regen einen dramatischen Ausblick auf die grauen Wolken über der Wallonie.",
+            "hu": "Autóval kényelmesen fedezzük fel Mons környékét és a várost az esőben. Délelőtt a spiennes-i tűzkőbányákat látogatjuk meg – a föld alatt száraz az idő. Délben parkolás a Főtérnél, rövid séták a templomhoz és a Harangtoronyhoz. A Várpark az eső ellenére drámai kilátást nyújt a Vallónia feletti szürke felhőkre.",
+            "ro": "Cu mașina explorăm împrejurimile și orașul Mons confortabil pe ploaie. Dimineața vizităm minele de cremene din Spiennes – sub pământ este uscat. La prânz parcăm lângă Grand-Place pentru acces rapid la biserică și Beffroi. Castle Park oferă o vedere dramatică asupra norilor cenușii de deasupra Valoniei.",
+            "en": "By car, we comfortably explore the surroundings and the city of Mons in the rain. In the morning, we visit the flint mines of Spiennes—it's dry underground. At noon, we park near Grand-Place for short walks to the church and Belfry. Castle Park offers a dramatic view of the grey clouds over Wallonia despite the rain."
+          },
+          "stops": [
+            {
+              "name": "Neolithic Flint Mines of Spiennes (Silex's)",
+              "tip_5lang": {
+                "de": "Unterirdische Besichtigung ist perfekt bei Regen.",
+                "hu": "A föld alatti látogatás tökéletes esőben.",
+                "ro": "Vizita subterană este perfectă pe ploaie.",
+                "en": "Underground tour is perfect for rainy weather."
+              }
+            },
+            {
+              "name": "Mons Memorial Museum",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt vor dem Museum.",
+                "hu": "Nagy parkoló közvetlenül a múzeum előtt.",
+                "ro": "Parcare mare direct în fața muzeului.",
+                "en": "Large parking lot right in front of the museum."
+              }
+            },
+            {
+              "name": "Grand-Place (Park & Walk Cluster)",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser in der Nähe, um trocken zu bleiben.",
+                "hu": "Használja a közeli parkolóházakat, hogy száraz maradjon.",
+                "ro": "Folosiți parcările subterane din apropiere.",
+                "en": "Use nearby parking garages to stay dry."
+              }
+            },
+            {
+              "name": "Collegiate Church of Saint Waltrudis",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg vom Parkplatz entfernt.",
+                "hu": "Csak 2 perc séta a parkolótól.",
+                "ro": "La doar 2 minute de mers pe jos de parcare.",
+                "en": "Only a 2-minute walk from the parking area."
+              }
+            },
+            {
+              "name": "Belfry of Mons (Beffroi)",
+              "tip_5lang": {
+                "de": "Kurzer, steiler Weg; halten Sie den Regenschirm fest.",
+                "hu": "Rövid, meredek út; fogja szorosan az esernyőt.",
+                "ro": "Drum scurt și abrupt; țineți bine umbrela.",
+                "en": "Short, steep path; hold your umbrella tight."
+              }
+            },
+            {
+              "name": "Castle Park (Parc du Château)",
+              "tip_5lang": {
+                "de": "Die befestigten Wege sind auch bei Regen gut begehbar.",
+                "hu": "A kiépített utak esőben is jól járhatóak.",
+                "ro": "Aleile pavate sunt ușor de parcurs și pe ploaie.",
+                "en": "The paved paths are easy to walk even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Park-and-Ride-Plätze am Stadtrand.",
+              "Das Parkhaus 'Grand-Place' ist zentral und trocken.",
+              "Vorsicht auf den engen Einbahnstraßen bei schlechter Sicht.",
+              "Hinterlassen Sie keine Wertsachen sichtbar im Auto.",
+              "Die Fahrt nach Spiennes dauert etwa 15 Minuten."
+            ],
+            "hu": [
+              "Használja a város szélén található P+R parkolókat.",
+              "A 'Grand-Place' parkolóház központi és száraz.",
+              "Vigyázzon a szűk egyirányú utcákban rossz látási viszonyoknál.",
+              "Ne hagyjon értéket látható helyen az autóban.",
+              "Az út Spiennes-be körülbelül 15 percet vesz igénybe."
+            ],
+            "ro": [
+              "Folosiți parcările P+R de la marginea orașului.",
+              "Parcarea 'Grand-Place' este centrală și uscată.",
+              "Atenție pe străzile înguste cu sens unic pe vizibilitate redusă.",
+              "Nu lăsați obiecte de valoare la vedere în mașină.",
+              "Drumul spre Spiennes durează aproximativ 15 minute."
+            ],
+            "en": [
+              "Use Park-and-Ride lots on the city outskirts.",
+              "The 'Grand-Place' parking garage is central and dry.",
+              "Be careful in narrow one-way streets with poor visibility.",
+              "Don't leave valuables visible in the car.",
+              "The drive to Spiennes takes about 15 minutes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreise durch Mons mit dem Auto. Vormittags in den Minen von Spiennes ist die Temperatur stabil. Mittags genießen wir die festliche Atmosphäre der Altstadt. Der Beffroi-Besuch bietet einen klaren Winterblick. Den Tag lassen wir im Castle Park ausklingen, während die Wintersonne die historischen Mauern von Mons in warmes Gold taucht.",
+            "hu": "Téli utazás autóval Mons körül. Délelőtt a spiennes-i bányákban állandó a hőmérséklet. Délben élvezzük az óváros ünnepi hangulatát. A Harangtorony meglátogatása tiszta téli kilátást nyújt. A napot a Várparkban zárjuk, miközben a téli nap meleg aranyba öltözteti Mons történelmi falait.",
+            "ro": "Călătorie de iarnă prin Mons cu mașina. Dimineața în minele din Spiennes temperatura este stabilă. La prânz ne bucurăm de atmosfera festivă a centrului vechi. Vizita la Beffroi oferă o panoramă clară. Încheiem ziua în Castle Park, în timp ce soarele de iarnă îmbracă zidurile în aur.",
+            "en": "Winter trip through Mons by car. In the morning, the mines of Spiennes offer a stable temperature. At noon, we enjoy the festive atmosphere of the old town. A visit to the Belfry offers a clear winter view. We end the day at Castle Park as the winter sun bathes Mons' historic walls in golden light."
+          },
+          "stops": [
+            {
+              "name": "Neolithic Flint Mines of Spiennes (Silex's)",
+              "tip_5lang": {
+                "de": "Konstante 12 Grad unter Tage – angenehm im Winter.",
+                "hu": "Állandó 12 fok a föld alatt – kellemes télen.",
+                "ro": "Constante 12 grade sub pământ – plăcut iarna.",
+                "en": "Constant 12 degrees Celsius underground—pleasant in winter."
+              }
+            },
+            {
+              "name": "Mons Memorial Museum",
+              "tip_5lang": {
+                "de": "Perfekt geheiztes Museum für den Vormittag.",
+                "hu": "Tökéletesen fűtött múzeum a délelőtti órákra.",
+                "ro": "Muzeu bine încălzit pentru dimineață.",
+                "en": "Well-heated museum for the morning hours."
+              }
+            },
+            {
+              "name": "Grand-Place (Park & Walk Cluster)",
+              "tip_5lang": {
+                "de": "Abends herrlich beleuchtet, Parken direkt darunter möglich.",
+                "hu": "Este gyönyörűen kivilágított, parkolás közvetlenül alatta lehetséges.",
+                "ro": "Luminat superb seara, parcare posibilă direct dedesubt.",
+                "en": "Beautifully lit in the evening, parking available right underneath."
+              }
+            },
+            {
+              "name": "Collegiate Church of Saint Waltrudis",
+              "tip_5lang": {
+                "de": "Kurzer Weg durch die Kälte zum imposanten Portal.",
+                "hu": "Rövid út a hidegben az impozáns kapuig.",
+                "ro": "Drum scurt prin frig până la portalul impunător.",
+                "en": "Short walk through the cold to the imposing portal."
+              }
+            },
+            {
+              "name": "Belfry of Mons (Beffroi)",
+              "tip_5lang": {
+                "de": "Warme Jacke für die Aussichtsplattform nötig.",
+                "hu": "Meleg kabát szükséges a kilátóteraszhoz.",
+                "ro": "Jachetă groasă necesară pentru platforma de observație.",
+                "en": "Warm jacket needed for the observation deck."
+              }
+            },
+            {
+              "name": "Castle Park (Parc du Château)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang über der Stadt.",
+                "hu": "Élvezze a naplementét a város felett.",
+                "ro": "Bucurați-vă de apusul deasupra orașului.",
+                "en": "Enjoy the sunset over the city."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei starkem Temperaturabfall.",
+              "Eiskratzer und Frostschutzmittel nicht vergessen.",
+              "Die Parkhäuser sind im Winter oft voll; früh kommen lohnt sich.",
+              "Vorsicht auf den gepflasterten Steilstrecken in der Oberstadt.",
+              "Viele Parkzonen in Mons sind samstags kostenpflichtig."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást jelentős lehűlés esetén.",
+              "Ne felejtse el a jégkaparót és a fagyállót.",
+              "A parkolóházak télen gyakran tele vannak; érdemes korán érkezni.",
+              "Vigyázzon a felsőváros meredek, kövezett útjain.",
+              "Mons-ban sok parkolóhely szombatonként is fizetős."
+            ],
+            "ro": [
+              "Verificați presiunea anvelopelor la scăderi de temperatură.",
+              "Nu uitați racleta și lichidul de parbriz de iarnă.",
+              "Parcările sunt adesea pline iarna; merită să veniți devreme.",
+              "Atenție pe drumurile pietruite în pantă din orașul de sus.",
+              "Multe zone de parcare din Mons sunt cu plată sâmbăta."
+            ],
+            "en": [
+              "Check tire pressure during sharp temperature drops.",
+              "Don't forget the ice scraper and anti-freeze.",
+              "Parking garages are often full in winter; arriving early helps.",
+              "Be careful on steep cobbled roads in the upper town.",
+              "Many parking zones in Mons require payment on Saturdays."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1244,6 +1850,196 @@
           "Validate your ticket each time you board a bus.",
           "Most buses depart from the train station, making it a good hub to start from."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mons per Bus und Bahn ist bei Regen die schlaue Wahl. Wir starten am Grand-Place, besuchen trocken den Beffroi und die St.-Waltrudis-Kirche. Mittags bringen uns die City-Busse direkt zu den Museen BAM und Mundaneum. Den späten Nachmittag verbringen wir im Memorial Museum, geschützt vor dem ungemütlichen Wetter draußen.",
+            "hu": "Mons felfedezése busszal az esőben okos döntés. A Főtérről indulunk, szárazon látogatjuk meg a Harangtoronyt és a Szent Waltrudis-templomot. Délben a city-buszok közvetlenül a BAM és a Mundaneum múzeumokhoz visznek. A késő délutánt a Memorial Museumban töltjük, védve a kinti barátságtalan időtől.",
+            "ro": "Explorarea orașului Mons cu autobuzul pe ploaie este alegerea inteligentă. Pornim din Grand-Place, vizităm uscați Beffroi și biserica Saint Waltrudis. La prânz, autobuzele ne duc direct la muzeele BAM și Mundaneum. Petrecem după-amiaza târzie la Memorial Museum, protejați de vremea de afară.",
+            "en": "Exploring Mons by bus in the rain is the smart choice. We start at Grand-Place, visit the Belfry and the Collegiate Church while staying dry. At noon, city buses take us directly to BAM and Mundaneum museums. We spend the late afternoon at the Memorial Museum, sheltered from the inclement weather outside."
+          },
+          "stops": [
+            {
+              "name": "Grand-Place (Center Cluster)",
+              "tip_5lang": {
+                "de": "Zentrale Haltestellen mit Unterstand in der Nähe.",
+                "hu": "Központi megállók fedett várakozóval a közelben.",
+                "ro": "Stații centrale cu adăpost în apropiere.",
+                "en": "Central bus stops with shelters nearby."
+              }
+            },
+            {
+              "name": "Belfry of Mons (Beffroi)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufzug im Beffroi, um trocken zu bleiben.",
+                "hu": "Használja a liftet a Harangtoronyban, hogy száraz maradjon.",
+                "ro": "Folosiți liftul din Beffroi pentru a rămâne uscat.",
+                "en": "Use the elevator in the Belfry to stay dry."
+              }
+            },
+            {
+              "name": "Collegiate Church of Saint Waltrudis",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist fast direkt vor dem Portal.",
+                "hu": "A buszmegálló szinte közvetlenül a kapu előtt van.",
+                "ro": "Stația de autobuz este aproape direct în fața portalului.",
+                "en": "The bus stop is almost right in front of the portal."
+              }
+            },
+            {
+              "name": "BAM (Museums Cluster)",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Bus zum Museumseingang.",
+                "hu": "Rövid futás a busztól a múzeum bejáratáig.",
+                "ro": "Sprint scurt de la autobuz până la intrarea în muzeu.",
+                "en": "A short sprint from the bus to the museum entrance."
+              }
+            },
+            {
+              "name": "Mundaneum",
+              "tip_5lang": {
+                "de": "Die Haltestellen in dieser Zone sind gut vernetzt.",
+                "hu": "Ebben a zónában a megállók jól összekapcsoltak.",
+                "ro": "Stațiile din această zonă sunt bine conectate.",
+                "en": "The stops in this area are well-connected."
+              }
+            },
+            {
+              "name": "Mons Memorial Museum (Memorial Cluster)",
+              "tip_5lang": {
+                "de": "Endstation im Trockenen; Busse fahren regelmäßig zum Bahnhof.",
+                "hu": "Végállomás szárazon; a buszok rendszeresen járnak a vasútállomásra.",
+                "ro": "Final de drum la uscat; autobuzele circulă regulat spre gară.",
+                "en": "Finish in the dry; buses run regularly to the train station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die kostenlosen 'Mons City' Shuttle-Busse.",
+              "Die Fahrpläne sind in der TEC-App live einsehbar.",
+              "Der Hauptbahnhof von Calatrava ist ein architektonisches Highlight und trocken.",
+              "Kaufen Sie Tickets vorab digital, um Wartezeiten im Regen zu vermeiden.",
+              "Die City-Busse halten nah an den wichtigsten Sehenswürdigkeiten."
+            ],
+            "hu": [
+              "Használja az ingyenes 'Mons City' ingajáratokat.",
+              "A menetrendek a TEC applikációban élőben követhetők.",
+              "A Calatrava-féle vasútállomás építészeti remekmű és száraz.",
+              "Vásároljon jegyet digitálisan az esőben való várakozás elkerülésére.",
+              "A városi buszok közel állnak meg a főbb látnivalókhoz."
+            ],
+            "ro": [
+              "Folosiți microbuzele gratuite 'Mons City'.",
+              "Orarele pot fi consultate live în aplicația TEC.",
+              "Gara proiectată de Calatrava este un reper arhitectural uscat.",
+              "Cumpărați bilete digital pentru a evita așteptarea în ploaie.",
+              "Autobuzele City opresc aproape de principalele atracții."
+            ],
+            "en": [
+              "Use the free 'Mons City' shuttle buses.",
+              "Check schedules live in the TEC app.",
+              "The Calatrava-designed train station is a dry architectural highlight.",
+              "Buy digital tickets beforehand to avoid waiting in the rain.",
+              "City buses stop very close to the main sights."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem öffentlichen Nahverkehr durch das winterliche Mons. Vormittags besichtigen wir den Grand-Place und den Beffroi, wobei die Busse uns die kalten Fußwege ersparen. Den Nachmittag verbringen wir in den gut geheizten Museen BAM und Mundaneum. Der Tag endet im Memorial Museum, bevor wir bequem mit dem Bus zurück zum modernen Bahnhof fahren.",
+            "hu": "Tömegközlekedéssel a téli Mons-ban. Délelőtt a Főteret és a Harangtoronyt nézzük meg, a buszok megkímélnek minket a hideg gyalogutaktól. A délutánt a jól fűtött BAM és Mundaneum múzeumokban töltjük. A nap a Memorial Museumban ér véget, mielőtt kényelmesen visszabuszoznánk a modern vasútállomásra.",
+            "ro": "Cu transportul public prin Mons-ul de iarnă. Dimineața vizităm Grand-Place și Beffroi, autobuzele scutindu-ne de mersul prin frig. După-amiaza o petrecem în muzeele bine încălzite BAM și Mundaneum. Ziua se încheie la Memorial Museum, înainte de a reveni cu autobuzul la gară.",
+            "en": "Traveling through wintry Mons by public transport. In the morning, we visit Grand-Place and the Belfry, letting buses save us from cold walks. We spend the afternoon in the well-heated BAM and Mundaneum museums. The day ends at the Memorial Museum before a comfortable bus ride back to the modern station."
+          },
+          "stops": [
+            {
+              "name": "Grand-Place (Center Cluster)",
+              "tip_5lang": {
+                "de": "Hübsch beleuchtete Haltestellen am Abend.",
+                "hu": "Szépen kivilágított megállók az esti órákban.",
+                "ro": "Stații frumos iluminate în timpul serii.",
+                "en": "Beautifully lit bus stops in the evening."
+              }
+            },
+            {
+              "name": "Belfry of Mons (Beffroi)",
+              "tip_5lang": {
+                "de": "Der Anstieg per Bus erspart das Rutschen auf Eis.",
+                "hu": "A busszal való feljutás megkímél a jeges csúszkálástól.",
+                "ro": "Urcarea cu autobuzul vă scutește de alunecarea pe gheață.",
+                "en": "Taking the bus uphill saves you from slipping on ice."
+              }
+            },
+            {
+              "name": "Collegiate Church of Saint Waltrudis",
+              "tip_5lang": {
+                "de": "Innerhalb von 5 Minuten mit dem City-Bus erreichbar.",
+                "hu": "5 percen belül elérhető a City-busszal.",
+                "ro": "Accesibil în 5 minute cu autobuzul City.",
+                "en": "Accessible within 5 minutes by the City bus."
+              }
+            },
+            {
+              "name": "BAM (Museums Cluster)",
+              "tip_5lang": {
+                "de": "Warmes Foyer zum Warten auf den nächsten Bus.",
+                "hu": "Meleg előcsarnok a következő buszra való várakozáshoz.",
+                "ro": "Foaier cald pentru a aștepta următorul autobuz.",
+                "en": "Warm foyer while waiting for the next bus."
+              }
+            },
+            {
+              "name": "Mundaneum",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt für viele Buslinien.",
+                "hu": "Központi csomópont számos buszvonal számára.",
+                "ro": "Nod central pentru multe linii de autobuz.",
+                "en": "Central hub for many bus lines."
+              }
+            },
+            {
+              "name": "Mons Memorial Museum (Memorial Cluster)",
+              "tip_5lang": {
+                "de": "Haltestelle direkt gegenüber dem Museumseingang.",
+                "hu": "Megálló közvetlenül a múzeum bejáratával szemben.",
+                "ro": "Stație direct vizavi de intrarea în muzeu.",
+                "en": "Bus stop directly opposite the museum entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Wärme in den Bussen zum Aufwärmen zwischen den Stopps.",
+              "Achten Sie auf Winterfahrpläne während der Feiertage.",
+              "Die City-Busse sind im Winter oft eine warme Alternative zum Gehen.",
+              "Der Bahnhof von Mons bietet Schließfächer für schweres Wintergepäck.",
+              "Die Sonne geht früh unter, planen Sie die Fahrten entsprechend."
+            ],
+            "hu": [
+              "Használja a buszok melegét a megállók közötti felmelegedéshez.",
+              "Figyeljen a téli menetrendre az ünnepek alatt.",
+              "A City-buszok télen meleg alternatívát kínálnak a gyaloglás helyett.",
+              "A mons-i állomáson vannak csomagmegőrzők a nehéz téli táskáknak.",
+              "A nap korán nyugszik, tervezze az utazást ennek megfelelően."
+            ],
+            "ro": [
+              "Folosiți căldura din autobuze pentru a vă încălzi între opriri.",
+              "Atenție la orarul de iarnă în timpul sărbătorilor.",
+              "Autobuzele City sunt o alternativă caldă la mersul pe jos iarna.",
+              "Gara din Mons oferă dulapuri pentru bagaje grele de iarnă.",
+              "Soarele apune devreme, planificați călătoriile în consecință."
+            ],
+            "en": [
+              "Use the warmth of the buses to heat up between stops.",
+              "Check for winter holiday schedule changes.",
+              "City buses are a warm alternative to walking in winter.",
+              "Mons station has lockers for heavy winter gear.",
+              "Sunset is early; plan your trips accordingly."
+            ]
+          }
+        }
       }
     }
   }

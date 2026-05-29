@@ -395,6 +395,206 @@
           "Most shops are closed on Sundays, so plan your shopping accordingly.",
           "The walk to Haraldshaugen is long, but the coastal scenery is worth it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Byparken, wo der Regen die grüne Lunge der Stadt zum Leuchten bringt. Suchen Sie Schutz unter den imposanten Säulen des preisgekrönten Rathauses.\n\nMittags bietet die Vår Frelsers Kirche einen Ort der Stille und Trockenheit, bevor Sie in die maritime Geschichte im Karmsund Museum eintauchen.\n\nDer Nachmittag am Hafen ist windig; die Bronzepferde von 'The Rising Tide' wirken im Regen besonders dramatisch. Ein langes Mittagessen in einer warmen Gaststätte wärmt Sie auf.\n\nZum Abschluss führt der Weg zum Haraldshaugen. Die raue Nordsee-Atmosphäre ist bei Regen authentisch norwegisch, bevor Sie in die belebte Smedasundet zurückkehren.",
+            "hu": "Kezdje a napot a Városligetben, ahol az eső még zöldebbé teszi a parkot, majd keressen menedéket a díjnyertes városháza neoklasszicista oszlopai alatt.\n\nDélben a Vår Frelsers templom nyújt csendes pihenőt, mielőtt a Karmsund Múzeumban elmerülne a halászat és a tengeri kereskedelem történetében.\n\nDélután a kikötőben a 'The Rising Tide' lovai különösen drámaiak az esőben. Egy kiadós ebéd a parton segít elfelejteni a kinti nedves időt.\n\nA napot a Haraldshaugennél zárjuk. A norvég esőben a monumentális obeliszk az igazi viking hangulatot idézi, mielőtt visszatérne a Smedasundet fényei közé.",
+            "ro": "Începeți ziua în Byparken, unde ploaia intensifică verdele parcului, apoi adăpostiți-vă sub coloanele neoclasice ale primăriei premiate.\n\nLa prânz, biserica Vår Frelsers oferă liniște și protecție împotriva vremii, urmată de o vizită la Muzeul Karmsund pentru a explora istoria maritimă locală.\n\nDupă-amiaza în port, sculpturile 'The Rising Tide' par și mai dramatice sub cerul gri. Un prânz prelungit într-un local călduros vă va reîncărca bateriile.\n\nÎncheiați ziua la Haraldshaugen. Atmosfera mării agitate sub ploaie este autentic norvegiană, oferind o perspectivă unică asupra primului monument național.",
+            "en": "Start your day in the City Park, where the rain brings out the lush greens, then seek shelter under the grand columns of the award-winning Town Hall.\n\nAt midday, Vår Frelsers Church provides a serene dry haven before you dive into local maritime history at the indoor Karmsund Folk Museum.\n\nIn the afternoon, the bronze horses of 'The Rising Tide' look especially atmospheric in the rain. Enjoy a slow lunch at the harbour to warm up.\n\nFinish at Haraldshaugen. The raw North Sea weather adds a dramatic Viking feel to the national monument before heading back to the cozy city lights."
+          },
+          "stops": [
+            {
+              "name": "Byparken (City Park)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die dichten Baumkronen als natürlichen Regenschutz.",
+                "hu": "A sűrű lombkoronák természetes esernyőként szolgálnak.",
+                "ro": "Folosiți coroanele dese ale copacilor ca adăpost natural.",
+                "en": "Use the thick tree canopies as a natural rain shield."
+              }
+            },
+            {
+              "name": "Haugesund Town Hall",
+              "tip_5lang": {
+                "de": "Die Arkaden bieten perfekten Schutz für Architekturfotos.",
+                "hu": "Az árkádok tökéletes védelmet nyújtanak a fotózáshoz.",
+                "ro": "Arcadele oferă protecție perfectă pentru fotografii.",
+                "en": "The colonnades offer perfect shelter for taking photos."
+              }
+            },
+            {
+              "name": "Vår Frelsers Church",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen heftigen Schauer abzuwarten.",
+                "hu": "Ideális hely egy komolyabb zápor átvészelésére.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse.",
+                "en": "An ideal place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Karmsund Folk Museum",
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Besuch, um trocken zu bleiben.",
+                "hu": "Maradjon tovább bent, hogy elkerülje az ázást.",
+                "ro": "Prelungiți vizita pentru a rămâne la adăpost de ploaie.",
+                "en": "Extend your visit here to stay dry and explore deeper."
+              }
+            },
+            {
+              "name": "The Rising Tide",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steine am Ufer können bei Nässe glatt sein.",
+                "hu": "Vigyázat, a parti kövek nedvesen csúszósak lehetnek.",
+                "ro": "Atenție, pietrele de pe țărm pot fi alunecoase când sunt ude.",
+                "en": "Caution: the rocks by the shore can be slippery when wet."
+              }
+            },
+            {
+              "name": "Lunch at the Harbour",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Blick auf das stürmische Meer.",
+                "hu": "Válasszon éttermet kilátással a viharos tengerre.",
+                "ro": "Alegeți un restaurant cu vedere la marea agitată.",
+                "en": "Choose a restaurant with a view of the stormy sea."
+              }
+            },
+            {
+              "name": "Haraldshaugen",
+              "tip_5lang": {
+                "de": "Gute Regenkleidung ist wegen des starken Windes Pflicht.",
+                "hu": "A szél miatt a minőségi esőkabát elengedhetetlen.",
+                "ro": "Echipamentul de ploaie e vital din cauza vântului puternic.",
+                "en": "High-quality rain gear is essential due to high winds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haugesund ist bekannt für plötzliche Schauer; Zwiebelprinzip ist wichtig.",
+              "Die Haraldsgata bietet viele überdachte Eingänge zum kurzen Unterstellen.",
+              "Nutzen Sie die Indoor-Ausstellungen im Karmsund Museum ausgiebig.",
+              "Regenschirme sind bei Wind oft nutzlos; bevorzugen Sie feste Regenjacken."
+            ],
+            "hu": [
+              "Haugesund híres a hirtelen záporokról; a réteges öltözködés kulcsfontosságú.",
+              "A Haraldsgata üzleteinek ereszei alatt rövid ideig menedéket találhat.",
+              "Használja ki a Karmsund Múzeum benti kiállításait a leghosszabb zápor idején.",
+              "Az erős szél miatt az esernyő gyakran használhatatlan; válasszon viharkabátot."
+            ],
+            "ro": [
+              "Haugesund e faimos pentru averse bruște; îmbrăcați-vă în straturi.",
+              "Haraldsgata are multe intrări acoperite unde vă puteți adăposti scurt.",
+              "Profită de expozițiile interioare de la Muzeul Karmsund pe durata ploii.",
+              "Umbrelele sunt adesea inutile din cauza vântului; preferați pelerinele."
+            ],
+            "en": [
+              "Haugesund is known for sudden showers; dressing in layers is key.",
+              "The shop fronts along Haraldsgata offer quick shelter from the rain.",
+              "Take your time in the Karmsund Museum to avoid the heaviest rain.",
+              "Umbrellas often fail in the coastal wind; sturdy raincoats are better."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie den Byparken im winterlichen Frost, wenn das Rathaus im sanften nordischen Morgenlicht glänzt. Die Kälte ist trocken und erfrischend.\n\nMittags bietet die beheizte Vår Frelsers Kirche einen Moment der Besinnung, gefolgt von der wohligen Wärme des Karmsund Museums, wo die Kamine früherer Zeiten Thema sind.\n\nDer frühe Nachmittag am Hafen zeigt 'The Rising Tide' oft von Eiskristallen bedeckt. Ein heißer Kaffee beim Mittagessen ist jetzt überlebenswichtig.\n\nDa die Sonne gegen 15:30 Uhr sinkt, erreichen Sie Haraldshaugen zur blauen Stunde. Die beleuchteten Denkmäler im Schnee bieten eine magische Kulisse, bevor es zurück ins warme Zentrum geht.",
+            "hu": "Élje át a Városliget téli zúzmarás hangulatát, amikor a városháza a lágy északi reggeli fényben tündököl. A hideg frissítő és tiszta.\n\nDélben a fűtött Vår Frelsers templom nyújt meghitt pillanatokat, majd a Karmsund Múzeum melegében ismerkedhet meg az egykori téli mindennapokkal.\n\nA kikötőben a 'The Rising Tide' lovait gyakran jégkristályok borítják a korai délutáni órákban. Egy forró kávé az ebédnél most elengedhetetlen.\n\nMivel a nap már 15:30 körül nyugszik, a Haraldshaugent a 'kék órában' éri el. A megvilágított emlékmű a hóban varázslatos látvány, mielőtt visszatérne a belvárosba.",
+            "ro": "Experimentați Byparken sub gerul iernii, când primăria strălucește în lumina blândă a dimineții nordice. Frigul este uscat și revigorant.\n\nLa prânz, biserica încălzită Vår Frelsers oferă un moment de reflecție, urmată de căldura primitoare a Muzeului Karmsund.\n\nÎn port, sculpturile 'The Rising Tide' sunt adesea acoperite de cristale de gheață. O cafea fierbinte la prânz este esențială pentru a vă încălzi.\n\nCum soarele apune în jur de 15:30, ajungeți la Haraldshaugen în 'ora albastră'. Monumentele luminate pe zăpadă oferă un cadru magic înainte de întoarcerea în centru.",
+            "en": "Experience City Park in the winter frost, as the Town Hall gleams in the soft Nordic morning light. The air is crisp and refreshing.\n\nAt midday, the heated Vår Frelsers Church offers a moment of peace, followed by the cozy warmth of the Karmsund Museum indoors.\n\nBy the harbour, 'The Rising Tide' horses are often dusted with frost in the early afternoon. A hot coffee with lunch is now a necessity.\n\nWith sunset around 15:30, you'll reach Haraldshaugen during the blue hour. The illuminated monuments against the snow create a magical scene before retreating to the center."
+          },
+          "stops": [
+            {
+              "name": "Byparken (City Park)",
+              "tip_5lang": {
+                "de": "Vorsicht auf den gefrorenen Kieswegen im Park.",
+                "hu": "Vigyázat, a park kavicsos útjai jegesek lehetnek.",
+                "ro": "Atenție pe aleile cu pietriș care pot fi înghețate.",
+                "en": "Be careful on the frozen gravel paths in the park."
+              }
+            },
+            {
+              "name": "Haugesund Town Hall",
+              "tip_5lang": {
+                "de": "Das warme Licht der Fenster ist ein tolles Fotomotiv.",
+                "hu": "Az ablakok meleg fénye kiváló fotótéma a szürkületben.",
+                "ro": "Lumina caldă a ferestrelor e un subiect foto excelent.",
+                "en": "The warm glow from the windows makes for a great photo."
+              }
+            },
+            {
+              "name": "Vår Frelsers Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und die angenehme Heizung.",
+                "hu": "Élvezze a csendet és a kellemes benti fűtést.",
+                "ro": "Bucurați-vă de liniște și de încălzirea interioară.",
+                "en": "Enjoy the silence and the comfortable indoor heating."
+              }
+            },
+            {
+              "name": "Karmsund Folk Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um sich zwischen den Spaziergängen aufzuwärmen.",
+                "hu": "Tökéletes hely a felmelegedésre két séta között.",
+                "ro": "Locul perfect pentru a vă încălzi între plimbări.",
+                "en": "The perfect place to warm up between outdoor walks."
+              }
+            },
+            {
+              "name": "The Rising Tide",
+              "tip_5lang": {
+                "de": "Die Gischt kann auf den Skulpturen gefrieren; nicht berühren.",
+                "hu": "A sós pára ráfagyhat a szobrokra; ne érjen hozzájuk.",
+                "ro": "Stropii de apă pot îngheța pe sculpturi; nu le atingeți.",
+                "en": "Sea spray can freeze on the sculptures; do not touch."
+              }
+            },
+            {
+              "name": "Lunch at the Harbour",
+              "tip_5lang": {
+                "de": "Probieren Sie eine heiße Fischsuppe gegen die Kälte.",
+                "hu": "Kóstoljon meg egy forró hallevest a hideg ellen.",
+                "ro": "Încercați o supă de pește fierbinte pentru a vă încălzi.",
+                "en": "Try a hot fish soup to keep the winter chill away."
+              }
+            },
+            {
+              "name": "Haraldshaugen",
+              "tip_5lang": {
+                "de": "Der Windchill am Meer ist extrem; Mütze und Handschuhe!",
+                "hu": "A szél hűtőhatása a tengerparton extrém; sapka kötelező!",
+                "ro": "Vântul de pe malul mării este tăios; purtați mănuși!",
+                "en": "The sea wind-chill is extreme; wear a hat and gloves!"
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht sehr früh unter; planen Sie Außenaktivitäten vor 15:00 Uhr.",
+              "Wollunterwäsche (Merino) ist in Norwegen im Winter Standard.",
+              "Die Gehwege können 'Schwarzeis' haben; gehen Sie vorsichtig.",
+              "Viele Cafés haben Decken für die Gäste, falls Sie kurz draußen sitzen wollen."
+            ],
+            "hu": [
+              "A nap nagyon korán nyugszik; a kinti programokat tervezze 15:00 előttre.",
+              "A gyapjú aláöltözet (merinó) télen alapfelszerelés Norvégiában.",
+              "A járdákon 'fekete jég' alakulhat ki; közlekedjen óvatosan.",
+              "Sok kávézó biztosít plédet, ha mégis kiülne egy pillanatra a teraszra."
+            ],
+            "ro": [
+              "Apusul este foarte devreme; planificați vizitele externe înainte de 15:00.",
+              "Lenjeria termică din lână (merinos) este esențială iarna în Norvegia.",
+              "Trotoarele pot avea polei periculos; mergeți cu mare atenție.",
+              "Multe cafenele oferă pături dacă doriți să stați scurt afară."
+            ],
+            "en": [
+              "Sunset is very early; plan all outdoor activities before 15:00.",
+              "Wool base layers (merino) are standard winter wear in Norway.",
+              "Watch out for 'black ice' on pavements; walk carefully.",
+              "Many cafes provide blankets for guests if you want to sit outside briefly."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -784,6 +984,206 @@
           "A helmet is highly recommended.",
           "Plan extra time for photo stops; the scenery is beautiful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig zum Rathaus; die nassen Straßen glänzen im grauen Licht. Das Karmsund Museum bietet eine trockene Pause für Kulturinteressierte.\n\nMittags geht es zum Haraldshaugen. Der Regen peitscht vom Meer herüber, was die Fahrt sportlich und erfrischend macht. Ein warmes Mittagessen ist der Lohn.\n\nNachmittags führt die Tour nach Djupadalen. Die Waldwege riechen herrlich nach Regen, können aber matschig sein. Die Auffahrt zum Steinsfjellet ist bei Nebel mystisch.\n\nDen Tag beenden Sie im Stadtzentrum. Die Lichter spiegeln sich im nassen Asphalt, während Sie Ihr Rad für den Abend sicher abstellen.",
+            "hu": "Tekerjen óvatosan a városházához; a vizes utak csillognak a szürke fényben. A Karmsund Múzeum száraz pihenőt kínál a kultúra kedvelőinek.\n\nDélben irány a Haraldshaugen. A tenger felől érkező eső sportossá és frissítővé teszi az utat. A jutalom egy meleg ebéd a parton.\n\nDélután a túra a Djupadalen völgybe vezet. Az erdei utak friss esőillatúak, de sárosak lehetnek. A Steinsfjellet felé vezető út ködben misztikus.\n\nA napot a belvárosban zárjuk. A fények tükröződnek a vizes aszfalton, miközben biztonságba helyezi kerékpárját az este előtt.",
+            "ro": "Pedalați cu atenție spre primărie; străzile ude strălucesc în lumina gri. Muzeul Karmsund oferă o pauză uscată pentru iubitorii de cultură.\n\nLa prânz, porniți spre Haraldshaugen. Ploaia ce vine dinspre mare face drumul sportiv și revigorant. Un prânz cald este recompensa meritată.\n\nDupă-amiaza, turul continuă spre Djupadalen. Potecile de pădure miros a ploaie, dar pot fi noroioase. Urcarea spre Steinsfjellet este mistică prin ceață.\n\nÎncheiați ziua în centrul orașului. Luminile se reflectă în asfaltul ud în timp ce parcați bicicleta pentru seară.",
+            "en": "Cycle carefully to the Town Hall; the wet streets glisten in the grey light. Karmsund Museum offers a dry break for culture enthusiasts.\n\nAt noon, head to Haraldshaugen. The rain blowing off the sea makes for a bracing and athletic ride. A warm lunch is your reward.\n\nIn the afternoon, the tour goes to Djupadalen. The forest trails smell fresh from the rain but can be muddy. The climb to Steinsfjellet is mystical in the fog.\n\nFinish the day in the city center. The lights reflect beautifully on the wet asphalt as you park your bike for the evening."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Byparken",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Pflaster vor dem Rathaus.",
+                "hu": "Vigyázzon a fékezéssel a városháza előtti nedves kövezeten.",
+                "ro": "Atenție la frânare pe pavajul ud din fața primăriei.",
+                "en": "Be careful when braking on the wet pavement by the Town Hall."
+              }
+            },
+            {
+              "name": "Karmsund Folk Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Fahrradständer direkt am Eingang.",
+                "hu": "Használja közvetlenül a bejáratnál lévő biciklitárolót.",
+                "ro": "Folosiți rastelul de biciclete direct de la intrare.",
+                "en": "Use the bicycle rack located directly by the entrance."
+              }
+            },
+            {
+              "name": "Haraldshaugen",
+              "tip_5lang": {
+                "de": "Starker Seitenwind auf dem Küstenradweg möglich.",
+                "hu": "Erős oldalszélre kell számítani a parti kerékpárúton.",
+                "ro": "Posibil vânt lateral puternic pe pista de lângă coastă.",
+                "en": "Strong crosswinds possible on the coastal cycle path."
+              }
+            },
+            {
+              "name": "Lunch with a view",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit Abstellmöglichkeit im Sichtbereich.",
+                "hu": "Keressen olyan helyet, ahol rálát a lezárt biciklire.",
+                "ro": "Căutați un local unde puteți supraveghea bicicleta.",
+                "en": "Look for a spot where you can keep an eye on your bike."
+              }
+            },
+            {
+              "name": "Djupadalen",
+              "tip_5lang": {
+                "de": "Schutzbleche sind bei diesem Wetter unverzichtbar.",
+                "hu": "A sárvédő ebben az időben nélkülözhetetlen.",
+                "ro": "Apărătorile de noroi sunt indispensabile pe această vreme.",
+                "en": "Mudguards are indispensable in this wet weather."
+              }
+            },
+            {
+              "name": "Steinsfjellet",
+              "tip_5lang": {
+                "de": "Die Abfahrt bei Regen erfordert volle Konzentration.",
+                "hu": "Az esőben való legurulás teljes koncentrációt igényel.",
+                "ro": "Coborârea pe ploaie necesită concentrare maximă.",
+                "en": "The descent in the rain requires full concentration."
+              }
+            },
+            {
+              "name": "Return to City Center",
+              "tip_5lang": {
+                "de": "Trocknen Sie Kette und Schaltung nach der Tour ab.",
+                "hu": "A túra után törölje szárazra a láncot és a váltót.",
+                "ro": "Ștergeți lanțul și schimbătorul după terminarea turului.",
+                "en": "Dry off the chain and gears after finishing your tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung (Hose und Jacke) ist ein Muss.",
+              "Vermeiden Sie weiße Fahrbahnmarkierungen, sie sind extrem rutschig.",
+              "Beleuchtung einschalten, da die Sicht im Regen stark eingeschränkt ist.",
+              "Ein Sattelbezug hält den Sitz trocken, während Sie im Museum sind."
+            ],
+            "hu": [
+              "A teljes esőruházat (nadrág és kabát) kötelező.",
+              "Kerülje a fehér útburkolati jeleket, mert rendkívül csúszósak.",
+              "Kapcsolja be a világítást, mert az esőben a látótávolság korlátozott.",
+              "Egy nyereghuzat szárazon tartja az ülést, amíg Ön a múzeumban van."
+            ],
+            "ro": [
+              "Costumul complet de ploaie (pantaloni și jachetă) este obligatoriu.",
+              "Evitați marcajele rutiere albe, sunt extrem de alunecoase.",
+              "Aprindeți luminile, vizibilitatea este redusă semnificativ pe ploaie.",
+              "O husă de șa menține scaunul uscat cât timp sunteți la muzeu."
+            ],
+            "en": [
+              "Full rain gear (trousers and jacket) is an absolute must.",
+              "Avoid riding on white road markings; they get extremely slippery.",
+              "Keep your lights on as visibility is poor during heavy rain.",
+              "A saddle cover will keep your seat dry while you visit the museum."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start am Rathaus. Die klare Luft lässt die Stadt scharf gezeichnet erscheinen. Im Karmsund Museum wärmen Sie sich kurz auf.\n\nMittags radeln Sie zum Haraldshaugen. Der Wind vom Nordatlantik ist eisig, aber die Sicht auf die schneebedeckten Inseln ist atemberaubend.\n\nDer Nachmittag führt durch das winterliche Djupadalen. Die verschneiten Wege dämpfen jedes Geräusch. Die Auffahrt zum Steinsfjellet ist anstrengend, hält aber warm.\n\nBevor es dunkel wird, kehren Sie ins Zentrum zurück. Die Weihnachtslichter (im Dez/Jan) empfangen Sie in der gemütlichen Einkaufsstraße.",
+            "hu": "Hűvös kezdés a városházánál. A tiszta levegőben az egész város éles kontúrokkal látszik. A Karmsund Múzeumban gyorsan felmelegedhet.\n\nDélben tekerjen a Haraldshaugenhez. Az észak-atlanti szél jeges, de a kilátás a hófödte szigetekre lélegzetelállító.\n\nDélután a túra a téli Djupadalen völgyön át vezet. A havas utak elnyelik a zajokat. A Steinsfjelletre való feltekerés fárasztó, de melegen tart.\n\nMielőtt besötétedik, térjen vissza a központba. A karácsonyi fények (decemberben és januárban) barátságosan fogadják a bevásárlóutcában.",
+            "ro": "Un început răcoros la primărie. Aerul curat face ca orașul să pară desenat în linii clare. Încălziți-vă scurt la Muzeul Karmsund.\n\nLa prânz, pedalați spre Haraldshaugen. Vântul din Atlanticul de Nord este înghețat, dar vederea insulelor înzăpezite este uluitoare.\n\nDupă-amiaza traversează Djupadalen iarna. Potecile înzăpezite amortizează orice sunet. Urcarea spre Steinsfjellet e grea, dar vă ține de cald.\n\nÎnainte de lăsarea întunericului, reveniți în centru. Luminile de sărbători vă întâmpină pe strada comercială primitoare.",
+            "en": "A crisp start at the Town Hall. The clear air makes the city look sharp and bright. Warm up briefly inside the Karmsund Museum.\n\nAt noon, cycle to Haraldshaugen. The North Atlantic wind is icy, but the view of the snow-covered islands is breathtaking.\n\nIn the afternoon, ride through wintery Djupadalen. The snowy paths dampen all sounds. The climb to Steinsfjellet is tough but keeps your blood pumping.\n\nBefore darkness falls, return to the center. The festive lights (in Dec/Jan) welcome you back to the cozy shopping streets."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Byparken",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisplatten im Schatten des Parks.",
+                "hu": "Vigyázat, a park árnyékos részein jégfoltok lehetnek.",
+                "ro": "Atenție la porțiunile de gheață în zonele umbrite din parc.",
+                "en": "Watch out for patches of ice in the shaded areas of the park."
+              }
+            },
+            {
+              "name": "Karmsund Folk Museum",
+              "tip_5lang": {
+                "de": "Hinterlassen Sie keine nassen Handschuhe auf den Heizkörpern.",
+                "hu": "Ne hagyja a vizes kesztyűit a fűtőtesteken a múzeumban.",
+                "ro": "Nu lăsați mănușile ude pe caloriferele din muzeu.",
+                "en": "Do not leave wet gloves on the radiators inside the museum."
+              }
+            },
+            {
+              "name": "Haraldshaugen",
+              "tip_5lang": {
+                "de": "Tragen Sie eine Gesichtsmaske gegen den schneidenden Wind.",
+                "hu": "Viseljen arcmaszkot a metsző tengeri szél ellen.",
+                "ro": "Purtați o mască facială împotriva vântului tăios.",
+                "en": "Wear a face mask or buff against the biting coastal wind."
+              }
+            },
+            {
+              "name": "Lunch with a view",
+              "tip_5lang": {
+                "de": "Ein Platz am Fenster lässt Sie die Wintersonne genießen.",
+                "hu": "Egy ablak melletti asztalnál élvezheti a téli napsütést.",
+                "ro": "Un loc la fereastră vă permite să savurați soarele de iarnă.",
+                "en": "A window seat lets you soak up the limited winter sun."
+              }
+            },
+            {
+              "name": "Djupadalen",
+              "tip_5lang": {
+                "de": "Mountainbike-Reifen mit gutem Profil sind hier ratsam.",
+                "hu": "A jó profilú hegyi kerékpár gumi itt tanácsos.",
+                "ro": "Anvelopele de mountain bike cu profil bun sunt recomandate.",
+                "en": "Mountain bike tires with good tread are advisable here."
+              }
+            },
+            {
+              "name": "Steinsfjellet",
+              "tip_5lang": {
+                "de": "Oben ist es oft 2-3 Grad kälter als im Zentrum.",
+                "hu": "Fent gyakran 2-3 fokkal hidegebb van, mint a városban.",
+                "ro": "Sus este adesea cu 2-3 grade mai frig decât în centru.",
+                "en": "It is often 2-3 degrees colder at the top than in town."
+              }
+            },
+            {
+              "name": "Return to City Center",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Beleuchtung; es wird früh dunkel.",
+                "hu": "Ellenőrizze a világítást; hamar sötétedik.",
+                "ro": "Verificați luminile; se întunecă foarte devreme.",
+                "en": "Check your lights; it gets dark very early in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen mit Spikes sind bei Eis auf den Straßen notwendig.",
+              "Tragen Sie winddichte Handschuhe; die Finger kühlen beim Bremsen schnell aus.",
+              "Die Tage sind kurz; starten Sie pünktlich um 09:00 Uhr.",
+              "Trinken Sie auch bei Kälte genug Wasser, die trockene Luft dehydriert."
+            ],
+            "hu": [
+              "Szöges téli gumik szükségesek, ha jég van az utakon.",
+              "Viseljen szélálló kesztyűt; az ujjak fékezéskor gyorsan kihűlnek.",
+              "A nappalok rövidek; kezdje pontosan 9 órakor a túrát.",
+              "Hidegben is igyon elég vizet, a száraz levegő dehidratál."
+            ],
+            "ro": [
+              "Anvelopele de iarnă cu ținte sunt necesare dacă e gheață pe drum.",
+              "Purtați mănuși rezistente la vânt; degetele îngheață repede la frânare.",
+              "Zilele sunt scurte; începeți turul fix la ora 09:00.",
+              "Beți destulă apă și pe frig; aerul uscat deshidratează."
+            ],
+            "en": [
+              "Studded winter tires are necessary if there is ice on the roads.",
+              "Wear windproof gloves; fingers cool down quickly when braking.",
+              "Days are short; make sure to start punctually at 09:00.",
+              "Stay hydrated even in the cold; dry winter air dehydrates you."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1203,6 +1603,224 @@
           "Plan your drives between clusters to avoid rush hour traffic.",
           "The car gives you the flexibility to stop spontaneously at beautiful spots in good weather."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie bequem am Steinsfjellet; der Regen verdeckt zwar die Fernsicht, schafft aber eine mystische Wolkenstimmung. In Djupadalen bleiben Sie im Auto und genießen die Natur.\n\nMittags führt die Fahrt zum Haraldshaugen. Parken Sie nah am Denkmal, um den Weg im Regen kurz zu halten. Ein gemütliches Mittagessen im Zentrum schließt sich an.\n\nNachmittags besuchen Sie die Vår Frelsers Kirche und das Karmsund Museum – beide bieten hervorragenden Schutz vor dem Wetter und tiefe Einblicke in die Kultur.\n\nDen Tag beenden Sie im Dokken Museum auf der Insel Hasseløy. Die alten Holzgebäude sind im Regen besonders stimmungsvoll und erzählen von der Heringszeit.",
+            "hu": "Kezdje kényelmesen a Steinsfjelletnél; az eső ugyan eltakarja a távoli kilátást, de misztikus felhővilágot teremt. Djupadalenben maradjon az autóban és élvezze a természetet.\n\nDélben az út a Haraldshaugenhez vezet. Parkoljon közel az emlékműhöz, hogy rövid legyen a séta az esőben. Ezután jöhet egy kellemes ebéd a központban.\n\nDélután látogassa meg a Vår Frelsers templomot és a Karmsund Múzeumot – mindkettő kiváló menedéket nyújt az időjárás elől.\n\nA napot a Hasseløy-szigeten lévő Dokken Múzeumban zárjuk. A régi faépületek az esőben különösen hangulatosak és a heringhalászat korát idézik.",
+            "ro": "Începeți confortabil la Steinsfjellet; ploaia poate ascunde vederea la distanță, dar creează o atmosferă mistică. În Djupadalen, puteți admira natura din mașină.\n\nLa prânz, conduceți spre Haraldshaugen. Parcați cât mai aproape pentru a scurta mersul prin ploaie. Urmează un prânz relaxant în centru.\n\nDupă-amiaza vizitați biserica Vår Frelsers și Muzeul Karmsund – ambele oferă adăpost excelent și perspective culturale profunde.\n\nÎncheiați ziua la Muzeul Dokken de pe insula Hasseløy. Clădirile vechi din lemn sunt foarte pitorești sub ploaie, amintind de epoca heringului.",
+            "en": "Start comfortably at Steinsfjellet; the rain might hide the distant view but creates a mystical atmosphere with the clouds. Enjoy the nature of Djupadalen from your car.\n\nAt noon, drive to Haraldshaugen. Park close to the monument to keep your walk in the rain short. Follow this with a cozy lunch in the city center.\n\nIn the afternoon, visit Vår Frelsers Church and the Karmsund Museum – both provide excellent shelter and deep cultural insights.\n\nFinish your day at the Dokken Museum on Hasseløy island. The old wooden buildings are especially atmospheric in the rain, telling tales of the herring era."
+          },
+          "stops": [
+            {
+              "name": "Steinsfjellet",
+              "tip_5lang": {
+                "de": "Die Straße nach oben kann bei starkem Regen Bäche führen.",
+                "hu": "Az út felfelé heves esőzéskor patakokat vezethet le.",
+                "ro": "Drumul spre vârf poate colecta apă în timpul ploilor torențiale.",
+                "en": "The road up can have streams of water during heavy rain."
+              }
+            },
+            {
+              "name": "Djupadalen",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz als Aussichtspunkt bei Regen.",
+                "hu": "Használja a parkolót kilátópontként az esőben.",
+                "ro": "Folosiți parcarea ca punct de observație pe ploaie.",
+                "en": "Use the parking area as a viewpoint during heavy rain."
+              }
+            },
+            {
+              "name": "Haraldshaugen",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nur 2 Minuten Fußweg vom Denkmal entfernt.",
+                "hu": "A parkoló mindössze 2 perc sétára van az emlékműtől.",
+                "ro": "Parcarea este la doar 2 minute de mers de monument.",
+                "en": "The car park is only a 2-minute walk from the monument."
+              }
+            },
+            {
+              "name": "City Center Cluster: Town Hall",
+              "tip_5lang": {
+                "de": "Parkhäuser im Zentrum halten das Auto trocken.",
+                "hu": "A belvárosi parkolóházak szárazon tartják az autót.",
+                "ro": "Parcările subterane din centru mențin mașina uscată.",
+                "en": "Using parking garages in the center keeps the car dry."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit nahem Parkplatz.",
+                "hu": "Válasszon éttermet, amelynek közelében van parkoló.",
+                "ro": "Alegeți un restaurant cu parcare în apropiere.",
+                "en": "Choose a restaurant with a car park nearby."
+              }
+            },
+            {
+              "name": "Vår Frelsers Church",
+              "tip_5lang": {
+                "de": "Parken Sie an der Straßenseite direkt vor der Kirche.",
+                "hu": "Parkoljon az út szélén közvetlenül a templom előtt.",
+                "ro": "Parcați pe marginea drumului chiar în fața bisericii.",
+                "en": "Park on the street side directly in front of the church."
+              }
+            },
+            {
+              "name": "Harbour Cluster: Karmsund Museum",
+              "tip_5lang": {
+                "de": "Geben Sie Ihre nassen Jacken an der Museumsgarderobe ab.",
+                "hu": "Adja le vizes kabátját a múzeumi ruhatárban.",
+                "ro": "Lăsați jachetele ude la garderoba muzeului.",
+                "en": "Leave your wet jackets in the museum cloakroom."
+              }
+            },
+            {
+              "name": "Dokken Museum",
+              "tip_5lang": {
+                "de": "Der Parkplatz auf Hasseløy ist oft weniger belegt.",
+                "hu": "A Hasseløy-szigeti parkoló gyakran kevésbé foglalt.",
+                "ro": "Parcarea de pe Hasseløy este adesea mai liberă.",
+                "en": "The car park on Hasseløy is often less crowded."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer; starke Regengüsse sind häufig.",
+              "Parkhäuser (P-Hus) sind bequemer als Parkplätze an der Straße.",
+              "Vermeiden Sie tiefe Pfützen, um Aquaplaning zu verhindern.",
+              "Halten Sie ein Handtuch im Auto bereit, um Sitze trocken zu halten."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket; a heves zivatarok gyakoriak.",
+              "A parkolóházak (P-Hus) kényelmesebbek, mint az utcai parkolás.",
+              "Kerülje a mély tócsákat az aquaplaning elkerülése érdekében.",
+              "Tartson egy törölközőt az autóban az ülések szárazon tartásához."
+            ],
+            "ro": [
+              "Verificați ștergătoarele; ploile torențiale sunt frecvente.",
+              "Parcările etajate (P-Hus) sunt mai comode decât cele stradale.",
+              "Evitați bălțile adânci pentru a preveni acvaplanarea.",
+              "Țineți un prosop în mașină pentru a menține scaunele uscate."
+            ],
+            "en": [
+              "Check your wipers; heavy downpours are common here.",
+              "Parking garages (P-Hus) are more convenient than street parking.",
+              "Avoid deep puddles to prevent aquaplaning on coastal roads.",
+              "Keep a towel in the car to wipe off and keep seats dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am frostigen Steinsfjellet. Die Straße wird geräumt, bietet aber tolle Blicke auf das verschneite Umland. Djupadalen wirkt im Winter wie ein Märchenwald.\n\nMittags geht es zum Haraldshaugen. Die Meeresbrise ist kalt, aber die Heizung im Auto wartet schon. Ein warmes Mittagessen im Stadtkern stärkt Sie für den Rest des Tages.\n\nNachmittags besuchen Sie die Vår Frelsers Kirche und das Karmsund Museum. Die Innenräume sind herrlich geheizt und bieten einen Kontrast zur klaren Winterluft.\n\nZum Abschluss besuchen Sie das Dokken Museum. In der Dunkelheit sind die historischen Gebäude stimmungsvoll beleuchtet, bevor Sie den Tag gemütlich ausklingen lassen.",
+            "hu": "Kezdje a fagyos Steinsfjelletnél. Az utat takarítják, de így is lenyűgöző a kilátás a havas környékre. Djupadalen télen olyan, mint egy tündérerdő.\n\nDélben irány a Haraldshaugen. A tengeri szél hideg, de az autó fűtése már várja. Egy meleg ebéd a városmagban erőt ad a nap hátralévő részére.\n\nDélután látogassa meg a Vår Frelsers templomot és a Karmsund Múzeumot. A belső terek kellemesen fűtöttek, jó kontrasztot adva a kinti tiszta téli levegőnek.\n\nZárásként látogasson el a Dokken Múzeumba. A sötétben a történelmi épületek hangulatosan megvilágítottak, mielőtt befejezné a napot.",
+            "ro": "Începeți la Steinsfjellet sub ger. Drumul este curățat și oferă vederi superbe asupra împrejurimilor înzăpezite. Djupadalen pare o pădure de basm iarna.\n\nLa prânz conduceți spre Haraldshaugen. Briza mării este rece, dar căldura din mașină vă așteaptă. Un prânz cald în centrul orașului vă va întrema.\n\nDupă-amiaza vizitați biserica Vår Frelsers și Muzeul Karmsund. Interioarele sunt bine încălzite, oferind un contrast plăcut cu aerul rece de afară.\n\nÎn final, vizitați Muzeul Dokken. Pe întuneric, clădirile istorice sunt luminate feeric, înainte de a încheia ziua relaxat.",
+            "en": "Start at the frosty Steinsfjellet. The road is cleared and offers great views of the snowy surroundings. Djupadalen looks like a fairy-tale forest in winter.\n\nAt noon, drive to Haraldshaugen. The sea breeze is cold, but the car heater is waiting for you. A warm lunch in the city center will bolster you.\n\nIn the afternoon, visit Vår Frelsers Church and the Karmsund Museum. The interiors are wonderfully heated, providing a contrast to the crisp winter air.\n\nFinish with a visit to the Dokken Museum. In the dark, the historical buildings are atmospherically lit before you wrap up your day."
+          },
+          "stops": [
+            {
+              "name": "Steinsfjellet",
+              "tip_5lang": {
+                "de": "Winterreifen sind für die Auffahrt zwingend erforderlich.",
+                "hu": "A téli gumi a feljutáshoz kötelezően előírt.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pentru urcare.",
+                "en": "Winter tires are strictly required for the drive up."
+              }
+            },
+            {
+              "name": "Djupadalen",
+              "tip_5lang": {
+                "de": "Die Parkplätze können durch Schneehaufen verkleinert sein.",
+                "hu": "A hóbuckák miatt a parkolóhelyek száma kevesebb lehet.",
+                "ro": "Locurile de parcare pot fi limitate de mormane de zăpadă.",
+                "en": "Parking spaces might be reduced due to snow piles."
+              }
+            },
+            {
+              "name": "Haraldshaugen",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort várakozás közben.",
+                "ro": "Nu lăsați motorul pornit inutil cât timp staționați.",
+                "en": "Do not leave the engine idling unnecessarily while parked."
+              }
+            },
+            {
+              "name": "City Center Cluster: Town Hall",
+              "tip_5lang": {
+                "de": "Parkhäuser schützen das Auto vor dem Einfrieren der Schlösser.",
+                "hu": "A parkolóházak megvédik az autót a zárak befagyásától.",
+                "ro": "Parcările acoperite previn înghețarea încuietorilor.",
+                "en": "Parking garages protect the car from frozen locks."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Parkdauer; Politessen sind auch im Winter aktiv.",
+                "hu": "Ellenőrizze a parkolási időt; a büntetés télen is jár.",
+                "ro": "Verificați durata parcării; amenzile se dau și iarna.",
+                "en": "Check your parking time; wardens are active even in winter."
+              }
+            },
+            {
+              "name": "Vår Frelsers Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen; Glättegefahr am Straßenrand.",
+                "hu": "Vigyázzon a kiszállásnál; csúszásveszély az út szélén.",
+                "ro": "Atenție la coborâre; risc de alunecare pe marginea drumului.",
+                "en": "Be careful when getting out; ice often forms at the curb."
+              }
+            },
+            {
+              "name": "Harbour Cluster: Karmsund Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgarage unter dem Marktplatz in der Nähe.",
+                "hu": "Használja a közeli piactér alatti mélygarázst.",
+                "ro": "Folosiți parcarea subterană de sub piața centrală din apropiere.",
+                "en": "Use the underground parking beneath the nearby market square."
+              }
+            },
+            {
+              "name": "Dokken Museum",
+              "tip_5lang": {
+                "de": "Die Brücke nach Hasseløy kann bei Frost tückisch sein.",
+                "hu": "A Hasseløy-szigetre vezető híd fagyban csalóka lehet.",
+                "ro": "Podul spre Hasseløy poate fi înșelător pe timp de îngheț.",
+                "en": "The bridge to Hasseløy can be tricky during frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer einen Eiskratzer und Schneebesen mit.",
+              "Prüfen Sie den Frostschutz der Scheibenwaschanlage.",
+              "Die Straßen im Zentrum werden meist gut gestreut.",
+              "Bei Eisregen sollten Sie das Auto lieber stehen lassen."
+            ],
+            "hu": [
+              "Mindig legyen az autóban jégkaparó és hókefe.",
+              "Ellenőrizze a szélvédőmosó fagyállóságát.",
+              "A belvárosi utakat általában jól szórják és takarítják.",
+              "Ónos eső esetén inkább hagyja az autót a parkolóban."
+            ],
+            "ro": [
+              "Aveți mereu în mașină o racletă și o perie de zăpadă.",
+              "Verificați nivelul antigelului pentru lichidul de parbriz.",
+              "Străzile din centru sunt de obicei bine deszăpezite.",
+              "În caz de ploaie înghețată, e mai sigur să nu conduceți."
+            ],
+            "en": [
+              "Always carry an ice scraper and a snow brush in the car.",
+              "Ensure your screen wash has sufficient anti-freeze.",
+              "Central roads are usually well-gritted and cleared.",
+              "In case of freezing rain, it is safer to leave the car parked."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1598,6 +2216,206 @@
           "Be aware that buses may run less frequently in the evenings and on weekends.",
           "Plan some buffer time for waiting at bus stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Byparken; die kurzen Wege zwischen den Haltestellen minimieren die Zeit im Regen. Das Rathaus und die Kirche sind schnell erreichbar.\n\nMittags bringt Sie der Bus zum Hafen. Das Karmsund Museum ist ein perfekter Rückzugsort. Ein gemütliches Mittagessen am Smedasundet wärmt Sie wieder auf.\n\nNachmittags fahren Sie in den Norden zum Haraldshaugen. Die Wartehäuschen bieten Schutz vor dem Wind. Die dramatische Küste im Regen ist sehenswert.\n\nZum Abschluss geht es zum Tonjer Leuchtturm. Die Busverbindung zurück ins Zentrum ist auch bei schlechtem Wetter zuverlässig und trocken.",
+            "hu": "Kezdje a Városligetnél; a megállók közötti rövid távolság minimalizálja az esőben töltött időt. A városháza és a templom gyorsan elérhető.\n\nDélben busszal menjen a kikötőbe. A Karmsund Múzeum tökéletes menedékhely. Egy hangulatos ebéd a Smedasundet partján segít felmelegedni.\n\nDélután utazzon északra a Haraldshaugenhez. A buszmegállók várói védenek a szél ellen. A drámai partvidék esőben is lenyűgöző.\n\nZárásként látogasson el a Tonjer világítótoronyhoz. A visszatérés a központba rossz időben is megbízható és száraz a buszjáratokkal.",
+            "ro": "Începeți la Byparken; distanțele scurte între stații minimizează timpul petrecut în ploaie. Primăria și biserica sunt ușor accesibile.\n\nLa prânz, luați autobuzul spre port. Muzeul Karmsund este refugiul perfect. Un prânz plăcut pe Smedasundet vă va încălzi.\n\nDupă-amiaza mergeți spre nord la Haraldshaugen. Adăposturile din stații vă protejează de vânt. Coasta dramatică merită văzută și pe ploaie.\n\nÎn final, porniți spre farul Tonjer. Legătura cu autobuzul spre centru este sigură și uscată chiar și pe vreme rea.",
+            "en": "Start at City Park; the short walks between stops minimize your time in the rain. The Town Hall and Church are easily reachable.\n\nAt noon, take the bus to the harbour. Karmsund Museum is a perfect retreat. A cozy lunch at Smedasundet will warm you up again.\n\nIn the afternoon, head north to Haraldshaugen. The bus shelters provide protection from the wind. The dramatic coast is worth seeing in the rain.\n\nFinish at Tonjer Lighthouse. The bus connection back to the center is reliable and keeps you dry even in poor weather."
+          },
+          "stops": [
+            {
+              "name": "City Center Cluster: Byparken",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Byparken' hat ein großes Glasdach.",
+                "hu": "A 'Byparken' megállónak nagy üvegtetője van.",
+                "ro": "Stația 'Byparken' are un acoperiș mare de sticlă.",
+                "en": "The 'Byparken' bus stop has a large glass shelter."
+              }
+            },
+            {
+              "name": "Haugesund Town Hall",
+              "tip_5lang": {
+                "de": "Nur 3 Minuten Fußweg von der Haupthaltestelle.",
+                "hu": "Mindössze 3 perc séta a fő buszmegállótól.",
+                "ro": "La doar 3 minute de mers de stația principală.",
+                "en": "Only a 3-minute walk from the main bus stop."
+              }
+            },
+            {
+              "name": "Vår Frelsers Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als Regenschutz beim Warten.",
+                "hu": "Használja a templombejáratot esővédőként várakozás közben.",
+                "ro": "Folosiți intrarea bisericii ca adăpost în timp ce așteptați.",
+                "en": "Use the church entrance as rain shelter while waiting."
+              }
+            },
+            {
+              "name": "Harbour Cluster: Karmsund Museum",
+              "tip_5lang": {
+                "de": "Busse halten fast direkt vor der Tür des Museums.",
+                "hu": "A buszok szinte közvetlenül a múzeum ajtaja előtt állnak meg.",
+                "ro": "Autobuzele opresc aproape direct în fața muzeului.",
+                "en": "Buses stop almost directly in front of the museum door."
+              }
+            },
+            {
+              "name": "Lunch at the Harbour",
+              "tip_5lang": {
+                "de": "Viele Buslinien kreuzen sich in Hafennähe.",
+                "hu": "Számos buszvonal találkozik a kikötő közelében.",
+                "ro": "Multe linii de autobuz se intersectează lângă port.",
+                "en": "Many bus lines intersect near the harbour area."
+              }
+            },
+            {
+              "name": "North Cluster: Haraldshaugen",
+              "tip_5lang": {
+                "de": "Vom Busstopp zum Denkmal sind es 5 Minuten im Freien.",
+                "hu": "A buszmegállótól 5 perc séta az emlékmű a szabadban.",
+                "ro": "De la stație la monument sunt 5 minute de mers prin exterior.",
+                "en": "It's a 5-minute walk outdoors from the bus stop to the monument."
+              }
+            },
+            {
+              "name": "Tonjer Lighthouse",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Rückfahrplan; Busse fahren seltener bei Regen.",
+                "hu": "Ellenőrizze a menetrendet; esőben ritkábban járhatnak a buszok.",
+                "ro": "Verificați orarul; autobuzele pot circula mai rar pe ploaie.",
+                "en": "Check the return schedule; buses may run less often in heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Kolumbus' App für Echtzeit-Businformationen.",
+              "Ein Tagesticket lohnt sich bei diesem Wetter besonders.",
+              "Die Busse sind klimatisiert und meist sehr trocken.",
+              "Halten Sie Ihre Fahrkarte griffbereit, um nicht im Regen suchen zu müssen."
+            ],
+            "hu": [
+              "Használja a 'Kolumbus' alkalmazást a valós idejű információkhoz.",
+              "A napijegy ebben az időben különösen megéri.",
+              "A buszok fűtöttek/légkondicionáltak és többnyire nagyon szárazak.",
+              "Tartsa kéznél a jegyét, hogy ne az esőben kelljen keresgélnie."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Kolumbus' pentru informații în timp real.",
+              "Un bilet de o zi merită din plin pe această vreme.",
+              "Autobuzele sunt climatizate și de obicei foarte uscate.",
+              "Aveți biletul la îndemână pentru a nu-l căuta prin ploaie."
+            ],
+            "en": [
+              "Use the 'Kolumbus' app for real-time bus information.",
+              "A day pass is especially worth it in this weather.",
+              "Buses are climate-controlled and usually very dry inside.",
+              "Keep your ticket ready so you don't have to search for it in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am frostigen Byparken. Die Busse sind gut beheizt und bieten eine warme Basis für den Tag. Die Stadt wirkt im Winterlicht ruhig.\n\nMittags bringt Sie der Transit zum Karmsund Museum. Genießen Sie die Wärme der Ausstellung, bevor Sie ein heißes Mittagessen im Zentrum einnehmen.\n\nNachmittags führt die Route zum Haraldshaugen. Der Blick auf das eisige Meer aus dem Busfenster ist fantastisch. Die beleuchteten Denkmäler sind ein Highlight.\n\nZum Abschluss geht es zum Tonjer Leuchtturm. In der Dunkelheit der Winternacht ist das Leuchtfeuer besonders beeindruckend, bevor Sie der Bus sicher zurückbringt.",
+            "hu": "Kezdje a fagyos Városligetnél. A buszok jól fűtöttek, meleg bázist nyújtva a naphoz. A város a téli fényben csendes és nyugodt.\n\nDélben a tömegközlekedés a Karmsund Múzeumhoz viszi. Élvezze a kiállítás melegét, mielőtt egy forró ebédet fogyasztana a központban.\n\nDélután az út a Haraldshaugenhez vezet. Az autóbusz ablakából a jeges tenger látványa fantasztikus. A megvilágított emlékművek a nap fénypontjai.\n\nZárásként irány a Tonjer világítótorony. A téli éjszaka sötétjében a fényjelzés különösen lenyűgöző, mielőtt a busz biztonságban visszavinné.",
+            "ro": "Începeți la Byparken sub ger. Autobuzele sunt bine încălzite și oferă o bază caldă pentru zi. Orașul pare calm în lumina iernii.\n\nLa prânz, transportul public vă duce la Muzeul Karmsund. Bucurați-vă de căldura expoziției înainte de un prânz fierbinte în centru.\n\nDupă-amiaza, ruta continuă spre Haraldshaugen. Vederea mării înghețate de pe geamul autobuzului este fantastică. Monumentele luminate sunt punctul forte.\n\nÎn final, mergeți la farul Tonjer. În întunericul nopții de iarnă, lumina farului este impresionantă înainte ca autobuzul să vă aducă înapoi.",
+            "en": "Start at the frosty City Park. The buses are well-heated and provide a warm base for the day. The city looks peaceful in the winter light.\n\nAt noon, take transit to the Karmsund Museum. Enjoy the warmth of the exhibits before having a hot lunch in the center.\n\nIn the afternoon, the route leads to Haraldshaugen. The view of the icy sea from the bus window is fantastic. The illuminated monuments are a highlight.\n\nFinish at Tonjer Lighthouse. In the darkness of the winter night, the lighthouse beam is especially impressive before the bus brings you back safely."
+          },
+          "stops": [
+            {
+              "name": "City Center Cluster: Byparken",
+              "tip_5lang": {
+                "de": "Vorsicht vor Straßenglätte beim Ein- und Aussteigen.",
+                "hu": "Vigyázzon a csúszós úttal a fel- és leszálláskor.",
+                "ro": "Atenție la polei când urcați sau coborâți din autobuz.",
+                "en": "Watch out for slippery roads when getting on or off the bus."
+              }
+            },
+            {
+              "name": "Haugesund Town Hall",
+              "tip_5lang": {
+                "de": "Die Haltestellen werden im Winter meist zuerst geräumt.",
+                "hu": "A buszmegállókat télen általában először takarítják.",
+                "ro": "Stațiile de autobuz sunt de obicei primele deszăpezite.",
+                "en": "Bus stops are usually the first areas to be cleared of snow."
+              }
+            },
+            {
+              "name": "Vår Frelsers Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint von der Haltestelle ins warme Innere.",
+                "hu": "Csak egy rövid futás a megállótól a meleg belső térig.",
+                "ro": "Un sprint scurt de la stație până în interiorul cald.",
+                "en": "Just a quick sprint from the stop into the warm interior."
+              }
+            },
+            {
+              "name": "Harbour Cluster: Karmsund Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Zeit bis zum nächsten Bus abzuwarten.",
+                "hu": "Tökéletes hely a következő busz érkezéséig várakozni.",
+                "ro": "Locul perfect pentru a aștepta următorul autobuz.",
+                "en": "The perfect place to wait until the next bus arrives."
+              }
+            },
+            {
+              "name": "Lunch at the Harbour",
+              "tip_5lang": {
+                "de": "Haltestellen sind in Sichtweite der meisten Restaurants.",
+                "hu": "A legtöbb étteremtől látótávolságban van egy buszmegálló.",
+                "ro": "Stațiile sunt în raza vizuală a majorității restaurantelor.",
+                "en": "Bus stops are within sight of most harbour restaurants."
+              }
+            },
+            {
+              "name": "North Cluster: Haraldshaugen",
+              "tip_5lang": {
+                "de": "Der Fußweg kann bei Schnee etwas länger dauern.",
+                "hu": "Hóban a séta az emlékműig kicsit tovább tarthat.",
+                "ro": "Mersul pe jos poate dura mai mult dacă este zăpadă.",
+                "en": "The walk to the monument may take longer in deep snow."
+              }
+            },
+            {
+              "name": "Tonjer Lighthouse",
+              "tip_5lang": {
+                "de": "Achtung: Bei Glatteis können Busse Verspätung haben.",
+                "hu": "Figyelem: jeges utakon a buszok késhetnek.",
+                "ro": "Atenție: autobuzele pot avea întârzieri pe polei.",
+                "en": "Caution: buses may be delayed during icy road conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Grip für die Wege zwischen den Haltestellen.",
+              "Die Busse fahren im Winter nach dem regulären Fahrplan.",
+              "Nutzen Sie die Wartehäuschen, um sich vor dem Wind zu schützen.",
+              "Ab 16:00 Uhr wird es dunkel; reflektierende Kleidung ist ratsam."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt a megállók közötti sétákhoz.",
+              "A buszok télen is a rendes menetrend szerint közlekednek.",
+              "Használja a várókat a szél elleni védekezéshez.",
+              "16:00 után sötét van; a fényvisszaverő ruházat ajánlott."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență bună pentru mersul între stații.",
+              "Autobuzele circulă după orarul normal și în timpul iernii.",
+              "Folosiți adăposturile din stații pentru a vă feri de vânt.",
+              "Se întunecă după ora 16:00; purtați elemente reflectorizante."
+            ],
+            "en": [
+              "Wear shoes with good grip for the walks between stops.",
+              "Buses run according to the regular schedule during winter.",
+              "Make use of the shelters to stay out of the biting wind.",
+              "It gets dark after 16:00; wearing reflectors is highly advised."
+            ]
+          }
+        }
       }
     }
   }

@@ -378,6 +378,206 @@
           "UK weather can be unpredictable, so pack an umbrella.",
           "Keep an eye out for the numerous public art installations dotted around the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Victoria Square, wo die prachtvolle Architektur auch im Regen beeindruckt. Das Birmingham Museum bietet danach stundenlangen trockenen Kulturgenuss. Mittags nutzen wir die moderne Library of Birmingham als futuristischen Unterschlupf. Nachmittags spazieren wir durch die überdachten Passagen von Brindleyplace und das luxuriöse Mailbox-Zentrum. Den Abend verbringen wir geschützt vor den Elementen in der beeindruckenden Bullring Mall.",
+            "hu": "A nap a Victoria Square-en indul, ahol az épületek esőben is méltóságteljesek. A Birmingham Múzeum órákig tartó száraz menedéket és kultúrát kínál. Délben a futurisztikus könyvtár belső tereiben pihenünk meg. Délután a Brindleyplace fedett sétányait és a Mailbox elegáns passzázsait érintjük. Az estét a Bullring hatalmas, teljesen fedett bevásárlónegyedében zárjuk, ahol garantáltan szárazon maradunk.",
+            "ro": "Ziua începe în Victoria Square, unde arhitectura grandioasă impresionează chiar și sub ploaie. Muzeul din Birmingham oferă apoi ore de cultură la adăpost. La prânz, folosim Biblioteca modernă ca refugiu futurist. După-amiaza, explorăm pasajele acoperite de la Brindleyplace și centrul luxos Mailbox. Încheiem seara protejați de elemente în impresionantul complex Bullring, ideal pentru o plimbare urbană uscată.",
+            "en": "The day starts at Victoria Square, where the grand architecture remains impressive even in the rain. Birmingham Museum then offers hours of dry cultural enjoyment. At midday, we use the modern Library of Birmingham as a futuristic shelter. In the afternoon, we stroll through the covered walkways of Brindleyplace and the upscale Mailbox passages. We finish the evening protected from the elements inside the massive Bullring shopping complex."
+          },
+          "stops": [
+            {
+              "name": "Victoria Square",
+              "tip_4lang": {
+                "de": "Nutzen Sie die tiefen Portale der umliegenden Gebäude als kurzen Schutz.",
+                "hu": "Használja a környező épületek mély kapualjait rövid menedékként.",
+                "ro": "Folosiți portalurile adânce ale clădirilor din jur ca adăpost scurt.",
+                "en": "Use the deep portals of surrounding buildings as short-term shelter."
+              }
+            },
+            {
+              "name": "Birmingham Museum & Art Gallery",
+              "tip_4lang": {
+                "de": "Ein idealer Ort, um einen starken Schauer bei Kunst und Kaffee auszusitzen.",
+                "hu": "Ideális hely egy kiadós zápor átvészelésére művészet és kávé mellett.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei ploi torențiale lângă artă.",
+                "en": "An ideal place to wait out a heavy downpour amidst art and coffee."
+              }
+            },
+            {
+              "name": "Library of Birmingham",
+              "tip_4lang": {
+                "de": "Die Innenterrassen sind überdacht und bieten tolle Ausblicke trotz Regen.",
+                "hu": "A belső teraszok fedettek, és esőben is remek kilátást nyújtanak.",
+                "ro": "Terasele interioare sunt acoperite și oferă vederi excelente în ciuda ploii.",
+                "en": "The indoor terraces are covered and offer great views despite the rain."
+              }
+            },
+            {
+              "name": "Brindleyplace & Canals",
+              "tip_4lang": {
+                "de": "Die vielen Brücken und Arkaden bieten hier guten Schutz am Wasser.",
+                "hu": "A számos híd és árkád kiváló fedezéket nyújt a vízparton.",
+                "ro": "Numeroasele poduri și arcade oferă aici o bună protecție lângă apă.",
+                "en": "The many bridges and arcades offer good shelter along the water."
+              }
+            },
+            {
+              "name": "The Mailbox",
+              "tip_4lang": {
+                "de": "Vollständig überdachter Luxus-Passage, ideal für regnerische Nachmittage.",
+                "hu": "Teljesen fedett luxuspasszázs, ideális esős délutánokra.",
+                "ro": "Pasaj de lux complet acoperit, ideal pentru după-amiezi ploioase.",
+                "en": "Completely covered luxury passage, ideal for rainy afternoons."
+              }
+            },
+            {
+              "name": "St Martin in the Bull Ring",
+              "tip_4lang": {
+                "de": "Die Kirche bietet eine ruhige, trockene Atmosphäre mitten im Trubel.",
+                "hu": "A templom csendes, száraz menedéket nyújt a városi forgatagban.",
+                "ro": "Biserica oferă o atmosferă liniștită și uscată în mijlocul agitației.",
+                "en": "The church offers a peaceful, dry atmosphere in the middle of the bustle."
+              }
+            },
+            {
+              "name": "Bullring & Grand Central",
+              "tip_4lang": {
+                "de": "Das riesige Glasdach macht diesen Stopp absolut wetterfest.",
+                "hu": "A hatalmas üvegtető ezt a megállót teljesen időjárásállóvá teszi.",
+                "ro": "Acoperișul uriaș de sticlă face această oprire absolut rezistentă la vreme.",
+                "en": "The massive glass roof makes this stop completely weatherproof."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die unterirdischen Passagen zwischen New Street Station und Bullring.",
+              "Tragen Sie rutschfeste Schuhe, da das Pflaster am Kanal bei Nässe glatt sein kann.",
+              "Die Stadtbibliothek bietet kostenlose Schließfächer für nasse Regenschirme.",
+              "Birmingham hat viele Arkaden; planen Sie Ihre Route durch diese Durchgänge."
+            ],
+            "hu": [
+              "Használja a New Street állomás és a Bullring közötti földalatti átjárókat.",
+              "Viseljen csúszásmentes cipőt, mert a csatornapart kövezete vizesen csúszós lehet.",
+              "A városi könyvtár ingyenes értékmegőrzőket kínál a vizes esernyőknek.",
+              "Birmingham sok árkáddal rendelkezik; tervezze útját ezeken a passzázsokon át."
+            ],
+            "ro": [
+              "Folosiți pasajele subterane dintre stația New Street și Bullring.",
+              "Purtați încălțăminte antiderapantă, deoarece pavajul de lângă canal e alunecos.",
+              "Biblioteca orașului oferă dulapuri gratuite pentru umbrelele ude.",
+              "Birmingham are multe arcade; planificați traseul prin aceste pasaje."
+            ],
+            "en": [
+              "Use the underground passages between New Street Station and Bullring.",
+              "Wear non-slip shoes as the canal towpaths can be slippery when wet.",
+              "The City Library offers free lockers for storing wet umbrellas.",
+              "Birmingham has many historic arcades; plan your route through these passages."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erleben wir den glitzernden Victoria Square mit seinem berühmten Frankfurter Weihnachtsmarkt. Die Museen bieten danach wohlige Wärme vor dem kalten Wind. Mittags genießen wir den Panoramablick aus der beheizten Bibliothek. Der Nachmittag an den Kanälen ist kurz, aber stimmungsvoll durch die frühe Dämmerung. Abends tauchen wir in das festlich beleuchtete Bullring-Viertel ein, wo die Weihnachtslichter die Winterkälte vergessen lassen.",
+            "hu": "Reggel a csillogó Victoria Square-en kezdünk, ahol a híres karácsonyi vásár vár. A múzeumok falai között leljük meg a meleget a csípős szél elől. Délben a fűtött könyvtár panorámás ablakaiból csodáljuk a várost. A csatorna menti délután rövid, de a korai sötétedés miatt rendkívül hangulatos. Az estét a Bullring ünnepi fényeiben zárjuk, ahol a dekoráció elfeledteti a téli hideget.",
+            "ro": "Dimineața experimentăm Victoria Square sclipitoare cu faimosul său târg de Crăciun. Muzeele oferă apoi căldură primitoare împotriva vântului rece. La prânz, admirăm panorama din biblioteca încălzită. După-amiaza pe canale este scurtă, dar atmosferică datorită amurgului timpuriu. Seara ne scufundăm în cartierul Bullring luminat festiv, unde luminile de sărbătoare ne fac să uităm de frig.",
+            "en": "In the morning, we experience the glittering Victoria Square with its famous Frankfurt Christmas Market. The museums then offer cozy warmth from the cold wind. At midday, we enjoy panoramic views from the heated library. The afternoon by the canals is short but atmospheric due to the early twilight. In the evening, we immerse ourselves in the festively lit Bullring area, where Christmas lights make you forget the winter chill."
+          },
+          "stops": [
+            {
+              "name": "Victoria Square",
+              "tip_4lang": {
+                "de": "Heimat des größten deutschen Weihnachtsmarktes außerhalb Deutschlands.",
+                "hu": "Itt található Németországon kívül a legnagyobb német karácsonyi vásár.",
+                "ro": "Gazda celui mai mare târg de Crăciun german din afara Germaniei.",
+                "en": "Home to the largest German Christmas Market outside Germany/Austria."
+              }
+            },
+            {
+              "name": "Birmingham Museum & Art Gallery",
+              "tip_4lang": {
+                "de": "Perfekt zum Aufwärmen zwischen den Kunstwerken der Präraffaeliten.",
+                "hu": "Tökéletes hely a felmelegedésre a preraffaelita műalkotások között.",
+                "ro": "Perfect pentru încălzire printre operele de artă prerafaelite.",
+                "en": "Perfect for warming up among the Pre-Raphaelite masterpieces."
+              }
+            },
+            {
+              "name": "Library of Birmingham",
+              "tip_4lang": {
+                "de": "Besuchen Sie den Shakespeare-Raum für eine besonders gemütliche Atmosphäre.",
+                "hu": "Látogasson el a Shakespeare-terembe a különösen meghitt hangulatért.",
+                "ro": "Vizitați camera Shakespeare pentru o atmosferă deosebit de primitoare.",
+                "en": "Visit the Shakespeare Room for a particularly cozy winter atmosphere."
+              }
+            },
+            {
+              "name": "Brindleyplace & Canals",
+              "tip_4lang": {
+                "de": "Die Lichter spiegeln sich wunderschön im dunklen Kanalwasser.",
+                "hu": "A fények gyönyörűen tükröződnek a csatorna sötét vizében.",
+                "ro": "Luminile se reflectă frumos în apa întunecată a canalului.",
+                "en": "The lights reflect beautifully in the dark canal water."
+              }
+            },
+            {
+              "name": "The Mailbox",
+              "tip_4lang": {
+                "de": "Die Restaurants hier bieten winterliche Spezialitäten und Heizstrahler.",
+                "hu": "Az itteni éttermek téli különlegességeket és hősugárzókat kínálnak.",
+                "ro": "Restaurantele de aici oferă specialități de iarnă și încălzitoare.",
+                "en": "The restaurants here offer winter specialties and outdoor heaters."
+              }
+            },
+            {
+              "name": "St Martin in the Bull Ring",
+              "tip_4lang": {
+                "de": "Abendliche Adventsgottesdienste sorgen für festliche Besinnlichkeit.",
+                "hu": "Az esti adventi istentiszteletek ünnepi meghittséget árasztanak.",
+                "ro": "Slujbele de seară din Advent oferă o stare de liniște festivă.",
+                "en": "Evening Advent services provide a festive and contemplative mood."
+              }
+            },
+            {
+              "name": "Bullring & Grand Central",
+              "tip_4lang": {
+                "de": "Bestes Ziel für das 'Last-Minute' Weihnachts-Shopping im Warmen.",
+                "hu": "A legjobb hely az utolsó pillanatos karácsonyi bevásárláshoz melegben.",
+                "ro": "Cea mai bună destinație pentru cumpărături de Crăciun la căldură.",
+                "en": "Best destination for last-minute Christmas shopping in the warm."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Probieren Sie 'Glühwein' auf dem Markt am Victoria Square.",
+              "Tragen Sie Thermokleidung; die Kanäle leiten die Kälte direkt in die Stadt.",
+              "Viele Cafés bieten 'Winter Afternoon Tea' an – ideal zum Aufwärmen."
+            ],
+            "hu": [
+              "A nap decemberben már 16:00 körül lenyugszik.",
+              "Kóstolja meg a forralt bort a Victoria Square-i piacon.",
+              "Viseljen aláöltözetet; a csatornák hidege közvetlenül a belvárosba ér.",
+              "Sok kávézó kínál 'téli délutáni teát' – ideális a felmelegedéshez."
+            ],
+            "ro": [
+              "Soarele apune în decembrie deja în jurul orei 16:00.",
+              "Încercați vinul fiert (Glühwein) la târgul din Victoria Square.",
+              "Purtați haine termice; canalele aduc frigul direct în centrul orașului.",
+              "Multe cafenele oferă 'Winter Afternoon Tea' – ideal pentru încălzire."
+            ],
+            "en": [
+              "The sun sets as early as 4:00 PM in December.",
+              "Try the authentic Glühwein at the Victoria Square German market.",
+              "Wear thermal layers; the canals channel the cold wind into the city.",
+              "Many cafes offer 'Winter Afternoon Tea' – ideal for warming up."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -750,6 +950,188 @@
           "Always lock your bike securely.",
           "West Midlands Cycle Hire points are available around the city for short-term rentals."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig durch das historische Jewellery Quarter, wo die Werkstätten Schutz bieten. Im Cannon Hill Park suchen wir Unterstand in den Pavillons. Mittags ist Selly Manor eine trockene Zeitreise, gefolgt vom absoluten Highlight: Cadbury World, wo wir den Regen bei heißer Schokolade vergessen. Den Nachmittag verbringen wir in den Gewächshäusern von Winterbourne, bevor wir die Tour am Campus beenden.",
+            "hu": "Reggel óvatosan kerekezünk az ékszernegyedben, ahol a műhelyek nyújtanak fedezéket. A Cannon Hill Parkban a pavilonok alá húzódunk. Délben a Selly Manor száraz időutazást ígér, amit a Cadbury World követ, ahol forró csokival feledjük az esőt. A délutánt a Winterbourne üvegházaiban töltjük, majd az egyetemi kampuszon zárjuk a túrát.",
+            "ro": "Dimineața pedalăm cu atenție prin cartierul istoric al bijutierilor, unde atelierele oferă adăpost. În Parcul Cannon Hill căutăm refugiu în pavilioane. La prânz, Selly Manor este o călătorie uscată în timp, urmată de Cadbury World, unde uităm de ploaie cu ciocolată caldă. După-amiaza o petrecem în serele de la Winterbourne, înainte de a încheia la campus.",
+            "en": "In the morning, we cycle carefully through the historic Jewellery Quarter, where workshops offer shelter. In Cannon Hill Park, we seek cover in the pavilions. At midday, Selly Manor offers a dry journey through time, followed by Cadbury World, where we forget the rain over hot chocolate. We spend the afternoon in the greenhouses of Winterbourne before finishing at the campus."
+          },
+          "stops": [
+            {
+              "name": "Jewellery Quarter",
+              "tip_4lang": {
+                "de": "Viele kleine Werkstätten erlauben einen kurzen Blick hinein ins Trockene.",
+                "hu": "Sok kis műhelybe be lehet lesni, így szárazon maradhatunk egy ideig.",
+                "ro": "Multe ateliere mici permit o scurtă privire înăuntru la adăpost.",
+                "en": "Many small workshops allow a quick look inside to stay dry."
+              }
+            },
+            {
+              "name": "Cannon Hill Park",
+              "tip_4lang": {
+                "de": "Nutzen Sie das MAC (Midlands Arts Centre) als großen, trockenen Stopp.",
+                "hu": "Használja a MAC-et (Midlands Arts Centre) nagy, száraz pihenőként.",
+                "ro": "Folosiți MAC (Midlands Arts Centre) ca o oprire mare și uscată.",
+                "en": "Use the MAC (Midlands Arts Centre) as a large, dry indoor stop."
+              }
+            },
+            {
+              "name": "Selly Manor",
+              "tip_4lang": {
+                "de": "Das mittelalterliche Haus ist komplett überdacht und sehr gemütlich.",
+                "hu": "A középkori ház teljesen fedett és rendkívül hangulatos.",
+                "ro": "Casa medievală este complet acoperită și foarte primitoare.",
+                "en": "The medieval house is completely covered and very cozy."
+              }
+            },
+            {
+              "name": "Cadbury World",
+              "tip_4lang": {
+                "de": "Der perfekte Ort, um den Regen für zwei Stunden komplett zu ignorieren.",
+                "hu": "Tökéletes hely az eső teljes figyelmen kívül hagyására két órán át.",
+                "ro": "Locul perfect pentru a ignora complet ploaia timp de două ore.",
+                "en": "The perfect place to completely ignore the rain for two hours."
+              }
+            },
+            {
+              "name": "Winterbourne House & Garden",
+              "tip_4lang": {
+                "de": "Die historischen Gewächshäuser sind ein tropisches Refugium.",
+                "hu": "A történelmi üvegházak trópusi menedéket jelentenek.",
+                "ro": "Serele istorice sunt un refugiu tropical excelent.",
+                "en": "The historic glasshouses are a tropical refuge from the rain."
+              }
+            },
+            {
+              "name": "University of Birmingham Campus",
+              "tip_4lang": {
+                "de": "Die Kolonnaden bieten Schutz beim Abstellen der Fahrräder.",
+                "hu": "Az oszlopcsarnokok védelmet nyújtanak a biciklik lezárásakor.",
+                "ro": "Coloanele oferă protecție la parcarea bicicletelor.",
+                "en": "The colonnades provide shelter when parking your bikes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie die Kanalwege (Towpaths), da diese bei Regen sehr matschig werden.",
+              "Wählen Sie befestigte Straßen durch das Jewellery Quarter.",
+              "Gute Regenbekleidung ist Pflicht; der Wind am Campus kann stark sein.",
+              "Nutzen Sie die Indoor-Fahrradständer am University Center."
+            ],
+            "hu": [
+              "Kerülje el a csatornaparti utakat, mert esőben nagyon sárosak lesznek.",
+              "Válasszon szilárd burkolatú utakat az ékszernegyeden keresztül.",
+              "A jó esőruha kötelező; a szél az egyetemen erős lehet.",
+              "Használja az egyetemi központ fedett biciklitárolóit."
+            ],
+            "ro": [
+              "Evitați potecile de pe malul canalului, devin foarte noroioase la ploaie.",
+              "Alegeți drumurile asfaltate prin cartierul bijutierilor.",
+              "Echipamentul de ploaie este obligatoriu; vântul la campus poate fi puternic.",
+              "Folosiți rastelele de biciclete acoperite de la centrul universitar."
+            ],
+            "en": [
+              "Avoid canal towpaths as they become very muddy during rain.",
+              "Stick to paved roads through the Jewellery Quarter instead.",
+              "Quality waterproof gear is essential; winds can be strong on campus.",
+              "Utilize the indoor or covered bike racks at the University Center."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir das kühle Jewellery Quarter mit seinen hell erleuchteten Schaufenstern. Im Cannon Hill Park genießen wir die klare Winterluft auf dem Rad. Mittags wärmen wir uns in den historischen Räumen von Selly Manor auf. Cadbury World bietet danach die perfekte Dosis Energie durch Schokolade. Nachmittags leuchten die Gärten von Winterbourne im sanften Winterlicht, bevor wir den beleuchteten Campus erreichen.",
+            "hu": "Reggel a hűvös ékszernegyedet fedezzük fel a fényesen kivilágított kirakatokkal. A Cannon Hill Parkban a friss téli levegőt élvezzük a nyeregben. Délben a Selly Manor történelmi falaiban melegszünk fel. A Cadbury World után a csokoládé adja meg a szükséges energiát. Délután a Winterbourne kertjei lágy téli fényben úsznak, mielőtt elérjük a kivilágított egyetemet.",
+            "ro": "Dimineața explorăm cartierul răcoros al bijutierilor cu vitrinele sale luminate. În Parcul Cannon Hill ne bucurăm de aerul curat de iarnă pe bicicletă. La prânz ne încălzim în camerele istorice de la Selly Manor. Cadbury World oferă apoi doza perfectă de energie prin ciocolată. După-amiaza, grădinile de la Winterbourne strălucesc în lumina blândă de iarnă.",
+            "en": "In the morning, we explore the chilly Jewellery Quarter with its brightly lit shop windows. In Cannon Hill Park, we enjoy the crisp winter air on our bikes. At midday, we warm up in the historic rooms of Selly Manor. Cadbury World then provides the perfect energy boost through chocolate. In the afternoon, Winterbourne's gardens glow in soft winter light before we reach the lit campus."
+          },
+          "stops": [
+            {
+              "name": "Jewellery Quarter",
+              "tip_4lang": {
+                "de": "Die Cafés hier sind perfekt für einen schnellen, heißen Stop.",
+                "hu": "Az itteni kávézók tökéletesek egy gyors, forró pihenőre.",
+                "ro": "Cafenelele de aici sunt perfecte pentru o oprire rapidă și caldă.",
+                "en": "The cafes here are perfect for a quick, hot stop to warm up."
+              }
+            },
+            {
+              "name": "Cannon Hill Park",
+              "tip_4lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Parkwegen.",
+                "hu": "Ügyeljen a jeges foltokra a park útjain.",
+                "ro": "Atenție la porțiunile înghețate de pe aleile parcului.",
+                "en": "Watch out for icy patches on the park's shared paths."
+              }
+            },
+            {
+              "name": "Selly Manor",
+              "tip_4lang": {
+                "de": "Das Kaminfeuer (wenn an) ist ein echtes Winter-Highlight.",
+                "hu": "A kandalló tüze (ha ég) igazi téli élmény.",
+                "ro": "Focul din șemineu (dacă este aprins) este un punct forte iarna.",
+                "en": "The fireplace (when lit) is a genuine winter highlight."
+              }
+            },
+            {
+              "name": "Cadbury World",
+              "tip_4lang": {
+                "de": "Ideal, um die Kälte draußen für längere Zeit zu vergessen.",
+                "hu": "Ideális a kinti hideg tartós elfelejtésére.",
+                "ro": "Ideal pentru a uita de frigul de afară pentru o perioadă lungă.",
+                "en": "Ideal for forgetting the cold outside for an extended period."
+              }
+            },
+            {
+              "name": "Winterbourne House & Garden",
+              "tip_4lang": {
+                "de": "Die Winterblüte im Haus ist ein seltener Anblick.",
+                "hu": "A házon belüli téli virágzás ritka látvány.",
+                "ro": "Florile de iarnă din interiorul casei sunt o vedere rară.",
+                "en": "The winter blooms inside the house are a rare and beautiful sight."
+              }
+            },
+            {
+              "name": "University of Birmingham Campus",
+              "tip_4lang": {
+                "de": "Der Old Joe Uhrturm ist abends wunderschön beleuchtet.",
+                "hu": "Az Old Joe óratorony este gyönyörűen ki van világítva.",
+                "ro": "Turnul cu ceas Old Joe este luminat superb seara.",
+                "en": "The Old Joe clock tower is beautifully illuminated in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe; der Fahrtwind ist bei 2°C sehr beißend.",
+              "Prüfen Sie Ihre Beleuchtung; es wird ab 15:45 Uhr dämmerig.",
+              "Die Wege am Kanal können gefährlich glatt sein (Black Ice).",
+              "Planen Sie mehr Zeit für Aufwärmpausen ein."
+            ],
+            "hu": [
+              "Viseljen kesztyűt; a menetszél 2 fokban nagyon harapós.",
+              "Ellenőrizze a világítást; 15:45-től már szürkül.",
+              "A csatornaparti utak veszélyesen jegesek lehetnek.",
+              "Tervezzen több időt a melegedő szünetekre."
+            ],
+            "ro": [
+              "Purtați mănuși; vântul la pedalare este tăios la 2 grade.",
+              "Verificați luminile; se înserează de la ora 15:45.",
+              "Potecile de pe canal pot fi periculos de alunecoase (polei).",
+              "Planificați mai mult timp pentru pauze de încălzire."
+            ],
+            "en": [
+              "Wear windproof gloves; the wind chill at 2°C is biting.",
+              "Check your bike lights; it starts getting dark from 3:45 PM.",
+              "Canal towpaths can have dangerous patches of black ice.",
+              "Schedule extra time for indoor warming breaks."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1504,224 @@
           "Traffic can be heavy during peak hours, so time your drives outside of these periods.",
           "Use a satellite navigation app to navigate the city's sometimes confusing one-way system."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens besuchen wir das prächtige Aston Hall, das drinnen absolut trocken ist. Der Aston Park dient nur für einen kurzen Blick aus dem Autofenster. Mittags erkunden wir die Custard Factory und wärmen uns im Old Crown Pub bei einem herzhaften Eintopf. Nachmittags ist Sarehole Mill ein gemütlicher Stopp, während Moseley Bog im Regen mystisch wirkt. Den Tag beenden wir mit der Fahrt zu den Lickey Hills, wo wir die Aussicht aus dem Auto genießen.",
+            "hu": "Reggel a pompás Aston Hallt látogatjuk meg, ami belül teljesen száraz. Az Aston Parkot csak az autó ablakából csodáljuk. Délben a Custard Factory-t fedezzük fel, majd az Old Crown Pubban melegszünk egy kiadós egytálétellel. Délután a Sarehole Mill hangulatos megálló, a Moseley Bog pedig misztikus az esőben. A napot a Lickey Hillsnél zárjuk, élvezve a kilátást az autóból.",
+            "ro": "Dimineața vizităm somptuosul Aston Hall, care este complet uscat la interior. Parcul Aston servește doar pentru o privire rapidă de la geamul mașinii. La prânz explorăm Custard Factory și ne încălzim la Old Crown Pub cu o mâncare caldă. După-amiaza, Sarehole Mill este o oprire plăcută, în timp ce Moseley Bog pare mistic în ploaie.",
+            "en": "In the morning, we visit the magnificent Aston Hall, which is completely dry inside. Aston Park serves as a quick view from the car window. At midday, we explore the Custard Factory and warm up at the Old Crown Pub with a hearty stew. In the afternoon, Sarehole Mill is a cozy stop, while Moseley Bog looks mystical in the rain. We end the day at Lickey Hills, enjoying the view from the comfort of the car."
+          },
+          "stops": [
+            {
+              "name": "Aston Hall",
+              "tip_4lang": {
+                "de": "Kostenloses Parken direkt am Haus; kurzer Weg ins Trockene.",
+                "hu": "Ingyenes parkolás közvetlenül a háznál; rövid út a szárazig.",
+                "ro": "Parcare gratuită chiar lângă casă; drum scurt până la adăpost.",
+                "en": "Free parking right by the house; a very short walk to stay dry."
+              }
+            },
+            {
+              "name": "Aston Park",
+              "tip_4lang": {
+                "de": "Genießen Sie das Grün bei einem 'Drive-through' durch den Park.",
+                "hu": "Élvezze a zöldet egy autós áthajtás során a parkon keresztül.",
+                "ro": "Bucurați-vă de verdeață printr-o scurtă plimbare cu mașina prin parc.",
+                "en": "Enjoy the greenery with a quick drive-through around the park."
+              }
+            },
+            {
+              "name": "Custard Factory",
+              "tip_4lang": {
+                "de": "Das ZBP-Parkhaus bietet direkten Zugang zu den überdachten Läden.",
+                "hu": "A közeli parkolóházból közvetlen út vezet a fedett boltokhoz.",
+                "ro": "Parcarea multietajată oferă acces direct la magazinele acoperite.",
+                "en": "The ZBP car park offers direct access to the covered shops."
+              }
+            },
+            {
+              "name": "Old Crown Pub",
+              "tip_4lang": {
+                "de": "Der perfekte Ort, um bei Regen und Kaminfeuer lange zu verweilen.",
+                "hu": "Tökéletes hely a hosszú időzéshez az eső elől a kandallónál.",
+                "ro": "Locul perfect pentru a zăbovi mult timp lângă șemineu pe ploaie.",
+                "en": "The perfect place to linger long by the fireplace during rain."
+              }
+            },
+            {
+              "name": "Sarehole Mill",
+              "tip_4lang": {
+                "de": "Das Teezimmer ist ein wunderbarer Rückzugsort vor dem Wetter.",
+                "hu": "A teázó csodálatos menedék az időjárás elől.",
+                "ro": "Ceainăria este un refugiu minunat împotriva vremii rele.",
+                "en": "The tearoom is a wonderful retreat from the inclement weather."
+              }
+            },
+            {
+              "name": "Moseley Bog",
+              "tip_4lang": {
+                "de": "Bleiben Sie auf den Holzstegen, um nasse Füße zu vermeiden.",
+                "hu": "Maradjon a fapallókon, hogy elkerülje a lábak elázását.",
+                "ro": "Rămâneți pe podinele de lemn pentru a evita picioarele ude.",
+                "en": "Stick to the boardwalks to avoid getting your feet soaked."
+              }
+            },
+            {
+              "name": "Lickey Hills Country Park",
+              "tip_4lang": {
+                "de": "Der Parkplatz am Besucherzentrum bietet eine tolle Aussicht.",
+                "hu": "A látogatóközpont parkolója remek kilátást nyújt.",
+                "ro": "Parcarea de la centrul pentru vizitatori oferă o vedere excelentă.",
+                "en": "The car park at the visitor centre offers a great view even from the car."
+              }
+            },
+            {
+              "name": "Beacon Hill",
+              "tip_4lang": {
+                "de": "Ein kurzer Sprint zum Gipfel für das Panorama lohnt sich.",
+                "hu": "Egy rövid sprint a csúcsra a panorámáért megéri.",
+                "ro": "Un sprint scurt până în vârf pentru panoramă merită efortul.",
+                "en": "A quick dash to the summit for the panorama is worth it."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Rechnen Sie mit mehr Verkehr; Birmingham staut sich bei Regen schnell.",
+              "Nutzen Sie das Parkhaus am Bullring für den Stadteingang.",
+              "Viele Sehenswürdigkeiten haben Parkplätze direkt am Eingang.",
+              "Die A38M kann bei starkem Regen Gischt-Probleme haben."
+            ],
+            "hu": [
+              "Számoljon nagyobb forgalommal; Birmingham esőben gyorsan bedugul.",
+              "Használja a Bullring parkolóházát a városközponti részhez.",
+              "Sok látnivaló rendelkezik közvetlen bejárati parkolóval.",
+              "Az A38M úton erős esőben a vízpermet nehezítheti a látást."
+            ],
+            "ro": [
+              "Anticipați un trafic mai intens; Birmingham se blochează rapid la ploaie.",
+              "Folosiți parcarea de la Bullring pentru accesul în centru.",
+              "Multe obiective turistice au parcări chiar la intrare.",
+              "A38M poate avea probleme de vizibilitate din cauza pulverizării apei."
+            ],
+            "en": [
+              "Expect heavier traffic; Birmingham gridlocks quickly during rain.",
+              "Use the Bullring multi-storey for easiest central access.",
+              "Many attractions have parking spaces directly at the entrance.",
+              "The A38M 'Spaghetti Junction' can be tricky during heavy downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens bewundern wir das festlich geschmückte Aston Hall. Der Park glänzt oft mit Raureif. Mittags tauchen wir in die kreative, winterliche Atmosphäre der Custard Factory ein. Das Mittagessen im Old Crown ist ein historisches Wintermärchen. Nachmittags besuchen wir das Sarehole Mill im sanften Licht. Zum Sonnenuntergang fahren wir zu den Lickey Hills, um das Lichtermeer von Birmingham in der Kälte zu überblicken.",
+            "hu": "Reggel az ünnepi díszbe öltözött Aston Hallt csodáljuk meg. A park gyakran zúzmarás ilyenkor. Délben a Custard Factory kreatív téli világába merülünk. Az ebéd az Old Crownban olyan, mint egy történelmi téli mese. Délután a Sarehole Millt látogatjuk meg a lágy fényekben. Naplementekor a Lickey Hillshez hajtunk, hogy lássuk Birmingham esti fényeit a hidegben.",
+            "ro": "Dimineața admirăm Aston Hall decorat festiv. Parcul strălucește adesea de promoroacă. La prânz ne scufundăm în atmosfera creativă de iarnă de la Custard Factory. Prânzul la Old Crown este un basm istoric de iarnă. După-amiaza vizităm Sarehole Mill în lumina blândă. La apus mergem la Lickey Hills pentru a vedea marea de lumini a Birminghamului.",
+            "en": "In the morning, we admire the festively decorated Aston Hall. The park often glistens with frost. At midday, we dive into the creative winter atmosphere of the Custard Factory. Lunch at the Old Crown feels like a historic winter tale. In the afternoon, we visit Sarehole Mill in the soft light. For sunset, we drive to Lickey Hills to overlook the sea of Birmingham lights in the cold air."
+          },
+          "stops": [
+            {
+              "name": "Aston Hall",
+              "tip_4lang": {
+                "de": "Die Weihnachtsdekorationen im Inneren sind spektakulär.",
+                "hu": "A belső karácsonyi dekorációk látványosak.",
+                "ro": "Decorațiunile de Crăciun din interior sunt spectaculoase.",
+                "en": "The period Christmas decorations inside are truly spectacular."
+              }
+            },
+            {
+              "name": "Aston Park",
+              "tip_4lang": {
+                "de": "Raureif auf den alten Bäumen bietet tolle Fotomotive.",
+                "hu": "A zúzmarás öreg fák remek fotótémát szolgáltatnak.",
+                "ro": "Promoroaca de pe copacii bătrâni oferă motive foto superbe.",
+                "en": "Frost on the ancient trees provides great photo opportunities."
+              }
+            },
+            {
+              "name": "Custard Factory",
+              "tip_4lang": {
+                "de": "Die unabhängigen Läden sind ideal für originelle Geschenke.",
+                "hu": "A független boltok ideálisak eredeti ajándékok beszerzéséhez.",
+                "ro": "Magazinele independente sunt ideale pentru cadouri originale.",
+                "en": "The independent shops are ideal for finding original gifts."
+              }
+            },
+            {
+              "name": "Old Crown Pub",
+              "tip_4lang": {
+                "de": "Eines der ältesten Gebäude der Stadt, besonders urig im Winter.",
+                "hu": "A város egyik legrégebbi épülete, télen különösen hangulatos.",
+                "ro": "Una dintre cele mai vechi clădiri, foarte primitoare iarna.",
+                "en": "One of the oldest buildings in the city, especially atmospheric in winter."
+              }
+            },
+            {
+              "name": "Sarehole Mill",
+              "tip_4lang": {
+                "de": "Prüfen Sie die Öffnungszeiten; im Winter oft früher zu.",
+                "hu": "Ellenőrizze a nyitvatartást; télen gyakran korábban zárnak.",
+                "ro": "Verificați programul; iarna se închide adesea mai devreme.",
+                "en": "Check opening times; it often closes earlier during winter months."
+              }
+            },
+            {
+              "name": "Moseley Bog",
+              "tip_4lang": {
+                "de": "Ein magischer Ort, wenn er im Winter leicht verschneit ist.",
+                "hu": "Mágikus hely, ha télen vékony hóréteg borítja.",
+                "ro": "Un loc magic când este ușor înzăpezit iarna.",
+                "en": "A magical place when lightly dusted with winter snow."
+              }
+            },
+            {
+              "name": "Lickey Hills Country Park",
+              "tip_4lang": {
+                "de": "Bringen Sie eine Thermoskanne mit für den Blick vom Gipfel.",
+                "hu": "Hozzon termoszt a csúcsról nyíló kilátáshoz.",
+                "ro": "Aduceți un termos pentru vederea de pe vârf.",
+                "en": "Bring a thermos flask for the view from the summit."
+              }
+            },
+            {
+              "name": "Beacon Hill",
+              "tip_4lang": {
+                "de": "Hier oben ist es deutlich kühler als im Stadtzentrum.",
+                "hu": "Itt fent jóval hűvösebb van, mint a városközpontban.",
+                "ro": "Aici sus este mult mai răcoare decât în centrul orașului.",
+                "en": "It is significantly cooler up here than in the city centre."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glatteis auf den höher gelegenen Straßen der Lickey Hills.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Die Parkplätze in Digbeth können im Winter früher dunkel und einsam sein.",
+              "Nutzen Sie die Sitzheizung für die Fahrt zwischen den Naturstopps."
+            ],
+            "hu": [
+              "Ügyeljen a jegesedésre a Lickey Hills magasabban fekvő útjain.",
+              "Töltsön fagyállót a szélvédőmosóba.",
+              "A digbeth-i parkolók télen korábban sötétednek és kihaltabbak.",
+              "Használja az ülésfűtést a természeti megállók közötti úton."
+            ],
+            "ro": [
+              "Atenție la polei pe drumurile mai înalte de la Lickey Hills.",
+              "Puneți antigel în instalația de spălare a parbrizului.",
+              "Parcările din Digbeth pot fi întunecate și pustii mai devreme iarna.",
+              "Folosiți încălzirea în scaune pentru drumul între opririle în natură."
+            ],
+            "en": [
+              "Watch for ice on the higher elevation roads around Lickey Hills.",
+              "Ensure your screen wash has adequate antifreeze.",
+              "Digbeth car parks can feel isolated once it gets dark early.",
+              "Use seat heaters for comfort between the outdoor stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1494,6 +2094,206 @@
           "Download the 'NX Bus' app for real-time bus tracking.",
           "Many bus routes are frequent, so you'll rarely have to wait long."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bringt uns die Bahn direkt ins Jewellery Quarter, wo wir trocken starten. St Paul's bietet einen kurzen, besinnlichen Halt. Mittags ist die New Street Station unser riesiges, überdachtes Basislager. In Digbeth erkunden wir die Graffitis unter Brückenbögen. Nachmittags ist das Thinktank Science Museum das perfekte Indoor-Ziel für Stunden. Wir beenden den Tag an der Moor Street Station, einer charmanten Zeitkapsel im Regen.",
+            "hu": "Reggel a vonat közvetlenül az ékszernegyedbe visz, ahol szárazon kezdünk. A St Paul's rövid, meghitt pihenőt kínál. Délben a New Street állomás óriási, fedett bázisként szolgál. Digbeth-ben a graffitiket a hídívek alatt csodáljuk. Délután a Thinktank Tudományos Múzeum tökéletes beltéri célpont órákra. A napot a Moor Street állomáson zárjuk, ami egy bájos időkapszula az esőben.",
+            "ro": "Dimineața trenul ne duce direct în cartierul bijutierilor, unde începem uscați. St Paul's oferă o scurtă oprire liniștită. La prânz, stația New Street este baza noastră uriașă acoperită. În Digbeth explorăm graffitile sub arcadele podurilor. După-amiaza, Thinktank Science Museum este destinația perfectă de interior. Încheiem ziua la stația Moor Street, o capsulă a timpului în ploaie.",
+            "en": "In the morning, the train takes us directly to the Jewellery Quarter for a dry start. St Paul's offers a brief, peaceful stop. At midday, New Street Station serves as our massive, covered base camp. In Digbeth, we explore graffiti sheltered under railway arches. In the afternoon, Thinktank Science Museum is the perfect indoor destination for hours. We finish the day at Moor Street Station, a charming time capsule in the rain."
+          },
+          "stops": [
+            {
+              "name": "Jewellery Quarter Station",
+              "tip_4lang": {
+                "de": "Der Bahnsteig ist überdacht; ideal zum Warten auf den Anschluss.",
+                "hu": "A peron fedett; ideális a csatlakozásra való várakozáshoz.",
+                "ro": "Peronul este acoperit; ideal pentru a aștepta legătura.",
+                "en": "The platform is sheltered; ideal for waiting for your connection."
+              }
+            },
+            {
+              "name": "St Paul's Church",
+              "tip_4lang": {
+                "de": "Nur ein kurzer Fußweg von der Tramstation im Regen.",
+                "hu": "Csak egy rövid séta a villamosmegállótól az esőben.",
+                "ro": "Doar o scurtă plimbare de la stația de tramvai prin ploaie.",
+                "en": "Only a short walk from the tram stop to stay out of the rain."
+              }
+            },
+            {
+              "name": "New Street Station / Grand Central",
+              "tip_4lang": {
+                "de": "Komplett wetterfest; riesige Auswahl an Shops und Cafés.",
+                "hu": "Teljesen időjárásálló; hatalmas választék boltokból és kávézókból.",
+                "ro": "Complet rezistent la vreme; selecție uriașă de magazine și cafenele.",
+                "en": "Completely weatherproof; huge selection of shops and cafes."
+              }
+            },
+            {
+              "name": "Digbeth / Coach Station",
+              "tip_4lang": {
+                "de": "Die Wartehalle ist modern, hell und absolut trocken.",
+                "hu": "A váróterem modern, világos és teljesen száraz.",
+                "ro": "Sala de așteptare este modernă, luminoasă și absolut uscată.",
+                "en": "The waiting hall is modern, bright, and completely dry."
+              }
+            },
+            {
+              "name": "Thinktank Science Museum",
+              "tip_4lang": {
+                "de": "Ein erstklassiges Ziel für regnerische Nachmittage.",
+                "hu": "Elsőrangú célpont esős délutánokra.",
+                "ro": "O destinație de primă clasă pentru după-amiezi ploioase.",
+                "en": "A world-class destination for rainy afternoons."
+              }
+            },
+            {
+              "name": "Eastside City Park",
+              "tip_4lang": {
+                "de": "Schneller Durchgang zum Museum; wenig Schutz bei Starkregen.",
+                "hu": "Gyors átjáró a múzeumhoz; kevés menedék heves esőben.",
+                "ro": "Trecere rapidă spre muzeu; puțin adăpost în caz de ploaie torențială.",
+                "en": "Quick passage to the museum; limited shelter during heavy rain."
+              }
+            },
+            {
+              "name": "Moor Street Station",
+              "tip_4lang": {
+                "de": "Die historische Bahnhofshalle bietet tollen Schutz im Retro-Stil.",
+                "hu": "A történelmi várócsarnok remek menedék retro stílusban.",
+                "ro": "Hala istorică a gării oferă protecție excelentă în stil retro.",
+                "en": "The historic station hall offers great shelter in retro style."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Swift' Karte für kontaktloses Bezahlen ohne Warteschlangen.",
+              "Die West Midlands Metro verbindet New Street und Jewellery Quarter trocken.",
+              "Die Busse in Birmingham haben oft USB-Ladebuchsen zum Aufwärmen der Geräte.",
+              "New Street Station hat die besten barrierefreien und trockenen WCs."
+            ],
+            "hu": [
+              "Használja a 'Swift' kártyát az érintésmentes fizetéshez sorban állás nélkül.",
+              "A West Midlands Metro száraz összeköttetést nyújt a New Street és az ékszernegyed között.",
+              "A birminghami buszokon gyakran van USB-töltő az eszközöknek.",
+              "A New Street állomás rendelkezik a legjobb akadálymentes és száraz mosdókkal."
+            ],
+            "ro": [
+              "Folosiți cardul 'Swift' pentru plată contactless fără cozi.",
+              "Metroul West Midlands conectează New Street și cartierul bijutierilor la uscat.",
+              "Autobuzele din Birmingham au adesea mufe USB pentru încărcare.",
+              "Stația New Street are cele mai bune toalete accesibile și uscate."
+            ],
+            "en": [
+              "Use a 'Swift' card or contactless payment to avoid queuing in the rain.",
+              "The West Midlands Metro provides a dry link between New Street and JQ.",
+              "Birmingham buses often feature USB charging ports to power up your devices.",
+              "New Street Station has the best accessible and dry public facilities."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens bringt uns der Zug ins stimmungsvoll beleuchtete Jewellery Quarter. St Paul's wirkt im Winterfrost besonders friedlich. Mittags genießen wir die Wärme und den Trubel in Grand Central über der New Street Station. In Digbeth leuchten die kreativen Räume in der frühen Dunkelheit. Nachmittags ist das Thinktank Museum ein Highlight für die ganze Familie. Wir beenden den Tag an der festlich beleuchteten Moor Street Station.",
+            "hu": "Reggel a vonat a hangulatosan kivilágított ékszernegyedbe repít. A St Paul's a téli fagyban különösen békés. Délben a New Street állomás feletti Grand Central melegében és forgatagában pihenünk. Digbeth-ben a kreatív terek már a korai sötétben ragyognak. Délután a Thinktank Múzeum nyújt családi kikapcsolódást. A napot az ünnepi díszben úszó Moor Street állomáson zárjuk.",
+            "ro": "Dimineața trenul ne duce în cartierul bijutierilor luminat atmosferic. St Paul's pare deosebit de liniștit în gerul iernii. La prânz ne bucurăm de căldura din Grand Central deasupra stației New Street. În Digbeth, spațiile creative strălucesc în întunericul timpuriu. După-amiaza, Thinktank Museum este un punct forte. Încheiem la stația Moor Street luminată festiv.",
+            "en": "In the morning, the train takes us to the atmospherically lit Jewellery Quarter. St Paul's feels particularly peaceful in the winter frost. At midday, we enjoy the warmth and bustle of Grand Central above New Street Station. In Digbeth, creative spaces glow in the early darkness. In the afternoon, Thinktank Museum is a highlight for all. We finish the day at the festively illuminated Moor Street Station."
+          },
+          "stops": [
+            {
+              "name": "Jewellery Quarter Station",
+              "tip_4lang": {
+                "de": "Vorsicht vor glatten Bahnsteigkanten bei Frost.",
+                "hu": "Vigyázat, a peron széle fagyban csúszós lehet.",
+                "ro": "Atenție la marginile de peron alunecoase în caz de îngheț.",
+                "en": "Be careful of slippery platform edges during frosty mornings."
+              }
+            },
+            {
+              "name": "St Paul's Church",
+              "tip_4lang": {
+                "de": "Die Bäume auf dem Kirchplatz sind oft wunderschön beleuchtet.",
+                "hu": "A templomkert fái gyakran gyönyörűen ki vannak világítva.",
+                "ro": "Copacii din piața bisericii sunt adesea luminați superb.",
+                "en": "The trees in the church square are often beautifully lit up."
+              }
+            },
+            {
+              "name": "New Street Station / Grand Central",
+              "tip_4lang": {
+                "de": "Der riesige Weihnachtsbaum hier ist ein Muss für Fotos.",
+                "hu": "Az itteni hatalmas karácsonyfa kötelező fotótéma.",
+                "ro": "Bradul uriaș de Crăciun de aici este un 'must' pentru fotografii.",
+                "en": "The massive Christmas tree here is a must-see for photos."
+              }
+            },
+            {
+              "name": "Digbeth / Coach Station",
+              "tip_4lang": {
+                "de": "Holen Sie sich einen heißen Kakao am Kiosk für die Weiterfahrt.",
+                "hu": "Vegyen egy forró kakaót a kioszknál a továbbutazáshoz.",
+                "ro": "Luați o ciocolată caldă de la chioșc pentru continuarea drumului.",
+                "en": "Grab a hot cocoa at the kiosk for your onward journey."
+              }
+            },
+            {
+              "name": "Thinktank Science Museum",
+              "tip_4lang": {
+                "de": "Der Shop ist toll für originelle, wissenschaftliche Geschenke.",
+                "hu": "A bolt remek hely eredeti tudományos ajándékokhoz.",
+                "ro": "Magazinul este excelent pentru cadouri științifice originale.",
+                "en": "The shop is great for finding original, science-themed gifts."
+              }
+            },
+            {
+              "name": "Eastside City Park",
+              "tip_4lang": {
+                "de": "Der Park wirkt bei Frost wie eine moderne Eislandschaft.",
+                "hu": "A park fagyban úgy fest, mint egy modern jégvilág.",
+                "ro": "Parcul arată ca un peisaj modern de gheață în timpul gerului.",
+                "en": "The park looks like a modern ice landscape during hard frosts."
+              }
+            },
+            {
+              "name": "Moor Street Station",
+              "tip_4lang": {
+                "de": "Besuchen Sie das 'Centenary Lounge' Café für echtes 1930er Flair.",
+                "hu": "Látogasson el a 'Centenary Lounge' kávézóba az 1930-as évek hangulatáért.",
+                "ro": "Vizitați cafeneaua 'Centenary Lounge' pentru un aer autentic de anii '30.",
+                "en": "Visit the 'Centenary Lounge' cafe for authentic 1930s winter flair."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Züge sind im Winter meist sehr gut beheizt.",
+              "Vermeiden Sie das Warten an Bushaltestellen ohne Windschutz.",
+              "Nutzen Sie die Echtzeit-App, um Kälte-Wartezeiten zu minimieren.",
+              "Grand Central bietet kostenlose Ladestationen in der Wärme."
+            ],
+            "hu": [
+              "A vonatok télen általában nagyon jól fűtöttek.",
+              "Kerülje a szélvédő nélküli buszmegállókban való várakozást.",
+              "Használja a valós idejű appot a hidegben való várakozás minimalizálására.",
+              "A Grand Central ingyenes töltőállomásokat kínál a melegben."
+            ],
+            "ro": [
+              "Trenurile sunt de obicei foarte bine încălzite iarna.",
+              "Evitați așteptarea în stații de autobuz fără protecție contra vântului.",
+              "Folosiți aplicația în timp real pentru a minimiza așteptarea în frig.",
+              "Grand Central oferă stații de încărcare gratuite la căldură."
+            ],
+            "en": [
+              "Trains are generally very well-heated during the winter months.",
+              "Avoid waiting at bus stops that lack wind protection or shelters.",
+              "Use the real-time tracking app to minimize time spent out in the cold.",
+              "Grand Central provides free charging stations in a warm environment."
+            ]
+          }
+        }
       }
     }
   }

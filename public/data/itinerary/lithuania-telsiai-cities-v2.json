@@ -382,6 +382,214 @@
           "Check the opening hours of museums and churches in advance.",
           "A power bank for your phone is a good idea for a full day of photos."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag bei den Bärenskulpturen, die im Regen glänzen. Die Jeschiwa bietet einen ersten trockenen Rückzugsort, um die jüdische Geschichte der Stadt zu studieren. Mittags finden Sie Schutz in der majestätischen Kathedrale, wo die Stille die regnerische Atmosphäre draußen perfekt ergänzt.\n\nDer Nachmittag gehört dem Samogitischen Museum Alka. Hier können Sie Stunden verbringen, ohne nass zu werden, und tief in die regionale Folklore eintauchen. Die Exponate zur samogitischen Identität sind besonders an grauen Tagen faszinierend.\n\nSpäter führt der Weg zur Promenade des Mastis-Sees. Unter einem Regenschirm hat der Blick auf das graue Wasser und die Stadt auf den sieben Hügeln einen melancholischen Charme. Die Marienkirche bietet einen weiteren Moment der Besinnung vor dem Abschluss.\n\nDer Tag endet am Džiugas-Hügel. Wenn die Wolken tief hängen, wirkt der Ort der Legenden noch mystischer. Ein heißer Tee in einem nahegelegenen Café mit Blick auf die Stadt ist der perfekte Ausklang für diesen regnerischen Spaziergang.",
+            "hu": "A napot a medveszobroknál kezdjük, amelyek az esőben csillogva köszöntik a látogatót. A Telšiai Jesiva kiváló fedett helyszín a délelőtti órákra, ahol a város zsidó múltját ismerhetjük meg. Délben a Szent Antal-székesegyház vastag falai között találunk menedéket az égi áldás elől.\n\nA délután nagy részét az Alka Múzeumban töltjük, amely bőséges látnivalót kínál, így szárazon maradhatunk. A szamogit néprajzi gyűjtemény és a helyi művészeti kincsek felfedezése közben elfelejtjük a kinti barátságtalan időt.\n\nKésőbb a Mastis-tó sétánya következik, ahol az esernyő alól figyelhetjük a tó felszínén kopogó esőcseppeket. A Szűz Mária Mennybemenetele templom belső terei újabb rövid pihenőt kínálnak a délutáni séta során.\n\nA nap a Džiugas-dombon zárul. A ködös, esős időben a legenda szerinti óriás sírhelye még titokzatosabbnak tűnik. Egy kóstoló a híres helyi keménysajtból egy közeli vendéglőben méltó befejezése a napnak.",
+            "ro": "Începeți ziua la sculpturile cu urși, care strălucesc sub ploaie. Ieșiva din Telšiai oferă un prim refugiu uscat pentru a studia istoria evreiască a orașului. La prânz, găsiți adăpost în Catedrala Sf. Anton, unde liniștea completează perfect atmosfera ploioasă de afară.\n\nDupă-amiaza este dedicată Muzeului Samogitian Alka. Aici puteți petrece ore întregi fără a vă uda, explorând în profunzime folclorul regional. Expozițiile despre identitatea samogitiană sunt deosebit de fascinante în zilele gri.\n\nMai târziu, drumul duce spre promenada lacului Mastis. Sub umbrelă, vederea apei cenușii și a orașului de pe cele șapte dealuri are un farmec melancolic. Biserica Adormirea Maicii Domnului oferă un alt moment de reflecție înainte de final.\n\nZiua se încheie la dealul Džiugas. Când norii sunt joși, locul legendelor pare și mai mistic. Un ceai fierbinte într-o cafenea din apropiere, cu vedere spre oraș, este finalul perfect pentru această plimbare ploioasă.",
+            "en": "Start your day at the bear sculptures, gleaming in the rain. The Yeshiva offers a first dry retreat to study the city's Jewish history. At noon, find shelter in the majestic Cathedral, where the silence perfectly complements the rainy atmosphere outside.\n\nThe afternoon belongs to the Samogitian Museum Alka. Here you can spend hours without getting wet, diving deep into regional folklore. The exhibits on Samogitian identity are particularly fascinating on grey days.\n\nLater, the path leads to the Mastis Lake promenade. Under an umbrella, the view of the grey water and the city on the seven hills has a melancholic charm. The Church of the Assumption offers another moment of reflection before the finish.\n\nThe day ends at Džiugas Hill. When the clouds hang low, the place of legends seems even more mystical. A hot tea in a nearby café overlooking the city is the perfect conclusion to this rainy walk."
+          },
+          "stops": [
+            {
+              "name": "Bear Sculptures",
+              "tip_5lang": {
+                "de": "Die Bronzebären glänzen bei Regen besonders schön; ideal für kontrastreiche Fotos.",
+                "hu": "A bronzmedvék esőben különleges fényben úsznak; remek fotótéma esernyővel.",
+                "ro": "Urșii de bronz strălucesc frumos în ploaie; ideal pentru fotografii cu contrast.",
+                "en": "The bronze bears shine beautifully in the rain; ideal for high-contrast photos."
+              }
+            },
+            {
+              "name": "Telšiai Yeshiva",
+              "tip_5lang": {
+                "de": "Ein hervorragender Innenstopp, um den starken Regen für eine Weile zu vergessen.",
+                "hu": "Kiváló beltéri helyszín, ahol egy időre elfelejthetjük a kinti esőzést.",
+                "ro": "O oprire interioară excelentă pentru a uita de ploaia puternică pentru o vreme.",
+                "en": "An excellent indoor stop to forget the heavy rain for a while."
+              }
+            },
+            {
+              "name": "St. Anthony of Padua Cathedral",
+              "tip_5lang": {
+                "de": "Bewundern Sie die zweistöckige Architektur, während es draußen stürmt.",
+                "hu": "Csodálja meg a kétszintes belső teret, miközben kint dörög az ég.",
+                "ro": "Admirați arhitectura pe două niveluri în timp ce afară este furtună.",
+                "en": "Admire the two-story architecture while it storms outside."
+              }
+            },
+            {
+              "name": "Samogitian Museum Alka",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, da es der beste trockene Ort der Stadt ist.",
+                "hu": "Töltsön itt több időt, ez a város legjobb fedett menedéke az eső elől.",
+                "ro": "Planificați mai mult timp aici, fiind cel mai bun loc uscat din oraș.",
+                "en": "Plan more time here as it is the best dry spot in town."
+              }
+            },
+            {
+              "name": "Mastis Lake Promenade",
+              "tip_5lang": {
+                "de": "Die Wege können rutschig sein; bleiben Sie auf den gepflasterten Abschnitten.",
+                "hu": "A part menti utak csúszósak lehetnek; maradjon a kövezett szakaszokon.",
+                "ro": "Potecile pot fi alunecoase; rămâneți pe secțiunile pavate.",
+                "en": "Paths can be slippery; stay on the paved sections."
+              }
+            },
+            {
+              "name": "Church of the Assumption of the Blessed Virgin Mary",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Trocknen und Bewundern der sakralen Kunst.",
+                "hu": "Rövid megálló a száradáshoz és a szakrális művészet megtekintéséhez.",
+                "ro": "Scurtă oprire pentru a vă usca și a admira arta sacră.",
+                "en": "Short stop to dry off and admire the sacred art."
+              }
+            },
+            {
+              "name": "Džiugas Hill",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aufstieg auf den Grashügel; die Stufen sind bei Nässe glatt.",
+                "hu": "Vigyázzon a dombra való feljutáskor; a füves lépcsők esőben csúsznak.",
+                "ro": "Atenție la urcarea pe dealul înierbat; treptele sunt alunecoase când sunt ude.",
+                "en": "Be careful climbing the grassy hill; the steps are slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da Telšiai auf Hügeln liegt und Wasser schnell abfließt.",
+              "Die Kathedrale und das Alka-Museum bieten den besten Schutz bei Starkregen.",
+              "Nutzen Sie die lokalen Cafés, um den berühmten Džiugas-Käse bei einem heißen Getränk zu probieren.",
+              "Ein Taschenregenschirm ist aufgrund des wechselhaften Windes vom Mastis-See unerlässlich.",
+              "Viele Skulpturen haben kleine Details, die bei Nässe deutlicher hervortreten."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a dombos terepen gyorsan lefolyik az esővíz.",
+              "A székesegyház és az Alka múzeum nyújtja a legjobb védelmet tartós esőben.",
+              "Használja ki a helyi kávézókat, és kóstolja meg a híres Džiugas sajtot egy forró ital mellett.",
+              "A tóról érkező szél miatt egy strapabíró esernyő elengedhetetlen kellék.",
+              "A városi szobrok apró részletei esőben gyakran jobban látszanak a csillogás miatt."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece Telšiai este pe dealuri și apa se scurge rapid.",
+              "Catedrala și Muzeul Alka oferă cel mai bun adăpost în caz de ploaie abundentă.",
+              "Profitați de cafenelele locale pentru a gusta faimoasa brânză Džiugas cu o băutură caldă.",
+              "O umbrelă de buzunar este esențială din cauza vântului schimbător de pe lacul Mastis.",
+              "Multe sculpturi au detalii mici care ies în evidență mai clar când sunt ude."
+            ],
+            "en": [
+              "Wear waterproof shoes as Telšiai is on hills and rainwater drains quickly.",
+              "The Cathedral and Alka Museum offer the best protection during heavy rain.",
+              "Use local cafés to taste the famous Džiugas cheese with a hot beverage.",
+              "A pocket umbrella is essential due to the shifting winds from Lake Mastis.",
+              "Many sculptures have small details that stand out more clearly when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen in Telšiai beginnt mit frostigen Bärenskulpturen, die oft kleine Mützen aus Schnee tragen. In der Jeschiwa wärmen Sie sich auf, während Sie in die stille Gelehrsamkeit der Vergangenheit eintauchen. Die Kathedrale wirkt im Winterlicht besonders feierlich.\n\nMittags bietet das Alka-Museum eine willkommene Wärme. Die samogitische Geschichte erwärmt das Herz, während draußen der Schnee die Stadt auf den sieben Hügeln in ein weißes Kleid hüllt. Die Holzschnitzereien im Inneren wirken im Winter besonders gemütlich.\n\nAm Nachmittag spazieren Sie entlang des zugefrorenen Mastis-Sees. Die Promenade ist oft schneebedeckt, was den Blick auf die Stadtlandschaft verwandelt. Ein kurzer Besuch in der Marienkirche bietet Ruhe vor der Kälte.\n\nDer Tag gipfelt am Džiugas-Hügel kurz vor Sonnenuntergang. Der Blick über das verschneite Telšiai im blauen Licht der Dämmerung ist unvergesslich. Beenden Sie den Tag mit einer warmen samogitischen Mahlzeit, die Kraft für die Winterkälte gibt.",
+            "hu": "A téli reggel Telšiaiban a deres medveszobrokkal indul, amelyek gyakran kapnak hósapkát a helyiektől. A Jesiva falai között felmelegedhetünk, miközben a múlt csendes bölcsességébe merülünk. A székesegyház a téli fényekben különösen ünnepélyes arcát mutatja.\n\nDélben az Alka Múzeum fűtött termei nyújtanak menedéket. A szamogit történelem és kultúra kincsei között barangolva elfelejtjük a kinti fagyot, miközben a hófehérbe öltözött hét domb látványa tárul elénk az ablakokból.\n\nDélután a befagyott Mastis-tó partján sétálunk. A havas sétány varázslatos hangulatot áraszt, a város sziluettje ilyenkor a legszebb. A Szűz Mária templom rövid pihenőt kínál a hideg szél elől.\n\nA nap a Džiugas-dombon ér véget, éppen naplemente előtt. A havas Telšiai látványa a kék órában lenyűgöző. Zárja a napot egy laktató szamogit vacsorával, amely visszaadja a sétához szükséges energiát.",
+            "ro": "O dimineață de iarnă în Telšiai începe cu sculpturile cu urși înghețate, care poartă adesea căciuli mici de zăpadă. În Ieșiva vă încălziți în timp ce vă cufundați în liniștea trecutului. Catedrala pare deosebit de solemnă în lumina iernii.\n\nLa prânz, Muzeul Alka oferă o căldură binevenită. Istoria samogitiană încălzește inima, în timp ce afară zăpada îmbracă orașul de pe cele șapte dealuri într-o haină albă. Sculpturile în lemn din interior par deosebit de primitoare iarna.\n\nDupă-amiaza, plimbați-vă de-a lungul lacului Mastis înghețat. Promenada este adesea acoperită de zăpadă, transformând vederea peisajului urban. O scurtă vizită la Biserica Adormirea Maicii Domnului oferă liniște în fața frigului.\n\nZiua culminează la dealul Džiugas chiar înainte de apus. Vederea peste Telšiai înzăpezit în lumina albastră a amurgului este de neuitat. Încheiați ziua cu o masă caldă samogitiană, care oferă putere împotriva frigului de iarnă.",
+            "en": "A winter morning in Telšiai starts with frosty bear sculptures often wearing tiny hats of snow. In the Yeshiva, warm up while immersing yourself in the quiet scholarship of the past. The Cathedral looks particularly solemn in the winter light.\n\nAt noon, the Alka Museum provides a welcome warmth. Samogitian history warms the heart while outside, snow dresses the city on seven hills in a white gown. The wood carvings inside feel especially cozy in winter.\n\nIn the afternoon, stroll along the frozen Mastis Lake. The promenade is often snow-covered, transforming the view of the cityscape. A short visit to the Church of the Assumption offers peace from the cold.\n\nThe day culminates at Džiugas Hill just before sunset. The view over snowy Telšiai in the blue light of twilight is unforgettable. End the day with a warm Samogitian meal to provide strength for the winter cold."
+          },
+          "stops": [
+            {
+              "name": "Bear Sculptures",
+              "tip_5lang": {
+                "de": "Suchen Sie nach den Bären mit Schals; Einheimische kleiden sie oft im Winter ein.",
+                "hu": "Keresse a sállal díszített medvéket; a helyiek télen gyakran felöltöztetik őket.",
+                "ro": "Căutați urșii cu fular; localnicii îi îmbracă adesea iarna.",
+                "en": "Look for the bears with scarves; locals often dress them up in winter."
+              }
+            },
+            {
+              "name": "Telšiai Yeshiva",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um sich zwischen den Außenbesichtigungen aufzuwärmen.",
+                "hu": "Meleg belső tér, ahol jól esik a pihenés a kinti séta közben.",
+                "ro": "Un loc cald pentru a vă încălzi între vizitele exterioare.",
+                "en": "A warm place to heat up between outdoor visits."
+              }
+            },
+            {
+              "name": "St. Anthony of Padua Cathedral",
+              "tip_5lang": {
+                "de": "Die Krypta ist im Winter oft kühler; halten Sie Ihren Mantel geschlossen.",
+                "hu": "A kripta télen hűvösebb lehet; tartsa magán a kabátját.",
+                "ro": "Cripta este adesea mai răcoroasă iarna; păstrați haina închisă.",
+                "en": "The crypt is often cooler in winter; keep your coat closed."
+              }
+            },
+            {
+              "name": "Samogitian Museum Alka",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe und genießen Sie die Wärme der Ausstellungsräume.",
+                "hu": "Használja a ruhatárat, és élvezze a kiállítótermek kellemes melegét.",
+                "ro": "Folosiți garderoba și bucurați-vă de căldura sălilor de expoziție.",
+                "en": "Use the cloakroom and enjoy the warmth of the exhibition rooms."
+              }
+            },
+            {
+              "name": "Mastis Lake Promenade",
+              "tip_5lang": {
+                "de": "Betreten Sie das Eis nicht, außer es gibt offizielle Freigaben.",
+                "hu": "Ne menjen rá a jégre, hacsak nincs hivatalosan engedélyezve.",
+                "ro": "Nu intrați pe gheață decât dacă există aprobări oficiale.",
+                "en": "Do not step on the ice unless there are official clearances."
+              }
+            },
+            {
+              "name": "Church of the Assumption of the Blessed Virgin Mary",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den Blick auf den winterlichen Kirchhof zu genießen.",
+                "hu": "Csendes hely, ahonnan szép kilátás nyílik a havas templomkertre.",
+                "ro": "Un loc liniștit pentru a admira curtea bisericii înzăpezită.",
+                "en": "A quiet place to enjoy the view of the wintry churchyard."
+              }
+            },
+            {
+              "name": "Džiugas Hill",
+              "tip_5lang": {
+                "de": "Früher Sonnenuntergang (ca. 16:00 Uhr); planen Sie den Aufstieg rechtzeitig.",
+                "hu": "Korai naplemente (kb. 16:00); tervezze a feljutást időben.",
+                "ro": "Apus devreme (aprox. 16:00); planificați urcarea la timp.",
+                "en": "Early sunset (approx. 16:00); plan your ascent in time."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermokleidung; die Winde vom See können extrem kalt sein.",
+              "Die Sonne geht im Dezember bereits gegen 15:45 Uhr unter.",
+              "Besuchen Sie das Käsehaus Džiugas für ein Käse-Degustationserlebnis im Warmen.",
+              "Achten Sie auf Glatteis auf den gepflasterten Hügeln der Stadt.",
+              "Kopfbedeckung und Handschuhe sind bei längeren Spaziergängen obligatorisch."
+            ],
+            "hu": [
+              "Viseljen termaruházatot; a tóról érkező szél metszően hideg lehet.",
+              "Decemberben a nap már délután 15:45 körül lemegy.",
+              "Látogasson el a Džiugas sajtházba egy meleg belső térben tartott kóstolóra.",
+              "Vigyázzon a jegesedésre a város macskaköves dombjain.",
+              "A sapka és kesztyű kötelező a hosszabb szabadtéri szakaszokhoz."
+            ],
+            "ro": [
+              "Purtați haine termice; vânturile de pe lac pot fi extrem de reci.",
+              "Soarele apune deja în jurul orei 15:45 în decembrie.",
+              "Vizitați Casa Brânzei Džiugas pentru o experiență de degustare la căldură.",
+              "Atenție la polei pe dealurile pavate ale orașului.",
+              "Căciula și mănușile sunt obligatorii pentru plimbări mai lungi."
+            ],
+            "en": [
+              "Wear thermal clothing; winds from the lake can be extremely cold.",
+              "The sun sets as early as 15:45 in December.",
+              "Visit the Džiugas Cheese House for a tasting experience in the warmth.",
+              "Watch out for black ice on the city's paved hills.",
+              "Headwear and gloves are mandatory for longer walks."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -698,6 +906,196 @@
           "Some routes can be hilly, so be prepared for some climbs.",
           "Take water and snacks for the longer rides."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen beginnt an der Mastis-See-Promenade, wo der Asphalt glänzt. Die Fahrt zum Alka-Museum ist kurz, aber erfrischend. Nutzen Sie die Zeit im Museum, um Ihre Ausrüstung zu trocknen.\n\nMittags radeln Sie zur Kathedrale. Die steilen Hügel von Telšiai erfordern bei Nässe Vorsicht. Die Jeschiwa und die Bärenskulpturen sind schnell erreicht, bieten aber interessante kulturelle Pausen zwischen den Regenschauern.\n\nDer Nachmittag führt zum Samogitischen Dorfmuseum. Die unbefestigten Wege können schlammig sein, was das Abenteuer verstärkt. Die alten Holzhäuser wirken im Regen besonders authentisch.\n\nZum Abschluss geht es zum Džiugas-Hügel. Der Aufstieg mit dem Rad ist bei Regen fordernd, aber der Blick auf die neblige Stadt belohnt die Mühe. Eine schnelle Abfahrt bringt Sie zurück in die warme Stadt.",
+            "hu": "Az esős biciklitúra a Mastis-tó sétányán indul, ahol a nedves aszfalt csillog a kerekek alatt. Az út az Alka Múzeumig rövid, de frissítő. Használja ki a múzeumi időt a ruházat szárítására.\n\nDélben a székesegyház felé tekerünk. Telšiai meredek dombjai óvatosságot igényelnek nedves időben. A Jesiva és a medveszobrok gyorsan elérhetők, remek kulturális szünetet kínálva a záporok között.\n\nDélután a Szamogit Falumúzeum következik. A földutak sárosak lehetnek, ami igazi kalanddá teszi a látogatást. A régi faházak esőben még hitelesebbnek tűnnek.\n\nVégül a Džiugas-domb a cél. A kerékpáros feljutás esőben kimerítő, de a ködös város látványa kárpótol. Egy gyors gurulás után vár a város melege.",
+            "ro": "O tură cu bicicleta prin ploaie începe pe promenada lacului Mastis, unde asfaltul strălucește. Drumul către Muzeul Alka este scurt, dar revigorant. Folosiți timpul de la muzeu pentru a vă usca echipamentul.\n\nLa prânz, pedalați spre Catedrală. Dealurile abrupte din Telšiai necesită prudență când sunt ude. Ieșiva și sculpturile cu urși sunt rapid accesibile, oferind pauze culturale interesante între reprizele de ploaie.\n\nDupă-amiaza duce la Muzeul Satului Samogitian. Potecile neasfaltate pot fi noroioase, ceea ce sporește aventura. Casele vechi din lemn par deosebit de autentice în ploaie.\n\nLa final, mergeți la dealul Džiugas. Urcarea cu bicicleta prin ploaie este solicitantă, dar vederea orașului cețos răsplătește efortul. O coborâre rapidă vă aduce înapoi în orașul cald.",
+            "en": "A bike tour in the rain starts at the Mastis Lake promenade, where the asphalt shines. The ride to the Alka Museum is short but refreshing. Use the museum time to dry your gear.\n\nAt noon, cycle to the Cathedral. Telšiai's steep hills require caution when wet. The Yeshiva and bear sculptures are quickly reached, offering interesting cultural breaks between rain showers.\n\nThe afternoon leads to the Samogitian Village Museum. Unpaved paths can be muddy, adding to the adventure. The old wooden houses look particularly authentic in the rain.\n\nFinally, head to Džiugas Hill. The climb by bike in the rain is demanding, but the view of the misty city rewards the effort. A quick descent brings you back to the warm city."
+          },
+          "stops": [
+            {
+              "name": "Mastis Lake Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht bei Pfützen; einige Abschnitte können Wasser sammeln.",
+                "hu": "Vigyázzon a tócsákra; egyes szakaszokon megállhat a víz a sétányon.",
+                "ro": "Atenție la bălți; unele secțiuni pot colecta apa.",
+                "en": "Watch out for puddles; some sections can collect water."
+              }
+            },
+            {
+              "name": "Samogitian Museum Alka",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradabstellplatz vorhanden; nutzen Sie die Pause zum Aufwärmen.",
+                "hu": "Biztonságos kerékpártároló elérhető; használja a szünetet melegedésre.",
+                "ro": "Parcare sigură pentru biciclete disponibilă; folosiți pauza pentru a vă încălzi.",
+                "en": "Safe bike parking available; use the break to warm up."
+              }
+            },
+            {
+              "name": "St. Anthony of Padua Cathedral",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Kopfsteinpflaster.",
+                "hu": "Legyen óvatos a leszálláskor a nedves macskaköveken.",
+                "ro": "Atenție la descălecare pe pavajul umed.",
+                "en": "Be careful when dismounting on wet cobblestones."
+              }
+            },
+            {
+              "name": "Bear Sculptures & Yeshiva",
+              "tip_5lang": {
+                "de": "Kurze Fahrwege im Zentrum machen den Regen erträglicher.",
+                "hu": "A központi rövid szakaszok elviselhetőbbé teszik az esőt.",
+                "ro": "Traseele scurte din centru fac ploaia mai suportabilă.",
+                "en": "Short riding distances in the center make the rain more bearable."
+              }
+            },
+            {
+              "name": "Samogitian Village Museum",
+              "tip_5lang": {
+                "de": "Schlammige Wege; breitere Reifen sind hier von Vorteil.",
+                "hu": "Sáros utak; a szélesebb gumik itt előnyt jelentenek.",
+                "ro": "Drumuri noroioase; anvelopele mai late sunt un avantaj aici.",
+                "en": "Muddy paths; wider tires are an advantage here."
+              }
+            },
+            {
+              "name": "Džiugas Hill",
+              "tip_5lang": {
+                "de": "Anstrengender Anstieg; nutzen Sie niedrigere Gänge bei rutschigem Grund.",
+                "hu": "Fárasztó emelkedő; használjon alacsonyabb fokozatot a csúszós talajon.",
+                "ro": "Urcare obositoare; folosiți viteze inferioare pe teren alunecos.",
+                "en": "Tiring climb; use lower gears on slippery ground."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Regen in Telšiai aufgrund des hügeligen Geländes ein Muss.",
+              "Vermeiden Sie starkes Bremsen auf nassem Kopfsteinpflaster im Zentrum.",
+              "Tragen Sie eine auffällige Regenjacke, da die Sichtbarkeit bei Regen sinkt.",
+              "Die Wege am Samogitischen Dorfmuseum können sehr rutschig werden.",
+              "Prüfen Sie Ihre Bremsen vor der Fahrt, da die Hügel steil sind."
+            ],
+            "hu": [
+              "A sárvédő kötelező az esős Telšiaiban a dombos terep miatt.",
+              "Kerülje az erős fékezést a belvárosi nedves macskaköveken.",
+              "Viseljen feltűnő esőkabátot, mert esőben jelentősen romlik a láthatóság.",
+              "A Falumúzeum körüli utak nagyon csúszóssá válhatnak.",
+              "Ellenőrizze a fékeket indulás előtt, mert a dombok meredekek."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii în Telšiai pe ploaie din cauza terenului deluros.",
+              "Evitați frânarea bruscă pe pavajul umed din centru.",
+              "Purtați o jachetă de ploaie reflectorizantă, deoarece vizibilitatea scade pe ploaie.",
+              "Drumurile de la Muzeul Satului pot deveni foarte alunecoase.",
+              "Verificați frânele înainte de drum, deoarece dealurile sunt abrupte."
+            ],
+            "en": [
+              "Mudguards are a must in rainy Telšiai due to the hilly terrain.",
+              "Avoid hard braking on wet cobblestones in the center.",
+              "Wear a bright raincoat as visibility drops in the rain.",
+              "Paths at the Village Museum can become very slippery.",
+              "Check your brakes before the ride as the hills are steep."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Telšiai erfordert Mut und warme Kleidung. Starten Sie an der Mastis-Promenade, wo der See oft schneebedeckt ist. Die Fahrt zum Alka-Museum ist kurz, um die Kältephasen gering zu halten.\n\nMittags geht es zur Kathedrale. Achten Sie auf vereiste Stellen auf dem Kopfsteinpflaster. Die Bärenskulpturen im Zentrum sind ein schneller Stopp für Fotos, bevor Sie sich in der Jeschiwa kurz aufwärmen.\n\nDer Nachmittag führt zum Samogitischen Dorfmuseum. Die schneebedeckten historischen Gebäude bieten eine märchenhafte Kulisse, erfordern aber sicheres Fahren auf festgefahrenem Schnee.\n\nDer Tag endet am Džiugas-Hügel. Der Aufstieg im Schnee ist eine sportliche Herausforderung. Genießen Sie den Panoramablick über das weiße Telšiai und radeln Sie zügig zurück, bevor die Temperaturen nach Sonnenuntergang stark fallen.",
+            "hu": "A téli kerékpározás Telšiaiban bátorságot és meleg ruhát igényel. Kezdjen a Mastis sétányon, ahol a tó gyakran hóval borított. Az út az Alka Múzeumig rövid, így minimalizálható a hidegben töltött idő.\n\nDélben a székesegyházhoz tekerünk. Figyeljen a jeges foltokra a macskaköveken. A központi medveszobrok egy gyors fotóra hívnak, mielőtt a Jesiva épületében kicsit átmelegedne.\n\nDélután a Falumúzeum következik. A havas történelmi épületek mesebeli látványt nyújtanak, de a letaposott havon óvatos vezetést igényelnek.\n\nA nap a Džiugas-dombon zárul. A havas emelkedő komoly sportteljesítmény. Élvezze a panorámát a fehér Telšiaira, majd tekerjen vissza gyorsan, mielőtt a hőmérséklet drasztikusan visszaesik naplemente után.",
+            "ro": "Ciclismul de iarnă în Telšiai necesită curaj și haine groase. Începeți pe promenada Mastis, unde lacul este adesea acoperit de zăpadă. Drumul către Muzeul Alka este scurt, pentru a menține fazele de frig la minimum.\n\nLa prânz, mergeți spre Catedrală. Atenție la porțiunile înghețate de pe pavaj. Sculpturile cu urși din centru sunt o oprire rapidă pentru poze înainte de a vă încălzi puțin în Ieșiva.\n\nDupă-amiaza duce la Muzeul Satului Samogitian. Clădirile istorice înzăpezite oferă un cadru de basm, dar necesită o conducere sigură pe zăpadă bătătorită.\n\nZiua se încheie la dealul Džiugas. Urcarea prin zăpadă este o provocare sportivă. Bucurați-vă de panorama peste Telšiai alb și pedalați rapid înapoi înainte ca temperaturile să scadă brusc după apus.",
+            "en": "Winter cycling in Telšiai requires courage and warm clothing. Start at the Mastis promenade, where the lake is often snow-covered. The ride to the Alka Museum is short to keep cold phases minimal.\n\nAt noon, head to the Cathedral. Watch out for icy patches on the cobblestones. The bear sculptures in the center are a quick stop for photos before warming up briefly in the Yeshiva.\n\nThe afternoon leads to the Samogitian Village Museum. The snow-covered historical buildings offer a fairytale backdrop but require safe riding on packed snow.\n\nThe day ends at Džiugas Hill. The climb in the snow is a sporting challenge. Enjoy the panorama over white Telšiai and cycle back quickly before temperatures drop sharply after sunset."
+          },
+          "stops": [
+            {
+              "name": "Mastis Lake Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Spritzwasser auf dem Weg.",
+                "hu": "Vigyázzon a sétányra ráfagyott vízfoltokkal.",
+                "ro": "Atenție la stropii de apă înghețați de pe drum.",
+                "en": "Watch out for frozen spray on the path."
+              }
+            },
+            {
+              "name": "Samogitian Museum Alka",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad so ab, dass das Schloss nicht einfriert.",
+                "hu": "Úgy parkoljon, hogy a kerékpárzár ne fagyjon be.",
+                "ro": "Parcați bicicleta astfel încât încuietoarea să nu înghețe.",
+                "en": "Park your bike so the lock doesn't freeze."
+              }
+            },
+            {
+              "name": "St. Anthony of Padua Cathedral",
+              "tip_5lang": {
+                "de": "Die Rampe zur Kathedrale kann bei Frost sehr glatt sein.",
+                "hu": "A katedrálishoz vezető rámpa fagyban nagyon csúszós lehet.",
+                "ro": "Rampa către catedrală poate fi foarte alunecoasă în caz de îngheț.",
+                "en": "The ramp to the Cathedral can be very slippery during frost."
+              }
+            },
+            {
+              "name": "Bear Sculptures & Yeshiva",
+              "tip_5lang": {
+                "de": "Kurze Fahrzeit im Zentrum minimiert den Windchill-Effekt.",
+                "hu": "A rövid belvárosi távok csökkentik a szél hűtő hatását.",
+                "ro": "Timpul scurt de condus în centru minimizează efectul vântului rece.",
+                "en": "Short riding time in the center minimizes the wind chill effect."
+              }
+            },
+            {
+              "name": "Samogitian Village Museum",
+              "tip_5lang": {
+                "de": "Fahren Sie nur auf den geräumten Wegen zwischen den Häusern.",
+                "hu": "Csak a házak közötti megtisztított utakon közlekedjen.",
+                "ro": "Conduceți doar pe drumurile curățate dintre case.",
+                "en": "Ride only on the cleared paths between the houses."
+              }
+            },
+            {
+              "name": "Džiugas Hill",
+              "tip_5lang": {
+                "de": "Der Boden kann unter dem Schnee gefroren sein; extreme Vorsicht.",
+                "hu": "A hó alatt fagyott lehet a talaj; legyen rendkívül óvatos.",
+                "ro": "Terenul poate fi înghețat sub zăpadă; prudență extremă.",
+                "en": "The ground may be frozen under the snow; extreme caution."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Reifen mit gutem Profil oder Spikes für die Hügel von Telšiai.",
+              "Halten Sie die Kette gut geölt, um Salzkorrosion zu vermeiden.",
+              "Die Dämmerung setzt früh ein; prüfen Sie Ihre Fahrradbeleuchtung.",
+              "Trinken Sie zwischendurch warme Getränke, um die Körpertemperatur zu halten.",
+              "Tragen Sie geschichtete Kleidung, um Schweißbildung beim Bergauffahren zu managen."
+            ],
+            "hu": [
+              "Használjon jó profilú vagy szöges gumikat a telšiaii dombokhoz.",
+              "Tartsa a láncot jól olajozottan a só okozta korrózió elkerülésére.",
+              "A szürkület korán érkezik; ellenőrizze a kerékpár lámpáit.",
+              "Igyon forró italokat a testhőmérséklet fenntartása érdekében.",
+              "Öltözzön rétegesen, hogy kezelni tudja az izzadást az emelkedőkön."
+            ],
+            "ro": [
+              "Folosiți anvelope cu profil bun sau cu ținte pentru dealurile din Telšiai.",
+              "Păstrați lanțul bine uns pentru a evita coroziunea cauzată de sare.",
+              "Amurgul se lasă devreme; verificați luminile bicicletei.",
+              "Beți băuturi calde între timp pentru a menține temperatura corpului.",
+              "Purtați haine în straturi pentru a gestiona transpirația la urcare."
+            ],
+            "en": [
+              "Use tires with good tread or spikes for the hills of Telšiai.",
+              "Keep the chain well-oiled to avoid salt corrosion.",
+              "Twilight sets in early; check your bike lights.",
+              "Drink warm beverages in between to maintain body temperature.",
+              "Wear layered clothing to manage sweat while riding uphill."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1038,6 +1436,214 @@
           "Have some small change ready for parking meters.",
           "Plan your clusters to minimize driving back and forth."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag mit dem Auto beginnt am Samogitischen Dorfmuseum. Die Anfahrt ist bequem, und Sie können nahe am Eingang parken. Die historischen Gebäude bieten Schutz, während Sie zwischen den Ausstellungen wechseln.\n\nMittags fahren Sie zur Promenade des Mastis-Sees. Vom Auto aus haben Sie einen schönen Blick auf das Wasser, bevor Sie einen kurzen, regengeschützten Spaziergang machen. Danach geht es zum Alka-Museum, wo das Parken direkt vor der Tür den Regen fast vergessen macht.\n\nDer Nachmittag ist für das Stadtzentrum reserviert. Nach dem Parken erreichen Sie die Kathedrale, die Jeschiwa und die Bärenskulpturen innerhalb weniger Gehminuten. Die kurzen Wege minimieren den Kontakt mit dem Regen.\n\nDer Tag endet am Džiugas-Hügel. Sie können fast bis zum Gipfel fahren und die neblige Aussicht aus der Wärme des Autos genießen, bevor Sie den Hügel kurz zu Fuß erklimmen. Ein perfekter Abschluss für einen komfortablen Tag.",
+            "hu": "Az esős nap az autóval a Szamogit Falumúzeumnál indul. A megközelítés kényelmes, parkolni közvetlenül a bejáratnál lehet. A történelmi épületek között gyorsan mozoghatunk a kiállítások során.\n\nDélben a Mastis-tó sétányához hajtunk. Az autóból is szép kilátás nyílik a vízre, mielőtt tennénk egy rövid, esernyős sétát. Ezután az Alka Múzeum következik, ahol a közeli parkolás miatt szinte észre sem vesszük az esőt.\n\nDélután a belvárosé a főszerep. A központi parkolóból a székesegyház, a Jesiva és a medveszobrok mindössze pár perc sétára vannak. A rövid távok miatt alig érintkezünk a csapadékkal.\n\nA nap a Džiugas-dombon zárul. Autóval szinte a domb aljáig mehetünk, így a ködös panorámát akár a kocsiból is élvezhetjük, mielőtt rövid sétát tennénk a csúcson. Kényelmes befejezése a napnak.",
+            "ro": "O zi ploioasă cu mașina începe la Muzeul Satului Samogitian. Accesul este confortabil și puteți parca aproape de intrare. Clădirile istorice oferă adăpost în timp ce schimbați expozițiile.\n\nLa prânz, conduceți către promenada lacului Mastis. Din mașină aveți o vedere frumoasă asupra apei înainte de a face o scurtă plimbare protejată de ploaie. Apoi mergeți la Muzeul Alka, unde parcarea chiar în față vă face să uitați aproape de ploaie.\n\nDupă-amiaza este rezervată centrului orașului. După parcare, ajungeți la Catedrală, Ieșiva și sculpturile cu urși în câteva minute de mers pe jos. Traseele scurte minimizează contactul cu ploaia.\n\nZiua se încheie la dealul Džiugas. Puteți conduce aproape până la vârf și puteți savura vederea cețoasă din căldura mașinii înainte de a urca scurt pe deal pe jos. Un final perfect pentru o zi confortabilă.",
+            "en": "A rainy day by car starts at the Samogitian Village Museum. The drive is comfortable, and you can park close to the entrance. The historical buildings provide shelter while you switch between exhibits.\n\nAt noon, drive to the Mastis Lake promenade. From the car, you have a nice view of the water before taking a short, rain-protected walk. Then head to the Alka Museum, where parking right at the door makes you almost forget the rain.\n\nThe afternoon is reserved for the city center. After parking, you can reach the Cathedral, Yeshiva, and bear sculptures within a few minutes' walk. Short distances minimize contact with the rain.\n\nThe day ends at Džiugas Hill. You can drive almost to the top and enjoy the misty view from the warmth of the car before briefly climbing the hill on foot. A perfect conclusion for a comfortable day."
+          },
+          "stops": [
+            {
+              "name": "Samogitian Village Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz am Haupteingang für kurze Wege.",
+                "hu": "Használja a főbejárat melletti parkolót a rövid gyalogút érdekében.",
+                "ro": "Folosiți parcarea de la intrarea principală pentru trasee scurte.",
+                "en": "Use the parking lot at the main entrance for short distances."
+              }
+            },
+            {
+              "name": "Mastis Lake Promenade",
+              "tip_5lang": {
+                "de": "Parken Sie an der Uferstraße für einen Blick auf den See im Trockenen.",
+                "hu": "Parkoljon a tóparti úton, ha szárazon szeretné élvezni a kilátást.",
+                "ro": "Parcați pe drumul de pe mal pentru o vedere asupra lacului la uscat.",
+                "en": "Park on the shore road for a view of the lake while staying dry."
+              }
+            },
+            {
+              "name": "Samogitian Museum Alka",
+              "tip_5lang": {
+                "de": "Kleiner Parkplatz direkt am Museum; ideal bei Starkregen.",
+                "hu": "Kis parkoló közvetlenül a múzeumnál; ideális szakadó esőben.",
+                "ro": "Parcare mică direct la muzeu; ideală în caz de ploaie puternică.",
+                "en": "Small parking lot directly at the museum; ideal during heavy rain."
+              }
+            },
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Zentraler Ausgangspunkt für alle Sehenswürdigkeiten im Stadtkern.",
+                "hu": "Központi kiindulópont a belvárosi látnivalók eléréséhez.",
+                "ro": "Punct de plecare central pentru toate atracțiile din nucleul orașului.",
+                "en": "Central starting point for all attractions in the city core."
+              }
+            },
+            {
+              "name": "St. Anthony of Padua Cathedral",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg vom zentralen Parkplatz entfernt.",
+                "hu": "Csak 2 perc gyalogút a központi parkolótól.",
+                "ro": "La doar 2 minute de mers pe jos de parcarea centrală.",
+                "en": "Only a 2-minute walk from the central parking lot."
+              }
+            },
+            {
+              "name": "Bear Sculptures & Yeshiva",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Skulpturen zwischen den Regenschauern.",
+                "hu": "Látogassa meg a szobrokat a záporok közötti szünetekben.",
+                "ro": "Vizitați sculpturile între reprizele de ploaie.",
+                "en": "Visit the sculptures between the rain showers."
+              }
+            },
+            {
+              "name": "Džiugas Hill",
+              "tip_5lang": {
+                "de": "Parkmöglichkeit nah am Hügel; genießen Sie die Aussicht.",
+                "hu": "Parkolási lehetőség a domb közelében; élvezze a panorámát.",
+                "ro": "Posibilitate de parcare aproape de deal; bucurați-vă de vedere.",
+                "en": "Parking possibility near the hill; enjoy the view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze nahe der Museen, um Schirme seltener zu nutzen.",
+              "Vermeiden Sie das Fahren in engen Gassen bei starkem Regen; Aquaplaning-Gefahr.",
+              "Die Uferstraße am Mastis-See bietet Parkbuchten mit toller Aussicht.",
+              "Lassen Sie feuchte Kleidung im Kofferraum, um das Beschlagen der Scheiben zu vermeiden.",
+              "Einige Parkplätze im Zentrum sind an Wochentagen gebührenpflichtig."
+            ],
+            "hu": [
+              "Parkoljon a múzeumokhoz közel, hogy kevesebbet kelljen esernyőt használnia.",
+              "Kerülje a szűk utcákat nagy esőben; fennáll a vízenfutás (aquaplaning) veszélye.",
+              "A Mastis-tó partján több parkolóhely is remek kilátást nyújt.",
+              "A nedves ruhákat tegye a csomagtartóba, hogy elkerülje az ablakok párásodását.",
+              "Néhány belvárosi parkoló hétköznap fizetős lehet."
+            ],
+            "ro": [
+              "Folosiți parcările de lângă muzee pentru a folosi umbrela mai rar.",
+              "Evitați condusul pe străzile înguste în timpul ploii abundente; risc de acvaplanare.",
+              "Drumul de pe malul lacului Mastis oferă locuri de parcare cu vedere excelentă.",
+              "Lăsați hainele umede în portbagaj pentru a evita aburirea geamurilor.",
+              "Unele parcări din centru sunt cu plată în zilele lucrătoare."
+            ],
+            "en": [
+              "Use parking lots near museums to use umbrellas less frequently.",
+              "Avoid driving in narrow alleys during heavy rain; risk of aquaplaning.",
+              "The shore road at Lake Mastis offers parking bays with great views.",
+              "Leave damp clothes in the trunk to avoid windows fogging up.",
+              "Some parking lots in the center are paid on weekdays."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit dem Auto in Telšiai ist komfortabel und warm. Beginnen Sie am Samogitischen Dorfmuseum, wo der Schnee die alten Höfe in eine stille Märchenlandschaft verwandelt. Die kurzen Wege vom Parkplatz zu den Häusern sind ideal bei Kälte.\n\nMittags fahren Sie zur See-Promenade. Genießen Sie den Blick auf den vereisten Mastis-See aus der Wärme Ihres Fahrzeugs. Danach geht es zum Alka-Museum, wo Sie direkt vor dem Eingang parken können, um die winterliche Kälte zu meiden.\n\nDer Nachmittag gehört dem Zentrum. Nach dem Abstellen des Autos auf dem zentralen Parkplatz sind die Kathedrale und die Bärenskulpturen schnell erreicht. In der Jeschiwa können Sie sich aufwärmen, bevor Sie die nächste kurze Etappe antreten.\n\nZum Sonnenuntergang fahren Sie zum Džiugas-Hügel. Der Blick auf das erleuchtete, verschneite Telšiai aus dem Auto ist spektakulär. Ein kurzer Gang zum Gipfel rundet den Tag ab, bevor Sie in ein warmes Restaurant in der Innenstadt fahren.",
+            "hu": "Az autóval tett téli túra Telšiaiban kényelmes és meleg. Kezdjen a Falumúzeumban, ahol a hó csendes mesevilággá változtatja a régi udvarokat. A parkolóból a házakig vezető rövid út ideális fagyos időben.\n\nDélben hajtson a tóparti sétányhoz. Élvezze a befagyott Mastis-tó látványát a fűtött utastérből. Ezután az Alka Múzeum következik, ahol közvetlenül a bejáratnál parkolhat, elkerülve a jeges szelet.\n\nDélután a belváros látnivalóit keressük fel. A központi parkolóból a székesegyház és a medveszobrok gyorsan elérhetők. A Jesiva épületében felmelegedhet a következő rövid szakasz előtt.\n\nNaplementekor hajtson a Džiugas-dombhoz. A havas, kivilágított Telšiai látványa az autóból is lenyűgöző. Egy rövid séta a csúcsra megkoronázza a napot, mielőtt egy hangulatos, meleg belvárosi étterembe indulna.",
+            "ro": "O zi de iarnă cu mașina în Telšiai este confortabilă și caldă. Începeți la Muzeul Satului Samogitian, unde zăpada transformă curțile vechi într-un peisaj de basm tăcut. Traseele scurte de la parcare la case sunt ideale pe timp de frig.\n\nLa prânz, conduceți către promenada lacului. Bucurați-vă de vederea lacului Mastis înghețat din căldura vehiculului dumneavoastră. Apoi mergeți la Muzeul Alka, unde puteți parca direct în fața intrării pentru a evita frigul iernii.\n\nDupă-amiaza aparține centrului. După lăsarea mașinii în parcarea centrală, Catedrala și sculpturile cu urși sunt rapid accesibile. În Ieșiva vă puteți încălzi înainte de a începe următoarea etapă scurtă.\n\nLa apus, conduceți către dealul Džiugas. Vederea asupra orașului Telšiai înzăpezit și iluminat din mașină este spectaculoasă. O scurtă plimbare până la vârf completează ziua înainte de a merge la un restaurant cald din centrul orașului.",
+            "en": "A winter day by car in Telšiai is comfortable and warm. Start at the Samogitian Village Museum, where the snow transforms the old farmsteads into a quiet fairytale landscape. The short distances from the parking lot to the houses are ideal in the cold.\n\nAt noon, drive to the lake promenade. Enjoy the view of the frozen Mastis Lake from the warmth of your vehicle. Then head to the Alka Museum, where you can park directly in front of the entrance to avoid the winter cold.\n\nThe afternoon belongs to the center. After leaving the car in the central parking lot, the Cathedral and bear sculptures are quickly reached. In the Yeshiva, you can warm up before starting the next short stage.\n\nAt sunset, drive to Džiugas Hill. The view of the illuminated, snowy Telšiai from the car is spectacular. A short walk to the top rounds off the day before driving to a warm restaurant downtown."
+          },
+          "stops": [
+            {
+              "name": "Samogitian Village Museum",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Zufahrt; die Nebenstraßen können glatt sein.",
+                "hu": "Vigyázzon a behajtáskor; a mellékutcák jegesek lehetnek.",
+                "ro": "Atenție la acces; străzile secundare pot fi alunecoase.",
+                "en": "Caution during access; side roads can be slippery."
+              }
+            },
+            {
+              "name": "Mastis Lake Promenade",
+              "tip_5lang": {
+                "de": "Bester Platz für Fotos vom See, ohne das warme Auto zu verlassen.",
+                "hu": "A legjobb hely a tó fotózására anélkül, hogy elhagyná a meleg autót.",
+                "ro": "Cel mai bun loc pentru fotografii cu lacul fără a părăsi mașina caldă.",
+                "en": "Best spot for photos of the lake without leaving the warm car."
+              }
+            },
+            {
+              "name": "Samogitian Museum Alka",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird meist vorrangig geräumt.",
+                "hu": "A múzeum parkolóját általában elsők között takarítják le.",
+                "ro": "Parcarea este de obicei curățată cu prioritate.",
+                "en": "The parking lot is usually cleared as a priority."
+              }
+            },
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Nutzen Sie Park-Apps, um Kälte am Automaten zu vermeiden.",
+                "hu": "Használjon parkolási applikációt, hogy ne kelljen a hidegben automatánál fizetni.",
+                "ro": "Folosiți aplicații de parcare pentru a evita frigul la automat.",
+                "en": "Use parking apps to avoid the cold at the payment machine."
+              }
+            },
+            {
+              "name": "St. Anthony of Padua Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg; tragen Sie Schuhe mit gutem Profil.",
+                "hu": "Rövid gyalogút; viseljen jó profilú talpú cipőt.",
+                "ro": "Mers scurt pe jos; purtați încălțăminte cu profil bun.",
+                "en": "Short walk; wear shoes with good tread."
+              }
+            },
+            {
+              "name": "Bear Sculptures & Yeshiva",
+              "tip_5lang": {
+                "de": "Die Skulpturen tragen im Winter oft Schnee; tolles Motiv.",
+                "hu": "A szobrokon télen gyakran megmarad a hó; remek fotótéma.",
+                "ro": "Sculpturile poartă adesea zăpadă iarna; motiv excelent.",
+                "en": "The sculptures often carry snow in winter; great motif."
+              }
+            },
+            {
+              "name": "Džiugas Hill",
+              "tip_5lang": {
+                "de": "Die Straße zum Hügel kann steil und rutschig sein.",
+                "hu": "A dombhoz vezető út meredek és csúszós lehet.",
+                "ro": "Drumul către deal poate fi abrupt și alunecos.",
+                "en": "The road to the hill can be steep and slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Fahrzeug wintertauglich ist (Winterreifen sind Pflicht).",
+              "Führen Sie einen Eiskratzer und Handbesen für den Parkplatz-Aufenthalt mit.",
+              "Vermeiden Sie das Parken an extrem steilen Hügeln bei Eisregen.",
+              "Nutzen Sie die Sitzheizung zwischen den Museumsbesuchen.",
+              "Einige Straßen in Telšiai haben im Winter Einbahnstraßenregelungen zur Schneeräumung."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy autója fel van készítve a télre (téli gumi kötelező).",
+              "Legyen a kocsiban jégkaparó és kefe a parkolások idejére.",
+              "Kerülje a parkolást a meredek dombokon ónos eső esetén.",
+              "Használja az ülésfűtést a múzeumlátogatások között.",
+              "Néhány utcában télen ideiglenes forgalmi rend lehet a hóeltakarítás miatt."
+            ],
+            "ro": [
+              "Asigurați-vă că vehiculul este pregătit pentru iarnă (anvelopele de iarnă sunt obligatorii).",
+              "Aveți la îndemână o racletă și o perie pentru perioadele de parcare.",
+              "Evitați parcarea pe dealurile extrem de abrupte în caz de polei.",
+              "Folosiți încălzirea în scaune între vizitele la muzee.",
+              "Unele străzi din Telšiai au reglementări de sens unic iarna pentru deszăpezire."
+            ],
+            "en": [
+              "Ensure your vehicle is winter-ready (winter tires are mandatory).",
+              "Carry an ice scraper and brush for during parking stays.",
+              "Avoid parking on extremely steep hills during freezing rain.",
+              "Use the seat heating between museum visits.",
+              "Some roads in Telšiai have one-way regulations in winter for snow removal."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1338,6 +1944,196 @@
           "Validate your ticket each time you ride.",
           "Keep an eye on the time for the last bus back to the center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag mit öffentlichen Verkehrsmitteln beginnt am zentralen Busbahnhof. Von hier aus bringt Sie ein kurzer Weg zur Kathedrale. Die Jeschiwa ist nur einen kurzen, regnerischen Spaziergang entfernt und bietet einen trockenen Ort für kulturelle Erkundungen.\n\nMittags nutzen Sie den Bus zur Haltestelle am See. Von dort ist es nur ein kurzer Weg zum Alka-Museum, wo Sie den restlichen Vormittag und frühen Nachmittag im Trockenen verbringen können. Die Wartezeiten an den Haltestellen sind meist kurz.\n\nAm Nachmittag spazieren Sie entlang der Promenade, wenn der Regen nachlässt. Die Busverbindungen zurück ins Zentrum sind zuverlässig und ersparen Ihnen lange Fußwege durch den Regen. Die Marienkirche bietet einen letzten trockenen Stopp.\n\nDer Tag endet in der Nähe des Busbahnhofs, wo Sie in einem Café den Tag Revue passieren lassen können. Der Džiugas-Hügel ist bei starkem Regen mit dem Transit schwerer zu erreichen, daher konzentriert sich die Route auf die gut vernetzten Highlights im Stadtkern.",
+            "hu": "Az esős nap tömegközlekedéssel a központi buszpályaudvaron indul. Innen rövid út vezet a székesegyházhoz. A Jesiva épülete pár perces esernyős sétával elérhető, száraz és tartalmas délelőtti programot kínálva.\n\nDélben busszal utazunk a tóparti megállóig. Onnan csak pár lépés az Alka Múzeum, ahol a délután első felét fedett helyen tölthetjük. A buszok várakozási ideje általában rövid, a megállók többsége fedett.\n\nDélután a sétány következik, amikor csendesedik az eső. A központba visszatérő buszjáratok megbízhatóak, megkímélnek a hosszú esős gyaloglástól. A Szűz Mária templom egy utolsó fedett megállót kínál.\n\nA nap a pályaudvar közelében zárul, ahol egy kávézóban pihenhetünk meg. A Džiugas-domb nagy esőben nehezebben érhető el tömegközlekedéssel, így a túra a jól megközelíthető belvárosi helyszínekre fókuszál.",
+            "ro": "O zi ploioasă cu transportul public începe la autogara centrală. De aici, un drum scurt vă duce la Catedrală. Ieșiva este la doar o scurtă plimbare prin ploaie, oferind un loc uscat pentru explorări culturale.\n\nLa prânz, folosiți autobuzul către stația de lângă lac. De acolo este doar un drum scurt până la Muzeul Alka, unde puteți petrece restul dimineții și începutul după-amiezii la uscat. Timpii de așteptare în stații sunt de obicei scurți.\n\nDupă-amiaza, plimbați-vă de-a lungul promenadei când ploaia se domolește. Conexiunile de autobuz înapoi spre centru sunt de încredere și vă scutesc de plimbări lungi prin ploaie. Biserica Adormirea Maicii Domnului oferă o ultimă oprire uscată.\n\nZiua se încheie lângă autogară, unde puteți reflecta asupra zilei într-o cafenea. Dealul Džiugas este mai greu de accesat cu transportul public pe ploaie abundentă, așa că ruta se concentrează pe punctele forte bine conectate din nucleul orașului.",
+            "en": "A rainy day by public transit starts at the central bus station. From here, a short distance takes you to the Cathedral. The Yeshiva is just a short, rainy walk away, offering a dry spot for cultural exploration.\n\nAt noon, use the bus to the lakeside stop. From there, it's just a short distance to the Alka Museum, where you can spend the rest of the morning and early afternoon in the dry. Waiting times at the stops are usually short.\n\nIn the afternoon, stroll along the promenade when the rain subsides. Bus connections back to the center are reliable and save you from long walks in the rain. The Church of the Assumption offers a final dry stop.\n\nThe day ends near the bus station where you can review the day in a café. Džiugas Hill is harder to reach by transit in heavy rain, so the route focuses on the well-connected highlights in the city core."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Station",
+              "tip_5lang": {
+                "de": "Großer Wartebereich im Inneren; perfekt zum Planen der Route.",
+                "hu": "Tágas belső váróterem; tökéletes az útvonal megtervezéséhez.",
+                "ro": "Zonă mare de așteptare în interior; perfectă pentru planificarea rutei.",
+                "en": "Large waiting area inside; perfect for planning your route."
+              }
+            },
+            {
+              "name": "St. Anthony of Padua Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Bushaltestelle im Zentrum.",
+                "hu": "Rövid gyalogút a belvárosi buszmegállótól.",
+                "ro": "Drum scurt de la stația de autobuz din centru.",
+                "en": "Short walk from the central bus stop."
+              }
+            },
+            {
+              "name": "Telšiai Yeshiva",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Transit, um die Hügel bei Regen zu überbrücken.",
+                "hu": "Használja a buszt, hogy elkerülje a dombra mászást esőben.",
+                "ro": "Folosiți transportul pentru a traversa dealurile pe ploaie.",
+                "en": "Use transit to bridge the hills during rain."
+              }
+            },
+            {
+              "name": "Lakeside Bus Stop",
+              "tip_5lang": {
+                "de": "Überdachte Haltestelle; ideal zum Warten auf den Rückbus.",
+                "hu": "Fedett buszmegálló; ideális a visszatérő járatra váráshoz.",
+                "ro": "Stație acoperită; ideală pentru așteptarea autobuzului de întoarcere.",
+                "en": "Covered bus stop; ideal for waiting for the return bus."
+              }
+            },
+            {
+              "name": "Samogitian Museum Alka",
+              "tip_5lang": {
+                "de": "Nur 300m Fußweg von der Haltestelle entfernt.",
+                "hu": "Csak 300 méter gyalogút a megállótól.",
+                "ro": "La doar 300 m de mers pe jos de stație.",
+                "en": "Only 300m walk from the bus stop."
+              }
+            },
+            {
+              "name": "Mastis Lake Promenade",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet Schutz, falls der Regen plötzlich zunimmt.",
+                "hu": "A buszmegálló menedéket nyújt, ha hirtelen eleredne az eső.",
+                "ro": "Stația de autobuz oferă adăpost dacă ploaia se intensifică brusc.",
+                "en": "The bus stop provides shelter if the rain suddenly increases."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten beim Fahrer oder nutzen Sie lokale Bezahl-Apps.",
+              "Die meisten Haltestellen im Zentrum von Telšiai sind überdacht.",
+              "Die Linien 1 und 3 verbinden die wichtigsten Punkte am See und im Zentrum.",
+              "Behalten Sie den Fahrplan im Auge, da die Frequenz am Wochenende sinkt.",
+              "Einige Busse haben Platz für nasse Regenschirme an den Einstiegen."
+            ],
+            "hu": [
+              "Vásároljon jegyet a sofőrnél vagy használja a helyi mobilalkalmazást.",
+              "A legtöbb belvárosi buszmegálló fedett Telšiaiban.",
+              "Az 1-es és 3-as vonalak kötik össze a tópartot és a központot.",
+              "Figyelje a menetrendet, mert hétvégén ritkábban járnak a buszok.",
+              "Néhány buszon külön hely van a vizes esernyőknek a bejáratnál."
+            ],
+            "ro": [
+              "Cumpărați bilete de la șofer sau folosiți aplicații locale de plată.",
+              "Majoritatea stațiilor din centrul orașului Telšiai sunt acoperite.",
+              "Liniile 1 și 3 conectează punctele principale de pe lac și din centru.",
+              "Monitorizați programul, deoarece frecvența scade în weekend.",
+              "Unele autobuze au spațiu pentru umbrele ude la intrare."
+            ],
+            "en": [
+              "Buy tickets from the driver or use local payment apps.",
+              "Most bus stops in the center of Telšiai are covered.",
+              "Lines 1 and 3 connect the main points on the lake and in the center.",
+              "Keep an eye on the schedule as frequency drops on weekends.",
+              "Some buses have space for wet umbrellas at the entrances."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit dem Transit beginnt am warmen Busbahnhof. Die kurzen Fahrten zwischen den historischen Highlights im Zentrum minimieren die Zeit in der klirrenden Kälte. Die Kathedrale und die Jeschiwa sind so auch bei Minusgraden gut erreichbar.\n\nMittags bringt Sie der Bus direkt zum verschneiten Ufer des Mastis-Sees. Das Alka-Museum ist von der Haltestelle aus schnell erreicht und bietet stundenlange Wärme inmitten samogitischer Kulturschätze. Die Busse sind im Winter meist gut beheizt.\n\nAm Nachmittag genießen Sie die winterliche Promenade. Da die Tage kurz sind, bietet der Transit eine sichere und warme Möglichkeit, schnell zwischen den beleuchteten Sehenswürdigkeiten zu wechseln. Die Marienkirche ist ein weiterer gemütlicher Stopp.\n\nDer Tag endet mit der Rückfahrt zum Busbahnhof. Die winterliche Atmosphäre von Telšiai lässt sich am besten genießen, wenn man weiß, dass der nächste warme Bus nicht weit ist. Beenden Sie die Tour in einem der traditionellen Gasthäuser nahe der Hauptverkehrsachsen.",
+            "hu": "A téli nap tömegközlekedéssel a fűtött buszpályaudvaron indul. A belvárosi látnivalók közötti rövid buszutak minimalizálják a metsző hidegben töltött időt. A székesegyház és a Jesiva így még kemény mínuszokban is kényelmesen felkereshető.\n\nDélben a busz közvetlenül a Mastis-tó havas partjához visz. Az Alka Múzeum gyorsan elérhető a megállótól, órákig tartó melegséget kínálva a szamogit kincsek között. A buszok télen általában jól fűtöttek.\n\nDélután a téli sétányt csodálhatjuk meg. Mivel a nappalok rövidek, a tömegközlekedés biztonságos és meleg módot kínál a kivilágított látnivalók közötti mozgáshoz. A Szűz Mária templom egy újabb barátságos állomás.\n\nA nap a buszpályaudvarra való visszatéréssel zárul. Telšiai téli hangulata akkor a legjobb, ha tudjuk: a következő fűtött járat hamarosan érkezik. Zárja a túrát egy hagyományos vendéglőben a főbb közlekedési útvonalak mentén.",
+            "ro": "O zi de iarnă cu transportul public începe la autogara caldă. Călătoriile scurte între atracțiile istorice din centru minimizează timpul petrecut în frigul tăios. Catedrala și Ieșiva sunt astfel ușor accesibile chiar și la temperaturi negative.\n\nLa prânz, autobuzul vă duce direct la malul înzăpezit al lacului Mastis. Muzeul Alka este rapid accesibil de la stație și oferă ore de căldură în mijlocul comorilor culturale samogitiene. Autobuzele sunt de obicei bine încălzite iarna.\n\nDupă-amiaza, bucurați-vă de promenada de iarnă. Deoarece zilele sunt scurte, transportul public oferă o modalitate sigură și caldă de a schimba rapid între obiectivele iluminate. Biserica Adormirea Maicii Domnului este o altă oprire primitoare.\n\nZiua se încheie cu drumul de întoarcere la autogară. Atmosfera de iarnă din Telšiai poate fi savurată cel mai bine știind că următorul autobuz cald nu este departe. Încheiați turul într-una dintre hanurile tradiționale de lângă axele principale de transport.",
+            "en": "A winter day by transit starts at the warm bus station. Short rides between the historical highlights in the center minimize time spent in the biting cold. The Cathedral and Yeshiva are thus easily accessible even in sub-zero temperatures.\n\nAt noon, the bus takes you directly to the snowy shore of Lake Mastis. The Alka Museum is quickly reached from the stop, offering hours of warmth amidst Samogitian cultural treasures. The buses are usually well-heated in winter.\n\nIn the afternoon, enjoy the wintry promenade. Since the days are short, transit offers a safe and warm way to quickly move between the illuminated sights. The Church of the Assumption is another cozy stop.\n\nThe day ends with the return trip to the bus station. Telšiai's winter atmosphere is best enjoyed knowing that the next warm bus is not far away. End the tour in one of the traditional inns near the main traffic axes."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Station",
+              "tip_5lang": {
+                "de": "Heizung im Wartebereich vorhanden; ideal bei Verspätungen.",
+                "hu": "Van fűtés a váróteremben; ideális járatkésés esetén.",
+                "ro": "Încălzire disponibilă în zona de așteptare; ideal în caz de întârzieri.",
+                "en": "Heating available in the waiting area; ideal in case of delays."
+              }
+            },
+            {
+              "name": "St. Anthony of Padua Cathedral",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt direkt am Fuß des Kathedralhügels.",
+                "hu": "A megálló közvetlenül a székesegyház dombjának lábánál található.",
+                "ro": "Stația este situată direct la baza dealului catedralei.",
+                "en": "The stop is located directly at the foot of the Cathedral hill."
+              }
+            },
+            {
+              "name": "Telšiai Yeshiva",
+              "tip_5lang": {
+                "de": "Kurze Wege reduzieren die Kältebelastung.",
+                "hu": "A rövid gyalogutak csökkentik a hidegnek való kitettséget.",
+                "ro": "Traseele scurte reduc expunerea la frig.",
+                "en": "Short distances reduce exposure to the cold."
+              }
+            },
+            {
+              "name": "Lakeside Bus Stop",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan per App, um langes Warten im Wind zu vermeiden.",
+                "hu": "Ellenőrizze a menetrendet appon, hogy ne kelljen sokat várni a szélben.",
+                "ro": "Verificați programul prin aplicație pentru a evita așteptarea lungă în vânt.",
+                "en": "Check the schedule via app to avoid waiting long in the wind."
+              }
+            },
+            {
+              "name": "Samogitian Museum Alka",
+              "tip_5lang": {
+                "de": "Die Wege von der Haltestelle werden meist geräumt.",
+                "hu": "A megállótól vezető utakat általában letakarítják.",
+                "ro": "Drumurile de la stație sunt de obicei curățate.",
+                "en": "Paths from the stop are usually cleared."
+              }
+            },
+            {
+              "name": "Mastis Lake Promenade",
+              "tip_5lang": {
+                "de": "Abends sind die Haltestellen gut beleuchtet.",
+                "hu": "Este a buszmegállók jól ki vannak világítva.",
+                "ro": "Seara, stațiile de autobuz sunt bine iluminate.",
+                "en": "In the evening, the bus stops are well-lit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter nach dem regulären Fahrplan, Verspätungen durch Schnee möglich.",
+              "Nutzen Sie die App 'Trafi' für Echtzeit-Informationen zu den Bussen.",
+              "Die Haltestellen am See können aufgrund der exponierten Lage sehr windig sein.",
+              "Halten Sie Kleingeld bereit, falls der Ticketkauf im Bus erfolgt.",
+              "Die Busse sind ein idealer Ort, um sich zwischen den Sehenswürdigkeiten aufzuwärmen."
+            ],
+            "hu": [
+              "A buszok télen is a rendes menetrend szerint járnak, de hóban késések várhatók.",
+              "Használja a 'Trafi' alkalmazást a buszok valós idejű követéséhez.",
+              "A tóparti megállók a nyílt terep miatt nagyon szelesek lehetnek.",
+              "Legyen Önnél aprópénz, ha a buszon szeretne jegyet venni.",
+              "A buszok ideális helyszínek a felmelegedésre a látnivalók között."
+            ],
+            "ro": [
+              "Autobuzele circulă iarna conform programului regulat, posibile întârzieri din cauza zăpezii.",
+              "Folosiți aplicația 'Trafi' pentru informații în timp real despre autobuze.",
+              "Stațiile de pe lac pot fi foarte vântoase din cauza locației expuse.",
+              "Aveți pregătit mărunțiș în cazul în care cumpărați biletul din autobuz.",
+              "Autobuzele sunt un loc ideal pentru a vă încălzi între obiective."
+            ],
+            "en": [
+              "Buses run on the regular schedule in winter, though delays due to snow are possible.",
+              "Use the 'Trafi' app for real-time information on the buses.",
+              "Stops by the lake can be very windy due to the exposed location.",
+              "Keep small change ready if buying tickets on the bus.",
+              "The buses are an ideal place to warm up between sights."
+            ]
+          }
+        }
       }
     }
   }

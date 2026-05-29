@@ -379,6 +379,206 @@
           "Most central sights are within easy walking distance of each other.",
           "Plan enough time for Europa Park; it's very large."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Torrejón beginnt am Plaza Mayor, wo die Arkaden Schutz bieten. Mittags ziehen wir uns in die dicken Mauern der Kirche und der Casa Grande zurück. Der Nachmittag gehört der beeindruckenden Ikonensammlung, ideal bei Regen. Den Tag lassen wir trotz Pfützen im Europa Park ausklingen, wo die Miniaturen im nassen Glanz fast mystisch wirken.",
+            "hu": "Az esős reggel a Plaza Mayor árkádjai alatt indul, amelyek menedéket nyújtanak. Délben a templom és a Casa Grande vastag falai közé húzódunk be a víz elől. A délután az ikonmúzeumé, amely tökéletes beltéri program. A napot az Európa Parkban zárjuk, ahol a tócsákban tükröződő makettek különleges, párás hangulatot árasztanak.",
+            "ro": "O dimineață ploioasă în Torrejón începe sub arcadele din Plaza Mayor. La prânz, ne adăpostim între zidurile groase ale bisericii și la Casa Grande. După-amiaza este dedicată muzeului de icoane, ideal pentru vreme umedă. Încheiem ziua în Parcul Europa, unde machetele reflectate în bălți capătă un aspect aproape mistic sub ploaie.",
+            "en": "A rainy morning in Torrejón starts under the arcades of Plaza Mayor. At noon, we take cover inside the sturdy walls of the church and La Casa Grande. The afternoon is perfect for the indoor Icon Museum. We finish the day at Europa Park, where the replicas reflected in puddles offer a unique, misty atmosphere despite the wet weather."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden rund um den Platz, um trocken zu bleiben.",
+                "hu": "Használja a tér körüli árkádokat, hogy száraz maradjon.",
+                "ro": "Folosiți arcadele din jurul pieței pentru a rămâne uscat.",
+                "en": "Use the arcades around the square to stay dry while observing."
+              }
+            },
+            {
+              "name": "Church of San Juan Evangelista",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den stärksten Regen abzuwarten.",
+                "hu": "Csendes hely, ahol megvárhatja a hevesebb eső végét.",
+                "ro": "Un loc liniștit unde puteți aștepta oprirea ploii torențiale.",
+                "en": "A peaceful spot to wait out the heaviest rain showers."
+              }
+            },
+            {
+              "name": "La Casa Grande",
+              "tip_5lang": {
+                "de": "Genießen Sie ein warmes Getränk im historischen Ambiente.",
+                "hu": "Élvezzen egy meleg italt a történelmi környezetben.",
+                "ro": "Savurați o băutură caldă în ambianța istorică.",
+                "en": "Enjoy a warm drink in the historic indoor atmosphere."
+              }
+            },
+            {
+              "name": "Museum of Icons",
+              "tip_5lang": {
+                "de": "Das beste Ziel für einen ausgedehnten Aufenthalt bei Regen.",
+                "hu": "A legjobb célpont esős időben egy hosszabb látogatáshoz.",
+                "ro": "Cea mai bună destinație pentru o vizită lungă pe ploaie.",
+                "en": "The best destination for an extended indoor stay on a rainy day."
+              }
+            },
+            {
+              "name": "José María Rodero Municipal Theatre",
+              "tip_5lang": {
+                "de": "Das Vordach bietet einen kurzen Moment Schutz.",
+                "hu": "Az előtető rövid menedéket nyújt az eső elől.",
+                "ro": "Copertina oferă un scurt moment de adăpost.",
+                "en": "The entrance canopy offers a brief moment of shelter."
+              }
+            },
+            {
+              "name": "Europa Park",
+              "tip_5lang": {
+                "de": "Wegen der vielen ungeschützten Wege ist ein fester Schirm nötig.",
+                "hu": "A nyitott utak miatt erős esernyőre lesz szüksége.",
+                "ro": "Veți avea nevoie de o umbrelă solidă pentru potecile deschise.",
+                "en": "A sturdy umbrella is essential for the many open paths."
+              }
+            },
+            {
+              "name": "Bridge over the Henares",
+              "tip_5lang": {
+                "de": "Vorsicht, der Boden kann bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a talaj nedvesen csúszós lehet.",
+                "ro": "Atenție, suprafața poate fi alunecoasă când este udă.",
+                "en": "Be careful, the ground near the river can be slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Arkaden am Plaza Mayor sind der beste natürliche Schutz.",
+              "Das Ikonenmuseum ist eine der größten Sammlungen Westeuropas und komplett überdacht.",
+              "Im Europa Park gibt es nur wenige Unterstände; planen Sie kurze Besuche der Denkmäler.",
+              "Tragen Sie wasserfeste Schuhe, da die Wege zum Henares-Fluss schlammig sein können."
+            ],
+            "hu": [
+              "A Plaza Mayor árkádjai nyújtják a legjobb védelmet az óvárosban.",
+              "Az Ikonmúzeum Nyugat-Európa egyik legnagyobb gyűjteménye, teljesen fedett.",
+              "Az Európa Parkban kevés a fedett rész; gyorsabb látogatással készüljön.",
+              "Vízálló cipő ajánlott, mert a Henares partja felé vezető utak sárosak lehetnek."
+            ],
+            "ro": [
+              "Arcadele din Plaza Mayor oferă cea mai bună protecție în centrul vechi.",
+              "Muzeul de Icoane este una dintre cele mai mari colecții din Europa și este complet acoperit.",
+              "În Parcul Europa sunt puține adăposturi; planificați vizite rapide la monumente.",
+              "Purtați încălțăminte impermeabilă, drumurile spre râul Henares pot fi noroioase."
+            ],
+            "en": [
+              "The arcades at Plaza Mayor provide the best natural cover in the old town.",
+              "The Icon Museum is one of the largest collections in Europe and entirely indoors.",
+              "Europa Park has limited shelters; focus on specific monuments for quick viewing.",
+              "Wear waterproof shoes as paths near the Henares river can get muddy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Torrejón ist frisch, ideal für einen klaren Blick auf den Plaza Mayor. Mittags wärmen wir uns in den historischen Räumen der Casa Grande auf. Am Nachmittag leuchten die Ikonen im Múseo de Iconos besonders stimmungsvoll. Zum Abschluss erleben wir den Europa Park, der im frühen Abendlicht und bei kühler Brise eine ganz eigene Ruhe ausstrahlt.",
+            "hu": "A téli reggel friss és csípős a Plaza Mayoron, tiszta fényekkel. Délben a Casa Grande történelmi falai között melegszünk fel egy kávé mellett. Délután az Ikonmúzeum aranyozott tárgyai meghitt hangulatot árasztanak. A napot az Európa Parkban zárjuk, amely a korai szürkületben és a hűvös szélben különleges nyugalmat áraszt.",
+            "ro": "Dimineața de iarnă este proaspătă în Plaza Mayor, cu o lumină clară și rece. La prânz, ne încălzim în camerele istorice de la Casa Grande. După-amiaza, icoanele aurite din muzeu strălucesc într-o atmosferă intimă. Încheiem ziua în Parcul Europa, care emană o liniște aparte în amurgul timpuriu și briza rece.",
+            "en": "A winter morning in Torrejón is crisp and fresh at Plaza Mayor. At noon, we warm up within the historic walls of La Casa Grande. The afternoon is spent among the golden artifacts of the Icon Museum. We end our tour at Europa Park, which offers a serene atmosphere in the early winter dusk and chilly breeze."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Suchen Sie Cafés mit Heizstrahlern unter den Arkaden.",
+                "hu": "Keressen fűtött teraszos kávézókat az árkádok alatt.",
+                "ro": "Căutați cafenele cu încălzitoare sub arcade.",
+                "en": "Look for cafes with outdoor heaters under the arcades."
+              }
+            },
+            {
+              "name": "Church of San Juan Evangelista",
+              "tip_5lang": {
+                "de": "Drinnen ist es oft kühler als gedacht; behalten Sie den Mantel an.",
+                "hu": "Bent gyakran hűvösebb van a vártnál; tartsa magán a kabátját.",
+                "ro": "În interior este adesea mai răcoare decât credeți; păstrați haina.",
+                "en": "It is often cooler inside than expected; keep your coat on."
+              }
+            },
+            {
+              "name": "La Casa Grande",
+              "tip_5lang": {
+                "de": "Perfekt für eine Mittagspause in geheizter historischer Atmosphäre.",
+                "hu": "Tökéletes ebédhelyszín fűtött, történelmi környezetben.",
+                "ro": "Perfect pentru o pauză de prânz într-o atmosferă istorică încălzită.",
+                "en": "Perfect for a lunch break in a heated, historic atmosphere."
+              }
+            },
+            {
+              "name": "Museum of Icons",
+              "tip_5lang": {
+                "de": "Die Klimatisierung sorgt für angenehme Wärme beim Rundgang.",
+                "hu": "A klímaberendezés kellemes meleget biztosít a látogatás alatt.",
+                "ro": "Climatizarea asigură o căldură plăcută în timpul vizitei.",
+                "en": "The climate control provides pleasant warmth during your tour."
+              }
+            },
+            {
+              "name": "José María Rodero Municipal Theatre",
+              "tip_5lang": {
+                "de": "Prüfen Sie das Programm für abendliche Indoor-Veranstaltungen.",
+                "hu": "Ellenőrizze az esti beltéri előadások műsorát.",
+                "ro": "Verificați programul pentru spectacole de seară în interior.",
+                "en": "Check the schedule for evening indoor performances."
+              }
+            },
+            {
+              "name": "Europa Park",
+              "tip_5lang": {
+                "de": "Der Wind auf den freien Flächen kann im Winter beißend sein.",
+                "hu": "A nyitott tereken a szél télen metsző lehet.",
+                "ro": "Vântul pe spațiile deschise poate fi tăios iarna.",
+                "en": "The wind on the open fields can be biting in winter."
+              }
+            },
+            {
+              "name": "Bridge over the Henares",
+              "tip_5lang": {
+                "de": "Genießen Sie den frühen Sonnenuntergang gegen 18:00 Uhr.",
+                "hu": "Élvezze a korai naplementét 18:00 körül.",
+                "ro": "Bucurați-vă de apusul timpuriu în jurul orei 18:00.",
+                "en": "Enjoy the early sunset around 18:00 from the bridge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Torrejón ist berühmt für 'Mágicas Navidades' – besuchen Sie die Lichtershows.",
+              "Die Sonne geht im Dezember bereits gegen 17:45 Uhr unter.",
+              "Zwiebelprinzip bei der Kleidung ist wegen des Temperaturunterschieds drinnen/draußen ratsam.",
+              "In der Casa Grande gibt es oft Kamine, die für Gemütlichkeit sorgen."
+            ],
+            "hu": [
+              "Torrejón híres a 'Mágicas Navidades' ünnepi fényekről – ne hagyja ki.",
+              "A nap decemberben már 17:45 körül lemegy.",
+              "A réteges öltözködés javasolt a benti és kinti hőmérsékletkülönbség miatt.",
+              "A Casa Grandéban gyakran működnek a kandallók, fokozva a hangulatot."
+            ],
+            "ro": [
+              "Torrejón este faimos pentru 'Mágicas Navidades' – vizitați spectacolele de lumini.",
+              "Soarele apune deja în jurul orei 17:45 în decembrie.",
+              "Îmbrăcămintea în straturi este recomandată din cauza diferenței de temperatură.",
+              "În Casa Grande există adesea șeminee care creează o atmosferă primitoare."
+            ],
+            "en": [
+              "Torrejón is famous for 'Mágicas Navidades' – check out the festive light shows.",
+              "The sun sets as early as 17:45 in December.",
+              "Layered clothing is advised due to temperature differences between indoors and outdoors.",
+              "La Casa Grande often has fireplaces lit, adding to the winter charm."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +952,206 @@
           "The cycle paths along the river are flat and easy.",
           "Europa Park has designated paths that are good for cycling."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen beginnt am Soto del Henares, wo die Wege fest, aber nass sind. Wir überqueren die Brücke vorsichtig und erreichen den Plaza Mayor für eine Pause. Mittags suchen wir Schutz in der Casa Grande. Der Nachmittag führt uns zum Europa Park, wo die Radwege bei Regen leer, aber rutschig sein können. Den Tag beenden wir sicher beim Ikonenmuseum.",
+            "hu": "Az esős bringázás a Soto del Henaresnél indul, ahol az utak stabilak, de vizesek. Óvatosan kelünk át a hídon a Plaza Mayor felé. Délben a Casa Grande nyújt menedéket a bicikliknek is. Délután az Európa Park üres, de csúszós útjain tekerünk, majd a napot az Ikonmúzeumnál zárjuk, biztonságban a víztől.",
+            "ro": "Ciclismul pe ploaie începe la Soto del Henares, unde drumurile sunt ferme, dar ude. Traversăm cu grijă podul spre Plaza Mayor. La prânz, Casa Grande oferă adăpost și pentru biciclete. După-amiaza pedalăm pe aleile libere, dar alunecoase din Parcul Europa, terminând ziua la Muzeul de Icoane.",
+            "en": "Cycling in the rain starts at Soto del Henares, where paths are firm but wet. We cross the bridge carefully towards Plaza Mayor. At noon, La Casa Grande provides shelter for both us and the bikes. The afternoon takes us to the empty but slippery paths of Europa Park, finishing safely at the Icon Museum."
+          },
+          "stops": [
+            {
+              "name": "Soto del Henares",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen auf den Uferwegen.",
+                "hu": "Vigyázzon a mély tócsákra a parti utakon.",
+                "ro": "Atenție la bălțile adânci de pe potecile de mal.",
+                "en": "Watch out for deep puddles on the riverside paths."
+              }
+            },
+            {
+              "name": "Bridge over the Henares",
+              "tip_5lang": {
+                "de": "Metallfugen auf der Brücke können extrem glatt sein.",
+                "hu": "A híd fém illesztései rendkívül csúszósak lehetnek.",
+                "ro": "Îmbinările metalice de pe pod pot fi extrem de alunecoase.",
+                "en": "Metal joints on the bridge can be extremely slippery."
+              }
+            },
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Kopfsteinpflaster ist bei Nässe eine Herausforderung.",
+                "hu": "A macskakő nedvesen nagy kihívást jelent.",
+                "ro": "Paveaua este o provocare când este udă.",
+                "en": "Cobblestones are a significant challenge when wet."
+              }
+            },
+            {
+              "name": "Church of San Juan Evangelista",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad nah an der Wand unter dem Dachvorsprung.",
+                "hu": "Parkoljon közel a falhoz az ereszek alatt.",
+                "ro": "Parcați bicicleta aproape de perete sub streașină.",
+                "en": "Park your bike close to the wall under the eaves."
+              }
+            },
+            {
+              "name": "La Casa Grande",
+              "tip_5lang": {
+                "de": "Es gibt überdachte Bereiche im Innenhof für Fahrräder.",
+                "hu": "A belső udvarban vannak fedett részek a bicikliknek.",
+                "ro": "Există zone acoperite în curtea interioară pentru biciclete.",
+                "en": "There are covered areas in the inner courtyard for bikes."
+              }
+            },
+            {
+              "name": "Europa Park",
+              "tip_5lang": {
+                "de": "Reduzieren Sie die Geschwindigkeit in den Kurven des Parks.",
+                "hu": "Csökkentse a sebességet a park kanyarjaiban.",
+                "ro": "Reduceți viteza în curbele din parc.",
+                "en": "Reduce your speed significantly in the park's curves."
+              }
+            },
+            {
+              "name": "Museum of Icons",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kleidung vor der Rückfahrt zu trocknen.",
+                "hu": "Ideális hely a ruházat megszárítására a hazaindulás előtt.",
+                "ro": "Un loc ideal pentru a usca hainele înainte de plecare.",
+                "en": "An ideal spot to dry off before your return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei den Wegen am Henares heute unverzichtbar.",
+              "Vermeiden Sie scharfes Bremsen auf dem glatten Kopfsteinpflaster.",
+              "Nutzen Sie die Tiefgarage am Plaza Mayor, falls der Regen zu stark wird.",
+              "Tragen Sie eine auffällige Regenjacke, da die Sicht für Autofahrer sinkt."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a Henares menti utakon ma.",
+              "Kerülje az erős fékezést a csúszós macskakövön.",
+              "Használja a Plaza Mayor mélygarázsát, ha túl heves az eső.",
+              "Viseljen feltűnő esőkabátot, mert az autósok látási viszonyai romlanak."
+            ],
+            "ro": [
+              "Apărătorile sunt indispensabile pe drumurile de lângă Henares astăzi.",
+              "Evitați frânarea bruscă pe pavelele alunecoase.",
+              "Folosiți parcarea subterană din Plaza Mayor dacă ploaia devine prea puternică.",
+              "Purtați o jachetă de ploaie reflectorizantă, vizibilitatea șoferilor scade."
+            ],
+            "en": [
+              "Mudguards are essential for the paths along the Henares today.",
+              "Avoid sharp braking on the slippery cobblestones.",
+              "Use the underground parking at Plaza Mayor if the rain becomes too heavy.",
+              "Wear a bright rain jacket as visibility for drivers decreases."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour per Rad startet im kühlen Soto del Henares. Die klare Luft macht die Fahrt über die Brücke zum Erlebnis. Mittags wärmen wir uns am Plaza Mayor auf, bevor wir die Casa Grande besuchen. Der Nachmittag im Europa Park ist ruhig; die weiten Wege lassen sich schnell abfahren, um vor der Kälte der Dämmerung das Ikonenmuseum zu erreichen.",
+            "hu": "A téli bringatúra a hűvös Soto del Henaresnél indul. A tiszta levegő élménnyé teszi a hídon való átkelést. Délben a Plaza Mayoron melegszünk fel, mielőtt a Casa Grandét meglátogatnánk. Az Európa Park délután csendes; a hosszú utakat gyorsan bejárjuk, hogy a szürkületi hideg előtt elérjük az Ikonmúzeumot.",
+            "ro": "Turul de iarnă cu bicicleta începe în răcorosul Soto del Henares. Aerul curat face traversarea podului o experiență plăcută. La prânz ne încălzim în Plaza Mayor înainte de a vizita Casa Grande. Parcul Europa este liniștit după-amiaza; parcurgem rapid aleile pentru a ajunge la muzeu înainte de gerul serii.",
+            "en": "A winter bike tour starts in the chilly Soto del Henares. The crisp air makes the bridge crossing a highlight. At noon, we warm up at Plaza Mayor before visiting La Casa Grande. Europa Park is peaceful in the afternoon; we cover the long paths quickly to reach the Icon Museum before the dusk chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Soto del Henares",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Holzelementen der Wege.",
+                "hu": "Ügyeljen a dérre az utak fa elemein.",
+                "ro": "Atenție la chiciura de pe elementele de lemn ale potecilor.",
+                "en": "Watch out for hoarfrost on the wooden elements of the paths."
+              }
+            },
+            {
+              "name": "Bridge over the Henares",
+              "tip_5lang": {
+                "de": "Der Fahrtwind ist hier auf der offenen Brücke besonders kalt.",
+                "hu": "A menetszél itt a nyitott hídon különösen hideg.",
+                "ro": "Vântul este deosebit de rece aici pe podul deschis.",
+                "en": "The wind chill is particularly strong here on the open bridge."
+              }
+            },
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad in die Sonne, um den Sattel zu wärmen.",
+                "hu": "Állítsa a biciklit a napra, hogy felmelegedjen a nyereg.",
+                "ro": "Lăsați bicicleta la soare pentru a încălzi șaua.",
+                "en": "Park your bike in the sun to warm up the saddle."
+              }
+            },
+            {
+              "name": "Church of San Juan Evangelista",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit drinnen, um die Finger aufzuwärmen.",
+                "hu": "Használja ki a benti időt az ujjai felmelegítésére.",
+                "ro": "Folosiți timpul în interior pentru a vă încălzi degetele.",
+                "en": "Use your time inside to warm up your fingers."
+              }
+            },
+            {
+              "name": "La Casa Grande",
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad sicher an; die Schlossmechanik kann klemmen.",
+                "hu": "Zárja le biztonságosan; a zár mechanikája megakadhat a hidegben.",
+                "ro": "Asigurați bicicleta; mecanismul antifurtului se poate bloca la ger.",
+                "en": "Lock your bike securely; lock mechanisms can stick in the cold."
+              }
+            },
+            {
+              "name": "Europa Park",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; die Bremshebel sind eisig.",
+                "hu": "Viseljen kesztyűt; a fékkarok jegesek lehetnek.",
+                "ro": "Purtați mănuși; manetele de frână sunt înghețate.",
+                "en": "Wear gloves; the brake levers will be icy to the touch."
+              }
+            },
+            {
+              "name": "Museum of Icons",
+              "tip_5lang": {
+                "de": "Die letzte Station bietet perfekte Wärme nach der Fahrt.",
+                "hu": "Az utolsó állomás tökéletes meleget nyújt a tekerés után.",
+                "ro": "Ultima oprire oferă o căldură perfectă după cursă.",
+                "en": "The final stop offers perfect warmth after your ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders für die Uferwege.",
+              "Die Wege im Europa Park sind im Winter oft leerer als im Sommer.",
+              "Achten Sie auf gefrorene Pfützen in schattigen Bereichen.",
+              "Ein heißer Tee in der Casa Grande ist die beste Belohnung."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot, különösen a parti utakon.",
+              "Az Európa Park útjai télen gyakran üresebbek, mint nyáron.",
+              "Ügyeljen a fagyott tócsákra az árnyékos részeken.",
+              "Egy forró tea a Casa Grandéban a legjobb jutalom."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, în special pentru malul râului.",
+              "Aleile din Parcul Europa sunt adesea mai libere iarna decât vara.",
+              "Atenție la bălțile înghețate în zonele umbrite.",
+              "Un ceai fierbinte la Casa Grande este cea mai bună recompensă."
+            ],
+            "en": [
+              "Wear windproof clothing, especially for the riverside paths.",
+              "The paths in Europa Park are often much emptier in winter.",
+              "Watch out for frozen puddles in shaded areas.",
+              "A hot tea at La Casa Grande is the best reward for a winter cyclist."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1132,6 +1532,206 @@
           "The car gives you the flexibility to visit places outside the immediate center.",
           "Be mindful of parking fees in central areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto trotzen wir dem Regen und starten direkt am Europa Park, wo wir nah am Eingang parken. Danach führt die Fahrt zum Soto del Henares für einen kurzen Blick auf den Fluss. Mittags nutzen wir das Parkhaus im Zentrum, um trockenen Fußes zum Plaza Mayor und zur Casa Grande zu gelangen. Der Nachmittag endet entspannt im Ikonenmuseum.",
+            "hu": "Autóval dacolunk az esővel, és az Európa Parknál kezdünk, ahol közel parkolunk a bejárathoz. Ezután a Soto del Henares felé vesszük az irányt egy gyors folyóparti nézelődésre. Délben a központi parkolót használjuk, hogy száraz lábbal érjük el a főteret és a Casa Grandét. A délután az Ikonmúzeumban zárul.",
+            "ro": "Cu mașina sfidăm ploaia și începem direct la Parcul Europa, unde parcăm aproape de intrare. Apoi mergem spre Soto del Henares pentru o privire rapidă spre râu. La prânz folosim parcarea centrală pentru a ajunge uscați în Plaza Mayor și la Casa Grande. După-amiaza se încheie relaxat la Muzeul de Icoane.",
+            "en": "By car, we defy the rain and start at Europa Park, parking close to the entrance. Then we drive to Soto del Henares for a quick riverside look. At noon, we use the city center parking to reach Plaza Mayor and La Casa Grande while staying dry. The afternoon ends peacefully at the Icon Museum."
+          },
+          "stops": [
+            {
+              "name": "Europa Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz West, er ist am nächsten an den Highlights.",
+                "hu": "Használja a nyugati parkolót, ez van legközelebb a látnivalókhoz.",
+                "ro": "Folosiți parcarea de vest, este cea mai apropiată de atracții.",
+                "en": "Use the West parking lot; it is closest to the main replicas."
+              }
+            },
+            {
+              "name": "Soto del Henares",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie die Aussicht.",
+                "hu": "Heves esőben maradjon az autóban, és élvezze a kilátást.",
+                "ro": "Rămâneți în mașină dacă plouă tare și admirați peisajul.",
+                "en": "Stay in the car if it rains heavily and enjoy the view."
+              }
+            },
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Das unterirdische Parken hält das Auto trocken.",
+                "hu": "A földalatti parkolás szárazon tartja az autót.",
+                "ro": "Parcarea subterană menține mașina uscată.",
+                "en": "The underground parking keeps the car and you dry."
+              }
+            },
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg vom Parkhaus unter die Arkaden.",
+                "hu": "Csak rövid séta a parkolótól az árkádok alá.",
+                "ro": "Doar o scurtă plimbare de la parcare sub arcade.",
+                "en": "Only a short walk from the parking garage to the arcades."
+              }
+            },
+            {
+              "name": "Church of San Juan Evangelista",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken in engen Gassen bei Regen.",
+                "hu": "Esőben kerülje a parkolást a szűk utcákban.",
+                "ro": "Evitați parcarea în străduțele înguste când plouă.",
+                "en": "Avoid parking in narrow side streets during rain."
+              }
+            },
+            {
+              "name": "La Casa Grande",
+              "tip_5lang": {
+                "de": "Der Eingangsbereich ist gut mit dem Auto erreichbar.",
+                "hu": "A bejárat autóval jól megközelíthető.",
+                "ro": "Zona de intrare este ușor accesibilă cu mașina.",
+                "en": "The entrance area is easily accessible by car."
+              }
+            },
+            {
+              "name": "Museum of Icons",
+              "tip_5lang": {
+                "de": "Direktes Parken am Museum spart den Schirmweg.",
+                "hu": "A közvetlen parkolás a múzeumnál megspórolja az esernyőzést.",
+                "ro": "Parcarea directă la muzeu vă scutește de drumul cu umbrela.",
+                "en": "Parking directly at the museum saves you a walk in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das Parkhaus 'Plaza Mayor' für optimalen Zugang zum Zentrum.",
+              "Vermeiden Sie bei Regen die unbefestigten Parkflächen am Henares.",
+              "Das Auto ist der ideale Ort, um zwischen den Stationen aufzuwärmen.",
+              "Prüfen Sie die Wischerblätter, da Gischt auf der A-2 die Sicht raubt."
+            ],
+            "hu": [
+              "Használja a 'Plaza Mayor' parkolóházat a központ kényelmes eléréséhez.",
+              "Esőben kerülje a Henares menti burkolatlan parkolóhelyeket.",
+              "Az autó tökéletes hely a felmelegedésre az állomások között.",
+              "Ellenőrizze az ablaktörlőket, mert az A-2-es úton a felcsapódó víz zavaró lehet."
+            ],
+            "ro": [
+              "Folosiți parcarea 'Plaza Mayor' pentru acces optim în centru.",
+              "Evitați zonele de parcare neasfaltate de lângă Henares pe ploaie.",
+              "Mașina este locul ideal pentru a vă încălzi între stații.",
+              "Verificați ștergătoarele, vizibilitatea pe A-2 poate fi redusă de apă."
+            ],
+            "en": [
+              "Use the 'Plaza Mayor' parking garage for optimal access to the center.",
+              "Avoid unpaved parking areas near the Henares during rain.",
+              "The car is the perfect place to warm up between stops.",
+              "Check your wiper blades, as spray on the A-2 highway can reduce visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto Komfort für unsere Tour durch Torrejón. Wir starten am kühlen Europa Park, wo die Heizung im Wagen nach jedem Stopp wartet. Mittags parken wir zentral für einen Besuch am Plaza Mayor und in der Casa Grande. Der Nachmittag im Ikonenmuseum ist herrlich warm, bevor wir den Tag am Soto del Henares bei frostiger Aussicht beenden.",
+            "hu": "Télen az autó kényelmet nyújt a torrejdóni túránkhoz. A hűvös Európa Parknál kezdünk, ahol a kocsiban a fűtés vár minden megálló után. Délben központilag parkolunk a Plaza Mayor és a Casa Grande meglátogatásához. A délután az Ikonmúzeumban kellemesen meleg, mielőtt a napot a Soto del Henaresnél, fagyos kilátással zárnánk.",
+            "ro": "Iarna, mașina oferă confort pentru turul nostru în Torrejón. Începem la răcorosul Parcul Europa, unde încălzirea din mașină ne așteaptă după fiecare oprire. La prânz parcăm central pentru o vizită în Plaza Mayor și la Casa Grande. După-amiaza la muzeu este plăcut de caldă, înainte de a încheia ziua la Soto del Henares.",
+            "en": "In winter, the car provides comfort for our Torrejón tour. We start at the chilly Europa Park, where the car's heater awaits after every stop. At noon, we park centrally to visit Plaza Mayor and La Casa Grande. The afternoon in the Icon Museum is wonderfully warm before ending the day at Soto del Henares with frosty views."
+          },
+          "stops": [
+            {
+              "name": "Europa Park",
+              "tip_5lang": {
+                "de": "Lassen Sie keine Wertsachen sichtbar im Auto.",
+                "hu": "Ne hagyjon értéktárgyat látható helyen az autóban.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
+                "en": "Do not leave valuables visible in the car while exploring."
+              }
+            },
+            {
+              "name": "Soto del Henares",
+              "tip_5lang": {
+                "de": "Die Parkplätze können morgens überfroren sein.",
+                "hu": "A parkolóhelyek reggel jegesek lehetnek.",
+                "ro": "Locurile de parcare pot fi înghețate dimineața.",
+                "en": "Parking spots can be icy in the early morning."
+              }
+            },
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Schützt das Auto vor Frost während Ihres Stadtbummels.",
+                "hu": "Megvédi az autót a fagytól a városi séta alatt.",
+                "ro": "Protejează mașina de îngheț în timpul plimbării.",
+                "en": "Protects the car from frost during your city walk."
+              }
+            },
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Abends sind hier die Weihnachtslichter am schönsten.",
+                "hu": "Este itt a legszebbek a karácsonyi fények.",
+                "ro": "Seara, luminile de Crăciun sunt cele mai frumoase aici.",
+                "en": "In the evening, the Christmas lights are most beautiful here."
+              }
+            },
+            {
+              "name": "Church of San Juan Evangelista",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz minimieren die Kältezeit.",
+                "hu": "A rövid séta a parkolótól minimalizálja a hidegben töltött időt.",
+                "ro": "Distanțele scurte de la parcare reduc timpul petrecut în frig.",
+                "en": "Short distances from parking minimize time spent in the cold."
+              }
+            },
+            {
+              "name": "La Casa Grande",
+              "tip_5lang": {
+                "de": "Nutzen Sie den hoteleigenen Parkplatz, falls verfügbar.",
+                "hu": "Használja a szálloda saját parkolóját, ha elérhető.",
+                "ro": "Folosiți parcarea hotelului, dacă este disponibilă.",
+                "en": "Use the hotel's own parking lot if available."
+              }
+            },
+            {
+              "name": "Museum of Icons",
+              "tip_5lang": {
+                "de": "Warme Kleidung im Auto lassen, im Museum ist es geheizt.",
+                "hu": "Hagyja a vastag ruhát a kocsiban, a múzeum fűtött.",
+                "ro": "Lăsați hainele groase în mașină, muzeul este încălzit.",
+                "en": "Leave heavy coats in the car; the museum is well-heated."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutzmittel für die Scheibenwaschanlage nicht vergessen.",
+              "Die Parkhäuser im Zentrum sind im Winter oft voll wegen der Märkte.",
+              "Achten Sie auf Glätte in den schattigen Nebenstraßen.",
+              "Der Europa Park ist im Winter weniger überlaufen – genießen Sie die Ruhe."
+            ],
+            "hu": [
+              "Ne felejtse el a fagyállót a szélvédőmosóba.",
+              "A központi parkolóházak télen gyakran telítettek a vásárok miatt.",
+              "Ügyeljen a jegesedésre az árnyékos mellékutcákban.",
+              "Az Európa Park télen kevésbé zsúfolt – élvezze a nyugalmat."
+            ],
+            "ro": [
+              "Nu uitați lichidul de parbriz rezistent la îngheț.",
+              "Parcările centrale sunt adesea pline iarna din cauza târgurilor.",
+              "Atenție la polei pe străzile secundare umbrite.",
+              "Parcul Europa este mai puțin aglomerat iarna – savurați liniștea."
+            ],
+            "en": [
+              "Don't forget antifreeze for your windshield washer fluid.",
+              "City center parking garages are often full in winter due to markets.",
+              "Watch out for black ice in shaded side streets.",
+              "Europa Park is less crowded in winter – enjoy the peace."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1488,6 +2088,188 @@
           "Cercanías trains are often the fastest way to connect to Madrid.",
           "Keep an eye on your belongings at busy stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir erreichen Torrejón trocken mit dem Zug und starten am Bahnhof. Ein kurzer Sprint bringt uns zum Plaza Mayor und zur Kirche. Den Mittag verbringen wir im Schutz der Casa Grande. Der Bus bringt uns zum Europa Park, wo wir trotz Regen die Monumente bestaunen. Den Nachmittag im warmen Ikonenmuseum lassen wir entspannt ausklingen, bevor der Zug uns zurückbringt.",
+            "hu": "Szárazon érkezünk vonattal Torrejónba, és az állomáson kezdünk. Egy rövid sprint után elérjük a Plaza Mayort és a templomot. Az ebédet a Casa Grande védelmében költjük el. Busszal megyünk az Európa Parkba, ahol esőben is megcsodáljuk a maketteket. A délutánt a meleg Ikonmúzeumban zárjuk, mielőtt visszavonatoznánk.",
+            "ro": "Ajungem uscați cu trenul în Torrejón și începem la gară. Un scurt sprint ne duce în Plaza Mayor și la biserică. Prânzul îl petrecem la adăpostul Casei Grande. Autobuzul ne duce la Parcul Europa, unde admirăm monumentele chiar și pe ploaie. Încheiem după-amiaza la muzeul cald, înainte de întoarcerea cu trenul.",
+            "en": "We arrive dry by train in Torrejón and start at the station. A short dash takes us to Plaza Mayor and the church. We spend lunch protected by La Casa Grande. A bus takes us to Europa Park, where we admire the replicas even in the rain. We finish the afternoon at the warm Icon Museum before catching the train back."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Torrejón de Ardoz Station",
+              "tip_5lang": {
+                "de": "Warten Sie im Bahnhofsgebäude, bis der Regen nachlässt.",
+                "hu": "Várjon az állomás épületében, amíg alábbhagy az eső.",
+                "ro": "Așteptați în clădirea gării până când ploaia se mai potolește.",
+                "en": "Wait inside the station building until the rain eases off."
+              }
+            },
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet Schutz vor dem Regen.",
+                "hu": "A buszmegálló védelmet nyújt az eső elől.",
+                "ro": "Stația de autobuz oferă protecție împotriva ploii.",
+                "en": "The bus stop provides good cover from the rain."
+              }
+            },
+            {
+              "name": "Church of San Juan Evangelista & La Casa Grande",
+              "tip_5lang": {
+                "de": "Diese Ziele liegen nah beieinander, ideal für Regenpausen.",
+                "hu": "Ezek a célpontok közel vannak egymáshoz, ideális esőszünetekhez.",
+                "ro": "Aceste destinații sunt aproape una de alta, ideale pentru pauze.",
+                "en": "These spots are close together, ideal for minimizing rain exposure."
+              }
+            },
+            {
+              "name": "Europa Park",
+              "tip_5lang": {
+                "de": "Der Bus L2 hält direkt am Parkeingang.",
+                "hu": "Az L2-es busz közvetlenül a park bejáratánál áll meg.",
+                "ro": "Autobuzul L2 oprește chiar la intrarea în parc.",
+                "en": "The L2 bus stops right at the park entrance."
+              }
+            },
+            {
+              "name": "Museum of Icons",
+              "tip_5lang": {
+                "de": "Das Museum ist perfekt, um auf den nächsten Bus zu warten.",
+                "hu": "A múzeum tökéletes hely a következő busz megvárására.",
+                "ro": "Muzeul este locul perfect pentru a aștepta următorul autobuz.",
+                "en": "The museum is a perfect place to wait for your next bus."
+              }
+            },
+            {
+              "name": "Bridge over the Henares",
+              "tip_5lang": {
+                "de": "Ein schöner Blick aus dem Busfenster bei der Überfahrt.",
+                "hu": "Szép kilátás nyílik a busz ablakából az átkeléskor.",
+                "ro": "O vedere frumoasă de la fereastra autobuzului în timpul traversării.",
+                "en": "A nice view from the bus window during the crossing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Cercanías-Züge (C-2, C-7) für eine trockene Anreise aus Madrid.",
+              "Die lokalen Busse sind die beste Option, um trocken zum Europa Park zu kommen.",
+              "Die App 'Consorcio Transportes' zeigt Echtzeit-Ankunftszeiten bei Regen.",
+              "Halten Sie Ihren Schirm in den Bussen stets geschlossen und gesichert."
+            ],
+            "hu": [
+              "Használja a Cercanías vonatokat (C-2, C-7) a száraz érkezéshez Madridból.",
+              "A helyi buszok a legjobb opciók, hogy szárazon eljusson az Európa Parkba.",
+              "A 'Consorcio Transportes' app mutatja a valós idejű érkezéseket esőben is.",
+              "A buszokon tartsa az esernyőjét összecsukva és rögzítve."
+            ],
+            "ro": [
+              "Folosiți trenurile Cercanías (C-2, C-7) pentru o sosire uscată din Madrid.",
+              "Autobuzele locale sunt cea mai bună opțiune pentru a ajunge la Parcul Europa.",
+              "Aplicația 'Consorcio Transportes' arată timpii de sosire în timp real.",
+              "Păstrați umbrela închisă și asigurată în autobuze."
+            ],
+            "en": [
+              "Use Cercanías trains (C-2, C-7) for a dry arrival from Madrid.",
+              "Local buses are your best bet to reach Europa Park while staying dry.",
+              "The 'Consorcio Transportes' app shows real-time arrivals during rain.",
+              "Keep your umbrella closed and secured while on the bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir starten unsere Wintertour am Bahnhof von Torrejón. Die kurze Fahrt zum Plaza Mayor führt uns direkt ins Herz der Stadt. Mittags genießen wir die Wärme in der Casa Grande, bevor der Bus uns zum Europa Park bringt. Die kalte Luft im Park macht die Monumente noch klarer. Den späten Nachmittag verbringen wir im gemütlichen Ikonenmuseum, bevor wir bequem per Transit zurückfahren.",
+            "hu": "Téli túránkat a torrejdóni vasútállomáson kezdjük. A rövid út a Plaza Mayorra egyenesen a város szívébe visz. Délben a Casa Grande melegét élvezzük, mielőtt busszal az Európa Parkba mennénk. A park hideg levegője még tisztábbá teszi a makettek látványát. A késő délutánt a meghitt Ikonmúzeumban töltjük, majd busszal és vonattal térünk haza.",
+            "ro": "Începem turul de iarnă la gara din Torrejón. Scurta călătorie spre Plaza Mayor ne duce direct în inima orașului. La prânz ne bucurăm de căldura din Casa Grande înainte de a lua autobuzul spre Parcul Europa. Aerul rece din parc face monumentele să pară și mai clare. Petrecem după-amiaza la muzeu, apoi revenim confortabil cu transportul public.",
+            "en": "We start our winter tour at Torrejón station. A short trip takes us straight to the heart of the city at Plaza Mayor. At noon, we enjoy the warmth of La Casa Grande before taking the bus to Europa Park. The crisp winter air makes the replicas look even sharper. We spend the late afternoon in the cozy Icon Museum before heading back by transit."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Torrejón de Ardoz Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist gut geheizt; perfekt zum Umsteigen.",
+                "hu": "Az állomás jól fűtött; tökéletes az átszálláshoz.",
+                "ro": "Gara este bine încălzită; perfectă pentru transferuri.",
+                "en": "The station is well-heated; perfect for waiting for transfers."
+              }
+            },
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Hier halten viele Buslinien, die Wartezeiten sind kurz.",
+                "hu": "Sok buszvonal áll meg itt, a várakozási idő rövid.",
+                "ro": "Multe linii de autobuz opresc aici, timpii de așteptare sunt scurți.",
+                "en": "Many bus lines stop here, keeping wait times in the cold minimal."
+              }
+            },
+            {
+              "name": "Church of San Juan Evangelista & La Casa Grande",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg zwischen den Stationen hilft gegen Kälte.",
+                "hu": "A megállók közötti rövid séta segít a hideg ellen.",
+                "ro": "O scurtă plimbare între stații ajută împotriva frigului.",
+                "en": "A short walk between stops helps keep you moving in the cold."
+              }
+            },
+            {
+              "name": "Europa Park",
+              "tip_5lang": {
+                "de": "Beachten Sie die winterlichen Fahrpläne der Linie L2.",
+                "hu": "Ügyeljen az L2-es busz téli menetrendjére.",
+                "ro": "Respectați orarul de iarnă al liniei de autobuz L2.",
+                "en": "Check the winter schedule for the L2 bus line."
+              }
+            },
+            {
+              "name": "Museum of Icons",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Transit für eine warme Rückfahrt.",
+                "hu": "Használja a tömegközlekedést a meleg hazautazáshoz.",
+                "ro": "Folosiți transportul public pentru o întoarcere călduroasă.",
+                "en": "Use public transit for a warm and comfortable return trip."
+              }
+            },
+            {
+              "name": "Bridge over the Henares",
+              "tip_5lang": {
+                "de": "Im Winter ist der Blick auf den Fluss oft neblig-schön.",
+                "hu": "Télen a folyóra nyíló kilátás gyakran ködösen szép.",
+                "ro": "Iarna, vederea spre râu este adesea cețoasă și frumoasă.",
+                "en": "In winter, the view of the river is often beautifully misty."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge fahren alle 15-20 Minuten Richtung Madrid.",
+              "Die Busse in Torrejón sind im Winter angenehm klimatisiert.",
+              "Die Haltestellen am Europa Park können abends einsam sein.",
+              "Holen Sie sich einen heißen Kaffee am Bahnhof vor der Abfahrt."
+            ],
+            "hu": [
+              "A vonatok 15-20 percenként indulnak Madrid felé.",
+              "A torrejdóni buszok télen kellemesen fűtöttek.",
+              "Az Európa Park megállói este elhagyatottak lehetnek.",
+              "Igyon egy forró kávét az állomáson az indulás előtt."
+            ],
+            "ro": [
+              "Trenurile pleacă spre Madrid la fiecare 15-20 de minute.",
+              "Autobuzele din Torrejón sunt bine încălzite iarna.",
+              "Stațiile de la Parcul Europa pot fi pustii seara.",
+              "Luați o cafea fierbinte la gară înainte de plecare."
+            ],
+            "en": [
+              "Trains to Madrid run every 15-20 minutes.",
+              "Local buses in Torrejón are comfortably heated in winter.",
+              "Bus stops near Europa Park can be quite isolated in the evening.",
+              "Grab a hot coffee at the station before your departure."
+            ]
+          }
+        }
       }
     }
   }

@@ -375,6 +375,206 @@
           "Many places observe a siesta, so plan your late afternoon visits accordingly.",
           "Enjoy a glass of Fino sherry at a local 'tabanco' for an authentic experience."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens besuchen wir die Stierkampfarena, deren Arkaden Schutz bieten. Mittags erkunden wir die dicken Mauern der Burg San Marcos und der Prioratskirche, ideal um trocken zu bleiben. Der Nachmittag gehört der Osborne-Bodega, ein perfektes Indoor-Erlebnis mit Weinprobe. Abends endet der Tag nach dem Museumsbesuch mit einem kurzen, regnerischen Spaziergang am Flussufer.",
+            "hu": "Reggel a bikaviadal-arénát látogatjuk meg, ahol az árkádok alatt védve maradunk. Délben a San Marcos-vár és a székesegyház vastag falai kínálnak menedéket. A délután az Osborne pincészetben telik, amely tökéletes fedett program borkóstolással. Este, a múzeumlátogatás után, egy rövid esernyős séta zárja a napot a Guadalete-folyó partján.",
+            "ro": "Dimineața vizităm arena de tauri, unde arcadele oferă adăpost. La prânz explorăm zidurile groase ale Castelului San Marcos și Biserica Prioratului, ideale pentru a rămâne uscați. După-amiaza aparține cramei Osborne, o experiență de interior perfectă cu degustare de vin. Seara se încheie după muzeu cu o scurtă plimbare cu umbrela pe malul râului.",
+            "en": "Morning starts at the bullring where arcades provide shelter. By noon, the thick walls of San Marcos Castle and the Priory Church keep us dry. The afternoon is dedicated to Osborne Wineries, a perfect indoor activity for wine tasting. In the evening, after the museum, the day ends with a brief rainy stroll along the riverside promenade."
+          },
+          "stops": [
+            {
+              "name": "Plaza de Toros (Bullring)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Galerie, um trocken zu bleiben.",
+                "hu": "Használd a galéria árkádjait, hogy száraz maradj.",
+                "ro": "Folosiți arcadele galeriei pentru a rămâne uscați.",
+                "en": "Use the gallery arcades to stay dry."
+              }
+            },
+            {
+              "name": "Castle of San Marcos",
+              "tip_5lang": {
+                "de": "Das Innere der Burg bietet hervorragenden Schutz vor Güssen.",
+                "hu": "A vár belső terei kiváló menedéket nyújtanak a záporok elől.",
+                "ro": "Interiorul castelului oferă un adăpost excelent împotriva ploii.",
+                "en": "The castle interior offers excellent shelter from downpours."
+              }
+            },
+            {
+              "name": "Priory Major Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur, während es draußen regnet.",
+                "hu": "Csodáld meg az építészetet, miközben kint esik.",
+                "ro": "Admirați arhitectura în timp ce afară plouă.",
+                "en": "Admire the architecture while it rains outside."
+              }
+            },
+            {
+              "name": "House of the Lions",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp; schauen Sie sich die Fassade unter einem Schirm an.",
+                "hu": "Rövid megálló; nézd meg a homlokzatot esernyő alól.",
+                "ro": "O oprire scurtă; priviți fațada de sub umbrelă.",
+                "en": "A short stop; view the facade from under an umbrella."
+              }
+            },
+            {
+              "name": "Osborne Wineries",
+              "tip_5lang": {
+                "de": "Das ultimative Regenziel: komplett überdacht und gemütlich.",
+                "hu": "A végső esős célpont: teljesen fedett és hangulatos.",
+                "ro": "Destinația supremă pe ploaie: complet acoperită și primitoare.",
+                "en": "The ultimate rainy destination: fully covered and cozy."
+              }
+            },
+            {
+              "name": "Rafael Alberti Foundation",
+              "tip_5lang": {
+                "de": "Ideal, um eine Stunde im Trockenen mit Kultur zu verbringen.",
+                "hu": "Ideális egy órát szárazon, kultúrával tölteni.",
+                "ro": "Ideal pentru a petrece o oră la adăpost cu cultură.",
+                "en": "Ideal for spending an hour in the dry with culture."
+              }
+            },
+            {
+              "name": "Guadalete Riverside Promenade",
+              "tip_5lang": {
+                "de": "Achtung vor Pfützen auf dem Gehweg am Fluss.",
+                "hu": "Vigyázz a tócsákra a folyóparti járdán.",
+                "ro": "Atenție la bălțile de pe trotuarul de lângă râu.",
+                "en": "Watch out for puddles on the riverside pavement."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Viele Cafés in der Nähe der Kirche haben überdachte Terrassen.",
+              "Die Bodega-Tour ist die beste Option bei starkem Regen.",
+              "Halten Sie einen stabilen Regenschirm gegen den Wind bereit."
+            ],
+            "hu": [
+              "Viselj vízálló cipőt a macskaköves utcákhoz.",
+              "A templom melletti kávézók többsége fedett teraszos.",
+              "A pincelátogatás a legjobb opció heves esőzéskor.",
+              "Legyen nálad erős esernyő a szél miatt."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "Multe cafenele de lângă biserică au terase acoperite.",
+              "Turul cramei este cea mai bună opțiune în caz de ploaie torențială.",
+              "Aveți pregătită o umbrelă rezistentă la vânt."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "Many cafes near the church have covered terraces.",
+              "The winery tour is the best option during heavy rain.",
+              "Keep a sturdy umbrella ready against the coastal wind."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen an der Stierkampfarena ist mild und sonnig. Mittags genießen wir die kühle, aber klare Luft an der Burg und der Kirche. Der Nachmittag in der Osborne-Bodega wärmt mit Sherry und Geschichte auf. Da die Sonne gegen 18 Uhr untergeht, bietet der abendliche Spaziergang am Guadalete ein wunderschönes Lichtspiel vor dem Museumsbesuch.",
+            "hu": "A téli reggel a bikaviadal-arénánál enyhe és napos. Délben a vár és a templom környékén élvezzük a hűvös, de tiszta levegőt. A délután az Osborne pincészetben melegít fel sherryvel és történelemmel. Mivel a nap 18 óra körül nyugszik, a folyóparti séta csodás fényeket kínál a múzeumlátogatás előtt.",
+            "ro": "Dimineața de iarnă la arena de tauri este blândă și însorită. La prânz ne bucurăm de aerul răcoros, dar curat, de la castel și biserică. După-amiaza la crama Osborne ne încălzește cu sherry și istorie. Deoarece soarele apune în jur de ora 18, plimbarea de seară pe malul râului oferă o lumină superbă înainte de muzeu.",
+            "en": "A winter morning at the bullring is mild and sunny. By noon, enjoy the crisp but clear air around the castle and church. The afternoon at Osborne Wineries warms you up with sherry and history. Since the sun sets around 6 PM, the evening riverside stroll offers beautiful golden light before the museum visit."
+          },
+          "stops": [
+            {
+              "name": "Plaza de Toros (Bullring)",
+              "tip_5lang": {
+                "de": "Die Sonne wärmt die Arena auch im Winter angenehm auf.",
+                "hu": "A nap télen is kellemesen felmelegíti az arénát.",
+                "ro": "Soarele încălzește plăcut arena chiar și iarna.",
+                "en": "The sun warms up the arena pleasantly even in winter."
+              }
+            },
+            {
+              "name": "Castle of San Marcos",
+              "tip_5lang": {
+                "de": "In den alten Mauern kann es kühl sein, ziehen Sie sich warm an.",
+                "hu": "Az ódon falak között hűvös lehet, öltözz rétegesen.",
+                "ro": "Poate fi răcoare între zidurile vechi, îmbrăcați-vă bine.",
+                "en": "It can be cool inside the old walls, dress in layers."
+              }
+            },
+            {
+              "name": "Priory Major Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche mittags, wenn das Licht am schönsten ist.",
+                "hu": "Látogasd meg a templomot délben, amikor a legszebbek a fények.",
+                "ro": "Vizitați biserica la prânz, când lumina este cea mai frumoasă.",
+                "en": "Visit the church at noon when the light is most beautiful."
+              }
+            },
+            {
+              "name": "House of the Lions",
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die Details der Fassade hervor.",
+                "hu": "A téli fény kiemeli a homlokzat részleteit.",
+                "ro": "Lumina de iarnă scoate în evidență detaliile fațadei.",
+                "en": "The winter light highlights the details of the facade."
+              }
+            },
+            {
+              "name": "Osborne Wineries",
+              "tip_5lang": {
+                "de": "Ein Glas Sherry ist der perfekte Winterwärmer.",
+                "hu": "Egy pohár sherry a tökéletes téli melengető.",
+                "ro": "Un pahar de sherry este perfect pentru a vă încălzi iarna.",
+                "en": "A glass of sherry is the perfect winter warmer."
+              }
+            },
+            {
+              "name": "Rafael Alberti Foundation",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei Poesie und Kunst auf.",
+                "hu": "Melegedj fel költészet és művészet társaságában.",
+                "ro": "Încălziți-vă în compania poeziei și a artei.",
+                "en": "Warm up in the company of poetry and art."
+              }
+            },
+            {
+              "name": "Guadalete Riverside Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang vor 18:00 Uhr.",
+                "hu": "Élvezd a naplementét 18:00 előtt.",
+                "ro": "Bucurați-vă de apus înainte de ora 18:00.",
+                "en": "Enjoy the sunset before 6:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip ist ideal für die andalusische Wintersonne.",
+              "Die Terrassen sind in der Sonne auch im Januar warm.",
+              "Besuchen Sie die Bodega am späten Nachmittag für gemütliche Wärme.",
+              "Sonnenuntergang am Fluss ist im Winter besonders farbenfroh."
+            ],
+            "hu": [
+              "A réteges öltözködés ideális az andalúz téli napsütéshez.",
+              "A napsütötte teraszok még januárban is melegek.",
+              "Látogasd meg a pincét késő délután a kellemes melegért.",
+              "A folyóparti naplemente télen különösen színpompás."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este ideală pentru soarele de iarnă andaluz.",
+              "Terasele însorite sunt calde chiar și în ianuarie.",
+              "Vizitați crama la sfârșitul după-amiezii pentru căldură.",
+              "Apusul de pe malul râului este extrem de colorat iarna."
+            ],
+            "en": [
+              "Layered clothing is ideal for the Andalusian winter sun.",
+              "Sunny terraces are warm even in January.",
+              "Visit the winery in late afternoon for cozy indoor warmth.",
+              "Riverside sunsets are especially colorful in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -721,6 +921,188 @@
           "Bring water, especially for the ride to the natural park.",
           "Check the bodega's opening hours in advance as they can vary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig zum Strand Valdelagrana, wobei wir auf nassen Sand achten. Mittags bietet die Osborne-Bodega einen sicheren Unterstand für Fahrräder und Fahrer. Nachmittags besuchen wir die Monumente im Zentrum, bevor wir den Naturpark Bay of Cádiz trotz Regen auf befestigten Wegen erkunden. Ein nasser, aber erfrischender Tag auf zwei Rädern.",
+            "hu": "Reggel óvatosan tekerünk a Valdelagrana strandra, figyelve a vizes homokra. Délben az Osborne pincészet biztos menedéket nyújt a bringáknak és a bringásoknak is. Délután a központ műemlékeit érintjük, majd az eső ellenére a Cadizi-öböl Naturparkját járjuk be aszfaltozott utakon. Vizes, de frissítő nap két keréken.",
+            "ro": "Dimineața pedalăm cu atenție spre plaja Valdelagrana, atenți la nisipul ud. La prânz, crama Osborne oferă un adăpost sigur pentru biciclete și bicicliști. După-amiaza vizităm monumentele din centru, apoi explorăm parcul natural pe drumuri asfaltate în ciuda ploii. O zi udă, dar revigorantă pe două roți.",
+            "en": "Morning bike ride to Valdelagrana Beach requires caution on wet sand. By noon, Osborne Wineries provide a safe shelter for both bikes and riders. Afternoon is spent at city monuments, followed by exploring the Bay of Cádiz Natural Park on paved paths despite the rain. A wet but refreshing day on two wheels."
+          },
+          "stops": [
+            {
+              "name": "Valdelagrana Beach",
+              "tip_5lang": {
+                "de": "Vorsicht, der nasse Sand kann rutschig sein.",
+                "hu": "Vigyázz, a vizes homok csúszós lehet.",
+                "ro": "Atenție, nisipul ud poate fi alunecos.",
+                "en": "Caution, wet sand can be slippery."
+              }
+            },
+            {
+              "name": "Osborne Wineries",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad im überdachten Bereich ab.",
+                "hu": "Parkold a bringát fedett helyen.",
+                "ro": "Parcați bicicleta în zona acoperită.",
+                "en": "Park your bike in the covered area."
+              }
+            },
+            {
+              "name": "Plaza de Toros (Bullring)",
+              "tip_5lang": {
+                "de": "Meiden Sie die glatten Fliesen vor dem Eingang.",
+                "hu": "Kerüld a csúszós csempéket a bejáratnál.",
+                "ro": "Evitați plăcile lucioase de la intrare.",
+                "en": "Avoid slippery tiles in front of the entrance."
+              }
+            },
+            {
+              "name": "Castle of San Marcos",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für eine Trockenpause.",
+                "hu": "Használd ki a megállót egy száradási szünetre.",
+                "ro": "Folosiți oprirea pentru o pauză de uscare.",
+                "en": "Use the stop for a drying break."
+              }
+            },
+            {
+              "name": "Priory Major Church",
+              "tip_5lang": {
+                "de": "Abstellplätze sind in den Gassen oft windgeschützt.",
+                "hu": "A sikátorokban a tárolók gyakran szélvédettek.",
+                "ro": "Rafturile din alei sunt adesea ferite de vânt.",
+                "en": "Bike racks in the alleys are often wind-protected."
+              }
+            },
+            {
+              "name": "Bay of Cádiz Natural Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf befestigten Wegen, um Matsch zu vermeiden.",
+                "hu": "Maradj a kövezett utakon a sár elkerülése végett.",
+                "ro": "Rămâneți pe drumurile pavate pentru a evita noroiul.",
+                "en": "Stay on paved paths to avoid mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke und Regenhose.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt im Regen.",
+              "Vermeiden Sie unbefestigte Wege im Naturpark.",
+              "Trocknen Sie Ihr Fahrrad nach der Tour gründlich ab."
+            ],
+            "hu": [
+              "Viselj jó minőségű esőkabátot és esőnadrágot.",
+              "Indulás előtt ellenőrizd a fékeket az esőben.",
+              "Kerüld a földeutakat a Naturparkban.",
+              "A túra után alaposan szárítsd meg a kerékpárt."
+            ],
+            "ro": [
+              "Purtați o jachetă și pantaloni de ploaie de calitate.",
+              "Verificați frânele înainte de plecare pe ploaie.",
+              "Evitați drumurile neasfaltate din parcul natural.",
+              "Uscați bine bicicleta după tură."
+            ],
+            "en": [
+              "Wear a high-quality raincoat and rain pants.",
+              "Check your brakes before starting in the rain.",
+              "Avoid unpaved trails in the Natural Park.",
+              "Dry your bike thoroughly after the tour."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen führt uns mit dem Rad zum Strand Valdelagrana, wo die Meeresbrise erfrischt. Mittags wärmen wir uns in der Osborne-Bodega auf. Der Nachmittag bietet kulturelle Stopps an der Arena und der Burg. Den Tag krönen wir mit einer Fahrt durch den Naturpark bei goldenem Winterlicht, bevor die frühe Dämmerung einsetzt.",
+            "hu": "Tiszta téli reggelen tekerünk a Valdelagrana strandra, ahol a tengeri szellő frissít. Délben az Osborne pincészetben melegszünk fel. A délután kulturális megállókat kínál az arénánál és a várnál. A napot a Naturparkban tett gurulással koronázzuk meg az aranyló téli fényekben, mielőtt beáll a korai szürkület.",
+            "ro": "O dimineață senină de iarnă ne duce cu bicicleta la plaja Valdelagrana, unde briza mării ne revigorează. La prânz ne încălzim la crama Osborne. După-amiaza oferă opriri culturale la arenă și castel. Încheiem ziua cu o tură prin parcul natural în lumina aurie de iarnă, înainte de amurg.",
+            "en": "A clear winter morning leads us by bike to Valdelagrana Beach, where the sea breeze refreshes. At noon, we warm up at Osborne Wineries. The afternoon offers cultural stops at the bullring and the castle. We crown the day with a ride through the Natural Park in golden winter light before the early dusk sets in."
+          },
+          "stops": [
+            {
+              "name": "Valdelagrana Beach",
+              "tip_5lang": {
+                "de": "Tragen Sie Windstopper-Kleidung für die Strandpromenade.",
+                "hu": "Viselj szélálló ruhát a tengerparti sétányon.",
+                "ro": "Purtați haine rezistente la vânt pentru faleză.",
+                "en": "Wear windstopper clothing for the beach promenade."
+              }
+            },
+            {
+              "name": "Osborne Wineries",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen kühler Luft und warmem Wein.",
+                "hu": "Élvezd a hűvös levegő és a meleg bor kontrasztját.",
+                "ro": "Bucurați-vă de contrastul dintre aerul rece și vinul cald.",
+                "en": "Enjoy the contrast between cool air and warm wine."
+              }
+            },
+            {
+              "name": "Plaza de Toros (Bullring)",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne bietet tolle Fotomotive.",
+                "hu": "Az alacsonyan járó nap remek fotótémákat kínál.",
+                "ro": "Soarele jos oferă oportunități excelente pentru fotografii.",
+                "en": "The low sun offers great photo opportunities."
+              }
+            },
+            {
+              "name": "Castle of San Marcos",
+              "tip_5lang": {
+                "de": "Kurze Tage bedeuten: Besuchen Sie die Burg vor 16 Uhr.",
+                "hu": "A rövid nappalok miatt látogasd meg a várat 16 óra előtt.",
+                "ro": "Zilele scurte înseamnă: vizitați castelul înainte de ora 16.",
+                "en": "Short days mean: visit the castle before 4 PM."
+              }
+            },
+            {
+              "name": "Priory Major Church",
+              "tip_5lang": {
+                "de": "Radeln Sie durch die kühlen, schattigen Gassen zum Platz.",
+                "hu": "Tekerj át a hűvös, árnyékos szűk utcákon a térre.",
+                "ro": "Pedalați prin aleile răcoroase și umbrite spre piață.",
+                "en": "Cycle through the cool, shady narrow streets to the square."
+              }
+            },
+            {
+              "name": "Bay of Cádiz Natural Park",
+              "tip_5lang": {
+                "de": "Vogelbeobachtung ist im Winter hier besonders lohnenswert.",
+                "hu": "A madármegfigyelés télen itt különösen hálás feladat.",
+                "ro": "Observarea păsărilor este deosebit de interesantă iarna aici.",
+                "en": "Birdwatching is especially rewarding here in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Handschuhe sind für die Abfahrten am Morgen wichtig.",
+              "Beenden Sie die Tour im Naturpark vor Sonnenuntergang (18:00).",
+              "Nutzen Sie die Mittagssonne für längere Pausen im Freien.",
+              "Achten Sie auf ausreichende Beleuchtung am Fahrrad."
+            ],
+            "hu": [
+              "A kesztyű fontos a reggeli gurulásokhoz.",
+              "Fejezd be a túrát a Naturparkban naplemente (18:00) előtt.",
+              "Használd ki a déli napsütést a hosszabb kinti szünetekhez.",
+              "Ügyelj a kerékpár megfelelő világítására."
+            ],
+            "ro": [
+              "Mănușile sunt importante pentru turele de dimineață.",
+              "Încheiați turul în parcul natural înainte de apus (18:00).",
+              "Folosiți soarele de la prânz pentru pauze mai lungi în aer liber.",
+              "Asigurați-vă că bicicleta are iluminare adecvată."
+            ],
+            "en": [
+              "Gloves are important for morning rides.",
+              "Finish the park tour before sunset (6:00 PM).",
+              "Utilize the midday sun for longer outdoor breaks.",
+              "Ensure your bike has adequate lighting."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1073,6 +1455,188 @@
           "Driving in the historic center can be tricky, so the 'park & walk' strategy is best.",
           "Book your bodega tour in advance, especially during peak season."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag beginnt mit der bequemen Fahrt zum Parkplatz Valdelagrana. Wir genießen den Blick aufs Meer aus dem trockenen Auto. Mittags parken wir im Zentrum nahe der Arena und besuchen die Burg sowie die Kirche. Das Highlight ist die Osborne-Bodega, wo wir sicher untergebracht sind. Ein entspannter Tag trotz schlechten Wetters, dank kurzer Wege zum Auto.",
+            "hu": "Az esős nap kényelmes autózással indul a Valdelagrana parkolóhoz. A tenger látványát a száraz autóból élvezzük. Délben a központban, az aréna mellett parkolunk, és meglátogatjuk a várat és a templomot. A csúcspont az Osborne pincészet, ahol fedett helyen vagyunk. Pihentető nap a rossz idő ellenére is, köszönhetően az autó közelségének.",
+            "ro": "O zi ploioasă începe cu un drum confortabil spre parcarea Valdelagrana. Admirăm marea din mașina uscată. La prânz parcăm în centru lângă arenă și vizităm castelul și biserica. Punctul culminant este crama Osborne, unde suntem la adăpost. O zi relaxantă în ciuda vremii rele, datorită distanțelor scurte până la mașină.",
+            "en": "A rainy day starts with a comfortable drive to Valdelagrana parking. We enjoy the sea view from the dry car. At noon, we park in the center near the bullring and visit the castle and church. The highlight is Osborne Wineries, where we stay covered. A relaxing day despite the bad weather, thanks to the short distances to the car."
+          },
+          "stops": [
+            {
+              "name": "Parking at Valdelagrana Beach",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Strandzugang.",
+                "hu": "Parkolj a lehető legközelebb a strandbejárathoz.",
+                "ro": "Parcați cât mai aproape de accesul pe plajă.",
+                "en": "Park as close as possible to the beach access."
+              }
+            },
+            {
+              "name": "Valdelagrana Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie die stürmische See aus dem Auto heraus.",
+                "hu": "Élvezd a viharos tengert az autóból.",
+                "ro": "Bucurați-vă de marea agitată din mașină.",
+                "en": "Enjoy the stormy sea from inside the car."
+              }
+            },
+            {
+              "name": "Parking in the Center (e.g., Plaza de Toros)",
+              "tip_5lang": {
+                "de": "Überdachte Parkhäuser sind heute die beste Wahl.",
+                "hu": "A fedett parkolóházak ma a legjobb választások.",
+                "ro": "Parcările subterane sunt cea mai bună alegere astăzi.",
+                "en": "Covered parking garages are the best choice today."
+              }
+            },
+            {
+              "name": "Castle of San Marcos",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz zum Burgeingang.",
+                "hu": "Rövid sprint a parkolótól a várkapuig.",
+                "ro": "Sprint scurt de la parcare până la intrarea în castel.",
+                "en": "Short sprint from the parking to the castle gate."
+              }
+            },
+            {
+              "name": "Priory Church & Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit direktem Parkplatzzugang.",
+                "hu": "Válassz éttermet közvetlen parkolási lehetőséggel.",
+                "ro": "Alegeți un restaurant cu acces direct la parcare.",
+                "en": "Choose a restaurant with direct parking access."
+              }
+            },
+            {
+              "name": "Osborne Wineries",
+              "tip_5lang": {
+                "de": "Privatparkplatz direkt an der Bodega verfügbar.",
+                "hu": "Saját parkoló közvetlenül a pincészetnél.",
+                "ro": "Parcare privată disponibilă chiar la cramă.",
+                "en": "Private parking available directly at the winery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Parkhäuser, um beim Aussteigen trocken zu bleiben.",
+              "Vermeiden Sie das Parken unter Bäumen bei Wind.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Tour.",
+              "Halten Sie Kleingeld für die Parkautomaten bereit."
+            ],
+            "hu": [
+              "Használj parkolóházakat, hogy kiszálláskor száraz maradj.",
+              "Szélben kerüld a fák alatti parkolást.",
+              "Ellenőrizd az ablaktörlőket a túra előtt.",
+              "Legyen nálad aprópénz a parkolóautomatákhoz."
+            ],
+            "ro": [
+              "Folosiți parcări acoperite pentru a rămâne uscați la coborâre.",
+              "Evitați parcarea sub copaci când bate vântul.",
+              "Verificați ștergătoarele înainte de drum.",
+              "Aveți pregătit mărunt pentru automatele de parcare."
+            ],
+            "en": [
+              "Use parking garages to stay dry when getting out.",
+              "Avoid parking under trees during high winds.",
+              "Check your windshield wipers before the tour.",
+              "Keep some change ready for the parking meters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger Wintertag beginnt mit der Fahrt nach Valdelagrana, wo wir die kühle Meeresluft am Strand genießen. Mittags bringt uns das Auto bequem ins historische Zentrum. Nach dem Besuch der Burg und der Kirche wärmen wir uns in der Osborne-Bodega auf. Der Tag endet mit einer Panoramafahrt entlang des Guadalete im warmen Licht des frühen Sonnenuntergangs.",
+            "hu": "Napsütéses téli nap indul Valdelagranába, ahol a hűvös tengeri levegőt élvezzük a parton. Délben az autó kényelmesen repít a történelmi központba. A vár és a templom meglátogatása után az Osborne pincészetben melegszünk fel. A nap a Guadalete menti panorámaautózással zárul a korai naplemente meleg fényeiben.",
+            "ro": "O zi însorită de iarnă începe cu un drum la Valdelagrana, unde savurăm aerul rece al mării pe plajă. La prânz mașina ne duce confortabil în centrul istoric. După castel și biserică, ne încălzim la crama Osborne. Ziua se încheie cu o plimbare panoramică pe lângă Guadalete în lumina caldă a apusului timpuriu.",
+            "en": "A sunny winter day begins with a drive to Valdelagrana, where we enjoy the cool sea air at the beach. At noon, the car takes us comfortably to the historic center. After visiting the castle and church, we warm up at Osborne Wineries. The day ends with a scenic drive along the Guadalete in the warm light of the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Parking at Valdelagrana Beach",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter im Überfluss vorhanden.",
+                "hu": "Télen bőségesen van parkolóhely.",
+                "ro": "Locurile de parcare sunt abundente iarna.",
+                "en": "Parking spaces are abundant in winter."
+              }
+            },
+            {
+              "name": "Valdelagrana Beach",
+              "tip_5lang": {
+                "de": "Perfekt für einen schnellen Strandspaziergang ohne Hitze.",
+                "hu": "Tökéletes egy gyors tengerparti sétához hőség nélkül.",
+                "ro": "Perfect pentru o plimbare scurtă pe plajă fără căldură.",
+                "en": "Perfect for a quick beach walk without the heat."
+              }
+            },
+            {
+              "name": "Parking in the Center (e.g., Plaza de Toros)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgarage, um das Auto vor Meeresbrisen zu schützen.",
+                "hu": "Használd a mélygarázst, hogy óvd az autót a tengeri széltől.",
+                "ro": "Folosiți parcarea subterană pentru a proteja mașina de briză.",
+                "en": "Use the underground parking to protect the car from sea breezes."
+              }
+            },
+            {
+              "name": "Castle of San Marcos",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe für einen kurzen Besuch.",
+                "hu": "Parkolj a közelben a rövid látogatáshoz.",
+                "ro": "Parcați în apropiere pentru o vizită scurtă.",
+                "en": "Park nearby for a quick visit."
+              }
+            },
+            {
+              "name": "Priory Church & Lunch",
+              "tip_5lang": {
+                "de": "Restaurants sind im Winter weniger überlaufen.",
+                "hu": "Az éttermek télen kevésbé zsúfoltak.",
+                "ro": "Restaurantele sunt mai puțin aglomerate iarna.",
+                "en": "Restaurants are less crowded in winter."
+              }
+            },
+            {
+              "name": "Osborne Wineries",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Inneren auf, bevor Sie heimfahren.",
+                "hu": "Melegedj fel bent, mielőtt hazaindulnál.",
+                "ro": "Încălziți-vă în interior înainte de a pleca spre casă.",
+                "en": "Warm up inside before driving home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie die Rückfahrt vor 18:00 Uhr ein.",
+              "Nutzen Sie die Sitzheizung nach dem Strandbesuch.",
+              "Parken Sie in der Sonne, um das Auto natürlich zu wärmen.",
+              "Im Winter gibt es keine Parkplatzsorgen im Zentrum."
+            ],
+            "hu": [
+              "Tervezd a visszautat 18:00 előttre.",
+              "Használd az ülésfűtést a strandlátogatás után.",
+              "Parkolj a napon, hogy természetesen melegedjen az autó.",
+              "Télen nincs parkolási nehézség a központban."
+            ],
+            "ro": [
+              "Planificați drumul de întoarcere înainte de ora 18:00.",
+              "Folosiți încălzirea în scaune după vizita pe plajă.",
+              "Parcați la soare pentru a încălzi mașina natural.",
+              "Iarna nu sunt probleme cu parcarea în centru."
+            ],
+            "en": [
+              "Plan your return trip before 6:00 PM.",
+              "Use seat heating after the beach visit.",
+              "Park in the sun to warm the car naturally.",
+              "In winter, there are no parking worries in the center."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1401,6 +1965,170 @@
           "Google Maps or the local transit app can be very helpful for bus schedules.",
           "Keep an eye on the time for the last bus back to the train station so you don't miss your train."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Ankunft am Bahnhof im Regen ist unproblematisch. Mit dem Bus geht es direkt zur Arena und zur Burg, um das Wetter draußen zu lassen. Mittags genießen wir ein langes Mittagessen in der Nähe der Kirche. Nachmittags bringt uns der Bus zur Valdelagrana-Strand, wo wir die Aussicht von einem Café aus genießen. Ein praktischer Tag mit öffentlichen Verkehrsmitteln, der trocken hält.",
+            "hu": "Az érkezés az állomásra esőben sem gond. Busszal megyünk tovább az arénához és a várhoz, kizárva a külvilágot. Délben egy hosszú ebédet élvezünk a templom közelében. Délután a busz a Valdelagrana strandra visz, ahol egy kávézóból csodáljuk a kilátást. Praktikus nap tömegközlekedéssel, ami szárazon tart.",
+            "ro": "Sosirea la gară pe ploaie nu este o problemă. Luăm autobuzul direct spre arenă și castel, lăsând vremea afară. La prânz savurăm un prânz lung lângă biserică. După-amiaza, autobuzul ne duce la plaja Valdelagrana, unde admirăm vederea dintr-o cafenea. O zi practică cu transportul public care ne menține uscați.",
+            "en": "Arrival at the station in the rain is no problem. Take the bus directly to the bullring and castle to keep the weather out. At noon, enjoy a long lunch near the church. In the afternoon, the bus takes us to Valdelagrana Beach, where we enjoy the view from a cafe. A practical day using transit that keeps you dry."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Train Station",
+              "tip_5lang": {
+                "de": "Der Bahnhof hat einen großen überdachten Wartebereich.",
+                "hu": "Az állomásnak nagy fedett váróterme van.",
+                "ro": "Gara are o zonă de așteptare mare și acoperită.",
+                "en": "The station has a large covered waiting area."
+              }
+            },
+            {
+              "name": "Plaza de Toros & Castle of San Marcos",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt direkt gegenüber der Arena.",
+                "hu": "A buszmegálló közvetlenül az arénával szemben van.",
+                "ro": "Stația de autobuz este chiar vizavi de arenă.",
+                "en": "The bus stop is right across from the bullring."
+              }
+            },
+            {
+              "name": "Bus to Historic Center",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Unterstand an der Haltestelle.",
+                "hu": "Várj a megálló fedett beállója alatt.",
+                "ro": "Așteptați sub adăpostul din stație.",
+                "en": "Wait under the shelter at the stop."
+              }
+            },
+            {
+              "name": "Priory Church & Lunch",
+              "tip_5lang": {
+                "de": "Viele Lokale sind nur wenige Schritte von der Haltestelle entfernt.",
+                "hu": "Sok étterem csak pár lépésre van a megállótól.",
+                "ro": "Multe localuri sunt la doar câțiva pași de stație.",
+                "en": "Many eateries are just a few steps from the stop."
+              }
+            },
+            {
+              "name": "Bus to Valdelagrana Beach",
+              "tip_5lang": {
+                "de": "Die Busfahrt bietet eine trockene Sightseeing-Tour.",
+                "hu": "A buszozás egy száraz városnéző túrával ér fel.",
+                "ro": "Călătoria cu autobuzul oferă un tur panoramic uscat.",
+                "en": "The bus ride offers a dry sightseeing tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Consorcio' App für Echtzeit-Businfos.",
+              "Haben Sie Kleingeld für das Busticket bereit.",
+              "Bahnhofsnähe bietet viele Taxis als Regenalternative.",
+              "Die Busse sind gut klimatisiert und trocken."
+            ],
+            "hu": [
+              "Használd a 'Consorcio' appot a valós idejű buszinfókért.",
+              "Legyen nálad aprópénz a buszjegyre.",
+              "Az állomás környékén sok taxi van eső esetére.",
+              "A buszok jól klimatizáltak és szárazak."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Consorcio' pentru info bus în timp real.",
+              "Aveți pregătit mărunt pentru biletul de autobuz.",
+              "Zona gării oferă multe taxiuri ca alternativă pe ploaie.",
+              "Autobuzele sunt bine climatizate și uscate."
+            ],
+            "en": [
+              "Use the 'Consorcio' app for real-time bus info.",
+              "Have exact change ready for the bus ticket.",
+              "The station area has many taxis as a rainy alternative.",
+              "Buses are well air-conditioned and dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt am Bahnhof von El Puerto. Der Bus bringt uns zur Arena und Burg, wo wir die milde Sonne genießen. Nach dem Mittagessen im Zentrum führt uns die Reise zur Valdelagrana-Strand, um den Winter-Sonnenuntergang am Meer zu erleben. Ein stressfreier Tag, der uns das Beste der Stadt ohne Parkplatzsuche zeigt.",
+            "hu": "Tiszta téli nap indul El Puerto vasútállomásán. A busz az arénához és a várhoz visz, ahol élvezzük az enyhe napsütést. A központi ebéd után utunk a Valdelagrana strandra vezet, hogy átéljük a téli naplementét a tengernél. Stresszmentes nap, amely a város legjavát mutatja meg parkolókeresés nélkül.",
+            "ro": "O zi senină de iarnă începe la gara din El Puerto. Autobuzul ne duce la arenă și castel, unde ne bucurăm de soarele blând. După prânzul în centru, călătoria ne duce la plaja Valdelagrana pentru a vedea apusul de iarnă la mare. O zi fără stres, care ne arată tot ce e mai bun în oraș fără grija parcării.",
+            "en": "A clear winter day starts at El Puerto station. The bus takes us to the bullring and castle, where we enjoy the mild sun. After lunch in the center, our journey leads to Valdelagrana Beach to experience the winter sunset by the sea. A stress-free day showing the best of the city without parking worries."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Train Station",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kaffee im Bahnhofscafé am Morgen.",
+                "hu": "Élvezd a kávét az állomás kávézójában reggel.",
+                "ro": "Savurați o cafea la cafeneaua gării dimineața.",
+                "en": "Enjoy a coffee at the station cafe in the morning."
+              }
+            },
+            {
+              "name": "Plaza de Toros & Castle of San Marcos",
+              "tip_5lang": {
+                "de": "Der Spaziergang zwischen beiden Orten ist im Winter mild.",
+                "hu": "A két helyszín közötti séta télen is enyhe.",
+                "ro": "Plimbarea între cele două locații este blândă iarna.",
+                "en": "The walk between the two sites is mild in winter."
+              }
+            },
+            {
+              "name": "Bus to Historic Center",
+              "tip_5lang": {
+                "de": "Fahrpläne sind im Winter oft zuverlässiger.",
+                "hu": "A menetrendek télen gyakran megbízhatóbbak.",
+                "ro": "Orarele sunt adesea mai de încredere iarna.",
+                "en": "Schedules are often more reliable in winter."
+              }
+            },
+            {
+              "name": "Priory Church & Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz am Fenster in der Sonne.",
+                "hu": "Keress magadnak ablak melletti helyet a napon.",
+                "ro": "Căutați un loc la fereastră, la soare.",
+                "en": "Find a seat by the window in the sun."
+              }
+            },
+            {
+              "name": "Bus to Valdelagrana Beach",
+              "tip_5lang": {
+                "de": "Nehmen Sie den Bus rechtzeitig vor 17:30 Uhr.",
+                "hu": "Szállj buszra időben, 17:30 előtt.",
+                "ro": "Luați autobuzul din timp, înainte de ora 17:30.",
+                "en": "Take the bus in time, before 5:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne können sich von Sommerzeiten unterscheiden.",
+              "Der Bahnhof ist gut an Cadiz und Jerez angebunden.",
+              "Nutzen Sie die warmen Mittagsstunden für Besichtigungen.",
+              "Abends kühlt es schnell ab, Jacke im Bus bereit halten."
+            ],
+            "hu": [
+              "A téli menetrendek eltérhetnek a nyáriaktól.",
+              "Az állomás jól kapcsolódik Cadizhoz és Jerezhez.",
+              "Használd a meleg déli órákat a városnézésre.",
+              "Este gyorsan lehűl az idő, tarts kabátot a buszon."
+            ],
+            "ro": [
+              "Orarele de iarnă pot diferi de cele de vară.",
+              "Gara este bine conectată cu Cadiz și Jerez.",
+              "Folosiți orele calde de la prânz pentru vizite.",
+              "Seara se răcește repede, aveți o jachetă în autobuz."
+            ],
+            "en": [
+              "Winter schedules may differ from summer times.",
+              "The station is well connected to Cadiz and Jerez.",
+              "Utilize the warm midday hours for sightseeing.",
+              "Temperatures drop quickly in the evening, keep a jacket ready."
+            ]
+          }
+        }
       }
     }
   }

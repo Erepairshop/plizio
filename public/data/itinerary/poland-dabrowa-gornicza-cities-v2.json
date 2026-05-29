@@ -333,6 +333,196 @@
           "Check the museum's opening hours in advance.",
           "The Basilica is an active church, so dress respectfully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie im imposanten Kulturpalast und spazieren Sie mit Schirm durch den Haller-Park zur Basilika. Mittags wärmt ein Essen im Zentrum. Der Nachmittag bietet trockene Kultur im Stadtmuseum, bevor der Tag im Zielona-Park endet.",
+            "hu": "Kezdje a lenyűgöző Kultúrpalotában, majd esernyővel sétáljon át a Haller parkon a bazilikához. Egy meleg ebéd a központban felfrissít. Délután száraz menedék a városi múzeum, mielőtt a Zielona parkban zárná a napot.",
+            "ro": "Începeți la impunătorul Palat al Culturii, traversând cu umbrela Parcul Haller spre basilică. Un prânz cald în centru vă revigorează. După-amiaza oferă un refugiu uscat la muzeul orașului, înainte de a încheia ziua în Parcul Zielona.",
+            "en": "Start at the impressive Palace of Culture, walking with an umbrella through Haller Park to the basilica. A warm lunch in the center revives you. The afternoon offers dry refuge in the city museum before ending in Zielona Park."
+          },
+          "stops": [
+            {
+              "name": "Palace of Culture of Zagłębie",
+              "tip_5lang": {
+                "de": "Prächtige Innenräume zum Aufwärmen.",
+                "hu": "Pompás belső terek a felmelegedéshez.",
+                "ro": "Interioare magnifice pentru a vă încălzi.",
+                "en": "Magnificent interiors to warm up in."
+              }
+            },
+            {
+              "name": "Haller Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Hauptwegen.",
+                "hu": "Maradjon a burkolt főútvonalakon.",
+                "ro": "Rămâneți pe aleile principale pavate.",
+                "en": "Stay on the paved main paths."
+              }
+            },
+            {
+              "name": "Neo-Gothic Basilica",
+              "tip_5lang": {
+                "de": "Ein trockener Ort für eine besinnliche Pause.",
+                "hu": "Száraz hely egy elmélkedő szünetre.",
+                "ro": "Un loc uscat pentru o pauză contemplativă.",
+                "en": "A dry place for a contemplative break."
+              }
+            },
+            {
+              "name": "City Museum 'Sztygarka'",
+              "tip_5lang": {
+                "de": "Ideales Indoor-Ziel bei starkem Regen.",
+                "hu": "Ideális benti célpont heves esőben.",
+                "ro": "Destinație de interior ideală pe ploaie puternică.",
+                "en": "Ideal indoor destination in heavy rain."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Viele gemütliche Lokale in der Nähe.",
+                "hu": "Sok hangulatos étterem a közelben.",
+                "ro": "Multe restaurante confortabile în apropiere.",
+                "en": "Many cozy restaurants nearby."
+              }
+            },
+            {
+              "name": "Zielona Park",
+              "tip_5lang": {
+                "de": "Nehmen Sie einen Schirm für den Parkspaziergang mit.",
+                "hu": "Vigyen magával esernyőt a parki sétához.",
+                "ro": "Luați o umbrelă pentru plimbarea prin parc.",
+                "en": "Take an umbrella for the park walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen robusten Regenschirm mit.",
+              "Tragen Sie wasserfeste, rutschfeste Schuhe.",
+              "Nutzen Sie die Indoor-Attraktionen für längere Pausen.",
+              "Viele Wege in den Parks können pfützenreich sein.",
+              "Planen Sie mehr Zeit für gemütliche Café-Besuche ein."
+            ],
+            "hu": [
+              "Vigyen magával strapabíró esernyőt.",
+              "Viseljen vízálló, csúszásmentes cipőt.",
+              "Használja ki a benti látványosságokat hosszabb pihenőkre.",
+              "A parkok számos útja tócsás lehet.",
+              "Tervezzen több időt a kényelmes kávézózásokra."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă cu dumneavoastră.",
+              "Purtați încălțăminte impermeabilă și antiderapantă.",
+              "Folosiți atracțiile de interior pentru pauze mai lungi.",
+              "Multe căi din parcuri pot avea băltoace.",
+              "Planificați mai mult timp pentru vizite relaxante la cafenele."
+            ],
+            "en": [
+              "Take a sturdy umbrella with you.",
+              "Wear waterproof, slip-resistant shoes.",
+              "Use the indoor attractions for longer breaks.",
+              "Many paths in the parks can be full of puddles.",
+              "Plan more time for cozy cafe visits."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Kulturpalast, gefolgt von einem winterlichen Spaziergang zur Basilika. Mittags lockt ein heißes Essen im Zentrum. Der Nachmittag führt ins warme Stadtmuseum und zu einem verschneiten Spaziergang im Zielona-Park.",
+            "hu": "Fagyos reggel a Kultúrpalotánál, majd téli séta a bazilikához. Délben egy forró ebéd csábít a központban. Délután a meleg városi múzeum várja, majd egy havas séta a Zielona parkban zárja a napot.",
+            "ro": "O dimineață geroasă la Palatul Culturii, urmată de o plimbare hibernală spre basilică. La prânz, o masă caldă în centru. După-amiaza vă duce la muzeul cald al orașului și la o plimbare prin Parcul Zielona înzăpezit.",
+            "en": "A frosty morning at the Palace of Culture, followed by a winter walk to the basilica. At noon, a hot meal in the center beckons. The afternoon leads to the warm city museum and a snowy stroll in Zielona Park."
+          },
+          "stops": [
+            {
+              "name": "Palace of Culture of Zagłębie",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Architektur von innen.",
+                "hu": "Élvezze a téli építészetet belülről.",
+                "ro": "Bucurați-vă de arhitectura de iarnă din interior.",
+                "en": "Enjoy the winter architecture from inside."
+              }
+            },
+            {
+              "name": "Haller Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor versteckten Eisflächen.",
+                "hu": "Óvakodjon a rejtett jégfoltoktól.",
+                "ro": "Feriți-vă de peticele de gheață ascunse.",
+                "en": "Watch out for hidden ice patches."
+              }
+            },
+            {
+              "name": "Neo-Gothic Basilica",
+              "tip_5lang": {
+                "de": "Ein ruhiger, aber kühler Ort der Besinnung.",
+                "hu": "Csendes, de hűvös elmélkedési hely.",
+                "ro": "Un loc liniștit, dar răcoros de reflecție.",
+                "en": "A quiet but cool place of reflection."
+              }
+            },
+            {
+              "name": "City Museum 'Sztygarka'",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei historischen Ausstellungen auf.",
+                "hu": "Melegedjen fel a történelmi kiállításokon.",
+                "ro": "Încălziți-vă la expozițiile istorice.",
+                "en": "Warm up with historical exhibitions."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Heiße Suppen sind jetzt besonders empfehlenswert.",
+                "hu": "A forró levesek most különösen ajánlottak.",
+                "ro": "Supele fierbinți sunt deosebit de recomandate acum.",
+                "en": "Hot soups are highly recommended now."
+              }
+            },
+            {
+              "name": "Zielona Park",
+              "tip_5lang": {
+                "de": "Im Winterwald wird es früh dunkel.",
+                "hu": "A téli erdőben korán sötétedik.",
+                "ro": "În pădurea de iarnă se întunecă devreme.",
+                "en": "It gets dark early in the winter forest."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ziehen Sie sich in mehreren Schichten warm an.",
+              "Die Sonne geht im Winter bereits gegen 15:30 Uhr unter.",
+              "Achten Sie auf vereiste Stellen in den Parks.",
+              "Heiße Getränke in den Pausen halten Sie warm.",
+              "Das Museum schließt im Winter möglicherweise früher."
+            ],
+            "hu": [
+              "Öltözzön fel melegen, rétegesen.",
+              "Télen a nap már 15:30 körül lenyugszik.",
+              "Ügyeljen a jeges foltokra a parkokban.",
+              "A forró italok melegen tartják a pihenők alatt.",
+              "A múzeum télen esetleg korábban zár."
+            ],
+            "ro": [
+              "Îmbrăcați-vă călduros, în straturi.",
+              "Iarna, soarele apune în jurul orei 15:30.",
+              "Atenție la zonele înghețate din parcuri.",
+              "Băuturile calde din pauze vă mențin încălzit.",
+              "Este posibil ca muzeul să se închidă mai devreme iarna."
+            ],
+            "en": [
+              "Dress warmly in multiple layers.",
+              "In winter, the sun sets around 15:30.",
+              "Watch out for icy spots in the parks.",
+              "Hot drinks during breaks keep you warm.",
+              "The museum might close earlier in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -1010,6 +1200,214 @@
           "Allow extra time for traffic, especially in the late afternoon.",
           "Use a navigation app to find the best routes between locations."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie zur St.-Antonius-Kirche und betrachten Sie die Błędów-Wüste im Regen. Nach einem Blick auf den Pogoria-See wärmt ein Mittagessen. Der Nachmittag bietet Parkansichten und trockene Erkundungen im Kulturpalast und im Bergwerksstollen.",
+            "hu": "Vezessen a Szent Antal-templomhoz, majd nézze meg a Błędów-sivatagot esőben. A Pogoria-tó után jól esik a meleg ebéd. Délután parki kilátások, majd száraz felfedezés a Kultúrpalotában és a bányajáratban.",
+            "ro": "Conduceți la Biserica Sf. Anton, apoi vedeți Deșertul Błędów în ploaie. După Lacul Pogoria, un prânz cald este binevenit. După-amiaza aduce vederi din parc și explorări uscate în Palatul Culturii și în mina subterană.",
+            "en": "Drive to St. Anthony Church and see the Błędów Desert in the rain. After viewing Pogoria Lake, a warm lunch is welcome. The afternoon brings park views and dry explorations in the Palace of Culture and the underground mine."
+          },
+          "stops": [
+            {
+              "name": "St. Anthony Church (Gołonóg)",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang.",
+                "hu": "Parkoljon közel a bejárathoz.",
+                "ro": "Parcați aproape de intrare.",
+                "en": "Park close to the entrance."
+              }
+            },
+            {
+              "name": "Błędów Desert",
+              "tip_5lang": {
+                "de": "Der Sand kann bei Regen schwer und matschig sein.",
+                "hu": "A homok esőben nehéz és sáros lehet.",
+                "ro": "Nisipul poate fi greu și noroios pe ploaie.",
+                "en": "The sand can be heavy and muddy in the rain."
+              }
+            },
+            {
+              "name": "Pogoria III Lake",
+              "tip_5lang": {
+                "de": "Die Aussicht ist auch aus dem Auto schön.",
+                "hu": "A kilátás autóból is szép.",
+                "ro": "Priveliștea este frumoasă și din mașină.",
+                "en": "The view is beautiful from the car too."
+              }
+            },
+            {
+              "name": "Lunch by the Lake",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit überdachter Terrasse.",
+                "hu": "Keressen fedett teraszos éttermet.",
+                "ro": "Căutați un restaurant cu terasă acoperită.",
+                "en": "Look for a restaurant with a covered terrace."
+              }
+            },
+            {
+              "name": "Zielona Park",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang zwischen den Regenschauern.",
+                "hu": "Rövid séta az esőzések között.",
+                "ro": "Scurtă plimbare între aversele de ploaie.",
+                "en": "Short walk between rain showers."
+              }
+            },
+            {
+              "name": "Palace of Culture of Zagłębie",
+              "tip_5lang": {
+                "de": "Trockene Kulturgeschichte im Zentrum.",
+                "hu": "Száraz kultúrtörténet a központban.",
+                "ro": "Istorie culturală uscată în centru.",
+                "en": "Dry cultural history in the center."
+              }
+            },
+            {
+              "name": "Underground Training Mine",
+              "tip_5lang": {
+                "de": "Perfekt für regnerische Nachmittage.",
+                "hu": "Tökéletes esős délutánokra.",
+                "ro": "Perfect pentru după-amiezi ploioase.",
+                "en": "Perfect for rainy afternoons."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie bei starkem Regen langsamer, besonders zur Wüste.",
+              "Parken Sie strategisch nah an den Eingängen.",
+              "Nehmen Sie einen Schirm für kurze Fußwege mit.",
+              "Überprüfen Sie vorab die Öffnungszeiten des Bergwerks.",
+              "Ein Auto bietet perfekte Flexibilität bei unbeständigem Wetter."
+            ],
+            "hu": [
+              "Vezessen lassabban heves esőben, különösen a sivatag felé.",
+              "Parkoljon stratégiailag közel a bejáratokhoz.",
+              "Vigyen magával esernyőt a rövid sétákhoz.",
+              "Előre ellenőrizze a bánya nyitvatartását.",
+              "Az autó tökéletes rugalmasságot nyújt változékony időben."
+            ],
+            "ro": [
+              "Conduceți mai încet pe ploaie puternică, în special spre deșert.",
+              "Parcați strategic aproape de intrări.",
+              "Luați o umbrelă pentru scurte plimbări pe jos.",
+              "Verificați din timp programul minei.",
+              "O mașină oferă flexibilitate perfectă pe vreme instabilă."
+            ],
+            "en": [
+              "Drive slower in heavy rain, especially to the desert.",
+              "Park strategically close to the entrances.",
+              "Take an umbrella for short walks.",
+              "Check the opening hours of the mine in advance.",
+              "A car offers perfect flexibility in changeable weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Verschneite Fahrt zur Antoniuskirche und zur frostigen Błędów-Wüste. Der Pogoria-See glitzert im Eis, gefolgt von einem gemütlichen Essen. Nachmittags durch den weißen Zielona-Park ins warme Innere von Kulturpalast und Bergwerk.",
+            "hu": "Havas út az Antal-templomhoz és a fagyos Błędów-sivataghoz. A Pogoria-tó jegesen csillog, utána egy hangulatos ebéd várja. Délután a fehér Zielona parkon át a Kultúrpalota és a bánya melegébe.",
+            "ro": "Drum înzăpezit spre Biserica Anton și deșertul înghețat Błędów. Lacul Pogoria strălucește în gheață, urmat de un prânz confortabil. După-amiaza, prin parcul alb Zielona spre căldura Palatului Culturii și a minei.",
+            "en": "Snowy drive to St. Anthony Church and the frosty Błędów Desert. Pogoria Lake glitters in ice, followed by a cozy lunch. Afternoon through the white Zielona Park to the warmth of the Palace of Culture and the mine."
+          },
+          "stops": [
+            {
+              "name": "St. Anthony Church (Gołonóg)",
+              "tip_5lang": {
+                "de": "Die Hügelkirche kann windig sein.",
+                "hu": "A dombtetőn lévő templom szeles lehet.",
+                "ro": "Biserica de pe deal poate fi vântoasă.",
+                "en": "The hilltop church can be windy."
+              }
+            },
+            {
+              "name": "Błędów Desert",
+              "tip_5lang": {
+                "de": "Eine einzigartige Schneelandschaft erwartet Sie.",
+                "hu": "Egyedülálló havas táj várja Önt.",
+                "ro": "Un peisaj de zăpadă unic vă așteaptă.",
+                "en": "A unique snowy landscape awaits you."
+              }
+            },
+            {
+              "name": "Pogoria III Lake",
+              "tip_5lang": {
+                "de": "Der zugefrorene See bietet ein tolles Fotomotiv.",
+                "hu": "A befagyott tó remek fotótéma.",
+                "ro": "Lacul înghețat oferă un motiv foto excelent.",
+                "en": "The frozen lake offers a great photo opportunity."
+              }
+            },
+            {
+              "name": "Lunch by the Lake",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit Blick auf das Eis auf.",
+                "hu": "Melegedjen fel a jégre néző kilátással.",
+                "ro": "Încălziți-vă cu vedere la gheață.",
+                "en": "Warm up with a view of the ice."
+              }
+            },
+            {
+              "name": "Zielona Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf verschneiten Gehwegen.",
+                "hu": "Óvatosan a havas járdákon.",
+                "ro": "Atenție pe trotuarele înzăpezite.",
+                "en": "Be careful on snowy sidewalks."
+              }
+            },
+            {
+              "name": "Palace of Culture of Zagłębie",
+              "tip_5lang": {
+                "de": "Ein warmer Kontrast zur Winterkälte.",
+                "hu": "Meleg kontraszt a téli hideghez.",
+                "ro": "Un contrast cald cu frigul iernii.",
+                "en": "A warm contrast to the winter cold."
+              }
+            },
+            {
+              "name": "Underground Training Mine",
+              "tip_5lang": {
+                "de": "Konstant kühle, aber windgeschützte Umgebung.",
+                "hu": "Állandóan hűvös, de szélvédett környezet.",
+                "ro": "Mediu constant răcoros, dar ferit de vânt.",
+                "en": "Constantly cool, but wind-protected environment."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Polen für diese Jahreszeit sehr zu empfehlen.",
+              "Reinigen Sie Ihr Auto komplett von Schnee vor der Fahrt.",
+              "Die Straßen zur Błędów-Wüste können rutschig sein.",
+              "Packen Sie eine warme Decke für Notfälle ein.",
+              "Beachten Sie die frühe Dunkelheit für die Rückfahrt."
+            ],
+            "hu": [
+              "A téli gumiabroncsok nagyon ajánlottak Lengyelországban ebben az évszakban.",
+              "Indulás előtt teljesen tisztítsa meg az autóját a hótól.",
+              "A Błędów-sivatag felé vezető utak csúszósak lehetnek.",
+              "Csomagoljon be egy meleg takarót vészhelyzet esetére.",
+              "Vegye figyelembe a korai sötétedést a visszaútnál."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt foarte recomandate în Polonia în acest sezon.",
+              "Curățați complet mașina de zăpadă înainte de a pleca.",
+              "Drumurile spre Deșertul Błędów pot fi alunecoase.",
+              "Împachetați o pătură caldă pentru situații de urgență.",
+              "Țineți cont de întunericul timpuriu la întoarcere."
+            ],
+            "en": [
+              "Winter tires are highly recommended in Poland for this season.",
+              "Clean your car completely of snow before driving.",
+              "The roads to the Błędów Desert can be slippery.",
+              "Pack a warm blanket for emergencies.",
+              "Be aware of the early darkness for the drive back."
+            ]
+          }
+        }
       }
     },
     "transit": {

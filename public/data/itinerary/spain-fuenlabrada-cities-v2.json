@@ -342,6 +342,188 @@
           "Most shops observe a siesta, so plan your shopping accordingly.",
           "Enjoy a 'Menú del Día' for lunch for great value."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag unter den Arkaden am Platz der Verfassung. Der Regen macht die historischen Fassaden der St.-Stephans-Kirche glänzend, die einen trockenen Rückzugsort bietet. Den Mittag verbringen Sie im weitläufigen Tomás y Valiente Kunstzentrum, einem idealen Ort für regnerische Stunden. Ein kurzer Spaziergang durch den Park der Staaten beschließt den Tag.",
+            "hu": "Kezdje a napot az esernyők alatt a Constitution téren. Az eső különleges fényt ad a Szent István-templom kőfalainak, ahol szárazon pihenhet meg. A délutánt a Tomás y Valiente Művészeti Központ tágas tereiben töltse, amely tökéletes menedék a felhőszakadás elől. Zárja a sétát az Államok parkjának aszfaltozott ösvényein.",
+            "ro": "Începeți ziua sub arcadele din Piața Constituției. Ploaia conferă o strălucire aparte bisericii Sfântul Ștefan, oferind un refugiu uscat. Petreceți amiaza în spațiul generos al Centrului de Artă Tomás y Valiente, ideal pentru orele cu precipitații. Încheiați ziua cu o plimbare scurtă prin Parcul Statelor pe aleile asfaltate.",
+            "en": "Start your day under the cover of the Constitution Square arcades. The rain adds a sheen to the Church of Saint Stephen, providing a dry sanctuary. Spend your midday inside the vast Tomás y Valiente Art Centre, an ideal spot for rainy hours. A brief walk through the Park of the States on paved paths concludes the day."
+          },
+          "stops": [
+            {
+              "name": "Constitution Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
+                "hu": "Használja a környező épületek árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele clădirilor din jur pentru a vă adăposti de ploaie.",
+                "en": "Use the arcades of the surrounding buildings for shelter from the rain."
+              }
+            },
+            {
+              "name": "Church of Saint Stephen Protomartyr",
+              "tip_5lang": {
+                "de": "Bewundern Sie das Altarbild, während Sie im Trockenen warten.",
+                "hu": "Csodálja meg az oltárképet, amíg a szárazban várakozik.",
+                "ro": "Admirați retablul în timp ce așteptați la adăpost.",
+                "en": "Admire the altarpiece while waiting in the dry interior."
+              }
+            },
+            {
+              "name": "Fountain of the Stairs",
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp; die Steinstufen können bei Nässe rutschig sein.",
+                "hu": "Gyors fotómegálló; a kőlépcsők nedvesen csúszósak lehetnek.",
+                "ro": "O oprire rapidă pentru fotografii; treptele pot fi alunecoase pe ploaie.",
+                "en": "A quick photo stop; the stone steps can be slippery when wet."
+              }
+            },
+            {
+              "name": "Tomás y Valiente Art Centre",
+              "tip_5lang": {
+                "de": "Garderobe im Erdgeschoss nutzen, um nasse Mäntel und Schirme abzugeben.",
+                "hu": "Használja a földszinti ruhatárat a vizes kabátok és esernyők leadására.",
+                "ro": "Folosiți garderoba de la parter pentru a lăsa hainele și umbrelele ude.",
+                "en": "Use the ground floor cloakroom to drop off wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Park of the States",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Hauptwegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon a kövezett főutakon, hogy elkerülje a sarat.",
+                "ro": "Rămâneți pe aleile principale pavate pentru a evita noroiul.",
+                "en": "Stay on the main paved paths to avoid mud."
+              }
+            },
+            {
+              "name": "URJC Fuenlabrada Campus",
+              "tip_5lang": {
+                "de": "Die Cafeteria des Campus bietet einen warmen Platz zum Aufwärmen.",
+                "hu": "A campus büféje meleg helyet kínál a felmelegedéshez.",
+                "ro": "Cafeneaua campusului oferă un loc cald pentru a vă încălzi.",
+                "en": "The campus cafeteria offers a warm spot to dry off."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fuenlabrada hat viele moderne Gebäude mit Vordächern.",
+              "Das Tomás y Valiente ist der beste Ort für lange Regenschauer.",
+              "Die Metrostationen bieten trockene Verbindungen zwischen den Vierteln.",
+              "Ein Taschenschirm ist wegen gelegentlicher Windböen unerlässlich."
+            ],
+            "hu": [
+              "Fuenlabrada sok modern épülete rendelkezik védőtetővel.",
+              "A Tomás y Valiente a legjobb hely a hosszú záporok idejére.",
+              "A metróállomások száraz összeköttetést biztosítanak a negyedek között.",
+              "Az összecsukható esernyő elengedhetetlen a hirtelen széllökések miatt."
+            ],
+            "ro": [
+              "Fuenlabrada are multe clădiri moderne cu copertine protectoare.",
+              "Tomás y Valiente este cel mai bun loc pentru perioadele lungi de ploaie.",
+              "Stațiile de metrou oferă conexiuni uscate între cartiere.",
+              "O umbrelă compactă este esențială din cauza rafalelor de vânt ocazionale."
+            ],
+            "en": [
+              "Fuenlabrada has many modern buildings with protective overhangs.",
+              "The Tomás y Valiente is the best place for long rain showers.",
+              "Metro stations provide dry connections between neighborhoods.",
+              "A compact umbrella is essential due to occasional wind gusts."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die frische Winterluft auf dem Platz der Verfassung. Nach der Besichtigung der Kirche wärmen Sie sich in einem Café in der Nähe auf. Das Tomás y Valiente Kunstzentrum bietet beheizte Galerien für den Mittag. Da die Sonne gegen 18:00 Uhr untergeht, genießen Sie das goldene Licht im Park der Staaten am frühen Nachmittag.",
+            "hu": "Élvezze a friss téli levegőt a Constitution téren. A templomlátogatás után melegedjen fel egy közeli kávézóban. A Tomás y Valiente Művészeti Központ fűtött galériákat kínál délidőben. Mivel a nap 18:00 körül nyugszik, élvezze az aranyló fényeket az Államok parkjában kora délután.",
+            "ro": "Experimentați aerul proaspăt de iarnă în Piața Constituției. După vizitarea bisericii, încălziți-vă într-o cafenea din apropiere. Centrul de Artă Tomás y Valiente oferă galerii încălzite pentru amiază. Deoarece soarele apune în jurul orei 18:00, bucurați-vă de lumina aurie în Parcul Statelor la începutul după-amiezii.",
+            "en": "Experience the crisp winter air at Constitution Square. After visiting the church, warm up in a nearby cafe. The Tomás y Valiente Art Centre offers heated galleries for midday. Since the sun sets around 18:00, enjoy the golden light in the Park of the States in the early afternoon."
+          },
+          "stops": [
+            {
+              "name": "Constitution Square",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen sonnigen Platz auf den Bänken am Vormittag.",
+                "hu": "Keressen egy napsütötte padot a délelőtti órákban.",
+                "ro": "Căutați o bancă însorită în timpul dimineții.",
+                "en": "Look for a sunny bench during the morning hours."
+              }
+            },
+            {
+              "name": "Church of Saint Stephen Protomartyr",
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte draußen; ideal für eine Pause.",
+                "hu": "A vastag kőfalak kint tartják a hideget; ideális egy rövid pihenőre.",
+                "ro": "Zidurile groase de piatră țin frigul afară; ideal pentru o pauză.",
+                "en": "The thick stone walls keep the cold out; ideal for a short break."
+              }
+            },
+            {
+              "name": "Fountain of the Stairs",
+              "tip_5lang": {
+                "de": "Das fließende Wasser wirkt im Winterlicht besonders klar.",
+                "hu": "A folyó víz különösen tisztának tűnik a téli fényben.",
+                "ro": "Apa curgătoare pare deosebit de limpede în lumina iernii.",
+                "en": "The flowing water looks particularly clear in the winter light."
+              }
+            },
+            {
+              "name": "Tomás y Valiente Art Centre",
+              "tip_5lang": {
+                "de": "Perfekt beheiztes Gebäude für einen längeren Aufenthalt.",
+                "hu": "Tökéletesen fűtött épület a hosszabb tartózkodáshoz.",
+                "ro": "Clădire perfect încălzită pentru o vizită prelungită.",
+                "en": "Perfectly heated building for a longer stay."
+              }
+            },
+            {
+              "name": "Park of the States",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang vor 18:00 Uhr auf den freien Flächen.",
+                "hu": "Élvezze a naplementét 18:00 előtt a nyitott területeken.",
+                "ro": "Bucurați-vă de apusul soarelui înainte de ora 18:00 pe spațiile deschise.",
+                "en": "Enjoy the sunset before 18:00 on the open areas."
+              }
+            },
+            {
+              "name": "URJC Fuenlabrada Campus",
+              "tip_5lang": {
+                "de": "Die Bibliothek ist ein warmer Ort, um die Architektur zu bewundern.",
+                "hu": "A könyvtár meleg hely az építészet megcsodálásához.",
+                "ro": "Biblioteca este un loc cald pentru a admira arhitectura.",
+                "en": "The library is a warm spot to admire the architecture."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung hilft gegen den kalten Wind.",
+              "Die Sonne ist stark, auch wenn es kalt ist; Sonnenschutz nutzen.",
+              "Cafés rund um das Rathaus servieren heiße Schokolade.",
+              "Planen Sie Outdoor-Aktivitäten für die Zeit zwischen 11:00 und 16:00 Uhr."
+            ],
+            "hu": [
+              "A réteges öltözködés segít a hideg szél ellen.",
+              "A nap erős, még ha hideg is van; használjon fényvédőt.",
+              "A városháza körüli kávézók forró csokoládét szolgálnak fel.",
+              "A kültéri programokat 11:00 és 16:00 közé időzítse."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi ajută împotriva vântului rece.",
+              "Soarele este puternic chiar dacă e frig; folosiți protecție solară.",
+              "Cafenelele din jurul primăriei servesc ciocolată caldă.",
+              "Planificați activitățile în aer liber între orele 11:00 și 16:00."
+            ],
+            "en": [
+              "Layered clothing helps against the cold wind.",
+              "The sun is strong even if it's cold; use sun protection.",
+              "Cafes around the town hall serve hot chocolate.",
+              "Schedule outdoor activities between 11:00 and 16:00."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -678,6 +860,188 @@
           "A good lock is essential, especially in the city center.",
           "Plan for a lunch break in Polvoranca Park for a picnic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt durch Fuenlabrada erfordert Vorsicht auf den Radwegen. Start am Platz der Verfassung, gefolgt von einem langen Halt im Kunstzentrum, um den Regen abzuwarten. Die Fahrt zur Eremitage von Belén führt über befestigte Straßen. Der Polvoranca-Park bietet im Regen eine ruhige, fast mystische Atmosphäre.",
+            "hu": "A vizes kerékpárutakon óvatosan haladjon Fuenlabradában. Kezdjen a Constitution téren, majd tartson egy hosszabb szünetet a művészeti központban, amíg eláll az eső. A Belén-remetelakhoz vezető út aszfaltozott szakaszokon halad. A Polvoranca park az esőben csendes, már-már misztikus hangulatot áraszt.",
+            "ro": "O cursă umedă prin Fuenlabrada necesită prudență pe pistele de biciclete. Începeți în Piața Constituției, urmată de o oprire lungă la centrul de artă pentru a aștepta trecerea ploii. Drumul spre Schitul Belén urmează trasee asfaltate. Parcul Polvoranca oferă o atmosferă liniștită, aproape mistică, pe ploaie.",
+            "en": "A wet ride through Fuenlabrada requires caution on the bike paths. Start at Constitution Square, followed by a long stop at the art centre to wait out the rain. The route to the Hermitage of Belén follows paved roads. Polvoranca Park offers a quiet, almost mystical atmosphere in the rain."
+          },
+          "stops": [
+            {
+              "name": "Constitution Square",
+              "tip_5lang": {
+                "de": "Bremstests auf dem Kopfsteinpflaster durchführen.",
+                "hu": "Végezzen fékpróbát a macskaköves részeken.",
+                "ro": "Testați frânele pe porțiunile cu pavaj.",
+                "en": "Test your brakes on the cobbled sections."
+              }
+            },
+            {
+              "name": "Tomás y Valiente Art Centre",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Fedett kerékpártárolók találhatók a bejárat közelében.",
+                "ro": "Suporturi de biciclete acoperite se află lângă intrare.",
+                "en": "Covered bike racks are located near the entrance."
+              }
+            },
+            {
+              "name": "Hermitage of Belén",
+              "tip_5lang": {
+                "de": "Der Zugangsweg ist asphaltiert und gut befahrbar.",
+                "hu": "A hozzáférési út aszfaltozott és jól járható.",
+                "ro": "Drumul de acces este asfaltat și ușor de parcurs.",
+                "en": "The access path is paved and easy to ride."
+              }
+            },
+            {
+              "name": "Polvoranca Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie unbefestigte Wege; nutzen Sie den Radring.",
+                "hu": "Kerülje a földutakat; használja a kerékpáros körutat.",
+                "ro": "Evitați drumurile de pământ; folosiți centura pentru biciclete.",
+                "en": "Avoid dirt tracks; use the circular bike path."
+              }
+            },
+            {
+              "name": "Park of the States",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem Laub auf den Wegen.",
+                "hu": "Vigyázzon a csúszós levelekre az utakon.",
+                "ro": "Atenție la frunzele alunecoase de pe alei.",
+                "en": "Watch out for slippery leaves on the paths."
+              }
+            },
+            {
+              "name": "Church of Saint Stephen Protomartyr",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach eines Cafés ab.",
+                "hu": "Állítsa le a kerékpárt egy kávézó előtetője alá.",
+                "ro": "Parcați bicicleta sub copertina unei cafenele.",
+                "en": "Park your bike under a cafe's awning."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist für diese 11,8 km lange Tour ratsam.",
+              "Achten Sie auf Pfützen, die Schlaglöcher verbergen könnten.",
+              "Die Bremswege verlängern sich bei Nässe erheblich.",
+              "Nutzen Sie die hellen Scheinwerfer auch tagsüber."
+            ],
+            "hu": [
+              "A teljes esőruházat javasolt ehhez a 11,8 km-es túrához.",
+              "Ügyeljen a tócsákra, amelyek kátyúkat rejthetnek.",
+              "A féktávolság jelentősen megnő vizes úton.",
+              "Használja az erős fényszórókat nappal is."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este recomandat pentru acest tur de 11,8 km.",
+              "Atenție la bălțile care pot ascunde gropi.",
+              "Distanța de frânare crește semnificativ pe carosabil umed.",
+              "Folosiți farurile aprinse chiar și în timpul zilei."
+            ],
+            "en": [
+              "Full rain gear is recommended for this 11.8 km tour.",
+              "Watch out for puddles that might hide potholes.",
+              "Braking distances increase significantly on wet roads.",
+              "Use bright headlights even during the day."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger, aber kalter Wintertag ist ideal für die Radtour durch Fuenlabrada. Die Route führt Sie zum Polvoranca-Park, wo die Luft am See besonders frisch ist. Das Tomás y Valiente bietet eine warme Pause zwischen den Etappen. Beenden Sie die Tour an der Kirche, bevor die Abendkälte einsetzt.",
+            "hu": "Egy napsütéses, de hideg téli nap ideális a fuenlabradai kerékpártúrához. Az útvonal a Polvoranca parkba vezet, ahol a tavi levegő különösen friss. A Tomás y Valiente meleg pihenőt kínál a szakaszok között. Zárja a túrát a templomnál, mielőtt beáll az esti fagy.",
+            "ro": "O zi de iarnă însorită, dar rece, este ideală pentru turul cu bicicleta prin Fuenlabrada. Traseul vă duce în Parcul Polvoranca, unde aerul de lângă lac este foarte proaspăt. Tomás y Valiente oferă o pauză caldă între etape. Încheiați turul la biserică înainte de instalarea frigului de seară.",
+            "en": "A sunny but cold winter day is ideal for the bike tour through Fuenlabrada. The route takes you to Polvoranca Park, where the lakeside air is especially fresh. The Tomás y Valiente offers a warm break between stages. End the tour at the church before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Constitution Square",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die erste Etappe am Morgen wichtig.",
+                "hu": "A kesztyű fontos a reggeli első szakaszhoz.",
+                "ro": "Mănușile sunt importante pentru prima etapă a dimineții.",
+                "en": "Gloves are important for the first leg in the morning."
+              }
+            },
+            {
+              "name": "Tomás y Valiente Art Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pause, um die Finger aufzuwärmen.",
+                "hu": "Használja ki a szünetet az ujjai felmelegítésére.",
+                "ro": "Folosiți pauza pentru a vă încălzi degetele.",
+                "en": "Use the break to warm up your fingers."
+              }
+            },
+            {
+              "name": "Hermitage of Belén",
+              "tip_5lang": {
+                "de": "Der offene Platz ist windanfällig; Windjacke empfohlen.",
+                "hu": "A nyitott tér szeles lehet; széldzseki ajánlott.",
+                "ro": "Spațiul deschis este expus vântului; se recomandă jachetă de vânt.",
+                "en": "The open space is prone to wind; windbreaker recommended."
+              }
+            },
+            {
+              "name": "Polvoranca Park",
+              "tip_5lang": {
+                "de": "Der Wind am See kann im Winter sehr schneidend sein.",
+                "hu": "A tavi szél télen nagyon metsző lehet.",
+                "ro": "Vântul de lângă lac poate fi tăios iarna.",
+                "en": "The lakeside wind can be very biting in winter."
+              }
+            },
+            {
+              "name": "Park of the States",
+              "tip_5lang": {
+                "de": "Sonnige Abschnitte auf den breiten Wegen suchen.",
+                "hu": "Keressen napsütötte szakaszokat a széles utakon.",
+                "ro": "Căutați porțiunile însorite pe aleile largi.",
+                "en": "Look for sunny sections on the wide paths."
+              }
+            },
+            {
+              "name": "Church of Saint Stephen Protomartyr",
+              "tip_5lang": {
+                "de": "Zügige Rückfahrt zum Startpunkt einplanen.",
+                "hu": "Tervezzen gyors visszautat a kiindulópontra.",
+                "ro": "Planificați o întoarcere rapidă la punctul de plecare.",
+                "en": "Plan a brisk return ride to the starting point."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck; kalte Luft verringert ihn.",
+              "Trinken Sie auch bei Kälte ausreichend Wasser.",
+              "Die Sonne blendet im Winter tiefer; Sonnenbrille tragen.",
+              "Vermeiden Sie lange Standzeiten im Freien ohne Bewegung."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást; a hideg levegő csökkenti azt.",
+              "Hidegben is igyon elegendő vizet.",
+              "A nap télen alacsonyabban vakít; viseljen napszemüveget.",
+              "Kerülje a hosszú, mozgás nélküli várakozást a szabadban."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope; aerul rece o reduce.",
+              "Beți suficientă apă chiar și pe frig.",
+              "Soarele orbește mai tare iarna fiind jos; purtați ochelari de soare.",
+              "Evitați perioadele lungi de staționare în aer liber fără mișcare."
+            ],
+            "en": [
+              "Check tire pressure; cold air reduces it.",
+              "Drink enough water even in the cold.",
+              "The sun is lower and more blinding in winter; wear sunglasses.",
+              "Avoid long periods of standing outside without moving."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1038,6 +1402,206 @@
           "A GPS is highly recommended for navigating the suburbs.",
           "Do not leave valuables visible in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto bietet den besten Komfort bei starkem Regen in Fuenlabrada. Beginnen Sie im Polvoranca-Park und nutzen Sie die kurzen Wege von den Parkplätzen zur Eremitage. Das zentrale Parkhaus ermöglicht einen trockenen Zugang zur Altstadt und zur St.-Stephans-Kirche. Den Tag beenden Sie im Park der Staaten.",
+            "hu": "Az autó kínálja a legnagyobb kényelmet heves esőzés idején Fuenlabradában. Kezdjen a Polvoranca parkban, és használja ki a rövid távolságot a parkolóktól a remetelakig. A központi parkolóház száraz utat biztosít az óvároshoz és a Szent István-templomhoz. A napot az Államok parkjánál zárja.",
+            "ro": "Mașina oferă cel mai bun confort în timpul ploilor abundente în Fuenlabrada. Începeți în Parcul Polvoranca și profitați de distanțele scurte de la parcări la schit. Parcarea centrală permite accesul uscat la orașul vechi și la biserica Sfântul Ștefan. Încheiați ziua la Parcul Statelor.",
+            "en": "The car offers the best comfort during heavy rain in Fuenlabrada. Start at Polvoranca Park and take advantage of the short walks from the parking areas to the hermitage. The central parking garage allows for dry access to the old town and Saint Stephen's Church. End the day at the Park of the States."
+          },
+          "stops": [
+            {
+              "name": "Polvoranca Park Parking",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am befestigten Weg.",
+                "hu": "Parkoljon a lehető legközelebb a kövezett úthoz.",
+                "ro": "Parcați cât mai aproape de drumul pavat.",
+                "en": "Park as close as possible to the paved path."
+              }
+            },
+            {
+              "name": "Hermitage of Belén",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Auto; Schirm nicht vergessen.",
+                "hu": "Gyors séta az autótól; ne felejtse el az esernyőt.",
+                "ro": "Scurt sprint de la mașină; nu uitați umbrela.",
+                "en": "Short sprint from the car; don't forget your umbrella."
+              }
+            },
+            {
+              "name": "Polvoranca Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie für Panoramafotos im Auto oder nutzen Sie die Unterstände.",
+                "hu": "Maradjon az autóban a panorámafotókhoz, vagy használja a beállókat.",
+                "ro": "Rămâneți în mașină pentru fotografii panoramice sau folosiți adăposturile.",
+                "en": "Stay in the car for panoramic photos or use the shelters."
+              }
+            },
+            {
+              "name": "Central Parking (near Plaza)",
+              "tip_5lang": {
+                "de": "Nutzen Sie ein unterirdisches Parkhaus für maximalen Komfort.",
+                "hu": "Használjon földalatti parkolót a maximális kényelem érdekében.",
+                "ro": "Folosiți o parcare subterană pentru confort maxim.",
+                "en": "Use an underground parking garage for maximum comfort."
+              }
+            },
+            {
+              "name": "Constitution Square",
+              "tip_5lang": {
+                "de": "Die Restaurants am Platz bieten trockene Sitzplätze.",
+                "hu": "A téren lévő éttermek száraz ülőhelyeket kínálnak.",
+                "ro": "Restaurantele din piață oferă locuri uscate.",
+                "en": "The restaurants on the square offer dry seating."
+              }
+            },
+            {
+              "name": "Church of Saint Stephen Protomartyr",
+              "tip_5lang": {
+                "de": "Besichtigung im Inneren dauert ca. 40 Minuten.",
+                "hu": "A belső látogatás kb. 40 percet vesz igénybe.",
+                "ro": "Vizitarea interiorului durează aproximativ 40 de minute.",
+                "en": "Indoor visit takes about 40 minutes."
+              }
+            },
+            {
+              "name": "Park of the States",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Eingang nutzen.",
+                "hu": "Használja a közvetlenül a bejáratnál lévő parkolót.",
+                "ro": "Folosiți parcarea direct de la intrare.",
+                "en": "Use the parking lot right at the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht bei Aquaplaning auf den Schnellstraßen nach Fuenlabrada.",
+              "Unterirdische Parkhäuser halten das Auto trocken.",
+              "Nutzen Sie die Scheibenheizung gegen Beschlagen.",
+              "Die Sicht kann bei starkem Regen stark eingeschränkt sein."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra (aquaplaning) a Fuenlabradába vezető utakon.",
+              "A földalatti parkolók szárazon tartják az autót.",
+              "Használja a szélvédőfűtést a párásodás ellen.",
+              "A látási viszonyok heves esőben jelentősen romolhatnak."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile spre Fuenlabrada.",
+              "Parcările subterane mențin mașina uscată.",
+              "Folosiți dezaburirea pentru parbriz.",
+              "Vizibilitatea poate fi redusă considerabil în timpul ploii abundente."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the roads to Fuenlabrada.",
+              "Underground parking garages keep the car dry.",
+              "Use the windshield defogger.",
+              "Visibility can be severely limited during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Autotour ermöglicht es Ihnen, die winterlichen Sehenswürdigkeiten von Fuenlabrada warm und flexibel zu erkunden. Starten Sie an der Eremitage und genießen Sie den weiten Blick im Polvoranca-Park. Das Parkhaus im Zentrum ist der ideale Ausgangspunkt für einen winterlichen Stadtbummel. Beenden Sie den Tag bequem im Auto.",
+            "hu": "Az autós túra lehetővé teszi Fuenlabrada téli látnivalóinak meleg és rugalmas felfedezését. Kezdjen a remetelaknál, és élvezze a tágas kilátást a Polvoranca parkban. A központi parkolóház ideális kiindulópont egy téli városi sétához. Zárja a napot kényelmesen az autóban.",
+            "ro": "Turul cu mașina vă permite să explorați atracțiile de iarnă din Fuenlabrada într-un mod cald și flexibil. Începeți la schit și bucurați-vă de vederea largă din Parcul Polvoranca. Parcarea din centru este punctul de plecare ideal pentru o plimbare hibernală prin oraș. Încheiați ziua confortabil în mașină.",
+            "en": "The car tour allows you to explore Fuenlabrada's winter sights warmly and flexibly. Start at the hermitage and enjoy the wide views in Polvoranca Park. The central parking garage is the ideal starting point for a winter city stroll. End the day comfortably in the car."
+          },
+          "stops": [
+            {
+              "name": "Polvoranca Park Parking",
+              "tip_5lang": {
+                "de": "Das Auto bleibt in der Wintersonne angenehm warm.",
+                "hu": "Az autó kellemesen felmelegszik a téli napsütésben.",
+                "ro": "Mașina rămâne plăcut de caldă în soarele de iarnă.",
+                "en": "The car stays pleasantly warm in the winter sun."
+              }
+            },
+            {
+              "name": "Hermitage of Belén",
+              "tip_5lang": {
+                "de": "Ideal für ein paar schnelle Winterfotos.",
+                "hu": "Ideális néhány gyors téli fotóhoz.",
+                "ro": "Ideal pentru câteva fotografii rapide de iarnă.",
+                "en": "Ideal for a few quick winter photos."
+              }
+            },
+            {
+              "name": "Polvoranca Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Basis für kurze Spaziergänge am See.",
+                "hu": "Használja az autót bázisként a tavi rövid sétákhoz.",
+                "ro": "Folosiți mașina ca bază pentru scurte plimbări lângă lac.",
+                "en": "Use the car as a base for short walks by the lake."
+              }
+            },
+            {
+              "name": "Central Parking (near Plaza)",
+              "tip_5lang": {
+                "de": "Zentraler Ort, um schnell wieder ins Warme zu kommen.",
+                "hu": "Központi hely, ahonnan gyorsan visszaérhet a melegbe.",
+                "ro": "Locație centrală pentru a reveni rapid la căldură.",
+                "en": "Central location to quickly get back into the warmth."
+              }
+            },
+            {
+              "name": "Constitution Square",
+              "tip_5lang": {
+                "de": "Genießen Sie einen warmen 'Café con leche' in der Nähe.",
+                "hu": "Élvezzen egy forró 'café con leche'-t a közelben.",
+                "ro": "Savurați un 'café con leche' cald în apropiere.",
+                "en": "Enjoy a warm 'café con leche' nearby."
+              }
+            },
+            {
+              "name": "Church of Saint Stephen Protomartyr",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei der Innenbesichtigung auf.",
+                "hu": "Melegedjen fel a belső látogatás során.",
+                "ro": "Încălziți-vă în timpul vizitei interioare.",
+                "en": "Warm up during the indoor visit."
+              }
+            },
+            {
+              "name": "Park of the States",
+              "tip_5lang": {
+                "de": "Der Park ist im Winter oft sehr leer und ruhig.",
+                "hu": "A park télen gyakran nagyon üres és csendes.",
+                "ro": "Parcul este adesea foarte gol și liniștit iarna.",
+                "en": "The park is often very empty and quiet in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Batterieleistung sinkt bei Kälte; Licht nicht unnötig anlassen.",
+              "Planen Sie mehr Zeit für das Parken in der Nähe der Plätze ein.",
+              "Nutzen Sie die Sitzheizung für die kurzen Fahrten zwischen den Zielen."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Az akkumulátor teljesítménye hidegben csökken; ne hagyja égve a lámpát.",
+              "Tervezzen több időt a parkolásra a terek közelében.",
+              "Használja az ülésfűtést a célpontok közötti rövid utakon."
+            ],
+            "ro": [
+              "Verificați antigelul din lichidul de parbriz.",
+              "Performanța bateriei scade la frig; nu lăsați luminile aprinse inutil.",
+              "Planificați mai mult timp pentru parcare în apropierea piețelor.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte între obiective."
+            ],
+            "en": [
+              "Check the antifreeze in the windshield washer fluid.",
+              "Battery performance drops in the cold; don't leave lights on unnecessarily.",
+              "Plan more time for parking near the squares.",
+              "Use seat heaters for the short drives between destinations."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1374,6 +1938,188 @@
           "The 'Citymapper' or 'Google Maps' app is very useful for planning routes.",
           "Buses may run less frequently than the metro, so plan accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die MetroSur ist Ihr bester Freund an einem Regentag in Fuenlabrada. Von der Station Parque de los Estados gelangen Sie schnell zum Park. Die Station Fuenlabrada Central verbindet Sie direkt mit der Altstadt. Das Tomás y Valiente Kunstzentrum liegt nur einen kurzen Fußweg von der Metro entfernt und bietet stundenlangen Schutz.",
+            "hu": "A MetroSur a legjobb barátja egy esős napon Fuenlabradában. A Parque de los Estados állomástól gyorsan elérheti a parkot. A Fuenlabrada Central állomás közvetlenül az óvároshoz kapcsolódik. A Tomás y Valiente Művészeti Központ csak egy rövid sétára van a metrótól, és órákig tartó védelmet nyújt.",
+            "ro": "MetroSur este cel mai bun prieten într-o zi ploioasă în Fuenlabrada. De la stația Parque de los Estados ajungeți rapid la parc. Stația Fuenlabrada Central vă conectează direct cu orașul vechi. Centrul de Artă Tomás y Valiente este la mică distanță de mers pe jos de metrou și oferă adăpost pentru ore întregi.",
+            "en": "The MetroSur is your best friend on a rainy day in Fuenlabrada. From the Parque de los Estados station, you can quickly reach the park. Fuenlabrada Central station connects you directly to the old town. The Tomás y Valiente Art Centre is just a short walk from the metro and offers hours of shelter."
+          },
+          "stops": [
+            {
+              "name": "Parque de los Estados Station",
+              "tip_5lang": {
+                "de": "Warten Sie im Untergrund, bis der stärkste Regen nachlässt.",
+                "hu": "Várjon a föld alatt, amíg a heves eső alábbhagy.",
+                "ro": "Așteptați în subteran până când ploaia torențială se domolește.",
+                "en": "Wait underground until the heaviest rain subsides."
+              }
+            },
+            {
+              "name": "Park of the States",
+              "tip_5lang": {
+                "de": "Überdachte Bereiche am Stationseingang nutzen.",
+                "hu": "Használja az állomás bejáratánál lévő fedett részeket.",
+                "ro": "Folosiți zonele acoperite de la intrarea în stație.",
+                "en": "Use the covered areas at the station entrance."
+              }
+            },
+            {
+              "name": "Fuenlabrada Central Station",
+              "tip_5lang": {
+                "de": "Direkter Übergang zwischen Bahn und Bus möglich.",
+                "hu": "Közvetlen átszállási lehetőség a vonat és a busz között.",
+                "ro": "Transfer direct între tren și autobuz disponibil.",
+                "en": "Direct transfer between train and bus available."
+              }
+            },
+            {
+              "name": "Constitution Square",
+              "tip_5lang": {
+                "de": "Ca. 5 Minuten Fußweg von der Station Central.",
+                "hu": "Kb. 5 perc séta a Central állomástól.",
+                "ro": "Aproximativ 5 minute de mers pe jos de la stația Central.",
+                "en": "Approx. 5 minutes walk from Central station."
+              }
+            },
+            {
+              "name": "Tomás y Valiente Art Centre",
+              "tip_5lang": {
+                "de": "Die Metrostation 'La Serrana' liegt ebenfalls in der Nähe.",
+                "hu": "A 'La Serrana' metróállomás is a közelben van.",
+                "ro": "Stația de metrou 'La Serrana' este de asemenea în apropiere.",
+                "en": "The 'La Serrana' metro station is also nearby."
+              }
+            },
+            {
+              "name": "Polvoranca Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus 482 für eine Fahrt näher zum Parkeingang.",
+                "hu": "Használja a 482-es buszt, hogy közelebb kerüljön a park bejáratához.",
+                "ro": "Folosiți autobuzul 482 pentru a ajunge mai aproape de intrarea în parc.",
+                "en": "Use bus 482 to get closer to the park entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Metrostationen sind sauber und trocken.",
+              "Kaufen Sie ein Zehnerticket (Multi) für einfachere Fahrten.",
+              "Apps für Echtzeit-Abfahrten helfen, Wartezeiten im Regen zu vermeiden.",
+              "Züge fahren alle 7-10 Minuten."
+            ],
+            "hu": [
+              "A metróállomások tiszták és szárazak.",
+              "Vásároljon tízalkalmas (Multi) jegyet az egyszerűbb utazáshoz.",
+              "A valós idejű menetrendi alkalmazások segítenek elkerülni az esőben való várakozást.",
+              "A szerelvények 7-10 percenként közlekednek."
+            ],
+            "ro": [
+              "Stațiile de metrou sunt curate și uscate.",
+              "Cumpărați un bilet cu zece călătorii (Multi) pentru călătorii mai simple.",
+              "Aplicațiile pentru plecări în timp real ajută la evitarea așteptării în ploaie.",
+              "Trenurile circulă la fiecare 7-10 minute."
+            ],
+            "en": [
+              "Metro stations are clean and dry.",
+              "Purchase a ten-trip (Multi) ticket for easier travel.",
+              "Real-time departure apps help avoid waiting in the rain.",
+              "Trains run every 7-10 minutes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die MetroSur, um die Stadt im Winter ohne kalten Wind zu durchqueren. Die Stationen sind gut beheizt. Vom Fuenlabrada Central aus erreichen Sie schnell die festlich beleuchtete Altstadt. Das Kunstzentrum ist ein idealer warmer Rückzugsort für den Mittag, bevor Sie den Tag am Polvoranca-Park ausklingen lassen.",
+            "hu": "Használja a MetroSur-t, hogy hideg szél nélkül szelje át a várost télen. Az állomások jól fűtöttek. A Fuenlabrada Centraltól gyorsan elérheti az ünnepi fényekbe öltözött óvárost. A művészeti központ ideális meleg menedék délidőben, mielőtt a napot a Polvoranca parknál zárná.",
+            "ro": "Folosiți MetroSur pentru a traversa orașul iarna fără vântul rece. Stațiile sunt bine încălzite. De la Fuenlabrada Central ajungeți rapid în orașul vechi iluminat festiv. Centrul de artă este un refugiu cald ideal pentru amiază, înainte de a încheia ziua la Parcul Polvoranca.",
+            "en": "Use the MetroSur to traverse the city in winter without the cold wind. The stations are well heated. From Fuenlabrada Central, you can quickly reach the festively lit old town. The art centre is an ideal warm retreat for midday before ending the day at Polvoranca Park."
+          },
+          "stops": [
+            {
+              "name": "Parque de los Estados Station",
+              "tip_5lang": {
+                "de": "Angenehm warme Atmosphäre unter Tage.",
+                "hu": "Kellemesen meleg atmoszféra a föld alatt.",
+                "ro": "Atmosferă plăcut de caldă în subteran.",
+                "en": "Pleasantly warm atmosphere underground."
+              }
+            },
+            {
+              "name": "Park of the States",
+              "tip_5lang": {
+                "de": "Kurzer, zügiger Gang zum Parkeingang.",
+                "hu": "Rövid, gyors séta a park bejáratáig.",
+                "ro": "Plimbare scurtă și rapidă până la intrarea în parc.",
+                "en": "Short, brisk walk to the park entrance."
+              }
+            },
+            {
+              "name": "Fuenlabrada Central Station",
+              "tip_5lang": {
+                "de": "Wichtiger Verkehrsknotenpunkt mit beheizten Wartehallen.",
+                "hu": "Fontos közlekedési csomópont fűtött várótermekkel.",
+                "ro": "Nod important de transport cu săli de așteptare încălzite.",
+                "en": "Important transport hub with heated waiting halls."
+              }
+            },
+            {
+              "name": "Constitution Square",
+              "tip_5lang": {
+                "de": "Im Winter oft mit dekorativer Beleuchtung am Abend.",
+                "hu": "Télen gyakran dekoratív világítással az esti órákban.",
+                "ro": "Iarna, adesea cu iluminat decorativ seara.",
+                "en": "Often features decorative lighting in the evening during winter."
+              }
+            },
+            {
+              "name": "Tomás y Valiente Art Centre",
+              "tip_5lang": {
+                "de": "Helles Licht und angenehme Temperaturen im Inneren.",
+                "hu": "Erős fények és kellemes hőmérséklet a belső térben.",
+                "ro": "Lumină puternică și temperaturi plăcute în interior.",
+                "en": "Bright lights and pleasant temperatures inside."
+              }
+            },
+            {
+              "name": "Polvoranca Park",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückreise vor Einbruch der Dunkelheit (ca. 18:00).",
+                "hu": "Tervezze meg a visszautat sötétedés előtt (kb. 18:00).",
+                "ro": "Planificați întoarcerea înainte de lăsarea întunericului (aprox. 18:00).",
+                "en": "Plan your return trip before dark (around 18:00)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Metro, um lange Wege im Freien zu vermeiden.",
+              "Die Züge sind im Winter zuverlässiger als Busse bei Glätte.",
+              "Die Stationen bieten Schutz vor dem schneidenden Wind.",
+              "Abends sind die Bahnhöfe gut beleuchtet und belebt."
+            ],
+            "hu": [
+              "Használja a metrót, hogy elkerülje a hosszú kinti sétákat.",
+              "A vonatok télen megbízhatóbbak, mint a buszok jegesedés esetén.",
+              "Az állomások védelmet nyújtanak a metsző szél ellen.",
+              "Este az állomások jól megvilágítottak és forgalmasak."
+            ],
+            "ro": [
+              "Folosiți metroul pentru a evita plimbările lungi în aer liber.",
+              "Trenurile sunt mai fiabile iarna decât autobuzele în caz de polei.",
+              "Stațiile oferă protecție împotriva vântului tăios.",
+              "Seara, stațiile sunt bine iluminate și animate."
+            ],
+            "en": [
+              "Use the metro to avoid long walks outdoors.",
+              "Trains are more reliable in winter than buses in case of icy roads.",
+              "Stations offer protection from the biting wind.",
+              "In the evening, the stations are well-lit and busy."
+            ]
+          }
+        }
       }
     }
   }

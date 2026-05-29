@@ -306,6 +306,188 @@
           "Bring a reusable water bottle.",
           "Check museum opening times in advance, as they can vary seasonally."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Morgen am Rathausplatz, Schutz bietet die Stadtpfarrkirche. Mittags vertiefen wir uns im Bergbaumuseum in die Pinzgauer Geschichte. Nachmittags erkunden wir Schloss Ritzen und den nebligen Ritzensee. Abends bietet das Heimatmuseum einen gemütlichen, trockenen Abschluss.",
+            "hu": "Esős reggel a főtéren, menedéket a plébániatemplomban találunk. Délben a Bányászati Múzeum fedett kiállításait járjuk be. Délután a Schloss Ritzen és a ködös Ritzensee látványa vár. Estére a tanyamúzeum ódon, védett épületei adják a hangulatos befejezést.",
+            "ro": "Dimineață ploioasă în piață, cu refugiu în biserica parohială. La prânz explorăm istoria mineritului la adăpost. După-amiaza vizităm Castelul Ritzen și malul cetos al lacului. Seara se încheie la muzeul fermei, protejați de vremea umedă a Pinzgau-ului.",
+            "en": "A rainy morning at the square leads to early shelter in the church. Midday is spent exploring the indoor Mining Museum exhibits. Afternoon features the historic Ritzen Castle and a misty lakeside walk. Evening ends at the Farm Museum, staying dry among ancient wooden structures."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt, nutzen Sie die Arkaden als Regenschutz.",
+                "hu": "Rövid megálló, használja az árkádokat eső elleni védelemként.",
+                "ro": "Oprire scurtă, folosiți arcadele ca protecție împotriva ploii.",
+                "en": "Short stay, use the arcades for shelter from the rain."
+              }
+            },
+            {
+              "name": "Saalfelden Parish Church",
+              "tip_5lang": {
+                "de": "Idealer Ort, um kurz im Trockenen innezuhalten.",
+                "hu": "Ideális hely egy rövid, száraz pihenőhöz.",
+                "ro": "Locul ideal pentru o scurtă pauză la uscat.",
+                "en": "Ideal place to pause briefly in the dry."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Perfekt für Regentage, planen Sie mehr Zeit im Inneren ein.",
+                "hu": "Tökéletes esős napra, tervezzen több időt bent.",
+                "ro": "Perfect pentru zile ploioase, alocați mai mult timp în interior.",
+                "en": "Perfect for rainy days, plan more time indoors."
+              }
+            },
+            {
+              "name": "Ritzen Castle & Museum",
+              "tip_5lang": {
+                "de": "Großzügige Ausstellungsflächen bieten perfekten Schutz.",
+                "hu": "A tágas kiállítóterek tökéletes védelmet nyújtanak.",
+                "ro": "Spațiile expoziționale largi oferă protecție perfectă.",
+                "en": "Spacious exhibition areas provide perfect shelter."
+              }
+            },
+            {
+              "name": "Lake Ritzensee",
+              "tip_5lang": {
+                "de": "Uferwege können rutschig sein, festes Schuhwerk empfohlen.",
+                "hu": "A tóparti utak csúszósak lehetnek, túrabakancs ajánlott.",
+                "ro": "Potecile de pe mal pot fi alunecoase, se recomandă ghete.",
+                "en": "Lakeside paths can be slippery, sturdy boots recommended."
+              }
+            },
+            {
+              "name": "Farm Museum",
+              "tip_5lang": {
+                "de": "Die historischen Scheunen bieten urigen Regenschutz.",
+                "hu": "A történelmi csűrök hangulatos védelmet adnak az eső elől.",
+                "ro": "Șurele istorice oferă protecție rustică împotriva ploii.",
+                "en": "Historic barns provide quaint shelter from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke, da der Wind am See zunehmen kann.",
+              "Die Museen in Saalfelden sind hervorragende Schlechtwetter-Optionen.",
+              "Nutzen Sie die Gastronomie am Ritzensee für eine warme Suppenpause.",
+              "Achten Sie auf Pfützen auf den unbefestigten Wegen am Seeufer."
+            ],
+            "hu": [
+              "Viseljen minőségi esőkabátot, mert a tónál felerősödhet a szél.",
+              "Saalfelden múzeumai kiváló opciók rossz idő esetén.",
+              "Használja ki a Ritzensee melletti éttermeket egy meleg levesre.",
+              "Vigyázzon a tóparti nem aszfaltozott utak tócsáira."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie bună, vântul poate crește la lac.",
+              "Muzeele din Saalfelden sunt opțiuni excelente pentru vreme rea.",
+              "Vizitați restaurantele de lângă lac pentru o supă caldă.",
+              "Atenție la bălțile de pe potecile neasfaltate de la malul lacului."
+            ],
+            "en": [
+              "Wear a quality raincoat as wind can pick up near the lake.",
+              "Saalfelden's museums are excellent bad-weather options.",
+              "Take advantage of lakeside dining for a warm soup break.",
+              "Watch out for puddles on the unpaved paths by the water."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostiger Morgen am verschneiten Rathausplatz. Mittags wärmen wir uns in der Kirche und im Mining Museum auf. Nachmittags glitzert Schloss Ritzen im Winterschnee, gefolgt von einem Spaziergang am gefrorenen See. Abends wird es früh dunkel, ideal für das beleuchtete Farm Museum.",
+            "hu": "Zúzmarás reggel a havas főtéren. Délben a templomban és a Bányászati Múzeumban melegszünk fel. Délután a Schloss Ritzen szikrázik a hóban, majd séta vár a befagyott tónál. Korán sötétedik, így az esti tanyamúzeum fényei különleges hangulatot adnak.",
+            "ro": "Dimineață geroasă în piața înzăpezită. La prânz ne încălzim în biserică și la muzeu. După-amiaza, Castelul Ritzen strălucește în zăpadă, urmat de o plimbare pe lângă lacul înghețat. Seara se lasă devreme, ideal pentru atmosfera muzeului fermei.",
+            "en": "Frosty morning at the snow-covered square. Midday offers warmth inside the church and Mining Museum. Afternoon brings a sparkling view of Ritzen Castle and the frozen lake. Darkness falls early, making the illuminated Farm Museum feel extra magical."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf dem Kopfsteinpflaster.",
+                "hu": "Vigyázzon, a macskakő jeges és csúszós lehet.",
+                "ro": "Atenție la polei pe pavajul de piatră.",
+                "en": "Watch out for ice on the cobblestones."
+              }
+            },
+            {
+              "name": "Saalfelden Parish Church",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause in der stillen, geschützten Kirche.",
+                "hu": "Rövid melegedő a csendes, védett templombelsőben.",
+                "ro": "Scurtă pauză de încălzire în liniștea bisericii.",
+                "en": "Quick warm-up break in the quiet, sheltered church."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die wohlige Wärme in den Ausstellungsräumen.",
+                "hu": "Élvezze a kellemes meleget a kiállítótermekben.",
+                "ro": "Bucurați-vă de căldura plăcută din sălile de expoziție.",
+                "en": "Enjoy the cozy warmth in the exhibition rooms."
+              }
+            },
+            {
+              "name": "Ritzen Castle & Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den Winter draußen durch Fenster zu sehen.",
+                "hu": "Tökéletes hely a téli táj megfigyelésére az ablakokból.",
+                "ro": "Locul perfect pentru a admira iarna de la fereastră.",
+                "en": "Perfect spot to admire the winter scenery from inside."
+              }
+            },
+            {
+              "name": "Lake Ritzensee",
+              "tip_5lang": {
+                "de": "Betreten der Eisfläche nur bei offizieller Freigabe!",
+                "hu": "A jégre lépni csak hivatalos engedély esetén szabad!",
+                "ro": "Accesul pe gheață este permis doar cu autorizație oficială!",
+                "en": "Only step onto the ice if officially permitted!"
+              }
+            },
+            {
+              "name": "Farm Museum",
+              "tip_5lang": {
+                "de": "Besuch endet bei Dämmerung, achten Sie auf die Beleuchtung.",
+                "hu": "A látogatás szürkületkor ér véget, figyelje a fényeket.",
+                "ro": "Vizita se încheie la amurg, admirați iluminatul festiv.",
+                "en": "The visit ends at dusk, enjoy the festive lighting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 16:30 Uhr unter, planen Sie das Ende ein.",
+              "Tragen Sie Schichten (Zwiebelprinzip) für drinnen und draußen.",
+              "Feste Winterschuhe mit Profil sind für den See-Rundweg nötig.",
+              "Wärmen Sie sich zwischendurch mit einem heißen Tee auf."
+            ],
+            "hu": [
+              "A nap 16:30 körül nyugszik, tervezze ehhez a nap végét.",
+              "Öltözzön rétegesen a kinti és benti helyszínek váltakozása miatt.",
+              "Profilozott talpú téli bakancs szükséges a tó körüli sétához.",
+              "Melegedjen fel időnként egy forró teával a helyi kávézókban."
+            ],
+            "ro": [
+              "Soarele apune în jur de 16:30, planificați finalul zilei.",
+              "Îmbrăcați-vă în straturi pentru tranziția interior-exterior.",
+              "Ghete de iarnă cu talpă aderentă sunt necesare pentru lac.",
+              "Încălziți-vă ocazional cu un ceai fierbinte la cafenelele locale."
+            ],
+            "en": [
+              "Sunset is around 4:30 PM, plan your day accordingly.",
+              "Dress in layers for the frequent indoor and outdoor stops.",
+              "Sturdy winter boots are essential for the snowy lake path.",
+              "Warm up occasionally with hot tea at local cafes."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -630,6 +812,206 @@
           "A helmet is strongly recommended.",
           "The bike paths are well-signposted, but a map or GPS is helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Radtour ab dem Rathausplatz. Mittags besuchen wir die Schlösser Dorfheim und Lichtenberg, wobei wir auf nassen Straßen vorsichtig fahren. Nachmittags bietet der Ritzensee eine kühle Erfrischung, gefolgt von Museumsbesuchen zum Aufwärmen. Der Tag endet sicher im Bergbaumuseum.",
+            "hu": "Esős bringázás a főtérről. Délben a dorfheimi és lichtenbergi kastélyokat érintjük, óvatosan haladva a vizes úton. Délután a Ritzensee hűvös látványa vár, majd múzeumi megállók segítenek megszáradni. A napot biztonságban a Bányászati Múzeumban zárjuk.",
+            "ro": "Tur cu bicicleta pe ploaie din piață. La prânz vedem castelele Dorfheim și Lichtenberg, pedalând cu grijă pe carosabil umed. După-amiaza lacul Ritzensee oferă un decor răcoros, urmat de muzee pentru uscare. Ziua se încheie la Muzeul Mineritului.",
+            "en": "A rainy ride starts from the square. Midday takes us to Dorfheim and Lichtenberg castles, requiring caution on wet roads. Afternoon brings us to Ritzensee, followed by museum stops to dry off. The cycling day ends safely at the indoor Mining Museum."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start im Regen.",
+                "hu": "Indulás előtt ellenőrizze a fékeket az esőben.",
+                "ro": "Verificați frânele înainte de plecare pe ploaie.",
+                "en": "Check your brakes before starting in the rain."
+              }
+            },
+            {
+              "name": "Saalfelden Parish Church",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe nutzen.",
+                "hu": "Használja a közelben lévő fedett biciklitárolókat.",
+                "ro": "Folosiți suporturile de biciclete acoperite din apropiere.",
+                "en": "Use the covered bike racks available nearby."
+              }
+            },
+            {
+              "name": "Dorfheim Castle",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem unbefestigten Zufahrtsweg.",
+                "hu": "Vigyázzon a nem aszfaltozott bevezető úton.",
+                "ro": "Atenție pe drumul de acces neasfaltat.",
+                "en": "Be careful on the unpaved access path."
+              }
+            },
+            {
+              "name": "Lichtenberg Castle",
+              "tip_5lang": {
+                "de": "Steiler Anstieg kann bei Nässe rutschig sein.",
+                "hu": "A meredek emelkedő nedvesen csúszós lehet.",
+                "ro": "Urcarea abruptă poate fi alunecoasă când e ud.",
+                "en": "The steep climb can be slippery when wet."
+              }
+            },
+            {
+              "name": "Lake Ritzensee",
+              "tip_5lang": {
+                "de": "Kurze Pause im Strandbad-Café zum Trocknen.",
+                "hu": "Rövid szünet a strandbüfében a száradáshoz.",
+                "ro": "Pauză scurtă la cafeneaua de pe plajă pentru uscare.",
+                "en": "Short break at the beach cafe to dry off."
+              }
+            },
+            {
+              "name": "Ritzen Castle & Museum",
+              "tip_5lang": {
+                "de": "Fahrradschuhe im Eingangsbereich gut abtreten.",
+                "hu": "A kerékpáros cipőket alaposan törölje le a bejáratnál.",
+                "ro": "Ștergeți bine încălțămintea de ciclism la intrare.",
+                "en": "Wipe your cycling shoes thoroughly at the entrance."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Idealer Endpunkt, um sich komplett aufzuwärmen.",
+                "hu": "Ideális végpont a teljes felmelegedéshez.",
+                "ro": "Punct final ideal pentru a vă încălzi complet.",
+                "en": "Ideal final point to warm up completely."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Vermeiden Sie hektisches Bremsen auf nassem Asphalt.",
+              "Packen Sie Ersatzsocken in einen wasserdichten Beutel.",
+              "Sichtbarkeit ist wichtig: Schalten Sie das Licht auch tagsüber ein."
+            ],
+            "hu": [
+              "A sárvédő használata ebben az időben kötelező.",
+              "Kerülje a hirtelen fékezést a nedves aszfalton.",
+              "Csomagoljon pótzoknit vízhatlan tasakba.",
+              "A láthatóság fontos: kapcsolja be a lámpát nappal is."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii pe această vreme.",
+              "Evitați frânarea bruscă pe asfaltul umed.",
+              "Puneți șosete de schimb într-o pungă impermeabilă.",
+              "Vizibilitatea e cheia: aprindeți luminile și ziua."
+            ],
+            "en": [
+              "Mudguards are a must-have in this weather.",
+              "Avoid sudden braking on wet asphalt surfaces.",
+              "Pack spare socks in a waterproof dry bag.",
+              "Visibility is key: keep your lights on during the day."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Radtour durch das verschneite Saalfelden. Mittags radeln wir zu den Schlössern Dorfheim und Lichtenberg, vorbei an glitzernden Feldern. Nachmittags genießen wir die Wintersonne am Ritzensee und wärmen uns in den Museen auf. Der Tag endet bei frostigen Temperaturen im Bergbaumuseum.",
+            "hu": "Téli kerékpártúra a havas Saalfelden körül. Délben Dorfheim és Lichtenberg kastélyaihoz tekerünk csillogó mezők mentén. Délután a Ritzensee téli napsütését élvezzük, majd múzeumi melegedők következnek. A nap fagyos hőmérsékletben zárul a Bányászati Múzeumnál.",
+            "ro": "Tur ciclist de iarnă prin Saalfeldenul troienit. La prânz pedalăm spre castelele Dorfheim și Lichtenberg. După-amiaza ne bucurăm de soarele de iarnă la Ritzensee și ne încălzim în muzee. Ziua se termină la temperaturi de îngheț la muzeu.",
+            "en": "A winter cycling tour through snowy Saalfelden. Midday leads us to Dorfheim and Lichtenberg castles past glittering fields. Afternoon features winter sun at Ritzensee and warm-up stops at the local museums. The ride concludes in freezing temperatures at the Mining Museum."
+          },
+          "stops": [
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Pfützen am Morgen.",
+                "hu": "Vigyázzon a reggeli befagyott tócsákkal.",
+                "ro": "Atenție la bălțile înghețate dimineața.",
+                "en": "Watch out for frozen puddles in the morning."
+              }
+            },
+            {
+              "name": "Saalfelden Parish Church",
+              "tip_5lang": {
+                "de": "Kurzer Halt für Fotos der verschneiten Fassade.",
+                "hu": "Rövid megálló a havas homlokzat fotózására.",
+                "ro": "Oprire scurtă pentru fotografii cu fațada înzăpezită.",
+                "en": "Short stop for photos of the snow-covered facade."
+              }
+            },
+            {
+              "name": "Dorfheim Castle",
+              "tip_5lang": {
+                "de": "Der Radweg wird hier oft erst spät geräumt.",
+                "hu": "A kerékpárutat itt gyakran csak későn takarítják.",
+                "ro": "Pista de biciclete e curățată adesea mai târziu aici.",
+                "en": "The bike path here is often cleared later in the day."
+              }
+            },
+            {
+              "name": "Lichtenberg Castle",
+              "tip_5lang": {
+                "de": "Achten Sie auf Rollsplitt in den Kurven.",
+                "hu": "Figyeljen a kanyarokban felszórt zúzottkőre.",
+                "ro": "Atenție la criblura antiderapantă în curbe.",
+                "en": "Watch out for road grit in the corners."
+              }
+            },
+            {
+              "name": "Lake Ritzensee",
+              "tip_5lang": {
+                "de": "Traumhafte Winterkulisse, perfekt für eine Teepause.",
+                "hu": "Csodás téli háttér, tökéletes egy teaszünetre.",
+                "ro": "Cadru de iarnă superb, perfect pentru o pauză de ceai.",
+                "en": "Stunning winter backdrop, perfect for a tea break."
+              }
+            },
+            {
+              "name": "Ritzen Castle & Museum",
+              "tip_5lang": {
+                "de": "Sicheres Abstellen der Räder am Haupteingang.",
+                "hu": "A kerékpárok biztonságos tárolása a főbejáratnál.",
+                "ro": "Parcare sigură pentru biciclete la intrarea principală.",
+                "en": "Secure bike parking at the main entrance."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Warmer Ausklang nach einer kalten Tour.",
+                "hu": "Meleg befejezés a hideg túra után.",
+                "ro": "Final călduros după un tur friguros.",
+                "en": "A warm finish after a cold winter ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und eine Mütze unter dem Helm sind Pflicht.",
+              "Der Akku von E-Bikes entlädt sich bei Kälte schneller.",
+              "Achten Sie auf vereiste Stellen, besonders im Schatten.",
+              "Die Dämmerung setzt früh ein, prüfen Sie Ihre Beleuchtung."
+            ],
+            "hu": [
+              "Meleg kesztyű és sisak alatti sapka kötelező.",
+              "Az e-bike akkumulátora hidegben gyorsabban merül.",
+              "Figyeljen a jeges foltokra, különösen árnyékos részeken.",
+              "Korán szürkület van, ellenőrizze a világítást."
+            ],
+            "ro": [
+              "Mănușile groase și căciula sub cască sunt obligatorii.",
+              "Bateria bicicletelor electrice se descarcă mai repede la ger.",
+              "Atenție la porțiunile înghețate, mai ales la umbră.",
+              "Amurgul vine devreme, verificați sistemul de iluminat."
+            ],
+            "en": [
+              "Warm gloves and a thin hat under your helmet are vital.",
+              "E-bike batteries drain significantly faster in the cold.",
+              "Watch out for icy patches, especially in shaded areas.",
+              "Darkness falls early, so verify your lights are working."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -918,6 +1300,206 @@
           "Allow some buffer time for traffic, especially in high season.",
           "Some mountain roads can be narrow, drive carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequeme Regentour mit dem Auto. Morgens besuchen wir Schloss Lichtenberg und Dorfheim, direktes Parken spart den Schirmweg. Mittags geht es ins Stadtzentrum zum Lunch und Bergbaumuseum. Der Nachmittag am Ritzensee bleibt dank kurzem Fußweg vom Parkplatz angenehm trocken.",
+            "hu": "Kényelmes autós túra az esőben. Reggel Lichtenberg és Dorfheim kastélyait keressük fel, a közeli parkolás megkímél az esernyőtől. Délben ebéd a központban, majd a Bányászati Múzeum. A délután a Ritzensee-nél a rövid gyalogút miatt szárazon is kivitelezhető.",
+            "ro": "Tur confortabil cu mașina pe ploaie. Dimineața vizităm Lichtenberg și Dorfheim, parcând aproape de intrări. La prânz mergem în centru pentru masă și muzeu. După-amiaza la Ritzensee rămâne plăcută datorită accesului rapid din parcare.",
+            "en": "A comfortable rainy day car tour. Morning visits to Lichtenberg and Dorfheim castles with close parking minimize umbrella use. Midday features central dining and the Mining Museum. Afternoon at Ritzensee stays dry thanks to the short walk from the car park."
+          },
+          "stops": [
+            {
+              "name": "Parking at Lichtenberg Castle",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Zugangsweg.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz.",
+                "ro": "Parcați cât mai aproape de calea de acces.",
+                "en": "Park as close as possible to the access path."
+              }
+            },
+            {
+              "name": "Lichtenberg Castle",
+              "tip_5lang": {
+                "de": "Kurzer Sprint zum Tor, Schirm bereitthalten.",
+                "hu": "Rövid futás a kapuig, legyen kéznél az esernyő.",
+                "ro": "Sprint scurt până la poartă, țineți umbrela gata.",
+                "en": "Short sprint to the gate, have your umbrella ready."
+              }
+            },
+            {
+              "name": "Dorfheim Castle",
+              "tip_5lang": {
+                "de": "Blick aus dem Auto bei starkem Guss möglich.",
+                "hu": "Erős felhőszakadás esetén nézze meg az autóból.",
+                "ro": "Vedere din mașină în caz de aversă puternică.",
+                "en": "Possible to view from the car during heavy downpours."
+              }
+            },
+            {
+              "name": "Parking in the Center",
+              "tip_5lang": {
+                "de": "Tiefgarage bevorzugen, um trocken auszusteigen.",
+                "hu": "Válassza a mélygarázst a száraz kiszálláshoz.",
+                "ro": "Preferați parcarea subterană pentru a ieși la uscat.",
+                "en": "Prefer underground parking to stay dry when exiting."
+              }
+            },
+            {
+              "name": "Town Hall Square & Lunch",
+              "tip_5lang": {
+                "de": "Viele Restaurants sind in wenigen Schritten erreichbar.",
+                "hu": "Számos étterem pár lépéssel elérhető.",
+                "ro": "Multe restaurante sunt la doar câțiva pași distanță.",
+                "en": "Many restaurants are reachable within a few steps."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den Regen auszusitzen.",
+                "hu": "Tökéletes hely az eső kivárására.",
+                "ro": "Locul perfect pentru a aștepta să treacă ploaia.",
+                "en": "The perfect place to wait out the rain."
+              }
+            },
+            {
+              "name": "Walk to Lake Ritzensee",
+              "tip_5lang": {
+                "de": "Vom Parkplatz Ritzen sind es nur 2 Minuten zum See.",
+                "hu": "A Ritzen parkolótól csak 2 perc a tó.",
+                "ro": "De la parcarea Ritzen sunt doar 2 minute până la lac.",
+                "en": "It is only a 2-minute walk from the Ritzen car park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie einen Regenschirm im Kofferraum griffbereit.",
+              "Die Sichtverhältnisse können bei Starkregen eingeschränkt sein.",
+              "Nutzen Sie die Parkgarage im Zentrum für stressfreies Parken.",
+              "Kurze Wege zwischen Auto und Sehenswürdigkeit einplanen."
+            ],
+            "hu": [
+              "Legyen kéznél esernyő a csomagtartóban.",
+              "A látási viszonyok erős esőben korlátozottak lehetnek.",
+              "Használja a központi parkolóházat a stresszmentes parkoláshoz.",
+              "Tervezzen rövid utakat az autó és a látnivalók között."
+            ],
+            "ro": [
+              "Țineți o umbrelă la îndemână în portbagaj.",
+              "Vizibilitatea poate fi redusă în timpul ploilor torențiale.",
+              "Folosiți parcarea etajată din centru pentru confort.",
+              "Planificați trasee scurte între mașină și obiective."
+            ],
+            "en": [
+              "Keep an umbrella handy in the trunk at all times.",
+              "Visibility may be limited during heavy rainfall.",
+              "Use the central parking garage for stress-free parking.",
+              "Plan for short walking distances between car and sights."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Panoramafahrt durch den Pinzgau. Morgens besichtigen wir die verschneiten Schlösser Lichtenberg und Dorfheim bequem per Auto. Mittags wärmen wir uns im Zentrum auf, bevor wir das Bergbaumuseum besuchen. Der Rundgang am Ritzensee bietet frische Winterluft vor der Heimfahrt.",
+            "hu": "Téli panorámaút a Pinzgau-ban. Reggel kényelmesen, autóval nézzük meg a havas Lichtenberg és Dorfheim kastélyait. Délben a központban melegszünk fel, majd a Bányászati Múzeumot látogatjuk meg. A Ritzensee körüli séta friss téli levegőt kínál a hazaút előtt.",
+            "ro": "Tur panoramic de iarnă prin Pinzgau. Dimineața vizităm castelele înzăpezite Lichtenberg și Dorfheim cu mașina. La prânz ne încălzim în centru înainte de vizita la muzeu. Plimbarea la Ritzensee oferă aer proaspăt de iarnă.",
+            "en": "A scenic winter drive through the Pinzgau. Morning visits to snowy Lichtenberg and Dorfheim castles are comfortable by car. Midday is for warming up in the center before the Mining Museum tour. A walk at Ritzensee offers fresh winter air before heading home."
+          },
+          "stops": [
+            {
+              "name": "Parking at Lichtenberg Castle",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneehaufen am Parkplatzrand.",
+                "hu": "Vigyázzon a parkoló szélén lévő hóbuckákkal.",
+                "ro": "Atenție la mormanele de zăpadă de la marginea parcării.",
+                "en": "Watch out for snow piles at the edge of the parking lot."
+              }
+            },
+            {
+              "name": "Lichtenberg Castle",
+              "tip_5lang": {
+                "de": "Wunderschönes Fotomotiv in der Wintersonne.",
+                "hu": "Gyönyörű fotótéma a téli napsütésben.",
+                "ro": "Subiect superb pentru fotografii în soarele de iarnă.",
+                "en": "Beautiful photo opportunity in the winter sun."
+              }
+            },
+            {
+              "name": "Dorfheim Castle",
+              "tip_5lang": {
+                "de": "Zufahrt kann bei Neuschnee etwas eng sein.",
+                "hu": "Friss hó esetén a bejárat kissé szűk lehet.",
+                "ro": "Accesul poate fi îngust în caz de zăpadă proaspătă.",
+                "en": "Access can be a bit narrow after fresh snowfall."
+              }
+            },
+            {
+              "name": "Parking in the Center",
+              "tip_5lang": {
+                "de": "Zentraler Startpunkt für den Stadtspaziergang.",
+                "hu": "Központi kiindulópont a városi sétához.",
+                "ro": "Punct de plecare central pentru plimbarea în oraș.",
+                "en": "Central starting point for your city walk."
+              }
+            },
+            {
+              "name": "Town Hall Square & Lunch",
+              "tip_5lang": {
+                "de": "Genießen Sie regionale Küche zum Aufwärmen.",
+                "hu": "Élvezze a helyi konyhát a felmelegedéshez.",
+                "ro": "Bucurați-vă de bucătăria regională pentru a vă încălzi.",
+                "en": "Enjoy regional cuisine to warm yourself up."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Gut geheizte Räume laden zum Verweilen ein.",
+                "hu": "A jól fűtött termek maradásra csábítanak.",
+                "ro": "Sălile bine încălzite vă invită la zăbovit.",
+                "en": "Well-heated rooms invite you to stay longer."
+              }
+            },
+            {
+              "name": "Walk to Lake Ritzensee",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Steinere Meer.",
+                "hu": "Élvezze a kilátást a Steineres Meer hegységre.",
+                "ro": "Bucurați-vă de vederea spre Steinernes Meer.",
+                "en": "Enjoy the view of the Steinernes Meer mountains."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und eventuell Schneeketten sind in dieser Region Pflicht.",
+              "Befreien Sie das Auto komplett von Schnee und Eis vor der Fahrt.",
+              "Prüfen Sie den Frostschutz der Scheibenwaschanlage.",
+              "Planen Sie bei Schneefall mehr Zeit für die Fahrten ein."
+            ],
+            "hu": [
+              "A téli gumi és hólánc ezen a vidéken kötelező.",
+              "Indulás előtt teljesen tisztítsa meg az autót a hótól és jégtől.",
+              "Ellenőrizze a szélvédőmosó fagyállóságát.",
+              "Hőesés esetén tervezzen több időt az utazásra."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și lanțurile sunt obligatorii în regiune.",
+              "Curățați complet mașina de zăpadă și gheață înainte de drum.",
+              "Verificați antigelul lichidului de parbriz.",
+              "Alocați mai mult timp deplasării în caz de ninsoare."
+            ],
+            "en": [
+              "Winter tires and snow chains are mandatory in this region.",
+              "Clear all snow and ice from your car before starting.",
+              "Check that your windshield washer fluid is frost-proof.",
+              "Allow extra travel time if it is snowing."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1182,6 +1764,188 @@
           "Pay attention to the last bus connection back to the center.",
           "A day ticket is often cheaper than single tickets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bustour durch das verregnete Saalfelden. Morgens fahren wir ins Zentrum zum Rathausplatz und zur Kirche. Mittags bringt uns der Bus zum Ritzensee, wo Schloss Ritzen und Museen Schutz bieten. Der Tag endet gemütlich bei einer Mahlzeit am See, bevor wir im Trockenen zurückfahren.",
+            "hu": "Buszos túra az esős Saalfeldenben. Reggel a központba, a főtérre és a templomhoz utazunk. Délben busz visz a Ritzensee-hez, ahol a Schloss Ritzen és a múzeumok adnak menedéket. A nap egy tóparti ebéddel zárul, majd szárazon utazunk vissza.",
+            "ro": "Tur cu autobuzul prin Saalfeldenul ploios. Dimineața mergem în centru, la piață și biserică. La prânz autobuzul ne duce la Ritzensee, unde castelul și muzeele oferă adăpost. Ziua se încheie cu o masă la lac înainte de întoarcere.",
+            "en": "A transit tour through rainy Saalfelden. Morning is spent in the center at the square and church. Midday, the bus takes us to Ritzensee, where Ritzen Castle and museums offer shelter. The day ends with a cozy lakeside meal before a dry return journey."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the bus station & ride to the center",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Wartebereich des Bahnhofs.",
+                "hu": "Várjon az állomás fedett váróterében.",
+                "ro": "Așteptați în zona de așteptare acoperită a gării.",
+                "en": "Wait in the sheltered waiting area at the station."
+              }
+            },
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Kurzer Weg von der Haltestelle zum Platz.",
+                "hu": "Rövid séta a buszmegállótól a főtérig.",
+                "ro": "Drum scurt de la stație până în piață.",
+                "en": "Short walk from the bus stop to the square."
+              }
+            },
+            {
+              "name": "Saalfelden Parish Church",
+              "tip_5lang": {
+                "de": "Ideal, um die Zeit bis zum nächsten Bus zu überbrücken.",
+                "hu": "Ideális hely a következő busz megvárásához.",
+                "ro": "Ideal pentru a aștepta următorul autobuz.",
+                "en": "Ideal place to pass the time until the next bus."
+              }
+            },
+            {
+              "name": "Ride to Lake Ritzensee",
+              "tip_5lang": {
+                "de": "Genießen Sie die trockene Fahrt im Postbus.",
+                "hu": "Élvezze a száraz utazást a Postbusszal.",
+                "ro": "Bucurați-vă de călătoria la uscat cu autobuzul.",
+                "en": "Enjoy a dry ride on the regional Postbus."
+              }
+            },
+            {
+              "name": "Ritzen Castle & Museum",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist fast direkt vor dem Museum.",
+                "hu": "A buszmegálló szinte közvetlenül a múzeum előtt van.",
+                "ro": "Stația este aproape chiar în fața muzeului.",
+                "en": "The bus stop is almost right in front of the museum."
+              }
+            },
+            {
+              "name": "Lake Ritzensee & Lunch",
+              "tip_5lang": {
+                "de": "Warme Gaststuben laden bei Regen zum Verweilen ein.",
+                "hu": "A meleg vendéglők hívogatóak az esőben.",
+                "ro": "Restaurantele călduroase vă invită să zăboviți.",
+                "en": "Warm dining rooms are very inviting in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Salzburg Verkehr App für Live-Abfahrten.",
+              "Der Stadtbus Saalfelden verkehrt regelmäßig im Takt.",
+              "Halten Sie Ihr Ticket oder Bargeld griffbereit für den Einstieg.",
+              "Warten Sie unter den Haltestellenhäuschen, um trocken zu bleiben."
+            ],
+            "hu": [
+              "Használja a Salzburg Verkehr alkalmazást az élő indulásokhoz.",
+              "A saalfeldeni városi busz rendszeres időközönként közlekedik.",
+              "Legyen kéznél a jegye vagy készpénz a felszálláshoz.",
+              "Várjon a fedett megállókban, hogy száraz maradjon."
+            ],
+            "ro": [
+              "Folosiți aplicația Salzburg Verkehr pentru plecări live.",
+              "Autobuzul urban din Saalfelden circulă regulat la intervale fixe.",
+              "Aveți biletul sau banii pregătiți la urcare.",
+              "Așteptați sub copertinele stațiilor pentru a rămâne uscați."
+            ],
+            "en": [
+              "Use the Salzburg Verkehr app for live departure times.",
+              "The Saalfelden city bus runs on a regular, timed schedule.",
+              "Have your ticket or cash ready when boarding the bus.",
+              "Stay under the bus stop shelters to remain dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostige Bustour durch das verschneite Saalfelden. Morgens erkunden wir das Stadtzentrum und die warme Kirche. Mittags bringt uns der Bus durch die Winterlandschaft zum Ritzensee für Museumsbesuche. Nach einem frühen Abendessen am See fahren wir gemütlich im beheizten Bus zurück.",
+            "hu": "Fagyos buszos túra a havas Saalfeldenben. Reggel a városközpontot és a meleg templomot fedezzük fel. Délben a busz a téli tájon át visz a Ritzensee-hez a múzeumi látogatásokra. Egy korai tóparti vacsora után fűtött busszal utazunk vissza.",
+            "ro": "Tur cu autobuzul prin Saalfeldenul troienit. Dimineața explorăm centrul și biserica încălzită. La prânz autobuzul ne duce prin peisajul de iarnă la Ritzensee pentru muzee. După o cină timpurie la lac, ne întoarcem cu autobuzul încălzit.",
+            "en": "A frosty transit tour of snowy Saalfelden. Morning is for exploring the center and the warm church. Midday, the bus travels through winter landscapes to Ritzensee for museum visits. After an early lakeside dinner, enjoy a warm bus ride back."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the bus station & ride to the center",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Warteraum am Bahnhof.",
+                "hu": "Használja az állomás fűtött várótermét.",
+                "ro": "Folosiți sala de așteptare încălzită din gară.",
+                "en": "Use the heated waiting room at the station."
+              }
+            },
+            {
+              "name": "Town Hall Square",
+              "tip_5lang": {
+                "de": "Hübsche Winterbeleuchtung am späten Nachmittag.",
+                "hu": "Szép téli kivilágítás késő délután.",
+                "ro": "Iluminat de iarnă frumos la sfârșitul după-amiezii.",
+                "en": "Beautiful winter lighting in the late afternoon."
+              }
+            },
+            {
+              "name": "Saalfelden Parish Church",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und Wärme im Winter.",
+                "hu": "A csend és a meleg szigete télen.",
+                "ro": "Un loc de liniște și căldură pe timp de iarnă.",
+                "en": "A place of peace and warmth in the winter."
+              }
+            },
+            {
+              "name": "Ride to Lake Ritzensee",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verschneiten Berge.",
+                "hu": "Élvezze a kilátást a havas hegyekre a buszból.",
+                "ro": "Admirați munții înzăpeziți de pe fereastra autobuzului.",
+                "en": "Enjoy views of the snowy mountains from the bus."
+              }
+            },
+            {
+              "name": "Ritzen Castle & Museum",
+              "tip_5lang": {
+                "de": "Kurze Gehdistanz minimiert die Zeit in der Kälte.",
+                "hu": "A rövid gyalogút csökkenti a hidegben töltött időt.",
+                "ro": "Distanța scurtă minimizează timpul petrecut în frig.",
+                "en": "Short walking distance minimizes time in the cold."
+              }
+            },
+            {
+              "name": "Lake Ritzensee & Lunch",
+              "tip_5lang": {
+                "de": "Probieren Sie heißen Apfelsaft oder Glühwein.",
+                "hu": "Kóstolja meg a forró almalevet vagy forralt bort.",
+                "ro": "Încercați un suc de mere cald sau un vin fiert.",
+                "en": "Try some hot apple juice or mulled wine."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind gut beheizt, ideal zum Aufwärmen.",
+              "Bei starkem Schneefall kann es zu leichten Verspätungen kommen.",
+              "Achten Sie auf die Winterfahrpläne (Ski-Saison).",
+              "Die Haltestellen können schneeglatt sein, Vorsicht beim Aussteigen."
+            ],
+            "hu": [
+              "A buszok jól fűtöttek, ideálisak a felmelegedéshez.",
+              "Erős havazás esetén előfordulhatnak kisebb késések.",
+              "Figyeljen a téli menetrendre (síszezon).",
+              "A megállók jegesek lehetnek, vigyázzon a leszállásnál."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite, ideale pentru încălzire.",
+              "În caz de ninsoare abundentă, pot apărea mici întârzieri.",
+              "Verificați orarul de iarnă (sezonul de schi).",
+              "Stațiile pot fi alunecoase, atenție la coborâre."
+            ],
+            "en": [
+              "Buses are well-heated, ideal for warming up between stops.",
+              "Heavy snowfall may cause minor delays in the schedule.",
+              "Check the special winter/ski season timetables.",
+              "Bus stops can be icy, so be careful when stepping off."
+            ]
+          }
+        }
       }
     }
   }

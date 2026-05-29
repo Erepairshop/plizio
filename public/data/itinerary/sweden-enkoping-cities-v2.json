@@ -359,6 +359,214 @@
           "Enköping is known as the 'City of Parks', so take your time to truly enjoy them.",
           "Some smaller cafes along the promenade are perfect for a fika break."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Schutz der Vårfrukyrkan und des Westerlundska Hauses. Der Vormittag steht im Zeichen der Geschichte, sicher vor dem schwedischen Regen. Mittags bietet das Enköpings Museum einen langen, trockenen Aufenthalt voller lokaler Kultur. Am Nachmittag erkunden wir die berühmten Parks unter dem Regenschirm; die Pflanzen wirken im Regen besonders lebendig. Der Tag endet ruhig in der Nähe des Afzelius Parks, wo die nassen Wege das Licht der Stadt reflektieren.",
+            "hu": "Kezdje a napot az ódon Vårfrukyrkan falai között és a Westerlundska házban, elkerülve a reggeli záporokat. A délelőtt a történelemé, fedett helyen. Délben az Enköping Múzeum nyújt hosszabb menedéket és kulturális feltöltődést. Délután esernyővel vágunk neki a híres parkoknak; az Åpromenaden és a Drömparken ilyenkor is különleges hangulatú. Az este az Afzelius Parknál ér véget, ahol az eső áztatta kövezet megcsillan a lámpafényben.",
+            "ro": "Începeți ziua la adăpostul bisericii Vårfrukyrkan și al Casei Westerlundska. Dimineața este dedicată istoriei, departe de ploaia suedeză. La prânz, Muzeul Enköping oferă un refugiu uscat și plin de cultură locală. După-amiaza explorăm faimoasele parcuri sub umbrelă; plantele par deosebit de vii în ploaie. Ziua se încheie liniștit lângă Parcul Afzelius, unde aleile umede reflectă luminile orașului.",
+            "en": "Start your day sheltered within Vårfrukyrkan and the Westerlundska House. The morning is focused on history, safe from the Swedish rain. At noon, Enköping Museum provides a long, dry stay filled with local culture. In the afternoon, we explore the famous parks under an umbrella; the plants look particularly vibrant in the rain. The day ends quietly near Afzelius Park, where wet paths reflect the city lights."
+          },
+          "stops": [
+            {
+              "name": "Vårfrukyrkan (Our Lady's Church)",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ersten Schauer trocken abzuwarten.",
+                "hu": "Tökéletes hely az első záporok átvészelésére.",
+                "ro": "Locul perfect pentru a aștepta trecerea primei averse.",
+                "en": "Perfect place to wait out the first shower in the dry."
+              }
+            },
+            {
+              "name": "Westerlundska House",
+              "tip_5lang": {
+                "de": "Dr. Westerlunds Haus bietet gemütlichen Schutz vor dem Wetter.",
+                "hu": "Dr. Westerlund háza hangulatos menedéket nyújt az időjárás elől.",
+                "ro": "Casa Dr. Westerlund oferă un adăpost primitor împotriva vremii.",
+                "en": "Dr. Westerlund's house offers cozy shelter from the weather."
+              }
+            },
+            {
+              "name": "Enköping Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regen für einen ausführlichen Museumsbesuch.",
+                "hu": "Használja ki az esőt egy alapos múzeumlátogatásra.",
+                "ro": "Profită de ploaie pentru o vizită detaliată la muzeu.",
+                "en": "Take advantage of the rain for an extensive museum visit."
+              }
+            },
+            {
+              "name": "Åpromenaden (River Promenade)",
+              "tip_5lang": {
+                "de": "Vorsicht, die Holzstege am Fluss können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a folyó menti fapallók vizesen csúszhatnak.",
+                "ro": "Atenție, podețele de lemn de lângă râu pot fi alunecoase.",
+                "en": "Caution, the wooden walkways by the river can be slippery when wet."
+              }
+            },
+            {
+              "name": "Stadsparken (City Park)",
+              "tip_5lang": {
+                "de": "Große Bäume bieten hier natürlichen Schutz vor leichtem Nieselregen.",
+                "hu": "A nagy fák itt természetes védelmet nyújtanak a szemerkélő esőben.",
+                "ro": "Copacii mari oferă aici protecție naturală împotriva burniței.",
+                "en": "Large trees here offer natural protection from light drizzle."
+              }
+            },
+            {
+              "name": "Drömparken (The Dream Park)",
+              "tip_5lang": {
+                "de": "Piet Oudolfs Stauden sehen auch mit Regentropfen fantastisch aus.",
+                "hu": "Piet Oudolf évelői esőcseppekkel is fantasztikusan mutatnak.",
+                "ro": "Plantele perene ale lui Piet Oudolf arată fantastic și cu picături de ploaie.",
+                "en": "Piet Oudolf's perennials look fantastic even with raindrops."
+              }
+            },
+            {
+              "name": "Afzelius Park",
+              "tip_5lang": {
+                "de": "Kurzer Abschluss, ideal um schnell ein nahes Café aufzusuchen.",
+                "hu": "Rövid zárás, ideális egy közeli kávézó gyors felkereséséhez.",
+                "ro": "Final scurt, ideal pentru a găsi rapid o cafenea în apropiere.",
+                "en": "Short finale, ideal for quickly finding a nearby cafe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Enköping ist die Stadt der Parks; führen Sie einen stabilen Schirm mit.",
+              "Die Gehwege in den Gärten können bei starkem Regen schlammig werden.",
+              "Nutzen Sie die zentralen Cafés zwischen den Parkbesuchen zum Aufwärmen.",
+              "Wasserdichtes Schuhwerk ist für die Uferpromenade unverzichtbar.",
+              "Das Museum ist montags oft geschlossen, prüfen Sie die Zeiten vorab."
+            ],
+            "hu": [
+              "Enköping a parkok városa; vigyen magával masszív esernyőt.",
+              "A kertekben az ösvények sárgossá válhatnak heves esőzéskor.",
+              "Használja ki a központi kávézókat két parklátogatás között.",
+              "A vízálló lábbeli elengedhetetlen a folyóparti sétányon.",
+              "A múzeum hétfőnként zárva tarthat, ellenőrizze előre."
+            ],
+            "ro": [
+              "Enköping este orașul parcurilor; purtați o umbrelă rezistentă.",
+              "Potecile din grădini pot deveni noroioase în caz de ploaie torențială.",
+              "Folosiți cafenelele centrale pentru a vă încălzi între vizitele în parcuri.",
+              "Încălțămintea impermeabilă este esențială pentru promenada râului.",
+              "Muzeul este adesea închis lunea, verificați programul în avans."
+            ],
+            "en": [
+              "Enköping is the city of parks; carry a sturdy umbrella.",
+              "Walkways in the gardens can become muddy during heavy rain.",
+              "Use central cafes to warm up between park visits.",
+              "Waterproof footwear is essential for the river promenade.",
+              "The museum is often closed on Mondays, check hours in advance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Enköping im Winterzauber. Der Morgen beginnt an der mittelalterlichen Vårfrukyrkan, die oft malerisch von Raureif bedeckt ist. Danach wärmen wir uns im Westerlundska Haus auf. Da die Sonne in Schweden früh untergeht, nutzen wir das Mittagslicht für das Museum und einen kurzen Spaziergang an der gefrorenen Åpromenaden. Die Parks zeigen im Winter ihre architektonische Struktur. Am späten Nachmittag taucht die Dämmerung den Drömparken in ein blaues Licht, bevor wir uns ins warme Zentrum zurückziehen.",
+            "hu": "Fedezze fel Enköping téli varázsát. A reggel a középkori Vårfrukyrkan templomnál indul, amelyet gyakran zúzmara borít. Ezután a Westerlundska ház melegében folytatjuk. Mivel a nap korán nyugszik, a déli fényt a múzeumra és a fagyos Åpromenaden rövid sétájára szánjuk. A parkok télen mutatják meg valódi szerkezetüket. Késő délután a szürkület kék fénybe vonja a Drömparkent, mielőtt visszatérnénk a meleg városközpontba.",
+            "ro": "Experimentați Enköping în magia iernii. Dimineața începe la biserica medievală Vårfrukyrkan, adesea acoperită pitoresc de chiciură. Apoi ne încălzim în Casa Westerlundska. Deoarece soarele apune devreme în Suedia, folosim lumina prânzului pentru muzeu și o scurtă plimbare pe promenada înghețată Åpromenaden. Parcurile își arată structura arhitecturală iarna. După-amiaza târziu, amurgul scaldă Drömparken într-o lumină albastră, înainte de a ne retrage în centrul cald.",
+            "en": "Experience Enköping in its winter magic. The morning starts at the medieval Vårfrukyrkan, often picturesquely covered in hoarfrost. Then we warm up in the Westerlundska House. As the sun sets early in Sweden, we use the midday light for the museum and a short walk along the frozen Åpromenaden. The parks show their architectural structure in winter. In the late afternoon, dusk bathes Drömparken in blue light before we retreat to the warm center."
+          },
+          "stops": [
+            {
+              "name": "Vårfrukyrkan (Our Lady's Church)",
+              "tip_5lang": {
+                "de": "Bewundern Sie die frostigen Details der alten Feldsteinkirche.",
+                "hu": "Csodálja meg a régi kőtemplom zúzmarás részleteit.",
+                "ro": "Admirați detaliile înghețate ale vechii biserici de piatră.",
+                "en": "Admire the frosty details of the old fieldstone church."
+              }
+            },
+            {
+              "name": "Westerlundska House",
+              "tip_5lang": {
+                "de": "Ein herrlich beheizter Zwischenstopp in historischem Ambiente.",
+                "hu": "Remekül fűtött pihenő történelmi környezetben.",
+                "ro": "O oprire bine încălzită într-un cadru istoric.",
+                "en": "A wonderfully heated stop in a historical setting."
+              }
+            },
+            {
+              "name": "Enköping Museum",
+              "tip_5lang": {
+                "de": "Der ideale Ort, wenn die Kälte draußen zu streng wird.",
+                "hu": "Ideális hely, ha kint túl erősre fordul a hideg.",
+                "ro": "Locul ideal dacă frigul de afară devine prea aspru.",
+                "en": "The ideal place if the cold outside becomes too severe."
+              }
+            },
+            {
+              "name": "Åpromenaden (River Promenade)",
+              "tip_5lang": {
+                "de": "Der Fluss kann teilweise zugefroren sein, ein toller Anblick.",
+                "hu": "A folyó részben befagyhat, ami látványos élmény.",
+                "ro": "Râul poate fi parțial înghețat, o priveliște minunată.",
+                "en": "The river may be partially frozen, a great sight."
+              }
+            },
+            {
+              "name": "Stadsparken (City Park)",
+              "tip_5lang": {
+                "de": "Die Statuen und Bäume wirken im Schnee wie Scherenschnitte.",
+                "hu": "A szobrok és fák a hóban úgy festenek, mint a papírkivágások.",
+                "ro": "Statuile și copacii par decupaje din hârtie în zăpadă.",
+                "en": "The statues and trees look like paper cutouts in the snow."
+              }
+            },
+            {
+              "name": "Drömparken (The Dream Park)",
+              "tip_5lang": {
+                "de": "Die vertrockneten Samenstände der Gräser bieten Struktur im Frost.",
+                "hu": "A füvek száraz magházai télen is különleges formát adnak.",
+                "ro": "Semințele uscate ale ierburilor oferă structură în timpul înghețului.",
+                "en": "The dried seed heads of the grasses provide structure in the frost."
+              }
+            },
+            {
+              "name": "Afzelius Park",
+              "tip_5lang": {
+                "de": "Schneller Weg zurück ins Stadtinnere zum Aufwärmen.",
+                "hu": "Gyors út vissza a városközpontba egy meleg italra.",
+                "ro": "Cale rapidă de întoarcere în centrul orașului pentru încălzire.",
+                "en": "Quick path back to the town center to warm up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermokleidung; die Temperaturen fallen oft unter Null.",
+              "Die Sonne geht im Dezember bereits gegen 15:00 Uhr unter.",
+              "Gehwege werden oft mit Rollsplitt gegen Glätte gesichert.",
+              "Genießen Sie eine traditionelle schwedische Fika zum Aufwärmen.",
+              "Die Parks sind nachts dezent und stimmungsvoll beleuchtet."
+            ],
+            "hu": [
+              "Öltözzön rétegesen; a hőmérséklet gyakran fagypont alatt marad.",
+              "A nap decemberben már délután 3 körül lenyugszik.",
+              "Az utakat gyakran zúzott kővel szórják fel csúszás ellen.",
+              "Élvezze a hagyományos svéd fikát (kávészünetet) a melegedéshez.",
+              "A parkok éjszaka visszafogott és hangulatos világítást kapnak."
+            ],
+            "ro": [
+              "Purtați haine termice; temperaturile scad adesea sub zero.",
+              "Soarele apune în decembrie deja în jurul orei 15:00.",
+              "Aleile sunt adesea presărate cu pietriș împotriva poleiului.",
+              "Bucurați-vă de o 'fika' tradițională suedeză pentru a vă încălzi.",
+              "Parcurile sunt iluminate discret și atmosferic pe timp de noapte."
+            ],
+            "en": [
+              "Wear thermal clothing; temperatures often drop below zero.",
+              "The sun sets as early as 3:00 PM in December.",
+              "Walkways are often gritted with gravel against slipperiness.",
+              "Enjoy a traditional Swedish 'fika' to warm up.",
+              "The parks are subtly and atmospherically lit at night."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -693,6 +901,196 @@
           "Bring water and snacks, especially for the ride to Bredsand.",
           "Most paths are flat, but be prepared for a long distance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Enköping bei Regen erfordert gute Vorbereitung, bietet aber leere Wege. Wir starten im Zentrum und radeln entlang der Åpromenaden, wo der Fluss unter den Regentropfen tanzt. Drömparken und Stadsparken wirken im Regen mystisch und grün. Die längere Strecke zum Bredsand Strand ist bei Wind herausfordernd, aber die frische Luft ist belebend. Am Nachmittag kehren wir ins trockene Westerlundska Haus zurück, bevor wir die Tour an der Vårfrukyrkan beenden.",
+            "hu": "Egy esős bringatúra Enköpingben felkészülést igényel, de üres ösvényeket kínál. A központból indulunk az Åpromenaden mentén, ahol a folyó táncol az esőcseppek alatt. A Drömparken és Stadsparken ilyenkor misztikus és mélyzöld. A hosszabb út a Bredsand strandra szeles lehet, de a friss levegő élénkítő. Délután a száraz Westerlundska házba térünk be, majd a Vårfrukyrkan-nál zárjuk a kört.",
+            "ro": "O tură cu bicicleta prin Enköping pe ploaie necesită pregătire, dar oferă poteci libere. Pornim din centru și pedalăm de-a lungul Åpromenaden, unde râul dansează sub picăturile de ploaie. Drömparken și Stadsparken par mistice și verzi pe ploaie. Traseul mai lung spre plaja Bredsand este provocator pe vânt, dar aerul proaspăt este revigorant. După-amiaza revenim la Casa Westerlundska uscată, înainte de a încheia turul la Vårfrukyrkan.",
+            "en": "A bike tour through Enköping in the rain requires good preparation but offers empty paths. We start in the center and cycle along Åpromenaden, where the river dances under the raindrops. Drömparken and Stadsparken look mystical and deep green in the rain. The longer ride to Bredsand Beach is challenging in the wind, but the fresh air is invigorating. In the afternoon, we return to the dry Westerlundska House before finishing at Vårfrukyrkan."
+          },
+          "stops": [
+            {
+              "name": "City Center",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen; nasse Felgen brauchen längere Bremswege.",
+                "hu": "Ellenőrizze a fékeket; a vizes abroncsoknak hosszabb a féktávja.",
+                "ro": "Verificați frânele; jantele umede necesită distanțe de frânare mai mari.",
+                "en": "Check your brakes; wet rims need longer braking distances."
+              }
+            },
+            {
+              "name": "Åpromenaden (River Promenade)",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Pfützen; sie könnten tiefer sein als gedacht.",
+                "hu": "Kerülje a tócsákat; mélyebbek lehetnek, mint aminek látszanak.",
+                "ro": "Evitați bălțile; ar putea fi mai adânci decât par.",
+                "en": "Avoid puddles; they might be deeper than they look."
+              }
+            },
+            {
+              "name": "Drömparken & Stadsparken",
+              "tip_5lang": {
+                "de": "Gepflasterte Wege können bei Nässe extrem rutschig werden.",
+                "hu": "A kövezett utak vizesen rendkívül csúszósak lehetnek.",
+                "ro": "Aleile pavate pot deveni extrem de alunecoase când sunt ude.",
+                "en": "Paved paths can become extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Bredsand Beach",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem Pavillon, falls der Regen stärker wird.",
+                "hu": "Keressen menedéket a pavilon alatt, ha felerősödik az eső.",
+                "ro": "Căutați adăpost sub pavilion dacă ploaia se intensifică.",
+                "en": "Seek shelter under the pavilion if the rain gets heavier."
+              }
+            },
+            {
+              "name": "Westerlundska House",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter; es gibt hier einige überdachte Plätze.",
+                "hu": "Támassza le a biciklit fedett helyre; van itt pár védett pont.",
+                "ro": "Parcați bicicleta la adăpost; există câteva locuri acoperite aici.",
+                "en": "Park your bike under cover; there are some sheltered spots here."
+              }
+            },
+            {
+              "name": "Vårfrukyrkan",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort zum Abschluss der nassen Tour.",
+                "hu": "Csendes, száraz hely a vizes túra lezárásához.",
+                "ro": "Un loc liniștit și uscat pentru a încheia turul umed.",
+                "en": "A quiet, dry place to conclude the wet tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine komplette Regenmontur inklusive Gamaschen.",
+              "Ein Sattelschutz hält Ihr Rad trocken, während Sie Besichtigungen machen.",
+              "Schalten Sie Ihr Licht ein, da die Sicht bei Regen deutlich schlechter ist.",
+              "Vermeiden Sie abruptes Bremsen auf Markierungen oder nassem Laub.",
+              "Wischen Sie die Kette nach der Fahrt trocken, um Rost zu vermeiden."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot, beleértve a kamáslit is.",
+              "A nyeregvédő szárazon tartja a bringát, amíg Ön nézelődik.",
+              "Kapcsolja be a világítást, mert esőben jelentősen romlanak a látási viszonyok.",
+              "Kerülje a hirtelen fékezést a felfestéseken vagy a vizes leveleken.",
+              "A túra után törölje szárazra a láncot a rozsdásodás megelőzése érdekében."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, inclusiv parazăpezi/ghetre.",
+              "O protecție pentru șa menține bicicleta uscată în timp ce vizitați.",
+              "Aprindeți luminile, deoarece vizibilitatea este mult mai redusă pe ploaie.",
+              "Evitați frânarea bruscă pe marcajele rutiere sau pe frunzele ude.",
+              "Ștergeți lanțul după cursă pentru a preveni rugina."
+            ],
+            "en": [
+              "Wear full rain gear including gaiters.",
+              "A saddle cover keeps your bike dry while you are sightseeing.",
+              "Turn on your lights as visibility is significantly worse in the rain.",
+              "Avoid abrupt braking on road markings or wet leaves.",
+              "Wipe the chain dry after the ride to prevent rust."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im winterlichen Enköping ist ein echtes Abenteuer. Wir starten im historischen Zentrum bei klirrender Kälte. Der Weg entlang der Åpromenaden ist oft vereist, was Vorsicht erfordert. Die Parks bieten eine stille, schneebedeckte Kulisse. Die Fahrt zum Bredsand Strand führt durch eine weiße Wunderwelt, aber der Wind vom Mälaren-See kann beißend sein. Nach der Rückkehr wärmen wir uns im Westerlundska Haus auf, bevor die Tour an der Vårfrukyrkan endet.",
+            "hu": "A biciklizés a téli Enköpingben igazi kaland. A történelmi központból indulunk csikorgó hidegben. Az Åpromenaden menti út gyakran jeges, ami óvatosságot igényel. A parkok csendes, hófödte hátteret nyújtanak. A Bredsand strandra vezető út fehér csodaországon visz keresztül, de a Mälaren-tó felőli szél metsző lehet. Visszatérve a Westerlundska házban melegszünk fel, mielőtt a túra a Vårfrukyrkan-nál véget ér.",
+            "ro": "Mersul cu bicicleta în Enköping iarna este o adevărată aventură. Pornim din centrul istoric pe un ger tăios. Drumul de-a lungul Åpromenaden este adesea înghețat, ceea ce necesită prudență. Parcurile oferă un decor liniștit, acoperit de zăpadă. Călătoria spre plaja Bredsand trece printr-o lume albă de basm, dar vântul de pe lacul Mälaren poate fi mușcător. După întoarcere, ne încălzim la Casa Westerlundska înainte ca turul să se încheie la Vårfrukyrkan.",
+            "en": "Cycling in wintry Enköping is a real adventure. We start in the historic center in biting cold. The path along Åpromenaden is often icy, requiring caution. The parks provide a quiet, snow-covered backdrop. The ride to Bredsand Beach leads through a white wonderland, but the wind from Lake Mälaren can be piercing. After returning, we warm up in the Westerlundska House before the tour ends at Vårfrukyrkan."
+          },
+          "stops": [
+            {
+              "name": "City Center",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Luftdruck; etwas weniger Druck gibt mehr Grip auf Schnee.",
+                "hu": "Ellenőrizze a nyomást; a kicsit kisebb nyomás jobb tapadást ad a havon.",
+                "ro": "Verificați presiunea; o presiune puțin mai mică oferă aderență pe zăpadă.",
+                "en": "Check tire pressure; slightly lower pressure gives more grip on snow."
+              }
+            },
+            {
+              "name": "Åpromenaden (River Promenade)",
+              "tip_5lang": {
+                "de": "Achtung vor Glatteis auf den Brücken und Holzstegen.",
+                "hu": "Vigyázat, a hidakon és fapallókon tükörjég alakulhat ki.",
+                "ro": "Atenție la polei pe poduri și pe podețele de lemn.",
+                "en": "Watch out for black ice on bridges and wooden walkways."
+              }
+            },
+            {
+              "name": "Drömparken & Stadsparken",
+              "tip_5lang": {
+                "de": "Die Wege können schneebedeckt sein; fahren Sie in vorhandenen Spuren.",
+                "hu": "Az utak havasak lehetnek; haladjon a már kitaposott nyomokban.",
+                "ro": "Aleile pot fi acoperite de zăpadă; mergeți pe urmele existente.",
+                "en": "Paths may be snow-covered; ride in existing tracks."
+              }
+            },
+            {
+              "name": "Bredsand Beach",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind hier am offenen See lebenswichtig.",
+                "hu": "A nyitott tóparton a meleg kesztyű létfontosságú.",
+                "ro": "Mănușile groase sunt vitale aici, pe malul deschis al lacului.",
+                "en": "Warm gloves are vital here by the open lake."
+              }
+            },
+            {
+              "name": "Westerlundska House",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die eingefrorenen Finger wieder zu beleben.",
+                "hu": "Tökéletes hely az átfagyott ujjak felmelegítésére.",
+                "ro": "Locul perfect pentru a vă dezmorți degetele înghețate.",
+                "en": "Perfect place to revive frozen fingers."
+              }
+            },
+            {
+              "name": "Vårfrukyrkan",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Schloss nicht einfriert (Enteiser!).",
+                "hu": "Ügyeljen rá, hogy a lakat ne fagyjon be (használjon jégoldót!).",
+                "ro": "Asigurați-vă că antifurtul nu îngheață (folosiți spray degivrant!).",
+                "en": "Make sure your lock doesn't freeze (use de-icer!)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Studded-Reifen (Spikes) sind in Schweden im Winter sehr zu empfehlen.",
+              "Batterien von E-Bikes und Lampen entladen sich bei Kälte schneller.",
+              "Vermeiden Sie hektische Lenkbewegungen auf festgefahrenem Schnee.",
+              "Tragen Sie eine winddichte Schicht als äußerste Kleidung.",
+              "In der frühen Dunkelheit sind Reflektoren am Rad und am Körper Pflicht."
+            ],
+            "hu": [
+              "A szöges gumik (spikes) télen erősen ajánlottak Svédországban.",
+              "Az e-bike-ok akkumulátora és a lámpák hidegben gyorsabban merülnek.",
+              "Kerülje a hirtelen kormánymozdulatokat a letaposott havon.",
+              "Viseljen szélálló réteget legkívül.",
+              "A korai sötétedés miatt a fényvisszaverők használata kötelező."
+            ],
+            "ro": [
+              "Anvelopele cu ținte (spikes) sunt foarte recomandate iarna în Suedia.",
+              "Bateriile bicicletelor electrice și ale luminilor se descarcă mai repede la ger.",
+              "Evitați mișcările bruște de direcție pe zăpada bătătorită.",
+              "Purtați un strat rezistent la vânt ca îmbrăcăminte exterioară.",
+              "Reflectorizantele pe bicicletă și pe corp sunt obligatorii din cauza întunericului timpuriu."
+            ],
+            "en": [
+              "Studded tires (spikes) are highly recommended in Sweden in winter.",
+              "E-bike batteries and lights discharge faster in the cold.",
+              "Avoid sudden steering movements on hard-packed snow.",
+              "Wear a windproof layer as your outermost clothing.",
+              "Reflectors on your bike and body are mandatory in the early darkness."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1057,6 +1455,214 @@
           "A GPS is essential.",
           "The car gives you the flexibility to also explore nearby rural areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Enköping auch bei starkem Regen bequem zu erkunden. Wir steuern zuerst die Vårfrukyrkan und das Westerlundska Haus im Zentrum an, wo man nah am Ziel parken kann. Das Enköpings Museum bietet danach ein langes Indoor-Programm. Am Nachmittag fahren wir zu den Parks; die kurzen Wege vom Parkplatz ermöglichen Besichtigungen zwischen den Schauern. Zum Abschluss geht es zum Bredsand Strand für einen Blick auf den stürmischen See, bevor der Tag bei einem gemütlichen Abendessen endet.",
+            "hu": "Autóval Enköping még heves esőben is kényelmesen felfedezhető. Először a központi Vårfrukyrkan-t és a Westerlundska házat keressük fel, ahol közel lehet parkolni. Az Enköping Múzeum hosszú fedett programot kínál. Délután a parkokhoz hajtunk; a parkolóktól mért rövid távolság lehetővé teszi a nézelődést a záporok között. Végül a Bredsand strandra megyünk a viharos tó látványáért, majd egy hangulatos vacsorával zárjuk a napot.",
+            "ro": "Cu mașina, Enköping este ușor de explorat chiar și pe ploaie torențială. Vizităm mai întâi Vårfrukyrkan și Casa Westerlundska din centru, unde puteți parca aproape de destinație. Muzeul Enköping oferă apoi un program lung în interior. După-amiaza mergem la parcuri; distanțele scurte de la parcare permit vizitarea între averse. La final, mergem la plaja Bredsand pentru o vedere spre lacul furtunos, înainte ca ziua să se încheie cu o cină primitoare.",
+            "en": "By car, Enköping is easy to explore even in heavy rain. We first head to Vårfrukyrkan and the Westerlundska House in the center, where you can park close to the destination. Enköping Museum then offers a long indoor program. In the afternoon, we drive to the parks; the short distances from the parking lots allow for sightseeing between showers. Finally, we go to Bredsand Beach for a view of the stormy lake before the day ends with a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Vårfrukyrkan",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze ermöglichen einen fast trockenen Zugang.",
+                "hu": "A központi parkolók szinte száraz bejutást tesznek lehetővé.",
+                "ro": "Parcările centrale permit un acces aproape uscat.",
+                "en": "Central parking spaces allow for almost dry access."
+              }
+            },
+            {
+              "name": "Center Cluster: Westerlundska House",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es Parkmöglichkeiten mit kurzer Gehdistanz.",
+                "hu": "A közelben rövid sétatávolságra vannak parkolóhelyek.",
+                "ro": "Există opțiuni de parcare în apropiere, la mică distanță de mers pe jos.",
+                "en": "There are parking options nearby with short walking distance."
+              }
+            },
+            {
+              "name": "Center Cluster: Enköping Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museumsparkhaus oder nahegelegene Zonen.",
+                "hu": "Használja a múzeumi parkolót vagy a közeli övezeteket.",
+                "ro": "Folosiți parcarea muzeului sau zonele din apropiere.",
+                "en": "Use the museum parking lot or nearby zones."
+              }
+            },
+            {
+              "name": "Parks Cluster: Åpromenaden",
+              "tip_5lang": {
+                "de": "Parken Sie am Marktplatz für den kürzesten Weg zum Fluss.",
+                "hu": "Parkoljon a piactérnél a folyóhoz vezető legrövidebb úthoz.",
+                "ro": "Parcați în piață pentru cel mai scurt drum către râu.",
+                "en": "Park at the marketplace for the shortest path to the river."
+              }
+            },
+            {
+              "name": "Parks Cluster: Drömparken",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze direkt am Eingang des Parks.",
+                "hu": "Közvetlenül a park bejáratánál is található parkoló.",
+                "ro": "Există locuri de parcare chiar la intrarea în parc.",
+                "en": "There are parking spaces right at the park entrance."
+              }
+            },
+            {
+              "name": "Beach Cluster: Bredsand",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden; bleiben Sie bei Sturm im Auto.",
+                "hu": "Nagy parkoló áll rendelkezésre; vihar esetén maradjon a kocsiban.",
+                "ro": "Parcare mare disponibilă; rămâneți în mașină în caz de furtună.",
+                "en": "Large parking lot available; stay in the car during a storm."
+              }
+            },
+            {
+              "name": "Farewell Dinner",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch in der Nähe eines Parkhauses.",
+                "hu": "Foglaljon asztalt egy parkolóház közelében.",
+                "ro": "Rezervați o masă în apropierea unei parcări etajate.",
+                "en": "Book a table near a parking garage."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Straße nach Bredsand.",
+              "In Enköping ist das Parken oft per App (z.B. EasyPark) steuerbar.",
+              "Halten Sie einen Regenschirm im Auto für die Wege zum Ziel bereit.",
+              "Die Sicht kann bei starkem Regen auf den Landstraßen eingeschränkt sein.",
+              "Viele Parkplätze im Zentrum sind zeitlich begrenzt; Parkscheibe nutzen."
+            ],
+            "hu": [
+              "Vigyázzon a vízreutás (aquaplaning) veszélyére a Bredsand felé vezető úton.",
+              "Enköpingben a parkolás gyakran applikációval (pl. EasyPark) fizethető.",
+              "Tartson esernyőt a kocsiban a célpontokig tartó rövid sétákhoz.",
+              "Heves esőben korlátozott lehet a látótávolság az országutakon.",
+              "Sok központi parkoló időkorlátos; használjon parkolótárcsát."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul spre Bredsand.",
+              "În Enköping, parcarea poate fi gestionată adesea prin aplicație (ex. EasyPark).",
+              "Țineți o umbrelă în mașină pentru drumurile scurte spre obiective.",
+              "Vizibilitatea poate fi limitată pe drumurile naționale în caz de ploaie abundentă.",
+              "Multe parcări din centru sunt limitate în timp; folosiți discul de parcare."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the road to Bredsand.",
+              "Parking in Enköping is often controllable via app (e.g., EasyPark).",
+              "Keep an umbrella in the car for the short walks to your destinations.",
+              "Visibility can be limited on rural roads during heavy rain.",
+              "Many central parking spaces are time-limited; use a parking disc."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Fahrt durch Enköping ist sicher und gemütlich. Wir starten im Zentrum bei der Vårfrukyrkan; die Straßen sind meist gut geräumt. Nach einem Besuch im warmen Westerlundska Haus und dem Museum geht es zu den Parks. Drömparken wirkt im Winter besonders skulptural. Die Fahrt zum Bredsand Strand bietet weite Blicke über das Eis des Mälaren. Da es früh dunkel wird, genießen wir die stimmungsvolle Beleuchtung der Stadt, bevor wir den Tag bei einem Farewell Dinner ausklingen lassen.",
+            "hu": "A téli autózás Enköpingben biztonságos és kényelmes. A központban, a Vårfrukyrkan-nál kezdünk; az utakat általában jól takarítják. A meleg Westerlundska ház és a múzeum után a parkok felé vesszük az irányt. A Drömparken télen különösen szoborszerű. A Bredsand strandra vezető út tágas kilátást nyújt a Mälaren jegére. Mivel korán sötétedik, élvezzük a város hangulatos fényeit, mielőtt a búcsúvacsorával zárnánk a napot.",
+            "ro": "O călătorie de iarnă prin Enköping este sigură și confortabilă. Începem în centru, la Vårfrukyrkan; drumurile sunt de obicei bine deszăpezite. După o vizită la Casa Westerlundska caldă și la muzeu, mergem spre parcuri. Drömparken pare deosebit de sculptural iarna. Drumul spre plaja Bredsand oferă vederi largi peste gheața lacului Mälaren. Deoarece se întunecă devreme, ne bucurăm de iluminatul atmosferic al orașului înainte de a încheia ziua cu o cină de adio.",
+            "en": "A winter drive through Enköping is safe and cozy. We start in the center at Vårfrukyrkan; the roads are usually well cleared. After visiting the warm Westerlundska House and the museum, we head to the parks. Drömparken looks particularly sculptural in winter. The drive to Bredsand Beach offers wide views over the ice of Lake Mälaren. As it gets dark early, we enjoy the atmospheric lighting of the city before ending the day with a farewell dinner."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Vårfrukyrkan",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen; Parkplätze können glatt sein.",
+                "hu": "Vigyázzon kiszálláskor; a parkolók jegesek lehetnek.",
+                "ro": "Atenție la coborâre; locurile de parcare pot fi alunecoase.",
+                "en": "Be careful when getting out; parking spaces can be slippery."
+              }
+            },
+            {
+              "name": "Center Cluster: Westerlundska House",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren nach der kalten Fahrt.",
+                "hu": "Élvezze a benti meleget a hideg út után.",
+                "ro": "Bucurați-vă de căldura din interior după drumul rece.",
+                "en": "Enjoy the warmth inside after the cold drive."
+              }
+            },
+            {
+              "name": "Center Cluster: Enköping Museum",
+              "tip_5lang": {
+                "de": "Guter Ort, um die Mittagskälte drinnen zu verbringen.",
+                "hu": "Jó hely a déli hideg elkerülésére.",
+                "ro": "Un loc bun pentru a petrece frigul prânzului în interior.",
+                "en": "Good place to spend the midday cold indoors."
+              }
+            },
+            {
+              "name": "Parks Cluster: Åpromenaden",
+              "tip_5lang": {
+                "de": "Die Parkplätze am Fluss werden meist priorisiert geräumt.",
+                "hu": "A folyóparti parkolókat általában elsőként takarítják.",
+                "ro": "Parcările de lângă râu sunt de obicei deszăpezite cu prioritate.",
+                "en": "Parking lots by the river are usually prioritized for clearing."
+              }
+            },
+            {
+              "name": "Parks Cluster: Drömparken",
+              "tip_5lang": {
+                "de": "Der Blick aus dem warmen Auto auf den Park ist herrlich.",
+                "hu": "A meleg kocsiból is pazar kilátás nyílik a parkra.",
+                "ro": "Vederea din mașina caldă către parc este minunată.",
+                "en": "The view of the park from the warm car is wonderful."
+              }
+            },
+            {
+              "name": "Beach Cluster: Bredsand",
+              "tip_5lang": {
+                "de": "Die Straße zum Strand kann bei Schneeverwehungen eng sein.",
+                "hu": "A strandra vezető út hóátfúvások esetén keskeny lehet.",
+                "ro": "Drumul spre plajă poate fi îngust în caz de troiene de zăpadă.",
+                "en": "The road to the beach can be narrow if there are snowdrifts."
+              }
+            },
+            {
+              "name": "Farewell Dinner",
+              "tip_5lang": {
+                "de": "Ein warmer Abschluss des winterlichen Tages.",
+                "hu": "A téli nap meleg lezárása.",
+                "ro": "Un final călduros pentru ziua de iarnă.",
+                "en": "A warm conclusion to the wintry day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Schweden ab 1. Dezember gesetzlich Pflicht.",
+              "Führen Sie einen Eiskratzer und eine Schneeschaufel im Kofferraum mit.",
+              "Achten Sie auf Wildwechsel; Elche sind im Winter oft nah an Straßen.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Parkhäuser sind im Winter ideal, um das Auto eisfrei zu halten."
+            ],
+            "hu": [
+              "Svédországban december 1-jétől törvényileg kötelező a téli gumi.",
+              "Tartson jégkaparót és hólapátot a csomagtartóban.",
+              "Vigyázzon a vadakra; a jávorosok télen gyakran az utak közelében járnak.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A parkolóházak télen ideálisak a kocsi jégmentesen tartásához."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Suedia de la 1 decembrie.",
+              "Păstrați o răzuitoare de gheață și o lopată de zăpadă în portbagaj.",
+              "Atenție la animale sălbatice; elanii sunt adesea aproape de drumuri iarna.",
+              "Verificați antigelul din lichidul de parbriz.",
+              "Parcările etajate sunt ideale iarna pentru a menține mașina fără gheață."
+            ],
+            "en": [
+              "Winter tires are legally mandatory in Sweden from December 1st.",
+              "Keep an ice scraper and a snow shovel in the trunk.",
+              "Watch out for wildlife; moose are often near roads in winter.",
+              "Check the antifreeze in your windshield washer fluid.",
+              "Parking garages are ideal in winter to keep the car ice-free."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1397,6 +2003,196 @@
           "Allow buffer time for waiting at stops.",
           "Be aware of operating hours, especially for the last bus back from the beach."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Enköping lässt sich auch bei Regen gut mit Bus und Bahn erkunden. Wir starten am Bahnhof und erreichen schnell die Vårfrukyrkan. Das Enköpings Museum ist ein idealer Stopp für den nassen Vormittag. Mittags nutzen wir den Bus zu den Parks; die Wartehäuschen bieten Schutz. Die Åpromenaden und der Drömparken sind auch im Regen sehenswert. Eine längere Busfahrt bringt uns zum Bredsand Strand, bevor wir am späten Nachmittag trocken ins Zentrum zurückkehren.",
+            "hu": "Enköping esőben is jól felfedezhető busszal és vonattal. A vasútállomástól indulunk, és gyorsan elérjük a Vårfrukyrkan-t. Az Enköping Múzeum ideális megálló a vizes délelőttre. Délben busszal megyünk a parkokhoz; a várók védelmet nyújtanak. Az Åpromenaden és a Drömparken esőben is látványos. Egy hosszabb buszút visz a Bredsand strandra, majd késő délután szárazon térünk vissza a központba.",
+            "ro": "Enköping poate fi explorat bine cu autobuzul și trenul chiar și pe ploaie. Pornim de la gară și ajungem rapid la Vårfrukyrkan. Muzeul Enköping este o oprire ideală pentru o dimineață umedă. La prânz folosim autobuzul către parcuri; stațiile oferă adăpost. Åpromenaden și Drömparken merită văzute chiar și pe ploaie. O călătorie mai lungă cu autobuzul ne duce la plaja Bredsand, înainte de a reveni uscați în centru după-amiaza târziu.",
+            "en": "Enköping can be explored well by bus and train even in the rain. We start at the station and quickly reach Vårfrukyrkan. Enköping Museum is an ideal stop for a wet morning. At noon, we take the bus to the parks; the shelters provide cover. Åpromenaden and Drömparken are worth seeing even in the rain. A longer bus ride takes us to Bredsand Beach before we return dry to the center in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Arrival & Vårfrukyrkan",
+              "tip_5lang": {
+                "de": "Vom Bahnhof sind es nur wenige Minuten Fußweg im Regen.",
+                "hu": "A vasútállomástól csak pár perc séta az esőben.",
+                "ro": "De la gară sunt doar câteva minute de mers pe jos prin ploaie.",
+                "en": "It's only a few minutes' walk from the station in the rain."
+              }
+            },
+            {
+              "name": "Center Cluster: Enköping Museum",
+              "tip_5lang": {
+                "de": "Zentrale Bushaltestellen befinden sich direkt in der Nähe.",
+                "hu": "Központi buszmegállók találhatók közvetlenül a közelben.",
+                "ro": "Stații de autobuz centrale se află chiar în apropiere.",
+                "en": "Central bus stops are located right nearby."
+              }
+            },
+            {
+              "name": "Parks Cluster: Åpromenaden",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App für Echtzeit-Infos, um Wartezeiten im Regen zu minimieren.",
+                "hu": "Használja az appot a valós idejű infókért, hogy keveset várjon az esőben.",
+                "ro": "Folosiți aplicația pentru info în timp real, ca să minimizați așteptarea în ploaie.",
+                "en": "Use the app for real-time info to minimize waiting in the rain."
+              }
+            },
+            {
+              "name": "Parks Cluster: Drömparken",
+              "tip_5lang": {
+                "de": "Überdachte Bushaltestellen bieten hier guten Schutz.",
+                "hu": "A fedett buszmegállók itt jó védelmet nyújtanak.",
+                "ro": "Stațiile de autobuz acoperite oferă aici o protecție bună.",
+                "en": "Covered bus stops provide good shelter here."
+              }
+            },
+            {
+              "name": "Beach Cluster: Bredsand",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Rückfahrplan; Busse fahren hier seltener.",
+                "hu": "Ellenőrizze a visszautat; a buszok itt ritkábban járnak.",
+                "ro": "Verificați programul de întoarcere; autobuzele circulă mai rar aici.",
+                "en": "Check the return schedule; buses run less frequently here."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_5lang": {
+                "de": "Der Bus bringt Sie bequem und trocken zurück zum Ausgangspunkt.",
+                "hu": "A busz kényelmesen és szárazon viszi vissza a kiindulópontra.",
+                "ro": "Autobuzul vă aduce confortabil și uscat înapoi la punctul de plecare.",
+                "en": "The bus brings you back comfortably and dry to the starting point."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die UL-App für Tickets und Fahrpläne.",
+              "In Bussen bleibt man trocken, aber Schirme müssen gut verstaut werden.",
+              "Der Bahnhof bietet ein warmes Wartezimmer.",
+              "Einige Buslinien halten direkt an den großen Parks.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zwischen den Haltestellen."
+            ],
+            "hu": [
+              "Használja az UL alkalmazást a jegyekhez és menetrendekhez.",
+              "A buszokon szárazon maradhat, de az esernyőket jól el kell pakolni.",
+              "A vasútállomáson meleg váróterem áll rendelkezésre.",
+              "Néhány buszjárat közvetlenül a nagy parkoknál áll meg.",
+              "Viseljen vízálló ruhát a megállók közötti sétákhoz."
+            ],
+            "ro": [
+              "Folosiți aplicația UL pentru bilete și orare.",
+              "În autobuze rămâneți uscați, dar umbrelele trebuie depozitate bine.",
+              "Gara oferă o sală de așteptare încălzită.",
+              "Unele linii de autobuz opresc chiar lângă parcurile mari.",
+              "Purtați haine impermeabile pentru drumurile dintre stații."
+            ],
+            "en": [
+              "Use the UL app for tickets and schedules.",
+              "Buses keep you dry, but umbrellas need to be stowed carefully.",
+              "The train station offers a warm waiting room.",
+              "Some bus lines stop directly at the large parks.",
+              "Wear waterproof clothing for the walks between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreisen mit dem ÖPNV in Enköping sind effizient und warm. Wir starten am Bahnhof und fahren zur frostigen Vårfrukyrkan. Nach dem Aufwärmen im Museum nutzen wir den Bus zu den winterlichen Parks. Die schneebedeckten Wege im Drömparken sind ein Highlight. Eine Busfahrt führt uns zum Bredsand Strand, wo wir die eisige Luft des Mälaren genießen. In der frühen Dunkelheit bringt uns der Bus zurück ins beleuchtete Zentrum, wo die Tour gemütlich endet.",
+            "hu": "A téli tömegközlekedés Enköpingben hatékony és meleg. A vasútállomástól indulunk a zúzmarás Vårfrukyrkan-hoz. A múzeumban való felmelegedés után busszal megyünk a téli parkokhoz. A Drömparken hófödte ösvényei igazi fénypontok. Buszjárat visz a Bredsand strandra, ahol élvezhetjük a Mälaren jeges levegőjét. A korai sötétedésben a busz visz vissza a kivilágított központba, ahol a túra hangulatosan ér véget.",
+            "ro": "Călătoriile de iarnă cu transportul public în Enköping sunt eficiente și călduroase. Pornim de la gară spre Vårfrukyrkan înghețată. După ce ne încălzim la muzeu, luăm autobuzul spre parcurile de iarnă. Aleile înzăpezite din Drömparken sunt un punct forte. O cursă de autobuz ne duce la plaja Bredsand, unde ne bucurăm de aerul înghețat al lacului Mälaren. Pe întunericul timpuriu, autobuzul ne readuce în centrul iluminat, unde turul se încheie plăcut.",
+            "en": "Winter travel by public transit in Enköping is efficient and warm. We start at the station and head to the frosty Vårfrukyrkan. After warming up in the museum, we take the bus to the wintry parks. The snow-covered paths in Drömparken are a highlight. A bus ride takes us to Bredsand Beach, where we enjoy the icy air of Lake Mälaren. In the early darkness, the bus brings us back to the illuminated center, where the tour ends cozily."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Arrival & Vårfrukyrkan",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist gut beheizt, ideal zum Warten.",
+                "hu": "A vasútállomás jól fűtött, ideális a várakozásra.",
+                "ro": "Gara este bine încălzită, ideală pentru așteptare.",
+                "en": "The train station is well heated, ideal for waiting."
+              }
+            },
+            {
+              "name": "Center Cluster: Enköping Museum",
+              "tip_5lang": {
+                "de": "Kurze Wege von der Haltestelle minimieren die Zeit in der Kälte.",
+                "hu": "A megállótól mért rövid távolság minimalizálja a hidegben töltött időt.",
+                "ro": "Distanțele scurte de la stație minimizează timpul petrecut în frig.",
+                "en": "Short walks from the stop minimize time spent in the cold."
+              }
+            },
+            {
+              "name": "Parks Cluster: Åpromenaden",
+              "tip_5lang": {
+                "de": "Busse fahren hier regelmäßig und sind gut beheizt.",
+                "hu": "A buszok itt rendszeresen járnak és jól fűtöttek.",
+                "ro": "Autobuzele circulă regulat aici și sunt bine încălzite.",
+                "en": "Buses run regularly here and are well heated."
+              }
+            },
+            {
+              "name": "Parks Cluster: Drömparken",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Winterlandschaft aus dem Bus.",
+                "hu": "Élvezze a téli táj látványát a buszból.",
+                "ro": "Bucurați-vă de peisajul de iarnă din autobuz.",
+                "en": "Enjoy the view of the winter landscape from the bus."
+              }
+            },
+            {
+              "name": "Beach Cluster: Bredsand",
+              "tip_5lang": {
+                "de": "Im Winter kann der Fahrplan zum Strand eingeschränkt sein.",
+                "hu": "Télen a strandra tartó menetrend korlátozott lehet.",
+                "ro": "Iarna, programul către plajă poate fi limitat.",
+                "en": "The schedule to the beach may be limited in winter."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie den ÖPNV, um sich zwischen den Zielen aufzuwärmen.",
+                "hu": "Használja a tömegközlekedést a célpontok közötti melegedéshez.",
+                "ro": "Folosiți transportul public pentru a vă încălzi între obiective.",
+                "en": "Use public transit to warm up between destinations."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse in Schweden sind im Winter sehr pünktlich und warm.",
+              "Achten Sie auf Glätte an den Bushaltestellen beim Einsteigen.",
+              "UL-Tickets können nicht bar beim Fahrer gekauft werden.",
+              "Die Sonne geht früh unter, planen Sie Ihre Parkbesuche vor 15 Uhr.",
+              "WLAN ist in vielen regionalen Bussen und am Bahnhof verfügbar."
+            ],
+            "hu": [
+              "A svéd buszok télen is nagyon pontosak és melegek.",
+              "Vigyázzon a csúszásveszélyre a megállókban felszálláskor.",
+              "Az UL-jegyeket nem lehet készpénzzel megvenni a sofőrnél.",
+              "A nap korán nyugszik, tervezze a parklátogatást délután 3 előttre.",
+              "A legtöbb regionális buszon és az állomáson van wifi."
+            ],
+            "ro": [
+              "Autobuzele din Suedia sunt foarte punctuale și calde iarna.",
+              "Atenție la polei în stațiile de autobuz la urcare.",
+              "Biletele UL nu pot fi cumpărate cu numerar de la șofer.",
+              "Soarele apune devreme, planificați vizitele în parcuri înainte de ora 15:00.",
+              "Wi-Fi este disponibil în multe autobuze regionale și în gară."
+            ],
+            "en": [
+              "Buses in Sweden are very punctual and warm in winter.",
+              "Watch out for slipperiness at bus stops when boarding.",
+              "UL tickets cannot be bought with cash from the driver.",
+              "The sun sets early, plan your park visits before 3 PM.",
+              "Wi-Fi is available on many regional buses and at the station."
+            ]
+          }
+        }
       }
     }
   }

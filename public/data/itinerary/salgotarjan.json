@@ -300,6 +300,188 @@
           "The museums can get crowded, so plan accordingly.",
           "Check the opening hours for the Mining Museum in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "hu": "Salgótarján ipari múltja és modern központja esőben is felfedezhető. A reggel a Főplébániatemplom csendjében indul, védve az elemektől. Délben a Dornyay Béla Múzeum és a Bányamúzeum nyújt menedéket, ahol a város mélyebb rétegeit ismerhetjük meg szárazon. Délután a Tó-strand környékén az eső kopogása a vízen különleges hangulatot áraszt. Az este a Baglyaskő várának szikláinál zárul, ahol a ködös panoráma misztikus élményt nyújt.",
+            "de": "Salgótarjáns industrielle Vergangenheit lässt sich auch bei Regen erkunden. Der Morgen beginnt in der Stille der Hauptpfarrkirche. Mittags bieten das Dornyay-Béla-Museum und das Bergbaumuseum Schutz vor dem Regen und Einblicke in die Geschichte. Am Nachmittag erzeugt der Regen am Tó-Strand eine besondere Atmosphäre. Der Abend endet an den Felsen der Burg Baglyaskő, wo das neblige Panorama über der Stadt im Tal ein mystisches Erlebnis bietet.",
+            "ro": "Trecutul industrial al orașului Salgótarján poate fi explorat chiar și pe ploaie. Dimineața începe în liniștea Bisericii principale. La prânz, Muzeul Dornyay Béla și Muzeul Mineritului oferă adăpost, permițându-vă să descoperiți istoria orașului la adăpost. După-amiaza, sunetul ploii pe lacul Tó creează o atmosferă specială. Seara se încheie la stâncile Cetății Baglyaskő, unde panorama cețoasă deasupra văii oferă o experiență mistică.",
+            "en": "Salgótarján's industrial past can be explored even in the rain. The morning starts in the quiet of the Main Parish Church. At noon, the Dornyay Béla Museum and the Underground Mining Museum provide shelter while you discover the city's history. In the afternoon, the sound of rain on the Tó Lake creates a unique atmosphere. The evening concludes at the rocks of Baglyaskő Castle, where the misty panorama over the valley city offers a mystical experience."
+          },
+          "stops": [
+            {
+              "name": "Christ the King Main Church",
+              "tip_5lang": {
+                "hu": "Tökéletes menedék a reggeli zápor elől.",
+                "de": "Ein perfekter Zufluchtsort vor dem morgendlichen Schauer.",
+                "ro": "Un refugiu perfect împotriva ploii de dimineață.",
+                "en": "A perfect refuge from the morning shower."
+              }
+            },
+            {
+              "name": "Dornyay Béla Museum",
+              "tip_5lang": {
+                "hu": "Hosszabb tárlatvezetés, amíg odakint esik.",
+                "de": "Längere Führung, während es draußen regnet.",
+                "ro": "Tur ghidat mai lung în timp ce afară plouă.",
+                "en": "Longer guided tour while it rains outside."
+              }
+            },
+            {
+              "name": "Underground Mining Museum",
+              "tip_5lang": {
+                "hu": "A föld alatt garantáltan nem ázik meg.",
+                "de": "Unter Tage werden Sie garantiert nicht nass.",
+                "ro": "În subteran, sunteți garantat protejat de ploaie.",
+                "en": "Underground, you are guaranteed to stay dry."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "hu": "Élvezze a helyi specialitásokat a száraz melegben.",
+                "de": "Genießen Sie lokale Spezialitäten in der Wärme.",
+                "ro": "Bucurați-vă de specialități locale la căldură.",
+                "en": "Enjoy local specialties in the dry warmth."
+              }
+            },
+            {
+              "name": "Tó Lake Beach",
+              "tip_5lang": {
+                "hu": "A sétány vizesen is hangulatos, vigyen ernyőt.",
+                "de": "Die Promenade ist auch bei Nässe stimmungsvoll.",
+                "ro": "Promenada este atmosferică chiar și pe ploaie.",
+                "en": "The promenade is atmospheric even when wet."
+              }
+            },
+            {
+              "name": "Baglyaskő Castle Nature Reserve",
+              "tip_5lang": {
+                "hu": "Vigyázzon, a bazaltsziklák csúszósak lehetnek.",
+                "de": "Vorsicht, die Basaltfelsen können rutschig sein.",
+                "ro": "Atenție, stâncile de bazalt pot fi alunecoase.",
+                "en": "Be careful, the basalt rocks can be slippery."
+              }
+            }
+          ],
+          "tips": {
+            "hu": [
+              "A Bányamúzeum ideális választás szakadó esőben.",
+              "Vigyen strapabíró esernyőt, a szél felerősödhet a völgyben.",
+              "A múzeumok között használja a fedett árkádokat.",
+              "Viseljen vízálló cipőt a tóparti sétához."
+            ],
+            "de": [
+              "Das Bergbaumuseum ist ideal bei starkem Regen.",
+              "Nehmen Sie einen stabilen Schirm mit, es kann windig sein.",
+              "Nutzen Sie die Arkaden zwischen den Museen.",
+              "Tragen Sie wasserfeste Schuhe für den See."
+            ],
+            "ro": [
+              "Muzeul Mineritului este ideal în caz de ploaie.",
+              "Luați o umbrelă rezistentă, vântul se poate intensifica.",
+              "Folosiți arcadele acoperite între muzee.",
+              "Purtați încălțăminte impermeabilă pentru malul lacului."
+            ],
+            "en": [
+              "The Mining Museum is ideal during heavy rain.",
+              "Take a sturdy umbrella; the wind can pick up.",
+              "Use the covered arcades between museums.",
+              "Wear waterproof shoes for the lakeside walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "hu": "A téli Salgótarján hófödte dombjaival igazi nógrádi hangulatot áraszt. A reggeli mise után a templom melege után jól esik a friss levegő. Délben a múzeumok fűtött termeiben melegedhetünk fel, miközben a város történetét kutatjuk a sötétedés előtt. Délután a befagyott Tó-strand látványa és a zúzmarás fák közötti séta frissítő élmény. Az este a Baglyaskőnél ér véget, ahol a korai naplemente fényei megfestik a havas völgyet.",
+            "de": "Das winterliche Salgótarján versprüht mit seinen verschneiten Hügeln echte Atmosphäre. Nach dem Gottesdienst erfrischt die kalte Luft. Mittags können wir uns in den beheizten Räumen der Museen aufwärmen, bevor es früh dunkel wird. Nachmittags ist der Anblick des gefrorenen Tó-Strandes zwischen den Raureif-Bäumen ein Erlebnis. Der Abend endet bei Baglyaskő, wenn der Sonnenuntergang das verschneite Tal beleuchtet.",
+            "ro": "Salgótarján în timpul iernii, cu dealurile sale înzăpezite, emană o atmosferă autentică. Aerul proaspăt este revigorant după căldura bisericii. La prânz, ne putem încălzi în sălile muzeelor, explorând istoria înainte de lăsarea întunericului. După-amiaza, vederea lacului înghețat și plimbarea printre copacii chiciurați este revigorantă. Seara se încheie la Baglyaskő, unde luminile apusului colorează valea.",
+            "en": "Winter in Salgótarján offers a true Nógrád atmosphere with snow-capped hills. The fresh air is refreshing after the warmth of the church. At noon, warm up in the heated museum halls while exploring history before the early sunset. In the afternoon, the sight of the frozen Tó Lake and a walk among hoarfrost-covered trees is a crisp experience. The evening ends at Baglyaskő, as the lights of the sunset paint the snowy valley."
+          },
+          "stops": [
+            {
+              "name": "Christ the King Main Church",
+              "tip_5lang": {
+                "hu": "Élvezze a csendet és a belső teret fűtött helyen.",
+                "de": "Genießen Sie die Stille im beheizten Innenraum.",
+                "ro": "Bucurați-vă de liniște în interiorul încălzit.",
+                "en": "Enjoy the silence in the heated interior."
+              }
+            },
+            {
+              "name": "Dornyay Béla Museum",
+              "tip_5lang": {
+                "hu": "Kiváló hely a felmelegedésre két állomás között.",
+                "de": "Ein großartiger Ort zum Aufwärmen.",
+                "ro": "Un loc excelent pentru a vă încălzi între opriri.",
+                "en": "A great place to warm up between stops."
+              }
+            },
+            {
+              "name": "Underground Mining Museum",
+              "tip_5lang": {
+                "hu": "A mélyben télen is állandó, enyhe a hőmérséklet.",
+                "de": "Unter Tage ist die Temperatur auch im Winter mild.",
+                "ro": "În subteran, temperatura este constantă.",
+                "en": "Underground, the temperature is constant and mild."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "hu": "Kérjen egy forró teát vagy levest a hideg után.",
+                "de": "Bestellen Sie einen heißen Tee nach der Kälte.",
+                "ro": "Comandați un ceai fierbinte după frigul de afară.",
+                "en": "Order a hot tea or soup after the cold."
+              }
+            },
+            {
+              "name": "Tó Lake Beach",
+              "tip_5lang": {
+                "hu": "Öltözzön rétegesen, a tó felől hideg szél fújhat.",
+                "de": "Kleiden Sie sich warm, es weht ein kalter Wind.",
+                "ro": "Îmbrăcați-vă gros, poate sufla un vânt rece.",
+                "en": "Dress in layers, a cold wind can blow from the lake."
+              }
+            },
+            {
+              "name": "Baglyaskő Castle Nature Reserve",
+              "tip_5lang": {
+                "hu": "A naplemente már 16:30 körül várható.",
+                "de": "Der Sonnenuntergang wird bereits gegen 16:30 Uhr erwartet.",
+                "ro": "Apusul este așteptat în jurul orei 16:30.",
+                "en": "Sunset is expected around 16:30 already."
+              }
+            }
+          ],
+          "tips": {
+            "hu": [
+              "A bányamúzeumban 12-14 fok van télen is.",
+              "A jarda csúszós lehet a tóparti sétányon.",
+              "A naplemente korán, 17 óra előtt bekövetkezik.",
+              "Vigyen magával termoszban meleg italt."
+            ],
+            "de": [
+              "Im Bergbaumuseum sind es auch im Winter 12-14 Grad.",
+              "Der Gehweg am Seeufer kann rutschig sein.",
+              "Der Sonnenuntergang ist früh, vor 17 Uhr.",
+              "Nehmen Sie ein warmes Getränk im Thermos mit."
+            ],
+            "ro": [
+              "În muzeul mineritului sunt 12-14 grade și iarna.",
+              "Pista de pe malul lacului poate fi alunecoasă.",
+              "Apusul este devreme, înainte de ora 17:00.",
+              "Luați o băutură caldă într-un termos."
+            ],
+            "en": [
+              "The mining museum is 12-14 degrees even in winter.",
+              "The lakeside promenade can be slippery.",
+              "Sunset is early, before 5 PM.",
+              "Take a warm drink in a thermos with you."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -594,6 +776,188 @@
           "Some routes can be hilly, make sure your bike is in good condition.",
           "Always lock your bike securely."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "hu": "A kerékpározás esőben is kihívást és élményt jelent a dombok között. A reggel a Baglyaskő ködös sziklái között indul, ahol a nedves aszfalt óvatosságot igényel. Délben a belvárosba érve a templom és a múzeumok nyújtanak száraz pihenőt. Délután a Bányamúzeum földalatti világa a legjobb hely a záporok elől. Az este a Karancs felé vezető úton ér véget, ahol a párás erdő illata kárpótol a nedves útért.",
+            "de": "Radfahren zwischen den Hügeln ist auch bei Regen eine Erfahrung. Der Morgen beginnt an den nebligen Felsen von Baglyaskő. Mittags bieten die Kirche und die Museen im Zentrum trockene Pausen. Nachmittags ist die Unterwelt des Bergbaumuseums der beste Ort vor den Schauern. Der Abend endet auf dem Weg zum Karancs, wo der Duft des feuchten Waldes für den nassen Weg entschädigt.",
+            "ro": "Ciclismul între dealuri este o provocare chiar și pe ploaie. Dimineața începe printre stâncile cețoase din Baglyaskő. La prânz, biserica și muzeele din centru oferă pauze uscate. După-amiaza, lumea subterană a Muzeului Mineritului este cel mai bun refugiu împotriva ploii. Seara se încheie pe drumul spre Karancs, unde mirosul pădurii umede compensează efortul pe drumul ud.",
+            "en": "Cycling among the hills is a challenge and an experience even in the rain. The morning starts among the misty rocks of Baglyaskő. At noon, the church and museums in the center provide dry breaks. In the afternoon, the underground world of the Mining Museum is the best place to escape the showers. The evening concludes on the path to Karancs, where the scent of the damp forest compensates for the wet road."
+          },
+          "stops": [
+            {
+              "name": "Baglyaskő Castle Nature Reserve",
+              "tip_5lang": {
+                "hu": "Lassan ereszkedjen a vizes bazalton.",
+                "de": "Fahren Sie vorsichtig auf dem nassen Basalt ab.",
+                "ro": "Coborâți încet pe bazaltul ud.",
+                "en": "Descend slowly on the wet basalt."
+              }
+            },
+            {
+              "name": "Tó Lake Beach",
+              "tip_5lang": {
+                "hu": "A part menti út sárfoltos lehet.",
+                "de": "Der Uferweg kann schlammig sein.",
+                "ro": "Drumul de pe mal poate fi noroios.",
+                "en": "The lakeside path can be muddy."
+              }
+            },
+            {
+              "name": "Christ the King Main Church",
+              "tip_5lang": {
+                "hu": "Hagyja a bringát a fedett bejárat közelében.",
+                "de": "Stellen Sie das Rad am überdachten Eingang ab.",
+                "ro": "Lăsați bicicleta lângă intrarea acoperită.",
+                "en": "Leave the bike near the covered entrance."
+              }
+            },
+            {
+              "name": "Dornyay Béla Museum",
+              "tip_5lang": {
+                "hu": "Jó alkalom a ruházat megszárítására.",
+                "de": "Gute Gelegenheit, die Kleidung zu trocknen.",
+                "ro": "O ocazie bună pentru a vă usca hainele.",
+                "en": "A good opportunity to dry your clothes."
+              }
+            },
+            {
+              "name": "Underground Mining Museum",
+              "tip_5lang": {
+                "hu": "Hosszabb megálló, amíg eláll a zápor.",
+                "de": "Längerer Aufenthalt, bis der Schauer aufhört.",
+                "ro": "O oprire mai lungă până trece ploaia.",
+                "en": "A longer stop until the shower stops."
+              }
+            },
+            {
+              "name": "Karancs Lookout Tower",
+              "tip_5lang": {
+                "hu": "Az erdőben a sár nehezítheti a feljutást.",
+                "de": "Schlamm im Wald kann den Aufstieg erschweren.",
+                "ro": "Noroiul din pădure poate îngreuna urcarea.",
+                "en": "Mud in the forest can make the ascent difficult."
+              }
+            }
+          ],
+          "tips": {
+            "hu": [
+              "A sárvédő elengedhetetlen a nógrádi utakon.",
+              "A fékek hatásfoka csökkenhet a vizes lejtőkön.",
+              "Viseljen láthatósági mellényt a szürkületben.",
+              "Kerülje a hirtelen fékezést a felfestéseken."
+            ],
+            "de": [
+              "Schutzbleche sind auf den Wegen unerlässlich.",
+              "Die Bremswirkung kann auf nassen Abfahrten nachlassen.",
+              "Tragen Sie eine Warnweste in der Dämmerung.",
+              "Vermeiden Sie abruptes Bremsen auf Markierungen."
+            ],
+            "ro": [
+              "Apărătoarele de noroi sunt esențiale pe drumuri.",
+              "Eficiența frânelor poate scădea pe pantele umede.",
+              "Purtați o vestă reflectorizantă în amurg.",
+              "Evitați frânarea bruscă pe marcajele rutiere."
+            ],
+            "en": [
+              "Mudguards are essential on the local roads.",
+              "Braking efficiency may decrease on wet slopes.",
+              "Wear a high-visibility vest in the twilight.",
+              "Avoid sudden braking on road markings."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "hu": "A téli kerékpározás igazi kaland a fagyos levegőben. A reggeli tekerés a Baglyaskő zúzmarás szikláihoz frissítő kezdés. Délben a városközpont temploma és múzeumai ideális pontok a felmelegedésre. Délután a Bányamúzeum viszonylagos melege várja a bringásokat, mielőtt a nap korán eltűnne a hegyek mögött. Az este a Karancs felé vezető emelkedőn ér véget, ahol hófödte fák között csend uralkodik.",
+            "de": "Winterradfahren ist ein echtes Abenteuer in der frostigen Luft. Die Fahrt zu den Raureif-Felsen von Baglyaskő erfrischt. Mittags sind die Kirche und Museen ideale Orte zum Aufwärmen. Nachmittags erwartet die Radfahrer die relative Wärme des Bergbaumuseums, bevor die Sonne verschwindet. Der Abend endet am Anstieg zum Karancs, wo Stille zwischen den verschneiten Bäumen herrscht.",
+            "ro": "Ciclismul de iarnă este o aventură în aerul înghețat. Călătoria de dimineață către stâncile acoperite de chiciură este revigorantă. La prânz, biserica și muzeele din centru sunt puncte ideale pentru încălzire. După-amiaza, căldura Muzeului Mineritului îi așteaptă pe bicicliști înainte ca soarele să apună. Seara se încheie pe urcarea spre Karancs, unde domnește liniștea printre copacii înzăpeziți.",
+            "en": "Winter cycling is a real adventure in the frosty air. The morning ride to the hoarfrost-covered rocks of Baglyaskő is refreshing. At noon, the city center church and museums are ideal points to warm up. In the afternoon, the relative warmth of the Mining Museum awaits cyclists before the sun disappears early. The evening concludes on the ascent towards Karancs among snowy trees."
+          },
+          "stops": [
+            {
+              "name": "Baglyaskő Castle Nature Reserve",
+              "tip_5lang": {
+                "hu": "Vigyázzon a lefagyott bazaltfelületeken.",
+                "de": "Vorsicht auf gefrorenen Basaltflächen.",
+                "ro": "Atenție pe suprafețele de bazalt înghețate.",
+                "en": "Be careful on frozen basalt surfaces."
+              }
+            },
+            {
+              "name": "Tó Lake Beach",
+              "tip_5lang": {
+                "hu": "A szélvihar hidegebbnek érződik a tónál.",
+                "de": "Der Wind am See fühlt sich kälter an.",
+                "ro": "Vântul se simte mai rece lângă lac.",
+                "en": "The wind feels colder by the lake."
+              }
+            },
+            {
+              "name": "Christ the King Main Church",
+              "tip_5lang": {
+                "hu": "Rövid pihenő a fűtött belső térben.",
+                "de": "Kurze Pause im beheizten Innenraum.",
+                "ro": "Scurtă pauză în interiorul încălzit.",
+                "en": "Short break in the heated interior."
+              }
+            },
+            {
+              "name": "Dornyay Béla Museum",
+              "tip_5lang": {
+                "hu": "Melegedjen fel a tárlatok megtekintése közben.",
+                "de": "Wärmen Sie sich während der Besichtigung auf.",
+                "ro": "Încălziți-vă în timp ce vizitați expozițiile.",
+                "en": "Warm up while viewing the exhibits."
+              }
+            },
+            {
+              "name": "Underground Mining Museum",
+              "tip_5lang": {
+                "hu": "A föld alatt melegebb van, mint kint.",
+                "de": "Unter Tage ist es wärmer als draußen.",
+                "ro": "În subteran este mai cald decât afară.",
+                "en": "It is warmer underground than outside."
+              }
+            },
+            {
+              "name": "Karancs Lookout Tower",
+              "tip_5lang": {
+                "hu": "A sötétedés miatt vigyen erős lámpát.",
+                "de": "Wegen der Dunkelheit starke Lampe mitnehmen.",
+                "ro": "Luați o lanternă puternică pentru întuneric.",
+                "en": "Take a strong light due to the early darkness."
+              }
+            }
+          ],
+          "tips": {
+            "hu": [
+              "Használjon téli kerékpárgumit a jobb tapadásért.",
+              "A réteges öltözködés és a termosz kötelező.",
+              "A jeges foltok különösen veszélyesek a kanyarokban.",
+              "Induljon korán, a nap 16:30-kor lemegy."
+            ],
+            "de": [
+              "Nutzen Sie Winterreifen für besseren Grip.",
+              "Zwiebelprinzip und Thermoskanne sind Pflicht.",
+              "Eisige Stellen sind in Kurven besonders gefährlich.",
+              "Starten Sie früh, die Sonne geht um 16:30 Uhr unter."
+            ],
+            "ro": [
+              "Folosiți anvelope de iarnă pentru o aderență mai bună.",
+              "Îmbrăcămintea stratificată și termosul sunt obligatorii.",
+              "Petele de gheață sunt periculoase în curbe.",
+              "Porniți devreme, soarele apune la ora 16:30."
+            ],
+            "en": [
+              "Use winter bike tires for better grip.",
+              "Layered clothing and a thermos are mandatory.",
+              "Icy patches are especially dangerous in curves.",
+              "Start early, the sun sets at 4:30 PM."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -911,6 +1275,206 @@
           "Good hiking shoes are required for the treks up to the castles.",
           "Fill up on gas before leaving the city, as stations can be sparse in the hills."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "hu": "Autóval a környék esőben is kényelmesen bejárható. A reggel Somoskő váránál indul, ahol a bazaltorgonák a vizes csillogásban még látványosabbak. Délben Salgó vára felé vesszük az irányt, ahol a ködös erdő misztikus hátteret ad. Délután a Bányamúzeum és a belvárosi múzeumok nyújtanak száraz programot. Az este a Karancs-kilátóhoz vezető úton zárul, ahol az autóból is élvezhetjük a párás tájat.",
+            "de": "Mit dem Auto lässt sich die Gegend auch bei Regen bequem erkunden. Der Morgen beginnt an der Burg Somoskő. Mittags geht es zur Burg Salgó, wo der neblige Wald eine mystische Kulisse bietet. Nachmittags bieten das Bergbaumuseum und die Museen im Zentrum ein trockenes Programm mit Parkplätzen. Der Abend endet auf dem Weg zum Karancs, wo man die Aussicht aus dem Auto genießen kann.",
+            "ro": "Cu mașina, împrejurimile pot fi explorate confortabil chiar și pe ploaie. Dimineața începe la Cetatea Somoskő. La prânz ne îndreptăm spre Cetatea Salgó, unde pădurea cețoasă oferă un fundal mistic. După-amiaza, Muzeul Mineritului și muzeele din centru oferă un program uscat. Seara se încheie pe drumul spre Karancs, unde puteți admira peisajul din confortul mașinii.",
+            "en": "By car, the area can be explored comfortably even in the rain. The morning starts at Somoskő Castle, where the basalt columns shine in the wet. At noon, we head to Salgó Castle, where the misty forest provides a mystical backdrop. In the afternoon, the Mining Museum and downtown museums offer dry activities. The evening concludes on the road to Karancs, where you can enjoy the landscape from the car."
+          },
+          "stops": [
+            {
+              "name": "Somoskő Castle",
+              "tip_5lang": {
+                "hu": "Parkoljon a vár alatti kijelölt helyen.",
+                "de": "Parken Sie auf dem Platz unterhalb der Burg.",
+                "ro": "Parcați în locul stabilit de sub cetate.",
+                "en": "Park in the designated area below the castle."
+              }
+            },
+            {
+              "name": "Park and walk in the cluster",
+              "tip_5lang": {
+                "hu": "Készítse elő az esernyőket a sétához.",
+                "de": "Halten Sie die Regenschirme bereit.",
+                "ro": "Pregătiți umbrelele pentru plimbare.",
+                "en": "Prepare your umbrellas for the walk."
+              }
+            },
+            {
+              "name": "Salgó Castle",
+              "tip_5lang": {
+                "hu": "A várkapu után az ösvény saras lehet.",
+                "de": "Hinter dem Burgtor kann es schlammig sein.",
+                "ro": "După poarta cetății, poteca poate fi noroioasă.",
+                "en": "After the castle gate, the path may be muddy."
+              }
+            },
+            {
+              "name": "Underground Mining Museum",
+              "tip_5lang": {
+                "hu": "A múzeum melletti parkolás egyszerű.",
+                "de": "Parken direkt am Museum ist einfach.",
+                "ro": "Parcarea lângă muzeu este ușoară.",
+                "en": "Parking next to the museum is easy."
+              }
+            },
+            {
+              "name": "Lunch and walk in the city center",
+              "tip_5lang": {
+                "hu": "Használja a mélygarázst, ha elérhető.",
+                "de": "Nutzen Sie die Tiefgarage, falls verfügbar.",
+                "ro": "Folosiți parcarea subterană, dacă există.",
+                "en": "Use the underground parking if available."
+              }
+            },
+            {
+              "name": "Dornyay Béla Museum",
+              "tip_5lang": {
+                "hu": "Csak pár lépés a parkolótól a bejáratig.",
+                "de": "Nur wenige Schritte vom Parkplatz zum Eingang.",
+                "ro": "Doar câțiva pași de la parcare la intrare.",
+                "en": "Just a few steps from the parking to the entrance."
+              }
+            },
+            {
+              "name": "Karancs Lookout Tower",
+              "tip_5lang": {
+                "hu": "Lassan vezessen a keskeny, vizes úton.",
+                "de": "Fahren Sie langsam auf der nassen Straße.",
+                "ro": "Conduceți încet pe drumul îngust și ud.",
+                "en": "Drive slowly on the narrow, wet road."
+              }
+            }
+          ],
+          "tips": {
+            "hu": [
+              "A hegyi utak kanyargósak és csúszósak lehetnek.",
+              "Ellenőrizze az ablaktörlők állapotát indulás előtt.",
+              "A várakhoz vezető ösvényeken sárra kell számítani.",
+              "Tartson nagyobb követési távolságot a lejtőkön."
+            ],
+            "de": [
+              "Bergstraßen können kurvig und rutschig sein.",
+              "Prüfen Sie vorab die Scheibenwischer.",
+              "Auf den Pfaden zu den Burgen gibt es Matsch.",
+              "Halten Sie auf Gefällen größeren Abstand."
+            ],
+            "ro": [
+              "Drumurile de munte pot fi alunecoase.",
+              "Verificați ștergătoarele înainte de a pleca.",
+              "Așteptați-vă la noroi pe potecile spre cetăți.",
+              "Păstrați o distanță mai mare față de mașină."
+            ],
+            "en": [
+              "Mountain roads can be curvy and slippery.",
+              "Check the condition of wipers before starting.",
+              "Expect mud on the paths to the castles.",
+              "Keep a larger following distance on slopes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "hu": "Téli autós túránk a hófödte környéken biztonságos és látványos. A reggel Somoskő váránál indul, ahol a befagyott bazaltorgonák jégcsapokkal díszítettek. Délben Salgó vára következik, a fehérbe öltözött erdő közepén tornyosuló fekete sziklákkal. Délután a fűtött múzeumok és a belvárosi gasztro-élmények adnak pihenőt. Az este a Karancs felé vezető úton ér véget, ahol hótolók által tisztított úton juthatunk el a panorámáig.",
+            "de": "Unsere winterliche Autotour ist sicher und spektakulär. Der Morgen beginnt an der Burg Somoskő mit Eiszapfen an den Basaltorgeln. Mittags folgt Burg Salgó inmitten des weiß gekleideten Waldes. Nachmittags bieten beheizte Museen und Gastro-Erlebnisse im Zentrum Schutz vor der Kälte. Der Abend endet am Karancs, wo geräumte Straßen zum Panorama über der Stadt führen.",
+            "ro": "Turul nostru de iarnă cu mașina în jurul orașului este sigur și spectaculos. Dimineața începe la Cetatea Somoskő cu țurțuri pe bazalt. La prânz urmează Cetatea Salgó, care se înalță în mijlocul pădurii albe. După-amiaza, muzeele încălzite și experiențele gastronomice oferă un răgaz. Seara se încheie pe drumul spre Karancs, pe drumurile deszăpezite spre panorama orașului.",
+            "en": "Our winter car tour around the city is safe and spectacular. The morning starts at Somoskő Castle, where the frozen basalt columns are decorated with icicles. At noon, Salgó Castle follows, towering in the middle of the white forest. In the afternoon, heated museums and downtown gastro experiences provide a break. The evening concludes on the road to Karancs on snow-cleared roads."
+          },
+          "stops": [
+            {
+              "name": "Somoskő Castle",
+              "tip_5lang": {
+                "hu": "Téli gumi és óvatos vezetés kötelező.",
+                "de": "Winterreifen und vorsichtiges Fahren sind Pflicht.",
+                "ro": "Anvelopele de iarnă sunt obligatorii.",
+                "en": "Winter tires and cautious driving are mandatory."
+              }
+            },
+            {
+              "name": "Park and walk in the cluster",
+              "tip_5lang": {
+                "hu": "A parkoló jeges lehet, figyeljen a lába elé.",
+                "de": "Der Parkplatz kann vereist sein, Vorsicht.",
+                "ro": "Parcarea poate fi înghețată, atenție la pași.",
+                "en": "The parking lot may be icy, watch your step."
+              }
+            },
+            {
+              "name": "Salgó Castle",
+              "tip_5lang": {
+                "hu": "A várba vezető út csúszós, viseljen bakancsot.",
+                "de": "Der Weg zur Burg ist rutschig, tragen Sie Stiefel.",
+                "ro": "Drumul spre cetate este alunecos, purtați bocanci.",
+                "en": "The path to the castle is slippery, wear boots."
+              }
+            },
+            {
+              "name": "Underground Mining Museum",
+              "tip_5lang": {
+                "hu": "Kiváló pont a felmelegedésre a kocsiból kiszállva.",
+                "de": "Ein guter Ort zum Aufwärmen nach der Fahrt.",
+                "ro": "Un loc excelent pentru a vă încălzi după drum.",
+                "en": "A great place to warm up after the drive."
+              }
+            },
+            {
+              "name": "Lunch and walk in the city center",
+              "tip_5lang": {
+                "hu": "Válasszon egy fűtött helyet a főtéren.",
+                "de": "Wählen Sie ein beheiztes Lokal am Hauptplatz.",
+                "ro": "Alegeți un local încălzit în piața centrală.",
+                "en": "Choose a heated place in the main square."
+              }
+            },
+            {
+              "name": "Dornyay Béla Museum",
+              "tip_5lang": {
+                "hu": "Az autóban hagyhatja a nehéz kabátokat.",
+                "de": "Lassen Sie schwere Mäntel im Auto.",
+                "ro": "Puteți lăsa hainele groase în mașină.",
+                "en": "You can leave heavy coats in the car."
+              }
+            },
+            {
+              "name": "Karancs Lookout Tower",
+              "tip_5lang": {
+                "hu": "Csak takarított úton induljon el a hegynek.",
+                "de": "Fahren Sie nur auf geräumten Wegen bergauf.",
+                "ro": "Porniți spre munte doar pe drumurile curățate.",
+                "en": "Only head up the mountain on cleared roads."
+              }
+            }
+          ],
+          "tips": {
+            "hu": [
+              "Legyen az autóban hólapát és jégoldó.",
+              "A hegyi szakaszokon a hólánc ajánlott lehet.",
+              "A sötétedés korai, tervezze be a naplementét.",
+              "A fűtést tartsa optimális szinten a pára ellen."
+            ],
+            "de": [
+              "Schneeschaufel und Enteiser im Auto haben.",
+              "Schneeketten können ratsam sein.",
+              "Die Dunkelheit kommt früh, Planen Sie das ein.",
+              "Heizung optimal einstellen gegen beschlagene Scheiben."
+            ],
+            "ro": [
+              "Aveți în mașină o lopată și degivrant.",
+              "Lanțurile pot fi recomandate la munte.",
+              "Întunericul vine devreme, planificați apusul.",
+              "Mențineți încălzirea la nivel optim."
+            ],
+            "en": [
+              "Have a snow shovel and de-icer in the car.",
+              "Snow chains may be recommended on mountain sections.",
+              "Darkness comes early, plan for the sunset.",
+              "Keep the heating at an optimal level against fogging."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1205,6 +1769,188 @@
           "Check bus schedules in advance, especially on weekends.",
           "Have small change ready for tickets in case card payment isn't available."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "hu": "Tömegközlekedéssel a város esőben is könnyen felfedezhető. A reggel a belvárosban indul, ahol a központi templom pár percre van a megállótól. Délben a múzeumok között közlekedve a buszok nyújtanak száraz menedéket. Délután a Tó-strand felé vehetjük az irányt, ahol a váróterem védelmet nyújt. Az este a Baglyaskőnél zárul, ahová helyi járattal juthatunk fel, élvezve az esős fényeket az ablakból.",
+            "de": "Mit dem dichten Busnetz lässt sich Salgótarján auch bei Regen gut erkunden. Der Morgen beginnt im Zentrum. Mittags bieten die Busse zwischen den Museen trockenen Schutz. Nachmittags geht es zum Tó-Strand, wo die Wartehallen Schutz bieten. Der Abend endet bei Baglyaskő, das mit dem Stadtbus erreichbar ist, während man die regnerischen Lichter der Stadt genießt.",
+            "ro": "Cu rețeaua densă de autobuze, orașul este ușor de explorat chiar și pe ploaie. Dimineața începe în centru. La prânz, autobuzele care circulă între muzee oferă un adăpost uscat. După-amiaza ne îndreptăm spre lacul Tó, unde stațiile oferă protecție. Seara se încheie la Baglyaskő, unde puteți ajunge cu o cursă locală, admirând luminile prin fereastră.",
+            "en": "By public transport, the city is easy to explore even in the rain thanks to the dense bus network. The morning starts in the center near the stop. At noon, traveling between museums, buses provide a dry refuge. In the afternoon, head towards Tó Lake, where bus shelters offer protection. The evening concludes at Baglyaskő, reachable by local bus, enjoying the rainy city lights."
+          },
+          "stops": [
+            {
+              "name": "Arrival in City Center",
+              "tip_5lang": {
+                "hu": "A pályaudvar fedett peronjai alatt várakozzon.",
+                "de": "Warten Sie unter den überdachten Bahnsteigen.",
+                "ro": "Așteptați sub peroanele acoperite ale gării.",
+                "en": "Wait under the covered platforms of the station."
+              }
+            },
+            {
+              "name": "Christ the King Main Church",
+              "tip_5lang": {
+                "hu": "A legközelebbi buszmegálló 200 méterre van.",
+                "de": "Die nächste Bushaltestelle ist 200 m entfernt.",
+                "ro": "Cea mai apropiată stație este la 200 m.",
+                "en": "The nearest bus stop is 200 meters away."
+              }
+            },
+            {
+              "name": "Dornyay Béla Museum",
+              "tip_5lang": {
+                "hu": "Használja a helyi menetrend-appot az időzítéshez.",
+                "de": "Nutzen Sie die Fahrplan-App für das Timing.",
+                "ro": "Folosiți aplicația de transport pentru program.",
+                "en": "Use the local transit app for timing."
+              }
+            },
+            {
+              "name": "Underground Mining Museum",
+              "tip_5lang": {
+                "hu": "Száraz program, ideális a buszok között.",
+                "de": "Trockenes Programm, ideal zwischen den Bussen.",
+                "ro": "Program uscat, ideal între autobuze.",
+                "en": "Dry activity, ideal between buses."
+              }
+            },
+            {
+              "name": "Tó Lake Beach",
+              "tip_5lang": {
+                "hu": "A buszváróban nem ázik meg az indulásig.",
+                "de": "Im Wartehäuschen bleiben Sie trocken.",
+                "ro": "Nu vă veți uda în stație până la plecare.",
+                "en": "You won't get wet in the shelter until departure."
+              }
+            },
+            {
+              "name": "Baglyaskő Castle Nature Reserve",
+              "tip_5lang": {
+                "hu": "A busz megállója közvetlenül a bejáratnál van.",
+                "de": "Die Bushaltestelle befindet sich direkt am Eingang.",
+                "ro": "Stația de autobuz este direct la intrare.",
+                "en": "The bus stop is right at the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "hu": [
+              "A jegyet előre is megveheti a pályaudvaron.",
+              "A buszok melege jól esik az esős séta után.",
+              "Ellenőrizze az utolsó járat indulását esőben is.",
+              "Vigyen kisméretű, összecsukható esernyőt."
+            ],
+            "de": [
+              "Kaufen Sie Fahrkarten vorab am Busbahnhof.",
+              "Die Wärme im Bus tut nach dem Regen gut.",
+              "Prüfen Sie die Abfahrt des letzten Busses.",
+              "Nehmen Sie einen kleinen Klappschirm mit."
+            ],
+            "ro": [
+              "Cumpărați biletele în avans de la autogară.",
+              "Căldura din autobuz este binevenită după ploaie.",
+              "Verificați plecarea ultimei curse.",
+              "Luați o umbrelă mică, pliabilă."
+            ],
+            "en": [
+              "Buy tickets in advance at the bus station.",
+              "The warmth of the bus is welcome after the rain.",
+              "Check the departure of the last service.",
+              "Take a small, foldable umbrella."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "hu": "Téli tömegközlekedéssel felfedezhetjük a város békés, havas arcát. A reggel a fűtött buszokon kezdődik, ahonnan csodálhatjuk a hófödte dombokat. Délben a belváros fűtött múzeumaiba látogatunk, amelyek között gyors a buszos összeköttetés. Délután a Tó-strand környéke fehérbe öltözve várja a látogatókat, mielőtt visszatérnénk a központba. Az este a Baglyaskőnél zárul, ahol a kivilágított megállók biztonságos lezárást adnak a napnak.",
+            "de": "Entdecken wir Salgótarjáns friedliche, verschneite Seite. Der Morgen beginnt im beheizten Bus. Mittags besuchen wir die beheizten Museen im Zentrum mit schneller Busverbindung. Nachmittags erwartet uns der Tó-Strand in Weiß, bevor wir in der Dämmerung zurückkehren. Der Abend endet bei Baglyaskő, wo beleuchtete Haltestellen den Tag stimmungsvoll abschließen.",
+            "ro": "Cu transportul de iarnă, putem descoperi fața pașnică a orașului. Dimineața începe în autobuzele încălzite. La prânz vizităm muzeele din centru, care au conexiuni rapide. După-amiaza, zona lacului Tó ne întâmpină în alb, înainte de a ne întoarce în centru la amurg. Seara se încheie la Baglyaskő, unde stațiile iluminate oferă un final sigur zilei.",
+            "en": "With winter public transport, we can discover the city's peaceful, snowy side. The morning starts in heated buses with views of snowy hills. At noon, we visit heated museums in the center with quick connections. In the afternoon, the Tó Lake area welcomes visitors in white before returning to the center. The evening concludes at Baglyaskő, where lit bus stops provide a safe end to the day."
+          },
+          "stops": [
+            {
+              "name": "Arrival in City Center",
+              "tip_5lang": {
+                "hu": "Melegedjen fel a pályaudvar fűtött várótermében.",
+                "de": "Wärmen Sie sich im beheizten Wartesaal auf.",
+                "ro": "Încălziți-vă în sala de așteptare a gării.",
+                "en": "Warm up in the station's heated waiting room."
+              }
+            },
+            {
+              "name": "Christ the King Main Church",
+              "tip_5lang": {
+                "hu": "A megállóban a jég miatt legyen óvatos.",
+                "de": "Vorsicht an der Haltestelle wegen Glatteis.",
+                "ro": "Atenție în stație din cauza gheții.",
+                "en": "Be careful at the stop due to ice."
+              }
+            },
+            {
+              "name": "Dornyay Béla Museum",
+              "tip_5lang": {
+                "hu": "Kényelmes és meleg pihenő két buszjárat között.",
+                "de": "Bequeme, warme Pause zwischen zwei Bussen.",
+                "ro": "O pauză confortabilă între curse.",
+                "en": "A comfortable and warm break between bus rides."
+              }
+            },
+            {
+              "name": "Underground Mining Museum",
+              "tip_5lang": {
+                "hu": "A mélyben télen is kellemes az idő.",
+                "de": "Unter Tage ist es auch im Winter angenehm.",
+                "ro": "În subteran este plăcut chiar și iarna.",
+                "en": "It is pleasant underground even in winter."
+              }
+            },
+            {
+              "name": "Tó Lake Beach",
+              "tip_5lang": {
+                "hu": "A buszmegálló közelebb van, mint a parkoló.",
+                "de": "Die Bushaltestelle ist näher als der Parkplatz.",
+                "ro": "Stația de autobuz este mai aproape decât parcarea.",
+                "en": "The bus stop is closer than the parking lot."
+              }
+            },
+            {
+              "name": "Baglyaskő Castle Nature Reserve",
+              "tip_5lang": {
+                "hu": "A menetrend télen is megbízható a főút mentén.",
+                "de": "Der Fahrplan ist auch im Winter zuverlässig.",
+                "ro": "Programul este de încredere și iarna.",
+                "en": "The schedule is reliable even in winter."
+              }
+            }
+          ],
+          "tips": {
+            "hu": [
+              "A buszok fűtése télen is kiváló a városban.",
+              "Töltse le a menetrendet, hogy ne várjon sokat a hidegben.",
+              "A sötétedés miatt a 16 óra utáni járatok már lámpafénynél közlekednek.",
+              "Vigyen egy termoszt a buszos utazáshoz."
+            ],
+            "de": [
+              "Die Busheizung ist auch im Winter ausgezeichnet.",
+              "Fahrplan laden, um nicht in der Kälte zu warten.",
+              "Nach 16 Uhr fahren Busse bei Dunkelheit.",
+              "Nehmen Sie einen Thermos für die Busfahrt mit."
+            ],
+            "ro": [
+              "Încălzirea în autobuze este excelentă și iarna.",
+              "Descărcați programul pentru a nu aștepta în frig.",
+              "După ora 16:00, autobuzele circulă pe întuneric.",
+              "Luați un termos pentru călătorie."
+            ],
+            "en": [
+              "Bus heating is excellent in the city even in winter.",
+              "Download the schedule to avoid waiting in the cold.",
+              "Buses after 4 PM already run in the dark.",
+              "Take a thermos for the bus ride."
+            ]
+          }
+        }
       }
     }
   }

@@ -339,6 +339,214 @@
           "The weather can change quickly; a waterproof jacket is always a good idea.",
           "Check museum opening times in advance as they can be seasonal."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag trotz Regen an der Marine Highway, wo die Gischt auf den Asphalt peitscht. Die Carrickfergus Castle bietet einen perfekten, trockenen Zufluchtsort für den Vormittag. Mittags wärmen Sie sich in einem Pub auf, bevor Sie die Museen erkunden. Der Nachmittag gehört der Industriegeschichte im Gaswerk, weit weg vom nassen Wetter.",
+            "hu": "Kezdje a napot a tengerparti sétányon, ahol az eső és a sós pára keveredik. A vár vastag falai között szárazon fedezheti fel a történelmet. Ebéd után a helyi múzeumok nyújtanak menedéket a csapadék elől. A napot a gázgyár múzeumában zárhatja, amely tökéletes beltéri program esős időben is.",
+            "ro": "Începeți ziua pe faleză, înfruntând burnița specifică zonei. Castelul Carrickfergus oferă un adăpost solid și uscat pentru explorare. După un prânz cald într-un pub local, vizitați muzeele orașului. După-amiaza este dedicată istoriei industriale la muzeul de gaz, un loc ideal pentru a rămâne la adăpost de ploaie.",
+            "en": "Start the day on the promenade with the bracing sea spray and rain. The massive walls of the castle provide a dry sanctuary for exploration. After a cozy pub lunch, spend the afternoon in the town's museums. The Flame Gasworks Museum is a fascinating indoor finale that keeps you completely dry from the Irish weather."
+          },
+          "stops": [
+            {
+              "name": "Marine Highway Promenade",
+              "tip_5lang": {
+                "de": "Windfeste Regenjacke ist hier wegen der Meeresbrise Pflicht.",
+                "hu": "A tengeri szél miatt szélálló esőkabát viselése ajánlott.",
+                "ro": "O jachetă de ploaie rezistentă la vânt este obligatorie aici.",
+                "en": "A windproof raincoat is essential here due to the sea breeze."
+              }
+            },
+            {
+              "name": "Carrickfergus Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume des Bergfrieds, um trocken zu bleiben.",
+                "hu": "Használja ki az öregtorony belső tereit a száraz nézelődéshez.",
+                "ro": "Explorați interiorul donjonului pentru a rămâne la adăpost.",
+                "en": "Utilize the interior of the keep to stay dry while exploring."
+              }
+            },
+            {
+              "name": "St. Nicholas' Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, überdachter Ort, um den Regen abzuwarten.",
+                "hu": "Csendes, fedett helyszín az eső elkerülésére.",
+                "ro": "Un loc liniștit și acoperit pentru a aștepta oprirea ploii.",
+                "en": "A quiet, covered spot to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Carrickfergus Town Walls",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Gehwegen, die Steine können bei Nässe glatt sein.",
+                "hu": "Vigyázat, a városfal melletti kövek nedvesen csúszhatnak.",
+                "ro": "Atenție la pavaj, pietrele pot fi alunecoase când sunt ude.",
+                "en": "Careful on the walkways; stones can be slippery when wet."
+              }
+            },
+            {
+              "name": "Lunch at a Local Pub",
+              "tip_5lang": {
+                "de": "Ideal, um die Kleidung am Kamin oder an der Heizung zu trocknen.",
+                "hu": "Ideális hely a ruhák szárítására a kandalló mellett.",
+                "ro": "Ideal pentru a vă usca hainele lângă șemineu sau calorifer.",
+                "en": "Ideal for drying off your gear near the fire or radiator."
+              }
+            },
+            {
+              "name": "Carrickfergus Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine längere Pause im Trockenen.",
+                "hu": "Tökéletes helyszín egy hosszabb beltéri szünethez.",
+                "ro": "Locul perfect pentru o pauză prelungită la adăpost.",
+                "en": "Perfect location for an extended indoor break."
+              }
+            },
+            {
+              "name": "Flame Gasworks Museum",
+              "tip_5lang": {
+                "de": "Komplett überdacht, bietet es Schutz bis zum Ende der Tour.",
+                "hu": "Teljesen fedett, védelmet nyújt a túra végéig.",
+                "ro": "Complet acoperit, oferă protecție până la finalul turului.",
+                "en": "Completely undercover, offering protection until the tour ends."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Carrickfergus Castle hat viele überdachte Bereiche, ideal bei Schauern.",
+              "Die Museen sind montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Tragen Sie wasserfeste Schuhe, da sich auf der Marine Highway Pfützen bilden.",
+              "Ein Taschenschirm ist bei dem oft böigen Wind weniger effektiv als ein Cape.",
+              "Pubs im Zentrum bieten oft gemütliche 'Snugs' zum Aufwärmen an."
+            ],
+            "hu": [
+              "A vár sok fedett résszel rendelkezik, ideális záporok idején.",
+              "A múzeumok hétfőnként gyakran zárva tartanak, ellenőrizze az időpontokat.",
+              "Viseljen vízálló cipőt, mert a tengerparti úton tócsák alakulhatnak ki.",
+              "Az erős szélben az esernyő helyett praktikusabb egy esőponcsó.",
+              "A központi pubok barátságos boxai kiválóak a felmelegedéshez."
+            ],
+            "ro": [
+              "Castelul are multe zone acoperite, ideale în timpul averselor.",
+              "Muzeele sunt adesea închise lunea, verificați programul în avans.",
+              "Purtați încălțăminte impermeabilă, pe faleză se pot forma bălți.",
+              "O pelerină de ploaie este mai utilă decât o umbrelă în vântul puternic.",
+              "Pub-urile centrale au adesea zone retrase ('snugs') pentru încălzire."
+            ],
+            "en": [
+              "The castle has many covered areas, ideal during sudden showers.",
+              "Museums are often closed on Mondays; check opening times in advance.",
+              "Wear waterproof footwear as puddles frequently form on the promenade.",
+              "A rain poncho is often more effective than an umbrella in gusty winds.",
+              "Town centre pubs offer cozy 'snugs' perfect for drying off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die raue Schönheit der Antrim-Küste im Winter. Die klare Luft bietet weite Sichten von der Marine Highway, bevor Sie sich im Schloss aufwärmen. Ein herzhaftes Mittagessen ist Pflicht, um die Kälte zu vertreiben. Da die Sonne früh untergeht, bieten die stimmungsvoll beleuchteten Museen am Nachmittag eine wohlige Atmosphäre.",
+            "hu": "Fedezze fel az Antrim-part vad téli szépségét. A tiszta levegő messzi kilátást enged a tengerpartról, mielőtt behúzódna a vár falai közé. Egy forró leves ebédre elengedhetetlen a hideg ellen. Mivel korán sötétedik, a délutánt töltse a múzeumok melegében, élvezve a meghitt hangulatot.",
+            "ro": "Descoperiți frumusețea aspră a coastei Antrim iarna. Aerul curat oferă vizibilitate maximă pe faleză înainte de a intra la căldură în castel. Un prânz consistent este obligatoriu pentru a alunga frigul. Deoarece soarele apune devreme, muzeele oferă o atmosferă primitoare după-amiaza.",
+            "en": "Experience the rugged winter beauty of the Antrim coast. The crisp air offers clear views from the Marine Highway before you seek warmth inside the castle. A hearty lunch is essential to ward off the chill. With early sunsets, the town's museums provide a cozy atmosphere for the late afternoon hours."
+          },
+          "stops": [
+            {
+              "name": "Marine Highway Promenade",
+              "tip_5lang": {
+                "de": "Mütze und Handschuhe schützen vor dem kalten Seewind.",
+                "hu": "Sapka és kesztyű kötelező a hideg tengeri szél ellen.",
+                "ro": "Căciula și mănușile vă protejează de vântul înghețat.",
+                "en": "Hat and gloves are vital against the biting sea wind."
+              }
+            },
+            {
+              "name": "Carrickfergus Castle",
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte; warm anziehen!",
+                "hu": "A vastag falak ontják a hideget; öltözzön rétegesen!",
+                "ro": "Zidurile groase rețin frigul; îmbrăcați-vă bine!",
+                "en": "The thick stone walls retain the cold; dress warmly!"
+              }
+            },
+            {
+              "name": "St. Nicholas' Church",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für besinnliche Momente in der Kälte.",
+                "hu": "Szép helyszín egy elcsendesedésre a téli hidegben.",
+                "ro": "Un loc frumos pentru momente de reflecție pe timp de iarnă.",
+                "en": "A beautiful spot for quiet reflection during the winter chill."
+              }
+            },
+            {
+              "name": "Carrickfergus Town Walls",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang, um die Blutzirkulation anzuregen.",
+                "hu": "Rövid séta a vérkeringés frissítésére a hidegben.",
+                "ro": "O plimbare scurtă pentru a pune sângele în mișcare.",
+                "en": "A short walk to get the blood flowing in the cold."
+              }
+            },
+            {
+              "name": "Lunch at a Local Pub",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz am Kamin für maximale Gemütlichkeit.",
+                "hu": "Keressen helyet a kandalló közelében a maximális kényelemért.",
+                "ro": "Căutați un loc lângă șemineu pentru confort maxim.",
+                "en": "Look for a seat near the fireplace for maximum coziness."
+              }
+            },
+            {
+              "name": "Carrickfergus Museum",
+              "tip_5lang": {
+                "de": "Gut beheizt, bietet es eine Pause von der Winterluft.",
+                "hu": "Jól fűtött, kellemes pihenőt nyújt a téli levegő után.",
+                "ro": "Bine încălzit, oferă o pauză de la aerul iernatic.",
+                "en": "Well-heated, providing a welcome break from the winter air."
+              }
+            },
+            {
+              "name": "Flame Gasworks Museum",
+              "tip_5lang": {
+                "de": "Besuch am späten Nachmittag, wenn es draußen dunkel wird.",
+                "hu": "Látogassa késő délután, amikor kint már sötétedik.",
+                "ro": "Vizitați-l spre seară, când afară începe să se întunece.",
+                "en": "Visit in the late afternoon as it begins to get dark outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Einige Außenbereiche des Schlosses können bei Frost glatt sein.",
+              "Warme Getränke wie Irish Coffee sind in den Pubs sehr beliebt.",
+              "Nutzen Sie die Mittagszeit für Fotos, wenn das Licht am besten ist.",
+              "Die Museen sind im Winter ein guter Ort zum Aufwärmen."
+            ],
+            "hu": [
+              "Decemberben a nap már délután 4 óra körül lemegy.",
+              "A vár egyes külső részei fagy esetén csúszósak lehetnek.",
+              "A forró italok, mint az ír kávé, népszerűek a helyi pubokban.",
+              "A déli órákat használja fotózásra a legjobb fényviszonyok miatt.",
+              "A múzeumok télen kiváló helyszínek a felmelegedésre."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:00 în luna decembrie.",
+              "Unele zone exterioare ale castelului pot fi alunecoase în caz de îngheț.",
+              "Băuturile calde precum Irish Coffee sunt foarte apreciate în pub-uri.",
+              "Profitate de orele prânzului pentru fotografii cu lumină bună.",
+              "Muzeele sunt refugii termice excelente pe timpul iernii."
+            ],
+            "en": [
+              "The sun sets as early as 4 PM during December.",
+              "Some outdoor sections of the castle may be slippery in frosty weather.",
+              "Hot drinks like Irish Coffee are popular staples in local pubs.",
+              "Make the most of the midday light for your photography.",
+              "Local museums serve as excellent warming stations in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -649,6 +857,196 @@
           "Some streets can be narrow, so cycle with care.",
           "Bring water and snacks for the longer ride to the cottage."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Carrickfergus gute Ausrüstung. Der Küstenradweg bietet tolle Ausblicke, kann aber rutschig sein. Planen Sie längere Stopps im Schloss und im Andrew Jackson Cottage ein, um sich aufzuwärmen. Ein Mittagessen am Hafen gibt Ihnen die nötige Energie für den Rückweg gegen den Wind.",
+            "hu": "Az esőben való kerékpározás jó felszerelést igényel Carrickfergusban. A tengerparti út látványos, de csúszós lehet. Tervezzen hosszabb megállókat a várnál és az Andrew Jackson kunyhónál, hogy megszáradjon. Egy kikötői ebéd erőt ad a széllel szembeni visszatekeréshez.",
+            "ro": "Ciclismul pe ploaie necesită echipament adecvat în Carrickfergus. Pistele de pe faleză oferă vederi frumoase, dar pot fi alunecoase. Planificați opriri lungi la castel și la căsuța lui Andrew Jackson pentru a vă usca. Un prânz în port vă va oferi energia necesară pentru drumul de întoarcere.",
+            "en": "Cycling in the rain requires proper gear in Carrickfergus. The coastal path offers great views but can be slippery. Plan longer stops at the castle and Andrew Jackson Cottage to dry off. A harbor lunch will provide the necessary energy for the ride back against the coastal wind."
+          },
+          "stops": [
+            {
+              "name": "Marine Highway Cycle Path",
+              "tip_5lang": {
+                "de": "Vorsicht bei Pfützen, sie könnten tiefer sein als gedacht.",
+                "hu": "Vigyázat a tócsákkal, mélyebbek lehetnek a vártnál.",
+                "ro": "Atenție la bălți, pot fi mai adânci decât par.",
+                "en": "Beware of puddles; they might be deeper than they look."
+              }
+            },
+            {
+              "name": "Carrickfergus Castle",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradabstellplatz direkt am Schlosseingang.",
+                "hu": "Biztonságos kerékpártároló közvetlenül a várbejáratnál.",
+                "ro": "Parcare sigură pentru biciclete chiar la intrarea în castel.",
+                "en": "Secure bike parking available right at the castle entrance."
+              }
+            },
+            {
+              "name": "St. Nicholas' Church & Town Centre",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Bremsen nach der Regenfahrt zu prüfen.",
+                "hu": "Rövid megálló a fékek ellenőrzésére az esős menet után.",
+                "ro": "O scurtă oprire pentru a verifica frânele după ploaie.",
+                "en": "Short stop to check your brakes after the rainy ride."
+              }
+            },
+            {
+              "name": "Lunch break at the Harbour",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Platz, wo Sie Ihre Regenjacke aufhängen können.",
+                "hu": "Kérjen olyan helyet, ahol felakaszthatja vizes kabátját.",
+                "ro": "Cereți un loc unde să vă puteți agăța pelerina udă.",
+                "en": "Ask for a spot where you can hang up your wet jacket."
+              }
+            },
+            {
+              "name": "Andrew Jackson Cottage",
+              "tip_5lang": {
+                "de": "Das Reetdach bietet auch bei starkem Regen guten Schutz.",
+                "hu": "A nádtető erős esőben is jó védelmet nyújt.",
+                "ro": "Acoperișul de stuf oferă protecție bună chiar și pe ploaie.",
+                "en": "The thatched roof provides good shelter even in heavy rain."
+              }
+            },
+            {
+              "name": "Return to Centre",
+              "tip_5lang": {
+                "de": "Achten Sie auf Seitenwind auf dem Rückweg zum Zentrum.",
+                "hu": "Figyeljen az oldalszélre a központ felé vezető úton.",
+                "ro": "Atenție la vântul lateral pe drumul de întoarcere.",
+                "en": "Watch out for crosswinds on the return trip to the centre."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Tragen Sie neongelbe Regenkleidung für bessere Sichtbarkeit.",
+              "Die Bremswege verlängern sich auf nassen Straßen erheblich.",
+              "Vermeiden Sie das Überfahren von nassen Markierungen und Gullydeckeln.",
+              "Ein wasserdichter Rucksack schützt Ihre Wertsachen zuverlässig."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időjárási körülmények között.",
+              "Viseljen neon esőruházatot a jobb láthatóság érdekében.",
+              "A féktávolság jelentősen megnő a nedves utakon.",
+              "Kerülje a nedves útburkolati jeleken és csatornafedeleken való áthaladást.",
+              "Egy vízálló hátizsák megbízhatóan védi értékeit."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe această vreme.",
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate.",
+              "Distanța de frânare crește considerabil pe drumurile ude.",
+              "Evitați marcajele rutiere și capacele de canal umede.",
+              "Un rucsac impermeabil vă va proteja eficient obiectele de valoare."
+            ],
+            "en": [
+              "Mudguards are indispensable in this type of weather.",
+              "Wear high-visibility rain gear to ensure you are seen by drivers.",
+              "Braking distances increase significantly on wet roads.",
+              "Avoid riding over wet road markings or metal manhole covers.",
+              "A waterproof backpack or dry bag is essential for your valuables."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterausflug mit dem Rad entlang der Küste von Carrickfergus ist erfrischend. Die Marine Highway bietet klare Sichten auf den Belfast Lough. Besuchen Sie das Schloss für eine kulturelle Pause, bevor Sie zum geschichtsträchtigen Andrew Jackson Cottage radeln. Ein heißes Getränk am Hafen ist der ideale Abschluss für diesen frostigen Tag.",
+            "hu": "A téli kerékpározás a part mentén felfrissítő élmény. A tengerparti útról tiszta kilátás nyílik a Belfast Lough-ra. Látogassa meg a várat egy kulturális szünetre, majd tekerjen el a történelmi Andrew Jackson kunyhóhoz. Egy forró ital a kikötőben tökéletes zárása a fagyos napnak.",
+            "ro": "O excursie de iarnă cu bicicleta pe coastă este o experiență revigorantă. Faleza oferă vederi clare asupra golfului Belfast. Vizitați castelul pentru o pauză culturală înainte de a pedala spre căsuța istorică a lui Andrew Jackson. O băutură caldă în port este finalul ideal.",
+            "en": "A winter bike excursion along the Carrickfergus coast is refreshing. The Marine Highway offers clear views of Belfast Lough. Visit the castle for a cultural break before cycling to the historic Andrew Jackson Cottage. A hot drink at the harbor is the ideal way to end this frosty day."
+          },
+          "stops": [
+            {
+              "name": "Marine Highway Cycle Path",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen bei Frost am frühen Morgen.",
+                "hu": "Vigyázat a jeges foltokkal a kora reggeli fagy idején.",
+                "ro": "Atenție la porțiunile înghețate dimineața devreme.",
+                "en": "Watch out for icy patches during early morning frosts."
+              }
+            },
+            {
+              "name": "Carrickfergus Castle",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die eingefrorenen Finger aufzuwärmen.",
+                "hu": "Rövid megálló az elfagyott ujjak felmelegítésére.",
+                "ro": "O scurtă oprire pentru a vă încălzi degetele amorțite.",
+                "en": "A short stop to warm up your numb fingers inside."
+              }
+            },
+            {
+              "name": "St. Nicholas' Church & Town Centre",
+              "tip_5lang": {
+                "de": "Das Stadtzentrum ist im Winter oft festlich beleuchtet.",
+                "hu": "A városközpont télen gyakran ünnepi díszkivilágítást kap.",
+                "ro": "Centrul orașului este adesea iluminat festiv iarna.",
+                "en": "The town centre is often festively lit during winter."
+              }
+            },
+            {
+              "name": "Lunch break at the Harbour",
+              "tip_5lang": {
+                "de": "Warme Suppen sind jetzt genau das Richtige für Radfahrer.",
+                "hu": "A meleg levesek most a legjobbak a bringásoknak.",
+                "ro": "Supele calde sunt perfecte pentru bicicliști acum.",
+                "en": "Hot soups are exactly what cyclists need right now."
+              }
+            },
+            {
+              "name": "Andrew Jackson Cottage",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten vor der Hinfahrt.",
+                "hu": "Indulás előtt ellenőrizze a téli nyitvatartást.",
+                "ro": "Verificați programul de iarnă înainte de a pleca spre căsuță.",
+                "en": "Check winter opening hours before cycling out there."
+              }
+            },
+            {
+              "name": "Return to Centre",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert.",
+                "hu": "Győződjön meg róla, hogy a kerékpárvilágítás működik.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează corect.",
+                "en": "Ensure your bike lights are working for the early dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip).",
+              "Handschuhe mit Windstopper-Funktion sind sehr zu empfehlen.",
+              "Der Reifendruck sollte im Winter etwas niedriger sein für mehr Grip.",
+              "Planen Sie die Rückkehr vor Einbruch der Dunkelheit (ca. 16:30 Uhr).",
+              "Ein Thermosbecher mit Tee hält Sie unterwegs warm."
+            ],
+            "hu": [
+              "Öltözzön több rétegben (hagymaelv).",
+              "Szélálló kesztyű használata erősen ajánlott.",
+              "Télen a guminyomás legyen kicsit alacsonyabb a jobb tapadásért.",
+              "Tervezze a visszatérést sötétedés előtt (kb. 16:30).",
+              "Egy termoszbögre tea melegen tartja az út során."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi (principiul foi de ceapă).",
+              "Mănușile cu protecție la vânt sunt extrem de recomandate.",
+              "Presiunea în pneuri ar trebui să fie mai mică pentru aderență.",
+              "Planificați întoarcerea înainte de lăsarea întunericului (ora 16:30).",
+              "Un termos cu ceai vă va ține de cald pe drum."
+            ],
+            "en": [
+              "Dress in multiple layers to maintain body heat (onion principle).",
+              "Windstopper gloves are highly recommended for the coastal ride.",
+              "Lower your tyre pressure slightly for better grip on cold roads.",
+              "Plan to be back by dusk, which starts around 4:30 PM.",
+              "A thermal flask with tea will keep you warm on the go."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -989,6 +1387,214 @@
           "The roads to Knockagh Monument can be narrow, drive slowly and with care.",
           "A GPS or map app is essential for the drives outside the town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Carrickfergus bequem von Ihrem Auto aus. Das Schloss bietet einen nahen Parkplatz und trockene Geschichte. Die Fahrt entlang der Marine Highway ist auch bei Regen stimmungsvoll. Das Andrew Jackson Cottage und das Knockagh Monument sind mit dem Auto leicht erreichbar, sodass Sie nur kurz dem Regen ausgesetzt sind.",
+            "hu": "Élvezze Carrickfergust kényelmesen az autójából. A várnál közeli parkolót és száraz történelmi kalandot talál. A tengerparti autózás esőben is hangulatos. Az Andrew Jackson kunyhó és a Knockagh emlékmű autóval könnyen elérhető, így csak rövid ideig kell az esőben lennie.",
+            "ro": "Bucurați-vă de Carrickfergus din confortul mașinii. Castelul are parcare în apropiere și oferă istorie la adăpost. Condusul pe faleză este atmosferic chiar și pe ploaie. Căsuța Andrew Jackson și Monumentul Knockagh sunt ușor accesibile, limitând expunerea la ploaie.",
+            "en": "Enjoy Carrickfergus from the comfort of your car. The castle offers nearby parking and a dry historical experience. Driving along the Marine Highway is atmospheric even in the rain. Andrew Jackson Cottage and Knockagh Monument are easily reached by car, minimizing your time in the wet."
+          },
+          "stops": [
+            {
+              "name": "Town Centre Parking & Carrickfergus Castle",
+              "tip_5lang": {
+                "de": "Großer Parkplatz, ideal um schnell ins Schloss zu kommen.",
+                "hu": "Nagy parkoló, ideális a gyors bejutáshoz a várba.",
+                "ro": "Parcare mare, ideală pentru a ajunge rapid în castel.",
+                "en": "Large car park, ideal for getting into the castle quickly."
+              }
+            },
+            {
+              "name": "St. Nicholas' Church",
+              "tip_5lang": {
+                "de": "Kurzer Weg vom Parkplatz zum Eingang der Kirche.",
+                "hu": "Rövid séta a parkolótól a templom bejáratáig.",
+                "ro": "Distanță scurtă de la parcare până la intrarea în biserică.",
+                "en": "Short walk from the parking area to the church entrance."
+              }
+            },
+            {
+              "name": "Marine Highway & Lunch",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht auf das Meer aus dem trockenen Auto.",
+                "hu": "Élvezze a tengeri kilátást a száraz autóból.",
+                "ro": "Bucurați-vă de vederea la mare din mașina uscată.",
+                "en": "Enjoy the sea views from the dry interior of your car."
+              }
+            },
+            {
+              "name": "Andrew Jackson Cottage",
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor, um dem Regen zu entgehen.",
+                "hu": "Parkoljon közvetlenül előtte, hogy elkerülje az esőt.",
+                "ro": "Parcați chiar în față pentru a evita ploaia.",
+                "en": "Park directly in front to minimize time in the rain."
+              }
+            },
+            {
+              "name": "Knockagh Monument",
+              "tip_5lang": {
+                "de": "Die Wolken könnten die Sicht heute einschränken.",
+                "hu": "A felhők ma korlátozhatják a kilátást az emlékműtől.",
+                "ro": "Norii ar putea limita vizibilitatea astăzi.",
+                "en": "Clouds might restrict the panoramic views today."
+              }
+            },
+            {
+              "name": "Walk at Greenisland",
+              "tip_5lang": {
+                "de": "Verschieben Sie den Spaziergang, wenn es zu stark regnet.",
+                "hu": "Halassza el a sétát, ha túl erősen esik az eső.",
+                "ro": "Amânați plimbarea dacă plouă prea tare.",
+                "en": "Postpone the walk if the rain is too heavy."
+              }
+            },
+            {
+              "name": "Dinner in Town Centre",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Parkmöglichkeiten in der Nähe.",
+                "hu": "Válasszon éttermet közeli parkolási lehetőséggel.",
+                "ro": "Alegeți un restaurant cu parcare în apropiere.",
+                "en": "Choose a restaurant with nearby parking options."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Scheibenwischer-Intervallschaltung an der Küste.",
+              "Achten Sie auf große Pfützen auf der Marine Highway (Aquaplaning).",
+              "Im Schloss gibt es Schließfächer für nasse Regenschirme.",
+              "Die Fahrt zum Knockagh Monument kann bei Nebel anspruchsvoll sein.",
+              "Parkhäuser bieten im Stadtzentrum Schutz vor Regen beim Aussteigen."
+            ],
+            "hu": [
+              "Használja az ablaktörlő szakaszos üzemmódját a parton.",
+              "Vigyázzon a nagy tócsákra a tengerparti úton (vízre felúszás).",
+              "A várban vannak tárolók a vizes esernyőknek.",
+              "A Knockagh emlékműhöz vezető út ködben kihívást jelenthet.",
+              "A városközpont parkolói védelmet nyújtanak kiszálláskor."
+            ],
+            "ro": [
+              "Folosiți ștergătoarele pe modul intermitent pe coastă.",
+              "Atenție la bălțile mari de pe faleză (acvaplanare).",
+              "La castel există spații pentru lăsat umbrelele ude.",
+              "Drumul spre Monumentul Knockagh poate fi dificil pe ceață.",
+              "Parcările acoperite oferă protecție la coborârea din mașină."
+            ],
+            "en": [
+              "Keep your wipers on a steady setting along the coast.",
+              "Watch out for large puddles on the Marine Highway (aquaplaning risk).",
+              "The castle has designated areas for wet umbrellas.",
+              "The drive to Knockagh Monument can be tricky in foggy conditions.",
+              "Multi-story car parks provide shelter when exiting your vehicle."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt nach Carrickfergus bietet Komfort und tolle Panoramen. Besuchen Sie das Schloss und die St. Nicholas Kirche, bevor Sie zum Knockagh Monument hinaufschwenken, um die winterliche Aussicht auf den Lough zu genießen. Das Andrew Jackson Cottage wirkt im Winter besonders malerisch. Beenden Sie den Tag bei einem gemütlichen Abendessen im Zentrum.",
+            "hu": "A téli autós kirándulás Carrickfergusba kényelmet és nagyszerű panorámát kínál. Látogassa meg a várat és a Szent Miklós templomot, majd hajtson fel a Knockagh emlékműhöz a téli kilátásért. Az Andrew Jackson kunyhó télen különösen festői. Zárja a napot egy kellemes vacsorával a központban.",
+            "ro": "O călătorie de iarnă cu mașina oferă confort și panorame deosebite. Vizitați castelul și biserica Sf. Nicolae, apoi urcați la Monumentul Knockagh pentru vederea de iarnă asupra golfului. Căsuța lui Andrew Jackson este pitorească iarna. Încheiați ziua cu o cină plăcută în centru.",
+            "en": "A winter car trip to Carrickfergus provides comfort and great panoramas. Visit the castle and St. Nicholas' Church before driving up to Knockagh Monument for winter views of the Lough. Andrew Jackson Cottage looks especially picturesque in winter. End the day with a pleasant dinner in the centre."
+          },
+          "stops": [
+            {
+              "name": "Town Centre Parking & Carrickfergus Castle",
+              "tip_5lang": {
+                "de": "Das Auto bleibt im Stadtzentrum ein guter Rückzugsort.",
+                "hu": "Az autó jó menedék marad a városnézés közben.",
+                "ro": "Mașina rămâne un refugiu bun în timpul vizitei.",
+                "en": "The car remains a good warming station between sights."
+              }
+            },
+            {
+              "name": "St. Nicholas' Church",
+              "tip_5lang": {
+                "de": "Innen ist es deutlich wärmer als draußen am Meer.",
+                "hu": "Bent lényegesen melegebb van, mint kint a parton.",
+                "ro": "În interior este mult mai cald decât afară pe țărm.",
+                "en": "It is significantly warmer inside than out by the sea."
+              }
+            },
+            {
+              "name": "Marine Highway & Lunch",
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf das winterliche Meer.",
+                "hu": "Parkoljon le a téli tengerre néző kilátással.",
+                "ro": "Parcați cu vedere spre marea înghețată.",
+                "en": "Park with a direct view of the winter sea."
+              }
+            },
+            {
+              "name": "Andrew Jackson Cottage",
+              "tip_5lang": {
+                "de": "Ein sehr fotogener Stopp in der tiefstehenden Wintersonne.",
+                "hu": "Nagyon fotogén megálló az alacsonyan járó téli napfényben.",
+                "ro": "O oprire foarte fotogenică în lumina joasă a iernii.",
+                "en": "A very photogenic stop in the low winter sun."
+              }
+            },
+            {
+              "name": "Knockagh Monument",
+              "tip_5lang": {
+                "de": "Bester Aussichtspunkt für winterliche Sonnenuntergänge.",
+                "hu": "A legjobb kilátópont a téli naplementékhez.",
+                "ro": "Cel mai bun punct de observație pentru apusul de iarnă.",
+                "en": "Best vantage point for dramatic winter sunsets."
+              }
+            },
+            {
+              "name": "Walk at Greenisland",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an für den windigen Spaziergang.",
+                "hu": "Öltözzön melegen a szeles parti sétához.",
+                "ro": "Îmbrăcați-vă bine pentru plimbarea vântoasă.",
+                "en": "Dress warmly for the windy coastal walk."
+              }
+            },
+            {
+              "name": "Dinner in Town Centre",
+              "tip_5lang": {
+                "de": "Ein warmer Abschluss nach einem Tag an der Küste.",
+                "hu": "Meleg lezárás a tengerparti nap után.",
+                "ro": "Un final călduros după o zi pe coastă.",
+                "en": "A warm conclusion after a day on the coast."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in Ihrer Scheibenwaschanlage.",
+              "Die Straßen zum Knockagh Monument können bei Eis glatt sein.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+              "Die Parkplätze sind im Winter meist weniger überfüllt.",
+              "Nutzen Sie die Sitzheizung für die Fahrt zwischen den Stopps."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A Knockagh emlékműhöz vezető utak jegesek lehetnek.",
+              "Ne hagyjon értéktárgyat látható helyen az autóban.",
+              "A parkolók télen általában kevésbé zsúfoltak.",
+              "Használja az ülésfűtést a megállók közötti úton."
+            ],
+            "ro": [
+              "Verificați lichidul de parbriz rezistent la îngheț.",
+              "Drumurile spre Monumentul Knockagh pot fi poleite.",
+              "Nu lăsați obiecte de valoare la vedere în mașină.",
+              "Parcările sunt de obicei mai puțin aglomerate iarna.",
+              "Folosiți încălzirea în scaune între opriri."
+            ],
+            "en": [
+              "Check that your screenwash has sufficient antifreeze.",
+              "The roads up to Knockagh Monument can be icy in winter.",
+              "Do not leave any valuables visible in your car.",
+              "Parking spaces are generally easier to find in winter.",
+              "Make use of seat heaters for the drives between stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1305,6 +1911,196 @@
           "Download the timetable app for real-time information.",
           "Allow extra time for connections, especially with buses."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Zug und Bus erreichen Sie Carrickfergus auch bei Regen trocken. Das Schloss ist nur ein kurzer Spaziergang vom Bahnhof entfernt. Nutzen Sie die Busverbindungen zum Andrew Jackson Cottage, um den Regen zu vermeiden. Der späte Nachmittag im Museum bietet einen informativen Ausklang im Trockenen, bevor es mit dem Zug zurückgeht.",
+            "hu": "Vonattal és busszal esőben is szárazon érheti el Carrickfergust. A vár csak egy rövid sétára van a vasútállomástól. Használja a buszjáratokat az Andrew Jackson kunyhóhoz az eső elkerülése érdekében. A délutáni múzeumlátogatás száraz és tartalmas program a hazautazás előtt.",
+            "ro": "Cu trenul și autobuzul ajungeți uscați în Carrickfergus chiar și pe ploaie. Castelul este la o scurtă plimbare de gară. Folosiți autobuzul spre căsuța lui Andrew Jackson pentru a evita ploaia. Vizita la muzeu oferă un final informativ la adăpost înainte de plecare.",
+            "en": "Reach Carrickfergus dry by train and bus even in rainy weather. The castle is just a short walk from the station. Use local bus services to reach Andrew Jackson Cottage and avoid the rain. An afternoon at the museum provides an informative and dry finale before your train departure."
+          },
+          "stops": [
+            {
+              "name": "Arrival in Carrickfergus & Castle",
+              "tip_5lang": {
+                "de": "Vom Bahnhof zum Schloss sind es nur 5 Minuten zu Fuß.",
+                "hu": "A vasútállomástól a vár csak 5 perc gyalog.",
+                "ro": "De la gară la castel sunt doar 5 minute de mers.",
+                "en": "It is only a 5-minute walk from the station to the castle."
+              }
+            },
+            {
+              "name": "Town Centre Walk: St. Nicholas' & Town Walls",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen im Zentrum bieten oft Unterstände.",
+                "hu": "A központi buszmegállók gyakran fedettek.",
+                "ro": "Stațiile de autobuz centrale sunt adesea acoperite.",
+                "en": "Bus stops in the centre usually offer good shelter."
+              }
+            },
+            {
+              "name": "Lunch near the Harbour",
+              "tip_5lang": {
+                "de": "Viele Cafés liegen direkt an den Busrouten.",
+                "hu": "Sok kávézó közvetlenül a buszjáratok mentén található.",
+                "ro": "Multe cafenele sunt chiar pe rutele autobuzelor.",
+                "en": "Many cafes are located right along the bus routes."
+              }
+            },
+            {
+              "name": "Bus to Andrew Jackson Cottage",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor dem Gelände.",
+                "hu": "A busz szinte közvetlenül a telek előtt áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața locației.",
+                "en": "The bus stops almost directly in front of the grounds."
+              }
+            },
+            {
+              "name": "Bus to Centre & Carrickfergus Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeit im Bus, um sich aufzuwärmen.",
+                "hu": "Használja ki a buszos utazást a felmelegedésre.",
+                "ro": "Folosiți timpul în autobuz pentru a vă încălzi.",
+                "en": "Use the transit time on the bus to warm up."
+              }
+            },
+            {
+              "name": "Departure from Carrickfergus Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der Bahnhofshalle auf Ihren Zug.",
+                "hu": "Várja a vonatot a vasútállomás várótermében.",
+                "ro": "Așteptați trenul în sala de așteptare a gării.",
+                "en": "Wait for your train inside the station waiting room."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Translink-App auf Echtzeit-Verspätungen.",
+              "Ein Tagesticket (iLink) ist oft günstiger als Einzelfahrten.",
+              "Die Züge zwischen Belfast und Carrickfergus fahren alle 30 Min.",
+              "Bahnhöfe bieten im Vergleich zu Bushaltestellen besseren Regenschutz.",
+              "Halten Sie Ihre Fahrkarte griffbereit, um im Regen nicht zu suchen."
+            ],
+            "hu": [
+              "Ellenőrizze a Translink alkalmazást a valós idejű késésekért.",
+              "A napijegy (iLink) gyakran olcsóbb, mint a külön jegyek.",
+              "Belfast és Carrickfergus között 30 percenként járnak vonatok.",
+              "A vasútállomások jobb esővédelmet nyújtanak, mint a buszmegállók.",
+              "Tartsa a jegyét kéznél, hogy ne kelljen az esőben keresgélnie."
+            ],
+            "ro": [
+              "Verificați aplicația Translink pentru întârzieri în timp real.",
+              "Un bilet de o zi (iLink) este adesea mai ieftin.",
+              "Trenurile între Belfast și Carrickfergus circulă la 30 de minute.",
+              "Gările oferă o protecție mai bună împotriva ploii decât stațiile de autobuz.",
+              "Țineți biletul la îndemână pentru a nu-l căuta în ploaie."
+            ],
+            "en": [
+              "Check the Translink app for real-time service updates.",
+              "An iLink day pass is often cheaper than multiple single tickets.",
+              "Trains between Belfast and Carrickfergus run every 30 minutes.",
+              "Train stations offer superior rain protection compared to bus stops.",
+              "Keep your ticket handy to avoid searching for it in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Ausflug mit öffentlichen Verkehrsmitteln nach Carrickfergus ist gemütlich. Der beheizte Zug bietet eine entspannte Anreise mit Blick auf die Küste. Erkunden Sie das Schloss und das Stadtzentrum, bevor Sie den Bus zum Andrew Jackson Cottage nehmen. Die Museen am Nachmittag sind der perfekte Ort, um die Zeit bis zur Abfahrt im Warmen zu verbringen.",
+            "hu": "A téli kirándulás tömegközlekedéssel Carrickfergusba kényelmes választás. A fűtött vonat pihentető utazást kínál partmenti kilátással. Fedezze fel a várat és a központot, majd buszozzon el az Andrew Jackson kunyhóhoz. A délutáni múzeumlátogatás tökéletes, hogy melegben várja meg a hazautazást.",
+            "ro": "O excursie de iarnă cu transportul public este o alegere confortabilă. Trenul încălzit oferă o călătorie relaxantă cu vedere la coastă. Explorați castelul și centrul, apoi luați autobuzul spre căsuța Andrew Jackson. Muzeele sunt locul perfect pentru a sta la căldură înainte de plecare.",
+            "en": "A winter trip to Carrickfergus by public transport is a cozy choice. The heated train provides a relaxed journey with coastal views. Explore the castle and town centre before taking the bus to Andrew Jackson Cottage. The museums in the afternoon are the perfect place to stay warm until your departure."
+          },
+          "stops": [
+            {
+              "name": "Arrival in Carrickfergus & Castle",
+              "tip_5lang": {
+                "de": "Züge sind im Winter oft pünktlicher als Busse.",
+                "hu": "Télen a vonatok gyakran pontosabbak, mint a buszok.",
+                "ro": "Trenurile sunt adesea mai punctuale decât autobuzele iarna.",
+                "en": "Trains are often more reliable than buses in winter weather."
+              }
+            },
+            {
+              "name": "Town Centre Walk: St. Nicholas' & Town Walls",
+              "tip_5lang": {
+                "de": "Die Cafés im Zentrum sind ideale Zwischenstopps.",
+                "hu": "A központi kávézók ideális megállóhelyek a melegedésre.",
+                "ro": "Cafenelele centrale sunt puncte ideale de oprire.",
+                "en": "Central cafes are ideal stopping points to warm up."
+              }
+            },
+            {
+              "name": "Lunch near the Harbour",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Hafen aus einem warmen Bistro.",
+                "hu": "Élvezze a kikötői kilátást egy meleg bisztróból.",
+                "ro": "Bucurați-vă de vederea la port dintr-un bistro încălzit.",
+                "en": "Enjoy the harbor view from inside a warm bistro."
+              }
+            },
+            {
+              "name": "Bus to Andrew Jackson Cottage",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan der Buslinie 163.",
+                "hu": "Ellenőrizze a 163-as busz téli menetrendjét.",
+                "ro": "Verificați mersul autobuzelor 163 pentru programul de iarnă.",
+                "en": "Check the winter timetable for the 163 bus route."
+              }
+            },
+            {
+              "name": "Bus to Centre & Carrickfergus Museum",
+              "tip_5lang": {
+                "de": "Der Bus bringt Sie direkt zurück in die Wärme der Museen.",
+                "hu": "A busz közvetlenül visszaviszi a múzeumok melegébe.",
+                "ro": "Autobuzul vă aduce direct înapoi la căldura muzeelor.",
+                "en": "The bus takes you directly back to the warmth of the museums."
+              }
+            },
+            {
+              "name": "Departure from Carrickfergus Station",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Durchsagen am Bahnsteig.",
+                "hu": "Figyelje a hangosbemondót a peronon.",
+                "ro": "Fiți atenți la anunțurile de pe peron.",
+                "en": "Listen for platform announcements regarding your train."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Abenddämmerung beginnt im Winter sehr früh.",
+              "Tragen Sie warme Socken, da Bahnsteige sehr kalt sein können.",
+              "Nutzen Sie die beheizten Warteräume, wo immer verfügbar.",
+              "Die Züge haben im Winter oft eine gute Heizung.",
+              "Planen Sie Pufferzeiten ein, falls es witterungsbedingte Verzögerungen gibt."
+            ],
+            "hu": [
+              "A szürkület télen nagyon korán kezdődik.",
+              "Viseljen meleg zoknit, mert a peronok nagyon hidegek lehetnek.",
+              "Használja a fűtött várótermeket, ahol csak lehetséges.",
+              "A vonatokon télen általában jó a fűtés.",
+              "Tervezzen be extra időt az időjárás okozta esetleges késésekre."
+            ],
+            "ro": [
+              "Amurgul începe foarte devreme pe timpul iernii.",
+              "Purtați șosete groase, peroanele pot fi foarte reci.",
+              "Folosiți sălile de așteptare încălzite ori de câte ori sunt disponibile.",
+              "Trenurile au de obicei încălzire bună iarna.",
+              "Planificați timp suplimentar pentru eventuale întârzieri cauzate de vreme."
+            ],
+            "en": [
+              "Dusk sets in very early during the winter months.",
+              "Wear warm socks as station platforms can get extremely cold.",
+              "Make use of heated waiting rooms whenever they are available.",
+              "Trains are generally well-heated during the winter season.",
+              "Allow for extra travel time in case of weather-related delays."
+            ]
+          }
+        }
       }
     }
   }

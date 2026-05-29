@@ -339,6 +339,206 @@
           "Most attractions in the city center are easily reachable on foot.",
           "Take time for a coffee break in one of the squares to observe the local life."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Grevena im Regen zeigt seine gemütliche Seite. Wir starten am zentralen Platz unter den Arkaden und flüchten in den Uhrturm, bevor wir die Wärme der Agios-Georgios-Kirche suchen. Den Mittag verbringen wir im trockenen Naturkundemuseum. Der Tag endet in einer der Pilz-Bistros am Emilianos-Platz, wo der Regen gegen die Scheiben trommelt, während wir lokale Spezialitäten genießen.",
+            "hu": "Grevena esőben is bájos, különösen a főtér fedett árkádjai alatt. A reggelt a Szent György-templom csendjében töltjük, majd a városi könyvtár és a Természettudományi Múzeum belső tereiben keresünk menedéket a zápor elől. Délután a Gousios-malom ipari emlékei között sétálunk, az estét pedig egy gombás vacsorával zárjuk az Emilianos téren, figyelve a várost áztató esőt.",
+            "ro": "Grevena în ploaie are un farmec aparte sub arcadele pieței centrale. Începem dimineața protejați de umbrele, vizitând Biserica Sf. Gheorghe, apoi ne retragem în liniștea bibliotecii și a Muzeului de Istorie Naturală. După-amiaza explorăm Moara Gousios, iar seara ne găsește într-un local primitor din Piața Emilianos, savurând preparate cu ciuperci specifice regiunii sub sunetul ploii.",
+            "en": "Grevena in the rain offers a cozy atmosphere under the central square's arcades. We start protected by umbrellas at the Clock Tower, then seek warmth inside Agios Georgios Church. Midday is spent exploring the Natural History Museum's indoor exhibits. The day concludes at Emilianos Square, where the sound of rain accompanies a warm meal featuring the region's famous wild mushrooms."
+          },
+          "stops": [
+            {
+              "name": "Eleftheria Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Cafés als Regenschutz.",
+                "hu": "Használja a kávézók árkádjait eső elleni védelemként.",
+                "ro": "Folosiți arcadele cafenelelor ca adăpost împotriva ploii.",
+                "en": "Use the cafe arcades as shelter from the rain."
+              }
+            },
+            {
+              "name": "Clock Tower of Grevena",
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp unter dem Regenschirm.",
+                "hu": "Gyors fotómegálló az esernyő alatt.",
+                "ro": "O oprire rapidă pentru poze sub umbrelă.",
+                "en": "A quick photo stop under your umbrella."
+              }
+            },
+            {
+              "name": "Church of Agios Georgios",
+              "tip_5lang": {
+                "de": "Ein perfekter, ruhiger Rückzugsort vor dem Regen.",
+                "hu": "Tökéletes, nyugodt búvóhely az eső elől.",
+                "ro": "Un refugiu liniștit și perfect împotriva ploii.",
+                "en": "A perfect, quiet retreat from the rain."
+              }
+            },
+            {
+              "name": "Municipal Library",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen und Lesen im Trockenen.",
+                "hu": "Ideális melegedésre és olvasásra a szárazon.",
+                "ro": "Ideal pentru a vă încălzi și a citi la adăpost.",
+                "en": "Ideal for warming up and reading in the dry."
+              }
+            },
+            {
+              "name": "Natural History Museum",
+              "tip_5lang": {
+                "de": "Viel Zeit im Inneren verbringen, es gibt viel zu sehen.",
+                "hu": "Töltsön sok időt bent, rengeteg a látnivaló.",
+                "ro": "Petreceți mult timp în interior, sunt multe de văzut.",
+                "en": "Spend plenty of time inside; there is much to see."
+              }
+            },
+            {
+              "name": "Gousios Mill",
+              "tip_5lang": {
+                "de": "Vorsicht, die Außenwege können rutschig sein.",
+                "hu": "Vigyázat, a külső utak csúszósak lehetnek.",
+                "ro": "Atenție, potecile exterioare pot fi alunecoase.",
+                "en": "Be careful, the outdoor paths can be slippery."
+              }
+            },
+            {
+              "name": "Emilianos Square",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit überdachter Terrasse.",
+                "hu": "Válasszon fedett teraszos éttermet vacsorához.",
+                "ro": "Alegeți un restaurant cu terasă acoperită.",
+                "en": "Choose a restaurant with a covered terrace."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Grevena ist die Stadt der Pilze; probieren Sie Pilzsuppe zum Aufwärmen.",
+              "Tragen Sie wasserfeste Wanderschuhe für die Kopfsteinpflastergassen.",
+              "Die Museen sind montags oft geschlossen, prüfen Sie die Zeiten.",
+              "Kaufen Sie einen handgefertigten Regenschirm in den lokalen Läden."
+            ],
+            "hu": [
+              "Grevena a gombák városa; kóstoljon gombalevest melegedésként.",
+              "Viseljen vízálló túracipőt a macskaköves utcákhoz.",
+              "A múzeumok hétfőnként gyakran zárva tartanak, ellenőrizze az időpontokat.",
+              "Vásároljon kézzel készített ernyőt a helyi boltokban."
+            ],
+            "ro": [
+              "Grevena este orașul ciupercilor; încercați supa de ciuperci pentru a vă încălzi.",
+              "Purtați încălțăminte de drumeție impermeabilă pentru străzile cu piatră cubică.",
+              "Muzeele sunt adesea închise lunea, verificați programul.",
+              "Cumpărați o umbrelă lucrată manual din magazinele locale."
+            ],
+            "en": [
+              "Grevena is the city of mushrooms; try mushroom soup to warm up.",
+              "Wear waterproof hiking shoes for the cobblestone streets.",
+              "Museums are often closed on Mondays; check the opening hours.",
+              "Buy a handcrafted umbrella from the local shops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen in Grevena beginnt oft frostig und klar. Nach einem heißen Kaffee am Eleftheria-Platz besuchen wir die historischen Kirchen und Museen, die im Winter angenehm geheizt sind. Das weiche Winterlicht am Uhrturm bietet tolle Fotomotive. Wenn es früh dunkel wird, ziehen wir uns in die gemütlichen Tavernen am Emilianos-Platz zurück, wo der Duft von gegrillten Pilzen und Kaminfeuer in der Luft liegt.",
+            "hu": "A téli reggel Grevenában gyakran fagyos és tiszta. A főtéri forró kávé után meglátogatjuk a történelmi templomokat és múzeumokat, amelyek télen kellemesen fűtöttek. A téli napfény a száraz malom körül különleges hangulatot áraszt. Mivel korán sötétedik, hamar behúzódunk az Emilianos tér hangulatos tavernáiba, ahol a sült gomba és a kandalló tüze fogad minket.",
+            "ro": "O dimineață de iarnă în Grevena începe adesea geroasă și senină. După o cafea fierbinte în Piața Eleftheria, vizităm bisericile și muzeele istorice, care sunt bine încălzite iarna. Lumina blândă de iarnă de lângă Turnul cu Ceas oferă cadre foto superbe. Deoarece se întunecă devreme, ne retragem în tavernele primitoare din Piața Emilianos, unde plutește aroma ciupercilor la grătar.",
+            "en": "Winter mornings in Grevena are often frosty and crisp. After a hot coffee at Eleftheria Square, we explore historic churches and museums that offer a warm indoor respite. The low winter sun casts long shadows over the Clock Tower, perfect for photography. As darkness falls early, we settle into the cozy taverns of Emilianos Square, enjoying the smell of wood smoke and roasted mushrooms."
+          },
+          "stops": [
+            {
+              "name": "Eleftheria Square",
+              "tip_5lang": {
+                "de": "Genießen Sie einen griechischen Kaffee zum Aufwärmen.",
+                "hu": "Élvezzen egy görög kávét a felmelegedéshez.",
+                "ro": "Savurați o cafea grecească pentru a vă încălzi.",
+                "en": "Enjoy a Greek coffee to warm up."
+              }
+            },
+            {
+              "name": "Clock Tower of Grevena",
+              "tip_5lang": {
+                "de": "Scharfes Licht für Fotos, aber Vorsicht bei Glätte.",
+                "hu": "Éles fények fotózáshoz, de vigyázzon a jéggel.",
+                "ro": "Lumină clară pentru poze, dar atenție la gheață.",
+                "en": "Sharp light for photos, but watch out for ice."
+              }
+            },
+            {
+              "name": "Church of Agios Georgios",
+              "tip_5lang": {
+                "de": "Zünden Sie eine Kerze an und genießen Sie die Stille.",
+                "hu": "Gyújtson egy gyertyát és élvezze a csendet.",
+                "ro": "Aprindeți o lumânare și bucurați-vă de liniște.",
+                "en": "Light a candle and enjoy the silence."
+              }
+            },
+            {
+              "name": "Municipal Library",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für eine kurze Pause vom Wind.",
+                "hu": "Meleg hely egy rövid szünetre a szél elől.",
+                "ro": "Un loc cald pentru o scurtă pauză de vânt.",
+                "en": "A warm spot for a short break from the wind."
+              }
+            },
+            {
+              "name": "Natural History Museum",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Mammut-Exponate im warmen Inneren.",
+                "hu": "Nézze meg a mamutleleteket a meleg belső térben.",
+                "ro": "Vedeți exponatele cu mamuți în interiorul călduros.",
+                "en": "See the mammoth exhibits in the warm interior."
+              }
+            },
+            {
+              "name": "Gousios Mill",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist für den Außenbereich nötig.",
+                "hu": "Meleg ruházat szükséges a külső részekhez.",
+                "ro": "Haine groase sunt necesare pentru zona exterioară.",
+                "en": "Warm clothing is necessary for the outdoor area."
+              }
+            },
+            {
+              "name": "Emilianos Square",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz nah am Kamin in der Taverne.",
+                "hu": "Keressen helyet a kandalló közelében a tavernában.",
+                "ro": "Căutați un loc lângă șemineu în tavernă.",
+                "en": "Look for a seat near the fireplace in the tavern."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In Grevena kann es schneien; packen Sie Winterstiefel ein.",
+              "Die Sonne geht im Winter gegen 17:00 Uhr unter.",
+              "Probieren Sie lokale Fleischgerichte, sie sind sehr herzhaft.",
+              "Viele Geschäfte machen eine Mittagspause (Siesta)."
+            ],
+            "hu": [
+              "Grevenában eshet a hó; csomagoljon téli bakancsot.",
+              "A nap télen 17:00 körül nyugszik.",
+              "Próbálja ki a helyi húsételeket, nagyon laktatóak.",
+              "Sok bolt tart délutáni szünetet (szieszta)."
+            ],
+            "ro": [
+              "În Grevena poate ninge; puneți în bagaj ghete de iarnă.",
+              "Soarele apune în jur de ora 17:00 iarna.",
+              "Încercați preparatele locale din carne, sunt foarte consistente.",
+              "Multe magazine au pauză de prânz (siestă)."
+            ],
+            "en": [
+              "It can snow in Grevena; pack winter boots.",
+              "The sun sets around 17:00 in winter.",
+              "Try local meat dishes; they are very hearty.",
+              "Many shops take an afternoon break (siesta)."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -672,6 +872,206 @@
           "Some streets can be cobbled, so ride with care.",
           "Bring plenty of water, especially for the ride to Portitsa Bridge."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Grevena bei Regen erfordert Vorsicht, ist aber erfrischend. Wir starten am Uhrturm und radeln zur alten Mühle. Das Museum bietet eine lange Pause im Trockenen. Der Weg zur Portitsa-Brücke führt durch dichte Wälder, die bei Regen mystisch wirken. Der Tag endet mit einer verdienten warmen Mahlzeit, während wir die nasse Ausrüstung trocknen.",
+            "hu": "A kerékpározás Grevenában esőben óvatosságot igényel, de frissítő élmény. A reggelt a főtéren kezdjük, majd a Gousios-malomhoz tekerünk. A múzeum hosszú száraz pihenőt kínál. A Portitsa-híd felé vezető út misztikus a ködben és az esőben. A napot egy megérdemelt meleg étellel zárjuk, miközben felszerelésünket szárítjuk.",
+            "ro": "Mersul pe bicicletă în Grevena pe ploaie necesită prudență, dar este revigorant. Începem la Turnul cu Ceas și pedalăm spre moara veche. Muzeul oferă o pauză lungă la uscat. Drumul spre Podul Portitsa prin pădurile dese pare mistic pe ploaie. Ziua se încheie cu o masă caldă binemeritată, în timp ce ne uscăm echipamentul.",
+            "en": "Cycling in Grevena during rain requires caution but is quite refreshing. We start at the Clock Tower and head to the old mill. The museum provides a long, dry break midday. The ride towards Portitsa Bridge through dense forests feels mystical in the mist. The day ends with a well-deserved warm meal while we dry off our gear."
+          },
+          "stops": [
+            {
+              "name": "Eleftheria Square",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start im Regen.",
+                "hu": "Ellenőrizze a fékeit esőben indulás előtt.",
+                "ro": "Verificați frânele înainte de a pleca pe ploaie.",
+                "en": "Check your brakes before starting in the rain."
+              }
+            },
+            {
+              "name": "Clock Tower of Grevena",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Kopfsteinpflaster.",
+                "hu": "Vigyázzon a csúszós macskakövön.",
+                "ro": "Atenție pe piatra cubică alunecoasă.",
+                "en": "Be careful on the slippery cobblestones."
+              }
+            },
+            {
+              "name": "Gousios Mill",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Kette zu prüfen.",
+                "hu": "Rövid megálló a lánc ellenőrzésére.",
+                "ro": "Scurtă oprire pentru a verifica lanțul.",
+                "en": "Short stop to check the chain."
+              }
+            },
+            {
+              "name": "Natural History Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Kleidung zu trocknen.",
+                "hu": "Használja a megállót a ruhák szárítására.",
+                "ro": "Folosiți oprirea pentru a vă usca hainele.",
+                "en": "Use the stop to dry your clothes."
+              }
+            },
+            {
+              "name": "Church of Agios Georgios",
+              "tip_5lang": {
+                "de": "Fahrrad sicher unter einem Vordach abstellen.",
+                "hu": "Támassza le a biciklit biztonságos előtető alá.",
+                "ro": "Parcați bicicleta în siguranță sub un baldachin.",
+                "en": "Park the bike safely under an overhang."
+              }
+            },
+            {
+              "name": "Municipal Library",
+              "tip_5lang": {
+                "de": "Kurze Pause zum Aufwärmen der Hände.",
+                "hu": "Rövid szünet a kezek felmelegítésére.",
+                "ro": "Scurtă pauză pentru a vă încălzi mâinile.",
+                "en": "Short break to warm up your hands."
+              }
+            },
+            {
+              "name": "Portitsa Bridge (Viewpoint)",
+              "tip_5lang": {
+                "de": "Extremer Schutz bei der Abfahrt nötig.",
+                "hu": "Fokozott védelem szükséges a lejtmenethez.",
+                "ro": "Protecție sporită necesară pentru coborâre.",
+                "en": "Extra protection needed for the descent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und Regenhose.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Vermeiden Sie Pfützen, sie könnten tiefe Schlaglöcher verbergen.",
+              "Beleuchtung ist bei schlechter Sicht auch tagsüber wichtig."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot (kabát és nadrág).",
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Kerülje a tócsákat, mély kátyúkat rejthetnek.",
+              "A láthatóság miatt nappal is használjon lámpát."
+            ],
+            "ro": [
+              "Purtați jachetă și pantaloni de ploaie complet impermeabili.",
+              "Apărătorile de noroi sunt obligatorii pe această vreme.",
+              "Evitați bălțile, pot ascunde gropi adânci.",
+              "Luminile sunt importante ziua pentru vizibilitate scăzută."
+            ],
+            "en": [
+              "Wear a full rain jacket and rain pants.",
+              "Mudguards on your bike are a must in this weather.",
+              "Avoid puddles; they might hide deep potholes.",
+              "Lights are important even during the day for low visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Grevena ist ein Abenteuer durch die weiße Landschaft. Wir starten am Eleftheria-Platz und erkunden die Stadtziele, bevor wir uns auf den Weg zur Portitsa-Brücke machen. Die kalte Luft ist belebend, aber wir brauchen regelmäßige Stopps in beheizten Museen. Der Ausblick auf die schneebedeckten Berge ist atemberaubend, solange das Tageslicht reicht.",
+            "hu": "A téli biciklizés Grevenában kalandos túra a havas tájon. A főtérről indulunk, érintjük a városi pontokat, majd a Portitsa-híd felé vesszük az irányt. A hideg levegő frissít, de rendszeres pihenőkre van szükségünk a fűtött múzeumokban. A havas hegyek látványa lélegzetelállító, amíg a napfény tart.",
+            "ro": "Ciclismul de iarnă în Grevena este o aventură prin peisajul alb. Pornim din Piața Eleftheria și explorăm obiectivele urbane înainte de a pleca spre Podul Portitsa. Aerul rece este revigorant, dar avem nevoie de opriri regulate în muzee încălzite. Vederea munților înzăpeziți este uluitoare cât timp durează lumina zilei.",
+            "en": "Winter cycling in Grevena is an adventure through white landscapes. Starting from Eleftheria Square, we visit city landmarks before heading towards Portitsa Bridge. The cold air is invigorating, but regular stops in heated museums are essential. The views of snow-capped mountains are breathtaking as long as the daylight lasts."
+          },
+          "stops": [
+            {
+              "name": "Eleftheria Square",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind für das Bremsen wichtig.",
+                "hu": "A meleg kesztyű elengedhetetlen a fékezéshez.",
+                "ro": "Mănușile groase sunt esențiale pentru frânare.",
+                "en": "Warm gloves are essential for braking."
+              }
+            },
+            {
+              "name": "Clock Tower of Grevena",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisplatten im Schatten des Turms.",
+                "hu": "Vigyázzon a jeges foltokkal a torony árnyékában.",
+                "ro": "Atenție la porțiunile de gheață la umbra turnului.",
+                "en": "Watch out for icy patches in the tower's shadow."
+              }
+            },
+            {
+              "name": "Gousios Mill",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für Fotos im Winterlicht.",
+                "hu": "Szép hely fotózáshoz a téli fényekben.",
+                "ro": "Un loc frumos pentru poze în lumina iernii.",
+                "en": "A beautiful spot for photos in winter light."
+              }
+            },
+            {
+              "name": "Natural History Museum",
+              "tip_5lang": {
+                "de": "Lange aufwärmen, bevor es weitergeht.",
+                "hu": "Melegedjen fel alaposan, mielőtt tovább indul.",
+                "ro": "Încălziți-vă bine înainte de a continua.",
+                "en": "Warm up thoroughly before continuing."
+              }
+            },
+            {
+              "name": "Church of Agios Georgios",
+              "tip_5lang": {
+                "de": "Ein kurzer, windgeschützter Stopp.",
+                "hu": "Rövid, szélvédett megálló.",
+                "ro": "O scurtă oprire ferită de vânt.",
+                "en": "A short stop sheltered from the wind."
+              }
+            },
+            {
+              "name": "Municipal Library",
+              "tip_5lang": {
+                "de": "Heißer Tee in der Nähe ist jetzt ideal.",
+                "hu": "Forró tea a közelben most ideális.",
+                "ro": "Un ceai fierbinte în apropiere este ideal acum.",
+                "en": "A hot tea nearby is ideal right now."
+              }
+            },
+            {
+              "name": "Portitsa Bridge (Viewpoint)",
+              "tip_5lang": {
+                "de": "Die Abfahrt kann bei Frost gefährlich sein.",
+                "hu": "A lejtő fagyban veszélyes lehet.",
+                "ro": "Coborârea poate fi periculoasă pe îngheț.",
+                "en": "The descent can be dangerous in frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip.",
+              "Achten Sie auf Streusalz, es kann den Antrieb korrodieren.",
+              "Planen Sie die Rückkehr vor 16:30 Uhr ein.",
+              "Ein Thermosbehälter mit Tee ist Ihr bester Begleiter."
+            ],
+            "hu": [
+              "Öltözzön rétegesen (hagyma-elv).",
+              "Ügyeljen az útszóró sóra, korrodálhatja a láncot.",
+              "Tervezze meg a visszatérést 16:30 előtt.",
+              "Egy termosz tea a legjobb kísérője lesz."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi (principiul cepei).",
+              "Atenție la sarea de pe drum, poate coroda transmisia.",
+              "Planificați întoarcerea înainte de ora 16:30.",
+              "Un termos cu ceai este cel mai bun partener."
+            ],
+            "en": [
+              "Dress in layers (onion principle).",
+              "Watch out for road salt; it can corrode the drivetrain.",
+              "Plan your return before 16:30.",
+              "A thermos of tea is your best companion."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -988,6 +1388,188 @@
           "The roads to Portitsa Bridge can be narrow and winding, drive carefully.",
           "Use parking apps or ask locals for the best parking spots."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt durch Grevena bei Regen ist entspannt und sicher. Wir parken direkt am Eleftheria-Platz und besuchen den Uhrturm im Schutz der umliegenden Gebäude. Das Highlight ist die Fahrt zum Museum und weiter zur Portitsa-Brücke, wobei die Scheibenwischer den Blick auf die nebligen Schluchten freigeben. Den Tag beenden wir mit einem gemütlichen Mittagessen in Spileo, während draußen der Regen fällt.",
+            "hu": "Az autós túra Grevenában esőben kényelmes és biztonságos. Közvetlenül a főtérnél parkolunk, majd a múzeum felé vesszük az irányt. A Portitsa-hídhoz vezető út látványos a ködös szurdokokkal. A napot Spileo faluban zárjuk egy kellemes ebéddel, miközben az ablakon kopog az eső.",
+            "ro": "O călătorie cu mașina prin Grevena pe ploaie este relaxantă și sigură. Parcăm direct lângă Piața Eleftheria și vizităm muzeul. Drumul spre Podul Portitsa este spectaculos, cu ștergătoarele dezvăluind cheile cețoase. Încheiem ziua cu un prânz plăcut în satul Spileo, în timp ce afară plouă.",
+            "en": "A car tour of Grevena in the rain is comfortable and safe. We park right by Eleftheria Square and head to the museum. The drive to Portitsa Bridge is spectacular, with wipers clearing the view of the misty gorges. We finish the day with a cozy lunch in Spileo village while the rain drums on the window."
+          },
+          "stops": [
+            {
+              "name": "Parking at Eleftheria Square",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Ausgang für kurze Wege.",
+                "hu": "Parkoljon közel a kijárathoz a rövid séta érdekében.",
+                "ro": "Parcați aproape de ieșire pentru o plimbare scurtă.",
+                "en": "Park close to the exit for a short walk."
+              }
+            },
+            {
+              "name": "Clock Tower & Eleftheria Square",
+              "tip_5lang": {
+                "de": "Regenschirm griffbereit im Auto halten.",
+                "hu": "Tartsa kéznél az esernyőt az autóban.",
+                "ro": "Țineți umbrela la îndemână în mașină.",
+                "en": "Keep your umbrella handy in the car."
+              }
+            },
+            {
+              "name": "Church of Agios Georgios",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz zum Eingang.",
+                "hu": "Gyors sprint a parkolótól a bejáratig.",
+                "ro": "Sprint scurt de la parcare la intrare.",
+                "en": "Short sprint from the parking lot to the entrance."
+              }
+            },
+            {
+              "name": "Natural History Museum",
+              "tip_5lang": {
+                "de": "Perfekt für eine lange Regenpause.",
+                "hu": "Tökéletes helyszín egy hosszú esőszünethez.",
+                "ro": "Locație perfectă pentru o pauză lungă de ploaie.",
+                "en": "Perfect location for a long rain break."
+              }
+            },
+            {
+              "name": "Portitsa Bridge and Gorge",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Bergstraßen nach Spileo.",
+                "hu": "Vigyázzon a vizes hegyi utakon Spileo felé.",
+                "ro": "Atenție pe drumurile de munte umede spre Spileo.",
+                "en": "Be careful on the wet mountain roads towards Spileo."
+              }
+            },
+            {
+              "name": "Late Lunch in Spileo Village",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Regen aus dem Fenster.",
+                "hu": "Élvezze az eső látványát az ablakból.",
+                "ro": "Bucurați-vă de priveliștea ploii de la fereastră.",
+                "en": "Enjoy the view of the rain from the window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Landstraßen.",
+              "Die Sicht in der Portitsa-Schlucht kann bei Nebel eingeschränkt sein.",
+              "Nutzen Sie Parkplätze mit festem Untergrund (kein Schlamm).",
+              "Lassen Sie die Heizung laufen, um beschlagene Scheiben zu vermeiden."
+            ],
+            "hu": [
+              "Ügyeljen a vízenfutásra az országutakon.",
+              "A Portitsa-szurdoknál a köd korlátozhatja a kilátást.",
+              "Válasszon szilárd burkolatú parkolót a sár elkerülésére.",
+              "Használja a páramentesítőt a szélvédőn."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile naționale.",
+              "Vizibilitatea la Cheile Portitsa poate fi limitată de ceață.",
+              "Alegeți parcări cu suprafață solidă (evitați noroiul).",
+              "Folosiți dezaburirea pentru parbriz."
+            ],
+            "en": [
+              "Watch out for aquaplaning on country roads.",
+              "Visibility at Portitsa Gorge may be limited by fog.",
+              "Choose paved parking spots to avoid mud.",
+              "Use the defroster to keep the windshield clear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterzauber in Grevena erlebt man am besten mit dem Auto. Nach dem Start in der Stadt fahren wir durch verschneite Bergdörfer zum Museum. Die Fahrt zur Portitsa-Brücke bietet dramatische Ausblicke auf Eisformationen. Ein spätes Mittagessen in Spileo vor dem Kamin ist der ideale Abschluss, bevor wir vor Einbruch der Dunkelheit sicher zurückfahren.",
+            "hu": "A téli varázslatot Grevenában legjobb autóval felfedezni. A városi indulás után havas hegyi falvakon át hajtunk a múzeumhoz. A Portitsa-híd felé vezető út drámai jégcsapokat és havas tájat kínál. Egy késői ebéd Spileo faluban a kandalló mellett tökéletes zárás, mielőtt sötétedés előtt visszatérnénk.",
+            "ro": "Magia iernii în Grevena este cel mai bine explorată cu mașina. După plecarea din oraș, conducem prin sate montane înzăpezite spre muzeu. Drumul spre Podul Portitsa oferă vederi dramatice cu formațiuni de gheață. Un prânz târziu în Spileo lângă șemineu este finalul ideal înainte de a ne întoarce pe lumină.",
+            "en": "The winter magic of Grevena is best explored by car. After starting in town, we drive through snowy mountain villages to the museum. The trip to Portitsa Bridge offers dramatic views of ice formations and snow. A late lunch in Spileo village by the fireplace is the ideal conclusion before returning safely before dark."
+          },
+          "stops": [
+            {
+              "name": "Parking at Eleftheria Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf glattem Boden.",
+                "hu": "Vigyázzon a kiszálláskor a csúszós talajon.",
+                "ro": "Atenție la coborâre pe solul alunecos.",
+                "en": "Be careful when getting out on slippery ground."
+              }
+            },
+            {
+              "name": "Clock Tower & Eleftheria Square",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang, um die Kälte zu spüren.",
+                "hu": "Rövid séta, hogy érezze a friss hideget.",
+                "ro": "O scurtă plimbare pentru a simți frigul proaspăt.",
+                "en": "A short walk to feel the fresh cold air."
+              }
+            },
+            {
+              "name": "Church of Agios Georgios",
+              "tip_5lang": {
+                "de": "Im Inneren ist es angenehm temperiert.",
+                "hu": "Bent kellemes a hőmérséklet.",
+                "ro": "În interior este o temperatură plăcută.",
+                "en": "Inside, the temperature is pleasant."
+              }
+            },
+            {
+              "name": "Natural History Museum",
+              "tip_5lang": {
+                "de": "Viel Zeit für die Mammuts im Warmen einplanen.",
+                "hu": "Hagyjon időt a mamutokra a melegben.",
+                "ro": "Rezervați timp pentru mamuți la căldură.",
+                "en": "Allow plenty of time for the mammoths in the warm."
+              }
+            },
+            {
+              "name": "Portitsa Bridge and Gorge",
+              "tip_5lang": {
+                "de": "Schneeketten könnten für diesen Abschnitt nötig sein.",
+                "hu": "Hólánc szükséges lehet ehhez a szakaszhoz.",
+                "ro": "Lanțurile de zăpadă pot fi necesare pentru această porțiune.",
+                "en": "Snow chains might be needed for this section."
+              }
+            },
+            {
+              "name": "Late Lunch in Spileo Village",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Gericht mit lokalen Steinpilzen.",
+                "hu": "Válasszon helyi vargányából készült ételt.",
+                "ro": "Alegeți un preparat cu hribi locali.",
+                "en": "Choose a dish with local porcini mushrooms."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind im Pindos-Gebirge Pflicht.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Bergschatten lassen Straßen schnell vereisen.",
+              "Halten Sie eine warme Decke für Notfälle im Auto bereit."
+            ],
+            "hu": [
+              "Téli gumi kötelező a Pindosz-hegységben.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A hegyi árnyékokban az utak gyorsan jegesednek.",
+              "Tartson meleg takarót az autóban vészhelyzetre."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Munții Pindului.",
+              "Verificați antigelul din lichidul de parbriz.",
+              "Umbrele montane fac ca drumurile să înghețe rapid.",
+              "Țineți o pătură caldă în mașină pentru urgențe."
+            ],
+            "en": [
+              "Winter tires are mandatory in the Pindus mountains.",
+              "Check the antifreeze in your windshield washer fluid.",
+              "Mountain shadows cause roads to freeze quickly.",
+              "Keep a warm blanket in the car for emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1301,6 +1883,188 @@
           "Have small change ready for tickets if buying on board.",
           "Plan for extra time for waiting at the stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Grevena mit dem Bus bei Regen ist praktisch. Wir starten am Busbahnhof und erreichen schnell die zentralen Sehenswürdigkeiten. Der Weg zur Mühle und zum Museum wird durch kurze Busfahrten überbrückt, was uns trocken hält. Mittags besuchen wir die beheizten Ausstellungsräume. Den Nachmittag verbringen wir in der Nähe des Emilianos-Platzes, wo wir bequem auf den nächsten Bus warten können.",
+            "hu": "Buszozás Grevenában esőben praktikus választás. A buszpályaudvarról indulva gyorsan elérjük a központi látnivalókat. A malom és a múzeum felé vezető utat rövid buszozással hidaljuk át, így szárazon maradunk. Délben a fűtött múzeumban nézelődünk, majd az Emilianos tér közelében várjuk a visszautat egy meleg ital mellett.",
+            "ro": "Mersul cu autobuzul în Grevena pe ploaie este o alegere practică. Pornind de la autogară, ajungem rapid la obiectivele centrale. Drumul spre moară și muzeu este parcurs cu autobuzul, ceea ce ne menține uscați. La prânz vizităm muzeul încălzit, apoi așteptăm drumul de întoarcere lângă Piața Emilianos cu o băutură caldă.",
+            "en": "Taking the bus in Grevena during rain is a practical choice. Starting from the bus station, we quickly reach central landmarks. Short bus rides keep us dry between the mill and the museum. We spend midday in the heated museum halls and later wait for our return near Emilianos Square with a hot drink."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Station / Eleftheria Square",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Bereich des Bahnhofs.",
+                "hu": "Várjon a pályaudvar fedett részén.",
+                "ro": "Așteptați în zona acoperită a gării.",
+                "en": "Wait in the covered area of the station."
+              }
+            },
+            {
+              "name": "Clock Tower of Grevena",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von der Haltestelle.",
+                "hu": "Csak rövid séta a buszmegállótól.",
+                "ro": "Doar o scurtă plimbare de la stație.",
+                "en": "Just a short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Gousios Mill",
+              "tip_5lang": {
+                "de": "Informieren Sie sich über die Rückfahrtzeiten.",
+                "hu": "Tájékozódjon a visszaindulási időpontokról.",
+                "ro": "Informați-vă despre orele de întoarcere.",
+                "en": "Find out about the return times."
+              }
+            },
+            {
+              "name": "Natural History Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen Regenschauer abzuwarten.",
+                "hu": "Ideális hely egy zápor kivárásához.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse.",
+                "en": "An ideal place to wait out a rain shower."
+              }
+            },
+            {
+              "name": "Church of Agios Georgios",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirche für eine trockene Pause.",
+                "hu": "Használja a templomot egy száraz szünetre.",
+                "ro": "Folosiți biserica pentru o pauză la uscat.",
+                "en": "Use the church for a dry break."
+              }
+            },
+            {
+              "name": "Emilianos Square",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist ganz in der Nähe.",
+                "hu": "A buszmegálló egészen közel van.",
+                "ro": "Stația de autobuz este foarte aproape.",
+                "en": "The bus stop is very close by."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie Kleingeld für die Fahrkarten bereit.",
+              "Busse können bei starkem Regen Verspätung haben.",
+              "Suchen Sie Haltestellen mit Wartehäuschen.",
+              "Ein Regenschirm ist für den Weg zur Haltestelle nötig."
+            ],
+            "hu": [
+              "Legyen Önnél aprópénz a jegyvásárláshoz.",
+              "Nagy esőben a buszok késhetnek.",
+              "Keressen fedett váróval rendelkező megállókat.",
+              "Esernyőre szükség lesz a megállóig vezető úton."
+            ],
+            "ro": [
+              "Aveți mărunt pentru cumpărarea biletelor.",
+              "Autobuzele pot avea întârzieri pe ploaie torențială.",
+              "Căutați stații cu adăpost.",
+              "Veți avea nevoie de umbrelă pentru drumul până în stație."
+            ],
+            "en": [
+              "Have small change ready for buying tickets.",
+              "Buses may be delayed during heavy rain.",
+              "Look for bus stops with shelters.",
+              "An umbrella is necessary for the walk to the stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreisen mit dem Bus in Grevena sind gemütlich. Wir starten am zentralen Bahnhof und nutzen die geheizten Busse, um zwischen den Museen und dem Stadtzentrum zu pendeln. Die frostige Stadtlandschaft lässt sich sicher vom Fenster aus beobachten. Den späten Nachmittag verbringen wir am Emilianos-Platz in einer Taverne, bis der Abendbus uns zurückbringt.",
+            "hu": "A téli buszos utazás Grevenában kényelmes. A központi pályaudvarról indulunk, és a fűtött buszokkal ingázunk a múzeumok és a városközpont között. A fagyos tájat biztonságosan figyelhetjük az ablakból. A késő délutánt az Emilianos tér egyik tavernájában töltjük, amíg az esti busz vissza nem visz minket.",
+            "ro": "Călătoria cu autobuzul iarna în Grevena este confortabilă. Pornim de la gara centrală și folosim autobuzele încălzite pentru a face naveta între muzee și centrul orașului. Peisajul înghețat poate fi observat în siguranță de la fereastră. Petrecem după-amiaza târziu într-o tavernă din Piața Emilianos până când autobuzul de seară ne duce înapoi.",
+            "en": "Winter travel by bus in Grevena is comfortable. Starting from the central station, we use heated buses to commute between museums and the city center. The frosty landscape can be safely observed from the window. We spend the late afternoon in a tavern at Emilianos Square until the evening bus takes us back."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Station / Eleftheria Square",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan vorab.",
+                "hu": "Ellenőrizze előre a téli menetrendet.",
+                "ro": "Verificați din timp mersul autobuzelor de iarnă.",
+                "en": "Check the winter schedule in advance."
+              }
+            },
+            {
+              "name": "Clock Tower of Grevena",
+              "tip_5lang": {
+                "de": "Nur kurz draußen bleiben, es ist windig.",
+                "hu": "Csak rövid ideig maradjon kint, szeles az idő.",
+                "ro": "Stați afară doar puțin timp, este vânt.",
+                "en": "Stay outside only for a short time; it's windy."
+              }
+            },
+            {
+              "name": "Gousios Mill",
+              "tip_5lang": {
+                "de": "Der Bus hält nur wenige Minuten entfernt.",
+                "hu": "A busz csak pár perc sétára áll meg.",
+                "ro": "Autobuzul oprește la doar câteva minute distanță.",
+                "en": "The bus stops just a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Natural History Museum",
+              "tip_5lang": {
+                "de": "Perfekt zum Aufwärmen zwischen den Fahrten.",
+                "hu": "Tökéletes melegedő az utazások között.",
+                "ro": "Perfect pentru încălzire între călătorii.",
+                "en": "Perfect for warming up between rides."
+              }
+            },
+            {
+              "name": "Church of Agios Georgios",
+              "tip_5lang": {
+                "de": "Ein friedlicher, warmer Ort im Winter.",
+                "hu": "Békés, meleg hely télen.",
+                "ro": "Un loc liniștit și cald iarna.",
+                "en": "A peaceful, warm place in winter."
+              }
+            },
+            {
+              "name": "Emilianos Square",
+              "tip_5lang": {
+                "de": "Warten Sie in einem Café auf den Bus.",
+                "hu": "Várja a buszt egy kávézóban.",
+                "ro": "Așteptați autobuzul într-o cafenea.",
+                "en": "Wait for the bus in a cafe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft die sicherste Wahl.",
+              "Die Heizung in den Bussen ist meist sehr stark.",
+              "Planen Sie Pufferzeiten für eventuelle Schneeräumung ein.",
+              "Abends fahren weniger Busse, checken Sie die letzte Fahrt."
+            ],
+            "hu": [
+              "Télen a busz gyakran a legbiztonságosabb választás.",
+              "A fűtés a buszokon általában nagyon erős.",
+              "Számoljon extra idővel az esetleges hóeltakarítás miatt.",
+              "Este kevesebb busz jár, ellenőrizze az utolsó járatot."
+            ],
+            "ro": [
+              "Iarna, autobuzul este adesea cea mai sigură alegere.",
+              "Încălzirea în autobuze este de obicei foarte puternică.",
+              "Prevedeți timp suplimentar pentru eventualele deszăpeziri.",
+              "Seara circulă mai puține autobuze, verificați ultima cursă."
+            ],
+            "en": [
+              "Buses are often the safest choice in winter.",
+              "The heating on buses is usually very strong.",
+              "Allow extra time for potential snow clearing.",
+              "Fewer buses run in the evening; check the last trip."
+            ]
+          }
+        }
       }
     }
   }

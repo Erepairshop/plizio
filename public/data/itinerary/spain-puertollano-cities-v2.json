@@ -375,6 +375,206 @@
           "Allow plenty of time for the Mining Museum; it's very informative.",
           "Most shops observe an afternoon siesta, so plan your shopping accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt im Paseo de San Gregorio, wo die hohen Bäume und Pavillons erste Zuflucht bieten. Mittags schützt Sie das Gehäuse der Fuente Agria vor dem Guss, während Sie das berühmte Mineralwasser probieren. Der Nachmittag gehört dem Bergbaumuseum, dem perfekten Ort, um trocken zu bleiben und tief in die Stadtgeschichte einzutauchen. Der Abend endet stilvoll und trocken im Auditorium.",
+            "hu": "Az esős reggel a Paseo de San Gregorio sugárúton indul, ahol a pavilonok és sűrű fák adnak némi menedéket. Délben a Fuente Agria díszes tetője alatt kóstolhatja meg a gyógyvizet, elkerülve a záport. A délutánt a Bányászati Múzeum belső tárlatai között töltheti szárazon, megismerve a város ipari múltját. A napot a modern auditórium kulturális programja zárja, biztonságban az elemektől.",
+            "ro": "O dimineață ploioasă începe pe Paseo de San Gregorio, unde pavilioanele oferă adăpost temporar. La prânz, structura Fuente Agria vă protejează în timp ce degustați apa minerală locală. După-amiaza este dedicată Muzeului Mineritului, refugiul perfect pentru a rămâne uscat și a explora istoria industrială. Seara se încheie confortabil în interiorul Auditoriului Pedro Almodóvar.",
+            "en": "A rainy morning starts at Paseo de San Gregorio, where the pavilions and trees offer some cover. By noon, the decorative roof of Fuente Agria keeps you dry while tasting the famous sour water. The afternoon is best spent inside the Mining Museum, an ideal indoor retreat to learn about the city's coal heritage. Your day ends comfortably at the modern Auditorium, safe from the damp weather."
+          },
+          "stops": [
+            {
+              "name": "Start at Paseo de San Gregorio",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kioske und Cafés entlang der Promenade als Regenschutz.",
+                "hu": "Használja a sétány menti pavilonokat és kávézókat eső elleni menedékként.",
+                "ro": "Folosiți chioșcurile și cafenelele de pe promenadă pentru a vă adăposti de ploaie.",
+                "en": "Use the kiosks and cafes along the promenade as shelters from the rain."
+              }
+            },
+            {
+              "name": "Fuente Agria (Sour Fountain)",
+              "tip_5lang": {
+                "de": "Der Pavillon bietet hervorragenden Schutz, während Sie das Wasser kosten.",
+                "hu": "A díszes pavilon kiváló védelmet nyújt, miközben megkóstolja a vizet.",
+                "ro": "Pavilionul oferă o protecție excelentă în timp ce degustați apa.",
+                "en": "The ornate pavilion provides excellent cover while you taste the water."
+              }
+            },
+            {
+              "name": "Monument to the Miner",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; der Boden kann bei Nässe rutschig sein.",
+                "hu": "Gyors fotómegálló; a talaj nedvesen csúszós lehet.",
+                "ro": "Oprire scurtă pentru fotografii; solul poate fi alunecos când este umed.",
+                "en": "Quick photo stop; the ground can be slippery when wet."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine Pause im Trockenen.",
+                "hu": "Csendes és száraz hely egy rövid pihenőhöz a zápor elől.",
+                "ro": "Un loc liniștit și uscat pentru o scurtă pauză de ploaie.",
+                "en": "A quiet and dry place for a brief rest away from the rain."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Ideal bei Regen – planen Sie hier mehr Zeit für die Innenräume ein.",
+                "hu": "Ideális esőben – szánjon több időt a belső kiállításokra.",
+                "ro": "Ideal pe ploaie – alocați mai mult timp expozițiilor interioare.",
+                "en": "Ideal for rain – plan more time for the indoor exhibits."
+              }
+            },
+            {
+              "name": "Castillete de Santa María headframe",
+              "tip_5lang": {
+                "de": "Vom Museum aus sichtbar; vermeiden Sie den ungeschützten Aufstieg bei Sturm.",
+                "hu": "A múzeumból is jól látható; viharban ne menjen fel a kitett részekre.",
+                "ro": "Vizibil din muzeu; evitați urcarea neprotejată în timpul furtunii.",
+                "en": "Visible from the museum; avoid the exposed climb during a storm."
+              }
+            },
+            {
+              "name": "Pedro Almodóvar Auditorium",
+              "tip_5lang": {
+                "de": "Der perfekte trockene Abschluss mit kulturellem Fokus.",
+                "hu": "A tökéletes száraz befejezés kulturális fókusszal.",
+                "ro": "Finalul perfect, uscat, cu accent cultural.",
+                "en": "The perfect dry conclusion with a cultural focus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da einige Wege in den Parks lehmig sein können.",
+              "Die Fuente Agria ist ein kostenloser, überdachter Treffpunkt.",
+              "Das Bergbaumuseum bietet den besten Schutz für mehrere Stunden.",
+              "Halten Sie Ausschau nach den 'Passagen' im Stadtzentrum für Abkürzungen im Trockenen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a parkok ösvényei sárosak lehetnek.",
+              "A Fuente Agria pavilonja ingyenes és fedett találkozóhely.",
+              "A Bányászati Múzeum nyújtja a legjobb védelmet több órán keresztül.",
+              "Keresse a belvárosi árkádokat és átjárókat a szárazabb közlekedéshez."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece unele poteci din parcuri pot fi noroioase.",
+              "Pavilionul Fuente Agria este un punct de întâlnire gratuit și acoperit.",
+              "Muzeul Mineritului oferă cea mai bună protecție pentru câteva ore.",
+              "Căutați pasajele din centrul orașului pentru scurtături uscate."
+            ],
+            "en": [
+              "Wear waterproof shoes as some park paths can get muddy.",
+              "The Fuente Agria pavilion is a free, covered meeting point.",
+              "The Mining Museum offers the best protection for several hours.",
+              "Look for covered passages in the city center for drier shortcuts."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Paseo ist frisch, aber die Sonne der Mancha wärmt oft schnell auf. Ein Schluck aus der Fuente Agria ist belebend, und die nahegelegene Kirche bietet einen Moment der Stille. Nachmittags ist die Wärme des Bergbaumuseums willkommen, bevor Sie das Castillete im weichen Winterlicht fotografieren. Den Abend genießen Sie gemütlich im modernen Auditorium, bevor die Temperaturen sinken.",
+            "hu": "A téli reggel friss a sugárúton, de a manchegoi nap hamar felmelegíti a levegőt. Egy korty a Fuente Agria vizéből élénkítő, a közeli templom pedig csendes menedéket ad. Délután a Bányászati Múzeum belső terei melegséget kínálnak, a Castillete pedig különleges fényekben pompázik a korai naplementében. Az estét a modern auditórium kényelmében töltheti.",
+            "ro": "Dimineața de iarnă pe Paseo este răcoroasă, dar soarele de Mancha încălzește adesea rapid aerul. O înghițitură din Fuente Agria este revigorantă, iar biserica din apropiere oferă un moment de liniște. După-amiaza, căldura Muzeului Mineritului este binevenită înainte de a fotografia Castillete în lumina blândă a iernii. Seara este savurată în confortul Auditoriului modern.",
+            "en": "The winter morning at Paseo is crisp, but the Mancha sun often warms the air quickly. A sip from Fuente Agria is bracing, and the nearby church offers a quiet sanctuary. In the afternoon, the warmth of the Mining Museum is welcome before photographing the Castillete in soft winter light. Enjoy the evening in the comfort of the modern Auditorium before temperatures drop."
+          },
+          "stops": [
+            {
+              "name": "Start at Paseo de San Gregorio",
+              "tip_5lang": {
+                "de": "Gehen Sie auf der Sonnenseite der Promenade, um warm zu bleiben.",
+                "hu": "Sétáljon a sétány napos oldalán, hogy melegen tartsa magát.",
+                "ro": "Mergeți pe partea însorită a promenadei pentru a vă menține căldura.",
+                "en": "Walk on the sunny side of the promenade to stay warm."
+              }
+            },
+            {
+              "name": "Fuente Agria (Sour Fountain)",
+              "tip_5lang": {
+                "de": "Das Thermalwasser fühlt sich im Winter angenehm temperiert an.",
+                "hu": "A gyógyvíz télen kellemes hőmérsékletűnek érződik.",
+                "ro": "Apa termală pare plăcut temperată în timpul iernii.",
+                "en": "The thermal water feels pleasantly tempered in winter."
+              }
+            },
+            {
+              "name": "Monument to the Miner",
+              "tip_5lang": {
+                "de": "Die exponierte Lage kann im Winter windig sein; ziehen Sie sich warm an.",
+                "hu": "A nyitott fekvés miatt szeles lehet; öltözzön rétegesen.",
+                "ro": "Locația expusă poate fi vântoasă; îmbrăcați-vă gros.",
+                "en": "The exposed location can be windy; dress in layers."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche mittags, wenn es draußen am kältesten ist.",
+                "hu": "Látogassa meg a templomot délben, amikor kint a leghűvösebb lehet.",
+                "ro": "Vizitați biserica la prânz, când afară este cel mai frig.",
+                "en": "Visit the church at midday when it might be coldest outside."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um sich aufzuwärmen und Ausstellungen zu genießen.",
+                "hu": "Kiváló hely a felmelegedésre és a kiállítások élvezetére.",
+                "ro": "Un loc minunat pentru a vă încălzi și a vă bucura de expoziții.",
+                "en": "A great place to warm up and enjoy the exhibitions."
+              }
+            },
+            {
+              "name": "Castillete de Santa María headframe",
+              "tip_5lang": {
+                "de": "Das beste Licht für Fotos ist im Winter bereits gegen 16:00 Uhr.",
+                "hu": "A legjobb fények a fotózáshoz télen már 16:00 körül vannak.",
+                "ro": "Cea mai bună lumină pentru fotografii este iarna deja în jurul orei 16:00.",
+                "en": "The best light for photos in winter is already around 4:00 PM."
+              }
+            },
+            {
+              "name": "Pedro Almodóvar Auditorium",
+              "tip_5lang": {
+                "de": "Prüfen Sie das Programm für Abendveranstaltungen in beheizten Räumen.",
+                "hu": "Ellenőrizze az esti előadásokat a fűtött belső terekben.",
+                "ro": "Verificați programul pentru spectacole de seară în spații încălzite.",
+                "en": "Check the schedule for evening performances in heated spaces."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Temperaturen sinken nach Sonnenuntergang (ca. 18:00 Uhr) stark.",
+              "Die Luft in Puertollano ist im Winter sehr trocken; trinken Sie viel Wasser.",
+              "Mittags ist die beste Zeit für Außenbesichtigungen.",
+              "Einige Museen haben im Winter leicht verkürzte Öffnungszeiten."
+            ],
+            "hu": [
+              "A hőmérséklet naplemente után (kb. 18:00) hirtelen leesik.",
+              "Puertollano levegője télen nagyon száraz; fogyasszon sok folyadékot.",
+              "A délidő a legalkalmasabb a kültéri látnivalók felfedezésére.",
+              "Néhány múzeum télen valamivel korábban zárhat."
+            ],
+            "ro": [
+              "Temperaturile scad brusc după apusul soarelui (aprox. ora 18:00).",
+              "Aerul din Puertollano este foarte uscat iarna; beți multă apă.",
+              "Prânzul este cel mai bun moment pentru vizitarea obiectivelor exterioare.",
+              "Unele muzee au program ușor redus în timpul iernii."
+            ],
+            "en": [
+              "Temperatures drop sharply after sunset (around 6:00 PM).",
+              "The air in Puertollano is very dry in winter; stay hydrated.",
+              "Midday is the best time for outdoor sightseeing.",
+              "Some museums may have slightly shorter hours in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -683,6 +883,224 @@
           "The streets can be narrow in the center, ride with caution.",
           "A water bottle is essential, especially for the ride to the Ermita."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour beginnt am Auditorium, wo Sie unter dem Vordach starten können. Der Paseo bietet Schutz durch Bäume, aber Vorsicht bei nassen Blättern. Die Fuente Agria ist ein idealer Stopp, um im Trockenen zu trinken. Nachmittags parken Sie das Rad am Museum für eine lange Indoor-Pause, bevor Sie vorsichtig zum Castillete und zur Ermita weiterfahren.",
+            "hu": "A vizes bringatúra az auditóriumnál indul, ahol a tető alatt készülődhet. A sugárút fái adnak némi védelmet, de vigyázzon a csúszós levelekkel. A Fuente Agria ideális pihenő, ahol szárazon frissíthet. Délután hagyja a biciklit a múzeumnál egy hosszú benti programra, majd óvatosan tekerjen tovább a Castillete és az Ermita felé.",
+            "ro": "O tură cu bicicleta pe ploaie începe la Auditoriu, unde vă puteți pregăti sub copertină. Paseo oferă adăpost prin copaci, dar atenție la frunzele ude. Fuente Agria este o oprire ideală pentru a bea apă la adăpost. După-amiaza lăsați bicicleta la muzeu pentru o pauză lungă la interior, apoi continuați cu prudență spre Castillete și Ermita.",
+            "en": "A wet bike ride starts at the Auditorium, where you can prep under the overhang. The Paseo offers some tree cover, but watch out for slippery leaves. Fuente Agria is an ideal stop to hydrate while staying dry. In the afternoon, park the bike at the museum for a long indoor break before carefully continuing to the Castillete and Ermita."
+          },
+          "stops": [
+            {
+              "name": "Pedro Almodóvar Auditorium",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Vorbereiten.",
+                "hu": "Használja a fedett bejárati részt a készülődéshez.",
+                "ro": "Folosiți zona de intrare acoperită pentru pregătire.",
+                "en": "Use the covered entrance area for preparation."
+              }
+            },
+            {
+              "name": "Paseo de San Gregorio",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Pflaster; es wird bei Regen sehr rutschig.",
+                "hu": "Vigyázzon a burkolaton; esőben nagyon csúszóssá válik.",
+                "ro": "Atenție pe pavaj; devine foarte alunecos pe ploaie.",
+                "en": "Be careful on the pavement; it becomes very slippery in the rain."
+              }
+            },
+            {
+              "name": "Fuente Agria",
+              "tip_5lang": {
+                "de": "Bester Ort für eine Trinkpause ohne nass zu werden.",
+                "hu": "A legjobb hely egy ivószünethez anélkül, hogy megázna.",
+                "ro": "Cel mai bun loc pentru o pauză de hidratare fără a vă uda.",
+                "en": "Best place for a drink break without getting wet."
+              }
+            },
+            {
+              "name": "Monument to the Miner",
+              "tip_5lang": {
+                "de": "Kurzer Halt; achten Sie auf Windböen in dieser Höhe.",
+                "hu": "Rövid megálló; figyeljen a széllökésekre ezen a magasságon.",
+                "ro": "Oprire scurtă; atenție la rafalele de vânt la această înălțime.",
+                "en": "Short stop; watch out for wind gusts at this elevation."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer in der Nähe; nutzen Sie die Zeit für den Innenraum.",
+                "hu": "Biztonságos tárolók a közelben; szánjon időt a belső térre.",
+                "ro": "Rasteluri sigure în apropiere; folosiți timpul pentru interior.",
+                "en": "Safe bike racks nearby; take time to see the interior."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine ausgiebige Regenpause.",
+                "hu": "Tökéletes hely egy kiadós esőszünethez.",
+                "ro": "Locul perfect pentru o pauză prelungită de ploaie.",
+                "en": "Perfect place for an extensive rain break."
+              }
+            },
+            {
+              "name": "Castillete de Santa María headframe",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den Zufahrtswegen; Pfützengefahr.",
+                "hu": "Hajtson lassan a bekötőutakon; tócsák várhatóak.",
+                "ro": "Conduceți încet pe drumurile de acces; pericol de bălți.",
+                "en": "Ride slowly on the access roads; watch for puddles."
+              }
+            },
+            {
+              "name": "Ermita de la Virgen de Gracia",
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet oft Schutz unter Bäumen.",
+                "hu": "A parkolóban a fák gyakran adnak némi fedezéket.",
+                "ro": "Parcarea oferă adesea protecție sub copaci.",
+                "en": "The parking area often provides some shelter under trees."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt; Puertollano hat einige Gefälle.",
+              "Tragen Sie leuchtende Regenbekleidung, da die Sicht schlecht sein kann.",
+              "Nutzen Sie den Paseo als Hauptachse, um Pfützen auf Nebenstraßen zu meiden.",
+              "Wischen Sie den Sattel nach jedem Stopp trocken."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fékeket; Puertollano dombos vidék.",
+              "Viseljen feltűnő esőruházatot a rossz látási viszonyok miatt.",
+              "Használja a Paseo-t főútként, elkerülve a mellékutcák tócsáit.",
+              "Minden megálló után törölje szárazra a nyerget."
+            ],
+            "ro": [
+              "Verificați frânele înainte de plecare; Puertollano are pante.",
+              "Purtați haine de ploaie reflectorizante din cauza vizibilității reduse.",
+              "Folosiți Paseo ca axă principală pentru a evita bălțile de pe străzile secundare.",
+              "Ștergeți șaua după fiecare oprire."
+            ],
+            "en": [
+              "Check your brakes before starting; Puertollano has some slopes.",
+              "Wear bright rain gear as visibility can be poor.",
+              "Use the Paseo as your main axis to avoid puddles on side streets.",
+              "Wipe your saddle dry after every stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer, kalter Wintertag ist ideal zum Radfahren in Puertollano. Starten Sie mittags am Auditorium, wenn die Sonne am höchsten steht. Der Paseo ist belebt und windgeschützt. Ein Stopp an der Fuente Agria wärmt innerlich. Verbringen Sie den kühleren Nachmittag im Museum und beenden Sie die Tour an der Ermita, während die Stadt in das goldene Licht der Wintersonne getaucht wird.",
+            "hu": "Egy tiszta, hideg téli nap ideális a tekeréshez Puertollanóban. Kezdjen délben az auditóriumnál, amikor a legmagasabban jár a nap. A sugárút élénk és szélvédett. A Fuente Agria vize belülről melegít. A hűvösebb délutánt töltse a múzeumban, majd zárja a túrát az Ermitánál a téli naplemente arany fényében.",
+            "ro": "O zi de iarnă senină și rece este ideală pentru ciclism în Puertollano. Începeți la prânz la Auditoriu, când soarele este sus. Paseo este plin de viață și ferit de vânt. O oprire la Fuente Agria vă încălzește interior. Petreceți după-amiaza răcoroasă la muzeu și încheiați turul la Ermita în lumina aurie a apusului de iarnă.",
+            "en": "A clear, cold winter day is ideal for cycling in Puertollano. Start at noon by the Auditorium when the sun is highest. The Paseo is lively and sheltered from the wind. A stop at Fuente Agria warms you from within. Spend the cooler afternoon in the museum and end the tour at the Ermita during the golden winter sunset."
+          },
+          "stops": [
+            {
+              "name": "Pedro Almodóvar Auditorium",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die Abfahrt am Morgen unerlässlich.",
+                "hu": "A kesztyű elengedhetetlen a reggeli induláshoz.",
+                "ro": "Mănușile sunt esențiale pentru plecarea de dimineață.",
+                "en": "Gloves are essential for the morning start."
+              }
+            },
+            {
+              "name": "Paseo de San Gregorio",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wintersonne in den nach Süden ausgerichteten Cafés.",
+                "hu": "Élvezze a téli napsütést a déli fekvésű kávézókban.",
+                "ro": "Bucurați-vă de soarele de iarnă în cafenelele orientate spre sud.",
+                "en": "Enjoy the winter sun in the south-facing cafes."
+              }
+            },
+            {
+              "name": "Fuente Agria",
+              "tip_5lang": {
+                "de": "Die Wassertemperatur ist das ganze Jahr über konstant.",
+                "hu": "A víz hőmérséklete egész évben állandó.",
+                "ro": "Temperatura apei este constantă tot timpul anului.",
+                "en": "The water temperature is constant throughout the year."
+              }
+            },
+            {
+              "name": "Monument to the Miner",
+              "tip_5lang": {
+                "de": "In der Wintersonne glänzt das Denkmal besonders schön.",
+                "hu": "A téli napsütésben az emlékmű különösen szépen csillog.",
+                "ro": "În soarele de iarnă, monumentul strălucește deosebit de frumos.",
+                "en": "In the winter sun, the monument shines particularly beautifully."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen.",
+                "hu": "A vastag falak jól kint tartják a hideget.",
+                "ro": "Zidurile groase țin frigul afară.",
+                "en": "The thick walls keep the cold outside."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre schwere Winterkleidung.",
+                "hu": "Használja a ruhatárat a nehéz téli ruhákhoz.",
+                "ro": "Folosiți garderoba pentru hainele groase de iarnă.",
+                "en": "Use the cloakroom for your heavy winter clothing."
+              }
+            },
+            {
+              "name": "Castillete de Santa María headframe",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisbildung auf Metallteilen am frühen Morgen.",
+                "hu": "Kora reggel vigyázzon a fémrészeken kialakuló jegesedésre.",
+                "ro": "Atenție la formarea gheții pe părțile metalice dimineața devreme.",
+                "en": "Watch out for ice formation on metal parts early in the morning."
+              }
+            },
+            {
+              "name": "Ermita de la Virgen de Gracia",
+              "tip_5lang": {
+                "de": "Planen Sie die Ankunft vor 17:30 Uhr, um das Tageslicht zu nutzen.",
+                "hu": "Tervezze az érkezést 17:30 előtt, hogy kihasználja a nappali fényt.",
+                "ro": "Planificați sosirea înainte de 17:30 pentru a profita de lumina zilei.",
+                "en": "Plan to arrive before 5:30 PM to catch the last daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten, um sich an die schwankenden Temperaturen anzupassen.",
+              "Die Tage sind kurz; sorgen Sie für eine funktionierende Fahrradbeleuchtung.",
+              "Trinken Sie auch bei Kälte genug, die trockene Luft dehydriert schnell.",
+              "Vermeiden Sie schattige Gassen am späten Nachmittag."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, hogy alkalmazkodjon a változó hőmérséklethez.",
+              "A nappalok rövidek; gondoskodjon a működő kerékpár-világításról.",
+              "Igyon eleget hidegben is, a száraz levegő gyorsan dehidratál.",
+              "Késő délután kerülje az árnyékos mellékutcákat."
+            ],
+            "ro": [
+              "Purtați mai multe straturi pentru a vă adapta la temperaturile fluctuante.",
+              "Zilele sunt scurte; asigurați-vă că aveți lumini funcționale la bicicletă.",
+              "Beți destulă apă chiar și pe frig; aerul uscat deshidratează rapid.",
+              "Evitați străzile umbrite după-amiaza târziu."
+            ],
+            "en": [
+              "Wear multiple layers to adapt to fluctuating temperatures.",
+              "Days are short; ensure your bike lights are working.",
+              "Drink enough even in the cold; dry air dehydrates quickly.",
+              "Avoid shaded alleys in the late afternoon."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -865,6 +1283,206 @@
           "The cluster strategy saves time and the hassle of finding parking.",
           "Combine the visit with a trip to the nearby Valle de Alcudia National Park."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist Puertollano bei Regen entspannt zu erkunden. Starten Sie am Bergbaumuseum, wo es nahegelegene Parkplätze gibt. Fahren Sie zum Castillete für einen kurzen Blick und besuchen Sie dann die Kirche im Zentrum. Mittags parken Sie nahe dem Paseo für einen Besuch der Fuente Agria. Den Nachmittag verbringen Sie im Auditorium und beschließen den Tag an der Ermita, während die Scheibenwischer den Takt angeben.",
+            "hu": "Autóval Puertollano esőben is kényelmesen felfedezhető. Kezdjen a Bányászati Múzeumnál, ahol közeli parkolókat talál. Guruljon el a Castillete-hez egy gyors fotóra, majd látogasson el a belvárosi templomba. Délben parkoljon a Paseo közelében a Fuente Agria megtekintéséhez. A délutánt töltse az auditóriumban, a napot pedig az Ermitánál zárja.",
+            "ro": "Cu mașina, Puertollano este relaxant de explorat pe ploaie. Începeți la Muzeul Mineritului, unde există parcări în apropiere. Mergeți la Castillete pentru o privire scurtă, apoi vizitați biserica din centru. La prânz, parcați lângă Paseo pentru o vizită la Fuente Agria. Petreceți după-amiaza la Auditoriu și încheiați ziua la Ermita.",
+            "en": "By car, Puertollano is relaxed to explore in the rain. Start at the Mining Museum, where there are nearby parking spots. Drive to the Castillete for a quick look, then visit the church in the center. At noon, park near the Paseo for a visit to Fuente Agria. Spend the afternoon at the Auditorium and conclude the day at the Ermita."
+          },
+          "stops": [
+            {
+              "name": "Mining Cluster: Mining Museum",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Museumseingang, um trocken zu bleiben.",
+                "hu": "Parkoljon közvetlenül a múzeum bejáratánál, hogy száraz maradjon.",
+                "ro": "Parcați direct la intrarea muzeului pentru a rămâne uscat.",
+                "en": "Park right at the museum entrance to stay dry."
+              }
+            },
+            {
+              "name": "Castillete de Santa María headframe",
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus gut sichtbar; ideal für Fotos aus dem Auto.",
+                "hu": "A parkolóból jól látható; ideális fotózáshoz az autóból.",
+                "ro": "Vizibil clar din parcare; ideal pentru fotografii din mașină.",
+                "en": "Clearly visible from the parking area; ideal for photos from the car."
+              }
+            },
+            {
+              "name": "Center Cluster: Church of the Assumption",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Parkhaus im Zentrum, um weite Wege im Regen zu meiden.",
+                "hu": "Keressen belvárosi parkolóházat, hogy elkerülje a gyaloglást az esőben.",
+                "ro": "Căutați o parcare subterană în centru pentru a evita mersul prin ploaie.",
+                "en": "Look for a parking garage in the center to avoid walking in the rain."
+              }
+            },
+            {
+              "name": "Monument to the Miner",
+              "tip_5lang": {
+                "de": "Man kann direkt daneben kurz halten; Vorsicht beim Aussteigen.",
+                "hu": "Közvetlenül mellette meg lehet állni; vigyázzon a kiszállásnál.",
+                "ro": "Puteți opri scurt chiar lângă; atenție la coborârea din mașină.",
+                "en": "You can stop briefly right next to it; watch out when exiting."
+              }
+            },
+            {
+              "name": "Paseo de San Gregorio & Fuente Agria",
+              "tip_5lang": {
+                "de": "Parken Sie in der Tiefgarage unter dem Paseo.",
+                "hu": "Parkoljon a Paseo alatti mélygarázsban.",
+                "ro": "Parcați în parcarea subterană de sub Paseo.",
+                "en": "Park in the underground garage beneath the Paseo."
+              }
+            },
+            {
+              "name": "Culture Cluster: Pedro Almodóvar Auditorium",
+              "tip_5lang": {
+                "de": "Großer, befestigter Parkplatz direkt davor.",
+                "hu": "Nagy, aszfaltozott parkoló közvetlenül előtte.",
+                "ro": "Parcare mare, asfaltată, chiar în față.",
+                "en": "Large, paved parking lot right in front."
+              }
+            },
+            {
+              "name": "Ermita de la Virgen de Gracia",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Starkregen rutschig sein.",
+                "hu": "Heves esőzéskor a feljáró csúszós lehet.",
+                "ro": "Accesul poate fi alunecos în caz de ploaie torențială.",
+                "en": "The access road can be slippery during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Tiefgaragen im Zentrum (Paseo), um das Auto trocken zu verlassen.",
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer; Gewitter sind in der Mancha häufig.",
+              "Vermeiden Sie das Parken unter großen Bäumen bei Sturmgefahr.",
+              "Die Sicht kann auf den Hügeln um die Stadt schnell abnehmen."
+            ],
+            "hu": [
+              "Használja a belvárosi mélygarázsokat (Paseo), hogy szárazon szálljon ki.",
+              "Ellenőrizze az ablaktörlőket; a Manche-vidéken gyakoriak a heves zivatarok.",
+              "Viharveszély esetén kerülje a nagy fák alatti parkolást.",
+              "A látástávolság a várost övező dombokon gyorsan csökkenhet."
+            ],
+            "ro": [
+              "Folosiți parcările subterane din centru (Paseo) pentru a coborî la uscat.",
+              "Verificați starea ștergătoarelor; furtunile sunt frecvente în Mancha.",
+              "Evitați parcarea sub copaci mari în caz de furtună.",
+              "Vizibilitatea poate scădea rapid pe dealurile din jurul orașului."
+            ],
+            "en": [
+              "Use underground parking in the center (Paseo) to exit the car dry.",
+              "Check your wipers; thunderstorms are common in the Mancha region.",
+              "Avoid parking under large trees if a storm is predicted.",
+              "Visibility can drop quickly on the hills surrounding the city."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag im Auto bietet Wärme und Flexibilität. Beginnen Sie im Bergbaumuseum, während die Außenluft noch kalt ist. Besuchen Sie das Castillete und die Kirche im milden Mittagslicht. Am Paseo können Sie parken und einen sonnigen Spaziergang zur Fuente Agria machen. Den späten Nachmittag verbringen Sie im Auditorium und beenden die Tour an der Ermita, um den Sonnenuntergang über Puertollano zu sehen.",
+            "hu": "A téli nap autóval melegséget és rugalmasságot kínál. Kezdjen a Bányászati Múzeumban, amíg kint még hideg van. Látogassa meg a Castillete-t és a templomot a déli napsütésben. A sugárútnál parkolva tehet egy napsütéses sétát a Fuente Agria felé. A késő délutánt töltse az auditóriumban, majd nézze meg a naplementét az Ermitától.",
+            "ro": "O zi de iarnă în mașină oferă căldură și flexibilitate. Începeți la Muzeul Mineritului cât timp aerul de afară este încă rece. Vizitați Castillete și biserica în lumina blândă a prânzului. Parcați la Paseo pentru o plimbare însorită spre Fuente Agria. Petreceți după-amiaza la Auditoriu și încheiați turul la Ermita.",
+            "en": "A winter day by car offers warmth and flexibility. Start at the Mining Museum while the air is still cold. Visit the Castillete and the church in the mild midday light. Park at the Paseo for a sunny walk to Fuente Agria. Spend the late afternoon at the Auditorium and finish at the Ermita for a panoramic sunset."
+          },
+          "stops": [
+            {
+              "name": "Mining Cluster: Mining Museum",
+              "tip_5lang": {
+                "de": "Das Auto heizt sich in der Wintersonne auf dem Parkplatz angenehm auf.",
+                "hu": "Az autó kellemesen felmelegszik a téli napsütésben a parkolóban.",
+                "ro": "Mașina se încălzește plăcut la soarele de iarnă în parcare.",
+                "en": "The car warms up pleasantly in the winter sun in the parking lot."
+              }
+            },
+            {
+              "name": "Castillete de Santa María headframe",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für das perfekte Winterpanorama.",
+                "hu": "Rövid megálló a tökéletes téli panorámáért.",
+                "ro": "Oprire scurtă pentru o panoramă perfectă de iarnă.",
+                "en": "Short stop for the perfect winter panorama."
+              }
+            },
+            {
+              "name": "Center Cluster: Church of the Assumption",
+              "tip_5lang": {
+                "de": "Das Parken im Zentrum ist im Winter einfacher als im Hochsommer.",
+                "hu": "A belvárosi parkolás télen egyszerűbb, mint a nyári csúcsban.",
+                "ro": "Parcarea în centru este mai ușoară iarna decât în plină vară.",
+                "en": "Parking in the center is easier in winter than in high summer."
+              }
+            },
+            {
+              "name": "Monument to the Miner",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefstehender Sonne beim Fahren in Richtung Hügel.",
+                "hu": "Vigyázzon az alacsonyan járó napra, ha a dombok felé vezet.",
+                "ro": "Atenție la soarele jos când conduceți spre dealuri.",
+                "en": "Watch out for the low sun when driving towards the hills."
+              }
+            },
+            {
+              "name": "Paseo de San Gregorio & Fuente Agria",
+              "tip_5lang": {
+                "de": "Ein sonniger Parkplatz ist im Winter ein Vorteil.",
+                "hu": "A napsütötte parkolóhely télen előnyt jelent.",
+                "ro": "Un loc de parcare însorit este un avantaj iarna.",
+                "en": "A sunny parking spot is an advantage in winter."
+              }
+            },
+            {
+              "name": "Culture Cluster: Pedro Almodóvar Auditorium",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Heizung im Auto für den Abend.",
+                "hu": "Ellenőrizze az autó fűtését az esti szakaszra.",
+                "ro": "Verificați încălzirea mașinii pentru segmentul de seară.",
+                "en": "Check the car's heating for the evening leg."
+              }
+            },
+            {
+              "name": "Ermita de la Virgen de Gracia",
+              "tip_5lang": {
+                "de": "Bester Ort, um den Sonnenuntergang im Auto zu genießen.",
+                "hu": "A legjobb hely a naplemente élvezéséhez az autóból.",
+                "ro": "Cel mai bun loc pentru a savura apusul din mașină.",
+                "en": "Best place to enjoy the sunset from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Raureif auf den Straßen am frühen Morgen.",
+              "Die Wintersonne kann beim Fahren stark blenden; Sonnenbrille mitnehmen.",
+              "Nutzen Sie die Sitzheizung für kurze Intervalle zwischen den Stopps.",
+              "Batteriecheck ist vor längeren Wintertouren in der Meseta ratsam."
+            ],
+            "hu": [
+              "Kora reggel figyeljen a dérre az utakon.",
+              "A téli nap vezetés közben erősen vakíthat; vigyen napszemüveget.",
+              "Használja az ülésfűtést a megállók közötti rövid szakaszokon.",
+              "Hosszabb téli túrák előtt érdemes ellenőrizni az akkumulátort."
+            ],
+            "ro": [
+              "Atenție la brumă pe șosele dimineața devreme.",
+              "Soarele de iarnă poate fi orbitor la volan; luați ochelari de soare.",
+              "Folosiți încălzirea în scaune pentru intervalele scurte dintre opriri.",
+              "Verificarea bateriei este recomandată înainte de turele lungi de iarnă."
+            ],
+            "en": [
+              "Watch out for frost on the roads early in the morning.",
+              "The winter sun can be very bright while driving; bring sunglasses.",
+              "Use seat heating for short intervals between stops.",
+              "A battery check is advisable before long winter trips in the Meseta."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1011,6 +1629,188 @@
           "Check bus schedules in advance, especially for the evening.",
           "Some stops may not be directly at the sights, be prepared for short walks."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus bleibt man in Puertollano auch bei Regen trocken. Starten Sie am Paseo und nutzen Sie die Wartehäuschen. Die Busverbindung zum Bergbaumuseum ist ideal für einen regnerischen Vormittag. Mittags kehren Sie ins Zentrum zurück, besuchen die Kirche und entspannen im Auditorium. Beenden Sie den Tag an der Ermita, gut geschützt in den städtischen Verkehrsmitteln.",
+            "hu": "Busszal Puertollanóban esőben is száraz maradhat. Kezdjen a sugárúton, használja a fedett megállókat. A múzeumba tartó buszjárat ideális egy esős délelőttre. Délben térjen vissza a központba a templomhoz, majd pihenjen az auditóriumban. A napot az Ermitánál zárja, biztonságban a tömegközlekedési eszközökön.",
+            "ro": "Cu autobuzul, rămâneți uscat în Puertollano chiar și pe ploaie. Începeți la Paseo și folosiți stațiile acoperite. Legătura spre Muzeul Mineritului este ideală pentru o dimineață ploioasă. La prânz reveniți în centru, vizitați biserica și relaxați-vă la Auditoriu. Încheiați ziua la Ermita, bine protejat în transportul public.",
+            "en": "By bus, you can stay dry in Puertollano even in the rain. Start at the Paseo and use the covered shelters. The bus link to the Mining Museum is ideal for a rainy morning. At noon, return to the center, visit the church, and relax at the Auditorium. Conclude the day at the Ermita, well-protected in the city transit."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Paseo de San Gregorio",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt mit vielen überdachten Haltestellen.",
+                "hu": "Központi csomópont sok fedett buszmegállóval.",
+                "ro": "Nod central cu multe stații de autobuz acoperite.",
+                "en": "Central hub with many covered bus stops."
+              }
+            },
+            {
+              "name": "Miner's Monument & Church",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Haltestellen und den Gebäuden.",
+                "hu": "Rövid séta a megállók és az épületek között.",
+                "ro": "Distanțe scurte între stații și clădiri.",
+                "en": "Short distances between stops and buildings."
+              }
+            },
+            {
+              "name": "Mining Cluster: Mining Museum",
+              "tip_5lang": {
+                "de": "Die Haltestelle befindet sich fast direkt vor dem Museum.",
+                "hu": "A megálló szinte közvetlenül a múzeum előtt található.",
+                "ro": "Stația se află aproape direct în fața muzeului.",
+                "en": "The stop is located almost directly in front of the museum."
+              }
+            },
+            {
+              "name": "Castillete de Santa María headframe",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor einem starken Guss.",
+                "hu": "Tervezze meg a visszautat egy hevesebb zápor előtt.",
+                "ro": "Planificați întoarcerea înainte de o ploaie torențială.",
+                "en": "Plan your return trip before a heavy downpour."
+              }
+            },
+            {
+              "name": "Culture Cluster: Auditorium",
+              "tip_5lang": {
+                "de": "Gute Busfrequenz am Nachmittag; ideal zum Warten im Trockenen.",
+                "hu": "Gyakori buszjáratok délután; ideális a várakozáshoz.",
+                "ro": "Frecvență bună a autobuzelor după-amiaza; ideal pentru așteptat.",
+                "en": "Good bus frequency in the afternoon; ideal for waiting."
+              }
+            },
+            {
+              "name": "Ermita de la Virgen de Gracia",
+              "tip_5lang": {
+                "de": "Die letzte Haltestelle bietet Schutz bei Regen.",
+                "hu": "Az utolsó megálló védelmet nyújt az eső elől.",
+                "ro": "Ultima stație oferă protecție împotriva ploii.",
+                "en": "The final stop provides protection from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die lokale Bus-App für Echtzeit-Infos herunter, um Wartezeiten im Regen zu minimieren.",
+              "Halten Sie Kleingeld oder eine Fahrkarte bereit.",
+              "Busse sind bei Regen oft voller; planen Sie Pufferzeit ein.",
+              "Die Hauptlinien verkehren regelmäßig am Paseo."
+            ],
+            "hu": [
+              "Töltse le a helyi busz-appot a valós idejű infókért, minimalizálva az esőben várakozást.",
+              "Készítsen elő aprópénzt vagy bérletet.",
+              "Esőben a buszok zsúfoltabbak lehetnek; számoljon több idővel.",
+              "A fővonalak rendszeresen közlekednek a sugárúton."
+            ],
+            "ro": [
+              "Descărcați aplicația locală pentru info în timp real, minimizând așteptarea în ploaie.",
+              "Pregătiți mărunțiș sau cardul de călătorie.",
+              "Autobuzele sunt mai pline pe ploaie; planificați timp suplimentar.",
+              "Liniile principale circulă regulat pe Paseo."
+            ],
+            "en": [
+              "Download the local bus app for real-time info to minimize waiting in the rain.",
+              "Have small change or a transit card ready.",
+              "Buses are often more crowded in the rain; allow extra time.",
+              "Main lines run frequently along the Paseo."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Transit ist im Winter eine warme Alternative zum Laufen. Starten Sie am Paseo und nutzen Sie die Zeit für Besichtigungen im Zentrum. Der Bus bringt Sie bequem zum Bergbaumuseum, wenn es draußen am kältesten ist. Mittags ist das Licht am Castillete wunderschön. Den Nachmittag und frühen Abend verbringen Sie im beheizten Auditorium und kehren mit dem Bus zur Ermita zurück.",
+            "hu": "A tömegközlekedés télen meleg alternatívát kínál a gyaloglás helyett. Kezdjen a sugárúton, és szánjon időt a belvárosra. A busz kényelmesen elviszi a múzeumba, amikor kint a leghidegebb van. Délben a fények gyönyörűek a Castillete-nél. A délutánt és az estét töltse a fűtött auditóriumban, majd busszal térjen vissza az Ermitához.",
+            "ro": "Transportul public este o alternativă caldă la mersul pe jos iarna. Începeți la Paseo și vizitați centrul. Autobuzul vă duce confortabil la muzeu când afară este cel mai frig. La prânz, lumina la Castillete este superbă. Petreceți după-amiaza la Auditoriu și reveniți cu autobuzul la Ermita.",
+            "en": "Transit is a warm alternative to walking in winter. Start at the Paseo and visit the center. The bus takes you comfortably to the museum when it's coldest outside. At noon, the light at the Castillete is beautiful. Spend the afternoon in the heated Auditorium and return by bus to the Ermita."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Paseo de San Gregorio",
+              "tip_5lang": {
+                "de": "Warten Sie in einem der beheizten Cafés nahe der Haltestelle.",
+                "hu": "Várjon a megálló közeli fűtött kávézók egyikében.",
+                "ro": "Așteptați în una dintre cafenelele încălzite de lângă stație.",
+                "en": "Wait in one of the heated cafes near the stop."
+              }
+            },
+            {
+              "name": "Miner's Monument & Church",
+              "tip_5lang": {
+                "de": "Der Bus kommt hier alle 15-20 Minuten vorbei.",
+                "hu": "A busz itt 15-20 percenként jár.",
+                "ro": "Autobuzul trece pe aici la fiecare 15-20 de minute.",
+                "en": "The bus passes here every 15-20 minutes."
+              }
+            },
+            {
+              "name": "Mining Cluster: Mining Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die steilen Wege im Kalten zu vermeiden.",
+                "hu": "Használja a buszt, hogy elkerülje a meredek utakat a hidegben.",
+                "ro": "Folosiți autobuzul pentru a evita drumurile abrupte pe frig.",
+                "en": "Use the bus to avoid steep paths in the cold."
+              }
+            },
+            {
+              "name": "Castillete de Santa María headframe",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan für die Rückfahrt genau.",
+                "hu": "Pontosan ellenőrizze a visszaindulás menetrendjét.",
+                "ro": "Verificați cu atenție orarul pentru întoarcere.",
+                "en": "Check the return schedule carefully."
+              }
+            },
+            {
+              "name": "Culture Cluster: Auditorium",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist gut beleuchtet für den frühen Abend.",
+                "hu": "A megálló jól megvilágított a kora esti órákban.",
+                "ro": "Stația este bine iluminată pentru seara devreme.",
+                "en": "The stop is well-lit for the early evening."
+              }
+            },
+            {
+              "name": "Ermita de la Virgen de Gracia",
+              "tip_5lang": {
+                "de": "Letzte Fahrt oft gegen 21:00 Uhr; prüfen Sie den Aushang.",
+                "hu": "Az utolsó járat gyakran 21:00 körül indul; nézze meg a hirdetményt.",
+                "ro": "Ultima cursă este adesea în jurul orei 21:00; verificați afișajul.",
+                "en": "Last trip often around 9:00 PM; check the posted schedule."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter eine gute Möglichkeit, sich zwischen den Stopps aufzuwärmen.",
+              "Die Fahrpläne können an Feiertagen im Dezember variieren.",
+              "Tragen Sie warme Kleidung für die Wartezeiten an ungeschützten Haltestellen.",
+              "Die Linien 1 und 2 decken die meisten Sehenswürdigkeiten ab."
+            ],
+            "hu": [
+              "A buszok télen jó lehetőséget adnak a felmelegedésre a megállók között.",
+              "A menetrendek a decemberi ünnepek alatt változhatnak.",
+              "Viseljen meleg ruhát a nyitottabb megállókban való várakozáshoz.",
+              "Az 1-es és 2-es vonalak érintik a legtöbb látnivalót."
+            ],
+            "ro": [
+              "Autobuzele sunt o modalitate bună de a vă încălzi între stații iarna.",
+              "Orarele pot varia în timpul sărbătorilor din decembrie.",
+              "Purtați haine groase pentru perioadele de așteptare în stațiile neprotejate.",
+              "Liniile 1 și 2 acoperă majoritatea obiectivelor turistice."
+            ],
+            "en": [
+              "Buses are a great way to warm up between stops in winter.",
+              "Schedules may vary during December holidays.",
+              "Wear warm clothes for waiting times at unsheltered stops.",
+              "Lines 1 and 2 cover most of the major sights."
+            ]
+          }
+        }
       }
     }
   }

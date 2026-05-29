@@ -379,6 +379,206 @@
           "The weather in Ireland can change quickly, so pack a raincoat.",
           "Many shops and pubs are located along the main waterfront street."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag trotz Regen im geschützten Bereich des Kennedy Parks. Der Vormittag gehört den bewegenden Ausstellungen im Heritage Centre, während draußen der Hafen im Nebel versinkt. Nachmittags bietet die Titanic Experience Zuflucht vor den Schauern. Den Abschluss bildet die majestätische Kathedrale, deren Innenraum im Regenlicht besonders andächtig wirkt.",
+            "hu": "Kezdje a napot a Kennedy Park fedettebb részein, majd húzódjon be a kikötői köd elől a Heritage Centre falai közé. Ebéd után a Titanic Experience nyújt tökéletes menedéket a záporok elől. Délután a meredek utcákon óvatosan haladva érje el a katedrálist, amelynek belső tere ilyenkor is lenyűgöző, miközben odakint kopog az eső a színes házak tetőin.",
+            "ro": "Începeți ziua în Kennedy Park, folosind zonele adăpostite. Dimineața este ideală pentru a explora Heritage Centre în timp ce portul este cuprins de ceață. După-amiază, Titanic Experience oferă refugiul perfect împotriva ploii. Încheiați traseul la Catedrala St. Colman, unde interiorul vast oferă o atmosferă liniștită, departe de vremea instabilă de afară.",
+            "en": "Start your day in the sheltered spots of Kennedy Park before heading to the Heritage Centre to escape the harbor mist. Spend your afternoon indoors at the Titanic Experience as the rain picks up. Later, carefully navigate the colorful, steep streets to reach the Cathedral, which remains a dry and magnificent sanctuary despite the Irish downpour."
+          },
+          "stops": [
+            {
+              "name": "Kennedy Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Pavillon als Schutz.",
+                "hu": "Használja a pavilont eső elleni védelemnek.",
+                "ro": "Folosiți pavilionul pentru a vă adăposti.",
+                "en": "Use the Victorian bandstand for cover."
+              }
+            },
+            {
+              "name": "Titanic Memorial Garden",
+              "tip_5lang": {
+                "de": "Vorsicht, die Wege können rutschig sein.",
+                "hu": "Vigyázat, az utak csúszósak lehetnek.",
+                "ro": "Atenție, potecile pot fi alunecoase.",
+                "en": "Be careful, paths can be slippery."
+              }
+            },
+            {
+              "name": "Lusitania Memorial",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, halten Sie den Schirm fest.",
+                "hu": "Rövid megálló, tartsa erősen az esernyőt.",
+                "ro": "Oprire scurtă, țineți umbrela bine.",
+                "en": "Quick stop, hold your umbrella tight."
+              }
+            },
+            {
+              "name": "Cobh Heritage Centre",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um trocken zu bleiben.",
+                "hu": "Tökéletes hely a szárazon maradáshoz.",
+                "ro": "Locul perfect pentru a rămâne uscat.",
+                "en": "Perfect place to stay dry for a while."
+              }
+            },
+            {
+              "name": "Titanic Experience Cobh",
+              "tip_5lang": {
+                "de": "Ideal bei starkem Regen, komplett überdacht.",
+                "hu": "Ideális szakadó esőben, teljesen fedett.",
+                "ro": "Ideal în caz de ploaie, complet acoperit.",
+                "en": "Ideal during heavy rain, fully indoors."
+              }
+            },
+            {
+              "name": "The Deck of Cards",
+              "tip_5lang": {
+                "de": "Bunte Häuser glänzen schön im Regen.",
+                "hu": "A színes házak szépen csillognak az esőben.",
+                "ro": "Casele colorate strălucesc frumos în ploaie.",
+                "en": "Colorful houses look vibrant even in rain."
+              }
+            },
+            {
+              "name": "St. Colman's Cathedral",
+              "tip_5lang": {
+                "de": "Wunderbarer, trockener Rückzugsort.",
+                "hu": "Csodálatos, száraz menedékhely.",
+                "ro": "Un refugiu minunat și uscat.",
+                "en": "A wonderful, dry sanctuary."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die steilen Hügel.",
+              "Die Museen in Cobh bieten hervorragenden Schutz bei Schauern.",
+              "Ein stabiler Regenschirm ist bei Atlantikwinden unerlässlich.",
+              "Nutzen Sie die Cafés am Hafen für kurze Pausen im Trockenen."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a meredek, csúszós dombokon.",
+              "A múzeumok kiváló menedéket nyújtanak a záporok idején.",
+              "Az atlanti szélben egy erős esernyő elengedhetetlen.",
+              "Használja a kikötői kávézókat a rövid, száraz pihenőkhöz."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru dealurile abrupte.",
+              "Muzeele din Cobh oferă un adăpost excelent în timpul ploii.",
+              "O umbrelă rezistentă este esențială din cauza vântului.",
+              "Folosiți cafenelele din port pentru scurte pauze la uscat."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the steep, slippery hills.",
+              "The local museums offer excellent shelter during showers.",
+              "A sturdy umbrella is essential against the Atlantic winds.",
+              "Utilize harbor-side cafes for quick breaks to dry off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Cobh mit seiner klaren Luft. Der Vormittag führt durch die Parks zur wärmenden Ausstellung des Heritage Centre. Mittags wärmen Sie sich in der Titanic Experience auf, bevor das frühe Dämmerlicht die 'Deck of Cards'-Häuser in sanfte Farben taucht. Die Kathedrale bietet am späten Nachmittag einen friedlichen, geschützten Ort vor dem kalten Seewind.",
+            "hu": "Fedezze fel a téli Cobh friss, tiszta levegőjét. A délelőtti séta után melegedjen fel a Heritage Centre kiállításain. Ebéd után látogassa meg a Titanic Experience-t, majd használja ki az utolsó fényeket a 'Deck of Cards' fotózásához a korai naplemente előtt. A katedrális belső tere békés menedéket nyújt a hűvös tengeri szél elől.",
+            "ro": "Experimentați Cobh-ul de iarnă cu aerul său proaspăt și curat. După o plimbare dimineața, încălziți-vă la expozițiile de la Heritage Centre. Vizitați Titanic Experience după prânz, profitând de lumină înainte de apusul devreme pentru fotografii. Catedrala oferă un refugiu liniștit împotriva vântului rece de mare spre seară.",
+            "en": "Experience winter in Cobh with its crisp, clear air. After a brisk morning walk, warm up inside the Heritage Centre. Spend your midday at the Titanic Experience, then catch the golden hour at the 'Deck of Cards' before the early sunset. The Cathedral provides a peaceful, sheltered end to your day away from the chilly Atlantic breeze."
+          },
+          "stops": [
+            {
+              "name": "Kennedy Park",
+              "tip_5lang": {
+                "de": "Warme Kleidung gegen die Meeresbrise.",
+                "hu": "Réteges öltözet a tengeri szél ellen.",
+                "ro": "Haine groase împotriva brizelor marine.",
+                "en": "Dress warmly against the sea breeze."
+              }
+            },
+            {
+              "name": "Titanic Memorial Garden",
+              "tip_5lang": {
+                "de": "Ruhiger Ort für kurze Winterspaziergänge.",
+                "hu": "Csendes hely egy rövid téli sétához.",
+                "ro": "Loc liniștit pentru o scurtă plimbare.",
+                "en": "Quiet spot for a short winter stroll."
+              }
+            },
+            {
+              "name": "Lusitania Memorial",
+              "tip_5lang": {
+                "de": "Oft windig, Mütze und Schal einpacken.",
+                "hu": "Gyakran szeles, sapka és sál ajánlott.",
+                "ro": "Vânt puternic, purtați căciulă și fular.",
+                "en": "Often windy, pack a hat and scarf."
+              }
+            },
+            {
+              "name": "Cobh Heritage Centre",
+              "tip_5lang": {
+                "de": "Gut beheizt und sehr gemütlich.",
+                "hu": "Jól fűtött és nagyon hangulatos.",
+                "ro": "Bine încălzit și foarte primitor.",
+                "en": "Well-heated and very cozy inside."
+              }
+            },
+            {
+              "name": "Titanic Experience Cobh",
+              "tip_5lang": {
+                "de": "Perfekt zum Aufwärmen am Mittag.",
+                "hu": "Tökéletes a déli felmelegedéshez.",
+                "ro": "Perfect pentru a vă încălzi la prânz.",
+                "en": "Perfect for warming up at midday."
+              }
+            },
+            {
+              "name": "The Deck of Cards",
+              "tip_5lang": {
+                "de": "Fotografieren Sie vor 16:00 Uhr.",
+                "hu": "Készítsen fotókat 16:00 előtt.",
+                "ro": "Faceți fotografii înainte de ora 16:00.",
+                "en": "Take photos before 4 PM sunset."
+              }
+            },
+            {
+              "name": "St. Colman's Cathedral",
+              "tip_5lang": {
+                "de": "Abends stimmungsvoll beleuchtet.",
+                "hu": "Este hangulatosan megvilágított.",
+                "ro": "Iluminată atmosferic seara.",
+                "en": "Atmospherically lit in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Tragen Sie winddichte Kleidung wegen der exponierten Lage.",
+              "Viele Cafés schließen im Winter etwas früher als üblich.",
+              "Nutzen Sie die Museen als Wärmestationen während des Tages."
+            ],
+            "hu": [
+              "A nap télen már 16:30 körül lenyugszik.",
+              "Viseljen szélálló ruházatot a kitett tengerparti helyek miatt.",
+              "Sok kávézó télen a szokásosnál korábban zár be.",
+              "Használja a múzeumokat melegedőpontként a nap folyamán."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:30 iarna.",
+              "Purtați haine rezistente la vânt pe faleză.",
+              "Multe cafenele se închid mai devreme iarna.",
+              "Folosiți muzeele ca puncte de încălzire în timpul zilei."
+            ],
+            "en": [
+              "The sun sets as early as 4:30 PM in winter.",
+              "Wear windproof clothing due to the exposed coastal areas.",
+              "Many cafes close earlier than usual during winter months.",
+              "Use the museums as warming stations throughout the day."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +929,188 @@
           "Plan your route to avoid the busiest streets.",
           "Bring water, especially for the climb to the cathedral."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Cobh bei Regen erfordert Vorsicht auf den steilen Wegen. Starten Sie trocken im Heritage Centre. Der Vormittag führt zum Kennedy Park, während Sie bei Schauern schnell zur Titanic Experience flüchten können. Nachmittags erklimmen Sie den Hügel zur Kathedrale und genießen die Aussicht auf den wolkenverhangenen Hafen, bevor Sie vorsichtig zum 'Deck of Cards' abfahren.",
+            "hu": "Az esős Cobh-ban kerékpározva vigyázzon a meredek utakra. Kezdjen a Heritage Centre védelmében, majd guruljon el a Kennedy Parkhoz. A Titanic Experience tökéletes menedék a nagyobb záporok idején. Délután kapaszkodjon fel a katedrálishoz, élvezze a felhős kikötői kilátást, majd óvatosan ereszkedjen le a színes házsor felé.",
+            "ro": "Biciclitul în Cobh pe ploaie necesită atenție sporită pe pante. Începeți la Heritage Centre, apoi pedalați spre Kennedy Park. Titanic Experience este refugiul ideal în timpul averselor. După-amiază, urcați spre catedrală pentru o vedere panoramică asupra portului înnorat, apoi coborâți cu grijă spre 'Deck of Cards'.",
+            "en": "Cycling in rainy Cobh requires caution on the steep hills. Start dry at the Heritage Centre before pedaling to Kennedy Park. The Titanic Experience offers a perfect escape during heavy showers. In the afternoon, climb to the Cathedral for a misty harbor view, then descend carefully toward the 'Deck of Cards' photo spot."
+          },
+          "stops": [
+            {
+              "name": "Cobh Heritage Centre",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradständer vorhanden.",
+                "hu": "Biztonságos kerékpártároló elérhető.",
+                "ro": "Suport de biciclete securizat disponibil.",
+                "en": "Secure bike racks available here."
+              }
+            },
+            {
+              "name": "Kennedy Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei nassem Kopfsteinpflaster.",
+                "hu": "Vigyázat a nedves macskaköveken.",
+                "ro": "Atenție la pavajul umed.",
+                "en": "Watch out for wet cobblestones."
+              }
+            },
+            {
+              "name": "Titanic Experience Cobh",
+              "tip_5lang": {
+                "de": "Lange Pause zum Trocknen einlegen.",
+                "hu": "Tartson hosszú szünetet a száradáshoz.",
+                "ro": "Luați o pauză lungă pentru uscare.",
+                "en": "Take a long break to dry off."
+              }
+            },
+            {
+              "name": "Lusitania Memorial & Titanic Garden",
+              "tip_5lang": {
+                "de": "Rutschfeste Schuhe sind ratsam.",
+                "hu": "Csúszásmentes cipő javasolt.",
+                "ro": "Se recomandă încălțăminte aderentă.",
+                "en": "Non-slip footwear is recommended."
+              }
+            },
+            {
+              "name": "St. Colman's Cathedral",
+              "tip_5lang": {
+                "de": "Steiler Anstieg, bei Nässe rutschig.",
+                "hu": "Meredek emelkedő, vizesen csúszik.",
+                "ro": "Urcare abruptă, alunecoasă pe ploaie.",
+                "en": "Steep climb, slippery when wet."
+              }
+            },
+            {
+              "name": "The Deck of Cards",
+              "tip_5lang": {
+                "de": "Bremsen Sie beim Abstieg vorsichtig.",
+                "hu": "Fékezzen óvatosan az ereszkedéskor.",
+                "ro": "Frânați cu grijă la coborâre.",
+                "en": "Brake carefully during the descent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor den steilen Abfahrten.",
+              "Vermeiden Sie das Treten im Stehen auf nassem Asphalt.",
+              "Tragen Sie eine vollflächige Regenjacke und Regenhose.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket a meredek lejtők előtt.",
+              "Kerülje a kiállva tekerést a nedves aszfalton.",
+              "Viseljen teljes esőruházatot (dzseki és nadrág).",
+              "A sárvédő elengedhetetlen ilyen időjárásban."
+            ],
+            "ro": [
+              "Verificați frânele înainte de coborârile abrupte.",
+              "Evitați pedalatul în picioare pe asfalt umed.",
+              "Purtați costum complet de ploaie.",
+              "Apărătorile de noroi sunt obligatorii pe această vreme."
+            ],
+            "en": [
+              "Check your brakes before the steep descents.",
+              "Avoid standing while pedaling on wet asphalt.",
+              "Wear a full rain jacket and waterproof trousers.",
+              "Mudguards are a must-have in this weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch Cobh bietet klare Sichten, aber kalten Wind. Nutzen Sie den Vormittag im Heritage Centre zum Aufwärmen. Radeln Sie mittags am Wasser entlang zum Kennedy Park und zur Titanic Experience. Bevor die Sonne früh untergeht, erklimmen Sie den Hügel zur Kathedrale. Das Licht am Nachmittag ist perfekt für Fotos der 'Deck of Cards', bevor es frostig wird.",
+            "hu": "A téli kerékpározás Cobh-ban tiszta kilátást, de hideg szelet tartogat. Kezdje a napot a Heritage Centre-ben, hogy átmelegedjen. Teerjen el a vízparton a Kennedy Parkhoz és a Titanic Experience-hez. Mielőtt a nap korán lenyugszik, másszon fel a katedrálishoz. A délutáni fények tökéletesek a 'Deck of Cards' fotózásához, mielőtt beáll a fagy.",
+            "ro": "O tură cu bicicleta iarna în Cobh oferă panorame clare, dar vânt rece. Folosiți dimineața la Heritage Centre pentru a vă încălzi. Pedalați pe faleză spre Kennedy Park și Titanic Experience. Înainte ca soarele să apună devreme, urcați spre catedrală. Lumina de după-amiază este perfectă pentru fotografii înainte de îngheț.",
+            "en": "A winter bike tour in Cobh offers clear views but biting winds. Spend your morning warming up at the Heritage Centre. Cycle along the waterfront to Kennedy Park and the Titanic Experience at midday. Before the early sunset, tackle the hill to the Cathedral. The late afternoon light is ideal for 'Deck of Cards' photos before the frost sets in."
+          },
+          "stops": [
+            {
+              "name": "Cobh Heritage Centre",
+              "tip_5lang": {
+                "de": "Warme Getränke im Café genießen.",
+                "hu": "Élvezze a meleg italokat a kávézóban.",
+                "ro": "Savurați băuturi calde la cafenea.",
+                "en": "Enjoy warm drinks at the cafe."
+              }
+            },
+            {
+              "name": "Kennedy Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor Reif auf Holzbänken.",
+                "hu": "Vigyázat, zúzmarásak lehetnek a padok.",
+                "ro": "Atenție la chiciura de pe bănci.",
+                "en": "Watch out for frost on benches."
+              }
+            },
+            {
+              "name": "Titanic Experience Cobh",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad im Sichtfeld ab.",
+                "hu": "Parkolja le a bringát látótávolságban.",
+                "ro": "Parcați bicicleta la vedere.",
+                "en": "Park your bike within sight."
+              }
+            },
+            {
+              "name": "Lusitania Memorial & Titanic Garden",
+              "tip_5lang": {
+                "de": "Kurze Pause, bleiben Sie in Bewegung.",
+                "hu": "Rövid szünet, maradjon mozgásban.",
+                "ro": "Pauză scurtă, rămâneți în mișcare.",
+                "en": "Short break, keep moving to stay warm."
+              }
+            },
+            {
+              "name": "St. Colman's Cathedral",
+              "tip_5lang": {
+                "de": "Herrlicher Blick im Winterlicht.",
+                "hu": "Pazar kilátás a téli fényekben.",
+                "ro": "Vedere superbă în lumina de iarnă.",
+                "en": "Stunning views in the winter light."
+              }
+            },
+            {
+              "name": "The Deck of Cards",
+              "tip_5lang": {
+                "de": "Bester Fotostopp vor der Dämmerung.",
+                "hu": "Legjobb fotópont szürkület előtt.",
+                "ro": "Cel mai bun punct foto înainte de amurg.",
+                "en": "Best photo spot before dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Handschuhe und winddichte Kleidung.",
+              "Die Sonne verschwindet gegen 16:30 Uhr hinter den Hügeln.",
+              "Achten Sie auf Glatteis in schattigen Gassen.",
+              "Beleuchtung am Fahrrad ist im Winter unerlässlich."
+            ],
+            "hu": [
+              "Viseljen termokesztyűt és szélálló ruházatot.",
+              "A nap 16:30 körül tűnik el a dombok mögött.",
+              "Ügyeljen a jegesedésre az árnyékos utcákban.",
+              "A kerékpár-világítás télen elengedhetetlen."
+            ],
+            "ro": [
+              "Purtați mănuși termice și haine rezistente la vânt.",
+              "Soarele dispare după dealuri în jurul orei 16:30.",
+              "Atenție la porțiunile cu gheață la umbră.",
+              "Luminile de bicicletă sunt esențiale iarna."
+            ],
+            "en": [
+              "Wear thermal gloves and windproof clothing.",
+              "The sun disappears behind the hills around 4:30 PM.",
+              "Watch out for black ice in shaded alleyways.",
+              "Bike lights are essential during winter months."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1085,6 +1467,188 @@
           "Allow extra time for finding a parking space, particularly during peak season.",
           "Be mindful of narrow and steep streets when driving in town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Cobh bei Regen komfortabel. Vormittags führt der Weg zum Spike Island Ferry Terminal (wetterabhängig). Mittags genießen Sie ein gemütliches Essen im Zentrum. Der Nachmittag gehört dem Heritage und Titanic Experience Cluster, wo Sie direkt parken können. Den Tag beschließen Sie mit einem Besuch der Kathedrale und dem berühmten Fotostopp, geschützt im Auto.",
+            "hu": "Autóval kényelmesen felfedezheti Cobh-t esőben is. Délelőtt induljon a Spike Island komphoz (időjárásfüggő). Ebédeljen egy hangulatos helyen a központban. A délutánt töltse a Heritage és Titanic Experience múzeumoknál, ahol közvetlen parkolási lehetőség van. Zárja a napot a katedrálisnál és a híres fotópontnál, védve az esőtől.",
+            "ro": "Cu mașina, puteți explora Cobh confortabil chiar și pe ploaie. Dimineața mergeți spre terminalul Spike Island (în funcție de vreme). Luați prânzul în centru, apoi petreceți după-amiaza la Heritage și Titanic Experience. Încheiați ziua la catedrală și la punctul foto faimos, protejați în interiorul mașinii.",
+            "en": "Exploring Cobh by car is a comfortable way to handle the rain. Start your morning at the Spike Island Ferry Terminal (weather permitting). Enjoy a cozy lunch in the center, then spend your afternoon at the Heritage and Titanic Experience cluster with easy parking. End the day at the Cathedral and the iconic photo spot, staying dry in your vehicle."
+          },
+          "stops": [
+            {
+              "name": "Spike Island Ferry Terminal",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fährstatus bei Sturm.",
+                "hu": "Ellenőrizze a kompjáratokat viharban.",
+                "ro": "Verificați statusul feribotului pe furtună.",
+                "en": "Check ferry status during storms."
+              }
+            },
+            {
+              "name": "Lunch in Cobh Centre",
+              "tip_5lang": {
+                "de": "Parkhaus in der Nähe nutzen.",
+                "hu": "Használja a közeli parkolóházat.",
+                "ro": "Folosiți parcarea din apropiere.",
+                "en": "Use a nearby parking garage."
+              }
+            },
+            {
+              "name": "Titanic Experience & Heritage Centre Cluster",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt am Eingang.",
+                "hu": "Nagy parkoló közvetlenül a bejáratnál.",
+                "ro": "Parcare mare chiar la intrare.",
+                "en": "Large parking lot right at the entrance."
+              }
+            },
+            {
+              "name": "St. Colman's Cathedral Car Park",
+              "tip_5lang": {
+                "de": "Kurzer, nasser Weg zur Kirche.",
+                "hu": "Rövid, vizes út a templomig.",
+                "ro": "Drum scurt și umed până la biserică.",
+                "en": "Short, wet walk to the church entrance."
+              }
+            },
+            {
+              "name": "St. Colman's Cathedral",
+              "tip_5lang": {
+                "de": "Innenraum bietet exzellenten Schutz.",
+                "hu": "A belső tér kiváló menedéket nyújt.",
+                "ro": "Interiorul oferă un adăpost excelent.",
+                "en": "The interior provides excellent shelter."
+              }
+            },
+            {
+              "name": "Deck of Cards Photo Spot",
+              "tip_5lang": {
+                "de": "Vom Auto aus fotografieren möglich.",
+                "hu": "Az autóból is lehet fotózni.",
+                "ro": "Se poate fotografia din mașină.",
+                "en": "Photography possible from inside the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf tiefstehende Wolken bei der Aussicht.",
+              "Die Straßen in Cobh sind sehr schmal und bei Regen rutschig.",
+              "Nutzen Sie die Parkplätze direkt bei den Museen.",
+              "Die Fähre nach Spike Island kann bei Wellengang unruhig sein."
+            ],
+            "hu": [
+              "Ügyeljen az alacsony felhőzetre a kilátópontoknál.",
+              "Cobh utcái nagyon szűkek és esőben csúszósak.",
+              "Használja a közvetlenül a múzeumoknál lévő parkolókat.",
+              "A Spike Island-i komp hullámos vízen rázkódhat."
+            ],
+            "ro": [
+              "Atenție la norii joși în punctele de observație.",
+              "Străzile din Cobh sunt înguste și alunecoase pe ploaie.",
+              "Folosiți parcările situate direct lângă muzee.",
+              "Feribotul către Spike Island poate fi agitat pe mare rea."
+            ],
+            "en": [
+              "Watch out for low clouds affecting the views.",
+              "Cobh's streets are very narrow and slippery when wet.",
+              "Use parking lots located directly at the museums.",
+              "The ferry to Spike Island can be choppy in rough weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto die nötige Wärme zwischen den Stopps in Cobh. Beginnen Sie am Ferry Terminal, bevor Sie zum Mittagessen ins Zentrum fahren. Der Nachmittag gehört den Museen, wo Sie dem kalten Wind entfliehen. Besuchen Sie die Kathedrale rechtzeitig, um das letzte Tageslicht zu nutzen, und machen Sie ein schnelles Foto der 'Deck of Cards', bevor es dunkel wird.",
+            "hu": "Télen az autó biztosítja a szükséges meleget a cobh-i állomások között. Kezdjen a kompállomásnál, majd hajtson a központba ebédelni. A délután a múzeumoké, ahol elmenekülhet a hideg szél elől. Látogassa meg a katedrálist időben, hogy kihasználja az utolsó fényeket, majd lőjön egy gyors fotót a 'Deck of Cards'-ról sötétedés előtt.",
+            "ro": "Iarna, mașina oferă căldura necesară între opririle din Cobh. Începeți la terminalul de feribot, apoi mergeți în centru pentru prânz. După-amiaza este dedicată muzeelor, ferite de vântul rece. Vizitați catedrala la timp pentru a prinde ultima lumină, apoi faceți o poză rapidă la 'Deck of Cards'.",
+            "en": "In winter, your car provides a warm sanctuary between stops in Cobh. Start at the ferry terminal before driving to the center for lunch. Spend the afternoon in the museums to escape the biting wind. Visit the Cathedral in time to catch the last daylight, and grab a quick photo of the 'Deck of Cards' before darkness falls."
+          },
+          "stops": [
+            {
+              "name": "Spike Island Ferry Terminal",
+              "tip_5lang": {
+                "de": "Winterfahrplan unbedingt prüfen.",
+                "hu": "Téli menetrendet mindenképp ellenőrizze.",
+                "ro": "Verificați orarul de iarnă.",
+                "en": "Check the winter ferry schedule."
+              }
+            },
+            {
+              "name": "Lunch in Cobh Centre",
+              "tip_5lang": {
+                "de": "Gemütliche Pubs mit Kamin suchen.",
+                "hu": "Keressen hangulatos, kandallós pubokat.",
+                "ro": "Căutați pub-uri primitoare cu șemineu.",
+                "en": "Look for cozy pubs with fireplaces."
+              }
+            },
+            {
+              "name": "Titanic Experience & Heritage Centre Cluster",
+              "tip_5lang": {
+                "de": "Vermeiden Sie lange Wartezeiten draußen.",
+                "hu": "Kerülje a hosszú várakozást odakint.",
+                "ro": "Evitați așteptarea prelungită afară.",
+                "en": "Avoid waiting outside for too long."
+              }
+            },
+            {
+              "name": "St. Colman's Cathedral Car Park",
+              "tip_5lang": {
+                "de": "Parkplatz kann bei Frost glatt sein.",
+                "hu": "A parkoló fagyban csúszós lehet.",
+                "ro": "Parcarea poate fi alunecoasă pe îngheț.",
+                "en": "The parking lot can be icy during frost."
+              }
+            },
+            {
+              "name": "St. Colman's Cathedral",
+              "tip_5lang": {
+                "de": "Dick anziehen, die Kirche ist kühl.",
+                "hu": "Öltözzön fel jól, a templom hűvös.",
+                "ro": "Îmbrăcați-vă bine, biserica e răcoroasă.",
+                "en": "Dress warmly, the church can be chilly."
+              }
+            },
+            {
+              "name": "Deck of Cards Photo Spot",
+              "tip_5lang": {
+                "de": "Licht verblasst nach 16:30 Uhr schnell.",
+                "hu": "A fény 16:30 után gyorsan fogy.",
+                "ro": "Lumina scade rapid după ora 16:30.",
+                "en": "Light fades fast after 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Rechnen Sie mit früh einsetzender Dunkelheit ab 16:30 Uhr.",
+              "Die steilen Straßen können bei Frost gefährlich sein.",
+              "Heizung im Auto zwischen den Stopps voll nutzen.",
+              "Einige touristische Angebote haben eingeschränkte Winterzeiten."
+            ],
+            "hu": [
+              "Számoljon a korai, 16:30-as sötétedéssel.",
+              "A meredek utcák fagyban veszélyesek lehetnek.",
+              "Használja ki az autó fűtését az állomások között.",
+              "Néhány turisztikai helyszín télen rövidebb ideig tart nyitva."
+            ],
+            "ro": [
+              "Luați în calcul întunericul de la ora 16:30.",
+              "Străzile abrupte pot fi periculoase pe îngheț.",
+              "Folosiți la maximum căldura din mașină între opriri.",
+              "Unele atracții au program redus pe timp de iarnă."
+            ],
+            "en": [
+              "Expect darkness to set in by 4:30 PM.",
+              "Steep roads can be hazardous during frost.",
+              "Make full use of the car's heater between stops.",
+              "Some tourist attractions have limited winter hours."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1441,6 +2005,188 @@
           "Bus services within Cobh are not very frequent, so plan for some waiting time.",
           "Most waterfront attractions are within easy walking distance of the train station."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Zug bringt Sie direkt zum Heritage Centre, dem perfekten Start bei Regen. Nachmittags erreichen Sie die Titanic Experience über die wasserfrontnahen Wege. Nutzen Sie den Bus, um den steilen Hügel zur Kathedrale trocken zu überwinden. Oben angekommen, bietet die Kirche Schutz, bevor Sie den Abstieg zu den bunten Häusern wagen, während der Regen den Hafen in Grau taucht.",
+            "hu": "A vonat közvetlenül a Heritage Centre-hez visz, ami tökéletes kezdés esőben. Délután a vízparti utakon érheti el a Titanic Experience-t. Használja a buszt, hogy szárazon jusson fel a meredek dombra a katedrálishoz. Fent a templom nyújt menedéket, mielőtt leereszkedne a színes házakhoz, miközben az eső szürkére festi a kikötőt.",
+            "ro": "Trenul vă lasă direct la Heritage Centre, începutul perfect pe ploaie. După-amiază, ajungeți la Titanic Experience pe drumurile de pe faleză. Folosiți autobuzul pentru a urca dealul spre catedrală fără a vă uda. Sus, biserica oferă adăpost înainte de a coborî spre casele colorate în timp ce ploaia domină portul.",
+            "en": "The train drops you right at the Heritage Centre, a perfect rainy day start. In the afternoon, follow the waterfront paths to the Titanic Experience. Use the bus to conquer the steep hill to the Cathedral while staying dry. Once there, the church offers shelter before you descend to the colorful houses as the rain blurs the harbor horizon."
+          },
+          "stops": [
+            {
+              "name": "Cobh Train Station & Heritage Centre",
+              "tip_5lang": {
+                "de": "Direkter Zugang vom Bahnsteig.",
+                "hu": "Közvetlen bejárat a peronról.",
+                "ro": "Acces direct de pe peron.",
+                "en": "Direct access from the train platform."
+              }
+            },
+            {
+              "name": "Kennedy Park & Waterfront",
+              "tip_5lang": {
+                "de": "Bushaltestellen bieten wenig Schutz.",
+                "hu": "A buszmegállók kevés védelmet adnak.",
+                "ro": "Stațiile de autobuz oferă puțin adăpost.",
+                "en": "Bus stops offer limited shelter here."
+              }
+            },
+            {
+              "name": "Titanic Experience & Memorials",
+              "tip_5lang": {
+                "de": "Ideal zum Warten auf den nächsten Bus.",
+                "hu": "Ideális a következő buszra váráshoz.",
+                "ro": "Ideal pentru a aștepta următorul autobuz.",
+                "en": "Ideal place to wait for the next bus."
+              }
+            },
+            {
+              "name": "Bus Stop for the Hill",
+              "tip_5lang": {
+                "de": "Stellen Sie sich unter das Vordach.",
+                "hu": "Álljon be az előtető alá.",
+                "ro": "Stați sub copertină în timp ce așteptați.",
+                "en": "Stand under the canopy while waiting."
+              }
+            },
+            {
+              "name": "St. Colman's Cathedral",
+              "tip_5lang": {
+                "de": "Kathedrale ist der beste Regenschutz.",
+                "hu": "A katedrális a legjobb esővédelem.",
+                "ro": "Catedrala este cel mai bun adăpost.",
+                "en": "The Cathedral is the best rain shelter."
+              }
+            },
+            {
+              "name": "Deck of Cards & Descent",
+              "tip_5lang": {
+                "de": "Rutschfeste Schuhe für den Abstieg.",
+                "hu": "Csúszásmentes cipő a leereszkedéshez.",
+                "ro": "Încălțăminte aderentă pentru coborâre.",
+                "en": "Non-slip shoes needed for the descent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge aus Cork fahren stündlich und sind wetterfest.",
+              "Nutzen Sie die 'TFI Live' App für Echtzeit-Busdaten.",
+              "Die Busse können bei starkem Regen Verspätung haben.",
+              "Der Bahnhofsbereich ist komplett überdacht."
+            ],
+            "hu": [
+              "A Corkból induló vonatok óránként járnak és kényelmesek.",
+              "Használja a 'TFI Live' alkalmazást a buszokhoz.",
+              "Heves esőzéskor a buszok késhetnek.",
+              "A vasútállomás környéke teljesen fedett."
+            ],
+            "ro": [
+              "Trenurile din Cork circulă la oră și sunt sigure.",
+              "Folosiți aplicația 'TFI Live' pentru date în timp real.",
+              "Autobuzele pot avea întârzieri pe ploaie torențială.",
+              "Zona gării este complet acoperită."
+            ],
+            "en": [
+              "Trains from Cork run hourly and are weatherproof.",
+              "Use the 'TFI Live' app for real-time bus data.",
+              "Buses may experience delays during heavy rain.",
+              "The train station area is fully sheltered."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Zug erreichen Sie Cobh im Winter bequem und warm. Vormittags wärmen Sie sich im Heritage Centre auf, bevor Sie einen kurzen Spaziergang am Kennedy Park machen. Die Titanic Experience ist Ihr Mittagshalt. Nehmen Sie den Bus zum Hügel, um die Kathedrale im goldenen Winterlicht zu sehen. Der Abstieg zu den 'Deck of Cards' muss vor Sonnenuntergang erfolgen, bevor die Kälte anzieht.",
+            "hu": "Vonattal kényelmesen és melegen érkezhet Cobh-ba télen. Délelőtt a Heritage Centre-ben melegedhet fel, majd tegyen egy rövid sétát a Kennedy Parknál. Ebédidőben a Titanic Experience várja. Menjen busszal a dombra, hogy láthassa a katedrálist a téli fényekben. A 'Deck of Cards'-hoz még naplemente előtt érjen oda, mielőtt beáll a fagy.",
+            "ro": "Cu trenul ajungeți confortabil și la căldură în Cobh iarna. Dimineața încălziți-vă la Heritage Centre înainte de o plimbare scurtă. Titanic Experience este destinația de prânz. Luați autobuzul spre deal pentru catedrală în lumina de iarnă. Coborâți spre 'Deck of Cards' înainte de apus și de ger.",
+            "en": "Arrive in Cobh comfortably and warm by train this winter. Warm up at the Heritage Centre in the morning before a brisk walk by Kennedy Park. Spend your midday at the Titanic Experience. Take the bus up the hill to see the Cathedral in the golden winter light. Make sure to descend to the 'Deck of Cards' before sunset, before the nightly frost sets in."
+          },
+          "stops": [
+            {
+              "name": "Cobh Train Station & Heritage Centre",
+              "tip_5lang": {
+                "de": "Wartesaal ist im Winter beheizt.",
+                "hu": "A váróterem télen fűtött.",
+                "ro": "Sala de așteptare este încălzită iarna.",
+                "en": "The waiting room is heated in winter."
+              }
+            },
+            {
+              "name": "Kennedy Park & Waterfront",
+              "tip_5lang": {
+                "de": "Frischer Wind am Wasser, Schal tragen.",
+                "hu": "Friss szél a víznél, viseljen sálat.",
+                "ro": "Vânt tăios pe faleză, purtați fular.",
+                "en": "Brisk wind by the water, wear a scarf."
+              }
+            },
+            {
+              "name": "Titanic Experience & Memorials",
+              "tip_5lang": {
+                "de": "Guter Ort für eine warme Pause.",
+                "hu": "Jó hely egy meleg szünethez.",
+                "ro": "Loc bun pentru o pauză la căldură.",
+                "en": "Good spot for a warm break."
+              }
+            },
+            {
+              "name": "Bus Stop for the Hill",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter seltener.",
+                "hu": "A buszok télen ritkábban járnak.",
+                "ro": "Autobuzele circulă mai rar iarna.",
+                "en": "Buses run less frequently in winter."
+              }
+            },
+            {
+              "name": "St. Colman's Cathedral",
+              "tip_5lang": {
+                "de": "Besuch vor 16:00 Uhr empfohlen.",
+                "hu": "Látogatás 16:00 előtt javasolt.",
+                "ro": "Se recomandă vizitarea înainte de 16:00.",
+                "en": "Visit before 4 PM recommended."
+              }
+            },
+            {
+              "name": "Deck of Cards & Descent",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis auf den Stufen.",
+                "hu": "Vigyázat, jegesek lehetnek a lépcsők.",
+                "ro": "Atenție la gheața de pe trepte.",
+                "en": "Watch out for ice on the steps."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Züge bieten die zuverlässigste Verbindung im Winter.",
+              "Achten Sie auf den speziellen Winterfahrplan der Busse.",
+              "Die Dämmerung beginnt bereits gegen 16:15 Uhr.",
+              "Im Bahnhof gibt es saubere, warme Toiletten."
+            ],
+            "hu": [
+              "A vonatok a legmegbízhatóbbak télen.",
+              "Ügyeljen a buszok speciális téli menetrendjére.",
+              "A szürkület már 16:15 körül elkezdődik.",
+              "A vasútállomáson tiszta, meleg mosdók találhatók."
+            ],
+            "ro": [
+              "Trenurile sunt cea mai sigură opțiune iarna.",
+              "Atenție la orarul special de iarnă al autobuzelor.",
+              "Amurgul începe deja în jurul orei 16:15.",
+              "În gară găsiți toalete curate și încălzite."
+            ],
+            "en": [
+              "Trains offer the most reliable connection in winter.",
+              "Check the specific winter bus schedules.",
+              "Twilight begins as early as 4:15 PM.",
+              "The train station has clean, warm restrooms."
+            ]
+          }
+        }
       }
     }
   }

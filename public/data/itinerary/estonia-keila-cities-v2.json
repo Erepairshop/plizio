@@ -342,6 +342,188 @@
           "Check the museum's opening hours in advance.",
           "Although the town is small, the walk between the manor and the town center is longer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Keila beginnt im Stadtpark, wo die dichten Baumkronen den ersten Schutz bieten. Die St. Michaelis-Kirche ist ein idealer Ort, um der Nässe zu entfliehen und die Stille zu genießen.\n\nMittags bietet das Harju-Kreismuseum im ehemaligen Herrenhaus reichlich Indoor-Programm. Die Ausstellungen zur lokalen Geschichte lassen den Regen draußen vergessen.\n\nNachmittags führt ein kurzer, nasser Spaziergang zum Herrenhausareal. Die historischen Gebäude wirken im Nebel besonders atmosphärisch. Ein langes Mittagessen im Veski Kõrts wärmt Geist und Körper auf.\n\nDer Tag endet sicher am beheizten Bahnhof, während man auf den Zug wartet. Die beleuchteten nassen Straßen von Keila spiegeln die Abendlichter wider.",
+            "hu": "Az esős reggel Keilában a park fái alatt kezdődik, ahol a lombkorona felfogja a cseppek javát. A Szent Mihály-templom tökéletes menedék a reggeli zápor elől.\n\nDélben a Harju Megyei Múzeum falai között böngészhetünk. A kiállítások hosszú időre lekötnek, miközben kint dobol az eső az ablakokon.\n\nDélután a kúria épületei közötti séta ködös, misztikus hangulatot áraszt. A Veski Kõrts étteremben elfogyasztott meleg ebéd segít átvészelni a nyirkos időt.\n\nAz este a vasútállomás várótermében ér véget. Az esőben úszó Keila fényei csillognak a vizes aszfalton, mielőtt felszállnánk a hazafelé tartó vonatra.",
+            "ro": "O dimineață ploioasă în Keila începe în parcul central, unde arborii oferă o primă protecție. Biserica Sf. Mihail este refugiul ideal pentru a scăpa de umezeală.\n\nLa prânz, Muzeul Județean Harju oferă un program interior bogat. Expozițiile despre istoria locală te fac să uiți de ploaia de afară.\n\nDupă-amiaza, o scurtă plimbare spre conac dezvăluie clădiri istorice învăluite în ceață. Un prânz prelungit la Veski Kõrts reîncălzește atmosfera.\n\nZiua se încheie în siguranță la gara încălzită. Străzile umede ale orașului reflectă luminile serii într-un mod pitoresc înainte de plecare.",
+            "en": "A rainy morning in Keila starts under the park's canopy, offering the first layer of shelter. St. Michael's Church is the perfect spot to escape the wet weather.\n\nAt noon, the Harju County Museum provides a great indoor alternative. The local history exhibits keep you engaged while the rain drums on the roof.\n\nIn the afternoon, the manor grounds look mystical in the mist. A long, warm lunch at Veski Kõrts is essential to dry off and recover.\n\nThe day concludes at the heated train station. The wet streets of Keila reflect the evening lights beautifully as you wait for your connection."
+          },
+          "stops": [
+            {
+              "name": "Keila Central Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die asphaltierten Wege, um Pfützen zu vermeiden.",
+                "hu": "Használja az aszfaltozott utakat a tócsák elkerülésére.",
+                "ro": "Folosiți aleile asfaltate pentru a evita bălțile.",
+                "en": "Stick to the paved paths to avoid puddles."
+              }
+            },
+            {
+              "name": "St. Michael's Church",
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um den Regenschirm kurz zu trocknen.",
+                "hu": "Kiváló hely az esernyő rövid megszárítására.",
+                "ro": "Un loc excelent pentru a usca umbrela pentru scurt timp.",
+                "en": "An excellent spot to let your umbrella dry for a bit."
+              }
+            },
+            {
+              "name": "Harju County Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, um dem Regen zu entgehen.",
+                "hu": "Töltsön itt több időt, hogy elkerülje a kinti esőt.",
+                "ro": "Planificați mai mult timp aici pentru a evita ploaia.",
+                "en": "Spend extra time here to stay out of the rain."
+              }
+            },
+            {
+              "name": "Keila Manor",
+              "tip_5lang": {
+                "de": "Die Fassade bietet unter den Vorsprüngen Schutz.",
+                "hu": "Az épület homlokzata menedéket nyújt az eresz alatt.",
+                "ro": "Fațada clădirii oferă protecție sub streșini.",
+                "en": "The building's facade offers shelter under the eaves."
+              }
+            },
+            {
+              "name": "Lunch at 'Veski Kõrts' Restaurant",
+              "tip_5lang": {
+                "de": "Die heiße Suppe ist bei diesem Wetter ein Muss.",
+                "hu": "A forró leves kötelező ebben a nyirkos időben.",
+                "ro": "Supa fierbinte este obligatorie pe această vreme.",
+                "en": "Hot soup is a must-have in this damp weather."
+              }
+            },
+            {
+              "name": "Historic Train Station Building",
+              "tip_5lang": {
+                "de": "Der Wartesaal ist trocken und gut beheizt.",
+                "hu": "A váróterem száraz és jól fűtött.",
+                "ro": "Sala de așteptare este uscată și bine încălzită.",
+                "en": "The waiting room is dry and well-heated."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein Regenponcho ist bei estnischem Wind besser als ein Schirm.",
+              "Die Wege zwischen den Sehenswürdigkeiten sind kurz, aber oft windig.",
+              "Das Museum bietet Schließfächer für nasse Mäntel.",
+              "Prüfen Sie die Zugzeiten vorab, um langes Warten im Freien zu vermeiden."
+            ],
+            "hu": [
+              "Az észt szélben az esőponcsó praktikusabb, mint az esernyő.",
+              "A látnivalók közötti távolság kicsi, de a szél miatt fázhatunk.",
+              "A múzeumban van ruhatár a vizes kabátoknak.",
+              "Ellenőrizze a vonatmenetrendet, hogy ne kelljen sokat várni kint."
+            ],
+            "ro": [
+              "O pelerină de ploaie este mai utilă decât o umbrelă în vântul estonian.",
+              "Distanțele sunt mici, dar vântul poate face plimbarea neplăcută.",
+              "Muzeul oferă spații pentru depozitarea hainelor umede.",
+              "Verificați mersul trenurilor pentru a minimiza așteptarea afară."
+            ],
+            "en": [
+              "A raincoat is more effective than an umbrella against Estonian wind.",
+              "Walking distances are short, but the wind can be biting when wet.",
+              "The museum has lockers or racks for your wet outer gear.",
+              "Check train schedules in advance to avoid waiting on the platform."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen in Keila verwandelt den Zentralpark in ein weißes Wunderland. Die Kälte beißt, aber der Weg zur Kirche ist kurz und der Schnee knirscht unter den Stiefeln.\n\nMittags ist das Harju-Kreismuseum eine warme Oase. Die dicken Mauern des Herrenhauses halten die arktische Kälte draußen, während man in die Geschichte eintaucht.\n\nNachmittags erreicht man das Herrenhaus im fahlen Winterlicht. Da die Sonne früh untergeht, ist die Atmosphäre zur blauen Stunde am Veski Kõrts unbeschreiblich gemütlich.\n\nDer Abend bricht früh herein. Der beleuchtete Bahnhof wirkt im Schneefall wie aus einem Märchen, während man sich auf die Rückreise vorbereitet.",
+            "hu": "A téli reggel Keilában fehér varázsvilággá változtatja a parkot. A hideg csípős, de a templomhoz vezető út rövid, és a hó ropog a talp alatt.\n\nDélben a Harju Megyei Múzeum meleg oázisként vár. A kúria vastag falai távol tartják a fagyot, amíg mi a helyi történelemben kalandozunk.\n\nDélután a kúria épületei a korai alkonyat fényeiben úsznak. Mivel korán sötétedik, a Veski Kõrts belső melege különösen hívogató.\n\nAz este korán beköszönt. A kivilágított vasútállomás a hulló hóban mesebeli látványt nyújt, mielőtt visszaindulnánk.",
+            "ro": "O dimineață de iarnă în Keila transformă parcul central într-un tărâm alb. Frigul este tăios, dar drumul spre biserică este scurt și zăpada scârțâie sub ghete.\n\nLa prânz, Muzeul Județean Harju este o oază de căldură. Zidurile groase ale conacului țin gerul la distanță în timp ce explorezi istoria.\n\nDupă-amiaza, conacul se vede în lumina palidă a iernii. Deoarece soarele apune devreme, atmosfera la Veski Kõrts este extrem de primitoare.\n\nSeara coboară repede. Gara iluminată arată ca într-un basm sub ninsoare, oferind un final perfect zilei în Keila.",
+            "en": "A winter morning in Keila transforms the Central Park into a white wonderland. The air is crisp, and the short walk to the church is refreshing on the crunching snow.\n\nAt noon, the Harju County Museum serves as a warm sanctuary. The manor's thick walls keep the Arctic chill away while you explore the exhibits.\n\nIn the afternoon, visit the manor grounds during the pale winter light. With the early sunset, the cozy atmosphere of Veski Kõrts is the perfect refuge.\n\nThe evening arrives early. The illuminated train station looks like a scene from a fairy tale in the falling snow as you prepare to head back."
+          },
+          "stops": [
+            {
+              "name": "Keila Central Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Wegen unter dem Neuschnee.",
+                "hu": "Vigyázat, a friss hó alatt jegesek lehetnek az utak.",
+                "ro": "Atenție la porțiunile înghețate de sub zăpada proaspătă.",
+                "en": "Watch out for icy patches hidden under fresh snow."
+              }
+            },
+            {
+              "name": "St. Michael's Church",
+              "tip_5lang": {
+                "de": "Oft ist es drinnen kühler als erwartet, behalten Sie den Mantel an.",
+                "hu": "Bent gyakran hűvösebb van a vártnál, ne vegye le a kabátot.",
+                "ro": "Interiorul poate fi mai rece decât vă așteptați, păstrați haina.",
+                "en": "It can be colder inside than expected; keep your coat on."
+              }
+            },
+            {
+              "name": "Harju County Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch, um sich gründlich aufzuwärmen.",
+                "hu": "Használja ki a látogatást a teljes átmelegedésre.",
+                "ro": "Profitați de vizită pentru a vă încălzi bine.",
+                "en": "Use this visit to thoroughly warm up before the next walk."
+              }
+            },
+            {
+              "name": "Keila Manor",
+              "tip_5lang": {
+                "de": "Die Parks rundherum sind im Winter wunderschöne Fotomotive.",
+                "hu": "A kúria körüli park télen gyönyörű fotótéma.",
+                "ro": "Parcurile din jur sunt locuri superbe pentru fotografii iarna.",
+                "en": "The surrounding grounds are beautiful for winter photography."
+              }
+            },
+            {
+              "name": "Lunch at 'Veski Kõrts' Restaurant",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Platz in der Nähe des Ofens.",
+                "hu": "Kérjen asztalt a kemence vagy kályha közelében.",
+                "ro": "Cereți o masă aproape de cuptor sau șemineu.",
+                "en": "Ask for a table near the heater or fireplace if available."
+              }
+            },
+            {
+              "name": "Historic Train Station Building",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Gebäude, bis der Zug einfährt.",
+                "hu": "Maradjon az épületben, amíg be nem érkezik a vonat.",
+                "ro": "Rămâneți în interior până când trenul ajunge în gară.",
+                "en": "Stay inside the building until the train arrives."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 15:30 Uhr unter.",
+              "Tragen Sie griffige Winterschuhe für die verschneiten Wege.",
+              "Warme Getränke (Glögi) sind überall in Estland beliebt.",
+              "Die Innenräume sind meist sehr gut beheizt (Zwiebelprinzip)."
+            ],
+            "hu": [
+              "A nap télen már 15:30 körül nyugovóra tér.",
+              "Viseljen bordázott talpú téli bakancsot a havas utakon.",
+              "A meleg italok (például a Glögi) ilyenkor nagyon népszerűek.",
+              "A belső terek jól fűtöttek, öltözzön rétegesen."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 15:30 în timpul iernii.",
+              "Purtați încălțăminte de iarnă cu talpă aderentă.",
+              "Băuturile calde (Glögi) sunt foarte populare iarna în Estonia.",
+              "Spațiile interioare sunt bine încălzite, folosiți straturi de haine."
+            ],
+            "en": [
+              "Sunset occurs as early as 15:30 during the winter months.",
+              "Wear winter boots with good grip for the snowy paths.",
+              "Warm drinks like Glögi (mulled juice/wine) are widely available.",
+              "Indoor venues are well-heated; dress in layers for comfort."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -702,6 +884,206 @@
           "The path to the waterfall may have some inclines.",
           "A helmet is strongly recommended for your safety."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour beginnt am Bahnhof. Die kurzen Wege in Keila helfen dabei, nicht völlig durchnässt zu werden. Park und Kirche sind schnell erreicht.\n\nMittags führt die Fahrt zum Museum. Radfahren auf nassen Straßen erfordert Vorsicht, aber die flache Landschaft macht es einfach.\n\nNachmittags ist der Keila-Wasserfall das Ziel. Bei Regen führt er mehr Wasser und wirkt noch imposanter. Ein warmes Mittagessen in der Nähe trocknet die Ausrüstung.\n\nZum Abschluss geht es über den Gesundheitspfad zurück. Der Wald bietet etwas Schutz vor dem direkten Regen, bevor man wieder den Zug besteigt.",
+            "hu": "A vizes bringázás az állomáson indul. Keila kis távolságai segítenek, hogy ne ázzunk el teljesen. A park és a templom pillanatok alatt elérhető.\n\nDélben a múzeum felé tekerünk. A vizes aszfalton óvatosan kell kanyarodni, de a terep sík és könnyen kezelhető.\n\nDélután a Keila-vízesés a fő attrakció. Esőben több a vize és még lenyűgözőbb. A közeli ebédnél megszáríthatjuk az elázott ruhákat.\n\nZárásként az erdei utakon tekerünk vissza. Az erdő felfogja az eső egy részét, mielőtt újra elérnénk a vasutat.",
+            "ro": "O tură cu bicicleta pe ploaie începe la gară. Distanțele scurte din Keila te ajută să nu te uzi complet. Parcul și biserica sunt aproape.\n\nLa prânz, pedalăm spre muzeu. Atenție sporită pe asfaltul umed, deși terenul plat facilitează deplasarea.\n\nDupă-amiaza, destinația este Cascada Keila. Pe ploaie, debitul este mai mare și spectacolul mai impresionant. Un prânz cald ajută la uscarea echipamentului.\n\nLa final, revenim prin pădure pe traseul de sănătate. Copacii oferă protecție împotriva ploii directe înainte de a lua trenul înapoi.",
+            "en": "A wet bike ride starts at the station. Keila's short distances help keep you from getting completely soaked. The park and church are just minutes away.\n\nAt noon, cycle towards the museum. Be careful on wet pavement, though the flat terrain makes the ride relatively easy.\n\nIn the afternoon, the Keila Waterfall is the highlight. Rain increases its flow, making it look even more powerful. A warm lunch nearby helps dry your gear.\n\nFinally, loop back through the health track. The forest provides some cover from the rain before you reach the station again."
+          },
+          "stops": [
+            {
+              "name": "Historic Train Station Building",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen bei Nässe vor der Abfahrt.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a vizes úton.",
+                "ro": "Verificați frânele pe carosabil umed înainte de plecare.",
+                "en": "Check your brakes for responsiveness on wet surfaces."
+              }
+            },
+            {
+              "name": "Keila Central Park & St. Michael's Church",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem Laub auf den Wegen.",
+                "hu": "Vigyázat, a vizes levelek csúszósak lehetnek.",
+                "ro": "Atenție la frunzele umede care pot fi alunecoase.",
+                "en": "Beware of wet leaves on the paths; they can be slippery."
+              }
+            },
+            {
+              "name": "Harju County Museum",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich direkt am Eingang.",
+                "hu": "Kerékpártárolók közvetlenül a bejáratnál találhatók.",
+                "ro": "Suporturile de biciclete sunt chiar la intrare.",
+                "en": "Bike racks are located right by the main entrance."
+              }
+            },
+            {
+              "name": "Keila Manor",
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Weg zum Wasserfall.",
+                "hu": "Használja a kiépített utat a vízesés felé.",
+                "ro": "Folosiți drumul amenajat către cascadă.",
+                "en": "Use the paved access road towards the waterfall."
+              }
+            },
+            {
+              "name": "Keila Waterfall",
+              "tip_5lang": {
+                "de": "Der Boden am Aussichtspunkt kann extrem glatt sein.",
+                "hu": "A kilátópontnál a talaj rendkívül csúszós lehet.",
+                "ro": "Solul de la punctul de observație poate fi foarte alunecos.",
+                "en": "The ground at the viewpoint can be extremely slick."
+              }
+            },
+            {
+              "name": "Lunch with a View",
+              "tip_5lang": {
+                "de": "Ideal, um die Regenjacke kurz auszuschütteln.",
+                "hu": "Ideális hely az esőkabát megrázására és szárítására.",
+                "ro": "Ideal pentru a scutura și usca puțin pelerina.",
+                "en": "A good place to shake off and dry your raincoat."
+              }
+            },
+            {
+              "name": "Keila Health Track",
+              "tip_5lang": {
+                "de": "Der Waldboden kann bei Regen schlammig werden.",
+                "hu": "Az erdei talaj esőben sárossá válhat.",
+                "ro": "Poteca prin pădure poate deveni noroioasă pe ploaie.",
+                "en": "The forest track can get muddy after heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter unverzichtbar.",
+              "Vermeiden Sie scharfes Bremsen auf Kopfsteinpflaster.",
+              "Die Strecke zum Wasserfall (ca. 5km) ist exponiert und windig.",
+              "Tragen Sie helle Kleidung oder Reflektoren bei grauem Wetter."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ebben az időben.",
+              "Kerülje az erős fékezést a vizes macskakövön.",
+              "A vízesés felé vezető 5 km-es út szeles és nyitott.",
+              "Viseljen világos ruhát vagy fényvisszaverőt a szürkületben."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe această vreme.",
+              "Evitați frânarea bruscă pe porțiunile cu piatră cubică.",
+              "Drumul spre cascadă (aprox. 5km) este expus vântului.",
+              "Purtați haine reflectorizante pe vreme gri și închisă."
+            ],
+            "en": [
+              "Mudguards are essential to stay dry during this ride.",
+              "Avoid sudden braking on cobblestones or painted lines.",
+              "The 5km route to the waterfall is open and can be very windy.",
+              "Wear bright colors or reflectors due to low visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter beginnt am verschneiten Bahnhof. Die Straßen sind meist geräumt, aber Vorsicht ist geboten. Der Park wirkt wie verzaubert.\n\nMittags ist das Museum ein wichtiger Aufwärmstopp. Die Fahrt durch das winterliche Keila ist kurz, sodass die Finger nicht zu kalt werden.\n\nNachmittags führt die Route zum gefrorenen Keila-Wasserfall. Die Eiszapfen sind ein spektakulärer Anblick. Ein warmes Essen in der Nähe stellt die Energie wieder her.\n\nVor der Dunkelheit geht es über den Gesundheitspfad zurück. Die beleuchteten Wege bieten Sicherheit, bevor man das Rad wieder abstellt.",
+            "hu": "A téli bringázás a havas állomáson indul. Az utak többnyire takarítottak, de óvatosság kell. A park varázslatos látvány fehérben.\n\nDélben a múzeum kritikus megálló az átmelegedéshez. A tekerés rövid, így az ujjaink nem fagynak le teljesen.\n\nDélután a befagyott Keila-vízeséshez hajtunk. A jégcsapok látványa lenyűgöző. Egy forró ebéd a közelben visszaadja az életkedvünket.\n\nSötétedés előtt még áttekerünk az erdei utakon. A kivilágított ösvények biztonságosak, mielőtt visszaérnénk a vonathoz.",
+            "ro": "Ciclismul de iarnă începe la gara înzăpezită. Drumurile sunt deszăpezite, dar prudența e necesară. Parcul arată feeric în alb.\n\nLa prânz, muzeul este un punct vital de încălzire. Drumul prin Keila este scurt, deci degetele nu vor îngheța complet.\n\nDupă-amiaza, mergem spre cascada înghețată. Formațiunile de gheață sunt spectaculoase. Un prânz cald ne redă energia.\n\nÎnainte de lăsarea întunericului, revenim pe traseul de sănătate. Potecile iluminate oferă siguranță înainte de finalul turei.",
+            "en": "Winter cycling starts at the snowy station. Roads are usually cleared, but caution is key. The park looks enchanting in white.\n\nAt noon, the museum is a vital warming stop. The ride through winter Keila is short enough to keep your hands from freezing.\n\nIn the afternoon, head to the frozen Keila Waterfall. The giant icicles are a spectacular sight. A hot meal nearby restores your energy.\n\nBefore total darkness, cycle back through the health track. The lit paths provide safety as you finish your winter journey."
+          },
+          "stops": [
+            {
+              "name": "Historic Train Station Building",
+              "tip_5lang": {
+                "de": "Vorsicht beim Losfahren auf rutschigen Rampen.",
+                "hu": "Vigyázzon a csúszós rámpákon induláskor.",
+                "ro": "Atenție la rampele alunecoase la plecare.",
+                "en": "Be careful when starting off on slippery ramps."
+              }
+            },
+            {
+              "name": "Keila Central Park & St. Michael's Church",
+              "tip_5lang": {
+                "de": "Die Wege können unter dem Schnee festgefroren sein.",
+                "hu": "Az utak a hó alatt le lehetnek fagyva.",
+                "ro": "Aleile pot fi înghețate sub stratul de zăpadă.",
+                "en": "Paths may be frozen solid under the snow cover."
+              }
+            },
+            {
+              "name": "Harju County Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände hier gründlich auf.",
+                "hu": "Itt alaposan melegítse át a kezeit.",
+                "ro": "Încălziți-vă bine mâinile aici înainte de a continua.",
+                "en": "Take this time to thoroughly warm up your hands."
+              }
+            },
+            {
+              "name": "Keila Manor",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den unbefestigten Parkwegen.",
+                "hu": "Hajtson lassan a park mélyebb havas útjain.",
+                "ro": "Pedalați încet pe aleile neasfaltate din parc.",
+                "en": "Ride slowly on unpaved or snow-covered park paths."
+              }
+            },
+            {
+              "name": "Keila Waterfall",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher ab; Metallständer sind oft vereist.",
+                "hu": "Biztonságosan támassza le a gépet; a fém tárolók jegesek.",
+                "ro": "Parcați bicicleta cu grijă; suporturile metalice sunt înghețate.",
+                "en": "Park your bike carefully; metal racks can be very icy."
+              }
+            },
+            {
+              "name": "Lunch with a View",
+              "tip_5lang": {
+                "de": "Ein heißer Tee hilft gegen die Kälte des Fahrtwinds.",
+                "hu": "A forró tea segít a menetszél okozta fagy ellen.",
+                "ro": "Un ceai fierbinte ajută împotriva gerului de pe drum.",
+                "en": "Hot tea is the best remedy against the wind chill."
+              }
+            },
+            {
+              "name": "Keila Health Track",
+              "tip_5lang": {
+                "de": "Die Beleuchtung geht mit der Dämmerung an.",
+                "hu": "A világítás a szürkülettel együtt kapcsol be.",
+                "ro": "Iluminatul public se aprinde odată cu amurgul.",
+                "en": "Public lighting turns on automatically at dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen für Fahrräder sind in Estland sehr zu empfehlen.",
+              "Der Akku von E-Bikes entlädt sich bei Kälte deutlich schneller.",
+              "Vermeiden Sie Pfützen, die nachts zu Eis werden könnten.",
+              "Tragen Sie winddichte Handschuhe und Gesichtsschutz."
+            ],
+            "hu": [
+              "A téli gumi kerékpárra nagyon ajánlott Észtországban.",
+              "Az elektromos biciklik akkuja gyorsabban merül a hidegben.",
+              "Kerülje a tócsákat, amik éjjel jéggé fagyhatnak.",
+              "Viseljen szélálló kesztyűt és arcvédőt."
+            ],
+            "ro": [
+              "Anvelopele de iarnă pentru bicicletă sunt recomandate aici.",
+              "Bateria bicicletelor electrice se descarcă mai repede la ger.",
+              "Evitați bălțile care pot îngheța pe timpul nopții.",
+              "Purtați mănuși rezistente la vânt și protecție pentru față."
+            ],
+            "en": [
+              "Winter tires for bicycles are highly recommended in Estonia.",
+              "E-bike batteries drain significantly faster in sub-zero temps.",
+              "Avoid puddles as they might turn into black ice.",
+              "Wear windproof gloves and thermal face protection."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1062,6 +1444,206 @@
           "The car allows you to easily reach more remote spots like the health track.",
           "Plan your drives between rush hours to avoid traffic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Tour beginnt entspannt mit der Fahrt zum Wasserfall. Das Auto dient als perfekter Rückzugsort vor den Schauern. Der Wasserfall ist bei Regen besonders kraftvoll.\n\nMittags geht es zum Herrenhaus und weiter ins Zentrum. Das Parken in der Nähe der Sehenswürdigkeiten minimiert die Zeit im Freien.\n\nNachmittags stehen Kirche und Museum auf dem Plan. Die kurzen Wege zwischen Parkplatz und Eingang machen den Besuch auch bei starkem Regen angenehm.\n\nDer Tag endet mit einem späten Mittagessen im Bahnhofsviertel. Man kann gemütlich im Trockenen sitzen und das Treiben draußen beobachten.",
+            "hu": "A túra kényelmesen indul a vízesésnél. Az autó tökéletes menedék a záporok között. A vízesés esőben különösen látványos és dübörgő.\n\nDélben a kúria felé vesszük az irányt, majd a központba. A parkolás közel van a látnivalókhoz, így alig kell az esőben lennünk.\n\nDélután a templom és a múzeum következik. A rövid séta a parkolótól a bejáratig még nagy esőben is vállalható.\n\nA napot egy késői ebéddel zárjuk az állomásnegyedben. A száraz, meleg étteremből nézhetjük a kinti esőt.",
+            "ro": "Turul începe relaxat cu o vizită la cascadă. Mașina servește drept refugiu perfect între reprizele de ploaie. Cascada este extrem de puternică pe ploaie.\n\nLa prânz, mergem spre conac și apoi spre centru. Parcarea aproape de obiective minimizează timpul petrecut în exterior.\n\nDupă-amiaza vizităm biserica și muzeul. Distanțele scurte între parcare și intrări fac vizita plăcută chiar și pe ploaie torențială.\n\nZiua se încheie cu un prânz întârziat în zona gării. Poți sta confortabil la adăpost, privind ploaia de afară.",
+            "en": "The tour starts comfortably with a drive to the waterfall. Your car is the perfect shelter between showers. The waterfall looks exceptionally powerful in the rain.\n\nAt noon, head to the manor and then to the town center. Parking close to the sights minimizes your time spent in the wet weather.\n\nIn the afternoon, visit the church and the museum. The short walks from the parking lot to the entrances keep the experience pleasant.\n\nThe day concludes with a late lunch in the station quarter. You can enjoy your meal in the dry while watching the rain outside."
+          },
+          "stops": [
+            {
+              "name": "Parking at Keila Waterfall",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei starkem Regen schlammig sein.",
+                "hu": "A parkoló nagy esőben sáros lehet.",
+                "ro": "Parcarea poate deveni noroioasă pe ploaie torențială.",
+                "en": "The parking area can get muddy during heavy rain."
+              }
+            },
+            {
+              "name": "Keila Waterfall",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Aussichtspunkt.",
+                "hu": "Használja a fedett kilátópontot.",
+                "ro": "Folosiți punctul de observație acoperit.",
+                "en": "Make use of the sheltered viewing points."
+              }
+            },
+            {
+              "name": "Keila Manor",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf der schmalen Zufahrt.",
+                "hu": "Hajtson óvatosan a keskeny bejárón.",
+                "ro": "Conduceți cu atenție pe drumul de acces îngust.",
+                "en": "Drive carefully on the narrow access road."
+              }
+            },
+            {
+              "name": "Parking in the Town Center",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz direkt vor der Kirche.",
+                "hu": "Keressen helyet közvetlenül a templom előtt.",
+                "ro": "Căutați un loc chiar în fața bisericii.",
+                "en": "Look for a spot directly in front of the church."
+              }
+            },
+            {
+              "name": "St. Michael's Church and Central Park",
+              "tip_5lang": {
+                "de": "Kurze Wege schützen Ihre Kleidung vor Nässe.",
+                "hu": "A rövid távok megvédik a ruháját az elázástól.",
+                "ro": "Distanțele scurte vă protejează hainele de umezeală.",
+                "en": "Short walking distances protect your clothes from the rain."
+              }
+            },
+            {
+              "name": "Harju County Museum",
+              "tip_5lang": {
+                "de": "Parkplätze sind meist ausreichend vorhanden.",
+                "hu": "Parkolóhely általában bőségesen rendelkezésre áll.",
+                "ro": "Locurile de parcare sunt de obicei suficiente.",
+                "en": "Parking spaces are usually ample here."
+              }
+            },
+            {
+              "name": "Late Lunch and Station Quarter",
+              "tip_5lang": {
+                "de": "Ideal, um die Scheibenwischer kurz auszuschalten.",
+                "hu": "Ideális idő az ablaktörlők pihentetésére.",
+                "ro": "Un moment ideal pentru a opri ștergătoarele.",
+                "en": "A good time to give your windshield wipers a rest."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Hauptstraße nach Keila.",
+              "Die Parkplätze im Zentrum sind oft unbefestigt und nass.",
+              "Halten Sie einen Regenschirm im Auto für den Weg zum Museum bereit.",
+              "Prüfen Sie den Reifendruck bei herbstlichen Temperaturen."
+            ],
+            "hu": [
+              "Ügyeljen a vízenfutásra a Keila felé vezető főúton.",
+              "A központi parkolók gyakran murvásak és vizesek.",
+              "Tartson esernyőt az autóban a múzeumba vezető úthoz.",
+              "Ellenőrizze a guminyomást az őszi lehűléskor."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul principal spre Keila.",
+              "Parcările centrale sunt adesea neasfaltate și umede.",
+              "Păstrați o umbrelă în mașină pentru drumul spre muzeu.",
+              "Verificați presiunea în pneuri la temperaturi scăzute."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the main road to Keila.",
+              "Town center parking lots are often unpaved and get wet.",
+              "Keep an umbrella in the car for the walk to the museum entrance.",
+              "Check your tire pressure as autumn temperatures drop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit dem Auto beginnt am spektakulären Keila-Wasserfall. Die Heizung sorgt für Komfort, während man die gefrorene Landschaft bewundert.\n\nMittags führt die Fahrt zum Herrenhaus. Das Winterlicht lässt die historische Architektur in einem besonderen Glanz erstrahlen, bevor man sich im Museum aufwärmt.\n\nNachmittags parkt man im Zentrum. Der kurze Spaziergang zur Kirche und durch den verschneiten Park ist erfrischend, aber nicht zu lang für die Kälte.\n\nDer Tag endet im gemütlichen Bahnhofsviertel. Die beleuchteten Straßen bieten eine sichere Fahrt zurück, während der Schnee draußen leise fällt.",
+            "hu": "A téli autós nap a látványos Keila-vízesésnél indul. A fűtés kényelmet ad, miközben a befagyott tájat csodáljuk.\n\nDélben a kúria felé autózunk. A téli fények különleges ragyogást adnak a történelmi épületeknek, mielőtt a múzeumban átmelegednénk.\n\nDélután a központban parkolunk. A rövid séta a templomhoz és a havas parkban frissítő, de nem túl hosszú a hidegben.\n\nA nap az otthonos állomásnegyedben zárul. A kivilágított utakon biztonságos a visszatérés, miközben kint halkan esik a hó.",
+            "ro": "O zi de iarnă cu mașina începe la spectaculoasa cascadă Keila. Încălzirea oferă confort în timp ce admiri peisajul înghețat.\n\nLa prânz, mergem spre conac. Lumina iernii oferă o strălucire aparte arhitecturii istorice înainte de a ne încălzi în muzeu.\n\nDupă-amiaza parcăm în centru. Scurta plimbare spre biserică și prin parcul înzăpezit este revigorantă, dar potrivită pentru ger.\n\nZiua se încheie în zona gării. Străzile iluminate oferă un drum sigur spre casă în timp ce zăpada cade încet afară.",
+            "en": "A winter day by car starts at the spectacular Keila Waterfall. The car's heater provides comfort while you admire the frozen scenery.\n\nAt noon, drive to the manor. The winter light gives the historic architecture a special glow before you warm up inside the museum.\n\nIn the afternoon, park in the town center. The short walk to the church and through the snowy park is refreshing but not too long for the cold.\n\nThe day ends in the cozy station quarter. The illuminated streets ensure a safe drive back as snow falls softly outside."
+          },
+          "stops": [
+            {
+              "name": "Parking at Keila Waterfall",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken auf festgefahrenem Schnee.",
+                "hu": "Vigyázzon a parkolásnál a letaposott havon.",
+                "ro": "Atenție la parcare pe zăpada bătătorită.",
+                "en": "Be careful when parking on packed snow."
+              }
+            },
+            {
+              "name": "Keila Waterfall",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Don't leave the engine idling unnecessarily."
+              }
+            },
+            {
+              "name": "Keila Manor",
+              "tip_5lang": {
+                "de": "Schütteln Sie den Schnee von den Schuhen, bevor Sie einsteigen.",
+                "hu": "Rázza le a havat a cipőjéről beszállás előtt.",
+                "ro": "Scuturați zăpada de pe încălțăminte înainte de a intra.",
+                "en": "Shake the snow off your boots before getting back in."
+              }
+            },
+            {
+              "name": "Parking in the Town Center",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken unter schneebeladenen Bäumen.",
+                "hu": "Kerülje a parkolást hóval terhelt fák alatt.",
+                "ro": "Evitați parcarea sub copaci încărcați cu zăpadă.",
+                "en": "Avoid parking under trees heavily laden with snow."
+              }
+            },
+            {
+              "name": "St. Michael's Church and Central Park",
+              "tip_5lang": {
+                "de": "Die Wege sind meist gut geräumt.",
+                "hu": "Az utak többnyire jól le vannak takarítva.",
+                "ro": "Aleile sunt de obicei bine deszăpezite.",
+                "en": "The paths are usually well-cleared by the town."
+              }
+            },
+            {
+              "name": "Harju County Museum",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Neuschnee rutschig sein.",
+                "hu": "A bejárat friss hóban csúszós lehet.",
+                "ro": "Accesul poate fi alunecos în caz de ninsoare proaspătă.",
+                "en": "The access road can be slick after fresh snowfall."
+              }
+            },
+            {
+              "name": "Late Lunch and Station Quarter",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Handbremse nicht einfriert.",
+                "hu": "Ellenőrizze, hogy a kézifék nem fagyott-e be.",
+                "ro": "Verificați ca frâna de mână să nu înghețe.",
+                "en": "Make sure your parking brake doesn't freeze up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Estland ab Dezember gesetzlich vorgeschrieben.",
+              "Führen Sie einen Eiskratzer und einen kleinen Besen mit.",
+              "Die Hauptstraßen werden schnell geräumt, Nebenstraßen später.",
+              "Halten Sie die Scheinwerfer von Schneematsch sauber."
+            ],
+            "hu": [
+              "A téli gumi Észtországban decembertől kötelező.",
+              "Tartson jégkaparót és kisseprűt az autóban.",
+              "A főutakat gyorsan takarítják, a mellékutakat később.",
+              "Tartsa tisztán a fényszórókat a hótól és sártól."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Estonia din decembrie.",
+              "Aveți mereu o racletă și o perie mică în mașină.",
+              "Drumurile principale sunt curățate rapid, cele secundare mai târziu.",
+              "Păstrați farurile curate de zăpadă și noroi."
+            ],
+            "en": [
+              "Winter tires are legally required in Estonia from December.",
+              "Always carry an ice scraper and a small snow brush.",
+              "Main roads are cleared quickly, but side streets take longer.",
+              "Keep your headlights clean from slush and road salt."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1398,6 +1980,188 @@
           "Download an offline map to your phone to help you navigate.",
           "Keep small change ready for bus tickets in case card payment is not an option."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Ankunft am Bahnhof Keila ist bei Regen unproblematisch, da das Gebäude Schutz bietet. Der Bus ins Zentrum hält direkt vor der Tür.\n\nMittags schützt der Aufenthalt im Museum vor dem stärksten Regen. Die Busverbindungen sind pünktlich und bringen einen trocken ans Ziel.\n\nNachmittags führt die Fahrt zum Wasserfall. Der kurze Weg vom Bus zur Aussichtsplattform ist auch bei Regen machbar. Ein warmes Essen rundet den Besuch ab.\n\nDie Rückreise beginnt bequem mit dem Bus zurück zum Bahnhof. Man bleibt weitgehend trocken und kann die Aussicht aus dem Fenster genießen.",
+            "hu": "Az érkezés a keilai állomásra esőben is zökkenőmentes, mivel az épület menedéket ad. A központi busz közvetlenül az ajtó előtt áll meg.\n\nDélben a múzeumi látogatás megvéd a leghevesebb záporoktól. A buszjáratok pontosak, és szárazon juttatják el a célhoz.\n\nDélután a vízeséshez utazunk. A rövid séta a buszmegállótól a kilátóig esőben is vállalható. Egy meleg ebéd zárja a programot.\n\nA visszautazás kényelmesen indul busszal az állomásra. Nagyrészt szárazon maradunk, és élvezhetjük a kilátást az ablakból.",
+            "ro": "Sosirea în gara Keila pe ploaie este fără probleme, deoarece clădirea oferă adăpost. Autobuzul spre centru oprește chiar în față.\n\nLa prânz, vizita la muzeu te protejează de cele mai puternice averse. Conexiunile de autobuz sunt punctuale și te mențin uscat.\n\nDupă-amiaza, mergem cu autobuzul la cascadă. Scurtul drum până la platforma de observație este fezabil chiar și pe ploaie. Un prânz cald completează vizita.\n\nÎntoarcerea începe confortabil cu autobuzul spre gară. Rămâi în mare parte uscat și te poți bucura de peisaj prin fereastră.",
+            "en": "Arrival at Keila station is hassle-free in the rain as the building provides ample cover. The bus to the center stops right outside.\n\nAt noon, staying inside the museum protects you from the heaviest showers. Bus connections are punctual and keep you dry during transit.\n\nIn the afternoon, take the bus to the waterfall. The short walk from the stop to the viewing platform is manageable even in the rain. A warm lunch completes the visit.\n\nThe return journey starts comfortably with a bus back to the station. You stay mostly dry and can enjoy the view from the window."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Keila Train Station",
+              "tip_5lang": {
+                "de": "Warten Sie im historischen Bahnhofsgebäude.",
+                "hu": "Várjon a történelmi állomásépületben.",
+                "ro": "Așteptați în interiorul clădirii istorice a gării.",
+                "en": "Wait inside the historic station building."
+              }
+            },
+            {
+              "name": "Bus to the Town Center",
+              "tip_5lang": {
+                "de": "Halten Sie Ihre Fahrkarte griffbereit, um Verzögerungen zu vermeiden.",
+                "hu": "Tartsa készenlétben a jegyét, hogy ne ázzon a sorban.",
+                "ro": "Aveți biletul la îndemână pentru a evita întârzierile.",
+                "en": "Have your ticket ready to avoid delays in the rain."
+              }
+            },
+            {
+              "name": "St. Michael's Church and Central Park",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet oft ein kleines Dach.",
+                "hu": "A buszmegálló gyakran rendelkezik kis tetővel.",
+                "ro": "Stația de autobuz are adesea un mic acoperiș.",
+                "en": "The bus stop often has a small shelter."
+              }
+            },
+            {
+              "name": "Harju County Museum",
+              "tip_5lang": {
+                "de": "Der Bus hält nur wenige Gehminuten entfernt.",
+                "hu": "A busz csak pár perc sétára áll meg.",
+                "ro": "Autobuzul oprește la doar câteva minute de mers.",
+                "en": "The bus stops just a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Bus to the Waterfall",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan für die Rückfahrt genau.",
+                "hu": "Pontosan ellenőrizze a visszatérő járat menetrendjét.",
+                "ro": "Verificați cu atenție programul de întoarcere.",
+                "en": "Double-check the return schedule before you leave."
+              }
+            },
+            {
+              "name": "Keila Waterfall & Lunch",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Restaurant als Wartebereich.",
+                "hu": "Használja az éttermet váróhelyiségként.",
+                "ro": "Folosiți restaurantul ca zonă de așteptare.",
+                "en": "Use the restaurant as a warm waiting area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Ühiskaart (Tallinn/Harju) funktioniert auch hier.",
+              "Busse sind bei Regen oft voll, steigen Sie früh ein.",
+              "Die Echtzeit-Anzeige in der App ist sehr zuverlässig.",
+              "Vermeiden Sie das Warten an ungeschützten Haltestellen."
+            ],
+            "hu": [
+              "Az Ühiskaart (Tallinn/Harju kártya) itt is működik.",
+              "Esőben a buszok tömöttek lehetnek, szálljon fel időben.",
+              "Az applikáció valós idejű kijelzése nagyon megbízható.",
+              "Kerülje a várakozást a fedetlen megállókban."
+            ],
+            "ro": [
+              "Cardul Ühiskaart (Tallinn/Harju) este valabil și aici.",
+              "Autobuzele pot fi aglomerate pe ploaie, urcați devreme.",
+              "Afișajul în timp real din aplicație este foarte precis.",
+              "Evitați așteptarea în stațiile fără adăpost."
+            ],
+            "en": [
+              "The Ühiskaart (Tallinn/Harju transport card) works here too.",
+              "Buses can get crowded during rain; try to board early.",
+              "Real-time tracking in the transport app is very reliable.",
+              "Avoid waiting at stops without overhead cover if possible."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ankunft am winterlichen Bahnhof Keila. Die Züge sind warm und pünktlich, und der Bahnhof bietet Schutz vor dem Wind.\n\nMittags bringt der Bus einen sicher durch die verschneite Stadt zum Museum. Es ist die komfortabelste Art, sich bei Minusgraden fortzubewegen.\n\nNachmittags führt die Fahrt zum gefrorenen Wasserfall. Der Anblick der Eisskulpturen ist die Reise wert. Ein warmes Mittagessen in der Nähe ist danach unverzichtbar.\n\nDer Abend endet mit der Busfahrt zurück zum beleuchteten Bahnhof. Die winterliche Stille von Keila lässt sich am besten aus dem warmen Bus beobachten.",
+            "hu": "Érkezés a téli keilai állomásra. A vonatok melegek és pontosak, az épület pedig véd a metsző széltől.\n\nDélben a busz biztonságosan visz át a havas városon a múzeumhoz. Ez a legkényelmesebb módja a közlekedésnek a mínuszokban.\n\nDélután a befagyott vízeséshez utazunk. A jégszobrok látványa megéri az utat. Egy közeli meleg ebéd utána elengedhetetlen.\n\nAz este a kivilágított állomásra való visszatéréssel zárul. Keila téli nyugalmát a legkellemesebb a meleg buszból szemlélni.",
+            "ro": "Sosire în gara Keila înzăpezită. Trenurile sunt calde și punctuale, iar gara oferă protecție împotriva vântului tăios.\n\nLa prânz, autobuzul te duce în siguranță prin orașul înzăpezit spre muzeu. Este cel mai confortabil mod de deplasare la temperaturi negative.\n\nDupă-amiaza, mergem la cascada înghețată. Sculpturile de gheață merită din plin călătoria. Un prânz cald este apoi indispensabil.\n\nSeara se încheie cu drumul înapoi spre gara iluminată. Liniștea iernii în Keila se observă cel mai bine din confortul autobuzului.",
+            "en": "Arrival at the wintry Keila station. Trains are warm and punctual, and the station building shields you from the biting wind.\n\nAt noon, the bus takes you safely through the snowy town to the museum. It's the most comfortable way to travel in sub-zero temperatures.\n\nIn the afternoon, travel to the frozen waterfall. The ice formations are well worth the trip. A hot lunch nearby is essential afterward.\n\nThe evening concludes with a bus ride back to the lit station. Keila's winter silence is best observed from the warmth of the bus."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Keila Train Station",
+              "tip_5lang": {
+                "de": "Der Boden kann durch hereingetragenen Schnee rutschig sein.",
+                "hu": "A padló a behordott hótól csúszós lehet.",
+                "ro": "Podeaua poate fi alunecoasă din cauza zăpezii aduse pe picioare.",
+                "en": "The floor can be slippery due to melted snow brought inside."
+              }
+            },
+            {
+              "name": "Bus to the Town Center",
+              "tip_5lang": {
+                "de": "Busse sind im Winter sehr gut beheizt.",
+                "hu": "A buszok télen nagyon jól fűtöttek.",
+                "ro": "Autobuzele sunt foarte bine încălzite iarna.",
+                "en": "Buses are kept very warm during the winter season."
+              }
+            },
+            {
+              "name": "St. Michael's Church and Central Park",
+              "tip_5lang": {
+                "de": "Die Wege zur Haltestelle sind meist gestreut.",
+                "hu": "A megállóhoz vezető utak többnyire le vannak szórva.",
+                "ro": "Căile spre stație sunt de obicei presărate cu antiderapant.",
+                "en": "Paths to the bus stop are usually salted or gritted."
+              }
+            },
+            {
+              "name": "Harju County Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Zwischenstopp vor der nächsten Fahrt.",
+                "hu": "Melegítő megálló a következő utazás előtt.",
+                "ro": "O oprire pentru încălzire înainte de următoarea călătorie.",
+                "en": "A perfect warming stop before your next transit leg."
+              }
+            },
+            {
+              "name": "Bus to the Waterfall",
+              "tip_5lang": {
+                "de": "Rechnen Sie mit leichten witterungsbedingten Verzögerungen.",
+                "hu": "Számoljon kisebb időjárási késésekkel.",
+                "ro": "Luați în calcul mici întârzieri din cauza vremii.",
+                "en": "Expect minor delays due to snowy road conditions."
+              }
+            },
+            {
+              "name": "Keila Waterfall & Lunch",
+              "tip_5lang": {
+                "de": "Der Rückweg zur Haltestelle führt durch kalten Wind.",
+                "hu": "A megállóhoz vezető úton hideg szél fújhat.",
+                "ro": "Drumul înapoi spre stație poate fi expus vântului rece.",
+                "en": "The walk back to the stop can be exposed to cold winds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge in Estland sind im Winter extrem zuverlässig.",
+              "Nutzen Sie die App 'pilet.ee' für den Ticketkauf im Warmen.",
+              "Die Sonne geht früh unter, planen Sie die Rückreise für 16 Uhr.",
+              "Tragen Sie warme Socken für die Wartezeiten an Haltestellen."
+            ],
+            "hu": [
+              "Az észt vonatok télen is rendkívül megbízhatóak.",
+              "Használja a 'pilet.ee' appot a jegyvásárláshoz a melegben.",
+              "A nap korán nyugszik, tervezze a visszautat 16 óra környékére.",
+              "Viseljen meleg zoknit a megállóban való várakozáshoz."
+            ],
+            "ro": [
+              "Trenurile estoniene sunt extrem de fiabile iarna.",
+              "Folosiți aplicația 'pilet.ee' pentru a cumpăra bilete la căldură.",
+              "Soarele apune devreme, planificați întoarcerea pentru ora 16:00.",
+              "Purtați șosete groase pentru timpii de așteptare în stații."
+            ],
+            "en": [
+              "Estonian trains are extremely reliable even in deep winter.",
+              "Use the 'pilet.ee' app to buy tickets while still indoors.",
+              "Sunset is early; aim to start your return journey by 16:00.",
+              "Wear thermal socks for any wait times at outdoor bus stops."
+            ]
+          }
+        }
       }
     }
   }

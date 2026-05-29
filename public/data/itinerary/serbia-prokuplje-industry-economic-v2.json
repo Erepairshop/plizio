@@ -379,6 +379,206 @@
           "Check the museum's opening hours in advance.",
           "Be respectful when visiting religious sites."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt im Toplica-Museum, wo Sie dem Regen entfliehen und die lokale Geschichte studieren können. Mittags bietet die St.-Prokopius-Kirche Schutz unter ihren massiven Gewölben. Der Nachmittag am Hisar-Hügel erfordert Vorsicht auf den rutschigen Pfaden, belohnt aber mit dramatischer Aussicht. Den Tag lassen wir bei den Hamam-Ruinen im Stadtzentrum ruhig ausklingen.",
+            "hu": "A napot a Toplica Múzeumban kezdjük, ahol az eső elől menedéket keresve fedezhetjük fel a helyi emlékeket. Délben a Szent Prokopiosz-templom vastag falai nyújtanak száraz pihenőt. Délután a Hiszár-domb ösvényein a sár miatt óvatosan haladunk, de a kilátás esőben is lenyűgöző. Estére a belvárosi hamam romjaihoz érünk vissza.",
+            "ro": "Ziua începe la Muzeul Toplica, oferind un refugiu perfect împotriva ploii printre exponate istorice. La prânz, zidurile groase ale Bisericii Sf. Procopie oferă adăpost. După-amiaza pe dealul Hisar necesită atenție sporită pe potecile alunecoase, dar panorama este spectaculoasă. Seara se încheie liniștit lângă ruinele hamamului din centru.",
+            "en": "Start the day at the Toplica Museum, escaping the rain while exploring local history. At noon, the sturdy walls of St. Procopius Church provide a dry sanctuary. The afternoon climb up Hisar Hill requires caution on slippery paths, but the views remain dramatic. End the day touring the Hamam ruins in the city center."
+          },
+          "stops": [
+            {
+              "name": "National Museum of Toplica",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den ersten Regenschauer trocken zu überstehen.",
+                "hu": "Tökéletes hely az első reggeli zápor átvészelésére.",
+                "ro": "Locul ideal pentru a aștepta trecerea primei ploi de dimineață.",
+                "en": "Ideal spot to stay dry during the first morning shower."
+              }
+            },
+            {
+              "name": "Park by the Museum",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den großen Bäumen oder im Museumscafé.",
+                "hu": "Keressen menedéket a nagy fák alatt vagy a múzeumi kávézóban.",
+                "ro": "Căutați adăpost sub copacii mari sau la cafeneaua muzeului.",
+                "en": "Seek shelter under large trees or at the museum cafe."
+              }
+            },
+            {
+              "name": "Church of St. Procopius",
+              "tip_5lang": {
+                "de": "Das massive Innere bleibt auch bei starkem Regen angenehm trocken.",
+                "hu": "A masszív belső tér heves esőzés esetén is teljesen száraz.",
+                "ro": "Interiorul masiv rămâne plăcut și uscat chiar și pe ploaie torențială.",
+                "en": "The massive interior remains pleasantly dry even during heavy rain."
+              }
+            },
+            {
+              "name": "Jug Bogdan's Tower",
+              "tip_5lang": {
+                "de": "Vorsicht, die alten Steine der Ruine werden bei Nässe extrem glatt.",
+                "hu": "Vigyázat, a rom régi kövei nedvesen rendkívül csúszóssá válnak.",
+                "ro": "Atenție, pietrele vechi ale ruinei devin extrem de alunecoase.",
+                "en": "Caution, the old stones of the ruin become extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Hisar Hill",
+              "tip_5lang": {
+                "de": "Nutzen Sie feste Schuhe für die unbefestigten, schlammigen Wege.",
+                "hu": "Használjon túrabakancsot a kimosott, sáros ösvényeken.",
+                "ro": "Folosiți încălțăminte aderentă pentru potecile noroioase de pe deal.",
+                "en": "Use sturdy footwear for the unpaved, muddy paths on the hill."
+              }
+            },
+            {
+              "name": "Toplica Uprising Monument",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt, da es hier kaum Unterstellmöglichkeiten gibt.",
+                "hu": "Rövid megálló, mivel itt nincs fedett menedékhely.",
+                "ro": "Oprire scurtă, deoarece aici nu există locuri de adăpostit.",
+                "en": "Short stop, as there are no covered shelters here."
+              }
+            },
+            {
+              "name": "Hamam Ruins",
+              "tip_5lang": {
+                "de": "Die tiefergelegten Ruinen sammeln bei Starkregen oft Wasser.",
+                "hu": "A mélyebben fekvő romoknál esőben megállhat a víz.",
+                "ro": "Ruinele situate mai jos pot colecta apă în timpul ploilor abundente.",
+                "en": "The sunken ruins often collect water during heavy rainfall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke, da der Wind am Hisar-Hügel Schirme unbrauchbar machen kann.",
+              "Die Wege am Hügel sind bei Regen schlammig; wasserfeste Wanderschuhe sind ein Muss.",
+              "Nutzen Sie die Kirchenbesichtigung als längere Pause, um Kleidung zu trocknen.",
+              "Achten Sie auf Pfützen in den tiefer gelegenen Hamam-Ruinen am Abend."
+            ],
+            "hu": [
+              "Viseljen jó minőségű esőkabátot, mert a szél a Hiszár-dombon tönkreteheti az ernyőt.",
+              "A domb ösvényei esőben sárosak; a vízálló túrabakancs elengedhetetlen.",
+              "Használja a templomlátogatást hosszabb pihenőként, hogy megszárítsa ruháit.",
+              "Ügyeljen a tócsákra az alacsonyabban fekvő hamam romjainál este."
+            ],
+            "ro": [
+              "Purtați o pelerină de ploaie de calitate, vântul de pe dealul Hisar poate rupe umbrelele.",
+              "Potecile de pe deal sunt noroioase; bocancii impermeabili sunt obligatorii.",
+              "Folosiți vizita la biserică ca o pauză mai lungă pentru a vă usca hainele.",
+              "Atenție la bălțile din ruinele hamamului situate la un nivel inferior."
+            ],
+            "en": [
+              "Wear a high-quality raincoat, as the wind on Hisar Hill can make umbrellas useless.",
+              "The hill paths are muddy in the rain; waterproof hiking boots are a must.",
+              "Use the church visit as a longer break to dry your clothes.",
+              "Watch out for puddles in the sunken Hamam ruins in the evening."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt im beheizten Nationalmuseum, einem perfekten Ort zum Aufwärmen. Mittags führt der Weg zur St.-Prokopius-Kirche, deren dicke Mauern die Kälte abhalten. Am Nachmittag steigen wir zum Hisar-Hügel auf, wo der kalte Wind die winterliche Aussicht schärft. Da die Sonne früh untergeht, beenden wir den Rundgang zügig an den historischen Ruinen im Tal.",
+            "hu": "A téli reggelt a fűtött Nemzeti Múzeumban kezdjük, ami tökéletes hely a bemelegítéshez. Délben a Szent Prokopiosz-templom felé vesszük az irányt, melynek falai védenek a metsző szél ellen. Délután a Hiszár-dombra kapaszkodunk fel, ahol a hideg szél tisztább kilátást ígér. A korai naplemente miatt a völgyben lévő romoknál gyorsan zárjuk a kört.",
+            "ro": "Dimineața de iarnă începe la muzeul încălzit, un loc perfect pentru a vă încălzi. La prânz, mergem spre Biserica Sf. Procopie, ale cărei ziduri groase țin frigul la distanță. După-amiaza urcăm pe dealul Hisar, unde vântul rece face panorama mai clară. Deoarece soarele apune devreme, încheiem turul rapid la ruinele din vale.",
+            "en": "The winter morning starts in the heated National Museum, a perfect place to warm up. At noon, head to St. Procopius Church, where thick walls keep the cold out. In the afternoon, we climb Hisar Hill, where the cold wind sharpens the winter views. As the sun sets early, we quickly finish the tour at the historic ruins in the valley."
+          },
+          "stops": [
+            {
+              "name": "National Museum of Toplica",
+              "tip_5lang": {
+                "de": "Genießen Sie die Heizung und nehmen Sie sich Zeit für die Ausstellungen.",
+                "hu": "Élvezze a fűtést és szánjon időt a kiállítások megtekintésére.",
+                "ro": "Bucurați-vă de căldură și acordați-vă timp pentru expoziții.",
+                "en": "Enjoy the heating and take your time exploring the exhibits."
+              }
+            },
+            {
+              "name": "Park by the Museum",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang; die Bänke sind im Winter oft zu kalt zum Sitzen.",
+                "hu": "Rövid séta; a padok télen gyakran túl hidegek az üléshez.",
+                "ro": "Plimbare scurtă; băncile sunt adesea prea reci pentru a sta pe ele.",
+                "en": "Short walk; benches are often too cold to sit on in winter."
+              }
+            },
+            {
+              "name": "Church of St. Procopius",
+              "tip_5lang": {
+                "de": "Ziehen Sie in der Kirche die Handschuhe aus, um die Ruhe zu genießen.",
+                "hu": "A templomban vegye le a kesztyűt, hogy átélje a csendes áhítatot.",
+                "ro": "Scoateți-vă mănușile în biserică pentru a simți atmosfera liniștită.",
+                "en": "Take off your gloves inside the church to feel the peaceful atmosphere."
+              }
+            },
+            {
+              "name": "Jug Bogdan's Tower",
+              "tip_5lang": {
+                "de": "Der Wind pfeift hier oben im Winter besonders heftig durch die Steine.",
+                "hu": "Itt fent a szél télen különösen erősen fütyül a kövek között.",
+                "ro": "Vântul suflă foarte puternic printre pietre aici sus în timpul iernii.",
+                "en": "The wind whistles particularly hard through the stones up here in winter."
+              }
+            },
+            {
+              "name": "Hisar Hill",
+              "tip_5lang": {
+                "de": "Der Aufstieg hält warm, aber oben ist windfeste Kleidung nötig.",
+                "hu": "A hegymenet melegen tart, de fent szélálló ruházat kell.",
+                "ro": "Urcarea vă va încălzi, dar sus este necesară îmbrăcăminte rezistentă la vânt.",
+                "en": "The climb will keep you warm, but windproof gear is needed at the top."
+              }
+            },
+            {
+              "name": "Toplica Uprising Monument",
+              "tip_5lang": {
+                "de": "Vorsicht vor Vereisungen auf den Gedenkstufen bei Frost.",
+                "hu": "Fagy esetén vigyázzon a jegesedésre az emlékmű lépcsőin.",
+                "ro": "Atenție la gheața de pe treptele monumentului în caz de îngheț.",
+                "en": "Watch out for ice on the monument steps during frost."
+              }
+            },
+            {
+              "name": "Hamam Ruins",
+              "tip_5lang": {
+                "de": "Besuch vor 16:30 Uhr planen, da es im Winter früh dunkel wird.",
+                "hu": "Tervezze a látogatást 16:30 előtt, mert télen korán sötétedik.",
+                "ro": "Planificați vizita înainte de ora 16:30, iarna se întunecă devreme.",
+                "en": "Plan your visit before 4:30 PM, as it gets dark early in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist im Dezember bereits gegen 16:00 Uhr; planen Sie den Hisar-Abstieg davor.",
+              "Tragen Sie Thermounterwäsche, besonders für den Aufenthalt auf dem windigen Hisar-Hügel.",
+              "Die St.-Prokopius-Kirche ist nicht geheizt, bietet aber Windschutz.",
+              "Halten Sie nach dem Rundgang in einer lokalen 'Pekara' für warmes Burek an."
+            ],
+            "hu": [
+              "A naplemente decemberben már 16:00 körül bekövetkezik; előtte jöjjön le a dombról.",
+              "Viseljen aláöltözetet, különösen a szeles Hiszár-dombon való tartózkodáshoz.",
+              "A Szent Prokopiosz-templom nem fűtött, de védelmet nyújt a szél ellen.",
+              "A séta után álljon meg egy helyi pékségben (Pekara) egy forró burekre."
+            ],
+            "ro": [
+              "Apusul este deja în jurul orei 16:00 în decembrie; planificați coborârea de pe deal înainte.",
+              "Purtați lenjerie termică, în special pentru timpul petrecut pe dealul vântos Hisar.",
+              "Biserica Sf. Procopie nu este încălzită, dar oferă protecție împotriva vântului.",
+              "După tur, opriți-vă la o 'Pekara' locală pentru un burek cald."
+            ],
+            "en": [
+              "Sunset is around 4:00 PM in December; plan your Hisar descent before then.",
+              "Wear thermal layers, especially for the time spent on the windy Hisar Hill.",
+              "St. Procopius Church is not heated but offers protection from the wind.",
+              "Stop at a local 'Pekara' after the tour for some warm burek."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -716,6 +916,206 @@
           "The roads can be uneven, so be careful.",
           "Bring a reusable water bottle and refill it whenever you can."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regenprüfung für Radfahrer: Wir starten beim Museum und parken das Rad sicher im Trockenen. Über die nassen Straßen geht es zur St.-Prokopius-Kirche. Der Anstieg zum Hisar-Hügel wird durch den Matsch zur Herausforderung, bietet aber ein echtes Abenteuer-Feeling. Den Rückweg durch den Park genießen wir trotz Spritzwasser, bevor wir den Tag beenden.",
+            "hu": "Esőteszt kerékpárosoknak: a múzeumnál kezdünk, a biciklit fedett helyen hagyva. A vizes aszfalton tekerünk tovább a templomhoz. A Hiszár-dombra való feljutás a sár miatt igazi kihívás és kaland lesz. A parkon át vezető utat a felfröccsenő víz ellenére is élvezzük, mielőtt befejeznénk a napot.",
+            "ro": "Testul ploii pentru bicicliști: începem la muzeu, lăsând bicicleta într-un loc ferit. Pedalăm pe asfaltul ud spre biserică. Urcarea pe dealul Hisar devine o provocare plină de noroi și aventură. Drumul de întoarcere prin parc este revigorant în ciuda stropilor, înainte de a încheia ziua.",
+            "en": "A rainy test for cyclists: start at the museum, parking the bike in a dry spot. Pedal along wet streets to the church. The climb to Hisar Hill becomes a muddy challenge, offering a true sense of adventure. Enjoy the return through the park despite the splashes before finishing the day."
+          },
+          "stops": [
+            {
+              "name": "National Museum of Toplica",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Dachvorsprung am Eingang.",
+                "hu": "Parkolja le kerékpárját a bejáratnál található előtető alatt.",
+                "ro": "Parcați bicicleta sub streașina de la intrare.",
+                "en": "Park your bike under the overhang at the entrance."
+              }
+            },
+            {
+              "name": "Church of St. Procopius",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen; die Pflastersteine vor der Kirche sind rutschig.",
+                "hu": "Vigyázat leszálláskor; a templom előtti macskakő csúszós.",
+                "ro": "Atenție la coborâre; pavajul din fața bisericii este alunecos.",
+                "en": "Be careful when dismounting; the cobblestones before the church are slippery."
+              }
+            },
+            {
+              "name": "Jug Bogdan's Tower",
+              "tip_5lang": {
+                "de": "Lassen Sie das Rad unten am Weg; der Pfad zur Ruine ist zu schlammig.",
+                "hu": "Hagyja a biciklit az út szélén; a romhoz vezető ösvény túl sáros.",
+                "ro": "Lăsați bicicleta la baza drumului; poteca spre ruină este prea noroioasă.",
+                "en": "Leave your bike by the road; the path to the ruin is too muddy."
+              }
+            },
+            {
+              "name": "Hamam Ruins",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Bremsen zu prüfen und Wasser abzuwischen.",
+                "hu": "Rövid megálló a fékek ellenőrzésére és a víz letörlésére.",
+                "ro": "Oprire scurtă pentru a verifica frânele și a șterge apa.",
+                "en": "Short stop to check brakes and wipe off water."
+              }
+            },
+            {
+              "name": "Toplica Uprising Monument",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Monumentbereich für eine kurze Verschnaufpause im Stehen.",
+                "hu": "Használja az emlékmű területét egy rövid, álló pihenőre.",
+                "ro": "Folosiți zona monumentului pentru o scurtă pauză de respirație.",
+                "en": "Use the monument area for a short standing break."
+              }
+            },
+            {
+              "name": "Hisar Hill & Latin Church",
+              "tip_5lang": {
+                "de": "Hinterradantrieb auf Matsch testen; der Grip ist hier oben minimal.",
+                "hu": "Tesztelje a tapadást a sáron; itt fent minimális a tapadás.",
+                "ro": "Testați tracțiunea pe noroi; aderența este minimă aici sus.",
+                "en": "Test your rear wheel traction on the mud; grip is minimal up here."
+              }
+            },
+            {
+              "name": "Park by the Museum",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, um Fußgänger in der Nähe von Pfützen nicht zu bespritzen.",
+                "hu": "Hajtson lassan, hogy ne fröccselje le a gyalogosokat a tócsáknál.",
+                "ro": "Mergeți încet pentru a nu stropi pietonii în apropierea bălților.",
+                "en": "Ride slowly to avoid splashing pedestrians near puddles."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie scharfe Bremsmanöver auf dem nassen Kopfsteinpflaster im Zentrum.",
+              "Schutzbleche sind für diese Tour bei Regen unerlässlich gegen den Schlamm vom Hisar-Hügel.",
+              "Prüfen Sie regelmäßig Ihre Bremsbeläge nach dem Befahren sandiger, nasser Wege.",
+              "Die Sicht kann bei starkem Regen eingeschränkt sein; nutzen Sie permanentes Licht."
+            ],
+            "hu": [
+              "Kerülje az éles fékezést a központ vizes macskakövein.",
+              "A sárvédő elengedhetetlen ezen a túrán a Hiszár-dombról felverődő sár ellen.",
+              "Rendszeresen ellenőrizze a fékbetéteket a homokos, vizes utak használata után.",
+              "A látási viszonyok korlátozottak lehetnek esőben; használjon folyamatos világítást."
+            ],
+            "ro": [
+              "Evitați frânările bruște pe pavajul ud din centru.",
+              "Apărătorile de noroi sunt esențiale în această tură împotriva noroiului de pe deal.",
+              "Verificați regulat plăcuțele de frână după ce parcurgeți drumuri nisipoase și ude.",
+              "Vizibilitatea poate fi redusă în timpul ploii; folosiți lumini permanente."
+            ],
+            "en": [
+              "Avoid sharp braking on the wet cobblestones in the center.",
+              "Mudguards are essential for this tour against the mud from Hisar Hill.",
+              "Check your brake pads regularly after riding on sandy, wet paths.",
+              "Visibility can be limited during heavy rain; use permanent lights."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Radeln in Prokuplje: Wir starten bei frostigen Temperaturen am Museum. Die Fahrt zur Kirche ist kurz, aber der kalte Wind beißt. Der steile Weg zum Hisar-Hügel bringt den Kreislauf in Schwung, oben erwartet uns eine klare Fernsicht über die verschneite Toplica-Region. Bevor die Finger steif werden, beenden wir den Trip im geschützten Stadtpark.",
+            "hu": "Téli tekerés Prokuplje-ben: fagyos hőmérsékletben indulunk a múzeumnál. A templomig vezető út rövid, de a szél metsző. A Hiszár-domb meredek emelkedője felpörgeti a keringést, fent pedig tiszta kilátás vár a havas Toplica-vidékre. Mielőtt az ujjaink megdermednének, a védett városi parkban fejezzük be az utat.",
+            "ro": "Ciclism de iarnă în Prokuplje: pornim de la muzeu pe temperaturi de îngheț. Drumul spre biserică este scurt, dar vântul este tăios. Urcarea abruptă pe dealul Hisar pune sângele în mișcare, iar sus ne așteaptă o vedere clară asupra regiunii Toplica înzăpezite. Înainte ca degetele să înghețe, încheiem călătoria în parcul protejat.",
+            "en": "Winter cycling in Prokuplje: start at the museum in freezing temperatures. The ride to the church is short but the wind is biting. The steep climb to Hisar Hill gets the heart pumping, rewarding you with clear views over the snowy Toplica region. Before your fingers freeze, finish the trip in the sheltered city park."
+          },
+          "stops": [
+            {
+              "name": "National Museum of Toplica",
+              "tip_5lang": {
+                "de": "Lassen Sie die Muskeln im Museum kurz aufwärmen, bevor Sie losfahren.",
+                "hu": "Hagyja, hogy az izmai kicsit bemelegedjenek a múzeumban indulás előtt.",
+                "ro": "Lăsați mușchii să se încălzească puțin în muzeu înainte de a porni.",
+                "en": "Let your muscles warm up in the museum before you start riding."
+              }
+            },
+            {
+              "name": "Church of St. Procopius",
+              "tip_5lang": {
+                "de": "Verketten Sie das Rad an einem festen Pfosten; das Schloss kann einfrieren.",
+                "hu": "Láncolja a biciklit stabil oszlophoz; a zár könnyen befagyhat.",
+                "ro": "Legați bicicleta de un stâlp solid; încuietoarea poate îngheța.",
+                "en": "Chain the bike to a solid post; the lock can easily freeze."
+              }
+            },
+            {
+              "name": "Jug Bogdan's Tower",
+              "tip_5lang": {
+                "de": "Der Boden ist hier oft gefroren und holprig; langsam fahren.",
+                "hu": "A talaj itt gyakran fagyott és hepehupás; hajtson lassan.",
+                "ro": "Solul este adesea înghețat și denivelat aici; rulați încet.",
+                "en": "The ground here is often frozen and bumpy; ride slowly."
+              }
+            },
+            {
+              "name": "Hamam Ruins",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt, um die Durchblutung in den Fingern zu prüfen.",
+                "hu": "Rövid megálló, hogy ellenőrizze az ujjai keringését.",
+                "ro": "Oprire scurtă pentru a verifica circulația sângelui în degete.",
+                "en": "Short stop to check circulation in your fingers."
+              }
+            },
+            {
+              "name": "Toplica Uprising Monument",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den schattigen Betonflächen.",
+                "hu": "Ügyeljen a jegesedésre az árnyékos betonfelületeken.",
+                "ro": "Atenție la polei pe suprafețele de beton aflate la umbră.",
+                "en": "Watch out for black ice on shaded concrete surfaces."
+              }
+            },
+            {
+              "name": "Hisar Hill & Latin Church",
+              "tip_5lang": {
+                "de": "Der Wind oben ist eisig; ziehen Sie eine zusätzliche Schicht an.",
+                "hu": "Fent jeges a szél; vegyen fel egy plusz réteg ruhát.",
+                "ro": "Vântul de sus este înghețat; puneți un strat suplimentar de haine.",
+                "en": "The wind at the top is icy; put on an extra layer of clothing."
+              }
+            },
+            {
+              "name": "Park by the Museum",
+              "tip_5lang": {
+                "de": "Suchen Sie nach dem Park ein warmes Lokal zum Aufwärmen auf.",
+                "hu": "A park után keressen egy meleg helyet a felmelegedéshez.",
+                "ro": "După parc, căutați un local călduros pentru a vă încălzi.",
+                "en": "Look for a warm place to heat up after the park visit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie dicke Handschuhe und winddichte Überschuhe gegen den Fahrtwind.",
+              "Reifendruck leicht senken für besseren Grip auf gefrorenem Boden.",
+              "Salz auf den Straßen kann den Rahmen angreifen; nach der Tour kurz abwischen.",
+              "Die Akkus von E-Bikes oder Lichtern entladen sich bei Frost schneller."
+            ],
+            "hu": [
+              "Viseljen vastag kesztyűt és szélálló kamáslit a menetszél ellen.",
+              "Csökkentse kissé a guminyomást a jobb tapadás érdekében a fagyott talajon.",
+              "Az utakon lévő só kárt tehet a vázban; a túra után törölje át a biciklit.",
+              "Az elektromos kerékpárok akkumulátora és a lámpák fagyban gyorsabban merülnek."
+            ],
+            "ro": [
+              "Purtați mănuși groase și protecții de pantofi rezistente la vânt.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe sol înghețat.",
+              "Sarea de pe drumuri poate ataca cadrul; ștergeți bicicleta după tură.",
+              "Bateriile bicicletelor electrice și ale luminilor se descarcă mai repede la ger."
+            ],
+            "en": [
+              "Wear thick gloves and windproof overshoes against the wind chill.",
+              "Lower tire pressure slightly for better grip on frozen ground.",
+              "Road salt can corrode the frame; wipe down the bike after the tour.",
+              "E-bike batteries and lights drain faster in freezing temperatures."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1044,6 +1444,206 @@
           "Allow enough time for traffic between clusters, even if the distances are short.",
           "Good footwear is essential even on the car tour, as you will be walking within the clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Fahrt durch Prokuplje: Wir nutzen die Parkcluster, um die Fußwege im Regen kurz zu halten. Das Museum und die Kirche sind trockene Highlights. Die Fahrt zum Hisar-Parkplatz spart den steilen Aufstieg im Matsch. Vom Auto aus genießen wir die Aussicht, bevor wir trockenen Fußes das Freiheitsdenkmal besuchen und den Tag gemütlich beenden.",
+            "hu": "Esős autós túra Prokuplje-ben: a parkolóhelyeket okosan használva minimalizáljuk az esőben töltött időt. A múzeum és a templom száraz menedéket nyújt. A Hiszár-dombi parkoló megkímél minket a sáros emelkedőtől. Az autóból is élvezhetjük a kilátást, majd száraz lábbal nézzük meg az emlékművet, mielőtt kényelmesen zárnánk a napot.",
+            "ro": "Tur cu mașina prin Prokuplje pe ploaie: folosim zonele de parcare pentru a scurta mersul prin ploaie. Muzeul și biserica sunt puncte de interes uscate. Parcarea de pe dealul Hisar ne scutește de urcarea prin noroi. Din mașină admirăm panorama, apoi vizităm monumentul fără a ne uda picioarele.",
+            "en": "A rainy drive through Prokuplje: utilize parking clusters to keep walking in the rain minimal. The museum and church are dry highlights. Driving to the Hisar parking lot saves you from the muddy climb. Enjoy views from the car, then visit the monument on dry feet before comfortably ending the day."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Center - Parking",
+              "tip_5lang": {
+                "de": "Günstiger Parkplatz, um das Museum schnell zu erreichen.",
+                "hu": "Kényelmes parkoló a múzeum gyors eléréséhez.",
+                "ro": "Parcare convenabilă pentru a ajunge rapid la muzeu.",
+                "en": "Convenient parking for quick access to the museum."
+              }
+            },
+            {
+              "name": "National Museum of Toplica",
+              "tip_5lang": {
+                "de": "Geben Sie Ihren nassen Schirm am Eingang zur Aufbewahrung ab.",
+                "hu": "Adja le nedves esernyőjét a bejáratnál megőrzésre.",
+                "ro": "Lăsați umbrela udă la intrare pentru păstrare.",
+                "en": "Leave your wet umbrella at the entrance for safekeeping."
+              }
+            },
+            {
+              "name": "St. Procopius Church & Jug Bogdan's Tower",
+              "tip_5lang": {
+                "de": "Fahren Sie so nah wie möglich an den Kircheneingang heran.",
+                "hu": "Hajtson a lehető legközelebb a templom bejáratához.",
+                "ro": "Conduceți cât mai aproape posibil de intrarea în biserică.",
+                "en": "Drive as close as possible to the church entrance."
+              }
+            },
+            {
+              "name": "Hamam Ruins",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; parken Sie am Straßenrand mit Warnblinkanlage.",
+                "hu": "Rövid megálló; parkoljon az út szélén vészvillogóval.",
+                "ro": "Oprire scurtă; parcați pe marginea drumului cu avariile pornite.",
+                "en": "Short stop; park by the roadside with hazard lights on."
+              }
+            },
+            {
+              "name": "Cluster 2: Hisar Hill - Parking",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Regen durch Schlamm rutschig sein.",
+                "hu": "A parkoló esőben sáros és csúszós lehet.",
+                "ro": "Parcarea poate fi alunecoasă din cauza noroiului în timpul ploii.",
+                "en": "The parking lot can be slippery due to mud during rain."
+              }
+            },
+            {
+              "name": "Toplica Uprising Monument",
+              "tip_5lang": {
+                "de": "Besichtigung direkt vom Parkplatz aus möglich.",
+                "hu": "A látogatás közvetlenül a parkolóból is lehetséges.",
+                "ro": "Vizita este posibilă direct din parcare.",
+                "en": "Viewing is possible directly from the parking area."
+              }
+            },
+            {
+              "name": "Hisar Hill & Latin Church",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen für die Aussicht einfach im Auto.",
+                "hu": "Heves esőben maradjon az autóban a kilátás élvezetéhez.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină pentru a admira panorama.",
+                "en": "In case of heavy rain, stay in the car to enjoy the view."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkmöglichkeit direkt am Hisar-Hügel, um Schlammwege zu vermeiden.",
+              "Halten Sie ein Handtuch im Auto bereit, um sich nach kurzen Außenbesuchen abzutrocknen.",
+              "Die Straßen in Prokuplje können bei Regen viele Pfützen bilden; Vorsicht vor Aquaplaning.",
+              "Schalten Sie die Klimaanlage ein, um das Beschlagen der Scheiben zu verhindern."
+            ],
+            "hu": [
+              "Használja a közvetlenül a Hiszár-dombon lévő parkolót a sáros utak elkerülésére.",
+              "Tartson egy törölközőt az autóban a rövid kinti séták utáni szárítkozáshoz.",
+              "Prokuplje utcáin esőben sok tócsa alakulhat ki; vigyázzon a felúszásra.",
+              "Kapcsolja be a klímát, hogy elkerülje a szélvédők bepárásodását."
+            ],
+            "ro": [
+              "Folosiți parcarea direct de pe dealul Hisar pentru a evita drumurile noroioase.",
+              "Țineți un prosop în mașină pentru a vă șterge după scurte vizite în exterior.",
+              "Străzile din Prokuplje pot avea multe bălți; atenție la acvaplanare.",
+              "Porniți aerul condiționat pentru a preveni aburirea geamurilor."
+            ],
+            "en": [
+              "Use the parking directly on Hisar Hill to avoid muddy paths.",
+              "Keep a towel in the car to dry off after short outdoor visits.",
+              "Prokuplje streets can have many puddles during rain; watch out for aquaplaning.",
+              "Turn on the AC to prevent the windshield from fogging up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Roadtrip in Prokuplje: Mit der Heizung auf Maximum starten wir am Nationalmuseum. Die kurzen Wege zwischen den Parkclustern schützen vor der Kälte. Der Aufstieg zum Hisar-Hügel per PKW ist im Winter besonders komfortabel. Die klare Winterluft ermöglicht weite Blicke auf das verschneite Umland, bevor wir die Tour im warmen Fahrzeug beenden.",
+            "hu": "Téli autós kirándulás Prokuplje-ben: maximumra tekert fűtéssel indulunk a múzeumnál. A parkolók közötti rövid távok megvédenek a hidegtől. A Hiszár-dombra való feljutás autóval télen különösen kényelmes. A tiszta téli levegő messzi kilátást enged a havas vidékre, mielőtt a meleg autóban befejeznénk a túrát.",
+            "ro": "Excursie auto de iarnă în Prokuplje: pornim de la muzeu cu căldura la maxim. Distanțele scurte între parcări ne protejează de frig. Urcarea pe dealul Hisar cu mașina este foarte confortabilă iarna. Aerul curat de iarnă permite vederi lungi asupra peisajului înzăpezit înainte de a încheia turul în mașina caldă.",
+            "en": "A winter road trip in Prokuplje: start at the museum with the heater on full. Short distances between parking clusters protect you from the cold. Driving up Hisar Hill is especially comfortable in winter. The clear winter air allows for far-reaching views of the snowy countryside before ending the tour in your warm vehicle."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Center - Parking",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob der Parkplatz von Schnee geräumt ist.",
+                "hu": "Ellenőrizze, hogy a parkolót letakarították-e a hótól.",
+                "ro": "Verificați dacă parcarea a fost deszăpezită.",
+                "en": "Check if the parking lot has been cleared of snow."
+              }
+            },
+            {
+              "name": "National Museum of Toplica",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Kälte für eine Stunde zu vergessen.",
+                "hu": "Ideális hely, hogy egy órára elfelejtse a kinti hideget.",
+                "ro": "Locul ideal pentru a uita de frigul de afară timp de o oră.",
+                "en": "Ideal spot to forget about the cold outside for an hour."
+              }
+            },
+            {
+              "name": "St. Procopius Church & Jug Bogdan's Tower",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz; ziehen Sie die Mütze fest auf.",
+                "hu": "Rövid séta a parkolótól; húzza szorosra a sapkát.",
+                "ro": "Plimbare scurtă de la parcare; puneți-vă căciula bine.",
+                "en": "Short walk from the parking; pull your hat on tight."
+              }
+            },
+            {
+              "name": "Hamam Ruins",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor laufen, um den Innenraum warm zu halten.",
+                "hu": "Hagyja járni a motort, hogy az utastér meleg maradjon.",
+                "ro": "Lăsați motorul pornit pentru a păstra habitaclul cald.",
+                "en": "Keep the engine running to keep the cabin warm."
+              }
+            },
+            {
+              "name": "Cluster 2: Hisar Hill - Parking",
+              "tip_5lang": {
+                "de": "Vorsicht bei der steilen Auffahrt; bei Glätte Kettenpflicht prüfen.",
+                "hu": "Vigyázat a meredek emelkedőn; csúszós úton ellenőrizze a hóláncot.",
+                "ro": "Atenție la urcarea abruptă; verificați necesitatea lanțurilor pe polei.",
+                "en": "Caution on the steep climb; check for snow chains if icy."
+              }
+            },
+            {
+              "name": "Toplica Uprising Monument",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Windschutz beim Fotografieren.",
+                "hu": "Használja az autót szélfogóként fényképezés közben.",
+                "ro": "Folosiți mașina ca paravan împotriva vântului când faceți poze.",
+                "en": "Use the car as a windbreak while taking photos."
+              }
+            },
+            {
+              "name": "Hisar Hill & Latin Church",
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick ohne zu frieren aus dem PKW.",
+                "hu": "Élvezze a panorámát az autóból anélkül, hogy fázna.",
+                "ro": "Bucurați-vă de panorama din mașină fără a îngheța.",
+                "en": "Enjoy the panoramic view from the car without freezing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Fahrzeug über Winterreifen verfügt; der Hisar-Hügel ist steil.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Der Parkplatz am Hügel kann bei Frost extrem glatt sein; vorsichtig einparken.",
+              "Vermeiden Sie das Abstellen des Fahrzeugs in tiefem Schnee abseits der geräumten Flächen."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy autója téli gumival van felszerelve; a Hiszár-domb meredek.",
+              "Legyen önnél jégkaparó és fagyálló folyadék.",
+              "A dombi parkoló fagyban rendkívül csúszós lehet; óvatosan parkoljon.",
+              "Kerülje az autó leállítását mély hóban, a letakarított területeken kívül."
+            ],
+            "ro": [
+              "Asigurați-vă că vehiculul este dotat cu anvelope de iarnă; dealul Hisar este abrupt.",
+              "Aveți la îndemână o racletă și lichid de parbriz anti-îngheț.",
+              "Parcarea de pe deal poate fi extrem de alunecoasă pe ger; parcați cu atenție.",
+              "Evitați parcarea în zăpadă adâncă, în afara zonelor deszăpezite."
+            ],
+            "en": [
+              "Ensure your vehicle is equipped with winter tires; Hisar Hill is steep.",
+              "Carry an ice scraper and anti-freeze fluid.",
+              "The hill parking lot can be extremely slippery in frost; park carefully.",
+              "Avoid parking in deep snow outside of cleared areas."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1348,6 +1948,188 @@
           "Plan for buffer times for any delays.",
           "Validate your ticket upon boarding to avoid fines."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn durch das regnerische Prokuplje: Wir starten im Zentrum beim Museum, wo wir den ersten Schauer abwarten. Der Transit bringt uns bequem in die Nähe der historischen Kirche. Den Aufstieg zum Hisar-Hügel nehmen wir trotz Regen auf uns, da der Bus uns fast bis zum Fuß des Denkmals bringt. Den Tag schließen wir entspannt im geschützten Bereich des Stadtzentrums ab.",
+            "hu": "Tömegközlekedéssel az esős Prokuplje-ben: a központban kezdünk a múzeumnál, kivárva az első záport. A busz kényelmesen elvisz a történelmi templom közelébe. A Hiszár-dombi emelkedőt az eső ellenére is bevállaljuk, mert a járat majdnem az emlékmű lábáig repít. A napot a belváros fedett részein zárjuk pihenéssel.",
+            "ro": "Cu transportul public prin Prokuplje pe ploaie: începem în centru la muzeu, așteptând trecerea ploii. Autobuzul ne duce confortabil aproape de biserica istorică. Acceptăm urcarea pe dealul Hisar în ciuda ploii, deoarece transportul ne lasă aproape de monument. Încheiem ziua relaxați în zonele protejate din centrul orașului.",
+            "en": "Public transit through rainy Prokuplje: start in the center at the museum, waiting out the first shower. The bus takes you comfortably near the historic church. Brave the climb up Hisar Hill despite the rain, as the transit drops you almost at the monument's foot. Relax and finish the day in the sheltered areas of the city center."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Center",
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt mit Unterstand gegen den Regen.",
+                "hu": "Központi átszállóhely fedett várakozóval az eső ellen.",
+                "ro": "Punct central de transfer cu adăpost împotriva ploii.",
+                "en": "Central transfer point with a shelter against the rain."
+              }
+            },
+            {
+              "name": "National Museum of Toplica",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeit auf den nächsten Bus im Museum.",
+                "hu": "Használja ki a múzeumi időt a következő busz érkezéséig.",
+                "ro": "Folosiți timpul petrecut în muzeu până la următorul autobuz.",
+                "en": "Use the museum time until the next bus arrives."
+              }
+            },
+            {
+              "name": "St. Procopius Church & Jug Bogdan's Tower",
+              "tip_5lang": {
+                "de": "Haltestelle in der Nähe; halten Sie den Schirm bereit.",
+                "hu": "Közeli megálló; tartsa készenlétben az esernyőt.",
+                "ro": "Stație în apropiere; țineți umbrela la îndemână.",
+                "en": "Nearby stop; have your umbrella ready."
+              }
+            },
+            {
+              "name": "Cluster 2: Hisar Hill",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan, um Wartezeiten im Regen zu vermeiden.",
+                "hu": "Ellenőrizze a menetrendet, hogy elkerülje az esőben való várakozást.",
+                "ro": "Verificați programul pentru a evita așteptarea în ploaie.",
+                "en": "Check the schedule to avoid waiting in the rain."
+              }
+            },
+            {
+              "name": "Toplica Uprising Monument",
+              "tip_5lang": {
+                "de": "Vom Busstopp nur ein kurzer, nasser Sprint zum Denkmal.",
+                "hu": "A buszmegállótól csak egy rövid, vizes futás az emlékmű.",
+                "ro": "De la stația de autobuz este doar un sprint scurt prin ploaie.",
+                "en": "Just a short, wet dash from the bus stop to the monument."
+              }
+            },
+            {
+              "name": "Hisar Hill",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist der Ausblick oft durch Wolken verdeckt.",
+                "hu": "Heves esőben a kilátást gyakran elfedik a felhők.",
+                "ro": "În caz de ploaie torențială, panorama este adesea ascunsă de nori.",
+                "en": "In heavy rain, the view is often obscured by clouds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App der lokalen Verkehrsbetriebe für Echtzeit-Infos bei Regen-Verspätungen.",
+              "Halten Sie Kleingeld für das Ticket bereit, um den Einstieg im Regen zu beschleunigen.",
+              "Die Busse können bei Regen sehr voll sein; achten Sie auf Ihre Wertsachen.",
+              "Warten Sie im Museumscafé, wenn der nächste Bus erst in 20 Minuten kommt."
+            ],
+            "hu": [
+              "Használja a helyi közlekedési alkalmazást az eső miatti késések nyomon követésére.",
+              "Legyen kéznél aprópénz a jegyhez, hogy gyorsabb legyen a felszállás az esőben.",
+              "A buszok esőben nagyon zsúfoltak lehetnek; ügyeljen értékeire.",
+              "Várjon a múzeumi kávézóban, ha a következő busz csak 20 perc múlva jön."
+            ],
+            "ro": [
+              "Folosiți aplicația locală de transport pentru info în timp real despre întârzierile cauzate de ploaie.",
+              "Aveți pregătit mărunțiș pentru bilet pentru a grăbi urcarea în autobuz pe ploaie.",
+              "Autobuzele pot fi foarte aglomerate pe ploaie; atenție la obiectele de valoare.",
+              "Așteptați la cafeneaua muzeului dacă următorul autobuz vine peste 20 de minute."
+            ],
+            "en": [
+              "Use the local transit app for real-time info on rain-related delays.",
+              "Have exact change ready for the ticket to speed up boarding in the rain.",
+              "Buses can be very crowded during rain; watch your valuables.",
+              "Wait at the museum cafe if the next bus is more than 20 minutes away."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Tour per Transit: Wir nutzen die Busse von Prokuplje, um die Kältephasen draußen kurz zu halten. Das warme Museum ist unser erster Anlaufpunkt. Der Transit bringt uns sicher zum Fuße des Hisar-Hügels, was uns Energie für den winterlichen Aufstieg spart. Genießen Sie die klare Sicht über die verschneite Stadt, bevor uns der nächste Bus zurück ins warme Zentrum bringt.",
+            "hu": "Téli túra tömegközlekedéssel: a prokuplje-i buszokat használjuk, hogy lerövidítsük a kinti hidegben töltött időt. A meleg múzeum az első állomásunk. A járatok biztonságosan elvisznek a Hiszár-domb lábához, így energiát spórolunk a téli emelkedőhöz. Élvezze a tiszta kilátást a havas városra, mielőtt a következő busz visszavisz a meleg központba.",
+            "ro": "Tur de iarnă cu transportul public: folosim autobuzele din Prokuplje pentru a scurta timpul petrecut în frig. Muzeul călduros este prima noastră oprire. Transportul ne duce în siguranță la baza dealului Hisar, economisind energie pentru urcarea de iarnă. Bucurați-vă de vederea clară asupra orașului înzăpezit înainte ca următorul autobuz să vă ducă înapoi în centru.",
+            "en": "A winter tour by transit: use Prokuplje’s buses to minimize time spent in the cold. The warm museum is our first stop. Transit takes you safely to the base of Hisar Hill, saving energy for the winter climb. Enjoy clear views of the snowy city before the next bus whisks you back to the warm center."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Center",
+              "tip_5lang": {
+                "de": "Suchen Sie einen windgeschützten Platz an der Haltestelle.",
+                "hu": "Keressen szélvédett helyet a megállóban.",
+                "ro": "Căutați un loc ferit de vânt în stație.",
+                "en": "Look for a spot sheltered from the wind at the stop."
+              }
+            },
+            {
+              "name": "National Museum of Toplica",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung hier, um die Kerntemperatur zu halten.",
+                "hu": "Használja ki a fűtést, hogy fenntartsa testhőmérsékletét.",
+                "ro": "Folosiți căldura de aici pentru a vă menține temperatura corpului.",
+                "en": "Use the heating here to maintain your core body temperature."
+              }
+            },
+            {
+              "name": "St. Procopius Church & Jug Bogdan's Tower",
+              "tip_5lang": {
+                "de": "Ein kurzer, kalter Fußweg; halten Sie sich in Bewegung.",
+                "hu": "Rövid, hideg séta; maradjon mozgásban.",
+                "ro": "O plimbare scurtă și rece; rămâneți în mișcare.",
+                "en": "A short, cold walk; keep moving to stay warm."
+              }
+            },
+            {
+              "name": "Cluster 2: Hisar Hill",
+              "tip_5lang": {
+                "de": "Der Bus fährt hier seltener; prüfen Sie den Winterfahrplan genau.",
+                "hu": "A busz itt ritkábban jár; alaposan ellenőrizze a téli menetrendet.",
+                "ro": "Autobuzul trece mai rar pe aici; verificați cu atenție programul de iarnă.",
+                "en": "Buses run less frequently here; check the winter schedule carefully."
+              }
+            },
+            {
+              "name": "Toplica Uprising Monument",
+              "tip_5lang": {
+                "de": "Beeilen Sie sich beim Fotografieren, um nicht auszukühlen.",
+                "hu": "Fényképezzen gyorsan, nehogy túlságosan lehűljön.",
+                "ro": "Grăbiți-vă cu pozele pentru a nu vă răci prea tare.",
+                "en": "Be quick with your photos to avoid getting too cold."
+              }
+            },
+            {
+              "name": "Hisar Hill",
+              "tip_5lang": {
+                "de": "Oben angekommen, bietet die Latin Church etwas Windschutz.",
+                "hu": "A csúcsra érve a Latin templom nyújt némi szélvédelmet.",
+                "ro": "Odată ajunși sus, Biserica Latină oferă puțină protecție contra vântului.",
+                "en": "Once at the top, the Latin Church offers some wind protection."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Socken, da das Warten an Haltestellen zu kalten Füßen führt.",
+              "Im Winter können Busse aufgrund von Glätte unregelmäßiger fahren.",
+              "Nutzen Sie die Fahrtzeit, um Ihre Hände in den Taschen aufzuwärmen.",
+              "Die letzte Rückfahrt vom Hisar-Hügel sollte vor Einbruch der Dunkelheit (16:30 Uhr) erfolgen."
+            ],
+            "hu": [
+              "Viseljen meleg zoknit, mert a megállókban való várakozás közben fázhat a lába.",
+              "Télen a buszok a csúszós utak miatt rendszertelenebbül járhatnak.",
+              "Használja ki az utazási időt a kezei felmelegítésére a zsebében.",
+              "A Hiszár-dombról való utolsó visszautat sötétedés (16:30) előtt tervezze."
+            ],
+            "ro": [
+              "Purtați șosete groase, așteptarea în stații poate duce la picioare reci.",
+              "Iarna, autobuzele pot circula neregulat din cauza poleiului.",
+              "Folosiți timpul petrecut în autobuz pentru a vă încălzi mâinile în buzunare.",
+              "Ultima cursă de întoarcere de pe dealul Hisar ar trebui planificată înainte de lăsarea întunericului (16:30)."
+            ],
+            "en": [
+              "Wear warm socks, as waiting at stops can lead to cold feet.",
+              "In winter, buses may run less regularly due to icy road conditions.",
+              "Use travel time to warm up your hands in your pockets.",
+              "Plan your last return trip from Hisar Hill before it gets dark (4:30 PM)."
+            ]
+          }
+        }
       }
     }
   }

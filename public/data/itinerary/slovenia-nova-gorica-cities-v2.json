@@ -358,6 +358,188 @@
           "Bring a reusable water bottle.",
           "Be respectful of the border at Transalpina Square; it's a unique location."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am regnerischen Transalpina-Platz, wo die Grenze zwischen den Ländern im Nebel verschwimmt. Ein kurzer Sprint führt zum Nationaltheater, einem perfekten Rückzugsort vor dem Guss. Mittags bietet das Kloster Kostanjevica spirituelle Ruhe und Schutz. Der Nachmittag endet mit einem atmosphärischen, wenn auch feuchten Spaziergang entlang der smaragdgrünen Soča, die im Regen mystisch leuchtet.",
+            "hu": "A nap az esős Transalpina téren indul, ahol a határvonal a ködben tűnik el. Egy gyors séta a Nemzeti Színházhoz vezet, amely kiváló menedéket nyújt a zápor elől. Délben a Kostanjevica kolostor falai között lelünk nyugalomra és fedélre. A délután a ködös és misztikus Szocsa-folyó partján zárul, ahol az eső kopogása kíséri a smaragdszínű vizet.",
+            "ro": "Ziua începe în Piața Transalpina, unde granița dintre țări se pierde în ceață. O scurtă plimbare duce la Teatrul Național, un refugiu perfect împotriva ploii. La prânz, mănăstirea Kostanjevica oferă liniște spirituală și adăpost. După-amiaza se încheie cu o plimbare atmosferică, deși umedă, pe malul râului Soča, care strălucește mistic sub picăturile de ploaie.",
+            "en": "The day starts at a rainy Transalpina Square, where the border line fades into the mist. A short walk leads to the National Theatre, a perfect shelter from the downpour. At noon, the Kostanjevica Monastery provides spiritual peace and a roof over your head. The afternoon ends with an atmospheric, albeit wet, walk along the emerald Soča River, which looks mystical in the rain."
+          },
+          "stops": [
+            {
+              "name": "Transalpina Square",
+              "tip_5lang": {
+                "de": "Regenschirm fest halten, der Wind zieht hier über die Grenze.",
+                "hu": "Tartsuk erősen az esernyőt, a szél gyakran fúj át a határon.",
+                "ro": "Țineți umbrela bine, vântul bate adesea peste graniță.",
+                "en": "Hold your umbrella tight, the wind often sweeps across the border."
+              }
+            },
+            {
+              "name": "National Theatre Nova Gorica",
+              "tip_5lang": {
+                "de": "Nutzen Sie das moderne Foyer für eine kurze Pause im Trockenen.",
+                "hu": "Használják a modern előcsarnokot egy rövid száraz pihenőre.",
+                "ro": "Folosiți foierul modern pentru o scurtă pauză la adăpost.",
+                "en": "Use the modern foyer for a short break in the dry."
+              }
+            },
+            {
+              "name": "Kostanjevica Monastery",
+              "tip_5lang": {
+                "de": "Die Krypta der Bourbonen ist ein idealer Ort bei Regen.",
+                "hu": "A Bourbon-kripta ideális helyszín esős időben.",
+                "ro": "Cripta Bourbonilor este un loc ideal pe timp de ploaie.",
+                "en": "The Bourbon crypt is an ideal spot during rain."
+              }
+            },
+            {
+              "name": "Kostanjevica Rose Garden",
+              "tip_5lang": {
+                "de": "Die Rosen duften bei Regen besonders intensiv.",
+                "hu": "Az esőben a rózsák illata még intenzívebbé válik.",
+                "ro": "Trandafirii miros mai intens sub ploaie.",
+                "en": "The scent of roses becomes even more intense in the rain."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für nasse Mäntel.",
+                "hu": "Válasszunk olyan éttermet, ahol van hely a vizes kabátoknak.",
+                "ro": "Alegeți un restaurant cu garderobă pentru hainele ude.",
+                "en": "Choose a restaurant with a cloakroom for wet coats."
+              }
+            },
+            {
+              "name": "Walk along the Isonzo (Soča) River",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Pfaden direkt am Flussufer.",
+                "hu": "Vigyázat, a folyóparti ösvények csúszósak lehetnek.",
+                "ro": "Atenție, potecile de pe malul râului pot fi alunecoase.",
+                "en": "Be careful, the paths along the river can be slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Wege zum Kloster ansteigen.",
+              "Das Einkaufszentrum Qlandia bietet eine gute Alternative bei starkem Guss.",
+              "Die Busse in der Stadt sind eine trockene Option für längere Strecken.",
+              "Ein heißer slowenischer Tee in einem Café im Zentrum wärmt auf."
+            ],
+            "hu": [
+              "Viseljünk vízálló cipőt, mert a kolostorhoz vezető út emelkedik.",
+              "A Qlandia bevásárlóközpont jó alternatíva nagy felhőszakadás esetén.",
+              "A városi buszok száraz opciót jelentenek a hosszabb szakaszokra.",
+              "Egy forró szlovén tea a központi kávézókban segít átmelegedni."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, drumul spre mănăstire este în pantă.",
+              "Centrul comercial Qlandia este o alternativă bună în caz de aversă.",
+              "Autobuzele orașului sunt o opțiune uscată pentru distanțe mai mari.",
+              "Un ceai sloven fierbinte într-o cafenea centrală vă va încălzi."
+            ],
+            "en": [
+              "Wear waterproof shoes as the path to the monastery is uphill.",
+              "The Qlandia shopping mall is a good alternative during heavy downpours.",
+              "City buses provide a dry option for longer stretches.",
+              "A hot Slovenian tea in a central café will help you warm up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am Transalpina-Platz offenbart die scharfen Silhouetten der Alpen. Der Besuch im Theater ist angenehm geheizt und bietet kulturelle Einblicke. Mittags lockt das Kloster mit seiner stillen, frostigen Pracht und der Geschichte der Bourbonen. Da die Sonne bereits um 16:30 Uhr sinkt, wird der Spaziergang an der Soča zu einem magischen Erlebnis in der blauen Stunde.",
+            "hu": "A tiszta téli reggel a Transalpina téren feltárja az Alpok éles sziluettjeit. A színházlátogatás kellemesen fűtött környezetben zajlik. Délben a kolostor csendes, fagyos pompájával és a Bourbonok történetével vár. Mivel a nap már 16:30-kor nyugszik, a Szocsa-parti séta a kék óra mágikus élményévé válik.",
+            "ro": "O dimineață senină de iarnă în Piața Transalpina dezvăluie siluetele ascuțite ale Alpilor. Vizita la teatru este plăcut încălzită. La prânz, mănăstirea atrage prin splendoarea sa tăcută și înghețată. Deoarece soarele apune deja la 16:30, plimbarea pe malul râului Soča devine o experiență magică în ora albastră.",
+            "en": "A clear winter morning at Transalpina Square reveals the sharp silhouettes of the Alps. The theatre visit is pleasantly heated and offers cultural insights. At noon, the monastery beckons with its silent, frosty splendor and Bourbon history. Since the sun sets as early as 16:30, the walk along the Soča becomes a magical blue hour experience."
+          },
+          "stops": [
+            {
+              "name": "Transalpina Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Metallmarkierungen am Boden.",
+                "hu": "Vigyázzunk a jegesedésre a földön lévő fémjelzéseknél.",
+                "ro": "Atenție la polei pe marcajele metalice de pe sol.",
+                "en": "Watch out for ice on the metal markings on the ground."
+              }
+            },
+            {
+              "name": "National Theatre Nova Gorica",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme der modernen Architektur.",
+                "hu": "Élvezzük a modern építészet adta meleget.",
+                "ro": "Bucurați-vă de căldura arhitecturii moderne.",
+                "en": "Enjoy the warmth of the modern architecture."
+              }
+            },
+            {
+              "name": "Kostanjevica Monastery",
+              "tip_5lang": {
+                "de": "In der Kirche ist es kühl, ziehen Sie sich warm an.",
+                "hu": "A templomban hűvös van, öltözzünk rétegesen.",
+                "ro": "În biserică este răcoare, îmbrăcați-vă bine.",
+                "en": "It's cool inside the church, dress warmly."
+              }
+            },
+            {
+              "name": "Kostanjevica Rose Garden",
+              "tip_5lang": {
+                "de": "Auch ohne Blüten bietet der Garten einen tollen Blick auf Gorizia.",
+                "hu": "Virágok nélkül is pazar innen a kilátás Goriziára.",
+                "ro": "Chiar și fără flori, grădina oferă o vedere excelentă spre Gorizia.",
+                "en": "Even without blooms, the garden offers a great view of Gorizia."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Probieren Sie herzhafte Jota-Suppe zum Aufwärmen.",
+                "hu": "Kóstoljuk meg a laktató Jota levest a felmelegedéshez.",
+                "ro": "Gustați supa consistentă Jota pentru a vă încălzi.",
+                "en": "Try the hearty Jota soup to warm up."
+              }
+            },
+            {
+              "name": "Walk along the Isonzo (Soča) River",
+              "tip_5lang": {
+                "de": "Frühzeitig aufbrechen, es wird gegen 16:30 Uhr dunkel.",
+                "hu": "Induljunk időben, 16:30 körül már sötétedik.",
+                "ro": "Porniți devreme, se întunecă în jur de ora 16:30.",
+                "en": "Start early, it gets dark around 16:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Bora-Wind kann sehr kalt sein, Schal und Mütze sind Pflicht.",
+              "Die Museen schließen im Winter oft etwas früher.",
+              "Die Soča hat im Winter eine besonders klare, türkisblaue Farbe.",
+              "Genießen Sie die Weihnachtsbeleuchtung im Zentrum ab 17 Uhr."
+            ],
+            "hu": [
+              "A bóra szél nagyon hideg lehet, a sál és sapka kötelező.",
+              "A múzeumok télen gyakran korábban zárnak.",
+              "A Szocsa télen különösen tiszta, türkizkék színben pompázik.",
+              "Élvezzük a központ karácsonyi fényeit 17 órától."
+            ],
+            "ro": [
+              "Vântul Bora poate fi foarte rece, fularul și căciula sunt obligatorii.",
+              "Muzeele se închid adesea mai devreme iarna.",
+              "Râul Soča are o culoare turcoaz deosebit de clară iarna.",
+              "Bucurați-vă de luminile de Crăciun din centru începând cu ora 17."
+            ],
+            "en": [
+              "The Bora wind can be very cold, a scarf and hat are mandatory.",
+              "Museums often close slightly earlier in winter.",
+              "The Soča river has a particularly clear, turquoise color in winter.",
+              "Enjoy the Christmas lights in the center from 17:00."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -710,6 +892,188 @@
           "Check the bike paths in advance, as some can be challenging.",
           "Bring plenty of water, especially in summer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet erfrischend am Transalpina-Platz. Der Weg zum Kloster Kostanjevica erfordert gute Bremsen auf nassem Asphalt. Entlang der Soča spritzt das Wasser hoch, was die Fahrt abenteuerlich macht. Mittags bietet Solkan eine trockene Rast, bevor das Schloss Kromberk mit seinen Ausstellungen den perfekten Indoor-Abschluss für den nassen Tag bildet.",
+            "hu": "A kerékpártúra frissítően indul a Transalpina téren. A kolostorhoz vezető út jó fékeket igényel a vizes aszfalton. A Szocsa mentén felverődő víz kalandossá teszi az utat. Délben Solkan nyújt száraz pihenőt, mielőtt a Kromberk-kastély kiállításai tökéletes fedett zárást adnának a vizes napnak.",
+            "ro": "Turul cu bicicleta începe revigorant în Piața Transalpina. Drumul spre mănăstire necesită frâne bune pe asfaltul ud. Pe malul râului Soča, apa sare, făcând călătoria aventuroasă. La prânz, Solkan oferă un popas uscat, înainte ca castelul Kromberk să ofere încheierea perfectă la interior.",
+            "en": "The bike tour starts refreshingly at Transalpina Square. The path to the monastery requires good brakes on wet asphalt. Along the Soča, the splashing water makes the ride adventurous. At noon, Solkan offers a dry rest before Kromberk Castle's exhibitions provide the perfect indoor conclusion to the wet day."
+          },
+          "stops": [
+            {
+              "name": "Transalpina Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Überfahren der glatten Schienen.",
+                "hu": "Vigyázzunk a csúszós síneken való áthaladáskor.",
+                "ro": "Atenție la traversarea șinelor alunecoase.",
+                "en": "Be careful when crossing the slippery tracks."
+              }
+            },
+            {
+              "name": "Kostanjevica Monastery",
+              "tip_5lang": {
+                "de": "Fahrräder können am Klostereingang untergestellt werden.",
+                "hu": "A kerékpárok a kolostor bejáratánál fedett helyen tárolhatók.",
+                "ro": "Bicicletele pot fi lăsate sub acoperiș la intrarea în mănăstire.",
+                "en": "Bikes can be parked under cover at the monastery entrance."
+              }
+            },
+            {
+              "name": "Ride along the Isonzo (Soča) River",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Pfützen, die Tiefe ist oft schwer einzuschätzen.",
+                "hu": "Kerüljük a tócsákat, a mélységük gyakran csalóka.",
+                "ro": "Evitați bălțile, adâncimea este greu de estimat.",
+                "en": "Avoid puddles, the depth is often hard to judge."
+              }
+            },
+            {
+              "name": "Solkan Bridge",
+              "tip_5lang": {
+                "de": "Der Steinboden der Brücke ist bei Regen extrem glatt.",
+                "hu": "A híd kőburkolata esőben rendkívül csúszós.",
+                "ro": "Pavajul de piatră al podului este extrem de alunecos pe ploaie.",
+                "en": "The stone paving of the bridge is extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Lunch in Solkan",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pause, um die Regenkleidung auszuschütteln.",
+                "hu": "Használjuk ki a szünetet az esőruházat lerázására.",
+                "ro": "Folosiți pauza pentru a scutura hainele de ploaie.",
+                "en": "Use the break to shake off your rain gear."
+              }
+            },
+            {
+              "name": "Back to the center & Kromberk Castle",
+              "tip_5lang": {
+                "de": "Der Anstieg zum Schloss wärmt bei kühlem Regen auf.",
+                "hu": "A kastélyhoz vezető emelkedő segít bemelegedni a hűvös esőben.",
+                "ro": "Urcarea spre castel vă va încălzi în ploaia răcoroasă.",
+                "en": "The climb to the castle will warm you up in the cool rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Tragen Sie auffällige Regenkleidung für bessere Sichtbarkeit.",
+              "Die Radwege sind gut ausgebaut, aber Laub kann rutschig sein.",
+              "In Solkan gibt es Radler-freundliche Cafés mit Unterstand."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Viseljünk feltűnő esőruházatot a jobb láthatóságért.",
+              "A kerékpárutak jók, de a lehullott levelek csúszhatnak.",
+              "Solkanban vannak kerékpárosbarát kávézók fedett terasszal."
+            ],
+            "ro": [
+              "Apărătoarele de noroi sunt indispensabile pe această vreme.",
+              "Purtați haine de ploaie stridente pentru o mai bună vizibilitate.",
+              "Pistele de biciclete sunt bune, dar frunzele pot fi alunecoase.",
+              "În Solkan există cafenele prietenoase cu bicicliștii, cu adăpost."
+            ],
+            "en": [
+              "Mudguards are essential in this weather.",
+              "Wear bright rain gear for better visibility.",
+              "Cycle paths are good, but fallen leaves can be slippery.",
+              "In Solkan, there are cyclist-friendly cafes with shelters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Transalpina-Platz weckt die Geister. Der Anstieg zum Kloster Kostanjevica bringt den Kreislauf in Schwung. Die Fahrt entlang der Soča bietet glitzernde Aussichten auf den eiskalten Fluss. Nach einer stärkenden Mahlzeit in Solkan führt der Weg zum Schloss Kromberk, dessen Park im Winterschlaf eine ganz eigene, stille Ästhetik besitzt.",
+            "hu": "A fagyos indítás a Transalpina téren rögtön felébreszt. A kolostorhoz vezető emelkedő segít beindítani a vérkeringést. A Szocsa menti tekerés csillogó kilátást nyújt a jéghideg folyóra. Egy laktató solkani ebéd után a Kromberk-kastély felé vesszük az irányt, melynek téli álmot alvó parkja különleges esztétikával bír.",
+            "ro": "Un început geros în Piața Transalpina vă va trezi imediat. Urcarea spre mănăstire pune sângele în mișcare. Călătoria pe malul râului Soča oferă priveliști scânteietoare. După o masă consistentă în Solkan, drumul duce la castelul Kromberk, al cărui parc are o estetică aparte în somnul de iarnă.",
+            "en": "A frosty start at Transalpina Square wakes up the spirit. The climb to the monastery gets the circulation going. The ride along the Soča offers glittering views of the ice-cold river. After a strengthening meal in Solkan, the path leads to Kromberk Castle, whose park in winter hibernation has its own quiet aesthetic."
+          },
+          "stops": [
+            {
+              "name": "Transalpina Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Tau auf den Bodenplatten.",
+                "hu": "Vigyázzunk a megfagyott harmatra a burkolaton.",
+                "ro": "Atenție la roua înghețată de pe dale.",
+                "en": "Watch out for frozen dew on the paving slabs."
+              }
+            },
+            {
+              "name": "Kostanjevica Monastery",
+              "tip_5lang": {
+                "de": "Die Aussicht auf die schneebedeckten Berge ist von hier top.",
+                "hu": "A kilátás a hófödte hegyekre innen a legszebb.",
+                "ro": "Vederea spre munții înzăpeziți este superbă de aici.",
+                "en": "The view of the snow-capped mountains is top-notch from here."
+              }
+            },
+            {
+              "name": "Ride along the Isonzo (Soča) River",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Abfahrten.",
+                "hu": "Viseljünk szélálló kesztyűt a lejtőkhöz.",
+                "ro": "Purtați mănuși rezistente la vânt pentru coborâri.",
+                "en": "Wear windproof gloves for the descents."
+              }
+            },
+            {
+              "name": "Solkan Bridge",
+              "tip_5lang": {
+                "de": "Die Brücke liegt oft im kalten Schatten, zügig weiterfahren.",
+                "hu": "A híd gyakran hideg árnyékban van, tekerjünk tempósan.",
+                "ro": "Podul este adesea în umbră rece, pedalați cu spor.",
+                "en": "The bridge is often in cold shadow, keep a steady pace."
+              }
+            },
+            {
+              "name": "Lunch in Solkan",
+              "tip_5lang": {
+                "de": "Ein warmer Platz am Ofen ist jetzt Gold wert.",
+                "hu": "Egy meleg hely a kályha mellett most aranyat ér.",
+                "ro": "Un loc cald lângă sobă merită toți banii acum.",
+                "en": "A warm spot by the stove is worth gold right now."
+              }
+            },
+            {
+              "name": "Back to the center & Kromberk Castle",
+              "tip_5lang": {
+                "de": "Das Schlossmuseum ist im Winter angenehm beheizt.",
+                "hu": "A kastélymúzeum télen is kellemesen fűtött.",
+                "ro": "Muzeul castelului este încălzit plăcut iarna.",
+                "en": "The castle museum is pleasantly heated in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Wege können durch gefrierende Nässe tückisch sein.",
+              "Nutzen Sie die kürzeren Tage für eine Tour am Vormittag.",
+              "Ein Thermosbecher mit Tee im Flaschenhalter ist ideal.",
+              "Vermeiden Sie späte Fahrten ohne ausreichende Beleuchtung."
+            ],
+            "hu": [
+              "Az utak a lefagyó nedvesség miatt csalókák lehetnek.",
+              "Használjuk ki a rövid nappalokat egy délelőtti túrával.",
+              "Egy termosz tea a kulacstartóban ideális választás.",
+              "Kerüljük a késői tekerést megfelelő világítás nélkül."
+            ],
+            "ro": [
+              "Drumurile pot fi înșelătoare din cauza umezelii care îngheață.",
+              "Profitate de zilele scurte pentru un tur dimineața.",
+              "Un termos cu ceai în suportul de bidon este ideal.",
+              "Evitați plimbările târzii fără iluminare adecvată."
+            ],
+            "en": [
+              "The paths can be treacherous due to freezing moisture.",
+              "Take advantage of the short days with a morning tour.",
+              "A thermos of tea in the bottle cage is ideal.",
+              "Avoid late rides without proper lighting."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1086,6 +1450,206 @@
           "The road to Sveta Gora is narrow and winding; drive carefully.",
           "Some parking areas require payment."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Nova Gorica auch bei starkem Regen entspannt erkunden. Nach einem kurzen Halt am Transalpina-Platz geht es trocken zum Kloster Kostanjevica und weiter zum prächtigen Schloss Kromberk. Das Mittagessen wird gemütlich im Warmen genossen, bevor die Fahrt zur Sveta Gora führt, wo die tiefhängenden Wolken eine dramatische Kulisse für die Basilika bilden.",
+            "hu": "Autóval Nova Gorica még nagy esőben is kényelmesen felfedezhető. A Transalpina téri rövid megálló után szárazon jutunk el a kolostorhoz, majd a pompás Kromberk-kastélyhoz. Az ebédet a melegben fogyasztjuk el, mielőtt felautóznánk a Sveta Gorára, ahol az alacsonyan szálló felhők drámai díszletet adnak a bazilikának.",
+            "ro": "Cu mașina, Nova Gorica poate fi explorată relaxat chiar și pe ploaie torențială. După o scurtă oprire în Piața Transalpina, mergem la mănăstire și apoi la castelul Kromberk. Prânzul este savurat la căldură, înainte de a urca pe Sveta Gora, unde norii joși creează un decor dramatic pentru bazilică.",
+            "en": "By car, Nova Gorica can be explored comfortably even in heavy rain. After a short stop at Transalpina Square, travel dry to the monastery and then to the magnificent Kromberk Castle. Lunch is enjoyed in the warm before driving to Sveta Gora, where the low-hanging clouds provide a dramatic backdrop for the basilica."
+          },
+          "stops": [
+            {
+              "name": "Park & Explore Center: Transalpina Square",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Platz, um den Fußweg im Regen zu minimieren.",
+                "hu": "Parkoljunk közel a térhez, hogy minimalizáljuk az esőben gyaloglást.",
+                "ro": "Parcați aproape de piață pentru a minimiza mersul prin ploaie.",
+                "en": "Park close to the square to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Kostanjevica Monastery & Rose Garden",
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt am Kloster ist sehr praktisch.",
+                "hu": "A közvetlenül a kolostornál lévő parkoló nagyon praktikus.",
+                "ro": "Parcarea direct la mănăstire este foarte practică.",
+                "en": "The parking lot directly at the monastery is very convenient."
+              }
+            },
+            {
+              "name": "Drive to Kromberk Castle",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht aus dem Fenster während der Fahrt.",
+                "hu": "Élvezzük a kilátást az ablakból az út során.",
+                "ro": "Bucurați-vă de priveliște pe fereastră în timpul drumului.",
+                "en": "Enjoy the view from the window during the drive."
+              }
+            },
+            {
+              "name": "Lunch in Kromberk",
+              "tip_5lang": {
+                "de": "Gute Parkmöglichkeiten direkt bei den Restaurants.",
+                "hu": "Kiváló parkolási lehetőség közvetlenül az éttermeknél.",
+                "ro": "Posibilități bune de parcare direct la restaurante.",
+                "en": "Good parking options directly by the restaurants."
+              }
+            },
+            {
+              "name": "Drive to Solkan Bridge",
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus ist die Brücke nur einen Katzensprung entfernt.",
+                "hu": "A parkolótól a híd csak egy ugrásra van.",
+                "ro": "De la parcare, podul este la doar o aruncătură de băț.",
+                "en": "The bridge is just a stone's throw away from the parking lot."
+              }
+            },
+            {
+              "name": "Drive to Sveta Gora",
+              "tip_5lang": {
+                "de": "Vorsicht auf der kurvigen Bergstraße bei Nässe.",
+                "hu": "Vigyázat a kanyargós hegyi úton nedves időben.",
+                "ro": "Atenție pe drumul montan virajat pe carosabil umed.",
+                "en": "Be careful on the winding mountain road when wet."
+              }
+            },
+            {
+              "name": "Sunset at Sveta Gora viewpoint",
+              "tip_5lang": {
+                "de": "Bei Regen ist die Sicht oft durch Wolken versperrt.",
+                "hu": "Esőben a kilátást gyakran elzárják a felhők.",
+                "ro": "Pe ploaie, vizibilitatea este adesea blocată de nori.",
+                "en": "During rain, the view is often blocked by clouds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen sind gut, aber bei Starkregen kann Aquaplaning auftreten.",
+              "Sveta Gora ist auch bei Nebel sehr spirituell und sehenswert.",
+              "Nutzen Sie die Parkhäuser im Stadtzentrum für trockene Übergänge.",
+              "Prüfen Sie den Reifendruck vor der Fahrt in die Berge."
+            ],
+            "hu": [
+              "Az utak jók, de nagy esőben vízátfolyások alakulhatnak ki.",
+              "Sveta Gora ködben is rendkívül spirituális és látványos.",
+              "Használjuk a belvárosi parkolóházakat a száraz közlekedéshez.",
+              "Ellenőrizzük a guminyomást a hegyi menet előtt."
+            ],
+            "ro": [
+              "Drumurile sunt bune, dar pe ploaie torențială poate apărea acvaplanarea.",
+              "Sveta Gora este foarte spirituală și merită vizitată chiar și pe ceață.",
+              "Folosiți parcările supraetajate din centru pentru acces uscat.",
+              "Verificați presiunea în pneuri înainte de drumul spre munte."
+            ],
+            "en": [
+              "Roads are good, but aquaplaning can occur during heavy rain.",
+              "Sveta Gora is very spiritual and worth seeing even in fog.",
+              "Use multi-story car parks in the city center for dry transitions.",
+              "Check tire pressure before driving into the mountains."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterfahrt beginnt am frostigen Transalpina-Platz. Über das Kloster Kostanjevica geht es zum Schloss Kromberk, dessen Park oft mit Raureif überzogen ist. Nach einem warmen Mittagessen führt die kurvige Straße hinauf zur Sveta Gora. Der Sonnenuntergang von dort oben ist im Winter besonders spektakulär, wenn das Licht über die schneebedeckten Gipfel der Julischen Alpen streift.",
+            "hu": "A téli autózás a fagyos Transalpina téren indul. A kolostoron keresztül a Kromberk-kastélyhoz hajtunk, melynek parkját gyakran zúzmara fedi. Egy meleg ebéd után kanyargós út vezet fel a Sveta Gorára. A naplemente onnan fentről télen különösen látványos, ahogy a fény végigpásztázza a Júliai-Alpok hófödte csúcsait.",
+            "ro": "Drumul de iarnă începe în Piața Transalpina geroasă. Trecând pe la mănăstire, mergem la castelul Kromberk, al cărui parc este adesea acoperit de chiciură. După un prânz cald, drumul virajat duce sus la Sveta Gora. Apusul de acolo este spectaculos iarna, când lumina atinge vârfurile înzăpezite ale Alpilor Iulieni.",
+            "en": "The winter drive starts at the frosty Transalpina Square. Via the monastery, head to Kromberk Castle, whose park is often covered in hoarfrost. After a warm lunch, the winding road leads up to Sveta Gora. The sunset from up there is particularly spectacular in winter when the light brushes across the snow-capped peaks of the Julian Alps."
+          },
+          "stops": [
+            {
+              "name": "Park & Explore Center: Transalpina Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Parkplatz.",
+                "hu": "Vigyázzunk a jeges foltokra a parkolóban.",
+                "ro": "Atenție la porțiunile înghețate din parcare.",
+                "en": "Watch out for icy patches in the parking lot."
+              }
+            },
+            {
+              "name": "Kostanjevica Monastery & Rose Garden",
+              "tip_5lang": {
+                "de": "Die Zufahrt zum Kloster wird bei Schnee geräumt.",
+                "hu": "A kolostorhoz vezető utat hóesésben is takarítják.",
+                "ro": "Accesul la mănăstire este deszăpezit în caz de ninsoare.",
+                "en": "The access road to the monastery is cleared in case of snow."
+              }
+            },
+            {
+              "name": "Drive to Kromberk Castle",
+              "tip_5lang": {
+                "de": "Winterreifen sind für die Hügellagen absolut notwendig.",
+                "hu": "A téli gumi elengedhetetlen a dombos szakaszokon.",
+                "ro": "Anvelopele de iarnă sunt absolut necesare pentru zonele de deal.",
+                "en": "Winter tires are absolutely necessary for the hilly areas."
+              }
+            },
+            {
+              "name": "Lunch in Kromberk",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Schloss im Winterlicht.",
+                "hu": "Élvezzük a kastély látványát a téli fényekben.",
+                "ro": "Bucurați-vă de vederea castelului în lumina iernii.",
+                "en": "Enjoy the view of the castle in the winter light."
+              }
+            },
+            {
+              "name": "Drive to Solkan Bridge",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für ein Foto der Brücke im Abendlicht.",
+                "hu": "Rövid megálló egy fotóra az esti fényben úszó hídról.",
+                "ro": "Scurt popas pentru o fotografie cu podul în lumina serii.",
+                "en": "Short stop for a photo of the bridge in the evening light."
+              }
+            },
+            {
+              "name": "Drive to Sveta Gora",
+              "tip_5lang": {
+                "de": "Bei Schneefall können Schneeketten erforderlich sein.",
+                "hu": "Hóesésben hóláncra is szükség lehet.",
+                "ro": "În caz de ninsoare, pot fi necesare lanțurile antiderapante.",
+                "en": "Snow chains may be required during snowfall."
+              }
+            },
+            {
+              "name": "Sunset at Sveta Gora viewpoint",
+              "tip_5lang": {
+                "de": "Warm anziehen, der Wind hier oben ist im Winter beißend.",
+                "hu": "Öltözzünk melegen, a szél itt fent metsző télen.",
+                "ro": "Îmbrăcați-vă gros, vântul de aici este tăios iarna.",
+                "en": "Dress warmly, the wind up here is biting in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer Eiskratzer und Enteiser im Auto mit.",
+              "Die Auffahrt zur Sveta Gora kann im Winter tückisch glatt sein.",
+              "Die Sonne geht früh unter, planen Sie die Fahrt bis 16 Uhr.",
+              "Frostschutzmittel in der Scheibenwaschanlage nicht vergessen."
+            ],
+            "hu": [
+              "Mindig legyen nálunk jégkaparó és jégoldó az autóban.",
+              "A Sveta Gorára vezető út télen trükkösen csúszós lehet.",
+              "A nap korán nyugszik, tervezzük az utat 16 óráig.",
+              "Ne felejtsük el a fagyállót a szélvédőmosóból."
+            ],
+            "ro": [
+              "Aveți întotdeauna în mașină o răzuitoare și spray de dezghețare.",
+              "Urcarea spre Sveta Gora poate fi înșelător de alunecoasă iarna.",
+              "Soarele apune devreme, planificați drumul până la ora 16.",
+              "Nu uitați lichidul de parbriz rezistent la îngheț."
+            ],
+            "en": [
+              "Always carry an ice scraper and de-icer in the car.",
+              "The drive up to Sveta Gora can be treacherously slippery in winter.",
+              "The sun sets early, plan your trip by 16:00.",
+              "Don't forget antifreeze in the windshield washer system."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1438,6 +2002,188 @@
           "Check the bus schedule in advance, especially on weekends.",
           "Have some small change ready for bus tickets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit den Stadtbussen bleibt man in Nova Gorica auch bei Regen trocken. Von der Busstation geht es zum Transalpina-Platz und weiter zum Kloster Kostanjevica. Der Bus nach Kromberk bietet eine bequeme Fahrt zum Schlossmuseum. Mittags wärmt man sich in einem Restaurant auf, bevor die Route am späten Nachmittag in Solkan endet, wo der Blick auf die Brücke auch bei Regen beeindruckt.",
+            "hu": "A városi buszokkal Nova Gorica esőben is szárazon bejárható. A buszállomásról a Transalpina térre, majd a kolostorhoz jutunk. A Kromberkbe tartó busz kényelmes utat biztosít a kastélymúzeumhoz. Délben egy étteremben melegedünk fel, mielőtt a késő délutáni útvonal Solkanban zárulna, ahol a híd látványa esőben is lenyűgöző.",
+            "ro": "Cu autobuzele orașului, rămâneți uscați în Nova Gorica chiar și pe ploaie. De la autogară mergem în Piața Transalpina și apoi la mănăstire. Autobuzul spre Kromberk oferă o călătorie confortabilă spre muzeul castelului. La prânz vă încălziți într-un restaurant, înainte ca traseul să se încheie în Solkan.",
+            "en": "With city buses, you stay dry in Nova Gorica even when it rains. From the bus station, head to Transalpina Square and then to the monastery. The bus to Kromberk provides a comfortable ride to the castle museum. At noon, warm up in a restaurant before the route ends in Solkan in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus Station & Transalpina Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehäuschen an der Station.",
+                "hu": "Használjuk a buszmegállók váróhelyiségeit.",
+                "ro": "Folosiți adăposturile din stație.",
+                "en": "Use the shelters at the station."
+              }
+            },
+            {
+              "name": "Kostanjevica Monastery",
+              "tip_5lang": {
+                "de": "Der Bus hält nur wenige Gehminuten vom Kloster entfernt.",
+                "hu": "A busz csak pár perc sétára áll meg a kolostortól.",
+                "ro": "Autobuzul oprește la doar câteva minute de mers de mănăstire.",
+                "en": "The bus stops just a few minutes' walk from the monastery."
+              }
+            },
+            {
+              "name": "Bus to Kromberk Castle",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan, Busse fahren seltener am Wochenende.",
+                "hu": "Ellenőrizzük a menetrendet, hétvégén ritkábban járnak a buszok.",
+                "ro": "Verificați orarul, autobuzele circulă mai rar în weekend.",
+                "en": "Check the schedule, buses run less frequently on weekends."
+              }
+            },
+            {
+              "name": "Lunch near the castle",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal in direkter Nähe zur Bushaltestelle.",
+                "hu": "Keressünk olyan helyet, amely közel van a buszmegállóhoz.",
+                "ro": "Căutați un local în imediata apropiere a stației de autobuz.",
+                "en": "Look for a place in direct proximity to the bus stop."
+              }
+            },
+            {
+              "name": "Bus to Solkan for Solkan Bridge",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint von der Haltestelle zur Brücke bei Regen.",
+                "hu": "Rövid futás a megállótól a hídig eső esetén.",
+                "ro": "Un scurt sprint de la stație până la pod în caz de ploaie.",
+                "en": "A short sprint from the stop to the bridge in case of rain."
+              }
+            },
+            {
+              "name": "Walk along the Soča",
+              "tip_5lang": {
+                "de": "Bei starkem Regen kann man die Aussicht auch vom Bus aus genießen.",
+                "hu": "Nagy esőben a kilátást a busz ablakából is élvezhetjük.",
+                "ro": "Pe ploaie torențială, vă puteți bucura de priveliște și din autobuz.",
+                "en": "In heavy rain, you can also enjoy the view from the bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten im Vorverkauf oder nutzen Sie Kontaktloses Bezahlen.",
+              "Die App des lokalen Verkehrsunternehmens zeigt Verspätungen an.",
+              "Die Busse sind im Winter und bei Regen angenehm beheizt.",
+              "Kombinieren Sie Busfahrten mit kurzen Sprints unter den Regenschirm."
+            ],
+            "hu": [
+              "Vegyünk jegyet előre, vagy használjuk az érintésmentes fizetést.",
+              "A helyi közlekedési társaság applikációja mutatja a késéseket.",
+              "A buszok télen és esőben is kellemesen fűtöttek.",
+              "Kombináljuk a buszozást rövid esernyős szakaszokkal."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans sau folosiți plata contactless.",
+              "Aplicația companiei locale de transport arată întârzierile.",
+              "Autobuzele sunt încălzite plăcut iarna și pe timp de ploaie.",
+              "Combinați mersul cu autobuzul cu scurte reprize sub umbrelă."
+            ],
+            "en": [
+              "Buy tickets in advance or use contactless payment.",
+              "The local transport company's app shows delays.",
+              "Buses are pleasantly heated in winter and during rain.",
+              "Combine bus rides with short sprints under your umbrella."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt an der Busstation. Per Transit geht es zum Transalpina-Platz und zum Kloster Kostanjevica, wo die Luft rein und kalt ist. Die Fahrt zum Schloss Kromberk führt durch die winterliche Landschaft des Vipava-Tals. Nach einem herzhaften Mittagessen geht es nach Solkan, wo man die blaue Stunde an der Soča erlebt, bevor der Bus zurück ins Zentrum fährt.",
+            "hu": "A tiszta téli reggel a buszállomáson indul. Tömegközlekedéssel jutunk a Transalpina térre és a kolostorhoz, ahol a levegő friss és hideg. A Kromberk-kastélyhoz vezető út a Vipava-völgy téli tájain visz keresztül. Egy laktató ebéd után Solkanba indulunk, ahol átéljük a kék órát a Szocsa partján.",
+            "ro": "O dimineață senină de iarnă începe la autogară. Mergem cu transportul public în Piața Transalpina și la mănăstire, unde aerul este curat și rece. Drumul spre castelul Kromberk trece prin peisajul de iarnă al văii Vipava. După un prânz consistent, mergem în Solkan pentru ora albastră pe malul râului Soča.",
+            "en": "A clear winter morning starts at the bus station. Take transit to Transalpina Square and the monastery, where the air is crisp and cold. The ride to Kromberk Castle takes you through the winter landscape of the Vipava Valley. After a hearty lunch, head to Solkan to experience the blue hour by the Soča before the bus takes you back to the center."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus Station & Transalpina Square",
+              "tip_5lang": {
+                "de": "Warten Sie im beheizten Bereich der Station.",
+                "hu": "Várjunk az állomás fűtött várótermében.",
+                "ro": "Așteptați în zona încălzită a gării.",
+                "en": "Wait in the heated area of the station."
+              }
+            },
+            {
+              "name": "Kostanjevica Monastery",
+              "tip_5lang": {
+                "de": "Der Spaziergang von der Haltestelle wärmt auf.",
+                "hu": "A megállótól való séta segít bemelegedni.",
+                "ro": "Plimbarea de la stație vă va încălzi.",
+                "en": "The walk from the stop will warm you up."
+              }
+            },
+            {
+              "name": "Bus to Kromberk Castle",
+              "tip_5lang": {
+                "de": "Die Aussicht auf die Alpen vom Busfenster aus ist toll.",
+                "hu": "Pazar a kilátás az Alpokra a busz ablakából.",
+                "ro": "Priveliștea spre Alpi de pe fereastra autobuzului este superbă.",
+                "en": "The view of the Alps from the bus window is great."
+              }
+            },
+            {
+              "name": "Lunch near the castle",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit gemütlicher Winteratmosphäre.",
+                "hu": "Válasszunk hangulatos téli atmoszférájú éttermet.",
+                "ro": "Alegeți un restaurant cu o atmosferă primitoare de iarnă.",
+                "en": "Choose a restaurant with a cozy winter atmosphere."
+              }
+            },
+            {
+              "name": "Bus to Solkan for Solkan Bridge",
+              "tip_5lang": {
+                "de": "Beachten Sie die früheren Abfahrtszeiten im Winterfahrplan.",
+                "hu": "Figyeljük a téli menetrend korábbi indulási időpontjait.",
+                "ro": "Respectați orele de plecare mai timpurii din orarul de iarnă.",
+                "en": "Note the earlier departure times in the winter schedule."
+              }
+            },
+            {
+              "name": "Walk along the Soča",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille des winterlichen Flusses.",
+                "hu": "Élvezzük a téli folyó nyugalmát.",
+                "ro": "Bucurați-vă de liniștea râului înghețat.",
+                "en": "Enjoy the silence of the winter river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind pünktlich, aber planen Sie Puffer für Kältepausen ein.",
+              "Im Winter sind die Busse oft weniger überfüllt als im Sommer.",
+              "Tragen Sie warme Socken, da man an Haltestellen auskühlen kann.",
+              "Kombinieren Sie den Ausflug mit einem Besuch auf dem Weihnachtsmarkt."
+            ],
+            "hu": [
+              "A buszok pontosak, de tervezzünk be időt a melegedő szünetekre.",
+              "Télen a buszok gyakran kevésbé zsúfoltak, mint nyáron.",
+              "Viseljünk meleg zoknit, mert a megállókban várakozva fázhat a lábunk.",
+              "Kombináljuk a kirándulást egy karácsonyi vásári látogatással."
+            ],
+            "ro": [
+              "Autobuzele sunt punctuale, dar planificați timp pentru pauze de încălzire.",
+              "Iarna, autobuzele sunt adesea mai puțin aglomerate decât vara.",
+              "Purtați șosete groase, deoarece puteți îngheța în stații.",
+              "Combinați excursia cu o vizită la târgul de Crăciun."
+            ],
+            "en": [
+              "Buses are punctual, but plan buffer time for warming breaks.",
+              "Buses are often less crowded in winter than in summer.",
+              "Wear warm socks as you can get cold while waiting at stops.",
+              "Combine the trip with a visit to the Christmas market."
+            ]
+          }
+        }
       }
     }
   }

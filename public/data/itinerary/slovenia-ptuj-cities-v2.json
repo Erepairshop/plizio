@@ -379,6 +379,214 @@
           "Many museums and attractions are closed on Mondays.",
           "Take time to get lost in the narrow streets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bewundern wir das Orpheus-Denkmal unter dem Regenschirm und flüchten schnell in den Stadtturm. Mittags bieten die St.-Georgs-Kirche und das Dominikanerkloster trockene Zuflucht mit faszinierender Sakralkunst. Nachmittags erkunden wir die weitläufigen Innenräume des Schlosses Ptuj, wo man den Regen draußen vergisst. Abends genießen wir ein gemütliches Essen in der Altstadt und blicken auf den nebligen See.",
+            "hu": "Reggel az Orfeusz-emlékműnél kezdünk az esernyők alatt, majd a Várostorony védelmébe húzódunk. Délben a Szent György-templom és a Dominika-kolostor nyújt száraz menedéket és látványos kiállításokat. Délután a vár belső termeiben kalandozunk, ahol az eső kopogása csak fokozza a hangulatot. Az estét egy óvárosi étteremben zárjuk, majd vetünk egy pillantást a párás Dráva-tóra.",
+            "ro": "Dimineața admirăm Monumentul lui Orfeu sub umbrelă, apoi ne adăpostim rapid în Turnul Orașului. La prânz, Biserica Sf. Gheorghe și Mănăstirea Dominicană oferă refugiu uscat și artă sacră remarcabilă. După-amiaza explorăm interioarele Castelului Ptuj, unde expozițiile ne fac să uităm de vremea de afară. Seara ne bucurăm de o cină caldă în orașul vechi, urmată de o vedere spre lacul învăluit în ceață.",
+            "en": "In the morning, we admire the Orpheus Monument under umbrellas before ducking into the City Tower. Midday is spent finding dry refuge in St. George's Church and the Dominican Monastery's cloisters. Afternoon offers a long exploration of Ptuj Castle's indoor galleries, safe from the downpour. The evening ends with a cozy meal in the old town and a misty view of Lake Ptuj."
+          },
+          "stops": [
+            {
+              "name": "Orpheus Monument",
+              "tip_5lang": {
+                "de": "Der römische Marmor glänzt im Regen besonders schön.",
+                "hu": "A római márvány esőben különleges fényben tündököl.",
+                "ro": "Marmura romană strălucește frumos sub picăturile de ploaie.",
+                "en": "The Roman marble takes on a beautiful sheen in the rain."
+              }
+            },
+            {
+              "name": "City Tower",
+              "tip_5lang": {
+                "de": "Guter Unterstand direkt im Zentrum der Altstadt.",
+                "hu": "Jó búvóhely közvetlenül az óváros központjában.",
+                "ro": "Un bun punct de adăpost chiar în centrul orașului vechi.",
+                "en": "Good shelter located right in the heart of the old town."
+              }
+            },
+            {
+              "name": "St. George's Parish Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine ausführliche Innenbesichtigung.",
+                "hu": "Használja ki az időt a részletes belső megtekintésre.",
+                "ro": "Folosiți timpul pentru o vizită interioară detaliată.",
+                "en": "Take your time for a detailed interior visit."
+              }
+            },
+            {
+              "name": "Dominican Monastery",
+              "tip_5lang": {
+                "de": "Die Kreuzgänge bieten Schutz vor den stärksten Schauern.",
+                "hu": "A keringők védelmet nyújtanan a legerősebb záporok elől.",
+                "ro": "Claustrele oferă protecție împotriva celor mai puternice averse.",
+                "en": "The cloisters provide protection from the heaviest showers."
+              }
+            },
+            {
+              "name": "Ptuj Castle",
+              "tip_5lang": {
+                "de": "Ideales Ziel bei Regen; fast alles ist überdacht.",
+                "hu": "Ideális célpont esőben; szinte minden fedett helyen van.",
+                "ro": "Destinație ideală pe ploaie; aproape totul este acoperit.",
+                "en": "Ideal destination for rain; almost everything is indoors."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Blick auf die nassen Gassen.",
+                "hu": "Válasszon egy éttermet kilátással a vizes macskakövekre.",
+                "ro": "Alegeți un restaurant cu vedere la străduțele ude.",
+                "en": "Choose a restaurant with a view of the wet alleys."
+              }
+            },
+            {
+              "name": "Lake Ptuj",
+              "tip_5lang": {
+                "de": "Kurzer Blick vom Ufer reicht bei diesem Wetter aus.",
+                "hu": "Ebben az időben egy rövid pillantás a partról is elég.",
+                "ro": "O scurtă privire de pe mal este suficientă pe această vreme.",
+                "en": "A brief look from the shore is enough in this weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Kopfsteinpflastergassen.",
+              "Die Museen im Schloss sind der beste Ort zum Aufwärmen.",
+              "Nutzen Sie die Arkaden der Bürgerhäuser als natürlichen Schutz.",
+              "Ein Besuch im Weinkeller unter dem Marktplatz ist bei Regen ideal.",
+              "Achten Sie auf rutschige Stufen beim Aufstieg zum Schloss."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcák miatt.",
+              "A vár múzeumai a legjobb helyek az átmelegedéshez.",
+              "Használja a polgárházak árkádjait természetes esővédőként.",
+              "Egy borkóstoló a vár alatt ideális esős program.",
+              "Vigyázzon a csúszós lépcsőkre a várba menet."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "Muzeele din castel sunt cel mai bun loc pentru a vă încălzi.",
+              "Folosiți arcadele caselor vechi ca protecție naturală.",
+              "O vizită la crama de sub piață este ideală pe ploaie.",
+              "Atenție la treptele alunecoase la urcarea spre castel."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "The castle museums are the best place to stay dry.",
+              "Use the arcades of the townhouses as natural shelter.",
+              "A wine cellar tour is an ideal indoor rainy day activity.",
+              "Watch out for slippery steps when ascending to the castle."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens glitzert der Frost am Orpheus-Denkmal, während wir uns zum Stadtturm eilen. Mittags wärmen wir uns in der prächtigen St.-Georgs-Kirche auf und bewundern die gotischen Altäre. Nachmittags bietet der Burgberg einen weiten Blick über die verschneiten Dächer von Ptuj, gefolgt von einer heißen Schokolade in der Altstadt. Abends machen wir einen kurzen, erfrischenden Spaziergang zum zugefrorenen Ptuj-See.",
+            "hu": "Reggel a dér csillog az Orfeusz-emlékművön, miközben a Várostorony felé sietünk. Délben a Szent György-templom belső melege és gótikus oltárai fogadnak minket. Délután a várhegyről csodáljuk Ptuj havas háztetőit, majd egy forró csokoládéval melegszünk az óvárosban. Az estét egy rövid, frissítő sétával zárjuk a részben befagyott Dráva-tó partján.",
+            "ro": "Dimineața, promoroaca strălucește pe Monumentul lui Orfeu în timp ce ne grăbim spre Turnul Orașului. La prânz ne încălzim în Biserica Sf. Gheorghe, admirând altarele gotice. După-amiaza, dealul castelului oferă o priveliște vastă peste acoperișurile înzăpezite ale orașului, urmată de o ciocolată caldă. Seara facem o scurtă plimbare revigorantă până la lacul Ptuj înghețat.",
+            "en": "In the morning, frost glistens on the Orpheus Monument as we head toward the City Tower. Midday finds us warming up inside St. George's Church, admiring its Gothic altars. Afternoon brings a panoramic view of Ptuj's snowy rooftops from the castle hill, followed by hot chocolate in a cafe. The evening concludes with a brisk walk to the edge of the frozen-looking Lake Ptuj."
+          },
+          "stops": [
+            {
+              "name": "Orpheus Monument",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf dem Platz rund um das Denkmal.",
+                "hu": "Vigyázzon a csúszós talajra az emlékmű körüli téren.",
+                "ro": "Atenție la polei în piața din jurul monumentului.",
+                "en": "Be careful of ice on the square around the monument."
+              }
+            },
+            {
+              "name": "City Tower",
+              "tip_5lang": {
+                "de": "Der Turm wirkt im winterlichen Licht besonders markant.",
+                "hu": "A torony a téli fényben különösen karakteresnek tűnik.",
+                "ro": "Turnul pare deosebit de marcant în lumina iernii.",
+                "en": "The tower looks particularly striking in the winter light."
+              }
+            },
+            {
+              "name": "St. George's Parish Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Besinnung und zum Aufwärmen.",
+                "hu": "Csendes hely az elmélkedésre és az átmelegedésre.",
+                "ro": "Un loc liniștit pentru reflecție și încălzire.",
+                "en": "A quiet place for reflection and warming up."
+              }
+            },
+            {
+              "name": "Dominican Monastery",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten vor dem Besuch.",
+                "hu": "Látogatás előtt ellenőrizze a téli nyitvatartást.",
+                "ro": "Verificați programul de iarnă înainte de vizită.",
+                "en": "Check winter opening hours before visiting."
+              }
+            },
+            {
+              "name": "Ptuj Castle",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Drau und die roten Dächer.",
+                "hu": "Élvezze a kilátást a Drávára és a piros háztetőkre.",
+                "ro": "Bucurați-vă de vederea spre Drava și acoperișurile roșii.",
+                "en": "Enjoy the view over the Drava and the red rooftops."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Probieren Sie herzhafte slowenische Eintöpfe zum Aufwärmen.",
+                "hu": "Kóstoljon meg egy tápláló szlovén egytálételt.",
+                "ro": "Încercați o tocană slovenă consistentă pentru a vă încălzi.",
+                "en": "Try a hearty Slovenian stew to warm up."
+              }
+            },
+            {
+              "name": "Lake Ptuj",
+              "tip_5lang": {
+                "de": "Der Wind am See kann im Winter sehr schneidend sein.",
+                "hu": "A tónál télen nagyon metsző lehet a szél.",
+                "ro": "Vântul de la lac poate fi foarte tăios iarna.",
+                "en": "The wind by the lake can be very biting in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung ist Pflicht, besonders für den Schlossberg.",
+              "Die Sonne geht bereits gegen 16:30 Uhr unter.",
+              "Kopfsteinpflaster kann bei Frost sehr rutschig sein.",
+              "Besuchen Sie die Thermalbäder von Ptuj nach dem Rundgang.",
+              "Trinken Sie einen Glühwein auf dem kleinen Weihnachtsmarkt."
+            ],
+            "hu": [
+              "Réteges öltözködés kötelező, főleg a várhegyen.",
+              "A nap már délután fél 5 körül nyugovóra tér.",
+              "A macskakő fagyban rendkívül csúszós lehet.",
+              "Látogasson el a Ptuji Termálfürdőbe a városnézés után.",
+              "Igyon egy forralt bort a kis karácsonyi vásárban."
+            ],
+            "ro": [
+              "Hainele groase sunt obligatorii, mai ales pentru dealul castelului.",
+              "Soarele apune deja în jurul orei 16:30.",
+              "Pietrele cubice pot fi foarte alunecoase la îngheț.",
+              "Vizitați băile termale din Ptuj după plimbare.",
+              "Beți un vin fiert la micul târg de Crăciun."
+            ],
+            "en": [
+              "Warm clothing is a must, especially for the castle hill.",
+              "Sunset occurs early, around 4:30 PM.",
+              "Cobblestones can be extremely slippery when frozen.",
+              "Consider visiting Ptuj Thermal Spa after your walk.",
+              "Enjoy a mulled wine at the small seasonal market."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +937,196 @@
           "The Drava cycling path offers longer tour options if you have more time.",
           "Bring a water bottle, especially for the tour around the lake."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens rüsten wir uns mit Regenkleidung aus und starten die Tour beim Mithräum. Mittags radeln wir durch die nasse Altstadt und suchen Schutz unter dem Schlossvordach. Nachmittags führt uns die Fahrt entlang der Drau, wo der Regen auf die Wasseroberfläche prasselt. Abends beenden wir die nasse Runde mit einem stärkenden Essen am Flussufer, bevor wir die Räder zurückgeben.",
+            "hu": "Reggel vízálló ruhába bújunk, és a Mithrász-szentélynél kezdjük a túrát. Délben az óváros vizes utcáin tekerünk, majd a vár bejáratánál keresünk fedezéket. Délután a Dráva mentén haladunk, ahol az eső kopog a vízfelszínen. Az estét egy kiadós folyóparti vacsorával zárjuk, mielőtt visszaadnánk a kerékpárokat.",
+            "ro": "Dimineața ne echipăm cu haine de ploaie și începem turul la Mithraeum. La prânz pedalăm prin orașul vechi ud și căutăm adăpost la intrarea castelului. După-amiaza traseul ne duce de-a lungul râului Drava, unde ploaia cade peste apă. Seara încheiem tura cu o masă consistentă pe malul râului înainte de a returna bicicletele.",
+            "en": "In the morning, we gear up with waterproofs and start our ride at the Mithraeum. Midday involves cycling through the wet old town and seeking shelter near the castle entrance. Afternoon leads us along the Drava, where the rain patters on the water's surface. We end the wet ride with a fortifying meal by the river before returning the bikes in the evening."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einer Regenponcho-Leihmöglichkeit.",
+                "hu": "Kérdezzen rá az esőponcsó bérlési lehetőségre.",
+                "ro": "Întrebați de posibilitatea de a închiria un pelerină de ploaie.",
+                "en": "Ask if they have rain ponchos available for rent."
+              }
+            },
+            {
+              "name": "Mithraeum",
+              "tip_5lang": {
+                "de": "Überdachte Ausgrabungen bieten guten Regenschutz.",
+                "hu": "A fedett ásatások jó védelmet nyújtanak az eső ellen.",
+                "ro": "Săpăturile acoperite oferă protecție bună contra ploii.",
+                "en": "The covered excavations offer good protection from rain."
+              }
+            },
+            {
+              "name": "Old Town Core",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassen Pflastersteinen.",
+                "hu": "Vigyázzon a fékezéssel a vizes macskaköveken.",
+                "ro": "Atenție la frânare pe pavajul ud.",
+                "en": "Be careful when braking on wet cobblestones."
+              }
+            },
+            {
+              "name": "Ptuj Castle",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem geschützten Ort ab.",
+                "hu": "Parkolja le a biciklit védett helyen.",
+                "ro": "Parcați bicicleta într-un loc protejat.",
+                "en": "Park your bike in a sheltered spot."
+              }
+            },
+            {
+              "name": "Lunch by the River",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz im beheizten Innenbereich.",
+                "hu": "Keressen helyet a fűtött belső térben.",
+                "ro": "Căutați un loc în interiorul încălzit.",
+                "en": "Look for a table in the heated indoor area."
+              }
+            },
+            {
+              "name": "Loop around Lake Ptuj",
+              "tip_5lang": {
+                "de": "Der Weg am See kann stellenweise schlammig sein.",
+                "hu": "A tóparti út helyenként saras lehet.",
+                "ro": "Drumul de pe malul lacului poate fi noroios pe alocuri.",
+                "en": "The lakeside path can be muddy in some sections."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um Spritzwasser zu vermeiden.",
+              "Bremsschläuche prüfen; Nässe verlängert den Bremsweg.",
+              "Wasserdichte Taschen für Wertsachen sind empfehlenswert.",
+              "Planen Sie mehr Zeit für die flachen Uferwege ein.",
+              "Vermeiden Sie schnelle Kurven auf bemaltem Asphalt."
+            ],
+            "hu": [
+              "Használjon sárvédőt a fröccsenő víz ellen.",
+              "Ellenőrizze a fékeket; a vizes úton nő a féktáv.",
+              "A vízálló táska ajánlott az értékeknek.",
+              "Hagyjon több időt a lapos tóparti szakaszokra.",
+              "Kerülje a hirtelen kanyarodást a felfestett aszfalton."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a evita stropirea.",
+              "Verificați frânele; umezeala mărește distanța de frânare.",
+              "Se recomandă genți impermeabile pentru obiectele de valoare.",
+              "Planificați mai mult timp pentru potecile plate de pe mal.",
+              "Evitați virajele bruște pe asfaltul marcat."
+            ],
+            "en": [
+              "Ensure your bike has fenders to avoid splashes.",
+              "Check brakes; wet conditions increase stopping distance.",
+              "Waterproof bags for valuables are highly recommended.",
+              "Allow extra time for the flat lakeside sections.",
+              "Avoid sharp turns on painted road markings when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens starten wir die kühle Tour beim Mithräum und radeln durch den frischen Frost. Mittags führt uns der Weg durch die stillen Gassen zum Schloss, wo wir den Ausblick auf das winterliche Tal genießen. Nachmittags umrunden wir den See, während die untergehende Sonne die Drau in goldenes Licht taucht. Abends wärmen wir uns bei einem heißen Getränk am Fluss auf, bevor wir die Räder abgeben.",
+            "hu": "Reggel a Mithrász-szentélynél kezdjük a hűvös túrát a friss dérben tekerve. Délben a csendes utcákon át jutunk a várhoz, ahonnan megcsodáljuk a téli völgyet. Délután megkerüljük a tavat, miközben a lemenő nap arany fénybe vonja a Drávát. Az estét egy forró itallal zárjuk a folyóparton, mielőtt leadnánk a kerékpárokat.",
+            "ro": "Dimineața începem tura răcoroasă la Mithraeum, pedalând prin promoroacă. La prânz traseul ne duce prin străzile liniștite spre castel, de unde admirăm valea iernatică. După-amiaza înconjurăm lacul în timp ce soarele la apus scaldă Drava în lumină aurie. Seara ne încălzim cu o băutură caldă pe malul râului înainte de a preda bicicletele.",
+            "en": "In the morning, we begin our chilly ride at the Mithraeum, cycling through the fresh frost. Midday takes us through quiet alleys up to the castle for views of the wintry valley. In the afternoon, we loop the lake as the setting sun casts a golden glow over the Drava. We finish with a warm drink by the river in the evening before returning the bikes."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start",
+              "tip_5lang": {
+                "de": "Handschuhe sind bei diesem Wetter unverzichtbar.",
+                "hu": "A kesztyű elengedhetetlen ebben az időben.",
+                "ro": "Mănușile sunt indispensabile pe această vreme.",
+                "en": "Gloves are absolutely essential in this weather."
+              }
+            },
+            {
+              "name": "Mithraeum",
+              "tip_5lang": {
+                "de": "Das Gelände kann bei Frost recht glatt sein.",
+                "hu": "A terep fagyban meglehetősen csúszós lehet.",
+                "ro": "Terenul poate fi destul de alunecos la îngheț.",
+                "en": "The ground can be quite slippery when frozen."
+              }
+            },
+            {
+              "name": "Old Town Core",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über schattige, vereiste Stellen.",
+                "hu": "Hajtson óvatosan az árnyékos, jeges részeken.",
+                "ro": "Conduceți cu atenție pe porțiunile umbrite și înghețate.",
+                "en": "Ride carefully over shaded, icy patches."
+              }
+            },
+            {
+              "name": "Ptuj Castle",
+              "tip_5lang": {
+                "de": "Der Anstieg hilft gegen die Kälte, oben weht oft Wind.",
+                "hu": "Az emelkedő segít a hideg ellen, de fent gyakran fúj a szél.",
+                "ro": "Urcarea ajută contra frigului, dar sus bate vântul deseori.",
+                "en": "The climb helps beat the cold, but it's often windy at the top."
+              }
+            },
+            {
+              "name": "Lunch by the River",
+              "tip_5lang": {
+                "de": "Ein windgeschützter Platz ist jetzt Gold wert.",
+                "hu": "Egy szélvédett hely most aranyat ér.",
+                "ro": "Un loc ferit de vânt valorează aur acum.",
+                "en": "A spot sheltered from the wind is worth its weight in gold."
+              }
+            },
+            {
+              "name": "Loop around Lake Ptuj",
+              "tip_5lang": {
+                "de": "Beenden Sie die Runde vor Einbruch der Dunkelheit.",
+                "hu": "Fejezze be a kört még sötétedés előtt.",
+                "ro": "Încheiați tura înainte de lăsarea întunericului.",
+                "en": "Complete the loop before darkness falls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten und winddichte Kleidung.",
+              "Achten Sie auf gefrierende Nässe auf Brücken.",
+              "Batterien von E-Bikes entladen sich bei Kälte schneller.",
+              "Licht am Fahrrad ist wegen der frühen Dämmerung wichtig.",
+              "Halten Sie Pausen kurz, um nicht auszukühlen."
+            ],
+            "hu": [
+              "Viseljen réteges és szélálló ruházatot.",
+              "Ügyeljen a hidakon előforduló jegesedésre.",
+              "Az e-bike akkumulátorok gyorsabban merülnek hidegben.",
+              "A világítás fontos a korai sötétedés miatt.",
+              "Tartson rövid szüneteket, hogy ne hűljön ki."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine rezistente la vânt.",
+              "Atenție la porțiunile înghețate de pe poduri.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Lumina este importantă din cauza amurgului timpuriu.",
+              "Păstrați pauzele scurte pentru a nu vă răci."
+            ],
+            "en": [
+              "Wear multiple layers and windproof outerwear.",
+              "Watch out for black ice on bridges.",
+              "E-bike batteries drain faster in cold temperatures.",
+              "Good bike lights are crucial due to early sunset.",
+              "Keep breaks short to avoid getting chilled."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1085,6 +1483,196 @@
           "A car gives you the flexibility to also explore the surrounding wine region if you have more time.",
           "Check the castle's opening hours before climbing the hill."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens parken wir bequem im Zentrum und erkunden die Highlights der Altstadt zwischen den Schauern. Mittags besichtigen wir die Klöster, wobei uns das Auto trockene Wege zwischen den Standorten ermöglicht. Nachmittags fahren wir hinauf zum Schloss Ptuj, um die Aussicht ohne nass zu werden zu genießen. Abends parken wir direkt am See für einen kurzen, stimmungsvollen Blick auf die Drau.",
+            "hu": "Reggel kényelmesen leparkolunk a központban, és a záporok között fedezzük fel az óvárost. Délben a kolostorokat látogatjuk meg, az autó pedig száraz átjutást biztosít a helyszínek között. Délután felhajtunk a Ptuji Várhoz, hogy anélkül élvezzük a kilátást, hogy eláznánk. Az estét a tóparti parkolóban zárjuk egy rövid, hangulatos drávai panorámával.",
+            "ro": "Dimineața parcăm confortabil în centru și explorăm punctele forte ale orașului între averse. La prânz vizităm mănăstirile, mașina asigurând un transfer uscat între locații. După-amiaza urcăm spre Castelul Ptuj pentru a ne bucura de vedere fără a ne uda. Seara parcăm direct lângă lac pentru o scurtă privire atmosferică asupra râului Drava.",
+            "en": "In the morning, we park centrally and explore the old town's highlights between rain showers. Midday is spent visiting monasteries, with the car providing dry transit between sites. In the afternoon, we drive up to Ptuj Castle to enjoy the views while staying dry. The evening ends with parking right by the lake for a quick, atmospheric look at the Drava."
+          },
+          "stops": [
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Zentraler Ausgangspunkt für kurze Wege bei Regen.",
+                "hu": "Központi kiindulópont rövid sétákhoz esőben.",
+                "ro": "Punct central de plecare pentru distanțe scurte pe ploaie.",
+                "en": "Central starting point for short walks during rain."
+              }
+            },
+            {
+              "name": "Old Town Cluster: Orpheus & Churches",
+              "tip_5lang": {
+                "de": "Die Monumente liegen nah beieinander, ideal bei Schauern.",
+                "hu": "A műemlékek közel vannak egymáshoz, ideális záporok idején.",
+                "ro": "Monumentele sunt aproape unul de altul, ideal între averse.",
+                "en": "The monuments are close together, perfect between showers."
+              }
+            },
+            {
+              "name": "Old Town Cluster: Monasteries",
+              "tip_5lang": {
+                "de": "Parkplätze sind oft direkt vor den Klöstern vorhanden.",
+                "hu": "Parkolók gyakran közvetlenül a kolostorok előtt találhatók.",
+                "ro": "Parcările sunt adesea disponibile chiar în fața mănăstirilor.",
+                "en": "Parking is often available right in front of the monasteries."
+              }
+            },
+            {
+              "name": "Castle Hill Cluster: Ptuj Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt unterhalb der Burgmauern.",
+                "hu": "Használja a közvetlenül a várfalak alatti parkolót.",
+                "ro": "Folosiți parcarea situată chiar sub zidurile cetății.",
+                "en": "Use the parking lot located directly below the castle walls."
+              }
+            },
+            {
+              "name": "Lake Cluster: Parking at the Lake",
+              "tip_5lang": {
+                "de": "Trockener Wartepunkt mit Blick auf den See.",
+                "hu": "Száraz várakozóhely kilátással a tóra.",
+                "ro": "Punct de așteptare uscat cu vedere la lac.",
+                "en": "Dry waiting point with a view of the lake."
+              }
+            },
+            {
+              "name": "Lake Cluster: Lakeside Walk",
+              "tip_5lang": {
+                "de": "Nur kurzer Ausstieg nötig; genießen Sie die Ruhe.",
+                "hu": "Csak rövid kiszállás szükséges; élvezze a nyugalmat.",
+                "ro": "E necesară doar o scurtă ieșire; bucurați-vă de liniște.",
+                "en": "Only a short exit is needed; enjoy the tranquility."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein Regenschirm im Auto ist bei diesem Wetter Gold wert.",
+              "Achten Sie auf Pfützen in den engen Altstadtgassen.",
+              "Die Sicht kann bei starkem Regen eingeschränkt sein.",
+              "Parkplätze am Schloss sind bei Regen sehr gefragt.",
+              "Nutzen Sie die Park-App für bequemes Bezahlen."
+            ],
+            "hu": [
+              "Egy esernyő az autóban aranyat ér ilyenkor.",
+              "Ügyeljen a tócsákra a szűk óvárosi utcákban.",
+              "Erős esőben a látótávolság korlátozott lehet.",
+              "A várnál lévő parkolók esőben hamar betelnek.",
+              "Használja a parkolási applikációt a kényelmes fizetéshez."
+            ],
+            "ro": [
+              "O umbrelă în mașină este de mare ajutor pe această vreme.",
+              "Atenție la bălțile din străduțele înguste ale centrului.",
+              "Vizibilitatea poate fi redusă în timpul ploii torențiale.",
+              "Parcările de la castel sunt la mare căutare pe ploaie.",
+              "Folosiți aplicația de parcare pentru o plată facilă."
+            ],
+            "en": [
+              "Keep an umbrella in the car for short dashes to sights.",
+              "Watch out for deep puddles in narrow old town streets.",
+              "Visibility can be poor during heavy rain showers.",
+              "Castle parking spots fill up quickly in wet weather.",
+              "Use the parking app for convenient payment."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens parken wir im frostigen Zentrum und spazieren durch die weihnachtlich dekorierte Altstadt. Mittags besichtigen wir die historischen Kirchen und nutzen das geheizte Auto für den Weg zwischen den Standorten. Nachmittags fahren wir zum Schlossberg, wo der Schnee die Burg in ein Märchenschloss verwandelt. Abends genießen wir den Sonnenuntergang am See gemütlich aus dem warmen Wagen heraus.",
+            "hu": "Reggel a fagyos központban parkolunk, és a karácsonyi díszbe öltözött óvárosban sétálunk. Délben a történelmi templomokat látogatjuk meg, a fűtött autót használva a helyszínek közötti útra. Délután a várhegyre hajtunk, ahol a hó mesebeli kastéllyá varázsolja a várat. Az estét a tóparton töltjük, a lemenő napot kényelmesen, a meleg autóból csodálva.",
+            "ro": "Dimineața parcăm în centrul înghețat și ne plimbăm prin orașul vechi decorat de sărbătoare. La prânz vizităm bisericile istorice, folosind mașina încălzită pentru deplasare. După-amiaza urcăm la dealul castelului, unde zăpada transformă cetatea într-una de basm. Seara admirăm apusul la lac, confortabil din interiorul mașinii calde.",
+            "en": "In the morning, we park in the frosty center and walk through the festively decorated old town. Midday is for visiting historic churches, using the heated car to travel between stops. In the afternoon, we drive to the castle hill where snow turns the fortress into a fairytale scene. The evening is spent watching the sunset at the lake from the comfort of our warm vehicle."
+          },
+          "stops": [
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Marktplatz für kurze Wege.",
+                "hu": "Parkoljon a piactér közelében a rövid sétákhoz.",
+                "ro": "Parcați aproape de piața centrală pentru distanțe scurte.",
+                "en": "Park near the market square for minimal walking."
+              }
+            },
+            {
+              "name": "Old Town Cluster: Orpheus & Churches",
+              "tip_5lang": {
+                "de": "Genießen Sie die weihnachtliche Beleuchtung am Abend.",
+                "hu": "Élvezze az esti karácsonyi kivilágítást.",
+                "ro": "Bucurați-vă de iluminatul festiv în timpul serii.",
+                "en": "Enjoy the festive Christmas lights in the evening."
+              }
+            },
+            {
+              "name": "Old Town Cluster: Monasteries",
+              "tip_5lang": {
+                "de": "Kurze Fahrzeiten erhalten die Wärme im Auto.",
+                "hu": "A rövid menetidő segít megőrizni az autó melegét.",
+                "ro": "Timpii scurți de condus mențin căldura în mașină.",
+                "en": "Short driving times help keep the car interior warm."
+              }
+            },
+            {
+              "name": "Castle Hill Cluster: Ptuj Castle",
+              "tip_5lang": {
+                "de": "Vorsicht bei steilen, eventuell glatten Zufahrten.",
+                "hu": "Vigyázzon a meredek, esetleg csúszós feljárónál.",
+                "ro": "Atenție la drumul de acces abrupt și posibil alunecos.",
+                "en": "Be careful on the steep and potentially icy access road."
+              }
+            },
+            {
+              "name": "Lake Cluster: Parking at the Lake",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den Sonnenuntergang im Warmen zu sehen.",
+                "hu": "Ideális hely a naplemente megtekintéséhez a melegben.",
+                "ro": "Loc ideal pentru a vedea apusul la căldură.",
+                "en": "Ideal spot to watch the sunset from a warm interior."
+              }
+            },
+            {
+              "name": "Lake Cluster: Lakeside Walk",
+              "tip_5lang": {
+                "de": "Ein kurzer, knackiger Spaziergang bei frischer Luft.",
+                "hu": "Egy rövid, frissítő séta a tiszta levegőn.",
+                "ro": "O plimbare scurtă și revigorantă în aer liber.",
+                "en": "A short, brisk walk in the fresh winter air."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Slowenien ab dem 15. November Pflicht.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Batterien können bei extremer Kälte schwächeln.",
+              "Planen Sie Zeit für das Enteisen der Scheiben ein.",
+              "Einige Nebenstraßen können bei Schneefall rutschig sein."
+            ],
+            "hu": [
+              "Szlovéniában november 15-től kötelező a téli gumi.",
+              "Legyen önnél jégkaparó és fagyálló folyadék.",
+              "Az akkumulátorok gyengélkedhetnek a nagy hidegben.",
+              "Hagyjon időt a szélvédők jégtelenítésére.",
+              "Hóesésben a mellékutcák csúszósak lehetnek."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Slovenia din 15 noiembrie.",
+              "Aveți la îndemână o racletă și lichid de parbriz de iarnă.",
+              "Bateriile pot da semne de slăbiciune la ger.",
+              "Planificați timp pentru dezghețarea geamurilor.",
+              "Unele străzi secundare pot fi alunecoase când ninge."
+            ],
+            "en": [
+              "Winter tires are mandatory in Slovenia from Nov 15th.",
+              "Keep an ice scraper and anti-freeze fluid in the car.",
+              "Car batteries can struggle in extreme cold.",
+              "Allow extra time for defrosting windows in the morning.",
+              "Some side streets may be slippery during snowfall."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1417,6 +2005,178 @@
           "Ask at the tourist information center for the latest bus schedules.",
           "Be prepared that the last bus connection from the lake back may be earlier than expected."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens kommen wir am Busbahnhof an und nehmen den Shuttle ins Zentrum. Mittags erkunden wir die historischen Schätze der Altstadt, wobei wir die Regenschauer in den Museen abwarten. Nachmittags bringt uns der Bus hinauf zum Schloss, wo wir die Aussicht über die verregnete Region genießen. Abends entspannen wir kurz am See, bevor wir die Rückreise vom Busbahnhof antreten.",
+            "hu": "Reggel megérkezünk az autóbusz-állomásra, és transzferrel megyünk a központba. Délben az óváros történelmi kincseit fedezzük fel, a záporokat a múzeumokban vészelve át. Délután a busz felvisz minket a várhoz, ahonnan megcsodáljuk az eső áztatta tájat. Az estét a tónál töltjük, mielőtt visszaindulnánk az állomásra.",
+            "ro": "Dimineața sosim la autogară și luăm un transfer spre centru. La prânz explorăm comorile istorice ale orașului vechi, așteptând trecerea ploii în muzee. După-amiaza autobuzul ne duce la castel, de unde admirăm regiunea plină de ploaie. Seara ne relaxăm scurt la lac înainte de a pleca înapoi de la autogară.",
+            "en": "In the morning, we arrive at the bus station and take a shuttle to the center. Midday is spent exploring the old town's treasures, sheltering from rain in museums. In the afternoon, the bus takes us up to the castle for views over the rainy countryside. We relax briefly by the lake in the evening before heading back to the bus station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus Station",
+              "tip_5lang": {
+                "de": "Der Warteraum bietet Schutz vor dem ersten Regen.",
+                "hu": "A váróterem védelmet nyújt az első eső ellen.",
+                "ro": "Sala de așteptare oferă protecție contra ploii inițiale.",
+                "en": "The waiting room provides shelter from the initial rain."
+              }
+            },
+            {
+              "name": "Old Town Cluster: Walk through History",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Wege zwischen den Gebäuden.",
+                "hu": "Használja ki az épületek közötti rövid távolságokat.",
+                "ro": "Folosiți distanțele scurte dintre clădiri.",
+                "en": "Take advantage of the short distances between buildings."
+              }
+            },
+            {
+              "name": "Castle Hill Cluster: Ascent & Lunch",
+              "tip_5lang": {
+                "de": "Busstationen befinden sich oft nah an den Eingängen.",
+                "hu": "A buszmegállók gyakran a bejáratok közelében vannak.",
+                "ro": "Stațiile de autobuz sunt adesea aproape de intrări.",
+                "en": "Bus stops are often located close to the entrances."
+              }
+            },
+            {
+              "name": "Trip to the Lake",
+              "tip_5lang": {
+                "de": "Im Bus bleiben Sie trocken und können sich ausruhen.",
+                "hu": "A buszon szárazon maradhat és megpihenhet.",
+                "ro": "În autobuz rămâneți uscați și vă puteți odihni.",
+                "en": "Stay dry and rest while traveling on the bus."
+              }
+            },
+            {
+              "name": "Lake Cluster: Relaxation by the Water",
+              "tip_5lang": {
+                "de": "Suchen Sie eine überdachte Bank am Ufer.",
+                "hu": "Keressen egy fedett padot a tóparton.",
+                "ro": "Căutați o bancă acoperită pe malul lacului.",
+                "en": "Look for a covered bench along the shoreline."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der kostenlose Elektrobus 'Zapeljivec' ist ideal bei Regen.",
+              "Prüfen Sie den Fahrplan per App, um Wartezeiten zu minimieren.",
+              "Halten Sie Kleingeld oder eine Bezahlkarte bereit.",
+              "Die Busstationen sind teilweise nicht überdacht.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zum Bus."
+            ],
+            "hu": [
+              "A 'Zapeljivec' ingyenes elektromos busz ideális esőben.",
+              "Ellenőrizze a menetrendet appon, hogy elkerülje a várakozást.",
+              "Készítsen elő aprópénzt vagy fizetőkártyát.",
+              "A buszmegállók egy része nem fedett.",
+              "Viseljen vízálló ruhát a buszhoz vezető úton."
+            ],
+            "ro": [
+              "Autobuzul electric gratuit 'Zapeljivec' este ideal pe ploaie.",
+              "Verificați orarul pe aplicație pentru a minimiza așteptarea.",
+              "Aveți pregătit mărunțiș sau un card de plată.",
+              "Unele stații de autobuz nu sunt acoperite.",
+              "Purtați haine impermeabile pentru drumul spre stație."
+            ],
+            "en": [
+              "The free 'Zapeljivec' electric bus is perfect for rainy days.",
+              "Check the schedule via app to minimize waiting in the wet.",
+              "Have small change or a payment card ready.",
+              "Note that some bus stops are not sheltered.",
+              "Wear waterproof outerwear for walks between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens kommen wir am frostigen Busbahnhof an und fahren direkt ins Herz der Altstadt. Mittags wärmen wir uns in den prunkvollen Innenräumen der Kirchen und Klöster auf. Nachmittags bringt uns der Transit zum Schlossberg, wo wir den Panoramablick über das verschneite Drau-Tal genießen. Abends unternehmen wir einen kurzen Ausflug zum See, bevor uns der Bus zurück zum Bahnhof bringt.",
+            "hu": "Reggel megérkezünk a fagyos autóbusz-állomásra, és egyenesen az óváros szívébe utazunk. Délben a templomok és kolostorok díszes, meleg belső tereiben pihenünk. Délután a transzfer felvisz a várhegyre, ahonnan elénk tárul a havas Dráva-völgy panorámája. Az estét egy rövid tóparti kiruccanással zárjuk, majd busszal térünk vissza az állomásra.",
+            "ro": "Dimineața sosim la autogara înghețată și mergem direct în inima orașului vechi. La prânz ne încălzim în interioarele somptuoase ale bisericilor și mănăstirilor. După-amiaza, transportul ne duce la dealul castelului pentru panorama asupra văii Drava înzăpezite. Seara facem o scurtă excursie la lac înainte ca autobuzul să ne readucă la gară.",
+            "en": "In the morning, we arrive at the frosty bus station and travel straight to the heart of the old town. Midday is spent warming up in the grand interiors of churches and monasteries. In the afternoon, transit takes us to the castle hill for panoramic views over the snowy Drava valley. The evening features a quick trip to the lake before the bus returns us to the station."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus Station",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an; der Bahnhof kann zugig sein.",
+                "hu": "Öltözzön melegen; az állomás huzatos lehet.",
+                "ro": "Îmbrăcați-vă gros; gara poate fi expusă curentului.",
+                "en": "Dress warmly as the station can be quite draughty."
+              }
+            },
+            {
+              "name": "Old Town Cluster: Walk through History",
+              "tip_5lang": {
+                "de": "Kirchen bieten oft eine willkommene Pause von der Kälte.",
+                "hu": "A templomok gyakran üdvözlendő pihenőt nyújtanak a hideg elől.",
+                "ro": "Bisericile oferă adesea o pauză binevenită de la frig.",
+                "en": "Churches often provide a welcome break from the cold."
+              }
+            },
+            {
+              "name": "Castle Hill Cluster: Ascent & Lunch",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht aus dem warmen Busfenster.",
+                "hu": "Élvezze a kilátást a meleg busz ablakából.",
+                "ro": "Bucurați-vă de priveliște de la geamul cald al autobuzului.",
+                "en": "Enjoy the views from the warmth of the bus window."
+              }
+            },
+            {
+              "name": "Trip to the Lake",
+              "tip_5lang": {
+                "de": "Achten Sie auf die veränderten Winterfahrpläne.",
+                "hu": "Ügyeljen a módosult téli menetrendre.",
+                "ro": "Atenție la orarul de iarnă modificat.",
+                "en": "Be aware of any changes in the winter bus schedule."
+              }
+            },
+            {
+              "name": "Lake Cluster: Relaxation by the Water",
+              "tip_5lang": {
+                "de": "Der Wind am See wirkt im Winter viel kälter.",
+                "hu": "A tóparti szél télen sokkal hidegebbnek hat.",
+                "ro": "Vântul de la lac pare mult mai rece iarna.",
+                "en": "The lakeside wind feels much colder in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind in Ptuj im Winter gut beheizt.",
+              "Wartezeiten an der frischen Luft kurz halten.",
+              "Die Sonne geht früh unter, planen Sie die Rückfahrt rechtzeitig.",
+              "Nutzen Sie den Elektro-Shuttle für kurze Strecken.",
+              "Verschneite Straßen können zu Verspätungen führen."
+            ],
+            "hu": [
+              "A ptuji buszok télen jól fűtöttek.",
+              "Tartsa röviden a várakozási időt a szabadban.",
+              "A nap korán nyugszik, tervezze meg időben a visszautat.",
+              "Használja az elektromos fuvart rövid távokra.",
+              "A havas utak késésekhez vezethetnek."
+            ],
+            "ro": [
+              "Autobuzele din Ptuj sunt bine încălzite iarna.",
+              "Păstrați timpii de așteptare în aer liber cât mai scurți.",
+              "Soarele apune devreme, planificați din timp întoarcerea.",
+              "Folosiți naveta electrică pentru distanțe scurte.",
+              "Drumurile înzăpezite pot cauza întârzieri."
+            ],
+            "en": [
+              "Buses in Ptuj are generally well-heated in winter.",
+              "Try to minimize your waiting time outdoors.",
+              "Sunset is early, so plan your return trip accordingly.",
+              "Use the electric shuttle for short hops within the center.",
+              "Expect possible delays if there is heavy snowfall."
+            ]
+          }
+        }
       }
     }
   }

@@ -338,6 +338,178 @@
           "Check museum opening times as they can vary seasonally.",
           "Bring a reusable water bottle; there are places to fill it up."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Museum of Iron, wo Sie trocken die Industriegeschichte erkunden können. \nIn der Mittagszeit führt ein kurzer Spaziergang zur Iron Bridge; halten Sie den Regenschirm bereit für das obligatorische Foto. \nDer Nachmittag gehört dem Enginuity Center, einem idealen Rückzugsort voller interaktiver Exponate bei Regen. \nDen Abend lassen wir am Fluss Severn ausklingen, wobei das Plätschern des Regens auf das Wasser eine eigene Melodie spielt.",
+            "hu": "A napot a Museum of Iron fedett csarnokaiban kezdjük, védve az égi áldástól. \nEbédidőben egy gyors séta az Iron Bridge-hez; az esernyő kötelező kellék a völgy látványához. \nDélután az Enginuity interaktív terei kínálnak menedéket és szórakoztató tudományos kalandokat. \nAz estét a Severn folyó partján zárjuk, ahol a ködös, esős táj különleges, melankolikus hangulatot áraszt.",
+            "ro": "Începeți ziua la Museum of Iron, explorând istoria industrială la adăpost de ploaie. \nLa prânz, o scurtă plimbare până la Iron Bridge necesită o umbrelă solidă pentru a admira structura celebră. \nDupă-amiaza este rezervată centrului Enginuity, un spațiu interior perfect pentru experimente fascinante. \nSeara se încheie pe malul râului Severn, unde sunetul ploii completează atmosfera liniștită a văii.",
+            "en": "Start your day at the Museum of Iron, staying dry while exploring deep industrial heritage. \nAt lunchtime, a quick dash to the Iron Bridge is essential; keep your umbrella handy for the view. \nSpend the afternoon at Enginuity, an ideal indoor sanctuary filled with interactive science exhibits. \nThe evening winds down by the River Severn, where the rain on the water creates a rhythmic, peaceful backdrop."
+          },
+          "stops": [
+            {
+              "name": "Start at the Museum of Iron",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Mäntel direkt am Eingang.",
+                "hu": "Használja a bejáratnál található ruhatárat a vizes kabátoknak.",
+                "ro": "Folosiți garderoba de la intrare pentru haine și umbrele ude.",
+                "en": "Use the cloakroom near the entrance for your wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "The Iron Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht, die Metall- und Steinplatten können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a fém- és kőlapok nedvesen csúszósak lehetnek.",
+                "ro": "Atenție, plăcile de metal și piatră pot fi alunecoase când sunt ude.",
+                "en": "Watch your step; the metal and stone surfaces can be slippery when wet."
+              }
+            },
+            {
+              "name": "Lunch in Ironbridge",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café mit Blick auf die Brücke, um den Regen zu genießen.",
+                "hu": "Válasszon egy hidra néző kávézót, és figyelje az esőcseppeket.",
+                "ro": "Alegeți o cafenea cu vedere la pod pentru a privi ploaia la căldură.",
+                "en": "Pick a riverside cafe with a bridge view to enjoy the rain from inside."
+              }
+            },
+            {
+              "name": "Enginuity",
+              "tip_5lang": {
+                "de": "Perfekt für Regentage, da alle Attraktionen komplett überdacht sind.",
+                "hu": "Tökéletes esős napokra, mivel minden látnivaló teljesen fedett.",
+                "ro": "Perfect pentru zile ploioase, toate atracțiile fiind în interior.",
+                "en": "Perfect for rainy days as all exhibits are fully undercover."
+              }
+            },
+            {
+              "name": "Walk along the River Severn",
+              "tip_5lang": {
+                "de": "Feste Gummistiefel sind für die ufernahen Wege jetzt empfehlenswert.",
+                "hu": "A folyóparti ösvényeken ilyenkor ajánlott a vízálló túrabakancs.",
+                "ro": "Se recomandă încălțăminte impermeabilă pentru potecile de pe mal.",
+                "en": "Waterproof boots are highly recommended for the riverside paths now."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke, da der Wind im Tal zunehmen kann.",
+              "Die Museen im Ironbridge Gorge sind hervorragende Rückzugsorte bei Schauern.",
+              "Nutzen Sie die lokalen Cafés für Aufwärmpausen zwischen den Stationen.",
+              "Kopfsteinpflaster in der Stadt wird bei Nässe extrem glatt.",
+              "Ein Taschenschirm ist handlicher als ein großer Stockschirm in engen Gassen."
+            ],
+            "hu": [
+              "Viseljen minőségi esőkabátot, mert a völgyben felerősödhet a szél.",
+              "Az Ironbridge Gorge múzeumai kiváló menedéket nyújtanak záporok idején.",
+              "Használja ki a helyi kávézókat melegedőnek a megállók között.",
+              "A város macskaköves utcái esőben rendkívül csúszóssá válnak.",
+              "Egy összecsukható esernyő praktikusabb a szűk utcákon, mint a boternyő."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă de calitate, vântul se poate înteți în vale.",
+              "Muzeele din Ironbridge Gorge sunt refugii excelente în timpul averselor.",
+              "Folosiți cafenelele locale pentru pauze de încălzire între obiective.",
+              "Pavajul cu piatră cubică din oraș devine extrem de alunecos la umezeală.",
+              "O umbrelă pliabilă este mai practică pe străzile înguste decât una mare."
+            ],
+            "en": [
+              "Wear a high-quality raincoat as winds can pick up within the gorge.",
+              "The Ironbridge Gorge museums are excellent refuges during heavy showers.",
+              "Use local cafes as warming stations between your scheduled stops.",
+              "Cobbled streets in the town become extremely slippery when wet.",
+              "A compact travel umbrella is easier to manage in narrow streets than a large one."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen beginnt im Museum of Iron, wo die Geschichte der Industrie Wärme spendet. \nZur Mittagszeit glänzt die Iron Bridge oft unter einer dünnen Reifschicht – ein magischer Anblick. \nNachmittags bietet das Enginuity Center spannende Unterhaltung in beheizter Umgebung. \nDa die Sonne bereits gegen 16:00 Uhr untergeht, genießen wir die blaue Stunde am Fluss Severn bei klirrender Kälte.",
+            "hu": "A fagyos reggel a Museum of Iron falai között indul, ahol az ipari múlt történetei melegítenek fel. \nEbédidőben az Iron Bridge gyakran zúzmarás ruhát ölt, ami varázslatos látványt nyújt a völgyben. \nDélután az Enginuity interaktív terei kínálnak fűtött menedéket a téli hideg elől. \nMivel a nap már 16:00 körül nyugovóra tér, a Severn partján a kék órát már csípős fagyban élvezzük.",
+            "ro": "Dimineața geroasă începe la Museum of Iron, unde poveștile industriei oferă căldură simbolică. \nLa prânz, Iron Bridge strălucește adesea sub un strat subțire de chiciură, un decor magic. \nDupă-amiaza, centrul Enginuity oferă divertisment captivant într-un mediu încălzit. \nDeoarece soarele apune deja în jur de ora 16:00, savurăm „ora albastră” pe malul râului Severn în frigul iernii.",
+            "en": "The frosty morning starts at the Museum of Iron, where stories of industry provide warmth. \nAt noon, the Iron Bridge often glistens under a thin layer of frost – a truly magical sight. \nSpend your afternoon at Enginuity, enjoying interactive fun in a fully heated environment. \nAs the sun sets around 4 PM, enjoy the twilight hour by the River Severn in the crisp winter air."
+          },
+          "stops": [
+            {
+              "name": "Start at the Museum of Iron",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Tee im Museumscafé vor dem Rundgang.",
+                "hu": "Igyon egy forró teát a múzeumi kávézóban a túra előtt.",
+                "ro": "Savurați un ceai fierbinte la cafeneaua muzeului înainte de vizită.",
+                "en": "Enjoy a hot tea at the museum cafe before starting your tour."
+              }
+            },
+            {
+              "name": "The Iron Bridge",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; das Metallgeländer der Brücke ist eiskalt.",
+                "hu": "Viseljen kesztyűt; a híd fémkorlátja ilyenkor jéghideg.",
+                "ro": "Purtați mănuși; balustrada metalică a podului este extrem de rece.",
+                "en": "Wear gloves; the bridge's metal railings are freezing to the touch."
+              }
+            },
+            {
+              "name": "Lunch in Ironbridge",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Pub mit einem prasselnden Kaminfeuer für die Pause.",
+                "hu": "Keressen egy kandallós pubot a pihenőhöz és melegedéshez.",
+                "ro": "Căutați un pub cu șemineu pentru o pauză confortabilă și caldă.",
+                "en": "Look for a pub with a roaring fireplace for a cozy lunch break."
+              }
+            },
+            {
+              "name": "Enginuity",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit hier, um sich für den Abend aufzuwärmen.",
+                "hu": "Használja ki az időt a melegedésre az esti program előtt.",
+                "ro": "Profită de timpul petrecut aici pentru a te încălzi înainte de seară.",
+                "en": "Take this time to warm up thoroughly before the evening chill."
+              }
+            },
+            {
+              "name": "Walk along the River Severn",
+              "tip_5lang": {
+                "de": "Achtung bei Eisbildung auf den schattigen Uferwegen.",
+                "hu": "Vigyázzon az árnyékos folyóparti utakon az esetleges jegesedésre.",
+                "ro": "Atenție la porțiunile înghețate de pe potecile umbrite de pe mal.",
+                "en": "Be careful of icy patches on the shaded riverside paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche; die Feuchtigkeit im Tal verstärkt die Kälte.",
+              "Die Sonne verschwindet früh hinter den Hügeln, planen Sie Fotos vor 15:00 Uhr.",
+              "Einige Außenbereiche der Museen könnten bei Glatteis gesperrt sein.",
+              "Warme, isolierte Stiefel sind für das Stehen auf kaltem Boden wichtig.",
+              "Die Winterbeleuchtung an der Iron Bridge ist nach Sonnenuntergang sehenswert."
+            ],
+            "hu": [
+              "Viseljen termo alsóneműt; a völgy párássága fokozza a hidegérzetet.",
+              "A nap korán eltűnik a dombok mögött, a fotózást tervezze 15:00 előttre.",
+              "A múzeumok egyes kültéri részeit jegesedés miatt lezárhatják.",
+              "A meleg, szigetelt bakancs elengedhetetlen a hideg talajon való álláshoz.",
+              "Az Ironbridge téli kivilágítása naplemente után rendkívül hangulatos."
+            ],
+            "ro": [
+              "Purtați lenjerie termică; umiditatea din vale accentuează senzația de frig.",
+              "Soarele dispare devreme după dealuri, planificați fotografiile înainte de 15:00.",
+              "Unele zone exterioare ale muzeelor pot fi închise în caz de polei.",
+              "Cizmele călduroase și izolate sunt esențiale pentru statul pe solul rece.",
+              "Iluminatul de iarnă de pe Iron Bridge merită văzut după apus."
+            ],
+            "en": [
+              "Wear thermal layers; the dampness in the gorge intensifies the cold.",
+              "The sun drops behind the hills early; plan photos before 3 PM.",
+              "Some outdoor areas of museums may be closed during icy conditions.",
+              "Warm, insulated boots are vital for standing on cold museum floors.",
+              "The winter lights on the Iron Bridge are beautiful after sunset."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -670,6 +842,178 @@
           "Some hills are steep, so be prepared for some climbs.",
           "Wear layers as the weather can change quickly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt am Jackfield Tile Museum, wo wir den ersten Schauer im Trockenen abwarten. \nMittags radeln wir zur Iron Bridge; Vorsicht auf dem nassen Metall beim Überqueren. \nIn Blists Hill erkunden wir die viktorianische Stadt, wobei die alten Werkstätten Schutz vor dem Regen bieten. \nNachmittags geht es zum Coalport China Museum, bevor wir den Tag an der Buildwas Abbey im sanften Regen beenden.",
+            "hu": "A bringatúra a Jackfield Tile Museum-nál indul, ahol az első záport fedél alatt várhatjuk meg. \nEbédidőben az Iron Bridge-hez tekerünk; vigyázzunk a vizes fémfelületen az áthaladáskor. \nBlists Hill viktoriánus városában a régi műhelyek nyújtanak menedéket az eső elől. \nDélután a Coalport China Museum felé vesszük az irányt, majd a napot a Buildwas Abbey romjainál zárjuk.",
+            "ro": "Turul pe bicicletă începe la Jackfield Tile Museum, unde așteptăm prima aversă la adăpost. \nLa prânz pedalăm spre Iron Bridge; atenție la metalul ud în timpul traversării. \nÎn Blists Hill explorăm orașul victorian, atelierele vechi oferind protecție împotriva ploii. \nDupă-amiaza vizităm Coalport China Museum, înainte de a încheia ziua la Buildwas Abbey sub o ploaie fină.",
+            "en": "The bike tour starts at Jackfield Tile Museum, where we wait out the first shower indoors. \nAt midday, cycle to the Iron Bridge; take extra care on the wet metal surface. \nExplore the Victorian town at Blists Hill, where old workshops provide shelter from the rain. \nIn the afternoon, head to Coalport China Museum before finishing at Buildwas Abbey in the soft rain."
+          },
+          "stops": [
+            {
+              "name": "Start: Jackfield Tile Museum",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich direkt am Eingangsbereich.",
+                "hu": "Biztonságos kerékpártárolók találhatók közvetlenül a bejáratnál.",
+                "ro": "Rasteluri sigure pentru biciclete se află chiar la intrare.",
+                "en": "Secure bike racks are located right by the main entrance."
+              }
+            },
+            {
+              "name": "The Iron Bridge",
+              "tip_5lang": {
+                "de": "Vermeiden Sie starkes Bremsen auf den nassen Eisenplatten.",
+                "hu": "Kerülje az erős fékezést a nedves vaslemezeken.",
+                "ro": "Evitați frânarea bruscă pe plăcile de fier umede.",
+                "en": "Avoid heavy braking on the wet iron plates of the bridge."
+              }
+            },
+            {
+              "name": "Blists Hill Victorian Town",
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege können bei Regen schlammig werden.",
+                "hu": "A burkolatlan utak esőben sárossá válhatnak.",
+                "ro": "Drumurile neasfaltate pot deveni noroioase pe ploaie.",
+                "en": "The unpaved roads can become muddy during rainy weather."
+              }
+            },
+            {
+              "name": "Coalport China Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Innenhof zum Abstellen der Räder.",
+                "hu": "Használja a fedett belső udvart a kerékpárok tárolására.",
+                "ro": "Folosiți curtea interioară acoperită pentru a lăsa bicicletele.",
+                "en": "Use the covered courtyard area to park your bikes out of the rain."
+              }
+            },
+            {
+              "name": "Buildwas Abbey",
+              "tip_5lang": {
+                "de": "Das Grasland um die Ruinen ist bei Nässe sehr rutschig.",
+                "hu": "A romok körüli füves terület nedvesen nagyon csúszós.",
+                "ro": "Zona de iarbă din jurul ruinelor este foarte alunecoasă la umezeală.",
+                "en": "The grassy areas around the ruins are very slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind essenziell, um Schlammspritzer im Tal zu vermeiden.",
+              "Tragen Sie wasserfeste Handschuhe für besseren Grip am Lenker.",
+              "Reduzieren Sie den Reifendruck leicht für mehr Haftung auf nassen Wegen.",
+              "Einige Radwege entlang des Severn können bei starkem Regen überschwemmt sein.",
+              "Nehmen Sie eine Plastiktüte mit, um den Sattel beim Parken trocken zu halten."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a völgyi sárfelverődések ellen.",
+              "Viseljen vízálló kesztyűt a kormány jobb tapadása érdekében.",
+              "Csökkentse kissé a guminyomást a jobb tapadásért a nedves utakon.",
+              "A Severn menti kerékpárutak egy része heves esőzéskor víz alá kerülhet.",
+              "Vigyen magával nejlonzacskót, hogy szárazon tartsa a nyerget parkoláskor."
+            ],
+            "ro": [
+              "Apărătorile sunt esențiale pentru a evita stropii de noroi în vale.",
+              "Purtați mănuși impermeabile pentru o mai bună priză pe ghidon.",
+              "Reduceți ușor presiunea în pneuri pentru aderență pe drumuri ude.",
+              "Unele piste de biciclete de-a lungul râului pot fi inundate la ploi grele.",
+              "Luați o pungă de plastic pentru a menține șaua uscată când parcați."
+            ],
+            "en": [
+              "Mudguards are essential to avoid mud splatters throughout the gorge.",
+              "Wear waterproof gloves for a better grip on the handlebars.",
+              "Slightly reduce tire pressure for better traction on wet roads.",
+              "Some cycle paths along the Severn may flood during heavy rainfall.",
+              "Carry a plastic bag to keep your saddle dry while you are parked."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start am Jackfield Tile Museum, wo die Farben der Fliesen die Wintergrau vertreiben. \nMittags erreichen wir die Iron Bridge, deren filigrane Struktur im Winterlicht besonders hervorsticht. \nDer Besuch in Blists Hill fühlt sich im Winter besonders authentisch an, wenn Rauch aus den Schornsteinen steigt. \nNach Coalport führt die Route zur Buildwas Abbey, die in der frühen Dämmerung fast mystisch wirkt.",
+            "hu": "Hűvös kezdés a Jackfield Tile Museum-nál, ahol a csempék színei feledtetik a téli szürkeséget. \nEbédidőben érjük el az Iron Bridge-et, melynek szerkezete élesen kirajzolódik a téli fényben. \nBlists Hill látogatása télen a legautentikusabb, amikor füst száll fel a kéményekből. \nCoalport után az út a Buildwas Abbey-hez vezet, mely a korai szürkületben misztikus látvány.",
+            "ro": "Un început răcoros la Jackfield Tile Museum, unde culorile plăcilor alungă griul iernii. \nLa prânz ajungem la Iron Bridge, a cărei structură se evidențiază în lumina iernii. \nVizita la Blists Hill pare deosebit de autentică iarna, cu fumul ieșind din hornuri. \nDupă Coalport, traseul duce la Buildwas Abbey, care pare mistică în amurgul timpuriu.",
+            "en": "A chilly start at Jackfield Tile Museum, where colorful tiles brighten the winter gloom. \nAt noon, reach the Iron Bridge, its delicate structure standing out in the winter light. \nA winter visit to Blists Hill feels truly authentic as smoke rises from the chimneys. \nAfter Coalport, the route leads to Buildwas Abbey, looking mystical in the early twilight."
+          },
+          "stops": [
+            {
+              "name": "Start: Jackfield Tile Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände in der Ausstellung auf, bevor Sie weiterfahren.",
+                "hu": "Melegítse fel a kezét a kiállítótérben, mielőtt tovább indulna.",
+                "ro": "Încălziți-vă mâinile în expoziție înainte de a porni din nou la drum.",
+                "en": "Warm your hands in the exhibit areas before heading back out."
+              }
+            },
+            {
+              "name": "The Iron Bridge",
+              "tip_5lang": {
+                "de": "Achtung vor Reifglätte auf der Brücke am frühen Morgen.",
+                "hu": "Vigyázzon a kora reggeli zúzmarás csúszósságra a hídon.",
+                "ro": "Atenție la chiciură și polei pe pod la orele dimineții.",
+                "en": "Watch out for morning frost making the bridge surface slippery."
+              }
+            },
+            {
+              "name": "Blists Hill Victorian Town",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad am Haupteingang ab; in der Stadt ist Schieben sicherer.",
+                "hu": "Hagyja a bringát a főbejáratnál; a városban gyalogolni biztonságosabb.",
+                "ro": "Lăsați bicicleta la intrare; mersul pe jos e mai sigur în oraș.",
+                "en": "Park your bike at the main entrance; walking is safer inside the town."
+              }
+            },
+            {
+              "name": "Coalport China Museum",
+              "tip_5lang": {
+                "de": "Die Cafeteria bietet im Winter hausgemachte Suppen zum Aufwärmen.",
+                "hu": "A kávézóban télen házi készítésű levesekkel melegedhet fel.",
+                "ro": "Cafeneaua oferă supe de casă iarna pentru a vă încălzi.",
+                "en": "The cafeteria serves homemade soups in winter to help you warm up."
+              }
+            },
+            {
+              "name": "Buildwas Abbey",
+              "tip_5lang": {
+                "de": "Verlassen Sie die Abbey vor Einbruch der Dunkelheit (ca. 16:15 Uhr).",
+                "hu": "Hagyja el az apátságot sötétedés előtt (kb. 16:15).",
+                "ro": "Părăsiți abația înainte de lăsarea întunericului (aprox. 16:15).",
+                "en": "Ensure you leave the Abbey before darkness falls (around 4:15 PM)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorder- und Rücklicht sind aufgrund des frühen Sonnenuntergangs Pflicht.",
+              "Tragen Sie mehrere Schichten Kleidung und winddichte Außenbekleidung.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt ins Tal auf Vereisung.",
+              "Die schattigen Abschnitte des Silkin Way können den ganzen Tag gefroren bleiben.",
+              "Halten Sie ein Heißgetränk in einer Thermoskanne griffbereit."
+            ],
+            "hu": [
+              "Az első és hátsó világítás kötelező a korai naplemente miatt.",
+              "Viseljen több réteg ruhát és szélálló külső öltözetet.",
+              "Ellenőrizze a fékeket jegesedés szempontjából a völgybe való leereszkedés előtt.",
+              "A Silkin Way árnyékos szakaszai egész nap fagyottak maradhatnak.",
+              "Legyen önnél forró ital egy termoszban a túra alatt."
+            ],
+            "ro": [
+              "Luminile față și spate sunt obligatorii din cauza apusului devreme.",
+              "Purtați mai multe straturi de haine și o jachetă rezistentă la vânt.",
+              "Verificați frânele pentru gheață înainte de a coborî în vale.",
+              "Secțiunile umbrite de pe Silkin Way pot rămâne înghețate toată ziua.",
+              "Țineți la îndemână o băutură fierbinte într-un termos."
+            ],
+            "en": [
+              "Front and rear lights are mandatory due to the early 4 PM sunset.",
+              "Wear multiple layers and windproof outer gear for the valley descents.",
+              "Check your brakes for ice buildup before descending into the gorge.",
+              "Shaded sections of the Silkin Way can remain frozen all day long.",
+              "Keep a hot drink in a thermos flask easily accessible during your ride."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1002,6 +1346,178 @@
           "Blists Hill is large, plan your route through the town so you don't miss anything.",
           "Fuel can be more expensive in rural areas, so fill up in Telford."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten trocken an der Iron Bridge und nutzen die Parkplätze direkt im Zentrum. \nMittags führt der Weg zum Museum of Iron, wo wir gemütlich drinnen parken und verweilen. \nIn Blists Hill verbringen wir den Nachmittag, wobei die viktorianischen Häuser idealen Schutz bieten. \nDer Telford Town Park und der Wrekin werden bei Regen vom Auto aus oder bei kurzen Stopps besichtigt.",
+            "hu": "Szárazon indulunk az Iron Bridge-nél, kihasználva a központi parkolókat. \nEbédidőben a Museum of Iron felé vesszük az irányt, ahol kényelmesen, fedett közelben parkolhatunk. \nBlists Hill-ben töltjük a délutánt, ahol a viktoriánus házak kiváló menedéket nyújtanak. \nA Telford Town Park és a Wrekin látványát esőben inkább az autóból vagy rövid kiszállókkal élvezzük.",
+            "ro": "Începem fără griji la Iron Bridge, folosind parcările centrale de lângă pod. \nLa prânz ne îndreptăm spre Museum of Iron, unde parcăm aproape de intrare. \nÎn Blists Hill petrecem după-amiaza, casele victoriene oferind protecție ideală. \nTelford Town Park și Wrekin sunt vizitate din mașină sau prin opriri scurte în timpul ploii.",
+            "en": "Start dry at the Iron Bridge, utilizing the convenient central parking lots. \nAt noon, head to the Museum of Iron, where you can park close to the indoor exhibits. \nSpend the afternoon at Blists Hill, where Victorian houses provide excellent shelter. \nTelford Town Park and The Wrekin are best viewed from the car or during brief stops in the rain."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: The Iron Bridge",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz an der Tontine für den kürzesten Weg.",
+                "hu": "Használja a Tontine parkolót a lehető legrövidebb sétához.",
+                "ro": "Folosiți parcarea Tontine pentru cel mai scurt drum pe jos.",
+                "en": "Use the Tontine car park for the shortest walk to the bridge."
+              }
+            },
+            {
+              "name": "Cluster 1: Museum of Iron",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist befestigt und vermeidet Schlamm an den Schuhen.",
+                "hu": "A parkoló burkolt, így elkerülheti a sárgyűjtést a cipőjén.",
+                "ro": "Parcarea este asfaltată, evitând noroiul pe încălțăminte.",
+                "en": "The car park is paved, helping you avoid mud on your shoes."
+              }
+            },
+            {
+              "name": "Cluster 2: Blists Hill Victorian Town",
+              "tip_5lang": {
+                "de": "Parken Sie nahe am Besucherzentrum, um schnell ins Trockene zu kommen.",
+                "hu": "Parkoljon a látogatóközpont közelében a gyors bejutás érdekében.",
+                "ro": "Parcați aproape de centrul de vizitare pentru a intra rapid la adăpost.",
+                "en": "Park near the visitor center for a quick dash to the indoor areas."
+              }
+            },
+            {
+              "name": "Cluster 3: Telford Town Park",
+              "tip_5lang": {
+                "de": "Das Southwater-Parkhaus bietet komplett überdachten Zugang zum Park.",
+                "hu": "A Southwater parkolóház teljesen fedett hozzáférést biztosít a parkhoz.",
+                "ro": "Parcarea supraetajată Southwater oferă acces acoperit către parc.",
+                "en": "The Southwater multi-storey car park offers covered access to the park."
+              }
+            },
+            {
+              "name": "Cluster 4: The Wrekin",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf dem Parkplatz und genießen Sie die Aussicht im Auto.",
+                "hu": "Maradjon a parkolóban, és élvezze a kilátást az autóból.",
+                "ro": "Rămâneți în parcare și bucurați-vă de priveliște din mașină.",
+                "en": "Stay in the car park area and enjoy the views from inside your vehicle."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf tiefstehendes Wasser in den Senken der Ironbridge Gorge.",
+              "Die Parkplatzkapazitäten sind bei Regen meist entspannt.",
+              "Nutzen Sie die Park-and-Ride-Optionen, falls die Talparkplätze voll sind.",
+              "Stellen Sie sicher, dass Ihre Scheibenwischer in gutem Zustand sind.",
+              "Nebelscheinwerfer können auf der Bergstraße zum Wrekin hilfreich sein."
+            ],
+            "hu": [
+              "Ügyeljen a mélyebb tócsákra az Ironbridge Gorge mélyebb pontjain.",
+              "A parkolóhelyek esőben általában könnyebben elérhetőek.",
+              "Használja a Park-and-Ride opciókat, ha a völgyi parkolók megtelnének.",
+              "Győződjön meg róla, hogy az ablaktörlők jó állapotban vannak.",
+              "A ködlámpa hasznos lehet a Wrekin felé vezető hegyi úton."
+            ],
+            "ro": [
+              "Atenție la bălțile adânci în punctele joase din Ironbridge Gorge.",
+              "Capacitatea parcărilor este de obicei suficientă în timpul ploii.",
+              "Folosiți opțiunile Park-and-Ride dacă parcările din vale sunt pline.",
+              "Asigurați-vă că ștergătoarele sunt în stare bună de funcționare.",
+              "Farurile de ceață pot fi utile pe drumul montan spre Wrekin."
+            ],
+            "en": [
+              "Watch out for standing water in the lower parts of Ironbridge Gorge.",
+              "Parking spaces are usually easier to find during rainy weather.",
+              "Use Park-and-Ride options if valley car parks happen to be full.",
+              "Ensure your windshield wipers are in good working condition.",
+              "Fog lights may be helpful on the mountain road leading to The Wrekin."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen startet an der Iron Bridge, die im Winterlicht silbern glänzt. \nMittags besuchen wir das Museum of Iron, eine warme Zuflucht vor der Kälte. \nIn Blists Hill erleben wir nachmittags viktorianische Weihnachtsatmosphäre, wenn die Feuer brennen. \nZum Abschluss fahren wir zum Wrekin, um den Sonnenuntergang über der verschneiten Landschaft zu sehen.",
+            "hu": "A fagyos reggel az Iron Bridge-nél indul, mely ezüstösen csillog a téli fényben. \nEbédidőben a Museum of Iron-hoz megyünk, ami meleg menedéket nyújt a hideg ellen. \nBlists Hill-ben délután igazi viktoriánus karácsonyi hangulatot találunk a lobogó tüzek mellett. \nZárásként a Wrekin felé autózunk, hogy megcsodáljuk a naplementét a havas táj felett.",
+            "ro": "Dimineața geroasă începe la Iron Bridge, care strălucește argintiu în lumina iernii. \nLa prânz vizităm Museum of Iron, un refugiu călduros împotriva frigului. \nÎn Blists Hill experimentăm după-amiaza o atmosferă victoriană de Crăciun lângă focuri. \nLa final, conducem spre Wrekin pentru a vedea apusul peste peisajul posibil înzăpezit.",
+            "en": "The frosty morning starts at the Iron Bridge, glistening silver in the winter light. \nAt noon, visit the Museum of Iron, a warm sanctuary from the outdoor chill. \nIn the afternoon at Blists Hill, experience a Victorian winter atmosphere with roaring fires. \nFinish by driving to The Wrekin to witness the sunset over the wintry landscape."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: The Iron Bridge",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Boden auf dem Parkplatz auf Glatteis beim Aussteigen.",
+                "hu": "Kiszálláskor ellenőrizze a parkoló talaját, nincs-e lefagyva.",
+                "ro": "Verificați solul din parcare pentru polei când coborâți din mașină.",
+                "en": "Check the car park surface for black ice when stepping out."
+              }
+            },
+            {
+              "name": "Cluster 1: Museum of Iron",
+              "tip_5lang": {
+                "de": "Lassen Sie keine feuchte Kleidung im kalten Auto zurück.",
+                "hu": "Ne hagyjon nedves ruhát a hideg autóban, mert ráfagyhat.",
+                "ro": "Nu lăsați haine umede în mașina rece, pot îngheța.",
+                "en": "Avoid leaving damp clothing in the cold car; it may freeze or cause fog."
+              }
+            },
+            {
+              "name": "Cluster 2: Blists Hill Victorian Town",
+              "tip_5lang": {
+                "de": "Achten Sie auf die verkürzten Öffnungszeiten im Winter.",
+                "hu": "Ügyeljen a téli időszakban érvényes rövidített nyitvatartásra.",
+                "ro": "Atenție la programul de funcționare redus pe timp de iarnă.",
+                "en": "Be mindful of the shortened opening hours during the winter season."
+              }
+            },
+            {
+              "name": "Cluster 3: Telford Town Park",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist gut beleuchtet, ideal für den frühen Abend.",
+                "hu": "A parkoló jól kivilágított, ideális a kora esti órákban is.",
+                "ro": "Parcarea este bine iluminată, ideală pentru vizite la lăsarea serii.",
+                "en": "The car park is well-lit, making it ideal for the early evening hours."
+              }
+            },
+            {
+              "name": "Cluster 4: The Wrekin",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig; die Straße zum Wrekin wird oft spät geräumt.",
+                "hu": "Vezessen óvatosan; a Wrekinhez vezető utat gyakran későn takarítják.",
+                "ro": "Conduceți cu atenție; drumul spre Wrekin este adesea curățat târziu.",
+                "en": "Drive carefully; the road to The Wrekin is often cleared late."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer einen Eiskratzer und Frostschutzmittel mit sich.",
+              "Prüfen Sie die Straßenbedingungen in der Gorge, da es dort schattig bleibt.",
+              "Die Parkhäuser in Telford Town Centre sind im Winter oft wärmer.",
+              "Stellen Sie sicher, dass Ihre Autobatterie für kalte Starts fit ist.",
+              "Planen Sie die Rückfahrt vor 16:30 Uhr ein, um Dunkelheit im Tal zu vermeiden."
+            ],
+            "hu": [
+              "Mindig tartson az autóban jégkaparót és fagyállót.",
+              "Ellenőrizze az útviszonyokat a Gorge-ban, mert az árnyékos részek jegesek maradnak.",
+              "Telford városközpontjának parkolóházai télen gyakran melegebbek.",
+              "Győződjön meg róla, hogy az akkumulátor bírja a hidegindítást.",
+              "Tervezze a visszautat 16:30 előttre, hogy elkerülje a sötétséget a völgyben."
+            ],
+            "ro": [
+              "Aveți întotdeauna în mașină o răzuitoare de gheață și antigel.",
+              "Verificați starea drumurilor în Gorge, zonele umbrite rămân înghețate.",
+              "Parcările supraetajate din centrul Telford sunt mai calde iarna.",
+              "Asigurați-vă că bateria mașinii este pregătită pentru porniri la rece.",
+              "Planificați drumul de întoarcere înainte de 16:30 pentru a evita bezna."
+            ],
+            "en": [
+              "Always carry an ice scraper and de-icer spray in your vehicle.",
+              "Check road conditions in the Gorge as shaded areas remain icy all day.",
+              "Multi-storey car parks in Telford Town Centre are often warmer in winter.",
+              "Ensure your car battery is in good condition for cold morning starts.",
+              "Plan your return journey before 4:30 PM to avoid total darkness in the valley."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1310,6 +1826,160 @@
           "Buses can be crowded on weekends and during holidays.",
           "Download timetables offline to your phone as signal can be patchy in the gorge."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten den Tag in Blists Hill, bequem erreichbar mit dem Bus, der direkt am Eingang hält. \nMittags bringt uns der Bus zur Iron Bridge; die Wartehäuschen bieten guten Schutz vor Regen. \nNachmittags besichtigen wir das Museum of Iron, bevor wir zum Telford Town Park fahren. \nDie Rückfahrt erfolgt bequem mit den häufig verkehrenden Arriva-Bussen durch die verregnete Landschaft.",
+            "hu": "A napot Blists Hill-ben kezdjük, mely kényelmesen elérhető a közvetlenül a bejáratnál megálló busszal. \nEbédidőben busszal megyünk az Iron Bridge-hez; a fedett várók védelmet nyújtanak. \nDélután a Museum of Iron következik, majd ellátogatunk a Telford Town Parkba. \nA visszautat a gyakran közlekedő Arriva buszokkal tesszük meg az esős tájon át.",
+            "ro": "Începem ziua în Blists Hill, accesibil confortabil cu autobuzul care oprește la intrare. \nLa prânz, autobuzul ne duce la Iron Bridge; stațiile acoperite oferă protecție bună. \nDupă-amiaza vizităm Museum of Iron, apoi mergem spre Telford Town Park. \nÎntoarcerea se face cu autobuzele Arriva care circulă frecvent prin peisajul ploios.",
+            "en": "Start the day at Blists Hill, easily reached by a bus that stops right at the entrance. \nAt midday, take the bus to the Iron Bridge; sheltered stops provide good rain protection. \nVisit the Museum of Iron in the afternoon before heading to Telford Town Park. \nThe return journey is comfortable via frequent Arriva buses through the rainy landscape."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Blists Hill Victorian Town",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arriva-App, um Wartezeiten im Regen zu minimieren.",
+                "hu": "Használja az Arriva alkalmazást, hogy minimalizálja az esőben való várakozást.",
+                "ro": "Folosiți aplicația Arriva pentru a minimiza așteptarea în ploaie.",
+                "en": "Use the Arriva app to minimize your waiting time in the rain."
+              }
+            },
+            {
+              "name": "Cluster 2: The Iron Bridge",
+              "tip_5lang": {
+                "de": "Die Haltestelle am Museum bietet ein großes, trockenes Wartehäuschen.",
+                "hu": "A múzeumnál található megálló nagy, száraz váróval rendelkezik.",
+                "ro": "Stația de la muzeu are un adăpost mare și uscat pentru pasageri.",
+                "en": "The stop by the museum features a large, dry passenger shelter."
+              }
+            },
+            {
+              "name": "Cluster 2: Museum of Iron",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Haltestelle zum Museum ist kurz und eben.",
+                "hu": "A megállótól a múzeumig vezető gyalogút rövid és sík.",
+                "ro": "Drumul de la stație până la muzeu este scurt și plat.",
+                "en": "The walk from the bus stop to the museum is short and level."
+              }
+            },
+            {
+              "name": "Cluster 3: Telford Town Park",
+              "tip_5lang": {
+                "de": "Steigen Sie an der Haltestelle 'Southwater' für den direkten Parkzugang aus.",
+                "hu": "Szálljon le a 'Southwater' megállónál a közvetlen parkbejárathoz.",
+                "ro": "Coborâți la stația 'Southwater' pentru acces direct în parc.",
+                "en": "Disembark at the 'Southwater' stop for direct, easy park access."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für den Weg zwischen den Haltestellen.",
+              "Die Busse sind im Winter und bei Regen meist gut beheizt.",
+              "Kaufen Sie ein Tages-Ticket direkt beim Fahrer oder per App.",
+              "Informieren Sie sich über eventuelle Umleitungen bei Hochwasser am Severn.",
+              "Halten Sie Kleingeld bereit, falls das kontaktlose System ausfällt."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a megállók közötti gyalogláshoz.",
+              "A buszok esőben és télen általában jól fűtöttek.",
+              "Vásároljon napijegyet közvetlenül a sofőrnél vagy az applikációban.",
+              "Tájékozódjon az esetleges terelésekről a Severn áradása esetén.",
+              "Legyen önnél aprópénz, ha az érintésmentes fizetés nem működne."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru drumul dintre stații.",
+              "Autobuzele sunt de obicei bine încălzite în timpul ploii și iernii.",
+              "Cumpărați un bilet de o zi direct de la șofer sau prin aplicație.",
+              "Informați-vă despre eventuale rute ocolitoare în caz de inundații.",
+              "Aveți mărunt la voi în cazul în care sistemul contactless nu funcționează."
+            ],
+            "en": [
+              "Wear waterproof shoes for the short walks between bus stops.",
+              "Buses are generally well-heated during rainy and winter weather.",
+              "Purchase a day ticket directly from the driver or via the app.",
+              "Check for service diversions if the River Severn is prone to flooding.",
+              "Keep some spare change handy in case the contactless system fails."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Tag beginnt in Blists Hill, wo wir uns in den historischen Gebäuden aufwärmen. \nMittags nehmen wir den Bus zur Iron Bridge und genießen den Blick auf das winterliche Tal. \nNachmittags besichtigen wir das Museum of Iron, bevor es zum festlich beleuchteten Town Park geht. \nDie Rückfahrt erfolgt im warmen Bus, während draußen die winterliche Dunkelheit hereinbricht.",
+            "hu": "A fagyos nap Blists Hill-ben indul, ahol a történelmi épületekben melegedhetünk fel. \nEbédidőben busszal megyünk az Iron Bridge-hez, élvezve a téli völgy látványát. \nDélután a Museum of Iron következik, majd ellátogatunk a kivilágított Town Parkba. \nA visszautat a fűtött buszban töltjük, miközben odakint leszáll a téli sötétség.",
+            "ro": "Ziua geroasă începe în Blists Hill, unde ne încălzim în clădirile istorice. \nLa prânz luăm autobuzul spre Iron Bridge și admirăm valea în haine de iarnă. \nDupă-amiaza vizităm Museum of Iron, apoi mergem în Town Park care este luminat festiv. \nÎntoarcerea se face cu un autobuz călduros, în timp ce afară se lasă întunericul iernii.",
+            "en": "The frosty day starts at Blists Hill, warming up inside the historic buildings. \nAt noon, take the bus to the Iron Bridge and enjoy the wintry valley views. \nVisit the Museum of Iron in the afternoon before heading to the festively lit Town Park. \nThe return journey is in a warm bus as the winter darkness settles outside."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Blists Hill Victorian Town",
+              "tip_5lang": {
+                "de": "Der Busbahnhof Telford bietet einen beheizten Wartebereich.",
+                "hu": "Telford buszpályaudvarán fűtött váróterem áll rendelkezésre.",
+                "ro": "Autogara din Telford are o sală de așteptare încălzită.",
+                "en": "Telford bus station offers a heated waiting area for passengers."
+              }
+            },
+            {
+              "name": "Cluster 2: The Iron Bridge",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis an den Bordsteinkanten der Haltestellen.",
+                "hu": "Ügyeljen a jegesedésre a buszmegállók padkáinál.",
+                "ro": "Atenție la porțiunile înghețate de pe marginile trotuarului în stații.",
+                "en": "Watch out for ice on the curbs when boarding or alighting the bus."
+              }
+            },
+            {
+              "name": "Cluster 2: Museum of Iron",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Museum, um für die Weiterfahrt aufzutauen.",
+                "hu": "Használja ki a múzeumi időt, hogy felmelegedjen a következő útra.",
+                "ro": "Folosiți timpul în muzeu pentru a vă încălzi înainte de restul drumului.",
+                "en": "Use your time in the museum to warm up before continuing your trip."
+              }
+            },
+            {
+              "name": "Cluster 3: Telford Town Park",
+              "tip_5lang": {
+                "de": "Die Busse fahren im Winter oft nach einem geänderten Feiertagsplan.",
+                "hu": "A buszok télen gyakran módosított ünnepi menetrend szerint járnak.",
+                "ro": "Autobuzele circulă adesea după un program special de sărbători.",
+                "en": "Buses may operate on a modified holiday schedule during winter months."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Ihre Fahrten so, dass Sie vor 17:00 Uhr zurück sind.",
+              "Die Busfrequenz kann bei extremem Winterwetter reduziert sein.",
+              "Tragen Sie reflektierende Kleidung, wenn Sie im Dunkeln zur Haltestelle gehen.",
+              "Halten Sie sich über die Social-Media-Kanäle von Arriva auf dem Laufenden.",
+              "Ein heißer Kaffee an der Station macht das Warten angenehmer."
+            ],
+            "hu": [
+              "Tervezze úgy az útját, hogy 17:00 előtt visszaérjen a központba.",
+              "Extrém téli időjárás esetén a buszok ritkábban közlekedhetnek.",
+              "Viseljen fényvisszaverő elemeket, ha sötétben gyalogol a megállóhoz.",
+              "Kísérje figyelemmel az Arriva közösségi média oldalait a friss hírekért.",
+              "Egy forró kávé az állomáson kellemesebbé teszi a várakozást."
+            ],
+            "ro": [
+              "Planificați călătoriile astfel încât să reveniți înainte de ora 17:00.",
+              "Frecvența autobuzelor poate fi redusă în caz de vreme extremă.",
+              "Purtați elemente reflectorizante dacă mergeți spre stație pe întuneric.",
+              "Urmăriți canalele social media ale Arriva pentru actualizări live.",
+              "O cafea fierbinte în stație face așteptarea mult mai plăcută."
+            ],
+            "en": [
+              "Plan your trips to be back at your destination before 5 PM.",
+              "Bus frequency may be reduced during periods of extreme winter weather.",
+              "Wear reflective clothing if walking to or from stops in the dark.",
+              "Stay updated via Arriva's social media channels for service alerts.",
+              "A hot coffee from a station kiosk makes waiting much more bearable."
+            ]
+          }
+        }
       }
     }
   }

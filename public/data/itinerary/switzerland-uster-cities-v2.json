@@ -356,6 +356,188 @@
           "Carry water with you, especially on warmer days.",
           "Check the opening hours for the castle as they can vary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem schützenden Dach der Reformierten Kirche, wo man die Stille und Akustik genießt. Mittags bietet das Schloss Uster trockene Museumsräume und einen weiten Blick über die verregnete Stadt. Am Nachmittag führt der Weg durch den Stadtpark zur Villa am Aabach, wobei die Bäume natürlichen Schutz bieten. Der Tag endet gemütlich in der Lok-Remise bei Kultur und Wärme.",
+            "hu": "A reggel a Református Templom védelmező falai között indul, ahol az orgonaszó és a csend segít elkerülni a záporokat. Délben az usteri vár belső kiállításai nyújtanak menedéket, miközben az ablakokból a ködös tájat látni. Délután a Zellweger Park szobrai között sétálunk esernyővel, majd a napot a Lok-Remise kulturális központjában, fedett helyen zárjuk, távol a szürke az esőtől.",
+            "ro": "Dimineața începe la adăpostul Bisericii Reformate, admirând arhitectura în timp ce ploaia bate în geamuri. La prânz, Castelul Uster oferă un refugiu uscat în muzeul său istoric. După-amiaza, o plimbare rapidă prin parcul orașului ne duce spre Villa am Aabach, folosind aleile umbrite. Seara se încheie la centrul cultural Lok-Remise, locul perfect pentru a te usca și a te bucura de evenimente.",
+            "en": "Start your morning inside the Reformed Church, finding peace while waiting for the showers to pass. By noon, Uster Castle provides a dry historical escape with its indoor exhibits. In the afternoon, the walk through Zellweger Park is atmospheric even in the rain, with modern sculptures reflecting the grey sky. End the day at the Lok-Remise, a spacious indoor venue for culture and relaxation."
+          },
+          "stops": [
+            {
+              "name": "Reformed Church Uster",
+              "tip_5lang": {
+                "de": "Hervorragende Akustik im Inneren, ideal um einen Regenschauer abzuwarten.",
+                "hu": "Kiváló akusztika bent, tökéletes hely egy hirtelen zápor kivárására.",
+                "ro": "Acustică excelentă în interior, ideală pentru a aștepta trecerea ploii.",
+                "en": "Excellent acoustics inside, perfect for waiting out a passing shower."
+              }
+            },
+            {
+              "name": "Uster Castle",
+              "tip_5lang": {
+                "de": "Das Schlossmuseum ist komplett überdacht und bietet Schutz vor Nässe.",
+                "hu": "A vármúzeum teljesen fedett, biztonságos menedék a nedvesség elől.",
+                "ro": "Muzeul castelului este complet acoperit, oferind protecție împotriva umezelii.",
+                "en": "The castle museum is fully covered, providing a safe haven from the wet weather."
+              }
+            },
+            {
+              "name": "Uster City Park",
+              "tip_5lang": {
+                "de": "Asphaltierte Wege nutzen, um schlammige Rasenflächen zu vermeiden.",
+                "hu": "Használja az aszfaltozott utakat, hogy elkerülje a sáros gyepeket.",
+                "ro": "Folosiți aleile asfaltate pentru a evita zonele de gazon noroioase.",
+                "en": "Stick to the paved paths to avoid muddy lawn areas."
+              }
+            },
+            {
+              "name": "Villa am Aabach",
+              "tip_5lang": {
+                "de": "Die Architektur lässt sich gut von den überdachten Eingängen aus bewundern.",
+                "hu": "Az építészet a fedett bejáratok alól is jól megcsodálható.",
+                "ro": "Arhitectura poate fi admirată de sub intrările acoperite.",
+                "en": "The architecture can be admired well from under the covered entrances."
+              }
+            },
+            {
+              "name": "Zellweger Park",
+              "tip_5lang": {
+                "de": "Die Skulpturen wirken bei Regen besonders mystisch und glänzend.",
+                "hu": "A szobrok esőben különösen misztikusan és fényesen mutatnak.",
+                "ro": "Sculpturile par deosebit de mistice și strălucitoare în ploaie.",
+                "en": "The sculptures look particularly mystical and shiny in the rain."
+              }
+            },
+            {
+              "name": "Lok-Remise Uster",
+              "tip_5lang": {
+                "de": "Grosszügiger Innenraum, ideal zum Aufwärmen und Trocknen.",
+                "hu": "Tágas belső tér, ideális a felmelegedéshez és szárítkozáshoz.",
+                "ro": "Spațiu interior generos, ideal pentru încălzire și uscare.",
+                "en": "Spacious interior, ideal for warming up and drying off."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen der Winde vom Greifensee ratsam.",
+              "Wasserdichte Schuhe sind für die Wege durch die Parks unverzichtbar.",
+              "Die Lok-Remise bietet oft kurzfristig überdachte Veranstaltungen an.",
+              "Nutzen Sie die Arkaden im Stadtzentrum für kurze trockene Pausen."
+            ],
+            "hu": [
+              "A Greifensee felől fújó szél miatt erős esernyő javasolt.",
+              "A parkokon átvezető utakhoz vízálló cipő elengedhetetlen.",
+              "A Lok-Remise gyakran hirdet meg fedett kulturális programokat esős napokra.",
+              "Használja a városközpont árkádjait a rövid, száraz pihenőkhöz."
+            ],
+            "ro": [
+              "Se recomandă o umbrelă rezistentă din cauza vântului de pe Greifensee.",
+              "Încălțămintea impermeabilă este indispensabilă pentru aleile din parcuri.",
+              "Lok-Remise oferă adesea evenimente acoperite în caz de vreme rea.",
+              "Folosiți arcadele din centrul orașului pentru scurte pauze uscate."
+            ],
+            "en": [
+              "A sturdy umbrella is advised due to the winds blowing from Greifensee.",
+              "Waterproof shoes are essential for the paths through the parks.",
+              "Lok-Remise often hosts indoor cultural events during rainy spells.",
+              "Use the arcades in the city center for short, dry breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im klaren Winterlicht beginnt der Tag an der Reformierten Kirche, deren Turm stolz in den kalten Himmel ragt. Mittags wärmt man sich im Schloss Uster auf und geniesst den Blick auf die schneebedeckten Dächer. Der Nachmittag gehört dem Zellweger Park, wo Frost die modernen Skulpturen verziert. Sobald es um 17 Uhr dunkel wird, bietet die Lok-Remise eine warme Atmosphäre für den Tagesausklang.",
+            "hu": "A tiszta téli fényben a Református Templomnál kezdünk, melynek tornya büszkén mered a hideg égbe. Délben az usteri vár falai között melegedhetünk fel, csodálva a havas háztetőket. Délután a Zellweger Park fagyos szobrai között sétálunk a friss levegőn. Mivel 17 órakor már sötétedik, a napot a Lok-Remise melegében, kulturális környezetben fejezzük be.",
+            "ro": "În lumina clară de iarnă, ziua începe la Biserica Reformată, al cărei turn se înalță mândru spre cerul rece. La prânz, vă puteți încălzi în Castelul Uster, admirând acoperișurile înzăpezite. După-amiaza aparține parcului Zellweger, unde chiciura decorează sculpturile moderne. De îndată ce se întunecă la ora 17, Lok-Remise oferă o atmosferă caldă pentru finalul zilei.",
+            "en": "In the crisp winter light, start at the Reformed Church, its tower standing tall against the cold sky. By midday, warm up inside Uster Castle while enjoying views of the frost-covered rooftops. The afternoon is best spent in Zellweger Park, where ice patterns decorate the sculptures. As darkness falls around 5 PM, the Lok-Remise provides a cozy indoor haven to conclude your walk."
+          },
+          "stops": [
+            {
+              "name": "Reformed Church Uster",
+              "tip_5lang": {
+                "de": "Oft beheizt im Winter, ein guter Ort für eine kurze Aufwärmpause.",
+                "hu": "Télen gyakran fűtött, jó hely egy rövid melegedő szünetre.",
+                "ro": "Adesea încălzită iarna, un loc bun pentru o scurtă pauză de încălzire.",
+                "en": "Often heated in winter, a good spot for a short warming break."
+              }
+            },
+            {
+              "name": "Uster Castle",
+              "tip_5lang": {
+                "de": "Der Aufstieg zum Schloss bietet bei Kälte eine gute Durchblutung.",
+                "hu": "A várba vezető emelkedő segít a hidegben a vérkeringés felpezsdítésében.",
+                "ro": "Urcarea la castel ajută la circulația sângelui în zilele reci.",
+                "en": "The climb to the castle is a good way to get the blood flowing in the cold."
+              }
+            },
+            {
+              "name": "Uster City Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen auf den Brücken über den Aabach.",
+                "hu": "Vigyázat, az Aabach feletti hidakon jegesedés várható.",
+                "ro": "Atenție la porțiunile înghețate de pe podurile peste Aabach.",
+                "en": "Watch out for icy patches on the bridges over the Aabach."
+              }
+            },
+            {
+              "name": "Villa am Aabach",
+              "tip_5lang": {
+                "de": "Die Fassade sieht mit Frostbesatz besonders elegant aus.",
+                "hu": "A homlokzat dérrel borítva különösen elegánsan mutat.",
+                "ro": "Fațada arată deosebit de elegant când este acoperită cu chiciură.",
+                "en": "The facade looks particularly elegant when covered in frost."
+              }
+            },
+            {
+              "name": "Zellweger Park",
+              "tip_5lang": {
+                "de": "Frühzeitiger Besuch empfohlen, da es im Park kaum Beleuchtung gibt.",
+                "hu": "Korai látogatás javasolt, mivel a parkban alig van világítás.",
+                "ro": "Se recomandă vizitarea timpurie, deoarece parcul are iluminare minimă.",
+                "en": "Early visit recommended as there is minimal lighting in the park."
+              }
+            },
+            {
+              "name": "Lok-Remise Uster",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den frühen Sonnenuntergang im Warmen zu erleben.",
+                "hu": "Ideális hely a korai naplemente megtekintéséhez a melegből.",
+                "ro": "Un loc ideal pentru a experimenta apusul devreme la căldură.",
+                "en": "An ideal place to experience the early sunset while staying warm."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Einlegesohlen für die langen Gehstrecken.",
+              "Die Sonne geht im Dezember bereits vor 17:00 Uhr unter.",
+              "Viele Cafés im Zentrum bieten saisonalen Punsch zum Aufwärmen an.",
+              "Die Wege zum Schloss werden bei Schnee meist schnell geräumt."
+            ],
+            "hu": [
+              "Viseljen termotalpbetétet a hosszú gyalogos szakaszokhoz.",
+              "Decemberben a nap már 17:00 óra előtt lemegy.",
+              "A központ kávézói szezonális puncsot kínálnak a melegedéshez.",
+              "A várhoz vezető utakat hóesés után általában gyorsan letakarítják."
+            ],
+            "ro": [
+              "Purtați branțuri termice pentru distanțele lungi de mers pe jos.",
+              "Soarele apune deja înainte de ora 17:00 în decembrie.",
+              "Multe cafenele din centru oferă punch sezonier pentru încălzire.",
+              "Potecile spre castel sunt de obicei curățate rapid în caz de zăpadă."
+            ],
+            "en": [
+              "Wear thermal insoles for the long walking sections.",
+              "The sun sets before 5:00 PM in December.",
+              "Many cafes in the center offer seasonal punch to warm you up.",
+              "Paths to the castle are usually cleared quickly after snowfall."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +888,188 @@
           "Many of the paths around Greifensee are car-free.",
           "Uster is hilly, be prepared for some climbs."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Radtour nach Uster ihren Reiz. Das Schloss bietet einen ersten trockenen Halt, bevor es entlang des Industriepfads geht, wo die alten Fabriken im Regen authentisch wirken. Die Fahrt zum Greifensee ist neblig und ruhig, ideal für wetterfeste Entdecker. Den Tag schliesst man trocken bei einem Abendessen im Stadtzentrum ab, während die Fahrräder sicher parken.",
+            "hu": "Az eső ellenére a kerékpártúra Usterben is élvezetes lehet. A vár az első száraz megálló, majd az Ipari Úton haladunk tovább, ahol a régi gyárak az esőben hiteles képet mutatnak. A Greifensee felé vezető út ködös és csendes, ideális a kalandvágyóknak. A napot szárazon, a városközpontban elköltött vacsorával zárjuk, miközben a bringák biztonságban pihennek.",
+            "ro": "În ciuda ploii, turul cu bicicleta prin Uster are farmecul său. Castelul oferă o primă oprire uscată înainte de a porni pe Calea Industrială, unde vechile fabrici par autentice în ploaie. Drumul spre Greifensee este cețos și liniștit, ideal pentru exploratorii echipați. Ziua se încheie la adăpost, cu o cină în centrul orașului, în timp ce bicicletele sunt parcate în siguranță.",
+            "en": "Rain won't stop a dedicated cyclist in Uster. Start with a dry break at the Castle before riding the Industrial Path, where old factories look moody in the mist. The stretch to Greifensee shore is quiet and atmospheric if you have waterproof gear. Finish the day with a warm dinner in the center, leaving the wet trails behind for a cozy evening indoors."
+          },
+          "stops": [
+            {
+              "name": "Uster Castle",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich direkt am Fusse des Hügels.",
+                "hu": "Fedett kerékpártárolók találhatók közvetlenül a domb lábánál.",
+                "ro": "Suporturi de biciclete acoperite se află direct la baza dealului.",
+                "en": "Covered bike racks are located directly at the foot of the hill."
+              }
+            },
+            {
+              "name": "Industrial Path Start",
+              "tip_5lang": {
+                "de": "Achtung bei nassen Metallschienen auf dem Boden; Rutschgefahr!",
+                "hu": "Vigyázat a nedves fémsíneken a földön; csúszásveszély!",
+                "ro": "Atenție la șinele de metal umede de pe sol; pericol de alunecare!",
+                "en": "Beware of wet metal rails on the ground; slip hazard!"
+              }
+            },
+            {
+              "name": "Zellweger Park",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter den grossen Bäumen bei starkem Regen.",
+                "hu": "Rövid megálló a nagy fák alatt heves esőzés esetén.",
+                "ro": "Scurtă oprire sub copacii mari în caz de ploaie torențială.",
+                "en": "Short stop under the large trees during heavy rain."
+              }
+            },
+            {
+              "name": "Greifensee Shore",
+              "tip_5lang": {
+                "de": "Die Uferwege können Pfützen bilden; Schutzbleche sind ratsam.",
+                "hu": "A parti utakon tócsák alakulhatnak ki; a sárvédő ajánlott.",
+                "ro": "Potecile de pe mal pot avea bălți; aripile sunt recomandate.",
+                "en": "The shore paths can form puddles; mudguards are advisable."
+              }
+            },
+            {
+              "name": "Uster City Park",
+              "tip_5lang": {
+                "de": "Gepflasterte Wege sind sicherer als die nassen Kiespfade.",
+                "hu": "A burkolt utak biztonságosabbak, mint a nedves kavicsos ösvények.",
+                "ro": "Drumurile pavate sunt mai sigure decât potecile cu pietriș umed.",
+                "en": "Paved roads are safer than wet gravel paths."
+              }
+            },
+            {
+              "name": "Dinner in the Center",
+              "tip_5lang": {
+                "de": "Viele Restaurants erlauben das Abstellen von nasser Kleidung.",
+                "hu": "Sok étterem lehetővé teszi a nedves ruhák elhelyezését.",
+                "ro": "Multe restaurante permit lăsarea hainelor umede la intrare.",
+                "en": "Many restaurants allow you to leave wet clothing near the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie wasserdichte Packtaschen für Ihre Ausrüstung.",
+              "Vermeiden Sie bei Regen die unbefestigten Waldwege am Seeufer.",
+              "Die Bremswege auf nassen Strassen verlängern sich spürbar.",
+              "Ein Helm mit Visier hilft, die Sicht bei Regen zu behalten."
+            ],
+            "hu": [
+              "Használjon vízálló táskákat a felszereléséhez.",
+              "Esőben kerülje a tóparti burkolatlan erdei utakat.",
+              "A féktávolság nedves úton érezhetően meghosszabbodik.",
+              "A napellenzős sisak segít fenntartani a látást az esőben."
+            ],
+            "ro": [
+              "Folosiți genți impermeabile pentru echipamentul dumneavoastră.",
+              "Evitați potecile forestiere neamenajate de pe malul lacului pe ploaie.",
+              "Distanțele de frânare pe drumurile umede cresc simțitor.",
+              "O cască cu vizieră ajută la menținerea vizibilității în ploaie."
+            ],
+            "en": [
+              "Use waterproof panniers for your gear.",
+              "Avoid unpaved forest paths on the lakeshore during rain.",
+              "Braking distances increase significantly on wet roads.",
+              "A helmet with a visor helps maintain visibility in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour per Rad erfordert warme Kleidung, belohnt aber mit einsamen Wegen. Nach dem Besuch im Schloss führt die Route über den Industriepfad, wo der Dampf der Heizungen die Luft füllt. Der Greifensee wirkt im Winter erstarrt und friedlich. Nach einer frostigen Fahrt durch den Stadtpark wärmt ein herzhaftes Abendessen im Zentrum die Glieder wieder auf.",
+            "hu": "A téli kerékpártúra meleg ruházatot igényel, de cserébe magányos utakkal jutalmaz. A vár látogatása után az Ipari Úton haladunk, ahol a fűtés gőze tölti meg a levegőt. A Greifensee télen megdermedtnek és békésnek tűnik. A Városligeten átvezető fagyos tekerés után a központban elfogyasztott kiadós vacsora melengeti meg újra a testet.",
+            "ro": "Un tur de iarnă cu bicicleta necesită haine groase, dar răsplătește cu drumuri pustii. După vizita la castel, traseul trece pe Calea Industrială, unde aburul încălzirii umple aerul. Greifensee pare încremenit și liniștit iarna. După o tură geroasă prin parcul orașului, o cină copioasă în centru vă va reîncălzi membrele.",
+            "en": "A winter bike tour demands warm layers but rewards you with quiet trails. After exploring the Castle, ride the Industrial Path, observing the winter activity of local workshops. The Greifensee shore is peaceful and still in the cold. After a brisk ride through the City Park, head to the center for a satisfying dinner to warm up after your frosty adventure."
+          },
+          "stops": [
+            {
+              "name": "Uster Castle",
+              "tip_5lang": {
+                "de": "Der Schlossberg kann bei Glätte rutschig sein; schieben empfohlen.",
+                "hu": "A várhegy jegesedéskor csúszós lehet; javasolt a kerékpár tolása.",
+                "ro": "Dealul castelului poate fi alunecos în caz de îngheț; se recomandă împingerea bicicletei.",
+                "en": "The castle hill can be slippery in icy conditions; walking the bike is recommended."
+              }
+            },
+            {
+              "name": "Industrial Path Start",
+              "tip_5lang": {
+                "de": "Auf Schattenseiten der Fabriken kann sich oft Reif halten.",
+                "hu": "A gyárak árnyékos oldalán gyakran megmaradhat a dér.",
+                "ro": "Pe părțile umbrite ale fabricilor se poate menține chiciura.",
+                "en": "Frost often lingers on the shaded sides of the factories."
+              }
+            },
+            {
+              "name": "Zellweger Park",
+              "tip_5lang": {
+                "de": "Schöne Fotomotive von gefrorenen Teichen und Skulpturen.",
+                "hu": "Szép fotótémák a befagyott tavakról és szobrokról.",
+                "ro": "Motive fotografice frumoase cu iazuri înghețate și sculpturi.",
+                "en": "Beautiful photo opportunities of frozen ponds and sculptures."
+              }
+            },
+            {
+              "name": "Greifensee Shore",
+              "tip_5lang": {
+                "de": "Starker Wind am See kann die gefühlte Temperatur stark senken.",
+                "hu": "A tónál fújó erős szél jelentősen csökkentheti a hőérzetet.",
+                "ro": "Vântul puternic de la lac poate scădea mult temperatura resimțită.",
+                "en": "Strong winds at the lake can significantly lower the perceived temperature."
+              }
+            },
+            {
+              "name": "Uster City Park",
+              "tip_5lang": {
+                "de": "Ab 16:30 Uhr sinken die Temperaturen meist rapide.",
+                "hu": "16:30 után a hőmérséklet általában gyorsan csökken.",
+                "ro": "După ora 16:30, temperaturile scad de obicei rapid.",
+                "en": "After 4:30 PM, temperatures usually drop rapidly."
+              }
+            },
+            {
+              "name": "Dinner in the Center",
+              "tip_5lang": {
+                "de": "Suchen Sie Lokale mit sicheren Abstellplätzen im Sichtbereich.",
+                "hu": "Keressen olyan helyeket, ahol rálátni a kerékpártárolókra.",
+                "ro": "Căutați localuri cu locuri de parcare sigure în câmpul vizual.",
+                "en": "Look for venues with secure parking within your sight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Unterhelmmütze.",
+              "Prüfen Sie Ihre Fahrradbeleuchtung; es wird früh dunkel.",
+              "Vermeiden Sie hektische Lenkbewegungen bei Bodenfrost.",
+              "Ein Thermosgetränk hält den Körper von innen warm."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sisak alá való sapkát.",
+              "Ellenőrizze a világítást; korán sötétedik.",
+              "Kerülje a hirtelen kormánymozdulatokat talajmenti fagy esetén.",
+              "A termoszos ital belülről tartja melegen a testet."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Verificați luminile bicicletei; se întunecă devreme.",
+              "Evitați mișcările bruște de direcție în caz de îngheț la sol.",
+              "O băutură caldă în termos menține corpul cald din interior."
+            ],
+            "en": [
+              "Wear windproof gloves and a thermal cap under your helmet.",
+              "Check your bike lights; it gets dark early.",
+              "Avoid sudden steering movements when there is ground frost.",
+              "A thermos drink keeps the body warm from the inside."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1056,6 +1420,188 @@
           "Fuel is more expensive on the motorway than in town.",
           "Respect the speed limits, which are strictly enforced in Switzerland."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Uster auch bei starkem Regen komfortabel erkunden. Der Tag startet am Greifensee, wo man die Aussicht vom Wagen aus geniesst. Danach geht es zum überdachten Parken im Zentrum, um das Schloss und die Reformierte Kirche trocken zu Fuss zu erreichen. Der Nachmittag wird entspannt im Zellweger Park und in der Lok-Remise verbracht, bevor es trocken zurück zum Parkplatz geht.",
+            "hu": "Autóval Uster még heves esőzésben is kényelmesen felfedezhető. A nap a Greifenseenél indul, ahol a kilátás az autóból is élvezhető. Ezután a központi fedett parkolóba hajtunk, hogy a várat és a templomot szárazon érjük el. A délutánt a Zellweger Parkban és a Lok-Remise-ben töltjük, mielőtt száraz lábbal visszatérnénk a parkolóhoz.",
+            "ro": "Cu mașina, Uster poate fi explorat confortabil chiar și în ploaie torențială. Ziua începe la Greifensee, unde vă puteți bucura de priveliște din vehicul. Apoi, mergeți spre parcarea acoperită din centru pentru a ajunge pe jos la castel și la Biserica Reformată. După-amiaza este petrecută relaxat în parcul Zellweger și la Lok-Remise, înainte de a vă întoarce la parcare.",
+            "en": "Exploring Uster by car is the most comfortable option on a rainy day. Start at Greifensee, where you can admire the view from your vehicle. Then, head to covered parking in the center to visit the Castle and Reformed Church on foot. Spend your afternoon at Zellweger Park and Lok-Remise, knowing your car is waiting nearby to keep you dry between stops."
+          },
+          "stops": [
+            {
+              "name": "Greifensee Parking",
+              "tip_5lang": {
+                "de": "Parkplatz bietet direkte Sicht auf den See, falls es zu fest regnet.",
+                "hu": "A parkolóból közvetlen rálátás nyílik a tóra, ha túl erősen esne.",
+                "ro": "Parcarea oferă vedere directă la lac în caz că plouă prea tare.",
+                "en": "Parking offers a direct view of the lake if it rains too hard."
+              }
+            },
+            {
+              "name": "Uster Center Parking",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser mit direktem Zugang zu den Einkaufsstrassen.",
+                "hu": "Használja a bevásárlóutcákhoz közvetlen hozzáférést biztosító parkolóházakat.",
+                "ro": "Folosiți parcările etajate cu acces direct la străzile comerciale.",
+                "en": "Use multi-storey car parks with direct access to the shopping streets."
+              }
+            },
+            {
+              "name": "Uster Castle",
+              "tip_5lang": {
+                "de": "Kurzer Fussweg vom Parkplatz; Schirm im Auto bereitlegen.",
+                "hu": "Rövid séta a parkolótól; készítse elő az esernyőt az autóban.",
+                "ro": "Scurtă plimbare de la parcare; pregătiți umbrela în mașină.",
+                "en": "Short walk from the parking lot; have an umbrella ready in the car."
+              }
+            },
+            {
+              "name": "Reformed Church Uster",
+              "tip_5lang": {
+                "de": "Blaue Zone Parkplätze oft direkt vor der Kirche verfügbar.",
+                "hu": "Kék zónás parkolóhelyek gyakran közvetlenül a templom előtt elérhetők.",
+                "ro": "Locuri de parcare în zona albastră sunt adesea disponibile chiar în fața bisericii.",
+                "en": "Blue zone parking spaces are often available directly in front of the church."
+              }
+            },
+            {
+              "name": "Zellweger Park Parking",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Regenweg kurz zu halten.",
+                "hu": "Parkoljon közel a bejárathoz, hogy lerövidítse az esőben megtett utat.",
+                "ro": "Parcați aproape de intrare pentru a scurta drumul prin ploaie.",
+                "en": "Park near the entrance to keep the walk in the rain short."
+              }
+            },
+            {
+              "name": "Lok-Remise Uster",
+              "tip_5lang": {
+                "de": "Genügend Parkplätze direkt auf dem Areal vorhanden.",
+                "hu": "Közvetlenül a területen elegendő parkolóhely áll rendelkezésre.",
+                "ro": "Locuri de parcare suficiente disponibile direct în incintă.",
+                "en": "Sufficient parking spaces available directly on the premises."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Pfützen in den tiefergelegenen Parkplätzen.",
+              "Die Parkhäuser im Zentrum bieten trockenen Zugang zu Geschäften.",
+              "Verwenden Sie bei starkem Regen die Nebelschlussleuchte bei Bedarf.",
+              "Halten Sie ein Handtuch im Auto bereit, um sich abzutrocknen."
+            ],
+            "hu": [
+              "Ügyeljen a tócsákra az alacsonyabban fekvő parkolókban.",
+              "A központi parkolóházak száraz hozzáférést biztosítanak az üzletekhez.",
+              "Heves esőzésben szükség esetén használja a hátsó ködlámpát.",
+              "Tartson egy törölközőt az autóban a száradáshoz."
+            ],
+            "ro": [
+              "Atenție la bălțile din parcările joase.",
+              "Parcările etajate din centru oferă acces uscat la magazine.",
+              "În caz de ploaie torențială, folosiți lumina de ceață spate dacă e necesar.",
+              "Țineți un prosop în mașină pentru a vă usca."
+            ],
+            "en": [
+              "Watch out for puddles in lower-lying parking areas.",
+              "City center parking garages offer dry access to shops.",
+              "In heavy rain, use rear fog lights if visibility is poor.",
+              "Keep a towel in the car to dry off between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Uster im Winterglanz lässt sich ideal mit dem Auto erfahren. Morgens bietet der Greifensee eine friedliche Eislandschaft, die man bequem vom warmen Fahrzeug aus sieht. Im Stadtzentrum parkt man für den Besuch von Schloss und Kirche, wobei die kurzen Wege bei Kälte ideal sind. Der Nachmittag im Zellweger Park endet mit dem Sonnenuntergang, bevor die Lok-Remise einen warmen Abschluss bietet.",
+            "hu": "A téli fényben pompázó Uster autóval fedezhető fel a legjobban. Reggel a Greifensee békés jeges tájat kínál, melyet a meleg járműből is megcsodálhatunk. A városközpontban parkolunk a vár és a templom meglátogatásához, a rövid távok ideálisak a hidegben. A Zellweger Parkban töltött délután a naplementével zárul, mielőtt a Lok-Remise-ben melegednénk meg.",
+            "ro": "Uster în strălucirea iernii poate fi experimentat ideal cu mașina. Dimineața, Greifensee oferă un peisaj de gheață liniștit, vizibil confortabil din vehiculul cald. În centrul orașului, parcați pentru a vizita castelul și biserica, distanțele scurte fiind ideale pe timp de frig. După-amiaza în parcul Zellweger se încheie cu apusul soarelui, înainte ca Lok-Remise să ofere un final călduros.",
+            "en": "Experience the winter charm of Uster from the comfort of your car. Start at the Greifensee, taking in the frozen landscape from your heated seat. Park in the center for quick walks to the Castle and Church, minimizing time in the biting cold. Enjoy the sunset at Zellweger Park before driving to the Lok-Remise for a cozy indoor conclusion to your winter day."
+          },
+          "stops": [
+            {
+              "name": "Greifensee Parking",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Einfahrt; der Parkplatz wird oft spät geräumt.",
+                "hu": "Vigyázat a behajtáskor; a parkolót gyakran későn takarítják le.",
+                "ro": "Atenție la intrare; parcarea este adesea curățată târziu.",
+                "en": "Caution when entering; the parking lot is often cleared late."
+              }
+            },
+            {
+              "name": "Uster Center Parking",
+              "tip_5lang": {
+                "de": "Parkhäuser sind frostfrei und verhindern das Einfrieren der Scheiben.",
+                "hu": "A parkolóházak fagymentesek, így nem fagynak be a szélvédők.",
+                "ro": "Parcările etajate sunt ferite de îngheț, prevenind înghețarea geamurilor.",
+                "en": "Multi-storey car parks are frost-free, preventing windows from freezing."
+              }
+            },
+            {
+              "name": "Uster Castle",
+              "tip_5lang": {
+                "de": "Tragen Sie griffige Schuhe für den Weg vom Parkplatz hoch zum Schloss.",
+                "hu": "Viseljen tapadós talpú cipőt a parkolótól a várig vezető úton.",
+                "ro": "Purtați încălțăminte antiderapantă pentru drumul de la parcare la castel.",
+                "en": "Wear shoes with good grip for the walk from the parking lot to the castle."
+              }
+            },
+            {
+              "name": "Reformed Church Uster",
+              "tip_5lang": {
+                "de": "Parkplätze in der Nähe sind oft schneefrei geräumt.",
+                "hu": "A közeli parkolóhelyeket gyakran hómentesítik.",
+                "ro": "Locurile de parcare din apropiere sunt adesea curățate de zăpadă.",
+                "en": "Parking spaces nearby are often cleared of snow."
+              }
+            },
+            {
+              "name": "Zellweger Park Parking",
+              "tip_5lang": {
+                "de": "Bei Dämmerung auf Fussgänger im Parkbereich achten.",
+                "hu": "Szürkületkor ügyeljen a gyalogosokra a parkoló környékén.",
+                "ro": "Atenție la pietoni în zona parcării la lăsarea serii.",
+                "en": "Watch out for pedestrians in the parking area at dusk."
+              }
+            },
+            {
+              "name": "Lok-Remise Uster",
+              "tip_5lang": {
+                "de": "Warmlaufen lassen des Autos auf dem Areal ist untersagt.",
+                "hu": "Az autó álló helyzetben való melegítése a területen tilos.",
+                "ro": "Încălzirea motorului în staționare este interzisă în incintă.",
+                "en": "Warming up your car while stationary is prohibited on the premises."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und ein Eiskratzer sind absolut notwendig.",
+              "Vermeiden Sie das Abstellen des Wagens unter schneereichen Bäumen.",
+              "Frostschutzmittel in der Scheibenwaschanlage nicht vergessen.",
+              "Beachten Sie, dass Nebenstrassen oft glatter sind als Hauptstrassen."
+            ],
+            "hu": [
+              "Téli gumi és jégkaparó mindenképpen szükséges.",
+              "Kerülje az autó parkolását havas ágú fák alatt.",
+              "Ne felejtse el a fagyállót az ablakmosó folyadékba.",
+              "Vegye figyelembe, hogy a mellékutak gyakran csúszósabbak a főutaknál."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și o răzuitoare de gheață sunt absolut necesare.",
+              "Evitați parcarea mașinii sub copaci încărcați cu zăpadă.",
+              "Nu uitați de antigel în lichidul de spălare a parbrizului.",
+              "Rețineți că străzile secundare sunt adesea mai alunecoase decât cele principale."
+            ],
+            "en": [
+              "Winter tires and an ice scraper are absolutely necessary.",
+              "Avoid parking the car under snow-laden trees.",
+              "Don't forget antifreeze in your windshield washer fluid.",
+              "Note that side streets are often icier than main roads."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1406,6 +1952,188 @@
           "Most buses and trains are punctual, so plan accordingly.",
           "Look for the 'stop request' button on the bus."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem öffentlichen Verkehr bleibt man in Uster auch bei Regen meist im Trockenen. Vom Bahnhof Uster erreicht man die Reformierte Kirche und das Schloss bequem mit kurzen Busfahrten oder unter dem Schirm. Der Zellweger Park ist durch nahegelegene Haltestellen gut erschlossen. Den Nachmittag und Abend verbringt man entspannt in der Lok-Remise, die nur wenige Schritte von den Transitknoten entfernt ist.",
+            "hu": "A tömegközlekedéssel Usterben esőben is többnyire szárazon maradhatunk. Az usteri pályaudvartól rövid buszos utazással vagy esernyővel kényelmesen elérhető a templom és a vár. A Zellweger Parkot a közeli megállók teszik jól megközelíthetővé. A délutánt és az estét a Lok-Remise-ben töltjük, amely mindössze néhány lépésre található a közlekedési csomópontoktól.",
+            "ro": "Cu transportul public, rămâneți în mare parte uscat în Uster chiar și pe ploaie. De la gara Uster se poate ajunge la Biserica Reformată și la castel prin scurte călătorii cu autobuzul sau sub umbrelă. Parcul Zellweger este bine deservit de stațiile din apropiere. După-amiaza și seara sunt petrecute relaxat la Lok-Remise, aflat la doar câțiva pași de nodurile de tranzit.",
+            "en": "Public transit keeps you mostly dry while exploring Uster in the rain. From Uster Station, reach the Church and Castle via quick bus rides or a short umbrella walk. Zellweger Park is easily accessible thanks to nearby stops. Spend your afternoon and evening at Lok-Remise, which is just a few steps away from major transit links, ensuring a dry journey home."
+          },
+          "stops": [
+            {
+              "name": "Uster Train Station",
+              "tip_5lang": {
+                "de": "Überdachte Bahnsteige bieten guten Schutz beim Warten.",
+                "hu": "A fedett peronok jó védelmet nyújtanak várakozás közben.",
+                "ro": "Peroanele acoperite oferă protecție bună în timpul așteptării.",
+                "en": "Covered platforms offer good protection while waiting."
+              }
+            },
+            {
+              "name": "Reformed Church Uster",
+              "tip_5lang": {
+                "de": "Bushaltestelle befindet sich fast direkt vor dem Kircheneingang.",
+                "hu": "A buszmegálló szinte közvetlenül a templom bejárata előtt van.",
+                "ro": "Stația de autobuz se află aproape direct în fața intrării în biserică.",
+                "en": "The bus stop is located almost directly in front of the church entrance."
+              }
+            },
+            {
+              "name": "Uster Castle",
+              "tip_5lang": {
+                "de": "Kurzer, teils überdachter Weg von der Bushaltestelle zum Schloss.",
+                "hu": "Rövid, részben fedett út a buszmegállótól a várig.",
+                "ro": "Drum scurt, parțial acoperit, de la stația de autobuz la castel.",
+                "en": "Short, partially covered walk from the bus stop to the castle."
+              }
+            },
+            {
+              "name": "Zellweger Park Bus Stop",
+              "tip_5lang": {
+                "de": "Wartehäuschen bietet Schutz bei starkem Regen.",
+                "hu": "A buszváró védelmet nyújt heves esőzés esetén.",
+                "ro": "Adăpostul din stație oferă protecție în caz de ploaie torențială.",
+                "en": "The bus shelter provides protection during heavy rain."
+              }
+            },
+            {
+              "name": "Lok-Remise Uster",
+              "tip_5lang": {
+                "de": "Direkt an Transitwegen gelegen, ideal bei schlechtem Wetter.",
+                "hu": "Közvetlenül a közlekedési útvonalak mentén, ideális rossz időben.",
+                "ro": "Situat direct pe rutele de tranzit, ideal în caz de vreme rea.",
+                "en": "Located directly on transit routes, ideal in bad weather."
+              }
+            },
+            {
+              "name": "Stadtpark Bus Stop",
+              "tip_5lang": {
+                "de": "Busse verkehren hier in regelmässigen, dichten Abständen.",
+                "hu": "A buszok itt rendszeres, sűrű időközönként közlekednek.",
+                "ro": "Autobuzele circulă aici la intervale regulate și dese.",
+                "en": "Buses run here at regular, frequent intervals."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die SBB-App für Echtzeit-Infos bei Regenverzögerungen.",
+              "Das Tagesticket der Zone 121 deckt alle Fahrten ab.",
+              "Grössere Bahnhöfe haben Kioske für den Schirmkauf.",
+              "In Bussen ist es bei Regen oft sehr voll; halten Sie Abstand."
+            ],
+            "hu": [
+              "Használja az SBB alkalmazást az eső miatti késések figyelésére.",
+              "A 121-es zóna napijegye minden utazást fedez.",
+              "A nagyobb pályaudvarokon esernyő is vásárolható a kioszkokban.",
+              "Esőben a buszok gyakran zsúfoltak; tartson távolságot."
+            ],
+            "ro": [
+              "Folosiți aplicația SBB pentru informații în timp real despre întârzieri.",
+              "Biletul de zi pentru zona 121 acoperă toate călătoriile.",
+              "Gările mai mari au chioșcuri de unde puteți cumpăra umbrele.",
+              "Autobuzele sunt adesea aglomerate pe ploaie; păstrați distanța."
+            ],
+            "en": [
+              "Use the SBB app for real-time info on rain-related delays.",
+              "The zone 121 day pass covers all your trips.",
+              "Larger stations have kiosks where you can buy an umbrella.",
+              "Buses are often crowded during rain; maintain personal space."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Dank beheizter Busse und Züge ist Uster im Winter ein angenehmes Ziel. Der Bahnhof Uster ist der ideale Startpunkt für Ausflüge zum Schloss und zur Kirche, wobei man die Wartezeiten im Warmen verbringt. Der Zellweger Park bietet im Winterlicht eine ruhige Kulisse, die man nach einer kurzen Busfahrt erreicht. Den Tag beendet man gemütlich in der Lok-Remise, bevor die S-Bahn einen zurückbringt.",
+            "hu": "A fűtött buszoknak és vonatoknak köszönhetően Uster télen is kellemes úticél. Az usteri pályaudvar ideális kiindulópont a várhoz és a templomhoz, a várakozási időt pedig a melegben tölthetjük. A Zellweger Park a téli fényben nyugodt hátteret kínál, melyet rövid buszozással érhetünk el. A napot a Lok-Remise-ben zárjuk, mielőtt az S-Bahn visszavinne minket.",
+            "ro": "Datorită autobuzelor și trenurilor încălzite, Uster este o destinație plăcută iarna. Gara Uster este punctul de plecare ideal pentru excursii la castel și biserică, timpul de așteptare fiind petrecut la căldură. Parcul Zellweger oferă un cadru liniștit în lumina iernii, accesibil după o scurtă plimbare cu autobuzul. Ziua se încheie la Lok-Remise, înainte de a lua trenul înapoi.",
+            "en": "Thanks to heated buses and trains, Uster is a pleasant winter destination. Uster Station is the perfect starting point for visits to the Castle and Church, allowing you to wait for connections in the warmth. Zellweger Park offers a serene backdrop in the winter light, just a short bus ride away. Conclude your day at the Lok-Remise before taking the S-Bahn back home."
+          },
+          "stops": [
+            {
+              "name": "Uster Train Station",
+              "tip_5lang": {
+                "de": "Wartesäle sind beheizt und bieten Schutz vor der Kälte.",
+                "hu": "A várótermek fűtöttek és védelmet nyújtanak a hideg ellen.",
+                "ro": "Sălile de așteptare sunt încălzite și oferă protecție împotriva frigului.",
+                "en": "Waiting rooms are heated and provide shelter from the cold."
+              }
+            },
+            {
+              "name": "Reformed Church Uster",
+              "tip_5lang": {
+                "de": "Kurze Intervalle der Busse minimieren das Warten im Freien.",
+                "hu": "A buszok sűrű követése minimalizálja a szabadban való várakozást.",
+                "ro": "Intervalele scurte ale autobuzelor minimizează așteptarea în aer liber.",
+                "en": "Short bus intervals minimize waiting outside in the cold."
+              }
+            },
+            {
+              "name": "Uster Castle",
+              "tip_5lang": {
+                "de": "Der Schlossberg-Weg wird meist vorbildlich gesalzen.",
+                "hu": "A várhegyre vezető utat általában példásan sózzák.",
+                "ro": "Drumul spre dealul castelului este de obicei curățat și sărat bine.",
+                "en": "The path to the castle hill is usually well-salted."
+              }
+            },
+            {
+              "name": "Zellweger Park Bus Stop",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf eventuell glatte Bordsteinkanten.",
+                "hu": "Vigyázat leszálláskor az esetlegesen csúszós szegélyköveknél.",
+                "ro": "Atenție la coborâre la bordurile care pot fi alunecoase.",
+                "en": "Caution when getting off the bus onto potentially slippery curbs."
+              }
+            },
+            {
+              "name": "Lok-Remise Uster",
+              "tip_5lang": {
+                "de": "Gute Anbindung an den Nachtverkehr am Wochenende.",
+                "hu": "Jó éjszakai közlekedési kapcsolatok hétvégén.",
+                "ro": "Conexiuni bune cu transportul de noapte în weekend.",
+                "en": "Good connections to night transit on weekends."
+              }
+            },
+            {
+              "name": "Stadtpark Bus Stop",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Beleuchtung der Haltestelle für ein sicheres Gefühl.",
+                "hu": "Használja a megálló világítását a biztonságérzet érdekében.",
+                "ro": "Folosiți iluminarea stației pentru un sentiment de siguranță.",
+                "en": "Utilize the station lighting for a safe feeling after dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei extremem Schneefall leicht abweichen.",
+              "Züge sind meist pünktlicher als Busse bei Glatteis.",
+              "Tragen Sie Kleidung nach dem Zwiebelprinzip (warm draussen, kühl im Bus).",
+              "Die Abfahrtstafeln zeigen Verspätungen in Echtzeit an."
+            ],
+            "hu": [
+              "Extrém hóesés esetén a menetrendek kismértékben eltérhetnek.",
+              "Jegesedéskor a vonatok általában pontosabbak a buszoknál.",
+              "Öltözködjön rétegesen (meleg kint, hűvös a buszon).",
+              "Az indulási táblák valós időben mutatják a késéseket."
+            ],
+            "ro": [
+              "Orarele pot varia ușor în caz de ninsoare extremă.",
+              "Trenurile sunt de obicei mai punctuale decât autobuzele pe polei.",
+              "Purtați haine în straturi (cald afară, răcoare în autobuz).",
+              "Panourile de plecare afișează întârzierile în timp real."
+            ],
+            "en": [
+              "Schedules may deviate slightly during extreme snowfall.",
+              "Trains are usually more punctual than buses during icy conditions.",
+              "Dress in layers (warm for outside, cool for the bus).",
+              "Departure boards show delays in real-time."
+            ]
+          }
+        }
       }
     }
   }

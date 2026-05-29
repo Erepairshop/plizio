@@ -356,6 +356,196 @@
           "Look out for Banksy's street art around the city.",
           "Many museums have free entry, but donations are appreciated."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der Kathedrale von Bristol, einem perfekten Zufluchtsort vor dem britischen Regen. Die gotischen Gewölbe bieten Stille und Trockenheit. Mittags führt ein kurzer, nasser Spaziergang zum Museum, wo Sie stundenlang Kunst und Archäologie erkunden können, während es draußen stürmt.\n\nNachmittags geht es zum Harbourside; die modernen Gebäude bieten viele Arkaden und überdachte Cafés. Besuchen Sie die SS Great Britain, deren Unterdeck absolut wasserdicht ist. Den Abend lassen Sie in St Mary Redcliffe ausklingen, einer der prächtigsten Kirchen Englands, deren monumentale Mauern den Regen vergessen lassen.",
+            "hu": "Kezdje a napot a bristoli katedrálisban, amely tökéletes menedék a brit eső elől. A gótikus boltozatok csendet és szárazságot nyújtanak. Délben egy rövid, ázós séta vezet a múzeumhoz, ahol órákon át böngészheti a művészeti és régészeti kincseket, amíg kint esik.\n\nDélután a kikötő felé vegye az irányt; a modern épületek sok árkádot és fedett kávézót kínálnak. Látogassa meg az SS Great Britain hajót, amelynek alsó fedélzete teljesen vízhatlan. Az estét a St Mary Redcliffe templomban zárja, amelynek monumentális falai között hamar elfelejti a kinti zord időjárást.",
+            "ro": "Începeți ziua la Catedrala din Bristol, un refugiu perfect împotriva ploii britanice. Bolțile gotice oferă liniște și adăpost. La prânz, o scurtă plimbare prin ploaie vă duce la muzeu, unde puteți explora ore în șir colecțiile de artă și arheologie în timp ce afară plouă.\n\nDupă-amiaza, îndreptați-vă spre port; clădirile moderne oferă multe arcade și cafenele acoperite. Vizitați SS Great Britain, al cărui punte inferioară este complet protejată. Încheiați seara la St Mary Redcliffe, una dintre cele mai frumoase biserici, unde zidurile masive vă fac să uitați de vremea de afară.",
+            "en": "Start the day at Bristol Cathedral, a perfect sanctuary from the British rain. The Gothic vaults offer silence and shelter. At midday, a short wet walk leads to the museum, where you can browse art and archaeology for hours while it pours outside.\n\nIn the afternoon, head to the Harbourside; modern buildings offer plenty of arcades and covered cafes. Visit the SS Great Britain, where the lower deck is completely waterproof. End the evening at St Mary Redcliffe, one of England's grandest churches, whose monumental walls make you forget the weather."
+          },
+          "stops": [
+            {
+              "name": "Bristol Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kreuzgang als trockenen Durchgang zum Café.",
+                "hu": "Használja a kolostorfolyosót száraz átjáróként a kávézó felé.",
+                "ro": "Folosiți claustrul ca trecere uscată spre cafenea.",
+                "en": "Use the cloisters as a dry walkway to the cafe."
+              }
+            },
+            {
+              "name": "Brandon Hill & Cabot Tower",
+              "tip_5lang": {
+                "de": "Die Turmtreppe ist eng und bei Nässe rutschig; Vorsicht beim Aufstieg.",
+                "hu": "A torony lépcsője szűk és esőben csúszós; óvatosan a felmenetellel.",
+                "ro": "Scările turnului sunt înguste și alunecoase pe ploaie; atenție la urcare.",
+                "en": "The tower stairs are narrow and slippery when wet; be careful climbing."
+              }
+            },
+            {
+              "name": "Bristol Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Kostenlose Garderobe für nasse Mäntel und Regenschirme vorhanden.",
+                "hu": "Ingyenes ruhatár érhető el a vizes kabátoknak és esernyőknek.",
+                "ro": "Garderobă gratuită disponibilă pentru haine ude și umbrele.",
+                "en": "Free cloakroom available for wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Bristol Harbourside",
+              "tip_5lang": {
+                "de": "Die M Shed Arkaden bieten Schutz beim Beobachten der Kräne.",
+                "hu": "Az M Shed árkádjai védelmet nyújtanak a daruk megfigyelése közben.",
+                "ro": "Arcadele M Shed oferă protecție în timp ce observați macaralele.",
+                "en": "The M Shed arcades provide shelter while watching the cranes."
+              }
+            },
+            {
+              "name": "SS Great Britain",
+              "tip_5lang": {
+                "de": "Das Glasdach über dem Trockendock hält Sie beim Besichtigen trocken.",
+                "hu": "A szárazdokk feletti üvegtető megvédi az esőtől nézelődés közben.",
+                "ro": "Acoperișul de sticlă de deasupra docului vă menține uscat.",
+                "en": "The glass roof over the dry dock keeps you dry while exploring."
+              }
+            },
+            {
+              "name": "St Mary Redcliffe",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Deckenbossen im trockenen Kirchenschiff.",
+                "hu": "Csodálja meg a mennyezeti díszeket a száraz templomhajóban.",
+                "ro": "Admirați decorațiunile tavanului în nava centrală uscată.",
+                "en": "Admire the ceiling bosses in the dry nave of the church."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich in der Altstadt Pfützen bilden.",
+              "Die Harbourside-Fähre ist überdacht und eine trockene Abkürzung.",
+              "In Bristol regnet es oft nur kurz, aber heftig – Regenschirm einpacken.",
+              "Viele Cafés in der Park Street bieten gemütliche Plätze am Fenster.",
+              "Nutzen Sie die Unterführungen am Centre, um Straßen trocken zu queren."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óvárosban sok a tócsa.",
+              "A kikötői komp fedett, így száraz rövidítésként is használható.",
+              "Bristolban gyakoriak a rövid, de heves záporok – legyen kéznél esernyő.",
+              "A Park Street kávézói remek helyek az eső kivárására.",
+              "A központ aluljárói segítenek szárazon átjutni a nagyobb csomópontokon."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, se formează bălți în centrul vechi.",
+              "Feribotul portuar este acoperit și reprezintă o scurtătură uscată.",
+              "În Bristol plouă des scurt și intens – luați o umbrelă.",
+              "Cafenelele de pe Park Street oferă locuri confortabile la fereastră.",
+              "Folosiți pasajele subterane din centru pentru a traversa străzile la uscat."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles form quickly in the Old City.",
+              "The harbor ferry is covered and serves as a dry shortcut.",
+              "Bristol often has short but heavy showers – keep an umbrella handy.",
+              "Park Street cafes offer cozy spots by the window to wait out the rain.",
+              "Use the underpasses at the Centre to cross roads while staying dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in der Kathedrale ist kühl, aber das Kerzenlicht sorgt für Wärme. Brandon Hill bietet klare Fernsichten, doch der Wind am Cabot Tower beißt – ziehen Sie sich warm an. Mittags lockt das Museum mit beheizten Galerien und heißem Tee im Café.\n\nNachmittags am Hafen glitzern die Lichter im dunklen Wasser. Da die Sonne gegen 16:30 Uhr sinkt, wirkt die SS Great Britain im Flutlicht besonders mystisch. Den Tag beenden Sie in der festlich beleuchteten St Mary Redcliffe Kirche, wo der massive Stein die Kälte der Nacht aussperrt.",
+            "hu": "A téli reggel a katedrálisban hűvös, de a gyertyafény melegséget áraszt. A Brandon Hill tiszta kilátást nyújt, de a szél a Cabot-toronynál metsző – öltözzön rétegesen. Délben a múzeum fűtött galériái és a kávézó forró teája hívogat.\n\nDélután a kikötőben a fények csillognak a sötét vízen. Mivel a nap 16:30 körül nyugszik, az SS Great Britain reflektorfényben különösen misztikus. A napot a díszkivilágításban úszó St Mary Redcliffe templomban zárja, ahol a vastag falak kirekesztik az éjszakai fagyot.",
+            "ro": "Dimineața de iarnă la catedrală este răcoroasă, dar lumina lumânărilor aduce căldură. Brandon Hill oferă vederi clare, dar vântul la Cabot Tower este tăios. La prânz, muzeul vă așteaptă cu galerii încălzite și ceai fierbinte la cafenea.\n\nDupă-amiaza în port, luminile sclipesc în apa întunecată. Deoarece soarele apune în jurul orei 16:30, SS Great Britain arată mistic sub reflectoare. Încheiați ziua la biserica St Mary Redcliffe, iluminată festiv, unde piatra masivă oprește frigul nopții.",
+            "en": "A winter morning at the cathedral is chilly, but candlelight provides warmth. Brandon Hill offers clear views, yet the wind at Cabot Tower is biting – dress in layers. At midday, the museum's heated galleries and hot tea in the cafe are welcoming.\n\nIn the afternoon at the harbor, lights shimmer in the dark water. Since the sun sets around 4:30 PM, the SS Great Britain looks especially mystical under floodlights. End the day at the festively lit St Mary Redcliffe, where the massive stone keeps the night's frost at bay."
+          },
+          "stops": [
+            {
+              "name": "Bristol Cathedral",
+              "tip_5lang": {
+                "de": "Achten Sie auf Chorkonzerte in der Adventszeit.",
+                "hu": "Figyelje a kóruskoncerteket az adventi időszakban.",
+                "ro": "Căutați concertele de colinde în perioada Adventului.",
+                "en": "Check for choir concerts during the Advent season."
+              }
+            },
+            {
+              "name": "Brandon Hill & Cabot Tower",
+              "tip_5lang": {
+                "de": "Oben auf dem Turm ist der Windchill-Effekt im Winter extrem.",
+                "hu": "A torony tetején a szélvihar télen rendkívül hidegnek hat.",
+                "ro": "În vârful turnului, vântul se simte mult mai rece iarna.",
+                "en": "At the top of the tower, the wind chill is extreme in winter."
+              }
+            },
+            {
+              "name": "Bristol Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Die ägyptische Abteilung ist meist der wärmste Ort im Gebäude.",
+                "hu": "Az egyiptomi részleg általában az épület legmelegebb pontja.",
+                "ro": "Secțiunea egipteană este de obicei cel mai cald loc din clădire.",
+                "en": "The Egyptian section is usually the warmest place in the building."
+              }
+            },
+            {
+              "name": "Bristol Harbourside",
+              "tip_5lang": {
+                "de": "Heiße Schokolade am Wasser wärmt nach dem Spaziergang.",
+                "hu": "Egy forró csokoládé a parton jól átmelegít a séta után.",
+                "ro": "O ciocolată caldă lângă apă vă va încălzi după plimbare.",
+                "en": "A hot chocolate by the water warms you up after the walk."
+              }
+            },
+            {
+              "name": "SS Great Britain",
+              "tip_5lang": {
+                "de": "Im Inneren des Schiffes ist es dank Heizung angenehm warm.",
+                "hu": "A hajó belsejében a fűtésnek köszönhetően kellemes a hőmérséklet.",
+                "ro": "În interiorul navei este plăcut și cald datorită încălzirii.",
+                "en": "Inside the ship, it is comfortably warm thanks to the heating."
+              }
+            },
+            {
+              "name": "St Mary Redcliffe",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche zur blauen Stunde für tolle Fotos.",
+                "hu": "Látogassa meg a templomot a kék órában a legjobb fotókért.",
+                "ro": "Vizitați biserica la ora albastră pentru fotografii superbe.",
+                "en": "Visit the church during the blue hour for great photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht früh unter (ca. 16:15 Uhr), planen Sie Außenstopps davor.",
+              "Handschuhe und Mütze sind Pflicht für die Aussichtspunkte.",
+              "In der Vorweihnachtszeit gibt es oft Märkte im Stadtzentrum.",
+              "Kirchen können im Winter sehr zugig sein, behalten Sie die Jacke an.",
+              "Nutzen Sie die beheizten Busse für längere Strecken zwischen POIs."
+            ],
+            "hu": [
+              "A nap korán nyugszik (16:15 körül), a kültéri látnivalókat tervezze elé.",
+              "Kesztyű és sapka kötelező a kilátópontoknál a szél miatt.",
+              "Karácsony előtt gyakran vannak vásárok a városközpontban.",
+              "A templomok télen huzatosak lehetnek, ne vegye le a kabátját.",
+              "Használja a fűtött buszokat a távolabbi pontok közötti közlekedésre."
+            ],
+            "ro": [
+              "Soarele apune devreme (cca. 16:15), planificați vizitele externe înainte.",
+              "Mănușile și căciula sunt obligatorii pentru punctele de belvedere.",
+              "În perioada Crăciunului există adesea târguri în centrul orașului.",
+              "Bisericile pot fi foarte răcoroase iarna, păstrați haina pe dvs.",
+              "Folosiți autobuzele încălzite pentru distanțe mai mari între obiective."
+            ],
+            "en": [
+              "Sunset is early (around 4:15 PM), so plan outdoor stops before then.",
+              "Gloves and a hat are essential for the windy viewpoints.",
+              "Christmas markets often take place in the city center in December.",
+              "Churches can be drafty in winter; it’s best to keep your coat on.",
+              "Use heated buses for longer transit between POIs to stay warm."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +896,196 @@
           "Use the designated cycle paths, especially along the river and towards Clifton.",
           "Be aware of the one-way systems in the city centre."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag in Bristol beginnt am Hafen, wo die Wege meist asphaltiert und gut befahrbar sind. Das spritzende Wasser gehört dazu, wenn Sie zur SS Great Britain radeln. Nach einer langen Pause im Trockendock geht es hinauf zur Suspension Bridge – Vorsicht, die Metallfugen der Brücke können extrem rutschig sein.\n\nMittags führt der Weg über Brandon Hill zurück; die Abfahrten erfordern gute Bremsen bei Nässe. Besuchen Sie die Kathedrale, um sich aufzuwärmen und die Kleidung zu trocknen. Der Tag endet an der St Mary Redcliffe, die Sie über die flachen Wege entlang des Avon schnell erreichen.",
+            "hu": "Egy esős bringás nap Bristolban a kikötőben kezdődik, ahol az utak aszfaltozottak és jól járhatóak. A felcsapódó víz a kaland része az SS Great Britain felé tekerve. A szárazdokkban tartott pihenő után irány a Függőhíd – vigyázat, a híd fémszerkezete nagyon csúszós lehet.\n\nDélben a Brandon Hillen át vezet az út vissza; a lejtők jó fékeket igényelnek a vizes úton. Látogasson el a katedrálisba, hogy felmelegedjen és megszárítsa ruháit. A nap a St Mary Redcliffe-nél ér véget, amelyet az Avon menti sík utakon gyorsan elérhet.",
+            "ro": "O zi ploioasă cu bicicleta în Bristol începe în port, unde pistele sunt în mare parte asfaltate. Apa care stropește face parte din experiență spre SS Great Britain. După o pauză lungă la doc, urcați spre Podul Suspendat – atenție, îmbinările metalice pot fi extrem de alunecoase.\n\nLa prânz, drumul trece peste Brandon Hill; coborârile necesită frâne bune pe carosabil ud. Vizitați catedrala pentru a vă încălzi și a vă usca hainele. Ziua se încheie la St Mary Redcliffe, unde ajungeți rapid pe pistele plate de-a lungul râului Avon.",
+            "en": "A rainy cycling day in Bristol starts at the harbor, where paths are mostly paved and easy to ride. Splashing water is part of the fun as you cycle to SS Great Britain. After a break at the dry dock, climb to the Suspension Bridge – be careful, as the metal joints can be very slippery.\n\nAt midday, the route goes via Brandon Hill; descents require good brakes in the wet. Visit the cathedral to warm up and dry your gear. The day ends at St Mary Redcliffe, which you can reach quickly via the flat paths along the Avon."
+          },
+          "stops": [
+            {
+              "name": "Bristol Harbourside",
+              "tip_5lang": {
+                "de": "Vorsicht vor den alten Schienen im Boden, sie sind bei Regen rutschig.",
+                "hu": "Vigyázzon a földbe süllyesztett régi sínekkel, esőben nagyon csúsznak.",
+                "ro": "Atenție la șinele vechi din pavaj, sunt alunecoase pe ploaie.",
+                "en": "Watch out for the old rails in the ground; they are slippery when wet."
+              }
+            },
+            {
+              "name": "SS Great Britain",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Fedett kerékpártárolók találhatók a bejárat közelében.",
+                "ro": "Suporturile de biciclete acoperite se află lângă intrare.",
+                "en": "Covered bike racks are located near the entrance."
+              }
+            },
+            {
+              "name": "Clifton Suspension Bridge",
+              "tip_5lang": {
+                "de": "Überqueren Sie die Brücke bei starkem Wind langsam und vorsichtig.",
+                "hu": "Erős szélben lassabban és óvatosabban keljen át a hídon.",
+                "ro": "Traversați podul încet și cu atenție în caz de vânt puternic.",
+                "en": "Cross the bridge slowly and carefully during strong winds."
+              }
+            },
+            {
+              "name": "Brandon Hill & Cabot Tower",
+              "tip_5lang": {
+                "de": "Die steilen Wege im Park können durch nasses Laub rutschig sein.",
+                "hu": "A park meredek ösvényei a vizes levelektől csúszósak lehetnek.",
+                "ro": "Potecile abrupte din parc pot fi alunecoase din cauza frunzelor ude.",
+                "en": "The steep paths in the park can be slippery due to wet leaves."
+              }
+            },
+            {
+              "name": "Bristol Cathedral",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Regenjacke kurz auszuschütteln.",
+                "hu": "Remek hely az esőkabát rövid lerázására és pihenésre.",
+                "ro": "Un loc bun pentru a scutura puțin pelerina de ploaie.",
+                "en": "A good place to shake off your raincoat and rest."
+              }
+            },
+            {
+              "name": "St Mary Redcliffe",
+              "tip_5lang": {
+                "de": "Flache Anfahrt ohne steile Hügel, ideal bei schlechtem Wetter.",
+                "hu": "Lapos odajutás meredek emelkedők nélkül, ideális rossz időben.",
+                "ro": "Acces plat, fără dealuri abrupte, ideal pe vreme rea.",
+                "en": "Flat approach without steep hills, ideal for bad weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Rad sind in Bristol bei Regen unverzichtbar.",
+              "Vermeiden Sie das Bremsen auf den Kopfsteinpflasterabschnitten im Hafen.",
+              "Wasserdichte Handschuhe halten Ihre Hände am Lenker warm.",
+              "Nutzen Sie die Radwege entlang des Avon, um Pfützen auf Straßen zu meiden.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Abfahrt von Clifton Down."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a bristoli esőben a bringán.",
+              "Kerülje a fékezést a kikötő macskaköves szakaszain.",
+              "A vízálló kesztyű melegen tartja a kezét a kormányon.",
+              "Használja az Avon menti bringautakat az utcai tócsák elkerülésére.",
+              "Ellenőrizze a fékeket a Clifton Downról való leereszkedés előtt."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile în Bristol pe ploaie.",
+              "Evitați frânarea pe secțiunile cu piatră cubică din port.",
+              "Mănușile impermeabile vă vor menține mâinile calde pe ghidon.",
+              "Folosiți pistele de pe malul Avonului pentru a evita bălțile de pe străzi.",
+              "Verificați saboții de frână înainte de a coborî de la Clifton Down."
+            ],
+            "en": [
+              "Mudguards are essential for cycling in Bristol's rain.",
+              "Avoid braking on the cobblestone sections in the harbor.",
+              "Waterproof gloves will keep your hands warm on the handlebars.",
+              "Use the cycle paths along the Avon to avoid road puddles.",
+              "Check your brake pads before descending from Clifton Down."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am Wintermorgen radeln Sie durch den Hafen, wo der Frost die Kräne silbrig glänzen lässt. Die Fahrt zur SS Great Britain belebt die Sinne, aber die Kälte zieht schnell durch die Kleidung. Der Aufstieg nach Clifton bringt Sie ins Schwitzen, doch oben auf der Suspension Bridge erwartet Sie ein eisiger Wind vom Severn her.\n\nMittags suchen Sie Schutz im Brandon Hill Park und wärmen sich danach in der Kathedrale auf. Die Wintersonne steht tief und blendet oft beim Radeln durch die Stadt. Der Tag endet an der St Mary Redcliffe, deren gotische Fenster in der frühen Dämmerung warm leuchten, während Sie die letzte Etappe durch die klare Winterluft fahren.",
+            "hu": "A téli reggelen a kikötőben tekerve a zúzmara ezüstössé teszi a darukat. Az út az SS Great Britain felé frissítő, de a hideg hamar átjárja a ruhát. A felfelé menet Cliftonba megizzasztja, de fent a Függőhídon jeges szél várja a Severn felől.\n\nDélben a Brandon Hill parkban kereshet menedéket, majd a katedrálisban melegedhet fel. A téli nap alacsonyan jár és gyakran vakít kerékpározás közben. A nap a St Mary Redcliffe-nél zárul, melynek gótikus ablakai melegen világítanak a korai szürkületben, miközben az utolsó szakaszt teszi meg a friss levegőn.",
+            "ro": "În dimineața de iarnă pedalați prin port, unde gerul face macaralele să strălucească argintiu. Drumul spre SS Great Britain este revigorant, dar frigul pătrunde repede prin haine. Urcarea spre Clifton vă va încălzi, dar pe pod vă așteaptă un vânt înghețat.\n\nLa prânz căutați adăpost în parcul Brandon Hill și apoi vă încălziți în catedrală. Soarele de iarnă este jos și adesea vă orbește în timp ce pedalați prin oraș. Ziua se încheie la St Mary Redcliffe, ale cărei ferestre gotice strălucesc cald în amurgul timpuriu.",
+            "en": "On a winter morning, cycle through the harbor where frost makes the cranes shimmer silver. The ride to SS Great Britain is invigorating, but the cold quickly seeps through your clothes. The climb to Clifton gets your blood pumping, but an icy wind awaits you on the Suspension Bridge.\n\nAt midday, seek shelter in Brandon Hill Park before warming up in the cathedral. The winter sun sits low and often dazzles while cycling through the city. The day ends at St Mary Redcliffe, its Gothic windows glowing warmly in the early twilight as you finish your ride through the crisp air."
+          },
+          "stops": [
+            {
+              "name": "Bristol Harbourside",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Holzdielen der Stege.",
+                "hu": "Vigyázzon a mólók fapadlózatán az esetleges jegesedésre.",
+                "ro": "Atenție la porțiunile înghețate de pe platformele de lemn.",
+                "en": "Watch out for icy patches on the wooden decking of the wharves."
+              }
+            },
+            {
+              "name": "SS Great Britain",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museumsschiff, um sich zwischendurch aufzuwärmen.",
+                "hu": "Látogasson el a múzeumhajó belsejébe, hogy közben felmelegedjen.",
+                "ro": "Vizitați interiorul navei pentru a vă încălzi între timp.",
+                "en": "Visit the ship's interior to warm up during your tour."
+              }
+            },
+            {
+              "name": "Clifton Suspension Bridge",
+              "tip_5lang": {
+                "de": "Der Wind auf der Brücke kann die gefühlte Temperatur stark senken.",
+                "hu": "A szél a hídon jelentősen csökkentheti a hőérzetet.",
+                "ro": "Vântul de pe pod poate scădea mult temperatura resimțită.",
+                "en": "The wind on the bridge can significantly lower the felt temperature."
+              }
+            },
+            {
+              "name": "Brandon Hill & Cabot Tower",
+              "tip_5lang": {
+                "de": "Die Cabot Tower Treppe bleibt im Winter oft sehr kalt.",
+                "hu": "A Cabot-torony lépcsője télen gyakran nagyon hideg marad.",
+                "ro": "Scările turnului Cabot rămân adesea foarte reci iarna.",
+                "en": "The Cabot Tower stairs often remain very cold in winter."
+              }
+            },
+            {
+              "name": "Bristol Cathedral",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um die Hände an einer warmen Tasse Tee zu wärmen.",
+                "hu": "Nyugodt hely, ahol egy csésze forró teával felmelegítheti kezét.",
+                "ro": "Un loc liniștit unde să vă încălziți mâinile cu o cană de ceai.",
+                "en": "A quiet place to warm your hands with a cup of tea."
+              }
+            },
+            {
+              "name": "St Mary Redcliffe",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung ist im Winter besonders stimmungsvoll.",
+                "hu": "Az esti kivilágítás télen különösen hangulatos.",
+                "ro": "Iluminatul de seară este deosebit de atmosferic iarna.",
+                "en": "The evening lighting is particularly atmospheric in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten und winddichte Oberbekleidung.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung bei früher Dämmerung funktioniert.",
+              "Vermeiden Sie schattige Waldwege, dort hält sich Reif länger.",
+              "Warme Socken und Überschuhe verhindern taube Zehen.",
+              "Trinken Sie genug – man merkt den Flüssigkeitsverlust in der Kälte weniger."
+            ],
+            "hu": [
+              "Viseljen több réteget és szélálló felsőruházatot.",
+              "Ellenőrizze, hogy a lámpák jól működnek-e a korai sötétedés miatt.",
+              "Kerülje az árnyékos utakat, ott tovább megmaradhat a zúzmara.",
+              "Meleg zokni és kamásli segít megelőzni a lábujjak lefagyását.",
+              "Igyon eleget – hidegben kevésbé érezni a folyadékveszteséget."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine și o jachetă rezistentă la vânt.",
+              "Asigurați-vă că luminile bicicletei funcționează pentru amurgul timpuriu.",
+              "Evitați zonele umbrite, unde chiciura persistă mai mult timp.",
+              "Șosetele groase și protecțiile de pantofi previn degetele înghețate.",
+              "Hidratați-vă – pierderea de lichide este mai puțin sesizabilă pe frig."
+            ],
+            "en": [
+              "Wear multiple layers and windproof outer clothing.",
+              "Ensure your bike lights are working for the early twilight.",
+              "Avoid shaded paths where frost can linger throughout the day.",
+              "Warm socks and overshoes prevent numb toes.",
+              "Stay hydrated – fluid loss is less noticeable in the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1110,6 +1490,232 @@
           "Download a parking app to make payment easier.",
           "Traffic can be heavy during peak hours, plan your drives outside these times."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag mit dem Auto in Bristol ermöglicht es Ihnen, trocken zwischen den Hügeln zu pendeln. Starten Sie am Clifton Down, wo Sie nahe der Suspension Bridge parken können. Der kurze Weg zur Brücke ist bei Regen verkraftbar. Weiter geht es zum Parkplatz der SS Great Britain, der direkten Zugang zum Schiff bietet, ohne dass Sie lange im Guss stehen müssen.\n\nMittags parken Sie am College Green, direkt im Schatten der Kathedrale. Von hier aus ist es nur ein kurzer Sprung zum Museum, wo Sie den Rest des Nachmittags im Trockenen verbringen können. Das Auto dient als perfekter Rückzugsort, um sich zwischen den Besichtigungen aufzuwärmen und den Regenschirm kurz zu trocknen.",
+            "hu": "Egy esős autós nap Bristolban lehetővé teszi, hogy szárazon közlekedjen a dombok között. Kezdjen a Clifton Downnál, ahol a Függőhíd közelében parkolhat. A rövid út a hídig esőben is vállalható. Folytassa az SS Great Britain parkolójával, ahonnan közvetlen út vezet a hajóhoz, így nem kell sokat áznia.\n\nDélben a College Green parkolóját használja, közvetlenül a katedrális mellett. Innen csak egy ugrás a múzeum, ahol a délután hátralévő részét szárazon töltheti. Az autó tökéletes menedék a látnivalók között, ahol felmelegedhet és megszáríthatja esernyőjét.",
+            "ro": "O zi ploioasă cu mașina în Bristol vă permite să circulați uscat între dealuri. Începeți la Clifton Down, unde puteți parca aproape de pod. Drumul scurt până la pod este suportabil pe ploaie. Continuați spre parcarea SS Great Britain, care oferă acces direct la navă fără să stați mult în ploaie.\n\nLa prânz parcați la College Green, chiar lângă catedrală. De aici este doar o scurtă plimbare până la muzeu, unde vă puteți petrece restul după-amiezii la adăpost. Mașina este refugiul perfect pentru a vă încălzi și a vă usca umbrela între vizite.",
+            "en": "A rainy car day in Bristol allows you to commute dry between the hills. Start at Clifton Down, where you can park near the Suspension Bridge. The short walk to the bridge is manageable even in rain. Continue to the SS Great Britain parking, which offers direct access to the ship without long exposure to the downpour.\n\nAt midday, park at College Green, right in the shadow of the cathedral. From here, it’s just a hop to the museum, where you can spend the rest of the afternoon in the dry. The car serves as a perfect retreat to warm up and dry your umbrella between sightings."
+          },
+          "stops": [
+            {
+              "name": "Parking at Clifton Down",
+              "tip_5lang": {
+                "de": "Nutzen Sie Park-Apps, um das Bezahlen im Regen am Automaten zu vermeiden.",
+                "hu": "Használjon parkolási alkalmazást, hogy ne kelljen az esőben az automatánál fizetni.",
+                "ro": "Folosiți aplicațiile de parcare pentru a evita plata la aparat pe ploaie.",
+                "en": "Use parking apps to avoid paying at the machine in the rain."
+              }
+            },
+            {
+              "name": "Clifton Suspension Bridge",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Brücke kurz vom Auto aus, bevor Sie aussteigen.",
+                "hu": "Élvezze a kilátást a hídra az autóból, mielőtt kiszállna.",
+                "ro": "Admirați podul din mașină înainte de a coborî pe ploaie.",
+                "en": "Enjoy the view of the bridge from your car before stepping out."
+              }
+            },
+            {
+              "name": "Parking at SS Great Britain",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist oft schnell voll; kommen Sie frühzeitig.",
+                "hu": "A parkoló hamar megtelik; érkezzen időben.",
+                "ro": "Parcarea se umple rapid; sosiți din timp.",
+                "en": "The parking lot fills up quickly; arrive early."
+              }
+            },
+            {
+              "name": "SS Great Britain",
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Schirme in der dafür vorgesehenen Zone am Eingang.",
+                "hu": "Hagyja a vizes ernyőket a kijelölt zónában a bejáratnál.",
+                "ro": "Lăsați umbrelele ude în zona specială de la intrare.",
+                "en": "Leave wet umbrellas in the designated zone at the entrance."
+              }
+            },
+            {
+              "name": "Bristol Harbourside",
+              "tip_5lang": {
+                "de": "Parken Sie im Millennium Square Parkhaus für einen trockenen Weg zum Hafen.",
+                "hu": "Parkoljon a Millennium Square mélygarázsban a száraz kijutásért.",
+                "ro": "Parcați în garajul Millennium Square pentru acces uscat la port.",
+                "en": "Park in the Millennium Square car park for dry access to the harbor."
+              }
+            },
+            {
+              "name": "Parking at College Green",
+              "tip_5lang": {
+                "de": "Ideal gelegen für Kathedrale und Park Street Shopping.",
+                "hu": "Ideális helyszín a katedrálishoz és a Park Street üzleteihez.",
+                "ro": "Locație ideală pentru catedrală și cumpărături pe Park Street.",
+                "en": "Ideally located for the cathedral and Park Street shopping."
+              }
+            },
+            {
+              "name": "Bristol Cathedral",
+              "tip_5lang": {
+                "de": "Kostenfreier Eintritt, perfekt für eine kurze Regenpause.",
+                "hu": "Ingyenes belépés, tökéletes egy rövid esőszünetre.",
+                "ro": "Intrare gratuită, perfectă pentru o scurtă pauză de ploaie.",
+                "en": "Free entry, perfect for a short break from the rain."
+              }
+            },
+            {
+              "name": "Bristol Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Das Parken in der Nähe ist begrenzt; nutzen Sie das Trenchard Street Parkhaus.",
+                "hu": "A közeli parkolás korlátozott; használja a Trenchard Street garázst.",
+                "ro": "Parcarea în apropiere este limitată; folosiți garajul Trenchard Street.",
+                "en": "Nearby parking is limited; use the Trenchard Street car park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Verkehr in Bristol ist bei Regen deutlich dichter, planen Sie mehr Zeit ein.",
+              "Nutzen Sie die Park-and-Ride-Plätze, um das Chaos im Zentrum zu meiden.",
+              "Halten Sie ein Handtuch im Auto bereit, um Sitze trocken zu wischen.",
+              "Die Sicht auf der Suspension Bridge kann durch Nebel eingeschränkt sein.",
+              "Die Parkgebühren im Zentrum sind hoch; kontaktloses Bezahlen ist Standard."
+            ],
+            "hu": [
+              "Esőben Bristol forgalma sokkal lassabb, számoljon több idővel.",
+              "Használja a Park-and-Ride parkolókat a központi dugók elkerülésére.",
+              "Legyen az autóban törölköző az ülések megszárításához.",
+              "A köd és eső miatt a kilátás a hídról korlátozott lehet.",
+              "A parkolási díjak magasak; az érintésmentes fizetés mindenhol alapvető."
+            ],
+            "ro": [
+              "Traficul în Bristol este mult mai dens pe ploaie, planificați timp suplimentar.",
+              "Folosiți parcările Park-and-Ride pentru a evita haosul din centru.",
+              "Păstrați un prosop în mașină pentru a șterge scaunele.",
+              "Vizibilitatea pe pod poate fi limitată de ceață sau ploaie densă.",
+              "Taxele de parcare în centru sunt mari; plata contactless este standard."
+            ],
+            "en": [
+              "Traffic in Bristol is significantly heavier in the rain; allow extra time.",
+              "Consider using Park-and-Ride sites to avoid city center congestion.",
+              "Keep a towel in the car to wipe down seats after getting in wet.",
+              "Visibility on the Suspension Bridge can be limited by fog or mist.",
+              "Parking fees in the center are high; contactless payment is standard."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit dem Auto bietet in Bristol maximalen Komfort. Beginnen Sie oben am Clifton Down, wenn der Frost die Bäume am Avon Gorge weiß färbt. Von der Suspension Bridge aus haben Sie eine klare Sicht über das Tal. Die Fahrt hinunter zum Hafen ist dank Sitzheizung angenehm, und Sie parken direkt an der SS Great Britain, bevor der kalte Wind Sie erreicht.\n\nMittags bietet das Parken am College Green den idealen Startpunkt für die Kathedrale. Den Nachmittag verbringen Sie im Museum, während draußen die Wintersonne früh verschwindet. Die beleuchteten Straßen von Bristol wirken vom Auto aus besonders einladend, wenn Sie am Abend gemütlich durch das glitzernde Stadtzentrum zurückfahren.",
+            "hu": "Egy téli autós nap Bristolban maximális kényelmet nyújt. Kezdjen fent a Clifton Downnál, amikor a dér fehérre festi az Avon-szurdok fáit. A Függőhídról tiszta kilátás nyílik a völgyre. A leereszkedés a kikötőbe a fűtött ülésekben kellemes, és közvetlenül az SS Great Britain mellett parkolhat, mielőtt a hideg szél elérné.\n\nDélben a College Green parkolója ideális kiindulópont a katedrálishoz. A délutánt a múzeumban töltse, miközben kint a téli nap korán eltűnik. Bristol kivilágított utcái az autóból különösen hívogatóak, ahogy este kényelmesen áthajt a csillogó városközponton.",
+            "ro": "O zi de iarnă cu mașina oferă confort maxim în Bristol. Începeți sus la Clifton Down, când gerul albește copacii din defileul Avon. De pe pod aveți o vedere clară peste vale. Coborârea spre port este plăcută datorită scaunelor încălzite și parcați chiar lângă SS Great Britain înainte ca vântul rece să vă ajungă.\n\nLa prânz, parcarea de la College Green este punctul de plecare ideal pentru catedrală. Petreceți după-amiaza la muzeu, în timp ce afară soarele de iarnă dispare devreme. Străzile iluminate ale Bristolului par deosebit de primitoare din mașină, în timp ce vă întoarceți seara prin centrul strălucitor.",
+            "en": "A winter day by car offers maximum comfort in Bristol. Start up at Clifton Down when frost paints the trees of the Avon Gorge white. From the Suspension Bridge, you have a clear view over the valley. The drive down to the harbor is pleasant with heated seats, and you can park right by the SS Great Britain before the cold wind reaches you.\n\nAt midday, parking at College Green is the ideal starting point for the cathedral. Spend the afternoon in the museum while the winter sun disappears early outside. Bristol's illuminated streets look especially inviting from the car as you drive back through the sparkling city center in the evening."
+          },
+          "stops": [
+            {
+              "name": "Parking at Clifton Down",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte in den schattigen Parkbuchten am Morgen.",
+                "hu": "Reggelente figyeljen a jegesedésre az árnyékos parkolóhelyeken.",
+                "ro": "Atenție la porțiunile cu gheață în locurile de parcare umbrite.",
+                "en": "Watch out for ice in shaded parking bays in the morning."
+              }
+            },
+            {
+              "name": "Clifton Suspension Bridge",
+              "tip_5lang": {
+                "de": "Bei Frost kann die Fahrbahn auf der Brücke rutschig sein.",
+                "hu": "Fagy esetén az úttest a hídon csúszós lehet.",
+                "ro": "Pe timp de îngheț, carosabilul de pe pod poate fi alunecos.",
+                "en": "In frosty conditions, the road surface on the bridge can be slippery."
+              }
+            },
+            {
+              "name": "Parking at SS Great Britain",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg zum Schiff minimiert die Zeit in der Kälte.",
+                "hu": "A rövid séta a hajóig minimalizálja a hidegben töltött időt.",
+                "ro": "Drumul scurt până la navă reduce timpul petrecut în frig.",
+                "en": "The short walk to the ship minimizes your time in the cold."
+              }
+            },
+            {
+              "name": "SS Great Britain",
+              "tip_5lang": {
+                "de": "Die Cafeteria bietet im Winter hausgemachte Suppen an.",
+                "hu": "A büfé télen házi készítésű leveseket kínál.",
+                "ro": "Cafeneaua oferă supe de casă pe timp de iarnă.",
+                "en": "The cafeteria offers homemade soups during the winter."
+              }
+            },
+            {
+              "name": "Bristol Harbourside",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Parkhaus mit Aufzug für mehr Komfort.",
+                "hu": "Válasszon liftes parkolóházat a nagyobb kényelem érdekében.",
+                "ro": "Alegeți o parcare cu lift pentru mai mult confort.",
+                "en": "Choose a parking garage with an elevator for added comfort."
+              }
+            },
+            {
+              "name": "Parking at College Green",
+              "tip_5lang": {
+                "de": "Oft belebt, aber sehr sicher für Abendbesuche.",
+                "hu": "Gyakran forgalmas, de nagyon biztonságos az esti látogatáshoz.",
+                "ro": "Adesea aglomerat, dar foarte sigur pentru vizitele de seară.",
+                "en": "Often busy, but very safe for evening visits."
+              }
+            },
+            {
+              "name": "Bristol Cathedral",
+              "tip_5lang": {
+                "de": "In der Weihnachtszeit ist der Innenraum festlich geschmückt.",
+                "hu": "Karácsony idején a belső tér ünnepi díszbe öltözik.",
+                "ro": "În perioada Crăciunului, interiorul este decorat festiv.",
+                "en": "The interior is festively decorated during the Christmas season."
+              }
+            },
+            {
+              "name": "Bristol Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Große Auswahl an Geschenken im Museumsshop für Weihnachten.",
+                "hu": "Nagy választék karácsonyi ajándékokból a múzeumi boltban.",
+                "ro": "O gamă largă de cadouri în magazinul muzeului pentru Crăciun.",
+                "en": "A wide range of gifts in the museum shop for Christmas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck, da dieser bei Kälte sinken kann.",
+              "Vermeiden Sie steile Nebenstraßen in Clifton bei Eisgefahr.",
+              "Das Vorheizen des Autos macht die Fahrt zwischen den POIs angenehmer.",
+              "Beachten Sie die 'Clean Air Zone' Gebühren im Stadtzentrum.",
+              "Die Parkhäuser sind im Winter oft wärmer als Parkplätze im Freien."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást, mert a hidegben lecsökkenhet.",
+              "Jegesedés esetén kerülje Clifton meredek mellékutcáit.",
+              "Az autó előmelegítése kényelmesebbé teszi az utat a helyszínek között.",
+              "Ügyeljen a belvárosi 'Clean Air Zone' behajtási díjakra.",
+              "A parkolóházak télen gyakran melegebbek, mint a szabadtéri parkolók."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope, deoarece poate scădea la frig.",
+              "Evitați străzile secundare abrupte din Clifton în caz de îngheț.",
+              "Preîncălzirea mașinii face călătoria între obiective mult mai plăcută.",
+              "Atenție la taxele 'Clean Air Zone' din centrul orașului.",
+              "Parcările etajate sunt adesea mai calde decât cele în aer liber."
+            ],
+            "en": [
+              "Check your tire pressure as it can drop in cold weather.",
+              "Avoid steep side streets in Clifton if ice is suspected.",
+              "Preheating your car makes transit between POIs much more pleasant.",
+              "Be aware of the 'Clean Air Zone' charges in the city center.",
+              "Multi-story car parks are often warmer than outdoor lots in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1465,6 +2071,196 @@
           "Buses can get stuck in traffic, so allow extra time.",
           "The ferry is a fun alternative to the bus for trips around the harbour."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "An einem Regentag in Bristol ist der öffentliche Nahverkehr Ihr bester Freund. Starten Sie bei St Mary Redcliffe, die gut mit dem Bus erreichbar ist. Die Fahrt zum Harbourside mit der Fähre ist ein Erlebnis, da Sie unter dem Verdeck trocken bleiben. Zur SS Great Britain gelangen Sie mit einem kurzen Spaziergang vom Busstopp, bevor Sie die faszinierenden Innenräume des Schiffes erkunden.\n\nMittags bringen Sie die MetroBus-Linien schnell zur Kathedrale und zum Museum. Diese Busse sind modern, hell und bieten Schutz vor dem grauen Wetter. Den Nachmittag verbringen Sie in den Ausstellungen, bevor Sie zum Cabot Tower fahren. Auch wenn der Aufstieg bei Regen nass ist, bietet der MetroBus eine warme Basis für die Rückfahrt ins Zentrum.",
+            "hu": "Egy esős napon Bristolban a tömegközlekedés a legjobb barátja. Kezdjen a St Mary Redcliffe-nél, amely busszal könnyen elérhető. A kikötői kompozás élmény, ráadásul a fedél alatt száraz marad. Az SS Great Britainhoz egy rövid sétával juthat el a buszmegállótól, mielőtt felfedezné a hajó belső tereit.\n\nDélben a MetroBus járatok gyorsan elrepítik a katedrálishoz és a múzeumhoz. Ezek a buszok modernek, világosak és védenek a szürke időtől. A délutánt a kiállítások között töltse, majd irány a Cabot-torony. Még ha a felfelé vezető út vizes is, a MetroBus meleg bázist nyújt a visszaúthoz a központba.",
+            "ro": "Într-o zi ploioasă în Bristol, transportul public este cel mai bun aliat. Începeți la St Mary Redcliffe, ușor accesibilă cu autobuzul. Călătoria spre port cu feribotul este o experiență, deoarece rămâneți uscat sub copertină. Ajungeți la SS Great Britain cu o scurtă plimbare de la stație înainte de a explora interiorul navei.\n\nLa prânz, liniile MetroBus vă duc rapid la catedrală și muzeu. Aceste autobuze sunt moderne și oferă protecție împotriva vremii gri. Petreceți după-amiaza la expoziții înainte de a merge spre Cabot Tower. Chiar dacă urcarea este umedă, autobuzul oferă o bază caldă pentru întoarcerea în centru.",
+            "en": "On a rainy day in Bristol, public transport is your best friend. Start at St Mary Redcliffe, which is easily accessible by bus. Taking the ferry to the Harbourside is an experience, as you stay dry under the cover. You can reach the SS Great Britain with a short walk from the bus stop before exploring the ship's fascinating interiors.\n\nAt midday, MetroBus lines will whisk you quickly to the cathedral and the museum. These buses are modern, bright, and offer shelter from the grey weather. Spend the afternoon in the exhibitions before heading to Cabot Tower. Even if the climb is wet, the MetroBus provides a warm base for the return trip to the center."
+          },
+          "stops": [
+            {
+              "name": "St Mary Redcliffe",
+              "tip_5lang": {
+                "de": "Bushaltestellen befinden sich direkt gegenüber dem Haupteingang.",
+                "hu": "A buszmegállók közvetlenül a főbejárattal szemben találhatók.",
+                "ro": "Stațiile de autobuz sunt situate chiar vizavi de intrarea principală.",
+                "en": "Bus stops are located directly opposite the main entrance."
+              }
+            },
+            {
+              "name": "Bristol Harbourside",
+              "tip_5lang": {
+                "de": "Die kleine Fähre hält an mehreren Stellen im Hafenbecken.",
+                "hu": "A kishajó több ponton is megáll a kikötőmedencében.",
+                "ro": "Feribotul mic oprește în mai multe locuri din bazinul portuar.",
+                "en": "The small ferry stops at several points around the harbor basin."
+              }
+            },
+            {
+              "name": "SS Great Britain",
+              "tip_5lang": {
+                "de": "Nutzen Sie den MetroBus m2 für eine schnelle Verbindung hierher.",
+                "hu": "Használja az m2-es MetroBus járatot a gyors idejutáshoz.",
+                "ro": "Folosiți linia MetroBus m2 pentru o legătură rapidă aici.",
+                "en": "Use the m2 MetroBus for a fast connection here."
+              }
+            },
+            {
+              "name": "Bristol Cathedral",
+              "tip_5lang": {
+                "de": "Vom Zentrum (The Centre) sind es nur 5 Minuten zu Fuß.",
+                "hu": "A városközponttól (The Centre) mindössze 5 perc séta.",
+                "ro": "De la centrul orașului (The Centre) sunt doar 5 minute de mers pe jos.",
+                "en": "It’s only a 5-minute walk from the city center (The Centre)."
+              }
+            },
+            {
+              "name": "Bristol Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Busse der Linien 1, 2, 3 und 4 halten fast direkt vor der Tür.",
+                "hu": "Az 1, 2, 3 és 4-es buszok szinte közvetlenül az ajtó előtt állnak meg.",
+                "ro": "Autobuzele liniilor 1, 2, 3 și 4 opresc aproape în fața ușii.",
+                "en": "Buses 1, 2, 3, and 4 stop almost directly outside the door."
+              }
+            },
+            {
+              "name": "Cabot Tower",
+              "tip_5lang": {
+                "de": "Der nächste Busstopp ist 'Triangle West', ein kurzer Aufstieg folgt.",
+                "hu": "A legközelebbi megálló a 'Triangle West', innen rövid emelkedő következik.",
+                "ro": "Cea mai apropiată stație este 'Triangle West', urmată de o scurtă urcare.",
+                "en": "The nearest stop is 'Triangle West', followed by a short uphill walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die 'First Bus' App für Echtzeit-Infos herunter.",
+              "Das Tagesticket ist oft günstiger als Einzelfahrten.",
+              "Die Hafen-Fähren sind bei Regen eine gemütliche Alternative zum Laufen.",
+              "Busterminals im Zentrum bieten oft kleine Cafés zum Warten.",
+              "MetroBusse haben WLAN und USB-Ladebuchsen – ideal für Regentage."
+            ],
+            "hu": [
+              "Töltse le a 'First Bus' alkalmazást a valós idejű menetrendhez.",
+              "A napijegy gyakran olcsóbb, mint a külön megvásárolt jegyek.",
+              "A kikötői kompok esőben kényelmes alternatívát jelentenek a gyaloglás helyett.",
+              "A központi buszvárók közelében sok a kávézó, ahol várakozhat.",
+              "A MetroBusokon van Wi-Fi és USB-töltő – ideális esős időben."
+            ],
+            "ro": [
+              "Descărcați aplicația 'First Bus' pentru informații în timp real.",
+              "Biletul de o zi este adesea mai ieftin decât călătoriile individuale.",
+              "Feriboturile portuare sunt o alternativă confortabilă la mersul pe jos.",
+              "Stațiile principale din centru au cafenele în apropiere pentru așteptare.",
+              "MetroBus-urile au Wi-Fi și porturi USB – ideale pentru zilele ploioase."
+            ],
+            "en": [
+              "Download the 'First Bus' app for real-time arrival information.",
+              "A day ticket is often cheaper than multiple single fares.",
+              "The harbor ferries are a cozy alternative to walking in the rain.",
+              "Major bus hubs in the center have nearby cafes for waiting out delays.",
+              "MetroBuses offer Wi-Fi and USB charging – ideal for rainy days."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit dem Bus in Bristol beginnt gemütlich an der St Mary Redcliffe. Von dort bringt Sie ein beheizter Bus zum Harbourside, wo die kühle Meeresluft auf die warme Kabine der Fähre trifft. Der Besuch der SS Great Britain ist im Winter weniger überlaufen, was eine ruhige Besichtigung ermöglicht. Die MetroBusse bringen Sie zuverlässig zur Kathedrale, während die Stadt draußen im Winterlicht glänzt.\n\nMittags genießen Sie den Komfort des Museums, das mit dem Bus perfekt angebunden ist. Die frühe Dunkelheit macht die Fahrt zum Cabot Tower besonders reizvoll, da die Lichter von Bristol unter Ihnen funkeln. Der MetroBus bringt Sie anschließend schnell zurück ins Zentrum, wo Sie den Tag in einem der beleuchteten Pubs oder Cafés am College Green ausklingen lassen können.",
+            "hu": "Egy téli nap Bristolban a buszon kezdődik a St Mary Redcliffe-nél. Innen egy fűtött busz viszi a kikötőbe, ahol a hűvös tengeri levegő a komp meleg kabinjával találkozik. Az SS Great Britain látogatása télen kevésbé zsúfolt, így nyugodtan nézelődhet. A MetroBusok megbízhatóan viszik a katedrálishoz, miközben a város kint a téli fényekben ragyog.\n\nDélben élvezze a múzeum kényelmét, amely busszal tökéletesen megközelíthető. A korai sötétedés miatt a Cabot-toronyhoz vezető út különösen vonzó, mert Bristol fényei szikráznak Ön alatt. A MetroBus ezután gyorsan visszaviszi a központba, ahol a napot a College Green kivilágított kávézóiban zárhatja.",
+            "ro": "O zi de iarnă cu autobuzul în Bristol începe confortabil la St Mary Redcliffe. De acolo, un autobuz încălzit vă duce în port, unde aerul rece întâlnește cabina caldă a feribotului. Vizita la SS Great Britain este mai puțin aglomerată iarna. Liniile MetroBus vă duc sigur la catedrală, în timp ce orașul strălucește în lumina de iarnă.\n\nLa prânz, bucurați-vă de confortul muzeului, perfect conectat cu autobuzul. Întunericul timpuriu face vizita la Cabot Tower specială, luminile orașului sclipind sub dvs. MetroBus-ul vă readuce rapid în centru, unde puteți încheia ziua într-unul dintre pub-urile sau cafenelele luminate din College Green.",
+            "en": "A winter day by bus in Bristol begins comfortably at St Mary Redcliffe. From there, a heated bus takes you to the Harbourside, where the cool sea air meets the warm cabin of the ferry. Visiting the SS Great Britain is less crowded in winter, allowing for a peaceful tour. MetroBuses reliably take you to the cathedral while the city shines in winter light outside.\n\nAt midday, enjoy the comfort of the museum, which is perfectly connected by bus. The early darkness makes the trip to Cabot Tower especially appealing as Bristol's lights sparkle below you. The MetroBus then quickly takes you back to the center, where you can end the day in one of the illuminated pubs or cafes at College Green."
+          },
+          "stops": [
+            {
+              "name": "St Mary Redcliffe",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Haupteingang; er ist im Winter besser gegen Zugluft geschützt.",
+                "hu": "Használja a főbejáratot; télen ez jobban védett a huzattól.",
+                "ro": "Folosiți intrarea principală; este mai bine protejată de curent iarna.",
+                "en": "Use the main entrance; it is better protected against drafts in winter."
+              }
+            },
+            {
+              "name": "Bristol Harbourside",
+              "tip_5lang": {
+                "de": "Die Fähren fahren im Winter seltener; prüfen Sie den Fahrplan vorab.",
+                "hu": "A kompok télen ritkábban járnak; előre ellenőrizze a menetrendet.",
+                "ro": "Feriboturile circulă mai rar iarna; verificați programul în prealabil.",
+                "en": "Ferries run less frequently in winter; check the schedule in advance."
+              }
+            },
+            {
+              "name": "SS Great Britain",
+              "tip_5lang": {
+                "de": "Das Museumscafé bietet einen tollen Blick auf den winterlichen Hafen.",
+                "hu": "A múzeumi kávézó remek kilátást nyújt a téli kikötőre.",
+                "ro": "Cafeneaua muzeului oferă o vedere superbă asupra portului iarna.",
+                "en": "The museum cafe offers a great view of the harbor in winter."
+              }
+            },
+            {
+              "name": "Bristol Cathedral",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Inneren auf, während Sie die Architektur bewundern.",
+                "hu": "Melegedjen fel bent, miközben az építészetet csodálja.",
+                "ro": "Încălziți-vă în interior în timp ce admirați arhitectura.",
+                "en": "Warm up inside while admiring the stunning architecture."
+              }
+            },
+            {
+              "name": "Bristol Museum & Art Gallery",
+              "tip_5lang": {
+                "de": "Die hellen Oberlichter bringen auch im Winter viel Tageslicht hinein.",
+                "hu": "A világos tetőablakok télen is sok természetes fényt engednek be.",
+                "ro": "Luminatoarele aduc multă lumină naturală chiar și iarna.",
+                "en": "The bright skylights let in plenty of natural light even in winter."
+              }
+            },
+            {
+              "name": "Cabot Tower",
+              "tip_5lang": {
+                "de": "Der Parkweg zum Turm ist abends stimmungsvoll beleuchtet.",
+                "hu": "A toronyhoz vezető parki út este hangulatosan ki van világítva.",
+                "ro": "Aleea parcului spre turn este iluminată atmosferic seara.",
+                "en": "The park path to the tower is atmospherically lit in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können sich an Feiertagen ändern, prüfen Sie diese online.",
+              "Die Hafen-Fähren haben im Winter oft beheizte Innenbereiche.",
+              "MetroBus-Haltestellen haben digitale Anzeigen mit Echtzeit-Infos.",
+              "Busfahren ist im Winter die wärmste Art, Bristol zu erkunden.",
+              "Halten Sie Kleingeld oder eine Karte für das 'Tap On, Tap Off' bereit."
+            ],
+            "hu": [
+              "A menetrendek ünnepnapokon változhatnak, ellenőrizze online.",
+              "A kikötői kompoknak télen gyakran fűtött belső tere van.",
+              "A MetroBus megállók digitális kijelzőin valós idejű infók láthatók.",
+              "Télen a buszozás a legmelegebb módja Bristol felfedezésének.",
+              "Készítse elő kártyáját a 'Tap On, Tap Off' érintős fizetéshez."
+            ],
+            "ro": [
+              "Orarele se pot schimba de sărbători, verificați-le online.",
+              "Feriboturile portuare au adesea zone interioare încălzite iarna.",
+              "Stațiile MetroBus au afișaje digitale cu informații în timp real.",
+              "Autobuzul este cea mai călduroasă modalitate de a explora Bristol iarna.",
+              "Pregătiți cardul pentru sistemul 'Tap On, Tap Off' de plată."
+            ],
+            "en": [
+              "Schedules may change on public holidays; check them online.",
+              "Harbor ferries often have heated indoor areas during winter.",
+              "MetroBus stops feature digital displays with real-time info.",
+              "Taking the bus is the warmest way to explore Bristol in winter.",
+              "Have your card ready for the 'Tap On, Tap Off' payment system."
+            ]
+          }
+        }
       }
     }
   }

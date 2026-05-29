@@ -386,6 +386,206 @@
           "Many museums and shops are closed on Mondays.",
           "Look out for the 'Stolpersteine', small memorial plaques for victims of National Socialism."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die Arkaden der Marktgasse perfekten Schutz vor dem Regen. Mittags flüchten wir in die Stille der Domkirche, gefolgt von einem ausgiebigen Besuch im Schattenburg-Museum, wo man trocken in die Geschichte eintauchen kann. Nachmittags spazieren wir unter Schirmen zu den Stadttoren. Der Tag endet im Wildpark, wo das dichte Blätterdach bei leichtem Nieselregen natürlichen Schutz bietet.",
+            "hu": "Reggel a Marktgasse árkádjai alatt sétálunk, amelyek tökéletes védelmet nyújtanak az eső ellen. Délben a dóm csendjében húzzuk meg magunkat, majd a Schattenburg vár belső termeiben merülünk el a történelemben. Délután esernyővel járjuk végig a városkapukat. A napot a Vadasparkban zárjuk, ahol a sűrű lombok némi védelmet adnak a szemerkélő esőben, a friss levegő pedig illatos.",
+            "ro": "Dimineața, arcadele din Marktgasse oferă protecție perfectă împotriva ploii. La prânz ne refugiem în liniștea Catedralei, urmată de o vizită lungă la Castelul Schattenburg, unde poți explora istoria la adăpost. După-amiaza ne plimbăm cu umbrelele spre porțile orașului. Ziua se încheie la parcul de animale, unde coronamentul des al copacilor oferă o protecție naturală împotriva burniței.",
+            "en": "In the morning, the arcades of Marktgasse provide perfect shelter from the rain. At noon, we take refuge in the silence of the Cathedral, followed by an extensive visit to the Schattenburg Museum to stay dry while exploring history. In the afternoon, we walk with umbrellas to the city gates. The day ends at the Wildlife Park, where the dense canopy offers natural protection during light drizzle."
+          },
+          "stops": [
+            {
+              "name": "Marktgasse (Market Alley)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die historischen Arkaden (Lauben), um trocken von Geschäft zu Geschäft zu gelangen.",
+                "hu": "Használja a történelmi árkádokat, hogy szárazon juthasson egyik üzlettől a másikig.",
+                "ro": "Folosiți arcadele istorice (Lauben) pentru a merge de la un magazin la altul fără să vă udați.",
+                "en": "Use the historic arcades (Lauben) to walk from shop to shop while staying dry."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine besinnliche Pause, während draußen der stärkste Regen niedergeht.",
+                "hu": "Ideális hely egy csendes pihenőre, amíg odakint a legerősebben esik az eső.",
+                "ro": "Un loc ideal pentru o pauză liniștită în timp ce afară plouă torențial.",
+                "en": "An ideal place for a peaceful break while the heaviest rain falls outside."
+              }
+            },
+            {
+              "name": "Schattenburg Castle",
+              "tip_5lang": {
+                "de": "Das Museum im Inneren ist riesig und bietet stundenlangen Schutz und Unterhaltung.",
+                "hu": "A belső múzeum hatalmas, órákon át tartó védelmet és szórakozást nyújt a falak között.",
+                "ro": "Muzeul din interior este imens și oferă ore întregi de adăpost și divertisment.",
+                "en": "The museum inside is vast, offering hours of shelter and entertainment within its walls."
+              }
+            },
+            {
+              "name": "Katzenturm (Cats' Tower)",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur schnell von außen; der Turm ist meist nur von außen zu sehen.",
+                "hu": "Csodálja meg gyorsan kívülről; a torony belső terei ritkán látogathatóak.",
+                "ro": "Admirați arhitectura rapid de afară; turnul este vizibil în principal din exterior.",
+                "en": "Admire the architecture quickly from the outside; the tower is mostly viewed from the street."
+              }
+            },
+            {
+              "name": "Chur Gate & Powder Tower",
+              "tip_5lang": {
+                "de": "Die massiven Steinbögen bieten kurzzeitigen Unterschlupf bei plötzlichen Schauern.",
+                "hu": "A masszív kőívek rövid ideig menedéket nyújtanak a hirtelen záporok elől.",
+                "ro": "Arcadele masive de piatră oferă adăpost temporar în cazul unor averse bruște.",
+                "en": "The massive stone arches provide brief shelter during sudden downpours."
+              }
+            },
+            {
+              "name": "Johanniter Church",
+              "tip_5lang": {
+                "de": "Prüfen Sie aktuelle Ausstellungen im Inneren für eine kulturelle Auszeit im Trockenen.",
+                "hu": "Nézze meg az aktuális kiállításokat bent egy kulturális kikapcsolódáshoz a szárazon.",
+                "ro": "Verificați expozițiile curente din interior pentru o pauză culturală la adăpost.",
+                "en": "Check for current exhibitions inside for a cultural break in the dry."
+              }
+            },
+            {
+              "name": "Feldkirch Wildlife Park",
+              "tip_5lang": {
+                "de": "Feste Schuhe sind Pflicht, da die Waldwege bei Regen schlammig werden können.",
+                "hu": "Zárt cipő kötelező, mivel az erdei utak esőben sárossá válhatnak.",
+                "ro": "Încălțămintea rezistentă este obligatorie, deoarece potecile pot deveni noroioase.",
+                "en": "Sturdy shoes are a must, as forest paths can become muddy in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Marktgasse ist dank der Arkaden fast vollständig überdacht begehbar.",
+              "Das Schattenburg-Museum ist die beste Indoor-Option für regnerische Nachmittage.",
+              "Im Wildpark gibt es einen Kiosk mit Unterstand für eine kurze Kaffeepause.",
+              "Tragen Sie wasserfeste Schuhe für den Aufstieg zur Burg."
+            ],
+            "hu": [
+              "A Marktgasse az árkádoknak köszönhetően szinte végig fedetten bejárható.",
+              "A Schattenburg múzeuma a legjobb beltéri opció esős délutánokra.",
+              "A Vadasparkban van egy fedett büfé egy rövid kávészünethez.",
+              "Viseljen vízálló cipőt a várba vezető emelkedőhöz."
+            ],
+            "ro": [
+              "Marktgasse este aproape complet acoperită datorită arcadelor istorice.",
+              "Muzeul Schattenburg este cea mai bună opțiune de interior pentru după-amiezi ploioase.",
+              "În parcul de animale există un chioșc cu adăpost pentru o scurtă pauză de cafea.",
+              "Purtați încălțăminte impermeabilă pentru urcarea spre castel."
+            ],
+            "en": [
+              "Marktgasse is almost entirely accessible under cover thanks to the arcades.",
+              "The Schattenburg Museum is the best indoor option for rainy afternoons.",
+              "There is a kiosk with shelter in the Wildlife Park for a quick coffee break.",
+              "Wear waterproof shoes for the walk up to the castle."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter beginnt der Morgen frostig in der Marktgasse, wo der Duft von Gebäck die Luft erfüllt. Mittags wärmen wir uns in der Kathedrale auf, bevor wir den Nachmittag im beheizten Schattenburg-Museum verbringen. Da die Dämmerung früh einsetzt, besuchen wir den Wildpark bereits am frühen Nachmittag. Der Tag endet mit einem stimmungsvollen Spaziergang durch die beleuchtete Altstadt.",
+            "hu": "Télen a reggel fagyosan indul a Marktgasse utcáin, ahol sütemény illata lengi be a levegőt. Délben a dómban melegszünk fel, majd a délutánt a fűtött Schattenburg múzeumban töltjük. Mivel korán sötétedik, a Vadasparkot már kora délután meglátogatjuk. A napot a kivilágított óváros hangulatos fényeivel zárjuk.",
+            "ro": "Iarna, dimineața începe geroasă pe străzile din Marktgasse, unde mirosul de produse de patiserie umple aerul. La prânz ne încălzim în Catedrală, înainte de a petrece după-amiaza în muzeul încălzit Schattenburg. Deoarece se întunecă devreme, vizităm parcul de animale la începutul după-amiezii. Ziua se încheie cu o plimbare atmosferică prin centrul vechi iluminat.",
+            "en": "In winter, the morning starts frosty in Marktgasse, where the scent of pastries fills the air. At noon, we warm up in the Cathedral before spending the afternoon in the heated Schattenburg Museum. Since dusk falls early, we visit the Wildlife Park in the early afternoon. The day ends with an atmospheric walk through the illuminated old town."
+          },
+          "stops": [
+            {
+              "name": "Marktgasse (Market Alley)",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Tee in einem der gemütlichen Cafés unter den Arkaden.",
+                "hu": "Élvezzen egy forró teát az egyik hangulatos kávézóban az árkádok alatt.",
+                "ro": "Savurați un ceai fierbinte la una dintre cafenelele primitoare de sub arcade.",
+                "en": "Enjoy a hot tea at one of the cozy cafes under the arcades."
+              }
+            },
+            {
+              "name": "St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Die dicken Mauern schützen vor dem Wind; ein Ort der Ruhe und relativen Wärme.",
+                "hu": "A vastag falak védenek a széltől; a nyugalom és a relatív meleg helye.",
+                "ro": "Zidurile groase protejează de vânt; un loc de liniște și căldură relativă.",
+                "en": "The thick walls protect from the wind; a place of peace and relative warmth."
+              }
+            },
+            {
+              "name": "Schattenburg Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Burgschänke für eine kräftige Suppe nach der Museumsführung.",
+                "hu": "Látogasson el a várvendéglőbe egy tartalmas levesre a múzeumlátogatás után.",
+                "ro": "Vizitați taverna castelului pentru o supă caldă după turul muzeului.",
+                "en": "Visit the castle tavern for a hearty soup after your museum tour."
+              }
+            },
+            {
+              "name": "Katzenturm (Cats' Tower)",
+              "tip_5lang": {
+                "de": "Der Turm wirkt im winterlichen Licht besonders imposant gegen den grauen Himmel.",
+                "hu": "A torony a téli fényekben különösen impozánsan mutat a szürke égbolt előtt.",
+                "ro": "Turnul arată deosebit de impunător în lumina iernii pe fondul cerului gri.",
+                "en": "The tower looks particularly imposing in the winter light against the grey sky."
+              }
+            },
+            {
+              "name": "Chur Gate & Powder Tower",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf den alten Kopfsteinpflastern rund um die Tore.",
+                "hu": "Vigyázzon a jegesedésre a kapuk körüli régi macskaköves utakon.",
+                "ro": "Atenție la polei pe pavajul vechi din jurul porților orașului.",
+                "en": "Watch out for icy patches on the old cobblestones around the city gates."
+              }
+            },
+            {
+              "name": "Johanniter Church",
+              "tip_5lang": {
+                "de": "Oft finden hier im Winter stimmungsvolle Adventskonzerte statt.",
+                "hu": "Télen gyakran tartanak itt hangulatos adventi koncerteket.",
+                "ro": "Adesea, aici au loc concerte de Advent pline de atmosferă în timpul iernii.",
+                "en": "Atmospheric Advent concerts often take place here during the winter months."
+              }
+            },
+            {
+              "name": "Feldkirch Wildlife Park",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park vor 16:00 Uhr, um die Tiere noch bei Tageslicht zu sehen.",
+                "hu": "Látogasson el a parkba 16:00 előtt, hogy még nappali fényben lássa az állatokat.",
+                "ro": "Vizitați parcul înainte de ora 16:00 pentru a vedea animalele la lumina zilei.",
+                "en": "Visit the park before 4:00 PM to see the animals in daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Weihnachtsmarkt in Feldkirch (Dezember) ist einer der schönsten der Region.",
+              "Die Sonne geht im Dezember bereits gegen 16:30 Uhr unter.",
+              "Warme Schichten und Handschuhe sind für den Wildpark-Besuch unerlässlich.",
+              "Schattenburgs Gaststube ist ideal zum Aufwärmen zwischendurch."
+            ],
+            "hu": [
+              "A feldkirchi karácsonyi vásár (decemberben) a régió egyik legszebbje.",
+              "A nap decemberben már 16:30 körül lemegy.",
+              "Meleg réteges öltözet és kesztyű elengedhetetlen a Vadasparkhoz.",
+              "A Schattenburg vendéglője ideális napközbeni felmelegedéshez."
+            ],
+            "ro": [
+              "Târgul de Crăciun din Feldkirch (decembrie) este unul dintre cele mai frumoase din regiune.",
+              "Soarele apune în jurul orei 16:30 în luna decembrie.",
+              "Straturile calde și mănușile sunt esențiale pentru vizita la parcul de animale.",
+              "Taverna Schattenburg este ideală pentru a vă încălzi între vizite."
+            ],
+            "en": [
+              "The Feldkirch Christmas market (in December) is one of the most beautiful in the region.",
+              "The sun sets around 4:30 PM in December.",
+              "Warm layers and gloves are essential for the Wildlife Park visit.",
+              "Schattenburg's dining room is ideal for warming up between stops."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +942,188 @@
           "The cycle paths along the Ill are well-developed and signposted.",
           "Bring enough water, especially for the climb to the wildlife park."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt in Feldkirch erfordert gute Ausrüstung. Wir starten vorsichtig in der Altstadt, wo das Kopfsteinpflaster rutschig ist. Den Mittag verbringen wir im trockenen Schloss Schattenburg. Die Fahrt entlang der Ill bietet eine mystische Atmosphäre im Nebel. Nachmittags besuchen wir den Wildpark und beenden die Tour am Konservatorium, immer auf der Suche nach überdachten Abstellplätzen.",
+            "hu": "Egy esős bringázás Feldkirchben jó felszerelést igényel. Óvatosan kezdünk az óvárosban, ahol a macskakő csúszós. A delet a száraz Schattenburg várban töltjük. Az Ill folyó menti tekerés ködös, misztikus hangulatot áraszt. Délután ellátogatunk a Vadasparkba, majd a Konzervatóriumnál zárjuk a túrát, figyelve a fedett tárolókra.",
+            "ro": "O plimbare cu bicicleta prin ploaie în Feldkirch necesită echipament bun. Începem cu prudență în centrul vechi, unde pavajul este alunecos. Prânzul îl petrecem la Castelul Schattenburg. Traseul de-a lungul râului Ill oferă o atmosferă mistică prin ceață. După-amiaza vizităm parcul de animale și încheiem turul la Conservator.",
+            "en": "A rainy bike ride in Feldkirch requires good gear. We start cautiously in the old town, where the cobblestones are slippery. We spend lunch in the dry Schattenburg Castle. The ride along the Ill river offers a mystic atmosphere in the mist. In the afternoon, we visit the Wildlife Park and end the tour at the Conservatory."
+          },
+          "stops": [
+            {
+              "name": "Marktgasse & Old Town",
+              "tip_5lang": {
+                "de": "Vorsicht: Das nasse Kopfsteinpflaster ist für Reifen extrem rutschig.",
+                "hu": "Vigyázat: a vizes macskakő rendkívül csúszós a gumiknak.",
+                "ro": "Atenție: pavajul ud este extrem de alunecos pentru anvelope.",
+                "en": "Caution: wet cobblestones are extremely slippery for bike tires."
+              }
+            },
+            {
+              "name": "Schattenburg Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine lange Pause im Museum, bis der Schauer abklingt.",
+                "hu": "Használja ki az időt egy hosszú múzeumi szünetre, amíg eláll a zápor.",
+                "ro": "Folosiți timpul pentru o pauză lungă în muzeu până trece ploaia.",
+                "en": "Use the time for a long break in the museum until the shower passes."
+              }
+            },
+            {
+              "name": "Along the Ill River",
+              "tip_5lang": {
+                "de": "Der Uferweg ist gut ausgebaut, aber Pfützen können tief sein.",
+                "hu": "A folyóparti út jól kiépített, de a tócsák mélyek lehetnek.",
+                "ro": "Poteca de pe mal este bine amenajată, dar bălțile pot fi adânci.",
+                "en": "The riverside path is well-paved, but puddles can be deceptively deep."
+              }
+            },
+            {
+              "name": "Feldkirch Wildlife Park",
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Nässe anstrengend; achten Sie auf festen Stand.",
+                "hu": "Az emelkedő nedves úton fárasztó; ügyeljen a biztos tapadásra.",
+                "ro": "Urcarea este obositoare pe ploaie; asigurați-vă că aveți aderență bună.",
+                "en": "The climb is strenuous in the wet; ensure you have good traction."
+              }
+            },
+            {
+              "name": "City Walls (Katzenturm, Churertor)",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für Fotos, bevor es wieder ins Trockene geht.",
+                "hu": "Rövid megálló fotózásra, mielőtt újra fedett helyre mennénk.",
+                "ro": "O scurtă oprire pentru fotografii înainte de a căuta adăpost.",
+                "en": "A quick stop for photos before heading back to a dry area."
+              }
+            },
+            {
+              "name": "State Conservatory",
+              "tip_5lang": {
+                "de": "Es gibt begrenzte überdachte Fahrradständer in der Nähe des Eingangs.",
+                "hu": "A bejárat közelében korlátozott számban vannak fedett kerékpártárolók.",
+                "ro": "Există suporturi de biciclete acoperite limitate lângă intrare.",
+                "en": "There are limited covered bike racks available near the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollständige Regenmontur inklusive Überschuhen.",
+              "Vermeiden Sie scharfe Bremsmanöver auf dem nassen Pflaster der Altstadt.",
+              "Die Ill-Radwege sind meist flach und auch bei Regen gut fahrbar.",
+              "Suchen Sie Cafés mit Fahrradsichtkontakt für die Pausen."
+            ],
+            "hu": [
+              "Viseljen teljes esőfelszerelést, beleértve a kamáslit is.",
+              "Kerülje az éles fékezést az óváros nedves macskakövein.",
+              "Az Ill-menti kerékpárutak többnyire síkok és esőben is jól tekerhetőek.",
+              "Keressen olyan kávézót a pihenőhöz, ahonnan rálát a biciklire."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, inclusiv protecții pentru încălțăminte.",
+              "Evitați frânările bruște pe pavajul ud din centrul vechi.",
+              "Pistele de biciclete de-a lungul râului Ill sunt plate și circulabile pe ploaie.",
+              "Căutați cafenele cu vizibilitate la bicicletă pentru pauze."
+            ],
+            "en": [
+              "Wear full rain gear including shoe covers.",
+              "Avoid sharp braking on the wet cobblestones of the old town.",
+              "The Ill cycle paths are mostly flat and rideable even in the rain.",
+              "Look for cafes with bike visibility for your breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Feldkirch ist erfrischend. Morgens gleiten wir durch die stille Altstadt zum Schloss Schattenburg, wo die warme Gaststube wartet. Die Fahrt entlang der Ill ist bei Frost besonders schön, erfordert aber Vorsicht wegen Glatteis. Nach dem Wildpark-Besuch im Hellen kehren wir bei früher Dunkelheit durch die festlich beleuchteten Gassen zum Konservatorium zurück.",
+            "hu": "A téli bringázás Feldkirchben frissítő élmény. Reggel a csendes óvároson át gurulunk a Schattenburg várig, ahol meleg vendéglő vár. Az Ill menti tekerés fagyban különösen szép, de vigyázni kell a jegesedés miatt. A világosban tett vadasparki látogatás után a korai sötétben, ünnepi fények között térünk vissza a Konzervatóriumhoz.",
+            "ro": "Mersul cu bicicleta iarna în Feldkirch este revigorant. Dimineața pedalăm prin centrul vechi spre Castelul Schattenburg. Traseul de-a lungul râului Ill este superb pe ger, dar necesită prudență din cauza poleiului. După vizita la parcul de animale, ne întoarcem prin străzile iluminate festiv spre Conservator.",
+            "en": "Winter cycling in Feldkirch is refreshing. In the morning, we glide through the quiet old town to Schattenburg Castle, where a warm tavern awaits. The ride along the Ill is beautiful in the frost but requires caution due to ice. After visiting the Wildlife Park in daylight, we return through festively lit alleys to the Conservatory."
+          },
+          "stops": [
+            {
+              "name": "Marktgasse & Old Town",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Stellen in den schattigen Gassen der Altstadt.",
+                "hu": "Ügyeljen a fagyott foltokra az óváros árnyékos utcáiban.",
+                "ro": "Atenție la porțiunile înghețate de pe străzile umbrite ale centrului vechi.",
+                "en": "Watch out for frozen patches in the shaded alleys of the old town."
+              }
+            },
+            {
+              "name": "Schattenburg Castle",
+              "tip_5lang": {
+                "de": "Der steile Weg zur Burg kann im Winter glatt sein; eventuell schieben.",
+                "hu": "A várba vezető meredek út télen csúszós lehet; szükség esetén tolja a gépet.",
+                "ro": "Drumul abrupt spre castel poate fi alunecos iarna; împingeți bicicleta dacă e nevoie.",
+                "en": "The steep path to the castle can be slippery in winter; walk your bike if needed."
+              }
+            },
+            {
+              "name": "Along the Ill River",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die vereiste Ill, aber bleiben Sie auf dem geräumten Pfad.",
+                "hu": "Élvezze a jeges Ill látványát, de maradjon a letakarított úton.",
+                "ro": "Bucurați-vă de vederea râului Ill înghețat, dar rămâneți pe poteca curățată.",
+                "en": "Enjoy the view of the icy Ill river, but stay on the cleared path."
+              }
+            },
+            {
+              "name": "Feldkirch Wildlife Park",
+              "tip_5lang": {
+                "de": "Kalt am Berg! Ein heißes Getränk am Kiosk hilft gegen die Kälte.",
+                "hu": "Hideg van a hegyen! Egy forró ital a büfénél segít a hideg ellen.",
+                "ro": "E frig pe munte! O băutură caldă de la chioșc ajută împotriva gerului.",
+                "en": "Cold on the hill! A hot drink at the kiosk helps against the cold."
+              }
+            },
+            {
+              "name": "City Walls (Katzenturm, Churertor)",
+              "tip_5lang": {
+                "de": "Die Beleuchtung der Stadtmauer wirkt im Winter besonders magisch.",
+                "hu": "A városfal kivilágítása télen különösen varázslatos.",
+                "ro": "Iluminatul zidurilor orașului pare deosebit de magic în timpul iernii.",
+                "en": "The lighting of the city walls looks particularly magical in winter."
+              }
+            },
+            {
+              "name": "State Conservatory",
+              "tip_5lang": {
+                "de": "Das Gebäude strahlt im Winterabend eine warme, einladende Atmosphäre aus.",
+                "hu": "Az épület téli estéken meleg, hívogató hangulatot áraszt.",
+                "ro": "Clădirea emană o atmosferă caldă și primitoare în serile de iarnă.",
+                "en": "The building radiates a warm, inviting atmosphere on winter evenings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Benutzen Sie Winterreifen oder reduzieren Sie den Reifendruck für mehr Grip.",
+              "Planen Sie die Tour so, dass Sie vor 17:00 Uhr am Ziel sind.",
+              "Die Radwege an der Ill werden meist vorrangig geräumt.",
+              "Schützen Sie Hände und Füße besonders gut vor dem Fahrtwind."
+            ],
+            "hu": [
+              "Használjon téli gumit vagy csökkentse a nyomást a jobb tapadásért.",
+              "Úgy tervezze a túrát, hogy 17:00 előtt érjen célba.",
+              "Az Ill menti kerékpárutakat általában elsőbbséggel takarítják.",
+              "Különösen védje a kezét és lábát a menetszéltől."
+            ],
+            "ro": [
+              "Folosiți anvelope de iarnă sau reduceți presiunea pentru aderență mai bună.",
+              "Planificați turul astfel încât să ajungeți la destinație înainte de ora 17:00.",
+              "Pistele de biciclete de pe malul râului Ill sunt de obicei curățate prioritar.",
+              "Protejați-vă bine mâinile și picioarele împotriva curentului de aer rece."
+            ],
+            "en": [
+              "Use winter tires or reduce tire pressure for better grip.",
+              "Plan the tour to reach your destination before 5:00 PM.",
+              "The cycle paths along the Ill are usually cleared with priority.",
+              "Protect your hands and feet especially well against the wind chill."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1480,188 @@
           "Allow some buffer time for traffic, especially in the afternoon.",
           "A trip to Liechtenstein (e.g., Vaduz) is very easy from here and takes only about 20 minutes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist man in Feldkirch bei Regen bestens aufgehoben. Wir parken in der Tiefgarage im Zentrum und erkunden die Altstadt trocken unter den Arkaden. Mittags fahren wir direkt zum Schloss Schattenburg. Den regnerischen Nachmittag verbringen wir im Wildpark, wobei das Auto als trockener Rückzugsort dient. Zum Abschluss genießen wir den Ausblick auf die Schweizer Berge aus dem trockenen Fahrzeug.",
+            "hu": "Autóval esőben is kényelmes Feldkirch felfedezése. A központi mélygarázsban parkolunk, és az árkádok alatt szárazon járjuk be az óvárost. Délben közvetlenül a Schattenburg várhoz hajtunk. Az esős délutánt a Vadasparkban töltjük, ahol az autó száraz menedékként szolgál. Végezetül a kocsi ablakából csodáljuk a svájci hegyek látványát.",
+            "ro": "Cu mașina, explorarea orașului Feldkirch pe ploaie este foarte confortabilă. Parcăm în parcarea subterană centrală și explorăm centrul vechi sub arcade. La prânz conducem direct la Castelul Schattenburg. După-amiaza ploioasă o petrecem la parcul de animale, mașina fiind un refugiu uscat. La final, admirăm munții elvețieni din confortul vehiculului.",
+            "en": "By car, exploring Feldkirch in the rain is very convenient. We park in the central underground garage and explore the old town dry under the arcades. At noon, we drive directly to Schattenburg Castle. We spend the rainy afternoon at the Wildlife Park, with the car serving as a dry retreat. Finally, we enjoy the view of the Swiss mountains from the vehicle."
+          },
+          "stops": [
+            {
+              "name": "City Center Car Park (Cluster 1)",
+              "tip_5lang": {
+                "de": "Wählen Sie eine Tiefgarage, um beim Aussteigen trocken zu bleiben.",
+                "hu": "Válasszon mélygarázst, hogy kiszálláskor is száraz maradjon.",
+                "ro": "Alegeți o parcare subterană pentru a rămâne uscat la coborâre.",
+                "en": "Choose an underground parking lot to stay dry when getting out."
+              }
+            },
+            {
+              "name": "Marktgasse & St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz; nutzen Sie die Arkaden so viel wie möglich.",
+                "hu": "Rövid séta a parkolótól; használja az árkádokat, amennyire csak lehet.",
+                "ro": "Scurtă plimbare de la parcare; folosiți arcadele cât mai mult posibil.",
+                "en": "Short walk from the parking; use the arcades as much as possible."
+              }
+            },
+            {
+              "name": "Schattenburg Castle",
+              "tip_5lang": {
+                "de": "Parkplätze direkt unterhalb der Burg verkürzen den Weg im Regen.",
+                "hu": "A közvetlenül a vár alatt található parkolók lerövidítik az utat az esőben.",
+                "ro": "Locurile de parcare direct sub castel scurtează drumul prin ploaie.",
+                "en": "Parking spaces directly below the castle shorten the walk in the rain."
+              }
+            },
+            {
+              "name": "Katzenturm & City Wall",
+              "tip_5lang": {
+                "de": "Parken Sie kurz am Straßenrand für einen schnellen Blick auf den Turm.",
+                "hu": "Parkoljon le rövid időre az út szélén egy gyors pillantáshoz a toronyra.",
+                "ro": "Parcați scurt pe marginea drumului pentru o vedere rapidă a turnului.",
+                "en": "Park briefly at the roadside for a quick look at the tower."
+              }
+            },
+            {
+              "name": "Feldkirch Wildlife Park (Cluster 2)",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Eingang, ideal bei unbeständigem Wetter.",
+                "hu": "A parkoló közel van a bejárathoz, ideális változékony időben.",
+                "ro": "Parcarea este aproape de intrare, ideală pe vreme instabilă.",
+                "en": "The parking lot is close to the entrance, ideal for unsettled weather."
+              }
+            },
+            {
+              "name": "Viewpoint towards the Swiss mountains",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie das Panorama.",
+                "hu": "Erős esőben maradjon a kocsiban, és onnan élvezze a panorámát.",
+                "ro": "Rămâneți în mașină pe ploaie torențială și bucurați-vă de panoramă.",
+                "en": "Stay in the car during heavy rain and enjoy the panorama from inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkgarage 'Illpark' für den direkten Zugang zum Zentrum.",
+              "Die Straßen zur Schattenburg sind gut befahrbar, aber bei Nässe kurvig.",
+              "Halten Sie Schirme im Kofferraum für die kurzen Wege bereit.",
+              "Die Sicht am Aussichtspunkt kann bei Regen durch Wolken eingeschränkt sein."
+            ],
+            "hu": [
+              "Használja az 'Illpark' garázst a közvetlen belvárosi eléréshez.",
+              "A Schattenburghoz vezető utak jól járhatóak, de nedvesen kanyargósak.",
+              "Tartson esernyőt a csomagtartóban a rövid szakaszokhoz.",
+              "A kilátópontnál a látótávolságot esőben korlátozhatják a felhők."
+            ],
+            "ro": [
+              "Folosiți parcarea 'Illpark' pentru acces direct în centru.",
+              "Drumurile spre Schattenburg sunt bune, dar virajate pe carosabil ud.",
+              "Țineți umbrele în portbagaj pentru segmentele scurte de mers pe jos.",
+              "Vizibilitatea la punctul de belvedere poate fi limitată de nori pe ploaie."
+            ],
+            "en": [
+              "Use the 'Illpark' parking garage for direct access to the center.",
+              "The roads to Schattenburg are well-maintained but curvy when wet.",
+              "Keep umbrellas in the trunk for the short walking sections.",
+              "Visibility at the viewpoint might be limited by clouds during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Auto durch Feldkirch ist sicher und warm. Wir starten in der beheizten Garage im Zentrum und schlendern durch die frostige Altstadt. Zur Mittagszeit geht es hinauf zum Schloss Schattenburg. Den Nachmittag verbringen wir bei den Tieren im Wildpark, bevor wir zum Sonnenuntergang den Aussichtspunkt anfahren. Der Tag endet bequem im warmen Auto mit Blick auf die Stadtlichter.",
+            "hu": "Egy téli autós túra Feldkirchben biztonságos és meleg. A fűtött belvárosi garázsból indulunk, és teszünk egy sétát a fagyos óvárosban. Ebédidőben felhajtunk a Schattenburg várhoz. A délutánt a Vadaspark állatai között töltjük, majd naplementére a kilátóhoz autózunk. A napot kényelmesen, a meleg kocsiból zárjuk, a város fényeit csodálva.",
+            "ro": "Un tur de iarnă cu mașina prin Feldkirch este sigur și călduros. Începem din parcarea încălzită din centru și ne plimbăm prin orașul vechi înghețat. La prânz urcăm la Castelul Schattenburg. Petrecem după-amiaza la parcul de animale, apoi mergem la punctul de belvedere pentru apus. Ziua se încheie confortabil în mașina caldă.",
+            "en": "A winter car tour through Feldkirch is safe and warm. We start in the heated garage in the center and stroll through the frosty old town. At lunchtime, we drive up to Schattenburg Castle. We spend the afternoon with the animals at the Wildlife Park before driving to the viewpoint for sunset. The day ends comfortably in the warm car."
+          },
+          "stops": [
+            {
+              "name": "City Center Car Park (Cluster 1)",
+              "tip_5lang": {
+                "de": "Heckscheibenheizung und Enteiser bereit halten, falls Sie im Freien parken.",
+                "hu": "Készítse elő a jégkaparót, ha nem fűtött helyen parkol.",
+                "ro": "Pregătiți degivrantul dacă parcați în aer liber.",
+                "en": "Keep a de-icer ready if you happen to park outside the garage."
+              }
+            },
+            {
+              "name": "Marktgasse & St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Genießen Sie den kurzen Spaziergang in der kalten, klaren Winterluft.",
+                "hu": "Élvezze a rövid sétát a hideg, tiszta téli levegőn.",
+                "ro": "Bucurați-vă de scurta plimbare în aerul rece și curat de iarnă.",
+                "en": "Enjoy the short walk in the cold, crisp winter air."
+              }
+            },
+            {
+              "name": "Schattenburg Castle",
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Burg wird im Winter regelmäßig geräumt und gesalzen.",
+                "hu": "A várba vezető utat télen rendszeresen takarítják és sózzák.",
+                "ro": "Drumul de acces la castel este curățat și sărat regulat iarna.",
+                "en": "The access road to the castle is regularly cleared and salted in winter."
+              }
+            },
+            {
+              "name": "Katzenturm & City Wall",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; die Beleuchtung beginnt im Winter bereits ab 16:30 Uhr.",
+                "hu": "Rövid fotómegálló; a díszkivilágítás télen már 16:30-kor elkezdődik.",
+                "ro": "Scurtă oprire foto; iluminatul decorativ începe de la 16:30 iarna.",
+                "en": "Quick photo stop; decorative lighting starts as early as 4:30 PM in winter."
+              }
+            },
+            {
+              "name": "Feldkirch Wildlife Park (Cluster 2)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Wildwechsel auf der Straße zum Ardetzenberg.",
+                "hu": "Ügyeljen a vadon élő állatokra az Ardetzenbergre vezető úton.",
+                "ro": "Atenție la animalele sălbatice pe drumul spre Ardetzenberg.",
+                "en": "Watch out for wildlife crossing the road to Ardetzenberg."
+              }
+            },
+            {
+              "name": "Viewpoint towards the Swiss mountains",
+              "tip_5lang": {
+                "de": "Bei klarem Winterhimmel ist die Fernsicht auf die Alpen phänomenal.",
+                "hu": "Tiszta téli égbolt mellett a kilátás az Alpokra fenomenális.",
+                "ro": "Pe cer senin de iarnă, vizibilitatea spre Alpi este fenomenală.",
+                "en": "With a clear winter sky, the long-distance view of the Alps is phenomenal."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und ausreichend Frostschutzmittel sind in Vorarlberg Pflicht.",
+              "Planen Sie für den Wildpark feste Winterschuhe ein.",
+              "Die Parkhäuser im Zentrum bieten Schutz vor dem Einfrieren der Schlösser.",
+              "Die Bergstraßen können bei Schneefall kurzzeitig rutschig sein."
+            ],
+            "hu": [
+              "Téli gumi és elegendő fagyálló kötelező Vorarlbergben.",
+              "A Vadasparkhoz készüljön strapabíró téli cipővel.",
+              "A belvárosi parkolóházak védenek a zárak befagyása ellen.",
+              "A hegyi utak havazáskor rövid ideig csúszósak lehetnek."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și antigelul suficient sunt obligatorii în Vorarlberg.",
+              "Pregătiți încălțăminte de iarnă rezistentă pentru parcul de animale.",
+              "Parcările acoperite din centru protejează împotriva înghețării încuietorilor.",
+              "Drumurile montane pot fi alunecoase temporar în timpul ninsorii."
+            ],
+            "en": [
+              "Winter tires and sufficient antifreeze are mandatory in Vorarlberg.",
+              "Plan for sturdy winter shoes when visiting the Wildlife Park.",
+              "Underground car parks in the center protect against frozen locks.",
+              "Mountain roads can be temporarily slippery during snowfall."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2018,188 @@
           "Make sure to validate your ticket before boarding.",
           "Buses run less frequently on weekends and in the evenings."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Stadtbus Feldkirch bleibt man bei Regen flexibel und trocken. Wir starten am Bahnhof und fahren direkt zum Katzenturm. Mittags spazieren wir kurz zur Kathedrale und nehmen dann den Bus zum Schloss Schattenburg. Den Nachmittag verbringen wir im Wildpark, wobei wir die Buswartehäuschen als Schutz nutzen, bevor es abends zurück zum Bahnhof geht.",
+            "hu": "A feldkirchi városi busszal esőben is rugalmasak és szárazak maradhatunk. A vasútállomástól indulunk közvetlenül a Katzenturmhoz. Délben teszünk egy rövid sétát a dómhoz, majd busszal megyünk a Schattenburg várhoz. A délutánt a Vadasparkban töltjük, a buszvárókat használva menedékként, mielőtt este visszatérnénk az állomásra.",
+            "ro": "Cu autobuzul urban din Feldkirch rămâneți flexibil și uscat pe ploaie. Începem de la gară și mergem direct la Katzenturm. La prânz ne plimbăm scurt spre Catedrală, apoi luăm autobuzul spre Castelul Schattenburg. Petrecem după-amiaza la parcul de animale folosind stațiile de autobuz ca adăpost.",
+            "en": "With the Feldkirch city bus, you stay flexible and dry in the rain. We start at the train station and go directly to Katzenturm. At noon, we take a short walk to the Cathedral and then take the bus to Schattenburg Castle. We spend the afternoon at the Wildlife Park, using bus shelters for cover."
+          },
+          "stops": [
+            {
+              "name": "Feldkirch Train Station (Cluster 1)",
+              "tip_5lang": {
+                "de": "Die Wartehalle im Bahnhof bietet Cafés und Schutz vor dem Regen.",
+                "hu": "A vasútállomás váróterme kávézókat és védelmet nyújt az eső elől.",
+                "ro": "Sala de așteptare din gară oferă cafenele și protecție împotriva ploii.",
+                "en": "The station hall offers cafes and protection from the rain."
+              }
+            },
+            {
+              "name": "Katzenturm & 'Bärenkreuzung' bus stop",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist zentral und bietet gute Unterstände für den Umstieg.",
+                "hu": "A megálló központi, és jó fedett várókkal rendelkezik az átszálláshoz.",
+                "ro": "Stația este centrală și oferă adăposturi bune pentru transfer.",
+                "en": "The bus stop is central and offers good shelters for transfers."
+              }
+            },
+            {
+              "name": "Marktgasse & St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Nur wenige Minuten Fußweg von den zentralen Bushaltestellen entfernt.",
+                "hu": "Csak pár perc séta a központi buszmegállóktól.",
+                "ro": "La doar câteva minute de mers pe jos de stațiile centrale de autobuz.",
+                "en": "Only a few minutes' walk from the central bus stops."
+              }
+            },
+            {
+              "name": "Schattenburg Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus der Linie 1 für eine bequeme Fahrt Richtung Burg.",
+                "hu": "Használja az 1-es buszvonalat a kényelmes utazáshoz a vár irányába.",
+                "ro": "Folosiți linia 1 de autobuz pentru o călătorie confortabilă spre castel.",
+                "en": "Use bus line 1 for a comfortable ride towards the castle area."
+              }
+            },
+            {
+              "name": "Wildlife Park (Cluster 2)",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten genau, um nicht im Regen warten zu müssen.",
+                "hu": "Pontosan ellenőrizze a visszaindulási időket, hogy ne kelljen esőben várnia.",
+                "ro": "Verificați exact orele de întoarcere pentru a nu aștepta în ploaie.",
+                "en": "Check the return times carefully to avoid waiting in the rain."
+              }
+            },
+            {
+              "name": "Back to the train station",
+              "tip_5lang": {
+                "de": "Die Busse verkehren regelmäßig und bringen Sie trocken zum Bahnhof.",
+                "hu": "A buszok rendszeresen járnak, és szárazon viszik vissza az állomásra.",
+                "ro": "Autobuzele circulă regulat și vă aduc la gară la adăpost de ploaie.",
+                "en": "Buses run regularly and will take you back to the station in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Holen Sie sich eine Tageskarte für den Stadtbus Feldkirch.",
+              "Die App 'VMOBIL' zeigt Abfahrten in Echtzeit an.",
+              "Die Haltestelle 'Schloßgraben' ist ideal für die Schattenburg.",
+              "Nutzen Sie die Wartezeiten für einen schnellen Blick in die Shops der Altstadt."
+            ],
+            "hu": [
+              "Váltson napijegyet a feldkirchi városi buszra.",
+              "A 'VMOBIL' alkalmazás valós időben mutatja az indulásokat.",
+              "A 'Schloßgraben' megálló ideális a Schattenburg eléréséhez.",
+              "Használja ki a várakozási időt az óvárosi üzletek gyors felfedezésére."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi pentru autobuzul urban Feldkirch.",
+              "Aplicația 'VMOBIL' afișează plecările în timp real.",
+              "Stația 'Schloßgraben' este ideală pentru accesul la Schattenburg.",
+              "Folosiți timpul de așteptare pentru a vizita magazinele din centrul vechi."
+            ],
+            "en": [
+              "Get a day ticket for the Feldkirch city bus.",
+              "The 'VMOBIL' app shows departures in real-time.",
+              "The 'Schloßgraben' stop is ideal for reaching Schattenburg.",
+              "Use waiting times for a quick look at the shops in the old town."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Stadtbus ist im Winter die wärmste Art, Feldkirch zu erleben. Vom Bahnhof fahren wir in die beleuchtete Altstadt. Mittags bringt uns der Bus zur Schattenburg, wo wir uns aufwärmen. Den Nachmittag verbringen wir im winterlichen Wildpark und kehren mit dem Bus zurück, sobald es dunkel wird. Die festliche Beleuchtung der Stadt lässt sich hervorragend aus dem Fenster des warmen Busses bewundern.",
+            "hu": "A városi busz télen a legmelegebb módja Feldkirch felfedezésének. Az állomástól a kivilágított óvárosba utazunk. Délben a busz a Schattenburghoz visz, ahol felmelegszünk. A délutánt a téli Vadasparkban töltjük, és busszal térünk vissza, amint besötétedik. A város ünnepi díszkivilágítása kiválóan csodálható a meleg busz ablakából.",
+            "ro": "Autobuzul urban este cea mai călduroasă modalitate de a vedea Feldkirch iarna. De la gară mergem în centrul vechi iluminat. La prânz, autobuzul ne duce la Schattenburg pentru a ne încălzi. Petrecem după-amiaza în parcul de animale și ne întoarcem cu autobuzul la lăsarea întunericului.",
+            "en": "The city bus is the warmest way to experience Feldkirch in winter. From the station, we ride into the illuminated old town. At noon, the bus takes us to Schattenburg where we warm up. We spend the afternoon in the wintry Wildlife Park and return by bus as soon as it gets dark."
+          },
+          "stops": [
+            {
+              "name": "Feldkirch Train Station (Cluster 1)",
+              "tip_5lang": {
+                "de": "Warten Sie in der geheizten Wartehalle, bis Ihr Bus angezeigt wird.",
+                "hu": "Várjon a fűtött váróteremben, amíg meg nem jelenik a busza a kijelzőn.",
+                "ro": "Așteptați în sala de așteptare încălzită până când este afișat autobuzul.",
+                "en": "Wait in the heated station hall until your bus is displayed."
+              }
+            },
+            {
+              "name": "Katzenturm & 'Bärenkreuzung' bus stop",
+              "tip_5lang": {
+                "de": "Ein zentraler Knotenpunkt, an dem fast alle Linien zusammenlaufen.",
+                "hu": "Központi csomópont, ahol szinte minden járat találkozik.",
+                "ro": "Un nod central unde se întâlnesc aproape toate liniile.",
+                "en": "A central hub where almost all bus lines converge."
+              }
+            },
+            {
+              "name": "Marktgasse & St. Nicholas Cathedral",
+              "tip_5lang": {
+                "de": "Kurze Wege durch die kalte Luft zwischen den Bushaltestellen.",
+                "hu": "Rövid szakaszok a hideg levegőn a buszmegállók között.",
+                "ro": "Distanțe scurte prin aerul rece între stațiile de autobuz.",
+                "en": "Short sections in the cold air between bus stops."
+              }
+            },
+            {
+              "name": "Schattenburg Castle",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter gut geheizt und bieten eine willkommene Pause.",
+                "hu": "A buszok télen jól fűtöttek, kellemes pihenőt nyújtanak utazás közben.",
+                "ro": "Autobuzele sunt bine încălzite iarna și oferă o pauză binevenită.",
+                "en": "Buses are well-heated in winter, offering a welcome break while traveling."
+              }
+            },
+            {
+              "name": "Wildlife Park (Cluster 2)",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Wildpark' wird regelmäßig angefahren; achten Sie auf den Fahrplan.",
+                "hu": "A 'Wildpark' megállót rendszeresen érintik a buszok; figyelje a menetrendet.",
+                "ro": "Stația 'Wildpark' este deservită regulat; verificați orarul.",
+                "en": "The 'Wildpark' stop is served regularly; keep an eye on the schedule."
+              }
+            },
+            {
+              "name": "Back to the train station",
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag entspannt im warmen Bus zurück zum Bahnhof.",
+                "hu": "Zárja a napot pihentetően a meleg buszon, vissza a vasútállomásra.",
+                "ro": "Încheiați ziua relaxat în autobuzul cald înapoi spre gară.",
+                "en": "End the day relaxed in the warm bus back to the train station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'VMOBIL' App für punktgenaue Verbindungen im Winter.",
+              "Die Stadtbusse sind oft schneller als die Parkplatzsuche im Zentrum.",
+              "Achten Sie auf eventuelle Winterfahrplan-Änderungen an Feiertagen.",
+              "Der Bahnhof Feldkirch hat gute Anschlüsse an den Regionalverkehr."
+            ],
+            "hu": [
+              "Használja a 'VMOBIL' alkalmazást a pontos téli csatlakozásokhoz.",
+              "A városi buszok gyakran gyorsabbak, mint a belvárosi parkolóhely-keresés.",
+              "Ügyeljen az esetleges téli menetrendi változásokra az ünnepek alatt.",
+              "A feldkirchi állomás kiváló csatlakozásokkal rendelkezik a regionális forgalomhoz."
+            ],
+            "ro": [
+              "Folosiți aplicația 'VMOBIL' pentru conexiuni precise în timpul iernii.",
+              "Autobuzele urbane sunt adesea mai rapide decât căutarea parcării în centru.",
+              "Atenție la eventualele modificări de orar în timpul sărbătorilor.",
+              "Gara Feldkirch are conexiuni bune cu transportul regional."
+            ],
+            "en": [
+              "Use the 'VMOBIL' app for precise connections during winter.",
+              "City buses are often faster than looking for parking in the center.",
+              "Check for potential winter schedule changes during holidays.",
+              "Feldkirch station has excellent regional rail connections."
+            ]
+          }
+        }
       }
     }
   }

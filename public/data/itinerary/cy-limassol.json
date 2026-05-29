@@ -386,6 +386,206 @@
           "A hat and sunscreen are essential.",
           "Most sights in the city center are within easy walking distance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag am Hafen, wo die graue See eine dramatische Kulisse bildet. Das Limassol Castle bietet perfekten Schutz vor dem Regen und faszinierende Geschichte. Mittags finden Sie in den Arkaden der Altstadt gemütliche Lokale. Nachmittags spazieren Sie kurz über den Molos, bevor Sie sich in ein Café flüchten. Der Abend endet in einer warmen Taverne in den engen Gassen.",
+            "hu": "A kikötőben kezdünk, ahol az esőfüggöny drámai látványt nyújt a tenger felett. A várkastély kiváló menedék és gazdag múzeum a záporok idején. Ebédeljünk az óváros fedett teraszain, majd tegyünk egy gyors sétát a Molos sétányon két felhőszakadás között. Az estét töltsük egy hangulatos, meleg fényű tavernában a zegzugos utcák mélyén.",
+            "ro": "Începeți ziua în port, unde cerul gri oferă un decor dramatic deasupra mării. Castelul din Limassol este refugiul perfect împotriva ploii, oferind o incursiune în istorie. La prânz, alegeți restaurantele primitoare din orașul vechi. După-amiaza, Molos oferă o priveliște unică, chiar și sub umbrelă. Seara se încheie cu o cină caldă într-o tavernă tradițională.",
+            "en": "Start at the port where the grey sea creates a dramatic backdrop. Limassol Castle provides perfect shelter and a deep dive into history during showers. Enjoy lunch in the covered alleys of the Old Town. In the afternoon, take a brisk walk along Molos between the rains, then retreat to a cozy cafe. End the evening in a warm, candlelit tavern in the historical center."
+          },
+          "stops": [
+            {
+              "name": "Limassol Old Port",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Gehwege am Pier, um trocken zu bleiben.",
+                "hu": "Használja a móló fedett részeit, hogy elkerülje az elázást.",
+                "ro": "Folosiți zonele acoperite de pe dig pentru a rămâne uscat.",
+                "en": "Use the covered sections of the pier to stay dry while viewing the sea."
+              }
+            },
+            {
+              "name": "Limassol Castle",
+              "tip_5lang": {
+                "de": "Der perfekte Ort für eine Regenpause mit viel Innenraum-Kultur.",
+                "hu": "Tökéletes hely egy esőszünetre a gazdag belső kiállítások közt.",
+                "ro": "Locul ideal pentru o pauză de ploaie cu multe expoziții interioare.",
+                "en": "The perfect spot for a rain break with plenty of indoor exhibits."
+              }
+            },
+            {
+              "name": "Agia Napa Cathedral",
+              "tip_5lang": {
+                "de": "Innen ist es trocken und friedlich – ideal bei einem Gewitter.",
+                "hu": "Odabent száraz és békés a hangulat – ideális zivatar idején.",
+                "ro": "Interiorul este uscat și liniștit – ideal în timpul unei furtuni.",
+                "en": "The interior is dry and peaceful – ideal during a heavy downpour."
+              }
+            },
+            {
+              "name": "Molos Promenade & Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie sich ein Restaurant mit Meerblick hinter Glas.",
+                "hu": "Válasszon üvegfalú éttermet, ahonnan látszik a viharos tenger.",
+                "ro": "Alegeți un restaurant cu pereți de sticlă pentru a vedea marea.",
+                "en": "Choose a glass-walled restaurant to watch the stormy sea while eating."
+              }
+            },
+            {
+              "name": "Limassol Municipal Garden",
+              "tip_5lang": {
+                "de": "Die großen Bäume bieten etwas Schutz, aber Wege können matschig sein.",
+                "hu": "A nagy fák adnak némi védelmet, de az utak sárosak lehetnek.",
+                "ro": "Copacii mari oferă protecție, dar aleile pot fi noroioase.",
+                "en": "Large trees offer some cover, but paths can be muddy after rain."
+              }
+            },
+            {
+              "name": "Limassol Marina",
+              "tip_5lang": {
+                "de": "Viele Boutiquen und Cafés sind hier wettergeschützt erreichbar.",
+                "hu": "Számos üzlet és kávézó érhető el fedett folyosókon keresztül.",
+                "ro": "Multe magazine și cafenele sunt accesibile prin culoare acoperite.",
+                "en": "Many boutiques and cafes are accessible via covered walkways here."
+              }
+            },
+            {
+              "name": "Dinner in the Old Town",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch in der Nähe des Kamins, falls vorhanden.",
+                "hu": "Foglaljon asztalt a kandalló közelében, ha van rá lehetőség.",
+                "ro": "Rezervați o masă lângă șemineu, dacă restaurantul are unul.",
+                "en": "Reserve a table near the back or a heater to dry off while dining."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Pflastersteine in der Altstadt rutschig werden.",
+              "Das Lanitis Carob Mill Museum neben der Burg ist ein toller, trockener Geheimtipp.",
+              "Limassols Busse (Linie 30) sind eine gute Fluchtmöglichkeit bei plötzlichem Starkregen.",
+              "Regenschirme können bei starkem Wind am Meer problematisch sein; Regenponchos sind besser."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óváros kövei csúszóssá válnak az esőtől.",
+              "A vár melletti Lanitis Szentjánoskenyér-múzeum remek fedett program.",
+              "A 30-as busz jó menekülőútvonal, ha hirtelen leszakad az ég a parton.",
+              "A tengerparti szélben az esernyő könnyen tönkremegy, a poncsó praktikusabb."
+            ],
+            "ro": [
+              "Purtați încălțăminte antiderapantă, piatra cubică devine foarte alunecoasă.",
+              "Muzeul Carob Mill de lângă castel este o opțiune excelentă și uscată.",
+              "Autobuzul 30 este o alternativă bună dacă ploaia devine prea densă pe faleză.",
+              "Umbrelele pot fi inutile la malul mării din cauza vântului; folosiți pelerine."
+            ],
+            "en": [
+              "Wear waterproof shoes as the old town's limestone blocks get very slippery.",
+              "The Lanitis Carob Mill Museum next to the castle is a great indoor alternative.",
+              "Use bus line 30 as a quick escape if heavy rain starts while on the promenade.",
+              "Wind can break umbrellas near the sea; a sturdy raincoat or poncho is better."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Limassol ist mild und sonnig, perfekt für lange Spaziergänge ohne Hitze. Morgens glitzert das Meer am Hafen in der kühlen Brise. Die Besichtigung der Burg ist bei moderaten Temperaturen angenehm. Nach einem sonnigen Mittagessen am Molos genießen Sie das goldene Licht des frühen Sonnenuntergangs an der Marina. Die Abende sind kühl und laden zu Wein in der Altstadt ein.",
+            "hu": "A tél Limassolban enyhe és napos, tökéletes a hosszú sétákhoz a hőség nélkül. Reggel a tenger csillogása és a hűvös szellő frissítő a kikötőben. A vár felfedezése sokkal kényelmesebb ilyenkor, mint nyáron. A napsütéses ebéd után a Molos sétányon élvezzük a korai naplemente arany fényeit a Marinánál. Az esték hűvösek, kiválóak egy borozáshoz az óvárosban.",
+            "ro": "Iarna în Limassol este blândă și însorită, ideală pentru plimbări lungi fără arșiță. Dimineața, briza mării este revigorantă în portul vechi. Vizitarea castelului este mult mai plăcută la temperaturi moderate. După un prânz la soare pe Molos, admirați lumina aurie a apusului timpuriu în Marina. Serile devin răcoroase, perfecte pentru un vin în centrul vechi.",
+            "en": "Winter in Limassol is mild and sunny, perfect for long walks without the summer heat. In the morning, the sea sparkles in the cool breeze at the port. Exploring the castle is much more comfortable in these moderate temperatures. After a sunny lunch on Molos, enjoy the golden hour and early sunset at the Marina. Evenings are crisp, calling for a local wine in the Old Town."
+          },
+          "stops": [
+            {
+              "name": "Limassol Old Port",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht auf das Troodos-Gebirge in der Ferne.",
+                "hu": "Élvezze a tiszta kilátást a távoli Tróodosz-hegységre.",
+                "ro": "Admirați vederea clară spre munții Troodos în depărtare.",
+                "en": "Enjoy the crisp, clear views of the Troodos mountains in the distance."
+              }
+            },
+            {
+              "name": "Limassol Castle",
+              "tip_5lang": {
+                "de": "Keine Warteschlangen und angenehme Kühle in den dicken Mauern.",
+                "hu": "Nincsenek sorok, és kellemes a hőmérséklet a vastag falak között.",
+                "ro": "Fără cozi și o temperatură plăcută între zidurile groase.",
+                "en": "No queues and comfortable temperatures inside the thick stone walls."
+              }
+            },
+            {
+              "name": "Agia Napa Cathedral",
+              "tip_5lang": {
+                "de": "Das Winterlicht fällt besonders schön durch die Fenster.",
+                "hu": "A téli fények különösen szépen esnek be az ablakokon.",
+                "ro": "Lumina de iarnă trece superb prin ferestrele catedralei.",
+                "en": "Winter sunlight hits the cathedral windows at a beautiful angle."
+              }
+            },
+            {
+              "name": "Molos Promenade & Lunch",
+              "tip_5lang": {
+                "de": "Setzen Sie sich in die Sonne, um die milde Wärme aufzusaugen.",
+                "hu": "Üljön ki a napra, hogy magába szívja az enyhe téli meleget.",
+                "ro": "Așezați-vă la soare pentru a absorbi căldura blândă de iarnă.",
+                "en": "Sit outside in the sun to soak up the mild winter warmth."
+              }
+            },
+            {
+              "name": "Limassol Municipal Garden",
+              "tip_5lang": {
+                "de": "Die Blumen blühen hier auch im Winter dank des milden Klimas.",
+                "hu": "A virágok a májusi klímának köszönhetően télen is nyílnak.",
+                "ro": "Florile înfloresc chiar și iarna datorită climei blânde.",
+                "en": "Flowers often bloom here even in winter thanks to the Mediterranean climate."
+              }
+            },
+            {
+              "name": "Limassol Marina",
+              "tip_5lang": {
+                "de": "Seien Sie gegen 16:45 Uhr hier für den perfekten Sonnenuntergang.",
+                "hu": "Legyen itt 16:45 körül a tökéletes téli naplementéhez.",
+                "ro": "Fiți aici în jur de 16:45 pentru un apus de soare perfect.",
+                "en": "Be here around 16:45 for the perfect winter sunset over the yachts."
+              }
+            },
+            {
+              "name": "Dinner in the Old Town",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Außenheizung für das echte Feeling.",
+                "hu": "Válasszon kültéri hősugárzóval felszerelt helyet a hangulatért.",
+                "ro": "Alegeți un loc cu încălzitoare exterioare pentru atmosferă.",
+                "en": "Pick a place with outdoor heaters to enjoy the evening air comfortably."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht früh unter (ca. 17:00), planen Sie Aktivitäten im Freien für davor.",
+              "Zwiebelprinzip: Tagsüber T-Shirt-Wetter, abends wird es schnell kühl.",
+              "Winter ist die beste Zeit für Fotos ohne Touristenmassen.",
+              "Probieren Sie Commandaria-Wein, er wärmt an kühlen zyprischen Abenden."
+            ],
+            "hu": [
+              "A nap korán nyugszik (17:00 körül), a kinti programokat időzítse korábbra.",
+              "Öltözködjön rétegesen: nappal pólóidő van, de este gyorsan lehűl.",
+              "A tél a legjobb időszak a fotózásra a turistaáradat nélkül.",
+              "Kóstolja meg a Commandaria bort, remekül melegít a hűvös estéken."
+            ],
+            "ro": [
+              "Soarele apune devreme (aprox. 17:00), planificați exteriorul înainte.",
+              "Folosiți straturi: ziua e de tricou, dar seara se răcește brusc.",
+              "Iarna este cel mai bun moment pentru poze fără mulțimi de turiști.",
+              "Încercați vinul Commandaria, este perfect pentru serile răcoroase."
+            ],
+            "en": [
+              "Sunset is early (around 17:00), so finish your outdoor photos by then.",
+              "Dress in layers: it's T-shirt weather at noon but chilly after dark.",
+              "Winter is the peak season for photography without crowds.",
+              "Try the local Commandaria dessert wine; it's perfect for cool nights."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +942,188 @@
           "Always lock your bike securely.",
           "Watch out for pedestrians on the promenade."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht, aber Limassol bleibt charmant. Starten Sie an der Marina und nutzen Sie die kurzen Wege zur Burg. Mittags am Molos glänzt der Asphalt silbern. Das Carob Mill Museum ist ein idealer Stopp, um das Rad sicher abzustellen und sich aufzuwärmen. Beenden Sie die Tour am Nachmittag, bevor die Sicht schlechter wird, und genießen Sie heißen Kaffee.",
+            "hu": "A kerékpározás esőben óvatosságot igényel, de Limassol így is bájos. Kezdjen a Marinánál, és használja a rövid utat a várig. Délben a Molos aszfaltja ezüstösen csillog. A Szentjánoskenyér-múzeum ideális megálló, ahol biztonságban hagyhatja a gépet és átmelegedhet. Délután fejezze be a túrát, mielőtt romlanak a látási viszonyok, és igyon egy forró kávét.",
+            "ro": "O tură cu bicicleta pe ploaie necesită atenție, dar Limassol își păstrează farmecul. Începeți la Marina și folosiți drumul scurt spre castel. La prânz, asfaltul de pe Molos strălucește argintiu. Muzeul Carob Mill este o oprire ideală pentru a lăsa bicicleta la adăpost. Încheiați tura după-amiaza, înainte ca vizibilitatea să scadă, cu o cafea fierbinte.",
+            "en": "Cycling in the rain requires caution, but Limassol remains charming. Start at the Marina and take the short route to the castle. At noon, the Molos asphalt shines silver under the droplets. The Carob Mill Museum is an ideal stop to park the bike safely and warm up. Finish the tour in the afternoon before visibility drops, and enjoy a hot Cypriot coffee."
+          },
+          "stops": [
+            {
+              "name": "Start at Limassol Marina",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, sie reagieren bei Nässe langsamer.",
+                "hu": "Ellenőrizze a fékeket, nedves úton lassabban fognak.",
+                "ro": "Verificați frânele, acestea reacționează mai greu pe ud.",
+                "en": "Check your brakes as they respond slower on wet surfaces."
+              }
+            },
+            {
+              "name": "Limassol Castle & Old Port",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad unter dem Dach des Carob Mill Gebäudes.",
+                "hu": "Parkoljon a Szentjánoskenyér-múzeum épületének eresze alatt.",
+                "ro": "Parcați bicicleta sub streașina clădirii Carob Mill.",
+                "en": "Park your bike under the overhang of the Carob Mill building."
+              }
+            },
+            {
+              "name": "Ride along Molos Promenade",
+              "tip_5lang": {
+                "de": "Achtung: Die Holzstege können extrem rutschig sein!",
+                "hu": "Vigyázat: a faborítású sétányok rendkívül csúszósak lehetnek!",
+                "ro": "Atenție: podețele de lemn pot fi extrem de alunecoase!",
+                "en": "Caution: the wooden deck sections can be extremely slippery!"
+              }
+            },
+            {
+              "name": "Municipal Garden & Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz mit Blick auf Ihr Rad im Trockenen.",
+                "hu": "Keressen olyan helyet, ahonnan látja a lezárt biciklijét.",
+                "ro": "Căutați un loc de unde puteți vedea bicicleta la adăpost.",
+                "en": "Find a seat where you can keep an eye on your bike from the dry."
+              }
+            },
+            {
+              "name": "Carob Mill Museum",
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um die schwerste Regenzeit auszusitzen.",
+                "hu": "Nagyszerű hely, hogy kivárja a nagyobb felhőszakadást.",
+                "ro": "Un loc excelent pentru a aștepta trecerea ploii torențiale.",
+                "en": "A great indoor spot to wait out the heaviest downpours."
+              }
+            },
+            {
+              "name": "Relaxing on the beach (east of the promenade)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Brandung, aber bleiben Sie auf befestigten Wegen.",
+                "hu": "Élvezze a hullámverést, de maradjon a kövezett úton.",
+                "ro": "Admirați valurile, dar rămâneți pe drumurile pavate.",
+                "en": "Enjoy the waves from a distance, staying on the paved path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie Pfützen, sie könnten tiefer sein, als sie aussehen.",
+              "Nutzen Sie die markierten Radwege am Molos, halten Sie Abstand zu Fußgängern.",
+              "Tragen Sie helle, reflektierende Kleidung bei Regen für bessere Sichtbarkeit.",
+              "Reinigen Sie die Kette nach der Fahrt vom salzigen Meerwasser-Regen-Mix."
+            ],
+            "hu": [
+              "Kerülje el a tócsákat, mélyebbek lehetnek, mint aminek látszanak.",
+              "Használja a Molos kijelölt kerékpárútjait, tartson távolságot a gyalogosoktól.",
+              "Viseljen világos, fényvisszaverő ruhát a jobb láthatóságért.",
+              "Takarítsa le a láncot a sós tengeri eső után, hogy megelőzze a rozsdát."
+            ],
+            "ro": [
+              "Evitați bălțile, pot fi mai adânci decât par la prima vedere.",
+              "Folosiți pistele de biciclete de pe Molos și păstrați distanța.",
+              "Purtați haine reflectorizante pentru a fi vizibil în trafic pe ploaie.",
+              "Curățați lanțul după tură din cauza amestecului de sare și apă."
+            ],
+            "en": [
+              "Avoid puddles as they might be deeper than they appear on the path.",
+              "Stick to the dedicated bike lanes on Molos and watch for pedestrians.",
+              "Wear bright or reflective clothing for better visibility in grey weather.",
+              "Wipe down your chain after the ride to prevent salt-water corrosion."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter ist die goldene Zeit für Radfahrer in Limassol. Die Luft ist frisch, die Sonne wärmt sanft und man schwitzt kaum. Starten Sie an der Marina und rollen Sie entspannt zur Burg. Mittags bietet der Molos viel Platz für eine Fahrt am Meer. Der Nachmittag eignet sich perfekt für die längere Strecke Richtung Osten zum Strand, wo das Licht der tiefstehenden Sonne die Wellen vergoldet.",
+            "hu": "A tél az aranykor a limassoli bringásoknak. Friss a levegő, a nap lágyan melegít, és alig izzad az ember. Kezdjen a Marinánál, és guruljon el a várig. Délben a Molos sétányon bőven van hely a tengerparti tekeréshez. A délután tökéletes egy hosszabb úthoz kelet felé a strandokhoz, ahol az alacsonyan járó nap aranyba vonja a hullámokat.",
+            "ro": "Iarna este epoca de aur pentru bicicliștii din Limassol. Aerul e proaspăt, soarele încălzește blând și nu transpiri. Începeți la Marina și rulați relaxat spre castel. La prânz, faleza Molos oferă spațiu generos pentru pedalat. După-amiaza este ideală pentru o tură mai lungă spre est, unde soarele apune superb peste mare.",
+            "en": "Winter is the golden era for cyclists in Limassol. The air is crisp, the sun warms gently, and you barely break a sweat. Start at the Marina and coast easily to the castle. At noon, the Molos promenade offers plenty of space for seaside riding. The afternoon is perfect for a longer trek east towards the beaches, where the low winter sun gilds the waves."
+          },
+          "stops": [
+            {
+              "name": "Start at Limassol Marina",
+              "tip_5lang": {
+                "de": "Perfekte Temperaturen für einen aktiven Start in den Tag.",
+                "hu": "Tökéletes hőmérséklet a nap aktív kezdéséhez.",
+                "ro": "Temperaturi perfecte pentru un început de zi activ.",
+                "en": "Perfect temperatures for an active start to your day."
+              }
+            },
+            {
+              "name": "Limassol Castle & Old Port",
+              "tip_5lang": {
+                "de": "Wenig Betrieb, ideal zum Manövrieren in den Gassen.",
+                "hu": "Kevés a gyalogos, ideális az óvárosi manőverezéshez.",
+                "ro": "Trafic pietonal redus, ideal pentru manevre în orașul vechi.",
+                "en": "Low foot traffic makes maneuvering through the alleys easy."
+              }
+            },
+            {
+              "name": "Ride along Molos Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie den frischen Wind ohne die Sommerhitze.",
+                "hu": "Élvezze a friss szelet a nyári hőség nélkül.",
+                "ro": "Bucurați-vă de briza proaspătă fără canicula verii.",
+                "en": "Enjoy the fresh sea breeze without the oppressive summer heat."
+              }
+            },
+            {
+              "name": "Municipal Garden & Lunch",
+              "tip_5lang": {
+                "de": "Ein schattiger Platz ist jetzt ein sonniger Platz der Wahl.",
+                "hu": "Az árnyékos helyek helyett most válassza a napsütötte padokat.",
+                "ro": "În locul umbrei, alegeți acum locurile însorite pentru pauză.",
+                "en": "Swap the shade for a sunny bench to soak up the Vitamin D."
+              }
+            },
+            {
+              "name": "Carob Mill Museum",
+              "tip_5lang": {
+                "de": "Die Steine speichern die Wärme angenehm.",
+                "hu": "A kőfalak ilyenkor kellemesen tartják a benti meleget.",
+                "ro": "Zidurile de piatră păstrează o temperatură plăcută în interior.",
+                "en": "The stone walls maintain a pleasantly steady indoor temperature."
+              }
+            },
+            {
+              "name": "Relaxing on the beach (east of the promenade)",
+              "tip_5lang": {
+                "de": "Das Licht für Fotos ist jetzt am schönsten. Denken Sie an Licht!",
+                "hu": "Most a legszebbek a fények a fotózáshoz. Ügyeljen a lámpákra!",
+                "ro": "Lumina pentru fotografii este acum superbă. Verificați farurile!",
+                "en": "The photography light is peak now. Check your bike lights for the return!"
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne wärmt, aber der Fahrtwind kann kühl sein – eine Weste hilft.",
+              "Die Radwege sind im Winter weniger von Touristen blockiert.",
+              "Nehmen Sie trotzdem Wasser mit, die Wintersonne auf Zypern ist stark.",
+              "Überprüfen Sie Ihre Beleuchtung, da es ab 17:00 Uhr dunkel wird."
+            ],
+            "hu": [
+              "A nap melegít, de a menetszél hűvös lehet – egy mellény sokat segít.",
+              "A kerékpárutakat télen kevesebb turista blokkolja, gyorsabb a haladás.",
+              "Vigyen vizet, a ciprusi téli nap még ilyenkor is intenzív.",
+              "Ellenőrizze a lámpákat, mert 17:00 után hirtelen sötétedik."
+            ],
+            "ro": [
+              "Soarele încălzește, dar vântul poate fi rece – o vestă este utilă.",
+              "Pistele de biciclete sunt mai libere de turiști în acest sezon.",
+              "Luați apă la voi, soarele de iarnă din Cipru este încă puternic.",
+              "Verificați luminile bicicletei, se întunecă rapid după ora 17:00."
+            ],
+            "en": [
+              "The sun is warm but the wind chill is real – a gilet is a great choice.",
+              "Bike paths are less congested with tourists during the winter months.",
+              "Stay hydrated; the Cypriot winter sun is surprisingly dehydrating.",
+              "Ensure your lights are working as it gets dark quickly after 17:00."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1146,6 +1528,224 @@
           "A GPS is very helpful for navigating in and around the city.",
           "Pay attention to parking fees and times."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist ein Regentag in Limassol entspannt. Starten Sie bei den Ruinen von Amathus, wo der nasse Stein dunkler und mystischer wirkt. Das Archäologische Museum ist danach der perfekte Zufluchtsort. Mittags parken Sie bequem am Stadtgarten. Die Fahrt entlang der Küste bietet tolle Ausblicke auf die stürmische See, während Sie im Warmen sitzen. Der Abend endet stilvoll an der Marina.",
+            "hu": "Autóval kényelmes az esős nap Limassolban. Kezdje Amathus romjainál, ahol a vizes kő sötétebb és misztikusabb látványt nyújt. A Régészeti Múzeum ezután tökéletes menedék. Ebédhez parkoljon kényelmesen a városi kertnél. A part menti autózás során csodálja a viharos tengert a fűtött kocsiból. Az estét zárja stílusosan a Marina kikötőben.",
+            "ro": "Cu mașina, o zi ploioasă în Limassol este relaxantă. Începeți la ruinele din Amathus, unde piatra udă pare mai mistică. Muzeul Arheologic este refugiul perfect după aceea. La prânz, parcați comod lângă grădina municipală. Condusul de-a lungul coastei oferă vederi superbe spre marea agitată. Seara se încheie cu stil la Marina.",
+            "en": "Exploring Limassol by car makes a rainy day easy and dry. Start at the ruins of Amathus, where the wet limestone looks dark and mystical. The Archaeological Museum is the perfect indoor retreat afterwards. Park easily near the Municipal Garden for lunch. Driving along the coast offers great views of the stormy Mediterranean from your warm cabin. End the night at the Marina."
+          },
+          "stops": [
+            {
+              "name": "Ruins of Amathus",
+              "tip_5lang": {
+                "de": "Vorsicht auf unbefestigten Wegen, sie können matschig sein.",
+                "hu": "Vigyázzon a kövezetlen utakon, sárosak és csúszósak lehetnek.",
+                "ro": "Atenție pe potecile neasfaltate, pot fi noroioase.",
+                "en": "Be careful on the unpaved paths as they can get muddy and slick."
+              }
+            },
+            {
+              "name": "Limassol Archaeological Museum",
+              "tip_5lang": {
+                "de": "Ideal bei Starkregen, Parkplätze direkt vor der Tür.",
+                "hu": "Ideális szakadó esőben, parkoló közvetlenül a bejáratnál.",
+                "ro": "Ideal pe ploaie torențială, parcare chiar în fața intrării.",
+                "en": "Ideal during heavy rain, with parking right at the entrance."
+              }
+            },
+            {
+              "name": "Municipal Garden & Lunch",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus in der Nähe, um trocken ins Lokal zu kommen.",
+                "hu": "Használja a közeli parkolóházat, hogy szárazon jusson az étterembe.",
+                "ro": "Folosiți parcarea etajată din apropiere pentru a ajunge uscat.",
+                "en": "Use a nearby parking garage to reach the restaurant without getting wet."
+              }
+            },
+            {
+              "name": "Limassol Castle",
+              "tip_5lang": {
+                "de": "Parken Sie an der Promenade und nutzen Sie den kurzen Fußweg.",
+                "hu": "Parkoljon a sétányon, és tegyen meg pár lépést az esőben.",
+                "ro": "Parcați pe faleză și parcurgeți distanța scurtă pe jos.",
+                "en": "Park on the promenade for a very short walk to the entrance."
+              }
+            },
+            {
+              "name": "Agia Napa Cathedral",
+              "tip_5lang": {
+                "de": "Die Altstadtgassen sind eng, parken Sie lieber etwas außerhalb.",
+                "hu": "Az óvárosi utcák szűkek, érdemesebb kicsit távolabb parkolni.",
+                "ro": "Străzile vechi sunt înguste, mai bine parcați puțin mai departe.",
+                "en": "Old town streets are narrow; park slightly further out for ease."
+              }
+            },
+            {
+              "name": "Molos Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick vom Auto aus, wenn es zu stark regnet.",
+                "hu": "Élvezze a kilátást az autóból, ha túl erősen esne az eső.",
+                "ro": "Admirați vederea din mașină dacă plouă prea tare.",
+                "en": "Enjoy the view from the comfort of your car if it's pouring."
+              }
+            },
+            {
+              "name": "Limassol Marina",
+              "tip_5lang": {
+                "de": "Das Parkhaus der Marina ist überdacht und sehr komfortabel.",
+                "hu": "A Marina parkolóháza fedett és nagyon kényelmes.",
+                "ro": "Parcarea din Marina este acoperită și foarte confortabilă.",
+                "en": "The Marina's parking garage is covered and very convenient."
+              }
+            },
+            {
+              "name": "Return to the car",
+              "tip_5lang": {
+                "de": "Schütteln Sie den Schirm gut ab, bevor Sie einsteigen.",
+                "hu": "Rázza le alaposan az esernyőt, mielőtt beszállna az autóba.",
+                "ro": "Scuturați bine umbrela înainte de a intra în mașină.",
+                "en": "Shake your umbrella thoroughly before getting back into the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Küstenstraße nach Amathus.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto, auch nicht bei Regen.",
+              "Die Parkhäuser am Hafen und an der Marina sind bei Regen die beste Wahl.",
+              "Zyprische Fahrer können bei Regen unberechenbar sein, halten Sie Abstand."
+            ],
+            "hu": [
+              "Ügyeljen a vízenfutásra (aquaplaning) az Amathus felé vezető úton.",
+              "Ne hagyjon értéket látható helyen az autóban, esőben sem.",
+              "A kikötő és a Marina parkolóházai a legjobb választások eső idején.",
+              "A ciprusi sofőrök kiszámíthatatlanok lehetnek esőben, tartson távolságot."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul de coastă spre Amathus.",
+              "Nu lăsați obiecte de valoare la vedere în mașină, nici pe ploaie.",
+              "Parcările acoperite din port și Marina sunt cele mai bune opțiuni.",
+              "Șoferii ciprioți pot fi imprevizibili pe ploaie; păstrați distanța."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the coastal road to Amathus.",
+              "Don't leave valuables visible in the car, even during a quick stop.",
+              "The multi-storey car parks at the Old Port and Marina are your best bet.",
+              "Local drivers can be erratic in the rain; keep a safe following distance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter ist die ideale Zeit für eine Autotour nach Amathus, da die Hitze die Erkundung der Ruinen nicht erschwert. Genießen Sie die klare Winterluft und den weiten Blick. Das Archäologische Museum bietet eine spannende Pause. In der Stadt finden Sie im Winter leichter Parkplätze. Nutzen Sie den Nachmittag für eine Fahrt entlang der Küste, wenn das Licht der tiefstehenden Sonne perfekt für Panoramafotos ist.",
+            "hu": "A tél ideális az amathusi autós kiránduláshoz, mert a hőség nem akadályozza a romok bejárását. Élvezze a tiszta téli levegőt és a messzi kilátást. A Régészeti Múzeum izgalmas pihenőt kínál. A városban télen könnyebben találunk parkolót. Használja ki a délutánt a part menti autózásra, amikor az alacsonyan járó nap fényei tökéletesek a panorámaképekhez.",
+            "ro": "Iarna este momentul ideal pentru o excursie cu mașina la Amathus, deoarece căldura nu îngreunează explorarea. Bucurați-vă de aerul clar și de vederea panoramică. Muzeul Arheologic oferă o pauză interesantă. În oraș, locurile de parcare sunt mai ușor de găsit iarna. Profitați de după-amiază pentru un drum pe coastă în lumina caldă a soarelui.",
+            "en": "Winter is the prime time for a car trip to Amathus, as the mild weather makes exploring the ruins effortless. Enjoy the crisp air and expansive views. The Archaeological Museum provides a fascinating interlude. In town, parking is generally easier to find than in mid-summer. Dedicate the afternoon to a coastal drive when the low sun is perfect for landscape photography."
+          },
+          "stops": [
+            {
+              "name": "Ruins of Amathus",
+              "tip_5lang": {
+                "de": "Kein Schatten nötig – wandern Sie bis ganz nach oben!",
+                "hu": "Nincs szükség árnyékra – túrázzon fel egészen a csúcsig!",
+                "ro": "Nu aveți nevoie de umbră – urcați până în cel mai înalt punct!",
+                "en": "No shade needed – this is the best time to hike to the very top!"
+              }
+            },
+            {
+              "name": "Limassol Archaeological Museum",
+              "tip_5lang": {
+                "de": "Angenehm temperiert und weniger überlaufen als im Sommer.",
+                "hu": "Kellemes a benti klíma és kevésbé zsúfolt, mint nyáron.",
+                "ro": "Temperatură plăcută și mult mai puțin aglomerat decât vara.",
+                "en": "Pleasantly tempered and much less crowded than in the summer."
+              }
+            },
+            {
+              "name": "Municipal Garden & Lunch",
+              "tip_5lang": {
+                "de": "Genießen Sie die Winterblüte im Garten nach dem Essen.",
+                "hu": "Élvezze a téli virágzást a kertben az ebéd utáni sétán.",
+                "ro": "Admirați florile de iarnă din grădină după masa de prânz.",
+                "en": "Enjoy the winter blooms in the garden during your post-lunch stroll."
+              }
+            },
+            {
+              "name": "Limassol Castle",
+              "tip_5lang": {
+                "de": "Perfektes Fotolicht an den alten Mauern ohne grelle Sonne.",
+                "hu": "Tökéletes fotófények a falakon, nincs vakító napsütés.",
+                "ro": "Lumină perfectă pentru poze pe ziduri, fără soare orbitor.",
+                "en": "Perfect photographic light on the stones without harsh shadows."
+              }
+            },
+            {
+              "name": "Agia Napa Cathedral",
+              "tip_5lang": {
+                "de": "Die Cafés rundherum haben jetzt oft gemütliche Decken.",
+                "hu": "A környékbeli kávézókban gyakran adnak puha pokrócot.",
+                "ro": "Cafenelele din jur oferă adesea pături călduroase clienților.",
+                "en": "Nearby cafes often provide cozy blankets for outdoor seating."
+              }
+            },
+            {
+              "name": "Molos Promenade",
+              "tip_5lang": {
+                "de": "Ideal für einen Spaziergang vor dem Sonnenuntergang.",
+                "hu": "Ideális egy sétához közvetlenül a naplemente előtt.",
+                "ro": "Ideal pentru o plimbare chiar înainte de apusul soarelui.",
+                "en": "Ideal for a brisk walk just before the sun dips below the horizon."
+              }
+            },
+            {
+              "name": "Limassol Marina",
+              "tip_5lang": {
+                "de": "Die Abendbeleuchtung ist im Winter besonders stimmungsvoll.",
+                "hu": "Az esti kivilágítás télen különösen hangulatos a kikötőben.",
+                "ro": "Iluminatul de seară este extrem de atmosferic în timpul iernii.",
+                "en": "The evening illuminations are especially atmospheric in winter."
+              }
+            },
+            {
+              "name": "Return to the car",
+              "tip_5lang": {
+                "de": "Die Klimaanlage hilft gegen beschlagene Scheiben am Abend.",
+                "hu": "A klíma segít a párásodó szélvédő ellen az esti hűvösben.",
+                "ro": "Aerul condiționat ajută împotriva aburirii parbrizului seara.",
+                "en": "Use the A/C to quickly defog the windows in the evening chill."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkplatzsuche in der Innenstadt ist im Winter deutlich entspannter.",
+              "Denken Sie an eine Sonnenbrille – die tiefstehende Wintersonne blendet beim Fahren.",
+              "Amathus ist im Winter grün, ein seltener und schöner Anblick.",
+              "Planen Sie die Rückfahrt vor 17 Uhr, wenn Sie Tageslicht bevorzugen."
+            ],
+            "hu": [
+              "A belvárosi parkolás télen sokkal egyszerűbb és gyorsabb.",
+              "Vigyen napszemüveget, az alacsonyan járó téli nap erősen vakíthat vezetéskor.",
+              "Amathus ilyenkor zöldell, ami ritka és gyönyörű látvány.",
+              "Tervezze a visszautat 17 óra előttre, ha nappali fényben szeretne vezetni."
+            ],
+            "ro": [
+              "Găsirea unui loc de parcare în centru este mult mai ușoară iarna.",
+              "Nu uitați ochelarii de soare, soarele jos poate fi orbitor la volan.",
+              "Amathus este verde iarna, o priveliște rară și deosebit de frumoasă.",
+              "Planificați întoarcerea înainte de ora 17:00 pentru a conduce pe lumină."
+            ],
+            "en": [
+              "Parking in the city center is much less stressful in the winter months.",
+              "Keep sunglasses handy – the low winter sun can be blinding while driving.",
+              "Amathus is lush and green in winter, a stark contrast to the summer brown.",
+              "Aim to be heading back by 17:00 if you prefer driving in daylight."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1526,6 +2126,206 @@
           "Buses can be crowded during peak hours.",
           "Keep your ticket for any inspections."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus durch das verregnete Limassol zu reisen, ist eine authentische Erfahrung. Starten Sie an der Old Town Station und fahren Sie nach Amathus, während die Tropfen gegen die Scheiben trommeln. Mittags wärmen Sie sich in einem Restaurant nahe der Ruinen auf. Die Linie 30 bringt Sie trocken zurück zum Molos und zur Marina. Der Abend in der Marina bietet kurze Wege zwischen den überdachten Bereichen.",
+            "hu": "Busszal utazni az esős Limassolban igazi helyi élmény. Kezdjen az óvárosi buszállomáson, és utazzon Amathusba, miközben az eső kopog az ablakon. Ebédeljen a romok közeli éttermek egyikében. A 30-as busz szárazon viszi vissza a Molos sétányhoz és a Marinához. Az este a kikötőben telik, ahol a fedett részek között csak pár lépést kell megtenni az esőben.",
+            "ro": "Călătoria cu autobuzul prin Limassol pe ploaie este o experiență autentică. Începeți la autogara din orașul vechi și mergeți spre Amathus. La prânz, încălziți-vă într-un restaurant lângă ruine. Linia 30 vă aduce înapoi uscat la Molos și Marina. Seara în Marina oferă distanțe scurte între zonele acoperite ale restaurantelor.",
+            "en": "Traveling by bus through rainy Limassol is a cozy way to see the city. Start at the Old Town station and ride to Amathus while raindrops race down the windows. Warm up with a long lunch near the ruins. Bus 30 brings you back dry to Molos and the Marina. The Marina area is great for the evening as restaurants are closely packed with covered walkways."
+          },
+          "stops": [
+            {
+              "name": "Start at the Old Town bus station",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Bereich der Station.",
+                "hu": "Várjon az állomás fedett részén a busz érkezéséig.",
+                "ro": "Așteptați în zona acoperită a autogării.",
+                "en": "Wait in the covered section of the station until your bus arrives."
+              }
+            },
+            {
+              "name": "Ruins of Amathus",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet nur wenig Schutz – Schirm bereit halten.",
+                "hu": "A buszmegálló kevés védelmet ad – legyen kéznél az esernyő.",
+                "ro": "Stația de autobuz oferă puțină protecție; țineți umbrela pregătită.",
+                "en": "The bus stop here has limited shelter – keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Lunch near Amathus",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal direkt an der Hauptstraße für kurze Wege.",
+                "hu": "Válasszon éttermet a főút mellett a rövid séta érdekében.",
+                "ro": "Alegeți un local direct la drumul principal pentru acces rapid.",
+                "en": "Pick a restaurant right on the main road for a very short wet walk."
+              }
+            },
+            {
+              "name": "Molos Promenade",
+              "tip_5lang": {
+                "de": "Die Buslinie 30 hält an vielen Stellen entlang des Molos.",
+                "hu": "A 30-as busz számos helyen megáll a Molos sétány mentén.",
+                "ro": "Linia 30 oprește în numeroase puncte de-a lungul falezei Molos.",
+                "en": "Bus line 30 has multiple stops along Molos; pick the closest one."
+              }
+            },
+            {
+              "name": "Limassol Castle & Old Town",
+              "tip_5lang": {
+                "de": "Die Gassen bieten etwas Windschutz bei Regen.",
+                "hu": "A szűk utcák némi szélvédettséget adnak esőben.",
+                "ro": "Străduțele înguste oferă puțină protecție împotriva vântului.",
+                "en": "The narrow alleys provide some wind protection during showers."
+              }
+            },
+            {
+              "name": "Limassol Marina",
+              "tip_5lang": {
+                "de": "Der Busstopp liegt direkt am Eingang zur Marina.",
+                "hu": "A buszmegálló közvetlenül a Marina bejáratánál található.",
+                "ro": "Stația de autobuz este chiar la intrarea în Marina.",
+                "en": "The bus stop is located right at the entrance to the Marina."
+              }
+            },
+            {
+              "name": "Dinner at the Marina",
+              "tip_5lang": {
+                "de": "Perfekt, da alles nah beieinander liegt.",
+                "hu": "Tökéletes választás, mivel minden közel van egymáshoz.",
+                "ro": "O alegere perfectă, deoarece totul este foarte aproape.",
+                "en": "A perfect choice as everything is within a very short walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die 'Cyprus Bus' App für Echtzeit-Infos herunter.",
+              "Halten Sie Kleingeld für das Ticket bereit, falls Sie keine Karte haben.",
+              "Die Linie 30 ist die Lebensader für Touristen und fährt oft.",
+              "Busse können bei Regen etwas voller sein – steigen Sie früh ein."
+            ],
+            "hu": [
+              "Töltse le a 'Cyprus Bus' alkalmazást a valós idejű menetrendhez.",
+              "Legyen kéznél aprópénz a jegyhez, ha nincs feltöltőkártyája.",
+              "A 30-as busz a turisták fővonala, nagyon sűrűn közlekedik.",
+              "Esőben a buszok zsúfoltabbak lehetnek, próbáljon időben felszállni."
+            ],
+            "ro": [
+              "Descărcați aplicația 'Cyprus Bus' pentru informații în timp real.",
+              "Aveți mărunt pentru bilet dacă nu folosiți un card de transport.",
+              "Linia 30 este principala rută turistică și circulă foarte frecvent.",
+              "Autobuzele pot fi mai aglomerate pe ploaie; urcați din timp."
+            ],
+            "en": [
+              "Download the 'Cyprus Bus' app for real-time arrival information.",
+              "Have exact change ready for the driver if you don't have a smart card.",
+              "Line 30 is the tourist backbone of the city and runs very frequently.",
+              "Buses get crowded during rain; try to board at major stops to get a seat."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind im Winter in Limassol entspannt und effizient. Starten Sie an der Old Town Station und genießen Sie die Fahrt nach Amathus ohne die Sommerhitze im Bus. Die Ruinen sind bei kühler Luft ideal zu erkunden. Mittags stärken Sie sich lokal, bevor Sie mit der Linie 30 zurück zum Molos fahren. Den Sonnenuntergang erleben Sie an der Marina, bevor Sie bequem mit dem Bus zurückfahren.",
+            "hu": "A tömegközlekedés télen Limassolban nyugodt és hatékony. Kezdjen az óvárosi buszállomáson, és élvezze az utat Amathusba a nyári forróság nélkül. A romok felfedezése a hűvös levegőn sokkal kellemesebb. Ebédeljen helyi finomságokat, majd a 30-as busszal térjen vissza a Molos sétányhoz. A naplementét a Marinánál nézze meg, majd kényelmesen buszozzon haza.",
+            "ro": "Transportul public în Limassol iarna este relaxat și eficient. Începeți la autogara orașului vechi și bucurați-vă de drumul spre Amathus fără zăpușeala din autobuz. Ruinele sunt ideale de explorat pe aerul răcoros. După prânz, reveniți cu linia 30 la Molos. Admirați apusul în Marina înainte de a lua autobuzul înapoi spre cazare.",
+            "en": "Public transit in winter Limassol is relaxed and highly efficient. Start at the Old Town station and enjoy the ride to Amathus without the summer heat inside the bus. Exploring the ancient ruins is much more pleasant in the cool air. Enjoy a local lunch, then take line 30 back to Molos. Watch the sunset at the Marina before catching a comfortable bus back."
+          },
+          "stops": [
+            {
+              "name": "Start at the Old Town bus station",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse pünktlicher, da weniger Verkehr ist.",
+                "hu": "Télen a buszok pontosabbak, mert kisebb a forgalom az utakon.",
+                "ro": "Iarna autobuzele sunt mai punctuale datorită traficului redus.",
+                "en": "Buses are often more punctual in winter due to lighter traffic."
+              }
+            },
+            {
+              "name": "Ruins of Amathus",
+              "tip_5lang": {
+                "de": "Die kühle Brise an der Haltestelle ist erfrischend.",
+                "hu": "A buszmegállóban érezhető hűvös szellő ilyenkor frissítő.",
+                "ro": "Briza răcoroasă din stație este revigorantă în acest sezon.",
+                "en": "The cool breeze at the coastal stop is refreshing, not stifling."
+              }
+            },
+            {
+              "name": "Lunch near Amathus",
+              "tip_5lang": {
+                "de": "Viele Lokale sind auch im Winter bei Einheimischen beliebt.",
+                "hu": "Számos hely télen is népszerű a helyiek körében.",
+                "ro": "Multe localuri rămân populare printre localnici și iarna.",
+                "en": "Many restaurants remain popular with locals throughout the winter."
+              }
+            },
+            {
+              "name": "Molos Promenade",
+              "tip_5lang": {
+                "de": "Steigen Sie an der Haltestelle 'Katholiki' für den besten Start aus.",
+                "hu": "Szálljon le a 'Katholiki' megállónál a legjobb kezdéshez.",
+                "ro": "Coborâți la stația 'Katholiki' pentru cel mai bun punct de pornire.",
+                "en": "Disembark at the 'Katholiki' stop for the best starting point."
+              }
+            },
+            {
+              "name": "Limassol Castle & Old Town",
+              "tip_5lang": {
+                "de": "Die Busse halten nur 5 Gehminuten von der Burg entfernt.",
+                "hu": "A buszok mindössze 5 perc sétára állnak meg a vártól.",
+                "ro": "Autobuzele opresc la doar 5 minute de mers pe jos de castel.",
+                "en": "The bus stops are just a 5-minute walk from the castle entrance."
+              }
+            },
+            {
+              "name": "Limassol Marina",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus für den Rückweg, wenn es nach 17 Uhr kühl wird.",
+                "hu": "Használja a buszt a visszaúthoz, ha 17 óra után lehűl az idő.",
+                "ro": "Folosiți autobuzul la întoarcere dacă se face răcoare după ora 17.",
+                "en": "Take the bus back if the temperature drops quickly after 17:00."
+              }
+            },
+            {
+              "name": "Dinner at the Marina",
+              "tip_5lang": {
+                "de": "Letzte Busse fahren bis spät in die Nacht (ca. 23:30).",
+                "hu": "Az utolsó buszok késő estig járnak (kb. 23:30-ig).",
+                "ro": "Ultimele autobuze circulă până târziu în noapte (aprox. 23:30).",
+                "en": "The last buses run until late at night (around 23:30)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein Tagesticket lohnt sich oft schon ab drei Fahrten.",
+              "Im Winter ist es im Bus oft wärmer als draußen – Schichten helfen.",
+              "Die Fahrpläne sind im Winter stabil, aber seltener am Wochenende.",
+              "Fragen Sie den Fahrer nach der 'Marina' Haltestelle, falls unsicher."
+            ],
+            "hu": [
+              "A napijegy gyakran már három utazástól megéri az árát.",
+              "Télen a buszokon gyakran melegebb van, mint kint – öltözzön rétegesen.",
+              "A menetrend télen stabil, de hétvégén ritkábbak a járatok.",
+              "Kérdezze a sofőrt a 'Marina' megállóról, ha nem biztos benne."
+            ],
+            "ro": [
+              "Un bilet de o zi merită adesea de la a treia călătorie în sus.",
+              "Iarna este adesea mai cald în autobuz decât afară – folosiți straturi.",
+              "Orarele sunt stabile iarna, dar cursele sunt mai rare în weekend.",
+              "Întrebați șoferul despre stația 'Marina' dacă nu sunteți sigur."
+            ],
+            "en": [
+              "A day pass often pays for itself after just three trips.",
+              "Buses can be quite warm in winter compared to the outside air.",
+              "Schedules are stable in winter, but service is less frequent on weekends.",
+              "Ask the driver for the 'Marina' stop if you are unsure where to hop off."
+            ]
+          }
+        }
       }
     }
   }

@@ -356,6 +356,196 @@
           "Check the museum's opening times in advance as they can vary.",
           "Entry to the Cathedral is free, but donations are welcome."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein grauer Morgen an der Shire Hall, wo die klassische Fassade im Regen glänzt. Die nahe Kathedrale bietet bald trockenen Unterschlupf und Besinnung. Mittags schlendern wir durch die Bond Street, deren Geschäfte Schutz bieten. Der Nachmittag gehört dem Central Park und dem Museum, einem perfekten Rückzugsort vor den Schauern. Der Tag endet mit einem erfrischenden Spaziergang im Admiral's Park.",
+            "hu": "Szürke reggel a Shire Hallnál, ahol a klasszikus homlokzat csillog az esőben. A közeli székesegyház hamarosan száraz menedéket és nyugalmat nyújt. Délben a Bond Streeten sétálunk, melynek üzletei védelmet adnak. A délután a Central Parké és a múzeumé, amely tökéletes búvóhely a záporok elől. A nap egy frissítő sétával zárul az Admiral's Parkban, az esernyők alatt.",
+            "ro": "O dimineață gri la Shire Hall, unde fațada clasică strălucește în ploaie. Catedrala din apropiere oferă curând un adăpost uscat și liniște. La prânz ne plimbăm pe Bond Street, ale cărei magazine oferă protecție. După-amiaza aparține parcului Central Park și muzeului, un refugiu perfect împotriva averselor. Ziua se încheie cu o plimbare revigorantă în Admiral's Park, sub umbrele.",
+            "en": "A grey morning at Shire Hall, where the classical facade glistens in the rain. The nearby Cathedral soon offers dry shelter and reflection. At noon, we stroll through Bond Street, whose shops provide cover. The afternoon belongs to Central Park and the Museum, a perfect retreat from the showers. The day ends with a refreshing walk in Admiral's Park under our umbrellas."
+          },
+          "stops": [
+            {
+              "name": "Shire Hall",
+              "tip_5lang": {
+                "de": "Suchen Sie unter den Säulen des Eingangs kurz Schutz vor dem Regen.",
+                "hu": "Keressen rövid menedéket az eső elől a bejárat oszlopai alatt.",
+                "ro": "Căutați un scurt adăpost împotriva ploii sub coloanele de la intrare.",
+                "en": "Seek brief shelter from the rain under the pillars of the entrance."
+              }
+            },
+            {
+              "name": "Chelmsford Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine ausführliche Innenbesichtigung im Trockenen.",
+                "hu": "Használja ki az időt egy alapos belső körbejárásra a szárazban.",
+                "ro": "Folosiți timpul pentru o vizită detaliată a interiorului, la adăpost.",
+                "en": "Use the time for a detailed indoor tour while staying dry."
+              }
+            },
+            {
+              "name": "Bond Street",
+              "tip_5lang": {
+                "de": "Die überdachten Bereiche der Einkaufsstraße sind ideal bei Schauern.",
+                "hu": "A bevásárlóutca fedett részei ideálisak záporok idején.",
+                "ro": "Zonele acoperite ale străzii comerciale sunt ideale în timpul averselor.",
+                "en": "The covered areas of the shopping street are ideal during showers."
+              }
+            },
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege verhindern schlammige Schuhe bei Regen.",
+                "hu": "Az aszfaltozott utak megakadályozzák a sáros cipőket esőben.",
+                "ro": "Potecile asfaltate previn încălțămintea noroioasă în caz de ploaie.",
+                "en": "The paved paths prevent muddy shoes during rainy weather."
+              }
+            },
+            {
+              "name": "Chelmsford Museum",
+              "tip_5lang": {
+                "de": "Der beste Ort, um die regenreichste Zeit des Tages im Warmen zu verbringen.",
+                "hu": "A legjobb hely a nap legesősebb részének melegben való eltöltésére.",
+                "ro": "Cel mai bun loc pentru a petrece cea mai ploioasă parte a zilei la căldură.",
+                "en": "The best place to spend the rainiest part of the day in the warm."
+              }
+            },
+            {
+              "name": "Admiral's Park",
+              "tip_5lang": {
+                "de": "Ein kurzer, belebender Spaziergang; achten Sie auf rutschiges Gras.",
+                "hu": "Rövid, élénkítő séta; ügyeljen a csúszós fűre.",
+                "ro": "O plimbare scurtă și revigorantă; atenție la iarba alunecoasă.",
+                "en": "A short, invigorating walk; watch out for slippery grass."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei britischem Wetter unverzichtbar.",
+              "Tragen Sie wasserfeste Schuhe für die Wege durch die Parks.",
+              "Zahlreiche Cafés in der Bond Street bieten gemütliche Pausen.",
+              "Das Museum im Oaklands Park ist komplett barrierefrei und trocken.",
+              "Die Kathedrale ist ein ruhiger Ort, um den Regen abzuwarten."
+            ],
+            "hu": [
+              "Egy stabil esernyő elengedhetetlen a brit időjárásban.",
+              "Viseljen vízálló cipőt a parkokon átvezető utakhoz.",
+              "A Bond Street számos kávézója kínál hangulatos pihenőket.",
+              "Az Oaklands Parkban található múzeum teljesen akadálymentes és száraz.",
+              "A székesegyház nyugodt hely az eső kivárására."
+            ],
+            "ro": [
+              "O umbrelă stabilă este indispensabilă în condițiile meteo britanice.",
+              "Purtați încălțăminte impermeabilă pentru drumurile prin parcuri.",
+              "Numeroase cafenele de pe Bond Street oferă pauze primitoare.",
+              "Muzeul din Oaklands Park este complet accesibil și uscat.",
+              "Catedrala este un loc liniștit pentru a aștepta oprirea ploii."
+            ],
+            "en": [
+              "A sturdy umbrella is essential in British weather conditions.",
+              "Wear waterproof shoes for the paths through the parks.",
+              "Numerous cafes on Bond Street offer cozy breaks.",
+              "The museum in Oaklands Park is fully accessible and dry.",
+              "The cathedral is a peaceful place to wait out the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen an der Shire Hall beginnt den Tag. Die Kathedrale wärmt uns mit ihrer friedlichen Atmosphäre auf. Mittags beleben die Winterangebote in der Bond Street die Sinne. Am Nachmittag glitzert der Frost im Central Park, bevor wir im beheizten Museum Zuflucht suchen. Der Tag endet früh bei Sonnenuntergang im Admiral's Park, begleitet von der klaren Winterluft.",
+            "hu": "Dérlepte reggel kezdődik a Shire Hallnál. A székesegyház békés légköre felmelegít minket. Délben a Bond Street téli ajánlatai élénkítik fel az érzékeket. Délután a fagy csillog a Central Parkban, mielőtt a fűtött múzeumban keresnénk menedéket. A nap korán, naplementekor ér véget az Admiral's Parkban, a tiszta téli levegő kíséretében.",
+            "ro": "O dimineață geroasă începe la Shire Hall. Atmosfera pașnică a catedralei ne încălzește. La prânz, ofertele de iarnă de pe Bond Street ne revigorează simțurile. După-amiaza, chiciura strălucește în Central Park, înainte de a ne refugia în muzeul încălzit. Ziua se încheie devreme, la apus, în Admiral's Park, sub aerul curat de iarnă.",
+            "en": "A frosty morning at Shire Hall starts the day. The cathedral's peaceful atmosphere warms us up. At noon, winter offers on Bond Street liven up the senses. In the afternoon, frost glistens in Central Park before we seek refuge in the heated museum. The day ends early at sunset in Admiral's Park, accompanied by the crisp winter air."
+          },
+          "stops": [
+            {
+              "name": "Shire Hall",
+              "tip_5lang": {
+                "de": "Bewundern Sie den Frost auf den historischen Steinen im Morgenlicht.",
+                "hu": "Csodálja meg a fagyot a történelmi köveken a reggeli fényben.",
+                "ro": "Admirați chiciura de pe pietrele istorice în lumina dimineții.",
+                "en": "Admire the frost on the historic stones in the morning light."
+              }
+            },
+            {
+              "name": "Chelmsford Cathedral",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und die angenehme Wärme im Kirchenschiff.",
+                "hu": "Élvezze a csendet és a kellemes meleget a templomhajóban.",
+                "ro": "Bucurați-vă de liniște și de căldura plăcută din nava bisericii.",
+                "en": "Enjoy the silence and the pleasant warmth in the nave."
+              }
+            },
+            {
+              "name": "Bond Street",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Kakao zum Mitnehmen für den Spaziergang.",
+                "hu": "Vegyünk egy forró kakaót elvitelre a sétához.",
+                "ro": "Luați o ciocolată caldă la pachet pentru plimbare.",
+                "en": "Get a hot cocoa to go for the rest of your walk."
+              }
+            },
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen auf den Brücken über den Can.",
+                "hu": "Vigyázat a jeges szakaszokkal a Can-folyó feletti hidakon.",
+                "ro": "Atenție la porțiunile înghețate de pe podurile peste râul Can.",
+                "en": "Beware of icy patches on the bridges over the River Can."
+              }
+            },
+            {
+              "name": "Chelmsford Museum",
+              "tip_5lang": {
+                "de": "Die Ausstellungen sind perfekt temperiert für einen langen Aufenthalt.",
+                "hu": "A kiállítások tökéletesen temperáltak egy hosszú tartózkodáshoz.",
+                "ro": "Expozițiile au temperatura perfectă pentru o vizită lungă.",
+                "en": "The exhibitions are perfectly tempered for a long stay."
+              }
+            },
+            {
+              "name": "Admiral's Park",
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang gegen 16:00 Uhr am Flussufer.",
+                "hu": "Élje át a naplementét 16:00 körül a folyóparton.",
+                "ro": "Priviți apusul în jurul orei 16:00 pe malul râului.",
+                "en": "Experience the sunset around 4:00 PM by the riverside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung in Schichten ist für die Parkbesuche wichtig.",
+              "Die Sonne geht im Winter bereits gegen 16:00 Uhr unter.",
+              "Viele Cafés bieten im Winter spezielle Saisongetränke an.",
+              "Achten Sie auf festes Schuhwerk wegen möglicher Glätte.",
+              "Die Innenstadt ist in der Weihnachtszeit oft festlich beleuchtet."
+            ],
+            "hu": [
+              "A réteges, meleg öltözet fontos a parklátogatásokhoz.",
+              "A nap télen már 16:00 körül lemegy.",
+              "Sok kávézó kínál speciális szezonális italokat télen.",
+              "Ügyeljen a stabil lábbelire az esetleges csúszósság miatt.",
+              "A belváros a karácsonyi időszakban gyakran ünnepi díszkivilágítást kap."
+            ],
+            "ro": [
+              "Îmbrăcămintea groasă în straturi este importantă pentru vizitele în parcuri.",
+              "Soarele apune iarna deja în jurul orei 16:00.",
+              "Multe cafenele oferă băuturi sezoniere speciale iarna.",
+              "Atenție la încălțămintea stabilă din cauza posibilei polei.",
+              "Centrul orașului este adesea iluminat festiv în perioada Crăciunului."
+            ],
+            "en": [
+              "Warm clothing in layers is important for park visits.",
+              "The sun sets as early as 4:00 PM in winter.",
+              "Many cafes offer special seasonal drinks in winter.",
+              "Ensure sturdy footwear due to potential slipperiness.",
+              "The city centre is often festively lit during the Christmas season."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +896,196 @@
           "Many of the central areas are pedestrianized, so be considerate of walkers.",
           "Check Sandford Mill's opening times as it's not always open to the public."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Start im Central Park, die Reifen spritzen auf dem nassen Asphalt. Wir fahren zur Shire Hall und Kathedrale für kurze kulturelle Stopps. Mittags führt uns der Weg zum Sandford Mill, wo die industrielle Geschichte im Regen noch authentischer wirkt. Nachmittags wärmen wir uns im Museum auf, bevor die Tour am Melbourne Stadium endet.",
+            "hu": "Frissítő kezdés a Central Parkban, a gumik fröcskölnek a nedves aszfalton. A Shire Hallhoz és a székesegyházhoz tekerünk rövid kulturális megállókra. Délben az út a Sandford Millhez vezet, ahol az ipari történelem még hitelesebbnek tűnik az esőben. Délután a múzeumban melegszünk fel, mielőtt a túra a Melbourne Stadiumnál véget érne.",
+            "ro": "Un început revigorant în Central Park, cauciucurile stropesc pe asfaltul ud. Pedalăm spre Shire Hall și catedrală pentru scurte opriri culturale. La prânz, drumul ne duce la Sandford Mill, unde istoria industrială pare și mai autentică în ploaie. După-amiaza ne încălzim la muzeu, înainte ca turul să se încheie la Melbourne Stadium.",
+            "en": "A refreshing start in Central Park, tires splashing on the wet asphalt. We cycle to Shire Hall and the Cathedral for short cultural stops. At noon, the path leads to Sandford Mill, where industrial history feels even more authentic in the rain. In the afternoon, we warm up in the Museum before the tour ends at Melbourne Stadium."
+          },
+          "stops": [
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Schutzbleche vor der Abfahrt im Park.",
+                "hu": "Indulás előtt ellenőrizze a sárvédőket a parkban.",
+                "ro": "Verificați apărătorile de noroi înainte de plecarea din parc.",
+                "en": "Check your mudguards before setting off in the park."
+              }
+            },
+            {
+              "name": "Shire Hall",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Markierungen auf der Fahrbahn.",
+                "hu": "Ügyeljen a csúszós útburkolati jelekre az úttesten.",
+                "ro": "Atenție la marcajele rutiere alunecoase de pe carosabil.",
+                "en": "Watch out for slippery road markings on the carriageway."
+              }
+            },
+            {
+              "name": "Chelmsford Cathedral",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradabstellplatz direkt am Eingang vorhanden.",
+                "hu": "Biztonságos kerékpártároló található közvetlenül a bejáratnál.",
+                "ro": "Loc de parcare securizat pentru biciclete chiar la intrare.",
+                "en": "Secure bike parking available right at the entrance."
+              }
+            },
+            {
+              "name": "Sandford Mill",
+              "tip_5lang": {
+                "de": "Der Weg am Flussufer kann bei Regen etwas matschig sein.",
+                "hu": "A folyóparti út esőben kissé sáros lehet.",
+                "ro": "Drumul de pe malul râului poate fi puțin noroios în caz de ploaie.",
+                "en": "The riverside path can be a bit muddy during rain."
+              }
+            },
+            {
+              "name": "Chelmsford Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um nasse Regenjacken zu verstauen.",
+                "hu": "Használja a ruhatárat a nedves esőkabátok elhelyezésére.",
+                "ro": "Folosiți garderoba pentru a lăsa jachetele de ploaie ude.",
+                "en": "Use the cloakroom to store wet rain jackets."
+              }
+            },
+            {
+              "name": "Melbourne Stadium",
+              "tip_5lang": {
+                "de": "Überdachte Bereiche bieten Schutz beim Sichern des Rades.",
+                "hu": "Fedett területek nyújtanak védelmet a kerékpár lezárásakor.",
+                "ro": "Zonele acoperite oferă protecție în timp ce asigurați bicicleta.",
+                "en": "Covered areas provide shelter while securing your bike."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Regenhose ist ratsam.",
+              "Vermeiden Sie starkes Bremsen auf nassen Metallabdeckungen.",
+              "Sorgen Sie für gute Beleuchtung bei schlechter Sicht.",
+              "Die Route führt teils über befestigte Radwege durch Parks.",
+              "Ein Handtuch für den Sattel ist ein kleiner, aber wichtiger Helfer."
+            ],
+            "hu": [
+              "Teljes esőruházat, beleértve az esőnadrágot is, tanácsos.",
+              "Kerülje az erős fékezést a nedves fémfedeleken.",
+              "Gondoskodjon a jó világításról rossz látási viszonyok között.",
+              "Az útvonal részben parkokon átvezető, szilárd burkolatú kerékpárutakon halad.",
+              "Egy törölköző a nyereghez kicsi, de fontos segítség."
+            ],
+            "ro": [
+              "Este recomandat echipamentul complet de ploaie, inclusiv pantaloni.",
+              "Evitați frânarea bruscă pe capacele metalice ude.",
+              "Asigurați o iluminare bună în condiții de vizibilitate redusă.",
+              "Traseul trece parțial pe piste de biciclete pavate prin parcuri.",
+              "Un prosop pentru șa este un ajutor mic, dar important."
+            ],
+            "en": [
+              "Full waterproof gear including trousers is advisable.",
+              "Avoid heavy braking on wet metal utility covers.",
+              "Ensure good lighting in poor visibility conditions.",
+              "The route partly follows paved cycle paths through parks.",
+              "A towel for the saddle is a small but vital helper."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine belebende Fahrt durch den gefrorenen Central Park. Wir halten kurz an der Shire Hall und der Kathedrale, um die Wintersonne zu genießen. Mittags führt die Route zum Sandford Mill durch die klare Luft. Nachmittags bietet das Museum eine willkommene Wärmepause, bevor wir das Ziel am Melbourne Stadium erreichen, während das Tageslicht schwindet.",
+            "hu": "Élénkítő tekerés a fagyos Central Parkon át. Rövid megállót tartunk a Shire Hallnál és a székesegyháznál, hogy élvezzük a téli napsütést. Délben az út a tiszta levegőn át vezet a Sandford Millhez. Délután a múzeum üdvözlendő meleg pihenőt kínál, mielőtt elérnénk a célunkat a Melbourne Stadiumnál, miközben a nappali fény fogyni kezd.",
+            "ro": "O plimbare revigorantă prin Central Parkul înghețat. Ne oprim scurt la Shire Hall și catedrală pentru a ne bucura de soarele de iarnă. La prânz, traseul duce spre Sandford Mill prin aerul curat. După-amiaza, muzeul oferă o pauză caldă binevenită înainte de a ajunge la destinație la Melbourne Stadium, în timp ce lumina zilei scade.",
+            "en": "An invigorating ride through the frozen Central Park. We stop briefly at Shire Hall and the Cathedral to enjoy the winter sun. At noon, the route leads to Sandford Mill through the crisp air. In the afternoon, the Museum offers a welcome warm break before reaching our destination at Melbourne Stadium as daylight fades."
+          },
+          "stops": [
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei Kurven auf glatten, gefrorenen Laubresten.",
+                "hu": "Vigyázat a kanyarokban a csúszós, fagyott levélmaradványokon.",
+                "ro": "Atenție la viraje pe resturile de frunze înghețate și alunecoase.",
+                "en": "Careful on corners with slippery, frozen leaf debris."
+              }
+            },
+            {
+              "name": "Shire Hall",
+              "tip_5lang": {
+                "de": "Handschuhe sind bei den kalten Abfahrten in der Stadt wichtig.",
+                "hu": "A kesztyű fontos a hideg városi lejtőkön.",
+                "ro": "Mănușile sunt importante la coborârile reci din oraș.",
+                "en": "Gloves are essential for the cold descents in the city."
+              }
+            },
+            {
+              "name": "Chelmsford Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die gefrorenen Finger kurz aufzuwärmen.",
+                "hu": "Használja ki a megállót a megfagyott ujjak rövid felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi scurt degetele înghețate.",
+                "en": "Use the stop to briefly warm up frozen fingers."
+              }
+            },
+            {
+              "name": "Sandford Mill",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den schattigen Abschnitten des Radwegs.",
+                "hu": "Ügyeljen a zúzmarára a kerékpárút árnyékos szakaszain.",
+                "ro": "Atenție la chiciură pe secțiunile umbrite ale pistei de biciclete.",
+                "en": "Watch out for hoar frost on shaded sections of the cycle path."
+              }
+            },
+            {
+              "name": "Chelmsford Museum",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer direkt vor dem Haupteingang.",
+                "hu": "Biztonságos kerékpártárolók közvetlenül a főbejárat előtt.",
+                "ro": "Suporturi de biciclete sigure chiar în fața intrării principale.",
+                "en": "Secure bike racks right outside the main entrance."
+              }
+            },
+            {
+              "name": "Melbourne Stadium",
+              "tip_5lang": {
+                "de": "Überprüfen Sie Ihre Beleuchtung für den Heimweg in der Dunkelheit.",
+                "hu": "Ellenőrizze a világítást a sötétben való hazaúthoz.",
+                "ro": "Verificați luminile pentru drumul spre casă pe întuneric.",
+                "en": "Check your lights for the journey home in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Kleidung schützt vor dem kalten Fahrtwind.",
+              "Akku-Leuchten entladen sich bei Kälte schneller; voll aufladen.",
+              "Trinken Sie ausreichend, auch wenn das Durstgefühl geringer ist.",
+              "Halten Sie die Kette sauber und gut geschmiert gegen Streusalz.",
+              "Thermo-Überschuhe halten die Füße auch bei Minusgraden warm."
+            ],
+            "hu": [
+              "A szélálló ruházat véd a hideg menetszéltől.",
+              "Az akkumulátoros lámpák hidegben gyorsabban merülnek; töltse fel őket.",
+              "Igyon elegendőt, még ha a szomjúságérzet kisebb is.",
+              "Tartsa tisztán és jól kenve a láncot az útszóró só ellen.",
+              "A termo-kamáslik mínuszokban is melegen tartják a lábat."
+            ],
+            "ro": [
+              "Îmbrăcămintea rezistentă la vânt protejează de curentul rece.",
+              "Luminile cu acumulator se descarcă mai repede la frig; încărcați-le.",
+              "Beți suficiente lichide, chiar dacă senzația de sete este redusă.",
+              "Păstrați lanțul curat și bine lubrifiat împotriva sării de drum.",
+              "Protecțiile termo pentru încălțăminte mențin picioarele calde."
+            ],
+            "en": [
+              "Windproof clothing protects against the cold headwind.",
+              "Battery lights discharge faster in the cold; charge fully.",
+              "Drink enough fluids even if you feel less thirsty.",
+              "Keep the chain clean and well-lubricated against road salt.",
+              "Thermal overshoes keep feet warm even in sub-zero temperatures."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1079,6 +1459,214 @@
           "Traffic in and out of Chelmsford can be heavy at peak times. Plan your drives accordingly.",
           "Be aware of Hylands House opening times as it is often closed for private functions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt entspannt im RHS Garden Hyde Hall, wo die Gewächshäuser Schutz bieten. Danach geht es zum Hylands House für eine Innenbesichtigung. Mittags parken wir im Stadtzentrum und besuchen Shire Hall und die Kathedrale. Der Nachmittag wird im Museum abgerundet, bevor wir trocken und bequem die Heimreise antreten.",
+            "hu": "A nap pihentetően indul az RHS Garden Hyde Hallban, ahol az üvegházak védelmet nyújtanak. Ezután a Hylands House következik egy belső látogatásra. Délben a belvárosban parkolunk, és meglátogatjuk a Shire Hallt és a székesegyházat. A délutánt a múzeum zárja, mielőtt szárazon és kényelmesen hazaindulnánk.",
+            "ro": "Ziua începe relaxat la RHS Garden Hyde Hall, unde serele oferă protecție. Urmează Hylands House pentru o vizită interioară. La prânz parcăm în centrul orașului și vizităm Shire Hall și catedrala. După-amiaza se încheie la muzeu, înainte de a pleca spre casă uscați și confortabil.",
+            "en": "The day starts relaxed at RHS Garden Hyde Hall, where the glasshouses provide shelter. Then it's on to Hylands House for an indoor tour. At noon, we park in the city centre and visit Shire Hall and the Cathedral. The afternoon is rounded off at the Museum before we head home dry and comfortably."
+          },
+          "stops": [
+            {
+              "name": "RHS Garden Hyde Hall",
+              "tip_5lang": {
+                "de": "Verbringen Sie bei Schauern mehr Zeit im 'Global Growth' Glashaus.",
+                "hu": "Záporok idején töltsön több időt a 'Global Growth' üvegházban.",
+                "ro": "Petreceți mai mult timp în sera 'Global Growth' în timpul averselor.",
+                "en": "Spend more time in the 'Global Growth' glasshouse during showers."
+              }
+            },
+            {
+              "name": "Hylands House",
+              "tip_5lang": {
+                "de": "Die geführten Touren im Haus sind die perfekte Regen-Alternative.",
+                "hu": "A házban tartott vezetett túrák tökéletes eső-alternatívák.",
+                "ro": "Tururile ghidate în interiorul casei sunt alternativa perfectă la ploaie.",
+                "en": "Guided tours inside the house are the perfect rainy-day alternative."
+              }
+            },
+            {
+              "name": "City Centre Parking (Cluster 1)",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser mit direktem, überdachtem Zugang zum Zentrum.",
+                "hu": "Használja a közvetlen, fedett belvárosi kijárattal rendelkező parkolóházakat.",
+                "ro": "Folosiți parcările supraetajate cu acces direct acoperit spre centru.",
+                "en": "Use multi-storey car parks with direct, covered access to the centre."
+              }
+            },
+            {
+              "name": "Shire Hall",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz; halten Sie den Schirm bereit.",
+                "hu": "Rövid séta a parkolótól; tartsa készenlétben az esernyőt.",
+                "ro": "Drum scurt pe jos de la parcare; țineți umbrela la îndemână.",
+                "en": "Short walk from the car park; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Chelmsford Cathedral",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort direkt im Herzen der Stadt.",
+                "hu": "Nyugodt, száraz hely közvetlenül a város szívében.",
+                "ro": "Un loc liniștit și uscat direct în inima orașului.",
+                "en": "A peaceful, dry place right in the heart of the city."
+              }
+            },
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Vom Auto aus sind es nur wenige Schritte zum Café am See.",
+                "hu": "Az autótól csak néhány lépés a tóparti kávézó.",
+                "ro": "Sunt doar câțiva pași de la mașină până la cafeneaua de pe lac.",
+                "en": "It's only a few steps from the car to the lakeside cafe."
+              }
+            },
+            {
+              "name": "Chelmsford Museum",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt am Museumseingang vorhanden.",
+                "hu": "Nagy parkoló található közvetlenül a múzeum bejáratánál.",
+                "ro": "Parcare mare disponibilă chiar la intrarea muzeului.",
+                "en": "Large car park available right at the museum entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt.",
+              "Parkhäuser wie Bond Street bieten Schutz beim Ein- und Aussteigen.",
+              "Vermeiden Sie bei starkem Regen die tiefergelegenen Wege am Fluss.",
+              "Nutzen Sie die App 'RingGo' für bequemes Bezahlen im Trockenen.",
+              "Planen Sie etwas mehr Zeit für den Stadtverkehr bei Regen ein."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "A Bond Streethez hasonló parkolóházak védelmet nyújtanak ki- és beszálláskor.",
+              "Heves esőzéskor kerülje a folyóparti alacsonyabban fekvő utakat.",
+              "Használja a 'RingGo' alkalmazást a kényelmes, szárazban történő fizetéshez.",
+              "Esőben számoljon kicsivel több idővel a városi forgalomra."
+            ],
+            "ro": [
+              "Verificați ștergătoarele de parbriz înainte de drum.",
+              "Parcările supraetajate precum Bond Street oferă protecție la urcare/coborâre.",
+              "Evitați drumurile mai joase de lângă râu în timpul ploilor torențiale.",
+              "Folosiți aplicația 'RingGo' pentru plată confortabilă la adăpost.",
+              "Planificați ceva mai mult timp pentru traficul urban pe ploaie."
+            ],
+            "en": [
+              "Check your windscreen wipers before setting off.",
+              "Multi-storey car parks like Bond Street offer shelter when entering/exiting.",
+              "Avoid lower riverside paths during heavy rain.",
+              "Use the 'RingGo' app for convenient payment while staying dry.",
+              "Allow a bit more time for city traffic during rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen bei RHS Hyde Hall, wo die Frostlandschaft verzaubert. Die Fahrt geht weiter zum Hylands House für historische Einblicke im Warmen. Mittags erreichen wir das Stadtzentrum. Nachmittags spazieren wir kurz durch den Central Park und genießen dann die Ausstellungen im Museum. Ein Tag voller Komfort trotz winterlicher Kälte.",
+            "hu": "Tiszta téli reggel az RHS Hyde Hallnál, ahol a zúzmarás táj varázslatos. Az út a Hylands House-hoz folytatódik a meleg történelmi betekintésért. Délben érjük el a belvárost. Délután teszünk egy rövid sétát a Central Parkban, majd élvezzük a múzeum kiállításait. Egy kényelemmel teli nap a téli hideg ellenére.",
+            "ro": "O dimineață senină de iarnă la RHS Hyde Hall, unde peisajul înghețat încântă. Drumul continuă spre Hylands House pentru incursiuni istorice la căldură. La prânz ajungem în centrul orașului. După-amiaza ne plimbăm scurt prin Central Park și apoi ne bucurăm de expozițiile de la muzeu. O zi plină de confort în ciuda frigului de iarnă.",
+            "en": "A clear winter morning at RHS Hyde Hall, where the frosty landscape enchants. The drive continues to Hylands House for historical insights in the warm. At noon, we reach the city centre. In the afternoon, we take a short walk through Central Park and then enjoy the exhibitions at the Museum. A day full of comfort despite the winter cold."
+          },
+          "stops": [
+            {
+              "name": "RHS Garden Hyde Hall",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich nach dem Gartenrundgang im Clover Café auf.",
+                "hu": "A kerti séta után melegedjen fel a Clover Caféban.",
+                "ro": "Încălziți-vă la Clover Café după turul prin grădină.",
+                "en": "Warm up in the Clover Cafe after your garden stroll."
+              }
+            },
+            {
+              "name": "Hylands House",
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Straßenglätte in der ländlichen Parkzufahrt.",
+                "hu": "Ügyeljen az esetleges jegesedésre a vidéki parki bevezető úton.",
+                "ro": "Atenție la posibila polei pe drumul rural de acces în parc.",
+                "en": "Watch out for potential road ice on the rural park access road."
+              }
+            },
+            {
+              "name": "City Centre Parking (Cluster 1)",
+              "tip_5lang": {
+                "de": "Parkhäuser verhindern das Vereisen der Scheiben während des Besuchs.",
+                "hu": "A parkolóházak megakadályozzák az ablakok jegesedését a látogatás alatt.",
+                "ro": "Parcările supraetajate previn înghețarea geamurilor în timpul vizitei.",
+                "en": "Multi-storey car parks prevent windows from icing up during your visit."
+              }
+            },
+            {
+              "name": "Shire Hall",
+              "tip_5lang": {
+                "de": "Ein kurzer, knackiger Winterspaziergang zum Marktplatz.",
+                "hu": "Rövid, frissítő téli séta a piactérhez.",
+                "ro": "O plimbare scurtă și vioaie de iarnă spre piață.",
+                "en": "A short, crisp winter walk to the market square."
+              }
+            },
+            {
+              "name": "Chelmsford Cathedral",
+              "tip_5lang": {
+                "de": "Genießen Sie das warme Licht der Kerzen und Fenster.",
+                "hu": "Élvezze a gyertyák és az ablakok meleg fényét.",
+                "ro": "Bucurați-vă de lumina caldă a lumânărilor și a ferestrelor.",
+                "en": "Enjoy the warm light of the candles and windows."
+              }
+            },
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne sorgt für tolle Fotos am See.",
+                "hu": "Az alacsonyan járó téli nap remek fotókat eredményez a tónál.",
+                "ro": "Soarele jos de iarnă oferă oportunități grozave de fotografii la lac.",
+                "en": "The low winter sun provides great photo opportunities by the lake."
+              }
+            },
+            {
+              "name": "Chelmsford Museum",
+              "tip_5lang": {
+                "de": "Das Museumscafé bietet tolle Aussichten auf den Oaklands Park.",
+                "hu": "A múzeumi kávézó remek kilátást nyújt az Oaklands Parkra.",
+                "ro": "Cafeneaua muzeului oferă vederi superbe spre Oaklands Park.",
+                "en": "The museum cafe offers great views over Oaklands Park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Frostschutzmittel und Reifendruck bei Kälte.",
+              "Ländliche Straßen wie zu Hyde Hall können morgens glatt sein.",
+              "Nutzen Sie die Sitzheizung für maximale Gemütlichkeit.",
+              "Stellen Sie sicher, dass Ihr Eiskratzer griffbereit ist.",
+              "Die Parkhäuser in der Stadt sind oft gut beleuchtet und sicher."
+            ],
+            "hu": [
+              "Hidegben ellenőrizze a fagyállót és a guminyomást.",
+              "A Hyde Hallhoz hasonló vidéki utak reggel csúszósak lehetnek.",
+              "Használja az ülésfűtést a maximális kényelem érdekében.",
+              "Győződjön meg róla, hogy a jégkaparó kéznél van.",
+              "A városi parkolóházak gyakran jól megvilágítottak és biztonságosak."
+            ],
+            "ro": [
+              "Verificați antigelul și presiunea în anvelope la frig.",
+              "Drumurile rurale precum cel spre Hyde Hall pot fi alunecoase dimineața.",
+              "Folosiți încălzirea în scaune pentru confort maxim.",
+              "Asigurați-vă că racleta pentru gheață este la îndemână.",
+              "Parcările supraetajate din oraș sunt adesea bine iluminate și sigure."
+            ],
+            "en": [
+              "Check antifreeze and tyre pressure in cold weather.",
+              "Rural roads like those to Hyde Hall can be slippery in the morning.",
+              "Use seat heating for maximum coziness.",
+              "Ensure your ice scraper is easily accessible.",
+              "City car parks are often well-lit and secure."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1429,6 +2017,196 @@
           "Buses can be crowded during peak hours, so allow for a little extra time.",
           "Bus stops are generally well-signed, but ask the driver if you are unsure."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus geht es bequem ins Stadtzentrum zur Kathedrale und Shire Hall. Die kurzen Wege zwischen den Haltestellen minimieren die Zeit im Regen. Mittags erkunden wir die Bond Street, bevor uns der Bus direkt zum Museum bringt. Ein entspannter Nachmittag im Trockenen, gefolgt von einer einfachen Rückreise mit den öffentlichen Verkehrsmitteln.",
+            "hu": "Busszal kényelmesen jutunk a belvárosba a székesegyházhoz és a Shire Hallhoz. A megállók közötti rövid távolságok minimalizálják az esőben töltött időt. Délben felfedezzük a Bond Streetet, mielőtt a busz közvetlenül a múzeumhoz vinne minket. Pihentető délután a szárazban, amit egyszerű hazautazás követ tömegközlekedéssel.",
+            "ro": "Cu autobuzul ajungem confortabil în centrul orașului, la catedrală și Shire Hall. Distanțele scurte între stații minimizează timpul petrecut în ploaie. La prânz explorăm Bond Street, înainte ca autobuzul să ne ducă direct la muzeu. O după-amiază relaxată la adăpost, urmată de o întoarcere ușoară cu transportul public.",
+            "en": "The bus takes us comfortably to the city centre to the Cathedral and Shire Hall. Short distances between stops minimize time spent in the rain. At noon, we explore Bond Street before the bus takes us directly to the Museum. A relaxed afternoon in the dry, followed by an easy return journey by public transport."
+          },
+          "stops": [
+            {
+              "name": "Bus to City Centre (Cluster 1)",
+              "tip_5lang": {
+                "de": "Warten Sie in den überdachten Wartehäuschen am Busbahnhof.",
+                "hu": "Várjon a buszpályaudvar fedett váróiban.",
+                "ro": "Așteptați în stațiile acoperite de la autogară.",
+                "en": "Wait in the covered shelters at the bus station."
+              }
+            },
+            {
+              "name": "Chelmsford Cathedral",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg von der Bushaltestelle 'Duke Street'.",
+                "hu": "Csak 2 perc séta a 'Duke Street' buszmegállótól.",
+                "ro": "La doar 2 minute de mers pe jos de stația de autobuz 'Duke Street'.",
+                "en": "Only a 2-minute walk from the 'Duke Street' bus stop."
+              }
+            },
+            {
+              "name": "Shire Hall",
+              "tip_5lang": {
+                "de": "Zentraler Punkt mit vielen nahegelegenen Bushaltestellen.",
+                "hu": "Központi pont, számos közeli buszmegállóval.",
+                "ro": "Punct central cu multe stații de autobuz în apropiere.",
+                "en": "Central point with many nearby bus stops."
+              }
+            },
+            {
+              "name": "Bond Street",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen zwischen den Fahrten.",
+                "hu": "Ideális melegedőhely a járatok között.",
+                "ro": "Ideal pentru încălzire între călătorii.",
+                "en": "Ideal for warming up between journeys."
+              }
+            },
+            {
+              "name": "Bus to Museum (Cluster 2)",
+              "tip_5lang": {
+                "de": "Die Linien 45 und 54 halten direkt am Oaklands Park.",
+                "hu": "A 45-ös és 54-es járatok közvetlenül az Oaklands Parknál állnak meg.",
+                "ro": "Liniile 45 și 54 opresc chiar la Oaklands Park.",
+                "en": "Routes 45 and 54 stop right by Oaklands Park."
+              }
+            },
+            {
+              "name": "Chelmsford Museum & Central Park",
+              "tip_5lang": {
+                "de": "Perfekt für einen langen, trockenen Aufenthalt am Nachmittag.",
+                "hu": "Tökéletes egy hosszú, száraz délutáni tartózkodáshoz.",
+                "ro": "Perfect pentru o ședere lungă și uscată după-amiaza.",
+                "en": "Perfect for a long, dry stay in the afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'First Bus' App für Echtzeit-Informationen.",
+              "Kontaktloses Bezahlen ist in allen Bussen möglich.",
+              "Busbahnhöfe bieten meist besseren Regenschutz als kleine Haltestellen.",
+              "Chelmsford hat ein dichtes Netz an innerstädtischen Linien.",
+              "Halten Sie Ihren Schirm für die kurzen Wege zur Haltestelle bereit."
+            ],
+            "hu": [
+              "Használja a 'First Bus' alkalmazást a valós idejű információkért.",
+              "Minden buszon lehetséges az érintésmentes fizetés.",
+              "A buszpályaudvarok általában jobb esővédelmet nyújtanak, mint a kis megállók.",
+              "Chelmsford sűrű belvárosi járathálózattal rendelkezik.",
+              "Tartsa készenlétben az esernyőt a megállóig tartó rövid utakhoz."
+            ],
+            "ro": [
+              "Folosiți aplicația 'First Bus' pentru informații în timp real.",
+              "Plata contactless este posibilă în toate autobuzele.",
+              "Autogările oferă de obicei protecție mai bună la ploaie decât stațiile mici.",
+              "Chelmsford are o rețea densă de linii urbane.",
+              "Țineți umbrela pregătită pentru drumurile scurte spre stație."
+            ],
+            "en": [
+              "Use the 'First Bus' app for real-time arrival information.",
+              "Contactless payment is available on all buses.",
+              "Bus stations usually offer better rain protection than small stops.",
+              "Chelmsford has a dense network of inner-city bus routes.",
+              "Keep your umbrella ready for the short walks to the bus stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein zügiger Start mit dem Bus ins Stadtzentrum. Die Kathedrale und Shire Hall bieten kulturelle Highlights in der klaren Winterluft. Mittags laden die Geschäfte in der Bond Street zum Verweilen ein. Danach geht es mit dem Bus bequem zum beheizten Museum. Der Tag endet mit einer gemütlichen Rückfahrt, während die Stadtlichter in der Dunkelheit funkeln.",
+            "hu": "Gyors kezdés busszal a belvárosba. A székesegyház és a Shire Hall kulturális fénypontokat kínál a tiszta téli levegőben. Délben a Bond Street üzletei hívogatnak időtöltésre. Ezután busszal kényelmesen utazunk a fűtött múzeumba. A nap egy hangulatos visszautazással zárul, miközben a város fényei csillognak a sötétben.",
+            "ro": "Un început rapid cu autobuzul spre centrul orașului. Catedrala și Shire Hall oferă atracții culturale în aerul curat de iarnă. La prânz, magazinele de pe Bond Street vă invită la relaxare. Apoi, autobuzul vă duce confortabil la muzeul încălzit. Ziua se încheie cu o călătorie plăcută înapoi, în timp ce luminile orașului sclipesc în întuneric.",
+            "en": "A brisk start with the bus to the city centre. The Cathedral and Shire Hall offer cultural highlights in the crisp winter air. At noon, the shops on Bond Street invite you to linger. Then it's a comfortable bus ride to the heated Museum. The day ends with a cozy return journey as the city lights twinkle in the dark."
+          },
+          "stops": [
+            {
+              "name": "Bus to City Centre (Cluster 1)",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wichtig für die Wartezeit an der Haltestelle.",
+                "hu": "A meleg ruházat fontos a megállóban való várakozáshoz.",
+                "ro": "Îmbrăcămintea groasă este importantă pentru timpul de așteptare în stație.",
+                "en": "Warm clothing is important for the waiting time at the stop."
+              }
+            },
+            {
+              "name": "Chelmsford Cathedral",
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort, um sich zwischen den Fahrten aufzuwärmen.",
+                "hu": "Békés hely a felmelegedésre a járatok között.",
+                "ro": "Un loc liniștit pentru a vă încălzi între călătorii.",
+                "en": "A peaceful place to warm up between bus journeys."
+              }
+            },
+            {
+              "name": "Shire Hall",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stufen an den historischen Gebäuden.",
+                "hu": "Ügyeljen a jeges lépcsőkre a történelmi épületeknél.",
+                "ro": "Atenție la treptele înghețate de la clădirile istorice.",
+                "en": "Watch out for icy steps at the historic buildings."
+              }
+            },
+            {
+              "name": "Bond Street",
+              "tip_5lang": {
+                "de": "Die Cafés sind perfekt für eine heiße Tee-Pause.",
+                "hu": "A kávézók tökéletesek egy forró teázáshoz.",
+                "ro": "Cafenelele sunt perfecte pentru o pauză cu ceai fierbinte.",
+                "en": "The cafes are perfect for a hot tea break."
+              }
+            },
+            {
+              "name": "Bus to Museum (Cluster 2)",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter meist angenehm beheizt.",
+                "hu": "A buszok télen általában kellemesen fűtöttek.",
+                "ro": "Autobuzele sunt de obicei încălzite plăcut iarna.",
+                "en": "Buses are usually comfortably heated in winter."
+              }
+            },
+            {
+              "name": "Chelmsford Museum & Central Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsshop für winterliche Souvenirs.",
+                "hu": "Használja a múzeumi boltot téli szuvenírekért.",
+                "ro": "Vizitați magazinul muzeului pentru suveniruri de iarnă.",
+                "en": "Visit the museum shop for winter souvenirs."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie im Winter mögliche Verspätungen durch Glätte ein.",
+              "Die Busse fahren regelmäßig, auch bei Kälte.",
+              "In der Dunkelheit sind die Haltestellen meist gut beleuchtet.",
+              "Tragen Sie Reflektoren für bessere Sichtbarkeit an Haltestellen.",
+              "Der Busbahnhof liegt direkt neben dem Bahnhof (Trains)."
+            ],
+            "hu": [
+              "Télen számoljon az esetleges csúszósság miatti késésekkel.",
+              "A buszok rendszeresen járnak, hidegben is.",
+              "Sötétben a megállók általában jól megvilágítottak.",
+              "Viseljen fényvisszaverőt a jobb láthatóságért a megállókban.",
+              "A buszpályaudvar közvetlenül a vasútállomás (Trains) mellett van."
+            ],
+            "ro": [
+              "Planificați posibile întârzieri din cauza poleiului iarna.",
+              "Autobuzele circulă regulat, chiar și pe frig.",
+              "Pe întuneric, stațiile sunt de obicei bine iluminate.",
+              "Purtați elemente reflectorizante pentru o vizibilitate mai bună în stații.",
+              "Autogara se află direct lângă gara feroviară (Trains)."
+            ],
+            "en": [
+              "Allow for potential delays due to icy conditions in winter.",
+              "Buses run regularly, even in cold weather.",
+              "Stops are usually well-lit during the hours of darkness.",
+              "Wear reflectors for better visibility at bus stops.",
+              "The bus station is located directly next to the train station."
+            ]
+          }
+        }
       }
     }
   }

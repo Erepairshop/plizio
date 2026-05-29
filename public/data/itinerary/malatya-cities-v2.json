@@ -318,6 +318,178 @@
           "Try the local specialties at the Apricot Market.",
           "Most central sights are easily within walking distance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt trocken im Beşkonaklar-Museum, wo Sie die Architektur bewundern können. Mittags bietet das Malatya-Museum Schutz vor den Tropfen. Nachmittags ist die Kanalboyu-Promenade mit Schirm sehr atmosphärisch, auch wenn der Wasserfall nass spritzt. Der Tag endet im Aprikosenmarkt, wo es unter den Vordächern wunderbar nach getrockneten Früchten duftet.",
+            "hu": "A reggel szárazon indul a Beşkonaklar Múzeumban, ahol a történelmi falak védenek az esőtől. Ebéd után a Malatya Múzeum kiállításai kínálnak menedéket. Délután a Kanalboyu sétány esernyővel is hangulatos, bár a vízesésnél fokozott a pára. A napot az Aprikó-piacon zárjuk, ahol a tetők alatt érezni az aszalt sárgabarack édes illatát.",
+            "ro": "Dimineața începe la adăpost în Muzeul Beşkonaklar, admirând casele vechi. La prânz, Muzeul Malatya oferă un refugiu perfect împotriva ploii. După-amiaza, faleza Kanalboyu este pitorească sub umbrelă, chiar dacă cascada udă totul în jur. Ziua se încheie în piața de caise, unde sub copertine persistă parfumul fructelor uscate.",
+            "en": "The morning starts dry at the Beşkonaklar Museum, exploring historic interiors. By noon, the Malatya Museum provides a perfect refuge from the rain. In the afternoon, the Kanalboyu Promenade is atmospheric with an umbrella, though the waterfall adds to the dampness. End the day at the apricot market, where the sweet scent lingers under the shelters."
+          },
+          "stops": [
+            {
+              "name": "Beşkonaklar Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ersten Regenguss im Trockenen abzuwarten.",
+                "hu": "Tökéletes hely az első zápor kivárására a fedett belső terekben.",
+                "ro": "Locul perfect pentru a aștepta trecerea primei averse la interior.",
+                "en": "A great spot to wait out the first rain shower indoors."
+              }
+            },
+            {
+              "name": "Malatya Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Inneren, während es draußen stärker regnet.",
+                "hu": "Használja ki a benti időt, amíg odakint rákezd az eső.",
+                "ro": "Profită de timpul petrecut în interior în timp ce plouă afară.",
+                "en": "Make the most of the indoor exhibits while it rains harder outside."
+              }
+            },
+            {
+              "name": "Kanalboyu Promenade",
+              "tip_5lang": {
+                "de": "Ein stabiler Regenschirm ist wegen der offenen Fläche wichtig.",
+                "hu": "A nyílt terep miatt egy stabil esernyő elengedhetetlen itt.",
+                "ro": "O umbrelă rezistentă este esențială din cauza zonei deschise.",
+                "en": "A sturdy umbrella is essential due to the open space here."
+              }
+            },
+            {
+              "name": "Kernek Waterfall",
+              "tip_5lang": {
+                "de": "Der Boden kann bei Nässe sehr rutschig sein, Vorsicht beim Gehen.",
+                "hu": "A talaj nedvesen nagyon csúszós lehet, óvatosan lépkedjen.",
+                "ro": "Solul poate fi foarte alunecos pe ploaie, atenție la pași.",
+                "en": "The ground can be very slippery when wet, watch your step."
+              }
+            },
+            {
+              "name": "Apricot Market (Şire Pazarı)",
+              "tip_5lang": {
+                "de": "Die überdachten Bereiche machen das Einkaufen bei Regen angenehm.",
+                "hu": "A fedett részek miatt esőben is kényelmes a vásárlás.",
+                "ro": "Zonele acoperite fac cumpărăturile plăcute chiar și pe ploaie.",
+                "en": "The covered sections make shopping comfortable even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Promenade.",
+              "Die Museen sind die besten Rückzugsorte bei starkem Regen.",
+              "Der Aprikosenmarkt ist teilweise überdacht und trocken.",
+              "Ein Taschenschirm ist für den Weg zwischen den Stopps ideal.",
+              "Genießen Sie einen heißen türkischen Tee in einem Café."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a sétányon való gyalogláshoz.",
+              "A múzeumok a legjobb menedékek heves esőzés idején.",
+              "A sárgabarackpiac részben fedett, így ott száraz marad.",
+              "Egy összecsukható esernyő ideális a megállók közötti útra.",
+              "Igyon meg egy forró török teát az egyik benti kávézóban."
+            ],
+            "ro": [
+              "Poartă încălțăminte impermeabilă pentru plimbarea pe faleză.",
+              "Muzeele sunt cele mai bune refugii în caz de ploaie torențială.",
+              "Piața de caise este parțial acoperită, deci vei rămâne uscat.",
+              "O umbrelă pliabilă este ideală pentru drumul între obiective.",
+              "Savurează un ceai turcesc fierbinte într-o cafenea primitoare."
+            ],
+            "en": [
+              "Wear waterproof shoes for walking along the promenade.",
+              "The museums are the best shelters during heavy rain.",
+              "The apricot market is partially covered, keeping you dry.",
+              "A compact umbrella is ideal for moving between stops.",
+              "Enjoy a hot Turkish tea in one of the indoor cafes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft empfängt Sie am Beşkonaklar-Museum. Mittags ist die Heizung im Malatya-Museum eine willkommene Erleichterung. Der kurze Spaziergang entlang Kanalboyu findet im goldenen Licht des Nachmittags statt, bevor es früh dunkel wird. Der Kernek-Wasserfall wirkt bei Frost fast majestätisch. Ein Becher Tee am Markt wärmt Sie zum Abschluss auf.",
+            "hu": "A friss téli levegő fogadja a Beşkonaklar Múzeumnál. Délben a Malatya Múzeum fűtése igazi felüdülés a hideg után. A rövid séta a Kanalboyu mentén a délutáni aranyló fényekben zajlik, mielőtt korán leszáll az éj. A Kernek-vízesés fagyos környezetben fenséges látvány. A piacon egy pohár forró tea melegít fel a nap végén.",
+            "ro": "Aerul rece de iarnă te întâmpină la Muzeul Beşkonaklar. La prânz, încălzirea din Muzeul Malatya este o ușurare binevenită. Scurta plimbare pe Kanalboyu are loc în lumina aurie a după-amiezii, înainte de amurgul timpuriu. Cascada Kernek arată maiestuos în îngheț. Un ceai fierbinte în piață te va încălzi la final.",
+            "en": "The crisp winter air greets you at the Beşkonaklar Museum. By noon, the heating in the Malatya Museum is a welcome relief. A short walk along Kanalboyu takes place in the golden afternoon light before the early sunset. Kernek Waterfall looks majestic in the frost. A hot tea at the market warms you up at the end of the day."
+          },
+          "stops": [
+            {
+              "name": "Beşkonaklar Museum",
+              "tip_5lang": {
+                "de": "Innen ist es gemütlich warm, ideal für den Start am Morgen.",
+                "hu": "Odabent kellemes meleg van, ideális a reggeli kezdéshez.",
+                "ro": "Interiorul este cald și primitor, ideal pentru startul zilei.",
+                "en": "It's cozy and warm inside, ideal for starting your morning."
+              }
+            },
+            {
+              "name": "Malatya Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um sich zwischen den Spaziergängen aufzuwärmen.",
+                "hu": "Tökéletes hely a felmelegedésre a kinti séták között.",
+                "ro": "Locul perfect pentru a te încălzi între plimbările de afară.",
+                "en": "Perfect place to warm up between outdoor walks."
+              }
+            },
+            {
+              "name": "Kanalboyu Promenade",
+              "tip_5lang": {
+                "de": "Tragen Sie Schichten, da der Wind hier recht kalt sein kann.",
+                "hu": "Öltözzön rétegesen, mert a szél itt elég hideg tud lenni.",
+                "ro": "Îmbracă-te în straturi, vântul poate fi destul de rece aici.",
+                "en": "Dress in layers, as the wind can be quite cold here."
+              }
+            },
+            {
+              "name": "Kernek Waterfall",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Stellen auf den Wegen am Wasser.",
+                "hu": "Vigyázzon a fagyott szakaszokra a víz menti ösvényeken.",
+                "ro": "Atenție la porțiunile înghețate de pe potecile de lângă apă.",
+                "en": "Watch out for frozen patches on the paths near the water."
+              }
+            },
+            {
+              "name": "Apricot Market (Şire Pazarı)",
+              "tip_5lang": {
+                "de": "Holen Sie sich getrocknete Früchte als natürlichen Energiespender.",
+                "hu": "Vegyél aszalt gyümölcsöt, ami természetes energiaforrás a hidegben.",
+                "ro": "Cumpără fructe uscate, o sursă excelentă de energie pe frig.",
+                "en": "Get some dried fruits as a natural energy booster in the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und eine Mütze sind unerlässlich.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Besuchen Sie die Museen in der kältesten Mittagszeit.",
+              "Trinken Sie zwischendurch heißen 'Salep' zum Aufwärmen.",
+              "Achten Sie auf rutschige Gehwege bei Frost."
+            ],
+            "hu": [
+              "A meleg kesztyű és sapka elengedhetetlen a sétához.",
+              "A nap télen már 16:30 körül lenyugszik Malatyában.",
+              "A múzeumlátogatást a leghidegebb déli órákra időzítse.",
+              "Igyon egy forró 'salep'-et a felmelegedéshez.",
+              "Vigyázzon a csúszós járdákra fagyos időben."
+            ],
+            "ro": [
+              "Mănușile călduroase și căciula sunt esențiale.",
+              "Soarele apune deja în jurul orei 16:30 pe timp de iarnă.",
+              "Vizitează muzeele în cele mai reci ore ale amiezii.",
+              "Bea un 'salep' fierbinte pentru a te încălzi rapid.",
+              "Atenție la trotuarele alunecoase în caz de îngheț."
+            ],
+            "en": [
+              "Warm gloves and a hat are essential for walking.",
+              "The sun sets as early as 16:30 in winter in Malatya.",
+              "Time your museum visits for the coldest midday hours.",
+              "Drink a hot 'salep' to warm up between stops.",
+              "Be careful of slippery pavements during frost."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -630,6 +802,178 @@
           "The route to Arslantepe has some inclines, be prepared.",
           "Bring a lock to secure your bike at the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radeln durch Malatyas Pfützen erfordert Konzentration. Die Kanalboyu-Promenade ist glatt, und das Museum bietet den perfekten Ort zum Trocknen. Die Fahrt nach Orduzu ist bei Regen eine Herausforderung, und Arslantepe kann schlammig sein. Suchen Sie Zuflucht in der historischen Ulu Cami in Battalgazi, während der Regen auf das Dach trommelt.",
+            "hu": "A Malatya tócsái közötti biciklizés koncentrációt igényel. A Kanalboyu sétány csúszós, a múzeum pedig tökéletes hely a száradáshoz. Az út Orduzuba esőben kihívás, Arslantepe pedig saras lehet. Keressen menedéket a battalgazi Ulu Cami történelmi falai között, miközben az eső a tetőn kopog.",
+            "ro": "Pedalatul printre bălțile din Malatya necesită concentrare. Faleza Kanalboyu este alunecoasă, iar muzeul oferă locul perfect pentru uscare. Drumul spre Orduzu este o provocare pe ploaie, iar Arslantepe poate fi noroios. Caută refugiu în istorica Ulu Cami din Battalgazi în timp ce ploaia bate în acoperiș.",
+            "en": "Cycling through Malatya's puddles requires focus. Kanalboyu is slick, and the museum offers the perfect drying spot. The ride to Orduzu is challenging in the rain, and Arslantepe can be muddy. Seek refuge in the historic Ulu Cami at Battalgazi while the rain drums on the roof."
+          },
+          "stops": [
+            {
+              "name": "Kanalboyu Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht in den Kurven, der nasse Asphalt ist tückisch.",
+                "hu": "Vigyázzon a kanyarokban, a vizes aszfalt csalóka lehet.",
+                "ro": "Atenție în curbe, asfaltul ud poate fi înșelător.",
+                "en": "Be careful in the turns, the wet asphalt can be tricky."
+              }
+            },
+            {
+              "name": "Malatya Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um Ihre Kleidung etwas zu trocknen.",
+                "hu": "Használja ki a megállót a ruházat részleges megszárítására.",
+                "ro": "Profită de oprire pentru a-ți usca puțin hainele.",
+                "en": "Use this stop to dry your clothes a bit."
+              }
+            },
+            {
+              "name": "Orduzu-Pınarbaşı",
+              "tip_5lang": {
+                "de": "Die Wege im Park können sehr rutschig und schlammig sein.",
+                "hu": "A park ösvényei nagyon csúszósak és sarasak lehetnek.",
+                "ro": "Potecile din parc pot fi foarte alunecoase și noroioase.",
+                "en": "The paths in the park can be very slippery and muddy."
+              }
+            },
+            {
+              "name": "Arslantepe Mound",
+              "tip_5lang": {
+                "de": "Der Hügel ist ungeschützt, wasserfeste Kleidung ist wichtig.",
+                "hu": "A domb védtelen, a vízálló ruházat itt kulcsfontosságú.",
+                "ro": "Dealul este expus, îmbrăcămintea impermeabilă este crucială.",
+                "en": "The mound is exposed, waterproof clothing is crucial here."
+              }
+            },
+            {
+              "name": "Ulu Cami Battalgazi",
+              "tip_5lang": {
+                "de": "Ein friedlicher, trockener Ort zum Abschluss der Tour.",
+                "hu": "Békés, száraz hely a túra befejezéséhez.",
+                "ro": "Un loc liniștit și uscat pentru a încheia turul.",
+                "en": "A peaceful, dry place to conclude your tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt bei Nässe.",
+              "Schutzbleche sind bei diesem Wetter sehr zu empfehlen.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Meiden Sie tiefere Pfützen, um Schlaglöcher zu umgehen.",
+              "Ein Handtuch im Rucksack ist nach der Fahrt Gold wert."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fékeket a nedves úton.",
+              "A sárvédő használata erősen ajánlott ilyen időben.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóságért.",
+              "Kerülje a mélyebb tócsákat az úthibák miatt.",
+              "Egy törölköző a hátizsákban aranyat ér a túra végén."
+            ],
+            "ro": [
+              "Verifică frânele înainte de plecare pe carosabil ud.",
+              "Apărătorile de noroi sunt recomandate pe această vreme.",
+              "Poartă o jachetă de ploaie reflectorizantă pentru vizibilitate.",
+              "Evită bălțile adânci pentru a ocoli eventualele gropi.",
+              "Un prosop în rucsac este extrem de util după cursă."
+            ],
+            "en": [
+              "Check your brakes before starting on wet roads.",
+              "Mudguards are highly recommended in this weather.",
+              "Wear a bright raincoat for better visibility to drivers.",
+              "Avoid deep puddles to bypass potential potholes.",
+              "A towel in your backpack is worth its weight in gold."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eisiger Wind auf dem Weg nach Kanalboyu weckt Ihre Sinne. Der Museumsbesuch ist ein willkommenes Aufwärmen am Vormittag. Die lange Fahrt nach Orduzu und Arslantepe erfordert dicke Handschuhe und mehrere schichten Kleidung. Die Moschee von Battalgazi bietet zum Abschluss einen friedlichen, geschützten Ort, bevor die Dunkelheit hereinbricht.",
+            "hu": "A fagyos szél a Kanalboyu felé ébresztőleg hat. A múzeumlátogatás egy kellemes délelőtti felmelegedés. A hosszú út Orduzuba és Arslantepe felé vastag kesztyűt és több réteg ruhát igényel. A battalgazi mecset békés, védett helyet kínál a befejezéshez, mielőtt leszáll a sötétség.",
+            "ro": "Vântul înghețat în drum spre Kanalboyu îți trezește simțurile. Vizita la muzeu este o încălzire binevenită în cursul dimineții. Drumul lung spre Orduzu și Arslantepe necesită mănuși groase și mai multe straturi. Moscheea din Battalgazi oferă un loc liniștit și protejat la final, înainte de lăsarea întunerikuui.",
+            "en": "Freezing winds on the way to Kanalboyu wake you up. The museum visit is a welcome warm-up in the morning. The long ride to Orduzu and Arslantepe requires thick gloves and multiple layers. Battalgazi's mosque provides a peaceful, sheltered conclusion before the darkness sets in."
+          },
+          "stops": [
+            {
+              "name": "Kanalboyu Promenade",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den schattigen Radwegen.",
+                "hu": "Vigyázzon a jegesedésre az árnyékos kerékpárutakon.",
+                "ro": "Atenție la polei pe pistele de biciclete umbrite.",
+                "en": "Watch out for black ice on shaded bike paths."
+              }
+            },
+            {
+              "name": "Malatya Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände auf, bevor Sie weiterfahren.",
+                "hu": "Melegítse fel a kezeit, mielőtt folytatná az utat.",
+                "ro": "Încălzește-ți mâinile înainte de a continua drumul.",
+                "en": "Warm up your hands before continuing your ride."
+              }
+            },
+            {
+              "name": "Orduzu-Pınarbaşı",
+              "tip_5lang": {
+                "de": "Der Wind am See kann die gefühlte Temperatur stark senken.",
+                "hu": "A tó melletti szél jelentősen csökkentheti a hőérzetet.",
+                "ro": "Vântul de lângă lac poate scădea mult temperatura resimțită.",
+                "en": "The wind by the lake can significantly lower the perceived temperature."
+              }
+            },
+            {
+              "name": "Arslantepe Mound",
+              "tip_5lang": {
+                "de": "Es gibt wenig Windschutz auf dem Gelände, ziehen Sie sich warm an.",
+                "hu": "Kevés a szélvédett hely a területen, öltözzön nagyon melegen.",
+                "ro": "Există puțin adăpost împotriva vântului, îmbracă-te gros.",
+                "en": "There is little wind protection on site, dress very warmly."
+              }
+            },
+            {
+              "name": "Ulu Cami Battalgazi",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und den Schutz vor der Kälte.",
+                "hu": "Élvezze a csendet és a hideg elleni védelmet.",
+                "ro": "Bucură-te de liniște și de protecția împotriva frigului.",
+                "en": "Enjoy the silence and the protection from the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Dicke Handschuhe sind bei Frost absolut notwendig.",
+              "Halten Sie die Fahrtzeiten wegen der Kälte kurz.",
+              "Batterien von E-Bikes entladen sich bei Kälte schneller.",
+              "Trinken Sie ausreichend, auch wenn Sie weniger Durst verspüren.",
+              "Die Dämmerung beginnt früh, prüfen Sie Ihr Licht."
+            ],
+            "hu": [
+              "A vastag kesztyű fagyban elengedhetetlen a kormányzáshoz.",
+              "Tartsa röviden a menetidőket a hideg miatt.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül.",
+              "Igyon eleget, még ha kevésbé is érzi szomjasnak magát.",
+              "A szürkület korán kezdődik, ellenőrizze a világítást."
+            ],
+            "ro": [
+              "Mănușile groase sunt absolut necesare pe timp de îngheț.",
+              "Menține intervalele de pedalat scurte din cauza frigului.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Hidratează-te suficient, chiar dacă nu simți setea atât de tare.",
+              "Amurgul începe devreme, verifică sistemul de iluminare."
+            ],
+            "en": [
+              "Thick gloves are absolutely necessary in freezing weather.",
+              "Keep riding intervals short due to the cold temperatures.",
+              "E-bike batteries discharge faster in cold weather.",
+              "Drink enough fluids, even if you feel less thirsty.",
+              "Twilight starts early, check your bike lights."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -966,6 +1310,196 @@
           "Plan your route in advance to avoid traffic jams.",
           "Pay attention to speed limits, especially on country roads."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie trocken mit einer Fahrt nach Arslantepe und beobachten Sie den Regen auf dem modernen Schutzdach. Die Moschee in Battalgazi ist nur einen kurzen Sprint vom Auto entfernt. Das Levent-Tal wirkt im Nebel mystisch. Das Mittagessen in der Stadt ist dank naher Parkplätze unkompliziert. Die Museumsbesuche am Nachmittag halten den Regen fern.",
+            "hu": "Kezdje szárazon az utat Arslantepe felé, és nézze az esőt a modern védőtetőről. A battalgazi mecset csak egy rövid sprintre van az autótól. A Levent-völgy misztikusnak tűnik a ködben. A városi ebéd a közeli parkolók miatt egyszerű. A délutáni múzeumlátogatások távol tartják az esőt.",
+            "ro": "Începe ziua la adăpost cu o călătorie spre Arslantepe, privind ploaia de sub acoperiș. Moscheea din Battalgazi e la un scurt sprint distanță de mașină. Valea Levent pare mistică în ceață. Prânzul în oraș este facil datorită parcărilor apropiate. Vizitele la muzeu de după-amiază te feresc de ploaie.",
+            "en": "Start dry with a drive to Arslantepe, watching the rain hit the ruins' protective roof. The mosque in Battalgazi is just a short dash from the car. Levent Valley looks mystical in the mist. Lunch in the city is easy with nearby parking. Afternoon museum visits keep the rain at bay."
+          },
+          "stops": [
+            {
+              "name": "Arslantepe Mound",
+              "tip_5lang": {
+                "de": "Das moderne Dach bietet guten Schutz vor dem Regen.",
+                "hu": "A modern tető jó védelmet nyújt az eső ellen.",
+                "ro": "Acoperișul modern oferă o protecție bună împotriva ploii.",
+                "en": "The modern roof provides good protection from the rain."
+              }
+            },
+            {
+              "name": "Ulu Cami Battalgazi",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken zu bleiben.",
+                "hu": "Parkoljon közel a bejárathoz, hogy száraz maradjon.",
+                "ro": "Parchează aproape de intrare pentru a rămâne uscat.",
+                "en": "Park close to the entrance to stay dry."
+              }
+            },
+            {
+              "name": "Levent Valley",
+              "tip_5lang": {
+                "de": "Fahren Sie bei schlechter Sicht vorsichtig in die Schlucht.",
+                "hu": "Rossz látási viszonyok között óvatosan hajtson a völgybe.",
+                "ro": "Condu cu atenție spre vale în condiții de vizibilitate redusă.",
+                "en": "Drive carefully into the valley in poor visibility."
+              }
+            },
+            {
+              "name": "Lunch in the city",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Parkmöglichkeiten direkt davor.",
+                "hu": "Válasszon olyan éttermet, amelynek közvetlen közelében van parkoló.",
+                "ro": "Alege un restaurant cu posibilitate de parcare chiar în față.",
+                "en": "Choose a restaurant with parking options right in front."
+              }
+            },
+            {
+              "name": "Malatya Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die stärksten Regenstunden zu verbringen.",
+                "hu": "Ideális hely a legerősebb esőzés óráinak eltöltésére.",
+                "ro": "Un loc ideal pentru a petrece orele cu ploaie torențială.",
+                "en": "An ideal place to spend the hours of heaviest rain."
+              }
+            },
+            {
+              "name": "Beşkonaklar Museum",
+              "tip_5lang": {
+                "de": "Kurzer Stopp möglich, da Parken meist in der Nähe klappt.",
+                "hu": "Rövid megálló lehetséges, a parkolás általában a közelben megoldható.",
+                "ro": "Oprire scurtă posibilă, parcarea fiind de obicei facilă în zonă.",
+                "en": "A quick stop is possible, as parking is usually available nearby."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt.",
+              "Achten Sie auf Aquaplaning auf den Fernstraßen.",
+              "Die Sicht im Levent-Tal kann bei Nebel stark eingeschränkt sein.",
+              "Nutzen Sie Parkhäuser im Zentrum, um trocken auszusteigen.",
+              "Behalten Sie den Wetterbericht für Gebirgsstraßen im Auge."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Ügyeljen a vízenfutásra (aquaplaning) a főutakon.",
+              "A kilátás a Levent-völgyben ködben korlátozott lehet.",
+              "Használja a belvárosi parkolóházakat a száraz kiszálláshoz.",
+              "Figyelje az időjárás-jelentést a hegyi utak miatt."
+            ],
+            "ro": [
+              "Verifică starea ștergătoarelor înainte de a pleca la drum.",
+              "Atenție la acvaplanare pe drumurile principale.",
+              "Vizibilitatea în Valea Levent poate fi redusă din cauza ceții.",
+              "Folosește parcările acoperite din centru pentru a rămâne uscat.",
+              "Monitorizează prognoza meteo pentru drumurile montane."
+            ],
+            "en": [
+              "Check your windshield wipers before starting the trip.",
+              "Watch out for aquaplaning on the main highways.",
+              "Visibility in Levent Valley can be limited due to mist.",
+              "Use indoor parking lots in the center to stay dry.",
+              "Keep an eye on the weather report for mountain roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beheizte Sitze machen den Ausflug nach Arslantepe trotz Frost angenehm. Battalgazi wirkt im Winterschlaf ruhig und besinnlich. Die Fahrt zum Levent-Tal bietet beeindruckende Ausblicke auf die verschneite Schlucht. Ein gemütliches Mittagessen in Malatya wärmt Sie auf, gefolgt von Museumsbesuchen bis zum frühen Wintersonnenuntergang.",
+            "hu": "A fűtött ülések kellemessé teszik az utat Arslantepe felé a fagy ellenére is. Battalgazi csendes és megnyugtató a téli álomban. A Levent-völgybe vezető út lenyűgöző kilátást nyújt a havas szurdokra. Egy hangulatos ebéd Malatyában felmelegíti, majd múzeumlátogatás következik a korai naplementéig.",
+            "ro": "Scaunele încălzite fac excursia la Arslantepe plăcută în ciuda gerului. Battalgazi pare liniștit și contemplativ în somnul de iarnă. Drumul spre Valea Levent oferă vederi uimitoare asupra canionului înzăpezit. Un prânz primitor în Malatya te va încălzi, urmat de vizite la muzee până la apusul timpuriu.",
+            "en": "Heated seats make the trip to Arslantepe pleasant despite the frost. Battalgazi feels quiet and contemplative in its winter sleep. The drive to Levent Valley offers stunning views of the snowy canyon. A cozy lunch in Malatya warms you up, followed by museum visits until the early winter sunset."
+          },
+          "stops": [
+            {
+              "name": "Arslantepe Mound",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Treppen am archäologischen Fundort.",
+                "hu": "Vigyázzon a jeges lépcsőkre a régészeti lelőhelyen.",
+                "ro": "Atenție la scările înghețate de la situl arheologic.",
+                "en": "Watch out for icy steps at the archaeological site."
+              }
+            },
+            {
+              "name": "Ulu Cami Battalgazi",
+              "tip_5lang": {
+                "de": "Im Inneren der Moschee ist es deutlich kühler als im Auto.",
+                "hu": "A mecset belsejében jóval hűvösebb van, mint az autóban.",
+                "ro": "În interiorul moscheii este mult mai rece decât în mașină.",
+                "en": "It is much cooler inside the mosque than in the car."
+              }
+            },
+            {
+              "name": "Levent Valley",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Straßenbedingungen vor der Fahrt in die Höhe.",
+                "hu": "Ellenőrizze az útviszonyokat, mielőtt a magasabban fekvő völgybe hajt.",
+                "ro": "Verifică starea drumurilor înainte de a urca spre vale.",
+                "en": "Check road conditions before driving up to the valley."
+              }
+            },
+            {
+              "name": "Lunch in the city",
+              "tip_5lang": {
+                "de": "Ein heißer Eintopf ist das perfekte Winteressen hier.",
+                "hu": "Egy forró egytálétel a tökéletes téli ebéd itt.",
+                "ro": "O tocană fierbinte este prânzul perfect de iarnă aici.",
+                "en": "A hot stew is the perfect winter lunch here."
+              }
+            },
+            {
+              "name": "Malatya Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme der Ausstellungsräume am Nachmittag.",
+                "hu": "Élvezze a kiállítótermek melegét a délutáni órákban.",
+                "ro": "Bucură-te de căldura sălilor de expoziție după-amiaza.",
+                "en": "Enjoy the warmth of the exhibition halls in the afternoon."
+              }
+            },
+            {
+              "name": "Beşkonaklar Museum",
+              "tip_5lang": {
+                "de": "Kurzer, informativer Abschluss, bevor es draußen zu kalt wird.",
+                "hu": "Rövid, tanulságos lezárás, mielőtt odakint túl hideg lenne.",
+                "ro": "O încheiere scurtă și informativă înainte de a se face prea frig.",
+                "en": "A short, informative conclusion before it gets too cold outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind für Fahrten zum Levent-Tal Pflicht.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Halten Sie eine Decke und Eiskratzer im Auto bereit.",
+              "Achten Sie auf plötzlichen Glatteis auf Brücken.",
+              "Parken Sie im Schatten, um das Einfrieren der Türen zu vermeiden."
+            ],
+            "hu": [
+              "A téli gumi kötelező a Levent-völgybe vezető utakon.",
+              "Töltsön fagyállót a szélvédőmosó tartályba.",
+              "Legyen az autóban takaró és jégkaparó minden esetre.",
+              "Ügyeljen a hirtelen jegesedésre a hidakon.",
+              "Lehetőleg fedett helyen parkoljon a befagyás elkerülésére."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii pentru drumul spre Valea Levent.",
+              "Pune lichid de parbriz rezistent la îngheț.",
+              "Păstrează o pătură și o racletă în mașină.",
+              "Atenție la poleiul care se formează brusc pe poduri.",
+              "Parchează în locuri adăpostite pentru a evita înghețarea ușilor."
+            ],
+            "en": [
+              "Winter tires are mandatory for trips to Levent Valley.",
+              "Fill the windshield washer reservoir with antifreeze.",
+              "Keep a blanket and an ice scraper in the car.",
+              "Watch out for sudden black ice on bridges.",
+              "Park in sheltered areas to avoid frozen door seals."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1302,6 +1836,196 @@
           "Ask locals for the right bus or dolmuş line; they are very helpful.",
           "Check the schedules, especially for the last return trip in the evening."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Busfahrten bieten einen guten Blick auf die regnerischen Straßen. Beginnen Sie im Malatya-Museum und fahren Sie dann zum Beşkonaklar. Der Ausflug nach Battalgazi erfordert etwas Wartezeit an den Haltestellen, also halten Sie den Schirm bereit. Arslantepe ist auch in Grau beeindruckend. Den Tag beendet ein gemütliches Abendessen im Stadtzentrum.",
+            "hu": "A buszozás jó rálátást biztosít az eső áztatta utcákra. Kezdjen a Malatya Múzeumban, majd irány a Beşkonaklar. A battalgazi kirándulás várakozással jár a megállókban, így tartsa készenlétben az esernyőjét. Arslantepe szürkületben is lenyűgöző. A napot egy kellemes vacsora zárja a belvárosban.",
+            "ro": "Călătoriile cu autobuzul oferă o perspectivă bună asupra străzilor ploioase. Începe la Muzeul Malatya, apoi mergi spre Beşkonaklar. Excursia spre Battalgazi implică așteptare în stații, deci ține umbrela pregătită. Arslantepe este impresionant chiar și pe gri. Ziua se încheie cu o cină caldă în centru.",
+            "en": "Bus rides offer a good view of the rainy streets. Start at the Malatya Museum, then head to Beşkonaklar. The trip to Battalgazi involves some waiting at stops, so keep your umbrella ready. Arslantepe is impressive even in the gray. End the day with a cozy dinner in the city center."
+          },
+          "stops": [
+            {
+              "name": "Malatya Museum",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle befindet sich in unmittelbarer Nähe.",
+                "hu": "A buszmegálló közvetlenül a múzeum mellett található.",
+                "ro": "Stația de autobuz se află în imediata apropiere a muzeului.",
+                "en": "The bus stop is located in the immediate vicinity of the museum."
+              }
+            },
+            {
+              "name": "Beşkonaklar Museum",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg von der Haltestelle, nehmen Sie den Schirm mit.",
+                "hu": "Rövid séta a megállótól, vigye magával az esernyőjét.",
+                "ro": "O scurtă plimbare de la stație, ia umbrela cu tine.",
+                "en": "A short walk from the stop, take your umbrella with you."
+              }
+            },
+            {
+              "name": "Ulu Cami Battalgazi",
+              "tip_5lang": {
+                "de": "Warten Sie unter den überdachten Haltestellen auf den Anschluss.",
+                "hu": "Várjon a fedett megállókban a csatlakozásra.",
+                "ro": "Așteaptă legătura în stațiile acoperite.",
+                "en": "Wait for your connection under the covered shelters."
+              }
+            },
+            {
+              "name": "Arslantepe Mound",
+              "tip_5lang": {
+                "de": "Der Weg zur Fundstätte kann bei Regen etwas matschig sein.",
+                "hu": "A lelőhelyhez vezető út esőben kissé sáros lehet.",
+                "ro": "Drumul spre situl arheologic poate fi noroios pe ploaie.",
+                "en": "The path to the archaeological site can be muddy in the rain."
+              }
+            },
+            {
+              "name": "Orduzu-Pınarbaşı",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist der Aufenthalt im Freien hier kurz zu halten.",
+                "hu": "Heves esőben érdemes lerövidíteni az itt töltött időt.",
+                "ro": "În caz de ploaie torențială, scurtează vizita în aer liber.",
+                "en": "In case of heavy rain, keep your outdoor stay here short."
+              }
+            },
+            {
+              "name": "Dinner",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant nah an einer zentralen Buslinie.",
+                "hu": "Válasszon éttermet egy központi buszvonal közelében.",
+                "ro": "Alege un restaurant aproape de o linie de autobuz centrală.",
+                "en": "Choose a restaurant close to a central bus line."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie Ihre Malatya-Karte aufgeladen und griffbereit.",
+              "Nutzen Sie die App für Echtzeit-Abfahrtszeiten.",
+              "Warten Sie bei Regen in den Fahrgastunterständen.",
+              "Vermeiden Sie die Stoßzeiten am späten Nachmittag.",
+              "Ein kleiner Schirm passt gut in die Tasche für den Bus."
+            ],
+            "hu": [
+              "Legyen feltöltve a Malatya kártyája és tartsa kéznél.",
+              "Használja a mobilalkalmazást a valós idejű indulásokhoz.",
+              "Esőben várakozzon a fedett utasvárókban.",
+              "Kerülje a késő délutáni csúcsforgalmat a buszokon.",
+              "Egy kis esernyő könnyen elfér a táskában a buszozáshoz."
+            ],
+            "ro": [
+              "Asigură-te că ai cardul Malatya încărcat și la îndemână.",
+              "Folosește aplicația pentru orele de plecare în timp real.",
+              "Așteaptă în refugii pe timp de ploaie.",
+              "Evită orele de vârf de la sfârșitul după-amiezii.",
+              "O umbrelă mică este practică pentru deplasarea cu autobuzul."
+            ],
+            "en": [
+              "Have your Malatya Card topped up and ready to use.",
+              "Use the mobile app for real-time departure information.",
+              "Wait inside the passenger shelters during rain.",
+              "Avoid late afternoon rush hours on public transit.",
+              "A compact umbrella fits easily in your bag for bus trips."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das Nahverkehrssystem ist Ihr warmer Korridor durch die Stadt. Museumsbesuche sind perfekt für die kältesten Stunden des Tages geplant. Battalgazi und Arslantepe wirken im klaren Winterlicht fast surreal. Der Pınarbaşı-See ist gefroren und strahlt eine tiefe Ruhe aus. Ein herzhaftes Abendessen im Zentrum ist der ideale Abschluss.",
+            "hu": "A tömegközlekedés egyfajta meleg folyosóként szolgál a városon át. A múzeumlátogatások a nap leghidegebb óráira vannak időzítve. Battalgazi és Arslantepe a tiszta téli fényben szinte szürreálisnak hat. A Pınarbaşı-tó befagyott és mély nyugalmat áraszt. Egy kiadós vacsora a központban a tökéletes lezárás.",
+            "ro": "Sistemul de transport este coridorul tău cald prin oraș. Vizitele la muzee sunt programate perfect pentru cele mai reci ore. Battalgazi și Arslantepe par aproape ireale în lumina clară de iarnă. Lacul Pınarbaşı este înghețat și emană o liniște profundă. O cină consistentă în centru este finalul ideal.",
+            "en": "The transit system is your warm corridor through the city. Museum visits are perfectly timed for the coldest hours of the day. Battalgazi and Arslantepe look almost surreal in the clear winter light. Pınarbaşı Lake is frozen and radiates deep peace. A hearty dinner in the center is the perfect conclusion."
+          },
+          "stops": [
+            {
+              "name": "Malatya Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Heizung, während Sie auf den nächsten Bus warten.",
+                "hu": "Élvezze a fűtést, amíg a következő buszra vár.",
+                "ro": "Bucură-te de căldură în timp ce aștepți următorul autobuz.",
+                "en": "Enjoy the heating while waiting for the next bus."
+              }
+            },
+            {
+              "name": "Beşkonaklar Museum",
+              "tip_5lang": {
+                "de": "Der Weg zur Haltestelle ist kurz, aber ziehen Sie sich warm an.",
+                "hu": "A megállóhoz vezető út rövid, de öltözzön melegen.",
+                "ro": "Drumul spre stație este scurt, dar îmbracă-te gros.",
+                "en": "The walk to the stop is short, but dress warmly."
+              }
+            },
+            {
+              "name": "Ulu Cami Battalgazi",
+              "tip_5lang": {
+                "de": "Achten Sie auf die selteneren Fahrzeiten der Busse im Winter.",
+                "hu": "Ügyeljen a ritkább buszjáratokra a téli időszakban.",
+                "ro": "Atenție la frecvența redusă a autobuzelor pe timp de iarnă.",
+                "en": "Be aware of less frequent bus schedules during winter."
+              }
+            },
+            {
+              "name": "Arslantepe Mound",
+              "tip_5lang": {
+                "de": "Die freie Fläche ist im Winter sehr windanfällig.",
+                "hu": "A nyílt terep télen nagyon szeles lehet, készüljön fel.",
+                "ro": "Zona deschisă este foarte expusă vântului iarna.",
+                "en": "The open area is very prone to wind in winter."
+              }
+            },
+            {
+              "name": "Orduzu-Pınarbaşı",
+              "tip_5lang": {
+                "de": "Der zugefrorene See ist ein schönes Fotomotiv, aber Vorsicht.",
+                "hu": "A befagyott tó szép fotótéma, de legyen óvatos a parton.",
+                "ro": "Lacul înghețat este un subiect foto frumos, dar fii atent.",
+                "en": "The frozen lake is a beautiful photo subject, but be careful."
+              }
+            },
+            {
+              "name": "Dinner",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei einem traditionellen Gericht auf.",
+                "hu": "Melegedjen fel egy hagyományos, forró fogás mellett.",
+                "ro": "Încălzește-te cu un preparat tradițional fierbinte.",
+                "en": "Warm up with a traditional hot dish."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft stark beheizt, kleiden Sie sich variabel.",
+              "Die Wartezeiten im Freien können bei Frost lang erscheinen.",
+              "Nutzen Sie die belebten Haltestellen für mehr Sicherheit.",
+              "Letzte Rückfahrten aus Battalgazi sind oft früher als gedacht.",
+              "Tragen Sie rutschfeste Sohlen für die Wege zur Haltestelle."
+            ],
+            "hu": [
+              "A buszok télen gyakran túl vannak fűtve, öltözzön rétegesen.",
+              "A kinti várakozás fagyban hosszúnak tűnhet.",
+              "A forgalmasabb megállókat válassza a biztonság érdekében.",
+              "Az utolsó járatok Battalgaziból korábban indulhatnak.",
+              "Viseljen csúszásmentes talpú cipőt a megállóhoz vezető úton."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea supraîncălzite iarna, îmbracă-te stratificat.",
+              "Așteptarea în aer liber poate părea lungă pe ger.",
+              "Folosește stațiile mai populate pentru mai multă siguranță.",
+              "Ultimele curse din Battalgazi pot fi mai devreme decât crezi.",
+              "Poartă încălțăminte cu talpă antiderapantă spre stație."
+            ],
+            "en": [
+              "Buses are often heavily heated in winter, so dress in layers.",
+              "Waiting outdoors in freezing weather can feel long.",
+              "Use busy stops for better safety and comfort.",
+              "The last return buses from Battalgazi may be earlier in winter.",
+              "Wear non-slip soles for the walks to and from stops."
+            ]
+          }
+        }
       }
     }
   }

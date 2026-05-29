@@ -362,6 +362,196 @@
           "Check the times of the bird of prey show at the castle in advance.",
           "A water bottle is essential for the walk."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die Arkaden am Hauptplatz Schutz vor dem Regen. Mittags erkunden Sie das trockene Kirchenschiff von St. Oswald und das Kulturzentrum. Nachmittags führt ein kurzer, regnerischer Spaziergang entlang der Mürz zum Schlossberg. Den Tag lassen Sie in den historischen, gemütlichen Innenräumen der Burg Oberkapfenberg ausklingen, während draußen die Tropfen gegen die alten Fenster peitschen.",
+            "hu": "Reggel a Fő tér árkádjai nyújtanak menedéket az eső elől. Délben a Szent Oszvald-plébániatemplom és a Kulturális Központ fedett terei várják. Délután egy esernyős séta következik a Mürz-parton, majd a napot az Oberkapfenberg-vár vastag falai között, biztonságban zárhatja. Az esős időben a várkastély múzeuma és étterme különösen hangulatos és hívogató helyszín.",
+            "ro": "Dimineața, arcadele din Piața Principală oferă adăpost împotriva ploii. La prânz, explorați interiorul uscat al bisericii St. Oswald și centrul cultural. După-amiaza, o scurtă plimbare cu umbrela de-a lungul râului Mürz vă conduce spre dealul castelului. Încheiați ziua în interiorul istoric al Castelului Oberkapfenberg, ascultând ploaia care bate în ferestrele vechi, într-o atmosferă medievală autentică.",
+            "en": "Morning rain is best dodged under the arcades of the Main Square. Midday offers dry refuge inside St. Oswald's Church and the Cultural Centre. In the afternoon, a damp stroll along the Mürz leads you to the castle hill. End your day inside the sturdy walls of Oberkapfenberg Castle, where the museum and tavern provide a warm, dry escape from the Steiermark drizzle."
+          },
+          "stops": [
+            {
+              "name": "Main Square & Old Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden und Cafés am Platz, um trocken zu bleiben.",
+                "hu": "Használja a tér árkádjait és kávézóit, hogy száraz maradjon.",
+                "ro": "Folosiți arcadele și cafenelele din piață pentru a rămâne uscat.",
+                "en": "Use the square's arcades and cafes to stay dry while exploring."
+              }
+            },
+            {
+              "name": "Parish Church of St. Oswald",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine ruhige, trockene Pause mit historischem Flair.",
+                "hu": "Ideális helyszín egy csendes, száraz pihenőhöz történelmi környezetben.",
+                "ro": "Un loc ideal pentru o pauză liniștită și uscată, cu fler istoric.",
+                "en": "An ideal spot for a quiet, dry break with a historic atmosphere."
+              }
+            },
+            {
+              "name": "Cultural Centre",
+              "tip_5lang": {
+                "de": "Perfekt, um aktuelle Ausstellungen im Trockenen zu bewundern.",
+                "hu": "Tökéletes az aktuális kiállítások megtekintéséhez az eső elől menekülve.",
+                "ro": "Perfect pentru a admira expozițiile actuale la adăpost de ploaie.",
+                "en": "Perfect for admiring current exhibitions while staying indoors."
+              }
+            },
+            {
+              "name": "Rosegger Park",
+              "tip_5lang": {
+                "de": "Die dichten Bäume bieten etwas Schutz, aber ein Schirm ist ratsam.",
+                "hu": "A sűrű lombok némi védelmet adnak, de az esernyő ajánlott.",
+                "ro": "Copacii deși oferă puțină protecție, dar umbrela este recomandată.",
+                "en": "The dense trees offer some cover, but an umbrella is highly advised."
+              }
+            },
+            {
+              "name": "Mürz River Promenade",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Wege am Flussufer bei Nässe.",
+                "hu": "Vigyázzon a csúszós utakra a folyóparton esős időben.",
+                "ro": "Atenție la potecile alunecoase de pe malul râului pe timp de ploaie.",
+                "en": "Watch out for slippery paths along the riverbank in wet weather."
+              }
+            },
+            {
+              "name": "Oberkapfenberg Castle",
+              "tip_5lang": {
+                "de": "Die Greifvogel-Flugschau findet bei Regen oft nur eingeschränkt statt.",
+                "hu": "Az eső miatt a solymászbemutató korlátozottan kerülhet megrendezésre.",
+                "ro": "Spectacolul cu păsări de pradă poate fi limitat din cauza ploii.",
+                "en": "The bird of prey show may be restricted or canceled due to rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist in der Steiermark Pflicht.",
+              "Die Arkadengänge in der Altstadt bieten guten Schutz.",
+              "Viele Cafés am Hauptplatz laden zum Aufwärmen ein.",
+              "Der Weg zur Burg kann bei Regen etwas rutschig sein.",
+              "Wasserfeste Schuhe für die Flusspromenade mitnehmen."
+            ],
+            "hu": [
+              "Egy stabil esernyő kötelező kellék Stájerországban.",
+              "Az óvárosi árkádok jó védelmet nyújtanak a sétához.",
+              "A Fő tér kávézói kiválóak egy melegedő szünetre.",
+              "A várba vezető út esőben csúszós lehet, vigyázzon.",
+              "Vízálló cipő ajánlott a folyóparti sétányhoz."
+            ],
+            "ro": [
+              "O umbrelă stabilă este obligatorie în Stiria.",
+              "Arcadele din centrul vechi oferă o protecție bună.",
+              "Cafenelele din Piața Principală sunt perfecte pentru încălzire.",
+              "Drumul spre castel poate fi alunecos pe ploaie.",
+              "Purtați încălțăminte impermeabilă pentru promenada râului."
+            ],
+            "en": [
+              "A sturdy umbrella is a must-have in Styria.",
+              "The old town arcades provide excellent shelter for walking.",
+              "Main Square cafes are perfect for a warm, dry break.",
+              "The path up to the castle can get slippery when wet.",
+              "Wear waterproof shoes for the river promenade section."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter glänzt Kapfenberg mit festlicher Beleuchtung am Hauptplatz. Der Vormittag gehört der stillen Pfarrkirche, bevor Sie sich im Kulturzentrum aufwärmen. Ein frostiger Spaziergang durch den Roseggerpark führt zur Mürz, wo der Nebel oft mystisch über dem Wasser hängt. Das Highlight ist die Burg Oberkapfenberg, die im Schnee wie ein Märchenschloss thront und drinnen wohlige Wärme bietet.",
+            "hu": "Télen Kapfenberg ünnepi fényekkel várja a látogatókat a Fő téren. A délelőtt a csendes plébániatemplomé, majd a Kulturális Központban melegedhet fel. A fagyos séta a Rosegger-parkon át a Mürz-folyóhoz vezet, ahol a köd gyakran misztikusan gomolyog a víz felett. A nap fénypontja az Oberkapfenberg-vár, amely a hóban mesebeli látványt nyújt, falai között pedig meleg várja.",
+            "ro": "Iarna, Kapfenberg strălucește cu lumini festive în Piața Principală. Dimineața aparține liniștii bisericii parohiale, înainte de a vă încălzi la centrul cultural. O plimbare geroasă prin parcul Rosegger duce la râul Mürz, unde ceața plutește mistic peste apă. Punctul culminant este Castelul Oberkapfenberg, care arată ca în basme sub zăpadă și oferă căldură primitoare în interior.",
+            "en": "In winter, Kapfenberg sparkles with festive lights on the Main Square. Spend your morning in the quiet parish church before warming up at the Cultural Centre. A frosty stroll through Rosegger Park leads to the Mürz, where mist often hangs low over the icy water. The highlight is Oberkapfenberg Castle, standing like a fairy-tale fortress in the snow, offering cozy warmth inside."
+          },
+          "stops": [
+            {
+              "name": "Main Square & Old Town Hall",
+              "tip_5lang": {
+                "de": "Genießen Sie heiße Getränke bei den winterlichen Ständen.",
+                "hu": "Élvezze a forró italokat a téli árusoknál a téren.",
+                "ro": "Savurați băuturi calde la tarabele de iarnă din piață.",
+                "en": "Enjoy hot drinks at the seasonal winter stalls in the square."
+              }
+            },
+            {
+              "name": "Parish Church of St. Oswald",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort zur Besinnung, oft festlich geschmückt.",
+                "hu": "Csendes hely az elmélyüléshez, gyakran ünnepi díszben.",
+                "ro": "Un loc liniștit pentru reflecție, adesea decorat festiv.",
+                "en": "A quiet place for reflection, often beautifully decorated."
+              }
+            },
+            {
+              "name": "Cultural Centre",
+              "tip_5lang": {
+                "de": "Der ideale Ort, um sich zwischen den Besichtigungen aufzuwärmen.",
+                "hu": "Ideális hely a felmelegedésre a látnivalók megtekintése között.",
+                "ro": "Locul ideal pentru a vă încălzi între vizitarea obiectivelor.",
+                "en": "The ideal spot to warm up between outdoor sightseeing stops."
+              }
+            },
+            {
+              "name": "Rosegger Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei vereisten Wegen in den Parkanlagen.",
+                "hu": "Vigyázzon a jeges utakra a park területén.",
+                "ro": "Atenție la potecile înghețate din zonele parcului.",
+                "en": "Be careful of icy patches on the park's walking paths."
+              }
+            },
+            {
+              "name": "Mürz River Promenade",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wegen des kalten Windes am Fluss ratsam.",
+                "hu": "Meleg ruházat ajánlott a folyó felől fújó hideg szél miatt.",
+                "ro": "Îmbrăcămintea groasă este recomandată din cauza vântului rece.",
+                "en": "Warm clothing is essential due to the cold river wind."
+              }
+            },
+            {
+              "name": "Oberkapfenberg Castle",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten für das Burgmuseum.",
+                "hu": "Ellenőrizze a vármúzeum téli nyitvatartási idejét.",
+                "ro": "Verificați programul de iarnă pentru muzeul castelului.",
+                "en": "Check the winter opening hours for the castle museum."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Denken Sie an das frühe Sonnenuntergang um ca. 16:30 Uhr.",
+              "Tragen Sie Schichten, da es im Schloss windig sein kann.",
+              "Die Wege zur Burg werden geräumt, können aber glatt sein.",
+              "Heiße Maroni oder Punsch am Hauptplatz probieren.",
+              "Festes Schuhwerk mit gutem Profil ist im Winter nötig."
+            ],
+            "hu": [
+              "A nap korán, délután fél 5 körül lebukik a hegyek mögött.",
+              "Öltözzön rétegesen, a várnál hideg szél fújhat.",
+              "A várút takarított, de foltokban jeges maradhat.",
+              "Kóstolja meg a sült gesztenyét a Fő téren.",
+              "Vastag talpú, jól tapadó cipő szükséges a sétához."
+            ],
+            "ro": [
+              "Soarele apune devreme, în jurul orei 16:30.",
+              "Îmbrăcați-vă în straturi, poate fi vânt la castel.",
+              "Drumurile spre castel sunt curățate, dar pot fi alunecoase.",
+              "Încercați castane coapte sau punch în Piața Principală.",
+              "Încălțămintea solidă cu aderență bună este necesară."
+            ],
+            "en": [
+              "Sunset is early, around 4:30 PM in the mountains.",
+              "Dress in layers as it can be quite windy up at the castle.",
+              "Castle paths are cleared but can remain slippery in spots.",
+              "Try roasted chestnuts or punch at the main square stalls.",
+              "Sturdy boots with good grip are essential for winter walking."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -718,6 +908,196 @@
           "A helmet is highly recommended, especially for the descents.",
           "Check the weather forecast, as the route is more challenging in wet conditions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Disziplin und gute Ausrüstung. Starten Sie vorsichtig am Hauptplatz und folgen Sie dem Mürzradweg, wo der Asphalt glänzt. Die Steigung zur Burg Oberkapfenberg ist bei Nässe fordernd, aber der Ausblick belohnt die Mühe. Am Nachmittag bietet die Rettenwandhöhle ein natürliches, trockenes Dach für Entdecker, bevor es zurück in die Stadt geht.",
+            "hu": "Az esős kerékpártúra fegyelmet és jó felszerelést igényel. Kezdjen óvatosan a Fő téren, majd kövesse a Mürz menti kerékpárutat. A várba vezető emelkedő esőben embert próbáló, de a kilátás megéri a fáradtságot. Délután a Rettenwand-barlang természetes, száraz menedéket nyújt a felfedezőknek, mielőtt visszakerekezne a városba.",
+            "ro": "O tură cu bicicleta pe ploaie necesită disciplină și echipament bun. Începeți cu prudență din Piața Principală și urmați pista de biciclete Mürz. Urcarea spre castel este solicitantă pe carosabil umed, dar priveliștea merită efortul. După-amiaza, Peștera Rettenwand oferă un adăpost natural uscat, înainte de întoarcerea în oraș.",
+            "en": "Cycling in the rain requires focus and great gear. Start carefully at the Main Square and follow the Mürz bike path. The climb to Oberkapfenberg Castle is tough in the wet, but the view remains rewarding. In the afternoon, the Rettenwand Cave provides a natural, dry roof for explorers before the final ride back to the center."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster, es wird sehr rutschig.",
+                "hu": "Vigyázzon a macskakövön, esőben nagyon csúszik.",
+                "ro": "Atenție la pavajul cu piatră cubică, devine foarte alunecos.",
+                "en": "Be extra careful on cobblestones; they become very slick when wet."
+              }
+            },
+            {
+              "name": "Parish Church of St. Oswald",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad unter den Vordächern in der Nähe.",
+                "hu": "Parkolja a kerékpárt a közeli előtetők alatt.",
+                "ro": "Parcați bicicleta sub copertinele din apropiere.",
+                "en": "Park your bike under nearby overhangs to keep the seat dry."
+              }
+            },
+            {
+              "name": "Mürz River Promenade",
+              "tip_5lang": {
+                "de": "Der Radweg ist gut ausgebaut, aber Pfützen sind möglich.",
+                "hu": "A kerékpárút jó minőségű, de tócsák előfordulhatnak.",
+                "ro": "Pista de biciclete este bună, dar pot apărea bălți.",
+                "en": "The path is well-paved, but watch out for deep puddles."
+              }
+            },
+            {
+              "name": "Rosegger Park",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter den Bäumen, um die Karte zu prüfen.",
+                "hu": "Rövid megálló a fák alatt az útvonal ellenőrzéséhez.",
+                "ro": "Scurtă oprire sub copaci pentru a verifica harta.",
+                "en": "A quick stop under the trees to check your map or GPS."
+              }
+            },
+            {
+              "name": "Oberkapfenberg Castle",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der nassen Abfahrt ins Tal.",
+                "hu": "Ellenőrizze a fékeket a vizes völgyi ereszkedés előtt.",
+                "ro": "Verificați frânele înainte de coborârea umedă spre vale.",
+                "en": "Check your brakes before the wet descent back to town."
+              }
+            },
+            {
+              "name": "Rettenwand Cave",
+              "tip_5lang": {
+                "de": "Ein perfekter, trockener Ort für eine Besichtigungspause.",
+                "hu": "Tökéletes, száraz helyszín egy látogatási szünethez.",
+                "ro": "Un loc perfect și uscat pentru o pauză de vizitare.",
+                "en": "A perfect dry location for a mid-ride sightseeing break."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Komplette Regenmontur inklusive Überschuhen einplanen.",
+              "Scheibenbremsen sind bei Nässe deutlich im Vorteil.",
+              "Vermeiden Sie Markierungen auf der Straße (Rutschgefahr).",
+              "Ein Schutzblech schützt vor aufspritzendem Mürzwasser.",
+              "Warme Getränke in der Thermoskanne mitnehmen."
+            ],
+            "hu": [
+              "Teljes esőruházat és cipővédő használata ajánlott.",
+              "A tárcsafékek nagy előnyt jelentenek nedves úton.",
+              "Kerülje az útburkolati jeleket, mert csúszhatnak.",
+              "A sárvédő elengedhetetlen a felcsapódó víz ellen.",
+              "Vigyen magával forró italt termoszban."
+            ],
+            "ro": [
+              "Planificați echipament complet de ploaie, inclusiv protecții.",
+              "Frânele pe disc sunt un mare avantaj pe carosabil umed.",
+              "Evitați marcajele rutiere (pericol de alunecare).",
+              "O apărătoare de noroi este esențială pe malul râului.",
+              "Luați băuturi calde într-un termos pentru drum."
+            ],
+            "en": [
+              "Plan for full rain gear, including shoe covers.",
+              "Disc brakes are a significant advantage in wet conditions.",
+              "Avoid riding on painted road markings (slippery).",
+              "Fenders are essential to block spray from the river path.",
+              "Pack a thermos with a warm drink to stay energized."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Kapfenberg ist erfrischend, erfordert aber Vorsicht vor Glatteis. Der Vormittag am Mürzradweg bietet klare Luft und oft verschneite Ufer. Der Anstieg zur Burg ist anstrengend, hält aber warm. Nachmittags ist die Fahrt zur Rettenwandhöhle durch die Winterlandschaft besonders reizvoll. In der Höhle herrschen konstante Temperaturen, was im Vergleich zur Außenkälte angenehm wirkt.",
+            "hu": "A téli kerékpározás Kapfenbergben frissítő, de figyelni kell a jegesedésre. A délelőtti tekerés a Mürz mentén tiszta levegőt és gyakran havas partokat kínál. A várba vezető emelkedő izzasztó, de segít melegen tartani. Délután a Rettenwand-barlanghoz vezető út a téli tájon át különleges élmény. A barlangban állandó a hőmérséklet, ami kellemes a kinti hideg után.",
+            "ro": "Ciclismul de iarnă în Kapfenberg este revigorant, dar necesită prudență la gheață. Dimineața pe pista Mürz oferă aer curat și maluri adesea înzăpezite. Urcarea spre castel este obositoare, dar vă menține cald. După-amiaza, drumul spre peștera Rettenwand prin peisajul de iarnă este fermecător. În peșteră, temperatura este constantă și plăcută.",
+            "en": "Winter cycling in Kapfenberg is refreshing but demands caution regarding black ice. The morning ride along the Mürz offers crisp air and snowy banks. The climb to the castle is strenuous but keeps your blood flowing. In the afternoon, the trip to Rettenwand Cave through the winter landscape is scenic. Inside the cave, the temperature is constant, feeling mild compared to the frost outside."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenes Schmelzwasser im Schatten.",
+                "hu": "Ügyeljen az árnyékos helyeken megfagyott hólére.",
+                "ro": "Atenție la apa topită și înghețată în zonele cu umbră.",
+                "en": "Watch out for frozen meltwater in shaded areas of the square."
+              }
+            },
+            {
+              "name": "Parish Church of St. Oswald",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt, um Ihre Finger aufzuwärmen.",
+                "hu": "Használja ki a megállót az ujjai felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi degetele.",
+                "en": "Use this stop as an opportunity to warm up your fingers."
+              }
+            },
+            {
+              "name": "Mürz River Promenade",
+              "tip_5lang": {
+                "de": "Der Wind am Wasser kühlt den Körper schnell aus.",
+                "hu": "A víz felőli szél gyorsan lehűti a testet.",
+                "ro": "Vântul de lângă apă răcește corpul foarte repede.",
+                "en": "The wind by the water can chill you down very quickly."
+              }
+            },
+            {
+              "name": "Rosegger Park",
+              "tip_5lang": {
+                "de": "Fahren Sie defensiv auf eventuell ungeräumten Wegen.",
+                "hu": "Vezessen óvatosan az esetlegesen le nem takarított utakon.",
+                "ro": "Conduceți defensiv pe potecile care pot fi necurățate.",
+                "en": "Ride defensively on paths that might not be fully cleared."
+              }
+            },
+            {
+              "name": "Oberkapfenberg Castle",
+              "tip_5lang": {
+                "de": "Die Abfahrt erfordert wegen Kälte gute Handschuhe.",
+                "hu": "A lefelé úthoz a hideg miatt jó kesztyű szükséges.",
+                "ro": "Coborârea necesită mănuși bune din cauza frigului.",
+                "en": "The descent requires high-quality gloves due to wind chill."
+              }
+            },
+            {
+              "name": "Rettenwand Cave",
+              "tip_5lang": {
+                "de": "In der Höhle ist es wärmer als draußen (ca. 8°C).",
+                "hu": "A barlangban melegebb van, mint kint (kb. 8°C).",
+                "ro": "În peșteră este mai cald decât afară (aprox. 8°C).",
+                "en": "It is actually warmer inside the cave than outside (approx. 8°C)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine winddichte Schicht (Softshell).",
+              "Reifendruck leicht senken für mehr Grip auf Schnee.",
+              "Akku von E-Bikes bei Kälte schneller leer.",
+              "Frühe Dämmerung: Beleuchtung unbedingt prüfen.",
+              "Warme Socken und isolierte Schuhe verwenden."
+            ],
+            "hu": [
+              "Viseljen szélálló réteget (softshell).",
+              "Csökkentse a guminyomást a jobb tapadásért a havon.",
+              "Az e-bike akkumulátora gyorsabban merül hidegben.",
+              "Korai sötétedés: feltétlenül ellenőrizze a világítást.",
+              "Használjon meleg zoknit és hőszigetelt cipőt."
+            ],
+            "ro": [
+              "Purtați un strat rezistent la vânt (softshell).",
+              "Reduceți ușor presiunea în pneuri pentru aderență pe zăpadă.",
+              "Bateria bicicletelor electrice se descarcă mai repede la frig.",
+              "Amurg timpuriu: verificați neapărat sistemul de iluminare.",
+              "Folosiți șosete groase și încălțăminte izolată."
+            ],
+            "en": [
+              "Wear a windproof outer layer (softshell is ideal).",
+              "Lower tire pressure slightly for better grip on snow.",
+              "E-bike batteries drain significantly faster in the cold.",
+              "Early twilight: ensure your lights are fully functional.",
+              "Use thermal socks and insulated cycling shoes."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1074,6 +1454,196 @@
           "Allow enough time for the drives between locations to enjoy the scenery.",
           "A navigation device is helpful for finding the rural addresses."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist der Regen in Kapfenberg kein Hindernis. Starten Sie trocken am Parkplatz im Zentrum. Besuchen Sie die Kirche und das Ufer, bevor Sie den Berg zum Schloss bequem im Fahrzeug erklimmen. Nachmittags ist die Rettenwandhöhle ein lohnendes Ziel, da man nah am Eingang parken kann. Der Tag endet bei einem gemütlichen Abendessen in der Innenstadt, während es draußen weiter regnet.",
+            "hu": "Autóval az eső nem akadály Kapfenbergben. Kezdje szárazon a központi parkolóban. Látogassa meg a templomot és a folyópartot, majd kényelmesen hajtson fel a várba. Délután a Rettenwand-barlang hálás úti cél, mivel a bejárat közelében lehet parkolni. A nap egy kellemes belvárosi vacsorával zárul, miközben kint tovább esik az eső.",
+            "ro": "Cu mașina, ploaia nu este un obstacol în Kapfenberg. Începeți uscat în parcarea centrală. Vizitați biserica și malul râului înainte de a urca dealul spre castel în confortul vehiculului. După-amiaza, Peștera Rettenwand este o destinație ideală, deoarece puteți parca aproape de intrare. Ziua se încheie cu o cină plăcută în centrul orașului.",
+            "en": "By car, the rain in Kapfenberg is easily managed. Start dry at the central parking lot. Visit the church and riverfront, then enjoy a comfortable drive up to the castle. In the afternoon, Rettenwand Cave is a rewarding destination with parking close to the entrance. Conclude your day with a cozy dinner in the city center while the rain continues outside."
+          },
+          "stops": [
+            {
+              "name": "City Center Car Park & Main Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser für einen komplett trockenen Start.",
+                "hu": "Használja a parkolóházakat a teljesen száraz kezdéshez.",
+                "ro": "Folosiți parcările etajate pentru un start complet uscat.",
+                "en": "Use covered parking garages for a completely dry start."
+              }
+            },
+            {
+              "name": "Parish Church of St. Oswald",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz zur Kirche minimieren Nässe.",
+                "hu": "A parkolótól a templomig tartó rövid út minimalizálja az elázást.",
+                "ro": "Distanța scurtă de la parcare la biserică reduce expunerea.",
+                "en": "Short walking distances from parking to church minimize getting wet."
+              }
+            },
+            {
+              "name": "Mürz River Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Fluss aus dem Auto.",
+                "hu": "Élvezze a folyóra nyíló kilátást az autóból.",
+                "ro": "Bucurați-vă de vederea spre râu direct din mașină.",
+                "en": "Enjoy the view of the rushing river from the comfort of your car."
+              }
+            },
+            {
+              "name": "Oberkapfenberg Castle",
+              "tip_5lang": {
+                "de": "Parken Sie direkt oben beim Burgeingang.",
+                "hu": "Parkoljon közvetlenül fent a vár bejáratánál.",
+                "ro": "Parcați direct sus, lângă intrarea în castel.",
+                "en": "Park directly at the top near the castle entrance."
+              }
+            },
+            {
+              "name": "Rettenwand Cave",
+              "tip_5lang": {
+                "de": "Der Weg vom Parkplatz zur Höhle kann matschig sein.",
+                "hu": "A parkolótól a barlangig vezető út sáros lehet.",
+                "ro": "Poteca de la parcare la peșteră poate fi noroioasă.",
+                "en": "The path from the parking lot to the cave may be muddy."
+              }
+            },
+            {
+              "name": "Dinner in the City Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit nahem Parkplatz.",
+                "hu": "Válasszon közeli parkolóval rendelkező éttermet.",
+                "ro": "Alegeți un restaurant cu locuri de parcare în apropiere.",
+                "en": "Choose a restaurant with nearby parking for convenience."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht vor Aquaplaning auf der S6 Autobahn.",
+              "Schlossbergstraße bei Starkregen vorsichtig befahren.",
+              "Regenschirm im Auto griffbereit halten.",
+              "Parkmünzen oder App für Kurzparkzonen bereithalten.",
+              "Gute Sicht durch saubere Scheiben sicherstellen."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra az S6-os autópályán.",
+              "Nagy esőben óvatosan vezessen a várúton.",
+              "Tartsa az esernyőt kéznél az autóban.",
+              "Készítsen elő aprópénzt vagy appot a parkoláshoz.",
+              "Gondoskodjon a jó kilátásról tiszta ablakokkal."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe autostrada S6.",
+              "Conduceți cu prudență pe drumul castelului pe ploaie torențială.",
+              "Țineți umbrela la îndemână în mașină.",
+              "Pregătiți monede sau o aplicație pentru zonele de parcare.",
+              "Asigurați vizibilitate bună prin geamuri curate."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the S6 highway.",
+              "Drive carefully on the castle road during heavy rain.",
+              "Keep your umbrella within reach inside the car.",
+              "Have coins or a parking app ready for short-stay zones.",
+              "Ensure good visibility by keeping windows clean and defogged."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterzauber in Kapfenberg erlebt man am besten mit dem Auto. Nach einem morgendlichen Stopp am beleuchteten Hauptplatz fahren Sie zur Kirche und zum Mürzufer. Die Auffahrt zur Burg Oberkapfenberg bietet im Winter spektakuläre Ausblicke auf die verschneite Steiermark. Nachmittags ist die Rettenwandhöhle ein faszinierendes Ziel, bevor Sie den Tag bei einem warmen Abendessen im Stadtzentrum gemütlich abschließen.",
+            "hu": "A kapfenbergi téli varázst leginkább autóval élvezheti. A kivilágított Fő tér után látogasson el a templomhoz és a Mürz-parthoz. Az Oberkapfenberg-várba vezető út télen látványos kilátást nyújt a havas Stájerországra. Délután a Rettenwand-barlang lenyűgöző úti cél, majd a napot egy meleg vacsorával zárhatja a városközpontban.",
+            "ro": "Magia iernii în Kapfenberg este cel mai bine experimentată cu mașina. După o oprire matinală în Piața Principală iluminată, mergeți la biserică și pe malul râului. Urcarea spre castel oferă iarna vederi spectaculoase asupra Stiriei înzăpezite. După-amiaza, Peștera Rettenwand este o destinație fascinantă, înainte de o cină caldă în centru.",
+            "en": "Experience Kapfenberg's winter charm with the convenience of a car. After a morning stop at the illuminated Main Square, drive to the church and the Mürz banks. The ascent to Oberkapfenberg Castle offers spectacular views of snowy Styria in winter. In the afternoon, visit the fascinating Rettenwand Cave before ending the day with a warm dinner in the heart of town."
+          },
+          "stops": [
+            {
+              "name": "City Center Car Park & Main Square",
+              "tip_5lang": {
+                "de": "Scheibenheizung nutzen, um Eisbildung zu vermeiden.",
+                "hu": "Használja a szélvédőfűtést a jegesedés ellen.",
+                "ro": "Folosiți degivrarea parbrizului pentru a evita gheața.",
+                "en": "Use the windshield defroster to prevent ice buildup."
+              }
+            },
+            {
+              "name": "Parish Church of St. Oswald",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte beim Ein- und Aussteigen.",
+                "hu": "Vigyázzon a csúszós felületekre a ki- és beszálláskor.",
+                "ro": "Atenție la suprafețele alunecoase la urcare și coborâre.",
+                "en": "Watch out for icy patches when getting in and out of the car."
+              }
+            },
+            {
+              "name": "Mürz River Promenade",
+              "tip_5lang": {
+                "de": "Parkplätze am Fluss können im Winter vereist sein.",
+                "hu": "A folyóparti parkolók télen jegesek lehetnek.",
+                "ro": "Parcările de lângă râu pot fi înghețate iarna.",
+                "en": "Riverfront parking spots can be icy during the winter months."
+              }
+            },
+            {
+              "name": "Oberkapfenberg Castle",
+              "tip_5lang": {
+                "de": "Winterreifen sind für die Schlossbergstraße Pflicht.",
+                "hu": "A várúton a téli gumi használata kötelező.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pentru drumul castelului.",
+                "en": "Winter tires are mandatory for the steep castle road."
+              }
+            },
+            {
+              "name": "Rettenwand Cave",
+              "tip_5lang": {
+                "de": "Fahren Sie bei Schnee besonders vorsichtig zur Höhle.",
+                "hu": "Hóban fokozott óvatossággal hajtson a barlanghoz.",
+                "ro": "Conduceți cu mare prudență spre peșteră în caz de zăpadă.",
+                "en": "Drive with extra caution toward the cave in snowy conditions."
+              }
+            },
+            {
+              "name": "Dinner in the City Center",
+              "tip_5lang": {
+                "de": "Tiefgaragen schützen das Auto vor Frost während des Essens.",
+                "hu": "A mélygarázs megvédi az autót a fagytól vacsora alatt.",
+                "ro": "Parcările subterane protejează mașina de îngheț.",
+                "en": "Underground garages keep the car frost-free during dinner."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutzmittel in der Scheibenwaschanlage prüfen.",
+              "Eiskratzer und Besen griffbereit halten.",
+              "Bei Schneefall kann die Auffahrt zum Schloss gesperrt sein.",
+              "Achten Sie auf Wildwechsel in der Dämmerung.",
+              "Warme Decken für Notfälle im Kofferraum mitführen."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Tartsa kéznél a jégkaparót és a kefét.",
+              "Nagy hóesésben a várút lezárható.",
+              "Figyeljen a vadakra a szürkületben.",
+              "Vigyen meleg takarót az autóban vészhelyzet esetére."
+            ],
+            "ro": [
+              "Verificați antigelul în lichidul de parbriz.",
+              "Țineți răzuitoarea de gheață și peria la îndemână.",
+              "Drumul spre castel poate fi închis în caz de zăpadă mare.",
+              "Atenție la animalele sălbatice în amurg.",
+              "Țineți pături groase în portbagaj pentru urgențe."
+            ],
+            "en": [
+              "Check the antifreeze levels in your washer fluid.",
+              "Keep an ice scraper and brush easily accessible.",
+              "The castle road might be closed during heavy snowfall.",
+              "Watch out for wildlife crossing during twilight.",
+              "Keep warm blankets in the trunk for emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1406,6 +1976,178 @@
           "Have some small change ready for tickets in case card payment is not possible.",
           "Most bus lines run regularly during the day, but less frequently in the evening."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn bleibt man in Kapfenberg auch bei Regen mobil. Nach der Ankunft am Hauptplatz erreichen Sie die Kirche und das Kulturzentrum schnell zu Fuß oder mit dem Stadtbus. Zum Schloss Oberkapfenberg bringt Sie ein Linienbus fast bis vor das Tor. Genießen Sie den Ausblick aus dem warmen Busfenster und lassen Sie den Tag entspannt in der Innenstadt ausklingen, bevor Sie die Heimreise antreten.",
+            "hu": "Busszal és vonattal Kapfenberg esőben is jól bejárható. A Fő térre érkezés után a templom és a Kulturális Központ gyalog vagy helyi busszal gyorsan elérhető. Az Oberkapfenberg-várhoz menetrend szerinti járat viszi fel, majdnem a kapuig. Élvezze a kilátást a meleg buszból, majd zárja a napot a belvárosban, mielőtt hazaindulna.",
+            "ro": "Cu autobuzul și trenul, rămâneți mobil în Kapfenberg chiar și pe ploaie. După sosirea în Piața Principală, ajungeți rapid la biserică și centrul cultural pe jos sau cu autobuzul local. Un autobuz de linie vă duce până aproape de poarta castelului. Bucurați-vă de priveliște de la fereastra caldă a autobuzului și încheiați ziua relaxat.",
+            "en": "Public transit keeps you mobile in Kapfenberg even when it pours. After arriving at the Main Square, reach the church and Cultural Centre quickly by foot or local bus. A scheduled bus service takes you almost directly to the castle gates. Enjoy the rainy views from the dry bus window and end your day comfortably in the city center before heading back."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus Station & Main Square",
+              "tip_5lang": {
+                "de": "Wartebereiche am Bahnhof sind überdacht.",
+                "hu": "Az állomáson a várakozóhelyek fedettek.",
+                "ro": "Zonele de așteptare din gară sunt acoperite.",
+                "en": "Waiting areas at the station are covered and dry."
+              }
+            },
+            {
+              "name": "Parish Church of St. Oswald",
+              "tip_5lang": {
+                "de": "Nutzen Sie Busse, um längere Fußwege im Regen zu vermeiden.",
+                "hu": "Használja a buszokat a hosszú esőben való gyaloglás helyett.",
+                "ro": "Folosiți autobuzele pentru a evita mersul lung prin ploaie.",
+                "en": "Use local buses to avoid long walks in the rain."
+              }
+            },
+            {
+              "name": "Mürz River Promenade",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen entlang der Mürz bieten oft Schutz.",
+                "hu": "A Mürz menti buszmegállók gyakran fedettek.",
+                "ro": "Stațiile de autobuz de-a lungul râului oferă adesea adăpost.",
+                "en": "Bus stops along the Mürz often provide good rain cover."
+              }
+            },
+            {
+              "name": "Bus to Oberkapfenberg Castle",
+              "tip_5lang": {
+                "de": "Der Bus spart Ihnen den steilen, nassen Aufstieg zu Fuß.",
+                "hu": "A busz megkíméli önt a meredek, vizes gyalogos emelkedőtől.",
+                "ro": "Autobuzul vă scutește de urcarea abruptă și umedă pe jos.",
+                "en": "The bus saves you from the steep and wet climb on foot."
+              }
+            },
+            {
+              "name": "Return to Center & Dinner",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abendverbindungen bei schlechtem Wetter.",
+                "hu": "Ellenőrizze az esti járatokat rossz idő esetén.",
+                "ro": "Verificați conexiunile de seară în caz de vreme rea.",
+                "en": "Check the evening schedules carefully during bad weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die ÖBB-App für Echtzeit-Informationen.",
+              "In Bussen ist es oft warm, kleiden Sie sich variabel.",
+              "Halten Sie Ihr Ticket griffbereit, um langes Suchen zu vermeiden.",
+              "Die Stadtbusse fahren in dichten Intervallen.",
+              "Ein kleiner Schirm passt in jede Tasche für den Umstieg."
+            ],
+            "hu": [
+              "Használja az ÖBB appot a valós idejű infókért.",
+              "A buszokon meleg van, öltözzön rétegesen.",
+              "Tartsa a jegyét kéznél a gyors felszálláshoz.",
+              "A városi buszok sűrűn közlekednek.",
+              "Egy kisméretű esernyő jól jön az átszállásoknál."
+            ],
+            "ro": [
+              "Folosiți aplicația ÖBB pentru informații în timp real.",
+              "În autobuze este cald, îmbrăcați-vă variabil.",
+              "Țineți biletul la îndemână pentru a evita căutările lungi.",
+              "Autobuzele urbane circulă la intervale dese.",
+              "O umbrelă mică este utilă pentru transferuri."
+            ],
+            "en": [
+              "Use the ÖBB app for real-time transit information.",
+              "Buses are well-heated, so dress in adjustable layers.",
+              "Keep your ticket ready to avoid searching in the rain.",
+              "City buses run at frequent intervals throughout the day.",
+              "A small travel umbrella is ideal for bus transfers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreisen mit dem ÖPNV sind in Kapfenberg gemütlich und sicher. Vom winterlichen Hauptplatz aus erreichen Sie die Sehenswürdigkeiten bequem. Der Bus bringt Sie durch die verschneite Landschaft hinauf zur Burg Oberkapfenberg, wo Sie den Ausblick ohne Parkplatzsorgen genießen können. Den Nachmittag verbringen Sie in den warmen Cafés der Stadt, bevor Sie entspannt mit dem Zug oder Bus die Heimreise antreten.",
+            "hu": "A téli utazás tömegközlekedéssel Kapfenbergben kényelmes és biztonságos. A télies Fő térről könnyen elérheti a látnivalókat. A busz a havas tájon át viszi fel az Oberkapfenberg-várhoz, ahol parkolási gondok nélkül élvezheti a panorámát. A délutánt töltse a város meleg kávézóiban, mielőtt pihenten hazaindulna a vonattal vagy busszal.",
+            "ro": "Călătoriile de iarnă cu transportul public sunt confortabile în Kapfenberg. Din Piața Principală, ajungeți ușor la obiectivele turistice. Autobuzul vă duce prin peisajul înzăpezit până la Castelul Oberkapfenberg, unde puteți savura priveliștea fără grija parcării. Petreceți după-amiaza în cafenelele calde înainte de plecare.",
+            "en": "Winter travel via public transport in Kapfenberg is cozy and reliable. From the wintry Main Square, you can easily reach all major sights. The bus winds through the snowy landscape up to Oberkapfenberg Castle, letting you enjoy the views without parking worries. Spend your afternoon in warm city cafes before a relaxed journey home by train or bus."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus Station & Main Square",
+              "tip_5lang": {
+                "de": "Bahnhofsgebäude bietet Schutz vor Kälte beim Warten.",
+                "hu": "Az állomásépület védelmet nyújt a hideg ellen várakozáskor.",
+                "ro": "Clădirea gării oferă protecție împotriva frigului.",
+                "en": "The station building provides a warm shelter while waiting."
+              }
+            },
+            {
+              "name": "Parish Church of St. Oswald",
+              "tip_5lang": {
+                "de": "Kürzere Intervalle der Busse im Winter nutzen.",
+                "hu": "Használja a buszok sűrűbb téli követési idejét.",
+                "ro": "Folosiți intervalele dese ale autobuzelor iarna.",
+                "en": "Take advantage of frequent bus intervals during winter months."
+              }
+            },
+            {
+              "name": "Mürz River Promenade",
+              "tip_5lang": {
+                "de": "Bushaltestellen sind im Winter oft geräumt.",
+                "hu": "A buszmegállókat télen általában takarítják.",
+                "ro": "Stațiile de autobuz sunt de obicei curățate iarna.",
+                "en": "Bus stops are generally well-cleared of snow in winter."
+              }
+            },
+            {
+              "name": "Bus to Oberkapfenberg Castle",
+              "tip_5lang": {
+                "de": "Winterreifen bei Bussen sorgen für eine sichere Auffahrt.",
+                "hu": "A buszok téli gumijai garantálják a biztonságos feljutást.",
+                "ro": "Anvelopele de iarnă ale autobuzelor asigură o urcare sigură.",
+                "en": "Buses equipped with winter tires ensure a safe climb to the castle."
+              }
+            },
+            {
+              "name": "Return to Center & Dinner",
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Winterfahrpläne.",
+                "hu": "Figyeljen az esetleges téli menetrendi változásokra.",
+                "ro": "Atenție la posibilele orare de iarnă.",
+                "en": "Be sure to check for any special winter transit schedules."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Heizung in Zügen und Bussen ist meist sehr effektiv.",
+              "Planen Sie Pufferzeiten bei starkem Schneefall ein.",
+              "Tragen Sie rutschfeste Schuhe für den Weg zur Haltestelle.",
+              "Fahrkarten können oft kontaktlos im Bus gekauft werden.",
+              "ÖBB-Lounges an größeren Bahnhöfen nutzen."
+            ],
+            "hu": [
+              "A fűtés a vonatokon és buszokon általában nagyon jó.",
+              "Nagy hóesés esetén számoljon némi késéssel.",
+              "Viseljen csúszásmentes cipőt a megállóig tartó úton.",
+              "A jegyeket gyakran érintésmentesen is megveheti a buszon.",
+              "Használja az ÖBB várókat a nagyobb állomásokon."
+            ],
+            "ro": [
+              "Încălzirea în trenuri și autobuze este de obicei eficientă.",
+              "Planificați timp suplimentar în caz de ninsori puternice.",
+              "Purtați încălțăminte antiderapantă până la stație.",
+              "Biletele pot fi cumpărate adesea contactless în autobuz.",
+              "Folosiți zonele de așteptare ÖBB în gările mari."
+            ],
+            "en": [
+              "Heating in trains and buses is usually very effective.",
+              "Allow extra travel time during periods of heavy snowfall.",
+              "Wear non-slip shoes for the walk to and from stops.",
+              "Tickets can often be bought contactless on the bus.",
+              "Utilize ÖBB waiting rooms at larger train stations."
+            ]
+          }
+        }
       }
     }
   }

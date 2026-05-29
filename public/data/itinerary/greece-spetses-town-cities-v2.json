@@ -386,6 +386,206 @@
           "A water bottle is essential, especially during the summer months.",
           "Ask for the 'catch of the day' at the tavernas for the freshest fish."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Dapia trotz Regen unter den Arkaden Schutz, während das Poseidonion Grand Hotel zu einem stilvollen Kaffee einlädt. Mittags vertiefen Sie sich im Bouboulina-Museum in die Geschichte, sicher vor dem Wetter. Nachmittags erkunden Sie die Kirche Agios Nikolaos und das Spetses-Museum, die beide trockene Rückzugsorte bieten. Abends spazieren Sie mit dem Schirm zum alten Hafen, wo die Lichter auf dem nassen Pflaster glitzern.",
+            "hu": "Reggel a Dapia árkádjai alatt kereshet menedéket az eső elől, vagy beülhet egy teára a Poseidonion elegáns halljába. Délben a Bouboulina Múzeum falai között fedezheti fel a sziget múltját, teljesen szárazon. Délután az Agios Nikolaos templom és a Spetses Múzeum nyújt kiváló beltéri programot. Este egy esernyővel felszerelkezve tehet egy hangulatos sétát a régi kikötő mentén, megcsodálva a vízen tükröződő fényeket.",
+            "ro": "Dimineața, arcadele din Dapia oferă adăpost împotriva ploii, iar hotelul Poseidonion este locul perfect pentru o cafea caldă. La prânz, vizitați Muzeul Bouboulina pentru a explora istoria navală, feriți de intemperii. După-amiaza este dedicată bisericii Agios Nikolaos și Muzeului Spetses, ambele fiind refugii culturale uscate. Seara, o plimbare cu umbrela spre Portul Vechi dezvăluie o atmosferă melancolică și lumini reflectate în apă.",
+            "en": "In the morning, Dapia's arcades provide shelter from the rain, and the Poseidonion Grand Hotel is ideal for a cozy coffee. At midday, dive into history at the Bouboulina Museum, staying perfectly dry. Your afternoon continues with indoor visits to Agios Nikolaos Church and the Spetses Museum. In the evening, a walk with an umbrella to the Old Harbour offers a unique atmosphere with city lights shimmering on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": "Dapia (Main Square)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Cafés als Regenschutz.",
+                "hu": "Használja a kávézók árkádjait esővédőként.",
+                "ro": "Folosiți arcadele cafenelelor ca adăpost împotriva ploii.",
+                "en": "Use the cafe arcades as shelter from the rain."
+              }
+            },
+            {
+              "name": "Poseidonion Grand Hotel",
+              "tip_5lang": {
+                "de": "Perfekter Ort für einen luxuriösen Tee bei Regen.",
+                "hu": "Tökéletes hely egy luxus teázáshoz esőben.",
+                "ro": "Locul perfect pentru un ceai de lux pe timp de ploaie.",
+                "en": "The perfect spot for a luxury tea during the rain."
+              }
+            },
+            {
+              "name": "Bouboulina Museum",
+              "tip_5lang": {
+                "de": "Die Führung findet komplett im Innenbereich statt.",
+                "hu": "A tárlatvezetés teljesen beltéren zajlik.",
+                "ro": "Turul ghidat are loc în întregime la interior.",
+                "en": "The guided tour is entirely indoors."
+              }
+            },
+            {
+              "name": "Church of Agios Nikolaos",
+              "tip_5lang": {
+                "de": "Ein ruhiger und trockener Ort zur Besinnung.",
+                "hu": "Csendes és száraz hely az elmélkedésre.",
+                "ro": "Un loc liniștit și uscat pentru reculegere.",
+                "en": "A quiet and dry place for reflection."
+              }
+            },
+            {
+              "name": "Spetses Museum",
+              "tip_5lang": {
+                "de": "Großzügige Ausstellungsräume bieten Schutz vor Güssen.",
+                "hu": "A tágas kiállítótermek védelmet nyújtanak a záporok elől.",
+                "ro": "Sălile spațioase de expoziție oferă protecție contra ploii.",
+                "en": "Spacious exhibition halls offer protection from showers."
+              }
+            },
+            {
+              "name": "Old Harbour (Palio Limani)",
+              "tip_5lang": {
+                "de": "Vorsicht, das Kopfsteinpflaster kann sehr rutschig sein.",
+                "hu": "Vigyázat, a macskaköves út nagyon csúszós lehet.",
+                "ro": "Atenție, pavajul de piatră poate fi foarte alunecos.",
+                "en": "Be careful, the cobblestone pavement can be very slippery."
+              }
+            },
+            {
+              "name": "Lighthouse of Spetses",
+              "tip_5lang": {
+                "de": "Nur bei kurzem Regen besuchen, da kaum Unterstand.",
+                "hu": "Csak rövid esőben ajánlott, kevés a fedett rész.",
+                "ro": "Vizitați doar în ploaie scurtă, există puține adăposturi.",
+                "en": "Visit only during light rain as there is little shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich in den Gassen Pfützen bilden.",
+              "Die Museen sind die besten Rückzugsorte bei starkem Regen.",
+              "Wassertaxis haben oft Verdecke, sind aber bei Wind unruhig.",
+              "Ein stabiler Schirm ist wegen der Meeresbrise besser als ein leichter."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a sikátorokban megállhat a víz.",
+              "A múzeumok a legjobb menedékhelyek heves esőzés idején.",
+              "A vízitaxik ponyvásak, de erős szélben imbolyoghatnak.",
+              "A tengeri szél miatt egy stabil esernyő jobb, mint a könnyű összecsukható."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți pe străduțe.",
+              "Muzeele sunt cele mai bune locuri de refugiu în caz de ploaie torențială.",
+              "Taxiurile pe apă au prelate, dar pot fi instabile pe vânt puternic.",
+              "O umbrelă robustă este de preferat uneia ușoare din cauza brizelor marine."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles often form in the narrow alleys.",
+              "The museums are your best retreats during heavy downpours.",
+              "Water taxis usually have covers but can be bumpy in windy weather.",
+              "A sturdy umbrella is better than a light one due to the sea breeze."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Dapia ist friedlich und die Luft kristallklar. Nach einem Besuch im Poseidonion wärmen Sie sich im Bouboulina-Museum auf, während die Wintersonne tief steht. Mittags besichtigen Sie die Kirche Agios Nikolaos in herrlicher Stille. Der Nachmittag im Spetses-Museum und am alten Hafen ist geprägt von einer Melancholie, die nur die Nebensaison bietet. Zum frühen Sonnenuntergang erreichen Sie den Leuchtturm bei erfrischender Meeresbrise.",
+            "hu": "A téli reggel Dapiában békés, a levegő pedig kristálytiszta. A Poseidonion után a Bouboulina Múzeumban melegedhet fel, miközben a téli nap alacsonyan jár. Délben az Agios Nikolaos templomot látogathatja meg teljes csendben. A délután a Spetses Múzeumban és a régi kikötőben a holtszezon különleges nyugalmát árasztja. A korai naplementét a világítótoronynál élvezheti a frissítő tengeri szélben.",
+            "ro": "Dimineața de iarnă în Dapia este liniștită, cu un aer deosebit de clar. După o oprire la Poseidonion, vă încălziți la Muzeul Bouboulina sub soarele blând de iarnă. La prânz, vizitați biserica Agios Nikolaos într-o tăcere deplină. După-amiaza la Muzeul Spetses și în Portul Vechi are farmecul discret al extrasezonului. La apusul devreme, ajungeți la far, unde briza mării este revigorantă.",
+            "en": "Winter mornings in Dapia are peaceful with crystal clear air. After visiting the Poseidonion, warm up inside the Bouboulina Museum while the winter sun stays low. Midday at Agios Nikolaos Church offers a serene atmosphere. Your afternoon at the Spetses Museum and Old Harbour is filled with the unique tranquility of the off-season. Reach the lighthouse for an early sunset accompanied by a refreshing sea breeze."
+          },
+          "stops": [
+            {
+              "name": "Dapia (Main Square)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kaffee in der Sonne, um warm zu bleiben.",
+                "hu": "Igyon egy kávét a napon, hogy ne fázzon.",
+                "ro": "Savurați o cafea la soare pentru a vă încălzi.",
+                "en": "Enjoy your coffee in the sun to stay warm."
+              }
+            },
+            {
+              "name": "Poseidonion Grand Hotel",
+              "tip_5lang": {
+                "de": "Die Innenräume sind im Winter angenehm beheizt.",
+                "hu": "A belső terek télen kellemesen fűtöttek.",
+                "ro": "Interioarele sunt încălzite plăcut pe timp de iarnă.",
+                "en": "The interior is comfortably heated during winter."
+              }
+            },
+            {
+              "name": "Bouboulina Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten vorab.",
+                "hu": "Indulás előtt ellenőrizze a téli nyitvatartást.",
+                "ro": "Verificați programul de iarnă înainte de vizită.",
+                "en": "Check winter opening hours before heading out."
+              }
+            },
+            {
+              "name": "Church of Agios Nikolaos",
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kühle; Jacke anlassen.",
+                "hu": "A vastag falak tartják a hideget, hagyja magán a kabátot.",
+                "ro": "Zidurile groase mențin răcoarea; păstrați jacheta pe dvs.",
+                "en": "The thick walls keep the cold; keep your jacket on."
+              }
+            },
+            {
+              "name": "Spetses Museum",
+              "tip_5lang": {
+                "de": "Ein windgeschützter Ort für den frühen Nachmittag.",
+                "hu": "Szélvédett hely a kora délutáni órákra.",
+                "ro": "Un loc ferit de vânt pentru după-amiaza devreme.",
+                "en": "A wind-sheltered spot for the early afternoon."
+              }
+            },
+            {
+              "name": "Old Harbour (Palio Limani)",
+              "tip_5lang": {
+                "de": "Wenig Betrieb, ideal für ungestörte Fotos.",
+                "hu": "Kevés a turista, ideális zavartalan fotózáshoz.",
+                "ro": "Puțin trafic, ideal pentru fotografii fără mulțimi.",
+                "en": "Very quiet, ideal for undisturbed photography."
+              }
+            },
+            {
+              "name": "Lighthouse of Spetses",
+              "tip_5lang": {
+                "de": "Warme Kleidung nötig, der Seewind ist im Winter beißend.",
+                "hu": "Meleg ruha kell, a tengeri szél télen metsző lehet.",
+                "ro": "Haine groase necesare; vântul mării este tăios iarna.",
+                "en": "Warm clothes needed; the sea breeze is biting in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 17:00 Uhr unter.",
+              "Viele Restaurants im alten Hafen haben Winterpause.",
+              "Kleiden Sie sich in Schichten gegen den kühlen Wind.",
+              "Die Insel ist im Winter fast autofrei und extrem ruhig."
+            ],
+            "hu": [
+              "Télen a nap már 17:00 óra körül lemegy.",
+              "A régi kikötő számos étterme zárva tarthat télen.",
+              "Öltözzön rétegesen a hűvös tengeri szél miatt.",
+              "A sziget télen szinte teljesen autómentes és rendkívül csendes."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 17:00 pe timp de iarnă.",
+              "Multe restaurante din Portul Vechi sunt închise în extrasezon.",
+              "Îmbrăcați-vă în straturi împotriva vântului răcoros.",
+              "Insula este aproape fără mașini și extrem de liniștită iarna."
+            ],
+            "en": [
+              "The sun sets early in winter, around 5:00 PM.",
+              "Many restaurants in the Old Harbour may be closed for the season.",
+              "Dress in layers to protect yourself from the chilly sea wind.",
+              "The island is nearly car-free and extremely quiet in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +966,206 @@
           "Always lock your bike, even for short stops.",
           "The coastal road around the island is about 25 km - a great but challenging day trip."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Fahrradausflug bei Regen erfordert Vorsicht auf den rutschigen Wegen von Spetses. Morgens radeln Sie kurz zur Anargyrios-Schule, bevor der Regen zunimmt. Mittags suchen Sie Schutz im Bouboulina-Museum. Der Nachmittag führt Sie trotz Nässe zur Kirche Agios Nikolaos, wobei Sie Pfützen geschickt umfahren. Den Tag lassen Sie im alten Hafen ausklingen, wo Sie Ihr Rad unter einem Vordach abstellen und die raue See beobachten.",
+            "hu": "Az esős biciklitúra óvatosságot igényel Spetses csúszós útjain. Reggel tekerjen el az Anargyrios iskolához, mielőtt eleredne az eső. Délben a Bouboulina Múzeumban keressen menedéket a csapadék elől. Délután az Agios Nikolaos templom felé veheti az irányt, ügyesen kerülgetve a tócsákat. A napot a régi kikötőben zárhatja, ahol egy eresz alá húzódva figyelheti a tajtékzó tengert.",
+            "ro": "O excursie cu bicicleta pe ploaie necesită prudență pe drumurile alunecoase din Spetses. Dimineața, pedalați spre Școala Anargyrios înainte ca ploaia să se intensifice. La prânz, adăpostiți-vă la Muzeul Bouboulina. După-amiaza vă conduce spre biserica Agios Nikolaos, evitând cu grijă bălțile de pe traseu. Încheiați ziua în Portul Vechi, parcând bicicleta sub un acoperiș pentru a admira marea agitată.",
+            "en": "A bike trip in the rain requires caution on Spetses' slippery roads. In the morning, cycle to Anargyrios School before the rain picks up. At midday, seek shelter in the Bouboulina Museum. Your afternoon continues towards Agios Nikolaos Church, skillfully dodging puddles. End your day at the Old Harbour, parking your bike under a canopy to watch the choppy sea."
+          },
+          "stops": [
+            {
+              "name": "Dapia (Main Square)",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Bremsen vor der Abfahrt im Regen.",
+                "hu": "Indulás előtt ellenőrizze a fékeket az esőben.",
+                "ro": "Verificați frânele înainte de a pleca pe ploaie.",
+                "en": "Check your brakes before setting off in the rain."
+              }
+            },
+            {
+              "name": "Anargyrios School",
+              "tip_5lang": {
+                "de": "Die Bäume bieten nur bedingt Schutz vor Guss.",
+                "hu": "A fák csak korlátozott védelmet nyújtanak a zápor ellen.",
+                "ro": "Copacii oferă doar protecție parțială contra ploii.",
+                "en": "Trees provide only limited shelter from downpours."
+              }
+            },
+            {
+              "name": "Bouboulina Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem überdachten Platz ab.",
+                "hu": "Hagyja a biciklijét fedett helyen a múzeumnál.",
+                "ro": "Lăsați bicicleta într-un loc acoperit lângă muzeu.",
+                "en": "Leave your bike in a covered spot near the museum."
+              }
+            },
+            {
+              "name": "Church of Agios Nikolaos",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Stein.",
+                "hu": "Vigyázzon a leszálláskor a nedves köveken.",
+                "ro": "Atenție la descălecare pe pietrele umede.",
+                "en": "Be careful when dismounting on wet stones."
+              }
+            },
+            {
+              "name": "Old Harbour (Palio Limani)",
+              "tip_5lang": {
+                "de": "Vermeiden Sie schnelle Kurven auf der Promenade.",
+                "hu": "Kerülje a gyors kanyarodást a sétányon.",
+                "ro": "Evitați virajele strânse pe faleză.",
+                "en": "Avoid sharp turns on the promenade."
+              }
+            },
+            {
+              "name": "Lighthouse of Spetses",
+              "tip_5lang": {
+                "de": "Der Weg zum Leuchtturm kann schlammig sein.",
+                "hu": "A világítótoronyhoz vezető út saras lehet.",
+                "ro": "Drumul spre far poate fi noroios.",
+                "en": "The path to the lighthouse can be muddy."
+              }
+            },
+            {
+              "name": "Return to Dapia",
+              "tip_5lang": {
+                "de": "Trocknen Sie den Sattel nach der Rückkehr ab.",
+                "hu": "Visszaérkezés után törölje szárazra a nyerget.",
+                "ro": "Ștergeți șaua după ce vă întoarceți.",
+                "en": "Dry off the saddle after you return."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Das Kopfsteinpflaster in Küstennähe wird bei Nässe extrem glatt.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Vermeiden Sie Pfützen, sie könnten tiefe Schlaglöcher verbergen.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss."
+            ],
+            "hu": [
+              "A parti macskakő vizesen rendkívül csúszóssá válik.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóságért.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek.",
+              "A sárvédő elengedhetetlen ilyen időben a biciklin."
+            ],
+            "ro": [
+              "Pavajul de lângă coastă devine extrem de alunecos când e ud.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate.",
+              "Evitați bălțile, pot ascunde gropi adânci.",
+              "Apărătorile de noroi sunt obligatorii pe acest tip de vreme."
+            ],
+            "en": [
+              "Cobblestones near the coast become extremely slippery when wet.",
+              "Wear a bright raincoat for better visibility to others.",
+              "Avoid puddles as they might hide deep potholes.",
+              "Mudguards on your bike are essential in this weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln auf Spetses ist erfrischend und verkehrsarm. Morgens gleiten Sie durch die kühle Luft zur Anargyrios-Schule. Mittags wärmt Sie der Museumsbesuch auf, bevor Sie entspannt zur Kirche Agios Nikolaos fahren. Der Nachmittag gehört der Küstenstraße zum alten Hafen, wo Sie die Einsamkeit genießen. Zum Sonnenuntergang erreichen Sie den Leuchtturm, bevor Sie rechtzeitig vor der Dunkelheit nach Dapia zurückkehren.",
+            "hu": "A téli biciklizés Spetsesen frissítő és forgalommentes. Reggel a hűvös levegőben gurulhat el az Anargyrios iskolához. Délben a múzeumlátogatás során melegedhet fel, majd kényelmesen tekerhet az Agios Nikolaos templomhoz. A délután a kikötőhöz vezető parti úté, ahol élvezheti a magányt. Naplementére érjen a világítótoronyhoz, mielőtt még sötétedés előtt visszaérne Dapiába.",
+            "ro": "Ciclismul de iarnă pe Spetses este revigorant și lipsit de trafic. Dimineața, glisați prin aerul rece spre Școala Anargyrios. La prânz, vizita muzeului vă încălzește înainte de a pedala relaxat spre biserica Agios Nikolaos. După-amiaza aparține drumului de coastă spre Portul Vechi, unde vă bucurați de liniște. Ajungeți la far pentru apus, apoi reveniți în Dapia înainte de lăsarea întunericului.",
+            "en": "Winter cycling on Spetses is refreshing and traffic-free. In the morning, glide through the cool air to Anargyrios School. At midday, the museum visit warms you up before a relaxed ride to Agios Nikolaos Church. The afternoon belongs to the coastal road to the Old Harbour, where you can enjoy the solitude. Reach the lighthouse by sunset before returning to Dapia before dark."
+          },
+          "stops": [
+            {
+              "name": "Dapia (Main Square)",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe gegen den kalten Fahrtwind.",
+                "hu": "Viseljen kesztyűt a hideg menetszél ellen.",
+                "ro": "Purtați mănuși împotriva vântului rece de mișcare.",
+                "en": "Wear gloves to protect against the cold wind while riding."
+              }
+            },
+            {
+              "name": "Anargyrios School",
+              "tip_5lang": {
+                "de": "Die schattigen Wege unter Bäumen sind oft kühler.",
+                "hu": "Az árnyékos utak a fák alatt gyakran hűvösek.",
+                "ro": "Drumurile umbrite de sub copaci sunt adesea mai reci.",
+                "en": "The shaded paths under trees are often cooler."
+              }
+            },
+            {
+              "name": "Bouboulina Museum",
+              "tip_5lang": {
+                "de": "Perfekte Aufwärmpause zwischen den Fahrten.",
+                "hu": "Tökéletes pihenő a bemelegedéshez két tekerés között.",
+                "ro": "Pauză perfectă de încălzire între reprizele de pedalat.",
+                "en": "A perfect warming break between rides."
+              }
+            },
+            {
+              "name": "Church of Agios Nikolaos",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad in der Sonne, falls möglich.",
+                "hu": "Ha lehet, parkoljon a napon a biciklivel.",
+                "ro": "Parcați bicicleta la soare dacă este posibil.",
+                "en": "Park your bike in the sun if possible."
+              }
+            },
+            {
+              "name": "Old Harbour (Palio Limani)",
+              "tip_5lang": {
+                "de": "Der Wind weht hier im Winter oft kräftig.",
+                "hu": "Itt télen gyakran fúj erős szél.",
+                "ro": "Vântul suflă adesea cu putere aici iarna.",
+                "en": "The wind often blows strongly here in winter."
+              }
+            },
+            {
+              "name": "Lighthouse of Spetses",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Ort vor 16:30 Uhr für das Licht.",
+                "hu": "A fények miatt látogassa meg 16:30 előtt.",
+                "ro": "Vizitați înainte de ora 16:30 pentru lumină bună.",
+                "en": "Visit before 4:30 PM for the best winter light."
+              }
+            },
+            {
+              "name": "Return to Dapia",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Licht funktioniert.",
+                "hu": "Győződjön meg róla, hogy működik a lámpája.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează.",
+                "en": "Make sure your bike lights are working."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Luft am Meer ist im Winter sehr feucht und kalt beim Fahren.",
+              "Nutzen Sie die leeren Straßen für entspanntes Sightseeing.",
+              "Achten Sie auf die frühe Dämmerung ab 16:30 Uhr.",
+              "Eine winddichte Jacke ist wichtiger als dicke Wolle."
+            ],
+            "hu": [
+              "A tengerparti levegő télen nagyon párás és hideg tekerés közben.",
+              "Használja ki az üres utakat a nyugodt nézelődésre.",
+              "Ügyeljen a korai szürkületre 16:30-tól.",
+              "A szélálló dzseki fontosabb, mint a vastag gyapjú."
+            ],
+            "ro": [
+              "Aerul de la malul mării este foarte umed și rece în timpul mersului.",
+              "Profități de străzile goale pentru vizitare relaxată.",
+              "Atenție la amurgul timpuriu care începe de la 16:30.",
+              "O jachetă rezistentă la vânt e mai importantă decât lâna groasă."
+            ],
+            "en": [
+              "The sea air is very damp and cold while cycling in winter.",
+              "Take advantage of the empty roads for relaxed sightseeing.",
+              "Be mindful of early dusk starting from 4:30 PM.",
+              "A windproof jacket is more important than thick wool."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1522,188 @@
           "A car allows you to visit more remote beaches on the island that are difficult to reach on foot.",
           "Watch out for scooters and horse-drawn carriages sharing the roads."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Fahrzeug (Taxi oder lokaler Transport) ist Regen auf Spetses kein Hindernis. Morgens erreichen Sie Dapia trocken und genießen den Blick auf das graue Meer. Das Bouboulina-Museum bietet mittags ein perfektes Indoor-Programm. Nachmittags bringt Sie die Fahrt zum alten Hafen und zum Spetses-Museum bequem ans Ziel, ohne nass zu werden. Den Tag beschließen Sie am Leuchtturm, wo Sie den Regen aus der geschützten Kabine beobachten.",
+            "hu": "Gépjárművel (taxi vagy helyi járat) az eső nem akadály Spetsesen. Reggel szárazon érkezhet Dapiába, és gyönyörködhet a szürke tenger látványában. A Bouboulina Múzeum délben tökéletes beltéri programot kínál. Délután a kikötőhöz és a Spetses Múzeumhoz vezető út kényelmesen, ázás nélkül tehető meg. A napot a világítótoronynál zárhatja, a védett utastérből figyelve az esőt.",
+            "ro": "Cu un vehicul (taxi sau transport local), ploaia nu este un obstacol în Spetses. Dimineața ajungeți uscat în Dapia și admirați marea gri. Muzeul Bouboulina oferă la prânz programul perfect de interior. După-amiaza, drumul spre Portul Vechi și Muzeul Spetses vă duce la destinație fără efort. Încheiați ziua la far, observând ploaia din confortul habitaclului.",
+            "en": "By vehicle (taxi or local transport), the rain is no obstacle on Spetses. In the morning, reach Dapia dry and enjoy the view of the grey sea. The Bouboulina Museum offers a perfect indoor program at midday. In the afternoon, the drive to the Old Harbour and Spetses Museum gets you to your destination without getting wet. End your day at the lighthouse, watching the rain from the shelter of the vehicle."
+          },
+          "stops": [
+            {
+              "name": "Parking at the edge of town",
+              "tip_5lang": {
+                "de": "Erwarten Sie Pfützen auf dem Parkplatz.",
+                "hu": "Számítson tócsákra a parkolóban.",
+                "ro": "Așteptați-vă la bălți în parcare.",
+                "en": "Expect puddles in the parking area."
+              }
+            },
+            {
+              "name": "Dapia & Poseidonion (Cluster 1)",
+              "tip_5lang": {
+                "de": "Lassen Sie sich so nah wie möglich am Eingang absetzen.",
+                "hu": "Kérje, hogy a bejárathoz a lehető legközelebb tegyék ki.",
+                "ro": "Cereți să fiți lăsat cât mai aproape de intrare.",
+                "en": "Ask to be dropped off as close to the entrance as possible."
+              }
+            },
+            {
+              "name": "Bouboulina Museum (Cluster 1)",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Halt zum Museum.",
+                "hu": "Rövid gyalogút a megállótól a múzeumig.",
+                "ro": "Scurtă plimbare de la oprire până la muzeu.",
+                "en": "Short walk from the stop to the museum."
+              }
+            },
+            {
+              "name": "Drive to the Old Harbour (Cluster 2)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht durch die Scheiben.",
+                "hu": "Élvezze a kilátást az ablakokon keresztül.",
+                "ro": "Bucurați-vă de priveliște prin geamuri.",
+                "en": "Enjoy the view through the windows."
+              }
+            },
+            {
+              "name": "Spetses Museum (Cluster 2)",
+              "tip_5lang": {
+                "de": "Der Zugang ist bei Regen oft etwas matschig.",
+                "hu": "Az odavezető út esőben gyakran sáros.",
+                "ro": "Accesul este adesea noroios pe timp de ploaie.",
+                "en": "Access is often a bit muddy during rain."
+              }
+            },
+            {
+              "name": "Lighthouse & View (Cluster 2)",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Fahrzeug, falls es schüttet.",
+                "hu": "Maradjon a járműben, ha szakad az eső.",
+                "ro": "Rămâneți în vehicul dacă plouă torențial.",
+                "en": "Stay in the vehicle if it's pouring rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Auf Spetses sind private Autos verboten; nutzen Sie Taxis.",
+              "Taxis sind bei Regen sehr gefragt, reservieren Sie vorab.",
+              "Die Straßen sind eng und können bei Nässe rutschig sein.",
+              "Halten Sie Kleingeld für die Taxifahrt bereit."
+            ],
+            "hu": [
+              "Spetsesen tilos a magánautó; használjon taxit.",
+              "Esőben nagy a kereslet a taxikra, foglaljon előre.",
+              "Az utak szűkek és vizesen csúszósak lehetnek.",
+              "Legyen Önnél aprópénz a taxihoz."
+            ],
+            "ro": [
+              "Mașinile private sunt interzise pe Spetses; folosiți taxiuri.",
+              "Taxiurile sunt solicitate pe ploaie, rezervați din timp.",
+              "Drumurile sunt înguste și pot fi alunecoase când sunt ude.",
+              "Aveți pregătit numerar pentru taxi."
+            ],
+            "en": [
+              "Private cars are banned on Spetses; use taxis instead.",
+              "Taxis are in high demand during rain, book in advance.",
+              "The roads are narrow and can be slippery when wet.",
+              "Keep some small change ready for the taxi fare."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Tour mit dem Fahrzeug zeigt Spetses von seiner ruhigsten Seite. Morgens gleiten Sie durch die klare Luft nach Dapia. Der Besuch im Bouboulina-Museum ist mittags eine willkommene Aufwärmpause. Nachmittags führt Sie die Fahrt zum alten Hafen, wo fast alle Yachten verschwunden sind. Zum Abschluss bietet der Leuchtturm einen dramatischen Blick auf den frühen winterlichen Sonnenuntergang über dem Saronischen Golf.",
+            "hu": "A téli autós túra Spetses legnyugodtabb arcát mutatja meg. Reggel a tiszta levegőben érkezhet Dapiába. A Bouboulina Múzeum délben kellemes felmelegedést nyújt. Délután a kikötőbe látogathat, ahonnan szinte minden jacht eltűnt már. Zárásként a világítótoronytól drámai kilátás nyílik a Szaroniki-öböl feletti korai téli naplementére.",
+            "ro": "Un tur cu vehiculul pe timp de iarnă arată cea mai liniștită latură a insulei Spetses. Dimineața, glisați prin aerul curat spre Dapia. Vizita la Muzeul Bouboulina este o pauză de încălzire binevenită la prânz. După-amiaza, drumul vă duce în Portul Vechi, de unde majoritatea iahturilor au dispărut. La final, farul oferă o vedere dramatică asupra apusului timpuriu de iarnă peste Golful Saronic.",
+            "en": "A winter tour by vehicle shows Spetses at its quietest. In the morning, glide through the crisp air to Dapia. The Bouboulina Museum visit at midday is a welcome warming break. In the afternoon, the drive takes you to the Old Harbour, where most yachts have disappeared for the season. To conclude, the lighthouse offers a dramatic view of the early winter sunset over the Saronic Gulf."
+          },
+          "stops": [
+            {
+              "name": "Parking at the edge of town",
+              "tip_5lang": {
+                "de": "Im Winter gibt es hier reichlich Platz.",
+                "hu": "Télen bőven van itt szabad hely.",
+                "ro": "Iarna există locuri din abundență aici.",
+                "en": "There is plenty of parking space in winter."
+              }
+            },
+            {
+              "name": "Dapia & Poseidonion (Cluster 1)",
+              "tip_5lang": {
+                "de": "Die Sonne wärmt das Auto angenehm auf.",
+                "hu": "A napsütés kellemesen felmelegíti az autót.",
+                "ro": "Soarele încălzește plăcut mașina.",
+                "en": "The sun warms up the car pleasantly."
+              }
+            },
+            {
+              "name": "Bouboulina Museum (Cluster 1)",
+              "tip_5lang": {
+                "de": "Ein geschützter Ort vor dem kühlen Seewind.",
+                "hu": "Védett hely a hűvös tengeri szél elől.",
+                "ro": "Un loc ferit de vântul rece al mării.",
+                "en": "A sheltered place from the cool sea breeze."
+              }
+            },
+            {
+              "name": "Drive to the Old Harbour (Cluster 2)",
+              "tip_5lang": {
+                "de": "Die Straßen sind fast leer, genießen Sie die Fahrt.",
+                "hu": "Az utak szinte üresek, élvezze az autózást.",
+                "ro": "Drumurile sunt aproape goale, bucurați-vă de drum.",
+                "en": "The roads are almost empty, enjoy the drive."
+              }
+            },
+            {
+              "name": "Spetses Museum (Cluster 2)",
+              "tip_5lang": {
+                "de": "Die Innenräume bieten Schutz vor der Winterkälte.",
+                "hu": "A belső terek védelmet nyújtanak a téli hideg ellen.",
+                "ro": "Interioarele oferă protecție împotriva frigului iernii.",
+                "en": "The interiors provide protection from the winter cold."
+              }
+            },
+            {
+              "name": "Lighthouse & View (Cluster 2)",
+              "tip_5lang": {
+                "de": "Perfekt für Fotos ohne Touristenmassen.",
+                "hu": "Tökéletes fotózáshoz turisták nélkül.",
+                "ro": "Perfect pentru fotografii fără mulțimi de turiști.",
+                "en": "Perfect for photos without the tourist crowds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Taxis sind im Winter leichter verfügbar als im Sommer.",
+              "Heizung im Fahrzeug ist bei der hohen Luftfeuchtigkeit wichtig.",
+              "Nutzen Sie das Tageslicht bis 16:30 Uhr voll aus.",
+              "Die Sicht auf das Festland ist im Winter oft klarer."
+            ],
+            "hu": [
+              "Télen könnyebb taxit találni, mint nyáron.",
+              "A jármű fűtése fontos a magas páratartalom miatt.",
+              "Használja ki a nappali fényt 16:30-ig.",
+              "A kilátás a szárazföldre télen gyakran tisztább."
+            ],
+            "ro": [
+              "Taxiurile sunt mai ușor de găsit iarna decât vara.",
+              "Încălzirea în vehicul este importantă din cauza umidității.",
+              "Profitați din plin de lumina zilei până la 16:30.",
+              "Vizibilitatea spre continent este adesea mai clară iarna."
+            ],
+            "en": [
+              "Taxis are more readily available in winter than in summer.",
+              "Vehicle heating is important due to the high humidity.",
+              "Make full use of daylight until 4:30 PM.",
+              "The view of the mainland is often clearer in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2060,188 @@
           "Schedules can vary by season, so check them in advance.",
           "Keep small change handy for bus tickets and water taxis."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Nutzung von Wassertaxis und Bussen ist bei Regen auf Spetses die trockenste Wahl. Morgens erreichen Sie Dapia bequem per Boot. Das Bouboulina-Museum bietet mittags eine lehrreiche Pause vom Wetter. Nachmittags bringt Sie das Wassertaxi zum alten Hafen, wobei die Überfahrt bei Regen eine besondere Dynamik hat. Den Tag beenden Sie mit einem kurzen Besuch am Leuchtturm, bevor Sie den Rückweg im Schutz des Nahverkehrs antreten.",
+            "hu": "A vízitaxik és buszok használata a legszárazabb választás esőben Spetsesen. Reggel hajóval kényelmesen érheti el Dapiát. A Bouboulina Múzeum délben tanulságos menedéket nyújt az időjárás elől. Délután vízitaxi viszi a régi kikötőbe; az átkelés esőben különleges élmény. A napot egy rövid világítótorony-látogatással zárhatja, mielőtt a tömegközlekedés védelmében visszatérne.",
+            "ro": "Utilizarea taxiurilor pe apă și a autobuzelor este cea mai uscată alegere pe ploaie în Spetses. Dimineața ajungeți confortabil în Dapia cu barca. Muzeul Bouboulina oferă la prânz o pauză educativă de la vremea rea. După-amiaza, taxiul pe apă vă duce în Portul Vechi; traversarea pe ploaie are o dinamică aparte. Încheiați ziua cu o scurtă vizită la far, înainte de a reveni cu transportul local.",
+            "en": "Using water taxis and buses is the driest choice during rain on Spetses. In the morning, reach Dapia comfortably by boat. The Bouboulina Museum provides an educational break from the weather at midday. In the afternoon, a water taxi takes you to the Old Harbour; the crossing in the rain has a special atmosphere. End your day with a brief visit to the lighthouse before returning under the protection of transit."
+          },
+          "stops": [
+            {
+              "name": "Dapia Square (Cluster 1)",
+              "tip_5lang": {
+                "de": "Warten Sie unter den Vordächern auf den Bus.",
+                "hu": "Várjon a buszra az ereszek alatt.",
+                "ro": "Așteptați autobuzul sub acoperișuri.",
+                "en": "Wait for the bus under the eaves."
+              }
+            },
+            {
+              "name": "Bouboulina Museum (Cluster 1)",
+              "tip_5lang": {
+                "de": "Einige Schritte durch den Regen zum Eingang.",
+                "hu": "Pár lépés az esőben a bejáratig.",
+                "ro": "Câțiva pași prin ploaie până la intrare.",
+                "en": "A few steps through the rain to the entrance."
+              }
+            },
+            {
+              "name": "Water Taxi to Old Harbour (Cluster 2)",
+              "tip_5lang": {
+                "de": "Wassertaxis sind bei Regen meist überdacht.",
+                "hu": "A vízitaxik esőben általában fedettek.",
+                "ro": "Taxiurile pe apă sunt de obicei acoperite pe ploaie.",
+                "en": "Water taxis are usually covered during rain."
+              }
+            },
+            {
+              "name": "Church of Agios Nikolaos (Cluster 2)",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um einen Schauer abzuwarten.",
+                "hu": "Jó hely egy zápor kivárására.",
+                "ro": "Un loc bun pentru a aștepta trecerea unei averse.",
+                "en": "A good place to wait out a shower."
+              }
+            },
+            {
+              "name": "Spetses Museum (Cluster 2)",
+              "tip_5lang": {
+                "de": "Planen Sie Zeit für den Weg zur Haltestelle ein.",
+                "hu": "Számoljon időt a megállóig való eljutásra.",
+                "ro": "Alocați timp pentru drumul până la stație.",
+                "en": "Allow time for the walk to the transit stop."
+              }
+            },
+            {
+              "name": "Lighthouse Walk (Cluster 2)",
+              "tip_5lang": {
+                "de": "Wenig Schutz, halten Sie die Umbrelle bereit.",
+                "hu": "Kevés a menedék, tartsa készenlétben az esernyőt.",
+                "ro": "Puține adăposturi, țineți umbrela la îndemână.",
+                "en": "Little shelter, keep your umbrella ready."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Wassertaxis sind das Rückgrat des Transports bei Regen.",
+              "Fahrpläne der Busse können bei Unwetter variieren.",
+              "Tragen Sie beim Ein- und Aussteigen aus Booten rutschfeste Schuhe.",
+              "Die Boote können bei Wellengang recht unruhig liegen."
+            ],
+            "hu": [
+              "A vízitaxik jelentik a közlekedés gerincét esőben.",
+              "A buszmenetrend rossz időben változhat.",
+              "A hajóra szálláskor viseljen csúszásmentes cipőt.",
+              "A hajók hullámzásban elég erősen imbolyoghatnak."
+            ],
+            "ro": [
+              "Taxiurile pe apă sunt baza transportului pe timp de ploaie.",
+              "Orarele autobuzelor pot varia în caz de vreme rea.",
+              "Purtați pantofi antiderapanți la urcarea și coborârea din barcă.",
+              "Bărcile pot fi destul de instabile pe valuri."
+            ],
+            "en": [
+              "Water taxis are the backbone of transport during rain.",
+              "Bus schedules may vary during bad weather.",
+              "Wear non-slip shoes when boarding and disembarking boats.",
+              "Boats can be quite rocky in choppy waters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der winterliche Nahverkehr auf Spetses ist entspannt, aber seltener. Morgens bringt Sie das Wassertaxi durch die stille Bucht nach Dapia. Nach einer Aufwärmpause im Bouboulina-Museum besuchen Sie mittags die ruhige Kirche Agios Nikolaos. Der Nachmittag gehört dem Spetses-Museum, bevor Sie die winterliche Atmosphäre am alten Hafen genießen. Rechtzeitig zum frühen Sonnenuntergang erreichen Sie den Leuchtturm, bevor Sie das letzte Wassertaxi zurücknehmen.",
+            "hu": "A téli tömegközlekedés Spetsesen nyugodt, de ritkább. Reggel a vízitaxi a csendes öblön keresztül viszi Dapiába. A Bouboulina Múzeumban való felmelegedés után délben a nyugodt Agios Nikolaos templomot látogathatja meg. A délután a Spetses Múzeumé, majd a kikötő téli hangulatáé. Időben a korai naplementére érjen a világítótoronyhoz, mielőtt elcsípné az utolsó vízitaxit.",
+            "ro": "Transportul local de iarnă în Spetses este relaxat, dar mai rar. Dimineața, taxiul pe apă vă duce prin golful liniștit spre Dapia. După o pauză de încălzire la Muzeul Bouboulina, vizitați biserica Agios Nikolaos la prânz. După-amiaza aparține Muzeului Spetses și atmosferei de iarnă din port. Ajungeți la far pentru apusul timpuriu, înainte de a lua ultimul taxi pe apă.",
+            "en": "Winter transit on Spetses is relaxed but less frequent. In the morning, a water taxi takes you through the silent bay to Dapia. After warming up at the Bouboulina Museum, visit the peaceful Agios Nikolaos Church at midday. Your afternoon is spent at the Spetses Museum and enjoying the winter atmosphere of the harbour. Reach the lighthouse for the early sunset before catching the last water taxi back."
+          },
+          "stops": [
+            {
+              "name": "Dapia Square (Cluster 1)",
+              "tip_5lang": {
+                "de": "Prüfen Sie den reduzierten Winterfahrplan.",
+                "hu": "Ellenőrizze a ritkított téli menetrendet.",
+                "ro": "Verificați orarul de iarnă redus.",
+                "en": "Check the reduced winter schedule."
+              }
+            },
+            {
+              "name": "Bouboulina Museum (Cluster 1)",
+              "tip_5lang": {
+                "de": "Perfekt getaktet für eine Aufwärmpause.",
+                "hu": "Tökéletesen időzíthető egy melegedő szünetre.",
+                "ro": "Programat perfect pentru o pauză de încălzire.",
+                "en": "Perfectly timed for a warming break."
+              }
+            },
+            {
+              "name": "Water Taxi to Old Harbour (Cluster 2)",
+              "tip_5lang": {
+                "de": "Die Überfahrt ist im Winter oft sehr kalt.",
+                "hu": "Az átkelés télen gyakran nagyon hideg.",
+                "ro": "Traversarea este adesea foarte rece iarna.",
+                "en": "The crossing is often very cold in winter."
+              }
+            },
+            {
+              "name": "Church of Agios Nikolaos (Cluster 2)",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Sonnenlicht für den Weg.",
+                "hu": "Használja ki a napsütést a gyalogláshoz.",
+                "ro": "Folosiți lumina soarelui pentru drum.",
+                "en": "Use the sunlight for your walk."
+              }
+            },
+            {
+              "name": "Spetses Museum (Cluster 2)",
+              "tip_5lang": {
+                "de": "Die letzte Fahrt zurück ist oft schon gegen 17:30 Uhr.",
+                "hu": "Az utolsó járat visszafelé gyakran már 17:30-kor indul.",
+                "ro": "Ultima cursă de întoarcere este adesea în jur de 17:30.",
+                "en": "The last return trip is often as early as 5:30 PM."
+              }
+            },
+            {
+              "name": "Lighthouse Walk (Cluster 2)",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg vor Einbruch der Dunkelheit.",
+                "hu": "Tervezze a visszautat sötétedés előtt.",
+                "ro": "Planificați drumul de întoarcere înainte de lăsarea întunericului.",
+                "en": "Plan your walk back before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter deutlich seltener als im Sommer.",
+              "Wassertaxis sind auch im Winter die zuverlässigste Verbindung.",
+              "Die Sonne verschwindet früh hinter den Hügeln.",
+              "Tragen Sie auf dem Boot eine windfeste Jacke."
+            ],
+            "hu": [
+              "Télen a buszok lényegesen ritkábban járnak, mint nyáron.",
+              "A vízitaxik télen is a legmegbízhatóbb összeköttetést jelentik.",
+              "A nap korán eltűnik a dombok mögött.",
+              "A hajón viseljen szélálló dzsekit."
+            ],
+            "ro": [
+              "Autobuzele circulă mult mai rar iarna decât vara.",
+              "Taxiurile pe apă sunt cea mai sigură legătură și iarna.",
+              "Soarele dispare devreme după dealuri.",
+              "Purtați o jachetă rezistentă la vânt pe barcă."
+            ],
+            "en": [
+              "Buses run significantly less frequently in winter than in summer.",
+              "Water taxis remain the most reliable connection in winter.",
+              "The sun disappears early behind the hills.",
+              "Wear a windproof jacket on the boat."
+            ]
+          }
+        }
       }
     }
   }

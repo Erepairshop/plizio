@@ -316,6 +316,188 @@
           "Bring a reusable water bottle.",
           "Plan for lunch at one of the local restaurants to taste Serbian cuisine."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vormittags trotzen wir dem Regen am Denkmal der Befreier und suchen dann Zuflucht in der St.-Nikolaus-Kirche. Mittags bietet das Kulturzentrum ein ideales trockenes Programm mit lokalen Einblicken. Nachmittags spazieren wir unter dem Regenschirm durch den Heldenpark zum Flussufer. Abends bewundern wir die Lichter der Vrla-Brücke, die sich malerisch auf dem nassen Asphalt spiegeln.",
+            "hu": "Délelőtt az eső ellenére meglátogatjuk a Felszabadítók emlékművét, majd a Szent Miklós-templom csendjében lelünk menedékre. Délben a Kulturális Központ kiállításai nyújtanak fedett programot. Délután esernyővel járjuk be a Hősök parkját a folyópartig. Este a Vrla-híd fényeiben gyönyörködünk, amelyek különlegesen csillognak a vizes aszfalton a Južna Morava partján.",
+            "ro": "Dimineața înfruntăm ploaia la Monumentul Eliberatorilor, apoi căutăm adăpost în biserica Sf. Nicolae. La prânz, Centrul Cultural oferă un program ideal la adăpost de intemperii. După-amiaza ne plimbăm cu umbrela prin Parcul Eroilor până la malul râului. Seara admirăm luminile podului Vrla, care se reflectă spectaculos pe asfaltul umed și pe suprafața apei.",
+            "en": "In the morning, we brave the drizzle at the Monument to the Liberators and find shelter in St. Nicholas Church. At noon, the Cultural Center provides a perfect indoor escape with local art. Afternoon brings a rainy walk through the Park of Heroes to the riverbank. In the evening, the lights of the Vrla Bridge reflect beautifully on the wet pavement near the Južna Morava."
+          },
+          "stops": [
+            {
+              "name": "Monument to the Liberators",
+              "tip_5lang": {
+                "de": "Schnelles Foto im Regen, der Stein glänzt bei Nässe.",
+                "hu": "Gyors fotó az esőben, a kőfelület ilyenkor szépen csillog.",
+                "ro": "O fotografie rapidă în ploaie, piatra strălucește când e udă.",
+                "en": "Quick photo in the rain; the stone surface shines when wet."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um trocken zu bleiben und die Fresken zu bewundern.",
+                "hu": "Csendes hely, ahol megvárhatjuk a zápor végét és megcsodálhatjuk a freskókat.",
+                "ro": "Un loc liniștit pentru a sta la uscat și a admira frescele.",
+                "en": "A quiet spot to stay dry and admire the interior frescoes."
+              }
+            },
+            {
+              "name": "Cultural Center Vladičin Han",
+              "tip_5lang": {
+                "de": "Das beste Indoor-Programm der Stadt bei Dauerregen.",
+                "hu": "A város legjobb fedett programja tartós eső esetén.",
+                "ro": "Cel mai bun program de interior din oraș în caz de ploaie.",
+                "en": "The best indoor program in town for persistent rain."
+              }
+            },
+            {
+              "name": "Park of Heroes",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind auch bei Pfützen gut begehbar.",
+                "hu": "Az aszfaltozott utak tócsák idején is jól járhatóak.",
+                "ro": "Aleile asfaltate sunt ușor de parcurs chiar și cu bălți.",
+                "en": "Asphalt paths are easy to navigate even during rain."
+              }
+            },
+            {
+              "name": "Vrla Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Gehweg, der Boden kann rutschig sein.",
+                "hu": "Vigyázzunk a járdán, a burkolat csúszós lehet.",
+                "ro": "Atenție pe trotuar, suprafața poate fi alunecoasă.",
+                "en": "Be careful on the sidewalk; the surface can be slippery."
+              }
+            },
+            {
+              "name": "Južna Morava Riverbank",
+              "tip_5lang": {
+                "de": "Wasserdichte Schuhe sind für die Uferwege unerlässlich.",
+                "hu": "Vízálló cipő elengedhetetlen a folyóparti ösvényekhez.",
+                "ro": "Încălțămintea impermeabilă este esențială pentru potecile de pe mal.",
+                "en": "Waterproof shoes are essential for the riverbank paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da es am Fluss windig sein kann.",
+              "Das Kulturzentrum ist der beste Ort, um starke Schauer abzuwarten.",
+              "Tragen Sie wasserfeste Schuhe für den Spaziergang an der Morava.",
+              "Die Brückenbeleuchtung ist bei Regen besonders fotogen."
+            ],
+            "hu": [
+              "Vigyünk strapabíró esernyőt, mert a folyó mentén erős lehet a szél.",
+              "A Kulturális Központ a legjobb hely a nagyobb záporok átvészelésére.",
+              "Viseljünk vízálló cipőt a Morava-parti sétához.",
+              "A híd világítása esőben különlegesen mutat a fotókon."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, deoarece vântul poate fi puternic de-a lungul râului.",
+              "Centrul Cultural este cel mai bun loc pentru a aștepta trecerea ploii.",
+              "Purtați încălțăminte impermeabilă pentru plimbarea pe malul Moravei.",
+              "Iluminarea podului este deosebit de fotogenă pe ploaie."
+            ],
+            "en": [
+              "Bring a sturdy umbrella as it can get windy along the river.",
+              "The Cultural Center is the best indoor backup during heavy showers.",
+              "Wear waterproof shoes for the Morava riverbank walk.",
+              "The bridge lighting is especially photogenic in rainy conditions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch am Befreier-Denkmal, gefolgt von der wärmenden Stille der St.-Nikolaus-Kirche. Mittags lockt das Kulturzentrum mit wohliger Wärme und lokaler Geschichte. Nachmittags erleben wir die winterliche Ruhe im Heldenpark, bevor wir die Vrla-Brücke überqueren. Da die Sonne gegen 16:15 Uhr untergeht, genießen wir das Flussufer im frühen Abendlicht der kalten Winternacht.",
+            "hu": "A téli reggel frissen indul az emlékműnél, majd a Szent Miklós-templom áhítatos csendje melegít fel. Délben a Kulturális Központ belső terei nyújtanak menedéket a hideg elől. Délután a Hősök parkjának téli nyugalmát élvezzük, mielőtt átkelnénk a Vrla-hídon. Mivel a nap 16:15 körül nyugszik, a folyópartot már a korai alkonyat fényeiben fedezzük fel.",
+            "ro": "Dimineața de iarnă începe cu aer proaspăt la monument, urmată de liniștea primitoare a bisericii Sf. Nicolae. La prânz, Centrul Cultural ne oferă căldură și o incursiune în istoria locală. După-amiaza experimentăm liniștea hibernală din Parcul Eroilor înainte de a traversa podul Vrla. Deoarece soarele apune în jurul orei 16:15, savurăm malul râului în lumina timpurie a serii.",
+            "en": "The winter morning starts crisp at the monument, followed by the warming silence of St. Nicholas Church. At noon, the Cultural Center offers a cozy escape from the cold. Afternoon brings the wintry peace of the Park of Heroes before we cross the Vrla Bridge. With sunset around 16:15, we enjoy the riverbank in the early evening light of a cold Serbian winter day."
+          },
+          "stops": [
+            {
+              "name": "Monument to the Liberators",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind beim Fotografieren im Freien wichtig.",
+                "hu": "Meleg kesztyű ajánlott a szabadtéri fotózáshoz.",
+                "ro": "Mănușile călduroase sunt importante pentru poze în aer liber.",
+                "en": "Warm gloves are essential for outdoor photography in winter."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern bieten Schutz vor dem kalten Wind.",
+                "hu": "A vastag kőfalak védelmet nyújtanak a hideg szél ellen.",
+                "ro": "Zidurile groase de piatră oferă protecție împotriva vântului rece.",
+                "en": "The thick stone walls provide shelter from the cold wind."
+              }
+            },
+            {
+              "name": "Cultural Center Vladičin Han",
+              "tip_5lang": {
+                "de": "Ein idealer Ort zum Aufwärmen zwischen den Etappen.",
+                "hu": "Ideális hely a felmelegedésre két állomás között.",
+                "ro": "Un loc ideal pentru a vă încălzi între etapele traseului.",
+                "en": "An ideal place to warm up between route segments."
+              }
+            },
+            {
+              "name": "Park of Heroes",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen auf den Gehwegen.",
+                "hu": "Vigyázzunk a jeges foltokra a járdafelületeken.",
+                "ro": "Atenție la porțiunile înghețate de pe alei.",
+                "en": "Watch out for icy patches on the walking paths."
+              }
+            },
+            {
+              "name": "Vrla Bridge",
+              "tip_5lang": {
+                "de": "Auf der Brücke zieht es im Winter oft sehr stark.",
+                "hu": "A hídon télen gyakran nagyon erős a huzat.",
+                "ro": "Pe pod, curentul este adesea foarte puternic iarna.",
+                "en": "The wind can be very biting on the bridge in winter."
+              }
+            },
+            {
+              "name": "Južna Morava Riverbank",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft, bevor es dunkel wird.",
+                "hu": "Élvezzük a friss téli levegőt, mielőtt korán besötétedik.",
+                "ro": "Bucurați-vă de aerul curat de iarnă înainte de lăsarea întunericului.",
+                "en": "Enjoy the crisp winter air before it gets dark early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie das Ende der Tour für 16:00 Uhr ein, da es früh dunkel wird.",
+              "Tragen Sie Schichten, da es am Fluss deutlich kälter ist.",
+              "Die Kirche und das Kulturzentrum sind gute Aufwärmstopps.",
+              "Festes Schuhwerk schützt vor Kälte und möglichem Schneematsch."
+            ],
+            "hu": [
+              "A túrát tervezzük 16:00-ig, mert korán sötétedik.",
+              "Öltözzünk rétegesen, a folyóparton sokkal hidegebb van.",
+              "A templom és a Kulturális Központ jó hely a felmelegedésre.",
+              "A zárt, bélelt cipő véd a hidegtől és az esetleges latyaktól."
+            ],
+            "ro": [
+              "Planificați finalul turului pentru ora 16:00, deoarece se întunecă devreme.",
+              "Îmbrăcați-vă în straturi, lângă râu este mult mai frig.",
+              "Biserica și Centrul Cultural sunt puncte bune de încălzire.",
+              "Încălțămintea robustă protejează împotriva frigului și a noroiului."
+            ],
+            "en": [
+              "Plan to finish the tour by 16:00 as it gets dark early.",
+              "Dress in layers; it is significantly colder near the river.",
+              "The church and Cultural Center are good warming stops.",
+              "Sturdy boots protect against cold and potential slush."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -649,6 +831,206 @@
           "A helmet is highly recommended.",
           "Some paths by the river can be uneven, so ride carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Unsere Radtour durch Vladičin Han startet trotz Regen am Denkmal und führt zur St.-Nikolaus-Kirche. Mittags radeln wir durch den Heldenpark und über die markante Vrla-Brücke. Nachmittags erkunden wir die Mündung der Vrla und das Ufer der Južna Morava, wo wir die Dynamik des Wassers erleben. Den Tag beenden wir geschützt in der Sporthalle, während der Regen gegen die Fenster prasselt.",
+            "hu": "Esőben indulunk kerékpárral az emlékműtől a Szent Miklós-templom felé. Délben a Hősök parkján és a látványos Vrla-hídon át tekerünk. Délután a Vrla-torkolatot és a Južna Morava partját fedezzük fel, ahol az eső felkorbácsolja a folyó erejét. A napot a Sportcsarnok fedett falai között zárjuk, miközben kint dobol az eső.",
+            "ro": "Pornim cu bicicleta prin ploaie de la monument spre biserica Sf. Nicolae. La prânz pedalăm prin Parcul Eroilor și traversăm impresionantul pod Vrla. După-amiaza explorăm gura de vărsare a râului Vrla și malul Moravei de Sud, simțind energia apei. Încheiem ziua la adăpost în Sala Sporturilor, ascultând ploaia de afară.",
+            "en": "Our cycling tour starts in the rain at the monument and leads to St. Nicholas Church. At noon, we pedal through the Park of Heroes and over the striking Vrla Bridge. In the afternoon, we explore the Vrla River mouth and the Južna Morava bank, witnessing the river's power. We end the day sheltered in the Sports Hall as rain drums on the windows."
+          },
+          "stops": [
+            {
+              "name": "Monument to the Liberators",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, halten Sie den Lenker bei Nässe fest.",
+                "hu": "Rövid megálló, tartsuk stabilan a kormányt a vizes úton.",
+                "ro": "Oprire scurtă, țineți ghidonul ferm pe carosabilul ud.",
+                "en": "Short stop; keep a firm grip on the handlebars in the wet."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter einem Vordach ab.",
+                "hu": "Keressünk egy ereszt a kerékpár leállításához.",
+                "ro": "Parcați bicicleta sub o streașină.",
+                "en": "Park your bike under an overhang to keep the seat dry."
+              }
+            },
+            {
+              "name": "Park of Heroes",
+              "tip_5lang": {
+                "de": "Vorsicht vor nassen Blättern auf den Wegen.",
+                "hu": "Vigyázzunk a vizes levelekre az utakon.",
+                "ro": "Atenție la frunzele ude de pe alei.",
+                "en": "Watch out for wet leaves on the paths; they are slippery."
+              }
+            },
+            {
+              "name": "Vrla Bridge",
+              "tip_5lang": {
+                "de": "Dehnungsfugen können bei Nässe extrem rutschig sein.",
+                "hu": "A tágulási hézagok vizesen nagyon csúszósak lehetnek.",
+                "ro": "Rosturile de dilatație pot fi foarte alunecoase pe ploaie.",
+                "en": "Expansion joints on the bridge can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Vrla River Mouth",
+              "tip_5lang": {
+                "de": "Der Boden kann hier nach Regen schlammig sein.",
+                "hu": "A talaj itt eső után sáros lehet.",
+                "ro": "Terenul poate fi noroios aici după ploaie.",
+                "en": "The ground can be muddy here after the rain."
+              }
+            },
+            {
+              "name": "Južna Morava Riverbank",
+              "tip_5lang": {
+                "de": "Nutzen Sie Schutzbleche, um trocken zu bleiben.",
+                "hu": "Használjunk sárvédőt, hogy tiszták maradjunk.",
+                "ro": "Folosiți apărători de noroi pentru a rămâne uscați.",
+                "en": "Use mudguards to stay dry while cycling along the bank."
+              }
+            },
+            {
+              "name": "Sports Hall",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort zum Unterstellen und Aufwärmen.",
+                "hu": "Tökéletes hely a fedezékbe vonulásra és pihenésre.",
+                "ro": "Un loc perfect pentru a vă adăposti și odihni.",
+                "en": "A perfect place to take cover and rest at the end."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, da der Bremsweg bei Nässe länger ist.",
+              "Wasserdichte Kleidung ist für diese Route ein Muss.",
+              "Vermeiden Sie Pfützen, sie könnten tiefer sein als gedacht.",
+              "Die Sporthalle bietet einen guten trockenen Endpunkt."
+            ],
+            "hu": [
+              "Ellenőrizzük a fékeket, mert vizes úton hosszabb a féktáv.",
+              "A vízálló ruházat kötelező ehhez az útvonalhoz.",
+              "Kerüljük a tócsákat, mélyebbek lehetnek, mint aminek látszanak.",
+              "A Sportcsarnok jó száraz végpontot kínál."
+            ],
+            "ro": [
+              "Verificați frânele, distanța de frânare este mai mare pe ud.",
+              "Îmbrăcămintea impermeabilă este obligatorie pentru acest traseu.",
+              "Evitați bălțile, pot fi mai adânci decât par.",
+              "Sala Sporturilor oferă un punct de final uscat și sigur."
+            ],
+            "en": [
+              "Check your brakes; stopping distance is longer in the wet.",
+              "Waterproof clothing is a must for this route.",
+              "Avoid puddles as they might be deeper than they look.",
+              "The Sports Hall offers a good dry finish point."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt uns durch die frostige Luft von Vladičin Han. Vormittags besuchen wir das Denkmal und die Kirche, wo wir kurz innehalten. Mittags geht es durch den kahlen Heldenpark und über die windige Vrla-Brücke. Nachmittags folgen wir dem Lauf der Flüsse, wobei wir die eisige Schönheit der Morava bewundern. Den Tag beschließen wir in der Sporthalle, wo wir uns nach der kalten Fahrt wieder aufwärmen können.",
+            "hu": "A téli kerékpártúra fagyos levegőben visz keresztül a városon. Délelőtt az emlékműnél és a templomnál teszünk rövid látogatást. Délben a kopár Hősök parkján és a szeles Vrla-hídon tekerünk át. Délután a folyópart mentén csodáljuk a Morava jeges szépségét. A napot a Sportcsarnokban zárjuk, ahol végre felmelegedhetünk a hideg tekerés után.",
+            "ro": "Turul cu bicicleta pe timp de iarnă ne poartă prin aerul înghețat al orașului. Dimineața vizităm monumentul și biserica, făcând scurte opriri. La prânz traversăm Parcul Eroilor și podul Vrla unde vântul bate cu putere. După-amiaza urmăm cursul râurilor, admirând frumusețea rece a Moravei. Încheiem ziua la Sala Sporturilor pentru a ne încălzi.",
+            "en": "The winter cycling tour takes us through the frosty air of Vladičin Han. In the morning, we visit the monument and church for brief stops. At noon, we pedal through the bare Park of Heroes and across the windy Vrla Bridge. Afternoon is spent following the riverbanks, admiring the icy beauty of the Morava. We conclude the day at the Sports Hall to warm up after the cold ride."
+          },
+          "stops": [
+            {
+              "name": "Monument to the Liberators",
+              "tip_5lang": {
+                "de": "Halten Sie die Pausen kurz, um nicht auszukühlen.",
+                "hu": "Tartsuk röviden a pihenőt, hogy ne fázzunk meg.",
+                "ro": "Faceți pauze scurte pentru a nu vă răci.",
+                "en": "Keep breaks short to avoid getting too cold."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Ein Moment der Stille in der kühlen Kirche.",
+                "hu": "Egy pillanatnyi csend a hűvös templomban.",
+                "ro": "Un moment de liniște în biserica răcoroasă.",
+                "en": "A moment of silence in the cool church interior."
+              }
+            },
+            {
+              "name": "Park of Heroes",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Wegen.",
+                "hu": "Figyeljünk a zúzmarára az utakon.",
+                "ro": "Atenție la chiciura de pe alei.",
+                "en": "Watch out for hoarfrost on the paths."
+              }
+            },
+            {
+              "name": "Vrla Bridge",
+              "tip_5lang": {
+                "de": "Extreme Windböen sind im Winter auf der Brücke möglich.",
+                "hu": "Télen erős széllökések lehetnek a hídon.",
+                "ro": "Rafale de vânt puternice sunt posibile pe pod iarna.",
+                "en": "Strong wind gusts are possible on the bridge in winter."
+              }
+            },
+            {
+              "name": "Vrla River Mouth",
+              "tip_5lang": {
+                "de": "Die Vegetation ist kahl, was weite Ausblicke ermöglicht.",
+                "hu": "A növényzet kopár, ami messzi kilátást tesz lehetővé.",
+                "ro": "Vegetația este rară, permițând vederi panoramice.",
+                "en": "The vegetation is bare, allowing for distant views."
+              }
+            },
+            {
+              "name": "Južna Morava Riverbank",
+              "tip_5lang": {
+                "de": "Der Fahrtwind am Wasser ist besonders eisig.",
+                "hu": "A menetszél a vízparton különösen jeges.",
+                "ro": "Vântul de mișcare lângă apă este foarte tăios.",
+                "en": "The wind chill near the water is particularly biting."
+              }
+            },
+            {
+              "name": "Sports Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme im Inneren zur Regeneration.",
+                "hu": "Használjuk ki a benti meleget a regenerálódáshoz.",
+                "ro": "Folosiți căldura din interior pentru recuperare.",
+                "en": "Take advantage of the indoor warmth to recover."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders für die Brückenüberquerung.",
+              "Achten Sie auf gefrierende Nässe in schattigen Bereichen.",
+              "Warme Getränke in einer Thermoskanne sind sehr zu empfehlen.",
+              "Beenden Sie die Tour vor Einbruch der Dunkelheit um 16:15 Uhr."
+            ],
+            "hu": [
+              "Viseljünk szélálló ruhát, különösen a hídon való átkeléshez.",
+              "Figyeljünk a felfagyásokra az árnyékos szakaszokon.",
+              "Meleg ital termoszban kifejezetten ajánlott.",
+              "Fejezzük be a túrát sötétedés előtt, 16:15-ig."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, mai ales pentru pod.",
+              "Atenție la gheața din zonele umbrite.",
+              "Băuturile calde într-un termos sunt recomandate.",
+              "Încheiați turul înainte de lăsarea serii, la 16:15."
+            ],
+            "en": [
+              "Wear windproof clothing, especially for the bridge crossing.",
+              "Watch out for black ice in shaded areas.",
+              "Hot drinks in a thermos are highly recommended.",
+              "Finish the tour before sunset at 16:15."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -941,6 +1323,170 @@
           "A GPS is useful for navigating to the hills outside the town.",
           "Combine your trip with lunch in the countryside."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Vladičin Han bequem bei Regen. Vormittags besuchen wir das Zentrum mit dem Denkmal und der Kirche. Mittags fahren wir zur beeindruckenden Vrla-Brücke und entlang der Južna Morava. Nachmittags wagen wir die Fahrt zum Aussichtshügel, wobei wir die mystische Stimmung der nebligen Landschaft genießen, bevor wir den Tag entspannt ausklingen lassen.",
+            "hu": "Autóval kényelmesen fedezzük fel a várost esőben is. Délelőtt a központ emlékműveit és a templomot látogatjuk meg. Délben a lenyűgöző Vrla-hídhoz és a Južna Morava partjához autózunk. Délután felkapaszkodunk a kilátóponthoz, élvezve a ködös táj misztikus hangulatát, majd pihenéssel zárjuk a napot.",
+            "ro": "Cu mașina explorăm orașul confortabil chiar și pe ploaie. Dimineața vizităm centrul cu monumentul și biserica. La prânz conducem spre podul Vrla și de-a lungul Moravei de Sud. După-amiaza urcăm spre dealul cu vedere panoramică, admirând atmosfera mistică a peisajului cețos, înainte de a încheia ziua relaxați.",
+            "en": "By car, we explore Vladičin Han comfortably even in the rain. In the morning, we visit the center with the monument and church. At noon, we drive to the impressive Vrla Bridge and along the Južna Morava. Afternoon takes us to the panoramic hill, where we enjoy the misty atmosphere of the landscape before a relaxing evening."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Monument & Church",
+              "tip_5lang": {
+                "de": "Parkplätze sind direkt im Zentrum vorhanden.",
+                "hu": "Parkolóhelyek közvetlenül a központban elérhetőek.",
+                "ro": "Locuri de parcare sunt disponibile direct în centru.",
+                "en": "Parking spaces are available directly in the center."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz zum Eingang halten Sie trocken.",
+                "hu": "A rövid út a parkolótól a bejáratig szárazon tart.",
+                "ro": "Distanța scurtă de la parcare la intrare vă menține uscat.",
+                "en": "Short walk from the parking lot to the entrance keeps you dry."
+              }
+            },
+            {
+              "name": "Riverbank Cluster: Vrla Bridge",
+              "tip_5lang": {
+                "de": "Die Brücke ist im Regen ein tolles Fotomotiv aus dem Auto.",
+                "hu": "A híd esőben az autóból is remek fotótéma.",
+                "ro": "Podul este un subiect foto excelent din mașină pe ploaie.",
+                "en": "The bridge is a great photo subject from the car in the rain."
+              }
+            },
+            {
+              "name": "Južna Morava Riverbank",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Fluss geschützt vor dem Regen.",
+                "hu": "Élvezzük a folyóra nyíló kilátást az esőtől védve.",
+                "ro": "Bucurați-vă de vederea spre râu la adăpost de ploaie.",
+                "en": "Enjoy the river views while staying protected from the rain."
+              }
+            },
+            {
+              "name": "Excursion: Panoramic View Hill",
+              "tip_5lang": {
+                "de": "Achten Sie bei Regen auf die Sichtverhältnisse auf dem Hügel.",
+                "hu": "Esőben figyeljünk a látási viszonyokra a dombon.",
+                "ro": "Atenție la vizibilitate pe deal în condiții de ploaie.",
+                "en": "Check visibility conditions on the hill during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Scheibenheizung gegen Beschlagen bei hoher Feuchtigkeit.",
+              "Die Straßen zum Aussichtshügel können bei Regen rutschig sein.",
+              "Zentrale Parkplätze ermöglichen schnelles Ein- und Aussteigen.",
+              "Genießen Sie Panorama-Ausblicke direkt aus dem Fahrzeug."
+            ],
+            "hu": [
+              "Használjuk a szélvédőfűtést a párásodás ellen.",
+              "A kilátóhoz vezető utak esőben csúszósak lehetnek.",
+              "A központi parkolók gyors kiszállást tesznek lehetővé.",
+              "Élvezzük a panorámát közvetlenül az autóból."
+            ],
+            "ro": [
+              "Folosiți dezaburirea parbrizului în condiții de umiditate mare.",
+              "Drumurile spre deal pot fi alunecoase pe ploaie.",
+              "Parcările centrale permit urcarea și coborârea rapidă.",
+              "Bucurați-vă de vederile panoramice direct din vehicul."
+            ],
+            "en": [
+              "Use the defroster to prevent window fogging in high humidity.",
+              "Roads to the panoramic hill can be slippery during rain.",
+              "Central parking spots allow for quick stops between sights.",
+              "Enjoy panoramic views directly from the vehicle interior."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Unsere winterliche Autofahrt durch Vladičin Han beginnt am verschneiten Denkmal. Mittags besuchen wir die St.-Nikolaus-Kirche und fahren dann zur Vrla-Brücke, deren Architektur im Winterlicht besonders hervorsticht. Nachmittags geht es zum Aussichtshügel, von wo aus wir einen weiten Blick über das winterliche Tal der Morava haben. Den Tag beenden wir, während es draußen früh dunkel und frostig wird.",
+            "hu": "Téli autóutunk a havas emlékműnél kezdődik. Délben meglátogatjuk a templomot, majd a Vrla-hídhoz hajtunk, melynek szerkezete különleges a téli fényekben. Délután a kilátóponthoz megyünk, ahonnan tiszta időben belátni a Morava jeges völgyét. A napot akkor fejezzük be, amikor odakint korán sötétedni és fagyni kezd.",
+            "ro": "Călătoria noastră cu mașina iarna începe la monumentul nins. La prânz vizităm biserica și conducem spre podul Vrla, a cărui arhitectură iese în evidență în lumina rece. După-amiaza urcăm la punctul de observație pentru o vedere panoramică asupra văii înghețate a Moravei. Încheiem ziua când afară se întunecă devreme și se lasă gerul.",
+            "en": "Our winter drive through Vladičin Han starts at the snow-covered monument. At noon, we visit St. Nicholas Church and drive to the Vrla Bridge, highlighting its architecture in the winter light. Afternoon takes us to the panoramic hill for a wide view over the wintry Morava valley. We end the day as it gets dark and frosty outside early in the evening."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Monument & Church",
+              "tip_5lang": {
+                "de": "Parkplätze im Zentrum werden meist geräumt.",
+                "hu": "A központi parkolókat általában letakarítják.",
+                "ro": "Parcările din centru sunt de obicei curățate.",
+                "en": "Central parking spots are usually cleared of snow."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisglätte auf den Stufen zur Kirche.",
+                "hu": "Vigyázzunk a jeges lépcsőkre a templomnál.",
+                "ro": "Atenție la scările înghețate de la biserică.",
+                "en": "Watch out for icy patches on the church steps."
+              }
+            },
+            {
+              "name": "Riverbank Cluster: Vrla Bridge",
+              "tip_5lang": {
+                "de": "Die Brücke ist nachts im Winter hell erleuchtet.",
+                "hu": "A híd téli éjszakákon is fényesen ki van világítva.",
+                "ro": "Podul este luminat puternic în nopțile de iarnă.",
+                "en": "The bridge is brightly lit during winter nights."
+              }
+            },
+            {
+              "name": "Južna Morava Riverbank",
+              "tip_5lang": {
+                "de": "Beobachten Sie die Eisschollen auf dem Fluss vom Auto aus.",
+                "hu": "Figyeljük meg a jégtáblákat a folyón az autóból.",
+                "ro": "Observați sloiurile de gheață de pe râu din mașină.",
+                "en": "Observe ice floes on the river from the comfort of your car."
+              }
+            },
+            {
+              "name": "Excursion: Panoramic View Hill",
+              "tip_5lang": {
+                "de": "Winterreifen sind für die Auffahrt zum Hügel zwingend.",
+                "hu": "Téli gumi kötelező a dombra való feljutáshoz.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pentru urcarea pe deal.",
+                "en": "Winter tires are mandatory for the drive up the hill."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Die Auffahrt zum Aussichtshügel kann bei Schnee gesperrt sein.",
+              "Achten Sie auf Brückenglätte bei Temperaturen um den Gefrierpunkt.",
+              "Nutzen Sie das Tageslicht bis maximal 16:00 Uhr."
+            ],
+            "hu": [
+              "Legyen nálunk jégkaparó és fagyálló folyadék.",
+              "Hóesésben a kilátóhoz vezető utat lezárhatják.",
+              "Figyeljünk a hidakon kialakuló fagyra nulla fok körül.",
+              "Használjuk ki a nappali fényt maximum 16:00-ig."
+            ],
+            "ro": [
+              "Aveți la îndemână o racletă și lichid de parbriz de iarnă.",
+              "Drumul spre deal poate fi închis în caz de ninsoare abundentă.",
+              "Atenție la poleiul de pe poduri la temperaturi scăzute.",
+              "Profitați de lumina zilei până la maximum ora 16:00."
+            ],
+            "en": [
+              "Carry an ice scraper and winter windshield fluid.",
+              "The drive to the panoramic hill might be closed during heavy snow.",
+              "Watch out for ice on the bridge at temperatures around freezing.",
+              "Maximize the use of daylight until 16:00."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1233,6 +1779,170 @@
           "Check the bus schedule in advance, especially for the last ride.",
           "Have small change ready for tickets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem öffentlichen Nahverkehr erkunden wir Vladičin Han auch bei Regen effizient. Vormittags besuchen wir das Denkmal und die Kirche im Zentrum. Mittags fahren wir zum Heldenpark, wo wir trotz Regen kurz verweilen. Nachmittags bietet das Kulturzentrum einen trockenen Zufluchtsort, bevor wir zur beeindruckenden Vrla-Brücke weiterreisen, um den Tag am Fluss zu beenden.",
+            "hu": "Tömegközlekedéssel esőben is hatékonyan fedezhetjük fel a várost. Délelőtt a központ emlékművét és a templomot nézzük meg. Délben a Hősök parkjához utazunk, ahol az eső ellenére teszünk egy rövid kört. Délután a Kulturális Központ kínál száraz menedéket, mielőtt a Vrla-hídhoz utaznánk, hogy a napot a folyónál zárjuk.",
+            "ro": "Explorăm orașul eficient cu transportul public chiar și pe ploaie. Dimineața vizităm monumentul și biserica din centru. La prânz mergem la Parcul Eroilor pentru o scurtă oprire. După-amiaza Centrul Cultural ne oferă un refugiu uscat, înainte de a continua spre podul Vrla pentru a încheia ziua lângă râu.",
+            "en": "By public transport, we explore Vladičin Han efficiently even in the rain. In the morning, we visit the monument and church in the center. At noon, we travel to the Park of Heroes for a brief rainy visit. Afternoon finds us sheltered in the Cultural Center before heading to the impressive Vrla Bridge to end our day by the river."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Monument",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen im Zentrum sind meist überdacht.",
+                "hu": "A központi buszmegállók többnyire fedettek.",
+                "ro": "Stațiile de autobuz din centru sunt de obicei acoperite.",
+                "en": "Most bus stops in the center are covered."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle zur Kirche.",
+                "hu": "Rövid séta a megállótól a templomig.",
+                "ro": "Scurtă plimbare de la stație până la biserică.",
+                "en": "Only a short walk from the stop to the church."
+              }
+            },
+            {
+              "name": "Park Cluster: Park of Heroes",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehäuschen bei plötzlichen Schauern.",
+                "hu": "Használjuk a buszvárókat hirtelen zápor esetén.",
+                "ro": "Folosiți adăposturile din stații în caz de averse.",
+                "en": "Use the station shelters during sudden downpours."
+              }
+            },
+            {
+              "name": "Cultural Center Vladičin Han",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um auf den nächsten Bus im Trockenen zu warten.",
+                "hu": "Tökéletes hely a következő buszra való várakozáshoz.",
+                "ro": "Locul perfect pentru a aștepta următorul autobuz la uscat.",
+                "en": "A perfect spot to wait for the next bus while staying dry."
+              }
+            },
+            {
+              "name": "River Cluster: Vrla Bridge",
+              "tip_5lang": {
+                "de": "Blick auf die beleuchtete Brücke aus dem Busfenster.",
+                "hu": "Kilátás a kivilágított hídra a busz ablakából.",
+                "ro": "Vedere spre podul iluminat de pe geamul autobuzului.",
+                "en": "Enjoy the view of the lit bridge from the bus window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan, um Wartezeiten im Regen zu minimieren.",
+              "Halten Sie Kleingeld für das Ticket bereit.",
+              "Die Haltestellen in Flussnähe können zugig sein.",
+              "Das Kulturzentrum ist ein guter Wartepunkt im Trockenen."
+            ],
+            "hu": [
+              "Ellenőrizzük a menetrendet, hogy ne kelljen sokat várni az esőben.",
+              "Készítsünk elő aprópénzt a jegyhez.",
+              "A folyóparti megállók huzatosak lehetnek.",
+              "A Kulturális Központ jó pont a száraz várakozáshoz."
+            ],
+            "ro": [
+              "Verificați orarul pentru a minimiza așteptarea în ploaie.",
+              "Aveți pregătit mărunțiș pentru bilet.",
+              "Stațiile de lângă râu pot fi expuse vântului.",
+              "Centrul Cultural este un punct bun de așteptare la uscat."
+            ],
+            "en": [
+              "Check the schedule to minimize waiting time in the rain.",
+              "Have small change ready for the bus fare.",
+              "Stops near the river can be quite breezy.",
+              "The Cultural Center is a great place to wait for your next connection."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreise mit dem Transit durch Vladičin Han. Vormittags besuchen wir das Denkmal und die wärmende St.-Nikolaus-Kirche. Mittags führt uns der Weg zum verschneiten Heldenpark. Nachmittags wärmen wir uns im Kulturzentrum auf, bevor wir die Vrla-Brücke im winterlichen Abendlicht besichtigen. Wir beenden die Tour frühzeitig, bevor die Kälte der Winternacht einsetzt.",
+            "hu": "Téli utazás tömegközlekedéssel. Délelőtt az emlékművet és a melengető templomot látogatjuk meg. Délben a havas Hősök parkjához megyünk. Délután a Kulturális Központban melegedünk fel, majd a Vrla-hidat nézzük meg a téli alkonyatban. A túrát korán befejezzük, mielőtt a téli éjszaka hidege beköszöntene.",
+            "ro": "Călătorie de iarnă cu transportul public. Dimineața vizităm monumentul și biserica primitoare. La prânz mergem la Parcul Eroilor înzăpezit. După-amiaza ne încălzim la Centrul Cultural înainte de a vedea podul Vrla în lumina serii de iarnă. Încheiem turul devreme, înainte de gerul nopții.",
+            "en": "Winter transit journey through Vladičin Han. Morning starts at the monument and the warming St. Nicholas Church. Noon takes us to the snowy Park of Heroes. Afternoon is spent warming up in the Cultural Center before visiting the Vrla Bridge in the winter twilight. We conclude the tour early before the deep winter night chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Monument",
+              "tip_5lang": {
+                "de": "Im Winter sind Busse oft die wärmere Alternative.",
+                "hu": "Télen a busz gyakran melegebb alternatíva a sétánál.",
+                "ro": "Iarna, autobuzul este adesea o alternativă mai călduroasă.",
+                "en": "In winter, buses are often a warmer alternative to walking."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt, um den Busanschluss nicht zu verpassen.",
+                "hu": "Rövid látogatás, hogy ne késsük le a buszcsatlakozást.",
+                "ro": "Vizită scurtă pentru a nu rata legătura de autobuz.",
+                "en": "Keep your visit brief to not miss your bus connection."
+              }
+            },
+            {
+              "name": "Park Cluster: Park of Heroes",
+              "tip_5lang": {
+                "de": "Die Wege können bei Frost rutschig sein.",
+                "hu": "A gyalogutak fagy idején csúszósak lehetnek.",
+                "ro": "Aleile pot fi alunecoase în caz de îngheț.",
+                "en": "The paths can be slippery during frost."
+              }
+            },
+            {
+              "name": "Cultural Center Vladičin Han",
+              "tip_5lang": {
+                "de": "Nutzen Sie die geheizten Räume zur Pause.",
+                "hu": "Használjuk ki a fűtött tereket a pihenéshez.",
+                "ro": "Folosiți spațiile încălzite pentru pauză.",
+                "en": "Take advantage of the heated rooms for a break."
+              }
+            },
+            {
+              "name": "River Cluster: Vrla Bridge",
+              "tip_5lang": {
+                "de": "Haltestellen in Brückennähe sind im Winter sehr zugig.",
+                "hu": "A híd környéki megállók télen nagyon huzatosak.",
+                "ro": "Stațiile de lângă pod sunt foarte expuse vântului iarna.",
+                "en": "Stops near the bridge are very breezy in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter manchmal unregelmäßiger.",
+              "Die Wartezeiten im Freien sollten kurz gehalten werden.",
+              "Das Kulturzentrum ist der ideale Ort zum Aufwärmen.",
+              "Beenden Sie die Tour bis 16:00 Uhr wegen der Dunkelheit."
+            ],
+            "hu": [
+              "A buszok télen néha rendszertelenebbül járhatnak.",
+              "A szabadban való várakozást tartsuk minimálisan.",
+              "A Kulturális Központ ideális hely a felmelegedésre.",
+              "A sötétség miatt fejezzük be a túrát 16:00-ig."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri pe timp de iarnă.",
+              "Minimizați timpul de așteptare în aer liber.",
+              "Centrul Cultural este locul ideal pentru încălzire.",
+              "Încheiați turul până la ora 16:00 din cauza întunericului."
+            ],
+            "en": [
+              "Buses may run less regularly during heavy winter weather.",
+              "Keep outdoor waiting times to a minimum.",
+              "The Cultural Center is the ideal place to warm up.",
+              "Finish your tour by 16:00 due to early sunset."
+            ]
+          }
+        }
       }
     }
   }

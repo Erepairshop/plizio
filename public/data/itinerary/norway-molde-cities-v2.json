@@ -322,6 +322,188 @@
           "A rain jacket is always a good idea, even on sunny days.",
           "Most cafes offer free Wi-Fi."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Plassen Kulturzentrum Schutz vor dem norwegischen Nieselregen. Mittags erkunden wir die Kathedrale und das Aker Stadion an der windigen Küste. Nachmittags ist das Romsdal Museum ideal, um der Nässe des Reknesparken zu entfliehen. Abends beenden wir den Tag an der geschichtsträchtigen Königlichen Birke, bevor es zurück ins Warme geht.",
+            "hu": "Reggel a Plassen kulturális központ modern épülete nyújt menedéket az eső elől. Délben a katedrális és az Aker Stadion környéke szeles, de a látvány a tengerre így is lenyűgöző. Délután a Romsdal Múzeum belső terei ideálisak, miközben a Reknesparken fái alatt sétálunk. Az estét a történelmi Királynyírnél zárjuk.",
+            "ro": "Dimineața, Centrul Cultural Plassen oferă protecție împotriva burniței. La prânz, explorăm Catedrala și Stadionul Aker pe coasta vântoasă. După-amiaza, Muzeul Romsdal este ideal pentru a scăpa de umezeala din Reknesparken. Seara se încheie la Mesteacănul Regal, un simbol istoric, înainte de a căuta un loc călduros.",
+            "en": "Morning starts at Plassen, a modern cultural beacon providing shelter from the rain. Midday takes us to the Cathedral and Aker Stadion along the misty coastline. Afternoon is best spent inside Romsdal Museum after a damp stroll through Reknesparken. The evening concludes at the Royal Birch, a historic site that remains evocative even under gray skies."
+          },
+          "stops": [
+            {
+              "name": "Plassen Cultural Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Café im Innenraum, um den Regen abzuwarten.",
+                "hu": "Használja a belső kávézót, amíg eláll az eső.",
+                "ro": "Folosiți cafeneaua din interior pentru a aștepta oprirea ploii.",
+                "en": "Use the indoor cafe to wait out the passing showers."
+              }
+            },
+            {
+              "name": "Molde Cathedral",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort mit beeindruckender Akustik.",
+                "hu": "Csendes, száraz hely, lenyűgöző akusztikával.",
+                "ro": "Un loc liniștit și uscat, cu o acustică impresionantă.",
+                "en": "A quiet, dry sanctuary with impressive acoustics."
+              }
+            },
+            {
+              "name": "Aker Stadion",
+              "tip_5lang": {
+                "de": "Vorsicht bei starkem Wind direkt am Wasser.",
+                "hu": "Vigyázat az erős széllel közvetlenül a vízparton.",
+                "ro": "Atenție la vântul puternic direct pe malul apei.",
+                "en": "Be careful with strong winds directly on the waterfront."
+              }
+            },
+            {
+              "name": "Reknesparken",
+              "tip_5lang": {
+                "de": "Die Wege können bei Nässe rutschig sein.",
+                "hu": "Az utak nedvesen csúszósak lehetnek.",
+                "ro": "Potecile pot fi alunecoase când sunt ude.",
+                "en": "The paths can be slippery when wet."
+              }
+            },
+            {
+              "name": "Romsdal Museum",
+              "tip_5lang": {
+                "de": "Die Ausstellungen im Hauptgebäude sind komplett wetterfest.",
+                "hu": "A főépület kiállításai teljesen időjárásállóak.",
+                "ro": "Expozițiile din clădirea principală sunt ferite de intemperii.",
+                "en": "Exhibitions in the main building are fully weatherproof."
+              }
+            },
+            {
+              "name": "Kongebjørka (The Royal Birch)",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter den Bäumen für ein schnelles Foto.",
+                "hu": "Rövid megálló a fák alatt egy gyors fotóhoz.",
+                "ro": "O oprire scurtă sub copaci pentru o fotografie rapidă.",
+                "en": "A short stop under the trees for a quick photo."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bringen Sie eine hochwertige Regenjacke mit; Regenschirme sind bei Küstenwind oft nutzlos.",
+              "Nutzen Sie das Plassen-Zentrum als strategischen Pausenort.",
+              "Die Wege zwischen den Museen sind asphaltiert, aber Pfützen bilden sich schnell.",
+              "Planen Sie mehr Zeit für die Indoor-Exponate im Romsdal Museum ein."
+            ],
+            "hu": [
+              "Vigyél minőségi esőkabátot; az esernyő a parti szélben használhatatlan.",
+              "Használd a Plassen központot stratégiai pihenőhelyként.",
+              "A múzeumok közötti utak aszfaltozottak, de a tócsák gyorsan kialakulnak.",
+              "Tervezz több időt a Romsdal Múzeum beltéri kiállításaira."
+            ],
+            "ro": [
+              "Aduceți o jachetă de ploaie de calitate; umbrelele sunt inutile în vântul de coastă.",
+              "Folosiți centrul Plassen ca punct strategic de odihnă.",
+              "Drumurile dintre muzee sunt asfaltate, dar bălțile se formează rapid.",
+              "Alocați mai mult timp pentru expozițiile interioare de la Muzeul Romsdal."
+            ],
+            "en": [
+              "Bring high-quality rain gear; umbrellas are often useless in coastal winds.",
+              "Use the Plassen centre as a strategic rest stop.",
+              "Paths between museums are paved, but puddles form quickly.",
+              "Allocate more time for the indoor exhibits at Romsdal Museum."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Molde beginnt ruhig im Plassen Zentrum. Mittags bietet die Kathedrale besinnliche Wärme, während das Aker Stadion im Frost glitzert. Nachmittags erleben wir das Romsdal Museum in einer märchenhaften Schneekulisse. Da die Sonne gegen 15:30 Uhr untergeht, erreichen wir die Königliche Birke in der blauen Stunde.",
+            "hu": "A téli reggel Molde városában csendesen indul a Plassen központban. Délben a katedrális békés melege fogad, míg az Aker Stadion csillog a fagyban. Délután a Romsdal Múzeumot mesebeli hótakaró alatt láthatjuk. Mivel a nap 15:30 körül nyugszik, a Királynyírt már a kék órában érjük el.",
+            "ro": "Dimineața de iarnă în Molde începe liniștit la centrul Plassen. La prânz, catedrala oferă căldură, în timp ce Stadionul Aker strălucește în îngheț. După-amiaza, vedem Muzeul Romsdal sub o pătură de zăpadă ca în povești. Deoarece soarele apune în jur de 15:30, ajungem la Mesteacănul Regal în ora albastră.",
+            "en": "A winter morning in Molde starts quietly at the Plassen center. Midday offers the peaceful warmth of the Cathedral, while Aker Stadion glitters in the frost. In the afternoon, we see Romsdal Museum under a fairytale blanket of snow. As the sun sets around 15:30, we reach the Royal Birch during the blue hour."
+          },
+          "stops": [
+            {
+              "name": "Plassen Cultural Centre",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verschneiten Gipfel durch die Glasfassade.",
+                "hu": "Élvezze a kilátást a havas csúcsokra az üvegfalon keresztül.",
+                "ro": "Bucurați-vă de priveliștea vârfurilor înzăpezite prin fațada de sticlă.",
+                "en": "Enjoy the view of the snowy peaks through the glass facade."
+              }
+            },
+            {
+              "name": "Molde Cathedral",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Zeiten für adventliche Orgelkonzerte.",
+                "hu": "Ellenőrizze az adventi orgonakoncertek időpontját.",
+                "ro": "Verificați orele pentru concertele de orgă de Advent.",
+                "en": "Check the times for Advent organ concerts."
+              }
+            },
+            {
+              "name": "Aker Stadion",
+              "tip_5lang": {
+                "de": "Der Kunstrasen ist oft beheizt und schneefrei.",
+                "hu": "A műfű gyakran fűtött és hómentes.",
+                "ro": "Gazonul artificial este adesea încălzit și fără zăpadă.",
+                "en": "The artificial turf is often heated and snow-free."
+              }
+            },
+            {
+              "name": "Reknesparken",
+              "tip_5lang": {
+                "de": "Tragen Sie griffige Schuhe für die verschneiten Parkwege.",
+                "hu": "Viseljen tapadós talpú cipőt a havas parki utakon.",
+                "ro": "Purtați încălțăminte antiderapantă pentru aleile înzăpezite.",
+                "en": "Wear high-grip shoes for the snowy park paths."
+              }
+            },
+            {
+              "name": "Romsdal Museum",
+              "tip_5lang": {
+                "de": "Die alten Holzhäuser im Schnee sind ein perfektes Fotomotiv.",
+                "hu": "A régi faházak a hóban tökéletes fotótémát szolgáltatnak.",
+                "ro": "Casele vechi din lemn în zăpadă sunt un subiect foto perfect.",
+                "en": "The old wooden houses in the snow are a perfect photo subject."
+              }
+            },
+            {
+              "name": "Kongebjørka (The Royal Birch)",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille in der frühen Winterdämmerung.",
+                "hu": "A csend helyszíne a korai téli szürkületben.",
+                "ro": "Un loc al liniștii în amurgul timpuriu de iarnă.",
+                "en": "A place of silence in the early winter twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits vor 16 Uhr unter.",
+              "Wollunterwäsche (Base Layer) ist für längere Spaziergänge obligatorisch.",
+              "Einige Wege im Reknesparken werden nicht gestreut; Vorsicht vor Glatteis.",
+              "Wärmen Sie sich regelmäßig in den Cafés der Innenstadt auf."
+            ],
+            "hu": [
+              "A nap decemberben már délután 4 óra előtt lemegy.",
+              "A gyapjú aláöltözet kötelező a hosszabb sétákhoz.",
+              "A Reknesparken néhány útját nem szórják fel; vigyázat a jéggel.",
+              "Melegedjen fel rendszeresen a belvárosi kávézókban."
+            ],
+            "ro": [
+              "Soarele apune deja înainte de ora 16 în decembrie.",
+              "Lenjeria termică de lână este obligatorie pentru plimbări lungi.",
+              "Unele alei din Reknesparken nu sunt deszăpezite; atenție la gheață.",
+              "Încălziți-vă regulat în cafenelele din centrul orașului."
+            ],
+            "en": [
+              "The sun sets before 4 PM in December.",
+              "Woolen base layers are mandatory for longer walks.",
+              "Some paths in Reknesparken are not gritted; watch out for black ice.",
+              "Warm up regularly in city center cafes."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -638,6 +820,188 @@
           "A helmet is highly recommended, especially for the climb to Varden.",
           "Bring water and snacks as the climbs can be strenuous."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt am Aker Stadion, wo der Asphalt bei Nässe glänzt. Vorbei an der Kathedrale geht es zum Romsdal Museum, das Schutz vor Schauern bietet. Der Aufstieg zum Varden ist bei Regen anstrengend, belohnt aber mit mystischen Wolkenspielen. Den Tag beschließen wir trocken im Plassen Kulturzentrum.",
+            "hu": "A biciklitúra az Aker Stadionnál indul, ahol az aszfalt csillog az esőben. A katedrális mellett elhaladva a Romsdal Múzeumhoz tekerünk, amely menedéket nyújt. A Varden kilátóhoz való feljutás esőben fárasztó, de misztikus felhőjátékkal jutalmaz. A napot a Plassen központban zárjuk.",
+            "ro": "Turul cu bicicleta începe la Stadionul Aker, unde asfaltul strălucește în ploaie. Trecând pe lângă catedrală, pedalăm spre Muzeul Romsdal, care oferă adăpost. Urcarea spre Varden este obositoare pe ploaie, dar recompensează cu jocuri mistice de nori. Încheiem ziua la centrul Plassen.",
+            "en": "The bike tour starts at Aker Stadion, where the asphalt glistens in the rain. Passing the Cathedral, we cycle to Romsdal Museum for shelter. The climb to Varden is strenuous in the rain but rewards with mystical cloud formations. We finish the day dry inside the Plassen Cultural Centre."
+          },
+          "stops": [
+            {
+              "name": "Aker Stadion",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Markierungen auf der Straße.",
+                "hu": "Vigyázat a csúszós útburkolati jelekkel.",
+                "ro": "Atenție la marcajele rutiere alunecoase.",
+                "en": "Beware of slippery road markings."
+              }
+            },
+            {
+              "name": "Molde Cathedral",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradabstellplatz in der Nähe vorhanden.",
+                "hu": "Biztonságos kerékpártároló található a közelben.",
+                "ro": "Parcare sigură pentru biciclete disponibilă în apropiere.",
+                "en": "Secure bike parking available nearby."
+              }
+            },
+            {
+              "name": "Romsdal Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach ab.",
+                "hu": "Hagyja a biciklit az előtető alatt.",
+                "ro": "Lăsați bicicleta sub copertina de la intrare.",
+                "en": "Park your bike under the entrance canopy."
+              }
+            },
+            {
+              "name": "Varden - The Molde Viewpoint",
+              "tip_5lang": {
+                "de": "Die Abfahrt erfordert bei Nässe volle Konzentration.",
+                "hu": "A leereszkedés esőben teljes koncentrációt igényel.",
+                "ro": "Coborârea necesită concentrare maximă pe carosabil ud.",
+                "en": "The descent requires full concentration on wet roads."
+              }
+            },
+            {
+              "name": "Kongebjørka (The Royal Birch)",
+              "tip_5lang": {
+                "de": "Vorsicht vor nassem Laub auf dem Boden.",
+                "hu": "Vigyázat a nedves levelekkel a talajon.",
+                "ro": "Atenție la frunzele ude de pe sol.",
+                "en": "Watch out for wet leaves on the ground."
+              }
+            },
+            {
+              "name": "Plassen Cultural Centre",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Kleidung zu trocknen.",
+                "hu": "Ideális hely a ruházat megszárítására.",
+                "ro": "Loc ideal pentru a vă usca hainele.",
+                "en": "Ideal place to dry off your gear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Handschuhe; kalte Hände bremsen schlecht.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Die Straße zum Varden kann bei starkem Regen kleine Sturzbäche führen.",
+              "Nutzen Sie Scheibenbremsen, wenn möglich, für bessere Leistung bei Nässe."
+            ],
+            "hu": [
+              "Viselj vízálló kesztyűt; a hideg kezekkel nehéz fékezni.",
+              "A sárvédő elengedhetetlen ilyen időjárásban.",
+              "A Vardenre vezető úton erős esőben kis patakok alakulhatnak ki.",
+              "Használj tárcsaféket, ha lehetséges, a jobb nedves teljesítményért."
+            ],
+            "ro": [
+              "Purtați mănuși impermeabile; mâinile reci frânează greu.",
+              "Apărătorile de noroi sunt indispensabile pe această vreme.",
+              "Drumul spre Varden poate avea mici șuvoaie în caz de ploaie torențială.",
+              "Folosiți frâne pe disc, dacă este posibil, pentru performanțe mai bune pe ud."
+            ],
+            "en": [
+              "Wear waterproof gloves; cold hands make braking difficult.",
+              "Mudguards are indispensable in this weather.",
+              "The road to Varden can have small streams during heavy rain.",
+              "Use disc brakes if possible for better performance in the wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour in Molde erfordert Spikereifen. Wir starten am Stadion und fahren vorsichtig zur Kathedrale. Das Romsdal Museum wirkt unter Schnee wie aus einer anderen Zeit. Da der Aufstieg zum Varden bei Eis riskant ist, wählen wir den sichersten Weg für das Panorama. Den Abschluss bildet das gemütliche Plassen.",
+            "hu": "A téli biciklitúra Moldéban szöges gumikat igényel. A stadiontól indulunk és óvatosan tekerünk a katedrálishoz. A Romsdal Múzeum a hó alatt egy másik korból származónak tűnik. Mivel a Vardenre való feljutás jégen kockázatos, a legbiztonságosabb utat választjuk. A napot a hangulatos Plassenben zárjuk.",
+            "ro": "Un tur cu bicicleta pe timp de iarnă în Molde necesită anvelope cu ținte. Pornim de la stadion și pedalăm cu atenție spre catedrală. Muzeul Romsdal pare din alt timp sub zăpadă. Deoarece urcarea spre Varden este riscantă pe gheață, alegem drumul cel mai sigur. Încheiem la centrul primitor Plassen.",
+            "en": "A winter bike tour in Molde requires studded tires. We start at the stadium and cycle carefully to the Cathedral. Romsdal Museum looks like it's from another era under the snow. As the climb to Varden is risky on ice, we choose the safest route for the panorama. We finish at the cozy Plassen."
+          },
+          "stops": [
+            {
+              "name": "Aker Stadion",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrierender Nässe auf dem Parkplatz.",
+                "hu": "Vigyázat a fagyott nedvességgel a parkolóban.",
+                "ro": "Atenție la umezeala înghețată din parcare.",
+                "en": "Beware of freezing moisture in the parking lot."
+              }
+            },
+            {
+              "name": "Molde Cathedral",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass das Fahrradschloss nicht einfriert.",
+                "hu": "Győződjön meg róla, hogy a kerékpárzár nem fagy be.",
+                "ro": "Asigurați-vă că antifurtul bicicletei nu îngheață.",
+                "en": "Make sure your bike lock doesn't freeze."
+              }
+            },
+            {
+              "name": "Romsdal Museum",
+              "tip_5lang": {
+                "de": "Fahren Sie nur auf geräumten Wegen innerhalb des Geländes.",
+                "hu": "Csak a letakarított utakon közlekedjen a területen belül.",
+                "ro": "Circulați doar pe aleile curățate din cadrul complexului.",
+                "en": "Ride only on cleared paths within the grounds."
+              }
+            },
+            {
+              "name": "Varden - The Molde Viewpoint",
+              "tip_5lang": {
+                "de": "Nur mit Spikereifen bei Vereisung zu empfehlen.",
+                "hu": "Jegesedés esetén csak szöges gumival ajánlott.",
+                "ro": "Recomandat doar cu anvelope cu ținte în caz de îngheț.",
+                "en": "Recommended only with studded tires if icy."
+              }
+            },
+            {
+              "name": "Kongebjørka (The Royal Birch)",
+              "tip_5lang": {
+                "de": "Der Boden kann unter der Schneedecke spiegelglatt sein.",
+                "hu": "A talaj a hóréteg alatt tükörsima lehet.",
+                "ro": "Solul poate fi extrem de alunecos sub stratul de zăpadă.",
+                "en": "The ground can be mirror-smooth under the snow cover."
+              }
+            },
+            {
+              "name": "Plassen Cultural Centre",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad in den vorgesehenen Ständern.",
+                "hu": "Parkolja le biciklijét a kijelölt tárolókban.",
+                "ro": "Parcați bicicleta în suporturile prevăzute.",
+                "en": "Park your bike in the designated stands."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen (Piggdekk) sind bei Eis in Molde überlebenswichtig.",
+              "Akkus von E-Bikes entladen sich bei Kälte deutlich schneller.",
+              "Tragen Sie helle Kleidung oder eine Warnweste; es bleibt lange dunkel.",
+              "Prüfen Sie vorab, ob die Straße zum Varden für Fahrzeuge geräumt ist."
+            ],
+            "hu": [
+              "A szöges gumik (Piggdekk) jégen életmentőek Moldéban.",
+              "Az elektromos kerékpárok akkumulátora hidegben sokkal gyorsabban merül.",
+              "Viselj világos ruhát vagy láthatósági mellényt; sokáig sötét van.",
+              "Ellenőrizd előre, hogy a Vardenre vezető utat letakarították-e."
+            ],
+            "ro": [
+              "Anvelopele cu ținte (Piggdekk) sunt vitale pe gheață în Molde.",
+              "Bateriile bicicletelor electrice se descarcă mult mai repede la frig.",
+              "Purtați haine deschise sau vestă reflectorizantă; este întuneric mult timp.",
+              "Verificați din timp dacă drumul spre Varden este deszăpezit."
+            ],
+            "en": [
+              "Studded tires (Piggdekk) are vital on ice in Molde.",
+              "E-bike batteries discharge much faster in the cold.",
+              "Wear bright clothing or a high-visibility vest; it stays dark for long.",
+              "Check in advance if the road to Varden is cleared for vehicles."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1026,6 +1390,242 @@
           "The roads to Varden can be narrow, drive carefully.",
           "Plan your clusters to avoid unnecessary driving."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen wir bequem den Varden-Aussichtspunkt, wo Wolken tief über dem Fjord hängen. Das Romsdal Museum bietet trockene Parkmöglichkeiten und spannende Indoor-Exponate. Nach Stopps am Reknesparken und der Königlichen Birke besichtigen wir das Aker Stadion und die Kathedrale, bevor wir zur Fähre fahren.",
+            "hu": "Autóval kényelmesen elérjük a Varden kilátót, ahol a felhők alacsonyan lógnak a fjord felett. A Romsdal Múzeum száraz parkolást és izgalmas beltéri kiállításokat kínál. A Reknesparken és a Királynyír után meglátogatjuk az Aker Stadiont és a katedrálist, mielőtt a komphoz hajtanánk.",
+            "ro": "Cu mașina ajungem confortabil la punctul de belvedere Varden, unde norii atârnă jos peste fjord. Muzeul Romsdal oferă parcare și expoziții interioare captivante. După opriri la Reknesparken și Mesteacănul Regal, vizităm Stadionul Aker și Catedrala înainte de a merge spre feribot.",
+            "en": "By car, we easily reach the Varden viewpoint where clouds hang low over the fjord. Romsdal Museum provides dry parking and exciting indoor exhibits. After stops at Reknesparken and the Royal Birch, we visit Aker Stadion and the Cathedral before driving to the ferry."
+          },
+          "stops": [
+            {
+              "name": "Varden - The Molde Viewpoint",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto, wenn der Schauer zu stark ist.",
+                "hu": "Maradjon az autóban, ha a zivatar túl erős.",
+                "ro": "Rămâneți în mașină dacă aversa este prea puternică.",
+                "en": "Stay in the car if the downpour is too heavy."
+              }
+            },
+            {
+              "name": "Romsdal Museum Parking",
+              "tip_5lang": {
+                "de": "Guter Zugang zum Eingang ohne lange Gehwege im Regen.",
+                "hu": "Jó hozzáférés a bejárathoz esőben is.",
+                "ro": "Acces bun la intrare fără drumuri lungi prin ploaie.",
+                "en": "Good access to the entrance without long walks in the rain."
+              }
+            },
+            {
+              "name": "Romsdal Museum",
+              "tip_5lang": {
+                "de": "Das Museumscafé bietet lokale Spezialitäten im Trockenen.",
+                "hu": "A múzeumi kávézó helyi specialitásokat kínál a szárazban.",
+                "ro": "Cafeneaua muzeului oferă specialități locale la adăpost.",
+                "en": "The museum cafe offers local specialties in the dry."
+              }
+            },
+            {
+              "name": "Reknesparken",
+              "tip_5lang": {
+                "de": "Parken Sie am Straßenrand für einen kurzen Blick auf die Rosen.",
+                "hu": "Parkoljon az út szélén egy gyors pillantásra a rózsákra.",
+                "ro": "Parcați pe marginea drumului pentru o privire rapidă la trandafiri.",
+                "en": "Park on the roadside for a quick look at the roses."
+              }
+            },
+            {
+              "name": "Kongebjørka (The Royal Birch)",
+              "tip_5lang": {
+                "de": "Ein kleiner Parkplatz befindet sich direkt gegenüber.",
+                "hu": "Egy kis parkoló található közvetlenül szemben.",
+                "ro": "O mică parcare se află chiar vizavi.",
+                "en": "A small parking area is located directly opposite."
+              }
+            },
+            {
+              "name": "Waterfront Parking",
+              "tip_5lang": {
+                "de": "Idealer Ausgangspunkt für Stadion und Kathedrale.",
+                "hu": "Ideális kiindulópont a stadionhoz és a katedrálishoz.",
+                "ro": "Punct de plecare ideal pentru stadion și catedrală.",
+                "en": "Ideal starting point for the stadium and cathedral."
+              }
+            },
+            {
+              "name": "Aker Stadion",
+              "tip_5lang": {
+                "de": "Überdachte Bereiche rund um das Stadion bieten Schutz.",
+                "hu": "A stadion körüli fedett részek menedéket nyújtanak.",
+                "ro": "Zonele acoperite din jurul stadionului oferă protecție.",
+                "en": "Covered areas around the stadium provide shelter."
+              }
+            },
+            {
+              "name": "Molde Cathedral",
+              "tip_5lang": {
+                "de": "Parkhäuser in der Nähe sind oft trocken zugänglich.",
+                "hu": "A közeli parkolóházakból gyakran szárazon átjuthatunk.",
+                "ro": "Parcările supraetajate din apropiere au adesea acces uscat.",
+                "en": "Nearby parking garages often have dry access."
+              }
+            },
+            {
+              "name": "Hjertøya Ferry Terminal",
+              "tip_5lang": {
+                "de": "Prüfen Sie wetterbedingte Ausfälle der Fähre.",
+                "hu": "Ellenőrizze a komp időjárás miatti járattörléseit.",
+                "ro": "Verificați anulările feribotului din cauza vremii.",
+                "en": "Check for weather-related ferry cancellations."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Scheibenwischer in gutem Zustand sind.",
+              "Die Parkplätze am Museum sind oft schnell belegt; kommen Sie früh.",
+              "Varden kann bei Nebel komplett sichtlos sein; prüfen Sie Webcams.",
+              "Nutzen Sie Park-Apps wie EasyPark, um nicht im Regen am Automaten zu stehen."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy az ablaktörlők jó állapotban vannak.",
+              "A múzeumi parkolók gyorsan megtelnek; érkezzen korán.",
+              "A Varden ködben teljesen láthatatlan lehet; nézze meg a webkamerákat.",
+              "Használjon parkolási alkalmazásokat, hogy ne az esőben álljon az automatánál."
+            ],
+            "ro": [
+              "Asigurați-vă că ștergătoarele de parbriz sunt în stare bună.",
+              "Parcările de la muzeu se ocupă repede; veniți devreme.",
+              "Varden poate fi complet invizibil în caz de ceață; verificați camerele web.",
+              "Folosiți aplicații de parcare pentru a nu sta în ploaie la automat."
+            ],
+            "en": [
+              "Ensure your windshield wipers are in good condition.",
+              "Museum parking lots fill up quickly; arrive early.",
+              "Varden can be completely invisible in fog; check webcams.",
+              "Use parking apps like EasyPark to avoid standing in the rain at the meter."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Unsere winterliche Autofahrt beginnt am Varden, wobei die schneebedeckten Alpen ein Panorama der Extraklasse bieten. Das Romsdal Museum verzaubert mit frostiger Architektur. Über den Reknesparken und die Königliche Birke fahren wir zum Hafenviertel. Den Tag beenden wir an der Kathedrale und dem Fährterminal, während der Frost am Fenster glitzert.",
+            "hu": "Téli autónk Vardenben indul, ahol a hófödte Alpok különleges panorámát kínálnak. A Romsdal Múzeum fagyos építészetével varázsol el. A Reknesparken és a Királynyír érintésével a kikötőnegyedbe hajtunk. A napot a katedrálisnál és a kompkikötőnél zárjuk, miközben a fagy csillog az ablakon.",
+            "ro": "Călătoria noastră de iarnă cu mașina începe la Varden, unde Alpii înzăpeziți oferă o panoramă de clasă mondială. Muzeul Romsdal încântă prin arhitectura sa înghețată. Mergem spre zona portuară via Reknesparken și Mesteacănul Regal. Încheiem ziua la catedrală și terminalul de feribot.",
+            "en": "Our winter car journey begins at Varden, where the snow-covered Alps offer a world-class panorama. Romsdal Museum enchants with its frosty architecture. Driving via Reknesparken and the Royal Birch, we head to the harbor district. We finish the day at the Cathedral and ferry terminal."
+          },
+          "stops": [
+            {
+              "name": "Varden - The Molde Viewpoint",
+              "tip_5lang": {
+                "de": "Allradantrieb oder gute Winterreifen für den Aufstieg nötig.",
+                "hu": "Összkerékhajtás vagy jó téli gumi szükséges a feljutáshoz.",
+                "ro": "Tracțiune integrală sau anvelope de iarnă bune necesare pentru urcare.",
+                "en": "All-wheel drive or good winter tires needed for the climb."
+              }
+            },
+            {
+              "name": "Romsdal Museum Parking",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf glatten Parkflächen.",
+                "hu": "Vigyázat a kiszállásnál a csúszós parkolófelületeken.",
+                "ro": "Atenție la coborâre pe suprafețele de parcare alunecoase.",
+                "en": "Be careful when getting out on slippery parking surfaces."
+              }
+            },
+            {
+              "name": "Romsdal Museum",
+              "tip_5lang": {
+                "de": "Die Außenanlagen sind auch im Winter begehbar.",
+                "hu": "A szabadtéri részek télen is látogathatóak.",
+                "ro": "Zonele exterioare sunt accesibile și iarna.",
+                "en": "The outdoor areas are accessible even in winter."
+              }
+            },
+            {
+              "name": "Reknesparken",
+              "tip_5lang": {
+                "de": "Eingeschränkte Parkmöglichkeiten bei hohen Schneewehen.",
+                "hu": "Korlátozott parkolási lehetőség magas hótorlaszok esetén.",
+                "ro": "Locuri de parcare limitate în caz de troiene mari de zăpadă.",
+                "en": "Limited parking available during high snowdrifts."
+              }
+            },
+            {
+              "name": "Kongebjørka (The Royal Birch)",
+              "tip_5lang": {
+                "de": "Der Baum ist im Winter oft wunderschön beleuchtet.",
+                "hu": "A fa télen gyakran gyönyörűen meg van világítva.",
+                "ro": "Copacul este adesea iluminat superb iarna.",
+                "en": "The tree is often beautifully illuminated in winter."
+              }
+            },
+            {
+              "name": "Waterfront Parking",
+              "tip_5lang": {
+                "de": "Parken Sie hier für den kurzen Fußweg zum Stadion.",
+                "hu": "Parkoljon itt a stadionhoz vezető rövid sétához.",
+                "ro": "Parcați aici pentru o scurtă plimbare până la stadion.",
+                "en": "Park here for the short walk to the stadium."
+              }
+            },
+            {
+              "name": "Aker Stadion",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Fanshop oder Café auf.",
+                "hu": "Melegedjen fel a szurkolói boltban vagy kávézóban.",
+                "ro": "Încălziți-vă în magazinul pentru fani sau la cafenea.",
+                "en": "Warm up in the fan shop or cafe."
+              }
+            },
+            {
+              "name": "Molde Cathedral",
+              "tip_5lang": {
+                "de": "Die Stufen zum Eingang können vereist sein.",
+                "hu": "A bejárathoz vezető lépcsők jegesek lehetnek.",
+                "ro": "Treptele de la intrare pot fi înghețate.",
+                "en": "The steps to the entrance can be icy."
+              }
+            },
+            {
+              "name": "Hjertøya Ferry Terminal",
+              "tip_5lang": {
+                "de": "Warten Sie im beheizten Warteraum auf die Fähre.",
+                "hu": "Várjon a fűtött váróteremben a kompra.",
+                "ro": "Așteptați feribotul în sala de așteptare încălzită.",
+                "en": "Wait for the ferry in the heated waiting room."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straße zum Varden kann bei extremem Schneefall gesperrt sein.",
+              "Führen Sie immer eine Schneeschaufel und Eiskratzer im Auto mit.",
+              "Dieselautos benötigen bei extremer Kälte Winterdiesel.",
+              "Parken Sie nicht unter Dächern mit hoher Schneelast (Dachlawinengefahr)."
+            ],
+            "hu": [
+              "Extrém havazás esetén a Vardenre vezető utat lezárhatják.",
+              "Mindig tarts hólapátot és jégkaparót az autóban.",
+              "A dízelautókhoz extrém hidegben téli gázolaj szükséges.",
+              "Ne parkolj nagy hóteherrel rendelkező tetők alá (tetőlavina veszély)."
+            ],
+            "ro": [
+              "Drumul spre Varden poate fi închis în caz de ninsori extreme.",
+              "Aveți întotdeauna o lopată de zăpadă și o răzuitoare de gheață în mașină.",
+              "Mașinile diesel au nevoie de motorină de iarnă la frig extrem.",
+              "Nu parcați sub acoperișuri cu strat gros de zăpadă (pericol de avalanșă)."
+            ],
+            "en": [
+              "The road to Varden may be closed during extreme snowfall.",
+              "Always carry a snow shovel and ice scraper in the car.",
+              "Diesel cars require winter diesel in extreme cold.",
+              "Do not park under roofs with heavy snow loads (danger of roof avalanches)."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1366,6 +1966,206 @@
           "Download the local public transport app to see real-time schedules.",
           "Be aware that buses to more rural areas like Varden might be less frequent."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit den effizienten Bussen von Molde umgehen wir den Regen. Wir starten an der Plassen-Haltestelle und fahren zur Kathedrale. Das Aker Stadion und das Romsdal Museum sind leicht erreichbar, wobei wir die trockenen Wartebereiche nutzen. Ein Bus bringt uns zum Varden für die Aussicht, bevor wir gemütlich ins Zentrum zurückkehren.",
+            "hu": "Molde hatékony buszaival kikerüljük az esőt. A Plassen megállónál kezdünk, majd a katedrálishoz utazunk. Az Aker Stadion és a Romsdal Múzeum könnyen elérhető, miközben kihasználjuk a száraz váróhelyeket. Busz visz fel a Varden kilátóhoz, mielőtt visszatérnénk a központba.",
+            "ro": "Cu autobuzele eficiente din Molde evităm ploaia. Începem la stația Plassen și mergem spre catedrală. Stadionul Aker și Muzeul Romsdal sunt ușor accesibile, folosind zonele de așteptare uscate. Un autobuz ne duce la Varden, înainte de a ne întoarce în centru.",
+            "en": "With Molde's efficient buses, we bypass the rain. We start at the Plassen stop and travel to the Cathedral. Aker Stadion and Romsdal Museum are easily reachable while utilizing dry waiting areas. A bus takes us up to Varden for the view before returning comfortably to the center."
+          },
+          "stops": [
+            {
+              "name": "Plassen (Bus Stop)",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist modern und gut überdacht.",
+                "hu": "A megálló modern és jól fedett.",
+                "ro": "Stația este modernă și bine acoperită.",
+                "en": "The stop is modern and well-covered."
+              }
+            },
+            {
+              "name": "Molde Cathedral",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt, viele Busse halten hier.",
+                "hu": "Központi csomópont, sok busz megáll itt.",
+                "ro": "Nod central, multe autobuze opresc aici.",
+                "en": "Central hub, many buses stop here."
+              }
+            },
+            {
+              "name": "Aker Stadion",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle zum Stadioneingang.",
+                "hu": "Rövid séta a megállótól a stadion bejáratáig.",
+                "ro": "Scurtă plimbare de la stație până la intrarea în stadion.",
+                "en": "Short walk from the stop to the stadium entrance."
+              }
+            },
+            {
+              "name": "Bus to Romsdal Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App 'Fram', um Echtzeitdaten zu prüfen.",
+                "hu": "Használja a 'Fram' alkalmazást a valós idejű adatokhoz.",
+                "ro": "Folosiți aplicația 'Fram' pentru date în timp real.",
+                "en": "Use the 'Fram' app to check real-time data."
+              }
+            },
+            {
+              "name": "Reknesparken",
+              "tip_5lang": {
+                "de": "Haltestellen befinden sich direkt am Parkrand.",
+                "hu": "A megállók közvetlenül a park szélén vannak.",
+                "ro": "Stațiile se află direct la marginea parcului.",
+                "en": "Stops are located directly at the park's edge."
+              }
+            },
+            {
+              "name": "Bus to Varden Viewpoint",
+              "tip_5lang": {
+                "de": "Achten Sie auf den speziellen Fahrplan für den Aussichtspunkt.",
+                "hu": "Figyeljen a kilátóhoz közlekedő busz külön menetrendjére.",
+                "ro": "Atenție la orarul special pentru punctul de belvedere.",
+                "en": "Pay attention to the special schedule for the viewpoint."
+              }
+            },
+            {
+              "name": "Return to City Center",
+              "tip_5lang": {
+                "de": "Warten Sie im Bus, bis Sie direkt im Zentrum sind.",
+                "hu": "Maradjon a buszon, amíg közvetlenül a központba ér.",
+                "ro": "Rămâneți în autobuz până ajungeți direct în centru.",
+                "en": "Stay on the bus until you are right in the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab in der App, um Zeit beim Einsteigen zu sparen.",
+              "Busse sind der beste Weg, um trocken zwischen den Hügeln zu pendeln.",
+              "Die Hauptstation (Rutebilstasjon) bietet einen großen, trockenen Wartebereich.",
+              "An Wochenenden fahren die Busse seltener; planen Sie voraus."
+            ],
+            "hu": [
+              "Vásároljon jegyet előre az alkalmazásban, hogy időt spóroljon a felszállásnál.",
+              "A busz a legjobb módja, hogy szárazon közlekedj a dombok között.",
+              "A központi állomás (Rutebilstasjon) nagy, száraz váróteremmel rendelkezik.",
+              "Hétvégén a buszok ritkábban járnak; tervezz előre."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans prin aplicație pentru a economisi timp.",
+              "Autobuzul este cea mai bună cale de a circula uscat între dealuri.",
+              "Stația principală (Rutebilstasjon) are o zonă de așteptare mare și uscată.",
+              "În weekend, autobuzele circulă mai rar; planificați din timp."
+            ],
+            "en": [
+              "Buy tickets in advance in the app to save time when boarding.",
+              "Buses are the best way to commute dry between the hills.",
+              "The main station (Rutebilstasjon) offers a large, dry waiting area.",
+              "Buses run less frequently on weekends; plan ahead."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter sind die beheizten Busse von Molde ein Segen. Von Plassen aus fahren wir gemütlich durch die verschneite Stadt zur Kathedrale. Das Stadion und das Romsdal Museum erreichen wir ohne Rutschgefahr auf den Straßen. Der Bus zum Varden bietet eine warme Fahrt zum frostigen Panorama, bevor wir ins Stadtzentrum zurückkehren.",
+            "hu": "Télen Molde fűtött buszai igazi áldást jelentenek. Plassenból kényelmesen utazunk a havas városon át a katedrálishoz. A stadiont és a Romsdal Múzeumot az utak csúszóssága nélkül érjük el. A Varden busz meleg utazást kínál a fagyos panorámához, mielőtt visszatérnénk a központba.",
+            "ro": "Iarna, autobuzele încălzite din Molde sunt o binecuvântare. De la Plassen, călătorim confortabil prin orașul înzăpezit spre catedrală. Ajungem la stadion și la Muzeul Romsdal fără riscul de a aluneca pe drumuri. Autobuzul spre Varden oferă o călătorie călduroasă spre panorama înghețată.",
+            "en": "In winter, Molde's heated buses are a blessing. From Plassen, we travel comfortably through the snowy city to the Cathedral. We reach the stadium and Romsdal Museum without the risk of slipping on the roads. The bus to Varden offers a warm ride to the frosty panorama before returning to the city center."
+          },
+          "stops": [
+            {
+              "name": "Plassen (Bus Stop)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Innenbereich des Kulturzentrums zum Warten.",
+                "hu": "Használja a kulturális központ fűtött belső terét a várakozáshoz.",
+                "ro": "Folosiți interiorul încălzit al centrului cultural pentru așteptare.",
+                "en": "Use the heated interior of the cultural center for waiting."
+              }
+            },
+            {
+              "name": "Molde Cathedral",
+              "tip_5lang": {
+                "de": "Die Wege rund um die Haltestelle werden meist gut geräumt.",
+                "hu": "A megálló körüli utakat általában jól letakarítják.",
+                "ro": "Aleile din jurul stației sunt de obicei bine deszăpezite.",
+                "en": "Paths around the stop are usually well cleared."
+              }
+            },
+            {
+              "name": "Aker Stadion",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis beim Verlassen des Busses.",
+                "hu": "Vigyázat a tükörjéggel a busz elhagyásakor.",
+                "ro": "Atenție la polei când coborâți din autobuz.",
+                "en": "Watch out for black ice when leaving the bus."
+              }
+            },
+            {
+              "name": "Bus to Romsdal Museum",
+              "tip_5lang": {
+                "de": "Busse sind bei Schneefall oft zuverlässiger als private PKW.",
+                "hu": "A buszok havazásban gyakran megbízhatóbbak, mint a magánautók.",
+                "ro": "Autobuzele sunt adesea mai fiabile decât mașinile private pe ninsoare.",
+                "en": "Buses are often more reliable than private cars during snowfall."
+              }
+            },
+            {
+              "name": "Reknesparken",
+              "tip_5lang": {
+                "de": "Die Haltestelle bietet im Winter eine schöne Sicht auf die Lichter.",
+                "hu": "A megálló télen szép kilátást nyújt a város fényeire.",
+                "ro": "Stația oferă o priveliște frumoasă asupra luminilor orașului iarna.",
+                "en": "The stop offers a nice view of the city lights in winter."
+              }
+            },
+            {
+              "name": "Bus to Varden Viewpoint",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Busroute bei starkem Schneefall verkürzt wird.",
+                "hu": "Ellenőrizze, hogy a buszjáratot lerövidítik-e erős havazáskor.",
+                "ro": "Verificați dacă ruta autobuzului este scurtată în caz de ninsori mari.",
+                "en": "Check if the bus route is shortened during heavy snowfall."
+              }
+            },
+            {
+              "name": "Return to City Center",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Fahrt am Ende des kalten Tages.",
+                "hu": "Élvezze a meleg utazást a hideg nap végén.",
+                "ro": "Bucurați-vă de călătoria călduroasă la sfârșitul zilei reci.",
+                "en": "Enjoy the warm ride at the end of the cold day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse in Molde haben im Winter oft Spikereifen für maximale Sicherheit.",
+              "Die Abfahrtszeiten können sich bei extremem Wetter leicht verzögern.",
+              "Die Mitnahme von Schlitten im Bus ist meist erlaubt, wenn Platz ist.",
+              "Warten Sie in Geschäften oder Cafés in der Nähe, wenn der Bus Verspätung hat."
+            ],
+            "hu": [
+              "A moldei buszok télen gyakran szöges gumikkal közlekednek a biztonságért.",
+              "Az indulási idők extrém időjárás esetén kissé módosulhatnak.",
+              "A szánkó szállítása a buszon általában megengedett, ha van hely.",
+              "Várj a közeli boltokban vagy kávézókban, ha késik a busz."
+            ],
+            "ro": [
+              "Autobuzele din Molde au adesea anvelope cu ținte iarna pentru siguranță.",
+              "Orele de plecare pot avea mici întârzieri în caz de vreme extremă.",
+              "Transportul săniilor în autobuz este de obicei permis dacă există loc.",
+              "Așteptați în magazinele sau cafenelele din apropiere dacă autobuzul întârzie."
+            ],
+            "en": [
+              "Buses in Molde often use studded tires in winter for maximum safety.",
+              "Departure times may be slightly delayed during extreme weather.",
+              "Carrying sleds on the bus is usually allowed if there is space.",
+              "Wait in nearby shops or cafes if the bus is delayed."
+            ]
+          }
+        }
       }
     }
   }

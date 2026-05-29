@@ -352,6 +352,188 @@
           "Check the museum's opening hours in advance.",
           "A light rain jacket is always a good idea in Ireland."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am windigen Hafen, wo der Regen auf die Irische See trifft. Nach einem kurzen Stopp am Chaine Tower bietet das Museum den perfekten trockenen Zufluchtsort für den Vormittag. Nachmittags erkunden wir die Ruinen von Olderfleet und den Stadtpark unter dem Regenschirm. Der Tag endet gemütlich in einem warmen Pub bei traditioneller Küche.",
+            "hu": "A reggel a szeles kikötőben indul, ahol az eső találkozik az Ír-tengerrel. A Chaine-torony után a múzeum nyújt tökéletes menedéket a délelőtti áztató eső elől. Délután az Olderfleet romjait és a városi parkot fedezzük fel esernyő alatt. A napot egy barátságos, meleg pubban zárjuk, hagyományos ételek társaságában.",
+            "ro": "Dimineața începe în portul vântos, unde ploaia se întâlnește cu Marea Irlandei. După o scurtă oprire la Turnul Chaine, muzeul oferă refugiul perfect pentru restul dimineții. După-amiaza explorăm ruinele Olderfleet și parcul orașului sub umbrelă. Ziua se încheie confortabil într-un pub cald, cu mâncare tradițională.",
+            "en": "Morning starts at the windy harbour as rain sweeps across the Irish Sea. After a quick look at Chaine Tower, the museum provides a perfect dry sanctuary for the late morning. Afternoon involves exploring Olderfleet ruins and the town park under an umbrella. The day ends cozily in a warm pub with hearty traditional food."
+          },
+          "stops": [
+            {
+              "name": "Larne Harbour",
+              "tip_5lang": {
+                "de": "Windgeschützte Ecken suchen.",
+                "hu": "Keress szélvédett pontokat.",
+                "ro": "Căutați colțuri ferite de vânt.",
+                "en": "Seek wind-sheltered spots."
+              }
+            },
+            {
+              "name": "Chaine Memorial Tower",
+              "tip_5lang": {
+                "de": "Vorsicht, rutschige Steine am Wasser.",
+                "hu": "Vigyázat, a kövek csúszósak a víznél.",
+                "ro": "Atenție, pietrele sunt alunecoase.",
+                "en": "Caution, slippery stones near water."
+              }
+            },
+            {
+              "name": "Larne Museum and Arts Centre",
+              "tip_5lang": {
+                "de": "Bester Ort, um Kleidung zu trocknen.",
+                "hu": "A legjobb hely a ruhák megszárítására.",
+                "ro": "Cel mai bun loc pentru uscat haine.",
+                "en": "Best place to dry off your gear."
+              }
+            },
+            {
+              "name": "Olderfleet Castle",
+              "tip_5lang": {
+                "de": "Weg kann schlammig sein.",
+                "hu": "Az út sáros lehet a romoknál.",
+                "ro": "Drumul poate fi noroios.",
+                "en": "Path can be muddy around ruins."
+              }
+            },
+            {
+              "name": "Town Park",
+              "tip_5lang": {
+                "de": "Unter dichten Bäumen Schutz suchen.",
+                "hu": "Sűrű lombok alatt keress menedéket.",
+                "ro": "Căutați adăpost sub copaci deși.",
+                "en": "Seek shelter under dense trees."
+              }
+            },
+            {
+              "name": "Dinner at a local pub",
+              "tip_5lang": {
+                "de": "Heißer Tee wärmt sofort auf.",
+                "hu": "A forró tea azonnal felmelegít.",
+                "ro": "Ceaiul fierbinte vă va încălzi.",
+                "en": "Hot tea or stew warms you up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei Küstenwind Pflicht.",
+              "Wasserfeste Schuhe verhindern nasse Füße im Park.",
+              "Das Museum ist der ideale 'Plan B' bei Starkregen.",
+              "Nutzen Sie die Pubs zum Aufwärmen zwischen den Stopps."
+            ],
+            "hu": [
+              "Az erős tengeri szél miatt stabil esernyő kell.",
+              "A vízálló cipő elengedhetetlen a sáros parkban.",
+              "A múzeum ideális B-terv heves esőzés esetén.",
+              "Használja a pubokat melegedőnek a megállók között."
+            ],
+            "ro": [
+              "O umbrelă rezistentă e vitală din cauza vântului.",
+              "Pantofii impermeabili previn umezeala în parc.",
+              "Muzeul este planul B ideal pentru ploaie torențială.",
+              "Folosiți pub-urile pentru a vă încălzi între opriri."
+            ],
+            "en": [
+              "A sturdy umbrella is essential for coastal winds.",
+              "Waterproof shoes prevent wet feet in the park.",
+              "The museum is the ideal 'Plan B' for heavy rain.",
+              "Use local pubs as warming stations between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am Hafen mit Blick auf die schneebedeckten Hügel in der Ferne. Der Chaine Tower wirkt in der tiefstehenden Sonne besonders markant. Mittags wärmen wir uns im Museum auf, bevor wir die frostigen Ruinen von Olderfleet besichtigen. Da es früh dunkel wird, genießen wir den Park im Dämmerlicht und beenden den Abend am Kaminfeuer im Pub.",
+            "hu": "Tiszta téli reggel a kikötőben, kilátással a távoli havas dombokra. A Chaine-torony különösen impozáns az alacsonyan járó napfényben. Délben a múzeumban melegszünk fel, majd megnézzük Olderfleet deres romjait. Mivel korán sötétedik, a parkot már szürkületben látjuk, az estét pedig a pub kandallója mellett zárjuk.",
+            "ro": "O dimineață senină de iarnă în port, cu vedere spre dealurile înzăpezite. Turnul Chaine pare impunător în lumina joasă a soarelui. La prânz ne încălzim la muzeu, apoi vizităm ruinele înghețate din Olderfleet. Deoarece se întunecă devreme, savurăm parcul la amurg și încheiem seara lângă șemineul din pub.",
+            "en": "A crisp winter morning at the harbour with views of snow-capped hills. Chaine Tower looks striking in the low winter sun. At noon, we warm up in the museum before visiting the frosty ruins of Olderfleet. As darkness falls early, we enjoy the park in twilight and end the evening by a roaring pub fireplace."
+          },
+          "stops": [
+            {
+              "name": "Larne Harbour",
+              "tip_5lang": {
+                "de": "Handschuhe gegen Seewind tragen.",
+                "hu": "Hordjon kesztyűt a tengeri szél ellen.",
+                "ro": "Purtați mănuși contra vântului.",
+                "en": "Wear gloves against the sea breeze."
+              }
+            },
+            {
+              "name": "Chaine Memorial Tower",
+              "tip_5lang": {
+                "de": "Schöne Fotos bei tiefem Sonnenstand.",
+                "hu": "Szép fotók készíthetők alacsony napnál.",
+                "ro": "Fotografii superbe la apus.",
+                "en": "Great photos during low sun hours."
+              }
+            },
+            {
+              "name": "Larne Museum and Arts Centre",
+              "tip_5lang": {
+                "de": "Genießen Sie die Heizung drinnen.",
+                "hu": "Élvezze a benti fűtést.",
+                "ro": "Bucurați-vă de căldura din interior.",
+                "en": "Enjoy the heating inside."
+              }
+            },
+            {
+              "name": "Olderfleet Castle",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf Steinen.",
+                "hu": "Vigyázat, a kövek jegesek lehetnek.",
+                "ro": "Atenție la gheața de pe pietre.",
+                "en": "Watch for ice on the stone surfaces."
+              }
+            },
+            {
+              "name": "Town Park",
+              "tip_5lang": {
+                "de": "Früher Sonnenuntergang gegen 16 Uhr.",
+                "hu": "A nap korán, 16 óra körül nyugszik.",
+                "ro": "Apusul este devreme, în jur de ora 16.",
+                "en": "Sunset is early, around 4 PM."
+              }
+            },
+            {
+              "name": "Dinner at a local pub",
+              "tip_5lang": {
+                "de": "Platz am Kamin sichern.",
+                "hu": "Foglaljon helyet a kandallónál.",
+                "ro": "Căutați un loc lângă șemineu.",
+                "en": "Secure a spot near the fireplace."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten für den kalten Wind.",
+              "Die Sonne geht im Winter bereits gegen 16:15 Uhr unter.",
+              "Museen und Pubs bieten willkommene Wärmephasen.",
+              "Feste Sohlen helfen bei Reifglätte auf Gehwegen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a hideg szél miatt.",
+              "A nap télen már 16:15 körül lemegy.",
+              "A múzeumok és pubok fontos melegedőpontok.",
+              "A vastag talpú cipő véd a jeges járdákon."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi contra vântului rece.",
+              "Soarele apune deja în jur de ora 16:15.",
+              "Muzeele și pub-urile oferă căldură necesară.",
+              "Tălpile groase ajută pe trotuarele înghețate."
+            ],
+            "en": [
+              "Dress in layers for the biting coastal wind.",
+              "The sun sets as early as 4:15 PM in winter.",
+              "Museums and pubs are vital warming stations.",
+              "Thick soles help on frosty or icy pavements."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -675,6 +857,170 @@
           "The coastal road can be windy.",
           "Take water and snacks for the longer stretches."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Radtour entlang der Küste, trotz Regen. Wir starten am Hafen und finden im Museum einen trockenen Stopp. Die Fahrt zum Carnfunnock Park führt durch grüne, nasse Landschaften. Der Gleno-Wasserfall ist bei Regen besonders beeindruckend und kraftvoll. Den Abschluss bildet ein warmes Essen im Stadtzentrum.",
+            "hu": "Frissítő kerékpártúra a parton az eső ellenére. A kikötőben kezdünk, majd a múzeumban tartunk száraz pihenőt. Az út a Carnfunnock Park felé zöldellő, vizes tájakon vezet. A Gleno-vízesés esőben különösen látványos és bővizű. A túrát a városközpontban zárjuk egy forró étellel.",
+            "ro": "O tură răcoritoare cu bicicleta pe coastă, în ciuda ploii. Începem în port și facem o pauză uscată la muzeu. Drumul spre Parcul Carnfunnock trece prin peisaje verzi și umede. Cascada Gleno este spectaculoasă pe ploaie. Încheiem tura în centrul orașului cu o masă caldă.",
+            "en": "A refreshing coastal cycle despite the rain. Starting at the harbour, we take a dry break at the museum. The ride to Carnfunnock Park passes through lush, wet landscapes. Gleno Waterfall is particularly impressive and powerful in the rain. We finish with a hot meal in the town centre."
+          },
+          "stops": [
+            {
+              "name": "Larne Harbour & Chaine Tower",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Schienen.",
+                "hu": "Vigyázz a csúszós sínekre.",
+                "ro": "Atenție la șinele alunecoase.",
+                "en": "Beware of slippery tracks."
+              }
+            },
+            {
+              "name": "Larne Museum and Arts Centre",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Räder.",
+                "hu": "Biztonságos tároló a bicikliknek.",
+                "ro": "Loc sigur pentru parcat bicicleta.",
+                "en": "Safe bike parking available nearby."
+              }
+            },
+            {
+              "name": "Carnfunnock Country Park",
+              "tip_5lang": {
+                "de": "Waldwege können sehr matschig sein.",
+                "hu": "Az erdei utak nagyon sárosak lehetnek.",
+                "ro": "Potecile pot fi foarte noroioase.",
+                "en": "Woodland paths can be very muddy."
+              }
+            },
+            {
+              "name": "Gleno Waterfall",
+              "tip_5lang": {
+                "de": "Bester Fotostopp bei Regen.",
+                "hu": "A legjobb fotópont esőben.",
+                "ro": "Cel mai bun punct foto pe ploaie.",
+                "en": "Best photo stop during rainfall."
+              }
+            },
+            {
+              "name": "Back to Town Centre",
+              "tip_5lang": {
+                "de": "Vorsicht bei Bremsungen auf Nässe.",
+                "hu": "Vigyázz a fékezéssel a vizes úton.",
+                "ro": "Atenție la frânarea pe carosabil ud.",
+                "en": "Careful braking on wet surfaces."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter unverzichtbar.",
+              "Vermeiden Sie bei Regen Fahrten direkt am Klippenrand.",
+              "Tragen Sie gut sichtbare, wasserdichte Kleidung.",
+              "Bremsen Sie auf nassen Straßen frühzeitig ab."
+            ],
+            "hu": [
+              "Sárvédő nélkül ne induljon el esőben.",
+              "Kerülje a sziklaszéleket erős szélben és esőben.",
+              "Viseljen jól látható, vízálló ruházatot.",
+              "A vizes úton jóval korábban kezdjen fékezni."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt indispensabile acum.",
+              "Evitați marginile falezelor pe vânt și ploaie.",
+              "Purtați haine reflectorizante și impermeabile.",
+              "Frânați mult mai devreme pe asfaltul ud."
+            ],
+            "en": [
+              "Mudguards are indispensable in this weather.",
+              "Avoid cliff edges during high winds and rain.",
+              "Wear high-visibility waterproof clothing.",
+              "Apply brakes earlier than usual on wet roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine belebende Wintertour mit dem Rad. Am Hafen weht eine steife Brise, aber die Luft ist herrlich klar. Nach dem Museumsbesuch radeln wir zum Carnfunnock Park, wo die Bäume kahl und frostig sind. Der Gleno-Wasserfall wirkt in der Winterstille magisch. Vor Einbruch der frühen Dunkelheit kehren wir für einen heißen Kakao ins Zentrum zurück.",
+            "hu": "Élénkítő téli kerékpártúra. A kikötőben fagyos szél fúj, de a levegő csodásan tiszta. A múzeumlátogatás után a Carnfunnock Parkba tekerünk, ahol deres fák várnak. A Gleno-vízesés varázslatos a téli csendben. A korai sötétedés előtt visszatérünk a központba egy forró kakaóra.",
+            "ro": "O tură revigorantă de iarnă cu bicicleta. În port suflă un vânt tăios, dar aerul e curat. După muzeu, pedalăm spre Parcul Carnfunnock, unde copacii sunt înghețați. Cascada Gleno e magică în liniștea iernii. Revenim în centru pentru o ciocolată caldă înainte de amurg.",
+            "en": "An invigorating winter cycle ride. A stiff breeze blows at the harbour, but the air is wonderfully clear. After the museum, we ride to Carnfunnock Park where trees stand frosty. Gleno Waterfall looks magical in the winter silence. We head back for hot cocoa before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Larne Harbour & Chaine Tower",
+              "tip_5lang": {
+                "de": "Thermoshandschuhe sind nötig.",
+                "hu": "Termo kesztyű szükséges.",
+                "ro": "Mănuși termice necesare.",
+                "en": "Thermal gloves are necessary."
+              }
+            },
+            {
+              "name": "Larne Museum and Arts Centre",
+              "tip_5lang": {
+                "de": "Brillen beschlagen beim Eintreten.",
+                "hu": "A szemüveg bepárásodik belépéskor.",
+                "ro": "Ochelarii se aburesc la intrare.",
+                "en": "Glasses will fog up upon entry."
+              }
+            },
+            {
+              "name": "Carnfunnock Country Park",
+              "tip_5lang": {
+                "de": "Fahrtwind kühlt stark aus.",
+                "hu": "A menetszél nagyon lehűt.",
+                "ro": "Vântul vă va răci rapid.",
+                "en": "Wind chill is high while riding."
+              }
+            },
+            {
+              "name": "Gleno Waterfall",
+              "tip_5lang": {
+                "de": "Wege können vereist sein.",
+                "hu": "Az utak jegesek lehetnek.",
+                "ro": "Potecile pot fi înghețate.",
+                "en": "Paths might be icy near the falls."
+              }
+            },
+            {
+              "name": "Back to Town Centre",
+              "tip_5lang": {
+                "de": "Beleuchtung vor 16 Uhr prüfen.",
+                "hu": "Lámpákat ellenőrizd 16 óra előtt.",
+                "ro": "Verificați luminile înainte de ora 16.",
+                "en": "Check bike lights before 4 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche gegen den Fahrtwind.",
+              "Achten Sie auf Glatteis in schattigen Waldstücken.",
+              "Die Tour sollte vor 16 Uhr beendet sein.",
+              "Halten Sie die Kette gut geölt gegen Streusalz."
+            ],
+            "hu": [
+              "Viseljen termo alsóruházatot a menetszél ellen.",
+              "Vigyázzon a jeges foltokra az erdei utakon.",
+              "A túrát fejezze be délután 4 óráig.",
+              "Olajozza a láncot a sós hólé ellen."
+            ],
+            "ro": [
+              "Purtați lenjerie termică contra vântului.",
+              "Atenție la gheață în zonele împădurite.",
+              "Încheiați tura până la ora 16:00.",
+              "Ungeți lanțul contra sării de pe drum."
+            ],
+            "en": [
+              "Wear thermal base layers against wind chill.",
+              "Watch for black ice in shaded forest sections.",
+              "Aim to finish the ride by 4 PM for safety.",
+              "Keep the chain well-oiled against road salt."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1027,6 +1373,188 @@
           "Check the weather forecast as the cliff path can be closed in bad weather.",
           "Parking fees may apply."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Autofahrt entlang der Causeway Coastal Route im Regen. Wir starten im Carnfunnock Park und besuchen den Gleno-Wasserfall, der bei Regen tosend herabstürzt. Das Stadtzentrum bietet Kultur im Trockenen, gefolgt von kurzen Stopps an den Küstentürmen. Die dramatische Klippenlandschaft bei The Gobbins wirkt bei Regen besonders mystisch.",
+            "hu": "Kényelmes autózás a Causeway parton esőben. A Carnfunnock Parkban kezdünk, majd a Gleno-vízesés következik, ami esőben dübörögve zúdul le. A városközpont száraz kulturális élményt nyújt, majd rövid megállók a part menti tornyoknál. The Gobbins drámai sziklái esőben különösen misztikusak.",
+            "ro": "O plimbare relaxantă cu mașina pe Causeway Coastal Route în ploaie. Începem în Parcul Carnfunnock și vizităm Cascada Gleno, care curge spectaculos. Centrul orașului oferă cultură la adăpost, urmat de scurte opriri la turnurile de pe coastă. Peisajul dramatic de la Gobbins este mistic pe ploaie.",
+            "en": "A comfortable drive along the Causeway Coastal Route in the rain. We start at Carnfunnock Park and visit Gleno Waterfall, which roars during rainfall. The town centre offers indoor culture, followed by short stops at coastal towers. The dramatic cliff landscape at The Gobbins feels particularly mystical in wet weather."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Carnfunnock Country Park",
+              "tip_5lang": {
+                "de": "Parkplatz nah am Besucherzentrum.",
+                "hu": "Parkolj közel a látogatóközponthoz.",
+                "ro": "Parcați aproape de centrul de vizitare.",
+                "en": "Park close to the visitor centre."
+              }
+            },
+            {
+              "name": "Cluster 2: Gleno Waterfall",
+              "tip_5lang": {
+                "de": "Vorsicht bei Aquaplaning auf Zufahrt.",
+                "hu": "Vigyázat, vízátfolyások az úton.",
+                "ro": "Atenție la acvaplanare pe drum.",
+                "en": "Watch for standing water on access roads."
+              }
+            },
+            {
+              "name": "Cluster 3: Larne Town Centre",
+              "tip_5lang": {
+                "de": "Parkhaus nutzen, um trocken zu bleiben.",
+                "hu": "Használj parkolóházat a szárazabb útért.",
+                "ro": "Folosiți parcarea acoperită.",
+                "en": "Use covered parking if available."
+              }
+            },
+            {
+              "name": "Chaine Memorial Tower",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp reicht völlig aus.",
+                "hu": "Egy rövid fotómegálló is elég.",
+                "ro": "O oprire scurtă e suficientă.",
+                "en": "A short photo stop is enough."
+              }
+            },
+            {
+              "name": "Olderfleet Castle",
+              "tip_5lang": {
+                "de": "Blick aus dem Autofenster ist gut.",
+                "hu": "Az autóból is jól látható.",
+                "ro": "Se vede bine și din mașină.",
+                "en": "Good view even from the car window."
+              }
+            },
+            {
+              "name": "Cluster 4: The Gobbins (Nearby)",
+              "tip_5lang": {
+                "de": "Prüfen, ob Touren wetterbedingt gehen.",
+                "hu": "Ellenőrizd a túrák indulását.",
+                "ro": "Verificați dacă tururile se țin.",
+                "en": "Check if tours run in heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die A2 kann bei Starkregen Gischt aufwerfen.",
+              "Nutzen Sie Parkplätze nah an den Attraktionen.",
+              "Die Wasserfälle sind nach Regen am schönsten.",
+              "Halten Sie die Scheibenwischer in gutem Zustand."
+            ],
+            "hu": [
+              "Az A2 úton nagy vízfelverődésre számítson.",
+              "Parkoljon minél közelebb a látnivalókhoz.",
+              "A vízesések eső után a legszebbek.",
+              "Ellenőrizze az ablaktörlők állapotát."
+            ],
+            "ro": [
+              "A2 poate avea multă apă pulverizată pe drum.",
+              "Parcați cât mai aproape de atracții.",
+              "Cascadele sunt superbe după ploaie.",
+              "Verificați starea ștergătoarelor de parbriz."
+            ],
+            "en": [
+              "The A2 road can have significant spray.",
+              "Park as close to attractions as possible.",
+              "Waterfalls are at their best after rain.",
+              "Ensure your wipers are in top condition."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterzauber auf der Küstenstraße. Der Carnfunnock Park glitzert im Frost, gefolgt vom vereisten Gleno-Wasserfall. Im Stadtzentrum genießen wir die warme Atmosphäre im Museum. Der Chaine Tower und Olderfleet wirken im klaren Winterlicht fast surreal. Den Abschluss bildet die wilde Küste bei The Gobbins, bevor wir uns bei einer Fahrt mit Heizung aufwärmen.",
+            "hu": "Téli varázslat a parti úton. A Carnfunnock Park deres csillogása után az olykor jeges Gleno-vízesés következik. A városközpontban a múzeum melegében időzünk. A Chaine-torony és Olderfleet szinte szürreális a tiszta téli fényben. A vad tengerparti látványt The Gobbinsnál élvezzük, mielőtt a fűtött autóba visszavágynánk.",
+            "ro": "Magia iernii pe drumul de coastă. Parcul Carnfunnock strălucește sub promoroacă, urmat de cascada Gleno înghețată. În centru, savurăm atmosfera caldă a muzeului. Turnul Chaine și Olderfleet par aproape ireale în lumina iernii. Încheiem cu peisajul sălbatic de la Gobbins înainte de a ne încălzi în mașină.",
+            "en": "Winter magic on the coastal road. Carnfunnock Park glitters with frost, followed by the sometimes icy Gleno Waterfall. In the town centre, we linger in the warmth of the museum. Chaine Tower and Olderfleet look almost surreal in the clear winter light. We finish at the wild Gobbins coast before retreating to the heated car."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Carnfunnock Country Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf Nebenstraßen.",
+                "hu": "Vigyázat, jeges mellékutak.",
+                "ro": "Atenție la gheață pe drumurile secundare.",
+                "en": "Watch for ice on secondary roads."
+              }
+            },
+            {
+              "name": "Cluster 2: Gleno Waterfall",
+              "tip_5lang": {
+                "de": "Steile Zufahrt kann rutschig sein.",
+                "hu": "A meredek feljáró csúszós lehet.",
+                "ro": "Accesul în pantă poate fi alunecos.",
+                "en": "The steep access road can be slippery."
+              }
+            },
+            {
+              "name": "Cluster 3: Larne Town Centre",
+              "tip_5lang": {
+                "de": "Ideale Zeit für Museum und Shopping.",
+                "hu": "Ideális idő múzeumra és vásárlásra.",
+                "ro": "Timp ideal pentru muzeu și cumpărături.",
+                "en": "Ideal time for museum and shopping."
+              }
+            },
+            {
+              "name": "Chaine Memorial Tower",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für das Winterlicht.",
+                "hu": "Rövid megálló a téli fényekért.",
+                "ro": "Oprire scurtă pentru lumina de iarnă.",
+                "en": "Short stop for the winter light."
+              }
+            },
+            {
+              "name": "Olderfleet Castle",
+              "tip_5lang": {
+                "de": "Gutes Ziel vor der frühen Dämmerung.",
+                "hu": "Jó célpont a korai szürkület előtt.",
+                "ro": "Destinație bună înainte de amurg.",
+                "en": "Good destination before early dusk."
+              }
+            },
+            {
+              "name": "Cluster 4: The Gobbins (Nearby)",
+              "tip_5lang": {
+                "de": "Winter-Öffnungszeiten beachten.",
+                "hu": "Figyelj a téli nyitvatartásra.",
+                "ro": "Atenție la programul de iarnă.",
+                "en": "Check winter opening hours."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Küstenstraßen können bei Frost tückisch sein.",
+              "Frostschutz für die Scheiben nicht vergessen.",
+              "Planen Sie Stopps bei Tageslicht ein.",
+              "Im Winter ist weniger Verkehr auf der A2."
+            ],
+            "hu": [
+              "A parti utak fagyban csalókák lehetnek.",
+              "Ne felejtse el a fagyállót a szélvédőhöz.",
+              "A megállókat nappali fényre tervezze.",
+              "Télen sokkal kisebb a forgalom az A2-n."
+            ],
+            "ro": [
+              "Drumurile de coastă pot fi înșelătoare.",
+              "Nu uitați lichidul de parbriz de iarnă.",
+              "Planificați opririle pe timpul zilei.",
+              "Iarna traficul este mult mai redus pe A2."
+            ],
+            "en": [
+              "Coastal roads can be treacherous in frost.",
+              "Don't forget winter screen wash.",
+              "Plan your main stops during daylight hours.",
+              "Traffic on the A2 is much lighter in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1034,7 +1562,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "17:35",
-      "total_km": 17.0,
+      "total_km": 10.0,
       "stop_count": 5,
       "stops": [
         {
@@ -1355,6 +1883,170 @@
           "Check the bus timetable in advance, especially for the last bus back.",
           "Have some change ready for the bus driver."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus durch das regnerische Larne. Wir nutzen die überdachten Haltestellen im Zentrum und am Hafen. Das Museum bietet einen langen, trockenen Aufenthalt am Vormittag. Die Fahrt zum Carnfunnock Park ist dank Heizung im Bus angenehm. Den Tag beschließen wir im Stadtzentrum, wo viele Restaurants nah an den Bushaltestellen liegen.",
+            "hu": "Busszal a ködös, esős Larne-ban. A központban és a kikötőben fedett megállókat használunk. A múzeum hosszú, száraz programot kínál délelőtt. A Carnfunnock Parkba vezető út a busz fűtése miatt kellemes. A napot a városközpontban zárjuk, ahol sok étterem közel van a megállókhoz.",
+            "ro": "Cu autobuzul prin Larne pe ploaie. Folosim stațiile acoperite din centru și port. Muzeul oferă o vizită lungă și uscată dimineața. Drumul spre Parcul Carnfunnock este plăcut datorită căldurii din autobuz. Încheiem ziua în centru, unde restaurantele sunt aproape de stații.",
+            "en": "Navigating rainy Larne by bus. We make use of sheltered stops in the centre and at the harbour. The museum offers a long, dry indoor visit in the morning. The journey to Carnfunnock Park is comfortable thanks to bus heating. We end the day in the town centre, with many restaurants close to bus stops."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Larne Centre & Harbour",
+              "tip_5lang": {
+                "de": "Wartebereiche am Bahnhof sind trocken.",
+                "hu": "A vasútállomás várója száraz.",
+                "ro": "Sala de așteptare e uscată.",
+                "en": "Station waiting areas are dry."
+              }
+            },
+            {
+              "name": "Larne Museum and Arts Centre",
+              "tip_5lang": {
+                "de": "Nur 2 Min. Fußweg von der Haltestelle.",
+                "hu": "Csak 2 perc séta a megállótól.",
+                "ro": "Doar 2 minute de mers de la stație.",
+                "en": "Only 2 mins walk from the stop."
+              }
+            },
+            {
+              "name": "Chaine Memorial Tower & Harbour",
+              "tip_5lang": {
+                "de": "Kurzer Sprint zum Turm bei Regen.",
+                "hu": "Rövid sprint a toronyhoz esőben.",
+                "ro": "Sprint scurt spre turn pe ploaie.",
+                "en": "Short sprint to the tower in rain."
+              }
+            },
+            {
+              "name": "Cluster 2: Carnfunnock Country Park",
+              "tip_5lang": {
+                "de": "Bus hält direkt am Eingang.",
+                "hu": "A busz közvetlen a bejáratnál áll meg.",
+                "ro": "Autobuzul oprește la intrare.",
+                "en": "Bus stops right at the entrance."
+              }
+            },
+            {
+              "name": "Return to Centre for Dinner",
+              "tip_5lang": {
+                "de": "Fahrplan-App im Auge behalten.",
+                "hu": "Figyeld a menetrendi appot.",
+                "ro": "Urmăriți aplicația de transport.",
+                "en": "Keep an eye on the transit app."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Translink-App für Echtzeitdaten.",
+              "Busbahnhöfe bieten den besten Schutz vor Regen.",
+              "Kaufen Sie ein Tagesticket beim Fahrer.",
+              "Halten Sie Kleingeld oder Karte bereit."
+            ],
+            "hu": [
+              "Használja a Translink appot az élő adatokhoz.",
+              "A buszállomások védelmet nyújtanak az esőtől.",
+              "Vásároljon napijegyet a sofőrnél.",
+              "Készítsen elő aprópénzt vagy kártyát."
+            ],
+            "ro": [
+              "Folosiți aplicația Translink pentru timpi reali.",
+              "Stațiile de autobuz oferă protecție la ploaie.",
+              "Cumpărați un bilet de o zi de la șofer.",
+              "Aveți pregătit mărunt sau cardul."
+            ],
+            "en": [
+              "Use the Translink app for real-time updates.",
+              "Bus stations offer the best rain protection.",
+              "Purchase a day ticket from the driver.",
+              "Have exact change or card ready."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Larne im Winter mit öffentlichen Verkehrsmitteln erkunden. Die Busse sind gut geheizt und bieten tolle Ausblicke auf die winterliche Küste. Im Museum wärmen wir uns auf, bevor es zum Chaine Tower geht. Der Carnfunnock Park wirkt im Winterlicht friedlich. Da es früh dunkel wird, ist die Rückfahrt im beleuchteten Bus ein gemütlicher Abschluss vor dem Abendessen.",
+            "hu": "Larne felfedezése télen tömegközlekedéssel. A buszok jól fűtöttek, és remek kilátást nyújtanak a téli partvidékre. A múzeumban felmelegszünk, mielőtt a Chaine-toronyhoz mennénk. A Carnfunnock Park békés a téli fényben. A korai sötétedés miatt a kivilágított buszon való visszatérés kellemes zárás vacsora előtt.",
+            "ro": "Explorarea Larne iarna cu transportul public. Autobuzele sunt bine încălzite și oferă vederi spre coasta înghețată. Ne încălzim la muzeu înainte de a merge la Turnul Chaine. Parcul Carnfunnock este liniștit în lumina iernii. Revenirea cu autobuzul luminat este relaxantă înainte de cină.",
+            "en": "Exploring Larne in winter by public transport. Buses are well-heated and offer great views of the winter coast. We warm up in the museum before heading to Chaine Tower. Carnfunnock Park looks peaceful in the winter light. As darkness falls early, the ride back in a brightly lit bus is a cozy prelude to dinner."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Larne Centre & Harbour",
+              "tip_5lang": {
+                "de": "Bahnhofshalle ist beheizt.",
+                "hu": "A vasútállomás csarnoka fűtött.",
+                "ro": "Holul gării este încălzit.",
+                "en": "The station hall is heated."
+              }
+            },
+            {
+              "name": "Larne Museum and Arts Centre",
+              "tip_5lang": {
+                "de": "Perfekt zum Aufwärmen zwischendurch.",
+                "hu": "Tökéletes hely a felmelegedésre.",
+                "ro": "Perfect pentru încălzire.",
+                "en": "Perfect spot to warm up midway."
+              }
+            },
+            {
+              "name": "Chaine Memorial Tower & Harbour",
+              "tip_5lang": {
+                "de": "Warme Kleidung für die Wartezeit.",
+                "hu": "Meleg ruha kell a várakozáshoz.",
+                "ro": "Haine groase pentru așteptare.",
+                "en": "Wear warm clothes while waiting."
+              }
+            },
+            {
+              "name": "Cluster 2: Carnfunnock Country Park",
+              "tip_5lang": {
+                "de": "Letzter Bus vor der Dunkelheit nehmen.",
+                "hu": "Az utolsó sötétedés előtti buszt válaszd.",
+                "ro": "Luați ultimul autobuz înainte de seară.",
+                "en": "Take the last bus before dark."
+              }
+            },
+            {
+              "name": "Return to Centre for Dinner",
+              "tip_5lang": {
+                "de": "Genießen Sie die Lichter der Stadt.",
+                "hu": "Élvezze a város fényeit a buszból.",
+                "ro": "Admirați luminile orașului.",
+                "en": "Enjoy the city lights from the bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne können leicht abweichen.",
+              "In den Bussen ist es meist sehr warm.",
+              "Planen Sie die Rückfahrt vor 17 Uhr.",
+              "Abendbusse sind seltener als am Tag."
+            ],
+            "hu": [
+              "A téli menetrendek eltérhetnek kicsit.",
+              "A buszokon általában nagyon meleg van.",
+              "Tervezze a visszautat 17 óra elé.",
+              "Az esti buszok ritkábbak, mint nappal."
+            ],
+            "ro": [
+              "Orarele de iarnă pot varia ușor.",
+              "În autobuze este de obicei foarte cald.",
+              "Planificați returul înainte de ora 17:00.",
+              "Autobuzele de seară sunt mai rare."
+            ],
+            "en": [
+              "Winter schedules may have slight variations.",
+              "Buses are usually very well heated.",
+              "Plan your return trip before 5 PM.",
+              "Evening buses run less frequently than daytime."
+            ]
+          }
+        }
       }
     }
   }

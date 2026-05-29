@@ -418,6 +418,206 @@
           "Bring a water bottle to stay hydrated.",
           "Plan your lunch around tasting Alheira to get the full local experience."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Mirandela beginnt mit sanftem Regen am Palast der Távoras, wo die barocke Pracht vor den grauen Wolken glänzt. Mittags bietet die Alte Brücke einen dramatischen Blick auf den anschwellenden Fluss Tua. Nachmittags finden wir Zuflucht im Olivenölmuseum und lernen die goldenen Schätze der Region kennen. Der Tag endet besinnlich in der Wallfahrtskirche Nossa Senhora do Amparo, während der Regen gegen die alten Mauern trommelt.",
+            "hu": "A reggel csendes esőben indul a Távoras palotánál, ahol a barokk homlokzat különös fényt kap a szürke ég alatt. Délben az Öreg híd felett átvonuló fellegek látványos hátteret adnak a Tua folyónak. Délután az Olívaolaj Múzeum fedett tereiben merülünk el Mirandela gasztronómiai örökségében. Az estét az Amparo-szentély békéjében zárjuk, miközben kintről hallatszik az eső kopogása a gránitfalakon.",
+            "ro": "Dimineața începe cu o ploaie ușoară la Palatul Távoras, unde detaliile baroce par mai vii sub cerul plumburiu. La prânz, Podul Vechi oferă o priveliște dramatică asupra râului Tua învolburat. După-amiaza, ne adăpostim în Muzeul Măslinelor, descoperind istoria lichidului de aur al regiunii. Seara se încheie liniștit la Sanctuarul Nossa Senhora do Amparo, ascultând ploaia care bate în ferestrele înalte.",
+            "en": "The morning starts with gentle rain at the Palace of the Távoras, where baroque details shine against gray clouds. At noon, the Old Bridge offers a dramatic view of the swelling Tua River. In the afternoon, we find refuge in the Olive Oil Museum, learning about the region's golden heritage. The day ends peacefully at the Sanctuary of Our Lady of Amparo, as rain drums against the ancient granite walls."
+          },
+          "stops": [
+            {
+              "name": "Palace of the Távoras",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um den Regenschirm zu falten.",
+                "hu": "Használja a fedett bejáratot az esernyő összecsukásához.",
+                "ro": "Folosiți intrarea acoperită pentru a vă scutura umbrela.",
+                "en": "Use the covered entrance area to fold your umbrella before entering."
+              }
+            },
+            {
+              "name": "Dr. José de Almeida Garden",
+              "tip_5lang": {
+                "de": "Die großen Bäume bieten kurzzeitig Schutz vor leichten Schauern.",
+                "hu": "A nagy fák lombjai rövid ideig védelmet nyújtanak a szemerkélő esőben.",
+                "ro": "Copacii mari oferă adăpost temporar în cazul unei averse ușoare.",
+                "en": "The large trees provide brief shelter during light showers."
+              }
+            },
+            {
+              "name": "Old Bridge (Ponte Velha)",
+              "tip_5lang": {
+                "de": "Vorsicht, das historische Pflaster kann bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a történelmi macskakő nedvesen csúszós lehet.",
+                "ro": "Atenție, pavajul istoric poate fi alunecos când este ud.",
+                "en": "Caution: the historic cobblestones can be slippery when wet."
+              }
+            },
+            {
+              "name": "Museum of the Olive and Olive Oil",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die regenreichste Zeit des Tages im Trockenen zu verbringen.",
+                "hu": "Tökéletes helyszín a nap legesősebb óráinak fedett helyen töltéséhez.",
+                "ro": "Locul perfect pentru a petrece orele ploioase într-un spațiu acoperit.",
+                "en": "Perfect spot to spend the rainiest hours of the day indoors."
+              }
+            },
+            {
+              "name": "Empire Park (Parque do Império)",
+              "tip_5lang": {
+                "de": "Der Pavillon im Park dient als guter Unterstand bei Regen.",
+                "hu": "A parkban található pavilon jó menedék eső esetén.",
+                "ro": "Pavilionul din parc servește ca un bun adăpost în caz de ploaie.",
+                "en": "The pavilion in the park serves as a good shelter during rain."
+              }
+            },
+            {
+              "name": "Church of Saint Benedict",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und die trockene Atmosphäre im Inneren.",
+                "hu": "Élvezze a csendet és a száraz belső teret.",
+                "ro": "Bucurați-se de liniște și de atmosfera uscată din interior.",
+                "en": "Enjoy the silence and the dry atmosphere inside the church."
+              }
+            },
+            {
+              "name": "Sanctuary of Our Lady of Amparo",
+              "tip_5lang": {
+                "de": "Der Aufstieg kann bei Wind mühsam sein; nutzen Sie das Hauptportal.",
+                "hu": "A feljutás szeles időben nehéz lehet; használja a főbejáratot.",
+                "ro": "Urcarea poate fi dificilă pe vânt; folosiți portalul principal.",
+                "en": "The climb can be windy; use the main portal for entry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Wege am Flussufer Pfützen bilden können.",
+              "Das Olivenölmuseum ist die beste Wahl für längere Regenschauer.",
+              "Die Cafés in der Nähe des Palastes servieren wärmende lokale Spezialitäten.",
+              "Ein stabiler Regenschirm ist wegen der Winde am Fluss Tua unerlässlich."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a folyóparti utakon tócsák alakulhatnak ki.",
+              "Az Olívaolaj Múzeum a legjobb választás tartós esőzés esetén.",
+              "A palota közeli kávézókban kóstoljon meg egy melengető helyi süteményt.",
+              "A Tua folyó menti szél miatt egy masszív esernyő elengedhetetlen."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pot apărea bălți pe malul râului.",
+              "Muzeul Măslinelor este cea mai bună opțiune în caz de ploaie persistentă.",
+              "Cafenelele de lângă palat servesc specialități locale calde.",
+              "O umbrelă rezistentă este esențială din cauza vântului de pe râul Tua."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles may form on the riverside paths.",
+              "The Olive Oil Museum is your best bet during persistent rain.",
+              "Cafés near the palace serve warming local specialties like Alheira.",
+              "A sturdy umbrella is essential due to the winds along the Tua River."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Mirandela lässt die Granitfassaden des Távoras-Palastes im weichen Sonnenlicht erstrahlen. Zur Mittagszeit sorgt die kühle Brise auf der Alten Brücke für eine erfrischende Pause am glitzernden Fluss. Am Nachmittag wärmen wir uns im Olivenölmuseum auf, bevor wir den Sonnenuntergang im Stadtpark beobachten. Der Tag gipfelt im Besuch des Amparo-Sanctuarys, das in der frühen Dämmerung golden leuchtet.",
+            "hu": "A tiszta téli reggel Mirandelában lágy fénybe öltözteti a Távoras-palota gránitfalait. Délidőben a Tua folyó feletti Öreg hídon hűvös szél fúj, de a látvány kárpótol a hidegért. Délután az Olívaolaj Múzeum tárlatai között melegszünk fel, majd a parkban figyeljük a korai naplementét. A nap az Amparo-szentélynél ér véget, amely az alkonyati fényekben aranylón ragyog a város felett.",
+            "ro": "O dimineață senină de iarnă în Mirandela face ca fațadele de granit ale Palatului Távoras să strălucească în lumina slabă. La prânz, briza rece de pe Podul Vechi oferă o pauză revigorantă lângă râul sclipitor. După-amiaza, ne încălzim în Muzeul Măslinelor înainte de a privi apusul timpuriu în parcul orașului. Ziua culminează cu vizita la Sanctuarul Amparo, care luminează auriu în amurg.",
+            "en": "A crisp winter morning in Mirandela finds the granite facades of the Távoras Palace glowing in the low sun. At noon, the cool breeze on the Old Bridge provides a refreshing break by the sparkling river. In the afternoon, we warm up inside the Olive Oil Museum before watching the early sunset in the park. The day culminates at the Amparo Sanctuary, which glows golden in the early winter twilight."
+          },
+          "stops": [
+            {
+              "name": "Palace of the Távoras",
+              "tip_5lang": {
+                "de": "Morgens ist es hier im Schatten der Mauern besonders kühl; warm anziehen.",
+                "hu": "Reggel a falak árnyékában különösen hűvös van; öltözzön rétegesen.",
+                "ro": "Dimineața este foarte rece la umbra zidurilor; îmbrăcați-vă gros.",
+                "en": "It is particularly chilly in the shadow of the walls in the morning."
+              }
+            },
+            {
+              "name": "Dr. José de Almeida Garden",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wintersonne auf den nach Süden ausgerichteten Bänken.",
+                "hu": "Élvezze a téli napsütést a déli fekvésű padokon.",
+                "ro": "Bucurați-vă de soarele de iarnă pe băncile orientate spre sud.",
+                "en": "Enjoy the winter sun on the south-facing benches."
+              }
+            },
+            {
+              "name": "Old Bridge (Ponte Velha)",
+              "tip_5lang": {
+                "de": "Der Wind über dem Fluss Tua kann im Winter schneidend kalt sein.",
+                "hu": "A Tua folyó feletti szél télen metszően hideg lehet.",
+                "ro": "Vântul de peste râul Tua poate fi tăios de rece iarna.",
+                "en": "The wind over the Tua River can be biting cold in winter."
+              }
+            },
+            {
+              "name": "Museum of the Olive and Olive Oil",
+              "tip_5lang": {
+                "de": "Die Innenräume sind gut beheizt und bieten eine ideale Aufwärmpause.",
+                "hu": "A belső terek jól fűtöttek, ideális hely a felmelegedéshez.",
+                "ro": "Interioarele sunt bine încălzite, oferind o pauză ideală de încălzire.",
+                "en": "The interiors are well-heated, providing an ideal warming break."
+              }
+            },
+            {
+              "name": "Empire Park (Parque do Império)",
+              "tip_5lang": {
+                "de": "Ideal für einen zügigen Spaziergang, um die Blutzirkulation anzuregen.",
+                "hu": "Ideális egy tempós sétához a vérkeringés frissítésére.",
+                "ro": "Ideal pentru o plimbare rapidă pentru a stimula circulația sângelui.",
+                "en": "Ideal for a brisk walk to boost blood circulation."
+              }
+            },
+            {
+              "name": "Church of Saint Benedict",
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte; behalten Sie Ihren Mantel an.",
+                "hu": "A vastag kőfalak tartják a hideget; ne vegye le a kabátját.",
+                "ro": "Zidurile groase de piatră mențin frigul; păstrați-vă haina pe dvs.",
+                "en": "The thick stone walls retain the cold; keep your coat on inside."
+              }
+            },
+            {
+              "name": "Sanctuary of Our Lady of Amparo",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist hier gegen 17:30 Uhr besonders beeindruckend.",
+                "hu": "A naplemente itt 17:30 körül különösen lenyűgöző.",
+                "ro": "Apusul de soare aici în jurul orei 17:30 este deosebit de impresionant.",
+                "en": "Sunset here around 5:30 PM is particularly impressive in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie das Ende Ihrer Tour vor 17:30 Uhr, um das Tageslicht zu nutzen.",
+              "Probieren Sie 'Alheira de Mirandela', die perfekt zur kalten Jahreszeit passt.",
+              "Die Luftfeuchtigkeit am Fluss macht die Kälte spürbarer; tragen Sie Wolle.",
+              "Kopfsteinpflaster kann bei Frost am frühen Morgen glatt sein."
+            ],
+            "hu": [
+              "Tervezze meg a túra végét 17:30 előtt, hogy kihasználja a nappali fényt.",
+              "Kóstolja meg a helyi Alheirát, amely kiváló téli energiapótló étel.",
+              "A folyóparti pára miatt a hideget erősebbnek érezheti; viseljen gyapjút.",
+              "A macskakő fagyos reggeleken csúszós lehet a folyó mentén."
+            ],
+            "ro": [
+              "Planificați finalul turului înainte de ora 17:30 pentru a profita de lumină.",
+              "Gustați 'Alheira de Mirandela', perfectă pentru sezonul rece.",
+              "Umiditatea de lângă râu face frigul mai pătrunzător; purtați lână.",
+              "Pavajul poate fi alunecos în diminețile cu îngheț de lângă râu."
+            ],
+            "en": [
+              "Plan to finish your outdoor activities by 5:30 PM to catch the light.",
+              "Try the 'Alheira de Mirandela' sausage, a hearty meal for cold days.",
+              "Humidity from the river makes the cold feel sharper; wear wool layers.",
+              "Cobblestones can be icy in the early morning frost near the water."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -854,6 +1054,224 @@
           "Always lock your bike when you park it.",
           "The bike ride to the sanctuary is demanding. If you are not an experienced cyclist, consider taking a taxi instead."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen am Bahnhof von Mirandela verleiht dem Industrieerbe eine melancholische Note. Wir radeln vorsichtig zum Empire Park, wo die Wege weich sind. Das Olivenölmuseum bietet eine willkommene Trockenpause, bevor wir die rutschige Alte Brücke überqueren. Trotz des Wetters ist die Fahrt zum Amparo-Santuario ein Erlebnis, wenn der Nebel über den Hügeln tanzt.",
+            "hu": "Az eső a mirandelai vasútállomáson melankolikus hangulatot kölcsönöz az ipari örökségnek. Óvatosan kerekezünk a Birodalom parkba, ahol az utak felázhatnak. Az Olívaolaj Múzeum menedéket nyújt a zápor elől, mielőtt áthajtanánk a csúszós Öreg hídon. Az időjárás ellenére az Amparo-szentélyhez vezető út különleges, ahogy a köd táncol a dombok felett.",
+            "ro": "Ploaia la gara din Mirandela oferă o notă melancolică patrimoniului industrial. Pedalăm cu atenție spre Parcul Imperiului, unde potecile pot fi moi. Muzeul Măslinelor oferă o pauză binemeritată de uscare înainte de a traversa Podul Vechi alunecos. În ciuda vremii, drumul spre Sanctuarul Amparo este o experiență, cu ceața dansând pe dealuri.",
+            "en": "Rain at Mirandela station adds a melancholy touch to the industrial heritage. We cycle carefully to Empire Park, where paths may be soft. The Olive Oil Museum provides a welcome dry break before crossing the slippery Old Bridge. Despite the weather, the ride to the Amparo Sanctuary is an experience, with mist dancing over the hills."
+          },
+          "stops": [
+            {
+              "name": "Mirandela Railway Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Bahnsteigdach, um Ihre Regenbekleidung zu richten.",
+                "hu": "Használja a peron tetőjét az esőruházat megigazításához.",
+                "ro": "Folosiți acoperișul peronului pentru a vă aranja echipamentul de ploaie.",
+                "en": "Use the platform roof to adjust your rain gear."
+              }
+            },
+            {
+              "name": "Empire Park (Parque do Império)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf den unbefestigten Parkwegen.",
+                "hu": "Ügyeljen a tócsákra a park kiépítetlen útjain.",
+                "ro": "Atenție la bălțile de pe aleile neasfaltate din parc.",
+                "en": "Watch out for puddles on the unpaved park paths."
+              }
+            },
+            {
+              "name": "Museum of the Olive and Olive Oil",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Kerékpártárolók a bejárat közelében találhatók.",
+                "ro": "Rafturile pentru biciclete sunt situate lângă intrare.",
+                "en": "Bike racks are located near the entrance for your convenience."
+              }
+            },
+            {
+              "name": "Old Bridge (Ponte Velha)",
+              "tip_5lang": {
+                "de": "Extrem rutschig; am besten schieben Sie Ihr Rad über die Brücke.",
+                "hu": "Rendkívül csúszós; javasolt áttolni a kerékpárt a hídon.",
+                "ro": "Extrem de alunecos; este mai bine să împingeți bicicleta pe pod.",
+                "en": "Extremely slippery; it's best to push your bike across the bridge."
+              }
+            },
+            {
+              "name": "Palace of the Távoras",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter einen Mauervorsprung, falls möglich.",
+                "hu": "Ha lehetséges, állítsa a biciklit egy falmélyedésbe az eső elől.",
+                "ro": "Parcați bicicleta sub o proeminență a zidului, dacă este posibil.",
+                "en": "Park your bike under a wall ledge if possible to keep the seat dry."
+              }
+            },
+            {
+              "name": "Church of Saint Benedict",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für eine trockene Besichtigung.",
+                "hu": "Rövid megálló egy száraz belső körbejáráshoz.",
+                "ro": "O oprire scurtă pentru o vizită la adăpost.",
+                "en": "A short stop for a dry indoor visit."
+              }
+            },
+            {
+              "name": "Dr. José de Almeida Garden",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind bei Regen sicherer als die Rasenkanten.",
+                "hu": "Az aszfaltozott utak esőben biztonságosabbak, mint a fűszegélyek.",
+                "ro": "Aleile asfaltate sunt mai sigure pe ploaie decât marginile de iarbă.",
+                "en": "Paved paths are safer than grass edges when riding in the rain."
+              }
+            },
+            {
+              "name": "Sanctuary of Our Lady of Amparo",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Hügel.",
+                "hu": "Ellenőrizze a fékeket, mielőtt elindulna lefelé a dombról.",
+                "ro": "Verificați frânele înainte de a coborî dealul.",
+                "en": "Check your brakes before descending from the hill."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und Schutzbleche sind ratsam.",
+              "Vermeiden Sie scharfe Kurven auf dem glatten Pflaster der Altstadt.",
+              "Die Tua-Uferwege können schlammig sein; bleiben Sie auf Asphalt.",
+              "Sorgen Sie für gute Beleuchtung, da die Sicht bei Regen eingeschränkt ist."
+            ],
+            "hu": [
+              "Viseljen teljes esővédő ruházatot, a sárvédő használata javasolt.",
+              "Kerülje az éles kanyarokat az óváros csúszós macskakövén.",
+              "A Tua-parti utak sárosak lehetnek; maradjon az aszfaltozott részeken.",
+              "Gondoskodjon jó világításról, mert esőben jelentősen csökken a láthatóság."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie completă; aripile sunt recomandate.",
+              "Evitați virajele strânse pe pavajul alunecos din centrul vechi.",
+              "Potecile de pe malul Tua pot fi noroioase; rămâneți pe asfalt.",
+              "Asigurați-vă că aveți lumini bune, deoarece vizibilitatea este redusă."
+            ],
+            "en": [
+              "Wear full rain gear and mudguards are highly recommended.",
+              "Avoid sharp turns on the slippery cobblestones of the old town.",
+              "Tua riverside paths can be muddy; stick to paved surfaces.",
+              "Ensure you have good lights as visibility drops significantly in rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Bahnhof führt uns durch die klare Winterluft von Mirandela. Das Radfahren im Empire Park ist bei der Kälte belebend. Mittags wärmt uns die Sonne auf der Alten Brücke, während der Fluss ruhig dahinfließt. Der Palast der Távoras und das Olivenölmuseum bieten kulturelle Pausen in wohliger Wärme. Zum Abschluss erklimmen wir den Amparo-Hügel für einen weiten Blick über die winterliche Landschaft.",
+            "hu": "Fagyos kezdés a vasútállomásnál, ahonnan a tiszta téli levegőben indulunk útnak. A biciklizés a Birodalom parkban ilyenkor igazi felfrissülés. Délben a nap sugarai melengetnek az Öreg hídon, miközben a folyó halkan folyik. A Távoras-palota és a Múzeum kulturális menedéket nyújt a hideg elől. Végül feltekerünk az Amparo-dombra a téli táj panorámájáért.",
+            "ro": "Un început geros la gară ne poartă prin aerul curat de iarnă din Mirandela. Pedalarea în Parcul Imperiului este revigorantă pe acest frig. La prânz, soarele ne încălzește pe Podul Vechi, în timp ce râul curge liniștit. Palatul Távoras și Muzeul Măslinelor oferă pauze culturale la căldură. La final, urcăm dealul Amparo pentru o vedere panoramică asupra peisajului hibernal.",
+            "en": "A frosty start at the station leads us through the clear winter air of Mirandela. Cycling in Empire Park is invigorating in the cold. At noon, the sun warms us on the Old Bridge while the river flows calmly. The Távoras Palace and the Olive Oil Museum provide cozy cultural breaks. Finally, we climb the Amparo hill for a wide view over the wintry landscape."
+          },
+          "stops": [
+            {
+              "name": "Mirandela Railway Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; kalte Luft kann ihn senken.",
+                "hu": "Ellenőrizze a keréknyomást; a hideg levegő miatt csökkenhet.",
+                "ro": "Verificați presiunea anvelopelor; aerul rece o poate scădea.",
+                "en": "Check your tire pressure; cold air can cause it to drop."
+              }
+            },
+            {
+              "name": "Empire Park (Parque do Império)",
+              "tip_5lang": {
+                "de": "Die schattigen Abschnitte des Parks können gefroren sein.",
+                "hu": "A park árnyékos részei jegesek lehetnek.",
+                "ro": "Secțiunile umbrite ale parcului pot fi înghețate.",
+                "en": "The shaded sections of the park may be frosty or icy."
+              }
+            },
+            {
+              "name": "Museum of the Olive and Olive Oil",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit hier, um die Finger wieder aufzuwärmen.",
+                "hu": "Használja ki az időt az ujjai felmelegítésére.",
+                "ro": "Folosiți timpul petrecut aici pentru a vă reîncălzi degetele.",
+                "en": "Use the time here to warm up your fingers inside the museum."
+              }
+            },
+            {
+              "name": "Old Bridge (Ponte Velha)",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht, aber achten Sie auf Seitenwinde.",
+                "hu": "Élvezze a tiszta kilátást, de ügyeljen az oldalszélre.",
+                "ro": "Bucurați-vă de vizibilitate, dar atenție la vântul lateral.",
+                "en": "Enjoy the clear views, but watch out for crosswinds over the Tua."
+              }
+            },
+            {
+              "name": "Palace of the Távoras",
+              "tip_5lang": {
+                "de": "Besichtigung im Inneren bietet eine gute Pause vom Fahrtwind.",
+                "hu": "A belső látogatás jó pihenőt jelent a menetszél után.",
+                "ro": "Vizita în interior oferă o pauză bună de la vântul de mișcare.",
+                "en": "A visit inside offers a good break from the wind chill of riding."
+              }
+            },
+            {
+              "name": "Church of Saint Benedict",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause in stiller Umgebung.",
+                "hu": "Rövid felmelegedési lehetőség csendes környezetben.",
+                "ro": "Scurtă pauză de încălzire într-un mediu liniștit.",
+                "en": "A brief warming break in a quiet environment."
+              }
+            },
+            {
+              "name": "Dr. José de Almeida Garden",
+              "tip_5lang": {
+                "de": "Die Wintersonne erreicht diesen Garten am Nachmittag gut.",
+                "hu": "A téli nap sugarai délután jól elérik ezt a kertet.",
+                "ro": "Soarele de iarnă ajunge bine în această grădină după-amiaza.",
+                "en": "The winter sun reaches this garden well in the afternoon."
+              }
+            },
+            {
+              "name": "Sanctuary of Our Lady of Amparo",
+              "tip_5lang": {
+                "de": "Nach Sonnenuntergang wird es schlagartig kälter; Licht einschalten.",
+                "hu": "Naplemente után hirtelen lehűl a levegő; kapcsolja be a lámpákat.",
+                "ro": "Se face brusc mai rece după apus; aprindeți luminile.",
+                "en": "It gets significantly colder after sunset; turn on your lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe und eine winddichte Schicht.",
+              "Trinken Sie zwischendurch warme Getränke, um die Körpertemperatur zu halten.",
+              "Die Sonne geht früh unter (ca. 17:30); beenden Sie die Tour rechtzeitig.",
+              "Die Uferwege sind im Winter oft feucht und rutschig."
+            ],
+            "hu": [
+              "Viseljen kesztyűt és szélálló ruházatot.",
+              "Igyon útközben meleg italokat a testhőmérséklet megőrzéséhez.",
+              "A nap korán nyugszik (17:30 körül); fejezze be időben a túrát.",
+              "A folyóparti utak télen gyakran nyirkosak és csúszósak."
+            ],
+            "ro": [
+              "Purtați mănuși și un strat rezistent la vânt.",
+              "Beți băuturi calde pe parcurs pentru a menține temperatura corpului.",
+              "Soarele apune devreme (aprox. 17:30); terminați turul la timp.",
+              "Potecile de pe malul râului sunt adesea umede și alunecose iarna."
+            ],
+            "en": [
+              "Wear insulated gloves and a windproof outer layer.",
+              "Drink warm beverages periodically to maintain core temperature.",
+              "Sunset is early (around 5:30 PM); plan to finish your ride by then.",
+              "Riverside paths can be damp and slick during the winter months."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1242,6 +1660,188 @@
           "Check the opening hours of the Olive Oil Museum before you go.",
           "Respect the one-way streets in the historic center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Mirandela lässt sich am besten mit dem Auto bewältigen. Wir starten beim Amparo-Heiligtum, wo die Wolken tief hängen. Das Olivenölmuseum bietet eine lange, trockene Pause. Die Fahrt über die Brücken der Stadt zeigt den Fluss Tua in seiner vollen, wasserreichen Pracht, während wir im warmen Fahrzeug bleiben. Der Tag endet gemütlich in der Nähe des Dr. José de Almeida Gartens.",
+            "hu": "Egy esős nap Mirandelában legkényelmesebben autóval hidalható át. Az Amparo-szentélynél kezdünk, ahol a felhők alacsonyan szállnak. Az Olívaolaj Múzeum hosszú, száraz pihenőt kínál. A város hídjain átkelve a Tua folyót teljes, víztől duzzadó pompájában láthatjuk az autó ablakából. A nap a Dr. José de Almeida kert közelében ér véget egy hangulatos helyen.",
+            "ro": "O zi ploioasă în Mirandela este cel mai bine parcursă cu mașina. Începem la Sanctuarul Amparo, unde norii atârnă jos. Muzeul Măslinelor oferă o pauză lungă și uscată. Traversarea podurilor orașului ne arată râul Tua în toată splendoarea sa bogată în apă, în timp ce rămânem la căldură în vehicul. Ziua se încheie confortabil lângă Grădina Dr. José de Almeida.",
+            "en": "A rainy day in Mirandela is best handled by car. We start at the Amparo Sanctuary, where clouds hang low over the valley. The Olive Oil Museum offers a long, dry break from the weather. Driving across the city's bridges shows the Tua River in its full, water-rich glory while staying warm inside. The day ends comfortably near the Dr. José de Almeida Garden."
+          },
+          "stops": [
+            {
+              "name": "Sanctuary of Our Lady of Amparo",
+              "tip_5lang": {
+                "de": "Parkplätze direkt beim Eingang ermöglichen einen fast trockenen Zugang.",
+                "hu": "A közvetlenül a bejáratnál lévő parkolók szinte száraz bejutást tesznek lehetővé.",
+                "ro": "Parcarea direct la intrare permite un acces aproape uscat.",
+                "en": "Parking right by the entrance allows for nearly dry access to the church."
+              }
+            },
+            {
+              "name": "Mirandela Railway Station",
+              "tip_5lang": {
+                "de": "Parken Sie kurz vor dem Bahnhof für Fotos im Regen.",
+                "hu": "Parkoljon le rövid időre az állomás előtt egy esős fotó erejéig.",
+                "ro": "Parcați scurt în fața gării pentru fotografii în ploaie.",
+                "en": "Short-term parking in front of the station is convenient for quick photos."
+              }
+            },
+            {
+              "name": "Museum of the Olive and Olive Oil",
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um das Auto während eines Schauers stehen zu lassen.",
+                "hu": "Ideális megálló, hogy az autót a zápor idejére a parkolóban hagyja.",
+                "ro": "O oprire ideală pentru a lăsa mașina în timpul unei averse.",
+                "en": "An ideal stop to leave the car while waiting out a downpour."
+              }
+            },
+            {
+              "name": "Old Bridge (Ponte Velha)",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam; das Kopfsteinpflaster ist rutschig.",
+                "hu": "Hajtson lassan; a macskakő csúszós lehet az esőben.",
+                "ro": "Conduceți încet; pavajul este alunecos pe ploaie.",
+                "en": "Drive slowly as the cobblestones leading to the bridge are slick."
+              }
+            },
+            {
+              "name": "Palace of the Távoras",
+              "tip_5lang": {
+                "de": "Nahegelegene Parkplätze reduzieren die Zeit im Regen.",
+                "hu": "A közeli parkolóhelyek csökkentik az esőben töltött időt.",
+                "ro": "Locurile de parcare din apropiere reduc timpul petrecut în ploaie.",
+                "en": "Nearby parking spots minimize your time walking in the rain."
+              }
+            },
+            {
+              "name": "Dr. José de Almeida Garden",
+              "tip_5lang": {
+                "de": "Betrachten Sie die Anlage kurz aus dem Auto, wenn es zu stark regnet.",
+                "hu": "Ha túl erősen esik, nézze meg a kertet az autóból.",
+                "ro": "Priviți grădina din mașină dacă plouă prea tare.",
+                "en": "View the garden from the car if the rain becomes too heavy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sicht auf den Fluss Tua ist bei Regen vom Auto aus spektakulär.",
+              "Nutzen Sie die Parkhäuser im Stadtzentrum für längere Stopps.",
+              "Achten Sie auf Fußgänger mit Regenschirmen in den engen Gassen.",
+              "Die Straßen am Flussufer können bei starkem Regen teilweise überflutet sein."
+            ],
+            "hu": [
+              "A Tua folyóra nyíló kilátás esőben is látványos az autóból.",
+              "Hosszabb megállókhoz használja a belvárosi parkolóházakat.",
+              "Ügyeljen az esernyős gyalogosokra a szűk utcákban.",
+              "Heves esőzéskor a folyóparti utak egyes részei víz alá kerülhetnek."
+            ],
+            "ro": [
+              "Priveliștea asupra râului Tua este spectaculoasă din mașină pe ploaie.",
+              "Folosiți parcările etajate din centrul orașului pentru opriri lungi.",
+              "Atenție la pietonii cu umbrele în zonele cu străzi înguste.",
+              "Drumurile de pe malul râului pot fi parțial inundate în caz de ploaie torențială."
+            ],
+            "en": [
+              "The view of the Tua River is spectacular from the car during rain.",
+              "Use city center parking garages for longer indoor visits.",
+              "Watch out for pedestrians with umbrellas in narrow old town streets.",
+              "Riverside roads may experience minor flooding during heavy rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintertag bietet das Auto den perfekten Komfort für Mirandela. Vom sonnigen Amparo-Hügel fahren wir hinunter zum historischen Bahnhof. Die Kälte draußen macht die Besuche im beheizten Olivenölmuseum und im Távoras-Palast umso angenehmer. Die Route führt uns entlang des winterlichen Tua-Ufers, bevor wir den Tag in der sanften Abendsonne im Almeida-Garten ausklingen lassen.",
+            "hu": "Egy tiszta téli napon az autó tökéletes kényelmet nyújt Mirandelában. A napsütötte Amparo-dombról gurulunk le a történelmi vasútállomáshoz. A kinti hideg még élvezetesebbé teszi a fűtött Olívaolaj Múzeum és a Távoras-palota látogatását. Az út a téli Tua-part mentén vezet, majd a napot a lemenő nap sugaraiban zárjuk az Almeida-kertnél.",
+            "ro": "Într-o zi senină de iarnă, mașina oferă confortul perfect în Mirandela. Coborâm de pe dealul însorit Amparo spre gara istorică. Frigul de afară face vizitele la Muzeul Măslinelor și la Palatul Távoras și mai plăcute. Traseul ne poartă de-a lungul malului hibernal al râului Tua înainte de a încheia ziua în soarele slab al serii la Grădina Almeida.",
+            "en": "On a clear winter day, the car provides perfect comfort for exploring Mirandela. From the sunny Amparo hill, we drive down to the historic station. The cold outside makes the visits to the heated Olive Oil Museum and Távoras Palace even more pleasant. The route takes us along the wintry Tua riverbank before ending the day in the soft evening sun at the Almeida Garden."
+          },
+          "stops": [
+            {
+              "name": "Sanctuary of Our Lady of Amparo",
+              "tip_5lang": {
+                "de": "Frühmorgens kann die Zufahrt zum Hügel überfroren sein.",
+                "hu": "Kora reggel a dombra vezető út jeges lehet.",
+                "ro": "Accesul spre deal poate fi înghețat dimineața devreme.",
+                "en": "The access road to the hill can be icy in the early morning."
+              }
+            },
+            {
+              "name": "Mirandela Railway Station",
+              "tip_5lang": {
+                "de": "Heizen Sie das Auto vor, während Sie kurz die Architektur bewundern.",
+                "hu": "Hagyja járni a fűtést, amíg rövid ideig megcsodálja az építészetet.",
+                "ro": "Lăsați căldura pornită în timp ce admirați scurt arhitectura.",
+                "en": "Keep the heater on while you take a quick look at the architecture."
+              }
+            },
+            {
+              "name": "Museum of the Olive and Olive Oil",
+              "tip_5lang": {
+                "de": "Parken Sie in der Sonne, damit das Auto warm bleibt.",
+                "hu": "Parkoljon napos helyen, hogy az autó melegen maradjon.",
+                "ro": "Parcați la soare pentru a menține mașina caldă.",
+                "en": "Park in a sunny spot to keep the car's interior warm."
+              }
+            },
+            {
+              "name": "Old Bridge (Ponte Velha)",
+              "tip_5lang": {
+                "de": "Die Brückenauffahrten können bei Frost tückisch sein.",
+                "hu": "A hídfeljárók fagy esetén csalókák lehetnek.",
+                "ro": "Rampele de acces la pod pot fi înșelătoare în caz de îngheț.",
+                "en": "Bridge approach roads can be treacherous in frosty conditions."
+              }
+            },
+            {
+              "name": "Palace of the Távoras",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen kühler Luft und warmem Innenraum.",
+                "hu": "Élvezze a kinti hűvös levegő és a benti meleg kontrasztját.",
+                "ro": "Bucurați-vă de contrastul dintre aerul rece și interiorul cald.",
+                "en": "Enjoy the contrast between the crisp air and the warm interior."
+              }
+            },
+            {
+              "name": "Dr. José de Almeida Garden",
+              "tip_5lang": {
+                "de": "Das Licht am späten Nachmittag ist hier im Winter wunderschön.",
+                "hu": "A késő délutáni fények itt télen gyönyörűek.",
+                "ro": "Lumina de după-amiază târzie este superbă aici iarna.",
+                "en": "The late afternoon light is beautiful here during the winter months."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überprüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Straßen in der Region Tras-os-Montes können im Winter neblig sein.",
+              "Parken Sie nach Möglichkeit in Parkhäusern, um Eiskratzen zu vermeiden.",
+              "Nutzen Sie die Sitzheizung für die kurzen Fahrten zwischen den Sehenswürdigkeiten."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Tras-os-Montes régió útjai télen gyakran ködösek lehetnek.",
+              "Lehetőség szerint parkoljon fedett helyen a jégmentesítés elkerülésére.",
+              "Használja az ülésfűtést a látnivalók közötti rövid szakaszokon."
+            ],
+            "ro": [
+              "Verificați antigelul din lichidul de parbriz.",
+              "Drumurile din regiunea Tras-os-Montes pot fi cețoase iarna.",
+              "Parcați în locuri acoperite dacă este posibil pentru a evita înghețul parbrizului.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte între obiective."
+            ],
+            "en": [
+              "Check the antifreeze levels in your windshield washer fluid.",
+              "Roads in the Tras-os-Montes region can be foggy in winter.",
+              "Park in covered garages when possible to avoid icy windshields.",
+              "Use seat heaters for the short drives between the city's sights."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1630,6 +2230,188 @@
           "Most central attractions are easily walkable, so you might only need the bus for the trip to the sanctuary.",
           "Ask locals for the correct bus stop; they are usually very helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mirandela bei Regen mit öffentlichen Verkehrsmitteln zu erkunden, hält uns trocken und flexibel. Wir beginnen beim Távoras-Palast und nutzen die Busverbindungen zur Benediktinerkirche. Das Olivenölmuseum ist ein Highlight im Trockenen, bevor wir die Buslinie zum Amparo-Heiligtum auf dem Hügel nehmen. Den Tag schließen wir im Empire Park ab, wo wir unter den Bäumen Schutz vor dem Nieselregen suchen.",
+            "hu": "Mirandela felfedezése tömegközlekedéssel esőben is kényelmes és száraz marad. A Távoras-palotánál kezdünk, majd busszal megyünk a Szent Benedek templomhoz. Az Olívaolaj Múzeum kiváló benti program, mielőtt a dombtetőn lévő Amparo-szentélyhez utaznánk. A napot a Birodalom parkban zárjuk, ahol a fák alatt keresünk menedéket a szemerkélő eső elől.",
+            "ro": "Explorarea orașului Mirandela cu transportul public pe ploaie ne menține uscați și flexibili. Începem la Palatul Távoras și folosim autobuzul spre Biserica Sf. Benedict. Muzeul Măslinelor este punctul culminant la adăpost, înainte de a lua linia spre Sanctuarul Amparo de pe deal. Încheiem ziua în Parcul Imperiului, căutând adăpost sub copaci.",
+            "en": "Exploring Mirandela by public transit during rain keeps us dry and flexible. We start at the Távoras Palace and use bus connections to St. Benedict's Church. The Olive Oil Museum is an indoor highlight before taking the bus up the hill to the Amparo Sanctuary. We conclude the day at Empire Park, seeking shelter under the trees from the drizzle."
+          },
+          "stops": [
+            {
+              "name": "Palace of the Távoras",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt nur wenige Schritte vom Eingang entfernt.",
+                "hu": "A buszmegálló mindössze néhány lépésre található a bejárattól.",
+                "ro": "Stația de autobuz este la doar câțiva pași de intrare.",
+                "en": "The bus stop is located just a few steps from the entrance."
+              }
+            },
+            {
+              "name": "Church of Saint Benedict",
+              "tip_5lang": {
+                "de": "Warten Sie in der Nähe des Kirchenportals auf den nächsten Bus.",
+                "hu": "Várjon a templomkapu közelében a következő buszra az eső elől.",
+                "ro": "Așteptați următorul autobuz lângă portalul bisericii.",
+                "en": "Wait near the church portal to stay dry until the next bus arrives."
+              }
+            },
+            {
+              "name": "Old Bridge (Ponte Velha)",
+              "tip_5lang": {
+                "de": "Die Haltestellen am Flussufer bieten oft kleine Unterstände.",
+                "hu": "A folyóparti buszmegállók gyakran rendelkeznek kis váróval.",
+                "ro": "Stațiile de pe malul râului au adesea mici adăposturi.",
+                "en": "Riverside bus stops often have small shelters for rainy days."
+              }
+            },
+            {
+              "name": "Museum of the Olive and Olive Oil",
+              "tip_5lang": {
+                "de": "Informieren Sie sich drinnen über die Abfahrtszeiten des nächsten Busses.",
+                "hu": "Tájékozódjon bent a következő busz indulási idejéről.",
+                "ro": "Informați-vă în interior despre orele de plecare ale autobuzului.",
+                "en": "Check the bus schedule inside the museum before heading back out."
+              }
+            },
+            {
+              "name": "Sanctuary of Our Lady of Amparo",
+              "tip_5lang": {
+                "de": "Der Bus bringt Sie direkt auf den Hügel, was den Aufstieg im Regen erspart.",
+                "hu": "A busz felviszi a dombra, megkímélve az esős gyaloglástól.",
+                "ro": "Autobuzul vă duce direct pe deal, scutindu-vă de urcarea prin ploaie.",
+                "en": "The bus takes you straight up the hill, saving you from climbing in the rain."
+              }
+            },
+            {
+              "name": "Empire Park (Parque do Império)",
+              "tip_5lang": {
+                "de": "Suchen Sie bei starkem Regen Schutz in der nahen Wartehalle.",
+                "hu": "Heves esőzéskor keressen menedéket a közeli váróteremben.",
+                "ro": "Căutați adăpost în sala de așteptare din apropiere în caz de ploaie grea.",
+                "en": "Seek shelter in the nearby waiting area if the rain intensifies."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie die lokalen Buslinien, um längere Fußwege im Regen zu vermeiden.",
+              "Halten Sie Kleingeld für den Fahrkartenkauf beim Fahrer bereit.",
+              "Einige Haltestellen haben keine Überdachung; ein Regenschirm ist Pflicht.",
+              "Die Busse fahren bei Regen oft mit etwas Verspätung."
+            ],
+            "hu": [
+              "Használja a helyi buszjáratokat az esős gyaloglás minimalizálására.",
+              "Készítsen elő aprópénzt a jegyvásárláshoz a buszvezetőnél.",
+              "Néhány megálló nem fedett, így az esernyő használata kötelező.",
+              "Esős időben a buszok gyakran kisebb késéssel közlekednek."
+            ],
+            "ro": [
+              "Folosiți liniile locale de autobuz pentru a evita plimbările lungi prin ploaie.",
+              "Aveți pregătit mărunt pentru a cumpăra biletul de la șofer.",
+              "Unele stații nu au acoperiș; umbrela este obligatorie.",
+              "Autobuzele pot avea mici întârzieri în condiții de ploaie."
+            ],
+            "en": [
+              "Use local bus lines to minimize walking in the rain between stops.",
+              "Keep small change ready for buying tickets from the bus driver.",
+              "Some bus stops lack shelters; an umbrella is a must-have.",
+              "Buses may run slightly behind schedule during heavy rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter in Mirandela mit dem Bus zu erleben, ist eine gemütliche Art, die Stadt zu sehen. Wir starten am warmen Palast der Távoras und fahren weiter zur Benediktinerkirche. Das Olivenölmuseum bietet eine perfekte Mittagspause im Beheizten. Am Nachmittag bringt uns der Transit bequem zum Amparo-Sanctuary, von wo aus wir die klare Winterluft genießen. Den Tag beenden wir entspannt im Almeida-Garten.",
+            "hu": "A téli Mirandela felfedezése busszal kényelmes módja a városnézésnek. A meleg Távoras-palotánál kezdünk, majd a Szent Benedek templom felé vesszük az irányt. Az Olívaolaj Múzeum tökéletes fűtött pihenőt kínál délben. Délután a busz kényelmesen felvisz az Amparo-szentélyhez, ahol élvezzük a tiszta téli panorámát, majd az Almeida-kertnél zárunk.",
+            "ro": "Experiența iernii în Mirandela cu autobuzul este o modalitate confortabilă de a vedea orașul. Începem la căldură în Palatul Távoras și continuăm spre Biserica Sf. Benedict. Muzeul Măslinelor oferă o pauză perfectă la interior. După-amiaza, transportul ne duce confortabil la Sanctuarul Amparo, unde ne bucurăm de aerul curat. Încheiem ziua relaxați la Grădina Almeida.",
+            "en": "Experiencing winter in Mirandela by bus is a cozy way to see the city. We start at the warm Távoras Palace and head towards St. Benedict's Church. The Olive Oil Museum provides a perfect heated break at midday. In the afternoon, the transit comfortably carries us to the Amparo Sanctuary to enjoy the clear winter views, ending the day at the Almeida Garden."
+          },
+          "stops": [
+            {
+              "name": "Palace of the Távoras",
+              "tip_5lang": {
+                "de": "Warten Sie drinnen, bis der Bus laut Fahrplan eintrifft.",
+                "hu": "Várjon bent, amíg a menetrend szerint megérkezik a busz.",
+                "ro": "Așteptați în interior până când autobuzul sosește conform orarului.",
+                "en": "Wait inside the palace entrance until your bus is scheduled to arrive."
+              }
+            },
+            {
+              "name": "Church of Saint Benedict",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Wege zwischen Kirche und Haltestelle.",
+                "hu": "Használja ki a templom és a megálló közötti rövid távolságot.",
+                "ro": "Profitați de distanța scurtă dintre biserică și stație.",
+                "en": "Take advantage of the short walking distance between the church and the stop."
+              }
+            },
+            {
+              "name": "Old Bridge (Ponte Velha)",
+              "tip_5lang": {
+                "de": "Die Wartehäuschen schützen vor dem kalten Wind vom Fluss.",
+                "hu": "A buszvárók védenek a folyó felől fújó hideg szél ellen.",
+                "ro": "Adăposturile din stații protejează de vântul rece de pe râu.",
+                "en": "Bus shelters provide protection from the cold winds blowing off the river."
+              }
+            },
+            {
+              "name": "Museum of the Olive and Olive Oil",
+              "tip_5lang": {
+                "de": "Ein sehr gut beheizter Ort für eine längere Pause.",
+                "hu": "Nagyon jól fűtött helyszín egy hosszabb pihenőhöz.",
+                "ro": "O locație foarte bine încălzită pentru o pauză lungă.",
+                "en": "A very well-heated location for an extended winter break."
+              }
+            },
+            {
+              "name": "Sanctuary of Our Lady of Amparo",
+              "tip_5lang": {
+                "de": "Beachten Sie die selteneren Busverbindungen am späten Winternachmittag.",
+                "hu": "Ügyeljen a ritkább buszjáratokra a téli délutánokon.",
+                "ro": "Atenție la frecvența redusă a autobuzelor în după-amiezele de iarnă.",
+                "en": "Be mindful of less frequent bus services in the late winter afternoon."
+              }
+            },
+            {
+              "name": "Empire Park (Parque do Império)",
+              "tip_5lang": {
+                "de": "Die letzte Haltestelle vor der Rückfahrt zum Hotel oder Bahnhof.",
+                "hu": "Az utolsó megálló a hotelbe vagy a vasútállomásra való visszatérés előtt.",
+                "ro": "Ultima stație înainte de întoarcerea la hotel sau gară.",
+                "en": "The final stop before heading back to your hotel or the train station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse in Mirandela sind im Winter meist gut beheizt.",
+              "Prüfen Sie den Winterfahrplan, da es saisonale Abweichungen geben kann.",
+              "Kombinieren Sie die Fahrt mit einem Besuch in einem warmen Café an der Endstation.",
+              "Nach Einbruch der Dunkelheit sind die Haltestellen gut beleuchtet."
+            ],
+            "hu": [
+              "A mirandelai buszok télen általában jól fűtöttek.",
+              "Ellenőrizze a téli menetrendet az esetleges változások miatt.",
+              "Kösse össze az utazást egy meleg kávézó meglátogatásával a végállomáson.",
+              "Sötétedés után a buszmegállók jól megvilágítottak és biztonságosak."
+            ],
+            "ro": [
+              "Autobuzele din Mirandela sunt de obicei bine încălzite iarna.",
+              "Verificați orarul de iarnă pentru eventuale variații sezoniere.",
+              "Combinați călătoria cu o vizită la o cafenea caldă lângă stație.",
+              "După lăsarea întunericului, stațiile de autobuz sunt bine iluminate."
+            ],
+            "en": [
+              "Buses in Mirandela are generally well-heated during the winter.",
+              "Check the winter schedule for any seasonal timing variations.",
+              "Combine your transit trip with a visit to a warm café near the stops.",
+              "Bus stops are well-lit and safe after the early winter sunset."
+            ]
+          }
+        }
       }
     }
   }

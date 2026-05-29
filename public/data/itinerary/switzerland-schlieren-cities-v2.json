@@ -287,6 +287,214 @@
           "Bring a water bottle, especially for the walk along the river.",
           "Check the opening hours of the Stürmeierhuus museum in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Schlieren beginnt am Stadtplatz, wo das Pflaster im nassen Glanz erstrahlt. Die Stadtkirche bietet einen trockenen Rückzugsort zur Besinnung.\n\nMittags tauchen Sie im Stürmeierhuus Museum in die lokale Geschichte ein, während draußen der Regen gegen die Fenster peitscht. Ein kurzer Spaziergang führt am historischen Pischihof vorbei.\n\nNachmittags erkunden Sie das Gaswerk-Areal, dessen industrielle Architektur bei grauem Himmel besonders dramatisch wirkt. Der Gasometer bietet Schutz vor den Elementen.\n\nDer Tag endet mit einer erfrischenden, wenn auch feuchten Runde an der Limmat. Die neblige Flusslandschaft strahlt eine ganz eigene, ruhige Melancholie aus.",
+            "hu": "Az esős reggel Schlieren főterén kezdődik, ahol a nedves macskakő tükrözi a város fényeit. A városi templom falai között száraz menedéket és nyugalmat találhatunk.\n\nDélben a Stürmeierhuus Múzeum kiállításai nyújtanak tartalmas kikapcsolódást, amíg odakint esik. Útközben egy pillantást vethetünk a történelmi Pischihof épületére.\n\nDélután a gázgyár ipari öröksége kerül sorra; a monumentális Gasometer szürke égbolt alatt is lenyűgöző látványt nyújt. Itt az ipari építészet rejtelmeibe láthatunk bele.\n\nAz este a Limmat-parti sétával zárul. Bár az eső szemerkél, a folyóparti ködös táj és a víz csobogása különleges, békés hangulatot teremt a nap végére.",
+            "ro": "O dimineață ploioasă în Schlieren începe în piața orașului, unde reflexiile pe pavajul ud creează un decor urban interesant. Biserica orașului oferă un adăpost uscat și liniștit.\n\nLa prânz, vizitați Muzeul Stürmeierhuus pentru a descoperi istoria locală ferit de precipitații. O scurtă trecere pe lângă Pischihof vă arată arhitectura rezidențială veche.\n\nDupă-amiaza este dedicată zonei Gaswerk, unde structurile industriale par și mai impunătoare sub cerul plumburiu. Gasometrul este un punct de reper vizual major chiar și pe ploaie.\n\nZiua se încheie cu o plimbare de-a lungul râului Limmat. Atmosfera umedă și ceața de deasupra apei oferă o perspectivă poetică și calmă asupra naturii elvețiene.",
+            "en": "A rainy morning in Schlieren starts at the Town Square, where the wet cobblestones reflect the town's lights. The City Church provides a dry and peaceful sanctuary from the drizzle.\n\nAt midday, step into the Stürmeierhuus Museum to explore local culture while staying warm and dry. A quick walk takes you past the historic Pischihof residence.\n\nIn the afternoon, head to the Gaswerk area; the industrial heritage sites look particularly striking under a moody, rainy sky. The Gasometer stands as a bold landmark in the mist.\n\nThe day concludes with a stroll along the Limmat river. The rainy weather adds a sense of tranquility to the riverbank, making for a refreshing end to your walk."
+          },
+          "stops": [
+            {
+              "name": "Schlieren Town Square",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Arkaden der umliegenden Gebäude bei starken Güssen.",
+                "hu": "Heves esőzés esetén a közeli épületek árkádjai alatt keressen menedéket.",
+                "ro": "Căutați adăpost sub arcadele clădirilor învecinate în caz de ploaie torențială.",
+                "en": "Seek shelter under the arcades of nearby buildings during heavy downpours."
+              }
+            },
+            {
+              "name": "Schlieren City Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille im Inneren, um Ihre Kleidung kurz zu trocknen.",
+                "hu": "Használja ki a benti csendet és a szárazságot az öltözete megszárítására.",
+                "ro": "Folosiți liniștea din interior pentru a vă usca puțin hainele.",
+                "en": "Use the quiet interior as a dry spot to briefly dry off your gear."
+              }
+            },
+            {
+              "name": "Stürmeierhuus Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine längere Pause, wenn der Regen draußen zunimmt.",
+                "hu": "Tökéletes helyszín egy hosszabb szünetre, ha odakint felerősödik az eső.",
+                "ro": "Locul perfect pentru o pauză prelungită dacă ploaia se intensifică afară.",
+                "en": "The perfect place for a longer break if the rain intensifies outside."
+              }
+            },
+            {
+              "name": "Pischihof",
+              "tip_5lang": {
+                "de": "Betrachten Sie die Fassade zügig unter einem großen Regenschirm.",
+                "hu": "Egy nagyobb esernyő alatt állva csodálja meg a homlokzat részleteit.",
+                "ro": "Admirați fațada rapid, protejat de o umbrelă mare.",
+                "en": "Admire the facade quickly while protected by a large umbrella."
+              }
+            },
+            {
+              "name": "Gaswerk Schlieren & Gasometer",
+              "tip_5lang": {
+                "de": "Die massiven Strukturen bieten teilweise Schutz vor seitlichem Wind und Regen.",
+                "hu": "A masszív építmények részben védenek az oldalszél és az eső ellen.",
+                "ro": "Structurile masive oferă protecție parțială împotriva vântului lateral și a ploii.",
+                "en": "The massive structures provide some protection from sideways wind and rain."
+              }
+            },
+            {
+              "name": "Schliere-Badi Lido",
+              "tip_5lang": {
+                "de": "Der Kioskbereich bietet oft überdachte Plätze für eine kurze Rast.",
+                "hu": "A büfé környékén gyakran találni fedett részeket egy rövid pihenőhöz.",
+                "ro": "Zona chioșcului oferă adesea locuri acoperite pentru un scurt popas.",
+                "en": "The kiosk area often offers covered spots for a short rest."
+              }
+            },
+            {
+              "name": "Walk along the Limmatraum",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Uferpfade; festes Schuhwerk ist hier unerlässlich.",
+                "hu": "Vigyázzon a csúszós parti ösvényekkel; a vízálló cipő itt elengedhetetlen.",
+                "ro": "Atenție la potecile alunecoase de pe mal; încălțămintea stabilă e esențială.",
+                "en": "Watch out for slippery riverside paths; sturdy footwear is essential here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei den teils böigen Winden im Limmattal wichtig.",
+              "Tragen Sie wasserfeste Schuhe, da sich auf den Wegen Pfützen bilden können.",
+              "Die Museen und Kirchen sind ideale 'Trockenzonen' für Ihren Rundgang.",
+              "Nutzen Sie die Cafés im Zentrum für Aufwärmpausen zwischen den Etappen.",
+              "Die industrielle Architektur wirkt bei Regen oft authentischer und roher."
+            ],
+            "hu": [
+              "A Limmat-völgyben gyakori szél miatt egy strapabíró esernyő ajánlott.",
+              "Vízálló cipőt viseljen, mert az ösvényeken kisebb tócsák alakulhatnak ki.",
+              "A múzeumok és templomok kiváló 'száraz zónák' a városnézés során.",
+              "Használja ki a központ kávézóit, hogy felmelegedjen a séták között.",
+              "Az ipari építészet az esőben gyakran még hitelesebb és karakteresebb."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este importantă din cauza vântului din valea Limmat.",
+              "Purtați încălțăminte impermeabilă, deoarece pe poteci se pot forma bălți.",
+              "Muzeele și bisericile sunt 'zone uscate' ideale pentru traseul dumneavoastră.",
+              "Folosiți cafenelele din centru pentru pauze de încălzire între etape.",
+              "Arhitectura industrială pare adesea mai autentică și brută pe timp de ploaie."
+            ],
+            "en": [
+              "A sturdy umbrella is important due to the gusty winds in the Limmat Valley.",
+              "Wear waterproof shoes as puddles can form on the unpaved paths.",
+              "The museums and churches are ideal 'dry zones' for your tour.",
+              "Take advantage of the center's cafes for warming breaks between stops.",
+              "The industrial architecture often looks more authentic and raw in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen glitzert der Reif auf dem Stadtplatz von Schlieren. Die frische, kalte Luft belebt den Geist beim ersten Halt an der Stadtkirche.\n\nMittags bietet das Stürmeierhuus Museum wohlige Wärme und faszinierende Einblicke, während draußen die Wintersonne tief steht. Der Pischihof wirkt im fahlen Licht besonders historisch.\n\nNachmittags erkunden Sie das Gaswerk-Gelände. Der stählerne Gasometer hebt sich markant gegen den oft klaren blauen Winterhimmel ab, ein Symbol der Industriegeschichte.\n\nBevor die Dämmerung früh einsetzt, führt der Weg an die Limmat. Der Fluss dampft in der Kälte, und der Limmatraum verzaubert mit seiner ruhigen, frostigen Winterstimmung.",
+            "hu": "A kristálytiszta téli reggelen zúzmara csillog Schlieren főterén. A friss, hideg levegő élénkítően hat, miközben meglátogatjuk a városi templom csendes épületét.\n\nDélben a Stürmeierhuus Múzeum kínál kellemes meleget és érdekes látnivalókat, amíg odakint alacsonyan jár a téli nap. A Pischihof udvara ilyenkor is megőrzi patináját.\n\nDélután a gázgyári negyedet fedezzük fel. Az acélszerkezetű Gasometer éles kontrasztot alkot a kék téli égbolttal, emlékeztetve a város ipari múltjára.\n\nMielőtt korán leszállna az est, a Limmat-partra megyünk. A folyó vize gőzölög a hidegben, a Limmatraum pedig fagyos, nyugodt téli hangulattal búcsúztatja a napot.",
+            "ro": "Într-o dimineață senină de iarnă, promoroaca sclipește în piața centrală din Schlieren. Aerul rece și proaspăt vă înviorează în timpul primei vizite la biserica orașului.\n\nLa prânz, Muzeul Stürmeierhuus vă primește cu căldură și expoziții fascinante, în timp ce soarele de iarnă stă jos pe cer. Pischihof are un aer nobil în lumina palidă.\n\nDupă-amiaza, explorați zona Gaswerk. Gasometrul de oțel se profilează clar pe cerul albastru de iarnă, fiind un simbol puternic al istoriei industriale locale.\n\nÎnainte ca amurgul să se lase devreme, mergeți spre râul Limmat. Apa care aburește în frig și peisajul înghețat din Limmatraum creează o atmosferă de iarnă magică.",
+            "en": "On a crisp winter morning, frost glistens on Schlieren's Town Square. The fresh, cold air is invigorating as you start your day at the serene City Church.\n\nAt midday, the Stürmeierhuus Museum offers warmth and fascinating insights into the past while the winter sun hangs low outside. The Pischihof looks especially historic in the winter light.\n\nIn the afternoon, explore the Gaswerk site. The steel Gasometer stands out sharply against the winter sky, serving as a monument to the region's industrial era.\n\nBefore the early sunset, head down to the Limmat river. The water steams in the cold, and the Limmatraum area enchants with its quiet, frosty winter atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Schlieren Town Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem Kopfsteinpflaster am frühen Morgen.",
+                "hu": "Kora reggel legyen óvatos a macskakövön az esetleges jegesedés miatt.",
+                "ro": "Atenție la porțiunile alunecoase de pe pavaj la primele ore ale dimineții.",
+                "en": "Be careful of slippery patches on the cobblestones in the early morning."
+              }
+            },
+            {
+              "name": "Schlieren City Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe und die moderate Wärme im Kirchenschiff.",
+                "hu": "Élvezze a nyugalmat és a mérsékelt meleget a templomhajóban.",
+                "ro": "Bucurați-vă de liniștea și căldura moderată din interiorul bisericii.",
+                "en": "Enjoy the peace and the moderate warmth inside the church nave."
+              }
+            },
+            {
+              "name": "Stürmeierhuus Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Wintermäntel während des Besuchs abzulegen.",
+                "hu": "Használja a ruhatárat, hogy levehesse a nehéz télikabátot a látogatás alatt.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă în timpul vizitei.",
+                "en": "Use the cloakroom to take off heavy winter coats during your visit."
+              }
+            },
+            {
+              "name": "Pischihof",
+              "tip_5lang": {
+                "de": "Der Innenhof wirkt bei Schnee besonders malerisch; halten Sie die Kamera bereit.",
+                "hu": "A belső udvar hóban különösen festői; készítse elő a fényképezőgépét.",
+                "ro": "Curtea interioară pare deosebit de pitorească în zăpadă; pregătiți camera.",
+                "en": "The courtyard looks especially picturesque in the snow; keep your camera ready."
+              }
+            },
+            {
+              "name": "Gaswerk Schlieren & Gasometer",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind wichtig, da das Metall der Anlagen viel Kälte abstrahlt.",
+                "hu": "A meleg kesztyű fontos, mivel az építmények fémfelületei ontják a hideget.",
+                "ro": "Mănușile groase sunt importante, deoarece metalul structurilor radiază frig.",
+                "en": "Warm gloves are important as the metal structures radiate a lot of cold."
+              }
+            },
+            {
+              "name": "Schliere-Badi Lido",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für einen kurzen Winterspaziergang mit Blick auf den Fluss.",
+                "hu": "Szép helyszín egy rövid téli sétához, kilátással a folyóra.",
+                "ro": "Un loc frumos pentru o scurtă plimbare de iarnă cu vedere la râu.",
+                "en": "A beautiful spot for a short winter walk with views over the river."
+              }
+            },
+            {
+              "name": "Walk along the Limmatraum",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg vor 17:00 Uhr ein, da es dann bereits dunkel wird.",
+                "hu": "Tervezze meg a visszautat 17:00 előtt, mert utána már sötétedik.",
+                "ro": "Planificați drumul de întoarcere înainte de ora 17:00, când se întunecă.",
+                "en": "Plan your return before 5:00 PM, as it starts getting dark by then."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip für den Wechsel zwischen Kälte und Wärme.",
+              "Trinken Sie zwischendurch ein heißes Getränk, um die Körpertemperatur zu halten.",
+              "Achten Sie auf die kürzeren Tageslichtstunden; starten Sie Ihren Rundgang früh.",
+              "Die Wege an der Limmat können bei Frost stellenweise glatt sein.",
+              "In Schlieren gibt es im Winter oft stimmungsvolle lokale Märkte im Zentrum."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a kinti hideg és a benti meleg közötti váltásokhoz.",
+              "Igyon közben forró italokat, hogy fenntartsa a testhőmérsékletét.",
+              "Ügyeljen a rövid nappalokra; kezdje a városnézést korán reggel.",
+              "A Limmat-parti utak fagy esetén néhol csúszósak lehetnek.",
+              "Schlierenben télen gyakran tartanak hangulatos helyi vásárokat a központban."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru tranziția între frigul de afară și căldura din interior.",
+              "Beți băuturi calde pe parcurs pentru a vă menține temperatura corpului.",
+              "Țineți cont de orele scurte de lumină; începeți traseul devreme.",
+              "Căile de pe malul râului Limmat pot fi alunecoase în caz de îngheț.",
+              "În Schlieren au loc adesea piețe locale primitoare în centru în timpul iernii."
+            ],
+            "en": [
+              "Dress in layers to handle the transition between the cold outside and indoor heating.",
+              "Enjoy hot drinks along the way to maintain your body temperature.",
+              "Be mindful of the shorter daylight hours; start your tour early in the morning.",
+              "Riverside paths along the Limmat can be slippery in freezing conditions.",
+              "Schlieren often hosts cozy local winter markets in the town center."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -591,6 +799,232 @@
           "Use the well-developed cycle paths along the Limmat.",
           "Always lock your bike securely at the stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet Schlieren für Radfahrer spannende Einblicke. Wir starten am Stadtplatz und fahren zügig zum Gaswerk-Areal, wo die Industrie-Kulisse im Regen glänzt.\n\nMittags erkunden wir den Gasometer, dessen Metallhülle den Regen musikalisch auffängt. Danach führt der Weg entlang der Limmat, wo das Wasser von oben und unten kommt.\n\nNachmittags machen wir Halt beim Schliere-Badi Lido, das im Regen verlassen, aber friedlich wirkt. Ein kurzer Abstecher bringt uns zum historischen Pischihof.\n\nDer Tag endet kulturell im trockenen Stürmeierhuus Museum und bei der Stadtkirche, wo wir das Fahrrad sicher abstellen und uns aufwärmen können.",
+            "hu": "Az eső ellenére Schlieren kerékpárral is tartogat izgalmakat. A főtérről indulva gyorsan elérjük a gázgyári negyedet, ahol az ipari környezet különleges fényben játszik az esőben.\n\nDélben a Gasometert látogatjuk meg, melynek fémfelületén dobol az eső. Ezután a Limmat mentén tekerünk tovább, élvezve a folyóparti frissességet.\n\nDélután a Schliere-Badi Lido felé vesszük az irányt, majd megállunk a történelmi Pischihofnál. A vizes aszfalton óvatosan kell manőverezni.\n\nA napot a Stürmeierhuus Múzeumban és a városi templomnál zárjuk, ahol végre száraz helyen pihenhetünk meg a tekerés után.",
+            "ro": "În ciuda ploii, Schlieren oferă perspective interesante pentru bicicliști. Pornim din piața orașului spre zona Gaswerk, unde decorul industrial strălucește sub stropii de ploaie.\n\nLa prânz, explorăm Gasometrul, a cărui structură metalică răsună sub picăturile de ploaie. Urmează drumul pe lângă Limmat, unde natura pare mai vie ca niciodată.\n\nDupă-amiaza ne oprim la Schliere-Badi Lido, apoi trecem pe lângă vechiul Pischihof. Manevrați cu grijă pe carosabilul umed în aceste zone.\n\nZiua se încheie cultural la Muzeul Stürmeierhuus și la biserica orașului, unde putem lăsa bicicleta și ne putem încălzi în interior.",
+            "en": "Despite the rain, Schlieren offers exciting views for cyclists. Starting from the Town Square, we ride quickly to the Gaswerk area, where the industrial backdrop glimmers in the wet.\n\nAt midday, we explore the Gasometer, listening to the rain tap against its metal frame. Then, the path follows the Limmat river, surrounded by the refreshing scent of wet earth.\n\nIn the afternoon, we stop by the Schliere-Badi Lido and pass the historic Pischihof. Be careful on the wet roads as you navigate between these landmarks.\n\nThe day ends on a cultural note at the dry Stürmeierhuus Museum and the City Church, perfect spots to warm up after the ride."
+          },
+          "stops": [
+            {
+              "name": "Schlieren Town Square",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie auf das nasse Kopfsteinpflaster fahren.",
+                "hu": "Ellenőrizze a fékeket, mielőtt a nedves macskaköves szakaszra hajtana.",
+                "ro": "Verificați frânele înainte de a intra pe pavajul umed din piață.",
+                "en": "Check your brakes before riding onto the wet cobblestones."
+              }
+            },
+            {
+              "name": "Gaswerk Schlieren",
+              "tip_5lang": {
+                "de": "Die befestigten Wege hier sind bei Regen gut befahrbar, aber Vorsicht in Kurven.",
+                "hu": "A kiépített utak itt esőben is jól járhatók, de a kanyarokban legyen óvatos.",
+                "ro": "Drumurile pavate de aici sunt practicabile pe ploaie, dar atenție la viraje.",
+                "en": "The paved paths here are good to ride in the rain, but be careful in corners."
+              }
+            },
+            {
+              "name": "Gasometer",
+              "tip_5lang": {
+                "de": "Unter den Metallstrukturen findet man manchmal einen trockenen Platz zum Halten.",
+                "hu": "A fémszerkezetek alatt néha találhatunk egy száraz helyet a megálláshoz.",
+                "ro": "Sub structurile metalice puteți găsi uneori un loc uscat pentru a opri.",
+                "en": "Under the metal structures, you can sometimes find a dry spot to stop."
+              }
+            },
+            {
+              "name": "Limmatraum",
+              "tip_5lang": {
+                "de": "Vermeiden Sie unbefestigte Uferwege, da diese schlammig sein können.",
+                "hu": "Kerülje a kiépítetlen parti utakat, mert azok sárosak lehetnek.",
+                "ro": "Evitați potecile de pământ de pe mal, deoarece pot fi noroioase.",
+                "en": "Avoid unpaved riverside paths as they can be muddy."
+              }
+            },
+            {
+              "name": "Schliere-Badi Lido",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer in der Nähe der überdachten Eingänge.",
+                "hu": "Használja a fedett bejáratok közelében lévő kerékpártárolókat.",
+                "ro": "Folosiți suporturile de biciclete din apropierea intrărilor acoperite.",
+                "en": "Use the bike racks located near the covered entrances."
+              }
+            },
+            {
+              "name": "Pischihof",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger mit Regenschirmen in den engen Gassen.",
+                "hu": "Figyeljen az esernyős gyalogosokra a szűkebb utcákban.",
+                "ro": "Atenție la pietonii cu umbrele în zonele cu străduțe înguste.",
+                "en": "Watch out for pedestrians with umbrellas in the narrow streets."
+              }
+            },
+            {
+              "name": "Stürmeierhuus Museum",
+              "tip_5lang": {
+                "de": "Hier können Sie Ihr Fahrrad parken und eine ausgiebige Regenpause machen.",
+                "hu": "Itt leparkolhatja a biciklit, és tarthat egy hosszabb szünetet az eső elől.",
+                "ro": "Aici puteți parca bicicleta și puteți lua o pauză lungă de ploaie.",
+                "en": "You can park your bike here and take an extensive break from the rain."
+              }
+            },
+            {
+              "name": "Schlieren City Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Endpunkt, um die Fahrt trocken Revue passieren zu lassen.",
+                "hu": "Csendes végpont, ahol szárazon gondolhatja át a megtett utat.",
+                "ro": "Un punct final liniștit pentru a trece în revistă traseul, la adăpost.",
+                "en": "A peaceful end point to review your trip while staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Regenhose ist sehr zu empfehlen.",
+              "Reduzieren Sie den Reifendruck minimal für bessere Haftung auf nassem Asphalt.",
+              "Vermeiden Sie das Überfahren von Fahrbahnmarkierungen und Gullydeckeln.",
+              "Stellen Sie sicher, dass Ihre Beleuchtung auch tagsüber bei Regen an ist.",
+              "Ein kleiner Lappen zum Abwischen des Sattels ist bei Pausen Gold wert."
+            ],
+            "hu": [
+              "A teljes esőruházat, beleértve az esőnadrágot is, erősen ajánlott.",
+              "Kicsit csökkentse a guminyomást a jobb tapadás érdekében a vizes aszfalton.",
+              "Kerülje az útfelfestéseken és a csatornafedeleken való áthajtást.",
+              "Győződjön meg róla, hogy a világítás esőben nappal is be van kapcsolva.",
+              "Egy kis rongy a nyereg letörléséhez aranyat ér a pihenők során."
+            ],
+            "ro": [
+              "Se recomandă echipament complet de ploaie, inclusiv pantaloni impermeabili.",
+              "Reduceți minim presiunea în anvelope pentru o aderență mai bună pe asfalt ud.",
+              "Evitați să treceți peste marcajele rutiere și capacele de canal.",
+              "Asigurați-vă că luminile sunt aprinse și pe timpul zilei când plouă.",
+              "O cârpă mică pentru a șterge șaua în timpul pauzelor este foarte utilă."
+            ],
+            "en": [
+              "Full rain gear, including waterproof trousers, is highly recommended.",
+              "Slightly reduce tire pressure for better grip on wet asphalt.",
+              "Avoid riding over road markings and manhole covers as they are slippery.",
+              "Ensure your lights are switched on even during the day when it rains.",
+              "A small rag to wipe down your saddle during breaks is invaluable."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintertag in Schlieren ist ideal für eine zügige Radtour. Wir starten am Stadtplatz, wo die Luft klirrt, und fahren zum Gaswerk-Areal.\n\nMittags bestaunen wir den Gasometer, der in der Wintersonne glänzt. Die Fahrt entlang der Limmat bietet spektakuläre Blicke auf den frostigen Fluss.\n\nNachmittags führt die Tour am Schliere-Badi Lido vorbei zum Pischihof. Die Bewegung hält warm, während wir die historische Architektur bewundern.\n\nZum Aufwärmen besuchen wir das Stürmeierhuus Museum und die Stadtkirche. Ein gelungener Abschluss für einen sportlichen Wintertag in der Stadt.",
+            "hu": "Egy fagyos téli nap Schlierenben ideális egy tempós kerékpártúrához. A főtérről indulunk a csípős hidegben, és a gázgyári negyed felé vesszük az irányt.\n\nDélben a téli napsütésben csillogó Gasometert csodáljuk meg. A Limmat menti tekerés során lenyűgöző látványt nyújt a deres folyópart.\n\nDélután a Schliere-Badi Lido érintésével a Pischihofhoz érünk. A mozgás melegen tart, miközben a történelmi épületeket nézzük.\n\nA nap végén a Stürmeierhuus Múzeumban és a városi templomban melegszünk fel. Sportos téli nap méltó befejezése ez a városban.",
+            "ro": "O zi geroasă de iarnă în Schlieren este perfectă pentru o tură rapidă cu bicicleta. Pornim din piața centrală prin aerul tăios spre zona Gaswerk.\n\nLa prânz admirăm Gasometrul care strălucește în soarele de iarnă. Drumul pe lângă Limmat oferă vederi spectaculoase asupra râului înghețat.\n\nDupă-amiaza, traseul trece pe lângă Schliere-Badi Lido spre Pischihof. Mișcarea ne ajută să ne menținem căldura în timp ce admirăm arhitectura.\n\nPentru încălzire, vizităm Muzeul Stürmeierhuus și biserica orașului. O încheiere reușită pentru o zi de iarnă sportivă în oraș.",
+            "en": "A frosty winter day in Schlieren is perfect for a brisk bike ride. We start at the Town Square, with the cold air nipping at our cheeks, and head to the Gaswerk area.\n\nAt midday, we marvel at the Gasometer glistening in the winter sun. Riding along the Limmat offers spectacular views of the frozen riverbanks.\n\nIn the afternoon, the tour continues past Schliere-Badi Lido to the Pischihof. The physical activity keeps us warm as we admire the historic sights.\n\nTo warm up at the end, we visit the Stürmeierhuus Museum and the City Church. A great finish to an active winter day in the city."
+          },
+          "stops": [
+            {
+              "name": "Schlieren Town Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Reif auf den Steinen; fahren Sie besonders langsam an.",
+                "hu": "Vigyázzon a köveken lévő dérre; különösen óvatosan induljon el.",
+                "ro": "Atenție la bruma înghețată de pe pavaj; porniți cu viteză redusă.",
+                "en": "Watch out for frozen frost on the stones; start off very slowly."
+              }
+            },
+            {
+              "name": "Gaswerk Schlieren",
+              "tip_5lang": {
+                "de": "In den Schattenzonen der großen Gebäude kann es glatt sein.",
+                "hu": "A nagy épületek árnyékos részeinél jegesedés fordulhat elő.",
+                "ro": "În zonele umbrite ale clădirilor mari poate fi polei.",
+                "en": "In the shaded areas of the large buildings, it can be slippery."
+              }
+            },
+            {
+              "name": "Gasometer",
+              "tip_5lang": {
+                "de": "Kurzer Halt für Fotos, aber bleiben Sie in Bewegung, um nicht auszukühlen.",
+                "hu": "Rövid megálló fotózáshoz, de maradjon mozgásban, hogy ne hűljön ki.",
+                "ro": "Oprire scurtă pentru poze, dar rămâneți în mișcare pentru a nu îngheța.",
+                "en": "Short stop for photos, but keep moving to avoid getting too cold."
+              }
+            },
+            {
+              "name": "Limmatraum",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht, aber achten Sie auf den kalten Wind am Wasser.",
+                "hu": "Élvezze a tiszta kilátást, de vigyázzon a víz felőli hideg széllel.",
+                "ro": "Bucurați-vă de vizibilitatea clară, dar atenție la vântul rece de pe apă.",
+                "en": "Enjoy the clear views, but watch out for the cold wind near the water."
+              }
+            },
+            {
+              "name": "Schliere-Badi Lido",
+              "tip_5lang": {
+                "de": "Oft ist es hier im Winter sehr ruhig; ideal für ein ungestörtes Foto.",
+                "hu": "Télen itt gyakran nagyon nagy a nyugalom; ideális egy zavartalan fotóhoz.",
+                "ro": "Adesea e foarte liniște aici iarna; ideal pentru o fotografie reușită.",
+                "en": "It's often very quiet here in winter; ideal for an undisturbed photo."
+              }
+            },
+            {
+              "name": "Pischihof",
+              "tip_5lang": {
+                "de": "Achten Sie auf die tiefstehende Sonne, die blenden kann.",
+                "hu": "Vigyázzon az alacsonyan járó napra, amely elvakíthatja tekerés közben.",
+                "ro": "Atenție la soarele care stă jos pe cer și vă poate orbi.",
+                "en": "Watch out for the low-hanging sun, which can be blinding while riding."
+              }
+            },
+            {
+              "name": "Stürmeierhuus Museum",
+              "tip_5lang": {
+                "de": "Hier können Sie sich vor der letzten Etappe gut aufwärmen.",
+                "hu": "Itt jól felmelegedhet az utolsó szakasz megtétele előtt.",
+                "ro": "Aici vă puteți încălzi bine înainte de ultima etapă.",
+                "en": "A great place to warm up properly before the final leg of the tour."
+              }
+            },
+            {
+              "name": "Schlieren City Church",
+              "tip_5lang": {
+                "de": "Ein besinnlicher Ort, um den Tag bei angenehmer Temperatur zu beenden.",
+                "hu": "Meghitt helyszín a nap befejezéséhez, kellemes hőmérsékletben.",
+                "ro": "Un loc liniștit pentru a încheia ziua la o temperatură plăcută.",
+                "en": "A peaceful spot to end your day at a comfortable temperature."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Handschuhe und eine Mütze unter dem Helm sind im Winter Pflicht.",
+              "Achten Sie auf Streusalz, das die Kette und Bremsen angreifen kann.",
+              "Die Bremswege können auf kalten oder feuchten Straßen länger sein.",
+              "Vergewissern Sie sich, dass Ihre Akkus für die Beleuchtung kälteresistent sind.",
+              "Tragen Sie Kleidung mit Reflektoren für die frühe Dämmerung."
+            ],
+            "hu": [
+              "A jó kesztyű és a sisak alatti sapka télen kötelező.",
+              "Ügyeljen az útszóró sóra, amely károsíthatja a láncot és a fékeket.",
+              "A féktávolság hideg vagy nedves úton hosszabb lehet.",
+              "Győződjön meg róla, hogy a lámpák akkumulátorai bírják a hideget.",
+              "Viseljen fényvisszaverő ruházatot a korai sötétedés miatt."
+            ],
+            "ro": [
+              "Mănușile bune și o căciulă sub cască sunt obligatorii iarna.",
+              "Atenție la sarea de pe drum, care poate ataca lanțul și frânele.",
+              "Distanțele de frânare pot fi mai lungi pe drumuri reci sau umede.",
+              "Asigurați-vă că bateriile pentru lumini sunt rezistente la frig.",
+              "Purtați haine cu elemente reflectorizante pentru amurgul timpuriu."
+            ],
+            "en": [
+              "Good gloves and a hat under your helmet are mandatory in winter.",
+              "Watch out for road salt, which can corrode your chain and brakes.",
+              "Braking distances can be longer on cold or damp roads.",
+              "Ensure your light batteries are fully charged as cold drains them faster.",
+              "Wear clothing with reflectors for the early winter twilight."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -854,6 +1288,196 @@
           "A navigation device will help you find the different clusters easily.",
           "Do not leave valuables visible in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag in Schlieren lässt sich bequem mit dem Auto meistern. Wir parken zentral und besuchen den Stadtplatz sowie die Stadtkirche, die uns trocken empfängt.\n\nMittags geht es zum Stürmeierhuus Museum, wo wir direkt in der Nähe parken können, um dem Regen zu entgehen. Die Ausstellungen bieten ein perfektes Indoor-Programm.\n\nNachmittags fahren wir zum Gaswerk-Areal. Vom Parkplatz aus sind es nur wenige Schritte zum beeindruckenden Gasometer und den historischen Industriegebäuden.\n\nZum Abschluss genießen wir die Fahrt zum Limmatraum. Auch aus dem Auto oder bei einem kurzen Gang zum Ufer bietet der Fluss bei Regen einen faszinierenden Anblick.",
+            "hu": "Egy esős nap Schlierenben kényelmesen felfedezhető autóval. A központban parkolunk, majd meglátogatjuk a főteret és a városi templomot, mely menedéket nyújt.\n\nDélben a Stürmeierhuus Múzeumhoz hajtunk, ahol a közelben tudunk parkolni, így elkerülve az esőt. A kiállítások tökéletes beltéri programot kínálnak.\n\nDélután a gázgyári negyedbe megyünk. A parkolótól csak pár lépés a lenyűgöző Gasometer és a történelmi ipari épületek sora.\n\nBefejezésül a Limmat-part felé autózunk. A folyó az esőben is különleges látványt nyújt, akár az autóból, akár egy rövid parti séta során nézzük.",
+            "ro": "O zi ploioasă în Schlieren poate fi parcursă confortabil cu mașina. Parcăm central și vizităm piața orașului și biserica, care ne primește la adăpost.\n\nLa prânz mergem la Muzeul Stürmeierhuus, unde putem parca chiar în apropiere pentru a evita ploaia. Expozițiile oferă un program indoor perfect.\n\nDupă-amiaza conducem spre zona Gaswerk. De la parcare sunt doar câțiva pași până la impresionantul Gasometru și clădirile industriale istorice.\n\nLa final, ne bucurăm de o plimbare spre Limmatraum. Chiar și din mașină sau la o scurtă ieșire pe mal, râul oferă o priveliște fascinantă pe ploaie.",
+            "en": "A rainy day in Schlieren is easy to navigate by car. We park centrally and visit the Town Square and the City Church, which keeps us dry and comfortable.\n\nAt midday, we drive to the Stürmeierhuus Museum, where nearby parking allows us to avoid the downpour. The exhibitions are a perfect indoor activity.\n\nIn the afternoon, we head to the Gaswerk area. From the parking lot, it's just a few steps to the impressive Gasometer and the historic industrial structures.\n\nTo wrap up, we enjoy a drive to the Limmatraum. Even from the car or during a short walk to the bank, the river offers a moody and fascinating view in the rain."
+          },
+          "stops": [
+            {
+              "name": "Parking Schlieren Center",
+              "tip_5lang": {
+                "de": "Überdachte Parkplätze suchen, um beim Aussteigen trocken zu bleiben.",
+                "hu": "Keressen fedett parkolóhelyet, hogy kiszálláskor ne ázzon meg.",
+                "ro": "Căutați locuri de parcare acoperite pentru a rămâne uscat la coborâre.",
+                "en": "Look for covered parking spots to stay dry when getting out of the car."
+              }
+            },
+            {
+              "name": "Town Square & City Church Schlieren",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz; ein Taschenschirm ist hier nützlich.",
+                "hu": "Rövid séta a parkolótól; egy összecsukható esernyő jól jöhet.",
+                "ro": "Drum scurt de la parcare; o umbrelă de buzunar este utilă aici.",
+                "en": "Short walk from the parking lot; a pocket umbrella is useful here."
+              }
+            },
+            {
+              "name": "Stürmeierhuus Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz, um die Zeit im Regen zu minimieren.",
+                "hu": "Használja a közeli parkolót, hogy minél kevesebb időt töltsön az esőben.",
+                "ro": "Folosiți parcarea din apropiere pentru a minimiza timpul petrecut în ploaie.",
+                "en": "Use the nearby parking to minimize time spent out in the rain."
+              }
+            },
+            {
+              "name": "Parking Gaswerk Area",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf dem oft unebenen Gelände.",
+                "hu": "Ügyeljen a tócsákra a helyenként egyenetlen talajon.",
+                "ro": "Atenție la bălțile de pe terenul adesea denivelat.",
+                "en": "Watch out for puddles on the often uneven ground in this area."
+              }
+            },
+            {
+              "name": "Gasometer & Gaswerk Schlieren",
+              "tip_5lang": {
+                "de": "Beeindruckende Fotomotive auch bei trübem Regenwetter.",
+                "hu": "Lenyűgöző fotótémák még borongós, esős időben is.",
+                "ro": "Subiecte foto impresionante chiar și pe vreme ploioasă și mohorâtă.",
+                "en": "Impressive photo opportunities even in gloomy, rainy weather."
+              }
+            },
+            {
+              "name": "Drive to Limmatraum & Schliere-Badi",
+              "tip_5lang": {
+                "de": "Die Fahrt am Fluss entlang bietet auch bei Regen schöne Ausblicke.",
+                "hu": "A folyó menti autózás esőben is szép kilátást nyújt.",
+                "ro": "Drumul de-a lungul râului oferă vederi frumoase chiar și pe ploaie.",
+                "en": "The drive along the river offers beautiful views even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer für optimale Sicht.",
+              "In Schlieren gibt es mehrere Parkhäuser, die Schutz vor Regen bieten.",
+              "Halten Sie einen Regenschirm im Auto für die Wege zu den Sehenswürdigkeiten bereit.",
+              "Fahren Sie vorsichtig, da die Sicht bei starkem Regen eingeschränkt sein kann.",
+              "Nutzen Sie Park-Apps, um das Bezahlen im Regen am Automaten zu vermeiden."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlők állapotát az optimális kilátás érdekében.",
+              "Schlierenben több parkolóház is található, amely védelmet nyújt az eső ellen.",
+              "Tartson esernyőt az autóban a látnivalókhoz vezető rövid sétákhoz.",
+              "Vezessen óvatosan, mert heves esőben a látási viszonyok korlátozottak lehetnek.",
+              "Használjon parkolási alkalmazást, hogy ne kelljen az esőben az automatánál fizetni."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor pentru o vizibilitate optimă.",
+              "În Schlieren există mai multe parcări supraetajate care oferă protecție contra ploii.",
+              "Țineți o umbrelă în mașină pentru drumurile spre obiectivele turistice.",
+              "Conduceți cu prudență, deoarece vizibilitatea poate fi redusă pe ploaie torențială.",
+              "Folosiți aplicații de parcare pentru a evita plata la automat pe ploaie."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers for optimal visibility.",
+              "There are several multi-story car parks in Schlieren offering rain protection.",
+              "Keep an umbrella in the car for the short walks to the sights.",
+              "Drive carefully as visibility can be significantly reduced during heavy rain.",
+              "Use parking apps to avoid having to pay at machines out in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Schlieren im Winter lässt sich wunderbar mit dem Auto erkunden. Wir starten zentral am Stadtplatz, wo wir die festliche Beleuchtung bewundern können.\n\nMittags bietet das Stürmeierhuus Museum eine angenehme Pause in der Wärme. Die kurzen Wege vom Auto zu den Gebäuden sind bei Frost ideal.\n\nNachmittags führt die Fahrt zum Gaswerk-Areal. Die industrielle Kulisse wirkt im klaren Winterlicht besonders scharfkantig und imposant.\n\nZum Ausklang fahren wir zur Limmat. Der Blick auf den winterlichen Fluss und den Limmatraum ist besonders in der frühen blauen Stunde vor dem Sonnenuntergang magisch.",
+            "hu": "A téli Schlieren csodásan felfedezhető autóval. A központban, a főtérnél kezdünk, ahol megcsodálhatjuk az ünnepi fényeket.\n\nDélben a Stürmeierhuus Múzeum kínál kellemes pihenőt a melegben. A fagyos időben ideálisak az autótól az épületekig tartó rövid séták.\n\nDélután a gázgyári negyedbe autózunk. Az ipari környezet a tiszta téli fényben különösen élesnek és tekintélyt parancsolónak tűnik.\n\nA nap végén a Limmat felé vesszük az irányt. A téli folyó és a Limmatraum látványa, különösen a naplemente előtti kék órában, varázslatos.",
+            "ro": "Schlieren pe timp de iarnă poate fi explorat minunat cu mașina. Începem central în piața orașului, unde putem admira luminile festive.\n\nLa prânz, Muzeul Stürmeierhuus oferă o pauză plăcută la căldură. Distanțele scurte de la mașină la clădiri sunt ideale pe ger.\n\nDupă-amiaza conducem spre zona Gaswerk. Decorul industrial pare deosebit de bine definit și impunător în lumina clară de iarnă.\n\nLa final mergem spre râul Limmat. Vederea râului înghețat și a zonei Limmatraum este magică, mai ales în 'ora albastră' înainte de apus.",
+            "en": "Schlieren in winter is a delight to explore by car. We start at the Town Square, where we can enjoy the festive winter atmosphere and lights.\n\nAt midday, the Stürmeierhuus Museum provides a warm haven. The short distances from the car to the buildings are ideal during freezing weather.\n\nIn the afternoon, drive to the Gaswerk area. The industrial backdrop looks particularly sharp and imposing in the clear winter light.\n\nTo finish, head to the Limmat river. The view of the wintry river and the Limmatraum is magical, especially during the 'blue hour' just before sunset."
+          },
+          "stops": [
+            {
+              "name": "Parking Schlieren Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis bei der Ein- und Ausfahrt von Parkhäusern.",
+                "hu": "Ügyeljen a jegesedésre a parkolóházak be- és kijáratánál.",
+                "ro": "Atenție la polei la intrarea și ieșirea din parcările supraetajate.",
+                "en": "Watch out for black ice when entering and exiting parking garages."
+              }
+            },
+            {
+              "name": "Town Square & City Church Schlieren",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Atmosphäre bei einem kurzen Gang zur Kirche.",
+                "hu": "Élvezze a téli hangulatot a templomhoz vezető rövid séta során.",
+                "ro": "Bucurați-vă de atmosfera de iarnă în timpul scurtului drum spre biserică.",
+                "en": "Enjoy the wintry atmosphere during the short walk to the church."
+              }
+            },
+            {
+              "name": "Stürmeierhuus Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Fahrten aufzuwärmen.",
+                "hu": "Ideális helyszín a felmelegedésre az autós szakaszok között.",
+                "ro": "Un loc ideal pentru a vă încălzi între etapele de condus.",
+                "en": "An ideal place to warm up between the different stages of your drive."
+              }
+            },
+            {
+              "name": "Parking Gaswerk Area",
+              "tip_5lang": {
+                "de": "Der Boden kann hier bei Frost sehr uneben und rutschig sein.",
+                "hu": "A talaj fagy esetén itt nagyon egyenetlen és csúszós lehet.",
+                "ro": "Solul poate fi foarte denivelat și alunecos aici în caz de ger.",
+                "en": "The ground here can be very uneven and slippery during frosty conditions."
+              }
+            },
+            {
+              "name": "Gasometer & Gaswerk Schlieren",
+              "tip_5lang": {
+                "de": "Das klare Licht sorgt für exzellente Fotos der Stahlstrukturen.",
+                "hu": "A tiszta fény kiváló fotókat eredményez az acélszerkezetekről.",
+                "ro": "Lumina clară asigură fotografii excelente ale structurilor de oțel.",
+                "en": "The clear light provides excellent photo opportunities of the steel structures."
+              }
+            },
+            {
+              "name": "Drive to Limmatraum & Schliere-Badi",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung für eine gemütliche Fahrt am Fluss entlang.",
+                "hu": "Használja az ülésfűtést a folyó menti hangulatos autózáshoz.",
+                "ro": "Folosiți încălzirea în scaune pentru un drum confortabil pe lângă râu.",
+                "en": "Turn on the seat heating for a cozy drive along the river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Auto wintertauglich ausgerüstet ist.",
+              "Halten Sie Enteiser-Spray und einen Eiskratzer griffbereit.",
+              "Achten Sie auf Brücken auf mögliche Glätte durch Feuchtigkeit vom Fluss.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche ein, falls Schnee liegt.",
+              "Die Batterieleistung kann bei extremer Kälte nachlassen; prüfen Sie diese vorab."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy autója fel van készítve a téli útviszonyokra.",
+              "Tartson jégoldó spray-t és jégkaparót az autóban.",
+              "A hidakon ügyeljen az esetleges jegesedésre a folyó felőli pára miatt.",
+              "Számoljon több idővel a parkolásra, ha hó fedi az utakat.",
+              "Extrém hidegben az akkumulátor teljesítménye csökkenhet; ellenőrizze előre."
+            ],
+            "ro": [
+              "Asigurați-vă că mașina este echipată corespunzător pentru iarnă.",
+              "Țineți la îndemână un spray de dezghețare și o racletă pentru gheață.",
+              "Atenție la poduri pentru eventualul polei cauzat de umiditatea râului.",
+              "Planificați mai mult timp pentru găsirea unui loc de parcare dacă este zăpadă.",
+              "Performanța bateriei poate scădea la frig extrem; verificați-o în prealabil."
+            ],
+            "en": [
+              "Ensure your car is properly equipped for winter driving conditions.",
+              "Keep de-icer spray and an ice scraper handy in the vehicle.",
+              "Be extra careful on bridges as they can freeze faster due to river moisture.",
+              "Allow more time for parking if there is significant snow on the ground.",
+              "Battery performance can drop in extreme cold; check yours beforehand."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1117,6 +1741,196 @@
           "A day ticket is usually cheaper than several single tickets.",
           "Pay attention to departure times to avoid long waits."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag in Schlieren lässt sich dank des guten ÖV-Netzes trocken erleben. Wir kommen am Bahnhof an und erreichen schnell den Stadtplatz und die Kirche.\n\nMittags bringt uns der Bus fast direkt vor das Stürmeierhuus Museum. So bleiben wir trocken, während wir die kulturellen Schätze entdecken.\n\nNachmittags fahren wir mit dem Bus zum Gaswerk-Areal. Die kurzen Wege von der Haltestelle zu den Gasometern machen die Besichtigung auch bei Regen angenehm.\n\nZum Abschluss führt eine kurze Busfahrt in die Nähe der Limmat. Der kurze Spaziergang zum Fluss lohnt sich auch bei Regen für die besondere Stimmung am Wasser.",
+            "hu": "Egy esős nap Schlierenben a kiváló tömegközlekedésnek köszönhetően szárazon is élvezhető. Megérkezünk a vasútállomásra, majd gyorsan elérjük a főteret.\n\nDélben a busz szinte közvetlenül a Stürmeierhuus Múzeum előtt tesz le minket. Így szárazon fedezhetjük fel a kulturális kincseket.\n\nDélután busszal megyünk a gázgyári negyedbe. A megállótól a Gasometerig tartó rövid séta esőben is vállalható és kényelmes.\n\nBefejezésül egy rövid buszút visz a Limmat közelébe. A folyóhoz vezető pár perces séta esőben is megéri a vízparti hangulat miatt.",
+            "ro": "O zi ploioasă în Schlieren poate fi petrecută la adăpost datorită transportului public excelent. Sosim la gară și ajungem rapid în piața orașului.\n\nLa prânz, autobuzul ne lasă aproape direct în fața Muzeului Stürmeierhuus. Astfel rămânem uscați în timp ce descoperim comorile culturale.\n\nDupă-amiaza mergem cu autobuzul spre zona Gaswerk. Distanțele scurte de la stație până la Gasometru fac vizita plăcută chiar și pe ploaie.\n\nLa final, o scurtă călătorie cu autobuzul ne duce aproape de râul Limmat. Scurta plimbare spre râu merită efortul pentru atmosfera specială de pe mal.",
+            "en": "A rainy day in Schlieren is easy to handle thanks to the excellent public transport network. Arriving at the station, we quickly reach the Town Square.\n\nAt midday, the bus drops us off almost directly in front of the Stürmeierhuus Museum. This way, we stay dry while discovering local cultural treasures.\n\nIn the afternoon, we take the bus to the Gaswerk area. The short walks from the bus stops to the Gasometers make sightseeing comfortable even in the rain.\n\nTo wrap up, a short bus ride takes us near the Limmat. The brief walk to the river is worth it for the unique atmosphere by the water, even when it's raining."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Schlieren Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Unterführungen am Bahnhof, um dem Regen auszuweichen.",
+                "hu": "Használja az állomási aluljárókat az eső elkerülésére.",
+                "ro": "Folosiți pasajele subterane de la gară pentru a evita ploaia.",
+                "en": "Use the station's underpasses to avoid the rain while navigating."
+              }
+            },
+            {
+              "name": "Town Square & City Church",
+              "tip_5lang": {
+                "de": "Zentrale Haltestellen befinden sich in unmittelbarer Nähe zum Platz.",
+                "hu": "A központi megállók közvetlenül a tér közelében találhatók.",
+                "ro": "Stațiile centrale se află în imediata apropiere a pieței.",
+                "en": "Central bus stops are located in the immediate vicinity of the square."
+              }
+            },
+            {
+              "name": "Stürmeierhuus Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Busfrequenz, um die Wartezeit im Freien zu minimieren.",
+                "hu": "Ellenőrizze a buszjáratok sűrűségét, hogy minimálisra csökkentse a kinti várakozást.",
+                "ro": "Verificați frecvența autobuzelor pentru a minimiza așteptarea în aer liber.",
+                "en": "Check bus frequencies to minimize waiting time outdoors."
+              }
+            },
+            {
+              "name": "Bus ride to the Gaswerk",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Stadt bequem vom trockenen Bus aus.",
+                "hu": "Élvezze a városra nyíló kilátást kényelmesen a száraz buszból.",
+                "ro": "Bucurați-vă de vederea spre oraș din confortul autobuzului.",
+                "en": "Enjoy the city views comfortably from the dry environment of the bus."
+              }
+            },
+            {
+              "name": "Gasometer",
+              "tip_5lang": {
+                "de": "Nahegelegene Bushaltestellen erleichtern den Zugang bei schlechtem Wetter.",
+                "hu": "A közeli buszmegállók megkönnyítik a bejutást rossz idő esetén is.",
+                "ro": "Stațiile de autobuz din apropiere facilitează accesul pe vreme rea.",
+                "en": "Nearby bus stops facilitate easy access even during bad weather."
+              }
+            },
+            {
+              "name": "Bus ride & walk to the Limmat",
+              "tip_5lang": {
+                "de": "Ein kleiner Schirm für den letzten kurzen Fußweg ist ratsam.",
+                "hu": "Egy kis esernyő ajánlott az utolsó rövid gyalogos szakaszhoz.",
+                "ro": "O umbrelă mică este recomandată pentru ultima porțiune de drum.",
+                "en": "A small umbrella is advisable for the final short walking stretch."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die SBB-App für Echtzeit-Infos zu Anschlüssen.",
+              "Die meisten Bushaltestellen in Schlieren sind überdacht.",
+              "Ein Tagespass für den ZVV lohnt sich für diese Route besonders.",
+              "Vermeiden Sie die Stoßzeiten für eine entspanntere Fahrt.",
+              "Der Bahnhof Schlieren bietet Kioske für kurze Aufwärmpausen."
+            ],
+            "hu": [
+              "Használja az SBB alkalmazást a csatlakozások valós idejű követéséhez.",
+              "Schlierenben a legtöbb buszmegálló fedett.",
+              "Egy ZVV napijegy ezen az útvonalon különösen megéri.",
+              "A nyugodtabb utazás érdekében kerülje a csúcsidőszakokat.",
+              "A schlieren-i vasútállomás üzletei alkalmasak egy rövid felmelegedésre."
+            ],
+            "ro": [
+              "Folosiți aplicația SBB pentru informații în timp real despre conexiuni.",
+              "Majoritatea stațiilor de autobuz din Schlieren sunt acoperite.",
+              "Un abonament de o zi ZVV merită din plin pentru acest traseu.",
+              "Evitați orele de vârf pentru o călătorie mai relaxată.",
+              "Gara Schlieren oferă chioșcuri pentru scurte pauze de încălzire."
+            ],
+            "en": [
+              "Use the SBB app for real-time information on connections.",
+              "Most bus stops in Schlieren are covered and offer rain protection.",
+              "A ZVV day pass is particularly worthwhile for this itinerary.",
+              "Avoid peak travel times for a more relaxed journey.",
+              "Schlieren station has kiosks where you can warm up briefly."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Schlieren entspannt mit Bus und Bahn. Nach der Ankunft am Bahnhof erreichen wir schnell die Stadtkirche und den gemütlichen Stadtplatz.\n\nMittags bringt uns der ÖV direkt zum Stürmeierhuus Museum. In den beheizten Bussen lässt es sich wunderbar aufwärmen, bevor wir die Kultur genießen.\n\nNachmittags geht es zum Gaswerk-Areal. Die kurzen Wege von den Haltestellen sind bei Frost ideal, um den imposanten Gasometer zu besichtigen.\n\nBevor es dunkel wird, fahren wir Richtung Limmat. Der frostige Limmatraum ist ein winterliches Highlight, das wir bequem mit dem Bus erreichen können.",
+            "hu": "Fedezze fel a téli Schlierent kényelmesen busszal és vonattal. Az állomásra érkezés után gyorsan elérjük a városi templomot és a barátságos főteret.\n\nDélben a tömegközlekedés egyenesen a Stürmeierhuus Múzeumhoz visz. A fűtött buszokon jól felmelegedhetünk, mielőtt elmerülnénk a kultúrában.\n\nDélután a gázgyári negyed felé vesszük az irányt. A megállóktól tartó rövid séta fagyban is ideális a Gasometer megtekintéséhez.\n\nMielőtt besötétedne, a Limmat felé utazunk. A fagyos Limmatraum téli fénypont, melyet kényelmesen elérhetünk busszal.",
+            "ro": "Explorați Schlieren pe timp de iarnă relaxat, cu autobuzul și trenul. După sosirea la gară, ajungem rapid la biserică și în piața primitoare a orașului.\n\nLa prânz, transportul public ne duce direct la Muzeul Stürmeierhuus. În autobuzele încălzite vă puteți încălzi de minune înainte de vizită.\n\nDupă-amiaza mergem spre zona Gaswerk. Distanțele scurte de la stații sunt ideale pe ger pentru a vizita impunătorul Gasometru.\n\nÎnainte de lăsarea întunericului, mergem spre Limmat. Zona înghețată Limmatraum este un punct culminant de iarnă, accesibil ușor cu autobuzul.",
+            "en": "Explore wintry Schlieren comfortably by bus and train. After arriving at the station, we quickly reach the City Church and the cozy Town Square.\n\nAt midday, public transport takes us directly to the Stürmeierhuus Museum. The heated buses are perfect for warming up before enjoying the culture.\n\nIn the afternoon, head to the Gaswerk area. The short walks from the stops are ideal in freezing weather for visiting the imposing Gasometer.\n\nBefore it gets dark, we head towards the Limmat. The frosty Limmatraum is a winter highlight that can be easily reached by bus."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Schlieren Station",
+              "tip_5lang": {
+                "de": "Warten Sie in den beheizten Wartebereichen oder Cafés am Bahnhof.",
+                "hu": "Várakozzon a fűtött várótermekben vagy a vasútállomás kávézóiban.",
+                "ro": "Așteptați în zonele de așteptare încălzite sau la cafenelele din gară.",
+                "en": "Wait in the heated waiting areas or cafes at the station."
+              }
+            },
+            {
+              "name": "Town Square & City Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf geräumte Gehwege zwischen den Haltestellen.",
+                "hu": "Figyeljen a megállók közötti letakarított járdákra.",
+                "ro": "Atenție la trotuarele curățate între stațiile de transport.",
+                "en": "Look for cleared footpaths between the various transport stops."
+              }
+            },
+            {
+              "name": "Stürmeierhuus Museum",
+              "tip_5lang": {
+                "de": "Der Bus hält sehr nah am Eingang; ideal bei großer Kälte.",
+                "hu": "A busz nagyon közel áll meg a bejárathoz; ideális nagy hidegben.",
+                "ro": "Autobuzul oprește foarte aproape de intrare; ideal în caz de ger.",
+                "en": "The bus stops very close to the entrance; ideal for very cold days."
+              }
+            },
+            {
+              "name": "Bus ride to the Gaswerk",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrtzeit, um Ihre Hände aufzuwärmen.",
+                "hu": "Használja ki az utazási időt a kezei felmelegítésére.",
+                "ro": "Folosiți timpul de parcurs pentru a vă încălzi mâinile.",
+                "en": "Use the travel time to warm up your hands inside the vehicle."
+              }
+            },
+            {
+              "name": "Gasometer",
+              "tip_5lang": {
+                "de": "Kurzer Besuch im Freien und schneller Rückweg zur Haltestelle.",
+                "hu": "Rövid kinti látogatás, majd gyors visszatérés a megállóba.",
+                "ro": "Vizită scurtă în aer liber și întoarcere rapidă la stație.",
+                "en": "Keep your outdoor visit short and return quickly to the bus stop."
+              }
+            },
+            {
+              "name": "Bus ride & walk to the Limmat",
+              "tip_5lang": {
+                "de": "Die letzte Busverbindung vor Einbruch der Dunkelheit ist ideal.",
+                "hu": "A sötétedés előtti utolsó buszjárat a legideálisabb.",
+                "ro": "Ultima conexiune de autobuz înainte de lăsarea serii este ideală.",
+                "en": "The last bus connection before nightfall is ideal for this stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "ÖV-Fahrzeuge sind im Winter gut beheizt; ideal zum Aufwärmen.",
+              "Beachten Sie mögliche witterungsbedingte Verspätungen im Fahrplan.",
+              "Tragen Sie Schuhe mit gutem Profil für die Wege zu den Haltestellen.",
+              "Nutzen Sie die Fahrplanaushänge an den Haltestellen für die nächste Abfahrt.",
+              "Ein heißer Tee in der Thermoskanne ist ein guter Begleiter für unterwegs."
+            ],
+            "hu": [
+              "A közösségi közlekedési eszközök télen jól fűtöttek; ideálisak a melegedésre.",
+              "Számoljon az időjárás miatti esetleges menetrendi késésekkel.",
+              "Viseljen jó tapadású cipőt a megállókhoz vezető sétákhoz.",
+              "Használja a megállókban kihelyezett menetrendeket a következő induláshoz.",
+              "Egy termoszban lévő forró tea jó kísérő lehet az út során."
+            ],
+            "ro": [
+              "Vehiculele de transport public sunt bine încălzite; ideale pentru încălzire.",
+              "Țineți cont de posibilele întârzieri cauzate de vreme în program.",
+              "Purtați încălțăminte cu talpă aderentă pentru drumurile spre stații.",
+              "Folosiți orarele afișate în stații pentru următoarea plecare.",
+              "Un ceai fierbinte într-un termos este un companion bun pe drum."
+            ],
+            "en": [
+              "Public transport vehicles are well-heated in winter; ideal for warming up.",
+              "Be aware of potential weather-related delays in the schedule.",
+              "Wear shoes with good grip for the walks to and from the stops.",
+              "Check the timetables posted at the stops for the next departure.",
+              "A hot tea in a thermos is a great companion for your journey."
+            ]
+          }
+        }
       }
     }
   }

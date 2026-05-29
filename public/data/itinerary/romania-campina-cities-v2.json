@@ -402,6 +402,224 @@
           "Most attractions are close to each other, making a full day of walking very feasible.",
           "Plan your lunch around the castle area as there are several good options there."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens trotzen wir dem Regen am Kirschbaumbrunnen und finden erste Zuflucht in der Dreifaltigkeitskirche. Mittags bieten das Grigorescu-Haus und das Schloss von Iulia Hasdeu perfekten Schutz und faszinierende Innenräume. Am Nachmittag nutzen wir die Regenpausen im Soceram-Park. Den Tag beenden wir mit einem wolkenverhangenen, aber stimmungsvollen Blick vom Muscel-Hügel.",
+            "hu": "Reggel az eső ellenére kezdünk a Cseresznyefa-kútnál, majd a Szentháromság-templomban keresünk menedéket. Délben a Grigorescu-ház és a Hasdeu-kastély belső terei nyújtanak száraz és lenyűgöző élményt. Délután a Soceram parkban sétálunk a záporok között. A napot a Muscel-dombon zárjuk, ahol az esernyő alól is szép a ködös panoráma.",
+            "ro": "Dimineața înfruntăm ploaia la Fântâna cu Cireș, găsind refugiu în Biserica Sfânta Treime. La prânz, Casa Grigorescu și Castelul Iulia Hasdeu oferă adăpost perfect și interioare fascinante. După-amiaza profităm de pauzele dintre averse în Parcul Soceram. Încheiem ziua cu o priveliște atmosferică de pe Dealul Muscel, sub protecția umbrelei.",
+            "en": "In the morning, we brave the rain at the Cherry Tree Fountain before finding shelter in Holy Trinity Church. At noon, the Grigorescu House and Iulia Hasdeu Castle offer perfect dry sanctuaries with fascinating interiors. In the afternoon, we catch the breaks between showers in Soceram Park. We end the day with a misty, atmospheric view from Muscel Hill."
+          },
+          "stops": [
+            {
+              "name": "Cherry Tree Fountain",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen rund um den Brunnen.",
+                "hu": "Vigyázz a tócsákra a kút körül.",
+                "ro": "Atenție la bălțile din jurul fântânii.",
+                "en": "Watch out for puddles around the fountain."
+              }
+            },
+            {
+              "name": "Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den ersten Schauer abzuwarten.",
+                "hu": "Csendes hely az első zápor kivárására.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea primei averse.",
+                "en": "A quiet place to wait out the first shower."
+              }
+            },
+            {
+              "name": "Nicolae Grigorescu Memorial House",
+              "tip_5lang": {
+                "de": "Warme, trockene Ateliers voller Licht.",
+                "hu": "Meleg, száraz műtermek tele fénnyel.",
+                "ro": "Ateliere calde și uscate, pline de lumină.",
+                "en": "Warm, dry studios full of light."
+              }
+            },
+            {
+              "name": "B.P. Hasdeu Memorial Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich.",
+                "hu": "Használd a fedett bejárati részt.",
+                "ro": "Folosiți zona de intrare acoperită.",
+                "en": "Use the covered entrance area."
+              }
+            },
+            {
+              "name": "Iulia Hasdeu Castle",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten den Regen draußen.",
+                "hu": "A vastag falak kint tartják az esőt.",
+                "ro": "Zidurile groase țin ploaia la distanță.",
+                "en": "The thick walls keep the rain outside."
+              }
+            },
+            {
+              "name": "Soceram Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege bleiben gut begehbar.",
+                "hu": "Az aszfaltozott utak jól járhatóak maradnak.",
+                "ro": "Aleile asfaltate rămân ușor de parcurs.",
+                "en": "The paved paths remain easily walkable."
+              }
+            },
+            {
+              "name": "St. Nicholas Wooden Church",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Holzstufen.",
+                "hu": "Vigyázz a csúszós falépcsőkön.",
+                "ro": "Atenție la treptele de lemn alunecoase.",
+                "en": "Be careful on the slippery wooden steps."
+              }
+            },
+            {
+              "name": "Muscel Hill",
+              "tip_5lang": {
+                "de": "Wiesenflecken meiden, auf festem Grund bleiben.",
+                "hu": "Kerüld a füves részeket, maradj a szilárd talajon.",
+                "ro": "Evitați zonele cu iarbă, rămâneți pe teren solid.",
+                "en": "Avoid grassy patches, stay on firm ground."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Wege zwischen den Museen.",
+              "Die Museen Grigorescu und Hasdeu sind ideale Rückzugsorte bei starkem Regen.",
+              "Ein großer Regenschirm ist wegen der offenen Flächen im Soceram Park ratsam.",
+              "Taxis sind in Câmpina günstig, falls der Regen zu stark für den Rückweg wird."
+            ],
+            "hu": [
+              "Viselj vízálló cipőt a múzeumok közötti sétákhoz.",
+              "A Grigorescu és Hasdeu múzeumok ideális menedékek heves esőzéskor.",
+              "A Soceram park nyílt terei miatt egy nagy esernyő ajánlott.",
+              "A taxi olcsó Câmpinában, ha az eső túl erőssé válna a visszaúthoz."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru drumul dintre muzee.",
+              "Muzeele Grigorescu și Hasdeu sunt refugii ideale în caz de ploaie torențială.",
+              "O umbrelă mare este recomandată din cauza spațiilor deschise din Parcul Soceram.",
+              "Taxiurile sunt ieftine în Câmpina dacă ploaia devine prea puternică pentru mersul pe jos."
+            ],
+            "en": [
+              "Wear waterproof shoes for the walks between museums.",
+              "The Grigorescu and Hasdeu museums are ideal retreats during heavy rain.",
+              "A large umbrella is recommended due to the open spaces in Soceram Park.",
+              "Taxis are affordable in Câmpina if the rain becomes too heavy for the return walk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine kalte Brise am Brunnen, doch die Kirchen bieten bald wohlige Stille. Mittags wärmen wir uns in den geschichtsträchtigen Museen auf, während draußen der Frost glitzert. Nachmittags erleben wir die winterliche Ruhe im Soceram-Park und in der kleinen Holzkirche. Zum Sonnenuntergang bietet der Muscel-Hügel eine klare, eisige Fernsicht auf die Karpatenvorberge.",
+            "hu": "Reggel hideg szél fúj a kútnál, de a templomok hamar meghitt csendet nyújtanak. Délben a nagy múltú múzeumokban melegszünk fel, miközben kint csillog a dér. Délután a Soceram park téli nyugalmát és a kis fatemplomot élvezzük. Naplementekor a Muscel-dombról tiszta, jeges kilátás nyílik a Kárpátok lábaira.",
+            "ro": "Dimineața bate o briză rece la fântână, dar bisericile oferă curând o liniște primitoare. La prânz ne încălzim în muzeele pline de istorie, în timp ce afară strălucește gerul. După-amiaza experimentăm liniștea hibernală din Parcul Soceram și bisericuța de lemn. La apus, Dealul Muscel oferă o panoramă clară și înghețată asupra subcarpaților.",
+            "en": "A cold breeze blows at the fountain in the morning, but the churches soon offer cozy silence. At noon, we warm up in the historic museums while frost glistens outside. In the afternoon, we experience the winter peace of Soceram Park and the small wooden church. At sunset, Muscel Hill provides a clear, icy view of the Carpathian foothills."
+          },
+          "stops": [
+            {
+              "name": "Cherry Tree Fountain",
+              "tip_5lang": {
+                "de": "Achtung vor überfrierender Nässe auf dem Stein.",
+                "hu": "Vigyázz a ráfagyott nedvességre a köveken.",
+                "ro": "Atenție la gheața formată pe piatră.",
+                "en": "Watch out for freezing moisture on the stones."
+              }
+            },
+            {
+              "name": "Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Hinter den dicken Holztüren ist es merklich milder.",
+                "hu": "A vastag fanyílászárók mögött érezhetően enyhébb az idő.",
+                "ro": "În spatele ușilor groase de lemn este mult mai blând.",
+                "en": "It is noticeably milder behind the thick wooden doors."
+              }
+            },
+            {
+              "name": "Nicolae Grigorescu Memorial House",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Haus des Malers.",
+                "hu": "Élvezd a meleget a festő házában.",
+                "ro": "Bucurați-vă de căldura din casa pictorului.",
+                "en": "Enjoy the warmth inside the painter's house."
+              }
+            },
+            {
+              "name": "B.P. Hasdeu Memorial Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine kleine Aufwärmpause.",
+                "hu": "Tökéletes hely egy kis melegedő szünetre.",
+                "ro": "Loc perfect pentru o mică pauză de încălzire.",
+                "en": "Perfect place for a short warming break."
+              }
+            },
+            {
+              "name": "Iulia Hasdeu Castle",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe, das Metallschloss ist kalt.",
+                "hu": "Viselj kesztyűt, a fém kilincsek és zárak hidegek.",
+                "ro": "Purtați mănuși, încuietorile metalice sunt reci.",
+                "en": "Wear gloves, the metal locks and handles are cold."
+              }
+            },
+            {
+              "name": "Soceram Park",
+              "tip_5lang": {
+                "de": "Die Wege können bei Frost sehr glatt sein.",
+                "hu": "Az utak fagy esetén nagyon csúszósak lehetnek.",
+                "ro": "Aleile pot fi foarte alunecoase în caz de îngheț.",
+                "en": "The paths can be very slippery during frost."
+              }
+            },
+            {
+              "name": "St. Nicholas Wooden Church",
+              "tip_5lang": {
+                "de": "Die kleine Kirche strahlt winterliche Geborgenheit aus.",
+                "hu": "A kis templom téli védettséget áraszt.",
+                "ro": "Biserica mică emană o siguranță hibernală.",
+                "en": "The small church exudes winter coziness."
+              }
+            },
+            {
+              "name": "Muscel Hill",
+              "tip_5lang": {
+                "de": "Warme Kleidung nötig für den windigen Gipfel.",
+                "hu": "Meleg ruházat kell a szeles dombtetőhöz.",
+                "ro": "Haine groase necesare pentru vârful vântos.",
+                "en": "Warm clothing needed for the windy hilltop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie das Ende der Tour vor 17:00 Uhr ein, da es früh dunkel wird.",
+              "Tragen Sie Thermo-Einlegesohlen für den Spaziergang auf den kalten Wegen.",
+              "Das Grigorescu-Museum ist besonders gemütlich beheizt.",
+              "In der Nähe des Hasdeu-Schlosses gibt es Cafés für einen heißen Tee."
+            ],
+            "hu": [
+              "Tervezd a túra végét 17:00 előttre, mert korán sötétedik.",
+              "Használj thermo talpbetétet a hideg utakon való sétához.",
+              "A Grigorescu múzeum különösen barátságosan van fűtve.",
+              "A Hasdeu-kastély közelében több kávézó is van egy forró teához."
+            ],
+            "ro": [
+              "Planificați sfârșitul turului înainte de ora 17:00, deoarece se întunecă devreme.",
+              "Folosiți branțuri termice pentru plimbarea pe aleile reci.",
+              "Muzeul Grigorescu este încălzit foarte confortabil.",
+              "Lângă Castelul Hasdeu există cafenele pentru un ceai fierbinte."
+            ],
+            "en": [
+              "Plan the end of your tour before 5:00 PM as it gets dark early.",
+              "Use thermal insoles for the walk on the cold paths.",
+              "The Grigorescu Museum is especially comfortably heated.",
+              "There are cafes near the Hasdeu Castle for a hot tea."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -798,6 +1016,224 @@
           "A lock is essential to leave your bike securely while you visit museums and churches.",
           "The hills can be challenging; shift to a lower gear in time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Radtour durch Câmpina, beginnend am Kirschbaumbrunnen. Wir nutzen die Museen für lange Pausen, während die Räder im Trockenen stehen. Nachmittags fahren wir vorsichtig durch den Soceram-Park. Der Anstieg zum Muscel-Hügel ist bei Regen fordernd, belohnt aber mit einer dramatischen Wolkenstimmung über der Stadt.",
+            "hu": "Esős kerékpártúra Câmpinában, a Cseresznyefa-kúttól indulva. A múzeumokat hosszú szünetekre használjuk, amíg a gépek fedett helyen állnak. Délután óvatosan tekerünk a Soceram parkban. A Muscel-dombra való felkapaszkodás esőben kihívást jelent, de drámai felhőkkel jutalmaz a város felett.",
+            "ro": "Tur cu bicicleta pe ploaie prin Câmpina, începând de la Fântâna cu Cireș. Folosim muzeele pentru pauze lungi, în timp ce bicicletele stau la adăpost. După-amiaza pedalăm cu grijă prin Parcul Soceram. Urcarea pe Dealul Muscel este solicitantă pe ploaie, dar oferă o atmosferă dramatică deasupra orașului.",
+            "en": "A rainy bike tour through Câmpina, starting at the Cherry Tree Fountain. We use the museums for long breaks while the bikes stay sheltered. In the afternoon, we ride carefully through Soceram Park. The climb to Muscel Hill is challenging in the rain but rewards with a dramatic cloud atmosphere over the city."
+          },
+          "stops": [
+            {
+              "name": "Cherry Tree Fountain",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster.",
+                "hu": "Vigyázz a vizes macskakövön.",
+                "ro": "Atenție pe piatra cubică udă.",
+                "en": "Careful on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Rad unter dem Vordach sichern.",
+                "hu": "Zárd a bringát az előtető alá.",
+                "ro": "Asigurați bicicleta sub streașină.",
+                "en": "Secure the bike under the overhang."
+              }
+            },
+            {
+              "name": "Nicolae Grigorescu Memorial House",
+              "tip_5lang": {
+                "de": "Lange Pause nutzen, um Kleidung zu trocknen.",
+                "hu": "Használd a hosszú szünetet a ruhák szárítására.",
+                "ro": "Folosiți pauza lungă pentru a usca hainele.",
+                "en": "Use the long break to dry your clothes."
+              }
+            },
+            {
+              "name": "Iulia Hasdeu Castle",
+              "tip_5lang": {
+                "de": "Gute Bremsen für die Abfahrt nötig.",
+                "hu": "Jó fékek kellenek a lejtőhöz.",
+                "ro": "Frâne bune necesare pentru coborâre.",
+                "en": "Good brakes needed for the descent."
+              }
+            },
+            {
+              "name": "B.P. Hasdeu Memorial Museum",
+              "tip_5lang": {
+                "de": "Radständer im Hof sind teilweise überdacht.",
+                "hu": "Az udvari kerékpártárolók részben fedettek.",
+                "ro": "Suporturile de biciclete din curte sunt parțial acoperite.",
+                "en": "The bike racks in the yard are partially covered."
+              }
+            },
+            {
+              "name": "Soceram Park",
+              "tip_5lang": {
+                "de": "Auf asphaltierten Wegen bleiben, Wiesen sind matschig.",
+                "hu": "Maradj az aszfalton, a fű sáros.",
+                "ro": "Rămâneți pe aleile asfaltate, iarba este noroioasă.",
+                "en": "Stay on paved paths, grass is muddy."
+              }
+            },
+            {
+              "name": "Muscel Hill",
+              "tip_5lang": {
+                "de": "Gänge runterschalten, Rutschgefahr bergauf.",
+                "hu": "Válts kisebb fokozatba, megcsúszhatsz felfelé.",
+                "ro": "Schimbați vitezele, risc de alunecare la deal.",
+                "en": "Downshift gears, risk of slipping uphill."
+              }
+            },
+            {
+              "name": "St. Nicholas Wooden Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Laub.",
+                "hu": "Vigyázz a leszálláskor a vizes leveleken.",
+                "ro": "Atenție la descălecare pe frunzele ude.",
+                "en": "Watch out when dismounting on wet leaves."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter in Câmpina unerlässlich.",
+              "Vermeiden Sie abrupte Bremsmanöver auf den steilen Passagen zum Muscel-Hügel.",
+              "Tragen Sie leuchtende Regenbekleidung, da die Sicht oft eingeschränkt ist.",
+              "Prüfen Sie den Luftdruck; etwas weniger Grip hilft auf nassen Straßen."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyenkor Câmpinában.",
+              "Kerüld a hirtelen fékezést a Muscel-domb felé vezető meredek szakaszokon.",
+              "Viselj fényvisszaverő esőruhát, mert a látási viszonyok korlátozottak.",
+              "Ellenőrizd a guminyomást; a kevesebb levegő jobb tapadást ad a vizes úton."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe acest tip de vreme în Câmpina.",
+              "Evitați frânările bruște pe secțiunile abrupte spre Dealul Muscel.",
+              "Purtați haine de ploaie reflectorizante, vizibilitatea este adesea redusă.",
+              "Verificați presiunea în pneuri; o presiune mai mică ajută la aderența pe drum ud."
+            ],
+            "en": [
+              "Mudguards are essential in Câmpina during this weather.",
+              "Avoid sudden braking on the steep sections towards Muscel Hill.",
+              "Wear high-visibility rain gear as visibility is often limited.",
+              "Check tire pressure; slightly lower pressure helps with grip on wet roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Klirrende Kälte begleitet uns auf zwei Rädern vorbei an den Sehenswürdigkeiten von Câmpina. Wir genießen die Ruhe vor dem Hasdeu-Schloss und die klare Winterluft. Nachmittags ist die Fahrt durch den Soceram-Park erfrischend, erfordert aber Konzentration wegen möglicher Eisstellen. Den Tag krönen wir mit einer frostigen Auffahrt zum Muscel-Hügel.",
+            "hu": "Metsző hideg kísér minket két keréken Câmpina látnivalói mellett. Élvezzük a Hasdeu-kastély előtti csendet és a tiszta téli levegőt. Délután frissítő a tekerés a Soceram parkban, de koncentrációt igényel a jeges foltok miatt. A napot a fagyos feltekeréssel koronázzuk meg a Muscel-dombra.",
+            "ro": "Un frig pătrunzător ne însoțește pe două roți pe lângă atracțiile din Câmpina. Ne bucurăm de liniștea din fața Castelului Hasdeu și de aerul curat de iarnă. După-amiaza, plimbarea prin Parcul Soceram este revigorantă, dar necesită concentrare din cauza posibilei gheți. Coronăm ziua cu o urcare înghețată pe Dealul Muscel.",
+            "en": "Piercing cold accompanies us on two wheels past Câmpina's sights. We enjoy the silence in front of the Hasdeu Castle and the crisp winter air. In the afternoon, the ride through Soceram Park is refreshing but requires concentration due to potential icy patches. We crown the day with a frosty climb up Muscel Hill."
+          },
+          "stops": [
+            {
+              "name": "Cherry Tree Fountain",
+              "tip_5lang": {
+                "de": "Wasserreste am Boden können gefroren sein.",
+                "hu": "A víznyomok a földön le lehetnek fagyva.",
+                "ro": "Resturile de apă de pe jos pot fi înghețate.",
+                "en": "Water residues on the ground may be frozen."
+              }
+            },
+            {
+              "name": "Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Händewärmen im Inneren.",
+                "hu": "Rövid megálló bent a kézmelegítéshez.",
+                "ro": "Oprire scurtă pentru a vă încălzi mâinile în interior.",
+                "en": "Short stop to warm your hands inside."
+              }
+            },
+            {
+              "name": "Nicolae Grigorescu Memorial House",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Museum ist oft gestreut.",
+                "hu": "A múzeumhoz vezető út gyakran fel van szórva.",
+                "ro": "Aleea spre muzeu este adesea presărată cu material antiderapant.",
+                "en": "The driveway to the museum is often salted/sanded."
+              }
+            },
+            {
+              "name": "Iulia Hasdeu Castle",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eiszapfen an den Dachrinnen.",
+                "hu": "Vigyázz az ereszekről lógó jégcsapokra.",
+                "ro": "Atenție la țurțurii de pe jgheaburi.",
+                "en": "Watch out for icicles on the gutters."
+              }
+            },
+            {
+              "name": "B.P. Hasdeu Memorial Museum",
+              "tip_5lang": {
+                "de": "Schloss im Winter besonders mystisch im Nebel.",
+                "hu": "A kastély télen különösen misztikus a ködben.",
+                "ro": "Castelul este deosebit de mistic în ceața iernii.",
+                "en": "The castle is especially mystical in winter fog."
+              }
+            },
+            {
+              "name": "Soceram Park",
+              "tip_5lang": {
+                "de": "Auf geraden Strecken bleiben, Kurven meiden.",
+                "hu": "Maradj az egyenes szakaszokon, kerüld a kanyarokat.",
+                "ro": "Rămâneți pe secțiunile drepte, evitați virajele strânse.",
+                "en": "Stay on straight sections, avoid sharp turns."
+              }
+            },
+            {
+              "name": "Muscel Hill",
+              "tip_5lang": {
+                "de": "Blick auf die schneebedeckten Berge genießen.",
+                "hu": "Élvezd a kilátást a hófödte hegyekre.",
+                "ro": "Bucurați-vă de vederea spre munții înzăpeziți.",
+                "en": "Enjoy the view of the snow-covered mountains."
+              }
+            },
+            {
+              "name": "St. Nicholas Wooden Church",
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der Abfahrt ins Tal.",
+                "hu": "Utolsó megálló a völgybe való legurulás előtt.",
+                "ro": "Ultima oprire înainte de coborârea în vale.",
+                "en": "Last stop before descending into the valley."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Dicke Winterhandschuhe sind wegen des Fahrtwinds absolut notwendig.",
+              "Achten Sie auf 'Black Ice' im Schatten von Bäumen im Soceram-Park.",
+              "Ein heißes Getränk in einer Thermoskanne hilft, die Körpertemperatur zu halten.",
+              "Beleuchtung einschalten, da der Nachmittag schnell in die Dämmerung übergeht."
+            ],
+            "hu": [
+              "A vastag téli kesztyű a menetszél miatt alapfeltétel.",
+              "Figyelj a 'fekete jégre' a Soceram park fái alatti árnyékban.",
+              "Egy forró ital termoszban segít fenntartani a testhőt.",
+              "Kapcsold be a világítást, mert a délután hamar szürkületbe vált."
+            ],
+            "ro": [
+              "Mănușile groase de iarnă sunt absolut necesare din cauza vântului la deplasare.",
+              "Atenție la 'gheața neagră' în zonele umbrite de copaci în Parcul Soceram.",
+              "O băutură fierbinte într-un termos ajută la menținerea temperaturii corpului.",
+              "Aprindeți luminile, deoarece după-amiaza se transformă rapid în amurg."
+            ],
+            "en": [
+              "Thick winter gloves are absolutely necessary due to the wind chill.",
+              "Watch out for 'black ice' in the shadows of trees in Soceram Park.",
+              "A hot drink in a thermos helps maintain body temperature.",
+              "Turn on your lights as the afternoon quickly turns into dusk."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1178,6 +1614,206 @@
           "Plan for extra time for traffic, especially in the late afternoon.",
           "The streets can be narrow, so drive with caution."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequeme Regentour durch Câmpina, geschützt im Auto. Wir starten am zentralen Parkplatz und besuchen die historischen Stätten, während draußen der Regen prasselt. Mittags erkunden wir die Museen von Grigorescu und Hasdeu ganz entspannt. Die Fahrt endet am windigen Muscel-Hügel, wo wir das Panorama trocken aus dem Wagen genießen können.",
+            "hu": "Kényelmes esős túra Câmpinában, az autó védelmében. A központi parkolóból indulva látogatjuk meg a történelmi helyeket, miközben kint dobol az eső. Délben nyugodtan fedezzük fel a Grigorescu és Hasdeu múzeumokat. Az út a szeles Muscel-dombon ér véget, ahol az autóban szárazon élvezhetjük a panorámát.",
+            "ro": "Tur confortabil pe ploaie prin Câmpina, protejați în mașină. Începem de la parcarea centrală și vizităm locurile istorice în timp ce afară plouă. La prânz explorăm relaxați muzeele Grigorescu și Hasdeu. Călătoria se încheie pe Dealul Muscel, unde ne putem bucura de panoramă la adăpost.",
+            "en": "A comfortable rainy tour through Câmpina, protected inside the car. Starting from the central parking, we visit historic sites while rain drums outside. At noon, we explore the Grigorescu and Hasdeu museums at a relaxed pace. The trip ends at windy Muscel Hill, where we can enjoy the panorama dry from the car."
+          },
+          "stops": [
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Regenschirm direkt griffbereit halten.",
+                "hu": "Legyen kéznél az esernyő kiszálláskor.",
+                "ro": "Țineți umbrela la îndemână imediat ce coborâți.",
+                "en": "Have your umbrella ready as you get out."
+              }
+            },
+            {
+              "name": "Cherry Tree Fountain",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für ein schnelles Foto.",
+                "hu": "Gyors kiszállás egy fotó erejéig.",
+                "ro": "Coborâre scurtă pentru o fotografie rapidă.",
+                "en": "Brief exit for a quick photo."
+              }
+            },
+            {
+              "name": "Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Kircheneingang.",
+                "hu": "Parkolj közel a templom bejáratához.",
+                "ro": "Parcați aproape de intrarea în biserică.",
+                "en": "Park close to the church entrance."
+              }
+            },
+            {
+              "name": "Nicolae Grigorescu Memorial House",
+              "tip_5lang": {
+                "de": "Ausreichend Parkmöglichkeiten direkt vor dem Tor.",
+                "hu": "Elegendő parkolóhely közvetlenül a kapu előtt.",
+                "ro": "Suficiente locuri de parcare chiar în fața porții.",
+                "en": "Plenty of parking spaces right in front of the gate."
+              }
+            },
+            {
+              "name": "Iulia Hasdeu Castle",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Asphalt der Zufahrt.",
+                "hu": "Vigyázz a vizes aszfaltra a bejárónál.",
+                "ro": "Atenție la asfaltul ud de pe drumul de acces.",
+                "en": "Be careful on the wet asphalt of the driveway."
+              }
+            },
+            {
+              "name": "B.P. Hasdeu Memorial Museum",
+              "tip_5lang": {
+                "de": "Besuchsdauer flexibel an Regenpausen anpassen.",
+                "hu": "A látogatást igazítsd az esőmentes percekhez.",
+                "ro": "Adaptați durata vizitei în funcție de pauzele ploii.",
+                "en": "Adjust visit duration based on rain breaks."
+              }
+            },
+            {
+              "name": "Muscel Hill",
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus hat man eine tolle Aussicht.",
+                "hu": "A parkolóból is nagyszerű a kilátás.",
+                "ro": "De la locul de parcare aveți o priveliște excelentă.",
+                "en": "There is a great view right from the parking area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt in die Hügel.",
+              "Die Zufahrten zu den Museen sind asphaltiert und gut erreichbar.",
+              "Parken am Muscel-Hügel erlaubt Panorama-Blick ohne auszusteigen.",
+              "Nutzen Sie die Klimaanlage, um das Beschlagen der Scheiben zu verhindern."
+            ],
+            "hu": [
+              "Ellenőrizd az ablaktörlőket a dombvidéki út előtt.",
+              "A múzeumokhoz vezető utak aszfaltozottak és jól járhatóak.",
+              "A Muscel-dombi parkolás lehetővé teszi a kilátást kiszállás nélkül is.",
+              "Használd a klímát a szélvédők páramentesítésére."
+            ],
+            "ro": [
+              "Verificați ștergătoarele de parbriz înainte de a porni spre dealuri.",
+              "Căile de acces către muzee sunt asfaltate și ușor accesibile.",
+              "Parcarea la Dealul Muscel permite vizionarea panoramei fără a coborî.",
+              "Folosiți aerul condiționat pentru a preveni aburirea geamurilor."
+            ],
+            "en": [
+              "Check your windshield wipers before driving into the hills.",
+              "Access roads to the museums are paved and easily accessible.",
+              "Parking at Muscel Hill allows for a panoramic view without getting out.",
+              "Use the air conditioning to prevent the windows from fogging up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Roadtrip durch das verschneite Câmpina. Im beheizten Auto gleiten wir zwischen den Sehenswürdigkeiten dahin. Mittags genießen wir die kulturellen Highlights im Warmen, während draußen der Winter herrscht. Die Fahrt zum Muscel-Hügel bietet spektakuläre Ausblicke auf die frostige Landschaft, bevor wir den Tag gemütlich ausklingen lassen.",
+            "hu": "Téli autós kirándulás a havas Câmpinában. A fűtött autóban suhanunk a látnivalók között. Délben a kulturális fénypontokat élvezzük a melegben, miközben kint tombol a tél. A Muscel-dombra vezető út látványos kilátást nyújt a fagyos tájra, mielőtt kényelmesen zárnánk a napot.",
+            "ro": "Roadtrip hibernal prin Câmpina înzăpezită. În mașina încălzită trecem relaxați pe la atracții. La prânz ne bucurăm de punctele culturale la căldură, în timp ce afară stăpânește iarna. Drumul spre Dealul Muscel oferă vederi spectaculoase asupra peisajului înghețat.",
+            "en": "A winter road trip through snowy Câmpina. In a heated car, we glide between the sights. At noon, we enjoy the cultural highlights in the warm, while winter reigns outside. The drive to Muscel Hill offers spectacular views of the frosty landscape before ending the day comfortably."
+          },
+          "stops": [
+            {
+              "name": "Central Parking",
+              "tip_5lang": {
+                "de": "Vorsicht beim Gehen auf eventuell glatten Parkflächen.",
+                "hu": "Vigyázz a léptekkel az esetleg jeges parkolóban.",
+                "ro": "Atenție la mersul prin parcare, poate fi polei.",
+                "en": "Be careful walking in the potentially icy parking area."
+              }
+            },
+            {
+              "name": "Cherry Tree Fountain",
+              "tip_5lang": {
+                "de": "Der Brunnen ist im Winter oft abgestellt.",
+                "hu": "A kút télen gyakran el van zárva.",
+                "ro": "Fântâna este adesea oprită pe timpul iernii.",
+                "en": "The fountain is often turned off in winter."
+              }
+            },
+            {
+              "name": "Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Kirchenraum ist meist kühl, Jacke anbehalten.",
+                "hu": "A templomtér többnyire hűvös, tartsd magadon a kabátot.",
+                "ro": "Interiorul bisericii este de obicei rece, păstrați haina pe dvs.",
+                "en": "The church interior is usually cool, keep your jacket on."
+              }
+            },
+            {
+              "name": "Nicolae Grigorescu Memorial House",
+              "tip_5lang": {
+                "de": "Schnee auf dem Dach macht das Haus fotogen.",
+                "hu": "A hó a tetőn nagyon fotogénné teszi a házat.",
+                "ro": "Zăpada de pe acoperiș face casa foarte fotogenică.",
+                "en": "Snow on the roof makes the house very photogenic."
+              }
+            },
+            {
+              "name": "Iulia Hasdeu Castle",
+              "tip_5lang": {
+                "de": "Heizung im Schloss ist begrenzt, warm anziehen.",
+                "hu": "A fűtés a kastélyban korlátozott, öltözz melegen.",
+                "ro": "Încălzirea în castel este limitată, îmbrăcați-vă gros.",
+                "en": "Heating in the castle is limited, dress warmly."
+              }
+            },
+            {
+              "name": "B.P. Hasdeu Memorial Museum",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg vom Parkplatz zum Eingang.",
+                "hu": "Rövid séta a parkolótól a bejáratig.",
+                "ro": "O scurtă plimbare de la parcare la intrare.",
+                "en": "A short walk from the parking to the entrance."
+              }
+            },
+            {
+              "name": "Muscel Hill",
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Neuschnee glatt sein.",
+                "hu": "A felvezető út friss hó esetén csúszós lehet.",
+                "ro": "Urcarea poate fi alunecoasă în caz de zăpadă proaspătă.",
+                "en": "The drive up can be slippery with fresh snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind für die Auffahrt zum Muscel-Hügel Pflicht.",
+              "Halten Sie Enteisungsspray für die Türschlösser bereit.",
+              "Die Sicht ist im Winter oft klarer, ideal für Fotos vom Muscel-Hügel.",
+              "Achten Sie auf Räumfahrzeuge in den engen Nebenstraßen."
+            ],
+            "hu": [
+              "A téli gumi kötelező a Muscel-dombra való feljutáshoz.",
+              "Legyen nálad jégoldó spray az ajtózárakhoz.",
+              "A látótávolság télen gyakran nagyobb, ideális fotózáshoz a dombról.",
+              "Figyelj a hókotrókra a szűk mellékutcákban."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii pentru urcarea pe Dealul Muscel.",
+              "Aveți la îndemână spray de dezghețare pentru încuietori.",
+              "Vizibilitatea este adesea mai clară iarna, ideal pentru poze de pe deal.",
+              "Atenție la utilajele de deszăpezire pe străzile secundare înguste."
+            ],
+            "en": [
+              "Winter tires are mandatory for the drive up to Muscel Hill.",
+              "Have de-icing spray ready for the door locks.",
+              "Visibility is often clearer in winter, ideal for photos from the hill.",
+              "Watch out for snowplows in the narrow side streets."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1558,6 +2194,206 @@
           "Keep small change ready for tickets if buying on board.",
           "Be aware of peak hours when buses can be more crowded."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Tag in Câmpina mit Bus und Bahn. Wir starten an der zentralen Haltestelle und nutzen die Museen als ideale Ziele bei schlechtem Wetter. Die kurzen Wege zwischen den Stopps bewältigen wir mit dem Schirm. Nachmittags besuchen wir den Park und die Holzkirche, bevor wir den Tag entspannt abschließen.",
+            "hu": "Esős nap Câmpinában busszal és gyalog. A központi megállótól indulunk, a múzeumokat ideális célpontként használva rossz időben. A megállók közötti rövid távokat esernyővel tesszük meg. Délután meglátogatjuk a parkot és a fatemplomot, mielőtt kényelmesen zárnánk a napot.",
+            "ro": "O zi ploioasă în Câmpina cu autobuzul. Începem de la stația centrală și folosim muzeele ca destinații ideale pe vreme rea. Parcurgem distanțele scurte dintre stații cu umbrela. După-amiaza vizităm parcul și biserica de lemn, înainte de a încheia ziua relaxați.",
+            "en": "A rainy day in Câmpina by bus and foot. We start at the central stop, using the museums as ideal destinations in bad weather. We cover the short distances between stops with an umbrella. In the afternoon, we visit the park and the wooden church before ending the day comfortably."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop",
+              "tip_5lang": {
+                "de": "Überdachte Haltestelle zum Warten nutzen.",
+                "hu": "Használd a fedett várót a várakozáshoz.",
+                "ro": "Folosiți stația acoperită pentru așteptare.",
+                "en": "Use the covered shelter while waiting."
+              }
+            },
+            {
+              "name": "Cherry Tree Fountain",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg von der Haltestelle.",
+                "hu": "Csak 2 perc séta a megállótól.",
+                "ro": "Doar 2 minute de mers pe jos de la stație.",
+                "en": "Only a 2-minute walk from the stop."
+              }
+            },
+            {
+              "name": "Nicolae Grigorescu Memorial House",
+              "tip_5lang": {
+                "de": "Museen bieten perfekten Schutz vor Regen.",
+                "hu": "A múzeumok tökéletes védelmet nyújtanak az eső ellen.",
+                "ro": "Muzeele oferă protecție perfectă împotriva ploii.",
+                "en": "Museums provide perfect shelter from the rain."
+              }
+            },
+            {
+              "name": "Iulia Hasdeu Castle",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem unebenen Boden bei Nässe.",
+                "hu": "Vigyázz az egyenetlen talajra nedves időben.",
+                "ro": "Atenție la terenul denivelat pe timp de ploaie.",
+                "en": "Careful on uneven ground when wet."
+              }
+            },
+            {
+              "name": "B.P. Hasdeu Memorial Museum",
+              "tip_5lang": {
+                "de": "Warme Innenräume laden zum Verweilen ein.",
+                "hu": "A meleg belső terek maradásra hívnak.",
+                "ro": "Interioarele calde vă invită să zăboviți.",
+                "en": "Warm interiors invite you to linger."
+              }
+            },
+            {
+              "name": "Soceram Park",
+              "tip_5lang": {
+                "de": "Nahegelegene Bushaltestelle für schnelle Abreise.",
+                "hu": "Közeli buszmegálló a gyors távozáshoz.",
+                "ro": "Stație de autobuz în apropiere pentru plecare rapidă.",
+                "en": "Nearby bus stop for a quick departure."
+              }
+            },
+            {
+              "name": "St. Nicholas Wooden Church",
+              "tip_5lang": {
+                "de": "Letzter kultureller Stopp im Trockenen.",
+                "hu": "Utolsó kulturális megálló száraz helyen.",
+                "ro": "Ultima oprire culturală la adăpost.",
+                "en": "Last cultural stop in a dry place."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Busfahrpläne vorab online, um Wartezeiten im Regen zu minimieren.",
+              "Die zentralen Museen liegen nah beieinander, was Umsteigen spart.",
+              "Halten Sie Kleingeld für das Busticket bereit.",
+              "Ein Taschenschirm ist handlicher für den häufigen Ein- und Ausstieg."
+            ],
+            "hu": [
+              "Ellenőrizd a menetrendet előre online, hogy ne kelljen sokat várni az esőben.",
+              "A központi múzeumok közel vannak egymáshoz, így keveset kell gyalogolni.",
+              "Készíts be aprópénzt a buszjegyhez.",
+              "Egy összecsukható esernyő praktikusabb a gyakori le- és felszálláshoz."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor online pentru a minimiza așteptarea în ploaie.",
+              "Muzeele centrale sunt aproape unul de altul, economisind timp de mers.",
+              "Aveți pregătit mărunțiș pentru biletul de autobuz.",
+              "O umbrelă pliabilă este mai practică pentru urcările și coborârile frecvente."
+            ],
+            "en": [
+              "Check bus schedules online in advance to minimize waiting in the rain.",
+              "The central museums are close to each other, saving walking time.",
+              "Have small change ready for the bus ticket.",
+              "A folding umbrella is more practical for frequent boarding and alighting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Tag in Câmpina mit öffentlichen Verkehrsmitteln. Wir nutzen die gut beheizten Busse für den Weg zwischen den Sehenswürdigkeiten. Mittags wärmen wir uns in den Museen auf, während draußen der Frost die Stadt verzaubert. Den Nachmittag verbringen wir im stillen Soceram-Park, bevor wir uns auf den Rückweg machen.",
+            "hu": "Téli nap Câmpinában tömegközlekedéssel. A jól fűtött buszokat használjuk a látnivalók közötti úthoz. Délben a múzeumokban melegszünk fel, miközben kint a dér varázsolja el a várost. A délutánt a csendes Soceram parkban töltjük, mielőtt elindulnánk visszafelé.",
+            "ro": "O zi de iarnă în Câmpina cu transportul public. Folosim autobuzele bine încălzite pentru deplasarea între atracții. La prânz ne încălzim în muzee, în timp ce afară gerul transformă orașul. După-amiaza o petrecem în liniștea Parcului Soceram înainte de plecare.",
+            "en": "A winter day in Câmpina by public transit. We use well-heated buses for the journey between sights. At noon, we warm up in the museums while frost enchants the city outside. We spend the afternoon in the quiet Soceram Park before heading back."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter meist pünktlich.",
+                "hu": "A buszok télen is többnyire pontosak.",
+                "ro": "Autobuzele sunt de obicei punctuale și iarna.",
+                "en": "Buses are usually punctual even in winter."
+              }
+            },
+            {
+              "name": "Cherry Tree Fountain",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt wegen der Kälte.",
+                "hu": "Rövid tartózkodás a hideg miatt.",
+                "ro": "Ședere scurtă din cauza frigului.",
+                "en": "Short stay due to the cold."
+              }
+            },
+            {
+              "name": "Nicolae Grigorescu Memorial House",
+              "tip_5lang": {
+                "de": "Das Museum ist eine warme Oase.",
+                "hu": "A múzeum egy meleg oázis ilyenkor.",
+                "ro": "Muzeul este o oază de căldură.",
+                "en": "The museum is a warm oasis."
+              }
+            },
+            {
+              "name": "Iulia Hasdeu Castle",
+              "tip_5lang": {
+                "de": "Innenräume sind historisch bedingt eher kühl.",
+                "hu": "A belső terek a történelmi jelleg miatt hűvösek.",
+                "ro": "Interioarele sunt destul de răcoroase din motive istorice.",
+                "en": "Interiors are quite cool due to historical reasons."
+              }
+            },
+            {
+              "name": "B.P. Hasdeu Memorial Museum",
+              "tip_5lang": {
+                "de": "Kleines Museum, schnell aufgewärmt.",
+                "hu": "Kis múzeum, hamar bemelegszik az ember.",
+                "ro": "Muzeu mic, vă încălziți rapid.",
+                "en": "Small museum, you warm up quickly."
+              }
+            },
+            {
+              "name": "Soceram Park",
+              "tip_5lang": {
+                "de": "Warten Sie an der Haltestelle im Windschatten.",
+                "hu": "Várj a buszmegálló szélvédett oldalán.",
+                "ro": "Așteptați în stație într-un loc ferit de vânt.",
+                "en": "Wait at the bus stop in a spot sheltered from the wind."
+              }
+            },
+            {
+              "name": "St. Nicholas Wooden Church",
+              "tip_5lang": {
+                "de": "Besinnlicher Abschluss der Wintertour.",
+                "hu": "Meghitt lezárása a téli túrának.",
+                "ro": "Încheiere liniștită a turului de iarnă.",
+                "en": "A contemplative end to the winter tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse in Câmpina sind im Winter gut beheizt.",
+              "Tragen Sie warme Kleidung für die Wartezeiten an den Haltestellen.",
+              "Beachten Sie die leicht reduzierten Fahrpläne an Wochenenden.",
+              "Reflektoren an der Kleidung sind ratsam, da es früh dunkel wird."
+            ],
+            "hu": [
+              "A câmpinai buszok télen jól fűtöttek.",
+              "Öltözz melegen a megállókban való várakozáshoz.",
+              "Figyelj a hétvégi ritkított menetrendre.",
+              "Fényvisszaverő az öltözéken ajánlott, mert korán sötétedik."
+            ],
+            "ro": [
+              "Autobuzele din Câmpina sunt bine încălzite iarna.",
+              "Purtați haine groase pentru perioadele de așteptare în stații.",
+              "Atenție la orarul ușor redus din weekend.",
+              "Elementele reflectorizante pe haine sunt recomandate, se întunecă devreme."
+            ],
+            "en": [
+              "Buses in Câmpina are well-heated in winter.",
+              "Wear warm clothing for the waiting times at bus stops.",
+              "Note the slightly reduced schedules on weekends.",
+              "Reflective elements on clothing are advisable as it gets dark early."
+            ]
+          }
+        }
       }
     }
   }

@@ -332,6 +332,188 @@
           "Check the gallery's opening hours in advance.",
           "Keep a reusable bottle handy for the mineral water."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Kurpark, wo die Pavillons Schutz vor dem Regen bieten. Mittags erkunden Sie das historische Kurhaus und die Trinkhalle, ideal für einen trockenen Aufenthalt. Am Nachmittag vertiefen Sie sich in die Stadtgeschichte in der Galerie. Der Abend endet ruhig mit einem Blick auf das Bergmannsdenkmal unter dem Regenschirm.",
+            "hu": "Kezdje a napot a Gyógyparkban, ahol a pavilonok menedéket nyújtanak az eső elől. Délben fedezze fel a történelmi Gyógyházat és az Ivócsarnokot, amelyek ideálisak a száraz időtöltéshez. Délután merüljön el a város történetében a Galériában. Az este nyugodtan zárul a bányász-emlékmű megtekintésével az esernyő alatt.",
+            "ro": "Începeți ziua în Parcul Stațiunii, unde pavilioanele oferă adăpost de ploaie. La prânz, explorați Casa de Cură și Sala Pompelor, ideale pentru a rămâne uscat. După-amiaza, vizitați Galeria de Istorie a Orașului. Seara se încheie liniștit cu o privire asupra Monumentului Minerilor sub umbrelă.",
+            "en": "Start the day in the Spa Park, where pavilions provide shelter from the rain. At noon, explore the historic Spa House and the Pump Room, ideal for staying dry. In the afternoon, dive into the city's history at the Gallery. The evening ends quietly with a view of the Miners' Monument under an umbrella."
+          },
+          "stops": [
+            {
+              "name": "Spa Park (Park Zdrojowy)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Alleen und Pavillons.",
+                "hu": "Használja a fedett sétányokat és pavilonokat.",
+                "ro": "Folosiți aleile acoperite și pavilioanele.",
+                "en": "Use the covered walkways and pavilions."
+              }
+            },
+            {
+              "name": "Spa House (Dom Zdrojowy)",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine längere Pause im Trockenen.",
+                "hu": "Tökéletes hely egy hosszabb száraz pihenőhöz.",
+                "ro": "Loc perfect pentru o pauză lungă la adăpost.",
+                "en": "Perfect place for a long break in the dry."
+              }
+            },
+            {
+              "name": "Pump Room (Pijalnia Wód)",
+              "tip_5lang": {
+                "de": "Probieren Sie das Heilwasser im Warmen.",
+                "hu": "Kóstolja meg a gyógyvizet a melegben.",
+                "ro": "Gustați apa curativă la căldură.",
+                "en": "Taste the healing water inside the warmth."
+              }
+            },
+            {
+              "name": "City History Gallery",
+              "tip_5lang": {
+                "de": "Ideales Ziel bei starkem Regen.",
+                "hu": "Ideális célpont heves esőzés esetén.",
+                "ro": "Destinație ideală în caz de ploaie torențială.",
+                "en": "Ideal destination during heavy rain."
+              }
+            },
+            {
+              "name": "Church of the Most Sacred Heart of Jesus",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille im Inneren.",
+                "hu": "Élvezze a benti csendet és nyugalmat.",
+                "ro": "Bucurați-vă de liniștea din interior.",
+                "en": "Enjoy the peace and quiet inside."
+              }
+            },
+            {
+              "name": "Monument to the Miners",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für ein schnelles Foto.",
+                "hu": "Rövid megálló egy gyors fotó erejéig.",
+                "ro": "Oprire scurtă pentru o fotografie rapidă.",
+                "en": "Short stop for a quick photo."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Parkwege.",
+              "Die Trinkhalle bietet guten Unterschlupf.",
+              "Besuche in Museen bei Schauern einplanen.",
+              "Regenschirm ist im Kurviertel unerlässlich."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a parki utakhoz.",
+              "Az ivócsarnok jó menedéket nyújt.",
+              "A múzeumlátogatást az esősebb órákra időzítse.",
+              "Az esernyő elengedhetetlen a gyógynegyedben."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru potecile din parc.",
+              "Sala pompelor oferă un adăpost bun.",
+              "Planificați vizitele la muzeu în timpul averselor.",
+              "Umbrela este indispensabilă în cartierul stațiunii."
+            ],
+            "en": [
+              "Wear waterproof shoes for the park paths.",
+              "The pump room provides good shelter.",
+              "Schedule museum visits during showers.",
+              "An umbrella is essential in the spa district."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie den winterlichen Kurpark mit seinen beleuchteten Wegen am Morgen. Mittags wärmen Sie sich im historischen Kurhaus auf. Der Nachmittag gehört der Stadtgeschichte in der behaglichen Galerie. Bevor die frühe Dunkelheit einbricht, besuchen Sie die Kirche und das Bergmannsdenkmal, das im Schnee besonders eindrucksvoll wirkt.",
+            "hu": "Tapasztalja meg a téli Gyógyparkot a kivilágított ösvényekkel reggel. Délben melegedjen fel a történelmi Gyógyházban. A délután a várostörténeté a barátságos Galériában. Mielőtt beáll a korai sötétség, látogasson el a templomhoz és a bányász-emlékműhöz, amely a hóban különösen hatásos.",
+            "ro": "Experimentați Parcul Stațiunii iarna, cu aleile sale iluminate dimineața. La prânz, încălziți-vă în Casa de Cură istorică. După-amiaza aparține istoriei orașului în galeria primitoare. Înainte de lăsarea întunericului, vizitați biserica și Monumentul Minerilor, care arată impresionant în zăpadă.",
+            "en": "Experience the winter Spa Park with its illuminated paths in the morning. At noon, warm up in the historic Spa House. The afternoon is dedicated to city history in the cozy Gallery. Before early darkness falls, visit the church and the Miners' Monument, which looks particularly impressive in the snow."
+          },
+          "stops": [
+            {
+              "name": "Spa Park (Park Zdrojowy)",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Wegen am Morgen.",
+                "hu": "Vigyázat, reggel csúszósak lehetnek az utak.",
+                "ro": "Atenție la aleile alunecoase dimineața.",
+                "en": "Watch out for slippery paths in the morning."
+              }
+            },
+            {
+              "name": "Spa House (Dom Zdrojowy)",
+              "tip_5lang": {
+                "de": "Hervorragender Ort zum Aufwärmen.",
+                "hu": "Kiváló hely a felmelegedéshez.",
+                "ro": "Loc excelent pentru încălzire.",
+                "en": "Excellent place to warm up."
+              }
+            },
+            {
+              "name": "Pump Room (Pijalnia Wód)",
+              "tip_5lang": {
+                "de": "Heißes Heilwasser genießen.",
+                "hu": "Élvezze a forró gyógyvizet.",
+                "ro": "Bucurați-vă de apa curativă fierbinte.",
+                "en": "Enjoy the hot healing water."
+              }
+            },
+            {
+              "name": "City History Gallery",
+              "tip_5lang": {
+                "de": "Lange Besichtigung im Warmen planen.",
+                "hu": "Tervezzen hosszú látogatást a melegben.",
+                "ro": "Planificați o vizită lungă la căldură.",
+                "en": "Plan a long visit in the warm interior."
+              }
+            },
+            {
+              "name": "Church of the Most Sacred Heart of Jesus",
+              "tip_5lang": {
+                "de": "Besinnliche Atmosphäre im Winter.",
+                "hu": "Meghitt hangulat téli időszakban.",
+                "ro": "Atmosferă meditativă pe timp de iarnă.",
+                "en": "Contemplative atmosphere in winter."
+              }
+            },
+            {
+              "name": "Monument to the Miners",
+              "tip_5lang": {
+                "de": "Fotostopp vor Sonnenuntergang um 16:00.",
+                "hu": "Fotómegálló naplemente előtt, kb. 16:00-kor.",
+                "ro": "Oprire foto înainte de apus, la ora 16:00.",
+                "en": "Photo stop before sunset around 16:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Kleidung für den Parkbesuch nötig.",
+              "Die Sonne geht bereits gegen 16:00 Uhr unter.",
+              "Kombinieren Sie Außenstopps mit Aufwärmpausen.",
+              "Salzwasser-Inhalationen sind im Winter gesund."
+            ],
+            "hu": [
+              "Meleg ruházat szükséges a parklátogatáshoz.",
+              "A nap már 16:00 körül lemegy.",
+              "Kombinálja a kinti megállókat melegedő szünetekkel.",
+              "A sós vizes inhaláció télen kifejezetten egészséges."
+            ],
+            "ro": [
+              "Haine groase sunt necesare pentru vizita în parc.",
+              "Soarele apune deja în jurul orei 16:00.",
+              "Combinați opririle exterioare cu pauze de încălzire.",
+              "Inhalațiile cu apă sărată sunt sănătoase iarna."
+            ],
+            "en": [
+              "Warm clothing is necessary for the park visit.",
+              "The sun sets as early as 16:00.",
+              "Combine outdoor stops with warming breaks.",
+              "Saltwater inhalations are very healthy in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -681,6 +863,206 @@
           "The city is relatively flat, but some slight inclines are possible.",
           "Wear a helmet and be mindful of traffic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig durch den nassen Kurpark am Vormittag. Mittags bieten das Kurhaus und die Trinkhalle sichere Pausenplätze. Der Nachmittag führt zur Geschichtsgalerie, wo Sie die Räder geschützt abstellen können. Trotz Regen bleibt die Tour zum Bergbaudenkmal und zur St.-Barbara-Kirche ein Erlebnis, sofern die Ausrüstung stimmt.",
+            "hu": "Óvatosan kerekezzen a nedves Gyógyparkon keresztül délelőtt. Délben a Gyógyház és az Ivócsarnok biztonságos pihenőhelyet kínál. Délután a történelmi galéria felé vezet az út, ahol védett helyen hagyhatja a biciklit. Az eső ellenére a bányász-emlékmű és a Szent Borbála-templom is látogatható jó felszereléssel.",
+            "ro": "Pedalați cu atenție prin parcul ud dimineața. La prânz, Casa de Cură și Sala Pompelor oferă locuri sigure de odihnă. După-amiaza duce spre galeria de istorie, unde puteți lăsa bicicletele protejate. În ciuda ploii, turul la monument și biserica Sf. Barbara rămâne o experiență cu echipament adecvat.",
+            "en": "Cycle carefully through the wet Spa Park in the morning. At noon, the Spa House and Pump Room offer safe resting spots. The afternoon leads to the history gallery, where you can park bikes under cover. Despite the rain, the tour to the miners' monument and St. Barbara's Church remains an experience with the right gear."
+          },
+          "stops": [
+            {
+              "name": "Spa Park (Park Zdrojowy)",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem Laub auf Wegen.",
+                "hu": "Vigyázat, csúszós levelek az utakon.",
+                "ro": "Atenție la frunzele alunecoase de pe drum.",
+                "en": "Beware of slippery leaves on the paths."
+              }
+            },
+            {
+              "name": "Spa House & Pump Room",
+              "tip_5lang": {
+                "de": "Fahrradständer meist unüberdacht, Schloss nutzen.",
+                "hu": "A tárolók többnyire fedetlenek, használjon zárat.",
+                "ro": "Rastelurile sunt neacoperite, folosiți antifurt.",
+                "en": "Bike racks are mostly uncovered, use a lock."
+              }
+            },
+            {
+              "name": "Church of the Most Sacred Heart of Jesus",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit zum Unterstellen.",
+                "hu": "Jó alkalom a fedél alá húzódásra.",
+                "ro": "Oportunitate bună pentru a sta la adăpost.",
+                "en": "Good opportunity to seek shelter."
+              }
+            },
+            {
+              "name": "City History Gallery",
+              "tip_5lang": {
+                "de": "Lange Pause, um Kleidung zu trocknen.",
+                "hu": "Hosszú szünet a ruhák megszárításához.",
+                "ro": "Pauză lungă pentru a vă usca hainele.",
+                "en": "Long break to dry your clothes."
+              }
+            },
+            {
+              "name": "Monument to the Miners",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Asphalt.",
+                "hu": "Vigyázzon a leszállásnál a vizes aszfalton.",
+                "ro": "Atenție la coborâre pe asfaltul ud.",
+                "en": "Be careful when dismounting on wet asphalt."
+              }
+            },
+            {
+              "name": "St. Barbara's Church",
+              "tip_5lang": {
+                "de": "Holzoberflächen können sehr glatt sein.",
+                "hu": "A fafelületek nagyon csúszósak lehetnek.",
+                "ro": "Suprafețele de lemn pot fi foarte alunecoase.",
+                "en": "Wooden surfaces can be very slippery."
+              }
+            },
+            {
+              "name": "Return to Spa Park",
+              "tip_5lang": {
+                "de": "Letzte Etappe mit Vorsicht bei Dämmerung.",
+                "hu": "Utolsó szakasz, óvatosan a szürkületben.",
+                "ro": "Ultima etapă, cu atenție la amurg.",
+                "en": "Last leg, be careful in the twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind jetzt wichtig.",
+              "Bremse auf nassen Wegen frühzeitig prüfen.",
+              "Wasserdichte Packtaschen verwenden.",
+              "Beleuchtung auch tagsüber einschalten."
+            ],
+            "hu": [
+              "A sárvédő most különösen fontos.",
+              "Nedves úton korábban kezdjen fékezni.",
+              "Használjon vízálló táskákat.",
+              "Nappal is kapcsolja be a világítást."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt importante acum.",
+              "Verificați frânele din timp pe drumuri ude.",
+              "Folosiți genți de bicicletă impermeabile.",
+              "Aprindeți luminile și în timpul zilei."
+            ],
+            "en": [
+              "Mudguards are very important now.",
+              "Test brakes early on wet roads.",
+              "Use waterproof panniers.",
+              "Turn on lights even during the day."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie dick eingepackt zur winterlichen Radtour durch Jastrzębie. Der Kurpark glitzert im Frost, doch Vorsicht ist geboten. Mittags wärmen kurze Stopps im Kurhaus auf. Nach dem Besuch der Geschichtsgalerie führt der Weg zur beeindruckenden Holzkirche St. Barbara. Beenden Sie die Tour frühzeitig, bevor die Kälte nach Sonnenuntergang zunimmt.",
+            "hu": "Vastagon felöltözve induljon a téli biciklitúrára Jastrzębie-ben. A Gyógypark csillog a fagyban, de legyen óvatos. Délben rövid megállók segítenek a felmelegedésben a Gyógyházban. A Galéria után az út a lenyűgöző Szent Borbála fatemplomhoz vezet. Fejezze be a túrát időben, mielőtt a fagy erősödne.",
+            "ro": "Porniți bine îmbrăcat în turul de iarnă cu bicicleta prin Jastrzębie. Parcul strălucește în îngheț, dar prudența este necesară. La prânz, opririle scurte la Casa de Cură vă vor încălzi. După galerie, drumul duce la biserica de lemn Sf. Barbara. Încheiați turul devreme, înainte ca frigul să se intensifice.",
+            "en": "Start warmly bundled up for a winter bike tour through Jastrzębie. The Spa Park glitters in the frost, but caution is advised. At noon, short stops at the Spa House help you warm up. After the Gallery, the path leads to the impressive wooden St. Barbara's Church. Finish the tour early before the cold intensifies after sunset."
+          },
+          "stops": [
+            {
+              "name": "Spa Park (Park Zdrojowy)",
+              "tip_5lang": {
+                "de": "Reifendruck für mehr Grip leicht senken.",
+                "hu": "Kicsit csökkentse a guminyomást a jobb tapadásért.",
+                "ro": "Reduceți ușor presiunea în pneuri pentru aderență.",
+                "en": "Lower tire pressure slightly for better grip."
+              }
+            },
+            {
+              "name": "Spa House & Pump Room",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause ohne zu langes Schwitzen.",
+                "hu": "Rövid melegedő szünet túlzott izzadás nélkül.",
+                "ro": "Pauză scurtă de încălzire fără a transpira prea mult.",
+                "en": "Short warming break without sweating too much."
+              }
+            },
+            {
+              "name": "Church of the Most Sacred Heart of Jesus",
+              "tip_5lang": {
+                "de": "Vorsicht beim Abstellen im Schnee.",
+                "hu": "Vigyázzon a bicikli leállításánál a hóban.",
+                "ro": "Atenție la parcarea în zăpadă.",
+                "en": "Be careful when parking in the snow."
+              }
+            },
+            {
+              "name": "City History Gallery",
+              "tip_5lang": {
+                "de": "Bester Ort für eine regenerative Pause.",
+                "hu": "A legjobb hely egy regeneráló pihenőhöz.",
+                "ro": "Cel mai bun loc pentru o pauză regeneratoare.",
+                "en": "Best place for a regenerative break."
+              }
+            },
+            {
+              "name": "Monument to the Miners",
+              "tip_5lang": {
+                "de": "Kalter Wind auf freien Flächen möglich.",
+                "hu": "Hideg szél várható a nyitott tereken.",
+                "ro": "Vânt rece posibil pe spațiile deschise.",
+                "en": "Cold wind possible in open areas."
+              }
+            },
+            {
+              "name": "St. Barbara's Church",
+              "tip_5lang": {
+                "de": "Märchenhafter Anblick bei Schneefall.",
+                "hu": "Mesei látvány hóesésben.",
+                "ro": "Vedere de basm în timpul ninsorii.",
+                "en": "Fairytale sight during snowfall."
+              }
+            },
+            {
+              "name": "Return to Spa Park",
+              "tip_5lang": {
+                "de": "Letzte Kilometer vor dem Frost-Einbruch.",
+                "hu": "Utolsó kilométerek a fagy beállta előtt.",
+                "ro": "Ultimii kilometri înainte de lăsarea gerului.",
+                "en": "Last kilometers before the frost sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Handschuhe sind unverzichtbar.",
+              "Akku von E-Bikes kältegeschützt lagern.",
+              "Früher Sonnenuntergang begrenzt die Fahrzeit.",
+              "Vermeiden Sie starkes Bremsen auf Eis."
+            ],
+            "hu": [
+              "A termokesztyű elengedhetetlen.",
+              "Az e-bike akkumulátorát óvja a hidegtől.",
+              "A korai naplemente korlátozza a menetidőt.",
+              "Kerülje az erős fékezést jégen."
+            ],
+            "ro": [
+              "Mănușile termice sunt indispensabile.",
+              "Depozitați bateria bicicletei electrice la ferit de frig.",
+              "Apusul devreme limitează timpul de rulare.",
+              "Evitați frânarea bruscă pe gheață."
+            ],
+            "en": [
+              "Thermal gloves are indispensable.",
+              "Protect e-bike batteries from the cold.",
+              "Early sunset limits riding time.",
+              "Avoid heavy braking on ice."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -997,6 +1379,188 @@
           "Roads can be busy during rush hours.",
           "A GPS is highly recommended for navigating between the clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie die Autotour am Bergwerk Zofiówka, wo der Regen die industrielle Atmosphäre verstärkt. Mittags führt die Fahrt zur Holzkirche St. Barbara und weiter zum Kurpark. Die kurzen Wege vom Parkplatz zu den Sehenswürdigkeiten machen den Regen erträglich. Den Nachmittag verbringen Sie trocken in der Geschichtsgalerie und im Kurhaus.",
+            "hu": "Kezdje az autós túrát a Zofiówka bányánál, ahol az eső fokozza az ipari hangulatot. Délben az út a Szent Borbála fatemplomhoz, majd a Gyógyparkhoz vezet. A parkolótól a látnivalókig tartó rövid séták elviselhetővé teszik az esőt. A délutánt töltse szárazon a Galériában és a Gyógyházban.",
+            "ro": "Începeți turul auto la mina Zofiówka, unde ploaia intensifică atmosfera industrială. La prânz, drumul duce la biserica de lemn Sf. Barbara și apoi la Parcul Stațiunii. Distanțele scurte de la parcare la obiective fac ploaia suportabilă. Petreceți după-amiaza la adăpost în galerie și Casa de Cură.",
+            "en": "Start the car tour at the Zofiówka mine, where the rain enhances the industrial atmosphere. At noon, the drive leads to St. Barbara's wooden church and then to the Spa Park. The short walks from the parking lot to the sights make the rain bearable. Spend the afternoon dry in the History Gallery and the Spa House."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Zofiówka Coal Mine",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Eingang nutzen.",
+                "hu": "Használja a közvetlenül a bejáratnál lévő parkolót.",
+                "ro": "Folosiți parcarea direct de la intrare.",
+                "en": "Use the parking lot directly at the entrance."
+              }
+            },
+            {
+              "name": "Monument to the Miners",
+              "tip_5lang": {
+                "de": "Besichtigung kurz vom Auto aus möglich.",
+                "hu": "A megtekintés rövid ideig az autóból is lehetséges.",
+                "ro": "Vizitarea este posibilă scurt timp din mașină.",
+                "en": "Viewing is possible briefly from the car."
+              }
+            },
+            {
+              "name": "St. Barbara's Church",
+              "tip_5lang": {
+                "de": "Regenschirm für den kurzen Kirchweg mitnehmen.",
+                "hu": "Vigyen esernyőt a templomhoz vezető rövid útra.",
+                "ro": "Luați umbrela pentru drumul scurt spre biserică.",
+                "en": "Take an umbrella for the short walk to the church."
+              }
+            },
+            {
+              "name": "Cluster 2: Spa Park (Park Zdrojowy)",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz an der ul. Witczaka.",
+                "hu": "Központi parkoló az ul. Witczaka mentén.",
+                "ro": "Parcare centrală pe strada Witczaka.",
+                "en": "Central parking on Witczaka Street."
+              }
+            },
+            {
+              "name": "Spa House & Pump Room",
+              "tip_5lang": {
+                "de": "Naher Parkplatz minimiert Regen-Exposition.",
+                "hu": "A közeli parkoló minimalizálja az esőben töltött időt.",
+                "ro": "Parcarea apropiată minimizează expunerea la ploaie.",
+                "en": "Nearby parking minimizes rain exposure."
+              }
+            },
+            {
+              "name": "City History Gallery",
+              "tip_5lang": {
+                "de": "Perfekt für den späten, verregneten Nachmittag.",
+                "hu": "Tökéletes a késő délutáni esős időre.",
+                "ro": "Perfect pentru după-amiaza târzie ploioasă.",
+                "en": "Perfect for the late rainy afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkplätze in Jastrzębie sind meist gut verfügbar.",
+              "Scheibenwischer vor Fahrtantritt prüfen.",
+              "Vorsicht bei Aquaplaning auf Hauptstraßen.",
+              "Kurpark-Besuch zwischen Schauern planen."
+            ],
+            "hu": [
+              "Jastrzębie-ben a parkolóhelyek jól elérhetőek.",
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Vigyázat a vízenfutással a főutakon.",
+              "A parklátogatást az esőszünetekre időzítse."
+            ],
+            "ro": [
+              "Locurile de parcare în Jastrzębie sunt accesibile.",
+              "Verificați ștergătoarele înainte de plecare.",
+              "Atenție la acvaplanare pe drumurile principale.",
+              "Planificați vizita în parc între averse."
+            ],
+            "en": [
+              "Parking spaces in Jastrzębie are usually available.",
+              "Check windshield wipers before starting.",
+              "Watch out for aquaplaning on main roads.",
+              "Plan the park visit between showers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour beginnt am Bergwerk Zofiówka, das im Nebel mystisch wirkt. Über die verschneite St.-Barbara-Kirche geht es zum festlich beleuchteten Kurviertel. Das Auto bietet eine warme Basis zwischen den Besichtigungen des Kurhauses und der Geschichtsgalerie. Der Tag endet mit einem kurzen Spaziergang im beleuchteten Kurpark.",
+            "hu": "A téli autós túra a Zofiówka bányánál kezdődik, amely misztikus a ködben. A havas Szent Borbála-templomon keresztül vezet az út az ünnepi fényben úszó gyógynegyedbe. Az autó meleg bázist nyújt a Gyógyház és a Galéria megtekintése között. A napot egy rövid séta zárja a kivilágított parkban.",
+            "ro": "Turul auto de iarnă începe la mina Zofiówka, care pare mistică în ceață. Prin biserica Sf. Barbara înzăpezită, drumul duce la cartierul stațiunii iluminat festiv. Mașina oferă o bază caldă între vizitele la Casa de Cură și galerie. Ziua se încheie cu o scurtă plimbare în parcul iluminat.",
+            "en": "The winter car tour starts at the Zofiówka mine, which looks mystical in the fog. Via the snowy St. Barbara's Church, the route leads to the festively lit Spa district. The car provides a warm base between visits to the Spa House and the History Gallery. The day ends with a short walk in the illuminated park."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Zofiówka Coal Mine",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte auf den Zufahrtswegen.",
+                "hu": "Ügyeljen a csúszós szakaszokra a bekötőutakon.",
+                "ro": "Atenție la polei pe drumurile de acces.",
+                "en": "Watch out for icy spots on access roads."
+              }
+            },
+            {
+              "name": "Monument to the Miners",
+              "tip_5lang": {
+                "de": "Beheiztes Auto als kurzer Rückzugsort.",
+                "hu": "A fűtött autó jó rövid pihenőhely.",
+                "ro": "Mașina încălzită este un bun loc de retragere.",
+                "en": "The heated car is a good short retreat."
+              }
+            },
+            {
+              "name": "St. Barbara's Church",
+              "tip_5lang": {
+                "de": "Parkplatz kann ungeräumt sein, Vorsicht.",
+                "hu": "A parkoló néha nincs letakarítva, legyen óvatos.",
+                "ro": "Parcarea poate fi nedezpezită, atenție.",
+                "en": "The parking lot may not be cleared, be careful."
+              }
+            },
+            {
+              "name": "Cluster 2: Spa Park (Park Zdrojowy)",
+              "tip_5lang": {
+                "de": "Beleuchtung im Winter ab 16:00 Uhr genießen.",
+                "hu": "Élvezze a kivilágítást télen 16:00 órától.",
+                "ro": "Bucurați-vă de iluminat iarna de la ora 16:00.",
+                "en": "Enjoy the illumination from 16:00 in winter."
+              }
+            },
+            {
+              "name": "Spa House & Pump Room",
+              "tip_5lang": {
+                "de": "Kurze Gehwege zum Aufwärmen nutzen.",
+                "hu": "Használja ki a rövid sétákat a bemelegedéshez.",
+                "ro": "Folosiți distanțele scurte pentru a vă încălzi.",
+                "en": "Use the short walking distances to warm up."
+              }
+            },
+            {
+              "name": "City History Gallery",
+              "tip_5lang": {
+                "de": "Warmer Ausklang der Tour.",
+                "hu": "A túra meleg befejezése.",
+                "ro": "Final cald al turului.",
+                "en": "Warm end to the tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser Region Pflicht.",
+              "Eiskratzer und Besen griffbereit halten.",
+              "Frostschutzmittel in der Waschanlage prüfen.",
+              "Abblendlicht bei Nebel und Schnee einschalten."
+            ],
+            "hu": [
+              "A téli gumi kötelező ebben a régióban.",
+              "Jégkaparó és kefe legyen kéznél.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Kapcsolja be a tompított fényszórót ködben."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în regiune.",
+              "Țineți racleta și mătura la îndemână.",
+              "Verificați lichidul antigel de parbriz.",
+              "Aprindeți faza scurtă în caz de ceață sau ninsoare."
+            ],
+            "en": [
+              "Winter tires are mandatory in this region.",
+              "Keep an ice scraper and brush handy.",
+              "Check antifreeze in the washer fluid.",
+              "Turn on low beams in fog and snow."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1313,6 +1877,188 @@
           "Have the bus schedules handy, either digitally or on paper.",
           "Be prepared for some walking between bus stops and the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Bus, um trocken zwischen dem Stadtzentrum und dem Kurviertel zu pendeln. Vormittags besuchen Sie die Kirche und die Geschichtsgalerie. Mittags führt die Fahrt zum Kurpark, wo Sie im Kurhaus und der Trinkhalle verweilen können. Die Buswartehäuschen bieten Schutz, während Sie auf die Verbindung zum Bergmannsdenkmal warten.",
+            "hu": "Használja a buszt, hogy szárazon utazzon a városközpont és a gyógynegyed között. Délelőtt látogasson el a templomba és a Galériába. Délben az út a Gyógyparkba vezet, ahol a Gyógyházban és az Ivócsarnokban időzhet. A buszvárók védelmet nyújtanak, amíg a bányász-emlékműhöz tartó járatra vár.",
+            "ro": "Folosiți autobuzul pentru a călători uscat între centru și cartierul stațiunii. Dimineața vizitați biserica și galeria. La prânz, drumul duce spre parcul stațiunii, unde puteți zăbovi în Casa de Cură. Stațiile de autobuz oferă protecție în timp ce așteptați legătura spre monument.",
+            "en": "Use the bus to travel dry between the city center and the Spa district. In the morning, visit the church and the Gallery. At noon, the trip leads to the Spa Park, where you can linger in the Spa House and Pump Room. Bus shelters provide cover while waiting for the connection to the miners' monument."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Main Church & Gallery",
+              "tip_5lang": {
+                "de": "Haltestelle direkt in der Nähe der Galerie.",
+                "hu": "Megálló közvetlenül a Galéria közelében.",
+                "ro": "Stație direct lângă galerie.",
+                "en": "Bus stop directly near the Gallery."
+              }
+            },
+            {
+              "name": "City History Gallery",
+              "tip_5lang": {
+                "de": "Perfekt für längere Wartezeiten bei Regen.",
+                "hu": "Tökéletes hosszabb várakozáshoz esőben.",
+                "ro": "Perfect pentru așteptări lungi pe ploaie.",
+                "en": "Perfect for longer waits during rain."
+              }
+            },
+            {
+              "name": "Monument to the Miners",
+              "tip_5lang": {
+                "de": "Haltestelle 'Urząd Miasta' nutzen.",
+                "hu": "Használja az 'Urząd Miasta' megállót.",
+                "ro": "Folosiți stația 'Urząd Miasta'.",
+                "en": "Use the 'Urząd Miasta' stop."
+              }
+            },
+            {
+              "name": "Cluster 2: Spa Park & Spa Buildings",
+              "tip_5lang": {
+                "de": "Mehrere Linien verbinden das Zentrum.",
+                "hu": "Számos vonal köti össze a központtal.",
+                "ro": "Mai multe linii fac legătura cu centrul.",
+                "en": "Several lines connect with the center."
+              }
+            },
+            {
+              "name": "Spa House (Dom Zdrojowy)",
+              "tip_5lang": {
+                "de": "Wetterfeste Kleidung für den Weg vom Bus.",
+                "hu": "Időjárásálló ruházat a busztól tartó útra.",
+                "ro": "Haine rezistente la vreme pentru drumul de la bus.",
+                "en": "Weatherproof clothing for the walk from the bus."
+              }
+            },
+            {
+              "name": "Pump Room (Pijalnia Wód)",
+              "tip_5lang": {
+                "de": "Warmer Stopp vor der Rückfahrt.",
+                "hu": "Meleg megálló a visszautazás előtt.",
+                "ro": "Oprire caldă înainte de drumul de întoarcere.",
+                "en": "Warm stop before the return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bustickets können beim Fahrer gekauft werden.",
+              "App 'Jakdojade' für Echtzeitpläne nutzen.",
+              "Wartehäuschen sind meist überdacht.",
+              "Häufige Verbindungen im Stadtgebiet."
+            ],
+            "hu": [
+              "Buszjegy a sofőrnél is vásárolható.",
+              "Használja a 'Jakdojade' alkalmazást.",
+              "A várók többnyire fedettek.",
+              "Gyakori járatok a város területén."
+            ],
+            "ro": [
+              "Biletele pot fi cumpărate de la șofer.",
+              "Folosiți aplicația 'Jakdojade' pentru orar.",
+              "Stațiile sunt în mare parte acoperite.",
+              "Conexiuni frecvente în zona urbană."
+            ],
+            "en": [
+              "Bus tickets can be bought from the driver.",
+              "Use 'Jakdojade' app for real-time schedules.",
+              "Bus shelters are mostly covered.",
+              "Frequent connections within the city area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Jastrzębie im Winter gemütlich mit dem Bus. Vormittags besuchen Sie die Kirche und die Geschichtsgalerie, die angenehm geheizt sind. Mittags bringt Sie der Bus zum verschneiten Kurpark. Genießen Sie die winterliche Ruhe im Kurhaus bei einem heißen Getränk. Der frühe Sonnenuntergang macht die Rückfahrt in der beleuchteten Stadt besonders schön.",
+            "hu": "Fedezze fel Jastrzębiét télen kényelmesen busszal. Délelőtt látogasson el a templomba és a Galériába, amelyek kellemesen fűtöttek. Délben a busz a havas Gyógyparkba viszi. Élvezze a téli nyugalmat a Gyógyházban egy forró ital mellett. A korai naplemente különlegessé teszi a kivilágított városban a visszautat.",
+            "ro": "Descoperiți Jastrzębie iarna confortabil cu autobuzul. Dimineața vizitați biserica și galeria, care sunt bine încălzite. La prânz, autobuzul vă duce la parcul înzăpezit. Bucurați-vă de liniștea iernii în Casa de Cură cu o băutură caldă. Apusul devreme face drumul de întoarcere frumos.",
+            "en": "Discover Jastrzębie in winter comfortably by bus. In the morning, visit the church and the History Gallery, which are pleasantly heated. At noon, the bus takes you to the snowy Spa Park. Enjoy the winter peace in the Spa House with a hot drink. Early sunset makes the return trip in the illuminated city especially beautiful."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Main Church & Gallery",
+              "tip_5lang": {
+                "de": "Geheizte Busse bieten gute Erholung.",
+                "hu": "A fűtött buszok jó pihenést nyújtanak.",
+                "ro": "Autobuzele încălzite oferă odihnă bună.",
+                "en": "Heated buses provide good recovery."
+              }
+            },
+            {
+              "name": "City History Gallery",
+              "tip_5lang": {
+                "de": "Viel Zeit im Innenbereich verbringen.",
+                "hu": "Töltsön sok időt a belső terekben.",
+                "ro": "Petreceți mult timp în interior.",
+                "en": "Spend plenty of time indoors."
+              }
+            },
+            {
+              "name": "Monument to the Miners",
+              "tip_5lang": {
+                "de": "Zügig zur nächsten Haltestelle gehen.",
+                "hu": "Haladjon tempósan a következő megállóig.",
+                "ro": "Mergeți rapid spre următoarea stație.",
+                "en": "Walk briskly to the next stop."
+              }
+            },
+            {
+              "name": "Cluster 2: Spa Park & Spa Buildings",
+              "tip_5lang": {
+                "de": "Beleuchtete Wege am späten Nachmittag.",
+                "hu": "Kivilágított utak késő délután.",
+                "ro": "Alei iluminate după-amiaza târziu.",
+                "en": "Illuminated paths in the late afternoon."
+              }
+            },
+            {
+              "name": "Spa House (Dom Zdrojowy)",
+              "tip_5lang": {
+                "de": "Idealer Ort für Tee oder Kaffee.",
+                "hu": "Ideális hely egy teára vagy kávéra.",
+                "ro": "Loc ideal pentru un ceai sau o cafea.",
+                "en": "Ideal place for tea or coffee."
+              }
+            },
+            {
+              "name": "Pump Room (Pijalnia Wód)",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich vor der Abfahrt auf.",
+                "hu": "Melegedjen fel az indulás előtt.",
+                "ro": "Încălziți-vă înainte de plecare.",
+                "en": "Warm up before departure."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei Schnee leicht abweichen.",
+              "Warten Sie in Geschäften nahe der Haltestelle.",
+              "Rutschgefahr beim Ein- und Aussteigen.",
+              "Elektronische Fahrkarten sind oft günstiger."
+            ],
+            "hu": [
+              "A menetrend hóesésben kissé eltérhet.",
+              "Várjon a megálló közeli üzletekben.",
+              "Csúszásveszély le- és felszállásnál.",
+              "Az elektronikus jegyek gyakran olcsóbbak."
+            ],
+            "ro": [
+              "Orarele pot varia ușor în caz de ninsoare.",
+              "Așteptați în magazinele de lângă stație.",
+              "Risc de alunecare la urcare și coborâre.",
+              "Biletele electronice sunt adesea mai ieftine."
+            ],
+            "en": [
+              "Schedules may vary slightly in snow.",
+              "Wait in shops near the bus stop.",
+              "Slip hazard when boarding or alighting.",
+              "Electronic tickets are often cheaper."
+            ]
+          }
+        }
       }
     }
   }

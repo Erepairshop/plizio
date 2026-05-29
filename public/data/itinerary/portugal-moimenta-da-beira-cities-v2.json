@@ -375,6 +375,206 @@
           "Most attractions are located close to each other.",
           "Plan for a lunch break at a traditional restaurant to enjoy the local cuisine."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Pelourinho unter dem Regenschirm. Die Matriz-Kirche bietet danach trockenen Unterschlupf für Besichtigungen.\n\nMittags flüchten wir in das Museum für Sakrale Kunst und den Solar dos Guedes, wo die dicken Mauern vor dem beirischen Regen schützen.\n\nDer Nachmittag gehört der Kultur in der Aquilino Ribeiro Stiftung. Ein idealer Ort, um dem Wetter lesend zu trotzen.\n\nAbends bietet der Aussichtspunkt São Torcato trotz Nebel eine mystische Atmosphäre über den nassen Dächern von Moimenta.",
+            "hu": "A reggel az esernyők alatt kezdődik a Pelourinhónál. A Főtemplom tökéletes búvóhely a szakadó eső elől a lelki feltöltődéshez.\n\nDélben a Szakrális Művészeti Múzeumba és a Solar dos Guedes falai közé húzódunk, ahol a történelem szárazon tart.\n\nDélután az Aquilino Ribeiro Alapítvány kiállításai nyújtanak menedéket. Ideális hely a viharos órák átvészelésére.\n\nEste a São Torcato kilátó ködbe burkolózó panorámája vár. A nedves gránitkövek között a város fényei különlegesen csillognak.",
+            "ro": "Dimineața începe la Pelourinho sub umbrelă. Biserica Matriz oferă apoi un adăpost uscat pentru rugăciune și vizitare.\n\nLa prânz ne refugiem în Muzeul de Artă Sacră și Solar dos Guedes, unde zidurile groase ne protejează de ploaia din Beira.\n\nDupă-amiaza este dedicată culturii la Fundația Aquilino Ribeiro. Un loc ideal pentru a ignora vremea de afară printre cărți.\n\nSeara, punctul de belvedere São Torcato oferă o atmosferă mistică peste acoperișurile umede, în ciuda negurii.",
+            "en": "Morning starts at the Pillory under the umbrella. The Mother Church then provides a dry sanctuary for exploration.\n\nAt noon, we escape into the Museum of Sacred Art and Solar dos Guedes, where thick walls protect us from the Beira rain.\n\nAfternoon is dedicated to culture at the Aquilino Ribeiro Foundation. An ideal place to defy the weather indoors.\n\nIn the evening, the São Torcato viewpoint offers a mystical atmosphere over the wet roofs of Moimenta, even through the mist."
+          },
+          "stops": [
+            {
+              "name": "Pillory of Moimenta",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Schirm.",
+                "hu": "Gyors megálló az esernyő alatt.",
+                "ro": "Scurtă oprire sub umbrelă.",
+                "en": "Quick stop under the umbrella."
+              }
+            },
+            {
+              "name": "Mother Church of Moimenta da Beira",
+              "tip_5lang": {
+                "de": "Trockener Ort für Meditation.",
+                "hu": "Száraz hely az elmélkedésre.",
+                "ro": "Loc uscat pentru meditație.",
+                "en": "Dry place for meditation."
+              }
+            },
+            {
+              "name": "Museum of Sacred Art",
+              "tip_5lang": {
+                "de": "Perfekter Regenrückzugsort.",
+                "hu": "Tökéletes esőnap-menedék.",
+                "ro": "Refugiu perfect pentru ploaie.",
+                "en": "Perfect rain retreat."
+              }
+            },
+            {
+              "name": "Solar dos Guedes",
+              "tip_5lang": {
+                "de": "Innenbesichtigung empfohlen.",
+                "hu": "Beltéri látogatás javasolt.",
+                "ro": "Vizită interioară recomandată.",
+                "en": "Indoor visit recommended."
+              }
+            },
+            {
+              "name": "Convent of Our Lady of Purification",
+              "tip_5lang": {
+                "de": "Ruhiger Schutz im Kreuzgang.",
+                "hu": "Csendes menedék a kerengőben.",
+                "ro": "Adăpost liniștit în claustru.",
+                "en": "Quiet shelter in the cloister."
+              }
+            },
+            {
+              "name": "Aquilino Ribeiro Foundation",
+              "tip_5lang": {
+                "de": "Lange Aufenthalte möglich.",
+                "hu": "Hosszabb időtöltésre alkalmas.",
+                "ro": "Potrivit pentru șederi lungi.",
+                "en": "Suitable for long stays."
+              }
+            },
+            {
+              "name": "São Torcato Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht, rutschige Steine.",
+                "hu": "Vigyázat, csúszós kövek.",
+                "ro": "Atenție, pietre alunecoase.",
+                "en": "Caution, slippery stones."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Der Wind in Beira kann Schirme leicht umknicken.",
+              "Nutzen Sie die Cafés in der Nähe der Kirche für Pausen.",
+              "Die Sicht am Aussichtspunkt ist bei Regen oft neblig."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utcákon.",
+              "A beirai szél könnyen kifordíthatja az esernyőt.",
+              "Használja ki a templom melletti kávézókat pihenőnek.",
+              "A kilátónál esőben gyakori a sűrű köd."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru pavajul cu piatră.",
+              "Vântul din Beira poate îndoi ușor umbrelele.",
+              "Folosiți cafenelele de lângă biserică pentru pauze.",
+              "Vizibilitatea la belvedere este adesea redusă de ceață."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "The Beira wind can easily flip umbrellas.",
+              "Use the cafes near the church for dry breaks.",
+              "Visibility at the viewpoint is often foggy during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frische Wintermorgen am Pelourinho weckt die Geister. Die Matriz-Kirche bietet danach einen Moment der inneren Einkehr in kühler Stille.\n\nMittags wärmen wir uns in den Museen von Moimenta auf. Die historischen Exponate lassen die Kälte draußen vergessen.\n\nDer Nachmittag steht im Zeichen von Aquilino Ribeiro. In der Stiftung lässt es sich wunderbar in die lokale Literatur eintauchen.\n\nAbends erleben wir den frühen Sonnenuntergang am São Torcato. Die klare Winterluft bietet eine weite Sicht über die Beira-Landschaft.",
+            "hu": "A friss téli reggel a Pelourinhónál ébreszti fel a látogatót. A Főtemplom hűvös csendje tökéletes a reggeli áhítathoz.\n\nDélben a város múzeumaiban keresünk melegséget. A művészeti kincsek és a Solar falai között elfelejtjük a kinti fagyot.\n\nDélután az Aquilino Ribeiro Alapítvány kulturális melegsége vár. Merüljön el a régió irodalmi örökségében.\n\nEste a korai naplementét élvezzük a São Torcato kilátónál. A tiszta téli levegőben messzire ellátni a Beira Alta fennsíkján.",
+            "ro": "Dimineața rece de iarnă la Pelourinho trezește simțurile. Biserica Matriz oferă apoi un moment de reculegere în liniștea răcoroasă.\n\nLa prânz ne încălzim în muzeele din Moimenta. Exponatele istorice ne fac să uităm de frigul de afară.\n\nDupă-amiaza este dedicată lui Aquilino Ribeiro. Fundația este locul ideal pentru a descoperi literatura locală la căldură.\n\nSeara admirăm apusul timpuriu de la São Torcato. Aerul clar de iarnă oferă o vizibilitate extinsă peste peisajul Beira.",
+            "en": "The crisp winter morning at the Pillory wakes up the senses. The Mother Church then offers a moment of reflection in cool silence.\n\nAt noon, we warm up in the museums of Moimenta. The historical exhibits help us forget the cold outside.\n\nAfternoon is dedicated to Aquilino Ribeiro. The Foundation is a wonderful place to dive into local literature indoors.\n\nIn the evening, we catch the early sunset at São Torcato. The clear winter air provides long-range views over the Beira landscape."
+          },
+          "stops": [
+            {
+              "name": "Pillory of Moimenta",
+              "tip_5lang": {
+                "de": "Kaltes Metall, nicht berühren.",
+                "hu": "Hideg fém, ne érintse meg.",
+                "ro": "Metal rece, nu atingeți.",
+                "en": "Cold metal, do not touch."
+              }
+            },
+            {
+              "name": "Mother Church of Moimenta da Beira",
+              "tip_5lang": {
+                "de": "Warme Kleidung im Inneren nötig.",
+                "hu": "Meleg ruha ajánlott odabent.",
+                "ro": "Haine groase necesare în interior.",
+                "en": "Warm clothes needed inside."
+              }
+            },
+            {
+              "name": "Museum of Sacred Art",
+              "tip_5lang": {
+                "de": "Angenehme Innentemperaturen.",
+                "hu": "Kellemes benti hőmérséklet.",
+                "ro": "Temperatură plăcută în interior.",
+                "en": "Comfortable indoor temperature."
+              }
+            },
+            {
+              "name": "Solar dos Guedes",
+              "tip_5lang": {
+                "de": "Schutz vor dem kalten Wind.",
+                "hu": "Menedék a hideg szél elől.",
+                "ro": "Protecție împotriva vântului rece.",
+                "en": "Protection from cold wind."
+              }
+            },
+            {
+              "name": "Convent of Our Lady of Purification",
+              "tip_5lang": {
+                "de": "Winterliche Stille genießen.",
+                "hu": "Téli csend és nyugalom.",
+                "ro": "Bucurați-vă de liniștea iernii.",
+                "en": "Enjoy winter silence."
+              }
+            },
+            {
+              "name": "Aquilino Ribeiro Foundation",
+              "tip_5lang": {
+                "de": "Idealer Ort zum Aufwärmen.",
+                "hu": "Ideális hely a felmelegedésre.",
+                "ro": "Loc ideal pentru încălzire.",
+                "en": "Ideal place to warm up."
+              }
+            },
+            {
+              "name": "São Torcato Viewpoint",
+              "tip_5lang": {
+                "de": "Sonnenuntergang gegen 17:15 Uhr.",
+                "hu": "Naplemente 17:15 körül.",
+                "ro": "Apus de soare în jur de 17:15.",
+                "en": "Sunset around 5:15 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schichten, es ist windig auf dem Plateau.",
+              "Trinken Sie lokale Kräutertees zum Aufwärmen.",
+              "Museen schließen im Winter oft etwas früher.",
+              "Der Aussichtspunkt ist bei Frost sehr rutschig."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, a fennsíkon erős a szél.",
+              "Igyon helyi gyógyteát a felmelegedéshez.",
+              "A múzeumok télen korábban zárhatnak.",
+              "A kilátó fagyos időben nagyon csúszós lehet."
+            ],
+            "ro": [
+              "Purtați haine în straturi, e vânt pe platou.",
+              "Beți ceaiuri de plante locale pentru încălzire.",
+              "Muzeele se închid adesea mai devreme iarna.",
+              "Punctul de belvedere este alunecos pe îngheț."
+            ],
+            "en": [
+              "Wear layers, it is windy on the plateau.",
+              "Drink local herbal teas to warm up.",
+              "Museums may close slightly earlier in winter.",
+              "The viewpoint is very slippery during frost."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -744,6 +944,206 @@
           "Bring plenty of water, especially for the ride to the reservoir.",
           "The roads can be hilly, so be prepared for some climbs."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt durch Moimenta beginnt am Pelourinho. Die steilen Gassen erfordern bei Regen volle Konzentration.\n\nMittags radeln wir vorsichtig zur Albufeira do Vilar. Der Regen peitscht über den Stausee, was die Landschaft wild erscheinen lässt.\n\nNachmittags kehren wir ins Zentrum zurück und finden im Museum für Sakrale Kunst den wohlverdienten trockenen Halt.\n\nDer Tag endet mit einer kurzen Fahrt zum Aussichtspunkt, wobei die Bremsen auf dem nassen Asphalt geprüft werden sollten.",
+            "hu": "Egy esős tekerés kezdődik a Pelourinhónál. A macskaköves emelkedők fokozott figyelmet igényelnek a csapadékban.\n\nDélben az Albufeira do Vilar felé vesszük az irányt. Az eső áztatta víztározó vad és drámai látványt nyújt.\n\nDélután visszatérünk a központba, hogy a Szakrális Művészeti Múzeum tárlatai között száradjunk meg.\n\nA napot a kilátónál zárjuk, de ügyeljünk a fékekre a lejtős, vizes aszfalton Moimenta utcáin.",
+            "ro": "O plimbare umedă prin Moimenta începe la Pelourinho. Străzile abrupte necesită concentrare maximă pe ploaie.\n\nLa prânz pedalăm cu atenție spre Albufeira do Vilar. Ploaia peste lacul de acumulare face peisajul să pară sălbatic.\n\nDupă-amiaza ne întoarcem în centru și găsim în Muzeul de Artă Sacră oprirea uscată binemeritată.\n\nZiua se încheie cu o scurtă cursă spre belvedere, verificând frânele pe asfaltul ud.",
+            "en": "A wet ride through Moimenta starts at the Pillory. The steep alleys require full concentration in the rain.\n\nAt noon, we cycle carefully to Albufeira do Vilar. The rain whipping across the reservoir makes the landscape appear wild.\n\nAfternoon brings us back to the center for a well-deserved dry stop at the Museum of Sacred Art.\n\nThe day ends with a short ride to the viewpoint, making sure to test the brakes on the wet asphalt."
+          },
+          "stops": [
+            {
+              "name": "Pillory of Moimenta",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Pflaster.",
+                "hu": "Vigyázat a macskakövön.",
+                "ro": "Atenție pe pavaj.",
+                "en": "Caution on the pavement."
+              }
+            },
+            {
+              "name": "Mother Church of Moimenta da Beira",
+              "tip_5lang": {
+                "de": "Kurze Pause im Trockenen.",
+                "hu": "Rövid pihenő szárazon.",
+                "ro": "Scurtă pauză la uscat.",
+                "en": "Short break in the dry."
+              }
+            },
+            {
+              "name": "Solar dos Guedes",
+              "tip_5lang": {
+                "de": "Fahrrad sicher abstellen.",
+                "hu": "Biztonságos biciklitárolás.",
+                "ro": "Parcați bicicleta în siguranță.",
+                "en": "Park bike securely."
+              }
+            },
+            {
+              "name": "Convent of Our Lady of Purification",
+              "tip_5lang": {
+                "de": "Regenschutz unter Vordächern.",
+                "hu": "Esővédelem az ereszek alatt.",
+                "ro": "Protecție sub streșini.",
+                "en": "Rain protection under eaves."
+              }
+            },
+            {
+              "name": "São Torcato Viewpoint",
+              "tip_5lang": {
+                "de": "Bremsweg ist deutlich länger.",
+                "hu": "A féktáv jóval hosszabb.",
+                "ro": "Distanța de frânare e mai mare.",
+                "en": "Braking distance is longer."
+              }
+            },
+            {
+              "name": "Albufeira do Vilar",
+              "tip_5lang": {
+                "de": "Starker Wind am Seeufer.",
+                "hu": "Erős szél a tóparton.",
+                "ro": "Vânt puternic pe malul lacului.",
+                "en": "Strong wind at the lakeside."
+              }
+            },
+            {
+              "name": "Museum of Sacred Art",
+              "tip_5lang": {
+                "de": "Aufwärmen nach der Fahrt.",
+                "hu": "Bemelegedés tekerés után.",
+                "ro": "Încălzire după cursă.",
+                "en": "Warm up after the ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter essenziell.",
+              "Die Granitsteine in Moimenta sind extrem rutschig.",
+              "Tragen Sie neonfarbene Regenbekleidung für Sichtbarkeit.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Abfahrt."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "A gránitkövek Moimentában rendkívül csúszósak.",
+              "Viseljen feltűnő esőruházatot a láthatóságért.",
+              "Indulás előtt ellenőrizze a fékbetéteket."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale pe această vreme.",
+              "Pietrele de granit sunt extrem de alunecoase.",
+              "Purtați haine de ploaie neon pentru vizibilitate.",
+              "Verificați saboții de frână înainte de plecare."
+            ],
+            "en": [
+              "Mudguards are essential in this weather.",
+              "The granite stones in Moimenta are extremely slippery.",
+              "Wear high-visibility rain gear.",
+              "Check your brake pads before starting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start in den Radtag am Pelourinho. Die kühle Morgenluft auf 700m Höhe ist belebend.\n\nMittags führt die Route zur Albufeira do Vilar. Der kalte Wind vom Wasser erfordert gute Handschuhe und Thermokleidung.\n\nNachmittags bietet das Museum für Sakrale Kunst eine warme Zuflucht, um die steifen Finger wieder zu bewegen.\n\nZum Abschluss genießen wir die goldene Stunde am São Torcato, bevor die Kälte nach dem frühen Sonnenuntergang spürbar zunimmt.",
+            "hu": "Fagyos kezdés a Pelourinhónál. A 700 méteres magasságban lévő friss reggeli levegő azonnal felébreszt.\n\nDélben az Albufeira do Vilarhoz tekerünk. A víz felől érkező jéghideg szél ellen réteges öltözet és kesztyű kell.\n\nDélután a Szakrális Művészeti Múzeum nyújt meleg menedéket, ahol átmelegedhetünk a visszaút előtt.\n\nA napot a São Torcato aranyórájával zárjuk, mielőtt a korai naplemente után hirtelen lehűlne az idő.",
+            "ro": "Un început înghețat al zilei pe bicicletă la Pelourinho. Aerul rece de dimineață la 700m altitudine este revigorant.\n\nLa prânz, traseul duce la Albufeira do Vilar. Vântul rece de pe apă necesită mănuși bune și haine termice.\n\nDupă-amiaza, Muzeul de Artă Sacră oferă un refugiu cald pentru a ne dezmorți degetele.\n\nLa final, ne bucurăm de ora de aur la São Torcato, înainte ca frigul să se intensifice după apusul timpuriu.",
+            "en": "A frosty start to the cycling day at the Pillory. The cool morning air at 700m altitude is invigorating.\n\nAt noon, the route leads to Albufeira do Vilar. The cold wind from the water requires good gloves and thermal gear.\n\nAfternoon brings a warm refuge at the Museum of Sacred Art to get stiff fingers moving again.\n\nTo finish, we enjoy the golden hour at São Torcato before the cold intensifies after the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Pillory of Moimenta",
+              "tip_5lang": {
+                "de": "Vorsicht vor morgendlichem Reif.",
+                "hu": "Vigyázat a reggeli zúzmarával.",
+                "ro": "Atenție la chiciura de dimineață.",
+                "en": "Watch out for morning frost."
+              }
+            },
+            {
+              "name": "Mother Church of Moimenta da Beira",
+              "tip_5lang": {
+                "de": "Kurzer Halt, um warm zu bleiben.",
+                "hu": "Rövid megálló a hőérzetért.",
+                "ro": "Oprire scurtă pentru căldură.",
+                "en": "Short stop to stay warm."
+              }
+            },
+            {
+              "name": "Solar dos Guedes",
+              "tip_5lang": {
+                "de": "Sonnige Plätze im Windschatten.",
+                "hu": "Napos, szélvédett helyek.",
+                "ro": "Locuri însorite ferite de vânt.",
+                "en": "Sunny spots out of the wind."
+              }
+            },
+            {
+              "name": "Convent of Our Lady of Purification",
+              "tip_5lang": {
+                "de": "Kühle Mauern, zügig weiter.",
+                "hu": "Hűvös falak, haladjon tovább.",
+                "ro": "Ziduri reci, continuați rapid.",
+                "en": "Cool walls, move on quickly."
+              }
+            },
+            {
+              "name": "São Torcato Viewpoint",
+              "tip_5lang": {
+                "de": "Warme Jacke für den Stopp.",
+                "hu": "Meleg kabát a megállóhoz.",
+                "ro": "Jachetă groasă pentru oprire.",
+                "en": "Warm jacket for the stop."
+              }
+            },
+            {
+              "name": "Albufeira do Vilar",
+              "tip_5lang": {
+                "de": "Thermische Kleidung empfohlen.",
+                "hu": "Termo ruházat javasolt.",
+                "ro": "Haine termice recomandate.",
+                "en": "Thermal clothing recommended."
+              }
+            },
+            {
+              "name": "Museum of Sacred Art",
+              "tip_5lang": {
+                "de": "Finger im Warmen auftauen.",
+                "hu": "Ujjak felmelegítése odabent.",
+                "ro": "Dezghețați degetele la căldură.",
+                "en": "Thaw fingers in the warm."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie unbedingt windfeste Handschuhe.",
+              "Die Abfahrten können sehr auskühlend sein.",
+              "Halten Sie sich in Bewegung, um warm zu bleiben.",
+              "Stirnlampen sind wegen der frühen Dunkelheit wichtig."
+            ],
+            "hu": [
+              "Feltétlenül viseljen szélálló kesztyűt.",
+              "A lejtőkön nagyon lehűlhet a teste.",
+              "Maradjon mozgásban a hőtermeléshez.",
+              "A korai sötétedés miatt lámpa szükséges."
+            ],
+            "ro": [
+              "Purtați neapărat mănuși rezistente la vânt.",
+              "Coborârile pot fi foarte răcoritoare.",
+              "Rămâneți în mișcare pentru a menține căldura.",
+              "Lanternele sunt importante din cauza întunericului."
+            ],
+            "en": [
+              "Be sure to wear windproof gloves.",
+              "Descents can be very chilling for the body.",
+              "Keep moving to maintain body heat.",
+              "Lights are important due to early darkness."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1120,6 +1520,206 @@
           "Parking in the town center can be tricky, so use the designated parking areas.",
           "Factor in driving times between the clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem beginnt der Regentag mit der Parkplatzsuche im Zentrum. Der Pelourinho ist nur einen kurzen Sprung entfernt.\n\nMittags fahren wir zur Albufeira do Vilar. Die Fahrt durch den Regen bietet schöne Ausblicke auf die wasserreiche Beira Alta.\n\nNachmittags steuern wir die Stiftung Aquilino Ribeiro an, wobei der Parkplatz direkt vor der Tür trockene Füße garantiert.\n\nDer Abend endet am Aussichtspunkt São Torcato. Auch bei Regen lässt sich das Panorama entspannt aus dem Auto heraus genießen.",
+            "hu": "Kényelmesen indul az esős nap a központi parkolóban. A Pelourinho és a Főtemplom csak pár lépésnyire van.\n\nDélben az Albufeira do Vilar felé autózunk. Az ablaktörlők ritmusa mellett csodálhatjuk a Beira Alta víztől duzzadó tájait.\n\nDélután az Aquilino Ribeiro Alapítványhoz hajtunk, ahol a közeli parkolás garantálja a száraz érkezést.\n\nA nap a São Torcato kilátónál zárul, ahol az eső elől az autó biztonságába húzódva is élvezhető a panoráma.",
+            "ro": "Ziua ploioasă începe confortabil cu găsirea unui loc de parcare în centru. Pelourinho este la doar câțiva pași distanță.\n\nLa prânz conducem spre Albufeira do Vilar. Drumul prin ploaie oferă vederi frumoase asupra regiunii Beira Alta.\n\nDupă-amiaza ne îndreptăm spre Fundația Aquilino Ribeiro, unde parcarea chiar în față garantează picioare uscate.\n\nSeara se încheie la belvederea São Torcato. Chiar și pe ploaie, panorama poate fi savurată relaxat din mașină.",
+            "en": "The rainy day starts comfortably by finding parking in the center. The Pillory is just a short hop away.\n\nAt noon, we drive to Albufeira do Vilar. The drive through the rain offers beautiful views of the water-rich Beira Alta.\n\nAfternoon brings us to the Aquilino Ribeiro Foundation, with parking right out front ensuring dry feet.\n\nThe evening ends at the São Torcato viewpoint. Even in the rain, the panorama can be enjoyed from the comfort of the car."
+          },
+          "stops": [
+            {
+              "name": "Parking in the Center",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Pelourinho.",
+                "hu": "Parkoljon közel a Pelourinhóhoz.",
+                "ro": "Parcați aproape de Pelourinho.",
+                "en": "Park close to the Pillory."
+              }
+            },
+            {
+              "name": "Pillory and Mother Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg bei Regen.",
+                "hu": "Rövid séta az esőben.",
+                "ro": "Scurt drum pe jos prin ploaie.",
+                "en": "Short walk in the rain."
+              }
+            },
+            {
+              "name": "Museum of Sacred Art & Solar dos Guedes",
+              "tip_5lang": {
+                "de": "Unterstellmöglichkeiten vorhanden.",
+                "hu": "Vannak fedett várakozóhelyek.",
+                "ro": "Există locuri de adăpostire.",
+                "en": "Shelter options available."
+              }
+            },
+            {
+              "name": "Albufeira do Vilar",
+              "tip_5lang": {
+                "de": "Sicht aus dem Auto möglich.",
+                "hu": "Kilátás az autóból is jó.",
+                "ro": "Vedere posibilă din mașină.",
+                "en": "View possible from the car."
+              }
+            },
+            {
+              "name": "São Torcato Viewpoint",
+              "tip_5lang": {
+                "de": "Fenster beschlagen leicht.",
+                "hu": "Az ablakok könnyen párásodnak.",
+                "ro": "Geamurile se aburesc ușor.",
+                "en": "Windows fog up easily."
+              }
+            },
+            {
+              "name": "Convent of Our Lady of Purification",
+              "tip_5lang": {
+                "de": "Direkte Zufahrt möglich.",
+                "hu": "Közvetlen behajtás lehetséges.",
+                "ro": "Acces direct posibil.",
+                "en": "Direct access possible."
+              }
+            },
+            {
+              "name": "Aquilino Ribeiro Foundation",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Eingang.",
+                "hu": "Parkoló közvetlen a bejáratnál.",
+                "ro": "Parcare chiar la intrare.",
+                "en": "Parking right at the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer.",
+              "Einige Nebenstraßen können bei Starkregen fluten.",
+              "Halten Sie einen Schirm für den Weg zum Museum bereit.",
+              "Vorsicht vor Aquaplaning auf der N226."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlők állapotát.",
+              "Néhány mellékút víz alá kerülhet nagy esőben.",
+              "Legyen kéznél esernyő a múzeumi bejárathoz.",
+              "Vigyázat az aquaplaninggal az N226-os úton."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor de parbriz.",
+              "Unele drumuri secundare se pot inunda la ploaie.",
+              "Aveți o umbrelă pregătită pentru drumul spre muzeu.",
+              "Atenție la acvaplanare pe drumul N226."
+            ],
+            "en": [
+              "Check the condition of your windshield wipers.",
+              "Some side roads can flood during heavy rain.",
+              "Keep an umbrella ready for the walk to the museum.",
+              "Watch out for aquaplaning on the N226 road."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt mit einer warmen Autofahrt ins Zentrum. Die Parkplatzsuche am Pelourinho ist unkompliziert.\n\nMittags führt die Tour zur Albufeira do Vilar. Die winterliche Landschaft der Beira spiegelt sich im stillen Wasser des Sees.\n\nNachmittags besuchen wir die Stiftung Aquilino Ribeiro. Die Heizung im Auto sorgt zwischen den Stopps für wohlige Wärme.\n\nZum Sonnenuntergang fahren wir zum São Torcato. Das Auto dient als perfekter Windschutz, um die eisige, aber schöne Aussicht zu genießen.",
+            "hu": "Tiszta téli nap indul meleg autózással a központba. A parkolás a Pelourinho mellett ilyenkor is egyszerű.\n\nDélben az Albufeira do Vilarhoz látogatunk. A Beira téli tájai tükröződnek a tó nyugodt, hideg vizében.\n\nDélután az Aquilino Ribeiro Alapítványt keressük fel. A megállók között az autó fűtése gondoskodik a kényelemről.\n\nNaplementére a São Torcato kilátóhoz hajtunk. Az autó tökéletes szélvédelmet nyújt a jeges, de gyönyörű panoráma élvezetéhez.",
+            "ro": "O zi senină de iarnă începe cu o călătorie caldă cu mașina spre centru. Parcarea lângă Pelourinho este simplă.\n\nLa prânz, turul duce la Albufeira do Vilar. Peisajul de iarnă din Beira se oglindește în apa liniștită a lacului.\n\nDupă-amiaza vizităm Fundația Aquilino Ribeiro. Încălzirea din mașină asigură confort între opriri.\n\nLa apus conducem spre São Torcato. Mașina servește ca protecție ideală împotriva vântului pentru a admira vederea rece, dar frumoasă.",
+            "en": "A clear winter day starts with a warm drive into the center. Finding parking near the Pillory is straightforward.\n\nAt noon, the tour leads to Albufeira do Vilar. The winter landscape of Beira is reflected in the still water of the lake.\n\nAfternoon brings a visit to the Aquilino Ribeiro Foundation. The car heater provides cozy warmth between stops.\n\nAt sunset, we drive to São Torcato. The car serves as the perfect windbreak to enjoy the icy but beautiful view."
+          },
+          "stops": [
+            {
+              "name": "Parking in the Center",
+              "tip_5lang": {
+                "de": "Eisfreie Scheiben wichtig.",
+                "hu": "Jégmentes szélvédő fontos.",
+                "ro": "Parbriz degivrat e important.",
+                "en": "Ice-free windshield is important."
+              }
+            },
+            {
+              "name": "Pillory and Mother Church",
+              "tip_5lang": {
+                "de": "Vorsicht vor Straßenglätte.",
+                "hu": "Vigyázat az útszéli csúszóssággal.",
+                "ro": "Atenție la gheața de pe drum.",
+                "en": "Watch for icy patches on roads."
+              }
+            },
+            {
+              "name": "Museum of Sacred Art & Solar dos Guedes",
+              "tip_5lang": {
+                "de": "Warme Innenräume genießen.",
+                "hu": "Élvezze a meleg belső tereket.",
+                "ro": "Bucurați-vă de interiorul cald.",
+                "en": "Enjoy the warm interiors."
+              }
+            },
+            {
+              "name": "Albufeira do Vilar",
+              "tip_5lang": {
+                "de": "Uferzonen können gefroren sein.",
+                "hu": "A part mentén fagyos lehet.",
+                "ro": "Malurile pot fi înghețate.",
+                "en": "Shorelines can be frozen."
+              }
+            },
+            {
+              "name": "São Torcato Viewpoint",
+              "tip_5lang": {
+                "de": "Warmer Stopp im Fahrzeug.",
+                "hu": "Meleg várakozás a kocsiban.",
+                "ro": "Oprire caldă în vehicul.",
+                "en": "Warm stop inside the vehicle."
+              }
+            },
+            {
+              "name": "Convent of Our Lady of Purification",
+              "tip_5lang": {
+                "de": "Zufahrt oft schattig und glatt.",
+                "hu": "Az út gyakran árnyékos és jeges.",
+                "ro": "Acces adesea umbrit și înghețat.",
+                "en": "Access often shaded and icy."
+              }
+            },
+            {
+              "name": "Aquilino Ribeiro Foundation",
+              "tip_5lang": {
+                "de": "Heizung im Auto nutzen.",
+                "hu": "Használja az autó fűtését.",
+                "ro": "Folosiți încălzirea mașinii.",
+                "en": "Use the car heater."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Waschanlage.",
+              "In den Bergen kann es zu plötzlichem Glatteis kommen.",
+              "Winterreifen sind in dieser Region ratsam.",
+              "Batteriecheck vor der Fahrt in die Kälte."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A hegyekben hirtelen jegesedés várható.",
+              "Téli gumi erősen ajánlott ebben a régióban.",
+              "Akkumulátor-ellenőrzés a hideg előtt."
+            ],
+            "ro": [
+              "Verificați antigelul din instalația de spălare.",
+              "În munți poate apărea polei brusc.",
+              "Anvelopele de iarnă sunt recomandate în regiune.",
+              "Verificați bateria înainte de drumul prin frig."
+            ],
+            "en": [
+              "Check the antifreeze in your washer fluid.",
+              "Sudden black ice can occur in the mountains.",
+              "Winter tires are advisable in this region.",
+              "Check your battery before driving in the cold."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1472,6 +2072,188 @@
           "Have small change ready for bus tickets.",
           "Factor in waiting times at bus stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regentag beginnt an der zentralen Bushaltestelle. Kurze Wege führen zum Pelourinho und zur Matriz-Kirche.\n\nMittags erkunden wir den Solar dos Guedes. Die Busverbindungen erlauben einen trockenen Transfer zwischen den Stadtteilen.\n\nNachmittags nehmen wir den Bus Richtung São Torcato, um die Aussicht trotz des grauen Himmels zu erleben.\n\nZum Abschluss führt die Fahrt zum Museum für Sakrale Kunst, wo wir den Tag im Trockenen ausklingen lassen.",
+            "hu": "Az esős nap a központi buszmegállóban indul. Rövid séta vezet a Pelourinhóhoz és a Főtemplomhoz.\n\nDélben a Solar dos Guedes épületét fedezzük fel. A buszjáratok lehetővé teszik a száraz közlekedést a városrészek között.\n\nDélután buszra szállunk São Torcato felé, hogy a szürke égbolt ellenére is lássuk a panorámát.\n\nA nap végén a Szakrális Művészeti Múzeumba látogatunk, ahol szárazon fejezhetjük be a túrát.",
+            "ro": "Ziua ploioasă începe la stația centrală de autobuz. Drumuri scurte duc spre Pelourinho și Biserica Matriz.\n\nLa prânz explorăm Solar dos Guedes. Conexiunile de autobuz permit un transfer uscat între cartiere.\n\nDupă-amiaza luăm autobuzul spre São Torcato pentru a vedea panorama în ciuda cerului gri.\n\nLa final, călătoria ne duce la Muzeul de Artă Sacră, unde încheiem ziua la adăpost.",
+            "en": "The rainy day begins at the central bus stop. Short paths lead to the Pillory and the Mother Church.\n\nAt noon, we explore Solar dos Guedes. Bus connections allow for a dry transfer between city districts.\n\nAfternoon brings a bus ride towards São Torcato to experience the view despite the grey skies.\n\nThe day concludes at the Museum of Sacred Art, where we finish the tour in the dry."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop",
+              "tip_5lang": {
+                "de": "Überdachte Haltestelle nutzen.",
+                "hu": "Használja a fedett megállót.",
+                "ro": "Folosiți stația acoperită.",
+                "en": "Use the covered bus stop."
+              }
+            },
+            {
+              "name": "Pillory and Mother Church",
+              "tip_5lang": {
+                "de": "Regenschutz beim Gehen nötig.",
+                "hu": "Esővédelem szükséges gyalogláskor.",
+                "ro": "Protecție de ploaie necesară.",
+                "en": "Rain protection needed while walking."
+              }
+            },
+            {
+              "name": "Solar dos Guedes & Convent",
+              "tip_5lang": {
+                "de": "Eingangsnähe beachten.",
+                "hu": "Ügyeljen a bejárat közelségére.",
+                "ro": "Atenție la proximitatea intrării.",
+                "en": "Note proximity to the entrance."
+              }
+            },
+            {
+              "name": "Bus Stop near São Torcato",
+              "tip_5lang": {
+                "de": "Wartezeit im Trockenen planen.",
+                "hu": "Tervezze a várakozást fedett helyen.",
+                "ro": "Planificați așteptarea la uscat.",
+                "en": "Plan waiting time in the dry."
+              }
+            },
+            {
+              "name": "São Torcato Viewpoint",
+              "tip_5lang": {
+                "de": "Schnell zurück zum Bus.",
+                "hu": "Gyorsan menjen vissza a buszhoz.",
+                "ro": "Întoarceți-vă rapid la autobuz.",
+                "en": "Return quickly to the bus stop."
+              }
+            },
+            {
+              "name": "Museum of Sacred Art",
+              "tip_5lang": {
+                "de": "Letzter Stopp im Warmen.",
+                "hu": "Utolsó megálló melegben.",
+                "ro": "Ultima oprire la căldură.",
+                "en": "Final stop in the warm."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Rechnen Sie mit wetterbedingten Verspätungen.",
+              "Halten Sie Ihr Ticket griffbereit und trocken.",
+              "Busse sind im Winter gut beheizt.",
+              "Nutzen Sie die App für Echtzeit-Infos."
+            ],
+            "hu": [
+              "Számoljon az időjárás miatti késésekkel.",
+              "Tartsa a jegyét kéznél és szárazon.",
+              "A buszok télen jól fűtöttek.",
+              "Használja az alkalmazást valós idejű infókért."
+            ],
+            "ro": [
+              "Anticipați întârzieri cauzate de vreme.",
+              "Păstrați biletul la îndemână și uscat.",
+              "Autobuzele sunt bine încălzite iarna.",
+              "Folosiți aplicația pentru info în timp real."
+            ],
+            "en": [
+              "Expect weather-related delays.",
+              "Keep your ticket handy and dry.",
+              "Buses are well-heated in winter.",
+              "Use the app for real-time information."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen an der Bushaltestelle. Die Fahrt ins Zentrum von Moimenta ist kurz und gemütlich.\n\nMittags besuchen wir den Solar dos Guedes. Die Busse bieten zwischen den Besichtigungen eine willkommene Aufwärmpause.\n\nNachmittags geht es hinauf nach São Torcato. Die klare Sicht in der Winterkälte macht den kurzen Fußweg von der Haltestelle lohnenswert.\n\nAbends kehren wir zum Museum für Sakrale Kunst zurück, bevor uns der Bus sicher und warm zurück zum Ausgangspunkt bringt.",
+            "hu": "Hűvös téli reggel a buszmegállóban. Az út Moimenta központjába rövid és barátságos.\n\nDélben a Solar dos Guedes épületét keressük fel. A buszok kellemes felmelegedési lehetőséget nyújtanak a látnivalók között.\n\nDélután felmegyünk São Torcato irányába. A téli hidegben a tiszta kilátás megéri a rövid sétát a megállótól.\n\nEste visszatérünk a Szakrális Művészeti Múzeumhoz, mielőtt a busz biztonságban és melegben visszavisz a kiindulópontra.",
+            "ro": "O dimineață răcoroasă de iarnă la stația de autobuz. Drumul spre centrul Moimenta este scurt și confortabil.\n\nLa prânz vizităm Solar dos Guedes. Autobuzele oferă o pauză de încălzire binevenită între vizite.\n\nDupă-amiaza urcăm spre São Torcato. Vederea clară în frigul iernii merită scurta plimbare de la stație.\n\nSeara ne întoarcem la Muzeul de Artă Sacră, înainte ca autobuzul să ne ducă înapoi în siguranță și la căldură.",
+            "en": "A cool winter morning at the bus stop. The ride into the center of Moimenta is short and comfortable.\n\nAt noon, we visit Solar dos Guedes. Buses provide a welcome warming break between sightings.\n\nAfternoon takes us up towards São Torcato. The clear view in the winter cold makes the short walk from the stop worthwhile.\n\nIn the evening, we return to the Museum of Sacred Art before the bus takes us back safely and warmly to the starting point."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop",
+              "tip_5lang": {
+                "de": "Im Windschatten warten.",
+                "hu": "Várjon szélvédett helyen.",
+                "ro": "Așteptați ferit de vânt.",
+                "en": "Wait in a wind-sheltered spot."
+              }
+            },
+            {
+              "name": "Pillory and Mother Church",
+              "tip_5lang": {
+                "de": "Kühle Morgenluft am Platz.",
+                "hu": "Hűvös reggeli levegő a téren.",
+                "ro": "Aer rece de dimineață în piață.",
+                "en": "Cool morning air in the square."
+              }
+            },
+            {
+              "name": "Solar dos Guedes & Convent",
+              "tip_5lang": {
+                "de": "Innenräume sind beheizt.",
+                "hu": "A belső terek fűtöttek.",
+                "ro": "Interioarele sunt încălzite.",
+                "en": "Interiors are heated."
+              }
+            },
+            {
+              "name": "Bus Stop near São Torcato",
+              "tip_5lang": {
+                "de": "Auf den Fahrplan achten.",
+                "hu": "Ügyeljen a menetrendre.",
+                "ro": "Atenție la orarul curselor.",
+                "en": "Pay attention to the schedule."
+              }
+            },
+            {
+              "name": "São Torcato Viewpoint",
+              "tip_5lang": {
+                "de": "Sonnige Seite wählen.",
+                "hu": "Válassza a napos oldalt.",
+                "ro": "Alegeți partea însorită.",
+                "en": "Choose the sunny side."
+              }
+            },
+            {
+              "name": "Museum of Sacred Art",
+              "tip_5lang": {
+                "de": "Gemütlicher Abschluss.",
+                "hu": "Kellemes túrazárás.",
+                "ro": "Final de tur plăcut.",
+                "en": "Pleasant tour conclusion."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können im Winter leicht verspätet sein.",
+              "Tragen Sie warme Kleidung für die Wartezeit.",
+              "Abends wird es in Moimenta sehr schnell kalt.",
+              "Vergewissern Sie sich über die letzte Rückfahrt."
+            ],
+            "hu": [
+              "A buszok télen kicsit késhetnek.",
+              "Viseljen meleg ruhát a várakozáshoz.",
+              "Este Moimentában nagyon gyorsan lehűl az idő.",
+              "Ellenőrizze az utolsó visszainduló járatot."
+            ],
+            "ro": [
+              "Autobuzele pot întârzia ușor iarna.",
+              "Purtați haine groase pentru așteptare.",
+              "Seara se răcește foarte repede în Moimenta.",
+              "Verificați ora ultimei curse de întoarcere."
+            ],
+            "en": [
+              "Buses may be slightly delayed in winter.",
+              "Wear warm clothing for the waiting time.",
+              "In the evening, it gets cold very quickly in Moimenta.",
+              "Make sure to check the last return trip."
+            ]
+          }
+        }
       }
     }
   }

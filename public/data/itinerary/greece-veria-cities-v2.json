@@ -323,6 +323,206 @@
           "Take your time to discover the many small churches scattered throughout the city.",
           "Many shops observe a siesta in the early afternoon."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Paulus-Tribun und suchen Sie dann Schutz unter den Dachüberständen der Häuser in Barbouta. Den Mittag verbringen Sie in der Alten Metropole. Der Nachmittag gehört den Museen – das Byzantinische und das Archäologische Museum bieten trockene Zuflucht vor dem Regen. Den Tag lassen Sie im Elia-Park ausklingen, wo der Nebel über dem Tal eine mystische Stimmung erzeugt.",
+            "hu": "Kezdje a napot Szent Pál emelvényénél, majd keressen menedéket a Barbouta negyed régi házainak ereszei alatt. A délutánt szentelje a Bizánci és Régészeti Múzeumnak, amelyek kiváló fedett programot nyújtanak. A napot az Elia parkban zárja, ahol a völgy feletti köd és az eső különleges, misztikus hangulatot áraszt egy hangulatos kávézó teraszáról.",
+            "ro": "Începeți la Tribuna Sfântului Pavel, apoi adăpostiți-vă sub streșinile caselor vechi din Barbouta. Amiaza este dedicată Vechii Metropole. După-amiaza este perfectă pentru Muzeele Bizantin și Arheologic, oferind un refugiu uscat împotriva ploii. Încheiați în Parcul Elia, unde ceața de deasupra văii creează o atmosferă mistică, vizibilă din cafenelele primitoare.",
+            "en": "Start at St. Paul's Tribune, then seek shelter under the eaves of Barbouta’s historic houses. Midday is spent at the Old Metropolis. The afternoon is perfect for the Byzantine and Archaeological museums, providing a dry refuge from the rain. End at Elia Park, where the mist over the valley creates a mystical atmosphere viewed from a cozy indoor cafe."
+          },
+          "stops": [
+            {
+              "name": "Tribune of Saint Paul",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp unter dem Regenschirm am Denkmal.",
+                "hu": "Gyors fotómegálló esernyővel az emlékműnél.",
+                "ro": "Oprire scurtă pentru poze sub umbrelă la monument.",
+                "en": "Quick photo stop under an umbrella at the monument."
+              }
+            },
+            {
+              "name": "Barbouta Quarter",
+              "tip_5lang": {
+                "de": "Die engen Gassen bieten etwas Schutz vor dem Wind.",
+                "hu": "A szűk utcák némi védelmet nyújtanak a szél ellen.",
+                "ro": "Străzile înguste oferă puțină protecție împotriva vântului.",
+                "en": "Narrow streets offer some protection against the wind."
+              }
+            },
+            {
+              "name": "Old Metropolis",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Innere, um die Fresken trocken zu bewundern.",
+                "hu": "Menjen be, és csodálja meg a freskókat szárazon.",
+                "ro": "Vizitați interiorul pentru a admira frescele la adăpost.",
+                "en": "Visit the interior to admire the frescoes while staying dry."
+              }
+            },
+            {
+              "name": "Kyriotissa Quarter",
+              "tip_5lang": {
+                "de": "Vorsicht, das Kopfsteinpflaster ist bei Nässe sehr rutschig.",
+                "hu": "Vigyázat, a macskaköves út esőben nagyon csúszós.",
+                "ro": "Atenție, pavajul de piatră este foarte alunecos pe ploaie.",
+                "en": "Caution: the cobblestones are very slippery when wet."
+              }
+            },
+            {
+              "name": "Byzantine Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die stärksten Regenschauer abzuwarten.",
+                "hu": "Ideális hely a leghevesebb záporok átvészelésére.",
+                "ro": "Locul ideal pentru a aștepta trecerea ploilor torențiale.",
+                "en": "Ideal place to wait out the heaviest rain showers."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Mosaike im trockenen Innenraum.",
+                "hu": "Élvezze a mozaikokat a száraz belső térben.",
+                "ro": "Bucurați-vă de mozaicuri în interiorul uscat.",
+                "en": "Enjoy the mosaics in the dry indoor exhibition space."
+              }
+            },
+            {
+              "name": "Elia Park",
+              "tip_5lang": {
+                "de": "Beobachten Sie das Regenwetter aus einem der Cafés.",
+                "hu": "Figyelje az esős tájat az egyik fedett kávézóból.",
+                "ro": "Observați peisajul ploios dintr-o cafenea acoperită.",
+                "en": "Watch the rainy landscape from a covered cafe terrace."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Wasserdichte Schuhe sind für das historische Kopfsteinpflaster unerlässlich.",
+              "Nutzen Sie die Vordächer der byzantinischen Kirchen als kurzen Schutz.",
+              "Die Museen liegen nah beieinander und sind ideal für Regentage.",
+              "In Barbouta gibt es viele kleine Cafés für eine trockene Pause."
+            ],
+            "hu": [
+              "Vízálló cipő kötelező, a történelmi macskakő nagyon csúszik.",
+              "Használja a bizánci templomok előtereit gyors eső elleni menedékként.",
+              "A múzeumok sétatávolságra vannak és órákig tartó fedett programot adnak.",
+              "A Barbouta negyed kávézói kiválóak egy száraz pihenőre."
+            ],
+            "ro": [
+              "Încălțămintea impermeabilă este esențială pentru pavajul istoric.",
+              "Folosiți porticele bisericilor bizantine ca adăpost rapid.",
+              "Muzeele sunt aproape unul de altul, ideale pentru zile ploioase.",
+              "În cartierul Barbouta găsiți multe cafenele pentru o pauză uscată."
+            ],
+            "en": [
+              "Waterproof shoes are essential for the slippery historic cobblestones.",
+              "Use the porticos of Byzantine churches as quick rain shelters.",
+              "The museums are close to each other and offer hours of indoor content.",
+              "Barbouta quarter has many small cafes perfect for a dry break."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am Paulus-Tribun beginnt kühl. Erkunden Sie das Barbouta-Viertel, bevor Sie sich in der Alten Metropole aufwärmen. Die Nachmittagsstunden in den Museen bieten Schutz vor der Winterkälte. Den frühen Sonnenuntergang genießen Sie im Elia-Park, von wo aus Sie den Blick auf die verschneiten Gipfel des Vermio-Gebirges in der Ferne haben.",
+            "hu": "A hűvös téli reggel Szent Pál emelvényénél indul. Fedezze fel Barbouta negyedét, majd melegedjen fel az Ó-Metropolisz fala között. A múzeumi látogatásokat érdemes a délutáni hidegebb órákra hagyni. A korai naplementét az Elia parkból csodálhatja meg, ahonnan tiszta időben a Vermio-hegység havas csúcsai is látszanak.",
+            "ro": "O dimineață răcoroasă de iarnă începe la Tribuna Sfântului Pavel. Explorați cartierul Barbouta înainte de a vă încălzi în Vechea Metropolă. Vizitele la muzee sunt perfecte pentru orele reci de după-amiază. Bucurați-vă de apusul timpuriu în Parcul Elia, de unde puteți vedea vârfurile înzăpezite ale munților Vermio în depărtare.",
+            "en": "A crisp winter morning at St. Paul's Tribune starts the day. Explore Barbouta before warming up in the Old Metropolis. The afternoon museum visits offer a cozy escape from the winter chill. Witness an early sunset at Elia Park, where you might see the snow-capped Vermio peaks in the distance on a clear day."
+          },
+          "stops": [
+            {
+              "name": "Tribune of Saint Paul",
+              "tip_5lang": {
+                "de": "Morgens ist es hier oft windig, warme Kleidung ist nötig.",
+                "hu": "Reggelente gyakran szeles, réteges öltözet ajánlott.",
+                "ro": "Dimineața este adesea vânt, aveți nevoie de haine groase.",
+                "en": "It is often windy here in the morning; warm layers are needed."
+              }
+            },
+            {
+              "name": "Barbouta Quarter",
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne beleuchtet die Fassaden wunderschön.",
+                "hu": "Az alacsony téli napfény csodásan világítja meg a homlokzatokat.",
+                "ro": "Soarele slab de iarnă luminează superb fațadele caselor.",
+                "en": "Low winter sun illuminates the historic facades beautifully."
+              }
+            },
+            {
+              "name": "Old Metropolis",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte etwas ab.",
+                "hu": "A vastag falak némileg védenek a kinti hideg ellen.",
+                "ro": "Zidurile groase oferă o oarecare protecție împotriva frigului.",
+                "en": "The thick stone walls provide some shelter from the winter chill."
+              }
+            },
+            {
+              "name": "Kyriotissa Quarter",
+              "tip_5lang": {
+                "de": "Suchen Sie eine traditionelle Taverne für ein warmes Mittagessen.",
+                "hu": "Keressen egy hagyományos tavernát egy forró ebédhez.",
+                "ro": "Căutați o tavernă tradițională pentru un prânz cald.",
+                "en": "Find a traditional tavern for a warm, hearty winter lunch."
+              }
+            },
+            {
+              "name": "Byzantine Museum",
+              "tip_5lang": {
+                "de": "Gut beheizte Räume laden zum längeren Verweilen ein.",
+                "hu": "A jól fűtött termek hosszas nézelődésre hívnak.",
+                "ro": "Sălile bine încălzite vă permit să zăboviți mai mult.",
+                "en": "Well-heated rooms invite you to linger longer indoors."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich auf, während Sie die Statuen bewundern.",
+                "hu": "Melegedjen fel, miközben a szobrokat tanulmányozza.",
+                "ro": "Încălziți-vă în timp ce studiați statuile antice.",
+                "en": "Warm up inside while studying the ancient statues."
+              }
+            },
+            {
+              "name": "Elia Park",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist bereits gegen 17:15 Uhr.",
+                "hu": "A naplemente már 17:15 körül bekövetkezik.",
+                "ro": "Apusul are loc deja în jurul orei 17:15.",
+                "en": "Sunset occurs early, usually around 17:15 in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermokleidung, da die Feuchtigkeit vom Fluss die Kälte verstärkt.",
+              "Die Sonne geht früh unter, planen Sie die Außenbesuche vor 16 Uhr.",
+              "Genießen Sie einen heißen griechischen Kaffee in einem der Kamine-Cafés.",
+              "Die Steinpfade können bei Frost stellenweise glatt sein."
+            ],
+            "hu": [
+              "Viseljen thermo öltözetet, a folyó közelsége miatt a hideg nyirkosabb.",
+              "A nap korán nyugszik, a szabadtéri sétákat fejezze be 16 óráig.",
+              "Kóstoljon meg egy forró görög kávét egy kandallós kávézóban.",
+              "A kőutak fagyos reggeleken foltokban csúszósak lehetnek."
+            ],
+            "ro": [
+              "Purtați haine termice; umiditatea râului face frigul mai pătrunzător.",
+              "Soarele apune devreme, planificați vizitele externe până la ora 16.",
+              "Savurați o cafea grecească fierbinte într-o cafenea cu șemineu.",
+              "Potecile de piatră pot fi înghețate și alunecoase dimineața."
+            ],
+            "en": [
+              "Wear thermal layers as river humidity makes the cold bite harder.",
+              "Sunset is early; finish outdoor sightseeing by 16:00.",
+              "Enjoy a hot Greek coffee in a cafe with a fireplace in Kyriotissa.",
+              "Stone paths can be icy in patches during freezing mornings."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -617,6 +817,188 @@
           "Some streets in the old town can be steep.",
           "Bring plenty of water, especially on hot days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten Sie bei den Wassermühlen, wo das Wasser heute besonders rauscht. Die Fahrt durch Barbouta erfordert Vorsicht auf dem nassen Pflaster. Den Nachmittag verbringen Sie trocken im Byzantinischen Museum. Der Elia-Park bietet am Ende einen weiten Blick über das verregnete Imathia-Tal.",
+            "hu": "Az eső ellenére a vízimalmoknál kezdünk, ahol a Tripotamos folyó most különösen zúg. A Barbouta negyedben óvatosan tekerjen a vizes köveken. A délutánt töltse a Bizánci Múzeumban, majd zárja a túrát az Elia parkban, ahonnan belátni az egész ázott Imathia-síkságot.",
+            "ro": "În ciuda ploii, începeți la morile de apă, unde debitul râului este mare. Mersul prin Barbouta necesită atenție pe pietrele ude. Petreceți după-amiaza la adăpost în Muzeul Bizantin. Parcul Elia oferă la final o priveliște amplă asupra văii Imathia sub ploaie.",
+            "en": "Despite the rain, start at the Watermills where the river roars louder today. Cycling through Barbouta requires caution on wet stones. Spend the afternoon dry inside the Byzantine Museum. Elia Park offers a final wide view over the rainy Imathia plain."
+          },
+          "stops": [
+            {
+              "name": "Traditional Watermills",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Holzstegen, diese sind extrem rutschig.",
+                "hu": "Vigyázat a fapallókon, ezek rendkívül csúszósak.",
+                "ro": "Atenție pe pasarelele de lemn, sunt extrem de alunecoase.",
+                "en": "Be careful on wooden walkways; they are extremely slippery."
+              }
+            },
+            {
+              "name": "Barbouta Quarter",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch die engen, nassen Kurven.",
+                "hu": "Lassan haladjon a szűk, vizes kanyarokban.",
+                "ro": "Pedalați încet în curbele strâmte și ude.",
+                "en": "Cycle slowly through the narrow, wet curves."
+              }
+            },
+            {
+              "name": "Tribune of Saint Paul",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach gegenüber.",
+                "hu": "Rövid megálló a szemközti előtető alatt.",
+                "ro": "Oprire scurtă sub copertina de vis-a-vis.",
+                "en": "Short stop under the canopy across the street."
+              }
+            },
+            {
+              "name": "Byzantine Museum",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradabstellplatz in der Nähe vorhanden.",
+                "hu": "Biztonságos biciklitároló található a közelben.",
+                "ro": "Există locuri sigure de parcare pentru biciclete în apropiere.",
+                "en": "Safe bike parking available nearby."
+              }
+            },
+            {
+              "name": "Elia Park",
+              "tip_5lang": {
+                "de": "Überdachte Plätze bieten Schutz für Sie und Ihr Rad.",
+                "hu": "Fedett helyek védik Önt és a biciklijét is.",
+                "ro": "Locurile acoperite oferă protecție pentru dvs. și bicicletă.",
+                "en": "Covered areas provide shelter for you and your bike."
+              }
+            },
+            {
+              "name": "Kyriotissa Quarter",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad in den steilsten Gassen lieber.",
+                "hu": "A legmeredekebb utcákban inkább tolja a bringát.",
+                "ro": "Mai degrabă împingeți bicicleta pe străzile abrupte.",
+                "en": "Better to push your bike in the steepest, wettest alleys."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter in Veria unerlässlich.",
+              "Prüfen Sie Ihre Bremsen, bevor Sie die Hügel zum Fluss hinunterfahren.",
+              "Tragen Sie reflektierende Regenbekleidung für bessere Sichtbarkeit.",
+              "Nutzen Sie die Museen für längere Aufwärmpausen."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a vizes görög utcákon.",
+              "Ellenőrizze a fékeket a folyó felé tartó lejtők előtt.",
+              "Viseljen fényvisszaverő esőkabátot a jobb láthatóságért.",
+              "Használja a múzeumi megállókat hosszabb száradási szünetekre."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale pe străzile ude.",
+              "Verificați frânele înainte de coborârile spre râu.",
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate.",
+              "Folosiți muzeele pentru pauze lungi de încălzire."
+            ],
+            "en": [
+              "Mudguards are essential on Veria's wet historic streets.",
+              "Check your brakes before the descents towards the river.",
+              "Wear reflective rain gear for better visibility in the mist.",
+              "Use museum stops for longer drying and warming breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour beginnt frisch an den Wassermühlen. Die kühle Luft am Tripotamos-Fluss macht wach. Nach der Besichtigung von Barbouta bietet das Byzantinische Museum wohlige Wärme. Der weite Blick vom Elia-Park am Nachmittag ist im Winter besonders klar, bevor die Sonne früh hinter den Bergen verschwindet.",
+            "hu": "Friss téli túra indul a vízimalmoktól. A Tripotamos folyó melletti hűvös levegő élénkítő. Barbouta felfedezése után a Bizánci Múzeum nyújt menedéket a hideg elől. Az Elia parkból nyíló kilátás télen különösen tiszta, mielőtt a nap korán eltűnik a hegyek mögött.",
+            "ro": "Turul de iarnă începe revigorant la morile de apă. Aerul rece de lângă râul Tripotamos este energizant. După Barbouta, Muzeul Bizantin oferă căldură primitoare. Vederea din Parcul Elia este foarte clară iarna, înainte ca soarele să apună devreme după munți.",
+            "en": "A fresh winter ride starts at the Watermills. The cool air by the Tripotamos river is invigorating. After exploring Barbouta, the Byzantine Museum offers welcoming warmth. The view from Elia Park is exceptionally clear in winter before the sun sets early behind the mountains."
+          },
+          "stops": [
+            {
+              "name": "Traditional Watermills",
+              "tip_5lang": {
+                "de": "Vorsicht vor Reifglätte auf den Brücken am Morgen.",
+                "hu": "Vigyázat, a hidak reggelente deresek, csúszósak lehetnek.",
+                "ro": "Atenție la polei pe poduri în timpul dimineții.",
+                "en": "Watch out for frost on the bridges in the early morning."
+              }
+            },
+            {
+              "name": "Barbouta Quarter",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die Fahrt durch die kühlen Gassen nötig.",
+                "hu": "Kesztyű viselése ajánlott a hűvös utcákon való tekeréshez.",
+                "ro": "Mănușile sunt necesare pentru pedalatul prin străzile reci.",
+                "en": "Gloves are necessary for cycling through the chilly alleys."
+              }
+            },
+            {
+              "name": "Tribune of Saint Paul",
+              "tip_5lang": {
+                "de": "Ein sonniger Platz, um kurz Vitamin D zu tanken.",
+                "hu": "Napos pont, ahol érdemes egy kicsit megállni a fényben.",
+                "ro": "Un loc însorit unde merită să vă opriți pentru puțină lumină.",
+                "en": "A sunny spot to catch a few winter rays during your break."
+              }
+            },
+            {
+              "name": "Byzantine Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp zum Aufwärmen der Hände.",
+                "hu": "Használja ki a megállót a kezei átmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi mâinile.",
+                "en": "Use this stop to warm your hands thoroughly indoors."
+              }
+            },
+            {
+              "name": "Elia Park",
+              "tip_5lang": {
+                "de": "Der Wind kann hier oben im Winter sehr beißen.",
+                "hu": "A szél itt fent télen nagyon metsző lehet.",
+                "ro": "Vântul poate fi foarte tăios aici sus pe timpul iernii.",
+                "en": "The wind can be very biting up here during winter."
+              }
+            },
+            {
+              "name": "Kyriotissa Quarter",
+              "tip_5lang": {
+                "de": "Die Cafés hier haben oft gemütliche Kamine.",
+                "hu": "Az itteni kávézókban gyakran van hangulatos kandalló.",
+                "ro": "Cafenelele de aici au adesea șeminee primitoare.",
+                "en": "The cafes here often have cozy indoor fireplaces."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Handschuhe und eine winddichte Jacke.",
+              "Achten Sie auf Schattenstellen, wo Glätte länger bestehen bleibt.",
+              "Die Lichtverhältnisse sind ideal für Winterfotografie.",
+              "Beenden Sie die Tour vor 17 Uhr wegen der Dunkelheit."
+            ],
+            "hu": [
+              "Viseljen meleg kesztyűt és szélálló dzsekit.",
+              "Ügyeljen az árnyékos részekre, ahol tovább megmarad a fagy.",
+              "A fényviszonyok kiválóak a téli fotózáshoz.",
+              "A sötétedés miatt fejezze be a túrát 17 óra előtt."
+            ],
+            "ro": [
+              "Purtați mănuși groase și o jachetă rezistentă la vânt.",
+              "Atenție la zonele umbrite unde înghețul persistă mai mult.",
+              "Condițiile de lumină sunt ideale pentru fotografii de iarnă.",
+              "Încheiați turul înainte de ora 17 din cauza întunericului."
+            ],
+            "en": [
+              "Wear warm gloves and a windproof jacket for the ride.",
+              "Watch out for shaded areas where ice might linger longer.",
+              "Light conditions are ideal for crisp winter photography.",
+              "Finish your tour by 17:00 due to early winter darkness."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -941,6 +1323,206 @@
           "Plan your route in advance to avoid one-way streets in the old town.",
           "Combine your visit with a drive into the surrounding countryside."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Veria bequem trotz Regen. Starten Sie in den Museen, wo Sie trocken parken können. Der Elia-Park bietet eine tolle Aussicht, ohne nass zu werden. Später geht es zur Alten Metropole und zum Paulus-Tribun, wobei die kurzen Wege zwischen Auto und Sehenswürdigkeit ideal sind.",
+            "hu": "Autóval kényelmesen fedezheti fel Veriát az esőben is. Kezdjen a múzeumoknál, ahol a közelben parkolhat. Az Elia park kilátása az autóból vagy a közeli kávézókból is élvezhető. Később látogasson el az Ó-Metropoliszhoz, kihasználva a rövid gyalogos távokat az esőben.",
+            "ro": "Cu mașina explorați Veria confortabil în ciuda ploii. Începeți la muzee, unde puteți parca aproape. Vederea din Parcul Elia poate fi savurată fără a vă uda prea tare. Ulterior, vizitați Vechea Metropolă, profitând de distanțele scurte de mers pe jos.",
+            "en": "Explore Veria comfortably by car despite the rain. Start at the museums where parking is available nearby. Enjoy the Elia Park view with minimal walking in the rain. Later, visit the Old Metropolis and St. Paul's Tribune, making the most of the short distances between your car and the sites."
+          },
+          "stops": [
+            {
+              "name": "Archaeological & Byzantine Museum",
+              "tip_5lang": {
+                "de": "Parken Sie direkt vor den Eingängen, um trocken zu bleiben.",
+                "hu": "Parkoljon közvetlenül a bejáratoknál, hogy száraz maradjon.",
+                "ro": "Parcați chiar în fața intrărilor pentru a rămâne uscat.",
+                "en": "Park right in front of the entrances to stay dry."
+              }
+            },
+            {
+              "name": "Elia Park",
+              "tip_5lang": {
+                "de": "Die Parkplätze am Rand bieten Sicht auf das verregnete Tal.",
+                "hu": "A szélső parkolókból rálátni az esős völgyre.",
+                "ro": "Locurile de parcare de pe margine oferă vedere spre vale.",
+                "en": "Parking spots at the edge offer views of the rainy valley."
+              }
+            },
+            {
+              "name": "Barbouta Quarter (Park & Walk)",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz in das historische Viertel.",
+                "hu": "Gyors sprint a parkolóból a történelmi negyedbe.",
+                "ro": "Sprint scurt de la parcare în cartierul istoric.",
+                "en": "Short sprint from the parking lot into the historic quarter."
+              }
+            },
+            {
+              "name": "Old Metropolis",
+              "tip_5lang": {
+                "de": "Die Straße hier ist eng, Vorsicht beim Manövrieren bei Regen.",
+                "hu": "Az utca szűk, óvatosan manőverezzen az esőben.",
+                "ro": "Strada este îngustă, manevrați cu atenție pe ploaie.",
+                "en": "The street is narrow; maneuver carefully in the rain."
+              }
+            },
+            {
+              "name": "Tribune of Saint Paul",
+              "tip_5lang": {
+                "de": "Direkt am Straßenrand für einen schnellen Blick halten.",
+                "hu": "Megállhat közvetlenül az út szélén egy gyors nézelődésre.",
+                "ro": "Puteți opri chiar la marginea drumului pentru o vizită rapidă.",
+                "en": "Stop briefly at the roadside for a quick look."
+              }
+            },
+            {
+              "name": "Traditional Watermills",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem befestigten Platz oberhalb der Mühlen.",
+                "hu": "Parkoljon a malmok feletti szilárd burkolatú részen.",
+                "ro": "Parcați pe spațiul pavat de deasupra morilor.",
+                "en": "Park on the paved area above the mills."
+              }
+            },
+            {
+              "name": "Kyriotissa Quarter",
+              "tip_5lang": {
+                "de": "Parkhäuser im Zentrum nutzen und kurz hineinlaufen.",
+                "hu": "Használja a központi parkolóházakat a gyors bejutáshoz.",
+                "ro": "Folosiți parcările etajate din centru pentru acces rapid.",
+                "en": "Use central parking garages for quick access to the quarter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Park-Apps, um das Bezahlen im Regen zu vermeiden.",
+              "Vorsicht in den engen Gassen von Barbouta, der Asphalt glänzt tückisch.",
+              "Die Museen bieten den besten Schutz bei Starkregen.",
+              "Halten Sie die Scheibenheizung bereit gegen das Beschlagen."
+            ],
+            "hu": [
+              "Használjon parkoló-appot, hogy ne kelljen az esőben jegyet venni.",
+              "Óvatosan a szűk Barbouta utcákon, a vizes aszfalt csillogása csalóka.",
+              "A múzeumok nyújtják a legjobb menedéket heves esőben.",
+              "Készítse fel a páramentesítőt a benti hőmérsékletkülönbség miatt."
+            ],
+            "ro": [
+              "Folosiți aplicații de parcare pentru a evita plata în ploaie.",
+              "Atenție în străzile strâmte din Barbouta, asflatul ud este înșelător.",
+              "Muzeele oferă cel mai bun adăpost în caz de ploaie torențială.",
+              "Asigurați-vă că dezaburirea geamurilor funcționează corect."
+            ],
+            "en": [
+              "Use parking apps to avoid paying at machines in the rain.",
+              "Be careful in narrow Barbouta streets; wet asphalt glare is tricky.",
+              "Museums offer the best refuge during heavy downpours.",
+              "Keep the window defogger ready for temperature changes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour mit dem Auto startet warm und gemütlich. Besuchen Sie zuerst die Museen, um der Morgenkälte zu entfliehen. Der Elia-Park bietet eine tolle Aussicht auf das winterliche Imathia. Später erkunden Sie die historischen Viertel, wobei das Auto als willkommene Aufwärmstation zwischen den Sehenswürdigkeiten dient.",
+            "hu": "A téli autós túra melegben és kényelemben indul. Először látogasson el a múzeumokba, hogy elkerülje a reggeli fagyot. Az Elia parkból tiszta téli panoráma nyílik. Később fedezze fel a történelmi negyedeket, ahol az autó remek melegedőhely két látnivaló között.",
+            "ro": "Turul de iarnă cu mașina începe confortabil. Vizitați mai întâi muzeele pentru a evita gerul dimineții. Parcul Elia oferă o panoramă clară de iarnă. Ulterior, explorați cartierele istorice, mașina fiind un loc bun de încălzire între obiective.",
+            "en": "The winter car tour starts in warmth and comfort. Visit the museums first to escape the morning frost. Elia Park offers a clear winter panorama. Later, explore the historic quarters, using the car as a cozy warming station between the sights."
+          },
+          "stops": [
+            {
+              "name": "Archaeological & Byzantine Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze direkt am Eingang für kurze Wege.",
+                "hu": "Használja a bejárathoz közeli parkolókat a rövid séta érdekében.",
+                "ro": "Folosiți parcările de lângă intrare pentru distanțe scurte.",
+                "en": "Use the parking spots near the entrance for short walks."
+              }
+            },
+            {
+              "name": "Elia Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fernsicht direkt aus dem warmen Auto.",
+                "hu": "Élvezze a távoli kilátást közvetlenül a meleg autóból.",
+                "ro": "Bucurați-vă de vederea la distanță direct din mașina caldă.",
+                "en": "Enjoy the distant views directly from the warm car."
+              }
+            },
+            {
+              "name": "Barbouta Quarter (Park & Walk)",
+              "tip_5lang": {
+                "de": "Parken Sie am Flussrand und machen Sie eine kurze Runde.",
+                "hu": "Parkoljon a folyóparton és tegyen egy rövid kört.",
+                "ro": "Parcați pe malul râului și faceți o tură scurtă.",
+                "en": "Park by the riverbank and take a short walk around."
+              }
+            },
+            {
+              "name": "Old Metropolis",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es Parkplätze, die im Winter oft frei sind.",
+                "hu": "A közelben vannak parkolók, amik télen gyakran üresek.",
+                "ro": "Există parcări în apropiere care sunt adesea libere iarna.",
+                "en": "Nearby parking is often available during the winter season."
+              }
+            },
+            {
+              "name": "Tribune of Saint Paul",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für ein Foto, dann schnell zurück ins Warme.",
+                "hu": "Gyors kiszállás egy fotóra, majd vissza a melegbe.",
+                "ro": "Ieșire rapidă pentru o poză, apoi înapoi la căldură.",
+                "en": "Quick hop out for a photo, then back to the warmth."
+              }
+            },
+            {
+              "name": "Traditional Watermills",
+              "tip_5lang": {
+                "de": "Vorsicht bei Frost auf der Zufahrtsstraße am Fluss.",
+                "hu": "Fagyos időben legyen óvatos a folyóparti bekötőúton.",
+                "ro": "Fiți atenți pe drumul de acces de lângă râu pe timp de îngheț.",
+                "en": "Be careful on the riverside access road during frosty weather."
+              }
+            },
+            {
+              "name": "Kyriotissa Quarter",
+              "tip_5lang": {
+                "de": "Parken Sie zentral und suchen Sie ein beheiztes Lokal.",
+                "hu": "Parkoljon központilag és keressen egy fűtött éttermet.",
+                "ro": "Parcați central și căutați un local bine încălzit.",
+                "en": "Park centrally and find a well-heated local restaurant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf vereiste Stellen in den schattigen Flusstälern.",
+              "Die Parkplatzsuche im Zentrum ist im Winter etwas entspannter.",
+              "Lassen Sie den Motor nicht unnötig laufen beim Warten.",
+              "Winterreifen sind für die Hügel um Veria dringend empfohlen."
+            ],
+            "hu": [
+              "Ügyeljen a jeges foltokra az árnyékos folyóvölgyi részeken.",
+              "A központi parkolóhely-keresés télen valamivel könnyebb.",
+              "Ne járassa feleslegesen a motort várakozás közben.",
+              "A téli gumi erősen ajánlott a Veria környéki dombokon."
+            ],
+            "ro": [
+              "Atenție la porțiunile înghețate din văile umbrite ale râului.",
+              "Găsirea unui loc de parcare în centru este mai ușoară iarna.",
+              "Nu lăsați motorul pornit inutil în timp ce așteptați.",
+              "Anvelopele de iarnă sunt recomandate pentru dealurile din Veria."
+            ],
+            "en": [
+              "Watch out for icy patches in the shaded river valley areas.",
+              "Finding central parking is slightly easier during winter months.",
+              "Don't leave the engine idling for long while waiting.",
+              "Winter tires are highly recommended for the hills around Veria."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1241,6 +1823,188 @@
           "Bus schedules can vary, check in advance.",
           "Keep small change for tickets bought from the driver."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Bus, um Veria im Regen zu erkunden. Vom Busbahnhof aus erreichen Sie schnell das Paulus-Tribun und Barbouta. Die Museen sind gut vernetzt und bieten ein tolles Indoor-Programm. Der Tag endet im Elia-Park, den Sie bequem mit der Linie 1 erreichen können, während Sie draußen dem Regen zuschauen.",
+            "hu": "Használja a helyi buszokat Veria felfedezéséhez az esőben. A buszpályaudvartól gyorsan elérheti Szent Pál emelvényét és Barboutát. A múzeumok remek fedett programot kínálnak és jól megközelíthetők. A napot az Elia parkban zárhatja, ahová az 1-es vonallal kényelmesen eljuthat.",
+            "ro": "Folosiți autobuzele locale pentru a explora Veria pe ploaie. De la autogară ajungeți rapid la Tribuna Sf. Pavel și Barbouta. Muzeele sunt bine conectate și oferă un program indoor excelent. Ziua se încheie la Parcul Elia, unde puteți ajunge ușor cu linia 1.",
+            "en": "Use local buses to explore Veria in the rain. From the central station, you can quickly reach St. Paul's Tribune and Barbouta. The museums are well-connected and offer great indoor content. End your day at Elia Park, easily reachable via line 1 while staying dry on the bus."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Station & Tribune of Saint Paul",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Bereich des Bahnhofs auf den Bus.",
+                "hu": "Várja a buszt a pályaudvar fedett várakozóhelyén.",
+                "ro": "Așteptați autobuzul în zona acoperită a autogării.",
+                "en": "Wait for the bus in the covered area of the station."
+              }
+            },
+            {
+              "name": "Barbouta Quarter",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist nur wenige Schritte vom Viertel entfernt.",
+                "hu": "A buszmegálló csak pár lépésre van a negyedtől.",
+                "ro": "Stația de autobuz este la doar câțiva pași de cartier.",
+                "en": "The bus stop is just a few steps away from the quarter."
+              }
+            },
+            {
+              "name": "Old Metropolis",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle; nutzen Sie den Schirm.",
+                "hu": "Rövid séta a megállótól; használja az esernyőjét.",
+                "ro": "Drum scurt de la stație; folosiți umbrela.",
+                "en": "Short walk from the stop; use your umbrella."
+              }
+            },
+            {
+              "name": "Archaeological Museum (by bus)",
+              "tip_5lang": {
+                "de": "Die Haltestelle befindet sich fast direkt vor dem Museum.",
+                "hu": "A megálló szinte közvetlenül a múzeum előtt van.",
+                "ro": "Stația este situată aproape direct în fața muzeului.",
+                "en": "The stop is located almost directly in front of the museum."
+              }
+            },
+            {
+              "name": "Byzantine Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen starken Regenschauer auszusitzen.",
+                "hu": "Tökéletes hely egy heves zápor átvészelésére.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei ploi.",
+                "en": "Perfect place to wait out a heavy rain shower."
+              }
+            },
+            {
+              "name": "Kyriotissa Quarter (by bus)",
+              "tip_5lang": {
+                "de": "Der Bus bringt Sie nah an die traditionellen Tavernen.",
+                "hu": "A busz egészen közel visz a hagyományos tavernákhoz.",
+                "ro": "Autobuzul vă lasă aproape de tavernele tradiționale.",
+                "en": "The bus drops you off very close to traditional taverns."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie Kleingeld für die Fahrkarten im Bus bereit.",
+              "Die Busse fahren bei Regen oft etwas unregelmäßiger.",
+              "Suchen Sie Bushaltestellen mit Überdachung für die Wartezeit.",
+              "Nutzen Sie die App für Echtzeit-Abfahrtszeiten."
+            ],
+            "hu": [
+              "Legyen Önnél aprópénz a buszon váltható jegyekhez.",
+              "Esőben a buszok néha rendszertelenebbül közlekedhetnek.",
+              "Keressen fedett buszmegállókat a várakozáshoz.",
+              "Használja a helyi közlekedési appot a valós idejű indulásokhoz."
+            ],
+            "ro": [
+              "Aveți pregătit mărunt pentru biletele cumpărate în autobuz.",
+              "Pe ploaie, autobuzele pot avea uneori întârzieri.",
+              "Căutați stații de autobuz cu copertină pentru așteptare.",
+              "Folosiți aplicația de transport pentru timpii de sosire reali."
+            ],
+            "en": [
+              "Have small change ready for tickets bought on the bus.",
+              "Buses might be slightly less frequent during heavy rain.",
+              "Look for bus stops with shelters while waiting.",
+              "Use the local transit app for real-time departure info."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Veria mit dem Bus. Starten Sie am warmen Busbahnhof und besuchen Sie das Paulus-Tribun. Die Museen bieten am Nachmittag einen gemütlichen Zufluchtsort vor der Kälte. Zum Abschluss bringt Sie der Bus zum Elia-Park, von wo aus Sie den klaren Winterhimmel über dem Tal beobachten können.",
+            "hu": "Fedezze fel a téli Veriát busszal. Kezdjen a meleg buszpályaudvaron, majd látogasson el Szent Pál emelvényéhez. A múzeumok délután kellemes menedéket nyújtanak a hideg elől. A túra végén busszal juthat el az Elia parkba, ahonnan megcsodálhatja a tiszta téli égboltot.",
+            "ro": "Explorați Veria de iarnă cu autobuzul. Începeți la autogara încălzită și vizitați Tribuna Sf. Pavel. Muzeele oferă un refugiu primitor împotriva frigului după-amiaza. La final, autobuzul vă duce la Parcul Elia pentru a vedea cerul senin de iarnă.",
+            "en": "Explore winter Veria by bus. Start at the warm central station and visit St. Paul's Tribune. The museums offer a cozy refuge from the cold in the afternoon. At the end, take the bus to Elia Park to admire the clear winter sky over the valley."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Station & Tribune of Saint Paul",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist beheizt und ein guter Treffpunkt.",
+                "hu": "A pályaudvar fűtött, kiváló találkozóhely a hidegben.",
+                "ro": "Autogara este încălzită și este un bun punct de întâlnire.",
+                "en": "The station is heated and serves as a good meeting point."
+              }
+            },
+            {
+              "name": "Barbouta Quarter",
+              "tip_5lang": {
+                "de": "Ein kurzer, knackiger Winterspaziergang von der Haltestelle.",
+                "hu": "Egy rövid, frissítő téli séta a megállótól.",
+                "ro": "O plimbare scurtă și revigorantă de la stație.",
+                "en": "A short, crisp winter walk from the bus stop."
+              }
+            },
+            {
+              "name": "Old Metropolis",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Fahrzeiten, im Winter gibt es weniger Busse.",
+                "hu": "Figyeljen a menetrendre, télen ritkábbak lehetnek a járatok.",
+                "ro": "Atenție la orar, iarna pot fi mai puține autobuze.",
+                "en": "Check the schedule; there might be fewer buses in winter."
+              }
+            },
+            {
+              "name": "Archaeological Museum (by bus)",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Bus auf dem Weg zum Museum auf.",
+                "hu": "Melegedjen fel a buszon a múzeum felé menet.",
+                "ro": "Încălziți-vă în autobuz în drum spre muzeu.",
+                "en": "Warm up on the bus while heading to the museum."
+              }
+            },
+            {
+              "name": "Byzantine Museum",
+              "tip_5lang": {
+                "de": "Ein langer Aufenthalt im warmen Museum ist empfehlenswert.",
+                "hu": "A fűtött múzeumban érdemes hosszabb időt eltölteni.",
+                "ro": "Merită să petreceți mai mult timp în muzeul încălzit.",
+                "en": "It's worth spending a longer time in the warm museum."
+              }
+            },
+            {
+              "name": "Kyriotissa Quarter (by bus)",
+              "tip_5lang": {
+                "de": "Nehmen Sie den letzten Bus vor Einbruch der Dunkelheit.",
+                "hu": "Csípje el az utolsó buszt még sötétedés előtt.",
+                "ro": "Prindeți ultimul autobuz înainte de lăsarea întunericului.",
+                "en": "Catch the last convenient bus before darkness falls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter gut beheizt und komfortabel.",
+              "Beachten Sie die verkürzten Fahrpläne an Feiertagen.",
+              "Warten Sie lieber drinnen an den größeren Stationen.",
+              "Tragen Sie Mütze und Schal für die Wege zwischen den Haltestellen."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek és kényelmesek.",
+              "Ügyeljen az ünnepnapi rövidített menetrendekre.",
+              "Várjon inkább bent a nagyobb csomópontokon.",
+              "Viseljen sapkát és sálat a megállók közötti sétákhoz."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite și confortabile iarna.",
+              "Atenție la orarul redus din zilele de sărbătoare.",
+              "Așteptați mai degrabă în interior în stațiile mari.",
+              "Purtați căciulă și fular pentru drumul între stații."
+            ],
+            "en": [
+              "Buses are well-heated and comfortable during winter.",
+              "Note the shortened bus schedules on public holidays.",
+              "Prefer waiting indoors at the larger transit hubs.",
+              "Wear a hat and scarf for the walks between bus stops."
+            ]
+          }
+        }
       }
     }
   }

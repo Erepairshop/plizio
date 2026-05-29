@@ -282,6 +282,196 @@
           "Most city center attractions are easily accessible on foot.",
           "Bring a reusable water bottle to stay hydrated."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag am Kossuth-Platz, wo die Fassaden im Regen glänzen. Das Dorottya-Haus bietet erste Zuflucht, gefolgt von der spirituellen Stille des Doms. Den Nachmittag verbringen Sie trocken im Rippl-Rónai-Museum inmitten bedeutender Kunstwerke. Der Abend klingt stilvoll im Foyer des Csiky-Gergely-Theaters aus, während der Stadtpark einen kurzen, erfrischenden Abschluss bildet.",
+            "hu": "A napot a Kossuth téren kezdjük, ahol az esőben csillognak a szecessziós homlokzatok. A Dorottya-ház és a Székesegyház hűvös nyugalma után a délutánt a Rippl-Rónai Múzeum gazdag tárlatai között töltjük szárazon. Az estét a Csiky Gergely Színház impozáns épülete aranyozza be, mielőtt egy rövid, esernyős sétát tennénk a Vaszary park árnyas fái alatt.",
+            "ro": "Începeți ziua în Piața Kossuth, admirând fațadele colorate reflectate în pavajul umed. Casa Dorottya și Catedrala oferă adăpost ideal împotriva ploii de dimineață. După-amiaza este dedicată artei în incinta Muzeului Rippl-Rónai, un refugiu cultural perfect. Seara se încheie la Teatrul Csiky Gergely, urmată de o scurtă plimbare prin Parcul Orașului sub protecția umbrelei.",
+            "en": "Start your day at Kossuth Square, where the rain highlights the city's architecture. Use Dorottya House and the Cathedral as dry havens during the morning showers. Spend the afternoon exploring the vast collections of the Rippl-Rónai Museum. The evening features the grand atmosphere of the Csiky Gergely Theatre, finishing with a crisp, wet walk through Vaszary Park."
+          },
+          "stops": [
+            {
+              "name": "Kossuth Square",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Arkaden des Rathauses.",
+                "hu": "Használja a Városháza árkádjait az eső elleni védekezéshez.",
+                "ro": "Adăpostiți-vă sub arcadele primăriei dacă ploaia se intensifică.",
+                "en": "Seek shelter under the City Hall arcades if the rain gets heavy."
+              }
+            },
+            {
+              "name": "Dorottya House",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Regenpause für historische Einblicke zu nutzen.",
+                "hu": "Tökéletes helyszín a történelmi ismerkedéshez eső közben.",
+                "ro": "Locul ideal pentru a descoperi istoria locală ferit de ploaie.",
+                "en": "Perfect spot to bridge a rainy morning with local history."
+              }
+            },
+            {
+              "name": "Kaposvár Cathedral",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fresken, während es draußen regnet.",
+                "hu": "Csodálja meg a freskókat, amíg odakint esik.",
+                "ro": "Admirați frescele interioare în timp ce afară plouă.",
+                "en": "Admire the interior frescoes while it rains outside."
+              }
+            },
+            {
+              "name": "Rippl-Rónai Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, um dem Wetter zu entfliehen.",
+                "hu": "Töltsön itt több időt, amíg elvonul az esőzóna.",
+                "ro": "Alocați mai mult timp vizitei pentru a evita ploaia.",
+                "en": "Plan for a longer stay here to avoid the afternoon showers."
+              }
+            },
+            {
+              "name": "Csiky Gergely Theatre",
+              "tip_5lang": {
+                "de": "Das renovierte Foyer ist auch bei Regen ein architektonisches Highlight.",
+                "hu": "A felújított előcsarnok esőben is építészeti élményt nyújt.",
+                "ro": "Foaierul renovat este o bijuterie arhitecturală, chiar și pe ploaie.",
+                "en": "The renovated foyer is an architectural gem even in wet weather."
+              }
+            },
+            {
+              "name": "City Park (Vaszary Park)",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind auch bei Nässe gut begehbar.",
+                "hu": "Az aszfaltozott sétányok sármentes sétát biztosítanak.",
+                "ro": "Aleile asfaltate permit o plimbare fără noroi prin parc.",
+                "en": "Paved paths ensure a mud-free walk through the park greenery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Durchgänge zwischen der Ady Endre und Fő utca.",
+              "Die Museen in Kaposvár sind montags meist geschlossen.",
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster im Zentrum.",
+              "Das Theatercafé bietet einen warmen Rückzugsort.",
+              "Regenschirme können oft in größeren Hotels geliehen werden."
+            ],
+            "hu": [
+              "Használja az átjárókat az Ady Endre és a Fő utca között.",
+              "A múzeumok hétfőnként általában zárva tartanak Kaposváron.",
+              "A belvárosi díszburkolat esőben csúszós lehet, óvatosan járjon.",
+              "A színház kávézója kiváló menedék egy forró italra.",
+              "Vízálló cipő javasolt a városnézéshez."
+            ],
+            "ro": [
+              "Folosiți pasajele dintre străzile Ady Endre și Fő utca.",
+              "Muzeele din Kaposvár sunt de obicei închise în zilele de luni.",
+              "Pavajul din centru poate deveni alunecos când este ud.",
+              "Cafeneaua teatrului este un refugiu cald și elegant.",
+              "Se recomandă încălțăminte impermeabilă pentru explorarea orașului."
+            ],
+            "en": [
+              "Utilize the passages between Ady Endre and Fő Streets.",
+              "Note that most museums in Kaposvár are closed on Mondays.",
+              "Decorative pavement in the center can be slippery when wet.",
+              "The theatre's cafe is an excellent spot for a warm drink.",
+              "Waterproof footwear is recommended for walking the city center."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am Kossuth-Platz beginnt mit dem Duft von gerösteten Kastanien. Nach der Wärme im Dorottya-Haus und dem Dom führt der Weg ins Museum, wo die Farben von Rippl-Rónai den grauen Tag beleben. Das Csiky-Gergely-Theater leuchtet in der frühen Dämmerung besonders festlich. Ein kurzer Spaziergang durch den winterlichen Vaszary-Park beschließt den Tag, bevor die Kälte zu intensiv wird.",
+            "hu": "A téri adventi fények és a sült gesztenye illata fogadja a Kossuth téren. A Dorottya-ház és a Székesegyház belső melege után a délutánt Rippl-Rónai színes világa aranyozza be a múzeumban. A sötétedő városban a Csiky Gergely Színház fényei mutatják az utat, a napot pedig a Vaszary park zúzmarás fái közötti rövid séta zárja a korai naplemente előtt.",
+            "ro": "O dimineață de iarnă în Piața Kossuth începe printre luminile festive și aromele de sezon. Căldura Casei Dorottya și a Catedralei este binevenită înainte de vizita la muzeu. Culorile lui Rippl-Rónai aduc viață unei zile gri de iarnă. Teatrul Csiky Gergely strălucește spectaculos la apusul timpuriu, iar Parcul Vaszary oferă un peisaj înghețat de poveste pentru finalul zilei.",
+            "en": "A crisp winter morning at Kossuth Square starts with festive lights and seasonal scents. Retreat to the warmth of Dorottya House and the Cathedral before heading to the museum. Rippl-Rónai’s vibrant art provides a colorful contrast to the winter sky. The theatre looks magnificent in the early dusk, and a short stroll through the frosted Vaszary Park concludes the day."
+          },
+          "stops": [
+            {
+              "name": "Kossuth Square",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Punsch am Weihnachtsmarkt.",
+                "hu": "Kóstoljon meg egy forró italt az adventi vásárban.",
+                "ro": "Savurați un punch fierbinte la târgul de Crăciun din piață.",
+                "en": "Enjoy a hot punch at the local Christmas market in the square."
+              }
+            },
+            {
+              "name": "Dorottya House",
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Wärme ideal.",
+                "hu": "A vastag falak jól tartják a meleget a látogatás alatt.",
+                "ro": "Zidurile groase mențin o temperatură plăcută în interior.",
+                "en": "The thick historical walls keep the interior comfortably warm."
+              }
+            },
+            {
+              "name": "Kaposvár Cathedral",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Weihnachtskrippe in der Adventszeit.",
+                "hu": "Adventi időszakban nézze meg a templomi betlehemet.",
+                "ro": "Vizitați ieslea de Crăciun amenajată în timpul adventului.",
+                "en": "Visit the Nativity scene inside during the Advent season."
+              }
+            },
+            {
+              "name": "Rippl-Rónai Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre schwere Winterkleidung.",
+                "hu": "Használja a ruhatárat a vastag téli kabátokhoz.",
+                "ro": "Folosiți garderoba pentru hainele groase de iarnă.",
+                "en": "Use the cloakroom to store your heavy winter gear while inside."
+              }
+            },
+            {
+              "name": "Csiky Gergely Theatre",
+              "tip_5lang": {
+                "de": "Die Beleuchtung zur 'blauen Stunde' ist ein Fotomotiv wert.",
+                "hu": "A kék óra fényeiben a színház különleges fotótéma.",
+                "ro": "Iluminatul din 'ora albastră' merită fotografiat.",
+                "en": "The theatre lights during the 'blue hour' are perfect for photos."
+              }
+            },
+            {
+              "name": "City Park (Vaszary Park)",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf den Brücken.",
+                "hu": "Vigyázzon a csúszós szakaszokra a park koshídjain.",
+                "ro": "Atenție la porțiunile alunecoase de pe podurile din parc.",
+                "en": "Watch out for slippery patches on the park's small bridges."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:10 Uhr unter.",
+              "Besuchen Sie das Virágfürdő Thermalbad für echte Winterentspannung.",
+              "Warme Handschuhe sind für die Fußgängerzone unerlässlich.",
+              "Konditoreien im Zentrum bieten typisch ungarische Winterkuchen.",
+              "Achten Sie auf verkürzte Öffnungszeiten zwischen den Jahren."
+            ],
+            "hu": [
+              "A nap decemberben már 16:10 körül nyugszik.",
+              "Látogasson el a Virágfürdőbe egy meleg vizes lazításra.",
+              "A sétálóutcán a szélcsatornák miatt réteges öltözet szükséges.",
+              "Próbálja ki a helyi cukrászdák bejglijét vagy gesztenyepüréjét.",
+              "Ünnepi időszakban ellenőrizze a múzeumi nyitvatartást."
+            ],
+            "ro": [
+              "Soarele apune în decembrie în jurul orei 16:10.",
+              "Vizitați Băile Virág pentru relaxare termală autentică.",
+              "Mănușile groase sunt esențiale pentru plimbarea în zona pietonală.",
+              "Cofetăriile centrale oferă prăjituri tradiționale de iarnă.",
+              "Verificați programul redus al muzeelor în perioada sărbătorilor."
+            ],
+            "en": [
+              "The sun sets as early as 16:10 in mid-December.",
+              "Visit Virágfürdő Thermal Bath for genuine winter relaxation.",
+              "Warm gloves are essential for the pedestrian zone stroll.",
+              "Local confectioneries offer typical Hungarian winter cakes.",
+              "Check for shortened museum hours during the festive period."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -546,6 +736,196 @@
           "There is a well-developed cycle path around Lake Deseda.",
           "Always lock your bike securely when you park it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Kossuth-Platz und nutzen Sie die kurzen Wege im Zentrum. Das Theater und das Rippl-Rónai-Haus bieten Schutz vor Schauern. Der Ausflug zum Deseda-See erfordert bei Regen gute Ausrüstung, belohnt aber mit einer mystischen Stimmung über dem Wasser. Ein warmes Mittagessen im Zentrum stärkt Sie für den Rückweg zum Dom.",
+            "hu": "Induljon óvatosan a Kossuth térről, kihasználva a belvárosi rövid távokat. A színház és a Rippl-Rónai Emlékház védelmet nyújt a záporok elől. A Deseda-tavi tekerés esőben komolyabb felszerelést igényel, de a víz feletti pára különleges látványt nyújt. Egy kiadós belvárosi ebéd után fejezze be a kört a Székesegyháznál.",
+            "ro": "Porniți cu prudență din Piața Kossuth, folosind distanțele scurte din centru. Teatrul și Casa Memorială Rippl-Rónai oferă adăpost în caz de averse. Excursia la Lacul Deseda necesită echipament impermeabil, dar oferă o atmosferă mistică deasupra apei. Un prânz cald în centru vă va pregăti pentru finalul traseului la Catedrală.",
+            "en": "Start cautiously at Kossuth Square, making use of the short distances in the center. The theatre and Rippl-Rónai Memorial House provide shelter from the rain. Cycling to Lake Deseda in wet weather requires good gear but rewards you with a mystical view over the water. A warm lunch downtown will recharge you for the final stop at the Cathedral."
+          },
+          "stops": [
+            {
+              "name": "Kossuth Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon az induláskor a nedves díszburkolaton.",
+                "ro": "Atenție la demaraj pe pavajul umed din piață.",
+                "en": "Be careful when starting off on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Csiky Gergely Theatre",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich in der Nähe.",
+                "hu": "Fedett kerékpártárolók találhatók a közelben.",
+                "ro": "Există rastele pentru biciclete acoperite în apropiere.",
+                "en": "Covered bicycle racks are available in the vicinity."
+              }
+            },
+            {
+              "name": "Rippl-Rónai Memorial House",
+              "tip_5lang": {
+                "de": "Der Anstieg zum Hügel kann bei Nässe rutschig sein.",
+                "hu": "A dombra vezető út nedves időben csúszós lehet.",
+                "ro": "Urcarea spre deal poate fi alunecoasă pe timp de ploaie.",
+                "en": "The climb up the hill can be slippery in wet conditions."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Sicht auf Ihr Fahrrad.",
+                "hu": "Válasszon olyan helyet, ahonnan rálát a biciklijére.",
+                "ro": "Alegeți un restaurant de unde vă puteți supraveghea bicicleta.",
+                "en": "Choose a restaurant where you can keep an eye on your bike."
+              }
+            },
+            {
+              "name": "Lake Deseda",
+              "tip_5lang": {
+                "de": "Der Uferweg kann stellenweise schlammig sein.",
+                "hu": "A tóparti kerékpárút néhol sáros lehet eső után.",
+                "ro": "Pista de biciclete de pe mal poate fi noroioasă pe alocuri.",
+                "en": "The lakeside bike path can be muddy in some sections."
+              }
+            },
+            {
+              "name": "Kaposvár Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Dom für einen trockenen Abschluss.",
+                "hu": "A Székesegyház hűvös belső tere jó zárása a napnak.",
+                "ro": "Interiorul catedralei este un final liniștit și uscat.",
+                "en": "The Cathedral interior is a calm and dry way to end your ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Bremsen vor der Abfahrt zum Deseda-See.",
+              "Vermeiden Sie Pfützen, die Schlaglöcher verbergen könnten.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Schutzbleche sind bei diesem Wetter in Kaposvár unverzichtbar.",
+              "Die Fahrradwege im Zentrum sind bei Nässe oft rutschig."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket a Deseda-tavi lejtők előtt.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek.",
+              "Viseljen élénk színű esőkabátot a láthatóság miatt.",
+              "A sárvédő elengedhetetlen ezen az útvonalon.",
+              "A belvárosi kerékpársávok felfestései esőben csúsznak."
+            ],
+            "ro": [
+              "Verificați frânele înainte de coborârile spre Lacul Deseda.",
+              "Evitați bălțile care pot ascunde gropi adânci.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate.",
+              "Apărătorile de noroi sunt indispensabile pe acest traseu.",
+              "Marcajele pistelor de biciclete din centru sunt alunecoase pe ploaie."
+            ],
+            "en": [
+              "Check your brakes before the descents toward Lake Deseda.",
+              "Avoid puddles as they might hide deep potholes.",
+              "Wear a bright raincoat for better visibility in traffic.",
+              "Mudguards are essential for this specific itinerary.",
+              "Bicycle lane markings in the center become slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Kossuth-Platz führt Sie durch die klare Winterluft zum Csiky-Theater. Der Weg zum Rippl-Rónai-Haus auf dem Roma-Hügel bietet weite Aussichten über die verschneite Stadt. Nach einem wärmenden Mittagessen im Zentrum ist die Fahrt zum Deseda-See ein Erlebnis für Hartgesottene, mit Blick auf das oft gefrorene Wasser. Der Tag endet besinnlich am Dom.",
+            "hu": "Fagyos reggel a Kossuth téren, ahonnan a friss levegőn tekerünk a Csiky színházig. A Róma-hegyre vezető út a Rippl-Rónai házhoz havas panorámát kínál a városra. Egy forró belvárosi ebéd után a Deseda-tavi kirándulás a befagyott víztükörrel igazi téli kaland. A nap végén a Székesegyház belső csendje várja a bringásokat.",
+            "ro": "Un început geros în Piața Kossuth vă poartă prin aerul curat până la Teatrul Csiky. Drumul spre Casa Rippl-Rónai de pe dealul Roma oferă panorame vaste asupra orașului înzăpezit. După un prânz cald în centru, tura spre Lacul Deseda este o experiență intensă, cu vedere spre apa înghețată. Ziua se încheie la Catedrală.",
+            "en": "A frosty start at Kossuth Square leads you through the crisp air to the Csiky Theatre. The ride up to Rippl-Rónai House on Roma Hill offers snowy panoramas over the city. After a warming lunch downtown, the excursion to Lake Deseda with its frozen surface is a true winter adventure. The day ends peacefully at the Cathedral."
+          },
+          "stops": [
+            {
+              "name": "Kossuth Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen am Brunnen.",
+                "hu": "Vigyázzon a jeges foltokra a szökőkutak környékén.",
+                "ro": "Atenție la porțiunile înghețate din jurul fântânilor.",
+                "en": "Watch out for icy patches around the fountains."
+              }
+            },
+            {
+              "name": "Csiky Gergely Theatre",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die steifen Finger aufzuwärmen.",
+                "hu": "Rövid pihenő az átfagyott ujjak felmelegítésére.",
+                "ro": "O scurtă pauză pentru a vă încălzi mâinile înghețate.",
+                "en": "A short stop to warm up your frozen fingers."
+              }
+            },
+            {
+              "name": "Rippl-Rónai Memorial House",
+              "tip_5lang": {
+                "de": "Der Roma-Hügel kann bei Schnee schwer befahrbar sein.",
+                "hu": "A Róma-hegy havas időben nehezen tekerhető.",
+                "ro": "Dealul Roma poate fi greu de urcat pe zăpadă.",
+                "en": "Roma Hill can be difficult to cycle in snowy conditions."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Bestellen Sie eine heiße Suppe zur Regeneration.",
+                "hu": "Rendeljen egy forró levest a regenerálódáshoz.",
+                "ro": "Comandați o supă fierbinte pentru recuperare.",
+                "en": "Order a hot soup to aid your recovery from the cold."
+              }
+            },
+            {
+              "name": "Lake Deseda",
+              "tip_5lang": {
+                "de": "Extremer Windchill am offenen Wasser möglich.",
+                "hu": "Erős szélre és hidegérzetre számítson a nyílt víznél.",
+                "ro": "Vântul poate fi foarte tăios lângă apă.",
+                "en": "Expect significant wind chill near the open water."
+              }
+            },
+            {
+              "name": "Kaposvár Cathedral",
+              "tip_5lang": {
+                "de": "Schließen Sie die Tour vor Einbruch der Dunkelheit ab.",
+                "hu": "Fejezze be a túrát sötétedés előtt.",
+                "ro": "Încheiați turul înainte de lăsarea întunericului.",
+                "en": "Finish your tour before the early winter darkness sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Winterreifen oder reduzieren Sie den Luftdruck.",
+              "Fetten Sie die Kette gut ein gegen Streusalz.",
+              "Tragen Sie isolierte Handschuhe und eine Helmmütze.",
+              "Halten Sie die Fahrt zum Deseda-See kurz bei Minusgraden.",
+              "Das Licht am Rad muss wegen der frühen Dämmerung perfekt funktionieren."
+            ],
+            "hu": [
+              "Használjon téli gumit vagy csökkentse a keréknyomást.",
+              "Zsírozza be a láncot az útszóró só elleni védelemért.",
+              "Viseljen bélelt kesztyűt és sisak alatti sapkát.",
+              "Mínusz fokokban rövidítse le a tavi szakaszt.",
+              "A korai sötétedés miatt ellenőrizze a világítást."
+            ],
+            "ro": [
+              "Folosiți anvelope de iarnă sau reduceți presiunea în pneuri.",
+              "Gresați bine lanțul pentru a-l proteja de sarea de pe drum.",
+              "Purtați mănuși izolate și o căciulă sub cască.",
+              "Scurtați porțiunea de la lac dacă temperaturile sunt negative.",
+              "Verificați luminile bicicletece din cauza amurgului timpuriu."
+            ],
+            "en": [
+              "Use winter tires or slightly reduce tire pressure.",
+              "Grease your chain well to protect it from road salt.",
+              "Wear insulated gloves and a thermal cap under your helmet.",
+              "Keep the lakeside section short if temperatures are sub-zero.",
+              "Ensure your lights work perfectly due to the early dusk."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -792,6 +1172,214 @@
           "Allow enough time for the drive to and from Lake Deseda.",
           "Check the opening hours of museums and attractions in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Komfort des Autos, während der Regen gegen die Scheiben trommelt. Vom Parkplatz im Zentrum sind Kossuth-Platz und Dom nur wenige Schritte entfernt. Die Fahrt zum Rippl-Rónai-Haus ist bei Nässe besonders bequem, ebenso wie der Ausflug zum Deseda-See, wo Sie das Wetterpanorama vom trockenen Fahrzeug aus beobachten können.",
+            "hu": "Élvezze az autó kényelmét, miközben az eső veri az ablakot. A központi parkolóból a Kossuth tér és a Székesegyház pár lépés. A Rippl-Rónai Emlékházhoz vezető út esőben is komfortos, a Deseda-tónál pedig a gépkocsi védelméből csodálhatja meg a viharosabb vízfelszínt.",
+            "ro": "Bucurați-vă de confortul mașinii în timp ce ploaia bate în parbriz. Din parcarea centrală, Piața Kossuth și Catedrala sunt la doar câțiva pași. Drumul spre Casa Rippl-Rónai este foarte comod pe ploaie, la fel ca excursia la Lacul Deseda, unde puteți admira peisajul din interiorul vehiculului.",
+            "en": "Enjoy the comfort of your car while the rain drums on the roof. From the central car park, Kossuth Square and the Cathedral are just steps away. The drive to Rippl-Rónai House is easy in the wet, as is the trip to Lake Deseda, where you can watch the rainy panorama from your vehicle."
+          },
+          "stops": [
+            {
+              "name": "City Center Car Park",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Parkhaus für einen komplett trockenen Ausstieg.",
+                "hu": "Válasszon parkolóházat a teljesen száraz kiszálláshoz.",
+                "ro": "Alegeți o parcare etajată pentru a ieși din mașină la uscat.",
+                "en": "Choose a parking garage for a completely dry exit from the car."
+              }
+            },
+            {
+              "name": "Kossuth Square",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg vom Parkplatz entfernt.",
+                "hu": "Mindössze 2 perc séta a parkolótól.",
+                "ro": "La doar 2 minute de mers pe jos de parcare.",
+                "en": "Only a 2-minute walk from the parking area."
+              }
+            },
+            {
+              "name": "Kaposvár Cathedral",
+              "tip_5lang": {
+                "de": "Kurzes Halten zum Aussteigen in der Nähe möglich.",
+                "hu": "Rövid megállás a kiszálláshoz a közelben lehetséges.",
+                "ro": "Oprirea scurtă pentru debarcare este posibilă în apropiere.",
+                "en": "Short stops for dropping off passengers are possible nearby."
+              }
+            },
+            {
+              "name": "Rippl-Rónai Memorial House",
+              "tip_5lang": {
+                "de": "Kostenlose Parkplätze direkt vor dem Eingang.",
+                "hu": "Ingyenes parkolás közvetlenül a bejárat előtt.",
+                "ro": "Parcare gratuită chiar în fața intrării.",
+                "en": "Free parking available directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Lunch near the Memorial House",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Restaurant, um den Regen zu meiden.",
+                "hu": "Parkoljon közvetlenül az étteremnél az eső elől.",
+                "ro": "Parcați chiar lângă restaurant pentru a evita ploaia.",
+                "en": "Park right at the restaurant to minimize time in the rain."
+              }
+            },
+            {
+              "name": "Lake Deseda",
+              "tip_5lang": {
+                "de": "Der Hauptparkplatz bietet gute Sicht auf den See.",
+                "hu": "A főparkolóból jó kilátás nyílik a tóra.",
+                "ro": "Parcarea principală oferă o vedere bună spre lac.",
+                "en": "The main parking lot offers a great view of the lake."
+              }
+            },
+            {
+              "name": "Walk on the lake shore",
+              "tip_5lang": {
+                "de": "Verkürzen Sie die Runde bei starkem Regen.",
+                "hu": "Erős esőben rövidítse le a parti sétát.",
+                "ro": "Scurtați plimbarea pe mal dacă plouă torențial.",
+                "en": "Shorten your lakeside stroll if the rain intensifies."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Park-App für Kaposvár (e-Mobi).",
+              "Die Sichtverhältnisse am Deseda-See können bei Starkregen gering sein.",
+              "Vermeiden Sie tiefere Wasseransammlungen in Unterführungen.",
+              "Parkplätze im Zentrum sind an Samstagnachmittagen oft kostenlos.",
+              "Halten Sie einen Regenschirm im Kofferraum bereit."
+            ],
+            "hu": [
+              "Használja a kaposvári parkolási applikációt.",
+              "A látási viszonyok a Deseda körül esőben korlátozottak lehetnek.",
+              "Kerülje a mélyebb tócsákat az alsóbbrendű utakon.",
+              "Szombat délutántól a parkolás általában ingyenes a központban.",
+              "Tartson esernyőt az autóban a kiszálláshoz."
+            ],
+            "ro": [
+              "Utilizați aplicația de parcare pentru Kaposvár.",
+              "Vizibilitatea în jurul lacului Deseda poate fi redusă pe ploaie.",
+              "Evitați acumulările mari de apă în zonele joase.",
+              "Parcarea în centru este adesea gratuită sâmbătă după-amiaza.",
+              "Păstrați o umbrelă în portbagaj pentru opriri."
+            ],
+            "en": [
+              "Use the parking app for Kaposvár for easy payments.",
+              "Visibility around Lake Deseda can be poor during heavy rain.",
+              "Avoid large water accumulations in low-lying areas.",
+              "Parking in the center is often free on Saturday afternoons.",
+              "Keep an umbrella in the trunk for your stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen im beheizten Auto führt Sie zum stimmungsvollen Kossuth-Platz. Die Fahrt auf den Roma-Hügel zum Rippl-Rónai-Haus ist bei Schnee ein Highlight, ebenso wie die Weiterreise zum Deseda-See. Erleben Sie die winterliche Stille am Seeufer, bevor Sie sich im Restaurant aufwärmen. Den Tag schließen Sie bequem im Stadtzentrum ab.",
+            "hu": "A fűtött autó kényelméből induljon a téli díszbe öltözött Kossuth térre. A havas Róma-hegyre vezető út a Rippl-Rónai házhoz látványos, akárcsak a Deseda-tavi kirándulás. Élvezze a jeges tóparti csendet, majd melegedjen fel egy közeli étteremben. A napot a belváros fényeiben zárhatja.",
+            "ro": "O dimineață de iarnă în mașina încălzită vă duce spre Piața Kossuth festivă. Drumul pe dealul Roma spre Casa Rippl-Rónai este spectaculos pe zăpadă, la fel ca excursia spre Lacul Deseda. Experimentați liniștea iernii pe malul lacului înainte de a vă încălzi la restaurant. Ziua se încheie confortabil în centru.",
+            "en": "Start your winter morning in a heated car, heading to the atmospheric Kossuth Square. The drive up Roma Hill to Rippl-Rónai House is a highlight in the snow, followed by a trip to Lake Deseda. Enjoy the winter silence by the frozen shore before warming up in a restaurant. End your day comfortably in the city center."
+          },
+          "stops": [
+            {
+              "name": "City Center Car Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneematsch in der Einfahrt.",
+                "hu": "Vigyázzon a latyakos részekre a behajtásnál.",
+                "ro": "Atenție la porțiunile cu zăpadă topită la intrare.",
+                "en": "Watch out for slushy patches at the entrance."
+              }
+            },
+            {
+              "name": "Kossuth Square",
+              "tip_5lang": {
+                "de": "In der Kälte ist die Nähe zum Parkplatz ideal.",
+                "hu": "A hidegben ideális a parkoló közelsége.",
+                "ro": "În frig, proximitatea parcării este ideală.",
+                "en": "The proximity to parking is ideal in freezing weather."
+              }
+            },
+            {
+              "name": "Kaposvár Cathedral",
+              "tip_5lang": {
+                "de": "Der Dom ist im Winter meist nur mäßig beheizt.",
+                "hu": "A Székesegyház télen csak mérsékelten fűtött.",
+                "ro": "Catedrala este doar parțial încălzită pe timp de iarnă.",
+                "en": "The Cathedral is only moderately heated in winter."
+              }
+            },
+            {
+              "name": "Rippl-Rónai Memorial House",
+              "tip_5lang": {
+                "de": "Die Auffahrt wird bei Glätte geräumt.",
+                "hu": "A feljárót csúszós időben takarítják.",
+                "ro": "Aleea de acces este curățată în caz de polei.",
+                "en": "The access road is cleared during icy conditions."
+              }
+            },
+            {
+              "name": "Lunch near the Memorial House",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch in der Nähe der Heizung.",
+                "hu": "Foglaljon asztalt a fűtőtest közelében.",
+                "ro": "Rezervați o masă lângă o sursă de căldură.",
+                "en": "Reserve a table near a heater for extra comfort."
+              }
+            },
+            {
+              "name": "Lake Deseda",
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie die Aussicht im Warmen genießen.",
+                "hu": "Parkoljon úgy, hogy a melegből lássa a tavat.",
+                "ro": "Parcați astfel încât să vedeți lacul din mașina caldă.",
+                "en": "Park in a spot where you can enjoy the lake view from the warmth."
+              }
+            },
+            {
+              "name": "Walk on the lake shore",
+              "tip_5lang": {
+                "de": "Tragen Sie rutschfeste Sohlen auf dem Uferweg.",
+                "hu": "Viseljen csúszásmentes talpú cipőt a parti sétához.",
+                "ro": "Purtați încălțăminte cu talpă antiderapantă pe mal.",
+                "en": "Wear shoes with non-slip soles for the lakeside walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und Enteiser-Spray mit.",
+              "Prüfen Sie den Reifendruck bei plötzlichem Kälteeinbruch.",
+              "Die Straßen zum Roma-Hügel können bei Glätte tückisch sein.",
+              "Lassen Sie keine Flüssigkeiten im Auto über Nacht einfrieren.",
+              "Nutzen Sie die Sitzheizung für maximale Behaglichkeit."
+            ],
+            "hu": [
+              "Legyen az autóban jégkaparó és jégoldó spray.",
+              "Hirtelen lehűléskor ellenőrizze a gumiabroncsok nyomását.",
+              "A Róma-hegyre vezető utak jegesedéskor veszélyesek lehetnek.",
+              "Ne hagyjon folyadékot az autóban éjszakára a fagyveszély miatt.",
+              "Használja az ülésfűtést a maximális komfort érdekében."
+            ],
+            "ro": [
+              "Aveți la îndemână o racletă și spray degivrant.",
+              "Verificați presiunea pneurilor la scăderi bruște de temperatură.",
+              "Drumurile spre dealul Roma pot fi înșelătoare pe polei.",
+              "Nu lăsați lichide în mașină peste noapte pe timp de ger.",
+              "Folosiți încălzirea în scaune pentru confort maxim."
+            ],
+            "en": [
+              "Keep an ice scraper and de-icer spray in the car.",
+              "Check tire pressure during sudden cold snaps.",
+              "Roads to Roma Hill can be treacherous during icy spells.",
+              "Do not leave liquids in the car overnight to avoid freezing.",
+              "Utilize seat heating for maximum coziness during the trip."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1020,6 +1608,196 @@
           "Check bus schedules in advance, especially for the return trip from Lake Deseda.",
           "Some buses may not accept card payments, so have cash ready."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das dichte Busnetz von Kaposvár, um trocken zwischen den Sehenswürdigkeiten zu pendeln. Vom Kossuth-Platz bringen Sie die Linien schnell zum Dom und zum Rippl-Rónai-Museum. Ein warmes Mittagessen im Zentrum unterbricht den Regentag, bevor Sie mit dem Bus zum Deseda-See fahren und den Tag am Csiky-Theater ausklingen lassen.",
+            "hu": "Használja ki Kaposvár sűrű buszhálózatát, hogy szárazon közlekedjen a látnivalók között. A Kossuth térről gyorsan elérheti a Székesegyházat és a Rippl-Rónai Múzeumot. Egy meleg belvárosi ebéd után buszozzon ki a Deseda-tóhoz, majd zárja a napot a Csiky színháznál.",
+            "ro": "Folosiți rețeaua densă de autobuze din Kaposvár pentru a călători fără a vă uda. Din Piața Kossuth, liniile vă duc rapid la Catedrală și la Muzeul Rippl-Rónai. După un prânz cald în centru, luați autobuzul spre Lacul Deseda și încheiați ziua la Teatrul Csiky.",
+            "en": "Take advantage of Kaposvár's dense bus network to commute dryly between sights. From Kossuth Square, lines take you quickly to the Cathedral and Rippl-Rónai Museum. After a warm lunch downtown, take the bus to Lake Deseda and finish your day at the Csiky Theatre."
+          },
+          "stops": [
+            {
+              "name": "Kossuth Square",
+              "tip_5lang": {
+                "de": "Warten Sie im Schutz der umliegenden Cafés.",
+                "hu": "Várjon a közeli kávézók védelmében.",
+                "ro": "Așteptați autobuzul sub protecția cafenelelor din jur.",
+                "en": "Wait for your bus in the shelter of nearby cafes."
+              }
+            },
+            {
+              "name": "Kaposvár Cathedral",
+              "tip_5lang": {
+                "de": "Die nächste Haltestelle ist nur 100m entfernt.",
+                "hu": "A legközelebbi megálló mindössze 100 méterre van.",
+                "ro": "Cea mai apropiată stație este la doar 100 m distanță.",
+                "en": "The nearest bus stop is only 100 meters away."
+              }
+            },
+            {
+              "name": "Rippl-Rónai Museum",
+              "tip_5lang": {
+                "de": "Die Buslinie 12 verbindet das Zentrum direkt mit dem Museum.",
+                "hu": "A 12-es busz közvetlenül összeköti a központot a múzeummal.",
+                "ro": "Linia 12 face legătura directă între centru și muzeu.",
+                "en": "Bus line 12 connects the center directly to the museum area."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt für alle Buslinien.",
+                "hu": "Központi csomópont minden buszjárat számára.",
+                "ro": "Nod central pentru toate liniile de autobuz.",
+                "en": "Central hub for all local bus lines."
+              }
+            },
+            {
+              "name": "Lake Deseda (bus stop)",
+              "tip_5lang": {
+                "de": "Das Wartehäuschen bietet Schutz vor Wind und Regen.",
+                "hu": "A váróterem védelmet nyújt a szél és az eső ellen.",
+                "ro": "Adăpostul din stație oferă protecție contra vântului și ploii.",
+                "en": "The bus shelter provides protection from wind and rain."
+              }
+            },
+            {
+              "name": "Csiky Gergely Theatre",
+              "tip_5lang": {
+                "de": "Direkte Verbindung zurück zum Bahnhof möglich.",
+                "hu": "Közvetlen kapcsolat a vasútállomás felé.",
+                "ro": "Legătură directă înapoi spre gară.",
+                "en": "Direct connection back to the railway station is available."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab am Automaten oder per App.",
+              "Die Busse verkehren am Wochenende seltener.",
+              "Halten Sie Kleingeld bereit, falls Sie beim Fahrer kaufen.",
+              "Nutzen Sie die Echtzeit-Fahrplanauskunft von Kaposvár.",
+              "Regennasse Böden in Bussen können rutschig sein."
+            ],
+            "hu": [
+              "Vásároljon jegyet előre automatából vagy mobilappon.",
+              "Hétvégén a buszok ritkábban közlekednek.",
+              "Készítsen elő aprópénzt, ha a sofőrnél vált jegyet.",
+              "Használja a kaposvári valós idejű menetrendet.",
+              "A buszok padlója esőben csúszós lehet."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans de la automate sau prin aplicație.",
+              "Autobuzele circulă mai rar în zilele de weekend.",
+              "Pregătiți mărunțiș dacă doriți să cumpărați bilet de la șofer.",
+              "Utilizați aplicația pentru orarul autobuzelor în timp real.",
+              "Podeaua autobuzelor poate fi alunecoasă pe ploaie."
+            ],
+            "en": [
+              "Purchase tickets in advance from machines or the app.",
+              "Note that buses run less frequently on weekends.",
+              "Prepare exact change if buying tickets from the driver.",
+              "Use the real-time schedule app for Kaposvár transit.",
+              "Bus floors can be slippery when wet from passengers' shoes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintertag beginnt am Kossuth-Platz, von wo aus Sie die beheizten Busse zum Dom und zum Museum bringen. Genießen Sie die winterliche Stadtansicht aus dem Busfenster. Nach einem stärkenden Mittagessen führt die Fahrt zum Deseda-See, wo die Natur im Winterschlaf liegt. Den Abend verbringen Sie im glanzvollen Csiky-Theater, bevor Sie bequem zurückpendeln.",
+            "hu": "Fagyos téli nap a Kossuth téren, ahonnan fűtött buszokkal juthat el a Székesegyházhoz és a múzeumhoz. Csodálja meg a téli várost a busz ablakából. Egy kiadós ebéd után irány a Deseda-tó, ahol a természet téli álmát alussza. Az estét a Csiky színház fényeiben zárja, mielőtt visszatérne szállására.",
+            "ro": "O zi geroasă de iarnă începe în Piața Kossuth, de unde autobuzele încălzite vă duc spre Catedrală și muzeu. Admirați orașul înzăpezit de la fereastra autobuzului. După un prânz consistent, porniți spre Lacul Deseda, unde natura doarme. Seara se încheie la Teatrul Csiky, înainte de a vă întoarce confortabil.",
+            "en": "A frosty winter day starts at Kossuth Square, from where heated buses take you to the Cathedral and museum. Admire the winter city views from the bus window. After a hearty lunch, head to Lake Deseda where nature is in its winter slumber. Spend the evening at the glowing Csiky Theatre before commuting back comfortably."
+          },
+          "stops": [
+            {
+              "name": "Kossuth Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeit für einen schnellen Tee.",
+                "hu": "Használja ki a várakozási időt egy gyors teára.",
+                "ro": "Folosiți timpul de așteptare pentru un ceai rapid.",
+                "en": "Use your waiting time for a quick, warming tea nearby."
+              }
+            },
+            {
+              "name": "Kaposvár Cathedral",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter gut beheizt.",
+                "hu": "A buszok télen jól fűtöttek.",
+                "ro": "Autobuzele sunt bine încălzite pe timp de iarnă.",
+                "en": "The buses are well-heated during the winter months."
+              }
+            },
+            {
+              "name": "Rippl-Rónai Museum",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor dem Museumseingang.",
+                "hu": "A busz szinte közvetlenül a múzeum bejárata előtt áll meg.",
+                "ro": "Autobuzul oprește aproape de intrarea muzeului.",
+                "en": "The bus stops almost directly in front of the museum entrance."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Haltestellen und Restaurants.",
+                "hu": "Rövid távolságok a megállók és az éttermek között.",
+                "ro": "Distanțe scurte între stații și restaurante.",
+                "en": "Short walking distances between stops and restaurants."
+              }
+            },
+            {
+              "name": "Lake Deseda (bus stop)",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Rückfahrzeiten am Abend.",
+                "hu": "Figyeljen a visszaútra tartó járatok indulására.",
+                "ro": "Verificați orele de întoarcere ale ultimelor autobuze.",
+                "en": "Check the departure times for return trips in the evening."
+              }
+            },
+            {
+              "name": "Csiky Gergely Theatre",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist wunderschön beleuchtet.",
+                "hu": "A megálló környéke gyönyörűen megvilágított este.",
+                "ro": "Zona stației este superb iluminată seara.",
+                "en": "The area around the stop is beautifully lit in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Schuhe für das Warten an der Haltestelle.",
+              "Die Fahrpläne können bei extremem Schneefall abweichen.",
+              "Nutzen Sie die vorderen Türen zum Einsteigen bei Glätte.",
+              "Die Buslinie 81/82 fährt zum Deseda-See (Toponár).",
+              "Abends ist die Frequenz der Busse im Winter reduziert."
+            ],
+            "hu": [
+              "Viseljen meleg cipőt a megállóban való várakozáshoz.",
+              "Extrém havazás esetén a menetrend módosulhat.",
+              "Csúszós időben használja az első ajtót a felszálláshoz.",
+              "A 81/82-es buszjáratok közlekednek a Desedához (Toponár).",
+              "Este a téli időszakban ritkábban járnak a buszok."
+            ],
+            "ro": [
+              "Purtați încălțăminte groasă pentru așteptarea în stație.",
+              "Orarele pot fi modificate în caz de ninsori abundente.",
+              "Folosiți ușa din față pentru urcare în siguranță pe polei.",
+              "Liniile 81/82 circulă spre Lacul Deseda (Toponár).",
+              "Seara, frecvența autobuzelor este redusă pe timp de iarnă."
+            ],
+            "en": [
+              "Wear warm shoes for waiting at the bus stops.",
+              "Schedules might be affected during extreme snowfall.",
+              "Use the front doors for safer boarding in icy weather.",
+              "Bus lines 81/82 run toward Lake Deseda (Toponár area).",
+              "Bus frequency is reduced during winter evenings."
+            ]
+          }
+        }
       }
     }
   }

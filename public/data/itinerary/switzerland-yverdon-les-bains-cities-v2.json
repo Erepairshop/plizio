@@ -333,6 +333,170 @@
           "Bring swimwear and a towel for the Thermal Center.",
           "An evening stroll along the lakefront is highly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Yverdon beginnt unter den Arkaden des Pestalozzi-Platzes. Nach dem Besuch des Tempels bietet das Schloss Yverdon einen trockenen Zufluchtsort für Entdeckungen. Mittags tauchen Sie im Maison d'Ailleurs in Science-Fiction ein. Der Nachmittag gehört dem Thermalzentrum, wo das warme Wasser den Regen draußen vergessen lässt. Ein gemütlicher Abend in der Altstadt.",
+            "hu": "Az esős reggel Yverdonban a Pestalozzi tér árkádjai alatt kezdődik. A templomlátogatás után a várkastély vastag falai nyújtanak menedéket a történelem kedvelőinek. Délben a Maison d'Ailleurs sci-fi világa vár, délután pedig a termálfürdő forró medencéiben lazíthatunk, miközben kint dobol az eső. Az estét egy közeli bisztróban zárjuk.",
+            "ro": "O dimineață ploioasă în Yverdon începe sub arcadele din Piața Pestalozzi. După vizitarea Templului, Castelul oferă un refugiu istoric perfect împotriva vremii. La prânz, Maison d'Ailleurs vă transpune în lumi science-fiction. După-amiaza este dedicată Centrului Termal, unde apa caldă șterge orice urmă de disconfort cauzat de ploaie. Seară relaxantă în orașul vechi.",
+            "en": "A rainy morning in Yverdon starts under the arcades of Pestalozzi Square. After the Temple visit, the Castle provides a dry historical refuge. At noon, dive into science fiction at Maison d'Ailleurs. The afternoon is best spent at the Thermal Center, where the warm waters contrast perfectly with the grey skies outside. Finish with a cozy evening in the old town."
+          },
+          "stops": [
+            {
+              "name": "Pestalozzi Square",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude, um trocken zu bleiben.",
+                "hu": "Használja a környező épületek árkádjait, hogy szárazon maradjon.",
+                "ro": "Folosiți arcadele clădirilor din jur pentru a rămâne uscat.",
+                "en": "Use the arcades of the surrounding buildings to stay dry."
+              }
+            },
+            {
+              "name": "Temple of Yverdon",
+              "tip_4lang": {
+                "de": "Ein ruhiger Ort, um den stärksten Regenschauer abzuwarten.",
+                "hu": "Csendes hely, ahol megvárhatja a hevesebb eső végét.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea unei averse puternice.",
+                "en": "A peaceful place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Yverdon Castle and Museum",
+              "tip_4lang": {
+                "de": "Verlängern Sie den Museumsbesuch, um die Regenzeit sinnvoll zu nutzen.",
+                "hu": "Hosszabbítsa meg a múzeumlátogatást, hogy elkerülje az esőt.",
+                "ro": "Prelungiți vizita la muzeu pentru a folosi util timpul ploios.",
+                "en": "Extend your museum visit to make the most of the rainy weather."
+              }
+            },
+            {
+              "name": "House of Elsewhere",
+              "tip_4lang": {
+                "de": "Perfekt für regnerische Tage: eine faszinierende Reise in Innenräumen.",
+                "hu": "Tökéletes esős napokra: lenyűgöző beltéri kiállítások.",
+                "ro": "Perfect pentru zile ploioase: o călătorie fascinantă la interior.",
+                "en": "Perfect for rainy days: a fascinating indoor journey."
+              }
+            },
+            {
+              "name": "Thermal Center",
+              "tip_4lang": {
+                "de": "Das Außenbecken ist bei Regen besonders stimmungsvoll.",
+                "hu": "A kültéri medence esőben is rendkívül hangulatos.",
+                "ro": "Piscina exterioară este deosebit de atmosferică pe timp de ploaie.",
+                "en": "The outdoor pool is especially atmospheric in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Kopfsteinpflasterstraßen der Altstadt.",
+              "Der Weg zum Thermalzentrum ist kurz, aber ein Schirm ist unerlässlich.",
+              "Die Museen sind montags oft geschlossen; prüfen Sie die Öffnungszeiten.",
+              "Genießen Sie eine heiße Schokolade in einem der Cafés am Pestalozzi-Platz."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt az óváros macskaköves utcáin.",
+              "A termálfürdőhöz vezető út rövid, de az esernyő nélkülözhetetlen.",
+              "A múzeumok hétfőnként gyakran zárva tartanak; ellenőrizze a nyitvatartást.",
+              "Kóstoljon meg egy forró csokoládét a Pestalozzi tér egyik kávézójában."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite din centrul vechi.",
+              "Drumul spre Centrul Termal este scurt, dar umbrela este indispensabilă.",
+              "Muzeele sunt adesea închise lunea; verificați programul de funcționare.",
+              "Savurați o ciocolată caldă la una dintre cafenelele din Piața Pestalozzi."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets of the old town.",
+              "The walk to the Thermal Center is short, but an umbrella is essential.",
+              "Museums are often closed on Mondays; check the opening hours.",
+              "Enjoy a hot chocolate in one of the cafes on Pestalozzi Square."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen führt über den frostigen Pestalozzi-Platz zum Tempel. Das Schloss Yverdon bietet wohlige Wärme und tiefe Einblicke in die Geschichte. Mittags fasziniert das Maison d'Ailleurs mit Visionen der Zukunft. Der frühe Einbruch der Dunkelheit wird im Thermalzentrum zum Erlebnis, wenn der Dampf im kalten Wind aufsteigt. Ein Abendessen bei Kerzenschein rundet den Tag ab.",
+            "hu": "Deres téli reggel köszönt a Pestalozzi térre, mielőtt betérnénk a templom melegébe. A várkastély falai között a történelem melegít fel, majd a Maison d'Ailleurs sci-fi kiállítása következik. Mivel korán sötétedik, a délutánt a termálfürdőben töltjük, ahol a hideg levegőben gőzölgő víz felejthetetlen élményt nyújt. A napot egy gyertyafényes vacsorával zárjuk.",
+            "ro": "O dimineață rece de iarnă începe în Piața Pestalozzi, urmată de o vizită la Templu. Castelul Yverdon oferă căldură și o incursiune în istoria locală. La prânz, Maison d'Ailleurs surprinde prin viziuni futuriste. Întunericul ce cade devreme face din vizita la Centrul Termal o experiență magică, cu aburi ridicându-se în aerul rece. Cina la lumina lumânărilor încheie ziua.",
+            "en": "A crisp winter morning starts at the frosty Pestalozzi Square followed by a warm visit to the Temple. Yverdon Castle offers historical depth and shelter from the cold. At noon, Maison d'Ailleurs fascinates with future visions. As darkness falls early, the Thermal Center becomes a magical refuge with steam rising in the cold air. Finish with a candlelight dinner in town."
+          },
+          "stops": [
+            {
+              "name": "Pestalozzi Square",
+              "tip_4lang": {
+                "de": "Vorsicht vor glatten Stellen auf dem gefrorenen Pflaster.",
+                "hu": "Vigyázzon a csúszós foltokra a fagyott kövezeten.",
+                "ro": "Atenție la porțiunile alunecoase de pe pavajul înghețat.",
+                "en": "Watch out for slippery spots on the frozen pavement."
+              }
+            },
+            {
+              "name": "Temple of Yverdon",
+              "tip_4lang": {
+                "de": "Genießen Sie die Stille und die angenehme Innentemperatur.",
+                "hu": "Élvezze a csendet és a kellemes benti hőmérsékletet.",
+                "ro": "Bucurați-vă de liniște și de temperatura interioară plăcută.",
+                "en": "Enjoy the silence and the pleasant indoor temperature."
+              }
+            },
+            {
+              "name": "Yverdon Castle and Museum",
+              "tip_4lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Spaziergängen aufzuwärmen.",
+                "hu": "Ideális hely a felmelegedéshez a városi séta közben.",
+                "ro": "Un loc ideal pentru a vă încălzi între plimbări.",
+                "en": "An ideal place to warm up between walks."
+              }
+            },
+            {
+              "name": "House of Elsewhere",
+              "tip_4lang": {
+                "de": "Die Ausstellungen sind gut beheizt und bieten Komfort.",
+                "hu": "A kiállítótermek jól fűtöttek és kényelmesek.",
+                "ro": "Sălile de expoziție sunt bine încălzite și oferă confort.",
+                "en": "The exhibition halls are well-heated and comfortable."
+              }
+            },
+            {
+              "name": "Thermal Center",
+              "tip_4lang": {
+                "de": "Der Kontrast zwischen heißem Wasser und Winterluft ist herrlich.",
+                "hu": "A forró víz és a téli levegő kontrasztja csodálatos.",
+                "ro": "Contrastul dintre apa fierbinte și aerul de iarnă este minunat.",
+                "en": "The contrast between hot water and winter air is wonderful."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:45 Uhr unter.",
+              "Tragen Sie Schichten, da es am Seeufer windig und kalt sein kann.",
+              "Einige Cafés bieten im Winter spezielle Fondue-Abende an.",
+              "Die Wege in der Altstadt werden geräumt, können aber morgens glatt sein."
+            ],
+            "hu": [
+              "A nap decemberben már 16:45 körül lemegy.",
+              "Öltözzön rétegesen, mert a tóparton fújhat a hideg szél.",
+              "Néhány kávézó télen speciális fondü-esteket tart.",
+              "Az óváros útjait takarítják, de reggelente csúszósak lehetnek."
+            ],
+            "ro": [
+              "Soarele apune în decembrie deja în jurul orei 16:45.",
+              "Purtați haine în straturi, deoarece pe malul lacului poate fi vânt și frig.",
+              "Unele cafenele oferă seri speciale de fondue în timpul iernii.",
+              "Căile din centrul vechi sunt curățate, dar pot fi alunecoase dimineața."
+            ],
+            "en": [
+              "The sun sets as early as 16:45 in December.",
+              "Wear layers, as it can be windy and cold near the lakeshore.",
+              "Some cafes offer special fondue evenings during winter.",
+              "Old town paths are cleared but can be slippery in the morning."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -683,6 +847,188 @@
           "Bring a water bottle and snacks, as there are few refreshment options between stops.",
           "A helmet is highly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet Yverdon auf zwei Rädern Charme. Start am Pestalozzi-Platz, dann zum trockenen Schlosshof. Die Fahrt führt durch die Altstadt zum Maison d'Ailleurs. Entlang des Sees geht es zu den Menhiren von Clendy, wo der Regen die Steine mystisch glänzen lässt. Nach einem Stopp im Champ-Pittet endet die Tour im Thermalbad zum Aufwärmen und Trocknen.",
+            "hu": "Az eső ellenére Yverdon két keréken is felfedezhető. Kezdés a Pestalozzi téren, majd a várkastély udvara következik. Az óvároson át a Maison d'Ailleurs-ig tekerünk. A tóparti úton a Clendy menhirekhez jutunk, ahol az esőtől csillogó kövek misztikus látványt nyújtanak. Champ-Pittet érintésével a termálfürdőben zárjuk a túrát, ahol átmelegedhetünk.",
+            "ro": "În ciuda ploii, Yverdon are farmec pe două roți. Start în Piața Pestalozzi, apoi spre curtea castelului. Drumul continuă prin centrul vechi spre Maison d'Ailleurs. Pe malul lacului ajungem la Menhirii din Clendy, unde ploaia face pietrele să strălucească mistic. După o oprire la Champ-Pittet, turul se încheie la băile termale pentru încălzire.",
+            "en": "Despite the rain, Yverdon on two wheels is charming. Start at Pestalozzi Square, then to the castle courtyard. Cycle through the old town to Maison d'Ailleurs. The lakeside path leads to the Menhirs of Clendy, where rain makes the stones glow mystically. After a stop at Champ-Pittet, the tour ends at the Thermal Center to warm up and dry off."
+          },
+          "stops": [
+            {
+              "name": "Pestalozzi Square",
+              "tip_4lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster beim Anfahren.",
+                "hu": "Vigyázzon a vizes macskakőre elinduláskor.",
+                "ro": "Atenție la pavajul umed când porniți de pe loc.",
+                "en": "Be careful on the wet cobblestones when starting off."
+              }
+            },
+            {
+              "name": "Yverdon Castle and Museum",
+              "tip_4lang": {
+                "de": "Fahrradabstellplätze befinden sich direkt vor dem Schlosseingang.",
+                "hu": "Kerékpártárolók közvetlenül a kastély bejárata előtt találhatók.",
+                "ro": "Rastelurile de biciclete se află chiar în fața intrării în castel.",
+                "en": "Bike racks are located right in front of the castle entrance."
+              }
+            },
+            {
+              "name": "House of Elsewhere",
+              "tip_4lang": {
+                "de": "Ein guter Ort, um Kleidung und Ausrüstung kurz zu trocknen.",
+                "hu": "Jó hely a ruházat és a felszerelés rövid szárítására.",
+                "ro": "Un loc bun pentru a usca rapid hainele și echipamentul.",
+                "en": "A good place to briefly dry your clothes and gear."
+              }
+            },
+            {
+              "name": "Menhirs of Clendy",
+              "tip_4lang": {
+                "de": "Der Boden kann schlammig sein; bleiben Sie auf den Wegen.",
+                "hu": "A talaj sáros lehet; maradjon a kijelölt ösvényeken.",
+                "ro": "Solul poate fi noroios; rămâneți pe poteci.",
+                "en": "The ground can be muddy; stay on the paths."
+              }
+            },
+            {
+              "name": "Pro Natura Center Champ-Pittet",
+              "tip_4lang": {
+                "de": "Der Beobachtungsturm bietet Schutz vor plötzlichen Schauern.",
+                "hu": "A megfigyelőtorony védelmet nyújt a hirtelen záporok ellen.",
+                "ro": "Turnul de observație oferă adăpost împotriva averselor bruște.",
+                "en": "The observation tower provides shelter from sudden showers."
+              }
+            },
+            {
+              "name": "Thermal Center",
+              "tip_4lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab, bevor Sie das Bad genießen.",
+                "hu": "Zárja le biztonságosan a biciklit, mielőtt bemenne a fürdőbe.",
+                "ro": "Asigurați-vă bicicleta înainte de a intra la băi.",
+                "en": "Secure your bike properly before enjoying the thermal baths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, da nasses Felgenpflaster längere Wege erfordert.",
+              "Vermeiden Sie schnelle Kurven auf nassem Laub im Champ-Pittet.",
+              "Vielerorts gibt es überdachte Fahrradparkplätze in Bahnhofsnähe.",
+              "Ein Regenponcho ist beim Radfahren praktischer als ein Schirm."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, mert a vizes felnik növelik a féktávot.",
+              "Kerülje a gyors kanyarodást a vizes leveleken Champ-Pittet környékén.",
+              "A vasútállomás közelében sok fedett kerékpártároló található.",
+              "A biciklizéshez az esőponcsó praktikusabb, mint az esernyő."
+            ],
+            "ro": [
+              "Verificați frânele, deoarece jantele umede necesită distanțe mai mari.",
+              "Evitați virajele strânse pe frunzele umede din zona Champ-Pittet.",
+              "Există multe parcări acoperite pentru biciclete lângă gară.",
+              "O pelerină de ploaie este mai practică decât o umbrelă la pedalat."
+            ],
+            "en": [
+              "Check your brakes as wet rims require longer stopping distances.",
+              "Avoid sharp turns on wet leaves in the Champ-Pittet area.",
+              "Many covered bike parking spots are available near the station.",
+              "A rain poncho is more practical than an umbrella while cycling."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kühle Brisen vom Neuenburgersee begleiten diese winterliche Radtour. Vom Pestalozzi-Platz geht es zum Schloss, wo die Kälte vor den Toren bleibt. Nach dem Maison d'Ailleurs führt die Fahrt durch die frostige Natur zu den Menhiren und zum Champ-Pittet. Die klare Luft bietet weite Sichten, bevor die Dämmerung einsetzt. Das Thermalzentrum ist das finale Ziel, um den Körper wieder aufzuheizen.",
+            "hu": "A Neuchâteli-tó felől fújó hűvös szél kíséri ezt a téli kerékpártúrát. A Pestalozzi térről a várkastélyhoz tekerünk, ahol a falakon kívül hagyjuk a hideget. A Maison d'Ailleurs után a fagyos természetben folytatjuk utunkat a menhirekhez és Champ-Pittet-hez. A tiszta levegő messzi kilátást enged, mielőtt leszáll az alkony. A túra végén a termálfürdő melegít fel.",
+            "ro": "Briza rece a lacului Neuchâtel însoțește acest tur de iarnă pe bicicletă. Din Piața Pestalozzi mergem la castel, lăsând frigul la porți. După Maison d'Ailleurs, drumul continuă prin natura înghețată spre Menhiri și Champ-Pittet. Aerul curat oferă vizibilitate maximă înainte de amurg. Centrul Termal este destinația finală pentru reîncălzire.",
+            "en": "Cool breezes from Lake Neuchâtel accompany this winter bike tour. From Pestalozzi Square to the castle, leave the cold at the gates. After Maison d'Ailleurs, cycle through frosty nature to the Menhirs and Champ-Pittet. The clear air offers far-reaching views before twilight. The Thermal Center is the final destination to warm up your body."
+          },
+          "stops": [
+            {
+              "name": "Pestalozzi Square",
+              "tip_4lang": {
+                "de": "Tragen Sie warme Handschuhe, der Fahrtwind ist eisig.",
+                "hu": "Viseljen meleg kesztyűt, a menetszél jeges lehet.",
+                "ro": "Purtați mănuși groase, vântul la deplasare este tăios.",
+                "en": "Wear warm gloves, the wind chill while riding is icy."
+              }
+            },
+            {
+              "name": "Yverdon Castle and Museum",
+              "tip_4lang": {
+                "de": "Ein Besuch im Museumscafé wärmt kalte Glieder auf.",
+                "hu": "A múzeumi kávézó meglátogatása felmelegíti a végtagokat.",
+                "ro": "O vizită la cafeneaua muzeului vă va încălzi membrele înghețate.",
+                "en": "A visit to the museum cafe warms up cold limbs."
+              }
+            },
+            {
+              "name": "House of Elsewhere",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Winterkleidung abzulegen.",
+                "hu": "Használja a ruhatárat a nehéz téli ruhák lerakásához.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele grele de iarnă.",
+                "en": "Use the cloakroom to drop off heavy winter clothes."
+              }
+            },
+            {
+              "name": "Menhirs of Clendy",
+              "tip_4lang": {
+                "de": "Kurzer Stopp reicht, um nicht zu stark auszukühlen.",
+                "hu": "Egy rövid megálló elég, hogy ne hűljön ki túlságosan.",
+                "ro": "O scurtă oprire este suficientă pentru a nu îngheța.",
+                "en": "A short stop is enough to avoid getting too cold."
+              }
+            },
+            {
+              "name": "Pro Natura Center Champ-Pittet",
+              "tip_4lang": {
+                "de": "Die Ausstellungen im Haus sind auch im Winter sehenswert.",
+                "hu": "A ház benti kiállításai télen is megtekinthetők.",
+                "ro": "Expozițiile din interior merită vizitate și iarna.",
+                "en": "The indoor exhibitions are worth visiting even in winter."
+              }
+            },
+            {
+              "name": "Thermal Center",
+              "tip_4lang": {
+                "de": "Genießen Sie den Dampf über dem Wasser in der Abenddämmerung.",
+                "hu": "Élvezze a víz feletti gőzt az esti szürkületben.",
+                "ro": "Bucurați-vă de aburul de deasupra apei la căderea serii.",
+                "en": "Enjoy the steam over the water during twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+              "Achten Sie auf Raureif auf den hölzernen Stegen im Champ-Pittet.",
+              "Nehmen Sie eine Thermoskanne mit warmem Tee für die Pausen mit.",
+              "Die Wintersonne steht tief und kann beim Fahren blenden."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a kerékpár világítása tökéletesen működik.",
+              "Ügyeljen a zúzmarára a Champ-Pittet fapallóin.",
+              "Vigyen magával termoszban meleg teát a pihenőkhöz.",
+              "A téli nap alacsonyan jár, és vezetés közben elvakíthat."
+            ],
+            "ro": [
+              "Asigurați-vă că luminile bicicletei funcționează impecabil.",
+              "Atenție la chiciura de pe podețele de lemn din Champ-Pittet.",
+              "Luați un termos cu ceai cald pentru pauze.",
+              "Soarele de iarnă este jos și poate fi orbitor la condus."
+            ],
+            "en": [
+              "Ensure your bike lights are in perfect working order.",
+              "Watch out for frost on the wooden walkways in Champ-Pittet.",
+              "Carry a thermos with warm tea for your breaks.",
+              "The winter sun is low and can be blinding while riding."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1033,6 +1379,188 @@
           "Refuel off the motorways, as prices are usually lower there.",
           "A GPS is useful for navigating between the different sites."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Yverdon komfortabel bei jedem Wetter. Start im Zentrum, dann Parken am Schloss für eine ausgiebige Besichtigung. Der Tempel bietet spirituelle Ruhe im Regen. Die Fahrt zum Champ-Pittet führt Sie direkt in die Natur, wo Sie vom Informationszentrum aus die Aussicht genießen. Der Tag endet im Thermalzentrum, bequem erreichbar mit ausreichend Parkplätzen.",
+            "hu": "Autóval kényelmesen felfedezheti Yverdont bármilyen időben. Kezdés a központban, parkolás a várkastélynál egy alapos látogatáshoz. A templom lelki nyugalmat áraszt az esőben. Champ-Pittet-hez hajtva közvetlenül a természetben találja magát, ahol a központból csodálhatja a kilátást. A nap a termálfürdőben zárul, amely kényelmesen, nagy parkolóval érhető el.",
+            "ro": "Cu mașina explorați Yverdon confortabil pe orice vreme. Start în centru, parcare lângă castel pentru o vizită detaliată. Templul oferă liniște spirituală în ploaie. Drumul spre Champ-Pittet vă duce direct în natură, unde puteți admira peisajul din centrul de informare. Ziua se încheie la Centrul Termal, ușor accesibil cu suficiente locuri de parcare.",
+            "en": "By car, explore Yverdon comfortably in any weather. Start in the center, park near the castle for an extensive tour. The Temple offers spiritual calm in the rain. Driving to Champ-Pittet takes you straight to nature, where you can enjoy the view from the visitor center. The day ends at the Thermal Center, easily reachable with ample parking."
+          },
+          "stops": [
+            {
+              "name": "Pestalozzi Square",
+              "tip_4lang": {
+                "de": "Nutzen Sie das Parkhaus 'Place d'Armes' ganz in der Nähe.",
+                "hu": "Használja a közeli 'Place d'Armes' parkolóházat.",
+                "ro": "Folosiți parcarea supraetajată 'Place d'Armes' din apropiere.",
+                "en": "Use the 'Place d'Armes' parking garage nearby."
+              }
+            },
+            {
+              "name": "Yverdon Castle and Museum",
+              "tip_4lang": {
+                "de": "Parkplätze befinden sich in den umliegenden Straßen (Zone Verte).",
+                "hu": "Parkolóhelyek a környező utcákban találhatók (Zöld Zóna).",
+                "ro": "Locurile de parcare se află pe străzile adiacente (Zona Verde).",
+                "en": "Parking spaces are available in the surrounding streets (Green Zone)."
+              }
+            },
+            {
+              "name": "Temple of Yverdon",
+              "tip_4lang": {
+                "de": "Der Eingang ist nur wenige Schritte vom Parkplatz entfernt.",
+                "hu": "A bejárat csak pár lépésre van a parkolótól.",
+                "ro": "Intrarea este la doar câțiva pași de parcare.",
+                "en": "The entrance is just a few steps away from the parking."
+              }
+            },
+            {
+              "name": "Pro Natura Center Champ-Pittet",
+              "tip_4lang": {
+                "de": "Der Parkplatz ist direkt am Eingang zum Naturschutzzentrum.",
+                "hu": "A parkoló közvetlenül a természetvédelmi központ bejáratánál van.",
+                "ro": "Parcarea este chiar la intrarea în centrul Pro Natura.",
+                "en": "The parking lot is right at the entrance of the nature center."
+              }
+            },
+            {
+              "name": "Champ-Pittet Lakeside Walk",
+              "tip_4lang": {
+                "de": "Lassen Sie Wertsachen nicht sichtbar im Auto liegen.",
+                "hu": "Ne hagyjon értéktárgyakat látható helyen az autóban.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
+                "en": "Do not leave valuables visible in the car."
+              }
+            },
+            {
+              "name": "Thermal Center",
+              "tip_4lang": {
+                "de": "Großer kostenloser Parkplatz für Besucher des Thermalbads.",
+                "hu": "Nagy ingyenes parkoló a termálfürdő látogatói számára.",
+                "ro": "Parcare mare gratuită pentru vizitatorii băilor termale.",
+                "en": "Large free parking for visitors of the thermal baths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkgebühren im Zentrum können per App (z.B. EasyPark) bezahlt werden.",
+              "Bei starkem Regen kann die Sicht auf der Seestraße eingeschränkt sein.",
+              "Das Thermalzentrum bietet überdachte Gänge vom Umkleidebereich.",
+              "Prüfen Sie die Scheibenwischer vor der Abfahrt."
+            ],
+            "hu": [
+              "A parkolási díj a központban applikációval is fizethető.",
+              "Heves esőben a látási viszonyok korlátozottak lehetnek a tóparti úton.",
+              "A termálfürdő fedett folyosókat biztosít az öltözők felől.",
+              "Indulás előtt ellenőrizze az ablaktörlőket."
+            ],
+            "ro": [
+              "Taxele de parcare din centru pot fi plătite prin aplicație.",
+              "Pe ploaie torențială, vizibilitatea pe drumul lacului poate fi redusă.",
+              "Centrul termal oferă pasaje acoperite de la vestiare.",
+              "Verificați ștergătoarele înainte de plecare."
+            ],
+            "en": [
+              "Parking fees in the center can be paid via app (e.g., EasyPark).",
+              "In heavy rain, visibility on the lakeside road may be limited.",
+              "The thermal center provides covered walkways from the changing area.",
+              "Check your windshield wipers before departure."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterzauber in Yverdon bequem mit dem Auto. Nach dem frostigen Start am Pestalozzi-Platz wärmen Sie sich im Schlossmuseum auf. Die Fahrt zum Champ-Pittet führt durch die verschneite oder frostige Broye-Ebene. Genießen Sie die winterliche Stille am See, bevor Sie zum Thermalzentrum fahren. Das warme Wasser ist der perfekte Abschluss, wenn die winterliche Kälte draußen bleibt. Eine stressfreie Rückfahrt im geheizten Wagen.",
+            "hu": "Téli varázs Yverdonban kényelmesen, autóval. A Pestalozzi téren tett fagyos séta után a várkastély múzeumában melegedhetünk fel. Az út Champ-Pittet-hez a deres vagy havas Broye-síkságon át vezet. Élvezze a tóparti téli csendet, mielőtt a termálfürdőbe indulna. A forró víz tökéletes befejezés, míg a téli hideg kint marad. Stresszmentes hazautazás a fűtött autóban.",
+            "ro": "Farmecul iernii în Yverdon, accesibil cu mașina. După startul rece în Piața Pestalozzi, vă încălziți la muzeul castelului. Drumul spre Champ-Pittet traversează câmpia Broye înghețată sau înzăpezită. Bucurați-vă de liniștea iernii la lac înainte de a merge la băi. Apa caldă este finalul perfect, în timp ce frigul rămâne afară. Retur fără stres în mașina încălzită.",
+            "en": "Winter magic in Yverdon comfortably by car. After a frosty start at Pestalozzi Square, warm up in the castle museum. The drive to Champ-Pittet leads through the frozen or snowy Broye plain. Enjoy the winter silence by the lake before heading to the Thermal Center. Warm water is the perfect end while the winter chill stays outside. A stress-free return in a heated car."
+          },
+          "stops": [
+            {
+              "name": "Pestalozzi Square",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem ersten Fotostopp.",
+                "hu": "Használja az ülésfűtést az első fotómegálló után.",
+                "ro": "Folosiți încălzirea în scaune după prima oprire foto.",
+                "en": "Use the seat heating after the first photo stop."
+              }
+            },
+            {
+              "name": "Yverdon Castle and Museum",
+              "tip_4lang": {
+                "de": "Das Auto heizt sich während Ihres Besuchs schnell wieder auf.",
+                "hu": "Az autó gyorsan felmelegszik a látogatás után.",
+                "ro": "Mașina se reîncălzește rapid după vizita dumneavoastră.",
+                "en": "The car warms up quickly again after your visit."
+              }
+            },
+            {
+              "name": "Temple of Yverdon",
+              "tip_4lang": {
+                "de": "Kurze Wege minimieren die Zeit in der Kälte.",
+                "hu": "A rövid távok minimalizálják a hidegben töltött időt.",
+                "ro": "Distanțele scurte minimizează timpul petrecut în frig.",
+                "en": "Short distances minimize the time spent in the cold."
+              }
+            },
+            {
+              "name": "Pro Natura Center Champ-Pittet",
+              "tip_4lang": {
+                "de": "Achten Sie auf Glatteis auf dem Parkplatzgelände.",
+                "hu": "Ügyeljen a jegesedésre a parkoló területén.",
+                "ro": "Atenție la polei în zona parcării.",
+                "en": "Watch out for black ice in the parking area."
+              }
+            },
+            {
+              "name": "Champ-Pittet Lakeside Walk",
+              "tip_4lang": {
+                "de": "Ein kurzer Spaziergang am See ist auch im Winter belebend.",
+                "hu": "Egy rövid tóparti séta télen is frissítő.",
+                "ro": "O scurtă plimbare la lac este revigorantă și iarna.",
+                "en": "A short walk by the lake is invigorating even in winter."
+              }
+            },
+            {
+              "name": "Thermal Center",
+              "tip_4lang": {
+                "de": "Der Parkplatz ist im Winter oft schneefrei und gut geräumt.",
+                "hu": "A parkolót télen gyakran takarítják a hótól.",
+                "ro": "Parcarea este adesea curățată de zăpadă iarna.",
+                "en": "The parking lot is often cleared of snow in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Fahrzeug winterfest (Reifen, Frostschutz) ist.",
+              "Die Seestraße kann bei Nebel und Frost tückisch sein.",
+              "Nehmen Sie eine Decke für längere Standzeiten mit.",
+              "Die Parkautomaten funktionieren auch bei Kälte meist einwandfrei."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy autója fel van készítve a télre.",
+              "A tóparti út ködben és fagyban trükkös lehet.",
+              "Vigyen magával takarót hosszabb várakozásokhoz.",
+              "A parkolóautomaták általában hidegben is jól működnek."
+            ],
+            "ro": [
+              "Asigurați-vă că vehiculul este echipat de iarnă (anvelope, antigel).",
+              "Drumul de pe malul lacului poate fi înșelător pe ceață și îngheț.",
+              "Luați o pătură pentru perioadele de staționare mai lungi.",
+              "Automatele de parcare funcționează de obicei bine și pe ger."
+            ],
+            "en": [
+              "Ensure your vehicle is winter-ready (tires, antifreeze).",
+              "The lakeside road can be treacherous in fog and frost.",
+              "Carry a blanket for longer stationary periods.",
+              "Parking meters usually work perfectly even in cold weather."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1360,6 +1888,170 @@
           "The SBB Mobile app is useful for planning train and bus connections.",
           "From the train station, the old town is well signposted."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Busse in Yverdon bringen Sie trocken durch die Stadt. Start am Pestalozzi-Platz, dann kurze Fahrt zum Schloss. Das Maison d'Ailleurs ist leicht erreichbar. Zum Thermalzentrum nehmen Sie die Linie 602 oder 605, die Sie fast direkt vor den Eingang bringt. Die Menhire von Clendy erfordern einen kurzen Fußweg von der Haltestelle 'Yverdon-les-Bains, Clendy' im Regen.",
+            "hu": "Yverdon buszai szárazon viszik át a városon. Kezdés a Pestalozzi téren, majd rövid utazás a várkastélyhoz. A Maison d'Ailleurs könnyen elérhető. A termálfürdőhöz a 602-es vagy 605-ös járatot válassza, amely szinte a bejáratig viszi. A Clendy menhirekhez egy rövid sétát kell tenni az 'Yverdon-les-Bains, Clendy' megállótól az esőben.",
+            "ro": "Autobuzele din Yverdon vă poartă prin oraș fără să vă udați. Start în Piața Pestalozzi, apoi o scurtă călătorie spre castel. Maison d'Ailleurs este ușor accesibilă. Spre Centrul Termal luați linia 602 sau 605, care vă lasă aproape de intrare. Menhirii din Clendy necesită o scurtă plimbare de la stația 'Yverdon-les-Bains, Clendy' prin ploaie.",
+            "en": "Yverdon's buses carry you through the city while staying dry. Start at Pestalozzi Square, then a short ride to the castle. Maison d'Ailleurs is easily accessible. For the Thermal Center, take line 602 or 605, which drops you almost at the door. The Menhirs of Clendy require a short walk from the 'Yverdon-les-Bains, Clendy' stop in the rain."
+          },
+          "stops": [
+            {
+              "name": "Pestalozzi Square",
+              "tip_4lang": {
+                "de": "Die Bushaltestelle am Bahnhof ist nur 5 Gehminuten entfernt.",
+                "hu": "A vasútállomás buszmegállója csak 5 perc séta.",
+                "ro": "Stația de autobuz de la gară este la doar 5 minute de mers.",
+                "en": "The bus station at the train station is just a 5-minute walk away."
+              }
+            },
+            {
+              "name": "Yverdon Castle and Museum",
+              "tip_4lang": {
+                "de": "Nutzen Sie die App 'SBB Mobile' für Echtzeit-Abfahrten.",
+                "hu": "Használja az 'SBB Mobile' alkalmazást a valós idejű indulásokhoz.",
+                "ro": "Folosiți aplicația 'SBB Mobile' pentru plecări în timp real.",
+                "en": "Use the 'SBB Mobile' app for real-time departures."
+              }
+            },
+            {
+              "name": "House of Elsewhere",
+              "tip_4lang": {
+                "de": "Haltestelle 'Yverdon-les-Bains, Bel-Air' ist ideal.",
+                "hu": "Az 'Yverdon-les-Bains, Bel-Air' megálló az ideális.",
+                "ro": "Stația 'Yverdon-les-Bains, Bel-Air' este ideală.",
+                "en": "Stop 'Yverdon-les-Bains, Bel-Air' is ideal."
+              }
+            },
+            {
+              "name": "Thermal Center",
+              "tip_4lang": {
+                "de": "Der Bus hält direkt vor dem Parkgelände des Thermalbads.",
+                "hu": "A busz közvetlenül a termálfürdő parkja előtt áll meg.",
+                "ro": "Autobuzul oprește chiar în fața parcului băilor termale.",
+                "en": "The bus stops right in front of the thermal baths park."
+              }
+            },
+            {
+              "name": "Menhirs of Clendy",
+              "tip_4lang": {
+                "de": "Halten Sie den Schirm bereit für den Fußweg vom Bus.",
+                "hu": "Készítse elő az esernyőt a busztól való sétához.",
+                "ro": "Pregătiți umbrela pentru plimbarea de la autobuz.",
+                "en": "Keep your umbrella ready for the walk from the bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Mit der Gästekarte 'Yverdon-les-Bains Région' ist der ÖV oft kostenlos.",
+              "Die Busse sind pünktlich und bieten Schutz vor Wind und Wetter.",
+              "Abends fahren die Busse seltener; prüfen Sie den Fahrplan.",
+              "Der Hauptknotenpunkt für alle Linien ist der Bahnhof."
+            ],
+            "hu": [
+              "Az 'Yverdon-les-Bains Région' vendégkártyával a tömegközlekedés gyakran ingyenes.",
+              "A buszok pontosak, védelmet nyújtanak a szél és az eső ellen.",
+              "Este a buszok ritkábban járnak; ellenőrizze a menetrendet.",
+              "Minden vonal fő csomópontja a vasútállomás."
+            ],
+            "ro": [
+              "Cu cardul de oaspete 'Yverdon-les-Bains Région', transportul este adesea gratuit.",
+              "Autobuzele sunt punctuale și oferă protecție împotriva vremii.",
+              "Seara autobuzele circulă mai rar; verificați orarul.",
+              "Nodul principal pentru toate liniile este gara."
+            ],
+            "en": [
+              "With the 'Yverdon-les-Bains Région' guest card, public transit is often free.",
+              "Buses are punctual and provide shelter from the wind and rain.",
+              "Buses run less frequently in the evening; check the schedule.",
+              "The main hub for all lines is the train station."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Gemütlich durch das winterliche Yverdon mit dem öffentlichen Verkehr. Vom frostigen Pestalozzi-Platz gelangen Sie schnell ins warme Innere des Schlosses. Die Busverbindungen zum Maison d'Ailleurs und zum Thermalzentrum sind effizient und beheizt. Genießen Sie den Blick auf die verschneiten Landschaften aus dem Busfenster auf dem Weg zu den Menhiren von Clendy. Der Tag endet wohlig warm im Thermalbad.",
+            "hu": "Kényelmes utazás a téli Yverdonban tömegközlekedéssel. A fagyos Pestalozzi térről gyorsan bejuthat a várkastély melegébe. A Maison d'Ailleurs és a termálfürdő közötti buszjáratok hatékonyak és fűtöttek. Élvezze a havas táj látványát a buszablakból a Clendy menhirek felé menet. A napot kellemes melegben zárja a termálfürdőben.",
+            "ro": "Călătorie confortabilă prin Yverdonul hibernal cu transportul public. Din Piața Pestalozzi înghețată ajungeți rapid în interiorul cald al castelului. Conexiunile de autobuz spre Maison d'Ailleurs și băi sunt eficiente și încălzite. Admirați peisajul înzăpezit de la fereastra autobuzului spre Menhiri. Ziua se încheie în căldura plăcută a băilor termale.",
+            "en": "Travel comfortably through winter Yverdon by public transit. From frosty Pestalozzi Square, quickly reach the warm interior of the castle. Bus connections to Maison d'Ailleurs and the Thermal Center are efficient and heated. Enjoy views of snowy landscapes from the bus window on the way to the Menhirs. End the day in the cozy warmth of the thermal baths."
+          },
+          "stops": [
+            {
+              "name": "Pestalozzi Square",
+              "tip_4lang": {
+                "de": "Warten Sie in der warmen Bahnhofshalle auf Ihren Bus.",
+                "hu": "Várja a buszt a vasútállomás meleg várótermében.",
+                "ro": "Așteptați autobuzul în sala de așteptare caldă a gării.",
+                "en": "Wait for your bus in the warm train station hall."
+              }
+            },
+            {
+              "name": "Yverdon Castle and Museum",
+              "tip_4lang": {
+                "de": "Die Haltestelle 'Hôtel de Ville' liegt direkt am Platz.",
+                "hu": "A 'Hôtel de Ville' megálló közvetlenül a téren van.",
+                "ro": "Stația 'Hôtel de Ville' se află chiar în piață.",
+                "en": "The 'Hôtel de Ville' stop is right on the square."
+              }
+            },
+            {
+              "name": "House of Elsewhere",
+              "tip_4lang": {
+                "de": "Kurzer Umstieg am Bahnhof ermöglicht schnellen Zugang.",
+                "hu": "A vasútállomási átszállás gyors hozzáférést biztosít.",
+                "ro": "Schimbarea autobuzului la gară permite accesul rapid.",
+                "en": "A quick transfer at the station allows for fast access."
+              }
+            },
+            {
+              "name": "Thermal Center",
+              "tip_4lang": {
+                "de": "Der beheizte Bus ist nach dem Bad sehr angenehm.",
+                "hu": "A fűtött busz nagyon kellemes a fürdőzés után.",
+                "ro": "Autobuzul încălzit este foarte plăcut după baie.",
+                "en": "The heated bus is very pleasant after your bath."
+              }
+            },
+            {
+              "name": "Menhirs of Clendy",
+              "tip_4lang": {
+                "de": "Achten Sie auf die Trittsicherheit auf dem Weg von der Haltestelle.",
+                "hu": "Ügyeljen a stabil léptekre a megállótól vezető úton.",
+                "ro": "Atenție la stabilitatea pașilor pe drumul de la stație.",
+                "en": "Pay attention to your footing on the path from the stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrkarten können am Automaten oder per SMS/App gekauft werden.",
+              "Die Busse sind im Winter gut beheizt und bieten Komfort.",
+              "Kombinieren Sie Ihre Fahrt mit einem regionalen Zugbesuch.",
+              "Die Fahrpläne hängen an jeder Haltestelle deutlich aus."
+            ],
+            "hu": [
+              "Jegyeket automatából, SMS-ben vagy applikációval is vehet.",
+              "A buszok télen jól fűtöttek és kényelmesek.",
+              "Kombinálja utazását egy regionális vonatúttal.",
+              "A menetrendek minden megállóban egyértelműen ki vannak függesztve."
+            ],
+            "ro": [
+              "Biletele pot fi cumpărate de la automat, prin SMS sau aplicație.",
+              "Autobuzele sunt bine încălzite iarna și oferă confort.",
+              "Combinați călătoria cu o vizită cu trenul regional.",
+              "Orarele sunt afișate clar în fiecare stație."
+            ],
+            "en": [
+              "Tickets can be purchased at machines, via SMS, or app.",
+              "Buses are well-heated in winter and offer comfort.",
+              "Combine your trip with a regional train journey.",
+              "Schedules are clearly displayed at every stop."
+            ]
+          }
+        }
       }
     }
   }

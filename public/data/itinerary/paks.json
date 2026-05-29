@@ -326,6 +326,188 @@
           "Check the opening hours of the museums in advance.",
           "The walk to the Atomic Energy Museum is long; consider a taxi or bus for that part."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Schutz der Weinkeller des Sárgödör-Platzes, wo der Regen keine Rolle spielt. Mittags bietet das Stadtmuseum eine kulturelle Zuflucht. Der Nachmittag gehört der beeindruckenden Makovecz-Kirche, bevor Sie den Tag im beheizten Atommuseum ausklingen lassen. Ein Tag voller Entdeckungen, trotz des grauen Himmels über der Donau.",
+            "hu": "Kezdje a napot a Sárgödör tér borospincéinek védelmében, ahol az eső nem zavarja a hangulatot. Délben a Városi Múzeum kínál kulturális menedéket. A délután folyamán a Makovecz-templom belső tere nyújt nyugalmat, majd a napot a fűtött Atomenergetikai Múzeumban zárhatja. Tartalmas nap a Duna mentén, még szürke égbolt alatt is.",
+            "ro": "Începeți ziua la adăpostul cramelor din Piața Sárgödör, unde ploaia nu strică atmosfera. La prânz, Muzeul Orașului oferă un refugiu cultural. După-amiaza aparține bisericii Makovecz, urmată de o vizită la Muzeul Energiei Atomice, perfect pentru o zi ploioasă. O zi plină de descoperiri, în ciuda cerului gri de deasupra Dunării.",
+            "en": "Start your day sheltered by the wine cellars of Sárgödör Square, where rain won't dampen the mood. At noon, the Town Museum provides a cultural refuge. Spend the afternoon in the unique Holy Spirit Church, then conclude your day in the climate-controlled Atomic Energy Museum. A fulfilling day along the Danube, even under gray skies."
+          },
+          "stops": [
+            {
+              "name": "Sárgödör Square",
+              "tip_5lang": {
+                "de": "Die Weinkeller bieten perfekten Schutz vor Regen.",
+                "hu": "A borospincék tökéletes menedéket nyújtanak az eső elől.",
+                "ro": "Cramele oferă un adăpost perfect împotriva ploii.",
+                "en": "The wine cellars offer perfect shelter from the rain."
+              }
+            },
+            {
+              "name": "Paks Town Museum",
+              "tip_5lang": {
+                "de": "Planen Sie mehr Zeit für die Innenausstellungen ein.",
+                "hu": "Szánjon több időt a belső kiállítások megtekintésére.",
+                "ro": "Alocați mai mult timp expozițiilor interioare.",
+                "en": "Spend more time exploring the indoor exhibits."
+              }
+            },
+            {
+              "name": "Holy Spirit Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die hölzerne Innenarchitektur im Trockenen.",
+                "hu": "Csodálja meg a fa belső építészetet a szárazban.",
+                "ro": "Admirați arhitectura interioară din lemn la uscat.",
+                "en": "Admire the wooden interior architecture while staying dry."
+              }
+            },
+            {
+              "name": "Erzsébet Grand Hotel",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für einen heißen Kaffee ist ideal.",
+                "hu": "Egy rövid megálló egy forró kávéra ideális ilyenkor.",
+                "ro": "O scurtă oprire pentru o cafea fierbinte este ideală.",
+                "en": "A short stop for a hot coffee is ideal right now."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Nutzen Sie einen stabilen Regenschirm gegen den Wind.",
+                "hu": "Használjon erős esernyőt a dunai szél ellen.",
+                "ro": "Folosiți o umbrelă rezistentă împotriva vântului de pe Dunăre.",
+                "en": "Use a sturdy umbrella against the riverside wind."
+              }
+            },
+            {
+              "name": "Atomic Energy Museum",
+              "tip_5lang": {
+                "de": "Das ideale Ziel für einen verregneten Nachmittag.",
+                "hu": "Ideális úti cél egy esős délutánon.",
+                "ro": "Destinația ideală pentru o după-amiază ploioasă.",
+                "en": "The ideal destination for a rainy afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen des Windes an der Donau unerlässlich.",
+              "Die Museen in Paks sind geräumig und bieten guten Schutz.",
+              "Achten Sie auf rutschiges Kopfsteinpflaster auf dem Sárgödör-Platz.",
+              "Tragen Sie wasserfeste Schuhe für die Wege zwischen den Gebäuden."
+            ],
+            "hu": [
+              "Az erős szél miatt a Dunánál strapabíró esernyőre lesz szükség.",
+              "A paksi múzeumok tágasak és kiváló menedéket nyújtanak.",
+              "Vigyázzon a csúszós macskakövekre a Sárgödör téren.",
+              "Viseljen vízálló cipőt az épületek közötti szakaszokon."
+            ],
+            "ro": [
+              "O umbrelă robustă este esențială din cauza vântului de pe Dunăre.",
+              "Muzeele din Paks sunt spațioase și oferă un adăpost bun.",
+              "Atenție la pavajul alunecos din Piața Sárgödör.",
+              "Purtați încălțăminte impermeabilă pentru segmentele dintre clădiri."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to the winds along the Danube.",
+              "The museums in Paks are spacious and provide excellent shelter.",
+              "Watch out for slippery cobblestones in Sárgödör Square.",
+              "Wear waterproof shoes for the segments between indoor stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Paks mit einem Morgenbesuch in den gemütlichen Kellern. Die Kälte draußen wird durch die spirituelle Wärme der Makovecz-Kirche und die Geschichte im Stadtmuseum ausgeglichen. Genießen Sie die blaue Stunde an der Donaupromenade, bevor Sie sich im Atommuseum aufwärmen. Ein ruhiger, frostiger Tag mit viel Herz.",
+            "hu": "Fedezze fel a téli Paksot a hangulatos pincékben kezdve a reggelt. A kinti hideget a Makovecz-templom spirituális melegsége és a Városi Múzeum történetei ellensúlyozzák. Élvezze a kora esti fényeket a Duna-parton, majd melegedjen fel az Atomenergetikai Múzeumban. Nyugodt, fagyos nap, tele értékekkel.",
+            "ro": "Experimentați Paksul de iarnă începând dimineața în cramele primitoare. Frigul de afară este compensat de căldura spirituală a bisericii Makovecz și de istoria muzeului. Bucurați-vă de amurg pe faleza Dunării, apoi încălziți-vă la Muzeul Energiei Atomice. O zi liniștită și geroasă, plină de farmec.",
+            "en": "Experience winter in Paks starting with a cozy morning in the wine cellars. The outdoor chill is balanced by the spiritual warmth of the Holy Spirit Church and the history in the Town Museum. Enjoy the twilight blue hour on the Danube Promenade before warming up in the Atomic Museum. A quiet, frosty day full of character."
+          },
+          "stops": [
+            {
+              "name": "Sárgödör Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glätte auf den Treppen zu den Kellern.",
+                "hu": "Vigyázzon a jeges lépcsőkre a pincéknél.",
+                "ro": "Atenție la treptele înghețate de la crame.",
+                "en": "Watch out for icy steps leading down to the cellars."
+              }
+            },
+            {
+              "name": "Paks Town Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre schwere Winterkleidung.",
+                "hu": "Használja a ruhatárat a nehéz téli kabátokhoz.",
+                "ro": "Folosiți garderoba pentru hainele groase de iarnă.",
+                "en": "Use the cloakroom for your heavy winter coats."
+              }
+            },
+            {
+              "name": "Holy Spirit Church",
+              "tip_5lang": {
+                "de": "Die Holzarchitektur strahlt auch im Winter Wärme aus.",
+                "hu": "A faépítészet télen is melegséget áraszt.",
+                "ro": "Arhitectura din lemn emană căldură și iarna.",
+                "en": "The wooden architecture radiates warmth even in winter."
+              }
+            },
+            {
+              "name": "Erzsébet Grand Hotel",
+              "tip_5lang": {
+                "de": "Ideal für eine warme Suppe zur Mittagszeit.",
+                "hu": "Ideális egy meleg levesre ebédidőben.",
+                "ro": "Ideal pentru o supă caldă la prânz.",
+                "en": "Ideal for a warm soup at lunchtime."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind für den Wind am Fluss nötig.",
+                "hu": "Meleg kesztyű szükséges a folyóparti szélben.",
+                "ro": "Mănușile groase sunt necesare pentru vântul de pe râu.",
+                "en": "Warm gloves are necessary for the riverside wind."
+              }
+            },
+            {
+              "name": "Atomic Energy Museum",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Ort für das Ende Ihrer Tour.",
+                "hu": "Kellemesen fűtött hely a túra végére.",
+                "ro": "Un loc bine încălzit pentru finalul turului.",
+                "en": "A well-heated venue to conclude your tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 16:30 Uhr unter.",
+              "Tragen Sie Schichten, da es in den Museen warm ist.",
+              "Der Wind von der Donau kann die gefühlte Temperatur senken.",
+              "Ein Thermobecher mit Tee ist ein guter Begleiter."
+            ],
+            "hu": [
+              "A nap télen már 16:30 körül nyugszik.",
+              "Öltözzön rétegesen, mert a múzeumokban meleg van.",
+              "A dunai szél jelentősen csökkentheti a hőérzetet.",
+              "Egy termosz meleg tea jó útitárs lehet."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 16:30 iarna.",
+              "Îmbrăcați-vă în straturi, deoarece în muzee este cald.",
+              "Vântul de pe Dunăre poate scădea temperatura resimțită.",
+              "Un termos cu ceai cald este un companion bun."
+            ],
+            "en": [
+              "The sun sets around 4:30 PM in winter.",
+              "Dress in layers as the museums are well-heated.",
+              "The Danube wind can significantly lower the perceived temperature.",
+              "A thermos of hot tea is a great companion for the walk."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -630,6 +812,188 @@
           "Bring plenty of water, especially for the ride to Lussonium.",
           "Paks is relatively flat, making it great for cycling."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine sportliche Regenfahrt durch Paks beginnt am Sárgödör-Platz. Schützen Sie sich auf dem Weg zur Kirche und genießen Sie die Aussicht auf die Donau im Regen. Der Weg nach Lussonium erfordert Vorsicht, aber das Atommuseum bietet eine trockene Pause. Beenden Sie die Tour am Ürge-mező, wo die Natur im Regen besonders frisch duftet.",
+            "hu": "Egy sportos esős tekerés Pakson a Sárgödör téren kezdődik. Védekezzen az eső ellen a templom felé, és élvezze a Duna látványát. A Lussonium felé vezető út óvatosságot igényel, de az Atomerőmű múzeuma száraz pihenőt kínál. Zárja a túrát az Ürge-mezőnél, ahol az eső után friss az illat.",
+            "ro": "O tură sportivă cu bicicleta prin Paks începe în Piața Sárgödör. Protejați-vă de ploaie spre biserică și bucurați-vă de Dunăre. Drumul spre Lussonium necesită prudență, dar muzeul centralei oferă un popas uscat. Încheiați la Ürge-mező, unde natura miroase proaspăt după ploaie.",
+            "en": "An active rainy ride through Paks starts at Sárgödör Square. Stay covered on your way to the church and admire the Danube in the rain. The route to Lussonium requires caution, but the Atomic Museum offers a dry break. End your tour at Ürge-mező, where nature smells especially fresh in the rain."
+          },
+          "stops": [
+            {
+              "name": "Sárgödör Square",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a nedves macskaköveken.",
+                "ro": "Atenție la pavajul umed.",
+                "en": "Be careful on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Holy Spirit Church",
+              "tip_5lang": {
+                "de": "Fahrradständer sind in der Nähe vorhanden.",
+                "hu": "Kerékpártárolók találhatók a közelben.",
+                "ro": "Suporturi de biciclete disponibile în apropiere.",
+                "en": "Bike racks are available nearby."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Der Asphalt kann bei Regen rutschig sein.",
+                "hu": "Az aszfalt csúszós lehet esőben.",
+                "ro": "Asfaltul poate fi alunecos pe ploaie.",
+                "en": "The asphalt can be slippery when wet."
+              }
+            },
+            {
+              "name": "Lussonium (Roman Fort)",
+              "tip_5lang": {
+                "de": "Weg zu den Ruinen kann schlammig sein.",
+                "hu": "A romokhoz vezető út sáros lehet.",
+                "ro": "Drumul spre ruine poate fi noroios.",
+                "en": "The path to the ruins might be muddy."
+              }
+            },
+            {
+              "name": "Atomic Energy Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit zum Abtrocknen.",
+                "hu": "Használja ki az időt a megszárítkozásra.",
+                "ro": "Folosiți timpul pentru a vă usca.",
+                "en": "Take this time to dry off inside."
+              }
+            },
+            {
+              "name": "Ürge-mező Nature Reserve",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen.",
+                "hu": "Maradjon a kijelölt, szilárd utakon.",
+                "ro": "Rămâneți pe potecile pavate.",
+                "en": "Stick to the paved paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Regen in Paks sehr wichtig.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt.",
+              "Vermeiden Sie Pfützen, sie könnten tief sein."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen esőben.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóságért.",
+              "Indulás előtt ellenőrizze a fékeket.",
+              "Kerülje a tócsákat, mélyebbek lehetnek a vártnál."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale pe ploaie.",
+              "Purtați o jachetă de ploaie reflectorizantă.",
+              "Verificați frânele înainte de plecare.",
+              "Evitați bălțile, pot fi adânci."
+            ],
+            "en": [
+              "Fenders are a must for biking in Paks in the rain.",
+              "Wear a bright rain jacket for better visibility.",
+              "Check your brakes before setting off.",
+              "Avoid puddles, they might be deeper than they look."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch Paks bietet klare Luft und weite Ausblicke. Starten Sie warm eingepackt am Sárgödör-Platz. Die Fahrt entlang der Donau ist erfrischend, erfordert aber guten Windschutz. Lussonium wirkt im Frost fast magisch. Das Atommuseum bietet die nötige Aufwärmpause, bevor Sie den Tag in der Stille des Ürge-mező beenden.",
+            "hu": "A téli kerékpározás Pakson friss levegőt és tiszta kilátást kínál. Induljon melegen felöltözve a Sárgödör térről. A Duna-parti tekerés frissítő, de jó szélvédelem kell hozzá. A Lussonium fagyos állapotban varázslatos. Az Atomerőmű múzeuma segít felmelegedni az Ürge-mező csendje előtt.",
+            "ro": "O tură de iarnă cu bicicleta prin Paks oferă aer curat și vederi limpezi. Plecați bine echipat din Piața Sárgödör. Plimbarea pe malul Dunării este revigorantă, dar necesită protecție contra vântului. Lussonium arată magic înghețat. Muzeul oferă căldură înainte de liniștea de la Ürge-mező.",
+            "en": "A winter bike tour through Paks offers crisp air and clear views. Start well-bundled from Sárgödör Square. Riding along the Danube is refreshing but requires good wind protection. Lussonium looks magical in the frost. The Atomic Museum provides a warm interlude before the quiet of Ürge-mező."
+          },
+          "stops": [
+            {
+              "name": "Sárgödör Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe.",
+                "hu": "Vigyázzon a felfagyásokra.",
+                "ro": "Atenție la porțiunile de gheață.",
+                "en": "Watch out for black ice on the stones."
+              }
+            },
+            {
+              "name": "Holy Spirit Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Aufwärmen im Inneren.",
+                "hu": "Rövid megálló a benti felmelegedéshez.",
+                "ro": "Scurt popas pentru încălzire în interior.",
+                "en": "A short stop to warm up inside."
+              }
+            },
+            {
+              "name": "Danube Promenade",
+              "tip_5lang": {
+                "de": "Der Windchill-Effekt ist hier am stärksten.",
+                "hu": "Itt a legerősebb a szél hűtő hatása.",
+                "ro": "Efectul vântului este cel mai puternic aici.",
+                "en": "The wind chill is strongest here by the river."
+              }
+            },
+            {
+              "name": "Lussonium (Roman Fort)",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk für gefrorenen Boden nötig.",
+                "hu": "Bakancs szükséges a fagyott talajon.",
+                "ro": "Încălțăminte solidă necesară pentru solul înghețat.",
+                "en": "Sturdy footwear needed for the frozen ground."
+              }
+            },
+            {
+              "name": "Atomic Energy Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Finger aufzuwärmen.",
+                "hu": "Tökéletes hely az ujjak felmelegítésére.",
+                "ro": "Locul perfect pentru a vă încălzi mâinile.",
+                "en": "Perfect place to thaw out your fingers."
+              }
+            },
+            {
+              "name": "Ürge-mező Nature Reserve",
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor Einbruch der Dunkelheit.",
+                "hu": "Zárja a túrát még sötétedés előtt.",
+                "ro": "Încheiați tura înainte de lăsarea întunericului.",
+                "en": "Finish your ride before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Halten Sie die Kette gut geölt gegen Salz und Feuchtigkeit.",
+              "Die Tage sind kurz, prüfen Sie Ihre Beleuchtung.",
+              "Fahren Sie vorsichtig in Kurven."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "A láncot tartsa olajozottan a só és nedvesség ellen.",
+              "A nappalok rövidek, ellenőrizze a világítást.",
+              "Kanyarodjon óvatosan a jeges foltok miatt."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și căciulă sub cască.",
+              "Mențineți lanțul uns împotriva sării și umidității.",
+              "Zilele sunt scurte, verificați luminile.",
+              "Conduceți cu atenție în curbe."
+            ],
+            "en": [
+              "Wear windproof gloves and a thin hat under your helmet.",
+              "Keep your chain well-oiled against salt and moisture.",
+              "Days are short, so ensure your lights are working.",
+              "Be cautious when cornering on potentially icy patches."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -958,6 +1322,206 @@
           "The cluster-walking method saves time and parking hassles.",
           "Plan enough time for driving between clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Paks bequem von Ihrem Auto aus. Parken Sie am Sárgödör-Platz und besuchen Sie das Museum im Trockenen. Die Fahrt zur Makovecz-Kirche und weiter nach Lussonium bietet tolle Ausblicke, ohne nass zu werden. Das Mittagessen an der Donaupromenade und der Besuch des Atommuseums runden den Tag perfekt ab. Ein entspannter Ausflug trotz Regen.",
+            "hu": "Élvezze Paksot kényelmesen az autójából. Parkoljon a Sárgödör térnél, és látogassa meg a múzeumot szárazon. Az út a Makovecz-templomhoz és a Lussoniumhoz szép kilátást nyújt anélkül, hogy elázna. Az ebéd a Duna-parton és az Atomerőmű múzeuma tökéletes zárás. Pihentető kirándulás esőben is.",
+            "ro": "Bucurați-vă de Paks confortabil din mașină. Parcați la Sárgödör și vizitați muzeul fără să vă udați. Drumul spre biserica Makovecz și Lussonium oferă priveliști frumoase. Prânzul pe malul Dunării și vizita la muzeul centralei completează ziua perfect. O excursie relaxantă în ciuda ploii.",
+            "en": "Enjoy Paks from the comfort of your car. Park near Sárgödör Square and visit the museum while staying dry. The drive to the Holy Spirit Church and Lussonium offers great views without getting soaked. Lunch by the Danube and a visit to the Atomic Museum make for a perfect day. A relaxing trip despite the rain."
+          },
+          "stops": [
+            {
+              "name": "Cluster Start: Parking at Sárgödör Square",
+              "tip_5lang": {
+                "de": "Parkplätze sind direkt am Platz vorhanden.",
+                "hu": "Parkolóhelyek közvetlenül a téren találhatók.",
+                "ro": "Locuri de parcare disponibile chiar în piață.",
+                "en": "Parking spaces are available right at the square."
+              }
+            },
+            {
+              "name": "Paks Town Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor dem Eingang.",
+                "hu": "Használja a bejárat előtti parkolót.",
+                "ro": "Folosiți parcarea direct în fața intrării.",
+                "en": "Use the parking area directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Holy Spirit Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zur Kirche.",
+                "hu": "Rövid séta a parkolótól a templomig.",
+                "ro": "Scurtă plimbare de la parcare la biserică.",
+                "en": "Just a short walk from the parking lot to the church."
+              }
+            },
+            {
+              "name": "Next Cluster: Lussonium (Roman Fort)",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem befestigten Bereich.",
+                "hu": "Parkoljon a szilárd burkolatú részen.",
+                "ro": "Parcați pe zona pavată.",
+                "en": "Park on the paved section to avoid mud."
+              }
+            },
+            {
+              "name": "Danube Promenade for Lunch",
+              "tip_5lang": {
+                "de": "Viele Restaurants bieten Parkplätze an.",
+                "hu": "Sok étterem rendelkezik saját parkolóval.",
+                "ro": "Multe restaurante au parcare proprie.",
+                "en": "Many restaurants have their own parking spots."
+              }
+            },
+            {
+              "name": "Final Cluster: Atomic Energy Museum",
+              "tip_5lang": {
+                "de": "Großer, kostenloser Parkplatz vorhanden.",
+                "hu": "Nagy, ingyenes parkoló áll rendelkezésre.",
+                "ro": "Parcare mare și gratuită disponibilă.",
+                "en": "Large, free parking lot is available."
+              }
+            },
+            {
+              "name": "Ürge-mező Nature Reserve",
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man eine gute Sicht auf das Feld.",
+                "hu": "Az autóból is jó kilátás nyílik a mezőre.",
+                "ro": "Din mașină aveți o vedere bună asupra câmpului.",
+                "en": "The field is easily visible from the car window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt.",
+              "Achten Sie auf Fußgänger in der Nähe der Museen.",
+              "Die Straßen in Paks sind gut ausgebaut.",
+              "Nutzen Sie die Parkmöglichkeiten direkt an den Sehenswürdigkeiten."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Figyeljen a gyalogosokra a múzeumok környékén.",
+              "Paks útjai jól karbantartottak.",
+              "Használja ki a látnivalók közvetlen közelében lévő parkolókat."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de drum.",
+              "Atenție la pietoni în apropierea muzeelor.",
+              "Drumurile din Paks sunt bine întreținute.",
+              "Folosiți parcările din imediata apropiere a obiectivelor."
+            ],
+            "en": [
+              "Check your windshield wipers before you start.",
+              "Watch out for pedestrians near the museums.",
+              "The roads in Paks are well-maintained.",
+              "Take advantage of parking spots directly at the attractions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Paks entspannt mit dem Auto. Starten Sie am Sárgödör-Platz und genießen Sie die warme Atmosphäre der Museen. Die Fahrt durch die frostige Landschaft nach Lussonium ist beeindruckend. Ein warmes Mittagessen an der Donau und ein Besuch im Atommuseum bieten Schutz vor der Kälte. Ein idealer Wintertag mit maximalem Komfort.",
+            "hu": "Fedezze fel a téli Paksot kényelmesen autóval. Kezdjen a Sárgödör térnél, és élvezze a múzeumok melegét. A fagyos tájon át vezető út a Lussoniumhoz lenyűgöző. Egy meleg ebéd a Dunánál és az Atomerőmű múzeuma védelmet nyújt a hideg ellen. Ideális téli nap maximális kényelemben.",
+            "ro": "Explorați Paksul de iarnă relaxat cu mașina. Începeți la Piața Sárgödör și bucurați-vă de căldura muzeelor. Drumul prin peisajul înghețat spre Lussonium este impresionant. Un prânz cald la Dunăre și muzeul centralei oferă protecție contra frigului. O zi de iarnă ideală cu confort maxim.",
+            "en": "Explore winter in Paks at a relaxed pace by car. Start at Sárgödör Square and enjoy the warmth of the museums. The drive through the frosty landscape to Lussonium is striking. A warm lunch by the Danube and a visit to the Atomic Museum provide a cozy shield from the cold. An ideal winter day with maximum comfort."
+          },
+          "stops": [
+            {
+              "name": "Cluster Start: Parking at Sárgödör Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken auf möglicherweise glatten Stellen.",
+                "hu": "Vigyázzon a parkolásnál az esetleges jeges foltokra.",
+                "ro": "Atenție la parcare pe porțiunile eventual înghețate.",
+                "en": "Be careful when parking on potentially icy patches."
+              }
+            },
+            {
+              "name": "Paks Town Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter gut beheizt.",
+                "hu": "A múzeum télen is jól fűtött.",
+                "ro": "Muzeul este bine încălzit iarna.",
+                "en": "The museum is well-heated during the winter."
+              }
+            },
+            {
+              "name": "Holy Spirit Church",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz.",
+                "ro": "Parcați cât mai aproape de intrare.",
+                "en": "Park as close to the entrance as possible."
+              }
+            },
+            {
+              "name": "Next Cluster: Lussonium (Roman Fort)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Donau aus dem Auto.",
+                "hu": "Élvezze a dunai kilátást az autóból.",
+                "ro": "Bucurați-vă de vederea spre Dunăre din mașină.",
+                "en": "Enjoy the Danube view from the warmth of your car."
+              }
+            },
+            {
+              "name": "Danube Promenade for Lunch",
+              "tip_5lang": {
+                "de": "Ein Platz am Fenster bietet tolle Aussichten.",
+                "hu": "Az ablak melletti asztal pazar kilátást nyújt.",
+                "ro": "O masă la fereastră oferă priveliști superbe.",
+                "en": "A table by the window offers great winter views."
+              }
+            },
+            {
+              "name": "Final Cluster: Atomic Energy Museum",
+              "tip_5lang": {
+                "de": "Der Weg vom Parkplatz ist kurz und geräumt.",
+                "hu": "A parkolótól vezető út rövid és takarított.",
+                "ro": "Drumul de la parcare este scurt și curățat.",
+                "en": "The path from the parking lot is short and cleared."
+              }
+            },
+            {
+              "name": "Ürge-mező Nature Reserve",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für ein Winterfoto vom Wegrand.",
+                "hu": "Rövid megálló egy téli fotóra az út széléről.",
+                "ro": "Scurt popas pentru o fotografie de iarnă.",
+                "en": "A quick stop for a winter photo from the roadside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Frostschutzmittel aufgefüllt ist.",
+              "Vorsicht auf Nebenstraßen, die glatt sein könnten.",
+              "Lassen Sie keine Getränke im Auto, die gefrieren könnten.",
+              "Nutzen Sie die Sitzheizung für zusätzliche Gemütlichkeit."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyálló folyadék szintjét.",
+              "Vigyázzon a mellékutakon, amik jegesek lehetnek.",
+              "Ne hagyjon az autóban folyadékot, ami megfagyhat.",
+              "Használja az ülésfűtést a plusz kényelemért."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți antigel suficient.",
+              "Atenție pe drumurile secundare care pot fi poleite.",
+              "Nu lăsați în mașină băuturi care pot îngheța.",
+              "Folosiți încălzirea în scaune pentru un plus de confort."
+            ],
+            "en": [
+              "Ensure your antifreeze levels are topped up.",
+              "Be cautious on side roads that might be icy.",
+              "Don't leave drinks in the car that could freeze.",
+              "Use your seat heaters for extra coziness between stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1226,6 +1790,188 @@
           "Be mindful of departure times, especially for the last service of the day.",
           "The cluster-walking strategy works well with public transit too."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Busse in Paks für einen entspannten Regentag. Starten Sie im Stadtzentrum und besuchen Sie die Makovecz-Kirche. Das Stadtmuseum bietet danach eine trockene Zuflucht. Fahren Sie mit dem Bus zum Atommuseum, dem Highlight für Regentage. Beenden Sie Ihre Tour am Sárgödör-Platz, wo Sie im Trockenen den Tag ausklingen lassen können.",
+            "hu": "Használja a paksi buszokat egy pihentető esős napon. Kezdjen a központban, és látogassa meg a Makovecz-templomot. A Városi Múzeum száraz menedéket nyújt utána. Menjen busszal az Atomerőmű múzeumához, ami az esős napok fénypontja. Zárja a túrát a Sárgödör téren, ahol fedett helyen pihenhet.",
+            "ro": "Folosiți autobuzele din Paks pentru o zi ploioasă relaxantă. Începeți în centru și vizitați biserica Makovecz. Muzeul Orașului oferă un refugiu uscat după aceea. Luați autobuzul spre muzeul centralei, punctul culminant al zilelor ploioase. Încheiați la Piața Sárgödör, unde puteți sta la adăpost.",
+            "en": "Use the local buses in Paks for a relaxed rainy day. Start in the city center and visit the Holy Spirit Church. The Town Museum provides a dry sanctuary afterward. Take the bus to the Atomic Museum, the highlight for rainy days. End your tour at Sárgödör Square, where you can relax in a sheltered spot."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: City Center",
+              "tip_5lang": {
+                "de": "Zentrale Bushaltestellen mit Unterstand vorhanden.",
+                "hu": "Központi buszmegállók váróval.",
+                "ro": "Stații de autobuz centrale cu adăpost.",
+                "en": "Central bus stops with shelters are available."
+              }
+            },
+            {
+              "name": "Holy Spirit Church",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Gehminuten entfernt.",
+                "hu": "A megálló csak pár perc séta.",
+                "ro": "Stația este la doar câteva minute de mers pe jos.",
+                "en": "The stop is only a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Paks Town Museum",
+              "tip_5lang": {
+                "de": "Ideal, um auf den nächsten Bus zu warten.",
+                "hu": "Ideális hely a következő busz megvárására.",
+                "ro": "Loc ideal pentru a aștepta următorul autobuz.",
+                "en": "An ideal place to wait for the next bus."
+              }
+            },
+            {
+              "name": "Cluster B: Danube Bank",
+              "tip_5lang": {
+                "de": "Halten Sie sich bei Regen in den Cafés auf.",
+                "hu": "Esőben várjon a közeli kávézókban.",
+                "ro": "Pe ploaie, așteptați în cafenelele din apropiere.",
+                "en": "Wait in nearby cafes if the rain picks up."
+              }
+            },
+            {
+              "name": "Cluster C: Atomic Power",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt am Museumsgelände.",
+                "hu": "A busz közvetlenül a múzeumnál áll meg.",
+                "ro": "Autobuzul oprește chiar la complexul muzeal.",
+                "en": "The bus stops directly at the museum complex."
+              }
+            },
+            {
+              "name": "Sárgödör Square to Finish",
+              "tip_5lang": {
+                "de": "Gute Anbindung zurück ins Stadtzentrum.",
+                "hu": "Jó összeköttetés vissza a városközpontba.",
+                "ro": "Conexiune bună înapoi spre centrul orașului.",
+                "en": "Good connections back to the city center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan vorab online.",
+              "Halten Sie Kleingeld oder Ihre Fahrkarte bereit.",
+              "Die Busse sind im Winter und bei Regen angenehm temperiert.",
+              "Nutzen Sie die App für Echtzeit-Informationen."
+            ],
+            "hu": [
+              "Ellenőrizze a buszmenetrendet előre online.",
+              "Készítse elő az aprópénzt vagy a bérletét.",
+              "A buszok télen és esőben is kellemes hőmérsékletűek.",
+              "Használja az alkalmazást a valós idejű infókért."
+            ],
+            "ro": [
+              "Verificați programul autobuzelor online în prealabil.",
+              "Pregătiți mărunțișul sau biletul.",
+              "Autobuzele au o temperatură plăcută iarna și pe ploaie.",
+              "Folosiți aplicația pentru informații în timp real."
+            ],
+            "en": [
+              "Check the bus schedule online beforehand.",
+              "Have your change or pass ready for the driver.",
+              "Buses are kept at a pleasant temperature in rain and winter.",
+              "Use the transit app for real-time information."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Tag in Paks mit öffentlichen Verkehrsmitteln ist entspannt und sicher. Starten Sie im warmen Stadtzentrum. Besuchen Sie die Makovecz-Kirche und das Stadtmuseum, bevor Sie mit dem Bus zur Donau fahren. Das Atommuseum bietet eine perfekte Aufwärmpause am Nachmittag. Beenden Sie Ihre Tour am Sárgödör-Platz und genießen Sie die winterliche Ruhe.",
+            "hu": "Egy téli nap Pakson tömegközlekedéssel kényelmes és biztonságos. Kezdjen a fűtött belvárosban. Látogassa meg a Makovecz-templomot és a Városi Múzeumot, mielőtt busszal a Dunához menne. Az Atomerőmű múzeuma tökéletes melegedő délután. Zárja a túrát a Sárgödör téren, és élvezze a téli nyugalmat.",
+            "ro": "O zi de iarnă în Paks cu transportul public este relaxantă și sigură. Începeți în centrul încălzit. Vizitați biserica Makovecz și muzeul, apoi luați autobuzul spre Dunăre. Muzeul centralei oferă o pauză perfectă pentru încălzire. Încheiați la Piața Sárgödör și bucurați-vă de liniștea iernii.",
+            "en": "A winter day in Paks using public transport is both comfortable and safe. Start in the heated city center. Visit the Holy Spirit Church and the Town Museum before taking the bus to the Danube. The Atomic Museum provides a perfect warm break in the afternoon. End your tour at Sárgödör Square and enjoy the quiet winter atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: City Center",
+              "tip_5lang": {
+                "de": "Warten Sie im Warmen in den Geschäften.",
+                "hu": "Várjon a melegben a közeli üzletekben.",
+                "ro": "Așteptați la căldură în magazinele din apropiere.",
+                "en": "Wait inside nearby shops to stay warm."
+              }
+            },
+            {
+              "name": "Holy Spirit Church",
+              "tip_5lang": {
+                "de": "Die Wege zu den Haltestellen sind meist geräumt.",
+                "hu": "A megállókhoz vezető utak rendszerint takarítottak.",
+                "ro": "Drumurile spre stații sunt de obicei curățate.",
+                "en": "Paths to the bus stops are usually cleared of snow."
+              }
+            },
+            {
+              "name": "Paks Town Museum",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort zum Aufwärmen.",
+                "hu": "Hangulatos hely a felmelegedéshez.",
+                "ro": "Un loc primitor pentru a vă încălzi.",
+                "en": "A cozy place to warm up between bus rides."
+              }
+            },
+            {
+              "name": "Cluster B: Danube Bank",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Fahrplan, um langes Warten zu vermeiden.",
+                "hu": "Figyelje a menetrendet, hogy ne kelljen sokat várnia.",
+                "ro": "Urmăriți programul pentru a nu aștepta mult în frig.",
+                "en": "Check the schedule to avoid long waits in the cold."
+              }
+            },
+            {
+              "name": "Cluster C: Atomic Power",
+              "tip_5lang": {
+                "de": "Die Busse fahren regelmäßig zum Kraftwerk.",
+                "hu": "A buszok rendszeresen járnak az erőműhöz.",
+                "ro": "Autobuzele circulă regulat spre centrală.",
+                "en": "Buses run regularly to the power plant area."
+              }
+            },
+            {
+              "name": "Sárgödör Square to Finish",
+              "tip_5lang": {
+                "de": "Letzte Busse fahren meist bis zum späten Abend.",
+                "hu": "Az utolsó buszok késő estig járnak.",
+                "ro": "Ultimele autobuze circulă până seara târziu.",
+                "en": "Last buses usually run until late evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Im Winter können sich Busse aufgrund der Straßenverhältnisse leicht verspäten.",
+              "Tragen Sie warme Schuhe für die Wege zwischen den Haltestellen.",
+              "Nutzen Sie die Wartehäuschen als Windschutz.",
+              "Planen Sie Ihre Rückfahrt rechtzeitig."
+            ],
+            "hu": [
+              "Télen a buszok az útviszonyok miatt kissé késhetnek.",
+              "Viseljen meleg cipőt a megállók közötti sétákhoz.",
+              "Használja a várótermeket szélvédelemként.",
+              "Tervezze meg időben a visszautat."
+            ],
+            "ro": [
+              "Iarna, autobuzele pot avea mici întârzieri din cauza drumurilor.",
+              "Purtați încălțăminte groasă pentru drumul dintre stații.",
+              "Folosiți adăposturile din stații contra vântului.",
+              "Planificați-vă din timp drumul de întoarcere."
+            ],
+            "en": [
+              "Buses may have slight delays in winter due to road conditions.",
+              "Wear warm boots for the walks between stops.",
+              "Use the bus shelters to block the winter wind.",
+              "Plan your return trip in advance to avoid long waits."
+            ]
+          }
+        }
       }
     }
   }

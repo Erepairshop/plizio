@@ -322,6 +322,188 @@
           "Bring water, especially for the climb to the castle.",
           "Most shops close for a siesta in the afternoon, so plan your shopping accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die engen Gassen des historischen Viertels natürlichen Schutz vor dem Regen. Mittags beobachten wir die graue Cinca von der Brücke aus, bevor wir ins trockene Montcada-Palais flüchten. Nachmittags erkunden wir die Burgruinen unter dem Regenschirm. Abends genießen wir die gemütliche Atmosphäre im Museum Casa de los Frailes, während draußen der Regen auf den Asphalt trommelt.",
+            "hu": "Reggel az óváros szűk utcái és ereszei alatt húzódunk meg az eső elől. Délben a Cinca-folyó morajlását hallgatjuk a hídról, majd a Montcada-palota védelmébe vonulunk. Délután esernyővel járjuk be a vár környékét, élvezve a párás kilátást. Az estét a Casa de los Frailes múzeum meleg falai között zárjuk, ahol a történelem elfeledteti a kinti barátságtalan időt.",
+            "ro": "Dimineața, străzile înguste ale cartierului istoric oferă adăpost natural împotriva ploii. La prânz, admirăm debitul crescut al râului Cinca de pe pod, apoi ne refugiem în Palatul Montcada. După-amiaza explorăm castelul sub protecția umbrelei, privind orașul prin ceață. Seara se încheie la Muzeul Casa de los Frailes, unde atmosfera liniștită ne face să uităm de vremea de afară.",
+            "en": "Morning starts under the protective eaves of the historic quarter's narrow streets. At noon, we watch the Cinca River's grey waters from the bridge before retreating to the dry Montcada Palace. Afternoon is spent exploring the castle ruins with an umbrella, enjoying the misty views. The evening ends cozily inside the Casa de los Frailes Museum, surrounded by local history while the rain falls."
+          },
+          "stops": [
+            {
+              "name": "Historic Quarter",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden und engen Gassen als natürlichen Regenschutz.",
+                "hu": "Használja az árkádokat és a szűk utcákat természetes esővédőként.",
+                "ro": "Folosiți arcadele și străzile înguste ca adăpost natural împotriva ploii.",
+                "en": "Use the arcades and narrow streets as natural shelter from the rain."
+              }
+            },
+            {
+              "name": "Church of San Pedro",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um während eines Schauers die romanische Architektur zu bewundern.",
+                "hu": "Ideális hely a román stílusú építészet megcsodálására egy zápor alatt.",
+                "ro": "Un loc ideal pentru a admira arhitectura romanică în timpul unei averse.",
+                "en": "An ideal spot to admire Romanesque architecture during a heavy shower."
+              }
+            },
+            {
+              "name": "Montcada Palace",
+              "tip_5lang": {
+                "de": "Die Innenausstellungen bieten perfekten Schutz und kulturelle Tiefe.",
+                "hu": "A belső kiállítások tökéletes menedéket és kulturális élményt nyújtanak.",
+                "ro": "Expozițiile interioare oferă adăpost perfect și profunzime culturală.",
+                "en": "The indoor exhibitions offer perfect shelter and cultural depth."
+              }
+            },
+            {
+              "name": "Bridge over the Cinca River",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Metall oder Stein; der Boden kann rutschig sein.",
+                "hu": "Vigyázat a nedves köveken vagy fémen; a talaj csúszós lehet.",
+                "ro": "Atenție pe piatra sau metalul umed; suprafața poate fi alunecoasă.",
+                "en": "Be careful on wet stone or metal; the ground can be slippery."
+              }
+            },
+            {
+              "name": "Castle of Fraga",
+              "tip_5lang": {
+                "de": "Die Aussichtsplattformen sind windanfällig; halten Sie Ihren Schirm fest.",
+                "hu": "A kilátók szelesek lehetnek; fogja erősen az esernyőjét.",
+                "ro": "Platformele de observație sunt expuse vântului; țineți bine umbrela.",
+                "en": "The viewing platforms can be windy; hold your umbrella firmly."
+              }
+            },
+            {
+              "name": "Museum of the Casa de los Frailes",
+              "tip_5lang": {
+                "de": "Hinterlassen Sie nasse Mäntel im Eingangsbereich, um die Exponate zu schonen.",
+                "hu": "A vizes kabátokat hagyja a bejáratnál a kiállítási tárgyak védelmében.",
+                "ro": "Lăsați hainele ude la intrare pentru a proteja obiectele expuse.",
+                "en": "Leave wet coats at the entrance to protect the museum exhibits."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Pflastersteine in der Altstadt von Fraga werden bei Nässe sehr rutschig.",
+              "Tragen Sie wasserfeste Wanderschuhe, da sich in den Senken Pfützen bilden können.",
+              "Die Brücke über den Cinca ist bei Regen oft sehr windig; eine Regenjacke ist besser als ein Schirm.",
+              "Nutzen Sie die Cafés in der Nähe der Plaza España für kurze Trockenpausen."
+            ],
+            "hu": [
+              "Fraga óvárosának macskakövei nedvesen nagyon csúszóssá válnak.",
+              "Viseljen vízálló cipőt, mert az alacsonyabb részeken tócsák alakulhatnak ki.",
+              "A Cinca-híd esőben gyakran szeles; a széldzseki praktikusabb, mint az esernyő.",
+              "Használja a Plaza España környéki kávézókat rövid szárítkozó pihenőkre."
+            ],
+            "ro": [
+              "Pavajul din centrul vechi al orașului Fraga devine foarte alunecos când este ud.",
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți în zonele joase.",
+              "Podul peste Cinca este adesea vântos pe ploaie; o pelerină e mai utilă decât umbrela.",
+              "Folosiți cafenelele din apropierea Plaza España pentru scurte pauze de uscare."
+            ],
+            "en": [
+              "The cobblestones in Fraga's old town become very slippery when wet.",
+              "Wear waterproof walking shoes as puddles tend to form in lower areas.",
+              "The bridge over the Cinca is often windy during rain; a raincoat is better than an umbrella.",
+              "Utilize the cafes near Plaza España for short dry-off breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Fraga beginnt frisch mit einem klaren Blick auf die fernen Pyrenäen. Mittags wärmt uns die milde aragonesische Sonne beim Spaziergang am Flussufer. Nachmittags suchen wir die Wärme im Montcada-Palais auf, bevor die Dämmerung früh einsetzt. Abends leuchten die Lichter der Burg über der Stadt und wir wärmen uns bei einem lokalen Wein in der Altstadt auf.",
+            "hu": "A téli reggel Frágában friss levegővel és a távoli Pireneusok tiszta látványával indul. Délben a szelíd aragóniai napsütés melegít minket a folyóparti séta során. Délután a Montcada-palota fűtött termeiben időzünk, mielőtt korán leszállna az est. Este a vár fényei ragyogják be a várost, mi pedig egy pohár helyi borral melegszünk fel az óvárosban.",
+            "ro": "Dimineața de iarnă în Fraga începe cu aer proaspăt și o vedere clară spre Pirineii îndepărtați. La prânz, soarele blând aragonez ne încălzește în timpul plimbării pe malul râului. După-amiaza căutăm căldura Palatului Montcada înainte ca amurgul să vină devreme. Seara, luminile castelului strălucesc peste oraș, iar noi ne încălzim cu un vin local în centrul vechi.",
+            "en": "Winter morning in Fraga starts with crisp air and clear views of the distant Pyrenees. At noon, the gentle Aragonese sun warms our riverside stroll. In the afternoon, we retreat to the warmth of Montcada Palace before the early sunset. By evening, the castle lights glow over the city, and we warm up with a local wine in the old quarter."
+          },
+          "stops": [
+            {
+              "name": "Historic Quarter",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft in den schattigen Gassen.",
+                "hu": "Élvezze a friss téli levegőt az árnyékos utcákban.",
+                "ro": "Bucurați-vă de aerul curat de iarnă în ulițele umbrite.",
+                "en": "Enjoy the crisp winter air in the shaded narrow streets."
+              }
+            },
+            {
+              "name": "Church of San Pedro",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen; ein ruhiger Ort zum Aufwärmen.",
+                "hu": "A vastag falak kint tartják a hideget; nyugodt hely a felmelegedésre.",
+                "ro": "Zidurile groase țin frigul afară; un loc liniștit pentru a vă încălzi.",
+                "en": "The thick walls keep the cold out; a quiet place to warm up."
+              }
+            },
+            {
+              "name": "Montcada Palace",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Nachmittag für Innenbesichtigungen, wenn es draußen abkühlt.",
+                "hu": "Használja ki a délutánt belső látogatásra, amikor kint hűlni kezd az idő.",
+                "ro": "Folosiți după-amiaza pentru vizite interioare când se face frig afară.",
+                "en": "Use the afternoon for indoor visits as the outside temperature drops."
+              }
+            },
+            {
+              "name": "Bridge over the Cinca River",
+              "tip_5lang": {
+                "de": "Der Wind vom Fluss kann im Winter schneidend kalt sein; Mütze empfohlen.",
+                "hu": "A folyó felől fújó szél télen metsző lehet; sapka ajánlott.",
+                "ro": "Vântul de pe râu poate fi tăios iarna; se recomandă căciulă.",
+                "en": "The wind from the river can be biting in winter; a hat is recommended."
+              }
+            },
+            {
+              "name": "Castle of Fraga",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Burg vor 17:00 Uhr, um den Sonnenuntergang zu erleben.",
+                "hu": "Látogassa meg a várat 17:00 előtt, hogy lássa a naplementét.",
+                "ro": "Vizitați castelul înainte de ora 17:00 pentru a prinde apusul.",
+                "en": "Visit the castle before 5:00 PM to catch the winter sunset."
+              }
+            },
+            {
+              "name": "Museum of the Casa de los Frailes",
+              "tip_5lang": {
+                "de": "Ein perfekt temperierter Abschluss für einen kalten Wintertag.",
+                "hu": "Tökéletesen temperált zárása egy hideg téli napnak.",
+                "ro": "Un final cu temperatură plăcută pentru o zi rece de iarnă.",
+                "en": "A perfectly tempered end to a cold winter day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 17:30 Uhr hinter den Hügeln unter.",
+              "Zwiebelprinzip bei der Kleidung ist wichtig, da es in der Sonne warm, im Schatten aber sehr kalt ist.",
+              "Achten Sie auf den Cierzo-Wind, der die gefühlte Temperatur stark senken kann.",
+              "Probieren Sie lokale Winterspezialitäten wie herzhafte Eintöpfe in den Tavernen."
+            ],
+            "hu": [
+              "A nap télen már 17:30 körül lenyugszik a dombok mögött.",
+              "A réteges öltözködés fontos, mert a napon meleg, az árnyékban viszont hideg van.",
+              "Figyeljen a Cierzo szélre, amely jelentősen csökkentheti a hőérzetet.",
+              "Kóstolja meg a helyi téli különlegességeket, például a laktató egytálételeket."
+            ],
+            "ro": [
+              "Soarele apune iarna în jurul orei 17:30 după dealurile din jur.",
+              "Îmbrăcămintea în straturi este esențială; e cald la soare, dar frig la umbră.",
+              "Atenție la vântul Cierzo, care poate scădea mult temperatura resimțită.",
+              "Gustați specialitățile locale de iarnă, cum ar fi supele calde în taverne."
+            ],
+            "en": [
+              "The sun sets around 5:30 PM behind the hills during winter months.",
+              "Dress in layers as it remains warm in the sun but gets very cold in the shade.",
+              "Watch out for the Cierzo wind, which can significantly drop the perceived temperature.",
+              "Try local winter specialties like hearty stews in the old town taverns."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -638,6 +820,188 @@
           "Some sections can be challenging, a good basic level of fitness is recommended.",
           "Respect traffic rules and be careful on the roads."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir unsere Tour durch die Unterstadt, wobei wir auf die rutschigen Markierungen achten. Mittags radeln wir vorsichtig über die Cinca-Brücke, während das Spritzwasser von den Reifen spritzt. Nachmittags erkunden wir Villa Fortunatus, wo die Mosaike unter dem nassen Licht glänzen. Der Rückweg führt uns bergauf zur Einsiedelei, wobei uns die kühle Brise erfrischt.",
+            "hu": "Az eső ellenére nekivágunk az alsóvárosnak, figyelve a csúszós útburkolati jelekre. Délben óvatosan kelünk át a Cinca-hídon, miközben a kerék felveri a vizet. Délután a Villa Fortunatus mozaikjait csodáljuk meg, melyek különleges fényt kapnak a párás időben. A visszaút a San Salvador remetelakhoz vezet, ahol a hűvös szellő felfrissít a kaptatón.",
+            "ro": "În ciuda ploii, începem turul prin orașul de jos, atenți la marcajele rutiere alunecoase. La prânz pedalăm cu grijă peste podul Cinca, în timp ce apa sare de sub roți. După-amiaza explorăm Villa Fortunatus, unde mozaicurile strălucesc sub lumina umedă. Drumul de întoarcere ne duce spre schit, unde briza rece ne revigorează pe urcare.",
+            "en": "Despite the rain, we start our cycling tour through the lower town, watching out for slippery road markings. At noon, we pedal carefully over the Cinca bridge as water splashes from the tires. Afternoon is spent at Villa Fortunatus, where the mosaics glisten in the damp light. The return trip takes us uphill to the hermitage, with a cool breeze refreshing us."
+          },
+          "stops": [
+            {
+              "name": "Historic Quarter",
+              "tip_5lang": {
+                "de": "Vermeiden Sie abruptes Bremsen auf dem nassen Kopfsteinpflaster.",
+                "hu": "Kerülje a hirtelen fékezést a nedves macskaköveken.",
+                "ro": "Evitați frânarea bruscă pe pavajul umed.",
+                "en": "Avoid abrupt braking on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Church of San Pedro",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter einem Vorsprung, um den Sattel trocken zu halten.",
+                "hu": "Parkoljon egy eresz alatt, hogy a nyereg száraz maradjon.",
+                "ro": "Parcați bicicleta sub o streașină pentru a menține șaua uscată.",
+                "en": "Park your bike under an overhang to keep the saddle dry."
+              }
+            },
+            {
+              "name": "Bridge over the Cinca River",
+              "tip_5lang": {
+                "de": "Halten Sie den Lenker fest; Seitenwinde sind auf der Brücke bei Regen stärker.",
+                "hu": "Fogja erősen a kormányt; az oldalszél erősebb a hídon esőben.",
+                "ro": "Țineți bine ghidonul; vântul lateral este mai puternic pe pod pe ploaie.",
+                "en": "Hold the handlebars firmly; crosswinds are stronger on the bridge during rain."
+              }
+            },
+            {
+              "name": "Villa Fortunatus",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche, um Ihre Ausrüstung zu ordnen.",
+                "hu": "Használja a fedett részeket a felszerelése rendezésére.",
+                "ro": "Folosiți zonele acoperite pentru a vă organiza echipamentul.",
+                "en": "Use the covered areas to organize your cycling gear."
+              }
+            },
+            {
+              "name": "Hermitage of San Salvador",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei Regen anstrengend, bietet aber festen Asphalt.",
+                "hu": "Az emelkedő esőben fárasztó, de az aszfalt jól tapad.",
+                "ro": "Urcarea este obositoare pe ploaie, dar asfaltul oferă aderență bună.",
+                "en": "The climb is tiring in the rain but the asphalt provides good grip."
+              }
+            },
+            {
+              "name": "Montcada Palace",
+              "tip_5lang": {
+                "de": "Ein sicherer Ort, um das Rad kurz abzustellen und sich aufzuwärmen.",
+                "hu": "Biztonságos hely a bicikli rövid leállítására és a felmelegedésre.",
+                "ro": "Un loc sigur pentru a lăsa bicicleta scurt timp și a vă încălzi.",
+                "en": "A safe place to park the bike briefly and warm up inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt; nasse Felgen verlängern den Bremsweg.",
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit im grauen Wetter.",
+              "Schutzbleche sind in Fraga unerlässlich, um Schlammspritzer vom Cinca-Ufer zu vermeiden.",
+              "Die Landstraßen zur Villa Fortunatus können bei starkem Regen leicht überflutet sein."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fékeket; a nedves felnik növelik a féktávot.",
+              "Viseljen neon esőkabátot a jobb láthatóság érdekében a szürke időben.",
+              "A sárvédő elengedhetetlen Frágában, hogy elkerülje a Cinca-parti sárfelverődést.",
+              "A Villa Fortunatus felé vezető utak heves esőzéskor helyenként víz alá kerülhetnek."
+            ],
+            "ro": [
+              "Verificați frânele înainte de plecare; jantele umede măresc distanța de frânare.",
+              "Purtați o pelerină reflectorizantă pentru vizibilitate sporită pe vreme gri.",
+              "Apărătorile de noroi sunt esențiale în Fraga pentru a evita stropirea de pe malul râului.",
+              "Drumurile spre Villa Fortunatus pot fi ușor inundate în caz de ploaie torențială."
+            ],
+            "en": [
+              "Check your brakes before starting; wet rims increase braking distance significantly.",
+              "Wear a neon rain jacket for better visibility in the gloomy weather.",
+              "Fenders are essential in Fraga to avoid mud splashes from the riverbank paths.",
+              "The country roads to Villa Fortunatus can have localized flooding during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am kühlen Wintermorgen radeln wir durch die leeren Straßen von Fraga, wobei die Luft in den Lungen brennt. Mittags genießen wir die weite Aussicht von der Cinca-Brücke bei kristallklarem Himmel. Nachmittags führt uns die Route zur Villa Fortunatus, wo die antiken Steine in der tiefstehenden Sonne leuchten. Der finale Anstieg zur Einsiedelei belohnt uns mit einem feurigen Sonnenuntergang über Aragon.",
+            "hu": "A hűvös téli reggelen Fraga üres utcáin tekernünk, a friss levegő szinte égeti a tüdőnket. Délben a kristálytiszta égbolt alatt csodáljuk a kilátást a Cinca-hídról. Délután a Villa Fortunatus felé vesszük az irányt, ahol az ókori kövek ragyognak az alacsonyan járó napfényben. A San Salvadorhoz vezető utolsó kaptató tüzes naplementével jutalmaz meg.",
+            "ro": "În dimineața rece de iarnă pedalăm pe străzile pustii ale orașului, aerul proaspăt fiind revigorant. La prânz admirăm vederea largă de pe podul Cinca sub un cer de cristal. După-amiaza ruta ne duce spre Villa Fortunatus, unde pietrele antice strălucesc în soarele de iarnă. Urcarea finală spre schit ne răsplătește cu un apus spectaculos peste Aragon.",
+            "en": "On a crisp winter morning, we cycle through Fraga's quiet streets with the cold air invigorating our senses. At noon, we enjoy wide views from the Cinca bridge under crystal clear skies. The afternoon route leads to Villa Fortunatus, where ancient stones glow in the low sun. The final climb to the hermitage rewards us with a fiery sunset over Aragon."
+          },
+          "stops": [
+            {
+              "name": "Historic Quarter",
+              "tip_5lang": {
+                "de": "Tragen Sie Thermohandschuhe; der Fahrtwind ist in der Altstadt kalt.",
+                "hu": "Viseljen termokesztyűt; a menetszél hideg az óvárosban.",
+                "ro": "Purtați mănuși termice; curentul de aer este rece în centrul vechi.",
+                "en": "Wear thermal gloves; the wind chill is significant in the old streets."
+              }
+            },
+            {
+              "name": "Church of San Pedro",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Inneren hilft, die eingefrorenen Finger aufzuwärmen.",
+                "hu": "Egy rövid belső megálló segít felmelegíteni az átfagyott ujjakat.",
+                "ro": "O scurtă oprire în interior ajută la încălzirea degetelor înghețate.",
+                "en": "A short stop inside helps warm up frozen fingers."
+              }
+            },
+            {
+              "name": "Bridge over the Cinca River",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf der Fahrbahn am frühen Morgen.",
+                "hu": "Figyeljen a kora reggeli dérre az úttesten.",
+                "ro": "Atenție la bruma de pe carosabil la orele dimineții.",
+                "en": "Watch out for morning frost on the road surface."
+              }
+            },
+            {
+              "name": "Villa Fortunatus",
+              "tip_5lang": {
+                "de": "Die offene Anlage bietet wenig Schutz vor dem kalten Cierzo-Wind.",
+                "hu": "A nyitott terület kevés védelmet nyújt a hideg Cierzo szél ellen.",
+                "ro": "Situl deschis oferă puțină protecție împotriva vântului rece Cierzo.",
+                "en": "The open site offers little protection from the cold Cierzo wind."
+              }
+            },
+            {
+              "name": "Hermitage of San Salvador",
+              "tip_5lang": {
+                "de": "Nehmen Sie eine zusätzliche Schicht für die schnelle Abfahrt mit.",
+                "hu": "Vigyen egy extra réteget a gyors lejtmenethez.",
+                "ro": "Luați un strat suplimentar pentru coborârea rapidă.",
+                "en": "Bring an extra layer for the fast and chilly descent."
+              }
+            },
+            {
+              "name": "Montcada Palace",
+              "tip_5lang": {
+                "de": "Parken Sie in der Sonne, um das Aufsteigen später angenehmer zu machen.",
+                "hu": "Parkoljon a napon, hogy később kellemesebb legyen visszaszállni.",
+                "ro": "Parcați la soare pentru a face plecarea mai plăcută ulterior.",
+                "en": "Park in the sun to make getting back on the bike more pleasant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Akku Ihres E-Bikes oder Ihrer Beleuchtung entlädt sich bei Kälte schneller.",
+              "Trinken Sie auch bei Kälte genug; man merkt den Flüssigkeitsverlust weniger.",
+              "Die Abfahrt von San Salvador kann im Winter durch den Wind extrem auskühlen.",
+              "Sonnenschutz ist wegen der hohen UV-Strahlung bei klarem Winterhimmel wichtig."
+            ],
+            "hu": [
+              "Az elektromos bicikli vagy a lámpák akkumulátora gyorsabban merül hidegben.",
+              "Hidegben is igyon eleget; a folyadékvesztést ilyenkor kevésbé érezzük.",
+              "A San Salvadorról való leereszkedéskor a szél miatt nagyon lehűlhet a testünk.",
+              "A fényvédő fontos a tiszta téli égbolt alatti magas UV-sugárzás miatt."
+            ],
+            "ro": [
+              "Bateria bicicletei electrice sau a luminilor se descarcă mai repede la frig.",
+              "Beți suficiente lichide chiar și la frig; deshidratarea este mai puțin sesizabilă.",
+              "Coborârea de la San Salvador poate fi extrem de rece din cauza vântului.",
+              "Protecția solară este importantă datorită radiațiilor UV ridicate sub cerul senin."
+            ],
+            "en": [
+              "Your e-bike battery or lights will drain faster in cold temperatures.",
+              "Stay hydrated even when it's cold; you notice fluid loss less than in summer.",
+              "The descent from San Salvador can be extremely chilling due to the winter wind.",
+              "Sunscreen is important because of high UV levels under clear winter skies."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -978,6 +1342,206 @@
           "A GPS is helpful for navigating to the more distant sights.",
           "Respect the speed limits, especially on country roads."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten unsere Fahrt zur Villa Fortunatus, während die Scheibenwischer den Rhythmus des Morgens vorgeben. Mittags parken wir bequem in Flussnähe und genießen den Blick auf die Brücke aus dem trockenen Innenraum. Nachmittags navigieren wir durch die engen Gassen zur Kirche und zum Palais. Den Tag lassen wir entspannt ausklingen, während der Regen gegen das Autodach trommelt.",
+            "hu": "Autós utunkat a Villa Fortunatus felé kezdjük, miközben az ablaktörlők adják a reggel ritmusát. Délben kényelmesen parkolunk a folyóparton, és a száraz utastérből csodáljuk a hidat. Délután az óváros szűk utcáin manőverezünk a templomhoz és a palotához. A napot nyugodtan zárjuk, hallgatva, ahogy az eső kopog az autó tetőlemezén.",
+            "ro": "Începem călătoria spre Villa Fortunatus în timp ce ștergătoarele dau ritmul dimineții. La prânz parcăm confortabil lângă râu și admirăm podul din interiorul uscat al mașinii. După-amiaza navigăm pe străzile înguste spre biserică și palat. Încheiem ziua relaxați, ascultând ploaia care bate în plafonul mașinii.",
+            "en": "We start our drive to Villa Fortunatus with wipers setting the morning's rhythm. At noon, we park comfortably near the river, enjoying the bridge views from the dry interior. In the afternoon, we navigate narrow streets toward the church and palace. The day ends peacefully as the rain drums against the car roof."
+          },
+          "stops": [
+            {
+              "name": "Villa Fortunatus (Cluster A)",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei starkem Regen schlammig sein; vorsichtig fahren.",
+                "hu": "A parkoló heves esőzéskor sáros lehet; vezessen óvatosan.",
+                "ro": "Parcarea poate fi noroioasă în caz de ploaie torențială; conduceți cu grijă.",
+                "en": "The parking area can get muddy during heavy rain; drive carefully."
+              }
+            },
+            {
+              "name": "Bridge over the Cinca River (Cluster A)",
+              "tip_5lang": {
+                "de": "Kurzer Stopp am Straßenrand für Fotos; achten Sie auf die Sichtverhältnisse.",
+                "hu": "Rövid megálló fotózáshoz; figyeljen a látási viszonyokra.",
+                "ro": "Oprire scurtă pentru poze; atenție la condițiile de vizibilitate.",
+                "en": "Short roadside stop for photos; watch out for visibility conditions."
+              }
+            },
+            {
+              "name": "Historic Quarter (Cluster B)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkhäuser am Rande, um trocken in die Altstadt zu gelangen.",
+                "hu": "Használja a szélső parkolóházakat, hogy szárazon jusson az óvárosba.",
+                "ro": "Folosiți parcările acoperite de la margine pentru a ajunge uscat în centru.",
+                "en": "Use the parking garages at the edge to enter the old town dry."
+              }
+            },
+            {
+              "name": "Church of San Pedro (Cluster B)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger mit Regenschirmen, die die Sicht behindern.",
+                "hu": "Vigyázzon az esernyős gyalogosokra, akik akadályozhatják a kilátást.",
+                "ro": "Atenție la pietonii cu umbrele care pot bloca vizibilitatea.",
+                "en": "Watch out for pedestrians with umbrellas who might block your view."
+              }
+            },
+            {
+              "name": "Montcada Palace (Cluster B)",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang für einen trockenen Übergang.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz a száraz bejutásért.",
+                "ro": "Parcați cât mai aproape de intrare pentru un acces uscat.",
+                "en": "Park as close to the entrance as possible for a dry transition."
+              }
+            },
+            {
+              "name": "Castle of Fraga (Cluster C)",
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Burg kann bei Nässe rutschig sein; sanft beschleunigen.",
+                "hu": "A várfeljáró nedvesen csúszós lehet; óvatosan gyorsítson.",
+                "ro": "Urcarea spre castel poate fi alunecoasă; accelerați ușor.",
+                "en": "The drive up to the castle can be slippery; accelerate gently."
+              }
+            },
+            {
+              "name": "Hermitage of San Salvador",
+              "tip_5lang": {
+                "de": "Schalten Sie bei Nebel oder starkem Regen das Abblendlicht ein.",
+                "hu": "Köd vagy heves esőzés esetén kapcsolja be a tompított fényszórót.",
+                "ro": "Aprindeți faza scurtă în caz de ceață sau ploaie torențială.",
+                "en": "Turn on low-beam headlights during fog or heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie tiefe Pfützen am Straßenrand, um Aquaplaning zu verhindern.",
+              "Die Klimaanlage hilft, das Beschlagen der Scheiben bei hoher Feuchtigkeit zu stoppen.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche in der Nähe der Altstadt ein.",
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Tour durch Aragon."
+            ],
+            "hu": [
+              "Kerülje a mély tócsákat az út szélén az aquaplaning elkerülése érdekében.",
+              "A légkondicionáló segít megakadályozni a szélvédő párásodását.",
+              "Tervezzen több időt a parkolóhely keresésére az óváros közelében.",
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát."
+            ],
+            "ro": [
+              "Evitați bălțile adânci de la marginea drumului pentru a preveni acvaplanarea.",
+              "Aerul condiționat ajută la dezaburirea parbrizului în condiții de umiditate.",
+              "Alocați mai mult timp pentru găsirea unui loc de parcare lângă centrul vechi.",
+              "Verificați starea ștergătoarelor înainte de a porni la drum prin Aragon."
+            ],
+            "en": [
+              "Avoid deep puddles at the roadside to prevent aquaplaning.",
+              "Use the air conditioning to help defog the windows in high humidity.",
+              "Allow extra time for finding a parking spot near the historic center.",
+              "Check the condition of your windshield wipers before touring Aragon."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag beginnt mit einer Fahrt durch den Morgennebel im Cinca-Tal zur Villa Fortunatus. Mittags reißt der Himmel auf und wir genießen die Fahrt über die Brücke im strahlenden Sonnenschein. Nachmittags erkunden wir das Zentrum, wobei das Auto ein warmer Rückzugsort bleibt. Abends fahren wir hinauf zur Einsiedelei, um das Lichtermeer von Fraga unter uns zu sehen.",
+            "hu": "A téli nap a Cinca-völgy reggeli ködében indul a Villa Fortunatus felé. Délben felszakadozik a felhőzet, és ragyogó napsütésben kelünk át a hídon. Délután a belvárost járjuk be, az autó pedig meleg menedékként szolgál a megállók között. Este felhajtunk a remetelakhoz, hogy megcsodáljuk Fraga esti fényeit a lábunk alatt.",
+            "ro": "Ziua de iarnă începe cu o călătorie prin ceața dimineții în valea Cinca spre Villa Fortunatus. La prânz cerul se înseninează și ne bucurăm de drumul peste pod sub un soare strălucitor. După-amiaza explorăm centrul, mașina fiind un refugiu cald între opriri. Seara urcăm la schit pentru a vedea marea de lumini a orașului sub noi.",
+            "en": "The winter day begins with a drive through the morning fog in the Cinca valley toward Villa Fortunatus. At noon, the sky clears, and we enjoy crossing the bridge in bright sunshine. In the afternoon, we explore the center, with the car serving as a warm refuge between stops. In the evening, we drive up to the hermitage to see Fraga's lights below."
+          },
+          "stops": [
+            {
+              "name": "Villa Fortunatus (Cluster A)",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, während Sie die Ruinen besuchen.",
+                "hu": "Ne járassa feleslegesen a motort, amíg a romokat látogatja.",
+                "ro": "Nu lăsați motorul pornit inutil în timp ce vizitați ruinele.",
+                "en": "Don't leave the engine idling while you visit the ruins."
+              }
+            },
+            {
+              "name": "Bridge over the Cinca River (Cluster A)",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf der Brücke in den frühen Morgenstunden.",
+                "hu": "Vigyázat, a híd kora reggel jeges vagy csúszós lehet.",
+                "ro": "Atenție la polei pe pod în orele dimineții.",
+                "en": "Watch out for icy patches on the bridge in the early morning."
+              }
+            },
+            {
+              "name": "Historic Quarter (Cluster B)",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe der Plaza España für kurze Wege in der Kälte.",
+                "hu": "Parkoljon a Plaza España közelében a rövid hidegben való séta érdekében.",
+                "ro": "Parcați lângă Plaza España pentru a merge cât mai puțin prin frig.",
+                "en": "Park near Plaza España to minimize walking in the cold air."
+              }
+            },
+            {
+              "name": "Church of San Pedro (Cluster B)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem Besuch der kühlen Kirche.",
+                "hu": "Használja az ülésfűtést a hűvös templomlátogatás után.",
+                "ro": "Folosiți încălzirea în scaune după vizitarea bisericii reci.",
+                "en": "Enjoy the seat heaters after visiting the cool interior of the church."
+              }
+            },
+            {
+              "name": "Montcada Palace (Cluster B)",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Öffnungszeiten; im Winter können diese kürzer sein.",
+                "hu": "Ellenőrizze a nyitvatartást; télen rövidebb lehet.",
+                "ro": "Verificați programul; iarna poate fi mai scurt.",
+                "en": "Check the opening hours as they might be shorter in winter."
+              }
+            },
+            {
+              "name": "Castle of Fraga (Cluster C)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus dem Auto, wenn der Wind oben zu stark ist.",
+                "hu": "Élvezze a kilátást az autóból, ha fent túl erős a szél.",
+                "ro": "Bucurați-vă de vedere din mașină dacă vântul este prea puternic sus.",
+                "en": "Enjoy the view from the car if the wind is too strong at the top."
+              }
+            },
+            {
+              "name": "Hermitage of San Salvador",
+              "tip_5lang": {
+                "de": "Achten Sie auf Wildwechsel in der Dämmerung auf der Zufahrtsstraße.",
+                "hu": "Figyeljen a vadakra a bekötőúton a szürkületi órákban.",
+                "ro": "Atenție la animalele sălbatice pe drumul de acces la amurg.",
+                "en": "Watch out for wildlife on the access road during twilight hours."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck; dieser sinkt bei fallenden Temperaturen.",
+              "Nehmen Sie Enteiserspray mit, falls die Scheiben am Abend einfrieren.",
+              "Achten Sie auf Nebelbänke im Ebro- und Cinca-Becken.",
+              "Frostschutzmittel in der Scheibenwaschanlage ist in Aragon im Winter Pflicht."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást, mert az a hidegben csökken.",
+              "Vigyen jégoldó spray-t, ha az ablakok este lefagynának.",
+              "Figyeljen a ködfoltokra az Ebro és a Cinca medencéjében.",
+              "A fagyálló szélvédőmosó kötelező Aragóniában télen."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri; aceasta scade odată cu temperatura.",
+              "Luați un spray degivrant în caz că geamurile îngheață seara.",
+              "Atenție la bancurile de ceață din bazinele Ebro și Cinca.",
+              "Lichidul de parbriz antigel este obligatoriu în Aragon pe timp de iarnă."
+            ],
+            "en": [
+              "Check your tire pressure as it drops with falling temperatures.",
+              "Carry de-icer spray in case the windshield freezes in the evening.",
+              "Be alert for fog banks in the Ebro and Cinca river basins.",
+              "Antifreeze in the windshield washer fluid is a must in Aragon in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1294,6 +1858,188 @@
           "Check the bus schedules in advance as frequencies can vary.",
           "Have small change ready for the bus driver in case card payment is not possible."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir nutzen die Stadtbusse, um trocken zwischen den Clustern zu wechseln. Mittags bietet die Fahrt über den Fluss einen geschützten Blick auf das Regenwetter. Nachmittags verbringen wir viel Zeit in den Museen, während wir die Busverbindungen per App verfolgen. Der Tag endet mit einer kurzen Fahrt zurück zum Zentrum, wobei wir die beleuchteten, nassen Straßen aus dem Busfenster beobachten.",
+            "hu": "A helyi buszokat használjuk, hogy szárazon jussunk el a különböző helyszínekre. Délben a folyón való átkelés védett kilátást nyújt az esős tájra. Délután a múzeumokban időzünk, miközben applikáción követjük a buszok érkezését. A napot egy rövid visszaúttal zárjuk a központba, az ablakból figyelve a kivilágított, vizes utcákat.",
+            "ro": "Folosim autobuzele locale pentru a ne deplasa uscați între obiective. La prânz, traversarea râului oferă o vedere protejată asupra vremii ploioase. După-amiaza petrecem timp în muzee, urmărind sosirea autobuzelor pe aplicație. Ziua se încheie cu o scurtă călătorie spre centru, privind străzile ude și luminate de la fereastră.",
+            "en": "We use local buses to move dry between the different clusters. At noon, crossing the river provides a sheltered view of the rainy weather. In the afternoon, we spend time in museums while tracking bus arrivals on the app. The day ends with a short trip back to the center, watching the illuminated wet streets from the bus window."
+          },
+          "stops": [
+            {
+              "name": "Historic Quarter (Cluster A)",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen bieten oft nur wenig Schutz; Schirm bereit halten.",
+                "hu": "A buszmegállók gyakran kevés védelmet nyújtanak; legyen kéznél esernyő.",
+                "ro": "Stațiile de autobuz oferă adesea puțin adăpost; țineți umbrela la îndemână.",
+                "en": "Bus stops often offer limited shelter; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Church of San Pedro (Cluster A)",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle; nutzen Sie die Vordächer.",
+                "hu": "Rövid séta a megállótól; használja az épületek előtetőit.",
+                "ro": "Scurtă plimbare de la stație; folosiți copertinele clădirilor.",
+                "en": "Short walk from the stop; use building overhangs for cover."
+              }
+            },
+            {
+              "name": "Montcada Palace (Cluster A)",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um auf den nächsten Bus im Trockenen zu warten.",
+                "hu": "Tökéletes hely, hogy szárazon várja meg a következő buszt.",
+                "ro": "Locul perfect pentru a aștepta următorul autobuz la adăpost.",
+                "en": "A perfect place to wait for the next bus while staying dry."
+              }
+            },
+            {
+              "name": "Villa Fortunatus (Cluster B)",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Busfahrplan genau; Fahrten außerhalb sind seltener.",
+                "hu": "Ellenőrizze pontosan a menetrendet; a külső járatok ritkábbak.",
+                "ro": "Verificați atent orarul; cursele spre exterior sunt mai rare.",
+                "en": "Check the bus schedule carefully; out-of-town trips are less frequent."
+              }
+            },
+            {
+              "name": "Castle of Fraga (Cluster C)",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist am Fuße des Hügels; Aufstieg im Regen einplanen.",
+                "hu": "A megálló a domb alján van; számoljon az esőben való feljutással.",
+                "ro": "Stația este la baza dealului; planificați urcarea pe ploaie.",
+                "en": "The stop is at the bottom of the hill; plan for an uphill walk in rain."
+              }
+            },
+            {
+              "name": "Museum of the Casa de los Frailes (Cluster C)",
+              "tip_5lang": {
+                "de": "Die Buslinie verbindet diesen Ort direkt mit dem Stadtzentrum.",
+                "hu": "A buszjárat közvetlenül összeköti ezt a helyet a városközponttal.",
+                "ro": "Linia de autobuz face legătura directă între acest loc și centru.",
+                "en": "The bus line connects this location directly with the city center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Ihr Ticket oder Kleingeld bereit, um Verzögerungen beim Einsteigen zu vermeiden.",
+              "Die Busse können bei Regen voller sein als üblich; planen Sie Pufferzeiten ein.",
+              "Vermeiden Sie es, nasse Schirme direkt auf den Sitz neben sich zu legen.",
+              "Nutzen Sie die Echtzeit-Apps für den Nahverkehr in Fraga."
+            ],
+            "hu": [
+              "Legyen kéznél a jegy vagy az aprópénz, hogy elkerülje a késedelmet felszálláskor.",
+              "Esőben a buszok zsúfoltabbak lehetnek; számoljon rá több időt.",
+              "Ne tegye a vizes esernyőt a mellette lévő ülésre.",
+              "Használja a frágai tömegközlekedési applikációkat a valós idejű adatokért."
+            ],
+            "ro": [
+              "Aveți biletul sau banii pregătiți pentru a evita întârzierile la urcare.",
+              "Autobuzele pot fi mai aglomerate pe ploaie; planificați timp suplimentar.",
+              "Evitați să puneți umbrela udă direct pe scaunul de lângă voi.",
+              "Folosiți aplicațiile de transport local din Fraga pentru date în timp real."
+            ],
+            "en": [
+              "Have your ticket or change ready to avoid boarding delays.",
+              "Buses may be more crowded than usual during rain; allow extra time.",
+              "Avoid placing wet umbrellas directly on the seat next to you.",
+              "Use real-time transit apps available for Fraga for accurate timing."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am klaren Wintermorgen nutzen wir die gut beheizten Busse für den Weg zur Villa Fortunatus. Mittags bietet die Fahrt über die Cinca einen spektakulären Blick auf die winterliche Landschaft. Nachmittags erkunden wir die Museen und das Palais, wobei wir die Wartezeiten an den Haltestellen kurz halten. Abends bringt uns der Bus sicher zurück ins Herz der Altstadt, wo wir den Tag gemütlich beenden.",
+            "hu": "A tiszta téli reggelen a jól fűtött buszokkal utazunk a Villa Fortunatus felé. Délben a Cinca-hídon való átkelés látványos kilátást nyújt a téli tájra. Délután a múzeumokat és a palotát járjuk be, figyelve rá, hogy a megállókban ne kelljen sokat várnunk. Este a busz biztonságban visszavisz az óváros szívébe, ahol kényelmesen zárjuk a napot.",
+            "ro": "În dimineața senină de iarnă folosim autobuzele bine încălzite pentru a merge spre Villa Fortunatus. La prânz, drumul peste Cinca oferă o vedere spectaculoasă asupra peisajului hibernal. După-amiaza vizităm muzeele și palatul, încercând să scurtăm așteptarea în stații. Seara, autobuzul ne aduce în siguranță în inima centrului vechi pentru finalul zilei.",
+            "en": "On a clear winter morning, we take well-heated buses toward Villa Fortunatus. At noon, crossing the Cinca offers spectacular views of the winter landscape. Afternoon is spent at museums and the palace, keeping wait times at stops to a minimum. In the evening, the bus brings us safely back to the heart of the old town to end our day."
+          },
+          "stops": [
+            {
+              "name": "Historic Quarter (Cluster A)",
+              "tip_5lang": {
+                "de": "Die Haltestellen in der Altstadt liegen oft im kalten Schatten; warm anziehen.",
+                "hu": "Az óvárosi megállók gyakran hideg árnyékban vannak; öltözzön melegen.",
+                "ro": "Stațiile din centrul vechi sunt adesea în umbră rece; îmbrăcați-vă bine.",
+                "en": "Old town bus stops are often in cold shadows; dress warmly."
+              }
+            },
+            {
+              "name": "Church of San Pedro (Cluster A)",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint von der Haltestelle bringt Sie schnell ins warme Innere.",
+                "hu": "Egy rövid sprint a megállótól, és máris a meleg belső térben van.",
+                "ro": "Un scurt sprint de la stație vă duce rapid în interiorul cald.",
+                "en": "A quick dash from the stop gets you into the warm interior fast."
+              }
+            },
+            {
+              "name": "Montcada Palace (Cluster A)",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten im Voraus, um langes Warten in der Kälte zu vermeiden.",
+                "hu": "Ellenőrizze előre az indulást, hogy elkerülje a hosszú várakozást a hidegben.",
+                "ro": "Verificați orele în avans pentru a evita așteptarea lungă în frig.",
+                "en": "Check departure times in advance to avoid long waits in the cold."
+              }
+            },
+            {
+              "name": "Villa Fortunatus (Cluster B)",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse hierher seltener; planen Sie genau.",
+                "hu": "Télen ritkábbak ide a buszok; tervezzen pontosan.",
+                "ro": "Iarna autobuzele spre această locație sunt mai rare; planificați atent.",
+                "en": "Buses here are less frequent in winter; plan your trip precisely."
+              }
+            },
+            {
+              "name": "Castle of Fraga (Cluster C)",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Haltestelle wärmt den Körper auf dem Weg nach oben auf.",
+                "hu": "A megállótól vezető séta segít felmelegedni a felfelé vezető úton.",
+                "ro": "Plimbarea de la stație vă ajută să vă încălziți pe drumul spre castel.",
+                "en": "The walk from the stop helps warm up your body on the way up."
+              }
+            },
+            {
+              "name": "Museum of the Casa de los Frailes (Cluster C)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme im Museum, bis der Bus zur Rückfahrt kommt.",
+                "hu": "Használja ki a múzeum melegét a visszaúti busz érkezéséig.",
+                "ro": "Bucurați-vă de căldura muzeului până la sosirea autobuzului de retur.",
+                "en": "Stay in the warmth of the museum until the return bus arrives."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie im Bus Ihre Jacke offen, um beim Aussteigen nicht zu stark abzukühlen.",
+              "Die Fenster in den Bussen können im Winter durch die Atemluft beschlagen.",
+              "Busfahrpläne können an Feiertagen im Winter stark variieren.",
+              "Suchen Sie Haltestellen mit Sonnenexposition für ein angenehmeres Warten."
+            ],
+            "hu": [
+              "A buszon nyissa ki a kabátját, hogy kiszálláskor ne érje hirtelen a hideg.",
+              "A buszok ablakai télen a lehelettől bepárásodhatnak.",
+              "A buszmenetrend téli ünnepeken jelentősen eltérhet a megszokottól.",
+              "Keressen napsütötte megállókat a kellemesebb várakozás érdekében."
+            ],
+            "ro": [
+              "Desfaceți haina în autobuz pentru a nu resimți frigul prea tare la coborâre.",
+              "Geamurile autobuzelor se pot aburi iarna din cauza respirației pasagerilor.",
+              "Orarele de iarnă pot varia semnificativ în timpul sărbătorilor.",
+              "Căutați stații expuse la soare pentru o așteptare mai plăcută."
+            ],
+            "en": [
+              "Unzip your coat while on the bus to avoid a temperature shock when exiting.",
+              "Bus windows tend to fog up in winter from passengers' breath.",
+              "Transit schedules can vary significantly during winter holidays.",
+              "Look for bus stops positioned in the sun for more pleasant waiting."
+            ]
+          }
+        }
       }
     }
   }

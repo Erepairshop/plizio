@@ -382,6 +382,214 @@
           "Purchase the Bellinzona Pass to visit all three castles at a reduced price.",
           "Water bottles can be refilled at the many public fountains around the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie unter den schützenden Arkaden der Altstadt. Der Vormittag gehört den Innenräumen der Stiftskirche und den Ausstellungen im Castelgrande, die trockenes Sightseeing ermöglichen. Mittags bietet ein traditionelles Grotto gemütliche Wärme. Nachmittags erkunden Sie die Mauern von Montebello im Schutz Ihres Schirms. Den Tag lassen Sie bei einem Glas Tessiner Wein in einer Bar im Stadtzentrum ausklingen.",
+            "hu": "Kezdje a napot az óváros védelmet nyújtó árkádjai alatt. A délelőtt a Collegiata és a Castelgrande belső kiállításainak felfedezésével telik, ahol védve van az esőtől. Ebédre keressen egy hangulatos grottót. Délután a Montebello várát látogassa meg esernyővel, majd a napot egy pohár helyi bor mellett zárja a városközpont egyik fedett bárjában, miközben hallgatja az eső kopogását a macskaköveken.",
+            "ro": "Începeți ziua sub arcadele protectoare ale centrului vechi. Dimineața este dedicată interiorului bisericii și expozițiilor din Castelgrande, oferind un refugiu uscat. Prânzul într-un grotto tradițional aduce căldură și confort. După-amiaza, explorați zidurile cetății Montebello sub protecția umbrelei. Încheiați ziua cu un vin ticinez într-un bar primitor din centru, evitând ploaia de afară.",
+            "en": "Start your day under the protective arcades of the Old Town. Spend the morning exploring the interiors of the Collegiate Church and the museum at Castelgrande, staying dry while sightseeing. For lunch, retreat to a cozy grotto. In the afternoon, visit Montebello Castle with an umbrella in hand. End your walk with a glass of Ticino wine in a sheltered city center bar as the rain falls on the cobblestones."
+          },
+          "stops": [
+            {
+              "name": "Old Town of Bellinzona",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge der Piazza Nosetto, um trocken zu bleiben.",
+                "hu": "Használja a Piazza Nosetto árkádjait, hogy szárazon maradjon a séta alatt.",
+                "ro": "Folosiți arcadele din Piazza Nosetto pentru a rămâne la adăpost de ploaie.",
+                "en": "Use the arcades of Piazza Nosetto to stay dry while exploring the shops."
+              }
+            },
+            {
+              "name": "Collegiate Church of Saints Peter and Stephen",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenpause für die Bewunderung der Fresken zu nutzen.",
+                "hu": "Ideális helyszín a freskók megcsodálására, amíg eláll az eső.",
+                "ro": "Un loc ideal pentru a admira frescele în timp ce așteptați să treacă ploaia.",
+                "en": "An ideal spot to admire frescoes while waiting for the rain to ease."
+              }
+            },
+            {
+              "name": "Castelgrande",
+              "tip_5lang": {
+                "de": "Der Aufzug vom Felsen spart den nassen Aufstieg zu Fuß.",
+                "hu": "A sziklába épített lift megkíméli Önt a vizes, csúszós lépcsőzéstől.",
+                "ro": "Liftul din stâncă vă scutește de urcarea pe treptele umede și alunecoase.",
+                "en": "The elevator inside the rock saves you from a wet and slippery climb."
+              }
+            },
+            {
+              "name": "Lunch break at a grotto",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz im Innenraum nahe dem Kamin für maximale Gemütlichkeit.",
+                "hu": "Válasszon belső asztalt a kandalló közelében a maximális kényelemért.",
+                "ro": "Alegeți o masă în interior, lângă șemineu, pentru un plus de confort.",
+                "en": "Choose an indoor table near the fireplace for maximum coziness."
+              }
+            },
+            {
+              "name": "Montebello Castle",
+              "tip_5lang": {
+                "de": "Vorsicht auf den hölzernen Zugbrücken, diese können bei Nässe glatt sein.",
+                "hu": "Vigyázzon a fa felvonóhidakon, esőben nagyon csúszósak lehetnek.",
+                "ro": "Atenție pe podurile mobile de lemn, pot fi foarte alunecoase când sunt ude.",
+                "en": "Be careful on the wooden drawbridges; they can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Sasso Corbaro Castle",
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick auf die nebelverhangenen Alpentäler.",
+                "hu": "Élvezze a drámai kilátást a ködbe burkolózó alpesi völgyekre.",
+                "ro": "Bucurați-vă de vederea dramatică asupra văilor alpine învăluite în ceață.",
+                "en": "Enjoy the dramatic view of the Alpine valleys shrouded in mist."
+              }
+            },
+            {
+              "name": "Church of Santa Maria delle Grazie",
+              "tip_5lang": {
+                "de": "Die Ruhe im Inneren ist der perfekte Abschluss für einen regnerischen Tag.",
+                "hu": "A belső nyugalom tökéletes lezárása egy esős napnak.",
+                "ro": "Liniștea din interior este finalul perfect pentru o zi ploioasă.",
+                "en": "The interior tranquility is the perfect conclusion to a rainy day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster Pfützen bilden kann.",
+              "Die Museen in den Burgen bieten hervorragenden Unterschlupf bei Schauern.",
+              "Nutzen Sie die Arkaden in der Altstadt als natürlichen Regenschutz.",
+              "Ein Taschenschirm ist bei den Windböen in den Burghöfen praktischer als ein großer Schirm.",
+              "Die Burg-Shuttlebusse können Gehzeit im Regen verkürzen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskaköveken megállhat a víz.",
+              "A várak múzeumai kiváló menedéket nyújtanak a záporok idején.",
+              "Használja az óváros árkádjait természetes esővédőként.",
+              "A várudvarokon fújó szél miatt az összecsukható esernyő praktikusabb.",
+              "A várak közötti ingajáratok lerövidíthetik az esőben való gyaloglást."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul poate reține apa.",
+              "Muzeele din castel oferă un adăpost excelent în timpul averselor.",
+              "Folosiți arcadele din centrul vechi ca protecție naturală împotriva ploii.",
+              "O umbrelă compactă este mai practică în curțile castelelor din cauza vântului.",
+              "Microbuzele dintre castele pot reduce timpul de mers prin ploaie."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones can form puddles.",
+              "The castle museums provide excellent shelter during heavy showers.",
+              "Utilize the Old Town arcades as a natural rain shield.",
+              "A compact umbrella is more practical than a large one due to wind in the courtyards.",
+              "Consider using the castle shuttle bus to minimize walking in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die frostige Schönheit Bellinzonas vor der Kulisse schneebedeckter Gipfel. Der Morgen beginnt mit einem heißen Kaffee in der Altstadt, gefolgt von einem Besuch der Burgen, deren Steine in der Wintersonne glänzen. Mittags wärmt eine deftige Polenta in einem Grotto. Da es bereits gegen 17:00 Uhr dunkel wird, nutzen Sie das goldene Licht des Nachmittags für Fotos von Sasso Corbaro, bevor Sie den Abend gemütlich ausklingen lassen.",
+            "hu": "Fedezze fel Bellinzona jeges szépségét a hófödte csúcsok árnyékában. A reggel egy forró kávéval indul az óvárosban, majd a várak következnek, melyek fala különleges fényben tündököl a téli napon. Ebédre egy laktató polenta ad melegséget. Mivel 17:00 körül sötétedik, használja ki a délutáni aranyórát a Sasso Corbaro fotózására, mielőtt behúzódna egy meleg étterembe.",
+            "ro": "Descoperiți frumusețea înghețată a Bellinzonei pe fundalul vârfurilor înzăpezite. Dimineața începe cu o cafea fierbinte în centru, urmată de vizitarea castelelor care strălucesc în soarele de iarnă. Prânzul cu o polenta caldă într-un grotto vă va încălzi. Deoarece se întunecă în jurul orei 17:00, profitați de lumina aurie pentru poze la Sasso Corbaro, apoi retrageți-vă la căldură.",
+            "en": "Experience the frosty beauty of Bellinzona against a backdrop of snow-capped peaks. Start with a hot coffee in the Old Town before visiting the castles, whose stone walls shine in the winter sun. For lunch, warm up with a hearty polenta in a grotto. As sunset is around 5:00 PM, seize the golden afternoon light for photos at Sasso Corbaro before ending the day in a cozy restaurant."
+          },
+          "stops": [
+            {
+              "name": "Old Town of Bellinzona",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Cafés mit einer heißen Schokolade auf.",
+                "hu": "Melegedjen fel az egyik kávézóban egy sűrű forró csokoládéval.",
+                "ro": "Încălziți-vă într-o cafenea cu o ciocolată caldă densă.",
+                "en": "Warm up in a local café with a thick Italian-style hot chocolate."
+              }
+            },
+            {
+              "name": "Collegiate Church of Saints Peter and Stephen",
+              "tip_5lang": {
+                "de": "Achten Sie auf die prächtige Krippe, die oft im Winter ausgestellt ist.",
+                "hu": "Keresse a gyönyörű betlehemet, amelyet gyakran kiállítanak télen.",
+                "ro": "Căutați scena nașterii Domnului, expusă adesea în timpul iernii.",
+                "en": "Look for the beautiful nativity scene often displayed during winter."
+              }
+            },
+            {
+              "name": "Castelgrande",
+              "tip_5lang": {
+                "de": "Die Aussicht auf die verschneiten Alpen von den Türmen ist atemberaubend.",
+                "hu": "A tornyokból nyíló kilátás a havas Alpokra télen a legszebb.",
+                "ro": "Priveliștea spre Alpii înzăpeziți de sus din turnuri este spectaculoasă.",
+                "en": "The view of the snow-covered Alps from the towers is breathtaking."
+              }
+            },
+            {
+              "name": "Lunch break at a grotto",
+              "tip_5lang": {
+                "de": "Probieren Sie saisonale Spezialitäten wie Wildgerichte oder Polenta.",
+                "hu": "Kóstolja meg a szezonális vadételeket vagy a gőzölgő polentát.",
+                "ro": "Gustați specialitățile de sezon, cum ar fi vânatul sau polenta.",
+                "en": "Taste seasonal specialties like venison or steaming polenta."
+              }
+            },
+            {
+              "name": "Montebello Castle",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne sorgt für fantastische Schattenwürfe auf den Mauern.",
+                "hu": "Az alacsonyan járó nap fantasztikus árnyékokat vet a várfalakra.",
+                "ro": "Soarele jos la orizont creează umbre fantastice pe zidurile cetății.",
+                "en": "The low winter sun casts fantastic shadows on the castle walls."
+              }
+            },
+            {
+              "name": "Sasso Corbaro Castle",
+              "tip_5lang": {
+                "de": "Hier oben ist es windiger und kälter; ziehen Sie sich warm an.",
+                "hu": "Itt fent szelesebb és hidegebb az idő; öltözzön rétegesen.",
+                "ro": "Aici sus este mai vântos și mai frig; îmbrăcați-vă bine.",
+                "en": "It is windier and colder up here; make sure to dress warmly."
+              }
+            },
+            {
+              "name": "Church of Santa Maria delle Grazie",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort zur Besinnung, bevor die frühe Dunkelheit einsetzt.",
+                "hu": "Csendes hely az elmélyülésre, mielőtt beáll a korai sötétség.",
+                "ro": "Un loc liniștit pentru reflecție înainte de lăsarea serii timpurii.",
+                "en": "A quiet place for reflection before the early darkness sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie griffige Schuhe, da schattige Wege vereist sein können.",
+              "Die Sonne geht früh unter (ca. 17:00 Uhr); planen Sie die Burgen vorher ein.",
+              "Zwiebelprinzip bei der Kleidung ist für den Wechsel zwischen Drinnen und Draußen ideal.",
+              "Einige Grottos haben im Winter reduzierte Öffnungszeiten; prüfen Sie dies vorab.",
+              "Genießen Sie die Ruhe, da im Winter deutlich weniger Touristen unterwegs sind."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt, mert az árnyékos utak jegesek lehetnek.",
+              "A nap korán nyugszik (17:00 körül), a várakat látogassa meg addig.",
+              "Öltözzön rétegesen, mert a benti fűtés és a kinti hideg között nagy a különbség.",
+              "Néhány grottó télen rövidebb ideig tart nyitva; ellenőrizze előre.",
+              "Élvezze a nyugalmat, mert télen sokkal kevesebb a turista."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu talpă aderentă, pot exista porțiuni înghețate.",
+              "Soarele apune devreme (cca. 17:00); vizitați castelele înainte de asta.",
+              "Îmbrăcați-vă în straturi pentru a face față diferenței de temperatură interior-exterior.",
+              "Unele grotto-uri au program redus iarna; verificați în prealabil.",
+              "Bucurați-vă de liniște, iarna sunt mult mai puțini turiști."
+            ],
+            "en": [
+              "Wear shoes with good grip as shaded paths may be icy.",
+              "Sunset is early (around 5:00 PM); plan your castle visits accordingly.",
+              "Dress in layers to adjust between cold outdoors and heated interiors.",
+              "Check opening hours for grottos as some might close earlier in winter.",
+              "Enjoy the peace and quiet as there are far fewer tourists in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -758,6 +966,214 @@
           "Wear a helmet and bring plenty of water.",
           "Always lock your bike, even for short stops, especially in tourist areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Tessiner Regen erfordert gute Ausrüstung, bietet aber leere Wege. Der Vormittag führt steil zu den oberen Burgen, wobei Sie auf rutschiges Laub achten sollten. Mittags trocknen Sie sich in einem Restaurant auf, bevor Sie das Castelgrande ansteuern. Der Abschluss am Ticino-Ufer ist bei Regen besonders atmosphärisch, wenn der Flussnebel aufsteigt. Nutzen Sie Schutzbleche, um trocken zu bleiben.",
+            "hu": "A ticinói esőben való kerékpározás jó felszerelést igényel, de cserébe üresek az utak. Délelőtt tekerjen fel a felső várakhoz, figyelve a csúszós levelekre. Ebédnél szárítkozzon meg egy étteremben, mielőtt a Castelgrande felé veszi az irányt. A nap végi tekerés a Ticino partján esőben is különleges a felszálló pára miatt. Használjon sárvédőt a felfröccsenő víz ellen.",
+            "ro": "O tură cu bicicleta prin ploaia din Ticino necesită echipament bun, dar oferă trasee libere. Dimineața urcați spre castelele de sus, atenți la frunzele alunecoase. La prânz, uscați-vă într-un restaurant înainte de a vizita Castelgrande. Finalul pe malul râului Ticino are o atmosferă aparte în ploaie, cu aburi ridicându-se din apă. Folosiți aripi la bicicletă pentru a rămâne uscați.",
+            "en": "Cycling in the Ticino rain requires proper gear but offers empty paths. Spend the morning climbing to the upper castles, watching out for slippery leaves. Dry off during lunch before heading to Castelgrande. The riverside ride along the Ticino is atmospheric in the rain, with mist rising from the water. Make sure your bike has mudguards to stay as dry as possible."
+          },
+          "stops": [
+            {
+              "name": "Old Town & Bike Rental",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Fahrrad mit guten Schutzblechen und Licht.",
+                "hu": "Kérjen sárvédővel és jó világítással felszerelt kerékpárt.",
+                "ro": "Cereți o bicicletă dotată cu aripi bune și lumini.",
+                "en": "Ask for a bike equipped with good mudguards and lights."
+              }
+            },
+            {
+              "name": "Montebello Castle",
+              "tip_5lang": {
+                "de": "Die Auffahrt auf Kopfsteinpflaster ist bei Nässe eine technische Herausforderung.",
+                "hu": "A macskaköves emelkedő esőben komoly technikai kihívást jelent.",
+                "ro": "Urcarea pe pavaj umed este o provocare tehnică pe ploaie.",
+                "en": "The uphill climb on wet cobblestones is a technical challenge."
+              }
+            },
+            {
+              "name": "Sasso Corbaro Castle",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Abfahrt; die Bremsen benötigen bei Regen längere Wege.",
+                "hu": "Vigyázzon a lefelé úton; a fékeknek hosszabb út kell az esőben.",
+                "ro": "Atenție la coborâre; frânele au nevoie de o distanță mai mare pe ploaie.",
+                "en": "Be careful on the descent; brakes require more distance in the rain."
+              }
+            },
+            {
+              "name": "Lunch with a View",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit Abstellplätzen unter einem Vordach.",
+                "hu": "Keressen olyan helyet, ahol az előtető alatt leállíthatja a bringát.",
+                "ro": "Căutați un local cu locuri de parcare pentru biciclete sub un acoperiș.",
+                "en": "Look for a spot with bike parking under a canopy or overhang."
+              }
+            },
+            {
+              "name": "Castelgrande",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Lift, um Ihr Rad (falls erlaubt) nach oben zu bringen.",
+                "hu": "Használja a liftet, ha felviheti a kerékpárt a várudvarra.",
+                "ro": "Folosiți liftul dacă este permis accesul cu bicicleta sus.",
+                "en": "Use the elevator to bring your bike up if permitted by the staff."
+              }
+            },
+            {
+              "name": "Church of Santa Maria delle Grazie",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den Helm kurz abzunehmen und durchzuatmen.",
+                "hu": "Csendes hely, ahol leveheti a sisakot és kifújhatja magát.",
+                "ro": "Un loc liniștit unde puteți scoate casca și respira ușurat.",
+                "en": "A peaceful spot to take off your helmet and catch your breath."
+              }
+            },
+            {
+              "name": "Ticino Riverside Ride",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf dem Radweg entlang des Flusses.",
+                "hu": "Vigyázzon a tócsákra a folyó menti kerékpárúton.",
+                "ro": "Atenție la bălțile de pe pista de biciclete de-a lungul râului.",
+                "en": "Watch out for puddles on the cycling path along the river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie plötzliches Bremsen auf nassem Kopfsteinpflaster.",
+              "Vollständige Regenbekleidung (Hose und Jacke) ist unerlässlich.",
+              "Die Sicht kann durch Spritzwasser eingeschränkt sein; fahren Sie vorsichtig.",
+              "Die Radwege im Tal sind flacher und bei Regen einfacher zu befahren.",
+              "Prüfen Sie, ob der Verleih Regenponchos anbietet."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a nedves macskaköveken.",
+              "A teljes esőruházat (nadrág és kabát) elengedhetetlen.",
+              "A felcsapódó víz ronthatja a látási viszonyokat; tekerjen óvatosan.",
+              "A völgyben lévő utak síkabbak és esőben könnyebben járhatók.",
+              "Kérdezze meg a kölcsönzőt, hogy adnak-e esőponchót."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe pavajul ud.",
+              "Echipamentul complet de ploaie (pantaloni și jachetă) este esențial.",
+              "Vizibilitatea poate fi redusă de apa aruncată de roți; rulați cu prudență.",
+              "Pistele din vale sunt mai plate și mai ușor de parcurs pe ploaie.",
+              "Verificați dacă centrul de închirieri oferă pelerine de ploaie."
+            ],
+            "en": [
+              "Avoid sudden braking on wet cobblestones to prevent sliding.",
+              "Full rain gear (trousers and jacket) is essential for this trip.",
+              "Visibility can be reduced by spray; cycle with extra caution.",
+              "Valley paths are flatter and easier to navigate in wet weather.",
+              "Check if the rental shop provides rain ponchos for customers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Bellinzona bietet klare Luft und leere Wege. Der Morgenanstieg zu den Burgen bringt den Kreislauf in Schwung, während Sie die Aussicht auf die verschneiten Gipfel genießen. Mittags stärken Sie sich in einem warmen Restaurant. Am Nachmittag führt die Route zum flachen Ticino-Ufer, wo die Wintersonne glitzert. Achten Sie auf vereiste Stellen in schattigen Kurven und tragen Sie windfeste Kleidung.",
+            "hu": "A téli kerékpározás Bellinzonában friss levegőt és üres utakat ígér. A reggeli emelkedő a várakhoz felpörgeti a pulzust, miközben a hófödte csúcsokat csodálja. Ebédnél melegedjen fel egy étteremben. Délután a sík Ticino-parton tekerhet, ahol csillog a téli napsütés. Figyeljen a jeges foltokra az árnyékos kanyarokban, és viseljen szélálló ruházatot.",
+            "ro": "Ciclismul de iarnă în Bellinzona oferă aer curat și trasee libere. Urcarea de dimineață spre castele vă va pune sângele în mișcare în timp ce admirați vârfurile înzăpezite. La prânz, recuperați-vă într-un restaurant călduros. După-amiaza urmați malul râului Ticino, unde soarele de iarnă sclipește pe apă. Atenție la gheață în curbele umbrite și purtați haine rezistente la vânt.",
+            "en": "Winter cycling in Bellinzona provides crisp air and empty paths. The morning climb to the castles gets your heart rate up while you enjoy views of the snowy peaks. Warm up during lunch at a cozy restaurant. In the afternoon, head to the flat Ticino riverside, where the winter sun glitters. Watch out for icy patches in shaded corners and wear windproof clothing."
+          },
+          "stops": [
+            {
+              "name": "Old Town & Bike Rental",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, da der Fahrtwind die Finger schnell auskühlt.",
+                "hu": "Viseljen meleg kesztyűt, mert a menetszél hamar lehűti az ujjait.",
+                "ro": "Purtați mănuși groase, vântul răcește rapid degetele pe bicicletă.",
+                "en": "Wear warm gloves as the wind chill quickly cools your fingers."
+              }
+            },
+            {
+              "name": "Montebello Castle",
+              "tip_5lang": {
+                "de": "Die Auffahrt wärmt Sie auf, aber oben kühlen Sie im Wind schnell aus.",
+                "hu": "A felfelé út felmelegíti, de fent a szélben hamar kihűlhet.",
+                "ro": "Urcarea vă va încălzi, dar sus vântul vă poate răci rapid.",
+                "en": "The climb will warm you up, but you'll cool down fast in the wind at the top."
+              }
+            },
+            {
+              "name": "Sasso Corbaro Castle",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Reifenhaftung; an schattigen Stellen kann Reif liegen.",
+                "hu": "Ellenőrizze a tapadást; az árnyékos részeken zúzmarás lehet az út.",
+                "ro": "Verificați aderența; în zonele umbrite poate apărea chiciura.",
+                "en": "Check tire grip; shaded sections of the road may have frost or ice."
+              }
+            },
+            {
+              "name": "Lunch with a View",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne für eine kurze Pause auf einer Bank.",
+                "hu": "Használja ki a déli napsütést egy rövid pihenőre egy padon.",
+                "ro": "Profitați de soarele de la prânz pentru o scurtă pauză pe o bancă.",
+                "en": "Take advantage of the midday sun for a short break on a bench."
+              }
+            },
+            {
+              "name": "Castelgrande",
+              "tip_5lang": {
+                "de": "Die Steine speichern tagsüber etwas Wärme, perfekt für eine Pause.",
+                "hu": "A várfalak kövei tárolják a hőt nappal, tökéletes hely pihenni.",
+                "ro": "Pietrele zidurilor rețin puțină căldură ziua, ideal pentru o pauză.",
+                "en": "The castle stones store some heat during the day, perfect for a break."
+              }
+            },
+            {
+              "name": "Church of Santa Maria delle Grazie",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab, bevor Sie das warme Innere besuchen.",
+                "hu": "Zárja le biztonságosan a bringát, mielőtt bemenne a meleg templomba.",
+                "ro": "Asigurați bicicleta înainte de a intra în interiorul primitor.",
+                "en": "Secure your bike before stepping into the warm interior."
+              }
+            },
+            {
+              "name": "Ticino Riverside Ride",
+              "tip_5lang": {
+                "de": "In Flussnähe ist die Luft feuchter und kälter; ziehen Sie sich warm an.",
+                "hu": "A folyó közelében a levegő párásabb és hidegebb; öltözzön fel jól.",
+                "ro": "Lângă râu aerul este mai umed și mai rece; îmbrăcați-vă gros.",
+                "en": "Near the river, the air is damper and colder; dress warmly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten (Zwiebelprinzip) und eine winddichte Jacke.",
+              "Vermeiden Sie schattige Waldwege, dort hält sich Eis am längsten.",
+              "Ein Thermosbecher mit warmem Tee im Flaschenhalter wirkt Wunder.",
+              "Kürzen Sie die Tour ab, wenn die Sonne untergeht, da es dann schlagartig kälter wird.",
+              "Stirnlampen oder gute Bikeschläuche sind wichtig für die frühe Dämmerung."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, és használjon szélálló dzsekit.",
+              "Kerülje az árnyékos erdei utakat, ott marad meg legtovább a jég.",
+              "Egy termosz meleg tea a kulacstartóban csodákra képes.",
+              "Rövidítse le a túrát naplemente után, mert hirtelen lehűl a levegő.",
+              "A korai szürkület miatt fontos a jó világítás a kerékpáron."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine și o jachetă rezistentă la vânt.",
+              "Evitați drumurile forestiere umbrite, acolo gheața persistă cel mai mult.",
+              "Un termos cu ceai cald în suportul de bidon face minuni.",
+              "Scurtați tura după apus, deoarece temperatura scade brusc.",
+              "Luminile bune la bicicletă sunt esențiale din cauza amurgului timpuriu."
+            ],
+            "en": [
+              "Wear multiple layers and a windproof outer jacket.",
+              "Avoid shaded forest paths where ice lingers the longest.",
+              "A thermos of warm tea in your bottle cage works wonders.",
+              "Shorten your ride once the sun sets, as the temperature drops quickly.",
+              "Proper bike lights are crucial due to the early onset of twilight."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1110,6 +1526,196 @@
           "Parking fees in city center garages can be expensive; be prepared for a daily rate.",
           "The Swiss motorway vignette is required if driving on highways to Bellinzona."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Bellinzona auch bei Regen komfortabel. Der Morgen führt Sie direkt zu den Parkplätzen von Sasso Corbaro und Montebello, wodurch Sie den Regen zwischen den Sehenswürdigkeiten minimieren. Mittags parken Sie im Zentrum und genießen die Altstadt unter den Arkaden. Castelgrande ist dank des Lifts im Felsen fast trockenen Fußes erreichbar. Ideal für Familien oder bei starkem Niederschlag.",
+            "hu": "Autóval esőben is kényelmesen felfedezheti Bellinzonát. A reggel során közvetlenül a Sasso Corbaro és Montebello parkolóihoz hajthat, így minimalizálva az esőben töltött időt. Ebédre parkoljon le a központban, és élvezze az óvárost az árkádok alatt. A Castelgrande a sziklába épített liftnek köszönhetően szinte száraz lábbal elérhető. Ideális választás családoknak vagy nagy esőzéskor.",
+            "ro": "Cu mașina, puteți explora Bellinzona confortabil chiar și pe ploaie. Dimineața vă duce direct în parcările de la Sasso Corbaro și Montebello, minimizând expunerea la ploaie. La prânz, parcați în centru și bucurați-vă de orașul vechi sub arcade. Castelgrande este accesibil aproape fără să vă udați datorită liftului din stâncă. Ideal pentru familii sau în caz de precipitații abundente.",
+            "en": "By car, you can explore Bellinzona comfortably even in the rain. Spend the morning driving directly to the parking lots of Sasso Corbaro and Montebello, minimizing time spent in the wet. Park in the center for lunch and enjoy the Old Town under the arcades. Castelgrande is accessible via the rock elevator, keeping you mostly dry. Ideal for families or during heavy downpours."
+          },
+          "stops": [
+            {
+              "name": "Drive & Park at Sasso Corbaro Castle",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist sehr nah am Eingang, ideal bei Regen.",
+                "hu": "A parkoló nagyon közel van a bejárathoz, ideális esőben.",
+                "ro": "Parcarea este foarte aproape de intrare, ideal pe ploaie.",
+                "en": "The parking lot is very close to the entrance, ideal during rain."
+              }
+            },
+            {
+              "name": "Drive to Montebello Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den oberen Parkplatz, um den Fußweg im Regen zu verkürzen.",
+                "hu": "Használja a felső parkolót, hogy lerövidítse az esőben való gyaloglást.",
+                "ro": "Folosiți parcarea de sus pentru a scurta mersul pe jos prin ploaie.",
+                "en": "Use the upper parking lot to shorten your walk in the rain."
+              }
+            },
+            {
+              "name": "Drive & Park in City Center (Cluster A)",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Parkhaus (z.B. Autosilo Piazza del Sole) für einen trockenen Ausstieg.",
+                "hu": "Válasszon mélygarázst a száraz kiszálláshoz (pl. Autosilo Piazza del Sole).",
+                "ro": "Alegeți o parcare subterană pentru a coborî din mașină la uscat.",
+                "en": "Choose an underground parking garage for a dry exit from your car."
+              }
+            },
+            {
+              "name": "Castelgrande",
+              "tip_5lang": {
+                "de": "Der Eingang zum Lift an der Piazza del Sole ist überdacht.",
+                "hu": "A lift bejárata a Piazza del Solénál fedett területen van.",
+                "ro": "Intrarea liftului din Piazza del Sole este într-o zonă acoperită.",
+                "en": "The elevator entrance at Piazza del Sole is in a sheltered area."
+              }
+            },
+            {
+              "name": "Old Town of Bellinzona",
+              "tip_5lang": {
+                "de": "Die Arkaden verbinden viele Geschäfte und Cafés regensicher.",
+                "hu": "Az árkádok esőbiztos összeköttetést nyújtanak a boltok és kávézók között.",
+                "ro": "Arcadele leagă multe magazine și cafenele, oferind protecție.",
+                "en": "The arcades connect many shops and cafés, keeping you sheltered."
+              }
+            },
+            {
+              "name": "Collegiate Church of Saints Peter and Stephen",
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren nassen Schirm im Vorraum abtropfen.",
+                "hu": "Hagyja a vizes esernyőt az előtérben lecsepegni.",
+                "ro": "Lăsați umbrela udă la intrare pentru a se scurge.",
+                "en": "Leave your wet umbrella at the entrance to drip dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkhäuser im Zentrum bieten Schutz vor dem Regen beim Ein- und Aussteigen.",
+              "Die Straßen zu den oberen Burgen können bei starkem Regen rutschig sein.",
+              "Halten Sie Kleingeld oder eine Park-App bereit, um nicht im Regen am Automaten zu stehen.",
+              "Ein Schirm im Auto ist Pflicht für die kurzen Wege zum Eingang.",
+              "Nutzen Sie die Fahrtzeiten, um die Heizung zum Trocknen der Kleidung zu nutzen."
+            ],
+            "hu": [
+              "A központi parkolóházak védelmet nyújtanak az eső ellen ki- és beszálláskor.",
+              "A felső várakhoz vezető utak nagy esőben csúszósak lehetnek.",
+              "Készítsen össze aprópénzt vagy használjon parkoló appot, hogy ne ázzon az automatánál.",
+              "Az autóban mindig legyen esernyő a bejáratig tartó rövid szakaszokra.",
+              "Használja az autó fűtését a ruhák szárítására a várak között."
+            ],
+            "ro": [
+              "Parcările subterane oferă protecție la urcarea și coborârea din mașină.",
+              "Drumurile spre castelele de sus pot fi alunecoase pe ploaie abundentă.",
+              "Aveți pregătit mărunt sau o aplicație de parcare pentru a nu sta în ploaie la automat.",
+              "O umbrelă în mașină este obligatorie pentru distanțele scurte până la intrări.",
+              "Folosiți încălzirea mașinii pentru a vă usca hainele între opriri."
+            ],
+            "en": [
+              "Underground parking garages in the center provide shelter when getting in and out.",
+              "Roads leading to the upper castles can be slippery during heavy rainfall.",
+              "Have change ready or use a parking app to avoid standing in the rain at the meter.",
+              "Keep an umbrella in the car for the short walks to the castle entrances.",
+              "Use the car's heater to dry your clothes while driving between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Bellinzona bequem mit dem Auto, während draußen die schneebedeckten Gipfel leuchten. Der Morgen beginnt am Sasso Corbaro, wo Sie oft über der Nebelgrenze in der Sonne stehen. Die kurzen Fahrten zwischen den Burgen halten Sie warm, während Sie die Aussicht genießen. Mittags parken Sie im beheizten Parkhaus im Zentrum für einen Bummel durch die festlich dekorierte Altstadt. Achten Sie auf Winterausrüstung bei Frost.",
+            "hu": "Fedezze fel a téli Bellinzonát kényelmesen autóból, miközben a hófödte csúcsok ragyognak. A reggel a Sasso Corbarónál indul, ahol gyakran a ködhatár felett, napsütésben állhat. A várak közötti rövid utak alatt nem fázik meg, miközben élvezi a kilátást. Ebédre parkoljon le egy fűtött mélygarázsban, és sétáljon a díszes óvárosban. Figyeljen a téli gumi meglétére fagy esetén.",
+            "ro": "Explorați Bellinzona în timpul iernii din confortul mașinii, admirând vârfurile strălucitoare. Dimineața începe la Sasso Corbaro, unde adesea veți fi deasupra ceții, în plin soare. Drumurile scurte între castele vă mențin la căldură. La prânz, parcați într-o parcare subterană încălzită pentru o plimbare prin centrul vechi decorat festiv. Atenție la echiparea de iarnă în caz de îngheț.",
+            "en": "Explore wintery Bellinzona comfortably by car while the snow-capped peaks shine outside. Start your morning at Sasso Corbaro, where you are often above the mist in the bright sun. Short drives between the castles keep you warm while you soak in the views. Park in a heated garage downtown for lunch and a stroll through the festively decorated Old Town. Ensure your car is winter-ready."
+          },
+          "stops": [
+            {
+              "name": "Drive & Park at Sasso Corbaro Castle",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf der steilen Zufahrtsstraße.",
+                "hu": "Vigyázzon a jeges foltokra a meredek felfelé vezető úton.",
+                "ro": "Atenție la porțiunile înghețate de pe drumul abrupt de acces.",
+                "en": "Watch out for icy patches on the steep access road."
+              }
+            },
+            {
+              "name": "Drive to Montebello Castle",
+              "tip_5lang": {
+                "de": "Die Parkplätze im Schatten können glatt sein; parken Sie vorsichtig.",
+                "hu": "Az árnyékos parkolók csúszósak lehetnek; parkoljon óvatosan.",
+                "ro": "Locurile de parcare umbrite pot fi alunecoase; parcați cu grijă.",
+                "en": "Shaded parking spots can be slippery; park with extra caution."
+              }
+            },
+            {
+              "name": "Drive & Park in City Center (Cluster A)",
+              "tip_5lang": {
+                "de": "Das Autosilo Piazza del Sole ist direkt mit dem Castelgrande-Lift verbunden.",
+                "hu": "Az Autosilo Piazza del Sole közvetlen kapcsolatban áll a vár lifttel.",
+                "ro": "Parcarea Piazza del Sole este legată direct de liftul spre Castelgrande.",
+                "en": "The Piazza del Sole garage is directly connected to the Castelgrande elevator."
+              }
+            },
+            {
+              "name": "Castelgrande",
+              "tip_5lang": {
+                "de": "Der Innenhof bietet im Winter eine herrlich ruhige Atmosphäre.",
+                "hu": "A belső udvar télen különlegesen nyugodt hangulatot áraszt.",
+                "ro": "Curtea interioară oferă o atmosferă minunat de liniștită iarna.",
+                "en": "The inner courtyard offers a wonderfully peaceful atmosphere in winter."
+              }
+            },
+            {
+              "name": "Old Town of Bellinzona",
+              "tip_5lang": {
+                "de": "Genießen Sie die Weihnachtsbeleuchtung in den späten Nachmittagsstunden.",
+                "hu": "Élvezze a karácsonyi díszkivilágítást a késő délutáni órákban.",
+                "ro": "Bucurați-vă de luminile de Crăciun în orele târzii ale după-amiezii.",
+                "en": "Enjoy the Christmas lights during the late afternoon hours."
+              }
+            },
+            {
+              "name": "Collegiate Church of Saints Peter and Stephen",
+              "tip_5lang": {
+                "de": "Die Kirche ist oft der wärmste Ort während der Stadttour.",
+                "hu": "A templom gyakran a legmelegebb pont a városnézés során.",
+                "ro": "Biserica este adesea cel mai călduros loc în timpul turului orașului.",
+                "en": "The church is often the warmest spot during your city tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind im Tessin bei Schneefall oder Frost gesetzlich vorgeschrieben.",
+              "Die Bergstraße zum Sasso Corbaro wird geräumt, kann aber morgens glatt sein.",
+              "Vermeiden Sie das Abstellen des Wagens in tiefem Schatten über längere Zeit.",
+              "Nutzen Sie Parkhäuser, um das Scheibenkratzen bei Frost zu vermeiden.",
+              "Planen Sie mehr Zeit für die Fahrten ein, falls es schneit."
+            ],
+            "hu": [
+              "Télen a téli gumi kötelező Ticinóban hóesés vagy fagy esetén.",
+              "A Sasso Corbaróhoz vezető utat takarítják, de reggelente csúszhat.",
+              "Kerülje az autó hosszas tárolását mély árnyékban a fagyveszély miatt.",
+              "Használjon mélygarázst, hogy elkerülje a szélvédő jegesedését.",
+              "Hóesés esetén számoljon hosszabb menetidővel a várak között."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Ticino în caz de ninsoare sau îngheț.",
+              "Drumul spre Sasso Corbaro este curățat, dar poate fi alunecos dimineața.",
+              "Evitați parcarea mașinii la umbră adâncă pentru perioade lungi.",
+              "Folosiți parcările subterane pentru a evita înghețarea parbrizului.",
+              "Prevedeți mai mult timp pentru deplasări în caz de ninsoare."
+            ],
+            "en": [
+              "Winter tires are legally required in Ticino during snow or frost conditions.",
+              "The mountain road to Sasso Corbaro is cleared but can be slippery in the morning.",
+              "Avoid leaving your car in deep shade for long periods during freezing weather.",
+              "Use parking garages to avoid having to scrape ice off your windshield.",
+              "Allow extra travel time between stops if it is snowing."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1462,6 +2068,196 @@
           "The 'Artù' tourist train is a fun alternative to the public bus for connecting the castles.",
           "Always validate your ticket when you board a bus."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die gelben Postautos bringen Sie auch bei Regen trocken zu den Burgen. Der Vormittag beginnt mit einem geschützten Bummel in der Altstadt, gefolgt von der Busfahrt zum Sasso Corbaro. Mittags wärmen Sie sich in einem Zentrumslokal auf. Nachmittags erkunden Sie das Castelgrande, wobei Sie den Lift von der Piazza del Sole nutzen. Die pünktlichen Busverbindungen minimieren die Wartezeiten im Freien.",
+            "hu": "A sárga postabuszok esőben is szárazon viszik fel a várakhoz. A délelőtt az óváros fedett részein indul, majd busszal mehet fel a Sasso Corbaróhoz. Ebédre melegedjen fel egy központi étteremben. Délután a Castelgrandét látogassa meg, használva a Piazza del Sole felőli liftet. A pontos svájci buszközlekedésnek köszönhetően alig kell a szabadban várakoznia.",
+            "ro": "Autobuzele poștale galbene vă duc la castele fără să vă udați. Dimineața începe cu o plimbare protejată în centrul vechi, urmată de o cursă spre Sasso Corbaro. La prânz, încălziți-vă într-un local central. După-amiaza vizitați Castelgrande folosind liftul din Piazza del Sole. Conexiunile punctuale minimizează timpul de așteptare în ploaie.",
+            "en": "The yellow PostBuses will take you up to the castles dry even in the rain. Start your morning with a sheltered stroll in the Old Town before taking the bus to Sasso Corbaro. Warm up with lunch in the center. In the afternoon, explore Castelgrande using the elevator from Piazza del Sole. Punctual Swiss transit connections minimize your waiting time outdoors."
+          },
+          "stops": [
+            {
+              "name": "Arrival & Old Town Stroll",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen im Zentrum haben oft Wartehäuschen.",
+                "hu": "A központi buszmegállók többsége fedett váróval rendelkezik.",
+                "ro": "Stațiile de autobuz din centru au adesea adăposturi acoperite.",
+                "en": "Most central bus stops are equipped with shelters to keep you dry."
+              }
+            },
+            {
+              "name": "Castelgrande (Cluster A)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Lift direkt neben der Bushaltestelle Piazza del Sole.",
+                "hu": "Használja a liftet közvetlenül a Piazza del Sole buszmegálló mellett.",
+                "ro": "Folosiți liftul chiar de lângă stația de autobuz Piazza del Sole.",
+                "en": "Use the elevator located right next to the Piazza del Sole bus stop."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant in der Nähe einer Bushaltestelle.",
+                "hu": "Válasszon éttermet valamelyik buszmegálló közvetlen közelében.",
+                "ro": "Alegeți un restaurant situat aproape de o stație de autobuz.",
+                "en": "Choose a restaurant located close to a bus stop for convenience."
+              }
+            },
+            {
+              "name": "Bus Ride & Montebello Castle (Cluster B)",
+              "tip_5lang": {
+                "de": "Die Buslinie 4 führt direkt zum Parkplatz des Schlosses.",
+                "hu": "A 4-es buszjárat közvetlenül a vár parkolójához viszi fel.",
+                "ro": "Linia de autobuz 4 vă duce direct la parcarea castelului.",
+                "en": "Bus line 4 takes you directly to the castle's parking area."
+              }
+            },
+            {
+              "name": "Bus Ride & Sasso Corbaro Castle",
+              "tip_5lang": {
+                "de": "Der Bus bietet eine trockene Alternative zum steilen Fußmarsch.",
+                "hu": "A busz száraz alternatívát kínál a meredek gyalogút helyett.",
+                "ro": "Autobuzul oferă o alternativă uscată la urcarea abruptă pe jos.",
+                "en": "The bus offers a dry alternative to the steep walk up the hill."
+              }
+            },
+            {
+              "name": "Return to Center & Aperitivo",
+              "tip_5lang": {
+                "de": "Prüfen Sie die SBB-App für die letzten Verbindungen am Abend.",
+                "hu": "Ellenőrizze az utolsó esti járatokat az SBB applikációban.",
+                "ro": "Verificați ultimele conexiuni de seară în aplicația SBB.",
+                "en": "Check the SBB app for the final evening bus connections."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die SBB Mobile App für Echtzeit-Infos zu Busverspätungen.",
+              "Die Tageskarte für die Zone Bellinzona lohnt sich bei mehreren Fahrten.",
+              "Im Bus ist es warm und trocken; nutzen Sie die Zeit zur Planung des nächsten Stopps.",
+              "Halten Sie Ihren Schirm beim Einsteigen bereit, um die anderen Fahrgäste nicht nass zu machen.",
+              "Die Busse verkehren auch bei schlechtem Wetter sehr zuverlässig."
+            ],
+            "hu": [
+              "Használja az SBB Mobile appot a buszok valós idejű követéséhez.",
+              "A napijegy a Bellinzona zónára megéri, ha többször buszozik.",
+              "A buszon meleg és száraz idő van; tervezze meg ott a következő lépést.",
+              "Felszálláskor rázza le az esernyőt, hogy ne vizezze össze az utasokat.",
+              "A buszok rossz időben is rendkívül megbízhatóan közlekednek."
+            ],
+            "ro": [
+              "Folosiți aplicația SBB Mobile pentru informații în timp real despre autobuze.",
+              "Abonamentul de o zi pentru zona Bellinzona merită dacă faceți mai multe călătorii.",
+              "În autobuz este cald și uscat; profitați de timp pentru a planifica următoarea oprire.",
+              "Scuturați umbrela la urcare pentru a nu uda ceilalți pasageri.",
+              "Autobuzele circulă foarte fiabil chiar și pe vreme rea."
+            ],
+            "en": [
+              "Use the SBB Mobile app for real-time updates on bus schedules.",
+              "A day pass for the Bellinzona zone is worth it if you take several trips.",
+              "The bus is warm and dry; use the travel time to plan your next stop.",
+              "Shake your umbrella before boarding to avoid getting other passengers wet.",
+              "Buses remain very reliable even during poor weather conditions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Tour mit den Postautos ist die wärmste Art, Bellinzona zu entdecken. Der Vormittag beginnt in der klaren Bergluft am Sasso Corbaro, bevor Sie der Bus zurück in die festliche Altstadt bringt. Mittags wärmen Sie sich bei regionalen Spezialitäten auf. Die Nachmittagsbesuche der Burgen sind dank der Busse kurzweilig und warm. Da es früh dunkel wird, nutzen Sie den späten Nachmittag für den beleuchteten Stadtkern.",
+            "hu": "A téli buszos túra a legmelegebb módja Bellinzona felfedezésének. A délelőtt a Sasso Corbaro friss hegyi levegőjén indul, majd a busz visszaviszi az ünnepi óvárosba. Ebédre melegedjen fel helyi ételekkel. A várak délutáni látogatása a buszoknak köszönhetően gyors és kényelmes. Mivel korán sötétedik, a késő délutánt töltse a kivilágított városközpontban.",
+            "ro": "Turul de iarnă cu autobuzele poștale este cea mai călduroasă modalitate de a vedea Bellinzona. Dimineața începe în aerul curat de la Sasso Corbaro, apoi autobuzul vă readuce în centrul festiv. La prânz, încălziți-vă cu specialități regionale. Vizitele la castele sunt rapide și confortabile datorită autobuzelor. Fiindcă se întunecă devreme, rezervați finalul zilei pentru centrul iluminat.",
+            "en": "A winter tour by PostBus is the warmest way to discover Bellinzona. Start your morning in the crisp mountain air at Sasso Corbaro before the bus takes you back to the festive Old Town. Warm up with regional specialties for lunch. Afternoon castle visits are cozy and quick thanks to the transit network. As it gets dark early, spend the late afternoon in the beautifully lit city center."
+          },
+          "stops": [
+            {
+              "name": "Arrival & Old Town Stroll",
+              "tip_5lang": {
+                "de": "Die Busse sind gut beheizt, ideal zum Aufwärmen zwischen den Stopps.",
+                "hu": "A buszok jól fűtöttek, ideálisak a felmelegedésre a megállók között.",
+                "ro": "Autobuzele sunt bine încălzite, ideale pentru a vă încălzi între opriri.",
+                "en": "Buses are well-heated, making them perfect for warming up between stops."
+              }
+            },
+            {
+              "name": "Castelgrande (Cluster A)",
+              "tip_5lang": {
+                "de": "Der Lift im Felsen ist auch im Winter in Betrieb und angenehm temperiert.",
+                "hu": "A vár lift télen is üzemel és kellemes a hőmérséklete.",
+                "ro": "Liftul din stâncă funcționează și iarna și are o temperatură plăcută.",
+                "en": "The rock elevator operates in winter and is kept at a pleasant temperature."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit Blick auf die verschneiten Burgen.",
+                "hu": "Keressen olyan éttermet, ahonnan látni a havas várakat.",
+                "ro": "Căutați un restaurant cu vedere spre castelele înzăpezite.",
+                "en": "Look for a restaurant with a view of the snow-covered castles."
+              }
+            },
+            {
+              "name": "Bus Ride & Montebello Castle (Cluster B)",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Winterfahrpläne, da manche Linien seltener fahren.",
+                "hu": "Figyeljen a téli menetrendre, néhány járat ritkábban közlekedhet.",
+                "ro": "Atenție la orarul de iarnă, unele linii pot circula mai rar.",
+                "en": "Check the winter timetable as some lines may run less frequently."
+              }
+            },
+            {
+              "name": "Bus Ride & Sasso Corbaro Castle",
+              "tip_5lang": {
+                "de": "Der Blick aus dem Busfenster auf das verschneite Tal ist fantastisch.",
+                "hu": "A busz ablakából nyíló kilátás a havas völgyre fantasztikus.",
+                "ro": "Priveliștea din geamul autobuzului spre valea înzăpezită este superbă.",
+                "en": "The view of the snow-covered valley from the bus window is fantastic."
+              }
+            },
+            {
+              "name": "Return to Center & Aperitivo",
+              "tip_5lang": {
+                "de": "Die Busse bringen Sie direkt in die Nähe der beleuchteten Bars.",
+                "hu": "A buszok közvetlenül a kivilágított bárok közelében teszik le.",
+                "ro": "Autobuzele vă lasă chiar lângă barurile iluminate festiv.",
+                "en": "Buses drop you off right near the festively lit bars and cafés."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Schuhe für die Wartezeiten an den Bushaltestellen.",
+              "Die Busse sind pünktlich; kommen Sie nicht zu spät zur Haltestelle.",
+              "Die SBB-App zeigt auch die Auslastung der Busse an.",
+              "Im Winter ist die Aussicht von den erhöhten Busstrecken besonders klar.",
+              "Nutzen Sie die Busverbindungen, um die frostigen Gehwege zu vermeiden."
+            ],
+            "hu": [
+              "Viseljen meleg cipőt a buszmegállóban való várakozáshoz.",
+              "A buszok pontosak; ne késse le a csatlakozást.",
+              "Az SBB app jelzi a buszok telítettségét is.",
+              "Télen a kilátás a magasabban fekvő buszos útvonalakról különösen tiszta.",
+              "Használja a buszokat a jeges, csúszós járdák elkerülésére."
+            ],
+            "ro": [
+              "Purtați încălțăminte groasă pentru timpul de așteptare în stații.",
+              "Autobuzele sunt punctuale; nu întârziați la plecare.",
+              "Aplicația SBB arată și gradul de ocupare al autobuzelor.",
+              "Iarna, vederea de pe rutele de autobuz mai înalte este foarte clară.",
+              "Folosiți autobuzele pentru a evita trotuarele înghețate și alunecoase."
+            ],
+            "en": [
+              "Wear warm shoes for the time you'll spend waiting at bus stops.",
+              "Buses are strictly on time; make sure not to arrive late at the stop.",
+              "The SBB app also indicates how crowded the buses are.",
+              "In winter, the views from the elevated bus routes are exceptionally clear.",
+              "Use transit connections to avoid walking on icy or frosty sidewalks."
+            ]
+          }
+        }
       }
     }
   }

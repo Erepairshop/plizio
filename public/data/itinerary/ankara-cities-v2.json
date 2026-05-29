@@ -356,6 +356,188 @@
           "Be respectful of prayer times when visiting mosques.",
           "A reusable water bottle is very useful while exploring the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Hamamönü-Viertel, wo die historischen Häuser bei Regen eine mystische Atmosphäre ausstrahlen. Mittags bieten die Hacı Bayram Moschee und die römischen Bäder Schutz und Geschichte zugleich. Am Nachmittag ist das Museum für anatolische Zivilisationen der ideale Zufluchtsort vor dem Wetter. Den Abschluss bildet der Anıtkabir, dessen monumentale Anlage auch im Regen beeindruckt.",
+            "hu": "Kezdje a reggelt Hamamönü negyedében, ahol a felújított házak között az esőben is hangulatos sétát tehet. Délben a Hacı Bayram mecset és a római fürdők romjai nyújtanak látnivalót, miközben az ernyője alatt felfedezi Ulust. Délután az Anatóliai Civilizációk Múzeuma a legjobb hely az eső elől való menekülésre. Estére az Anıtkabir monumentális terei zárják a napot, ahol a nedves gránit tükrözi az alkonyi fényeket.",
+            "ro": "Începeți dimineața în cartierul Hamamönü, unde casele istorice oferă un cadru pitoresc chiar și sub ploaie. La prânz, Moscheea Hacı Bayram și Băile Romane îmbină spiritualitatea cu istoria antică. După-amiaza, Muzeul Civilizațiilor Anatoliene este refugiul perfect împotriva vremii nefavorabile. Seara se încheie la Anıtkabir, unde mărimea monumentului este accentuată de cerul înnorat.",
+            "en": "Start your morning in the Hamamönü Quarter, where the historic houses look mystical in the rain. At noon, the Hacı Bayram Mosque and Roman Baths provide a blend of spiritual and ancient history. In the afternoon, the Museum of Anatolian Civilizations is the perfect indoor sanctuary. End the day at Anıtkabir, where the monumental scale is highlighted by the glistening wet stones."
+          },
+          "stops": [
+            {
+              "name": "Hamamönü Quarter",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in einem der restaurierten Herrenhäuser bei einem heißen türkischen Kaffee.",
+                "hu": "Keressen menedéket egy felújított kúria kávézójában egy forró török kávé mellett.",
+                "ro": "Adăpostiți-vă într-o cafenea dintr-o casă restaurată pentru o cafea turcească fierbinte.",
+                "en": "Take shelter in a restored mansion's cafe with a hot Turkish coffee."
+              }
+            },
+            {
+              "name": "Hacı Bayram Mosque",
+              "tip_5lang": {
+                "de": "Der Innenraum der Moschee ist ein friedlicher und trockener Ort zur Besichtigung.",
+                "hu": "A mecset belső tere békés és száraz hely a nézelődéshez.",
+                "ro": "Interiorul moscheii este un loc liniștit și uscat pentru vizitare.",
+                "en": "The mosque's interior is a peaceful and dry spot for contemplation."
+              }
+            },
+            {
+              "name": "Roman Baths",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Pfaden zwischen den antiken Fundamenten.",
+                "hu": "Vigyázzon a csúszós ösvényeken az antik alapfalak között.",
+                "ro": "Atenție la potecile alunecoase printre fundamentele antice.",
+                "en": "Be careful on the slippery paths between the ancient foundations."
+              }
+            },
+            {
+              "name": "Ankara Castle",
+              "tip_5lang": {
+                "de": "Die Aussicht auf die Stadt unter Regenwolken ist dramatisch, aber die Steine sind glatt.",
+                "hu": "Az esőfelhők alatti városkép drámai, de a várfal kövei nagyon csúsznak.",
+                "ro": "Vederea orașului sub nori de ploaie este dramatică, dar pietrele sunt lucioase.",
+                "en": "The city view under rain clouds is dramatic, but the stones are very slippery."
+              }
+            },
+            {
+              "name": "Museum of Anatolian Civilizations",
+              "tip_5lang": {
+                "de": "Perfekt für Regentage: Verbringen Sie hier mehr Zeit mit den Hethiter-Exponaten.",
+                "hu": "Tökéletes esős napra: töltsön itt több időt a hettita leletek között.",
+                "ro": "Perfect pentru o zi ploioasă: petreceți mai mult timp printre exponatele hitite.",
+                "en": "Perfect for a rainy day: spend extra time among the Hittite exhibits."
+              }
+            },
+            {
+              "name": "Anıtkabir",
+              "tip_5lang": {
+                "de": "Ein stabiler Regenschirm ist wegen der starken Winde auf dem Plateau unerlässlich.",
+                "hu": "Egy stabil esernyő elengedhetetlen a fennsíkon fújó erős szél miatt.",
+                "ro": "O umbrelă rezistentă este esențială din cauza vântului puternic de pe platou.",
+                "en": "A sturdy umbrella is essential due to the strong winds on the plateau."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ankaras Bürgersteige können bei Regen sehr rutschig werden.",
+              "Nutzen Sie die Unterführungen in Kızılay als trockene Abkürzungen.",
+              "Die Museen in Ankara sind montags oft geschlossen, prüfen Sie das vorher.",
+              "Tragen Sie wasserfeste Schuhe, da sich in Ulus Pfützen bilden können."
+            ],
+            "hu": [
+              "Ankara járdái esőben rendkívül csúszóssá válhatnak.",
+              "Használja a Kızılay aluljáróit száraz rövidítésként.",
+              "Az ankarai múzeumok gyakran zárva tartanak hétfőn, ellenőrizze előre.",
+              "Viseljen vízálló cipőt, mert Ulus környékén mély tócsák alakulhatnak ki."
+            ],
+            "ro": [
+              "Trotuarele din Ankara pot deveni foarte alunecoase când plouă.",
+              "Folosiți pasajele subterane din Kızılay ca scurtături uscate.",
+              "Muzeele din Ankara sunt adesea închise lunea, verificați în avans.",
+              "Purtați încălțăminte impermeabilă, deoarece în Ulus se pot forma bălți."
+            ],
+            "en": [
+              "Ankara's pavements can become extremely slippery in the rain.",
+              "Use the underground passages in Kızılay as dry shortcuts.",
+              "Ankara museums are often closed on Mondays, check before you go.",
+              "Wear waterproof shoes as deep puddles can form in the Ulus area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Ankara im Winterweiß, beginnend im Hamamönü, wo der Schnee auf den Dächern glitzert. Mittags bieten die historischen Stätten in Ulus kühle, aber klare Fotomotive. Nachmittags wärmen Sie sich im Museum für anatolische Zivilisationen auf. Den Tag beendet ein stimmungsvoller Besuch im Anıtkabir, der in der Winterdämmerung besonders feierlich wirkt.",
+            "hu": "Fedezze fel Ankara téli arcát a havas Hamamönü negyedben kezdve a napot. Délben az ulusi történelmi emlékhelyek fagyos, de tiszta látványt nyújtanak. Délután az Anatóliai Civilizációk Múzeumának fűtött termei nyújtanak menedéket a hideg elől. A napot az Anıtkabir látogatása zárja, amely a korai téli szürkületben különösen tiszteletparancsoló.",
+            "ro": "Descoperiți fața de iarnă a Ankarai, începând în cartierul Hamamönü acoperit de zăpadă. La prânz, siturile istorice din Ulus oferă cadre reci, dar clare pentru fotografii. După-amiaza, încălziți-vă în sălile Muzeului Civilizațiilor Anatoliene. Ziua se încheie cu o vizită la Anıtkabir, care pare și mai solemn în amurgul de iarnă.",
+            "en": "Experience Ankara's winter charm starting in the snow-dusted Hamamönü Quarter. At noon, the historical sites in Ulus offer cold but crisp photographic opportunities. In the afternoon, warm up in the heated galleries of the Museum of Anatolian Civilizations. The day concludes at Anıtkabir, which looks exceptionally solemn in the early winter twilight."
+          },
+          "stops": [
+            {
+              "name": "Hamamönü Quarter",
+              "tip_5lang": {
+                "de": "Probieren Sie ein heißes Salep-Getränk, um sich für den weiteren Weg aufzuwärmen.",
+                "hu": "Kóstoljon meg egy forró szalepet (salep), hogy felmelegedjen a további útra.",
+                "ro": "Gustați un salep fierbinte pentru a vă încălzi înainte de a porni mai departe.",
+                "en": "Try a hot salep drink to warm up for the rest of your walk."
+              }
+            },
+            {
+              "name": "Hacı Bayram Mosque",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Platz vor der Moschee.",
+                "hu": "Ügyeljen a jeges foltokra a mecset előtti téren.",
+                "ro": "Atenție la porțiunile înghețate din piața din fața moscheii.",
+                "en": "Watch out for icy patches on the plaza in front of the mosque."
+              }
+            },
+            {
+              "name": "Roman Baths",
+              "tip_5lang": {
+                "de": "Die exponierte Lage macht diesen Stopp im Winter sehr windig und kalt.",
+                "hu": "A nyitott terület miatt ez a megálló télen nagyon szeles és hideg.",
+                "ro": "Locația expusă face ca această oprire să fie foarte vântoasă și rece iarna.",
+                "en": "The exposed layout makes this stop very windy and cold in winter."
+              }
+            },
+            {
+              "name": "Ankara Castle",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist steil; tragen Sie Schuhe mit gutem Profil gegen Schnee.",
+                "hu": "A felfelé vezető út meredek; viseljen jó tapadású talpú cipőt a hó ellen.",
+                "ro": "Urcarea este abruptă; purtați încălțăminte cu aderență bună pentru zăpadă.",
+                "en": "The climb up is steep; wear shoes with good grip for the snow."
+              }
+            },
+            {
+              "name": "Museum of Anatolian Civilizations",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die kälteste Zeit des Nachmittags im Warmen zu verbringen.",
+                "hu": "Ideális hely, hogy a délután leghidegebb óráit a melegben töltse.",
+                "ro": "Un loc ideal pentru a petrece cele mai reci ore ale amiezii la căldură.",
+                "en": "An ideal place to spend the coldest hours of the afternoon indoors."
+              }
+            },
+            {
+              "name": "Anıtkabir",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Anlage vor 16:30 Uhr, bevor es im Winter dunkel wird.",
+                "hu": "Látogasson el ide 16:30 előtt, mielőtt télen besötétedik.",
+                "ro": "Vizitați complexul înainte de 16:30, înainte să se întunece iarna.",
+                "en": "Visit before 4:30 PM, as it gets dark early in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ankara kann im Winter sehr niedrige Temperaturen erreichen, kleiden Sie sich im Zwiebelprinzip.",
+              "Die Sonne geht im Dezember bereits gegen 17:00 Uhr unter.",
+              "Öffentliche Gebäude und Museen sind gut beheizt, Cafés bieten heißen Cay.",
+              "Vorsicht vor Eiszapfen an alten Gebäuden in Ulus."
+            ],
+            "hu": [
+              "Ankara télen nagyon hideg lehet, öltözzön rétegesen.",
+              "A nap decemberben már délután 5 körül lemegy.",
+              "A középületek és múzeumok jól fűtöttek, a kávézókban mindig van forró tea.",
+              "Vigyázzon a tetőkről lelógó jégcsapokra Ulus régi épületeinél."
+            ],
+            "ro": [
+              "Ankara poate fi foarte rece iarna, îmbrăcați-vă în straturi.",
+              "Soarele apune deja în jurul orei 17:00 în decembrie.",
+              "Clădirile publice și muzeele sunt bine încălzite, cafenelele oferă ceai fierbinte.",
+              "Atenție la țurțurii de pe clădirile vechi din Ulus."
+            ],
+            "en": [
+              "Ankara can be very cold in winter, so dress in warm layers.",
+              "The sun sets around 5:00 PM in December.",
+              "Public buildings and museums are well-heated, and cafes always have hot tea.",
+              "Watch out for icicles on old buildings in the Ulus area."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -664,6 +846,188 @@
           "Wear a helmet and be cautious in heavy traffic.",
           "Traffic can be chaotic, especially during rush hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Ankara bei Regen erfordert Vorsicht, bietet aber leere Wege im Gençlik Park. Besuchen Sie den Anıtkabir und die Kocatepe-Moschee, während Sie auf asphaltierten Straßen bleiben. Der Aufstieg zur Burg ist bei Nässe anstrengend, aber das Museum bietet eine lange Pause. Den Tag beendet der Atakule mit einer Aussicht über das verregnete Stadtpanorama.",
+            "hu": "Egy esős bringatúra Ankarában óvatosságot igényel, de cserébe üres utakat kínál a Gençlik parkban. Látogasson el az Anıtkabirhoz és a Kocatepe mecsethez, aszfaltozott utakon maradva. A várba vezető emelkedő esőben nehéz, de a múzeum hosszú pihenőt nyújt. A napot az Atakule zárja, ahonnan belátni az eső áztatta várost.",
+            "ro": "O tură cu bicicleta prin Ankara pe ploaie necesită prudență, dar oferă poteci libere în Parcul Gençlik. Vizitați Anıtkabir și Moscheea Kocatepe, rămânând pe drumurile asfaltate. Urcarea spre castel este grea pe ploaie, dar muzeul oferă o pauză lungă. Ziua se încheie la Atakule, cu o vedere panoramică peste orașul udat de ploaie.",
+            "en": "A rainy bike tour in Ankara requires caution but offers empty paths in Gençlik Park. Visit Anıtkabir and Kocatepe Mosque while sticking to paved roads. The climb to the Castle is tough in the rain, but the museum provides a long rest. The day ends at Atakule with a view over the rain-soaked city panorama."
+          },
+          "stops": [
+            {
+              "name": "Gençlik Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Pfützen, die tiefer sein könnten, als sie unter den Bäumen erscheinen.",
+                "hu": "Kerülje a tócsákat, mert mélyebbek lehetnek, mint aminek a fák alatt látszanak.",
+                "ro": "Evitați bălțile, care pot fi mai adânci decât par sub copaci.",
+                "en": "Avoid puddles which might be deeper than they look under the trees."
+              }
+            },
+            {
+              "name": "Anıtkabir",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an den bewachten Eingängen und gehen Sie zu Fuß weiter.",
+                "hu": "Parkolja le a bringát az őrzött bejáratoknál, és gyalog folytassa.",
+                "ro": "Parcați bicicleta la intrările păzite și continuați pe jos.",
+                "en": "Park your bike at the guarded entrances and continue on foot."
+              }
+            },
+            {
+              "name": "Kocatepe Mosque",
+              "tip_5lang": {
+                "de": "Die weißen Marmorstufen vor der Moschee sind bei Regen extrem rutschig.",
+                "hu": "A mecset előtti fehér márványlépcsők esőben rendkívül csúszósak.",
+                "ro": "Treptele de marmură albă din fața moscheii sunt extrem de alunecoase pe ploaie.",
+                "en": "The white marble steps in front of the mosque are extremely slippery in the rain."
+              }
+            },
+            {
+              "name": "Ankara Castle",
+              "tip_5lang": {
+                "de": "Der Kopfsteinpflaster-Anstieg ist bei Nässe eine Herausforderung für die Reifenhaftung.",
+                "hu": "A macskaköves emelkedő esőben komoly kihívás a gumi tapadásának.",
+                "ro": "Urcarea pe piatră cubică este o provocare pentru aderența cauciucurilor pe ploaie.",
+                "en": "The cobblestone climb is a real challenge for tire grip when wet."
+              }
+            },
+            {
+              "name": "Museum of Anatolian Civilizations",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um Ihre Regenkleidung zu trocknen.",
+                "hu": "Használja ki a múzeumlátogatást az esőruházat megszárítására.",
+                "ro": "Profități de vizita la muzeu pentru a vă usca echipamentul de ploaie.",
+                "en": "Use the museum visit to let your rain gear dry out."
+              }
+            },
+            {
+              "name": "Atakule",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick von oben, während Ihr Rad sicher im Parkhaus steht.",
+                "hu": "Élvezze a kilátást fentről, amíg a bringa biztonságban pihen a parkolóban.",
+                "ro": "Bucurați-vă de priveliștea de sus în timp ce bicicleta stă în siguranță în parcare.",
+                "en": "Enjoy the view from above while your bike stays safe in the parking area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Bremsen bei Nässe voll funktionsfähig sind.",
+              "Vermeiden Sie Markierungen auf der Straße, da diese sehr glatt werden.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit im Verkehr.",
+              "Planen Sie mehr Zeit für die Anstiege ein, da die Straßen rutschig sind."
+            ],
+            "hu": [
+              "Ellenőrizze, hogy a fékek tökéletesen fognak-e a vizes abroncsokon.",
+              "Kerülje az útburkolati jeleket, mert azok vizesen nagyon csúsznak.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóság érdekében a forgalomban.",
+              "Számoljon több idővel az emelkedőkhöz a csúszós utak miatt."
+            ],
+            "ro": [
+              "Asigurați-vă că frânele funcționează perfect pe jantele ude.",
+              "Evitați marcajele rutiere, deoarece devin foarte alunecoase când sunt ude.",
+              "Purtați o jachetă de ploaie stridentă pentru o vizibilitate mai bună în trafic.",
+              "Rezervați-vă mai mult timp pentru urcări din cauza drumurilor alunecoase."
+            ],
+            "en": [
+              "Ensure your brakes are fully functional on wet rims.",
+              "Avoid road markings as they become very slick when wet.",
+              "Wear a high-visibility rain jacket for better safety in traffic.",
+              "Allow extra time for climbs due to slippery road surfaces."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im winterlichen Ankara ist nur für Mutige, bietet aber klare Sicht. Starten Sie im Gençlik Park und fahren Sie vorsichtig zum Anıtkabir. Die Route zur Kocatepe-Moschee führt durch belebte Viertel. Der steile Weg zur Burg hält Sie warm, aber die Abfahrt erfordert dicke Handschuhe. Der Tag endet am Atakule, wenn die Lichter der Stadt im Schnee funkeln.",
+            "hu": "A téli bringázás Ankarában kihívás, de tiszta látási viszonyokat kínál. Kezdjen a Gençlik parkban, majd tekerjen óvatosan az Anıtkabirhoz. A Kocatepe mecset felé vezető út forgalmas negyedeken át visz. A várba vezető meredek út felmelegíti, de a lejtőhöz vastag kesztyű kell. A nap az Atakule-nál ér véget, ahonnan a város fényei csillognak a hóban.",
+            "ro": "Mersul cu bicicleta în Ankara iarna este o provocare, dar oferă o vizibilitate clară. Începeți în Parcul Gençlik, apoi pedalați cu atenție spre Anıtkabir. Ruta spre Moscheea Kocatepe trece prin cartiere animate. Urcarea abruptă spre castel vă va încălzi, dar coborârea necesită mănuși groase. Ziua se încheie la Atakule, când luminile orașului sclipesc în zăpadă.",
+            "en": "Cycling in winter Ankara is a challenge but offers crisp views. Start in Gençlik Park and ride carefully to Anıtkabir. The route to Kocatepe Mosque passes through busy neighborhoods. The steep climb to the Castle will keep you warm, but the descent requires thick gloves. The day ends at Atakule as the city lights sparkle against the snow."
+          },
+          "stops": [
+            {
+              "name": "Gençlik Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen auf den Parkwegen.",
+                "hu": "Ügyeljen a befagyott tócsákra a park útjain.",
+                "ro": "Atenție la bălțile înghețate de pe aleile parcului.",
+                "en": "Watch out for frozen puddles on the park paths."
+              }
+            },
+            {
+              "name": "Anıtkabir",
+              "tip_5lang": {
+                "de": "Der Wind auf dem Hügel kann beim Radfahren sehr schneidend sein.",
+                "hu": "A dombtetőn fújó szél bringázás közben nagyon metsző lehet.",
+                "ro": "Vântul de pe deal poate fi foarte tăios în timp ce pedalați.",
+                "en": "The wind on the hill can be very biting while cycling."
+              }
+            },
+            {
+              "name": "Kocatepe Mosque",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für einen wärmenden Cay in der Nähe.",
+                "hu": "Használja ki a megállót egy melegítő teára (çay) a közelben.",
+                "ro": "Folosiți oprirea pentru un ceai (çay) cald în apropiere.",
+                "en": "Use the stop for a warming tea (çay) nearby."
+              }
+            },
+            {
+              "name": "Ankara Castle",
+              "tip_5lang": {
+                "de": "Schneematsch auf dem Kopfsteinpflaster macht das Fahren fast unmöglich.",
+                "hu": "A macskakövön lévő hókása szinte lehetetlenné teszi a tekerést.",
+                "ro": "Zăpada topită de pe piatra cubică face pedalatul aproape imposibil.",
+                "en": "Slush on the cobblestones makes riding almost impossible."
+              }
+            },
+            {
+              "name": "Museum of Anatolian Civilizations",
+              "tip_5lang": {
+                "de": "Tauen Sie Ihre Hände und Füße in der Ausstellung auf.",
+                "hu": "Melegítse fel kezeit és lábait a kiállítótermekben.",
+                "ro": "Încălziți-vă mâinile și picioarele în sălile de expoziție.",
+                "en": "Warm up your hands and feet inside the exhibition halls."
+              }
+            },
+            {
+              "name": "Atakule",
+              "tip_5lang": {
+                "de": "Vermeiden Sie die Abfahrt nach Sonnenuntergang wegen der Eisgefahr.",
+                "hu": "Kerülje a lejtmenetet naplemente után a fagyveszély miatt.",
+                "ro": "Evitați coborârea după apusul soarelui din cauza riscului de îngheț.",
+                "en": "Avoid the descent after sunset due to the risk of ice forming."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck, da kalte Luft das Volumen verringert.",
+              "Schützen Sie Ihr Gesicht mit einem Schal oder einer Sturmhaube.",
+              "Die Batterien von E-Bikes entladen sich bei Kälte deutlich schneller.",
+              "Anstiege halten warm, aber Abfahrten kühlen den Körper extrem aus."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást, mert a hideg levegő miatt csökkenhet.",
+              "Védje arcát sállal vagy maszkkal a metsző szél ellen.",
+              "Az e-bike-ok akkumulátora sokkal gyorsabban merül a hidegben.",
+              "Az emelkedők melegen tartják, de a lejtőkön extrém módon lehűlhet a teste."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri, deoarece aerul rece le poate dezumfla.",
+              "Protejați-vă fața cu un fular sau o mască împotriva vântului tăios.",
+              "Bateriile bicicletelor electrice se descarcă mult mai repede la frig.",
+              "Urcările vă țin cald, dar coborârile vă pot răci corpul extrem de tare."
+            ],
+            "en": [
+              "Check tire pressure as cold air can cause it to drop.",
+              "Protect your face with a scarf or mask against the biting wind.",
+              "E-bike batteries drain significantly faster in cold temperatures.",
+              "Uphill sections keep you warm, but descents will chill you rapidly."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1002,6 +1366,206 @@
           "A GPS app is essential for navigating the city.",
           "Pay attention to speed limits and local traffic rules."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Ankara bequem vom Auto aus, während der Regen gegen die Scheiben trommelt. Starten Sie am Atakule und fahren Sie zur Kocatepe-Moschee und zum Anıtkabir. Die Fahrt zur Burg und zum Museum bietet Schutz vor dem Wetter. Den Tag beschließen Hamamönü und der Gençlik Park, wo Sie bei Regenpausen kurze Spaziergänge einlegen können.",
+            "hu": "Élvezze Ankarát az autó kényelméből, miközben az eső veri a szélvédőt. Kezdjen az Atakule-nál, majd látogasson el a Kocatepe mecsethez és az Anıtkabirhoz. A vár és a múzeum felé vezető út védelmet nyújt az időjárás elől. A napot Hamamönü és a Gençlik park zárja, ahol az esőszünetekben tehet egy-egy rövid sétát.",
+            "ro": "Bucurați-vă de Ankara din confortul mașinii în timp ce ploaia bate în parbriz. Începeți la Atakule, apoi vizitați Moscheea Kocatepe și Anıtkabir. Drumul spre castel și muzeu oferă protecție împotriva vremii. Ziua se încheie în Hamamönü și Parcul Gençlik, unde puteți face scurte plimbări în pauzele dintre ploi.",
+            "en": "Enjoy Ankara from the comfort of your car while the rain drums on the windshield. Start at Atakule, then visit Kocatepe Mosque and Anıtkabir. The drive to the Castle and Museum provides shelter from the elements. The day concludes at Hamamönü and Gençlik Park, where you can take short walks during breaks in the rain."
+          },
+          "stops": [
+            {
+              "name": "Atakule",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus des Einkaufszentrums, um trocken ins Gebäude zu gelangen.",
+                "hu": "Használja a bevásárlóközpont parkolóházát, hogy szárazon jusson be.",
+                "ro": "Folosiți parcarea subterană a mall-ului pentru a intra uscat în clădire.",
+                "en": "Use the shopping center's parking garage to enter the building dry."
+              }
+            },
+            {
+              "name": "Kocatepe Mosque",
+              "tip_5lang": {
+                "de": "Parkplätze in der Nähe der Moschee sind bei Regen oft schnell belegt.",
+                "hu": "A mecset közeli parkolóhelyek esőben hamar betelnek.",
+                "ro": "Locurile de parcare de lângă moschee se ocupă repede când plouă.",
+                "en": "Parking spaces near the mosque often fill up quickly when it rains."
+              }
+            },
+            {
+              "name": "Anıtkabir",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Eingang, bringen Sie dennoch einen Schirm mit.",
+                "hu": "A parkoló közel van a bejárathoz, de azért hozzon esernyőt.",
+                "ro": "Parcarea este aproape de intrare, dar totuși aduceți o umbrelă.",
+                "en": "The parking lot is close to the entrance, but still bring an umbrella."
+              }
+            },
+            {
+              "name": "Ankara Castle",
+              "tip_5lang": {
+                "de": "Die schmalen Wege zur Burg können bei Regen für Autos schwierig sein.",
+                "hu": "A várba vezető szűk utak esőben nehézkesek lehetnek autóval.",
+                "ro": "Drumurile înguste spre castel pot fi dificile pentru mașini pe ploaie.",
+                "en": "The narrow roads to the Castle can be tricky for cars in the rain."
+              }
+            },
+            {
+              "name": "Museum of Anatolian Civilizations",
+              "tip_5lang": {
+                "de": "Parken Sie am Ulus-Platz und nutzen Sie ein Taxi für das letzte Stück.",
+                "hu": "Parkoljon az Ulus téren, és az utolsó szakaszon használjon taxit.",
+                "ro": "Parcați în Piața Ulus și folosiți un taxi pentru ultima porțiune.",
+                "en": "Park at Ulus Square and use a taxi for the final stretch."
+              }
+            },
+            {
+              "name": "Hamamönü Quarter",
+              "tip_5lang": {
+                "de": "Das Viertel ist weitgehend verkehrsberuhigt, parken Sie an den Rändern.",
+                "hu": "A negyed nagy része sétálóövezet, parkoljon a széleken.",
+                "ro": "Cartierul este în mare parte pietonal, parcați la periferie.",
+                "en": "The quarter is mostly pedestrianized, so park on the outskirts."
+              }
+            },
+            {
+              "name": "Gençlik Park",
+              "tip_5lang": {
+                "de": "Der Blick auf die beleuchteten Fontänen im Regen ist vom Auto aus schön.",
+                "hu": "A kivilágított szökőkutak látványa az esőben az autóból is szép.",
+                "ro": "Vederea fântânilor iluminate în ploaie este frumoasă chiar și din mașină.",
+                "en": "The view of the illuminated fountains in the rain is lovely from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Verkehr in Ankara nimmt bei Regen massiv zu, planen Sie Pufferzeiten ein.",
+              "Vermeiden Sie tiefere Wasseransammlungen in den Senken von Ulus.",
+              "Nutzen Sie Parkhäuser statt Straßenrandparken, um trocken zu bleiben.",
+              "Achten Sie auf Fußgänger, die bei Regen oft unachtsam über die Straße laufen."
+            ],
+            "hu": [
+              "Ankarában esőben jelentősen megnő a forgalom, számoljon rá több időt.",
+              "Kerülje a mélyebb vízátfolyásokat Ulus mélyebben fekvő részein.",
+              "Használjon parkolóházakat az utcai parkolás helyett, hogy szárazon maradjon.",
+              "Vigyázzon a gyalogosokra, akik esőben gyakran figyelmetlenül szaladnak át az úton."
+            ],
+            "ro": [
+              "Traficul în Ankara crește masiv pe ploaie, rezervați-vă timp suplimentar.",
+              "Evitați acumulările de apă în zonele joase din Ulus.",
+              "Folosiți parcările etajate în locul celor stradale pentru a rămâne uscat.",
+              "Atenție la pietonii care traversează adesea neatent pe ploaie."
+            ],
+            "en": [
+              "Ankara traffic increases significantly during rain, so allow extra time.",
+              "Avoid deep water accumulation in the lower areas of Ulus.",
+              "Use parking garages instead of street parking to stay dry.",
+              "Watch out for pedestrians who may cross the street carelessly in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch Ankara zeigt die Stadt von ihrer glitzernden Seite. Starten Sie am Atakule und besuchen Sie die Kocatepe-Moschee und den Anıtkabir in wohliger Wärme. Der Weg zur Burg kann bei Schnee steil sein, aber das Museum ist ein sicherer Hafen. Den Abschluss bilden Hamamönü und der Gençlik Park, bevor Sie den Tag gemütlich ausklingen lassen.",
+            "hu": "A téli autózás Ankarában megmutatja a város csillogó arcát. Kezdjen az Atakule-nál, majd látogasson el a Kocatepe mecsethez és az Anıtkabirhoz a kocsi melegében. A várba vezető út havas időben meredek lehet, de a múzeum biztos menedék. A napot Hamamönü és a Gençlik park zárja, mielőtt kényelmesen befejezné a napot.",
+            "ro": "O plimbare cu mașina prin Ankara iarna arată fața sclipitoare a orașului. Începeți la Atakule, apoi vizitați Moscheea Kocatepe și Anıtkabir la căldură. Drumul spre castel poate fi abrupt pe zăpadă, dar muzeul este un refugiu sigur. Ziua se încheie în Hamamönü și Parcul Gençlik înainte de a termina ziua confortabil.",
+            "en": "A winter car tour through Ankara shows the city's glittering side. Start at Atakule, then visit Kocatepe Mosque and Anıtkabir in cozy warmth. The road to the Castle can be steep in the snow, but the museum is a safe haven. The day ends at Hamamönü and Gençlik Park before finishing comfortably."
+          },
+          "stops": [
+            {
+              "name": "Atakule",
+              "tip_5lang": {
+                "de": "Das Einkaufszentrum ist ideal, um sich nach der Fahrt aufzuwärmen.",
+                "hu": "A bevásárlóközpont ideális, hogy az út után felmelegedjen.",
+                "ro": "Mall-ul este ideal pentru a vă încălzi după drum.",
+                "en": "The shopping center is perfect for warming up after your drive."
+              }
+            },
+            {
+              "name": "Kocatepe Mosque",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Auffahrten in diesem hügeligen Viertel.",
+                "hu": "Ügyeljen a jeges felhajtókra ebben a dombos negyedben.",
+                "ro": "Atenție la rampele înghețate în acest cartier deluros.",
+                "en": "Watch out for icy driveways in this hilly neighborhood."
+              }
+            },
+            {
+              "name": "Anıtkabir",
+              "tip_5lang": {
+                "de": "Die Wege auf dem Gelände werden geräumt, sind aber bei Frost glatt.",
+                "hu": "A területen az utakat letakarítják, de fagyban csúszhatnak.",
+                "ro": "Aleile din complex sunt curățate, dar pot fi alunecoase pe ger.",
+                "en": "The paths on the grounds are cleared but can be slippery in frost."
+              }
+            },
+            {
+              "name": "Ankara Castle",
+              "tip_5lang": {
+                "de": "Fahren Sie bei starkem Schneefall nicht ganz nach oben; parken Sie weiter unten.",
+                "hu": "Erős havazásban ne hajtson fel egészen a várig; parkoljon lejjebb.",
+                "ro": "Nu conduceți până sus în caz de ninsoare puternică; parcați mai jos.",
+                "en": "Do not drive all the way up in heavy snow; park further down."
+              }
+            },
+            {
+              "name": "Museum of Anatolian Civilizations",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die schneebedeckten Dächer von Ulus.",
+                "hu": "Élvezze a kilátást Ulus havas háztetőire.",
+                "ro": "Bucurați-vă de priveliștea acoperișurilor înzăpezite din Ulus.",
+                "en": "Enjoy the view of the snow-covered roofs of Ulus."
+              }
+            },
+            {
+              "name": "Hamamönü Quarter",
+              "tip_5lang": {
+                "de": "Die Beleuchtung der alten Häuser im Schnee ist am späten Nachmittag magisch.",
+                "hu": "A régi házak megvilágítása a hóban késő délután varázslatos.",
+                "ro": "Iluminarea caselor vechi în zăpadă este magică la sfârșitul amiezii.",
+                "en": "The lighting of the old houses in the snow is magical in the late afternoon."
+              }
+            },
+            {
+              "name": "Gençlik Park",
+              "tip_5lang": {
+                "de": "Der gefrorene Teich bietet eine wunderschöne winterliche Kulisse.",
+                "hu": "A befagyott tó gyönyörű téli látványt nyújt.",
+                "ro": "Lacul înghețat oferă un cadru de iarnă superb.",
+                "en": "The frozen pond provides a beautiful winter backdrop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Ankara von Dezember bis März absolut notwendig.",
+              "Die Batterieleistung kann bei extremen Minustemperaturen sinken.",
+              "Fahren Sie in den steilen Gassen von Ulus besonders vorsichtig.",
+              "Halten Sie Enteisungsspray und einen Eiskratzer griffbereit."
+            ],
+            "hu": [
+              "A téli gumi Ankarában decembertől márciusig kötelező jellegű.",
+              "Az akkumulátor teljesítménye jelentősen csökkenhet extrém hidegben.",
+              "Vezessen különösen óvatosan Ulus meredek utcáin.",
+              "Tartson jégoldó spray-t és jégkaparót a kocsiban."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt absolut necesare în Ankara din decembrie până în martie.",
+              "Performanța bateriei poate scădea la temperaturi extrem de scăzute.",
+              "Conduceți cu mare atenție pe străzile abrupte din Ulus.",
+              "Aveți la îndemână spray de dezghețare și o răzuitoare de gheață."
+            ],
+            "en": [
+              "Winter tires are absolutely necessary in Ankara from December to March.",
+              "Battery performance can drop in extreme freezing temperatures.",
+              "Drive with extra caution on the steep alleys of Ulus.",
+              "Keep de-icing spray and an ice scraper handy in the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1340,6 +1904,206 @@
           "Plan your routes in advance with a public transport app, as the network can be complex.",
           "During rush hours, buses and metros can be very crowded."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie Ankaras Metrosystem, um bei Regen trocken zu bleiben. Starten Sie an der Hacı Bayram Moschee und den römischen Bädern in Ulus. Die Metro bringt Sie schnell in die Nähe der Burg und zum Gençlik Park. Besuchen Sie den Anıtkabir und die Kocatepe-Moschee, bevor Sie den Tag am Atakule ausklingen lassen, der gut mit dem Bus erreichbar ist.",
+            "hu": "Használja Ankara metróhálózatát, hogy száraz maradjon az esőben. Kezdjen az ulusi Hacı Bayram mecsetnél és a római fürdőknél. A metró gyorsan elviszi a vár és a Gençlik park közelébe. Látogasson el az Anıtkabirhoz és a Kocatepe mecsethez, majd zárja a napot az Atakule-nál, amely busszal jól megközelíthető.",
+            "ro": "Folosiți rețeaua de metrou din Ankara pentru a rămâne uscat pe ploaie. Începeți la Moscheea Hacı Bayram și Băile Romane din Ulus. Metroul vă duce rapid lângă castel și Parcul Gençlik. Vizitați Anıtkabir și Moscheea Kocatepe, apoi încheiați ziua la Atakule, accesibil ușor cu autobuzul.",
+            "en": "Utilize Ankara's metro system to stay dry in the rain. Start at Hacı Bayram Mosque and Roman Baths in Ulus. The metro gets you close to the Castle and Gençlik Park quickly. Visit Anıtkabir and Kocatepe Mosque before ending the day at Atakule, which is well-connected by bus."
+          },
+          "stops": [
+            {
+              "name": "Hacı Bayram Mosque",
+              "tip_5lang": {
+                "de": "Die Metrostation Ulus ist nur wenige Gehminuten entfernt.",
+                "hu": "Az Ulus metróállomás csak pár perc sétára van.",
+                "ro": "Stația de metrou Ulus este la doar câteva minute de mers pe jos.",
+                "en": "Ulus metro station is only a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Roman Baths",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um auf den Bus zu warten.",
+                "hu": "Használja a fedett bejárati részt, amíg a buszra vár.",
+                "ro": "Folosiți zona de intrare acoperită în timp ce așteptați autobuzul.",
+                "en": "Use the covered entrance area while waiting for the bus."
+              }
+            },
+            {
+              "name": "Ankara Castle",
+              "tip_5lang": {
+                "de": "Vom Ulus-Platz aus fahren kleine Minibusse (Dolmuş) fast bis zum Burgtor.",
+                "hu": "Az Ulus térről kisbuszok (dolmuş) járnak szinte a várkapuig.",
+                "ro": "Din Piața Ulus, microbuzele (dolmuş) circulă aproape până la poarta castelului.",
+                "en": "From Ulus Square, small minibuses (dolmuş) run almost to the castle gate."
+              }
+            },
+            {
+              "name": "Gençlik Park",
+              "tip_5lang": {
+                "de": "Die Metrostation Ulus hat einen direkten Ausgang zum Park.",
+                "hu": "Az Ulus metróállomásnak közvetlen kijárata van a parkhoz.",
+                "ro": "Stația de metrou Ulus are o ieșire directă spre parc.",
+                "en": "Ulus metro station has a direct exit leading to the park."
+              }
+            },
+            {
+              "name": "Anıtkabir",
+              "tip_5lang": {
+                "de": "Die Metrostation Anadolu (Tandoğan) ist der beste Zugangspunkt.",
+                "hu": "Az Anadolu (Tandoğan) metróállomás a legjobb hozzáférési pont.",
+                "ro": "Stația de metrou Anadolu (Tandoğan) este cel mai bun punct de acces.",
+                "en": "Anadolu (Tandoğan) metro station is the best access point."
+              }
+            },
+            {
+              "name": "Kocatepe Mosque",
+              "tip_5lang": {
+                "de": "Von der Metrostation Kızılay ist es ein kurzer, aber steiler Fußweg.",
+                "hu": "A Kızılay metróállomástól rövid, de meredek séta.",
+                "ro": "De la stația de metrou Kızılay este o plimbare scurtă, dar abruptă.",
+                "en": "It is a short but steep walk from the Kızılay metro station."
+              }
+            },
+            {
+              "name": "Atakule",
+              "tip_5lang": {
+                "de": "Zahlreiche Buslinien fahren von Kızılay direkt zum Atakule.",
+                "hu": "Számos buszjárat indul Kızılay-tól közvetlenül az Atakule-hoz.",
+                "ro": "Numeroase linii de autobuz merg de la Kızılay direct la Atakule.",
+                "en": "Numerous bus lines run from Kızılay directly to Atakule."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie eine AnkaraKart für alle öffentlichen Verkehrsmittel.",
+              "Die Metros sind bei Regen oft voll, aber zuverlässig trocken.",
+              "Nutzen Sie die App EGO CEP'TE für Echtzeit-Buszeiten.",
+              "Unterführungen an großen Kreuzungen sind gute Orte, um Regengüsse abzuwarten."
+            ],
+            "hu": [
+              "Vásároljon AnkaraKartot minden tömegközlekedési eszközhöz.",
+              "A metrók esőben gyakran zsúfoltak, de megbízhatóan szárazak.",
+              "Használja az EGO CEP'TE alkalmazást a buszok valós idejű követéséhez.",
+              "A nagyobb csomópontok aluljárói jó helyek a hirtelen záporok kivárására."
+            ],
+            "ro": [
+              "Cumpărați un AnkaraKart pentru toate mijloacele de transport public.",
+              "Metrourile sunt adesea aglomerate pe ploaie, dar sunt uscate și sigure.",
+              "Folosiți aplicația EGO CEP'TE pentru orele autobuzelor în timp real.",
+              "Pasajele subterane din marile intersecții sunt locuri bune pentru a aștepta trecerea ploii."
+            ],
+            "en": [
+              "Purchase an AnkaraKart for all public transportation usage.",
+              "Metros are often crowded during rain but stay reliably dry.",
+              "Use the EGO CEP'TE app for real-time bus tracking.",
+              "Underpasses at major intersections are good spots to wait out heavy showers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Ankara im Winter mit den warmen Metros und Bussen. Beginnen Sie in Ulus bei der Hacı Bayram Moschee. Die öffentlichen Verkehrsmittel ersparen Ihnen lange Wege in der Kälte zwischen der Burg, dem Anıtkabir und der Kocatepe-Moschee. Den Abend verbringen Sie im Atakule, während Sie die Aussicht auf die verschneite Stadt genießen.",
+            "hu": "Fedezze fel a téli Ankarát a meleg metrók és buszok segítségével. Kezdjen Ulusban a Hacı Bayram mecsetnél. A tömegközlekedés megkíméli a hosszú hideg sétáktól a vár, az Anıtkabir és a Kocatepe mecset között. Az estét töltse az Atakule-nál, élvezve a kilátást a havas városra.",
+            "ro": "Descoperiți Ankara iarna cu ajutorul metroului și autobuzelor încălzite. Începeți în Ulus la Moscheea Hacı Bayram. Transportul public vă scutește de plimbările lungi în frig între castel, Anıtkabir și Moscheea Kocatepe. Petreceți seara la Atakule, admirând vederea peste orașul înzăpezit.",
+            "en": "Explore winter Ankara using the warm metros and buses. Start in Ulus at Hacı Bayram Mosque. Public transport saves you from long walks in the cold between the Castle, Anıtkabir, and Kocatepe Mosque. Spend the evening at Atakule, enjoying the view of the snow-covered city."
+          },
+          "stops": [
+            {
+              "name": "Hacı Bayram Mosque",
+              "tip_5lang": {
+                "de": "Die Metrostationen sind im Winter gut beheizt.",
+                "hu": "A metróállomások télen jól fűtöttek.",
+                "ro": "Stațiile de metrou sunt bine încălzite iarna.",
+                "en": "Metro stations are well-heated during the winter months."
+              }
+            },
+            {
+              "name": "Roman Baths",
+              "tip_5lang": {
+                "de": "Warten Sie in der nahen Metro-Unterführung, falls der Bus Verspätung hat.",
+                "hu": "Várjon a közeli metró-aluljáróban, ha késik a busz.",
+                "ro": "Așteptați în pasajul de metrou din apropiere dacă autobuzul întârzie.",
+                "en": "Wait in the nearby metro underpass if the bus is delayed."
+              }
+            },
+            {
+              "name": "Ankara Castle",
+              "tip_5lang": {
+                "de": "Dolmuş-Fahrer kennen die schneesicheren Wege zur Burg am besten.",
+                "hu": "A dolmuş-sofőrök ismerik a legjobban a hómentes utakat a várba.",
+                "ro": "Șoferii de dolmuş cunosc cel mai bine drumurile curățate spre castel.",
+                "en": "Dolmuş drivers know the snow-cleared routes to the Castle best."
+              }
+            },
+            {
+              "name": "Gençlik Park",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht im Winter; die Metro bringt Sie schnell weiter.",
+                "hu": "Télen elég egy rövid megálló; a metró gyorsan viszi tovább.",
+                "ro": "O oprire scurtă e suficientă iarna; metroul vă duce repede mai departe.",
+                "en": "A short stop is enough in winter; the metro will whisk you away quickly."
+              }
+            },
+            {
+              "name": "Anıtkabir",
+              "tip_5lang": {
+                "de": "Die Ankaray-Metro ist im Winter oft weniger überfüllt als Busse.",
+                "hu": "Az Ankaray metró télen gyakran kevésbé zsúfolt, mint a buszok.",
+                "ro": "Metroul Ankaray este adesea mai puțin aglomerat decât autobuzele iarna.",
+                "en": "The Ankaray metro is often less crowded than buses in winter."
+              }
+            },
+            {
+              "name": "Kocatepe Mosque",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis an den Bus-Haltestellen in Kızılay.",
+                "hu": "Ügyeljen a jegesedésre a Kızılay buszmegállóinál.",
+                "ro": "Atenție la gheață în stațiile de autobuz din Kızılay.",
+                "en": "Watch out for ice at the bus stops in Kızılay."
+              }
+            },
+            {
+              "name": "Atakule",
+              "tip_5lang": {
+                "de": "Die Busse zum Atakule sind im Winter eine warme Alternative zum Laufen.",
+                "hu": "Az Atakule-hoz járó buszok télen meleg alternatívát nyújtanak a gyaloglás helyett.",
+                "ro": "Autobuzele spre Atakule sunt o alternativă caldă la mersul pe jos iarna.",
+                "en": "Buses to Atakule are a warm alternative to walking in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie bei Schneefall mehr Zeit für Busverbindungen ein.",
+              "Die Metrostationen Kızılay und Ulus sind wichtige Knotenpunkte mit Kiosken.",
+              "Vermeiden Sie es, lange im Freien auf Busse zu warten; nutzen Sie Apps.",
+              "Tragen Sie griffige Schuhe für den Weg zwischen Station und Sehenswürdigkeit."
+            ],
+            "hu": [
+              "Havazás esetén számoljon több idővel a buszjáratoknál.",
+              "Kızılay és Ulus metróállomások fontos csomópontok büfékkel.",
+              "Kerülje a hosszú várakozást a buszmegállókban; használja az alkalmazásokat.",
+              "Viseljen tapadós talpú cipőt az állomások és a látnivalók közötti szakaszokon."
+            ],
+            "ro": [
+              "Rezervați-vă mai mult timp pentru autobuze în caz de ninsoare.",
+              "Stațiile de metrou Kızılay și Ulus sunt noduri importante cu chioșcuri.",
+              "Evitați așteptarea lungă în stațiile de autobuz; folosiți aplicațiile.",
+              "Purtați încălțăminte cu aderență pentru drumul dintre stație și obiective."
+            ],
+            "en": [
+              "Allow extra time for bus connections if it is snowing.",
+              "Kızılay and Ulus metro stations are major hubs with kiosks.",
+              "Avoid waiting long periods outside for buses; use tracking apps.",
+              "Wear high-grip shoes for the walk between stations and sights."
+            ]
+          }
+        }
       }
     }
   }

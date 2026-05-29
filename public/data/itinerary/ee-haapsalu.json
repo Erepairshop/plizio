@@ -379,6 +379,206 @@
           "Many cafes offer free Wi-Fi if you need to check a map.",
           "Plan some time to just wander and admire the wooden houses."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in den dicken Mauern der Bischofsburg, wo das Museum trockene Erkundungen bietet. Mittags tauchen wir in die Fantasiewelt von Ilons Wunderland ein, ideal um dem Regen zu entfliehen. Am Nachmittag führt der Weg entlang der Promenade, wobei der Kursaal einen eleganten Unterschlupf bietet. Der Tag endet am Bahnhof unter dem berühmten, extralangen überdachten Bahnsteig.",
+            "hu": "A reggel a püspöki vár vastag falai között indul, ahol a múzeum száraz menedéket nyújt az eső elől. Délben az Ilon Csodországa belső terei kínálnak vidám kikapcsolódást. Délután a tengerparti sétányon a Kursaal épülete szolgál elegáns rejtekhelyként. A napot a vasútállomás monumentális, fedett peronja alatt zárjuk, ahol egyáltalán nem ér el az égi áldás.",
+            "ro": "Dimineața începe la adăpostul zidurilor groase ale Castelului Episcopal, unde muzeul oferă explorări uscate. La prânz, ne retragem în lumea fanteziei de la Ilon's Wonderland, ideală pentru a evita ploaia. După-amiaza, pe faleză, Kursaal oferă un refugiu elegant cu vedere la mare. Ziua se încheie la gară, sub faimosul peron acoperit, unul dintre cele mai lungi din Europa.",
+            "en": "The morning begins sheltered within the thick walls of the Bishop's Castle, where the museum offers dry exploration. At noon, we dive into the fantasy world of Ilon's Wonderland, perfect for escaping the rain. In the afternoon, the promenade walk includes a stop at the Kursaal for an elegant indoor break. The day ends at the railway station under the iconic, extra-long covered platform."
+          },
+          "stops": [
+            {
+              "name": "Haapsalu Bishop's Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume der Burgruine und das Museum als Regenschutz.",
+                "hu": "Használja a vár belső tereit és a múzeumot eső elleni menedékként.",
+                "ro": "Folosiți interiorul castelului și muzeul ca adăpost împotriva ploii.",
+                "en": "Use the castle's interior spaces and the museum as shelter from the rain."
+              }
+            },
+            {
+              "name": "St. John's Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort für eine kurze Besichtigung während eines Schauers.",
+                "hu": "Csendes, száraz hely egy rövid látogatásra a záporok idején.",
+                "ro": "Un loc liniștit și uscat pentru o scurtă vizită în timpul unei averse.",
+                "en": "A quiet, dry place for a brief visit during rain showers."
+              }
+            },
+            {
+              "name": "Ilon's Wonderland",
+              "tip_5lang": {
+                "de": "Das gesamte Zentrum ist überdacht und perfekt für regnerische Stunden.",
+                "hu": "A teljes központ fedett, tökéletes választás esős órákra.",
+                "ro": "Întregul centru este acoperit, fiind perfect pentru orele ploioase.",
+                "en": "The entire center is indoors, making it perfect for rainy hours."
+              }
+            },
+            {
+              "name": "Haapsalu Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht, die Holzstege können bei Nässe rutschig sein. Regenschirm fest halten.",
+                "hu": "Vigyázat, a fapallók nedvesen csúszhatnak. Erős szélben az esernyő veszélyes lehet.",
+                "ro": "Atenție, podețele de lemn pot fi alunecoase. țineți bine umbrela pe vânt.",
+                "en": "Caution: wooden paths can be slippery when wet. Hold your umbrella firmly."
+              }
+            },
+            {
+              "name": "Haapsalu Kursaal",
+              "tip_5lang": {
+                "de": "Genießen Sie einen Kaffee im Inneren des historischen Holzgebäudes.",
+                "hu": "Élvezzen egy kávét a történelmi faépület belső terében.",
+                "ro": "Savurați o cafea în interiorul clădirii istorice din lemn.",
+                "en": "Enjoy a coffee inside the historic wooden building."
+              }
+            },
+            {
+              "name": "Tchaikovsky's Bench",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; das Denkmal ist ungeschützt, also schnell sein.",
+                "hu": "Gyors fotómegálló; az emlékmű fedetlen, így érdemes sietni.",
+                "ro": "Scurt popas foto; monumentul este expus, deci fiți rapizi.",
+                "en": "Quick photo stop; the monument is unsheltered, so be fast."
+              }
+            },
+            {
+              "name": "Haapsalu Railway Station",
+              "tip_5lang": {
+                "de": "Der extrem lange Bahnsteig ist komplett überdacht und trocken.",
+                "hu": "Az extrém hosszú peron teljesen fedett és száraz.",
+                "ro": "Peronul extrem de lung este complet acoperit și uscat.",
+                "en": "The extremely long platform is completely covered and dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Ostsee-Winde können Regenschirme leicht beschädigen; eine robuste Regenjacke ist vorzuziehen.",
+              "Der Bahnsteig am Bahnhof bietet fast 200 Meter regengeschützten Gehweg.",
+              "Vermeiden Sie die Uferkante bei starkem Wind, da Gischt auf die Wege peitschen kann.",
+              "Haapsalu ist bekannt für seinen Heilschlamm – ein Spa-Besuch ist die beste Regenalternative."
+            ],
+            "hu": [
+              "A tengeri szél könnyen kifordíthatja az esernyőt, a vízhatlan kabát jobb választás.",
+              "A vasútállomás peronja majdnem 200 méternyi fedett sétalehetőséget biztosít.",
+              "Erős szélben kerülje a part közvetlen szélét a felcsapó víz miatt.",
+              "Haapsalu híres a gyógyiszapjáról – egy fürdőzés a legjobb esőprogram."
+            ],
+            "ro": [
+              "Vântul marin poate distruge ușor umbrelele; o jachetă impermeabilă este de preferat.",
+              "Peronul gării oferă aproape 200 de metri de promenadă acoperită.",
+              "Evitați marginea falezei în timpul vântului puternic din cauza valurilor care lovesc țărmul.",
+              "Haapsalu este faimos pentru nămolul terapeutic – o vizită la spa este alternativa ideală."
+            ],
+            "en": [
+              "Baltic winds can easily flip umbrellas; a sturdy raincoat is a much better option.",
+              "The railway station platform provides nearly 200 meters of sheltered walking space.",
+              "Avoid the very edge of the promenade during high winds to stay dry from sea spray.",
+              "Haapsalu is famous for its curative mud – a spa visit is the perfect rainy day backup."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Bahnhof wirkt wie aus einem Märchen, wenn der Reif auf den Schienen glitzert. Mittags bieten die Museen in der Burg und Ilons Wunderland wohlige Wärme gegen den estnischen Frost. Am frühen Nachmittag färbt die tiefstehende Sonne die Promenade in magisches Licht, bevor es um 16 Uhr dunkel wird. Den Abend verbringt man am besten gemütlich in der Altstadt bei einem Heißgetränk.",
+            "hu": "A téli reggel a vasútállomáson olyan, mint egy tündérmese, amikor a zúzmara csillog a síneken. Napközben a vár múzeuma és az Ilon Csodországa nyújt meleg menedéket az észt fagy elől. Kora délután az alacsonyan járó nap mágikus fénybe vonja a sétányt, mielőtt 16 órakor leszállna az éj. Az estét érdemes az óváros egyik hangulatos kávézójában tölteni.",
+            "ro": "O dimineață de iarnă la gară pare desprinsă din basme când chiciura sclipește pe șine. La prânz, muzeele din castel și Ilon's Wonderland oferă căldură împotriva gerului eston. După-amiaza devreme, soarele jos colorează faleza în lumini magice înainte ca întunericul să se lase la ora 16. Seara se petrece cel mai bine în centrul vechi, cu o băutură caldă.",
+            "en": "A winter morning at the station feels like a fairytale with frost glistening on the tracks. During the day, the castle museum and Ilon's Wonderland provide cozy warmth against the Estonian frost. In the early afternoon, the low sun paints the promenade in magical light before darkness falls at 4 PM. The evening is best spent in a cozy old town cafe with a hot drink."
+          },
+          "stops": [
+            {
+              "name": "Haapsalu Bishop's Castle",
+              "tip_5lang": {
+                "de": "Die Burgmauern sind im Winter windig; besuchen Sie das beheizte Museum.",
+                "hu": "A várfalak télen nagyon szelesek; látogassa meg a fűtött múzeumot.",
+                "ro": "Zidurile castelului sunt vântoase iarna; vizitați muzeul încălzit.",
+                "en": "The castle walls are windy in winter; visit the heated museum inside."
+              }
+            },
+            {
+              "name": "St. John's Church",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille; achten Sie auf glatte Stufen am Eingang.",
+                "hu": "A nyugalom szigete; ügyeljen a jeges lépcsőkre a bejáratnál.",
+                "ro": "Un loc al liniștii; atenție la treptele înghețate de la intrare.",
+                "en": "A place of peace; watch out for icy steps at the entrance."
+              }
+            },
+            {
+              "name": "Ilon's Wonderland",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen, besonders für Familien mit Kindern.",
+                "hu": "Ideális hely a felmelegedésre, különösen kisgyermekes családoknak.",
+                "ro": "Ideal pentru încălzire, în special pentru familiile cu copii.",
+                "en": "Ideal for warming up, especially for families with children."
+              }
+            },
+            {
+              "name": "Haapsalu Promenade",
+              "tip_5lang": {
+                "de": "Die gefrorene Bucht bietet eine bizarre, wunderschöne Kulisse.",
+                "hu": "A befagyott öböl bizarr és gyönyörű látványt nyújt télen.",
+                "ro": "Golful înghețat oferă un peisaj bizar și superb iarna.",
+                "en": "The frozen bay offers a bizarre and beautiful winter backdrop."
+              }
+            },
+            {
+              "name": "Haapsalu Kursaal",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten; oft nur als Fotomotiv von außen.",
+                "hu": "Ellenőrizze a téli nyitvatartást; gyakran csak kívülről fotózható.",
+                "ro": "Verificați programul de iarnă; adesea este doar motiv foto exterior.",
+                "en": "Check winter opening hours; often only available as a photo op from outside."
+              }
+            },
+            {
+              "name": "Tchaikovsky's Bench",
+              "tip_5lang": {
+                "de": "Der Metallstuhl ist im Winter eiskalt – besser nicht zu lange sitzen!",
+                "hu": "A fém pad télen jéghideg – ne üljön rajta túl sokáig!",
+                "ro": "Banca metalică este extrem de rece iarna – nu stați prea mult!",
+                "en": "The metal bench is ice-cold in winter – don't sit for too long!"
+              }
+            },
+            {
+              "name": "Haapsalu Railway Station",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne beleuchtet die historische Holzarchitektur perfekt.",
+                "hu": "Az alacsony téli nap tökéletesen világítja meg a faépületet.",
+                "ro": "Soarele de iarnă luminează perfect arhitectura istorică din lemn.",
+                "en": "The low winter sun perfectly illuminates the historic wooden architecture."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht in Estland im Dezember bereits gegen 15:30 Uhr unter.",
+              "Tragen Sie Thermounterwäsche; der Wind vom Meer schneidet durch normale Kleidung.",
+              "Die Gehwege können glatt sein, besonders auf der Promenade am Wasser.",
+              "Warme Schuhe mit gutem Profil sind für die Erkundung der Burgruine essenziell."
+            ],
+            "hu": [
+              "Észtországban decemberben már délután fél 4 körül lemegy a nap.",
+              "Viseljen termő aláöltözetet; a tenger felőli szél átfúj a normál ruhán.",
+              "A járdák jegesek lehetnek, különösen a vízparti sétányon.",
+              "A várrom felfedezéséhez elengedhetetlen a meleg, jó tapadású bakancs."
+            ],
+            "ro": [
+              "Soarele apune în Estonia în decembrie în jurul orei 15:30.",
+              "Purtați lenjerie termică; vântul dinspre mare trece prin hainele obișnuite.",
+              "Trotuarele pot fi înghețate, mai ales pe faleza de lângă apă.",
+              "Încălțămintea călduroasă cu talpă aderentă este esențială pentru explorarea castelului."
+            ],
+            "en": [
+              "In December, the sun sets in Estonia as early as 3:30 PM.",
+              "Wear thermal layers; the sea wind can be biting and cuts through normal clothes.",
+              "Paths can be very icy, especially along the waterfront promenade.",
+              "Warm boots with good grip are essential for exploring the castle ruins."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -775,6 +975,224 @@
           "Most paths are flat and easy to ride, but watch out for pedestrians on the promenade.",
           "There are several bike rental shops in town if you don't bring your own."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Fahrradabenteuer startet regengeschützt am Bahnhof, bevor es zur Burg geht. Trotz Schauer sind die Wege in Haapsalu flach und gut befahrbar. Mittags bietet Ilons Wunderland eine trockene Pause. Die Fahrt zur Paralepa-Bucht führt durch schützende Kiefernwälder, die den Regen dämpfen. Der Tag endet bei einem gemütlichen Abendessen in der Altstadt, während man die nassen Straßen beobachtet.",
+            "hu": "A kerékpáros kaland esővédett helyen indul az állomáson, majd irány a vár. A záporok ellenére Haapsalu útjai síkak és jól bringázhatók. Délben az Ilon Csodországa nyújt száraz pihenőt. A Paralepa-öböl felé vezető út fenyőerdőkön át visz, amelyek felfogják az eső egy részét. A napot egy hangulatos óvárosi vacsorával zárjuk, figyelve a vizes aszfalton megcsillanó fényeket.",
+            "ro": "Aventura pe bicicletă începe protejat la gară, apoi continuăm spre castel. În ciuda ploii, drumurile din Haapsalu sunt plate și ușor de parcurs. La prânz, Ilon's Wonderland oferă o pauză uscată. Drumul spre golful Paralepa trece prin păduri de pini care atenuează ploaia. Ziua se încheie cu o cină caldă în centrul vechi, privind străzile ude și lucioase.",
+            "en": "The cycling adventure starts sheltered at the station before heading to the castle. Despite the rain, Haapsalu's paths are flat and easy to ride. At noon, Ilon's Wonderland provides a dry break. The ride to Paralepa Bay goes through pine forests that dampen the rainfall. The day ends with a cozy dinner in the old town, watching the lights reflect on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": "Haapsalu Railway Station",
+              "tip_5lang": {
+                "de": "Starten Sie unter dem langen Bahnsteigdach, um das Equipment zu prüfen.",
+                "hu": "Kezdje a túrát a hosszú peron alatt, itt ellenőrizheti a felszerelést.",
+                "ro": "Începeți sub peronul lung pentru a verifica echipamentul la uscat.",
+                "en": "Start under the long platform roof to check your gear in the dry."
+              }
+            },
+            {
+              "name": "Haapsalu Bishop's Castle",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Torbögen ab, um den Sattel trocken zu halten.",
+                "hu": "Parkoljon a boltívek alatt, hogy a nyereg száraz maradjon.",
+                "ro": "Parcați sub arcade pentru a menține șaua uscată.",
+                "en": "Park under the archways to keep your saddle dry."
+              }
+            },
+            {
+              "name": "Ilon's Wonderland",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um Regenkleidung kurz zu lüften.",
+                "hu": "Használja ki a múzeumlátogatást az esőruházat átszellőztetésére.",
+                "ro": "Folosiți vizita la muzeu pentru a lăsa hainele de ploaie să se usuce.",
+                "en": "Use the museum visit as a chance to let your rain gear breathe."
+              }
+            },
+            {
+              "name": "Haapsalu Promenade",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Holzabschnitten; Rutschgefahr bei Nässe.",
+                "hu": "Óvatosan hajtson a fapallókon; nedvesen fokozottan csúsznak.",
+                "ro": "Mergeți cu atenție pe porțiunile de lemn; risc de derapare pe ud.",
+                "en": "Ride carefully on the wooden sections; high slip risk when wet."
+              }
+            },
+            {
+              "name": "Haapsalu Kursaal",
+              "tip_5lang": {
+                "de": "Kurze Kaffeepause, um einen starken Regenschauer abzuwarten.",
+                "hu": "Rövid kávészünet, amíg megvárja a nagyobb zápor végét.",
+                "ro": "Scurtă pauză de cafea pentru a aștepta trecerea unei averse.",
+                "en": "Short coffee break to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Tchaikovsky's Bench",
+              "tip_5lang": {
+                "de": "Ein schneller Halt; bei Regen sind kaum andere Touristen hier.",
+                "hu": "Gyors megálló; esőben alig vannak itt más turisták.",
+                "ro": "Oprire rapidă; pe ploaie sunt foarte puțini turiști aici.",
+                "en": "A quick stop; you'll have the place to yourself in the rain."
+              }
+            },
+            {
+              "name": "Paralepa Beach",
+              "tip_5lang": {
+                "de": "Der Waldweg dorthin bietet natürlichen Schutz vor leichtem Regen.",
+                "hu": "Az oda vezető erdei út természetes védelmet nyújt a szemerkélő esőben.",
+                "ro": "Poteca prin pădure oferă protecție naturală împotriva ploii ușoare.",
+                "en": "The forest path provides natural shelter from light rain."
+              }
+            },
+            {
+              "name": "Dinner Restaurant",
+              "tip_5lang": {
+                "de": "Ein wohlverdienter trockener Abschluss des feuchten Radtages.",
+                "hu": "Megérdemelt száraz zárása a vizes kerékpáros napnak.",
+                "ro": "Un final uscat și binemeritat pentru o zi umedă pe bicicletă.",
+                "en": "A well-deserved dry finish to a wet day of cycling."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Pfützen; einige können tiefer sein, als sie aussehen.",
+              "Scheibenbremsen sind bei Nässe in der flachen Umgebung von Vorteil.",
+              "Schutzbleche am Fahrrad sind in Haapsalu bei Regen ein Muss.",
+              "Die Windrichtung kann sich an der Küste schnell ändern – Gegenwind einplanen."
+            ],
+            "hu": [
+              "Vigyázzon a tócsákkal; néhány mélyebb lehet, mint aminek látszik.",
+              "A tárcsafékek előnyt jelentenek a nedves, de sík terepen.",
+              "A sárvédő elengedhetetlen Haapsaluban, ha esik az eső.",
+              "A szélirány a parton gyorsan változhat – számoljon a szembeszéllel."
+            ],
+            "ro": [
+              "Atenție la bălți; unele pot fi mai adânci decât par la prima vedere.",
+              "Frânele pe disc sunt un avantaj pe terenul ud și plat din Haapsalu.",
+              "Apărătorile de noroi sunt obligatorii dacă pedalați pe ploaie aici.",
+              "Direcția vântului se poate schimba rapid pe coastă – atenție la vântul din față."
+            ],
+            "en": [
+              "Watch out for puddles; some can be deeper than they look on flat ground.",
+              "Disc brakes are a real advantage in the wet coastal environment.",
+              "Fenders (mudguards) are essential in Haapsalu when it's raining.",
+              "Wind direction changes quickly on the coast – plan for possible headwinds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im estnischen Winter erfordert Mut und gute Reifen. Der Bahnhof ist ein herrlicher, frostiger Startpunkt. Mittags wärmt man sich in den Museen der Altstadt auf, bevor man die eisige Promenade erkundet. Die Fahrt zur Paralepa-Bucht durch den verschneiten Wald ist anstrengend, aber wunderschön. Der Tag endet bei einem heißen Tee und deftigem Essen, um die verbrauchten Kalorien aufzufüllen.",
+            "hu": "A kerékpározás az észt télben bátorságot és jó gumikat igényel. Az állomás fagyos, de gyönyörű kiindulópont. Napközben az óvárosi múzeumokban melegedünk fel, mielőtt felfedeznénk a jeges sétányt. A túra a Paralepa-öbölhöz a havas erdőn át fárasztó, de lenyűgöző. A napot forró teával és bőséges vacsorával zárjuk a kalória-utánpótlás jegyében.",
+            "ro": "Ciclismul în iarna estonă necesită curaj și anvelope bune. Gara este un punct de plecare înghețat, dar superb. La prânz, ne încălzim în muzeele din centrul vechi înainte de a explora faleza înghețată. Drumul spre Paralepa prin pădurea înzăpezită este solicitant, dar minunat. Ziua se încheie cu un ceai fierbinte și o cină consistentă pentru recuperarea caloriilor.",
+            "en": "Cycling in the Estonian winter requires courage and good tires. The station is a frost-covered, beautiful starting point. During the day, warm up in the old town museums before exploring the icy promenade. The ride to Paralepa through the snowy forest is tiring but stunning. The day ends with hot tea and a hearty dinner to replenish your energy."
+          },
+          "stops": [
+            {
+              "name": "Haapsalu Railway Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; bei Kälte sinkt dieser oft.",
+                "hu": "Ellenőrizze a guminyomást; a hidegben ez gyakran lecsökken.",
+                "ro": "Verificați presiunea în anvelope; aceasta scade adesea la ger.",
+                "en": "Check your tire pressure; it often drops in cold temperatures."
+              }
+            },
+            {
+              "name": "Haapsalu Bishop's Castle",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisplatten im Innenhof der Burg.",
+                "hu": "Vigyázzon a jeges foltokkal a vár belső udvarán.",
+                "ro": "Atenție la plăcile de gheață din curtea interioară a castelului.",
+                "en": "Watch out for patches of ice in the castle's inner courtyard."
+              }
+            },
+            {
+              "name": "Ilon's Wonderland",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um die gefrorenen Finger wieder zu spüren.",
+                "hu": "Meleg hely, ahol újra érezni fogja átfagyott ujjait.",
+                "ro": "Un loc cald unde vă puteți dezgheța degetele amorțite.",
+                "en": "A warm place to regain feeling in your frozen fingers."
+              }
+            },
+            {
+              "name": "Haapsalu Promenade",
+              "tip_5lang": {
+                "de": "Atemberaubende Aussicht auf das Packeis, aber extrem windig.",
+                "hu": "Lélegzetelállító kilátás a zajló jégre, de rendkívül szeles.",
+                "ro": "Vedere uimitoare spre gheața din golf, dar extrem de vântos.",
+                "en": "Stunning views of the pack ice, but extremely windy."
+              }
+            },
+            {
+              "name": "Haapsalu Kursaal",
+              "tip_5lang": {
+                "de": "Das filigrane Holzgebäude wirkt im Schnee besonders fotogen.",
+                "hu": "A finom fafaragású épület a hóban különösen fotogén.",
+                "ro": "Clădirea delicată din lemn arată deosebit de fotogenică în zăpadă.",
+                "en": "The delicate wooden building looks especially photogenic in the snow."
+              }
+            },
+            {
+              "name": "Tchaikovsky's Bench",
+              "tip_5lang": {
+                "de": "Stoppen Sie nur kurz für ein Foto; Metall leitet die Kälte stark.",
+                "hu": "Csak egy fotóra álljon meg; a fém nagyon vezeti a hideget.",
+                "ro": "Opriți doar pentru o poză; metalul conduce puternic frigul.",
+                "en": "Stop only for a photo; metal conducts the cold very effectively."
+              }
+            },
+            {
+              "name": "Paralepa Beach",
+              "tip_5lang": {
+                "de": "Die Waldwege können verschneit sein; Mountainbike-Profil empfohlen.",
+                "hu": "Az erdei utak havasak lehetnek; terepmintás gumi ajánlott.",
+                "ro": "Potecile pot fi înzăpezite; se recomandă anvelope cu profil de munte.",
+                "en": "Forest paths may be snowy; mountain bike tires are recommended."
+              }
+            },
+            {
+              "name": "Dinner Restaurant",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz nah am Kamin, falls vorhanden.",
+                "hu": "Keressen egy helyet a kandalló közelében, ha van ilyen.",
+                "ro": "Căutați un loc lângă șemineu, dacă este disponibil.",
+                "en": "Find a spot near the fireplace if available."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrrad-Akkus entladen sich bei Frost deutlich schneller.",
+              "Vermeiden Sie hektische Lenkbewegungen auf möglicherweise vereisten Wegen.",
+              "Tragen Sie winddichte Handschuhe; die Finger kühlen beim Fahren extrem schnell aus.",
+              "In der Dämmerung ist gute Beleuchtung wegen des Schneematschs lebenswichtig."
+            ],
+            "hu": [
+              "Az elektromos kerékpárok akkumulátora sokkal gyorsabban merül fagyban.",
+              "Kerülje a hirtelen kormánymozdulatokat a jeges útszakaszokon.",
+              "Viseljen szélálló kesztyűt; az ujjak bringázás közben villámgyorsan lehűlnek.",
+              "Szürkületben a jó világítás életmentő a havas latyak miatt."
+            ],
+            "ro": [
+              "Bateriile bicicletelor electrice se descarcă mult mai repede la ger.",
+              "Evitați manevrele bruște de virare pe drumurile posibil înghețate.",
+              "Purtați mănuși rezistente la vânt; degetele îngheață extrem de rapid la pedalat.",
+              "La amurg, iluminarea bună este vitală din cauza amestecului de zăpadă și noroi."
+            ],
+            "en": [
+              "E-bike batteries drain significantly faster in freezing temperatures.",
+              "Avoid sudden steering movements on potentially icy paths.",
+              "Wear windproof gloves; your fingers will cool down extremely fast while riding.",
+              "Good lighting is vital at twilight due to the gray slush and snow."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1155,6 +1573,206 @@
           "A GPS is useful for navigating the small roads outside the town center.",
           "Keep some change handy for parking meters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Haapsalu auch bei Regen komfortabel. Der Morgen beginnt am historischen Bahnhof, wo man direkt am Bahnsteig parkt. Danach geht es zum Paralepa-Strand, um die stürmische See aus dem warmen Wagen zu beobachten. Die Altstadt erkunden wir mit kurzen Wegen zwischen den Parkplätzen der Burg und Museen. Ein gemütliches Abendessen rundet den Tag trocken und entspannt ab.",
+            "hu": "Autóval Haapsalu esőben is kényelmes. A reggel a történelmi vasútállomáson indul, ahol közvetlenül a peron mellett parkolhatunk. Ezután a Paralepa-strandra hajtunk, hogy a meleg kocsiból figyeljük a viharos tengert. Az óvárost a vár és a múzeumok közeli parkolói közötti rövid sétákkal fedezzük fel. Egy hangulatos vacsora zárja a napot, szárazon és pihentetően.",
+            "ro": "Cu mașina, Haapsalu este confortabil chiar și pe ploaie. Dimineața începe la gara istorică, unde puteți parca chiar lângă peron. Apoi mergem la plaja Paralepa pentru a observa marea agitată din mașina caldă. Explorăm centrul vechi cu plimbări scurte între parcările de la castel și muzee. O cină plăcută încheie ziua într-un mod relaxant și uscat.",
+            "en": "Haapsalu is very comfortable by car even in the rain. The morning starts at the historic station, parking right next to the covered platform. Then we drive to Paralepa beach to watch the stormy sea from the warmth of the car. We explore the old town with short walks between the castle and museum parking lots. A cozy dinner ends the day dry and relaxed."
+          },
+          "stops": [
+            {
+              "name": "Haapsalu Railway Station",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Gebäude, um den Regen beim Aussteigen zu vermeiden.",
+                "hu": "Parkoljon közel az épülethez, hogy elkerülje az esőt kiszálláskor.",
+                "ro": "Parcați aproape de clădire pentru a evita ploaia la coborâre.",
+                "en": "Park close to the building to avoid the rain when getting out."
+              }
+            },
+            {
+              "name": "Paralepa Beach & Parking",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Bucht gemütlich vom Fahrersitz aus.",
+                "hu": "Élvezze az öbölre nyíló kilátást kényelmesen a vezetőülésből.",
+                "ro": "Bucurați-vă de priveliștea golfului din confortul scaunului șoferului.",
+                "en": "Enjoy the view of the bay comfortably from the driver's seat."
+              }
+            },
+            {
+              "name": "Castle Parking Area",
+              "tip_5lang": {
+                "de": "Zentraler Punkt; lassen Sie Schirme im Auto für kurze Wege bereit.",
+                "hu": "Központi pont; tartsa az esernyőket kéznél a rövid sétákhoz.",
+                "ro": "Punct central; țineți umbrelele la îndemână pentru drumurile scurte.",
+                "en": "Central point; keep umbrellas ready for the short walks to sights."
+              }
+            },
+            {
+              "name": "Haapsalu Bishop's Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Haupteingang für schnellen Zugang zum Museum.",
+                "hu": "Használja a főbejáratot a múzeum gyors eléréséhez.",
+                "ro": "Folosiți intrarea principală pentru acces rapid la muzeu.",
+                "en": "Use the main entrance for quick access to the museum interior."
+              }
+            },
+            {
+              "name": "St. John's Church",
+              "tip_5lang": {
+                "de": "Parkplätze befinden sich in unmittelbarer Nähe zum Kircheneingang.",
+                "hu": "Parkolóhelyek közvetlenül a templombejárat közelében találhatók.",
+                "ro": "Locurile de parcare sunt situate în imediata apropiere a intrării.",
+                "en": "Parking spaces are located in the immediate vicinity of the entrance."
+              }
+            },
+            {
+              "name": "Haapsalu Promenade & Kursaal",
+              "tip_5lang": {
+                "de": "Parken Sie am Ende der Posti-Straße für den kürzesten Weg zum Kursaal.",
+                "hu": "Parkoljon a Posti utca végén a Kursaal leggyorsabb eléréséhez.",
+                "ro": "Parcați la capătul străzii Posti pentru cel mai scurt drum spre Kursaal.",
+                "en": "Park at the end of Posti Street for the shortest walk to the Kursaal."
+              }
+            },
+            {
+              "name": "Dinner in the Old Town",
+              "tip_5lang": {
+                "de": "Viele Restaurants bieten Parkplätze direkt vor der Tür.",
+                "hu": "Sok étterem kínál parkolóhelyet közvetlenül az ajtó előtt.",
+                "ro": "Multe restaurante oferă locuri de parcare chiar în față.",
+                "en": "Many restaurants offer parking right in front of the door."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der schmalen Straße nach Paralepa.",
+              "Die Parkplätze in der Altstadt können bei Regen matschig sein.",
+              "Nutzen Sie die Sitzheizung, um nach kurzen Spaziergängen schnell aufzuwärmen.",
+              "Die Sicht kann durch salzhaltige Gischt am Auto schnell beeinträchtigt werden."
+            ],
+            "hu": [
+              "Vigyázzon a felúszásra (aquaplaning) a Paralepa felé vezető keskeny úton.",
+              "Az óvárosi parkolók esőben sarasak lehetnek.",
+              "Használja az ülésfűtést a gyors felmelegedéshez a rövid séták után.",
+              "A sós tengeri permet miatt a szélvédő gyorsan koszolódhat."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul îngust spre Paralepa.",
+              "Parcările din centrul vechi pot deveni noroioase pe ploaie.",
+              "Folosiți încălzirea în scaune pentru a vă încălzi rapid după plimbări.",
+              "Vizibilitatea poate fi afectată rapid de resturile de sare aduse de mare."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the narrow road leading to Paralepa.",
+              "Old town parking lots can get muddy during heavy rain.",
+              "Use seat heaters to warm up quickly after your short walks outside.",
+              "Visibility can be reduced by salt spray from the sea on your windshield."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit dem Auto in Haapsalu ist sicher und warm. Wir starten am Bahnhof, dessen Holzdetails im Frost wunderschön aussehen. Danach geht es zum verschneiten Paralepa-Strand für einen kurzen, knackigen Spaziergang. Die Burg und Museen sind dank naher Parkplätze gut erreichbar. Die beleuchtete Promenade bietet am Nachmittag ein tolles Panorama, bevor man sich zum Abendessen in die Wärme zurückzieht.",
+            "hu": "Egy téli nap autóval Haapsaluban biztonságos és meleg. Az állomáson kezdünk, melynek fadíszei csodásak a zúzmarában. Ezután a havas Paralepa-strandra hajtunk egy rövid, frissítő sétára. A vár és a múzeumok a közeli parkolók miatt könnyen elérhetők. A kivilágított sétány délután pazar panorámát nyújt, mielőtt visszavonulnánk vacsorázni a melegbe.",
+            "ro": "O zi de iarnă cu mașina în Haapsalu este sigură și călduroasă. Începem la gară, ale cărei detalii din lemn arată superb în chiciură. Apoi mergem la plaja înzăpezită Paralepa pentru o scurtă plimbare revigorantă. Castelul și muzeele sunt ușor accesibile datorită parcărilor apropiate. Faleza iluminată oferă o panoramă grozavă după-amiaza înainte de cină.",
+            "en": "A winter day by car in Haapsalu is safe and warm. We start at the station, where the wooden details look beautiful in the frost. Then we head to the snowy Paralepa beach for a short, crisp walk. The castle and museums are easily accessible thanks to nearby parking. The illuminated promenade offers a great afternoon panorama before retreating for dinner."
+          },
+          "stops": [
+            {
+              "name": "Haapsalu Railway Station",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz laufen, um die Scheiben komplett zu enteisen.",
+                "hu": "Hagyja járni a motort kicsit, hogy a szélvédő teljesen leolvadjon.",
+                "ro": "Lăsați motorul pornit puțin pentru a dezgheța complet geamurile.",
+                "en": "Let the engine run for a bit to completely defrost the windows."
+              }
+            },
+            {
+              "name": "Paralepa Beach & Parking",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneeverwehungen auf dem Parkplatz am Strand.",
+                "hu": "Vigyázzon a hóátfúvásokkal a tengerparti parkolóban.",
+                "ro": "Atenție la troienele de zăpadă din parcarea de lângă plajă.",
+                "en": "Watch out for snowdrifts in the beach parking lot."
+              }
+            },
+            {
+              "name": "Castle Parking Area",
+              "tip_5lang": {
+                "de": "Der Boden kann unter dem Neuschnee vereist sein. Vorsicht!",
+                "hu": "A talaj a friss hó alatt jeges lehet. Vigyázzon a kiszállásnál!",
+                "ro": "Solul poate fi înghețat sub zăpada proaspătă. Atenție!",
+                "en": "The ground under fresh snow can be icy. Be careful when exiting!"
+              }
+            },
+            {
+              "name": "Haapsalu Bishop's Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen im Inneren, um sich aufzuwärmen.",
+                "hu": "Látogassa meg a belső kiállításokat a felmelegedéshez.",
+                "ro": "Vizitați expozițiile din interior pentru a vă încălzi.",
+                "en": "Visit the exhibitions inside to warm up."
+              }
+            },
+            {
+              "name": "St. John's Church",
+              "tip_5lang": {
+                "de": "Die kleine Kirche ist im Winter oft stimmungsvoll beleuchtet.",
+                "hu": "A kis templom télen gyakran hangulatosan van kivilágítva.",
+                "ro": "Mica biserică este adesea iluminată feeric pe timp de iarnă.",
+                "en": "The small church is often atmospherically lit in winter."
+              }
+            },
+            {
+              "name": "Haapsalu Promenade & Kursaal",
+              "tip_5lang": {
+                "de": "Die Promenade ist geräumt, aber am Wasserrand kann es glatt sein.",
+                "hu": "A sétány takarítva van, de a víz szélén csúszhat.",
+                "ro": "Faleza este curățată, dar poate fi alunecoasă lângă apă.",
+                "en": "The promenade is cleared, but it can be slippery near the water's edge."
+              }
+            },
+            {
+              "name": "Dinner in the Old Town",
+              "tip_5lang": {
+                "de": "Parken Sie in beleuchteten Bereichen, da es früh dunkel wird.",
+                "hu": "Parkoljon kivilágított helyen, mivel korán sötétedik.",
+                "ro": "Parcați în zone iluminate, deoarece se întunecă devreme.",
+                "en": "Park in well-lit areas, as it gets dark very early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Estland von Dezember bis März gesetzlich vorgeschrieben.",
+              "Führen Sie einen Eiskratzer und eventuell eine kleine Schneeschaufel mit.",
+              "Batterieprüfung vor der Fahrt empfohlen, da Haapsalu im Winter sehr kalt sein kann.",
+              "Die Posti-Straße und die Altstadt werden meist gut geräumt."
+            ],
+            "hu": [
+              "Észtországban decembertől márciusig kötelező a téli gumi.",
+              "Legyen önnél jégkaparó és esetleg egy kis hólapát a kocsiban.",
+              "Indulás előtt ellenőrizze az akkumulátort, mert Haapsalu nagyon hideg lehet.",
+              "A Posti utca és az óváros útjait általában jól takarítják."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Estonia din decembrie până în martie.",
+              "Aveți la îndemână o răzuitoare de gheață și eventual o lopată mică.",
+              "Verificați bateria înainte de drum; Haapsalu poate fi foarte rece iarna.",
+              "Strada Posti și centrul vechi sunt de obicei bine deszăpezite."
+            ],
+            "en": [
+              "Winter tires are mandatory in Estonia from December to March.",
+              "Keep an ice scraper and possibly a small snow shovel in your car.",
+              "Check your battery before the trip as Haapsalu can get extremely cold.",
+              "Posti Street and the old town roads are usually well-cleared of snow."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1512,6 +2130,188 @@
           "Buses may not be frequent, so plan your time at each stop accordingly.",
           "Wave to the bus driver to let them know you want to board."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Tage lassen sich in Haapsalu gut mit dem Bus bewältigen. Vom zentralen Busbahnhof erreichen wir schnell den Schutzz der Burgmauern. Mittags bietet Ilons Wunderland ein langes, trockenes Erlebnis. Am Nachmittag führt die Route zur Promenade, wo man zwischen den Schauern den Kursaal besucht. Den Abschluss bildet der Bahnhof mit seinem beeindruckenden Bahnsteigdach, bevor es zurück geht.",
+            "hu": "Az esős napok Haapsaluban busszal is jól menedzselhetők. A központi buszállomásról gyorsan elérjük a várfalak védelmét. Délben az Ilon Csodországa hosszú, száraz élményt nyújt. Délután a sétány következik, ahol a záporok között meglátogatjuk a Kursaalt. A napot a vasútállomás lenyűgöző, fedett peronja zárja, mielőtt visszaindulnánk.",
+            "ro": "Zilele ploioase în Haapsalu pot fi gestionate bine cu autobuzul. De la autogara centrală ajungem rapid sub protecția zidurilor castelului. La prânz, Ilon's Wonderland oferă o experiență lungă și uscată. După-amiaza, ruta duce la faleză, unde vizităm Kursaal între averse. Finalul zilei aparține gării cu peronul său impresionant și acoperit.",
+            "en": "Rainy days in Haapsalu are manageable using the local bus. From the central station, we quickly reach the shelter of the castle walls. At noon, Ilon's Wonderland offers a long, dry indoor experience. In the afternoon, the route heads to the promenade, visiting the Kursaal between showers. The day concludes at the railway station with its impressive covered platform."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie im Gebäude, bis Ihr Bus angezeigt wird.",
+                "hu": "Várjon az épületben, amíg meg nem jelenik a busza.",
+                "ro": "Așteptați în interior până când este afișat autobuzul dvs.",
+                "en": "Wait inside the building until your bus is shown on the display."
+              }
+            },
+            {
+              "name": "Bishop's Castle Stop",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Weg vom Busstopp zum trockenen Burgeingang.",
+                "hu": "Csak egy rövid séta a megállótól a száraz várbejáratig.",
+                "ro": "Doar o scurtă plimbare de la stație până la intrarea uscată în castel.",
+                "en": "Just a short walk from the stop to the dry castle entrance."
+              }
+            },
+            {
+              "name": "Bishop's Castle & St. John's Church",
+              "tip_5lang": {
+                "de": "Kombinieren Sie beide Ziele, um die Zeit im Freien zu minimieren.",
+                "hu": "Kombinálja a két célt, hogy minimalizálja a szabadban töltött időt.",
+                "ro": "Combinați ambele obiective pentru a minimiza timpul petrecut afară.",
+                "en": "Combine both sights to minimize your time spent outdoors."
+              }
+            },
+            {
+              "name": "Promenade Stop",
+              "tip_5lang": {
+                "de": "Der Bus hält nah an der Promenade; Schirm für 2 Min. Fußweg bereit.",
+                "hu": "A busz közel áll meg a sétányhoz; esernyőt készítse elő.",
+                "ro": "Autobuzul oprește aproape de faleză; pregătiți umbrela.",
+                "en": "The bus stops near the promenade; have your umbrella ready."
+              }
+            },
+            {
+              "name": "Promenade, Kursaal & Tchaikovsky's Bench",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Kursaal oder Museum.",
+                "hu": "Heves esőben maradjon a Kursaalban vagy a múzeumban.",
+                "ro": "În caz de ploaie torențială, rămâneți în Kursaal sau în muzeu.",
+                "en": "Stay inside the Kursaal or the museum during heavy downpours."
+              }
+            },
+            {
+              "name": "Haapsalu Railway Station",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort zum Warten auf den Bus – komplett überdacht.",
+                "hu": "Tökéletes hely a buszra váráshoz – teljesen fedett.",
+                "ro": "Un loc perfect pentru a aștepta autobuzul – complet acoperit.",
+                "en": "A perfect place to wait for your bus – completely sheltered."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die lokale Fahrplan-App herunter, um Wartezeiten im Regen zu vermeiden.",
+              "In estnischen Bussen ist es meist sehr warm – Kleidung im Zwiebelprinzip.",
+              "Die Busfrequenz kann am Wochenende geringer sein.",
+              "Einige Haltestellen haben nur kleine Unterstände; Schirm ist Pflicht."
+            ],
+            "hu": [
+              "Töltse le a helyi menetrend alkalmazást, hogy ne ázzon a megállóban.",
+              "Az észt buszokon általában nagyon meleg van – öltözzön rétegesen.",
+              "Hétvégén a buszok ritkábban járhatnak.",
+              "Néhány megállóban csak kicsi a védőtető; az esernyő kötelező."
+            ],
+            "ro": [
+              "Descărcați aplicația locală de transport pentru a nu aștepta în ploaie.",
+              "În autobuzele estone este de obicei foarte cald – purtați straturi.",
+              "Frecvența autobuzelor poate fi mai redusă în weekend.",
+              "Unele stații au doar adăposturi mici; umbrela este obligatorie."
+            ],
+            "en": [
+              "Download the local transit app to avoid long waits in the rain.",
+              "Estonian buses are usually very warm inside – dress in layers.",
+              "Bus frequency might be lower during the weekends.",
+              "Some stops have very limited shelter; an umbrella is a must-have."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter sind die geheizten Busse in Haapsalu kleine Oasen. Der Tag startet am Busbahnhof und führt zur frostigen Burg. Das Museum bietet die nötige Aufwärmpause. Nachmittags geht es zur verschneiten Promenade, deren Eiskristalle in der frühen Dämmerung funkeln. Der Bahnhof mit seiner historischen Pracht ist ein würdiger Abschluss, bevor der Bus zurück in die Wärme fährt.",
+            "hu": "Télen a fűtött buszok Haapsaluban kis oázisok. A nap a buszállomáson indul, és a fagyos várhoz vezet. A múzeum nyújtja a szükséges felmelegedést. Délután a havas sétány következik, melynek jégkristályai csillognak a korai szürkületben. A vasútállomás történelmi pompája méltó zárás, mielőtt a busz visszavinne a melegbe.",
+            "ro": "Iarna, autobuzele încălzite din Haapsalu sunt mici oaze. Ziua începe la autogară și ne duce la castelul înghețat. Muzeul oferă pauza de încălzire necesară. După-amiaza mergem pe faleza înzăpezită, unde cristalele de gheață sclipesc în amurgul timpuriu. Splendoarea istorică a gării este un final pe măsură înainte de drumul spre casă.",
+            "en": "In winter, the heated buses in Haapsalu are like little oases. The day starts at the bus station and leads to the frosty castle. The museum provides a much-needed warming break. In the afternoon, visit the snowy promenade, where ice crystals sparkle in the early twilight. The historical splendor of the station is a fitting finale before taking the bus back."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Station",
+              "tip_5lang": {
+                "de": "Die Wartehalle ist beheizt; ideal bei Minusgraden.",
+                "hu": "A váróterem fűtött; ideális a mínuszokban.",
+                "ro": "Sala de așteptare este încălzită; ideal la temperaturi negative.",
+                "en": "The waiting hall is heated; ideal when temperatures are below zero."
+              }
+            },
+            {
+              "name": "Bishop's Castle Stop",
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf glatte Stellen am Gehweg.",
+                "hu": "Kiszálláskor ügyeljen a csúszós járdaszakaszokra.",
+                "ro": "Atenție la porțiunile de trotuar alunecoase când coborâți.",
+                "en": "Watch out for slippery patches on the pavement when getting off."
+              }
+            },
+            {
+              "name": "Bishop's Castle & St. John's Church",
+              "tip_5lang": {
+                "de": "Die Gebäude sind gute Orte, um die Kälte kurz zu vergessen.",
+                "hu": "Az épületek jó helyszínek a hideg rövid elfelejtésére.",
+                "ro": "Clădirile sunt locuri bune pentru a uita scurt de frig.",
+                "en": "The buildings are good places to briefly forget about the cold."
+              }
+            },
+            {
+              "name": "Promenade Stop",
+              "tip_5lang": {
+                "de": "Gehen Sie zügig zur Promenade, um nicht auszukühlen.",
+                "hu": "Sétáljon tempósan a sétányhoz, hogy ne hűljön ki.",
+                "ro": "Mergeți vioi spre faleză pentru a nu vă răci.",
+                "en": "Walk briskly to the promenade to keep your body heat up."
+              }
+            },
+            {
+              "name": "Promenade, Kursaal & Tchaikovsky's Bench",
+              "tip_5lang": {
+                "de": "Die Aussicht auf die zugefrorene See ist im Winter einzigartig.",
+                "hu": "A befagyott tenger látványa télen egyedülálló élmény.",
+                "ro": "Priveliștea mării înghețate este o experiență unică iarna.",
+                "en": "The view of the frozen sea is a unique winter experience."
+              }
+            },
+            {
+              "name": "Haapsalu Railway Station",
+              "tip_5lang": {
+                "de": "Die Beleuchtung am Abend macht den Bahnhof besonders magisch.",
+                "hu": "Az esti kivilágítás különösen mágikussá teszi az állomást.",
+                "ro": "Iluminatul de seară face gara deosebit de magică.",
+                "en": "The evening lighting makes the station feel especially magical."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können sich bei extremem Schneefall leicht verzögern.",
+              "Halten Sie Kleingeld oder eine Karte für das Ticket bereit; Hände bleiben so kurz in der Kälte.",
+              "Die Abenddämmerung beginnt früh; der Transit ist dann die sicherste Option.",
+              "Nutzen Sie die Wartezeiten für Fotos der verschneiten Altstadtgassen."
+            ],
+            "hu": [
+              "Extrém havazás esetén a menetrend kismértékben csúszhat.",
+              "Készítse elő az aprót vagy a kártyát, így csak rövid ideig kell kivennie a kezét a kesztyűből.",
+              "A szürkület korán kezdődik; a tömegközlekedés ilyenkor a legbiztonságosabb opció.",
+              "Használja ki a várakozási időt a havas óvárosi utcák fotózására."
+            ],
+            "ro": [
+              "Orarele pot avea mici întârzieri în caz de ninsori extreme.",
+              "Pregătiți mărunțișul sau cardul pentru a nu ține mâinile în frig prea mult.",
+              "Amurgul începe devreme; transportul în comun este cea mai sigură opțiune atunci.",
+              "Folosiți timpul de așteptare pentru a fotografia străzile înzăpezite din centrul vechi."
+            ],
+            "en": [
+              "Bus schedules may experience slight delays during extreme snowfall.",
+              "Have your change or card ready so you don't have to keep your hands out of your gloves.",
+              "Twilight starts early; public transit is the safest option during these hours.",
+              "Use any waiting time to take photos of the snowy old town alleys."
+            ]
+          }
+        }
       }
     }
   }

@@ -362,6 +362,188 @@
           "Check the opening hours of the churches in advance.",
           "Be respectful when entering religious sites."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem Vordach des Rathauses, während der Regen auf den Asphalt prasselt. Ein kurzer, aber nasser Weg führt zum Denkmal, wo man kurz innehält.\n\nMittags bietet die St. Elias Kirche einen trockenen Zufluchtsort. Die Stille im Inneren wird nur vom fernen Donner und dem Rauschen des Regens begleitet.\n\nAm Nachmittag wirken die Cantacuzino-Ruinen im Nebel düster und geheimnisvoll. Der Boden ist aufgeweicht, was festes, wasserdichtes Schuhwerk erfordert.\n\nDer Abend klingt in Nedelea aus. Wenn der Regen nachlässt, erfüllt der Duft von nasser Erde und die frische Luft des Prahova-Tals die Atmosphäre.",
+            "hu": "A reggel a városháza eresze alatt indul, miközben az eső veri az aszfaltot. Rövid, de ázott séta vezet az emlékműhöz, ahol csak pár percet időzünk.\n\nDélben a Szent Illés templom nyújt száraz menedéket. A belső csendet csak a távoli dörgés és az eső folyamatos kopogása töri meg.\n\nDélután a Cantacuzino-romok a ködben komorak és titokzatosak. A talaj felázott, így a sár miatt ide csak vízálló bakancsban érdemes bemenni.\n\nAz este Nedeleán ér véget. Ahogy az eső csendesedik, a nedves föld illata és a Prahova-völgy friss levegője tölti meg a sötétedő utcákat.",
+            "ro": "Dimineața începe sub streașina primăriei, în timp ce ploaia bate în asfalt. Un drum scurt, dar ud, duce spre monument, unde popasul este scurt.\n\nLa prânz, Biserica Sfântul Ilie oferă un refugiu uscat. Liniștea din interior este întreruptă doar de tunetele îndepărtate și de ropotul ploii pe acoperiș.\n\nDupă-amiaza, ruinele Cantacuzino par sumbre și misterioase în ceață. Terenul este moale și noroios, necesitând încălțăminte impermeabilă solidă.\n\nSeara se încheie în Nedelea. Pe măsură ce ploaia se potolește, mirosul de pământ ud și aerul proaspăt al văii Prahovei umplu atmosfera.",
+            "en": "The morning starts under the town hall's porch while rain drums on the asphalt. A short, wet walk leads to the monument for a brief stop.\n\nAt noon, Saint Elijah Church provides a dry sanctuary. The interior silence is only broken by distant thunder and the steady rhythm of the rain.\n\nIn the afternoon, the Cantacuzino ruins look somber and mysterious in the mist. The ground is soaked, making sturdy waterproof boots a necessity.\n\nThe evening winds down in Nedelea. As the rain eases, the scent of damp earth and the fresh air of the Prahova Valley fill the darkening air."
+          },
+          "stops": [
+            {
+              "name": "Ariceștii Rahtivani Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um den Regenschirm aufzuspannen.",
+                "hu": "Használja a fedett bejáratot az esernyő kinyitásához.",
+                "ro": "Folosiți zona acoperită de la intrare pentru a deschide umbrela.",
+                "en": "Use the covered entrance area to open your umbrella safely."
+              }
+            },
+            {
+              "name": "Heroes' Monument of Aricești",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen auf dem Weg zum Denkmal.",
+                "hu": "Vigyázzon a mély pocsolyákra az emlékműhöz vezető úton.",
+                "ro": "Atenție la bălțile adânci pe drumul spre monument.",
+                "en": "Watch out for deep puddles on the path to the monument."
+              }
+            },
+            {
+              "name": "Saint Elijah Church",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kleidung zu trocknen und die Fresken zu bewundern.",
+                "hu": "Ideális hely a ruhák szárítására és a freskók megtekintésére.",
+                "ro": "Un loc ideal pentru a vă usca hainele și a admira frescele.",
+                "en": "An ideal place to dry off and admire the interior frescoes."
+              }
+            },
+            {
+              "name": "Cantacuzino Ruins",
+              "tip_5lang": {
+                "de": "Rutschgefahr auf den nassen Steinen der Ruinen.",
+                "hu": "Csúszásveszély a romok nedves kövein.",
+                "ro": "Pericol de alunecare pe pietrele umede ale ruinelor.",
+                "en": "Danger of slipping on the wet stones of the ruins."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church of Nedelea",
+              "tip_5lang": {
+                "de": "Suchen Sie hier Schutz vor dem Wind, der oft den Regen peitscht.",
+                "hu": "Keressen itt menedéket a szél elől, amely gyakran veri az esőt.",
+                "ro": "Căutați adăpost aici împotriva vântului care întețește ploaia.",
+                "en": "Seek shelter here from the wind that often drives the rain."
+              }
+            },
+            {
+              "name": "Prahova Valley Section",
+              "tip_5lang": {
+                "de": "Der Pfad kann sehr schlammig sein, bleiben Sie auf den grasbewachsenen Rändern.",
+                "hu": "Az ösvény nagyon sáros lehet, maradjon a füves széleken.",
+                "ro": "Poteca poate fi foarte noroioasă, stați pe marginile cu iarbă.",
+                "en": "The path can be very muddy; stick to the grassy edges."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie knöchelhohe Gummistiefel, da die unbefestigten Wege schnell verschlammen.",
+              "Die Kirchen sind die besten Orte für längere Pausen ohne nass zu werden.",
+              "Packen Sie Ihre Elektronik in wasserdichte Beutel, da der Wind in der Ebene tückisch ist.",
+              "Prüfen Sie die Sichtverhältnisse, bevor Sie die Hauptstraßen überqueren."
+            ],
+            "hu": [
+              "Viseljen bokáig érő gumicsizmát, mert a földutak gyorsan sárossá válnak.",
+              "A templomok a legjobb helyek a hosszabb pihenésre anélkül, hogy elázna.",
+              "Tegye az elektronikát vízálló tasakba, mert a síkságon a szél bárhová beveri az esőt.",
+              "Ellenőrizze a látási viszonyokat, mielőtt átkel a főutakon."
+            ],
+            "ro": [
+              "Purtați cizme de cauciuc, deoarece drumurile neasfaltate devin rapid noroioase.",
+              "Bisericile sunt cele mai bune locuri pentru pauze lungi fără a vă uda.",
+              "Puneți electronicele în pungi impermeabile, vântul de câmpie poate fi înșelător.",
+              "Verificați vizibilitatea înainte de a traversa drumurile principale."
+            ],
+            "en": [
+              "Wear ankle-high rubber boots as unpaved paths turn to mud quickly.",
+              "Churches are the best spots for long breaks without getting soaked.",
+              "Keep electronics in waterproof bags; the plain wind can drive rain everywhere.",
+              "Check visibility carefully before crossing the main roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klirrend kalter Morgen am Rathaus, wo der Reif die Bäume weiß färbt. Der kurze Spaziergang zum Denkmal lässt die Wangen schnell rot werden.\n\nMittags suchen wir die Wärme der St. Elias Kirche. Die dicken Mauern schützen vor dem beißenden Wind, der über die flachen Felder fegt.\n\nNachmittags wirken die Cantacuzino-Ruinen in der tiefstehenden Wintersonne wie aus einer anderen Zeit. Der Boden ist gefroren und hart.\n\nDa die Sonne früh untergeht, beenden wir den Tag in Nedelea. Das blaue Licht der Dämmerung legt sich über das gefrorene Prahova-Tal.",
+            "hu": "Dermesztő reggel a városházánál, ahol a zúzmara fehéren csillog a fákon. A rövid séta az emlékműig hamar kipirosítja az arcokat.\n\nDélben a Szent Illés templom melegét keressük. A vastag falak óvnak a metsző széltől, amely a sík mezők felett süvít.\n\nDélután a Cantacuzino-romok a korán lemenő téli napfényben túlviláginak tűnnek. A talaj keményre fagyott.\n\nMivel a nap korán nyugszik, a túrát Nedeleán fejezzük be. A szürkület kék fényei lassan ráereszkednek a fagyos Prahova-völgyre.",
+            "ro": "O dimineață geroasă la primărie, unde chiciura îmbracă arborii în alb. Scurta plimbare spre monument face obrajii să se înroșească rapid.\n\nLa prânz, căutăm căldura Bisericii Sfântul Ilie. Zidurile groase protejează de vântul tăios care mătură câmpia deschisă.\n\nDupă-amiaza, ruinele Cantacuzino par din altă eră în lumina joasă a soarelui de iarnă. Pământul este înghețat și tare sub picioare.\n\nDeoarece soarele apune devreme, încheiem ziua în Nedelea. Lumina albastră a amurgului se așterne peste valea înghețată a Prahovei.",
+            "en": "A freezing morning at the town hall, with hoarfrost coating the trees in white. The short walk to the monument quickly reddens the cheeks.\n\nAt noon, we seek the shelter of Saint Elijah Church. Its thick walls protect against the biting wind sweeping across the flat fields.\n\nIn the afternoon, the Cantacuzino ruins look otherworldly in the low winter sun. The ground is frozen solid and hard underfoot.\n\nAs the sun sets early, we finish the day in Nedelea. The blue light of dusk settles over the frozen Prahova Valley."
+          },
+          "stops": [
+            {
+              "name": "Ariceștii Rahtivani Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf den Stufen des Rathauses.",
+                "hu": "Vigyázzon a jegesedésre a városháza lépcsőin.",
+                "ro": "Atenție la polei pe treptele primăriei.",
+                "en": "Watch out for black ice on the town hall steps."
+              }
+            },
+            {
+              "name": "Heroes' Monument of Aricești",
+              "tip_5lang": {
+                "de": "Der Wind weht hier besonders stark, halten Sie die Pause kurz.",
+                "hu": "Itt különösen erős a szél, tartsa rövidre a megállót.",
+                "ro": "Vântul bate puternic aici, păstrați popasul scurt.",
+                "en": "The wind is particularly strong here; keep your stop brief."
+              }
+            },
+            {
+              "name": "Saint Elijah Church",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Hände aufzuwärmen, bevor es weitergeht.",
+                "hu": "Jó hely a kezek felmelegítésére, mielőtt továbbindulna.",
+                "ro": "Un loc bun pentru a vă încălzi mâinile înainte de a porni iar.",
+                "en": "A good place to warm your hands before continuing."
+              }
+            },
+            {
+              "name": "Cantacuzino Ruins",
+              "tip_5lang": {
+                "de": "Trittfestigkeit ist auf dem gefrorenen Boden wichtig.",
+                "hu": "A fagyott talajon fontos a biztos lépés.",
+                "ro": "Stabilitatea este importantă pe solul înghețat.",
+                "en": "Firm footing is important on the frozen ground."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church of Nedelea",
+              "tip_5lang": {
+                "de": "Die Dämmerung setzt hier im Winter bereits gegen 16:30 Uhr ein.",
+                "hu": "A szürkület télen már 16:30 körül elkezdődik itt.",
+                "ro": "Amurgul se instalează aici iarna deja pe la ora 16:30.",
+                "en": "Dusk sets in here around 16:30 during winter."
+              }
+            },
+            {
+              "name": "Prahova Valley Section",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Ufer bei Frost, der Boden kann tückisch sein.",
+                "hu": "Fagyban kerülje a partot, a talaj csalóka lehet.",
+                "ro": "Evitați malul pe timp de îngheț, solul poate fi înșelător.",
+                "en": "Avoid the bank during frost; the ground can be treacherous."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche; der Wind in der Prahova-Ebene ist sehr kalt.",
+              "Die Sonne geht gegen 17:00 Uhr unter, planen Sie das Ende der Tour ein.",
+              "Nehmen Sie eine Thermoskanne mit heißem Tee mit, da es kaum geöffnete Cafés gibt.",
+              "Vorsicht vor Schneeverwehungen auf den Verbindungswegen zwischen den Dörfern."
+            ],
+            "hu": [
+              "Viseljen hőtartó aláöltözetet; a Prahova-síkságon a szél metszően hideg.",
+              "A nap 17:00 körül nyugszik, tervezze meg a túra végét ehhez mérten.",
+              "Vigyen magával termoszban forró teát, mert kevés a nyitott kávézó.",
+              "Vigyázzon a hóátfúvásokra a falvak közötti összekötő utakon."
+            ],
+            "ro": [
+              "Purtați haine termice; vântul în câmpia Prahovei este foarte tăios.",
+              "Soarele apune în jur de ora 17:00, planificați finalul traseului.",
+              "Luați un termos cu ceai fierbinte, puține cafenele sunt deschise.",
+              "Atenție la troienele de zăpadă pe drumurile dintre sate."
+            ],
+            "en": [
+              "Wear thermal layers; the wind on the Prahova plain is very cold.",
+              "Sunset is around 17:00; plan your route to finish by then.",
+              "Carry a thermos with hot tea as there are few open cafes nearby.",
+              "Watch out for snowdrifts on the connecting paths between villages."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +924,206 @@
           "A puncture repair kit is a good precaution.",
           "Plan your route in advance as signage can vary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Industriepark, wo die nassen Straßen den Lärm der LKW verstärken. Die Fahrt zum Rathaus erfordert volle Konzentration.\n\nMittags suchen wir Schutz in der St. Elias Kirche. Das Fahrrad steht draußen im Regen, während wir drinnen die Ruhe genießen.\n\nNachmittags führt der Weg zu den Ruinen über rutschige Landstraßen. Der See von Aricești wirkt grau und weitläufig unter dem wolkenverhangenen Himmel.\n\nDie Tour endet am Prahova-Tal. Die Reifen wirbeln Wasser auf, und die kühle Brise sorgt für eine erfrischende, wenn auch nasse Rückfahrt.",
+            "hu": "A nap az ipari parknál indul, ahol a vizes út felerősíti a kamionok zaját. A városházáig tartó út teljes koncentrációt igényel.\n\nDélben a Szent Illés templomnál pihenünk. A bicikli kint ázik, miközben mi bent élvezzük a csendet és a szárazságot.\n\nDélután csúszós utakon tekerünk a romok felé. Az Aricești-tó szürke és végtelennek tűnik a felhős ég alatt.\n\nA túra a Prahova-völgynél zárul. A kerekek felverik a vizet, a hűvös szél pedig frissítő, bár áztató befejezést ad a napnak.",
+            "ro": "Ziua începe la parcul industrial, unde șoseaua udă amplifică zgomotul camioanelor. Drumul spre primărie necesită concentrare maximă.\n\nLa prânz, ne odihnim la Biserica Sfântul Ilie. Bicicleta rămâne afară în ploaie, în timp ce noi ne bucurăm de liniște și uscăciune.\n\nDupă-amiaza, pedalăm spre ruine pe drumuri alunecoase. Lacul Aricești pare gri și vast sub cerul acoperit de nori.\n\nTraseul se încheie la valea Prahovei. Roțile împroșcă apă, iar briza răcoroasă oferă un final revigorant, deși ud.",
+            "en": "The day starts at the industrial park, where wet roads amplify the noise of trucks. The ride to the town hall requires full focus.\n\nAt noon, we rest at Saint Elijah Church. The bike stays outside in the rain while we enjoy the peace and dryness inside.\n\nIn the afternoon, we pedal toward the ruins on slippery roads. Aricești Lake looks gray and vast under the overcast sky.\n\nThe tour ends at the Prahova Valley. The wheels splash water, and the cool breeze provides a refreshing, if wet, conclusion to the day."
+          },
+          "stops": [
+            {
+              "name": "Ploiești West Industrial Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei den Fahrbahnmarkierungen, sie sind bei Nässe extrem glatt.",
+                "hu": "Vigyázzon az útburkolati jelekkel, nedvesen rendkívül csúszósak.",
+                "ro": "Atenție la marcajele rutiere, sunt extrem de alunecoase pe ud.",
+                "en": "Be careful with road markings; they are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Ariceștii Rahtivani Town Hall",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad unter einem Baum oder Vordach.",
+                "hu": "Parkolja a biciklit fa vagy eresz alá.",
+                "ro": "Parcați bicicleta sub un copac sau o streașină.",
+                "en": "Park your bike under a tree or an eave."
+              }
+            },
+            {
+              "name": "Saint Elijah Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Bremsen zu prüfen.",
+                "hu": "Használja ki a megállót a fékek ellenőrzésére.",
+                "ro": "Folosiți oprirea pentru a verifica frânele.",
+                "en": "Use the stop to check your brakes."
+              }
+            },
+            {
+              "name": "Cantacuzino Ruins",
+              "tip_5lang": {
+                "de": "Der Zugangsweg kann für dünne Reifen zu weich sein.",
+                "hu": "A bevezető út túl puha lehet a vékony kerekeknek.",
+                "ro": "Drumul de acces poate fi prea moale pentru roțile subțiri.",
+                "en": "The access path may be too soft for thin tires."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church of Nedelea",
+              "tip_5lang": {
+                "de": "Wischen Sie den Sattel vor der Weiterfahrt trocken.",
+                "hu": "Törölje szárazra a nyerget továbbhaladás előtt.",
+                "ro": "Ștergeți șaua înainte de a pleca mai departe.",
+                "en": "Wipe the saddle dry before moving on."
+              }
+            },
+            {
+              "name": "Aricești Lake",
+              "tip_5lang": {
+                "de": "Der Uferweg ist bei Regen oft unpassierbar für Räder.",
+                "hu": "A parti út esőben gyakran járhatatlan biciklivel.",
+                "ro": "Drumul de pe mal este adesea impracticabil cu bicicleta pe ploaie.",
+                "en": "The lakeside path is often impassable by bike in the rain."
+              }
+            },
+            {
+              "name": "Prahova Valley Section",
+              "tip_5lang": {
+                "de": "Schutzbleche sind hier unerlässlich, um sauber zu bleiben.",
+                "hu": "A sárvédő itt elengedhetetlen a tisztaság megőrzéséhez.",
+                "ro": "Apărătorile de noroi sunt esențiale aici pentru a rămâne curat.",
+                "en": "Mudguards are essential here to stay clean."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie helle Beleuchtung, da die Sicht bei Regen in der Ebene stark eingeschränkt ist.",
+              "Vermeiden Sie unbefestigte Wege; der Lehmboden klebt stark an den Reifen.",
+              "Tragen Sie eine wasserfeste Regenhose über Ihrer normalen Kleidung.",
+              "Die Bremswege verlängern sich auf nasser Fahrbahn erheblich."
+            ],
+            "hu": [
+              "Használjon erős világítást, mert esőben a síkságon rosszak a látási viszonyok.",
+              "Kerülje a földutakat; az agyagos talaj nagyon rátapad a gumikra.",
+              "Viseljen vízálló nadrágot a rendes ruházata felett.",
+              "A féktávolság jelentősen megnő a vizes úton."
+            ],
+            "ro": [
+              "Folosiți lumini puternice, vizibilitatea este redusă în câmpie pe ploaie.",
+              "Evitați drumurile de pământ; solul argilos se lipește tare de cauciucuri.",
+              "Purtați pantaloni impermeabili peste hainele obișnuite.",
+              "Distanța de frânare crește semnificativ pe carosabil ud."
+            ],
+            "en": [
+              "Use bright lights as visibility on the plain is poor during rain.",
+              "Avoid dirt paths; the clay soil sticks heavily to the tires.",
+              "Wear waterproof trousers over your regular clothes.",
+              "Braking distances increase significantly on wet roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Industriepark. Die kalte Luft schneidet beim Radfahren ins Gesicht, aber die leeren Straßen bieten eine ruhige Fahrt.\n\nMittags erreichen wir das Rathaus und das Denkmal. Kurze Stopps sind nötig, um nicht auszukühlen, während der Reif unter den Reifen knirscht.\n\nNachmittags führt die Tour zu den Ruinen und dem See. Die gefrorene Wasserfläche spiegelt das schwache Licht wider. Eine magische, wenn auch bittere Kälte herrscht vor.\n\nWir beenden die Fahrt im Prahova-Tal bei sinkenden Temperaturen. Die Bewegung hält warm, aber der warme Tee am Ziel ist jetzt der größte Wunsch.",
+            "hu": "Fagyos kezdés az ipari parknál. A hideg szél vágja az arcot tekerés közben, de az üres utak nyugodt haladást biztosítanak.\n\nDélben érjük el a városházát és az emlékművet. Rövid megállók kellenek, hogy ne hűljünk ki, miközben a zúzmara ropog a gumik alatt.\n\nDélután a romokhoz és a tóhoz tekerünk. A befagyott víztükör visszaveri a gyenge fényt. Varázslatos, de csípős hideg van.\n\nA Prahova-völgynél zárjuk a napot csökkenő hőmérséklet mellett. A mozgás melegen tart, de a forró tea a célban a legnagyobb vágyunk.",
+            "ro": "Un start înghețat la parcul industrial. Aerul rece taie fața în timpul pedalatului, dar drumurile libere oferă o deplasare liniștită.\n\nLa prânz ajungem la primărie și monument. Sunt necesare opriri scurte pentru a nu îngheța, în timp ce chiciura trosnește sub roți.\n\nDupă-amiaza traseul duce spre ruine și lac. Luciul înghețat al apei reflectă lumina slabă. E un frig magic, dar pătrunzător.\n\nÎncheiem tura în valea Prahovei, pe temperaturi în scădere. Mișcarea ne ține calzi, dar ceaiul fierbinte de la destinație e marea dorință.",
+            "en": "A frosty start at the industrial park. The cold air cuts into your face while cycling, but the empty roads offer a peaceful ride.\n\nAt noon, we reach the town hall and the monument. Short stops are necessary to avoid chilling, as the frost crunches under the tires.\n\nIn the afternoon, the tour leads to the ruins and the lake. The frozen water surface reflects the weak light. It is magical but bitterly cold.\n\nWe finish the ride in the Prahova Valley with dropping temperatures. The movement keeps us warm, but hot tea at the destination is now the priority."
+          },
+          "stops": [
+            {
+              "name": "Ploiești West Industrial Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen in den Kurven.",
+                "hu": "Vigyázzon a befagyott pocsolyákra a kanyarokban.",
+                "ro": "Atenție la bălțile înghețate în curbe.",
+                "en": "Watch out for frozen puddles in the turns."
+              }
+            },
+            {
+              "name": "Ariceștii Rahtivani Town Hall",
+              "tip_5lang": {
+                "de": "Bewegen Sie die Finger regelmäßig, um die Durchblutung zu fördern.",
+                "hu": "Mozgassa rendszeresen az ujjait a vérkeringés fenntartásához.",
+                "ro": "Mișcați degetele regulat pentru a menține circulația.",
+                "en": "Move your fingers regularly to maintain circulation."
+              }
+            },
+            {
+              "name": "Saint Elijah Church",
+              "tip_5lang": {
+                "de": "Innen ist es deutlich wärmer als draußen, nutzen Sie die Pause.",
+                "hu": "Bent lényegesen melegebb van, mint kint, használja ki a pihenőt.",
+                "ro": "În interior este mult mai cald, profitați de pauză.",
+                "en": "It is significantly warmer inside; make the most of the break."
+              }
+            },
+            {
+              "name": "Cantacuzino Ruins",
+              "tip_5lang": {
+                "de": "Der Boden ist hier oft sehr uneben und rutschig gefroren.",
+                "hu": "A talaj itt gyakran egyenetlen és csúszósra fagyott.",
+                "ro": "Solul este adesea denivelat și înghețat, deci alunecos.",
+                "en": "The ground here is often uneven and frozen slippery."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church of Nedelea",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eiszapfen an den Dachrinnen.",
+                "hu": "Vigyázzon az ereszekről lelógó jégcsapokra.",
+                "ro": "Atenție la țurțurii de gheață de la streșini.",
+                "en": "Watch out for icicles hanging from the eaves."
+              }
+            },
+            {
+              "name": "Aricești Lake",
+              "tip_5lang": {
+                "de": "Der Wind vom See ist bei Frost extrem schneidend.",
+                "hu": "A tó felől fújó szél fagyban rendkívül metsző.",
+                "ro": "Vântul dinspre lac este extrem de tăios pe timp de îngheț.",
+                "en": "The wind from the lake is extremely sharp during frost."
+              }
+            },
+            {
+              "name": "Prahova Valley Section",
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt vor Einbruch der Dunkelheit.",
+                "hu": "Fejezze be a tekerést sötétedés előtt.",
+                "ro": "Încheiați tura înainte de lăsarea întunericului.",
+                "en": "Finish your ride before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fetten Sie die Kette gut ein, da Streusalz Korrosion verursacht.",
+              "Tragen Sie winddichte Handschuhe und eine Sturmhaube unter dem Helm.",
+              "Vermeiden Sie hektische Lenkbewegungen auf möglicherweise vereisten Stellen.",
+              "Der Akku von E-Bikes entlädt sich bei Kälte deutlich schneller."
+            ],
+            "hu": [
+              "Zsírozza meg jól a láncot, mert az útszóró só korróziót okoz.",
+              "Viseljen szélálló kesztyűt és maszkot a sisak alatt.",
+              "Kerülje a hirtelen kormánymozdulatokat az esetlegesen jeges részeken.",
+              "Az elektromos kerékpárok akkumulátora sokkal gyorsabban merül hidegben."
+            ],
+            "ro": [
+              "Gresați bine lanțul, deoarece sarea de pe drum provoacă coroziune.",
+              "Purtați mănuși rezistente la vânt și o cagulă sub cască.",
+              "Evitați manevrele bruște pe porțiunile care pot fi înghețate.",
+              "Bateria bicicletelor electrice se descarcă mult mai repede la frig."
+            ],
+            "en": [
+              "Grease the chain well as road salt causes corrosion.",
+              "Wear windproof gloves and a balaclava under your helmet.",
+              "Avoid sudden steering movements on potentially icy patches.",
+              "E-bike batteries discharge much faster in the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1504,206 @@
           "Plan for extra time for unforeseen stops at beautiful viewpoints.",
           "Be aware of agricultural vehicles on the roads."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt sicher im trockenen Auto am Industriepark. Die Scheibenwischer arbeiten ununterbrochen, während wir durch die weite Ebene gleiten.\n\nMittags erreichen wir das Zentrum und die Kirchen. Die kurzen Wege vom Parkplatz zum Eingang halten uns trocken, während draußen der Regen die Felder tränkt.\n\nNachmittags führt die Route zu den Ruinen und dem See. Das Panorama durch die nasse Windschutzscheibe wirkt wie ein impressionistisches Gemälde.\n\nDer Tag endet entspannt. Trotz des schlechten Wetters haben wir alle Sehenswürdigkeiten komfortabel besucht und genießen die warme Fahrt zurück.",
+            "hu": "Az út biztonságban, a száraz autóban indul az ipari parknál. Az ablaktörlők folyamatosan dolgoznak, miközben a tágas síkságon suhanunk át.\n\nDélben érjük el a központot és a templomokat. A rövid séta a parkolótól a bejáratig szárazon tart, miközben kint az eső áztatja a mezőket.\n\nDélután a romokhoz és a tóhoz vezet az út. A párás szélvédőn keresztül a panoráma olyan, mint egy impresszionista festmény.\n\nA nap nyugodtan zárul. A rossz idő ellenére minden látnivalót kényelmesen megnéztünk, és élvezzük a meleg hazautat.",
+            "ro": "Călătoria începe în siguranță, în mașina uscată, la parcul industrial. Ștergătoarele lucrează continuu în timp ce rulăm prin câmpia vastă.\n\nLa prânz ajungem în centru și la biserici. Distanțele scurte de la parcare la intrare ne țin uscați, în timp ce afară ploaia udă câmpurile.\n\nDupă-amiaza traseul duce spre ruine și lac. Panorama prin parbrizul ud arată ca o pictură impresionistă.\n\nZiua se încheie relaxat. În ciuda vremii rele, am vizitat toate obiectivele confortabil și ne bucurăm de drumul cald de întoarcere.",
+            "en": "The journey begins safely in the dry car at the industrial park. The wipers work continuously as we glide through the vast plain.\n\nAt noon, we reach the center and the churches. The short walks from the parking lot to the entrances keep us dry while rain soaks the fields outside.\n\nIn the afternoon, the route leads to the ruins and the lake. The view through the wet windshield looks like an impressionist painting.\n\nThe day ends relaxedly. Despite the bad weather, we visited all sights comfortably and enjoyed the warm drive back."
+          },
+          "stops": [
+            {
+              "name": "Ploiești West Industrial Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Aquaplaning bei den großen Pfützen der LKW-Spuren.",
+                "hu": "Vigyázzon a vízenfutásra (aquaplaning) a kamionok vájta mély pocsolyáknál.",
+                "ro": "Atenție la acvaplanare în bălțile mari lăsate de camioane.",
+                "en": "Watch out for aquaplaning in the large puddles left by trucks."
+              }
+            },
+            {
+              "name": "Center Cluster: Town Hall",
+              "tip_5lang": {
+                "de": "Es gibt begrenzte Parkplätze direkt vor dem Eingang.",
+                "hu": "Közvetlenül a bejárat előtt korlátozott számú parkolóhely áll rendelkezésre.",
+                "ro": "Există locuri de parcare limitate chiar în fața intrării.",
+                "en": "There are limited parking spots directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Heroes' Monument of Aricești",
+              "tip_5lang": {
+                "de": "Man kann das Denkmal gut vom Auto aus sehen, falls es zu stark regnet.",
+                "hu": "Az emlékmű jól látható az autóból is, ha túl erősen esne az eső.",
+                "ro": "Monumentul se vede bine din mașină, dacă plouă prea tare.",
+                "en": "The monument is clearly visible from the car if it rains too hard."
+              }
+            },
+            {
+              "name": "Saint Elijah Church",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem befestigten Bereich, um Schlamm zu vermeiden.",
+                "hu": "Parkoljon a szilárd burkolatú részen, hogy elkerülje a sarat.",
+                "ro": "Parcați pe zona asfaltată pentru a evita noroiul.",
+                "en": "Park on the paved area to avoid mud."
+              }
+            },
+            {
+              "name": "Nedelea Cluster: St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Die schmale Zufahrt kann bei Gegenverkehr und Nässe eng werden.",
+                "hu": "A szűk bekötőút nehézkes lehet szembejövő forgalom és eső esetén.",
+                "ro": "Accesul îngust poate fi dificil pe ploaie și trafic din sens opus.",
+                "en": "The narrow access road can be tricky with oncoming traffic and rain."
+              }
+            },
+            {
+              "name": "Cantacuzino Ruins",
+              "tip_5lang": {
+                "de": "Der Parkplatz bei den Ruinen ist unbefestigt und wird sehr matschig.",
+                "hu": "A romoknál lévő parkoló nem burkolt, és nagyon sárossá válik.",
+                "ro": "Parcarea de la ruine este neasfaltată și devine foarte noroioasă.",
+                "en": "The parking lot at the ruins is unpaved and gets very muddy."
+              }
+            },
+            {
+              "name": "Nature Cluster: Aricești Lake",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf der Hauptstraße, die Wege zum Ufer sind riskant.",
+                "hu": "Maradjon a főúton, a parthoz vezető utak kockázatosak lehetnek.",
+                "ro": "Rămâneți pe drumul principal, căile spre mal sunt riscante.",
+                "en": "Stay on the main road; the paths to the shore are risky."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Füllen Sie ausreichend Scheibenwaschmittel auf, der Schlamm der LKW verschmutzt das Glas.",
+              "Vermeiden Sie es, auf grasbewachsenen Seitenstreifen zu parken, man sinkt leicht ein.",
+              "Nutzen Sie die Klimaanlage, um das Beschlagen der Scheiben zu verhindern.",
+              "Die Landstraßen in der Prahova-Region haben oft tiefe Schlaglöcher, die unter Wasser unsichtbar sind."
+            ],
+            "hu": [
+              "Töltse fel a szélvédőmosót, mert a kamionok által felvert sár hamar bekoszolja az üveget.",
+              "Kerülje a füves padkán való parkolást, mert könnyen elakadhat.",
+              "Használja a légkondicionálót a szélvédő párátlanításához.",
+              "A Prahova megyei mellékutakon mély kátyúk lehetnek, amik a víz alatt nem látszanak."
+            ],
+            "ro": [
+              "Umpleți lichidul de parbriz, noroiul aruncat de camioane murdărește rapid geamul.",
+              "Evitați parcarea pe acostamentul cu iarbă, vă puteți împotmoli ușor.",
+              "Folosiți aerul condiționat pentru a dezaburi parbrizul.",
+              "Drumurile județene din Prahova pot avea gropi adânci, invizibile sub apă."
+            ],
+            "en": [
+              "Top up windshield washer fluid; mud from trucks will quickly dirty the glass.",
+              "Avoid parking on grassy verges as you may easily get stuck.",
+              "Use the air conditioning to keep the windows from fogging up.",
+              "Regional roads in Prahova often have deep potholes that are invisible under water."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt im vorgewärmten Auto. Der Industriepark wirkt in der kalten Luft geschäftig, während Dampf aus den Schloten steigt.\n\nMittags besuchen wir die historischen Kirchen. Die Heizung sorgt für Komfort zwischen den Stopps, während wir die verschneite Landschaft bewundern.\n\nNachmittags führt die Fahrt zu den Ruinen. Das Weiß des Schnees bildet einen harten Kontrast zu den grauen Steinen. Der See von Aricești ist teilweise zugefroren.\n\nDie Tour endet früh, da die Dunkelheit einsetzt. Das Auto bietet einen sicheren Rückzugsort vor dem eisigen Wind der Ebene.",
+            "hu": "Fagyos reggel indul az előmelegített autóban. Az ipari park mozgalmasnak tűnik a hidegben, a kéményekből gőz száll fel.\n\nDélben meglátogatjuk a történelmi templomokat. A fűtés kényelmet biztosít a megállók között, miközben a havas tájat csodáljuk.\n\nDélután a romokhoz autózunk. A hó fehérsége éles kontrasztban áll a szürke kövekkel. Az Aricești-tó részben befagyott.\n\nA túra korán véget ér, ahogy besötétedik. Az autó biztonságos menedéket nyújt a síkság jeges szele elől.",
+            "ro": "O dimineață geroasă începe în mașina preîncălzită. Parcul industrial pare agitat în aerul rece, cu aburi ieșind din coșuri.\n\nLa prânz vizităm bisericile istorice. Căldura oferă confort între opriri, în timp ce admirăm peisajul înzăpezit.\n\nDupă-amiaza drumul duce spre ruine. Albul zăpezii creează un contrast puternic cu pietrele gri. Lacul Aricești este parțial înghețat.\n\nTraseul se încheie devreme, odată cu lăsarea întunericului. Mașina oferă un refugiu sigur în fața vântului înghețat de câmpie.",
+            "en": "A frosty morning begins in the preheated car. The industrial park looks busy in the cold air, with steam rising from vents.\n\nAt noon, we visit the historical churches. The heating provides comfort between stops while we admire the snowy landscape.\n\nIn the afternoon, the drive leads to the ruins. The white snow creates a sharp contrast with the gray stones. Aricești Lake is partially frozen.\n\nThe tour ends early as darkness falls. The car offers a safe retreat from the icy wind of the plain."
+          },
+          "stops": [
+            {
+              "name": "Ploiești West Industrial Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Brückenauffahrten in der Nähe des Parks.",
+                "hu": "Vigyázzon a jeges felüljárókra az ipari park közelében.",
+                "ro": "Atenție la podurile înghețate din apropierea parcului.",
+                "en": "Watch out for icy bridge ramps near the park."
+              }
+            },
+            {
+              "name": "Center Cluster: Town Hall",
+              "tip_5lang": {
+                "de": "Die Parkplätze können durch zusammengeschobenen Schnee blockiert sein.",
+                "hu": "A parkolóhelyeket elzárhatja a feltolt hó.",
+                "ro": "Locurile de parcare pot fi blocate de zăpada adunată.",
+                "en": "Parking spots may be blocked by piled-up snow."
+              }
+            },
+            {
+              "name": "Heroes' Monument of Aricești",
+              "tip_5lang": {
+                "de": "Die Gehwege zum Denkmal werden nicht immer geräumt.",
+                "hu": "Az emlékműhöz vezető járdákat nem mindig takarítják.",
+                "ro": "Trotuarele spre monument nu sunt întotdeauna deszăpezite.",
+                "en": "Sidewalks to the monument are not always cleared."
+              }
+            },
+            {
+              "name": "Saint Elijah Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Kirchenvorplatz.",
+                "hu": "Vigyázzon a tükörjégre a templom előtti téren.",
+                "ro": "Atenție la polei pe platoul din fața bisericii.",
+                "en": "Watch out for black ice in the church courtyard."
+              }
+            },
+            {
+              "name": "Nedelea Cluster: St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Bei Schneefall sind die Kurven der Zufahrt schwer einzuschätzen.",
+                "hu": "Hóesésben a bekötőút kanyarjai nehezen kivehetőek.",
+                "ro": "În caz de ninsoare, curbele drumului de acces sunt greu de sesizat.",
+                "en": "During snowfall, the curves of the access road are hard to judge."
+              }
+            },
+            {
+              "name": "Cantacuzino Ruins",
+              "tip_5lang": {
+                "de": "Der Boden kann unter der Schneedecke gefroren und sehr uneben sein.",
+                "hu": "A talaj a hó alatt fagyott és nagyon egyenetlen lehet.",
+                "ro": "Solul poate fi înghețat și foarte denivelat sub stratul de zăpadă.",
+                "en": "The ground under the snow may be frozen and very uneven."
+              }
+            },
+            {
+              "name": "Nature Cluster: Aricești Lake",
+              "tip_5lang": {
+                "de": "Versuchen Sie nicht, mit dem Auto näher ans Ufer zu fahren.",
+                "hu": "Ne próbáljon meg autóval közelebb hajtani a parthoz.",
+                "ro": "Nu încercați să mergeți cu mașina mai aproape de mal.",
+                "en": "Do not attempt to drive the car closer to the shoreline."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Rumänien bei winterlichen Verhältnissen gesetzlich vorgeschrieben.",
+              "Führen Sie einen Eiskratzer und Schneebesen griffbereit im Fahrgastraum mit.",
+              "Achten Sie auf unbeleuchtete Pferdefuhrwerke, die in der Dämmerung schwer zu sehen sind.",
+              "Halten Sie den Tank mindestens halb voll, falls es zu witterungsbedingten Sperrungen kommt."
+            ],
+            "hu": [
+              "A téli gumi Romániában kötelező téli útviszonyok esetén.",
+              "Tartson jégkaparót és hókefét könnyen elérhető helyen az utastérben.",
+              "Vigyázzon a kivilágítatlan szekerekre, amiket szürkületben nehéz észrevenni.",
+              "Tartsa az üzemanyagszintet legalább félig, váratlan útlezárások esetére."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în condiții de iarnă.",
+              "Țineți o racletă și o perie de zăpadă la îndemână în habitaclu.",
+              "Atenție la căruțele neiluminate, greu de observat în amurg.",
+              "Păstrați rezervorul cel puțin pe jumătate plin în caz de blocaje rutiere."
+            ],
+            "en": [
+              "Winter tires are legally required in Romania during winter conditions.",
+              "Keep an ice scraper and snow brush handy inside the car cabin.",
+              "Watch out for unlit horse-drawn carts, which are hard to see at dusk.",
+              "Keep your fuel tank at least half full in case of weather-related road closures."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2036,170 @@
           "Be prepared for buses not always being on time.",
           "Ask locals for directions; they are often helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt an der Bushaltestelle im Zentrum. Wir warten unter dem kleinen Dach, während der Regen die staubigen Straßen säubert.\n\nMittags erreichen wir die St. Elias Kirche. Der kurze Fußweg vom Bus ist nass, aber die Atmosphäre im Inneren entschädigt für alles.\n\nNachmittags geht es weiter nach Nedelea und zu den Ruinen. Der Zeitplan erfordert Pünktlichkeit, da bei Regen weniger Menschen unterwegs sind und Busse seltener fahren könnten.\n\nDer Tag endet mit der Rückfahrt. Durch die beschlagenen Scheiben des Busses beobachten wir die vorbeiziehende, nasse Prahova-Ebene.",
+            "hu": "A nap a központi buszmegállóban indul. A kis tető alatt várakozunk, miközben az eső lemossa az út porát.\n\nDélben érjük el a Szent Illés templomot. A rövid séta a busztól vizes, de a belső hangulat mindenért kárpótol.\n\nDélután folytatjuk utunkat Nedeleára és a romokhoz. A menetrend betartása fontos, mert esőben kevesebben utaznak, és a járatok ritkulhatnak.\n\nA nap a visszautazással zárul. A busz párás ablakán keresztül nézzük a tovatűnő, ázott Prahova-síkságot.",
+            "ro": "Ziua începe în stația de autobuz din centru. Așteptăm sub copertina mică în timp ce ploaia spală praful de pe drumuri.\n\nLa prânz ajungem la Biserica Sfântul Ilie. Scurtul drum pe jos de la autobuz e ud, dar atmosfera din interior compensează totul.\n\nDupă-amiaza continuăm spre Nedelea și ruine. Respectarea programului e vitală, deoarece pe ploaie fluxul de pasageri scade și cursele pot fi mai rare.\n\nZiua se încheie cu drumul de întoarcere. Prin geamurile aburite ale autobuzului privim câmpia Prahovei udă cum trece pe lângă noi.",
+            "en": "The day starts at the central bus stop. We wait under the small shelter while rain washes the dust off the roads.\n\nAt noon, we reach Saint Elijah Church. The short walk from the bus is wet, but the interior atmosphere makes up for everything.\n\nIn the afternoon, we continue to Nedelea and the ruins. Following the schedule is key, as fewer people travel in the rain and buses might be less frequent.\n\nThe day ends with the return trip. Through the foggy bus windows, we watch the passing, soaked Prahova plain."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Town Hall",
+              "tip_5lang": {
+                "de": "Die Haltestelle bietet nur wenig Schutz vor seitlichem Regen.",
+                "hu": "A megálló kevés védelmet nyújt az oldalirányú eső ellen.",
+                "ro": "Stația oferă puțină protecție împotriva ploii laterale.",
+                "en": "The stop offers little protection from sideways rain."
+              }
+            },
+            {
+              "name": "Saint Elijah Church",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten bereits beim Aussteigen.",
+                "hu": "Már leszálláskor ellenőrizze a visszaindulási időpontokat.",
+                "ro": "Verificați orele de întoarcere încă de la coborâre.",
+                "en": "Check return times as soon as you get off the bus."
+              }
+            },
+            {
+              "name": "Nedelea Cluster: St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Der Weg zur Haltestelle kann große Pfützen haben.",
+                "hu": "A megállóhoz vezető úton nagy pocsolyák lehetnek.",
+                "ro": "Drumul spre stație poate avea bălți mari.",
+                "en": "The road to the bus stop may have large puddles."
+              }
+            },
+            {
+              "name": "Cantacuzino Ruins",
+              "tip_5lang": {
+                "de": "Planen Sie genug Zeit für den Fußweg zurück zum Bus ein.",
+                "hu": "Hagyjon elég időt a visszasétára a buszmegállóhoz.",
+                "ro": "Alocați suficient timp pentru mersul pe jos înapoi la stație.",
+                "en": "Allow enough time for the walk back to the bus stop."
+              }
+            },
+            {
+              "name": "Prahova Valley Section",
+              "tip_5lang": {
+                "de": "In den Bussen kann es bei Regen sehr stickig sein.",
+                "hu": "Az autóbuszokon esőben nagyon fülledt lehet a levegő.",
+                "ro": "În autobuze poate fi foarte multă umezeală pe timp de ploaie.",
+                "en": "Buses can get very stuffy during rainy weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Haltestellen oft im Schlamm liegen.",
+              "Haben Sie Kleingeld für die Fahrkarten bereit, da Automaten selten sind.",
+              "Die Busse verkehren auf der Strecke Ploiești - Nedelea unregelmäßiger als in der Stadt.",
+              "Ein kleiner, stabiler Regenschirm ist praktischer als ein großer im vollen Bus."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a megállók környéke gyakran sáros.",
+              "Legyen Önnél aprópénz a jegyre, mert automata ritkán található.",
+              "A buszok a Ploiești - Nedelea vonalon ritkábban járnak, mint a városban.",
+              "Egy kicsi, erős esernyő praktikusabb a tömött buszon, mint a nagy boternyő."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, zonele stațiilor sunt adesea noroioase.",
+              "Aveți bani mărunti pentru bilet, automatele sunt rare.",
+              "Autobuzele pe ruta Ploiești - Nedelea circulă mai rar decât în oraș.",
+              "O umbrelă mică și rezistentă e mai practică în autobuzul plin."
+            ],
+            "en": [
+              "Wear waterproof shoes as bus stop areas are often muddy.",
+              "Have small change ready for tickets as vending machines are rare.",
+              "Buses on the Ploiești - Nedelea route run less frequently than in the city.",
+              "A small, sturdy umbrella is more practical than a large one on a crowded bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Start an der Haltestelle. Die warme Luft im ankommenden Bus ist eine Wohltat gegen den Frost.\n\nMittags besichtigen wir die Kirchen. Wir nutzen die Wartezeiten an den Haltestellen, um uns in nahegelegenen kleinen Läden kurz aufzuwärmen.\n\nNachmittags führt die Fahrt nach Nedelea. Die Winterlandschaft zieht am Fenster vorbei, während wir uns auf den kurzen, aber kalten Fußweg zu den Ruinen vorbereiten.\n\nDie Tour endet in der Dämmerung. Das Warten auf den letzten Bus erfordert Geduld und warme Kleidung, während die Lichter der Dörfer in der Kälte leuchten.",
+            "hu": "Hideg kezdés a buszmegállóban. Az érkező busz meleg levegője valóságos áldás a fagy ellen.\n\nDélben a templomokat látogatjuk meg. A megállókban való várakozási időt a közeli kisboltokban való gyors felmelegedésre használjuk.\n\nDélután Nedeleára utazunk. A téli táj suhan el az ablak előtt, miközben készülünk a rövid, de hideg sétára a romokhoz.\n\nA túra szürkületben ér véget. Az utolsó buszra való várakozás türelmet és meleg ruhát igényel, miközben a falvak fényei kigyúlnak a hidegben.",
+            "ro": "Un start rece în stația de autobuz. Aerul cald din autobuzul care sosește e o binecuvântare împotriva gerului.\n\nLa prânz vizităm bisericile. Folosim timpii de așteptare în stații pentru a ne încălzi rapid în micile magazine din apropiere.\n\nDupă-amiaza drumul duce spre Nedelea. Peisajul de iarnă trece prin fața ferestrei, în timp ce ne pregătim pentru drumul scurt, dar rece, spre ruine.\n\nTraseul se încheie în amurg. Așteptarea ultimului autobuz necesită răbdare și haine groase, în timp ce luminile satelor sclipesc în frig.",
+            "en": "A cold start at the bus stop. The warm air in the arriving bus is a true blessing against the frost.\n\nAt noon, we visit the churches. We use the waiting time at the stops to quickly warm up in nearby small shops.\n\nIn the afternoon, the journey leads to Nedelea. The winter landscape passes by the window as we prepare for the short but cold walk to the ruins.\n\nThe tour ends at dusk. Waiting for the last bus requires patience and warm clothes as the village lights flicker in the cold."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Town Hall",
+              "tip_5lang": {
+                "de": "Suchen Sie im Inneren des Wartehäuschens Schutz vor dem eisigen Wind.",
+                "hu": "Keressen menedéket a váróteremben vagy a bódéban a jeges szél elől.",
+                "ro": "Căutați adăpost în interiorul stației împotriva vântului înghețat.",
+                "en": "Seek shelter inside the bus hut from the icy wind."
+              }
+            },
+            {
+              "name": "Saint Elijah Church",
+              "tip_5lang": {
+                "de": "Achten Sie darauf, den Bus nicht zu verpassen, da die Wartezeiten im Kalten lang sind.",
+                "hu": "Vigyázzon, ne késse le a buszt, mert a hidegben hosszú a várakozás.",
+                "ro": "Aveți grijă să nu pierdeți autobuzul, așteptarea în frig e lungă.",
+                "en": "Be careful not to miss the bus; waiting in the cold is long."
+              }
+            },
+            {
+              "name": "Nedelea Cluster: St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist hier oft unzureichend beleuchtet.",
+                "hu": "A megálló itt gyakran hiányosan van kivilágítva.",
+                "ro": "Stația de aici este adesea iluminată insuficient.",
+                "en": "The bus stop here is often poorly lit."
+              }
+            },
+            {
+              "name": "Cantacuzino Ruins",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Haltestelle kann bei Schnee mühsam sein.",
+                "hu": "A megállótól tartó séta hóban fárasztó lehet.",
+                "ro": "Drumul pe jos de la stație poate fi anevoios prin zăpadă.",
+                "en": "The walk from the stop can be strenuous in the snow."
+              }
+            },
+            {
+              "name": "Prahova Valley Section",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor 17:00 Uhr, um im Hellen anzukommen.",
+                "hu": "Tervezze a visszautat 17:00 előttre, hogy még világosban érkezzen.",
+                "ro": "Planificați întoarcerea înainte de ora 17:00 pentru a ajunge pe lumină.",
+                "en": "Plan your return before 17:00 to arrive while it's still light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Schneefall Verspätungen haben; prüfen Sie Online-Infos.",
+              "Tragen Sie warme Stiefel mit dicken Sohlen gegen die Kälte des Bodens an den Haltestellen.",
+              "Die Heizung in den regionalen Bussen kann variieren, Schals sind wichtig.",
+              "Haben Sie eine Taschenlampe oder ein geladenes Handy für unbeleuchtete Haltestellen."
+            ],
+            "hu": [
+              "Erős hóesésben a buszok késhetnek; ellenőrizze az online információkat.",
+              "Viseljen vastag talpú csizmát a megállókban a talaj felőli hideg ellen.",
+              "A távolsági buszok fűtése változó lehet, a sál elengedhetetlen.",
+              "Legyen Önnél zseblámpa vagy feltöltött telefon a kivilágítatlan megállókhoz."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri pe ninsoare; verificați info online.",
+              "Purtați cizme cu talpă groasă împotriva frigului de la sol în stații.",
+              "Încălzirea în autobuzele regionale poate varia, eșarfele sunt importante.",
+              "Aveți o lanternă sau telefonul încărcat pentru stațiile neiluminate."
+            ],
+            "en": [
+              "Buses may have delays during heavy snow; check online info if available.",
+              "Wear boots with thick soles to protect against the cold ground at stops.",
+              "Heating in regional buses can vary; scarves are essential.",
+              "Carry a flashlight or a charged phone for unlit bus stops."
+            ]
+          }
+        }
       }
     }
   }

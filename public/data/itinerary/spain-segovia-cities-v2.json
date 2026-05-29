@@ -323,6 +323,206 @@
           "Buy a combined entrance ticket if available to save time and money.",
           "Many shops close for a siesta; plan your shopping for the morning or late afternoon."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Aquädukt, wo der nasse Granit dunkel glänzt. Suchen Sie Schutz unter den massiven Bögen, bevor Sie zur Casa de los Picos aufsteigen. Mittags bieten die engen Gassen des Judenviertels Schutz vor dem Wind. Die Kathedrale dient als perfekter trockener Zufluchtsort. Nachmittags erkunden Sie die Innenräume des Alcázar ausführlich. Der Tag endet an der Kirche Vera Cruz.",
+            "hu": "A reggel az akvaduktnál indul, ahol a vizes gránit sötéten csillog. Keressen menedéket az ívek alatt, mielőtt a Casa de los Picos felé indulna. Délben a zsidó negyed szűk utcái védenek a széltől, a katedrális pedig kiváló fedett helyszín. Délután az Alcázar termeiben vészelheti át a záport. A nap a Vera Cruz templomnál zárul, ahonnan látványos a vizes várfal.",
+            "ro": "Dimineața începe la apeduct, unde granitul umed strălucește intens. Căutați adăpost sub arcade înainte de a urca spre Casa de los Picos. La prânz, străzile înguste din cartierul evreiesc oferă protecție împotriva vântului. Catedrala este refugiul perfect împotriva ploii. După-amiaza vizitați interiorul castelului Alcázar. Ziua se încheie la biserica Vera Cruz, cu vedere spre zidurile ude.",
+            "en": "Morning starts at the Aqueduct, where the wet granite reflects the grey sky. Seek shelter under the massive arches before heading to Casa de los Picos. By noon, the narrow Jewish Quarter streets provide some wind cover. The Cathedral is the perfect dry sanctuary. Spend the afternoon exploring the Alcázar's royal halls. The walk ends at Vera Cruz church with a moody view of the walls."
+          },
+          "stops": [
+            {
+              "name": "Aqueduct of Segovia",
+              "tip_5lang": {
+                "de": "Unter den Bögen bleiben.",
+                "hu": "Maradjon az ívek alatt.",
+                "ro": "Stați sub arcade.",
+                "en": "Stay under the arches."
+              }
+            },
+            {
+              "name": "Casa de los Picos",
+              "tip_5lang": {
+                "de": "Vorsicht, glatter Boden.",
+                "hu": "Vigyázat, csúszós kövezet.",
+                "ro": "Atenție la pavajul umed.",
+                "en": "Watch your step on granite."
+              }
+            },
+            {
+              "name": "Jewish Quarter (La Judería)",
+              "tip_5lang": {
+                "de": "Windgeschützte Gassen.",
+                "hu": "Szélvédett sikátorok.",
+                "ro": "Străzi ferite de vânt.",
+                "en": "Wind-protected alleys."
+              }
+            },
+            {
+              "name": "Segovia Cathedral",
+              "tip_5lang": {
+                "de": "Idealer Ort bei Regen.",
+                "hu": "Ideális búvóhely esőben.",
+                "ro": "Refugiu ideal de ploaie.",
+                "en": "Perfect indoor shelter."
+              }
+            },
+            {
+              "name": "Alcázar of Segovia",
+              "tip_5lang": {
+                "de": "Innenräume besichtigen.",
+                "hu": "Nézze meg a belső termeket.",
+                "ro": "Vizitați interiorul.",
+                "en": "Explore the interiors."
+              }
+            },
+            {
+              "name": "City Walls of Segovia",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Stufen.",
+                "hu": "Vigyázzon a lépcsőkön.",
+                "ro": "Atenție pe scări.",
+                "en": "Careful on the stone steps."
+              }
+            },
+            {
+              "name": "Church of Vera Cruz",
+              "tip_5lang": {
+                "de": "Dach bietet Schutz.",
+                "hu": "A tető menedéket nyújt.",
+                "ro": "Acoperișul oferă adăpost.",
+                "en": "Roof provides quick cover."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Granitpflaster in Segovia wird bei Nässe extrem rutschig.",
+              "Die Kathedrale und der Alcázar sind die besten Orte für lange Regenschauer.",
+              "Nutzen Sie die Arkaden der Plaza Mayor für trockene Pausen.",
+              "Ein stabiler Regenschirm ist wegen der Windböen in den Oberstadt-Gassen ratsam."
+            ],
+            "hu": [
+              "A segoviai gránit kockakő esőben rendkívül csúszóssá válik.",
+              "A katedrális és az Alcázar a legjobb helyszín a hosszabb záporok idejére.",
+              "A Plaza Mayor árkádjai alatt szárazon pihenhet meg.",
+              "A szűk utcákban felerősödő szél miatt masszív esernyő ajánlott."
+            ],
+            "ro": [
+              "Pavajul de granit din Segovia devine extrem de alunecos pe ploaie.",
+              "Catedrala și Alcázar sunt cele mai bune locuri pentru ploi de durată.",
+              "Folosiți arcadele din Plaza Mayor pentru pauze la adăpost.",
+              "Se recomandă o umbrelă rezistentă din cauza rafalelor de vânt de sus."
+            ],
+            "en": [
+              "Segovia's granite cobblestones become extremely slippery when wet.",
+              "The Cathedral and Alcázar are your best options during heavy downpours.",
+              "Use the arcades of Plaza Mayor for dry breaks and coffee.",
+              "A sturdy umbrella is necessary as wind gusts can be strong in the upper town."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintersonne beleuchtet das Aquädukt kristallklar, doch der Wind ist eisig. Vormittags wärmen Sie sich in den Cafés der Plaza Mayor auf. Mittags erkunden Sie die Kathedrale, die oft kühler als die Außenluft ist. Nachmittags bietet der Alcázar Schutz vor der Kälte. Da die Sonne gegen 17:30 Uhr untergeht, genießen Sie das goldene Licht an den Stadtmauern rechtzeitig.",
+            "hu": "A téli nap kristálytisztán világítja meg az akvaduktot, de a szél jeges. Délelőtt a Plaza Mayor kávézóiban érdemes melegedni. Délben a katedrális hűvös belső tereit látogassa meg. Délután az Alcázar falaiban talál menedéket a fagy elől. Mivel a nap 17:30 körül nyugszik, a várfalak arany fényeit még időben csípje el.",
+            "ro": "Soarele de iarnă luminează apeductul clar, dar vântul este tăios. Dimineața încălziți-vă în cafenelele din Plaza Mayor. La prânz vizitați Catedrala, care poate fi destul de rece în interior. După-amiaza castelul Alcázar oferă protecție împotriva gerului. Apusul este în jur de 17:30, deci vizitați zidurile cetății înainte de întuneric.",
+            "en": "Winter sun hits the Aqueduct with crisp clarity, but the wind is biting. Warm up in Plaza Mayor’s cafes during the morning walk. At noon, the Cathedral provides a break from the wind, though it stays chilly inside. Spend the afternoon in the Alcázar to avoid the cold. Sunset is around 17:30, so enjoy the golden light on the city walls before it gets dark."
+          },
+          "stops": [
+            {
+              "name": "Aqueduct of Segovia",
+              "tip_5lang": {
+                "de": "Sehr windige Ecke.",
+                "hu": "Nagyon szeles környék.",
+                "ro": "Zonă foarte vântoasă.",
+                "en": "Very windy spot."
+              }
+            },
+            {
+              "name": "Casa de los Picos",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp.",
+                "hu": "Gyors fotómegálló.",
+                "ro": "Oprire scurtă foto.",
+                "en": "Quick photo stop."
+              }
+            },
+            {
+              "name": "Jewish Quarter (La Judería)",
+              "tip_5lang": {
+                "de": "Sonnige Gassen suchen.",
+                "hu": "Keresse a napos utcákat.",
+                "ro": "Căutați străzile însorite.",
+                "en": "Find the sunny side."
+              }
+            },
+            {
+              "name": "Segovia Cathedral",
+              "tip_5lang": {
+                "de": "Warm anziehen, Steinbau.",
+                "hu": "Öltözzön fel, hideg kőfalak.",
+                "ro": "Îmbrăcați-vă bine.",
+                "en": "Cold stone interior."
+              }
+            },
+            {
+              "name": "Alcázar of Segovia",
+              "tip_5lang": {
+                "de": "Aussichtsturm ist windig.",
+                "hu": "A kilátótorony szeles.",
+                "ro": "Turnul este vântos.",
+                "en": "The tower is windy."
+              }
+            },
+            {
+              "name": "City Walls of Segovia",
+              "tip_5lang": {
+                "de": "Windchill-Faktor beachten.",
+                "hu": "Figyeljen a szélhűtésre.",
+                "ro": "Atenție la vântul tăios.",
+                "en": "High windchill factor."
+              }
+            },
+            {
+              "name": "Church of Vera Cruz",
+              "tip_5lang": {
+                "de": "Fußweg kann gefroren sein.",
+                "hu": "Az út jeges lehet.",
+                "ro": "Drumul poate fi înghețat.",
+                "en": "Path might be icy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Segovia liegt auf 1000m Höhe; der Wind am Aquädukt ist im Winter extrem kalt.",
+              "Die Sonne geht früh unter (ca. 17:30), planen Sie den Alcázar für den Nachmittag ein.",
+              "Probieren Sie 'Cochinillo' (Spanferkel) zum Aufwärmen in einem Restaurant.",
+              "Warme Handschuhe sind für den Weg entlang der Stadtmauer unverzichtbar."
+            ],
+            "hu": [
+              "Segovia 1000 méteren fekszik, az akvaduktnál télen metsző a szél.",
+              "A nap korán nyugszik (17:30 körül), az Alcázart érdemes délutánra hagyni.",
+              "Egyen egy sült malacot (Cochinillo) valamelyik étteremben, hogy átmelegedjen.",
+              "A várfal menti sétához elengedhetetlen a meleg kesztyű."
+            ],
+            "ro": [
+              "Segovia se află la 1000m altitudine; vântul la apeduct este tăios iarna.",
+              "Soarele apune devreme (aprox. 17:30), planificați vizita la Alcázar după-amiaza.",
+              "Încercați 'Cochinillo' la un restaurant local pentru a vă încălzi.",
+              "Mănușile groase sunt obligatorii pentru plimbarea pe zidurile cetății."
+            ],
+            "en": [
+              "Segovia is at 1000m altitude; the wind at the Aqueduct is freezing in winter.",
+              "Sunset is early (around 17:30), so schedule the Alcázar for the mid-afternoon.",
+              "Eat roast suckling pig (Cochinillo) in a restaurant to warm up properly.",
+              "Warm gloves are essential for the walk along the exposed city walls."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -617,6 +817,188 @@
           "Always lock your bike, even for short stops.",
           "Use the bike paths along the river for a flat and scenic ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet am Aquädukt auf feuchtem Asphalt. Achten Sie auf die Schienen und das Kopfsteinpfaster bei der Kathedrale. Mittags bietet der Alcázar eine längere Pause im Trockenen. Die Fahrt hinunter zum Kloster Santa María del Parral ist bei Regen rutschig. Der Tag endet am Aussichtspunkt San Marcos, wo sich oft dramatische Wolkenformationen über dem Schloss zeigen.",
+            "hu": "A kerékpártúra az akvaduktnál indul vizes aszfalton. Ügyeljen a macskakövekre a katedrálisnál. Délben az Alcázar nyújt hosszabb fedett pihenőt. A lefelé vezető út a Santa María del Parral kolostorhoz esőben csúszós lehet. A nap a San Marcos kilátópontnál zárul, ahol drámai felhők gyűlhetnek a kastély fölé.",
+            "ro": "Turul cu bicicleta pornește de la apeduct pe asfalt umed. Atenție la pavajul de lângă Catedrală. La prânz, Alcázar oferă o pauză lungă la uscat. Coborârea spre mănăstirea Santa María del Parral poate fi alunecoasă pe ploaie. Ziua se termină la Mirador San Marcos, unde norii oferă un fundal dramatic pentru castel.",
+            "en": "The bike tour starts at the Aqueduct on damp tarmac. Be careful with the cobblestones near the Cathedral. At noon, the Alcázar offers a long indoor break. The ride down to the Parral Monastery is slippery when raining. The day ends at the San Marcos viewpoint, where dramatic clouds often form behind the castle."
+          },
+          "stops": [
+            {
+              "name": "Aqueduct of Segovia",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen.",
+                "hu": "Vigyázzon a fékezéssel.",
+                "ro": "Atenție la frânare.",
+                "en": "Careful when braking."
+              }
+            },
+            {
+              "name": "Segovia Cathedral",
+              "tip_5lang": {
+                "de": "Glattes Kopfsteinpflaster.",
+                "hu": "Csúszós macskakő.",
+                "ro": "Pavaj alunecos.",
+                "en": "Slippery cobbles."
+              }
+            },
+            {
+              "name": "Alcázar of Segovia",
+              "tip_5lang": {
+                "de": "Rad sicher abstellen.",
+                "hu": "Biztonságos bringatároló.",
+                "ro": "Parcați bicicleta sigur.",
+                "en": "Secure bike parking."
+              }
+            },
+            {
+              "name": "Monastery of Santa María del Parral",
+              "tip_5lang": {
+                "de": "Überdachter Eingang.",
+                "hu": "Fedett bejárat.",
+                "ro": "Intrare acoperită.",
+                "en": "Covered entrance area."
+              }
+            },
+            {
+              "name": "Church of Vera Cruz",
+              "tip_5lang": {
+                "de": "Pfütze auf dem Weg.",
+                "hu": "Pocsolyák az úton.",
+                "ro": "Bălți pe drum.",
+                "en": "Puddles on the path."
+              }
+            },
+            {
+              "name": "Mirador de la Pradera de San Marcos Viewpoint",
+              "tip_5lang": {
+                "de": "Nasses Gras meiden.",
+                "hu": "Kerülje a vizes füvet.",
+                "ro": "Evitați iarba udă.",
+                "en": "Avoid wet grass."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Regen in den abschüssigen Gassen Segovias wichtig.",
+              "Nutzen Sie die Tiefgarage am Aquädukt als trockenen Startpunkt.",
+              "Die Abfahrt ins Eresma-Tal erfordert bei Nässe gute Bremsen.",
+              "Tragen Sie eine wasserdichte Schicht, da der Wind den Regen peitscht."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a lejtős segoviai utcákon esőben.",
+              "Használja az akvadukt melletti mélygarázst száraz indulási pontként.",
+              "Az Eresma-völgybe vezető lejtőn jó fékekre lesz szükség.",
+              "Viseljen vízálló réteget, mert a szél erősen veri az esőt."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale pe străzile în pantă din Segovia.",
+              "Folosiți parcarea subterană de la apeduct ca punct de start uscat.",
+              "Coborârea în valea Eresma necesită frâne bune pe timp de ploaie.",
+              "Purtați haine impermeabile, vântul poate fi puternic în vale."
+            ],
+            "en": [
+              "Mudguards are essential for Segovia's sloping streets in the rain.",
+              "Use the underground parking near the Aqueduct as a dry starting point.",
+              "The descent into the Eresma valley requires reliable brakes when wet.",
+              "Wear a waterproof layer as the wind can drive the rain sideways."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt am Aquädukt ist bei Minusgraden erfrischend, aber windig. Mittags wärmt die Sonne die Plaza Mayor auf. Die Kathedrale und der Alcázar bieten notwendige Aufwärmstopps. Die Tour führt hinunter ins Eresma-Tal, wo es im Schatten deutlich kühler ist. Den Sonnenuntergang am Mirador San Marcos sollten Sie wegen der einsetzenden Kälte nicht zu lange genießen.",
+            "hu": "A reggeli tekerés az akvaduktnál fagyos, de frissítő. Délben a nap felmelegíti a Plaza Mayort. A katedrális és az Alcázar kötelező melegedőpontok. A túra az Eresma-völgybe vezet, ahol az árnyékos részeken sokkal hidegebb van. A naplementét a San Marcos kilátónál csak röviden élvezze a gyorsan hűlő idő miatt.",
+            "ro": "Plimbarea de dimineață la apeduct este revigorantă, dar geroasă. La prânz, soarele încălzește Plaza Mayor. Catedrala și Alcázar sunt opriri necesare pentru încălzire. Turul coboară în valea Eresma, unde este mult mai frig la umbră. Nu zăboviți prea mult la apus în Mirador San Marcos din cauza frigului.",
+            "en": "The morning ride by the Aqueduct is refreshing but freezing. At noon, the sun warms up Plaza Mayor. The Cathedral and Alcázar are essential warming stops. The tour heads down into the Eresma valley, which stays much colder in the shade. Don't linger too long at the San Marcos viewpoint after sunset as temperatures drop fast."
+          },
+          "stops": [
+            {
+              "name": "Aqueduct of Segovia",
+              "tip_5lang": {
+                "de": "Eisiger Windschatten.",
+                "hu": "Jeges szélárnyék.",
+                "ro": "Vânt tăios sub arcade.",
+                "en": "Icy wind tunnels."
+              }
+            },
+            {
+              "name": "Segovia Cathedral",
+              "tip_5lang": {
+                "de": "Sonnigen Platz suchen.",
+                "hu": "Keressen napos helyet.",
+                "ro": "Căutați un loc însorit.",
+                "en": "Find a sunny spot."
+              }
+            },
+            {
+              "name": "Alcázar of Segovia",
+              "tip_5lang": {
+                "de": "Handschuhe anlassen.",
+                "hu": "Hagyja fent a kesztyűt.",
+                "ro": "Nu scoateți mănușile.",
+                "en": "Keep gloves on."
+              }
+            },
+            {
+              "name": "Monastery of Santa María del Parral",
+              "tip_5lang": {
+                "de": "Schatten ist sehr kalt.",
+                "hu": "Az árnyék nagyon hideg.",
+                "ro": "Umbra este foarte rece.",
+                "en": "Very cold in the shade."
+              }
+            },
+            {
+              "name": "Church of Vera Cruz",
+              "tip_5lang": {
+                "de": "Pfad kann gefroren sein.",
+                "hu": "Az ösvény jeges lehet.",
+                "ro": "Potecă înghețată.",
+                "en": "Icy patches on path."
+              }
+            },
+            {
+              "name": "Mirador de la Pradera de San Marcos Viewpoint",
+              "tip_5lang": {
+                "de": "Kälte zieht vom Fluss.",
+                "hu": "Hideg jön a folyó felől.",
+                "ro": "Frig de la râu.",
+                "en": "Cold air from the river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind wegen des Fahrtwinds bei 1000m Höhe kritisch.",
+              "Die Abfahrt ins Tal ist im Winter schattig und oft vereist.",
+              "Nutzen Sie die Mittagsstunden auf der Plaza Mayor für Vitamin D.",
+              "Achten Sie auf Raureif auf den hölzernen Brücken im Tal."
+            ],
+            "hu": [
+              "A menetszél miatt a meleg kesztyű kritikus 1000 méteres magasságban.",
+              "A völgybe vezető lejtő télen árnyékos és gyakran jeges.",
+              "Használja ki a déli órákat a Plaza Mayoron egy kis napsütésért.",
+              "Ügyeljen a dérre a völgyben lévő fahidakon."
+            ],
+            "ro": [
+              "Mănușile groase sunt critice din cauza vântului la 1000m altitudine.",
+              "Coborârea în vale este umbrită și adesea înghețată iarna.",
+              "Profită de orele prânzului în Plaza Mayor pentru soare.",
+              "Atenție la chiciură pe podurile de lemn din vale."
+            ],
+            "en": [
+              "Thermal gloves are critical due to wind chill at 1000m altitude.",
+              "The descent into the valley is shaded and often icy in winter.",
+              "Maximize the midday hours at Plaza Mayor for some sun exposure.",
+              "Watch out for frost on the wooden bridges in the valley."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -916,6 +1298,188 @@
           "Be aware of one-way streets and pedestrian zones in the historic center.",
           "A car allows you to easily reach viewpoints outside the center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Parken Sie morgens im Parkhaus am Aquädukt, um trocken zu starten. Die Fahrt zur Plaza Mayor führt durch enge Gassen, wo Fußgänger oft unter Arkaden warten. Mittags bietet die Kathedrale Schutz. Nachmittags fahren Sie zum Alcázar und weiter zum Aussichtspunkt San Marcos. Der Tag endet bei den Klöstern im Tal, wo man bequem im Auto auf das Ende eines Schauers warten kann.",
+            "hu": "Parkoljon az akvadukt melletti mélygarázsban a száraz induláshoz. Az út a Plaza Mayor felé szűk utcákon vezet, ahol a gyalogosok az árkádok alatt várják az eső végét. Délben a katedrális nyújt menedéket. Délután hajtson az Alcázarhoz, majd a San Marcos kilátóhoz. A nap a völgyi kolostoroknál zárul, ahol az autóból is várhatja a zápor végét.",
+            "ro": "Parcați dimineața în garajul de la apeduct pentru a începe turul la uscat. Drumul spre Plaza Mayor trece prin străzi înguste. La prânz, Catedrala oferă adăpost. După-amiaza conduceți spre Alcázar și apoi la Mirador San Marcos. Ziua se încheie la mănăstirile din vale, unde puteți aștepta în mașină trecerea ploii.",
+            "en": "Park in the underground garage near the Aqueduct to start dry. The drive to Plaza Mayor goes through narrow streets where pedestrians crowd under eaves. At noon, the Cathedral is your shelter. Spend the afternoon driving to the Alcázar and then to San Marcos viewpoint. The day ends at the valley monasteries, where you can wait out showers in your car."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Aqueduct",
+              "tip_5lang": {
+                "de": "Trockener Ausstieg.",
+                "hu": "Száraz kiszállás.",
+                "ro": "Ieșire la uscat.",
+                "en": "Dry exit from car."
+              }
+            },
+            {
+              "name": "Aqueduct of Segovia",
+              "tip_5lang": {
+                "de": "Kurzer Weg zum Bogen.",
+                "hu": "Rövid út az ívekig.",
+                "ro": "Drum scurt spre arc.",
+                "en": "Short walk to arches."
+              }
+            },
+            {
+              "name": "Segovia Cathedral & Plaza Mayor",
+              "tip_5lang": {
+                "de": "Parkhaus in der Nähe.",
+                "hu": "Mélygarázs a közelben.",
+                "ro": "Parcare aproape.",
+                "en": "Nearby underground park."
+              }
+            },
+            {
+              "name": "Alcázar of Segovia",
+              "tip_5lang": {
+                "de": "Offizieller Parkplatz.",
+                "hu": "Hivatalos parkoló.",
+                "ro": "Parcare oficială.",
+                "en": "Official parking lot."
+              }
+            },
+            {
+              "name": "Mirador de la Pradera de San Marcos Viewpoint",
+              "tip_5lang": {
+                "de": "Blick aus dem Auto.",
+                "hu": "Kilátás az autóból.",
+                "ro": "Vedere din mașină.",
+                "en": "View from inside car."
+              }
+            },
+            {
+              "name": "Church of Vera Cruz & El Parral Monastery",
+              "tip_5lang": {
+                "de": "Zufahrt kann matschig sein.",
+                "hu": "A behajtó sáros lehet.",
+                "ro": "Drumul poate fi noroios.",
+                "en": "Driveway might be muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Tiefgaragen (Aquädukt, Jose Zorrilla) für trockene Übergänge.",
+              "Einige Gassen in der Altstadt sind bei Regen sehr eng für Ausweichmanöver.",
+              "Vermeiden Sie das Parken unter Bäumen im Eresma-Tal bei Sturm.",
+              "Haben Sie immer einen Regenschirm im Kofferraum für den Weg zum Alcázar."
+            ],
+            "hu": [
+              "Használja a mélygarázsokat (Aqueduct, Jose Zorrilla) a száraz közlekedéshez.",
+              "Néhány óvárosi utca esőben nagyon szűkös lehet a manőverezéshez.",
+              "Viharban kerülje a fák alatti parkolást az Eresma-völgyben.",
+              "Mindig legyen esernyő a csomagtartóban az Alcázarhoz vezető úthoz."
+            ],
+            "ro": [
+              "Folosiți parcările subterane pentru a evita ploaia la urcare/coborâre.",
+              "Unele străzi din orașul vechi sunt foarte înguste pentru manevre pe ploaie.",
+              "Evitați parcarea sub copaci în valea Eresma în caz de furtună.",
+              "Țineți mereu o umbrelă în portbagaj pentru drumul spre Alcázar."
+            ],
+            "en": [
+              "Use underground parking (Aqueduct, Jose Zorrilla) for dry transitions.",
+              "Some old town streets are very narrow for maneuvering in the rain.",
+              "Avoid parking under trees in the Eresma valley during storms.",
+              "Always keep an umbrella in the trunk for the walk to the Alcázar."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie morgens am Aquädukt, wo der Frost die Steine weiß färbt. Die Fahrt zur Plaza Mayor bietet einen warmen Puffer gegen den Wind. Mittags erkunden Sie die Kathedrale und den Alcázar, während das Auto aufwärmt. Nachmittags geht es zum Mirador San Marcos für den frühen Sonnenuntergang gegen 17:30 Uhr. Die Klöster im Tal sind im Winter oft nebelverhangen und mystisch.",
+            "hu": "Kezdje a reggelt az akvaduktnál, ahol a zúzmara fehérre festi a köveket. Az út a Plaza Mayorhoz védelmet nyújt a metsző szél ellen. Délben látogassa meg a katedrálist és az Alcázart. Délután hajtson a San Marcos kilátóhoz a korai, 17:30-as naplementére. A völgyi kolostorok télen gyakran ködbe burkolóznak és misztikusak.",
+            "ro": "Începeți dimineața la apeduct, unde bruma acoperă pietrele. Drumul spre Plaza Mayor oferă confort termic împotriva vântului. La prânz vizitați Catedrala și Alcázar. După-amiaza mergeți la Mirador San Marcos pentru apusul de la ora 17:30. Mănăstirile din vale sunt adesea învăluite în ceață iarna.",
+            "en": "Start the morning at the Aqueduct, where frost colors the stones white. The drive to Plaza Mayor provides warmth against the biting wind. Explore the Cathedral and Alcázar at noon. By afternoon, head to the San Marcos viewpoint for the early 17:30 sunset. The valley monasteries are often shrouded in mystical winter mist."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Aqueduct",
+              "tip_5lang": {
+                "de": "Scheiben enteisen.",
+                "hu": "Jégtelenítse a szélvédőt.",
+                "ro": "Dezghețați parbrizul.",
+                "en": "De-ice the windshield."
+              }
+            },
+            {
+              "name": "Aqueduct of Segovia",
+              "tip_5lang": {
+                "de": "Frost auf den Stufen.",
+                "hu": "Zúzmarás lépcsők.",
+                "ro": "Brumă pe trepte.",
+                "en": "Frost on the steps."
+              }
+            },
+            {
+              "name": "Segovia Cathedral & Plaza Mayor",
+              "tip_5lang": {
+                "de": "Auto-Heizung nutzen.",
+                "hu": "Használja az autó fűtését.",
+                "ro": "Folosiți căldura în mașină.",
+                "en": "Use the car heater."
+              }
+            },
+            {
+              "name": "Alcázar of Segovia",
+              "tip_5lang": {
+                "de": "Parkplatz ist zugig.",
+                "hu": "Huzatos parkoló.",
+                "ro": "Parcare expusă vântului.",
+                "en": "Drafty parking area."
+              }
+            },
+            {
+              "name": "Mirador de la Pradera de San Marcos Viewpoint",
+              "tip_5lang": {
+                "de": "Heizung anlassen.",
+                "hu": "Hagyja járni a fűtést.",
+                "ro": "Lăsați căldura pornită.",
+                "en": "Keep the heater on."
+              }
+            },
+            {
+              "name": "Church of Vera Cruz & El Parral Monastery",
+              "tip_5lang": {
+                "de": "Schattenparkplatz meiden.",
+                "hu": "Kerülje az árnyékos helyet.",
+                "ro": "Evitați parcarea la umbră.",
+                "en": "Avoid shaded parking."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glatteis in den schattigen Gassen der Altstadt.",
+              "Die Batterieleistung kann bei den Minusgraden in Segovia sinken.",
+              "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit (18:00).",
+              "Sitzheizung ist ein Segen nach dem windigen Spaziergang am Aquädukt."
+            ],
+            "hu": [
+              "Ügyeljen a jegesedésre az óváros árnyékos utcáiban.",
+              "Az akkumulátor teljesítménye csökkenhet a segoviai mínuszokban.",
+              "Tervezze meg a visszautat a sötétedés beállta (18:00) előtt.",
+              "Az ülésfűtés áldás az akvaduktnál tett szeles séta után."
+            ],
+            "ro": [
+              "Atenție la porțiunile înghețate de pe străzile umbrite.",
+              "Bateria mașinii poate fi afectată de gerul din Segovia.",
+              "Planificați întoarcerea înainte de lăsarea întunericului (18:00).",
+              "Încălzirea în scaune este ideală după vântul de la apeduct."
+            ],
+            "en": [
+              "Watch out for black ice in the shaded alleys of the old town.",
+              "Car battery performance can drop in Segovia's sub-zero temperatures.",
+              "Plan your return drive before total darkness at 18:00.",
+              "Seat heating is a blessing after a windy walk by the Aqueduct."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1215,6 +1779,188 @@
           "Bus schedules are posted at each stop, but frequency can be lower on weekends.",
           "Always validate your ticket when you board the bus."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Kommen Sie am Busbahnhof an und nehmen Sie den Stadtbus zum Aquädukt. Mittags bringt Sie der Bus zur Plaza Mayor für die Kathedrale. Nachmittags ist der Bus zum Alcázar die trockenste Option. Der Weg zur Vera Cruz Kirche erfordert einen kurzen Spaziergang im Regen, aber der Rückbus zum Aquädukt wartet schon. Ein Tag ohne nasses Pflastertreten.",
+            "hu": "Érkezzen a buszállomásra, majd helyi járattal menjen az akvadukthoz. Délben a busz a Plaza Mayorhoz viszi a katedrálishoz. Délután az Alcázarhoz tartó járat a legszárazabb opció. A Vera Cruz templomhoz rövid séta kell az esőben, de a visszajárat már várja. Egy nap ázás nélkül.",
+            "ro": "Sosiți la autogară și luați autobuzul local spre apeduct. La prânz, autobuzul vă duce în Plaza Mayor pentru Catedrală. După-amiaza, linia spre Alcázar este cea mai uscată opțiune. Drumul spre Vera Cruz necesită o scurtă plimbare prin ploaie, dar autobuzul de retur vă așteaptă.",
+            "en": "Arrive at the bus station and take the local bus to the Aqueduct. At noon, the bus drops you at Plaza Mayor for the Cathedral. By afternoon, the transit to the Alcázar is your driest bet. The trip to Vera Cruz church requires a short walk in the rain, but the return bus to the Aqueduct is frequent. A day mostly under a roof."
+          },
+          "stops": [
+            {
+              "name": "Segovia Bus Station",
+              "tip_5lang": {
+                "de": "Überdachte Wartehalle.",
+                "hu": "Fedett váróterem.",
+                "ro": "Sală de așteptare.",
+                "en": "Covered waiting area."
+              }
+            },
+            {
+              "name": "Aqueduct of Segovia",
+              "tip_5lang": {
+                "de": "Bushalt direkt davor.",
+                "hu": "Buszmegálló közvetlenül.",
+                "ro": "Stație chiar în față.",
+                "en": "Bus stop right in front."
+              }
+            },
+            {
+              "name": "Cathedral & Jewish Quarter",
+              "tip_5lang": {
+                "de": "Fahrt spart nassen Weg.",
+                "hu": "A busz megóv a víztől.",
+                "ro": "Autobuzul vă ferește de apă.",
+                "en": "Saves a wet walk."
+              }
+            },
+            {
+              "name": "Alcázar of Segovia",
+              "tip_5lang": {
+                "de": "Halt nah am Eingang.",
+                "hu": "Megálló a bejáratnál.",
+                "ro": "Stație lângă intrare.",
+                "en": "Stop near the entrance."
+              }
+            },
+            {
+              "name": "Church of Vera Cruz",
+              "tip_5lang": {
+                "de": "Wenig Schutz am Halt.",
+                "hu": "Kevés menedék a megállóban.",
+                "ro": "Puțin adăpost în stație.",
+                "en": "Limited shelter at stop."
+              }
+            },
+            {
+              "name": "Return to Aqueduct Area",
+              "tip_5lang": {
+                "de": "Busse fahren oft.",
+                "hu": "Gyakori járatok.",
+                "ro": "Autobuze frecvente.",
+                "en": "Frequent bus service."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Linien 1 und 5 verbinden die wichtigsten Sehenswürdigkeiten trocken.",
+              "Kaufen Sie ein Zehnerticket, um Umstiege im Regen zu erleichtern.",
+              "Die Wartebereiche am Aquädukt bieten wenig Schutz vor Schlagregen.",
+              "Busse können bei starkem Regen in den engen Gassen Verspätung haben."
+            ],
+            "hu": [
+              "Az 1-es és 5-ös vonal szárazon köti össze a főbb látnivalókat.",
+              "Vásároljon tízalkalmas jegyet a kényelmes átszálláshoz.",
+              "Az akvaduktnál lévő váróhelyek kevés védelmet nyújtanak a zivatar ellen.",
+              "Heves esőben a buszok késhetnek a szűk utcák miatt."
+            ],
+            "ro": [
+              "Liniile 1 și 5 fac legătura între principalele obiective la uscat.",
+              "Cumpărați un bilet cu 10 călătorii pentru transferuri ușoare.",
+              "Stațiile de la apeduct oferă puțină protecție contra ploii torențiale.",
+              "Autobuzele pot avea întârzieri pe ploaie din cauza străzilor înguste."
+            ],
+            "en": [
+              "Lines 1 and 5 connect the major sights while keeping you dry.",
+              "Buy a 10-trip pass to make transitions easier in the rain.",
+              "Waiting areas at the Aqueduct offer limited protection from driving rain.",
+              "Buses may be delayed during heavy rain due to narrow street navigation."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens am Busbahnhof weht ein kalter Wind; nehmen Sie sofort den Bus zum Aquädukt. Mittags ist die Fahrt zur Plaza Mayor eine warme Pause. Nachmittags bringt Sie der Bus zum Alcázar, bevor es für den Sonnenuntergang ins Tal geht. Der Rückbus zum Aquädukt gegen 18:00 Uhr ist der perfekte Abschluss, bevor die frostige Nacht einsetzt. Öffentlicher Nahverkehr als Wärmespender.",
+            "hu": "Reggel a buszállomáson hideg szél fúj, szálljon fel rögtön az akvadukt felé tartó járatra. Délben a buszozás a Plaza Mayorra kellemes melegedő. Délután busszal menjen az Alcázarhoz a naplemente előtt. A 18:00 körüli visszajárat az akvadukthoz tökéletes befejezés a fagyos éjszaka előtt.",
+            "ro": "Dimineața la autogară suflă un vânt rece; luați imediat autobuzul spre apeduct. La prânz, drumul spre Plaza Mayor este o pauză călduroasă. După-amiaza luați autobuzul spre Alcázar înainte de apus. Autobuzul de retur de la ora 18:00 este perfect înainte de noaptea geroasă.",
+            "en": "Cold winds blow at the bus station; hop on the first bus to the Aqueduct. At noon, the ride to Plaza Mayor is a cozy warm break. Take the bus to the Alcázar in the afternoon before heading to the valley for sunset. The 18:00 return bus to the Aqueduct is the perfect finish before the frosty night sets in."
+          },
+          "stops": [
+            {
+              "name": "Segovia Bus Station",
+              "tip_5lang": {
+                "de": "Innen warten.",
+                "hu": "Várjon bent.",
+                "ro": "Așteptați în interior.",
+                "en": "Wait inside."
+              }
+            },
+            {
+              "name": "Aqueduct of Segovia",
+              "tip_5lang": {
+                "de": "Zugiger Platz.",
+                "hu": "Huzatos tér.",
+                "ro": "Piață cu curent.",
+                "en": "Drafty square."
+              }
+            },
+            {
+              "name": "Cathedral & Jewish Quarter",
+              "tip_5lang": {
+                "de": "Warmer Bus.",
+                "hu": "Meleg busz.",
+                "ro": "Autobuz încălzit.",
+                "en": "Warm bus ride."
+              }
+            },
+            {
+              "name": "Alcázar of Segovia",
+              "tip_5lang": {
+                "de": "Letzter Bus ca. 20:00.",
+                "hu": "Utolsó busz 20:00 körül.",
+                "ro": "Ultimul autobuz la 20:00.",
+                "en": "Last bus around 20:00."
+              }
+            },
+            {
+              "name": "Church of Vera Cruz",
+              "tip_5lang": {
+                "de": "Sehr kalt am Halt.",
+                "hu": "Nagyon hideg a megálló.",
+                "ro": "Foarte frig în stație.",
+                "en": "Very cold at the stop."
+              }
+            },
+            {
+              "name": "Return to Aqueduct Area",
+              "tip_5lang": {
+                "de": "Direkte Verbindung.",
+                "hu": "Közvetlen járat.",
+                "ro": "Legătură directă.",
+                "en": "Direct connection."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter gut beheizt und bieten Schutz vor dem Windchill.",
+              "Achten Sie auf den Winterfahrplan, da einige Linien früher enden.",
+              "Das Aquädukt ist der Hauptknotenpunkt für alle beheizten Buslinien.",
+              "Tragen Sie Zwiebellook, da es im Bus warm, draußen aber eisig ist."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek, védelmet nyújtanak a szélhűtés ellen.",
+              "Figyeljen a téli menetrendre, néhány járat korábban leállhat.",
+              "Az akvadukt a fő csomópont minden fűtött buszjárat számára.",
+              "Öltözzön rétegesen, mert a buszon meleg van, kint viszont fagy."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite iarna și oferă protecție contra vântului.",
+              "Verificați orarul de iarnă, unele linii se pot închide mai devreme.",
+              "Apeductul este principalul nod pentru toate liniile de autobuz.",
+              "Îmbrăcați-vă în straturi: este cald în autobuz, dar ger afară."
+            ],
+            "en": [
+              "Buses are well-heated in winter, offering a break from the wind chill.",
+              "Check the winter schedule as some lines might end service earlier.",
+              "The Aqueduct is the main hub for all heated local bus lines.",
+              "Dress in layers: it's warm on the bus but freezing outside."
+            ]
+          }
+        }
       }
     }
   }

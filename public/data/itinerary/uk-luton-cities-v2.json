@@ -376,6 +376,188 @@
           "Check museum opening times in advance as they can vary.",
           "The town centre is compact and easy to navigate on foot."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie unter dem Vordach des Rathauses, bevor Sie in das kreative Hat District flüchten. Der Weg zur St. Mary's führt durch überdachte Passagen. Mittags bietet das Wardown House perfekten Schutz vor dem Regen in viktorianischem Ambiente. Der Nachmittag gehört den Galerien im Stockwood Discovery Centre, wo Sie trocken zwischen den Kutschenausstellungen wandern können.",
+            "hu": "Kezdje a túrát a Városháza védett oszlopainál, majd keressen menedéket a Hat District kreatív tereiben. Az eső elől a központi bevásárlóközpont folyosóin keresztül juthat el a Szent Mária-templomhoz. Délután a Wardown House múzeuma és a Stockwood Discovery Centre fedett kiállítóterei kínálnak tartalmas kikapcsolódást, ahol a kocsikiállítás és a galériák szárazon is élvezhetőek.",
+            "ro": "Începeți traseul sub arcadele primăriei, apoi refugiați-vă în spațiile creative din Hat District. Drumul spre Biserica St Mary poate fi parcurs folosind pasajele acoperite ale mall-ului local. Prânzul și după-amiaza sunt dedicate muzeelor Wardown House și Stockwood Discovery Centre, unde expozițiile interioare de trăsuri și artă vă protejează perfect de intemperiile britanice.",
+            "en": "Start under the shelter of the Town Hall before heading to the creative indoor spaces of the Hat District. Use the central mall's covered walkways to reach St Mary's Church. Spend your midday and afternoon in the cozy interiors of Wardown House and the Stockwood Discovery Centre, where the impressive carriage collection and galleries keep you dry while exploring Luton's history."
+          },
+          "stops": [
+            {
+              "name": "Luton Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Haupteingang als Unterstand, während Sie die Architektur bewundern.",
+                "hu": "Használja a főbejárat előtti fedett részt az épület megcsodálásához.",
+                "ro": "Folosiți intrarea principală ca adăpost în timp ce admirați arhitectura.",
+                "en": "Use the main entrance portico as a brief shelter while admiring the facade."
+              }
+            },
+            {
+              "name": "The Hat District",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine Kaffeepause im Trockenen in industriellem Flair.",
+                "hu": "Tökéletes hely egy kávészünetre az ipari stílusú, fedett belső terekben.",
+                "ro": "Locul perfect pentru o pauză de cafea la adăpost, într-un decor industrial.",
+                "en": "Perfect spot for a dry coffee break in a stylish industrial setting."
+              }
+            },
+            {
+              "name": "St Mary's Church",
+              "tip_5lang": {
+                "de": "Die prachtvolle Innenausstattung bietet Ruhe und Schutz vor dem Guss.",
+                "hu": "A gyönyörű belső tér nyugalmat és védelmet nyújt a záporok elől.",
+                "ro": "Interiorul splendid oferă liniște și protecție împotriva ploii.",
+                "en": "The magnificent interior provides peace and shelter from the downpour."
+              }
+            },
+            {
+              "name": "Wardown Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind weniger schlammig; halten Sie sich am Seeufer.",
+                "hu": "Az aszfaltozott utak kevésbé sárosak; maradjon a tóparti sétányokon.",
+                "ro": "Aleile asfaltate sunt mai puțin noroioase; rămâneți pe drumul principal.",
+                "en": "Paved paths are less muddy; stick to the lake-side walkways."
+              }
+            },
+            {
+              "name": "Wardown House, Museum and Gallery",
+              "tip_5lang": {
+                "de": "Ein ideales Refugium mit interaktiven Räumen und einem gemütlichen Teesalon.",
+                "hu": "Ideális búvóhely interaktív szobákkal és egy barátságos teázóval.",
+                "ro": "Un refugiu ideal cu săli interactive și un salon de ceai primitor.",
+                "en": "An ideal refuge with interactive rooms and a cozy tea room."
+              }
+            },
+            {
+              "name": "Stockwood Discovery Centre",
+              "tip_5lang": {
+                "de": "Die Kutscherhalle ist komplett überdacht und bietet faszinierende Einblicke.",
+                "hu": "A kocsiszín teljesen fedett, és lenyűgöző látnivalókat tartogat.",
+                "ro": "Galeria trăsurilor este complet acoperită și oferă exponate fascinante.",
+                "en": "The carriage gallery is fully covered and offers fascinating exhibits."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei den böigen Winden in Luton unerlässlich.",
+              "Nutzen Sie 'The Mall' als trockene Abkürzung zwischen den Zielen im Stadtzentrum.",
+              "Die Museen in Luton sind kostenlos und bieten hervorragende sanitäre Anlagen.",
+              "Wasserfeste Schuhe sind für den Weg durch den Wardown Park sehr zu empfehlen."
+            ],
+            "hu": [
+              "Egy stabil esernyő elengedhetetlen a lutoni szeles esőben.",
+              "Használja a 'The Mall' bevásárlóközpontot száraz átjáróként a belvárosban.",
+              "Luton múzeumai ingyenesek és kiváló lehetőséget adnak a felmelegedésre.",
+              "Vízálló cipő erősen ajánlott a Wardown Parkon való átkeléshez."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza vântului din Luton.",
+              "Folosiți centrul comercial 'The Mall' ca scurtătură uscată în centrul orașului.",
+              "Muzeele din Luton sunt gratuite și oferă facilități excelente la interior.",
+              "Încălțămintea impermeabilă este recomandată pentru traversarea parcului Wardown."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to the gusty winds in Luton.",
+              "Use 'The Mall' shopping centre as a dry shortcut between town centre spots.",
+              "Luton's museums are free and provide excellent indoor facilities and cafes.",
+              "Waterproof footwear is highly recommended for the walk through Wardown Park."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Rathaus, bevor der Hat District mit warmen Galerien lockt. Der Besuch in St. Mary's ist zur Mittagszeit besonders stimmungsvoll. Das Wardown House wirkt im Winter wie ein viktorianisches Weihnachtshaus. Beenden Sie den Tag frühzeitig im Stockwood Discovery Centre, da die Gärten bei Einbruch der Dunkelheit gegen 16 Uhr eine besondere Ruhe ausstrahlen.",
+            "hu": "A fagyos reggel a Városházánál indul, majd a Hat District meleg galériái csábítanak. A Szent Mária-templom délben különleges, meghitt hangulatot áraszt. A Wardown House télen leginkább egy viktoriánus karácsonyi házra emlékeztet. Érdemes korán a Stockwood Discovery Centre-be érni, mert a kertek a délutáni sötétedéskor, 16 óra körül bezárnak.",
+            "ro": "O dimineață geroasă începe la primărie, urmată de căldura galeriilor din Hat District. Vizita la Biserica St Mary este deosebit de atmosferică la prânz. Wardown House pare iarna o casă victoriană de Crăciun. Încheiați ziua devreme la Stockwood Discovery Centre, deoarece grădinile capătă o liniște aparte la lăsarea serii, în jurul orei 16:00.",
+            "en": "A crisp winter morning starts at the Town Hall, followed by the warm creative hubs of the Hat District. St Mary's Church offers a serene midday escape. Wardown House feels like a Victorian Christmas postcard in the cold. Aim to finish early at Stockwood Discovery Centre, as the gardens and galleries are best enjoyed before the 4 PM winter sunset."
+          },
+          "stops": [
+            {
+              "name": "Luton Town Hall",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Weihnachtsbeleuchtung, die den Platz oft festlich schmückt.",
+                "hu": "Csodálja meg a karácsonyi fényeket, amelyek gyakran díszítik a teret.",
+                "ro": "Admirați luminile de sărbătoare care decorează adesea piața în acest sezon.",
+                "en": "Admire the festive lights that often decorate the square during winter."
+              }
+            },
+            {
+              "name": "The Hat District",
+              "tip_5lang": {
+                "de": "Die Cafés hier sind perfekt, um sich nach dem ersten Spaziergang aufzuwärmen.",
+                "hu": "Az itteni kávézók tökéletesek a felmelegedésre az első séta után.",
+                "ro": "Cafenelele de aici sunt ideale pentru a vă încălzi după prima plimbare.",
+                "en": "The cafes here are perfect for warming up after your initial walk."
+              }
+            },
+            {
+              "name": "St Mary's Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf die kurzen Öffnungszeiten und gelegentliche Winterkonzerte.",
+                "hu": "Ügyeljen a rövidített nyitvatartásra és az alkalmi téli koncertekre.",
+                "ro": "Atenție la programul scurt și la eventualele concerte de iarnă.",
+                "en": "Watch for shorter visiting hours and occasional winter concerts."
+              }
+            },
+            {
+              "name": "Wardown Park",
+              "tip_5lang": {
+                "de": "Bei Frost bietet der See ein malerisches Motiv; Vorsicht auf glatten Wegen.",
+                "hu": "Fagy esetén a tó festői látványt nyújt; vigyázzon a csúszós utakon.",
+                "ro": "În caz de îngheț, lacul oferă un peisaj pitoresc; atenție la gheață.",
+                "en": "In frosty weather, the lake is very scenic; watch for icy patches on paths."
+              }
+            },
+            {
+              "name": "Wardown House, Museum and Gallery",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den verschneiten Park aus den warmen Räumen.",
+                "hu": "Élvezze a havas park látványát a múzeum fűtött szobáiból.",
+                "ro": "Bucurați-vă de vederea parcului înzăpezit din camerele încălzite.",
+                "en": "Enjoy the view of the wintry park from the warmth of the museum rooms."
+              }
+            },
+            {
+              "name": "Stockwood Discovery Centre",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch vor 15:30 Uhr, um das Tageslicht zu nutzen.",
+                "hu": "Tervezze a látogatást 15:30 előttre, hogy kihasználja a nappali fényt.",
+                "ro": "Planificați vizita înainte de 15:30 pentru a profita de lumina zilei.",
+                "en": "Plan your visit before 3:30 PM to make the most of the daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In Luton wird es im Dezember bereits gegen 16:00 Uhr dunkel.",
+              "Schichten Sie Ihre Kleidung; Museen sind gut beheizt, Parks sehr windig.",
+              "Die Museen schließen im Winter oft eine Stunde früher als im Sommer.",
+              "Ein heißer Tee im Wardown House Café ist das Highlight an kalten Tagen."
+            ],
+            "hu": [
+              "Lutonban decemberben már délután 4 körül sötétedik.",
+              "Öltözzön rétegesen: a múzeumok jól fűtöttek, a parkok viszont szelesek.",
+              "A múzeumok télen gyakran egy órával korábban zárnak, mint nyáron.",
+              "Egy forró tea a Wardown House kávézójában igazi téli élmény."
+            ],
+            "ro": [
+              "În Luton se întunecă deja în jurul orei 16:00 în luna decembrie.",
+              "Îmbrăcați-vă în straturi; muzeele sunt încălzite, dar parcurile sunt geroase.",
+              "Muzeele se închid adesea cu o oră mai devreme iarna decât vara.",
+              "Un ceai fierbinte la cafeneaua Wardown House este esențial în zilele reci."
+            ],
+            "en": [
+              "It gets dark in Luton around 4:00 PM during the peak of winter.",
+              "Dress in layers; museums are well-heated, but the parks can be very windy.",
+              "Museums often close one hour earlier in winter compared to summer.",
+              "A hot tea at the Wardown House café is a highlight on cold days."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -707,6 +889,170 @@
           "Always lock your bike in a secure location.",
           "Carry water and snacks, especially for the longer legs of the journey."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das Hat District, bevor Sie auf Radwegen zum Wardown Park fahren. Achten Sie auf rutschige Kurven am Kenilworth Road Stadion. Das Stockwood Discovery Centre ist ein großartiges Ziel mit sicheren Abstellplätzen. Beenden Sie die Tour an der St. Mary's Church, wo Sie im Zentrum schnell Schutz finden.",
+            "hu": "Fedezze fel a Hat Districtet, majd tekerjen a Wardown Park kerékpárútjain. Vigyázzon a csúszós kanyarokra a Kenilworth Road stadion környékén. A Stockwood Discovery Centre kiváló célpont biztonságos tárolókkal. Zárja a kört a Szent Mária-templomnál, ahonnan pillanatok alatt beérhet a belváros fedett részeire.",
+            "ro": "Explorați Hat District înainte de a pedala spre Wardown Park. Atenție la curbele alunecoase din zona stadionului Kenilworth Road. Stockwood Discovery Centre este o destinație excelentă, cu parcări sigure. Încheiați turul la Biserica St Mary, situată aproape de zonele acoperite din centru.",
+            "en": "Explore the Hat District before cycling along the paths to Wardown Park. Be careful of slippery surfaces near the Kenilworth Road Stadium. Stockwood Discovery Centre is a great destination with secure bike racks. Finish at St Mary's Church, conveniently located near town centre shelters."
+          },
+          "stops": [
+            {
+              "name": "The Hat District",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche zum Sichern Ihres Rades.",
+                "hu": "Használja a fedett részeket a kerékpár biztonságos lezárásához.",
+                "ro": "Folosiți zonele acoperite pentru a vă securiza bicicleta la uscat.",
+                "en": "Use the sheltered areas nearby to secure your bike away from the rain."
+              }
+            },
+            {
+              "name": "Wardown Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Rasenflächen; bleiben Sie auf den befestigten Wegen.",
+                "hu": "Kerülje a füves területeket; maradjon a szilárd burkolatú utakon.",
+                "ro": "Evitați zonele cu iarbă; rămâneți pe pistele asfaltate.",
+                "en": "Avoid grassy areas; stick to the hard-surfaced paths to avoid mud."
+              }
+            },
+            {
+              "name": "Kenilworth Road Stadium",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen in den engen Gassen um das Stadion.",
+                "hu": "Vigyázzon a tócsákra a stadion körüli szűk utcákban.",
+                "ro": "Atenție la bălți în străzile înguste din jurul stadionului.",
+                "en": "Watch out for deep puddles in the narrow streets around the stadium."
+              }
+            },
+            {
+              "name": "Stockwood Discovery Centre",
+              "tip_5lang": {
+                "de": "Der Fahrradparkplatz ist nah am Eingang und teilweise geschützt.",
+                "hu": "A kerékpártároló közel van a bejárathoz és részben védett.",
+                "ro": "Parcarea pentru biciclete este aproape de intrare și parțial protejată.",
+                "en": "The bike parking is close to the entrance and partially sheltered."
+              }
+            },
+            {
+              "name": "St Mary's Church",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter Bäumen ab, um den Sattel trocken zu halten.",
+                "hu": "Parkoljon fák alatt, hogy a nyereg szárazabb maradjon.",
+                "ro": "Parcați bicicleta sub copaci pentru a menține șaua mai uscată.",
+                "en": "Park your bike under the trees to keep the saddle relatively dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist für diese Tour unerlässlich.",
+              "Vermeiden Sie starkes Bremsen auf nassen Blättern im Wardown Park.",
+              "Überprüfen Sie Ihre Bremsen, da der Weg nach Stockwood leicht ansteigt.",
+              "Ein Sattelschutz hält Ihre Kleidung beim Aufsteigen trocken."
+            ],
+            "hu": [
+              "A teljes esőfelszerelés elengedhetetlen ehhez a túrához.",
+              "Kerülje az erős fékezést a vizes leveleken a Wardown Parkban.",
+              "Ellenőrizze a fékeket, mert a Stockwood felé vezető út enyhén emelkedik.",
+              "Egy nyereghuzat segít szárazon tartani a ruházatát induláskor."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este indispensabil pentru acest traseu.",
+              "Evitați frânarea bruscă pe frunzele ude din Wardown Park.",
+              "Verificați frânele, deoarece drumul spre Stockwood este în pantă ușoară.",
+              "O husă de șa vă va menține hainele uscate la plecare."
+            ],
+            "en": [
+              "Full waterproof gear is essential for this cycling route.",
+              "Avoid heavy braking on wet leaves in the Wardown Park area.",
+              "Check your brakes before the slight incline up to Stockwood.",
+              "A saddle cover will keep your clothes dry when hopping back on."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie im Hat District und genießen Sie die klare Winterluft im Wardown Park. Der Weg zum Stadion ist bei Frost besonders rutschig, fahren Sie vorsichtig. Das Stockwood Discovery Centre bietet Wärme und interessante Ausstellungen für den Nachmittag. Kehren Sie vor Sonnenuntergang zur St. Mary's Church zurück, um sicher im Hellen anzukommen.",
+            "hu": "Kezdje a Hat Districtben, majd élvezze a friss téli levegőt a Wardown Parkban. A stadion felé vezető út fagyos időben csúszós lehet, tekerjen óvatosan. A Stockwood Discovery Centre meleg kiállítóterei tökéletesek a délutánra. Érjen vissza a Szent Mária-templomhoz még naplemente előtt a biztonság kedvéért.",
+            "ro": "Începeți în Hat District și bucurați-vă de aerul curat de iarnă în Wardown Park. Drumul spre stadion poate fi alunecos; pedalați cu prudență. Stockwood Discovery Centre oferă căldură și expoziții interesante pentru după-amiază. Reveniți la Biserica St Mary înainte de apus pentru siguranță.",
+            "en": "Start in the Hat District and enjoy the crisp winter air in Wardown Park. The ride towards the stadium can be slippery in frost, so take extra care. Stockwood Discovery Centre provides warmth and great exhibits for the afternoon. Ensure you head back to St Mary's Church before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "The Hat District",
+              "tip_5lang": {
+                "de": "Holen Sie sich ein heißes Getränk für den Weg zum Park.",
+                "hu": "Vigyen magával egy forró italt a parkba vezető útra.",
+                "ro": "Luați o băutură caldă pentru drumul spre parc.",
+                "en": "Grab a hot drink to go before heading out to the park."
+              }
+            },
+            {
+              "name": "Wardown Park",
+              "tip_5lang": {
+                "de": "Die Wege können bei Reif sehr glatt sein; fahren Sie langsam.",
+                "hu": "A zúzmarás utak nagyon csúszósak lehetnek; lassítson a kanyarokban.",
+                "ro": "Aleile pot fi foarte alunecoase din cauza chiciurei; pedalați încet.",
+                "en": "Paths can be very slippery with morning frost; cycle slowly."
+              }
+            },
+            {
+              "name": "Kenilworth Road Stadium",
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht bei der Kälte völlig aus.",
+                "hu": "A hidegben egy rövid fotómegálló is bőven elegendő itt.",
+                "ro": "O scurtă oprire pentru poze este suficientă pe acest frig.",
+                "en": "A quick photo stop is enough given the cold winter wind here."
+              }
+            },
+            {
+              "name": "Stockwood Discovery Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Café zum Aufwärmen, bevor es zurück in die Kälte geht.",
+                "hu": "Használja a kávézót a felmelegedésre, mielőtt visszaindulna a hidegbe.",
+                "ro": "Folosiți cafeneaua pentru a vă încălzi înainte de drumul de întoarcere.",
+                "en": "Use the onsite café to warm up before heading back into the cold."
+              }
+            },
+            {
+              "name": "St Mary's Church",
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour hier, nah an den Lichtern der Innenstadt.",
+                "hu": "Zárja itt a túrát, közel a belváros ünnepi fényeihez.",
+                "ro": "Încheiați turul aici, aproape de luminile festive ale centrului.",
+                "en": "End your tour here, close to the festive lights of the town centre."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Handschuhe sind wegen des kalten Fahrtwinds ein Muss.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+              "Die Wege in Wardown Park werden bei Schnee nicht immer geräumt.",
+              "Trinken Sie ausreichend, auch wenn Sie bei Kälte weniger Durst verspüren."
+            ],
+            "hu": [
+              "A kesztyű elengedhetetlen a hideg menetszél miatt.",
+              "Győződjön meg róla, hogy a kerékpár lámpái tökéletesen működnek.",
+              "A Wardown Park útjait hóeséskor nem mindig takarítják azonnal.",
+              "Igyon elegendő folyadékot, még ha a hidegben kevésbé is szomjas."
+            ],
+            "ro": [
+              "Mănușile sunt obligatorii din cauza curentului de aer rece.",
+              "Asigurați-vă că luminile bicicletei funcționează perfect pentru seară.",
+              "Aleile din Wardown Park nu sunt întotdeauna deszăpezite imediat.",
+              "Hidratați-vă corespunzător, chiar dacă senzația de sete e mai mică."
+            ],
+            "en": [
+              "Gloves are a must-have due to the biting winter wind while cycling.",
+              "Ensure your bike lights are fully functional for the 4 PM sunset.",
+              "Wardown Park paths may not always be cleared immediately after snow.",
+              "Keep hydrated even if you don't feel as thirsty in the cold weather."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1091,6 +1437,206 @@
           "The cluster-walking philosophy helps minimise parking hassles.",
           "Be mindful of speed limits, especially around schools and residential areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die majestätische Auffahrt zum Luton Hoo Estate bequem vom Auto aus. Das Stockwood Discovery Centre bietet hervorragende Parkplätze direkt an den Ausstellungen. Ein kurzer Blick auf das Stadion und der Besuch im Wardown Park lassen sich gut kombinieren. Beenden Sie den Tag im Stadtzentrum, wo Parkhäuser direkten Zugang zu trockenen Einkaufszonen bieten.",
+            "hu": "Élvezze a Luton Hoo Estate lenyűgöző feljáróját az autó kényelméből. A Stockwood Discovery Centre kiváló parkolási lehetőséget kínál közvetlenül a bejáratnál. A stadion és a Wardown Park rövid megállókkal is felfedezhető. Zárja a napot a belvárosban, ahol a parkolóházakból közvetlen átjárás nyílik a száraz bevásárlóutcákhoz.",
+            "ro": "Bucurați-vă de drumul maiestuos spre Luton Hoo Estate din confortul mașinii. Stockwood Discovery Centre oferă parcare excelentă chiar lângă expoziții. Stadionul și Wardown Park pot fi vizitate cu opriri scurte. Încheiați ziua în centrul orașului, unde parcările etajate oferă acces direct spre zonele comerciale acoperite.",
+            "en": "Enjoy the grand drive to Luton Hoo Estate from the comfort of your car. Stockwood Discovery Centre offers convenient parking right next to the galleries. Brief stops at the stadium and Wardown Park allow you to see the sights between showers. End your day in the town centre, where multi-storey car parks provide dry access to the mall."
+          },
+          "stops": [
+            {
+              "name": "Luton Hoo Estate",
+              "tip_5lang": {
+                "de": "Die Einfahrt ist bei Regen besonders atmosphärisch und grün.",
+                "hu": "A birtokra vezető út esőben is különlegesen látványos és zöld.",
+                "ro": "Drumul spre domeniu este foarte pitoresc și verde pe timp de ploaie.",
+                "en": "The drive onto the estate is particularly atmospheric and lush in the rain."
+              }
+            },
+            {
+              "name": "Stockwood Discovery Centre",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken ins Museum zu gelangen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy szárazon jusson be a múzeumba.",
+                "ro": "Parcați aproape de intrare pentru a ajunge uscat în muzeu.",
+                "en": "Park close to the entrance for a dry dash into the museum building."
+              }
+            },
+            {
+              "name": "Kenilworth Road Stadium",
+              "tip_5lang": {
+                "de": "Ein Foto aus dem Autofenster ist bei starkem Regen ideal.",
+                "hu": "Szakadó esőben az autó ablakából is remek fotót készíthet.",
+                "ro": "O fotografie de la fereastra mașinii este ideală pe ploaie torențială.",
+                "en": "A photo from the car window is perfect if the rain is heavy."
+              }
+            },
+            {
+              "name": "Wardown Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz am Old Bedford Road für kurzen Fußweg.",
+                "hu": "Használja az Old Bedford Road felőli parkolót a rövid sétához.",
+                "ro": "Folosiți parcarea de pe Old Bedford Road pentru un acces rapid.",
+                "en": "Use the Old Bedford Road car park for the shortest walk to the lake."
+              }
+            },
+            {
+              "name": "Wardown House, Museum and Gallery",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nur wenige Schritte vom Museum entfernt.",
+                "hu": "A parkoló mindössze néhány lépésre van a múzeum bejáratától.",
+                "ro": "Parcarea este la doar câțiva pași distanță de intrarea muzeului.",
+                "en": "The car park is just a few steps away from the museum entrance."
+              }
+            },
+            {
+              "name": "Luton Town Hall",
+              "tip_5lang": {
+                "de": "Kurzes Halten zum Aussteigen ist in der Nähe möglich.",
+                "hu": "Rövid megállás az utasok kiszállásához a közelben lehetséges.",
+                "ro": "O oprire scurtă pentru debarcare este posibilă în apropiere.",
+                "en": "A brief stop for drop-off is possible nearby for a quick photo."
+              }
+            },
+            {
+              "name": "St Mary's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie das nahegelegene Parkhaus des Einkaufszentrums.",
+                "hu": "Használja a közeli bevásárlóközpont parkolóházát.",
+                "ro": "Folosiți parcarea etajată a centrului comercial din apropiere.",
+                "en": "Use the nearby shopping centre car park for easy access."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Pfützen in den tiefer gelegenen Straßen der Stadt.",
+              "Das Parkhaus 'The Mall' bietet den besten Wetterschutz im Zentrum.",
+              "Luton Hoo erfordert bei Regen vorsichtiges Fahren auf den Landwegen.",
+              "Halten Sie die Scheibenheizung bereit, da die Luftfeuchtigkeit hoch ist."
+            ],
+            "hu": [
+              "Vigyázzon a mélyebb tócsákra a város alacsonyabban fekvő utcáin.",
+              "A 'The Mall' parkolóháza nyújtja a legjobb védelmet a belvárosban.",
+              "Luton Hoo környékén vezessen óvatosan a vizes mellékutakon.",
+              "Használja a szélvédőfűtést a magas páratartalom miatt."
+            ],
+            "ro": [
+              "Atenție la bălțile mari din zonele mai joase ale orașului.",
+              "Parcarea 'The Mall' oferă cea mai bună protecție în centru.",
+              "Conduceți cu prudență pe drumurile secundare de la Luton Hoo.",
+              "Folosiți sistemul de dezaburire din cauza umidității ridicate."
+            ],
+            "en": [
+              "Watch out for large puddles in low-lying streets across the town.",
+              "The Mall car park offers the best weather protection in the centre.",
+              "Drive carefully on the estate roads of Luton Hoo in wet conditions.",
+              "Keep your demister on as humidity levels will be high in the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Luton Hoo Estate erstrahlt im Wintermorgen in frostigem Glanz. Das Stockwood Discovery Centre ist ein warmer Stopp für die Mittagszeit. Besuchen Sie das Stadion und den Wardown Park, bevor die Kälte am Nachmittag zunimmt. Das Wardown House bietet ein gemütliches Ambiente zum Aufwärmen. Beenden Sie die Tour am Rathaus und St. Mary's, wenn die Stadtlichter die Winterdunkelheit erhellen.",
+            "hu": "A Luton Hoo Estate fagyos csillogással fogadja a téli reggelen. A Stockwood Discovery Centre meleg megálló délidőben. Látogassa meg a stadiont és a Wardown Parkot, mielőtt a délutáni hideg felerősödne. A Wardown House barátságos belső terei tökéletesek a felmelegedésre. Zárja a napot a Városházánál és a Szent Mária-templomnál az esti fényekben.",
+            "ro": "Domeniul Luton Hoo strălucește sub brumă în diminețile de iarnă. Stockwood Discovery Centre este un popas călduros la prânz. Vizitați stadionul și Wardown Park înainte ca gerul să se întețească. Wardown House oferă o ambianță primitoare. Încheiați turul la primărie și la Biserica St Mary sub luminile orașului.",
+            "en": "Luton Hoo Estate looks magnificent in the frosty winter morning light. Stockwood Discovery Centre is a warm and welcoming midday stop. Visit the stadium and Wardown Park before the afternoon chill sets in. Wardown House is the perfect place to defrost. Conclude your tour at the Town Hall and St Mary's as the festive city lights begin to shine."
+          },
+          "stops": [
+            {
+              "name": "Luton Hoo Estate",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Privatwegen des Anwesens.",
+                "hu": "Vigyázzon a jeges szakaszokra a birtok privát útjain.",
+                "ro": "Atenție la porțiunile înghețate de pe drumurile private ale domeniului.",
+                "en": "Watch for icy patches on the private roads leading into the estate."
+              }
+            },
+            {
+              "name": "Stockwood Discovery Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor dem gut beheizten Hauptgebäude.",
+                "hu": "Használja a parkolót közvetlenül a jól fűtött főépület előtt.",
+                "ro": "Parcați chiar în fața clădirii principale bine încălzite.",
+                "en": "Use the car park right in front of the well-heated main building."
+              }
+            },
+            {
+              "name": "Kenilworth Road Stadium",
+              "tip_5lang": {
+                "de": "Parken ist hier schwierig; ein langsames Vorbeifahren reicht oft.",
+                "hu": "A parkolás itt nehézkes; egy lassú elhaladás is elegendő lehet.",
+                "ro": "Parcarea este dificilă aici; o trecere lentă este suficientă.",
+                "en": "Parking is very limited here; a slow drive-by is often enough."
+              }
+            },
+            {
+              "name": "Wardown Park",
+              "tip_5lang": {
+                "de": "Die Parkplätze am Rand sind im Winter meist gut geräumt.",
+                "hu": "A széli parkolókat télen általában jól takarítják a hótól.",
+                "ro": "Parcările de la marginea parcului sunt de obicei deszăpezite.",
+                "en": "The perimeter car parks are usually well-cleared in winter weather."
+              }
+            },
+            {
+              "name": "Wardown House, Museum and Gallery",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen nach einem kurzen Spaziergang am See.",
+                "hu": "Ideális a felmelegedésre egy rövid tóparti séta után.",
+                "ro": "Ideal pentru încălzire după o scurtă plimbare pe lângă lac.",
+                "en": "Ideal for warming up after a quick stroll by the frozen lake."
+              }
+            },
+            {
+              "name": "Luton Town Hall",
+              "tip_5lang": {
+                "de": "Die Fassade ist bei Sonnenuntergang besonders schön beleuchtet.",
+                "hu": "A homlokzat naplemente után különleges megvilágítást kap.",
+                "ro": "Fațada este iluminată superb după apusul devreme al soarelui.",
+                "en": "The facade is beautifully lit up after the early winter sunset."
+              }
+            },
+            {
+              "name": "St Mary's Church",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es viele Cafés für ein warmes Getränk zum Abschluss.",
+                "hu": "A közelben számos kávézó várja egy záró forró italra.",
+                "ro": "În apropiere sunt multe cafenele pentru o băutură caldă la final.",
+                "en": "Plenty of nearby cafes offer a warm drink to end your winter tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie vor der Abfahrt den Reifendruck; Kälte beeinflusst ihn.",
+              "In den Wohngebieten um das Stadion kann es sehr glatt sein.",
+              "Die Parkhäuser im Zentrum sind im Winter angenehm temperiert.",
+              "Führen Sie einen Eiskratzer mit, falls es während des Besuchs friert."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a guminyomást, a hideg befolyásolja azt.",
+              "A stadion körüli lakóövezetek utcái nagyon csúszósak lehetnek.",
+              "A belvárosi parkolóházak télen is kellemes hőmérsékletűek.",
+              "Tartson jégkaparót az autóban a hirtelen fagyok esetére."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri; frigul o poate influența negativ.",
+              "Străzile rezidențiale din jurul stadionului pot fi foarte alunecoase.",
+              "Parcările etajate din centru sunt mai calde decât cele exterioare.",
+              "Aveți o racletă la îndemână în caz de îngheț în timpul vizitei."
+            ],
+            "en": [
+              "Check your tyre pressure before setting off; the cold affects it.",
+              "Residential streets around the stadium can get very icy and slick.",
+              "Multi-storey car parks in the centre are warmer than open-air ones.",
+              "Keep an ice scraper handy in case of a sudden freeze during your stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1451,6 +1997,188 @@
           "Be aware of the last bus back to the centre, especially from the further attractions.",
           "Have cash or a contactless card ready for fares."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Rathaus und nutzen Sie die kurzen Wege zum Hat District. Busse bringen Sie trocken zur St. Mary's Church und zum Wardown Park. Das Museum bietet Schutz zur Mittagszeit. Der Nachmittag im Stockwood Discovery Centre ist dank guter Busanbindung wetterfest. Den Abend verbringen Sie im Stadtzentrum, wo viele Restaurants direkt an Haltestellen liegen.",
+            "hu": "Induljon a Városházától, ahonnan csak egy rövid séta a Hat District. A buszok szárazon juttatják el a Szent Mária-templomhoz és a Wardown Parkhoz. A múzeum tökéletes menedék délidőben. A délután a Stockwood Discovery Centre-ben a jó közlekedésnek köszönhetően esőben is kivitelezhető. Zárja az estét a belvárosban, ahol az éttermek közel vannak a megállókhoz.",
+            "ro": "Porniți de la primărie, la doar câțiva pași de Hat District. Autobuzele vă transportă uscat spre Biserica St Mary și Wardown Park. Muzeul este refugiul ideal la prânz. După-amiaza la Stockwood Discovery Centre este ușor de realizat datorită legăturilor bune. Încheiați seara în centru, unde restaurantele sunt aproape de stații.",
+            "en": "Start at the Town Hall with a short walk to the Hat District. Frequent buses keep you dry on the way to St Mary's and Wardown Park. The museum provides the perfect midday shelter. Your afternoon at Stockwood Discovery Centre is weatherproof thanks to direct bus links. Enjoy dinner in the town centre, with many options right by the bus stops."
+          },
+          "stops": [
+            {
+              "name": "Luton Town Hall",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen hier verfügen über gute Überdachungen.",
+                "hu": "Az itteni buszmegállók jó fedettséggel rendelkeznek.",
+                "ro": "Stațiile de autobuz de aici au adăposturi bune împotriva ploii.",
+                "en": "The bus stops here have good shelters to keep you dry while waiting."
+              }
+            },
+            {
+              "name": "The Hat District",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg vom Bahnhof und den Busdrehkreuzen entfernt.",
+                "hu": "Csak 5 perc séta a vasútállomástól és a buszos csomópontoktól.",
+                "ro": "La doar 5 minute de mers de gară și de nodurile de autobuz.",
+                "en": "Just a 5-minute walk from the station and major bus interchanges."
+              }
+            },
+            {
+              "name": "St Mary's Church",
+              "tip_5lang": {
+                "de": "Haltestellen befinden sich direkt gegenüber dem Kircheneingang.",
+                "hu": "A buszmegállók közvetlenül a templom bejáratával szemben vannak.",
+                "ro": "Stațiile de autobuz sunt situate chiar vizavi de intrarea bisericii.",
+                "en": "Bus stops are located directly across from the church entrance."
+              }
+            },
+            {
+              "name": "Wardown Park & Museum",
+              "tip_5lang": {
+                "de": "Die Linie A6 hält direkt am Parkeingang; wenig Gehweg im Regen.",
+                "hu": "Az A6-os út menti buszok a bejáratnál állnak meg; kevés séta az esőben.",
+                "ro": "Liniile de pe A6 opresc chiar la intrare; mers minim prin ploaie.",
+                "en": "Buses along the A6 stop right at the park entrance; minimal rain exposure."
+              }
+            },
+            {
+              "name": "Stockwood Discovery Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Buslinien 32 oder 35 für eine trockene Anreise.",
+                "hu": "Használja a 32-es vagy 35-ös buszt a kényelmes, száraz érkezéshez.",
+                "ro": "Folosiți liniile 32 sau 35 pentru a ajunge uscat la destinație.",
+                "en": "Take bus routes 32 or 35 for a dry journey to the centre entrance."
+              }
+            },
+            {
+              "name": "Dinner in Town Centre",
+              "tip_5lang": {
+                "de": "Die meisten Restaurants sind nah an der zentralen Busstation.",
+                "hu": "A legtöbb étterem a központi buszpályaudvar közelében található.",
+                "ro": "Majoritatea restaurantelor sunt aproape de autogara centrală.",
+                "en": "Most restaurants are within a short walk from the central bus station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Arriva-App zeigt Echtzeit-Ankünfte und spart Wartezeit im Regen.",
+              "Ein Tagesticket ist günstiger als mehrere Einzelfahrten.",
+              "Nutzen Sie die 'Luton Dash' Busse für schnelle Verbindungen im Zentrum.",
+              "Die Busbahnhöfe in Luton sind modern und gut überdacht."
+            ],
+            "hu": [
+              "Az Arriva app mutatja a valós idejű érkezést, így kevesebbet kell várni.",
+              "A napijegy olcsóbb, mint több különálló jegy vásárlása.",
+              "Használja a helyi járatokat a gyors belvárosi közlekedéshez.",
+              "Luton buszmegállói modernek és jól védettek az eső ellen."
+            ],
+            "ro": [
+              "Aplicația Arriva arată sosirile în timp real, evitând așteptarea în ploaie.",
+              "Un bilet de o zi este mai rentabil decât mai multe bilete individuale.",
+              "Folosiți autobuzele locale pentru conexiuni rapide în centrul orașului.",
+              "Autogările din Luton sunt moderne și oferă adăpost bun contra ploii."
+            ],
+            "en": [
+              "Use the Arriva app for real-time arrivals to minimize wait time in the rain.",
+              "A day rider ticket is cheaper than buying multiple single fares.",
+              "Take advantage of frequent town centre links for quick hops between spots.",
+              "Luton's main bus interchanges are modern and well-sheltered."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintertag beginnt am Rathaus. Kurze Busfahrten bringen Sie schnell zum Hat District und zur St. Mary's Church. Der Wardown Park lädt zu einem frostigen Spaziergang ein, bevor Sie sich im Museum aufwärmen. Das Stockwood Discovery Centre ist am Nachmittag ein gemütliches Ziel. Ein Abendessen im Stadtzentrum bildet den Abschluss, wenn die Weihnachtsbeleuchtung für Stimmung sorgt.",
+            "hu": "Hűvös téli nap indul a Városházánál. Rövid buszutak segítenek gyorsan eljutni a Hat Districtbe és a Szent Mária-templomhoz. A Wardown Park hívogató egy fagyos sétára, mielőtt a múzeumban felmelegedne. A Stockwood Discovery Centre barátságos délutáni célpont. A belvárosi vacsora közben már gyönyörködhet az ünnepi fényekben.",
+            "ro": "O zi răcoroasă de iarnă începe la primărie. Autobuzele vă duc rapid spre Hat District și Biserica St Mary. Wardown Park este perfect pentru o plimbare revigorantă înainte de a intra în muzeu. Stockwood Discovery Centre este o destinație primitoare după-amiaza. Cina din centru încheie ziua sub luminile festive.",
+            "en": "A cool winter day begins at the Town Hall. Short bus hops quickly get you to the Hat District and St Mary's Church. Wardown Park is lovely for a brisk winter walk before warming up in the museum. Stockwood Discovery Centre is a cozy afternoon retreat. End your day with dinner in the town centre as the festive lights come on."
+          },
+          "stops": [
+            {
+              "name": "Luton Town Hall",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind hell beleuchtet und sicher für den Winterabend.",
+                "hu": "A megállók jól megvilágítottak és biztonságosak a téli estéken is.",
+                "ro": "Stațiile sunt bine iluminate și sigure pentru serile de iarnă.",
+                "en": "The bus stops here are well-lit and safe for early winter evenings."
+              }
+            },
+            {
+              "name": "The Hat District",
+              "tip_5lang": {
+                "de": "Die Nähe zum Bahnhof macht diesen Ort zum idealen Winterstopp.",
+                "hu": "A vasútállomás közelsége ideális téli megállóvá teszi ezt a helyet.",
+                "ro": "Proximitatea față de gară face din acest loc un popas ideal de iarnă.",
+                "en": "Proximity to the station makes this an ideal and accessible winter stop."
+              }
+            },
+            {
+              "name": "St Mary's Church",
+              "tip_5lang": {
+                "de": "In der Kälte sind die kurzen Wege zwischen Haltestelle und Kirche ideal.",
+                "hu": "A hidegben ideális a rövid távolság a megálló és a templom között.",
+                "ro": "Distanța scurtă dintre stație și biserică este ideală pe timp de ger.",
+                "en": "The short distance between the stop and the church is ideal in the cold."
+              }
+            },
+            {
+              "name": "Wardown Park & Museum",
+              "tip_5lang": {
+                "de": "Warten Sie im Museumscafé, bis Ihr Bus laut App fast da ist.",
+                "hu": "Várjon a múzeum kávézójában, amíg a busza az app szerint megérkezik.",
+                "ro": "Așteptați în cafeneaua muzeului până când autobuzul este aproape.",
+                "en": "Wait in the museum café until your bus is shown as arriving on the app."
+              }
+            },
+            {
+              "name": "Stockwood Discovery Centre",
+              "tip_5lang": {
+                "de": "Busse verkehren regelmäßig, auch in der frühen Winterdämmerung.",
+                "hu": "A buszok rendszeresen járnak, még a korai téli szürkületben is.",
+                "ro": "Autobuzele circulă regulat, chiar și în amurgul devreme de iarnă.",
+                "en": "Buses run frequently here, even during the early winter twilight."
+              }
+            },
+            {
+              "name": "Dinner in Town Centre",
+              "tip_5lang": {
+                "de": "Viele Expressbusse bringen Sie von hier direkt zurück zum Bahnhof.",
+                "hu": "Számos expresszbusz viszi innen vissza közvetlenül a vasúthoz.",
+                "ro": "Multe autobuze expres vă duc de aici direct înapoi la gară.",
+                "en": "Many express buses run from here directly back to the rail station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft die wärmste Art der Fortbewegung.",
+              "Achten Sie auf eventuelle Winterfahrpläne an Feiertagen.",
+              "Die Arriva-Tageskarte gilt auch für Fahrten nach Dunstable.",
+              "Warten Sie in gut beleuchteten Bereichen der zentralen Haltestellen."
+            ],
+            "hu": [
+              "A buszok télen gyakran a legmelegebb közlekedési módot jelentik.",
+              "Ügyeljen az ünnepek környéki esetleges téli menetrendi változásokra.",
+              "Az Arriva napijegy a környékbeli járatokra is érvényes lehet.",
+              "Várjon a jól kivilágított központi buszmegállókban."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea cea mai călduroasă opțiune de călătorie iarna.",
+              "Verificați eventualele modificări de program în perioada sărbătorilor.",
+              "Abonamentul de o zi Arriva este valabil pentru majoritatea rutelor locale.",
+              "Așteptați în zonele bine iluminate ale stațiilor centrale."
+            ],
+            "en": [
+              "Buses are often the warmest way to get around Luton in peak winter.",
+              "Keep an eye out for special winter or holiday service timetables.",
+              "The Arriva day ticket offers great value for exploring the wider area.",
+              "Stick to the well-lit areas of the central bus interchanges for comfort."
+            ]
+          }
+        }
       }
     }
   }

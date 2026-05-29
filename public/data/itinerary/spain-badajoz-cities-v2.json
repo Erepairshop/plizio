@@ -379,6 +379,206 @@
           "Bring plenty of water, especially during the hot summer months.",
           "Most main attractions are within walking distance, so you don't need a vehicle."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag unter den schützenden Arkaden der Plaza Alta, wo die rot-weißen Fassaden auch bei grauem Himmel leuchten. In der Alcazaba erfordern die nassen Steinpfade Vorsicht, bieten aber dramatische Ausblicke auf den Rio Guadiana.\n\nMittags suchen Sie Zuflucht in der Kathedrale, deren massives Äußeres Schutz vor dem Regen verspricht. Das Museum der Schönen Künste ist der perfekte Ort für den Nachmittag, um trocken zu bleiben und lokale Kunst zu genießen.\n\nDer späte Nachmittag führt Sie kurz zur Giralda und zur Puerta de Palmas. Den Abschluss bildet der Gang über die Puente de Palmas, wo der Wind den Regen peitscht, aber die beleuchtete Stadt eine mystische Atmosphäre ausstrahlt.",
+            "hu": "Kezdje a napot a Plaza Alta árkádjai alatt, ahol a piros-fehér homlokzatok még szürke égbolt mellett is ragyognak. Az Alcazaba vizes kőösvényein óvatosan járjon, de a kilátás a Guadiana folyóra ilyenkor is lenyűgöző.\n\nDélben keressen menedéket a katedrálisban, melynek erőd-szerű falai biztonságot nyújtanak az eső elől. A Szépművészeti Múzeum tökéletes délutáni program, hogy szárazon maradva élvezzük a helyi művészetet.\n\nA késő délutáni órákban érintse meg a Giraldát és a Puerta de Palmast. A napot a Puente de Palmas hídján zárja, ahol a szél és az eső ellenére a kivilágított város misztikus látványt nyújt.",
+            "ro": "Începeți ziua sub arcadele protectoare din Plaza Alta, unde fațadele roșu-alb strălucesc chiar și sub cerul gri. În Alcazaba, potecile umede de piatră necesită prudență, dar oferă vederi dramatice asupra râului Guadiana.\n\nLa prânz, căutați adăpost în Catedrală, al cărei exterior masiv promite protecție împotriva ploii. Muzeul de Arte Frumoase este locul perfect pentru după-amiază, pentru a rămâne uscat și a vă bucura de arta locală.\n\nDupă-amiaza târzie vă duce scurt la Giralda și Puerta de Palmas. Încheiați cu o plimbare pe Puente de Palmas, unde vântul biciuiește ploaia, dar orașul iluminat emană o atmosferă mistică.",
+            "en": "Start your day under the protective arcades of Plaza Alta, where the red and white facades shine even under grey skies. In the Alcazaba, the wet stone paths require caution but offer dramatic views of the Guadiana River.\n\nAt midday, seek refuge in the Cathedral, whose fortress-like exterior promises protection from the rain. The Museum of Fine Arts is the perfect afternoon spot to stay dry and enjoy local art.\n\nThe late afternoon takes you briefly to the Giralda and Puerta de Palmas. End by crossing the Puente de Palmas, where the wind whips the rain, but the illuminated city radiates a mystical atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Plaza Alta",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Arkaden als natürlichen Regenschutz.",
+                "hu": "Használja az árkádokat természetes esővédőként.",
+                "ro": "Folosiți arcadele ca protecție naturală împotriva ploii.",
+                "en": "Use the arcades as natural rain protection."
+              }
+            },
+            {
+              "name": "Alcazaba of Badajoz",
+              "tip_4lang": {
+                "de": "Vorsicht auf den rutschigen Mauern und Kopfsteinpflastern.",
+                "hu": "Vigyázzon a csúszós falakon és macskaköveken.",
+                "ro": "Atenție pe zidurile și pavajele alunecoase.",
+                "en": "Be careful on the slippery walls and cobblestones."
+              }
+            },
+            {
+              "name": "Cathedral of San Juan Bautista",
+              "tip_4lang": {
+                "de": "Ein idealer Ort, um einen starken Regenschauer abzuwarten.",
+                "hu": "Ideális hely egy heves zápor kivárásához.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse.",
+                "en": "An ideal place to wait out a heavy rain shower."
+              }
+            },
+            {
+              "name": "Provincial Museum of Fine Arts",
+              "tip_4lang": {
+                "de": "Garderobe vorhanden, um nasse Mäntel und Schirme abzugeben.",
+                "hu": "Ruhatár elérhető a vizes kabátok és esernyők számára.",
+                "ro": "Garderobă disponibilă pentru haine și umbrele ude.",
+                "en": "Cloakroom available to leave wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Giralda de Badajoz",
+              "tip_4lang": {
+                "de": "Kurzer Fotostopp unter dem Vordach gegenüber.",
+                "hu": "Gyors fotómegálló a szemközti előtető alatt.",
+                "ro": "Scurt popas foto sub copertina de vis-à-vis.",
+                "en": "Quick photo stop under the canopy opposite."
+              }
+            },
+            {
+              "name": "Puerta de Palmas",
+              "tip_4lang": {
+                "de": "Die Torbögen bieten kurzzeitigen Schutz vor Wind.",
+                "hu": "A boltívek rövid távú védelmet nyújtanan a szél ellen.",
+                "ro": "Arcurile porții oferă adăpost temporar contra vântului.",
+                "en": "The archways offer temporary shelter from the wind."
+              }
+            },
+            {
+              "name": "Puente de Palmas",
+              "tip_4lang": {
+                "de": "Achtung vor Pfützen auf dem Brückenboden.",
+                "hu": "Vigyázzon a hídon lévő tócsákra.",
+                "ro": "Atenție la bălțile de pe platforma podului.",
+                "en": "Watch out for puddles on the bridge floor."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Die Plaza Alta Arkaden sind der beste Treffpunkt bei Regen.",
+              "Museen in Badajoz sind montags oft geschlossen.",
+              "Ein stabiler Regenschirm ist wegen des Windes am Fluss ratsam."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a macskaköves utakhoz.",
+              "A Plaza Alta árkádjai a legjobb találkozópontok esőben.",
+              "A badajozi múzeumok hétfőnként gyakran zárva tartanak.",
+              "A folyóparti szél miatt érdemes erős esernyőt vinni."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru pavaj.",
+              "Arcadele din Plaza Alta sunt cel mai bun punct de întâlnire pe ploaie.",
+              "Muzeele din Badajoz sunt adesea închise lunea.",
+              "O umbrelă rezistentă este recomandată din cauza vântului de pe râu."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets.",
+              "The Plaza Alta arcades are the best meeting point in rain.",
+              "Museums in Badajoz are often closed on Mondays.",
+              "A sturdy umbrella is advised due to the wind near the river."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die milde Wintersonne auf der Plaza Alta, während Sie die maurischen Details bewundern. Die Alcazaba bietet in der kühlen Luft eine erfrischende Wanderung entlang der Festungsmauern mit klarer Fernsicht.\n\nMittags wärmt die Sonne die Gassen um die Kathedrale. Das Museum der Schönen Künste bietet am Nachmittag eine angenehm temperierte Umgebung, um die beeindruckende Sammlung zu erkunden.\n\nDa die Dämmerung früh einsetzt, erreichen Sie die Puerta de Palmas pünktlich zum Sonnenuntergang. Der Abschluss auf der Puente de Palmas bietet einen spektakulären Blick auf die beleuchtete Stadt unter dem klaren Winterhimmel.",
+            "hu": "Élvezze az enyhe téli napsütést a Plaza Altán, miközben a mór részleteket csodálja. Az Alcazaba a hűvös levegőben frissítő sétát kínál a várfalak mentén, tiszta kilátással a tájra.\n\nDélben a nap sugarai felmelegítik a katedrális körüli utcákat. A Szépművészeti Múzeum délután kellemesen temperált környezetet biztosít a lenyűgöző gyűjtemény felfedezéséhez.\n\nMivel korán sötétedik, a Puerta de Palmashoz pont naplementére érkezik. A Puente de Palmas hídon tett záró séta látványos kilátást nyújt a kivilágított városra a tiszta téli égbolt alatt.",
+            "ro": "Bucurați-vă de soarele blând de iarnă în Plaza Alta în timp ce admirați detaliile maure. Alcazaba oferă o plimbare revigorantă de-a lungul zidurilor cetății, cu o vizibilitate clară în aerul rece.\n\nLa prânz, soarele încălzește străduțele din jurul Catedralei. Muzeul de Arte Frumoase oferă după-amiaza un mediu plăcut temperat pentru a explora colecția impresionantă.\n\nDeoarece amurgul vine devreme, ajungeți la Puerta de Palmas exact la apus. Finalul pe Puente de Palmas oferă o vedere spectaculoasă asupra orașului iluminat sub cerul senin de iarnă.",
+            "en": "Enjoy the mild winter sun in Plaza Alta while admiring the Moorish details. The Alcazaba offers a refreshing hike along the fortress walls in the cool air, with clear distant views.\n\nAt midday, the sun warms the alleys around the Cathedral. The Museum of Fine Arts provides a pleasantly tempered environment in the afternoon to explore the impressive collection.\n\nAs dusk falls early, you reach Puerta de Palmas just in time for sunset. The finale on Puente de Palmas offers a spectacular view of the illuminated city under the clear winter sky."
+          },
+          "stops": [
+            {
+              "name": "Plaza Alta",
+              "tip_4lang": {
+                "de": "Sonnige Plätze wählen, um die Mittagswärme zu genießen.",
+                "hu": "Válasszon napos helyet az ebédidő melegének élvezetéhez.",
+                "ro": "Alegeți locurile însorite pentru a vă bucura de căldura prânzului.",
+                "en": "Choose sunny spots to enjoy the midday warmth."
+              }
+            },
+            {
+              "name": "Alcazaba of Badajoz",
+              "tip_4lang": {
+                "de": "Der Wind auf den Mauern kann im Winter kühl sein.",
+                "hu": "A falakon fújó szél télen hűvös lehet.",
+                "ro": "Vântul pe ziduri poate fi rece în timpul iernii.",
+                "en": "The wind on the walls can be chilly in winter."
+              }
+            },
+            {
+              "name": "Cathedral of San Juan Bautista",
+              "tip_4lang": {
+                "de": "Im Inneren ist es oft kühler als draußen; Jacke anbehalten.",
+                "hu": "Belül gyakran hűvösebb van, mint kint; tartsa magán a kabátot.",
+                "ro": "În interior este adesea mai rece decât afară; păstrați jacheta.",
+                "en": "It is often cooler inside than outside; keep your jacket on."
+              }
+            },
+            {
+              "name": "Provincial Museum of Fine Arts",
+              "tip_4lang": {
+                "de": "Ideale Zeit für einen längeren Aufenthalt im Warmen.",
+                "hu": "Ideális idő egy hosszabb benti tartózkodáshoz a melegben.",
+                "ro": "Moment ideal pentru o ședere prelungită la căldură.",
+                "en": "Ideal time for a longer stay in the warmth."
+              }
+            },
+            {
+              "name": "Giralda de Badajoz",
+              "tip_4lang": {
+                "de": "Das Licht der tiefstehenden Wintersonne ist perfekt für Fotos.",
+                "hu": "Az alacsonyan járó téli nap fénye tökéletes a fotózáshoz.",
+                "ro": "Lumina soarelui de iarnă este perfectă pentru fotografii.",
+                "en": "The low winter sun light is perfect for photos."
+              }
+            },
+            {
+              "name": "Puerta de Palmas",
+              "tip_4lang": {
+                "de": "Ankunft bei Sonnenuntergang für die beste Lichtstimmung.",
+                "hu": "Érkezzen naplementekor a legjobb fényekért.",
+                "ro": "Sosiți la apus pentru cea mai bună atmosferă luminoasă.",
+                "en": "Arrive at sunset for the best lighting mood."
+              }
+            },
+            {
+              "name": "Puente de Palmas",
+              "tip_4lang": {
+                "de": "Nach 18:00 Uhr wird es auf der Brücke deutlich kühler.",
+                "hu": "18:00 után a hídon érezhetően hűvösebb lesz.",
+                "ro": "După ora 18:00, devine considerabil mai rece pe pod.",
+                "en": "After 6:00 PM, it gets significantly cooler on the bridge."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist ratsam.",
+              "Sonnenuntergang ist gegen 18:15 Uhr.",
+              "Genießen Sie warme 'Churros' in der Nähe der Plaza Alta.",
+              "Die klare Winterluft sorgt für tolle Fotos von der Alcazaba."
+            ],
+            "hu": [
+              "A réteges öltözködés javasolt.",
+              "A naplemente 18:15 körül van.",
+              "Kóstolja meg a meleg churrost a Plaza Alta közelében.",
+              "A tiszta téli levegő remek fotókat eredményez az Alcazabáról."
+            ],
+            "ro": [
+              "Se recomandă îmbrăcămintea în straturi.",
+              "Apusul soarelui este în jur de ora 18:15.",
+              "Savurați 'Churros' calzi lângă Plaza Alta.",
+              "Aerul clar de iarnă oferă fotografii grozave cu Alcazaba."
+            ],
+            "en": [
+              "Layered clothing is advised.",
+              "Sunset is around 6:15 PM.",
+              "Enjoy warm 'churros' near Plaza Alta.",
+              "The clear winter air makes for great photos of the Alcazaba."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +929,188 @@
           "Some sections, especially the climb to the Alcazaba, can be steep.",
           "Always lock your bike securely when you park it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Badajoz Aufmerksamkeit auf den glatten Pflastersteinen der Plaza Alta. Die Auffahrt zur Alcazaba kann rutschig sein, bietet aber eine erfrischende Perspektive.\n\nMittags überqueren Sie die Puente de Palmas, wo der Wind kräftig wehen kann. Das MEIAC Museum bietet eine willkommene lange Pause im Trockenen.\n\nNachmittags geht es zur Kathedrale und zur Giralda. Achten Sie auf den Verkehr in den engen Gassen, da die Sicht bei Regen eingeschränkt sein kann.",
+            "hu": "Az esőben való biciklizés Badajozban figyelmet igényel a Plaza Alta csúszós macskakövein. Az Alcazabához vezető feljáró csúszós lehet, de frissítő perspektívát kínál.\n\nDélben keljen át a Puente de Palmas hídon, ahol a szél erősen fújhat. A MEIAC múzeum szívesen látott hosszú szünetet kínál a szárazban.\n\nDélután a katedrális és a Giralda felé vegye az irányt. Ügyeljen a forgalomra a szűk utcákban, mivel a látótávolság esőben korlátozott lehet.",
+            "ro": "Mersul pe bicicletă în ploaie necesită atenție la pavajul alunecos din Plaza Alta. Urcarea spre Alcazaba poate fi alunecoasă, dar oferă o perspectivă revigorantă.\n\nLa prânz, traversați Puente de Palmas, unde vântul poate sufla cu putere. Muzeul MEIAC oferă o pauză lungă binevenită la adăpost.\n\nDupă-amiaza, îndreptați-vă spre Catedrală și Giralda. Atenție la trafic pe străzile înguste, deoarece vizibilitatea poate fi redusă pe ploaie.",
+            "en": "Cycling in the rain requires attention to the slippery cobblestones of Plaza Alta. The climb to the Alcazaba can be slick but offers a refreshing perspective.\n\nAt midday, cross the Puente de Palmas, where the wind can blow strongly. The MEIAC Museum offers a welcome long break in the dry.\n\nIn the afternoon, head to the Cathedral and the Giralda. Watch out for traffic in the narrow streets as visibility can be limited in the rain."
+          },
+          "stops": [
+            {
+              "name": "Plaza Alta",
+              "tip_4lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a fékezéssel a vizes macskakövön.",
+                "ro": "Atenție la frânare pe pavajul ud.",
+                "en": "Be careful when braking on wet cobblestones."
+              }
+            },
+            {
+              "name": "Alcazaba of Badajoz",
+              "tip_4lang": {
+                "de": "Fahrrad an einem geschützten Ort abstellen.",
+                "hu": "Helyezze a biciklit védett helyre.",
+                "ro": "Parcați bicicleta într-un loc protejat.",
+                "en": "Park the bike in a sheltered spot."
+              }
+            },
+            {
+              "name": "Puente de Palmas & Puerta de Palmas",
+              "tip_4lang": {
+                "de": "Starker Seitenwind auf der Brücke möglich.",
+                "hu": "Erős oldalszél lehetséges a hídon.",
+                "ro": "Vânt lateral puternic posibil pe pod.",
+                "en": "Strong crosswinds possible on the bridge."
+              }
+            },
+            {
+              "name": "MEIAC Museum",
+              "tip_4lang": {
+                "de": "Sicherer Fahrradständer vorhanden.",
+                "hu": "Biztonságos biciklitároló elérhető.",
+                "ro": "Suport de biciclete securizat disponibil.",
+                "en": "Secure bike rack available."
+              }
+            },
+            {
+              "name": "Cathedral of San Juan Bautista",
+              "tip_4lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten nutzen.",
+                "hu": "Használja ki a látnivalók közötti rövid távokat.",
+                "ro": "Profitați de distanțele scurte dintre obiective.",
+                "en": "Take advantage of the short distances between sights."
+              }
+            },
+            {
+              "name": "Giralda de Badajoz",
+              "tip_4lang": {
+                "de": "Vermeiden Sie Pfützen in den Rinnsteinen.",
+                "hu": "Kerülje el a tócsákat a csatornák mentén.",
+                "ro": "Evitați bălțile de lângă rigole.",
+                "en": "Avoid puddles in the gutters."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie ruckartiges Lenken auf nassem Stein.",
+              "Prüfen Sie die Bremsbeläge vor der Fahrt.",
+              "Tragen Sie eine gut sichtbare Regenjacke.",
+              "Suchen Sie bei Gewitter sofort festen Unterschlupf."
+            ],
+            "hu": [
+              "Kerülje a hirtelen kormánymozdulatokat vizes kövön.",
+              "Indulás előtt ellenőrizze a fékbetéteket.",
+              "Viseljen jól látható esőkabátot.",
+              "Vihar esetén azonnal keressen szilárd menedéket."
+            ],
+            "ro": [
+              "Evitați virajele bruște pe piatra udă.",
+              "Verificați plăcuțele de frână înainte de plecare.",
+              "Purtați o jachetă de ploaie reflectorizantă.",
+              "Căutați adăpost imediat în caz de furtună."
+            ],
+            "en": [
+              "Avoid sudden steering on wet stone.",
+              "Check brake pads before riding.",
+              "Wear a highly visible raincoat.",
+              "Seek solid shelter immediately in case of a storm."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Rad durch Badajoz ist dank des milden Klimas angenehm. Starten Sie frisch an der Plaza Alta und genießen Sie die klare Luft in der Alcazaba.\n\nMittags bietet die Fahrt über die Puente de Palmas einen weiten Blick über den Fluss. Das MEIAC Museum ist der ideale Ort, um sich am Nachmittag aufzuwärmen.\n\nBeenden Sie die Tour an der Kathedrale und der Giralda, wenn die Stadtlichter angehen. Denken Sie an die frühe Dunkelheit und prüfen Sie Ihre Fahrradbeleuchtung.",
+            "hu": "A téli biciklis túra Badajozban az enyhe klímának köszönhetően kellemes. Kezdje frissen a Plaza Altán, és élvezze a tiszta levegőt az Alcazabában.\n\nDélben a Puente de Palmas hídon való átkelés tágas kilátást nyújt a folyóra. A MEIAC múzeum ideális hely a délutáni felmelegedéshez.\n\nZárja a túrát a katedrálisnál és a Giraldánál, amikor kigyúlnak a város fényei. Gondoljon a korai sötétedésre, és ellenőrizze a bicikli világítását.",
+            "ro": "Un tur de iarnă cu bicicleta prin Badajoz este plăcut datorită climei blânde. Începeți plin de energie în Plaza Alta și bucurați-vă de aerul curat în Alcazaba.\n\nLa prânz, traversarea podului Puente de Palmas oferă o priveliște largă asupra râului. Muzeul MEIAC este locul ideal pentru a vă încălzi după-amiaza.\n\nÎncheiați turul la Catedrală și Giralda, când se aprind luminile orașului. Aveți în vedere întunericul timpuriu și verificați iluminarea bicicletei.",
+            "en": "A winter bike tour through Badajoz is pleasant thanks to the mild climate. Start fresh at Plaza Alta and enjoy the clear air in the Alcazaba.\n\nAt midday, riding across Puente de Palmas offers a wide view over the river. The MEIAC Museum is the ideal place to warm up in the afternoon.\n\nFinish the tour at the Cathedral and the Giralda as the city lights come on. Remember the early darkness and check your bike lights."
+          },
+          "stops": [
+            {
+              "name": "Plaza Alta",
+              "tip_4lang": {
+                "de": "Handschuhe für die kühle Morgenluft empfohlen.",
+                "hu": "Kesztyű ajánlott a hűvös reggeli levegőhöz.",
+                "ro": "Mănuși recomandate pentru aerul rece de dimineață.",
+                "en": "Gloves recommended for the cool morning air."
+              }
+            },
+            {
+              "name": "Alcazaba of Badajoz",
+              "tip_4lang": {
+                "de": "Sonnige Wege auf den Festungsmauern nutzen.",
+                "hu": "Használja a napos utakat a várfalakon.",
+                "ro": "Folosiți potecile însorite de pe zidurile cetății.",
+                "en": "Use sunny paths on the fortress walls."
+              }
+            },
+            {
+              "name": "Puente de Palmas & Puerta de Palmas",
+              "tip_4lang": {
+                "de": "Windfeste Kleidung für die Brückenüberquerung.",
+                "hu": "Szélálló ruházat a hídon való átkeléshez.",
+                "ro": "Îmbrăcăminte rezistentă la vânt pentru traversarea podului.",
+                "en": "Windproof clothing for crossing the bridge."
+              }
+            },
+            {
+              "name": "MEIAC Museum",
+              "tip_4lang": {
+                "de": "Fahrradparkplatz im Innenhof nutzen.",
+                "hu": "Használja a belső udvari bicikliparkolót.",
+                "ro": "Folosiți parcarea de biciclete din curtea interioară.",
+                "en": "Use the bike parking in the inner courtyard."
+              }
+            },
+            {
+              "name": "Cathedral of San Juan Bautista",
+              "tip_4lang": {
+                "de": "Zentraler Ort mit vielen Cafés für eine Aufwärmpause.",
+                "hu": "Központi hely sok kávézóval egy melegítő szünethez.",
+                "ro": "Loc central cu multe cafenele pentru o pauză de încălzire.",
+                "en": "Central location with many cafes for a warm-up break."
+              }
+            },
+            {
+              "name": "Giralda de Badajoz",
+              "tip_4lang": {
+                "de": "Lichtcheck vor der Abfahrt; die Sonne sinkt schnell.",
+                "hu": "Világítás ellenőrzése indulás előtt; a nap gyorsan süllyed.",
+                "ro": "Verificarea luminilor înainte de plecare; soarele apune repede.",
+                "en": "Light check before departure; the sun sinks fast."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck; Kälte beeinflusst ihn.",
+              "Tragen Sie ein Stirnband unter dem Helm.",
+              "Beleuchtung ist ab 17:30 Uhr zwingend erforderlich.",
+              "Nutzen Sie Radwege entlang des Flusses Guadiana."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást; a hideg befolyásolja.",
+              "Viseljen fejpántot a sisak alatt.",
+              "A világítás 17:30-tól kötelező.",
+              "Használja a Guadiana folyó menti kerékpárutakat."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope; frigul o influențează.",
+              "Purtați o bentiță sub cască.",
+              "Iluminarea este obligatorie începând cu ora 17:30.",
+              "Folosiți pistele de biciclete de-a lungul râului Guadiana."
+            ],
+            "en": [
+              "Check tire pressure; cold affects it.",
+              "Wear a headband under your helmet.",
+              "Lighting is mandatory from 5:30 PM.",
+              "Use bike paths along the Guadiana River."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1109,6 +1491,206 @@
           "Do not leave valuables visible in the car.",
           "The cluster-walking strategy saves time searching for parking and is more relaxing."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie Badajoz' Sehenswürdigkeiten auch bei Regen bequem. Parken Sie direkt an der Alcazaba und genießen Sie die Aussicht aus dem Auto, bevor Sie die Festung erkunden.\n\nMittags bietet die Plaza Alta Schutz unter ihren Arkaden. Das MEIAC Museum ist das perfekte Ziel für den nassen Nachmittag, da der Parkplatz ganz in der Nähe liegt.\n\nZum Abschluss besuchen Sie die Kathedrale im Stadtzentrum. Die kurzen Wege vom Parkhaus zum Kirchenportal halten Sie trocken.",
+            "hu": "Autóval kényelmesen elérheti Badajoz látnivalóit esőben is. Parkoljon közvetlenül az Alcazabánál, és élvezze a kilátást az autóból, mielőtt felfedezné az erődöt.\n\nDélben a Plaza Alta védelmet nyújt az árkádjai alatt. A MEIAC múzeum tökéletes célpont a vizes délutánon, mivel a parkoló nagyon közel van.\n\nZárásként látogasson el a városközpontban található katedrálishoz. A parkolóháztól a templomkapuig tartó rövid táv szárazon tartja Önt.",
+            "ro": "Cu mașina puteți ajunge confortabil la obiectivele din Badajoz chiar și pe ploaie. Parcați direct la Alcazaba și bucurați-vă de priveliște din mașină înainte de a explora cetatea.\n\nLa prânz, Plaza Alta oferă protecție sub arcadele sale. Muzeul MEIAC este destinația perfectă pentru o după-amiază ploioasă, deoarece parcarea este foarte aproape.\n\nÎn final, vizitați Catedrala din centrul orașului. Distanțele scurte de la parcare la poarta bisericii vă vor menține uscat.",
+            "en": "By car, you can reach Badajoz's sights comfortably even in the rain. Park directly at the Alcazaba and enjoy the view from the car before exploring the fortress.\n\nAt midday, Plaza Alta offers protection under its arcades. The MEIAC Museum is the perfect destination for a wet afternoon, as the parking lot is very close by.\n\nFinally, visit the Cathedral in the city center. The short distances from the parking garage to the church portal will keep you dry."
+          },
+          "stops": [
+            {
+              "name": "Parking near the Alcazaba",
+              "tip_4lang": {
+                "de": "Parkplatz ist oft matschig; festes Schuhwerk.",
+                "hu": "A parkoló gyakran sáros; hordjon stabil lábbelit.",
+                "ro": "Parcarea este adesea noroioasă; purtați încălțăminte solidă.",
+                "en": "Parking area is often muddy; wear sturdy footwear."
+              }
+            },
+            {
+              "name": "Alcazaba of Badajoz",
+              "tip_4lang": {
+                "de": "Direkter Zugang zur Festung vom Parkplatz.",
+                "hu": "Közvetlen hozzáférés az erődhöz a parkolótól.",
+                "ro": "Acces direct la cetate din parcare.",
+                "en": "Direct access to the fortress from the parking lot."
+              }
+            },
+            {
+              "name": "Plaza Alta",
+              "tip_4lang": {
+                "de": "Kurzer Laufweg unter die Arkaden.",
+                "hu": "Rövid séta az árkádok alá.",
+                "ro": "Distanță scurtă de mers până sub arcade.",
+                "en": "Short walk to get under the arcades."
+              }
+            },
+            {
+              "name": "Parking at MEIAC",
+              "tip_4lang": {
+                "de": "Überdachter Stellplatz in der Nähe suchen.",
+                "hu": "Keressen fedett parkolóhelyet a közelben.",
+                "ro": "Căutați un loc de parcare acoperit în apropiere.",
+                "en": "Look for a covered parking space nearby."
+              }
+            },
+            {
+              "name": "MEIAC Museum",
+              "tip_4lang": {
+                "de": "Ideal bei Dauerregen; viel Zeit einplanen.",
+                "hu": "Ideális tartós esőben; tervezzen sok időt.",
+                "ro": "Ideal în caz de ploaie continuă; planificați mult timp.",
+                "en": "Ideal during steady rain; plan plenty of time."
+              }
+            },
+            {
+              "name": "Parking in the center (near Cathedral)",
+              "tip_4lang": {
+                "de": "Tiefgarage nutzen, um trocken auszusteigen.",
+                "hu": "Használja a mélygarázst a száraz kiszálláshoz.",
+                "ro": "Folosiți parcarea subterană pentru a debarca la uscat.",
+                "en": "Use the underground parking to get out dry."
+              }
+            },
+            {
+              "name": "Cathedral of San Juan Bautista",
+              "tip_4lang": {
+                "de": "Eingang ist nur wenige Meter vom Parkhaus entfernt.",
+                "hu": "A bejárat csak pár méterre van a parkolóháztól.",
+                "ro": "Intrarea este la doar câțiva metri de parcare.",
+                "en": "Entrance is only a few meters from the parking garage."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie Parkplätze in Senken bei Starkregen.",
+              "Nutzen Sie Google Maps für Echtzeit-Verkehrsinfos.",
+              "Scheibenwischer vor Fahrtantritt prüfen.",
+              "Halten Sie Kleingeld für die Parkautomaten bereit."
+            ],
+            "hu": [
+              "Heves esőzéskor kerülje a mélyebben fekvő parkolókat.",
+              "Használja a Google Maps-et valós idejű forgalmi infókért.",
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Legyen Önnél aprópénz a parkolóautomatákhoz."
+            ],
+            "ro": [
+              "Evitați parcările în zone joase în caz de ploaie torențială.",
+              "Utilizați Google Maps pentru informații în timp real despre trafic.",
+              "Verificați ștergătoarele înainte de a porni.",
+              "Aveți pregătite monede pentru automatele de parcare."
+            ],
+            "en": [
+              "Avoid parking in low-lying areas during heavy rain.",
+              "Use Google Maps for real-time traffic info.",
+              "Check windshield wipers before starting.",
+              "Have small change ready for parking meters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Badajoz im Winter mit dem Auto zu erkunden, bietet maximale Flexibilität. Starten Sie an der Alcazaba und genießen Sie den klaren Weitblick, bevor Sie zur Plaza Alta weiterfahren.\n\nMittags laden die sonnigen Gassen der Altstadt zum Verweilen ein. Das MEIAC Museum bietet am Nachmittag eine angenehme Abwechslung im Warmen.\n\nDer Tag endet an der Kathedrale im Zentrum. Dank des Autos sind Sie für den kühlen Abend gewappnet und können die beleuchtete Stadt bequem durchqueren.",
+            "hu": "Badajoz téli felfedezése autóval maximális rugalmasságot kínál. Kezdjen az Alcazabánál, és élvezze a tiszta kilátást, mielőtt továbbindulna a Plaza Altára.\n\nDélben az óváros napsütötte utcái hívogatnak egy kis időtöltésre. A MEIAC múzeum délután kellemes kikapcsolódást nyújt a melegben.\n\nA nap a központi katedrálisnál ér véget. Az autónak köszönhetően felkészült a hűvös estére, és kényelmesen átszelheti a kivilágított várost.",
+            "ro": "Explorarea orașului Badajoz iarna cu mașina oferă flexibilitate maximă. Începeți la Alcazaba și bucurați-vă de panorama clară înainte de a continua spre Plaza Alta.\n\nLa prânz, străduțele însorite ale centrului vechi vă invită la popas. Muzeul MEIAC oferă după-amiaza o schimbare plăcută la căldură.\n\nZiua se încheie la Catedrala din centru. Datorită mașinii, sunteți pregătit pentru seara răcoroasă și puteți traversa confortabil orașul iluminat.",
+            "en": "Exploring Badajoz in winter by car offers maximum flexibility. Start at the Alcazaba and enjoy the clear panoramic view before moving on to Plaza Alta.\n\nAt midday, the sunny alleys of the old town invite you to linger. The MEIAC Museum provides a pleasant change in the warmth in the afternoon.\n\nThe day ends at the Cathedral in the center. Thanks to the car, you are prepared for the cool evening and can comfortably traverse the illuminated city."
+          },
+          "stops": [
+            {
+              "name": "Parking near the Alcazaba",
+              "tip_4lang": {
+                "de": "Morgens kann Raureif auf dem Parkplatz liegen.",
+                "hu": "Reggelente dér lehet a parkolóban.",
+                "ro": "Dimineața poate fi brumă în parcare.",
+                "en": "There may be frost in the parking lot in the morning."
+              }
+            },
+            {
+              "name": "Alcazaba of Badajoz",
+              "tip_4lang": {
+                "de": "Klarste Sicht des Jahres von den Mauern.",
+                "hu": "Az év legtisztább kilátása a falakról.",
+                "ro": "Cea mai clară vedere din an de pe ziduri.",
+                "en": "Clearest views of the year from the walls."
+              }
+            },
+            {
+              "name": "Plaza Alta",
+              "tip_4lang": {
+                "de": "Parken in der Nähe der 'San Andrés' Kirche.",
+                "hu": "Parkoljon a 'San Andrés' templom közelében.",
+                "ro": "Parcați în apropierea bisericii 'San Andrés'.",
+                "en": "Park near the 'San Andrés' church."
+              }
+            },
+            {
+              "name": "Parking at MEIAC",
+              "tip_4lang": {
+                "de": "Sonnige Plätze zum Parken bevorzugen.",
+                "hu": "Preferálja a napos parkolóhelyeket.",
+                "ro": "Preferați locurile de parcare însorite.",
+                "en": "Prefer sunny parking spots."
+              }
+            },
+            {
+              "name": "MEIAC Museum",
+              "tip_4lang": {
+                "de": "Angenehm geheizte Ausstellungsräume.",
+                "hu": "Kellemesen fűtött kiállítótermek.",
+                "ro": "Săli de expoziție încălzite plăcut.",
+                "en": "Pleasantly heated exhibition rooms."
+              }
+            },
+            {
+              "name": "Parking in the center (near Cathedral)",
+              "tip_4lang": {
+                "de": "Zentraler Ausgangspunkt für Abendspaziergänge.",
+                "hu": "Központi kiindulópont az esti sétákhoz.",
+                "ro": "Punct central de plecare pentru plimbări de seară.",
+                "en": "Central starting point for evening walks."
+              }
+            },
+            {
+              "name": "Cathedral of San Juan Bautista",
+              "tip_4lang": {
+                "de": "Abends herrlich beleuchtet.",
+                "hu": "Este gyönyörűen kivilágítva.",
+                "ro": "Iluminat superb seara.",
+                "en": "Beautifully illuminated in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutzmittel in der Scheibenwaschanlage prüfen.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto.",
+              "Parkhäuser sind im Winter wärmer für den Rückweg.",
+              "Rechnen Sie mit mehr Verkehr bei Sonnenuntergang."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Ne hagyjon értéket látható helyen az autóban.",
+              "A parkolóházak télen melegebbek a visszatéréshez.",
+              "Számoljon nagyobb forgalommal naplementekor."
+            ],
+            "ro": [
+              "Verificați antigelul în instalația de spălare a parbrizului.",
+              "Nu lăsați obiecte de valoare la vedere în mașină.",
+              "Parcările etajate sunt mai calde iarna pentru întoarcere.",
+              "Anticipați un trafic mai intens la apus."
+            ],
+            "en": [
+              "Check antifreeze in the windshield washer system.",
+              "Do not leave valuables visible in the car.",
+              "Parking garages are warmer in winter for the return trip.",
+              "Expect more traffic at sunset."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1465,6 +2047,188 @@
           "Most buses are air-conditioned, a welcome relief in summer.",
           "Plan for some buffer time for waiting at stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Badajoz lässt sich auch bei Regen gut mit dem Bus erkunden. Starten Sie an der Plaza Alta und nutzen Sie die Wartehäuschen als Schutz.\n\nMittags führt Sie der Weg zur Alcazaba, wo die Wege bei Nässe Aufmerksamkeit erfordern. Die Busfahrt zum MEIAC Museum bietet eine trockene Pause zwischen den Zielen.\n\nNachmittags besuchen Sie das Museum und die Kathedrale. Die Linienbusse verbinden die wichtigsten Punkte effizient und halten Sie während der Fahrt trocken.",
+            "hu": "Badajoz esőben is jól felfedezhető busszal. Kezdjen a Plaza Altánál, és használja a várókat menedékként.\n\nDélben az út az Alcazabához vezet, ahol a vizes utak figyelmet igényelnek. A buszozás a MEIAC múzeumhoz száraz szünetet biztosít a célpontok között.\n\nDélután látogassa meg a múzeumot és a katedrálist. A helyi buszjáratok hatékonyan összekötik a főbb pontokat, és szárazon tartják Önt utazás közben.",
+            "ro": "Badajoz poate fi explorat bine cu autobuzul chiar și pe ploaie. Începeți la Plaza Alta și folosiți stațiile ca adăpost.\n\nLa prânz, drumul vă duce la Alcazaba, unde potecile necesită atenție când sunt ude. Călătoria cu autobuzul spre Muzeul MEIAC oferă o pauză uscată între obiective.\n\nDupă-amiaza, vizitați muzeul și Catedrala. Autobuzele locale conectează eficient principalele puncte și vă mențin uscat în timpul călătoriei.",
+            "en": "Badajoz can be easily explored by bus even in the rain. Start at Plaza Alta and use the bus shelters as protection.\n\nAt midday, the route takes you to the Alcazaba, where the paths require attention when wet. The bus ride to the MEIAC Museum offers a dry break between destinations.\n\nIn the afternoon, visit the museum and the Cathedral. Local buses connect the main points efficiently and keep you dry during the ride."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Plaza Alta",
+              "tip_4lang": {
+                "de": "Bushaltestelle hat ein schützendes Dach.",
+                "hu": "A buszmegállónak van védőtetője.",
+                "ro": "Stația de autobuz are acoperiș protector.",
+                "en": "The bus stop has a protective roof."
+              }
+            },
+            {
+              "name": "Plaza Alta",
+              "tip_4lang": {
+                "de": "Arkaden sind nur wenige Schritte entfernt.",
+                "hu": "Az árkádok csak pár lépésre vannak.",
+                "ro": "Arcadele sunt la doar câțiva pași distanță.",
+                "en": "The arcades are just a few steps away."
+              }
+            },
+            {
+              "name": "Alcazaba of Badajoz",
+              "tip_4lang": {
+                "de": "Anstieg zur Festung bei Regen vorsichtig begehen.",
+                "hu": "Az erődhöz való felkapaszkodást esőben óvatosan tegye.",
+                "ro": "Urcați spre cetate cu prudență pe ploaie.",
+                "en": "Walk up to the fortress carefully in the rain."
+              }
+            },
+            {
+              "name": "Trip to MEIAC",
+              "tip_4lang": {
+                "de": "Buslinie C1 oder C2 nutzen für trockene Fahrt.",
+                "hu": "Használja a C1 vagy C2 buszvonalat a száraz utazáshoz.",
+                "ro": "Utilizați linia de autobuz C1 sau C2 pentru o călătorie uscată.",
+                "en": "Use bus line C1 or C2 for a dry trip."
+              }
+            },
+            {
+              "name": "MEIAC Museum",
+              "tip_4lang": {
+                "de": "Eingangshalle bietet Platz zum Schirm-Ausschütteln.",
+                "hu": "Az előcsarnokban van hely az esernyő lerázására.",
+                "ro": "Holul de intrare oferă spațiu pentru a scutura umbrela.",
+                "en": "The entrance hall offers space to shake off your umbrella."
+              }
+            },
+            {
+              "name": "Cathedral and City Center",
+              "tip_4lang": {
+                "de": "Busse fahren hier sehr regelmäßig ab.",
+                "hu": "A buszok innen nagyon rendszeresen indulnak.",
+                "ro": "Autobuzele pleacă de aici foarte regulat.",
+                "en": "Buses depart from here very regularly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die 'Tubasa' App für Live-Fahrzeiten.",
+              "Halten Sie Kleingeld oder eine Kontaktlos-Karte bereit.",
+              "Busse können bei Regen voller sein.",
+              "Warten Sie in Geschäften nahe der Haltestelle."
+            ],
+            "hu": [
+              "Töltse le a 'Tubasa' alkalmazást az élő menetrendért.",
+              "Legyen Önnél aprópénz vagy érintős kártya.",
+              "Esőben a buszok zsúfoltabbak lehetnek.",
+              "Várjon a megálló közeli üzletekben."
+            ],
+            "ro": [
+              "Descărcați aplicația 'Tubasa' pentru timpii de sosire live.",
+              "Aveți pregătite monede sau un card contactless.",
+              "Autobuzele pot fi mai aglomerate pe ploaie.",
+              "Așteptați în magazinele din apropierea stației."
+            ],
+            "en": [
+              "Download the 'Tubasa' app for live departure times.",
+              "Have change or a contactless card ready.",
+              "Buses can be more crowded when it rains.",
+              "Wait in shops near the bus stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Badajoz ist ideal für Erkundungen mit dem öffentlichen Nahverkehr. Starten Sie an der Plaza Alta und genießen Sie die klare Sicht über die Stadt.\n\nMittags bringt Sie der Bus zur Alcazaba, wo die kühle Luft perfekt für einen Rundgang auf den Mauern ist. Das MEIAC Museum bietet am Nachmittag eine warme Zuflucht.\n\nDer Tag endet im beleuchteten Stadtzentrum an der Kathedrale. Die regelmäßigen Busverbindungen bringen Sie am Abend schnell und bequem zurück zu Ihrer Unterkunft.",
+            "hu": "A téli Badajoz ideális a tömegközlekedéssel való felfedezéshez. Kezdjen a Plaza Altánál, és élvezze a tiszta kilátást a városra.\n\nDélben a busz elviszi az Alcazabához, ahol a hűvös levegő tökéletes a várfalakon tett sétához. A MEIAC múzeum délután meleg menedéket nyújt.\n\nA nap a kivilágított városközpontban, a katedrálisnál ér véget. A rendszeres buszjáratok este gyorsan és kényelmesen visszaviszik a szállására.",
+            "ro": "Iarna în Badajoz este ideală pentru explorări cu transportul public. Începeți la Plaza Alta și bucurați-vă de panorama clară asupra orașului.\n\nLa prânz, autobuzul vă duce la Alcazaba, unde aerul rece este perfect pentru un tur pe ziduri. Muzeul MEIAC oferă un refugiu cald după-amiaza.\n\nZiua se încheie în centrul iluminat, la Catedrală. Conexiunile regulate de autobuz vă readuc seara rapid și confortabil la cazare.",
+            "en": "Winter in Badajoz is ideal for exploration using public transit. Start at Plaza Alta and enjoy the clear view over the city.\n\nAt midday, the bus takes you to the Alcazaba, where the cool air is perfect for a tour on the walls. The MEIAC Museum provides a warm refuge in the afternoon.\n\nThe day ends in the illuminated city center at the Cathedral. Regular bus connections will take you back to your accommodation quickly and comfortably in the evening."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Plaza Alta",
+              "tip_4lang": {
+                "de": "Frühe Touren nutzen, um das Morgenlicht zu sehen.",
+                "hu": "Használja a korai járatokat a reggeli fényekért.",
+                "ro": "Folosiți cursele timpurii pentru a vedea lumina dimineții.",
+                "en": "Take early trips to see the morning light."
+              }
+            },
+            {
+              "name": "Plaza Alta",
+              "tip_4lang": {
+                "de": "Sonnige Seite der Haltestelle zum Warten wählen.",
+                "hu": "Válassza a megálló napos oldalát a várakozáshoz.",
+                "ro": "Alegeți partea însorită a stației pentru așteptare.",
+                "en": "Choose the sunny side of the stop for waiting."
+              }
+            },
+            {
+              "name": "Alcazaba of Badajoz",
+              "tip_4lang": {
+                "de": "Tiefstehende Sonne blendet; Sonnenbrille mitnehmen.",
+                "hu": "Az alacsonyan járó nap vakíthat; vigyen napszemüveget.",
+                "ro": "Soarele jos poate fi orbitor; luați ochelari de soare.",
+                "en": "Low sun can be blinding; bring sunglasses."
+              }
+            },
+            {
+              "name": "Trip to MEIAC",
+              "tip_4lang": {
+                "de": "Busse sind im Winter angenehm geheizt.",
+                "hu": "A buszok télen kellemesen fűtöttek.",
+                "ro": "Autobuzele sunt încălzite plăcut iarna.",
+                "en": "Buses are pleasantly heated in winter."
+              }
+            },
+            {
+              "name": "MEIAC Museum",
+              "tip_4lang": {
+                "de": "Letzter Einlass oft 30 Minuten vor Schließung.",
+                "hu": "Utolsó belépés gyakran 30 perccel zárás előtt.",
+                "ro": "Ultima intrare este adesea cu 30 de minute înainte de închidere.",
+                "en": "Last entry often 30 minutes before closing."
+              }
+            },
+            {
+              "name": "Cathedral and City Center",
+              "tip_4lang": {
+                "de": "Abends Fahrplanänderungen beachten.",
+                "hu": "Este ügyeljen a menetrendi változásokra.",
+                "ro": "Atenție la modificările de orar seara.",
+                "en": "Note schedule changes in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Einzelscheine können beim Fahrer gekauft werden.",
+              "Fahrplanfrequenz kann an Winterwochenenden sinken.",
+              "Wärmen Sie sich in den Bussen zwischen den Zielen auf.",
+              "Zentrale Haltestellen sind gut beleuchtet."
+            ],
+            "hu": [
+              "Vonaljegyet a sofőrnél is lehet venni.",
+              "Téli hétvégéken ritkább lehet a menetrend.",
+              "Melegedjen fel a buszokon a célpontok között.",
+              "A központi megállók jól megvilágítottak."
+            ],
+            "ro": [
+              "Biletele individuale pot fi cumpărate de la șofer.",
+              "Frecvența curselor poate scădea în weekendurile de iarnă.",
+              "Încălziți-vă în autobuze între destinații.",
+              "Stațiile centrale sunt bine iluminate."
+            ],
+            "en": [
+              "Single tickets can be bought from the driver.",
+              "Frequency may decrease on winter weekends.",
+              "Warm up on the buses between destinations.",
+              "Central bus stops are well-lit."
+            ]
+          }
+        }
       }
     }
   }

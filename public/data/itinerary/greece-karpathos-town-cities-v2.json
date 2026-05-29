@@ -402,6 +402,214 @@
           "A hat and sunscreen are essential.",
           "Plan a longer break at the beach in the afternoon to avoid the peak heat."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt windig an der Hafenpromenade. Rathaus und Museum bieten mittags idealen Schutz vor den Schauern. Nachmittags führt der Weg mit Regenschirm zur Agia Fotini Kapelle. Trotz Regen beeindruckt das tosende Meer am Vrontis Strand. Der Tag endet an der Poseidons-Höhle, wenn der Wind nachlässt.",
+            "hu": "A reggel szeles a kikötői sétányon. Délben a Városháza és a Múzeum nyújt menedéket a záporok elől. Délután esernyővel látogatjuk meg az Agia Fotini kápolnát. Az eső ellenére lenyűgöző a viharos tenger a Vrontis strandon. A nap a Poszeidón-barlangnál zárul, ahogy csendesedik a szél.",
+            "ro": "Dimineața începe cu vânt pe faleza portului. Primăria și Muzeul oferă la prânz adăpostul ideal împotriva ploii. După-amiaza, drumul duce cu umbrela spre capela Agia Fotini. În ciuda ploii, marea agitată de pe plaja Vrontis impresionează. Ziua se încheie la peștera lui Poseidon, când vântul se mai potolește.",
+            "en": "Morning starts windy at the harbour promenade. Town Hall and Museum offer ideal shelter from showers at noon. Afternoon walk with an umbrella leads to Agia Fotini chapel. Despite the rain, the stormy sea at Vrontis Beach is impressive. The day ends at Poseidon's Cave as the wind subsides."
+          },
+          "stops": [
+            {
+              "name": "Pigadia Harbour Promenade",
+              "tip_5lang": {
+                "de": "Gischt am Pier möglich, wasserfeste Jacke.",
+                "hu": "Hullámverés várható, vízálló dzseki kell.",
+                "ro": "Posibil valuri pe dig, geacă impermeabilă.",
+                "en": "Sea spray possible on the pier, waterproof jacket."
+              }
+            },
+            {
+              "name": "Karpathos Town Hall",
+              "tip_5lang": {
+                "de": "Unterstand unter den Arkaden nutzen.",
+                "hu": "Használja az árkádok alatti fedezéket.",
+                "ro": "Folosiți adăpostul de sub arcade.",
+                "en": "Use the shelter under the arcades."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Perfektes Timing für den stärksten Regen.",
+                "hu": "Tökéletes időzítés a legnagyobb esőre.",
+                "ro": "Moment perfect pentru cea mai puternică ploaie.",
+                "en": "Perfect timing for the heaviest rain."
+              }
+            },
+            {
+              "name": "Agia Fotini Church",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steine können glatt sein.",
+                "hu": "Vigyázat, a kövek csúszósak lehetnek.",
+                "ro": "Atenție, pietrele pot fi alunecoase.",
+                "en": "Careful, the stones can be slippery."
+              }
+            },
+            {
+              "name": "Monument of the Unknown Soldier",
+              "tip_5lang": {
+                "de": "Kurzer Halt zwischen zwei Regengüssen.",
+                "hu": "Gyors megálló két zápor között.",
+                "ro": "Scurtă oprire între două averse.",
+                "en": "Quick stop between two downpours."
+              }
+            },
+            {
+              "name": "Vrontis Beach",
+              "tip_5lang": {
+                "de": "Dramatische Wellen, Aufenthalt im Café.",
+                "hu": "Drámai hullámok, pihenő egy kávézóban.",
+                "ro": "Valuri dramatice, pauză la o cafenea.",
+                "en": "Dramatic waves, stay at a café."
+              }
+            },
+            {
+              "name": "Poseidon's Cave",
+              "tip_5lang": {
+                "de": "Die Höhle bietet natürlichen Regenschutz.",
+                "hu": "A barlang természetes védelmet ad esőben.",
+                "ro": "Peștera oferă protecție naturală contra ploii.",
+                "en": "The cave offers natural rain protection."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das Museum als trockenen Rückzugsort.",
+              "Wasserfeste Schuhe für die Hafenpromenade.",
+              "Cafés am Hafen bieten gemütliche Unterstände.",
+              "Regenschirm ist wegen des Windes oft unpraktisch.",
+              "Achten Sie auf Pfützen in den Gassen."
+            ],
+            "hu": [
+              "Használja a múzeumot száraz menedékként.",
+              "Vízálló cipő javasolt a parti sétányra.",
+              "A kikötői kávézók jó fedezéket nyújtanak.",
+              "Az esernyő a szélben sokszor használhatatlan.",
+              "Figyeljen a tócsákra a szűk utcákban."
+            ],
+            "ro": [
+              "Folosiți muzeul ca refugiu uscat.",
+              "Încălțăminte impermeabilă pentru faleză.",
+              "Cafenelele din port oferă adăpost bun.",
+              "Umbrela este adesea inutilă din cauza vântului.",
+              "Atenție la bălțile din străzile înguste."
+            ],
+            "en": [
+              "Use the museum as a dry refuge.",
+              "Waterproof shoes recommended for the promenade.",
+              "Harbour cafés offer good cover.",
+              "Umbrellas are often impractical due to wind.",
+              "Watch out for puddles in narrow streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am ruhigen Hafen. Das Museum bietet mittags faszinierende Einblicke ohne Touristenmassen. Die Wanderung zur Agia Fotini ist in der milden Sonne sehr angenehm. Am Vrontis Strand genießt man nachmittags die Einsamkeit. Der Tag endet früh bei der Poseidons-Höhle vor dem kühlen Abend.",
+            "hu": "Friss téli reggel a csendes kikötőben. A múzeum délben lenyűgöző betekintést nyújt tömegek nélkül. Az Agia Fotinihez vezető túra a lágy napsütésben nagyon kellemes. Délután a Vrontis strandon élvezhetjük a magányt. A nap korán zárul a Poszeidón-barlangnál a hűvös este előtt.",
+            "ro": "O dimineață răcoroasă de iarnă în portul liniștit. Muzeul oferă la prânz perspective fascinante, fără mulțimi de turiști. Drumeția spre Agia Fotini este foarte plăcută sub soarele blând. După-amiaza, pe plaja Vrontis, vă bucurați de singurătate. Ziua se încheie devreme la peștera lui Poseidon, înainte de seara rece.",
+            "en": "A crisp winter morning at the quiet harbour. The museum offers fascinating insights at noon without tourist crowds. The hike to Agia Fotini is very pleasant in the mild sun. In the afternoon, enjoy the solitude at Vrontis Beach. The day ends early at Poseidon's Cave before the cool evening sets in."
+          },
+          "stops": [
+            {
+              "name": "Pigadia Harbour Promenade",
+              "tip_5lang": {
+                "de": "Warme Jacke gegen die Meeresbrise.",
+                "hu": "Meleg kabát kell a tengeri szélben.",
+                "ro": "Geacă groasă contra brizei mării.",
+                "en": "Warm jacket needed against the sea breeze."
+              }
+            },
+            {
+              "name": "Karpathos Town Hall",
+              "tip_5lang": {
+                "de": "Schöne Architektur im klaren Winterlicht.",
+                "hu": "Szép építészet a tiszta téli fényben.",
+                "ro": "Arhitectură frumoasă în lumina clară de iarnă.",
+                "en": "Beautiful architecture in clear winter light."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Aufwärmen zwischen antiken Schätzen.",
+                "hu": "Melegedjen fel az antik kincsek között.",
+                "ro": "Încălziți-vă printre comorile antice.",
+                "en": "Warm up among ancient treasures."
+              }
+            },
+            {
+              "name": "Agia Fotini Church",
+              "tip_5lang": {
+                "de": "Bester Zeitpunkt für Fotos ohne Schatten.",
+                "hu": "A legjobb időpont árnyékmentes fotókhoz.",
+                "ro": "Cel mai bun moment pentru poze fără umbre.",
+                "en": "Best time for photos without shadows."
+              }
+            },
+            {
+              "name": "Monument of the Unknown Soldier",
+              "tip_5lang": {
+                "de": "Ruhiger Moment des Gedenkens.",
+                "hu": "A megemlékezés csendes pillanata.",
+                "ro": "Un moment liniștit de reculegere.",
+                "en": "A quiet moment of remembrance."
+              }
+            },
+            {
+              "name": "Vrontis Beach",
+              "tip_5lang": {
+                "de": "Langer Spaziergang am leeren Ufer.",
+                "hu": "Hosszú séta az üres parton.",
+                "ro": "Plimbare lungă pe malul pustiu.",
+                "en": "Long walk along the empty shore."
+              }
+            },
+            {
+              "name": "Poseidon's Cave",
+              "tip_5lang": {
+                "de": "Früher Sonnenuntergang gegen 17:00 Uhr.",
+                "hu": "Korai naplemente 17:00 körül.",
+                "ro": "Apus devreme, în jurul orei 17:00.",
+                "en": "Early sunset around 17:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Viele Cafés haben im Winter geänderte Zeiten.",
+              "Zwiebelprinzip bei der Kleidung beachten.",
+              "Die Wintersonne ist stark, UV-Schutz nutzen.",
+              "Früher Aufbruch, da es schnell dunkel wird.",
+              "Lokale Tavernen sind authentischer als im Sommer."
+            ],
+            "hu": [
+              "Sok kávézó télen módosított nyitvatartással üzemel.",
+              "Öltözzön rétegesen a változó hőmérséklet miatt.",
+              "A téli nap erős, használjon fényvédőt.",
+              "Induljon korán, mert hamar sötétedik.",
+              "A helyi tavernák ilyenkor hitelesebbek, mint nyáron."
+            ],
+            "ro": [
+              "Multe cafenele au program redus iarna.",
+              "Îmbrăcați-vă în straturi pentru temperaturi variabile.",
+              "Soarele de iarnă este puternic, folosiți protecție UV.",
+              "Porniți devreme, se întunecă repede.",
+              "Tavernele locale sunt mai autentice decât vara."
+            ],
+            "en": [
+              "Many cafés have reduced hours in winter.",
+              "Dress in layers for variable temperatures.",
+              "Winter sun is strong, use UV protection.",
+              "Start early as it gets dark quickly.",
+              "Local tavernas are more authentic than in summer."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -774,6 +982,196 @@
           "Wear a helmet and bright clothing to be visible.",
           "Always lock your bike when you park it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Fahrt entlang der Küste trotz Regen. Am Vrontis Strand spürt man die Gischt, bevor es zur Akropolis hinaufgeht. Mittags bietet das Museum eine willkommene Pause im Trockenen. Nachmittags erkunden wir die Höhle des Poseidons. Der Tag endet am Freilichttheater mit Blick auf die stürmische Bucht.",
+            "hu": "Frissítő tekerés a parton az eső ellenére is. A Vrontis strandon érezni a tengerpermetet az akropoliszi emelkedő előtt. Délben a múzeum vár száraz pihenővel. Délután a Poszeidón-barlangot fedezzük fel. A nap a szabadtéri színháznál zárul, kilátással a viharos öbölre.",
+            "ro": "O plimbare revigorantă pe coastă, în ciuda ploii. Pe plaja Vrontis simțiți stropii mării înainte de urcarea spre Acropole. La prânz, muzeul oferă o pauză binemeritată la uscat. După-amiaza explorăm peștera lui Poseidon. Ziua se încheie la teatrul în aer liber cu vedere spre golful furtunos.",
+            "en": "A refreshing ride along the coast despite the rain. At Vrontis Beach, feel the sea spray before the climb to the Acropolis. At noon, the museum offers a welcome dry break. In the afternoon, we explore Poseidon's Cave. The day ends at the open-air theatre with a view of the stormy bay."
+          },
+          "stops": [
+            {
+              "name": "Pigadia Harbour Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht bei rutschigem Kopfsteinpflaster.",
+                "hu": "Vigyázat a csúszós macskakövön.",
+                "ro": "Atenție la pavajul alunecos.",
+                "en": "Watch out for slippery cobblestones."
+              }
+            },
+            {
+              "name": "Vrontis Beach",
+              "tip_5lang": {
+                "de": "Sandige Wege können schlammig sein.",
+                "hu": "A homokos utak sarasak lehetnek.",
+                "ro": "Drumurile cu nisip pot fi noroioase.",
+                "en": "Sandy paths can be muddy."
+              }
+            },
+            {
+              "name": "Acropolis of Potideon",
+              "tip_5lang": {
+                "de": "Bremsen bei der Abfahrt vorsichtig prüfen.",
+                "hu": "Lejtőn óvatosan ellenőrizze a fékeket.",
+                "ro": "Verificați frânele cu atenție la coborâre.",
+                "en": "Check brakes carefully on the descent."
+              }
+            },
+            {
+              "name": "Poseidon's Cave",
+              "tip_5lang": {
+                "de": "Unterstand für das Fahrrad suchen.",
+                "hu": "Keressen fedett helyet a kerékpárnak.",
+                "ro": "Căutați un adăpost pentru bicicletă.",
+                "en": "Look for a shelter for the bike."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Fahrradständer meist ungeschützt, Schloss mitnehmen.",
+                "hu": "A tárolók többnyire fedetlenek, vigyen lakatot.",
+                "ro": "Rafturile de biciclete sunt neprotejate, luați un lacăt.",
+                "en": "Bike racks are mostly unprotected, bring a lock."
+              }
+            },
+            {
+              "name": "Open-air Theatre",
+              "tip_5lang": {
+                "de": "Windige Lage, schnell wieder aufbrechen.",
+                "hu": "Szeles helyszín, induljon tovább hamar.",
+                "ro": "Locație vântoasă, plecați repede mai departe.",
+                "en": "Windy location, head back soon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie tiefen Schlamm abseits der Wege.",
+              "Tragen Sie leuchtende Regenbekleidung.",
+              "Schutzbleche am Fahrrad sind unverzichtbar.",
+              "Vorsicht vor Aquaplaning auf Asphalt.",
+              "Kettenpflege nach der Fahrt nötig."
+            ],
+            "hu": [
+              "Kerülje a mély sarat az utak mentén.",
+              "Viseljen feltűnő esőruházatot.",
+              "A sárvédő elengedhetetlen a biciklin.",
+              "Vigyázzon a vízenfutásra az aszfalton.",
+              "A láncot tisztítani kell a túra után."
+            ],
+            "ro": [
+              "Evitați noroiul adânc de lângă drumuri.",
+              "Purtați haine de ploaie reflectorizante.",
+              "Apărătorile de noroi sunt indispensabile.",
+              "Atenție la acvaplanare pe asfalt.",
+              "Lanțul trebuie curățat după plimbare."
+            ],
+            "en": [
+              "Avoid deep mud off the paths.",
+              "Wear bright rain gear.",
+              "Mudguards are essential on the bike.",
+              "Beware of aquaplaning on asphalt.",
+              "Chain maintenance needed after the ride."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine kühle Brise begleitet die Fahrt am Hafenmorgen. Die Strecke zum Vrontis Strand ist im Winter angenehm leer. Mittags erkunden wir die Akropolis unter der strahlenden Sonne. Nach der Poseidons-Höhle wärmt der Museumsbesuch die Glieder. Der Tag klingt am Theater bei einem klaren Sternenhimmel aus.",
+            "hu": "Hűvös szellő kíséri a reggeli tekerést a kikötőben. A Vrontis strandhoz vezető út télen kellemesen üres. Délben az Akropoliszt fedezzük fel a ragyogó napsütésben. A Poszeidón-barlang után a múzeumlátogatás felmelegít. A nap a színháznál ér véget a tiszta csillagos égbolt alatt.",
+            "ro": "O briză răcoroasă însoțește plimbarea matinală în port. Drumul spre plaja Vrontis este plăcut de pustiu iarna. La prânz explorăm Acropole sub soarele strălucitor. După peștera lui Poseidon, vizita la muzeu ne încălzește. Ziua se încheie la teatru sub un cer înstelat clar.",
+            "en": "A cool breeze accompanies the morning ride at the harbour. The route to Vrontis Beach is pleasantly empty in winter. At noon, we explore the Acropolis under the shining sun. After Poseidon's Cave, the museum visit warms the limbs. The day fades out at the theatre under a clear starry sky."
+          },
+          "stops": [
+            {
+              "name": "Pigadia Harbour Promenade",
+              "tip_5lang": {
+                "de": "Handschuhe schützen vor kaltem Fahrtwind.",
+                "hu": "A kesztyű véd a hideg menetszéltől.",
+                "ro": "Mănușile protejează contra vântului rece.",
+                "en": "Gloves protect against the cold wind chill."
+              }
+            },
+            {
+              "name": "Vrontis Beach",
+              "tip_5lang": {
+                "de": "Die Cafés hier sind teilweise geschlossen.",
+                "hu": "Az itteni kávézók egy része zárva van.",
+                "ro": "Unele cafenele de aici sunt închise.",
+                "en": "Some cafés here are partially closed."
+              }
+            },
+            {
+              "name": "Acropolis of Potideon",
+              "tip_5lang": {
+                "de": "Beste Aussicht durch staubfreie Winterluft.",
+                "hu": "Legjobb kilátás a pormentes téli levegőben.",
+                "ro": "Cea mai bună priveliște în aerul curat de iarnă.",
+                "en": "Best view through dust-free winter air."
+              }
+            },
+            {
+              "name": "Poseidon's Cave",
+              "tip_5lang": {
+                "de": "In der Höhle ist es wärmer als draußen.",
+                "hu": "A barlangban melegebb van, mint kint.",
+                "ro": "În peșteră este mai cald decât afară.",
+                "en": "It is warmer inside the cave than outside."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Gepäck für Helm und Jacke vorhanden.",
+                "hu": "Van hely a sisaknak és a kabátnak.",
+                "ro": "Există spațiu pentru cască și geacă.",
+                "en": "Storage available for helmet and jacket."
+              }
+            },
+            {
+              "name": "Open-air Theatre",
+              "tip_5lang": {
+                "de": "Frühe Dämmerung, Licht am Rad prüfen.",
+                "hu": "Korai szürkület, ellenőrizze a lámpákat.",
+                "ro": "Amurg devreme, verificați luminile bicicletei.",
+                "en": "Early twilight, check your bike lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Windstopper-Kleidung ist im Winter Pflicht.",
+              "Die Luft ist trocken, ausreichend Trinken.",
+              "Achten Sie auf veränderte Windrichtungen.",
+              "Sonnenschutz auch bei Kälte wichtig.",
+              "Werkzeug für Pannen immer dabeihaben."
+            ],
+            "hu": [
+              "Szélálló ruházat télen kötelező.",
+              "A levegő száraz, igyon eleget.",
+              "Figyeljen a megváltozott szélirányokra.",
+              "A fényvédelem hidegben is fontos.",
+              "Mindig legyen önnél szerszám defekt esetére."
+            ],
+            "ro": [
+              "Hainele windstopper sunt obligatorii iarna.",
+              "Aerul este uscat, beți suficientă apă.",
+              "Atenție la schimbarea direcției vântului.",
+              "Protecția solară e importantă și pe frig.",
+              "Aveți mereu scule pentru eventuale pene."
+            ],
+            "en": [
+              "Windstopper clothing is mandatory in winter.",
+              "The air is dry, drink enough water.",
+              "Watch out for changing wind directions.",
+              "Sun protection is important even in the cold.",
+              "Always carry tools for punctures."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1170,6 +1568,214 @@
           "Do not leave valuables in the car.",
           "The cluster-walking method saves time and stress when looking for a parking space."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequeme Fahrt durch das regnerische Pigadia. Wir parken zentral und schlendern kurz zum Hafen. Mittags bietet das Museum einen ausgiebigen Aufenthalt im Trockenen. Nachmittags geht es zum Vrontis Strand und zur Akropolis, immer bereit für den nächsten Schauer. Der Tag endet sicher am Aussichtspunkt des Theaters.",
+            "hu": "Kényelmes autózás az esős Pigadiában. Központi parkolás után rövid séta a kikötőben. Délben a múzeum bőséges időt ad a száraz nézelődésre. Délután a Vrontis strand és az Akropolisz következik, készen a következő záporra. A nap biztonságban zárul a színház kilátópontjánál.",
+            "ro": "Plimbare confortabilă cu mașina prin Pigadia ploioasă. Parcăm central și ne plimbăm scurt în port. La prânz, muzeul oferă mult timp pentru vizitare la uscat. După-amiaza mergem la plaja Vrontis și la Acropole, gata pentru următoarea aversă. Ziua se încheie în siguranță la punctul de belvedere al teatrului.",
+            "en": "Comfortable drive through rainy Pigadia. After central parking, a short stroll in the harbour. At noon, the museum allows plenty of time for dry exploration. Afternoon visits to Vrontis Beach and the Acropolis, ready for the next shower. The day ends safely at the theatre viewpoint."
+          },
+          "stops": [
+            {
+              "name": "Parking Pigadia Center",
+              "tip_5lang": {
+                "de": "Parkplatz kann bei Starkregen überfluten.",
+                "hu": "A parkoló nagy esőben víz alá kerülhet.",
+                "ro": "Parcarea se poate inunda la ploaie torențială.",
+                "en": "Parking lot may flood during heavy rain."
+              }
+            },
+            {
+              "name": "Pigadia Harbour Promenade",
+              "tip_5lang": {
+                "de": "Regenschirm im Auto griffbereit halten.",
+                "hu": "Tartsa kéznél az esernyőt az autóban.",
+                "ro": "Țineți umbrela la îndemână în mașină.",
+                "en": "Keep the umbrella handy in the car."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum Eingang.",
+                "hu": "Rövid séta a parkolótól a bejáratig.",
+                "ro": "Scurtă plimbare de la parcare la intrare.",
+                "en": "Short walk from the parking to the entrance."
+              }
+            },
+            {
+              "name": "Parking Vrontis Beach",
+              "tip_5lang": {
+                "de": "Nicht zu nah am weichen Sand parken.",
+                "hu": "Ne parkoljon túl közel a puha homokhoz.",
+                "ro": "Nu parcați prea aproape de nisipul moale.",
+                "en": "Do not park too close to the soft sand."
+              }
+            },
+            {
+              "name": "Vrontis Beach",
+              "tip_5lang": {
+                "de": "Aussicht aus dem Auto bei Starkregen genießen.",
+                "hu": "Élvezze a kilátást az autóból nagy esőben.",
+                "ro": "Admirați vederea din mașină pe ploaie grea.",
+                "en": "Enjoy the view from the car during heavy rain."
+              }
+            },
+            {
+              "name": "Acropolis of Potideon",
+              "tip_5lang": {
+                "de": "Zufahrt kann bei Nässe rutschig sein.",
+                "hu": "A felhajtó nedvesen csúszós lehet.",
+                "ro": "Accesul poate fi alunecos pe umiditate.",
+                "en": "The access road can be slippery when wet."
+              }
+            },
+            {
+              "name": "Open-air Theatre Viewpoint",
+              "tip_5lang": {
+                "de": "Licht anlassen für bessere Sichtbarkeit.",
+                "hu": "Hagyja égve a lámpát a jobb láthatóságért.",
+                "ro": "Lăsați luminile aprinse pentru vizibilitate.",
+                "en": "Keep lights on for better visibility."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze nah am Museum.",
+              "Vorsicht vor tiefen Pfützen auf Nebenstraßen.",
+              "Scheibenwischer vor der Tour prüfen.",
+              "Gute Belüftung verhindert beschlagene Scheiben.",
+              "Immer einen Regenschirm im Kofferraum haben."
+            ],
+            "hu": [
+              "Használja a múzeumhoz közeli parkolókat.",
+              "Vigyázzon a mély tócsákra a mellékutakon.",
+              "Ellenőrizze az ablaktörlőket a túra előtt.",
+              "A jó szellőzés megelőzi a párásodást.",
+              "Mindig legyen esernyő a csomagtartóban."
+            ],
+            "ro": [
+              "Folosiți parcările apropiate de muzeu.",
+              "Atenție la bălțile adânci pe străzile secundare.",
+              "Verificați ștergătoarele înainte de tur.",
+              "Ventilația bună previne aburirea geamurilor.",
+              "Aveți mereu o umbrelă în portbagaj."
+            ],
+            "en": [
+              "Use parking spaces close to the museum.",
+              "Watch out for deep puddles on side roads.",
+              "Check wipers before starting the tour.",
+              "Good ventilation prevents foggy windows.",
+              "Always have an umbrella in the trunk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Wintertag beginnt am Hafen. Die Parkplatzsuche ist in der Nebensaison kinderleicht. Mittags vertiefen wir uns im Museum in die Geschichte von Karpathos. Die Fahrt zum Vrontis Strand und zur Akropolis bietet weite Ausblicke in der klaren Luft. Der Tag endet am Aussichtspunkt, während die Sonne früh versinkt.",
+            "hu": "Nyugodt téli nap kezdődik a kikötőben. A parkolás a főszezonon kívül gyerekjáték. Délben a múzeumban merülünk el Karpathos történelmében. A Vrontis strandhoz és az Akropoliszhoz vezető út tiszta kilátást ígér. A nap a kilátópontnál ér véget, ahogy a nap korán lenyugszik.",
+            "ro": "O zi relaxată de iarnă începe în port. Găsirea parcării este foarte ușoară în afara sezonului. La prânz, ne cufundăm în istoria insulei la muzeu. Drumul spre plaja Vrontis și Acropole oferă priveliști largi în aerul curat. Ziua se încheie la punctul de belvedere, pe măsură ce soarele apune devreme.",
+            "en": "A relaxed winter day starts at the harbour. Finding parking is child's play in the low season. At noon, we immerse ourselves in the history of Karpathos at the museum. The drive to Vrontis Beach and the Acropolis offers wide views in the clear air. The day ends at the viewpoint as the sun sets early."
+          },
+          "stops": [
+            {
+              "name": "Parking Pigadia Center",
+              "tip_5lang": {
+                "de": "Viele Plätze frei, zentral gelegen.",
+                "hu": "Sok szabad hely, központi fekvés.",
+                "ro": "Multe locuri libere, locație centrală.",
+                "en": "Many spaces available, centrally located."
+              }
+            },
+            {
+              "name": "Pigadia Harbour Promenade",
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang in der Sonne.",
+                "hu": "Rövid séta a napsütésben.",
+                "ro": "O scurtă plimbare la soare.",
+                "en": "A short stroll in the sun."
+              }
+            },
+            {
+              "name": "Archaeological Museum",
+              "tip_5lang": {
+                "de": "Perfekte Innentemperatur zum Verweilen.",
+                "hu": "Tökéletes benti hőmérséklet a nézelődéshez.",
+                "ro": "Temperatură interioară perfectă pentru vizită.",
+                "en": "Perfect indoor temperature for staying a while."
+              }
+            },
+            {
+              "name": "Parking Vrontis Beach",
+              "tip_5lang": {
+                "de": "Direkter Zugang zum Strand möglich.",
+                "hu": "Közvetlen lejutás a strandra.",
+                "ro": "Acces direct la plajă posibil.",
+                "en": "Direct access to the beach possible."
+              }
+            },
+            {
+              "name": "Vrontis Beach",
+              "tip_5lang": {
+                "de": "Ruhe ohne Touristenboote genießen.",
+                "hu": "Élvezze a csendet turistahajók nélkül.",
+                "ro": "Bucurați-vă de liniște fără bărci de turiști.",
+                "en": "Enjoy the peace without tourist boats."
+              }
+            },
+            {
+              "name": "Acropolis of Potideon",
+              "tip_5lang": {
+                "de": "Gute Straßenbedingungen im Winter.",
+                "hu": "Jó útviszonyok télen.",
+                "ro": "Condiții bune de drum iarna.",
+                "en": "Good road conditions in winter."
+              }
+            },
+            {
+              "name": "Open-air Theatre Viewpoint",
+              "tip_5lang": {
+                "de": "Sonnenuntergang exakt planen (ca. 17:00).",
+                "hu": "Tervezze meg a naplementét (kb. 17:00).",
+                "ro": "Planificați apusul cu exactitate (cca. 17:00).",
+                "en": "Plan the sunset exactly (approx. 17:00)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Mietwagenpreise sind im Winter sehr günstig.",
+              "Straßenzustand nach Winterstürmen prüfen.",
+              "Heizung im Auto sorgt für Komfort.",
+              "Keine Parkgebühren in vielen Bereichen.",
+              "Tankstellen haben oft kürzere Öffnungszeiten."
+            ],
+            "hu": [
+              "Az bérautó árak télen nagyon kedvezőek.",
+              "Téli viharok után ellenőrizze az utak állapotát.",
+              "Az autó fűtése kényelmet biztosít.",
+              "Sok helyen nincs parkolási díj.",
+              "A benzinkutak gyakran korábban zárnak."
+            ],
+            "ro": [
+              "Prețurile la mașini închiriate sunt mici iarna.",
+              "Verificați starea drumurilor după furtuni.",
+              "Încălzirea din mașină asigură confortul.",
+              "Fără taxe de parcare în multe zone.",
+              "Benzinăriile au adesea program scurt."
+            ],
+            "en": [
+              "Rental car prices are very cheap in winter.",
+              "Check road conditions after winter storms.",
+              "Car heating provides comfort.",
+              "No parking fees in many areas.",
+              "Gas stations often have shorter hours."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1542,6 +2148,196 @@
           "Find out about the last bus back to the centre.",
           "In high season, the buses can be very crowded."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Start am Busbahnhof im Herzen von Pigadia. Die kurzen Wege zum Hafen und Rathaus sind auch bei Regen machbar. Mittags bietet das Museum einen trockenen Unterschlupf. Mit dem Bus geht es nachmittags zum Vrontis Strand, um die stürmische See zu bewundern. Wir kehren pünktlich zur Endstation zurück, bevor der Regen stärker wird.",
+            "hu": "Indulás a buszpályaudvarról Pigadia szívében. A kikötőhöz és városházához vezető rövid utak esőben is járhatók. Délben a múzeum száraz menedéket nyújt. Délután busszal megyünk a Vrontis strandra a viharos tengerhez. Időben visszatérünk a végállomásra, mielőtt felerősödik az eső.",
+            "ro": "Plecăm de la autogara din inima orașului Pigadia. Drumurile scurte spre port și primărie sunt practicabile și pe ploaie. La prânz, muzeul oferă un adăpost uscat. După-amiaza mergem cu autobuzul la plaja Vrontis pentru marea agitată. Revenim la timp la capăt de linie, înainte ca ploaia să se întețească.",
+            "en": "Start at the bus station in the heart of Pigadia. Short walks to the harbour and town hall are doable even in the rain. At noon, the museum offers dry shelter. In the afternoon, take the bus to Vrontis Beach to admire the stormy sea. Return to the terminal on time before the rain gets heavier."
+          },
+          "stops": [
+            {
+              "name": "Pigadia Central Bus Station",
+              "tip_5lang": {
+                "de": "Überdachte Wartebereiche nutzen.",
+                "hu": "Használja a fedett várótereket.",
+                "ro": "Folosiți zonele de așteptare acoperite.",
+                "en": "Use the covered waiting areas."
+              }
+            },
+            {
+              "name": "Pigadia Harbour Promenade",
+              "tip_5lang": {
+                "de": "Schneller Rückzug in Cafés bei Schauern.",
+                "hu": "Gyors visszahúzódás kávézókba zápor esetén.",
+                "ro": "Retragere rapidă în cafenele în caz de aversă.",
+                "en": "Quick retreat to cafés during showers."
+              }
+            },
+            {
+              "name": "Karpathos Town Hall",
+              "tip_5lang": {
+                "de": "Guter Blick auf den Hafen im Trockenen.",
+                "hu": "Jó kilátás a kikötőre fedett helyről.",
+                "ro": "Vedere bună spre port de la adăpost.",
+                "en": "Good view of the harbour from shelter."
+              }
+            },
+            {
+              "name": "Vrontis Bus Stop",
+              "tip_5lang": {
+                "de": "Haltestelle bietet kaum Regenschutz.",
+                "hu": "A megálló alig nyújt esővédelmet.",
+                "ro": "Stația oferă puțină protecție contra ploii.",
+                "en": "The stop offers little rain protection."
+              }
+            },
+            {
+              "name": "Vrontis Beach",
+              "tip_5lang": {
+                "de": "Aufenthalt zeitlich am Fahrplan orientieren.",
+                "hu": "A tartózkodást a menetrendhez igazítsa.",
+                "ro": "Adaptați vizita în funcție de orar.",
+                "en": "Tailor your stay to the bus schedule."
+              }
+            },
+            {
+              "name": "Acropolis Bus Stop",
+              "tip_5lang": {
+                "de": "Letzten Bus zurück nicht verpassen.",
+                "hu": "Ne késse le az utolsó visszabuszt.",
+                "ro": "Nu pierdeți ultimul autobuz de întoarcere.",
+                "en": "Don't miss the last bus back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busfahrplan bei Regen auf Verspätungen prüfen.",
+              "Passendes Kleingeld für das Ticket bereithalten.",
+              "Die Busse sind im Regen oft gut besetzt.",
+              "Zentrale Lage der Station spart Laufwege.",
+              "Warme Getränke am Busbahnhof erhältlich."
+            ],
+            "hu": [
+              "Esőben ellenőrizze a buszok esetleges késését.",
+              "Legyen önnél aprópénz a jegyvásárláshoz.",
+              "A buszok esőben gyakran zsúfoltabbak.",
+              "A központi elhelyezkedés kevesebb gyaloglást jelent.",
+              "Meleg italok kaphatók az állomáson."
+            ],
+            "ro": [
+              "Verificați eventualele întârzieri pe ploaie.",
+              "Aveți pregătiți bani mărunți pentru bilet.",
+              "Autobuzele sunt adesea aglomerate pe ploaie.",
+              "Locația centrală înseamnă mai puțin mers pe jos.",
+              "Băuturi calde disponibile la autogară."
+            ],
+            "en": [
+              "Check for bus delays during rain.",
+              "Have exact change ready for the ticket.",
+              "Buses are often crowded during rain.",
+              "Central location means less walking.",
+              "Hot drinks available at the station."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein ruhiger Wintermorgen an der Busstation. Wir erkunden die Hafenpromenade und das Rathaus ohne Trubel. Mittags ist das Museum ein informatives Highlight im Warmen. Der Nachmittag am Vrontis Strand bietet pure Erholung in der Einsamkeit. Wir nehmen den frühen Bus zurück, um die Stadt im Abendlicht zu genießen.",
+            "hu": "Csendes téli reggel a buszállomáson. A kikötőt és a városházát tömeg nélkül fedezzük fel. Délben a múzeum informatív fénypont a melegben. A délután a Vrontis strandon tiszta kikapcsolódás a magányban. A korai busszal megyünk vissza, hogy élvezzük a várost az esti fényekben.",
+            "ro": "O dimineață liniștită de iarnă la autogară. Explorăm faleza și primăria fără agitație. La prânz, muzeul este un punct de atracție informativ la căldură. După-amiaza pe plaja Vrontis oferă relaxare pură în singurătate. Luăm autobuzul de după-amiază înapoi pentru a savura orașul în lumina serii.",
+            "en": "A quiet winter morning at the bus station. We explore the promenade and town hall without the hustle and bustle. At noon, the museum is an informative highlight in the warm. The afternoon at Vrontis Beach offers pure relaxation in solitude. We take the early bus back to enjoy the city in the evening light."
+          },
+          "stops": [
+            {
+              "name": "Pigadia Central Bus Station",
+              "tip_5lang": {
+                "de": "Winterfahrplan ist stark eingeschränkt.",
+                "hu": "A téli menetrend jelentősen korlátozott.",
+                "ro": "Orarul de iarnă este foarte limitat.",
+                "en": "Winter schedule is significantly limited."
+              }
+            },
+            {
+              "name": "Pigadia Harbour Promenade",
+              "tip_5lang": {
+                "de": "Angenehme Ruhe, kaum Geschäfte offen.",
+                "hu": "Kellemes nyugalom, kevés üzlet van nyitva.",
+                "ro": "Liniște plăcută, puține magazine deschise.",
+                "en": "Pleasant quiet, few shops are open."
+              }
+            },
+            {
+              "name": "Karpathos Town Hall",
+              "tip_5lang": {
+                "de": "Fotogen im tiefstehenden Sonnenlicht.",
+                "hu": "Fotogén az alacsonyan járó napfényben.",
+                "ro": "Fotogeniс în lumina soarelui de iarnă.",
+                "en": "Photogenic in the low-lying sunlight."
+              }
+            },
+            {
+              "name": "Vrontis Bus Stop",
+              "tip_5lang": {
+                "de": "Pünktlich erscheinen, Busse fahren selten.",
+                "hu": "Érkezzen pontosan, a buszok ritkán járnak.",
+                "ro": "Veniți la timp, autobuzele trec rar.",
+                "en": "Be on time, buses run infrequently."
+              }
+            },
+            {
+              "name": "Vrontis Beach",
+              "tip_5lang": {
+                "de": "Idealer Ort für ein Picknick in der Sonne.",
+                "hu": "Ideális hely egy piknikhez a napsütésben.",
+                "ro": "Locul ideal pentru un picnic la soare.",
+                "en": "Ideal spot for a picnic in the sun."
+              }
+            },
+            {
+              "name": "Acropolis Bus Stop",
+              "tip_5lang": {
+                "de": "Rückfahrt bei Einbruch der Dunkelheit.",
+                "hu": "Visszautazás sötétedéskor.",
+                "ro": "Întoarcerea odată cu lăsarea întunericului.",
+                "en": "Return journey as darkness falls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überprüfen Sie den Fahrplan vorab online.",
+              "In den Bussen ist es im Winter warm.",
+              "Wenig Touristen bedeuten freie Platzwahl.",
+              "Sonntags verkehren oft keine Busse.",
+              "Fragen Sie den Fahrer nach der letzten Rückfahrt."
+            ],
+            "hu": [
+              "Előre ellenőrizze a menetrendet online.",
+              "A buszokon télen kellemes meleg van.",
+              "A kevés turista miatt szabad a helyválasztás.",
+              "Vasárnaponként gyakran nincs buszközlekedés.",
+              "Kérdezze a sofőrt az utolsó visszaindulásról."
+            ],
+            "ro": [
+              "Verificați orarul online în prealabil.",
+              "În autobuze este cald și bine iarna.",
+              "Puțini turiști înseamnă locuri libere.",
+              "Duminica adesea nu circulă autobuze.",
+              "Întrebați șoferul despre ultima cursă de retur."
+            ],
+            "en": [
+              "Check the schedule online in advance.",
+              "Buses are pleasantly warm in winter.",
+              "Few tourists mean plenty of seat choices.",
+              "Buses often do not run on Sundays.",
+              "Ask the driver about the last return trip."
+            ]
+          }
+        }
       }
     }
   }

@@ -379,6 +379,206 @@
           "Check the opening hours for the Riedel Manufactory, especially for demonstrations.",
           "Many shops close early on Saturday afternoon and are closed on Sundays."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt in der schmalen Römerhofgasse, wo die Erker einen gewissen Schutz vor dem Nieselregen bieten. Nach einem kurzen Halt am Marienbrunnen bietet die Stadtpfarrkirche St. Vitus einen trockenen und stillen Rückzugsort.\n\nMittags nehmen Sie die überdachte Panoramabahn zur Festung Kufstein. Die umfangreichen Innenräume des Festungsmuseums und die Heldenorgel lassen sich auch bei Regenwetter hervorragend erkunden.\n\nZum Aufwärmen dient das Auracher Löchl mit seinen historischen Gewölben. Der kurze Weg zur Inn-Promenade wird mit einer dramatischen Sicht auf den Fluss und die tief hängenden Wolken über dem Pendling belohnt.\n\nDen Nachmittag verbringen Sie in der Riedel Glasmanufaktur. In den Schauräumen und der Produktion sind Sie völlig wetterunabhängig und können das Handwerk der Glasbläser aus nächster Nähe beobachten.",
+            "hu": "A nap az eső elől némi menedéket nyújtó, szűk Römerhofgasséban indul. A Mária-kút után a Szent Vitus-plébániatemplom vastag falai között találhatunk száraz és csendes pihenőt.\n\nDélben a fedett panorámalifttel jutunk fel a várba. A Kufsteini Erőd múzeumi kiállításai és a Hősök orgonája belső térben vannak, így esős időben is tökéletes látnivalók.\n\nAz Auracher Löchl történelmi boltívei alatt melegedhetünk meg ebédnél. Az Inn-parti rövid séta során a folyó és a Pendling-csúcs felett gomolygó felhők látványa kárpótol a szemerkélő esőért.\n\nA délutánt a Riedel üveggyárban zárjuk. A bemutatótermekben és a látványműhelyben teljesen védve vagyunk az időjárástól, miközben az üvegfúvó mesterek munkáját figyeljük.",
+            "ro": "Ziua începe pe strada îngustă Römerhofgasse, unde bovindourile oferă o oarecare protecție împotriva burniței. După o scurtă oprire la fântâna Sf. Maria, biserica parohială Sf. Vitus oferă un refugiu uscat și liniștit.\n\nLa prânz, luați telefericul panoramic acoperit către cetatea Kufstein. Muzeul cetății și orga eroilor pot fi explorate excelent în interior, chiar și pe vreme ploioasă.\n\nPentru prânz, pivnițele istorice de la Auracher Löchl sunt locul ideal de încălzire. Scurta plimbare pe malul râului Inn oferă o priveliște dramatică asupra apei și a norilor joși de deasupra muntelui Pendling.\n\nDupă-amiaza este dedicată manufacturii de sticlă Riedel. În sălile de expoziție și în zona de producție sunteți complet protejați de vreme, observând de aproape măiestria suflătorilor de sticlă.",
+            "en": "The day begins in the narrow Römerhofgasse, where the overhanging bays offer some shelter from the drizzle. After a quick stop at St. Mary's Fountain, the Parish Church of St. Vitus provides a dry and peaceful sanctuary.\n\nAt noon, take the covered panoramic lift to Kufstein Fortress. The extensive interior museum displays and the Heroes' Organ are perfect to explore even during rainy weather.\n\nWarm up during lunch in the historic vaults of Auracher Löchl. A short walk along the Inn promenade is rewarded with a dramatic view of the river and the low-hanging clouds over the Pendling peak.\n\nSpend the afternoon at the Riedel Glass Manufactory. In the showrooms and production areas, you are completely weather-independent while watching the glassblowers' craft up close."
+          },
+          "stops": [
+            {
+              "name": "Römerhofgasse",
+              "tip_5lang": {
+                "de": "Die engen Gassen bieten bei leichtem Regen guten Schutz unter den Hausvorsprüngen.",
+                "hu": "A szűk közökben a házfalak kinyúló részei alatt viszonylag szárazon maradhatunk.",
+                "ro": "Străzile înguste oferă o protecție bună sub proeminențele caselor în caz de ploaie ușoară.",
+                "en": "The narrow alleys offer decent shelter under the building overhangs during light rain."
+              }
+            },
+            {
+              "name": "St. Mary's Fountain",
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp; die nassen Pflastersteine spiegeln das Licht stimmungsvoll wider.",
+                "hu": "Gyors fotómegálló; a vizes macskakövek hangulatosan tükrözik vissza a város fényeit.",
+                "ro": "O oprire rapidă; pietrele umede reflectă lumina într-un mod atmosferic.",
+                "en": "A quick photo stop; the wet cobblestones reflect the light beautifully."
+              }
+            },
+            {
+              "name": "Parish Church of St. Vitus",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum für eine trockene Pause und bewundern Sie den Barockaltar.",
+                "hu": "Használja ki a belső teret egy száraz pihenőre, és csodálja meg a barokk oltárt.",
+                "ro": "Folosiți interiorul pentru o pauză uscată și admirați altarul baroc.",
+                "en": "Use the interior for a dry break and admire the baroque altar."
+              }
+            },
+            {
+              "name": "Kufstein Fortress",
+              "tip_5lang": {
+                "de": "Die Panoramabahn ist überdacht; verbringen Sie mehr Zeit in den Kasematten und Museen.",
+                "hu": "A panorámalift fedett; töltsön több időt a kazamatákban és a vármúzeumban.",
+                "ro": "Liftul panoramic este acoperit; petreceți mai mult timp în cazuematele și muzeele cetății.",
+                "en": "The panoramic lift is covered; spend more time in the casemates and museums."
+              }
+            },
+            {
+              "name": "Auracher Löchl",
+              "tip_5lang": {
+                "de": "Das gemütliche Höhlenambiente ist der perfekte Ort, um nasse Kleidung zu trocknen.",
+                "hu": "A hangulatos, barlangszerű belső tér tökéletes a vizes ruhák megszárítására.",
+                "ro": "Ambiția confortabilă de peșteră este locul perfect pentru a usca hainele ude.",
+                "en": "The cozy cave-like ambiance is the perfect place to dry off wet clothes."
+              }
+            },
+            {
+              "name": "Inn Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Uferweg, bei Nässe können die Wege stellenweise rutschig sein.",
+                "hu": "Vigyázat a parton; nedves időben az út helyenként csúszós lehet.",
+                "ro": "Atenție pe drumul de pe mal; potecile pot fi alunecoase când sunt umede.",
+                "en": "Careful on the riverside path; the walkways can be slippery in places when wet."
+              }
+            },
+            {
+              "name": "Riedel Glass Manufactory",
+              "tip_5lang": {
+                "de": "Idealer Abschluss bei Regen; die gesamte Tour findet in Innenräumen statt.",
+                "hu": "Ideális záróprogram esőben; a teljes látogatás belső térben zajlik.",
+                "ro": "Final ideal pe ploaie; întregul tur are loc în interior.",
+                "en": "Ideal final stop in the rain; the entire tour takes place indoors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Panoramabahn, um trocken zur Festung zu gelangen.",
+              "Die Römerhofgasse hat viele überdachte Eingänge für kurze Pausen.",
+              "In der Riedel Glasmanufaktur können Sie Gepäck und Schirme sicher verwahren.",
+              "Die Stadtpfarrkirche ist ein idealer Ort, um einen starken Schauer abzuwarten."
+            ],
+            "hu": [
+              "Használja a panorámaliftet, hogy szárazon jusson fel a várba.",
+              "A Römerhofgasse számos fedett bejárattal rendelkezik a rövid megállókhoz.",
+              "A Riedel üveggyárban biztonságban lehelyezheti csomagjait és esernyőit.",
+              "A plébániatemplom kiváló hely egy nagyobb zápor átvészelésére."
+            ],
+            "ro": [
+              "Folosiți liftul panoramic pentru a ajunge uscat la cetate.",
+              "Römerhofgasse are multe intrări acoperite pentru pauze scurte.",
+              "La manufactura Riedel puteți lăsa în siguranță bagajele și umbrelele.",
+              "Biserica parohială este un loc ideal pentru a aștepta trecerea unei averse."
+            ],
+            "en": [
+              "Use the panoramic lift to reach the fortress without getting wet.",
+              "Römerhofgasse has many covered doorways for short breaks.",
+              "The Riedel factory offers safe storage for bags and umbrellas.",
+              "The parish church is an ideal spot to wait out a heavy downpour."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kufstein zeigt sich im Winter oft von einer frostig-schönen Seite. Der Tag beginnt in der stimmungsvoll beleuchteten Römerhofgasse. Ein kurzer Besuch in der beheizten Stadtpfarrkirche St. Vitus bietet einen ersten Moment der Wärme.\n\nMittags geht es hinauf zur Festung. Von den Mauern bietet sich ein herrlicher Blick auf die verschneiten Gipfel des Zahmen Kaisers. Die Museen in den dicken Festungsmauern sind gut temperiert und laden zum Verweilen ein.\n\nEin deftiges Tiroler Mittagessen im Auracher Löchl stärkt für den Nachmittag. Danach folgt ein kurzer, erfrischender Spaziergang an der Inn-Promenade, wo die klare Winterluft und das kalte Wasser des Flusses eine besondere Ruhe ausstrahlen.\n\nZum Abschluss wärmen Sie sich in der Riedel Glasmanufaktur auf. Die Hitze der Glasöfen und die faszinierende Handarbeit sind der perfekte Kontrast zur Kälte draußen, bevor die Dämmerung über der Stadt hereinbricht.",
+            "hu": "Kufstein télen gyakran zúzmarás, mesebeli arcát mutatja. A nap a hangulatosan megvilágított Römerhofgasséban indul. Rövid látogatás a fűtött Szent Vitus-templomban adja meg az első melengető pillanatot.\n\nDélben irány a vár. A falakról pazar kilátás nyílik a Zahmer Kaiser hófödte csúcsaira. A vastag várfalak közötti múzeumok kellemes hőmérsékletűek, hívogatnak a nézelődésre.\n\nEgy bőséges tiroli ebéd az Auracher Löchlben erőt ad a délutánhoz. Ezután rövid, frissítő séta következik az Inn-parton, ahol a tiszta téli levegő és a folyó hideg vize különleges nyugalmat áraszt.\n\nZárásként a Riedel üveggyárban melegedhetünk fel. Az üveghuták forrósága és a lenyűgöző kézi munka tökéletes kontrasztot alkot a kinti hideggel, mielőtt a szürkület leszállna a városra.",
+            "ro": "Kufstein se arată iarna într-o lumină rece și frumoasă. Ziua începe pe Römerhofgasse iluminată feeric. O scurtă vizită în biserica parohială Sf. Vitus, bine încălzită, oferă un prim moment de căldură.\n\nLa prânz, urcați la cetate. De pe ziduri se deschide o vedere splendidă asupra vârfurilor înzăpezite ale munților Zahmer Kaiser. Muzeele din interiorul zidurilor groase sunt bine temperare și invită la vizitare.\n\nUn prânz tirolez consistent la Auracher Löchl vă va întări pentru după-amiază. Urmează o plimbare scurtă și revigorantă pe promenada Inn, unde aerul curat de iarnă și apa rece a râului emană o liniște deosebită.\n\nLa final, vă încălziți în manufactura Riedel. Căldura cuptoarelor de sticlă și munca manuală fascinantă sunt contrastul perfect pentru frigul de afară, înainte ca amurgul să se lase peste oraș.",
+            "en": "Kufstein often shows a frosty, beautiful side in winter. The day begins in the atmospherically lit Römerhofgasse. A short visit to the heated Parish Church of St. Vitus offers an initial moment of warmth.\n\nAt noon, head up to the fortress. From the walls, you have a magnificent view of the snow-capped peaks of the Zahmer Kaiser. The museums within the thick fortress walls are well-tempered and invite you to stay.\n\nA hearty Tyrolean lunch at Auracher Löchl strengthens you for the afternoon. This is followed by a short, refreshing walk along the Inn promenade, where the clear winter air and the cold river water radiate a special calm.\n\nTo finish, warm up at the Riedel Glass Manufactory. The heat from the glass furnaces and the fascinating manual work are the perfect contrast to the cold outside before dusk falls over the city."
+          },
+          "stops": [
+            {
+              "name": "Römerhofgasse",
+              "tip_5lang": {
+                "de": "Genießen Sie die weihnachtliche Dekoration und die warme Beleuchtung der alten Fassaden.",
+                "hu": "Élvezze a karácsonyi dekorációt és a régi homlokzatok meleg fényeit.",
+                "ro": "Bucurați-vă de decorațiunile de iarnă și de iluminarea caldă a vechilor fațade.",
+                "en": "Enjoy the winter decorations and the warm lighting of the old facades."
+              }
+            },
+            {
+              "name": "St. Mary's Fountain",
+              "tip_5lang": {
+                "de": "Bei Minusgraden können sich kunstvolle Eisskulpturen am Brunnenrand bilden.",
+                "hu": "Mínuszok esetén művészi jégszobrok képződhetnek a kút szélén.",
+                "ro": "La temperaturi negative, se pot forma sculpturi de gheață pe marginea fântânii.",
+                "en": "In freezing temperatures, artistic ice sculptures can form on the fountain's edge."
+              }
+            },
+            {
+              "name": "Parish Church of St. Vitus",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um kurz zur Ruhe zu kommen und sich aufzuwärmen.",
+                "hu": "Kiváló hely egy rövid elcsendesedésre és felmelegedésre.",
+                "ro": "Un loc bun pentru a vă liniști puțin și a vă încălzi.",
+                "en": "A good place to find some peace and warm up for a few minutes."
+              }
+            },
+            {
+              "name": "Kufstein Fortress",
+              "tip_5lang": {
+                "de": "Tragen Sie festes Schuhwerk; die gepflasterten Wege in der Festung können glatt sein.",
+                "hu": "Viseljen stabil lábbelit; a vár kövezett útjai csúszósak lehetnek.",
+                "ro": "Purtați încălțăminte solidă; drumurile pavate din cetate pot fi alunecoase.",
+                "en": "Wear sturdy footwear; the cobbled paths in the fortress can be slippery."
+              }
+            },
+            {
+              "name": "Auracher Löchl",
+              "tip_5lang": {
+                "de": "Probieren Sie eine heiße Suppe oder Tiroler Gröstl zur Stärkung gegen die Kälte.",
+                "hu": "Kóstoljon meg egy forró levest vagy tiroli Gröstlt a hideg elleni védekezésül.",
+                "ro": "Încercați o supă fierbinte sau un Gröstl tirolez pentru a vă întări împotriva frigului.",
+                "en": "Try a hot soup or Tyrolean Gröstl to strengthen yourself against the cold."
+              }
+            },
+            {
+              "name": "Inn Promenade",
+              "tip_5lang": {
+                "de": "Der Wind vom Fluss kann im Winter sehr schneidend sein; Schal und Mütze sind Pflicht.",
+                "hu": "A folyó felőli szél télen metsző lehet; a sál és a sapka kötelező.",
+                "ro": "Vântul de pe râu poate fi tăios iarna; fularul și căciula sunt obligatorii.",
+                "en": "The wind from the river can be biting in winter; a scarf and hat are essential."
+              }
+            },
+            {
+              "name": "Riedel Glass Manufactory",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Shop für hochwertige Glasgeschenke und genießen Sie die Wärme.",
+                "hu": "Látogasson el a boltba minőségi üvegajándékokért, és élvezze a meleget.",
+                "ro": "Vizitați magazinul pentru cadouri de sticlă de calitate și bucurați-vă de căldură.",
+                "en": "Visit the shop for high-quality glass gifts and enjoy the warmth inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr hinter den Bergen unter.",
+              "Viele Cafés in der Altstadt bieten ausgezeichneten Kaiserschmarrn zum Aufwärmen.",
+              "Achten Sie auf Glatteis auf den Brücken über den Inn.",
+              "Die Panoramabahn bietet auch im Winter einen windgeschützten Aufstieg."
+            ],
+            "hu": [
+              "A nap télen már 16:30 körül lenyugszik a hegyek mögött.",
+              "Az óváros számos kávézója kiváló császármorzsát kínál a felmelegedéshez.",
+              "Ügyeljen a jegesedésre az Inn feletti hidakon.",
+              "A panorámalift télen is szélvédett feljutást biztosít a várba."
+            ],
+            "ro": [
+              "Soarele apune iarna deja în jurul orei 16:30 în spatele munților.",
+              "Multe cafenele din centrul vechi oferă Kaiserschmarrn excelent pentru încălzire.",
+              "Atenție la polei pe podurile de peste râul Inn.",
+              "Liftul panoramic oferă un urcuș protejat de vânt și în timpul iernii."
+            ],
+            "en": [
+              "The sun sets behind the mountains as early as 4:30 PM in winter.",
+              "Many cafes in the old town offer excellent Kaiserschmarrn to warm you up.",
+              "Watch out for black ice on the bridges over the Inn.",
+              "The panoramic lift provides a wind-protected ascent even in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +929,188 @@
           "A bike lock is essential.",
           "Bring enough water, especially on warm days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour bei Regen erfordert in Kufstein gute Vorbereitung. Wir starten direkt am Inn, wo der asphaltierte Radweg auch bei Nässe gut befahrbar bleibt. Ein kurzer Stopp in der Altstadt erlaubt es, das Rad unterzustellen und die Römerhofgasse zu Fuß zu erkunden.\n\nMittags lassen wir die Räder an der Talstation und nutzen die Panoramabahn zur Festung. So bleiben wir trocken, während wir die historischen Ausstellungen besichtigen.\n\nNach der Festung bietet ein Mittagessen in der Altstadt die Chance, die Regenbekleidung kurz abzulegen. Der Weg zur Riedel Glasmanufaktur führt über ebene Stadtstraßen.\n\nDen Tag beschließen wir im Stadtpark, wobei wir die Fahrzeit kurz halten, um nicht zu sehr auszukühlen, bevor es zurück zum Ausgangspunkt geht.",
+            "hu": "Egy esős biciklitúra Kufsteinben jó felkészülést igényel. Közvetlenül az Inn partján kezdünk, ahol az aszfaltozott kerékpárút nedvesen is jól járható. Egy rövid óvárosi megálló során érdemes leparkolni a gépet, és gyalog bejárni a Römerhofgassét.\n\nDélben a bringákat az alsó állomáson hagyjuk, és a panorámalifttel megyünk fel a várba. Így szárazon maradhatunk, miközben a történelmi kiállításokat nézzük.\n\nA vár után egy óvárosi ebéd lehetőséget ad az esőruházat levételére. A Riedel üveggyárhoz vezető út sík városi utcákon halad.\n\nA napot a Városligetben zárjuk, de a menetidőt rövidre fogjuk, hogy ne hűljünk le túlságosan, mielőtt visszaérnénk a kiindulópontra.",
+            "ro": "O tură cu bicicleta pe ploaie necesită o pregătire bună în Kufstein. Începem direct pe malul râului Inn, unde pista asfaltată rămâne practicabilă și pe umiditate. O scurtă oprire în orașul vechi vă permite să lăsați bicicleta și să explorați Römerhofgasse la pas.\n\nLa prânz lăsăm bicicletele la stația de jos și folosim liftul panoramic pentru cetate. Astfel rămânem uscați în timp ce vizităm expozițiile istorice.\n\nDupă cetate, un prânz în centrul vechi oferă șansa de a da jos pentru scurt timp pelerinele de ploaie. Drumul către manufactura Riedel urmează străzi urbane plate.\n\nÎncheiem ziua în parcul orașului, menținând timpul de deplasare scurt pentru a nu ne răci prea tare înainte de întoarcere.",
+            "en": "A bike tour in the rain requires good preparation in Kufstein. We start directly at the Inn, where the paved bike path remains easy to cycle even when wet. A short stop in the old town allows you to park your bike and explore Römerhofgasse on foot.\n\nAt noon, leave the bikes at the valley station and use the panoramic lift to the fortress. This way, we stay dry while visiting the historical exhibitions.\n\nAfter the fortress, lunch in the old town offers a chance to take off your rain gear for a while. The route to the Riedel factory follows flat city streets.\n\nWe end the day in the City Park, keeping the riding time short to avoid getting too cold before returning to the starting point."
+          },
+          "stops": [
+            {
+              "name": "Inn Promenade",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen und reduzieren Sie die Geschwindigkeit in Kurven.",
+                "hu": "Ügyeljen a tócsákra, és lassítson a kanyarokban.",
+                "ro": "Atenție la bălți și reduceți viteza în curbe.",
+                "en": "Watch out for puddles and reduce speed in turns."
+              }
+            },
+            {
+              "name": "Römerhofgasse & Old Town",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem überdachten Fahrradständer in der Nähe des Oberen Stadtplatzes.",
+                "hu": "Parkoljon le egy fedett kerékpártárolónál a Felső Városmű (Oberer Stadtplatz) közelében.",
+                "ro": "Parcați bicicleta la un suport acoperit lângă Piața Orașului de Sus.",
+                "en": "Park your bike at a covered rack near the Upper City Square."
+              }
+            },
+            {
+              "name": "Kufstein Fortress",
+              "tip_5lang": {
+                "de": "Der Aufstieg per Lift ist wetterfest; Räder dürfen nicht mit in die Festung.",
+                "hu": "A liftes feljutás időjárásálló; a várba kerékpárral tilos belépni.",
+                "ro": "Urcarea cu liftul este protejată de vreme; bicicletele nu sunt permise în cetate.",
+                "en": "The lift ascent is weatherproof; bikes are not allowed inside the fortress."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Fahrradabstellplätzen im Sichtbereich.",
+                "hu": "Válasszon olyan éttermet, ahol rálát a kerékpártárolóra.",
+                "ro": "Alegeți un restaurant cu locuri de parcare pentru biciclete în câmpul vizual.",
+                "en": "Choose a restaurant where you can keep an eye on your bike parking."
+              }
+            },
+            {
+              "name": "Riedel Glass Manufactory",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihre Regenjacke kurz auszuschütteln.",
+                "hu": "Használja a fedett bejárati részt az esőkabát megrázásához.",
+                "ro": "Folosiți zona de intrare acoperită pentru a scutura puțin pelerina de ploaie.",
+                "en": "Use the covered entrance area to shake off your rain jacket."
+              }
+            },
+            {
+              "name": "Kufstein City Park",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; die Bänke können nass sein, suchen Sie Schutz unter den großen Bäumen.",
+                "hu": "Rövid megálló; a padok vizesek lehetnek, keressen menedéket a nagy fák alatt.",
+                "ro": "Oprire scurtă; băncile pot fi ude, căutați adăpost sub copacii mari.",
+                "en": "Short stop; benches might be wet, seek shelter under the large trees."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine wasserdichte Regenhose und Schuhüberzüge.",
+              "Vermeiden Sie das Bremsen auf nassen Kanaldeckeln oder Markierungen.",
+              "Die Inn-Promenade ist meist gut asphaltiert und bildet kaum tiefe Pfützen.",
+              "Ein kleiner Schwamm hilft, den Sattel nach jedem Stopp trocken zu wischen."
+            ],
+            "hu": [
+              "Viseljen vízálló esőnadrágot és cipővédőt.",
+              "Kerülje a fékezést a nedves csatornafedeleken vagy útburkolati jeleken.",
+              "Az Inn-parti sétány jól aszfaltozott, ritkán alakulnak ki mély tócsák.",
+              "Egy kis szivacs segít szárazra törölni a nyerget minden megállás után."
+            ],
+            "ro": [
+              "Purtați pantaloni de ploaie impermeabili și huse pentru încălțăminte.",
+              "Evitați frânarea pe capacele de canal sau pe marcajele umede.",
+              "Promenada Inn este în general bine asfaltată și nu formează bălți adânci.",
+              "Un burete mic ajută la ștergerea șeii după fiecare oprire."
+            ],
+            "en": [
+              "Wear waterproof rain pants and shoe covers.",
+              "Avoid braking on wet manhole covers or road markings.",
+              "The Inn promenade is mostly well-paved and rarely forms deep puddles.",
+              "A small sponge helps wipe the saddle dry after every stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Biken im Winter ist in Kufstein erfrischend, erfordert aber Wachsamkeit wegen möglicher Glätte. Wir starten an der Inn-Promenade, wo der Weg meist geräumt ist. Die klare Luft bietet eine fantastische Sicht auf den Fluss.\n\nIn der Altstadt stellen wir die Räder ab. Die Römerhofgasse lässt sich besser zu Fuß erkunden, um die Details der Fassaden in Ruhe zu betrachten.\n\nDie Festung erreichen wir bequem per Lift. Oben ist der Boden oft mit Splitt gestreut, was den Rundgang sicherer macht. Der Ausblick auf das winterliche Inntal ist unschlagbar.\n\nNach dem Aufwärmen beim Mittagessen radeln wir zur Riedel Manufaktur. Die Wärme der Fabrik ist nach der Fahrt im kalten Wind besonders angenehm. Der Rückweg durch den Stadtpark erfolgt in der frühen Dämmerung.",
+            "hu": "A téli bringázás Kufsteinben frissítő, de figyelmet igényel az esetleges jegesedés miatt. Az Inn-parton kezdünk, ahol az utat rendszerint takarítják. A tiszta levegő fantasztikus kilátást nyújt a folyóra.\n\nAz óvárosban leparkoljuk a gépeket. A Römerhofgassét gyalog jobb felfedezni, hogy nyugodtan megcsodálhassuk a homlokzatok részleteit.\n\nA várat kényelmesen, lifttel érjük el. Fent a talajt gyakran szórják fel zúzalékkal, ami biztonságosabbá teszi a körutat. A téli Inntalra nyíló kilátás verhetetlen.\n\nAz ebédnél történt felmelegedés után a Riedel gyár felé vesszük az irányt. A gyár melege a hideg szélben való tekerés után különösen jólesik. A Városligeten át vezető hazaút már a korai szürkületben telik.",
+            "ro": "Ciclismul iarna în Kufstein este revigorant, dar necesită vigilență din cauza posibilului polei. Începem pe promenada Inn, unde drumul este de obicei curățat. Aerul curat oferă o vedere fantastică asupra râului.\n\nÎn centrul vechi lăsăm bicicletele. Römerhofgasse se explorează mai bine la pas pentru a observa detaliile fațadelor în liniște.\n\nAjungem la cetate confortabil cu liftul. Sus, solul este adesea presărat cu pietriș, ceea ce face turul mai sigur. Vederea asupra văii Inn iarna este imbatabilă.\n\nDupă încălzirea de la prânz, pedalăm către manufactura Riedel. Căldura fabricii este deosebit de plăcută după plimbarea prin vântul rece. Întoarcerea prin parcul orașului are loc în amurgul timpuriu.",
+            "en": "Biking in winter is refreshing in Kufstein but requires alertness due to potential ice. We start at the Inn promenade, where the path is usually cleared of snow. The clear air offers fantastic views of the river.\n\nIn the old town, we park the bikes. Römerhofgasse is best explored on foot to enjoy the facade details in peace.\n\nWe reach the fortress comfortably by lift. At the top, the ground is often gritted, making the walk safer. The view of the wintry Inn Valley is unbeatable.\n\nAfter warming up at lunch, we cycle to the Riedel factory. The warmth of the factory is especially pleasant after riding in the cold wind. The return trip through the City Park takes place in the early dusk."
+          },
+          "stops": [
+            {
+              "name": "Inn Promenade",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Spritzwasser auf dem Asphalt; fahren Sie vorausschauend.",
+                "hu": "Vigyázzon az aszfaltra fagyott vízpermetre; vezessen előrelátóan.",
+                "ro": "Atenție la apa înghețată pe asfalt; conduceți cu prudență.",
+                "en": "Watch out for frozen spray on the asphalt; cycle defensively."
+              }
+            },
+            {
+              "name": "Römerhofgasse & Old Town",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Befahren von Kopfsteinpflaster, wenn es von Raureif überzogen ist.",
+                "hu": "Kerülje a macskakövön való tekerést, ha zúzmara borítja.",
+                "ro": "Evitați pedalarea pe pavaj dacă este acoperit de chiciură.",
+                "en": "Avoid cycling on cobblestones if they are covered in hoarfrost."
+              }
+            },
+            {
+              "name": "Kufstein Fortress",
+              "tip_5lang": {
+                "de": "Die Außenanlagen können bei Schnee teilweise gesperrt sein; besuchen Sie die Museen.",
+                "hu": "A külső területek hó esetén részben lezárhatók; látogassa a múzeumokat.",
+                "ro": "Zonele exterioare pot fi parțial închise în caz de zăpadă; vizitați muzeele.",
+                "en": "Outdoor areas may be partially closed in snow; focus on visiting the museums."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Ein Platz am Fenster ermöglicht es, die Räder im Auge zu behalten.",
+                "hu": "Egy ablak melletti asztal lehetővé teszi, hogy szemmel tartsa a bringákat.",
+                "ro": "Un loc la fereastră vă permite să supravegheați bicicletele.",
+                "en": "A seat by the window allows you to keep an eye on your bikes."
+              }
+            },
+            {
+              "name": "Riedel Glass Manufactory",
+              "tip_5lang": {
+                "de": "Der Aufenthalt in den warmen Hallen ist die perfekte Pause vom Winterwind.",
+                "hu": "A meleg csarnokokban való tartózkodás tökéletes pihenő a téli szél után.",
+                "ro": "Șederea în halele calde este pauza perfectă de la vântul de iarnă.",
+                "en": "Staying in the warm halls is the perfect break from the winter wind."
+              }
+            },
+            {
+              "name": "Kufstein City Park",
+              "tip_5lang": {
+                "de": "Bei Dämmerung ist eine gute Beleuchtung am Fahrrad in der Parkanlage wichtig.",
+                "hu": "Szürkületben a parkban kiemelten fontos a jó kerékpáros világítás.",
+                "ro": "La amurg, iluminarea bună a bicicletei este importantă în zona parcului.",
+                "en": "At dusk, good bicycle lighting is crucial when riding through the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie geschichtete Kleidung (Zwiebelprinzip) und winddichte Handschuhe.",
+              "Prüfen Sie vor der Abfahrt den Luftdruck; etwas weniger Druck erhöht den Grip.",
+              "Die Fahrradwege entlang des Inns werden meist bevorzugt geräumt.",
+              "Verwenden Sie ein hochwertiges Schloss, das auch bei Minusgraden nicht einfriert."
+            ],
+            "hu": [
+              "Viseljen réteges öltözetet (hagyma-elv) és szélálló kesztyűt.",
+              "Indulás előtt ellenőrizze a guminyomást; a kissé alacsonyabb nyomás növeli a tapadást.",
+              "Az Inn menti kerékpárutakat rendszerint elsőbbséggel takarítják.",
+              "Használjon jó minőségű zárat, amely mínuszokban sem fagy be."
+            ],
+            "ro": [
+              "Purtați haine în straturi și mănuși rezistente la vânt.",
+              "Verificați presiunea în pneuri înainte de plecare; o presiune mai mică crește aderența.",
+              "Pistele de biciclete de-a lungul Inn-ului sunt de obicei curățate prioritar.",
+              "Folosiți un antifurt de calitate care nu îngheață la temperaturi negative."
+            ],
+            "en": [
+              "Wear layered clothing and windproof gloves.",
+              "Check tire pressure before leaving; slightly lower pressure increases grip.",
+              "The bike paths along the Inn are usually cleared with priority.",
+              "Use a high-quality lock that won't freeze in sub-zero temperatures."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1084,6 +1466,188 @@
           "Allow some buffer time for traffic, especially during high season.",
           "Parking is often easier and cheaper outside the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Kufstein auch bei Dauerregen komfortabel erkunden. Wir parken zentral, was kurze Wege zur Römerhofgasse ermöglicht. Ein Schirm ist für den Weg vom Parkhaus in die Altstadt dennoch ratsam.\n\nMittags ist die Festung das Hauptziel. Die Panoramabahn bringt uns direkt vom Stadtzentrum hinauf, fast ohne mit dem Regen in Kontakt zu kommen. Die dicken Mauern bieten Schutz für Stunden.\n\nDas Mittagessen nehmen wir direkt in der Altstadt ein, wo das Auto sicher im nahen Parkhaus steht. Danach fahren wir die kurze Strecke zur Riedel Glasmanufaktur, die über eigene, nahegelegene Parkplätze verfügt.\n\nZum Abschluss bietet sich eine langsame Fahrt entlang des Inns an, bevor wir den Tag trocken und entspannt beenden.",
+            "hu": "Autóval Kufstein tartós esőben is kényelmesen felfedezhető. Központi helyen parkolunk, így csak pár lépés a Römerhofgasse. Egy esernyő azért ajánlott a parkolóház és az óváros közötti szakaszra.\n\nDélben az erőd a fő célpont. A panorámalift közvetlenül a városközpontból visz fel, szinte érintkezés nélkül az esővel. A vastag falak órákig védelmet nyújtanak.\n\nAz ebédet az óvárosban fogyasztjuk el, miközben az autó biztonságban áll a közeli parkolóházban. Ezután rövid autózással jutunk el a Riedel üveggyárba, amely saját, közeli parkolóval rendelkezik.\n\nZárásként egy lassú autózás az Inn mentén adódik, mielőtt szárazon és kipihenten fejeznénk be a napot.",
+            "ro": "Cu mașina, Kufstein poate fi explorat confortabil chiar și pe ploaie continuă. Parcăm central, ceea ce permite distanțe scurte până la Römerhofgasse. O umbrelă este totuși recomandată pentru drumul de la parcare în orașul vechi.\n\nLa prânz, cetatea este destinația principală. Liftul panoramic ne duce direct din centrul orașului sus, aproape fără a intra în contact cu ploaia. Zidurile groase oferă protecție timp de ore întregi.\n\nLuăm prânzul chiar în orașul vechi, unde mașina stă în siguranță în parcarea apropiată. Apoi conducem distanța scurtă până la manufactura Riedel, care are propriile locuri de parcare în apropiere.\n\nLa final, se recomandă o plimbare lentă cu mașina de-a lungul Inn-ului înainte de a încheia ziua uscați și relaxați.",
+            "en": "By car, Kufstein can be comfortably explored even during persistent rain. We park centrally, allowing for short walks to Römerhofgasse. An umbrella is still advisable for the way from the parking garage to the old town.\n\nAt noon, the fortress is the main destination. The panoramic lift takes us directly from the city center up, almost without coming into contact with the rain. The thick walls offer shelter for hours.\n\nWe have lunch right in the old town, while the car is safely parked in a nearby garage. Then we drive the short distance to the Riedel factory, which has its own nearby parking spaces.\n\nA slow drive along the Inn is a nice way to finish the day before ending it dry and relaxed."
+          },
+          "stops": [
+            {
+              "name": "Central Car Park",
+              "tip_5lang": {
+                "de": "Wählen Sie ein überdachtes Parkhaus, um beim Aussteigen trocken zu bleiben.",
+                "hu": "Válasszon fedett parkolóházat, hogy kiszálláskor száraz maradjon.",
+                "ro": "Alegeți o parcare acoperită pentru a rămâne uscat la coborâre.",
+                "en": "Choose a covered parking garage to stay dry when getting out of the car."
+              }
+            },
+            {
+              "name": "Römerhofgasse & St. Vitus",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg vom Parkhaus; ideal bei unbeständigem Wetter.",
+                "hu": "Csak 5 perc gyalog a parkolóháztól; ideális bizonytalan időben.",
+                "ro": "La doar 5 minute de mers pe jos de parcare; ideal pe vreme instabilă.",
+                "en": "Just a 5-minute walk from the parking garage; ideal for unsettled weather."
+              }
+            },
+            {
+              "name": "Kufstein Fortress",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Liftzugang im Zentrum; Parkhäuser befinden sich in unmittelbarer Nähe.",
+                "hu": "Használja a központi liftbejáratot; a parkolóházak a közvetlen közelben találhatók.",
+                "ro": "Folosiți accesul la lift din centru; parcările sunt în imediata apropiere.",
+                "en": "Use the lift access in the center; parking garages are located in the immediate vicinity."
+              }
+            },
+            {
+              "name": "Lunch at Auracher Löchl",
+              "tip_5lang": {
+                "de": "Zentrale Lage, gut erreichbar ohne lange Fußwege im Regen.",
+                "hu": "Központi elhelyezkedés, esőben is jól elérhető hosszú gyaloglás nélkül.",
+                "ro": "Locație centrală, ușor accesibilă fără plimbări lungi prin ploaie.",
+                "en": "Central location, easily accessible without long walks in the rain."
+              }
+            },
+            {
+              "name": "Riedel Glass Manufactory",
+              "tip_5lang": {
+                "de": "Kostenfreie Parkplätze für Besucher direkt vor dem Eingangsbereich.",
+                "hu": "Ingyenes parkoló a látogatóknak közvetlenül a bejárat előtt.",
+                "ro": "Locuri de parcare gratuite pentru vizitatori chiar în fața intrării.",
+                "en": "Free parking for visitors directly in front of the entrance area."
+              }
+            },
+            {
+              "name": "Stroll along the Inn",
+              "tip_5lang": {
+                "de": "Bei starkem Regen lässt sich die Aussicht auch gut aus dem fahrenden Auto genießen.",
+                "hu": "Erős esőben a kilátás a mozgó autóból is jól élvezhető.",
+                "ro": "Pe ploaie puternică, vederea poate fi savurată și din mașina în mișcare.",
+                "en": "In heavy rain, the view can also be enjoyed from the moving car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser 'Kufstein Galerien' oder 'Innpark'.",
+              "Lassen Sie den Schirm im Auto, wenn Sie nur zur Festung per Lift wollen.",
+              "Achten Sie auf Fußgänger in der engen Innenstadt bei schlechter Sicht.",
+              "Die Fahrt zur Riedel Manufaktur ist kurz und führt über gut ausgebaute Straßen."
+            ],
+            "hu": [
+              "Használja a 'Kufstein Galerien' vagy az 'Innpark' parkolóházakat.",
+              "Hagyja az esernyőt az autóban, ha csak a várba megy lifttel.",
+              "Rossz látási viszonyoknál fokozottan ügyeljen a gyalogosokra a belvárosban.",
+              "A Riedel gyárba vezető út rövid, jól kiépített utcákon halad."
+            ],
+            "ro": [
+              "Folosiți parcările 'Kufstein Galerien' sau 'Innpark'.",
+              "Lăsați umbrela în mașină dacă mergeți la cetate doar cu liftul.",
+              "Atenție la pietoni în centrul îngust în condiții de vizibilitate redusă.",
+              "Drumul către manufactura Riedel este scurt și trece pe străzi bine amenajate."
+            ],
+            "en": [
+              "Use the 'Kufstein Galerien' or 'Innpark' parking garages.",
+              "Leave the umbrella in the car if you only want to go to the fortress by lift.",
+              "Watch out for pedestrians in the narrow city center during poor visibility.",
+              "The drive to the Riedel factory is short and on well-maintained roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Kufstein lässt sich mit dem Auto sicher und warm erleben. Wir starten im zentralen Parkhaus, das uns vor der Kälte beim Aussteigen schützt. Die Römerhofgasse ist nur einen kurzen Marsch entfernt.\n\nDie Festung erreichen wir über den Aufzug im Stadtzentrum. Die Aussicht auf das Inntal unter einer Schneedecke ist vom Auto-Stopp aus und später von den Festungsmauern grandios.\n\nZum Mittagessen wärmen wir uns im Auracher Löchl auf. Dank des Autos sind wir flexibel und können danach schnell zur Riedel Glasmanufaktur fahren, ohne dem kalten Wind zu lange ausgesetzt zu sein.\n\nDer Tag endet mit einer gemütlichen Fahrt am Inn entlang, wobei wir die Heizung genießen, während draußen die Winterdämmerung einsetzt.",
+            "hu": "A téli Kufstein autóval biztonságosan és melegen élvezhető. Központi parkolóházban kezdünk, amely véd a kinti hidegtől a kiszálláskor. A Römerhofgasse csak egy rövid sétára van.\n\nA várat a városközponti lifttel érjük el. A hótakaró alatti Inntal látványa az autós megállóból, majd később a várfalakról is lenyűgöző.\n\nEbédnél az Auracher Löchlben melegszünk fel. Az autónak köszönhetően rugalmasak vagyunk, így gyorsan átérünk a Riedel üveggyárba, nem kell sokáig a hideg szélben tartózkodnunk.\n\nA nap az Inn menti hangulatos autózással zárul, élvezve a fűtést, miközben kint leszáll a téli szürkület.",
+            "ro": "Kufstein iarna poate fi experimentat în siguranță și căldură cu mașina. Începem într-o parcare centrală care ne protejează de frig la coborâre. Römerhofgasse este la doar o scurtă plimbare distanță.\n\nAjungem la cetate prin liftul din centrul orașului. Vederea asupra văii Inn sub o pătură de zăpadă este grandioasă de la oprirea cu mașina și ulterior de pe zidurile cetății.\n\nLa prânz ne încălzim la Auracher Löchl. Datorită mașinii suntem flexibili și putem merge rapid apoi la manufactura Riedel, fără a fi expuși prea mult vântului rece.\n\nZiua se încheie cu o plimbare plăcută de-a lungul Inn-ului, bucurându-ne de căldură în timp ce afară se lasă amurgul de iarnă.",
+            "en": "Wintry Kufstein can be experienced safely and warmly by car. We start in a central parking garage that protects us from the cold when getting out. Römerhofgasse is only a short walk away.\n\nWe reach the fortress via the lift in the city center. The view of the Inn Valley under a blanket of snow is magnificent from the car stop and later from the fortress walls.\n\nFor lunch, we warm up at Auracher Löchl. Thanks to the car, we are flexible and can drive quickly to the Riedel factory afterwards without being exposed to the cold wind for too long.\n\nA cozy drive along the Inn finishes the day, enjoying the heating while the winter dusk sets in outside."
+          },
+          "stops": [
+            {
+              "name": "Central Car Park",
+              "tip_5lang": {
+                "de": "Parkhäuser sind im Winter schnee- und eisfrei, was das Einsteigen erleichtert.",
+                "hu": "A parkolóházak télen hó- és jégmentesek, ami megkönnyíti a beszállást.",
+                "ro": "Parcările acoperite sunt fără zăpadă și gheață iarna, ceea ce facilitează urcarea.",
+                "en": "Parking garages are snow and ice-free in winter, making it easier to get in and out."
+              }
+            },
+            {
+              "name": "Römerhofgasse & St. Vitus",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg, um die festliche Beleuchtung zu genießen.",
+                "hu": "Használja ki a rövid utat az ünnepi kivilágítás megcsodálására.",
+                "ro": "Folosiți distanța scurtă pentru a vă bucura de iluminatul festiv.",
+                "en": "Take advantage of the short distance to enjoy the festive lighting."
+              }
+            },
+            {
+              "name": "Kufstein Fortress",
+              "tip_5lang": {
+                "de": "Der Panoramalift bietet eine tolle Aussicht auf die verschneite Stadt.",
+                "hu": "A panorámalift remek kilátást nyújt a hófödte városra.",
+                "ro": "Liftul panoramic oferă o vedere excelentă asupra orașului înzăpezit.",
+                "en": "The panoramic lift offers a great view of the snow-covered city."
+              }
+            },
+            {
+              "name": "Lunch at Auracher Löchl",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch in der Nähe der Heizung oder des Kamins.",
+                "hu": "Foglaljon asztalt a fűtés vagy a kandalló közelében.",
+                "ro": "Rezervați o masă lângă calorifer sau șemineu.",
+                "en": "Reserve a table near the heater or fireplace."
+              }
+            },
+            {
+              "name": "Riedel Glass Manufactory",
+              "tip_5lang": {
+                "de": "Im Winter sind die Parkplätze direkt vor dem Shop oft geräumt und gestreut.",
+                "hu": "Télen a bolt előtti parkolókat rendszerint takarítják és szórják.",
+                "ro": "Iarna, locurile de parcare din fața magazinului sunt adesea curățate și presărate.",
+                "en": "In winter, the parking spots right in front of the shop are usually cleared and gritted."
+              }
+            },
+            {
+              "name": "Stroll along the Inn",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Eisschollen auf dem Inn aus dem beheizten Auto.",
+                "hu": "Élvezze a kilátást az Inn jégtábláira a fűtött autóból.",
+                "ro": "Bucurați-vă de vederea sloiurilor de gheață de pe Inn din mașina încălzită.",
+                "en": "Enjoy the view of ice floes on the Inn from the heated car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und ein Eiskratzer sind in Tirol zwischen November und April Pflicht.",
+              "Achten Sie auf plötzliche Glätte in Schattenlagen der Inntalstraße.",
+              "Die Parkhäuser im Zentrum sind meist gut geheizt oder zumindest frostfrei.",
+              "Füllen Sie rechtzeitig Frostschutzmittel in die Scheibenwaschanlage."
+            ],
+            "hu": [
+              "Tirolban november és április között kötelező a téli gumi és a jégkaparó.",
+              "Ügyeljen a hirtelen jegesedésre az Inntalstraße árnyékos szakaszain.",
+              "A központi parkolóházak rendszerint fagymentesek.",
+              "Időben töltsön fagyállót a szélvédőmosóba."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și racleta sunt obligatorii în Tirol între noiembrie și aprilie.",
+              "Atenție la poleiul brusc în zonele umbrite ale drumului din valea Inn-ului.",
+              "Parcările din centru sunt de obicei ferite de îngheț.",
+              "Completați la timp cu antigel lichidul de parbriz."
+            ],
+            "en": [
+              "Winter tires and an ice scraper are mandatory in Tyrol between November and April.",
+              "Watch out for sudden black ice in shaded areas of the Inn Valley road.",
+              "Central parking garages are usually frost-free.",
+              "Make sure to have sufficient anti-freeze in your windshield washer fluid."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1439,6 +2003,188 @@
           "Tickets can be purchased directly from the bus driver or via an app.",
           "Remember the number of the last bus line back to the station."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem öffentlichen Nahverkehr bleibt man in Kufstein auch bei Regen mobil. Nach der Ankunft am Bahnhof ist es nur ein kurzer, teils überdachter Weg in die Altstadt zur Römerhofgasse.\n\nMittags ist die Festung das Highlight. Der Eingang zur Panoramabahn liegt zentral und ist vom Bahnhof aus in wenigen Minuten zu Fuß oder mit dem Stadtbus erreichbar. Die Museen bieten stundenlangen Schutz vor Nässe.\n\nNach dem Mittagessen in der Altstadt bringt Sie der Stadtbus unkompliziert zur Riedel Glasmanufaktur. Die Haltestellen sind meist überdacht, was das Warten angenehm macht.\n\nDen Nachmittag lassen wir im Stadtpark ausklingen, wobei die Nähe zu den Bushaltestellen eine schnelle Rückkehr zum Bahnhof ermöglicht, falls der Regen stärker wird.",
+            "hu": "Tömegközlekedéssel Kufstein esőben is jól bejárható. A vasútállomásra érkezés után csak rövid, részben fedett út vezet az óvárosba, a Römerhofgasséhoz.\n\nDélben az erőd a fő program. A panorámalift bejárata központi helyen van, a pályaudvartól pár perc gyalog vagy városi busszal. A múzeumok órákig védelmet nyújtanak a nedvesség ellen.\n\nAz óvárosi ebéd után a városi busz egyszerűen elviszi a Riedel üveggyárba. A megállók rendszerint fedettek, így a várakozás is kényelmes.\n\nA délutánt a Városligetben zárjuk, ahonnan a közeli buszmegállóknak köszönhetően gyorsan visszajuthatunk az állomásra, ha eleredne az eső.",
+            "ro": "Cu transportul public local rămâneți mobil în Kufstein chiar și pe ploaie. După sosirea la gară, este doar un drum scurt, parțial acoperit, către orașul vechi și Römerhofgasse.\n\nLa prânz, cetatea este punctul culminant. Intrarea la liftul panoramic este centrală și accesibilă în câteva minute pe jos sau cu autobuzul urban de la gară. Muzeele oferă protecție împotriva umezelii timp de ore întregi.\n\nDupă prânzul în centrul vechi, autobuzul urban vă duce fără probleme la manufactura Riedel. Stațiile sunt de obicei acoperite, ceea ce face așteptarea plăcută.\n\nÎncheiem după-amiaza în parcul orașului, unde proximitatea stațiilor de autobuz permite o întoarcere rapidă la gară dacă ploaia se intensifică.",
+            "en": "Public transport keeps you mobile in Kufstein even in the rain. After arriving at the station, it's just a short, partly sheltered walk to the old town and Römerhofgasse.\n\nAt noon, the fortress is the highlight. The panoramic lift entrance is centrally located and can be reached in a few minutes on foot or by city bus from the station. The museums offer hours of protection from the wet.\n\nAfter lunch in the old town, the city bus takes you easily to the Riedel factory. Most stops are covered, making the wait pleasant.\n\nWe wrap up the afternoon in the City Park, where the proximity to bus stops allows for a quick return to the station if the rain gets heavier."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Kufstein Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Unterführungen, um trocken zu den Bussteigen zu gelangen.",
+                "hu": "Használja az aluljárókat, hogy szárazon jusson a buszmegállókhoz.",
+                "ro": "Folosiți pasajele subterane pentru a ajunge uscat la peroanele de autobuz.",
+                "en": "Use the underpasses to reach the bus platforms without getting wet."
+              }
+            },
+            {
+              "name": "Römerhofgasse",
+              "tip_5lang": {
+                "de": "Vom Bahnhof aus in 5-8 Minuten zu Fuß erreichbar; halten Sie den Schirm bereit.",
+                "hu": "A pályaudvartól 5-8 perc gyalog; tartsa készenlétben az esernyőt.",
+                "ro": "Accesibil în 5-8 minute pe jos de la gară; țineți umbrela pregătită.",
+                "en": "Accessible in 5-8 minutes on foot from the station; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Parish Church of St. Vitus",
+              "tip_5lang": {
+                "de": "Ideal für eine kurze Pause zwischen zwei Busverbindungen.",
+                "hu": "Ideális egy rövid pihenőre két buszjárat között.",
+                "ro": "Ideal pentru o scurtă pauză între două conexiuni de autobuz.",
+                "en": "Ideal for a short break between two bus connections."
+              }
+            },
+            {
+              "name": "Kufstein Fortress",
+              "tip_5lang": {
+                "de": "Die Stadtbuslinien 1 und 2 halten in der Nähe des Liftzugangs.",
+                "hu": "Az 1-es és 2-es városi buszjáratok a liftbejárat közelében állnak meg.",
+                "ro": "Liniile de autobuz urban 1 și 2 opresc în apropierea accesului la lift.",
+                "en": "City bus lines 1 and 2 stop near the lift access."
+              }
+            },
+            {
+              "name": "Riedel Glass Manufactory",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Kufstein Weissach' liegt nur wenige Meter vom Eingang entfernt.",
+                "hu": "A 'Kufstein Weissach' megálló csak pár méterre van a bejárattól.",
+                "ro": "Stația 'Kufstein Weissach' se află la doar câțiva metri de intrare.",
+                "en": "The 'Kufstein Weissach' stop is just a few meters from the entrance."
+              }
+            },
+            {
+              "name": "Winding down in the City Park",
+              "tip_5lang": {
+                "de": "Bei Regen können Sie direkt vom Park aus den nächsten Bus zum Bahnhof nehmen.",
+                "hu": "Esőben közvetlenül a parktól indulhat a következő busszal az állomásra.",
+                "ro": "Pe ploaie, puteți lua următorul autobuz către gară direct din parc.",
+                "en": "In the rain, you can take the next bus to the station directly from the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket für den Stadtbus direkt beim Fahrer oder per App.",
+              "Die Stadtbusse verkehren in dichten Intervallen, ideal für kurzes Unterstellen.",
+              "Nutzen Sie die VVT-App für Echtzeit-Informationen bei wetterbedingten Verzögerungen.",
+              "Der Bahnhof Kufstein bietet Schließfächer für nasses Gepäck."
+            ],
+            "hu": [
+              "Vásároljon napijegyet a városi buszra a sofőrnél vagy applikáción keresztül.",
+              "A városi buszok sűrűn járnak, ideálisak a rövid várakozáshoz.",
+              "Használja a VVT appot a valós idejű információkért eső okozta késések esetén.",
+              "A kufsteini állomáson csomagmegőrző szekrények vannak a vizes holmiknak."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi pentru autobuzul urban direct de la șofer sau prin aplicație.",
+              "Autobuzele urbane circulă la intervale scurte, ideale pentru a vă adăposti temporar.",
+              "Folosiți aplicația VVT pentru informații în timp real în caz de întârzieri din cauza vremii.",
+              "Gara Kufstein oferă dulapuri pentru depozitarea bagajelor ude."
+            ],
+            "en": [
+              "Buy a day ticket for the city bus directly from the driver or via the app.",
+              "City buses run at frequent intervals, ideal for taking a quick break from the rain.",
+              "Use the VVT app for real-time information on weather-related delays.",
+              "Kufstein station offers lockers for storing wet luggage."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Kufstein lässt sich hervorragend mit dem öffentlichen Verkehr meistern. Nach der Ankunft am Bahnhof bietet der Stadtbus eine warme Verbindung in die frostige Altstadt zur Römerhofgasse.\n\nMittags nehmen wir die Panoramabahn zur Festung. Der Aufstieg im geschlossenen Lift ist windgeschützt und bietet einen tollen Blick auf die verschneite Stadt. Die Museen oben sind gut geheizt.\n\nNach dem Aufwärmen beim Mittagessen in der Altstadt fahren wir mit dem Bus zur Riedel Glasmanufaktur. Die Haltestellen sind im Winter meist geräumt, was den Zugang sicher macht.\n\nDer Tag endet im Stadtpark, wo wir die Winterstimmung genießen, bevor uns der nächste Bus zurück zum Bahnhof bringt. Die Busse sind im Winter gut beheizt und bieten eine willkommene Pause von der Kälte.",
+            "hu": "A kufsteini telet kiválóan kezelhetjük tömegközlekedéssel. Az állomásra érkezés után a városi busz meleg összeköttetést biztosít a fagyos óvárosba, a Römerhofgasséhoz.\n\nDélben a panorámalifttel megyünk fel a várba. A zárt liftes feljutás szélvédett, és remek kilátást nyújt a hófödte városra. A fenti múzeumok jól fűtöttek.\n\nAz óvárosi ebédet követő felmelegedés után busszal megyünk a Riedel üveggyárba. A megállókat télen rendszerint takarítják, így a bejutás biztonságos.\n\nA nap a Városligetben zárul, ahol élvezzük a téli hangulatot, mielőtt a következő busz visszavinne az állomásra. A buszok télen jól fűtöttek, kellemes pihenőt nyújtanak a hideg után.",
+            "ro": "Iarna în Kufstein poate fi gestionată excelent cu transportul public. După sosirea la gară, autobuzul urban oferă o conexiune caldă către orașul vechi înghețat și Römerhofgasse.\n\nLa prânz, luăm liftul panoramic către cetate. Urcarea în liftul închis este protejată de vânt și oferă o vedere excelentă asupra orașului înzăpezit. Muzeele de sus sunt bine încălzite.\n\nDupă încălzirea de la prânzul în orașul vechi, mergem cu autobuzul la manufactura Riedel. Stațiile sunt de obicei curățate iarna, ceea ce face accesul sigur.\n\nZiua se încheie în parcul orașului, unde ne bucurăm de atmosfera de iarnă înainte ca următorul autobuz să ne ducă înapoi la gară. Autobuzele sunt bine încălzite iarna și oferă o pauză binevenită de la frig.",
+            "en": "Winter in Kufstein is easily managed with public transport. After arriving at the station, the city bus provides a warm connection to the frosty old town and Römerhofgasse.\n\nAt noon, take the panoramic lift to the fortress. The ascent in the enclosed lift is protected from the wind and offers a great view of the snow-covered city. The museums at the top are well-heated.\n\nAfter warming up during lunch in the old town, take the bus to the Riedel factory. Most stops are cleared of snow in winter, making access safe.\n\nThe day ends in the City Park, where we enjoy the winter atmosphere before the next bus takes us back to the station. The buses are well-heated in winter, offering a welcome break from the cold."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Kufstein Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der beheizten Bahnhofshalle auf Ihren Anschlussbus.",
+                "hu": "Várjon a fűtött váróteremben a csatlakozó buszra.",
+                "ro": "Așteptați autobuzul de legătură în holul gării încălzit.",
+                "en": "Wait for your connecting bus in the heated station hall."
+              }
+            },
+            {
+              "name": "Römerhofgasse",
+              "tip_5lang": {
+                "de": "Die Busse der Linie 1 bringen Sie vom Bahnhof fast direkt in die Altstadt.",
+                "hu": "Az 1-es buszjárat szinte közvetlenül az óvárosba viszi a pályaudvartól.",
+                "ro": "Autobuzele liniei 1 vă duc de la gară aproape direct în orașul vechi.",
+                "en": "Line 1 buses take you from the station almost directly into the old town."
+              }
+            },
+            {
+              "name": "Parish Church of St. Vitus",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für eine kurze Besichtigung, bevor der nächste Bus abfährt.",
+                "hu": "Meleg hely egy rövid látogatásra, mielőtt indulna a következő busz.",
+                "ro": "Un loc cald pentru o scurtă vizită înainte de plecarea următorului autobuz.",
+                "en": "A warm place for a quick visit before the next bus departs."
+              }
+            },
+            {
+              "name": "Kufstein Fortress",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Winter-Öffnungszeiten; der Lift fährt auch bei Kälte zuverlässig.",
+                "hu": "Ügyeljen a téli nyitvatartásra; a lift hidegben is megbízhatóan üzemel.",
+                "ro": "Atenție la programul de iarnă; liftul funcționează fiabil și pe frig.",
+                "en": "Check the winter opening hours; the lift operates reliably even in the cold."
+              }
+            },
+            {
+              "name": "Riedel Glass Manufactory",
+              "tip_5lang": {
+                "de": "Die Busverbindung ist auch im Winter pünktlich und bringt Sie direkt zur Manufaktur.",
+                "hu": "A buszjárat télen is pontos, és közvetlenül a gyárhoz viszi.",
+                "ro": "Conexiunea de autobuz este punctuală și iarna și vă duce direct la manufactură.",
+                "en": "The bus connection is punctual even in winter and takes you directly to the factory."
+              }
+            },
+            {
+              "name": "Winding down in the City Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehäuschen an den Bushaltestellen zum Schutz vor dem Winterwind.",
+                "hu": "Használja a buszmegállók váróit a téli szél elleni védekezésül.",
+                "ro": "Folosiți adăposturile din stațiile de autobuz pentru a vă proteja de vântul de iarnă.",
+                "en": "Use the shelters at the bus stops to protect yourself from the winter wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Schuhe, da die Wartezeiten im Freien trotz Heizung in den Bussen kalt sein können.",
+              "Die Stadtbusse sind im Winter oft eine gute Möglichkeit, sich kurz aufzuwärmen.",
+              "Informieren Sie sich über eventuelle Fahrplanänderungen bei starkem Schneefall.",
+              "Der Bahnhof Kufstein ist ein wichtiger Knotenpunkt mit beheizten Aufenthaltsräumen."
+            ],
+            "hu": [
+              "Viseljen meleg cipőt, mert a kinti várakozás a buszok fűtése ellenére is hideg lehet.",
+              "A városi buszok télen jó lehetőséget nyújtanak egy-egy rövid felmelegedésre.",
+              "Tájékozódjon az esetleges menetrendi változásokról erős havazás esetén.",
+              "A kufsteini pályaudvar fontos csomópont fűtött várótermekkel."
+            ],
+            "ro": [
+              "Purtați încălțăminte călduroasă, deoarece timpii de așteptare afară pot fi reci.",
+              "Autobuzele urbane sunt adesea o modalitate bună de a vă încălzi scurt iarna.",
+              "Informați-vă despre eventualele modificări de orar în caz de ninsori puternice.",
+              "Gara Kufstein este un nod important cu săli de așteptare încălzite."
+            ],
+            "en": [
+              "Wear warm shoes, as waiting outside can be cold despite the heating on the buses.",
+              "City buses are often a good way to warm up briefly in winter.",
+              "Check for any schedule changes during heavy snowfall.",
+              "Kufstein station is a major hub with heated waiting rooms."
+            ]
+          }
+        }
       }
     }
   }

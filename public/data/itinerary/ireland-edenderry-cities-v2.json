@@ -293,6 +293,170 @@
           "Bring a reusable water bottle.",
           "Check the weather forecast and dress in layers."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Edenderry beginnt am Rathaus, wo das Vordach Schutz vor dem irischen Nieselregen bietet. Ein kurzer Sprint führt zur St. Mary's Church, einem ruhigen und trockenen Rückzugsort.\n\nMittags suchen wir Schutz in den Cafés der JKL Street. Die Atmosphäre ist gemütlich, während der Regen gegen die Scheiben trommelt.\n\nAm Nachmittag spazieren wir am Grand Canal entlang. Der Nebel über dem Wasser verleiht dem Hafen eine mystische, wenn auch feuchte Aura. Die Burgruinen von Blundell wirken im Grau der Wolken besonders dramatisch.\n\nAbends endet die Tour bei den Ruinen von Monasteroris. Der Boden ist aufgeweicht, aber die Einsamkeit im Regen hat ihren ganz eigenen, melancholischen Reiz.",
+            "hu": "A reggel Edenderryben a városházánál indul, ahol a bejárat feletti párkány nyújt védelmet a szemerkélő ír eső elől. Egy gyors séta a Szent Mária-templomig, amely csendes és száraz menedéket kínál.\n\nDélben a JKL utca kávézóiban húzzuk meg magunkat. A hangulat barátságos, ahogy az eső dobol az ablakokon, ideális idő egy forró teához.\n\nDélután a Grand Canal mentén haladunk. A víz feletti pára misztikus, bár nedves aurát kölcsönöz a kikötőnek. A Blundell-vár romjai a szürke felhők alatt különösen drámaian festenek.\n\nEste a Monasteroris kolostor romjainál zárjuk a napot. A talaj vizes, de az esőben fürdő romok magánya különleges, melankolikus bájt áraszt.",
+            "ro": "Dimineața în Edenderry începe la Primărie, unde porticul oferă adăpost împotriva burniței irlandeze. O scurtă fugă duce la Biserica Sf. Maria, un refugiu liniștit și uscat.\n\nLa prânz, căutăm adăpost în cafenelele de pe strada JKL. Atmosfera este primitoare în timp ce ploaia bate în geamuri, perfect pentru o pauză caldă.\n\nDupă-amiaza ne plimbăm de-a lungul marelui canal (Grand Canal). Ceața de deasupra apei oferă portului o aură mistică, deși umedă. Ruinele castelului Blundell par deosebit de dramatice sub norii cenușii.\n\nSeara, turul se încheie la ruinele Monasteroris. Terenul este moale, dar singurătatea în ploaie are propriul său farmec melancolic.",
+            "en": "Morning in Edenderry begins at the Town Hall, where the portico offers shelter from the drizzling Irish rain. A quick dash leads to St. Mary's Church, providing a quiet and dry sanctuary.\n\nAt midday, we find cover in the cafes along JKL Street. The atmosphere is cozy as rain drums against the glass, making it the perfect time for a hot drink.\n\nIn the afternoon, we stroll along the Grand Canal. The mist over the water gives the harbour a mystical, albeit damp, aura. Blundell Castle ruins look particularly dramatic under the grey clouds.\n\nIn the evening, the tour ends at the Monasteroris Friary ruins. The ground is soft, but the solitude in the rain holds its own unique, melancholic charm."
+          },
+          "stops": [
+            {
+              "name": "Edenderry Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Eingangsportal als Unterstand bei plötzlichen Schauern.",
+                "hu": "Használja a bejárati portékát menedékként hirtelen zivatar esetén.",
+                "ro": "Folosiți porticul de la intrare ca adăpost în caz de averse bruște.",
+                "en": "Use the entrance portico as a shelter during sudden downpours."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine trockene, besinnliche Pause vom Regen.",
+                "hu": "Ideális hely egy száraz, csendes pihenőre az eső elől.",
+                "ro": "Un loc ideal pentru o pauză uscată și liniștită de ploaie.",
+                "en": "An ideal place for a dry, quiet break from the rain."
+              }
+            },
+            {
+              "name": "The Grand Canal Harbour",
+              "tip_5lang": {
+                "de": "Vorsicht am Uferrand; die Steine können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat a part szélein; a kövek nedvesen nagyon csúszósak lehetnek.",
+                "ro": "Atenție la marginea apei; pietrele pot fi foarte alunecoase când sunt ude.",
+                "en": "Caution near the water's edge; stones can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Blundell Castle (Site)",
+              "tip_5lang": {
+                "de": "Festes, wasserdichtes Schuhwerk ist für das grasbewachsene Gelände ratsam.",
+                "hu": "Vízálló lábbeli ajánlott a füves, gyakran sáros területre.",
+                "ro": "Încălțămintea impermeabilă este recomandată pentru terenul înierbat.",
+                "en": "Waterproof footwear is advised for the grassy, often muddy terrain."
+              }
+            },
+            {
+              "name": "Monasteroris Friary",
+              "tip_5lang": {
+                "de": "Kein Unterstand vorhanden; halten Sie Ihren Regenschirm gut fest.",
+                "hu": "Nincs fedett rész; tartsa erősen az esernyőjét a szélben.",
+                "ro": "Nu există adăpost; țineți bine umbrela în caz de vânt.",
+                "en": "No shelter available; hold onto your umbrella firmly in the wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Edenderry hat viele enge Gassen, die bei Wind wie Windkanäle wirken können.",
+              "Die Cafés an der JKL Street sind die besten Orte, um heftige Schauer abzuwarten.",
+              "Wasserdichte Stiefel sind für den Treppelweg am Kanal unerlässlich.",
+              "Vermeiden Sie Abkürzungen über unbefestigte Felder, da der Boden stark aufweicht."
+            ],
+            "hu": [
+              "Edenderry szűk utcái szélcsatornaként működhetnek zuhé idején.",
+              "A JKL utca kávézói a legjobb helyek a heves esőzés kivárására.",
+              "A csatornaparti sétányhoz elengedhetetlen a vízálló bakancs.",
+              "Kerülje a mezőkön átvágó rövidítéseket, mert a talaj mélyen felázik."
+            ],
+            "ro": [
+              "Străzile înguste din Edenderry pot funcționa ca tunele de vânt în timpul ploii.",
+              "Cafenelele de pe strada JKL sunt cele mai bune locuri pentru a aștepta trecerea averselor.",
+              "Cizmele impermeabile sunt esențiale pentru poteca de pe malul canalului.",
+              "Evitați scurtăturile prin câmp, deoarece solul devine foarte noroios."
+            ],
+            "en": [
+              "Edenderry's narrow streets can act as wind tunnels during heavy rain.",
+              "The cafes on JKL Street are the best spots to wait out intense showers.",
+              "Waterproof boots are essential for the canal towpath sections.",
+              "Avoid shortcuts across unpaved fields as the ground becomes very waterlogged."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Rathaus von Edenderry, dessen rote Ziegel im frühen Winterlicht leuchten. Die Luft ist klirrend kalt, perfekt für einen belebenden Spaziergang.\n\nMittags suchen wir die Wärme der St. Mary's Church auf, bevor wir uns bei einem heißen Mittagessen im Stadtzentrum aufwärmen. Die Tage sind kurz und das Licht ist weich.\n\nAm Nachmittag führt der Weg zum Grand Canal, wo das Wasser oft von einer dünnen Eisschicht bedeckt ist. Die kahlen Bäume am Ufer bilden eine scharfe Silhouette gegen den Winterhimmel.\n\nBereits bei Einbruch der Dunkelheit erreichen wir Monasteroris. Die Kälte zieht an, aber die beleuchteten Fenster der Stadt in der Ferne bieten einen heimeligen Anblick.",
+            "hu": "Deres reggel köszönt ránk az Edenderry Városházánál, melynek vörös téglái ragyognak a kora téli fényben. A levegő metszően hideg, ideális egy frissítő sétához.\n\nDélben a Szent Mária-templom melegét keressük, mielőtt a városközpontban egy forró ebéddel melegednénk fel. A nappalok rövidek, a fények pedig lágyak.\n\nDélután az utunk a Grand Canalhoz vezet, ahol a vizet gyakran vékony jéghártya borítja. A part menti kopár fák éles sziluettet alkotnak a téli égen.\n\nMár sötétedéskor érjük el a Monasteroris romjait. A hideg erősödik, de a távolban pislákoló városi fények barátságos látványt nyújtanak.",
+            "ro": "O dimineață gerosă începe la Primăria din Edenderry, ale cărei cărămizi roșii strălucesc în lumina timpurie de iarnă. Aerul este tăios, perfect pentru o plimbare revigorantă.\n\nLa prânz, căutăm căldura Bisericii Sf. Maria înainte de a ne încălzi cu un prânz fierbinte în centrul orașului. Zilele sunt scurte și lumina este blândă.\n\nDupă-amiaza, drumul ne duce la Grand Canal, unde apa este adesea acoperită de un strat subțire de gheață. Copacii golași de pe mal formează o siluetă clară pe cerul de iarnă.\n\nDeja la căderea întunericului ajungem la Monasteroris. Frigul se intensifică, dar ferestrele luminate ale orașului în depărtare oferă o priveliște primitoare.",
+            "en": "A frosty morning begins at Edenderry Town Hall, its red bricks glowing in the early winter light. The air is crisp and biting, perfect for an invigorating walk.\n\nAt midday, we seek the warmth of St. Mary's Church before heating up with a hot lunch in the town centre. The days are short and the light is soft.\n\nIn the afternoon, the path leads to the Grand Canal, where the water is often skimmed with a thin layer of ice. The bare trees on the bank form a sharp silhouette against the winter sky.\n\nBy dusk, we reach the Monasteroris ruins. The cold tightens its grip, but the twinkling city lights in the distance offer a homely sight."
+          },
+          "stops": [
+            {
+              "name": "Edenderry Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf den Stufen des Haupteingangs.",
+                "hu": "Vigyázzon a jegesedésre a főbejárat lépcsőin.",
+                "ro": "Atenție la polei pe treptele de la intrarea principală.",
+                "en": "Watch out for black ice on the steps of the main entrance."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Oft beheizt; ein guter Ort, um die Hände aufzuwärmen.",
+                "hu": "Gyakran fűtött; jó hely a kezek felmelegítésére.",
+                "ro": "Adesea încălzită; un loc bun pentru a vă încălzi mâinile.",
+                "en": "Often heated; a good spot to warm up your hands."
+              }
+            },
+            {
+              "name": "The Grand Canal Harbour",
+              "tip_5lang": {
+                "de": "Bei Wind ist es hier besonders kalt; Mütze und Handschuhe sind Pflicht.",
+                "hu": "Szeles időben itt különösen hideg van; sapka és kesztyű kötelező.",
+                "ro": "E deosebit de frig aici când bate vântul; căciula și mănușile sunt obligatorii.",
+                "en": "It feels extra cold here when windy; hat and gloves are a must."
+              }
+            },
+            {
+              "name": "Blundell Castle (Site)",
+              "tip_5lang": {
+                "de": "Das Gelände schließt bei Einbruch der Dunkelheit (ca. 16:30 Uhr).",
+                "hu": "A terület sötétedéskor (kb. 16:30) bezár.",
+                "ro": "Zona se închide la lăsarea întunericului (aprox. ora 16:30).",
+                "en": "The site closes at dusk (approx. 16:30)."
+              }
+            },
+            {
+              "name": "Monasteroris Friary",
+              "tip_5lang": {
+                "de": "Bringen Sie eine Taschenlampe mit, falls Sie nach 16:00 Uhr hier sind.",
+                "hu": "Vigyen magával zseblámpát, ha délután 4 után érkezik ide.",
+                "ro": "Aduceți o lanternă dacă sunteți aici după ora 16:00.",
+                "en": "Bring a torch if you are visiting after 16:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:15 Uhr unter.",
+              "Die JKL Street ist im Dezember oft festlich beleuchtet.",
+              "Vermeiden Sie das Gehen direkt am Kanalrand bei Bodenfrost.",
+              "Ein heißer Whiskey im Pub ist der beste Abschluss für einen Wintertag."
+            ],
+            "hu": [
+              "Télen a nap már 16:15 körül lemegy.",
+              "A JKL utca decemberben gyakran ünnepi díszkivilágítást kap.",
+              "Talajmenti fagy esetén kerülje a közvetlen csatornaparti gyaloglást.",
+              "Egy forró ír whiskey a pubban a legjobb lezárása a téli napnak."
+            ],
+            "ro": [
+              "Iarna, soarele apune deja în jurul orei 16:15.",
+              "Strada JKL este adesea iluminată festiv în luna decembrie.",
+              "Evitați mersul direct pe marginea canalului în caz de îngheț la sol.",
+              "Un whiskey irlandez fierbinte la pub este cea mai bună încheiere a zilei."
+            ],
+            "en": [
+              "The sun sets as early as 16:15 during winter months.",
+              "JKL Street often features festive lighting throughout December.",
+              "Avoid walking directly on the canal edge during ground frost.",
+              "A hot Irish whiskey in a local pub is the best finish for a winter day."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -587,6 +751,188 @@
           "Bring a lock to secure your bike at stops.",
           "Check your tires before you set off."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Rathaus bei leichtem Regen. Die Fahrt zum Hafen erfordert Vorsicht auf den nassen Straßen. Das Wasser des Kanals glänzt metallisch unter dem grauen Himmel.\n\nIn Richtung Monasteroris wird die Fahrt anstrengender, da der Wind von den Feldern weht. Eine kurze Rast unter Bäumen bietet kaum Schutz.\n\nDer Höhepunkt am Nachmittag ist Carbury Castle. Der Anstieg ist bei Regen rutschig, aber der Anblick der durchnässten Mauern ist beeindruckend. Auf dem Rückweg passieren wir die Ballymacwilliam Church.\n\nDer Tag endet wieder bei St. Mary's. Die Kleidung ist feucht, aber die sportliche Leistung im Regen sorgt für ein Gefühl der Zufriedenheit.",
+            "hu": "Enyhe esőben indulunk a városházától. A kikötőig vezető út óvatosságot igényel a nedves aszfalton. A csatorna vize fémesen csillog a szürke ég alatt.\n\nMonasteroris felé haladva a tekerés nehezebbé válik, ahogy a szél befúj a mezőkről. Egy rövid pihenő a fák alatt alig nyújt védelmet.\n\nDélutáni csúcspontunk a Carbury-vár. Az emelkedő esőben csúszós, de az ázott falak látványa lenyűgöző. Visszaúton érintjük a Ballymacwilliam-templomot.\n\nA nap a Szent Mária-templomnál ér véget. A ruházat nyirkos, de az esőben nyújtott sportteljesítmény elégedettséggel tölt el bennünket.",
+            "ro": "Pornim de la Primărie pe o ploaie ușoară. Drumul spre port necesită prudență pe străzile umede. Apa canalului strălucește metalic sub cerul gri.\n\nSpre Monasteroris, pedalatul devine mai greu din cauza vântului care bate de pe câmp. O scurtă pauză sub copaci oferă puțin adăpost.\n\nPunctul culminant al după-amiezii este Castelul Carbury. Urcarea este alunecoasă pe ploaie, dar vederea zidurilor îmbibate cu apă este impresionantă. La întoarcere trecem pe lângă Biserica Ballymacwilliam.\n\nZiua se încheie din nou la Sf. Maria. Hainele sunt umede, dar performanța sportivă pe ploaie oferă un sentiment de satisfacție.",
+            "en": "We start at the Town Hall in light rain. The ride to the harbour requires caution on the wet roads. The canal water shines metallically under the grey sky.\n\nHeading towards Monasteroris, the cycling becomes tougher as the wind blows in from the fields. A short rest under the trees offers little shelter.\n\nThe afternoon highlight is Carbury Castle. The climb is slippery in the rain, but the sight of the rain-soaked walls is impressive. On the way back, we pass Ballymacwilliam Church.\n\nThe day ends back at St. Mary's. Clothes are damp, but the athletic effort in the rain brings a sense of satisfaction."
+          },
+          "stops": [
+            {
+              "name": "Edenderry Town Hall",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start auf den nassen Straßen.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a nedves utakra való tekintettel.",
+                "ro": "Verificați frânele înainte de pornire pentru drumurile umede.",
+                "en": "Check your brakes before starting on the wet roads."
+              }
+            },
+            {
+              "name": "The Grand Canal Harbour",
+              "tip_5lang": {
+                "de": "Der Treppelweg kann schlammig sein; Schutzbleche am Rad sind empfohlen.",
+                "hu": "A vontatóút sáros lehet; sárvédő használata javasolt.",
+                "ro": "Poteca de pe mal poate fi noroioasă; aripile la bicicletă sunt recomandate.",
+                "en": "The towpath can be muddy; mudguards are highly recommended."
+              }
+            },
+            {
+              "name": "Monasteroris Friary",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem festen Untergrund ab, um Einsinken zu vermeiden.",
+                "hu": "Szilárd talajon támassza le a biciklit, hogy ne süllyedjen el a sárban.",
+                "ro": "Parcați bicicleta pe un teren solid pentru a evita scufundarea în noroi.",
+                "en": "Park your bike on firm ground to avoid sinking into the mud."
+              }
+            },
+            {
+              "name": "Carbury Castle",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße ist steil; bei Regen langsam bergab fahren.",
+                "hu": "A bekötőút meredek; esőben lassan haladjon lefelé.",
+                "ro": "Drumul de acces este abrupt; coborâți încet pe timp de ploaie.",
+                "en": "The access road is steep; descend slowly during rain."
+              }
+            },
+            {
+              "name": "Ballymacwilliam Church",
+              "tip_5lang": {
+                "de": "Kürzen Sie die Besichtigung ab, falls der Regen stärker wird.",
+                "hu": "Rövidítse le a nézelődést, ha az eső intenzívebbé válik.",
+                "ro": "Scurtați vizita dacă ploaia devine mai puternică.",
+                "en": "Shorten the visit if the rain intensifies."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Letzte Station zum Verschnaufen im Trockenen.",
+                "hu": "Utolsó állomás a szárazban való megpihenésre.",
+                "ro": "Ultima stație pentru a vă odihni la adăpost.",
+                "en": "Final stop to catch your breath in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Radfahren auf dem Kanalweg bei starkem Regen.",
+              "Vollständige Regenbekleidung (Hose und Jacke) ist ein Muss.",
+              "Achten Sie auf tiefere Pfützen, die Schlaglöcher verbergen könnten.",
+              "Die Landstraßen um Carbury haben wenig Schutz vor Seitenwind."
+            ],
+            "hu": [
+              "Heves esőzéskor kerülje a csatornaparti kerékpározást.",
+              "A teljes esőruházat (nadrág és dzseki) kötelező.",
+              "Ügyeljen a mélyebb tócsákra, amelyek kátyúkat rejthetnek.",
+              "A Carbury körüli országutakon kevés a szélvédett szakasz."
+            ],
+            "ro": [
+              "Evitați ciclismul pe drumul canalului în timpul ploilor abundente.",
+              "Echipamentul complet de ploaie (pantaloni și jachetă) este obligatoriu.",
+              "Atenție la bălțile adânci care ar putea ascunde gropi.",
+              "Drumurile rurale din jurul Carbury au puțină protecție împotriva vântului."
+            ],
+            "en": [
+              "Avoid cycling on the canal path during heavy downpours.",
+              "Full rain gear (trousers and jacket) is a must for this route.",
+              "Watch out for deep puddles that might hide potholes.",
+              "The country roads around Carbury offer little shelter from crosswinds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens am Rathaus ist die Luft frostig. Die Reifen knirschen auf dem gefrorenen Boden. Die kurze Fahrt zum Hafen weckt die Lebensgeister.\n\nMittags führt die Route durch die flache Landschaft nach Monasteroris. Der Wind ist schneidend kalt, aber die weite Sicht im klaren Winterlicht ist fantastisch.\n\nNachmittags erreichen wir Carbury Castle. Die Ruine wirkt wie aus einem Märchen, wenn Reif die alten Steine überzieht. Das Licht der tiefstehenden Sonne färbt alles in Goldtöne.\n\nNach dem Besuch der Ballymacwilliam Church kehren wir bei Dämmerung nach Edenderry zurück. St. Mary's empfängt uns mit einer friedlichen Abendstimmung, bevor wir die Räder sicher abstellen.",
+            "hu": "Reggel a városházánál fagyos a levegő. A gumik ropognak a megfagyott talajon. A rövid út a kikötőig hamar felébreszti az embert.\n\nDélben az út a lapos vidéken át Monasterorisba vezet. A szél metszően hideg, de a tiszta téli fényben a kilátás fantasztikus.\n\nDélután érjük el a Carbury-várat. A rom olyan, mint egy tündérmese, amikor a zúzmara belepi a régi köveket. Az alacsonyan járó nap fénye mindent arany tónusba öltöztet.\n\nA Ballymacwilliam-templom megtekintése után szürkületkor térünk vissza Edenderrybe. A Szent Mária-templom békés esti hangulattal fogad, mielőtt biztonságba helyeznénk a bringákat.",
+            "ro": "Dimineața la Primărie aerul este înghețat. Anvelopele scrâșnesc pe solul înghețat. Drumul scurt până în port trezește toate simțurile.\n\nLa prânz, traseul trece prin peisajul plat spre Monasteroris. Vântul este tăios, dar vizibilitatea mare în lumina clară de iarnă este fantastică.\n\nDupă-amiaza ajungem la Castelul Carbury. Ruina arată ca într-un basm când chiciura acoperă pietrele vechi. Lumina soarelui care apune colorează totul în nuanțe aurii.\n\nDupă vizitarea Bisericii Ballymacwilliam, ne întoarcem în Edenderry la amurg. Sf. Maria ne întâmpină cu o atmosferă liniștită de seară înainte de a parca bicicletele.",
+            "en": "In the morning at the Town Hall, the air is frosty. Tires crunch on the frozen ground. The short ride to the harbour quickly wakes you up.\n\nAt midday, the route passes through the flat landscape to Monasteroris. The wind is biting, but the wide views in the clear winter light are fantastic.\n\nIn the afternoon, we reach Carbury Castle. The ruin looks like something out of a fairy tale when hoarfrost covers the ancient stones. The low sun paints everything in golden tones.\n\nAfter visiting Ballymacwilliam Church, we return to Edenderry at dusk. St. Mary's welcomes us with a peaceful evening atmosphere before we securely park the bikes."
+          },
+          "stops": [
+            {
+              "name": "Edenderry Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Pfützen auf dem Vorplatz.",
+                "hu": "Vigyázzon a megfagyott tócsákra a téren.",
+                "ro": "Atenție la bălțile înghețate din piața din față.",
+                "en": "Watch out for frozen puddles in the front square."
+              }
+            },
+            {
+              "name": "The Grand Canal Harbour",
+              "tip_5lang": {
+                "de": "Die Holzbrücken am Kanal können extrem glatt sein.",
+                "hu": "A csatorna fahídjai rendkívül csúszósak lehetnek.",
+                "ro": "Podurile de lemn de pe canal pot fi extrem de alunecoase.",
+                "en": "The wooden bridges along the canal can be extremely slippery."
+              }
+            },
+            {
+              "name": "Monasteroris Friary",
+              "tip_5lang": {
+                "de": "Die Metallteile Ihres Rades können bei Berührung sehr kalt sein; Handschuhe tragen.",
+                "hu": "A bicikli fém részei érintésre nagyon hidegek lehetnek; viseljen kesztyűt.",
+                "ro": "Părțile metalice ale bicicletei pot fi foarte reci la atingere; purtați mănuși.",
+                "en": "Metal parts of your bike can be very cold to the touch; wear gloves."
+              }
+            },
+            {
+              "name": "Carbury Castle",
+              "tip_5lang": {
+                "de": "Exponierte Lage; der Windchill-Effekt ist hier oben deutlich spürbar.",
+                "hu": "Exponált helyszín; a szél hidegérzete itt fent jelentős.",
+                "ro": "Locație expusă; efectul de vânt rece este resimțit puternic aici sus.",
+                "en": "Exposed location; the wind chill factor is significant up here."
+              }
+            },
+            {
+              "name": "Ballymacwilliam Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Zeit; die Beleuchtung am Rad sollte nun eingeschaltet sein.",
+                "hu": "Ügyeljen az időre; a kerékpár lámpáit már be kell kapcsolni.",
+                "ro": "Atenție la timp; luminile de la bicicletă ar trebui să fie aprinse acum.",
+                "en": "Watch the time; your bike lights should be turned on by now."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Warmer Zufluchtsort vor der Heimfahrt.",
+                "hu": "Meleg menedék a hazaindulás előtt.",
+                "ro": "Refugiu cald înainte de drumul spre casă.",
+                "en": "Warm sanctuary before the ride home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip).",
+              "Sorgen Sie für voll funktionsfähige Vorder- und Rücklichter.",
+              "Vermeiden Sie scharfe Kurven auf schattigen Waldwegen.",
+              "Eine Thermoskanne mit heißem Tee ist bei dieser Tour Gold wert."
+            ],
+            "hu": [
+              "Viseljen több réteg ruhát (réteges öltözködés).",
+              "Gondoskodjon a teljesen működőképes első és hátsó lámpákról.",
+              "Kerülje az éles kanyarokat az árnyékos erdei utakon.",
+              "Egy termosz forró tea ezen a túrán aranyat ér."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine (principiul cepei).",
+              "Asigurați-vă că luminile față și spate sunt complet funcționale.",
+              "Evitați virajele strânse pe drumurile umbrite de pădure.",
+              "Un termos cu ceai fierbinte valorează aur în acest tur."
+            ],
+            "en": [
+              "Wear multiple layers of clothing (the onion principle).",
+              "Ensure fully functional front and rear lights for visibility.",
+              "Avoid sharp turns on shaded or wooded sections of the path.",
+              "A thermos of hot tea is worth its weight in gold on this tour."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -887,6 +1233,188 @@
           "Check parking availability at the historic sites.",
           "Remember to drive on the left!"
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Parkplatz im Stadtzentrum, während der Regen auf das Autodach trommelt. Das Rathaus ist nur einen kurzen, nassen Spaziergang entfernt. Die Scheibenwischer laufen im Takt der Stadt.\n\nMittags fahren wir zur St. Mary's Church. Das Auto ist unser trockener Rückzugsort zwischen den Besichtigungen. Die Straßen glänzen im Regenlicht.\n\nNachmittags geht es hinaus zum Carbury Castle und zur Ballymacwilliam Church. Die Fahrt durch die grüne, regennasse Landschaft ist entspannend. Die Ruinen wirken im Nebel fast geisterhaft.\n\nZum Abschluss besuchen wir den Hafen am Grand Canal. Das Licht der Straßenlaternen spiegelt sich in den Pfützen und im dunklen Wasser, bevor wir die Heizung im Auto wieder aufdrehen.",
+            "hu": "A városközponti parkolóban kezdünk, miközben az eső dobol az autótetőn. A városháza csak egy rövid, ázós sétára van. Az ablaktörlők a város ritmusára járnak.\n\nDélben a Szent Mária-templomhoz hajtunk. Az autó száraz menedékünk a látnivalók között. Az utak csillognak az esőben.\n\nDélután Carbury-vár és a Ballymacwilliam-templom felé vesszük az irányt. Az út a zöld, eső áztatta tájon át pihentető. A romok a ködben szinte kísértetiesnek tűnnek.\n\nZárásként a Grand Canal kikötőjét keressük fel. Az utcai lámpák fénye visszatükröződik a tócsákban és a sötét vízben, mielőtt újra feltekernénk a fűtést az autóban.",
+            "ro": "Începem în parcarea din centrul orașului, în timp ce ploaia bate pe plafonul mașinii. Primăria este la doar o scurtă plimbare prin ploaie. Ștergătoarele funcționează în ritmul orașului.\n\nLa prânz, conducem spre Biserica Sf. Maria. Mașina este refugiul nostru uscat între vizite. Străzile strălucesc în lumina ploii.\n\nDupă-amiaza ne îndreptăm spre Castelul Carbury și Biserica Ballymacwilliam. Drumul prin peisajul verde și ud este relaxant. Ruinele par aproape fantomatice în ceață.\n\nLa final, vizităm portul de pe Grand Canal. Lumina felinarelor se reflectă în bălți și în apa întunecată înainte de a porni din nou căldura în mașină.",
+            "en": "We start at the town centre parking while rain drums on the car roof. The Town Hall is just a short, wet walk away. Windscreen wipers move to the rhythm of the town.\n\nAt midday, we drive to St. Mary's Church. The car serves as our dry sanctuary between sights. The streets glisten in the rainy light.\n\nIn the afternoon, we head out to Carbury Castle and Ballymacwilliam Church. The drive through the green, rain-soaked landscape is relaxing. The ruins look almost ghostly in the mist.\n\nTo finish, we visit the Grand Canal Harbour. Streetlight reflects in the puddles and the dark water before we crank up the car heater once more."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Town Centre Parking",
+              "tip_5lang": {
+                "de": "Versuchen Sie, nah am Ausgang zu parken, um den Weg im Regen zu verkürzen.",
+                "hu": "Próbáljon a kijárathoz közel parkolni, hogy lerövidítse az utat az esőben.",
+                "ro": "Încercați să parcați aproape de ieșire pentru a scurta drumul prin ploaie.",
+                "en": "Try to park near the exit to shorten the walk in the rain."
+              }
+            },
+            {
+              "name": "Edenderry Town Hall",
+              "tip_5lang": {
+                "de": "Ein Regenschirm im Auto ist für diesen Stopp unerlässlich.",
+                "hu": "Egy esernyő az autóban elengedhetetlen ehhez a megállóhoz.",
+                "ro": "O umbrelă în mașină este esențială pentru această oprire.",
+                "en": "An umbrella in the car is essential for this stop."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor der Kirche vorhanden.",
+                "hu": "Parkolóhelyek közvetlenül a templom előtt találhatók.",
+                "ro": "Locuri de parcare disponibile direct în fața bisericii.",
+                "en": "Parking spaces available directly in front of the church."
+              }
+            },
+            {
+              "name": "Cluster B: Carbury Castle",
+              "tip_5lang": {
+                "de": "Vorsicht auf den engen Landstraßen bei Aquaplaning-Gefahr.",
+                "hu": "Vigyázzon a szűk országutakon az aquaplaning veszélye miatt.",
+                "ro": "Atenție pe drumurile rurale înguste la riscul de acvaplanare.",
+                "en": "Watch out for aquaplaning on narrow country roads."
+              }
+            },
+            {
+              "name": "Cluster C: Ballymacwilliam Church",
+              "tip_5lang": {
+                "de": "Der Parkstreifen kann bei Regen schlammig sein.",
+                "hu": "A parkolósáv esőben sáros lehet.",
+                "ro": "Zona de parcare poate fi noroioasă în caz de ploaie.",
+                "en": "The parking verge can be muddy during rain."
+              }
+            },
+            {
+              "name": "The Grand Canal Harbour",
+              "tip_5lang": {
+                "de": "Besichtigung auch gut vom Auto aus möglich.",
+                "hu": "A látvány az autóból is jól élvezhető.",
+                "ro": "Priveliștea poate fi savurată și din mașină.",
+                "en": "The view can be enjoyed reasonably well from inside the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie die Scheinwerfer bei starkem Regen auch tagsüber eingeschaltet.",
+              "Ein Mikrofasertuch im Auto hilft gegen beschlagene Scheiben.",
+              "Die JKL Street kann bei Regen sehr verkehrsreich sein.",
+              "Nutzen Sie die Parkplätze an der Kirche für einen trockenen Umstieg."
+            ],
+            "hu": [
+              "Heves esőben nappal is tartsa bekapcsolva a fényszórókat.",
+              "Egy mikroszálas kendő az autóban segít a párásodó szélvédő ellen.",
+              "A JKL utca esőben nagyon forgalmas lehet.",
+              "Használja a templom melletti parkolókat a száraz átszálláshoz."
+            ],
+            "ro": [
+              "Păstrați farurile aprinse și ziua în timpul ploilor abundente.",
+              "O lavetă din microfibră în mașină ajută împotriva parbrizului aburit.",
+              "Strada JKL poate fi foarte aglomerată pe timp de ploaie.",
+              "Folosiți parcările de lângă biserică pentru o coborâre cât mai uscată."
+            ],
+            "en": [
+              "Keep your headlights on even during the day in heavy rain.",
+              "A microfibre cloth in the car helps with foggy windscreens.",
+              "JKL Street can become very congested during rainy weather.",
+              "Utilize the parking near the church for a drier transition."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens am Stadtzentrum-Parkplatz sind die Scheiben oft vereist. Nach dem Freikratzen ist das Rathaus unser erster warmer Anlaufpunkt. Die Wintersonne steht tief und blendet beim Fahren.\n\nMittags besuchen wir St. Mary's. Die Kirche wirkt im kahlen Winterlicht sehr andächtig. Die Fahrt durch Edenderry ist kurz und komfortabel dank Sitzheizung.\n\nNachmittags führt die Tour hinaus aufs Land. Carbury Castle und Ballymacwilliam Church liegen einsam in der frostigen Landschaft. Die Aussicht vom Hügel bei Carbury ist weit und klar.\n\nZum Abschluss geht es zum Grand Canal. Wenn die Dämmerung einsetzt, spiegeln sich die Lichter der Stadt im kalten Wasser, bevor wir die Heimreise antreten.",
+            "hu": "Reggel a városközponti parkolóban az ablakok gyakran jegesek. Jégkaparás után a városháza az első meleg célpontunk. A téli nap alacsonyan jár, és vezetés közben vakíthat.\n\nDélben a Szent Mária-templomot látogatjuk meg. A templom a kopár téli fényben nagyon áhítatosnak hat. Az út Edenderryben rövid és kényelmes a fűtött üléseknek hála.\n\nDélután a túra vidékre vezet. Carbury-vár és a Ballymacwilliam-templom magányosan állnak a fagyos tájban. A kilátás a Carbury-dombról messzire nyúlik és tiszta.\n\nZárásként a Grand Canalhoz hajtunk. Amikor beáll a szürkület, a város fényei visszatükröződnek a hideg vízben, mielőtt hazaindulnánk.",
+            "ro": "Dimineața în parcarea centrală, geamurile sunt adesea înghețate. După curățarea lor, Primăria este primul nostru punct cald. Soarele de iarnă este jos și poate fi orbitor la condus.\n\nLa prânz vizităm Sf. Maria. Biserica pare foarte solemnă în lumina golașă de iarnă. Drumul prin Edenderry este scurt și confortabil datorită scaunelor încălzite.\n\nDupă-amiaza, turul duce la țară. Castelul Carbury și Biserica Ballymacwilliam stau singuratice în peisajul înghețat. Priveliștea de pe dealul Carbury este vastă și clară.\n\nLa final, mergem la Grand Canal. Pe măsură ce se lasă amurgul, luminile orașului se reflectă în apa rece înainte de a porni spre casă.",
+            "en": "In the morning at the town centre parking, windows are often frosted over. After scraping, the Town Hall is our first warm point of interest. The winter sun is low and can be dazzling while driving.\n\nAt midday, we visit St. Mary's. The church feels very solemn in the bare winter light. The drive through Edenderry is short and comfortable thanks to heated seats.\n\nIn the afternoon, the tour heads out to the countryside. Carbury Castle and Ballymacwilliam Church stand lonely in the frosty landscape. The view from Carbury hill is vast and clear.\n\nTo finish, we go to the Grand Canal. As dusk sets in, the city lights reflect in the cold water before we begin the journey home."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Town Centre Parking",
+              "tip_5lang": {
+                "de": "Planen Sie 5 Minuten extra zum Enteisen der Scheiben ein.",
+                "hu": "Számoljon plusz 5 percet a szélvédők jégtelenítésére.",
+                "ro": "Alocați 5 minute în plus pentru dezghețarea parbrizului.",
+                "en": "Allow an extra 5 minutes for defrosting the windows."
+              }
+            },
+            {
+              "name": "Edenderry Town Hall",
+              "tip_5lang": {
+                "de": "Die Gehwege können im Schatten noch gefroren sein.",
+                "hu": "Az árnyékos részeken a járdák még fagyottak lehetnek.",
+                "ro": "Trotuarele pot fi încă înghețate în zonele cu umbră.",
+                "en": "Pavements in shaded areas may still be frozen."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Guter Stopp, um die Kälte kurzzeitig zu vergessen.",
+                "hu": "Jó megálló, hogy rövid időre elfelejtse a hideget.",
+                "ro": "O oprire bună pentru a uita temporar de frig.",
+                "en": "A good stop to briefly escape the cold."
+              }
+            },
+            {
+              "name": "Cluster B: Carbury Castle",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Nebenstraßen.",
+                "hu": "Ügyeljen a jeges foltokra a mellékutakon.",
+                "ro": "Atenție la porțiunile înghețate de pe drumurile secundare.",
+                "en": "Watch out for icy patches on the minor roads."
+              }
+            },
+            {
+              "name": "Cluster C: Ballymacwilliam Church",
+              "tip_5lang": {
+                "de": "Bei tiefstehender Sonne Sonnenbrille beim Fahren tragen.",
+                "hu": "Alacsonyan járó napnál viseljen napszemüveget vezetés közben.",
+                "ro": "Purtați ochelari de soare la condus dacă soarele este jos.",
+                "en": "Wear sunglasses while driving if the sun is low."
+              }
+            },
+            {
+              "name": "The Grand Canal Harbour",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen; der Boden am Kai kann glatt sein.",
+                "hu": "Vigyázzon kiszálláskor; a talaj a rakparton csúszós lehet.",
+                "ro": "Atenție la coborâre; solul de pe chei poate fi alunecos.",
+                "en": "Be careful when getting out; the ground by the quay can be slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Landstraßen werden oft nicht so schnell gestreut wie die Hauptstraße.",
+              "Vermeiden Sie das Parken unter Bäumen (Gefahr durch herabfallende Äste/Eis).",
+              "Ein Eiskratzer ist im irischen Winter ein Muss."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A mellékutakat gyakran nem sózzák olyan gyorsan, mint a főutat.",
+              "Kerülje a fák alatti parkolást (ágak/jég leesésének veszélye).",
+              "A jégkaparó alapfelszerelés az ír télben."
+            ],
+            "ro": [
+              "Verificați antigelul în lichidul de spălare a parbrizului.",
+              "Drumurile secundare nu sunt adesea curățate la fel de repede ca drumul principal.",
+              "Evitați parcarea sub copaci (risc de cădere a ramurilor sau gheții).",
+              "Răzuitoarea de gheață este obligatorie în iarna irlandeză."
+            ],
+            "en": [
+              "Check the antifreeze levels in your windscreen washer fluid.",
+              "Country roads are often not gritted as quickly as the main street.",
+              "Avoid parking under trees (risk of falling branches or ice).",
+              "An ice scraper is a must-have for an Irish winter trip."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -894,7 +1422,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "17:15",
-      "total_km": 21.7,
+      "total_km": 11.2,
       "stop_count": 5,
       "stops": [
         {
@@ -1162,6 +1690,170 @@
           "Check bus timetables in advance.",
           "Download an offline map to your phone."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir treffen uns im Stadtzentrum von Edenderry. Während wir auf den Bus warten, bietet das Wartehäuschen Schutz vor dem Regen. Der Tag beginnt gemütlich.\n\nMittags erreichen wir die St. Mary's Church und den Hafen. Die Wege zwischen den Haltestellen sind kurz, aber ein Regenschirm ist unverzichtbar. Das Wasser des Kanals wirkt im Regen sehr ruhig.\n\nNachmittags führt uns die Fahrt zum Carbury Castle. Die Aussicht aus dem Busfenster auf die regennasse Landschaft hat etwas Beruhigendes. Die Ruinen ragen dunkel aus dem Dunst empor.\n\nZum Abschluss besuchen wir Monasteroris Friary. Der Rückweg zur Haltestelle im Nieselregen ist erfrischend, bevor wir den warmen Bus zurück ins Zentrum nehmen.",
+            "hu": "Edenderry városközpontjában találkozunk. Miközben a buszra várunk, a megálló nyújt védelmet az eső elől. A nap kényelmesen indul.\n\nDélben elérjük a Szent Mária-templomot és a kikötőt. A megállók közötti utak rövidek, de az esernyő nélkülözhetetlen. A csatorna vize nagyon nyugodtnak tűnik az esőben.\n\nDélután Carbury-vár felé vesszük az irányt. A busz ablakából a kilátás az eső áztatta tájra megnyugtató. A romok sötéten emelkednek ki a párából.\n\nZárásként a Monasteroris kolostort látogatjuk meg. A visszaút a megállóhoz a szemerkélő esőben frissítő, mielőtt felszállnánk a meleg buszra vissza a központba.",
+            "ro": "Ne întâlnim în centrul orașului Edenderry. În timp ce așteptăm autobuzul, stația oferă adăpost împotriva ploii. Ziua începe confortabil.\n\nLa prânz ajungem la Biserica Sf. Maria și în port. Drumurile dintre stații sunt scurte, dar umbrela este indispensabilă. Apa canalului pare foarte liniștită pe ploaie.\n\nDupă-amiaza ne îndreptăm spre Castelul Carbury. Vederea de pe geamul autobuzului asupra peisajului ud este liniștitoare. Ruinele se înalță întunecate din negură.\n\nLa final vizităm Monasteroris Friary. Drumul înapoi spre stație prin burniță este revigorant înainte de a lua autobuzul cald înapoi spre centru.",
+            "en": "We meet in Edenderry town centre. While waiting for the bus, the shelter provides protection from the rain. The day starts comfortably.\n\nAt midday, we reach St. Mary's Church and the harbour. The walks between stops are short, but an umbrella is indispensable. The canal water looks very calm in the rain.\n\nIn the afternoon, the journey takes us to Carbury Castle. The view from the bus window of the rain-soaked landscape is soothing. The ruins loom darkly out of the mist.\n\nTo finish, we visit Monasteroris Friary. The walk back to the stop in the drizzle is refreshing before we catch the warm bus back to the centre."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Edenderry Town Centre",
+              "tip_5lang": {
+                "de": "Das Wartehäuschen ist oft klein; kommen Sie rechtzeitig für einen trockenen Platz.",
+                "hu": "A váróterem gyakran kicsi; érkezzen időben a száraz helyért.",
+                "ro": "Stația este adesea mică; veniți la timp pentru un loc uscat.",
+                "en": "The bus shelter is often small; arrive early to secure a dry spot."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle; achten Sie auf Pfützen.",
+                "hu": "Rövid séta a buszmegállótól; ügyeljen a tócsákra.",
+                "ro": "Drum scurt de la stația de autobuz; atenție la bălți.",
+                "en": "Short walk from the bus stop; watch out for puddles."
+              }
+            },
+            {
+              "name": "The Grand Canal Harbour",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um den Regen vom Wasser aus zu beobachten.",
+                "hu": "Szép hely az eső megfigyelésére a víz felől.",
+                "ro": "Un loc frumos pentru a observa ploaia de pe malul apei.",
+                "en": "A nice spot to watch the rain fall over the water."
+              }
+            },
+            {
+              "name": "Cluster B: Carbury Castle",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Busfahrplan, da die Frequenz bei Regen variieren kann.",
+                "hu": "Ellenőrizze a menetrendet, mert esőben változhat a sűrűség.",
+                "ro": "Verificați orarul autobuzelor, frecvența poate varia pe ploaie.",
+                "en": "Check the bus schedule as frequency may vary during wet weather."
+              }
+            },
+            {
+              "name": "Monasteroris Friary",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nicht überdacht; halten Sie den Schirm bereit.",
+                "hu": "A megálló nem fedett; tartsa készenlétben az esernyőt.",
+                "ro": "Stația nu este acoperită; pregătiți umbrela.",
+                "en": "The bus stop is not sheltered; have your umbrella ready."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Echtzeit-App für Busabfahrten bei Regen.",
+              "Einige Haltestellen in ländlichen Gebieten haben keinen Unterstand.",
+              "Vermeiden Sie das Warten direkt am Straßenrand (Spritzwassergefahr).",
+              "Halten Sie Ihr Ticket oder Ihre Leap Card griffbereit."
+            ],
+            "hu": [
+              "Esőben használja a valós idejű buszos alkalmazást.",
+              "Néhány vidéki megállónak nincs fedett várakozója.",
+              "Kerülje az útszéli várakozást a felcsapódó víz miatt.",
+              "Tartsa kéznél a jegyét vagy a Leap kártyáját."
+            ],
+            "ro": [
+              "Folosiți aplicația în timp real pentru plecările autobuzelor pe ploaie.",
+              "Unele stații din zonele rurale nu au adăpost.",
+              "Evitați așteptarea direct la marginea drumului (risc de stropire).",
+              "Păstrați biletul sau cardul Leap la îndemână."
+            ],
+            "en": [
+              "Use the real-time bus app to minimize waiting in the rain.",
+              "Some stops in the more rural areas lack shelters.",
+              "Avoid waiting too close to the road edge to prevent being splashed.",
+              "Keep your ticket or Leap card ready for a quick boarding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frühmorgens im Stadtzentrum ist es noch dunkel und kalt. Der beleuchtete Bus ist ein willkommener, warmer Zufluchtsort. Die Fahrt durch das winterliche Edenderry beginnt.\n\nMittags erreichen wir St. Mary's und den Hafen. Die Kälte zieht durch die Kleidung, aber die kurzen Fahrten im beheizten Bus helfen beim Aufwärmen. Das Licht der Wintersonne ist glasklar.\n\nNachmittags bringt uns der Transit zum Carbury Castle. Die kahle Landschaft zieht an uns vorbei. Die Ruine auf dem Hügel wirkt im Winterlicht besonders erhaben.\n\nZum Abschluss besuchen wir Monasteroris Friary. Der kurze Fußweg zur Haltestelle bei Dämmerung ist frostig, aber die Vorfreude auf den warmen Bus zurück ins Zentrum lässt uns die Kälte vergessen.",
+            "hu": "Kora reggel a városközpontban még sötét és hideg van. A kivilágított busz barátságos, meleg menedék. Megkezdődik az út a téli Edenderryben.\n\nDélben elérjük a Szent Mária-templomot és a kikötőt. A hideg átjárja a ruhát, de a rövid utak a fűtött buszon segítenek a felmelegedésben. A téli napfény kristálytiszta.\n\nDélután a járat Carbury-vár felé visz minket. A kopár táj elsuhan mellettünk. A dombon álló rom a téli fényben különösen fenséges.\n\nZárásként a Monasteroris kolostort látogatjuk meg. A rövid séta a megállóig szürkületkor fagyos, de a központba visszavivő meleg busz reménye feledteti a hideget.",
+            "ro": "Dis-de-dimineață în centrul orașului este încă întuneric și frig. Autobuzul luminat este un refugiu cald și binevenit. Începe călătoria prin Edenderry-ul de iarnă.\n\nLa prânz ajungem la Sf. Maria și în port. Frigul pătrunde prin haine, dar călătoriile scurte în autobuzul încălzit ajută la reîncălzire. Lumina soarelui de iarnă este clară ca cristalul.\n\nDupă-amiaza, transportul ne duce la Castelul Carbury. Peisajul golaș trece pe lângă noi. Ruina de pe deal pare deosebit de sublimă în lumina iernii.\n\nLa final vizităm Monasteroris Friary. Scurta plimbare spre stație la amurg este gerosă, dar anticiparea autobuzului cald înapoi spre centru ne face să uităm de frig.",
+            "en": "Early morning in the town centre is still dark and cold. The illuminated bus is a welcome, warm sanctuary. The journey through wintery Edenderry begins.\n\nAt midday, we reach St. Mary's and the harbour. The cold seeps through clothing, but the short trips on the heated bus help us warm up. The winter sunlight is crystal clear.\n\nIn the afternoon, transit takes us to Carbury Castle. The bare landscape rolls past the windows. The ruin on the hill looks particularly sublime in the winter light.\n\nTo finish, we visit Monasteroris Friary. The short walk to the stop at dusk is frosty, but the anticipation of the warm bus back to the centre makes us forget the cold."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Edenderry Town Centre",
+              "tip_5lang": {
+                "de": "Stellen Sie sich nah an die Heizung im Wartebereich, falls vorhanden.",
+                "hu": "Álljon a fűtés közelébe a váróban, ha van ilyen.",
+                "ro": "Stați aproape de sursa de căldură din zona de așteptare, dacă există.",
+                "en": "Stand near the heater in the waiting area if one is available."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf dem Weg von der Haltestelle zur Kirche.",
+                "hu": "Vigyázzon a jegesedésre a megállótól a templomig tartó úton.",
+                "ro": "Atenție la polei pe drumul de la stație spre biserică.",
+                "en": "Watch for icy patches on the path from the stop to the church."
+              }
+            },
+            {
+              "name": "The Grand Canal Harbour",
+              "tip_5lang": {
+                "de": "Ein schöner Stopp für winterliche Fotos vom Hafen.",
+                "hu": "Szép megálló téli fotók készítéséhez a kikötőről.",
+                "ro": "O oprire frumoasă pentru fotografii de iarnă în port.",
+                "en": "A beautiful stop for winter photography of the harbour."
+              }
+            },
+            {
+              "name": "Cluster B: Carbury Castle",
+              "tip_5lang": {
+                "de": "Bringen Sie ein warmes Getränk für die Wartezeit auf den Rückbus mit.",
+                "hu": "Vigyen magával meleg italt a visszajáró buszra való várakozáshoz.",
+                "ro": "Aduceți o băutură caldă pentru timpul de așteptare al autobuzului de retur.",
+                "en": "Bring a warm drink for the wait for the return bus."
+              }
+            },
+            {
+              "name": "Monasteroris Friary",
+              "tip_5lang": {
+                "de": "Die Wege können bei Bodenfrost sehr hart und uneben sein.",
+                "hu": "Az utak talajmenti fagynál nagyon kemények és egyenetlenek lehetnek.",
+                "ro": "Potecile pot fi foarte dure și denivelate în caz de îngheț la sol.",
+                "en": "Paths can be very hard and uneven during ground frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können im Winter aufgrund von Glätte Verspätung haben.",
+              "Halten Sie sich im Bus von der Tür fern, um Zugluft zu vermeiden.",
+              "Achten Sie auf die kürzeren Betriebszeiten einiger Linien im Winter.",
+              "Ein Schal schützt das Gesicht vor der eisigen Luft beim Warten."
+            ],
+            "hu": [
+              "A buszok télen a jegesedés miatt késhetnek.",
+              "A buszon üljön távol az ajtótól a huzat elkerülése érdekében.",
+              "Ügyeljen egyes járatok téli, rövidebb menetrendjére.",
+              "Egy sál megvédi az arcát a jeges levegőtől várakozás közben."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri iarna din cauza poleiului.",
+              "Stați departe de ușă în autobuz pentru a evita curentul.",
+              "Atenție la programul redus al unor linii pe timp de iarnă.",
+              "Un fular vă protejează fața de aerul înghețat în timpul așteptării."
+            ],
+            "en": [
+              "Buses may experience delays in winter due to icy road conditions.",
+              "Sit away from the bus doors to avoid cold draughts.",
+              "Be aware of shorter operating hours for some routes in winter.",
+              "A scarf helps protect your face from the biting air while waiting."
+            ]
+          }
+        }
       }
     }
   }

@@ -359,6 +359,214 @@
           "A water bottle is essential on warm days.",
           "Most central sights are easily reachable on foot."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie unter dem Vordach des Rathauses, bevor Sie in den neugotischen Innenraum der Bonifatiuskirche flüchten. Mittags bietet das Castellum Theater einen trockenen Rückzugsort. Nachmittags führt der Weg zur Eendracht-Windmühle, wo man den Wind spüren kann. Der Tag endet am Zegerplas, wo das graue Wasser eine melancholische, typisch niederländische Atmosphäre schafft.",
+            "hu": "A városháza modern árkádjai alatt kezdünk, majd az Oudshoornse templom csendes belső terében keresünk menedéket. Délben a Castellum Színház előcsarnoka nyújt száraz pihenőt. A délutáni séta a De Eendracht szélmalom mellett vezet, ahol az eső kopogása a csatorna partján igazi holland hangulatot áraszt. Estére a Zegerplas partján a Wet 'n Wild terasza kínál fedett kilátást.",
+            "ro": "Începeți sub protecția primăriei moderne, apoi vizitați interiorul liniștit al bisericii Oudshoornse. La prânz, foierul Teatrului Castellum este refugiul perfect împotriva ploii. După-amiaza, plimbarea pe lângă moara De Eendracht oferă o perspectivă dramatică asupra canalelor. Seara se încheie la lacul Zegerplas, unde reflexiile picăturilor pe apă creează un peisaj urban fascinant.",
+            "en": "Start under the modern arches of the City Hall before retreating into the quiet interior of Oudshoornse Church. At midday, the Castellum Theatre lobby provides a dry sanctuary. The afternoon walk passes De Eendracht windmill, where the rain hitting the canal creates a classic Dutch atmosphere. The day concludes at Zegerplas lake, watching the grey sky reflect on the water's surface."
+          },
+          "stops": [
+            {
+              "name": "Start at Alphen City Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich für den Check-in.",
+                "hu": "Használja a városháza fedett bejárati részét a gyülekezéshez.",
+                "ro": "Folosiți zona acoperită de la intrare pentru a vă organiza traseul.",
+                "en": "Use the covered entrance area to check your map and gear."
+              }
+            },
+            {
+              "name": "Oudshoornse Church",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den stärksten Schauer im historischen Inneren abzuwarten.",
+                "hu": "Tökéletes hely a legnagyobb zápor átvészelésére a történelmi falak között.",
+                "ro": "Locul ideal pentru a aștepta trecerea ploii în interiorul istoric.",
+                "en": "A perfect spot to wait out heavy showers inside the historic nave."
+              }
+            },
+            {
+              "name": "Castellum Theatre",
+              "tip_5lang": {
+                "de": "Das Café im Inneren bietet trockene Sitzplätze mit Blick auf den Kanal.",
+                "hu": "A belső kávézó száraz pihenőhelyet kínál kilátással a csatornára.",
+                "ro": "Cafeneaua interioară oferă locuri uscate cu vedere spre canal.",
+                "en": "The indoor cafe offers dry seating with views of the canal."
+              }
+            },
+            {
+              "name": "Saint Bonifacius Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur von 1886, während es draußen regnet.",
+                "hu": "Csodálja meg az 1886-os építészetet, amíg kint esik.",
+                "ro": "Admirați arhitectura din 1886 în timp ce afară plouă.",
+                "en": "Admire the 1886 architecture while staying dry inside."
+              }
+            },
+            {
+              "name": "De Eendracht Windmill",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Holzwegen rund um die Mühle.",
+                "hu": "Vigyázzon a csúszós fafelületeken a malom környékén.",
+                "ro": "Atenție la suprafețele de lemn alunecoase din jurul morii.",
+                "en": "Be careful on the slippery wooden paths around the mill."
+              }
+            },
+            {
+              "name": "Zegerplas Lake",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind weniger schlammig als die Graspfade.",
+                "hu": "Az aszfaltozott utak kevésbé sárosak, mint a füves ösvények.",
+                "ro": "Potecile asfaltate sunt mai puțin noroioase decât cele cu iarbă.",
+                "en": "The paved paths are less muddy than the grassy trails."
+              }
+            },
+            {
+              "name": "Wet 'n Wild Beach",
+              "tip_5lang": {
+                "de": "Der überdachte Pavillon bietet Schutz und warme Getränke.",
+                "hu": "A fedett pavilon menedéket és meleg italokat kínál.",
+                "ro": "Pavilionul acoperit oferă adăpost și băuturi calde.",
+                "en": "The covered pavilion provides shelter and warm drinks."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Wege am Zegerplas Pfützen bilden können.",
+              "Die Kirchen bieten nicht nur Kultur, sondern auch verlässlichen Schutz vor Wind.",
+              "Im Castellum Theater gibt es kostenloses WLAN zum Umplanen bei Starkregen.",
+              "Ein transparenter Regenschirm ermöglicht bessere Fotos der Windmühle.",
+              "Halten Sie Ausschau nach kleinen Cafés in der Hooftstraat für spontane Pausen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a Zegerplas körüli utakon tócsák alakulhatnak ki.",
+              "A templomok nemcsak kulturális élményt, de szélvédett menedéket is nyújtanak.",
+              "A Castellum Színházban ingyenes a wifi, ha újra kell terveznie az utat esőben.",
+              "Az átlátszó esernyővel jobb fotókat készíthet a malomról a szürke égbolt alatt.",
+              "Keresse a Hooftstraat kis kávézóit, ha hirtelen eleredne az eső."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, drumurile de lângă lac pot avea bălți.",
+              "Bisericile oferă atât cultură, cât și un adăpost sigur împotriva vântului.",
+              "Teatrul Castellum are Wi-Fi gratuit pentru a vă replanifica traseul la nevoie.",
+              "O umbrelă transparentă permite fotografii mai bune ale morii de vânt.",
+              "Căutați cafenelele mici de pe Hooftstraat pentru pauze spontane."
+            ],
+            "en": [
+              "Wear waterproof shoes as paths near Zegerplas can develop large puddles.",
+              "Churches provide not just culture but reliable shelter from the wind.",
+              "Castellum Theatre has free Wi-Fi if you need to replan during heavy rain.",
+              "A transparent umbrella allows for better photos of the windmill.",
+              "Look for small cafes on Hooftstraat for spontaneous dry breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalte Winde vom Rhein prägen den Morgen am Rathaus. Die historischen Kirchen bieten eine willkommene Wärme während der Besichtigung. Mittags wärmt man sich im modernen Theater auf, bevor es zur Eendracht-Mühle geht, die im tiefstehenden Winterlicht imposant wirkt. Der frühe Sonnenuntergang um 16:45 Uhr taucht den Zegerplas in kühle Blautöne, ideal für einen klaren Winterspaziergang.",
+            "hu": "A Rajna felől fújó hideg szél indítja a reggelt a városházánál. A történelmi templomok belső terei kellemes meleget adnak a látogatás alatt. Délben a színház modern épületében melegedhetünk fel, majd a De Eendracht malom következik, amely az alacsony téli napfényben különösen látványos. A korai, 16:45-ös naplemente hűvös kékre festi a Zegerplas vizét.",
+            "ro": "Vânturile reci de pe Rin marchează dimineața la primărie. Bisericile istorice oferă o căldură binevenită în timpul vizitei. La prânz, vă puteți încălzi în teatrul modern înainte de a porni spre moara Eendracht, care arată impunător în lumina joasă a iernii. Apusul devreme, la 16:45, scaldă lacul Zegerplas în nuanțe reci de albastru.",
+            "en": "Cold winds from the Rhine mark the morning by the City Hall. The historic churches offer a welcome warmth during your visit. At midday, warm up in the modern theater before heading to Eendracht mill, which looks imposing in the low winter sun. The early sunset at 16:45 paints the Zegerplas in cool blue tones, ideal for a crisp winter stroll."
+          },
+          "stops": [
+            {
+              "name": "Start at Alphen City Hall",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Granitstufen des Vorplatzes.",
+                "hu": "Vigyázzon a jegesedésre a városháza előtti gránitlépcsőkön.",
+                "ro": "Atenție la gheața de pe treptele de granit din fața primăriei.",
+                "en": "Watch out for icy patches on the granite steps of the plaza."
+              }
+            },
+            {
+              "name": "Oudshoornse Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und die Wärme im beheizten Kirchenschiff.",
+                "hu": "Élvezze a csendet és a meleget a fűtött templomhajóban.",
+                "ro": "Bucurați-vă de liniște și căldură în naosul încălzit.",
+                "en": "Enjoy the silence and the warmth inside the heated nave."
+              }
+            },
+            {
+              "name": "Castellum Theatre",
+              "tip_5lang": {
+                "de": "Perfekt für eine heiße Schokolade mit Blick auf den vereisten Kanal.",
+                "hu": "Tökéletes hely egy forró csokira, kilátással a jeges csatornára.",
+                "ro": "Perfect pentru o ciocolată caldă cu vedere la canalul înghețat.",
+                "en": "Perfect for a hot chocolate with a view of the frozen canal."
+              }
+            },
+            {
+              "name": "Saint Bonifacius Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern schützen gut vor dem eisigen Nordwind.",
+                "hu": "A vastag falak jól védenek a jeges északi szél ellen.",
+                "ro": "Zidurile groase oferă o protecție bună împotriva vântului înghețat.",
+                "en": "The thick walls provide great protection from the icy north wind."
+              }
+            },
+            {
+              "name": "De Eendracht Windmill",
+              "tip_5lang": {
+                "de": "Die Mühle ist im Winter oft wunderschön beleuchtet.",
+                "hu": "A malom télen gyakran gyönyörű díszkivilágítást kap.",
+                "ro": "Moara este adesea iluminată frumos în timpul iernii.",
+                "en": "The mill is often beautifully illuminated during winter evenings."
+              }
+            },
+            {
+              "name": "Zegerplas Lake",
+              "tip_5lang": {
+                "de": "Der Wind am See ist schneidend; tragen Sie eine winddichte Jacke.",
+                "hu": "A szél a tónál metsző lehet, viseljen szélálló kabátot.",
+                "ro": "Vântul de la lac este tăios; purtați o jachetă rezistentă la vânt.",
+                "en": "The wind at the lake is sharp; wear a windproof jacket."
+              }
+            },
+            {
+              "name": "Wet 'n Wild Beach",
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang am See gemütlich von drinnen.",
+                "hu": "Élvezze a tóparti naplementét kényelmesen, a belső térből.",
+                "ro": "Urmăriți apusul de pe malul lacului din confortul interiorului.",
+                "en": "Watch the lakeside sunset comfortably from the indoor area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 16:45 Uhr unter, planen Sie die See-Etappe davor.",
+              "Tragen Sie Thermo-Einlagen in den Schuhen für die Wege zwischen den Kirchen.",
+              "Das Castellum Theater ist ein verlässlicher Aufwärmpunkt in der Stadtmitte.",
+              "Vorsicht bei Brückenüberquerungen, diese frieren zuerst ein.",
+              "Kombinieren Sie den Spaziergang mit einem Besuch auf dem lokalen Wintermarkt."
+            ],
+            "hu": [
+              "A nap 16:45 körül nyugszik, a tavi szakaszt időzítse még világosban.",
+              "Használjon talpmelegítőt a templomok közötti séta alatt.",
+              "A Castellum Színház biztos melegedőpont a városközpontban.",
+              "Legyen óvatos a hidakon, ezek fagynak le a leghamarabb.",
+              "A sétát érdemes a helyi adventi vagy téli vásárral összekötni."
+            ],
+            "ro": [
+              "Soarele apune în jur de 16:45, planificați etapa de la lac înainte.",
+              "Folosiți branțuri termice pentru drumurile dintre biserici.",
+              "Teatrul Castellum este un punct sigur de încălzire în centrul orașului.",
+              "Atenție la traversarea podurilor, acestea îngheață primele.",
+              "Combinați plimbarea cu o vizită la piața locală de iarnă."
+            ],
+            "en": [
+              "Sunset is around 16:45, so plan the lake portion before it gets dark.",
+              "Wear thermal insoles for the walks between the historic churches.",
+              "Castellum Theatre is a reliable warming-up point in the city center.",
+              "Be careful on bridges as they tend to freeze earlier than the roads.",
+              "Combine your walk with a visit to the local winter market if available."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -687,6 +895,232 @@
           "Follow the red cycle paths (fietspaden).",
           "Always lock your bike securely."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt beginnt am Castellum Theater. Entlang des Kanals geht es zur Oudshoornse Kirche, während das Spritzwasser die Fahrt beschleunigt. Der Avifauna Vogelpark bietet mit seinen Tropenhallen eine perfekte trockene Pause. Nachmittags fordern die Böen am Zegerplas heraus, bevor die Route an der historischen Eendracht-Mühle und dem Archeon-Museum endet, wo die alten Pfade im Regen authentisch wirken.",
+            "hu": "Vizes tekerés indul a Castellum Színháztól. A csatorna mentén haladunk az Oudshoornse templom felé, az eső áztatta aszfalton. Az Avifauna madárpark trópusi csarnokai tökéletes száraz pihenőt kínálnak. Délután a Zegerplas melletti széllel küzdünk, majd a túra a De Eendracht malomnál és az Archeonnál zárul, ahol az ókori utak sárban is hitelesek.",
+            "ro": "O cursă umedă începe la Teatrul Castellum. Pedalați de-a lungul canalului spre biserica Oudshoornse pe asfaltul lucios. Parcul de păsări Avifauna oferă o pauză uscată perfectă în serele sale tropicale. După-amiaza, rafalele de la Zegerplas vă pun la încercare, înainte de a încheia la moara Eendracht și Archeon, unde drumurile vechi par autentice în ploaie.",
+            "en": "A wet ride starts at Castellum Theatre. Pedal along the canal towards Oudshoornse Church on the shiny asphalt. Avifauna Bird Park's tropical halls offer a perfect dry break. In the afternoon, gusts at Zegerplas provide a challenge before finishing at Eendracht mill and Archeon, where the ancient paths feel authentic even in the mud."
+          },
+          "stops": [
+            {
+              "name": "Start at Castellum Theatre",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, da der Asphalt hier rutschig sein kann.",
+                "hu": "Ellenőrizze a fékeket, mert az aszfalt itt csúszós lehet.",
+                "ro": "Verificați frânele, asfaltul poate fi alunecos aici.",
+                "en": "Check your brakes as the asphalt here can be slippery when wet."
+              }
+            },
+            {
+              "name": "Oudshoornse Church",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Fedett biciklitárolók találhatók a bejárat közelében.",
+                "ro": "Suporturile de biciclete acoperite sunt aproape de intrare.",
+                "en": "Covered bike racks are located near the entrance."
+              }
+            },
+            {
+              "name": "Steekterlucht",
+              "tip_5lang": {
+                "de": "Vorsicht bei starkem Seitenwind auf diesem offenen Abschnitt.",
+                "hu": "Vigyázzon az erős oldalszélre ezen a nyitott szakaszon.",
+                "ro": "Atenție la vântul lateral puternic pe această secțiune deschisă.",
+                "en": "Watch out for strong crosswinds on this open stretch."
+              }
+            },
+            {
+              "name": "Avifauna Bird Park",
+              "tip_5lang": {
+                "de": "Die Tropenhalle ist der beste Ort, um die Ausrüstung zu trocknen.",
+                "hu": "A trópusi csarnok a legjobb hely a felszerelés megszárítására.",
+                "ro": "Sera tropicală este cel mai bun loc pentru a vă usca echipamentul.",
+                "en": "The tropical hall is the best place to dry off your gear."
+              }
+            },
+            {
+              "name": "Zegerplas Lake",
+              "tip_5lang": {
+                "de": "Meiden Sie die unbefestigten Wege; bleiben Sie auf dem Radweg.",
+                "hu": "Kerülje a földutakat; maradjon a kijelölt kerékpárúton.",
+                "ro": "Evitați drumurile neasfaltate; rămâneți pe pista de biciclete.",
+                "en": "Avoid unpaved tracks; stay on the designated bike path."
+              }
+            },
+            {
+              "name": "De Eendracht Windmill",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Mühlenvordach bei plötzlichem Guss.",
+                "hu": "Rövid megálló a malom eresze alatt hirtelen zápor esetén.",
+                "ro": "Scurt popas sub streașina morii în caz de aversă bruscă.",
+                "en": "Quick stop under the mill's overhang during sudden downpours."
+              }
+            },
+            {
+              "name": "Archeon",
+              "tip_5lang": {
+                "de": "Die rekonstruierten Häuser bieten hervorragenden Schutz.",
+                "hu": "A rekonstruált házak kiváló menedéket nyújtanak az esőben.",
+                "ro": "Casele reconstruite oferă un adăpost excelent împotriva ploii.",
+                "en": "The reconstructed historical houses provide excellent shelter."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Heiße Getränke warten in den Cafés am Marktplatz.",
+                "hu": "Forró italok várják a piactér kávézóiban.",
+                "ro": "Băuturi calde vă așteaptă în cafenelele din piața centrală.",
+                "en": "Hot drinks await in the cafes around the market square."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist für die offene Zegerplas-Runde nötig.",
+              "Schutzbleche am Fahrrad sind essenziell gegen den Schlamm am Archeon.",
+              "Planen Sie mehr Zeit für Bremsmanöver auf nassem Kopfsteinpflaster ein.",
+              "Die Avifauna-Sere ist ein idealer Stopp, um Körper und Kleidung aufzuwärmen.",
+              "Verwenden Sie wasserdichte Packtaschen für Ihre Kamera und Wertsachen."
+            ],
+            "hu": [
+              "Teljes esőruházat szükséges a nyitott Zegerplas körhöz.",
+              "A sárvédő elengedhetetlen az Archeon körüli sáros szakaszokon.",
+              "Hagyjon több időt a fékezésre a nedves macskaköves utakon.",
+              "Az Avifauna seregháza ideális megálló a test és a ruha felmelegítésére.",
+              "Használjon vízálló táskákat a fényképezőgép és az értékek számára."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este necesar pentru tura de la Zegerplas.",
+              "Aripile la bicicletă sunt esențiale împotriva noroiului de la Archeon.",
+              "Alocați mai mult timp pentru frânare pe pavajul umed.",
+              "Serele de la Avifauna sunt ideale pentru a vă încălzi corpul și hainele.",
+              "Folosiți genți impermeabile pentru aparatul foto și obiectele de valoare."
+            ],
+            "en": [
+              "Full waterproof gear is mandatory for the open Zegerplas loop.",
+              "Mudguards are essential against the splashes near Archeon.",
+              "Allow extra time for braking on wet cobblestones in the center.",
+              "The Avifauna tropical house is a great spot to warm up and dry off.",
+              "Use waterproof panniers for your camera and valuables."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalt und klar beginnt die Radtour am Theater. Der Weg entlang des Rin-Kanals erfordert warme Handschuhe gegen den Fahrtwind. Im Avifauna Park bieten die beheizten Hallen eine Pause von der Kälte. Nachmittags glitzert der Frost auf den Feldern bei Steekterlucht. Die Tour endet am Archeon, wo man die Winterfestigkeit unserer Vorfahren nachempfinden kann, bevor es im Dunkeln zurück ins Zentrum geht.",
+            "hu": "Hideg és tiszta időben indul a túra a színháztól. A csatorna menti út meleg kesztyűt igényel a menetszél ellen. Az Avifauna park fűtött pavilonjai menedéket adnak a fagy elől. Délután a dér csillog a Steekterlucht melletti mezőkön. A túra az Archeonban zárul, ahol átérezhetjük őseink télállóságát, mielőtt sötétben visszatekernénk a központba.",
+            "ro": "Turul începe la teatru într-o zi rece și senină. Drumul de-a lungul canalului Rin necesită mănuși groase împotriva vântului. În parcul Avifauna, pavilioanele încălzite oferă o pauză de la ger. După-amiaza, chiciura strălucește pe câmpurile de la Steekterlucht. Turul se încheie la Archeon, unde puteți vedea cum rezistau strămoșii iernii.",
+            "en": "The tour starts at the theater on a cold, clear day. The path along the Rhine canal requires warm gloves against the wind chill. At Avifauna, heated halls provide a break from the frost. In the afternoon, hoarfrost glitters on the fields near Steekterlucht. The tour ends at Archeon, showcasing how ancestors survived winter, before returning to the center in the dark."
+          },
+          "stops": [
+            {
+              "name": "Start at Castellum Theatre",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; kalte Luft verringert ihn.",
+                "hu": "Ellenőrizze a guminyomást; a hideg levegő csökkenti azt.",
+                "ro": "Verificați presiunea în pneuri; aerul rece o reduce.",
+                "en": "Check your tire pressure as cold air can lower it significantly."
+              }
+            },
+            {
+              "name": "Oudshoornse Church",
+              "tip_5lang": {
+                "de": "Kurzes Aufwärmen in der Kirche ist sehr empfehlenswert.",
+                "hu": "Egy rövid felmelegedés a templomban kifejezetten ajánlott.",
+                "ro": "O scurtă încălzire în biserică este foarte recomandată.",
+                "en": "A quick warm-up inside the church is highly recommended."
+              }
+            },
+            {
+              "name": "Steekterlucht",
+              "tip_5lang": {
+                "de": "Bei Minusgraden können die Brückengelenke hier glatt sein.",
+                "hu": "Fagypont alatt a hidak illesztései itt csúszósak lehetnek.",
+                "ro": "La temperaturi negative, îmbinările podurilor pot fi alunecoase.",
+                "en": "At freezing temperatures, bridge joints here can be very icy."
+              }
+            },
+            {
+              "name": "Avifauna Bird Park",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Madagaskar-Halle für konstante Wärme.",
+                "hu": "Látogassa meg a Madagaszkár-házat az állandó melegért.",
+                "ro": "Vizitați hala Madagascar pentru o căldură constantă.",
+                "en": "Visit the Madagascar hall for consistent tropical warmth."
+              }
+            },
+            {
+              "name": "Zegerplas Lake",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Spritzwasser auf dem Radweg.",
+                "hu": "Vigyázzon a kerékpárúton megfagyott vízfoltokra.",
+                "ro": "Atenție la porțiunile de gheață formate pe pista de biciclete.",
+                "en": "Watch out for frozen puddles on the cycle path."
+              }
+            },
+            {
+              "name": "De Eendracht Windmill",
+              "tip_5lang": {
+                "de": "Die Mühlenflügel wirken bei Frost besonders imposant.",
+                "hu": "A malomvitorlák zúzmarásan különösen lenyűgözőek.",
+                "ro": "Paletele morii par deosebit de impunătoare când sunt înghețate.",
+                "en": "The mill blades look particularly imposing when covered in frost."
+              }
+            },
+            {
+              "name": "Archeon",
+              "tip_5lang": {
+                "de": "Oft gibt es Winterfeuer in den mittelalterlichen Häusern.",
+                "hu": "A középkori házakban gyakran téli tűz mellett lehet melegedni.",
+                "ro": "Deseori există focuri de iarnă în casele medievale.",
+                "en": "Medieval houses often feature winter fires for warmth."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf funktionierende Lichter für die Rückfahrt.",
+                "hu": "Ügyeljen a működő lámpákra a sötétedés utáni visszatéréshez.",
+                "ro": "Asigurați-vă că luminile funcționează pentru drumul de întoarcere.",
+                "en": "Ensure your bike lights are working for the return trip in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung schützt vor dem beißenden Wind am Kanal.",
+              "Benutzen Sie Lippenbalsam und Fettcreme gegen die kalte Winterluft.",
+              "Die Sonne verschwindet früh, daher ist gute Beleuchtung am Rad Pflicht.",
+              "Halten Sie die Kette gut geölt, um Salzkorrosion vorzubeugen.",
+              "In Avifauna können Sie die Handschuhe auf den Heizkörpern kurz anwärmen."
+            ],
+            "hu": [
+              "A réteges öltözködés véd meg a csatorna menti metsző széltől.",
+              "Használjon ajakírt és zsíros krémet a hideg téli levegő ellen.",
+              "A nap korán nyugszik, ezért a jó világítás kötelező a biciklin.",
+              "Tartsa a láncot jól olajozottan a sószórás okozta korrózió ellen.",
+              "Az Avifaunában a radiátorokon rövid időre átmelegítheti a kesztyűjét."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi vă protejează de vântul tăios de pe canal.",
+              "Folosiți balsam de buze și cremă grasă împotriva aerului rece de iarnă.",
+              "Soarele apune devreme, deci iluminarea bună a bicicletei este obligatorie.",
+              "Păstrați lanțul bine uns pentru a preveni coroziunea de la sare.",
+              "În Avifauna puteți încălzi mănușile pe calorifere pentru scurt timp."
+            ],
+            "en": [
+              "Layering is key to protecting yourself from the biting wind along the canal.",
+              "Use lip balm and barrier cream against the harsh winter air.",
+              "Sunset is early; functional front and rear lights are a legal requirement.",
+              "Keep your bike chain well-oiled to prevent corrosion from road salt.",
+              "In Avifauna, you can briefly warm your gloves on the radiators."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1031,6 +1465,214 @@
           "Be mindful of the many cyclists, especially in the city.",
           "Paid parking is the norm in the center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie trocken am Archeon-Museum, das bei Regen eine mystische Atmosphäre ausstrahlt. Weiter geht es zum Avifauna Park, wo die überdachten Bereiche ideal für Regentage sind. Mittags parken Sie bequem im Zentrum für ein warmes Mittagessen. Die Route führt danach zur Eendracht-Mühle und zum Zegerplas, den man wunderbar aus dem warmen Auto oder vom geschützten Uferpavillon beobachten kann.",
+            "hu": "Kezdje a napot szárazon az Archeon Múzeumban, amely esőben misztikus hangulatot áraszt. Folytassa az Avifauna parkkal, ahol a fedett részek ideálisak esős napokra. Délben kényelmesen parkolhat a központban egy meleg ebédhez. Az út a De Eendracht malomhoz és a Zegerplas-hoz vezet, amelyet a meleg autóból vagy a védett parti pavilonból is megcsodálhat.",
+            "ro": "Începeți ziua la adăpost în Muzeul Archeon, care are o atmosferă mistică pe ploaie. Continuați spre Parcul Avifauna, unde zonele acoperite sunt ideale pentru zilele ploioase. La prânz, parcați confortabil în centru pentru o masă caldă. Traseul duce apoi la moara Eendracht și lacul Zegerplas, care pot fi admirate din mașina caldă.",
+            "en": "Start dry at Archeon Museum, which has a mystical atmosphere in the rain. Continue to Avifauna Park, where covered sections are ideal for rainy days. At midday, park conveniently in the center for a warm lunch. The route then leads to Eendracht mill and Zegerplas lake, which can be viewed from the warmth of your car or the sheltered pavilion."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Archeon Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz direkt am Eingangsbereich.",
+                "hu": "Használja a közvetlenül a bejáratnál lévő tágas parkolót.",
+                "ro": "Folosiți parcarea mare situată chiar lângă intrare.",
+                "en": "Utilize the large parking lot located right at the entrance."
+              }
+            },
+            {
+              "name": "Avifauna Bird Park",
+              "tip_5lang": {
+                "de": "Das Parkhaus im Zentrum ist nur wenige Fahrminuten entfernt.",
+                "hu": "A központi parkolóház mindössze néhány perc autóútra van.",
+                "ro": "Parcarea supraetajată din centru este la doar câteva minute de mers.",
+                "en": "The central multi-story parking is just a few minutes' drive away."
+              }
+            },
+            {
+              "name": "Cluster 2: Center & Lunch",
+              "tip_5lang": {
+                "de": "Parken Sie im 'Castellum'-Parkhaus für direkten Zugang zu den Cafés.",
+                "hu": "Parkoljon a 'Castellum' parkolóházban a kávézók közvetlen eléréséhez.",
+                "ro": "Parcați în parcarea 'Castellum' pentru acces direct la cafenele.",
+                "en": "Park in the 'Castellum' garage for direct indoor access to nearby cafes."
+              }
+            },
+            {
+              "name": "Oudshoornse Church",
+              "tip_5lang": {
+                "de": "Kurzparkzonen entlang des Kanals sind oft frei bei Regen.",
+                "hu": "A csatorna menti rövid távú parkolók esőben gyakran üresek.",
+                "ro": "Zonele de parcare scurtă de-a lungul canalului sunt adesea libere.",
+                "en": "Short-term parking zones along the canal are often available in the rain."
+              }
+            },
+            {
+              "name": "De Eendracht Windmill",
+              "tip_5lang": {
+                "de": "Vom Parkstreifen aus haben Sie einen tollen Fotoblick ohne nass zu werden.",
+                "hu": "A parkolósávból remek fotókat készíthet anélkül, hogy megázna.",
+                "ro": "Din banda de parcare aveți o vedere excelentă pentru poze fără a vă uda.",
+                "en": "The parking strip offers a great photo opportunity without getting wet."
+              }
+            },
+            {
+              "name": "Cluster 3: Zegerplas Relaxation",
+              "tip_5lang": {
+                "de": "Fahren Sie zum Parkplatz am 'Wet 'n Wild' für kurzen Laufweg.",
+                "hu": "Hajtson a 'Wet 'n Wild' melletti parkolóba a rövid sétaút érdekében.",
+                "ro": "Mergeți spre parcarea de la 'Wet 'n Wild' pentru un drum scurt pe jos.",
+                "en": "Drive to the 'Wet 'n Wild' parking lot for the shortest walk to shelter."
+              }
+            },
+            {
+              "name": "Wet 'n Wild Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Regen über dem See vom Fensterplatz.",
+                "hu": "Élvezze az eső látványát a tó felett az ablak melletti asztaltól.",
+                "ro": "Bucurați-vă de vederea ploii peste lac de la un loc la fereastră.",
+                "en": "Enjoy the view of the rain over the lake from a window seat."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie einen Regenschirm im Auto für die kurzen Wege zum Eingang.",
+              "Nutzen Sie die Parkhäuser 'Castellum' oder 'Aarkade' für trockene Ausstiege.",
+              "Bei Starkregen kann die Sicht auf der N207 eingeschränkt sein.",
+              "Das Archeon bietet bei Regen viele Indoor-Aktivitäten in den Haupthallen.",
+              "Die Windmühle lässt sich gut vom Auto aus am Straßenrand fotografieren."
+            ],
+            "hu": [
+              "Tartson esernyőt az autóban a bejáratokig tartó rövid sétákhoz.",
+              "Használja a 'Castellum' vagy 'Aarkade' parkolóházakat a száraz kiszálláshoz.",
+              "Heves esőzéskor a látási viszonyok korlátozottak lehetnek az N207-es úton.",
+              "Az Archeon esőben is sok beltéri programot kínál a főcsarnokokban.",
+              "A szélmalom jól fotózható az út szélén várakozva az autóból."
+            ],
+            "ro": [
+              "Țineți o umbrelă în mașină pentru drumurile scurte până la intrări.",
+              "Folosiți parcările 'Castellum' sau 'Aarkade' pentru a coborî la adăpost.",
+              "În caz de ploaie torențială, vizibilitatea pe N207 poate fi redusă.",
+              "Archeon oferă multe activități de interior în halele principale pe ploaie.",
+              "Moara de vânt poate fi fotografiată ușor din mașină, de pe marginea drumului."
+            ],
+            "en": [
+              "Keep an umbrella in the car for the short walks to the attractions.",
+              "Use the 'Castellum' or 'Aarkade' parking garages to stay dry while exiting.",
+              "Visibility on the N207 can be limited during heavy Dutch downpours.",
+              "Archeon offers many indoor activities in its main halls during rain.",
+              "The windmill is easily photographed from the roadside while in your car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein gemütlicher Wintertag beginnt im Archeon, wo oft Feuer in den Rekonstruktionen brennen. Der Avifauna Park bietet mit seinen beheizten Tierhäusern eine warme Zuflucht. Mittags ist das Zentrum von Alphen festlich beleuchtet. Nach einem kurzen Stopp an der Eendracht-Mühle endet der Tag am Zegerplas, wo man im Auto sitzend den Sonnenuntergang über dem oft nebligen See genießen kann.",
+            "hu": "Kellemes téli nap indul az Archeonban, ahol gyakran lobog a tűz a rekonstruált házakban. Az Avifauna park fűtött állatházai meleg menedéket nyújtanak. Délben Alphen központja ünnepi fényekben úszik. A De Eendracht malomnál tett rövid megálló után a nap a Zegerplas-nál zárul, ahol az autóból nézhetjük a ködös tó feletti naplementét.",
+            "ro": "O zi de iarnă relaxantă începe la Archeon, unde adesea ard focuri în casele reconstruite. Parcul Avifauna oferă refugiu cald în pavilioanele sale încălzite. La prânz, centrul orașului Alphen este iluminat festiv. După o scurtă oprire la moara Eendracht, ziua se încheie la Zegerplas, admirând apusul peste lacul cețos din mașină.",
+            "en": "A cozy winter day starts at Archeon, where fires often burn in the reconstructed houses. Avifauna Park offers warm refuge in its heated animal houses. At midday, Alphen center is festively lit. After a quick stop at Eendracht mill, the day ends at Zegerplas, watching the sunset over the often misty lake from your car."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Archeon Museum",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Tauwasser auf dem Parkplatz am Morgen.",
+                "hu": "Vigyázzon a reggeli fagyott páralecsapódásra a parkolóban.",
+                "ro": "Atenție la condensul înghețat din parcare dimineața.",
+                "en": "Watch out for frozen condensation in the parking lot in the morning."
+              }
+            },
+            {
+              "name": "Avifauna Bird Park",
+              "tip_5lang": {
+                "de": "Die Sitzheizung nach dem Rundgang im Freien ist ein Segen.",
+                "hu": "Az ülésfűtés a szabadtéri körút után igazi áldás.",
+                "ro": "Încălzirea în scaune după turul în aer liber este o binecuvântare.",
+                "en": "Seat heating after the outdoor tour is a true blessing."
+              }
+            },
+            {
+              "name": "Cluster 2: Center & Lunch",
+              "tip_5lang": {
+                "de": "Im Winter sind die Parkhäuser angenehmer als Parkplätze am Kanal.",
+                "hu": "Télen a parkolóházak kellemesebbek, mint a csatorna menti helyek.",
+                "ro": "Iarna, parcările etajate sunt mai plăcute decât cele de pe canal.",
+                "en": "In winter, parking garages are more comfortable than canal-side spots."
+              }
+            },
+            {
+              "name": "Oudshoornse Church",
+              "tip_5lang": {
+                "de": "Das warme Licht der Kirche wirkt im Winter besonders einladend.",
+                "hu": "A templom meleg fényei télen különösen hívogatóak.",
+                "ro": "Lumina caldă a bisericii pare deosebit de primitoare iarna.",
+                "en": "The warm interior light of the church is very inviting in winter."
+              }
+            },
+            {
+              "name": "De Eendracht Windmill",
+              "tip_5lang": {
+                "de": "Perfekter Stopp für ein schnelles Winterfoto aus dem Fenster.",
+                "hu": "Tökéletes megálló egy gyors téli fotóhoz az ablakból.",
+                "ro": "Oprire perfectă pentru o poză rapidă de iarnă de la fereastră.",
+                "en": "Perfect stop for a quick winter photo from your car window."
+              }
+            },
+            {
+              "name": "Cluster 3: Zegerplas Relaxation",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den frostigen See mit eingeschalteter Heizung.",
+                "hu": "Élvezze a fagyos tó látványát bekapcsolt fűtés mellett.",
+                "ro": "Bucurați-vă de vederea lacului înghețat cu încălzirea pornită.",
+                "en": "Enjoy the view of the frosty lake with the car heater on."
+              }
+            },
+            {
+              "name": "Wet 'n Wild Beach",
+              "tip_5lang": {
+                "de": "Die Beleuchtung am Ufer sorgt für eine stimmungsvolle Dämmerung.",
+                "hu": "A parti világítás hangulatossá teszi a szürkületet.",
+                "ro": "Iluminatul de pe mal creează un amurg plin de atmosferă.",
+                "en": "The lakeside lighting makes for an atmospheric dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Wischwasser Frostschutzmittel enthält.",
+              "Die Parkhäuser im Zentrum bieten Schutz vor dem kalten Wind.",
+              "Planen Sie die Rückfahrt vor 17:00 Uhr, um im Hellen zu parken.",
+              "Im Archeon sind die historischen Kamine im Winter oft befeuert.",
+              "Eiskratzer und Handschuhe sollten griffbereit im Auto liegen."
+            ],
+            "hu": [
+              "Ellenőrizze, hogy a szélvédőmosó folyadék fagyálló-e.",
+              "A központi parkolóházak védelmet nyújtanak a hideg szél ellen.",
+              "Tervezze a visszautat 17:00 előtt, hogy még világosban parkolhasson.",
+              "Az Archeonban a történelmi kandallókban télen gyakran gyújtanak tüzet.",
+              "A jégkaparó és a kesztyű legyen mindig kéznél az autóban."
+            ],
+            "ro": [
+              "Asigurați-vă că lichidul de parbriz conține antigel.",
+              "Parcările etajate din centru oferă protecție împotriva vântului rece.",
+              "Planificați drumul de întoarcere înainte de 17:00 pentru a parca pe lumină.",
+              "La Archeon, șemineele istorice sunt adesea aprinse iarna.",
+              "Răzuitoarea de gheață și mănușile trebuie să fie la îndemână în mașină."
+            ],
+            "en": [
+              "Ensure your windshield washer fluid contains antifreeze.",
+              "Central parking garages provide great protection from the cold wind.",
+              "Plan your return before 17:00 to park while it's still light out.",
+              "At Archeon, historic fireplaces are often lit during the winter season.",
+              "Keep an ice scraper and gloves easily accessible in your vehicle."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1367,6 +2009,196 @@
           "Buses don't always stop automatically, signal the driver.",
           "Plan for buffer time for waiting."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit dem Bus Richtung Avifauna, wo die Hallen Schutz vor dem Regen bieten. Weiter geht es zum Archeon, dessen Haupthaus trockene Ausstellungen bereithält. Mittags führt die Fahrt zurück ins Zentrum, wo die überdachten Einkaufsstraßen und Cafés warten. Den Abend verbringen Sie am Zegerplas, bequem erreichbar mit dem Bus, der Sie fast bis vor die Tür des Uferpavillons bringt.",
+            "hu": "A nap busszal indul az Avifauna felé, ahol a csarnokok védelmet nyújtanak az eső ellen. Folytassa az Archeonnal, amelynek főépülete száraz kiállításokat kínál. Délben utazzon vissza a központba, ahol fedett bevásárlóutcák és kávézók várják. Az estét a Zegerplas-nál töltheti, amely busszal kényelmesen elérhető, szinte a parti pavilon ajtajáig szállítva Önt.",
+            "ro": "Ziua începe cu autobuzul spre Avifauna, unde halele oferă protecție împotriva ploii. Continuați spre Archeon, a cărui clădire principală găzduiește expoziții uscate. La prânz, mergeți în centru, unde vă așteaptă străzi comerciale acoperite și cafenele. Seara o petreceți la Zegerplas, accesibil ușor cu autobuzul până aproape de pavilion.",
+            "en": "The day starts with a bus to Avifauna, where the halls provide shelter from the rain. Continue to Archeon, whose main building hosts dry exhibitions. At midday, head back to the center where covered shopping streets and cafes await. Spend the evening at Zegerplas, easily reachable by bus, dropping you off almost at the door of the lakeside pavilion."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Avifauna & Archeon",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle 'Avifauna' verfügt über ein schützendes Wartehäuschen.",
+                "hu": "Az 'Avifauna' buszmegálló fedett váróval rendelkezik.",
+                "ro": "Stația de autobuz 'Avifauna' are un adăpost protector.",
+                "en": "The 'Avifauna' bus stop features a protective shelter."
+              }
+            },
+            {
+              "name": "Archeon",
+              "tip_5lang": {
+                "de": "Ein 10-minütiger Fußweg von der Haltestelle; Schirm bereithalten.",
+                "hu": "10 perc séta a megállótól; tartsa készenlétben az esernyőt.",
+                "ro": "O plimbare de 10 minute de la stație; țineți umbrela la îndemână.",
+                "en": "A 10-minute walk from the stop; have your umbrella ready."
+              }
+            },
+            {
+              "name": "Cluster 2: City Center",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Centrum' liegt direkt bei den überdachten Passagen.",
+                "hu": "A 'Centrum' megálló közvetlenül a fedett passzázsoknál található.",
+                "ro": "Stația 'Centrum' este chiar lângă pasajele acoperite.",
+                "en": "The 'Centrum' stop is located right by the covered shopping passages."
+              }
+            },
+            {
+              "name": "Oudshoornse Church",
+              "tip_5lang": {
+                "de": "Busse verkehren regelmäßig entlang des Rin-Kanals.",
+                "hu": "A buszok rendszeresen járnak a Rajna-csatorna mentén.",
+                "ro": "Autobuzele circulă regulat de-a lungul canalului Rin.",
+                "en": "Buses run regularly along the Rhine canal route."
+              }
+            },
+            {
+              "name": "Saint Bonifacius Church",
+              "tip_5lang": {
+                "de": "Kurzer Sprint von der Haltestelle zum Kircheneingang.",
+                "hu": "Rövid sprint a megállótól a templom bejáratáig.",
+                "ro": "Sprint scurt de la stație până la intrarea în biserică.",
+                "en": "Short sprint from the bus stop to the church entrance."
+              }
+            },
+            {
+              "name": "Cluster 3: Zegerplas in the Evening",
+              "tip_5lang": {
+                "de": "Die Linie 169 bringt Sie direkt in die Nähe des Sees.",
+                "hu": "A 169-es járat közvetlenül a tó közelébe viszi Önt.",
+                "ro": "Linia 169 vă duce direct în apropierea lacului.",
+                "en": "Bus line 169 takes you directly near the lake area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App '9292' für Echtzeit-Infos bei wetterbedingten Verspätungen.",
+              "Die meisten Bushaltestellen in Alphen sind überdacht und windgeschützt.",
+              "Das Archeon ist von der Haltestelle 'Alphen, Archeon' ein kurzer Fußweg.",
+              "Im Bus ist es warm, ideal zum Trocknen der Kleidung zwischen den Stopps.",
+              "Zahlen Sie kontaktlos mit Ihrer Bankkarte (OV-pay) für maximale Flexibilität."
+            ],
+            "hu": [
+              "Használja a '9292' alkalmazást a valós idejű infókért eső esetén.",
+              "Alphen legtöbb buszmegállója fedett és szélvédett.",
+              "Az Archeon az 'Alphen, Archeon' megállótól egy rövid séta.",
+              "A buszokon meleg van, ideális a ruhák szárítására a megállók között.",
+              "Fizessen érintésmentesen bankkártyával (OV-pay) a rugalmasságért."
+            ],
+            "ro": [
+              "Folosiți aplicația '9292' pentru informații în timp real în caz de ploaie.",
+              "Majoritatea stațiilor de autobuz din Alphen sunt acoperite.",
+              "Archeon este la o scurtă plimbare de stația 'Alphen, Archeon'.",
+              "În autobuz este cald, ideal pentru a vă usca hainele între opriri.",
+              "Plătiți contactless cu cardul bancar (OV-pay) pentru flexibilitate maximă."
+            ],
+            "en": [
+              "Use the '9292' app for real-time updates during heavy rain delays.",
+              "Most bus stops in Alphen are covered and offer protection from the wind.",
+              "Archeon is a short walk from the 'Alphen, Archeon' bus stop.",
+              "Buses are well-heated, perfect for drying off between attractions.",
+              "Pay contactless with your debit card (OV-pay) for maximum convenience."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem beheizten Bus geht es morgens zum Avifauna Park. Die Winteratmosphäre im Archeon erleben Sie am besten am Nachmittag, bevor die Dämmerung einsetzt. Mittags bietet das Zentrum warme Gastronomie direkt an den Bushaltestellen. Der Tag endet am Zegerplas, wo der See im fahlen Winterlicht glänzt, bevor Sie der Abendbus zurück zum hell erleuchteten Bahnhof bringt.",
+            "hu": "Fűtött busszal indulunk reggel az Avifauna parkba. Az Archeon téli hangulatát legjobb délután átélni, mielőtt leszáll az alkony. Délben a központ meleg vendéglátóhelyei várják, közvetlenül a buszmegállók mellett. A nap a Zegerplas-nál zárul, ahol a tó a téli fényben csillog, majd az esti busz visszaviszi a kivilágított pályaudvarra.",
+            "ro": "Mergeți cu autobuzul încălzit dimineața spre Parcul Avifauna. Atmosfera de iarnă de la Archeon este cel mai bine resimțită după-amiaza. La prânz, centrul oferă opțiuni gastronomice calde chiar lângă stațiile de autobuz. Ziua se încheie la Zegerplas, unde lacul strălucește în lumina iernii, înainte ca autobuzul să vă ducă înapoi.",
+            "en": "Take a heated bus in the morning to Avifauna Park. Experience Archeon's winter atmosphere in the afternoon before dusk sets in. At midday, the center offers warm dining options right next to the bus stops. The day ends at Zegerplas, where the lake shimmers in the pale winter light before the evening bus takes you back to the station."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Avifauna & Archeon",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt durch das winterliche Alphen im warmen Bus.",
+                "hu": "Élvezze az utazást a téli Alphenen át a meleg buszból.",
+                "ro": "Bucurați-vă de drumul prin Alphen-ul de iarnă în autobuzul cald.",
+                "en": "Enjoy the ride through wintry Alphen from the comfort of a heated bus."
+              }
+            },
+            {
+              "name": "Archeon",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch hier vor 16:30 Uhr wegen der Dunkelheit.",
+                "hu": "Tervezze a látogatást 16:30 előtt a sötétedés miatt.",
+                "ro": "Planificați vizita înainte de 16:30 din cauza întunericului.",
+                "en": "Plan your visit here before 16:30 to avoid the early darkness."
+              }
+            },
+            {
+              "name": "Cluster 2: City Center",
+              "tip_5lang": {
+                "de": "Die beleuchteten Schaufenster im Zentrum sind im Winter herrlich.",
+                "hu": "A kivilágított kirakatok a központban télen gyönyörűek.",
+                "ro": "Vitrinele iluminate din centru sunt superbe iarna.",
+                "en": "The illuminated shop windows in the center are lovely in winter."
+              }
+            },
+            {
+              "name": "Oudshoornse Church",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Schritte vom Eingang entfernt.",
+                "hu": "A megálló mindössze néhány lépésre van a bejárattól.",
+                "ro": "Stația este la doar câțiva pași de intrare.",
+                "en": "The bus stop is just a few steps away from the church entrance."
+              }
+            },
+            {
+              "name": "Saint Bonifacius Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Aufenthalt im Inneren wärmt Sie für die Weiterreise auf.",
+                "hu": "Egy rövid benti tartózkodás felmelegíti a továbbutazáshoz.",
+                "ro": "O scurtă oprire în interior vă va încălzi pentru restul călătoriei.",
+                "en": "A short stay inside will warm you up for the next leg of the trip."
+              }
+            },
+            {
+              "name": "Cluster 3: Zegerplas in the Evening",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Fahrpläne, die abends seltener sein können.",
+                "hu": "Ügyeljen a menetrendre, este ritkábban járhatnak a buszok.",
+                "ro": "Verificați orarul, autobuzele pot fi mai rare seara.",
+                "en": "Check the schedule as buses may run less frequently in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Bahnhof Alphen aan den Rijn bietet beheizte Wartebereiche.",
+              "Busse sind im Winter das zuverlässigste Mittel gegen den Windchill.",
+              "Die 9292-App zeigt auch Verspätungen durch Glätte oder Schnee an.",
+              "Nutzen Sie die kurzen Wege zwischen Haltestelle und Museumseingängen.",
+              "Die Abendbeleuchtung am Kanal ist vom Bus aus besonders fotogen."
+            ],
+            "hu": [
+              "Alphen aan den Rijn pályaudvara fűtött várótermekkel rendelkezik.",
+              "A buszok télen a legmegbízhatóbbak a metsző szél ellen.",
+              "A 9292 app jelzi a csúszós utak vagy hó miatti késéseket is.",
+              "Használja ki a megállók és a múzeumi bejáratok közötti rövid távolságot.",
+              "A csatorna menti esti fények a buszból nézve különösen fotogének."
+            ],
+            "ro": [
+              "Gara Alphen aan den Rijn are zone de așteptare încălzite.",
+              "Autobuzele sunt cea mai sigură metodă de a evita frigul iarna.",
+              "Aplicația 9292 arată și întârzierile cauzate de polei sau zăpadă.",
+              "Profitați de distanțele scurte între stații și intrările muzeelor.",
+              "Iluminatul de seară de pe canal este foarte fotogen din autobuz."
+            ],
+            "en": [
+              "Alphen aan den Rijn station features heated waiting areas.",
+              "Buses are the most reliable way to escape the wind chill in winter.",
+              "The 9292 app displays delays caused by icy roads or snow.",
+              "Take advantage of the short walking distances between stops and entrances.",
+              "The evening canal lights are particularly photogenic from the bus window."
+            ]
+          }
+        }
       }
     }
   }

@@ -362,6 +362,188 @@
           "Plan for breaks in the shade to avoid the midday sun.",
           "Enjoy a leisurely coffee at one of the many cafes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mesa Geitonia bei Regen bietet charmante Zufluchtsorte. Beginnen Sie am Rathaus unter den Arkaden. Der Mittag gehört der Kirche und dem Kulturzentrum, wo Sie trocken bleiben. Nachmittags durch den Park eilen und den Tag in einem gemütlichen Café an der Griva Digeni Avenue bei einem heißen zypriotischen Kaffee ausklingen lassen, während es draußen stürmt.",
+            "hu": "Mesa Geitonia esőben is tartogat menedéket. Kezdjen a városháza védett bejáratánál. Délben az Agios Eleftherios templom és a Kulturális Központ nyújt száraz pihenőt. Egy gyors parkbéli séta után az Avenue kávéházaiban melegedhetünk fel, figyelve az üvegen lefolyó esőcseppeket és a város lüktetését.",
+            "ro": "Mesa Geitonia pe ploaie oferă refugii primitoare. Începeți la primărie, folosind zonele acoperite. La prânz, biserica și Centrul Cultural vă feresc de umezeală. După o scurtă trecere prin parc, încheiați ziua pe Griva Digeni Avenue, savurând o băutură caldă într-o cafenea în timp ce urmăriți ploaia de afară.",
+            "en": "Mesa Geitonia in the rain offers cozy escapes. Start at the Town Hall’s sheltered areas. Midday belongs to the Church and Cultural Center, providing dry havens. After a quick dash through the park, end your day at a cafe on Griva Digeni Avenue, watching the raindrops while enjoying a warm Cypriot coffee."
+          },
+          "stops": [
+            {
+              "name": "Mesa Geitonia Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich als Regenschutz.",
+                "hu": "Használja a fedett bejárati részt az eső elleni védekezéshez.",
+                "ro": "Folosiți zona de intrare acoperită pentru protecție împotriva ploii.",
+                "en": "Use the sheltered entrance area for rain protection."
+              }
+            },
+            {
+              "name": "Agios Eleftherios Church",
+              "tip_5lang": {
+                "de": "Ein perfekter, trockener Ort für Besinnung und Architektur.",
+                "hu": "Tökéletes, száraz hely az elmélyüléshez és az építészethez.",
+                "ro": "Un loc uscat perfect pentru contemplare și arhitectură.",
+                "en": "A perfect, dry place for contemplation and architecture."
+              }
+            },
+            {
+              "name": "Monument of the Fallen",
+              "tip_5lang": {
+                "de": "Schnelles Foto machen, da es hier kaum Unterstand gibt.",
+                "hu": "Gyors fotó, mivel itt kevés a fedett rész.",
+                "ro": "Faceți o poză rapidă, deoarece există puțin adăpost aici.",
+                "en": "Quick photo as there is little shelter here."
+              }
+            },
+            {
+              "name": "Cultural Center",
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt, um den Regen auszusitzen.",
+                "hu": "Hosszabbítsa meg az itt töltött időt, amíg eláll az eső.",
+                "ro": "Prelungiți vizita aici pentru a aștepta oprirea ploii.",
+                "en": "Extend your stay here to wait out the rain."
+              }
+            },
+            {
+              "name": "Mesa Geitonia Municipal Park",
+              "tip_5lang": {
+                "de": "Die Wege können rutschig sein; bleiben Sie auf den befestigten Pfaden.",
+                "hu": "Az utak csúszósak lehetnek; maradjon a szilárd burkolaton.",
+                "ro": "Potecile pot fi alunecoase; rămâneți pe traseele pavate.",
+                "en": "Paths can be slippery; stay on the paved walkways."
+              }
+            },
+            {
+              "name": "Griva Digeni Avenue",
+              "tip_5lang": {
+                "de": "Zahlreiche Cafés bieten trockene Plätze zum Aufwärmen.",
+                "hu": "Számos kávézó kínál száraz helyet a felmelegedéshez.",
+                "ro": "Numeroase cafenele oferă locuri uscate pentru relaxare.",
+                "en": "Numerous cafes offer dry spots to warm up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei Küstenwinden unerlässlich.",
+              "Tragen Sie wasserfeste Schuhe für die flachen Pfützen im Park.",
+              "Das Kulturzentrum ist der beste Ort für eine lange Regenpause.",
+              "Cafés an der Avenue haben oft überdachte Außenbereiche mit Heizung."
+            ],
+            "hu": [
+              "A tengerparti szél miatt egy erős esernyő elengedhetetlen.",
+              "Viseljen vízálló cipőt a parkban kialakuló tócsák miatt.",
+              "A Kulturális Központ a legjobb hely egy hosszú esőszünethez.",
+              "Az Avenue kávézói gyakran fűtött, fedett terasszal várják."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza vântului de coastă.",
+              "Purtați încălțăminte impermeabilă pentru bălțile din parc.",
+              "Centrul Cultural este cel mai bun loc pentru o pauză lungă de ploaie.",
+              "Cafenelele de pe bulevard au adesea terase acoperite și încălzite."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to coastal winds.",
+              "Wear waterproof shoes for the puddles that form in the park.",
+              "The Cultural Center is the best place for a long rain break.",
+              "Cafes on the Avenue often have heated, covered outdoor seating."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Mesa Geitonia ist mild und erfrischend. Die Morgenluft am Rathaus belebt. Mittags bietet die Kirche Stille, während das Kulturzentrum mit Ausstellungen wärmt. Ein zügiger Spaziergang durch den Park bei tiefstehender Sonne ist herrlich. Den Abend verbringt man am besten in den belebten Geschäften der Griva Digeni, bevor es um 17 Uhr dunkel wird.",
+            "hu": "A tél Mesa Geitoniában enyhe és frissítő. A reggeli levegő a városházánál élénkítő. Délben a templom csendje és a Kulturális Központ kiállításai melegítenek fel. A parki séta a korán lemenő nap fényében gyönyörű. Az estét érdemes a Griva Digeni üzletei között tölteni, mielőtt 17 órakor leszáll az éj.",
+            "ro": "Iarna în Mesa Geitonia este blândă și revigorantă. Aerul dimineții la primărie este energizant. La prânz, liniștea bisericii și expozițiile Centrului Cultural vă încălzesc. O plimbare prin parc în lumina slabă a soarelui de iarnă este superbă. Seara se petrece cel mai bine printre magazinele de pe Griva Digeni, înainte de apusul de la ora 17.",
+            "en": "Winter in Mesa Geitonia is mild and refreshing. The morning air at the Town Hall is invigorating. Midday offers the silence of the church and warmth of the Cultural Center's exhibits. A brisk walk through the park in the low winter sun is wonderful. Spend the evening among the lively shops of Griva Digeni before darkness falls at 5 PM."
+          },
+          "stops": [
+            {
+              "name": "Mesa Geitonia Town Hall",
+              "tip_5lang": {
+                "de": "Frische Morgenluft genießen, aber eine leichte Jacke tragen.",
+                "hu": "Élvezze a friss reggeli levegőt, de viseljen könnyű kabátot.",
+                "ro": "Bucurați-vă de aerul proaspăt, dar purtați o jachetă ușoară.",
+                "en": "Enjoy the fresh morning air, but wear a light jacket."
+              }
+            },
+            {
+              "name": "Agios Eleftherios Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen.",
+                "hu": "A vastag falak jól kint tartják a téli hűvösséget.",
+                "ro": "Zidurile groase mențin răcoarea iernii la distanță.",
+                "en": "The thick walls keep the winter chill outside."
+              }
+            },
+            {
+              "name": "Monument of the Fallen",
+              "tip_5lang": {
+                "de": "Ideal für Fotos bei weichem Winterlicht.",
+                "hu": "Ideális fotózáshoz a lágy téli fényekben.",
+                "ro": "Ideal pentru fotografii în lumina blândă de iarnă.",
+                "en": "Ideal for photos in the soft winter light."
+              }
+            },
+            {
+              "name": "Cultural Center",
+              "tip_5lang": {
+                "de": "Häufige Indoor-Events bieten Schutz vor Wind.",
+                "hu": "A gyakori benti események védelmet nyújtanak a szél ellen.",
+                "ro": "Evenimentele frecvente în interior oferă adăpost de vânt.",
+                "en": "Frequent indoor events provide shelter from the wind."
+              }
+            },
+            {
+              "name": "Mesa Geitonia Municipal Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe; im Winter ist es hier weniger überlaufen.",
+                "hu": "Élvezze a nyugalmat; télen sokkal kevesebb a látogató.",
+                "ro": "Bucurați-vă de liniște; iarna este mult mai puțin aglomerat.",
+                "en": "Enjoy the quiet; it is much less crowded in winter."
+              }
+            },
+            {
+              "name": "Griva Digeni Avenue",
+              "tip_5lang": {
+                "de": "Die Winterbeleuchtung sorgt ab 17 Uhr für eine tolle Atmosphäre.",
+                "hu": "A téli kivilágítás 17 órától remek hangulatot áraszt.",
+                "ro": "Iluminatul de iarnă oferă o atmosferă deosebită după ora 17.",
+                "en": "Winter lighting provides a great atmosphere after 5 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist ideal für sonnige Wintertage.",
+              "Sonnenuntergang ist gegen 17:00 Uhr; planen Sie Außenaktivitäten früh.",
+              "Besuchen Sie lokale Bäckereien für traditionelles Wintergebäck.",
+              "Die UV-Strahlung ist auch im Winter in Zypern nicht zu unterschätzen."
+            ],
+            "hu": [
+              "A réteges öltözködés ideális a napsütéses téli napokon.",
+              "A naplemente 17:00 körül van; tervezze korábbra a parki sétát.",
+              "Kóstolja meg a helyi pékségek tradicionális téli süteményeit.",
+              "Az UV-sugárzás télen is erős lehet Cipruson, figyeljen rá."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este ideală pentru zilele însorite de iarnă.",
+              "Apusul este în jur de ora 17:00; planificați activitățile afară devreme.",
+              "Vizitați brutăriile locale pentru produse tradiționale de iarnă.",
+              "Radiațiile UV sunt puternice în Cipru chiar și iarna; aveți grijă."
+            ],
+            "en": [
+              "Layered clothing is ideal for sunny winter days.",
+              "Sunset is around 5:00 PM; plan outdoor activities early.",
+              "Visit local bakeries for traditional winter pastries.",
+              "UV radiation is still significant in Cyprus during winter; stay protected."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +924,206 @@
           "Use bike lanes wherever available.",
           "Plan your route in advance to avoid steep hills."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht in Mesa Geitonia. Starten Sie an der Avenue und suchen Sie Schutz im Kulturzentrum. Der Linopetra Park ist grün, aber nass. Das Galactica ist der Rettungsanker für eine trockene Pause. Beenden Sie die Tour an der Kirche, bevor Sie sich im Stadtpark von der Feuchtigkeit der Bäume erfrischen lassen.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel. Kezdjen az Avenue-n, majd keressen menedéket a Kulturális Központban. A Linopetra park üde, de vizes. A Galactica a legjobb hely egy száraz pihenőre. Zárja a túrát a templomnál, majd frissüljön fel a városi park fái között a nedves levegőn.",
+            "ro": "Ciclismul pe ploaie necesită prudență în Mesa Geitonia. Începeți pe bulevard și căutați adăpost la Centrul Cultural. Parcul Linopetra este verde, dar ud. Galactica este colacul de salvare pentru o pauză uscată. Încheiați turul la biserică înainte de a vă răcori în parcul municipal.",
+            "en": "Cycling in the rain requires caution in Mesa Geitonia. Start at the Avenue and seek shelter at the Cultural Center. Linopetra Park is lush but wet. Galactica is the ultimate lifesaver for a dry break. End the tour at the church before refreshing in the damp air of the municipal park."
+          },
+          "stops": [
+            {
+              "name": "Griva Digeni Avenue",
+              "tip_5lang": {
+                "de": "Vorsicht auf markierten Radwegen; sie können rutschig sein.",
+                "hu": "Vigyázat a felfestett sávokon; csúszósak lehetnek.",
+                "ro": "Atenție pe pistele marcate; pot fi alunecoase.",
+                "en": "Caution on marked lanes; they can be slippery."
+              }
+            },
+            {
+              "name": "Mesa Geitonia Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach für einen Check.",
+                "hu": "Rövid megálló az előtető alatt egy gyors ellenőrzésre.",
+                "ro": "Oprire scurtă sub copertină pentru o verificare rapidă.",
+                "en": "Short stop under the canopy for a quick check."
+              }
+            },
+            {
+              "name": "Cultural Center",
+              "tip_5lang": {
+                "de": "Fahrradständer sind oft nah am Eingang im Trockenen.",
+                "hu": "A biciklitárolók gyakran közel vannak a bejárathoz, fedett helyen.",
+                "ro": "Suporturile de biciclete sunt adesea aproape de intrare, la adăpost.",
+                "en": "Bike racks are often near the entrance in sheltered spots."
+              }
+            },
+            {
+              "name": "Linopetra Park",
+              "tip_5lang": {
+                "de": "Meiden Sie unbefestigte Wege, um Schlamm zu vermeiden.",
+                "hu": "Kerülje a földutakat a sár elkerülése érdekében.",
+                "ro": "Evitați drumurile de pământ pentru a nu vă murdări de noroi.",
+                "en": "Avoid unpaved paths to stay clear of mud."
+              }
+            },
+            {
+              "name": "Galactica Park",
+              "tip_5lang": {
+                "de": "Bester Ort, um das Rad zu parken und drinnen zu entspannen.",
+                "hu": "A legjobb hely leparkolni és bent pihenni egyet.",
+                "ro": "Cel mai bun loc pentru a parca și a vă relaxa în interior.",
+                "en": "Best place to park the bike and relax inside."
+              }
+            },
+            {
+              "name": "Agios Eleftherios Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirchenmauern als Windschutz.",
+                "hu": "Használja a templom falait szélárnyékként.",
+                "ro": "Folosiți zidurile bisericii ca paravan împotriva vântului.",
+                "en": "Use the church walls as a windbreak."
+              }
+            },
+            {
+              "name": "Mesa Geitonia Municipal Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor tief hängenden nassen Ästen.",
+                "hu": "Vigyázzon a mélyen lógó, vizes ágakra.",
+                "ro": "Atenție la ramurile umede care atârnă jos.",
+                "en": "Watch out for low-hanging wet branches."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt; Nässe verlängert den Bremsweg.",
+              "Vermeiden Sie Pfützen, da sie tiefe Schlaglöcher verbergen können.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter Gold wert."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fékeket; a vizes úton nő a féktáv.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóságért.",
+              "A sárvédő aranyat ér ilyenkor a biciklin."
+            ],
+            "ro": [
+              "Verificați frânele înainte de plecare; umezeala mărește distanța de frânare.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci.",
+              "Purtați o pelerină de ploaie stridentă pentru vizibilitate mai bună.",
+              "Aripile la bicicletă sunt extrem de utile pe acest tip de vreme."
+            ],
+            "en": [
+              "Check your brakes before starting; wet roads increase braking distance.",
+              "Avoid puddles as they can hide deep potholes.",
+              "Wear a high-visibility raincoat for better safety.",
+              "Mudguards are worth their weight in gold in this weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter ist in Mesa Geitonia ideal. Die kühle Brise an der Avenue hält Sie wach. Über das Rathaus zum Kulturzentrum führt ein angenehmer Weg. In den Parks genießen Sie die klare Luft. Das Galactica bietet eine warme Pause, bevor Sie den Tag an der Kirche und im Stadtpark im sanften Abendlicht ausklingen lassen.",
+            "hu": "A téli biciklizés ideális Mesa Geitoniában. Az Avenue friss szellője éberen tart. A városházán át a Kulturális Központig kellemes az út. A parkokban élvezheti a tiszta levegőt. A Galactica meleg pihenőt kínál, mielőtt a templomnál és a városi parkban zárná a napot a lágy esti fényekben.",
+            "ro": "Ciclismul de iarnă este ideal în Mesa Geitonia. Briza răcoroasă de pe bulevard vă menține activ. Drumul prin fața primăriei spre Centrul Cultural este plăcut. În parcuri vă bucurați de aerul curat. Galactica oferă o pauză caldă înainte de a încheia ziua la biserică și în parcul municipal.",
+            "en": "Winter cycling is ideal in Mesa Geitonia. The cool breeze on the Avenue keeps you alert. The route past the Town Hall to the Cultural Center is pleasant. Enjoy the crisp air in the parks. Galactica offers a warm break before ending the day at the church and municipal park in the soft evening light."
+          },
+          "stops": [
+            {
+              "name": "Griva Digeni Avenue",
+              "tip_5lang": {
+                "de": "Handschuhe sind für den Fahrtwind sehr zu empfehlen.",
+                "hu": "A menetszél miatt a kesztyű használata erősen ajánlott.",
+                "ro": "Mănușile sunt recomandate din cauza vântului la deplasare.",
+                "en": "Gloves are highly recommended due to the wind chill."
+              }
+            },
+            {
+              "name": "Mesa Geitonia Town Hall",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für eine kurze Trinkpause in der Sonne.",
+                "hu": "Szép hely egy rövid frissítő szünetre a napsütésben.",
+                "ro": "Un loc frumos pentru o scurtă pauză de hidratare la soare.",
+                "en": "A nice spot for a short water break in the sun."
+              }
+            },
+            {
+              "name": "Cultural Center",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winter-Öffnungszeiten der Ausstellungen.",
+                "hu": "Ellenőrizze a kiállítások téli nyitvatartását.",
+                "ro": "Verificați programul de iarnă al expozițiilor.",
+                "en": "Check the winter opening hours for exhibits."
+              }
+            },
+            {
+              "name": "Linopetra Park",
+              "tip_5lang": {
+                "de": "Klare Sicht auf die fernen Berge an kalten Tagen.",
+                "hu": "Tiszta kilátás a távoli hegyekre a hidegebb napokon.",
+                "ro": "Vizibilitate clară spre munții îndepărtați în zilele reci.",
+                "en": "Clear views of distant mountains on crisp days."
+              }
+            },
+            {
+              "name": "Galactica Park",
+              "tip_5lang": {
+                "de": "Perfekt für eine Aufwärmpause mit heißen Getränken.",
+                "hu": "Tökéletes egy melegítő szünetre forró italokkal.",
+                "ro": "Perfect pentru o pauză de încălzire cu băuturi calde.",
+                "en": "Perfect for a warm-up break with hot drinks."
+              }
+            },
+            {
+              "name": "Agios Eleftherios Church",
+              "tip_5lang": {
+                "de": "Im Winter herrscht hier eine besonders friedliche Stille.",
+                "hu": "Télen különösen békés csend honol itt.",
+                "ro": "Iarna domnește aici o liniște deosebit de pașnică.",
+                "en": "A particularly peaceful silence reigns here in winter."
+              }
+            },
+            {
+              "name": "Mesa Geitonia Municipal Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht vor 17 Uhr.",
+                "hu": "Használja ki az utolsó fényeket 17 óra előtt.",
+                "ro": "Profită de ultima lumină a zilei înainte de ora 17.",
+                "en": "Make the most of the last daylight before 5 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie reflektierende Kleidung, da es früh dunkel wird.",
+              "Halten Sie die Kette gut geschmiert gegen die feuchte Winterluft.",
+              "Ein heißer Tee in der Thermoskanne hält Sie unterwegs warm.",
+              "Die Wege in den Parks sind im Winter oft leerer und entspannter."
+            ],
+            "hu": [
+              "Viseljen fényvisszaverő ruházatot a korai sötétedés miatt.",
+              "Tartsa a láncot jól olajozottan a párás téli levegő ellen.",
+              "Egy termosz forró tea sokat segít az út során.",
+              "A parki utak télen gyakran üresebbek és pihentetőbbek."
+            ],
+            "ro": [
+              "Purtați haine reflectorizante deoarece se întunecă devreme.",
+              "Păstrați lanțul bine uns împotriva aerului umed de iarnă.",
+              "Un termos cu ceai fierbinte vă va prinde bine pe drum.",
+              "Aleile din parcuri sunt adesea mai libere și mai relaxante iarna."
+            ],
+            "en": [
+              "Wear reflective clothing as it gets dark early.",
+              "Keep your chain well-lubricated against the damp winter air.",
+              "A thermos of hot tea will keep you warm on the go.",
+              "Park paths are often emptier and more relaxing in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1504,206 @@
           "Air conditioning is a must for summer driving.",
           "Plan your fueling stops, especially if heading out of town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist der Regen in Mesa Geitonia kein Problem. Starten Sie im trockenen Galactica, fahren Sie zum Linopetra Park für einen Blick aus dem Fenster. Das Rathaus und das Kulturzentrum sind schnell erreichbar. Die Kirche bietet spirituellen Schutz, während Sie den Tag sicher und trocken bei den Lichtern der Griva Digeni Avenue beenden.",
+            "hu": "Autóval az eső Mesa Geitoniában nem akadály. Kezdjen a száraz Galacticában, majd nézzen körül a Linopetra parknál az ablakból. A városháza és a Kulturális Központ gyorsan elérhető. A templom spirituális menedéket nyújt, a napot pedig biztonságban és szárazon zárhatja az Avenue fényei között.",
+            "ro": "Cu mașina, ploaia în Mesa Geitonia nu este un obstacol. Începeți la Galactica, apoi admirați Parcul Linopetra din fereastră. Primăria și Centrul Cultural sunt rapid accesibile. Biserica oferă un refugiu spiritual, iar ziua se încheie sigur și uscat printre luminile de pe Griva Digeni.",
+            "en": "By car, the rain in Mesa Geitonia is no obstacle. Start at the dry Galactica, then take a look at Linopetra Park from your window. The Town Hall and Cultural Center are quickly reachable. The church offers spiritual refuge, and you can end the day safe and dry among the lights of Griva Digeni."
+          },
+          "stops": [
+            {
+              "name": "Galactica Park",
+              "tip_5lang": {
+                "de": "Überdachte Parkplätze in der Nähe nutzen.",
+                "hu": "Használja a közeli fedett parkolóhelyeket.",
+                "ro": "Folosiți locurile de parcare acoperite din apropiere.",
+                "en": "Use covered parking spots nearby."
+              }
+            },
+            {
+              "name": "Linopetra Park",
+              "tip_5lang": {
+                "de": "Vom Auto aus die grüne Kulisse genießen.",
+                "hu": "Élvezze a zöld környezetet az autóból.",
+                "ro": "Bucurați-vă de peisajul verde din mașină.",
+                "en": "Enjoy the green scenery from the car."
+              }
+            },
+            {
+              "name": "Mesa Geitonia Town Hall (Cluster)",
+              "tip_5lang": {
+                "de": "Kurz aussteigen, der Eingang ist regengeschützt.",
+                "hu": "Szálljon ki egy pillanatra, a bejárat esővédett.",
+                "ro": "Coborâți scurt, intrarea este protejată de ploaie.",
+                "en": "Get out briefly, the entrance is rain-protected."
+              }
+            },
+            {
+              "name": "Cultural Center",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Haupteingang.",
+                "hu": "Parkoljon a lehető legközelebb a főbejárathoz.",
+                "ro": "Parcați cât mai aproape de intrarea principală.",
+                "en": "Park as close as possible to the main entrance."
+              }
+            },
+            {
+              "name": "Agios Eleftherios Church",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor der Kirche vorhanden.",
+                "hu": "Parkolóhelyek közvetlenül a templom előtt találhatók.",
+                "ro": "Locuri de parcare disponibile direct în fața bisericii.",
+                "en": "Parking spaces available directly in front of the church."
+              }
+            },
+            {
+              "name": "Monument of the Fallen",
+              "tip_5lang": {
+                "de": "Ein Stopp für ein Foto aus dem Fenster reicht.",
+                "hu": "Egy megálló egy ablakból lőtt fotóhoz is elég.",
+                "ro": "O oprire pentru o poză din fereastră este suficientă.",
+                "en": "A stop for a photo from the window is enough."
+              }
+            },
+            {
+              "name": "Griva Digeni Avenue",
+              "tip_5lang": {
+                "de": "Vorsicht bei Aquaplaning auf der Hauptstraße.",
+                "hu": "Vigyázzon a felvizesedett útra a főúton.",
+                "ro": "Atenție la acvaplanare pe strada principală.",
+                "en": "Watch out for aquaplaning on the main road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Scheibenwischer einwandfrei funktionieren.",
+              "Halten Sie einen Regenschirm im Kofferraum für den Weg zum Eingang.",
+              "Vermeiden Sie tiefes Wasser am Straßenrand beim Parken.",
+              "Nutzen Sie die Heizung, um die Scheiben beschlagfrei zu halten."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy az ablaktörlők tökéletesen működnek.",
+              "Tartson esernyőt a csomagtartóban a bejáratig tartó úthoz.",
+              "Parkoláskor kerülje a mélyebb vizet az út szélén.",
+              "Használja a fűtést a szélvédő páramentesítéséhez."
+            ],
+            "ro": [
+              "Asigurați-vă că ștergătoarele funcționează impecabil.",
+              "Țineți o umbrelă în portbagaj pentru drumul până la intrare.",
+              "Evitați apa adâncă de la marginea drumului când parcați.",
+              "Folosiți încălzirea pentru a dezaburi parbrizul."
+            ],
+            "en": [
+              "Ensure your windshield wipers are in perfect condition.",
+              "Keep an umbrella in the trunk for the walk to the entrance.",
+              "Avoid deep water at the curb when parking.",
+              "Use the heater to keep the windows fog-free."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterfahrten in Mesa Geitonia sind entspannt. Starten Sie im warmen Galactica, erkunden Sie den Linopetra Park bequem vom Auto aus. Das Rathaus und das Kulturzentrum bieten kulturelle Stopps ohne Kältegefühl. Nach der Kirche und dem Monument genießen Sie die beleuchtete Griva Digeni Avenue, während die Abendkühle draußen bleibt.",
+            "hu": "A téli autózás Mesa Geitoniában pihentető. Kezdjen a meleg Galacticában, fedezze fel a Linopetra parkot az autó kényelméből. A városháza és a Kulturális Központ fázás nélküli kulturális megállókat kínál. A templom és az emlékmű után élvezze a kivilágított Avenue-t, miközben az esti hűvös kint marad.",
+            "ro": "Călătoriile de iarnă în Mesa Geitonia sunt relaxante. Începeți în Galactica cea caldă, explorați Parcul Linopetra din confortul mașinii. Primăria și Centrul Cultural oferă opriri culturale fără frig. După biserică și monument, bucurați-vă de Griva Digeni iluminată, în timp ce răcoarea serii rămâne afară.",
+            "en": "Winter drives in Mesa Geitonia are relaxing. Start in the warm Galactica, explore Linopetra Park from the comfort of your car. The Town Hall and Cultural Center offer cultural stops without the chill. After the church and monument, enjoy the illuminated Griva Digeni Avenue while the evening cool stays outside."
+          },
+          "stops": [
+            {
+              "name": "Galactica Park",
+              "tip_5lang": {
+                "de": "Heizung im Auto vorwärmen für den nächsten Stopp.",
+                "hu": "Melegítse be az autót a következő megálló előtt.",
+                "ro": "Preîncălziți mașina pentru următoarea oprire.",
+                "en": "Pre-warm the car heater before the next stop."
+              }
+            },
+            {
+              "name": "Linopetra Park",
+              "tip_5lang": {
+                "de": "Perfekt für einen kurzen Spaziergang in der Wintersonne.",
+                "hu": "Tökéletes egy rövid sétához a téli napsütésben.",
+                "ro": "Perfect pentru o scurtă plimbare în soarele de iarnă.",
+                "en": "Perfect for a short walk in the winter sun."
+              }
+            },
+            {
+              "name": "Mesa Geitonia Town Hall (Cluster)",
+              "tip_5lang": {
+                "de": "Parkplatzsuche ist im Winter meist einfacher.",
+                "hu": "A parkolás télen általában sokkal egyszerűbb.",
+                "ro": "Găsirea unui loc de parcare este mai ușoară iarna.",
+                "en": "Finding a parking spot is usually easier in winter."
+              }
+            },
+            {
+              "name": "Cultural Center",
+              "tip_5lang": {
+                "de": "Indoor-Ausstellungen sind im Winter sehr zu empfehlen.",
+                "hu": "A beltéri kiállítások télen erősen ajánlottak.",
+                "ro": "Expozițiile de interior sunt foarte recomandate iarna.",
+                "en": "Indoor exhibitions are highly recommended in winter."
+              }
+            },
+            {
+              "name": "Agios Eleftherios Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für die Architektur lohnt sich.",
+                "hu": "Egy rövid megálló az építészetért megéri.",
+                "ro": "O oprire scurtă pentru arhitectură merită.",
+                "en": "A short stop for the architecture is worth it."
+              }
+            },
+            {
+              "name": "Monument of the Fallen",
+              "tip_5lang": {
+                "de": "Gutes Licht für Fotos am späten Vormittag.",
+                "hu": "Jó fények a fotózáshoz késő délelőtt.",
+                "ro": "Lumină bună pentru fotografii spre sfârșitul dimineții.",
+                "en": "Good light for photos in the late morning."
+              }
+            },
+            {
+              "name": "Griva Digeni Avenue",
+              "tip_5lang": {
+                "de": "Abends sind die Lichter der Geschäfte besonders schön.",
+                "hu": "Este az üzletek fényei különösen szépek.",
+                "ro": "Seara, luminile magazinelor sunt deosebit de frumoase.",
+                "en": "The shop lights are especially beautiful in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei sinkenden Temperaturen.",
+              "Die Batterieleistung kann im Winter leicht nachlassen.",
+              "Genießen Sie die Fahrt bei Sonnenuntergang gegen 17:00 Uhr.",
+              "Die Avenue ist abends ein Hotspot für winterliches Shopping."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást a csökkenő hőmérséklet mellett.",
+              "Az akkumulátor teljesítménye télen kissé visszaeshet.",
+              "Élvezze az autózást a 17:00 körüli naplementében.",
+              "Az Avenue este a téli vásárlás központja."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope când scade temperatura.",
+              "Performanța bateriei poate scădea ușor iarna.",
+              "Bucurați-vă de drum la apusul soarelui în jur de ora 17:00.",
+              "Bulevardul este un punct central pentru cumpărături iarna."
+            ],
+            "en": [
+              "Check tire pressure as temperatures drop.",
+              "Battery performance may slightly decrease in winter.",
+              "Enjoy the drive during the 5:00 PM sunset.",
+              "The Avenue is a hotspot for winter shopping in the evening."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1129,7 +1711,7 @@
       "speed_kmh": 15,
       "start": "09:00",
       "end_estimate": "17:35",
-      "total_km": 12.5,
+      "total_km": 8.0,
       "stop_count": 6,
       "stops": [
         {
@@ -1478,6 +2060,188 @@
           "Have small change ready for tickets if buying on the bus.",
           "Be aware that buses may be less frequent on weekends and evenings."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind ideal bei Regen. Starten Sie an der Griva Digeni, nutzen Sie den Bus zum Stadtpark. Das Rathaus und die Kirche sind gut vernetzt. Verbringen Sie mittags Zeit im Kulturzentrum. Zum Abschluss führt die Fahrt zum Linopetra Park, wobei Sie den Regen gemütlich vom Fenster aus beobachten.",
+            "hu": "A tömegközlekedés ideális esőben. Kezdjen az Avenue-n, busszal menjen a városi parkig. A városháza és a templom jól megközelíthető. Töltsön több időt délben a Kulturális Központban. Végül utazzon a Linopetra parkhoz, az ablakból figyelve a várost.",
+            "ro": "Transportul public este ideal pe ploaie. Începeți pe Griva Digeni, luați autobuzul spre parcul municipal. Primăria și biserica sunt bine conectate. Petreceți timp la Centrul Cultural la prânz. În final, mergeți spre Parcul Linopetra, privind orașul pe fereastră.",
+            "en": "Public transit is ideal in the rain. Start at Griva Digeni, use the bus to reach the municipal park. The Town Hall and church are well connected. Spend more time at the Cultural Center at noon. Finally, ride to Linopetra Park, watching the city from the window."
+          },
+          "stops": [
+            {
+              "name": "Griva Digeni Avenue (Cluster)",
+              "tip_5lang": {
+                "de": "Warten Sie in einem Café auf den nächsten Bus.",
+                "hu": "Várjon egy kávézóban a következő buszra.",
+                "ro": "Așteptați în cafenea următorul autobuz.",
+                "en": "Wait in a cafe for the next bus."
+              }
+            },
+            {
+              "name": "Mesa Geitonia Municipal Park",
+              "tip_5lang": {
+                "de": "Bushaltestellen in der Nähe bieten oft Regenschutz.",
+                "hu": "A közeli buszmegállók gyakran fedettek.",
+                "ro": "Stațiile de autobuz din apropiere sunt adesea acoperite.",
+                "en": "Bus stops nearby are often sheltered."
+              }
+            },
+            {
+              "name": "Mesa Geitonia Town Hall (Cluster)",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Bus und Eingang nutzen.",
+                "hu": "Használja ki a busz és a bejárat közötti rövid távot.",
+                "ro": "Folosiți distanța scurtă dintre autobuz și intrare.",
+                "en": "Take advantage of the short distance between bus and entrance."
+              }
+            },
+            {
+              "name": "Agios Eleftherios Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf nasse Böden beim Ein- und Aussteigen.",
+                "hu": "Vigyázzon a vizes padlóra le- és felszálláskor.",
+                "ro": "Atenție la podeaua udă la urcare și coborâre.",
+                "en": "Watch out for wet floors when boarding or alighting."
+              }
+            },
+            {
+              "name": "Cultural Center",
+              "tip_5lang": {
+                "de": "Idealer Ort, um auf eine Regenpause im Fahrplan zu warten.",
+                "hu": "Ideális hely kivárni egy esőszünetet a menetrendben.",
+                "ro": "Loc ideal pentru a aștepta oprirea ploii conform programului.",
+                "en": "Ideal place to wait out a rain break in the schedule."
+              }
+            },
+            {
+              "name": "Linopetra Park",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist der Blick aus dem Bus besser.",
+                "hu": "Erős esőben jobb az ablakból nézni a parkot.",
+                "ro": "Pe ploaie puternică, priveliștea din autobuz este mai bună.",
+                "en": "In heavy rain, the view from the bus is better."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie eine App für Echtzeit-Businfos, um Warten im Regen zu vermeiden.",
+              "Ein kleiner, faltbarer Regenschirm passt in jede Tasche.",
+              "Bussen können bei Regen leichte Verspätungen haben.",
+              "Halten Sie Ihre Fahrkarte griffbereit, um Verzögerungen zu vermeiden."
+            ],
+            "hu": [
+              "Használjon appot a buszokhoz, hogy ne kelljen az esőben várni.",
+              "Egy kis összecsukható esernyő mindig legyen kéznél.",
+              "A buszok esőben némi késéssel közlekedhetnek.",
+              "Tartsa készenlétben a jegyét a gyorsabb felszállásért."
+            ],
+            "ro": [
+              "Folosiți o aplicație pentru info-bus în timp real pentru a evita așteptarea în ploaie.",
+              "O umbrelă mică, pliabilă, este indispensabilă.",
+              "Autobuzele pot avea mici întârzieri pe timp de ploaie.",
+              "Țineți biletul la îndemână pentru a nu întârzia urcarea."
+            ],
+            "en": [
+              "Use a real-time bus app to avoid waiting in the rain.",
+              "Keep a small, foldable umbrella handy.",
+              "Buses might have slight delays during rainy weather.",
+              "Have your ticket ready to speed up boarding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Transit-Touren im Winter sind komfortabel. Starten Sie an der Griva Digeni, fahren Sie zum Stadtpark und weiter zum Rathaus. Die Kirche und das Kulturzentrum sind warme Stopps auf Ihrer Route. Beenden Sie die Entdeckungstour am Linopetra Park, während die Sonne früh untergeht und die Stadtlichter angehen.",
+            "hu": "A téli tömegközlekedés kényelmes Mesa Geitoniában. Kezdjen az Avenue-n, utazzon a városi parkhoz, majd tovább a városházához. A templom és a Kulturális Központ meleg megállók az útvonalon. Zárja a napot a Linopetra parknál, miközben korán lemegy a nap és kigyúlnak a város fényei.",
+            "ro": "Tranzitul de iarnă este confortabil în Mesa Geitonia. Începeți pe bulevard, mergeți spre parcul municipal și apoi spre primărie. Biserica și Centrul Cultural sunt opriri calde pe traseu. Încheiați ziua la Parcul Linopetra în timp ce soarele apune devreme și luminile se aprind.",
+            "en": "Winter transit tours are comfortable. Start at Griva Digeni, ride to the municipal park and on to the Town Hall. The church and Cultural Center are warm stops on your route. End your discovery at Linopetra Park as the sun sets early and the city lights come on."
+          },
+          "stops": [
+            {
+              "name": "Griva Digeni Avenue (Cluster)",
+              "tip_5lang": {
+                "de": "Gut beleuchtete Haltestellen sorgen für Sicherheit am Abend.",
+                "hu": "A jól kivilágított megállók biztonságosak este.",
+                "ro": "Stațiile bine iluminate oferă siguranță seara.",
+                "en": "Well-lit bus stops provide safety in the evening."
+              }
+            },
+            {
+              "name": "Mesa Geitonia Municipal Park",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter angenehm beheizt.",
+                "hu": "A buszok télen kellemesen fűtöttek.",
+                "ro": "Autobuzele sunt încălzite plăcut iarna.",
+                "en": "Buses are pleasantly heated in winter."
+              }
+            },
+            {
+              "name": "Mesa Geitonia Town Hall (Cluster)",
+              "tip_5lang": {
+                "de": "Zentrale Knotenpunkte für viele Buslinien.",
+                "hu": "Központi csomópont számos buszvonalhoz.",
+                "ro": "Nod central pentru multe linii de autobuz.",
+                "en": "Central hub for many bus lines."
+              }
+            },
+            {
+              "name": "Agios Eleftherios Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für einen kurzen Zwischenstopp.",
+                "hu": "Csendes hely egy rövid útközbeni megállóra.",
+                "ro": "Un loc liniștit pentru o scurtă oprire pe traseu.",
+                "en": "A quiet spot for a short stop along the way."
+              }
+            },
+            {
+              "name": "Cultural Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit drinnen für lokale Kunst.",
+                "hu": "Használja ki a benti időt a helyi művészetre.",
+                "ro": "Folosiți timpul în interior pentru arta locală.",
+                "en": "Take advantage of indoor time for local art."
+              }
+            },
+            {
+              "name": "Linopetra Park",
+              "tip_5lang": {
+                "de": "Letzter Stopp vor dem frühen Sonnenuntergang.",
+                "hu": "Utolsó megálló a korai naplemente előtt.",
+                "ro": "Ultima oprire înainte de apusul devreme.",
+                "en": "Last stop before the early sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Ihre Rückfahrt vor 18 Uhr, wenn es bereits dunkel ist.",
+              "Die Busse fahren im Winter nach dem regulären Fahrplan.",
+              "Tragen Sie einen warmen Schal gegen den Wind an den Haltestellen.",
+              "Sitzplätze sind im Winter meist reichlich vorhanden."
+            ],
+            "hu": [
+              "Tervezze a visszautat 18 óra elé, amikor már sötét van.",
+              "A buszok télen a rendes menetrend szerint járnak.",
+              "Viseljen meleg sálat a megállókban fújó szél ellen.",
+              "Télen általában bőségesen akad ülőhely a buszokon."
+            ],
+            "ro": [
+              "Planificați întoarcerea înainte de ora 18, când este deja întuneric.",
+              "Autobuzele circulă conform programului normal iarna.",
+              "Purtați un fular călduros împotriva vântului din stații.",
+              "Locurile pe scaune sunt de obicei suficiente iarna."
+            ],
+            "en": [
+              "Plan your return before 6 PM when it is already dark.",
+              "Buses run according to the regular schedule in winter.",
+              "Wear a warm scarf against the wind at bus stops.",
+              "Seating is usually plentiful on buses in winter."
+            ]
+          }
+        }
       }
     }
   }

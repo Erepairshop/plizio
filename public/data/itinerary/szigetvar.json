@@ -326,6 +326,188 @@
           "Allow plenty of time for the thermal bath; it's bigger than it looks.",
           "Check the museum's opening hours as they can vary seasonally."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens starten wir unter Regenschirmen am Zrínyi-Platz. Die Ali-Pascha-Moschee bietet einen ersten trockenen Rückzugsort.\n\nMittags erkunden wir die Innenräume der Burg und das Museum im Andrássy-Palast, um dem Regen zu entkommen.\n\nNachmittags ist das Thermalbad der ideale Ort, um in warmen Innenbecken zu entspannen.\n\nAbends wirkt der Musikpavillon im Regen friedlich und stimmungsvoll.",
+            "hu": "Reggel esernyőkkel indulunk a Zrínyi térről, a dzsámi belső tere tökéletes menedék a zápor elől.\n\nDélben a vár falai között, az Andrássy-kastély múzeumi termeiben mélyedünk el a történelemben, szárazon maradva.\n\nDélután a gyógyfürdő meleg vize feledteti a kinti borús időt a fedett medencékben.\n\nEstére a zenei pavilon környéke csendes és misztikus a városi esőben.",
+            "ro": "Dimineața începe cu umbrele în Piața Zrínyi, iar moscheea oferă un prim adăpost cultural perfect.\n\nLa prânz, explorăm muzeul cetății și interiorul Palatului Andrássy pentru a evita ploaia.\n\nDupă-amiaza este dedicată relaxării în bazinele interioare ale băilor termale, bucurându-ne de căldură.\n\nSeara, pavilionul muzical oferă o atmosferă liniștită sub picăturile de ploaie.",
+            "en": "Morning begins under umbrellas at Zrínyi Square, with the mosque providing a dry architectural retreat.\n\nAt noon, we explore the castle museum and Andrássy Palace interiors to stay away from the rain.\n\nAfternoon is best spent in the thermal bath's indoor pools, enjoying the warmth while it pours outside.\n\nEvening by the music pavilion is quiet and atmospheric in the rainy city light."
+          },
+          "stops": [
+            {
+              "name": "Zrínyi Square",
+              "tip_5lang": {
+                "de": "Kopfsteinpflaster bei Nässe rutschig.",
+                "hu": "Az esőben csúszós macskakövekre figyeljen.",
+                "ro": "Atenție la pavajul alunecos pe ploaie.",
+                "en": "Watch out for slippery cobblestones."
+              }
+            },
+            {
+              "name": "Ali Pasha Mosque",
+              "tip_5lang": {
+                "de": "Idealer Ort, um einen Schauer abzuwarten.",
+                "hu": "Kiváló hely egy zápor kivárására.",
+                "ro": "Loc ideal pentru a aștepta trecerea ploii.",
+                "en": "Great place to wait out a rain shower."
+              }
+            },
+            {
+              "name": "Szigetvár Castle",
+              "tip_5lang": {
+                "de": "Das Museum bietet viel Platz im Trockenen.",
+                "hu": "A múzeum tágas, fedett tereket kínál.",
+                "ro": "Muzeul oferă spații interioare generoase.",
+                "en": "The museum offers plenty of indoor space."
+              }
+            },
+            {
+              "name": "Miklós Zrínyi Museum",
+              "tip_5lang": {
+                "de": "Ausführliche Ausstellung schützt vor Regen.",
+                "hu": "Részletes kiállítás, védve az esőtől.",
+                "ro": "Expoziție detaliată, protejată de ploaie.",
+                "en": "Detailed exhibition, sheltered from rain."
+              }
+            },
+            {
+              "name": "Thermal and Spa Bath",
+              "tip_5lang": {
+                "de": "Beste Wahl bei schlechtem Wetter.",
+                "hu": "A legjobb választás rossz időben.",
+                "ro": "Cea mai bună alegere pe vreme rea.",
+                "en": "Best choice during bad weather."
+              }
+            },
+            {
+              "name": "Music Pavilion",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach möglich.",
+                "hu": "Rövid megálló az előtető alatt lehetséges.",
+                "ro": "Scurt popas sub streașină este posibil.",
+                "en": "Short stop under the eaves is possible."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kopfsteinpflaster in der Altstadt wird bei Regen sehr glatt.",
+              "Das Burgmuseum ist groß genug für mehrere Stunden Aufenthalt.",
+              "Packen Sie Ihre Badesachen griffbereit für den Nachmittag ein.",
+              "Die meisten Sehenswürdigkeiten liegen nah beieinander."
+            ],
+            "hu": [
+              "A belvárosi macskakövek esőben rendkívül csúszósak.",
+              "A vármúzeum ideális több órás fedett programhoz.",
+              "A fürdőruhát tartsa könnyen elérhető helyen délutánra.",
+              "Használja ki a közeli látnivalók közötti rövid távokat."
+            ],
+            "ro": [
+              "Pavajul din centrul vechi devine foarte alunecos la ploaie.",
+              "Muzeul cetății este ideal pentru câteva ore la adăpost.",
+              "Păstrați costumul de baie la îndemână pentru după-amiază.",
+              "Profită de distanțele scurte dintre obiectivele principale."
+            ],
+            "en": [
+              "Cobblestones in the old town get very slippery when wet.",
+              "The castle museum is perfect for staying dry for hours.",
+              "Keep your swimwear accessible for the afternoon visit.",
+              "Take advantage of the short walking distances between sites."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Zrínyi-Platz leitet den Tag ein. Die Moschee strahlt eine besondere Ruhe aus.\n\nMittags wärmen wir uns in den Ausstellungsräumen der Burg auf, während wir die Geschichte von 1566 studieren.\n\nDer Höhepunkt ist der Nachmittag im Thermalbad, wenn der Dampf der Außenbecken in den Frost steigt.\n\nDen frühen Sonnenuntergang genießen wir am Musikpavillon, bevor die Kälte anzieht.",
+            "hu": "Friss téli reggel köszönt ránk a Zrínyi téren, a dzsámi falaiba ivódott nyugalommal.\n\nDélben a vár múzeumában melegszünk fel, felidézve az 1566-os ostrom hősies pillanatait.\n\nA nap fénypontja a délutáni fürdőzés, ahol a gőzölgő víz és a kinti fagy kettőse varázslatos.\n\nA korai naplementét a zenei pavilonnál csodálhatjuk meg, mielőtt ránk sötétedik.",
+            "ro": "O dimineață răcoroasă de iarnă începe în Piața Zrínyi, cu o liniște aparte la moschee.\n\nLa prânz, ne încălzim în sălile muzeului cetății, învățând despre asediul eroic din 1566.\n\nMomentul culminant este după-amiaza la băile termale, unde aburii se ridică în aerul înghețat.\n\nApusul devreme ne găsește lângă pavilionul muzical, într-un decor hibernal liniștit.",
+            "en": "A crisp winter morning at Zrínyi Square starts the day with quiet dignity at the mosque.\n\nAt noon, we warm up inside the castle museum while learning about the 1566 heroic siege.\n\nThe highlight is the afternoon at the thermal bath, where steam rises into the freezing air.\n\nWe catch the early sunset at the Music Pavilion before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Zrínyi Square",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den Wind am Platz.",
+                "hu": "Réteges öltözködés javasolt a téren.",
+                "ro": "Haine groase pentru vântul din piață.",
+                "en": "Dress warmly for the wind on the square."
+              }
+            },
+            {
+              "name": "Ali Pasha Mosque",
+              "tip_5lang": {
+                "de": "Kurzer, aber lohnenswerter Innenbesuch.",
+                "hu": "Rövid, de tartalmas benti látogatás.",
+                "ro": "Vizită scurtă dar valoroasă la interior.",
+                "en": "Short but worthwhile indoor visit."
+              }
+            },
+            {
+              "name": "Szigetvár Castle",
+              "tip_5lang": {
+                "de": "Die Burgmauern können im Winter sehr kalt sein.",
+                "hu": "A várfalak télen nagyon hidegek lehetnek.",
+                "ro": "Zidurile cetății pot fi foarte reci iarna.",
+                "en": "The castle walls can be very cold in winter."
+              }
+            },
+            {
+              "name": "Miklós Zrínyi Museum",
+              "tip_5lang": {
+                "de": "Gut beheizte Räume zum Aufwärmen.",
+                "hu": "Jól fűtött termek a felmelegedéshez.",
+                "ro": "Săli bine încălzite pentru revigorare.",
+                "en": "Well-heated rooms to warm up in."
+              }
+            },
+            {
+              "name": "Thermal and Spa Bath",
+              "tip_5lang": {
+                "de": "Einzigartiges Erlebnis im warmen Außenbecken.",
+                "hu": "Egyedülálló élmény a meleg kültéri medencében.",
+                "ro": "Experiență unică în bazinul exterior cald.",
+                "en": "Unique experience in the warm outdoor pool."
+              }
+            },
+            {
+              "name": "Music Pavilion",
+              "tip_5lang": {
+                "de": "Sonnenuntergang meist schon gegen 16:30 Uhr.",
+                "hu": "A naplemente már 16:30 körül bekövetkezik.",
+                "ro": "Apusul are loc de obicei în jurul orei 16:30.",
+                "en": "Sunset is usually around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie das Bad für den späten Nachmittag ein.",
+              "Die Burg ist windanfällig, Mütze und Handschuhe sind Pflicht.",
+              "Die Gehwege können bei Frost glatt sein.",
+              "Museen schließen im Winter oft etwas früher."
+            ],
+            "hu": [
+              "A fürdőzést a késő délutáni órákra időzítse.",
+              "A vár szeles lehet, sapka és kesztyű kötelező.",
+              "A járdák fagy esetén csúszósak lehetnek.",
+              "Télen a múzeumok gyakran korábban zárnak."
+            ],
+            "ro": [
+              "Planificați vizita la băi pentru sfârșitul zilei.",
+              "Cetatea este expusă vântului, purtați căciulă și mănuși.",
+              "Trotuarele pot fi alunecoase în caz de îngheț.",
+              "Iarna, muzeele se închid adesea mai devreme."
+            ],
+            "en": [
+              "Schedule the thermal bath for the late afternoon.",
+              "The castle is windy; hat and gloves are essential.",
+              "Sidewalks can be icy and slippery during frost.",
+              "Museums often close earlier during winter months."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -622,6 +804,170 @@
           "Some sights are outside the center, so plan the routes.",
           "Bring plenty of water, especially in summer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein sportlicher Start am Zrínyi-Platz trotz Regen.\n\nMit guter Kleidung erreichen wir schnell die Burg, wo wir das Museum besuchen.\n\nNachmittags radeln wir vorsichtig zum Thermalbad, um uns im warmen Wasser zu regenerieren.\n\nDer Park der Freundschaft wirkt im Regen melancholisch, bevor wir zur Moschee zurückkehren.",
+            "hu": "Sportos kezdés a Zrínyi téren az eső ellenére is.\n\nMegfelelő öltözetben gyorsan elérjük a várat, ahol a bringákat letéve a múzeumban nézelődünk.\n\nDélután óvatosan tekerünk a fürdőig, hogy a meleg vízben töltődjünk fel.\n\nA Magyar-Török Barátság Parkja esőben is méltóságteljes, végül a dzsáminál zárunk.",
+            "ro": "Un început sportiv în Piața Zrínyi în ciuda ploii.\n\nCu echipament adecvat ajungem rapid la cetate, unde lăsăm bicicletele și vizităm muzeul.\n\nDupă-amiaza pedalăm cu grijă spre băile termale pentru o regenerare binemeritată.\n\nParcul Prieteniei are o aură melancolică sub ploaie, înainte de a reveni la moschee.",
+            "en": "A sporty start at Zrínyi Square despite the rain.\n\nWith proper gear, we quickly reach the castle, park the bikes, and explore the museum.\n\nAt noon, we cycle carefully to the thermal bath to recover in the warm water.\n\nThe Park of Friendship feels melancholic in the rain before we head back to the mosque."
+          },
+          "stops": [
+            {
+              "name": "Zrínyi Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf nassem Pflaster.",
+                "hu": "Vigyázzon az induláskor a vizes köveken.",
+                "ro": "Atenție la pornirea pe pavajul ud.",
+                "en": "Be careful when starting on wet stones."
+              }
+            },
+            {
+              "name": "Szigetvár Castle & Museum",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer am Eingang suchen.",
+                "hu": "Keressen fedett biciklitárolót a bejáratnál.",
+                "ro": "Căutați rastele de biciclete acoperite la intrare.",
+                "en": "Look for covered bike racks at the entrance."
+              }
+            },
+            {
+              "name": "Thermal and Spa Bath",
+              "tip_5lang": {
+                "de": "Perfekte Belohnung nach einer Regenfahrt.",
+                "hu": "Tökéletes jutalom egy esős tekerés után.",
+                "ro": "Răsplată perfectă după o tură pe ploaie.",
+                "en": "Perfect reward after a rainy ride."
+              }
+            },
+            {
+              "name": "Park of Hungarian-Turkish Friendship",
+              "tip_5lang": {
+                "de": "Asphaltierte Wege sind bei Regen gut befahrbar.",
+                "hu": "Az aszfaltozott utak esőben is jól járhatók.",
+                "ro": "Potecile asfaltate sunt practicabile pe ploaie.",
+                "en": "Asphalt paths are easy to ride even in rain."
+              }
+            },
+            {
+              "name": "Ali Pasha Mosque",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Trocknen im Inneren.",
+                "hu": "Rövid megálló a benti száradáshoz.",
+                "ro": "Popas scurt pentru a vă usca la interior.",
+                "en": "Short stop to dry off inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter unverzichtbar.",
+              "Bremsen Sie frühzeitig auf nassem Asphalt und Kopfsteinpflaster.",
+              "Wasserdichte Packtaschen schützen Ihre Kamera und Kleidung.",
+              "Das Thermalbad bietet Umkleiden zum Trocknen der Ausrüstung."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Fékezzen időben a vizes aszfalton és macskakövön.",
+              "A vízálló táskák megvédik az értékeit.",
+              "A fürdő öltözőiben megszáríthatja az átázott ruhákat."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe acest timp.",
+              "Frânați din timp pe asfalt ud și pavaj.",
+              "Geantele impermeabile vă protejează bunurile.",
+              "Vestiarele de la băi permit uscarea echipamentului."
+            ],
+            "en": [
+              "Mudguards are essential in this weather.",
+              "Brake early on wet asphalt and cobblestones.",
+              "Waterproof panniers will protect your valuables.",
+              "The thermal bath's changing rooms are good for drying off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Klirrende Kälte begleitet uns vom Zrínyi-Platz zur Burg.\n\nDie kurze Fahrt hält uns warm, bevor wir die historischen Mauern besichtigen.\n\nMittags radeln wir zügig zum Thermalbad, dem besten Ort für Radfahrer im Winter.\n\nEin Abstecher zum Freundschaftspark bietet weite Winteransichten, bevor wir an der Moschee enden.",
+            "hu": "Dermesztő hidegben indulunk a Zrínyi térről a vár felé.\n\nA rövid tekerés segít bemelegedni a múzeumlátogatás előtt.\n\nDélben tempósan haladunk a fürdőig, ami a bringások legjobb menedéke télen.\n\nA Barátság Parkja ilyenkor kopár, de látványos, végül a dzsáminál melegszünk fel.",
+            "ro": "Frigul tăios ne însoțește de la Piața Zrínyi spre cetate.\n\nScurta plimbare ne ajută să ne încălzim înainte de muzeu.\n\nLa prânz, pedalăm rapid spre băile termale, cel mai bun refugiu iarna.\n\nO vizită la Parcul Prieteniei oferă peisaje hibernale vaste înainte de finalul la moschee.",
+            "en": "Freezing air greets us on the way from Zrínyi Square to the castle.\n\nThe short ride keeps us warm before exploring the museum.\n\nAt noon, we cycle briskly to the thermal bath, the best winter haven for cyclists.\n\nA trip to the Friendship Park offers wide winter vistas before finishing at the mosque."
+          },
+          "stops": [
+            {
+              "name": "Zrínyi Square",
+              "tip_5lang": {
+                "de": "Reifendruck bei Kälte prüfen.",
+                "hu": "Ellenőrizze a guminyomást a hidegben.",
+                "ro": "Verificați presiunea în pneuri pe frig.",
+                "en": "Check tire pressure in the cold."
+              }
+            },
+            {
+              "name": "Szigetvár Castle & Museum",
+              "tip_5lang": {
+                "de": "Lange Standzeiten vermeiden, schnell rein.",
+                "hu": "Kerülje a hosszú állást, menjen be hamar.",
+                "ro": "Evitați staționarea lungă, intrați rapid.",
+                "en": "Avoid standing still; head inside quickly."
+              }
+            },
+            {
+              "name": "Thermal and Spa Bath",
+              "tip_5lang": {
+                "de": "Heißes Wasser entspannt die kalten Muskeln.",
+                "hu": "A forró víz ellazítja a megfagyott izmokat.",
+                "ro": "Apa fierbinte relaxează mușchii înghețați.",
+                "en": "Hot water relaxes frozen muscles."
+              }
+            },
+            {
+              "name": "Park of Hungarian-Turkish Friendship",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Laub auf den Wegen.",
+                "hu": "Vigyázzon a fagyott levelekre az utakon.",
+                "ro": "Atenție la frunzele înghețate pe poteci.",
+                "en": "Watch out for frozen leaves on the paths."
+              }
+            },
+            {
+              "name": "Ali Pasha Mosque",
+              "tip_5lang": {
+                "de": "Letzter Stopp zum Aufwärmen der Hände.",
+                "hu": "Utolsó lehetőség a kezek felmelegítésére.",
+                "ro": "Ultimul popas pentru a vă încălzi mâinile.",
+                "en": "Final stop to warm up your hands."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und Wintersocken.",
+              "Achten Sie auf Glatteis in schattigen Kurven.",
+              "Benutzen Sie Licht, da es im Winter früh dunkel wird.",
+              "Ein heißer Tee im Schlosskaffee hilft gegen die Kälte."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és vastag zoknit.",
+              "Ügyeljen a jegesedésre az árnyékos kanyarokban.",
+              "Használjon lámpát, mert télen korán sötétedik.",
+              "Egy forró tea a várban segít a hideg ellen."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și șosete groase.",
+              "Atenție la polei în curbele umbrite.",
+              "Folosiți luminile, se întunecă devreme iarna.",
+              "Un ceai fierbinte la cafeneaua cetății ajută enorm."
+            ],
+            "en": [
+              "Wear windproof gloves and thermal socks.",
+              "Watch out for black ice in shaded corners.",
+              "Use lights as it gets dark very early in winter.",
+              "A hot tea at the castle café helps fight the chill."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -942,6 +1288,188 @@
           "Combine driving with short walks for the best experience.",
           "Fill up your tank before leaving the city if you plan further trips."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequemer Start mit dem Auto am Burgzentrum.\n\nWir parken nah am Eingang, um trocken in das Museum zu gelangen.\n\nNach der Fahrt zur Turbéker Kirche verbringen wir den Nachmittag im Thermalbad.\n\nDas Wetter spielt drinnen keine Rolle, bevor wir im trockenen Fahrzeug den Tag beenden.",
+            "hu": "Kényelmes kezdés autóval a várközpontban.\n\nKözel parkolunk, hogy szárazon jussunk a múzeumba.\n\nA turbéki templom után a délutánt a fürdőben töltjük, ahol az időjárás nem számít.\n\nVégül a száraz és kényelmes autóban zárjuk a napot.",
+            "ro": "Început confortabil cu mașina la cetate.\n\nParcăm aproape pentru a ajunge uscați la muzeu.\n\nDupă vizita la Turbék, petrecem după-amiaza la băile termale, unde vremea nu contează.\n\nÎncheiem ziua în confortul mașinii, departe de ploaie.",
+            "en": "A comfortable car start at the castle cluster.\n\nWe park nearby to reach the museum dry.\n\nAfter driving to the Turbék church, we spend the afternoon at the thermal bath.\n\nWeather is irrelevant inside the pools, and we finish the day in our dry vehicle."
+          },
+          "stops": [
+            {
+              "name": "Szigetvár Center Cluster",
+              "tip_5lang": {
+                "de": "Parkplätze direkt am Burgring nutzen.",
+                "hu": "Használja a vár körüli parkolókat.",
+                "ro": "Folosiți parcările de lângă cetate.",
+                "en": "Use the parking lots near the castle."
+              }
+            },
+            {
+              "name": "Szigetvár Castle & Museum",
+              "tip_5lang": {
+                "de": "Schirm im Auto lassen, wenn Sie drin sind.",
+                "hu": "Az esernyőt a múzeumban hagyhatja.",
+                "ro": "Lăsați umbrela în mașină odată intrați.",
+                "en": "Leave the umbrella in the car once inside."
+              }
+            },
+            {
+              "name": "Zrínyi Square",
+              "tip_5lang": {
+                "de": "Kurzparkzone beachten, oft nass.",
+                "hu": "Figyeljen a rövid távú parkolásra.",
+                "ro": "Atenție la zona de parcare scurtă.",
+                "en": "Mind the short-term parking zones."
+              }
+            },
+            {
+              "name": "Turbék Pilgrimage Church",
+              "tip_5lang": {
+                "de": "Anfahrt über asphaltierte Nebenstraßen.",
+                "hu": "Aszfaltozott mellékutakon közelíthető meg.",
+                "ro": "Acces pe drumuri secundare asfaltate.",
+                "en": "Access via paved secondary roads."
+              }
+            },
+            {
+              "name": "Park of Hungarian-Turkish Friendship",
+              "tip_5lang": {
+                "de": "Parken direkt am Parkeingang möglich.",
+                "hu": "Parkolás közvetlenül a bejáratnál.",
+                "ro": "Parcare disponibilă chiar la intrare.",
+                "en": "Parking is available right at the entrance."
+              }
+            },
+            {
+              "name": "Thermal and Spa Bath",
+              "tip_5lang": {
+                "de": "Großer Parkplatz, ideal bei Regen.",
+                "hu": "Nagy parkoló, ideális esőben.",
+                "ro": "Parcare mare, ideală pe ploaie.",
+                "en": "Large parking lot, ideal for rainy days."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkmöglichkeiten nah an den Eingängen.",
+              "Beschlagene Scheiben durch Klimaanlage vermeiden.",
+              "Die Fahrt nach Turbék ist bei Regen im Auto angenehmer.",
+              "Halten Sie Handtücher im Auto für den Notfall bereit."
+            ],
+            "hu": [
+              "Használja a bejáratokhoz közeli parkolókat.",
+              "A párosodást klímával akadályozza meg.",
+              "Turbék felé az út esőben kényelmesebb autóval.",
+              "Tartson törölközőt az autóban vészhelyzetre."
+            ],
+            "ro": [
+              "Folosiți parcările cele mai apropiate de intrări.",
+              "Preveniți aburirea geamurilor folosind AC.",
+              "Drumul spre Turbék este mult mai plăcut cu mașina.",
+              "Țineți prosoape în mașină pentru orice eventualitate."
+            ],
+            "en": [
+              "Use the parking spots closest to the entrances.",
+              "Prevent window fogging by using the AC.",
+              "The drive to Turbék is much better by car in rain.",
+              "Keep spare towels in the car just in case."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Roadtrip durch Szigetvár.\n\nWir starten beheizt am Burgzentrum und genießen die schneebedeckten Zinnen.\n\nAuf dem Weg zur Turbéker Kirche wärmen wir uns im Auto auf.\n\nDen Nachmittag verbringen wir im Spa, während draußen der Frost klirrt, und fahren im Warmen zurück.",
+            "hu": "Téli autós túra Szigetváron.\n\nFűtött kocsival indulunk a várközponttól, csodálva a havas bástyákat.\n\nA turbéki templom felé élvezzük az utazás kényelmét.\n\nA délutánt a fürdőben töltjük, miközben odakint röpködnek a mínuszok, majd melegben autózunk haza.",
+            "ro": "Excursie de iarnă cu mașina în Szigetvár.\n\nÎncepem cu căldură la cetate, admirând bastioanele înzăpezite.\n\nMergem spre biserica Turbék, bucurându-ne de confortul deplasării.\n\nDupă-amiaza la băi ne protejează de ger, încheind ziua la căldură în mașină.",
+            "en": "Winter road trip through Szigetvár.\n\nWe start in a heated car at the castle cluster, admiring the frosty bastions.\n\nWe drive to the Turbék church in total comfort.\n\nWe spend the afternoon at the spa while it freezes outside, driving home in warmth."
+          },
+          "stops": [
+            {
+              "name": "Szigetvár Center Cluster",
+              "tip_5lang": {
+                "de": "Vorsicht bei überfrierender Nässe auf Parkplätzen.",
+                "hu": "Vigyázzon a lefagyásokra a parkolókban.",
+                "ro": "Atenție la polei în zonele de parcare.",
+                "en": "Watch out for black ice in parking areas."
+              }
+            },
+            {
+              "name": "Szigetvár Castle & Museum",
+              "tip_5lang": {
+                "de": "Besuch der Innenräume spart Heizkosten im Auto.",
+                "hu": "A benti látogatás alatt hűlhet az autó.",
+                "ro": "Interiorul muzeului este bine încălzit.",
+                "en": "The museum interior is well heated."
+              }
+            },
+            {
+              "name": "Zrínyi Square",
+              "tip_5lang": {
+                "de": "Kurzer Stopp reicht bei der Kälte.",
+                "hu": "Rövid megálló is elég a nagy hidegben.",
+                "ro": "Un popas scurt e suficient pe ger.",
+                "en": "A short stop is enough in the cold."
+              }
+            },
+            {
+              "name": "Turbék Pilgrimage Church",
+              "tip_5lang": {
+                "de": "Straße kann bei Schneefall rutschig sein.",
+                "hu": "Hóesésben az út csúszós lehet.",
+                "ro": "Drumul poate fi alunecos dacă ninge.",
+                "en": "The road can be slippery if it snows."
+              }
+            },
+            {
+              "name": "Park of Hungarian-Turkish Friendship",
+              "tip_5lang": {
+                "de": "Winterlandschaft vom Parkplatz aus sichtbar.",
+                "hu": "Téli táj a parkolóból is látható.",
+                "ro": "Peisaj hibernal vizibil din parcare.",
+                "en": "Winter landscape visible from the lot."
+              }
+            },
+            {
+              "name": "Thermal and Spa Bath",
+              "tip_5lang": {
+                "de": "Auto heizt sich beim Umziehen wieder auf.",
+                "hu": "Az autó bemelegszik, mire végez a fürdőben.",
+                "ro": "Mașina se va încălzi rapid la plecare.",
+                "en": "The car will warm up quickly upon leaving."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Streusalz und Glätte auf Nebenstraßen.",
+              "Parken Sie bevorzugt an sonnigen Plätzen gegen Frost.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Fahrt nach Turbék kann bei Neuschnee reizvoll sein."
+            ],
+            "hu": [
+              "Ügyeljen az útszóró sóra és a mellékutak csúszósságára.",
+              "Lehetőleg napos helyen parkoljon a fagy ellen.",
+              "Ellenőrizze a szélvédőmosó fagyállóságát.",
+              "A turbéki út friss hóban nagyon látványos lehet."
+            ],
+            "ro": [
+              "Atenție la sarea de pe drum și la polei pe străduțe.",
+              "Parcați în locuri însorite pentru a evita înghețul.",
+              "Verificați lichidul de parbriz să fie rezistent la îngheț.",
+              "Drumul spre Turbék este superb pe ninsoare proaspătă."
+            ],
+            "en": [
+              "Watch out for road salt and ice on side streets.",
+              "Park in sunny spots to minimize windshield frost.",
+              "Check that your washer fluid is winter-ready.",
+              "The drive to Turbék is very scenic after fresh snow."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1238,6 +1766,170 @@
           "Have small change ready for tickets.",
           "Buses can be crowded in summer, so allow some extra time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir bequem den Zrínyi-Platz.\n\nDie kurzen Wege zur Moschee und zur Burg minimieren die Zeit im Regen.\n\nMittags bietet die Burg Schutz, bevor wir mit dem Nahverkehr zum Thermalbad fahren.\n\nIn den warmen Innenbecken genießen wir die Zeit, bevor wir trocken zurückfahren.",
+            "hu": "Busszal kényelmesen érjük el a Zrínyi teret.\n\nA rövid séta a dzsámiig és a várig minimálisra csökkenti az esőben töltött időt.\n\nDélben a vár múzeuma nyújt menedéket, majd helyi járattal utazunk a fürdőig.\n\nA meleg belső medencékben pihenünk, végül a visszautat is szárazon tesszük meg.",
+            "ro": "Cu autobuzul ajungem confortabil în Piața Zrínyi.\n\nDistanțele scurte până la moschee și cetate reduc timpul petrecut în ploaie.\n\nDupă muzeul cetății, luăm transportul local spre băi.\n\nAcolo ne bucurăm de bazinele interioare, încheind ziua cu o revenire uscată.",
+            "en": "By bus, we easily reach Zrínyi Square.\n\nShort walks to the mosque and castle minimize rain exposure.\n\nThe castle museum provides shelter before we take local transit to the thermal bath.\n\nWe enjoy the warm indoor pools before heading back dry and relaxed."
+          },
+          "stops": [
+            {
+              "name": "Zrínyi Square",
+              "tip_5lang": {
+                "de": "Bushaltestelle hat einen Unterstand.",
+                "hu": "A buszmegálló fedett váróval rendelkezik.",
+                "ro": "Stația de autobuz are un adăpost.",
+                "en": "The bus stop has a shelter."
+              }
+            },
+            {
+              "name": "Szigetvár Castle & Museum",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle.",
+                "hu": "Rövid gyalogút a megállótól.",
+                "ro": "Drum scurt de mers pe jos de la stație.",
+                "en": "Short walk from the transit stop."
+              }
+            },
+            {
+              "name": "Thermal and Spa Bath",
+              "tip_5lang": {
+                "de": "Direkte Verbindung mit Stadtbussen.",
+                "hu": "Közvetlen kapcsolat városi buszokkal.",
+                "ro": "Legătură directă cu autobuzele urbane.",
+                "en": "Direct connection with local buses."
+              }
+            },
+            {
+              "name": "Park of Hungarian-Turkish Friendship",
+              "tip_5lang": {
+                "de": "Haltestelle liegt direkt an der Straße.",
+                "hu": "A megálló közvetlenül az út mellett van.",
+                "ro": "Stația este chiar lângă drumul principal.",
+                "en": "The stop is right by the main road."
+              }
+            },
+            {
+              "name": "Ali Pasha Mosque",
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt in der Nähe.",
+                "hu": "Központi átszállási pont a közelben.",
+                "ro": "Punct central de transfer în apropiere.",
+                "en": "Central transfer point nearby."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Busfahrpläne online bei Regen.",
+              "Tragen Sie wasserfeste Schuhe für die Umstiege.",
+              "Haltestellen in Szigetvár sind meist überdacht.",
+              "Fahrkarten können oft beim Fahrer gekauft werden."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet online az esőben.",
+              "Viseljen vízálló cipőt az átszállásokhoz.",
+              "Szigetvár megállói többnyire fedettek.",
+              "A jegyeket gyakran a buszvezetőnél is megveheti."
+            ],
+            "ro": [
+              "Verificați orarul online pe timp de ploaie.",
+              "Purtați încălțăminte impermeabilă pentru transferuri.",
+              "Stațiile din Szigetvár sunt în mare parte acoperite.",
+              "Biletele pot fi cumpărate adesea de la șofer."
+            ],
+            "en": [
+              "Check bus schedules online during rainy weather.",
+              "Wear waterproof shoes for transit transfers.",
+              "Most bus stops in Szigetvár have covers.",
+              "Tickets can often be bought from the driver."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Warmer Start im Bus zum Zrínyi-Platz.\n\nDer kurze Spaziergang zur Ali-Pascha-Moschee belebt in der Winterluft.\n\nNach dem Aufwärmen im Burgmuseum geht es zügig zum Thermalbad.\n\nDort verbringen wir den Nachmittag im heißen Wasser, bevor der beheizte Bus uns zurückbringt.",
+            "hu": "Meleg buszban indul a nap a Zrínyi térig.\n\nA rövid séta a dzsámihoz felpezsdít a téli levegőn.\n\nA vármúzeumi felmelegedés után helyi járattal gyorsan a fürdőbe érünk.\n\nA forró vízben várjuk meg a sötétedést, végül fűtött buszon utazunk haza.",
+            "ro": "Începe ziua într-un autobuz călduros spre Piața Zrínyi.\n\nScurta plimbare spre moschee este revigorantă în aerul rece.\n\nDupă pauza de căldură de la muzeu, ajungem rapid la băi.\n\nAcolo petrecem după-amiaza în apă fierbinte, revenind cu bus-ul încălzit.",
+            "en": "Starting in a warm bus to Zrínyi Square.\n\nThe short walk to the mosque is refreshing in the winter air.\n\nAfter a warm-up break at the museum, local transit takes us to the spa.\n\nWe enjoy the hot water until dark, then head home in a heated bus."
+          },
+          "stops": [
+            {
+              "name": "Zrínyi Square",
+              "tip_5lang": {
+                "de": "Kurze Wartezeiten an der Kälte einplanen.",
+                "hu": "Tervezzen rövid várakozással a hidegben.",
+                "ro": "Planificați timpi scurți de așteptare în frig.",
+                "en": "Plan for short wait times in the cold."
+              }
+            },
+            {
+              "name": "Szigetvár Castle & Museum",
+              "tip_5lang": {
+                "de": "Aufwärmen im Museumsshop möglich.",
+                "hu": "A múzeumi boltban is felmelegedhet.",
+                "ro": "Vă puteți încălzi în magazinul muzeului.",
+                "en": "You can warm up in the museum shop."
+              }
+            },
+            {
+              "name": "Thermal and Spa Bath",
+              "tip_5lang": {
+                "de": "Warmer Aufenthalt bis zur Abfahrt.",
+                "hu": "Maradjon bent a busz indulásáig.",
+                "ro": "Rămâneți la căldură până la plecare.",
+                "en": "Stay inside until the bus departs."
+              }
+            },
+            {
+              "name": "Park of Hungarian-Turkish Friendship",
+              "tip_5lang": {
+                "de": "Fahrplan für den Rückweg genau prüfen.",
+                "hu": "Pontosan ellenőrizze a visszautat.",
+                "ro": "Verificați atent orarul für retur.",
+                "en": "Check the return schedule carefully."
+              }
+            },
+            {
+              "name": "Ali Pasha Mosque",
+              "tip_5lang": {
+                "de": "Kurzer Weg zur beheizten Bushaltestelle.",
+                "hu": "Rövid út a fűtött váróhelyiségig.",
+                "ro": "Drum scurt până la stația de autobuz.",
+                "en": "Short walk to the bus stop area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeit-Buszeiten.",
+              "Halten Sie sich in Museen auf, um Wartezeiten zu überbrücken.",
+              "Winterfahrpläne können abweichen.",
+              "Der Bus zum Thermalbad fährt regelmäßig vom Zentrum."
+            ],
+            "hu": [
+              "Használja az alkalmazást a valós idejű buszokhoz.",
+              "Töltse az időt múzeumban a busz érkezéséig.",
+              "A téli menetrendek eltérhetnek.",
+              "A fürdőbe tartó busz rendszeresen jár a központból."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru orele de bus în timp real.",
+              "Petreceți timpul în muzeu până la sosirea bus-ului.",
+              "Orarele de iarnă pot suferi modificări.",
+              "Autobuzul spre băi circulă regulat din centru."
+            ],
+            "en": [
+              "Use the app for real-time bus arrivals.",
+              "Spend time inside museums while waiting for buses.",
+              "Winter schedules may differ from summer ones.",
+              "The bus to the thermal bath runs regularly from the center."
+            ]
+          }
+        }
       }
     }
   }

@@ -312,6 +312,188 @@
           "Wear comfortable shoes as you'll be walking on cobblestones quite a bit.",
           "A reusable water bottle is handy as there are many public fountains."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt im historischen Herregården, dessen massive Mauern einen hervorragenden Schutz vor dem norwegischen Regen bieten. Mittags ziehen wir uns in das Larvik Museum zurück, um in die maritime Geschichte und die Welt von Thor Heyerdahl einzutauchen. Am Nachmittag führt der Weg zur Kirche und zum Tollerodden, wo die graue, stürmische See eine beeindruckende, nordische Kulisse bildet. Den Abend verbringen wir im wohltuend warmen Farris Bad, bevor ein kurzer, erfrischender Gang durch den Bøkeskogen den Tag abschließt.",
+            "hu": "A délelőttöt a történelmi Herregården falai között indítjuk, ahol a vastag falak biztos menedéket nyújtanak az eső elől. Délben a Larvik Múzeum tárlatait böngésszük, megismerve a város tengeri múltját és Thor Heyerdahl örökségét. Délután a templom érintésével a Tollerodden-félszigetre sétálunk, ahol a viharos tenger látványa drámai hangulatot áraszt. Az estét a Farris Bad meleg vizes medencéiben zárjuk, majd egy rövid, frissítő sétát teszünk a bükkerdő védelmező lombjai alatt.",
+            "ro": "Dimineața începe la istoricul Herregården, ale cărui ziduri masive oferă o protecție excelentă împotriva ploii norvegiene. La prânz, ne retragem la Muzeul Larvik pentru a explora istoria maritimă și moștenirea lui Thor Heyerdahl. După-amiaza, drumul ne poartă spre biserică și Tollerodden, unde marea cenușie și agitată creează un decor nordic impresionant. Seara o petrecem în apele calde de la Farris Bad, înainte ca o scurtă plimbare revigorantă prin Bøkeskogen să încheie ziua.",
+            "en": "The morning begins at the historic Herregården, where massive walls offer excellent protection from the Norwegian rain. At noon, retreat to the Larvik Museum to dive into maritime history and the world of Thor Heyerdahl. In the afternoon, the route leads past the church to Tollerodden, where the grey, stormy sea provides an impressive Nordic backdrop. Spend the evening in the soothing warmth of Farris Bad, before a short, refreshing walk through Bøkeskogen concludes the day."
+          },
+          "stops": [
+            {
+              "name": "Herregården (Manor House)",
+              "tip_5lang": {
+                "de": "Die Innenräume sind trocken; ideal für den Start bei Regen.",
+                "hu": "A belső terek szárazak, ideális helyszín esős kezdéshez.",
+                "ro": "Interioarele sunt uscate, ideale pentru un început ploios.",
+                "en": "The interiors are dry; ideal for a rainy start."
+              }
+            },
+            {
+              "name": "Larvik Museum",
+              "tip_5lang": {
+                "de": "Verlängern Sie den Aufenthalt im Museumscafé, bis der Guss nachlässt.",
+                "hu": "Hosszabbítsa meg a látogatást a múzeumi kávézóban a zápor végéig.",
+                "ro": "Prelungiți vizita la cafeneaua muzeului până trece ploaia.",
+                "en": "Extend your stay at the museum cafe until the shower subsides."
+              }
+            },
+            {
+              "name": "Larvik Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Kirchenportal als kurzen Unterstand.",
+                "hu": "Használja a templom bejáratát rövid menedékként.",
+                "ro": "Folosiți portalul bisericii ca scurt adăpost.",
+                "en": "Use the church portal as a quick shelter."
+              }
+            },
+            {
+              "name": "Tollerodden",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Holzstegen am Ufer.",
+                "hu": "Vigyázat, a parti fa pallók esőben csúszósak.",
+                "ro": "Atenție la pasarelele de lemn umede de pe mal.",
+                "en": "Caution on the wet wooden walkways by the shore."
+              }
+            },
+            {
+              "name": "Farris Bad",
+              "tip_5lang": {
+                "de": "Das ultimative Ziel für einen verregneten Nachmittag.",
+                "hu": "A végső úti cél egy esős délutánon.",
+                "ro": "Destinația supremă pentru o după-amiază ploioasă.",
+                "en": "The ultimate destination for a rainy afternoon."
+              }
+            },
+            {
+              "name": "Bøkeskogen (The Beech Forest)",
+              "tip_5lang": {
+                "de": "Das dichte Blätterdach wirkt wie ein natürlicher Regenschirm.",
+                "hu": "A sűrű lombkorona természetes esernyőként funkcionál.",
+                "ro": "Baldachinul dens de frunze acționează ca o umbrelă naturală.",
+                "en": "The dense leaf canopy acts as a natural umbrella."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Regenschirme sind bei Küstenwind oft nutzlos; wählen Sie eine windfeste Regenjacke.",
+              "Die Pflastersteine im Zentrum können bei Nässe rutschig sein.",
+              "Farris Bad bietet den besten Rückzugsort vor schlechtem Wetter.",
+              "Nutzen Sie die Indoor-Ausstellungen des Museums für längere Pausen."
+            ],
+            "hu": [
+              "A parti szélben az esernyő gyakran használhatatlan, válasszon szélálló esőkabátot.",
+              "A központ macskakövei nedvesen csúszóssá válhatnak.",
+              "A Farris Bad a legjobb menedék rossz idő esetén.",
+              "Használja ki a múzeum fedett kiállításait a hosszabb szünetekhez."
+            ],
+            "ro": [
+              "Umbrelele sunt adesea inutile în vântul de coastă; alegeți o jachetă de ploaie rezistentă.",
+              "Pavelele din centru pot deveni alunecoase când sunt ude.",
+              "Farris Bad oferă cel mai bun refugiu în caz de vreme rea.",
+              "Folosiți expozițiile interioare ale muzeului pentru pauze mai lungi."
+            ],
+            "en": [
+              "Umbrellas are often useless in coastal winds; choose a windproof raincoat.",
+              "The cobblestones in the center can be slippery when wet.",
+              "Farris Bad offers the best sanctuary from bad weather.",
+              "Utilize the museum's indoor exhibits for longer breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt am Herregården, wo der Frost die historischen Holzhäuser verzaubert. Mittags bietet das Larvik Museum eine willkommene Aufwärmpause in den beheizten Ausstellungsräumen. Da die Sonne bereits am frühen Nachmittag tief steht, besuchen wir die Kirche und den Tollerodden, um das magische 'Blaue Licht' über dem Fjord einzufangen. Den Abend verbringen wir in der wohligen Wärme des Farris Bad, während draußen die winterliche Dunkelheit über Larvik hereinbricht, gefolgt von einem kurzen Gang durch den kahlen Bøkeskogen.",
+            "hu": "A tiszta téli reggel a Herregårdennél indul, ahol a zúzmara varázslatossá teszi a régi faházakat. Délben a Larvik Múzeum fűtött tereiben melegedünk fel a kiállítások között. Mivel a nap már kora délután alacsonyan jár, a templomot és a Tolleroddent érintve vadásszuk le a fjord feletti 'kék óra' fényeit. Az estét a Farris Bad gőzölgő medencéiben töltjük, miközben odakint leszáll a sötétség, majd teszünk egy rövid sétát a téli álmot alvó bükkerdőben.",
+            "ro": "O dimineață senină de iarnă începe la Herregården, unde înghețul transformă casele istorice de lemn. La prânz, Muzeul Larvik oferă o pauză de încălzire binevenită în sălile de expoziție încălzite. Deoarece soarele apune devreme, vizităm biserica și Tollerodden pentru a surprinde 'lumina albastră' magică deasupra fiordului. Seara o petrecem în căldura de la Farris Bad, în timp ce afară se așterne întunericul de iarnă, urmată de o scurtă plimbare prin Bøkeskogen desfrunzit.",
+            "en": "A clear winter morning begins at Herregården, where frost enchants the historic wooden houses. At noon, the Larvik Museum offers a welcome warming break in the heated exhibition rooms. As the sun sets early, visit the church and Tollerodden to catch the magical 'Blue Light' over the fjord. Spend the evening in the cozy warmth of Farris Bad while winter darkness settles over Larvik, followed by a quick walk through the dormant Bøkeskogen."
+          },
+          "stops": [
+            {
+              "name": "Herregården (Manor House)",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stufen am Eingang.",
+                "hu": "Vigyázzon a jeges lépcsőkre a bejáratnál.",
+                "ro": "Atenție la treptele înghețate de la intrare.",
+                "en": "Watch out for icy steps at the entrance."
+              }
+            },
+            {
+              "name": "Larvik Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre schwere Winterkleidung.",
+                "hu": "Használja a ruhatárat a nehéz téli ruhákhoz.",
+                "ro": "Folosiți garderoba pentru hainele groase de iarnă.",
+                "en": "Use the cloakroom for your heavy winter clothing."
+              }
+            },
+            {
+              "name": "Larvik Church",
+              "tip_5lang": {
+                "de": "Die Kirche ist im Winter oft festlich beleuchtet.",
+                "hu": "A templom télen gyakran ünnepi díszkivilágítást kap.",
+                "ro": "Biserica este adesea iluminată festiv în timpul iernii.",
+                "en": "The church is often festively lit in winter."
+              }
+            },
+            {
+              "name": "Tollerodden",
+              "tip_5lang": {
+                "de": "Extrem windig; Mütze und Handschuhe sind hier Pflicht.",
+                "hu": "Rendkívül szeles; sapka és kesztyű itt kötelező.",
+                "ro": "Extrem de vântos; căciula și mănușile sunt obligatorii aici.",
+                "en": "Extremely windy; hat and gloves are mandatory here."
+              }
+            },
+            {
+              "name": "Farris Bad",
+              "tip_5lang": {
+                "de": "Der Außenpool bietet einen tollen Kontrast zur kalten Seeluft.",
+                "hu": "A kültéri medence remek kontrasztot nyújt a hideg tengeri levegővel.",
+                "ro": "Piscina exterioară oferă un contrast grozav cu aerul rece de mare.",
+                "en": "The outdoor pool offers a great contrast to the cold sea air."
+              }
+            },
+            {
+              "name": "Bøkeskogen (The Beech Forest)",
+              "tip_5lang": {
+                "de": "Die Wege können sehr glatt sein; Eisspikes (Brodder) empfohlen.",
+                "hu": "Az utak nagyon csúszósak lehetnek; csúszásgátló használata ajánlott.",
+                "ro": "Potecile pot fi foarte alunecoase; se recomandă gheare pentru gheață.",
+                "en": "Paths can be very slippery; ice cleats (brodder) recommended."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 15:30 Uhr unter.",
+              "Tragen Sie Wollkleidung nach dem Zwiebelprinzip.",
+              "Eisspikes für die Schuhe sind in Bøkeskogen lebensnotwendig.",
+              "Viele historische Gebäude sind im Winter stimmungsvoll illuminiert."
+            ],
+            "hu": [
+              "Télen a nap 15:30 körül nyugszik.",
+              "Viseljen gyapjú ruházatot a réteges öltözködés jegyében.",
+              "A bükkerdőben a cipőre húzható csúszásgátló elengedhetetlen.",
+              "Sok történelmi épület hangulatos díszkivilágítást kap télen."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 15:30 în timpul iernii.",
+              "Purtați haine de lână în straturi conform principiului cepei.",
+              "Ghearele pentru gheață sunt vitale în Bøkeskogen.",
+              "Multe clădiri istorice sunt iluminate atmosferic iarna."
+            ],
+            "en": [
+              "The sun sets around 3:30 PM in winter.",
+              "Wear wool clothing according to the layering principle.",
+              "Ice cleats for your shoes are vital in Bøkeskogen.",
+              "Many historic buildings are atmospherically illuminated in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -645,6 +827,206 @@
           "A helmet is highly recommended.",
           "Larvik is hilly, be prepared for some climbs."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir die Radtour am Herregården, wo wir uns kurz unterstellen können. Das Larvik Museum bietet danach eine ausgiebige trockene Pause. Die Fahrt durch den Bøkeskogen ist dank des dichten Daches geschützter als erwartet, während der Fritzøehus Park im Regen eine mystische Ruhe ausstrahlt. Den Nachmittag verbringen wir beim Aufwärmen im Farris Bad, bevor wir über Tollerodden zum Minnehallen radeln, wo die Gischt der See den Regen fast vergessen lässt.",
+            "hu": "Az eső ellenére a Herregårdennél kezdjük a tekerést, kihasználva a fedett részeket. A Larvik Múzeum ezután bőséges száraz pihenőt kínál. A bükkerdőn keresztül vezető út a sűrű lombkorona miatt védettebb a vártnál, míg a Fritzøehus Park az esőben misztikus nyugalmat áraszt. A délutánt melegedéssel töltjük a Farris Badban, majd a Tolleroddent érintve a Minnehallenhez tekerünk, ahol a tenger permete szinte feledteti az esőt.",
+            "ro": "În ciuda ploii, începem turul cu bicicleta la Herregården, unde ne putem adăposti scurt. Muzeul Larvik oferă apoi o pauză uscată prelungită. Călătoria prin Bøkeskogen este mai protejată decât ne-am așteptat datorită baldachinului dens, în timp ce Parcul Fritzøehus emană o liniște mistică în ploaie. După-amiaza o petrecem încălzindu-ne la Farris Bad, înainte de a pedala prin Tollerodden spre Minnehallen, unde spuma mării te face aproape să uiți de ploaie.",
+            "en": "Despite the rain, we start the bike tour at Herregården, where we can take a short shelter. The Larvik Museum then offers a generous dry break. The ride through Bøkeskogen is more sheltered than expected thanks to the dense canopy, while Fritzøehus Park radiates a mystical calm in the rain. Spend the afternoon warming up at Farris Bad before cycling via Tollerodden to Minnehallen, where the sea spray almost makes you forget the rain."
+          },
+          "stops": [
+            {
+              "name": "Herregården",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen; nasse Felgen bremsen schlechter.",
+                "hu": "Ellenőrizze a fékeket; a vizes abroncsok lassabban fognak.",
+                "ro": "Verificați frânele; jantele umede frânează mai greu.",
+                "en": "Check your brakes; wet rims brake less effectively."
+              }
+            },
+            {
+              "name": "Larvik Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Regenkleidung auszuschütteln.",
+                "hu": "Használja ki a megállót az esőruházat lerázására.",
+                "ro": "Folosiți oprirea pentru a scutura hainele de ploaie.",
+                "en": "Use the stop to shake off your rain gear."
+              }
+            },
+            {
+              "name": "Bøkeskogen",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem Laub auf den Wegen.",
+                "hu": "Vigyázat, az utakon a vizes levelek csúszhatnak.",
+                "ro": "Atenție la frunzele alunecoase de pe poteci.",
+                "en": "Watch out for slippery leaves on the paths."
+              }
+            },
+            {
+              "name": "Fritzøehus Park",
+              "tip_5lang": {
+                "de": "Die befestigten Wege sind auch bei Regen gut befahrbar.",
+                "hu": "A kiépített utak esőben is jól tekerhetőek.",
+                "ro": "Drumurile pavate sunt ușor de parcurs chiar și pe ploaie.",
+                "en": "The paved paths are easy to ride even in the rain."
+              }
+            },
+            {
+              "name": "Farris Bad",
+              "tip_5lang": {
+                "de": "Fahrradabstellplätze sind direkt am Eingang vorhanden.",
+                "hu": "Kerékpártárolók közvetlenül a bejáratnál találhatóak.",
+                "ro": "Locurile de parcare pentru biciclete sunt chiar la intrare.",
+                "en": "Bike parking is available right at the entrance."
+              }
+            },
+            {
+              "name": "Tollerodden",
+              "tip_5lang": {
+                "de": "Meiden Sie die hölzernen Rampen bei starkem Regen.",
+                "hu": "Heves esőben kerülje a fa rámpákat.",
+                "ro": "Evitați rampele de lemn în timpul ploilor abundente.",
+                "en": "Avoid the wooden ramps during heavy rain."
+              }
+            },
+            {
+              "name": "Minnehallen",
+              "tip_5lang": {
+                "de": "Starke Windböen an der Küste; halten Sie den Lenker fest.",
+                "hu": "Erős széllökések a parton; fogja erősen a kormányt.",
+                "ro": "Rafale puternice de vânt pe coastă; țineți bine ghidonul.",
+                "en": "Strong wind gusts on the coast; hold the handlebars firmly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter in Larvik unverzichtbar.",
+              "Wählen Sie wasserfeste Packtaschen für Ihr Gepäck.",
+              "Die Abfahrten im Stadtgebiet erfordern erhöhte Vorsicht.",
+              "Vermeiden Sie Waldwege mit tiefem Schlamm."
+            ],
+            "hu": [
+              "A sárvédő ebben az időben nélkülözhetetlen Larvikban.",
+              "Válasszon vízálló táskákat a csomagjaihoz.",
+              "A városi lejtők fokozott óvatosságot igényelnek.",
+              "Kerülje a mély sáros erdei utakat."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile în această vreme în Larvik.",
+              "Alegeți genți impermeabile pentru bagaje.",
+              "Coborârile din oraș necesită prudență sporită.",
+              "Evitați potecile forestiere cu noroi adânc."
+            ],
+            "en": [
+              "Mudguards are indispensable in this weather in Larvik.",
+              "Choose waterproof panniers for your luggage.",
+              "Descents in the city area require increased caution.",
+              "Avoid forest paths with deep mud."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour startet frisch am Herregården, wo der kalte Wind vom Fjord die Sinne schärft. Nach dem Larvik Museum führt die Route durch den tief verschneiten oder frostigen Bøkeskogen, was ein einzigartiges Fahrgefühl bietet. Im Fritzøehus Park genießen wir die klare Sicht, bevor uns das Farris Bad mit seiner Wärme belohnt. Den Abschluss bildet die Fahrt über Tollerodden zum Minnehallen, wo wir die kühle Meeresbrise und die ersten Sterne am frühen Winterhimmel erleben.",
+            "hu": "A téli bringázás frissen indul a Herregårdennél, ahol a fjord felől fújó hideg szél élesíti az érzékeket. A Larvik Múzeum után az utunk a havas vagy zúzmarás bükkerdőn vezet keresztül, ami egyedülálló élmény. A Fritzøehus Parkban élvezzük a tiszta kilátást, mielőtt a Farris Bad melege megjutalmazna minket. A túrát a Tolleroddenen át a Minnehallenig tartó szakasz zárja, ahol a hűvös tengeri szellőt és a korai téli égbolt első csillagait csodálhatjuk meg.",
+            "ro": "Turul de iarnă cu bicicleta începe proaspăt la Herregården, unde vântul rece dinspre fiord ascute simțurile. După Muzeul Larvik, traseul trece prin Bøkeskogen înzăpezit sau înghețat, oferind o senzație unică de condus. În Parcul Fritzøehus ne bucurăm de vizibilitatea clară, înainte ca Farris Bad să ne răsplătească cu căldura sa. Încheiem cu drumul prin Tollerodden spre Minnehallen, unde experimentăm briza răcoroasă a mării și primele stele de pe cerul de iarnă.",
+            "en": "The winter bike tour starts fresh at Herregården, where the cold wind from the fjord sharpens the senses. After the Larvik Museum, the route leads through the snowy or frosty Bøkeskogen, offering a unique riding experience. In Fritzøehus Park, we enjoy the clear views before Farris Bad rewards us with its warmth. We conclude with a ride via Tollerodden to Minnehallen, experiencing the cool sea breeze and the first stars in the early winter sky."
+          },
+          "stops": [
+            {
+              "name": "Herregården",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für den kalten Fahrtwind.",
+                "hu": "Viseljen szélálló kesztyűt a hideg menetszél ellen.",
+                "ro": "Purtați mănuși rezistente la vânt pentru vântul rece de deplasare.",
+                "en": "Wear windproof gloves against the cold headwind."
+              }
+            },
+            {
+              "name": "Larvik Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Füße auf, bevor es weitergeht.",
+                "hu": "Melegítse fel a lábait, mielőtt továbbindulna.",
+                "ro": "Încălziți-vă picioarele înainte de a continua.",
+                "en": "Warm up your feet before moving on."
+              }
+            },
+            {
+              "name": "Bøkeskogen",
+              "tip_5lang": {
+                "de": "Achtung: Spurrillen im Eis können gefährlich sein.",
+                "hu": "Figyelem: a jégen lévő nyomvályúk veszélyesek lehetnek.",
+                "ro": "Atenție: șanțurile în gheață pot fi periculoase.",
+                "en": "Attention: ruts in the ice can be dangerous."
+              }
+            },
+            {
+              "name": "Fritzøehus Park",
+              "tip_5lang": {
+                "de": "Fahren Sie defensiv auf eventuell vereisten Wegen.",
+                "hu": "Vezessen óvatosan az esetlegesen jeges utakon.",
+                "ro": "Conduceți defensiv pe drumurile eventual înghețate.",
+                "en": "Drive defensively on potentially icy paths."
+              }
+            },
+            {
+              "name": "Farris Bad",
+              "tip_5lang": {
+                "de": "Ein heißes Getränk im Hotelcafé ist jetzt ideal.",
+                "hu": "Egy forró ital a hotel kávézójában most ideális.",
+                "ro": "O băutură fierbinte la cafeneaua hotelului este ideală acum.",
+                "en": "A hot drink at the hotel cafe is ideal now."
+              }
+            },
+            {
+              "name": "Tollerodden",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne kann beim Fahren blenden.",
+                "hu": "Az alacsonyan járó nap vakíthat vezetés köznél.",
+                "ro": "Soarele jos poate fi orbitor în timp ce pedalați.",
+                "en": "The low sun can be blinding while riding."
+              }
+            },
+            {
+              "name": "Minnehallen",
+              "tip_5lang": {
+                "de": "Beleuchtung ist ab 15:30 Uhr zwingend erforderlich.",
+                "hu": "Világítás 15:30 után kötelező.",
+                "ro": "Iluminarea este obligatorie după ora 15:30.",
+                "en": "Lighting is mandatory after 3:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen sind im winterlichen Larvik sehr zu empfehlen.",
+              "Nutzen Sie Thermo-Trinkflaschen, damit Ihr Wasser nicht gefriert.",
+              "Die Tage sind kurz; planen Sie Ihre Route mit ausreichend Puffer.",
+              "Stirnlampen helfen auf unbeleuchteten Waldwegen."
+            ],
+            "hu": [
+              "Szöges gumik erősen ajánlottak a téli Larvikban.",
+              "Használjon termosz-kulacsot, hogy ne fagyjon meg a vize.",
+              "Rövidek a nappalok; tervezze az útvonalat elegendő tartalék idővel.",
+              "A fejlámpa segít a kivilágítatlan erdei utakon."
+            ],
+            "ro": [
+              "Anvelopele cu ținte sunt foarte recomandate în Larvik iarna.",
+              "Folosiți bidoane termice pentru ca apa să nu înghețe.",
+              "Zilele sunt scurte; planificați traseul cu suficientă rezervă de timp.",
+              "Lanternele frontale ajută pe potecile forestiere neiluminate."
+            ],
+            "en": [
+              "Studded tires are highly recommended in winter Larvik.",
+              "Use thermal water bottles so your water doesn't freeze.",
+              "The days are short; plan your route with enough buffer time.",
+              "Headlamps help on unlit forest paths."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -985,6 +1367,206 @@
           "Parking in the city center can be tricky; use the designated parking garages.",
           "Fill up on gas before heading to the more remote sites."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour beginnt bei Kaupang, wo der Regen die archäologische Stätte in ein authentisches, raues Licht taucht. Danach fahren wir zum Mølen; die gewaltigen Steinwälle und die aufpeitschende See lassen sich am besten geschützt aus dem warmen Auto beobachten. Über den Minnehallen geht es zurück ins Zentrum zum Herregården und zum Larvik Museum für ausgiebige Indoor-Besichtigungen. Nach einem Besuch der Kirche lassen wir den Tag beim Bøkeskogen ausklingen, wo man auch vom Parkplatz aus die Natur genießen kann.",
+            "hu": "Az autós túra Kaupangnál indul, ahol az eső hiteles, zord hangulatot áraszt a régészeti lelőhelyen. Ezután a Mølenhez hajtunk; a hatalmas kőgátak és a felkorbácsolt tenger látványát leginkább a meleg autóból élvezhetjük. A Minnehallen érintésével térünk vissza a központba, a Herregårdenhez és a Larvik Múzeumhoz a kiadós fedett látnivalókért. A templomlátogatás után a bükkerdőnél zárjuk a napot, ahol a parkolóból is élvezhetjük a természetet.",
+            "ro": "Turul cu mașina începe la Kaupang, unde ploaia scaldă situl arheologic într-o lumină autentică și aspră. Apoi conducem spre Mølen; digurile uriașe de piatră și marea agitată pot fi observate cel mai bine din confortul mașinii calde. Trecând pe la Minnehallen, ne întoarcem în centru la Herregården și Muzeul Larvik pentru vizite interioare prelungite. După o vizită la biserică, încheiem ziua la Bøkeskogen, unde natura poate fi savurată chiar și din parcare.",
+            "en": "The car tour begins at Kaupang, where the rain bathes the archaeological site in an authentic, rugged light. Then we drive to Mølen; the massive stone mounds and churning sea are best observed from the warmth of the car. Passing Minnehallen, we head back to the center to Herregården and the Larvik Museum for extensive indoor sightseeing. After visiting the church, we end the day at Bøkeskogen, where nature can be enjoyed even from the parking lot."
+          },
+          "stops": [
+            {
+              "name": "Kaupang Viking Town",
+              "tip_5lang": {
+                "de": "Die Wege können schlammig sein; festes Schuhwerk ist nötig.",
+                "hu": "Az utak sarasak lehetnek; bakancs ajánlott.",
+                "ro": "Potecile pot fi noroioase; este necesară încălțăminte solidă.",
+                "en": "Paths can be muddy; sturdy footwear is necessary."
+              }
+            },
+            {
+              "name": "Mølen",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Wind im Auto und genießen Sie die Aussicht.",
+                "hu": "Erős szélben maradjon az autóban, és onnan csodálja a kilátást.",
+                "ro": "Rămâneți în mașină în caz de vânt puternic și bucurați-vă de priveliște.",
+                "en": "Stay in the car during strong winds and enjoy the view from there."
+              }
+            },
+            {
+              "name": "Minnehallen",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Monument; kurzer Weg im Regen.",
+                "hu": "A parkoló közel van az emlékműhöz; rövid séta az esőben.",
+                "ro": "Parcarea este aproape de monument; drum scurt prin ploaie.",
+                "en": "The parking lot is close to the monument; short walk in the rain."
+              }
+            },
+            {
+              "name": "Herregården (Larvik Centre Cluster)",
+              "tip_5lang": {
+                "de": "Parkhäuser im Zentrum bieten trockenen Zugang zur Stadt.",
+                "hu": "A belvárosi parkolóházak száraz utat biztosítanak a városhoz.",
+                "ro": "Parcările etajate din centru oferă acces uscat spre oraș.",
+                "en": "Parking garages in the center offer dry access to the town."
+              }
+            },
+            {
+              "name": "Larvik Museum",
+              "tip_5lang": {
+                "de": "Perfekt für eine längere Pause fernab des Regens.",
+                "hu": "Tökéletes helyszín egy hosszabb esőmentes pihenőhöz.",
+                "ro": "Perfect pentru o pauză lungă departe de ploaie.",
+                "en": "Perfect for a long break away from the rain."
+              }
+            },
+            {
+              "name": "Larvik Church",
+              "tip_5lang": {
+                "de": "Parkplätze finden sich meist direkt an der Straße.",
+                "hu": "Parkolóhelyek általában közvetlenül az utcán találhatóak.",
+                "ro": "Locurile de parcare se găsesc de obicei direct pe stradă.",
+                "en": "Parking spaces are usually found directly on the street."
+              }
+            },
+            {
+              "name": "Bøkeskogen",
+              "tip_5lang": {
+                "de": "Das Waldrestaurant ist ein gemütlicher Zufluchtsort.",
+                "hu": "Az erdei étterem hangulatos menedékhely.",
+                "ro": "Restaurantul din pădure este un refugiu primitor.",
+                "en": "The forest restaurant is a cozy retreat."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Starke Windböen an der Küste können das Fahren beeinflussen.",
+              "Nutzen Sie Parkhäuser, um trocken in die Museen zu gelangen.",
+              "Mølen ist spektakulär bei Sturm, aber bleiben Sie auf sicheren Pfaden.",
+              "Gute Scheibenwischer sind für die Küstenstraßen essenziell."
+            ],
+            "hu": [
+              "A parti erős széllökések befolyásolhatják a vezetést.",
+              "Használjon parkolóházakat, hogy szárazon jusson a múzeumokba.",
+              "A Mølen látványos viharban, de maradjon a kijelölt utakon.",
+              "A jó ablaktörlő elengedhetetlen a parti utakon."
+            ],
+            "ro": [
+              "Rafalele puternice de vânt pe coastă pot influența condusul.",
+              "Folosiți parcările etajate pentru a ajunge uscați la muzee.",
+              "Mølen este spectaculos pe furtună, dar rămâneți pe potecile sigure.",
+              "Ștergătoarele bune sunt esențiale pentru drumurile de coastă."
+            ],
+            "en": [
+              "Strong wind gusts on the coast can affect driving.",
+              "Use parking garages to reach museums dry.",
+              "Mølen is spectacular during a storm, but stay on safe paths.",
+              "Good windshield wipers are essential for coastal roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Spritztour führt zuerst nach Kaupang, das im Frost besonders ruhig und geschichtsträchtig wirkt. Bei Mølen erleben wir die raue Schönheit der gefrorenen Küste, bevor wir über den Minnehallen zum Herregården fahren. Die kurzen Wege zwischen den Parkplätzen und den warmen Museen im Zentrum machen die Tour auch bei Kälte angenehm. Nach einem Stopp an der Kirche genießen wir die winterliche Stille im Bøkeskogen, wo die schneebedeckten Bäume eine märchenhafte Kulisse für das Ende des Tages bilden.",
+            "hu": "A téli autós körút először Kaupanghoz vezet, amely a fagyban különösen csendes és történelmi hangulatú. A Mølennél megtapasztaljuk a fagyos partvidék zord szépségét, majd a Minnehallen érintésével a Herregårdenhez hajtunk. A parkolók és a fűtött múzeumok közötti rövid távolságok a hidegben is kellemessé teszik a túrát. A templomnál tett megálló után a bükkerdő téli csendjét élvezzük, ahol a hófödte fák mesebeli díszletet adnak a nap végéhez.",
+            "ro": "Excursia de iarnă cu mașina duce mai întâi la Kaupang, care pare deosebit de liniștit și istoric în timpul înghețului. La Mølen experimentăm frumusețea aspră a coastei înghețate, înainte de a conduce prin Minnehallen spre Herregården. Distanțele scurte între parcări și muzeele calde din centru fac turul plăcut chiar și pe ger. După o oprire la biserică, ne bucurăm de liniștea iernii în Bøkeskogen, unde copacii înzăpeziți formează un decor de poveste.",
+            "en": "The winter drive first leads to Kaupang, which feels particularly quiet and historic in the frost. At Mølen, we experience the rugged beauty of the frozen coast before driving via Minnehallen to Herregården. The short distances between parking lots and heated museums in the center make the tour pleasant even in the cold. After a stop at the church, we enjoy the winter silence in Bøkeskogen, where snow-covered trees provide a fairytale backdrop for the end of the day."
+          },
+          "stops": [
+            {
+              "name": "Kaupang Viking Town",
+              "tip_5lang": {
+                "de": "Das Gelände kann im Winter sehr rutschig sein.",
+                "hu": "A terület télen nagyon csúszós lehet.",
+                "ro": "Terenul poate fi foarte alunecos iarna.",
+                "en": "The grounds can be very slippery in winter."
+              }
+            },
+            {
+              "name": "Mølen",
+              "tip_5lang": {
+                "de": "Die Steine sind oft mit Glatteis überzogen; äußerste Vorsicht.",
+                "hu": "A köveket gyakran jégpáncél fedi; fokozott óvatosság.",
+                "ro": "Pietrele sunt adesea acoperite cu gheață; prudență maximă.",
+                "en": "The stones are often covered with black ice; extreme caution."
+              }
+            },
+            {
+              "name": "Minnehallen",
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick direkt aus dem Fahrzeug.",
+                "hu": "Élvezze a panorámát közvetlenül a járműből.",
+                "ro": "Bucurați-vă de vederea panoramică direct din vehicul.",
+                "en": "Enjoy the panoramic view directly from the vehicle."
+              }
+            },
+            {
+              "name": "Herregården (Larvik Centre Cluster)",
+              "tip_5lang": {
+                "de": "Die Heizung in den Museen ist im Winter sehr effektiv.",
+                "hu": "A múzeumok fűtése télen nagyon hatékony.",
+                "ro": "Încălzirea în muzee este foarte eficientă iarna.",
+                "en": "The heating in the museums is very effective in winter."
+              }
+            },
+            {
+              "name": "Larvik Museum",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Kälte für eine Weile zu vergessen.",
+                "hu": "Jó hely, hogy egy időre elfelejtsük a hideget.",
+                "ro": "Un loc bun pentru a uita de frig pentru o vreme.",
+                "en": "A good place to forget the cold for a while."
+              }
+            },
+            {
+              "name": "Larvik Church",
+              "tip_5lang": {
+                "de": "Die Kirche ist oft angenehm temperiert.",
+                "hu": "A templom általában kellemes hőmérsékletű.",
+                "ro": "Biserica are adesea o temperatură plăcută.",
+                "en": "The church is often pleasantly tempered."
+              }
+            },
+            {
+              "name": "Bøkeskogen",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße wird geräumt, kann aber glatt sein.",
+                "hu": "A bekötőutat takarítják, de csúszós maradhat.",
+                "ro": "Drumul de acces este curățat, dar poate fi alunecos.",
+                "en": "The access road is cleared but can be slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Norwegen gesetzlich vorgeschrieben.",
+              "Führen Sie immer einen Eiskratzer und einen Schneebesen mit.",
+              "Die Straßen zur Küste (Mølen) können bei Schneeverwehungen schwierig sein.",
+              "Parkplätze im Zentrum sind im Winter oft schneefrei geräumt."
+            ],
+            "hu": [
+              "Téli gumi kötelező Norvégiában.",
+              "Mindig tartson az autóban jégkaparót és hóseprűt.",
+              "A partmenti utak (Mølen) hófúvásban nehezen járhatóak lehetnek.",
+              "A központi parkolókat télen gyakran hómentesítik."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Norvegia.",
+              "Aveți întotdeauna la voi o răzuitoare de gheață și o perie de zăpadă.",
+              "Drumurile spre coastă (Mølen) pot fi dificile în caz de viscol.",
+              "Parcările din centru sunt adesea curățate de zăpadă iarna."
+            ],
+            "en": [
+              "Winter tires are mandatory by law in Norway.",
+              "Always carry an ice scraper and a snow brush.",
+              "Roads to the coast (Mølen) can be difficult during snowdrifts.",
+              "Parking lots in the center are often cleared of snow in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1301,6 +1883,188 @@
           "Check the bus schedule in advance, especially on weekends.",
           "Download the local public transport app for real-time information."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir bequem das Herregården im Stadtzentrum, wo wir den Vormittag trocken verbringen. Das Larvik Museum schließt sich nahtlos an und bietet Schutz vor den Schauern. Die Fahrt zum Bøkeskogen erfolgt mit einer kurzen Busverbindung, wobei der Waldrestaurant als gemütlicher Stützpunkt dient. Am Nachmittag bringt uns der Bus direkt zum Farris Bad, dem idealen Wellness-Rückzugsort bei Regen. Über Tollerodden und die Kirche kehren wir mit öffentlichen Verkehrsmitteln entspannt zum Ausgangspunkt zurück.",
+            "hu": "Busszal kényelmesen elérjük a belvárosi Herregårdent, ahol szárazon tölthetjük a délelőttöt. A Larvik Múzeum közvetlenül ezután következik, védelmet nyújtva a záporok elől. A bükkerdőhöz rövid buszozással jutunk el, ahol az erdei étterem szolgál barátságos bázisul. Délután a busz egyenesen a Farris Badhoz visz minket, amely az ideális wellness-menedék esőben. A Tollerodden és a templom érintésével tömegközlekedéssel térünk vissza a kiindulópontra.",
+            "ro": "Cu autobuzul ajungem confortabil la Herregården în centrul orașului, unde petrecem dimineața la adăpost. Muzeul Larvik urmează imediat, oferind protecție împotriva averselor. Călătoria spre Bøkeskogen se face cu o scurtă legătură de autobuz, restaurantul din pădure servind ca bază primitoare. După-amiaza, autobuzul ne duce direct la Farris Bad, refugiul ideal de wellness pe ploaie. Prin Tollerodden și biserică, revenim relaxați cu transportul public la punctul de plecare.",
+            "en": "By bus, we easily reach Herregården in the city center, spending the morning dry. The Larvik Museum follows seamlessly, offering shelter from the showers. The trip to Bøkeskogen is made with a short bus connection, where the forest restaurant serves as a cozy base. In the afternoon, the bus takes us directly to Farris Bad, the ideal wellness retreat in the rain. Via Tollerodden and the church, we return relaxed by public transport to the starting point."
+          },
+          "stops": [
+            {
+              "name": "Herregården (Center Cluster)",
+              "tip_5lang": {
+                "de": "Bushaltestellen im Zentrum haben meist gute Unterstände.",
+                "hu": "A belvárosi buszmegállók általában jól fedettek.",
+                "ro": "Stațiile de autobuz din centru au de obicei adăposturi bune.",
+                "en": "Bus stops in the center usually have good shelters."
+              }
+            },
+            {
+              "name": "Larvik Museum",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von der Haltestelle entfernt.",
+                "hu": "Csak rövid séta a buszmegállótól.",
+                "ro": "La doar o scurtă plimbare de stație.",
+                "en": "Just a short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Bøkeskogen (Forest Cluster)",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan für die Rückfahrt aus dem Waldgebiet.",
+                "hu": "Ellenőrizze a menetrendet az erdőből való visszautazáshoz.",
+                "ro": "Verificați orarul pentru întoarcerea din zona pădurii.",
+                "en": "Check the schedule for the return journey from the forest area."
+              }
+            },
+            {
+              "name": "Farris Bad (Coast Cluster)",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt fast direkt vor dem Hoteleingang.",
+                "hu": "A megálló szinte közvetlenül a hotel bejárata előtt van.",
+                "ro": "Stația se află aproape direct în fața intrării hotelului.",
+                "en": "The stop is located almost directly in front of the hotel entrance."
+              }
+            },
+            {
+              "name": "Tollerodden",
+              "tip_5lang": {
+                "de": "Nutzen Sie die VKT-App für Echtzeit-Infos bei Verspätungen.",
+                "hu": "Használja a VKT alkalmazást valós idejű infókért késés esetén.",
+                "ro": "Folosiți aplicația VKT pentru informații în timp real în caz de întârzieri.",
+                "en": "Use the VKT app for real-time info in case of delays."
+              }
+            },
+            {
+              "name": "Larvik Church",
+              "tip_5lang": {
+                "de": "Die zentrale Lage ermöglicht schnellen Umstieg bei Regen.",
+                "hu": "A központi elhelyezkedés gyors átszállást tesz lehetővé esőben.",
+                "ro": "Locația centrală permite transferul rapid pe ploaie.",
+                "en": "The central location allows for quick transfers in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die 'VKT' App für mobile Tickets und Fahrpläne herunter.",
+              "Busse fahren im Zentrum sehr regelmäßig.",
+              "Die Haltestellen am Bahnhof bieten den besten Wetterschutz.",
+              "Planen Sie Umstiege so, dass Sie nicht lange im Regen stehen."
+            ],
+            "hu": [
+              "Töltse le a 'VKT' alkalmazást mobiljegyekhez és menetrendekhez.",
+              "A buszok a központban nagyon sűrűn járnak.",
+              "A vasútállomásnál lévő megállók nyújtják a legjobb védelmet.",
+              "Tervezze úgy az átszállásokat, hogy ne kelljen sokat várni az esőben."
+            ],
+            "ro": [
+              "Descărcați aplicația 'VKT' pentru bilete mobile și orare.",
+              "Autobuzele circulă foarte regulat în centru.",
+              "Stațiile de la gară oferă cea mai bună protecție împotriva intemperiilor.",
+              "Planificați transferurile astfel încât să nu stați mult în ploaie."
+            ],
+            "en": [
+              "Download the 'VKT' app for mobile tickets and schedules.",
+              "Buses run very regularly in the center.",
+              "The stops at the train station offer the best weather protection.",
+              "Plan transfers so that you don't stand in the rain for long."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag mit dem Bus beginnt am Herregården, wo wir die frostige Kulisse der Altstadt bewundern. Die Fahrt zum Larvik Museum bietet eine kurze Aufwärmphase, bevor wir den Nachmittag im winterlichen Bøkeskogen verbringen, der per Transit gut erreichbar ist. Da es früh dunkel wird, nutzen wir den Bus zum Farris Bad, um dort die blaue Stunde im warmen Wasser zu genießen. Über Tollerodden und die festlich beleuchtete Kirche geht es mit dem warmen Bus zurück, während Larvik unter einer Schneedecke schläft.",
+            "hu": "A téli nap busszal indul a Herregårdennél, ahol megcsodáljuk az óváros fagyos díszleteit. A Larvik Múzeumhoz vezető út rövid melegedőt kínál, mielőtt a délutánt a jól megközelíthető téli bükkerdőben töltenénk. Mivel korán sötétedik, busszal megyünk a Farris Badhoz, hogy ott élvezzük a 'kék órát' a meleg vízben. A Tollerodden és az ünnepi fényekben úszó templom érintésével a fűtött busszal térünk vissza, miközben Larvik a hótakaró alatt pihen.",
+            "ro": "Ziua de iarnă cu autobuzul începe la Herregården, unde admirăm decorul înghețat al orașului vechi. Călătoria spre Muzeul Larvik oferă o scurtă etapă de încălzire înainte de a petrece după-amiaza în Bøkeskogen, ușor accesibil prin tranzit. Deoarece se întunecă devreme, folosim autobuzul spre Farris Bad pentru a ne bucura de 'ora albastră' în apa caldă. Prin Tollerodden și biserica iluminată festiv, ne întoarcem cu autobuzul cald, în timp ce Larvik doarme sub o pătură de zăpadă.",
+            "en": "The winter day by bus starts at Herregården, where we admire the frosty backdrop of the old town. The ride to the Larvik Museum offers a short warming phase before spending the afternoon in winter Bøkeskogen, which is easily accessible by transit. Since it gets dark early, we take the bus to Farris Bad to enjoy the blue hour in warm water. Via Tollerodden and the festively lit church, we return on the warm bus while Larvik sleeps under a blanket of snow."
+          },
+          "stops": [
+            {
+              "name": "Herregården (Center Cluster)",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter gut beheizt.",
+                "hu": "A buszok télen jól fűtöttek.",
+                "ro": "Autobuzele sunt bine încălzite iarna.",
+                "en": "Buses are well heated in winter."
+              }
+            },
+            {
+              "name": "Larvik Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten in der App.",
+                "hu": "Ellenőrizze a téli nyitvatartást az alkalmazásban.",
+                "ro": "Verificați orarul de iarnă în aplicație.",
+                "en": "Check the winter opening hours in the app."
+              }
+            },
+            {
+              "name": "Bøkeskogen (Forest Cluster)",
+              "tip_5lang": {
+                "de": "Der Wald ist auch im Winter per Bus zuverlässig erreichbar.",
+                "hu": "Az erdő télen is megbízhatóan elérhető busszal.",
+                "ro": "Pădurea este accesibilă în siguranță cu autobuzul și iarna.",
+                "en": "The forest is reliably accessible by bus even in winter."
+              }
+            },
+            {
+              "name": "Farris Bad (Coast Cluster)",
+              "tip_5lang": {
+                "de": "Steigen Sie direkt vor dem Spa aus, um die Kälte zu minimieren.",
+                "hu": "Szálljon le közvetlenül a spa előtt, hogy minimalizálja a hideget.",
+                "ro": "Coborâți chiar în fața centrului spa pentru a minimiza frigul.",
+                "en": "Get off right in front of the spa to minimize the cold."
+              }
+            },
+            {
+              "name": "Tollerodden",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind im Winter meist geräumt und gestreut.",
+                "hu": "A megállókat télen általában takarítják és sózzák.",
+                "ro": "Stațiile sunt de obicei curățate și presărate cu sare iarna.",
+                "en": "Stops are usually cleared and sanded in winter."
+              }
+            },
+            {
+              "name": "Larvik Church",
+              "tip_5lang": {
+                "de": "Ein zentraler Punkt für den Umstieg in alle Richtungen.",
+                "hu": "Központi csomópont minden irányba történő átszálláshoz.",
+                "ro": "Un punct central pentru transfer în toate direcțiile.",
+                "en": "A central point for transfers in all directions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne können sich von Sommerplänen unterscheiden.",
+              "Warten Sie in Geschäften oder Cafés, falls der Bus Verspätung hat.",
+              "Die VKT-App zeigt die Position der Busse in Echtzeit an.",
+              "Im Winter ist es ab 16:00 Uhr stockfinster; Busse sind sicher und hell."
+            ],
+            "hu": [
+              "A téli menetrendek eltérhetnek a nyáriaktól.",
+              "Várjon üzletekben vagy kávézókban, ha késik a busz.",
+              "A VKT alkalmazás valós időben mutatja a buszok helyzetét.",
+              "Télen 16:00 után koromsötét van; a buszok biztonságosak és világosak."
+            ],
+            "ro": [
+              "Orarele de iarnă pot diferi de cele de vară.",
+              "Așteptați în magazine sau cafenele dacă autobuzul întârzie.",
+              "Aplicația VKT arată poziția autobuzelor în timp real.",
+              "Iarna este întuneric beznă după ora 16:00; autobuzele sunt sigure și luminate."
+            ],
+            "en": [
+              "Winter schedules may differ from summer schedules.",
+              "Wait in shops or cafes if the bus is delayed.",
+              "The VKT app shows the position of buses in real time.",
+              "In winter, it is pitch dark after 4:00 PM; buses are safe and bright."
+            ]
+          }
+        }
       }
     }
   }

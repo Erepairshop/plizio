@@ -339,6 +339,214 @@
           "The Coal Mining Museum can be cool, so bring a light jacket.",
           "Check museum opening times in advance, especially outside the main season."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt am Titov-Platz unter dem Schirm. Mittags bietet das Bergbaumuseum perfekten Schutz tief unter der Erde. Am Nachmittag erkunden Sie die trockenen Säle der Burg Velenje. Der Tag endet mit einem nebligen, aber atmosphärischen Spaziergang am Velenje-See, bevor Sie sich in ein gemütliches Café im Zentrum zurückziehen.",
+            "hu": "Az esős reggel a Tito-téren kezdődik esernyővel. Délben a bányamúzeum földalatti járatai nyújtanak tökéletes menedéket a víz elől. Délután a Velenjei Vár fedett kiállításait fedezzük fel. A napot a tóparti ködös, de hangulatos séta zárja, majd a városközpont egyik meleg kávézójában pihenünk meg.",
+            "ro": "O dimineață ploioasă începe în Piața Titov sub umbrelă. La prânz, muzeul mineritului oferă adăpost perfect în subteran. După-amiaza explorăm sălile uscate ale Castelului Velenje. Ziua se încheie cu o plimbare atmosferică pe malul lacului Velenje, urmată de un popas într-o cafenea primitoare din centru.",
+            "en": "A rainy morning starts at Tito Square with an umbrella. By noon, the coal mining museum provides a perfect underground escape from the rain. Spend the afternoon exploring the dry halls of Velenje Castle. The day concludes with a misty walk by Velenje Lake before warming up in a cozy city center cafe."
+          },
+          "stops": [
+            {
+              "name": "Tito Statue",
+              "tip_5lang": {
+                "de": "Der große Platz ist bei Regen rutschig; Vorsicht beim Gehen.",
+                "hu": "A nagy tér esőben csúszós lehet; óvatosan közlekedjen.",
+                "ro": "Piața mare poate fi alunecoasă pe ploaie; mergeți cu atenție.",
+                "en": "The large square can be slippery in the rain; watch your step."
+              }
+            },
+            {
+              "name": "Velenje House of Culture",
+              "tip_5lang": {
+                "de": "Ideal, um kurz im Foyer dem Regen zu entkommen.",
+                "hu": "Ideális hely az előtérben egy rövid eső elleni menedékre.",
+                "ro": "Loc ideal în foier pentru a scăpa scurt de ploaie.",
+                "en": "Perfect place to briefly escape the rain in the foyer."
+              }
+            },
+            {
+              "name": "Herberstein Villa",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich für Fotos.",
+                "hu": "Használja a fedett bejárati részt a fotózáshoz.",
+                "ro": "Folosiți zona de intrare acoperită pentru fotografii.",
+                "en": "Use the covered entrance area for taking photos."
+              }
+            },
+            {
+              "name": "Velenje Castle",
+              "tip_5lang": {
+                "de": "Die Innenhöfe bieten begrenzten Schutz; Museen bevorzugen.",
+                "hu": "A belső udvar kevés védelmet ad; irány a benti kiállítás.",
+                "ro": "Curțile interioare oferă adăpost limitat; preferați muzeul.",
+                "en": "Courtyards offer limited shelter; prioritize indoor exhibits."
+              }
+            },
+            {
+              "name": "Coal Mining Museum of Slovenia",
+              "tip_5lang": {
+                "de": "Bestes Ziel bei Regen: 160 Meter tief ist es trocken.",
+                "hu": "Legjobb esős program: 160 méter mélyen garantáltan száraz.",
+                "ro": "Cea mai bună destinație pe ploaie: e uscat la 160m adâncime.",
+                "en": "Best rainy day activity: it is dry 160 meters underground."
+              }
+            },
+            {
+              "name": "Velenje Lake",
+              "tip_5lang": {
+                "de": "Asphaltierte Wege nutzen, um Matsch zu vermeiden.",
+                "hu": "Használja az aszfaltozott utakat a sár elkerülésére.",
+                "ro": "Folosiți potecile asfaltate pentru a evita noroiul.",
+                "en": "Stick to paved paths to avoid mud around the lake."
+              }
+            },
+            {
+              "name": "Ercigoj Art Embroidery",
+              "tip_5lang": {
+                "de": "Warmer und trockener Abschluss in der Stickerei.",
+                "hu": "Meleg és száraz befejezés a hímzőműhelyben.",
+                "ro": "Un final cald și uscat în atelierul de broderie.",
+                "en": "A warm and dry finish inside the embroidery workshop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Burgwege.",
+              "Nutzen Sie den kostenlosen Lokalc-Bus bei starkem Guss.",
+              "Das Bergbaumuseum erfordert eine Voranmeldung, ideal bei Regen.",
+              "Regenschirme sind im Burghof bei Wind unpraktisch, Ponchos besser.",
+              "Die Cafés am Seeufer haben meist überdachte Terrassen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a vári emelkedőkhöz.",
+              "Használja az ingyenes Lokalc buszt, ha elered az eső.",
+              "A bányamúzeumba érdemes előre foglalni, esőben népszerű.",
+              "A várudvaron a szél miatt a poncsó praktikusabb az ernyőnél.",
+              "A tóparti kávézók többsége fedett terasszal rendelkezik."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru pantele castelului.",
+              "Folosiți autobuzul gratuit Lokalc dacă plouă torențial.",
+              "Rezervați din timp la muzeul mineritului, e popular pe ploaie.",
+              "Poncoul este mai practic decât umbrela în curtea castelului.",
+              "Cafenelele de pe malul lacului au majoritatea terase acoperite."
+            ],
+            "en": [
+              "Wear waterproof shoes for the slopes up to the castle.",
+              "Use the free Lokalc bus if the rain becomes too heavy.",
+              "Pre-book the mining museum as it's a favorite rainy day spot.",
+              "A poncho is more practical than an umbrella at the windy castle.",
+              "Most lakeside cafes have covered terraces to keep you dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Velenje im Winter ist erfrischend klar. Der Morgen startet am frostigen Titov-Platz. Mittags bietet das Bergbaumuseum eine konstante Wärme unter Tage, weit weg vom Frost. Der Nachmittag auf der Burg bietet weite Blicke über schneebedeckte Dächer. Da es gegen 16:30 Uhr dunkel wird, genießen Sie den beleuchteten See zum Abschluss.",
+            "hu": "A téli Velenje friss és tiszta levegővel fogad. A reggel fagyosan indul a Tito-téren. Délben a bányamúzeum állandó, kellemes hőmérséklete ad felüdülést a kinti hideg után. A délutáni várnézés során tiszta kilátás nyílik a havas háztetőkre. Mivel 16:30-kor sötétedik, a napot a kivilágított tóparton zárjuk.",
+            "ro": "Velenje iarna este revigorant și senin. Dimineața începe înghețată în Piața Titov. La prânz, muzeul mineritului oferă o căldură constantă în subteran, ferit de ger. După-amiaza la castel oferă panorame largi peste acoperișurile înzăpezite. Apusul fiind la 16:30, finalul zilei la lac este luminat feeric.",
+            "en": "Winter in Velenje is refreshingly crisp. The morning begins at a frosty Tito Square. At noon, the coal mining museum offers constant underground warmth away from the freeze. In the afternoon, the castle provides clear views over snow-dusted roofs. Since it gets dark by 16:30, enjoy the illuminated lake to end your day."
+          },
+          "stops": [
+            {
+              "name": "Tito Statue",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf dem weiten Steinpflaster.",
+                "hu": "Vigyázzon a jegesedésre a széles kőburkolaton.",
+                "ro": "Atenție la polei pe pavajul larg de piatră.",
+                "en": "Watch out for black ice on the wide stone pavement."
+              }
+            },
+            {
+              "name": "Velenje House of Culture",
+              "tip_5lang": {
+                "de": "Ein guter Ort zum Aufwärmen vor dem Burgaufstieg.",
+                "hu": "Jó hely a bemelegedésre a vári hegymenet előtt.",
+                "ro": "Un loc bun pentru a vă încălzi înainte de urcarea la castel.",
+                "en": "A good place to warm up before the walk up to the castle."
+              }
+            },
+            {
+              "name": "Herberstein Villa",
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im Winterlicht besonders streng.",
+                "hu": "Az építészet a téli fényekben különösen karakteres.",
+                "ro": "Arhitectura pare deosebit de sobră în lumina iernii.",
+                "en": "The architecture looks particularly striking in winter light."
+              }
+            },
+            {
+              "name": "Velenje Castle",
+              "tip_5lang": {
+                "de": "Warmer Tee im Museumsshop hilft gegen die Kälte.",
+                "hu": "A múzeumban kapható meleg tea segít a hideg ellen.",
+                "ro": "Ceaiul cald de la magazinul muzeului ajută contra frigului.",
+                "en": "Hot tea at the museum shop helps fight the cold."
+              }
+            },
+            {
+              "name": "Coal Mining Museum of Slovenia",
+              "tip_5lang": {
+                "de": "Unter Tage herrschen angenehme 15 Grad Celsius.",
+                "hu": "A föld alatt kellemes 15 Celsius-fok fogadja.",
+                "ro": "În subteran sunt 15 grade Celsius constante.",
+                "en": "Underground temperatures are a comfortable 15 degrees Celsius."
+              }
+            },
+            {
+              "name": "Velenje Lake",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind wegen des Seewinds ein Muss.",
+                "hu": "A tavi szél miatt a meleg kesztyű kötelező.",
+                "ro": "Mănușile groase sunt necesare din cauza vântului de pe lac.",
+                "en": "Warm gloves are a must due to the biting lake wind."
+              }
+            },
+            {
+              "name": "Ercigoj Art Embroidery",
+              "tip_5lang": {
+                "de": "Gemütlicher Ausklang in beheizten Innenräumen.",
+                "hu": "Hangulatos befejezés a fűtött belső terekben.",
+                "ro": "Final confortabil în interiorul bine încălzit.",
+                "en": "Cozy conclusion inside the heated indoor workshop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie das Seeufer vor 16:30 Uhr ein (Sonnenuntergang).",
+              "Tragen Sie Thermo-Einlegesohlen für das Stehen im Museum.",
+              "Die Burgwege werden geräumt, können aber morgens glatt sein.",
+              "Das Bergbaumuseum ist der wärmste Ort des Tages.",
+              "Warme Getränke gibt es am besten am Titov-Platz."
+            ],
+            "hu": [
+              "A tópartot 16:30 előttre tervezze (naplemente).",
+              "Használjon termotalpbetétet a múzeumi álldogáláshoz.",
+              "A vári utakat takarítják, de reggel még jegesek lehetnek.",
+              "A bányamúzeum a nap legmelegebb helyszíne.",
+              "Meleg italokat leginkább a Tito-téren talál."
+            ],
+            "ro": [
+              "Plănuiți vizita la lac înainte de 16:30 (apusul soarelui).",
+              "Folosiți branțuri termice pentru statul în picioare la muzeu.",
+              "Căile spre castel sunt curățate, dar pot fi alunecoase dimineața.",
+              "Muzeul mineritului este cel mai cald loc al zilei.",
+              "Cele mai bune băuturi calde se găsesc în Piața Titov."
+            ],
+            "en": [
+              "Schedule the lakeside visit before 16:30 (sunset).",
+              "Use thermal insoles for standing in the museum exhibits.",
+              "Castle paths are cleared but can be icy in the morning.",
+              "The coal mining museum is the warmest spot of the day.",
+              "Hot beverages are best found around Tito Square."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -649,6 +857,196 @@
           "Bring enough water, especially for the tour around the lake.",
           "Pay attention to the cycle path signs, which are well-developed in Velenje."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour erfordert gute Ausrüstung. Morgens geht es zügig zum Tito-Denkmal. Den Großteil des Mittags verbringen Sie im trockenen Bergbaumuseum und der Burg. Nachmittags führt eine vorsichtige Fahrt zu den Šalek-Ruinen und zum See. Die breiten Radwege in Velenje bieten auch bei Regen gute Sicherheit.",
+            "hu": "A vizes biciklitúrához jó felszerelés kell. Reggel gyors gurulás a Tito-szoborhoz. A délidő nagy részét a száraz bányamúzeumban és a várban töltjük. Délután óvatos tekerés a Šalek-romokhoz és a tóhoz. Velenje széles kerékpárútjai esőben is biztonságos közlekedést nyújtanak.",
+            "ro": "O tură cu bicicleta pe ploaie necesită echipament bun. Dimineața pedalăm rapid spre statuia lui Tito. Prânzul îl petrecem la adăpost în muzeul mineritului și la castel. După-amiaza mergem cu prudență spre ruinele Šalek și lac. Pistele late din Velenje oferă siguranță și pe timp de ploaie.",
+            "en": "A wet bike ride requires proper gear. Start with a quick ride to the Tito Statue. Spend most of the midday inside the dry mining museum and castle. In the afternoon, a cautious ride takes you to Šalek ruins and the lake. Velenje's wide bike paths remain safe even in the rain."
+          },
+          "stops": [
+            {
+              "name": "Tito Statue",
+              "tip_5lang": {
+                "de": "Bodenmarkierungen können bei Nässe sehr rutschig sein.",
+                "hu": "Az útburkolati jelek vizesen nagyon csúszhatnak.",
+                "ro": "Marcajele rutiere pot fi foarte alunecoase când sunt ude.",
+                "en": "Road markings can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Velenje Castle & Coal Mining Museum",
+              "tip_5lang": {
+                "de": "Fahrradständer am Museumseingang sind teils überdacht.",
+                "hu": "A múzeumnál a kerékpártárolók részben fedettek.",
+                "ro": "Suporturile de biciclete de la muzeu sunt parțial acoperite.",
+                "en": "Bike racks at the museum entrance are partially covered."
+              }
+            },
+            {
+              "name": "Šalek Castle Ruins",
+              "tip_5lang": {
+                "de": "Der Pfad zu den Ruinen kann matschig sein; vorsichtig fahren.",
+                "hu": "A romokhoz vezető ösvény sáros lehet; tekerjen óvatosan.",
+                "ro": "Poteca spre ruine poate fi noroioasă; pedalați cu grijă.",
+                "en": "The path to the ruins can be muddy; ride carefully."
+              }
+            },
+            {
+              "name": "Velenje Lake",
+              "tip_5lang": {
+                "de": "Pfützen auf dem Uferweg vermeiden, um Spritzer zu minimieren.",
+                "hu": "Kerülje a tóparti tócsákat a felfröccsenő víz miatt.",
+                "ro": "Evitați bălțile de pe mal pentru a minimiza stropirea.",
+                "en": "Avoid puddles on the shore path to minimize splashing."
+              }
+            },
+            {
+              "name": "Herberstein Villa",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; das Rad am besten gesichert abstellen.",
+                "hu": "Rövid fotómegálló; a biciklit biztonságos helyen rögzítse.",
+                "ro": "Popas scurt pentru poze; asigurați bine bicicleta.",
+                "en": "Short photo stop; make sure to lock your bike securely."
+              }
+            },
+            {
+              "name": "Ercigoj Art Embroidery",
+              "tip_5lang": {
+                "de": "Letzter Halt, um sich vor der Rückgabe aufzuwärmen.",
+                "hu": "Utolsó megálló, ahol bemelegedhet a leadás előtt.",
+                "ro": "Ultimul popas pentru a vă încălzi înainte de returnare.",
+                "en": "Last stop to warm up before returning the bike."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei Regen in Velenje unverzichtbar.",
+              "Bremsen Sie frühzeitig, da Bremsbeläge bei Nässe langsamer greifen.",
+              "Das Leihradsystem 'Bicy' bietet Stationen an fast allen Stopps.",
+              "Tragen Sie eine wasserdichte Regenjacke und Regenhose.",
+              "Vermeiden Sie Waldwege bei den Šalek-Ruinen, nutzen Sie Asphalt."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen az esős velenjei tekeréshez.",
+              "Fékezzen időben, mert vizesen hosszabb a fékút.",
+              "A 'Bicy' közbringarendszer szinte minden megállónál elérhető.",
+              "Viseljen vízálló esőkabátot és nadrágot.",
+              "A Šalek-romoknál kerülje az erdei utat, maradjon az aszfalton."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe ploaie în Velenje.",
+              "Frânați din timp, plăcuțele de frână prind mai greu pe ud.",
+              "Sistemul de bike-sharing 'Bicy' are stații la aproape orice stop.",
+              "Purtați jachetă și pantaloni impermeabili de ploaie.",
+              "Evitați potecile de pădure la ruinele Šalek, rămâneți pe asfalt."
+            ],
+            "en": [
+              "Fenders on your bike are essential for rainy rides in Velenje.",
+              "Brake early as wet brake pads have less grip.",
+              "The 'Bicy' bike-sharing system has stations at almost every stop.",
+              "Wear a waterproof rain jacket and trousers.",
+              "Avoid forest trails near Šalek ruins; stick to paved roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biken in Velenje ist bei klarer Luft herrlich. Morgens führt die Tour zum eiskalten Tito-Denkmal. Das Bergbaumuseum bietet mittags eine willkommene Aufwärmpause. Nachmittags geht es zu den Ruinen und zum See, wo der Wind kräftig wehen kann. Beenden Sie die Tour früh, bevor die Straßen bei Frost glatt werden.",
+            "hu": "A téli biciklizés Velenjében a tiszta levegő miatt élvezetes. Reggel a túra a jeges Tito-szoborhoz vezet. A bányamúzeum délidőben kiváló melegedőhely. Délután a romok és a tó felé tekerünk, ahol a szél felerősödhet. Fejezze be korán a túrát, mielőtt a fagy miatt csúszóssá válnának az utak.",
+            "ro": "Pedalatul iarna în Velenje este plăcut datorită aerului curat. Dimineața turul duce la statuia înghețată a lui Tito. Muzeul mineritului oferă prânzul într-o atmosferă caldă. După-amiaza mergem la ruine și spre lac, unde vântul poate fi puternic. Încheiați tura devreme, înainte ca gerul să înghețe drumurile.",
+            "en": "Winter biking in Velenje is enjoyable due to the crisp, clean air. Start the tour at the freezing Tito Statue. The mining museum provides a welcome warm-up break at midday. In the afternoon, ride to the ruins and the lake, where winds can pick up. Finish early before the roads get icy in the evening frost."
+          },
+          "stops": [
+            {
+              "name": "Tito Statue",
+              "tip_5lang": {
+                "de": "Vorsicht beim Abbiegen auf dem glatten Hauptplatz.",
+                "hu": "Óvatosan kanyarodjon a sima felületű főtéren.",
+                "ro": "Virați cu atenție pe suprafața netedă a pieței principale.",
+                "en": "Turn carefully on the smooth surface of the main square."
+              }
+            },
+            {
+              "name": "Velenje Castle & Coal Mining Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie das Rad unten, wenn der Burgweg vereist ist.",
+                "hu": "Hagyja lenn a gépet, ha a vári út jeges.",
+                "ro": "Lăsați bicicleta jos dacă drumul spre castel e înghețat.",
+                "en": "Leave the bike below if the castle path is icy."
+              }
+            },
+            {
+              "name": "Šalek Castle Ruins",
+              "tip_5lang": {
+                "de": "Der Anstieg kann rutschig sein; eventuell schieben.",
+                "hu": "Az emelkedő csúszós lehet; szükség esetén tolja a gépet.",
+                "ro": "Urcarea poate fi alunecoasă; împingeți bicicleta dacă e nevoie.",
+                "en": "The climb can be slippery; push your bike if necessary."
+              }
+            },
+            {
+              "name": "Velenje Lake",
+              "tip_5lang": {
+                "de": "Eisiger Wind am See; halten Sie die Fahrtzeit kurz.",
+                "hu": "Jeges szél a tónál; ne időzzön túl sokat a nyeregben.",
+                "ro": "Vânt înghețat la lac; nu petreceți prea mult timp în șa.",
+                "en": "Icy winds at the lake; keep your riding time brief."
+              }
+            },
+            {
+              "name": "Herberstein Villa",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; Metallteile des Rads sind jetzt sehr kalt.",
+                "hu": "Rövid megálló; a bicikli fémrészei most nagyon hidegek.",
+                "ro": "Popas scurt; părțile metalice ale bicicletei sunt reci.",
+                "en": "Short stop; remember that metal bike parts are very cold."
+              }
+            },
+            {
+              "name": "Ercigoj Art Embroidery",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Finger wieder aufzuwärmen.",
+                "hu": "Tökéletes hely az elgémberedett ujjak felmelegítésére.",
+                "ro": "Locul perfect pentru a vă reîncălzi degetele amorțite.",
+                "en": "The perfect place to warm up your cold fingers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme, winddichte Handschuhe sind absolut notwendig.",
+              "Achten Sie auf Raureif auf Brücken und Holzstegen am See.",
+              "Stirnlampen oder gute Bikeschweinwerfer ab 16:00 Uhr nutzen.",
+              "Trinken Sie auch bei Kälte genug Wasser, am besten warmen Tee.",
+              "Der Bicy-Verleih ist im Winter je nach Witterung eingeschränkt."
+            ],
+            "hu": [
+              "A meleg, szélálló kesztyű elengedhetetlen.",
+              "Vigyázzon a zúzmarára a hidakon és a tóparti fapallókon.",
+              "16:00 után használjon erős fényszórót a biciklin.",
+              "Hidegben is igyon elég vizet, legjobb a termoszban vitt tea.",
+              "A Bicy bérlés télen az időjárástól függően korlátozott lehet."
+            ],
+            "ro": [
+              "Mănușile groase și rezistente la vânt sunt absolut necesare.",
+              "Atenție la chiciură pe poduri și pe pasarelele de lemn de la lac.",
+              "Folosiți faruri puternice pentru bicicletă după ora 16:00.",
+              "Beți destulă apă chiar dacă e frig, preferabil ceai cald.",
+              "Închirierile Bicy pot fi limitate iarna în funcție de vreme."
+            ],
+            "en": [
+              "Warm, windproof gloves are absolutely necessary.",
+              "Watch out for frost on bridges and wooden walkways by the lake.",
+              "Use powerful bike lights starting from 16:00.",
+              "Stay hydrated even in the cold; warm tea in a thermos is best.",
+              "The Bicy rental system might be limited in winter based on weather."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -965,6 +1363,196 @@
           "Allow enough time for driving between clusters.",
           "The roads are well-maintained, but winter conditions can be challenging in the hills."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour durch Velenje ist bei Regen die komfortabelste Wahl. Vormittags parken Sie bequem im Zentrum nahe der Tito-Statue. Den regnerischen Mittag verbringen Sie im weitläufigen Museumskomplex auf dem Schlosshügel. Nachmittags fahren Sie trocken zum Seeufer, wo Sie vom Auto aus den Blick auf das Wasser genießen können.",
+            "hu": "Az autós túra Velenjében esőben a legkényelmesebb választás. Délelőtt parkoljon a központban, a Tito-szobor közelében. Az esős délidőt a várdombi bányamúzeumban töltjük. Délután szárazon gurulunk le a tópartra, ahol akár az autóból is élvezhetjük a víztükör látványát.",
+            "ro": "Turul cu mașina prin Velenje este cea mai confortabilă alegere pe ploaie. Dimineața parcați comod în centru lângă statuia lui Tito. Prânzul ploios îl petrecem în complexul muzeal de pe dealul castelului. După-amiaza conducem spre malul lacului, admirând peisajul din confortul mașinii.",
+            "en": "A car tour through Velenje is the most comfortable choice in the rain. In the morning, park easily in the center near the Tito Statue. Spend the rainy midday at the extensive museum complex on Castle Hill. In the afternoon, drive to the lakeside and enjoy the view of the water from your dry car."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Center",
+              "tip_5lang": {
+                "de": "Parkhaus im Zentrum nutzen, um trocken auszusteigen.",
+                "hu": "Használja a belvárosi parkolóházat a száraz kiszálláshoz.",
+                "ro": "Folosiți parcarea acoperită din centru pentru a nu vă uda.",
+                "en": "Use the underground parking in the center to stay dry."
+              }
+            },
+            {
+              "name": "Tito Statue",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang vom Parkplatz; Regenschirm mitnehmen.",
+                "hu": "Rövid séta a parkolótól; vigyen magával esernyőt.",
+                "ro": "Plimbare scurtă de la parcare; luați umbrela.",
+                "en": "Short walk from the parking lot; bring an umbrella."
+              }
+            },
+            {
+              "name": "House of Culture & Herberstein Villa",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor dem Kulturhaus vorhanden.",
+                "hu": "Parkolóhelyek közvetlenül a kultúrház előtt találhatók.",
+                "ro": "Locuri de parcare disponibile direct în fața casei de cultură.",
+                "en": "Parking spaces are available directly in front of the house of culture."
+              }
+            },
+            {
+              "name": "Cluster 2: Castle Hill",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schloss ist asphaltiert und sicher.",
+                "hu": "A várba vezető út aszfaltozott és biztonságos.",
+                "ro": "Drumul spre castel este asfaltat și sigur.",
+                "en": "The drive up to the castle is paved and safe."
+              }
+            },
+            {
+              "name": "Velenje Castle & Coal Mining Museum",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt am Bergbaumuseum vorhanden.",
+                "hu": "Nagy parkoló áll rendelkezésre közvetlenül a bányamúzeumnál.",
+                "ro": "Parcare mare disponibilă direct la muzeul mineritului.",
+                "en": "A large parking lot is available right at the mining museum."
+              }
+            },
+            {
+              "name": "Cluster 3: Lake & Ruins",
+              "tip_5lang": {
+                "de": "Am See gibt es Parkplätze mit direktem Seeblick.",
+                "hu": "A tónál közvetlen tóparti kilátással rendelkező parkolók vannak.",
+                "ro": "La lac există parcări cu vedere directă spre apă.",
+                "en": "There are parking lots by the lake with direct water views."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser 'Mercator' oder 'Velenjka' bei Starkregen.",
+              "Halten Sie Schirme in den Seitentaschen der Türen griffbereit.",
+              "Vermeiden Sie bei Regen unbefestigte Seitenstreifen am See.",
+              "Die Sicht auf dem Schlosshügel kann bei Nebel eingeschränkt sein.",
+              "Nutzen Sie die Sitzheizung nach den Besichtigungen im Freien."
+            ],
+            "hu": [
+              "Heves esőben használja a 'Mercator' vagy 'Velenjka' parkolóházat.",
+              "Tartsa az ernyőket az ajtózsebekben könnyen elérhető helyen.",
+              "Esőben kerülje a tóparti nem aszfaltozott útpadkákat.",
+              "A várdombon a kilátás ködös időben korlátozott lehet.",
+              "Használja az ülésfűtést a kinti városnézések után."
+            ],
+            "ro": [
+              "Folosiți parcările 'Mercator' sau 'Velenjka' în caz de ploaie torențială.",
+              "Țineți umbrelele la îndemână în buzunarele portierelor.",
+              "Evitați acostamentele neasfaltate de la lac pe timp de ploaie.",
+              "Vizibilitatea de pe dealul castelului poate fi redusă pe ceață.",
+              "Folosiți încălzirea în scaune după vizitele la exterior."
+            ],
+            "en": [
+              "Use 'Mercator' or 'Velenjka' parking garages during heavy rain.",
+              "Keep umbrellas handy in the door pockets of your car.",
+              "Avoid unpaved road shoulders near the lake in the rain.",
+              "Visibility on Castle Hill might be limited during foggy weather.",
+              "Turn on seat heating after returning from outdoor sightseeing."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto in Velenje wohlig warme Etappen. Vormittags erkunden Sie das Zentrum und wärmen sich danach schnell im Wagen auf. Mittags ist das Bergbaumuseum ein Highlight, da der Parkplatz direkt am Eingang liegt. Der Nachmittag am Schlosshügel bietet klare Winterpanoramen, bevor Sie den beleuchteten See anfahren.",
+            "hu": "Télen az autó meleg menedéket nyújt a velenjei állomások között. Délelőtt a központ felfedezése után gyorsan visszatérhetünk a fűtött utastérbe. Délben a bányamúzeum a fő program, ahol a parkoló közvetlenül a bejáratnál van. A várdombról tiszta téli panoráma tárul elénk, mielőtt a kivilágított tóhoz gurulnánk.",
+            "ro": "Iarna, mașina oferă etape călduroase între obiectivele din Velenje. Dimineața explorăm centrul și ne încălzim rapid în autoturism. Prânzul la muzeul mineritului este ideal, parcarea fiind chiar la intrare. Dealul castelului oferă panorame clare de iarnă, înainte de a vizita lacul iluminat.",
+            "en": "In winter, a car provides cozy warmth between the sights of Velenje. Explore the center in the morning and warm up quickly in your vehicle. The mining museum is a midday highlight with parking right at the entrance. Castle Hill offers clear winter panoramas before you drive to the illuminated lake."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Center",
+              "tip_5lang": {
+                "de": "Parkplätze im Winter oft schneefrei im Parkhaus.",
+                "hu": "Télen a parkolóházakban garantáltan hómentes a hely.",
+                "ro": "Locurile de parcare din garaje sunt deszăpezite iarna.",
+                "en": "Parking garages offer snow-free spaces during winter."
+              }
+            },
+            {
+              "name": "Tito Statue",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt im Freien; Motor danach warm laufen lassen.",
+                "hu": "Rövid kinti tartózkodás; utána járassa a motort a fűtéshez.",
+                "ro": "Scurtă oprire afară; lăsați motorul să se încălzească apoi.",
+                "en": "Brief outdoor stay; let the engine warm up the cabin after."
+              }
+            },
+            {
+              "name": "House of Culture & Herberstein Villa",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Einfahrt auf möglicherweise vereiste Flächen.",
+                "hu": "Vigyázzon a behajtásnál az esetlegesen jeges részekre.",
+                "ro": "Atenție la intrarea în parcare, pot exista porțiuni înghețate.",
+                "en": "Be careful when entering parking areas; surfaces may be icy."
+              }
+            },
+            {
+              "name": "Cluster 2: Castle Hill",
+              "tip_5lang": {
+                "de": "Winterreifen bei der steilen Auffahrt zum Schloss zwingend.",
+                "hu": "A meredek vári feljáróhoz a téli gumi kötelező.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pentru panta castelului.",
+                "en": "Winter tires are mandatory for the steep drive up to the castle."
+              }
+            },
+            {
+              "name": "Velenje Castle & Coal Mining Museum",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird geräumt, kann aber morgens glatt sein.",
+                "hu": "A parkolót takarítják, de reggel még csúszós lehet.",
+                "ro": "Parcarea este deszăpezită, dar poate fi alunecoasă dimineața.",
+                "en": "The parking lot is cleared of snow but can be slippery in the morning."
+              }
+            },
+            {
+              "name": "Cluster 3: Lake & Ruins",
+              "tip_5lang": {
+                "de": "Genießen Sie den See-Sonnenuntergang bequem vom Auto aus.",
+                "hu": "Élvezze a tavi naplementét kényelmesen az autóból.",
+                "ro": "Admirați apusul de pe lac din confortul mașinii.",
+                "en": "Enjoy the lakeside sunset from the comfort of your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und Frostschutzmittel mit.",
+              "Achten Sie auf Streusalz, das das Auto verschmutzen kann.",
+              "Die Auffahrt zum Schloss kann bei Neuschnee gesperrt sein.",
+              "Nutzen Sie die Standheizung, falls vorhanden, beim Museumsbesuch.",
+              "Die Seestraße wird im Winter gut gestreut."
+            ],
+            "hu": [
+              "Legyen önnél jégkaparó és fagyálló folyadék.",
+              "Ügyeljen a sós hóra, ami szennyezheti az autót.",
+              "Friss hóesésben a vári feljárót lezárhatják.",
+              "Használja az állófűtést, ha van, a múzeumlátogatás alatt.",
+              "A tóparti utat télen jól sózzák és takarítják."
+            ],
+            "ro": [
+              "Aveți la voi o racletă și lichid de parbriz de iarnă.",
+              "Atenție la sarea de pe drum care poate murdări mașina.",
+              "Urcarea spre castel poate fi închisă în caz de ninsoare abundentă.",
+              "Folosiți încălzirea auxiliară pe durata vizitei la muzeu.",
+              "Drumul de la lac este bine întreținut și deszăpezit iarna."
+            ],
+            "en": [
+              "Always carry an ice scraper and winter windshield fluid.",
+              "Be aware that road salt can quickly dirty your car.",
+              "The road to the castle might be closed during heavy snowfall.",
+              "Use pre-heating if your car has it during the museum visit.",
+              "The lakeside road is well-maintained and salted in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1257,6 +1845,178 @@
           "Download the local public transport app to see real-time schedules.",
           "Be aware that buses may run less frequently on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der kostenlose 'Lokalc'-Bus in Velenje macht die Tour bei Regen einfach. Morgens erreichen Sie das Zentrum trocken. Mittags bringt Sie der Bus nah an den Schlosshügel für das Bergbaumuseum. Den Nachmittag verbringen Sie am See, wobei die Bushaltestellen oft überdachte Wartehäuschen bieten. Ein entspannter Tag ohne Parkplatzsuche im Regen.",
+            "hu": "Az ingyenes 'Lokalc' busz Velenjében egyszerűvé teszi az esős napot. Reggel szárazon érjük el a központot. Délben a busz közel visz a várdombhoz a bányamúzeum meglátogatásához. A délutánt a tónál töltjük, ahol a buszmegállók többsége fedett. Pihentető nap parkolási gondok nélkül az esőben.",
+            "ro": "Autobuzul gratuit 'Lokalc' din Velenje simplifică turul pe timp de ploaie. Dimineața ajungeți uscați în centru. La prânz, autobuzul vă lasă aproape de dealul castelului pentru muzeu. După-amiaza la lac este accesibilă, stațiile având adăposturi acoperite. O zi relaxantă fără grija parcării pe ploaie.",
+            "en": "The free 'Lokalc' bus in Velenje makes touring easy in the rain. Reach the center dry in the morning. At noon, the bus drops you near Castle Hill for the mining museum. Spend the afternoon at the lake, where most bus stops have covered shelters. A relaxed day without parking worries in the wet weather."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Center",
+              "tip_5lang": {
+                "de": "Zentraler Busbahnhof ist überdacht; ideal zum Umsteigen.",
+                "hu": "A központi buszpályaudvar fedett; ideális az átszálláshoz.",
+                "ro": "Autogara centrală este acoperită; ideală pentru transfer.",
+                "en": "The central bus station is covered; ideal for transfers."
+              }
+            },
+            {
+              "name": "Tito Statue & House of Culture",
+              "tip_5lang": {
+                "de": "Bushaltestelle 'Titov trg' direkt am Platz vorhanden.",
+                "hu": "A 'Titov trg' buszmegálló közvetlenül a téren található.",
+                "ro": "Stația de autobuz 'Titov trg' se află chiar în piață.",
+                "en": "The 'Titov trg' bus stop is located right on the square."
+              }
+            },
+            {
+              "name": "Cluster 2: Castle Hill",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle zum Museumseingang.",
+                "hu": "Rövid gyalogút a buszmegállótól a múzeum bejáratáig.",
+                "ro": "Scurtă plimbare de la stație până la intrarea muzeului.",
+                "en": "A short walk from the bus stop to the museum entrance."
+              }
+            },
+            {
+              "name": "Velenje Castle & Coal Mining Museum",
+              "tip_5lang": {
+                "de": "Bei Regen den Fahrplan am Handy prüfen (Fahrplan-App).",
+                "hu": "Esőben ellenőrizze a menetrendet mobilon (applikáció).",
+                "ro": "Verificați mersul autobuzelor pe mobil când plouă.",
+                "en": "Check the bus schedule on your phone to minimize waiting."
+              }
+            },
+            {
+              "name": "Cluster 3: Lake Velenje",
+              "tip_5lang": {
+                "de": "Haltestelle am See bietet Schutz vor dem Wind.",
+                "hu": "A tóparti buszmegálló védelmet nyújt a szél ellen.",
+                "ro": "Stația de la lac oferă adăpost împotriva vântului.",
+                "en": "The lakeside bus stop provides shelter from the wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der 'Lokalc' ist kostenlos, nutzen Sie ihn für kurze Etappen.",
+              "Die gelbe Linie bedient das Stadtzentrum und den See.",
+              "Busse fahren samstags seltener, sonntags fast gar nicht.",
+              "Warten Sie in den Cafés nahe der Haltestellen auf den Bus.",
+              "Regenschirm beim Einsteigen bitte ausschütteln."
+            ],
+            "hu": [
+              "A 'Lokalc' busz ingyenes, használja rövid szakaszokon is.",
+              "A sárga vonal szolgálja ki a városközpontot és a tavat.",
+              "Szombaton ritkábban, vasárnap alig járnak a buszok.",
+              "Várja meg a buszt a megállók közeli kávézókban.",
+              "Felszálláskor rázza ki az esernyőjét."
+            ],
+            "ro": [
+              "Autobuzul 'Lokalc' este gratuit, folosiți-l pentru etape scurte.",
+              "Linia galbenă deservește centrul orașului și lacul.",
+              "Sâmbăta autobuzele circulă rar, iar duminica aproape deloc.",
+              "Așteptați autobuzul în cafenelele din apropierea stațiilor.",
+              "Scuturați umbrela înainte de a urca în autobuz."
+            ],
+            "en": [
+              "The 'Lokalc' bus is free; use it even for short hops.",
+              "The yellow line serves the city center and the lake.",
+              "Buses run less frequently on Saturdays and hardly at all on Sundays.",
+              "Wait for the bus in nearby cafes if it's raining hard.",
+              "Remember to shake out your umbrella before boarding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie im Winter den beheizten 'Lokalc'-Bus für eine stressfreie Tour. Morgens erreichen Sie das frostige Zentrum schnell und warm. Mittags ist die Fahrt zum Bergbaumuseum angenehm, da der Bus in Gehnähe hält. Der Nachmittag am See endet mit einer warmen Busfahrt zurück ins beleuchtete Zentrum von Velenje.",
+            "hu": "Télen használja a fűtött 'Lokalc' buszt a stresszmentes városnézéshez. Reggel gyorsan és melegen érheti el a fagyos központot. Délben a bányamúzeumhoz tartó út kényelmes, a busz sétatávolságra áll meg. A délután a tónál egy meleg buszos visszautazással zárul a kivilágított központba.",
+            "ro": "Iarna, folosiți autobuzul încălzit 'Lokalc' pentru un tur fără stres. Dimineața ajungeți rapid și la căldură în centrul înghețat. Prânzul la muzeul mineritului este accesibil, stația fiind aproape. Ziua la lac se încheie cu o cursă caldă înapoi spre centrul luminat al orașului.",
+            "en": "In winter, use the heated 'Lokalc' bus for a stress-free tour of Velenje. Reach the frosty center quickly and stay warm in the morning. At noon, the ride to the mining museum is comfortable as the bus stops within walking distance. Finish your lakeside afternoon with a warm bus ride back to the illuminated center."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Center",
+              "tip_5lang": {
+                "de": "Im Wartesaal des Busbahnhofs ist es meist beheizt.",
+                "hu": "A buszpályaudvar váróterme általában fűtött.",
+                "ro": "Sala de așteptare din autogară este de obicei încălzită.",
+                "en": "The bus station waiting room is usually heated."
+              }
+            },
+            {
+              "name": "Tito Statue & House of Culture",
+              "tip_5lang": {
+                "de": "Busse kommen pünktlich; kurz vor Abfahrt zur Haltestelle.",
+                "hu": "A buszok pontosak; csak indulás előtt menjen ki a megállóba.",
+                "ro": "Autobuzele sunt punctuale; mergeți în stație chiar înainte de plecare.",
+                "en": "Buses are punctual; head to the stop just before departure."
+              }
+            },
+            {
+              "name": "Cluster 2: Castle Hill",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf möglicherweise glatten Gehwegen.",
+                "hu": "Vigyázzon a leszállásnál az esetlegesen csúszós járdákra.",
+                "ro": "Atenție la coborâre, trotuarele pot fi alunecoase.",
+                "en": "Be careful when getting off; sidewalks can be slippery."
+              }
+            },
+            {
+              "name": "Velenje Castle & Coal Mining Museum",
+              "tip_5lang": {
+                "de": "Die Wärme im Bus ist nach der Tour sehr willkommen.",
+                "hu": "A busz melege nagyon jól fog esni a bányatúra után.",
+                "ro": "Căldura din autobuz este binevenită după vizitarea muzeului.",
+                "en": "The warmth inside the bus is very welcome after the tour."
+              }
+            },
+            {
+              "name": "Cluster 3: Lake Velenje",
+              "tip_5lang": {
+                "de": "Letzte Busse am See fahren oft gegen 17:00-18:00 Uhr.",
+                "hu": "Az utolsó buszok a tótól 17:00-18:00 körül indulnak.",
+                "ro": "Ultimele autobuze de la lac pleacă în jur de 17:00-18:00.",
+                "en": "The last buses from the lake usually leave around 17:00-18:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der 'Lokalc' ist im Winter die wärmste Reiseart.",
+              "Achten Sie auf die Winterfahrpläne (leicht reduziert).",
+              "Die Haltestellen sind gut beleuchtet, ideal am frühen Abend.",
+              "Tragen Sie Schuhe mit gutem Profil für den Weg zur Haltestelle.",
+              "Nutzen Sie die App 'Velenje na dlani' für Live-Busdaten."
+            ],
+            "hu": [
+              "Télen a 'Lokalc' a legmelegebb utazási mód.",
+              "Ügyeljen a téli menetrendre (kissé ritkább lehet).",
+              "A megállók jól kivilágítottak, ideálisak kora este is.",
+              "Viseljen jó tapadású cipőt a megállóig tartó sétához.",
+              "Használja a 'Velenje na dlani' appot a buszok követéséhez."
+            ],
+            "ro": [
+              "Autobuzul 'Lokalc' este cel mai călduros mod de transport iarna.",
+              "Atenție la orarul de iarnă (poate fi ușor redus).",
+              "Stațiile sunt bine iluminate, ideale pentru seara devreme.",
+              "Purtați încălțăminte cu talpă aderentă până la stație.",
+              "Folosiți aplicația 'Velenje na dlani' pentru date live."
+            ],
+            "en": [
+              "The 'Lokalc' bus is the warmest way to travel in winter.",
+              "Pay attention to winter schedules as they might be reduced.",
+              "Bus stops are well-lit, making them safe in the early dark.",
+              "Wear shoes with good grip for the walk to the bus stop.",
+              "Use the 'Velenje na dlani' app for real-time bus tracking."
+            ]
+          }
+        }
       }
     }
   }

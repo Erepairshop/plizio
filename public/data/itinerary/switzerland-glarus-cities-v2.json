@@ -322,6 +322,188 @@
           "Most of the attractions are located close to each other.",
           "Check the opening hours of the museums in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag in Glarus beginnt am Landsgemeindeplatz, wo sich das Wasser in den Steinplatten spiegelt. In der Stadtkirche finden Sie trockenen Unterschlupf und neugotische Stille. Der Mittag gehört der Kunst und Geschichte: Das Kunsthaus und das Anna-Göldi-Museum bieten stundenlang Schutz vor dem Wetter. Den Tag beschließen Sie mit einem Blick auf das beeindruckende Gerichtsgebäude.",
+            "hu": "Az esős Glarus a Landsgemeindeplatz vizes kövezetével fogad, de a városi templom gyors menedéket nyújt. A délutánt érdemes a múzeumi negyedben tölteni: a Kunsthaus és az Anna Göldi Múzeum falai között elmerülhet a helyi művészetben és a történelemben. A séta végén a bíróság épülete monumentális látványt nyújt a felhők alatt is.",
+            "ro": "O zi ploioasă în Glarus începe în piața centrală, unde reflexiile pe pavaj creează o atmosferă melancolică. Biserica orașului oferă un refugiu uscat și liniștit. După-amiaza este dedicată culturii: Kunsthaus și Muzeul Anna Göldi sunt locuri perfecte pentru a evita ploaia. Traseul se încheie la tribunal, o clădire impunătoare care domină peisajul urban.",
+            "en": "A rainy day in Glarus starts at the main square, where reflections dance on the wet stones. The city church provides a dry sanctuary and peaceful Neo-Gothic architecture. Spend the afternoon immersed in culture at the Kunsthaus and Anna Göldi Museum, perfect indoor retreats. The walk concludes at the courthouse, showing the town's resilient 19th-century spirit."
+          },
+          "stops": [
+            {
+              "name": "Landsgemeindeplatz",
+              "tip_5lang": {
+                "de": "Die Arkaden der umliegenden Häuser bieten Schutz vor den ersten Tropfen.",
+                "hu": "A környékbeli házak árkádjai alatt szárazon figyelheti a teret.",
+                "ro": "Arcadele caselor din jur oferă protecție împotriva primilor stropi.",
+                "en": "The arcades of nearby buildings offer shelter from the first drops of rain."
+              }
+            },
+            {
+              "name": "Glarus City Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufenthalt für eine ausführliche Innenbesichtigung der Orgel.",
+                "hu": "Használja ki az időt a lenyűgöző orgona és a belső tér megtekintésére.",
+                "ro": "Profitați de ocazie pentru a vedea detaliile interioare și orga bisericii.",
+                "en": "Use the time to explore the detailed interior and the impressive organ."
+              }
+            },
+            {
+              "name": "Glarus Art Museum",
+              "tip_5lang": {
+                "de": "Große Garderobe vorhanden – deponieren Sie nasse Schirme und Mäntel bequem.",
+                "hu": "Tágas ruhatár áll rendelkezésre a nedves esernyők és kabátok számára.",
+                "ro": "Există o garderobă spațioasă unde puteți lăsa umbrelele și hainele ude.",
+                "en": "Spacious cloakroom available to store wet umbrellas and coats comfortably."
+              }
+            },
+            {
+              "name": "Anna Göldi Museum",
+              "tip_5lang": {
+                "de": "Der Shop im Museum bietet interessante Bücher für die Lektüre im Café.",
+                "hu": "A múzeumi boltban izgalmas könyveket találhat a kávé melletti olvasáshoz.",
+                "ro": "Magazinul muzeului oferă cărți interesante pentru lectură la o cafea.",
+                "en": "The museum shop offers interesting books for reading later at a café."
+              }
+            },
+            {
+              "name": "Volksgarten (Public Garden)",
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen bieten bei leichtem Nieselregen einen natürlichen Schirm.",
+                "hu": "Enyhe szitálás esetén a sűrű lombkoronák természetes ernyőként szolgálnak.",
+                "ro": "Coroanele dese ale copacilor oferă o umbrelă naturală în caz de burniță.",
+                "en": "The dense tree canopies provide a natural umbrella during light drizzle."
+              }
+            },
+            {
+              "name": "Courthouse",
+              "tip_5lang": {
+                "de": "Betrachten Sie die Fassadendetails aus dem Schutz des gegenüberliegenden Cafés.",
+                "hu": "Csodálja meg a homlokzat részleteit a szemközti kávézó ablakából.",
+                "ro": "Admirați detaliile fațadei din interiorul cafenelei de vizavi.",
+                "en": "Admire the facade details from the warmth of the café located opposite."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Glarus hat ein Gitternetz-Layout, man findet schnell den Weg zurück ins Trockene.",
+              "Die Museen sind montags meist geschlossen, planen Sie Ihren Regentag entsprechend.",
+              "Tragen Sie wasserfeste Schuhe, da sich auf dem Kopfsteinpflaster Pfützen bilden.",
+              "Nutzen Sie die Mittagspause in einem der gemütlichen Lokale nahe der Bahnhofstraße."
+            ],
+            "hu": [
+              "Glarus négyzethálós szerkezete miatt könnyen talál rövid utat a fedett helyekig.",
+              "A múzeumok hétfőn zárva tartanak, az esős programot érdemes eszerint igazítani.",
+              "Vízálló cipő ajánlott, mert a macskaköveken könnyen összegyűlik az esővíz.",
+              "A Bahnhofstraße környékén számos beugró és árkád nyújt gyors menedéket."
+            ],
+            "ro": [
+              "Structura în rețea a orașului Glarus facilitează găsirea unor rute scurte spre adăpost.",
+              "Muzeele sunt de obicei închise lunea, deci planificați vizita în funcție de program.",
+              "Purtați încălțăminte impermeabilă, deoarece pe pavaj se pot forma bălți.",
+              "Zonele de lângă Bahnhofstraße au multe spații acoperite pentru o pauză rapidă."
+            ],
+            "en": [
+              "Glarus has a grid layout, making it easy to find quick paths back to shelter.",
+              "Museums are usually closed on Mondays, so plan your rainy day accordingly.",
+              "Wear waterproof shoes as puddles tend to form on the cobblestone streets.",
+              "The area near Bahnhofstraße offers many covered spots for a quick rest."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterzauber in der kleinsten Kantonshauptstadt: Der Tag beginnt frisch am Landsgemeindeplatz vor der Kulisse verschneiter Gipfel. Die Stadtkirche bietet einen besinnlichen Moment der Wärme. Mittags tauchen Sie in die Kulturgeschichte ein, während draußen der Schnee leise auf den Volksgarten fällt. Der Tag endet früh mit der Dämmerung am beleuchteten Gerichtsgebäude.",
+            "hu": "Téli hangulat Svájc legkisebb kantonfővárosában: a nap frissen indul a főtéren, a háttérben havas hegycsúcsokkal. A városi templom falai közt békés meleg fogad. A déli órákat töltse múzeumlátogatással, miközben odakint a Volksgarten fái fehérbe öltöznek. A nap korán, a kivilágított bíróság épületének látványával zárul.",
+            "ro": "Magie de iarnă în cea mai mică capitală de canton: ziua începe în piață, cu munții înzăpeziți în fundal. Biserica oferă un moment de liniște și căldură. La prânz, explorați muzeele în timp ce zăpada cade încet peste Volksgarten. Ziua se încheie devreme, odată cu apusul care luminează spectaculos clădirea tribunalului.",
+            "en": "Winter magic in Switzerland's smallest cantonal capital starts at the square against a backdrop of snowy peaks. The city church offers a warm, contemplative moment. In the afternoon, dive into history at the museums while snow blankets the Volksgarten outside. The day ends early as dusk falls over the grand, illuminated courthouse."
+          },
+          "stops": [
+            {
+              "name": "Landsgemeindeplatz",
+              "tip_5lang": {
+                "de": "Trinken Sie einen heißen Tee to-go, um sich beim Rundgang aufzuwärmen.",
+                "hu": "Vigyen magával egy forró teát, hogy melegen tartsa a séta alatt.",
+                "ro": "Luați un ceai fierbinte la pachet pentru a vă încălzi în timpul plimbării.",
+                "en": "Grab a hot tea to-go to stay warm during your walk around the square."
+              }
+            },
+            {
+              "name": "Glarus City Church",
+              "tip_5lang": {
+                "de": "Die dicken Kirchenmauern halten die Kälte draußen – ideal für eine kurze Rast.",
+                "hu": "A templom vastag falai kívül tartják a hideget, ideális egy rövid pihenőre.",
+                "ro": "Zidurile groase ale bisericii țin frigul afară – loc ideal pentru un scurt repaus.",
+                "en": "The thick church walls keep the cold out, making it an ideal spot for a rest."
+              }
+            },
+            {
+              "name": "Glarus Art Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht auf die verschneiten Berge durch die großen Fenster.",
+                "hu": "Élvezze a havas hegyekre nyíló kilátást a múzeum hatalmas ablakain keresztül.",
+                "ro": "Admirați priveliștea munților înzăpeziți prin ferestrele mari ale muzeului.",
+                "en": "Enjoy the view of the snowy mountains through the museum's large windows."
+              }
+            },
+            {
+              "name": "Anna Göldi Museum",
+              "tip_5lang": {
+                "de": "Die bewegende Geschichte lässt die winterliche Kälte draußen schnell vergessen.",
+                "hu": "A megrázó történet hamar elfeledteti a kinti téli hideget.",
+                "ro": "Istoria emoționantă vă va face să uitați rapid de frigul de afară.",
+                "en": "The moving story will make you quickly forget the winter cold outside."
+              }
+            },
+            {
+              "name": "Volksgarten (Public Garden)",
+              "tip_5lang": {
+                "de": "Besonders fotogen, wenn der Neuschnee die Denkmäler und Bänke bedeckt.",
+                "hu": "Különösen fotogén helyszín, amikor friss hó fedi az emlékműveket és padokat.",
+                "ro": "Loc extrem de fotogenic când zăpada proaspătă acoperă monumentele și băncile.",
+                "en": "Very photogenic when fresh snow covers the monuments and benches."
+              }
+            },
+            {
+              "name": "Courthouse",
+              "tip_5lang": {
+                "de": "Achten Sie auf die stimmungsvolle Abendbeleuchtung ab ca. 16:30 Uhr.",
+                "hu": "Figyelje meg a hangulatos esti kivilágítást délután fél öt körül.",
+                "ro": "Observați iluminatul ambiental de seară care începe în jur de ora 16:30.",
+                "en": "Watch for the atmospheric evening lighting starting around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne verschwindet im Winter früh hinter den hohen Glarner Bergen.",
+              "Tragen Sie Schuhe mit gutem Profil, da die Wege oft rutschig sein können.",
+              "Wärmen Sie sich in den Pausen mit einer 'Glarner Pastete' in einer Bäckerei auf.",
+              "Besuchen Sie das Kunsthaus am Nachmittag, um das beste Licht zu nutzen."
+            ],
+            "hu": [
+              "A nap télen korán eltűnik a magas Glarner-Alpok csúcsai mögött.",
+              "Viseljen bordázott talpú cipőt, mert az utak gyakran csúszósak lehetnek.",
+              "Melegedjen fel egy helyi 'Glarner Pastete' süteménnyel valamelyik pékségben.",
+              "A Kunsthaus meglátogatását érdemes kora délutánra időzíteni a fények miatt."
+            ],
+            "ro": [
+              "Soarele dispare devreme în spatele munților înalți din Glarus pe timpul iernii.",
+              "Purtați încălțăminte cu talpă aderentă, deoarece căile pot fi alunecoase.",
+              "Încălziți-vă cu o 'Glarner Pastete' tradițională la o brutărie locală.",
+              "Vizitați Kunsthaus după-amiaza pentru a profita de lumina naturală rămasă."
+            ],
+            "en": [
+              "The sun disappears early behind the high Glarner mountains in winter.",
+              "Wear shoes with good grip, as the paths can often be slippery.",
+              "Warm up with a traditional 'Glarner Pastete' at a local bakery during breaks.",
+              "Visit the Kunsthaus in the early afternoon to make the most of the daylight."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -662,6 +844,206 @@
           "Lock your bike securely at the main attractions.",
           "Some paths run along the river, offering beautiful views."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch das regnerische Glarus erfordert gute Ausrüstung, bietet aber leere Wege. Vom Landsgemeindeplatz führt die Route zur schützenden Stadtkirche. Der längere Aufenthalt im Kunsthaus und Anna-Göldi-Museum ist ideal, um die Kleidung trocknen zu lassen. Die Fahrt zur Kantonsschule und zum Güterschuppen zeigt die industrielle Seite im grauen Dunst.",
+            "hu": "Az esős Glarus kerékpáron jó felszerelést igényel, de csendes utakat kínál. A főtérről az út a védelmet nyújtó templomhoz vezet. A Kunsthaus és az Anna Göldi Múzeum falai között bőven van idő a ruhák megszárítására. A kantoni iskola és a Güterschuppen felé tartó tekerés a város ipari arcát mutatja a párás ködben.",
+            "ro": "O tură cu bicicleta prin Glarus pe ploaie necesită echipament bun, dar oferă drumuri libere. De la piața centrală, ruta duce spre biserică. Oprirea prelungită la muzee este ideală pentru a lăsa hainele să se usuce. Drumul spre școala cantonală și Güterschuppen dezvăluie latura industrială în ceața gri.",
+            "en": "Cycling through rainy Glarus requires proper gear but rewards you with empty paths. From the square, head to the sheltering church. A long stay at the Kunsthaus and Anna Göldi Museum is perfect for letting your clothes dry. Riding to the Cantonal School and Güterschuppen shows the town's industrial side through the mist."
+          },
+          "stops": [
+            {
+              "name": "Landsgemeindeplatz",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, nasses Kopfsteinpflaster kann sehr rutschig sein.",
+                "hu": "Ellenőrizze a fékeket, a nedves macskakő nagyon csúszós lehet.",
+                "ro": "Verificați frânele, pavajul ud poate fi extrem de alunecos.",
+                "en": "Check your brakes as wet cobblestones can be very slippery."
+              }
+            },
+            {
+              "name": "Glarus City Church",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich oft in der Nähe des Haupteingangs.",
+                "hu": "Fedett kerékpártárolókat gyakran talál a főbejárat közelében.",
+                "ro": "Suporturile de biciclete acoperite se află adesea lângă intrarea principală.",
+                "en": "Covered bike racks are often located near the main entrance."
+              }
+            },
+            {
+              "name": "Volksgarten (Public Garden)",
+              "tip_5lang": {
+                "de": "Meiden Sie die Rasenflächen, bleiben Sie auf den befestigten Wegen.",
+                "hu": "Kerülje a füves területeket, maradjon a szilárd burkolatú utakon.",
+                "ro": "Evitați zonele cu iarbă și rămâneți pe potecile asfaltate sau pavate.",
+                "en": "Avoid the grass areas and stay on the paved or gravel paths."
+              }
+            },
+            {
+              "name": "Kunsthaus & Anna Göldi Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als ausgiebige Regenpause im Warmen.",
+                "hu": "Használja a múzeumlátogatást egy hosszabb pihenőre a melegben.",
+                "ro": "Folosiți vizita la muzeu ca o pauză lungă și călduroasă de la ploaie.",
+                "en": "Use the museum visit as a substantial break from the rain in the warm."
+              }
+            },
+            {
+              "name": "Glarus Cantonal School",
+              "tip_5lang": {
+                "de": "Vorsicht vor tief hängenden Ästen, die bei Regen schwerer sind.",
+                "hu": "Vigyázzon a belógó ágakra, amelyek az esőtől elnehezülhetnek.",
+                "ro": "Atenție la crengile joase, care sunt mai grele din cauza ploii.",
+                "en": "Watch out for low-hanging branches that become heavier when wet."
+              }
+            },
+            {
+              "name": "Güterschuppen",
+              "tip_5lang": {
+                "de": "Gute Sichtbarkeit durch Reflektoren ist bei grauem Wetter lebenswichtig.",
+                "hu": "A jó láthatóság és a fényvisszaverők életmentőek a szürke időben.",
+                "ro": "Vizibilitatea bună prin reflectorizante este vitală pe vreme gri.",
+                "en": "Good visibility through reflectors is vital during grey, rainy weather."
+              }
+            },
+            {
+              "name": "Courthouse",
+              "tip_5lang": {
+                "de": "Ein kurzes Foto unter dem Regenschirm, bevor es zum Abschluss geht.",
+                "hu": "Egy gyors fotó az esernyő alatt, mielőtt befejezné a kört.",
+                "ro": "O fotografie rapidă sub umbrelă înainte de a încheia turul.",
+                "en": "A quick photo under an umbrella before finishing your tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche an Ihrem Fahrrad, um Schmutzspritzer zu vermeiden.",
+              "Die Markierungen auf der Straße können bei Nässe sehr glatt werden.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit im Verkehr.",
+              "Das Glarnerland bietet viele Brunnen, an denen man das Rad kurz abspülen kann."
+            ],
+            "hu": [
+              "Használjon sárvédőt a kerékpáron, hogy elkerülje a felverődő koszt.",
+              "Az útburkolati jelek nedvesen rendkívül csúszóssá válhatnak.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóság érdekében a forgalomban.",
+              "Glarusban sok kút található, ahol gyorsan leöblítheti a biciklit a sár után."
+            ],
+            "ro": [
+              "Folosiți apărători la bicicletă pentru a evita stropii de noroi.",
+              "Marcajele rutiere pot deveni foarte alunecoase pe timp de ploaie.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate sporită.",
+              "Orașul are multe fântâni unde puteți clăti rapid bicicleta de noroi."
+            ],
+            "en": [
+              "Use fenders on your bike to avoid mud and water splashes.",
+              "Road markings can become extremely slippery when wet.",
+              "Wear a high-visibility rain jacket for better safety in traffic.",
+              "Glarus has many fountains where you can quickly rinse your bike if needed."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Glarus ist ein Abenteuer zwischen schneebedeckten Gipfeln. Die flachen Wege im Talboden sind meist gut geräumt. Nach dem Start am Landsgemeindeplatz bietet die Kirche einen Moment der Ruhe. Die Museen sind wichtige Aufwärmstationen, bevor Sie die Route zur Kantonsschule und zum kulturellen Güterschuppen fortsetzen.",
+            "hu": "A téli kerékpározás Glarusban igazi kaland a havas csúcsok árnyékában. A völgy lapos útjait általában jól takarítják. A főtéri indulás után a templom nyújt egy pillanatnyi nyugalmat. A múzeumok fontos melegedőpontok, mielőtt folytatná az utat a kantoni iskola és a Güterschuppen kulturális központ felé.",
+            "ro": "Ciclismul de iarnă în Glarus este o aventură printre vârfuri înzăpezite. Drumurile plate din vale sunt de obicei bine curățate. După startul din piață, biserica oferă un moment de liniște. Muzeele sunt puncte esențiale de încălzire înainte de a continua spre școală și centrul cultural Güterschuppen.",
+            "en": "Winter cycling in Glarus is an adventure set among snow-capped peaks. The flat valley roads are usually well-cleared. After starting at the square, the church offers a quiet moment. The museums are vital warming stations before you continue to the Cantonal School and the cultural hub at Güterschuppen."
+          },
+          "stops": [
+            {
+              "name": "Landsgemeindeplatz",
+              "tip_5lang": {
+                "de": "Vorsicht vor Streusalzresten, die die Kette korrodieren lassen können.",
+                "hu": "Vigyázzon az útszóró sóra, amely korrodálhatja a kerékpárláncot.",
+                "ro": "Atenție la reziduurile de sare, care pot coroda lanțul bicicletei.",
+                "en": "Watch out for road salt residues that can corrode your bike chain."
+              }
+            },
+            {
+              "name": "Glarus City Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die gefrorenen Finger an den Handschuhen zu lockern.",
+                "hu": "Rövid megálló, hogy kicsit átmozgassa átfagyott ujjait a kesztyűben.",
+                "ro": "Scurtă oprire pentru a vă dezmorți degetele înghețate în mănuși.",
+                "en": "A short stop to loosen up frozen fingers inside your gloves."
+              }
+            },
+            {
+              "name": "Volksgarten (Public Garden)",
+              "tip_5lang": {
+                "de": "Die Wege können vereist sein, fahren Sie besonders in Kurven vorsichtig.",
+                "hu": "Az utak jegesek lehetnek, kanyarodáskor legyen különösen óvatos.",
+                "ro": "Potecile pot fi înghețate, conduceți cu mare prudență în curbe.",
+                "en": "Paths may be icy, so drive extra carefully, especially in curves."
+              }
+            },
+            {
+              "name": "Kunsthaus & Anna Göldi Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Winterkleidung kurz abzulegen.",
+                "hu": "Használja a ruhatárat, hogy rövid időre letegye a nehéz téli kabátot.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele grele de iarnă pe durata vizitei.",
+                "en": "Use the cloakroom to shed heavy winter layers during your visit."
+              }
+            },
+            {
+              "name": "Glarus Cantonal School",
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne kann beim Fahren stark blenden.",
+                "hu": "Az alacsonyan járó téli nap tekerés közben erősen vakíthat.",
+                "ro": "Soarele jos de iarnă poate fi foarte orbitor în timp ce pedalați.",
+                "en": "The low winter sun can be quite blinding while you are riding."
+              }
+            },
+            {
+              "name": "Güterschuppen",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Beleuchtung, die Dämmerung setzt hier sehr früh ein.",
+                "hu": "Ellenőrizze a világítást, mert a szürkület itt nagyon korán beköszönt.",
+                "ro": "Verificați luminile, amurgul se instalează foarte devreme în această zonă.",
+                "en": "Check your lights as dusk sets in very early in this valley location."
+              }
+            },
+            {
+              "name": "Courthouse",
+              "tip_5lang": {
+                "de": "Ein letzter Blick auf die Architektur, bevor es zum Aufwärmen geht.",
+                "hu": "Egy utolsó pillantás az épületre, mielőtt bemenne valahová melegedni.",
+                "ro": "O ultimă privire asupra arhitecturii înainte de a merge la căldură.",
+                "en": "A final look at the architecture before heading somewhere to warm up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie mit etwas weniger Reifendruck für bessere Haftung auf Schnee.",
+              "Tragen Sie Thermounterwäsche, der Fahrtwind ist im Winter sehr kalt.",
+              "Reinigen Sie Ihr Rad nach der Tour, um das Streusalz zu entfernen.",
+              "Planen Sie Ihre Tour so, dass Sie vor 16:30 Uhr am Ziel sind."
+            ],
+            "hu": [
+              "Hajtson kicsit alacsonyabb guminyomással a jobb tapadás érdekében.",
+              "Viseljen termo alsóruházatot, a menetszél télen rendkívül hideg.",
+              "A túra után tisztítsa meg a biciklit, hogy eltávolítsa az útszóró sót.",
+              "Úgy tervezze az útvonalat, hogy délután fél ötre befejezze a tekerést."
+            ],
+            "ro": [
+              "Utilizați o presiune ușor mai mică în anvelope pentru aderență pe zăpadă.",
+              "Purtați lenjerie termică, deoarece curentul de aer este foarte rece iarna.",
+              "Curățați bicicleta după tură pentru a elimina sarea de pe drum.",
+              "Planificați traseul astfel încât să ajungeți la destinație înainte de 16:30."
+            ],
+            "en": [
+              "Ride with slightly lower tire pressure for better traction on snow.",
+              "Wear thermal layers as the wind chill is significant during winter.",
+              "Clean your bike after the ride to remove corrosive road salt.",
+              "Plan your route to ensure you finish before dusk at around 4:30 PM."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -954,6 +1336,170 @@
           "Once parked, the entire town is easily accessible on foot.",
           "Pay attention to parking fees and time limits."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto lässt sich das regnerische Glarus komfortabel erkunden. Nutzen Sie die zentralen Parkplätze, um die kurzen Wege zum Landsgemeindeplatz und zur Kirche trocken zu überbrücken. Der Kunst- und Kulturcluster im Süden bietet perfekte Indoor-Aktivitäten für mehrere Stunden. Ein kurzer Spaziergang im Volksgarten rundet den Besuch ab, bevor es zurück zum trockenen Fahrzeug geht.",
+            "hu": "Autóval kényelmesen felfedezhető az esős Glarus is. Használja a központi parkolókat, hogy szárazon érje el a főteret és a templomot. A déli részen található kulturális negyed tökéletes többórás beltéri elfoglaltságot kínál. Egy rövid séta a Volksgartenben még esőben is belefér, mielőtt visszatérne a száraz járműhöz.",
+            "ro": "Explorați Glarus pe ploaie din confortul mașinii. Folosiți parcările centrale pentru a ajunge rapid la piață și biserică fără a vă uda prea tare. Clusterul cultural din sud oferă activități perfecte de interior pentru câteva ore. O scurtă plimbare în Volksgarten completează vizita înainte de întoarcerea la vehicul.",
+            "en": "Rainy Glarus is easily explored by car. Use central parking lots to keep the walks to the square and church short and dry. The southern cultural cluster provides excellent indoor activities for several hours. A brief walk in the Volksgarten completes the visit before you return to your dry vehicle."
+          },
+          "stops": [
+            {
+              "name": "Central Car Park & Walk to Landsgemeindeplatz",
+              "tip_5lang": {
+                "de": "Halten Sie den Regenschirm griffbereit für den Weg vom Parkplatz.",
+                "hu": "Tartsa kéznél az esernyőt a parkolótól a főtérig tartó rövid útra.",
+                "ro": "Țineți umbrela la îndemână pentru drumul de la parcare spre piață.",
+                "en": "Keep your umbrella ready for the walk from the car park to the square."
+              }
+            },
+            {
+              "name": "City Church and Courthouse",
+              "tip_5lang": {
+                "de": "Parken Sie in der blauen Zone direkt am Straßenrand, wenn Plätze frei sind.",
+                "hu": "Parkoljon a kék zónában az út mentén, ha talál szabad helyet.",
+                "ro": "Parcați în zona albastră direct la marginea drumului dacă sunt locuri libere.",
+                "en": "Park in the blue zone directly by the roadside if spaces are available."
+              }
+            },
+            {
+              "name": "Art and Culture Cluster",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es Parkplätze, die den Zugang zu beiden Museen erleichtern.",
+                "hu": "A közelben több parkoló is van, így mindkét múzeum könnyen elérhető.",
+                "ro": "Există locuri de parcare în apropiere care facilitează accesul la ambele muzee.",
+                "en": "Nearby parking spaces make accessing both museums very convenient."
+              }
+            },
+            {
+              "name": "Lunch and Relaxation in Volksgarten",
+              "tip_5lang": {
+                "de": "Parken Sie beim Bahnhof, um den kürzesten Weg zum Parkeingang zu haben.",
+                "hu": "Parkoljon a vasútállomásnál, onnan a legrövidebb az út a parkba.",
+                "ro": "Parcați lângă gară pentru a avea cel mai scurt drum spre intrarea în parc.",
+                "en": "Park near the station for the shortest walk to the park entrance."
+              }
+            },
+            {
+              "name": "Return to the Car Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung, um nach dem Spaziergang schnell aufzuwärmen.",
+                "hu": "Használja az ülésfűtést, hogy séta után gyorsan felmelegedjen az autóban.",
+                "ro": "Folosiți încălzirea în scaune pentru a vă încălzi rapid după plimbare.",
+                "en": "Use the seat heaters to warm up quickly after your walk around town."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf die Parkuhren, viele Plätze sind zeitlich begrenzt.",
+              "Die Sicht kann bei starkem Regen in den engen Gassen eingeschränkt sein.",
+              "Nutzen Sie die Parkhäuser, um das Auto im Trockenen abzustellen.",
+              "Einige Parkplätze in Glarus lassen sich bequem per App bezahlen."
+            ],
+            "hu": [
+              "Figyeljen a parkolóórákra, sok helyen időkorlát van érvényben.",
+              "Erős esőben a szűk utcákban korlátozott lehet a látótávolság.",
+              "Használja a fedett parkolókat, hogy száraz helyen hagyja az autót.",
+              "Glarusban több parkolót is kényelmesen, mobilapplikációval fizethet."
+            ],
+            "ro": [
+              "Atenție la parcometre, multe locuri au limită de timp pentru staționare.",
+              "Vizibilitatea poate fi redusă pe străzile înguste în timpul ploii abundente.",
+              "Căutați parcări acoperite pentru a lăsa mașina la adăpost de ploaie.",
+              "Unele parcări din Glarus pot fi plătite convenabil prin aplicații mobile."
+            ],
+            "en": [
+              "Keep an eye on parking meters; many spots have strict time limits.",
+              "Visibility can be limited in the narrow streets during heavy rain.",
+              "Look for covered parking structures to keep your car out of the rain.",
+              "Many parking spots in Glarus can be paid for using mobile apps."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt nach Glarus bietet spektakuläre Ausblicke auf die Glarner Alpen. Die Stadt ist gut auf Schnee vorbereitet. Beginnen Sie zentrumsnah am Landsgemeindeplatz und der Kirche. Der Kulturcluster im Süden bietet einen warmen Rückzugsort, während draußen die Berggipfel in der Wintersonne leuchten. Der Besuch endet, wenn die Lichter der Stadt in der frühen Dunkelheit erstrahlen.",
+            "hu": "A téli autózás Glarusba lenyűgöző kilátást nyújt a Glarner-Alpokra. A város jól felkészült a hóra. Kezdje a látogatást a belvárosban, a főtér és a templom közelében. A déli kulturális negyed meleg menedéket kínál, miközben odakint a hegycsúcsok ragyognak a téli napsütésben. A nap korán zárul, ahogy a város fényei felgyúlnak a sötétben.",
+            "ro": "O călătorie cu mașina spre Glarus iarna oferă vederi spectaculoase spre Alpi. Orașul este bine pregătit pentru zăpadă. Începeți aproape de centru, în piață și la biserică. Clusterul cultural din sud oferă un refugiu călduros, în timp ce vârfurile munților strălucesc în soarele de iarnă. Vizita se încheie când luminile orașului se aprind în amurgul timpuriu.",
+            "en": "A winter drive to Glarus offers spectacular views of the Glarner Alps. The town is well-prepared for snow. Start near the center at the square and the church. The southern cultural cluster provides a warm retreat while the mountain peaks glow in the winter sun outside. The visit concludes as the city lights twinkle in the early darkness."
+          },
+          "stops": [
+            {
+              "name": "Central Car Park & Walk to Landsgemeindeplatz",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen, Parkplätze können vereiste Stellen aufweisen.",
+                "hu": "Vigyázzon a kiszálláskor, a parkolókban lehetnek jeges foltok.",
+                "ro": "Atenție la coborâre, parcările pot avea porțiuni cu gheață.",
+                "en": "Be careful when getting out of the car, as parking lots may have icy patches."
+              }
+            },
+            {
+              "name": "City Church and Courthouse",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, um das Auto aufzuwärmen.",
+                "hu": "Ne járassa feleslegesen a motort az autó bemelegítéséhez.",
+                "ro": "Nu lăsați motorul pornit inutil pentru a încălzi mașina.",
+                "en": "Avoid idling the engine unnecessarily just to warm up the vehicle."
+              }
+            },
+            {
+              "name": "Art and Culture Cluster",
+              "tip_5lang": {
+                "de": "Die Museen sind gut beheizt – ideal nach der kühlen Fahrt.",
+                "hu": "A múzeumok jól fűtöttek – ideális megálló a hűvös utazás után.",
+                "ro": "Muzeele sunt bine încălzite – refugiu ideal după drumul răcoros.",
+                "en": "The museums are well-heated, providing a perfect break after your drive."
+              }
+            },
+            {
+              "name": "Lunch and Relaxation in Volksgarten",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneeräumfahrzeuge, die in der Nähe des Parks arbeiten.",
+                "hu": "Figyeljen a hókotrókra, amelyek a park környékén dolgozhatnak.",
+                "ro": "Atenție la utilajele de deszăpezire care lucrează în apropierea parcului.",
+                "en": "Watch out for snow removal vehicles operating near the park area."
+              }
+            },
+            {
+              "name": "Return to the Car Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Abfahrt, ob alle Scheiben komplett eisfrei sind.",
+                "hu": "Indulás előtt ellenőrizze, hogy minden ablak teljesen jégmentes-e.",
+                "ro": "Înainte de plecare, verificați dacă toate geamurile sunt libere de gheață.",
+                "en": "Before driving off, ensure all windows are completely free of ice."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser alpinen Region absolut unerlässlich.",
+              "Führen Sie einen Eiskratzer und einen kleinen Besen im Auto mit.",
+              "Die Straßen im Tal sind meist schnell geräumt, Nebenstraßen können weiß sein.",
+              "Beachten Sie die winterlichen Parkverbote für den Schneeräumungsdienst."
+            ],
+            "hu": [
+              "A téli gumi ebben az alpesi régióban elengedhetetlen felszerelés.",
+              "Mindig tartson jégkaparót és egy kis kefét az autóban.",
+              "A völgy útjait gyorsan takarítják, de a mellékutcák havasak maradhatnak.",
+              "Ügyeljen az ideiglenes parkolási tilalmakra a hókotrók munkája miatt."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt absolut esențiale în această regiune alpină.",
+              "Păstrați întotdeauna o racletă și o perie mică în interiorul mașinii.",
+              "Drumurile principale sunt curățate rapid, dar străzile secundare pot fi albe.",
+              "Respectați interdicțiile de parcare pentru a permite accesul utilajelor."
+            ],
+            "en": [
+              "Winter tires are absolutely essential in this alpine region.",
+              "Always carry an ice scraper and a small brush in your vehicle.",
+              "Main valley roads are cleared quickly, but side streets may remain snowy.",
+              "Observe temporary parking bans to allow for snow removal services."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1246,6 +1792,170 @@
           "Everything important is within walking distance from the train station.",
           "Buy your return ticket in advance to avoid waiting times."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem öffentlichen Verkehr reisen Sie entspannt ins regnerische Glarus. Vom Bahnhof aus erreichen Sie das Stadtzentrum in wenigen Gehminuten. Die Kirche und der Landsgemeindeplatz bieten erste Eindrücke, bevor Sie den Nachmittag in den trockenen Ausstellungsräumen des Kunsthauses und des Anna-Göldi-Museums verbringen. Der Rückweg zum Bahnhof führt am imposanten Gerichtsgebäude vorbei.",
+            "hu": "Tömegközlekedéssel kényelmesen érkezhet meg az esős Glarusba. A vasútállomástól mindössze pár perc séta a városközpont. A templom és a főtér megtekintése után töltse a délutánt a Kunsthaus és az Anna Göldi Múzeum száraz kiállítótereiben. A visszaút az állomásra a monumentális bírósági épület mellett vezet el.",
+            "ro": "Călătoriți relaxat cu transportul public spre Glarus pe timp de ploaie. De la gară, centrul este la doar câteva minute de mers pe jos. Vizitați piața și biserica, apoi petreceți după-amiaza în spațiile uscate ale muzeelor. Drumul înapoi spre gară trece pe lângă tribunalul impunător.",
+            "en": "Travel relaxed to rainy Glarus by public transit. From the station, the city center is just a few minutes' walk. Explore the square and church before spending your afternoon in the dry galleries of the Kunsthaus and Anna Göldi Museum. The walk back to the station takes you past the grand courthouse."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Glarus Station & Walk",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Unterführungen am Bahnhof, um trocken zu bleiben.",
+                "hu": "Használja az állomás aluljáróit, hogy szárazon maradjon az érkezéskor.",
+                "ro": "Utilizați pasajele subterane ale gării pentru a rămâne la adăpost.",
+                "en": "Use the station's underpasses to stay dry upon your arrival."
+              }
+            },
+            {
+              "name": "Landsgemeindeplatz and City Church",
+              "tip_5lang": {
+                "de": "Der Kiosk am Bahnhof verkauft bei Bedarf Regenschirme.",
+                "hu": "A vasútállomás kioszkjában szükség esetén vásárolhat esernyőt.",
+                "ro": "Chioșcul din gară vinde umbrele în caz de necesitate.",
+                "en": "The station kiosk sells umbrellas if you find yourself needing one."
+              }
+            },
+            {
+              "name": "Kunsthaus and Anna Göldi Museum",
+              "tip_5lang": {
+                "de": "Die Züge verkehren stündlich, richten Sie Ihren Aufenthalt danach aus.",
+                "hu": "A vonatok óránként járnak, igazítsa a múzeumlátogatást a menetrendhez.",
+                "ro": "Trenurile circulă la fiecare oră, deci planificați vizita în consecință.",
+                "en": "Trains run hourly, so time your museum visit according to the schedule."
+              }
+            },
+            {
+              "name": "Volksgarten (Public Garden)",
+              "tip_5lang": {
+                "de": "Kurzer, direkter Weg zum Bahnhof durch den Park, falls es stärker regnet.",
+                "hu": "Rövid, közvetlen út az állomáshoz a parkon át, ha rázendítene az eső.",
+                "ro": "Drum scurt și direct spre gară prin parc în caz că ploaia se întețește.",
+                "en": "A short, direct path to the station leads through the park if rain increases."
+              }
+            },
+            {
+              "name": "Courthouse and Walk Back to Station",
+              "tip_5lang": {
+                "de": "Das Bahnhofsgebäude bietet einen trockenen Wartesaal für die Rückreise.",
+                "hu": "A vasútállomás épületében száraz váróterem áll rendelkezésre a hazautazásig.",
+                "ro": "Clădirea gării oferă o sală de așteptare uscată pentru călătoria de retur.",
+                "en": "The station building provides a dry waiting room for your return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die S25 verbindet Zürich direkt mit Glarus, ideal für Regentage.",
+              "Im Bahnhof gibt es Schließfächer für nasses Gepäck oder Schirme.",
+              "Prüfen Sie die SBB-App für aktuelle Informationen zu Gleisänderungen.",
+              "Der Fußweg vom Bahnhof ins Zentrum ist fast vollständig asphaltiert."
+            ],
+            "hu": [
+              "Az S25-ös vonat közvetlenül köti össze Zürich-et Glarusszal, ideális esős napokon.",
+              "Az állomáson csomagmegőrző szekrények találhatók a vizes holmiknak.",
+              "Ellenőrizze az SBB-appot az aktuális vágányinformációk miatt.",
+              "A gyalogút az állomástól a központig szinte végig aszfaltozott."
+            ],
+            "ro": [
+              "Trenul S25 face legătura directă între Zürich și Glarus, ideal pentru zilele ploioase.",
+              "În gară există dulapuri pentru bagaje unde puteți lăsa umbrelele ude.",
+              "Verificați aplicația SBB pentru informații actualizate despre peron.",
+              "Traseul pietonal de la gară spre centru este aproape în întregime asfaltat."
+            ],
+            "en": [
+              "The S25 train connects Zurich directly to Glarus, ideal for rainy days.",
+              "The station features luggage lockers for wet gear or umbrellas.",
+              "Check the SBB app for real-time updates on platform changes.",
+              "The walk from the station to the center is almost entirely paved."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Anreise per Bahn ins winterliche Glarus: Die Fahrt durch die verschneite Linth-Ebene ist bereits ein Erlebnis. Vom Bahnhof aus liegt das Zentrum in kurzer Gehdistanz. Genießen Sie die klare Luft am Landsgemeindeplatz und die wohlige Wärme in der Stadtkirche. Die Museen bieten am Nachmittag Kultur und Schutz vor der Kälte, bevor Sie die beleuchtete Stadt auf dem Weg zurück zum Zug erleben.",
+            "hu": "Érkezés vonattal a téli Glarusba: a havas Linth-síkságon át vezető út már önmagában élmény. Az állomástól a központ rövid sétával elérhető. Élvezze a friss levegőt a főtéren és a kellemes meleget a városi templomban. A múzeumok kulturális feltöltődést és védelmet nyújtanak a hideg ellen, mielőtt visszaindulna a kivilágított városon át.",
+            "ro": "Sosire cu trenul în Glarus iarna: drumul prin câmpia înzăpezită a râului Linth este o experiență în sine. De la gară, centrul este foarte aproape. Bucurați-vă de aerul curat în piață și de căldura din biserică. Muzeele oferă cultură și adăpost împotriva gerului înainte de a vedea orașul luminat spre seară.",
+            "en": "Arriving by train in winter Glarus is a treat; the ride through the snowy Linth plain is magical. The center is just a short walk from the station. Enjoy the crisp air at the square and the cozy warmth of the church. The museums provide cultural insights and shelter from the cold before you head back through the illuminated town."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Glarus Station & Walk",
+              "tip_5lang": {
+                "de": "Der Bahnhofsplatz wird meist sehr früh von Schnee und Eis befreit.",
+                "hu": "Az állomás előtti teret általában nagyon korán letakarítják a hótól.",
+                "ro": "Piața gării este de obicei curățată de zăpadă și gheață foarte devreme.",
+                "en": "The station square is usually cleared of snow and ice very early in the morning."
+              }
+            },
+            {
+              "name": "Landsgemeindeplatz and City Church",
+              "tip_5lang": {
+                "de": "Ein warmer Kaffee im Bahnhofsbuffet hilft gegen die erste Kälte.",
+                "hu": "Egy meleg kávé az állomás büféjében segít a kezdeti hideg ellen.",
+                "ro": "O cafea caldă la bufetul gării vă va ajuta să suportați frigul inițial.",
+                "en": "A warm coffee at the station buffet helps against the initial winter chill."
+              }
+            },
+            {
+              "name": "Kunsthaus and Anna Göldi Museum",
+              "tip_5lang": {
+                "de": "Beachten Sie die winterlichen Öffnungszeiten der Museumsshops.",
+                "hu": "Ügyeljen a múzeumi boltok téli nyitvatartási idejére.",
+                "ro": "Țineți cont de programul de iarnă al magazinelor de suveniruri din muzee.",
+                "en": "Be mindful of the winter opening hours for the museum gift shops."
+              }
+            },
+            {
+              "name": "Volksgarten (Public Garden)",
+              "tip_5lang": {
+                "de": "Der Blick auf die verschneiten Gipfel ist vom Park aus besonders klar.",
+                "hu": "A havas hegycsúcsokra nyíló kilátás a parkból különösen tiszta.",
+                "ro": "Priveliștea spre vârfurile înzăpezite este foarte clară din parc.",
+                "en": "The view of the snowy peaks is especially clear from the park area."
+              }
+            },
+            {
+              "name": "Courthouse and Walk Back to Station",
+              "tip_5lang": {
+                "de": "In der Dämmerung ist der Weg zum Bahnhof stimmungsvoll beleuchtet.",
+                "hu": "Szürkületben az állomáshoz vezető út hangulatosan van kivilágítva.",
+                "ro": "La amurg, drumul spre gară este iluminat într-un mod pitoresc.",
+                "en": "At dusk, the path back to the station is beautifully and safely lit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Züge sind in der Schweiz auch bei starkem Schneefall sehr pünktlich.",
+              "Der Bahnhof Glarus verfügt über einen beheizten Wartesaal.",
+              "Nutzen Sie die App 'SBB Mobile' für Anschlüsse in die Seitentäler.",
+              "Die Wege vom Bahnhof sind gut geräumt, aber festes Schuhwerk ist nötig."
+            ],
+            "hu": [
+              "A svájci vonatok erős havazás esetén is rendkívül pontosak.",
+              "A glarusi vasútállomás fűtött váróteremmel rendelkezik.",
+              "Használja az SBB Mobile appot az oldalvölgyekbe induló csatlakozásokhoz.",
+              "Az állomástól induló utakat jól takarítják, de zárt cipő szükséges."
+            ],
+            "ro": [
+              "Trenurile elvețiene sunt foarte punctuale chiar și în caz de ninsoare abundentă.",
+              "Gara din Glarus are o sală de așteptare bine încălzită.",
+              "Utilizați aplicația SBB Mobile pentru legături spre văile laterale.",
+              "Căile de la gară sunt bine curățate, dar este necesară încălțăminte solidă."
+            ],
+            "en": [
+              "Swiss trains remain very punctual even during heavy snowfall.",
+              "Glarus station features a well-heated waiting room for passengers.",
+              "Use the SBB Mobile app to check connections to the side valleys.",
+              "Paths from the station are well-cleared, but sturdy footwear is required."
+            ]
+          }
+        }
       }
     }
   }

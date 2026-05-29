@@ -318,6 +318,170 @@
           "Most shops close for a siesta in the afternoon; plan accordingly.",
           "Ask for the 'Menú del Día' at restaurants for a great value lunch."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Vormittag im Kulturzentrum La Almona, um dem Regen zu entfliehen. Mittags bieten die Kirchen im Zentrum trockene Zuflucht und spirituelle Ruhe. Am Nachmittag wird der Spaziergang zum Alquería-Park mit Schirm etwas kürzer, aber die frische, feuchte Luft ist belebend. Den Abend lassen Sie gemütlich in einer Tapas-Bar bei warmen Spezialitäten ausklingen.",
+            "hu": "A délelőttöt kezdje a La Almona Kulturális Központ fedett kiállítótereiben az eső elől menekülve. Délben a központi templomok nyújtanak száraz menedéket és csendes pihenőt. Délután az Alquería parki séta esernyővel rövidebb lesz, de a friss, eső utáni illat kárpótolja. Az estét töltsön egy helyi tapas bárban, meleg ételek mellett figyelve az ablakon kopogó esőt.",
+            "ro": "Începeți dimineața la Centrul Cultural La Almona, un refugiu perfect împotriva ploii. La prânz, bisericile centrale oferă adăpost uscat și momente de liniște. După-amiaza, plimbarea în Parcul Alquería cu umbrela va fi mai scurtă, dar aerul curat este revigorant. Seara se încheie confortabil într-un bar de tapas, savurând preparate calde în timp ce ploaia cade afară.",
+            "en": "Start the morning at La Almona Cultural Centre to escape the rain. At midday, the central churches provide dry refuge and spiritual calm. In the afternoon, the walk through Alquería Park with an umbrella will be shorter, but the fresh, damp air is invigorating. Spend the evening cozily in a tapas bar with warm specialties while watching the rain outside."
+          },
+          "stops": [
+            {
+              "name": "La Almona Cultural Centre",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um trocken zu bleiben und lokale Kunst zu genießen.",
+                "hu": "Ideális helyszín az eső elől, fedett kiállításokkal.",
+                "ro": "Locul perfect pentru a sta la uscat și a savura arta locală.",
+                "en": "Perfect place to stay dry and enjoy local art exhibitions."
+              }
+            },
+            {
+              "name": "Parish of Santa María de la Magdalena",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine ausführliche Innenbesichtigung während der Schauer.",
+                "hu": "Használja ki az időt a belső tér felfedezésére a záporok alatt.",
+                "ro": "Folosiți timpul pentru o vizită detaliată la interior în timpul ploii.",
+                "en": "Use the time for a detailed interior visit during the showers."
+              }
+            },
+            {
+              "name": "Chapel of Santa Ana",
+              "tip_5lang": {
+                "de": "Kleiner, intimer Raum, ideal als kurzer Regenschutz.",
+                "hu": "Kicsi, meghitt tér, ideális rövid eső elleni védelemnek.",
+                "ro": "Spațiu mic și intim, ideal pentru o scurtă protecție contra ploii.",
+                "en": "Small, intimate space, ideal as a quick rain shelter."
+              }
+            },
+            {
+              "name": "Lunch at a local tapas bar",
+              "tip_5lang": {
+                "de": "Fragen Sie nach 'Garbanzos con Espinacas' zum Aufwärmen.",
+                "hu": "Kérjen spenótos csicseriborsót a felmelegedéshez.",
+                "ro": "Cereți 'Garbanzos con Espinacas' pentru a vă încălzi.",
+                "en": "Ask for 'Garbanzos con Espinacas' to warm up."
+              }
+            },
+            {
+              "name": "Alquería Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf den gepflasterten Wegen, sie können rutschig sein.",
+                "hu": "Vigyázat a kövezett utakon, esőben csúszósak lehetnek.",
+                "ro": "Atenție pe aleile pavate, pot deveni alunecoase la ploaie.",
+                "en": "Be careful on the paved paths; they can be slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich in den Altstadtgassen Pfützen bilden können.",
+              "Die Markthalle ist ein guter alternativer Treffpunkt bei starkem Guss.",
+              "Halten Sie nach Cafés mit großen Markisen Ausschau für kurze Stopps.",
+              "Ein Taschenschirm ist bei dem oft windigen Regen in Dos Hermanas praktischer als ein Stockschirm."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óvárosi utcákon megállhat a víz.",
+              "A piaccsarnok jó alternatív találkozóhely erős felhőszakadás esetén.",
+              "Keressen nagy előtetővel rendelkező kávézókat a rövid pihenőkhöz.",
+              "Az összecsukható esernyő praktikusabb Dos Hermanas szeles esőiben."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți pe străzile vechi.",
+              "Piața centrală este un punct bun de refugiu în caz de aversă puternică.",
+              "Căutați cafenele cu copertine mari pentru opriri scurte.",
+              "O umbrelă pliabilă este mai practică în ploile vântoase din Dos Hermanas."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles can form in the old town alleys.",
+              "The market hall is a good alternative meeting point during heavy downpours.",
+              "Look for cafes with large awnings for quick dry stops.",
+              "A compact umbrella is more practical than a large one in windy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintervormittag beginnt frisch bei klarem Licht im Kulturzentrum. Mittags wärmt die Sonne die Fassaden der Magdalena-Kirche auf, während Sie die religiöse Kunst im Inneren bewundern. Am Nachmittag ist der Alquería-Park mit seinen immergrünen Pflanzen ideal für einen zügigen Spaziergang. Da es früh dunkel wird, leuchten die Lichter der Stadt am Abend besonders festlich.",
+            "hu": "A téli délelőtt friss levegővel és tiszta fényekkel kezdődik a kulturális központban. Délben a nap melengeti a Magdalena-templom homlokzatát, miközben bent a műtárgyakat nézzük. Délután az Alquería park örökzöldjei között tehetünk egy élénkítő sétát. Mivel korán sötétedik, az esti város fényei már korán ünnepi hangulatot árasztanak.",
+            "ro": "Dimineața de iarnă începe proaspătă, cu o lumină clară la centrul cultural. La prânz, soarele încălzește fațadele bisericii Magdalena în timp ce admirați arta din interior. După-amiaza, plantele veșnic verzi din Parcul Alquería sunt ideale pentru o plimbare revigorantă. Deoarece se întunecă devreme, luminile orașului strălucesc festiv seara.",
+            "en": "The winter morning starts fresh with clear light at the cultural centre. At midday, the sun warms the facades of the Magdalena Church while you admire the art inside. In the afternoon, the evergreen plants of Alquería Park are ideal for a brisk walk. As it gets dark early, the city lights shine festively in the evening."
+          },
+          "stops": [
+            {
+              "name": "La Almona Cultural Centre",
+              "tip_5lang": {
+                "de": "Genießen Sie die kühlen Ausstellungsräume ohne sommerliche Hitze.",
+                "hu": "Élvezze a hűvös kiállítótereket a nyári hőség nélkül.",
+                "ro": "Bucurați-vă de sălile de expoziție fără căldura verii.",
+                "en": "Enjoy the cool exhibition halls without the summer heat."
+              }
+            },
+            {
+              "name": "Parish of Santa María de la Magdalena",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche mittags, wenn es draußen am wärmsten ist.",
+                "hu": "Délben látogassa meg, amikor kint a legmelegebb az idő.",
+                "ro": "Vizitați biserica la prânz, când este cel mai cald afară.",
+                "en": "Visit the church at midday when it is warmest outside."
+              }
+            },
+            {
+              "name": "Chapel of Santa Ana",
+              "tip_5lang": {
+                "de": "Ein geschützter Ort vor dem oft kühlen Winterwind.",
+                "hu": "Védett hely a gyakran hűvös téli szél elől.",
+                "ro": "Un loc protejat de vântul de iarnă adesea tăios.",
+                "en": "A sheltered spot from the often chilly winter wind."
+              }
+            },
+            {
+              "name": "Lunch at a local tapas bar",
+              "tip_5lang": {
+                "de": "Probieren Sie 'Puchero Andaluz', einen typischen Wintereintopf.",
+                "hu": "Kóstolja meg a 'Puchero Andaluz'-t, egy tipikus téli egytálételt.",
+                "ro": "Încercați 'Puchero Andaluz', o tocană tipică de iarnă.",
+                "en": "Try 'Puchero Andaluz', a typical winter stew."
+              }
+            },
+            {
+              "name": "Alquería Park",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang hier gegen 18:00 Uhr ist malerisch.",
+                "hu": "A naplemente itt 18:00 körül festői látvány.",
+                "ro": "Apusul aici, în jurul orei 18:00, este foarte pitoresc.",
+                "en": "The sunset here around 18:00 is very picturesque."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung: Morgens ist es kühl, mittags in der Sonne mild.",
+              "Die UV-Strahlung ist auch im Winter in Andalusien nicht zu unterschätzen.",
+              "Gegen 17:30 Uhr sinken die Temperaturen spürbar, planen Sie ein heißes Getränk ein.",
+              "Viele Geschäfte machen im Winter eine etwas kürzere Mittagspause als im Sommer."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen: reggel hűvös van, délben a napon enyhe az idő.",
+              "Az UV-sugárzás télen is erős lehet Andalúziában, használjon fényvédőt.",
+              "17:30 körül érezhetően lehűl a levegő, tervezzen be egy forró italt.",
+              "Sok üzlet télen valamivel rövidebb sziesztát tart, mint nyáron."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi: dimineața este răcoare, la prânz e blând la soare.",
+              "Radiația UV rămâne puternică în Andaluzia și iarna, folosiți protecție.",
+              "În jurul orei 17:30 temperaturile scad brusc, plănuiți o băutură caldă.",
+              "Multe magazine au o pauză de prânz mai scurtă iarna decât vara."
+            ],
+            "en": [
+              "Dress in layers: mornings are chilly, but it's mild in the sun at noon.",
+              "UV radiation is still significant in Andalusia in winter; use sunscreen.",
+              "Temperatures drop noticeably around 17:30; plan for a hot drink.",
+              "Many shops have slightly shorter siesta breaks in winter than in summer."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -630,6 +794,170 @@
           "Plan your route in advance, some roads may not be bike-friendly.",
           "Always lock your bike to a fixed object."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Radtour nach Fuente del Rey eine besondere Atmosphäre, sofern Sie wetterfeste Kleidung tragen. Der Vormittag an der Kirche ist ein ruhiger Start. Mittags wärmt ein Essen in Parknähe auf. Nachmittags fordern die nassen Wege zur Lagune volle Konzentration, belohnen aber mit toller Vogelbeobachtung. Den Abschluss bildet die trockene Kultur im La Almona.",
+            "hu": "Az eső ellenére a Fuente del Rey-i bringázás különleges élmény, ha van vízálló ruhája. A délelőtti templomlátogatás nyugodt kezdés. Délben a park közeli ebéd felmelegít. Délután a lagúnához vezető vizes utak koncentrációt igényelnek, de a madármegfigyelés kárpótol. A napot a száraz La Almona kulturális központ zárja.",
+            "ro": "În ciuda ploii, tura cu bicicleta spre Fuente del Rey are o atmosferă aparte cu echipament adecvat. Dimineața la biserică e un start liniștit. La prânz, masa lângă parc vă încălzește. După-amiaza, drumul ud spre lagună cere atenție, dar observarea păsărilor merită. Finalul este cultural și uscat la La Almona.",
+            "en": "Despite the rain, the bike ride to Fuente del Rey has a special atmosphere if you wear waterproof gear. The morning at the church is a quiet start. At midday, lunch near the park warms you up. In the afternoon, wet paths to the lagoon require focus but reward with great birdwatching. End the day with dry culture at La Almona."
+          },
+          "stops": [
+            {
+              "name": "Parish of Santa María de la Magdalena",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad an einem überdachten Ort ab.",
+                "hu": "Parkolja le a biciklit egy fedett helyen.",
+                "ro": "Parcați bicicleta într-un loc acoperit.",
+                "en": "Park your bike in a covered spot near the entrance."
+              }
+            },
+            {
+              "name": "Alquería Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie unbefestigte Wege, diese sind jetzt matschig.",
+                "hu": "Kerülje a földeutakat, mert most sárosak.",
+                "ro": "Evitați potecile neasfaltate, sunt noroioase acum.",
+                "en": "Avoid unpaved paths as they will be muddy now."
+              }
+            },
+            {
+              "name": "Lunch near the park",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit Abstellmöglichkeit im Sichtfeld.",
+                "hu": "Keressen olyan helyet, ahol rálát a biciklikre az ablakból.",
+                "ro": "Căutați un local unde puteți supraveghea bicicletele.",
+                "en": "Find a place where you can keep an eye on your bikes from inside."
+              }
+            },
+            {
+              "name": "Lagoon of Fuente del Rey",
+              "tip_5lang": {
+                "de": "Die Beobachtungshütten bieten perfekten Schutz vor Regen.",
+                "hu": "A madármegfigyelő lesek tökéletes védelmet nyújtanak az eső ellen.",
+                "ro": "Observatoarele oferă protecție perfectă împotriva ploii.",
+                "en": "The birdwatching blinds provide perfect shelter from the rain."
+              }
+            },
+            {
+              "name": "La Almona Cultural Centre",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um sich vor der Rückfahrt abzutrocknen.",
+                "hu": "Kellemes hely a megszáradáshoz a visszaindulás előtt.",
+                "ro": "Un loc bun pentru a vă usca înainte de drumul de întoarcere.",
+                "en": "A great place to dry off before your final ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, auf nassem Asphalt verlängert sich der Bremsweg.",
+              "Schutzbleche sind bei diesem Wetter in Dos Hermanas ein Muss.",
+              "Vermeiden Sie Fahrten über lackierte Markierungen auf der Straße, sie sind extrem rutschig.",
+              "Nehmen Sie ein trockenes Tuch mit, um den Sattel nach Stopps abzuwischen."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, nedves aszfalton megnő a féktáv.",
+              "A sárvédő elengedhetetlen ilyenkor Dos Hermanas utcáin.",
+              "Kerülje a felfestett útburkolati jeleket, mert rendkívül csúszósak.",
+              "Vigyen egy száraz rongyot a nyereg letörléséhez a megállók után."
+            ],
+            "ro": [
+              "Verificați frânele, distanța de frânare crește pe asfalt ud.",
+              "Apărătorile de noroi sunt obligatorii pe această vreme în Dos Hermanas.",
+              "Evitați marcajele vopsite pe carosabil, devin extrem de alunecoase.",
+              "Luați o cârpă uscată pentru a șterge șaua după fiecare oprire."
+            ],
+            "en": [
+              "Check your brakes; stopping distances increase on wet asphalt.",
+              "Mudguards are a must in this weather in Dos Hermanas.",
+              "Avoid riding over painted road markings as they become extremely slippery.",
+              "Bring a dry cloth to wipe down the saddle after each stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft macht das Radfahren heute besonders erfrischend. Morgens an der Kirche ist es noch kühl, aber die Bewegung wärmt auf. Nachmittags ist die Fahrt zur Lagune ein Highlight, da im Winter viele Zugvögel hier rasten. Da die Sonne gegen 18 Uhr sinkt, planen Sie die Rückkehr ins Stadtzentrum zum La Almona für den frühen Abend ein.",
+            "hu": "A tiszta téli levegő különösen frissítővé teszi a mai biciklizést. Reggel a templomnál még hűvös van, de a mozgás felmelegít. Délután a lagúnához vezető út a fénypont, mivel télen sok vándormadár pihen itt. Mivel 18 óra körül lemegy a nap, a visszatérést a La Almona központba kora estére tervezze.",
+            "ro": "Aerul curat de iarnă face tura cu bicicleta de azi foarte revigorantă. Dimineața e răcoare la biserică, dar mișcarea vă încălzește. După-amiaza, drumul spre lagună e punctul forte, mulți pescăruși și păsări migratoare fiind aici iarna. Soarele apune la ora 18, deci plănuiți revenirea la La Almona pentru seara devreme.",
+            "en": "The clear winter air makes cycling today especially refreshing. It's chilly at the church in the morning, but movement warms you up. In the afternoon, the ride to the lagoon is a highlight, as many migratory birds rest here in winter. As the sun sets around 18:00, plan your return to La Almona for the early evening."
+          },
+          "stops": [
+            {
+              "name": "Parish of Santa María de la Magdalena",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad in der Sonne ab, damit der Sattel nicht zu kalt wird.",
+                "hu": "Parkoljon a napon, hogy a nyereg ne hűljön le túlságosan.",
+                "ro": "Parcați bicicleta la soare ca să nu se răcească prea tare șaua.",
+                "en": "Park your bike in the sun to keep the saddle from getting too cold."
+              }
+            },
+            {
+              "name": "Alquería Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die milden Sonnenstrahlen auf den Alleen.",
+                "hu": "Élvezze az enyhe napsugarakat a sétányokon.",
+                "ro": "Bucurați-vă de razele blânde ale soarelui pe alei.",
+                "en": "Enjoy the mild sunbeams on the park avenues."
+              }
+            },
+            {
+              "name": "Lunch near the park",
+              "tip_5lang": {
+                "de": "Ein Platz am Fenster in der Sonne ist ideal.",
+                "hu": "Egy napsütötte ablak melletti asztal ideális választás.",
+                "ro": "Un loc la fereastră, la soare, este ideal.",
+                "en": "A window seat in the sun is ideal for lunch."
+              }
+            },
+            {
+              "name": "Lagoon of Fuente del Rey",
+              "tip_5lang": {
+                "de": "Beste Zeit für seltene Wintergäste unter den Vögeln.",
+                "hu": "A legjobb időszak a ritka téli vendégmadarak megfigyelésére.",
+                "ro": "Cea mai bună perioadă pentru a vedea păsări rare de iarnă.",
+                "en": "Best time to spot rare winter migratory birds."
+              }
+            },
+            {
+              "name": "La Almona Cultural Centre",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich nach der Fahrt bei einer Ausstellung auf.",
+                "hu": "Melegedjen fel a tekerés után egy kiállítás megtekintésével.",
+                "ro": "Încălziți-vă după drum vizitând o expoziție.",
+                "en": "Warm up after your ride by exploring an exhibition."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe, der Fahrtwind ist im Winter kühl.",
+              "Die Lichtverhältnisse ändern sich ab 17:00 Uhr schnell, prüfen Sie Ihr Licht.",
+              "Nehmen Sie eine Thermoskanne mit einem warmen Getränk für die Lagune mit.",
+              "Achten Sie auf Schattenbereiche, dort bleibt es deutlich kühler als in der Sonne."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt, a menetszél télen hideg.",
+              "A fényviszonyok 17:00 után gyorsan változnak, ellenőrizze a lámpákat.",
+              "Vigyen egy termoszt meleg itallal a lagúnához.",
+              "Ügyeljen az árnyékos részekre, ott jóval hűvösebb marad, mint a napon."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt, curentul este rece iarna.",
+              "Lumina se schimbă rapid după ora 17:00, verificați farurile.",
+              "Luați un termos cu o băutură caldă pentru vizita la lagună.",
+              "Atenție la zonele umbrite, rămân mult mai reci decât cele însorite."
+            ],
+            "en": [
+              "Wear windproof gloves; the wind chill is significant in winter.",
+              "Light conditions change quickly after 17:00; check your lights.",
+              "Bring a thermos with a warm drink for the lagoon visit.",
+              "Watch out for shaded areas; they remain much cooler than sunny spots."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1010,6 +1338,206 @@
           "A car gives you the flexibility to visit places spontaneously.",
           "Be mindful of speed limits, especially on country roads."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute das ideale Verkehrsmittel, um zwischen den kulturellen Highlights trocken zu bleiben. Vormittags besuchen Sie die Magdalena-Kirche und La Almona im Zentrum. Mittags fahren Sie südlich zum historischen Turm und zum Quintillo-Museum. Der Nachmittag an der Rennbahn und der Lagune lässt sich dank des Wagens flexibel an die Regenpausen anpassen.",
+            "hu": "Az autó ma az ideális választás, hogy szárazon közlekedjen a látnivalók között. Délelőtt látogassa meg a Magdalena-templomot és a La Almonát a központban. Délben induljon délre a Herberos toronyhoz és a Quintillo múzeumhoz. A délutáni lóversenypálya és lagúna látogatás az autóval rugalmasan az esőszünetekhez igazítható.",
+            "ro": "Mașina este azi mijlocul ideal pentru a rămâne uscat între punctele culturale. Dimineața vizitați biserica Magdalena și La Almona în centru. La prânz mergeți spre sud la Turnul Herberos și Muzeul Quintillo. După-amiaza la hipodrom și lagună poate fi adaptată flexibil în funcție de pauzele ploii.",
+            "en": "The car is the ideal choice today to stay dry between cultural highlights. In the morning, visit the Magdalena Church and La Almona in the centre. At midday, head south to the Herberos Tower and Quintillo Museum. The afternoon at the hippodrome and lagoon can be flexibly adjusted to rain breaks thanks to the car."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Parish of Santa María de la Magdalena",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkhäuser im Zentrum, um den Regenweg kurz zu halten.",
+                "hu": "Használja a központi parkolóházakat, hogy ne kelljen sokat áznia.",
+                "ro": "Folosiți parcările etajate din centru pentru a scurta drumul prin ploaie.",
+                "en": "Use central parking garages to minimize your walk in the rain."
+              }
+            },
+            {
+              "name": "Cluster A: La Almona Cultural Centre",
+              "tip_5lang": {
+                "de": "Ein idealer Indoor-Stopp während starker Schauer.",
+                "hu": "Ideális fedett megálló az erős záporok idejére.",
+                "ro": "Un punct de oprire interior ideal în timpul averselor.",
+                "en": "An ideal indoor stop during heavy rain showers."
+              }
+            },
+            {
+              "name": "Cluster B: Tower of los Herberos",
+              "tip_5lang": {
+                "de": "Betrachten Sie den Turm vom Wagen aus, falls es zu stark regnet.",
+                "hu": "Nézze meg a tornyot az autóból, ha túl erősen esik.",
+                "ro": "Admirați turnul din mașină dacă plouă prea tare.",
+                "en": "View the tower from the car if the rain is too heavy."
+              }
+            },
+            {
+              "name": "Cluster B: Hacienda del Quintillo",
+              "tip_5lang": {
+                "de": "Parkplätze direkt am Museum verfügbar.",
+                "hu": "Parkolóhelyek közvetlenül a múzeumnál elérhetőek.",
+                "ro": "Locuri de parcare disponibile chiar lângă muzeu.",
+                "en": "Parking spaces are available right next to the museum."
+              }
+            },
+            {
+              "name": "Lunch at a country inn",
+              "tip_5lang": {
+                "de": "Genießen Sie das prasselnde Wasser auf dem Dach bei einem Wein.",
+                "hu": "Élvezze a tetőn kopogó esőt egy pohár bor mellett.",
+                "ro": "Bucurați-vă de sunetul ploii pe acoperiș alături de un vin bun.",
+                "en": "Enjoy the sound of rain on the roof while sipping a glass of wine."
+              }
+            },
+            {
+              "name": "Cluster C: Great Hippodrome of Andalusia",
+              "tip_5lang": {
+                "de": "Die Tribünen sind meist überdacht und bieten Regenschutz.",
+                "hu": "A lelátók többnyire fedettek, védelmet nyújtanak az eső ellen.",
+                "ro": "Tribunele sunt în mare parte acoperite și oferă protecție.",
+                "en": "The grandstands are mostly covered and offer rain protection."
+              }
+            },
+            {
+              "name": "Cluster C: Lagoon of Fuente del Rey",
+              "tip_5lang": {
+                "de": "Warten Sie eine Regenpause ab, bevor Sie zum Wasser gehen.",
+                "hu": "Várja meg az esőszünetet, mielőtt a vízhez sétálna.",
+                "ro": "Așteptați o pauză de ploaie înainte de a merge spre apă.",
+                "en": "Wait for a break in the rain before walking to the water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Autobahn Richtung Sevilla.",
+              "Suchen Sie nach Restaurants mit eigenem Parkplatz, um trocken ins Lokal zu kommen.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben."
+            ],
+            "hu": [
+              "Vigyázzon a vízreütésre (aquaplaning) a Sevilla felé vezető autópályán.",
+              "Keressen saját parkolóval rendelkező éttermeket a száraz bejutáshoz.",
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Használja a klímát a szélvédő párátlanítására."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe autostrada spre Sevilla.",
+              "Căutați restaurante cu parcare proprie pentru a intra la uscat.",
+              "Verificați ștergătoarele înainte de a pleca la drum.",
+              "Folosiți aerul condiționat pentru a dezaburi geamurile."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the motorway towards Seville.",
+              "Look for restaurants with their own parking for a dry entry.",
+              "Check your windshield wipers before starting the trip.",
+              "Use the air conditioning to keep the windows from fogging up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Tour mit dem Wagen führt Sie komfortabel durch die verschiedenen Zonen von Dos Hermanas. Der Vormittag gehört dem historischen Zentrum. Mittags erkunden Sie die südlichen Außenbereiche am Herberos-Turm. Nachmittags ist die Fahrt zur Rennbahn und zur Lagune besonders angenehm, da die milde Wintersonne die Landschaft in warmes Licht taucht.",
+            "hu": "A téli autós túra kényelmesen vezet végig Dos Hermanas különböző részein. A délelőtt a történelmi központé. Délben a déli külterületeket fedezzük fel a Herberos toronynál. Délután a lóversenypálya és a lagúna látogatása különösen kellemes, ahogy az enyhe téli nap meleg fénybe vonja a tájat.",
+            "ro": "Turul de iarnă cu mașina vă poartă confortabil prin diversele zone din Dos Hermanas. Dimineața aparține centrului istoric. La prânz explorați zonele sudice de la Turnul Herberos. După-amiaza, drumul spre hipodrom și lagună este foarte plăcut, soarele blând îmbrăcando peisajul în culori calde.",
+            "en": "The winter car tour takes you comfortably through the different areas of Dos Hermanas. The morning belongs to the historic centre. At midday, explore the southern outskirts at the Herberos Tower. In the afternoon, the drive to the hippodrome and lagoon is especially pleasant as the mild winter sun bathes the landscape in warm light."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Parish of Santa María de la Magdalena",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten am Rand der Fußgängerzone.",
+                "hu": "Használja a sétálóövezet szélén található parkolóhelyeket.",
+                "ro": "Folosiți posibilitățile de parcare la marginea zonei pietonale.",
+                "en": "Use the parking facilities at the edge of the pedestrian zone."
+              }
+            },
+            {
+              "name": "Cluster A: La Almona Cultural Centre",
+              "tip_5lang": {
+                "de": "Ein gut temperierter Ort für den Vormittag.",
+                "hu": "Kellemes hőmérsékletű helyszín a délelőtti programhoz.",
+                "ro": "Un loc cu temperatură plăcută pentru orele dimineții.",
+                "en": "A well-tempered place for the morning hours."
+              }
+            },
+            {
+              "name": "Cluster B: Tower of los Herberos",
+              "tip_5lang": {
+                "de": "Im Winter ist die Sicht auf die umliegenden Felder oft sehr klar.",
+                "hu": "Télen a kilátás a környező földekre gyakran nagyon tiszta.",
+                "ro": "Iarna, vizibilitatea asupra câmpurilor din jur este adesea foarte clară.",
+                "en": "In winter, the view over the surrounding fields is often very clear."
+              }
+            },
+            {
+              "name": "Cluster B: Hacienda del Quintillo",
+              "tip_5lang": {
+                "de": "Die Innenräume bieten Schutz vor dem kühlen Winterwind.",
+                "hu": "A belső terek védelmet nyújtanak a hűvös téli szél elől.",
+                "ro": "Spațiile interioare oferă protecție contra vântului de iarnă.",
+                "en": "The indoor areas provide protection from the chilly winter wind."
+              }
+            },
+            {
+              "name": "Lunch at a country inn",
+              "tip_5lang": {
+                "de": "Genießen Sie die Sonne auf der geschützten Terrasse.",
+                "hu": "Élvezze a napsütést a szélvédett teraszon.",
+                "ro": "Bucurați-vă de soare pe terasa protejată.",
+                "en": "Enjoy the sun on a sheltered terrace if available."
+              }
+            },
+            {
+              "name": "Cluster C: Great Hippodrome of Andalusia",
+              "tip_5lang": {
+                "de": "Ein weitläufiges Gelände, ideal für einen kurzen Winterspaziergang.",
+                "hu": "Tágas terület, ideális egy rövid téli sétához.",
+                "ro": "Un teren vast, ideal pentru o scurtă plimbare de iarnă.",
+                "en": "A vast area, ideal for a short winter walk."
+              }
+            },
+            {
+              "name": "Cluster C: Lagoon of Fuente del Rey",
+              "tip_5lang": {
+                "de": "Besuch am besten vor dem frühen Sonnenuntergang gegen 18:00 Uhr.",
+                "hu": "A látogatást a 18:00 körüli korai naplemente elé érdemes időzíteni.",
+                "ro": "Vizită recomandată înainte de apusul de la ora 18:00.",
+                "en": "Visit is best before the early sunset around 18:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne kann im Winter tief stehen, Sonnenbrille beim Fahren nicht vergessen.",
+              "Vermeiden Sie es, Wertgegenstände im Wagen zu lassen.",
+              "Parken Sie im Schatten, wenn Sie das Aufheizen des Innenraums durch die Sonne vermeiden wollen.",
+              "Prüfen Sie den Reifendruck, er sinkt bei kühleren Temperaturen leicht."
+            ],
+            "hu": [
+              "A nap alacsonyan járhat télen, vezetéshez ne felejtse el a napszemüveget.",
+              "Kerülje az értéktárgyak autóban hagyását.",
+              "Parkoljon árnyékba, ha el akarja kerülni, hogy a nap felmelegítse az utasteret.",
+              "Ellenőrizze a keréknyomást, hűvösebb időben kissé lecsökkenhet."
+            ],
+            "ro": [
+              "Soarele poate fi jos iarna, nu uitați ochelarii de soare la condus.",
+              "Evitați să lăsați obiecte de valoare în mașină.",
+              "Parcați la umbră dacă doriți să evitați încălzirea interiorului de la soare.",
+              "Verificați presiunea în pneuri, scade ușor la temperaturi mai mici."
+            ],
+            "en": [
+              "The sun can be low in winter; don't forget sunglasses while driving.",
+              "Avoid leaving valuables in the car.",
+              "Park in the shade if you want to prevent the sun from heating up the interior.",
+              "Check tire pressure; it drops slightly in cooler temperatures."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1346,6 +1874,188 @@
           "Be aware that buses may be less frequent in the evenings and on weekends.",
           "Validate your ticket each time you board a bus."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regen heute lässt sich mit dem gut ausgebauten Nahverkehr gut meistern. Vormittags nutzen Sie die Busse im Zentrum für die Kirchen und das Kulturzentrum. Mittags bringt Sie der Transit bequem zum Essen. Der Nachmittag am Park und der Lagune erfordert kurze Sprints zwischen den Haltestellen, bietet aber immer wieder trockene Fahrtabschnitte.",
+            "hu": "A mai esőt jól kezelheti a jól kiépített tömegközlekedéssel. Délelőtt használja a központi buszokat a templomokhoz és a kulturális központhoz. Délben a tranzit kényelmesen viszi az ebédhez. A délutáni park és lagúna látogatás rövid sprintet igényel a megállók között, de a járműveken mindig megszáradhat.",
+            "ro": "Ploaia de azi poate fi gestionată bine cu transportul public eficient. Dimineața folosiți autobuzele centrale pentru biserici și centrul cultural. La prânz, transportul vă duce confortabil la masă. După-amiaza la parc și lagună necesită sprinturi scurte între stații, dar oferă segmente uscate de drum.",
+            "en": "The rain today is manageable with the well-developed public transport. In the morning, use central buses for the churches and cultural centre. At midday, transit takes you comfortably to lunch. The afternoon at the park and lagoon requires short sprints between stops but offers dry segments on the vehicles."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Parish of Santa María de la Magdalena",
+              "tip_5lang": {
+                "de": "Bushaltestellen befinden sich in unmittelbarer Nähe.",
+                "hu": "A buszmegállók a közvetlen közelben találhatóak.",
+                "ro": "Stațiile de autobuz se află în imediata apropiere.",
+                "en": "Bus stops are located in the immediate vicinity."
+              }
+            },
+            {
+              "name": "Cluster A: La Almona Cultural Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehallen an den größeren Umsteigepunkten.",
+                "hu": "Használja a nagyobb átszállópontok váróhelyiségeit.",
+                "ro": "Folosiți adăposturile din marile puncte de transfer.",
+                "en": "Use the waiting shelters at major transfer points."
+              }
+            },
+            {
+              "name": "Cluster A: Chapel of Santa Ana",
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg von der Bushaltestelle, Schirm bereit halten.",
+                "hu": "Rövid séta a buszmegállótól, tartsa készenlétben az esernyőt.",
+                "ro": "O scurtă plimbare de la stație, țineți umbrela pregătită.",
+                "en": "A short walk from the bus stop; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Lunch in the city centre",
+              "tip_5lang": {
+                "de": "Zentraler Ort mit vielen Buslinien in alle Richtungen.",
+                "hu": "Központi helyszín sok buszjárattal minden irányba.",
+                "ro": "Locație centrală cu multe linii de autobuz în toate direcțiile.",
+                "en": "Central location with many bus lines in all directions."
+              }
+            },
+            {
+              "name": "Cluster B: Alquería Park",
+              "tip_5lang": {
+                "de": "Der Bahnhof Dos Hermanas ist nah und bietet Schutz.",
+                "hu": "Dos Hermanas vasútállomása közel van és védelmet nyújt.",
+                "ro": "Gara Dos Hermanas este aproape și oferă adăpost.",
+                "en": "The Dos Hermanas train station is nearby and offers shelter."
+              }
+            },
+            {
+              "name": "Cluster C: Lagoon of Fuente del Rey",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Taktung der Vorortbusse bei Regen genau.",
+                "hu": "Esőben ellenőrizze pontosan az elővárosi buszok menetrendjét.",
+                "ro": "Verificați atent frecvența autobuzelor periurbane pe ploaie.",
+                "en": "Check the suburban bus schedule carefully during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die lokale Transport-App für Echtzeit-Infos herunter.",
+              "Halten Sie Kleingeld oder eine geladene Fahrkarte bereit, um langes Stehen im Regen zu vermeiden.",
+              "Die Cercanías-Züge (C1) sind eine schnelle, trockene Verbindung nach Sevilla.",
+              "Achten Sie auf Pfützen an den Bordsteinen beim Ein- und Aussteigen."
+            ],
+            "hu": [
+              "Töltse le a helyi közlekedési alkalmazást a valós idejű információkhoz.",
+              "Legyen kéznél aprópénz vagy feltöltött kártya, hogy ne kelljen az esőben állnia.",
+              "A Cercanías vonatok (C1) gyors és száraz kapcsolatot jelentenek Sevilla felé.",
+              "Vigyázzon a padkánál lévő tócsákra a fel- és leszálláskor."
+            ],
+            "ro": [
+              "Descărcați aplicația locală de transport pentru info în timp real.",
+              "Aveți pregătiți bani mărunți sau cardul încărcat pentru a nu sta în ploaie.",
+              "Trenurile Cercanías (C1) oferă o conexiune rapidă și uscată spre Sevilla.",
+              "Atenție la bălțile de lângă borduri la urcare și coborâre."
+            ],
+            "en": [
+              "Download the local transport app for real-time updates.",
+              "Have exact change or a topped-up card ready to avoid standing in the rain.",
+              "Cercanías trains (C1) are a fast and dry connection to Seville.",
+              "Watch out for puddles near the curbs when boarding or exiting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Tour mit Bus und Bahn ist heute besonders entspannt. Vormittags erkunden Sie die Kirchen und das Kulturzentrum im historischen Kern. Mittags genießen Sie die Sonne im Zentrum, bevor Sie der Transit am Nachmittag zum Alquería-Park und zur Lagune bringt. Da es früh dunkelt, ist die beleuchtete Rückfahrt mit dem Bus ein gemütlicher Tagesabschluss.",
+            "hu": "A téli buszos és vonatos túra ma kifejezetten pihentető. Délelőtt a történelmi mag templomait és kulturális központját fedezzük fel. Délben élvezze a napsütést a központban, mielőtt a tranzit délután az Alquería parkhoz és a lagúnához viszi. Mivel korán sötétedik, a kivilágított buszos visszautazás kellemes zárása a napnak.",
+            "ro": "Turul de iarnă cu autobuzul și trenul este foarte relaxant azi. Dimineața explorați bisericile și centrul cultural din nucleul istoric. La prânz bucurați-vă de soare în centru, înainte ca transportul să vă ducă la parcul Alquería și la lagună. Fiindcă se întunecă devreme, drumul de întoarcere cu autobuzul e o încheiere plăcută.",
+            "en": "The winter tour by bus and train is especially relaxed today. In the morning, explore the churches and cultural centre in the historic core. At midday, enjoy the sun in the centre before transit takes you to Alquería Park and the lagoon in the afternoon. As it gets dark early, the brightly lit bus ride back is a cozy end to the day."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Parish of Santa María de la Magdalena",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt vieler Buslinien.",
+                "hu": "Sok buszjárat központi csomópontja.",
+                "ro": "Nod central pentru multe linii de autobuz.",
+                "en": "Central hub for many local bus lines."
+              }
+            },
+            {
+              "name": "Cluster A: La Almona Cultural Centre",
+              "tip_5lang": {
+                "de": "Die Innenräume sind im Winter angenehm temperiert.",
+                "hu": "A belső terek télen kellemes hőmérsékletűek.",
+                "ro": "Spațiile interioare au o temperatură plăcută iarna.",
+                "en": "The indoor spaces are comfortably tempered in winter."
+              }
+            },
+            {
+              "name": "Cluster A: Chapel of Santa Ana",
+              "tip_5lang": {
+                "de": "Ideal für einen kurzen Stopp zwischen zwei Busabfahrten.",
+                "hu": "Ideális egy rövid megállóra két buszjárat között.",
+                "ro": "Ideal pentru o scurtă oprire între două plecări de autobuz.",
+                "en": "Ideal for a short stop between two bus departures."
+              }
+            },
+            {
+              "name": "Lunch in the city centre",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in einem der gemütlichen Lokale auf.",
+                "hu": "Melegedjen fel a hangulatos vendéglők egyikében.",
+                "ro": "Încălziți-vă într-unul din localurile primitoare.",
+                "en": "Warm up in one of the cozy local restaurants."
+              }
+            },
+            {
+              "name": "Cluster B: Alquería Park",
+              "tip_5lang": {
+                "de": "Direkte Anbindung an den Bahnhof Dos Hermanas.",
+                "hu": "Közvetlen kapcsolat Dos Hermanas vasútállomásával.",
+                "ro": "Conexiune directă cu gara Dos Hermanas.",
+                "en": "Direct connection to the Dos Hermanas train station."
+              }
+            },
+            {
+              "name": "Cluster C: Lagoon of Fuente del Rey",
+              "tip_5lang": {
+                "de": "Beachten Sie den ausgedünnten Fahrplan am späten Winterabend.",
+                "hu": "Ügyeljen a ritkább menetrendre a késő téli estéken.",
+                "ro": "Atenție la frecvența redusă a curselor în serile de iarnă.",
+                "en": "Note the less frequent schedule on late winter evenings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warten Sie in den geschlossenen Bahnhöfen, wenn der Wind zu kühl ist.",
+              "Die Busse sind im Winter meist gut beheizt.",
+              "Nutzen Sie die App für die genauen Abfahrtszeiten, um Wartezeiten im Freien zu minimieren.",
+              "Kombinieren Sie den Bus mit dem Cercanías-Zug für maximale Flexibilität."
+            ],
+            "hu": [
+              "Várjon a zárt várótermekben, ha túl hideg a szél.",
+              "A buszok télen általában jól fűtöttek.",
+              "Használja az alkalmazást a pontos indulásokhoz, hogy keveset kelljen kint várnia.",
+              "A maximális rugalmasság érdekében kombinálja a buszt a Cercanías vonattal."
+            ],
+            "ro": [
+              "Așteptați în gările închise dacă vântul este prea rece.",
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Folosiți aplicația pentru orele exacte de plecare ca să nu stați mult afară.",
+              "Combinați autobuzul cu trenul Cercanías pentru flexibilitate maximă."
+            ],
+            "en": [
+              "Wait in the enclosed stations if the wind is too chilly.",
+              "Buses are usually well-heated in winter.",
+              "Use the app for exact departure times to minimize waiting outside.",
+              "Combine the bus with the Cercanías train for maximum flexibility."
+            ]
+          }
+        }
       }
     }
   }

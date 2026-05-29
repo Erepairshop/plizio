@@ -362,6 +362,188 @@
           "Check the opening hours of museums in advance.",
           "Most places in the city center are easily within walking distance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Mo i Rana beginnt zwischen den historischen Holzhäusern von Moholmen, die im Regen glänzen. Den Vormittag verbringen wir im Rana Museum, einem idealen Zufluchtsort vor dem Wetter. Nach einem gemütlichen Mittagessen im Zentrum besuchen wir die Mo-Kirche. Der Nachmittag gehört dem Science Center, wo man völlig vergisst, dass es draußen stürmt.",
+            "hu": "Az esős reggel Mo i Ranában a moholmeni faházak között indul, amelyek sötét tónust kapnak a nedvességtől. A délelőttöt a Rana Múzeumban töltjük, amely tökéletes menedék a szél elől. Egy kiadós belvárosi ebéd után rövid látogatást teszünk a templomban, majd a délutánt a Nordland Science Center interaktív termeiben vészeljük át, ahol szárazon maradhatunk.",
+            "ro": "O dimineață ploioasă în Mo i Rana începe printre casele istorice din Moholmen, care strălucesc sub stropi. Petrecem restul dimineții la Muzeul Rana, refugiul ideal împotriva vremii. După un prânz cald în centru, vizităm biserica locală. După-amiaza este dedicată Centrului de Știință Nordland, unde activitățile interactive ne fac să uităm de furtuna de afară.",
+            "en": "A rainy morning in Mo i Rana starts among the historic wooden houses of Moholmen, gleaming in the wet. We spend the late morning at the Rana Museum, the perfect sanctuary from the elements. After a cozy lunch in the center, we visit the Mo Church. The afternoon is dedicated to the Nordland Science Center, where indoor exhibits provide a dry and engaging escape."
+          },
+          "stops": [
+            {
+              "name": "Moholmen (Old Town)",
+              "tip_5lang": {
+                "de": "Schutz unter den Dachvorsprüngen der alten Speicherhäuser suchen.",
+                "hu": "Keressen menedéket a régi raktárépületek ereszei alatt.",
+                "ro": "Căutați adăpost sub streșinile vechilor depozite de lemn.",
+                "en": "Seek shelter under the eaves of the old warehouse buildings."
+              }
+            },
+            {
+              "name": "Havmannen (The Man from the Sea)",
+              "tip_5lang": {
+                "de": "Schnelles Foto vom Kai aus; Steine können bei Nässe rutschig sein.",
+                "hu": "Gyors fotó a partról; a kövek nedvesen csúszósak lehetnek.",
+                "ro": "Fotografie rapidă de pe dig; pietrele pot fi alunecoase când sunt ude.",
+                "en": "Quick photo from the quay; stones can be slippery when wet."
+              }
+            },
+            {
+              "name": "Rana Museum",
+              "tip_5lang": {
+                "de": "Garderobe nutzen, um nasse Regenjacken zu trocknen.",
+                "hu": "Használja a ruhatárat a vizes esőkabátok megszárításához.",
+                "ro": "Folosiți garderoba pentru a vă usca pelerinele de ploaie.",
+                "en": "Use the cloakroom to dry your wet rain jackets."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café mit Fensterblick auf den regnerischen Fjord.",
+                "hu": "Válasszon egy ablak melletti asztalt kilátással az esős fjordra.",
+                "ro": "Alegeți o masă la fereastră cu vedere spre fjordul ploios.",
+                "en": "Choose a window seat with a view of the rainy fjord."
+              }
+            },
+            {
+              "name": "Mo Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um dem Prasseln des Regens zu lauschen.",
+                "hu": "Csendes hely, ahol hallgathatja az eső kopogását a tetőn.",
+                "ro": "Un loc liniștit unde puteți asculta ropotul ploii pe acoperiș.",
+                "en": "A quiet place to listen to the patter of rain on the roof."
+              }
+            },
+            {
+              "name": "Nordland Science Center",
+              "tip_5lang": {
+                "de": "Ideales Ziel für schlechtes Wetter mit vielen Indoor-Aktivitäten.",
+                "hu": "Ideális rosszidős célpont rengeteg beltéri programmal.",
+                "ro": "Destinație ideală pentru vreme rea, cu multe activități de interior.",
+                "en": "Ideal bad-weather destination with plenty of indoor activities."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Regenschirme sind bei starkem Fjordwind oft nutzlos; eine robuste Regenjacke ist besser.",
+              "Nutzen Sie die überdachten Passagen im Einkaufszentrum Amfi für trockene Wege.",
+              "Wasserdichte Schuhe sind Pflicht, da sich in Moholmen Pfützen bilden.",
+              "Die Museen in Mo i Rana haben bei Regen oft mehr Zulauf, buchen Sie ggf. vor."
+            ],
+            "hu": [
+              "Az erős fjordi szélben az esernyő gyakran használhatatlan; a vízálló kabát jobb választás.",
+              "Használja az Amfi bevásárlóközpont fedett folyosóit a száraz közlekedéshez.",
+              "A vízálló cipő kötelező, mivel Moholmen környékén sok a tócsa.",
+              "Esőben a múzeumok népszerűbbek, érdemes időben érkezni."
+            ],
+            "ro": [
+              "Umbrelele sunt adesea inutile din cauza vântului puternic de pe fjord; o jachetă impermeabilă e mai bună.",
+              "Folosiți pasajele acoperite din centrul comercial Amfi pentru a rămâne uscați.",
+              "Încălțămintea impermeabilă este obligatorie, deoarece se formează bălți în Moholmen.",
+              "Muzeele sunt mai aglomerate pe ploaie; planificați-vă vizita din timp."
+            ],
+            "en": [
+              "Umbrellas are often useless in strong fjord winds; a heavy-duty raincoat is much better.",
+              "Utilize the covered walkways in the Amfi shopping center for dry transit.",
+              "Waterproof footwear is a must as puddles tend to form around Moholmen.",
+              "Museums in Mo i Rana get busier during rain; consider arriving early."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mo i Rana im Winter ist ein arktisches Märchen. Der Morgen bei Moholmen bietet schneebedeckte Dächer und eine klare Fjordbrise. Havmannen steht einsam im eisigen Wasser, oft von Schnee umweht. Nach dem Aufwärmen im Museum und einem heißen Mittagessen besuchen wir die verschneite Mo-Kirche. Da es früh dunkel wird, leuchten die Lichter des Science Centers besonders einladend am Nachmittag.",
+            "hu": "Mo i Rana télen igazi sarki mese. A reggel Moholmennél hófödte tetőket és friss, jeges szellőt kínál. Havmannen magányosan áll a fagyos vízben, gyakran hófúvásban. A múzeumi melegedés és egy forró ebéd után a hófödte templomot nézzük meg. Mivel korán sötétedik, a Science Center fényei különösen hívogatóak a délutáni szürkületben.",
+            "ro": "Mo i Rana iarna este un basm arctic. Dimineața la Moholmen oferă acoperișuri înzăpezite și o briză înghețată de fjord. Havmannen stă singuratic în apa rece, adesea înconjurat de zăpadă. După încălzirea la muzeu și un prânz fierbinte, vizităm biserica înzăpezită. Deoarece se întunecă devreme, luminile Centrului de Știință sunt primitoare după-amiaza.",
+            "en": "Mo i Rana in winter is an Arctic fairytale. Morning at Moholmen offers snow-covered roofs and a crisp fjord breeze. Havmannen stands lonely in the icy water, often framed by snowdrifts. After warming up in the museum and enjoying a hot lunch, we visit the snow-draped Mo Church. With early darkness, the lights of the Science Center look especially inviting in the afternoon."
+          },
+          "stops": [
+            {
+              "name": "Moholmen (Old Town)",
+              "tip_5lang": {
+                "de": "Vorsicht auf vereisten Gehwegen; Spikes für die Schuhe empfohlen.",
+                "hu": "Vigyázat a jeges járdákon; ajánlott a csúszásgátló talp (spikes).",
+                "ro": "Atenție la trotuarele înghețate; se recomandă purtarea crampoanelor pe pantofi.",
+                "en": "Watch out for icy pavements; shoe spikes (broddene) are highly recommended."
+              }
+            },
+            {
+              "name": "Havmannen (The Man from the Sea)",
+              "tip_5lang": {
+                "de": "Die Statue wird im Winter stimmungsvoll beleuchtet.",
+                "hu": "A szobrot télen hangulatosan kivilágítják a sötétben.",
+                "ro": "Statuia este iluminată atmosferic în timpul iernii.",
+                "en": "The statue is atmospherically lit during the winter months."
+              }
+            },
+            {
+              "name": "Rana Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um die Finger nach dem Spaziergang aufzuwärmen.",
+                "hu": "Tökéletes hely a kezek felmelegítésére a séta után.",
+                "ro": "Locul perfect pentru a vă încălzi mâinile după plimbare.",
+                "en": "The perfect place to warm up your hands after the walk."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Probieren Sie eine heiße Rentiersuppe, um neue Energie zu tanken.",
+                "hu": "Kóstoljon meg egy forró rénszarvaslevest az energiapótláshoz.",
+                "ro": "Încercați o supă fierbinte de ren pentru a vă recăpăta energia.",
+                "en": "Try a hot reindeer soup to boost your energy levels."
+              }
+            },
+            {
+              "name": "Mo Church",
+              "tip_5lang": {
+                "de": "Die weiße Holzkirche verschmilzt fast mit der Schneelandschaft.",
+                "hu": "A fehér fatemplom szinte egybeolvad a havas tájjal.",
+                "ro": "Biserica albă de lemn aproape se contopește cu peisajul înzăpezit.",
+                "en": "The white wooden church almost blends into the snowy landscape."
+              }
+            },
+            {
+              "name": "Nordland Science Center",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren, während draußen der Frost klirrt.",
+                "hu": "Élvezze a benti meleget, miközben kint repkednek a mínuszok.",
+                "ro": "Bucurați-vă de căldura din interior în timp ce afară este ger.",
+                "en": "Enjoy the warmth inside while the frost bites outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember gegen 13:30 Uhr unter; planen Sie Fotos für den Vormittag.",
+              "Tragen Sie Reflektoren an der Kleidung, um in der Dunkelheit gesehen zu werden.",
+              "Zwiebelprinzip bei der Kleidung: Wolle als unterste Schicht ist in der Arktis essenziell.",
+              "Die Gehwege im Zentrum sind oft beheizt, aber in Moholmen herrscht Glatteisgefahr."
+            ],
+            "hu": [
+              "A nap decemberben 13:30 körül nyugszik; a fotózást ütemezze délelőttre.",
+              "Viseljen fényvisszaverőt a ruházatán, hogy látható legyen a sötétben.",
+              "Réteges öltözködés: a gyapjú alapréteg elengedhetetlen az Arktiszon.",
+              "A belvárosi járdák gyakran fűtöttek, de Moholmenben vigyázni kell a jéggel."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 13:30 în decembrie; planificați fotografiile dimineața.",
+              "Purtați elemente reflectorizante pe haine pentru a fi vizibili în întuneric.",
+              "Îmbrăcați-vă în straturi: lâna ca prim strat este esențială în Arctica.",
+              "Trotuarele din centru sunt adesea încălzite, dar în Moholmen există risc de polei."
+            ],
+            "en": [
+              "The sun sets around 1:30 PM in December; schedule your outdoor photos for the morning.",
+              "Wear reflectors (refleks) on your clothing to stay visible in the winter darkness.",
+              "Layer up: a wool base layer is essential for the Arctic winter climate.",
+              "Center pavements are often heated, but expect ice in the Moholmen area."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -718,6 +900,188 @@
           "Plan your route in advance, but be flexible.",
           "Always lock your bike when leaving it unattended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert die richtige Ausrüstung. Nach dem Start am Verleih erkunden wir Moholmen und den Havmannen. Der Weg führt uns schnell zum Rana Museum, um eine Pause vom Wind zu machen. Nach einem Halt an der Kirche fahren wir am Ranelva-Fluss entlang, wo der Regen eine mystische Stimmung erzeugt, bevor wir uns im Science Center aufwärmen.",
+            "hu": "Az esős kerékpártúra megfelelő felszerelést igényel. A kölcsönző után Moholmen és Havmannen felé vesszük az irányt. Gyorsan a Rana Múzeum felé tekerünk, hogy szélvédett helyen pihenjünk. A templomi megálló után a Ranelva folyó mentén haladunk, ahol az eső misztikus hangulatot áraszt, majd a Science Centerben zárjuk a napot.",
+            "ro": "O tură cu bicicleta pe ploaie necesită echipament adecvat. După plecarea de la închiriere, explorăm Moholmen și Havmannen. Drumul ne duce rapid la Muzeul Rana pentru o pauză de vânt. După o oprire la biserică, pedalăm de-a lungul râului Ranelva, unde ploaia creează o atmosferă mistică, înainte de a ne încălzi la Centrul de Știință.",
+            "en": "A bike tour in the rain requires the right gear. After starting at the rental, we explore Moholmen and the Havmannen. The route leads quickly to the Rana Museum for a break from the wind. After a stop at the church, we ride along the Ranelva River, where the rain creates a mystic mood, before warming up at the Science Center."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einer wasserdichten Satteltasche für Ihre Wertsachen.",
+                "hu": "Kérjen vízálló nyeregtáskát az értékei számára.",
+                "ro": "Cereți o geantă de șa impermeabilă pentru obiectele de valoare.",
+                "en": "Ask for a waterproof pannier bag for your valuables."
+              }
+            },
+            {
+              "name": "Moholmen & Havmannen",
+              "tip_5lang": {
+                "de": "Vorsicht bei Bremsmanövern auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a fékezéssel a nedves macskakövön.",
+                "ro": "Atenție la frânare pe pavajul umed din piatră.",
+                "en": "Be careful when braking on wet cobblestones."
+              }
+            },
+            {
+              "name": "Rana Museum",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich meist in der Nähe.",
+                "hu": "Fedett kerékpártárolók általában találhatók a közelben.",
+                "ro": "Suporturile de biciclete acoperite se află de obicei în apropiere.",
+                "en": "Covered bike racks are usually available nearby."
+              }
+            },
+            {
+              "name": "Mo Church",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, die Kirche bietet Schutz bei Schauern.",
+                "hu": "Rövid fotómegálló, a templom menedéket nyújt zápor esetén.",
+                "ro": "Oprire scurtă pentru poze; biserica oferă adăpost în caz de aversă.",
+                "en": "Short photo stop; the church porch offers shelter during showers."
+              }
+            },
+            {
+              "name": "Ride along the Ranelva River",
+              "tip_5lang": {
+                "de": "Der Uferweg kann bei starkem Regen Pfützen aufweisen.",
+                "hu": "A folyóparti úton heves esőzéskor tócsák alakulhatnak ki.",
+                "ro": "Poteca de pe malul râului poate avea bălți în caz de ploaie torențială.",
+                "en": "The riverside path may have puddles during heavy rain."
+              }
+            },
+            {
+              "name": "Nordland Science Center",
+              "tip_5lang": {
+                "de": "Hier können Sie sich vor der Rückgabe des Rades gründlich abtrocknen.",
+                "hu": "Itt alaposan megszárítkozhat, mielőtt visszavinné a biciklit.",
+                "ro": "Vă puteți usca bine aici înainte de a returna bicicleta.",
+                "en": "You can dry off thoroughly here before returning the bike."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie, ob das Leihrad Schutzbleche hat, um Spritzwasser zu vermeiden.",
+              "Die Bremswirkung ist bei Nässe verzögert; fahren Sie vorausschauend.",
+              "Vermeiden Sie metallische Schachtdeckel, diese sind bei Regen extrem rutschig.",
+              "Nehmen Sie ein kleines Tuch mit, um den Sattel vor dem Aufsteigen abzuwischen."
+            ],
+            "hu": [
+              "Ellenőrizze, hogy a bérbiciklinek van-e sárvédője a felverődő víz ellen.",
+              "A fékút megnő nedves úton; közlekedjen körültekintően.",
+              "Kerülje a fém csatornafedeleket, mert esőben rendkívül csúszósak.",
+              "Vigyen magával egy kis rongyot a nyereg letörléséhez indulás előtt."
+            ],
+            "ro": [
+              "Verificați dacă bicicleta închiriată are aripi pentru a evita stropirea.",
+              "Eficiența frânării este redusă pe carosabil umed; conduceți prudent.",
+              "Evitați capacele metalice de canal, acestea sunt extrem de alunecoase pe ploaie.",
+              "Luați o cârpă mică pentru a șterge șaua înainte de a pleca."
+            ],
+            "en": [
+              "Ensure the rental bike has mudguards to protect you from splashes.",
+              "Braking distance increases on wet roads; ride with extra caution.",
+              "Avoid metal manhole covers as they become extremely slippery when wet.",
+              "Bring a small towel to wipe the seat before mounting the bike."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im arktischen Winter ist ein Abenteuer für Mutige. Mit Spikereifen geht es vom Verleih nach Moholmen, wo der Schnee unter den Reifen knirscht. Ein kurzer Stopp beim Havmannen, dann schnell zum warmen Rana Museum. Nach der Mo-Kirche führt die Fahrt entlang des zugefrorenen Ranelva, bevor der Tag gemütlich im beheizten Science Center endet.",
+            "hu": "A sarki téli kerékpározás a bátrak kalandja. Szöges gumikkal indulunk Moholmen felé, ahol a hó ropog a kerekek alatt. Egy rövid megálló Havmannennél, majd gyorsan a meleg Rana Múzeumba. A templom után a befagyott Ranelva mentén tekerünk, végül a napot a fűtött Science Centerben zárjuk.",
+            "ro": "Mersul cu bicicleta în iarna arctică este o aventură pentru cei curajoși. Cu anvelope cu ținte, pornim spre Moholmen, unde zăpada scârțâie sub roți. O scurtă oprire la Havmannen, apoi rapid la Muzeul Rana. După biserică, drumul continuă pe lângă râul înghețat Ranelva, finalizând ziua la Centrul de Știință.",
+            "en": "Cycling in the Arctic winter is an adventure for the brave. With studded tires, we head from the rental to Moholmen, where snow crunches under the wheels. A quick stop at Havmannen, then straight to the warm Rana Museum. After the church, the ride follows the frozen Ranelva before ending the day at the heated Science Center."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start",
+              "tip_5lang": {
+                "de": "Bestehen Sie auf Spikereifen (piggdekk) für sicheres Fahren auf Eis.",
+                "hu": "Ragaszkodjon a szöges gumikhoz (piggdekk) a jeges úton való haladáshoz.",
+                "ro": "Insistați pentru anvelope cu ținte (piggdekk) pentru siguranță pe gheață.",
+                "en": "Insist on studded tires (piggdekk) for safe riding on icy surfaces."
+              }
+            },
+            {
+              "name": "Moholmen & Havmannen",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Spritzwasser in Ufernähe.",
+                "hu": "Vigyázzon a partközeli megfagyott felfröccsenő vízre.",
+                "ro": "Atenție la stropii de apă înghețați în apropierea țărmului.",
+                "en": "Watch out for frozen spray ice near the waterfront."
+              }
+            },
+            {
+              "name": "Rana Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher ab; Akkus von E-Bikes ggf. mit reinnehmen.",
+                "hu": "Parkoljon le biztonságosan; az e-bike akkumulátorát vigye be melegre.",
+                "ro": "Parcați în siguranță; luați bateria bicicletei electrice la căldură.",
+                "en": "Park safely; take e-bike batteries inside to keep them warm if possible."
+              }
+            },
+            {
+              "name": "Mo Church",
+              "tip_5lang": {
+                "de": "Der Kirchplatz kann tief verschneit sein, evtl. schieben.",
+                "hu": "A templomkert havas lehet, előfordulhat, hogy tolni kell a biciklit.",
+                "ro": "Piața bisericii poate fi înzăpezită; s-ar putea să fie nevoie să împingeți.",
+                "en": "The church square may be deep in snow; you might need to push the bike."
+              }
+            },
+            {
+              "name": "Ride along the Ranelva River",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Eis, bleiben Sie auf geräumten Wegen.",
+                "hu": "Élvezze a jég látványát, de maradjon a letakarított utakon.",
+                "ro": "Bucurați-vă de vederea gheții, dar rămâneți pe drumurile deszăpezite.",
+                "en": "Enjoy the view of the ice, but stay on cleared paths."
+              }
+            },
+            {
+              "name": "Nordland Science Center",
+              "tip_5lang": {
+                "de": "Letzte Station vor der Rückgabe; Zeit zum Auftauen.",
+                "hu": "Utolsó állomás a visszavitel előtt; idő a felengedésre.",
+                "ro": "Ultima stație înainte de returnare; timp pentru dezghețare.",
+                "en": "Final stop before returning the bike; time to thaw out."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe; der Fahrtwind ist bei Minusgraden extrem kalt.",
+              "Die Akkuleistung von E-Bikes sinkt bei Kälte um bis zu 40%.",
+              "Vermeiden Sie hektische Lenkbewegungen auf Schnee.",
+              "Ein Schlauchtuch (Buff) schützt Gesicht und Hals vor der eisigen Luft."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt; a menetszél mínuszokban rendkívül hideg.",
+              "Az e-bike-ok akkumulátorának kapacitása akár 40%-kal is csökkenhet hidegben.",
+              "Kerülje a hirtelen kormánymozdulatokat a havon.",
+              "A csősál (Buff) védi az arcot és a nyakat a jeges levegőtől."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt; curentul de aer este extrem de rece la temperaturi negative.",
+              "Performanța bateriei bicicletelor electrice scade cu până la 40% la frig.",
+              "Evitați mișcările bruște de ghidon pe zăpadă.",
+              "Un fular tip tub (Buff) vă protejează fața și gâtul de aerul înghețat."
+            ],
+            "en": [
+              "Wear windproof gloves; the wind chill while riding is extreme in freezing temps.",
+              "E-bike battery range can drop by up to 40% in cold weather.",
+              "Avoid sudden steering movements when riding on packed snow.",
+              "A neck warmer or buff is essential to protect your face from the icy air."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1462,206 @@
           "The roads to the caves can be narrow; drive carefully.",
           "Check the weather forecast as conditions can change quickly in the mountains."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist man in Mo i Rana bestens gegen den Regen gewappnet. Nach dem Besuch von Moholmen fahren wir zum Rana Museum. Das Highlight ist die Fahrt zur Grønligrotta-Höhle: Unter der Erde spielt das Wetter keine Rolle. Nach einem Mittagessen in der Nähe kehren wir zurück und verbringen den restlichen Nachmittag im Science Center.",
+            "hu": "Autóval Mo i Ranában teljesen védettek vagyunk az esőtől. Moholmen megtekintése után a Rana Múzeumba hajtunk. A nap fénypontja a Grønligrotta barlang: a föld alatt nem számít az időjárás. A közeli ebéd után visszatérünk a városba, és a délutánt a Science Centerben töltjük.",
+            "ro": "Cu mașina, sunteți complet protejați de ploaie în Mo i Rana. După vizitarea Moholmen, mergem la Muzeul Rana. Punctul culminant este drumul către peștera Grønligrotta: sub pământ, vremea nu contează. După un prânz în apropiere, ne întoarcem în oraș pentru restul după-amiezii la Centrul de Știință.",
+            "en": "By car, you are perfectly shielded from the rain in Mo i Rana. After visiting Moholmen, we drive to the Rana Museum. The highlight is the trip to the Grønligrotta cave: underground, the weather doesn't matter. After a nearby lunch, we head back to the city for the rest of the afternoon at the Science Center."
+          },
+          "stops": [
+            {
+              "name": "Start & Park in the Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser, um trocken ins Zentrum zu gelangen.",
+                "hu": "Használja a parkolóházakat, hogy szárazon jusson a belvárosba.",
+                "ro": "Folosiți parcările supraetajate pentru a ajunge uscați în centru.",
+                "en": "Use parking garages to reach the center without getting wet."
+              }
+            },
+            {
+              "name": "Moholmen & Havmannen",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Kai für einen kurzen Weg zur Statue.",
+                "hu": "Parkoljon közel a parthoz, hogy keveset kelljen sétálni a szoborig.",
+                "ro": "Parcați aproape de dig pentru un drum scurt până la statuie.",
+                "en": "Park near the waterfront for a shorter walk to the statue."
+              }
+            },
+            {
+              "name": "Rana Museum",
+              "tip_5lang": {
+                "de": "Der Museumsparkplatz bietet schnellen Zugang zum Eingang.",
+                "hu": "A múzeum parkolója gyors bejutást tesz lehetővé.",
+                "ro": "Parcarea muzeului oferă acces rapid la intrare.",
+                "en": "The museum parking lot offers quick access to the entrance."
+              }
+            },
+            {
+              "name": "Mo Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen, die Straßenränder können tief stehen.",
+                "hu": "Vigyázzon kiszálláskor, az útpadkán megállhat a víz.",
+                "ro": "Atenție la coborâre, apa se poate acumula la marginea drumului.",
+                "en": "Be careful when getting out; water can pool at the curbside."
+              }
+            },
+            {
+              "name": "Drive to Grønligrotta Cave",
+              "tip_5lang": {
+                "de": "Die Straße zur Höhle ist kurvig; bei Regen auf Aquaplaning achten.",
+                "hu": "A barlanghoz vezető út kanyargós; esőben figyeljen a vízfelúszásra.",
+                "ro": "Drumul spre peșteră este virajat; atenție la acvaplanare pe ploaie.",
+                "en": "The road to the cave is winding; watch out for aquaplaning during rain."
+              }
+            },
+            {
+              "name": "Lunch near the caves",
+              "tip_5lang": {
+                "de": "Genießen Sie den Ausblick auf die regnerischen Berge vom warmen Auto.",
+                "hu": "Élvezze a kilátást az esős hegyekre a meleg autóból.",
+                "ro": "Bucurați-vă de vederea munților ploioși din mașina caldă.",
+                "en": "Enjoy the view of the rainy mountains from your warm car."
+              }
+            },
+            {
+              "name": "Drive back & Science Center",
+              "tip_5lang": {
+                "de": "Entspanntes Parken direkt am Center möglich.",
+                "hu": "Kényelmes parkolás közvetlenül a központnál.",
+                "ro": "Parcare relaxată disponibilă direct la centru.",
+                "en": "Easy parking available directly at the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Scheibenwischer vor der Fahrt in die Berge.",
+              "Die Sicht kann auf der E6 bei starkem Regen eingeschränkt sein.",
+              "In der Grønligrotta ist es immer feucht; feste Schuhe sind auch bei Regen wichtig.",
+              "Nutzen Sie die Sitzheizung, um nach kurzen Fotostopps schnell wieder warm zu werden."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket a hegyi út előtt.",
+              "Heves esőben a látótávolság korlátozott lehet az E6-os úton.",
+              "A Grønligrotta barlangban mindig nedves a talaj; a túrabakancs ajánlott.",
+              "Használja az ülésfűtést a gyors felmelegedéshez a fotómegállók után."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a pleca spre munți.",
+              "Vizibilitatea poate fi redusă pe E6 în caz de ploaie torențială.",
+              "În Grønligrotta este mereu umezeală; încălțămintea robustă e importantă.",
+              "Folosiți încălzirea în scaune pentru a vă încălzi rapid după opririle foto."
+            ],
+            "en": [
+              "Check your wipers before heading out into the mountain roads.",
+              "Visibility can be limited on the E6 highway during heavy downpours.",
+              "It is always damp inside Grønligrotta; sturdy boots are essential.",
+              "Use the seat heating to warm up quickly after brief outdoor photo stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Auto erfordert Vorsicht auf den norwegischen Straßen. Wir starten im Zentrum und besuchen Moholmen. Die Fahrt zur Grønligrotta ist spektakulär durch die verschneite Landschaft, erfordert aber gute Winterreifen. Nach einem wärmenden Mittagessen in den Bergen kehren wir zurück, um den Tag im angenehm temperierten Science Center ausklingen zu lassen.",
+            "hu": "A téli autós túra óvatosságot igényel a norvég utakon. A központból indulunk Moholmen felé. A Grønligrottához vezető út látványos a havas tájon át, de jó téli gumikat igényel. Egy melengető hegyi ebéd után visszatérünk a városba, hogy a napot a kellemes hőmérsékletű Science Centerben zárjuk.",
+            "ro": "O tură de iarnă cu mașina necesită prudență pe drumurile norvegiene. Pornim din centru și vizităm Moholmen. Drumul către Grønligrotta este spectaculos prin peisajul înzăpezit, dar necesită anvelope bune de iarnă. După un prânz cald la munte, ne întoarcem pentru a încheia ziua la Centrul de Știință.",
+            "en": "A winter car tour requires caution on Norwegian roads. We start in the center and visit Moholmen. The drive to Grønligrotta is spectacular through the snowy landscape but requires good winter tires. After a warming mountain lunch, we return to the city to end the day at the pleasantly warm Science Center."
+          },
+          "stops": [
+            {
+              "name": "Start & Park in the Center",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Mietwagen Spikereifen hat.",
+                "hu": "Győződjön meg róla, hogy a bérautó szöges gumikkal van felszerelve.",
+                "ro": "Asigurați-vă că mașina închiriată are anvelope cu ținte.",
+                "en": "Ensure your rental car is equipped with studded winter tires."
+              }
+            },
+            {
+              "name": "Moholmen & Havmannen",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneehaufen auf den Parkplätzen am Kai.",
+                "hu": "Vigyázzon a hóbuckákra a parthoz közeli parkolókban.",
+                "ro": "Atenție la mormanele de zăpadă din parcările de pe dig.",
+                "en": "Watch out for snow piles in the waterfront parking areas."
+              }
+            },
+            {
+              "name": "Rana Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie keine Wertsachen sichtbar im kalten Auto liegen.",
+                "hu": "Ne hagyjon értéktárgyat látható helyen a hideg autóban.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașina rece.",
+                "en": "Don't leave valuables visible in the cold car."
+              }
+            },
+            {
+              "name": "Mo Church",
+              "tip_5lang": {
+                "de": "Zufahrtsstraßen können nach Schneefall eng sein.",
+                "hu": "A bekötőutak hóesés után keskenyek lehetnek.",
+                "ro": "Drumurile de acces pot fi înguste după ninsori.",
+                "en": "Access roads may be narrow after heavy snowfall."
+              }
+            },
+            {
+              "name": "Drive to Grønligrotta Cave",
+              "tip_5lang": {
+                "de": "Bergstraße; halten Sie Abstand und achten Sie auf Schneepflüge.",
+                "hu": "Hegyi út; tartson távolságot és figyeljen a hókotrókra.",
+                "ro": "Drum de munte; păstrați distanța și atenție la deszăpezitoare.",
+                "en": "Mountain road; keep your distance and watch for snow plows."
+              }
+            },
+            {
+              "name": "Lunch near the caves",
+              "tip_5lang": {
+                "de": "Motor nicht zu lange im Stand laufen lassen.",
+                "hu": "Ne járassa túl sokáig a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul să meargă prea mult la ralanti.",
+                "en": "Avoid idling the engine for too long in the cold."
+              }
+            },
+            {
+              "name": "Drive back & Science Center",
+              "tip_5lang": {
+                "de": "Gutes Ziel, um sich nach der Bergfahrt aufzuwärmen.",
+                "hu": "Jó célpont a hegyi út utáni felmelegedéshez.",
+                "ro": "O destinație bună pentru a vă încălzi după drumul la munte.",
+                "en": "A great place to warm up after the mountain drive."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer eine Schneebürste und einen Eiskratzer im Auto mit.",
+              "Achten Sie auf Rentiere am Straßenrand, besonders in der Dämmerung.",
+              "Die Grønligrotta-Höhle hat im Winter eingeschränkte Öffnungszeiten (vorher prüfen).",
+              "Halten Sie den Tank mindestens halb voll für Notfälle bei Kälte."
+            ],
+            "hu": [
+              "Mindig tartson hókefét és jégkaparót az autóban.",
+              "Figyeljen a rénszarvasokra az út mentén, különösen szürkületkor.",
+              "A Grønligrotta barlang télen korlátozottan tart nyitva (ellenőrizze előre).",
+              "Tartson legalább fél tank üzemanyagot vészhelyzet esetére."
+            ],
+            "ro": [
+              "Țineți mereu o perie de zăpadă și o răzuitoare de gheață în mașină.",
+              "Atenție la reni pe marginea drumului, mai ales la amurg.",
+              "Peștera Grønligrotta are program redus iarna (verificați în avans).",
+              "Mențineți rezervorul cel puțin pe jumătate plin pentru urgențe la frig."
+            ],
+            "en": [
+              "Always carry a snow brush and an ice scraper in the car.",
+              "Watch out for reindeer near the roads, especially during twilight.",
+              "Grønligrotta cave has limited opening hours in winter (check in advance).",
+              "Keep the fuel tank at least half full for emergencies in freezing temps."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2018,188 @@
           "Download offline maps, as mobile coverage can be patchy outside the city.",
           "Be on time at the bus stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus lässt sich Mo i Rana auch bei Regen entspannt erkunden. Wir starten am Terminal und fahren nach Moholmen. Das Rana Museum und die Mo-Kirche liegen nah beieinander, was die Zeit im Freien minimiert. Die Fahrt Richtung Grønligrotta bietet Ausblicke auf die wolkenverhangenen Berge, bevor wir den Tag im Science Center beenden.",
+            "hu": "Busszal Mo i Rana esőben is kényelmesen felfedezhető. A termináltól indulva Moholmen felé megyünk. A Rana Múzeum és a templom közel vannak egymáshoz, így kevés időt kell kint tölteni. A Grønligrotta felé vezető buszút kilátást nyújt a felhős hegyekre, majd a Science Centerben zárjuk a napot.",
+            "ro": "Cu autobuzul, Mo i Rana poate fi explorată relaxat chiar și pe ploaie. Pornim de la terminal spre Moholmen. Muzeul Rana și biserica sunt aproape una de alta, minimizând timpul petrecut afară. Drumul spre Grønligrotta oferă vederi spre munții acoperiți de nori, înainte de a termina ziua la Centrul de Știință.",
+            "en": "By bus, Mo i Rana can be explored comfortably even in the rain. We start at the terminal and head to Moholmen. The Rana Museum and the church are close to each other, minimizing time spent outdoors. The bus trip towards Grønligrotta offers views of the cloud-covered mountains before ending at the Science Center."
+          },
+          "stops": [
+            {
+              "name": "Start at the Bus Terminal",
+              "tip_5lang": {
+                "de": "Das Terminal ist überdacht und bietet Schutz beim Warten.",
+                "hu": "A terminál fedett, védelmet nyújt a várakozás közben.",
+                "ro": "Terminalul este acoperit și oferă adăpost în timpul așteptării.",
+                "en": "The terminal is covered and provides shelter while waiting."
+              }
+            },
+            {
+              "name": "Moholmen & Havmannen",
+              "tip_5lang": {
+                "de": "Wählen Sie die Bushaltestelle 'Mo stasjon' für kurze Wege.",
+                "hu": "Válassza a 'Mo stasjon' megállót a rövid sétához.",
+                "ro": "Alegeți stația 'Mo stasjon' pentru un drum scurt.",
+                "en": "Choose the 'Mo stasjon' stop for the shortest walk."
+              }
+            },
+            {
+              "name": "Rana Museum & Mo Church",
+              "tip_5lang": {
+                "de": "Diese Stopps liegen nah beieinander, ideal bei Regen.",
+                "hu": "Ezek a megállók közel vannak egymáshoz, ideális esőben.",
+                "ro": "Aceste opriri sunt aproape una de alta, ideal pe ploaie.",
+                "en": "These stops are close together, ideal for rainy weather."
+              }
+            },
+            {
+              "name": "Bus ride towards Grønligrotta",
+              "tip_5lang": {
+                "de": "Genießen Sie die trockene Fahrt durch das Hinterland.",
+                "hu": "Élvezze a száraz utazást a szárazföld belseje felé.",
+                "ro": "Bucurați-vă de drumul uscat prin interiorul țării.",
+                "en": "Enjoy the dry ride through the hinterland."
+              }
+            },
+            {
+              "name": "Walk and View",
+              "tip_5lang": {
+                "de": "Ein kurzer, nasser Spaziergang, der sich für die Aussicht lohnt.",
+                "hu": "Rövid, ázós séta, ami megéri a kilátásért.",
+                "ro": "O plimbare scurtă și umedă, care merită pentru priveliște.",
+                "en": "A short, wet walk that is worth it for the view."
+              }
+            },
+            {
+              "name": "Return trip and Science Center",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor dem Science Center.",
+                "hu": "A busz szinte közvetlenül a Science Center előtt áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața Centrului de Știință.",
+                "en": "The bus stops almost directly in front of the Science Center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Entur' für Echtzeit-Businfos bei Verspätungen durch Regen.",
+              "Die Busse in Mo i Rana sind meist pünktlich und gut beheizt.",
+              "Tragen Sie bei den Umstiegen eine Regenjacke, da nicht jede Haltestelle überdacht ist.",
+              "Vermeiden Sie das Warten an exponierten Haltestellen direkt am Fjord."
+            ],
+            "hu": [
+              "Használja az 'Entur' appot a valós idejű buszinformációkhoz eső esetén.",
+              "A buszok Mo i Ranában pontosak és jól fűtöttek.",
+              "Átszálláskor viseljen esőkabátot, mert nem minden megálló fedett.",
+              "Kerülje a várakozást a fjord menti kitett megállókban."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Entur' pentru info în timp real în caz de întârzieri pe ploaie.",
+              "Autobuzele din Mo i Rana sunt de obicei punctuale și bine încălzite.",
+              "Purtați pelerină la transbordări, deoarece nu toate stațiile sunt acoperite.",
+              "Evitați așteptarea în stațiile expuse direct de pe malul fjordului."
+            ],
+            "en": [
+              "Use the 'Entur' app for real-time bus info during rainy weather delays.",
+              "Buses in Mo i Rana are generally punctual and well-heated.",
+              "Wear a raincoat during transfers as not all stops are sheltered.",
+              "Avoid waiting at exposed stops directly on the fjord front."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Transit in Mo i Rana ist effizient und gemütlich. Vom Busterminal geht es zu den verschneiten Gassen von Moholmen. Die Fahrt durch das winterliche Rana-Tal Richtung Grønligrotta ist ein Highlight, da man die Landschaft bequem vom warmen Bus aus betrachten kann. Der Tag endet perfekt im warmen Science Center, bevor es zurück ins Hotel geht.",
+            "hu": "A téli tömegközlekedés Mo i Ranában hatékony és kényelmes. A termináltól Moholmen havas utcáihoz megyünk. A téli Rana-völgyön átvezető buszút igazi élmény, a tájat a meleg buszból csodálhatjuk. A nap a meleg Science Centerben zárul, mielőtt visszatérnénk a szálláshoz.",
+            "ro": "Tranzitul de iarnă în Mo i Rana este eficient și confortabil. De la terminal mergem spre străzile înzăpezite din Moholmen. Drumul cu autobuzul prin valea Rana înzăpezită este un punct forte, putând admira peisajul din autobuzul cald. Ziua se încheie perfect la Centrul de Știință.",
+            "en": "Winter transit in Mo i Rana is efficient and cozy. From the terminal, we head to the snowy lanes of Moholmen. The bus ride through the wintry Rana valley is a highlight, allowing you to view the landscape from the warmth of the bus. The day ends perfectly at the heated Science Center before heading back."
+          },
+          "stops": [
+            {
+              "name": "Start at the Bus Terminal",
+              "tip_5lang": {
+                "de": "Warten Sie im beheizten Wartebereich des Terminals.",
+                "hu": "Várjon a terminál fűtött várótermében.",
+                "ro": "Așteptați în zona de așteptare încălzită a terminalului.",
+                "en": "Wait inside the heated waiting area of the terminal."
+              }
+            },
+            {
+              "name": "Moholmen & Havmannen",
+              "tip_5lang": {
+                "de": "Der Weg von der Haltestelle zum Kai kann glatt sein.",
+                "hu": "A megállótól a partig vezető út csúszós lehet.",
+                "ro": "Drumul de la stație până la dig poate fi alunecos.",
+                "en": "The walk from the bus stop to the quay can be slippery."
+              }
+            },
+            {
+              "name": "Rana Museum & Mo Church",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Gebäuden minimieren die Kälte.",
+                "hu": "Az épületek közöti rövid távolság csökkenti a kint töltött időt.",
+                "ro": "Distanțele scurte între clădiri minimizează expunerea la frig.",
+                "en": "Short distances between the buildings minimize cold exposure."
+              }
+            },
+            {
+              "name": "Bus ride towards Grønligrotta",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht auf die tief verschneite Natur.",
+                "hu": "Élvezze a kilátást a mély hóval borított természetre.",
+                "ro": "Bucurați-vă de vederea naturii acoperite de zăpadă grea.",
+                "en": "Enjoy the views of the deep snowy nature from the window."
+              }
+            },
+            {
+              "name": "Walk and View",
+              "tip_5lang": {
+                "de": "Stapfen Sie ein wenig durch den Neuschnee für das beste Foto.",
+                "hu": "Gázoljon bele kicsit a friss hóba a legjobb fotóért.",
+                "ro": "Mergeți puțin prin zăpada proaspătă pentru cea mai bună poză.",
+                "en": "Trek a little through the fresh snow for the best photo."
+              }
+            },
+            {
+              "name": "Return trip and Science Center",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Bus auf dem Rückweg auf.",
+                "hu": "Melegedjen fel a buszon a visszaúton.",
+                "ro": "Încălziți-vă în autobuz pe drumul de întoarcere.",
+                "en": "Warm up on the bus during the return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Pufferzeiten ein, da Schnee die Busse verlangsamen kann.",
+              "Busse fahren im Winter oft seltener in die ländlichen Gebiete (Grønligrotta).",
+              "Klopfen Sie den Schnee von Ihren Schuhen, bevor Sie den Bus betreten.",
+              "Die Fenster in den Bussen können bei Kälte beschlagen; Sitzplätze vorne wählen."
+            ],
+            "hu": [
+              "Számoljon ráhagyással, mert a hó lassíthatja a buszokat.",
+              "Télen a buszok ritkábban járhatnak a vidéki területekre (Grønligrotta).",
+              "Verje le a havat a cipőjéről, mielőtt felszáll a buszra.",
+              "A buszok ablakai párásodhatnak a hidegben; válasszon első ülést."
+            ],
+            "ro": [
+              "Planificați timpi de rezervă, deoarece zăpada poate încetini autobuzele.",
+              "Autobuzele pot circula mai rar iarna spre zonele rurale (Grønligrotta).",
+              "Scuturați zăpada de pe încălțăminte înainte de a urca în autobuz.",
+              "Geamurile autobuzelor se pot aburi de la frig; alegeți locurile din față."
+            ],
+            "en": [
+              "Allow extra time as heavy snow can slow down the bus schedule.",
+              "Buses to rural areas like Grønligrotta might run less frequently in winter.",
+              "Stomp the snow off your boots before boarding the bus.",
+              "Bus windows can fog up in the cold; choose a seat near the front for better views."
+            ]
+          }
+        }
       }
     }
   }

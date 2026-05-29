@@ -386,6 +386,207 @@
           "The bridge to Innlandet is an experience in itself; stop for a moment to take in the view.",
           "Plan time for lunch at one of the harbor-side restaurants to enjoy fresh fish."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen am Hafen, wo die Sundbåten-Fähre einen trockenen Start ermöglicht. Mittags bietet das Klippfischmuseum Schutz vor dem Regen und faszinierende Geschichte. Am Nachmittag erkunden Sie die moderne Architektur der Kirkelandet-Kirche und das Opernhaus. Den Tag beenden Sie im historischen Innlandet, wo die bunten Häuser auch bei grauem Himmel leuchten.",
+            "hu": "Kezdje a reggelt a kikötőben, ahol a Sundbåten kompjai fedett menedéket nyújtanak. Délben a Klippfisk Múzeum falai között száradhat meg a tőkehal történetét megismerve. Délután a Kirkelandet templom és az Operaház modern belső terei ideálisak az eső elől. Az estét Innlandet színes házai között zárja, amelyek borús időben is vidám látványt nyújtanak.",
+            "ro": "Începeți dimineața în port, unde feribotul Sundbåten oferă un adăpost primitor. La prânz, Muzeul Klippfisk vă protejează de ploaie în timp ce descoperiți istoria codului sărat. După-amiaza, interiorul modern al bisericii Kirkelandet și Opera sunt refugii perfecte. Încheiați ziua în Innlandet, unde casele colorate strălucesc chiar și sub cerul gri.",
+            "en": "Start your morning at the harbor, using the Sundbåten ferry as a covered shuttle. At noon, the Clipfish Museum offers a dry retreat into maritime history. Spend the afternoon in the modern warmth of Kirkelandet Church and the Opera House. End the day in Innlandet, where the vibrant houses provide a colorful contrast to the rainy weather."
+          },
+          "stops": [
+            {
+              "name": "Harbor Quarter and Sundbåten Pier",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Dach des Kais auf die Fähre.",
+                "hu": "Várja a kompot a móló fedett része alatt.",
+                "ro": "Așteptați feribotul sub zona acoperită a debarcaderului.",
+                "en": "Wait for the ferry under the sheltered pier area."
+              }
+            },
+            {
+              "name": "Norwegian Clipfish Museum",
+              "content_id": "norway-kristiansund-museum-1",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um während eines Schauers trocken zu bleiben.",
+                "hu": "Tökéletes helyszín, hogy szárazon maradjon egy zápor alatt.",
+                "ro": "Locul perfect pentru a rămâne uscat în timpul unei averse.",
+                "en": "Perfect spot to stay dry during a heavy downpour."
+              }
+            },
+            {
+              "name": "Kirkelandet Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Lichteffekte der Glasmalerei bei Regen.",
+                "hu": "Csodálja meg az üvegablakok fényét esős időben is.",
+                "ro": "Admirați efectele luminoase ale vitraliilor chiar și pe ploaie.",
+                "en": "Admire the lighting effects of the stained glass during rain."
+              }
+            },
+            {
+              "name": "Festiviteten - Kristiansund Opera",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre im Foyer.",
+                "hu": "Élvezze az előcsarnok barátságos, meleg hangulatát.",
+                "ro": "Bucurați-vă de atmosfera primitoare din foaier.",
+                "en": "Enjoy the cozy atmosphere in the foyer area."
+              }
+            },
+            {
+              "name": "Varden Viewpoint",
+              "tip_5lang": {
+                "de": "Der Turm bietet Schutz und eine dramatische Aussicht.",
+                "hu": "A torony védelmet és drámai kilátást nyújt.",
+                "ro": "Turnul oferă protecție și o priveliște dramatică.",
+                "en": "The tower provides shelter and a dramatic view."
+              }
+            },
+            {
+              "name": "Innlandet (Old Town)",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster.",
+                "hu": "Vigyázzon a vizes, csúszós macskaköveken.",
+                "ro": "Atenție la pavajul umed și alunecos.",
+                "en": "Watch your step on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Mellemværftet Shipyard Museum",
+              "tip_5lang": {
+                "de": "Einige Bereiche sind überdacht, aber windanfällig.",
+                "hu": "Egyes részek fedettek, de a szél befújhat.",
+                "ro": "Unele zone sunt acoperite, dar expuse vântului.",
+                "en": "Some areas are covered but prone to wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie hochwertige Gore-Tex-Schuhe für die nassen Kais.",
+              "Die Sundbåten-Fähre ist der beste Weg, um trocken zwischen den Inseln zu pendeln.",
+              "Nutzen Sie die langen Museumsbesuche als Regenpause.",
+              "Ein windfester Regenschirm ist wegen der Küstenbrise wichtig."
+            ],
+            "hu": [
+              "Viseljen vízálló Gore-Tex cipőt a nedves mólók miatt.",
+              "A Sundbåten komp a legjobb módja a szigetek közötti száraz közlekedésnek.",
+              "Használja a múzeumi látogatásokat eső elleni menedékként.",
+              "A tengerparti szél miatt egy szélálló esernyő elengedhetetlen."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru cheiurile umede.",
+              "Feribotul Sundbåten este cea mai bună cale de a circula uscat între insule.",
+              "Folosiți vizitele la muzee ca pauze de adăpost împotriva ploii.",
+              "O umbrelă rezistentă la vânt este necesară din cauza brizelor de coastă."
+            ],
+            "en": [
+              "Wear high-quality waterproof footwear for the wet piers.",
+              "The Sundbåten ferry is the best way to commute dry between islands.",
+              "Use museum visits as strategic rain shelters throughout the day.",
+              "A windproof umbrella is essential due to the coastal breezes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die magische Winterstimmung am Hafen. Vormittags wärmen Sie sich im Klippfischmuseum auf, bevor Sie die verschneite Kirkelandet-Kirche besuchen. Mittags bietet die Oper kulturelle Wärme. Nutzen Sie das kurze Tageslicht für den Varden-Aussichtspunkt, um den Sonnenuntergang über den Inseln zu sehen. Den Abend lassen Sie in den beleuchteten Gassen von Innlandet ausklingen.",
+            "hu": "Élje át a kikötő mágikus téli hangulatát. Délelőtt melegedjen fel a Klippfisk Múzeumban, mielőtt meglátogatná a havas Kirkelandet templomot. Délben az Opera kínál kulturális feltöltődést. Használja ki a rövid nappali fényt a Varden kilátónál a naplemente megtekintéséhez. Az estét Innlandet kivilágított, hangulatos utcáin zárja.",
+            "ro": "Experimentați atmosfera magică de iarnă în port. Dimineața, încălziți-vă în Muzeul Klippfisk înainte de a vizita biserica Kirkelandet înzăpezită. La prânz, Opera oferă căldură culturală. Profită de lumina scurtă a zilei la punctul de belvedere Varden pentru apus. Încheiați seara pe străzile luminate și primitoare din Innlandet.",
+            "en": "Experience the magical winter atmosphere at the harbor. Warm up in the morning at the Clipfish Museum before visiting the snowy Kirkelandet Church. At noon, the Opera provides a cultural escape from the cold. Make the most of the short daylight at Varden viewpoint for a stunning sunset. End your evening in the cozy, illuminated streets of Innlandet."
+          },
+          "stops": [
+            {
+              "name": "Harbor Quarter and Sundbåten Pier",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf den Holzstegen.",
+                "hu": "Vigyázzon a fapallókon kialakuló jegesedésre.",
+                "ro": "Atenție la gheața de pe podurile de lemn.",
+                "en": "Beware of icy patches on the wooden piers."
+              }
+            },
+            {
+              "name": "Norwegian Clipfish Museum",
+              "tip_5lang": {
+                "de": "Ein beheizter Zufluchtsort mit historischem Charme.",
+                "hu": "Fűtött menedékhely történelmi bájjal.",
+                "ro": "Un refugiu încălzit cu farmec istoric.",
+                "en": "A heated sanctuary with historical charm."
+              }
+            },
+            {
+              "name": "Kirkelandet Church",
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im Schnee besonders beeindruckend.",
+                "hu": "Az építészet különösen lenyűgöző a hóban.",
+                "ro": "Arhitectura arată impresionant înconjurată de zăpadă.",
+                "en": "The architecture looks particularly striking in the snow."
+              }
+            },
+            {
+              "name": "Festiviteten - Kristiansund Opera",
+              "tip_5lang": {
+                "de": "Ideal für eine Kaffeepause im Warmen.",
+                "hu": "Ideális egy forró kávészünethez a melegben.",
+                "ro": "Ideal pentru o pauză de cafea la căldură.",
+                "en": "Ideal for a warm coffee break indoors."
+              }
+            },
+            {
+              "name": "Varden Viewpoint",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch für 14:30 Uhr ein (Sonnenuntergang).",
+                "hu": "Tervezze a látogatást 14:30-ra a naplemente miatt.",
+                "ro": "Planificați vizita pentru ora 14:30 (apusul de soare).",
+                "en": "Aim to visit by 14:30 for the early winter sunset."
+              }
+            },
+            {
+              "name": "Innlandet (Old Town)",
+              "tip_5lang": {
+                "de": "Die Weihnachtsbeleuchtung macht die Gassen sehr gemütlich.",
+                "hu": "Az ünnepi fények nagyon hangulatossá teszik az utcákat.",
+                "ro": "Luminile de iarnă fac străzile foarte primitoare.",
+                "en": "Winter lights make the narrow streets very cozy."
+              }
+            },
+            {
+              "name": "Mellemværftet Shipyard Museum",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist hier wegen der Meeresbrise nötig.",
+                "hu": "Meleg ruházat szükséges a tengeri szél miatt.",
+                "ro": "Haine groase sunt necesare din cauza vântului marin.",
+                "en": "Warm layers are needed due to the biting sea wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 15:00 Uhr unter.",
+              "Tragen Sie Wolle (Merino) als Basisschicht gegen die Kälte.",
+              "Eiskrallen für die Schuhe sind auf den Inselhügeln ratsam.",
+              "Genießen Sie heißen Klippfisch-Eintopf in lokalen Cafés."
+            ],
+            "hu": [
+              "A nap decemberben már délután 3 körül lemegy.",
+              "Viseljen merinó gyapjú aláöltözetet a hideg ellen.",
+              "A csúszásgátló talp ajánlott a szigetek dombos utcáin.",
+              "Kóstolja meg a forró tőkehalas egytálételt a helyi kávézókban."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 15:00 în decembrie.",
+              "Purtați lână merino ca strat de bază împotriva frigului.",
+              "Crampoanele pentru pantofi sunt recomandate pe dealurile insulelor.",
+              "Savurați o tocană caldă de cod în cafenelele locale."
+            ],
+            "en": [
+              "Sunset occurs as early as 15:00 during mid-winter.",
+              "Wear wool (merino) base layers to stay warm near the water.",
+              "Ice grips for your shoes are advisable for the hilly streets.",
+              "Warm up with a hot clipfish stew in a local cafe."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -688,6 +889,188 @@
           "Plan extra time for photo stops; the views are worth it.",
           "Always lock your bike securely at the main sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Radtour durch Kristiansund erfordert gute Vorbereitung, bietet aber leere Wege. Starten Sie am Hafen und radeln Sie zur Nordlandet-Kirche. Mittags bietet die Kirkelandet-Kirche eine lange Pause zum Trocknen. Nachmittags erkunden Sie Innlandet, bevor Sie den Tag im Klippfischmuseum ausklingen lassen, wo Ihr Rad sicher geparkt werden kann.",
+            "hu": "Egy esős biciklitúra Kristiansundban felkészültséget igényel, de üres utakat kínál. Kezdjen a kikötőben, majd tekerjen át a Nordlandet templomhoz. Délben a Kirkelandet templom biztosít hosszú pihenőt a száradáshoz. Délután fedezze fel Innlandet-et, mielőtt a napot a Klippfisk Múzeumban zárná, ahol biztonságban lezárhatja gépét.",
+            "ro": "O tură cu bicicleta pe ploaie în Kristiansund necesită pregătire, dar oferă drumuri libere. Începeți în port și pedalați spre biserica Nordlandet. La prânz, biserica Kirkelandet oferă o pauză lungă pentru uscare. După-amiaza explorați Innlandet înainte de a încheia ziua la Muzeul Klippfisk.",
+            "en": "A rainy bike tour in Kristiansund requires preparation but rewards you with empty paths. Start at the harbor and cycle to Nordlandet Church. Use Kirkelandet Church at noon for a long break to dry off. Explore Innlandet in the afternoon before finishing at the Clipfish Museum, where bikes can be safely parked nearby."
+          },
+          "stops": [
+            {
+              "name": "Start: Bike Rental at the Harbor",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Fahrrad mit Schutzblechen.",
+                "hu": "Kérjen sárvédővel felszerelt kerékpárt.",
+                "ro": "Cereți o bicicletă dotată cu apărători de noroi.",
+                "en": "Request a bike equipped with full mudguards."
+              }
+            },
+            {
+              "name": "Nordlandet Church",
+              "tip_5lang": {
+                "de": "Die Brückenauffahrt kann bei Regen rutschig sein.",
+                "hu": "A hídra vezető felhajtó esőben csúszós lehet.",
+                "ro": "Urcarea pe pod poate fi alunecoasă pe ploaie.",
+                "en": "The bridge approach can be slippery when wet."
+              }
+            },
+            {
+              "name": "Varden Viewpoint",
+              "tip_5lang": {
+                "de": "Bremsen Sie vorsichtig auf der nassen Abfahrt.",
+                "hu": "Fékezzen óvatosan a vizes lejtőn lefelé.",
+                "ro": "Frânați cu prudență pe coborârea umedă.",
+                "en": "Brake cautiously on the wet downhill descent."
+              }
+            },
+            {
+              "name": "Kirkelandet Church",
+              "tip_5lang": {
+                "de": "Großer Parkplatz mit Platz zum Umziehen.",
+                "hu": "Nagy parkoló, ahol van hely átöltözni vagy igazodni.",
+                "ro": "Parcare mare cu spațiu pentru ajustarea echipamentului.",
+                "en": "Large parking area with space to adjust your gear."
+              }
+            },
+            {
+              "name": "Innlandet & Mellemværftet",
+              "tip_5lang": {
+                "de": "Achten Sie auf Gleise in der Nähe der Werft.",
+                "hu": "Vigyázzon a sínekre a hajógyár közelében.",
+                "ro": "Atenție la șinele de lângă șantierul naval.",
+                "en": "Watch out for tracks near the shipyard area."
+              }
+            },
+            {
+              "name": "Clipfish Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter das Vordach.",
+                "hu": "Állítsa a kerékpárt az előtető alá.",
+                "ro": "Parcați bicicleta sub streașina clădirii.",
+                "en": "Park your bike under the building's overhang."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung (Hose und Jacke) ist Pflicht.",
+              "Die Sundbåten-Fähre nimmt Fahrräder mit – nutzen Sie das!",
+              "Bremsen Sie auf den steilen Inselhügeln frühzeitig.",
+              "Vermeiden Sie Pfützen, sie könnten tiefer sein als gedacht."
+            ],
+            "hu": [
+              "A teljes esőruházat (nadrág és kabát) kötelező.",
+              "A Sundbåten komp szállít kerékpárt – használja ki!",
+              "Fékezzen időben a szigetek meredek dombjain.",
+              "Kerülje a tócsákat, mélyebbek lehetnek, mint látszanak."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie (pantaloni și jachetă) este obligatoriu.",
+              "Feribotul Sundbåten acceptă biciclete – profitați de asta!",
+              "Frânați din timp pe dealurile abrupte ale insulelor.",
+              "Evitați bălțile, pot fi mai adânci decât par."
+            ],
+            "en": [
+              "Full rain gear (trousers and jacket) is mandatory for comfort.",
+              "Sundbåten ferries accept bikes – use them to skip hilly sections.",
+              "Brake early on the steep descents between islands.",
+              "Avoid puddles as they might hide deep potholes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter bietet klare Luft und tolle Ausblicke. Starten Sie am Hafen und radeln Sie zur Nordlandet-Kirche, um die Brückenpanorama zu genießen. Mittags wärmen Sie sich ausgiebig in der Kirkelandet-Kirche auf. Besuchen Sie Varden für das letzte Tageslicht, bevor Sie über Innlandet zum Klippfischmuseum zurückkehren. Achten Sie auf die frühe Dunkelheit.",
+            "hu": "A téli kerékpározás friss levegőt és nagyszerű kilátást kínál. Kezdjen a kikötőben, tekerjen át Nordlandetbe a hídi panorámáért. Délben tartson hosszú melegedő szünetet a Kirkelandet templomnál. Látogasson el Vardenhez az utolsó fényekért, majd Innlandeten át térjen vissza a múzeumhoz. Ügyeljen a korai sötétedésre.",
+            "ro": "Ciclismul de iarnă oferă aer curat și vederi superbe. Începeți în port și pedalați spre Nordlandet pentru panorama de pe pod. La prânz, faceți o pauză lungă de încălzire la biserica Kirkelandet. Vizitați Varden pentru ultima lumină a zilei, apoi reveniți prin Innlandet.",
+            "en": "Cycling in winter offers crisp air and stunning vistas. Start at the harbor and cross to Nordlandet for bridge panoramas. Spend a long mid-day break warming up at Kirkelandet Church. Visit Varden for the final daylight, then return through Innlandet to the museum. Be mindful of the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Start: Bike Rental at the Harbor",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob das Rad Spikereifen hat.",
+                "hu": "Ellenőrizze, hogy a gép szöges gumival van-e szerelve.",
+                "ro": "Verificați dacă bicicleta are anvelope cu ținte.",
+                "en": "Check if the bike is fitted with studded winter tires."
+              }
+            },
+            {
+              "name": "Nordlandet Church",
+              "tip_5lang": {
+                "de": "Der Wind auf der Brücke kann sehr kalt sein.",
+                "hu": "A szél a hídon nagyon hideg lehet.",
+                "ro": "Vântul pe pod poate fi foarte tăios.",
+                "en": "The wind on the bridge can be very cold."
+              }
+            },
+            {
+              "name": "Varden Viewpoint",
+              "tip_5lang": {
+                "de": "Hinterlassen Sie das Rad unten, wenn der Weg vereist ist.",
+                "hu": "Hagyja a bringát lent, ha az út túl jeges.",
+                "ro": "Lăsați bicicleta jos dacă drumul este înghețat.",
+                "en": "Leave the bike below if the path is too icy."
+              }
+            },
+            {
+              "name": "Kirkelandet Church",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Batterien (E-Bike) warm zu halten.",
+                "hu": "Jó hely az akkumulátorok (e-bike) melegen tartására.",
+                "ro": "Un loc bun pentru a păstra bateriile la cald.",
+                "en": "A good place to keep e-bike batteries warm."
+              }
+            },
+            {
+              "name": "Innlandet & Mellemværftet",
+              "tip_5lang": {
+                "de": "Beleuchtung einschalten, sobald die Dämmerung beginnt.",
+                "hu": "Kapcsolja be a világítást, amint elkezdődik a szürkület.",
+                "ro": "Aprindeți luminile imediat ce începe amurgul.",
+                "en": "Turn on your lights as soon as twilight begins."
+              }
+            },
+            {
+              "name": "Clipfish Museum",
+              "tip_5lang": {
+                "de": "Das Museum schließt im Winter oft früher.",
+                "hu": "A múzeum télen gyakran korábban zár.",
+                "ro": "Muzeul se închide adesea mai devreme iarna.",
+                "en": "The museum often closes earlier during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe und eine Mütze unter dem Helm sind nötig.",
+              "Vermeiden Sie abruptes Bremsen auf vereisten Stellen.",
+              "Die Dämmerung beginnt im Winter bereits um 14:00 Uhr.",
+              "Nutzen Sie ein E-Bike, um gegen den starken Winterwind anzukommen."
+            ],
+            "hu": [
+              "Szélálló kesztyű és sisak alatti sapka szükséges.",
+              "Kerülje a hirtelen fékezést a jeges szakaszokon.",
+              "A szürkület télen már délután 2-kor elkezdődhet.",
+              "Használjon e-bike-ot az erős téli szél elleni küzdelemhez."
+            ],
+            "ro": [
+              "Mănușile rezistente la vânt și o căciulă sub cască sunt necesare.",
+              "Evitați frânarea bruscă pe porțiunile înghețate.",
+              "Amurgul începe iarna deja la ora 14:00.",
+              "Folosiți o bicicletă electrică pentru a înfrunta vântul puternic."
+            ],
+            "en": [
+              "Windproof gloves and a thin cap under your helmet are vital.",
+              "Avoid sudden braking on potentially icy patches.",
+              "Twilight begins as early as 14:00 in mid-winter.",
+              "Consider an e-bike to help against strong winter winds."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1016,6 +1399,206 @@
           "Plan your clusters: park once and walk as much as possible.",
           "Grip island is a fantastic day trip by ferry if you have an extra day, but not for this itinerary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist der ideale Rückzugsort an einem regnerischen Tag in Kristiansund. Besuchen Sie vormittags die Kirkelandet-Kirche und das Klippfischmuseum. Mittags fahren Sie trocken über die Brücken nach Nordlandet. Den Nachmittag verbringen Sie in der Altstadt von Innlandet, wobei das Auto als Basis dient, um zwischen den Schauern zu wechseln.",
+            "hu": "Az autó az ideális menedék Kristiansund esős napjain. Délelőtt látogassa meg a Kirkelandet templomot és a Klippfisk Múzeumot. Délben szárazon kelhet át a hidakon Nordlandetbe. A délutánt Innlandet óvárosában töltse, az autót bázisként használva a záporok közötti gyors váltásokhoz.",
+            "ro": "Mașina este refugiul ideal într-o zi ploioasă în Kristiansund. Dimineața vizitați biserica Kirkelandet și Muzeul Klippfisk. La prânz traversați podurile spre Nordlandet fără a vă uda. Petreceți după-amiaza în orașul vechi Innlandet, folosind mașina ca bază.",
+            "en": "A car is the perfect sanctuary for a rainy day in Kristiansund. Visit Kirkelandet Church and the Clipfish Museum in the morning. At noon, drive comfortably across the bridges to Nordlandet. Spend the afternoon in Innlandet, using your vehicle as a dry base between sightseeing stops."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Parking on Kirkelandet",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz, ideal für kurze Wege zum Museum.",
+                "hu": "Központi parkoló, ideális a múzeum közelsége miatt.",
+                "ro": "Parcare centrală, ideală pentru acces rapid la muzeu.",
+                "en": "Central parking, ideal for short walks to the museum."
+              }
+            },
+            {
+              "name": "Kirkelandet Church",
+              "tip_5lang": {
+                "de": "Parken Sie direkt vor dem Eingang.",
+                "hu": "Parkoljon közvetlenül a bejárat előtt.",
+                "ro": "Parcați chiar în fața intrării.",
+                "en": "Park directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Clipfish Museum",
+              "tip_5lang": {
+                "de": "Es gibt begrenzte Parkmöglichkeiten am Kai.",
+                "hu": "Korlátozott parkolási lehetőség a mólónál.",
+                "ro": "Locuri de parcare limitate lângă debarcader.",
+                "en": "Limited parking available near the pier."
+              }
+            },
+            {
+              "name": "Cluster B: Drive & Park on Nordlandet",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Scheibenwischer auf der Brücke.",
+                "hu": "Használja az ablaktörlőt a hídon a szélvédőre csapódó víz miatt.",
+                "ro": "Folosiți ștergătoarele pe pod din cauza stropilor.",
+                "en": "Keep wipers on high when crossing the windy bridges."
+              }
+            },
+            {
+              "name": "Nordlandet Church",
+              "tip_5lang": {
+                "de": "Überdachter Eingangsbereich vorhanden.",
+                "hu": "Fedett bejárati rész áll rendelkezésre.",
+                "ro": "Zonă de intrare acoperită disponibilă.",
+                "en": "Covered entrance area available for visitors."
+              }
+            },
+            {
+              "name": "Cluster C: Drive & Park on Innlandet",
+              "tip_5lang": {
+                "de": "Parken Sie auf der Hauptstraße, um Pfützen zu meiden.",
+                "hu": "Parkoljon a főúton a nagy tócsák elkerülése érdekében.",
+                "ro": "Parcați pe strada principală pentru a evita bălțile mari.",
+                "en": "Park on the main street to avoid deep puddles."
+              }
+            },
+            {
+              "name": "Mellemværftet & Old Town Walk",
+              "tip_5lang": {
+                "de": "Halten Sie den Regenschirm im Auto bereit.",
+                "hu": "Tartsa az esernyőt készenlétben az autóban.",
+                "ro": "Aveți umbrela pregătită în mașină.",
+                "en": "Keep your umbrella handy in the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Brücken können bei starkem Regen und Wind gesperrt werden.",
+              "Nutzen Sie Park-Apps, um im trockenen Auto zu bezahlen.",
+              "Vermeiden Sie das Parken in tiefgelegenen Zonen am Wasser.",
+              "Helle Kleidung erhöht die Sichtbarkeit bei schlechtem Wetter."
+            ],
+            "hu": [
+              "A hidakat erős esőben és szélben lezárhatják.",
+              "Használjon parkolási appot, hogy a száraz autóban fizethessen.",
+              "Kerülje a parkolást a közvetlenül vízparti mélyebb zónákban.",
+              "A világos ruházat növeli a láthatóságot rossz időben."
+            ],
+            "ro": [
+              "Podurile pot fi închise în caz de ploaie și vânt puternic.",
+              "Folosiți aplicații de parcare pentru a plăti din interiorul mașinii.",
+              "Evitați parcarea în zonele joase de lângă apă.",
+              "Hainele deschise la culoare sporesc vizibilitatea pe vreme rea."
+            ],
+            "en": [
+              "Bridges may close during exceptionally high winds and rain.",
+              "Use parking apps to pay from the comfort of your dry car.",
+              "Avoid parking in low-lying areas very close to the water.",
+              "Bright clothing improves visibility when walking from the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Komfort einer beheizten Tour durch Kristiansund. Vormittags erkunden Sie die Kirchen und Museen von Kirkelandet. Mittags bietet die Fahrt über die verschneiten Brücken spektakuläre Ausblicke auf die Nordsee. Besuchen Sie Nordlandet und Innlandet am Nachmittag, wenn die Weihnachtsbeleuchtung die Stadt in ein warmes Licht taucht.",
+            "hu": "Élvezze a fűtött autó kényelmét Kristiansund téli felfedezése közben. Délelőtt látogassa meg a Kirkelandet templomot és múzeumokat. Délben a havas hidakon való átkelés látványos kilátást nyújt az Északi-tengerre. Délután keresse fel Nordlandet és Innlandet utcáit, amikor az ünnepi fények meleg ragyogásba vonják a várost.",
+            "ro": "Bucurați-vă de confortul unei mașini încălzite în timpul explorării Kristiansund-ului. Dimineața vizitați biserica Kirkelandet și muzeele. La prânz, traversarea podurilor înzăpezite oferă vederi spectaculoase. După-amiaza, vizitați Nordlandet și Innlandet sub luminile festive.",
+            "en": "Enjoy the comfort of a heated car while exploring Kristiansund in winter. Visit Kirkelandet Church and museums in the morning. At noon, driving across the snowy bridges offers spectacular views of the North Sea. Explore Nordlandet and Innlandet in the afternoon as festive lights begin to glow."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Parking on Kirkelandet",
+              "tip_5lang": {
+                "de": "Achten Sie auf geräumte Parkflächen.",
+                "hu": "Keressen letakarított parkolóhelyeket.",
+                "ro": "Căutați locuri de parcare curățate de zăpadă.",
+                "en": "Look for properly cleared parking spaces."
+              }
+            },
+            {
+              "name": "Kirkelandet Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf glatten Gehwegen.",
+                "hu": "Vigyázzon kiszálláskor a csúszós járdákra.",
+                "ro": "Atenție la coborâre pe trotuarele alunecoase.",
+                "en": "Watch your step on icy sidewalks when exiting."
+              }
+            },
+            {
+              "name": "Clipfish Museum",
+              "tip_5lang": {
+                "de": "Die Zufahrt zum Kai kann bei Eis schwierig sein.",
+                "hu": "A mólóhoz vezető út jegesedéskor nehézkes lehet.",
+                "ro": "Accesul spre debarcader poate fi dificil pe gheață.",
+                "en": "Access to the pier can be tricky in icy conditions."
+              }
+            },
+            {
+              "name": "Cluster B: Drive & Park on Nordlandet",
+              "tip_5lang": {
+                "de": "Vorsicht vor Seitenwinden auf der Brücke.",
+                "hu": "Vigyázzon az oldalszélre a hídon.",
+                "ro": "Atenție la vântul lateral pe pod.",
+                "en": "Be cautious of strong crosswinds on the bridge."
+              }
+            },
+            {
+              "name": "Nordlandet Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Friedhof für eine ruhige Winterstimmung.",
+                "hu": "Látogasson el a temetőbe a nyugodt téli hangulatért.",
+                "ro": "Vizitați cimitirul pentru o atmosferă liniștită de iarnă.",
+                "en": "Visit the churchyard for a peaceful winter mood."
+              }
+            },
+            {
+              "name": "Cluster C: Drive & Park on Innlandet",
+              "tip_5lang": {
+                "de": "Enge Gassen können im Winter schwer befahrbar sein.",
+                "hu": "A szűk utcák télen nehezen járhatóak lehetnek.",
+                "ro": "Străzile înguste pot fi greu de parcurs iarna.",
+                "en": "Narrow streets may be difficult to navigate in snow."
+              }
+            },
+            {
+              "name": "Mellemværftet & Old Town Walk",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil staționând.",
+                "en": "Avoid idling the engine unnecessarily while parked."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen mit gutem Profil oder Spikes sind Pflicht.",
+              "Führen Sie einen Eiskratzer und eine Schneeschaufel mit.",
+              "Die Brücken frieren schneller ein als normale Straßen.",
+              "Parken Sie nicht zu nah an den Kaimauern (Rutschgefahr)."
+            ],
+            "hu": [
+              "A jó profilú téli gumi vagy a szögelt gumi kötelező.",
+              "Legyen az autóban jégkaparó és hólapát.",
+              "A hidak gyorsabban lefagynak, mint a normál utak.",
+              "Ne parkoljon túl közel a rakparthoz (csúszásveszély)."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sau cele cu ținte sunt obligatorii.",
+              "Aveți în mașină o racletă și o lopată de zăpadă.",
+              "Podurile îngheață mai repede decât drumurile obișnuite.",
+              "Nu parcați prea aproape de marginea cheiului (pericol de alunecare)."
+            ],
+            "en": [
+              "Winter tires with deep tread or studs are legally required.",
+              "Keep an ice scraper and a small snow shovel in the trunk.",
+              "Bridges freeze over much faster than land-based roads.",
+              "Don't park too close to the quay edges due to sliding risk."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1320,6 +1903,188 @@
           "The boats run frequently, but a short wait is a good opportunity for photos.",
           "The Sundbåten is not just transport, but a living piece of history."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das ausgezeichnete Fährsystem als trockene Transportvariante. Beginnen Sie auf Kirkelandet mit dem Klippfischmuseum. Mittags bringt Sie die Sundbåten-Fähre komfortabel nach Innlandet. Den Nachmittag verbringen Sie in den Museen und Kirchen, wobei die kurzen Wege zwischen den Haltestellen und Eingängen ideal bei Regen sind.",
+            "hu": "Használja a kiváló komprendszert száraz közlekedési módként. Kezdjen Kirkelandeten a Klippfisk Múzeummal. Délben a Sundbåten komp kényelmesen átviszi Innlandetre. A délutánt múzeumokban és templomokban töltse; a megállók és bejáratok közötti rövid távok ideálisak esőben.",
+            "ro": "Folosiți sistemul excelent de feriboturi ca variantă de transport uscată. Începeți pe Kirkelandet cu Muzeul Klippfisk. La prânz, feribotul Sundbåten vă duce confortabil spre Innlandet. Petreceți după-amiaza vizitând muzeele și bisericile.",
+            "en": "Utilize the excellent ferry system as a sheltered transport option. Start on Kirkelandet with the Clipfish Museum. At noon, the Sundbåten ferry provides a dry connection to Innlandet. Spend the afternoon in museums and churches, benefiting from short walks between stops and entrances."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Start on Kirkelandet",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen sind meist überdacht.",
+                "hu": "A buszmegállók többnyire fedettek.",
+                "ro": "Stațiile de autobuz sunt în mare parte acoperite.",
+                "en": "Most bus stops offer shelter from the rain."
+              }
+            },
+            {
+              "name": "Clipfish Museum",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle Piren.",
+                "hu": "Rövid séta a Piren megállótól.",
+                "ro": "Scurtă plimbare de la stația Piren.",
+                "en": "Short walk from the Piren transit stop."
+              }
+            },
+            {
+              "name": "Kirkelandet Church",
+              "tip_5lang": {
+                "de": "Buslinien halten fast direkt vor der Kirche.",
+                "hu": "A buszjáratok szinte közvetlenül a templomnál állnak meg.",
+                "ro": "Liniile de autobuz opresc aproape în fața bisericii.",
+                "en": "Bus lines stop almost directly in front of the church."
+              }
+            },
+            {
+              "name": "Cluster B: Sundbåten to Innlandet",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt im beheizten Innenraum.",
+                "hu": "Élvezze az utazást a fűtött utastérben.",
+                "ro": "Bucurați-vă de călătorie în interiorul încălzit.",
+                "en": "Enjoy the crossing inside the heated cabin."
+              }
+            },
+            {
+              "name": "Mellemværftet Shipyard Museum",
+              "tip_5lang": {
+                "de": "Die Fähre hält in der Nähe des Museumseingangs.",
+                "hu": "A komp a múzeum bejáratához közel áll meg.",
+                "ro": "Feribotul oprește aproape de intrarea în muzeu.",
+                "en": "The ferry stops close to the museum entrance."
+              }
+            },
+            {
+              "name": "Cluster C: Sundbåten to Nordlandet",
+              "tip_5lang": {
+                "de": "Häufige Abfahrten minimieren die Wartezeit im Regen.",
+                "hu": "A gyakori járatok minimalizálják a várakozást az esőben.",
+                "ro": "Plecări frecvente care reduc așteptarea în ploaie.",
+                "en": "Frequent departures minimize waiting time in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab über die App 'Fram'.",
+              "Die Fähre Sundbåten ist Teil des öffentlichen Nahverkehrs.",
+              "Prüfen Sie die Echtzeit-Fahrpläne, um Schauer zu umgehen.",
+              "Die Fähre bietet den besten Blick auf die Stadt ohne nass zu werden."
+            ],
+            "hu": [
+              "Vegye meg jegyeit előre a 'Fram' alkalmazáson keresztül.",
+              "A Sundbåten komp a tömegközlekedés része.",
+              "Ellenőrizze a valós idejű menetrendet, hogy elkerülje a záporokat.",
+              "A komp kínálja a legjobb kilátást a városra anélkül, hogy megázna."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans prin aplicația 'Fram'.",
+              "Feribotul Sundbåten face parte din transportul public.",
+              "Verificați orarul în timp real pentru a evita aversele.",
+              "Feribotul oferă cea mai bună vedere asupra orașului fără a vă uda."
+            ],
+            "en": [
+              "Purchase tickets in advance using the 'Fram' app.",
+              "The Sundbåten ferry is a key part of the local public transport.",
+              "Check real-time schedules to time your moves between rain showers.",
+              "The ferry offers the best city views while staying completely dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Kristiansund im Winter mit der gemütlichen Sundbåten-Fähre. Vormittags besuchen Sie die kulturellen Highlights auf Kirkelandet. Mittags bietet die Fährfahrt zwischen den Inseln eine warme Pause mit Blick auf das winterliche Panorama. Beenden Sie den Tag auf Nordlandet oder Innlandet, bevor Sie mit der Fähre zurück zum beleuchteten Zentrum fahren.",
+            "hu": "Fedezze fel Kristiansundot télen a hangulatos Sundbåten komp segítségével. Délelőtt látogassa meg Kirkelandet kulturális látnivalóit. Délben a szigetek közötti kompozás meleg pihenőt nyújt téli panorámával. Zárja a napot Nordlandeten vagy Innlandeten, mielőtt visszatérne a kivilágított központba.",
+            "ro": "Explorați Kristiansund iarna cu feribotul primitor Sundbåten. Dimineața vizitați punctele culturale de pe Kirkelandet. La prânz, traversarea între insule oferă o pauză caldă cu vedere panoramică. Încheiați ziua pe Nordlandet sau Innlandet înainte de a reveni în centru.",
+            "en": "Explore Kristiansund in winter using the cozy Sundbåten ferry. Visit cultural highlights on Kirkelandet in the morning. At noon, the ferry ride between islands provides a warm break with wintry panoramas. End your day on Nordlandet or Innlandet before catching the ferry back to the city center."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Start on Kirkelandet",
+              "tip_5lang": {
+                "de": "Halten Sie sich im warmen Terminal am Kai auf.",
+                "hu": "Várjon a mólónál található meleg terminálban.",
+                "ro": "Așteptați în terminalul încălzit de la debarcader.",
+                "en": "Wait inside the warm terminal building at the pier."
+              }
+            },
+            {
+              "name": "Clipfish Museum",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch für den kältesten Teil des Vormittags.",
+                "hu": "Tervezze a látogatást a délelőtt leghidegebb részére.",
+                "ro": "Planificați vizita pentru cea mai rece parte a dimineții.",
+                "en": "Plan your visit for the coldest part of the morning."
+              }
+            },
+            {
+              "name": "Kirkelandet Church",
+              "tip_5lang": {
+                "de": "Der Innenraum ist gut beheizt.",
+                "hu": "A belső tér jól fűtött.",
+                "ro": "Interiorul este bine încălzit.",
+                "en": "The interior is well-heated for visitors."
+              }
+            },
+            {
+              "name": "Cluster B: Sundbåten to Innlandet",
+              "tip_5lang": {
+                "de": "Die Fähren verkehren im Winter nach einem leicht geänderten Plan.",
+                "hu": "A kompok télen némileg módosított menetrend szerint járnak.",
+                "ro": "Feriboturile circulă după un program ușor modificat iarna.",
+                "en": "Ferries may run on a slightly adjusted winter schedule."
+              }
+            },
+            {
+              "name": "Mellemværftet Shipyard Museum",
+              "tip_5lang": {
+                "de": "Einige Ausstellungen im Freien sind im Winter geschlossen.",
+                "hu": "Néhány szabadtéri kiállítás télen zárva tarthat.",
+                "ro": "Unele expoziții în aer liber pot fi închise iarna.",
+                "en": "Some outdoor exhibits may be closed during winter."
+              }
+            },
+            {
+              "name": "Cluster C: Sundbåten to Nordlandet",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Wege zur Nordlandet-Kirche.",
+                "hu": "Használja ki a Nordlandet templomhoz vezető rövid utat.",
+                "ro": "Profitați de drumul scurt spre biserica Nordlandet.",
+                "en": "Take advantage of the short walk to Nordlandet Church."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fähren sind im Winter oft pünktlicher als Busse bei Schnee.",
+              "Nutzen Sie die beheizten Wartebereiche an den Hauptanlegern.",
+              "Tragen Sie rutschfeste Schuhe für den Weg zur Haltestelle.",
+              "Die Sundbåten-Fähre bietet im Winter eine sehr ruhige Atmosphäre."
+            ],
+            "hu": [
+              "A kompok télen gyakran pontosabbak a buszoknál nagy hóban.",
+              "Használja a főbb kikötők fűtött várótermeit.",
+              "Viseljen csúszásgátló cipőt a megállóhoz vezető úton.",
+              "A Sundbåten komp télen nagyon nyugodt hangulatot áraszt."
+            ],
+            "ro": [
+              "Feriboturile sunt adesea mai punctuale decât autobuzele pe zăpadă.",
+              "Folosiți zonele de așteptare încălzite de la debarcaderele principale.",
+              "Purtați încălțăminte antiderapantă pentru drumul spre stație.",
+              "Feribotul Sundbåten oferă o atmosferă foarte liniștită iarna."
+            ],
+            "en": [
+              "Ferries are often more reliable than buses during heavy snow.",
+              "Use the heated waiting areas at the main ferry terminals.",
+              "Wear non-slip footwear for the short walks to the stops.",
+              "The Sundbåten ferry offers a very peaceful vibe in winter."
+            ]
+          }
+        }
       }
     }
   }

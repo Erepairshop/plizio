@@ -402,6 +402,224 @@
           "Most sights are concentrated in the city center and are easily reachable on foot.",
           "Check the opening hours of the Town Museum as they can vary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Gödöllő zeigt sich bei Regen von seiner melancholischen, kaiserlichen Seite. Den Vormittag verbringen wir trocken im prunkvollen Königlichen Wartesaal und im Stadtmuseum. \n\nMittags bietet das Schloss Grassalkovich stundenlangen Schutz vor dem Wetter. Die barocken Säle lassen den grauen Himmel vergessen.\n\nAm Nachmittag verkürzen wir den Spaziergang im Schlosspark und suchen Schutz in den Arkaden der Universität. \n\nDer Abend endet am Kalvarienberg, wo die nassen Statuen im fahlen Licht fast mystisch wirken. Ein Schirm ist heute Ihr wichtigster Begleiter.",
+            "hu": "Gödöllő esőben is méltóságteljes, a kaiserliche hangulatot csak fokozzák a víztől fénylő utcák. A reggelt a fedett Királyi Váróban és a Városi Múzeumban kezdjük, szárazon maradva.\n\nDélben a kastély hatalmas terei nyújtanak menedéket órákon át. Sisi egykori falai között elfelejtjük a kinti borút.\n\nDélután az Erzsébet-park és a kastélykert csak egy gyors kitérő, inkább a MATE főépületének impozáns aulájában nézünk szét.\n\nAz estét a Kálvária-dombon zárjuk, ahol a vizes barokk szobrok drámai látványt nyújtanak. Vigyen magával strapabíró esernyőt.",
+            "ro": "Gödöllő pe ploaie are o atmosferă melancolică și imperială. Începem dimineața la adăpost, explorând Pavilionul Regal de Așteptare și Muzeul Orașului.\n\nLa prânz, Palatul Grassalkovich oferă protecție perfectă timp de câteva ore. Sălile baroce fastuoase vă vor face să uitați de vremea de afară.\n\nDupă-amiaza scurtăm plimbarea prin parc și ne refugiem în clădirea principală a Universității de Agricultură.\n\nSeara se încheie la Dealul Calvarului, unde statuile umede par aproape mistice sub cerul plumburiu. Aveți nevoie de încălțăminte impermeabilă.",
+            "en": "Gödöllő in the rain reveals a melancholic, imperial side. We start the morning dry inside the Royal Waiting Hall and the Town Museum.\n\nAt noon, the Grassalkovich Palace provides perfect shelter for several hours. Its Baroque halls make you forget the gray skies outside.\n\nIn the afternoon, we shorten the walk in the parks and seek cover in the grand corridors of the University building.\n\nThe evening ends at Calvary Hill, where the wet statues look almost mystical in the dim light. A sturdy umbrella is essential today."
+          },
+          "stops": [
+            {
+              "name": "Royal Waiting Hall",
+              "tip_4lang": {
+                "de": "Trockener Einstieg direkt am Bahnhof.",
+                "hu": "Közvetlenül az állomás mellett, fedett helyen.",
+                "ro": "Intrare uscată direct de la gară.",
+                "en": "Dry entry right next to the station."
+              }
+            },
+            {
+              "name": "Gödöllő Town Museum",
+              "tip_4lang": {
+                "de": "Ideal, um den ersten Regenschauer abzuwarten.",
+                "hu": "Tökéletes hely az első zápor átvészelésére.",
+                "ro": "Ideal pentru a aștepta trecerea primei averse.",
+                "en": "Ideal place to wait out the first rain shower."
+              }
+            },
+            {
+              "name": "World Peace Gong",
+              "tip_4lang": {
+                "de": "Kurzer Fotostopp unter dem Regenschirm.",
+                "hu": "Gyors fotó az esernyő alól.",
+                "ro": "Oprire scurtă sub umbrelă pentru poze.",
+                "en": "Quick photo stop under the umbrella."
+              }
+            },
+            {
+              "name": "Elisabeth Park",
+              "tip_4lang": {
+                "de": "Achtung, die Kieswege können matschig sein.",
+                "hu": "Vigyázat, a murvás utak sárosak lehetnek.",
+                "ro": "Atenție, potecile de pietriș pot fi noroioase.",
+                "en": "Caution, the gravel paths can be muddy."
+              }
+            },
+            {
+              "name": "Grassalkovich Palace",
+              "tip_4lang": {
+                "de": "Das beste Programm für 2 Stunden Dauerregen.",
+                "hu": "A legjobb program kétórás tartós esőre.",
+                "ro": "Cel mai bun program pentru 2 ore de ploaie.",
+                "en": "Best program for 2 hours of continuous rain."
+              }
+            },
+            {
+              "name": "Palace Park and Lunch",
+              "tip_4lang": {
+                "de": "Wählen Sie ein Restaurant mit direktem Zugang.",
+                "hu": "Válasszunk közvetlen bejáratú éttermet.",
+                "ro": "Alegeți un restaurant cu acces direct.",
+                "en": "Choose a restaurant with direct street access."
+              }
+            },
+            {
+              "name": "Hungarian University of Agriculture and Life Sciences",
+              "tip_4lang": {
+                "de": "Die Aula ist ein imposanter, trockener Ort.",
+                "hu": "Az aula lenyűgöző és teljesen fedett.",
+                "ro": "Aula este un loc impunător și uscat.",
+                "en": "The main hall is an impressive, dry space."
+              }
+            },
+            {
+              "name": "Calvary Hill",
+              "tip_4lang": {
+                "de": "Die Treppen sind bei Nässe extrem rutschig.",
+                "hu": "A lépcsők vizesen nagyon csúsznak.",
+                "ro": "Treptele sunt extrem de alunecoase pe ploaie.",
+                "en": "The stairs are extremely slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Wege im Schlosspark sind bei Regen oft tiefgründig.",
+              "Der HÉV-Bahnhof bietet guten Unterstand beim Warten.",
+              "Das Schlossmuseum hat eine Garderobe für nasse Mäntel.",
+              "Tragen Sie wasserfeste Schuhe für den Kalvarienberg."
+            ],
+            "hu": [
+              "A kastélypark útjai esőben hamar feláznak.",
+              "A HÉV-váróterem tágas és fűtött, ha várni kell.",
+              "A kastélyban van ingyenes ruhatár a vizes kabátoknak.",
+              "Vízálló cipő kötelező a Kálvária-domb sártengere miatt."
+            ],
+            "ro": [
+              "Potecile din parcul castelului se înmoaie repede la ploaie.",
+              "Sala de așteptare a trenului HÉV este spațioasă și uscată.",
+              "Castelul are garderobă gratuită pentru hainele ude.",
+              "Încălțămintea impermeabilă este obligatorie pentru deal."
+            ],
+            "en": [
+              "The paths in the palace park get muddy quickly in the rain.",
+              "The HÉV station waiting room is large and dry if you need to wait.",
+              "The palace offers a free cloakroom for wet coats.",
+              "Waterproof shoes are a must for the Calvary Hill climb."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter in Gödöllő bedeutet oft klirrende Kälte, aber auch festliche Lichter im Schlosshof. Der Morgen beginnt am frostigen Wartesaal, bevor wir uns im Stadtmuseum aufwärmen.\n\nMittags ist das beheizte Schloss Grassalkovich der zentrale Zufluchtsort. Die barocke Pracht wirkt im Winterlicht besonders edel.\n\nAm Nachmittag nutzen wir die kurze Helligkeit für einen schnellen Gang durch den Elisabeth-Park. Der Sonnenuntergang gegen 16:30 Uhr taucht die Uni-Gebäude in Gold.\n\nDen Abend verbringen wir bei einem Heißgetränk im Zentrum, da es am Kalvarienberg nach Einbruch der Dunkelheit ungemütlich wird.",
+            "hu": "A gödöllői tél csípős hideget, de ünnepi fényeket is hoz. A reggelt a deres Királyi Várónál kezdjük, majd gyorsan behúzódunk a Városi Múzeum melegébe.\n\nDélben a kastély fűtött termei jelentik a menedéket. A barokk falak között ilyenkor is átélhető a császári pompa.\n\nDélután a korai sötétedés előtt teszünk egy kört a parkban. 16:30-kor a lemenő nap már aranyba vonja az egyetemet.\n\nAz estét a központ egyik cukrászdájában fejezzük be, a Kálvária-domb ilyenkor már túl szeles és sötét a hosszas nézelődéshez.",
+            "ro": "Iarna în Gödöllő aduce un frig tăios, dar și lumini festive în curtea castelului. Începem dimineața la Pavilionul Regal, apoi ne încălzim rapid în Muzeul Orașului.\n\nLa prânz, sălile încălzite ale Palatului Grassalkovich sunt refugiul ideal. Splendoarea barocă este pusă în valoare de lumina rece a iernii.\n\nDupă-amiaza profităm de puținele ore de lumină pentru o plimbare scurtă în Parcul Elisabeta. Apusul în jurul orei 16:30 colorează auriu clădirile universității.\n\nSeara ne retragem la o băutură caldă în centru, Dealul Calvarului fiind prea expus vântului după lăsarea întunericului.",
+            "en": "Winter in Gödöllő brings biting cold but also festive lights in the palace courtyard. We start the morning at the frosty Waiting Hall, then warm up in the Town Museum.\n\nAt noon, the heated rooms of the Grassalkovich Palace are the central sanctuary. The Baroque grandeur feels especially noble in the winter light.\n\nIn the afternoon, we use the remaining daylight for a quick walk through Elisabeth Park. Sunset around 4:30 PM bathes the University in gold.\n\nWe spend the evening with a hot drink in the center, as Calvary Hill gets too windy and dark after sunset."
+          },
+          "stops": [
+            {
+              "name": "Royal Waiting Hall",
+              "tip_4lang": {
+                "de": "Das Gebäude ist im Winter nur mäßig beheizt.",
+                "hu": "Az épület télen csak mérsékelten fűtött.",
+                "ro": "Clădirea este doar parțial încălzită iarna.",
+                "en": "The building is only moderately heated in winter."
+              }
+            },
+            {
+              "name": "Gödöllő Town Museum",
+              "tip_4lang": {
+                "de": "Erste Chance, die Hände aufzuwärmen.",
+                "hu": "Az első lehetőség a kezek felmelegítésére.",
+                "ro": "Prima ocazie de a vă încălzi mâinile.",
+                "en": "First chance to warm up your hands."
+              }
+            },
+            {
+              "name": "World Peace Gong",
+              "tip_4lang": {
+                "de": "Vorsicht vor gefrorener Glätte am Denkmal.",
+                "hu": "Vigyázat, a talapzat környéke jeges lehet.",
+                "ro": "Atenție, zona din jurul monumentului poate fi înghețată.",
+                "en": "Caution, the ground near the monument can be icy."
+              }
+            },
+            {
+              "name": "Elisabeth Park",
+              "tip_4lang": {
+                "de": "Schöne Frostmotive an den alten Statuen.",
+                "hu": "Szép deres részletek a régi szobrokon.",
+                "ro": "Detalii frumoase de chiciură pe statuile vechi.",
+                "en": "Beautiful frost details on the old statues."
+              }
+            },
+            {
+              "name": "Grassalkovich Palace",
+              "tip_4lang": {
+                "de": "Jacken müssen an der Garderobe abgegeben werden.",
+                "hu": "A kabátokat le kell adni a ruhatárban.",
+                "ro": "Hainele trebuie lăsate obligatoriu la garderobă.",
+                "en": "Coats must be left at the cloakroom."
+              }
+            },
+            {
+              "name": "Palace Park and Lunch",
+              "tip_4lang": {
+                "de": "Suchen Sie ein Lokal mit Kamin oder guter Heizung.",
+                "hu": "Keressünk kandallós vagy jól fűtött helyet.",
+                "ro": "Căutați un local cu șemineu sau încălzire bună.",
+                "en": "Look for a place with a fireplace or good heating."
+              }
+            },
+            {
+              "name": "Hungarian University of Agriculture and Life Sciences",
+              "tip_4lang": {
+                "de": "Die Fassade leuchtet im frühen Abendlicht.",
+                "hu": "A homlokzat gyönyörű az alkonyi fényben.",
+                "ro": "Fațada luminează frumos în lumina amurgului.",
+                "en": "The facade glows beautifully in the early dusk."
+              }
+            },
+            {
+              "name": "Calvary Hill",
+              "tip_4lang": {
+                "de": "Sehr windanfällig, warme Mütze einplanen.",
+                "hu": "Szeles hely, meleg sapka mindenképpen kell.",
+                "ro": "Loc expus vântului, planificați o căciulă caldă.",
+                "en": "Windy spot, make sure to wear a warm hat."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Schlosshof beherbergt oft einen kleinen Adventmarkt.",
+              "Die Sonne verschwindet bereits gegen 16:30 Uhr.",
+              "Die Innenräume des Schlosses sind angenehm temperiert.",
+              "Feste Stiefel sind für den verschneiten Kalvarienberg nötig."
+            ],
+            "hu": [
+              "A kastélyudvarban gyakran van adventi vásár.",
+              "A nap már 16:30 körül lemegy, tervezzen koránra.",
+              "A kastély belső terei kellemesen melegek.",
+              "Vastag talpú bakancs kell a havas Kálvária-dombhoz."
+            ],
+            "ro": [
+              "În curtea castelului este adesea un târg de Advent.",
+              "Soarele apune deja în jur de ora 16:30.",
+              "Interiorul castelului este încălzit plăcut.",
+              "Ghetele solide sunt necesare pentru dealul înzăpezit."
+            ],
+            "en": [
+              "The palace courtyard often hosts a small Advent market.",
+              "Sunset is early, around 4:30 PM, plan accordingly.",
+              "The palace interior is kept at a comfortable temperature.",
+              "Sturdy boots are needed for the snowy Calvary Hill climb."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -775,6 +993,206 @@
           "A small water bottle and snacks are advisable for a day of cycling.",
           "Be mindful of pedestrians in the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Gödöllő bei Regen erfordert Vorsicht auf dem Kopfsteinpflaster. Wir starten zügig am Wartesaal und flüchten ins Stadtmuseum.\n\nDie Mittagszeit verbringen wir im Schloss, während die Räder sicher (und nass) draußen warten. \n\nNachmittags meiden wir die unbefestigten Wege im Park und bleiben auf den asphaltierten Straßen zur Universität.\n\nDer Aufstieg zum Kalvarienberg ist bei Nässe eine sportliche Herausforderung. Ein Regenponcho ist heute unerlässlich.",
+            "hu": "Az esős Gödöllő kerékpárral csúszós kaland, különösen a macskaköveken. Gyorsan kezdünk a Várónál, majd irány a múzeum fedezéke.\n\nA délutánt a kastélyban töltjük, a bringákat addig hagyjuk biztonságos, de vizes tárolóban.\n\nDélután kerüljük a park puha útjait, maradjunk az aszfalton az egyetem felé.\n\nA Kálvária-dombra való feltekerés esőben komoly sportteljesítmény és jó fékeket igényel.",
+            "ro": "Gödöllő pe bicicletă în condiții de ploaie necesită prudență pe pavaj. Începem rapid la Pavilion și ne refugiem în muzeu.\n\nLa prânz lăsăm bicicletele afară și ne bucurăm de interiorul palatului.\n\nDupă-amiaza evităm potecile neasfaltate din parcuri și folosim străzile principale către Universitate.\n\nUrcarea pe Dealul Calvarului pe ploaie este o provocare sportivă care necesită frâne bune.",
+            "en": "Cycling in Gödöllő in the rain requires caution on the cobblestones. We start quickly at the Waiting Hall and take cover in the museum.\n\nWe spend the midday in the palace while the bikes wait (and get wet) outside.\n\nIn the afternoon, avoid the unpaved park paths and stick to the asphalt roads towards the University.\n\nThe climb to Calvary Hill in the rain is a physical challenge. A rain poncho is essential today."
+          },
+          "stops": [
+            {
+              "name": "Royal Waiting Hall",
+              "tip_4lang": {
+                "de": "Vorsicht beim Bremsen auf den nassen Gleisquerungen.",
+                "hu": "Vigyázat a fékezéssel a vizes sínkereszteződéseknél.",
+                "ro": "Atenție la frânare la trecerile peste șine.",
+                "en": "Be careful braking at the wet rail crossings."
+              }
+            },
+            {
+              "name": "Calvary Hill",
+              "tip_4lang": {
+                "de": "Die Abfahrt auf nassem Asphalt ist riskant.",
+                "hu": "A leereszkedés a vizes aszfalton kockázatos.",
+                "ro": "Coborârea pe asfalt ud este riscantă.",
+                "en": "Descending on wet asphalt is risky."
+              }
+            },
+            {
+              "name": "Gödöllő Town Museum",
+              "tip_4lang": {
+                "de": "Fahrradständer sind direkt vor dem Eingang.",
+                "hu": "Kerékpártárolók közvetlenül a bejárat előtt.",
+                "ro": "Rafturi de biciclete direct în fața intrării.",
+                "en": "Bike racks are located directly in front of the entry."
+              }
+            },
+            {
+              "name": "Elisabeth Park & Peace Gong",
+              "tip_4lang": {
+                "de": "Schlammige Pfade meiden, Hauptwege nutzen.",
+                "hu": "Kerüljük a sáros ösvényeket, maradjunk a főúton.",
+                "ro": "Evitați potecile noroioase, folosiți drumul principal.",
+                "en": "Avoid muddy trails, stay on the main paths."
+              }
+            },
+            {
+              "name": "Grassalkovich Palace",
+              "tip_4lang": {
+                "de": "Überdachte Stellplätze sind hier Mangelware.",
+                "hu": "Fedett tárolóhelyből itt kevés van.",
+                "ro": "Locurile de parcare acoperite sunt rare aici.",
+                "en": "Covered parking spots are scarce here."
+              }
+            },
+            {
+              "name": "Palace Park and Lunch",
+              "tip_4lang": {
+                "de": "Suchen Sie ein Café mit Sicht auf Ihr Rad.",
+                "hu": "Keressünk kávézót, ahonnan rálátni a bringára.",
+                "ro": "Căutați o cafenea cu vedere la bicicletă.",
+                "en": "Look for a cafe where you can watch your bike."
+              }
+            },
+            {
+              "name": "Hungarian University of Agriculture and Life Sciences",
+              "tip_4lang": {
+                "de": "Der Campus ist weitläufig und nass.",
+                "hu": "A kampusz nagy és vizes, tekerjen óvatosan.",
+                "ro": "Campusul este vast și ud, pedalați cu atenție.",
+                "en": "The campus is sprawling and wet, ride carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Benutzen Sie Schutzbleche, um Schlammspritzer zu vermeiden.",
+              "Markierungen auf der Straße sind bei Nässe extrem glatt.",
+              "Prüfen Sie Ihre Bremsen vor dem Abstieg vom Kalvarienberg.",
+              "Ein wasserfester Sattelbezug spart Ihnen eine nasse Hose."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "Az útburkolati jelek vizesen rendkívül csúszósak.",
+              "Ellenőrizze a fékeket a Kálvária-dombi lejtő előtt.",
+              "Egy vízálló nyereghuzat sokat ér ilyenkor."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a evita stropii de noroi.",
+              "Marcajele rutiere sunt extrem de alunecoase pe ud.",
+              "Verificați frânele înainte de coborârea de pe deal.",
+              "O husă de șa impermeabilă vă va salva pantalonii."
+            ],
+            "en": [
+              "Use mudguards to prevent splashes.",
+              "Road markings are extremely slippery when wet.",
+              "Check your brakes before descending Calvary Hill.",
+              "A waterproof saddle cover is a lifesaver today."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Gödöllő ist nur etwas für Hartgesottene. Die frostige Luft am Morgen am Wartesaal beißt im Gesicht.\n\nDas Schloss dient mittags als langer Aufwärmstopp. Achten Sie auf vereiste Stellen auf dem Vorplatz.\n\nAm Nachmittag radeln wir zügig durch den Elisabeth-Park, bevor das Licht schwindet. Die Auffahrt zur Uni ist anstrengend, hält aber warm.\n\nDen Abend lassen wir im warmen Stadtzentrum ausklingen, da die Fahrt zum Kalvarienberg bei Frost gefährlich glatt sein kann.",
+            "hu": "A téli bringázás Gödöllőn igazi kihívás. A reggeli fagyos levegő a Várónál rögtön arcul csap.\n\nA kastély délben a megváltó meleg helyszíne. Vigyázzunk a lefagyott tócsákra a kastély előtt.\n\nDélután gyors tempóban tekerünk át a parkon, mielőtt elfogy a fény. Az egyetemi emelkedő segít melegen tartani.\n\nAz estét a belvárosban fejezzük be, a Kálvária-dombra vezető út fagyban túl veszélyes lehet.",
+            "ro": "Ciclismul de iarnă în Gödöllă este doar pentru cei rezistenți. Aerul înghețat de dimineață la Pavilion este tăios.\n\nPalatul servește la prânz ca un popas lung de încălzire. Atenție la gheața de pe trotuare.\n\nDupă-amiaza pedalăm rapid prin Parcul Elisabeta înainte de apus. Urcarea la universitate vă va ține de cald.\n\nÎncheiem seara în centrul cald al orașului, deoarece drumul spre Calvar poate fi periculos de alunecos.",
+            "en": "Winter cycling in Gödöllő is for the hardy. The biting morning air at the Waiting Hall hits your face immediately.\n\nThe palace serves as a long warm-up stop at noon. Watch out for icy patches in the courtyard.\n\nIn the afternoon, cycle briskly through Elisabeth Park before the light fades. The climb to the Uni keeps you warm.\n\nFinish the evening in the warm city center, as the ride to Calvary Hill can be dangerously slick in freezing weather."
+          },
+          "stops": [
+            {
+              "name": "Royal Waiting Hall",
+              "tip_4lang": {
+                "de": "Metallene Schienen sind bei Frost extrem glatt.",
+                "hu": "A fém sínek fagyban rendkívül csúsznak.",
+                "ro": "Șinele metalice sunt extrem de alunecoase la ger.",
+                "en": "Metal rails are extremely slippery in freezing weather."
+              }
+            },
+            {
+              "name": "Calvary Hill",
+              "tip_4lang": {
+                "de": "Nur befahren, wenn die Wege absolut eisfrei sind.",
+                "hu": "Csak akkor tekerjünk fel, ha jégmentes az út.",
+                "ro": "Urcați doar dacă drumurile nu sunt înghețate.",
+                "en": "Only ride up if the paths are completely ice-free."
+              }
+            },
+            {
+              "name": "Gödöllő Town Museum",
+              "tip_4lang": {
+                "de": "Schließen Sie Ihr Rad schnell ab und gehen Sie rein.",
+                "hu": "Gyors lezárás után irány a fűtött beltér.",
+                "ro": "Încuiați rapid bicicleta și intrați la căldură.",
+                "en": "Lock your bike quickly and head inside."
+              }
+            },
+            {
+              "name": "Elisabeth Park & Peace Gong",
+              "tip_4lang": {
+                "de": "Tiefe Temperaturen lassen die Gangschaltung zähen.",
+                "hu": "A nagy hidegben a váltó nehezebben járhat.",
+                "ro": "Temperaturile scăzute pot îngreuna schimbătorul.",
+                "en": "Low temperatures can make shifting stiff."
+              }
+            },
+            {
+              "name": "Grassalkovich Palace",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Stopp für heißen Tee im Schlosscafé.",
+                "hu": "Használjuk ki a megállót egy forró teára a kávézóban.",
+                "ro": "Folosiți oprirea pentru un ceai fierbinte la cafenea.",
+                "en": "Use the stop for a hot tea at the palace cafe."
+              }
+            },
+            {
+              "name": "Palace Park and Lunch",
+              "tip_4lang": {
+                "de": "Ihre Trinkflasche könnte hier einfrieren.",
+                "hu": "A kulacsunk tartalma itt könnyen befagyhat.",
+                "ro": "Apa din bidon ar putea îngheța aici.",
+                "en": "Your water bottle might freeze out here."
+              }
+            },
+            {
+              "name": "Hungarian University of Agriculture and Life Sciences",
+              "tip_4lang": {
+                "de": "Die Auffahrt fördert die Durchblutung der Füße.",
+                "hu": "Az emelkedő segít felmelegíteni a lábfejeket.",
+                "ro": "Urcarea ajută la circulația sângelui în picioare.",
+                "en": "The climb helps get the blood flowing to your feet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und Gesichtsschutz.",
+              "Vermeiden Sie hektische Lenkbewegungen auf Reif.",
+              "Warme Einlegesohlen sind bei Kälte Gold wert.",
+              "Die Batterie Ihres E-Bikes hält im Winter deutlich kürzer."
+            ],
+            "hu": [
+              "Viseljünk szélálló kesztyűt és arcmaszkot.",
+              "Kerüljük a hirtelen kormánymozdulatokat a dérben.",
+              "A fűthető talpbetét télen aranyat ér.",
+              "Az elektromos kerékpár akkuja télen hamarabb lemerül."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și protecție facială.",
+              "Evitați mișcările bruște de ghidon pe promoroacă.",
+              "Branțurile calde sunt esențiale la temperaturi negative.",
+              "Bateria bicicletei electrice ține mult mai puțin iarna."
+            ],
+            "en": [
+              "Wear windproof gloves and face protection.",
+              "Avoid sudden steering movements on frost.",
+              "Thermal insoles are worth their weight in gold.",
+              "Your E-bike battery will drain much faster in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1179,6 +1597,224 @@
           "Driving in the city center is not necessary as everything is within walking distance.",
           "Pay attention to parking fees and time limits."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist der Regen in Gödöllő nur eine Kulisse. Wir parken direkt am Schloss und verbringen den Vormittag trocken in den Prunksälen.\n\nMittags ist die Fahrt zum Elisabeth-Park kurz, wir schauen uns den Gong aus dem Fenster oder unter dem Schirm an.\n\nDas Mittagessen im Zentrum ist bequem erreichbar, Parkplätze gibt es meist direkt vor den Restaurants.\n\nNachmittags besuchen wir das Stadtmuseum und den Wartesaal. Die Fahrt zum Kalvarienberg bietet auch bei Regen eine schöne Aussicht aus der warmen Kabine.",
+            "hu": "Autóval az esős Gödöllő csak egy díszlet a szélvédő mögött. Közvetlenül a kastélynál parkolunk, és a délelőttöt szárazon töltjük a termekben.\n\nDélben az Erzsébet-park csak egy rövid megálló, a harangot akár az autóból is megnézhetjük.\n\nAz ebéd kényelmesen elérhető, a legtöbb étterem előtt van parkolási lehetőség.\n\nDélután a Városi Múzeum és a Váró következik. A Kálvária-dombra való felhajtáskor az eső csak még drámaibbá teszi a panorámát.",
+            "ro": "Cu mașina, ploaia din Gödöllă este doar un decor în spatele parbrizului. Parcăm direct la castel și petrecem dimineața la uscat.\n\nLa prânz, vizita în Parcul Elisabeta este scurtă, putem vedea gongul chiar și din mașină.\n\nPrânzul în centru este ușor accesibil, cu locuri de parcare disponibile chiar în fața restaurantelor.\n\nDupă-amiaza vizităm muzeul și pavilionul. Urcarea pe Dealul Calvarului oferă o priveliște frumoasă din cabina caldă.",
+            "en": "By car, the rain in Gödöllő is just a backdrop behind the windshield. We park right at the palace and spend the morning dry in the staterooms.\n\nAt noon, the visit to Elisabeth Park is brief; you can even see the Gong from the car window.\n\nLunch in the center is convenient, with parking usually available right in front of the restaurants.\n\nIn the afternoon, we visit the museum and the waiting hall. The drive up to Calvary Hill offers a great view even in the rain from the warm cabin."
+          },
+          "stops": [
+            {
+              "name": "Arrival & Grassalkovich Palace",
+              "tip_4lang": {
+                "de": "Großer Parkplatz direkt gegenüber dem Haupteingang.",
+                "hu": "Nagy parkoló közvetlenül a főbejárattal szemben.",
+                "ro": "Parcare mare direct vizavi de intrarea principală.",
+                "en": "Large parking lot directly across from the main entrance."
+              }
+            },
+            {
+              "name": "Palace Park",
+              "tip_4lang": {
+                "de": "Vom Auto aus sind die Statuen gut zu sehen.",
+                "hu": "Az autóból is jól látszanak a park szobrai.",
+                "ro": "Statuile se văd bine chiar și din mașină.",
+                "en": "The statues are clearly visible from the car."
+              }
+            },
+            {
+              "name": "Elisabeth Park",
+              "tip_4lang": {
+                "de": "Kurzer Stopp am Straßenrand für ein schnelles Foto.",
+                "hu": "Rövid megállás az út szélén egy gyors fotóra.",
+                "ro": "Oprire scurtă pe marginea drumului pentru o poză.",
+                "en": "Short stop at the roadside for a quick photo."
+              }
+            },
+            {
+              "name": "World Peace Gong",
+              "tip_4lang": {
+                "de": "Parken Sie kurz in der Nähe, um nicht nass zu werden.",
+                "hu": "Parkoljunk a közelben, hogy elkerüljük az ázást.",
+                "ro": "Parcați aproape pentru a nu vă uda.",
+                "en": "Park nearby to avoid getting soaked."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_4lang": {
+                "de": "Tiefgarage im Zentrum nutzen, falls es schüttet.",
+                "hu": "Használjuk a mélygarázst, ha szakad az eső.",
+                "ro": "Folosiți parcarea subterană dacă plouă torențial.",
+                "en": "Use the underground parking if it's pouring."
+              }
+            },
+            {
+              "name": "Gödöllő Town Museum",
+              "tip_4lang": {
+                "de": "Parkplätze in den Seitenstraßen meist frei.",
+                "hu": "A mellékutcákban általában van szabad hely.",
+                "ro": "Locurile de parcare de pe străzile laterale sunt libere.",
+                "en": "Parking in side streets is usually available."
+              }
+            },
+            {
+              "name": "Royal Waiting Hall",
+              "tip_4lang": {
+                "de": "Parken direkt am Bahnhofsvorplatz möglich.",
+                "hu": "Parkolás közvetlenül az állomás előtt lehetséges.",
+                "ro": "Parcare posibilă direct în fața gării.",
+                "en": "Parking is possible directly in front of the station."
+              }
+            },
+            {
+              "name": "Calvary Hill",
+              "tip_4lang": {
+                "de": "Die Auffahrt ist asphaltiert und sicher.",
+                "hu": "Az út aszfaltozott és biztonságos esőben is.",
+                "ro": "Drumul este asfaltat și sigur chiar și pe ploaie.",
+                "en": "The road is paved and safe even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Fußgänger in der Nähe des Schlosses.",
+              "Die Parkgebühren können per App bezahlt werden.",
+              "Vermeiden Sie das Parken unter alten Bäumen bei Sturm.",
+              "Die Sicht am Kalvarienberg kann bei Starkregen leiden."
+            ],
+            "hu": [
+              "Vigyázzunk a gyalogosokra a kastély környékén.",
+              "A parkolási díjat applikációval is fizethetjük.",
+              "Viharos esőben ne parkoljunk öreg fák alá.",
+              "Nagy esőben a panoráma korlátozott lehet a dombról."
+            ],
+            "ro": [
+              "Atenție la pietoni în apropierea castelului.",
+              "Taxa de parcare poate fi plătită prin aplicație.",
+              "Evitați parcarea sub arbori bătrâni pe timp de furtună.",
+              "Vizibilitatea de pe deal poate fi redusă la ploaie grea."
+            ],
+            "en": [
+              "Watch out for pedestrians near the palace.",
+              "Parking fees can be paid via mobile app.",
+              "Avoid parking under old trees during heavy storms.",
+              "Visibility from the hill may be limited during downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Auto das ideale Transportmittel für Gödöllő. Wir starten warm am Schloss und bewundern die frostige Barockfassade.\n\nMittags wechseln wir für kurze Wege zwischen den Parks ins Auto, um nicht auszukühlen. \n\nDas Mittagessen im Zentrum ist dank naher Parkplätze ohne langes Frieren erreichbar.\n\nNachmittags geht es zum Stadtmuseum und dem Wartesaal. Die Fahrt zum Kalvarienberg ist im Winter bei Sonnenuntergang besonders stimmungsvoll, da die Heizung für Komfort sorgt.",
+            "hu": "Télen az autó a legideálisabb közlekedési eszköz Gödöllőn. Meleg kocsiból indulunk a kastélyhoz, megcsodálva a deres barokk homlokzatot.\n\nDélben a parkok közötti rövid távokat is autóval tesszük meg, hogy ne fázzunk át.\n\nAz ebéd a központban könnyen elérhető, nem kell sokat gyalogolni a hidegben.\n\nDélután a Városi Múzeum és a Váró következik. A Kálvária-dombra való felhajtás naplementekor a legszebb, miközben bent fűtünk.",
+            "ro": "Iarna, mașina este cel mai bun mijloc de transport în Gödöllă. Începem confortabil la castel, admirând fațada barocă înghețată.\n\nLa prânz folosim mașina chiar și pentru distanțe scurte între parcuri pentru a evita frigul.\n\nPrânzul în centru este ușor de atins fără a îngheța pe drum.\n\nDupă-amiaza mergem la muzeu și la pavilion. Urcarea pe Dealul Calvarului la apus este spectaculoasă din interiorul încălzit.",
+            "en": "In winter, the car is the ideal way to get around Gödöllő. We start warm at the palace and admire the frosty Baroque facade.\n\nAt noon, use the car even for short hops between parks to stay warm.\n\nLunch in the center is easily accessible without much walking in the cold.\n\nIn the afternoon, head to the museum and the waiting hall. The drive to Calvary Hill is especially atmospheric at sunset while you stay cozy inside."
+          },
+          "stops": [
+            {
+              "name": "Arrival & Grassalkovich Palace",
+              "tip_4lang": {
+                "de": "Parkplatz wird bei Schnee meist zügig geräumt.",
+                "hu": "Hóeséskor a parkolót általában gyorsan takarítják.",
+                "ro": "Parcarea este curățată rapid în caz de zăpadă.",
+                "en": "The parking lot is usually cleared quickly after snow."
+              }
+            },
+            {
+              "name": "Palace Park",
+              "tip_4lang": {
+                "de": "Kurzer Spaziergang, dann schnell zurück ins warme Auto.",
+                "hu": "Rövid séta, aztán irány vissza a meleg autóba.",
+                "ro": "Plimbare scurtă, apoi revenire rapidă la căldură.",
+                "en": "Short walk, then quickly back to the warm car."
+              }
+            },
+            {
+              "name": "Elisabeth Park",
+              "tip_4lang": {
+                "de": "Die Parkplätze sind im Winter oft leerer.",
+                "hu": "A parkolók télen általában üresebbek.",
+                "ro": "Parcările sunt adesea mai goale iarna.",
+                "en": "Parking lots are often emptier in winter."
+              }
+            },
+            {
+              "name": "World Peace Gong",
+              "tip_4lang": {
+                "de": "Vorsicht vor Eisplatten auf dem Gehweg zum Gong.",
+                "hu": "Vigyázat, a gonghoz vezető út jeges lehet.",
+                "ro": "Atenție la porțiunile de gheață spre gong.",
+                "en": "Watch out for ice patches on the path to the gong."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_4lang": {
+                "de": "Parken Sie nah am Eingang, um Kälte zu meiden.",
+                "hu": "Parkoljunk közel a bejárathoz a hideg miatt.",
+                "ro": "Parcați aproape de intrare pentru a evita frigul.",
+                "en": "Park close to the entrance to avoid the cold."
+              }
+            },
+            {
+              "name": "Gödöllő Town Museum",
+              "tip_4lang": {
+                "de": "Gute Heizung im Museum lädt zum Verweilen ein.",
+                "hu": "A múzeum fűtése kiváló, jó bent maradni.",
+                "ro": "Încălzirea bună din muzeu vă invită să zăboviți.",
+                "en": "Great heating in the museum makes it nice to stay."
+              }
+            },
+            {
+              "name": "Royal Waiting Hall",
+              "tip_4lang": {
+                "de": "Der Bahnhofsvorplatz kann glatt sein.",
+                "hu": "Az állomás előtti tér gyakran jeges.",
+                "ro": "Piața din fața gării poate fi alunecoasă.",
+                "en": "The station square can be slippery."
+              }
+            },
+            {
+              "name": "Calvary Hill",
+              "tip_4lang": {
+                "de": "Winterreifen für die Auffahrt zwingend erforderlich.",
+                "hu": "A felhajtáshoz téli gumi kötelező.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pentru urcare.",
+                "en": "Winter tires are mandatory for the drive up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Parkflächen können morgens spiegelglatt sein.",
+              "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+              "Bei Schneefall ist die Sicht vom Kalvarienberg begrenzt."
+            ],
+            "hu": [
+              "Ellenőrizzük a fagyállót a szélvédőmosóban.",
+              "A parkolók reggelente tükörjegesek lehetnek.",
+              "Ne járassuk feleslegesen álló helyzetben a motort.",
+              "Hóesésben a panoráma korlátozott lehet a dombról."
+            ],
+            "ro": [
+              "Verificați antigelul din lichidul de parbriz.",
+              "Parcările pot fi extrem de alunecoase dimineața.",
+              "Nu lăsați motorul pornit inutil în staționare.",
+              "Vizibilitatea de pe deal este limitată în caz de ninsoare."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer fluid.",
+              "Parking areas can be ice-slicked in the mornings.",
+              "Don't leave the engine idling unnecessarily.",
+              "Visibility from the hill is limited during snowfall."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1583,6 +2219,224 @@
           "Check the last train back to Budapest to avoid getting stranded.",
           "The city center is just a few minutes' walk from the train station."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn ist Gödöllő bei Regen gut zu meistern. Wir starten direkt am Königlichen Wartesaal, der perfekten Schutz bietet.\n\nMittags erreichen wir das Schloss nach kurzem Fußweg. Die großen Innenräume sind das ideale Schlechtwetterprogramm.\n\nNachmittags nutzen wir die lokalen Busse, um zwischen Uni und Stadtmuseum zu pendeln, ohne nass zu werden.\n\nDer Abend am Kalvarienberg erfordert etwas Planung für den Rückweg zur Haltestelle, aber die Atmosphäre im Regen ist einzigartig.",
+            "hu": "Tömegközlekedéssel Gödöllő esőben is kényelmes. A Királyi Várónál kezdünk, ami tökéletes fedezék a HÉV-ről leszállva.\n\nDélben a kastély csak egy rövid séta, a belső terek pedig ideális esőprogramot kínálnak.\n\nDélután a helyi buszokat használjuk az egyetem és a múzeum között, így elkerüljük az ázást.\n\nAz este a Kálvária-dombon több tervezést igényel a buszmenetrend miatt, de az esős látvány megéri a fáradságot.",
+            "ro": "Cu transportul public, Gödöllă este ușor de vizitat pe ploaie. Începem direct la Pavilionul Regal, refugiul perfect după tren.\n\nLa prânz, castelul este la doar o scurtă plimbare, iar interiorul oferă programul ideal pentru vreme rea.\n\nDupă-amiaza folosim autobuzele locale între universitate și muzeu pentru a rămâne uscați.\n\nSeara la Calvar necesită planificare pentru întoarcerea la stație, dar atmosfera pe ploaie este unică.",
+            "en": "Public transit makes Gödöllő easy to navigate in the rain. We start at the Royal Waiting Hall, the perfect shelter after getting off the train.\n\nAt noon, the palace is just a short walk away, and its interiors offer the ideal bad-weather program.\n\nIn the afternoon, use local buses to commute between the University and the museum to stay dry.\n\nAn evening at Calvary Hill requires checking the bus schedule for the return, but the rainy atmosphere is worth it."
+          },
+          "stops": [
+            {
+              "name": "Arrival & Royal Waiting Hall",
+              "tip_4lang": {
+                "de": "Der HÉV-Wartesaal ist groß und trocken.",
+                "hu": "A HÉV váróterme tágas és száraz.",
+                "ro": "Sala de așteptare HÉV este mare și uscată.",
+                "en": "The HÉV waiting room is large and dry."
+              }
+            },
+            {
+              "name": "Gödöllő Town Museum",
+              "tip_4lang": {
+                "de": "Nur 5 Minuten Fußweg von der Bushaltestelle.",
+                "hu": "Csak 5 perc séta a buszmegállótól.",
+                "ro": "Doar 5 minute de mers de la stația de autobuz.",
+                "en": "Only a 5-minute walk from the bus stop."
+              }
+            },
+            {
+              "name": "World Peace Gong",
+              "tip_4lang": {
+                "de": "Bushaltestelle 'Szabadság tér' direkt in der Nähe.",
+                "hu": "A Szabadság téri buszmegálló közvetlenül mellette van.",
+                "ro": "Stația de autobuz 'Szabadság tér' este chiar lângă.",
+                "en": "The 'Szabadság tér' bus stop is right nearby."
+              }
+            },
+            {
+              "name": "Elisabeth Park",
+              "tip_4lang": {
+                "de": "Hauptwege sind befestigt und für Regen okay.",
+                "hu": "A főutak burkoltak, esőben is járhatók.",
+                "ro": "Drumurile principale sunt pavate și OK pe ploaie.",
+                "en": "Main paths are paved and okay for the rain."
+              }
+            },
+            {
+              "name": "Grassalkovich Palace",
+              "tip_4lang": {
+                "de": "Schließfächer im Keller für Schirme vorhanden.",
+                "hu": "Az alagsorban vannak értékmegőrzők az ernyőknek.",
+                "ro": "Dulapuri disponibile la subsol pentru umbrele.",
+                "en": "Lockers are available in the basement for umbrellas."
+              }
+            },
+            {
+              "name": "Palace Park and Lunch",
+              "tip_4lang": {
+                "de": "Viele Restaurants nahe der Haltestellen im Zentrum.",
+                "hu": "Sok étterem van a belvárosi megállók közelében.",
+                "ro": "Multe restaurante aproape de stațiile din centru.",
+                "en": "Many restaurants are located near the central stops."
+              }
+            },
+            {
+              "name": "Hungarian University of Agriculture and Life Sciences",
+              "tip_4lang": {
+                "de": "Eigene Bushaltestelle direkt vor dem Hauptgebäude.",
+                "hu": "Saját buszmegálló közvetlenül a főépület előtt.",
+                "ro": "Stație de autobuz proprie chiar în fața clădirii.",
+                "en": "Dedicated bus stop right in front of the building."
+              }
+            },
+            {
+              "name": "Calvary Hill",
+              "tip_4lang": {
+                "de": "Prüfen Sie die letzte Busabfahrt am Abend.",
+                "hu": "Ellenőrizzük az utolsó busz indulását este.",
+                "ro": "Verificați ora ultimului autobuz seara.",
+                "en": "Check the time for the last bus in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die HÉV-Züge fahren alle 30 Minuten nach Budapest.",
+              "Kaufen Sie Fahrkarten vorab am Automaten oder per App.",
+              "Lokale Busse sind bei Regen oft voll, planen Sie Zeit ein.",
+              "Die Haltestellen im Zentrum sind teilweise überdacht."
+            ],
+            "hu": [
+              "A HÉV 30 percenként jár Budapest felé.",
+              "Vegyünk jegyet előre automatából vagy appon.",
+              "A helyi buszok esőben zsúfoltak lehetnek.",
+              "A belvárosi megállók egy része fedett."
+            ],
+            "ro": [
+              "Trenurile HÉV circulă la fiecare 30 de minute spre Budapesta.",
+              "Cumpărați bilete în avans de la automat sau prin aplicație.",
+              "Autobuzele locale pot fi aglomerate pe ploaie.",
+              "O parte din stațiile din centru sunt acoperite."
+            ],
+            "en": [
+              "HÉV trains run every 30 minutes towards Budapest.",
+              "Buy tickets in advance from machines or the app.",
+              "Local buses can be crowded during rain showers.",
+              "Some of the central bus stops are covered."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Gödöllő im Winter mit Transit bedeutet gemütliche Fahrten in beheizten Bussen. Der Morgen startet am stimmungsvollen, frostigen Wartesaal.\n\nMittags bietet das Schloss die perfekte Aufwärmpause. Die kurzen Wege zu den Haltestellen halten die Kälteexposition gering.\n\nNachmittags nutzen wir das dichte Busnetz, um schnell zur Universität zu kommen. Das Winterlicht macht die Fahrt durch die Stadt besonders schön.\n\nDen Abend beenden wir in einem warmen Café im Zentrum, bevor wir mit der HÉV zurückfahren. Der Kalvarienberg ist im Winter ein kühler, aber lohnender Stopp.",
+            "hu": "Tömegközlekedéssel a téli Gödöllő is élvezhető a fűtött járatoknak köszönhetően. A reggel a deres Királyi Várónál indul.\n\nDélben a kastély a legjobb hely a felmelegedésre. A megállók közelsége miatt nem kell sokat fagyoskodni.\n\nDélután a sűrű buszhálózatot kihasználva jutunk el az egyetemhez. A téli fényekben a városnézés busszal is élmény.\n\nAz estét egy meleg kávézóban zárjuk, majd irány a HÉV. A Kálvária-domb télen szeles, de a látvány kárpótol.",
+            "ro": "Iarna în Gödöllă cu transportul public înseamnă călătorii plăcute în vehicule încălzite. Dimineața începe la Pavilionul Regal înghețat.\n\nLa prânz, castelul este locul perfect pentru încălzire. Proximitatea stațiilor reduce timpul petrecut în frig.\n\nDupă-amiaza folosim rețeaua densă de autobuze pentru a ajunge rapid la universitate. Lumina de iarnă face călătoria prin oraș foarte frumoasă.\n\nÎncheiem seara într-o cafenea caldă înainte de a lua trenul înapoi. Dealul Calvarului este răcoros, dar merită vizitat.",
+            "en": "Gödöllő in winter by transit means cozy rides in heated buses. The morning starts at the atmospheric, frosty Waiting Hall.\n\nAt noon, the palace is the perfect place to warm up. The short distances to the stops keep your time in the cold to a minimum.\n\nIn the afternoon, use the frequent bus network to get to the University quickly. The winter light makes the ride through town very scenic.\n\nFinish the evening in a warm cafe in the center before taking the HÉV back. Calvary Hill is chilly in winter, but the view is worth it."
+          },
+          "stops": [
+            {
+              "name": "Arrival & Royal Waiting Hall",
+              "tip_4lang": {
+                "de": "Der Wartesaal ist im Winter ein nostalgischer Ort.",
+                "hu": "A Váróterem télen igazi nosztalgikus helyszín.",
+                "ro": "Sala de așteptare este un loc nostalgic iarna.",
+                "en": "The waiting room is a truly nostalgic spot in winter."
+              }
+            },
+            {
+              "name": "Gödöllő Town Museum",
+              "tip_4lang": {
+                "de": "Das Museum ist sehr gut geheizt.",
+                "hu": "A múzeum belső terei nagyon jól fűtöttek.",
+                "ro": "Interiorul muzeului este foarte bine încălzit.",
+                "en": "The museum interiors are very well heated."
+              }
+            },
+            {
+              "name": "World Peace Gong",
+              "tip_4lang": {
+                "de": "Nur ein kurzer Stopp, um nicht auszukühlen.",
+                "hu": "Csak rövid megálló, hogy ne fázzunk át.",
+                "ro": "Doar o oprire scurtă pentru a nu îngheța.",
+                "en": "Just a short stop to avoid catching a chill."
+              }
+            },
+            {
+              "name": "Elisabeth Park",
+              "tip_4lang": {
+                "de": "Vorsicht vor glatten Stellen an den Haltestellen.",
+                "hu": "Vigyázat, a megállók környéke jeges lehet.",
+                "ro": "Atenție, zonele din jurul stațiilor pot fi înghețate.",
+                "en": "Caution, the areas around stops can be icy."
+              }
+            },
+            {
+              "name": "Grassalkovich Palace",
+              "tip_4lang": {
+                "de": "Jackenabgabe im Winter obligatorisch.",
+                "hu": "A ruhatár használata télen kötelező.",
+                "ro": "Garderoba este obligatorie pe timp de iarnă.",
+                "en": "Use of the cloakroom is mandatory in winter."
+              }
+            },
+            {
+              "name": "Palace Park and Lunch",
+              "tip_4lang": {
+                "de": "Wählen Sie ein Lokal direkt an der Busroute.",
+                "hu": "Válasszunk helyet közvetlenül a buszvonal mentén.",
+                "ro": "Alegeți un local direct pe ruta autobuzului.",
+                "en": "Choose a place directly on the bus route."
+              }
+            },
+            {
+              "name": "Hungarian University of Agriculture and Life Sciences",
+              "tip_4lang": {
+                "de": "Busse halten direkt vor dem warmen Haupteingang.",
+                "hu": "A buszok közvetlenül a meleg főbejáratnál állnak meg.",
+                "ro": "Autobuzele opresc chiar în fața intrării principale.",
+                "en": "Buses stop right in front of the warm main entrance."
+              }
+            },
+            {
+              "name": "Calvary Hill",
+              "tip_4lang": {
+                "de": "Letzter Bus zurück ins Zentrum gegen 18 Uhr prüfen.",
+                "hu": "Ellenőrizzük az utolsó buszt 18 óra körül.",
+                "ro": "Verificați ultimul autobuz în jur de ora 18:00.",
+                "en": "Check for the last bus back around 6 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die HÉV-Waggons sind meist gut beheizt.",
+              "Abends sind die Intervalle der Stadtbusse länger.",
+              "Nutzen Sie die App 'BudapestGO' für Echtzeitdaten.",
+              "Im Winter sind die Züge oft pünktlicher als die Busse."
+            ],
+            "hu": [
+              "A HÉV kocsik általában jól fűtöttek.",
+              "Este a helyi buszok ritkábban járnak.",
+              "Használjuk a BudapestGO appot a valós idejű adatokhoz.",
+              "Télen a HÉV gyakran pontosabb, mint a buszok."
+            ],
+            "ro": [
+              "Vagoanele HÉV sunt de obicei bine încălzite.",
+              "Seara, intervalele autobuzelor locale sunt mai mari.",
+              "Folosiți aplicația BudapestGO pentru date în timp real.",
+              "Iarna, trenurile sunt adesea mai punctuale decât autobuzele."
+            ],
+            "en": [
+              "HÉV train cars are usually well-heated.",
+              "City bus intervals are longer in the evening.",
+              "Use the 'BudapestGO' app for real-time transit data.",
+              "Trains are often more punctual than buses in winter."
+            ]
+          }
+        }
       }
     }
   }

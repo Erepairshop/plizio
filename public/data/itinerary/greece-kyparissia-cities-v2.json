@@ -386,6 +386,206 @@
           "A hat and sunscreen are essential.",
           "The best photo opportunities of the castle are in the late afternoon."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden Sie die Ano Poli unter dem Schutz von Arkaden und Regenschirmen. Die mittelalterliche Burg bietet bei Regen eine mystische Atmosphäre. Mittags bietet die Agia-Triada-Kirche einen ruhigen, trockenen Rückzugsort. Der Nachmittag gehört der archäologischen Sammlung im Trockenen. Abends genießen Sie den Blick auf das stürmische Meer bei einem Ouzo in einer überdachten Taverne am Hafen.",
+            "hu": "Reggel esernyővel vágunk neki az Ano Polinak, ahol a szűk utcák védelmet nyújtanak. A vár romjai között a ködös kilátás különleges hangulatot áraszt. Délben az Agia Triada templom csendjében húzódunk meg. A délután tökéletes az Archeológiai Gyűjtemény fedett tárlatának megtekintésére. Az estét a kikötő egyik védett teraszán zárjuk, nézve a Jón-tenger hullámait.",
+            "ro": "Dimineața explorăm Ano Poli sub protecția umbrelelor, printre străduțele înguste. Castelul medieval oferă o atmosferă mistică pe timp de ploaie. La prânz, biserica Agia Triada oferă un refugiu liniștit. După-amiaza este dedicată Colecției Arheologice, ferită de intemperii. Seara, savurăm un ouzo într-o tavernă acoperită din port, admirând marea agitată.",
+            "en": "Morning exploration of Ano Poli requires an umbrella, but the narrow streets offer some shelter. The medieval castle takes on a mystical vibe in the rain. At noon, Agia Triada Church provides a quiet, dry sanctuary. The afternoon is perfect for the indoor Archaeological Collection. In the evening, enjoy the stormy sea views from a covered tavern at the harbor with a glass of ouzo."
+          },
+          "stops": [
+            {
+              "name": "Old Town (Ano Poli)",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem rutschigen Kopfsteinpflaster.",
+                "hu": "Vigyázat, a macskaköves utcák esőben csúszósak.",
+                "ro": "Atenție la pavajul alunecos pe ploaie.",
+                "en": "Careful on the slippery cobblestones."
+              }
+            },
+            {
+              "name": "Castle of Kyparissia",
+              "tip_5lang": {
+                "de": "Die Burgmauern bieten wenig Schutz, Regenschutz mitbringen.",
+                "hu": "A várfalak között kevés a fedett rész, esőkabát kell.",
+                "ro": "Zidurile castelului oferă puțin adăpost, aduceți pelerină.",
+                "en": "Castle walls offer little shelter, bring rain gear."
+              }
+            },
+            {
+              "name": "Agia Triada Church",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen Regenschauer abzuwarten.",
+                "hu": "Ideális hely egy hirtelen zápor átvészelésére.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse.",
+                "en": "An ideal spot to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Archaeological Collection",
+              "tip_5lang": {
+                "de": "Das beste Ziel bei anhaltendem Regen.",
+                "hu": "A legjobb program tartós eső esetén.",
+                "ro": "Cea mai bună destinație în caz de ploaie persistentă.",
+                "en": "The best destination during persistent rain."
+              }
+            },
+            {
+              "name": "Port of Kyparissia",
+              "tip_5lang": {
+                "de": "Überdachte Cafés direkt am Wasser nutzen.",
+                "hu": "Használja a vízparti fedett kávézókat.",
+                "ro": "Folosiți cafenelele acoperite de lângă apă.",
+                "en": "Utilize the covered waterfront cafes."
+              }
+            },
+            {
+              "name": "Dragon Fountain",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, fließendes Wasser überall.",
+                "hu": "Gyors fotó, ilyenkor mindenhol folyik a víz.",
+                "ro": "Oprire scurtă, apa curge peste tot acum.",
+                "en": "Quick photo stop, water is flowing everywhere."
+              }
+            },
+            {
+              "name": "Sani Beach",
+              "tip_5lang": {
+                "de": "Spaziergang im Sand ist bei Regen mühsam.",
+                "hu": "A homokban sétálás esőben fárasztó lehet.",
+                "ro": "Plimbarea prin nisip e greoaie pe ploaie.",
+                "en": "Walking in the sand is tedious in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Arkaden in der Oberstadt als natürlichen Regenschutz.",
+              "Die Steigungen zur Burg können bei Nässe rutschig sein.",
+              "Die archäologische Sammlung ist montags oft geschlossen, prüfen Sie das.",
+              "Tragen Sie wasserfeste Schuhe für die Küstenabschnitte."
+            ],
+            "hu": [
+              "Használja a felsőváros árkádjait természetes esővédőként.",
+              "A várba vezető emelkedők nedvesen nagyon csúszhatnak.",
+              "Az régészeti gyűjtemény hétfőnként zárva tarthat.",
+              "Vízálló cipő ajánlott a tengerparti szakaszokra."
+            ],
+            "ro": [
+              "Folosiți arcadele din orașul de sus ca adăpost natural.",
+              "Urcările spre castel pot fi foarte alunecoase când sunt ude.",
+              "Colecția arheologică poate fi închisă lunea.",
+              "Purtați încălțăminte impermeabilă pentru zonele de coastă."
+            ],
+            "en": [
+              "Use the arcades in the upper town as natural rain shelter.",
+              "The slopes leading to the castle can be very slippery when wet.",
+              "The archaeological collection might be closed on Mondays.",
+              "Wear waterproof shoes for the coastal sections."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Kyparissia ist frisch und klar. In der Ano Poli genießen Sie die Ruhe ohne Touristenströme. Mittags wärmt die Sonne die Burgmauern, ideal für Fotos. Die archäologische Sammlung bietet nachmittags Kultur in beheizten Räumen. Da die Sonne gegen 17:15 Uhr untergeht, empfiehlt sich ein früher Spaziergang am Sani Beach, gefolgt von einem herzhaften Abendessen im Hafen.",
+            "hu": "A téli reggel friss és tiszta Küparissziában. Az Ano Poli ilyenkor a legcsendesebb, turisták nélkül. Délben a várfalak magukba szívják a téli napfényt, tökéletes az idő a nézelődésre. Délután a gyűjtemény termeiben melegedhetünk fel. Mivel korán, 17:15 körül nyugszik a nap, a tengerparti sétát előrébb hozzuk, majd a kikötőben vacsorázunk.",
+            "ro": "Dimineața de iarnă în Kyparissia este proaspătă și senină. În Ano Poli vă bucurați de liniște totală. La prânz, soarele încălzește zidurile castelului, ideal pentru fotografii. După-amiaza oferă cultură în spațiile muzeului. Deoarece soarele apune pe la 17:15, recomandăm o plimbare timpurie pe plaja Sani, urmată de o cină caldă în port.",
+            "en": "Winter mornings in Kyparissia are crisp and clear. Enjoy the silence of Ano Poli without the crowds. At noon, the low sun warms the castle walls, perfect for sightseeing. The afternoon is best spent in the heated rooms of the archaeological collection. With sunset around 17:15, have an early stroll at Sani Beach before a hearty dinner by the harbor."
+          },
+          "stops": [
+            {
+              "name": "Old Town (Ano Poli)",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den Wind in den Gassen.",
+                "hu": "Meleg öltözet ajánlott a szűk utcákban fújó szél ellen.",
+                "ro": "Haine groase pentru vântul de pe străduțe.",
+                "en": "Warm layers recommended for the wind in the alleys."
+              }
+            },
+            {
+              "name": "Castle of Kyparissia",
+              "tip_5lang": {
+                "de": "Hervorragende Fernsicht bei klarer Winterluft.",
+                "hu": "Kiváló kilátás a tiszta téli levegőben.",
+                "ro": "Vizibilitate excelentă datorită aerului curat de iarnă.",
+                "en": "Excellent long-distance views in the clear winter air."
+              }
+            },
+            {
+              "name": "Agia Triada Church",
+              "tip_5lang": {
+                "de": "Besuch am Vormittag für schönes Lichtspiel.",
+                "hu": "Délelőtti látogatás a szép fények miatt.",
+                "ro": "Vizită de dimineață pentru jocul de lumini.",
+                "en": "Visit in the morning for the beautiful light."
+              }
+            },
+            {
+              "name": "Archaeological Collection",
+              "tip_5lang": {
+                "de": "Angenehm temperierter Rückzugsort.",
+                "hu": "Kellemes hőmérsékletű kulturális pihenő.",
+                "ro": "Un refugiu cultural cu temperatură plăcută.",
+                "en": "Pleasantly tempered cultural retreat."
+              }
+            },
+            {
+              "name": "Port of Kyparissia",
+              "tip_5lang": {
+                "de": "Mittagssonne am Kai genießen.",
+                "hu": "Élvezze a déli napsütést a rakparton.",
+                "ro": "Bucurați-vă de soarele de prânz pe chei.",
+                "en": "Enjoy the midday sun on the quay."
+              }
+            },
+            {
+              "name": "Dragon Fountain",
+              "tip_5lang": {
+                "de": "Das Wasser ist im Winter besonders erfrischend.",
+                "hu": "A víz télen különösen frissítő.",
+                "ro": "Apa este deosebit de răcoritoare iarna.",
+                "en": "The water is especially refreshing in winter."
+              }
+            },
+            {
+              "name": "Sani Beach",
+              "tip_5lang": {
+                "de": "Ideal für einen zügigen Winterspaziergang.",
+                "hu": "Ideális egy tempós téli sétához.",
+                "ro": "Ideal pentru o plimbare rapidă de iarnă.",
+                "en": "Ideal for a brisk winter stroll."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie den Strandbesuch vor 17:00 Uhr ein.",
+              "Die Burg ist im Winter oft früher geschlossen (ca. 15:30).",
+              "Tragen Sie Zwiebel-Look, da es im Schatten kühl wird.",
+              "Probieren Sie lokale Winterspezialitäten in den Tavernen."
+            ],
+            "hu": [
+              "A strandlátogatást tervezze 17:00 előttre.",
+              "A vár télen gyakran korábban zár (kb. 15:30).",
+              "Réteges öltözködés javasolt, árnyékban hűvös van.",
+              "Kóstolja meg a helyi téli ételeket a tavernákban."
+            ],
+            "ro": [
+              "Planificați vizita la plajă înainte de ora 17:00.",
+              "Castelul se închide adesea mai devreme iarna (aprox. 15:30).",
+              "Îmbrăcați-vă stratificat, e răcoare la umbră.",
+              "Gustați specialitățile locale de iarnă în taverne."
+            ],
+            "en": [
+              "Schedule the beach visit before 17:00.",
+              "The castle often closes earlier in winter (around 15:30).",
+              "Dress in layers as it gets chilly in the shade.",
+              "Try local winter specialties in the tavernas."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -733,6 +933,188 @@
           "Bring a bottle of water in a bottle cage.",
           "A small bike bag is useful for a towel and snacks."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir am Bahnhof; Vorsicht bei den Schienen. Die Fahrt zur Ano Poli erfordert gute Bremsen auf nassem Asphalt. Den Mittag verbringen wir im Schutz der Burgmauern oder Kirchen. Nachmittags radeln wir vorsichtig zum Hafen, wo die Meeresbrise den Regen peitscht. Den Tag beenden wir mit einer kurzen, nassen Fahrt entlang der Küste, bevor wir uns ins Trockene retten.",
+            "hu": "Esőben is a vasútállomásról indulunk, de vigyázunk a csúszós sínekre. Az Ano Poliba vezető út jó fékeket igényel a nedves aszfalton. A delet a vár vagy a templomok védelmében töltjük. Délután óvatosan legurulunk a kikötőbe, ahol a tengeri szél korbácsolja az esőt. A napot egy rövid, vizes parti tekeréssel zárjuk, mielőtt száraz helyre vonulnánk.",
+            "ro": "Pornim de la gară în ciuda ploii; atenție la șinele umede. Drumul spre Ano Poli necesită frâne bune pe asfaltul ud. Prânzul îl petrecem la adăpostul zidurilor castelului. După-amiaza pedalăm cu grijă spre port, unde briza biciuiește ploaia. Încheiem ziua cu o tură scurtă pe coastă înainte de a ne refugia la căldură.",
+            "en": "We start at the station despite the rain; watch out for wet rails. The ride to Ano Poli requires good brakes on slick asphalt. Spend noon under the shelter of the castle or churches. In the afternoon, cycle carefully to the harbor where the sea breeze whips the rain. End the day with a short, wet coastal ride before retreating to a dry spot."
+          },
+          "stops": [
+            {
+              "name": "Historical Railway Station",
+              "tip_5lang": {
+                "de": "Vorsicht beim Überqueren der nassen Gleise.",
+                "hu": "Vigyázat a nedves síneken való átkeléskor.",
+                "ro": "Atenție la traversarea șinelor umede.",
+                "en": "Use caution when crossing wet tracks."
+              }
+            },
+            {
+              "name": "Old Town (Ano Poli)",
+              "tip_5lang": {
+                "de": "Starke Steigung auf rutschigem Untergrund.",
+                "hu": "Meredek emelkedő csúszós felületen.",
+                "ro": "Urcare abruptă pe suprafață alunecoasă.",
+                "en": "Steep climb on a slippery surface."
+              }
+            },
+            {
+              "name": "Castle of Kyparissia",
+              "tip_5lang": {
+                "de": "Fahrrad sicher und trocken abstellen.",
+                "hu": "Parkolja a biciklit száraz, biztonságos helyre.",
+                "ro": "Parcați bicicleta într-un loc sigur și uscat.",
+                "en": "Park your bike in a safe, dry spot."
+              }
+            },
+            {
+              "name": "Port of Kyparissia",
+              "tip_5lang": {
+                "de": "Bremsweg auf dem nassen Kai beachten.",
+                "hu": "Számoljon a hosszabb fékúttal a vizes rakparton.",
+                "ro": "Atenție la distanța de frânare pe cheiul ud.",
+                "en": "Watch your braking distance on the wet quay."
+              }
+            },
+            {
+              "name": "Sani Beach",
+              "tip_5lang": {
+                "de": "Radweg kann teilweise überflutet sein.",
+                "hu": "A kerékpárút helyenként víz alatt lehet.",
+                "ro": "Pista de biciclete poate fi parțial inundată.",
+                "en": "The bike path might be partially flooded."
+              }
+            },
+            {
+              "name": "Coastal ride for sunset",
+              "tip_5lang": {
+                "de": "Sichtbarkeit durch Licht und Kleidung erhöhen.",
+                "hu": "Növelje a láthatóságot lámpákkal és ruházattal.",
+                "ro": "Măriți vizibilitatea cu lumini și haine reflectorizante.",
+                "en": "Increase visibility with lights and reflective gear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsbeläge vor der Abfahrt.",
+              "Vermeiden Sie plötzliches Bremsen auf Kopfsteinpflaster.",
+              "Wasserdichte Packtaschen sind unerlässlich.",
+              "Nutzen Sie Schutzbleche, um trocken zu bleiben."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fékbetéteket.",
+              "Kerülje a hirtelen fékezést a macskakövön.",
+              "A vízálló táska elengedhetetlen.",
+              "Használjon sárvédőt, hogy szárazabb maradjon."
+            ],
+            "ro": [
+              "Verificați plăcuțele de frână înainte de plecare.",
+              "Evitați frânarea bruscă pe pavaj.",
+              "Geantile impermeabile sunt esențiale.",
+              "Folosiți aripi de protecție pentru a rămâne uscat."
+            ],
+            "en": [
+              "Check your brake pads before starting.",
+              "Avoid sudden braking on cobblestones.",
+              "Waterproof panniers are essential.",
+              "Use fenders to stay as dry as possible."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am Bahnhof lädt zur Tour ein. Die Auffahrt zur Ano Poli hält warm. Mittags genießen wir die Sonne an der Burg, bevor wir zügig zum Hafen hinunterfahren. Die kühle Brise am Nachmittag am Sani Beach ist erfrischend. Die Küstenfahrt zum Sonnenuntergang ist das Highlight, aber wir beenden die Tour früh, bevor es frostig wird.",
+            "hu": "Tiszta téli reggel a vasútállomáson, tökéletes a tekeréshez. Az Ano Poliba vezető emelkedő segít bemelegedni. Délben a várnál napozunk, majd gyorsan legurulunk a kikötőbe. A délutáni szél a Sani Beach-en frissítő. A naplemente a parton a csúcspont, de a túrát korán befejezzük a lehűlés előtt.",
+            "ro": "O dimineață senină de iarnă la gară ne invită la drum. Urcarea spre Ano Poli ne ține de cald. La prânz ne bucurăm de soare la castel, apoi coborâm rapid spre port. Briza răcoroasă de după-amiază de la plaja Sani este revigorantă. Tura pe coastă la apus e punctul culminant, dar încheiem devreme.",
+            "en": "A clear winter morning at the station invites a ride. The climb to Ano Poli keeps you warm. At noon, enjoy the sun at the castle before a quick descent to the harbor. The cool afternoon breeze at Sani Beach is refreshing. The coastal sunset ride is the highlight, but we finish early before it gets frosty."
+          },
+          "stops": [
+            {
+              "name": "Historical Railway Station",
+              "tip_5lang": {
+                "de": "Die Luft am Morgen ist hier oft sehr kalt.",
+                "hu": "Reggelente itt gyakran nagyon hideg a levegő.",
+                "ro": "Aerul este adesea foarte rece aici dimineața.",
+                "en": "The air is often very cold here in the morning."
+              }
+            },
+            {
+              "name": "Old Town (Ano Poli)",
+              "tip_5lang": {
+                "de": "Aufwärmen durch den Anstieg.",
+                "hu": "Bemelegedés az emelkedőn.",
+                "ro": "Încălzire prin efortul urcării.",
+                "en": "Warm up during the uphill climb."
+              }
+            },
+            {
+              "name": "Castle of Kyparissia",
+              "tip_5lang": {
+                "de": "Vorsicht vor starkem Wind auf der Anhöhe.",
+                "hu": "Vigyázat az erős széllel a magaslaton.",
+                "ro": "Atenție la vântul puternic de pe deal.",
+                "en": "Watch out for strong winds on the hill."
+              }
+            },
+            {
+              "name": "Port of Kyparissia",
+              "tip_5lang": {
+                "de": "Schnelle Abfahrt, Windschutzweste tragen.",
+                "hu": "Gyors ereszkedés, viseljen szélmellényt.",
+                "ro": "Coborâre rapidă, purtați vestă antivânt.",
+                "en": "Fast descent, wear a windproof vest."
+              }
+            },
+            {
+              "name": "Sani Beach",
+              "tip_5lang": {
+                "de": "Flache Wege, gut für zügiges Tempo.",
+                "hu": "Lapos utak, jók a tempós haladáshoz.",
+                "ro": "Drumuri plate, bune pentru viteză.",
+                "en": "Flat roads, good for maintaining pace."
+              }
+            },
+            {
+              "name": "Coastal ride for sunset",
+              "tip_5lang": {
+                "de": "Spätestens um 17:30 Uhr zurück sein.",
+                "hu": "Legkésőbb 17:30-ra érjen vissza.",
+                "ro": "Întoarceți-vă cel târziu la 17:30.",
+                "en": "Be back by 17:30 at the latest."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe für die Abfahrten.",
+              "Die Sonne blendet im Winter tiefer, Sonnenbrille nutzen.",
+              "Beleuchtung für den frühen Abend prüfen.",
+              "Warme Getränke in Thermosflasche mitnehmen."
+            ],
+            "hu": [
+              "Viseljen kesztyűt a lejtőkhöz.",
+              "A nap télen alacsonyabban süt, használjon napszemüveget.",
+              "Ellenőrizze a világítást a korai sötétedés miatt.",
+              "Vigyen meleg italt termoszban."
+            ],
+            "ro": [
+              "Purtați mănuși pentru coborâri.",
+              "Soarele e mai jos iarna, folosiți ochelari de soare.",
+              "Verificați luminile pentru seara timpurie.",
+              "Luați băuturi calde într-un termos."
+            ],
+            "en": [
+              "Wear gloves for the descents.",
+              "The sun is lower in winter, use sunglasses.",
+              "Check your lights for the early evening.",
+              "Bring warm drinks in a thermos."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1080,6 +1462,188 @@
           "The coastal roads offer great views, but be prepared for tight corners.",
           "A car gives you the flexibility to discover more remote beaches."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute unser bester Schutz. Wir parken direkt an der Burg und erkunden sie in Regenpausen. Die Ano Poli lässt sich mit kurzen Sprints zwischen den historischen Gebäuden erleben. Mittags fahren wir zum Sani Beach, bleiben aber im trockenen Wagen oder in Strandcafés. Den Nachmittag verbringen wir bei einem ausgiebigen Lunch im Hafen, während der Regen gegen die Scheiben peitscht.",
+            "hu": "Az autó ma a legjobb menedékünk. Közvetlenül a várnál parkolunk, és az esőszünetekben nézünk körül. Az Ano Poliban rövid sprintekkel haladunk az épületek között. Délben a Sani Beach-re hajtunk, de a kocsiban vagy a parti kávézókban maradunk. A délutánt egy hosszú ebéddel töltjük a kikötőben, miközben az eső veri az ablakot.",
+            "ro": "Mașina este cel mai bun adăpost astăzi. Parcăm direct la castel și explorăm în pauzele de ploaie. Ano Poli poate fi văzut prin scurte ieșiri între clădiri. La prânz conducem spre plaja Sani, dar rămânem în mașină sau la cafenele. După-amiaza savurăm un prânz lung în port, în timp ce ploaia bate în geam.",
+            "en": "The car is our best shelter today. Park right at the castle and explore during lulls in the rain. Experience Ano Poli with short sprints between historic buildings. At noon, drive to Sani Beach but stay in the dry car or beachfront cafes. Spend the afternoon with a long lunch at the harbor while the rain lashes against the windows."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Castle",
+              "tip_5lang": {
+                "de": "Parkplatz kann bei Starkregen schlammig sein.",
+                "hu": "A parkoló nagy esőben sáros lehet.",
+                "ro": "Parcarea poate fi noroioasă la ploi mari.",
+                "en": "Parking area can get muddy during heavy rain."
+              }
+            },
+            {
+              "name": "Castle of Kyparissia",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Auto zu den Ruinen nutzen.",
+                "hu": "Használja a rövid utat az autótól a romokig.",
+                "ro": "Folosiți distanța scurtă de la mașină la ruine.",
+                "en": "Take advantage of the short walk from the car."
+              }
+            },
+            {
+              "name": "Old Town (Ano Poli)",
+              "tip_5lang": {
+                "de": "Enge Gassen, vorsichtig manövrieren.",
+                "hu": "Szűk utcák, óvatosan manőverezzen.",
+                "ro": "Străzi înguste, manevrați cu atenție.",
+                "en": "Narrow streets, maneuver with caution."
+              }
+            },
+            {
+              "name": "Parking at Sani Beach",
+              "tip_5lang": {
+                "de": "Idealer Aussichtspunkt, um im Auto zu bleiben.",
+                "hu": "Ideális pont, ha a kocsiban maradva nézelődne.",
+                "ro": "Punct de observație ideal pentru a rămâne în mașină.",
+                "en": "Ideal viewpoint to stay inside the car."
+              }
+            },
+            {
+              "name": "Lunch at the Harbor",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor den Tavernen suchen.",
+                "hu": "Keressen parkolót közvetlenül a tavernák előtt.",
+                "ro": "Căutați parcare chiar în fața tavernelor.",
+                "en": "Find parking right in front of the tavernas."
+              }
+            },
+            {
+              "name": "Relaxation at Sani Beach",
+              "tip_5lang": {
+                "de": "Meeresrauschen im trockenen Auto genießen.",
+                "hu": "Élvezze a tengerzúgást a száraz autóból.",
+                "ro": "Ascultați marea din mașina uscată.",
+                "en": "Enjoy the sound of the sea from the dry car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie tiefe Pfützen auf den Küstenstraßen.",
+              "Scheibenbeschlag durch Klimaanlage verhindern.",
+              "Regenschirm griffbereit im Türfach halten.",
+              "Achten Sie auf herabfallende Äste bei Wind."
+            ],
+            "hu": [
+              "Kerülje a mély tócsákat a parti utakon.",
+              "A légkondival előzze meg a szélvédő párásodását.",
+              "Tartsa az esernyőt kéznél az ajtózsebben.",
+              "Szélben figyeljen a lehulló ágakra."
+            ],
+            "ro": [
+              "Evitați bălțile adânci pe drumurile de coastă.",
+              "Preveniți aburirea geamurilor folosind AC.",
+              "Țineți umbrela la îndemână în ușa mașinii.",
+              "Atenție la crengile căzute pe vânt."
+            ],
+            "en": [
+              "Avoid deep puddles on coastal roads.",
+              "Prevent windshield fogging using the A/C.",
+              "Keep an umbrella handy in the door pocket.",
+              "Watch out for falling branches during wind."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterausflug mit dem Auto bietet Flexibilität. Wir starten früh an der Burg, wo die Luft am klarsten ist. Die Fahrt durch die Ano Poli ist im Winter entspannter, da weniger Fußgänger unterwegs sind. Mittags parken wir am Sani Beach für ein Picknick im Auto mit Meerblick. Den Nachmittag verbringen wir gemütlich im Hafen, bevor wir zum frühen Sonnenuntergang an den Strand zurückkehren.",
+            "hu": "A téli autós kirándulás rugalmasságot ad. Korán kezdünk a várnál, ahol a legtisztább a levegő. Az autózás az Ano Poliban télen nyugodtabb a kevesebb gyalogos miatt. Délben a Sani Beach-en parkolunk egy autós piknikre tengeri kilátással. A délutánt a kikötőben töltjük, majd a korai naplementére visszatérünk a partra.",
+            "ro": "O excursie de iarnă cu mașina oferă flexibilitate. Începem devreme la castel. Condusul prin Ano Poli este mai relaxat iarna. La prânz parcăm la plaja Sani pentru un picnic în mașină cu vedere la mare. După-amiaza o petrecem în port, revenind la plajă pentru apusul timpuriu.",
+            "en": "A winter road trip offers great flexibility. Start early at the castle when the air is clearest. Driving through Ano Poli is more relaxed in winter with fewer pedestrians. At noon, park at Sani Beach for a car picnic with sea views. Spend the afternoon by the harbor before returning to the beach for the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Castle",
+              "tip_5lang": {
+                "de": "Sonnigster Platz am Vormittag.",
+                "hu": "A legnaposabb hely délelőtt.",
+                "ro": "Cel mai însorit loc dimineața.",
+                "en": "Sunniest spot in the morning."
+              }
+            },
+            {
+              "name": "Castle of Kyparissia",
+              "tip_5lang": {
+                "de": "Perfekte Sicht auf das verschneite Hinterland.",
+                "hu": "Tökéletes kilátás a havas háttérországra.",
+                "ro": "Vedere perfectă spre munții înzăpeziți din depărtare.",
+                "en": "Perfect view of the snowy hinterland mountains."
+              }
+            },
+            {
+              "name": "Old Town (Ano Poli)",
+              "tip_5lang": {
+                "de": "Wenig Verkehr, einfaches Parken möglich.",
+                "hu": "Kevés forgalom, könnyű parkolás.",
+                "ro": "Trafic redus, parcare ușoară.",
+                "en": "Light traffic, easy parking possible."
+              }
+            },
+            {
+              "name": "Parking at Sani Beach",
+              "tip_5lang": {
+                "de": "Gute Basis für kurze Spaziergänge.",
+                "hu": "Jó bázis rövid sétákhoz.",
+                "ro": "Bază bună pentru plimbări scurte.",
+                "en": "Good base for short walks."
+              }
+            },
+            {
+              "name": "Lunch at the Harbor",
+              "tip_5lang": {
+                "de": "Tavernen sind im Winter gemütlich beheizt.",
+                "hu": "A tavernák télen kellemesen fűtöttek.",
+                "ro": "Tavernele sunt încălzite și primitoare.",
+                "en": "Tavernas are cozily heated in winter."
+              }
+            },
+            {
+              "name": "Relaxation at Sani Beach",
+              "tip_5lang": {
+                "de": "Heizung im Auto für Pausen nutzen.",
+                "hu": "Használja az autó fűtését a pihenőkhöz.",
+                "ro": "Folosiți căldura din mașină pentru pauze.",
+                "en": "Use the car heater during breaks."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutz in der Scheibenwaschanlage prüfen.",
+              "Früher Aufbruch, da das Licht schnell schwindet.",
+              "Parken Sie so, dass Sie die Mittagssonne nutzen.",
+              "Küstennebel am Morgen einplanen."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Induljon korán, mert hamar elfogynak a fények.",
+              "Úgy parkoljon, hogy érje az autót a déli nap.",
+              "Számoljon a reggeli tengeri köddel."
+            ],
+            "ro": [
+              "Verificați antigelul în lichidul de parbriz.",
+              "Porniți devreme, lumina dispare repede.",
+              "Parcați astfel încât să profitați de soarele de prânz.",
+              "Luați în calcul ceața de coastă dimineața."
+            ],
+            "en": [
+              "Check antifreeze in the washer fluid.",
+              "Start early as the light fades quickly.",
+              "Park so you can catch the midday sun.",
+              "Account for coastal fog in the morning."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1427,6 +1991,188 @@
           "A day ticket might be worthwhile if you plan multiple trips.",
           "Be aware of the last bus back, especially in the evening."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus navigieren wir trocken durch Kyparissia. Wir starten in der Ano Poli und nutzen die Wartehäuschen als Schutz. Mittags bringt uns der Bus schnell zum Hafen hinunter. Nach einem gemütlichen Mittagessen im Trockenen fahren wir zum Sani Beach, wobei wir die Zeit in den umliegenden Cafés verbringen, bis der nächste Bus uns zurückbringt.",
+            "hu": "Busszal szárazon navigálunk Küparissziában. Az Ano Poliban kezdünk, a várókat menedékként használva. Délben a busz gyorsan levisz a kikötőbe. Egy kellemes, fedett ebéd után a Sani Beach-re megyünk, ahol a parti kávézókban várjuk meg a következő járatot, elkerülve az elázást.",
+            "ro": "Navigăm prin Kyparissia feriți de ploaie cu autobuzul. Începem în Ano Poli, folosind stațiile ca adăpost. La prânz, autobuzul ne duce rapid în port. După un prânz cald, mergem spre plaja Sani, petrecând timpul în cafenele până la următorul autobuz.",
+            "en": "Navigate dryly through Kyparissia by bus. Start in Ano Poli using bus shelters for cover. At noon, the bus takes us quickly down to the harbor. After a cozy indoor lunch, head to Sani Beach, spending time in nearby cafes until the next bus returns."
+          },
+          "stops": [
+            {
+              "name": "Ano Poli Bus Stop",
+              "tip_5lang": {
+                "de": "Überdachtes Wartehäuschen vorhanden.",
+                "hu": "Fedett buszváró áll rendelkezésre.",
+                "ro": "Există un adăpost acoperit în stație.",
+                "en": "Covered bus shelter available."
+              }
+            },
+            {
+              "name": "Old Town (Ano Poli)",
+              "tip_5lang": {
+                "de": "Kurze Wege zur Haltestelle einplanen.",
+                "hu": "Tervezzen rövid utat a megállóig.",
+                "ro": "Planificați distanțe scurte până la stație.",
+                "en": "Plan short walks to the bus stop."
+              }
+            },
+            {
+              "name": "Castle of Kyparissia",
+              "tip_5lang": {
+                "de": "Zufußgehen zur Haltestelle bei Regen mühsam.",
+                "hu": "Gyaloglás a megállóig esőben fárasztó.",
+                "ro": "Mersul spre stație pe ploaie e anevoios.",
+                "en": "Walking to the stop in the rain is tedious."
+              }
+            },
+            {
+              "name": "Harbor Bus Stop",
+              "tip_5lang": {
+                "de": "Nahe bei den Tavernen gelegen.",
+                "hu": "Közel található a tavernákhoz.",
+                "ro": "Situată aproape de taverne.",
+                "en": "Located close to the tavernas."
+              }
+            },
+            {
+              "name": "Harbor & Lunch",
+              "tip_5lang": {
+                "de": "Fahrplan für die Rückfahrt im Blick behalten.",
+                "hu": "Figyelje a menetrendet a visszautazáshoz.",
+                "ro": "Urmăriți programul pentru întoarcere.",
+                "en": "Keep an eye on the schedule for the return."
+              }
+            },
+            {
+              "name": "Sani Beach",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Frequenz oft geringer.",
+                "hu": "Nagy esőben a járatok ritkulhatnak.",
+                "ro": "La ploi mari, frecvența poate scădea.",
+                "en": "Frequency might decrease during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "App für Echtzeit-Fahrplan nutzen.",
+              "Kleingeld für Fahrkarten bereithalten.",
+              "Busse können bei Regen Verspätung haben.",
+              "Suchen Sie Haltestellen mit festem Unterstand."
+            ],
+            "hu": [
+              "Használjon appot a valós idejű menetrendhez.",
+              "Legyen kéznél aprópénz a jegyhez.",
+              "Esőben a buszok késhetnek.",
+              "Keressen fedett váróval rendelkező megállókat."
+            ],
+            "ro": [
+              "Folosiți o aplicație pentru orarul în timp real.",
+              "Aveți mărunțiș pregătit pentru bilete.",
+              "Autobuzele pot avea întârzieri pe ploaie.",
+              "Căutați stații cu adăpost fix."
+            ],
+            "en": [
+              "Use an app for real-time bus tracking.",
+              "Have small change ready for tickets.",
+              "Buses may be delayed during rain.",
+              "Look for stops with solid shelters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winterbus ist ein warmer Rückzugsort zwischen den Zielen. Wir starten morgens in der Ano Poli und genießen die Aussicht aus dem Fenster. Mittags bringt uns der Transit zum Hafen, wo wir die Wintersonne genießen. Nachmittags fahren wir zum Sani Beach für einen Strandspaziergang. Da die Busse im Winter seltener fahren, planen wir die Rückfahrt genau vor Sonnenuntergang ein.",
+            "hu": "A téli busz meleg menedék az egyes állomások között. Reggel az Ano Poliban kezdünk, élvezve a kilátást az ablakból. Délben a járat levisz a kikötőbe a téli napsütésbe. Délután a Sani Beach-re megyünk egy tengerparti sétára. Mivel télen ritkább a menetrend, a visszautat pontosan naplemente elé tervezzük.",
+            "ro": "Autobuzul de iarnă este un loc cald între destinații. Începem dimineața în Ano Poli, admirând vederea de pe geam. La prânz, transportul ne duce în port pentru soarele de iarnă. După-amiaza mergem la plaja Sani. Deoarece autobuzele sunt mai rare iarna, planificăm întoarcerea fix înainte de apus.",
+            "en": "The winter bus is a warm retreat between destinations. Start the morning in Ano Poli, enjoying the window views. At noon, transit takes us to the harbor for the winter sun. In the afternoon, head to Sani Beach for a seaside stroll. As buses run less frequently in winter, plan the return journey carefully before sunset."
+          },
+          "stops": [
+            {
+              "name": "Ano Poli Bus Stop",
+              "tip_5lang": {
+                "de": "Windgeschützter Bereich zum Warten.",
+                "hu": "Szélvédett várakozóhely.",
+                "ro": "Zonă protejată de vânt pentru așteptare.",
+                "en": "Wind-protected area for waiting."
+              }
+            },
+            {
+              "name": "Old Town (Ano Poli)",
+              "tip_5lang": {
+                "de": "Busfahrt spart den kalten Aufstieg.",
+                "hu": "A buszoztatás megspórolja a hideg emelkedőt.",
+                "ro": "Călătoria cu autobuzul vă scutește de urcarea rece.",
+                "en": "The bus ride saves you from the cold uphill climb."
+              }
+            },
+            {
+              "name": "Castle of Kyparissia",
+              "tip_5lang": {
+                "de": "Tiefstehende Sonne beim Warten beachten.",
+                "hu": "Figyeljen az alacsonyan járó napra várakozáskor.",
+                "ro": "Atenție la soarele jos în timp ce așteptați.",
+                "en": "Mind the low sun while waiting."
+              }
+            },
+            {
+              "name": "Harbor Bus Stop",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es warme Cafés.",
+                "hu": "A közelben fűtött kávézók találhatók.",
+                "ro": "Există cafenele încălzite în apropiere.",
+                "en": "There are warm cafes nearby."
+              }
+            },
+            {
+              "name": "Harbor & Lunch",
+              "tip_5lang": {
+                "de": "Winterfahrplan gilt ab November.",
+                "hu": "A téli menetrend novembertől érvényes.",
+                "ro": "Mersul trenurilor de iarnă e valabil din noiembrie.",
+                "en": "The winter schedule applies from November."
+              }
+            },
+            {
+              "name": "Sani Beach",
+              "tip_5lang": {
+                "de": "Letzten Bus vor der Dunkelheit nehmen.",
+                "hu": "Szálljon fel az utolsó buszra sötétedés előtt.",
+                "ro": "Luați ultimul autobuz înainte de lăsarea întunericului.",
+                "en": "Take the last bus before dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrplan weicht stark vom Sommer ab.",
+              "Busse sind im Winter oft besser beheizt.",
+              "Haltestellen sind im Winter weniger beleuchtet.",
+              "Kombinieren Sie Busfahrt mit kurzen Sprints."
+            ],
+            "hu": [
+              "A téli menetrend jelentősen eltér a nyáritól.",
+              "A buszok télen gyakran jobban fűtöttek.",
+              "A megállók télen kevésbé kivilágítottak.",
+              "Kombinálja a buszozást rövid sétákkal."
+            ],
+            "ro": [
+              "Orarul de iarnă diferă mult de cel de vară.",
+              "Autobuzele sunt adesea bine încălzite iarna.",
+              "Stațiile sunt mai puțin iluminate iarna.",
+              "Combinați mersul cu autobuzul cu plimbări scurte."
+            ],
+            "en": [
+              "Winter schedule differs significantly from summer.",
+              "Buses are often well-heated in winter.",
+              "Bus stops are less illuminated in winter.",
+              "Combine bus rides with short brisk walks."
+            ]
+          }
+        }
       }
     }
   }

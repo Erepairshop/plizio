@@ -266,6 +266,178 @@
           "Bring water and snacks, as food options may be limited.",
           "Respect the silence and rules at the religious sites."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Kloster Pângărați einen trockenen Rückzugsort voller Spiritualität. Mittags führt der Weg zum Viadukt, wo der Regen den Wald in tiefes Grün taucht. Am Nachmittag wandern wir am nebligen Seeufer entlang bis zum imposanten Damm. Den Tag beenden wir mit dem beruhigenden Geräusch des Regens auf der Wasseroberfläche, während die Dämmerung über dem Bistrița-Tal einsetzt.",
+            "hu": "Reggel a Pângărați kolostor belső tereiben kezdünk, ahol a falak védenek az égi áldástól. Délben a viadukthoz sétálunk, miközben a köd titokzatosan üli meg a környező fenyveseket. Délután a tóparti ösvényen haladunk a gát felé, élvezve a természet eső utáni illatát. Az estét a víztározó morajlása és a felhők közé bújó hegycsúcsok látványa zárja Pangrati határában.",
+            "ro": "Dimineața începe la Mănăstirea Pângărați, unde interiorul pictat oferă adăpost împotriva ploii. La prânz, mergem spre viaduct, observând cum ceața se ridică peste valea Bistriței. După-amiaza este dedicată malului lacului și barajului, într-o atmosferă mistică creată de picăturile de apă. Seara se așterne peste satul ud, oferind un peisaj liniștit și melancolic sub norii grei de munte.",
+            "en": "Morning starts at Pângărați Monastery, where the thick walls provide a dry sanctuary. By noon, we walk to the viaduct as mist clings to the forested slopes. In the afternoon, the lake shore and the dam offer a moody, atmospheric landscape under the rainfall. We conclude the day as twilight falls over the dampened valley, with the sound of the water echoing through the mountains."
+          },
+          "stops": [
+            {
+              "name": "Pângărați Monastery",
+              "tip_5lang": {
+                "de": "Verbringen Sie mehr Zeit im Inneren, um dem Regen zu entgehen.",
+                "hu": "Töltsön több időt a templombelsőben, hogy elkerülje az esőt.",
+                "ro": "Petreceți mai mult timp în interiorul bisericii pentru a evita ploaia.",
+                "en": "Spend more time inside the church to stay dry from the rain."
+              }
+            },
+            {
+              "name": "Saint Demetrius Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zwischen den Gebäuden reicht aus.",
+                "hu": "Egy gyors sprint az épületek között elég a szárazon maradáshoz.",
+                "ro": "Un sprint scurt între clădiri este suficient pentru a rămâne uscat.",
+                "en": "A short sprint between buildings is enough to stay dry."
+              }
+            },
+            {
+              "name": "Pângărați Viaduct",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem Asphalt auf dem Gehweg.",
+                "hu": "Vigyázat, az aszfalt a járdán csúszós lehet az esőben.",
+                "ro": "Atenție la asfaltul alunecos de pe trotuar.",
+                "en": "Caution: the asphalt on the walkway can be slippery."
+              }
+            },
+            {
+              "name": "Pângărați Lake Shore",
+              "tip_5lang": {
+                "de": "Der Boden kann schlammig sein; feste Wanderschuhe tragen.",
+                "hu": "A talaj sáros lehet; viseljen strapabíró túrabakancsot.",
+                "ro": "Terenul poate fi noroios; purtați bocanci de munte rezistenți.",
+                "en": "The ground may be muddy; wear sturdy hiking boots."
+              }
+            },
+            {
+              "name": "Pângărați Dam",
+              "tip_5lang": {
+                "de": "Die Brise am Damm kann den Regen peitschend machen.",
+                "hu": "A gátnál a szél felerősítheti az eső pezsgését.",
+                "ro": "Vântul de la baraj poate face ploaia mai tăioasă.",
+                "en": "The breeze at the dam can make the rain feel more intense."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein großer Regenschirm ist bei den weiten Wegen am See unerlässlich.",
+              "Tragen Sie wasserfeste Wanderschuhe wegen der unbefestigten Wege.",
+              "Die Klöster bieten den besten Schutz bei plötzlichen Güssen.",
+              "Planen Sie Pausen in den kleinen lokalen Läden ein.",
+              "Der Nebel am See bietet großartige Fotomotive für stimmungsvolle Bilder."
+            ],
+            "hu": [
+              "A tóparti hosszú sétákhoz elengedhetetlen egy nagyméretű esernyő.",
+              "Viseljen vízálló túrabakancsot a kiépítetlen ösvények miatt.",
+              "A kolostorok nyújtják a legjobb védelmet hirtelen zápor esetén.",
+              "Iktasson be pihenőket a helyi kisboltokban.",
+              "A tavi köd kiváló fotótéma a hangulatos tájképekhez."
+            ],
+            "ro": [
+              "O umbrelă mare este esențială pentru plimbările lungi de pe malul lacului.",
+              "Purtați încălțăminte impermeabilă din cauza potecilor neamenajate.",
+              "Mănăstirile oferă cel mai bun adăpost în caz de averse bruște.",
+              "Planificați pauze în micile magazine locale din sat.",
+              "Ceața de pe lac oferă oportunități foto excelente pentru imagini deosebite."
+            ],
+            "en": [
+              "A large umbrella is essential for the long walks by the lake.",
+              "Wear waterproof hiking boots due to the unpaved paths.",
+              "The monasteries provide the best shelter during sudden downpours.",
+              "Plan breaks in small local shops along the main road.",
+              "The lake mist offers great photo opportunities for atmospheric shots."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen im verschneiten Pângărați beginnt mit der Stille am Kloster, wo der Frost die Dächer ziert. Mittags wandern wir über das Viadukt mit Blick auf die eisigen Wälder des Tarcău-Gebirges. Am Nachmittag glitzert der teilweise zugefrorene See in der tiefstehenden Wintersonne. Bevor die Dunkelheit gegen 16:30 Uhr einbricht, werfen wir einen letzten Blick auf den frostigen Damm.",
+            "hu": "A reggel a hófödte Pângărați kolostornál indul, ahol a dér díszíti az ősi falakat. Délben a viadukton kelünk át, csodálva a Tarcău-hegység fagyos erdőit. Délután a részben befagyott tó vize csillog a korán lemenő téli napfényben. Mielőtt fél ötkor leszállna az éj, még vetünk egy pillantást a zúzmarás gát monumentális építményére.",
+            "ro": "Dimineața în Pângărațiul înzăpezit începe cu liniștea de la mănăstire, unde chiciura împodobește acoperișurile. La prânz traversăm viaductul cu vedere spre pădurile înghețate ale Munților Tarcău. După-amiaza, lacul parțial înghețat strălucește sub soarele palid de iarnă. Înainte ca întunericul să se lase în jur de 16:30, aruncăm o ultimă privire spre barajul acoperit de gheață.",
+            "en": "Morning in snowy Pângărați begins with silence at the monastery, where frost decorates the roofs. By noon, we cross the viaduct overlooking the frozen forests of the Tarcău Mountains. In the afternoon, the partially frozen lake glitters under the low winter sun. Before darkness falls around 16:30, we take a final look at the frosty dam structure."
+          },
+          "stops": [
+            {
+              "name": "Pângărați Monastery",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stufen in den Klosterhöfen.",
+                "hu": "Vigyázzon a jeges lépcsőkkel a kolostor udvarán.",
+                "ro": "Atenție la treptele înghețate din curtea mănăstirii.",
+                "en": "Watch out for icy steps in the monastery courtyards."
+              }
+            },
+            {
+              "name": "Saint Demetrius Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme der brennenden Kerzen im Inneren.",
+                "hu": "Élvezze a benti égő gyertyák árasztotta meleget.",
+                "ro": "Bucurați-vă de căldura lumânărilor aprinse în interior.",
+                "en": "Enjoy the warmth of the burning candles inside."
+              }
+            },
+            {
+              "name": "Pângărați Viaduct",
+              "tip_5lang": {
+                "de": "Der Wind auf der Brücke kann extrem kalt sein.",
+                "hu": "A szél a viadukton rendkívül hideg lehet.",
+                "ro": "Vântul de pe viaduct poate fi extrem de rece.",
+                "en": "The wind on the viaduct can be extremely cold."
+              }
+            },
+            {
+              "name": "Pângărați Lake Shore",
+              "tip_5lang": {
+                "de": "Betreten Sie niemals das Eis auf dem See.",
+                "hu": "Soha ne lépjen a tó jegére, bármilyen vastagnak tűnik.",
+                "ro": "Nu călcați niciodată pe gheața de pe lac.",
+                "en": "Never step onto the ice on the lake."
+              }
+            },
+            {
+              "name": "Pângărați Dam",
+              "tip_5lang": {
+                "de": "Gegen 16:00 Uhr ist hier bereits Dämmerung.",
+                "hu": "Délután 4 óra körül itt már szürkület van.",
+                "ro": "În jur de ora 16:00, aici este deja amurg.",
+                "en": "By 16:00, twilight is already setting in here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Unterwäsche, da es am See sehr windig ist.",
+              "Die Sonne geht im Tal bereits vor 17:00 Uhr unter.",
+              "Nehmen Sie eine Thermoskanne mit heißem Tee für die Wanderung mit.",
+              "Vermeiden Sie Waldwege bei schwerem Schneefall wegen Astbruchgefahr.",
+              "Wollmütze und Handschuhe sind wegen der Bergbrise Pflicht."
+            ],
+            "hu": [
+              "Viseljen hőtartó aláöltözetet, mert a tóparton felerősödik a szél.",
+              "A nap a völgyben már délután 5 előtt eltűnik a hegyek mögött.",
+              "Vigyen magával termoszban forró teát a sétához.",
+              "Erős havazáskor kerülje az erdei utakat a hónyomás miatti ágtörések miatt.",
+              "A gyapjúsapka és kesztyű kötelező a hegyi szél miatt."
+            ],
+            "ro": [
+              "Purtați haine termice, deoarece pe malul lacului vântul este tăios.",
+              "Soarele apune în vale înainte de ora 17:00.",
+              "Luați un termos cu ceai fierbinte pentru plimbare.",
+              "Evitați potecile prin pădure în caz de ninsoare abundentă.",
+              "Căciula și mănușile sunt obligatorii din cauza brizei montane."
+            ],
+            "en": [
+              "Wear thermal layers as it gets very windy by the lake shore.",
+              "The sun sets behind the mountains before 17:00 in the valley.",
+              "Bring a thermos with hot tea for your winter walk.",
+              "Avoid forest paths during heavy snowfall due to falling branches.",
+              "A wool hat and gloves are mandatory because of the mountain breeze."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -550,6 +722,196 @@
           "The roads can be narrow, so ride defensively.",
           "Carry a puncture repair kit."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radtag startet am Kloster, wobei der Asphalt im Regen glänzt. Mittags radeln wir über das nasse Viadukt zum Damm, während Spritzwasser die Fahrt begleitet. Nach einer stärkenden Pause am Seeufer geht es zum Kulturhaus und weiter zum Eibenreservat, wo der Waldregen eine herrliche Frische verströmt. Ein sportlicher Tag endet mit der Rückkehr durch das kühle, feuchte Tal.",
+            "hu": "A kerékpáros nap a kolostornál indul, az esőben csillogó aszfalton. Délben a vizes viadukton át tekerünk a gátig, miközben a kerekek felverik a vizet. Egy tóparti ebédszünet után a kultúrház érintésével a Tiszafa-rezervátum felé vesszük az irányt, ahol az erdei eső illata kísér. A sportos nap a hűvös, párás völgyben zárul.",
+            "ro": "Ziua pe bicicletă începe la mănăstire, cu asfaltul strălucind sub ploaie. La prânz pedalăm peste viaductul ud spre baraj, înfruntând stropii de apă. După un prânz revigorant pe malul lacului, continuăm spre Casa de Cultură și Rezervația de Tisă, unde ploaia de pădure emană o prospețime incredibilă. O zi sportivă se încheie cu întoarcerea prin valea răcoroasă.",
+            "en": "The cycling day kicks off at the monastery with wet pavement glistening. By noon, we pedal across the viaduct to the dam, braving the spray from the wheels. After a refreshing lunch by the lake, we head to the Cultural House and the Yew Tree Reservation, where the forest rain creates a wonderful freshness. A sporty day ends with a ride back through the cool, misty valley."
+          },
+          "stops": [
+            {
+              "name": "Pângărați Monastery",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Vordach am Eingang.",
+                "hu": "Parkolja le kerékpárját a bejárat melletti előtető alatt.",
+                "ro": "Parcați bicicleta sub copertina de la intrare.",
+                "en": "Park your bike under the overhang at the entrance."
+              }
+            },
+            {
+              "name": "Pângărați Viaduct",
+              "tip_5lang": {
+                "de": "Vermeiden Sie plötzliches Bremsen auf nassem Metall.",
+                "hu": "Kerülje a hirtelen fékezést a nedves fémfelületeken.",
+                "ro": "Evitați frânarea bruscă pe suprafețele metalice ude.",
+                "en": "Avoid sudden braking on wet metal surfaces."
+              }
+            },
+            {
+              "name": "Pângărați Dam",
+              "tip_5lang": {
+                "de": "Starker Seitenwind kann das Radfahren hier erschweren.",
+                "hu": "Az erős oldalszél nehezítheti itt a kerékpározást.",
+                "ro": "Vântul lateral puternic poate îngreuna pedalarea aici.",
+                "en": "Strong crosswinds can make cycling difficult here."
+              }
+            },
+            {
+              "name": "Lunch at Pângărați Lake",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit überdachtem Stellplatz.",
+                "hu": "Keressen fedett tárolóval rendelkező éttermet.",
+                "ro": "Căutați un restaurant cu rastel acoperit.",
+                "en": "Look for a restaurant with covered bike storage."
+              }
+            },
+            {
+              "name": "Cultural House",
+              "tip_5lang": {
+                "de": "Guter Ort, um die Regenkleidung kurz auszuschütteln.",
+                "hu": "Jó hely az esőruházat rövid lerázására.",
+                "ro": "Loc bun pentru a scutura puțin hainele de ploaie.",
+                "en": "Good place to briefly shake off your rain gear."
+              }
+            },
+            {
+              "name": "Yew Tree Reservation",
+              "tip_5lang": {
+                "de": "Die Waldwege sind schlammig; Vorsicht in den Kurven.",
+                "hu": "Az erdei utak sárosak; óvatosan a kanyarokban.",
+                "ro": "Potecile din pădure sunt noroioase; atenție la curbe.",
+                "en": "Forest paths are muddy; be careful in the corners."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung und Schutzbleche sind heute Pflicht.",
+              "Achten Sie auf Schlaglöcher, die durch Pfützen verdeckt sind.",
+              "Die DN15 ist bei Regen für Radfahrer wegen der Gischt gefährlich.",
+              "Planen Sie mehr Zeit für die Bremswege ein.",
+              "Wasserdichte Packtaschen schützen Ihre Kamera und Wechselkleidung."
+            ],
+            "hu": [
+              "A teljes esőruházat és a sárvédő ma kötelező kiegészítő.",
+              "Ügyeljen a tócsák által eltakart kátyúkra az utakon.",
+              "A DN15 út esőben veszélyes lehet a teherautók felcsapó vize miatt.",
+              "Hagyjon hosszabb időt a fékezéshez a csúszós úton.",
+              "Vízálló táskákban tartsa a fényképezőgépet és a váltóruhát."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie și apărătorile sunt obligatorii astăzi.",
+              "Atenție la gropile acoperite de bălți pe drumurile secundare.",
+              "DN15 este periculos pe ploaie din cauza jeturilor de apă de la camioane.",
+              "Calculați o distanță mai mare de frânare pe asfaltul ud.",
+              "Folosiți genți impermeabile pentru aparatul foto și hainele de schimb."
+            ],
+            "en": [
+              "Full rain gear and mudguards are mandatory today.",
+              "Watch out for potholes hidden by puddles on the side roads.",
+              "The DN15 road is hazardous in rain due to spray from trucks.",
+              "Allow extra time and distance for braking on wet surfaces.",
+              "Use waterproof panniers to protect your camera and spare clothes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch Pângărați erfordert Mut und warme Kleidung. Am Morgen besuchen wir das Kloster inmitten weißer Pracht. Mittags kämpfen wir gegen den kalten Wind am Viadukt und Damm. Nach einem heißen Mittagessen am See geht es zum Kulturhaus und zum stillen Eibenreservat. Der Tag endet früh, wenn der Frost die Finger bei der Heimfahrt erstarren lässt.",
+            "hu": "A téli kerékpározás Pângărați környékén bátorságot és meleg ruhát igényel. Reggel a kolostort látogatjuk meg a fehér tájban. Délben a hideg széllel küzdünk a viadukton és a gátnál. Egy forró ebéd után a tóparton a kultúrház és a néma Tiszafa-rezervátum következik. A nap korán véget ér, ahogy a fagy rácsíp az ujjainkra a hazafelé úton.",
+            "ro": "O tură de iarnă cu bicicleta prin Pângărați necesită curaj și haine groase. Dimineața vizităm mănăstirea în mijlocul peisajului alb. La prânz ne luptăm cu vântul tăios pe viaduct și la baraj. După un prânz fierbinte lângă lac, urmează Casa de Cultură și liniștea Rezervației de Tisă. Ziua se termină devreme, când gerul începe să se simtă la degete.",
+            "en": "A winter bike tour through Pângărați demands courage and warm layers. In the morning, we visit the monastery amidst the white scenery. At noon, we battle the cold wind at the viaduct and dam. After a hot lunch by the lake, we visit the Cultural House and the silent Yew Tree Reservation. The day ends early as the frost bites during the ride home."
+          },
+          "stops": [
+            {
+              "name": "Pângărați Monastery",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Schneematsch am Parkplatz.",
+                "hu": "Vigyázzon a fagyott kásás hóra a parkolónál.",
+                "ro": "Atenție la mătloaca înghețată din parcare.",
+                "en": "Watch out for frozen slush in the parking area."
+              }
+            },
+            {
+              "name": "Pângărați Viaduct",
+              "tip_5lang": {
+                "de": "Die Fahrbahn kann extrem glatt sein; nicht in die Kurve legen.",
+                "hu": "Az úttest rendkívül csúszós lehet; ne dőljön bele a kanyarba.",
+                "ro": "Carosabilul poate fi extrem de alunecos; nu vă înclinați în curbe.",
+                "en": "The road surface can be extremely slick; don't lean into turns."
+              }
+            },
+            {
+              "name": "Pângărați Dam",
+              "tip_5lang": {
+                "de": "Der Windchill-Effekt ist hier besonders stark.",
+                "hu": "A szél hidegérzete itt különösen erős.",
+                "ro": "Efectul de windchill este deosebit de puternic aici.",
+                "en": "The wind chill effect is particularly strong here."
+              }
+            },
+            {
+              "name": "Lunch at Pângărați Lake",
+              "tip_5lang": {
+                "de": "Bestellen Sie eine heiße Suppe (Ciorbă), um aufzutauen.",
+                "hu": "Rendeljen egy forró csorbát a felmelegedéshez.",
+                "ro": "Comandați o ciorbă fierbinte pentru a vă încălzi.",
+                "en": "Order a hot soup (Ciorbă) to warm up."
+              }
+            },
+            {
+              "name": "Cultural House",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause im Windschatten des Gebäudes.",
+                "hu": "Rövid melegedő szünet az épület szélvédett oldalán.",
+                "ro": "Scurtă pauză de încălzire la adăpostul clădirii.",
+                "en": "Short warm-up break in the lee of the building."
+              }
+            },
+            {
+              "name": "Yew Tree Reservation",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad, falls der Weg zu tief verschneit ist.",
+                "hu": "Tolja a kerékpárt, ha az út túl mélyen havas.",
+                "ro": "Împingeți bicicleta dacă poteca este prea înzăpezită.",
+                "en": "Push your bike if the path is too deeply covered in snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen oder Spikes sind für diese Bergregion ratsam.",
+              "Vermeiden Sie Fahrten nach Einbruch der Dunkelheit (ab 16:30 Uhr).",
+              "Schützen Sie Ihr Gesicht mit einer Sturmhaube oder Fettcreme.",
+              "Akkus von E-Bikes entladen sich bei Kälte deutlich schneller.",
+              "Die Hauptstraße DN15 wird geräumt, Nebenwege oft nicht."
+            ],
+            "hu": [
+              "A téli gumi vagy szöges gumi ajánlott ebben a hegyvidéki régióban.",
+              "Kerülje a kerékpározást sötétedés után (délután fél 5-től).",
+              "Védje arcát maszkal vagy zsíros krémmel a fagy ellen.",
+              "Az e-bike akkumulátorok sokkal gyorsabban merülnek hidegben.",
+              "A DN15 főutat takarítják, de a mellékutak havasak maradhatnak."
+            ],
+            "ro": [
+              "Cauciucurile de iarnă sunt recomandate în această regiune montană.",
+              "Evitați deplasarea după lăsarea întunericului (după 16:30).",
+              "Protejați-vă fața cu o mască sau cremă grasă împotriva gerului.",
+              "Bateriile bicicletelor electrice se descarcă mult mai repede la frig.",
+              "Drumul DN15 este deszăpezit, dar drumurile secundare pot fi grele."
+            ],
+            "en": [
+              "Winter tires or studs are recommended for this mountain region.",
+              "Avoid riding after dark (from 16:30 onwards).",
+              "Protect your face with a balaclava or heavy cream against frost.",
+              "E-bike batteries drain significantly faster in cold weather.",
+              "The DN15 main road is cleared, but side paths often remain snowy."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -858,6 +1220,214 @@
           "Have enough fuel, as gas stations can be infrequent.",
           "Park only in designated areas to avoid damaging nature."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autofahrt durch das verregnete Pângărați bietet Komfort und tolle Ausblicke auf die nebligen Berge. Vormittags besuchen wir die Klöster, während die Wischer unermüdlich arbeiten. Nach dem Stopp am Damm genießen wir ein Mittagessen mit Seeblick. Der Nachmittag führt uns zu den Tarcău-Aussichtspunkten und dem Eibenreservat, bevor wir im Schutz des Wagens zum Kulturhaus zurückkehren.",
+            "hu": "Az autós túra az esős Pângărați-ban kényelmet és remek kilátást nyújt a ködös hegyekre. Délelőtt a kolostorokat keressük fel, miközben az ablaktörlők ütemesen járnak. A gát megtekintése után egy tóparti ebédet élvezhetünk. Délután a Tarcău-kilátóhoz és a Tiszafa-rezervátumhoz autózunk, majd a kocsi oltalmában térünk vissza a kultúrházhoz.",
+            "ro": "Turul cu mașina prin Pângărațiul ploios oferă confort și vederi superbe spre munții învăluiți în ceață. Dimineața vizităm mănăstirile, în timp ce ștergătoarele lucrează neîncetat. După oprirea la baraj, savurăm prânzul cu vedere la lac. După-amiaza ne poartă spre punctele de belvedere din Munții Tarcău și Rezervația de Tisă, revenind la Casa de Cultură.",
+            "en": "The car tour through rainy Pângărați provides comfort and great views of the misty mountains. In the morning, we visit the monasteries while the wipers work rhythmically. After stopping at the dam, we enjoy lunch with a lake view. The afternoon takes us to the Tarcău viewpoints and the Yew Tree Reservation before returning to the Cultural House in the dry cabin."
+          },
+          "stops": [
+            {
+              "name": "Pângărați Monastery",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Tor, um den Fußweg im Regen zu minimieren.",
+                "hu": "Parkoljon közel a kapuhoz, hogy minimalizálja az esőben gyaloglást.",
+                "ro": "Parcați aproape de poartă pentru a merge cât mai puțin prin ploaie.",
+                "en": "Park close to the gate to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Saint Demetrius Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp direkt vor dem Eingang möglich.",
+                "hu": "Rövid megállás közvetlenül a bejárat előtt lehetséges.",
+                "ro": "Oprire scurtă posibilă chiar în fața intrării.",
+                "en": "A brief stop directly in front of the entrance is possible."
+              }
+            },
+            {
+              "name": "Pângărați Dam",
+              "tip_5lang": {
+                "de": "Gute Sicht vom Auto aus auf die Staumauer.",
+                "hu": "Jó kilátás nyílik az autóból a gát falára.",
+                "ro": "Vedere bună din mașină spre zidul barajului.",
+                "en": "Good view of the dam wall from inside the car."
+              }
+            },
+            {
+              "name": "Lunch at Pângărați Lake",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit befestigtem Parkplatz.",
+                "hu": "Válasszon éttermet kiépített, aszfaltozott parkolóval.",
+                "ro": "Alegeți un restaurant cu parcare asfaltată.",
+                "en": "Choose a restaurant with a paved parking lot."
+              }
+            },
+            {
+              "name": "Tarcău Mountains Viewpoint",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schlaglöcher auf der Auffahrt im Regen.",
+                "hu": "Ügyeljen a kátyúkra a felfelé vezető úton az esőben.",
+                "ro": "Atenție la gropi pe drumul de urcare pe timp de ploaie.",
+                "en": "Watch out for potholes on the uphill road during rain."
+              }
+            },
+            {
+              "name": "Yew Tree Reservation",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann nach starkem Regen schlammig sein.",
+                "hu": "A parkolóhely erős esőzés után sáros lehet.",
+                "ro": "Parcarea poate fi noroioasă după ploi abundente.",
+                "en": "The parking area can be muddy after heavy rain."
+              }
+            },
+            {
+              "name": "Cultural House (Drive-by)",
+              "tip_5lang": {
+                "de": "Ein kurzer Blick aus dem Fenster reicht bei Regen.",
+                "hu": "Esőben egy ablakon keresztüli pillantás is elég.",
+                "ro": "O privire pe geam este suficientă pe timp de ploaie.",
+                "en": "A quick look through the window is enough in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Bergstraßen können bei Starkregen kleine Geröllabgänge haben.",
+              "Nutzen Sie die Nebelscheinwerfer im Bistrița-Tal.",
+              "Vermeiden Sie das Parken auf unbefestigten Banketten.",
+              "Halten Sie die Scheibenheizung bereit, um Beschlagen zu verhindern.",
+              "Die Sicht auf den See ist bei Regen oft mystisch und schön."
+            ],
+            "hu": [
+              "A hegyi utakon heves esőzéskor kisebb kőomlások előfordulhatnak.",
+              "Használja a ködfényszórót a Bistrița-völgyben.",
+              "Kerülje a parkolást a kiépítetlen, puha útpadkán.",
+              "Használja a szélvédőfűtést a párásodás megelőzésére.",
+              "A tó látványa esőben gyakran misztikus és különleges fotótéma."
+            ],
+            "ro": [
+              "Drumurile montane pot avea mici căderi de pietre în caz de ploi torențiale.",
+              "Folosiți proiectoarele de ceață pe Valea Bistriței.",
+              "Evitați parcarea pe acostamente neamenajate și moi.",
+              "Folosiți dezaburirea parbrizului pentru a menține vizibilitatea.",
+              "Lacul oferă un peisaj mistic și frumos chiar și pe ploaie."
+            ],
+            "en": [
+              "Mountain roads may have small rockfalls during heavy rain.",
+              "Use fog lights while driving through the Bistrița Valley.",
+              "Avoid parking on unpaved or soft road shoulders.",
+              "Keep the windshield defroster on to prevent fogging.",
+              "The lake view is often mystical and beautiful in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterfahrt durch Pângărați führt sicher durch die verschneite Landschaft. Vormittags besuchen wir die Klöster im Winterkleid. Mittags geht es zum Damm und einem gemütlichen Mittagessen am See. Der Nachmittag bietet spektakuläre Aussichten auf die Tarcău-Berge und das Eibenreservat, wobei die Sitzheizung den Komfort sichert. Der Tag endet im Kulturhaus, bevor wir die Rückreise im Dunkeln antreten.",
+            "hu": "A téli autós túra Pângărați környékén biztonságosan vezet át a havas tájon. Délelőtt a téli köntösbe öltözött kolostorokat látogatjuk meg. Délben a gáthoz és egy hangulatos tóparti ebédre indulunk. Délután a Tarcău-hegység és a Tiszafa-rezervátum nyújt látványt, miközben az ülésfűtés gondoskodik a kényelemről. A nap a kultúrháznál zárul, mielőtt sötétben hazaindulnánk.",
+            "ro": "Drumul cu mașina prin Pângărațiul de iarnă trece în siguranță prin peisajul înzăpezit. Dimineața vizităm mănăstirile acoperite de zăpadă. La prânz mergem spre baraj și un prânz cald lângă lac. După-amiaza oferă vederi spectaculoase spre Munții Tarcău și Rezervația de Tisă, încălzirea din scaune asigurând confortul. Ziua se termină la Casa de Cultură.",
+            "en": "The winter drive through Pângărați takes you safely through the snowy landscape. In the morning, we visit the monasteries in their winter attire. At noon, we head to the dam and a cozy lunch by the lake. The afternoon offers spectacular views of the Tarcău Mountains and the Yew Tree Reservation, with seat heaters ensuring comfort. The day ends at the Cultural House before heading home."
+          },
+          "stops": [
+            {
+              "name": "Pângărați Monastery",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisplatten auf dem Parkplatz.",
+                "hu": "Vigyázzon a jégfoltokkal a parkolóban.",
+                "ro": "Atenție la petele de gheață din parcare.",
+                "en": "Watch out for ice patches in the parking lot."
+              }
+            },
+            {
+              "name": "Saint Demetrius Church",
+              "tip_5lang": {
+                "de": "Der Motor sollte warm bleiben für die Weiterfahrt.",
+                "hu": "Hagyja melegedni a motort a továbbindulás előtt.",
+                "ro": "Lăsați motorul să se încălzească înainte de plecare.",
+                "en": "Let the engine warm up before moving on."
+              }
+            },
+            {
+              "name": "Pângărați Dam",
+              "tip_5lang": {
+                "de": "Das Auto bietet Schutz vor dem eiskalten Wind am Damm.",
+                "hu": "Az autó védelmet nyújt a gátnál fújó jéghideg szél ellen.",
+                "ro": "Mașina oferă protecție împotriva vântului înghețat de la baraj.",
+                "en": "The car provides shelter from the freezing wind at the dam."
+              }
+            },
+            {
+              "name": "Lunch at Pângărați Lake",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob der Parkplatz geräumt ist.",
+                "hu": "Ellenőrizze, hogy a parkoló le van-e takarítva.",
+                "ro": "Verificați dacă parcarea este deszăpezită.",
+                "en": "Check if the parking lot has been cleared of snow."
+              }
+            },
+            {
+              "name": "Tarcău Mountains Viewpoint",
+              "tip_5lang": {
+                "de": "Auffahrt nur mit Winterreifen und ggf. Schneeketten.",
+                "hu": "Feljutás csak téli gumival, esetleg hólánccal ajánlott.",
+                "ro": "Urcare recomandată doar cu anvelope de iarnă sau lanțuri.",
+                "en": "Uphill drive recommended only with winter tires or chains."
+              }
+            },
+            {
+              "name": "Yew Tree Reservation",
+              "tip_5lang": {
+                "de": "Parken Sie nicht unter schneebeladenen Bäumen.",
+                "hu": "Ne parkoljon hóval terhelt fák alá.",
+                "ro": "Nu parcați sub copaci încărcați de zăpadă.",
+                "en": "Avoid parking under trees heavily weighed down by snow."
+              }
+            },
+            {
+              "name": "Cultural House (Drive-by)",
+              "tip_5lang": {
+                "de": "Bei Glätte bremsen Sie frühzeitig vor der Kurve.",
+                "hu": "Jeges úton fékezzen időben a kanyar előtt.",
+                "ro": "Pe polei, frânați din timp înainte de curbă.",
+                "en": "On icy roads, brake well before the turn."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser Region ab November gesetzlich Pflicht.",
+              "Führen Sie Schneeketten und eine Schaufel im Kofferraum mit.",
+              "Die Bergstraße zum Tarcău-Aussichtspunkt kann unpassierbar sein.",
+              "Planen Sie für Bergabfahrten deutlich mehr Zeit ein.",
+              "Halten Sie den Tank für Notfälle mindestens halbvoll."
+            ],
+            "hu": [
+              "A téli gumi ebben a régióban novembertől kötelező.",
+              "Tartson hóláncot és hólapátot a csomagtartóban.",
+              "A Tarcău-kilátóhoz vezető út néha járhatatlan lehet nagy hóban.",
+              "Hagyjon sokkal több időt a hegyi lejtőkön való ereszkedésre.",
+              "Tartsa az üzemanyagtartályt legalább félig vészhelyzet esetére."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în această regiune.",
+              "Țineți lanțuri și o lopată de zăpadă în portbagaj.",
+              "Drumul spre belvederea Tarcău poate fi impracticabil în caz de ninsoare.",
+              "Calculați mult mai mult timp pentru coborârile pe munte.",
+              "Țineți rezervorul cel puțin pe jumătate plin pentru urgențe."
+            ],
+            "en": [
+              "Winter tires are mandatory in this region starting in November.",
+              "Carry snow chains and a shovel in your trunk.",
+              "The mountain road to the Tarcău viewpoint can be impassable in snow.",
+              "Allow significantly more time for downhill mountain driving.",
+              "Keep your fuel tank at least half full for emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1094,6 +1664,160 @@
           "Have small change ready for bus tickets.",
           "Plan for extra time to account for potential delays."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erkunden wir das verregnete Pângărați ganz entspannt. Am Morgen erreichen wir die Haltestelle am Kloster und besichtigen die spirituellen Stätten im Schutz der Schirme. Mittags nehmen wir den Bus zum Damm, wo wir einen kurzen Spaziergang am nebligen Seeufer wagen. Die Rückfahrt im trockenen Bus lässt uns die Regentropfen am Fenster und die grauen Berggipfel genießen.",
+            "hu": "Busszal kényelmesen fedezhetjük fel az esős Pângărați-t. Reggel a kolostor melletti megállóhoz érkezünk, és ernyők alatt járjuk be a szent helyeket. Délben busszal megyünk a gátig, ahol egy rövid sétát teszünk a ködös tóparton. A száraz buszon ülve élvezhetjük az ablakon lefutó cseppek és a szürke hegycsúcsok látványát a hazaúton.",
+            "ro": "Cu autobuzul explorăm Pângărațiul ploios într-un mod relaxat. Dimineața ajungem la stația de lângă mănăstire și vizităm locurile sfinte sub protecția umbrelelor. La prânz luăm autobuzul spre baraj, unde facem o scurtă plimbare pe malul cețos al lacului. Întoarcerea în autobuzul uscat ne permite să admirăm vârfurile montane gri prin geamul ud.",
+            "en": "By bus, we explore rainy Pângărați in a relaxed way. In the morning, we reach the stop near the monastery and visit the spiritual sites under the protection of umbrellas. At noon, we take the bus to the dam for a short walk along the misty lake shore. The ride back in the dry bus lets us enjoy the raindrops on the window and the gray mountain peaks."
+          },
+          "stops": [
+            {
+              "name": "Pângărați Monastery Bus Stop",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Wartehäuschen, um trocken zu bleiben.",
+                "hu": "Várjon a buszváróban, hogy szárazon maradjon.",
+                "ro": "Așteptați sub copertina stației pentru a rămâne uscat.",
+                "en": "Wait inside the bus shelter to stay dry."
+              }
+            },
+            {
+              "name": "Pângărați Monastery & St. Demetrius Church",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Haltestelle ist kurz aber nass.",
+                "hu": "A gyalogút a megállótól rövid, de vizes.",
+                "ro": "Drumul pe jos de la stație este scurt, dar ud.",
+                "en": "The walk from the stop is short but wet."
+              }
+            },
+            {
+              "name": "Pângărați Dam Bus Stop",
+              "tip_5lang": {
+                "de": "Diese Haltestelle ist dem Wind und Regen stark ausgesetzt.",
+                "hu": "Ez a megálló erősen ki van téve a szélnek és az esőnek.",
+                "ro": "Această stație este foarte expusă la vânt și ploaie.",
+                "en": "This stop is highly exposed to wind and rain."
+              }
+            },
+            {
+              "name": "Walk at Pângărați Lake & Dam",
+              "tip_5lang": {
+                "de": "Vorsicht bei Pfützen auf dem Weg zum Seeufer.",
+                "hu": "Vigyázzon a tócsákkal a tópart felé vezető úton.",
+                "ro": "Atenție la bălțile de pe drumul spre malul lacului.",
+                "en": "Watch out for puddles on the way to the lake shore."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan (Autogara), da Busse im Regen Verspätung haben können.",
+              "Ein Regencape ist praktischer als ein Schirm bei Wind am See.",
+              "Halten Sie Kleingeld für das Ticket beim Fahrer bereit.",
+              "Die Busse sind im Herbst oft gut beheizt und gemütlich.",
+              "Nutzen Sie die App für Echtzeit-Infos, falls verfügbar."
+            ],
+            "hu": [
+              "Ellenőrizze a buszmenetrendet, mert esőben előfordulhatnak késések.",
+              "Az esőköpeny praktikusabb, mint az ernyő a tavi szélben.",
+              "Legyen Önnél aprópénz a jegyhez a sofőrnél.",
+              "A buszok ősszel gyakran jól fűtöttek és barátságosak.",
+              "Használjon menetrendi alkalmazást a valós idejű infókért."
+            ],
+            "ro": [
+              "Verificați mersul autobuzelor, pot apărea întârzieri din cauza ploii.",
+              "O pelerină de ploaie este mai practică decât umbrela la lac.",
+              "Pregătiți bani mărunți pentru biletul cumpărat de la șofer.",
+              "Autobuzele sunt adesea bine încălzite și confortabile toamna.",
+              "Folosiți aplicații de transport pentru info în timp real."
+            ],
+            "en": [
+              "Check the bus schedule as rain can cause slight delays.",
+              "A rain poncho is more practical than an umbrella in the lake wind.",
+              "Keep small change ready for buying tickets from the driver.",
+              "Buses are often well-heated and cozy during autumn rains.",
+              "Use transport apps for real-time updates if available."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Transit-Tag im winterlichen Pângărați erfordert gute Planung. Am Morgen bringt uns der Bus zur verschneiten Kloster-Haltestelle. Nach der Besichtigung der Klöster im Frost fahren wir zum Damm-Stopp weiter. Ein zügiger Spaziergang am winterlichen Seeufer belebt die Sinne, bevor wir uns im warmen Bus auf der Rückfahrt aufwärmen können, während die Wintersonne früh untergeht.",
+            "hu": "A téli tömegközlekedés Pângărați környékén jó tervezést igényel. Reggel a busz a havas kolostor-megállóhoz visz minket. A fagyos szenthelyek megtekintése után a gáthoz utazunk tovább. Egy frissítő séta a téli tóparton felélénkít, mielőtt a meleg buszban felmelegednénk a hazaúton, miközben a téli nap korán nyugovóra tér.",
+            "ro": "Ziua de tranzit în Pângărațiul de iarnă necesită o planificare bună. Dimineața autobuzul ne lasă la stația înzăpezită de lângă mănăstire. După vizitarea locurilor sfinte înghețate, continuăm spre stația de la baraj. O plimbare rapidă pe malul lacului ne înviorează, înainte de a ne încălzi în autobuz la întoarcere.",
+            "en": "Transit day in winter Pângărați requires careful planning. In the morning, the bus drops us at the snowy monastery stop. After visiting the frozen holy sites, we continue to the dam stop. A brisk walk along the winter lake shore is refreshing before warming up in the bus on the way back as the winter sun sets early."
+          },
+          "stops": [
+            {
+              "name": "Pângărați Monastery Bus Stop",
+              "tip_5lang": {
+                "de": "Der Einstiegsbereich kann bei Schneefall rutschig sein.",
+                "hu": "A felszállóhely hóesésben csúszós lehet.",
+                "ro": "Zona de îmbarcare poate fi alunecoasă în caz de ninsoare.",
+                "en": "The boarding area can be slippery during snowfall."
+              }
+            },
+            {
+              "name": "Pângărați Monastery & St. Demetrius Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Überqueren der Straße zur Haltestelle.",
+                "hu": "Vigyázzon az úttesten való átkeléskor a megállóhoz.",
+                "ro": "Atenție la traversarea drumului spre stație.",
+                "en": "Be careful when crossing the road to the bus stop."
+              }
+            },
+            {
+              "name": "Pângărați Dam Bus Stop",
+              "tip_5lang": {
+                "de": "Laufen Sie sich warm, während Sie auf den Bus warten.",
+                "hu": "Mozogjon, hogy melegen tartsa magát a buszra várva.",
+                "ro": "Mișcați-vă pentru a vă menține căldura în timp ce așteptați.",
+                "en": "Keep moving to stay warm while waiting for the bus."
+              }
+            },
+            {
+              "name": "Walk at Pângărați Lake & Dam",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg zur Haltestelle vor Einbruch der Dunkelheit.",
+                "hu": "Tervezze meg a visszautat a megállóba még sötétedés előtt.",
+                "ro": "Plănuiți drumul înapoi la stație înainte de lăsarea serii.",
+                "en": "Plan your walk back to the stop before it gets dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Schneefall erhebliche Verspätungen haben.",
+              "Tragen Sie sehr warme Schuhe für die Wartezeiten an Haltestellen.",
+              "Die letzte Busverbindung ist im Winter oft früher als im Sommer.",
+              "Warten Sie im Klosterladen, falls der Bus noch lange auf sich warten lässt.",
+              "Die Fenster im Bus können beschlagen; Wischvorgang mit Handschuh hilft."
+            ],
+            "hu": [
+              "Erős havazáskor a buszok jelentős késéssel közlekedhetnek.",
+              "Viseljen nagyon meleg lábbelit a megállókban való várakozáshoz.",
+              "Az utolsó buszjárat télen gyakran korábban indul, mint nyáron.",
+              "Várjon a kolostor boltjában, ha a busz még sokat késik.",
+              "A busz ablakai bepárásodhatnak; egy kesztyűs törlés segít a kilátásban."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri mari în caz de ninsoare abundentă.",
+              "Purtați încălțăminte foarte groasă pentru timpul de așteptare în stații.",
+              "Ultima cursă de autobuz este adesea mai devreme iarna.",
+              "Așteptați în magazinul mănăstirii dacă autobuzul întârzie mult.",
+              "Geamurile autobuzului se pot aburi; ștergeți-le pentru a vedea peisajul."
+            ],
+            "en": [
+              "Buses may have significant delays during heavy snowfall.",
+              "Wear very warm footwear for the waiting times at bus stops.",
+              "The last bus service in winter is often earlier than in summer.",
+              "Wait in the monastery shop if the bus is running very late.",
+              "Bus windows can fog up; a quick wipe with a glove helps the view."
+            ]
+          }
+        }
       }
     }
   }

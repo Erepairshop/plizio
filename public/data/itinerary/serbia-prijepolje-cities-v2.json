@@ -356,6 +356,188 @@
           "Try the tap water, it is generally of good quality.",
           "Ask locals for directions, they are usually very helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen im Park der Helden erfordert einen stabilen Schirm. Der Vormittag bietet im Museum von Prijepolje den idealen, trockenen Zufluchtsort vor den Güssen.\n\nMittags bewundern wir den Sahat-kula Turm im Regenmantel, bevor wir in der Ibrahim-Pascha-Moschee Stille und Schutz finden.\n\nNachmittags führt der Weg entlang des Lim-Ufers, wo der Fluss unter grauen Wolken kraftvoll strömt. Das Kloster Mileševa bietet schließlich ein beeindruckendes Innenerlebnis.\n\nDer Abend endet gemütlich in einer lokalen Konditorei bei warmen Baklava, während draußen der Regen gegen die Fenster prasselt.",
+            "hu": "Az esős reggel a Hősök parkjában egy jó esernyőt kíván. A délelőtt folyamán a Prijepolje Múzeum tárlatai nyújtanak tökéletes és száraz menedéket a záporok elől.\n\nDélben a Sahat-kula óratorony tövében állunk meg egy pillanatra, majd az Ibrahim pasa mecset csendes belső terében lelünk nyugalomra.\n\nDélután a Lim folyó partján sétálunk, figyelve a víz sötét áramlását az esőben. A Mileševa-kolostor freskói között fejezzük be a napot.\n\nAz este egy hangulatos belvárosi kávézóban ér minket, ahol a meleg tea mellett hallgatjuk az eső kopogását az ablaküvegen.",
+            "ro": "O dimineață ploioasă în Parcul Eroilor necesită o umbrelă solidă. Muzeul din Prijepolje este refugiul ideal pentru a explora istoria locală la adăpost de stropii de ploaie.\n\nLa prânz, admirăm turnul Sahat-kula sub mantaua de ploaie, apoi intrăm în Moscheea Ibrahim Pașa pentru o pauză de liniște și uscăciune.\n\nDupă-amiaza, plimbarea pe malul râului Lim ne arată forța naturii sub cerul plumburiu. Încheiem vizita la Mănăstirea Mileševa, admirând frescele celebre.\n\nSeara se încheie confortabil într-o cafenea din centru, savurând o băutură caldă în timp ce ploaia continuă să cadă afară.",
+            "en": "A rainy morning in the Park of Heroes calls for a sturdy umbrella. The Museum of Prijepolje offers the perfect dry refuge to explore local history away from the showers.\n\nAt noon, we catch a glimpse of the Sahat-kula clock tower before finding peace and shelter inside the historic Ibrahim Pasha Mosque.\n\nIn the afternoon, the walk along the Lim River reveals the river's power under gray skies. We finish the day inside the Mileševa Monastery.\n\nThe evening concludes cozily in a downtown cafe, enjoying local sweets while listening to the rhythmic rain against the windows."
+          },
+          "stops": [
+            {
+              "name": "Park of Heroes",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den dichten Baumkronen bei plötzlichen Schauern.",
+                "hu": "Hirtelen zápor esetén a sűrű lombkoronák alatt keressen ideiglenes menedéket.",
+                "ro": "Căutați adăpost sub coroanele dese ale copacilor în caz de aversă bruscă.",
+                "en": "Seek temporary shelter under the thick tree canopies during sudden showers."
+              }
+            },
+            {
+              "name": "Museum of Prijepolje",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um die regenreichste Zeit des Tages trocken zu überbrücken.",
+                "hu": "Tökéletes helyszín a nap legesősebb óráinak szárazon történő eltöltéséhez.",
+                "ro": "Locul ideal pentru a petrece cele mai ploioase ore ale zilei la adăpost.",
+                "en": "The perfect location to spend the rainiest hours of the day in the dry."
+              }
+            },
+            {
+              "name": "Sahat-kula (Clock Tower)",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster rund um den Turm, es wird sehr rutschig.",
+                "hu": "Vigyázat, a torony körüli macskaköves burkolat esőben rendkívül csúszóssá válik.",
+                "ro": "Atenție la pavajul din jurul turnului, devine foarte alunecos când este ud.",
+                "en": "Watch your step on the cobblestones around the tower; they get very slippery."
+              }
+            },
+            {
+              "name": "Ibrahim Pasha Mosque",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine längere Pause, während man auf ein Ende des Regens wartet.",
+                "hu": "Csendes helyszín egy hosszabb pihenőhöz, amíg az eső elálltára várunk.",
+                "ro": "Un loc liniștit pentru o pauză lungă în timp ce așteptați oprirea ploii.",
+                "en": "A peaceful spot for a long break while waiting for the rain to stop."
+              }
+            },
+            {
+              "name": "Walk along the Lim River",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche der Uferpromenade für kurze Stopps.",
+                "hu": "Használja a folyóparti sétány fedett részeit a rövid pihenőkhöz.",
+                "ro": "Folosiți zonele acoperite ale falezei pentru scurte pauze de odihnă.",
+                "en": "Use the covered areas along the riverbank promenade for short rests."
+              }
+            },
+            {
+              "name": "Mileševa Monastery",
+              "tip_5lang": {
+                "de": "Die Innenbesichtigung der Fresken ist wetterunabhängig und absolut lohnenswert.",
+                "hu": "A freskók belső megtekintése időjárástól független és lenyűgöző élmény.",
+                "ro": "Vizitarea frescelor din interior nu depinde de vreme și este spectaculoasă.",
+                "en": "Viewing the interior frescoes is weather-independent and truly impressive."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein großer Stockschirm ist bei den Windböen am Fluss besser als ein kleiner.",
+              "Tragen Sie wasserfeste Wanderschuhe für den Weg zum Kloster.",
+              "Das Museum bietet Schließfächer für nasse Mäntel und Schirme.",
+              "Die Steinpfade in der Altstadt können bei Nässe tückisch glatt sein."
+            ],
+            "hu": [
+              "A folyóparti szélben egy nagy botszernyő jobb szolgálatot tesz a kicsinél.",
+              "Viseljen vízálló túracipőt a kolostorhoz vezető úton.",
+              "A múzeumban van lehetőség a vizes kabátok és ernyők elhelyezésére.",
+              "Az óváros kőburkolatú útjai nedvesen veszélyesen csúszósak lehetnek."
+            ],
+            "ro": [
+              "O umbrelă mare este mai utilă decât una mică din cauza vântului de pe râu.",
+              "Purtați încălțăminte de trekking impermeabilă pentru drumul spre mănăstire.",
+              "Muzeul oferă spații pentru depozitarea pelerinelor și umbrelelor ude.",
+              "Potecile de piatră din centrul vechi pot fi trădător de alunecoase."
+            ],
+            "en": [
+              "A large golf umbrella is better than a small one due to river winds.",
+              "Wear waterproof trekking shoes for the path leading to the monastery.",
+              "The museum has space to store wet coats and umbrellas during your visit.",
+              "The stone paths in the old town can be treacherously slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen im Park der Helden zeigt Prijepolje in winterlicher Stille. Die kalte Luft beißt, doch das Museum bietet bald wohltuende Wärme und spannende Exponate.\n\nMittags bestaunen wir den schneebedeckten Sahat-kula, bevor wir uns in der Ibrahim-Pascha-Moschee aufwärmen.\n\nNachmittags führt der Spaziergang am Lim entlang, wo oft Nebel über dem eisigen Wasser hängt. Das Kloster Mileševa wirkt im Winterschlaf besonders andächtig.\n\nDer frühe Abend bricht herein, und wir suchen Zuflucht in einer warmen Kafana bei kräftigem serbischen Eintopf und heißem Tee.",
+            "hu": "A fagyos reggel a Hősök parkjában téli nyugalomba burkolja Prijepoljét. A csípős levegő elől hamar a múzeum fűtött termeibe húzódunk, ahol izgalmas tárlatok várnak.\n\nDélben a hófödte Sahat-kula óratorony látványában gyönyörködünk, majd az Ibrahim pasa mecsetben melegszünk fel.\n\nDélután a Lim folyó mentén sétálunk, ahol a köd gyakran megül a jeges víz felett. A Mileševa-kolostor ilyenkor különösen áhítatos hangulatot áraszt.\n\nA korán leszálló szürkületben egy meleg kafanát keresünk, hogy egy tál forró szerb egytálétel mellett pihenjük ki a napot.",
+            "ro": "O dimineață geroasă în Parcul Eroilor dezvăluie Prijepolje într-o liniște hibernală. Aerul tăios ne trimite rapid spre căldura muzeului, unde ne așteaptă exponate fascinante.\n\nLa prânz, admirăm turnul Sahat-kula acoperit de zăpadă, apoi ne încălzim în interiorul Moscheii Ibrahim Pașa.\n\nDupă-amiaza, plimbarea pe malul râului Lim oferă peisaje cu ceață deasupra apei înghețate. Mănăstirea Mileševa pare și mai sacră în acest decor de iarnă.\n\nSeara coboară devreme, așa că ne refugiem într-o kafana călduroasă pentru o mâncare tradițională sârbescă și un ceai fierbinte.",
+            "en": "A frosty morning in the Park of Heroes shows Prijepolje in its winter silence. The biting air soon drives us to the warmth of the museum's heated galleries.\n\nAt noon, we admire the snow-dusted Sahat-kula before stepping into the Ibrahim Pasha Mosque to warm up.\n\nIn the afternoon, the walk along the Lim River features mist hanging over the icy water. Mileševa Monastery feels particularly solemn during the winter months.\n\nAs darkness falls early, we seek shelter in a warm kafana to enjoy a hearty Serbian stew and hot tea."
+          },
+          "stops": [
+            {
+              "name": "Park of Heroes",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Wege, besonders in den schattigen Bereichen des Parks.",
+                "hu": "Vigyázzon a jeges utakra, különösen a park árnyékosabb részein.",
+                "ro": "Atenție la porțiunile de drum înghețate, mai ales în zonele umbrite ale parcului.",
+                "en": "Watch out for icy patches on the paths, especially in shaded areas of the park."
+              }
+            },
+            {
+              "name": "Museum of Prijepolje",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause während des kalten Vormittags.",
+                "hu": "Használja ki a múzeumi látogatást a hideg délelőtt során egy alapos átmelegedésre.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi în timpul dimineții geroase.",
+                "en": "Take advantage of the museum visit to warm up during the cold morning."
+              }
+            },
+            {
+              "name": "Sahat-kula (Clock Tower)",
+              "tip_5lang": {
+                "de": "Der Turm sieht bei Schneefall besonders malerisch aus; halten Sie die Kamera bereit.",
+                "hu": "A torony havazásban rendkívül festői; készítse elő a fényképezőgépét.",
+                "ro": "Turnul arată extrem de pitoresc când ninge; pregătiți camera foto.",
+                "en": "The tower looks exceptionally picturesque in the snow; keep your camera ready."
+              }
+            },
+            {
+              "name": "Ibrahim Pasha Mosque",
+              "tip_5lang": {
+                "de": "Im Inneren ist es deutlich wärmer als draußen; ideal für eine kurze Rast.",
+                "hu": "A belső térben jóval melegebb van, mint kint; ideális egy rövid pihenőre.",
+                "ro": "Interiorul este mult mai cald decât afară; ideal pentru un scurt popas.",
+                "en": "It's much warmer inside than out; ideal for a short resting period."
+              }
+            },
+            {
+              "name": "Walk along the Lim River",
+              "tip_5lang": {
+                "de": "Der Wind vom Wasser kann die gefühlte Temperatur deutlich senken.",
+                "hu": "A víz felől fújó szél jelentősen csökkentheti a hőérzetet.",
+                "ro": "Vântul care bate dinspre apă poate scădea considerabil temperatura resimțită.",
+                "en": "The wind coming off the water can significantly lower the perceived temperature."
+              }
+            },
+            {
+              "name": "Mileševa Monastery",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch vor 16:00 Uhr ein, da es im Winter früh dunkel wird.",
+                "hu": "Tervezze a látogatást 16:00 előttre, mert télen korán sötétedik.",
+                "ro": "Planificați vizita înainte de ora 16:00, deoarece iarna se întunecă devreme.",
+                "en": "Plan your visit before 4:00 PM, as it gets dark very early in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche, da die Feuchtigkeit vom Fluss die Kälte verstärkt.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Feste Winterschuhe mit Profil sind wegen möglicher Glätte unerlässlich.",
+              "Kleine Cafés bieten oft 'Kuhano vino' (Glühwein) zum Aufwärmen an."
+            ],
+            "hu": [
+              "Viseljen termikus aláöltözetet, mert a folyó párája növeli a hidegérzetet.",
+              "A nap télen már 16:30 körül lenyugszik a hegyek mögött.",
+              "A csúszásveszély miatt elengedhetetlen a barázdált talpú téli lábbeli.",
+              "A kis kávézókban gyakran kínálnak forralt bort az átmelegedéshez."
+            ],
+            "ro": [
+              "Purtați haine termice, deoarece umiditatea râului accentuează senzația de frig.",
+              "Soarele apune iarna în jurul orei 16:30 după munți.",
+              "Încălțămintea de iarnă cu talpă aderentă este esențială din cauza gheții.",
+              "Cafenelele mici oferă adesea vin fiert pentru a vă încălzi rapid."
+            ],
+            "en": [
+              "Wear thermal base layers as river humidity intensifies the cold feeling.",
+              "The sun sets around 4:30 PM in winter behind the mountains.",
+              "Insulated winter boots with good grip are essential due to potential ice.",
+              "Local cafes often serve 'Kuhano vino' (mulled wine) for a quick warm-up."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +888,188 @@
           "A helmet is strongly recommended.",
           "Always lock your bike securely when you park it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour am Lim-Ufer startet trotz Nieselregen mit frischer Luft. Der Park der Helden bietet unter dichten Bäumen kurzzeitig Schutz.\n\nMittags lassen wir die Räder am Museum stehen und verbringen die regenreichste Zeit bei der Besichtigung der Ausstellungen.\n\nNachmittags radeln wir vorsichtig zur Sahat-kula und zum Valter-Denkmal, wobei wir Pfützen auf den Radwegen meiden. Die Fahrt zum Kloster Mileševa ist bei Regen anstrengend, aber machbar.\n\nDer Tag endet mit einer schnellen Rückfahrt in die Stadt, wo trockene Kleidung und ein warmes Essen warten.",
+            "hu": "A Lim-parti kerékpártúra a szemerkélő eső ellenére friss levegővel indul. A Hősök parkjának sűrű fái alatt rövid időre menedéket találunk.\n\nDélben a múzeumnál hagyjuk a bringákat, és a legesősebb órákat a kiállítások megtekintésével töltjük.\n\nDélután óvatosan tekerünk a Sahat-kulához és a Valter-emlékműhöz, kerülgetve a tócsákat. A Mileševa-kolostorhoz vezető út esőben küzdelmes, de teljesíthető.\n\nA nap egy gyors városi visszatekeréssel zárul, ahol száraz ruha és meleg étel vár ránk.",
+            "ro": "Turul cu bicicleta pe malul râului Lim începe cu aer proaspăt, în ciuda burniței. Parcul Eroilor oferă protecție temporară sub arborii deși.\n\nLa prânz lăsăm bicicletele la muzeu și petrecem timpul vizitând expozițiile până trece ploaia torențială.\n\nDupă-amiaza pedalăm cu grijă spre Sahat-kula și Monumentul Valter, evitând bălțile de pe pistă. Drumul spre Mileševa este solicitant pe ploaie, dar merită efortul.\n\nZiua se încheie cu o cursă rapidă înapoi în oraș, unde ne așteaptă haine uscate și o masă caldă.",
+            "en": "The bike ride along the Lim begins with fresh air despite the light drizzle. The Park of Heroes offers brief shelter under its thick trees.\n\nAt noon, we leave the bikes at the museum and spend the wettest hours exploring the indoor exhibits.\n\nIn the afternoon, we pedal carefully to the Sahat-kula and Valter Monument, avoiding puddles. The ride to Mileševa Monastery is challenging in the rain but manageable.\n\nThe day ends with a quick ride back to town, where dry clothes and a hot meal await."
+          },
+          "stops": [
+            {
+              "name": "Lim River Bank",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem unbefestigten Uferweg; er kann bei Regen schlammig sein.",
+                "hu": "Vigyázat a nem aszfaltozott parti úton; esőben sáros és csúszós lehet.",
+                "ro": "Atenție la drumul neasfaltat de pe mal; poate fi noroios pe timp de ploaie.",
+                "en": "Be careful on the unpaved riverbank path; it can be muddy during rain."
+              }
+            },
+            {
+              "name": "Park of Heroes",
+              "tip_5lang": {
+                "de": "Nutzen Sie die befestigten Wege, um das Rutschen auf nassem Gras zu vermeiden.",
+                "hu": "Használja a kiépített utakat, hogy elkerülje a csúszkálást a vizes füvön.",
+                "ro": "Folosiți drumurile pavate pentru a evita alunecarea pe iarba udă.",
+                "en": "Stick to the paved paths to avoid slipping on the wet grass."
+              }
+            },
+            {
+              "name": "Museum of Prijepolje",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich oft in der Nähe des Eingangs.",
+                "hu": "Fedett kerékpártárolók gyakran találhatók a bejárat közelében.",
+                "ro": "Suporturile de biciclete acoperite se află adesea în apropierea intrării.",
+                "en": "Covered bike racks are often located near the main entrance."
+              }
+            },
+            {
+              "name": "Sahat-kula and Ibrahim Pasha Mosque",
+              "tip_5lang": {
+                "de": "Reduzieren Sie die Geschwindigkeit auf dem nassen Kopfsteinpflaster drastisch.",
+                "hu": "Jelentősen csökkentse a sebességét a vizes macskaköves szakaszokon.",
+                "ro": "Reduceți drastic viteza pe porțiunile cu pavaj de piatră ud.",
+                "en": "Drastically reduce your speed on the wet cobblestone sections."
+              }
+            },
+            {
+              "name": "Valter Monument",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto; der Platz bietet wenig Regenschutz.",
+                "hu": "Gyors fotómegálló; a tér kevés védelmet nyújt az eső elől.",
+                "ro": "O oprire scurtă pentru poze; piața oferă puțină protecție contra ploii.",
+                "en": "A quick photo stop; the square offers little protection from the rain."
+              }
+            },
+            {
+              "name": "Ride to Mileševa Monastery",
+              "tip_5lang": {
+                "de": "Achten Sie auf Spritzwasser von vorbeifahrenden Autos auf der Landstraße.",
+                "hu": "Ügyeljen az elhaladó autók által felcsapott vízre az országúton.",
+                "ro": "Atenție la apa împroșcată de mașinile care trec pe drumul principal.",
+                "en": "Watch out for water spray from passing cars on the main road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter absolut notwendig.",
+              "Tragen Sie eine vollflächige Regenjacke und wasserfeste Überhosen.",
+              "Bremsen Sie auf nassem Untergrund früher und vorsichtiger als gewohnt.",
+              "Vermeiden Sie Fahrten durch tiefe Pfützen, da diese Schlaglöcher verdecken."
+            ],
+            "hu": [
+              "A sárvédő használata ilyen időben elengedhetetlen a kerékpáron.",
+              "Viseljen teljes esődzsekit és vízálló nadrágot a tekeréshez.",
+              "Nedves úton korábban és óvatosabban fékezzen a megszokottnál.",
+              "Kerülje a mély tócsákat, mert azok alatt kátyúk bújhatnak meg."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt absolut necesare pe bicicletă în această vreme.",
+              "Purtați o jachetă de ploaie completă și pantaloni impermeabili.",
+              "Frânați mai devreme și mai prudent decât de obicei pe asfalt ud.",
+              "Evitați bălțile adânci, deoarece acestea pot ascunde gropi periculoase."
+            ],
+            "en": [
+              "Mudguards on your bike are absolutely necessary in this weather.",
+              "Wear a full rain jacket and waterproof over-trousers for the ride.",
+              "Brake earlier and more cautiously than usual on wet surfaces.",
+              "Avoid riding through deep puddles, as they might hide potholes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt am eisigen Lim-Ufer erfordert warme Handschuhe und dicke Socken. Der Nebel verleiht dem Park der Helden eine mystische Atmosphäre.\n\nMittags dient das Museum als wichtiger Aufwärmstopp, um die gefrorenen Finger wieder zu beleben.\n\nNachmittags radeln wir vorsichtig zur Sahat-kula, immer auf der Hut vor Glatteis. Die Strecke zum Kloster Mileševa führt durch die winterliche Tallandschaft.\n\nDa es im Winter früh dunkel wird, beenden wir die Tour vor Einbruch der Dämmerung und wärmen uns in einer gemütlichen Stube auf.",
+            "hu": "A reggeli tekerés a jeges Lim partján meleg kesztyűt és vastag zoknit igényel. A köd misztikus hangulatot kölcsönöz a Hősök parkjának.\n\nDélben a múzeum fontos melegedőpontként szolgál, hogy életet leheljünk az átfagyott ujjainkba.\n\nDélután óvatosan tekerünk a Sahat-kulához, folyamatosan figyelve a jeges foltokra. A Mileševa-kolostorhoz vezető út a téli völgyön át vezet.\n\nMivel télen korán sötétedik, a túrát még alkonyat előtt befejezzük, és egy barátságos helyen melegszünk fel.",
+            "ro": "Cursa de dimineață pe malul înghețat al râului Lim necesită mănuși groase și șosete termice. Ceața oferă Parcului Eroilor o atmosferă mistică.\n\nLa prânz, muzeul servește ca punct esențial de încălzire pentru a ne simți din nou degetele înghețate.\n\nDupă-amiaza pedalăm prudent spre Sahat-kula, fiind mereu atenți la porțiunile de gheață. Drumul spre Mileševa traversează peisajul de iarnă al văii.\n\nDeoarece iarna se întunecă devreme, încheiem turul înainte de amurg și ne încălzim într-un local primitor.",
+            "en": "The morning ride along the icy Lim River requires warm gloves and thick socks. The mist gives the Park of Heroes a mystical atmosphere.\n\nAt noon, the museum serves as an essential warming-up stop to revive frozen fingers.\n\nIn the afternoon, we pedal carefully to the Sahat-kula, always on the lookout for black ice. The route to Mileševa Monastery leads through the winter valley landscape.\n\nSince it gets dark early in winter, we finish the tour before twilight and warm up in a cozy local establishment."
+          },
+          "stops": [
+            {
+              "name": "Lim River Bank",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Spritzwasser auf dem Pfad direkt am Wasser.",
+                "hu": "Vigyázzon a vízparti ösvényen lévő kifagyott vízfoltokra.",
+                "ro": "Atenție la porțiunile de apă înghețată de pe poteca de lângă râu.",
+                "en": "Watch out for frozen water patches on the path right by the water."
+              }
+            },
+            {
+              "name": "Park of Heroes",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den geräumten Wegen, um Stürze auf Eis zu vermeiden.",
+                "hu": "Maradjon a letakarított utakon, hogy elkerülje az elesést a jégen.",
+                "ro": "Rămâneți pe drumurile curățate pentru a evita căzăturile pe gheață.",
+                "en": "Stay on the cleared paths to avoid falls on patches of ice."
+              }
+            },
+            {
+              "name": "Museum of Prijepolje",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob Ihre Fahrradlichter für die frühe Dämmerung funktionieren.",
+                "hu": "Ellenőrizze, hogy a kerékpárlámpák működnek-e a korai szürkülethez.",
+                "ro": "Verificați dacă luminile bicicletei funcționează pentru amurgul timpuriu.",
+                "en": "Check that your bike lights are working for the early twilight."
+              }
+            },
+            {
+              "name": "Sahat-kula and Ibrahim Pasha Mosque",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster kann auch ohne sichtbaren Schnee spiegelglatt sein.",
+                "hu": "A macskaköves burkolat látható hó nélkül is tükörsima lehet.",
+                "ro": "Pavajul de piatră poate fi extrem de lunecos chiar și fără zăpadă vizibilă.",
+                "en": "The cobblestones can be mirror-slick even without visible snow."
+              }
+            },
+            {
+              "name": "Valter Monument",
+              "tip_5lang": {
+                "de": "Kurze Pause zum Aufwärmen durch Bewegung; stehen Sie nicht zu lange still.",
+                "hu": "Rövid pihenő mozgással; ne álljon egy helyben túl sokáig a hidegben.",
+                "ro": "Pauză scurtă pentru încălzire prin mișcare; nu stați mult timp pe loc.",
+                "en": "Brief pause to warm up through movement; don't stand still for too long."
+              }
+            },
+            {
+              "name": "Ride to Mileševa Monastery",
+              "tip_5lang": {
+                "de": "Tragen Sie eine Brille gegen den kalten Fahrtwind und möglichen Schneegriesel.",
+                "hu": "Viseljen szemüveget a hideg menetszél és az esetleges hószállingózás ellen.",
+                "ro": "Purtați ochelari contra vântului rece și a eventualei ninsori slabe.",
+                "en": "Wear goggles or glasses against the cold wind and possible light snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verringern Sie den Reifendruck leicht für besseren Grip auf Schnee.",
+              "Vermeiden Sie hektische Lenkbewegungen auf möglicherweise glatten Flächen.",
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip) gegen den Fahrtwind.",
+              "Stellen Sie sicher, dass Ihre Bremsen auch bei Kälte zuverlässig greifen."
+            ],
+            "hu": [
+              "Enyhén csökkentse a guminyomást a jobb tapadás érdekében a havon.",
+              "Kerülje a hirtelen kormánymozdulatokat a potenciálisan csúszós felületeken.",
+              "Öltözzön rétegesen a menetszél okozta fokozott hideg ellen.",
+              "Győződjön meg róla, hogy a fékek hidegben is megbízhatóan fognak."
+            ],
+            "ro": [
+              "Reduceți ușor presiunea din anvelope pentru o aderență mai bună pe zăpadă.",
+              "Evitați mișcările bruște de ghidon pe suprafețele potențial alunecoase.",
+              "Purtați mai multe straturi de haine contra vântului rece din timpul mersului.",
+              "Asigurați-vă că frânele funcționează corect chiar și la temperaturi scăzute."
+            ],
+            "en": [
+              "Slightly lower your tire pressure for better grip on snowy surfaces.",
+              "Avoid sudden steering movements on potentially slippery areas.",
+              "Wear multiple layers of clothing (onion principle) against the wind chill.",
+              "Ensure your brakes are working reliably even in freezing temperatures."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1086,6 +1450,206 @@
           "Check the monastery's opening hours in advance.",
           "A GPS or a good map is essential."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten entspannt am Parkplatz im Zentrum, während der Regen auf das Autodach trommelt. Die Fahrt zur Sahat-kula ist kurz und trocken.\n\nMittags bietet das Museum eine willkommene Indoor-Aktivität. Das anschließende Mittagessen am Lim genießen wir mit Blick auf den verregneten Fluss.\n\nNachmittags fahren wir zum Kloster Mileševa. Die Weiterfahrt zu den Sopotnica-Wasserfällen erfordert bei Nässe volle Konzentration auf den kurvigen Straßen.\n\nDer Abend endet mit der Rückkehr nach Prijepolje, wo wir das Auto sicher abstellen und den Tag Revue passieren lassen.",
+            "hu": "Kényelmesen indulunk a központi parkolóból, miközben az eső a kocsi tetején kopog. A Sahat-kulához vezető út rövid és száraz marad.\n\nDélben a múzeum látogatása tökéletes benti program. A Lim-parti ebédet a folyóra nyíló kilátással élvezzük a biztonságos melegből.\n\nDélután a Mileševa-kolostorhoz autózunk. A Sopotnica-vízesések felé vezető kanyargós út nedves időben teljes koncentrációt igényel.\n\nA nap a városba való visszatéréssel zárul, ahol biztonságban leparkolva gondolunk vissza az élményekre.",
+            "ro": "Începem relaxați din parcarea centrală, în timp ce ploaia bate în plafonul mașinii. Drumul spre Sahat-kula rămâne scurt și uscat.\n\nLa prânz, vizitarea muzeului oferă o activitate de interior binevenită. Savurăm prânzul pe malul râului Lim cu vedere spre apele învolburate.\n\nDupă-amiaza conducem spre Mănăstirea Mileševa. Continuarea drumului spre cascada Sopotnica necesită concentrare maximă pe șoselele umede și virajate.\n\nSeara se încheie cu întoarcerea în Prijepolje, unde parcăm mașina în siguranță și ne odihnim.",
+            "en": "We start relaxed from the central parking lot while rain drums on the car roof. The drive to the Sahat-kula remains short and dry.\n\nAt noon, the museum visit offers a welcome indoor activity. We enjoy lunch by the Lim with a view of the rainy river from a warm spot.\n\nIn the afternoon, we drive to Mileševa Monastery. The onward journey to the Sopotnica Waterfalls requires full concentration on wet, winding roads.\n\nThe day ends with a return to Prijepolje, where we safely park the car and reflect on the day."
+          },
+          "stops": [
+            {
+              "name": "Parking in the city center",
+              "tip_5lang": {
+                "de": "Suchen Sie nach Parkplätzen in der Nähe der Haupteingänge der Sehenswürdigkeiten.",
+                "hu": "Keressen parkolóhelyet a látnivalók főbejárataihoz minél közelebb.",
+                "ro": "Căutați locuri de parcare cât mai aproape de intrările obiectivelor turistice.",
+                "en": "Look for parking spaces as close as possible to the main entrances."
+              }
+            },
+            {
+              "name": "Sahat-kula and Ibrahim Pasha Mosque",
+              "tip_5lang": {
+                "de": "Ein Regenschirm ist für den kurzen Weg vom Parkplatz unverzichtbar.",
+                "hu": "Egy esernyő elengedhetetlen a parkolótól vezető rövid sétához.",
+                "ro": "O umbrelă este indispensabilă pentru scurta plimbare din parcare.",
+                "en": "An umbrella is essential for the short walk from the parking area."
+              }
+            },
+            {
+              "name": "Museum of Prijepolje",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um das Auto im Regen etwas abkühlen zu lassen.",
+                "hu": "Használja ki a múzeumlátogatást, amíg odakint esik az eső.",
+                "ro": "Profitați de vizita la muzeu cât timp afară plouă torențial.",
+                "en": "Take advantage of the museum visit while it pours outside."
+              }
+            },
+            {
+              "name": "Lunch on the Lim River",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit großen Fenstern, um den Regenfluss zu beobachten.",
+                "hu": "Válasszon egy nagy ablakokkal rendelkező éttermet a folyó megfigyeléséhez.",
+                "ro": "Alegeți un restaurant cu ferestre mari pentru a vedea râul pe ploaie.",
+                "en": "Choose a restaurant with large windows to watch the river in the rain."
+              }
+            },
+            {
+              "name": "Drive to Mileševa Monastery",
+              "tip_5lang": {
+                "de": "Achten Sie auf stehendes Wasser auf der Straße zum Kloster.",
+                "hu": "Ügyeljen az úton lévő megállt vízfoltokra a kolostor felé vezető úton.",
+                "ro": "Atenție la porțiunile cu apă stătătoare pe drumul spre mănăstire.",
+                "en": "Watch out for standing water on the road leading to the monastery."
+              }
+            },
+            {
+              "name": "Sopotnica Waterfalls",
+              "tip_5lang": {
+                "de": "Die Wasserfälle sind bei Regen besonders imposant, aber die Pfade sehr rutschig.",
+                "hu": "A vízesések esőben különösen lenyűgözőek, de az ösvények nagyon csúszósak.",
+                "ro": "Cascadele sunt impresionante pe ploaie, dar potecile sunt foarte alunecoase.",
+                "en": "The waterfalls are impressive in the rain, but the paths are very slippery."
+              }
+            },
+            {
+              "name": "Return to Prijepolje",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Scheibenwischer vor der Rückfahrt im Dunkeln.",
+                "hu": "Ellenőrizze az ablaktörlőket a sötétben történő visszatérés előtt.",
+                "ro": "Verificați ștergătoarele înainte de drumul de întoarcere pe întuneric.",
+                "en": "Check your wipers before the return drive in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie auf der Bergstraße nach Sopotnica bei Regen besonders vorsichtig.",
+              "Vermeiden Sie das Parken unter morschen Bäumen bei starkem Regen.",
+              "Halten Sie ein Handtuch im Auto bereit, um nasse Kleidung abzutrocknen.",
+              "Die Sicht kann in den Bergen bei Nebel und Regen stark eingeschränkt sein."
+            ],
+            "hu": [
+              "Vezessen rendkívül óvatosan a Sopotnicába vezető hegyi úton esőben.",
+              "Kerülje a parkolást korhadt fák alatt heves esőzés idején.",
+              "Tartson egy törölközőt az autóban a vizes ruhák áttörléséhez.",
+              "A látási viszonyok a hegyekben köd és eső esetén korlátozottak lehetnek."
+            ],
+            "ro": [
+              "Conduceți cu mare prudență pe drumul montan spre Sopotnica pe ploaie.",
+              "Evitați parcarea sub copaci bătrâni în timpul ploilor torențiale.",
+              "Țineți un prosop în mașină pentru a șterge hainele ude.",
+              "Vizibilitatea în munți poate fi foarte limitată în caz de ceață și ploaie."
+            ],
+            "en": [
+              "Drive with extreme caution on the mountain road to Sopotnica in the rain.",
+              "Avoid parking under old trees during heavy rainstorms.",
+              "Keep a towel in the car to dry off wet clothes or seats.",
+              "Visibility in the mountains can be very limited during fog and rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen startet mit dem Eiskratzen am Parkplatz. Die Fahrt durch die verschneite Stadt zur Sahat-kula bietet wunderschöne Ausblicke.\n\nMittags genießen wir die Wärme im Museum, während draußen der Schnee leise fällt. Das Mittagessen am Lim bietet eine winterliche Kulisse.\n\nNachmittags führt die Fahrt zum Kloster Mileševa durch eine weiße Märchenwelt. Der Weg nach Sopotnica ist bei Schnee ein Abenteuer und erfordert Winterausrüstung.\n\nAm Abend kehren wir müde aber glücklich nach Prijepolje zurück und parken das Auto an einem schneefreien Ort.",
+            "hu": "A téli reggel jégkaparással indul a parkolóban. A havas városon átvezető út a Sahat-kulához gyönyörű látványt nyújt.\n\nDélben a múzeum melegében időzünk, miközben odakint halkan hull a hó. A Lim-parti ebéd téli díszletek között zajlik.\n\nDélután a Mileševa-kolostorhoz autózunk a fehér mesevilágban. A Sopotnicába vezető út hóban igazi kaland, és téli felszerelést igényel.\n\nEste fáradtan, de boldogan térünk vissza Prijepoljébe, és hótól mentes helyen parkoljuk le az autót.",
+            "ro": "Dimineața de iarnă începe cu curățarea gheții de pe parbriz. Drumul prin orașul înzăpezit spre Sahat-kula oferă peisaje de vis.\n\nLa prânz, ne bucurăm de căldura muzeului în timp ce afară ninge liniștit. Prânzul pe malul râului Lim are un decor hibernal superb.\n\nDupă-amiaza, drumul spre Mănăstirea Mileševa traversează o lume de basm albă. Călătoria spre Sopotnica este o aventură pe zăpadă și necesită echipament de iarnă.\n\nSeara revenim obosiți dar fericiți în Prijepolje și parcăm mașina într-un loc curățat de zăpadă.",
+            "en": "The winter morning starts with scraping ice in the parking lot. The drive through the snowy town to the Sahat-kula offers beautiful views.\n\nAt noon, we enjoy the museum's warmth while snow falls quietly outside. Lunch by the Lim takes place against a winter backdrop.\n\nIn the afternoon, the drive to Mileševa Monastery leads through a white fairytale world. The road to Sopotnica is a real adventure in snow and requires winter equipment.\n\nIn the evening, we return tired but happy to Prijepolje and park the car in a snow-free spot."
+          },
+          "stops": [
+            {
+              "name": "Parking in the city center",
+              "tip_5lang": {
+                "de": "Achten Sie darauf, nicht auf ungeräumten Parkflächen stecken zu bleiben.",
+                "hu": "Ügyeljen rá, hogy ne akadjon el a le nem takarított parkolóhelyeken.",
+                "ro": "Aveți grijă să nu rămâneți blocat în zonele de parcare necurățate.",
+                "en": "Be careful not to get stuck in unplowed parking spaces."
+              }
+            },
+            {
+              "name": "Sahat-kula and Ibrahim Pasha Mosque",
+              "tip_5lang": {
+                "de": "Die Heizung im Auto sorgt für ein angenehmes Aufwärmen zwischen den Stopps.",
+                "hu": "Az autó fűtése kellemes átmelegedést biztosít a megállók között.",
+                "ro": "Încălzirea din mașină oferă un confort termic între opriri.",
+                "en": "The car's heater provides a nice warm-up between stops."
+              }
+            },
+            {
+              "name": "Museum of Prijepolje",
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie beim Losfahren nicht auf Eis durchdrehen.",
+                "hu": "Úgy parkoljon, hogy induláskor ne pörögjenek ki a kerekek a jégen.",
+                "ro": "Parcați astfel încât să nu patinați pe gheață la plecare.",
+                "en": "Park in a way that avoids spinning your wheels on ice when leaving."
+              }
+            },
+            {
+              "name": "Lunch on the Lim River",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Eisschollen auf dem Fluss vom warmen Tisch aus.",
+                "hu": "Élvezze a folyón úszó jégtáblák látványát a meleg asztal mellől.",
+                "ro": "Admirați sloiurile de gheață de pe râu de la căldura mesei.",
+                "en": "Enjoy the view of ice floes on the river from your warm table."
+              }
+            },
+            {
+              "name": "Drive to Mileševa Monastery",
+              "tip_5lang": {
+                "de": "Fahren Sie vorausschauend, da Räumfahrzeuge auf der Strecke sein können.",
+                "hu": "Vezessen előrelátóan, mert hókotrók lehetnek az útvonalon.",
+                "ro": "Conduceți preventiv, deoarece pot exista utilaje de deszăpezire pe drum.",
+                "en": "Drive defensively, as snow plows may be operating on the route."
+              }
+            },
+            {
+              "name": "Sopotnica Waterfalls",
+              "tip_5lang": {
+                "de": "Der Weg ist steil und oft verschneit; Schneeketten können notwendig sein.",
+                "hu": "Az út meredek és gyakran havas; hólánc használata szükséges lehet.",
+                "ro": "Drumul este abrupt și adesea înzăpezit; pot fi necesare lanțurile.",
+                "en": "The road is steep and often snowy; snow chains may be required."
+              }
+            },
+            {
+              "name": "Return to Prijepolje",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Frostschutzmittel für die Nacht ausreicht.",
+                "hu": "Győződjön meg róla, hogy a fagyálló folyadék szintje elegendő az éjszakára.",
+                "ro": "Asigurați-vă că nivelul antigelului este suficient pentru noapte.",
+                "en": "Ensure your antifreeze levels are sufficient for the overnight cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Serbien von November bis April gesetzlich vorgeschrieben.",
+              "Führen Sie immer eine Schaufel und einen Besen im Auto mit.",
+              "Die Bergstraße nach Sopotnica wird bei starkem Schneefall zuletzt geräumt.",
+              "Prüfen Sie den Batteriestatus, da Kälte die Leistung stark mindert."
+            ],
+            "hu": [
+              "Szerbiában a téli gumi használata novembertől áprilisig kötelező.",
+              "Mindig tartson hólapátot és jégkaparót az autóban.",
+              "A Sopotnicába vezető hegyi utat erős havazáskor takarítják le utoljára.",
+              "Ellenőrizze az akkumulátort, mert a hideg jelentősen csökkenti a teljesítményét."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Serbia din noiembrie până în aprilie.",
+              "Țineți întotdeauna o lopată și o perie de zăpadă în mașină.",
+              "Drumul spre Sopotnica este curățat ultimul în caz de ninsoare abundentă.",
+              "Verificați starea bateriei, deoarece frigul îi reduce mult performanța."
+            ],
+            "en": [
+              "Winter tires are mandatory in Serbia from November to April.",
+              "Always carry a snow shovel and an ice scraper in your car.",
+              "The mountain road to Sopotnica is often the last to be plowed after heavy snow.",
+              "Check your battery status, as extreme cold significantly reduces its power."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1442,6 +2006,188 @@
           "Have small change ready for tickets.",
           "Plan buffer times for possible delays."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir kommen am Busbahnhof an und nutzen den kurzen Weg zum Museum, um dem Regen zu entkommen. Das Museum bietet stundenlangen trockenen Kulturgenuss.\n\nMittags besichtigen wir die Sahat-kula im Schutz eines Schirms. Die Wartezeiten an den Bushaltestellen verbringen wir unter den Dächern.\n\nNachmittags führt uns die Busfahrt zum Kloster Mileševa, wobei wir den Regen aus dem warmen Busfenster beobachten. Die Besichtigung des Klosters ist im Inneren besonders stimmungsvoll.\n\nDer Abend endet mit der Rückfahrt zum Zentrum, wo wir in der Nähe der Haltestelle einkehren.",
+            "hu": "A buszpályaudvarra érkezve a múzeum felé vesszük az irányt, hogy elmeneküljünk az eső elől. A múzeum több órányi száraz kulturális élményt kínál.\n\nDélben esernyő alatt tekintjük meg a Sahat-kulát. A buszmegállókban a várakozási időt a fedett részeken töltjük.\n\nDélután a buszút a Mileševa-kolostorhoz vezet, miközben az ablakból figyeljük az esőt. A kolostor belső terei ilyenkor különösen hangulatosak.\n\nEste visszatérünk a központba, és egy, a megállóhoz közeli helyen vacsorázunk meg.",
+            "ro": "Sosim la autogară și pornim rapid spre muzeu pentru a scăpa de ploaie. Muzeul oferă ore întregi de cultură la adăpost de vremea rea.\n\nLa prânz, vizităm Sahat-kula sub protecția unei umbrele. Petrecem timpul de așteptare în stațiile de autobuz acoperite.\n\nDupă-amiaza, cursa spre Mănăstirea Mileševa ne permite să privim ploaia prin geamul cald al autobuzului. Vizita în interiorul mănăstirii este plină de atmosferă.\n\nSeara revenim în centru și luăm masa într-un local situat aproape de stația de autobuz.",
+            "en": "Arriving at the bus station, we head straight to the museum to escape the rain. The museum provides hours of dry cultural exploration.\n\nAt noon, we visit the Sahat-kula under the shelter of an umbrella. We spend waiting times at bus stops under the covered areas.\n\nIn the afternoon, the bus ride to Mileševa Monastery lets us watch the rain through the warm bus window. The monastery's interior is especially atmospheric now.\n\nThe evening ends with a return trip to the center, dining at a place near the bus stop."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the central bus station",
+              "tip_5lang": {
+                "de": "Warten Sie im Gebäude der Station, bis Ihr Anschlussbus einfährt.",
+                "hu": "Várjon az állomás épületében, amíg be nem érkezik a csatlakozása.",
+                "ro": "Așteptați în interiorul gării până la sosirea autobuzului de legătură.",
+                "en": "Wait inside the station building until your connecting bus arrives."
+              }
+            },
+            {
+              "name": "Museum of Prijepolje",
+              "tip_5lang": {
+                "de": "Vom Museum zum Bus ist es nur ein kurzer Fußmarsch im Regen.",
+                "hu": "A múzeumtól a buszig csak egy rövid séta az esőben.",
+                "ro": "De la muzeu până la autobuz este doar o scurtă plimbare prin ploaie.",
+                "en": "It's only a short walk through the rain from the museum to the bus stop."
+              }
+            },
+            {
+              "name": "Sahat-kula and Ibrahim Pasha Mosque",
+              "tip_5lang": {
+                "de": "Die Haltestellen in der Nähe sind meist überdacht und bieten Schutz.",
+                "hu": "A közeli megállók többnyire fedettek, így védelmet nyújtanak.",
+                "ro": "Stațiile din apropiere sunt în mare parte acoperite, oferind protecție.",
+                "en": "Most nearby stops are covered, providing good protection from rain."
+              }
+            },
+            {
+              "name": "Park of Heroes and Lim River Bank",
+              "tip_5lang": {
+                "de": "Planen Sie diesen Stopp kürzer ein, wenn der Regen stärker wird.",
+                "hu": "Tervezze rövidebbre ezt a megállót, ha az eső intenzívebbé válik.",
+                "ro": "Planificați această oprire mai scurtă dacă ploaia devine intensă.",
+                "en": "Keep this stop brief if the rain starts to intensify."
+              }
+            },
+            {
+              "name": "Bus ride to Mileševa Monastery",
+              "tip_5lang": {
+                "de": "Genießen Sie die trockene Fahrt und die Aussicht auf den Fluss.",
+                "hu": "Élvezze a száraz utazást és a folyóra nyíló kilátást.",
+                "ro": "Bucurați-vă de drumul la uscat și de priveliștea spre râu.",
+                "en": "Enjoy the dry ride and the views of the river from the bus."
+              }
+            },
+            {
+              "name": "Exploring Mileševa Monastery",
+              "tip_5lang": {
+                "de": "Das Kloster bietet viele Innenbereiche, die man im Trockenen erkunden kann.",
+                "hu": "A kolostor számos belső résszel rendelkezik, amelyek szárazon bejárhatók.",
+                "ro": "Mănăstirea are multe zone interioare care pot fi explorate la uscat.",
+                "en": "The monastery has many interior areas that can be explored in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den aktuellen Fahrplan online, um Wartezeiten im Freien zu minimieren.",
+              "Ein Regencape ist praktisch beim Ein- und Aussteigen in den Bus.",
+              "Halten Sie Kleingeld für das Ticket bereit, um Verzögerungen im Regen zu vermeiden.",
+              "Die Busse können bei starkem Regen aufgrund des Verkehrs Verspätung haben."
+            ],
+            "hu": [
+              "Ellenőrizze az online menetrendet, hogy minimálisra csökkentse a kinti várakozást.",
+              "Az esőponcsó praktikus viselet a buszba való be- és kiszálláskor.",
+              "Tartson kéznél aprópénzt a jegyvásárláshoz az esőben való várakozás elkerülésére.",
+              "Heves esőzéskor a buszok a forgalom miatt késhetnek."
+            ],
+            "ro": [
+              "Verificați orarul online pentru a minimiza timpul de așteptare afară.",
+              "O pelerină de ploaie este practică la urcarea și coborârea din autobuz.",
+              "Țineți bani mărunti la îndemână pentru a evita întârzierile în ploaie.",
+              "Autobuzele pot avea întârzieri în caz de ploaie abundentă din cauza traficului."
+            ],
+            "en": [
+              "Check the live schedule online to minimize waiting time outdoors.",
+              "A rain poncho is practical when getting on and off the bus.",
+              "Have small change ready for tickets to avoid delays in the rain.",
+              "Buses may experience delays during heavy rain due to increased traffic."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir starten am winterlichen Busbahnhof und suchen sofort die Wärme des Museums auf. Drinnen vergeht die Zeit bei den Ausstellungen wie im Flug.\n\nMittags bestaunen wir den schneebedeckten Sahat-kula Turm, bevor wir uns in einem nahegelegenen Café aufwärmen.\n\nNachmittags bringt uns der Bus zum Kloster Mileševa durch die verschneite Landschaft. Die friedliche Winterstimmung im Kloster ist unbeschreiblich.\n\nDa die Busse im Winter seltener fahren könnten, planen wir die Rückfahrt rechtzeitig und beenden den Tag bei einem heißen Getränk im Zentrum.",
+            "hu": "A téli buszpályaudvarról indulunk, és azonnal a múzeum melegét keressük fel. Bent a kiállítások nézegetésével repül az idő.\n\nDélben megcsodáljuk a hófödte Sahat-kula óratorony látványát, majd egy közeli kávézóban melegszünk fel.\n\nDélután a busz a havas tájon keresztül repít minket a Mileševa-kolostorhoz. A kolostor békés téli hangulata leírhatatlan.\n\nMivel télen a buszok ritkábban járhatnak, időben megtervezzük a visszautat, és a napot egy forró itallal zárjuk a központban.",
+            "ro": "Pornim de la autogara hibernală și căutăm imediat căldura muzeului. În interior, timpul trece repede admirând expozițiile.\n\nLa prânz, admirăm turnul Sahat-kula acoperit de zăpadă, apoi ne încălzim într-o cafenea din apropiere.\n\nDupă-amiaza, autobuzul ne duce spre Mănăstirea Mileševa prin peisajul înzăpezit. Atmosfera pașnică de iarnă de la mănăstire este de nedescris.\n\nDeoarece autobuzele pot circula mai rar iarna, planificăm din timp întoarcerea și încheiem ziua cu o băutură fierbinte în centru.",
+            "en": "We start from the wintry bus station and immediately head for the museum's warmth. Inside, time flies while exploring the exhibits.\n\nAt noon, we admire the snow-covered Sahat-kula before warming up in a nearby cafe.\n\nIn the afternoon, the bus takes us to Mileševa Monastery through the snowy landscape. The monastery's peaceful winter atmosphere is beyond words.\n\nAs buses might run less frequently in winter, we plan our return journey early and end the day with a hot drink in the center."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the central bus station",
+              "tip_5lang": {
+                "de": "Das Bahnhofsgebäude ist beheizt; ideal zum Warten bei Minustemperaturen.",
+                "hu": "Az állomás épülete fűtött; ideális a várakozásra a mínuszokban.",
+                "ro": "Clădirea gării este încălzită; ideală pentru așteptare pe temperaturi negative.",
+                "en": "The station building is heated; ideal for waiting during sub-zero temperatures."
+              }
+            },
+            {
+              "name": "Museum of Prijepolje",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum als primären Aufwärmort am Vormittag.",
+                "hu": "Használja a múzeumot elsődleges melegedőhelyként a délelőtt folyamán.",
+                "ro": "Folosiți muzeul ca principal punct de încălzire în timpul dimineții.",
+                "en": "Use the museum as your primary warming-up spot during the morning."
+              }
+            },
+            {
+              "name": "Sahat-kula and Ibrahim Pasha Mosque",
+              "tip_5lang": {
+                "de": "Suchen Sie Cafés in der Nähe, um die Zeit bis zum nächsten Bus im Warmen zu verbringen.",
+                "hu": "Keressen közeli kávézókat, hogy a következő buszig melegben várhasson.",
+                "ro": "Căutați cafenele în apropiere pentru a aștepta următorul autobuz la căldură.",
+                "en": "Find nearby cafes to spend the time until the next bus in the warmth."
+              }
+            },
+            {
+              "name": "Park of Heroes and Lim River Bank",
+              "tip_5lang": {
+                "de": "Die Wege können bei Frost sehr glatt sein; gehen Sie vorsichtig zur Haltestelle.",
+                "hu": "A utak fagyban nagyon csúszósak lehetnek; menjen óvatosan a megállóig.",
+                "ro": "Drumurile pot fi foarte lunecoase; mergeți cu prudență spre stație.",
+                "en": "Paths can be very slippery in frost; walk carefully to the bus stop."
+              }
+            },
+            {
+              "name": "Bus ride to Mileševa Monastery",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter gut beheizt; genießen Sie die Fahrt.",
+                "hu": "A buszok télen jól fűtöttek; élvezze az utazást.",
+                "ro": "Autobuzele sunt bine încălzite iarna; bucurați-vă de drum.",
+                "en": "The buses are well-heated in winter; enjoy the comfortable ride."
+              }
+            },
+            {
+              "name": "Exploring Mileševa Monastery",
+              "tip_5lang": {
+                "de": "Fragen Sie nach den Abfahrtszeiten für den Rückbus, da diese im Winter variieren.",
+                "hu": "Érdeklődjön a visszatérő busz indulásáról, mert télen változhat a menetrend.",
+                "ro": "Întrebați de ora de întoarcere a autobuzului, orarul poate varia iarna.",
+                "en": "Ask about the return bus times, as schedules may vary during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Winterschuhe, da man beim Warten an Haltestellen schnell auskühlt.",
+              "Die Busfrequenz kann bei extremem Schneefall reduziert sein.",
+              "Planen Sie Pufferzeiten für eventuelle wetterbedingte Verspätungen ein.",
+              "Suchen Sie nach Wartehallen mit Windschutz an den Haltestellen."
+            ],
+            "hu": [
+              "Viseljen meleg téli lábbelit, mert a megállókban várakozva gyorsan lehűl a láb.",
+              "Extrém havazás esetén a buszjáratok sűrűsége csökkenhet.",
+              "Tervezzen be ráhagyást az esetleges időjárási késések miatt.",
+              "Keresse a szélvédett váróhelyeket a buszmegállókban."
+            ],
+            "ro": [
+              "Purtați încălțăminte de iarnă călduroasă, picioarele îngheață repede în stație.",
+              "Frecvența autobuzelor poate fi redusă în caz de ninsoare extremă.",
+              "Planificați timp suplimentar pentru eventualele întârzieri cauzate de vreme.",
+              "Căutați stațiile care oferă adăpost contra vântului."
+            ],
+            "en": [
+              "Wear warm winter boots as your feet can get cold quickly while waiting.",
+              "Bus frequency might be reduced during extreme snowfall.",
+              "Allow extra time for potential weather-related transit delays.",
+              "Look for bus shelters that provide protection from the wind."
+            ]
+          }
+        }
       }
     }
   }

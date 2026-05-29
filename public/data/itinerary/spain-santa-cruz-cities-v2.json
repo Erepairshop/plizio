@@ -264,6 +264,196 @@
           "Most shops observe an afternoon siesta, plan your shopping accordingly.",
           "Stay hydrated, the Canarian sun can be strong."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag an der Plaza de España, wo der künstliche See bei Regen eine besondere Atmosphäre ausstrahlt. Mittags bietet die Kirche Concepción einen trockenen Rückzugsort, bevor Sie den überdachten Markt besuchen. Nachmittags ist das TEA-Museum ideal, um den Regengüssen zu entgehen. Den Abend beschließen Sie trocken unter dem majestätischen Dach des Auditorio de Tenerife.",
+            "hu": "Kezdje a reggelt a Plaza de Españán, ahol az eső különleges fényt ad a központi tónak. Délben a Concepción-templom nyújt menedéket, majd az afrikai piac fedett folyosóin falatozhat. Délután a TEA múzeum modern belső terei tökéletesek a záporok elől. Az estét az Auditórium lenyűgöző tetőszerkezete alatt zárhatja, védve a széltől és a csapadéktól.",
+            "ro": "Începeți dimineața în Plaza de España, unde lacul artificial capătă reflexii deosebite pe ploaie. La prânz, Biserica Concepción oferă un refugiu liniștit, urmată de coridoarele acoperite ale pieței de pește. După-amiaza este ideală pentru muzeul TEA, protejându-vă de averse. Încheiați seara sub acoperișul spectaculos al Auditoriului, un punct final protejat și modern.",
+            "en": "Start your morning at Plaza de España, where the lake reflects the rainy sky beautifully. At noon, the Church of the Conception provides a peaceful shelter before you explore the covered market stalls. In the afternoon, the TEA museum is the perfect indoor escape from Atlantic showers. End your evening under the iconic, sweeping roof of the Auditorio de Tenerife, staying dry and inspired."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Nutzen Sie die unterirdischen Gänge für trockene Wege.",
+                "hu": "Használja az aluljárókat a száraz közlekedéshez.",
+                "ro": "Folosiți pasajele subterane pentru a rămâne uscați.",
+                "en": "Use the underground passages to stay dry while crossing."
+              }
+            },
+            {
+              "name": "Church of the Immaculate Conception",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Kassettendecke, während es draußen regnet.",
+                "hu": "Csodálja meg a kazettás mennyezetet, amíg kint esik.",
+                "ro": "Admirați tavanul casetat în timp ce afară plouă.",
+                "en": "Admire the coffered ceiling while the rain falls outside."
+              }
+            },
+            {
+              "name": "Market of Our Lady of Africa",
+              "tip_5lang": {
+                "de": "Die Innenhöfe sind teilweise überdacht und windgeschützt.",
+                "hu": "A belső udvarok részben fedettek és szélvédettek.",
+                "ro": "Curțile interioare sunt parțial acoperite și ferite de vânt.",
+                "en": "The inner courtyards are partially covered and wind-sheltered."
+              }
+            },
+            {
+              "name": "Tenerife Space of the Arts (TEA)",
+              "tip_5lang": {
+                "de": "Hervorragendes Café im Innenbereich für eine Regenpause.",
+                "hu": "Kiváló belső kávézó egy esős kávészünethez.",
+                "ro": "Cafenea interioară excelentă pentru o pauză de ploaie.",
+                "en": "Excellent indoor cafe for a rainy coffee break."
+              }
+            },
+            {
+              "name": "García Sanabria Park",
+              "tip_5lang": {
+                "de": "Dichte Baumkronen bieten natürlichen Schutz bei Nieselregen.",
+                "hu": "A sűrű lombozat természetes védelmet nyújt szemerkélő esőben.",
+                "ro": "Coroanele dese oferü protecție naturală în caz de burniță.",
+                "en": "Dense tree canopies offer natural cover during light drizzle."
+              }
+            },
+            {
+              "name": "Auditorio de Tenerife",
+              "tip_5lang": {
+                "de": "Das Foyer ist ein architektonisches Highlight und absolut trocken.",
+                "hu": "Az előcsarnok építészeti remekmű és teljesen száraz.",
+                "ro": "Foaierul este o capodoperă arhitecturală și complet uscat.",
+                "en": "The foyer is an architectural masterpiece and perfectly dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine leichte Regenjacke; Schirme können bei Küstenwind unhandlich sein.",
+              "Der Markt 'Nuestra Señora de África' ist fast vollständig überdacht.",
+              "Museen wie das TEA sind die besten Rückzugsorte bei starkem Regen.",
+              "Die Gehwege in der Nähe des Hafens können bei Nässe rutschig sein.",
+              "Nutzen Sie die Straßenbahn, wenn der Regen zwischen den Stationen zu stark wird."
+            ],
+            "hu": [
+              "Viseljen könnyű esőkabátot, az óceáni szélben az esernyő gyakran kifordul.",
+              "Az afrikai piac (Mercado de África) szinte teljesen fedett és száraz.",
+              "A TEA múzeum a legjobb menedék, ha elered az intenzív trópusi eső.",
+              "A kikötő környéki járda kövei vizesen csúszóssá válhatnak.",
+              "Ha túl erős az eső, a villamos vonala mentén könnyen rövidíthet a távon."
+            ],
+            "ro": [
+              "Purtați o pelerină ușoară; umbrelele pot fi greu de controlat în vântul de coastă.",
+              "Piața 'Nuestra Señora de África' este aproape în întregime acoperită.",
+              "Muzeele precum TEA sunt cele mai bune refugii în caz de ploaie torențială.",
+              "Trotuarele din apropierea portului pot deveni alunecoase când sunt ude.",
+              "Folosiți tramvaiul dacă ploaia devine prea intensă între obiective."
+            ],
+            "en": [
+              "Wear a light raincoat; umbrellas can be tricky with the coastal gusts.",
+              "The 'Nuestra Señora de África' market is almost entirely covered.",
+              "Museums like TEA are the best retreats during heavy Atlantic rain.",
+              "Sidewalk tiles near the waterfront can be slippery when wet.",
+              "Take the tram if the rain gets too intense between walking stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den milden Wintermorgen an der Plaza de España bei angenehmen 20 Grad. Mittags erkunden Sie die Altstadt ohne die Sommerhitze, ideal für den Marktbesuch. Nachmittags blühen die exotischen Pflanzen im Park García Sanabria trotz der Jahreszeit. Den Abend verbringen Sie am Hafen beim Auditorio, wo die Wintersonne früh, aber spektakulär im Atlantik versinkt.",
+            "hu": "Élvezze a lágy téli reggelt a Plaza de Españán, kellemes 20 fokos melegben. Délben a nyári hőség nélkül fedezheti fel az óvárost és a piac forgatagát. Délután a García Sanabria park egzotikus növényei az évszak ellenére is virágoznak. Az estét az Auditóriumnál töltse, ahol a téli nap korán, de látványosan bukik az Atlanti-óceán horizontja alá.",
+            "ro": "Bucurați-vă de o dimineață blândă de iarnă în Plaza de España, la o temperatură plăcută de 20 grade. La prânz, explorați centrul vechi fără arșița verii, ideal pentru piață. După-amiaza, plantele exotice din parcul García Sanabria înfloresc în ciuda sezonului. Încheiați seara la Auditoriu, unde soarele de iarnă apune devreme, dar spectaculos în Atlantic.",
+            "en": "Enjoy a mild winter morning at Plaza de España with temperatures around a pleasant 20°C. At noon, explore the old town and the market without the summer heat. In the afternoon, the exotic plants in García Sanabria Park bloom despite the season. Spend your evening by the Auditorio, where the winter sun sets early but spectacularly over the Atlantic horizon."
+          },
+          "stops": [
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Die Wintersonne ist hier am Vormittag besonders sanft.",
+                "hu": "A téli napsütés itt délelőtt különösen kellemes.",
+                "ro": "Soarele de iarnă este deosebit de blând aici dimineața.",
+                "en": "The winter sun is especially gentle here in the morning."
+              }
+            },
+            {
+              "name": "Church of the Immaculate Conception",
+              "tip_5lang": {
+                "de": "Kühler Innenraum, perfekt wenn die Wintersonne doch stark brennt.",
+                "hu": "Hűvös belső tér, ideális ha a téli nap mégis erősen tűzne.",
+                "ro": "Interior răcoros, perfect dacă soarele de iarnă devine prea puternic.",
+                "en": "Cool interior, perfect if the winter sun feels surprisingly strong."
+              }
+            },
+            {
+              "name": "Market of Our Lady of Africa",
+              "tip_5lang": {
+                "de": "Probieren Sie saisonale Winterfrüchte wie lokale Papayas.",
+                "hu": "Kóstolja meg a szezonális téli gyümölcsöket, például a helyi papaját.",
+                "ro": "Gustați fructele de iarnă de sezon, cum ar fi papaya locală.",
+                "en": "Taste seasonal winter fruits like local papayas."
+              }
+            },
+            {
+              "name": "Tenerife Space of the Arts (TEA)",
+              "tip_5lang": {
+                "de": "Die Bibliothek ist ein wunderbarer Ort zum Aufwärmen am Abend.",
+                "hu": "A könyvtár remek hely a bemelegedésre a hűvösebb estéken.",
+                "ro": "Biblioteca este un loc minunat pentru a vă încălzi seara.",
+                "en": "The library is a wonderful place to warm up in the evening."
+              }
+            },
+            {
+              "name": "García Sanabria Park",
+              "tip_5lang": {
+                "de": "Die Blumenuhr ist auch im Winter farbenfroh bepflanzt.",
+                "hu": "A virágóra télen is színpompás beültetéssel várja.",
+                "ro": "Ceasul floral este plantat colorat chiar și iarna.",
+                "en": "The flower clock is colorfully planted even in winter."
+              }
+            },
+            {
+              "name": "Auditorio de Tenerife",
+              "tip_5lang": {
+                "de": "Bringen Sie eine Jacke mit; die Meeresbrise ist abends kühl.",
+                "hu": "Vigyen magával kabátot, az esti tengeri szél hűvös.",
+                "ro": "Aduceți o jachetă; briza mării este răcoroasă seara.",
+                "en": "Bring a jacket; the sea breeze gets chilly after sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 18:00 Uhr unter.",
+              "Zwiebelprinzip: Tagsüber T-Shirt, abends eine leichte Jacke.",
+              "Die UV-Strahlung ist auch im Winter hoch, Sonnenschutz nicht vergessen.",
+              "Der Park García Sanabria ist im Winter ein Paradies für Botanik-Fans.",
+              "Abends sind die Cafés rund um die Plaza de España gemütliche Treffpunkte."
+            ],
+            "hu": [
+              "Télen a nap korán, 18:00 körül nyugszik le.",
+              "Öltözködjön rétegesen: nappal póló, este könnyű dzseki kell.",
+              "Az UV-sugárzás télen is erős, ne felejtse el a naptejet.",
+              "A García Sanabria park télen is virágzik, igazi botanikai élmény.",
+              "Az esti órákban a Plaza de España környéki kávézók a legélénkebbek."
+            ],
+            "ro": [
+              "Iarna, soarele apune devreme, în jurul orei 18:00.",
+              "Folosiți principiul straturilor: tricou ziua, jachetă ușoară seara.",
+              "Radiațiile UV sunt ridicate și iarna, nu uitați protecția solară.",
+              "Parcul García Sanabria este un paradis botanic chiar și iarna.",
+              "Seara, cafenelele din jurul Plaza de España sunt locuri de întâlnire primitoare."
+            ],
+            "en": [
+              "In winter, the sun sets early, around 18:00 (6 PM).",
+              "Layer your clothes: T-shirt during the day, light jacket for evening.",
+              "UV radiation is high even in winter; don't forget sun protection.",
+              "García Sanabria Park is a botanical paradise even in mid-winter.",
+              "Evening cafes around Plaza de España are cozy meeting spots."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -522,6 +712,196 @@
           "Some areas of the city are hilly, be prepared for some climbs.",
           "Use the designated bike lanes, especially along the coast."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am García Sanabria Park, wo die Wege bei Nässe rutschig sein können. Mittags bietet der Markt trockene Abstellplätze und eine Stärkung. Nachmittags radeln Sie zum Hafen, wobei die Plaza de España bei Regen glänzt. Den Abend lassen Sie am Auditorio ausklingen, wo Sie unter dem großen Vordach Schutz vor den Atlantikwellen und dem Regen finden.",
+            "hu": "Kezdjen óvatosan a García Sanabria parkban, ahol az utak vizesen csúszósak lehetnek. Délben a piac fedett részei száraz pihenőt és frissítőt kínálnak. Délután tekerjen a kikötő felé, a Plaza de España kövei ilyenkor fényesen csillognak. Az estét az Auditóriumnál zárja, ahol a hatalmas tető védelmet nyújt az óceáni széltől és az esőtől.",
+            "ro": "Începeți cu atenție în parcul García Sanabria, unde aleile pot fi alunecoase. La prânz, piața oferă locuri de parcare uscate și gustări locale. După-amiaza pedalați spre port, Plaza de España strălucind sub ploaie. Încheiați seara la Auditoriu, unde consola uriașă vă protejează de valurile Atlanticului și de averse.",
+            "en": "Start carefully at García Sanabria Park, as paths can be slippery when wet. At noon, the market offers dry spots and local refreshments. In the afternoon, cycle towards the port, watching Plaza de España glisten in the rain. End your evening at the Auditorio, where the massive overhang provides shelter from both the Atlantic spray and the rain."
+          },
+          "stops": [
+            {
+              "name": "García Sanabria Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem Laub auf den Radwegen.",
+                "hu": "Vigyázzon a csúszós levelekre a kerékpárutakon.",
+                "ro": "Atenție la frunzele alunecoase de pe pistele de biciclete.",
+                "en": "Watch out for slippery leaves on the bike paths."
+              }
+            },
+            {
+              "name": "Market of Our Lady of Africa",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad in den überdachten Eingangsbereichen.",
+                "hu": "Parkoljon a fedett bejárati részeknél.",
+                "ro": "Parcați bicicleta în zonele de intrare acoperite.",
+                "en": "Park your bike in the covered entrance areas."
+              }
+            },
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Die weißen Kacheln sind bei Nässe extrem rutschig.",
+                "hu": "A fehér csempék vizesen rendkívül csúszósak.",
+                "ro": "Plăcile albe sunt extrem de alunecoase când sunt ude.",
+                "en": "The white tiles are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Auditorio de Tenerife",
+              "tip_5lang": {
+                "de": "Nutzen Sie das große Betondach als Regenschutz.",
+                "hu": "Használja a hatalmas betonív alatti részt esővédelemnek.",
+                "ro": "Folosiți consola mare de beton ca adăpost contra ploii.",
+                "en": "Use the large concrete overhang as rain protection."
+              }
+            },
+            {
+              "name": "Palmetum of Santa Cruz",
+              "tip_5lang": {
+                "de": "Suchen Sie bei Schauern Schutz im Infozentrum.",
+                "hu": "Záporok esetén keressen menedéket az információs központban.",
+                "ro": "Căutați adăpost în centrul de informare în caz de averse.",
+                "en": "Seek shelter in the visitor center during heavy showers."
+              }
+            },
+            {
+              "name": "Castle of St. John the Baptist",
+              "tip_5lang": {
+                "de": "Die Steine rund um das Kastell sind bei Regen glatt.",
+                "hu": "A kastély körüli kövek esőben sikamlósak.",
+                "ro": "Pietrele din jurul castelului sunt lustruite și alunecoase.",
+                "en": "The stones around the castle are slick when it rains."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen; nasse Kacheln in Santa Cruz sind tückisch.",
+              "Vermeiden Sie hektische Lenkbewegungen auf den weißen Marmorflächen.",
+              "Der Radweg am Hafen (Avenida Marítima) ist gut drainiert.",
+              "Tragen Sie helle, wasserfeste Kleidung für bessere Sichtbarkeit.",
+              "Nutzen Sie die Tunnel unter der Plaza de España, um trocken zu bleiben."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket; a vizes kövezet Santa Cruzban csalóka.",
+              "Kerülje a hirtelen kanyarodást a fehér márványfelületeken.",
+              "A kikötői kerékpárút (Avenida Marítima) jól elvezeti a vizet.",
+              "Viseljen világos, vízálló ruhát a jobb láthatóságért.",
+              "Használja a Plaza de España alatti átjárókat, hogy száraz maradjon."
+            ],
+            "ro": [
+              "Verificați frânele; dalele umede din Santa Cruz sunt înșelătoare.",
+              "Evitați virajele bruște pe suprafețele de marmură albă.",
+              "Pista de biciclete de lângă port (Avenida Marítima) are drenaj bun.",
+              "Purtați haine reflectorizante și impermeabile pentru vizibilitate.",
+              "Folosiți pasajele de sub Plaza de España pentru a rămâne uscați."
+            ],
+            "en": [
+              "Check your brakes; wet tiles in Santa Cruz are treacherous.",
+              "Avoid sudden turns on the white marble surfaces.",
+              "The waterfront bike path (Avenida Marítima) has good drainage.",
+              "Wear bright, waterproof clothing for better visibility.",
+              "Utilize the tunnels under Plaza de España to stay dry while moving."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour im blühenden García Sanabria Park bei idealen Radtemperaturen. Mittags radeln Sie zum Markt, um frische Säfte zu genießen. Nachmittags führt der Weg entlang der Küste zur Plaza de España und dem Palmetum, wo die Palmen im Winterlicht glänzen. Der Sonnenuntergang am schwarzen Kastell ist der perfekte Abschluss eines milden kanarischen Wintertages.",
+            "hu": "Kezdje téli túráját a virágzó García Sanabria parkban, ideális kerékpáros időben. Délben tekerjen el a piachoz egy frissítő gyümölcslére. Délután a part mentén haladva érintse a Plaza de Españát és a Palmetumot, ahol a pálmák ragyognak a téli fényben. A naplemente a fekete kastélynál tökéletes zárása egy enyhe kanári téli napnak.",
+            "ro": "Începeți turul de iarnă în parcul înflorit García Sanabria, la temperaturi ideale pentru pedalat. La prânz, mergeți la piață pentru sucuri proaspete. După-amiaza, drumul pe coastă vă duce la Plaza de España și Palmetum, unde palmierii strălucesc în lumina iernii. Apusul la castelul negru este finalul perfect al unei zile blânde de iarnă canariană.",
+            "en": "Start your winter ride in the blooming García Sanabria Park with ideal cycling temperatures. At noon, cycle to the market for fresh local juices. In the afternoon, the coastal path leads you to Plaza de España and the Palmetum, where palms glisten in the winter light. The sunset at the black castle is the perfect end to a mild Canarian winter day."
+          },
+          "stops": [
+            {
+              "name": "García Sanabria Park",
+              "tip_5lang": {
+                "de": "Perfekte Zeit für ein Picknick auf dem Radweg-Rastplatz.",
+                "hu": "Tökéletes idő egy piknikhez a kerékpárút menti pihenőnél.",
+                "ro": "Timp perfect pentru un picnic la locul de popas de pe pistă.",
+                "en": "Perfect time for a picnic at the bike path rest area."
+              }
+            },
+            {
+              "name": "Market of Our Lady of Africa",
+              "tip_5lang": {
+                "de": "Kaufen Sie kanarischen Honig als Wintersouvenir.",
+                "hu": "Vásároljon kanári mézet téli szuvenírnek.",
+                "ro": "Cumpărați miere canariană ca suvenir de iarnă.",
+                "en": "Buy Canarian honey as a winter souvenir."
+              }
+            },
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Der See ist im Winter oft Schauplatz lokaler Events.",
+                "hu": "A tó környéke télen gyakran ad helyet helyi eseményeknek.",
+                "ro": "Lacul este adesea locul unor evenimente locale iarna.",
+                "en": "The lake area often hosts local events during winter."
+              }
+            },
+            {
+              "name": "Auditorio de Tenerife",
+              "tip_5lang": {
+                "de": "Das Abendlicht auf dem weißen Beton ist im Winter magisch.",
+                "hu": "Az esti fények a fehér betonon télen varázslatosak.",
+                "ro": "Lumina serii pe betonul alb este magică iarna.",
+                "en": "The evening light on the white concrete is magical in winter."
+              }
+            },
+            {
+              "name": "Palmetum of Santa Cruz",
+              "tip_5lang": {
+                "de": "Die Wintersonne macht den Aufstieg per Rad angenehm.",
+                "hu": "A téli napsütés kellemessé teszi a kerékpáros felkapaszkodást.",
+                "ro": "Soarele de iarnă face urcarea cu bicicleta plăcută.",
+                "en": "The winter sun makes the climb by bike very pleasant."
+              }
+            },
+            {
+              "name": "Castle of St. John the Baptist",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang; er ist im Winter sehr klar.",
+                "hu": "Élvezze a naplementét; télen gyakran nagyon tiszta az ég.",
+                "ro": "Bucurați-vă de apus; iarna cerul este de obicei foarte senin.",
+                "en": "Enjoy the sunset; it's often very clear in the winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie zwischen 10:00 und 16:00 Uhr, um die Wärme zu nutzen.",
+              "Im Winter weht oft ein Nordost-Passat, planen Sie Gegenwind ein.",
+              "Die Tage sind kürzer; Licht am Fahrrad ist ab 18:00 Uhr Pflicht.",
+              "Besuchen Sie das Palmetum; viele Palmen tragen im Winter Früchte.",
+              "Die Küstenstraße ist im Winter weniger überlaufen von Touristen."
+            ],
+            "hu": [
+              "Tekerjen 10:00 és 16:00 között, hogy kihasználja a meleget.",
+              "Télen gyakori az északkeleti passzátszél, számoljon ellenszéllel.",
+              "A nappalok rövidebbek; 18:00 után kötelező a lámpa.",
+              "Látogassa meg a Palmetumot; sok pálma télen hoz termést.",
+              "A part menti út télen kevésbé zsúfolt a turistáktól."
+            ],
+            "ro": [
+              "Pedalați între orele 10:00 și 16:00 pentru a profita de căldură.",
+              "Iarna suflă adesea alizeele de nord-est; atenție la vântul din față.",
+              "Zilele sunt mai scurte; luminile bicicletei sunt obligatorii după ora 18:00.",
+              "Vizitați Palmetum; mulți palmieri rodesc în timpul iernii.",
+              "Drumul de coastă este mai puțin aglomerat de turiști iarna."
+            ],
+            "en": [
+              "Cycle between 10:00 and 16:00 to catch the most warmth.",
+              "North-east trade winds are common in winter; expect some headwind.",
+              "Days are shorter; bike lights are mandatory after 18:00 (6 PM).",
+              "Visit the Palmetum; many palm species bear fruit in winter.",
+              "The coastal route is less crowded with tourists during the winter months."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -810,6 +1190,214 @@
           "Be mindful of one-way streets in the historic center.",
           "Consider a side trip to Teide National Park if you have time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Parken Sie bequem am Markt, während draußen der Regen prasselt. Mittags fahren Sie trocken zur Kirche und zum TEA-Museum, wobei die Parkhäuser direkten Zugang bieten. Nachmittags führt die Tour zur Plaza de España und zum Auditorio, wo Sie die Architektur vom warmen Auto aus bewundern können. Den Abend schließen Sie am Palmetum ab, wo die Tropenpflanzen unter dem grauen Himmel sattgrün leuchten.",
+            "hu": "Parkoljon kényelmesen a piacnál, amíg kint kopog az eső. Délben autózzon szárazon a templomhoz és a TEA múzeumhoz, a mélygarázsok közvetlen bejutást biztosítanak. Délután a túra a Plaza de Españát és az Auditóriumot érinti, ahol a meleg autóból is csodálhatja az építészetet. Az estét a Palmetumnál zárja, ahol a trópusi növények haragoszölden ragyognak a szürke ég alatt.",
+            "ro": "Parcați confortabil la piață în timp ce ploaia bate în parbriz. La prânz, conduceți spre biserică și muzeul TEA, parcările oferind acces direct. După-amiaza, turul include Plaza de España și Auditoriul, unde puteți admira arhitectura din confortul mașinii. Încheiați seara la Palmetum, unde plantele tropicale strălucesc de un verde intens sub cerul gri.",
+            "en": "Park comfortably at the market while the rain pours outside. At noon, drive dry to the church and the TEA museum, using the direct-access parking garages. In the afternoon, the tour takes you to Plaza de España and the Auditorio, where you can admire the architecture from your warm car. End the evening at the Palmetum, where tropical plants glow in deep green under the grey sky."
+          },
+          "stops": [
+            {
+              "name": "Market of Our Lady of Africa",
+              "tip_5lang": {
+                "de": "Parkhaus unter dem Markt bietet trockenen Zugang.",
+                "hu": "A piac alatti parkolóházból szárazon juthat be.",
+                "ro": "Parcarea de sub piață oferă acces ferit de ploaie.",
+                "en": "The parking garage under the market provides dry access."
+              }
+            },
+            {
+              "name": "Church of the Immaculate Conception",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz zur Kirche minimieren Regenzeit.",
+                "hu": "A rövid út a parkolótól a templomig minimalizálja az ázást.",
+                "ro": "Distanța scurtă de la parcare la biserică minimizează expunerea.",
+                "en": "Short walk from the parking to the church minimizes rain exposure."
+              }
+            },
+            {
+              "name": "Tenerife Space of the Arts (TEA)",
+              "tip_5lang": {
+                "de": "Tiefgarage direkt unter dem Museum nutzen.",
+                "hu": "Használja közvetlenül a múzeum alatti mélygarázst.",
+                "ro": "Folosiți parcarea subterană direct de sub muzeu.",
+                "en": "Use the underground parking directly beneath the museum."
+              }
+            },
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Parkhaus 'Intercambiador' ist eine gute, trockene Basis.",
+                "hu": "Az 'Intercambiador' parkolóház jó és száraz bázis.",
+                "ro": "Parcarea 'Intercambiador' este o bază bună și uscată.",
+                "en": "The 'Intercambiador' parking is a good, dry home base."
+              }
+            },
+            {
+              "name": "Auditorio de Tenerife",
+              "tip_5lang": {
+                "de": "Parken Sie im Außenbereich nah am Eingang.",
+                "hu": "Parkoljon a bejárathoz közeli külső parkolóban.",
+                "ro": "Parcați în zona exterioară aproape de intrare.",
+                "en": "Park in the outdoor area close to the main entrance."
+              }
+            },
+            {
+              "name": "Castle of St. John the Baptist",
+              "tip_5lang": {
+                "de": "Vom Parkplatz am Auditorio aus zu Fuß erreichbar.",
+                "hu": "Az Auditórium parkolójától gyalog is gyorsan elérhető.",
+                "ro": "Accesibil pe jos din parcarea Auditoriului.",
+                "en": "Easily reachable on foot from the Auditorio parking lot."
+              }
+            },
+            {
+              "name": "Palmetum of Santa Cruz",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt am Eingang, Schirm bereit halten.",
+                "hu": "Nagy parkoló közvetlenül a bejáratnál, legyen kéznél ernyő.",
+                "ro": "Parcare mare la intrare, țineți umbrela la îndemână.",
+                "en": "Large parking right at the entrance, keep your umbrella ready."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkhäuser im Stadtzentrum sind bei Regen oft voll.",
+              "Vermeiden Sie die Küstenstraße TF-1 bei extremem Starkregen (Aquaplaning).",
+              "Nutzen Sie die Tiefgaragen beim TEA und am Markt für maximalen Komfort.",
+              "Prüfen Sie die Scheibenwischer; kanarische Schauer sind intensiv.",
+              "In der Nähe des Hafens kann es bei Regen zu Verkehrsbehinderungen kommen."
+            ],
+            "hu": [
+              "A belvárosi parkolóházak esőben hamar megtelnek.",
+              "Kerülje a TF-1-es parti utat felhőszakadáskor az aquaplaning veszélye miatt.",
+              "A TEA és a piac mélygarázsai a legkényelmesebbek ilyenkor.",
+              "Ellenőrizze az ablaktörlőket; a kanári záporok intenzívek.",
+              "A kikötő környékén esőben gyakoriak a közlekedési fennakadások."
+            ],
+            "ro": [
+              "Parcările supraetajate din centru se umplu repede pe ploaie.",
+              "Evitați autostrada TF-1 în caz de ploaie torențială (acvaplanare).",
+              "Parcările subterane de la TEA și piață sunt cele mai confortabile.",
+              "Verificați ștergătoarele; aversele canariene pot fi foarte intense.",
+              "În apropierea portului pot apărea blocaje în trafic când plouă."
+            ],
+            "en": [
+              "City center parking garages fill up quickly when it rains.",
+              "Avoid the TF-1 coastal road during heavy downpours (aquaplaning risk).",
+              "Underground parking at TEA and the market offers maximum comfort.",
+              "Check your wipers; Canarian rain showers are short but very intense.",
+              "Expect some traffic delays near the port area during rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre winterliche Fahrt am Markt, wo das Treiben bei kühlen 18 Grad beginnt. Mittags erkunden Sie die Sehenswürdigkeiten der Stadt bequem mit dem Auto, ohne Parkplatzsorgen in der Nebensaison. Nachmittags besuchen Sie das Auditorio und das Palmetum, wo die Wintersonne die subtropische Pracht beleuchtet. Der Abend endet am Hafen, wo die Luft frisch ist und die Lichter der Stadt im Winter kristallklar leuchten.",
+            "hu": "Kezdje téli autós túráját a piacon, ahol a nyüzsgés hűvös, 18 fokos reggelen indul. Délben kényelmesen járja körbe a város látnivalóit, a holtszezonban könnyebb parkolással. Délután látogassa meg az Auditóriumot és a Palmetumot, ahol a téli nap megvilágítja a szubtrópusi pompát. Az este a kikötőnél ér véget, ahol a levegő friss, a város fényei pedig télen kristálytisztán ragyognak.",
+            "ro": "Începeți călătoria de iarnă la piață, unde animația începe într-o dimineață răcoroasă de 18 grade. La prânz, explorați atracțiile orașului cu mașina, profitând de parcările mai libere. După-amiaza vizitați Auditoriul și Palmetum, unde soarele de iarnă luminează splendoarea subtropicală. Seara se încheie în port, unde aerul este proaspăt, iar luminile orașului strălucesc clar.",
+            "en": "Start your winter driving tour at the market, where the bustle begins on a crisp 18°C morning. At noon, explore the city's sights comfortably, with easier parking in the off-season. In the afternoon, visit the Auditorio and the Palmetum, where the winter sun illuminates the subtropical splendor. The evening ends at the port, where the air is fresh and the city lights shine crystal clear."
+          },
+          "stops": [
+            {
+              "name": "Market of Our Lady of Africa",
+              "tip_5lang": {
+                "de": "Ideale Zeit für den Kauf von Weihnachtsleckereien.",
+                "hu": "Ideális időpont karácsonyi édességek vásárlásához.",
+                "ro": "Timpul ideal pentru a cumpăra dulciuri de Crăciun.",
+                "en": "Ideal time to buy traditional Christmas treats."
+              }
+            },
+            {
+              "name": "Church of the Immaculate Conception",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Weihnachtskrippe (Belen), falls vorhanden.",
+                "hu": "Nézze meg a betlehemet, ha épp ki van állítva.",
+                "ro": "Vizitați ieslea de Crăciun (Belen), dacă este expusă.",
+                "en": "Visit the Christmas nativity scene (Belen) if displayed."
+              }
+            },
+            {
+              "name": "Tenerife Space of the Arts (TEA)",
+              "tip_5lang": {
+                "de": "Abends ist das beleuchtete Gebäude ein Fotomotiv.",
+                "hu": "Este a kivilágított épület remek fotótéma.",
+                "ro": "Seara, clădirea iluminată este un subiect foto excelent.",
+                "en": "The illuminated building is a great photo subject at night."
+              }
+            },
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Parken Sie hier für den Weihnachtsmarkt-Besuch.",
+                "hu": "Parkoljon itt, ha megnézné a karácsonyi vásárt.",
+                "ro": "Parcați aici pentru a vizita târgul de Crăciun.",
+                "en": "Park here to visit the local Christmas market."
+              }
+            },
+            {
+              "name": "Auditorio de Tenerife",
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die weißen Kurven perfekt hervor.",
+                "hu": "A téli fények tökéletesen kiemelik a fehér íveket.",
+                "ro": "Lumina de iarnă evidențiază perfect curbele albe.",
+                "en": "Winter light highlights the white curves perfectly."
+              }
+            },
+            {
+              "name": "Castle of St. John the Baptist",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos bei Sonnenuntergang.",
+                "hu": "Gyors megálló fotózáshoz naplementekor.",
+                "ro": "Oprire scurtă pentru fotografii la apus.",
+                "en": "Quick stop for photos at sunset."
+              }
+            },
+            {
+              "name": "Palmetum of Santa Cruz",
+              "tip_5lang": {
+                "de": "Beste Zeit für den Aufstieg zum Gipfel des Hügels.",
+                "hu": "A legjobb időszak a dombtetőre való feljutáshoz.",
+                "ro": "Cea mai bună perioadă pentru a urca în vârful dealului.",
+                "en": "Best season to climb to the top of the hill."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkplatzsuche ist im Winter deutlich entspannter.",
+              "Die Hauptstraßen sind weihnachtlich beleuchtet (ab Ende November).",
+              "Klimaanlage im Auto ist im Winter meist nicht nötig.",
+              "Vorsicht bei Fahrten in die Berge (Anaga); dort ist es deutlich kühler.",
+              "Nutzen Sie das Auto, um nach Sonnenuntergang schnell zum Hotel zu kommen."
+            ],
+            "hu": [
+              "A parkolóhely-keresés télen sokkal egyszerűbb.",
+              "A főutcák karácsonyi díszkivilágítást kapnak (november végétől).",
+              "Az autóban a légkondicionáló télen általában felesleges.",
+              "Vigyázzon, ha a hegyekbe (Anaga) hajt; ott sokkal hűvösebb van.",
+              "Használja az autót, hogy naplemente után gyorsan a hotelbe érjen."
+            ],
+            "ro": [
+              "Găsirea unui loc de parcare este mult mai ușoară iarna.",
+              "Străzile principale sunt iluminate festiv (de la sfârșitul lui noiembrie).",
+              "Aerul condiționat în mașină nu este necesar de obicei iarna.",
+              "Atenție dacă conduceți spre munți (Anaga); acolo este mult mai frig.",
+              "Folosiți mașina pentru a ajunge repede la hotel după apus."
+            ],
+            "en": [
+              "Finding parking is significantly easier during the winter months.",
+              "Main streets are decorated with Christmas lights (from late Nov).",
+              "Air conditioning in the car is usually not needed in winter.",
+              "Be careful if driving to the mountains (Anaga); it's much colder there.",
+              "Use the car to return quickly to your accommodation after sunset."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1074,6 +1662,196 @@
           "The TITSA app is useful for planning bus routes in real time.",
           "Tram Line 1 is a quick and scenic way to commute between the center and the coast."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Tour am Markt, den Sie trocken mit dem Bus erreichen. Mittags bringt Sie der Nahverkehr schnell zum TEA-Museum und zur Plaza de España, wobei die Haltestellen meist überdacht sind. Nachmittags fahren Sie zum Park und zum Auditorio, wo Sie die Architektur ohne Regensorgen bewundern. Den Abend beenden Sie am Palmetum, wobei die Busfahrt Ihnen den Blick auf das regnerische Santa Cruz ermöglicht.",
+            "hu": "Kezdje túráját a piacon, amelyet busszal szárazon érhet el. Délben a tömegközlekedés gyorsan a TEA múzeumhoz és a Plaza de Españához viszi, a megállók többsége fedett. Délután a parkot és az Auditóriumot látogassa meg, az eső miatt nem kell aggódnia az utazás alatt. Az estét a Palmetumnál zárja, a busz ablakából pedig megcsodálhatja az esős Santa Cruz fényeit.",
+            "ro": "Începeți turul la piață, unde puteți ajunge uscați cu autobuzul. La prânz, transportul public vă duce rapid la muzeul TEA și Plaza de España, stațiile fiind majoritar acoperite. După-amiaza vizitați parcul și Auditoriul, fără grija ploii în timpul deplasării. Încheiați seara la Palmetum, admirând din autobuz peisajul ploios al orașului.",
+            "en": "Start your tour at the market, easily reachable dry by bus. At noon, public transit takes you quickly to the TEA museum and Plaza de España; most stops are covered. In the afternoon, visit the park and the Auditorio, staying dry while moving between sights. End your evening at the Palmetum, enjoying the view of rainy Santa Cruz from the bus window."
+          },
+          "stops": [
+            {
+              "name": "Market of Our Lady of Africa",
+              "tip_5lang": {
+                "de": "Bushaltestellen direkt gegenüber dem Markteingang.",
+                "hu": "Buszmegállók közvetlenül a piac bejáratával szemben.",
+                "ro": "Stații de autobuz chiar vizavi de intrarea în piață.",
+                "en": "Bus stops are located directly opposite the market entrance."
+              }
+            },
+            {
+              "name": "Tenerife Space of the Arts (TEA)",
+              "tip_5lang": {
+                "de": "Kurzer, teils überdachter Weg von der Haltestelle.",
+                "hu": "Rövid, részben fedett út a megállótól.",
+                "ro": "Drum scurt, parțial acoperit, de la stație.",
+                "en": "Short, partially covered walk from the bus stop."
+              }
+            },
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt 'Intercambiador' ist komplett überdacht.",
+                "hu": "Az 'Intercambiador' központi csomópont teljesen fedett.",
+                "ro": "Nodul central 'Intercambiador' este complet acoperit.",
+                "en": "The central 'Intercambiador' hub is fully covered."
+              }
+            },
+            {
+              "name": "García Sanabria Park",
+              "tip_5lang": {
+                "de": "Haltestellen an der Nordseite bieten besseren Schutz.",
+                "hu": "Az északi oldali megállók jobb védelmet nyújtanak.",
+                "ro": "Stațiile de pe latura de nord oferă protecție mai bună.",
+                "en": "Stops on the north side offer better rain protection."
+              }
+            },
+            {
+              "name": "Auditorio de Tenerife",
+              "tip_5lang": {
+                "de": "Buslinie 910 hält direkt davor, minimiert Gehzeit im Regen.",
+                "hu": "A 910-es busz közvetlenül előtte áll meg, kevés gyaloglás.",
+                "ro": "Linia 910 oprește chiar în față, minimizând mersul prin ploaie.",
+                "en": "Bus line 910 stops right in front, minimizing walking in the rain."
+              }
+            },
+            {
+              "name": "Palmetum of Santa Cruz",
+              "tip_5lang": {
+                "de": "Vom Intercambiador nur ein kurzer Weg, Schirm nötig.",
+                "hu": "Az Intercambiadortól rövid út, ernyő szükséges.",
+                "ro": "Drum scurt de la Intercambiador, necesită umbrelă.",
+                "en": "Short walk from the Intercambiador; umbrella required."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßenbahn (Tranvía) ist das trockenste Verkehrsmittel.",
+              "Der Busbahnhof 'Intercambiador' ist ein idealer, trockener Umsteigepunkt.",
+              "Kaufen Sie eine 'Ten+' Karte im Voraus, um im Regen nicht am Automaten zu stehen.",
+              "Busse können bei Regen aufgrund von Verkehr etwas Verspätung haben.",
+              "Die Haltestellen im Stadtzentrum sind meist mit Glasdächern ausgestattet."
+            ],
+            "hu": [
+              "A villamos (Tranvía) a legszárazabb közlekedési mód.",
+              "Az 'Intercambiador' buszállomás ideális, fedett átszállópont.",
+              "Vegye meg előre a 'Ten+' kártyát, hogy ne esőben kelljen automatázni.",
+              "A buszok esőben a forgalom miatt késhetnek pár percet.",
+              "A belvárosi megállók többsége üvegtetővel védett."
+            ],
+            "ro": [
+              "Tramvaiul (Tranvía) este cel mai ferit mijloc de transport.",
+              "Autogara 'Intercambiador' este un punct de transfer ideal și uscat.",
+              "Cumpărați cardul 'Ten+' în avans pentru a evita cozile la automate pe ploaie.",
+              "Autobuzele pot avea întârzieri din cauza traficului când plouă.",
+              "Stațiile din centrul orașului sunt majoritar dotate cu copertine."
+            ],
+            "en": [
+              "The tram (Tranvía) is the driest way to get around.",
+              "The 'Intercambiador' bus station is an ideal, covered transfer hub.",
+              "Buy a 'Ten+' card in advance to avoid using ticket machines in the rain.",
+              "Buses may experience slight delays due to traffic during showers.",
+              "Most city center stops are equipped with glass rain shelters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Markt in einen milden Wintertag, bequem erreichbar mit dem Bus. Mittags bringt Sie die Straßenbahn in die Altstadt, wo die Wintersonne die Fassaden beleuchtet. Nachmittags fahren Sie zum Park und zum Auditorio, um die subtropische Atmosphäre bei angenehmen Temperaturen zu genießen. Den Abend lassen Sie am Palmetum ausklingen, wobei die Rückfahrt zum Hotel im gut beleuchteten Nahverkehr sicher und warm ist.",
+            "hu": "Kezdje a piacon az enyhe téli napot, amely busszal kényelmesen elérhető. Délben a villamos viszi az óvárosba, ahol a téli nap megvilágítja a homlokzatokat. Délután utazzon a parkhoz és az Auditóriumhoz, hogy élvezze a szubtrópusi hangulatot a kellemes melegben. Az estét a Palmetumnál zárja, a visszaút a jól kivilágított járatokon biztonságos és meleg.",
+            "ro": "Începeți la piață o zi blândă de iarnă, accesibilă confortabil cu autobuzul. La prânz, tramvaiul vă duce în centrul vechi, unde soarele de iarnă luminează fațadele. După-amiaza mergeți la parc și la Auditoriu pentru a savura atmosfera subtropicală. Seara se încheie la Palmetum, întoarcerea la hotel fiind sigură și caldă în transportul public bine iluminat.",
+            "en": "Start a mild winter day at the market, conveniently reachable by bus. At noon, the tram takes you to the old town, where the winter sun lights up the historic facades. In the afternoon, ride to the park and the Auditorio to enjoy the subtropical atmosphere in pleasant temperatures. End your evening at the Palmetum; the ride back is safe and warm in well-lit public transit."
+          },
+          "stops": [
+            {
+              "name": "Market of Our Lady of Africa",
+              "tip_5lang": {
+                "de": "Saisonaler Betrieb, morgens ist es am lebhaftesten.",
+                "hu": "Szezonális kínálat, reggel a legpezsgőbb a piac.",
+                "ro": "Program sezonier, dimineața este cel mai plin de viață.",
+                "en": "Seasonal produce available; morning is the liveliest time."
+              }
+            },
+            {
+              "name": "Tenerife Space of the Arts (TEA)",
+              "tip_5lang": {
+                "de": "Gute Anbindung an alle Hauptbuslinien.",
+                "hu": "Kiváló összeköttetés az összes fő buszvonallal.",
+                "ro": "Conexiuni bune cu toate liniile principale de autobuz.",
+                "en": "Good connections to all major bus lines."
+              }
+            },
+            {
+              "name": "Plaza de España",
+              "tip_5lang": {
+                "de": "Hier halten die meisten Touristenbusse und die Tram.",
+                "hu": "Itt áll meg a legtöbb turistabusz és a villamos is.",
+                "ro": "Aici opresc majoritatea autobuzelor turistice și tramvaiul.",
+                "en": "Most tourist buses and the tram stop here."
+              }
+            },
+            {
+              "name": "García Sanabria Park",
+              "tip_5lang": {
+                "de": "Beste Erreichbarkeit mit den Linien 905 und 912.",
+                "hu": "A 905-ös és 912-es járatokkal érhető el a legjobban.",
+                "ro": "Accesibil cel mai bine cu liniile 905 și 912.",
+                "en": "Best reached using lines 905 and 912."
+              }
+            },
+            {
+              "name": "Auditorio de Tenerife",
+              "tip_5lang": {
+                "de": "Die Haltestelle bietet einen tollen Blick auf das Meer.",
+                "hu": "A megállóból nagyszerű kilátás nyílik a tengerre.",
+                "ro": "Stația oferă o priveliște minunată asupra mării.",
+                "en": "The stop offers a great view of the ocean."
+              }
+            },
+            {
+              "name": "Palmetum of Santa Cruz",
+              "tip_5lang": {
+                "de": "Nahe am Busbahnhof, ideal für die Rückreise.",
+                "hu": "Közel van a buszállomáshoz, ideális a hazautazáshoz.",
+                "ro": "Aproape de autogară, ideal pentru drumul de întoarcere.",
+                "en": "Close to the main bus station, ideal for the return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßenbahn fährt im Winter nach dem regulären Fahrplan.",
+              "Nutzen Sie die klimatisierten Busse, falls es mittags doch warm wird.",
+              "Die Ten+ Karte gilt für Busse und Straßenbahn gleichermaßen.",
+              "Abends sind die Busse seltener getaktet, Fahrplan prüfen.",
+              "Vom Busbahnhof aus sind es nur wenige Minuten zum Palmetum."
+            ],
+            "hu": [
+              "A villamos télen is a megszokott menetrend szerint jár.",
+              "Használja a légkondicionált buszokat, ha délben túl meleg lenne.",
+              "A Ten+ kártya a buszra és a villamosra is érvényes.",
+              "Este a buszok ritkábban járnak, ellenőrizze a menetrendet.",
+              "A buszpályaudvartól csak pár perc séta a Palmetum."
+            ],
+            "ro": [
+              "Tramvaiul circulă după orarul normal și în timpul iernii.",
+              "Folosiți autobuzele cu aer condiționat dacă la prânz se încălzește.",
+              "Cardul Ten+ este valabil atât pentru autobuz, cât și pentru tramvai.",
+              "Seara autobuzele circulă mai rar, verificați programul.",
+              "De la autogară sunt doar câteva minute de mers până la Palmetum."
+            ],
+            "en": [
+              "The tram runs on its regular schedule during winter.",
+              "Use air-conditioned buses if it gets surprisingly warm at noon.",
+              "The Ten+ card is valid for both buses and the tram.",
+              "Buses run less frequently in the evening; check the timetable.",
+              "The Palmetum is just a few minutes' walk from the main bus station."
+            ]
+          }
+        }
       }
     }
   }

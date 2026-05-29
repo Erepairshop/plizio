@@ -350,6 +350,214 @@
           "Most places in the city center are within easy walking distance.",
           "Check the weather forecast and dress in layers."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag mit einem Schirm im Kanalparken, wo der Regen auf das Wasser des Oslofjords prasselt. Mittags bietet die historische Møllebyen mit ihren Backsteingebäuden und Cafés perfekten Schutz. Am Nachmittag erkunden Sie die Galleri Moss, ein idealer Ort für Kunstgenuss im Trockenen. Den Abend lassen Sie im industriellen Ambiente von Verket ausklingen, das bei Regen besonders atmosphärisch wirkt.",
+            "hu": "Kezdje a napot esernyővel a Kanalparkenben, ahol az eső kopog az Oslo-fjord vizén. Délben a történelmi Møllebyen téglaépületei és kávézói nyújtanak menedéket. Délután fedezze fel a Galleri Moss kiállításait, ami ideális program esős időre. Az estét a Verket ipari negyedében zárja, amelynek patinás épületei esőben is különleges hangulatot árasztanak.",
+            "ro": "Începeți ziua cu o umbrelă în Kanalparken, unde ploaia cade peste apele fiordului Oslo. La prânz, clădirile istorice din cărămidă și cafenelele din Møllebyen oferă adăpostul perfect. După-amiaza, explorați Galleri Moss, un loc ideal pentru artă la adăpost de ploaie. Încheiați seara în ambianța industrială de la Verket, care are un farmec aparte pe vreme umedă.",
+            "en": "Start the day with an umbrella in Kanalparken, where the rain patters on the Oslo Fjord. At midday, the historic brick buildings and cafes of Møllebyen provide perfect shelter. In the afternoon, explore Galleri Moss, an ideal spot for enjoying art while staying dry. End your evening in the industrial atmosphere of Verket, which feels especially cozy and atmospheric in the rain."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Kanalparken",
+              "tip_4lang": {
+                "de": "Feste Regenschuhe sind auf den Wegen am Wasser empfehlenswert.",
+                "hu": "Vízálló cipő ajánlott a vízparti sétányokon.",
+                "ro": "Se recomandă încălțăminte impermeabilă pentru potecile de pe malul apei.",
+                "en": "Waterproof shoes are recommended for the paths along the water."
+              }
+            },
+            {
+              "name": "Møllebyen (The Mill Town)",
+              "tip_4lang": {
+                "de": "Kehren Sie im Moss Bibliothek-Café ein, um dem Schauer zu entgehen.",
+                "hu": "Térjen be a Moss könyvtár kávézójába az eső elől.",
+                "ro": "Intrați în cafeneaua bibliotecii din Moss pentru a scăpa de ploaie.",
+                "en": "Step into the Moss library cafe to escape the shower."
+              }
+            },
+            {
+              "name": "Konventionsgården",
+              "tip_4lang": {
+                "de": "Bewundern Sie die Fassade unter dem Vordach gegenüberliegender Gebäude.",
+                "hu": "Csodálja meg a homlokzatot a szemközti épületek eresze alól.",
+                "ro": "Admirați fațada de sub streșinile clădirilor de vizavi.",
+                "en": "Admire the facade from under the eaves of the buildings opposite."
+              }
+            },
+            {
+              "name": "Moss Church",
+              "tip_4lang": {
+                "de": "Ein ruhiger, trockener Ort für eine kurze besinnliche Pause.",
+                "hu": "Csendes, száraz hely egy rövid elmélyüléshez.",
+                "ro": "Un loc liniștit și uscat pentru o scurtă pauză de reflecție.",
+                "en": "A quiet, dry spot for a brief reflective break."
+              }
+            },
+            {
+              "name": "Galleri Moss",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Garderobe, um nasse Mäntel vor dem Rundgang abzugeben.",
+                "hu": "Használja a ruhatárat a vizes kabátok leadásához a körút előtt.",
+                "ro": "Folosiți garderoba pentru a lăsa haina udă înainte de tur.",
+                "en": "Use the cloakroom to leave wet coats before the tour."
+              }
+            },
+            {
+              "name": "Verket",
+              "tip_4lang": {
+                "de": "Die Backsteingänge bieten teilweise Schutz vor dem Wind und Regen.",
+                "hu": "A téglafalak közötti átjárók részleges védelmet nyújtanak a szél ellen.",
+                "ro": "Pasajele dintre clădirile de cărămidă oferă protecție parțială împotriva ploii.",
+                "en": "The brick passages offer partial shelter from the wind and rain."
+              }
+            },
+            {
+              "name": "Moss Sjøbad (Sea Bath)",
+              "tip_4lang": {
+                "de": "Der Blick auf den grauen Fjord hat eine ganz eigene, melancholische Schönheit.",
+                "hu": "A szürke fjord látványa különleges, melankolikus szépséggel bír.",
+                "ro": "Priveliștea fiordului cenușiu are o frumusețe melancolică aparte.",
+                "en": "The view of the gray fjord has its own unique, melancholic beauty."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen der Windböen vom Fjord unerlässlich.",
+              "Nutzen Sie die kurzen Wege zwischen Møllebyen und der Kirche.",
+              "Kombinieren Sie Außenstopps mit längeren Pausen in Museen oder Cafés.",
+              "Achten Sie auf rutschiges Kopfsteinpflaster in der Altstadt.",
+              "Wasserdichte Handyhüllen sind nützlich für Fotos im Freien."
+            ],
+            "hu": [
+              "A fjord felől érkező széllökések miatt erős esernyőre lesz szüksége.",
+              "Használja ki a rövid távolságokat a Møllebyen és a templom között.",
+              "Kombinálja a szabadtéri pontokat hosszabb múzeumi vagy kávézói pihenőkkel.",
+              "Vigyázzon a csúszós macskakövekre az óvárosi részeken.",
+              "A vízálló telefontok jól jöhet a kinti fotózáshoz."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza rafalele de vânt de pe fiord.",
+              "Profită de distanțele scurte dintre Møllebyen și biserică.",
+              "Combină opririle în aer liber cu pauze mai lungi în muzee sau cafenele.",
+              "Atenție la pavajul alunecos din zonele vechi ale orașului.",
+              "Husele impermeabile pentru telefon sunt utile pentru fotografii afară."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to wind gusts from the fjord.",
+              "Take advantage of the short distances between Møllebyen and the church.",
+              "Combine outdoor stops with longer breaks in museums or cafes.",
+              "Watch out for slippery cobblestones in the old town areas.",
+              "Waterproof phone cases are useful for outdoor photography."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Atmen Sie die klare Winterluft im Kanalparken ein, während die Sonne tief über dem Horizont steht. Mittags wärmen Sie sich in den gemütlichen Räumen der Møllebyen bei einem heißen Kakao auf. Der Nachmittag gehört der Kultur in der Galleri Moss, bevor die Dämmerung früh einsetzt. Am Abend erstrahlt Verket im festlichen Licht und lädt zu einem stimmungsvollen Spaziergang ein.",
+            "hu": "Szívja be a friss téli levegőt a Kanalparkenben, miközben a nap alacsonyan jár a horizont felett. Délben melegedjen fel a Møllebyen barátságos helyiségeiben egy forró csokoládéval. A délután a kultúráé a Galleri Moss falai között, mielőtt korán leszáll az éj. Este a Verket ünnepi fényben úszik, hívogatva egy hangulatos sétára.",
+            "ro": "Respirați aerul proaspăt de iarnă în Kanalparken, în timp ce soarele stă jos la orizont. La prânz, încălziți-vă în spațiile primitoare din Møllebyen cu o ciocolată caldă. După-amiaza este dedicată culturii la Galleri Moss, înainte ca întunericul să se lase devreme. Seara, Verket strălucește în lumini festive, invitându-vă la o plimbare atmosferică.",
+            "en": "Breathe in the crisp winter air at Kanalparken while the sun hangs low on the horizon. At midday, warm up in the cozy spaces of Møllebyen with a hot chocolate. The afternoon is dedicated to culture at Galleri Moss before darkness falls early. In the evening, Verket glows with festive lights, inviting you for an atmospheric stroll."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Kanalparken",
+              "tip_4lang": {
+                "de": "Vorsicht vor gefrorenen Stellen auf den Wegen in der Nähe des Wassers.",
+                "hu": "Vigyázzon a fagyott szakaszokra a vízparti utakon.",
+                "ro": "Atenție la porțiunile înghețate de pe potecile de lângă apă.",
+                "en": "Watch out for frozen patches on the paths near the water."
+              }
+            },
+            {
+              "name": "Møllebyen (The Mill Town)",
+              "tip_4lang": {
+                "de": "Besuchen Sie das Kino in der alten Mühle für eine warme Pause.",
+                "hu": "Látogasson el a régi malomban működő moziba egy meleg pihenőre.",
+                "ro": "Vizitați cinematograful din vechea moară pentru o pauză călduroasă.",
+                "en": "Visit the cinema in the old mill for a warm indoor break."
+              }
+            },
+            {
+              "name": "Konventionsgården",
+              "tip_4lang": {
+                "de": "Das gelbe Gebäude leuchtet im blauen Winterlicht besonders schön.",
+                "hu": "A sárga épület különösen szépen mutat a kék téli fényben.",
+                "ro": "Clădirea galbenă arată deosebit de frumos în lumina albastră de iarnă.",
+                "en": "The yellow building looks especially beautiful in the blue winter light."
+              }
+            },
+            {
+              "name": "Moss Church",
+              "tip_4lang": {
+                "de": "Oft festlich geschmückt und ein warmer Ort der Stille.",
+                "hu": "Gyakran ünnepi díszben várja a látogatókat, meleg és csendes hely.",
+                "ro": "Adesea decorată festiv, este un loc cald și liniștit.",
+                "en": "Often festively decorated and a warm place of silence."
+              }
+            },
+            {
+              "name": "Galleri Moss",
+              "tip_4lang": {
+                "de": "Planen Sie den Besuch hier für die kälteste Zeit des Nachmittags ein.",
+                "hu": "A látogatást a délután leghidegebb óráira időzítse.",
+                "ro": "Planificați vizita aici pentru cele mai reci ore ale după-amiezii.",
+                "en": "Plan your visit here for the coldest hours of the afternoon."
+              }
+            },
+            {
+              "name": "Verket",
+              "tip_4lang": {
+                "de": "Genießen Sie die Winterbeleuchtung der historischen Fabrikfassaden.",
+                "hu": "Élvezze a történelmi gyárhomlokzatok téli kivilágítását.",
+                "ro": "Bucurați-vă de iluminatul de iarnă al fațadelor fabricilor istorice.",
+                "en": "Enjoy the winter lighting of the historic factory facades."
+              }
+            },
+            {
+              "name": "Moss Sjøbad (Sea Bath)",
+              "tip_4lang": {
+                "de": "Nur für Hartgesottene: Beobachten Sie die norwegischen Eisschwimmer.",
+                "hu": "Csak bátraknak: figyelje meg a norvég jeges úszókat.",
+                "ro": "Doar pentru cei curajoși: observați înotătorii norvegieni în ape înghețate.",
+                "en": "Only for the brave: observe the Norwegian ice swimmers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip für den kalten Wind am Fjord.",
+              "Die Sonne geht im Winter bereits gegen 15:30 bis 16:00 Uhr unter.",
+              "Tragen Sie Schuhe mit gutem Profil wegen möglicher Glätte.",
+              "Viele Cafés bieten 'Varm sjokolade' mit Sahne an – ein Muss.",
+              "Die Museen sind gut beheizt und bieten perfekte Aufwärmstopps."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a fjord felől fújó hideg szél miatt.",
+              "A nap télen már 15:30 és 16:00 között lenyugszik.",
+              "Viseljen jó tapadású talpú cipőt az esetleges jegesedés miatt.",
+              "Sok kávézó kínál tejszínhabos 'Varm sjokolade'-t – ne hagyja ki.",
+              "A múzeumok jól fűtöttek, tökéletes helyszínek a felmelegedéshez."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine pentru vântul rece de pe fiord.",
+              "Soarele apune iarna deja între orele 15:30 și 16:00.",
+              "Purtați încălțăminte cu aderență bună din cauza posibilei polei.",
+              "Multe cafenele oferă 'Varm sjokolade' cu frișcă – un deliciu obligatoriu.",
+              "Muzeele sunt bine încălzite și oferă opriri perfecte pentru încălzire."
+            ],
+            "en": [
+              "Dress in layers to protect yourself from the cold fjord wind.",
+              "The sun sets as early as 15:30 to 16:00 in the winter.",
+              "Wear shoes with good grip due to potential icy conditions.",
+              "Many cafes offer 'Varm sjokolade' with cream – a winter must-try.",
+              "Museums are well-heated and serve as perfect warming stops."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -678,6 +886,214 @@
           "Bring snacks and water for the trip to Jeløya.",
           "Most paths are well-maintained, but be prepared for some hills."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie durch den Nieselregen zu den alten Mühlen von Moss, wo die feuchten Ziegelsteine glänzen. Der Wind trägt den Geruch des Meeres herüber, während Sie Konventionsgården passieren. Nachmittags führt die Tour nach Jeløya zu den Herrenhäusern, deren Parks im Regen ein sattes Grün zeigen. Den Abschluss bildet die Rückfahrt am Sjøbad, wenn das Licht des Hafens im nassen Asphalt reflektiert.",
+            "hu": "Kerekezzen a szemerkélő esőben Moss régi malmaihoz, ahol a nedves téglák különösen fénylenek. A szél a tenger illatát hozza, miközben elhalad a Konventionsgården mellett. Délután a túra a Jeløya-félsziget udvarházaihoz vezet, melyek parkjai az esőben dús zöldben pompáznak. A napot a Sjøbadnál zárja, ahol a kikötő fényei tükröződnek a vizes aszfalton.",
+            "ro": "Pedalați prin ploaia măruntă spre vechile mori din Moss, unde cărămizile umede strălucesc. Vântul aduce mirosul mării în timp ce treceți pe lângă Konventionsgården. După-amiaza, turul vă duce la conacele de pe Jeløya, ale căror parcuri arată un verde intens în ploaie. Încheiați cu drumul de întoarcere pe lângă Sjøbad, unde luminile portului se reflectă în asfaltul ud.",
+            "en": "Cycle through the drizzle to the old mills of Moss, where the damp bricks glisten. The wind carries the scent of the sea as you pass Konventionsgården. In the afternoon, the tour leads to the manors of Jeløya, whose parks display a lush green in the rain. Finish with a ride back by Sjøbad, where the harbor lights reflect in the wet asphalt."
+          },
+          "stops": [
+            {
+              "name": "Møllebyen",
+              "tip_4lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster rund um die Mühlen.",
+                "hu": "Vigyázzon a nedves macskaköveken a malmok környékén.",
+                "ro": "Atenție la pavajul umed din jurul morilor.",
+                "en": "Be careful on the wet cobblestones around the mills."
+              }
+            },
+            {
+              "name": "Konventionsgården",
+              "tip_4lang": {
+                "de": "Kurzer Stopp unter den Bäumen für ein schnelles Foto.",
+                "hu": "Rövid megálló a fák alatt egy gyors fotóhoz.",
+                "ro": "Scurtă oprire sub copaci pentru o fotografie rapidă.",
+                "en": "Short stop under the trees for a quick photo."
+              }
+            },
+            {
+              "name": "Moss Church",
+              "tip_4lang": {
+                "de": "Stellen Sie Ihr Rad am überdachten Ständer nahe dem Eingang ab.",
+                "hu": "Parkolja le kerékpárját a bejárat melletti fedett tárolóban.",
+                "ro": "Parcați bicicleta în suportul acoperit de lângă intrare.",
+                "en": "Park your bike at the covered stand near the entrance."
+              }
+            },
+            {
+              "name": "Verket",
+              "tip_4lang": {
+                "de": "Die schmalen Gassen können bei Regen windig sein.",
+                "hu": "A szűk utcák esőben szelesek lehetnek.",
+                "ro": "Aleeile înguste pot fi vântoase când plouă.",
+                "en": "The narrow alleys can be windy when it rains."
+              }
+            },
+            {
+              "name": "Torderød Gård",
+              "tip_4lang": {
+                "de": "Der Park bietet viele schützende alte Baumkronen.",
+                "hu": "A parkban sok védelmet nyújtó öreg faág található.",
+                "ro": "Parcul oferă multe coroane de copaci bătrâni pentru adăpost.",
+                "en": "The park offers many protective old tree canopies."
+              }
+            },
+            {
+              "name": "Alby Gård",
+              "tip_4lang": {
+                "de": "Das Café F15 ist der perfekte Ort, um die Kleidung zu trocknen.",
+                "hu": "Az F15 kávézó tökéletes hely a ruhák megszárításához.",
+                "ro": "Cafeneaua F15 este locul perfect pentru a vă usca hainele.",
+                "en": "The F15 cafe is the perfect spot to dry off your clothes."
+              }
+            },
+            {
+              "name": "Moss Sjøbad",
+              "tip_4lang": {
+                "de": "Der asphaltierte Küstenweg ist auch bei Nässe gut befahrbar.",
+                "hu": "Az aszfaltozott parti út nedvesen is jól tekerhető.",
+                "ro": "Poteca de coastă asfaltată este ușor de parcurs și pe umiditate.",
+                "en": "The paved coastal path is easy to ride even when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei den Wegen auf Jeløya sehr zu empfehlen.",
+              "Vermeiden Sie scharfe Kurven auf nassem Laub oder Kopfsteinpflaster.",
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit.",
+              "Ein Sattelschutz hält Ihren Sitz während der Stopps trocken.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt nach Jeløya."
+            ],
+            "hu": [
+              "A sárvédő erősen ajánlott a Jeløya-sziget útjain.",
+              "Kerülje az éles kanyarokat a nedves leveleken vagy macskaköveken.",
+              "Viseljen neon esőkabátot a jobb láthatóság érdekében.",
+              "A nyereghuzat szárazon tartja az ülést a megállók alatt.",
+              "Ellenőrizze a fékeket a Jeløya felé tartó lejtők előtt."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt foarte recomandate pentru drumurile de pe Jeløya.",
+              "Evitați virajele strânse pe frunzele umede sau pe pavaj.",
+              "Purtați o jachetă de ploaie neon pentru o mai bună vizibilitate.",
+              "O protecție pentru șa vă menține scaunul uscat în timpul opririlor.",
+              "Verificați frânele înainte de a pleca spre Jeløya."
+            ],
+            "en": [
+              "Mudguards are highly recommended for the paths on Jeløya.",
+              "Avoid sharp turns on wet leaves or cobblestones.",
+              "Wear a neon rain jacket for better visibility.",
+              "A saddle cover keeps your seat dry during stops.",
+              "Check your brakes before heading out towards Jeløya."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour gut eingepackt an der Møllebyen, wo der Frost die historischen Gebäude ziert. Radeln Sie vorsichtig durch das Stadtzentrum zur Kirche und weiter nach Verket. Der Weg nach Jeløya bietet spektakuläre Ausblicke auf den vereisten Fjord und die schneebedeckten Felder. Wärmen Sie sich in der Alby Gård auf, bevor Sie in der frühen Dämmerung mit eingeschalteten Lichtern zurückkehren.",
+            "hu": "Kezdje téli túráját jól felöltözve a Møllebyennél, ahol a dér díszíti a történelmi épületeket. Tekerjen óvatosan a városközponton át a templomig, majd tovább a Verket negyedbe. A Jeløya felé vezető út látványos kilátást nyújt a jeges fjordra és a hófödte mezőkre. Melegedjen fel az Alby Gårdban, mielőtt a korai szürkületben, felkapcsolt lámpákkal visszatérne.",
+            "ro": "Începeți turul de iarnă bine echipat la Møllebyen, unde bruma decorează clădirile istorice. Pedalați cu atenție prin centrul orașului spre biserică și apoi spre Verket. Drumul spre Jeløya oferă priveliști spectaculoase asupra fiordului înghețat și a câmpurilor înzăpezite. Încălziți-vă la Alby Gård înainte de a vă întoarce în amurgul timpuriu cu luminile aprinse.",
+            "en": "Start your winter tour well-equipped at Møllebyen, where frost decorates the historic buildings. Cycle carefully through the city center to the church and on to Verket. The road to Jeløya offers spectacular views of the icy fjord and snow-covered fields. Warm up at Alby Gård before returning in the early twilight with your lights on."
+          },
+          "stops": [
+            {
+              "name": "Møllebyen",
+              "tip_4lang": {
+                "de": "Achten Sie auf Glatteis in den schattigen Gassen der Mühlen.",
+                "hu": "Figyeljen a jegesedésre a malmok árnyékos utcáiban.",
+                "ro": "Atenție la gheață pe străzile umbrite ale morilor.",
+                "en": "Watch out for black ice in the shaded alleys of the mills."
+              }
+            },
+            {
+              "name": "Konventionsgården",
+              "tip_4lang": {
+                "de": "Die gelbe Fassade ist ein toller Kontrast zum weißen Schnee.",
+                "hu": "A sárga homlokzat remek kontrasztot alkot a fehér hóval.",
+                "ro": "Fațada galbenă este un contrast excelent cu zăpada albă.",
+                "en": "The yellow facade is a great contrast to the white snow."
+              }
+            },
+            {
+              "name": "Moss Church",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Stopp, um die Finger kurz aufzuwärmen.",
+                "hu": "Használja ki a megállót az ujjai rövid felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi puțin degetele.",
+                "en": "Use the stop to briefly warm up your fingers."
+              }
+            },
+            {
+              "name": "Verket",
+              "tip_4lang": {
+                "de": "Gereinigte Wege erleichtern hier das Vorankommen.",
+                "hu": "A megtisztított utak itt megkönnyítik a haladást.",
+                "ro": "Drumurile curățate facilitează înaintarea aici.",
+                "en": "Drumurile curățate facilitează înaintarea aici."
+              }
+            },
+            {
+              "name": "Torderød Gård",
+              "tip_4lang": {
+                "de": "Die Allee ist im Winter besonders fotogen.",
+                "hu": "Az allé télen különösen fotogén.",
+                "ro": "Aleea este deosebit de fotogenă iarna.",
+                "en": "The alley is particularly photogenic in winter."
+              }
+            },
+            {
+              "name": "Alby Gård",
+              "tip_4lang": {
+                "de": "Genießen Sie die Aussicht auf den Fjord bei einem warmen Getränk.",
+                "hu": "Élvezze a kilátást a fjordra egy meleg ital mellett.",
+                "ro": "Bucurați-vă de priveliștea fiordului cu o băutură caldă.",
+                "en": "Enjoy the fjord view with a warm drink."
+              }
+            },
+            {
+              "name": "Moss Sjøbad",
+              "tip_4lang": {
+                "de": "Der Wind kann hier am Abend sehr beißend sein.",
+                "hu": "A szél itt este nagyon metsző lehet.",
+                "ro": "Vântul poate fi foarte tăios aici seara.",
+                "en": "The wind can be very biting here in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen sind bei Schnee und Eis in Moss absolut notwendig.",
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Die Batterie Ihres E-Bikes entlädt sich bei Kälte schneller.",
+              "Reflektoren an Kleidung und Rad sind lebenswichtig ab 15 Uhr.",
+              "Vermeiden Sie bei starkem Schneefall die ungeräumten Waldwege auf Jeløya."
+            ],
+            "hu": [
+              "A szöges gumik elengedhetetlenek hóban és jégen Mossban.",
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "Az e-bike akkumulátora hidegben gyorsabban merül.",
+              "A fényvisszaverők a ruhán és a gépen életmentőek 15 óra után.",
+              "Erős havazáskor kerülje a Jeløya nem takarított erdei útjait."
+            ],
+            "ro": [
+              "Anvelopele cu ținte sunt absolut necesare pe zăpadă și gheață în Moss.",
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Bateria bicicletei electrice se descarcă mai repede la frig.",
+              "Reflectorizantele pe haine și bicicletă sunt vitale după ora 15.",
+              "Evitați potecile forestiere necurățate de pe Jeløya în timpul ninsorilor."
+            ],
+            "en": [
+              "Studded tires are absolutely necessary for snow and ice in Moss.",
+              "Wear windproof gloves and a hat under your helmet.",
+              "Your e-bike battery will drain faster in the cold.",
+              "Reflectors on clothing and the bike are vital after 15:00.",
+              "Avoid uncleared forest paths on Jeløya during heavy snowfall."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1006,6 +1422,214 @@
           "Obey the speed limits, especially in residential areas on Jeløya.",
           "Have coins or a parking app ready for the parking meters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie entspannt nach Jeløya zur Alby Gård, während die Scheibenwischer den Regen beiseiteschieben. Die historische Atmosphäre von Torderød Gård wirkt bei grauem Himmel besonders herrschaftlich. Nachmittags genießen Sie die Aussichtspunkte von Jeløya trocken aus dem Wagen. Den Tag lassen Sie in der Innenstadt bei Konventionsgården und der Moss Kirche ausklingen, bevor Sie zum Sjøbad fahren.",
+            "hu": "Hajtson kényelmesen Jeløya felé az Alby Gårdhoz, miközben az ablaktörlők végzik a dolgukat. Torderød Gård történelmi hangulata a szürke égbolt alatt különösen méltóságteljes. Délután élvezze Jeløya kilátópontjait szárazon, az autóból. A napot a belvárosban, a Konventionsgårdennél és a Moss templomnál zárja, mielőtt lemenne a Sjøbadhoz.",
+            "ro": "Conduceți relaxat spre Jeløya la Alby Gård, în timp ce ștergătoarele îndepărtează ploaia. Atmosfera istorică de la Torderød Gård pare deosebit de impunătoare sub cerul gri. După-amiaza, bucurați-vă de punctele de belvedere de pe Jeløya la adăpostul mașinii. Încheiați ziua în centrul orașului la Konventionsgården și Biserica Moss, înainte de a merge la Sjøbad.",
+            "en": "Drive relaxedly to Jeløya and Alby Gård while the wipers push the rain aside. The historic atmosphere of Torderød Gård feels particularly grand under gray skies. In the afternoon, enjoy the Jeløya viewpoints from the dry comfort of your car. End the day in the city center at Konventionsgården and Moss Church before heading to Sjøbad."
+          },
+          "stops": [
+            {
+              "name": "Drive to Jeløya & Alby Gård",
+              "tip_4lang": {
+                "de": "Parken Sie nah am Eingang, um nicht nass zu werden.",
+                "hu": "Parkoljon közel a bejárathoz, hogy ne ázzon el.",
+                "ro": "Parcați aproape de intrare pentru a nu vă uda.",
+                "en": "Park close to the entrance to stay dry."
+              }
+            },
+            {
+              "name": "Torderød Gård",
+              "tip_4lang": {
+                "de": "Ein schöner Stopp für Fotos direkt aus dem Fenster.",
+                "hu": "Szép megálló fotózáshoz közvetlenül az ablakból.",
+                "ro": "O oprire frumoasă pentru fotografii direct de pe geam.",
+                "en": "A nice stop for photos directly from the window."
+              }
+            },
+            {
+              "name": "Jeløya Viewpoint",
+              "tip_4lang": {
+                "de": "Genießen Sie das Panorama ohne den Wagen verlassen zu müssen.",
+                "hu": "Élvezze a panorámát anélkül, hogy ki kellene szállnia.",
+                "ro": "Bucurați-vă de panoramă fără a fi nevoie să coborâți din mașină.",
+                "en": "Enjoy the panorama without having to leave the car."
+              }
+            },
+            {
+              "name": "Drive to Center & Konventionsgården",
+              "tip_4lang": {
+                "de": "Nutzen Sie das Parkhaus in der Nähe für trockenes Aussteigen.",
+                "hu": "Használja a közeli parkolóházat a száraz kiszálláshoz.",
+                "ro": "Folosiți parcarea acoperită din apropiere pentru a coborî la uscat.",
+                "en": "Use the nearby parking garage for dry exiting."
+              }
+            },
+            {
+              "name": "Moss Church",
+              "tip_4lang": {
+                "de": "Kurzparkzonen sind direkt vor dem Gebäude vorhanden.",
+                "hu": "Rövid távú parkolók közvetlenül az épület előtt találhatók.",
+                "ro": "Zone de parcare scurtă sunt disponibile direct în fața clădirii.",
+                "en": "Short-stay parking zones are available directly in front."
+              }
+            },
+            {
+              "name": "Møllebyen",
+              "tip_4lang": {
+                "de": "Das Møllebyen-Parkhaus ist nur zwei Gehminuten entfernt.",
+                "hu": "A Møllebyen parkolóház mindössze két perc séta.",
+                "ro": "Parcarea Møllebyen este la doar două minute de mers pe jos.",
+                "en": "The Møllebyen parking garage is just a two-minute walk away."
+              }
+            },
+            {
+              "name": "Drive to Moss Sjøbad",
+              "tip_4lang": {
+                "de": "Der große Parkplatz bietet auch bei Regen gute Sicht auf den Fjord.",
+                "hu": "A nagy parkoló esőben is jó kilátást nyújt a fjordra.",
+                "ro": "Parcarea mare oferă o vedere bună asupra fiordului chiar și pe ploaie.",
+                "en": "The large parking lot offers good fjord views even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Küstenstraßen.",
+              "Die Parkhäuser im Zentrum halten Ihr Auto trocken.",
+              "Nutzen Sie die EasyPark-App für bequemes Bezahlen im Auto.",
+              "Vermeiden Sie tiefere Pfützen auf den Nebenwegen von Jeløya.",
+              "Gute Wischerblätter sind für die Fahrt am Fjord wichtig."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra (aquaplaning) a parti utakon.",
+              "A központi parkolóházak szárazon tartják az autót.",
+              "Használja az EasyPark alkalmazást a kényelmes fizetéshez.",
+              "Kerülje a mélyebb tócsákat Jeløya mellékútjain.",
+              "A jó ablaktörlő lapátok elengedhetetlenek a fjord mentén."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile de coastă.",
+              "Parcările acoperite din centru vă mențin mașina uscată.",
+              "Utilizați aplicația EasyPark pentru plată confortabilă din mașină.",
+              "Evitați bălțile adânci de pe drumurile secundare din Jeløya.",
+              "Lamele bune de ștergătoare sunt importante pentru condusul pe fiord."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the coastal roads.",
+              "Central parking garages keep your car dry and convenient.",
+              "Use the EasyPark app for easy payment from inside the car.",
+              "Avoid deep puddles on the side roads of Jeløya.",
+              "Good wiper blades are important for driving along the fjord."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintertag mit einer Fahrt durch die verschneite Landschaft von Jeløya zur Alby Gård. Die Heizung im Auto sorgt für Behaglichkeit, während Sie von Torderød Gård zum Aussichtspunkt fahren. Mittags erkunden Sie das Zentrum von Moss, wo die Konventionsgården festlich beleuchtet ist. Den Abend verbringen Sie in der warmen Atmosphäre von Møllebyen, bevor Sie einen letzten Blick auf das winterliche Sjøbad werfen.",
+            "hu": "Kezdje a téli napot autózással Jeløya hófödte tájain az Alby Gård felé. Az autó fűtése kényelmet nyújt, miközben a Torderød Gårdtól a kilátópontig hajt. Napközben fedezze fel Moss központját, ahol a Konventionsgården ünnepi fényben úszik. Az estét a Møllebyen meleg hangulatában töltse, mielőtt egy utolsó pillantást vetne a téli Sjøbadra.",
+            "ro": "Începeți ziua de iarnă cu o plimbare prin peisajul înzăpezit din Jeløya spre Alby Gård. Căldura din mașină oferă confort în timp ce conduceți de la Torderød Gård spre punctul de belvedere. La prânz, explorați centrul orașului Moss, unde Konventionsgården este iluminat festiv. Petreceți seara în atmosfera caldă din Møllebyen înainte de o ultimă privire asupra Sjøbad-ului hibernal.",
+            "en": "Start your winter day with a drive through the snowy landscape of Jeløya to Alby Gård. The car's heater provides comfort as you drive from Torderød Gård to the viewpoint. During the day, explore the center of Moss, where Konventionsgården is festively lit. Spend the evening in the warm atmosphere of Møllebyen before a final look at the wintry Sjøbad."
+          },
+          "stops": [
+            {
+              "name": "Drive to Jeløya & Alby Gård",
+              "tip_4lang": {
+                "de": "Prüfen Sie den Reifendruck vor der Fahrt in die Kälte.",
+                "hu": "Ellenőrizze a guminyomást a hidegben való indulás előtt.",
+                "ro": "Verificați presiunea în anvelope înainte de a pleca la frig.",
+                "en": "Check tire pressure before heading out into the cold."
+              }
+            },
+            {
+              "name": "Torderød Gård",
+              "tip_4lang": {
+                "de": "Der Parkplatz kann im Winter etwas rutschig sein.",
+                "hu": "A parkoló télen kicsit csúszós lehet.",
+                "ro": "Parcarea poate fi puțin alunecoasă iarna.",
+                "en": "The parking lot can be a bit slippery in winter."
+              }
+            },
+            {
+              "name": "Jeløya Viewpoint",
+              "tip_4lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Avoid idling the engine unnecessarily while stopped."
+              }
+            },
+            {
+              "name": "Drive to Center & Konventionsgården",
+              "tip_4lang": {
+                "de": "Die Hauptstraßen im Zentrum sind meist gut geräumt.",
+                "hu": "A központ főútjai általában jól le vannak takarítva.",
+                "ro": "Drumurile principale din centru sunt de obicei bine deszăpezite.",
+                "en": "Main roads in the center are usually well-cleared."
+              }
+            },
+            {
+              "name": "Moss Church",
+              "tip_4lang": {
+                "de": "Ein schöner Ort, um das Auto kurz für einen Kirchenbesuch zu verlassen.",
+                "hu": "Jó hely, hogy rövid időre kiszálljon egy templomlátogatáshoz.",
+                "ro": "Un loc bun pentru a lăsa mașina scurt timp pentru vizita la biserică.",
+                "en": "A good place to briefly leave the car for a church visit."
+              }
+            },
+            {
+              "name": "Møllebyen",
+              "tip_4lang": {
+                "de": "Genießen Sie den kurzen Fußweg vom warmen Parkhaus.",
+                "hu": "Élvezze a rövid sétát a meleg parkolóházból.",
+                "ro": "Bucurați-vă de scurta plimbare de la parcarea caldă.",
+                "en": "Enjoy the short walk from the warm parking garage."
+              }
+            },
+            {
+              "name": "Drive to Moss Sjøbad",
+              "tip_4lang": {
+                "de": "Der Parkplatz bietet eine tolle Aussicht auf die Eisschollen.",
+                "hu": "A parkolóból remek kilátás nyílik a jégtáblákra.",
+                "ro": "Parcarea oferă o vedere excelentă asupra sloiurilor de gheață.",
+                "en": "The parking lot offers a great view of the ice floes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Norwegen von November bis April Pflicht.",
+              "Führen Sie einen Eiskratzer und einen Schneebesen mit.",
+              "Die Bergstraßen auf Jeløya können tückisch glatt sein.",
+              "Achten Sie auf Wildwechsel (Rehe) in der Dämmerung auf Jeløya.",
+              "Halten Sie die Batterie Ihres Autos im Blick."
+            ],
+            "hu": [
+              "A téli gumi Norvégiában novembertől áprilisig kötelező.",
+              "Tartson az autóban jégkaparót és hóseprűt.",
+              "A Jeløya-félsziget emelkedői csalókán csúszósak lehetnek.",
+              "Figyeljen a vadakra (őzekre) szürkületkor Jeløya útjain.",
+              "Kísérje figyelemmel az autó akkumulátorának állapotát."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Norvegia din noiembrie până în aprilie.",
+              "Aveți mereu în mașină o racletă și o perie de zăpadă.",
+              "Drumurile în pantă de pe Jeløya pot fi extrem de alunecoase.",
+              "Atenție la animale (căprioare) în amurg pe Jeløya.",
+              "Monitorizați starea bateriei mașinii."
+            ],
+            "en": [
+              "Winter tires are mandatory in Norway from November to April.",
+              "Always carry an ice scraper and a snow brush in the car.",
+              "The hilly roads on Jeløya can be treacherously slippery.",
+              "Watch out for wildlife (deer) at dusk on Jeløya.",
+              "Keep an eye on your car's battery life."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1310,6 +1934,196 @@
           "Be aware of the last bus departure times, especially from Jeløya.",
           "Some buses may run less frequently on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die zuverlässigen Busse von Moss, um trocken zwischen den historischen Highlights zu pendeln. Vormittags führt der Weg zum Konventionsgården und zur Kirche, wo Sie dem Regen entfliehen. Mittags erreichen Sie die Møllebyen, deren Museen ideal für regnerische Stunden sind. Nachmittags bringt Sie der Bus 204 direkt nach Jeløya zu den prachtvollen Gärten, bevor Sie am Sjøbad den Tag beenden.",
+            "hu": "Használja Moss megbízható buszait, hogy szárazon közlekedjen a történelmi látnivalók között. Délelőtt a Konventionsgården és a templom a cél, ahol menedéket talál az eső elől. Délben érkezzen meg Møllebyenbe, melynek múzeumai ideálisak esős órákra. Délután a 204-es busz közvetlenül Jeløya kertjeihez viszi, mielőtt a Sjøbadnál zárná a napot.",
+            "ro": "Folosiți autobuzele de încredere din Moss pentru a naviga uscat între punctele istorice. Dimineața, drumul duce la Konventionsgården și biserică, unde puteți scăpa de ploaie. La prânz ajungeți la Møllebyen, ale cărui muzee sunt ideale pentru orele ploioase. După-amiaza, autobuzul 204 vă duce direct la grădinile din Jeløya, înainte de a încheia ziua la Sjøbad.",
+            "en": "Use the reliable buses of Moss to commute dry between the historic highlights. In the morning, head to Konventionsgården and the church, where you can escape the rain. At midday, arrive at Møllebyen, whose museums are ideal for rainy hours. In the afternoon, bus 204 takes you directly to the gardens of Jeløya before ending the day at Sjøbad."
+          },
+          "stops": [
+            {
+              "name": "Konventionsgården",
+              "tip_4lang": {
+                "de": "Die Bushaltestelle 'Moss stasjon' ist ganz in der Nähe.",
+                "hu": "A 'Moss stasjon' buszmegálló egészen közel van.",
+                "ro": "Stația de autobuz 'Moss stasjon' este foarte aproape.",
+                "en": "The 'Moss stasjon' bus stop is very close by."
+              }
+            },
+            {
+              "name": "Moss Church",
+              "tip_4lang": {
+                "de": "Mehrere Linien halten am zentralen Knotenpunkt 'Moss kirke'.",
+                "hu": "Számos vonal megáll a központi 'Moss kirke' csomópontnál.",
+                "ro": "Mai multe linii opresc la nodul central 'Moss kirke'.",
+                "en": "Several lines stop at the central 'Moss kirke' hub."
+              }
+            },
+            {
+              "name": "Møllebyen",
+              "tip_4lang": {
+                "de": "Ein kurzer, regengeschützter Weg führt von der Haltestelle zu den Mühlen.",
+                "hu": "Rövid, esőtől védett út vezet a megállótól a malmokhoz.",
+                "ro": "Un drum scurt, protejat de ploaie, duce de la stație la mori.",
+                "en": "A short, rain-protected path leads from the stop to the mills."
+              }
+            },
+            {
+              "name": "Bus to Jeløya & Torderød Gård",
+              "tip_4lang": {
+                "de": "Genießen Sie die Fahrt durch die nassen Alleen von Jeløya.",
+                "hu": "Élvezze az utazást Jeløya nedves fasorai között.",
+                "ro": "Bucurați-vă de drumul prin aleile umede din Jeløya.",
+                "en": "Enjoy the ride through the wet avenues of Jeløya."
+              }
+            },
+            {
+              "name": "Walk to Alby Gård",
+              "tip_4lang": {
+                "de": "Der Fußweg von der Haltestelle ist kurz, aber ein Schirm hilft.",
+                "hu": "A gyalogút a megállótól rövid, de egy esernyő jól jön.",
+                "ro": "Drumul pe jos de la stație este scurt, dar o umbrelă ajută.",
+                "en": "The walk from the stop is short, but an umbrella helps."
+              }
+            },
+            {
+              "name": "Bus to Moss Sjøbad",
+              "tip_4lang": {
+                "de": "Der Bus bringt Sie fast bis direkt an die Promenade.",
+                "hu": "A busz szinte közvetlenül a sétányig viszi.",
+                "ro": "Autobuzul vă lasă aproape direct pe faleză.",
+                "en": "The bus takes you almost directly to the promenade."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab über die Entur-App.",
+              "Die Busse sind gut beheizt und bieten WLAN.",
+              "Die Haltestellen im Zentrum verfügen über Unterstände.",
+              "Prüfen Sie die Echtzeit-Abfahrten auf den digitalen Anzeigen.",
+              "Nutzen Sie die Zeit im Bus, um die nächsten Indoor-Stopps zu planen."
+            ],
+            "hu": [
+              "Vásároljon jegyet előre az Entur alkalmazáson keresztül.",
+              "A buszok jól fűtöttek és wifivel felszereltek.",
+              "A központi megállók fedettek, védve az esőtől.",
+              "Ellenőrizze a valós idejű indulásokat a digitális kijelzőkön.",
+              "Használja ki a buszon töltött időt a következő fedett állomás megtervezésére."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans prin aplicația Entur.",
+              "Autobuzele sunt bine încălzite și au Wi-Fi.",
+              "Stațiile din centru au adăposturi pentru ploaie.",
+              "Verificați plecările în timp real pe afișajele digitale.",
+              "Folosiți timpul în autobuz pentru a planifica următoarele opriri la interior."
+            ],
+            "en": [
+              "Buy tickets in advance via the Entur app.",
+              "Buses are well-heated and equipped with Wi-Fi.",
+              "Central bus stops have shelters to keep you dry.",
+              "Check real-time departures on the digital displays.",
+              "Use your time on the bus to plan your next indoor stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Moss bequem mit dem Bus, während Sie draußen die Schneelandschaft vorbeiziehen sehen. Vormittags besuchen Sie die Konventionsgården und die Moss Kirche im warmen Licht der Wintersonne. Mittags führt die Tour zur Møllebyen, die im Frost besonders malerisch wirkt. Der Nachmittag auf Jeløya bietet klare Ausblicke auf den Fjord, bevor Sie mit dem Bus sicher zurück ins beleuchtete Zentrum fahren.",
+            "hu": "Fedezze fel a téli Mosst kényelmesen busszal, miközben nézi az elsuhanó havas tájat. Délelőtt látogasson el a Konventionsgårdenhez és a Moss templomhoz a téli nap meleg fényében. Délben a túra Møllebyenbe vezet, amely déresen különösen festői. A délután Jeløyán tiszta kilátást nyújt a fjordra, mielőtt busszal biztonságban visszatérne a kivilágított központba.",
+            "ro": "Explorați Moss-ul hibernal confortabil cu autobuzul, în timp ce priviți peisajul înzăpezit trecând. Dimineața, vizitați Konventionsgården și Biserica Moss în lumina caldă a soarelui de iarnă. La prânz, turul vă duce la Møllebyen, care arată pitoresc sub brumă. După-amiaza pe Jeløya oferă priveliști clare asupra fiordului, înainte de a reveni în siguranță cu autobuzul în centrul iluminat.",
+            "en": "Explore wintry Moss comfortably by bus while watching the snowy landscape drift by. In the morning, visit Konventionsgården and Moss Church in the warm light of the winter sun. At midday, the tour leads to Møllebyen, which looks particularly picturesque in the frost. The afternoon on Jeløya offers clear fjord views before returning safely by bus to the illuminated center."
+          },
+          "stops": [
+            {
+              "name": "Konventionsgården",
+              "tip_4lang": {
+                "de": "Die Haltestelle ist nur wenige Schritte vom historischen Gebäude entfernt.",
+                "hu": "A megálló mindössze néhány lépésre van a történelmi épülettől.",
+                "ro": "Stația este la doar câțiva pași de clădirea istorică.",
+                "en": "The stop is just a few steps from the historic building."
+              }
+            },
+            {
+              "name": "Moss Church",
+              "tip_4lang": {
+                "de": "Busse verkehren hier im Winter regelmäßig und pünktlich.",
+                "hu": "A buszok télen is rendszeresen és pontosan közlekednek itt.",
+                "ro": "Autobuzele circulă regulat și punctual aici și iarna.",
+                "en": "Buses run regularly and on time here even in winter."
+              }
+            },
+            {
+              "name": "Møllebyen",
+              "tip_4lang": {
+                "de": "Wärmen Sie sich im Bus auf dem Weg zu den Mühlen auf.",
+                "hu": "Melegedjen fel a buszon, miközben a malmok felé tart.",
+                "ro": "Încălziți-vă în autobuz în timp ce mergeți spre mori.",
+                "en": "Warm up on the bus while heading to the mills."
+              }
+            },
+            {
+              "name": "Bus to Jeløya & Torderød Gård",
+              "tip_4lang": {
+                "de": "Die Aussicht aus dem warmen Busfenster auf den Schnee ist traumhaft.",
+                "hu": "A kilátás a meleg buszablakból a hóra álomszép.",
+                "ro": "Vederea spre zăpadă de la fereastra caldă a autobuzului este de vis.",
+                "en": "The view of the snow from the warm bus window is dreamlike."
+              }
+            },
+            {
+              "name": "Walk to Alby Gård",
+              "tip_4lang": {
+                "de": "Der Weg von der Haltestelle wird meist schnell geräumt.",
+                "hu": "A megállótól vezető utat általában gyorsan letakarítják.",
+                "ro": "Drumul de la stație este de obicei deszăpezit rapid.",
+                "en": "The path from the stop is usually cleared quickly."
+              }
+            },
+            {
+              "name": "Bus to Moss Sjøbad",
+              "tip_4lang": {
+                "de": "Vermeiden Sie lange Wartezeiten durch Nutzung der App-Fahrpläne.",
+                "hu": "Kerülje a hosszú várakozást az alkalmazás menetrendjének használatával.",
+                "ro": "Evitați așteptările lungi utilizând orarele din aplicație.",
+                "en": "Avoid long waits by using the app schedules."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter oft die sicherste Wahl bei Glätte.",
+              "Achten Sie auf eventuelle Verspätungen bei starkem Schneefall.",
+              "Die Innenräume der Busse sind angenehm temperiert.",
+              "Nutzen Sie die App, um die Wartezeit im Freien zu minimieren.",
+              "Tragen Sie trotzdem warme Kleidung für die Wege zur Haltestelle."
+            ],
+            "hu": [
+              "A buszok télen gyakran a legbiztonságosabb választást jelentik jegesedéskor.",
+              "Erős havazás esetén számítson esetleges késésekre.",
+              "A buszok belseje kellemesen fűtött.",
+              "Használja az alkalmazást, hogy minimálisra csökkentse a kinti várakozást.",
+              "Ennek ellenére viseljen meleg ruhát a megállóig tartó sétához."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea cea mai sigură alegere pe timp de polei iarna.",
+              "Fiți atenți la eventualele întârzieri în caz de ninsori abundente.",
+              "Interioarele autobuzelor sunt încălzite plăcut.",
+              "Utilizați aplicația pentru a minimiza timpul de așteptare afară.",
+              "Purtați totuși haine groase pentru drumul până la stație."
+            ],
+            "en": [
+              "Buses are often the safest choice during icy winter conditions.",
+              "Be aware of potential delays during heavy snowfall.",
+              "The interiors of the buses are comfortably heated.",
+              "Use the app to minimize waiting time outdoors.",
+              "Still, wear warm clothing for the walks to and from the stops."
+            ]
+          }
+        }
       }
     }
   }

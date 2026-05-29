@@ -374,6 +374,224 @@
           "Bring plenty of water, especially during the summer months.",
           "Allow extra time for the city walls; the views are worth it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in Daroca unter dem Schutz der Puerta Baja, während der Regen auf die alten Mauern prasselt. Die engen Gassen bieten heute eine mystische Atmosphäre. Mittags finden Sie Zuflucht in der beeindruckenden Basilika Santa María. Am Nachmittag erkunden Sie die überdachten Bereiche des Palacio de los Luna. Den Abend lassen Sie gemütlich in einer der Bodegas nahe der Stadtmauer ausklingen, wo der Wein die klamme Kälte vertreibt.",
+            "hu": "Kezdje a napot Darocában a Puerta Baja boltívei alatt, miközben az eső kopog a középkori falakon. A szűk utcák ilyenkor misztikus hangulatot árasztanak. Délben a Santa María bazilika hatalmas belső tere nyújt menedéket. Délután fedezze fel a Palacio de los Luna fedett részeit és udvarait. Az estét töltse egy városfal melletti borozóban, ahol a helyi vörösbor és a meghitt fények elfeledtetik a kinti borús időt.",
+            "ro": "Începeți ziua în Daroca sub protecția porții Puerta Baja, în timp ce ploaia bate în zidurile vechi. Străzile înguste oferă astăzi o atmosferă mistică. La prânz, găsiți refugiu în impresionanta bazilică Santa María. După-amiaza, explorați zonele acoperite ale Palatului Luna. Încheiați seara confortabil într-una dintre cramele de lângă zidurile orașului, unde vinul local alungă frigul și umezeala.",
+            "en": "Start your day in Daroca under the shelter of Puerta Baja as rain taps on the medieval walls. The narrow streets offer a mystical atmosphere today. At noon, find refuge in the vast interior of the Santa María Basilica. In the afternoon, explore the covered areas of the Palace of the Luna. End your evening in a cozy bodega near the city walls, where local wine and warm lights make you forget the damp weather outside."
+          },
+          "stops": [
+            {
+              "name": "Lower Gate (Puerta Baja)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den breiten Torbogen als trockenen Treffpunkt.",
+                "hu": "Használja a széles kapualjat száraz találkozási pontként.",
+                "ro": "Folosiți arcada largă a porții ca punct de întâlnire uscat.",
+                "en": "Use the wide archway of the gate as a dry meeting point."
+              }
+            },
+            {
+              "name": "Fountain of 20 Pipes",
+              "tip_5lang": {
+                "de": "Das Plätschern des Brunnens mischt sich schön mit dem Regen.",
+                "hu": "A kút csobogása szépen keveredik az eső neszével.",
+                "ro": "Susurul fântânii se îmbină frumos cu sunetul ploii.",
+                "en": "The splashing of the fountain blends beautifully with the rain."
+              }
+            },
+            {
+              "name": "Church of San Miguel",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen heftigen Schauer abzuwarten.",
+                "hu": "Tökéletes helyszín egy hevesebb zápor kivárására.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei averse.",
+                "en": "The perfect place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Palace of the Luna",
+              "tip_5lang": {
+                "de": "Die Renaissance-Galerien bieten Schutz vor Nässe.",
+                "hu": "A reneszánsz galériák védelmet nyújtanak a nedvesség ellen.",
+                "ro": "Galeriile renascentiste oferă protecție împotriva umezelii.",
+                "en": "The Renaissance galleries provide shelter from the wet weather."
+              }
+            },
+            {
+              "name": "Collegiate Church of Santa María",
+              "tip_5lang": {
+                "de": "Besichtigen Sie das Museum, um länger im Trockenen zu bleiben.",
+                "hu": "Nézze meg a múzeumot, hogy hosszabb ideig szárazon maradjon.",
+                "ro": "Vizitați muzeul pentru a rămâne mai mult timp la adăpost.",
+                "en": "Visit the museum to stay in the dry for a longer period."
+              }
+            },
+            {
+              "name": "Upper Gate (Puerta Alta)",
+              "tip_5lang": {
+                "de": "Vorsicht, das Pflaster am Tor kann bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a kapunál a burkolat nedvesen csúszós lehet.",
+                "ro": "Atenție, pavajul de la poartă poate fi alunecos când este ud.",
+                "en": "Caution, the pavement at the gate can be slippery when wet."
+              }
+            },
+            {
+              "name": "City Walls of Daroca",
+              "tip_5lang": {
+                "de": "Die Aussicht auf die neblige Stadt ist sehr fotogen.",
+                "hu": "A kilátás a ködös városra rendkívül fotogén.",
+                "ro": "Priveliștea asupra orașului în ceață este foarte fotogenică.",
+                "en": "The view of the misty city is very photogenic."
+              }
+            },
+            {
+              "name": "The Mine of Daroca",
+              "tip_5lang": {
+                "de": "Der Tunnel bietet einen natürlichen Schutz vor dem Regen.",
+                "hu": "Az alagút természetes védelmet nyújt az eső elől.",
+                "ro": "Tunelul oferă o protecție naturală împotriva ploii.",
+                "en": "The tunnel provides natural protection from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für das Kopfsteinpflaster.",
+              "Ein stabiler Regenschirm ist wegen der Windböen an der Mauer ratsam.",
+              "Die Basilika bietet die längste Aufenthaltsdauer im Trockenen.",
+              "Nutzen Sie die Arkaden der Calle Mayor als regengeschützten Laufweg."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a macskaköves utcákhoz.",
+              "A városfalnál tapasztalható széllökések miatt stabil esernyőt vigyen.",
+              "A bazilika kínálja a leghosszabb beltéri programot.",
+              "Használja a Calle Mayor árkádjait esővédett útvonalként."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție impermeabilă pentru străzile pietruite.",
+              "Luați o umbrelă rezistentă din cauza vântului de lângă ziduri.",
+              "Bazilica oferă cel mai lung program de interior.",
+              "Folosiți arcadele de pe Calle Mayor ca traseu protejat de ploaie."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the cobblestone streets.",
+              "Bring a sturdy umbrella due to wind gusts near the city walls.",
+              "The basilica offers the longest indoor activity.",
+              "Use the arcades of Calle Mayor as a rain-protected walkway."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die klare Winterluft beim Aufstieg zur Puerta Baja. Die tiefstehende Sonne beleuchtet die ockerfarbenen Stadtmauern in einem magischen Licht. Mittags wärmen Sie sich in den kunstvoll verzierten Kapellen der Santa María auf. Der Nachmittag gehört den Panoramawegen, bevor die Dämmerung früh einsetzt. Den Abend verbringen Sie bei heißer Schokolade in einem Café an der Plaza de Santiago, während die Kälte draußen bleibt.",
+            "hu": "Élje át a tiszta téli levegőt a Puerta Baja felé sétálva. Az alacsonyan járó nap mágikus fénnyel világítja meg az okkersárga városfalakat. Délben melegedjen fel a Santa María művészien díszített kápolnáiban. A délután a panorámautaké, mielőtt korán leszállna az alkonyat. Az estét töltse forró csokoládé mellett a Plaza de Santiago egyik kávézójában, miközben a hideg az ablakon kívül marad.",
+            "ro": "Experimentați aerul curat de iarnă în timp ce urcați spre Puerta Baja. Soarele jos luminează zidurile ocru ale orașului într-o lumină magică. La prânz, încălziți-vă în capelele bogat decorate ale bisericii Santa María. După-amiaza aparține potecilor panoramice, înainte ca amurgul să se lase devreme. Încheiați seara cu o ciocolată caldă într-o cafenea din Plaza de Santiago.",
+            "en": "Experience the crisp winter air as you walk towards Puerta Baja. The low sun illuminates the ochre city walls in a magical light. At noon, warm up in the artistically decorated chapels of Santa María. The afternoon is for panoramic paths before dusk sets in early. Spend your evening with hot chocolate in a café at Plaza de Santiago, keeping the chill at bay."
+          },
+          "stops": [
+            {
+              "name": "Lower Gate (Puerta Baja)",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne bietet hier morgens bestes Fotolicht.",
+                "hu": "Az alacsony napállás reggel itt adja a legjobb fotófényeket.",
+                "ro": "Soarele jos oferă aici cea mai bună lumină foto dimineața.",
+                "en": "The low sun provides the best photo lighting here in the morning."
+              }
+            },
+            {
+              "name": "Fountain of 20 Pipes",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteisbildung rund um das Brunnenbecken.",
+                "hu": "Ügyeljen a jegesedésre a kútmedence környékén.",
+                "ro": "Atenție la formarea gheții în jurul bazinului fântânii.",
+                "en": "Watch out for ice formation around the fountain basin."
+              }
+            },
+            {
+              "name": "Church of San Miguel",
+              "tip_5lang": {
+                "de": "Das Interieur ist oft kühler als draußen, behalten Sie die Jacke an.",
+                "hu": "A belső tér gyakran hűvösebb, mint kint, tartsa magán a kabátot.",
+                "ro": "Interiorul este adesea mai răcoros decât afară, păstrați haina pe dvs.",
+                "en": "The interior is often cooler than outside; keep your jacket on."
+              }
+            },
+            {
+              "name": "Palace of the Luna",
+              "tip_5lang": {
+                "de": "Im Winter sind die Details der Steinhauerei besonders scharf zu sehen.",
+                "hu": "Télen a kőfaragványok részletei különösen élesen látszanak.",
+                "ro": "Iarna, detaliile sculpturilor în piatră se văd extrem de clar.",
+                "en": "In winter, the details of the stonework appear exceptionally sharp."
+              }
+            },
+            {
+              "name": "Collegiate Church of Santa María",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und moderaten Wärme im Winter.",
+                "hu": "A csend és a mérsékelt meleg helyszíne télen.",
+                "ro": "Un loc de liniște și căldură moderată în timpul iernii.",
+                "en": "A place of silence and moderate warmth in winter."
+              }
+            },
+            {
+              "name": "Upper Gate (Puerta Alta)",
+              "tip_5lang": {
+                "de": "Bester Platz für den frühen Sonnenuntergang um 17:30 Uhr.",
+                "hu": "A legjobb hely a korai naplemente megtekintéséhez 17:30-kor.",
+                "ro": "Cel mai bun loc pentru apusul timpuriu de la ora 17:30.",
+                "en": "Best spot for the early sunset at 5:30 PM."
+              }
+            },
+            {
+              "name": "City Walls of Daroca",
+              "tip_5lang": {
+                "de": "Der Wind kann hier oben im Winter sehr beißend sein.",
+                "hu": "A szél itt fent télen nagyon metsző lehet.",
+                "ro": "Vântul poate fi foarte tăios aici sus în timpul iernii.",
+                "en": "The wind can be very biting up here in winter."
+              }
+            },
+            {
+              "name": "The Mine of Daroca",
+              "tip_5lang": {
+                "de": "Im Tunnel ist es oft wärmer als auf der Stadtmauer.",
+                "hu": "Az alagútban gyakran melegebb van, mint a városfalon.",
+                "ro": "În tunel este adesea mai cald decât pe zidurile orașului.",
+                "en": "It is often warmer in the tunnel than on the city walls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist wichtig für den Aufstieg.",
+              "Die Sonne verschwindet gegen 17:15 hinter den Bergen.",
+              "Kopfsteinpflaster speichert die Kälte, tragen Sie dicke Socken.",
+              "In Daroca kann es nachts deutlich unter den Gefrierpunkt abkühlen."
+            ],
+            "hu": [
+              "A réteges öltözködés elengedhetetlen a kaptatókhoz.",
+              "A nap 17:15 körül tűnik el a hegyek mögött.",
+              "A macskakő tartja a hideget, viseljen vastag zoknit.",
+              "Darocában éjszaka jelentősen fagypont alá süllyedhet a hőmérséklet."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este esențială pentru urcări.",
+              "Soarele dispare după munți în jurul orei 17:15.",
+              "Piatra cubică reține frigul, purtați șosete groase.",
+              "În Daroca, temperatura poate scădea mult sub îngheț noaptea."
+            ],
+            "en": [
+              "Layering your clothes is essential for the climbs.",
+              "The sun disappears behind the mountains around 5:15 PM.",
+              "Cobblestones hold the cold; wear thick socks.",
+              "In Daroca, temperatures can drop well below freezing at night."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -702,6 +920,206 @@
           "Be mindful of pedestrians on the narrow streets of the old town.",
           "Always lock your bike when leaving it unattended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Herausforderung erwartet Sie auf dem Radweg entlang der Stadtmauern. Die Reifen greifen gut auf dem nassen Asphalt der Zufahrtswege. Mittags machen Sie eine längere Pause in der Nähe der Puerta Baja, um Ihre Ausrüstung zu trocknen. Am Nachmittag führt die Route durch das Mine-Tal, wo die Bäume etwas Schutz bieten. Ein heißer Tee am Ende der Tour ist die verdiente Belohnung für jeden wetterfesten Radler.",
+            "hu": "Vizes kihívás várja a városfal menti kerékpárúton. A gumi jól tapad a vizes aszfalton a bevezető utakon. Délben tartson hosszabb szünetet a Puerta Baja környékén, hogy megszárítsa felszerelését. Délután az útvonal a Mine-völgyön vezet át, ahol a fák némi védelmet nyújtanak. A túra végén egy forró tea a megérdemelt jutalom minden kitartó bringásnak.",
+            "ro": "O provocare umedă vă așteaptă pe traseul de biciclete de lângă ziduri. Anvelopele aderă bine pe asfaltul ud al drumurilor de acces. La prânz, faceți o pauză mai lungă lângă Puerta Baja pentru a vă usca echipamentul. După-amiaza, traseul trece prin valea Mine, unde copacii oferă puțină protecție. Un ceai fierbinte la final este recompensa meritată pentru orice biciclist rezistent.",
+            "en": "A wet challenge awaits on the bike path along the city walls. Tires grip well on the wet asphalt of the access roads. At noon, take a longer break near Puerta Baja to dry your gear. In the afternoon, the route leads through the Mine valley, where trees offer some shelter. A hot tea at the end of the tour is the well-deserved reward for every weather-proof cyclist."
+          },
+          "stops": [
+            {
+              "name": "Lower Gate (Puerta Baja)",
+              "tip_5lang": {
+                "de": "Guter Platz zum Überprüfen der Bremsen bei Nässe.",
+                "hu": "Jó hely a fékek ellenőrzésére nedves időben.",
+                "ro": "Un loc bun pentru verificarea frânelor pe vreme umedă.",
+                "en": "Good place to check your brakes in wet conditions."
+              }
+            },
+            {
+              "name": "Fountain of 20 Pipes",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfes Bremsen auf den nassen Steinen.",
+                "hu": "Kerülje az erős fékezést a nedves köveken.",
+                "ro": "Evitați frânarea bruscă pe pietrele umede.",
+                "en": "Avoid sharp braking on the wet stones."
+              }
+            },
+            {
+              "name": "Church of San Miguel",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich in den Gassen daneben.",
+                "hu": "Biztonságos kerékpártárolók találhatók a mellette lévő utcákban.",
+                "ro": "Suporturi de biciclete sigure se află pe străzile lăturalnice.",
+                "en": "Secure bike racks are located in the side alleys."
+              }
+            },
+            {
+              "name": "Collegiate Church of Santa María",
+              "tip_5lang": {
+                "de": "Lange Pause einlegen, während das Fahrrad gesichert ist.",
+                "hu": "Tartson hosszú szünetet, amíg a bicikli rögzítve van.",
+                "ro": "Faceți o pauză lungă în timp ce bicicleta este securizată.",
+                "en": "Take a long break while your bike is secured."
+              }
+            },
+            {
+              "name": "Upper Gate (Puerta Alta)",
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Regen rutschiger, fahren Sie vorsichtig.",
+                "hu": "Az emelkedő esőben csúszósabb, hajtson óvatosan.",
+                "ro": "Urcarea este mai alunecoasă pe ploaie, pedalați cu atenție.",
+                "en": "The climb is more slippery in the rain; ride carefully."
+              }
+            },
+            {
+              "name": "Route along the City Walls",
+              "tip_5lang": {
+                "de": "Die Pfützen können tief sein, bleiben Sie auf der befestigten Spur.",
+                "hu": "A tócsák mélyek lehetnek, maradjon a burkolt nyomon.",
+                "ro": "Bălțile pot fi adânci, rămâneți pe porțiunea pavată.",
+                "en": "Puddles can be deep; stay on the paved track."
+              }
+            },
+            {
+              "name": "The Mine of Daroca",
+              "tip_5lang": {
+                "de": "Vorsicht vor herabfallenden Ästen im Waldstück.",
+                "hu": "Vigyázzon a lehulló ágakra az erdős szakaszon.",
+                "ro": "Atenție la crengile căzute în porțiunea de pădure.",
+                "en": "Watch out for falling branches in the wooded section."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter in Daroca unverzichtbar.",
+              "Nutzen Sie gelbe Gläser für Ihre Radbrille bei grauem Himmel.",
+              "Prüfen Sie den Reifendruck für besseren Grip auf nassem Stein.",
+              "Wasserdichte Socken halten die Füße auch bei Pfützen warm."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyenkor Darocában.",
+              "Használjon sárga lencsét a szemüvegéhez a szürke égbolt alatt.",
+              "Ellenőrizze a guminyomást a jobb tapadásért a vizes kövön.",
+              "A vízálló zokni melegen tartja a lábat a tócsák ellenére is."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile în Daroca pe acest timp.",
+              "Folosiți lentile galbene pentru ochelari sub cerul gri.",
+              "Verificați presiunea în pneuri pentru aderență pe piatră udă.",
+              "Șosetele impermeabile mențin picioarele calde în ciuda bălților."
+            ],
+            "en": [
+              "Mudguards are indispensable in Daroca in this weather.",
+              "Use yellow lenses for your cycling glasses under gray skies.",
+              "Check tire pressure for better grip on wet stones.",
+              "Waterproof socks keep feet warm despite the puddles."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start führt Sie durch das monumentale Puerta Baja. Die Luft ist schneidend kalt, aber die Sicht auf die aragonesische Landschaft ist phänomenal. Mittags wärmen Sie sich bei einer Suppe in der Altstadt auf, während Ihr Rad sicher am Marktplatz parkt. Der Nachmittag bietet eine anspruchsvolle Fahrt entlang der Stadtmauer, wo der Wind Ihre Ausdauer prüft. Den Tag beenden Sie rechtzeitig vor Frostbeginn in Ihrer Unterkunft.",
+            "hu": "Deres indulás várja a monumentális Puerta Baja kapunál. A levegő metszően hideg, de a kilátás az aragóniai tájra fenomenális. Délben melegedjen fel egy levessel az óvárosban, miközben a bicikli biztonságban parkol a főtéren. A délután kihívást jelentő tekerést kínál a városfal mentén, ahol a szél próbára teszi az állóképességét. A napot fejezze be időben, még a komolyabb esti fagy beállta előtt.",
+            "ro": "Un start geros vă poartă prin monumentala Puerta Baja. Aerul este tăios, dar vizibilitatea asupra peisajului aragonez este fenomenală. La prânz, încălziți-vă cu o supă în orașul vechi, în timp ce bicicleta e parcată în siguranță. După-amiaza oferă o cursă solicitantă de-a lungul zidurilor, unde vântul vă testează rezistența. Încheiați ziua înainte de înghețul serii.",
+            "en": "A frosty start leads you through the monumental Puerta Baja. The air is biting cold, but the visibility over the Aragonese landscape is phenomenal. At noon, warm up with soup in the old town while your bike is safely parked in the main square. The afternoon offers a challenging ride along the city wall where the wind tests your endurance. Finish the day well before the evening frost sets in."
+          },
+          "stops": [
+            {
+              "name": "Lower Gate (Puerta Baja)",
+              "tip_5lang": {
+                "de": "Halten Sie die Finger mit Thermo-Handschuhen beweglich.",
+                "hu": "Tartsa mozgékonyan az ujjait termokesztyűvel.",
+                "ro": "Păstrați-vă degetele mobile cu mănuși termice.",
+                "en": "Keep your fingers mobile with thermal gloves."
+              }
+            },
+            {
+              "name": "Fountain of 20 Pipes",
+              "tip_5lang": {
+                "de": "Das Wasser kann hier gefroren sein, rutschfeste Sohlen wichtig.",
+                "hu": "A víz itt befagyhat, a csúszásmentes talp fontos.",
+                "ro": "Apa poate fi înghețată aici, talpa antiderapantă e importantă.",
+                "en": "The water here might be frozen; non-slip soles are important."
+              }
+            },
+            {
+              "name": "Church of San Miguel",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stop für Dehnübungen gegen die Kälte.",
+                "hu": "Használja a megállót nyújtásra a hideg ellen.",
+                "ro": "Folosiți oprirea pentru stretching împotriva frigului.",
+                "en": "Use the stop for stretching exercises against the cold."
+              }
+            },
+            {
+              "name": "Collegiate Church of Santa María",
+              "tip_5lang": {
+                "de": "Längere Aufwärmpause im Inneren ist sehr ratsam.",
+                "hu": "Hosszabb melegedő szünet a belső térben nagyon ajánlott.",
+                "ro": "O pauză lungă de încălzire în interior este foarte recomandată.",
+                "en": "A long warm-up break inside is highly advisable."
+              }
+            },
+            {
+              "name": "Upper Gate (Puerta Alta)",
+              "tip_5lang": {
+                "de": "Hinter dem Tor zieht der Wind oft stark durch.",
+                "hu": "A kapu mögött a szél gyakran erősen befúj.",
+                "ro": "În spatele porții, vântul bate adesea cu putere.",
+                "en": "The wind often blows strongly behind the gate."
+              }
+            },
+            {
+              "name": "Route along the City Walls",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schattenstellen mit möglichem Glatteis.",
+                "hu": "Ügyeljen az árnyékos részekre az esetleges jegesedés miatt.",
+                "ro": "Atenție la zonele umbrite unde poate exista polei.",
+                "en": "Watch out for shaded spots with potential black ice."
+              }
+            },
+            {
+              "name": "The Mine of Daroca",
+              "tip_5lang": {
+                "de": "Der Boden ist im Winter fest, aber die Luftfeuchtigkeit hoch.",
+                "hu": "A talaj télen kemény, de a páratartalom magas.",
+                "ro": "Solul este tare iarna, dar umiditatea este ridicată.",
+                "en": "The ground is firm in winter, but humidity is high."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Windstopper-Jacken sind für die Abfahrten in Daroca Pflicht.",
+              "Trinken Sie auch bei Kälte genug, am besten Tee aus der Thermoskanne.",
+              "Beleuchtung ist ab 16:30 Uhr wegen der tiefen Schatten nötig.",
+              "Akku-Leistung von E-Bikes sinkt bei Kälte deutlich."
+            ],
+            "hu": [
+              "A szélfogó kabát kötelező a darocai lejtőkhöz.",
+              "Hidegben is igyon eleget, lehetőleg teát termoszból.",
+              "A mély árnyékok miatt 16:30-tól már szükséges a világítás.",
+              "Az e-bike akkumulátor teljesítménye hidegben jelentősen csökken."
+            ],
+            "ro": [
+              "Jachetele windstopper sunt obligatorii pentru coborârile din Daroca.",
+              "Beți suficiente lichide, de preferat ceai dintr-un termos.",
+              "Lumina este necesară de la 16:30 din cauza umbrelor adânci.",
+              "Performanța bateriei e-bike-urilor scade semnificativ la frig."
+            ],
+            "en": [
+              "Windstopper jackets are mandatory for the descents in Daroca.",
+              "Drink enough even in the cold, preferably tea from a thermos.",
+              "Lights are needed from 4:30 PM due to deep shadows.",
+              "E-bike battery performance drops significantly in the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1030,6 +1448,206 @@
           "Check the opening times for the Gallocanta Lagoon visitor center as they can be seasonal.",
           "The surrounding roads are good, but be aware of farm vehicles."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag ist perfekt, um Daroca bequem mit dem Auto zu erkunden. Die Fahrt zum Puerta Alta bietet tolle Ausblicke, ohne nass zu werden. Mittags parken Sie nahe der Plaza Mayor und genießen die lokale Küche in einem warmen Restaurant. Am Nachmittag führt die Tour zur Lagune von Gallocanta, wo Sie die Vögel direkt aus dem Auto beobachten können. Der Abend endet sicher auf einem gut beleuchteten Parkplatz im Zentrum.",
+            "hu": "Egy esős nap tökéletes Daroca kényelmes, autós felfedezéséhez. Az út a Puerta Alta felé nagyszerű kilátást nyújt anélkül, hogy elázna. Délben parkoljon a Plaza Mayor közelében, és élvezze a helyi konyhát egy meleg étteremben. Délután az út a Gallocanta-lagúnához vezet, ahol az autóban maradva figyelheti meg a madarakat. Az este biztonságban ér véget egy jól kivilágított központi parkolóban.",
+            "ro": "O zi ploioasă este perfectă pentru a explora Daroca confortabil cu mașina. Drumul spre Puerta Alta oferă priveliști grozave fără a vă uda. La prânz, parcați lângă Plaza Mayor și savurați bucătăria locală într-un restaurant călduros. După-amiaza, traseul duce la laguna Gallocanta, unde puteți observa păsările direct din mașină. Seara se încheie în siguranță într-o parcare centrală.",
+            "en": "A rainy day is perfect for exploring Daroca comfortably by car. The drive to Puerta Alta offers great views without getting wet. At noon, park near Plaza Mayor and enjoy local cuisine in a warm restaurant. In the afternoon, the tour leads to the Gallocanta Lagoon, where you can observe birds directly from the car. The evening ends safely in a well-lit central parking lot."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Upper Gate (Puerta Alta)",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Tor, um Nässe zu vermeiden.",
+                "hu": "Parkoljon a lehető legközelebb a kapuhoz az eső elkerülésére.",
+                "ro": "Parcați cât mai aproape de poartă pentru a evita ploaia.",
+                "en": "Park as close as possible to the gate to avoid the wet."
+              }
+            },
+            {
+              "name": "Collegiate Church of Santa María",
+              "tip_5lang": {
+                "de": "Nutzen Sie den regengeschützten Eingangsbereich.",
+                "hu": "Használja az esőtől védett bejárati részt.",
+                "ro": "Folosiți zona de intrare protejată de ploaie.",
+                "en": "Use the entrance area protected from the rain."
+              }
+            },
+            {
+              "name": "Palace of the Luna",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zum Portal reicht aus.",
+                "hu": "Egy rövid sprint az autótól a kapuig elegendő.",
+                "ro": "Un sprint scurt de la mașină la portal este suficient.",
+                "en": "A short sprint from the car to the portal is enough."
+              }
+            },
+            {
+              "name": "Parking at the Lower Gate (Puerta Baja)",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen auf dem unbefestigten Platz.",
+                "hu": "Vigyázzon a mély tócsákra a burkolatlan parkolóban.",
+                "ro": "Atenție la bălțile adânci din parcarea neamenajată.",
+                "en": "Watch out for deep puddles in the unpaved parking area."
+              }
+            },
+            {
+              "name": "Church of San Miguel & Fountain",
+              "tip_5lang": {
+                "de": "Die Beleuchtung der Kirche wirkt im Regen sehr stimmungsvoll.",
+                "hu": "A templom kivilágítása esőben nagyon hangulatos.",
+                "ro": "Iluminarea bisericii pare foarte sugestivă pe ploaie.",
+                "en": "The lighting of the church looks very atmospheric in the rain."
+              }
+            },
+            {
+              "name": "Gallocanta Lagoon (Viewpoint)",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto, um die Kraniche trocken zu beobachten.",
+                "hu": "Maradjon az autóban a darvak száraz megfigyeléséhez.",
+                "ro": "Rămâneți în mașină pentru a observa cocorii la adăpost.",
+                "en": "Stay in the car to observe the cranes while staying dry."
+              }
+            },
+            {
+              "name": "Walk on the City Walls",
+              "tip_5lang": {
+                "de": "Nur für einen kurzen Fotostopp aussteigen.",
+                "hu": "Csak egy rövid fotómegálló erejéig szálljon ki.",
+                "ro": "Coborâți doar pentru o scurtă oprire foto.",
+                "en": "Get out only for a short photo stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt zur Lagune.",
+              "Die Parkplätze in der Altstadt sind eng, Vorsicht bei Nässe.",
+              "Fahren Sie vorsichtig auf den kurvigen Bergstraßen nach Gallocanta.",
+              "Ein Regenschirm im Kofferraum ist für kurze Wege Gold wert."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket a lagúna felé tartó út előtt.",
+              "Az óvárosi parkolók szűkek, vizes időben legyen óvatos.",
+              "Vezessen óvatosan a kanyargós hegyi utakon Gallocanta felé.",
+              "A csomagtartóban lévő esernyő aranyat ér a rövid utakra."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de drumul spre lagună.",
+              "Parcările din centrul vechi sunt înguste, atenție pe ud.",
+              "Conduceți cu grijă pe drumurile montane virajate spre Gallocanta.",
+              "O umbrelă în portbagaj valorează aur pentru distanțele scurte."
+            ],
+            "en": [
+              "Check your wipers before the drive to the lagoon.",
+              "Parking in the old town is tight; be careful in the wet.",
+              "Drive carefully on the winding mountain roads to Gallocanta.",
+              "An umbrella in the trunk is worth its weight in gold for short walks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag lädt zur Panoramafahrt rund um Daroca ein. Die Heizung im Auto macht die Erkundung der Außenmauern besonders angenehm. Mittags parken Sie in der Nähe der Puerta Baja und besuchen die gemütlichen Gaststätten der Stadt. Am Nachmittag bietet die Fahrt zur Gallocanta-Lagune die Chance, tausende überwinternde Kraniche zu sehen. Den Tag schließen Sie bei Einbruch der Dunkelheit mit einer stimmungsvollen Rückfahrt ab.",
+            "hu": "Egy tiszta téli nap panorámaautózásra hív Daroca körül. Az autó fűtése különösen kellemessé teszi a külső falak felfedezését. Délben parkoljon a Puerta Baja közelében, és látogasson el a város hangulatos vendéglőibe. Délután a Gallocanta-lagúnához vezető út esélyt ad több ezer telelő daru megfigyelésére. A napot a sötétség beálltakor egy hangulatos hazavezetéssel zárja.",
+            "ro": "O zi senină de iarnă invită la o plimbare panoramică în jurul Darocăi. Căldura din mașină face explorarea zidurilor exterioare foarte plăcută. La prânz, parcați lângă Puerta Baja și vizitați restaurantele primitoare. După-amiaza, drumul spre laguna Gallocanta oferă șansa de a vedea mii de cocori care iernează. Încheiați ziua cu un drum de întoarcere pitoresc la lăsarea întunericului.",
+            "en": "A clear winter day invites you for a panoramic drive around Daroca. The car's heater makes exploring the outer walls particularly pleasant. At noon, park near Puerta Baja and visit the cozy inns in town. In the afternoon, the drive to the Gallocanta Lagoon offers a chance to see thousands of wintering cranes. Close the day with an atmospheric drive back as darkness falls."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Upper Gate (Puerta Alta)",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Do not leave the engine idling unnecessarily."
+              }
+            },
+            {
+              "name": "Collegiate Church of Santa María",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor der Kirche.",
+                "hu": "Használja közvetlenül a templom előtti parkolót.",
+                "ro": "Folosiți parcarea direct din fața bisericii.",
+                "en": "Use the parking lot directly in front of the church."
+              }
+            },
+            {
+              "name": "Palace of the Luna",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen in den engen Gassen.",
+                "hu": "Ügyeljen a jeges szakaszokra a szűk utcákban.",
+                "ro": "Atenție la porțiunile înghețate de pe străzile înguste.",
+                "en": "Watch out for icy spots in the narrow alleys."
+              }
+            },
+            {
+              "name": "Parking at the Lower Gate (Puerta Baja)",
+              "tip_5lang": {
+                "de": "Bei Frost kann der Boden hier sehr hart und uneben sein.",
+                "hu": "Fagyban a talaj itt nagyon kemény és egyenetlen lehet.",
+                "ro": "Pe timp de îngheț, solul poate fi foarte tare și denivelat.",
+                "en": "During frost, the ground here can be very hard and uneven."
+              }
+            },
+            {
+              "name": "Church of San Miguel & Fountain",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die gefrorenen Details des Brunnens zu sehen.",
+                "hu": "Rövid megálló a kút fagyott részleteinek megtekintéséhez.",
+                "ro": "Scurtă oprire pentru a vedea detaliile înghețate ale fântânii.",
+                "en": "Short stop to see the frozen details of the fountain."
+              }
+            },
+            {
+              "name": "Gallocanta Lagoon (Viewpoint)",
+              "tip_5lang": {
+                "de": "Die Wintersonne spiegelt sich herrlich im flachen Wasser.",
+                "hu": "A téli nap gyönyörűen tükröződik a sekély vízben.",
+                "ro": "Soarele de iarnă se reflectă superb în apa puțin adâncă.",
+                "en": "The winter sun reflects beautifully in the shallow water."
+              }
+            },
+            {
+              "name": "Walk on the City Walls",
+              "tip_5lang": {
+                "de": "Warme Jacke für den windigen Fotostopp einplanen.",
+                "hu": "Tervezzen be meleg kabátot a szeles fotómegállóhoz.",
+                "ro": "Pregătiți o jachetă groasă pentru oprirea foto vântoasă.",
+                "en": "Plan for a warm jacket for the windy photo stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutzmittel in der Scheibenwaschanlage ist ein Muss.",
+              "Bergstraßen können morgens überfrierende Nässe aufweisen.",
+              "Laguna de Gallocanta ist im Winter ein Hotspot für Kraniche.",
+              "Die Dämmerung setzt im Tal von Daroca sehr früh ein."
+            ],
+            "hu": [
+              "A fagyálló szélvédőmosó elengedhetetlen.",
+              "A hegyi utakon reggelente lefagyások fordulhatnak elő.",
+              "A Gallocanta-lagúna télen a darvak egyik legfőbb lelőhelye.",
+              "A szürkület a darocai völgyben nagyon korán beáll."
+            ],
+            "ro": [
+              "Lichidul de parbriz antigel este obligatoriu.",
+              "Drumurile montane pot avea porțiuni înghețate dimineața.",
+              "Laguna de Gallocanta este un punct important pentru cocori iarna.",
+              "Amurgul se lasă foarte devreme în valea Darocăi."
+            ],
+            "en": [
+              "Antifreeze in the windshield washer fluid is a must.",
+              "Mountain roads may have black ice in the mornings.",
+              "Gallocanta Lagoon is a hotspot for cranes in winter.",
+              "Dusk sets in very early in the valley of Daroca."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1334,6 +1952,188 @@
           "A 'Menú del día' (menu of the day) is a great value option for lunch.",
           "Ask at the tourist office for maps and information on any local shuttles."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Kommen Sie entspannt mit dem Bus in Daroca an und nutzen Sie das Wartehäuschen an der Puerta Baja. Die kurzen Wege im Zentrum machen die Erkundung auch bei Regen einfach. Mittags bietet die Stiftskirche Santa María ein langes Indoor-Programm. Am Nachmittag schlendern Sie durch die überdachten Passagen der Hauptstraße. Den Abend verbringen Sie in einer Bar in Bahnhofsnähe, bis Ihr Bus zur Rückfahrt eintrifft.",
+            "hu": "Érkezzen pihenten busszal Darocába, és használja a Puerta Baja melletti várót. A központ rövid távolságai esőben is egyszerűvé teszik a felfedezést. Délben a Santa María társaskáptalan hosszú beltéri programot kínál. Délután sétáljon végig a főutca fedett passzázsai alatt. Az estét töltse egy állomás közeli bárban, amíg meg nem érkezik a busza a hazautazáshoz.",
+            "ro": "Sosiți relaxat cu autobuzul în Daroca și folosiți adăpostul de la Puerta Baja. Distanțele scurte din centru fac explorarea ușoară chiar și pe ploaie. La prânz, biserica Santa María oferă un program lung de interior. După-amiaza, plimbați-vă prin pasajele acoperite ale străzii principale. Seara, relaxați-vă într-un bar lângă stație până la plecarea autobuzului.",
+            "en": "Arrive relaxed by bus in Daroca and use the shelter at Puerta Baja. The short distances in the center make exploration easy even in the rain. At noon, the Collegiate Church of Santa María offers a long indoor program. In the afternoon, stroll through the covered passages of the main street. Spend your evening in a bar near the station until your bus arrives for the return journey."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Daroca Bus Station (near Puerta Baja)",
+              "tip_5lang": {
+                "de": "Das Wartehäuschen bietet guten Schutz bei der Ankunft.",
+                "hu": "A váróterem jó védelmet nyújt érkezéskor.",
+                "ro": "Adăpostul oferă o protecție bună la sosire.",
+                "en": "The bus shelter provides good protection upon arrival."
+              }
+            },
+            {
+              "name": "Fountain of 20 Pipes",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg von der Bushaltestelle entfernt.",
+                "hu": "Mindössze 2 perc sétára a buszmegállótól.",
+                "ro": "La doar 2 minute de mers pe jos de stația de autobuz.",
+                "en": "Only a 2-minute walk from the bus stop."
+              }
+            },
+            {
+              "name": "Church of San Miguel",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um den Fahrplan im Trockenen zu prüfen.",
+                "hu": "Jó hely a menetrend szárazon történő ellenőrzésére.",
+                "ro": "Un loc bun pentru a verifica orarul la adăpost.",
+                "en": "A good place to check the schedule while staying dry."
+              }
+            },
+            {
+              "name": "Ride to Puerta Alta (hypothetical shuttle)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht aus dem Fenster des Shuttles.",
+                "hu": "Élvezze a kilátást a transzferbusz ablakából.",
+                "ro": "Bucurați-vă de priveliște de pe fereastra microbuzului.",
+                "en": "Enjoy the view from the window of the shuttle."
+              }
+            },
+            {
+              "name": "Collegiate Church of Santa María",
+              "tip_5lang": {
+                "de": "Das Museum ist ideal für einen längeren Regenaufenthalt.",
+                "hu": "A múzeum ideális egy hosszabb eső elleni menedékhez.",
+                "ro": "Muzeul este ideal pentru un popas prelungit pe timp de ploaie.",
+                "en": "The museum is ideal for a longer stay out of the rain."
+              }
+            },
+            {
+              "name": "Walk on the City Walls",
+              "tip_5lang": {
+                "de": "Bleiben Sie für den Rückweg nah an den Abstiegswegen.",
+                "hu": "A visszaúthoz maradjon a lefelé vezető utak közelében.",
+                "ro": "Rămâneți aproape de căile de coborâre pentru întoarcere.",
+                "en": "Stay close to the descent paths for the way back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Busverbindungen online bei schlechtem Wetter.",
+              "Die meisten Sehenswürdigkeiten sind vom Busstop aus schnell erreichbar.",
+              "Tragen Sie eine leichte Regenjacke für die Umstiege.",
+              "Taxis sind in Daroca bei starkem Regen eine gute Alternative."
+            ],
+            "hu": [
+              "Rossz idő esetén ellenőrizze online a buszjáratokat.",
+              "A legtöbb látnivaló gyorsan elérhető a buszmegállótól.",
+              "Viseljen könnyű esőkabátot az átszállásokhoz.",
+              "Heves esőben a taxik jó alternatívát jelentenek Darocában."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor online pe vreme rea.",
+              "Majoritatea obiectivelor sunt rapid accesibile de la stație.",
+              "Purtați o jachetă ușoară de ploaie pentru transferuri.",
+              "Taxiurile sunt o alternativă bună în Daroca pe ploaie torențială."
+            ],
+            "en": [
+              "Check bus connections online during bad weather.",
+              "Most sights are quickly reachable from the bus stop.",
+              "Wear a lightweight rain jacket for transfers.",
+              "Taxis are a good alternative in Daroca during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihren Winterausflug mit dem Bus und genießen Sie die verschneite oder gefrorene Landschaft Aragoniens. In Daroca angekommen, führt ein kurzer Spaziergang zur Puerta Baja. Mittags wärmen Sie sich in einem der Cafés an der Plaza de España auf. Der Nachmittag bietet eine beeindruckende Besichtigung der Santa María, wo die Kälte draußen bleibt. Den Tag beenden Sie im Warmen an der Bushaltestelle, bereit für die Rückreise.",
+            "hu": "Kezdje téli kirándulását busszal, és élvezze Aragónia havas vagy deres tájait. Darocába érve egy rövid séta vezet a Puerta Baja kapuhoz. Délben melegedjen fel a Plaza de España egyik kávézójában. A délután a Santa María lenyűgöző belső tereié, ahol a hideg nem érheti utol. A napot a buszmegálló melegében fejezze be, felkészülve a hazautazásra.",
+            "ro": "Începeți excursia de iarnă cu autobuzul și admirați peisajul înghețat al Aragonului. Ajunși în Daroca, o scurtă plimbare vă duce la Puerta Baja. La prânz, încălziți-vă într-una dintre cafenelele din Plaza de España. După-amiaza oferă o vizită impresionantă la Santa María, unde frigul rămâne afară. Încheiați ziua la căldură în stația de autobuz.",
+            "en": "Start your winter excursion by bus and enjoy the snowy or frozen landscape of Aragon. Arriving in Daroca, a short walk leads to Puerta Baja. At noon, warm up in one of the cafés at Plaza de España. The afternoon offers an impressive tour of Santa María, where the cold stays outside. End the day in the warmth of the bus station, ready for the trip back."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Daroca Bus Station (near Puerta Baja)",
+              "tip_5lang": {
+                "de": "Beachten Sie mögliche winterbedingte Verspätungen.",
+                "hu": "Számoljon az esetleges téli menetrendi késésekkel.",
+                "ro": "Luați în considerare posibilele întârzieri cauzate de iarnă.",
+                "en": "Take potential winter-related delays into account."
+              }
+            },
+            {
+              "name": "Fountain of 20 Pipes",
+              "tip_5lang": {
+                "de": "Der Weg zum Brunnen wird bei Frost gestreut.",
+                "hu": "A kúthoz vezető utat fagy esetén felszórják.",
+                "ro": "Drumul spre fântână este curățat în caz de îngheț.",
+                "en": "The path to the fountain is gritted in case of frost."
+              }
+            },
+            {
+              "name": "Church of San Miguel",
+              "tip_5lang": {
+                "de": "Besichtigung im Winter oft nur nach Absprache möglich.",
+                "hu": "Télen a látogatás gyakran csak egyeztetés után lehetséges.",
+                "ro": "Vizitarea iarna este adesea posibilă doar cu programare.",
+                "en": "Visiting in winter is often only possible by arrangement."
+              }
+            },
+            {
+              "name": "Ride to Puerta Alta (hypothetical shuttle)",
+              "tip_5lang": {
+                "de": "Die Heizung im Shuttle ist im Winter sehr willkommen.",
+                "hu": "A transzferbusz fűtése télen nagyon hívogató.",
+                "ro": "Căldura din microbuz este foarte binevenită iarna.",
+                "en": "The heater in the shuttle is very welcome in winter."
+              }
+            },
+            {
+              "name": "Collegiate Church of Santa María",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Kapellen auf, bevor es weitergeht.",
+                "hu": "Melegedjen fel a kápolnákban, mielőtt továbbmenne.",
+                "ro": "Încălziți-vă în capele înainte de a merge mai departe.",
+                "en": "Warm up in the chapels before moving on."
+              }
+            },
+            {
+              "name": "Walk on the City Walls",
+              "tip_5lang": {
+                "de": "Vorsicht bei starkem Wind, die gefühlte Kälte ist hoch.",
+                "hu": "Vigyázzon az erős széllel, a hőérzet ilyenkor nagyon alacsony.",
+                "ro": "Atenție la vântul puternic, temperatura resimțită este mică.",
+                "en": "Watch out for strong wind; the perceived temperature is very low."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bus-Fahrpläne können im Winter an Feiertagen abweichen.",
+              "Halten Sie sich im Winter bevorzugt im unteren Stadtteil auf.",
+              "Tragen Sie Mütze und Handschuhe für die Wartezeiten am Bus.",
+              "Die Busstation liegt windgeschützt unterhalb der Puerta Baja."
+            ],
+            "hu": [
+              "A buszmenetrendek télen, ünnepnapokon eltérhetnek.",
+              "Télen tartózkodjon inkább az alsó városrészben.",
+              "Viseljen sapkát és kesztyűt a buszra való várakozáskor.",
+              "A buszmegálló szélvédett helyen, a Puerta Baja alatt található."
+            ],
+            "ro": [
+              "Orarele autobuzelor pot varia iarna în zilele de sărbătoare.",
+              "Iarna, preferați să stați în partea de jos a orașului.",
+              "Purtați căciulă și mănuși pentru timpii de așteptare în stație.",
+              "Stația de autobuz este protejată de vânt, sub Puerta Baja."
+            ],
+            "en": [
+              "Bus schedules may differ on holidays in winter.",
+              "Prefer staying in the lower part of town during winter.",
+              "Wear a hat and gloves for the waiting times at the bus stop.",
+              "The bus station is sheltered from the wind below Puerta Baja."
+            ]
+          }
+        }
       }
     }
   }

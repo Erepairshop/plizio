@@ -382,6 +382,206 @@
           "Always have some cash on hand for small purchases at markets or from street vendors.",
           "A portable charger for your phone is useful for taking photos and navigating throughout the day."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt grau im Schewtschenko-Park, wo die dichten Baumkronen den ersten Regen abfangen. Die Verklärungskathedrale bietet eine prachtvolle, trockene Zuflucht vor dem Mittagsschauer. Nach einem gemütlichen Mittagessen am Zirkus genießen wir das kulturelle Programm im Inneren des Zirkusgebäudes. Den Abschluss bildet ein erfrischender Gang am Saksahan-Ufer, wo die nasse Luft die industriellen Kontraste der Stadt mildert.",
+            "hu": "A nap borúsan indul a Sevcsenko parkban, ahol a sűrű lombok felfogják az esőcseppeket. A Székesegyház pompás belső tere tökéletes menedéket nyújt a déli zápor elől. Ebéd után a cirkusz fedett épületében élvezzük a programokat, távol a sártól. A napot a Sakszahan folyó partján zárjuk, ahol az eső utáni párás levegő különleges hangulatot áraszt az ipari táj felett.",
+            "ro": "Ziua începe sub nori în Parcul Șevcenko, unde coroanele dese oferă adăpost temporar. Catedrala Schimbarea la Față este refugiul perfect și uscat pentru amiaza ploioasă. După un prânz cald lângă Circ, ne bucurăm de spectacole în interiorul clădirii emblematice. Încheiem ziua pe malul râului Saksahan, unde ploaia măruntă accentuează culorile dramatice ale peisajului industrial.",
+            "en": "The day starts under gray skies in Shevchenko Park, where the dense trees provide some cover. The Transfiguration Cathedral offers a grand, dry sanctuary during the midday downpour. After a cozy lunch, we head inside the Circus building for some indoor culture. The walk along the Saksahan Riverbank concludes the day, with the mist adding a cinematic layer to the city's unique industrial skyline."
+          },
+          "stops": [
+            {
+              "name": "Taras Shevchenko Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Wegen, um Pfützen zu vermeiden.",
+                "hu": "Maradjon az aszfaltozott utakon a tócsák elkerülése érdekében.",
+                "ro": "Rămâneți pe aleile asfaltate pentru a evita bălțile.",
+                "en": "Stick to the paved paths to avoid large puddles near the river."
+              }
+            },
+            {
+              "name": "Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Ikonen, während es draußen regnet.",
+                "hu": "Csodálja meg az ikonokat, amíg kint esik az eső.",
+                "ro": "Admirați icoanele în timp ce vă adăpostiți de ploaie.",
+                "en": "Admire the intricate icons while taking shelter from the rain."
+              }
+            },
+            {
+              "name": "Flower Clock",
+              "tip_5lang": {
+                "de": "Gehen Sie hinein; unter der Uhr befindet sich eine Ausstellung.",
+                "hu": "Menjen be az óra alá, ahol egy érdekes kiállítás várja.",
+                "ro": "Intrați sub ceas; există o expoziție în interiorul structurii.",
+                "en": "Go inside; there is a gallery and exhibition under the clock structure."
+              }
+            },
+            {
+              "name": "Lunch near the Circus",
+              "tip_5lang": {
+                "de": "Ein langer Aufenthalt im Warmen ist jetzt ideal.",
+                "hu": "Egy hosszú, meleg ebéd most a legjobb választás.",
+                "ro": "Un prânz lung la căldură este ideal în acest moment.",
+                "en": "A long, warm lunch is the perfect way to wait out the drizzle."
+              }
+            },
+            {
+              "name": "Kryvyi Rih State Circus",
+              "tip_5lang": {
+                "de": "Das massive Dach schützt perfekt vor dem Wetter.",
+                "hu": "A masszív tetőszerkezet tökéletes védelmet nyújt.",
+                "ro": "Acoperișul masiv oferă protecție excelentă împotriva ploii.",
+                "en": "The massive roof provides excellent protection from the elements."
+              }
+            },
+            {
+              "name": "Boat Station on the Saksahan River",
+              "tip_5lang": {
+                "de": "Der Pavillon bietet einen trockenen Blick auf den Fluss.",
+                "hu": "A pavilonból szárazon csodálhatja meg a folyót.",
+                "ro": "Pavilionul oferă o vedere frumoasă și uscată asupra râului.",
+                "en": "The pavilion offers a dry spot to enjoy the river views."
+              }
+            },
+            {
+              "name": "Saksahan Riverbank",
+              "tip_5lang": {
+                "de": "Vorsicht, die Granitstufen können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a gránitlépcsők nedvesen csúszósak lehetnek.",
+                "ro": "Atenție, treptele de granit pot fi alunecoase când sunt ude.",
+                "en": "Careful, the granite steps can be slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das industrielle Gelände Pfützen bilden kann.",
+              "Die Blumenuhr hat einen Innenraum – ideal bei starkem Regen.",
+              "Nutzen Sie die Kathedrale für eine längere Pause im Trockenen.",
+              "Regenschirme sind bei dem oft windigen Wetter in Krywyj Rih essenziell."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az ipari talajon könnyen megáll a víz.",
+              "A Virágóra belseje galériaként működik, kiváló búvóhely esőben.",
+              "Használja ki a Székesegyházat egy hosszabb száraz pihenőre.",
+              "Az esernyő kötelező, mert a város nyitott terein gyakori a szél."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, terenul industrial favorizează bălțile.",
+              "Interiorul Ceasului cu Flori este o galerie, ideal pentru a scăpa de ploaie.",
+              "Folosiți Catedrala pentru o pauză prelungită într-un loc uscat.",
+              "Umbrela este esențială, vântul poate fi puternic în zonele deschise."
+            ],
+            "en": [
+              "Wear waterproof shoes as the industrial terrain can get quite muddy.",
+              "The Flower Clock is hollow and houses a gallery – perfect for heavy rain.",
+              "The Cathedral is a great spot for a long, quiet break from the wet weather.",
+              "Sturdy umbrellas are a must due to the wind tunnels created by wide avenues."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen im Schewtschenko-Park zeigt die zugefrorenen Flüsse in stiller Pracht. Die Wärme der Verklärungskathedrale ist nach dem kalten Spaziergang eine Wohltat. Mittags wärmen wir uns bei kräftigen ukrainischen Suppen in der Nähe des Zirkus auf. Da die Sonne bereits früh untergeht, genießen wir die abendliche Beleuchtung der Stadt am Saksahan-Ufer unter einem klaren Sternenhimmel.",
+            "hu": "A fagyos reggel a Sevcsenko parkban indul, ahol a folyók jeges felszíne csillog a hideg fényben. A Székesegyház melege igazi felüdülés a jeges séta után. Ebédre forró ukrán borscsot választunk a cirkusz mellett. Mivel a nap korán nyugszik, a Sakszahan partján már a város esti fényeit és a tiszta, téli csillagos eget csodálhatjuk meg.",
+            "ro": "O dimineață geroasă în Parcul Șevcenko dezvăluie râurile înghețate într-o liniște deplină. Căldura Catedralei Schimbarea la Față este o binecuvântare după plimbarea prin frig. La prânz, ne încălzim cu supe consistente lângă Circ. Deoarece soarele apune devreme, încheiem ziua admirând luminile orașului reflectate în gheața de pe Saksahan.",
+            "en": "A frosty morning in Shevchenko Park showcases the frozen rivers in silent majesty. The warmth of the Transfiguration Cathedral is a welcome relief after the biting cold outside. For lunch, hearty Ukrainian soups near the Circus provide the needed energy. With the sun setting early, we enjoy the illuminated riverbank of the Saksahan under a crisp, starry winter sky."
+          },
+          "stops": [
+            {
+              "name": "Taras Shevchenko Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Zusammenfluss von Inhulez und Saksahan.",
+                "hu": "Élvezze az Inhulec és a Sakszahan folyók jeges összefolyását.",
+                "ro": "Admirați confluența înghețată a râurilor Inhuleț și Saksahan.",
+                "en": "Enjoy the view of the frozen confluence of the Inhulets and Saksahan."
+              }
+            },
+            {
+              "name": "Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für Besinnung und zum Aufwärmen der Hände.",
+                "hu": "Meleg hely az elcsendesedéshez és a kezek felmelegítéséhez.",
+                "ro": "Un loc cald pentru reflecție și pentru a vă încălzi mâinile.",
+                "en": "A peaceful indoor spot to warm up your hands and spirit."
+              }
+            },
+            {
+              "name": "Flower Clock",
+              "tip_5lang": {
+                "de": "Im Winter ist die Uhr oft mit Schnee bedeckt und beleuchtet.",
+                "hu": "Télen az órát gyakran hó fedi, de az esti fényei gyönyörűek.",
+                "ro": "Iarna, ceasul este adesea acoperit de zăpadă și iluminat.",
+                "en": "The clock is often snow-covered in winter but beautifully lit at night."
+              }
+            },
+            {
+              "name": "Lunch near the Circus",
+              "tip_5lang": {
+                "de": "Probieren Sie heißen Borschtsch, um die Kälte zu vertreiben.",
+                "hu": "Kóstolja meg a forró borscsot a hideg ellen.",
+                "ro": "Încercați un borș fierbinte pentru a alunga frigul.",
+                "en": "Try some hot borscht to keep the winter chill at bay."
+              }
+            },
+            {
+              "name": "Kryvyi Rih State Circus",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Spielplan für winterliche Vorstellungen.",
+                "hu": "Nézze meg a téli előadások időpontjait.",
+                "ro": "Verificați programul pentru spectacolele de iarnă.",
+                "en": "Check the schedule for special winter indoor performances."
+              }
+            },
+            {
+              "name": "Boat Station on the Saksahan River",
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im Schnee besonders grafisch.",
+                "hu": "Az épület stílusa a hóban még karakteresebbnek látszik.",
+                "ro": "Arhitectura arată deosebit de grafic pe fundalul zăpezii.",
+                "en": "The classic architecture looks particularly striking against the snow."
+              }
+            },
+            {
+              "name": "Saksahan Riverbank",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist hier gegen 16:30 Uhr am schönsten.",
+                "hu": "A naplemente itt 16:30 körül a leglátványosabb.",
+                "ro": "Apusul este cel mai frumos aici în jurul orei 16:30.",
+                "en": "The winter sunset is most spectacular here around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten; der Wind vom Fluss kann sehr schneidig sein.",
+              "Die Sonne geht im Dezember bereits vor 16:30 Uhr unter.",
+              "Öffentliche Gebäude sind gut beheizt, ideal für kurze Aufwärmpausen.",
+              "Vorsicht vor Glatteis auf den weiten Gehwegen der Hauptstraßen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen; a folyó felől érkező szél metsző lehet.",
+              "A nap decemberben már 16:30 előtt lemegy, tervezzen előre.",
+              "A középületek jól fűtöttek, használja őket rövid melegedőnek.",
+              "Vigyázzon a jegesedésre a széles sugárutak járdáin."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; vântul de pe râu poate fi tăios.",
+              "Soarele apune înainte de ora 16:30 în decembrie, planificați din timp.",
+              "Clădirile publice sunt bine încălzite, ideale pentru pauze scurte.",
+              "Atenție la gheață pe trotuarele largi ale bulevardelor principale."
+            ],
+            "en": [
+              "Dress in layers; the wind blowing off the rivers can be very sharp.",
+              "The sun sets before 4:30 PM in mid-winter; plan your outdoor photos early.",
+              "Public buildings and churches are well-heated for quick warm-up stops.",
+              "Watch out for black ice on the wide, exposed sidewalks of the city center."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -782,6 +982,224 @@
           "Bring a lock to secure your bike at the stops.",
           "A bottle of water is essential to stay hydrated."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir radeln durch den Regen zum Botanischen Garten, wo die Gewächshäuser eine tropische Zuflucht bieten. Die Fahrt zum Bergbaumuseum führt über nasse Straßen, doch die Ausstellungen im Inneren entschädigen für alles. Mittags trocknen wir im Zentrum bei einem Kaffee. Die Rückfahrt führt uns an der Kathedrale und dem Schewtschenko-Park vorbei, wobei die asphaltierten Wege sichereres Radfahren ermöglichen.",
+            "hu": "Az esőben tekerünk el a Botanikus kertig, ahol a pálmaházak trópusi menedéket nyújtanak. Az út a Bányászati Múzeumig vizes utcákon át vezet, de a benti tárlatok feledtetik az időjárást. Délben a központban száradunk meg egy kávé mellett. Visszafelé a Székesegyház és a Sevcsenko park mellett haladunk, az aszfaltozott utak segítik a biztonságos haladást.",
+            "ro": "Pedalăm prin ploaie spre Grădina Botanică, unde serele oferă un refugiu tropical cald. Drumul spre Muzeul Mineritului trece prin străzi ude, dar expozițiile interioare merită efortul. La prânz ne uscăm în centru la o cafea. Întoarcerea trece pe lângă Catedrală și Parcul Șevcenko, drumurile asfaltate fiind mai sigure pentru bicicletă.",
+            "en": "We cycle through the rain to the Botanical Garden, where the greenhouses provide a tropical escape. The ride to the Mining Museum follows wet streets, but the indoor exhibits make it worthwhile. We dry off in the city center over coffee at lunch. The return leg passes the Cathedral and Shevchenko Park, with paved paths offering a safer ride in the drizzle."
+          },
+          "stops": [
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Gewächshäuser, um trocken zu bleiben.",
+                "hu": "Látogassa meg az üvegházakat, ott biztosan nem ázik meg.",
+                "ro": "Vizitați serele pentru a rămâne la adăpost de ploaie.",
+                "en": "Head straight for the greenhouses to stay dry and warm."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Perfektes Ziel für Regentage, da fast alles überdacht ist.",
+                "hu": "Tökéletes célpont esős napokon, mert majdnem minden fedett.",
+                "ro": "Destinație perfectă pentru zile ploioase, majoritatea zonelor sunt acoperite.",
+                "en": "Perfect rainy day destination as most exhibits are indoors."
+              }
+            },
+            {
+              "name": "Flower Clock",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen, die Pflasterung kann glatt sein.",
+                "hu": "Vigyázzon a leszállásnál, a burkolat csúszós lehet.",
+                "ro": "Atenție la coborâre, pavajul poate fi alunecos.",
+                "en": "Be careful when dismounting; the pavement can be slick."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Café mit Platz für Ihre nasse Ausrüstung.",
+                "hu": "Keressen olyan helyet, ahol van hely a vizes cuccoknak.",
+                "ro": "Căutați o cafenea cu spațiu pentru echipamentul ud.",
+                "en": "Choose a cafe with enough space for your wet gear."
+              }
+            },
+            {
+              "name": "Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Vordach, falls möglich.",
+                "hu": "Ha lehet, parkolja a biciklit az előtető alá.",
+                "ro": "Parcați bicicleta sub streașină, dacă este posibil.",
+                "en": "Park your bike under the overhang if possible to keep the seat dry."
+              }
+            },
+            {
+              "name": "Taras Shevchenko Park",
+              "tip_5lang": {
+                "de": "Die Wege unter den Bäumen sind etwas geschützter.",
+                "hu": "A fák alatti utak valamivel védettebbek az esőtől.",
+                "ro": "Aleile de sub copaci sunt ceva mai ferite de ploaie.",
+                "en": "Paths under the tree canopy offer some shelter from the rain."
+              }
+            },
+            {
+              "name": "Boat Station",
+              "tip_5lang": {
+                "de": "Kurzer Stopp im Pavillon, um die Karte zu prüfen.",
+                "hu": "Rövid megálló a pavilonban az útvonal ellenőrzéséhez.",
+                "ro": "Oprire scurtă în pavilion pentru a verifica harta.",
+                "en": "A quick stop in the pavilion is ideal for checking your map."
+              }
+            },
+            {
+              "name": "Saksahan River",
+              "tip_5lang": {
+                "de": "Schutzbleche sind bei dieser Fahrt unverzichtbar.",
+                "hu": "A sárvédő ezen az úton elengedhetetlen.",
+                "ro": "Aripile la bicicletă sunt indispensabile pe acest traseu.",
+                "en": "Mudguards are absolutely essential for this wet ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie Straßenbahnschienen, diese sind bei Nässe extrem rutschig.",
+              "Nutzen Sie die Gewächshäuser des Botanischen Gartens als trockenen Stützpunkt.",
+              "Vollständige Regenbekleidung inklusive Überschuhen wird empfohlen.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt durch das hügelige Gelände."
+            ],
+            "hu": [
+              "Kerülje a villamossíneket, mert vizesen rendkívül csúszósak.",
+              "Használja a Botanikus kert üvegházait száraz bázisnak.",
+              "Teljes esőruházat és kamásli viselése erősen ajánlott.",
+              "Ellenőrizze a fékeket a dombos ipari terep előtt."
+            ],
+            "ro": [
+              "Evitați șinele de tramvai, sunt extrem de alunecoase pe ploaie.",
+              "Folosiți serele Grădinii Botanice ca punct de sprijin uscat.",
+              "Se recomandă echipament complet de ploaie, inclusiv protecții pentru pantofi.",
+              "Verificați frânele înainte de a porni pe terenul deluros."
+            ],
+            "en": [
+              "Avoid tram tracks at all costs; they become lethal when wet.",
+              "The greenhouses in the Botanical Garden are your best dry-out spot.",
+              "Full waterproof gear, including shoe covers, is highly recommended.",
+              "Check your brake pads before tackling the city's undulating terrain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch die Weite von Krywyj Rih erfordert gute Vorbereitung. Der Botanische Garten empfängt uns mit warmen Tropenhäusern, bevor wir zum Bergbaumuseum weiterfahren. Die kalte Luft ist klar, aber der Wind kann fordernd sein. Mittags wärmen wir uns im Zentrum auf. Der Rückweg durch den Schewtschenko-Park und entlang der Saksahan bietet wunderschöne Ausblicke auf die verschneite Industrielandschaft.",
+            "hu": "A téli kerékpártúra Krivij Rih tágas terein alapos felkészülést igényel. A Botanikus kert meleg trópusi házai várnak minket, mielőtt továbbtekerünk a Bányászati Múzeumhoz. A hideg levegő tiszta, de a szél kemény tud lenni. Délben a központban melegszünk fel. A visszaút a Sevcsenko parkon át és a Sakszahan mentén csodás kilátást nyújt a havas ipari tájra.",
+            "ro": "O tură cu bicicleta iarna prin Krivoi Rog necesită o pregătire bună. Grădina Botanică ne primește cu serele tropicale calde înainte de a continua spre Muzeul Mineritului. Aerul rece este curat, dar vântul poate fi solicitant. La prânz ne încălzim în centru. Drumul de întoarcere prin Parcul Șevcenko oferă vederi superbe asupra peisajului industrial înzăpezit.",
+            "en": "A winter bike tour through the vastness of Kryvyi Rih requires serious preparation. The Botanical Garden greets us with warm tropical houses before we move on to the Mining Museum. The air is crisp, but the wind chill can be demanding. We warm up in the center at noon. The return through Shevchenko Park and along the Saksahan offers beautiful views of the snow-covered industrial landscape."
+          },
+          "stops": [
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Die Wärme im Inneren ist der perfekte Kontrast zur Außenwelt.",
+                "hu": "A benti meleg tökéletes ellentéte a kinti fagynak.",
+                "ro": "Căldura din interior este contrastul perfect cu gerul de afară.",
+                "en": "The indoor warmth is the perfect contrast to the winter frost."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Ort, um die Industriegeschichte zu entdecken.",
+                "hu": "Jól fűtött hely az ipari történelem felfedezéséhez.",
+                "ro": "Un loc bine încălzit pentru a descoperi istoria industrială.",
+                "en": "A well-heated facility to explore the region's industrial heritage."
+              }
+            },
+            {
+              "name": "Flower Clock",
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto und bewegen Sie sich weiter.",
+                "hu": "Készítsen egy gyors fotót, és tekerjen tovább.",
+                "ro": "Faceți o fotografie rapidă și continuați drumul.",
+                "en": "Take a quick photo and keep moving to stay warm."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit sicherer Abstellmöglichkeit.",
+                "hu": "Keressen egy éttermet, ahol biztonságban lezárhatja a gépet.",
+                "ro": "Căutați un restaurant cu un loc sigur de lăsat bicicleta.",
+                "en": "Find a restaurant where you can keep an eye on your bike."
+              }
+            },
+            {
+              "name": "Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Inneren hilft gegen das Frösteln.",
+                "hu": "Egy rövid benti pihenő segít a didergés ellen.",
+                "ro": "O oprire scurtă în interior ajută împotriva frigului.",
+                "en": "A short stop inside will help thaw out your fingers."
+              }
+            },
+            {
+              "name": "Taras Shevchenko Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen in Flussnähe.",
+                "hu": "Vigyázzon a jeges foltokra a folyópart közelében.",
+                "ro": "Atenție la porțiunile cu gheață din apropierea râului.",
+                "en": "Be extremely careful of icy patches near the water's edge."
+              }
+            },
+            {
+              "name": "Boat Station",
+              "tip_5lang": {
+                "de": "Das weiße Dekor glänzt im Winterschnee.",
+                "hu": "A fehér díszítések ragyognak a téli hóban.",
+                "ro": "Decorul alb strălucește în zăpada de iarnă.",
+                "en": "The white architectural details gleam in the winter snow."
+              }
+            },
+            {
+              "name": "Saksahan River",
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour, bevor es dunkel wird (ca. 16:00).",
+                "hu": "Fejezze be a túrát sötétedés előtt (kb. 16:00).",
+                "ro": "Încheiați tura înainte de lăsarea întunericului (aprox. 16:00).",
+                "en": "Aim to finish your ride before dark (around 4:00 PM)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders für die langen Geraden.",
+              "Die Fahrradwege können ungeräumt sein; breite Reifen sind von Vorteil.",
+              "Akkus von E-Bikes entladen sich bei Kälte deutlich schneller.",
+              "Verwenden Sie helles Licht, da die Sicht im Winter oft eingeschränkt ist."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot, különösen a hosszú egyenes szakaszokon.",
+              "A kerékpárutak havasak lehetnek, a szélesebb gumi előny.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül a hidegben.",
+              "Használjon erős lámpákat, mert télen gyakori a szürkület."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, în special pentru porțiunile lungi.",
+              "Pistele pot fi necurățate, anvelopele late sunt un avantaj.",
+              "Bateriile bicicletelor electrice se descarcă mult mai repede la ger.",
+              "Folosiți lumini puternice, vizibilitatea este redusă iarna."
+            ],
+            "en": [
+              "Wear windproof outer layers, especially for the long, open avenues.",
+              "Cycle paths may not be cleared; wider tires with lower pressure help.",
+              "E-bike batteries drain significantly faster in freezing temperatures.",
+              "Use high-visibility lights as winter afternoons are often foggy or dim."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1182,6 +1600,224 @@
           "Check parking options and fees in advance.",
           "The car gives you the flexibility to easily reach more distant attractions like the Botanical Garden."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Krywyj Rih komfortabel trotz des Regens. Der Botanische Garten ist der erste Stopp, gefolgt vom Bergbaumuseum, das indoor viel zu bieten hat. Mittags parken wir bequem im Zentrum für ein ausgiebiges Essen. Den Tag lassen wir an der Saksahan-Uferpromenade ausklingen, wobei das Auto uns trocken von Cluster zu Cluster bringt.",
+            "hu": "Autóval kényelmesen fedezhetjük fel Krivij Rih nevezetességeit az esőben is. A Botanikus kert az első állomás, majd a Bányászati Múzeum következik, ahol bőséges látnivaló vár bent. Délben a központban parkolunk egy kiadós ebédhez. A napot a Sakszahan partján zárjuk, miközben az autó szárazon juttat el minket egyik helyszínről a másikra.",
+            "ro": "Cu mașina explorăm confortabil Krivoi Rog în ciuda ploii. Grădina Botanică este prima oprire, urmată de Muzeul Mineritului. La prânz parcăm în centru pentru o masă consistentă. Încheiem ziua pe faleza râului Saksahan, mașina asigurându-ne transportul uscat între diferitele obiective.",
+            "en": "Exploring Kryvyi Rih by car is the most comfortable option on a rainy day. We start at the Botanical Garden and move to the Mining Museum, both offering great indoor experiences. We park in the city center for a long lunch, staying dry between clusters. The day ends at the Saksahan Riverbank, with the car shielding us from the drizzle."
+          },
+          "stops": [
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nah am Eingang.",
+                "hu": "Használja a bejárathoz közeli parkolót.",
+                "ro": "Folosiți parcarea de lângă intrare.",
+                "en": "Use the parking lot closest to the main entrance."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Ideal, um das Auto während der Besichtigung sicher abzustellen.",
+                "hu": "Ideális hely az autó biztonságos leállításához a látogatás alatt.",
+                "ro": "Loc ideal pentru a lăsa mașina în siguranță în timpul vizitei.",
+                "en": "A safe spot to leave your car while exploring the indoor exhibits."
+              }
+            },
+            {
+              "name": "Cluster 1: City Center (Arrival)",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz ermöglicht kurze Wege zu Fuß.",
+                "hu": "A központi parkolóból minden rövid sétával elérhető.",
+                "ro": "Parcarea centrală permite accesul rapid pe jos.",
+                "en": "Central parking allows for short walking distances to attractions."
+              }
+            },
+            {
+              "name": "Flower Clock",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für Fotos, dann schnell zurück ins Trockene.",
+                "hu": "Gyors fotó, majd irány vissza a száraz autóba.",
+                "ro": "Coborâre scurtă pentru poze, apoi rapid înapoi la uscat.",
+                "en": "Quick hop out for photos, then back to the dry comfort of the car."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Viele Restaurants bieten bewachte Parkplätze in der Nähe.",
+                "hu": "Sok étterem közelében van őrzött parkoló.",
+                "ro": "Multe restaurante au parcări păzite în apropiere.",
+                "en": "Many restaurants have guarded parking lots nearby."
+              }
+            },
+            {
+              "name": "Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Parken ist meist direkt vor dem Gelände möglich.",
+                "hu": "A parkolás általában közvetlenül a bejáratnál megoldható.",
+                "ro": "Parcarea este de obicei posibilă chiar în fața incintei.",
+                "en": "Parking is usually available right in front of the grounds."
+              }
+            },
+            {
+              "name": "Cluster 2: Riverbank (Arrival)",
+              "tip_5lang": {
+                "de": "Guter Punkt, um das Auto für den Spaziergang abzustellen.",
+                "hu": "Jó hely az autó leállításához a vízparti sétához.",
+                "ro": "Punct bun pentru a lăsa mașina înainte de plimbarea pe mal.",
+                "en": "Good spot to leave the car for your riverside stroll."
+              }
+            },
+            {
+              "name": "Boat Station on the Saksahan River",
+              "tip_5lang": {
+                "de": "Beobachten Sie den Regen auf dem Fluss vom Ufer aus.",
+                "hu": "Figyelje a folyóra hulló esőt a partról.",
+                "ro": "Priviți ploaia pe râu direct de pe mal.",
+                "en": "Watch the rain fall on the river from the shelter of the bank."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf große Pfützen, die Aquaplaning verursachen können.",
+              "Die Blumenuhr bietet bei starkem Regen Schutz in ihrem Inneren.",
+              "Nutzen Sie bewachte Parkplätze in der Nähe des Zentrums.",
+              "Halten Sie die Scheiben beschlagfrei für bessere Sicht im Regen."
+            ],
+            "hu": [
+              "Vigyázzon a mély tócsákra az aquaplaning veszélye miatt.",
+              "A Virágóra belseje menedéket ad, ha hirtelen elered az eső.",
+              "Használja az őrzött parkolókat a belváros környékén.",
+              "Tartsa páramentesen a szélvédőt a jobb kilátás érdekében."
+            ],
+            "ro": [
+              "Atenție la bălțile mari care pot cauza acvaplanare.",
+              "Interiorul Ceasului cu Flori oferă adăpost în caz de ploaie torențială.",
+              "Folosiți parcările păzite din apropierea centrului.",
+              "Mențineți parbrizul dezaburit pentru o vizibilitate mai bună."
+            ],
+            "en": [
+              "Be wary of large puddles; industrial roads can have poor drainage.",
+              "The Flower Clock gallery is a perfect hideout during a sudden downpour.",
+              "Guarded parking lots in the center are affordable and recommended.",
+              "Keep your wipers in good condition; heavy rain can hit suddenly here."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Krywyj Rih im Winter lässt sich am besten mit dem Auto erkunden. Wir starten im warmen Botanischen Garten und fahren weiter zum Bergbaumuseum. Die weiten Distanzen der Stadt sind bei Frost kein Problem. Mittags genießen wir die Wärme im Stadtzentrum. Da es früh dunkel wird, nutzen wir das Auto, um die beleuchteten Sehenswürdigkeiten wie die Kathedrale und die Bootsstation sicher zu erreichen.",
+            "hu": "A téli Krivij Rih felfedezésére az autó a legjobb választás. A fűtött Botanikus kertben kezdünk, majd a Bányászati Múzeum felé vesszük az irányt. A város hatalmas távolságai fagyban sem jelentenek gondot. Délben a belváros melegében ebédelünk. Mivel korán sötétedik, autóval kényelmesen és biztonságosan nézhetjük meg a kivilágított Székesegyházat és a hajóállomást.",
+            "ro": "Iarna în Krivoi Rog se explorează cel mai bine cu mașina. Începem în Grădina Botanică încălzită și continuăm spre Muzeul Mineritului. Distanțele mari ale orașului nu sunt o problemă pe ger. La prânz ne bucurăm de căldura din centru. Fiindcă se întunecă devreme, folosim mașina pentru a ajunge în siguranță la Catedrală și la debarcader.",
+            "en": "Kryvyi Rih in winter is best explored by car due to the city's vast layout. We start at the heated Botanical Garden and drive to the Mining Museum. The long distances are easily covered despite the frost. After a warm lunch in the center, we use the car to safely visit the illuminated Cathedral and Boat Station as the sun sets early."
+          },
+          "stops": [
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Lassen Sie keine Wertsachen im kalten Auto sichtbar liegen.",
+                "hu": "Ne hagyjon értéktárgyat látható helyen a hideg autóban.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașina rece.",
+                "en": "Don't leave valuables visible in the car while you're inside."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird oft geräumt, aber Vorsicht vor Eis.",
+                "hu": "A parkolót gyakran takarítják, de vigyázzon a jégre.",
+                "ro": "Parcarea este adesea curățată, dar atenție la gheață.",
+                "en": "The parking lot is usually cleared, but watch for icy spots."
+              }
+            },
+            {
+              "name": "Cluster 1: City Center (Arrival)",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser, um das Auto eisfrei zu halten.",
+                "hu": "Használjon fedett parkolót, ha nem akar jeget kaparni.",
+                "ro": "Folosiți parcări acoperite pentru a evita înghețarea mașinii.",
+                "en": "Use indoor parking if available to keep the car ice-free."
+              }
+            },
+            {
+              "name": "Flower Clock",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Nachtaufnahmen der Beleuchtung.",
+                "hu": "Rövid megálló a kivilágított óra fotózásához.",
+                "ro": "Oprire scurtă pentru poze cu iluminatul nocturn.",
+                "en": "A quick stop for nighttime photos of the illumination."
+              }
+            },
+            {
+              "name": "Lunch in the center",
+              "tip_5lang": {
+                "de": "Genießen Sie den Komfort eines warmen Restaurants.",
+                "hu": "Élvezze egy fűtött étterem kényelmét.",
+                "ro": "Bucurați-vă de confortul unui restaurant cald.",
+                "en": "Enjoy the cozy comfort of a well-heated restaurant."
+              }
+            },
+            {
+              "name": "Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Die Beleuchtung der Kuppeln ist im Winter besonders schön.",
+                "hu": "A kupolák kivilágítása télen különösen látványos.",
+                "ro": "Iluminatul cupolelor este deosebit de frumos iarna.",
+                "en": "The illumination of the domes is stunning against the snow."
+              }
+            },
+            {
+              "name": "Cluster 2: Riverbank (Arrival)",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Batterie bei Kälte fit ist.",
+                "hu": "Győződjön meg róla, hogy az akkumulátor bírja a hideget.",
+                "ro": "Asigurați-vă că bateria mașinii rezistă la ger.",
+                "en": "Ensure your car battery is in good shape for the cold start."
+              }
+            },
+            {
+              "name": "Boat Station on the Saksahan River",
+              "tip_5lang": {
+                "de": "Ein frostiger Blick auf den Fluss vor der Rückfahrt.",
+                "hu": "Jeges kilátás a folyóra a hazaindulás előtt.",
+                "ro": "O priveliște înghețată asupra râului înainte de plecare.",
+                "en": "A final frosty view of the river before heading back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser Region von November bis März Pflicht.",
+              "Führen Sie einen Eiskratzer und ein Enteisungsspray mit.",
+              "Die Hauptverkehrsstraßen sind meist geräumt, Nebenstraßen oft eisig.",
+              "Prüfen Sie den Frostschutz der Scheibenwaschanlage regelmäßig."
+            ],
+            "hu": [
+              "A téli gumi kötelező ebben a régióban novembertől márciusig.",
+              "Legyen Önnél jégkaparó és jégoldó spray.",
+              "A főutakat takarítják, de a mellékutcák jegesek maradhatnak.",
+              "Rendszeresen ellenőrizze a szélvédőmosó fagyállóságát."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii din noiembrie până în martie.",
+              "Aveți întotdeauna la îndemână o racletă și spray de dezghețare.",
+              "Drumurile principale sunt curățate, dar străzile secundare pot fi înghețate.",
+              "Verificați regulat nivelul lichidului de parbriz rezistent la îngheț."
+            ],
+            "en": [
+              "Winter tires are mandatory here from November through March.",
+              "Always carry an ice scraper and de-icing spray in your trunk.",
+              "Main boulevards are cleared quickly, but side streets can stay icy.",
+              "Check your anti-freeze levels regularly; temperatures can drop fast."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1558,6 +2194,206 @@
           "Marshrutkas (minibuses) are a fast but often crowded alternative to buses.",
           "Download a local public transport app to check routes and schedules."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem berühmten Metrotram von Krywyj Rih erreichen wir unsere Ziele trocken. Vom Zentrum geht es zum Schewtschenko-Park und zur Kathedrale. Die überdachten Haltestellen bieten Schutz beim Warten. Mittags stärken wir uns im Kulturviertel, bevor wir mit der Straßenbahn weiter zum Bergbaumuseum im Norden fahren, wo die Industriegeschichte im Trockenen auf uns wartet.",
+            "hu": "Krivij Rih híres Metrotram-jával esőben is szárazon érjük el a célpontokat. A központból a Sevcsenko parkhoz és a Székesegyházhoz utazunk. A fedett megállók védenek várakozás közben. Ebéd után a kulturális negyedből villamossal indulunk északra a Bányászati Múzeumhoz, ahol fedett helyen ismerhetjük meg az ipari múltat.",
+            "ro": "Cu faimosul Metrotram din Krivoi Rog ajungem la destinații fără să ne udăm. Din centru mergem spre Parcul Șevcenko și Catedrală. Stațiile acoperite oferă protecție în timpul așteptării. După prânz, plecăm din cartierul cultural spre nord, la Muzeul Mineritului, unde istoria industrială ne așteaptă la adăpost.",
+            "en": "Using Kryvyi Rih's famous Metrotram keeps us dry while traveling between districts. We move from the center to Shevchenko Park and the Cathedral. Covered stations provide shelter during short waits. After lunch in the cultural quarter, we take the tram north to the Mining Museum, where industrial history is explored indoors."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Central District (Arrival)",
+              "tip_5lang": {
+                "de": "Die Metrotram-Stationen sind tief und absolut trocken.",
+                "hu": "A Metrotram állomások mélyen vannak és teljesen szárazak.",
+                "ro": "Stațiile de Metrotram sunt adânci și perfect uscate.",
+                "en": "Metrotram stations are deep underground and perfectly dry."
+              }
+            },
+            {
+              "name": "Taras Shevchenko Park",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle; Schirm bereit halten.",
+                "hu": "Rövid séta a megállótól, tartsa készenlétben az ernyőt.",
+                "ro": "Drum scurt pe jos de la stație; țineți umbrela la îndemână.",
+                "en": "Short walk from the stop; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Die Straßenbahn hält fast direkt vor dem Eingang.",
+                "hu": "A villamos szinte közvetlenül a bejárat előtt áll meg.",
+                "ro": "Tramvaiul oprește aproape direct în fața intrării.",
+                "en": "The tram stop is conveniently located near the entrance."
+              }
+            },
+            {
+              "name": "Cluster 2: Cultural Quarter (Arrival)",
+              "tip_5lang": {
+                "de": "Viele Busverbindungen treffen sich hier im Zentrum.",
+                "hu": "Számos buszjárat találkozik itt a központban.",
+                "ro": "Multe linii de autobuz converg aici în centru.",
+                "en": "Many bus and trolleybus lines converge in this central hub."
+              }
+            },
+            {
+              "name": "Flower Clock & Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in der Passage unter der Uhr.",
+                "hu": "Keressen menedéket az óra alatti átjáróban.",
+                "ro": "Căutați adăpost în pasajul de sub ceas.",
+                "en": "The passage under the clock provides good temporary shelter."
+              }
+            },
+            {
+              "name": "Cluster 3: Mining Heritage (Arrival)",
+              "tip_5lang": {
+                "de": "Die Fahrt nach Norden bietet Ausblicke auf Tagebaue.",
+                "hu": "Az északi út során rálátni a külszíni fejtésekre.",
+                "ro": "Călătoria spre nord oferă vederi spre minele de suprafață.",
+                "en": "The ride north offers glimpses of the vast open-cast mines."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Ein Muss für Regentage; drinnen gibt es viel zu sehen.",
+                "hu": "Esőben kötelező; bent rengeteg a látnivaló.",
+                "ro": "Obligatoriu pe ploaie; în interior sunt multe de văzut.",
+                "en": "A rainy day essential; the indoor exhibits are extensive."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Metrotram ist das zuverlässigste Mittel bei schlechtem Wetter.",
+              "Halten Sie Kleingeld oder eine Karte für den Fahrpreis bereit.",
+              "Die Stationen im Zentrum bieten Schutz vor starkem Regen.",
+              "Prüfen Sie die Fahrpläne der Überland-Straßenbahnen nach Norden."
+            ],
+            "hu": [
+              "A Metrotram a legmegbízhatóbb közlekedési eszköz rossz időben.",
+              "Készítsen elő aprópénzt vagy kártyát a jegyvásárláshoz.",
+              "A belvárosi állomások kiváló védelmet nyújtanak az eső ellen.",
+              "Ellenőrizze az északra tartó hosszú villamosvonalak menetrendjét."
+            ],
+            "ro": [
+              "Metrotram-ul este cel mai sigur mijloc de transport pe vreme rea.",
+              "Aveți pregătiți bani mărunți sau un card pentru bilet.",
+              "Stațiile din centru oferă protecție împotriva ploii torențiale.",
+              "Verificați orarul tramvaielor care merg spre nordul orașului."
+            ],
+            "en": [
+              "The Metrotram is your best friend when it rains; it's fast and dry.",
+              "Have small change or a contactless card ready for the conductor.",
+              "Underground Metrotram stations act as great bunkers during storms.",
+              "Check the long-distance tram schedules if heading to the northern mines."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Krywyj Rih wird mit dem warmen Metrotram zum Abenteuer. Wir besuchen den Schewtschenko-Park und die Kathedrale, wobei die kurzen Wege zwischen Haltestelle und Ziel helfen. Mittags wärmen wir uns im belebten Kulturviertel auf. Die Fahrt nach Norden zum Bergbaumuseum zeigt die schneebedeckten Fördergerüste, ein beeindruckendes Bild der ukrainischen Schwerindustrie im Winter.",
+            "hu": "A tél Krivij Rihben a fűtött Metrotram-mal válik kalanddá. Ellátogatunk a Sevcsenko parkhoz és a Székesegyházhoz, a rövid gyalogutak segítenek elkerülni a fagyoskodást. Délben a pezsgő kulturális negyedben melegszünk fel. Az út északra a Bányászati Múzeumhoz feltárja a havas bányatornyokat, ami az ukrán nehézipar lenyűgöző téli képe.",
+            "ro": "Iarna în Krivoi Rog devine o aventură cu Metrotram-ul încălzit. Vizităm Parcul Șevcenko și Catedrala, profitând de distanțele scurte de la stații. La prânz ne încălzim în cartierul cultural plin de viață. Drumul spre nord către Muzeul Mineritului dezvăluie turnurile miniere înzăpezite, o imagine impresionantă a industriei grele.",
+            "en": "Winter in Kryvyi Rih is an adventure best experienced via the heated Metrotram. We visit Shevchenko Park and the Cathedral, keeping outdoor walking to a minimum. After warming up in the cultural quarter at lunch, the trip north reveals the snow-draped mining derricks – a powerful winter image of Ukraine's industrial heart."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Central District (Arrival)",
+              "tip_5lang": {
+                "de": "Die unterirdischen Stationen sind angenehm temperiert.",
+                "hu": "A föld alatti állomások hőmérséklete kellemes.",
+                "ro": "Stațiile subterane au o temperatură plăcută.",
+                "en": "Underground stations offer a nice break from the freezing air."
+              }
+            },
+            {
+              "name": "Taras Shevchenko Park",
+              "tip_5lang": {
+                "de": "Vom Metrotram ist es nur ein kurzer, frostiger Spaziergang.",
+                "hu": "A Metrotramtól csak egy rövid, fagyos séta.",
+                "ro": "De la Metrotram este doar o scurtă plimbare geroasă.",
+                "en": "It's just a short, brisk walk from the Metrotram exit."
+              }
+            },
+            {
+              "name": "Transfiguration Cathedral",
+              "tip_5lang": {
+                "de": "Die Straßenbahnen sind im Winter gut beheizt.",
+                "hu": "A villamosokat télen jól fűtik.",
+                "ro": "Tramvaiele sunt bine încălzite în timpul iernii.",
+                "en": "Trams are generally well-heated during the winter months."
+              }
+            },
+            {
+              "name": "Cluster 2: Cultural Quarter (Arrival)",
+              "tip_5lang": {
+                "de": "Zentraler Umsteigepunkt mit vielen Cafés zum Aufwärmen.",
+                "hu": "Központi csomópont, sok kávézóval a melegedéshez.",
+                "ro": "Punct central de transfer cu multe cafenele pentru încălzire.",
+                "en": "Central transfer hub with plenty of cafes for a quick warm-up."
+              }
+            },
+            {
+              "name": "Flower Clock & Lunch",
+              "tip_5lang": {
+                "de": "Die Beleuchtung der Uhr ist im Winter ab 16:30 Uhr an.",
+                "hu": "Az óra kivilágítása télen már 16:30-kor látható.",
+                "ro": "Iluminatul ceasului este pornit de la 16:30 iarna.",
+                "en": "The clock's lights come on as early as 4:30 PM in winter."
+              }
+            },
+            {
+              "name": "Cluster 3: Mining Heritage (Arrival)",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an für den Weg zur Haltestelle.",
+                "hu": "Öltözzön melegen a megállóhoz vezető útra.",
+                "ro": "Îmbrăcați-vă gros pentru drumul spre stație.",
+                "en": "Dress warmly for the walk from the tram stop to the museum."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Drinnen können Sie Jacken an der Garderobe abgeben.",
+                "hu": "Bent a ruhatárban leadhatja a nehéz kabátokat.",
+                "ro": "În interior puteți lăsa hainele la garderobă.",
+                "en": "You can leave your heavy coats at the cloakroom inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Metrotram-Fahrzeuge sind meist warm, aber die Wartedauer variiert.",
+              "Vermeiden Sie späte Fahrten in abgelegene Vororte.",
+              "Nutzen Sie die tiefen Stationen als Windschutz.",
+              "Handschuhe sind beim Festhalten an kalten Metallstangen wichtig."
+            ],
+            "hu": [
+              "A Metrotram kocsik többnyire melegek, de a várakozási idő változó.",
+              "Kerülje a késő esti utazásokat a távoli külvárosokba.",
+              "Használja a mély állomásokat szélvédelemre.",
+              "A kesztyű fontos a hideg fém kapaszkodók miatt."
+            ],
+            "ro": [
+              "Vagoanele de Metrotram sunt de obicei calde, dar timpul de așteptare variază.",
+              "Evitați călătoriile târzii spre suburbiile îndepărtate.",
+              "Folosiți stațiile adânci ca protecție împotriva vântului.",
+              "Mănușile sunt importante când vă țineți de barele metalice reci."
+            ],
+            "en": [
+              "Metrotram cars are usually cozy, but waiting times can vary.",
+              "Try to avoid late-night transit to the far northern industrial suburbs.",
+              "Deep underground stations are excellent windbreaks while you wait.",
+              "Wear gloves; metal handrails in trams can be freezing to the touch."
+            ]
+          }
+        }
       }
     }
   }

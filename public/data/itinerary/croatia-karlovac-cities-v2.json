@@ -386,6 +386,206 @@
           "Check the opening hours of the museums in advance.",
           "Much of the old town is pedestrian-friendly, making it a pleasant walk."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im Schutz der Arkaden der historischen Karlovac-Sterne. Der Regen trommelt auf das Kopfsteinpflaster, während Sie Klöster besuchen.\nMittags bietet das Museum des Heimatkrieges in Turanj trockene Ausstellungsräume, um die Geschichte zu erkunden.\nNachmittags tauchen Sie im Aquatika in die Unterwelt der Flüsse ein, ein perfekter Zufluchtsort vor dem nassen Wetter.\nDer Tag endet auf der Burg Dubovac mit mystischem Blick auf die nebligen Flüsse.",
+            "hu": "A reggel a Csillag árkádjai alatt indul, ahol a kolostor falaiban találunk menedéket a szemerkélő eső elől.\nDélben a délszláv háború múzeumának belső kiállításaiban merülhetünk el, távol a nedves utcáktól.\nDélután az Aquatika édesvízi akváriuma nyújt tökéletes, fedett programot a folyók élővilágával.\nAz estét a Dubovac-várban zárjuk, ahonnan a ködbe burkolózó folyók látványa különleges hangulatot áraszt.",
+            "ro": "Dimineața începe sub arcadele Stelei din Karlovac, unde mănăstirile oferă adăpost împotriva ploii constante.\nLa prânz, Muzeul Războiului de Independență oferă spații interioare fascinante pentru a învăța despre istoria locală.\nDupă-amiaza este dedicată acvariului Aquatika, un loc perfect acoperit pentru a descoperi fauna râurilor.\nSeara se încheie la Castelul Dubovac, unde priveliștea peste râurile învăluite în ceață este dramatică.",
+            "en": "Start your morning under the historic arcades of the Karlovac Star, seeking shelter in the monastery halls.\nBy midday, the Homeland War Museum provides a profound indoor exploration of the city's resilient history.\nSpend the afternoon at Aquatika, a perfect indoor escape to discover the local river life.\nConclude your day at Dubovac Castle, where the rainy mist over the four rivers creates a mysterious atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Karlovac Star (Old Town)",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Arkaden für trockene Spaziergänge.",
+                "hu": "Használja az árkádokat a száraz sétához.",
+                "ro": "Folosiți arcadele pentru plimbări uscate.",
+                "en": "Use the arcades for dry walks."
+              }
+            },
+            {
+              "name": "Franciscan Monastery and Museum",
+              "tip_4lang": {
+                "de": "Idealer Ort, um den stärksten Regen abzuwarten.",
+                "hu": "Ideális hely a legerősebb eső kivárására.",
+                "ro": "Loc ideal pentru a aștepta trecerea ploii torențiale.",
+                "en": "Ideal place to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "Church of St. Nicholas",
+              "tip_4lang": {
+                "de": "Bewundern Sie die Ikonostase im trockenen Innenraum.",
+                "hu": "Csodálja meg az ikonosztázt a száraz belső térben.",
+                "ro": "Admirați iconostasul în interiorul uscat.",
+                "en": "Admire the iconostasis in the dry interior."
+              }
+            },
+            {
+              "name": "Museum of the Homeland War",
+              "tip_4lang": {
+                "de": "Die Innenkabinen der Fahrzeuge bieten Schutz.",
+                "hu": "A járművek belső kabinjai védelmet nyújtanak.",
+                "ro": "Cabinele interioare ale vehiculelor oferă adăpost.",
+                "en": "Inner cabins of vehicles provide shelter."
+              }
+            },
+            {
+              "name": "Aquatika - Freshwater Aquarium",
+              "tip_4lang": {
+                "de": "Komplett überdacht, perfekt für Regentage.",
+                "hu": "Teljesen fedett, tökéletes esős napokra.",
+                "ro": "Complet acoperit, perfect pentru zilele ploioase.",
+                "en": "Completely covered, perfect for rainy days."
+              }
+            },
+            {
+              "name": "Foginovo Beach",
+              "tip_4lang": {
+                "de": "Die Pavillons am Ufer bieten Schutz vor Regen.",
+                "hu": "A parti pavilonok védelmet nyújtanak az eső ellen.",
+                "ro": "Pavilioanele de pe mal oferă adăpost împotriva ploii.",
+                "en": "Riverside pavilions provide shelter from the rain."
+              }
+            },
+            {
+              "name": "Dubovac Castle",
+              "tip_4lang": {
+                "de": "Das Restaurant im Turm ist ein gemütlicher Rückzugsort.",
+                "hu": "A toronyban lévő étterem hangulatos menedék.",
+                "ro": "Restaurantul din turn este un refugiu primitor.",
+                "en": "The restaurant in the tower is a cozy retreat."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster Pfützen bildet.",
+              "Ein Poncho ist bei Wind besser als ein Regenschirm.",
+              "Besuchen Sie die Museen während der stärksten Regenschauer.",
+              "Die Wege entlang der Korana können bei Nässe rutschig sein."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskakövön tócsák alakulnak ki.",
+              "A poncho praktikusabb az esernyőnél a szeles folyóparton.",
+              "A leghevesebb esőzés idejére időzítse a múzeumlátogatást.",
+              "A Korana menti sétányok nedvesen csúszóssá válhatnak."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pe pavaj se formează bălți.",
+              "O pelerină este mai utilă decât o umbrelă pe malul vântos.",
+              "Planificați vizitarea muzeelor în timpul ploilor torențiale.",
+              "Potecile de-a lungul râului Korana pot deveni alunecoase."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones develop puddles.",
+              "A poncho is more practical than an umbrella on the windy riverbanks.",
+              "Schedule museum visits during the heaviest downpours.",
+              "Paths along the Korana can become slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen in der sternförmigen Altstadt, wo die Luft klar und kalt ist.\nMittags wärmen Sie sich in den modernen Ausstellungsräumen der Museen auf und erfahren mehr über die Geschichte.\nAm Nachmittag bietet das Aquatika eine behagliche Umgebung, bevor die Sonne früh untergeht.\nDer Abend auf der Burg Dubovac wird durch die Beleuchtung der Stadt und die winterliche Stille gekrönt.",
+            "hu": "A téli reggel friss levegője járja át a csillag alakú óvárost, ahol a barokk épületek fagyosak.\nDélben a múzeumok fűtött termeiben melegedhetünk fel, mélyebb betekintést nyerve a történelembe.\nDélután az Aquatika üvegfalai mögött csodálhatjuk meg a halakat a korai naplemente előtt.\nAz estét a Dubovac-vár dombján zárjuk, ahol a kivilágított város látványa melenget a hidegben.",
+            "ro": "O dimineață de iarnă crocantă în centrul vechi, unde aerul rece scoate în evidență arhitectura.\nLa prânz, interiorul încălzit al muzeelor oferă un refugiu binevenit și o lecție de istorie.\nDupă-amiaza, Aquatika oferă un mediu primitor înainte de apusul timpuriu al soarelui.\nSeara la Castelul Dubovac este marcată de liniștea iernii și de luminile orașului reflectate în ape.",
+            "en": "A crisp winter morning in the star-shaped old town, where the cold air is fresh and sharp.\nAt midday, warm up inside the modern museum exhibits, reflecting on the city's storied past.\nAfternoon brings a cozy visit to Aquatika, showcasing river life just before the early sunset.\nFinish the evening at Dubovac Castle, enjoying the panoramic view of the illuminated city in the silence."
+          },
+          "stops": [
+            {
+              "name": "Karlovac Star (Old Town)",
+              "tip_4lang": {
+                "de": "Vorsicht bei Frost auf dem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a fagyos macskaköveken.",
+                "ro": "Atenție la pavajul înghețat.",
+                "en": "Be careful on the frozen cobblestones."
+              }
+            },
+            {
+              "name": "Franciscan Monastery and Museum",
+              "tip_4lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen.",
+                "hu": "A vastag falak kint tartják a hideget.",
+                "ro": "Zidurile groase țin frigul la distanță.",
+                "en": "The thick walls keep the cold at bay."
+              }
+            },
+            {
+              "name": "Church of St. Nicholas",
+              "tip_4lang": {
+                "de": "Ein ruhiger, warmer Ort für eine kurze Rast.",
+                "hu": "Csendes, meleg hely egy rövid pihenőre.",
+                "ro": "Un loc liniștit și cald pentru o scurtă pauză.",
+                "en": "A quiet, warm place for a short rest."
+              }
+            },
+            {
+              "name": "Museum of the Homeland War",
+              "tip_4lang": {
+                "de": "Besuchen Sie zuerst die Außenausstellung bei Tageslicht.",
+                "hu": "A kültéri kiállítást még nappali fénynél nézze meg.",
+                "ro": "Vizitați expoziția în aer liber cât încă este lumină.",
+                "en": "Visit the outdoor exhibition while there is still daylight."
+              }
+            },
+            {
+              "name": "Aquatika - Freshwater Aquarium",
+              "tip_4lang": {
+                "de": "Hinter Glas ist es angenehm warm.",
+                "hu": "Az üvegfalak mögött kellemesen meleg az idő.",
+                "ro": "Este plăcut de cald în spatele geamurilor.",
+                "en": "It is pleasantly warm behind the glass walls."
+              }
+            },
+            {
+              "name": "Foginovo Beach",
+              "tip_4lang": {
+                "de": "Genießen Sie die klare Winterluft am Flussufer.",
+                "hu": "Élvezze a friss téli leveőt a folyóparton.",
+                "ro": "Bucurați-vă de aerul curat de iarnă pe malul râului.",
+                "en": "Enjoy the fresh winter air on the riverbank."
+              }
+            },
+            {
+              "name": "Dubovac Castle",
+              "tip_4lang": {
+                "de": "Der Aufstieg zum Turm wärmt bei kalten Temperaturen.",
+                "hu": "A toronyba való feljutás megmozgat a hidegben.",
+                "ro": "Urcarea în turn vă va încălzi în zilele reci.",
+                "en": "Climbing the tower will warm you up on cold days."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Schichten, der Wind vom Fluss ist beißend.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Kombinieren Sie Außenbesichtigungen mit langen Aufenthalten in Museen.",
+              "Halten Sie Ausschau nach Glatteis auf den Brücken."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, a folyó felőli szél metszően hideg.",
+              "A nap télen már 16:30 körül lenyugszik.",
+              "A kültéri látnivalókat kombinálja hosszú múzeumi tartózkodással.",
+              "Ügyeljen a jegesedésre a hidakon és a sétányokon."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, vântul de pe râu este tăios.",
+              "Soarele apune deja în jurul orei 16:30 iarna.",
+              "Combinați vizitele în aer liber cu opriri lungi în muzee.",
+              "Fiți atenți la gheața de pe poduri și trotuare."
+            ],
+            "en": [
+              "Dress in layers; the wind from the rivers is biting.",
+              "The sun sets as early as 16:30 during winter.",
+              "Combine outdoor sightseeing with long museum stays.",
+              "Watch out for black ice on the bridges and paths."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +942,188 @@
           "Be mindful of pedestrians on the shared paths along the rivers.",
           "Some streets in the old town are cobblestoned, so ride with care."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Radtour durch Karlovac reizvolle Einblicke in die Stadt der vier Flüsse.\nAm Vormittag erkunden Sie die Burg Dubovac, bevor Sie durch die nassen Parks zum Aquatika radeln.\nMittags bietet das Heimatkriegsmuseum in Turanj einen interessanten Zwischenstopp im Trockenen.\nDer Tag endet mit einer Fahrt durch die Altstadt, wo die nassen Steine die Lichter spiegeln.",
+            "hu": "Az eső ellenére a kerékpártúra Karlovacban izgalmas betekintést nyújt a négy folyó városába.\nDélelőtt a Dubovac-várat fedezzük fel, majd a nedves parkokon át az Aquatikához tekerünk.\nDélben a délszláv háború múzeuma nyújt száraz és tanulságos pihenőt.\nA napot az óvárosi tekeréssel zárjuk, ahol a vizes kövek tükrözik a város fényeit.",
+            "ro": "În ciuda ploii, turul cu bicicleta prin Karlovac oferă perspective inedite asupra orașului celor patru râuri.\nDimineața explorați Castelul Dubovac înainte de a pedala prin parcurile umede spre Aquatika.\nLa prânz, Muzeul Războiului de Independență oferă o oprire interesantă și uscată.\nZiua se încheie cu o plimbare prin centrul vechi, unde pavajul umed reflectă luminile.",
+            "en": "Despite the rain, cycling through Karlovac offers unique views of the city of four rivers.\nIn the morning, explore Dubovac Castle before riding through lush, wet parks toward Aquatika.\nAt midday, the Homeland War Museum in Turanj provides an educational and dry stopover.\nThe day ends with a ride through the Old Town, where the wet stones mirror the city lights."
+          },
+          "stops": [
+            {
+              "name": "Dubovac Castle",
+              "tip_4lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Torbogen ab.",
+                "hu": "A kapualj alatt biztonságban lelakatolhatja a biciklit.",
+                "ro": "Lăsați bicicleta sub arcada porții.",
+                "en": "Park your bike under the gateway arch."
+              }
+            },
+            {
+              "name": "Aquatika - Freshwater Aquarium",
+              "tip_4lang": {
+                "de": "Nutzen Sie die überdachten Fahrradständer am Eingang.",
+                "hu": "Használja a fedett kerékpártárolókat a bejáratnál.",
+                "ro": "Folosiți rastelele acoperite de la intrare.",
+                "en": "Use the covered bike racks at the entrance."
+              }
+            },
+            {
+              "name": "Museum of the Homeland War",
+              "tip_4lang": {
+                "de": "Vorsicht auf dem unbefestigten Gelände bei Regen.",
+                "hu": "Vigyázzon a laza talajon esőzés idején.",
+                "ro": "Atenție pe terenul neasfaltat în timpul ploii.",
+                "en": "Be careful on the unpaved ground during rain."
+              }
+            },
+            {
+              "name": "Karlovac Star (Old Town)",
+              "tip_4lang": {
+                "de": "Reduzieren Sie die Geschwindigkeit auf nassem Kopfsteinpflaster.",
+                "hu": "Lassítson a vizes macskaköves utakon.",
+                "ro": "Reduceți viteza pe pavajul umed.",
+                "en": "Reduce speed on wet cobblestones."
+              }
+            },
+            {
+              "name": "Vrbanić Garden",
+              "tip_4lang": {
+                "de": "Die Bäume bieten teilweisen Schutz vor leichtem Regen.",
+                "hu": "A fák részleges védelmet nyújtanak az enyhe esőben.",
+                "ro": "Copacii oferă adăpost parțial în caz de ploaie ușoară.",
+                "en": "Trees provide partial shelter during light rain."
+              }
+            },
+            {
+              "name": "Foginovo Beach",
+              "tip_4lang": {
+                "de": "Suchen Sie Schutz in den Cafés am Flussufer.",
+                "hu": "Keressen menedéket a folyóparti kávézókban.",
+                "ro": "Căutați adăpost în cafenelele de pe mal.",
+                "en": "Seek shelter in the riverside cafes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie leuchtende Regenbekleidung für bessere Sichtbarkeit.",
+              "Vermeiden Sie scharfe Kurven auf nassem Kopfsteinpflaster.",
+              "Nutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt von der Burg Dubovac."
+            ],
+            "hu": [
+              "Viseljen élénk színű esőruházatot a jobb láthatóságért.",
+              "Kerülje az éles kanyarokat a vizes macskakövön.",
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "Ellenőrizze a fékeket a várból való legurulás előtt."
+            ],
+            "ro": [
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate.",
+              "Evitați virajele strânse pe pavajul umed.",
+              "Folosiți aripi de protecție împotriva stropilor de apă.",
+              "Verificați frânele înainte de a coborî de la castel."
+            ],
+            "en": [
+              "Wear bright waterproof gear for better visibility.",
+              "Avoid sharp turns on wet cobblestones.",
+              "Use mudguards to protect yourself from water spray.",
+              "Check your brakes before descending from Dubovac Castle."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch Karlovac erfordert Vorbereitung, belohnt aber mit Stille.\nDer Tag beginnt mit dem Anstieg zur Burg Dubovac, was den Körper schnell aufwärmt.\nAnschließend führt der Weg zum Aquatika, wo man sich im Inneren regenerieren kann.\nMittags geht es weiter zum Kriegsmuseum, bevor die Tour in den winterlichen Parks endet.",
+            "hu": "A téli kerékpározás Karlovacban felkészülést igényel, de csendes élményt ígér.\nA nap a Dubovac-várhoz való feltekeréssel indul, ami gyorsan bemelegíti a testet.\nEzután az Aquatika felé vesszük az irányt, ahol belül felfrissülhetünk.\nDélben a hadtörténeti múzeum következik, majd a túra a téli parkokban zárul.",
+            "ro": "Un tur cu bicicleta iarna prin Karlovac necesită pregătire, dar oferă liniște.\nZiua începe cu urcarea spre Castelul Dubovac, care vă va încălzi rapid corpul.\nUrmează drumul spre Aquatika, unde vă puteți regenera în interior.\nLa prânz continuați spre muzeu înainte de a încheia turul în parcurile hibernale.",
+            "en": "A winter bike tour through Karlovac requires preparation but rewards you with tranquility.\nThe day starts with the climb to Dubovac Castle, which quickly warms up the body.\nNext, head to Aquatika, where you can recharge in the indoor warmth.\nMidday continues to the war museum before ending the tour in the winter parks."
+          },
+          "stops": [
+            {
+              "name": "Dubovac Castle",
+              "tip_4lang": {
+                "de": "Vorsicht vor Eis in den schattigen Kurven der Auffahrt.",
+                "hu": "Vigyázzon a jegesedésre a feljáró árnyékos kanyarjaiban.",
+                "ro": "Atenție la gheață în curbele umbrite ale urcării.",
+                "en": "Watch out for ice in the shaded curves of the climb."
+              }
+            },
+            {
+              "name": "Aquatika - Freshwater Aquarium",
+              "tip_4lang": {
+                "de": "Wärmen Sie sich im Café auf, bevor Sie weiterfahren.",
+                "hu": "Melegedjen fel a kávézóban a továbbindulás előtt.",
+                "ro": "Încălziți-vă în cafenea înainte de a pleca mai departe.",
+                "en": "Warm up in the cafe before riding further."
+              }
+            },
+            {
+              "name": "Museum of the Homeland War",
+              "tip_4lang": {
+                "de": "Tragen Sie Handschuhe, um die Panzer im Freien zu besichtigen.",
+                "hu": "Viseljen kesztyűt a kültéri tankok megtekintéséhez.",
+                "ro": "Purtați mănuși pentru a vizita tancurile din exterior.",
+                "en": "Wear gloves to view the tanks in the outdoor area."
+              }
+            },
+            {
+              "name": "Karlovac Star (Old Town)",
+              "tip_4lang": {
+                "de": "Achten Sie auf gefrorene Pfützen zwischen den Steinen.",
+                "hu": "Ügyeljen a kövek közötti fagyott tócsákra.",
+                "ro": "Atenție la bălțile înghețate dintre pietre.",
+                "en": "Watch out for frozen puddles between the stones."
+              }
+            },
+            {
+              "name": "Vrbanić Garden",
+              "tip_4lang": {
+                "de": "Die Wege können bei Reif sehr glatt sein.",
+                "hu": "A sétányok zúzmarás időben nagyon csúszhatnak.",
+                "ro": "Potecile pot fi foarte alunecoase în caz de brumă.",
+                "en": "The paths can be very slippery when covered in frost."
+              }
+            },
+            {
+              "name": "Foginovo Beach",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf die eventuell gefrorene Korana.",
+                "hu": "Élvezze a kilátást az esetlegesen befagyott Koranára.",
+                "ro": "Bucurați-vă de priveliștea râului Korana înghețat.",
+                "en": "Enjoy the view of the potentially frozen Korana river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Prüfen Sie den Reifendruck für besseren Halt auf glatten Flächen.",
+              "Beenden Sie die Tour vor dem frühen Einbruch der Dunkelheit.",
+              "Spülen Sie das Rad nach der Tour ab, falls Salz gestreut wurde."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "Ellenőrizze a guminyomást a jobb tapadás érdekében.",
+              "Fejezze be a túrát a korai sötétedés előtt.",
+              "Öblítse le a biciklit, ha sót szórtak az utakra."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Verificați presiunea în pneuri pentru aderență pe suprafețe reci.",
+              "Încheiați turul înainte de lăsarea timpurie a întunericului.",
+              "Clătiți bicicleta dacă s-a folosit sare pe drumuri."
+            ],
+            "en": [
+              "Wear windproof gloves and a thermal cap under your helmet.",
+              "Check tire pressure for better grip on cold surfaces.",
+              "Finish your tour before the early onset of darkness.",
+              "Rinse your bike after the ride if salt was used on the roads."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1480,188 @@
           "A car allows you to also explore the surroundings of Karlovac, like the Mrežnica canyon.",
           "Pay attention to parking zones to avoid fines."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Karlovac bequem und trocken, egal wie stark es regnet.\nBeginnen Sie auf der Burg Dubovac, bevor Sie zum Museumskomplex in Turanj fahren.\nIn Aquatika können Sie Stunden verbringen, ohne nass zu werden.\nZum Abschluss bietet die Altstadt kurze Wege zwischen den Sehenswürdigkeiten.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel Karlovacot, bármennyire is esik.\nKezdjen a Dubovac-várnál, majd guruljon el a turanji múzeumkomplexumhoz.\nAz Aquatikában órákat tölthet anélkül, hogy megázna.\nZárásként az óváros kínál rövid sétákat a látnivalók között.",
+            "ro": "Cu mașina explorați Karlovac confortabil și fără a vă uda, indiferent de ploaie.\nÎncepeți la Castelul Dubovac înainte de a merge la complexul muzeal din Turanj.\nLa Aquatika puteți petrece ore întregi fără să vă faceți griji pentru vreme.\nLa final, centrul vechi oferă distanțe scurte între obiectivele turistice.",
+            "en": "Explore Karlovac comfortably and stay dry in your car, no matter the rain intensity.\nStart at Dubovac Castle before driving to the museum complex in Turanj.\nAt Aquatika, you can spend hours without worrying about getting wet.\nTo finish, the Old Town offers short walking distances between the sights."
+          },
+          "stops": [
+            {
+              "name": "Dubovac Castle",
+              "tip_4lang": {
+                "de": "Parken Sie direkt am Eingang, um den Regenweg zu minimieren.",
+                "hu": "Parkoljon közvetlenül a bejáratnál a séta minimalizálásához.",
+                "ro": "Parcați chiar la intrare pentru a minimiza mersul prin ploaie.",
+                "en": "Park right at the entrance to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Aquatika & Homeland War Museum Cluster",
+              "tip_4lang": {
+                "de": "Großer Parkplatz vorhanden, ideal für einen kombinierten Besuch.",
+                "hu": "Nagy parkoló áll rendelkezésre a kombinált látogatáshoz.",
+                "ro": "Parcare mare disponibilă, ideală pentru o vizită combinată.",
+                "en": "Large parking area available, ideal for a combined visit."
+              }
+            },
+            {
+              "name": "Karlovac Star (Old Town)",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Parkplätze in der Nähe der zentralen Plätze.",
+                "hu": "Használja a központi terekhez közeli parkolóhelyeket.",
+                "ro": "Folosiți locurile de parcare din apropierea piețelor centrale.",
+                "en": "Use the parking spots near the central squares."
+              }
+            },
+            {
+              "name": "Franciscan Monastery and Church of St. Nicholas",
+              "tip_4lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum trockenen Kircheninneren.",
+                "hu": "Rövid séta a parkolótól a templom száraz belsejéig.",
+                "ro": "Scurtă plimbare de la parcare până în interiorul uscat.",
+                "en": "Short walk from parking to the dry church interiors."
+              }
+            },
+            {
+              "name": "Foginovo Beach",
+              "tip_4lang": {
+                "de": "Beobachten Sie den Regen auf dem Fluss bequem vom Auto aus.",
+                "hu": "Nézze az eső áztatta folyót kényelmesen az autóból.",
+                "ro": "Observați ploaia de pe râu confortabil din mașină.",
+                "en": "Watch the rain on the river comfortably from your car."
+              }
+            },
+            {
+              "name": "Vrbanić Garden",
+              "tip_4lang": {
+                "de": "Ein schneller Stopp für Fotos, bevor der Regen stärker wird.",
+                "hu": "Gyors megálló fotózásra, mielőtt eleredne az eső.",
+                "ro": "O oprire rapidă pentru poze înainte să se intensifice ploaia.",
+                "en": "A quick stop for a video clip before the rain intensifies."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Straßen entlang der Flüsse.",
+              "Halten Sie einen Regenschirm im Auto für die kurzen Wege bereit.",
+              "Viele Parkplätze in der Innenstadt sind gebührenpflichtig.",
+              "Die Sicht kann bei starkem Regen auf den Brücken eingeschränkt sein."
+            ],
+            "hu": [
+              "Ügyeljen a vízenfutásra (aquaplaning) a folyóparti utakon.",
+              "Tartson esernyőt az autóban a rövid sétákhoz.",
+              "A legtöbb belvárosi parkolóhely díjköteles.",
+              "Erős esőben korlátozott lehet a látótávolság a hidakon."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile de-a lungul râurilor.",
+              "Țineți o umbrelă în mașină pentru distanțele scurte pe jos.",
+              "Multe locuri de parcare din centru sunt cu plată.",
+              "Vizibilitatea poate fi redusă pe poduri în timpul ploilor abundente."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the roads along the rivers.",
+              "Keep an umbrella in the car for the short walks to entrances.",
+              "Most city center parking spots require a payment.",
+              "Visibility can be reduced on the bridges during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Tour mit dem Auto ermöglicht es, Karlovac ohne Frieren zu erleben.\nStarten Sie bei der Burg Dubovac, wo die Aussicht im Winter besonders klar ist.\nBesuchen Sie die Museen und das Aquarium, die in der kalten Jahreszeit weniger überlaufen sind.\nBeenden Sie den Tag in der beleuchteten Altstadt mit kurzen Wegen zu warmen Cafés.",
+            "hu": "A téli autós túra lehetővé teszi Karlovac felfedezését fagyoskodás nélkül.\nKezdjen a Dubovac-várnál, ahol télen különösen tiszta a kilátás.\nLátogasson el a múzeumokba és az akváriumba, amelyek ilyenkor kevésbé zsúfoltak.\nZárja a napot a kivilágított óvárosban, közel a meleg kávézókhoz.",
+            "ro": "Un tur cu mașina iarna vă permite să experimentați Karlovac fără a îngheța.\nÎncepeți la Castelul Dubovac, unde priveliștea este foarte clară iarna.\nVizitați muzeele și acvariul, care sunt mai puțin aglomerate în sezonul rece.\nÎncheiați ziua în centrul vechi iluminat, aproape de cafenelele călduroase.",
+            "en": "A winter tour by car allows you to experience Karlovac without catching a cold.\nStart at Dubovac Castle, where the winter views are exceptionally clear.\nVisit the museums and the aquarium, which are less crowded during the cold season.\nEnd the day in the illuminated Old Town with short walks to warm cafes."
+          },
+          "stops": [
+            {
+              "name": "Dubovac Castle",
+              "tip_4lang": {
+                "de": "Vorsicht bei Glätte auf der steilen Zufahrt zur Burg.",
+                "hu": "Vigyázzon a csúszós útra a várhoz vezető meredek szakaszon.",
+                "ro": "Atenție la drumul alunecos pe urcarea abruptă spre castel.",
+                "en": "Be careful of slippery roads on the steep climb to the castle."
+              }
+            },
+            {
+              "name": "Aquatika & Homeland War Museum Cluster",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Nähe der Parkplätze zu den Eingängen.",
+                "hu": "Használja ki a parkolók bejáratokhoz való közelségét.",
+                "ro": "Profitați de proximitatea parcărilor față de intrări.",
+                "en": "Take advantage of the parking spots close to the entrances."
+              }
+            },
+            {
+              "name": "Karlovac Star (Old Town)",
+              "tip_4lang": {
+                "de": "Parken Sie zentral, um die Gehzeit in der Kälte zu verkürzen.",
+                "hu": "Parkoljon központilag, hogy rövid legyen a séta a hidegben.",
+                "ro": "Parcați central pentru a scurta timpul de mers prin frig.",
+                "en": "Park centrally to shorten walking time in the cold."
+              }
+            },
+            {
+              "name": "Franciscan Monastery and Church of St. Nicholas",
+              "tip_4lang": {
+                "de": "Ein kurzer, frostiger Spaziergang zwischen den Kirchen.",
+                "hu": "Rövid, fagyos séta a két templom között.",
+                "ro": "O scurtă plimbare geroasă între cele două biserici.",
+                "en": "A short, frosty walk between the two churches."
+              }
+            },
+            {
+              "name": "Foginovo Beach",
+              "tip_4lang": {
+                "de": "Genießen Sie das Winterpanorama gemütlich vom warmen Auto aus.",
+                "hu": "Élvezze a téli panorámát kényelmesen a meleg autóból.",
+                "ro": "Bucurați-vă de panorama de iarnă din mașina încălzită.",
+                "en": "Enjoy the winter panorama from the comfort of a warm car."
+              }
+            },
+            {
+              "name": "Vrbanić Garden",
+              "tip_4lang": {
+                "de": "Kurzer Stopp für einen Winterspaziergang zwischen den Bäumen.",
+                "hu": "Gyors megálló egy téli sétára a fák között.",
+                "ro": "O scurtă oprire pentru o plimbare de iarnă printre copaci.",
+                "en": "A quick stop for a winter stroll among the trees."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Auto wintertauglich ausgestattet ist.",
+              "Die Burgzufahrt kann bei Schnee gesperrt oder schwer befahrbar sein.",
+              "Parken Sie in der Nähe der Museen, um Kältebrücken zu vermeiden.",
+              "Achten Sie auf Fußgänger auf dem glatten Kopfsteinpflaster."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy autója fel van készítve a télre.",
+              "A várfeljáró hóesésben lezárható vagy nehezen járható lehet.",
+              "Parkoljon a múzeumok közelében a hideg elkerülése végett.",
+              "Ügyeljen a gyalogosokra a csúszós macskaköveken."
+            ],
+            "ro": [
+              "Asigurați-vă că mașina este echipată corespunzător pentru iarnă.",
+              "Accesul spre castel poate fi închis sau dificil în caz de zăpadă.",
+              "Parcați aproape de muzee pentru a evita expunerea la frig.",
+              "Atenție la pietoni pe pavajul alunecos."
+            ],
+            "en": [
+              "Ensure your car is properly equipped for winter conditions.",
+              "The castle access road can be closed or difficult during snow.",
+              "Park near the museums to minimize exposure to the cold.",
+              "Watch out for pedestrians on the slippery cobblestones."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2018,188 @@
           "Most buses are modern and air-conditioned.",
           "Keep small change ready for tickets if buying directly from the driver."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Nutzung öffentlicher Verkehrsmittel hält Sie in Karlovac auch bei Regen trocken.\nBeginnen Sie den Tag in der Altstadt, bevor der Bus Sie zum Aquatika bringt.\nMittags erreichen Sie bequem das Heimatkriegsmuseum mit dem Nahverkehr.\nDer Tag endet mit einem Besuch der Burg, wobei der Bus Sie nahe an den Hügel bringt.",
+            "hu": "A tömegközlekedés használatával Karlovacban esőben is száraz maradhat.\nKezdje a napot az óvárosban, mielőtt a busz elvinné az Aquatikához.\nDélben kényelmesen elérheti a hadtörténeti múzeumot a helyi járatokkal.\nA nap a várnál zárul, a busz közvetlenül a domb aljáig repíti.",
+            "ro": "Utilizarea transportului public vă menține uscat în Karlovac chiar și pe ploaie.\nÎncepeți ziua în centrul vechi înainte ca autobuzul să vă ducă la Aquatika.\nLa prânz ajungeți ușor la Muzeul Războiului cu transportul local.\nZiua se încheie la castel, autobuzul lăsându-vă aproape de deal.",
+            "en": "Using public transport keeps you dry in Karlovac even when it rains.\nStart your day in the Old Town before catching a bus to Aquatika.\nAt midday, you can easily reach the Homeland War Museum via local lines.\nThe day ends with a castle visit, with the bus dropping you off near the hill."
+          },
+          "stops": [
+            {
+              "name": "Karlovac Star (Old Town)",
+              "tip_4lang": {
+                "de": "Die meisten Bushaltestellen hier bieten Überdachungen.",
+                "hu": "A legtöbb itteni buszmegálló fedett.",
+                "ro": "Majoritatea stațiilor de autobuz de aici sunt acoperite.",
+                "en": "Most bus stops here offer shelters."
+              }
+            },
+            {
+              "name": "Franciscan Monastery and Museum",
+              "tip_4lang": {
+                "de": "Kurzer Fußweg zur nächsten Haltestelle im Regen.",
+                "hu": "Rövid séta az esőben a legközelebbi megállóig.",
+                "ro": "Scurtă plimbare prin ploaie până la cea mai apropiată stație.",
+                "en": "Short walk through the rain to the nearest stop."
+              }
+            },
+            {
+              "name": "Aquatika - Freshwater Aquarium",
+              "tip_4lang": {
+                "de": "Die Haltestelle ist nur wenige Schritte vom Eingang entfernt.",
+                "hu": "A megálló csak pár lépésre van a bejárattól.",
+                "ro": "Stația este la doar câțiva pași de intrare.",
+                "en": "The stop is only a few steps away from the entrance."
+              }
+            },
+            {
+              "name": "Museum of the Homeland War",
+              "tip_4lang": {
+                "de": "Warten Sie in den Museumsräumen auf Ihren Rückbus.",
+                "hu": "A múzeum belső terében várja meg a visszainduló buszt.",
+                "ro": "Așteptați autobuzul de întoarcere în interiorul muzeului.",
+                "en": "Wait for your return bus inside the museum premises."
+              }
+            },
+            {
+              "name": "Dubovac Castle",
+              "tip_4lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten für den Rückweg den Hügel hinab.",
+                "hu": "Ellenőrizze az indulási időket a dombról lefelé menet.",
+                "ro": "Verificați orele de plecare pentru drumul de întoarcere de pe deal.",
+                "en": "Check departure times for the return trip down the hill."
+              }
+            },
+            {
+              "name": "Foginovo Beach",
+              "tip_4lang": {
+                "de": "Busse verkehren regelmäßig in der Nähe des Flussufers.",
+                "hu": "A buszok rendszeresen járnak a folyópart közelében.",
+                "ro": "Autobuzele circulă regulat în apropierea malului râului.",
+                "en": "Buses run regularly near the riverbank."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Fahrkarten im Voraus, um Wartezeiten im Regen zu vermeiden.",
+              "Nutzen Sie eine Transit-App für Echtzeit-Abfahrten.",
+              "Nicht alle Haltestellen außerhalb des Zentrums sind überdacht.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zwischen Haltestelle und Ziel."
+            ],
+            "hu": [
+              "Vegye meg előre a jegyeket, hogy ne kelljen az esőben várnia.",
+              "Használjon menetrendi alkalmazást a pontos indulásokhoz.",
+              "A központon kívüli megállók nem mindenhol fedettek.",
+              "Viseljen vízálló ruhát a megálló és a látnivaló közötti szakaszokra."
+            ],
+            "ro": [
+              "Cumpărați biletele în avans pentru a nu aștepta în ploaie.",
+              "Folosiți o aplicație de transport pentru orele de plecare în timp real.",
+              "Nu toate stațiile din afara centrului sunt acoperite.",
+              "Purtați haine impermeabile pentru distanțele dintre stație și obiective."
+            ],
+            "en": [
+              "Buy tickets in advance to avoid waiting in the rain.",
+              "Use a transit app for real-time departure information.",
+              "Not all stops outside the center offer shelters.",
+              "Wear waterproof clothing for the walks between stops and sights."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel bieten im Winter einen warmen Rückzugsort zwischen den Zielen.\nStarten Sie in der winterlichen Altstadt, bevor Sie das Aquarium besuchen.\nMittags bringt der Nahverkehr Sie zum Museumskomplex in Turanj.\nBeenden Sie den Tag auf der Burg Dubovac, während der Bus Sie den Hügel hinaufführt.",
+            "hu": "A tömegközlekedés télen meleg menedéket nyújt a látnivalók között.\nKezdje a téli óvárosban, majd látogasson el az akváriumba.\nDélben a helyi járatok elviszik a turanji múzeumkomplexumhoz.\nZárja a napot a Dubovac-várnál, ahová busszal is feljuthat a dombra.",
+            "ro": "Transportul public oferă un refugiu călduros între obiective pe timp de iarnă.\nÎncepeți în centrul vechi hibernal înainte de a vizita acvariul.\nLa prânz, transportul local vă duce la complexul muzeal din Turanj.\nÎncheiați ziua la Castelul Dubovac, autobuzul ducându-vă spre deal.",
+            "en": "Public transport provides a warm refuge between sights during winter.\nStart in the wintry Old Town before visiting the aquarium.\nAt midday, local lines take you to the museum complex in Turanj.\nEnd the day at Dubovac Castle, with the bus taking you up toward the hill."
+          },
+          "stops": [
+            {
+              "name": "Karlovac Star (Old Town)",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Wartehäuschen, um sich vor dem Wind zu schützen.",
+                "hu": "Használja a várókat a szél elleni védekezéshez.",
+                "ro": "Folosiți adăposturile din stații pentru a vă proteja de vânt.",
+                "en": "Use the shelters to shield yourself from the wind."
+              }
+            },
+            {
+              "name": "Franciscan Monastery and Museum",
+              "tip_4lang": {
+                "de": "Kurze Gehwege halten die Kälteexposition gering.",
+                "hu": "A rövid séta miatt nem fog sokáig fázni.",
+                "ro": "Distanțele scurte pe jos reduc expunerea la frig.",
+                "en": "Short walking distances keep cold exposure minimal."
+              }
+            },
+            {
+              "name": "Aquatika - Freshwater Aquarium",
+              "tip_4lang": {
+                "de": "Der Bus hält direkt vor dem beheizten Gebäude.",
+                "hu": "A busz közvetlenül a fűtött épület előtt áll meg.",
+                "ro": "Autobuzul oprește chiar în fața clădirii încălzite.",
+                "en": "The bus stops right in front of the heated building."
+              }
+            },
+            {
+              "name": "Museum of the Homeland War",
+              "tip_4lang": {
+                "de": "Beachten Sie die selteneren Fahrzeiten am Winterabend.",
+                "hu": "Ügyeljen a ritkább járatokra a téli estéken.",
+                "ro": "Atenție la frecvența redusă a curselor în serile de iarnă.",
+                "en": "Note the less frequent departure times on winter evenings."
+              }
+            },
+            {
+              "name": "Dubovac Castle",
+              "tip_4lang": {
+                "de": "Der Bus erspart den mühsamen Aufstieg bei Kälte.",
+                "hu": "A busz megkíméli a fárasztó hegymenettől a hidegben.",
+                "ro": "Autobuzul vă scutește de urcarea obositoare prin frig.",
+                "en": "The bus saves you from the tiring climb in the cold."
+              }
+            },
+            {
+              "name": "Foginovo Beach",
+              "tip_4lang": {
+                "de": "Ein kurzer Blick auf den winterlichen Fluss, bevor der nächste Bus kommt.",
+                "hu": "Egy gyors pillantás a téli folyóra, mielőtt jön a következő busz.",
+                "ro": "O privire rapidă spre râu înainte de următorul autobuz.",
+                "en": "A quick look at the wintry river before the next bus arrives."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter gut beheizt und bieten Komfort.",
+              "Die Fahrpläne können an Feiertagen im Winter abweichen.",
+              "Warten Sie in Geschäften oder Cafés, wenn der Bus Verspätung hat.",
+              "Tragen Sie rutschfeste Schuhe für die Wege zu den Haltestellen."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek és kényelmesek.",
+              "A menetrendek ünnepnapokon eltérhetnek.",
+              "Várjon üzletekben vagy kávézókban, ha késik a busz.",
+              "Viseljen csúszásmentes cipőt a megállókhoz vezető úton."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite și confortabile iarna.",
+              "Orarele pot varia în timpul sărbătorilor de iarnă.",
+              "Așteptați în magazine sau cafenele dacă autobuzul întârzie.",
+              "Purtați încălțăminte antiderapantă pentru drumul spre stații."
+            ],
+            "en": [
+              "Buses are well-heated and comfortable during winter.",
+              "Schedules may vary during winter holidays.",
+              "Wait in shops or cafes if the bus is running late.",
+              "Wear non-slip shoes for the walks to the bus stops."
+            ]
+          }
+        }
       }
     }
   }

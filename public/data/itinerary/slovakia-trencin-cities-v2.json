@@ -410,6 +410,232 @@
           "Many museums are closed on Mondays, so check opening hours in advance.",
           "Keep some cash handy for smaller purchases and tips."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Mierové-Platz schützen die Arkaden vor Nieselregen. Mittags bieten die Piaristenkirche und die Synagoge trockene Zufluchtsorte für Kultur. Nachmittags führt die historische, überdachte Pfarreitreppe sicher zum Schloss hinauf. Abends spiegelt sich die Burgbeleuchtung malerisch in den Pfützen der Altstadtgassen.",
+            "hu": "Reggel a Mierové tér árkádjai alatt védve maradhatunk az esőtől. Délben a piarista templom és a zsinagóga belső terei nyújtanak száraz menedéket. Délután a fedett plébániai lépcsőn keresztül ázás nélkül juthatunk fel a várba. Este a kivilágított vár képe látványosan tükröződik az óváros nedves macskakövein.",
+            "ro": "Dimineața, arcadele din Piața Mierové oferă protecție împotriva burniței. La prânz, interiorul bisericii piariste și sinagoga sunt refugii culturale uscate. După-amiaza, scara parohială acoperită permite urcarea la castel fără probleme. Seara, luminile cetății se reflectă spectaculos în bălțile de pe străzile pavate.",
+            "en": "In the morning, the arcades of Mierové Square provide shelter from the drizzle. At noon, the Piarist Church and Synagogue offer dry cultural retreats. In the afternoon, the covered Parish Staircase ensures a dry climb to the castle. In the evening, the castle lights reflect beautifully in the wet cobblestone streets."
+          },
+          "stops": [
+            {
+              "name": "Mierové námestie (Peace Square)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Gebäudevorsprünge und Cafés am Platzrand als Regenschutz.",
+                "hu": "Használja a tér szélén lévő épületkiugrókat és kávézókat esővédőként.",
+                "ro": "Folosiți arcadele clădirilor și cafenelele de pe margine pentru a vă adăposti.",
+                "en": "Use the building overhangs and cafes along the square for rain protection."
+              }
+            },
+            {
+              "name": "City Tower",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist eng, aber oben bietet die Galerie einen trockenen Rundumblick.",
+                "hu": "A felmenet szűk, de fent a galéria száraz, 360 fokos panorámát kínál.",
+                "ro": "Urcarea este strâmtă, dar galeria de sus oferă o vedere panoramică uscată.",
+                "en": "The climb is narrow, but the gallery at the top offers a dry 360-degree view."
+              }
+            },
+            {
+              "name": "Piarist Church of St. Francis Xavier",
+              "tip_5lang": {
+                "de": "Hervorragender Ort, um einen heftigen Regenschauer im Barockambiente abzuwarten.",
+                "hu": "Kiváló hely egy heves zápor átvészelésére a barokk falak között.",
+                "ro": "Loc excelent pentru a aștepta trecerea unei averse în ambianță barocă.",
+                "en": "Excellent place to wait out a heavy rain shower in a Baroque setting."
+              }
+            },
+            {
+              "name": "Synagogue",
+              "tip_5lang": {
+                "de": "Die moderne Kunstgalerie im Inneren ist ein perfektes Ziel bei Regenwetter.",
+                "hu": "A belső modern művészeti galéria tökéletes célpont esős időben.",
+                "ro": "Galeria de artă modernă din interior este o destinație perfectă pe ploaie.",
+                "en": "The modern art gallery inside is a perfect destination for rainy weather."
+              }
+            },
+            {
+              "name": "Roman Inscription on the castle rock",
+              "tip_5lang": {
+                "de": "Vom Restaurant des Hotels Elizabeth aus durch Glas trocken zu besichtigen.",
+                "hu": "A Hotel Elizabeth éttermének üvegfalán keresztül szárazon megtekinthető.",
+                "ro": "Poate fi văzută fără a vă uda prin peretele de sticlă al Hotelului Elizabeth.",
+                "en": "Can be viewed while staying dry through the glass wall of Hotel Elizabeth."
+              }
+            },
+            {
+              "name": "Executioner's House",
+              "tip_5lang": {
+                "de": "Ein kleines, gemütliches Museum, ideal für eine Stunde im Trockenen.",
+                "hu": "Kicsi, hangulatos múzeum, ideális egy órányi száraz időtöltésre.",
+                "ro": "Un muzeu mic și primitor, ideal pentru o oră petrecută la adăpost.",
+                "en": "A small, cozy museum, ideal for an hour of staying dry."
+              }
+            },
+            {
+              "name": "Parish Staircase",
+              "tip_5lang": {
+                "de": "Die hölzerne Überdachung macht diesen Weg zum Schloss absolut regensicher.",
+                "hu": "A fa tetőszerkezet miatt ez az út a várba teljesen esőbiztos.",
+                "ro": "Acoperișul din lemn face ca acest drum spre castel să fie ferit de ploaie.",
+                "en": "The wooden roof makes this path to the castle completely rainproof."
+              }
+            },
+            {
+              "name": "Trenčín Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen in den Palästen, um den Außenbereich zu meiden.",
+                "hu": "Látogassa meg a paloták kiállításait, így elkerülheti a nyitott udvarokat.",
+                "ro": "Vizitați expozițiile din palate pentru a evita zonele exterioare expuse.",
+                "en": "Visit the exhibitions inside the palaces to avoid the exposed outdoor areas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Wählen Sie die Pfarreitreppe statt der Waldwege, da diese komplett überdacht ist.",
+              "Die römische Inschrift ist am besten vom Hotel Elizabeth aus bei einem Kaffee zu sehen.",
+              "Tragen Sie Schuhe mit gutem Profil; das Kopfsteinpflaster wird bei Nässe rutschig.",
+              "Die Synagoge dient oft als Galerie und bietet viel Zeit im Trockenen.",
+              "In der Unterführung zum Bahnhof gibt es oft improvisierte Regenschirm-Verkäufe."
+            ],
+            "hu": [
+              "Válassza a plébániai lépcsőt az erdei utak helyett, mert ez teljesen fedett.",
+              "A római feliratot legjobb a Hotel Elizabeth kávézójából nézni egy kávé mellett.",
+              "Viseljen jó tapadású cipőt; a macskakő nedvesen csúszóssá válik.",
+              "A zsinagóga gyakran galériaként üzemel, sok időt tölthetünk bent szárazon.",
+              "A vár belső palotái között gyorsan mozogjunk az udvarokon keresztül."
+            ],
+            "ro": [
+              "Alegeți scara parohială în locul potecilor prin pădure, fiind complet acoperită.",
+              "Inscripția romană se vede cel mai bine din cafeneaua Hotelului Elizabeth.",
+              "Purtați încălțăminte cu talpă aderentă; pavajul devine alunecos când este ud.",
+              "Sinagoga funcționează adesea ca galerie, oferind mult timp la adăpost.",
+              "Între palatele castelului deplasați-vă rapid prin curțile interioare."
+            ],
+            "en": [
+              "Choose the Parish Staircase over forest paths as it is completely covered.",
+              "The Roman inscription is best viewed from Hotel Elizabeth's cafe with a drink.",
+              "Wear shoes with good grip; the cobblestones become slippery when wet.",
+              "The Synagogue often serves as a gallery, providing plenty of indoor time.",
+              "Move quickly between castle palaces to minimize time in open courtyards."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens dampft der heiße Tee auf dem winterlichen Mierové-Platz. Mittags bieten die dicken Mauern der Kirche und Synagoge Schutz vor dem schneidenden Wind. Nachmittags beleuchtet die tiefstehende Sonne die Burgfelsen frostig-schön. Abends erstrahlt das Schloss Trenčín bereits ab 16:30 Uhr in festlichem Licht über der verschneiten Stadt.",
+            "hu": "Reggel forró tea gőzölög a téli Mierové téren. Délben a templom és a zsinagóga vastag falai védenek a metsző szél ellen. Délután az alacsonyan járó nap fagyos fénnyel világítja meg a vár szikláit. Este a trencséni vár már 16:30-tól ünnepi díszkivilágításban ragyog a havas város felett.",
+            "ro": "Dimineața, ceaiul fierbinte aburește în Piața Mierové înghețată. La prânz, zidurile groase ale bisericii și sinagogii protejează de vântul tăios. După-amiaza, soarele jos luminează stâncile castelului într-un mod feeric. Seara, castelul Trenčín strălucește în lumini festive peste orașul înzăpezit încă de la ora 16:30.",
+            "en": "In the morning, hot tea steams in the wintry Mierové Square. At noon, the thick walls of the church and synagogue protect against the biting wind. In the afternoon, the low sun lights up the castle rocks in a frosty glow. In the evening, Trenčín Castle shines in festive lights over the snowy city starting from 4:30 PM."
+          },
+          "stops": [
+            {
+              "name": "Mierové námestie (Peace Square)",
+              "tip_5lang": {
+                "de": "Die Cafés bieten Sitzplätze mit Heizstrahlern und warme Decken an.",
+                "hu": "A kávézók fűtőtestekkel felszerelt teraszokat és meleg takarókat kínálnak.",
+                "ro": "Cafenelele oferă locuri cu radiatoare și pături calde pentru clienți.",
+                "en": "The cafes offer seating with heat lamps and warm blankets."
+              }
+            },
+            {
+              "name": "City Tower",
+              "tip_5lang": {
+                "de": "Achtung bei den Treppen; Kälte macht das Metall und den Stein glatt.",
+                "hu": "Vigyázat a lépcsőkkel; a hideg miatt a fém és a kő is síkossá válhat.",
+                "ro": "Atenție la scări; frigul face ca metalul și piatra să fie alunecoase.",
+                "en": "Be careful on the stairs; the cold makes metal and stone surfaces slick."
+              }
+            },
+            {
+              "name": "Piarist Church of St. Francis Xavier",
+              "tip_5lang": {
+                "de": "Im Inneren ist es kühl; behalten Sie Ihre Jacke während der Besichtigung an.",
+                "hu": "Bent hűvös van; tartsa magán a kabátját a látogatás során.",
+                "ro": "În interior este răcoare; păstrați haina pe dvs. în timpul vizitei.",
+                "en": "It is cool inside; keep your jacket on during the visit."
+              }
+            },
+            {
+              "name": "Synagogue",
+              "tip_5lang": {
+                "de": "Oft beheizter Ausstellungsraum, ideal zum Aufwärmen zwischen den Stopps.",
+                "hu": "Gyakran fűtött kiállítótér, ideális felmelegedni a megállók között.",
+                "ro": "Spațiu expozițional adesea încălzit, ideal pentru încălzire între opriri.",
+                "en": "Often a heated exhibition space, ideal for warming up between stops."
+              }
+            },
+            {
+              "name": "Roman Inscription on the castle rock",
+              "tip_5lang": {
+                "de": "Der Blick aus dem warmen Hotel Elizabeth schont Sie vor Frostbeulen.",
+                "hu": "A meleg Hotel Elizabeth-ből nyíló kilátás megkíméli a fagyoskodástól.",
+                "ro": "Vederea din interiorul cald al Hotelului Elizabeth vă ferește de ger.",
+                "en": "The view from the warm Hotel Elizabeth saves you from the frost."
+              }
+            },
+            {
+              "name": "Executioner's House",
+              "tip_5lang": {
+                "de": "Die niedrigen Decken halten die Wärme in den kleinen Räumen gut.",
+                "hu": "Az alacsony mennyezet jól megtartja a meleget a kis helyiségekben.",
+                "ro": "Tavanele joase mențin bine căldura în încăperile mici ale muzeului.",
+                "en": "The low ceilings hold the warmth well in the small rooms of the museum."
+              }
+            },
+            {
+              "name": "Parish Staircase",
+              "tip_5lang": {
+                "de": "Trockener als die Wege, aber bei Frost können die Stufen vereisen.",
+                "hu": "Szárazabb, mint az utak, de fagy esetén a fokok eljegesedhetnek.",
+                "ro": "Mai uscată decât potecile, dar treptele pot îngheța în caz de ger.",
+                "en": "Drier than the paths, but steps can ice over in freezing temperatures."
+              }
+            },
+            {
+              "name": "Trenčín Castle",
+              "tip_5lang": {
+                "de": "Das Schloss schließt im Winter früher (ca. 15:30); planen Sie rechtzeitig.",
+                "hu": "A vár télen korábban zár (kb. 15:30); tervezze meg időben a látogatást.",
+                "ro": "Castelul se închide mai devreme iarna (aprox. 15:30); planificați din timp.",
+                "en": "The castle closes earlier in winter (around 3:30 PM); plan accordingly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 16:00 Uhr unter; seien Sie für Fotos vorher auf der Burg.",
+              "Die Pfarreitreppe wird bei Schnee meist geräumt, Waldwege sind oft glatt.",
+              "Nutzen Sie die Lobby des Hotel Elizabeth für eine luxuriöse Aufwärmpause.",
+              "Warme Thermosocken sind wegen des Kopfsteinpflasters und der Burgmauern Pflicht.",
+              "Prüfen Sie, ob auf dem Platz ein kleiner Weihnachtsmarkt stattfindet."
+            ],
+            "hu": [
+              "A nap 16:00 körül nyugszik; a fotózáshoz legyen a várban ez előtt.",
+              "A plébániai lépcsőt hó esetén takarítják, az erdei utak csúszósak maradhatnak.",
+              "Használja a Hotel Elizabeth lobbyját egy elegáns felmelegedésre.",
+              "A vastag talpú cipő kötelező a hideg macskakő és a várfalak miatt.",
+              "Ellenőrizze, hogy a téren van-e kisebb adventi vásár forralt borral."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 16:00; fiți la castel înainte pentru fotografii.",
+              "Scara parohială este de obicei curățată de zăpadă, potecile rămân alunecoase.",
+              "Folosiți lobby-ul Hotelului Elizabeth pentru o pauză elegantă de încălzire.",
+              "Încălțămintea cu talpă groasă este obligatorie din cauza pavajului rece.",
+              "Verificați dacă în piață se organizează un mic târg de Crăciun."
+            ],
+            "en": [
+              "Sunset is around 4:00 PM; be at the castle before then for the best photos.",
+              "The Parish Staircase is usually cleared of snow, unlike forest paths.",
+              "Use the lobby of Hotel Elizabeth for a luxurious warming break.",
+              "Warm, thick-soled boots are essential due to cold stones and castle walls.",
+              "Check if there is a small Christmas market with mulled wine in the square."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -814,6 +1040,232 @@
           "A good bike lock is essential.",
           "Check your tire pressure before you set off."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regenbekleidung ist Pflicht für diese Tour durch Trenčín. Vormittags gleiten die Reifen vorsichtig über den nassen Asphalt der Innenstadt. Mittags bieten die Museen und Kirchen lange Pausen im Trockenen. Nachmittags fordern die steilen Anstiege zur Burg bei Nässe volle Konzentration, bevor der Abend entspannt in einem fahrradfreundlichen Café endet.",
+            "hu": "Az esőruházat kötelező erre a trencséni kerékpártúrára. Délelőtt a gumik óvatosan tapadnak a belváros vizes aszfaltján. Délben a múzeumok és templomok hosszú pihenőt nyújtanak szárazon. Délután a várba vezető meredek emelkedők koncentrációt igényelnek a csúszós úton, mielőtt az este egy kerékpárosbarát kávézóban zárulna.",
+            "ro": "Echipamentul de ploaie este obligatoriu pentru acest tur cu bicicleta. Dimineața, anvelopele rulează cu grijă pe asfaltul umed din centru. La prânz, muzeele și bisericile oferă pauze lungi la adăpost. După-amiaza, urcările abrupte spre castel necesită concentrare pe ud, înainte ca seara să se încheie într-o cafenea bike-friendly.",
+            "en": "Rain gear is mandatory for this cycling tour of Trenčín. In the morning, tires grip carefully on the wet city asphalt. At noon, museums and churches offer long dry breaks. In the afternoon, steep climbs to the castle require extra focus on wet surfaces before the evening ends at a bike-friendly cafe."
+          },
+          "stops": [
+            {
+              "name": "Mierové námestie (Peace Square)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf den nassen Granitsteinen des Platzes.",
+                "hu": "Óvatosan fékezzen a tér nedves gránitkövein.",
+                "ro": "Frânați cu grijă pe pietrele de granit umede din piață.",
+                "en": "Brake carefully on the wet granite stones of the square."
+              }
+            },
+            {
+              "name": "Synagogue",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich oft in der Nähe des Eingangs.",
+                "hu": "Fedett kerékpártárolók gyakran találhatók a bejárat közelében.",
+                "ro": "Suporturile de biciclete acoperite se află adesea lângă intrare.",
+                "en": "Covered bike racks can often be found near the entrance."
+              }
+            },
+            {
+              "name": "Piarist Church of St. Francis Xavier",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für eine längere Trockenpause in der Bankreihe.",
+                "hu": "Használja ki a megállót egy hosszabb száraz pihenőre a padsorokban.",
+                "ro": "Folosiți oprirea pentru o pauză lungă de uscare în bănci.",
+                "en": "Use this stop for a long dry break in the pews."
+              }
+            },
+            {
+              "name": "City Tower",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad regengeschützt unter den Arkaden am Fuß des Turms ab.",
+                "hu": "Állítsa le a biciklit esőtől védetten a torony alatti árkádoknál.",
+                "ro": "Lăsați bicicleta protejată de ploaie sub arcadele de la baza turnului.",
+                "en": "Park your bike protected from the rain under the tower arcades."
+              }
+            },
+            {
+              "name": "Roman Inscription on the castle rock",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; das Visier am Helm hilft gegen die Gischt.",
+                "hu": "Gyors fotómegálló; a sisakrostély segít az esőpermet ellen.",
+                "ro": "Oprire scurtă pentru foto; viziera căștii ajută împotriva stropilor.",
+                "en": "Quick photo stop; a helmet visor helps against the spray."
+              }
+            },
+            {
+              "name": "Executioner's House",
+              "tip_5lang": {
+                "de": "Das Rad kann an der Außenwand unter dem Dachüberstand lehnen.",
+                "hu": "A kerékpár a külső falhoz támasztható a tetőtúlnyúlás alatt.",
+                "ro": "Bicicleta poate fi rezemată de perete sub streașina acoperișului.",
+                "en": "The bike can lean against the wall under the roof overhang."
+              }
+            },
+            {
+              "name": "Parish Staircase",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad vorsichtig die Rampe hoch; Holz ist sehr glatt.",
+                "hu": "Óvatosan tolja a biciklit a rámpán; a fa ilyenkor nagyon csúszik.",
+                "ro": "Împingeți bicicleta cu grijă pe rampă; lemnul este foarte alunecos.",
+                "en": "Push the bike carefully up the ramp; wet wood is very slippery."
+              }
+            },
+            {
+              "name": "Trenčín Castle",
+              "tip_5lang": {
+                "de": "Oben gibt es Stellplätze, aber der Weg hoch ist bei Regen mühsam.",
+                "hu": "Fent vannak tárolók, de az út felfelé esőben fárasztó.",
+                "ro": "Există suporturi sus, dar drumul la deal pe ploaie este obositor.",
+                "en": "There are racks at the top, but the ride up is strenuous in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei den Pfützen in der Altstadt unerlässlich.",
+              "Vermeiden Sie die weißen Fahrbahnmarkierungen, diese sind extrem rutschig.",
+              "Nutzen Sie die Unterführungen als temporären Regenschutz.",
+              "Die Bremsleistung Ihrer Felgenbremsen kann bei Nässe stark nachlassen.",
+              "Fahrradfreundliche Cafés in Trenčín erlauben oft das Abstellen unter Markisen."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen az óvárosi tócsák miatt.",
+              "Kerülje a fehér útburkolati jeleket, mert rendkívül csúsznak.",
+              "Használja az aluljárókat ideiglenes esővédelemként.",
+              "A felnifékek hatékonysága nedves időben jelentősen csökkenhet.",
+              "A kerékpárosbarát kávézók gyakran engedik a tárolást az előtetők alatt."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale din cauza bălților din oraș.",
+              "Evitați marcajele rutiere albe, acestea sunt extrem de alunecoase.",
+              "Folosiți pasajele subterane ca adăpost temporar împotriva ploii.",
+              "Eficiența frânelor pe jantă poate scădea semnificativ pe umiditate.",
+              "Cafenelele prietenoase cu bicicliștii permit adesea parcarea sub copertine."
+            ],
+            "en": [
+              "Fenders are essential due to puddles in the old town.",
+              "Avoid riding on white road markings; they are extremely slippery.",
+              "Use underpasses as temporary rain shelters.",
+              "Rim brake performance can decrease significantly in wet conditions.",
+              "Bike-friendly cafes in Trenčín often allow parking under awnings."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Dick eingepackt geht es auf zwei Rädern durch das frostige Trenčín. Vormittags knirscht der Streusand unter den Reifen auf dem Mierové-Platz. Mittags wärmen heiße Getränke in den Cafés die kalten Finger. Nachmittags ist die Auffahrt zur Burg ein Workout gegen die Kälte, belohnt mit einer klaren Sicht über das Waag-Tal.",
+            "hu": "Vastagon felöltözve indulunk két keréken a fagyos Trencsénbe. Délelőtt a szóróhomok csikorog a gumik alatt a Mierové téren. Délben forró italok melegítik fel a kihűlt ujjakat a kávézókban. Délután a várba vezető út remek edzés a hideg ellen, tiszta kilátással a Vág völgyére.",
+            "ro": "Echipat gros, porniți pe două roți prin Trenčínul înghețat. Dimineața, nisipul antiderapant scârțâie sub roți în Piața Mierové. La prânz, băuturile fierbinți din cafenele încălzesc degetele înghețate. După-amiaza, urcarea la castel este un antrenament contra frigului, răsplătit cu o vedere clară peste Valea Váh.",
+            "en": "Bundled up, you head out on two wheels through frosty Trenčín. In the morning, grit crunches under the tires in Mierové Square. At noon, hot drinks in cafes warm up cold fingers. In the afternoon, the climb to the castle is a workout against the cold, rewarded with clear views over the Váh valley."
+          },
+          "stops": [
+            {
+              "name": "Mierové námestie (Peace Square)",
+              "tip_5lang": {
+                "de": "Rechnen Sie mit Rollsplit; fahren Sie langsam in Kurven.",
+                "hu": "Számítson zúzottkőre; lassítson a kanyarokban.",
+                "ro": "Așteptați-vă la pietriș pe carosabil; rulați încet în curbe.",
+                "en": "Expect road grit; slow down when taking turns."
+              }
+            },
+            {
+              "name": "Synagogue",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen ist hier sehr willkommen.",
+                "hu": "Egy rövid megálló a felmelegedéshez itt nagyon ajánlott.",
+                "ro": "O scurtă oprire pentru încălzire este binevenită aici.",
+                "en": "A short stop to warm up is very welcome here."
+              }
+            },
+            {
+              "name": "Piarist Church of St. Francis Xavier",
+              "tip_5lang": {
+                "de": "Lassen Sie das Rad draußen; drinnen ist es kaum wärmer.",
+                "hu": "Hagyja a biciklit kint; bent alig van melegebb.",
+                "ro": "Lăsați bicicleta afară; interiorul este aproape la fel de rece.",
+                "en": "Leave the bike outside; it's hardly warmer inside."
+              }
+            },
+            {
+              "name": "City Tower",
+              "tip_5lang": {
+                "de": "Mit kalten Händen ist das Schloss am Rad mühsam zu bedienen.",
+                "hu": "Hideg kézzel a kerékpárzár kezelése nehézkes lehet.",
+                "ro": "Cu mâinile înghețate, manipularea lacătului este dificilă.",
+                "en": "Handling a bike lock with cold hands can be difficult."
+              }
+            },
+            {
+              "name": "Roman Inscription on the castle rock",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das lange Stehenbleiben im kalten Wind.",
+                "hu": "Kerülje a hosszú egy helyben állást a hideg szélben.",
+                "ro": "Evitați să staționați mult timp în vântul rece.",
+                "en": "Avoid standing still for too long in the cold wind."
+              }
+            },
+            {
+              "name": "Executioner's House",
+              "tip_5lang": {
+                "de": "Kleine Räume bieten schnelles Aufwärmen für den Oberkörper.",
+                "hu": "A kis helyiségek gyors felmelegedést nyújtanak a felsőtestnek.",
+                "ro": "Încăperile mici oferă o încălzire rapidă pentru corp.",
+                "en": "Small rooms offer quick warming for the upper body."
+              }
+            },
+            {
+              "name": "Parish Staircase",
+              "tip_5lang": {
+                "de": "Vereiste Stufen sind gefährlich; schieben Sie nur auf der Rampe.",
+                "hu": "A jeges fokok veszélyesek; csak a rámpán tolja a gépet.",
+                "ro": "Treptele înghețate sunt periculoase; împingeți doar pe rampă.",
+                "en": "Icy steps are dangerous; only push the bike on the ramp."
+              }
+            },
+            {
+              "name": "Trenčín Castle",
+              "tip_5lang": {
+                "de": "Die Abfahrt von der Burg ist bei Frost extrem riskant; bremsen Sie früh.",
+                "hu": "A várból lejövet fagyban kockázatos; fékezzen időben.",
+                "ro": "Coborârea de la castel pe ger este riscantă; frânați din timp.",
+                "en": "Riding down from the castle in frost is risky; brake early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterhandschuhe mit gutem Grip sind entscheidend für die Bremskontrolle.",
+              "Der Reifendruck sollte etwas niedriger sein für mehr Haftung auf Eis.",
+              "Akkus von E-Bikes entladen sich bei Kälte deutlich schneller.",
+              "Verwenden Sie helles Licht, da es im Winter oft neblig oder trüb ist.",
+              "Thermische Bekleidung in Schichten schützt vor dem Auskühlen im Fahrtwind."
+            ],
+            "hu": [
+              "A jó tapadású téli kesztyű döntő a fékek kezeléséhez.",
+              "A guminyomás legyen kicsit alacsonyabb a jobb tapadásért a jégen.",
+              "Az e-bike akkumulátorok hidegben sokkal gyorsabban lemerülnek.",
+              "Használjon erős lámpát, mert télen gyakori a köd és a szürkeség.",
+              "A réteges termoruházat véd a menetszél okozta lehűléstől."
+            ],
+            "ro": [
+              "Mănușile de iarnă cu aderență bună sunt esențiale pentru controlul frânelor.",
+              "Presiunea în pneuri ar trebui să fie mai mică pentru aderență pe gheață.",
+              "Bateriile bicicletelor electrice se descarcă mult mai repede la ger.",
+              "Folosiți lumini puternice, deoarece iarna este adesea ceață sau gri.",
+              "Îmbrăcămintea termică în straturi protejează contra vântului rece."
+            ],
+            "en": [
+              "Winter gloves with good grip are crucial for brake control.",
+              "Lower your tire pressure slightly for better traction on icy spots.",
+              "E-bike batteries drain significantly faster in cold weather.",
+              "Use bright lights, as winters are often foggy or overcast.",
+              "Layered thermal clothing protects you from wind chill while riding."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1194,6 +1646,214 @@
           "Plan your parking change around lunchtime to avoid traffic.",
           "Pay attention to parking signs to avoid fines."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen in Trenčín macht das Fahren auf den schmalen Altstadtstraßen anspruchsvoll. Vormittags parken Sie bequem im Zentrum und nutzen die kurzen Wege zwischen den Sehenswürdigkeiten. Mittags schützen die Innenräume der Kirchen und Museen. Nachmittags bringt Sie das Auto direkt zum Burgparkplatz, was den Aufstieg im Regen deutlich verkürzt.",
+            "hu": "Az eső Trencsénben próbára teszi a sofőröket a szűk óvárosi utcákon. Délelőtt kényelmesen parkolhat a központban, kihasználva a látnivalók közötti rövid távolságokat. Délben a templomok és múzeumok belső terei védenek. Délután az autó közvetlenül a várparkolóba viszi, jelentősen lerövidítve az esőben való kaptatást.",
+            "ro": "Ploaia din Trenčín face condusul pe străzile înguste din centru o provocare. Dimineața parcați confortabil în centru și profitați de distanțele scurte. La prânz, interiorul bisericilor și muzeelor oferă adăpost. După-amiaza, mașina vă duce direct la parcarea castelului, scurtând urcarea prin ploaie.",
+            "en": "Rain in Trenčín makes driving on narrow old town streets challenging. In the morning, park comfortably in the center and enjoy the short walks between sites. At noon, church and museum interiors provide shelter. In the afternoon, the car takes you directly to the castle parking, significantly shortening the rainy climb."
+          },
+          "stops": [
+            {
+              "name": "Old Town Parking",
+              "tip_5lang": {
+                "de": "Tiefgaragen wie am Palackého-Platz halten das Auto trocken.",
+                "hu": "A Palackého térihez hasonló mélygarázsok szárazon tartják az autót.",
+                "ro": "Parcările subterane, ca cea din Piața Palackého, mențin mașina uscată.",
+                "en": "Underground parking like at Palackého Square keeps your car dry."
+              }
+            },
+            {
+              "name": "Peace Square & City Tower",
+              "tip_5lang": {
+                "de": "Kurze Sprints zwischen den Arkaden minimieren das Nasswerden.",
+                "hu": "Rövid futás az árkádok között, így minimálisra csökken az ázás.",
+                "ro": "Sprinturi scurte între arcade pentru a minimiza expunerea la ploaie.",
+                "en": "Short sprints between arcades minimize getting wet."
+              }
+            },
+            {
+              "name": "Piarist Church & Synagogue",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor der Synagogue sparen Zeit im Regen.",
+                "hu": "Közvetlenül a zsinagóga előtti parkolóhelyek időt spórolnak az esőben.",
+                "ro": "Locurile de parcare chiar în fața sinagogii economisesc timp pe ploaie.",
+                "en": "Parking spaces right in front of the Synagogue save time in the rain."
+              }
+            },
+            {
+              "name": "Roman Inscription & Executioner's House",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Hotel Elizabeth als trockenen Aussichtspunkt.",
+                "hu": "Használja a Hotel Elizabethet száraz kilátópontként.",
+                "ro": "Folosiți Hotelul Elizabeth ca punct de observație uscat.",
+                "en": "Use Hotel Elizabeth as a dry vantage point."
+              }
+            },
+            {
+              "name": "Castle Parking",
+              "tip_5lang": {
+                "de": "Der obere Parkplatz ist bei Regen Gold wert; Weg zum Tor ist kurz.",
+                "hu": "A felső parkoló aranyat ér esőben; az út a kapuig rövid.",
+                "ro": "Parcarea de sus este extrem de utilă pe ploaie; drumul spre poartă e scurt.",
+                "en": "The upper parking lot is gold in the rain; the path to the gate is short."
+              }
+            },
+            {
+              "name": "Parish Staircase",
+              "tip_5lang": {
+                "de": "Überdachter Abgang zurück zum Auto; ideal für Regentage.",
+                "hu": "Fedett lejutás vissza az autóhoz; ideális esős napokon.",
+                "ro": "Coborâre acoperită înapoi la mașină; ideal pentru zile ploioase.",
+                "en": "Covered descent back to the car; ideal for rainy days."
+              }
+            },
+            {
+              "name": "Trenčín Castle",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingangsbereich.",
+                "hu": "Parkoljon a lehető legközelebb a bejárati részhez.",
+                "ro": "Parcați cât mai aproape posibil de zona de intrare.",
+                "en": "Park as close as possible to the entrance area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schalten Sie das Abblendlicht ein; die Sicht in den engen Gassen ist oft schlecht.",
+              "Vermeiden Sie das Parken unter Bäumen wegen herabfallender Äste bei Wind.",
+              "Zahlen Sie die Parkgebühr per App, um nicht im Regen am Automaten zu stehen.",
+              "Die Zufahrt zum oberen Schlossparkplatz kann bei Starkregen rutschig sein.",
+              "Nutzen Sie die Scheibenheizung gegen das Beschlagen bei hoher Luftfeuchtigkeit."
+            ],
+            "hu": [
+              "Kapcsolja be a tompított fényszórót; a látási viszonyok gyakran rosszak.",
+              "Kerülje a fák alatti parkolást a szélben lehulló ágak miatt.",
+              "Fizesse a parkolást applikációval, hogy ne kelljen az esőben az automatánál állni.",
+              "A felső várparkolóhoz vezető út heves esőzéskor csúszós lehet.",
+              "Használja a szélvédőfűtést a párásodás ellen."
+            ],
+            "ro": [
+              "Aprindeți faza scurtă; vizibilitatea pe străzile înguste este adesea slabă.",
+              "Evitați parcarea sub copaci din cauza crengilor care pot cădea la vânt.",
+              "Plătiți parcarea prin aplicație pentru a nu sta în ploaie la automat.",
+              "Accesul spre parcarea de sus a castelului poate fi alunecos pe ploaie torențială.",
+              "Folosiți funcția de dezaburire a parbrizului din cauza umidității ridicate."
+            ],
+            "en": [
+              "Turn on your low beams; visibility in narrow alleys is often poor.",
+              "Avoid parking under trees due to falling branches in windy conditions.",
+              "Pay for parking via app to avoid standing at the ticket machine in the rain.",
+              "The access road to the upper castle parking can be slick in heavy rain.",
+              "Use the windshield defroster to combat fogging from high humidity."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch Trenčín erfordert Vorsicht auf den steilen Passagen. Vormittags parken Sie im beheizten Parkhaus und erkunden den frostigen Markt. Mittags dient das Auto als warmer Rückzugsort zwischen den Besichtigungen. Nachmittags erleichtert die Fahrt zum Burgparkplatz den Weg durch den Schnee, bevor Sie abends die beleuchtete Stadt sicher verlassen.",
+            "hu": "A téli autózás Trencsénben óvatosságot igényel a meredek szakaszokon. Délelőtt parkoljon fűtött parkolóházban, és fedezze fel a fagyos várost. Délben az autó meleg menedékként szolgál a látnivalók között. Délután a várparkolóba menet megkönnyíti az utat a hóban, mielőtt este biztonságban elhagyná a kivilágított várost.",
+            "ro": "O călătorie cu mașina iarna prin Trenčín necesită atenție pe pantele abrupte. Dimineața parcați într-o parcare încălzită și explorați orașul înghețat. La prânz, mașina este un refugiu cald între vizite. După-amiaza, drumul spre parcarea castelului facilitează accesul prin zăpadă.",
+            "en": "A winter drive through Trenčín requires caution on steep sections. In the morning, park in a heated garage and explore the frosty market. At noon, the car serves as a warm retreat between sightings. In the afternoon, driving to the castle parking makes the snowy path easier before safely leaving the lit city in the evening."
+          },
+          "stops": [
+            {
+              "name": "Old Town Parking",
+              "tip_5lang": {
+                "de": "Beheizte Parkgaragen verhindern das Einfrieren der Türschlösser.",
+                "hu": "A fűtött garázsok megakadályozzák az ajtózárak befagyását.",
+                "ro": "Parcările încălzite previn înghețarea încuietorilor ușilor.",
+                "en": "Heated parking garages prevent door locks from freezing."
+              }
+            },
+            {
+              "name": "Peace Square & City Tower",
+              "tip_5lang": {
+                "de": "Fußwege am Platz können morgens noch glatt sein.",
+                "hu": "A téri gyalogutak reggel még síkosak lehetnek.",
+                "ro": "Aleile din piață pot fi încă alunecoase dimineața.",
+                "en": "Walkways on the square can still be icy in the morning."
+              }
+            },
+            {
+              "name": "Piarist Church & Synagogue",
+              "tip_5lang": {
+                "de": "Parkplätze in der Nähe ermöglichen schnelles Aufwärmen im Wagen.",
+                "hu": "A közeli parkolóhelyek lehetővé teszik a gyors felmelegedést az autóban.",
+                "ro": "Parcarea în apropiere permite încălzirea rapidă în mașină.",
+                "en": "Parking nearby allows for quick warming up in the car."
+              }
+            },
+            {
+              "name": "Roman Inscription & Executioner's House",
+              "tip_5lang": {
+                "de": "Fahrt durch frostige Gassen; achten Sie auf den Winterdienst.",
+                "hu": "Autózás a fagyos utcákon; figyeljen a hókotrókra.",
+                "ro": "Condus prin străduțe înghețate; atenție la utilajele de deszăpezire.",
+                "en": "Driving through frosty alleys; watch out for snow removal services."
+              }
+            },
+            {
+              "name": "Castle Parking",
+              "tip_5lang": {
+                "de": "Gute Winterreifen sind für die Auffahrt zur Burg zwingend nötig.",
+                "hu": "A várba való feljutáshoz jó téli gumi elengedhetetlen.",
+                "ro": "Anvelopele de iarnă bune sunt obligatorii pentru urcarea la castel.",
+                "en": "Good winter tires are mandatory for the climb to the castle."
+              }
+            },
+            {
+              "name": "Parish Staircase",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Weg, um nicht auf Schnee auszurutschen.",
+                "hu": "Használja a fedett utat, hogy ne csússzon meg a havon.",
+                "ro": "Folosiți drumul acoperit pentru a nu aluneca pe zăpadă.",
+                "en": "Use the covered path to avoid slipping on the snow."
+              }
+            },
+            {
+              "name": "Trenčín Castle",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul să meargă inutil în timp ce staționați.",
+                "en": "Do not let the engine idle unnecessarily while stationary."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie immer einen Eiskratzer und einen kleinen Besen im Auto mit.",
+              "Prüfen Sie den Frostschutz der Scheibenwaschanlage vor der Fahrt.",
+              "Die Auffahrt zum Schloss kann bei Eisglätte kurzzeitig gesperrt sein.",
+              "Das Parken im Zentrum ist im Winter oft einfacher als im Sommer.",
+              "Achten Sie auf Fußgänger, die wegen Glätte plötzlich ausrutschen könnten."
+            ],
+            "hu": [
+              "Mindig tartson jégkaparót és kis seprűt az autóban.",
+              "Indulás előtt ellenőrizze a szélvédőmosó fagyállóságát.",
+              "A várfeljáró jegesedés esetén rövid időre lezárható.",
+              "A központi parkolás télen gyakran egyszerűbb, mint nyáron.",
+              "Figyeljen a gyalogosokra, akik a csúszós út miatt váratlanul megtörhetnek."
+            ],
+            "ro": [
+              "Țineți întotdeauna o racletă și o măturică în mașină.",
+              "Verificați lichidul de parbriz antigel înainte de a porni la drum.",
+              "Accesul spre castel poate fi închis temporar în caz de polei.",
+              "Parcarea în centru este adesea mai ușoară iarna decât vara.",
+              "Atenție la pietonii care pot aluneca brusc pe gheață."
+            ],
+            "en": [
+              "Always keep an ice scraper and a small brush in the car.",
+              "Check your windshield washer fluid's freeze point before driving.",
+              "The castle access road may be briefly closed in case of icing.",
+              "Parking in the center is often easier in winter than in summer.",
+              "Watch out for pedestrians who might suddenly slip on icy patches."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1598,6 +2258,232 @@
           "Check the bus schedule for your return trip in advance.",
           "Keep an eye on the time so you don't miss the last bus."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit Bus und Bahn durch das regnerische Trenčín zu reisen, ist bequem und trocken. Vormittags bringen Sie die Linienbusse direkt vom Bahnhof ins Zentrum. Mittags bieten die Buswartehäuschen Schutz vor Schauern. Nachmittags nutzen Sie die Verbindungen zur Burgseite, um weite Wege im Freien zu vermeiden, bevor Sie abends entspannt am Busbahnhof Ihre Heimreise antreten.",
+            "hu": "Busszal és vonattal kényelmes és száraz utazni az esős Trencsénben. Délelőtt a helyi járatok közvetlenül a pályaudvarról a központba visznek. Délben a buszmegállók várói védenek a záporoktól. Délután használja a vár felé tartó járatokat, hogy elkerülje a hosszú kinti sétákat, mielőtt este visszatérne az autóbusz-állomásra.",
+            "ro": "Călătoria cu autobuzul prin Trenčínul ploios este confortabilă și uscată. Dimineața, liniile locale vă duc direct de la gară în centru. La prânz, stațiile de autobuz oferă protecție împotriva averselor. După-amiaza, folosiți conexiunile spre zona castelului pentru a evita mersul pe jos, înainte de plecarea de seară.",
+            "en": "Traveling by bus and train through rainy Trenčín is comfortable and dry. In the morning, local buses take you directly from the station to the center. At noon, bus shelters provide cover from showers. In the afternoon, use connections towards the castle to avoid long walks in the open before returning to the station in the evening."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the bus station",
+              "tip_5lang": {
+                "de": "Das Bahnhofsgebäude bietet einen großen, trockenen Wartebereich.",
+                "hu": "A pályaudvar épülete tágas, száraz várótermet kínál.",
+                "ro": "Clădirea gării oferă o zonă de așteptare mare și uscată.",
+                "en": "The station building offers a large, dry waiting area."
+              }
+            },
+            {
+              "name": "Mierové námestie (Peace Square)",
+              "tip_5lang": {
+                "de": "Die nächste Haltestelle liegt nur zwei Gehminuten unter Arkaden entfernt.",
+                "hu": "A legközelebbi megálló mindössze két perc sétára van az árkádok alatt.",
+                "ro": "Cea mai apropiată stație este la doar două minute de mers sub arcade.",
+                "en": "The nearest stop is just a two-minute walk away under the arcades."
+              }
+            },
+            {
+              "name": "City Tower",
+              "tip_5lang": {
+                "de": "Guter Orientierungspunkt; Busse halten direkt in der Parallelstraße.",
+                "hu": "Jó tájékozódási pont; a buszok közvetlenül a párhuzamos utcában állnak meg.",
+                "ro": "Punct bun de orientare; autobuzele opresc pe strada paralelă.",
+                "en": "Good landmark; buses stop directly on the parallel street."
+              }
+            },
+            {
+              "name": "Piarist Church of St. Francis Xavier",
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine ideale Pause zwischen zwei Busverbindungen.",
+                "hu": "A templom ideális pihenőt nyújt két buszjárat között.",
+                "ro": "Biserica oferă o pauză ideală între două conexiuni de autobuz.",
+                "en": "The church provides an ideal break between two bus connections."
+              }
+            },
+            {
+              "name": "Synagogue",
+              "tip_5lang": {
+                "de": "Zentrale Haltestellen befinden sich direkt gegenüber der Synagoge.",
+                "hu": "Központi megállók találhatók közvetlenül a zsinagógával szemben.",
+                "ro": "Stații centrale se află chiar vizavi de sinagogă.",
+                "en": "Central bus stops are located directly across from the Synagogue."
+              }
+            },
+            {
+              "name": "Roman Inscription & Executioner's House",
+              "tip_5lang": {
+                "de": "Kurze Busfahrt zum Hotel Elizabeth spart den Fußweg im Regen.",
+                "hu": "Rövid buszozás a Hotel Elizabeth-hez, megspórolva az esőben gyaloglást.",
+                "ro": "O scurtă călătorie cu autobuzul spre Hotel Elizabeth evită ploaia.",
+                "en": "A short bus ride to Hotel Elizabeth saves a walk in the rain."
+              }
+            },
+            {
+              "name": "Parish Staircase",
+              "tip_5lang": {
+                "de": "Überdachter Aufstieg; Busse halten am Fuß der Treppe.",
+                "hu": "Fedett feljutás; a buszok a lépcső aljánál állnak meg.",
+                "ro": "Urcare acoperită; autobuzele opresc la baza scărilor.",
+                "en": "Covered climb; buses stop at the foot of the stairs."
+              }
+            },
+            {
+              "name": "Trenčín Castle",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt so, dass Sie im Schlossmuseum warten können.",
+                "hu": "Tervezze úgy a visszautat, hogy a vármúzeumban várakozhasson.",
+                "ro": "Planificați returul astfel încât să puteți aștepta în muzeul castelului.",
+                "en": "Plan your return so you can wait inside the castle museum."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die lokale Fahrplan-App 'Ubian' für Echtzeit-Infos herunter.",
+              "Kaufen Sie SMS-Tickets, um nicht im Regen am Automaten zu suchen.",
+              "Die Busse in Trenčín sind meist gut beheizt und bieten WLAN.",
+              "Nutzen Sie die Unterführung am Bahnhof als trockenen Übergang.",
+              "Einige Haltestellen haben nur kleine Dächer; ein Regenschirm bleibt nötig."
+            ],
+            "hu": [
+              "Töltse le az 'Ubian' menetrendi alkalmazást a valós idejű infókért.",
+              "Vásároljon SMS-jegyet, hogy ne kelljen az esőben automatát keresni.",
+              "A trencséni buszok általában jól fűtöttek és van rajtuk wifi.",
+              "Használja a pályaudvari aluljárót száraz átjáróként.",
+              "Néhány megálló csak kis tetővel rendelkezik; az esernyő továbbra is kell."
+            ],
+            "ro": [
+              "Descărcați aplicația 'Ubian' pentru informații în timp real despre orar.",
+              "Cumpărați bilete prin SMS pentru a nu căuta automatele pe ploaie.",
+              "Autobuzele din Trenčín sunt de obicei bine încălzite și au Wi-Fi.",
+              "Folosiți pasajul subteran de la gară ca trecere uscată.",
+              "Unele stații au doar acoperișuri mici; umbrela rămâne necesară."
+            ],
+            "en": [
+              "Download the 'Ubian' schedule app for real-time transit info.",
+              "Purchase SMS tickets to avoid searching for machines in the rain.",
+              "Buses in Trenčín are usually well-heated and offer Wi-Fi.",
+              "Use the station underpass as a dry transit route.",
+              "Some stops have minimal shelter; an umbrella is still necessary."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind im Winter die sicherste Wahl für Trenčín. Vormittags bringen beheizte Busse Sie vom frostigen Bahnhof ins Zentrum. Mittags bieten die Kirchen und Museen Wärme, während Sie auf die nächste Verbindung warten. Nachmittags genießen Sie die Aussicht auf die verschneite Burg aus dem Fenster des Busses, bevor Sie abends im warmen Zug die Stadt verlassen.",
+            "hu": "Télen a tömegközlekedés a legbiztonságosabb választás Trencsénben. Délelőtt fűtött buszok viszik a fagyos pályaudvarról a központba. Délben a templomok és múzeumok adnak meleget, míg a következő járatra vár. Délután a busz ablakából csodálhatja a havas várat, mielőtt este a meleg vonaton elhagyná a várost.",
+            "ro": "Transportul public este cea mai sigură alegere în Trenčín pe timp de iarnă. Dimineața, autobuzele încălzite vă duc de la gară în centru. La prânz, bisericile și muzeele oferă căldură în timp ce așteptați următoarea conexiune. După-amiaza, admirați castelul înzăpezit de la geamul autobuzului.",
+            "en": "Public transport is the safest choice for Trenčín in winter. In the morning, heated buses take you from the frosty station to the center. At noon, churches and museums offer warmth while waiting for the next connection. In the afternoon, enjoy the view of the snowy castle from the bus window before leaving in a warm train."
+          },
+          "stops": [
+            {
+              "name": "Arrival at the bus station",
+              "tip_5lang": {
+                "de": "Der Warteraum ist im Winter beheizt; ideal bei Zugverspätungen.",
+                "hu": "A váróterem télen fűtött; ideális vonatvágány-késések esetén.",
+                "ro": "Sala de așteptare este încălzită iarna; utilă în caz de întârzieri.",
+                "en": "The waiting room is heated in winter; ideal during train delays."
+              }
+            },
+            {
+              "name": "Mierové námestie (Peace Square)",
+              "tip_5lang": {
+                "de": "Die Haltestellen am Platzrand liegen nah an warmen Cafés.",
+                "hu": "A tér szélén lévő megállók közel vannak a meleg kávézókhoz.",
+                "ro": "Stațiile de la marginea pieței sunt aproape de cafenele calde.",
+                "en": "The stops along the square are close to warm cafes."
+              }
+            },
+            {
+              "name": "City Tower",
+              "tip_5lang": {
+                "de": "Vom Turm aus sieht man die Busse der Linie 1 und 6 anfahren.",
+                "hu": "A toronyból látni lehet az 1-es és 6-os buszok érkezését.",
+                "ro": "Din turn puteți vedea sosirea autobuzelor de pe liniile 1 și 6.",
+                "en": "From the tower, you can spot lines 1 and 6 buses arriving."
+              }
+            },
+            {
+              "name": "Piarist Church of St. Francis Xavier",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um sich kurz vor der Kälte draußen zu erholen.",
+                "hu": "Csendes hely egy rövid pihenőre a kinti hideg elől.",
+                "ro": "Un loc liniștit pentru o scurtă pauză de la frigul de afară.",
+                "en": "A quiet place to recover briefly from the cold outside."
+              }
+            },
+            {
+              "name": "Synagogue",
+              "tip_5lang": {
+                "de": "Direkt davor halten viele Linien; minimale Wartezeit im Frost.",
+                "hu": "Közvetlenül előtte sok járat megáll; minimális várakozás a fagyban.",
+                "ro": "Multe linii opresc chiar în față; timp minim de așteptare în ger.",
+                "en": "Many lines stop right in front; minimal waiting time in the frost."
+              }
+            },
+            {
+              "name": "Roman Inscription & Executioner's House",
+              "tip_5lang": {
+                "de": "Die Busse fahren hier alle 15-20 Minuten; planen Sie per App.",
+                "hu": "A buszok itt 15-20 percenként járnak; tervezzen az appal.",
+                "ro": "Autobuzele trec la fiecare 15-20 min; planificați prin aplicație.",
+                "en": "Buses run every 15-20 minutes here; plan via the app."
+              }
+            },
+            {
+              "name": "Parish Staircase",
+              "tip_5lang": {
+                "de": "Der Weg ist meist schneefrei, was den Zugang zum Bus erleichtert.",
+                "hu": "Az út általában hómentes, ami megkönnyíti a buszhoz jutást.",
+                "ro": "Drumul este de obicei curățat, facilitând accesul spre autobuz.",
+                "en": "The path is usually snow-free, making it easier to reach the bus."
+              }
+            },
+            {
+              "name": "Trenčín Castle",
+              "tip_5lang": {
+                "de": "Beachten Sie die frühen Rückfahrzeiten der Busse am späten Nachmittag.",
+                "hu": "Figyeljen a buszok kora délutáni visszaindulási időpontjaira.",
+                "ro": "Atenție la orele de întoarcere ale autobuzelor după-amiaza târziu.",
+                "en": "Note the earlier return times for buses in the late afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe mit Touch-Funktion für die Ticket-Automaten.",
+              "Die Fahrpläne können sich bei starkem Schneefall leicht verzögern.",
+              "Nutzen Sie die Bahnhöfe als Wärmestützpunkte während Ihrer Tour.",
+              "Die meisten Busse in Trenčín haben eine Anzeige der nächsten Haltestellen.",
+              "Kaufen Sie ein Tagesticket, um beliebig oft ins Warme hüpfen zu können."
+            ],
+            "hu": [
+              "Használjon érintőképernyő-barát kesztyűt a jegyautomatákhoz.",
+              "Erős havazás esetén a menetrendekben kisebb csúszások lehetnek.",
+              "Használja a pályaudvarokat melegedőpontként a túra során.",
+              "A legtöbb trencséni buszon van kijelző a következő megállókkal.",
+              "Vásároljon napijegyet, hogy bármikor felpattanhasson a meleg buszra."
+            ],
+            "ro": [
+              "Purtați mănuși compatibile cu ecranele tactile pentru automate.",
+              "Orarele pot avea mici întârzieri în caz de ninsoare abundentă.",
+              "Folosiți gările ca puncte de încălzire pe parcursul turului.",
+              "Majoritatea autobuzelor au afișaje cu următoarele stații.",
+              "Cumpărați un bilet de o zi pentru a putea urca oricând în căldură."
+            ],
+            "en": [
+              "Wear touch-screen compatible gloves for the ticket machines.",
+              "Schedules may experience slight delays during heavy snowfall.",
+              "Use the train and bus stations as warming bases during your tour.",
+              "Most buses in Trenčín feature displays showing upcoming stops.",
+              "Buy a day pass so you can hop onto a warm bus whenever needed."
+            ]
+          }
+        }
       }
     }
   }

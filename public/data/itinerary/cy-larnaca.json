@@ -362,6 +362,188 @@
           "Most shops close for a siesta in the early afternoon, so plan your shopping accordingly.",
           "Respect the dress code when entering churches and mosques (shoulders and knees covered)."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen unter den Arkaden der Finikoudes-Promenade. Das Larnaca Castle bietet soliden Schutz vor Güssen. Mittags finden Sie in der Djami Kebir Moschee und der St. Lazarus Kirche trockene Rückzugsorte. Den Nachmittag verbringen Sie am besten im Pierides Museum, einer perfekten Indoor-Alternative. Ein herzhaftes Abendessen im Militzis wärmt Sie nach einem feuchten Tag wieder auf.",
+            "hu": "Kezdje a reggelt a Finikoudes kávézóinak fedett teraszain. Az eső elől a Larnaca vár vastag falai nyújtanak menedéket. Délben a mecset és a Szent Lázár-templom belső terei tartják szárazon. A délutánt töltse a Pierides Múzeumban, amely a legjobb fedett program a városban. Az estét zárja egy bőséges vacsorával a Militzis étteremben, ahol a meleg vendégszeretet feledteti a borús időt.",
+            "ro": "Începeți dimineața sub arcadele cafenelelor de pe promenada Finikoudes. Castelul din Larnaca oferă un adăpost solid împotriva ploii. La prânz, Moscheea Djami Kebir și Biserica Sfântul Lazăr vă oferă refugii spirituale uscate. Petreceți după-amiaza la Muzeul Pierides, o alternativă excelentă de interior. Încheiați ziua cu o cină caldă la Militzis, unde atmosfera primitoare vă va încălzi.",
+            "en": "Start your morning under the sheltered cafe fronts of Finikoudes. As the rain intensifies, find refuge in the sturdy Larnaca Castle. Noon brings a spiritual visit to the mosque and Saint Lazarus, where ancient stone keeps you dry. Spend a long afternoon immersed in history at the Pierides Museum. Wrap up your day with a warm, hearty meal at Militzis as the rain taps on the windows."
+          },
+          "stops": [
+            {
+              "name": "Finikoudes Promenade",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Vordächer der Cafés für einen trockenen Spaziergang.",
+                "hu": "A kávézók előtetői alatt szárazon sétálhat a tengerparton.",
+                "ro": "Folosiți copertinele cafenelelor pentru o plimbare uscată.",
+                "en": "Use the cafe awnings for a dry stroll along the waterfront."
+              }
+            },
+            {
+              "name": "Larnaca Castle",
+              "tip_5lang": {
+                "de": "Die Innenräume bieten hervorragenden Schutz vor Regenschauern.",
+                "hu": "A belső kiállítások tökéletes menedéket nyújtanak az eső elől.",
+                "ro": "Interiorul oferă o protecție excelentă împotriva averselor.",
+                "en": "The indoor exhibits provide excellent shelter from rain showers."
+              }
+            },
+            {
+              "name": "Djami Kebir Mosque",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort für eine kurze Besichtigungspause.",
+                "hu": "Csendes és száraz hely egy rövid pihenőhöz az esőben.",
+                "ro": "Un loc liniștit și uscat pentru o scurtă pauză de vizitare.",
+                "en": "A quiet and dry place for a short break during the rain."
+              }
+            },
+            {
+              "name": "Church of Saint Lazarus",
+              "tip_5lang": {
+                "de": "Die prächtige Ikonostase lässt das graue Wetter draußen vergessen.",
+                "hu": "A lenyűgöző ikonosztáz feledteti a kinti szürke időt.",
+                "ro": "Iconostasul superb vă face să uitați de vremea gri de afară.",
+                "en": "The stunning iconostasis makes you forget the gray weather outside."
+              }
+            },
+            {
+              "name": "Pierides Museum",
+              "tip_5lang": {
+                "de": "Ideal für Regentage, da der gesamte Besuch im Innenbereich stattfindet.",
+                "hu": "Ideális esős napokra, mivel a teljes tárlat fedett helyen van.",
+                "ro": "Ideal pentru zilele ploioase, vizita fiind în întregime la interior.",
+                "en": "Ideal for rainy days as the entire visit is indoors."
+              }
+            },
+            {
+              "name": "Lunch at Militzis",
+              "tip_5lang": {
+                "de": "Genießen Sie den traditionellen Ofen im Inneren des Restaurants.",
+                "hu": "Élvezze a hagyományos kemence melegét az étterem belsejében.",
+                "ro": "Bucurați-vă de căldura cuptorului tradițional din interior.",
+                "en": "Enjoy the warmth of the traditional oven inside the restaurant."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Pflastersteine in der Altstadt rutschig werden können.",
+              "Das Pierides Museum ist der beste Ort, um einen starken Guss abzuwarten.",
+              "Cafés an der Promenade haben meist Heizstrahler auf den überdachten Terrassen.",
+              "Regenschirme können in den kleinen Läden hinter der Promenade günstig gekauft werden."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óváros kövei csúszóssá válhatnak az esőben.",
+              "A Pierides Múzeum a legjobb hely egy nagyobb felhőszakadás kivárására.",
+              "A sétány menti kávézók teraszain gyakran van hősugárzó a fedett részeken.",
+              "Esernyőt olcsón vásárolhat a sétány mögötti kisboltokban."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pietrele din orașul vechi devin alunecoase.",
+              "Muzeul Pierides este cel mai bun loc pentru a aștepta trecerea unei ploi torențiale.",
+              "Cafenelele de pe promenadă au adesea radiatoare pe terasele acoperite.",
+              "Umbrelele pot fi cumpărate ieftin din magazinele mici din spatele promenadei."
+            ],
+            "en": [
+              "Wear waterproof shoes as the old town stones can become slippery when wet.",
+              "The Pierides Museum is the best place to wait out a heavy downpour.",
+              "Cafes along the promenade often have heaters on their covered terraces.",
+              "Umbrellas can be bought cheaply in the small shops behind the promenade."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Larnaca im Winter ist mild und belebend. Die Finikoudes-Promenade ist ohne die Sommerhitze ideal für lange Spaziergänge. Besuchen Sie das Schloss und die Kirchen zur Mittagszeit, wenn das Licht am schönsten ist. Der Nachmittag im Museum bietet einen tiefen Einblick in die Geschichte Zyperns. Genießen Sie den frühen Sonnenuntergang bei einem Glas Wein, bevor Sie zum Abendessen im Militzis einkehren.",
+            "hu": "Larnaca télen enyhe és frissítő. A Finikoudes sétány a nyári hőség nélkül ideális a hosszú sétákhoz. Látogassa meg a várat és a templomokat délidőben, amikor a tények a legszebben világítják meg az ódon falakat. A délutáni múzeumlátogatás során elmélyedhet Ciprus történelmében. Élvezze a korai naplementét a tengerparton, mielőtt betérne egy melengető vacsorára a Militzis étterembe.",
+            "ro": "Larnaca iarna este blândă și revigorantă. Promenada Finikoudes este ideală pentru plimbări lungi fără canicula verii. Vizitați castelul și bisericile la prânz, când lumina este cea mai frumoasă. După-amiaza la muzeu oferă o incursiune profundă în istoria Ciprului. Bucurați-vă de apusul timpuriu pe malul mării înainte de a merge la cina de la Militzis.",
+            "en": "Larnaca in winter is mild and refreshing. The Finikoudes Promenade is perfect for long walks without the summer heat. Visit the castle and churches at midday when the winter light is most photogenic. An afternoon at the museum provides a deep dive into Cyprus's history. Enjoy the early sunset by the sea before heading for a cozy dinner at Militzis."
+          },
+          "stops": [
+            {
+              "name": "Finikoudes Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Meeresbrise ohne die brennende Sonne.",
+                "hu": "Élvezze a friss tengeri szellőt az égető napsütés nélkül.",
+                "ro": "Bucurați-vă de briza proaspătă a mării fără soarele arzător.",
+                "en": "Enjoy the fresh sea breeze without the scorching summer sun."
+              }
+            },
+            {
+              "name": "Larnaca Castle",
+              "tip_5lang": {
+                "de": "Von den Mauern hat man im Winter eine klare Sicht auf das Meer.",
+                "hu": "A falakról télen gyakran kristálytiszta kilátás nyílik a tengerre.",
+                "ro": "De pe ziduri aveți o vedere clară asupra mării în timpul iernii.",
+                "en": "From the walls, you get a very clear view of the sea in winter."
+              }
+            },
+            {
+              "name": "Djami Kebir Mosque",
+              "tip_5lang": {
+                "de": "Barfuß auf den Teppichen ist es auch im Winter angenehm.",
+                "hu": "Mezítláb a szőnyegeken télen is kellemes a benti hőmérséklet.",
+                "ro": "Descult pe covoare este plăcut chiar și în timpul iernii.",
+                "en": "Being barefoot on the carpets is comfortable even in winter."
+              }
+            },
+            {
+              "name": "Church of Saint Lazarus",
+              "tip_5lang": {
+                "de": "Zünden Sie eine Kerze an, die Wärme und Licht spendet.",
+                "hu": "Gyújtson egy gyertyát, amely meleget és fényt áraszt a belső térben.",
+                "ro": "Aprindeți o lumânare pentru căldură și lumină în interior.",
+                "en": "Light a candle for warmth and light in the historic interior."
+              }
+            },
+            {
+              "name": "Pierides Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um die wichtigsten Fundstücke Zyperns zu bewundern.",
+                "hu": "Kellemes hely Ciprus legfontosabb régészeti leleteinek megtekintéséhez.",
+                "ro": "Un loc cald pentru a admira cele mai importante artefacte din Cipru.",
+                "en": "A warm place to admire the most important archaeological finds of Cyprus."
+              }
+            },
+            {
+              "name": "Lunch at Militzis",
+              "tip_5lang": {
+                "de": "Probieren Sie das Kleftiko, das direkt aus dem heißen Ofen kommt.",
+                "hu": "Kóstolja meg a kleftikót, amely egyenesen a forró kemencéből érkezik.",
+                "ro": "Încercați kleftiko, care vine direct din cuptorul încins.",
+                "en": "Try the kleftiko, which comes directly from the hot clay oven."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 17:00 Uhr unter; planen Sie Ihre Fotos vorher ein.",
+              "Zwiebelprinzip bei der Kleidung: Die Sonne wärmt, der Schatten ist kühl.",
+              "Winter ist die beste Zeit für die Museen, da sie kaum überlaufen sind.",
+              "Trinken Sie einen zypriotischen Kaffee, um sich zwischendurch aufzuwärmen."
+            ],
+            "hu": [
+              "A nap 17:00 körül nyugszik; a fotózást tervezze korábbra.",
+              "Öltözzön rétegesen: a napon meleg van, de árnyékban hűvös a levegő.",
+              "A tél a legjobb időszak a múzeumlátogatásra a tömeg hiánya miatt.",
+              "Igyon egy forró ciprusi kávét a városnézés közbeni felfrissüléshez."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 17:00; planificați fotografiile înainte.",
+              "Îmbrăcați-vă în straturi: la soare este cald, dar la umbră este răcoare.",
+              "Iarna este cel mai bun moment pentru muzee, fiind mult mai libere.",
+              "Beți o cafea cipriotă fierbinte pentru a vă încălzi între vizite."
+            ],
+            "en": [
+              "The sun sets around 17:00; plan your photography before that.",
+              "Dress in layers: the sun is warm, but the shade can be quite cool.",
+              "Winter is the best time for museums as they are much less crowded.",
+              "Enjoy a hot Cypriot coffee to warm up during your city walk."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -717,6 +899,188 @@
           "Use the cycle paths along the coast for a safe and scenic ride.",
           "Always lock your bike when you park it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mieten Sie ein Fahrrad mit guten Schutzblechen an der Promenade. Fahren Sie vorsichtig zur St. Lazarus Kirche. Der Weg zum Kamares-Aquädukt kann bei Regen windig sein. Ein kurzer Stopp bei der Hala Sultan Tekke bietet Schutz. Den Nachmittag am Mackenzie Beach verbringen Sie am besten in einem der Beach-Clubs. Die Rückfahrt zur Promenade erfordert bei nasser Fahrbahn erhöhte Aufmerksamkeit.",
+            "hu": "Béreljen sárvédővel felszerelt kerékpárt a sétányon. Óvatosan tekerjen a Szent Lázár-templomig. A Kamares-vízvezeték felé vezető út szeles lehet esőben. A Hala Sultan Tekke mecsetnél keressen rövid menedéket. A Mackenzie strandon válasszon egy fedett beach-clubot a pihenéshez. A visszatérés a sétányra fokozott figyelmet igényel a csúszós aszfalton.",
+            "ro": "Închiriați o bicicletă cu aripi bune pe promenadă. Mergeți cu atenție până la Biserica Sf. Lazăr. Drumul spre apeductul Kamares poate fi vântos pe ploaie. O scurtă oprire la Hala Sultan Tekke oferă adăpost. La Mackenzie Beach, alegeți un beach-club acoperit. Drumul de întoarcere necesită atenție sporită din cauza asfaltului ud.",
+            "en": "Rent a bike with good mudguards at the promenade. Cycle carefully to Saint Lazarus Church. The route to Kamares Aqueduct can be windy during rain. A short stop at Hala Sultan Tekke offers refuge. Spend your afternoon at Mackenzie Beach in one of the sheltered beach clubs. The return trip to the promenade requires extra caution on wet surfaces."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start at Finikoudes Promenade",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einer Regenponcho oder wasserdichten Satteltaschen.",
+                "hu": "Kérjen esőponcsót vagy vízálló nyeregtáskát a kölcsönzőben.",
+                "ro": "Cereți o pelerină de ploaie sau genți de bicicletă impermeabile.",
+                "en": "Ask for a rain poncho or waterproof panniers at the rental shop."
+              }
+            },
+            {
+              "name": "Church of Saint Lazarus",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Vordach gegenüber dem Eingang.",
+                "hu": "Parkolja le a kerékpárt a bejárattal szemközti előtető alatt.",
+                "ro": "Parcați bicicleta sub copertina de vizavi de intrare.",
+                "en": "Park your bike under the awning opposite the main entrance."
+              }
+            },
+            {
+              "name": "Kamares Aqueduct",
+              "tip_5lang": {
+                "de": "Achtung: Der Radweg hierher kann Pfützen bilden.",
+                "hu": "Vigyázat: az idevezető kerékpárúton tócsák alakulhatnak ki.",
+                "ro": "Atenție: pe pista de biciclete pot apărea bălți mari.",
+                "en": "Caution: large puddles can form on the cycling path here."
+              }
+            },
+            {
+              "name": "Hala Sultan Tekke & Salt Lake",
+              "tip_5lang": {
+                "de": "Die Moschee bietet einen trockenen Ort für eine Pause.",
+                "hu": "A mecset épülete száraz helyet biztosít a pihenéshez.",
+                "ro": "Clădirea moscheii oferă un loc uscat pentru odihnă.",
+                "en": "The mosque building provides a dry spot for a rest break."
+              }
+            },
+            {
+              "name": "Mackenzie Beach",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den Cafés mit Blick auf das stürmische Meer.",
+                "hu": "Keressen menedéket a kávézókban, élvezve a viharos tenger látványát.",
+                "ro": "Căutați adăpost în cafenele, admirând marea înfuriată.",
+                "en": "Seek shelter in the cafes and enjoy the view of the stormy sea."
+              }
+            },
+            {
+              "name": "Return to Finikoudes Promenade",
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig, die Bremswege verlängern sich bei Nässe.",
+                "hu": "Fékezzen időben, a fékút jelentősen meghosszabbodik vizes úton.",
+                "ro": "Frânați din timp, distanța de frânare crește pe carosabil ud.",
+                "en": "Brake early; braking distances increase significantly on wet roads."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie die unbefestigten Wege am Salzsee, sie werden extrem schlammig.",
+              "Prüfen Sie den Reifendruck für besseren Grip auf nassem Asphalt.",
+              "Wasserdichte Kleidung ist bei der Fahrt zum Aquädukt unerlässlich.",
+              "Nutzen Sie die Strandcafés bei Mackenzie als feste Pausenstationen."
+            ],
+            "hu": [
+              "Kerülje a sós-tó menti földutakat, mert rendkívül sárossá válhatnak.",
+              "Ellenőrizze a guminyomást a jobb tapadás érdekében vizes aszfalton.",
+              "A vízvezeték felé vezető úton elengedhetetlen a vízálló ruházat.",
+              "Használja a Mackenzie strand kávézóit fix pihenőpontként az esőben."
+            ],
+            "ro": [
+              "Evitați drumurile de pământ de lângă Lacul Sărat, devin foarte noroioase.",
+              "Verificați presiunea anvelopelor pentru o aderență mai bună pe asfalt ud.",
+              "Îmbrăcămintea impermeabilă este esențială pentru drumul spre apeduct.",
+              "Folosiți cafenelele de la Mackenzie ca puncte de oprire fixe pe ploaie."
+            ],
+            "en": [
+              "Avoid the dirt tracks by the Salt Lake; they become extremely muddy.",
+              "Check your tire pressure for better grip on wet asphalt surfaces.",
+              "Waterproof clothing is essential for the ride out to the aqueduct.",
+              "Use the Mackenzie Beach cafes as scheduled rest stops during the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter ist die beste Zeit zum Radfahren in Larnaca. Starten Sie an der Finikoudes-Promenade und genießen Sie die milde Luft. Die Fahrt zum Kamares-Aquädukt ist bei kühleren Temperaturen angenehmer. Das Highlight ist die Hala Sultan Tekke am Salzsee, wo Sie im Winter Flamingos beobachten können. Machen Sie eine Pause am Mackenzie Beach, bevor Sie bei Sonnenuntergang zurückkehren.",
+            "hu": "A tél a legjobb időszak a kerékpározáshoz Larnacában. Induljon a Finikoudes sétányról, és élvezze az enyhe levegőt. A Kamares-vízvezetékhez vezető út sokkal kellemesebb hőség nélkül. A nap fénypontja a Hala Sultan Tekke a sós-tó partján, ahol télen flamingókat is láthat. Tartson pihenőt a Mackenzie strandon, mielőtt naplementekor visszatekerne.",
+            "ro": "Iarna este cel mai bun moment pentru ciclism în Larnaca. Porniți de pe promenada Finikoudes și bucurați-vă de aerul blând. Drumul spre apeductul Kamares este mult mai plăcut fără caniculă. Punctul culminant este Hala Sultan Tekke de pe malul Lacului Sărat, unde puteți vedea flamingo iarna. Faceți o pauză la plaja Mackenzie înainte de a vă întoarce la apus.",
+            "en": "Winter is the prime time for cycling in Larnaca. Start at Finikoudes Promenade and enjoy the refreshing breeze. The ride to Kamares Aqueduct is far more pleasant without the summer heat. The highlight is visiting Hala Sultan Tekke by the Salt Lake, where you can spot flamingos in winter. Rest at Mackenzie Beach before cycling back during the sunset."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start at Finikoudes Promenade",
+              "tip_5lang": {
+                "de": "Nehmen Sie eine leichte Windjacke für die Fahrt am Meer mit.",
+                "hu": "Vigyen magával egy könnyű széldzsekit a tengerparti tekeréshez.",
+                "ro": "Luați o jachetă ușoară de vânt pentru plimbarea pe malul mării.",
+                "en": "Take a light windbreaker jacket for the ride along the coast."
+              }
+            },
+            {
+              "name": "Church of Saint Lazarus",
+              "tip_5lang": {
+                "de": "Im Winter ist der Platz vor der Kirche weniger überlaufen.",
+                "hu": "Télen a templom előtti tér sokkal kevésbé zsúfolt.",
+                "ro": "Iarna, piața din fața bisericii este mult mai liberă.",
+                "en": "The square in front of the church is much less crowded in winter."
+              }
+            },
+            {
+              "name": "Kamares Aqueduct",
+              "tip_5lang": {
+                "de": "Die kühle Winterluft macht den Aufstieg hierher sehr angenehm.",
+                "hu": "A hűvös téli levegő kellemessé teszi az idevezető emelkedőt.",
+                "ro": "Aerul răcoros de iarnă face urcarea până aici foarte plăcută.",
+                "en": "The cool winter air makes the slight uphill ride here very pleasant."
+              }
+            },
+            {
+              "name": "Hala Sultan Tekke & Salt Lake",
+              "tip_5lang": {
+                "de": "Halten Sie Ausschau nach Flamingos, die hier im Winter rasten.",
+                "hu": "Figyelje a flamingókat, amelyek télen itt pihennek meg.",
+                "ro": "Căutați flamingo care poposesc aici în timpul iernii.",
+                "en": "Look out for the flamingos that migrate here during the winter months."
+              }
+            },
+            {
+              "name": "Mackenzie Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie die Sonne, die im Winter nicht so intensiv brennt.",
+                "hu": "Élvezze a napsütést, amely télen nem perzsel annyira.",
+                "ro": "Bucurați-vă de soarele care nu arde atât de tare iarna.",
+                "en": "Enjoy the sunshine, which is pleasantly warm but not scorching in winter."
+              }
+            },
+            {
+              "name": "Return to Finikoudes Promenade",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückgabe vor Einbruch der Dunkelheit (ca. 17 Uhr) ein.",
+                "hu": "A kerékpár leadását tervezze sötétedés (kb. 17 óra) elé.",
+                "ro": "Planificați returnarea înainte de lăsarea întunericului (aprox. ora 17).",
+                "en": "Plan to return the bike before dark (around 17:00)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winter ist Flamingosaison am Salzsee – ein Muss für Naturfotografen.",
+              "Die Temperaturen sind ideal für längere Touren ohne Überhitzungsgefahr.",
+              "Achten Sie auf die kürzeren Tage; die Dämmerung beginnt früh.",
+              "Einige Strandbars bei Mackenzie haben auch im Winter geöffnet und sind sehr gemütlich."
+            ],
+            "hu": [
+              "A tél a flamingószezon a sós-tónál – természetfotósoknak kötelező.",
+              "A hőmérséklet ideális hosszabb túrákhoz a túlhevülés veszélye nélkül.",
+              "Ügyeljen a rövidebb nappalokra; a szürkület korán kezdődik.",
+              "Néhány Mackenzie-parti bár télen is nyitva tart, és nagyon hangulatos."
+            ],
+            "ro": [
+              "Iarna este sezonul flamingo la Lacul Sărat – obligatoriu pentru fotografi.",
+              "Temperaturile sunt ideale pentru tururi lungi fără risc de supraîncălzire.",
+              "Atenție la zilele mai scurte; amurgul începe devreme.",
+              "Unele baruri de pe plaja Mackenzie sunt deschise și iarna, fiind foarte primitoare."
+            ],
+            "en": [
+              "Winter is flamingo season at the Salt Lake – a must for nature lovers.",
+              "Temperatures are ideal for longer rides without the risk of overheating.",
+              "Be mindful of the shorter days; twilight begins early in the afternoon.",
+              "Several beach bars at Mackenzie remain open in winter and are very cozy."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1097,6 +1461,206 @@
           "Be mindful of local drivers who may have a different driving style.",
           "A GPS is highly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto sind Sie bestens gegen den Regen geschützt. Starten Sie beim Kamares-Aquädukt, wo Sie nah am Monument parken können. Die Fahrt zur Hala Sultan Tekke führt Sie am grauen Salzsee vorbei. Besuchen Sie die St. Lazarus Kirche im Zentrum, wo Parkhäuser in der Nähe sind. Die Promenade und das Schloss lassen sich gut bei kurzen Regenpausen erkunden.",
+            "hu": "Autóval tökéletes védelmet élvez az eső ellen. Kezdje a Kamares-vízvezetéknél, ahol közel tud parkolni a látnivalóhoz. Az út a Hala Sultan Tekke mecsethez a szürkés sós-tó mellett vezet. Látogassa meg a Szent Lázár-templomot a központban, ahol több parkolóház is található. A sétányt és a várat a rövidebb esőszünetekben érdemes felfedezni.",
+            "ro": "Cu mașina sunteți protejat de ploaie. Începeți la apeductul Kamares, unde puteți parca aproape de monument. Drumul spre Hala Sultan Tekke trece pe lângă Lacul Sărat gri. Vizitați Biserica Sf. Lazăr din centru, unde există parcări în apropiere. Promenada și castelul pot fi explorate în timpul scurtelor pauze de ploaie.",
+            "en": "By car, you are perfectly shielded from the rain. Start at Kamares Aqueduct, where you can park very close to the monument. The drive to Hala Sultan Tekke takes you past the misty Salt Lake. Visit Saint Lazarus Church in the center, utilizing nearby parking garages. The promenade and castle are best explored during brief breaks in the rain."
+          },
+          "stops": [
+            {
+              "name": "Start & Park near Kamares Aqueduct",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich, um den Weg im Regen zu verkürzen.",
+                "hu": "Parkoljon a lehető legközelebb, hogy elkerülje az ázást.",
+                "ro": "Parcați cât mai aproape posibil pentru a scurta drumul prin ploaie.",
+                "en": "Park as close as possible to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Drive to Salt Lake Cluster",
+              "tip_5lang": {
+                "de": "Die Straße entlang des Sees kann bei starkem Regen rutschig sein.",
+                "hu": "A tó menti út heves esőzéskor csúszóssá válhat.",
+                "ro": "Drumul de-a lungul lacului poate fi alunecos pe ploaie torențială.",
+                "en": "The road along the lake can be slippery during heavy rainfall."
+              }
+            },
+            {
+              "name": "Hala Sultan Tekke",
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Parkplatz direkt vor der Moschee.",
+                "hu": "Használja a mecset előtti aszfaltozott parkolót.",
+                "ro": "Folosiți parcarea asfaltată chiar din fața moscheii.",
+                "en": "Use the paved parking area directly in front of the mosque."
+              }
+            },
+            {
+              "name": "Walk along Larnaca Salt Lake",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Aussichtspunkten.",
+                "hu": "Maradjon a kiépített kilátópontoknál a sár elkerülése végett.",
+                "ro": "Rămâneți pe punctele de observație amenajate.",
+                "en": "Stick to the paved viewpoints to avoid the mud."
+              }
+            },
+            {
+              "name": "Drive to City Center Cluster",
+              "tip_5lang": {
+                "de": "Suchen Sie ein überdachtes Parkhaus in der Nähe von St. Lazarus.",
+                "hu": "Keressen fedett parkolóházat a Szent Lázár-templom közelében.",
+                "ro": "Căutați o parcare acoperită lângă Sf. Lazăr.",
+                "en": "Look for a covered parking garage near Saint Lazarus."
+              }
+            },
+            {
+              "name": "Church of Saint Lazarus & Lunch",
+              "tip_5lang": {
+                "de": "Der Eingang zur Kirche ist nur wenige Schritte vom Parkplatz entfernt.",
+                "hu": "A templom bejárata csak pár lépésre van a parkolóhelyektől.",
+                "ro": "Intrarea în biserică este la doar câțiva pași de parcare.",
+                "en": "The church entrance is just a few steps from the parking spots."
+              }
+            },
+            {
+              "name": "Stroll to Finikoudes Promenade & Castle",
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang, ideal für eine Regenpause.",
+                "hu": "Rövid séta, ideális egy esőmentes időszak kihasználására.",
+                "ro": "O plimbare scurtă, ideală pentru o pauză între reprizele de ploaie.",
+                "en": "A short stroll, ideal for taking advantage of a break in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser 'Finikoudes' oder 'Saint Lazarus' für trockene Wege.",
+              "Vermeiden Sie das Parken auf unbefestigten Flächen, diese werden schnell schlammig.",
+              "Die Sicht am Salzsee kann bei Regen eingeschränkt sein; fahren Sie vorsichtig.",
+              "Behalten Sie die Wetter-App im Auge, um Ausstiege in Regenpausen zu planen."
+            ],
+            "hu": [
+              "Használja a 'Finikoudes' vagy 'Saint Lazarus' parkolóházakat a száraz kijutáshoz.",
+              "Kerülje a nem aszfaltozott parkolókat, mert gyorsan elnyelheti a sár.",
+              "A látótávolság a sós-tónál csökkenhet esőben; vezessen óvatosan.",
+              "Figyelje az időjárási alkalmazást, hogy az esőszünetekre időzítse a kiszállást."
+            ],
+            "ro": [
+              "Folosiți parcările supraetajate pentru acces uscat la obiective.",
+              "Evitați parcarea pe teren neamenajat, se transformă rapid în noroi.",
+              "Vizibilitatea la Lacul Sărat poate fi redusă pe ploaie; conduceți cu atenție.",
+              "Urmăriți aplicația meteo pentru a planifica vizitele în pauzele de ploaie."
+            ],
+            "en": [
+              "Use the 'Finikoudes' or 'Saint Lazarus' parking garages for dry access.",
+              "Avoid parking on unpaved surfaces as they quickly turn into mud.",
+              "Visibility at the Salt Lake can be low during rain; drive carefully.",
+              "Check your weather app to time your visits during rain-free intervals."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Larnaca bequem mit dem Auto in der milden Wintersonne. Das Kamares-Aquädukt ist ein toller erster Stopp mit einfachem Parken. Die Fahrt entlang des Salzsees ist im Winter spektakulär, wenn Tausende Flamingos im Wasser stehen. Besuchen Sie die Hala Sultan Tekke und parken Sie dann im Zentrum, um die Kirchen und die Promenade bei angenehmen Temperaturen zu genießen.",
+            "hu": "Fedezze fel Larnacát kényelmesen, autóval az enyhe téli napsütésben. A Kamares-vízvezeték kiváló első állomás könnyű parkolással. A sós-tó menti autózás télen lenyűgöző, amikor flamingók ezrei lepik el a vizet. Látogassa meg a Hala Sultan Tekke mecsetet, majd parkoljon le a központban, és élvezze a templomokat és a sétányt.",
+            "ro": "Explorați Larnaca confortabil cu mașina în soarele blând de iarnă. Apeductul Kamares este un prim popas excelent cu parcare ușoară. Drumul pe lângă Lacul Sărat este spectaculos iarna, când mii de flamingo sunt în apă. Vizitați Hala Sultan Tekke, apoi parcați în centru pentru a vă bucura de biserici și promenadă.",
+            "en": "Explore Larnaca comfortably by car in the mild winter sunshine. Kamares Aqueduct is a great first stop with easy parking access. Driving along the Salt Lake is spectacular in winter, as thousands of flamingos fill the water. Visit Hala Sultan Tekke and then park in the center to enjoy the churches and promenade in pleasant weather."
+          },
+          "stops": [
+            {
+              "name": "Start & Park near Kamares Aqueduct",
+              "tip_5lang": {
+                "de": "Im Winter finden Sie hier fast immer sofort einen Parkplatz.",
+                "hu": "Télen szinte mindig azonnal találni parkolóhelyet a vízvezetéknél.",
+                "ro": "Iarna veți găsi aproape întotdeauna loc de parcare imediat.",
+                "en": "In winter, you'll almost always find a parking spot immediately here."
+              }
+            },
+            {
+              "name": "Drive to Salt Lake Cluster",
+              "tip_5lang": {
+                "de": "Halten Sie an den markierten Parkbuchten für Fotos der Flamingos.",
+                "hu": "Álljon meg a jelzett pihenőhelyeken a flamingók fotózásához.",
+                "ro": "Opriți în alveolele marcate pentru a fotografia păsările flamingo.",
+                "en": "Stop at the designated lay-bys to take photos of the flamingos."
+              }
+            },
+            {
+              "name": "Hala Sultan Tekke",
+              "tip_5lang": {
+                "de": "Der Garten der Moschee ist im Winter herrlich grün.",
+                "hu": "A mecset kertje télen gyönyörűen zöldell.",
+                "ro": "Grădina moscheii este superbă și verde în timpul iernii.",
+                "en": "The mosque's garden is wonderfully green during the winter months."
+              }
+            },
+            {
+              "name": "Walk along Larnaca Salt Lake",
+              "tip_5lang": {
+                "de": "Ein Spaziergang hier ist im Winter ohne die Hitze sehr erfrischend.",
+                "hu": "Egy séta itt télen, hőség nélkül, rendkívül frissítő.",
+                "ro": "O plimbare aici iarna, fără caniculă, este foarte revigorantă.",
+                "en": "A walk here in winter, without the heat, is very refreshing."
+              }
+            },
+            {
+              "name": "Drive to City Center Cluster",
+              "tip_5lang": {
+                "de": "Parken Sie zentral, um alles zu Fuß zu erreichen.",
+                "hu": "Parkoljon központi helyen, hogy mindent elérjen gyalogosan.",
+                "ro": "Parcați central pentru a ajunge la toate obiectivele pe jos.",
+                "en": "Park centrally to reach all the main sights on foot."
+              }
+            },
+            {
+              "name": "Church of Saint Lazarus & Lunch",
+              "tip_5lang": {
+                "de": "In den Nebenstraßen gibt es im Winter mehr freie Parkplätze.",
+                "hu": "A mellékutcákban télen több szabad parkolóhely akad.",
+                "ro": "Pe străzile lăturalnice găsiți mai multe locuri de parcare iarna.",
+                "en": "There are more available parking spots in the side streets in winter."
+              }
+            },
+            {
+              "name": "Stroll to Finikoudes Promenade & Castle",
+              "tip_5lang": {
+                "de": "Perfektes Wetter für einen entspannten Rundgang am Meer.",
+                "hu": "Tökéletes idő egy pihentető sétához a tengerparton.",
+                "ro": "Vreme perfectă pentru o plimbare relaxată pe malul mării.",
+                "en": "Perfect weather for a relaxed stroll along the waterfront."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie zum Sonnenuntergang zum Salzsee – die Farben sind im Winter magisch.",
+              "Parkgebühren im Zentrum sind moderat; nutzen Sie offizielle Parkplätze.",
+              "Die Fenster des Autos können morgens beschlagen sein; kurz lüften.",
+              "Nutzen Sie das Auto, um auch abgelegenere Aussichtspunkte am See zu erreichen."
+            ],
+            "hu": [
+              "Menjen a sós-tóhoz naplementekor – a színek télen varázslatosak.",
+              "A parkolási díjak a központban mérsékeltek; használja a hivatalos helyeket.",
+              "Reggelente az autó ablakai bepárásodhatnak; szellőztessen egy kicsit.",
+              "Használja az autót a tó távolabbi kilátópontjainak eléréséhez is."
+            ],
+            "ro": [
+              "Mergeți la Lacul Sărat la apus – culorile sunt magice iarna.",
+              "Taxele de parcare în centru sunt moderate; folosiți locurile oficiale.",
+              "Geamurile mașinii se pot aburi dimineața; aerisiți puțin.",
+              "Folosiți mașina pentru a ajunge și la punctele de observație mai îndepărtate."
+            ],
+            "en": [
+              "Drive to the Salt Lake for sunset – the colors are magical in winter.",
+              "Parking fees in the center are moderate; stick to official parking lots.",
+              "Car windows might fog up in the morning; ventilate for a moment.",
+              "Use the car to reach the more remote viewpoints around the lake."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1453,6 +2017,188 @@
           "Buses can be crowded during peak season.",
           "Keep small change handy for tickets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das gut ausgebaute Busnetz, um trocken durch Larnaca zu kommen. Starten Sie an der Finikoudes-Promenade, wo die zentrale Busstation ist. Die St. Lazarus Kirche ist nur ein kurzer Gang im Regen. Nehmen Sie den Bus zum Salzsee und zur Hala Sultan Tekke, um die Distanz bei schlechtem Wetter zu überbrücken. Den Nachmittag verbringen Sie beim Shopping oder im Museum, bevor Sie den Bus zurück ins Zentrum nehmen.",
+            "hu": "Használja a jól kiépített buszhálózatot, hogy szárazon járja be Larnacát. Kezdje a Finikoudes sétánynál, ahol a központi buszállomás található. A Szent Lázár-templom csak egy rövid séta. Utazzon busszal a sós-tóhoz és a Hala Sultan Tekke mecsethez, hogy elkerülje a gyaloglást az esőben. A délutánt töltse vásárlással vagy múzeumban, majd buszozzon vissza a központba.",
+            "ro": "Folosiți rețeaua de autobuze pentru a vizita Larnaca pe ploaie. Începeți la promenada Finikoudes, unde se află stația centrală. Biserica Sf. Lazăr este la doar o scurtă plimbare. Luați autobuzul spre Lacul Sărat și Hala Sultan Tekke pentru a evita mersul pe jos prin ploaie. Petreceți după-amiaza la cumpărături sau la muzeu înainte de a lua autobuzul înapoi.",
+            "en": "Utilize the efficient bus network to stay dry while exploring Larnaca. Start at Finikoudes Promenade, the site of the central bus station. Saint Lazarus Church is just a short dash through the rain. Take a bus to the Salt Lake and Hala Sultan Tekke to cover the distance in bad weather. Spend your afternoon shopping or in a museum before catching a bus back to the center."
+          },
+          "stops": [
+            {
+              "name": "Arrive at Central Bus Station & Walk to Finikoudes Promenade",
+              "tip_5lang": {
+                "de": "Die Busstation ist teilweise überdacht, ideal zum Warten.",
+                "hu": "A buszállomás részben fedett, ideális a várakozáshoz.",
+                "ro": "Stația de autobuz este parțial acoperită, ideală pentru așteptare.",
+                "en": "The bus station is partially sheltered, ideal for waiting."
+              }
+            },
+            {
+              "name": "Church of Saint Lazarus",
+              "tip_5lang": {
+                "de": "Nutzen Sie die nahen Bushaltestellen, um Fußwege zu minimieren.",
+                "hu": "Használja a közeli buszmegállókat a gyaloglás minimalizálására.",
+                "ro": "Folosiți stațiile de autobuz din apropiere pentru a merge cât mai puțin.",
+                "en": "Use the nearby bus stops to minimize walking distance."
+              }
+            },
+            {
+              "name": "Larnaca Castle & Museum",
+              "tip_5lang": {
+                "de": "Die Burg ist ein guter Ort, um einen Regenschauer auszusitzen.",
+                "hu": "A vár kiváló hely egy esőszünet kivárására.",
+                "ro": "Castelul este un loc bun pentru a aștepta trecerea unei ploi.",
+                "en": "The castle is a good spot to wait out a passing rain shower."
+              }
+            },
+            {
+              "name": "Bus to Salt Lake Cluster",
+              "tip_5lang": {
+                "de": "Überprüfen Sie die Abfahrtszeiten per App, um nicht im Regen zu stehen.",
+                "hu": "Ellenőrizze az indulást applikáción, hogy ne ázzon a megállóban.",
+                "ro": "Verificați orele în aplicație pentru a nu aștepta în ploaie.",
+                "en": "Check departure times on the app to avoid waiting in the rain."
+              }
+            },
+            {
+              "name": "Hala Sultan Tekke & Lunch Nearby",
+              "tip_5lang": {
+                "de": "In der Nähe der Tekke gibt es überdachte Plätze für eine Rast.",
+                "hu": "A Tekke közelében találhatók fedett helyek a pihenéshez.",
+                "ro": "Lângă Tekke există locuri acoperite pentru odihnă.",
+                "en": "There are sheltered areas near the Tekke for a quick rest."
+              }
+            },
+            {
+              "name": "Bus back to Center & Souvenir Shopping",
+              "tip_5lang": {
+                "de": "Die Läden im Zentrum sind meist überdacht oder nah beieinander.",
+                "hu": "A központi üzletek közel vannak egymáshoz, keveset kell ázni.",
+                "ro": "Magazinele din centru sunt aproape unele de altele, deci veți sta puțin în ploaie.",
+                "en": "The shops in the center are close together, minimizing time in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die 'Pame' App hilft Ihnen, die Busse in Echtzeit zu verfolgen.",
+              "Halten Sie Kleingeld oder eine Motion-Card für den Fahrpreis bereit.",
+              "Busse können bei Regen etwas verspätet sein; planen Sie Pufferzeit ein.",
+              "Die zentrale Station an der Finikoudes-Promenade ist der beste Umstiegspunkt."
+            ],
+            "hu": [
+              "A 'Pame' alkalmazás segít a buszok valós idejű követésében.",
+              "Készítsen elő aprópénzt vagy Motion-kártyát a jegyvásárláshoz.",
+              "Esőben a buszok kicsit késhetnek; tervezzen be némi pufferidőt.",
+              "A Finikoudes sétánynál lévő központi állomás a legjobb átszállási pont."
+            ],
+            "ro": [
+              "Aplicația 'Pame' vă ajută să urmăriți autobuzele în timp real.",
+              "Pregătiți mărunțiș sau un card Motion pentru plata călătoriei.",
+              "Autobuzele pot avea mici întârzieri pe ploaie; planificați timp suplimentar.",
+              "Stația centrală de pe promenada Finikoudes este cel mai bun punct de legătură."
+            ],
+            "en": [
+              "The 'Pame' app helps you track buses in real-time.",
+              "Have small change or a Motion card ready for the bus fare.",
+              "Buses might be slightly delayed during rain; allow for some buffer time.",
+              "The central station at Finikoudes Promenade is the best interchange point."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Larnaca im Winter mit den öffentlichen Verkehrsmitteln. Die Busse sind klimatisiert und im Winter angenehm leer. Starten Sie an der Finikoudes-Promenade und besuchen Sie die historischen Stätten im Zentrum. Eine Busfahrt zum Salzsee ist im Winter besonders lohnenswert, um die Flamingos zu sehen. Nach einem Besuch der Hala Sultan Tekke bringt Sie der Bus zurück zum Shopping ins belebte Zentrum.",
+            "hu": "Élvezze Larnacát télen tömegközlekedéssel. A buszok télen kellemesen üresek. Induljon a Finikoudes sétányról, és látogassa meg a központi történelmi helyszíneket. Egy buszos kirándulás a sós-tóhoz télen különösen megéri a flamingók látványa miatt. A Hala Sultan Tekke meglátogatása után a busz visszaviszi Önt a központba egy kis vásárlásra.",
+            "ro": "Bucurați-vă de Larnaca iarna folosind transportul public. Autobuzele sunt mult mai libere în acest sezon. Porniți de la promenada Finikoudes și vizitați siturile istorice din centru. O călătorie cu autobuzul la Lacul Sărat merită din plin iarna pentru a vedea păsările flamingo. După vizitarea Hala Sultan Tekke, autobuzul vă readuce în centru.",
+            "en": "Enjoy Larnaca in winter using public transportation. Buses are pleasantly uncrowded during this season. Start at Finikoudes Promenade and visit the historical sites in the center. A bus trip to the Salt Lake is especially rewarding in winter to see the flamingos. After visiting Hala Sultan Tekke, the bus will take you back to the center for some shopping."
+          },
+          "stops": [
+            {
+              "name": "Arrive at Central Bus Station & Walk to Finikoudes Promenade",
+              "tip_5lang": {
+                "de": "Im Winter ist der Spaziergang von der Station zum Meer sehr erfrischend.",
+                "hu": "Télen a séta az állomástól a tengerpartig nagyon frissítő.",
+                "ro": "Iarna, plimbarea de la stație până la malul mării este foarte revigorantă.",
+                "en": "In winter, the walk from the station to the seafront is very refreshing."
+              }
+            },
+            {
+              "name": "Church of Saint Lazarus",
+              "tip_5lang": {
+                "de": "Die Busse halten direkt in der Nähe der Kirche.",
+                "hu": "A buszok közvetlenül a templom közelében állnak meg.",
+                "ro": "Autobuzele opresc chiar în apropierea bisericii.",
+                "en": "Buses stop very close to the church, making access easy."
+              }
+            },
+            {
+              "name": "Larnaca Castle & Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos von der Burg.",
+                "hu": "Használja ki a tiszta téli fényeket a vár fotózásához.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii cu castelul.",
+                "en": "Take advantage of the crisp winter light for photos of the castle."
+              }
+            },
+            {
+              "name": "Bus to Salt Lake Cluster",
+              "tip_5lang": {
+                "de": "Die Linie 425 bringt Sie bequem direkt zum Salzsee.",
+                "hu": "A 425-ös járat kényelmesen, közvetlenül a sós-tóhoz viszi.",
+                "ro": "Linia 425 vă duce confortabil direct la Lacul Sărat.",
+                "en": "Bus line 425 takes you conveniently directly to the Salt Lake."
+              }
+            },
+            {
+              "name": "Hala Sultan Tekke & Lunch Nearby",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe an diesem Ort in der Nebensaison.",
+                "hu": "Élvezze a hely nyugalmát az utószezonban.",
+                "ro": "Bucurați-vă de liniștea locului în afara sezonului turistic.",
+                "en": "Enjoy the tranquility of this spiritual site during the off-season."
+              }
+            },
+            {
+              "name": "Bus back to Center & Souvenir Shopping",
+              "tip_5lang": {
+                "de": "Die Busse fahren regelmäßig zurück zum zentralen Knotenpunkt.",
+                "hu": "A buszok rendszeresen járnak vissza a központi csomóponthoz.",
+                "ro": "Autobuzele circulă regulat înapoi spre nodul central.",
+                "en": "Buses run regularly back to the central hub at the promenade."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können im Winter leicht abweichen; prüfen Sie die Aushänge.",
+              "Die Fahrt zum Salzsee ist im Winter wegen der Flamingos ein Transit-Muss.",
+              "Nutzen Sie Tagestickets, wenn Sie mehr als drei Fahrten planen.",
+              "Die Busse sind im Winter gut beheizt und bieten eine angenehme Pause."
+            ],
+            "hu": [
+              "A menetrendek télen kissé eltérhetnek; ellenőrizze a táblákat.",
+              "A sós-tóhoz való buszozás télen a flamingók miatt kötelező program.",
+              "Használjon napijegyet, ha háromnál több utazást tervez.",
+              "A buszok télen jól fűtöttek, így kellemes pihenőt nyújtanak két séta között."
+            ],
+            "ro": [
+              "Orarele pot varia ușor iarna; verificați panourile din stații.",
+              "Călătoria cu autobuzul la Lacul Sărat este obligatorie iarna pentru flamingo.",
+              "Folosiți bilete de o zi dacă plănuiți mai mult de trei călătorii.",
+              "Autobuzele sunt bine încălzite iarna și oferă o pauză plăcută între vizite."
+            ],
+            "en": [
+              "Schedules might vary slightly in winter; check the station boards.",
+              "Taking the bus to the Salt Lake is a must in winter for flamingo spotting.",
+              "Use a day pass if you plan to make more than three trips.",
+              "Buses are well-heated in winter, offering a cozy break between sights."
+            ]
+          }
+        }
       }
     }
   }

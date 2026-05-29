@@ -367,6 +367,206 @@
         "en": [
           "Wear comfortable shoes as you will be walking a lot. Most of the sights in the center are easily accessible on foot. Plan a lunch break in one of the restaurants around the Main Square. Many museums are closed on Mondays, so check the opening hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag unter den schützenden Arkaden des Hauptplatzes. Der Dom bietet einen trockenen und besinnlichen Rückzugsort am Vormittag. Mittags lockt das Museum St. Peter an der Sperr mit Kultur im Trockenen. Den Nachmittag verbringen Sie in den unterirdischen Kasematten, wo das Wetter keine Rolle spielt. Ein gemütlicher Ausklang in der Akademie-Nähe rundet den Tag ab.",
+            "hu": "Kezdje a napot a Fő tér árkádjai alatt, amelyek védelmet nyújtanak az eső ellen. Délelőtt a Dóm belső tere nyújt száraz menedéket. A délutánt töltse a Szent Péter múzeumban és a földalatti Kazamatákban, ahol az időjárás nem zavarja a felfedezést. Az utat a Katonai Akadémia történelmi falai között zárja, ahol szintén fedett helyen maradhat.",
+            "ro": "Începeți ziua sub arcadele Pieței Principale, ideale pentru a evita ploaia. Catedrala oferă un refugiu spiritual și uscat în timpul dimineții. La prânz, vizitați Muzeul St. Peter an der Sperr, iar după-amiaza explorați Cazematele subterane, unde sunteți protejat de intemperii. Încheiați ziua la Academia Militară, admirând arhitectura dintr-un unghi ferit.",
+            "en": "Start your day under the protective arcades of the Main Square. The Cathedral provides a dry and peaceful refuge for the morning. Spend the rainy midday in the Museum St. Peter an der Sperr. In the afternoon, the underground Casemates offer a weather-proof exploration of history. End your walk at the Military Academy, staying mostly indoors."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge zum Unterstellen.",
+                "hu": "Használja a tereket övező árkádokat esőben.",
+                "ro": "Folosiți arcadele pieței pentru a rămâne uscat.",
+                "en": "Use the arcades around the square to stay dry."
+              }
+            },
+            {
+              "name": "Marian Column",
+              "tip_5lang": {
+                "de": "Ein kurzes Foto unter dem Regenschirm.",
+                "hu": "Csak egy gyors fotó az esernyő alól.",
+                "ro": "O fotografie rapidă sub umbrelă.",
+                "en": "Just a quick photo stop under the umbrella."
+              }
+            },
+            {
+              "name": "Cathedral of Wiener Neustadt",
+              "tip_5lang": {
+                "de": "Perfekt, um den starken Regen abzuwarten.",
+                "hu": "Tökéletes hely a komolyabb zápor kivárására.",
+                "ro": "Locul perfect pentru a aștepta trecerea ploii.",
+                "en": "Perfect place to wait out a heavy shower."
+              }
+            },
+            {
+              "name": "St. Peter an der Sperr Museum",
+              "tip_5lang": {
+                "de": "Garderobe für nasse Mäntel vorhanden.",
+                "hu": "Ruhatár elérhető a vizes kabátoknak.",
+                "ro": "Garderobă disponibilă pentru hainele ude.",
+                "en": "Cloakroom available for wet coats."
+              }
+            },
+            {
+              "name": "Casemates & Reckturm Tower",
+              "tip_5lang": {
+                "de": "Die Kasematten sind komplett überdacht.",
+                "hu": "A kazamaták teljesen fedett, száraz terület.",
+                "ro": "Cazematele sunt complet acoperite și uscate.",
+                "en": "The Casemates are fully covered and dry."
+              }
+            },
+            {
+              "name": "Theresian Military Academy",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Georgskirche im Inneren.",
+                "hu": "Látogassa meg a belső Szent György-templomot.",
+                "ro": "Vizitați Biserica Sf. Gheorghe din interior.",
+                "en": "Visit the St. George's Cathedral inside."
+              }
+            },
+            {
+              "name": "Neukloster Abbey",
+              "tip_5lang": {
+                "de": "Die Bibliothek ist ein wunderbarer Zufluchtsort.",
+                "hu": "A könyvtár csodálatos menedék esőben.",
+                "ro": "Biblioteca este un refugiu minunat pe ploaie.",
+                "en": "The library is a wonderful indoor sanctuary."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da der Wind am Hauptplatz ziehen kann.",
+              "Nutzen Sie die Innenhöfe der Museen für Pausen.",
+              "Viele Cafés am Hauptplatz haben überdachte Außenbereiche.",
+              "Die Gehwege können bei Nässe rutschig sein."
+            ],
+            "hu": [
+              "Vigyen szélálló esernyőt, mert a Fő téren erős lehet a huzat.",
+              "Használja ki a múzeumok belső udvarait a pihenéshez.",
+              "Sok főtéri kávézó rendelkezik fedett terasszal.",
+              "A nedves macskaköveken óvatosan közlekedjen."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, vântul poate fi puternic în Piața Mare.",
+              "Folosiți curțile interioare ale muzeelor pentru pauze.",
+              "Multe cafenele au zone exterioare acoperite.",
+              "Atenție la pavajul umed, poate fi alunecos."
+            ],
+            "en": [
+              "Bring a sturdy umbrella as it can be windy on the Main Square.",
+              "Take advantage of museum inner courtyards for breaks.",
+              "Many cafes on the square have covered seating.",
+              "Be careful on wet cobblestones, they can be slippery."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wiener Neustadt im Winter versprüht einen kühlen, historischen Charme. Beginnen Sie am Hauptplatz, wo oft Lichterglanz herrscht. Der Dom bietet Wärme für eine kurze Besinnung. Das Museum St. Peter an der Sperr ist der ideale Ort für den kalten Mittag. Da es früh dunkel wird, leuchten die Kasematten und die Akademie am späten Nachmittag besonders stimmungsvoll in der Dämmerung.",
+            "hu": "Bécsújhely télen hűvös, történelmi bájt áraszt. Kezdje a Fő téren, ahol az ünnepi fények dominálnak. A Dóm belső tere meleg pihenőt nyújt délelőtt. A Szent Péter múzeum kiváló választás a hideg elől. Mivel korán sötétedik, a Kazamaták és az Akadémia fényei különleges hangulatot árasztanak a késő délutáni szürkületben.",
+            "ro": "Wiener Neustadt iarna are un farmec istoric aparte. Începeți în Piața Mare, unde luminile de sărbătoare creează o atmosferă magică. Catedrala oferă un răgaz călduros. Muzeul St. Peter an der Sperr este ideal pentru orele reci de prânz. Deoarece se întunecă devreme, Cazematele și Academia sunt luminate spectaculos spre seară.",
+            "en": "Wiener Neustadt in winter exudes a cool, historical charm. Start at the Main Square, often adorned with festive lights. The Cathedral offers warmth for a morning break. The Museum St. Peter an der Sperr is the perfect place for a chilly midday. As dusk falls early, the Casemates and Academy glow beautifully in the winter twilight."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Punsch am Markt.",
+                "hu": "Élvezzen egy forró puncsot a piacon.",
+                "ro": "Savurați un punch fierbinte în piață.",
+                "en": "Enjoy a hot punch at the market stands."
+              }
+            },
+            {
+              "name": "Marian Column",
+              "tip_5lang": {
+                "de": "Kaltes Metall, nur aus der Ferne bewundern.",
+                "hu": "Hideg fém, inkább csak távolról csodálja.",
+                "ro": "Metal rece, admirați-o de la distanță.",
+                "en": "Cold metal, better to admire from a distance."
+              }
+            },
+            {
+              "name": "Cathedral of Wiener Neustadt",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und relativen Wärme.",
+                "hu": "A csend és a viszonylagos meleg helyszíne.",
+                "ro": "Un loc de liniște și căldură relativă.",
+                "en": "A place of silence and relative warmth."
+              }
+            },
+            {
+              "name": "St. Peter an der Sperr Museum",
+              "tip_5lang": {
+                "de": "Perfekt geheizte Ausstellungsräume.",
+                "hu": "Kiválóan fűtött kiállítóterek.",
+                "ro": "Săli de expoziție bine încălzite.",
+                "en": "Perfectly heated exhibition rooms."
+              }
+            },
+            {
+              "name": "Casemates & Reckturm Tower",
+              "tip_5lang": {
+                "de": "Warme Kleidung für die dicken Mauern nötig.",
+                "hu": "Meleg ruha kell a vastag falak között.",
+                "ro": "Haine groase necesare între zidurile reci.",
+                "en": "Warm clothing needed inside the thick walls."
+              }
+            },
+            {
+              "name": "Theresian Military Academy",
+              "tip_5lang": {
+                "de": "Der Park ist bei Schnee besonders fotogen.",
+                "hu": "A park hóban különösen fotogén.",
+                "ro": "Parcul este foarte fotogenic pe zăpadă.",
+                "en": "The park is especially photogenic in snow."
+              }
+            },
+            {
+              "name": "Neukloster Abbey",
+              "tip_5lang": {
+                "de": "Besuch des gotischen Kreuzgangs im Winter.",
+                "hu": "A gótikus keresztfolyosó télen is lenyűgöző.",
+                "ro": "Claustrul gotic este fascinant și iarna.",
+                "en": "The Gothic cloister is fascinating in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie festes Schuhwerk gegen Kälte und Glätte.",
+              "Die Sonne geht gegen 16:30 Uhr unter, planen Sie Fotos früher.",
+              "Wärmen Sie sich in den Konditoreien am Hauptplatz auf.",
+              "Handschuhe sind für den Weg zur Akademie ratsam."
+            ],
+            "hu": [
+              "Viseljen meleg, csúszásmentes lábbelit.",
+              "A nap 16:30 körül nyugszik, a fotókat tervezze korábbra.",
+              "Melegedjen fel a főtéri cukrászdákban.",
+              "Kesztyű viselése ajánlott az Akadémia felé tartó sétához."
+            ],
+            "ro": [
+              "Purtați încălțăminte călduroasă și aderentă.",
+              "Soarele apune în jur de 16:30, planificați pozele mai devreme.",
+              "Încălziți-vă în cofetăriile din Piața Mare.",
+              "Mănușile sunt recomandate pentru plimbarea spre Academie."
+            ],
+            "en": [
+              "Wear warm, non-slip footwear.",
+              "Sunset is around 4:30 PM, plan photos accordingly.",
+              "Warm up in the traditional pastry shops on the square.",
+              "Gloves are recommended for the walk to the Academy."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -751,6 +951,224 @@
         "en": [
           "Use the city's bike paths to ride safely. A bike lock is essential. Plan extra time for getting on and off and securing the bike. A small backpack for water and snacks is practical."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht, ist aber erfrischend. Rollen Sie vom Hauptplatz zum Dom. Mittags bietet das Museum eine lange Pause im Trockenen. Die Fahrt zu den Kasematten und zum Wasserturm führt über asphaltierte Wege. Planen Sie mehr Zeit für die Besichtigungen im Innenbereich ein, um sich aufzuwärmen und zu trocknen.",
+            "hu": "Az esős kerékpározás óvatosságot igényel, de frissítő élmény. Guruljon a Fő térről a Dómhoz. Délben a múzeum hosszú, száraz pihenőt kínál. A Kazamatákhoz és a Víztoronyhoz vezető út aszfaltozott. Tervezzen több időt a belső látogatásokra, hogy legyen ideje megszáradni a megállók között.",
+            "ro": "O tură cu bicicleta pe ploaie necesită atenție, dar este revigorantă. Pedalați de la Piața Mare la Catedrală. La prânz, muzeul oferă o pauză lungă și uscată. Drumul spre Cazemate și Turnul de Apă este asfaltat. Alocați mai mult timp vizitelor interioare pentru a vă usca.",
+            "en": "Cycling in the rain requires caution but is refreshing. Roll from the Main Square to the Cathedral. At midday, the museum offers a long dry break. The route to the Casemates and Water Tower is on paved paths. Plan more time for indoor visits to dry off between stops."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster.",
+                "hu": "Vigyázat a nedves macskaköveken.",
+                "ro": "Atenție la pavajul umed.",
+                "en": "Be careful on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Cathedral of Wiener Neustadt",
+              "tip_5lang": {
+                "de": "Fahrradständer direkt vor dem Dom.",
+                "hu": "Kerékpártárolók közvetlenül a Dóm előtt.",
+                "ro": "Suporturi de biciclete direct în fața catedralei.",
+                "en": "Bike racks right in front of the cathedral."
+              }
+            },
+            {
+              "name": "Casemates",
+              "tip_5lang": {
+                "de": "Sicherer Unterstand für Fahrräder in der Nähe.",
+                "hu": "Biztonságos fedett tároló a közelben.",
+                "ro": "Adăpost sigur pentru biciclete în apropiere.",
+                "en": "Secure sheltered bike parking nearby."
+              }
+            },
+            {
+              "name": "Theresian Military Academy",
+              "tip_5lang": {
+                "de": "Die Wege im Park können matschig sein.",
+                "hu": "A park útjai sarasak lehetnek.",
+                "ro": "Aleile din parc pot fi noroioase.",
+                "en": "Park paths might be muddy."
+              }
+            },
+            {
+              "name": "Water Tower",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, Boden ist oft rutschig.",
+                "hu": "Rövid megálló, a talaj csúszós lehet.",
+                "ro": "Oprire scurtă, terenul poate fi alunecos.",
+                "en": "Short stop, ground is often slippery."
+              }
+            },
+            {
+              "name": "St. Peter an der Sperr Museum",
+              "tip_5lang": {
+                "de": "Ideal für eine lange Regenpause.",
+                "hu": "Ideális egy hosszú esőszünetre.",
+                "ro": "Ideal pentru o pauză lungă de ploaie.",
+                "en": "Ideal for a long rain break."
+              }
+            },
+            {
+              "name": "Neukloster Abbey",
+              "tip_5lang": {
+                "de": "Guter Wetterschutz im Eingangsbereich.",
+                "hu": "Jó időjárás elleni védelem a bejáratnál.",
+                "ro": "Protecție bună la intrare.",
+                "en": "Good weather protection at the entrance."
+              }
+            },
+            {
+              "name": "Reckturm Tower",
+              "tip_5lang": {
+                "de": "Schneller Blick und weiter ins Trockene.",
+                "hu": "Gyors pillantás, majd irány a fedett rész.",
+                "ro": "Privire rapidă și înapoi la adăpost.",
+                "en": "Quick look and then back to cover."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt.",
+              "Tragen Sie wasserfeste Kleidung und Handschuhe.",
+              "Vermeiden Sie abrupte Kurven auf Markierungen.",
+              "Ein Sattelüberzug hält Ihren Sitz trocken."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fékeket.",
+              "Viseljen vízálló ruházatot és kesztyűt.",
+              "Kerülje a hirtelen kanyarodást az útburkolati jeleken.",
+              "Egy nyeregvédő szárazon tartja az ülést."
+            ],
+            "ro": [
+              "Verificați frânele înainte de plecare.",
+              "Purtați haine și mănuși impermeabile.",
+              "Evitați virajele bruște pe marcajele rutiere.",
+              "O husă de șa vă menține scaunul uscat."
+            ],
+            "en": [
+              "Check your brakes before starting.",
+              "Wear waterproof clothing and gloves.",
+              "Avoid sharp turns on road markings.",
+              "A saddle cover keeps your seat dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Wiener Neustadt ist erfrischend. Der Hauptplatz glänzt im Frost, der Dom bietet eine Aufwärmpause. Mittags ist das Museum der perfekte warme Stopp. Die Fahrt zum Wasserturm erfordert Vorsicht wegen möglicher Glätte. Beenden Sie die Tour frühzeitig, bevor die Kälte nach Sonnenuntergang zu stark wird.",
+            "hu": "A téli biciklizés Bécsújhelyen frissítő élmény. A Fő tér fagyos ragyogása után a Dóm kínál melegedőt. Délben a múzeum a tökéletes megálló a hideg elől. A Víztorony felé tartó út óvatosságot igényel az esetleges jegesedés miatt. Zárja a túrát időben, mielőtt naplemente után túl nagy lenne a hideg.",
+            "ro": "Ciclismul de iarnă în Wiener Neustadt este revigorant. Piața Mare strălucește în îngheț, iar Catedrala oferă o pauză pentru încălzire. La prânz, muzeul este refugiul perfect. Drumul spre Turnul de Apă necesită atenție sporită la polei. Încheiați turul devreme, înainte de gerul serii.",
+            "en": "Winter cycling in Wiener Neustadt is exhilarating. The Main Square sparkles in frost, followed by a warm break at the Cathedral. Midday at the museum is the perfect escape from the cold. The ride to the Water Tower requires caution due to potential ice. Finish your tour early before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Achtung bei überfrorener Nässe.",
+                "hu": "Vigyázat a ráfagyott nedvességgel.",
+                "ro": "Atenție la polei pe pavaj.",
+                "en": "Watch out for black ice on the stones."
+              }
+            },
+            {
+              "name": "Cathedral of Wiener Neustadt",
+              "tip_5lang": {
+                "de": "Innen ist es angenehm temperiert.",
+                "hu": "Odabent kellemes a hőmérséklet.",
+                "ro": "Interiorul este temperat plăcut.",
+                "en": "The interior is pleasantly tempered."
+              }
+            },
+            {
+              "name": "Casemates",
+              "tip_5lang": {
+                "de": "Kühle, aber windgeschützte Mauern.",
+                "hu": "Hűvös, de szélvédett falak.",
+                "ro": "Ziduri reci, dar ferite de vânt.",
+                "en": "Chilly but wind-protected walls."
+              }
+            },
+            {
+              "name": "Theresian Military Academy",
+              "tip_5lang": {
+                "de": "Parkwege können bei Frost hart sein.",
+                "hu": "A park útjai fagyban kemények lehetnek.",
+                "ro": "Aleile pot fi înghețate în parc.",
+                "en": "Park paths can be hard and frozen."
+              }
+            },
+            {
+              "name": "Water Tower",
+              "tip_5lang": {
+                "de": "Kurzer Halt für ein Winterfoto.",
+                "hu": "Rövid megálló egy téli fotóra.",
+                "ro": "Oprire scurtă pentru o poză de iarnă.",
+                "en": "Short stop for a winter photo."
+              }
+            },
+            {
+              "name": "St. Peter an der Sperr Museum",
+              "tip_5lang": {
+                "de": "Beste Zeit zum Aufwärmen.",
+                "hu": "A legjobb idő a felmelegedésre.",
+                "ro": "Cel mai bun moment pentru încălzire.",
+                "en": "Best time to warm up."
+              }
+            },
+            {
+              "name": "Neukloster Abbey",
+              "tip_5lang": {
+                "de": "Ruhepol in der Winterkälte.",
+                "hu": "Nyugalom szigete a téli hidegben.",
+                "ro": "Loc de liniște în gerul iernii.",
+                "en": "A peaceful spot in the winter cold."
+              }
+            },
+            {
+              "name": "Reckturm Tower",
+              "tip_5lang": {
+                "de": "Schöne Beleuchtung in der Dämmerung.",
+                "hu": "Szép világítás a szürkületben.",
+                "ro": "Iluminare frumoasă la amurg.",
+                "en": "Beautiful lighting at twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf funktionierendes Licht am Fahrrad.",
+              "Zwiebelprinzip bei der Kleidung schützt vor Wind.",
+              "Vermeiden Sie schattige Waldwege (Eisgefahr).",
+              "Warmer Tee in der Thermoskanne hilft."
+            ],
+            "hu": [
+              "Ellenőrizze, hogy működnek-e a lámpák.",
+              "Réteges öltözködéssel védekezzen a szél ellen.",
+              "Kerülje az árnyékos utakat a jegesedés miatt.",
+              "A termoszban vitt meleg tea sokat segít."
+            ],
+            "ro": [
+              "Asigurați-vă că luminile bicicletelei funcționează.",
+              "Îmbrăcați-vă în straturi împotriva vântului.",
+              "Evitați zonele umbrite din cauza gheții.",
+              "Un ceai cald într-un termos este de mare ajutor."
+            ],
+            "en": [
+              "Ensure your bike lights are working properly.",
+              "Dress in layers to protect against the wind.",
+              "Avoid shaded areas where ice lingers.",
+              "A thermos with warm tea is helpful."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1119,6 +1537,206 @@
         "en": [
           "Find out about the parking fees in the parking garages. Parking can be expensive on weekdays. Pay attention to the one-way streets in the city center. A navigation system is helpful. Do not leave valuables in the car, not even for a short time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Wiener Neustadt auch bei Regen komfortabel zu erkunden. Parken Sie zentral für den Hauptplatz und den Dom. Das Museum St. Peter bietet ein langes Kulturprogramm im Trockenen. Nutzen Sie die Parkmöglichkeiten bei der Militärakademie für die südlichen Sehenswürdigkeiten. So bleiben die Wege im Regen kurz und effizient.",
+            "hu": "Autóval Bécsújhely esőben is kényelmesen felfedezhető. Parkoljon központilag a Fő tér és a Dóm közelében. A Szent Péter múzeum hosszú, száraz kulturális programot kínál. Használja a Katonai Akadémia melletti parkolókat a déli látnivalókhoz, így minimálisra csökkentve az esőben töltött időt.",
+            "ro": "Cu mașina, Wiener Neustadt este confortabil de explorat chiar și pe ploaie. Parcați central pentru Piața Mare și Catedrală. Muzeul oferă un program cultural lung la adăpost. Folosiți parcările de lângă Academia Militară pentru obiectivele din sud, menținând drumurile prin ploaie scurte.",
+            "en": "By car, Wiener Neustadt is comfortable to explore even in the rain. Park centrally for the Main Square and Cathedral. The St. Peter Museum offers a long cultural program indoors. Use the parking facilities near the Military Academy for southern sights, keeping walking distances in the rain short."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking (Cluster A)",
+              "tip_5lang": {
+                "de": "Tiefgarage bietet Schutz beim Aussteigen.",
+                "hu": "A mélygarázs védelmet nyújt kiszálláskor.",
+                "ro": "Parcarea subterană oferă protecție la coborâre.",
+                "en": "Underground parking offers shelter when exiting."
+              }
+            },
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Nahegelegene Cafés für Regenpausen nutzen.",
+                "hu": "Közeli kávézók esőszünetnek.",
+                "ro": "Cafenele apropiate pentru pauze de ploaie.",
+                "en": "Nearby cafes for rain breaks."
+              }
+            },
+            {
+              "name": "Cathedral of Wiener Neustadt",
+              "tip_5lang": {
+                "de": "Kurzer Laufweg vom Parkplatz.",
+                "hu": "Rövid séta a parkolótól.",
+                "ro": "Drum scurt de la parcare.",
+                "en": "Short walk from the parking area."
+              }
+            },
+            {
+              "name": "St. Peter an der Sperr Museum",
+              "tip_5lang": {
+                "de": "Perfekt für trübe Stunden.",
+                "hu": "Tökéletes a borús órákra.",
+                "ro": "Perfect pentru orele mohorâte.",
+                "en": "Perfect for gloomy hours."
+              }
+            },
+            {
+              "name": "Military Academy Parking (Cluster B)",
+              "tip_5lang": {
+                "de": "Parkplatz oft direkt beim Eingang.",
+                "hu": "Parkoló gyakran közvetlenül a bejáratnál.",
+                "ro": "Parcare adesea chiar la intrare.",
+                "en": "Parking often available right at the entrance."
+              }
+            },
+            {
+              "name": "Theresian Military Academy",
+              "tip_5lang": {
+                "de": "Innenbesichtigung sehr lohnenswert.",
+                "hu": "A belső látogatás nagyon megéri.",
+                "ro": "Vizita interioară merită din plin.",
+                "en": "Indoor tour is very worthwhile."
+              }
+            },
+            {
+              "name": "Casemates & Reckturm Tower",
+              "tip_5lang": {
+                "de": "Unterirdisch und wetterfest.",
+                "hu": "Földalatti és időjárásálló.",
+                "ro": "Subteran și rezistent la intemperii.",
+                "en": "Underground and weather-proof."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Tiefgaragen im Zentrum.",
+              "Achten Sie auf Aquaplaning auf der B17.",
+              "Halten Sie Kleingeld für Parkautomaten bereit.",
+              "Ein Regenschirm im Auto ist Pflicht."
+            ],
+            "hu": [
+              "Használja a belvárosi mélygarázsokat.",
+              "Vigyázzon a vízenfutásra a B17-es úton.",
+              "Legyen aprópénze a parkolóautomatákhoz.",
+              "Az esernyő kötelező kellék az autóban."
+            ],
+            "ro": [
+              "Folosiți parcările subterane din centru.",
+              "Atenție la acvaplanare pe drumul B17.",
+              "Aveți mărunțiș pentru automatele de parcare.",
+              "O umbrelă în mașină este obligatorie."
+            ],
+            "en": [
+              "Use underground parking in the center.",
+              "Watch out for aquaplaning on the B17 road.",
+              "Keep small change ready for parking meters.",
+              "An umbrella in the car is a must."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wiener Neustadt lässt sich im Winter ideal mit dem Auto kombinieren. Genießen Sie die Fahrt durch die beleuchtete Stadt. Parken Sie warm in den Garagen und besuchen Sie den festlichen Hauptplatz. Das Museum und die Akademie bieten Schutz vor der klirrenden Kälte. Der späte Nachmittag bei den Kasematten ist besonders stimmungsvoll, wenn die Lichter der Stadt angehen.",
+            "hu": "Bécsújhely télen ideálisan felfedezhető autóval. Élvezze az utat a kivilágított városon át. Parkoljon a garázsokban, és látogasson el az ünnepi Fő térre. A múzeum és az Akadémia védelmet nyújt a metsző hideg elől. A késő délután a Kazamatáknál különösen hangulatos, amikor kigyúlnak a város fényei.",
+            "ro": "Wiener Neustadt se explorează ideal cu mașina iarna. Bucurați-vă de drumul prin orașul iluminat. Parcați în siguranță și vizitați Piața Mare festivă. Muzeul și Academia oferă protecție împotriva gerului. Amurgul la Cazemate este spectaculos când se aprind luminile orașului.",
+            "en": "Wiener Neustadt is ideal to combine with a car in winter. Enjoy driving through the illuminated city. Park in warm garages and visit the festive Main Square. The museum and Academy provide shelter from the biting cold. Late afternoon at the Casemates is atmospheric as city lights begin to twinkle."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking (Cluster A)",
+              "tip_5lang": {
+                "de": "Eisfreies Einsteigen in der Garage.",
+                "hu": "Jégmentes beszállás a garázsban.",
+                "ro": "Urcare fără gheață în garaj.",
+                "en": "Ice-free entry in the garage."
+              }
+            },
+            {
+              "name": "Main Square",
+              "tip_5lang": {
+                "de": "Schöne Weihnachtsbeleuchtung genießen.",
+                "hu": "Élvezze a szép karácsonyi fényeket.",
+                "ro": "Bucurați-vă de luminile de Crăciun.",
+                "en": "Enjoy the beautiful Christmas lights."
+              }
+            },
+            {
+              "name": "Cathedral of Wiener Neustadt",
+              "tip_5lang": {
+                "de": "Kurzer Kälteschock bis zum Eingang.",
+                "hu": "Csak egy rövid hidegsokk a bejáratig.",
+                "ro": "Șoc termic scurt până la intrare.",
+                "en": "Short cold burst until the entrance."
+              }
+            },
+            {
+              "name": "St. Peter an der Sperr Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort zum Aufwärmen.",
+                "hu": "Ideális hely a felmelegedésre.",
+                "ro": "Locul ideal pentru încălzire.",
+                "en": "Ideal place to warm up."
+              }
+            },
+            {
+              "name": "Military Academy Parking (Cluster B)",
+              "tip_5lang": {
+                "de": "Oft geräumt und gut befahrbar.",
+                "hu": "Gyakran takarított, jól járható.",
+                "ro": "Deseori deszăpezit și practicabil.",
+                "en": "Often cleared and easy to access."
+              }
+            },
+            {
+              "name": "Theresian Military Academy",
+              "tip_5lang": {
+                "de": "Besuch der Schlosskapelle im Warmen.",
+                "hu": "Látogassa meg a várkápolnát a melegben.",
+                "ro": "Vizitați capela castelului la căldură.",
+                "en": "Visit the castle chapel in the warm."
+              }
+            },
+            {
+              "name": "Casemates & Reckturm Tower",
+              "tip_5lang": {
+                "de": "Lichtspiele am Abend bewundern.",
+                "hu": "Csodálja meg az esti fényjátékot.",
+                "ro": "Admirați jocurile de lumini seara.",
+                "en": "Admire the evening light displays."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Eiskratzer sind unverzichtbar.",
+              "Achten Sie auf Streusalz und rutschige Einfahrten.",
+              "Die Parkgaragen sind meist gut geheizt.",
+              "Planen Sie Zeit für das Scheibenenteisen ein."
+            ],
+            "hu": [
+              "A téli gumi és a jégkaparó elengedhetetlen.",
+              "Vigyázzon a sózott, csúszós bejárókra.",
+              "A parkolóházak általában jól fűtöttek.",
+              "Számoljon a jégtelenítésre szánt idővel."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și răzuitoarea sunt vitale.",
+              "Atenție la sarea de pe drum și intrările alunecoase.",
+              "Garajele de parcare sunt de obicei încălzite.",
+              "Planificați timp pentru dezghețarea parbrizului."
+            ],
+            "en": [
+              "Winter tires and an ice scraper are essential.",
+              "Watch out for road salt and slippery ramps.",
+              "Parking garages are usually well-tempered.",
+              "Allow time for de-icing your windows."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1463,6 +2081,188 @@
         "en": [
           "Buy a day ticket for public transport, it's usually the cheapest option. Check the bus departure times to minimize waiting. The main lines run regularly, but less frequently in the evening. Have change ready for the ticket machine."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den öffentlichen Nahverkehr, um trocken durch Wiener Neustadt zu kommen. Busse verbinden den Hauptplatz mit der Akademie. Das Museum St. Peter an der Sperr ist ein hervorragender Aufenthaltsort bei schlechtem Wetter. Die Kasematten bieten ein unterirdisches Erlebnis, das völlig wetterunabhängig ist. Die Wartezeiten an den Haltestellen sind meist kurz.",
+            "hu": "Használja a tömegközlekedést, hogy szárazon járja be Bécsújhelyet. Buszok kötik össze a Fő teret az Akadémiával. A Szent Péter múzeum kiváló helyszín rossz idő esetén. A Kazamaták földalatti élménye teljesen független az időjárástól. A megállókban a várakozási idő általában rövid.",
+            "ro": "Folosiți transportul public pentru a rămâne uscat în Wiener Neustadt. Autobuzele leagă Piața Mare de Academie. Muzeul este un loc excelent pe timp nefavorabil. Cazematele oferă o experiență subterană protejată de ploaie. Timpul de așteptare în stații este de obicei scurt.",
+            "en": "Use public transit to get around Wiener Neustadt dryly. Buses connect the Main Square with the Academy. The St. Peter Museum is an excellent indoor venue for bad weather. The Casemates offer an underground experience completely independent of weather. Waiting times at stops are usually minimal."
+          },
+          "stops": [
+            {
+              "name": "Main Square (Cluster A)",
+              "tip_5lang": {
+                "de": "Zentrale Bushaltestelle mit Unterstand.",
+                "hu": "Központi buszmegálló váróteremmel.",
+                "ro": "Stație centrală cu adăpost.",
+                "en": "Central bus stop with shelter."
+              }
+            },
+            {
+              "name": "Cathedral of Wiener Neustadt",
+              "tip_5lang": {
+                "de": "Nur wenige Schritte von der Haltestelle.",
+                "hu": "Csak pár lépés a megállótól.",
+                "ro": "Doar câțiva pași de la stație.",
+                "en": "Just a few steps from the stop."
+              }
+            },
+            {
+              "name": "St. Peter an der Sperr Museum",
+              "tip_5lang": {
+                "de": "Gut mit Stadtbussen erreichbar.",
+                "hu": "Városi buszokkal jól elérhető.",
+                "ro": "Accesibil ușor cu autobuzul urban.",
+                "en": "Easily accessible by city buses."
+              }
+            },
+            {
+              "name": "Military Academy Stop (Cluster B)",
+              "tip_5lang": {
+                "de": "Überdachte Haltestelle in der Nähe.",
+                "hu": "Fedett megálló a közelben.",
+                "ro": "Stație acoperită în apropiere.",
+                "en": "Covered stop located nearby."
+              }
+            },
+            {
+              "name": "Theresian Military Academy",
+              "tip_5lang": {
+                "de": "Ideal für Indoor-Besichtigungen.",
+                "hu": "Ideális belső látogatásokhoz.",
+                "ro": "Ideal pentru vizite interioare.",
+                "en": "Ideal for indoor visits."
+              }
+            },
+            {
+              "name": "Casemates",
+              "tip_5lang": {
+                "de": "Wetterfestes Highlight zum Abschluss.",
+                "hu": "Időjárásálló fénypont a végére.",
+                "ro": "Punct culminant ferit de ploaie.",
+                "en": "Weather-proof highlight to finish."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die VOR-AnachB App für Echtzeitdaten.",
+              "Ein Tagesticket ist oft die günstigste Wahl.",
+              "Haltestellen am Hauptplatz sind oft überdacht.",
+              "Busse fahren regelmäßig bis in den Abend."
+            ],
+            "hu": [
+              "Használja a VOR-AnachB alkalmazást menetrendhez.",
+              "A napijegy gyakran a legolcsóbb választás.",
+              "A főtéri megállók többnyire fedettek.",
+              "A buszok rendszeresen járnak estig."
+            ],
+            "ro": [
+              "Folosiți aplicația VOR-AnachB pentru date în timp real.",
+              "Un bilet de o zi este adesea cea mai ieftină alegere.",
+              "Stațiile din Piața Mare sunt de obicei acoperite.",
+              "Autobuzele circulă regulat până seara."
+            ],
+            "en": [
+              "Use the VOR-AnachB app for real-time data.",
+              "A day ticket is often the most economical choice.",
+              "Stops on the Main Square are mostly sheltered.",
+              "Buses run regularly until late evening."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Öffentlicher Verkehr ist im Winter die wärmste Art, Wiener Neustadt zu erleben. Beginnen Sie am festlich beleuchteten Hauptplatz. Die kurzen Wege von den Haltestellen zum Dom und zum Museum minimieren die Zeit in der Kälte. Die Akademie und die Kasematten sind auch im Winter gut angebunden und bieten ein spannendes Programm fernab von Frost und Schnee.",
+            "hu": "A tömegközlekedés a legmelegebb módja Bécsújhely felfedezésének télen. Kezdjen az ünnepi fényben úszó Fő téren. A megállóktól a Dómig és a múzeumig tartó rövid út minimalizálja a hidegben töltött időt. Az Akadémia és a Kazamaták télen is jól megközelíthetők, és izgalmas programot kínálnak a fagy elől elzárva.",
+            "ro": "Transportul public este cea mai călduroasă modalitate de a vedea orașul iarna. Începeți în Piața Mare festivă. Drumurile scurte de la stații la Catedrală și Muzeu minimizează expunerea la frig. Academia și Cazematele sunt bine conectate și iarna, oferind un program interesant ferit de îngheț.",
+            "en": "Public transit is the warmest way to experience Wiener Neustadt in winter. Start at the festively lit Main Square. Short walks from stops to the Cathedral and museum minimize time in the cold. The Academy and Casemates remain well-connected in winter, offering exciting programs away from the frost."
+          },
+          "stops": [
+            {
+              "name": "Main Square (Cluster A)",
+              "tip_5lang": {
+                "de": "Warmer Aufenthalt im Bus garantiert.",
+                "hu": "A buszon garantált a meleg.",
+                "ro": "Căldură garantată în autobuz.",
+                "en": "Warmth guaranteed inside the bus."
+              }
+            },
+            {
+              "name": "Cathedral of Wiener Neustadt",
+              "tip_5lang": {
+                "de": "Besuch der Krippe im Winter.",
+                "hu": "Látogassa meg a betlehemet télen.",
+                "ro": "Vizitați ieslea de Crăciun iarna.",
+                "en": "Visit the nativity scene in winter."
+              }
+            },
+            {
+              "name": "St. Peter an der Sperr Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort für die kalte Mittagszeit.",
+                "hu": "Tökéletes hely a hideg délidőben.",
+                "ro": "Locul perfect pentru amiaza geroasă.",
+                "en": "Perfect place for a cold midday."
+              }
+            },
+            {
+              "name": "Military Academy Stop (Cluster B)",
+              "tip_5lang": {
+                "de": "Kurzer Weg durch den Winterpark.",
+                "hu": "Rövid séta a téli parkon át.",
+                "ro": "Drum scurt prin parcul de iarnă.",
+                "en": "Short walk through the winter park."
+              }
+            },
+            {
+              "name": "Theresian Military Academy",
+              "tip_5lang": {
+                "de": "Historisches Ambiente im Warmen.",
+                "hu": "Történelmi környezet a melegben.",
+                "ro": "Ambiantă istorică la căldură.",
+                "en": "Historical ambiance in the warm."
+              }
+            },
+            {
+              "name": "Casemates",
+              "tip_5lang": {
+                "de": "Stimmungsvoller Abschluss bei Nacht.",
+                "hu": "Hangulatos zárás az esti fényekben.",
+                "ro": "Încheiere atmosferică la lumina serii.",
+                "en": "Atmospheric finish under evening lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind gut geheizt und komfortabel.",
+              "Achten Sie auf geänderte Fahrpläne an Feiertagen.",
+              "Tragen Sie warme Schuhe für die kurzen Gehwege.",
+              "Der Bahnhof ist ein guter Knotenpunkt zum Aufwärmen."
+            ],
+            "hu": [
+              "A buszok jól fűtöttek és kényelmesek.",
+              "Ügyeljen az ünnepi menetrendre.",
+              "Viseljen meleg cipőt a rövid sétákhoz.",
+              "A vasútállomás jó csomópont a melegedéshez."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite și confortabile.",
+              "Atenție la orarele modificate de sărbători.",
+              "Purtați încălțăminte caldă pentru drumurile scurte.",
+              "Gara este un nod bun pentru încălzire."
+            ],
+            "en": [
+              "Buses are well-heated and comfortable.",
+              "Watch for holiday schedule changes.",
+              "Wear warm shoes for the short walking stretches.",
+              "The train station is a good hub to warm up."
+            ]
+          }
+        }
       }
     }
   }

@@ -379,6 +379,206 @@
           "Many cafes offer 'Fika', a traditional Swedish coffee break with pastries.",
           "The paths along the river are well-maintained and perfect for a walk."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im Stadsparken, wo das Prasseln des Regens auf das Flussufer eine meditative Stille erzeugt. Mittags bietet das Sara Kulturhus mit seiner massiven Holzarchitektur einen warmen, duftenden Zufluchtsort vor dem grauen Himmel. Am Nachmittag erkunden wir die Geschichte im Museum und die Landskyrkan, während Bonnstan im Regen besonders nostalgisch wirkt. Der Tag endet gemütlich im Bryggargården bei einem heißen Tee.",
+            "hu": "A reggel a Stadsparken fái alatt indul, az eső kopogása a folyóparton különös nyugalmat áraszt. Délben a Sara Kulturhus monumentális faépülete nyújt illatos és száraz menedéket a szürkeség elől. Délután a múzeum és a Landskyrkan falai között merülünk el a múltban, miközben Bonnstan vörös házai közt tócsákat kerülgetünk. Az estét a Bryggargården patinás termeiben, egy forró ital mellett zárjuk.",
+            "ro": "Dimineața începe în Stadsparken, unde sunetul ploii pe malul râului creează o liniște meditativă. La prânz, Sara Kulturhus, cu arhitectura sa masivă din lemn, oferă un refugiu cald și parfumat de cerul gri. După-amiaza explorăm istoria la Muzeu și Landskyrkan, în timp ce Bonnstan pare deosebit de nostalgic în ploaie. Ziua se încheie confortabil la Bryggargården, cu un ceai fierbinte.",
+            "en": "The morning starts in Stadsparken, where the patter of rain on the riverbank creates a meditative silence. At noon, Sara Kulturhus and its massive timber architecture provide a warm, fragrant sanctuary from the grey sky. In the afternoon, we explore history in the Museum and Landskyrkan, while Bonnstan looks particularly nostalgic in the rain. The day ends cozily at Bryggargården over a hot tea."
+          },
+          "stops": [
+            {
+              "name": "Stadsparken (City Park)",
+              "tip_5lang": {
+                "de": "Unter den dichten Bäumen am Fluss findet man guten Schutz vor leichtem Nieselregen.",
+                "hu": "A folyóparti sűrű lombok alatt jól el lehet bújni a szemerkélő eső elől.",
+                "ro": "Sub copacii deși de lângă râu veți găsi un adăpost bun împotriva burniței.",
+                "en": "The dense trees by the river provide good shelter from light drizzle."
+              }
+            },
+            {
+              "name": "Sara Kulturhus",
+              "tip_5lang": {
+                "de": "Genießen Sie den Duft von Kiefernholz im Inneren, während es draußen stürmt.",
+                "hu": "Élvezze a fenyőillatot az épületen belül, miközben kint tombol a vihar.",
+                "ro": "Bucurați-vă de mirosul de pin din interior în timp ce afară este furtună.",
+                "en": "Enjoy the scent of pine wood inside while the storm rages outside."
+              }
+            },
+            {
+              "name": "Skellefteå Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um ein paar trockene Stunden in der Regionalgeschichte zu verbringen.",
+                "hu": "Tökéletes helyszín néhány száraz órát eltölteni a helyi történelem társaságában.",
+                "ro": "Locul perfect pentru a petrece câteva ore la adăpost, învățând istoria regiunii.",
+                "en": "The perfect place to spend a few dry hours immersed in regional history."
+              }
+            },
+            {
+              "name": "Landskyrkan (Country Church)",
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern bieten Ruhe und Schutz vor dem nasskalten Wetter.",
+                "hu": "A vastag kőfalak nyugalmat és védelmet nyújtanak a nyirkos időben.",
+                "ro": "Zidurile groase de piatră oferă liniște și protecție împotriva vremii umede.",
+                "en": "The thick stone walls offer peace and protection from the damp weather."
+              }
+            },
+            {
+              "name": "Bonnstan (Church Town)",
+              "tip_5lang": {
+                "de": "Vorsicht auf den hölzernen Gehwegen, sie können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázzon a fapadlókon, esőben rendkívül csúszóssá válhatnak a vörös házak közt.",
+                "ro": "Atenție pe trotuarele de lemn, pot fi foarte alunecoase când sunt ude.",
+                "en": "Watch your step on the wooden walkways; they can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Lejonströmsbron Bridge",
+              "tip_5lang": {
+                "de": "Die Brücke ist windanfällig; halten Sie Ihren Regenschirm gut fest.",
+                "hu": "A hídon erős lehet a szél, fogja erősen az esernyőjét a folyó felett.",
+                "ro": "Podul este expus vântului; țineți bine umbrela deasupra râului.",
+                "en": "The bridge is wind-prone; hold onto your umbrella tightly over the river."
+              }
+            },
+            {
+              "name": "Bryggargården",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im historischen Café mit einer traditionellen Fika auf.",
+                "hu": "Melegedjen fel a történelmi kávézóban egy hagyományos svéd fika mellett.",
+                "ro": "Încălziți-vă în cafeneaua istorică cu o fika tradițională suedeză.",
+                "en": "Warm up in the historical café with a traditional Swedish fika."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei den Winden am Fluss unerlässlich.",
+              "Das Sara Kulturhus ist das beste 'Indoor'-Ziel der Stadt.",
+              "Tragen Sie wasserfeste Schuhe für die unbefestigten Wege in Bonnstan.",
+              "Nutzen Sie die lokalen Cafés für regelmäßige Aufwärmpausen."
+            ],
+            "hu": [
+              "Egy viharálló esernyő elengedhetetlen a folyóparti szélben.",
+              "A Sara Kulturhus a város legjobb beltéri menedéke eső esetén.",
+              "Viseljen vízálló cipőt a Bonnstan földútjai és fapadlói miatt.",
+              "Iktasson be rendszeres kávészüneteket a felmelegedéshez."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza vântului de pe râu.",
+              "Sara Kulturhus este cea mai bună destinație 'indoor' din oraș.",
+              "Purtați încălțăminte impermeabilă pentru potecile din Bonnstan.",
+              "Folosiți cafenelele locale pentru pauze regulate de încălzire."
+            ],
+            "en": [
+              "A sturdy umbrella is essential given the winds near the river.",
+              "Sara Kulturhus is the city's best indoor sanctuary during heavy rain.",
+              "Wear waterproof shoes for the unpaved paths around Bonnstan.",
+              "Take frequent 'fika' breaks in local cafés to stay dry and warm."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Stadsparken glitzert im Morgenfrost, während der zugefrorene Fluss eine magische Kulisse bietet. Mittags leuchtet das Sara Kulturhus wie eine warme Laterne aus Holz und Glas in der blauen Stunde. Am Nachmittag stapfen wir durch den Schnee von Bonnstan zur Landskyrkan, wo die Kerzen eine andächtige Stimmung verbreiten. Der Abend wird auf der beleuchteten Holzbrücke und bei einem herzhaften Abendessen am Kamin unvergesslich.",
+            "hu": "A Stadsparken dérrel borított fái közt indul a reggel, a befagyott folyó látványa varázslatos. Délben a Sara Kulturhus fa- és üvegfalai meleg lámpásként világítanak a korai szürkületben. Délután a hóban gázolva fedezzük fel Bonnstan piros házait és a Landskyrkan csendjét, ahol a gyertyák áhítatos hangulatot árasztanak. Az estét a kivilágított fahíd és egy kandalló melletti vacsora teszi teljessé.",
+            "ro": "Stadsparken strălucește în înghețul dimineții, în timp ce râul înghețat oferă un decor magic. La prânz, Sara Kulturhus luminează ca un felinar cald din lemn și sticlă în ora albastră. După-amiaza pășim prin zăpadă de la Bonnstan la Landskyrkan, unde lumânările creează o atmosferă pioasă. Seara devine de neuitat pe podul de lemn iluminat și la o cină copioasă lângă șemineu.",
+            "en": "Stadsparken glistens in the morning frost, while the frozen river provides a magical backdrop. At noon, Sara Kulturhus glows like a warm lantern of wood and glass during the blue hour. In the afternoon, we crunch through the snow from Bonnstan to Landskyrkan, where candles create a reverent atmosphere. The evening is unforgettable on the illuminated wooden bridge and with a hearty dinner by the fireplace."
+          },
+          "stops": [
+            {
+              "name": "Stadsparken (City Park)",
+              "tip_5lang": {
+                "de": "Spikes für die Schuhe sind auf den vereisten Wegen entlang des Flusses ratsam.",
+                "hu": "Csúszásgátló talp ajánlott a folyóparti jeges sétányokon.",
+                "ro": "Crampoanele pentru pantofi sunt recomandate pe potecile înghețate de-a lungul râului.",
+                "en": "Ice grips for your shoes are advisable on the icy paths along the river."
+              }
+            },
+            {
+              "name": "Sara Kulturhus",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um das Tageslicht durch die riesigen Glasfronten zu genießen.",
+                "hu": "Tökéletes hely a kevés nappali fény élvezetére az óriási üvegfalakon át.",
+                "ro": "Locul perfect pentru a te bucura de lumina zilei prin fațadele uriașe de sticlă.",
+                "en": "The perfect spot to catch the limited daylight through the massive glass fronts."
+              }
+            },
+            {
+              "name": "Skellefteå Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich auf, während Sie erfahren, wie man hier früher den Winter überlebte.",
+                "hu": "Melegedjen fel, miközben megtudja, hogyan élték túl itt régen a teleket.",
+                "ro": "Încălziți-vă în timp ce aflați cum supraviețuiau oamenii iernilor în trecut.",
+                "en": "Warm up while learning how locals survived the harsh winters in the past."
+              }
+            },
+            {
+              "name": "Landskyrkan (Country Church)",
+              "tip_5lang": {
+                "de": "Die Kirche ist im Winter oft wunderschön mit Kerzen beleuchtet.",
+                "hu": "A templomot télen gyakran gyönyörű gyertyafény világítja meg belülről.",
+                "ro": "Biserica este adesea luminată superb cu lumânări în timpul iernii.",
+                "en": "The church is often beautifully lit with candles during the winter months."
+              }
+            },
+            {
+              "name": "Bonnstan (Church Town)",
+              "tip_5lang": {
+                "de": "Die roten Holzhäuser im weißen Schnee sind das ultimative Fotomotiv.",
+                "hu": "A hófehérben álló vörös faházak a tökéletes téli fotótémát szolgáltatják.",
+                "ro": "Casele roșii din lemn în zăpada albă sunt motivul fotografic suprem.",
+                "en": "The red wooden houses against the white snow are the ultimate photo op."
+              }
+            },
+            {
+              "name": "Lejonströmsbron Bridge",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Eis, aber achten Sie auf den kalten Wind.",
+                "hu": "Csodálja meg a zajló jeget, de készüljön fel a metsző szélre a hídon.",
+                "ro": "Admirați gheața de pe râu, dar aveți grijă la vântul tăios de pe pod.",
+                "en": "Enjoy the view of the frozen river, but beware of the biting winter wind."
+              }
+            },
+            {
+              "name": "Bryggargården",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einer heißen Schokolade, um die Winterkälte zu vertreiben.",
+                "hu": "Kérjen egy sűrű forró csokoládét a téli fagy ellensúlyozására.",
+                "ro": "Cereți o ciocolată caldă pentru a alunga frigul iernii.",
+                "en": "Order a hot chocolate to chase away the winter chill."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 14:00 Uhr unter.",
+              "Tragen Sie Kleidung im Zwiebelprinzip mit Wolle als Basisschicht.",
+              "Reflektoren an der Kleidung sind für Spaziergänge in der Dunkelheit wichtig.",
+              "Achten Sie auf herabstürzenden Schnee von den Dächern in Bonnstan."
+            ],
+            "hu": [
+              "Decemberben a nap már délután 2 körül lemegy, tervezzen korán.",
+              "Öltözzön rétegesen, a gyapjú alapréteg elengedhetetlen Skandináviában.",
+              "Viseljen fényvisszaverőt a sötétben való biztonságos közlekedéshez.",
+              "Vigyázzon a tetőkről lecsúszó hóra Bonnstan szűk utcáin."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 14:00 în luna decembrie.",
+              "Purtați haine în straturi, cu lâna ca strat de bază esențial.",
+              "Reflectorizantele pe haine sunt importante pentru plimbările pe întuneric.",
+              "Atenție la căderile de zăpadă de pe acoperișurile din Bonnstan."
+            ],
+            "en": [
+              "The sun sets as early as 2:00 PM in mid-winter; plan accordingly.",
+              "Dress in layers with wool as a base layer for maximum warmth.",
+              "Wear reflectors on your coat for safety during the long dark hours.",
+              "Watch out for snow sliding off the steep roofs in Bonnstan."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -775,6 +975,224 @@
           "Bring a water bottle, especially for the ride to Vitberget.",
           "Always lock your bike securely when you park it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Radtour durch Skellefteå, beginnend am Sara Kulturhus. Der Weg führt am Fluss entlang zum Museum und weiter zur Landskyrkan. Trotz Nässe ist die Fahrt nach Vitberget erfrischend, wobei der Wald Schutz bietet. Den Abschluss bildet eine entspannte Fahrt zum Bryggargården durch die gewaschene Stadtluft.",
+            "hu": "Esős kerékpártúra Skellefteåban, a Sara Kulturhus-tól indulva. Az út a folyó mentén vezet a múzeumhoz és a Landskyrkanhoz. A nedvesség ellenére a Vitbergetre vezető szakasz frissítő, az erdő pedig némi védelmet nyújt. A napot a tiszta városi levegőn tett tekerés zárja a Bryggargården felé.",
+            "ro": "Tur cu bicicleta pe ploaie prin Skellefteå, începând de la Sara Kulturhus. Drumul duce de-a lungul râului spre Muzeu și Landskyrkan. În ciuda umezelii, urcarea spre Vitberget este revigorantă, pădurea oferind adăpost. Finalul este o plimbare relaxată spre Bryggargården prin aerul curat al orașului.",
+            "en": "A rainy bike tour through Skellefteå, starting at Sara Kulturhus. The path follows the river to the Museum and Landskyrkan. Despite the wetness, the ride to Vitberget is refreshing, with the forest providing some cover. The day ends with a relaxed ride to Bryggargården through the crisp, rain-washed air."
+          },
+          "stops": [
+            {
+              "name": "Sara Kulturhus",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter dem Dachvorsprung am Haupteingang.",
+                "hu": "Parkolja le kerékpárját a főbejáratnál található tető alatt.",
+                "ro": "Parcați bicicleta sub streașina de la intrarea principală.",
+                "en": "Park your bike under the overhang at the main entrance to keep it dry."
+              }
+            },
+            {
+              "name": "Stadsparken (City Park)",
+              "tip_5lang": {
+                "de": "Die asphaltierten Radwege sind auch bei Regen gut befahrbar.",
+                "hu": "Az aszfaltozott kerékpárutak esőben is jól tekerhetőek a parkban.",
+                "ro": "Pistele de biciclete asfaltate sunt bune de parcurs chiar și pe ploaie.",
+                "en": "The paved bike paths are easy to ride even when it's raining."
+              }
+            },
+            {
+              "name": "Skellefteå Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um Ihre Regenbekleidung kurz zu lüften.",
+                "hu": "Használja ki a múzeumlátogatást az esőruházat átszellőztetésére.",
+                "ro": "Folosiți vizita la muzeu pentru a vă aerisi puțin hainele de ploaie.",
+                "en": "Use the museum visit as an opportunity to air out your rain gear."
+              }
+            },
+            {
+              "name": "Landskyrkan (Country Church)",
+              "tip_5lang": {
+                "de": "Die alten Bäume hier bieten Schutz beim Abstellen der Räder.",
+                "hu": "Az öreg fák védelmet nyújtanak a kerékpárok lezárásakor.",
+                "ro": "Copacii bătrâni de aici oferă protecție la parcarea bicicletelor.",
+                "en": "The old trees here provide some shelter while locking up your bikes."
+              }
+            },
+            {
+              "name": "Bonnstan (Church Town)",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem Kopfsteinpflaster; Rutschgefahr!",
+                "hu": "Hajtson lassan a macskaköveken; csúszásveszély a házak között!",
+                "ro": "Mergeți încet pe piatra cubică; pericol de alunecare!",
+                "en": "Ride slowly on the cobblestones; they can be slippery when wet."
+              }
+            },
+            {
+              "name": "Lejonströmsbron Bridge",
+              "tip_5lang": {
+                "de": "Achten Sie auf Seitenwind auf der schmalen Holzbrücke.",
+                "hu": "Vigyázzon az oldalszélre a keskeny fahídon tekerés közben.",
+                "ro": "Atenție la vântul lateral pe podul îngust de lemn.",
+                "en": "Be mindful of crosswinds while cycling across the narrow wooden bridge."
+              }
+            },
+            {
+              "name": "Vitberget",
+              "tip_5lang": {
+                "de": "Die Waldwege können schlammig sein; breite Reifen sind von Vorteil.",
+                "hu": "Az erdei utak sárosak lehetnek; a szélesebb gumi előnyösebb ilyenkor.",
+                "ro": "Potecile din pădure pot fi noroioase; anvelopele late sunt un avantaj.",
+                "en": "Forest trails can get muddy; wider tires are an advantage here."
+              }
+            },
+            {
+              "name": "Bryggargården",
+              "tip_5lang": {
+                "de": "Ein warmer Platz für durchnässte Radfahrer am Ende der Tour.",
+                "hu": "Meleg hely az átázott bicikliseknek a túra végén.",
+                "ro": "Un loc cald pentru bicicliștii udați la finalul turului.",
+                "en": "A warm spot for soaked cyclists at the end of the tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Regen in Skellefteå ein absolutes Muss.",
+              "Tragen Sie eine wasserdichte, atmungsaktive Jacke.",
+              "Vermeiden Sie plötzliches Bremsen auf nassem Laub oder Holz.",
+              "Ein Sattelüberzug hält Ihren Sitz bei Stopps trocken."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen az esős svéd utakon.",
+              "Viseljen vízálló, de lélegző kerékpáros dzsekit.",
+              "Kerülje a hirtelen fékezést vizes leveleken vagy fapadlón.",
+              "Egy nyeregvédő huzat szárazon tartja az ülést a megállók alatt."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt absolut necesare pe ploaie în Skellefteå.",
+              "Purtați o jachetă impermeabilă și respirabilă.",
+              "Evitați frânarea bruscă pe frunze ude sau lemn.",
+              "O husă de șa vă menține scaunul uscat în timpul opririlor."
+            ],
+            "en": [
+              "Mudguards are an absolute must when cycling in the rain here.",
+              "Wear a waterproof but breathable cycling jacket.",
+              "Avoid sudden braking on wet leaves or wooden surfaces.",
+              "A saddle cover will keep your seat dry during stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking in Skellefteå erfordert Mut und Ausrüstung. Vom Sara Kulturhus geht es durch den glitzernden Park zum Museum. Die Fahrt zur Landskyrkan und Bonnstan im tiefen Weiß ist anstrengend, aber wunderschön. Der Aufstieg zum Vitberget belohnt mit einem Blick über die verschneite Stadt, bevor es zurück zum warmen Bryggargården geht.",
+            "hu": "A téli kerékpározás Skellefteåban bátorságot és felszerelést igényel. A Sara Kulturhus-tól indulva a csillogó parkon át jutunk a múzeumhoz. A tekerés a Landskyrkan és Bonnstan fehérségében megterhelő, de gyönyörű. A Vitbergetre való felkapaszkodás jutalma a havas város látványa, mielőtt visszatérnénk a meleg Bryggargårdenbe.",
+            "ro": "Ciclismul de iarnă în Skellefteå necesită curaj și echipament. De la Sara Kulturhus trecem prin parcul sclipitor spre Muzeu. Drumul spre Landskyrkan și Bonnstan în albul profund este solicitant, dar superb. Urcarea pe Vitberget recompensează cu o priveliște asupra orașului înzăpezit, înainte de a reveni la caldul Bryggargården.",
+            "en": "Winter biking in Skellefteå requires grit and the right gear. From Sara Kulturhus, ride through the glittering park to the Museum. The journey to Landskyrkan and Bonnstan in the deep white is strenuous but beautiful. The climb to Vitberget rewards you with a view over the snowy city before heading back to the warm Bryggargården."
+          },
+          "stops": [
+            {
+              "name": "Sara Kulturhus",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nach Möglichkeit im beheizten Fahrradparkhaus.",
+                "hu": "Ha teheti, parkoljon a fűtött kerékpártárolóban az épületnél.",
+                "ro": "Parcați bicicleta în parcarea încălzită pentru biciclete, dacă este posibil.",
+                "en": "Park your bike in the heated bicycle garage if available."
+              }
+            },
+            {
+              "name": "Stadsparken (City Park)",
+              "tip_5lang": {
+                "de": "Die Wege werden geräumt, können aber eine feine Eisschicht haben.",
+                "hu": "Az utakat takarítják, de vékony jégréteg maradhat rajtuk.",
+                "ro": "Potecile sunt curățate, dar pot avea un strat fin de gheață.",
+                "en": "Paths are cleared, but a thin layer of ice may still remain."
+              }
+            },
+            {
+              "name": "Skellefteå Museum",
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre Akkus (E-Bike) nicht zu lange in der Kälte draußen.",
+                "hu": "Ne hagyja az e-bike akkumulátorát túl sokáig kint a fagyban.",
+                "ro": "Nu lăsați bateriile de e-bike prea mult timp afară în frig.",
+                "en": "Don't leave your e-bike battery out in the freezing cold for too long."
+              }
+            },
+            {
+              "name": "Landskyrkan (Country Church)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen; der Boden um die Kirche kann glatt sein.",
+                "hu": "Vigyázzon a leszálláskor; a templom körüli talaj jeges lehet.",
+                "ro": "Atenție la descălecare; solul din jurul bisericii poate fi alunecos.",
+                "en": "Be careful when dismounting; the ground around the church can be icy."
+              }
+            },
+            {
+              "name": "Bonnstan (Church Town)",
+              "tip_5lang": {
+                "de": "Fahren ist hier im tiefen Schnee oft nicht möglich; schieben Sie kurz.",
+                "hu": "Mély hóban itt gyakran nem lehet tekerni; tolja a gépet a házak közt.",
+                "ro": "Ciclismul este adesea imposibil în zăpada mare aici; împingeți bicicleta.",
+                "en": "Riding is often impossible in deep snow here; push your bike for a bit."
+              }
+            },
+            {
+              "name": "Lejonströmsbron Bridge",
+              "tip_5lang": {
+                "de": "Die Holzplanken können unter dem Schnee tückisch glatt sein.",
+                "hu": "A fapadlók a hó alatt alattomosan csúszósak lehetnek a hídon.",
+                "ro": "Scândurile de lemn pot fi înșelător de alunecoase sub zăpadă.",
+                "en": "The wooden planks can be treacherously slippery under the snow."
+              }
+            },
+            {
+              "name": "Vitberget",
+              "tip_5lang": {
+                "de": "Studded Tires (Spikereifen) sind für diesen Anstieg im Winter Pflicht.",
+                "hu": "A szöges gumi kötelező ehhez az emelkedőhöz téli időben.",
+                "ro": "Anvelopele cu ținte sunt obligatorii pentru această urcare iarna.",
+                "en": "Studded tires are mandatory for this winter climb."
+              }
+            },
+            {
+              "name": "Bryggargården",
+              "tip_5lang": {
+                "de": "Ein wohlverdienter Stopp nach einer harten Wintertour.",
+                "hu": "Megérdemelt pihenő egy nehéz téli túra után.",
+                "ro": "O oprire binemeritată după un tur greu de iarnă.",
+                "en": "A well-deserved stop after a tough winter ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen mit Metallspikes sind in Skellefteå Standard.",
+              "Halten Sie die Kette gut geölt gegen Streusalz und Feuchtigkeit.",
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Die Reichweite von E-Bike-Akkus sinkt bei Kälte drastisch."
+            ],
+            "hu": [
+              "A fémszöges téli gumi alapfelszerelés Skellefteåban.",
+              "Tartsa jól olajozottan a láncot a só és a nedvesség ellen.",
+              "Viseljen szélálló kesztyűt és sisak alá való sapkát.",
+              "Az e-bike akkumulátor hatótávja drasztikusan csökken a hidegben."
+            ],
+            "ro": [
+              "Anvelopele de iarnă cu ținte metalice sunt standard în Skellefteå.",
+              "Păstrați lanțul bine uns împotriva sării și umezelii.",
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Autonomia bateriilor de e-bike scade drastic la frig."
+            ],
+            "en": [
+              "Winter tires with metal studs are standard for cycling here.",
+              "Keep your chain well-oiled to protect against road salt and moisture.",
+              "Wear windproof gloves and a thermal cap under your helmet.",
+              "E-bike battery range drops significantly in sub-zero temperatures."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1178,6 +1596,224 @@
           "A car allows you to explore natural areas slightly outside the city as well.",
           "Plan for enough time for traffic between the clusters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequeme Autotour bei Regen. Wir starten am Vitberget für einen schnellen Blick über die Stadt, bevor wir in Bonnstan parken. Den Nachmittag verbringen wir im Stadtzentrum, wo das Parkhaus am Sara Kulturhus direkten, trockenen Zugang zum kulturellen Herz der Stadt bietet. Den Tag schließen wir entspannt am Bryggargården ab, ohne nass zu werden.",
+            "hu": "Kényelmes autós túra esőben. A Vitbergetnél kezdünk egy gyors városi panorámával, majd Bonnstannál parkolunk. A délutánt a városközpontban töltjük, ahol a Sara Kulturhus parkolóháza közvetlen, száraz hozzáférést biztosít a város kulturális szívéhez. A napot a Bryggargårdennél zárjuk, anélkül, hogy bőrig áznánk.",
+            "ro": "Tur auto confortabil pe ploaie. Începem la Vitberget pentru o scurtă privire asupra orașului înainte de a parca la Bonnstan. După-amiaza o petrecem în centrul orașului, unde parcarea de la Sara Kulturhus oferă acces direct și uscat la inima culturală. Încheiem ziua relaxați la Bryggargården, fără a ne uda.",
+            "en": "A comfortable car tour in the rain. We start at Vitberget for a quick city overlook before parking at Bonnstan. Spend the afternoon in the city center, where the Sara Kulturhus parking garage provides direct, dry access to the cultural heart of the city. We wrap up the day at Bryggargården, staying perfectly dry."
+          },
+          "stops": [
+            {
+              "name": "Vitberget",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht direkt aus dem Auto, wenn es zu stark regnet.",
+                "hu": "Élvezze a kilátást közvetlenül az autóból, ha túl erősen esne az eső.",
+                "ro": "Bucurați-vă de priveliște direct din mașină dacă plouă prea tare.",
+                "en": "Enjoy the view directly from your car if the rain is too heavy."
+              }
+            },
+            {
+              "name": "Bonnstan Cluster: Parking",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah an den Häusern, ideal für kurze Wege im Regen.",
+                "hu": "A parkoló közel van a házakhoz, ideális a rövid esős sétákhoz.",
+                "ro": "Parcarea este aproape de case, ideală pentru distanțe scurte pe ploaie.",
+                "en": "The parking lot is close to the houses, ideal for short walks in the rain."
+              }
+            },
+            {
+              "name": "Bonnstan (Church Town)",
+              "tip_5lang": {
+                "de": "Ein schneller Rundgang zwischen den historischen Hütten lohnt sich immer.",
+                "hu": "Egy gyors kör a történelmi kunyhók között esőben is megéri.",
+                "ro": "O scurtă plimbare printre colibele istorice merită întotdeauna.",
+                "en": "A quick loop between the historical huts is worth it even in the rain."
+              }
+            },
+            {
+              "name": "Landskyrkan",
+              "tip_5lang": {
+                "de": "Ausreichend Parkplätze direkt vor der Kirche vorhanden.",
+                "hu": "Közvetlenül a templom előtt bőséges parkolóhely áll rendelkezésre.",
+                "ro": "Locuri de parcare suficiente direct în fața bisericii.",
+                "en": "Ample parking is available directly in front of the church."
+              }
+            },
+            {
+              "name": "Lejonströmsbron Bridge",
+              "tip_5lang": {
+                "de": "Sie können mit dem Auto über die Brücke fahren und das Holz knarren hören.",
+                "hu": "Autóval is áthajthat a hídon, hallgatva a fa recsegését az esőben.",
+                "ro": "Puteți traversa podul cu mașina și asculta scârțâitul lemnului.",
+                "en": "You can drive across the bridge and hear the wooden planks creak."
+              }
+            },
+            {
+              "name": "City Center Cluster: Parking Garage",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'CK' für einen komplett trockenen Stadtbummel.",
+                "hu": "Használja a 'CK' parkolóházat a teljesen száraz városi sétához.",
+                "ro": "Folosiți parcarea 'CK' pentru o plimbare complet uscată prin oraș.",
+                "en": "Use the 'CK' parking garage for a completely dry city experience."
+              }
+            },
+            {
+              "name": "Sara Kulturhus & Lunch",
+              "tip_5lang": {
+                "de": "Vom Parkhaus gelangen Sie mit dem Aufzug direkt ins Kulturzentrum.",
+                "hu": "A parkolóból lifttel közvetlenül a kulturális központba juthat.",
+                "ro": "Din parcare puteți ajunge cu liftul direct în centrul cultural.",
+                "en": "From the garage, take the elevator directly into the cultural center."
+              }
+            },
+            {
+              "name": "Stadsparken",
+              "tip_5lang": {
+                "de": "Parken Sie an der Nygatan für den kürzesten Weg zum Park.",
+                "hu": "Parkoljon a Nygatan utcán a legrövidebb úthoz a park felé.",
+                "ro": "Parcați pe strada Nygatan pentru cel mai scurt drum spre parc.",
+                "en": "Park on Nygatan for the shortest walk to the park entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der E4 durch die Stadt.",
+              "Die meisten Parkplätze können per App (Parkster) bezahlt werden.",
+              "Parkhäuser im Zentrum sind die beste Wahl bei schlechtem Wetter.",
+              "Licht am Auto ist in Schweden zu jeder Tageszeit Pflicht."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra az átmenő E4-es úton.",
+              "A legtöbb parkolóhely fizethető mobilalkalmazással (Parkster).",
+              "A belvárosi parkolóházak a legjobb választások rossz időben.",
+              "A nappali menetfény használata Svédországban mindig kötelező."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul E4 care traversează orașul.",
+              "Majoritatea parcărilor pot fi plătite prin aplicație (Parkster).",
+              "Parcările supraetajate sunt cea mai bună alegere pe vreme rea.",
+              "Farurile aprinse sunt obligatorii în Suedia la orice oră."
+            ],
+            "en": [
+              "Watch out for hydroplaning on the E4 highway through town.",
+              "Most parking spots can be paid for via app (Parkster).",
+              "Multi-story parking garages are your best bet in bad weather.",
+              "Running lights are mandatory in Sweden at all times of day."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermärchen per Auto. Wir starten am Vitberget, wo der Blick über die verschneite Stadt am schönsten ist. Die Fahrt durch das weiße Bonnstan und über die historische Holzbrücke ist ein Highlight. Im Zentrum parken wir warm und sicher, um das Sara Kulturhus zu besuchen. Der Tag endet am stimmungsvoll beleuchteten Bryggargården, bequem erreichbar trotz Schnee.",
+            "hu": "Téli tündérmese autóval. A Vitbergetnél kezdünk, ahonnan a legszebb a havas város látványa. A fehérbe burkolózott Bonnstan és a történelmi fahíd meglátogatása igazi fénypont. A belvárosban meleg és biztonságos helyen parkolunk a Sara Kulturhus-hoz. A nap a hangulatosan kivilágított Bryggargårdennél zárul, amely hóban is kényelmesen elérhető.",
+            "ro": "O poveste de iarnă cu mașina. Începem la Vitberget, de unde priveliștea asupra orașului înzăpezit este cea mai frumoasă. Drumul prin Bonnstan-ul alb și peste podul istoric de lemn este un punct culminant. În centru parcăm la căldură și siguranță pentru a vizita Sara Kulturhus. Ziua se încheie la Bryggargården, iluminat feeric și ușor accesibil în ciuda zăpezii.",
+            "en": "A winter fairytale by car. We start at Vitberget, where the view over the snowy city is at its best. Driving through white Bonnstan and across the historic wooden bridge is a highlight. In the center, we park warmly and safely to visit Sara Kulturhus. The day ends at the atmospherically lit Bryggargården, easily accessible despite the snow."
+          },
+          "stops": [
+            {
+              "name": "Vitberget",
+              "tip_5lang": {
+                "de": "Die Auffahrt wird gut geräumt, Winterreifen sind dennoch ein Muss.",
+                "hu": "Az utat jól takarítják, de a téli gumi továbbra is elengedhetetlen.",
+                "ro": "Urcarea este bine curățată, dar anvelopele de iarnă sunt obligatorii.",
+                "en": "The access road is well-plowed, but winter tires are still a must."
+              }
+            },
+            {
+              "name": "Bonnstan Cluster: Parking",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneehaufen, die Parkplätze verkleinern können.",
+                "hu": "Vigyázzon a hóbuckákra, amik leszűkíthetik a parkolóhelyeket.",
+                "ro": "Atenție la mormanele de zăpadă care pot micșora locurile de parcare.",
+                "en": "Watch out for snow banks that might reduce the size of parking spots."
+              }
+            },
+            {
+              "name": "Bonnstan (Church Town)",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den verschneiten Häusern sind ideal bei Kälte.",
+                "hu": "A havas házak közti rövid séták ideálisak a nagy hidegben.",
+                "ro": "Distanțele scurte între casele înzăpezite sunt ideale pe ger.",
+                "en": "Short walks between the snowy houses are ideal in freezing temperatures."
+              }
+            },
+            {
+              "name": "Landskyrkan",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann nach Schneefall etwas rutschig sein.",
+                "hu": "A parkoló havazás után kissé csúszós lehet a templomnál.",
+                "ro": "Parcarea poate fi puțin alunecoasă după ninsoare.",
+                "en": "The parking lot can be a bit slippery after fresh snowfall."
+              }
+            },
+            {
+              "name": "Lejonströmsbron Bridge",
+              "tip_5lang": {
+                "de": "Genießen Sie die Überfahrt über die älteste Holzbrücke im Wintergewand.",
+                "hu": "Élvezze az áthajtást a legrégebbi fahídon téli köntösben.",
+                "ro": "Bucurați-vă de traversarea celui mai vechi pod de lemn în haine de iarnă.",
+                "en": "Enjoy crossing the oldest wooden bridge in its winter attire."
+              }
+            },
+            {
+              "name": "City Center Cluster: Parking Garage",
+              "tip_5lang": {
+                "de": "Warme Parkhäuser verhindern das Einfrieren der Türschlösser.",
+                "hu": "A meleg parkolóházak megakadályozzák az ajtózárak befagyását.",
+                "ro": "Parcările încălzite previn înghețarea încuietorilor ușilor.",
+                "en": "Warm parking garages prevent your car locks from freezing up."
+              }
+            },
+            {
+              "name": "Sara Kulturhus & Lunch",
+              "tip_5lang": {
+                "de": "Direkter Zugang vom Auto zur Wärme ohne Jacke möglich.",
+                "hu": "Közvetlen hozzáférés az autótól a melegbe, akár kabát nélkül is.",
+                "ro": "Acces direct de la mașină la căldură, posibil chiar și fără jachetă.",
+                "en": "Direct access from the car to the warmth, possible even without a coat."
+              }
+            },
+            {
+              "name": "Stadsparken",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nah am Spielplatz für einen kurzen Fotostopp.",
+                "hu": "Használja a játszótér közeli parkolót egy gyors fotómegállóhoz.",
+                "ro": "Folosiți parcarea de lângă locul de joacă pentru o scurtă oprire foto.",
+                "en": "Use the parking lot near the playground for a quick photo stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen mit Spikes sind von Oktober bis April sehr zu empfehlen.",
+              "Führen Sie immer eine Schneeschaufel und einen Eiskratzer mit.",
+              "Die Straßen können unter dem Schnee eine Eisschicht haben.",
+              "Vermeiden Sie das Parken unter tief hängenden Stromleitungen bei Eis."
+            ],
+            "hu": [
+              "A szöges gumi október és április között erősen ajánlott.",
+              "Mindig tartson az autóban hólapátot és jégkaparót.",
+              "Az utak a hó alatt gyakran jegesek, vezessen óvatosan.",
+              "Kerülje a parkolást belógó elektromos vezetékek alatt jegesedéskor."
+            ],
+            "ro": [
+              "Anvelopele de iarnă cu ținte sunt recomandate din octombrie până în aprilie.",
+              "Aveți întotdeauna în mașină o lopată de zăpadă și o răzuitoare de gheață.",
+              "Drumurile pot avea un strat de gheață sub zăpadă.",
+              "Evitați parcarea sub liniile electrice joase în caz de îngheț."
+            ],
+            "en": [
+              "Studded winter tires are highly recommended from October to April.",
+              "Always carry a snow shovel and an ice scraper in your car.",
+              "Roads often have a hidden layer of ice beneath the snow.",
+              "Avoid parking under low-hanging power lines during ice storms."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1533,6 +2169,188 @@
           "Pay attention to bus numbers and directions to avoid getting on the wrong one.",
           "Most buses are wheelchair accessible."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Tag mit dem Bus in Skellefteå. Nach einem Kaffee an der Station geht es trocken nach Bonnstan. Den Mittag verbringen wir im Sara Kulturhus, das nur wenige Schritte von den zentralen Bushaltestellen entfernt liegt. Nachmittags besuchen wir das Museum, bevor wir den Tag im Stadsparken ausklingen lassen, immer in Reichweite der nächsten warmen Haltestelle.",
+            "hu": "Esős nap busszal Skellefteåban. Az állomáson elfogyasztott kávé után szárazon jutunk el Bonnstanba. A delet a Sara Kulturhus-ban töltjük, amely pár lépésre van a központi buszmegállóktól. Délután a múzeumot látogatjuk meg, majd a Stadsparkenben zárjuk a napot, mindig a következő meleg megálló közelében maradva.",
+            "ro": "Zi ploioasă cu autobuzul în Skellefteå. După o cafea la stație, ajungem uscați la Bonnstan. Prânzul îl petrecem la Sara Kulturhus, aflat la doar câțiva pași de stațiile centrale de autobuz. După-amiaza vizităm Muzeul înainte de a încheia ziua în Stadsparken, mereu aproape de următoarea stație caldă.",
+            "en": "A rainy day using transit in Skellefteå. After a coffee at the station, we head to Bonnstan staying dry. Spend mid-day at Sara Kulturhus, located just steps from the central bus hubs. In the afternoon, visit the Museum before finishing in Stadsparken, always within reach of the next warm bus stop."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus Station & Coffee",
+              "tip_5lang": {
+                "de": "Das Bahnhofsgebäude bietet einen großen, trockenen Wartebereich.",
+                "hu": "Az állomás épülete tágas, száraz várakozóhelyet biztosít.",
+                "ro": "Clădirea gării oferă o zonă de așteptare mare și uscată.",
+                "en": "The station building offers a large, dry waiting area."
+              }
+            },
+            {
+              "name": "Bonnstan Cluster: Landskyrkan",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Landskyrkan' liegt direkt am Eingang zum Gelände.",
+                "hu": "A 'Landskyrkan' megálló közvetlenül a terület bejáratánál van.",
+                "ro": "Stația 'Landskyrkan' se află direct la intrarea în zonă.",
+                "en": "The 'Landskyrkan' stop is located right at the entrance to the site."
+              }
+            },
+            {
+              "name": "Bonnstan",
+              "tip_5lang": {
+                "de": "In den historischen Häusern gibt es keinen öffentlichen Regenschutz.",
+                "hu": "A történelmi házak között nincs nyilvános esőbeálló.",
+                "ro": "Nu există adăpost public împotriva ploii printre casele istorice.",
+                "en": "There is no public rain shelter among the historical houses."
+              }
+            },
+            {
+              "name": "Center Cluster: Sara Kulturhus",
+              "tip_5lang": {
+                "de": "Die meisten Buslinien halten an der Station 'Skellefteå C' direkt daneben.",
+                "hu": "A legtöbb buszjárat megáll a közvetlen mellette lévő 'Skellefteå C' megállónál.",
+                "ro": "Majoritatea liniilor de autobuz opresc la stația 'Skellefteå C' de alături.",
+                "en": "Most bus lines stop at 'Skellefteå C', right next to the building."
+              }
+            },
+            {
+              "name": "Skellefteå Museum",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'Nordanå' ist nur 2 Minuten zu Fuß entfernt.",
+                "hu": "A 'Nordanå' megálló mindössze 2 perc sétára található.",
+                "ro": "Stația 'Nordanå' este la doar 2 minute de mers pe jos.",
+                "en": "The 'Nordanå' bus stop is only a 2-minute walk away."
+              }
+            },
+            {
+              "name": "Stadsparken",
+              "tip_5lang": {
+                "de": "Warten Sie bei Regen unter dem Dach des nahen Stadttheaters.",
+                "hu": "Esőben várjon a közeli színház előteteje alatt a buszra.",
+                "ro": "Pe ploaie, așteptați sub streașina teatrului municipal din apropiere.",
+                "en": "Wait under the overhang of the nearby city theater if it's pouring."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Skellefteå buss' für Echtzeit-Infos.",
+              "Fahrkarten können kontaktlos mit Kreditkarte im Bus bezahlt werden.",
+              "Zentrale Haltestellen haben oft überdachte Wartehäuschen.",
+              "Die Linien 1 und 2 verkehren sehr häufig durch das Zentrum."
+            ],
+            "hu": [
+              "Használja a 'Skellefteå buss' alkalmazást a valós idejű infókért.",
+              "A jegyeket érintésmentes bankkártyával is kifizetheti a buszon.",
+              "A központi megállók legtöbbször fedett váróval rendelkeznek.",
+              "Az 1-es és 2-es járatok nagyon sűrűn járnak a belvároson át."
+            ],
+            "ro": [
+              "Utilizați aplicația 'Skellefteå buss' pentru informații în timp real.",
+              "Biletele pot fi plătite contactless cu cardul direct în autobuz.",
+              "Stațiile centrale au adesea adăposturi acoperite.",
+              "Liniile 1 și 2 circulă foarte frecvent prin centru."
+            ],
+            "en": [
+              "Use the 'Skellefteå buss' app for real-time schedule updates.",
+              "Tickets can be paid for using contactless cards on the bus.",
+              "Major bus stops usually have covered shelters.",
+              "Lines 1 and 2 run very frequently through the city center."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Gemütliches Transit-Abenteuer im schwedischen Winter. Wir starten an der warmen Busstation und fahren zur verschneiten Landskyrkan. Die kurzen Fußwege zwischen den Haltestellen und den Sehenswürdigkeiten wie Bonnstan sind im Schnee gut machbar. Den Nachmittag verbringen wir im hell erleuchteten Sara Kulturhus und im Museum, bevor uns der Bus sicher zurück bringt.",
+            "hu": "Kényelmes közösségi közlekedési kaland a svéd télben. A meleg buszállomásról indulunk a havas Landskyrkanhoz. A megállók és a látnivalók, mint Bonnstan közti rövid séták hóban is könnyen teljesíthetők. A délutánt a fényárban úszó Sara Kulturhus-ban és a múzeumban töltjük, mielőtt a busz biztonságban visszavisz minket.",
+            "ro": "Aventură confortabilă cu transportul public în iarna suedeză. Începem de la stația caldă de autobuz și mergem spre Landskyrkan înzăpezită. Distanțele scurte de mers pe jos între stații și obiectivele precum Bonnstan sunt ușor de parcurs. După-amiaza o petrecem în Sara Kulturhus iluminat și la muzeu, înainte ca autobuzul să ne aducă înapoi în siguranță.",
+            "en": "A cozy transit adventure in the Swedish winter. Start at the warm bus station and head to the snowy Landskyrkan. The short walks between the stops and sights like Bonnstan are manageable even in the snow. Spend the afternoon in the brightly lit Sara Kulturhus and the Museum before the bus safely whisks you back."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Bus Station & Coffee",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Fahrten aufzuwärmen.",
+                "hu": "Ideális hely a felmelegedéshez két járat között.",
+                "ro": "Un loc ideal pentru a te încălzi între călătorii.",
+                "en": "An ideal place to warm up between bus connections."
+              }
+            },
+            {
+              "name": "Bonnstan Cluster: Landskyrkan",
+              "tip_5lang": {
+                "de": "Die Wege von der Haltestelle werden im Winter schnell geräumt.",
+                "hu": "A megállótól vezető utakat télen gyorsan letakarítják.",
+                "ro": "Căile de acces de la stație sunt curățate rapid iarna.",
+                "en": "The paths from the bus stop are prioritized for snow removal."
+              }
+            },
+            {
+              "name": "Bonnstan",
+              "tip_5lang": {
+                "de": "Planen Sie Ihren Besuch so, dass Sie nicht zu lange in der Kälte warten.",
+                "hu": "Úgy tervezze a látogatást, hogy ne kelljen sokat várni a hidegben a buszra.",
+                "ro": "Planificați vizita astfel încât să nu așteptați prea mult în frig.",
+                "en": "Time your visit to avoid waiting too long in the cold for the next bus."
+              }
+            },
+            {
+              "name": "Center Cluster: Sara Kulturhus",
+              "tip_5lang": {
+                "de": "Ein warmer Hub für alle Transit-Reisenden im Stadtkern.",
+                "hu": "Meleg központ minden tömegközlekedőnek a város szívében.",
+                "ro": "Un nod cald pentru toți călătorii cu transportul public din centrul orașului.",
+                "en": "A warm hub for all transit travelers in the heart of the city."
+              }
+            },
+            {
+              "name": "Skellefteå Museum",
+              "tip_5lang": {
+                "de": "Der Weg zur Haltestelle führt durch den beleuchteten Park Nordanå.",
+                "hu": "A megállóhoz vezető út a kivilágított Nordanå parkon át vezet.",
+                "ro": "Drumul spre stație trece prin parcul iluminat Nordanå.",
+                "en": "The walk to the bus stop goes through the beautifully lit Nordanå park."
+              }
+            },
+            {
+              "name": "Stadsparken",
+              "tip_5lang": {
+                "de": "Die Haltestellen 'Centrum' bieten Windschutz und Sitzbänke.",
+                "hu": "A 'Centrum' megállók szélvédettek és ülőhelyekkel ellátottak.",
+                "ro": "Stațiile 'Centrum' oferă protecție împotriva vântului și bănci.",
+                "en": "The 'Centrum' stops offer wind protection and benches while you wait."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind in Skellefteå auch bei starkem Schneefall sehr pünktlich.",
+              "Helfen Sie dem Fahrer, indem Sie im Dunkeln einen Reflektor benutzen.",
+              "Warten Sie in den beheizten Wartehallen am Busbahnhof.",
+              "Die Busse sind gut beheizt; ideal zum Aufwärmen zwischen den Stopps."
+            ],
+            "hu": [
+              "A buszok Skellefteåban nagy hóesésben is rendkívül pontosak.",
+              "Segítsen a sofőrnek azzal, hogy a sötétben fényvisszaverőt használ.",
+              "Várjon a buszállomás fűtött várakozóhelyiségeiben.",
+              "A buszok jól fűtöttek; ideálisak a felmelegedésre a megállók közt."
+            ],
+            "ro": [
+              "Autobuzele din Skellefteå sunt foarte punctuale chiar și la ninsori mari.",
+              "Ajutați șoferul folosind un reflectorizant pe întuneric.",
+              "Așteptați în sălile de așteptare încălzite de la autogară.",
+              "Autobuzele sunt bine încălzite; ideale pentru încălzire între opriri."
+            ],
+            "en": [
+              "Buses in Skellefteå remain very punctual even during heavy snowfall.",
+              "Help the driver see you by using a reflector in the dark.",
+              "Wait inside the heated waiting areas at the main bus station.",
+              "Buses are well-heated; perfect for warming up between outdoor stops."
+            ]
+          }
+        }
       }
     }
   }

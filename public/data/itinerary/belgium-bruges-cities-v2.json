@@ -401,6 +401,232 @@
           "Get lost in the smaller alleys away from the tourist crowds.",
           "Try a local 'Brugse Zot' beer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag am Grote Markt beginnt unter den Arkaden, während der Regen auf das Kopfsteinpflaster trommelt. Der Aufstieg im Belfried bietet Schutz und einen nebligen Blick. Mittags führt der Weg schnell zur Heilig-Blut-Basilika.\nNachmittags bietet das Groeningemuseum einen trockenen Rückzugsort für flämische Kunst. Der Spaziergang am Rozenhoedkaai wirkt im Regen melancholisch und mystisch. Den Abend lassen wir im ruhigen Beginenhof und am Minnewater ausklingen, wo die Weiden über dem nassen Ufer hängen.",
+            "hu": "A délelőtt a Grote Markt árkádjai alatt indul, miközben az eső veri a macskaköveket. A Belfry torony lépcsőháza száraz menedéket és ködös kilátást nyújt. Délben a Szent Vér-bazilika csendjében húzódunk meg.\nDélután a Groeningemuseum flamand festményei között várjuk ki a zápor végét. A Rozenhoedkaai látványa esőben is misztikus, a csatornák vize fodrozódik. Az estét a Begina-udvar és a Minnewater-tó partján zárjuk, ahol a köd különleges hangulatot áraszt.",
+            "ro": "Dimineața în Grote Markt începe sub arcade, în timp ce ploaia bate în pavajul vechi. Urcarea în Turnul Belfry oferă adăpost și o vedere cețoasă. La prânz, ne refugiem în Bazilica Sângelui Sfânt.\nDupă-amiaza, Muzeul Groeninge este locul perfect pentru a admira arta flamandă la adăpost. Rozenhoedkaai arată melancolic sub ploaie, cu reflexii argintii în canal. Seara se încheie la Beguinage și Lacul Minnewater, unde atmosfera devine intimă și liniștită.",
+            "en": "The morning at Grote Markt starts under the historic arcades while rain hits the cobblestones. Climbing the Belfry provides dry shelter and a misty panorama. Midday is spent in the quiet sanctuary of the Holy Blood Basilica.\nIn the afternoon, the Groeningemuseum offers a perfect escape among Flemish masterpieces. Rozenhoedkaai looks mystical in the drizzle, its reflections shimmering. The evening winds down at the Beguinage and Minnewater, where the mist clings to the water's surface."
+          },
+          "stops": [
+            {
+              "name": "Market Square (Grote Markt)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Arkaden der Historium-Terrasse.",
+                "hu": "Használja a Historium teraszának fedett árkádjait.",
+                "ro": "Folosiți arcadele acoperite ale terasei Historium.",
+                "en": "Use the covered arcades of the Historium terrace."
+              }
+            },
+            {
+              "name": "Belfry of Bruges",
+              "tip_5lang": {
+                "de": "366 Stufen im Trockenen; oben ist es windig und feucht.",
+                "hu": "366 lépcső fedett helyen; a tetőn szeles és nyirkos lehet.",
+                "ro": "366 de trepte la interior; sus poate fi vânt și umezeală.",
+                "en": "366 steps indoors; the top can be windy and damp."
+              }
+            },
+            {
+              "name": "Basilica of the Holy Blood",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen heftigen Schauer abzuwarten.",
+                "hu": "Ideális helyszín egy nagyobb zápor kivárásához.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse.",
+                "en": "An ideal place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Rozenhoedkaai (Quay of the Rosary)",
+              "tip_5lang": {
+                "de": "Vorsicht am Ufer, die Steine sind bei Nässe extrem rutschig.",
+                "hu": "Vigyázat a parton, a kövek vizesen rendkívül csúszósak.",
+                "ro": "Atenție pe mal, pietrele sunt extrem de alunecoase când sunt ude.",
+                "en": "Caution on the quay; the stones are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Groeningemuseum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, um trocken zu bleiben.",
+                "hu": "Tervezzen ide több időt, hogy szárazon maradjon.",
+                "ro": "Planificați mai mult timp aici pentru a rămâne la adăpost.",
+                "en": "Plan more time here to stay dry and enjoy the art."
+              }
+            },
+            {
+              "name": "Church of Our Lady",
+              "tip_5lang": {
+                "de": "Besuchen Sie Michelangelos Madonna im warmen Inneren.",
+                "hu": "Tekintse meg Michelangelo Madonnáját a meleg belső térben.",
+                "ro": "Vizitați Madonna lui Michelangelo în interiorul călduros.",
+                "en": "Visit Michelangelo's Madonna in the warm interior."
+              }
+            },
+            {
+              "name": "Beguinage (Begijnhof)",
+              "tip_5lang": {
+                "de": "Der Boden kann schlammig sein; bleiben Sie auf den Wegen.",
+                "hu": "A talaj sáros lehet; maradjon a kijelölt ösvényeken.",
+                "ro": "Solul poate fi noroios; rămâneți pe potecile principale.",
+                "en": "The ground can be muddy; stay on the paved paths."
+              }
+            },
+            {
+              "name": "Minnewater (Lake of Love)",
+              "tip_5lang": {
+                "de": "Die Brücke bietet den besten Blick bei grauem Himmel.",
+                "hu": "A híd nyújtja a legjobb kilátást szürke égbolt mellett is.",
+                "ro": "Podul oferă cea mai bună priveliște chiar și sub cer gri.",
+                "en": "The bridge offers the best view even under grey skies."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie einen stabilen Regenschirm in den Geschäften am Markt.",
+              "Die Schokoladengeschäfte bieten oft warme Verkostungen an.",
+              "Die Pflastersteine in der Altstadt sind bei Regen sehr rutschig.",
+              "Besuchen Sie die Brauerei De Halve Maan für eine trockene Führung.",
+              "Die Museen sind bei Regen deutlich voller; buchen Sie vorab."
+            ],
+            "hu": [
+              "Vásároljon tartós esernyőt a főtéri üzletekben.",
+              "A csokoládéboltok gyakran kínálnak meleg kóstolót.",
+              "Az óvárosi macskakövek esőben nagyon csúszósak.",
+              "Látogassa meg a De Halve Maan sörfőzdét egy fedett túrára.",
+              "Esőben a múzeumok zsúfoltabbak; foglaljon előre jegyet."
+            ],
+            "ro": [
+              "Cumpărați o umbrelă rezistentă din magazinele din piață.",
+              "Ciocolateriile oferă adesea degustări calde de ciocolată.",
+              "Pavelele din centrul vechi sunt foarte alunecoase pe ploaie.",
+              "Vizitați berăria De Halve Maan pentru un tur la interior.",
+              "Muzeele sunt mai aglomerate pe ploaie; rezervați bilete."
+            ],
+            "en": [
+              "Buy a sturdy umbrella in the shops around the market square.",
+              "Chocolate shops often offer warm tastings during rain.",
+              "Cobblestones in the old town are very slippery when wet.",
+              "Visit De Halve Maan brewery for a dry indoor tour.",
+              "Museums are much busier on rainy days; book in advance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Brügge im Winter ist wie eine Märchenwelt mit frostigen Kanälen. Der Grote Markt glänzt mit Weihnachtsbeleuchtung und dem Duft von Waffeln. Der Belfried bietet einen kalten Blick über die verschneiten Dächer.\nMittags wärmen wir uns in den Kirchen und Museen auf. Die Rozenhoedkaai wirkt bei winterlichem Licht wie gemalt. Nachmittags besuchen wir das Beguinage, wo die kahlen Bäume eine stille Atmosphäre schaffen. Der Tag endet früh bei Sonnenuntergang am Minnewater mit einer heißen Schokolade.",
+            "hu": "Brüsszel télen olyan, mint egy tündérmese a fagyos csatornákkal. A Grote Markt karácsonyi fényekkel és gofri illattal vár. A Belfry toronyból csodás kilátás nyílik a havas háztetőkre.\nDélben a templomok és múzeumok falai között melegszünk fel. A Rozenhoedkaai téli fényei festőiek. Délután a Begina-udvar kopár fái között sétálunk, ahol csend honol. A nap korán, a naplemente idején ér véget a Minnewater-tónál egy forró csokoládéval.",
+            "ro": "Bruges iarna este ca o lume de basm, cu canale înghețate. Grote Markt strălucește cu luminițe de Crăciun și miros de vafe. Turnul Belfry oferă o vedere rece peste acoperișurile ningute.\nLa prânz, ne încălzim în biserici și muzee. Rozenhoedkaai arată ca pictat în lumina iernii. După-amiaza vizităm Beguinage, unde copacii golași creează o atmosferă liniștită. Ziua se încheie devreme, la apus, lângă Lacul Minnewater cu o ciocolată caldă.",
+            "en": "Bruges in winter feels like a fairy tale with its frosty canals. Grote Markt shines with festive lights and the scent of waffles. Climbing the Belfry offers a cold but clear view over snowy rooftops.\nAt midday, find warmth in the churches and museums. Rozenhoedkaai looks like a painting in the winter light. In the afternoon, the Beguinage’s bare trees create a serene atmosphere. The day ends early as the sun sets over Minnewater, perfect for a hot chocolate."
+          },
+          "stops": [
+            {
+              "name": "Market Square (Grote Markt)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Weihnachtsbeleuchtung und heiße Waffeln.",
+                "hu": "Élvezze a karácsonyi kivilágítást és a forró gofrit.",
+                "ro": "Bucurați-vă de luminile de Crăciun și de vafele fierbinți.",
+                "en": "Enjoy the Christmas lights and fresh hot waffles."
+              }
+            },
+            {
+              "name": "Belfry of Bruges",
+              "tip_5lang": {
+                "de": "Oben ist es sehr kalt; Handschuhe und Mütze sind Pflicht.",
+                "hu": "A torony tetején hideg van; kesztyű és sapka kötelező.",
+                "ro": "Sus este foarte frig; mănușile și căciula sunt obligatorii.",
+                "en": "It is very cold at the top; gloves and a hat are essential."
+              }
+            },
+            {
+              "name": "Basilica of the Holy Blood",
+              "tip_5lang": {
+                "de": "Ein ruhiger, warmer Ort für Besinnung im Winter.",
+                "hu": "Csendes, meleg hely az elmélyüléshez télen.",
+                "ro": "Un loc liniștit și cald pentru reculegere pe timp de iarnă.",
+                "en": "A quiet, warm place for reflection during winter."
+              }
+            },
+            {
+              "name": "Rozenhoedkaai (Quay of the Rosary)",
+              "tip_5lang": {
+                "de": "Das blaue Licht zur 'blauen Stunde' ist im Winter magisch.",
+                "hu": "A téli 'kék óra' fényei varázslatosak ezen a ponton.",
+                "ro": "Lumina albastră de la amurg este magică iarna aici.",
+                "en": "The light during the 'blue hour' is magical in winter here."
+              }
+            },
+            {
+              "name": "Groeningemuseum",
+              "tip_5lang": {
+                "de": "Perfekt, um der Kälte für 90 Minuten zu entkommen.",
+                "hu": "Tökéletes helyszín a hideg elöli 90 perces menekülésre.",
+                "ro": "Perfect pentru a scăpa de frig timp de 90 de minute.",
+                "en": "Perfect for escaping the cold for 90 minutes of art."
+              }
+            },
+            {
+              "name": "Church of Our Lady",
+              "tip_5lang": {
+                "de": "Achten Sie auf die prächtigen Grabmäler in der Wärme.",
+                "hu": "Csodálja meg a pompás síremlékeket a melegben.",
+                "ro": "Admirați mormintele magnifice la căldură.",
+                "en": "Admire the magnificent tombs in the indoor warmth."
+              }
+            },
+            {
+              "name": "Beguinage (Begijnhof)",
+              "tip_5lang": {
+                "de": "Die Anlage schließt im Winter oft früher; prüfen Sie die Zeit.",
+                "hu": "Télen gyakran korábban zár; ellenőrizze a nyitvatartást.",
+                "ro": "Complexul se închide adesea mai devreme iarna; verificați.",
+                "en": "The complex often closes earlier in winter; check times."
+              }
+            },
+            {
+              "name": "Minnewater (Lake of Love)",
+              "tip_5lang": {
+                "de": "Der See kann teilweise gefroren sein; nicht betreten!",
+                "hu": "A tó részben befagyhat; ne lépjen a jégre!",
+                "ro": "Lacul poate fi parțial înghețat; nu călcați pe gheață!",
+                "en": "The lake may be partially frozen; do not step on the ice!"
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sonnenuntergang ist bereits gegen 16:30 Uhr.",
+              "Tragen Sie Wollsocken gegen die Kälte des Kopfsteinpflasters.",
+              "Die Grachtenrundfahrten haben im Winter oft Heizkissen.",
+              "Besuchen Sie den Weihnachtsmarkt auf dem Simon Stevinplein.",
+              "Reservieren Sie Restaurants, da viele Abends drinnen sitzen."
+            ],
+            "hu": [
+              "A naplemente már délután fél 5 körül bekövetkezik.",
+              "Viseljen gyapjúzoknit a macskakövek hidege ellen.",
+              "A csatornahajózáson télen gyakran adnak fűtőpárnát.",
+              "Látogassa meg a karácsonyi vásárt a Simon Stevinpleinen.",
+              "Foglaljon asztalt, mert este mindenki bent akar ülni."
+            ],
+            "ro": [
+              "Apusul soarelui este deja în jurul orei 16:30.",
+              "Purtați șosete de lână împotriva frigului de la pavaj.",
+              "Plimbările cu barca au adesea perne încălzite iarna.",
+              "Vizitați piața de Crăciun de la Simon Stevinplein.",
+              "Rezervați masă la restaurant, locurile din interior se ocupă."
+            ],
+            "en": [
+              "Sunset is already around 4:30 PM in December/January.",
+              "Wear thick wool socks against the cold of the cobblestones.",
+              "Canal boat tours often provide heated cushions in winter.",
+              "Visit the Christmas market at Simon Stevinplein.",
+              "Book restaurants in advance as everyone wants to sit inside."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -773,6 +999,214 @@
           "The bike path along the outer ring is a great way to circle the city.",
           "Some central areas are pedestrian-only, you'll have to dismount there."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Brügge bei Regen erfordert Vorsicht auf dem glatten Kopfsteinpflaster. Der Morgen startet am Markt, gefolgt von einem schnellen Stopp am Rozenhoedkaai. Das Groeningemuseum bietet eine lange Pause im Trockenen.\nAm Nachmittag radeln wir zum Minnewater und durch den stillen Beginenhof. Das Oud Sint-Jan Hospital ist ein sicherer Hafen vor dem Wind. Die Tour endet bei den Windmühlen, wo die Flügel im grauen Himmel drehen.",
+            "hu": "A kerékpározás esős időben óvatosságot igényel a csúszós macskaköveken. A reggel a főtéren indul, majd egy gyors megálló következik a Rozenhoedkaai-nál. A Groeningemuseum hosszú, száraz pihenőt kínál.\nDélután a Minnewater és a Begina-udvar felé tekerünk. Az Oud Sint-Jan kórház menedéket nyújt a szél elől. A túra a szélmalmoknál zárul, ahol a vitorlák a szürke égbolt előtt forognak.",
+            "ro": "Mersul pe bicicletă în Bruges pe ploaie necesită atenție la pavajul alunecos. Dimineața începe în piață, urmată de o oprire scurtă la Rozenhoedkaai. Muzeul Groeninge oferă o pauză lungă la uscat.\nDupă-amiaza pedalăm spre Minnewater și prin liniștitul Beguinage. Spitalul Oud Sint-Jan este un refugiu sigur contra vântului. Turul se încheie la morile de vânt, unde paletele se rotesc sub cerul gri.",
+            "en": "Cycling in Bruges during rain requires extra caution on the slick cobblestones. The morning starts at the market, followed by a quick photo at Rozenhoedkaai. The Groeningemuseum offers a long dry break.\nIn the afternoon, we pedal towards Minnewater and the quiet Beguinage. Oud Sint-Jan Hospital provides a safe haven from the wind. The tour ends at the windmills, where the sails spin against the moody grey sky."
+          },
+          "stops": [
+            {
+              "name": "Market Square (Grote Markt)",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher im unterirdischen Parkhaus.",
+                "hu": "Parkolja le kerékpárját a földalatti tárolóban.",
+                "ro": "Parcați bicicleta în siguranță în parcarea subterană.",
+                "en": "Park your bike safely in the underground bicycle parking."
+              }
+            },
+            {
+              "name": "Rozenhoedkaai",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; halten Sie Ihre Bremsen bereit.",
+                "hu": "Rövid megálló; tartsa készenlétben a fékeket.",
+                "ro": "Oprire scurtă; țineți frânele pregătite pe pavaj.",
+                "en": "Short stop; keep your brakes ready on the wet stones."
+              }
+            },
+            {
+              "name": "Groeningemuseum",
+              "tip_5lang": {
+                "de": "Suchen Sie einen überdachten Platz für Ihr Fahrrad.",
+                "hu": "Keressen fedett helyet a kerékpárjának.",
+                "ro": "Căutați un loc acoperit pentru bicicletă.",
+                "en": "Look for a covered spot for your bicycle near the entrance."
+              }
+            },
+            {
+              "name": "Minnewater (Lake of Love)",
+              "tip_5lang": {
+                "de": "Die Wege im Park können rutschig und matschig sein.",
+                "hu": "A park ösvényei csúszósak és sárosak lehetnek.",
+                "ro": "Potecile din parc pot fi alunecoase și noroioase.",
+                "en": "The paths in the park can be slippery and muddy."
+              }
+            },
+            {
+              "name": "Beguinage (Begijnhof)",
+              "tip_5lang": {
+                "de": "Fahren Sie hier besonders langsam und rücksichtsvoll.",
+                "hu": "Itt különösen lassan és figyelmesen közlekedjen.",
+                "ro": "Mergeți foarte încet și cu atenție sporită aici.",
+                "en": "Ride very slowly and considerately within the grounds."
+              }
+            },
+            {
+              "name": "Oud Sint-Jan (Old St. John's Hospital)",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Regenkleidung kurz zu lüften.",
+                "hu": "Jó hely az esőruházat rövid szellőztetésére.",
+                "ro": "Un loc bun pentru a aerisi puțin pelerina de ploaie.",
+                "en": "A good spot to briefly air out your rain gear indoors."
+              }
+            },
+            {
+              "name": "Windmills of Bruges (Sint-Janshuismolen)",
+              "tip_5lang": {
+                "de": "Vorsicht bei starkem Wind auf dem Wall.",
+                "hu": "Vigyázat az erős széllel a sáncon (vesten).",
+                "ro": "Atenție la vântul puternic pe terasamentul orașului.",
+                "en": "Be careful with strong winds on the city ramparts."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenjacke und Regenhose.",
+              "Vermeiden Sie abrupte Bremsmanöver auf Kopfsteinpflaster.",
+              "Nutzen Sie die kostenlosen Fahrradpumpen in der Innenstadt.",
+              "Die weißen Linien auf der Straße sind bei Nässe extrem glatt.",
+              "Fahren Sie defensiv, da Autofahrer schlechtere Sicht haben."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot (dzseki és nadrág).",
+              "Kerülje a hirtelen fékezést a macskaköveken.",
+              "Használja a belvárosi ingyenes kerékpárpumpákat.",
+              "Az úton lévő fehér felfestések vizesen nagyon csúsznak.",
+              "Tekerjen óvatosan, az autósok látási viszonyai romlanak."
+            ],
+            "ro": [
+              "Purtați o jachetă și pantaloni de ploaie complet impermeabili.",
+              "Evitați frânările bruște pe piatră cubică.",
+              "Folosiți pompele de bicicletă gratuite din centrul orașului.",
+              "Liniile albe de pe șosea sunt extrem de alunecoase pe ud.",
+              "Conduceți defensiv, șoferii au vizibilitate redusă."
+            ],
+            "en": [
+              "Wear a full waterproof rain jacket and trousers.",
+              "Avoid sudden braking maneuvers on the cobblestones.",
+              "Use the free bicycle pumps located in the city center.",
+              "White road markings are extremely slippery when wet.",
+              "Ride defensively as drivers have reduced visibility in rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch Brügge bietet klare Luft und leere Gassen. Am Grote Markt wärmen wir uns kurz auf, bevor es zum Rozenhoedkaai geht. Die Museen sind wichtige Stopps, um die gefrorenen Finger aufzutauen.\nNachmittags führt die Route am Minnewater vorbei zum Beginenhof. Im Oud Sint-Jan Hospital genießen wir die Wärme der Ausstellungen. Zum Abschluss radeln wir entlang der historischen Windmühlen auf dem Stadtwall, während die Sonne früh untergeht.",
+            "hu": "A téli kerékpározás Brüsszelben friss levegőt és üres utcákat kínál. A Grote Markton melegszünk egyet, mielőtt a Rozenhoedkaaihoz indulunk. A múzeumok fontos megállók a lefagyott ujjak felolvasztására.\nDélután az út a Minnewater mellett vezet a Begina-udvarhoz. Az Oud Sint-Jan kórházban élvezzük a kiállítások melegét. Zárásként a városfalon lévő történelmi szélmalmok mentén tekerünk, miközben a nap korán nyugovóra tér.",
+            "ro": "O plimbare de iarnă cu bicicleta oferă aer curat și străzi pustii. În Grote Markt ne încălzim scurt înainte de a merge la Rozenhoedkaai. Muzeele sunt opriri esențiale pentru a ne dezgheța degetele.\nDupă-amiaza, ruta trece pe lângă Minnewater spre Beguinage. În spitalul Oud Sint-Jan ne bucurăm de căldura expozițiilor. La final, pedalăm de-a lungul morilor de vânt istorice pe zidul orașului, în timp ce soarele apune devreme.",
+            "en": "A winter bike tour through Bruges offers crisp air and quiet alleys. Warm up briefly at Grote Markt before heading to Rozenhoedkaai. Museums are vital stops to thaw out frozen fingers.\nIn the afternoon, the route passes Minnewater towards the Beguinage. Inside Oud Sint-Jan Hospital, enjoy the warmth of the exhibitions. To finish, cycle along the historic windmills on the city ramparts as the sun sets early."
+          },
+          "stops": [
+            {
+              "name": "Market Square (Grote Markt)",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und genießen Sie einen heißen Kakao.",
+                "hu": "Parkoljon le és élvezzen egy forró kakaót.",
+                "ro": "Parcați bicicleta și savurați o cacao fierbinte.",
+                "en": "Park your bike and enjoy a hot cocoa to warm up."
+              }
+            },
+            {
+              "name": "Rozenhoedkaai",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in den schattigen Kurven.",
+                "hu": "Vigyázzon a jégfoltokra az árnyékos kanyarokban.",
+                "ro": "Atenție la gheață în curbele umbrite.",
+                "en": "Watch out for black ice in shaded corners."
+              }
+            },
+            {
+              "name": "Groeningemuseum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre schwere Winterjacke.",
+                "hu": "Használja a ruhatárat a nehéz télikabátjához.",
+                "ro": "Folosiți garderoba pentru jacheta grea de iarnă.",
+                "en": "Use the cloakroom for your heavy winter jacket."
+              }
+            },
+            {
+              "name": "Minnewater (Lake of Love)",
+              "tip_5lang": {
+                "de": "Der Wind am See kann im Winter schneidend kalt sein.",
+                "hu": "A tónál a szél télen metszően hideg lehet.",
+                "ro": "Vântul de lângă lac poate fi tăios iarna.",
+                "en": "The wind by the lake can be biting cold in winter."
+              }
+            },
+            {
+              "name": "Beguinage (Begijnhof)",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Radfahren auf gefrorenen Wegen.",
+                "hu": "Kerülje a kerékpározást a lefagyott ösvényeken.",
+                "ro": "Evitați mersul pe bicicletă pe aleile înghețate.",
+                "en": "Avoid cycling on frozen or icy paths inside."
+              }
+            },
+            {
+              "name": "Oud Sint-Jan (Old St. John's Hospital)",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine längere Aufwärmpause.",
+                "hu": "Ideális helyszín egy hosszabb melegedő szünetre.",
+                "ro": "Un loc ideal pentru o pauză lungă de încălzire.",
+                "en": "An ideal place for a long warm-up break."
+              }
+            },
+            {
+              "name": "Windmills of Bruges (Sint-Janshuismolen)",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Wall kann glatt sein; Vorsicht!",
+                "hu": "A sáncra való feljutás csúszós lehet; óvatosan!",
+                "ro": "Urcarea pe terasament poate fi alunecoasă; atenție!",
+                "en": "The ramp up to the ramparts can be icy; be careful!"
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze.",
+              "Die Fahrradketten benötigen im Winter mehr Pflege (Salz).",
+              "Achten Sie auf gefrorenes Tauwasser auf dem Pflaster.",
+              "Nutzen Sie die 'Blue-bike' Leihräder am Bahnhof.",
+              "Beleuchtung ist ab 16:00 Uhr zwingend erforderlich."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sapkát.",
+              "A kerékpárláncok télen több törődést igényelnek a só miatt.",
+              "Ügyeljen a macskaköveken megfagyott hólére.",
+              "Használja a vasútállomásnál lévő 'Blue-bike' bérbicajokat.",
+              "A világítás délután 4-től kötelező."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă.",
+              "Lanțul bicicletei necesită mai multă îngrijire iarna (sarea).",
+              "Atenție la apa înghețată pe pavajul de piatră.",
+              "Folosiți bicicletele de închiriat 'Blue-bike' de la gară.",
+              "Luminile sunt obligatorii începând cu ora 16:00."
+            ],
+            "en": [
+              "Wear windproof gloves and a warm hat.",
+              "Bicycle chains need more maintenance in winter due to salt.",
+              "Watch out for frozen meltwater on the cobblestones.",
+              "Use 'Blue-bike' rentals available at the railway station.",
+              "Lights are mandatory starting from 4:00 PM."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1153,6 +1587,214 @@
           "Buy a Bruges City Card for discounts at museums and car parks.",
           "The streets in Bruges are narrow; drive carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Brügge bei Regen komfortabel und trocken. Wir starten im Parkhaus 't Zand und besuchen das Oud Sint-Jan Hospital. Mittags geht es zum Minnewater, wobei wir die kurzen Wege zwischen Auto und Sehenswürdigkeit nutzen.\nNach dem Parken am Pandreitje besuchen wir die Basilika und den Grote Markt. Das Auto bietet uns jederzeit einen warmen Rückzugsort. Der Tag endet mit einem Ausflug ins nahegelegene Dorf Damme, wo wir den Regen über den Feldern beobachten.",
+            "hu": "Autóval kényelmesen és szárazon fedezzük fel Brüsszelt esőben is. A 't Zand parkolóházban kezdünk, majd meglátogatjuk az Oud Sint-Jan kórházat. Délben a Minnewater következik, kihasználva az autó és a látnivalók közötti rövid távolságot.\nA Pandreitje parkoló után a bazilika és a főtér jön. Az autó bármikor meleg menedéket nyújt. A napot a közeli Damme falujában zárjuk, nézve a mezők feletti esőt.",
+            "ro": "Cu mașina explorăm Bruges pe ploaie în mod confortabil și uscat. Începem în parcarea 't Zand și vizităm spitalul Oud Sint-Jan. La prânz mergem la Minnewater, folosind distanțele scurte între mașină și obiective.\nDupă parcarea la Pandreitje, vizităm bazilica și Grote Markt. Mașina ne oferă oricând un refugiu cald. Ziua se încheie cu o excursie în satul Damme, unde observăm ploaia peste câmpuri.",
+            "en": "Exploring Bruges by car during rain is comfortable and dry. We start at 't Zand parking and visit Oud Sint-Jan Hospital. At midday, we head to Minnewater, utilizing short walks between the car and the sights.\nAfter parking at Pandreitje, we visit the Basilica and Grote Markt. The car serves as a warm retreat at any time. The day ends with a drive to the nearby village of Damme, watching the rain sweep over the fields."
+          },
+          "stops": [
+            {
+              "name": "Parking 't Zand",
+              "tip_5lang": {
+                "de": "Das größte unterirdische Parkhaus; ideal bei Starkregen.",
+                "hu": "A legnagyobb földalatti parkoló; ideális szakadó esőben.",
+                "ro": "Cea mai mare parcare subterană; ideală pe ploaie torențială.",
+                "en": "The largest underground parking; ideal during heavy rain."
+              }
+            },
+            {
+              "name": "Oud Sint-Jan & Church of Our Lady",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg vom Parkhaus entfernt.",
+                "hu": "Csak 5 perc séta a parkolóháztól.",
+                "ro": "La doar 5 minute de mers pe jos de parcare.",
+                "en": "Only a 5-minute walk from the underground parking."
+              }
+            },
+            {
+              "name": "Beguinage & Minnewater",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz 'Begijnhof' für kurze Wege.",
+                "hu": "Használja a 'Begijnhof' parkolót a rövid távokért.",
+                "ro": "Folosiți parcarea 'Begijnhof' pentru acces rapid.",
+                "en": "Use the 'Begijnhof' parking lot for short walking distances."
+              }
+            },
+            {
+              "name": "Parking Pandreitje",
+              "tip_5lang": {
+                "de": "Zentral gelegen für die Basilika und den Markt.",
+                "hu": "Központi fekvésű, közel a bazilikához és a piachoz.",
+                "ro": "Situată central pentru bazilică și piață.",
+                "en": "Centrally located for the Basilica and the market square."
+              }
+            },
+            {
+              "name": "Rozenhoedkaai & Basilica of the Holy Blood",
+              "tip_5lang": {
+                "de": "Kurze Sprints zwischen den historischen Gebäuden.",
+                "hu": "Rövid futás a történelmi épületek között.",
+                "ro": "Sprinturi scurte între clădirile istorice.",
+                "en": "Short sprints between the historic buildings."
+              }
+            },
+            {
+              "name": "Market Square & Belfry",
+              "tip_5lang": {
+                "de": "Die Cafés am Markt bieten Schutz bei Schauern.",
+                "hu": "A főtéri kávézók védelmet nyújtanak zápor esetén.",
+                "ro": "Cafenelele din piață oferă adăpost în timpul averselor.",
+                "en": "The cafes on the square offer shelter during showers."
+              }
+            },
+            {
+              "name": "Village of Damme",
+              "tip_5lang": {
+                "de": "Die Fahrt entlang des Kanals ist bei Regen sehr malerisch.",
+                "hu": "A csatorna menti út esőben is nagyon festői.",
+                "ro": "Drumul de-a lungul canalului este pitoresc pe ploaie.",
+                "en": "The drive along the canal is very scenic even in rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Park-and-Ride Plätze außerhalb, falls das Zentrum voll ist.",
+              "Die Tiefgaragen sind trocken und gut beleuchtet.",
+              "Vermeiden Sie das Fahren in den extrem engen Gassen (Einbahnstraßen).",
+              "Prüfen Sie die Scheibenwischer vor der Fahrt nach Damme.",
+              "Parkgebühren können bequem per App bezahlt werden."
+            ],
+            "hu": [
+              "Használja a külső P+R parkolókat, ha a központ megtelt.",
+              "A mélygarázsok szárazak és jól kivilágítottak.",
+              "Kerülje a hajtást a rendkívül szűk utcákban.",
+              "Ellenőrizze az ablaktörlőket a Damme-i út előtt.",
+              "A parkolási díjat kényelmesen, applikációval is fizetheti."
+            ],
+            "ro": [
+              "Folosiți parcările P+R de la periferie dacă centrul este plin.",
+              "Parcările subterane sunt uscate și bine iluminate.",
+              "Evitați condusul pe străzile extrem de înguste din centru.",
+              "Verificați ștergătoarele înainte de drumul spre Damme.",
+              "Taxele de parcare pot fi plătite comod prin aplicație."
+            ],
+            "en": [
+              "Use Park-and-Ride lots outside if the center is full.",
+              "Underground car parks are dry and well-lit.",
+              "Avoid driving into extremely narrow one-way alleys.",
+              "Check your windshield wipers before driving to Damme.",
+              "Parking fees can be paid conveniently via mobile app."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist Brügge mit dem Auto besonders angenehm, da wir die Kältebrücken minimieren. Nach dem Parken im 't Zand erkunden wir das Oud Sint-Jan. Die Fahrt zum Minnewater bietet Ausblicke auf die frostige Stadtlandschaft.\nWir nutzen das Parkhaus Pandreitje, um schnell zum Grote Markt zu gelangen, wo wir die Winterstimmung genießen. Ein Highlight ist die Fahrt nach Damme entlang des gefrorenen Kanals. Der Tag endet gemütlich im warmen Auto, während draußen der Frost anzieht.",
+            "hu": "Télen az autózás Brüsszelben különösen kellemes, mert minimalizáljuk a hidegben töltött időt. A 't Zand parkolás után az Oud Sint-Jan következik. A Minnewater felé vezető út fagyos városi tájakat kínál.\nA Pandreitje parkolót használjuk, hogy gyorsan elérjük a Grote Marktot és a téli hangulatot. Kiemelt program a Damme-i út a befagyott csatorna mentén. A nap a meleg autóban ér véget, miközben kint röpködnek a mínuszok.",
+            "ro": "Iarna, vizitarea orașului Bruges cu mașina este plăcută deoarece minimizăm expunerea la frig. După parcarea la 't Zand, explorăm Oud Sint-Jan. Drumul spre Minnewater oferă vederi spre peisajul urban înghețat.\nFolosim parcarea Pandreitje pentru a ajunge rapid la Grote Markt și la atmosfera de iarnă. Un punct forte este drumul spre Damme de-a lungul canalului înghețat. Ziua se încheie confortabil în mașină, în timp ce afară gerul se întețește.",
+            "en": "In winter, visiting Bruges by car is pleasant as we minimize time spent in the cold. After parking at 't Zand, we explore Oud Sint-Jan. The drive to Minnewater offers views of the frosty cityscape.\nWe use the Pandreitje car park for quick access to Grote Markt and its winter charm. A highlight is the drive to Damme along the frozen canal. The day ends cozily in the warm car while the frost sets in outside."
+          },
+          "stops": [
+            {
+              "name": "Parking 't Zand",
+              "tip_5lang": {
+                "de": "Warmer und sicherer Start in den Wintertag.",
+                "hu": "Meleg és biztonságos kezdés a téli napon.",
+                "ro": "Un început cald și sigur pentru ziua de iarnă.",
+                "en": "A warm and safe start to your winter day."
+              }
+            },
+            {
+              "name": "Oud Sint-Jan & Church of Our Lady",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ausstellungen im warmen Inneren.",
+                "hu": "Élvezze a kiállításokat a meleg belső térben.",
+                "ro": "Bucurați-vă de expoziții în interiorul călduros.",
+                "en": "Enjoy the exhibitions in the warm interior."
+              }
+            },
+            {
+              "name": "Beguinage & Minnewater",
+              "tip_5lang": {
+                "de": "Der Spaziergang ist kurz, halten Sie sich warm.",
+                "hu": "A séta rövid, öltözzön fel melegen.",
+                "ro": "Plimbarea este scurtă, îmbrăcați-vă bine.",
+                "en": "The walk is short; keep yourself warm."
+              }
+            },
+            {
+              "name": "Parking Pandreitje",
+              "tip_5lang": {
+                "de": "Das Auto bleibt hier frostfrei in der Tiefgarage.",
+                "hu": "Az autó itt fagymentes marad a mélygarázsban.",
+                "ro": "Mașina rămâne ferită de îngheț în parcarea subterană.",
+                "en": "The car stays frost-free in the underground garage."
+              }
+            },
+            {
+              "name": "Rozenhoedkaai & Basilica of the Holy Blood",
+              "tip_5lang": {
+                "de": "Die Basilika ist im Winter ein andächtiger Ort.",
+                "hu": "A bazilika télen meghitt, áhítatos helyszín.",
+                "ro": "Bazilica este un loc pios și liniștit iarna.",
+                "en": "The Basilica is a solemn and warm place in winter."
+              }
+            },
+            {
+              "name": "Market Square & Belfry",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Weihnachtsmarkt direkt am Platz.",
+                "hu": "Látogassa meg a karácsonyi vásárt közvetlenül a téren.",
+                "ro": "Vizitați piața de Crăciun direct în piață.",
+                "en": "Visit the Christmas market right on the square."
+              }
+            },
+            {
+              "name": "Village of Damme",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf der Landstraße nach Damme.",
+                "hu": "Vigyázzon a jegesedésre a Damme-i országúton.",
+                "ro": "Atenție la polei pe drumul spre Damme.",
+                "en": "Watch out for black ice on the country road to Damme."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Winterreifen und Frostschutzmittel.",
+              "Die Parkhäuser im Zentrum sind im Winter sehr beliebt.",
+              "Nutzen Sie die Sitzheizung für die Fahrt nach Damme.",
+              "Beleuchtung ist bei winterlichem Nebel auch tagsüber ratsam.",
+              "Planen Sie Zeit für das Eiskratzen ein, falls Sie draußen parken."
+            ],
+            "hu": [
+              "Ügyeljen a téli gumikra és a fagyállóra.",
+              "A központi parkolóházak télen nagyon népszerűek.",
+              "Használja az ülésfűtést a Damme-i úton.",
+              "Téli ködben nappal is ajánlott a világítás.",
+              "Tervezzen időt a jégkaparásra, ha kint parkol."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți anvelope de iarnă și antigel.",
+              "Parcările centrale sunt foarte solicitate iarna.",
+              "Folosiți încălzirea în scaune pentru drumul spre Damme.",
+              "Folosiți luminile și ziua în caz de ceață de iarnă.",
+              "Alocați timp pentru dezghețarea parbrizului dacă parcați afară."
+            ],
+            "en": [
+              "Ensure you have winter tires and anti-freeze fluid.",
+              "Central car parks are very popular during winter events.",
+              "Use seat heating for the scenic drive to Damme.",
+              "Keep lights on during the day in case of winter fog.",
+              "Allow time for de-icing if you park outdoors."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1530,6 +2172,214 @@
           "Download the 'De Lijn' app to track real-time bus schedules.",
           "Most central attractions are easily walkable from the Markt."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der öffentliche Nahverkehr bringt uns trocken durch das regnerische Brügge. Vom Bahnhof fahren wir direkt zum Minnewater. Mittags nutzen wir die Busverbindung zum Grote Markt, um den Pfützen zu entgehen.\nNach dem Besuch der Basilika radeln wir virtuell im Groeningemuseum durch die Kunstgeschichte. Der Bus bietet eine warme Pause zwischen den Sehenswürdigkeiten. Der Tag endet entspannt mit der Rückfahrt zum Bahnhof, während draußen der Regen die Stadt wäscht.",
+            "hu": "A tömegközlekedés szárazon repít át minket az esős Brüsszelen. A vasútállomástól közvetlenül a Minnewaterhez utazunk. Délben busszal megyünk a főtérre, elkerülve a nagyobb tócsákat.\nA bazilika után a Groeningemuseum művészettörténeti tárlatain kalandozunk. A busz meleg pihenőt kínál a látnivalók között. A nap pihentetően zárul a vasútállomásra való visszatéréssel, miközben kint az eső mossa a várost.",
+            "ro": "Transportul public ne ajută să rămânem uscați în Bruges pe ploaie. De la gară mergem direct la Minnewater. La prânz folosim autobuzul spre Grote Markt pentru a evita bălțile mari.\nDupă vizitarea bazilicii, explorăm istoria artei la Muzeul Groeninge. Autobuzul oferă o pauză caldă între obiective. Ziua se încheie relaxat cu întoarcerea la gară, în timp ce afară ploaia spală orașul.",
+            "en": "Public transport keeps us dry while navigating rainy Bruges. From the station, we head directly to Minnewater. At midday, we take the bus to Grote Markt to skip the biggest puddles.\nAfter visiting the Basilica, we dive into art history at the Groeningemuseum. The bus provides a warm break between sights. The day ends relaxed with a ride back to the railway station as the rain continues outside."
+          },
+          "stops": [
+            {
+              "name": "Bruges Railway Station",
+              "tip_5lang": {
+                "de": "Der ideale Startpunkt mit überdachten Bahnsteigen.",
+                "hu": "Ideális kiindulópont fedett peronokkal.",
+                "ro": "Punctul de plecare ideal, cu peroane acoperite.",
+                "en": "The ideal starting point with covered platforms."
+              }
+            },
+            {
+              "name": "Minnewater & Beguinage",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Bushaltestelle 'Station'.",
+                "hu": "Rövid séta a 'Station' buszmegállótól.",
+                "ro": "Scurtă plimbare de la stația de autobuz 'Station'.",
+                "en": "Short walk from the 'Station' bus stop."
+              }
+            },
+            {
+              "name": "Oud Sint-Jan",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Buslinie 1 oder 2 für den Transfer.",
+                "hu": "Használja az 1-es vagy 2-es buszvonalat a transzferhez.",
+                "ro": "Folosiți linia de autobuz 1 sau 2 pentru transfer.",
+                "en": "Use bus line 1 or 2 for a quick transfer."
+              }
+            },
+            {
+              "name": "Bus Stop 'Markt'",
+              "tip_5lang": {
+                "de": "Zentraler Ausstieg direkt im Geschehen.",
+                "hu": "Központi megálló közvetlenül az eseményeknél.",
+                "ro": "Stație centrală, chiar în inima acțiunii.",
+                "en": "Central stop right in the heart of the action."
+              }
+            },
+            {
+              "name": "Market Square & Belfry",
+              "tip_5lang": {
+                "de": "Warten Sie unter den Arkaden auf den nächsten Bus.",
+                "hu": "Várjon a következő buszra az árkádok alatt.",
+                "ro": "Așteptați următorul autobuz sub arcade.",
+                "en": "Wait for the next bus under the historic arcades."
+              }
+            },
+            {
+              "name": "Rozenhoedkaai",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Spaziergang vom Markt entfernt.",
+                "hu": "Csak egy rövid séta a főtértől.",
+                "ro": "La doar o scurtă plimbare de piață.",
+                "en": "Just a short walk from the market square."
+              }
+            },
+            {
+              "name": "Groeningemuseum",
+              "tip_5lang": {
+                "de": "Die Busse fahren regelmäßig zurück zum Bahnhof.",
+                "hu": "A buszok rendszeresen járnak vissza a vasútállomásra.",
+                "ro": "Autobuzele circulă regulat înapoi spre gară.",
+                "en": "Buses run regularly back to the railway station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Tagesticket direkt am Automaten am Bahnhof.",
+              "Die App 'De Lijn' zeigt Echtzeit-Abfahrten an.",
+              "Die kleinen City-Busse sind oft sehr voll bei Regen.",
+              "Nutzen Sie die Unterführung am Bahnhof, um trocken zu bleiben.",
+              "Tragen Sie wasserfeste Schuhe für die Wege zu den Haltestellen."
+            ],
+            "hu": [
+              "Vásároljon napijegyet a vasútállomás automatáinál.",
+              "A 'De Lijn' app valós idejű indulásokat mutat.",
+              "A kis városi buszok esőben gyakran zsúfoltak.",
+              "Használja az állomási aluljárót, hogy száraz maradjon.",
+              "Viseljen vízálló cipőt a megállókig tartó sétákhoz."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi de la automatele din gară.",
+              "Aplicația 'De Lijn' arată plecările în timp real.",
+              "Autobuzele mici de oraș sunt adesea pline pe ploaie.",
+              "Folosiți pasajul subteran din gară pentru a rămâne uscat.",
+              "Purtați încălțăminte impermeabilă pentru drumul spre stații."
+            ],
+            "en": [
+              "Buy a day pass at the ticket machines in the station.",
+              "The 'De Lijn' app shows real-time bus departures.",
+              "Small city buses are often crowded during rainy weather.",
+              "Use the station underpass to stay dry while moving.",
+              "Wear waterproof shoes for the short walks to bus stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter in Brügge mit Bus und Bahn ist entspannt und warm. Wir starten am Bahnhof und erreichen schnell das Minnewater. Die beheizten Busse sind eine Wohltat zwischen den Besuchen der kalten Plätze.\nMittags lockt der Grote Markt mit seinem Winterzauber. Die Museen wie das Groeninge bieten stundenlange Wärme. Der Tag endet mit der Fahrt durch die beleuchtete Stadt zurück zum Bahnhof, während wir die festliche Dekoration aus dem Busfenster genießen.",
+            "hu": "A tél Brüsszelben busszal és vonattal pihentető és meleg. A vasútállomástól indulunk és gyorsan elérjük a Minnewatert. A fűtött buszok áldást jelentenek a hideg terek látogatása között.\nDélben a Grote Markt téli varázsa vonz minket. A múzeumok, mint a Groeninge, órákig tartó meleget kínálnak. A nap az kivilágított városon átvezető úttal zárul vissza az állomásra, miközben a buszablakból csodáljuk az ünnepi díszeket.",
+            "ro": "Iarna în Bruges cu autobuzul și trenul este relaxantă și caldă. Începem la gară și ajungem rapid la Minnewater. Autobuzele încălzite sunt o binecuvântare între vizitele în piețele reci.\nLa prânz, Grote Markt atrage cu magia sa de iarnă. Muzeele precum Groeninge oferă căldură timp de ore întregi. Ziua se încheie cu drumul prin orașul iluminat înapoi spre gară, admirând decorațiunile festive de pe geam.",
+            "en": "Winter in Bruges by bus and train is relaxed and warm. We start at the station and quickly reach Minnewater. Heated buses are a relief between visiting the cold outdoor squares.\nAt midday, Grote Markt attracts with its winter charm. Museums like the Groeninge offer hours of warmth. The day ends with a ride through the illuminated city back to the station, enjoying the festive decorations from the bus window."
+          },
+          "stops": [
+            {
+              "name": "Bruges Railway Station",
+              "tip_5lang": {
+                "de": "Warten Sie in der warmen Bahnhofshalle auf Ihren Bus.",
+                "hu": "Várjon a meleg állomási csarnokban a buszára.",
+                "ro": "Așteptați autobuzul în sala de așteptare caldă.",
+                "en": "Wait for your bus inside the warm station hall."
+              }
+            },
+            {
+              "name": "Minnewater & Beguinage",
+              "tip_5lang": {
+                "de": "Der Parkweg ist im Winter oft geräumt und gestreut.",
+                "hu": "A park ösvényeit télen gyakran takarítják és sózzák.",
+                "ro": "Aleile din parc sunt adesea deszăpezite iarna.",
+                "en": "The park paths are often cleared and salted in winter."
+              }
+            },
+            {
+              "name": "Oud Sint-Jan",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen sind im Winter gut beleuchtet.",
+                "hu": "A buszmegállók télen jól ki vannak világítva.",
+                "ro": "Stațiile de autobuz sunt bine iluminate iarna.",
+                "en": "Bus stops are well-lit during the dark winter days."
+              }
+            },
+            {
+              "name": "Bus Stop 'Markt'",
+              "tip_5lang": {
+                "de": "Direkter Zugang zum Weihnachtsmarkt nach dem Ausstieg.",
+                "hu": "Közvetlen kijárat a karácsonyi vásárhoz a buszról.",
+                "ro": "Acces direct la piața de Crăciun după coborâre.",
+                "en": "Direct access to the Christmas market after exiting."
+              }
+            },
+            {
+              "name": "Market Square & Belfry",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den nahen Geschäften kurz auf.",
+                "hu": "Melegedjen fel a közeli üzletekben rövid időre.",
+                "ro": "Încălziți-vă scurt în magazinele din apropiere.",
+                "en": "Take short warm-up breaks in the nearby shops."
+              }
+            },
+            {
+              "name": "Rozenhoedkaai",
+              "tip_5lang": {
+                "de": "Ein kurzer, kalter Stopp für das perfekte Winterfoto.",
+                "hu": "Rövid, hideg megálló a tökéletes téli fotóért.",
+                "ro": "O oprire scurtă și rece pentru poza perfectă de iarnă.",
+                "en": "A short, cold stop for the perfect winter photo."
+              }
+            },
+            {
+              "name": "Groeningemuseum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Museum an kalten Tagen.",
+                "hu": "Élvezze a múzeum nyugalmát a hideg napokon.",
+                "ro": "Bucurați-vă de liniștea muzeului în zilele reci.",
+                "en": "Enjoy the museum's quiet atmosphere on cold days."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter nach dem regulären Fahrplan.",
+              "Achten Sie auf die Anzeige der nächsten Haltestelle im Bus.",
+              "Der Bahnhof bietet Schließfächer für schweres Wintergepäck.",
+              "Wärmen Sie sich mit einem Kaffee im Bahnhofsbistro auf.",
+              "Ab 17:00 Uhr ist es dunkel; genießen Sie die Lichterstadt."
+            ],
+            "hu": [
+              "A buszok télen is a rendes menetrend szerint járnak.",
+              "Figyelje a következő megálló kijelzőjét a buszon.",
+              "A vasútállomáson vannak csomagmegőrzők a nehéz táskáknak.",
+              "Melegedjen fel egy kávéval az állomási bisztróban.",
+              "Délután 5-től sötét van; élvezze a kivilágított várost."
+            ],
+            "ro": [
+              "Autobuzele circulă iarna conform orarului obișnuit.",
+              "Urmăriți afișajul stației următoare în interiorul autobuzului.",
+              "Gara oferă dulapuri pentru bagaje grele de iarnă.",
+              "Încălziți-vă cu o cafea în bistroul din gară.",
+              "E întuneric de la ora 17:00; admirați orașul luminat."
+            ],
+            "en": [
+              "Buses run according to the regular schedule in winter.",
+              "Watch the display for the next stop inside the bus.",
+              "The station offers lockers for heavy winter luggage.",
+              "Warm up with a coffee in the station bistro.",
+              "It gets dark from 5:00 PM; enjoy the festive city lights."
+            ]
+          }
+        }
       }
     }
   }

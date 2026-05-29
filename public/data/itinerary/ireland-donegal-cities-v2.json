@@ -379,6 +379,206 @@
           "Check the Waterbus schedule in advance as it can change depending on tides and weather.",
           "Most attractions are located close to each other, making Donegal a perfect walking town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt am Diamond, wo Cafés Schutz bieten. Mittags erkunden wir die trockenen Innenräume des Schlosses und der Kirche. Der Nachmittag gehört dem überdachten Waterbus und dem Eisenbahnmuseum, ideal für nasses Wetter. Am Abend bietet der neblige Hafen eine mystische Kulisse für einen kurzen Spaziergang zum Fort, bevor es in ein gemütliches Pub geht.",
+            "hu": "A reggel szürke és esős Donegalban, de a Diamond körüli üzletek jó menedéket nyújtanak. Délben a vár és a templom belső tereiben szárazon maradhatunk. Délután a vízi busz fedett fedélzete és a vasúti múzeum a legjobb program az eső elől. Estére a kikötő környéke ködös és szeles, a várrom után érdemes egy kandallós pubba behúzódni.",
+            "ro": "O dimineață ploioasă începe în The Diamond, unde cafenelele oferă adăpost. La prânz, explorăm interioarele uscate ale castelului și ale bisericii. După-amiaza este perfectă pentru Waterbus-ul acoperit și Muzeul Căilor Ferate. Seara, portul cețos oferă un cadru mistic pentru o scurtă vizită la fort, urmată de o cină caldă într-un pub local.",
+            "en": "A rainy morning starts at The Diamond, where local shops provide shelter. Midday is spent inside the dry walls of the Castle and Church. The afternoon is ideal for the covered Waterbus and the Railway Museum, perfect for dodging showers. By evening, the misty pier and ruins offer a moody atmosphere before retreating to a cozy, fire-lit tavern."
+          },
+          "stops": [
+            {
+              "name": "The Diamond",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Geschäfte als Regenschutz.",
+                "hu": "Használja az üzletek előtetőit esővédőként.",
+                "ro": "Folosiți arcadele magazinelor pentru a vă adăposti de ploaie.",
+                "en": "Use the shop awnings as temporary shelter from showers."
+              }
+            },
+            {
+              "name": "St. Patrick's Church of the Four Masters",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort für eine Besichtigungspause.",
+                "hu": "Csendes, száraz helyszín egy rövid pihenőhöz.",
+                "ro": "Un loc liniștit și uscat pentru o pauză de vizitare.",
+                "en": "A peaceful, dry interior perfect for a sightseeing break."
+              }
+            },
+            {
+              "name": "Donegal Castle",
+              "tip_5lang": {
+                "de": "Perfekt bei Regen, die Innenräume sind gut erhalten.",
+                "hu": "Kiváló esőprogram, a belső terek jól bejárhatóak.",
+                "ro": "Perfect pe ploaie, interioarele sunt bine conservate.",
+                "en": "Excellent rainy day option with well-preserved interiors."
+              }
+            },
+            {
+              "name": "Donegal Abbey",
+              "tip_5lang": {
+                "de": "Achtung: Das Gras rund um die Ruinen ist sehr rutschig.",
+                "hu": "Vigyázat: a romok körüli fű esőben nagyon csúszós.",
+                "ro": "Atenție: iarba din jurul ruinelor este foarte alunecoasă.",
+                "en": "Caution: the grass around the ruins is very slippery when wet."
+              }
+            },
+            {
+              "name": "Donegal Railway Heritage Centre",
+              "tip_5lang": {
+                "de": "Komplett überdachtes Museum, ideal für Regentage.",
+                "hu": "Teljesen fedett múzeum, ideális esős délutánra.",
+                "ro": "Muzeu complet acoperit, ideal pentru zilele ploioase.",
+                "en": "Fully indoor museum, ideal for a rainy afternoon."
+              }
+            },
+            {
+              "name": "Donegal Bay Waterbus",
+              "tip_5lang": {
+                "de": "Das Unterdeck ist beheizt und bietet Panoramafenster.",
+                "hu": "Az alsó fedélzet fűtött és panorámaablakos.",
+                "ro": "Puntea inferioară este încălzită și are ferestre panoramice.",
+                "en": "The lower deck is heated and features large panoramic windows."
+              }
+            },
+            {
+              "name": "O'Donnell's Fort",
+              "tip_5lang": {
+                "de": "Wasserdichte Schuhe sind für den Weg zum Fort wichtig.",
+                "hu": "Vízálló cipő ajánlott a várhoz vezető ösvényen.",
+                "ro": "Încălțămintea impermeabilă este esențială pentru potecă.",
+                "en": "Waterproof shoes are essential for the path to the fort."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen des Windes oft nutzlos; Regenmäntel sind besser.",
+              "Der Waterbus fährt auch bei Regen, solange kein starker Sturm herrscht.",
+              "Die Gehwege in der Nähe des Piers können bei Nässe rutschig sein.",
+              "Viele Pubs am Diamond haben gemütliche Kamine zum Aufwärmen."
+            ],
+            "hu": [
+              "Az erős szél miatt az esernyő gyakran használhatatlan; a vízálló kabát jobb választás.",
+              "A vízi busz esőben is jár, kivéve viharos szél esetén.",
+              "A móló környékén a kövezet nedvesen csúszhat.",
+              "A Diamond környéki pubok többségében van kandalló a megszáradáshoz."
+            ],
+            "ro": [
+              "O umbrelă robustă este adesea inutilă din cauza vântului; pelerinele sunt mai bune.",
+              "Waterbus-ul circulă și pe ploaie, cu excepția condițiilor de furtună.",
+              "Trotuarele de lângă dig pot fi alunecoase când sunt ude.",
+              "Multe pub-uri de lângă Diamond au șeminee primitoare pentru a vă încălzi."
+            ],
+            "en": [
+              "A sturdy umbrella is often useless due to Atlantic winds; raincoats are preferred.",
+              "The Waterbus operates in rain, only cancelling for high gale-force winds.",
+              "Pavements near the pier can get slippery when wet.",
+              "Most pubs around The Diamond have real turf fires to dry off by."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Diamond, gefolgt von der spirituellen Ruhe der Kirche. Mittags wärmen wir uns in den massiven Mauern des Schlosses auf. Der kurze Winternachmittag bietet ein klares Licht über der Bucht und den Ruinen der Abtei. Sobald die Dunkelheit gegen 16:30 Uhr einsetzt, beleuchten festliche Lichter den Weg zum Railway Museum und zum Abendessen.",
+            "hu": "Csípős téli reggel a Diamond téren, majd a templom csendes békéje következik. Délben a kastély vastag falai között keresünk menedéket a hideg elől. A rövid téli délutánon az apátság és a móló különleges fényekben úszik. 16:30 körül már sötétedik, a városi fények kísérnek minket a múzeumhoz és a vacsorához.",
+            "ro": "O dimineață geroasă în Diamond, urmată de liniștea spirituală a bisericii. La prânz, ne încălzim între zidurile masive ale castelului. Scurta după-amiază de iarnă oferă o lumină clară peste golf și ruinele abației. Odată ce întunericul se lasă în jurul orei 16:30, luminile orașului ne ghidează spre muzeu și cină.",
+            "en": "A frosty morning at The Diamond is followed by the spiritual quiet of the Church. At noon, we warm up within the massive stone walls of the Castle. The short winter afternoon provides crisp light over the bay and the Abbey ruins. As darkness falls around 4:30 PM, festive lights lead the way to the Railway Museum and dinner."
+          },
+          "stops": [
+            {
+              "name": "The Diamond",
+              "tip_5lang": {
+                "de": "Hüten Sie sich vor Glatteis auf dem gepflasterten Platz.",
+                "hu": "Vigyázzon a jeges foltokra a kövezett téren.",
+                "ro": "Atenție la porțiunile înghețate de pe piața pavată.",
+                "en": "Watch out for black ice on the paved square in the morning."
+              }
+            },
+            {
+              "name": "St. Patrick's Church of the Four Masters",
+              "tip_5lang": {
+                "de": "Ein friedlicher Rückzugsort vor dem kalten Wind.",
+                "hu": "Békés menedék a metsző téli szél elől.",
+                "ro": "Un refugiu liniștit împotriva vântului rece de iarnă.",
+                "en": "A peaceful refuge from the biting winter wind."
+              }
+            },
+            {
+              "name": "Donegal Castle",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten, Steinmauern ziehen Kälte an.",
+                "hu": "Öltözzön rétegesen, a kőfalak ontják a hideget.",
+                "ro": "Purtați haine groase, zidurile de piatră emană frig.",
+                "en": "Wear warm layers as stone walls hold the winter chill."
+              }
+            },
+            {
+              "name": "Donegal Abbey",
+              "tip_5lang": {
+                "de": "Genießen Sie das goldene Licht der tiefstehenden Sonne.",
+                "hu": "Élvezze az alacsonyan járó nap arany fényeit a falakon.",
+                "ro": "Bucurați-vă de lumina aurie a soarelui de iarnă pe ruine.",
+                "en": "Capture the golden hour light hitting the ruins early."
+              }
+            },
+            {
+              "name": "Donegal Railway Heritage Centre",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Ort für eine Pause am Nachmittag.",
+                "hu": "Jól fűtött helyszín egy délutáni pihenőhöz.",
+                "ro": "Un loc bine încălzit pentru o pauză după-amiaza.",
+                "en": "A well-heated indoor spot for a mid-afternoon break."
+              }
+            },
+            {
+              "name": "Donegal Bay Waterbus",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan, weniger Fahrten verfügbar.",
+                "hu": "Ellenőrizze a téli menetrendet, ritkábban jár.",
+                "ro": "Verificați programul de iarnă, cursele sunt mai rare.",
+                "en": "Check the winter schedule as sailings are less frequent."
+              }
+            },
+            {
+              "name": "O'Donnell's Fort",
+              "tip_5lang": {
+                "de": "Wunderschön beleuchtet in der frühen Dämmerung.",
+                "hu": "Gyönyörűen kivilágítva a korai sötétedésben.",
+                "ro": "Frumos iluminat în amurgul timpuriu.",
+                "en": "Beautifully lit up during the early winter twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:15 Uhr unter.",
+              "Thermokleidung ist wegen der feuchten Atlantikluft unerlässlich.",
+              "Einige Cafés am Diamond schließen im Winter früher.",
+              "Der Waterbus ist im Winter weniger windanfällig als im Sommer."
+            ],
+            "hu": [
+              "A nap decemberben már 16:15 körül lemegy.",
+              "A nedves atlanti levegő miatt a hőtartó ruházat elengedhetetlen.",
+              "Néhány kávézó korábban zárhat a téli szezonban.",
+              "A vízi busz belső tere ilyenkor is kellemesen fűtött."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:15 în decembrie.",
+              "Îmbrăcămintea termică este esențială din cauza aerului umed al Atlanticului.",
+              "Unele cafenele din Diamond se închid mai devreme iarna.",
+              "Waterbus-ul este bine încălzit, oferind confort chiar și iarna."
+            ],
+            "en": [
+              "Sunset is as early as 4:15 PM in mid-December.",
+              "Thermal layers are vital due to the damp Atlantic chill.",
+              "Some local cafes around the Diamond may close earlier in winter.",
+              "The Waterbus cabin is kept warm, making it a great winter activity."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +929,188 @@
           "Wear a helmet and high-visibility clothing.",
           "Carry a lock to secure your bike at attractions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist Donegal mit dem Rad machbar. Der Morgen startet am Diamond, wo wir die Ausrüstung prüfen. Mittags besuchen wir das Schloss und die Abtei, wobei wir auf rutschige Wege achten. Der Nachmittag führt uns zum Pier und zum Railway Centre, die Schutz bieten. Die Scenic-Tour am späten Nachmittag wird kürzer, bietet aber dramatische Ausblicke auf die raue See.",
+            "hu": "Az eső ellenére a kerékpározás lehetséges Donegalban. Reggel a Diamondnál ellenőrizzük a felszerelést. Napközben a várat és az apátságot érintjük, ügyelve a csúszós utakra. Délután a kikötő és a vasúti központ nyújt fedezéket. A kései panorámaút lerövidül, de drámai kilátást nyújt a háborgó tengerre.",
+            "ro": "În ciuda ploii, Donegal este accesibil cu bicicleta. Dimineața începe la Diamond, verificând echipamentul. În timpul zilei vizităm castelul și abația, atenți la drumurile alunecoase. După-amiaza, digul și centrul feroviar oferă adăpost. Turul panoramic de seară este mai scurt, dar oferă vederi dramatice ale mării.",
+            "en": "Despite the rain, cycling in Donegal is doable with the right gear. Start at The Diamond to prep. Midday involves the Castle and Abbey, with care on wet roads. Afternoon stops at the Pier and Railway Centre provide refuge. The late scenic ride is shorter but offers dramatic, moody views of the Atlantic."
+          },
+          "stops": [
+            {
+              "name": "The Diamond",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen auf dem nassen Kopfsteinpflaster.",
+                "hu": "Ellenőrizze a fékeket a vizes macskakövön.",
+                "ro": "Verificați frânele pe pavajul umed.",
+                "en": "Test your brakes on the wet cobblestones before starting."
+              }
+            },
+            {
+              "name": "Donegal Castle",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer sind in der Nähe vorhanden.",
+                "hu": "Fedett kerékpártárolók találhatók a közelben.",
+                "ro": "Suporturi de biciclete acoperite sunt disponibile în apropiere.",
+                "en": "Covered bike racks are available nearby for dry parking."
+              }
+            },
+            {
+              "name": "Donegal Abbey",
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, mit dem Rad auf den Rasen zu fahren.",
+                "hu": "Kerülje a fűre hajtást, sárba ragadhat.",
+                "ro": "Evitați să intrați cu bicicleta pe iarbă, e noroi.",
+                "en": "Avoid cycling on the grass as it gets very muddy."
+              }
+            },
+            {
+              "name": "Donegal Bay Waterbus Pier",
+              "tip_5lang": {
+                "de": "Vorsicht vor starkem Seitenwind am Pier.",
+                "hu": "Vigyázat az erős oldalszéllel a mólónál.",
+                "ro": "Atenție la vântul lateral puternic de lângă dig.",
+                "en": "Watch out for strong crosswinds near the pier area."
+              }
+            },
+            {
+              "name": "Donegal Railway Heritage Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Trocknen der Kleidung.",
+                "hu": "Használja ki a múzeumlátogatást a ruházat szárítására.",
+                "ro": "Folosiți vizita la muzeu pentru a vă usca hainele.",
+                "en": "Use the museum stop to dry off and warm up."
+              }
+            },
+            {
+              "name": "Outer Ring Scenic Ride",
+              "tip_5lang": {
+                "de": "Spritzschutz am Rad ist auf dieser Strecke wichtig.",
+                "hu": "Sárvédő használata ezen a szakaszon kötelező.",
+                "ro": "Apărătorile de noroi sunt esențiale pe acest traseu.",
+                "en": "Mudguards are essential on this coastal stretch."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung und Handschuhe sind empfohlen.",
+              "Vermeiden Sie bei starkem Wind Fahrten direkt an der Klippenkante.",
+              "Die Sicht kann durch Nebel und Regen stark eingeschränkt sein.",
+              "Stellen Sie sicher, dass Ihre Beleuchtung auch tagsüber an ist."
+            ],
+            "hu": [
+              "Teljes esőruházat és vízálló kesztyű ajánlott.",
+              "Erős szélben kerülje a közvetlen parti szakaszokat.",
+              "A látótávolság jelentősen csökkenhet a köd és eső miatt.",
+              "Gondoskodjon a világításról nappal is a láthatóságért."
+            ],
+            "ro": [
+              "Se recomandă costum complet de ploaie și mănuși.",
+              "Evitați porțiunile expuse de pe coastă în caz de vânt puternic.",
+              "Vizibilitatea poate fi redusă semnificativ de ceață și ploaie.",
+              "Asigurați-vă că luminile bicicletei sunt aprinse și ziua."
+            ],
+            "en": [
+              "Full waterproofs and gloves are highly recommended.",
+              "Avoid exposed coastal sections during high winds.",
+              "Visibility can be poor; keep your lights on even during the day.",
+              "Check for mud on the Outer Ring path after heavy rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kaltes, aber oft klares Winterwetter in Donegal. Am Morgen ist der Diamond oft weiß vom Reif. Wir radeln zügig zum Schloss, um uns aufzuwärmen. Mittags bietet die Abtei Ruhe unter dem bleichen Himmel. Nachmittags ist die Fahrt zum Railway Centre eine warme Flucht. Die Scenic-Tour endet kurz vor Sonnenuntergang, wenn die Küste in rosa Licht getaucht wird.",
+            "hu": "Hideg, de gyakran tiszta téli idő Donegálban. Reggel a Diamond tere gyakran deres. Gyorsan a kastélyhoz tekerünk, hogy felmelegedjünk. Napközben az apátság és a kikötő csendes a sápadt téli égbolt alatt. Délután a vasúti központ nyújt menedéket. A panorámaút naplemente előtt ér véget, amikor a part rózsaszín fényben úszik.",
+            "ro": "Iarnă rece, dar adesea senină în Donegal. Dimineața, piața Diamond este adesea acoperită de brumă. Pedalăm rapid spre castel pentru a ne încălzi. La prânz, abația oferă liniște sub cerul palid. După-amiaza, vizita la centrul feroviar este o scăpare caldă. Turul panoramic se încheie înainte de apus, cu coasta scăldată în lumină roz.",
+            "en": "Cold but often crisp winter days in Donegal. The morning starts with frost on The Diamond. We cycle briskly to the Castle to keep warm. Midday offers quiet views at the Abbey under a pale sky. Afternoon leads to the Railway Centre for a warm break. The scenic ride ends just before the early sunset bathes the coast in pink light."
+          },
+          "stops": [
+            {
+              "name": "The Diamond",
+              "tip_5lang": {
+                "de": "Achtung bei Eisflächen im Schatten der Gebäude.",
+                "hu": "Vigyázzon a fagypont alatti foltokra az épületek árnyékában.",
+                "ro": "Atenție la zonele înghețate din umbra clădirilor.",
+                "en": "Be careful of frozen patches in the shadows of buildings."
+              }
+            },
+            {
+              "name": "Donegal Castle",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher; Steinböden können glatt sein.",
+                "hu": "Parkoljon biztonságosan, a kőburkolat jeges lehet.",
+                "ro": "Parcați în siguranță; pavajul de piatră poate fi alunecos.",
+                "en": "Park safely; stone surfaces can be icy in the morning."
+              }
+            },
+            {
+              "name": "Donegal Abbey",
+              "tip_5lang": {
+                "de": "Der Boden ist oft gefroren und hart, aber griffig.",
+                "hu": "A talaj gyakran fagyott és kemény, de jól tapad.",
+                "ro": "Solul este adesea înghețat și tare, dar are aderență.",
+                "en": "Ground is often frozen solid; good grip but bumpy ride."
+              }
+            },
+            {
+              "name": "Donegal Bay Waterbus Pier",
+              "tip_5lang": {
+                "de": "Zieh warme Handschuhe an, der Wind am Pier ist eisig.",
+                "hu": "Húzzon meleg kesztyűt, a szél a mólónál metsző.",
+                "ro": "Purtați mănuși groase, vântul la dig este înghețat.",
+                "en": "Wear thick gloves; the wind at the pier is biting cold."
+              }
+            },
+            {
+              "name": "Donegal Railway Heritage Centre",
+              "tip_5lang": {
+                "de": "Ideal zum Aufwärmen nach der Fahrt am Vormittag.",
+                "hu": "Ideális felmelegedni a délelőtti tekerés után.",
+                "ro": "Ideal pentru încălzire după plimbarea de dimineață.",
+                "en": "Perfect for warming up after a cold morning ride."
+              }
+            },
+            {
+              "name": "Outer Ring Scenic Ride",
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor 16:00 Uhr wegen der Dunkelheit.",
+                "hu": "Fejezze be a túrát 16:00 előtt a sötétedés miatt.",
+                "ro": "Finalizați turul înainte de ora 16:00 din cauza întunericului.",
+                "en": "Finish the ride by 4:00 PM to avoid cycling in darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermokleidung und winddichte Jacken sind Pflicht.",
+              "Prüfen Sie den Reifendruck, er sinkt bei Kälte leicht.",
+              "Die tiefstehende Sonne kann Radfahrer stark blenden.",
+              "Nehmen Sie eine Thermoskanne mit einem heißen Getränk mit."
+            ],
+            "hu": [
+              "Hővédő öltözet és szélálló dzseki kötelező.",
+              "Ellenőrizze a guminyomást, hidegben csökkenhet.",
+              "Az alacsonyan járó nap erősen vakíthatja a bringásokat.",
+              "Vigyen magával termoszt forró itallal."
+            ],
+            "ro": [
+              "Echipamentul termic și jacheta rezistentă la vânt sunt obligatorii.",
+              "Verificați presiunea în pneuri, aceasta scade la frig.",
+              "Soarele jos poate fi foarte orbitor pentru bicicliști.",
+              "Luați un termos cu o băutură caldă pentru drum."
+            ],
+            "en": [
+              "Thermal layers and windproof jackets are mandatory.",
+              "Check tire pressure as it drops in cold temperatures.",
+              "The low winter sun can be blinding; wear sunglasses.",
+              "Carry a thermos with a hot drink to stay warm."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1085,6 +1467,188 @@
           "A car gives you the freedom to explore the beautiful countryside outside the town limits.",
           "Watch out for sheep on the road in more rural areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nebliger Morgen am Lough Eske; der See wirkt im Regen geheimnisvoll. Wir fahren durch den Wald zum Diamond, wo wir nah am Zentrum parken. Mittags erkunden wir das Schloss, während es draußen stürmt. Der Nachmittag an der Abtei und am Pier ist kurz und feucht, gefolgt von einem langen, gemütlichen Abendessen in einem der warmen Restaurants der Stadt.",
+            "hu": "Ködös reggel a Lough Eske partján; a tó titokzatos az esőben. Az erdőn át hajtunk a Diamondhoz, ahol a központhoz közel parkolunk. Délben a kastélyt fedezzük fel, miközben kint tombol az idő. Az apátság és a móló megtekintése rövid és vizes, de utána hosszú, kényelmes vacsora vár ránk a város egyik meleg éttermében.",
+            "ro": "O dimineață cețoasă la Lough Eske; lacul pare misterios în ploaie. Conducem prin pădure spre Diamond, parcând aproape de centru. La prânz explorăm castelul în timp ce afară plouă torențial. Vizita la abație și dig este scurtă, urmată de o cină lungă și confortabilă într-unul dintre restaurantele calde ale orașului.",
+            "en": "A misty morning at Lough Eske; the lake looks mysterious in the rain. We drive through the woods to The Diamond, parking close to the centre. Midday is spent exploring the Castle while the rain pours outside. The visit to the Abbey and Pier is brief and damp, followed by a long, cozy dinner in one of the town's warm restaurants."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Lough Eske",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den See direkt aus dem Auto.",
+                "hu": "Élvezze a tó látványát közvetlenül az autóból.",
+                "ro": "Bucurați-vă de vederea lacului direct din mașină.",
+                "en": "Enjoy the dramatic lake views from the comfort of your car."
+              }
+            },
+            {
+              "name": "Ardnamona Wood Walk",
+              "tip_5lang": {
+                "de": "Dichte Bäume bieten einen gewissen natürlichen Regenschutz.",
+                "hu": "A sűrű lombok természetes esővédelmet nyújtanak.",
+                "ro": "Copacii deși oferă o protecție naturală împotriva ploii.",
+                "en": "Dense tree canopy provides some natural shelter from rain."
+              }
+            },
+            {
+              "name": "Cluster B: Donegal Town Centre",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz direkt am Diamond.",
+                "hu": "Keressen parkolóhelyet közvetlenül a Diamond téren.",
+                "ro": "Căutați un loc de parcare direct în piața Diamond.",
+                "en": "Try to find parking directly on The Diamond for easy access."
+              }
+            },
+            {
+              "name": "Donegal Castle",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum Eingang.",
+                "hu": "Rövid séta a parkolótól a bejáratig.",
+                "ro": "Scurtă plimbare de la parcare până la intrare.",
+                "en": "Very short walk from the car park to the castle entrance."
+              }
+            },
+            {
+              "name": "Donegal Abbey & Pier",
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt am Pier ist bei Regen ideal.",
+                "hu": "A móló melletti parkoló ideális esőben.",
+                "ro": "Parcarea de lângă dig este ideală pe ploaie.",
+                "en": "The car park right by the pier is ideal for rainy visits."
+              }
+            },
+            {
+              "name": "Dinner in Donegal Centre",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch in der Nähe des Kamins.",
+                "hu": "Foglaljon asztalt a kandalló közelében.",
+                "ro": "Rezervați o masă lângă șemineu.",
+                "en": "Book a table near the fireplace for maximum comfort."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht auf den schmalen Straßen rund um den Lough Eske.",
+              "Nutzen Sie die Parkplätze im Zentrum, um Wege im Regen zu minimieren.",
+              "Die Sicht kann bei starkem Regen am See stark eingeschränkt sein.",
+              "Lassen Sie nasse Regenmäntel im Kofferraum, damit das Auto nicht beschlägt."
+            ],
+            "hu": [
+              "Vigyázzon a szűk utakon a Lough Eske környékén.",
+              "Használja a központi parkolókat a gyaloglás minimalizálására.",
+              "A látótávolság korlátozott lehet a tónál nagy esőben.",
+              "A vizes kabátokat tegye a csomagtartóba, hogy ne párásodjon az ablak."
+            ],
+            "ro": [
+              "Atenție pe drumurile înguste din jurul lacului Lough Eske.",
+              "Folosiți parcările centrale pentru a minimiza mersul prin ploaie.",
+              "Vizibilitatea poate fi redusă la lac în timpul ploilor torențiale.",
+              "Lăsați pelerinele ude în portbagaj pentru a nu aburi geamurile."
+            ],
+            "en": [
+              "Be careful on the narrow, winding roads around Lough Eske.",
+              "Use central car parks to minimize walking time in the rain.",
+              "Visibility can be poor around the lake during heavy downpours.",
+              "Keep wet raincoats in the boot to prevent windows from fogging up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer, kalter Morgen am Lough Eske, wo sich die Berge im Wasser spiegeln. Die Fahrt zum Diamond ist kurz und komfortabel. Mittags besuchen wir das Schloss und wärmen uns anschließend im Auto auf. Der Nachmittag an der Abtei bietet spektakuläre Sonnenuntergangsfarben. Der Abend endet früh mit einem gemütlichen Abendessen in der Stadt, während es draußen frostig wird.",
+            "hu": "Tiszta, hideg reggel a Lough Eske partján, ahol a hegyek tükröződnek a vízben. Az út a Diamondig rövid és kényelmes. Délben a kastélyt látogatjuk meg, majd az autó melegében pihenünk. Az apátságnál a délután látványos naplementét kínál. Az este korán kezdődik egy hangulatos vacsorával, miközben kint fagyosra fordul az idő.",
+            "ro": "O dimineață senină și rece la Lough Eske, cu munții reflectați în apă. Drumul spre Diamond este scurt și confortabil. La prânz vizităm castelul, apoi ne încălzim în mașină. După-amiaza la abație oferă culori spectaculoase de apus. Seara începe devreme cu o cină caldă, în timp ce afară se lasă gerul.",
+            "en": "A crisp, cold morning at Lough Eske with the mountains reflected in the still water. The drive to The Diamond is short and warm. Midday is for the Castle, followed by a break in the car. The afternoon at the Abbey offers spectacular winter sunset colors. The evening starts early with a cozy dinner as the temperature drops outside."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Lough Eske",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den schattigen Waldwegen.",
+                "hu": "Vigyázzon a jegesedésre az árnyékos erdei utakon.",
+                "ro": "Atenție la porțiunile înghețate de pe drumurile de pădure.",
+                "en": "Watch for black ice on shaded sections of the forest roads."
+              }
+            },
+            {
+              "name": "Ardnamona Wood Walk",
+              "tip_5lang": {
+                "de": "Ein kurzer, knackiger Spaziergang in der frischen Luft.",
+                "hu": "Rövid, frissítő séta a tiszta téli levegőn.",
+                "ro": "O plimbare scurtă și revigorantă în aerul curat.",
+                "en": "A short, bracing walk in the crisp winter air."
+              }
+            },
+            {
+              "name": "Cluster B: Donegal Town Centre",
+              "tip_5lang": {
+                "de": "Zentrales Parken ermöglicht schnelle Flucht in die Wärme.",
+                "hu": "A központi parkolás gyors utat biztosít a melegbe.",
+                "ro": "Parcarea centrală permite accesul rapid la locuri calde.",
+                "en": "Central parking allows for quick transitions to warm interiors."
+              }
+            },
+            {
+              "name": "Donegal Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Schloss am Mittag für das beste Licht.",
+                "hu": "Látogassa meg a várat délben a legjobb fényviszonyokért.",
+                "ro": "Vizitați castelul la prânz pentru cea mai bună lumină.",
+                "en": "Visit the castle at midday for the best natural light."
+              }
+            },
+            {
+              "name": "Donegal Abbey & Pier",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist hier im Winter fantastisch.",
+                "hu": "A naplemente itt télen fantasztikus látvány.",
+                "ro": "Apusul de soare este fantastic aici în timpul iernii.",
+                "en": "Winter sunsets over the bay are spectacular from here."
+              }
+            },
+            {
+              "name": "Dinner in Donegal Centre",
+              "tip_5lang": {
+                "de": "Genießen Sie regionale Wintergerichte wie Irish Stew.",
+                "hu": "Kóstolja meg a helyi téli ételeket, pl. az Irish Stew-t.",
+                "ro": "Savurați preparate locale de iarnă, cum ar fi Irish Stew.",
+                "en": "Enjoy hearty local winter dishes like traditional Irish Stew."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Frostschutzmittel aufgefüllt ist.",
+              "Die schmalen Wege zum See können morgens sehr glatt sein.",
+              "Vermeiden Sie es, das Auto nachts mit leerem Tank stehen zu lassen.",
+              "Nutzen Sie die Sitzheizung für die kurzen Fahrten zwischen den Stopps."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyálló szintjét a hűtővízben.",
+              "A tóhoz vezető szűk utak reggelente nagyon csúszósak lehetnek.",
+              "Télen ne hagyja az autót üres tankkal éjszakára.",
+              "Használja az ülésfűtést a rövid városi szakaszok között."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți suficient lichid de parbriz de iarnă.",
+              "Drumurile înguste spre lac pot fi foarte alunecoase dimineața.",
+              "Nu lăsați mașina cu rezervorul aproape gol peste noapte.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte între opriri."
+            ],
+            "en": [
+              "Ensure your anti-freeze and screen wash are winter-ready.",
+              "The narrow lake roads can be very slippery in the early morning.",
+              "Don't leave the car with an empty tank overnight in freezing weather.",
+              "Use seat heaters for maximum comfort during short hops between stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1441,6 +2005,188 @@
           "Buses in rural areas may not be frequent, so plan accordingly.",
           "Combining short bus journeys with walking is a great way to see Donegal."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Tag beginnt am Diamond, dem Knotenpunkt des Nahverkehrs. Wir nehmen den Bus zum Schloss und zur Kirche, um Regenpausen zu nutzen. Mittags bietet der Pier und der Waterbus eine überdachte Aktivität. Der Nachmittag an der Abtei ist kurz, gefolgt von einer schnellen Rückfahrt zum Diamond für ein gemütliches Abendessen im Trockenen.",
+            "hu": "Esős nap kezdődik a Diamondnál, a helyi közlekedési csomópontnál. Busszal megyünk a várhoz és a templomhoz, kihasználva a száraz szüneteket. Délben a móló és a vízi busz kínál fedett programot. Az apátsági látogatás rövid, majd gyors visszatérés következik a Diamondhoz egy kényelmes, száraz vacsorára.",
+            "ro": "O zi ploioasă începe la Diamond, centrul transportului local. Luăm autobuzul spre castel și biserică, profitând de pauzele dintre ploi. La prânz, digul și Waterbus-ul oferă o activitate acoperită. Vizita la abație este scurtă, urmată de o întoarcere rapidă la Diamond pentru o cină caldă.",
+            "en": "A rainy day starts at The Diamond, the hub for local transit. We use the bus to reach the Castle and Church, timing moves between showers. Midday at the Pier and Waterbus offers a dry, covered activity. The Abbey visit is quick, followed by a swift bus return to The Diamond for a comfortable dinner indoors."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Donegal Town Centre",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen hier haben meist Unterstände.",
+                "hu": "A legtöbb itteni buszmegálló fedett váróval rendelkezik.",
+                "ro": "Majoritatea stațiilor de autobuz de aici au adăposturi.",
+                "en": "Most bus stops here have shelters to keep you dry."
+              }
+            },
+            {
+              "name": "Donegal Castle",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Schritte vom Eingang weg.",
+                "hu": "A megálló mindössze pár lépésre van a bejárattól.",
+                "ro": "Stația este la doar câțiva pași de intrare.",
+                "en": "The bus stop is just a few steps from the castle entrance."
+              }
+            },
+            {
+              "name": "St. Patrick's Church of the Four Masters",
+              "tip_5lang": {
+                "de": "Warten Sie im Vorraum der Kirche, wenn es stark regnet.",
+                "hu": "Várjon a templom előcsarnokában, ha elered az eső.",
+                "ro": "Așteptați în vestibulul bisericii dacă plouă torențial.",
+                "en": "Wait in the church porch if a sudden shower starts."
+              }
+            },
+            {
+              "name": "Cluster B: Pier & Bay",
+              "tip_5lang": {
+                "de": "Das Waterbus-Büro bietet einen warmen Wartesaal.",
+                "hu": "A vízi busz irodájában meleg váróterem található.",
+                "ro": "Biroul Waterbus oferă o sală de așteptare caldă.",
+                "en": "The Waterbus office provides a warm indoor waiting area."
+              }
+            },
+            {
+              "name": "Donegal Abbey",
+              "tip_5lang": {
+                "de": "Prüfen Sie die App für die genaue Ankunft des Rückbusses.",
+                "hu": "Ellenőrizze az alkalmazást a visszatérő busz pontos idejéhez.",
+                "ro": "Verificați aplicația pentru ora exactă a autobuzului de retur.",
+                "en": "Check the real-time app for the return bus schedule."
+              }
+            },
+            {
+              "name": "Return to The Diamond",
+              "tip_5lang": {
+                "de": "Suchen Sie sich ein Restaurant direkt neben der Haltestelle.",
+                "hu": "Válasszon éttermet közvetlenül a megálló mellett.",
+                "ro": "Alegeți un restaurant chiar lângă stație.",
+                "en": "Pick a restaurant right next to the bus stop to stay dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Real Time Ireland' App für Busverbindungen.",
+              "Halten Sie Kleingeld oder eine Leap Card bereit.",
+              "Busse können bei starkem Regen und Stau Verspätung haben.",
+              "Die meisten Haltestellen im Zentrum sind beleuchtet."
+            ],
+            "hu": [
+              "Használja a 'Real Time Ireland' alkalmazást a buszokhoz.",
+              "Legyen kéznél aprópénz vagy Leap Card.",
+              "Nagy esőben a buszok késhetnek a forgalom miatt.",
+              "A központi megállók többsége jól kivilágított."
+            ],
+            "ro": [
+              "Utilizați aplicația 'Real Time Ireland' pentru autobuze.",
+              "Aveți la îndemână mărunțiș sau un card Leap.",
+              "Autobuzele pot avea întârzieri pe ploaie din cauza traficului.",
+              "Majoritatea stațiilor din centru sunt iluminate."
+            ],
+            "en": [
+              "Use the 'Real Time Ireland' app for live bus tracking.",
+              "Have your change or Leap Card ready for quick boarding.",
+              "Buses may be slightly delayed during heavy rain and traffic.",
+              "Most central stops offer lighting and some seating."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Tag in Donegal, beginnend am belebten Diamond. Wir nutzen die beheizten Busse für den Weg zum Schloss und zur Kirche. Mittags genießen wir die klare Sicht am Pier, bevor wir uns im Waterbus-Wartesaal aufwärmen. Der Nachmittag an der Abtei ist kurz, die Rückfahrt zum Diamond erfolgt pünktlich zum frühen Lichterglanz der Stadt.",
+            "hu": "Deres téli nap Donegálban, a nyüzsgő Diamond tértől indulva. Fűtött buszokkal megyünk a várhoz és a templomhoz. Délben élvezzük a tiszta kilátást a mólónál, majd felmelegedünk a vízi busz várójában. Az apátsági látogatás rövid, a visszatérés a Diamondhoz pont a városi fények kigyúlásakor történik.",
+            "ro": "O zi geroasă în Donegal, plecând din piața animată Diamond. Folosim autobuzele încălzite pentru a ajunge la castel și biserică. La prânz ne bucurăm de vederea clară la dig, apoi ne încălzim în sala de așteptare. Vizita la abație este scurtă, iar întoarcerea la Diamond are loc exact când se aprind luminile orașului.",
+            "en": "A frosty day in Donegal, starting from the lively Diamond. We use heated buses to reach the Castle and Church. Midday offers crisp views at the Pier before warming up in the waiting room. The Abbey visit is brief, and the return to The Diamond happens just as the early evening city lights begin to glow."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Donegal Town Centre",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter angenehm geheizt.",
+                "hu": "A buszok télen kellemesen fűtöttek.",
+                "ro": "Autobuzele sunt bine încălzite în timpul iernii.",
+                "en": "Buses are kept warm and cozy during the winter months."
+              }
+            },
+            {
+              "name": "Donegal Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um nicht durch den kalten Wind zu gehen.",
+                "hu": "Használja a buszt, hogy ne kelljen a hideg szélben sétálnia.",
+                "ro": "Folosiți autobuzul pentru a evita mersul prin vântul rece.",
+                "en": "Take the bus to avoid long walks in the biting wind."
+              }
+            },
+            {
+              "name": "St. Patrick's Church of the Four Masters",
+              "tip_5lang": {
+                "de": "Vorsicht vor Frost auf den Stufen der Kirche.",
+                "hu": "Vigyázzon a dérlepte lépcsőkre a templomnál.",
+                "ro": "Atenție la treptele înghețate de la biserică.",
+                "en": "Watch out for frost on the stone steps of the church."
+              }
+            },
+            {
+              "name": "Cluster B: Pier & Bay",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Kakao am Kiosk am Pier.",
+                "hu": "Vegyél egy forró kakaót a móló melletti bódénál.",
+                "ro": "Luați o ciocolată caldă de la chioșcul de lângă dig.",
+                "en": "Grab a hot cocoa from the nearby pier-side kiosk."
+              }
+            },
+            {
+              "name": "Donegal Abbey",
+              "tip_5lang": {
+                "de": "Warten Sie auf den Bus an einer gut beleuchteten Stelle.",
+                "hu": "Várja a buszt jól kivilágított helyen.",
+                "ro": "Așteptați autobuzul într-un loc bine iluminat.",
+                "en": "Wait for the bus at a well-lit spot as dusk falls."
+              }
+            },
+            {
+              "name": "Return to The Diamond",
+              "tip_5lang": {
+                "de": "Perfekter Ort für einen Irish Coffee zum Aufwärmen.",
+                "hu": "Tökéletes hely egy melengető ír kávéhoz.",
+                "ro": "Locul perfect pentru un Irish Coffee pentru încălzire.",
+                "en": "The perfect place to find a warming Irish Coffee."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Winterfahrpläne für lokale Buslinien.",
+              "Die Wartezeiten an den Haltestellen sollten minimiert werden.",
+              "Busse sind oft der wärmste Ort zwischen den Besichtigungen.",
+              "Achten Sie auf Glätte beim Ein- und Aussteigen."
+            ],
+            "hu": [
+              "Ellenőrizze a helyi járatok téli menetrendjét.",
+              "Igyekezzen minimálisra csökkenteni a megállóban várakozást.",
+              "A buszok gyakran a legmelegebb helyek a városnézés során.",
+              "Vigyázzon a csúszásveszélyre fel- és leszálláskor."
+            ],
+            "ro": [
+              "Verificați orarul de iarnă pentru liniile locale.",
+              "Încercați să minimizați timpul de așteptare în stații.",
+              "Autobuzele sunt adesea cele mai calde locuri între vizite.",
+              "Atenție la polei când urcați sau coborâți din autobuz."
+            ],
+            "en": [
+              "Double-check winter timetables for local bus routes.",
+              "Try to minimize waiting times at unsheltered stops.",
+              "Buses are often the warmest place during your sightseeing.",
+              "Watch for slippery surfaces when boarding or alighting."
+            ]
+          }
+        }
       }
     }
   }

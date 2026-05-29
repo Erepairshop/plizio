@@ -320,6 +320,196 @@
           "Check the church's visiting hours as they can vary.",
           "Some pavements can be uneven, so be careful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens beginnen wir im Central Park, wo die Bäume etwas Schutz bieten, aber ein Regenschirm ist Pflicht. Das Bergarbeiter-Denkmal besichtigen wir nur kurz im Nieselregen. Mittags bieten die St.-Nikolaus-Kirche und der Kulturpalast willkommene trockene Rückzugsorte. Den regnerischen Nachmittag verbringen wir ausgiebig im Bergbaumuseum. Der Tag endet mit einem kurzen Gang zum Bahnhof unter grauem Himmel.",
+            "hu": "A reggelt a központi parkban kezdjük, az esernyő kötelező kellék. A Bányász emlékművet csak futólag nézzük meg az esőben. Délben a Szent Miklós templom és a Kultúrpalota belső terei nyújtanak menedéket a csapadék elől. A délutánt a Bányászati Múzeum gazdag kiállításai között töltjük szárazon. Este a vasútállomás ipari környezetében zárjuk a vizes, de tartalmas városi sétát.",
+            "ro": "Dimineața începe în Parcul Central, unde umbrela este indispensabilă. Monumentul Minerului este vizitat rapid pe timp de ploaie. La prânz, Biserica Sfântul Nicolae și Palatul Cultural al Minerilor oferă adăpost primitor împotriva stropilor. După-amiaza este dedicată explorării interioare la Muzeul Mineritului. Seara se încheie cu o plimbare spre gară, admirând atmosfera industrială sub cerul înnorat.",
+            "en": "Morning starts in Central Park, where an umbrella is essential. We visit the Miner's Monument briefly during the drizzle. At noon, Saint Nicholas Church and the Palace of Culture provide welcome dry retreats. The rainy afternoon is spent entirely indoors at the Mining Museum. The day concludes with a short walk to the train station under the grey, atmospheric Jiului Valley sky."
+          },
+          "stops": [
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Regenschirm mitnehmen, die Wege können rutschig sein.",
+                "hu": "Vigyél esernyőt, az aszfalt néhol csúszós lehet.",
+                "ro": "Folosiți o umbrelă, aleile pot fi alunecoase.",
+                "en": "Bring an umbrella, the paths might be slippery."
+              }
+            },
+            {
+              "name": "The Miner's Monument",
+              "tip_5lang": {
+                "de": "Schnelles Foto, da es hier keinen Unterstand gibt.",
+                "hu": "Gyors fotó, itt nincs fedett rész a közelben.",
+                "ro": "Fotografie rapidă, nu există adăpost în apropiere.",
+                "en": "Quick photo stop as there is no shelter nearby."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Idealer Ort, um eine Regenpause einzulegen.",
+                "hu": "Tökéletes hely egy rövid pihenőre az eső elől.",
+                "ro": "Loc perfect pentru o pauză scurtă de ploaie.",
+                "en": "Ideal place to take a break from the rain."
+              }
+            },
+            {
+              "name": "Miner's Palace of Culture",
+              "tip_5lang": {
+                "de": "Das Foyer bietet Schutz vor starkem Guss.",
+                "hu": "Az előtér védelmet nyújt a hirtelen záporok ellen.",
+                "ro": "Foaierul oferă protecție împotriva averselor.",
+                "en": "The foyer offers protection against sudden downpours."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Perfektes Indoor-Programm für zwei Stunden.",
+                "hu": "Kiváló beltéri program két órára.",
+                "ro": "Program interior perfect pentru două ore.",
+                "en": "Perfect indoor activity for two hours."
+              }
+            },
+            {
+              "name": "Lupeni Train Station",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Bahnsteigdach.",
+                "hu": "Várjon a peron fedett része alatt.",
+                "ro": "Așteptați sub copertina peronului.",
+                "en": "Wait under the platform roof."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Wasserdichte Schuhe sind im Schiltal wegen Pfützen wichtig.",
+              "Nutzen Sie die Kirche für eine stille Regenpause.",
+              "Das Bergbaumuseum ist der beste Ort bei Dauerregen.",
+              "Planen Sie mehr Zeit für die Wege ein, da der Boden rutschig ist.",
+              "Tragen Sie eine helle Regenjacke für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "Vízálló cipő javasolt a Zsil-völgyi tócsák miatt.",
+              "Használd ki a templom nyugalmát az eső alatti pihenésre.",
+              "A Bányászati Múzeum a legjobb menedék tartós esőben.",
+              "Számolj több idővel a közlekedésre a csúszós utak miatt.",
+              "Viselj élénk színű esőkabátot a jobb láthatóságért."
+            ],
+            "ro": [
+              "Încălțămintea impermeabilă este esențială în Valea Jiului.",
+              "Folosiți interiorul bisericii pentru o pauză de ploaie.",
+              "Muzeul Mineritului este cel mai bun refugiu pe ploaie.",
+              "Alocați mai mult timp deplasării pe trotuarele umede.",
+              "Purtați o pelerină colorată pentru vizibilitate sporită."
+            ],
+            "en": [
+              "Waterproof shoes are essential due to puddles in the valley.",
+              "Use the church interior for a peaceful break from the rain.",
+              "The Mining Museum is the best refuge during steady rain.",
+              "Allow extra time for walking as surfaces can be slick.",
+              "Wear bright rain gear for better visibility in grey weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens liegt oft Raureif über dem Central Park, die Luft ist eisig. Das Denkmal wirkt im Schnee besonders würdevoll. Mittags suchen wir die Wärme in der Kirche und bewundern die Winterstille im Kulturpalast. Den Nachmittag verbringen wir in den beheizten Hallen des Bergbaumuseums. Der Tag endet am Bahnhof, wenn die Dämmerung in den Bergen bereits früh einsetzt.",
+            "hu": "A fagyos reggelen zúzmara borítja a parkot, a levegő csípős. A Bányász emlékmű a hóesésben különösen ünnepélyes. Délben a templom és a Kultúrpalota melegében pihenünk meg. A délutánt a fűtött Bányászati Múzeumban töltjük, megismerve a bányászok nehéz munkáját. A nap a vasútállomáson ér véget, miközben a hegyek között korán leszáll az est.",
+            "ro": "Dimineața geroasă acoperă parcul cu chiciură, aerul fiind tăios. Monumentul Minerului arată solemn sub zăpadă. La prânz, căutăm căldura în biserică și în Palatul Cultural. După-amiaza este petrecută în sălile încălzite ale Muzeului Mineritului. Ziua se încheie la gară, pe măsură ce amurgul coboară devreme peste munții din jur.",
+            "en": "The frosty morning covers the park in rime ice; the air is crisp. The Miner's Monument looks especially solemn in the snow. At noon, we seek warmth in the church and the Palace of Culture. The afternoon is spent inside the heated halls of the Mining Museum. The day ends at the train station as dusk falls early over the surrounding mountains."
+          },
+          "stops": [
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Wegen am frühen Morgen.",
+                "hu": "Vigyázz a jeges utakkal kora reggel.",
+                "ro": "Atenție la aleile înghețate dimineața devreme.",
+                "en": "Watch out for icy paths early in the morning."
+              }
+            },
+            {
+              "name": "The Miner's Monument",
+              "tip_5lang": {
+                "de": "Warme Handschuhe für Fotos sind nötig.",
+                "hu": "Meleg kesztyű kell a fotózáshoz.",
+                "ro": "Mănuși călduroase necesare pentru fotografii.",
+                "en": "Warm gloves are needed for taking photos."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und moderaten Wärme.",
+                "hu": "A csend és a mérsékelt meleg helyszíne.",
+                "ro": "Un loc de liniște și căldură moderată.",
+                "en": "A place of silence and moderate warmth."
+              }
+            },
+            {
+              "name": "Miner's Palace of Culture",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob es Winterveranstaltungen gibt.",
+                "hu": "Érdeklődj a téli kulturális eseményekről.",
+                "ro": "Verificați programul evenimentelor de iarnă.",
+                "en": "Check for indoor winter cultural events."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Heizung während der Tour.",
+                "hu": "Élvezd a fűtést a múzeumi túra alatt.",
+                "ro": "Bucurați-vă de căldură în timpul vizitei.",
+                "en": "Enjoy the heating during your museum tour."
+              }
+            },
+            {
+              "name": "Lupeni Train Station",
+              "tip_5lang": {
+                "de": "Der Wind pfeift hier im Winter stark.",
+                "hu": "Itt télen nagyon fújhat a szél.",
+                "ro": "Vântul poate bate cu putere aici iarna.",
+                "en": "The wind can be quite strong here in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten (Zwiebelprinzip).",
+              "Die Sonne geht in den Bergen bereits gegen 16:30 Uhr unter.",
+              "Feste Winterschuhe mit Profil sind wegen Eis ein Muss.",
+              "Nehmen Sie eine Thermoskanne mit warmem Tee mit.",
+              "Museen sind die besten Orte zum Aufwärmen."
+            ],
+            "hu": [
+              "Öltözz rétegesen a nagy hideg ellen.",
+              "A nap a hegyek miatt már 16:30 körül lemegy.",
+              "Vastag, bordázott talpú téli bakancs kötelező a jég miatt.",
+              "Vigyél magaddal termoszt meleg teával.",
+              "A múzeumok a legjobb helyek a felmelegedésre."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru protecție termică.",
+              "Soarele apune după munți în jurul orei 16:30.",
+              "Ghetele de iarnă cu talpă aderentă sunt obligatorii.",
+              "Luați un termos cu ceai cald la plimbare.",
+              "Muzeele sunt cele mai bune locuri pentru încălzire."
+            ],
+            "en": [
+              "Dress in layers to cope with the mountain cold.",
+              "The sun sets behind the mountains as early as 16:30.",
+              "Sturdy winter boots with grip are a must due to ice.",
+              "Carry a thermos with hot tea for the walk.",
+              "Museums are the best spots to warm up during the day."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -614,6 +804,196 @@
           "Always lock your bike securely when you park it.",
           "Take a bottle of water with you, especially on warm days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Bahnhof und bereiten uns auf eine nasse Fahrt vor. Der Vormittag im Bergbaumuseum ist ideal, um das Rad sicher abzustellen und trocken zu bleiben. Mittags radeln wir vorsichtig zur Kirche und zum Kulturpalast. Nach einem kurzen Halt am Denkmal beenden wir die Tour im Central Park, wo wir unter den Bäumen etwas Schutz finden.",
+            "hu": "A vasútállomásról indulunk, felkészülve a vizes utakra. A délelőtt a múzeumban telik, ahol a kerékpárt biztonságban tudhatjuk, mi pedig megszáradunk. Délben óvatosan tekerünk a templomhoz és a Kultúrpalotához. Az emlékmű után a központi parkban zárjuk a napot, a fák alatt keresve menedéket a szitáló esőben.",
+            "ro": "Pornim de la gară, pregătiți pentru o tură umedă. Dimineața la muzeu este ideală pentru a lăsa bicicleta la adăpost și a rămâne uscați. La prânz, pedalăm cu grijă spre biserică și Palatul Cultural. După monument, încheiem ziua în Parcul Central, căutând protecție sub coronamentul copacilor.",
+            "en": "We start at the station, preparing for a wet ride. The morning at the Mining Museum is perfect for leaving the bike safely while staying dry. At noon, we pedal carefully to the church and the Palace of Culture. After the monument, we finish the day in Central Park, finding some shelter under the trees from the drizzle."
+          },
+          "stops": [
+            {
+              "name": "Lupeni Train Station",
+              "tip_5lang": {
+                "de": "Vorsicht beim Überqueren nasser Gleise.",
+                "hu": "Vigyázz a nedves síneken való átkeléskor.",
+                "ro": "Atenție la traversarea șinelor umede.",
+                "en": "Be careful when crossing wet tracks."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Fahrradständer im trockenen Bereich suchen.",
+                "hu": "Keress fedett helyet a kerékpárnak.",
+                "ro": "Căutați un loc acoperit pentru bicicletă.",
+                "en": "Look for a covered spot for your bike."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster davor.",
+                "hu": "Vigyázz a templom előtti macskaköveken.",
+                "ro": "Atenție pe piatra cubică din fața bisericii.",
+                "en": "Be careful on the cobblestones in front."
+              }
+            },
+            {
+              "name": "Miner's Palace of Culture",
+              "tip_5lang": {
+                "de": "Kurze Pause unter dem Vordach möglich.",
+                "hu": "Rövid pihenő a tető alatt lehetséges.",
+                "ro": "Pauză scurtă posibilă sub streașină.",
+                "en": "Short break possible under the overhang."
+              }
+            },
+            {
+              "name": "The Miner's Monument",
+              "tip_5lang": {
+                "de": "Rutschgefahr beim Absteigen auf nassem Asphalt.",
+                "hu": "Csúszásveszély leszálláskor a vizes aszfalton.",
+                "ro": "Risc de alunecare la descălecare pe asfalt umed.",
+                "en": "Slipping hazard when dismounting on wet asphalt."
+              }
+            },
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Laub auf den Wegen kann sehr rutschig sein.",
+                "hu": "A vizes levelek az úton nagyon csúszhatnak.",
+                "ro": "Frunzele umede pot fi foarte alunecoase.",
+                "en": "Wet leaves on the paths can be very slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Bremsen Sie auf nassem Asphalt frühzeitig und sanft.",
+              "Tragen Sie eine vollflächige Regenbekleidung.",
+              "Vermeiden Sie Pfützen, sie könnten tiefer sein als gedacht.",
+              "Nutzen Sie helle Lichter am Fahrrad für bessere Sicht."
+            ],
+            "hu": [
+              "Sárvédő használata kötelező ilyen időben.",
+              "Fékezz időben és óvatosan a vizes úton.",
+              "Viselj teljes esőruházatot a beázás ellen.",
+              "Kerüld a tócsákat, mélyebbek lehetnek, mint gondolnád.",
+              "Használj erős lámpákat a jobb láthatóságért."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt obligatorii pe această vreme.",
+              "Frânați din timp și ușor pe asfaltul umed.",
+              "Purtați echipament complet impermeabil.",
+              "Evitați bălțile, pot fi mai adânci decât par.",
+              "Folosiți lumini puternice pentru a fi vizibili."
+            ],
+            "en": [
+              "Mudguards are a must-have in this weather.",
+              "Brake early and gently on wet asphalt surfaces.",
+              "Wear full waterproof cycling gear.",
+              "Avoid puddles, they might be deeper than they look.",
+              "Use bright bike lights for better visibility in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir starten am kalten Bahnhof und radeln durch die klare Winterluft. Den Vormittag verbringen wir im warmen Bergbaumuseum, um die Glieder aufzuwärmen. Mittags führen uns die Wege zur Kirche und zum Kulturpalast, wobei wir auf Eisflächen achten. Nach einem frostigen Stopp am Denkmal lassen wir die Tour im verschneiten Central Park ausklingen.",
+            "hu": "A hideg állomásról indulunk, és a friss téli levegőben tekerünk. A délelőttöt a meleg múzeumban töltjük, hogy felmelegítsük tagjainkat. Délben az utunk a templomhoz és a Kultúrpalotához vezet, figyelve a jeges szakaszokra. Egy fagyos megálló után az emlékműnél, a napot a havas parkban fejezzük be.",
+            "ro": "Pornim de la gara rece și pedalăm prin aerul proaspăt de iarnă. Dimineața o petrecem în muzeul călduros pentru a ne dezmorți. La prânz, drumul ne duce spre biserică și Palatul Cultural, atenți la porțiunile cu gheață. După o oprire geroasă la monument, încheiem tura în parcul înzăpezit.",
+            "en": "Starting from the cold station, we cycle through the crisp winter air. We spend the morning in the warm museum to thaw out. At noon, our route takes us to the church and the Palace of Culture, keeping an eye out for icy patches. After a freezing stop at the monument, we finish the ride in the snow-covered park."
+          },
+          "stops": [
+            {
+              "name": "Lupeni Train Station",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Kondenswasser auf Metall.",
+                "hu": "Vigyázz a fagyott párára a fém felületeken.",
+                "ro": "Atenție la condensul înghețat pe metal.",
+                "en": "Watch out for frozen condensation on metal surfaces."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Fahrrad im Innenhof abstellen, falls möglich.",
+                "hu": "Ha lehet, az udvaron parkold le a gépet.",
+                "ro": "Parcați bicicleta în curte, dacă este posibil.",
+                "en": "Park your bike in the courtyard if possible."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Eisplatten bilden sich oft im Schatten der Kirche.",
+                "hu": "A templom árnyékában gyakran megmarad a jég.",
+                "ro": "Gheața se formează des la umbra bisericii.",
+                "en": "Ice patches often form in the church's shadow."
+              }
+            },
+            {
+              "name": "Miner's Palace of Culture",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den nächsten Abschnitt anziehen.",
+                "hu": "Öltözz fel jól a következő szakaszhoz.",
+                "ro": "Pregătiți hainele groase pentru următoarea etapă.",
+                "en": "Put on extra layers for the next leg of the trip."
+              }
+            },
+            {
+              "name": "The Miner's Monument",
+              "tip_5lang": {
+                "de": "Kurzer Halt, um nicht auszukühlen.",
+                "hu": "Rövid megálló, nehogy kihűlj.",
+                "ro": "Oprire scurtă pentru a nu îngheța.",
+                "en": "Short stop to avoid getting too cold."
+              }
+            },
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Fahren Sie nur auf geräumten Hauptwegen.",
+                "hu": "Csak a letakarított főutakon közlekedj.",
+                "ro": "Circulați doar pe aleile principale curățate.",
+                "en": "Ride only on cleared main paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Reduzieren Sie den Reifendruck leicht für mehr Grip.",
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Schmieren Sie die Kette häufiger wegen Streusalz.",
+              "Vermeiden Sie scharfe Kurven auf eventuellem Glatteis.",
+              "Trinken Sie ausreichend, auch wenn Sie keinen Durst spüren."
+            ],
+            "hu": [
+              "Csökkentsd kicsit a guminyomást a jobb tapadásért.",
+              "Viselj szélálló kesztyűt és sapkát a sisak alatt.",
+              "A sózás miatt gyakrabban olajozd a láncot.",
+              "Kerüld az éles kanyarokat az esetleges jégfoltokon.",
+              "Igyál eleget, akkor is, ha nem érzel szomjúságot."
+            ],
+            "ro": [
+              "Reduceți puțin presiunea în pneuri pentru aderență.",
+              "Purtați mănuși rezistente la vânt și căciulă sub cască.",
+              "Ungeți lanțul mai des din cauza sării de pe drum.",
+              "Evitați virajele bruște pe porțiunile cu gheață.",
+              "Hidratați-vă bine, chiar dacă nu simțiți setea."
+            ],
+            "en": [
+              "Slightly reduce tire pressure for better traction on snow.",
+              "Wear windproof gloves and a thin cap under your helmet.",
+              "Oil the chain more frequently due to road salt.",
+              "Avoid sharp turns on potential black ice patches.",
+              "Stay hydrated, even if you don't feel thirsty in the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -918,6 +1298,196 @@
           "Bring suitable clothing for both the city and the mountains.",
           "The drive to the mountains takes time, so plan it well."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am Parkplatz des Central Parks im Regen. Nach einem kurzen Blick auf das Denkmal verbringen wir den Vormittag im Bergbaumuseum. Mittags fahren wir die Serpentinen hinauf nach Straja, wobei Nebel die Sicht erschweren kann. Den Nachmittag verbringen wir in den Berghütten von Straja, bevor wir am Abend vorsichtig nach Lupeni zurückkehren.",
+            "hu": "A központi parknál kezdünk esőben. Az emlékmű gyors megtekintése után a múzeumban dekkolunk a zápor végéig. Délben felautózunk a szerpentineken Straja üdülőtelepre, ahol a köd nehezítheti a vezetést. A délutánt a hegyi panziók kényelmében töltjük, majd este óvatosan ereszkedünk vissza Lupényba.",
+            "ro": "Începem în parcarea Parcului Central pe ploaie. După o privire rapidă la monument, petrecem dimineața la muzeu. La prânz, urcăm serpentinele spre Straja, unde ceața poate reduce vizibilitatea. După-amiaza o petrecem în cabanele din Straja, iar seara revenim cu prudență în Lupeni.",
+            "en": "We start at the Central Park parking lot in the rain. After a quick look at the monument, we spend the morning at the museum. At noon, we drive up the winding roads to Straja, where fog might limit visibility. The afternoon is spent in the comfort of mountain lodges before carefully driving back to Lupeni in the evening."
+          },
+          "stops": [
+            {
+              "name": "Central Park (Parking)",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Ausgang, um Pfützen zu meiden.",
+                "hu": "Parkolj közel a kijárathoz a tócsák elkerülésére.",
+                "ro": "Parcați aproape de ieșire pentru a evita bălțile.",
+                "en": "Park close to the exit to avoid large puddles."
+              }
+            },
+            {
+              "name": "The Miner's Monument",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für ein Foto reicht.",
+                "hu": "Elég csak egy pillanatra kiszállni fotózni.",
+                "ro": "O scurtă coborâre pentru poze este suficientă.",
+                "en": "A quick jump out for a photo is enough."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Idealer Parkplatz direkt vor dem Eingang.",
+                "hu": "Ideális parkoló közvetlenül a bejárat előtt.",
+                "ro": "Parcare ideală chiar în fața intrării.",
+                "en": "Ideal parking available right in front."
+              }
+            },
+            {
+              "name": "Straja Ski Resort",
+              "tip_5lang": {
+                "de": "Vorsicht vor Aquaplaning auf der Bergstraße.",
+                "hu": "Vigyázz a vízenfutásra a hegyi úton.",
+                "ro": "Atenție la acvaplanare pe drumul montan.",
+                "en": "Watch out for aquaplaning on the mountain road."
+              }
+            },
+            {
+              "name": "Straja Cross",
+              "tip_5lang": {
+                "de": "Oft sehr neblig bei Regen, Vorsicht beim Gehen.",
+                "hu": "Esőben gyakran ködös, óvatosan gyalogolj.",
+                "ro": "Deseori ceață pe ploaie, atenție la mers.",
+                "en": "Often foggy during rain, walk carefully."
+              }
+            },
+            {
+              "name": "Return to Lupeni",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Motorbremse bergab.",
+                "hu": "Használd a motorféket lefelé menet.",
+                "ro": "Folosiți frâna de motor la coborâre.",
+                "en": "Use engine braking on the way down."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt.",
+              "Halten Sie auf den Bergstraßen nach Straja mehr Abstand.",
+              "Schalten Sie bei Nebel das Abblendlicht ein (kein Fernlicht).",
+              "Achten Sie auf Steinschlagrisiko bei starkem Regen.",
+              "Die Parkplätze in Straja können bei Regen schlammig sein."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizd az ablaktörlőket.",
+              "Tarts nagyobb követési távolságot a Straja felé vezető úton.",
+              "Köd esetén kapcsold be a tompított fényszórót.",
+              "Erős esőben figyelj a kőomlás veszélyére.",
+              "A strajai parkolók esőben sárosak lehetnek."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de plecare.",
+              "Păstrați o distanță mai mare pe drumul spre Straja.",
+              "Folosiți faza scurtă în caz de ceață.",
+              "Atenție la riscul de căderi de pietre pe ploaie torențială.",
+              "Parcările din Straja pot fi noroioase pe ploaie."
+            ],
+            "en": [
+              "Check your windshield wipers before starting the trip.",
+              "Keep a safe following distance on the road to Straja.",
+              "Turn on low-beam headlights if it's foggy.",
+              "Watch out for potential rockfalls during heavy rain.",
+              "Parking lots in Straja can get muddy in wet weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens befreien wir das Auto von Eis und starten am Parkplatz. Nach einem frostigen Besuch am Denkmal wärmen wir uns im Museum auf. Mittags fahren wir auf schneebedeckten Straßen hinauf nach Straja, wo der Winterzauber perfekt ist. Nach einem Besuch am verschneiten Kreuz genießen wir die Atmosphäre im Skigebiet, bevor wir am Abend sicher zurückfahren.",
+            "hu": "Reggel jégtelenítjük az autót, és a parkolónál kezdünk. Egy fagyos emlékmű-látogatás után a múzeumban melegszünk fel. Délben havas utakon hajtunk fel Strajára, ahol igazi téli meseország fogad. A havas kereszt meglátogatása után élvezzük a síközpont pezsgését, majd este óvatosan leereszkedünk a városba.",
+            "ro": "Dimineața curățăm gheața de pe mașină și pornim din parcare. După o vizită geroasă la monument, ne încălzim la muzeu. La prânz, urcăm pe drumuri înzăpezite spre Straja, unde peisajul este de basm. După vizita la crucea înzăpezită, ne bucurăm de stațiune, iar seara coborâm cu grijă.",
+            "en": "In the morning, we de-ice the car and start at the parking lot. After a freezing visit to the monument, we warm up at the museum. At noon, we drive up snowy roads to Straja, where a winter wonderland awaits. After visiting the snowy cross, we enjoy the ski resort's vibe before driving back safely in the evening."
+          },
+          "stops": [
+            {
+              "name": "Central Park (Parking)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eis unter dem Neuschnee.",
+                "hu": "Vigyázz a friss hó alatti jégre.",
+                "ro": "Atenție la gheața de sub zăpada proaspătă.",
+                "en": "Watch out for ice under the fresh snow."
+              }
+            },
+            {
+              "name": "The Miner's Monument",
+              "tip_5lang": {
+                "de": "Vorsicht beim Ein- und Aussteigen, Rutschgefahr.",
+                "hu": "Vigyázz a ki- és beszállásnál a csúszásveszély miatt.",
+                "ro": "Atenție la urcare și coborâre, risc de alunecare.",
+                "en": "Be careful when getting in and out, slipping hazard."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, das Auto abtauen zu lassen.",
+                "hu": "Jó alkalom hagyni az autót kicsit leolvadni.",
+                "ro": "O ocazie bună pentru a lăsa mașina să se dezghețe.",
+                "en": "A good opportunity to let the car thaw out a bit."
+              }
+            },
+            {
+              "name": "Straja Ski Resort",
+              "tip_5lang": {
+                "de": "Winterreifen und Schneeketten sind Pflicht.",
+                "hu": "Téli gumi és hólánc kötelező tartozék.",
+                "ro": "Anvelopele de iarnă și lanțurile sunt obligatorii.",
+                "en": "Winter tires and snow chains are mandatory."
+              }
+            },
+            {
+              "name": "Straja Cross",
+              "tip_5lang": {
+                "de": "Der Weg zum Kreuz kann tief verschneit sein.",
+                "hu": "A kereszthez vezető út mélyen havas lehet.",
+                "ro": "Drumul spre cruce poate fi troienit.",
+                "en": "The path to the cross can be deeply snow-covered."
+              }
+            },
+            {
+              "name": "Return to Lupeni",
+              "tip_5lang": {
+                "de": "Fahren Sie defensiv, es kann spiegelglatt sein.",
+                "hu": "Vezess óvatosan, tükörjég várható.",
+                "ro": "Conduceți defensiv, poate fi polei.",
+                "en": "Drive defensively, expect icy patches."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen mit ausreichend Profil sind überlebenswichtig.",
+              "Führen Sie eine Schaufel und Enteiserspray mit.",
+              "Die Straße nach Straja wird geräumt, kann aber tückisch sein.",
+              "Parken Sie in Straja so, dass Sie morgens leicht wegkommen.",
+              "Prüfen Sie den Frostschutz der Scheibenwaschanlage."
+            ],
+            "hu": [
+              "A megfelelő profilmélységű téli gumi életmentő.",
+              "Vigyél hólapátot és jégoldó spray-t.",
+              "A strajai utat takarítják, de trükkös lehet.",
+              "Úgy parkolj Straján, hogy reggel könnyen kijöhess.",
+              "Ellenőrizd a szélvédőmosó fagyállóságát."
+            ],
+            "ro": [
+              "Anvelopele de iarnă cu profil bun sunt vitale.",
+              "Aveți la voi o lopată și spray de dezghețare.",
+              "Drumul spre Straja este curățat, dar poate fi înșelător.",
+              "Parcați în Straja astfel încât să puteți pleca ușor.",
+              "Verificați antigelul din lichidul de parbriz."
+            ],
+            "en": [
+              "Winter tires with good tread are vital for safety.",
+              "Carry a snow shovel and de-icer spray in the car.",
+              "The road to Straja is cleared but can remain tricky.",
+              "Park in Straja in a way that makes leaving easy.",
+              "Check the freeze protection of your washer fluid."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1202,6 +1772,196 @@
           "Ask locals for the right bus; they are usually helpful.",
           "Be flexible, public transport in rural areas can be unpredictable."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir nutzen die Busverbindungen in Lupeni, um dem Regen zu entgehen. Den Vormittag verbringen wir im Bergbaumuseum, das gut erreichbar ist. Mittags besuchen wir die Kirche, bevor wir den Bus oder die Seilbahn hinauf nach Straja nehmen. Den Nachmittag verbringen wir geschützt in den Bergrestaurants, bevor uns der Transit am Abend zurück in die Stadt bringt.",
+            "hu": "A helyi buszjáratokat használjuk, hogy elkerüljük az esőt. A délelőttöt a jól megközelíthető bányászati múzeumban töltjük. Délben ellátogatunk a templomba, majd busszal vagy felvonóval felmegyünk Strajára. A délutánt a hegyi éttermekben vészeljük át, majd este a tömegközlekedéssel térünk vissza a városba.",
+            "ro": "Folosim autobuzele locale pentru a evita ploaia. Dimineața o petrecem la Muzeul Mineritului, care este ușor accesibil. La prânz vizităm biserica, apoi luăm autobuzul sau telegondola spre Straja. După-amiaza o petrecem în restaurantele montane, iar seara revenim în oraș.",
+            "en": "We use local bus connections to avoid the rain as much as possible. The morning is spent at the Mining Museum, which is easily accessible. At noon, we visit the church before taking the bus or gondola up to Straja. The afternoon is spent sheltered in mountain restaurants before transit brings us back to town."
+          },
+          "stops": [
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Bushaltestelle hat ein kleines Dach.",
+                "hu": "A buszmegállónak van egy kis tetője.",
+                "ro": "Stația de autobuz are o mică copertină.",
+                "en": "The bus stop has a small shelter."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle zum Eingang.",
+                "hu": "Rövid gyalogút a megállótól a bejáratig.",
+                "ro": "Drum scurt pe jos de la stație la intrare.",
+                "en": "Short walk from the stop to the entrance."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Busse halten oft in der Nähe der Kirche.",
+                "hu": "A buszok gyakran megállnak a templom közelében.",
+                "ro": "Autobuzele opresc deseori lângă biserică.",
+                "en": "Buses often stop near the church."
+              }
+            },
+            {
+              "name": "Straja Ski Resort",
+              "tip_5lang": {
+                "de": "Gondelfahrt bei Regen oft sehr neblig.",
+                "hu": "A felvonózás esőben gyakran nagyon ködös.",
+                "ro": "Drumul cu telegondola e deseori cețos pe ploaie.",
+                "en": "The gondola ride is often very foggy during rain."
+              }
+            },
+            {
+              "name": "Straja Cross",
+              "tip_5lang": {
+                "de": "Weg von der Bergstation kann rutschig sein.",
+                "hu": "A felső állomástól vezető út csúszós lehet.",
+                "ro": "Drumul de la stația de sus poate fi alunecos.",
+                "en": "The path from the top station can be slippery."
+              }
+            },
+            {
+              "name": "Return to Lupeni",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan des letzten Busses.",
+                "hu": "Ellenőrizd az utolsó busz menetrendjét.",
+                "ro": "Verificați orarul ultimului autobuz.",
+                "en": "Check the schedule for the last bus back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie Kleingeld für die Fahrkarten bereit.",
+              "Die Seilbahn ist bei starkem Wind außer Betrieb.",
+              "Warten Sie im Museumscafé auf den nächsten Bus.",
+              "Die Busse nach Straja verkehren in der Saison häufiger.",
+              "Tragen Sie wasserfeste Kleidung für die Umstiege."
+            ],
+            "hu": [
+              "Legyen nálad aprópénz a jegyekre.",
+              "Erős szél esetén a felvonó nem üzemel.",
+              "Várj a múzeumi kávézóban a következő buszra.",
+              "A strajai buszok szezonban gyakrabban járnak.",
+              "Viselj vízálló ruhát az átszállásokhoz."
+            ],
+            "ro": [
+              "Aveți pregătit mărunțiș pentru bilete.",
+              "Telegondola nu funcționează în caz de vânt puternic.",
+              "Așteptați următorul autobuz la cafeneaua muzeului.",
+              "Microbuzele spre Straja circulă des în sezon.",
+              "Purtați haine impermeabile pentru transferuri."
+            ],
+            "en": [
+              "Have small change ready for bus tickets.",
+              "The gondola is out of service during strong winds.",
+              "Wait in the museum cafe for your next bus.",
+              "Buses to Straja run more frequently during the season.",
+              "Wear waterproof clothing for transfers between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist der Transit der bequemste Weg nach Straja. Nach einem kalten Morgen im Park und einem Besuch im Bergbaumuseum nehmen wir den Bus oder die Gondel hinauf ins Skigebiet. In Straja genießen wir die Wintersonne oder suchen Schutz in den beheizten Hütten. Am Abend bringt uns die Seilbahn sicher zurück nach Lupeni, über die beleuchteten Pisten hinweg.",
+            "hu": "Télen a tömegközlekedés a legkényelmesebb út Strajára. A parkban tett hideg séta és a múzeumlátogatás után busszal vagy felvonóval megyünk fel a síközpontba. Straján élvezzük a téli napsütést vagy a fűtött házak melegét. Este a felvonó biztonságban visszavisz minket Lupényba a kivilágított pályák felett.",
+            "ro": "Iarna, transportul în comun este cea mai comodă cale spre Straja. După o dimineață rece în parc și vizita la muzeu, luăm autobuzul sau telegondola spre stațiune. În Straja ne bucurăm de soarele de iarnă sau de căldura cabanelor. Seara, telegondola ne readuce în Lupeni pe deasupra pârtiilor luminate.",
+            "en": "In winter, transit is the most convenient way to reach Straja. After a cold morning in the park and a museum visit, we take the bus or gondola up to the ski resort. In Straja, we enjoy the winter sun or seek warmth in heated lodges. In the evening, the gondola brings us back safely to Lupeni over the illuminated slopes."
+          },
+          "stops": [
+            {
+              "name": "Central Park",
+              "tip_5lang": {
+                "de": "Warten Sie im Warmen, bis der Bus kommt.",
+                "hu": "Várj egy meleg helyen, amíg a busz jön.",
+                "ro": "Așteptați la căldură până vine autobuzul.",
+                "en": "Wait in a warm spot until the bus arrives."
+              }
+            },
+            {
+              "name": "Mining Museum",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einsteigen auf schneebedeckten Stufen.",
+                "hu": "Vigyázz a felszálláskor a havas lépcsőkre.",
+                "ro": "Atenție la urcare pe treptele înzăpezite.",
+                "en": "Be careful on snowy steps when boarding."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Die Haltestellen können vereist sein.",
+                "hu": "A megállók környéke jeges lehet.",
+                "ro": "Zonele din jurul stațiilor pot fi înghețate.",
+                "en": "The areas around the stops can be icy."
+              }
+            },
+            {
+              "name": "Straja Ski Resort",
+              "tip_5lang": {
+                "de": "Die Seilbahn ist der schnellste Weg im Winter.",
+                "hu": "A felvonó a leggyorsabb út télen.",
+                "ro": "Telegondola este cea mai rapidă cale iarna.",
+                "en": "The gondola is the fastest way in winter."
+              }
+            },
+            {
+              "name": "Straja Cross",
+              "tip_5lang": {
+                "de": "Die Bergstation ist gut beheizt.",
+                "hu": "A felső állomás jól fűtött.",
+                "ro": "Stația de sus este bine încălzită.",
+                "en": "The top station is well heated."
+              }
+            },
+            {
+              "name": "Return to Lupeni",
+              "tip_5lang": {
+                "de": "Letzte Gondel fährt meist gegen 17:00 Uhr.",
+                "hu": "Az utolsó felvonó általában 17:00-kor indul.",
+                "ro": "Ultima telegondolă pleacă de obicei la 17:00.",
+                "en": "The last gondola usually leaves around 17:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Telegondel für eine tolle Aussicht.",
+              "Rechnen Sie mit Wartezeiten an den Wochenenden.",
+              "Die Gondel stoppt bei sehr starkem Wind.",
+              "Tragen Sie Skibekleidung, auch wenn Sie nicht skifahren.",
+              "Der Transit ist im Winter oft sicherer als das eigene Auto."
+            ],
+            "hu": [
+              "Használd a telegondolát a remek kilátásért.",
+              "Hétvégente számíts várakozási időre.",
+              "Nagyon erős szélben a felvonó leállhat.",
+              "Viselj síruhát akkor is, ha nem síelsz.",
+              "A tömegközlekedés télen gyakran biztonságosabb az autónál."
+            ],
+            "ro": [
+              "Folosiți telegondola pentru o priveliște superbă.",
+              "Așteptați-vă la cozi în zilele de weekend.",
+              "Telegondola se oprește la vânt foarte puternic.",
+              "Purtați costum de schi chiar dacă nu schiați.",
+              "Transportul în comun e mai sigur decât mașina iarna."
+            ],
+            "en": [
+              "Use the gondola for a spectacular winter view.",
+              "Expect waiting times during winter weekends.",
+              "The gondola stops operating during very high winds.",
+              "Wear ski gear even if you're not planning to ski.",
+              "Transit is often safer than driving yourself in winter."
+            ]
+          }
+        }
       }
     }
   }

@@ -386,6 +386,214 @@
           "A reusable water bottle is a good idea to stay hydrated.",
           "Take time for a break in a café to observe local life."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der regnerische Morgen beginnt in den geschützten Gassen von Oud Terneuzen, wo die historischen Fassaden den Wind abhalten. Mittags suchen wir Zuflucht in der Grote Kerk und besichtigen die Monumente unter dem Regenschirm. Am Nachmittag trotzen wir der Brise am Schelde-Boulevard, bevor wir uns in die trockenen Hallen des Portaal van Vlaanderen begeben. Der Tag endet gemütlich im Schulmuseum, weit weg vom nassen Wetter.",
+            "hu": "Az esős reggel Terneuzen óvárosának szűk utcáin indul, ahol a házak némi védelmet nyújtanak a szél elől. Délben a Grote Kerk belső tere és a Willibrordus-torony nyújt menedéket a záporok elől. Délután a Schelde-boulevard friss, párás levegőjét élvezzük, majd a Portaal van Vlaanderen fedett ipari kiállításai felé vesszük az irányt. A napot a barátságos iskolamúzeumban zárjuk, fedett helyen.",
+            "ro": "Dimineața ploioasă începe pe străzile înguste din Oud Terneuzen, unde fațadele istorice oferă adăpost împotriva vântului. La prânz, ne refugiem în interiorul Grote Kerk și vizităm monumentele sub umbrelă. După-amiaza, înfruntăm briza de pe bulevardul Scheldt înainte de a intra în spațiile uscate de la Portaal van Vlaanderen. Ziua se încheie confortabil în muzeul școlii, feriți de vremea umedă.",
+            "en": "The rainy morning starts in the sheltered alleys of Oud Terneuzen, where historic facades block the wind. At noon, we find refuge inside the Grote Kerk and visit monuments under an umbrella. In the afternoon, we brave the breeze on the Scheldt Boulevard before heading into the dry halls of Portaal van Vlaanderen. The day ends cozily in the school museum, well away from the wet weather."
+          },
+          "stops": [
+            {
+              "name": "Oud Terneuzen (Old Town)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die engen Gassen als natürlichen Windschutz bei Schauern.",
+                "hu": "Használja a szűk utcákat szélfogóként a záporok idején.",
+                "ro": "Folosiți străzile înguste ca protecție naturală împotriva vântului.",
+                "en": "Use the narrow alleys as natural wind protection during showers."
+              }
+            },
+            {
+              "name": "Grote Kerk (Great Church)",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die schwersten Regengüsse trocken abzuwarten.",
+                "hu": "Ideális hely a leghevesebb záporok szárazon történő átvészelésére.",
+                "ro": "Locul ideal pentru a aștepta trecerea ploilor torențiale la adăpost.",
+                "en": "Ideal place to wait out the heaviest downpours in the dry."
+              }
+            },
+            {
+              "name": "Willibrordus Tower",
+              "tip_5lang": {
+                "de": "Der Eingangsbereich bietet kurzzeitig Schutz vor dem Regen.",
+                "hu": "A bejárati rész rövid ideig védelmet nyújt az eső elől.",
+                "ro": "Zona de intrare oferă adăpost temporar împotriva ploii.",
+                "en": "The entrance area provides brief shelter from the rain."
+              }
+            },
+            {
+              "name": "Monument 'The Flying Dutchman'",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem Kopfsteinpflaster rund um das Denkmal.",
+                "hu": "Vigyázat, a monumentum körüli macskakő esőben csúszós lehet.",
+                "ro": "Atenție la pavajul alunecos din jurul monumentului.",
+                "en": "Watch out for slippery cobblestones around the monument."
+              }
+            },
+            {
+              "name": "Scheldt Boulevard",
+              "tip_5lang": {
+                "de": "Ein stabiler Regenschirm ist wegen des starken Seewinds Pflicht.",
+                "hu": "Az erős tengeri szél miatt stabil esernyőre lesz szükség.",
+                "ro": "O umbrelă rezistentă este obligatorie din cauza vântului marin.",
+                "en": "A sturdy umbrella is a must due to the strong sea wind."
+              }
+            },
+            {
+              "name": "Portaal van Vlaanderen (Gateway to Flanders)",
+              "tip_5lang": {
+                "de": "Das Besucherzentrum ist komplett überdacht und trocken.",
+                "hu": "A látogatóközpont teljesen fedett és száraz helyszín.",
+                "ro": "Centrul de vizitatori este complet acoperit și uscat.",
+                "en": "The visitor center is completely covered and dry."
+              }
+            },
+            {
+              "name": "School Museum 'Schooltijd'",
+              "tip_5lang": {
+                "de": "Perfekter Abschluss im Warmen nach einem nassen Spaziergang.",
+                "hu": "Tökéletes befejezés a melegben egy vizes séta után.",
+                "ro": "Final perfect la căldură după o plimbare prin ploaie.",
+                "en": "Perfect finish in the warm after a wet walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich in der Altstadt Pfützen bilden.",
+              "Der Schelde-Boulevard ist bei Regen sehr windig; eine Regenjacke ist besser als ein Schirm.",
+              "Nutzen Sie die Grote Kerk für eine längere Pause während eines Schauers.",
+              "Das Portaal van Vlaanderen bietet viele Indoor-Aktivitäten für Regentage.",
+              "Cafés in Oud Terneuzen sind ideal zum Aufwärmen und Trocknen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óvárosban megállhat a víz.",
+              "A Schelde-boulevard esőben nagyon szeles; a széldzseki praktikusabb, mint az ernyő.",
+              "A Grote Kerk tökéletes hely egy hosszabb pihenőre, amíg eláll az eső.",
+              "A Portaal van Vlaanderen rengeteg fedett programot kínál esős időre.",
+              "Az óvárosi kávézók ideálisak a felmelegedésre és száradásra."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți în centrul vechi.",
+              "Bulevardul Scheldt este foarte vântos pe ploaie; o jachetă este mai utilă decât umbrela.",
+              "Folosiți Grote Kerk pentru o pauză mai lungă în timpul unei averse.",
+              "Portaal van Vlaanderen oferă multe activități de interior pentru zilele ploioase.",
+              "Cafenelele din Oud Terneuzen sunt ideale pentru a vă încălzi și usca."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles tend to form in the old town alleys.",
+              "Scheldt Boulevard is very windy in the rain; a rain jacket is better than an umbrella.",
+              "Use the Grote Kerk for a longer break during a heavy downpour.",
+              "Portaal van Vlaanderen offers plenty of indoor activities for rainy days.",
+              "Cafes in Oud Terneuzen are ideal for warming up and drying off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen in Terneuzen beginnt mit klarer Luft in der Altstadt. Die Grote Kerk bietet einen würdevollen, kühlen Rückzugsort, bevor wir die frostige Aussicht am Schelde-Boulevard genießen. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das Tageslicht im Portaal van Vlaanderen optimal aus. Den Abend verbringen wir im beheizten Schulmuseum, während draußen die Winterdämmerung einsetzt.",
+            "hu": "A friss téli reggel Terneuzenben tiszta levegővel indul az óvárosban. A Grote Kerk méltóságteljes nyugalmat áraszt, mielőtt a jeges szelet élveznénk a Schelde-parton. Mivel a nap már 17:00 körül lemegy, a nappali fényt a Portaal van Vlaanderen látogatására használjuk ki. Az estét a fűtött iskolamúzeumban töltjük, miközben odakint leszáll a téli szürkület.",
+            "ro": "O dimineață răcoroasă de iarnă în Terneuzen începe cu aer curat în orașul vechi. Grote Kerk oferă un refugiu demn înainte de a ne bucura de briza înghețată de pe bulevardul Scheldt. Deoarece soarele apune în jurul orei 17:00, profităm la maximum de lumina zilei la Portaal van Vlaanderen. Seara o petrecem în muzeul școlii încălzit, în timp ce afară se lasă amurgul de iarnă.",
+            "en": "A crisp winter morning in Terneuzen begins with clear air in the old town. The Grote Kerk offers a dignified, cool retreat before we enjoy the frosty views at the Scheldt Boulevard. Since the sun sets around 17:00, we make the most of the daylight at Portaal van Vlaanderen. The evening is spent in the heated school museum as winter dusk settles outside."
+          },
+          "stops": [
+            {
+              "name": "Oud Terneuzen (Old Town)",
+              "tip_5lang": {
+                "de": "Die gefrorenen Gassen wirken im Winter besonders malerisch.",
+                "hu": "A fagyos utcák télen különösen festői látványt nyújtanak.",
+                "ro": "Străzile înghețate par deosebit de pitorești în timpul iernii.",
+                "en": "The frozen alleys look particularly picturesque in winter."
+              }
+            },
+            {
+              "name": "Grote Kerk (Great Church)",
+              "tip_5lang": {
+                "de": "Achten Sie auf die besonderen Lichtverhältnisse in der Kirche.",
+                "hu": "Figyelje meg a templom különleges téli fényeit odabent.",
+                "ro": "Observați condițiile de lumină deosebite din interiorul bisericii.",
+                "en": "Observe the special winter lighting conditions inside the church."
+              }
+            },
+            {
+              "name": "Willibrordus Tower",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist für den Aufenthalt im zugigen Turm nötig.",
+                "hu": "Meleg ruházat szükséges a huzatos torony meglátogatásához.",
+                "ro": "Îmbrăcămintea groasă este necesară pentru turnul unde trage curentul.",
+                "en": "Warm clothing is necessary for visiting the drafty tower."
+              }
+            },
+            {
+              "name": "Monument 'The Flying Dutchman'",
+              "tip_5lang": {
+                "de": "Das Denkmal ist im Winter oft stimmungsvoll beleuchtet.",
+                "hu": "A monumentum télen gyakran hangulatos megvilágítást kap.",
+                "ro": "Monumentul este adesea iluminat sugestiv în timpul iernii.",
+                "en": "The monument is often atmospherically lit in winter."
+              }
+            },
+            {
+              "name": "Scheldt Boulevard",
+              "tip_5lang": {
+                "de": "Der Wind vom Wasser ist im Winter extrem kalt; Schal einpacken.",
+                "hu": "A víz felőli szél télen rendkívül hideg; vigyen sálat.",
+                "ro": "Vântul de pe apă este extrem de rece iarna; luați un fular.",
+                "en": "The wind from the water is extremely cold in winter; pack a scarf."
+              }
+            },
+            {
+              "name": "Portaal van Vlaanderen (Gateway to Flanders)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die eisige Schelde von drinnen.",
+                "hu": "Élvezze a kilátást a jeges Schelde-folyóra a meleg belső térből.",
+                "ro": "Bucurați-vă de vederea spre Scheldt înghețat din interior.",
+                "en": "Enjoy the view of the icy Scheldt from the warm indoors."
+              }
+            },
+            {
+              "name": "School Museum 'Schooltijd'",
+              "tip_5lang": {
+                "de": "Ein gut geheiztes Ziel für den späten Winternachmittag.",
+                "hu": "Jól fűtött célpont a késő téli délutánra.",
+                "ro": "O destinație bine încălzită pentru după-amiaza târzie de iarnă.",
+                "en": "A well-heated destination for the late winter afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist gegen 17:00 Uhr; planen Sie Außenstopps davor.",
+              "Die Meeresbrise senkt die gefühlte Temperatur stark ab.",
+              "Achten Sie auf Glatteis auf den Deichwegen am Boulevard.",
+              "Viele Cafés bieten im Winter typisch niederländische Erbsensuppe (Snert) an.",
+              "Tragen Sie Zwiebelschichten, um zwischen Kälte und warmen Museen zu wechseln."
+            ],
+            "hu": [
+              "A napnyugta 17:00 körül van; a szabadtéri pontokat vegye előre.",
+              "A tengeri szél miatt a hőérzet sokkal alacsonyabb a mértnél.",
+              "Vigyázzon a jegesedésre a gát menti sétányokon.",
+              "Sok kávézó kínál ilyenkor tipikus holland borsólevest (Snert).",
+              "Öltözzön rétegesen a kinti hideg és a fűtött múzeumok közötti váltáshoz."
+            ],
+            "ro": [
+              "Apusul soarelui este în jurul orei 17:00; planificați vizitele externe înainte.",
+              "Briza mării scade considerabil temperatura resimțită.",
+              "Atenție la polei pe căile de pe dig de-a lungul bulevardului.",
+              "Multe cafenele oferă iarna supă de mazăre olandeză tipică (Snert).",
+              "Purtați haine în mai multe straturi pentru trecerea de la frig la muzee."
+            ],
+            "en": [
+              "Sunset is around 17:00; plan your outdoor stops before then.",
+              "The sea breeze significantly lowers the perceived temperature.",
+              "Watch out for black ice on the dike paths along the boulevard.",
+              "Many cafes offer typical Dutch pea soup (Snert) during winter.",
+              "Wear layers to adjust between the outdoor cold and heated museums."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +974,214 @@
           "A helmet is recommended.",
           "Always lock your bike securely, even for short stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch das regnerische Terneuzen erfordert gute Kleidung, bietet aber eine erfrischende Perspektive. Wir starten in der Altstadt und radeln entlang des windigen Schelde-Boulevards, wo das Wasser grau und mächtig wirkt. Mittags machen wir eine lange Pause im Portaal van Vlaanderen, um uns zu trocknen. Nachmittags erkunden wir den Park Zeeland, bevor wir die Tour an der Grote Kerk sicher beenden.",
+            "hu": "Egy biciklis túra az esős Terneuzenben jó felszerelést igényel, de frissítő élményt nyújt. Az óvárosból indulunk a szeles Schelde-parti úton, ahol a víz szürke és monumentális. Délben hosszabb szünetet tartunk a Portaal van Vlaanderennél, hogy megszáradjunk. Délután a Park Zeeland területét fedezzük fel, majd a túrát biztonságban a Grote Kerknél zárjuk.",
+            "ro": "O tură cu bicicleta prin Terneuzen pe ploaie necesită echipament bun, dar oferă o perspectivă revigorantă. Pornim din orașul vechi pe drumul vântos de-a lungul Scheldt, unde apa pare cenușie și impunătoare. La prânz facem o pauză lungă la Portaal van Vlaanderen pentru a ne usca. După-amiaza explorăm Park Zeeland înainte de a încheia turul în siguranță la Grote Kerk.",
+            "en": "A bike tour through rainy Terneuzen requires good gear but offers a refreshing perspective. We start in the old town and cycle along the windy Scheldt Boulevard, where the water looks grey and powerful. At noon, we take a long break at Portaal van Vlaanderen to dry off. In the afternoon, we explore Park Zeeland before ending the tour safely at Grote Kerk."
+          },
+          "stops": [
+            {
+              "name": "Oud Terneuzen (Old Town)",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster in den Kurven.",
+                "hu": "Vigyázzon a vizes macskakövön a kanyarokban.",
+                "ro": "Atenție la pavajul umed în curbe.",
+                "en": "Be careful on the wet cobblestones in the corners."
+              }
+            },
+            {
+              "name": "Scheldt Boulevard",
+              "tip_5lang": {
+                "de": "Der Seitenwind kann hier bei Regen sehr tückisch sein.",
+                "hu": "Az oldalszél esőben itt nagyon csalóka lehet.",
+                "ro": "Vântul lateral poate fi foarte înșelător aici pe ploaie.",
+                "en": "The side wind can be very tricky here in the rain."
+              }
+            },
+            {
+              "name": "Monument 'The Flying Dutchman'",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; halten Sie Ihre Bremsen bereit.",
+                "hu": "Rövid fotómegálló; tartsa készenlétben a fékeket.",
+                "ro": "Oprire scurtă pentru poze; țineți frânele pregătite.",
+                "en": "Short photo stop; keep your brakes ready."
+              }
+            },
+            {
+              "name": "Portaal van Vlaanderen",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer sind hier vorhanden.",
+                "hu": "Itt fedett biciklitárolók állnak rendelkezésre.",
+                "ro": "Sunt disponibile rastele de biciclete acoperite aici.",
+                "en": "Covered bike racks are available here."
+              }
+            },
+            {
+              "name": "Park Zeeland",
+              "tip_5lang": {
+                "de": "Die Wege können bei starkem Regen matschig werden.",
+                "hu": "Az utak heves esőzéskor sárossá válhatnak.",
+                "ro": "Potecile pot deveni noroioase în caz de ploaie abundentă.",
+                "en": "The paths can become muddy during heavy rain."
+              }
+            },
+            {
+              "name": "School Museum 'Schooltijd'",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab und wärmen Sie sich auf.",
+                "hu": "Parkolja le biztonságban a gépet, és melegedjen fel odabent.",
+                "ro": "Parcați bicicleta în siguranță și încălziți-vă în interior.",
+                "en": "Park your bike safely and warm up inside."
+              }
+            },
+            {
+              "name": "Grote Kerk & Willibrordus Tower",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um die Fahrt trocken Revue passieren zu lassen.",
+                "hu": "Csendes hely, ahol szárazon értékelheti a túrát.",
+                "ro": "Un loc liniștit pentru a trece în revistă traseul la uscat.",
+                "en": "A quiet place to review the ride in the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine komplette Regenmontur inklusive Überhose.",
+              "Prüfen Sie Ihre Bremsbeläge, da sie auf nassen Felgen weniger greifen.",
+              "Vermeiden Sie schnelle Fahrten auf glatten Deichwegen.",
+              "Nutzen Sie die Brückenunterführungen als kurzen Wetterschutz.",
+              "Wischen Sie den Sattel nach jedem Stopp trocken."
+            ],
+            "hu": [
+              "Viseljen teljes esőfelszerelést, beleértve az esőnadrágot is.",
+              "Ellenőrizze a fékbetéteket, mert vizes felnin kevésbé fognak.",
+              "Kerülje a gyors tempót a csúszós gáti utakon.",
+              "Használja a hidak alatti részeket rövid eső elleni védelemként.",
+              "Minden megálló után törölje szárazra a nyerget."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, inclusiv suprapantaloni.",
+              "Verificați saboții de frână, deoarece prind mai greu pe jante ude.",
+              "Evitați viteza mare pe potecile alunecoase de pe dig.",
+              "Folosiți subpasajele podurilor ca adăpost temporar de ploaie.",
+              "Ștergeți șaua după fiecare oprire."
+            ],
+            "en": [
+              "Wear a full rain suit including waterproof over-trousers.",
+              "Check your brake pads as they grip less on wet rims.",
+              "Avoid high speeds on slippery dike paths.",
+              "Use bridge underpasses as brief weather protection.",
+              "Wipe your saddle dry after every stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt uns durch die frostige Landschaft von Zeeland. Wir beginnen in der Altstadt und genießen die klare Sicht auf die Westerschelde. Der eisige Wind auf dem Boulevard fordert uns heraus, doch das Portaal van Vlaanderen bietet eine warme Pause zur Halbzeit. Im Park Zeeland erleben wir die Winterstille, bevor wir die Tour beenden, solange es noch hell ist.",
+            "hu": "A téli biciklis túra Zeeland fagyos tájain vezet keresztül. Az óvárosban kezdünk, élvezve a tiszta kilátást a Westerschelde-folyóra. A boulevardi jeges szél próbára tesz minket, de a Portaal van Vlaanderen meleg pihenőt nyújt félúton. A Park Zeelandben átéljük a téli csendet, mielőtt még világosban befejeznénk a túrát.",
+            "ro": "Turul de iarnă cu bicicleta ne poartă prin peisajul înghețat al Zeelandei. Începem în orașul vechi, bucurându-ne de vederea clară spre Westerschelde. Vântul înghețat de pe bulevard ne provoacă, dar Portaal van Vlaanderen oferă o pauză caldă la jumătatea drumului. În Park Zeeland experimentăm liniștea iernii înainte de a termina turul cât încă e lumină.",
+            "en": "The winter bike tour takes us through the frosty landscape of Zeeland. We start in the old town, enjoying the clear view of the Westerschelde. The icy wind on the boulevard challenges us, but Portaal van Vlaanderen offers a warm break at the halfway point. In Park Zeeland, we experience winter silence before finishing the tour while it's still light."
+          },
+          "stops": [
+            {
+              "name": "Oud Terneuzen (Old Town)",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Tau auf dem Pflaster am frühen Morgen.",
+                "hu": "Vigyázzon a kora reggeli fagyos harmatra a kövezeten.",
+                "ro": "Atenție la roua înghețată de pe pavaj dimineața devreme.",
+                "en": "Watch out for frozen dew on the pavement early in the morning."
+              }
+            },
+            {
+              "name": "Scheldt Boulevard",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe gegen den eisigen Seewind.",
+                "hu": "Viseljen szélálló kesztyűt a jeges tengeri szél ellen.",
+                "ro": "Purtați mănuși rezistente la vânt împotriva brizei înghețate.",
+                "en": "Wear windproof gloves against the icy sea breeze."
+              }
+            },
+            {
+              "name": "Monument 'The Flying Dutchman'",
+              "tip_5lang": {
+                "de": "Schneller Stopp, um nicht auszukühlen.",
+                "hu": "Gyors megálló, nehogy kihűljön a teste.",
+                "ro": "Oprire rapidă pentru a nu vă răci.",
+                "en": "Quick stop to avoid getting chilled."
+              }
+            },
+            {
+              "name": "Portaal van Vlaanderen",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Hände bei einer Tasse Kaffee aufzuwärmen.",
+                "hu": "Ideális hely a kezek felmelegítésére egy csésze kávé mellett.",
+                "ro": "Locul ideal pentru a vă încălzi mâinile cu o cafea.",
+                "en": "Ideal place to warm up your hands over a cup of coffee."
+              }
+            },
+            {
+              "name": "Park Zeeland",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte in schattigen Waldabschnitten.",
+                "hu": "Vigyázzon a csúszós szakaszokra az árnyékos erdei részeken.",
+                "ro": "Atenție la porțiunile cu polei în zonele umbrite de pădure.",
+                "en": "Watch out for slippery patches in shaded forest sections."
+              }
+            },
+            {
+              "name": "School Museum 'Schooltijd'",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre nach der kalten Fahrt.",
+                "hu": "Élvezze a barátságos légkört a hideg tekerés után.",
+                "ro": "Bucurați-vă de atmosfera primitoare după drumul friguros.",
+                "en": "Enjoy the cozy atmosphere after the cold ride."
+              }
+            },
+            {
+              "name": "Grote Kerk & Willibrordus Tower",
+              "tip_5lang": {
+                "de": "Überprüfen Sie Ihr Licht, da es früh dunkel wird.",
+                "hu": "Ellenőrizze a világítást, mert korán sötétedik.",
+                "ro": "Verificați luminile, deoarece se întunecă devreme.",
+                "en": "Check your lights, as it gets dark early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Unterwäsche und winddichte Kleidung.",
+              "Vermeiden Sie abruptes Bremsen auf möglicherweise glatten Wegen.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+              "Ein heißes Getränk in einer Thermoskanne ist sehr zu empfehlen.",
+              "Halten Sie die Fahrtzeit kürzer als im Sommer, um Erfrierungen zu vermeiden."
+            ],
+            "hu": [
+              "Viseljen termó aláöltözetet és szélálló ruhát.",
+              "Kerülje a hirtelen fékezést az esetlegesen jeges utakon.",
+              "Győződjön meg róla, hogy a kerékpár világítása hibátlanul működik.",
+              "Egy termoszban vitt forró ital nagyon ajánlott.",
+              "Tartsa rövidebben a menetidőt a nyárihoz képest a kihűlés elkerülése végett."
+            ],
+            "ro": [
+              "Purtați lenjerie termică și haine rezistente la vânt.",
+              "Evitați frânarea bruscă pe drumurile care pot fi înghețate.",
+              "Asigurați-vă că luminile bicicletei funcționează perfect.",
+              "O băutură fierbinte într-un termos este foarte recomandată.",
+              "Păstrați durata drumului mai scurtă decât vara pentru a evita înghețul."
+            ],
+            "en": [
+              "Wear thermal underwear and windproof clothing.",
+              "Avoid abrupt braking on potentially icy paths.",
+              "Ensure your bike lights are in perfect working order.",
+              "A hot drink in a thermos is highly recommended.",
+              "Keep the riding time shorter than in summer to avoid getting too cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1146,6 +1562,214 @@
           "Plan some buffer time for traffic, especially around the port.",
           "Watch out for cyclists, who often have the right of way in the Netherlands."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Terneuzen trocken und bequem. Wir nutzen die Parkplätze nahe dem historischen Zentrum und besuchen die Grote Kerk während eines Schauers. Die Fahrt zum Schelde-Boulevard bietet dramatische Ausblicke auf die stürmische See vom Auto aus. Nachmittags parken wir direkt am Portaal van Vlaanderen und beenden den Tag entspannt im Park Zeeland, wo wir bei Regen im Fahrzeug bleiben können.",
+            "hu": "Autóval kényelmesen és szárazon fedezzük fel Terneuzent. A történelmi központhoz közeli parkolókat használjuk, és a záporok alatt látogatjuk meg a Grote Kerket. A Schelde-boulevard felé vezető út drámai kilátást nyújt a viharos tengerre az ablakból. Délután közvetlenül a Portaal van Vlaanderennél parkolunk, a napot pedig a Park Zeelandben zárjuk, ahol esőben a kocsiban is maradhatunk.",
+            "ro": "Cu mașina explorăm Terneuzen uscați și confortabil. Folosim parcările de lângă centrul istoric și vizităm Grote Kerk în timpul unei averse. Drumul spre bulevardul Scheldt oferă vederi dramatice spre marea furtunoasă de la fereastră. După-amiaza parcăm direct la Portaal van Vlaanderen și încheiem ziua la Park Zeeland, unde putem rămâne în vehicul dacă plouă.",
+            "en": "By car, we explore Terneuzen dry and comfortably. We use parking lots near the historic center and visit the Grote Kerk during a shower. The drive to Scheldt Boulevard offers dramatic views of the stormy sea from the window. In the afternoon, we park directly at Portaal van Vlaanderen and end the day at Park Zeeland, where we can stay in the vehicle if it rains."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center (Parking)",
+              "tip_5lang": {
+                "de": "Parkhaus nutzen, um beim Aussteigen trocken zu bleiben.",
+                "hu": "Használjon parkolóházat, hogy kiszálláskor száraz maradjon.",
+                "ro": "Folosiți parcarea etajată pentru a rămâne uscat la coborâre.",
+                "en": "Use a parking garage to stay dry when getting out."
+              }
+            },
+            {
+              "name": "Oud Terneuzen & Grote Kerk",
+              "tip_5lang": {
+                "de": "Nur kurzer Fußweg vom Parkplatz zum Kircheneingang.",
+                "hu": "Csak rövid séta a parkolótól a templom bejáratáig.",
+                "ro": "Doar o scurtă plimbare de la parcare la intrarea în biserică.",
+                "en": "Just a short walk from the parking lot to the church entrance."
+              }
+            },
+            {
+              "name": "Willibrordus Tower & 'The Flying Dutchman' Monument",
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man einen guten Blick auf das Monument.",
+                "hu": "Az autóból is jól látható a monumentum.",
+                "ro": "De la mașină aveți o vedere bună asupra monumentului.",
+                "en": "You have a good view of the monument from the car."
+              }
+            },
+            {
+              "name": "Cluster 2: Scheldt Boulevard (Parking)",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz mit direkter Sicht auf das Wasser.",
+                "hu": "Válasszon olyan helyet, ahonnan közvetlen kilátás nyílik a vízre.",
+                "ro": "Alegeți un loc cu vedere directă spre apă.",
+                "en": "Choose a spot with a direct view of the water."
+              }
+            },
+            {
+              "name": "Cluster 3: Port & Culture (Parking)",
+              "tip_5lang": {
+                "de": "Ausreichend Parkplätze direkt am Informationszentrum.",
+                "hu": "Elegendő parkolóhely közvetlenül az információs központnál.",
+                "ro": "Suficiente locuri de parcare direct la centrul de informare.",
+                "en": "Sufficient parking spaces right at the information center."
+              }
+            },
+            {
+              "name": "Portaal van Vlaanderen",
+              "tip_5lang": {
+                "de": "Ideal bei Regen, da alle Attraktionen nah beieinander liegen.",
+                "hu": "Ideális esőben, mert minden látnivaló közel van egymáshoz.",
+                "ro": "Ideal pe ploaie, deoarece atracțiile sunt aproape una de alta.",
+                "en": "Ideal in the rain as attractions are close to each other."
+              }
+            },
+            {
+              "name": "Cluster 4: Park Zeeland",
+              "tip_5lang": {
+                "de": "Man kann die Natur auch gemütlich vom Auto aus genießen.",
+                "hu": "A természetet kényelmesen, az autóból is élvezheti.",
+                "ro": "Puteți savura natura confortabil din mașină.",
+                "en": "You can enjoy nature comfortably from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Scheibenwischer-Intervallschaltung bei Gischt am Boulevard.",
+              "Parkhäuser im Zentrum sind bei starkem Regen die beste Wahl.",
+              "Vermeiden Sie das Parken unter Bäumen bei stürmischem Regen.",
+              "Halten Sie einen Regenschirm für die kurzen Wege zu den Eingängen bereit.",
+              "Achten Sie auf beschlagene Scheiben; nutzen Sie die Klimaanlage zum Entfeuchten."
+            ],
+            "hu": [
+              "Használja az ablaktörlő intervallum kapcsolóját a part menti vízpermetnél.",
+              "A központi parkolóházak a legjobb választások heves esőben.",
+              "Viharos esőben kerülje a fák alatti parkolást.",
+              "Tartson kéznél esernyőt a bejáratokig tartó rövid utakhoz.",
+              "Ügyeljen a párásodó ablakokra; használja a klímát a páramentesítéshez."
+            ],
+            "ro": [
+              "Folosiți ștergătoarele pe modul intermitent pentru spray-ul mării pe bulevard.",
+              "Parcările etajate din centru sunt cea mai bună alegere pe ploaie torențială.",
+              "Evitați parcarea sub copaci în caz de ploaie cu furtună.",
+              "Țineți o umbrelă la îndemână pentru drumurile scurte spre intrări.",
+              "Atenție la geamurile aburite; folosiți aerul condiționat pentru dezaburire."
+            ],
+            "en": [
+              "Use intermittent wipers for the sea spray on the boulevard.",
+              "Parking garages in the center are the best choice during heavy rain.",
+              "Avoid parking under trees during stormy rain.",
+              "Keep an umbrella handy for the short walks to the entrances.",
+              "Watch out for fogged windows; use the AC to dehumidify."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour durch Terneuzen beginnt mit einer warmen Fahrt durch die Altstadt. Wir parken zentrumsnah, um die Grote Kerk zu besichtigen, bevor wir entlang der winterlichen Westerschelde fahren. Das Portaal van Vlaanderen ist auch im Winter gut erreichbar und bietet spannende Einblicke in den Hafenbetrieb. Zum Abschluss fahren wir durch den Park Zeeland, während die Wintersonne früh hinter dem Horizont verschwindet.",
+            "hu": "A téli autós túra Terneuzenben meleg utazással indul az óvároson keresztül. A központ közelében parkolunk a Grote Kerk megtekintéséhez, majd a téli Westerschelde mentén autózunk. A Portaal van Vlaanderen télen is könnyen elérhető, és izgalmas betekintést nyújt a kikötői életbe. Befejezésül a Park Zeelanden hajtunk át, miközben a téli nap korán eltűnik a horizont mögött.",
+            "ro": "Turul de iarnă cu mașina în Terneuzen începe cu un drum călduros prin orașul vechi. Parcăm aproape de centru pentru a vizita Grote Kerk, apoi conducem de-a lungul Westerschelde-ului înghețat. Portaal van Vlaanderen este ușor accesibil și iarna, oferind perspective fascinante asupra portului. La final, trecem prin Park Zeeland în timp ce soarele de iarnă apune devreme.",
+            "en": "The winter car tour through Terneuzen starts with a warm drive through the old town. We park near the center to visit the Grote Kerk before driving along the wintery Westerschelde. Portaal van Vlaanderen is easily accessible in winter and offers exciting insights into port life. To finish, we drive through Park Zeeland as the winter sun disappears early behind the horizon."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Historic Center (Parking)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen; Parkplätze können glatt sein.",
+                "hu": "Vigyázzon kiszálláskor; a parkolóhelyek jegesek lehetnek.",
+                "ro": "Atenție la coborâre; locurile de parcare pot fi alunecoase.",
+                "en": "Be careful when getting out; parking spaces can be slippery."
+              }
+            },
+            {
+              "name": "Oud Terneuzen & Grote Kerk",
+              "tip_5lang": {
+                "de": "Kurze Wege sind im Winter ideal, um warm zu bleiben.",
+                "hu": "A rövid utak télen ideálisak a testhő megőrzéséhez.",
+                "ro": "Drumurile scurte sunt ideale iarna pentru a rămâne la căldură.",
+                "en": "Short walks are ideal in winter to stay warm."
+              }
+            },
+            {
+              "name": "Willibrordus Tower & 'The Flying Dutchman' Monument",
+              "tip_5lang": {
+                "de": "Vom warmen Fahrzeug aus Fotos machen.",
+                "hu": "Készítsen fotókat a meleg autóból.",
+                "ro": "Faceți poze din vehiculul călduros.",
+                "en": "Take photos from the warm vehicle."
+              }
+            },
+            {
+              "name": "Cluster 2: Scheldt Boulevard (Parking)",
+              "tip_5lang": {
+                "de": "Motor nicht laufen lassen, während Sie die Aussicht genießen.",
+                "hu": "Ne járassa a motort, miközben a kilátást élvezi.",
+                "ro": "Nu lăsați motorul pornit în timp ce savurați vederea.",
+                "en": "Don't leave the engine running while enjoying the view."
+              }
+            },
+            {
+              "name": "Cluster 3: Port & Culture (Parking)",
+              "tip_5lang": {
+                "de": "Parkplätze werden im Winter oft geräumt und gestreut.",
+                "hu": "A parkolókat télen gyakran takarítják és sózzák.",
+                "ro": "Parcările sunt adesea curățate și date cu sare iarna.",
+                "en": "Parking lots are often cleared and salted in winter."
+              }
+            },
+            {
+              "name": "Portaal van Vlaanderen",
+              "tip_5lang": {
+                "de": "Im Besucherzentrum ist es angenehm geheizt.",
+                "hu": "A látogatóközpontban kellemes fűtés várja.",
+                "ro": "Centrul de vizitatori este încălzit plăcut.",
+                "en": "The visitor center is pleasantly heated."
+              }
+            },
+            {
+              "name": "Cluster 4: Park Zeeland",
+              "tip_5lang": {
+                "de": "Besonders reizvoll bei Frost oder leichtem Schneefall.",
+                "hu": "Különösen vonzó fagyban vagy enyhe havazásban.",
+                "ro": "Deosebit de atractiv pe ger sau ninsoare ușoară.",
+                "en": "Particularly attractive during frost or light snowfall."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Frostschutzmittel aufgefüllt ist.",
+              "Nutzen Sie die Sitzheizung für zusätzlichen Komfort bei Kälte.",
+              "Achten Sie auf Glatteiswarnungen im Radio für die Küstenregion.",
+              "Haben Sie einen Eiskratzer und Handschuhe im Auto griffbereit.",
+              "Planen Sie die Rückfahrt vor Einbruch der frühen Dunkelheit."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a fagyálló folyadék fel van töltve.",
+              "Használja az ülésfűtést a nagyobb kényelem érdekében.",
+              "Figyelje a rádióban a part menti jegesedésre vonatkozó figyelmeztetéseket.",
+              "Legyen a kocsiban jégkaparó és kesztyű kéznél.",
+              "Tervezze meg a visszautat a korai sötétedés beállta előtt."
+            ],
+            "ro": [
+              "Asigurați-vă că lichidul antigel este completat.",
+              "Folosiți încălzirea în scaune pentru un plus de confort.",
+              "Ascultați la radio avertizările de polei pentru regiunea de coastă.",
+              "Aveți la îndemână în mașină o răzuitoare de gheață și mănuși.",
+              "Planificați drumul de întoarcere înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "Ensure your antifreeze levels are topped up.",
+              "Use seat heating for extra comfort in the cold.",
+              "Listen to the radio for black ice warnings in the coastal region.",
+              "Keep an ice scraper and gloves handy in the car.",
+              "Plan your return journey before the early onset of darkness."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1502,6 +2126,196 @@
           "Signal the driver when you want to get off at your stop.",
           "Plan your route in advance to minimize transfer times."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus navigieren wir bequem durch das regnerische Terneuzen. Wir starten am Stadhuis und besuchen die Altstadt, wobei die Bushaltestellen Schutz vor den schlimmsten Schauern bieten. Die Fahrt zum Boulevard ermöglicht trockene Ausblicke auf die Westerschelde. Nachmittags bringt uns der Transit direkt zum Portaal van Vlaanderen und zum Schulmuseum, sodass wir kaum nass werden.",
+            "hu": "Busszal kényelmesen navigálunk az esős Terneuzenben. A Stadhuis megállótól indulunk az óvárosba, a buszmegállók pedig védelmet nyújtanak a leghevesebb záporok elől. A boulevard felé vezető út száraz kilátást biztosít a Westerschelde-folyóra. Délután a tömegközlekedés közvetlenül a Portaal van Vlaanderenhez és az iskolamúzeumhoz visz, így alig ér minket az eső.",
+            "ro": "Navigăm confortabil cu autobuzul prin Terneuzen pe ploaie. Pornim de la Stadhuis spre orașul vechi, stațiile de autobuz oferind protecție împotriva celor mai grele averse. Drumul spre bulevard permite vederi uscate spre Westerschelde. După-amiaza, transportul în comun ne duce direct la Portaal van Vlaanderen și muzeul școlii, astfel încât abia ne udăm.",
+            "en": "By bus, we navigate comfortably through rainy Terneuzen. We start at Stadhuis and visit the old town, with bus stops providing shelter from the worst showers. The ride to the boulevard allows for dry views of the Westerschelde. In the afternoon, transit takes us directly to Portaal van Vlaanderen and the school museum, so we hardly get wet."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Center (Stadhuis bus stop)",
+              "tip_5lang": {
+                "de": "Überdachtes Wartehäuschen direkt vor dem Rathaus.",
+                "hu": "Fedett váró közvetlenül a városháza előtt.",
+                "ro": "Refugiu acoperit chiar în fața primăriei.",
+                "en": "Covered shelter right in front of the city hall."
+              }
+            },
+            {
+              "name": "Oud Terneuzen & Grote Kerk",
+              "tip_5lang": {
+                "de": "Die Grote Kerk bietet Schutz, während man auf den nächsten Bus wartet.",
+                "hu": "A Grote Kerk védelmet nyújt, amíg a következő buszra vár.",
+                "ro": "Grote Kerk oferă adăpost în timp ce așteptați următorul autobuz.",
+                "en": "Grote Kerk offers shelter while waiting for the next bus."
+              }
+            },
+            {
+              "name": "Cluster 2: Scheldt Boulevard (Bus stop)",
+              "tip_5lang": {
+                "de": "Warten Sie im Häuschen, bis der Regen nachlässt.",
+                "hu": "Várjon a váróban, amíg alábbhagy az eső.",
+                "ro": "Așteptați în refugiu până se potolește ploaia.",
+                "en": "Wait in the shelter until the rain lets up."
+              }
+            },
+            {
+              "name": "Monument 'The Flying Dutchman'",
+              "tip_5lang": {
+                "de": "Schnell vom Bus zum Denkmal und zurück in den Schutz.",
+                "hu": "Gyorsan a busztól a monumentumig, majd vissza a védelembe.",
+                "ro": "Rapid de la autobuz la monument și înapoi la adăpost.",
+                "en": "Quickly from the bus to the monument and back to shelter."
+              }
+            },
+            {
+              "name": "Cluster 3: Portaal van Vlaanderen (Bus stop)",
+              "tip_5lang": {
+                "de": "Kurzer, direkter Weg zum Eingang des Portaal.",
+                "hu": "Rövid, közvetlen út a Portaal bejáratáig.",
+                "ro": "Drum scurt și direct spre intrarea la Portaal.",
+                "en": "Short, direct path to the Portaal entrance."
+              }
+            },
+            {
+              "name": "Portaal van Vlaanderen & School Museum",
+              "tip_5lang": {
+                "de": "Perfekte Indoor-Kombination für regnerische Stunden.",
+                "hu": "Tökéletes beltéri kombináció az esős órákra.",
+                "ro": "Combinație perfectă de interior pentru orele ploioase.",
+                "en": "Perfect indoor combination for rainy hours."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Echtzeit-App für Busabfahrten, um die Wartezeit im Regen zu minimieren.",
+              "Ein kleiner Taschenschirm ist ideal für die Wege zwischen den Haltestellen.",
+              "Busse sind gut klimatisiert und helfen beim Trocknen der Kleidung.",
+              "Die Haltestellen am Boulevard bieten oft Windschutz.",
+              "Achten Sie auf rutschige Stufen beim Ein- und Aussteigen."
+            ],
+            "hu": [
+              "Használja a valós idejű menetrendet, hogy minimálisra csökkentse a várakozást az esőben.",
+              "Egy kis zsebnyitó esernyő ideális a megállók közötti utakhoz.",
+              "A buszok jól fűtöttek/szellőztetettek, így segítenek a ruhák száradásában.",
+              "A boulevard megállói gyakran szélvédettek.",
+              "Vigyázzon a csúszós lépcsőkre fel- és leszálláskor."
+            ],
+            "ro": [
+              "Folosiți aplicația în timp real pentru autobuze pentru a minimiza așteptarea în ploaie.",
+              "O umbrelă mică de buzunar este ideală pentru drumul dintre stații.",
+              "Autobuzele sunt bine ventilate și ajută la uscarea hainelor.",
+              "Stațiile de pe bulevard oferă adesea protecție contra vântului.",
+              "Atenție la treptele alunecoase la urcare și coborâre."
+            ],
+            "en": [
+              "Use the real-time app for bus departures to minimize waiting in the rain.",
+              "A small pocket umbrella is ideal for the walks between stops.",
+              "Buses are well-ventilated and help with drying your clothes.",
+              "Stops on the boulevard often offer wind protection.",
+              "Watch out for slippery steps when getting on and off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Tour mit öffentlichen Verkehrsmitteln startet am Stadhuis. Der beheizte Bus bringt uns sicher durch das frostige Terneuzen, vorbei an der Grote Kerk und zum Schelde-Boulevard, wo wir die Aussicht genießen, ohne lange in der Kälte zu stehen. Am Nachmittag erreichen wir das Portaal van Vlaanderen und das Schulmuseum bequem per Transit, bevor wir die Rückreise im Warmen antreten.",
+            "hu": "A téli tömegközlekedési túra a Stadhuistól indul. A fűtött busz biztonságban visz át a fagyos Terneuzenen, érintve a Grote Kerket és a Schelde-boulevard-t, ahol anélkül élvezzük a kilátást, hogy sokáig a hidegben állnánk. Délután kényelmesen érjük el a Portaal van Vlaanderent és az iskolamúzeumot, mielőtt melegben hazautaznánk.",
+            "ro": "Turul de iarnă cu transportul în comun pornește de la Stadhuis. Autobuzul încălzit ne poartă în siguranță prin Terneuzenul înghețat, trecând pe lângă Grote Kerk și bulevardul Scheldt, unde savurăm vederea fără a sta mult în frig. După-amiaza ajungem confortabil la Portaal van Vlaanderen și muzeul școlii înainte de a ne întoarce la căldură.",
+            "en": "The winter transit tour starts at Stadhuis. The heated bus takes us safely through frosty Terneuzen, passing the Grote Kerk and Scheldt Boulevard, where we enjoy the view without standing long in the cold. In the afternoon, we comfortably reach Portaal van Vlaanderen and the school museum before returning in the warm."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Center (Stadhuis bus stop)",
+              "tip_5lang": {
+                "de": "Ein windgeschützter Ort zum Warten auf den Start.",
+                "hu": "Szélvédett hely a várakozáshoz az indulásnál.",
+                "ro": "Un loc ferit de vânt pentru a aștepta plecarea.",
+                "en": "A wind-sheltered spot to wait for the start."
+              }
+            },
+            {
+              "name": "Oud Terneuzen & Grote Kerk",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirche, um sich zwischen den Busfahrten aufzuwärmen.",
+                "hu": "Használja a templomot a buszok közötti felmelegedésre.",
+                "ro": "Folosiți biserica pentru a vă încălzi între autobuze.",
+                "en": "Use the church to warm up between bus rides."
+              }
+            },
+            {
+              "name": "Cluster 2: Scheldt Boulevard (Bus stop)",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Fahrplan, um die Zeit im kalten Seewind zu verkürzen.",
+                "hu": "Figyelje a menetrendet, hogy keveset kelljen a hideg parti szélben állni.",
+                "ro": "Verificați programul pentru a sta cât mai puțin în vântul rece de pe mal.",
+                "en": "Check the schedule to minimize time in the cold sea breeze."
+              }
+            },
+            {
+              "name": "Monument 'The Flying Dutchman'",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Stopp im Freien, bevor der nächste Bus kommt.",
+                "hu": "Csak rövid megálló a szabadban a következő busz érkezéséig.",
+                "ro": "Doar o scurtă oprire afară până vine următorul autobuz.",
+                "en": "Only a short stop outdoors before the next bus arrives."
+              }
+            },
+            {
+              "name": "Cluster 3: Portaal van Vlaanderen (Bus stop)",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt sehr nah am warmen Informationszentrum.",
+                "hu": "A megálló nagyon közel van a meleg információs központhoz.",
+                "ro": "Stația este foarte aproape de centrul de informare încălzit.",
+                "en": "The stop is very close to the warm information center."
+              }
+            },
+            {
+              "name": "Portaal van Vlaanderen & School Museum",
+              "tip_5lang": {
+                "de": "Beheizte Räumlichkeiten sind im Winter ein Muss.",
+                "hu": "A fűtött belső terek télen kötelezőek.",
+                "ro": "Spațiile încălzite sunt obligatorii iarna.",
+                "en": "Heated indoor spaces are a must in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter angenehm geheizt.",
+              "Tragen Sie warme Socken, da man an Haltestellen schnell kalte Füße bekommt.",
+              "Informieren Sie sich über eventuelle Winterfahrplanänderungen.",
+              "Ein heißer Kaffee an den Kiosken nahe der Haltestellen hilft gegen die Kälte.",
+              "Ab 16:30 Uhr wird es merklich dunkler an den Haltestellen."
+            ],
+            "hu": [
+              "A buszok télen kellemesen fűtöttek.",
+              "Viseljen meleg zoknit, mert a megállókban várakozva gyorsan lehűl a lába.",
+              "Tájékozódjon az esetleges téli menetrendi változásokról.",
+              "Egy forró kávé a megállók közeli bódéknál segít a hideg ellen.",
+              "16:30 után már érezhetően sötétedik a megállókban."
+            ],
+            "ro": [
+              "Autobuzele sunt încălzite plăcut în timpul iernii.",
+              "Purtați șosete groase, picioarele se răcesc repede așteptând în stații.",
+              "Informați-vă despre eventualele modificări de iarnă ale programului.",
+              "O cafea fierbinte de la chioșcurile de lângă stații ajută contra frigului.",
+              "După ora 16:30 se întunecă considerabil în stații."
+            ],
+            "en": [
+              "Buses are pleasantly heated during winter.",
+              "Wear warm socks as feet get cold quickly while waiting at stops.",
+              "Check for any potential winter schedule changes.",
+              "A hot coffee from kiosks near the stops helps against the cold.",
+              "It gets noticeably darker at the stops after 16:30."
+            ]
+          }
+        }
       }
     }
   }

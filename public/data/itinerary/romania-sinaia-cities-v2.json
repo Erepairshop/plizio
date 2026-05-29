@@ -310,6 +310,188 @@
           "Check the opening hours for the castles in advance, as they can vary.",
           "Some paths can be slippery, especially after rain."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Dimitrie-Ghica-Park, wo die alten Bäume bei Regen Schutz bieten. Das Casino bietet eine elegante Flucht vor dem Wetter, bevor Sie das Kloster besichtigen.\n\nMittags erreichen Sie das Schloss Peleș. Die Innenräume sind perfekt für regnerische Stunden, da die Besichtigung vollständig überdacht ist.\n\nDer Nachmittag gehört dem Schloss Pelișor. Die kurzen Wege zwischen den Schlössern sind auch bei leichtem Regen gut begehbar.\n\nBeenden Sie den Tag am historischen Bahnhof von Sinaia, einem der schönsten Rumäniens, wo Sie im Trockenen auf den Zug warten können.",
+            "hu": "Kezdje a napot a Dimitrie Ghica parkban, ahol az öreg fák lombjai némi védelmet nyújtanak. A Kaszinó elegáns menedéket kínál, mielőtt továbbsétálna a kolostorhoz.\n\nDélben érkezzen meg a Peleș-kastélyhoz. A belső terek felfedezése tökéletes program esőben, hiszen az egész túra fedett helyen zajlik.\n\nA délutánt töltse a Pelișor-kastélyban. A két kastély közötti rövid távolság még szemerkélő esőben is könnyen megtehető.\n\nA napot a történelmi Sinaia vasútállomáson zárja, amely Románia egyik legszebbje, és kényelmes, fedett várakozóhelyet biztosít.",
+            "ro": "Începeți ziua în Parcul Dimitrie Ghica, unde arborii bătrâni oferă adăpost natural. Cazinoul este o refugiu elegant înainte de a vizita Mănăstirea Sinaia.\n\nLa prânz ajungeți la Castelul Peleș. Interioarele somptuoase sunt ideale pentru o zi ploioasă, vizita desfășurându-se în totalitate la interior.\n\nDupă-amiaza este rezervată Castelului Pelișor. Distanța scurtă dintre cele două castele face deplasarea ușoară chiar și pe ploaie.\n\nÎncheiați ziua la Gara Regală din Sinaia, un monument istoric superb, unde puteți aștepta trenul la adăpost de intemperii.",
+            "en": "Start your day in Dimitrie Ghica Park, where old trees offer some natural shelter. The Casino provides an elegant escape before heading to the Monastery.\n\nAt noon, reach Peleș Castle. The intricate interiors are perfect for rainy hours, as the entire tour is conducted indoors.\n\nSpend the afternoon at Pelișor Castle. The short walk between the castles is manageable even in light rain.\n\nEnd your day at the historic Sinaia Train Station, one of Romania's finest, offering a dry and beautiful spot to wait for your departure."
+          },
+          "stops": [
+            {
+              "name": "Dimitrie Ghica Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die großen Pavillons als Unterstand.",
+                "hu": "Használja a nagy pavilonokat eső elleni menedékként.",
+                "ro": "Folosiți pavilioanele mari pentru a vă adăposti.",
+                "en": "Use the large pavilions as shelters from the rain."
+              }
+            },
+            {
+              "name": "Sinaia Casino",
+              "tip_5lang": {
+                "de": "Perfekt für eine Innenbesichtigung bei starkem Guss.",
+                "hu": "Tökéletes belső látogatás heves felhőszakadás esetén.",
+                "ro": "Ideal pentru o vizită interioară în caz de ploaie torențială.",
+                "en": "Perfect for an indoor visit during heavy showers."
+              }
+            },
+            {
+              "name": "Sinaia Monastery",
+              "tip_5lang": {
+                "de": "Die Arkaden des alten Klosters bleiben meist trocken.",
+                "hu": "A régi kolostor árkádjai alatt szárazon maradhat.",
+                "ro": "Arcadele mănăstirii vechi rămân de obicei uscate.",
+                "en": "The old monastery's arcades usually stay dry."
+              }
+            },
+            {
+              "name": "Peleș Castle",
+              "tip_5lang": {
+                "de": "Buchen Sie Online-Tickets, um langes Warten im Regen zu vermeiden.",
+                "hu": "Foglaljon online jegyet, hogy elkerülje az esőben való várakozást.",
+                "ro": "Rezervați bilete online pentru a nu aștepta în ploaie.",
+                "en": "Book tickets online to avoid waiting in the rain."
+              }
+            },
+            {
+              "name": "Pelișor Castle",
+              "tip_5lang": {
+                "de": "Garderobe vorhanden, um nasse Mäntel abzugeben.",
+                "hu": "Van ruhatár, ahol leadhatja vizes kabátját.",
+                "ro": "Există garderobă pentru a lăsa pelerinele ude.",
+                "en": "Cloakroom available to leave wet coats."
+              }
+            },
+            {
+              "name": "Sinaia Train Station",
+              "tip_5lang": {
+                "de": "Das Bahnhofscafé ist ein gemütlicher Ort zum Aufwärmen.",
+                "hu": "Az állomás kávézója barátságos hely a felmelegedéshez.",
+                "ro": "Cafeneaua gării este un loc primitor pentru a vă încălzi.",
+                "en": "The station cafe is a cozy spot to warm up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da Bergwind ihn umknicken kann.",
+              "Die Wege zwischen den Schlössern sind asphaltiert, aber Pfützen bilden sich schnell.",
+              "Nutzen Sie die Museen für längere Aufenthalte im Trockenen.",
+              "Tragen Sie wasserfeste Schuhe für den Weg zum Bahnhof."
+            ],
+            "hu": [
+              "Vigyen erős esernyőt, mert a hegyi szél könnyen kifordíthatja.",
+              "A kastélyok közötti utak aszfaltozottak, de a tócsák gyorsan kialakulnak.",
+              "Használja ki a múzeumokat a hosszabb szárazon tartózkodáshoz.",
+              "Viseljen vízálló cipőt a vasútállomás felé vezető úton."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, vântul de munte o poate răsuci ușor.",
+              "Drumurile dintre castele sunt asfaltate, dar bălțile se formează rapid.",
+              "Profitați de muzee pentru perioade mai lungi de stat la adăpost.",
+              "Purtați încălțăminte impermeabilă pentru drumul spre gară."
+            ],
+            "en": [
+              "Take a sturdy umbrella; mountain winds can easily flip it.",
+              "Paths between castles are paved, but puddles form quickly.",
+              "Utilize museums for longer periods of staying dry.",
+              "Wear waterproof shoes for the walk to the train station."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Sinaia verwandelt sich im Winter in ein Märchenschloss. Der Dimitrie-Ghica-Park glänzt in Weiß, während die Lichter des Casinos eine warme Atmosphäre schaffen.\n\nMittags erstrahlt das Kloster Sinaia im Schnee. Die Ruhe der verschneiten Berge macht den Besuch besonders besinnlich.\n\nDer Nachmittag am Schloss Peleș ist magisch. Die Architektur wirkt im Kontrast zum weißen Wald noch beeindruckender. Pelișor bietet eine intime, warme Flucht.\n\nDa es früh dunkel wird, genießen Sie die beleuchtete Fassade des Bahnhofs, bevor Sie Ihre Rückreise antreten.",
+            "hu": "Sinaia télen igazi mesevárossá válik. A Dimitrie Ghica park fehéren csillog, miközben a Kaszinó fényei barátságos hangulatot árasztanak.\n\nDélben a kolostor havas udvara nyújt békés látványt. A havas hegyek csendje különlegessé teszi a látogatást.\n\nA délután a Peleș-kastélynál varázslatos. Az épület látványa a fehér erdővel kontrasztban még lenyűgözőbb. A Pelișor meghitt melegséget kínál.\n\nMivel korán sötétedik, csodálja meg a vasútállomás kivilágított homlokzatát az utazás előtt.",
+            "ro": "Sinaia se transformă iarna într-un decor de basm. Parcul Dimitrie Ghica strălucește în alb, în timp ce luminile Cazinoului creează o atmosferă caldă.\n\nLa prânz, Mănăstirea Sinaia arată superb sub zăpadă. Liniștea munților înzăpeziți face vizita extrem de relaxantă.\n\nDupă-amiaza la Peleș este magică. Arhitectura castelului contrastează superb cu pădurea albă. Pelișor oferă un refugiu cald și intim.\n\nDeoarece se întunecă devreme, admirați fațada iluminată a gării înainte de plecare.",
+            "en": "Sinaia transforms into a winter fairytale. Dimitrie Ghica Park glistens in white, while the Casino lights create a warm, inviting atmosphere.\n\nAt noon, Sinaia Monastery looks stunning in the snow. The silence of the snow-covered mountains makes the visit deeply peaceful.\n\nThe afternoon at Peleș is magical. The architecture stands out beautifully against the white forest. Pelișor offers a cozy, warm escape.\n\nAs darkness falls early, enjoy the illuminated facade of the train station before your departure."
+          },
+          "stops": [
+            {
+              "name": "Dimitrie Ghica Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei gefrorenen Wegen rund um den Springbrunnen.",
+                "hu": "Vigyázat, a szökőkút körüli utak lefagyhatnak.",
+                "ro": "Atenție la aleile înghețate din jurul fântânii.",
+                "en": "Careful on frozen paths around the fountain."
+              }
+            },
+            {
+              "name": "Sinaia Casino",
+              "tip_5lang": {
+                "de": "Oft finden hier im Winter Konzerte oder Ausstellungen statt.",
+                "hu": "Télen gyakran tartanak itt koncerteket vagy kiállításokat.",
+                "ro": "Iarna au loc adesea concerte sau expoziții aici.",
+                "en": "Concerts or exhibitions are often held here in winter."
+              }
+            },
+            {
+              "name": "Sinaia Monastery",
+              "tip_5lang": {
+                "de": "Der Zugangsweg kann steil und rutschig sein.",
+                "hu": "A felvezető út meredek és csúszós lehet.",
+                "ro": "Drumul de acces poate fi abrupt și alunecos.",
+                "en": "The access path can be steep and slippery."
+              }
+            },
+            {
+              "name": "Peleș Castle",
+              "tip_5lang": {
+                "de": "Die Gärten sind im Schnee wunderschön, aber oft gesperrt.",
+                "hu": "A kertek gyönyörűek a hóban, de gyakran le vannak zárva.",
+                "ro": "Grădinile sunt superbe în zăpadă, dar adesea închise.",
+                "en": "The gardens are beautiful in snow but often closed."
+              }
+            },
+            {
+              "name": "Pelișor Castle",
+              "tip_5lang": {
+                "de": "Perfekt, um sich nach dem Peleș-Rundgang aufzuwärmen.",
+                "hu": "Tökéletes hely a felmelegedésre a Peleș bejárása után.",
+                "ro": "Locul perfect pentru a vă încălzi după vizitarea Peleșului.",
+                "en": "Perfect place to warm up after the Peleș tour."
+              }
+            },
+            {
+              "name": "Sinaia Train Station",
+              "tip_5lang": {
+                "de": "Der Warteraum ist im Winter meist gut beheizt.",
+                "hu": "A váróterem télen általában jól fűtött.",
+                "ro": "Sala de așteptare este de obicei bine încălzită iarna.",
+                "en": "The waiting room is usually well-heated in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil, da es in Sinaia viel bergauf geht.",
+              "Die Sonne verschwindet gegen 16:30 Uhr hinter den Bergen.",
+              "Warme Kleidung ist Pflicht, da die Temperaturen oft unter Null fallen.",
+              "In den Museen müssen Sie Plastiküberzieher über die Schuhe ziehen."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt, mert Sinaia tele van emelkedőkkel.",
+              "A nap 16:30 körül tűnik el a hegyek mögött.",
+              "A meleg ruha kötelező, a hőmérséklet gyakran nulla fok alatt van.",
+              "A múzeumokban műanyag lábzsákot kell húzni a cipőre."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu talpă aderentă, Sinaia are multe pante.",
+              "Soarele dispare după munți în jurul orei 16:30.",
+              "Hainele groase sunt obligatorii, temperaturile scad des sub zero.",
+              "În muzee trebuie să purtați botoșei de plastic peste încălțăminte."
+            ],
+            "en": [
+              "Wear shoes with good grip, as Sinaia has many slopes.",
+              "The sun disappears behind the mountains around 4:30 PM.",
+              "Warm clothes are a must; temperatures often drop below freezing.",
+              "In museums, you must wear plastic covers over your shoes."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -317,7 +499,7 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "17:15",
-      "total_km": 4.8,
+      "total_km": 12.5,
       "stop_count": 7,
       "stops": [
         {
@@ -638,6 +820,206 @@
           "Be mindful of traffic, especially on the main road, DN1.",
           "A helmet is highly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag beginnt am Bahnhof. Die Fahrt zum Park ist kurz, aber die nassen Straßen erfordern Vorsicht.\n\nMittags radeln Sie zum Kloster. Der Aufstieg ist anstrengend, aber der Regen kühlt angenehm.\n\nNachmittags stehen die Schlösser auf dem Plan. Die asphaltierte Allee bietet guten Halt. Die Fahrt zu den Franz-Joseph-Felsen könnte bei Schlamm schwierig sein.\n\nKehren Sie vorsichtig zum Bahnhof zurück, da die Abfahrt auf nasser Fahrbahn riskant ist.",
+            "hu": "Egy esős kerékpáros nap az állomáson kezdődik. A parkig vezető út rövid, de a vizes aszfalt óvatosságot igényel.\n\nDélben tekerjen fel a kolostorhoz. Az emelkedő fárasztó, de az eső kellemesen hűsít.\n\nDélután a kastélyok következnek. Az aszfaltozott sugárút jó tapadást biztosít. A Ferenc József-sziklákhoz vezető út sárban nehéz lehet.\n\nÓvatosan térjen vissza az állomásra, mert a lejtő vizes úton veszélyes.",
+            "ro": "O zi ploioasă pe bicicletă începe la gară. Drumul spre parc este scurt, dar asfaltul ud necesită prudență.\n\nLa prânz pedalați spre mănăstire. Urcarea este solicitantă, dar ploaia răcorește plăcut.\n\nDupă-amiaza vizitați castelele. Aleea asfaltată oferă aderență bună. Drumul spre Stâncile Franz Joseph poate fi dificil din cauza noroiului.\n\nReveniți cu atenție la gară, coborârea pe carosabil ud fiind riscantă.",
+            "en": "A rainy cycling day starts at the station. The ride to the park is short, but wet roads demand caution.\n\nAt noon, cycle up to the Monastery. The climb is tiring, but the rain provides a cooling effect.\n\nAfternoon is for the castles. The paved avenue offers good grip. The trip to Franz Joseph Cliffs might be tricky if muddy.\n\nReturn carefully to the station, as descending on wet roads is risky."
+          },
+          "stops": [
+            {
+              "name": "Sinaia Train Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt.",
+                "hu": "Indulás előtt ellenőrizze a fékeket.",
+                "ro": "Verificați frânele înainte de plecare.",
+                "en": "Check your brakes before setting off."
+              }
+            },
+            {
+              "name": "Dimitrie Ghica Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Fahren auf nassem Kopfsteinpflaster.",
+                "hu": "Kerülje a vizes macskakövön való tekerést.",
+                "ro": "Evitați rularea pe piatra cubică umedă.",
+                "en": "Avoid riding on wet cobblestones."
+              }
+            },
+            {
+              "name": "Sinaia Monastery",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter einem Vordach ab.",
+                "hu": "Parkolja a biciklit egy előtető alá.",
+                "ro": "Parcați bicicleta sub o streașină.",
+                "en": "Park the bike under an overhang."
+              }
+            },
+            {
+              "name": "George Enescu Museum",
+              "tip_5lang": {
+                "de": "Die Villa Luminiș bietet einen guten Regenschutz.",
+                "hu": "A Luminiș villa jó védelmet nyújt az eső elől.",
+                "ro": "Vila Luminiș oferă un bun adăpost contra ploii.",
+                "en": "Villa Luminiș provides good shelter from the rain."
+              }
+            },
+            {
+              "name": "Peleș Castle",
+              "tip_5lang": {
+                "de": "Räder müssen draußen bleiben; nutzen Sie ein Schloss.",
+                "hu": "A bicikliknek kint kell maradniuk; használjon lakatot.",
+                "ro": "Bicicletele rămân afară; folosiți un antifurt.",
+                "en": "Bikes must stay outside; use a lock."
+              }
+            },
+            {
+              "name": "Pelișor Castle",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger unter Regenschirmen.",
+                "hu": "Figyeljen az esernyős gyalogosokra.",
+                "ro": "Atenție la pietonii cu umbrele.",
+                "en": "Watch out for pedestrians with umbrellas."
+              }
+            },
+            {
+              "name": "Franz Joseph Cliffs",
+              "tip_5lang": {
+                "de": "Weg kann sehr schlammig sein; MTB empfohlen.",
+                "hu": "Az út nagyon saras lehet; MTB ajánlott.",
+                "ro": "Drumul poate fi foarte noroios; se recomandă MTB.",
+                "en": "Path can be very muddy; MTB recommended."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollständige Regenmontur inklusive Überschuhen.",
+              "Schutzbleche sind in den Bergen unerlässlich gegen Schlammspritzer.",
+              "Der Asphalt in Sinaia kann bei Regen sehr rutschig sein.",
+              "Planen Sie mehr Zeit für Bremsmanöver ein."
+            ],
+            "hu": [
+              "Viseljen teljes esőfelszerelést, beleértve a kamáslit is.",
+              "A sárvédő elengedhetetlen a hegyekben a felcsapódó sár ellen.",
+              "Sinaia aszfaltja esőben nagyon csúszós lehet.",
+              "Hagyjon több időt a fékezésre."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie, inclusiv protecții de pantofi.",
+              "Apărătorile sunt esențiale la munte contra noroiului.",
+              "Asfaltul din Sinaia poate fi foarte alunecos pe ploaie.",
+              "Alocați mai mult timp pentru manevrele de frânare."
+            ],
+            "en": [
+              "Wear full rain gear including shoe covers.",
+              "Mudguards are essential in the mountains against splashes.",
+              "Sinaia's asphalt can be very slippery in the rain.",
+              "Allow more time for braking maneuvers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Sinaia ist nur für Erfahrene. Start am Bahnhof bei klirrender Kälte.\n\nMittags geht es zum Park und zum Kloster. Die Hauptstraßen sind meist geräumt, aber Seitenwege können vereist sein.\n\nNachmittags besuchen Sie die Museen und Schlösser. Die verschneite Auffahrt zu Peleș ist wunderschön, erfordert aber Kraft. Die Felsen sind im Winter oft unzugänglich.\n\nBeenden Sie die Tour früh, bevor der Frost am Abend die Straßen gefährlich macht.",
+            "hu": "A téli kerékpározás Sinaiában csak tapasztaltaknak ajánlott. Indulás az állomásról metsző hidegben.\n\nDélben a park és a kolostor következik. A főutak többnyire takarítottak, de a mellékutcák jegesek lehetnek.\n\nDélután látogassa meg a múzeumokat és kastélyokat. A Peleșhez vezető havas út gyönyörű, de erőt igényel. A sziklák télen gyakran megközelíthetetlenek.\n\nFejezze be a túrát korán, mielőtt az esti fagy veszélyessé teszi az utakat.",
+            "ro": "Ciclismul de iarnă în Sinaia este doar pentru cei experimentați. Start de la gară pe un ger pătrunzător.\n\nLa prânz vizitați parcul și mănăstirea. Drumurile principale sunt de obicei deszăpezite, dar aleile pot fi înghețate.\n\nDupă-amiaza vizitați muzeele și castelele. Urcarea înzăpezită spre Peleș este superbă, dar necesită efort. Stâncile sunt adesea inaccesibile iarna.\n\nÎncheiați turul devreme, înainte ca înghețul serii să facă drumurile periculoase.",
+            "en": "Winter cycling in Sinaia is for experienced riders only. Start at the station in biting cold.\n\nAt noon, visit the park and monastery. Main roads are usually cleared, but side paths can be icy.\n\nSpend the afternoon at museums and castles. The snowy drive to Peleș is beautiful but demanding. The cliffs are often inaccessible in winter.\n\nFinish the tour early before the evening frost makes the roads hazardous."
+          },
+          "stops": [
+            {
+              "name": "Sinaia Train Station",
+              "tip_5lang": {
+                "de": "Ölen Sie die Kette gut gegen Streusalz.",
+                "hu": "Olajozza le a láncot az útszóró só ellen.",
+                "ro": "Ungeți bine lanțul contra sării de pe drum.",
+                "en": "Oil your chain well against road salt."
+              }
+            },
+            {
+              "name": "Dimitrie Ghica Park",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf festgetretenem Schnee.",
+                "hu": "Havas úton haladjon lassan.",
+                "ro": "Rulați încet pe zăpadă bătătorită.",
+                "en": "Ride slowly on packed snow."
+              }
+            },
+            {
+              "name": "Sinaia Monastery",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eiszapfen an den Gebäuden.",
+                "hu": "Vigyázzon az épületekről lelógó jégcsapokra.",
+                "ro": "Atenție la țurțurii de pe clădiri.",
+                "en": "Watch out for icicles on the buildings."
+              }
+            },
+            {
+              "name": "George Enescu Museum",
+              "tip_5lang": {
+                "de": "Die Steigung hier wird im Winter oft nicht gestreut.",
+                "hu": "Az itteni emelkedőt télen gyakran nem sózzák.",
+                "ro": "Panta de aici nu este adesea curățată iarna.",
+                "en": "The slope here is often not salted in winter."
+              }
+            },
+            {
+              "name": "Peleș Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie Winterreifen oder Spikes am Rad.",
+                "hu": "Használjon téli vagy szöges gumit a biciklin.",
+                "ro": "Folosiți anvelope de iarnă sau cu ținte.",
+                "en": "Use winter or spiked tires on your bike."
+              }
+            },
+            {
+              "name": "Pelișor Castle",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände regelmäßig auf.",
+                "hu": "Rendszeresen melegítse fel a kezeit.",
+                "ro": "Încălziți-vă mâinile regulat.",
+                "en": "Regularly warm up your hands."
+              }
+            },
+            {
+              "name": "Franz Joseph Cliffs",
+              "tip_5lang": {
+                "de": "Weg oft gesperrt oder extrem rutschig.",
+                "hu": "Az út gyakran lezárt vagy extrém csúszós.",
+                "ro": "Drum adesea închis sau extrem de alunecos.",
+                "en": "Path often closed or extremely slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung und gute Handschuhe.",
+              "Achten Sie auf gefrorenes Schmelzwasser im Schatten.",
+              "Batterien von E-Bikes entladen sich in der Kälte schneller.",
+              "Beleuchtung ist wegen des frühen Sonnenuntergangs wichtig."
+            ],
+            "hu": [
+              "Viseljen szélálló ruhát és jó kesztyűt.",
+              "Ügyeljen az árnyékos helyeken megfagyott hólére.",
+              "Az e-bike akkumulátorok gyorsabban merülnek hidegben.",
+              "A világítás fontos a korai sötétedés miatt."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt și mănuși bune.",
+              "Atenție la apa topită și înghețată la umbră.",
+              "Bateriile e-bike-urilor se descarcă mai repede la frig.",
+              "Luminile sunt importante din cauza apusului timpuriu."
+            ],
+            "en": [
+              "Wear windproof clothing and good gloves.",
+              "Watch out for frozen meltwater in shaded areas.",
+              "E-bike batteries drain faster in the cold.",
+              "Lighting is crucial due to the early sunset."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -645,7 +1027,7 @@
       "speed_kmh": 28,
       "start": "09:00",
       "end_estimate": "18:05",
-      "total_km": 7.6,
+      "total_km": 15.6,
       "stop_count": 8,
       "stops": [
         {
@@ -990,6 +1372,224 @@
           "The roads to the castles can be narrow and winding.",
           "Buy castle tickets online to save time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist der Regen in Sinaia kein Problem. Starten Sie beim Kloster, wo Sie nah am Eingang parken können.\n\nMittags geht es zum Park und Casino. Der Regen verleiht der Stadt eine mystische Atmosphäre, während Sie trocken von Ort zu Ort fahren.\n\nNachmittags stehen die Schlösser an. Es gibt Parkplätze direkt oberhalb von Peleș. Danach besuchen Sie das Enescu-Museum.\n\nZum Abschluss fahren Sie mit der Gondel zur Cota 1400. Bei Regen hängen die Wolken oft tief, was eine beeindruckende Stimmung erzeugt.",
+            "hu": "Autóval az eső nem akadály Sinaiában. Kezdjen a kolostornál, ahol közel tud parkolni a bejárathoz.\n\nDélben látogasson el a parkba és a kaszinóhoz. Az eső misztikus hangulatot ad a városnak, miközben Ön szárazon közlekedik.\n\nDélután a kastélyok következnek. Közvetlenül a Peleș felett is vannak parkolók. Ezután nézze meg az Enescu múzeumot.\n\nZárásként menjen fel a felvonóval a Cota 1400-ra. Esőben a felhők gyakran alacsonyan szállnak, ami lenyűgöző látvány.",
+            "ro": "Cu mașina, ploaia nu este un impediment în Sinaia. Începeți la mănăstire, unde puteți parca aproape de intrare.\n\nLa prânz vizitați parcul și cazinoul. Ploaia oferă orașului o atmosferă mistică, în timp ce vă deplasați la adăpost.\n\nDupă-amiaza vizitați castelele. Există parcări chiar deasupra Peleșului. Apoi mergeți la muzeul Enescu.\n\nLa final, urcați cu telegondola la Cota 1400. Pe ploaie, norii stau adesea jos, creând un peisaj impresionant.",
+            "en": "By car, rain is no issue in Sinaia. Start at the Monastery, where you can park close to the entrance.\n\nAt noon, visit the park and casino. The rain adds a mystical vibe to the town while you travel in comfort.\n\nAfternoon is for the castles. There are parking spots right above Peleș. Then, visit the Enescu Museum.\n\nFinally, take the gondola to Cota 1400. In the rain, clouds often hang low, creating a dramatic atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Sinaia Monastery",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor dem Klostertor.",
+                "hu": "Parkoló közvetlenül a kolostorkapu előtt.",
+                "ro": "Parcare chiar în fața porții mănăstirii.",
+                "en": "Parking right in front of the monastery gate."
+              }
+            },
+            {
+              "name": "Dimitrie Ghica Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze entlang der Hauptstraße.",
+                "hu": "Használja a főút menti parkolókat.",
+                "ro": "Folosiți parcările de-a lungul străzii principale.",
+                "en": "Use the parking spots along the main street."
+              }
+            },
+            {
+              "name": "Sinaia Casino",
+              "tip_5lang": {
+                "de": "Zufahrt direkt zum Casino-Eingang möglich.",
+                "hu": "Közvetlen behajtás a kaszinó bejáratához lehetséges.",
+                "ro": "Accesul auto este posibil până la intrarea cazinoului.",
+                "en": "Direct car access to the casino entrance is possible."
+              }
+            },
+            {
+              "name": "Peleș Castle",
+              "tip_5lang": {
+                "de": "Der obere Parkplatz spart Ihnen den nassen Fußweg.",
+                "hu": "A felső parkolóval megspórolhatja a vizes sétát.",
+                "ro": "Parcarea de sus vă scutește de drumul pe jos prin ploaie.",
+                "en": "The upper parking lot saves you the wet walk."
+              }
+            },
+            {
+              "name": "Pelișor Castle",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg vom Peleș-Parkplatz.",
+                "hu": "Csak 2 perc séta a Peleș parkolótól.",
+                "ro": "Doar 2 minute de mers pe jos de la parcarea Peleș.",
+                "en": "Only a 2-minute walk from the Peleș parking lot."
+              }
+            },
+            {
+              "name": "George Enescu Museum",
+              "tip_5lang": {
+                "de": "Eigener Parkplatz im Hof der Villa vorhanden.",
+                "hu": "Saját parkoló a villa udvarán.",
+                "ro": "Parcare proprie disponibilă în curtea vilei.",
+                "en": "Private parking available in the villa's courtyard."
+              }
+            },
+            {
+              "name": "Sinaia Gondola",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt an der Talstation.",
+                "hu": "Nagy parkoló közvetlenül az alsó állomásnál.",
+                "ro": "Parcare mare direct la stația de plecare.",
+                "en": "Large parking lot right at the base station."
+              }
+            },
+            {
+              "name": "Cota 1400",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig, die Serpentinen sind bei Nässe glatt.",
+                "hu": "Vezessen óvatosan, a szerpentinek vizesen csúsznak.",
+                "ro": "Conduceți cu atenție, serpentinele sunt alunecoase pe ud.",
+                "en": "Drive carefully; the serpentines are slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sicht kann bei Bergnebel extrem eingeschränkt sein.",
+              "Parkgebühren können oft per SMS bezahlt werden.",
+              "Achten Sie auf Fußgänger, die bei Regen unvorsichtig queren.",
+              "Die Straße zur Cota 1400 ist asphaltiert, aber kurvenreich."
+            ],
+            "hu": [
+              "A látótávolság hegyi ködben rendkívül korlátozott lehet.",
+              "A parkolási díjat gyakran SMS-ben is lehet fizetni.",
+              "Figyeljen az esőben figyelmetlenül átkelő gyalogosokra.",
+              "A Cota 1400-as út aszfaltozott, de kanyargós."
+            ],
+            "ro": [
+              "Vizibilitatea poate fi extrem de redusă în caz de ceață.",
+              "Taxa de parcare se poate plăti adesea prin SMS.",
+              "Atenție la pietonii care traversează neatent pe ploaie.",
+              "Drumul spre Cota 1400 este asfaltat, dar sinuos."
+            ],
+            "en": [
+              "Visibility can be extremely limited in mountain fog.",
+              "Parking fees can often be paid via SMS.",
+              "Watch out for pedestrians crossing carelessly in the rain.",
+              "The road to Cota 1400 is paved but very curvy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Sinaia im Winter ist wunderschön, erfordert aber ein gut vorbereitetes Auto. Start am Kloster Sinaia.\n\nMittags besuchen Sie den Park und das Casino. Die Stadt ist festlich geschmückt, und das Auto bietet eine warme Basis.\n\nNachmittags geht es zu den Schlössern und zum Enescu-Museum. Die Straßen zu den touristischen Highlights werden meist zuerst geräumt.\n\nDer Höhepunkt ist die Fahrt zur Cota 1400 oder die Gondelfahrt. Erleben Sie das verschneite Panorama der Karpaten in voller Pracht.",
+            "hu": "Sinaia télen gyönyörű, de jól felkészített autót igényel. Kezdjen a kolostornál.\n\nDélben látogassa meg a parkot és a kaszinót. A város ünnepi díszbe öltözik, az autó pedig meleg bázist nyújt.\n\nDélután a kastélyok és az Enescu múzeum következnek. A turisztikai látványosságokhoz vezető utakat takarítják először.\n\nA csúcspont az út a Cota 1400-ra vagy a felvonózás. Élvezze a Kárpátok havas panorámáját teljes pompájában.",
+            "ro": "Sinaia iarna este superbă, dar necesită o mașină bine pregătită. Începeți la Mănăstirea Sinaia.\n\nLa prânz vizitați parcul și cazinoul. Orașul este decorat festiv, iar mașina vă oferă confort termic.\n\nDupă-amiaza mergeți la castele și la muzeul Enescu. Drumurile spre obiectivele turistice sunt primele deszăpezite.\n\nPunctul culminant este drumul spre Cota 1400 sau urcarea cu telegondola. Admirați panorama Carpaților înzăpeziți.",
+            "en": "Sinaia in winter is beautiful but requires a well-prepared car. Start at the Sinaia Monastery.\n\nAt noon, visit the park and casino. The town is festively decorated, and your car provides a warm base.\n\nAfternoon is for the castles and Enescu Museum. Roads to major tourist spots are usually cleared first.\n\nThe highlight is the drive to Cota 1400 or the gondola ride. Experience the snowy Carpathian panorama in all its glory."
+          },
+          "stops": [
+            {
+              "name": "Sinaia Monastery",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken auf festgefahrenem Schnee.",
+                "hu": "Vigyázzon a parkolásnál a letaposott havon.",
+                "ro": "Atenție la parcare pe zăpadă bătătorită.",
+                "en": "Careful when parking on packed snow."
+              }
+            },
+            {
+              "name": "Dimitrie Ghica Park",
+              "tip_5lang": {
+                "de": "Nahegelegene Cafés bieten heißen Kakao zum Mitnehmen.",
+                "hu": "A közeli kávézókban kapható forró kakaó elvitelre is.",
+                "ro": "Cafenelele din apropiere oferă ciocolată caldă la pachet.",
+                "en": "Nearby cafes offer hot cocoa to go."
+              }
+            },
+            {
+              "name": "Sinaia Casino",
+              "tip_5lang": {
+                "de": "Die Parkplätze können durch Schneehaufen verengt sein.",
+                "hu": "A parkolókat leszűkíthetik a hórakások.",
+                "ro": "Parcările pot fi îngustate de mormanele de zăpadă.",
+                "en": "Parking lots may be narrowed by snow piles."
+              }
+            },
+            {
+              "name": "Peleș Castle",
+              "tip_5lang": {
+                "de": "Schneeketten können für die Auffahrt nötig sein.",
+                "hu": "Hólánc szükséges lehet a felhajtáshoz.",
+                "ro": "Lanțurile pot fi necesare pentru urcare.",
+                "en": "Snow chains might be needed for the climb."
+              }
+            },
+            {
+              "name": "Pelișor Castle",
+              "tip_5lang": {
+                "de": "Fußweg zwischen den Schlössern kann vereist sein.",
+                "hu": "A kastélyok közötti sétaút jeges lehet.",
+                "ro": "Aleea dintre castele poate fi înghețată.",
+                "en": "The walkway between castles can be icy."
+              }
+            },
+            {
+              "name": "George Enescu Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Einfahrt geräumt ist.",
+                "hu": "Ellenőrizze, hogy a bejárat le van-e takarítva.",
+                "ro": "Verificați dacă intrarea este deszăpezită.",
+                "en": "Check if the entrance is cleared of snow."
+              }
+            },
+            {
+              "name": "Sinaia Gondola",
+              "tip_5lang": {
+                "de": "Talstation ist im Winter sehr belebt durch Skifahrer.",
+                "hu": "Az alsó állomás télen nagyon forgalmas a síelők miatt.",
+                "ro": "Stația de bază este foarte aglomerată iarna de schiori.",
+                "en": "The base station is very busy in winter with skiers."
+              }
+            },
+            {
+              "name": "Cota 1400",
+              "tip_5lang": {
+                "de": "Winterreifen sind gesetzlich vorgeschrieben.",
+                "hu": "A téli gumi törvényileg kötelező.",
+                "ro": "Anvelopele de iarnă sunt obligatorii prin lege.",
+                "en": "Winter tires are mandatory by law."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterausrüstung und Frostschutzmittel sind unerlässlich.",
+              "Die Straße zur Cota 1400 kann bei starkem Schneefall gesperrt werden.",
+              "Parken Sie nicht unter Dächern mit großen Schneelasten.",
+              "Rechnen Sie mit Staus am Wochenende durch Skitouristen."
+            ],
+            "hu": [
+              "A téli felszerelés és a fagyálló folyadék elengedhetetlen.",
+              "A Cota 1400-as út erős havazáskor lezárható.",
+              "Ne parkoljon nagy hóval borított tetők alá.",
+              "Hétvégén számítson dugókra a síturisták miatt."
+            ],
+            "ro": [
+              "Echipamentul de iarnă și lichidul antigriz sunt esențiale.",
+              "Drumul spre Cota 1400 poate fi închis în caz de ninsoare abundentă.",
+              "Nu parcați sub acoperișuri cu multă zăpadă.",
+              "Așteptați-vă la aglomerație în weekend din cauza schiorilor."
+            ],
+            "en": [
+              "Winter equipment and antifreeze are essential.",
+              "The road to Cota 1400 can be closed during heavy snowfall.",
+              "Do not park under roofs with heavy snow loads.",
+              "Expect traffic jams on weekends due to ski tourists."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1318,6 +1918,206 @@
           "The gondola may have a separate fee.",
           "Plan for buffer time for bus waits."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den lokalen Bus T1/T2, um bei Regen trocken durch Sinaia zu kommen. Start am Bahnhof.\n\nMittags erreichen Sie den Park und das Kloster. Die Busse fahren regelmäßig und halten nah an den Sehenswürdigkeiten.\n\nNachmittags geht es zu den Schlössern. Vom Busstopp ist es ein kurzer, aber schöner Fußweg im Regen. Die Gondel bietet eine trockene Fahrt in die Höhe.\n\nKehren Sie mit dem Bus zum Bahnhof zurück und genießen Sie die Aussicht aus dem Fenster.",
+            "hu": "Használja a helyi T1/T2 buszokat, hogy esőben is szárazon járhassa be Sinaiát. Indulás az állomásról.\n\nDélben érkezzen a parkhoz és a kolostorhoz. A buszok rendszeresen járnak és közel állnak meg a látnivalókhoz.\n\nDélután a kastélyok következnek. A buszmegállótól rövid, de szép séta vezet az esőben. A felvonó száraz utat biztosít a magasba.\n\nTérjen vissza busszal az állomásra, és élvezze az ablakból nyíló kilátást.",
+            "ro": "Folosiți autobuzele locale T1/T2 pentru a vizita Sinaia la adăpost de ploaie. Start de la gară.\n\nLa prânz ajungeți la parc și mănăstire. Autobuzele circulă regulat și opresc aproape de obiective.\n\nDupă-amiaza vizitați castelele. De la stație este un drum scurt dar frumos prin ploaie. Telegondola oferă o urcare uscată spre înălțimi.\n\nReveniți cu autobuzul la gară și admirați peisajul de la fereastră.",
+            "en": "Use the local T1/T2 buses to get around Sinaia while staying dry in the rain. Start at the station.\n\nAt noon, reach the park and monastery. Buses run regularly and stop close to the main sights.\n\nAfternoon is for the castles. It's a short but scenic walk from the bus stop in the rain. The gondola offers a dry ride to the heights.\n\nReturn to the station by bus and enjoy the view from the window."
+          },
+          "stops": [
+            {
+              "name": "Sinaia Train Station",
+              "tip_5lang": {
+                "de": "Kaufen Sie Fahrkarten am Automaten oder per App.",
+                "hu": "Vegyen jegyet automatából vagy alkalmazáson keresztül.",
+                "ro": "Cumpărați bilete de la automat sau prin aplicație.",
+                "en": "Buy tickets from the vending machine or via app."
+              }
+            },
+            {
+              "name": "Dimitrie Ghica Park",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet Schutz vor dem Regen.",
+                "hu": "A buszmegálló védelmet nyújt az eső elől.",
+                "ro": "Stația de autobuz oferă adăpost contra ploii.",
+                "en": "The bus stop provides shelter from the rain."
+              }
+            },
+            {
+              "name": "Sinaia Monastery",
+              "tip_5lang": {
+                "de": "Kurzer, steiler Weg von der Bushaltestelle.",
+                "hu": "Rövid, meredek út a buszmegállótól.",
+                "ro": "Drum scurt și abrupt de la stația de autobuz.",
+                "en": "Short, steep walk from the bus stop."
+              }
+            },
+            {
+              "name": "Peleș Castle",
+              "tip_5lang": {
+                "de": "Busse halten unten an der Hauptstraße; 15 Min. Fußweg.",
+                "hu": "A buszok lent a főúton állnak meg; 15 perc séta.",
+                "ro": "Autobuzele opresc jos la strada principală; 15 min de mers.",
+                "en": "Buses stop down on the main road; 15 min walk."
+              }
+            },
+            {
+              "name": "Pelișor Castle",
+              "tip_5lang": {
+                "de": "Direkt neben Peleș gelegen.",
+                "hu": "Közvetlenül a Peleș mellett található.",
+                "ro": "Situat chiar lângă Peleș.",
+                "en": "Located right next to Peleș."
+              }
+            },
+            {
+              "name": "Sinaia Gondola",
+              "tip_5lang": {
+                "de": "Die Telegondola fährt auch bei Regen, außer bei Wind.",
+                "hu": "A felvonó esőben is jár, kivéve ha nagy a szél.",
+                "ro": "Telegondola funcționează pe ploaie, mai puțin pe vânt.",
+                "en": "The gondola runs in the rain, except during high winds."
+              }
+            },
+            {
+              "name": "Cota 1400",
+              "tip_5lang": {
+                "de": "Oben gibt es Restaurants zum Unterstellen.",
+                "hu": "Fent vannak éttermek, ahol menedéket találhat.",
+                "ro": "Există restaurante sus unde vă puteți adăposti.",
+                "en": "There are restaurants at the top to take cover."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busfahrpläne sind an den Haltestellen ausgehängt, aber oft unverbindlich.",
+              "In den Bussen kann man oft kontaktlos bezahlen.",
+              "Die Gondel zur Cota 1400 ist die schnellste Transit-Option.",
+              "Tragen Sie Regenbekleidung für die Wege zwischen Haltestelle und Ziel."
+            ],
+            "hu": [
+              "A buszmenetrendek ki vannak függesztve, de gyakran csak tájékoztató jellegűek.",
+              "A buszokon gyakran lehet érintésmentesen fizetni.",
+              "A Cota 1400-ra tartó felvonó a leggyorsabb közlekedési mód.",
+              "Viseljen esőruhát a megálló és a célpont közötti sétákhoz."
+            ],
+            "ro": [
+              "Orarele autobuzelor sunt afișate, dar adesea orientative.",
+              "În autobuze se poate plăti adesea contactless.",
+              "Telegondola spre Cota 1400 este cea mai rapidă opțiune de tranzit.",
+              "Purtați haine de ploaie pentru drumul de la stație la obiectiv."
+            ],
+            "en": [
+              "Bus schedules are posted but often only advisory.",
+              "Contactless payment is often available on buses.",
+              "The gondola to Cota 1400 is the fastest transit option.",
+              "Wear rain gear for the walks between stops and sights."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Transit im Winter ist in Sinaia sehr effizient, da viele Skifahrer unterwegs sind. Start am Bahnhof.\n\nMittags erreichen Sie bequem den Park und das Kloster mit dem beheizten Bus. Die verschneite Stadt ist vom Fenster aus herrlich.\n\nNachmittags geht es zu den Schlössern. Beachten Sie, dass die Wege von den Haltestellen glatt sein können. Die Gondelfahrt in das Skigebiet ist ein Muss.\n\nGenießen Sie die winterliche Stimmung auf der Cota 1400, bevor Sie die letzte Gondel zurück nehmen.",
+            "hu": "A téli tömegközlekedés Sinaiában nagyon hatékony a sok síelő miatt. Indulás az állomásról.\n\nDélben kényelmesen elérheti a parkot és a kolostort a fűtött buszokkal. A havas város az ablakból is csodás.\n\nDélután a kastélyok következnek. Ügyeljen rá, hogy a megállóktól vezető utak csúszósak lehetnek. A felvonózás a síterepre kötelező program.\n\nÉlvezze a téli hangulatot a Cota 1400-on, mielőtt az utolsó felvonóval visszatérne.",
+            "ro": "Tranzitul iarna în Sinaia este foarte eficient datorită numărului mare de schiori. Start de la gară.\n\nLa prânz ajungeți ușor la parc și mănăstire cu autobuzele încălzite. Orașul înzăpezit se vede superb de pe geam.\n\nDupă-amiaza vizitați castelele. Atenție la drumurile alunecoase de la stații. Urcarea cu telegondola spre domeniul schiabil este obligatorie.\n\nBucurați-vă de atmosfera de iarnă la Cota 1400 înainte de a lua ultima telegondolă înapoi.",
+            "en": "Transit in winter is very efficient in Sinaia due to the many skiers. Start at the station.\n\nAt noon, comfortably reach the park and monastery by heated bus. The snowy town looks wonderful from the window.\n\nAfternoon is for the castles. Be aware that paths from bus stops can be slippery. A gondola ride to the ski area is a must.\n\nEnjoy the winter vibes at Cota 1400 before taking the last gondola back."
+          },
+          "stops": [
+            {
+              "name": "Sinaia Train Station",
+              "tip_5lang": {
+                "de": "Rechnen Sie mit Wartezeiten durch den Ski-Verkehr.",
+                "hu": "Számítson várakozási időre a síforgalom miatt.",
+                "ro": "Așteptați-vă la întârzieri din cauza traficului de iarnă.",
+                "en": "Expect waiting times due to ski traffic."
+              }
+            },
+            {
+              "name": "Dimitrie Ghica Park",
+              "tip_5lang": {
+                "de": "Hinter dem Park befindet sich die Abfahrtsstelle vieler Busse.",
+                "hu": "A park mögött található számos busz indulási helye.",
+                "ro": "În spatele parcului este locul de plecare al multor autobuze.",
+                "en": "The departure point for many buses is behind the park."
+              }
+            },
+            {
+              "name": "Sinaia Monastery",
+              "tip_5lang": {
+                "de": "Der Gehweg vom Bus kann bei Eis gefährlich sein.",
+                "hu": "A busztól vezető gyalogút jegesedéskor veszélyes lehet.",
+                "ro": "Aleea de la autobuz poate fi periculoasă pe gheață.",
+                "en": "The walkway from the bus can be dangerous on ice."
+              }
+            },
+            {
+              "name": "Peleș Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den speziellen Touristen-Minibus, falls verfügbar.",
+                "hu": "Használja a speciális turista mikrobuszt, ha elérhető.",
+                "ro": "Folosiți microbuzul turistic special, dacă este disponibil.",
+                "en": "Use the special tourist minibus if available."
+              }
+            },
+            {
+              "name": "Pelișor Castle",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Schlosscafés auf.",
+                "hu": "Melegedjen fel a kastély kávézóiban.",
+                "ro": "Încălziți-vă în cafenelele de la castele.",
+                "en": "Warm up in the castle cafes."
+              }
+            },
+            {
+              "name": "Sinaia Gondola",
+              "tip_5lang": {
+                "de": "Lange Warteschlangen am Wochenende durch Skifahrer.",
+                "hu": "Hétvégén hosszú sorok a síelők miatt.",
+                "ro": "Cozi lungi în weekend din cauza schiorilor.",
+                "en": "Long queues on weekends due to skiers."
+              }
+            },
+            {
+              "name": "Cota 1400",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Betriebszeiten der letzten Talfahrt.",
+                "hu": "Ügyeljen az utolsó lefelé tartó járat idejére.",
+                "ro": "Atenție la ora ultimei coborâri.",
+                "en": "Watch out for the time of the last descent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft überfüllt mit Wintersportlern.",
+              "Die Telegondola ist bei starkem Wind gesperrt.",
+              "Tragen Sie Kleidung nach dem Zwiebelprinzip für Bus und Berg.",
+              "Planen Sie Pufferzeiten für die Rückfahrt zum Bahnhof ein."
+            ],
+            "hu": [
+              "A buszok télen gyakran zsúfoltak a sportolók miatt.",
+              "A telegondola erős szélben nem közlekedik.",
+              "Öltözzön rétegesen a buszhoz és a hegyhez is.",
+              "Hagyjon tartalékidőt a vasútállomásra való visszatéréshez."
+            ],
+            "ro": [
+              "Autobuzele sunt adesea aglomerate iarna de sportivi.",
+              "Telegondola nu circulă în caz de vânt puternic.",
+              "Îmbrăcați-vă în straturi pentru autobuz și munte.",
+              "Alocați timp suplimentar pentru revenirea la gară."
+            ],
+            "en": [
+              "Buses are often crowded with winter sports enthusiasts.",
+              "The gondola is closed during strong winds.",
+              "Dress in layers for both the bus and the mountain.",
+              "Plan buffer time for the return to the station."
+            ]
+          }
+        }
       }
     }
   }

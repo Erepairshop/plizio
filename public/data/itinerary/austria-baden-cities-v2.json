@@ -410,6 +410,224 @@
           "Bring a reusable water bottle, there are several drinking fountains.",
           "The paths in the Kurpark are partly steep, so plan for extra time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der Stadtpfarrkirche St. Stephan, einem idealen Rückzugsort vor dem Regen. Vormittags erkunden Sie die kaiserliche Geschichte im Kaiserhaus und tauchen im Beethovenhaus in die Welt der Musik ein. Mittags bieten die Museen Schutz und Inspiration.\n\nDer Nachmittag gehört der Kunst im Arnulf Rainer Museum. Wenn der Regen anhält, ist die Römertherme der perfekte Ort, um im warmen Wasser zu entspannen, während es draußen stürmt. Ein kurzer Spaziergang durch den Kurpark führt Sie zum Casino.\n\nTrotz des Wetters lohnt ein Abstecher zum Rosarium, wo die regennassen Rosen einen besonderen Duft verströmen. Den Abend lassen Sie gemütlich bei einem Glas Wein im Stadtzentrum ausklingen, geschützt in einem der historischen Gasthäuser.",
+            "hu": "Kezdje a napot a Szent István plébániatemplomban, amely tökéletes menedék az eső elől. Délelőtt a Kaiserhaus császári termeiben és a Beethoven-házban kalandozhat a történelemben és a zenében. Az esernyő kötelező, de a látnivalók közel vannak egymáshoz.\n\nDélután az Arnulf Rainer Múzeum modern művészete nyújt fedett programot. A nap fénypontja az esős időben a Römertherme: nincs is jobb, mint a forró termálvízben ázni, miközben az üvegtetőn kopog az eső. A Kurpark pavilonjai is védelmet nyújtanak.\n\nAz este közeledtével a Rosarium esőáztatta virágai különleges illatot árasztanak. A napot egy belvárosi vacsorával zárjuk, ahol a helyi gasztronómia és a barátságos vendéglők melege feledteti a szürke időjárást.",
+            "ro": "Începeți ziua la Biserica Sf. Ștefan, un refugiu liniștit împotriva ploii. Dimineața este dedicată istoriei imperiale la Kaiserhaus și universului muzical din Casa Beethoven. Distanțele scurte între obiective fac mersul pe jos gestionabil chiar și cu umbrelă.\n\nDupă-amiaza, Muzeul Arnulf Rainer oferă un spațiu cultural protejat. Dacă ploaia persistă, Römertherme este destinația ideală: relaxați-vă în apele termale calde sub cupola de sticlă. O plimbare rapidă prin Kurpark vă va duce spre zona cazinoului.\n\nSeara, chiar și pe ploaie, Rosarium are un farmec melancolic aparte. Încheiați ziua cu o cină caldă în centrul orașului, bucurându-vă de atmosfera primitoare a restaurantelor austriece care vă vor face să uitați de vremea de afară.",
+            "en": "Start your day at St. Stephan's Church, a perfect dry sanctuary. Spend your morning exploring imperial history at the Kaiserhaus and musical legacy at the Beethoven House. The short distances between these central sites make walking feasible even with an umbrella.\n\nIn the afternoon, find shelter and inspiration at the Arnulf Rainer Museum. The ultimate rainy day highlight is the Römertherme spa, where you can soak in warm thermal waters while watching the rain hit the glass roof. The Kurpark's pavilions offer additional cover.\n\nAs evening approaches, the rain-kissed roses in the Rosarium offer a unique fragrance. Conclude your tour with a cozy dinner in the city center, enjoying the warm hospitality of Baden's traditional restaurants."
+          },
+          "stops": [
+            {
+              "name": "Parish Church of St. Stephan",
+              "tip_5lang": {
+                "de": "Bewundern Sie die gotische Architektur im trockenen Innenraum.",
+                "hu": "Csodálja meg a gótikus belsőt, amíg kint esik az eső.",
+                "ro": "Admirați interiorul gotic în timp ce vă adăpostiți de ploaie.",
+                "en": "Admire the Gothic interior while staying dry indoors."
+              }
+            },
+            {
+              "name": "Kaiserhaus (Emperor's House)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für nasse Mäntel und Schirme.",
+                "hu": "Használja a ruhatárat a nedves kabátok és esernyők számára.",
+                "ro": "Folosiți garderoba pentru haine și umbrele umede.",
+                "en": "Use the cloakroom for wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Beethoven House Baden",
+              "tip_5lang": {
+                "de": "Ein intimes Museumserlebnis, ideal für regnerische Stunden.",
+                "hu": "Meghitt múzeumi élmény, ideális az esős órákra.",
+                "ro": "O experiență muzeală intimă, ideală pentru orele ploioase.",
+                "en": "An intimate museum experience, perfect for rainy hours."
+              }
+            },
+            {
+              "name": "Arnulf Rainer Museum",
+              "tip_5lang": {
+                "de": "Das ehemalige Frauenbad bietet eine großzügige, trockene Galerie.",
+                "hu": "Az egykori női fürdő tágas, fedett galériaként funkcionál.",
+                "ro": "Fosta baie pentru femei oferă o galerie spațioasă și uscată.",
+                "en": "The former women's bath offers a spacious, dry gallery."
+              }
+            },
+            {
+              "name": "Kurpark (Spa Park) & Casino",
+              "tip_5lang": {
+                "de": "Wandeln Sie unter den Arkaden und im Casino-Foyer.",
+                "hu": "Sétáljon az árkádok alatt vagy a kaszinó előcsarnokában.",
+                "ro": "Plimbați-vă pe sub arcade și în foierul cazinoului.",
+                "en": "Walk under the arcades or in the casino foyer."
+              }
+            },
+            {
+              "name": "Römertherme (Roman Spa)",
+              "tip_5lang": {
+                "de": "Das beste Regenprogramm: Entspannung im Thermalwasser.",
+                "hu": "A legjobb esőprogram: lazítás a meleg termálvízben.",
+                "ro": "Cel mai bun program pe ploaie: relaxare în apa termală.",
+                "en": "The ultimate rainy day activity: relaxation in thermal water."
+              }
+            },
+            {
+              "name": "Rosarium in Doblhoff Park",
+              "tip_5lang": {
+                "de": "Der Pavillon bietet Schutz und einen Blick auf die Rosen.",
+                "hu": "A pavilon menedéket nyújt és rálátást a rózsákra.",
+                "ro": "Pavilionul oferă adăpost și o vedere spre trandafiri.",
+                "en": "The pavilion provides shelter and a view of the roses."
+              }
+            },
+            {
+              "name": "Farewell Dinner in the City Center",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch in einer gemütlichen Nische.",
+                "hu": "Foglaljon asztalt egy barátságos belső sarokban.",
+                "ro": "Rezervați o masă într-un colț primitor al restaurantului.",
+                "en": "Book a table in a cozy indoor nook."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Baden hat viele Arkadengänge im Zentrum, die Schutz bieten.",
+              "Die Römertherme ist bei Regen sehr beliebt; buchen Sie vorab.",
+              "Tragen Sie wasserfeste Schuhe für die Wege zwischen den Museen.",
+              "Nutzen Sie die Schließfächer in den Museen für nasses Equipment."
+            ],
+            "hu": [
+              "Baden belvárosában sok árkádos rész van, ahol megázás nélkül haladhat.",
+              "A Römertherme esőben népszerű, érdemes előre foglalni.",
+              "Viseljen vízálló cipőt a múzeumok közötti rövid sétákhoz.",
+              "A múzeumok ruhatáraiban lepakolhatja a vizes felszerelést."
+            ],
+            "ro": [
+              "Centrul orașului Baden are multe zone cu arcade care oferă protecție.",
+              "Römertherme este foarte populară pe ploaie; rezervați din timp.",
+              "Purtați încălțăminte impermeabilă pentru traseele dintre muzee.",
+              "Folosiți vestiarele din muzee pentru echipamentul umed."
+            ],
+            "en": [
+              "Baden's center features many arcaded walkways for rain protection.",
+              "Römertherme is popular during rain; consider booking in advance.",
+              "Wear waterproof shoes for the short walks between museums.",
+              "Utilize museum lockers to store wet umbrellas and jackets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen in Baden beginnt erfrischend an der St. Stephan Kirche. Die kalte Luft macht den Besuch im warmen Kaiserhaus umso angenehmer. Vormittags wärmen Sie sich bei Beethovens Klängen auf, während draußen vielleicht der erste Schnee fällt.\n\nMittags bietet das Arnulf Rainer Museum eine moderne, beheizte Flucht vor der Kälte. Der Kurpark zeigt sich im Winterkleid besonders romantisch, besonders wenn die Lichter des Casinos in der frühen Dämmerung zu leuchten beginnen.\n\nNachmittags ist die Römertherme ein Muss: Der Kontrast zwischen kalter Außenluft und heißem Schwefelwasser ist purer Luxus. Ein kurzer Spaziergang durch den gefrorenen Doblhoffpark führt Sie zum Rosarium, das im Winter eine ganz eigene Stille ausstrahlt.\n\nDer Tag endet im hell erleuchteten Zentrum. Die winterliche Atmosphäre Badens mit ihren beleuchteten Fassaden schafft den perfekten Rahmen für ein herzhaftes Abendessen in einem der traditionellen Wirtshäuser.",
+            "hu": "A téli reggel frissítően indul a Szent István templomnál. A hideg levegő után még hívogatóbb a Kaiserhaus és a Beethoven-ház fűtött belső tere. Délelőtt a zene és a történelem melegében merülhetünk el, miközben kint talán szállingózik a hó.\n\nDélután az Arnulf Rainer Múzeum modern falai között melegedhetünk fel. A Kurpark télen különösen romantikus, főleg amikor a korai sötétedésben felgyúlnak a kaszinó fényei. A parki séta után a Römertherme forró vize a legjobb választás.\n\nNincs is jobb téli élmény, mint a forró kénes vízben pihenni, miközben a kinti hőmérséklet fagypont alatt van. A Doblhoffparkban tett rövid séta után a befagyott tó és a Rosarium nyugalma vár.\n\nAz estét a díszkivilágításban úszó belvárosban zárjuk. A téli Baden hangulata, a kivilágított homlokzatok és egy forró ital után egy kiadós vacsora koronázza meg a napot valamelyik patinás vendéglőben.",
+            "ro": "O dimineață de iarnă în Baden începe cu aer curat la Biserica Sf. Ștefan. Aerul rece face vizita la Kaiserhaus și Casa Beethoven și mai plăcută. Dimineața este perfectă pentru a descoperi cultura austriacă în spații bine încălzite.\n\nDupă-amiaza, Muzeul Arnulf Rainer oferă un refugiu artistic modern. Kurpark este deosebit de romantic sub zăpadă, mai ales când luminile cazinoului încep să strălucească în amurgul timpuriu (aprox. ora 16:30).\n\nHighlight-ul zilei de iarnă este Römertherme: contrastul dintre frigul de afară și apa termală fierbinte este o experiență de neuitat. O scurtă plimbare prin parcul Doblhoff vă va arăta o altă față a Rosarium-ului, una tăcută și înghețată.\n\nZiua se încheie în centrul luminat festiv. Atmosfera de iarnă din Baden, cu fațadele sale elegante și restaurantele primitoare, este cadrul ideal pentru o cină tradițională consistentă.",
+            "en": "A winter morning in Baden starts crisply at St. Stephan's. The cold air makes the heated halls of Kaiserhaus and Beethoven House even more inviting. Spend your morning immersed in music and history while the frost settles outside.\n\nIn the afternoon, the Arnulf Rainer Museum provides a warm, modern escape. The Kurpark is exceptionally romantic in winter, especially as the casino lights begin to twinkle in the early dusk around 4:30 PM. A soak in the Römertherme follows.\n\nThere is no better winter feeling than relaxing in hot sulfur water while the outside temperature is near freezing. A short walk through the frozen Doblhoff Park reveals the quiet, serene beauty of the winter Rosarium.\n\nEnd your day in the beautifully lit city center. The winter atmosphere of Baden, with its illuminated facades, provides the perfect backdrop for a hearty dinner in a traditional Austrian tavern."
+          },
+          "stops": [
+            {
+              "name": "Parish Church of St. Stephan",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und die angenehme Kühle der Kirche.",
+                "hu": "Élvezze a templom csendjét és a téli reggel nyugalmát.",
+                "ro": "Bucurați-vă de liniștea și răcoarea plăcută a bisericii.",
+                "en": "Enjoy the silence and the crisp morning peace of the church."
+              }
+            },
+            {
+              "name": "Kaiserhaus (Emperor's House)",
+              "tip_5lang": {
+                "de": "Die Ausstellungsräume sind gut beheizt – ideal zum Aufwärmen.",
+                "hu": "A kiállítótermek jól fűtöttek, ideális a bemelegedéshez.",
+                "ro": "Sălile de expoziție sunt bine încălzite – ideale pentru încălzire.",
+                "en": "The exhibition rooms are well-heated – perfect for warming up."
+              }
+            },
+            {
+              "name": "Beethoven House Baden",
+              "tip_5lang": {
+                "de": "Hören Sie Beethovens Musik in gemütlicher, warmer Atmosphäre.",
+                "hu": "Hallgassa Beethoven zenéjét barátságos, meleg környezetben.",
+                "ro": "Ascultați muzica lui Beethoven într-o atmosferă caldă și primitoare.",
+                "en": "Listen to Beethoven's music in a cozy, warm atmosphere."
+              }
+            },
+            {
+              "name": "Arnulf Rainer Museum",
+              "tip_5lang": {
+                "de": "Moderne Kunst in einem historisch warmen Ambiente.",
+                "hu": "Modern művészet történelmi, meleg környezetben.",
+                "ro": "Artă modernă într-un ambient istoric bine încălzit.",
+                "en": "Modern art in a historically warm ambiance."
+              }
+            },
+            {
+              "name": "Kurpark (Spa Park) & Casino",
+              "tip_5lang": {
+                "de": "Achten Sie auf die festliche Beleuchtung ab dem späten Nachmittag.",
+                "hu": "Figyelje az ünnepi kivilágítást késő délutántól.",
+                "ro": "Admirați iluminatul festiv începând cu după-amiaza târzie.",
+                "en": "Admire the festive lighting starting from late afternoon."
+              }
+            },
+            {
+              "name": "Römertherme (Roman Spa)",
+              "tip_5lang": {
+                "de": "Der Außenpool im Winter ist ein unvergessliches Erlebnis.",
+                "hu": "A kültéri medence télen felejthetetlen élmény.",
+                "ro": "Piscina exterioară iarna este o experiență memorabilă.",
+                "en": "The outdoor pool in winter is an unforgettable experience."
+              }
+            },
+            {
+              "name": "Rosarium in Doblhoff Park",
+              "tip_5lang": {
+                "de": "Wandeln Sie auf geräumten Wegen durch den winterlichen Park.",
+                "hu": "Sétáljon a letakarított utakon a téli parkban.",
+                "ro": "Plimbați-vă pe aleile curățate prin parcul de iarnă.",
+                "en": "Walk on cleared paths through the winter park."
+              }
+            },
+            {
+              "name": "Farewell Dinner in the City Center",
+              "tip_5lang": {
+                "de": "Genießen Sie winterliche Spezialitäten wie Wild oder Maroni.",
+                "hu": "Kóstolja meg a téli specialitásokat, mint a vadat vagy a gesztenyét.",
+                "ro": "Gustați specialități de iarnă, cum ar fi vânatul sau castanele.",
+                "en": "Enjoy winter specialties like game or chestnuts."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:15 Uhr unter.",
+              "Die Römertherme ist im Winter das Highlight; planen Sie 2-3 Stunden ein.",
+              "Tragen Sie warme Handschuhe für die Spaziergänge im Kurpark.",
+              "Besuchen Sie den kleinen Weihnachtsmarkt im Zentrum (saisonal)."
+            ],
+            "hu": [
+              "A nap decemberben már 16:15 körül lemegy.",
+              "A Römertherme télen a fő attrakció, szánjon rá 2-3 órát.",
+              "Viseljen meleg kesztyűt a Kurparkban tett sétákhoz.",
+              "Látogassa meg a központi kis adventi vásárt (szezonális)."
+            ],
+            "ro": [
+              "Soarele apune în decembrie în jurul orei 16:15.",
+              "Römertherme este principala atracție iarna; rezervați 2-3 ore.",
+              "Purtați mănuși groase pentru plimbările în Kurpark.",
+              "Vizitați mica piață de Crăciun din centru (sezonier)."
+            ],
+            "en": [
+              "Sunset in December occurs as early as 4:15 PM.",
+              "Römertherme is the winter highlight; allow 2-3 hours for a visit.",
+              "Wear warm gloves for the walks through the Kurpark.",
+              "Visit the small Christmas market in the center (seasonal)."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -790,6 +1008,206 @@
           "Bring a lock to secure your bike at the sights.",
           "The cycle path along the Schwechat is flat and suitable for all fitness levels."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Biken im Regen erfordert in Baden etwas Vorbereitung, ist aber lohnenswert. Starten Sie am Rosarium, wo die befestigten Wege gut befahrbar sind. Vormittags radeln Sie zum Beethovenhaus – kurze Wege minimieren die Zeit im Regen.\n\nMittags ist die Stadtpfarrkirche ein trockener Stopp für Kultur und eine Pause. Danach geht es zum Arnulf Rainer Museum, das Fahrradabstellplätze direkt vor der Tür bietet.\n\nNachmittags führt die Route zum Kurpark. Da die Wege rutschig sein können, fahren Sie vorsichtig. Die Fahrt entlang der Schwechat bietet bei Regen eine dramatische Naturkulisse.\n\nDer Tag endet bei einem Heurigen. Hier können Sie Ihr Rad sicher abstellen und sich bei einer deftigen Jause und einem Glas Wein aufwärmen, während die Kleidung trocknet.",
+            "hu": "Az esős bringázás Badenben némi felkészülést igényel, de megéri. Kezdjen a Rosariumnál, ahol az aszfaltozott utak jól járhatóak. Délelőtt tekerjen el a Beethoven-házhoz – a rövid távok miatt keveset kell az esőben lennie.\n\nDélben a plébániatemplom kiváló fedett megálló. Ezután az Arnulf Rainer Múzeum felé vegye az irányt, ahol közvetlenül a bejáratnál talál kerékpártárolót.\n\nDélután a Kurpark következik. Figyeljen a csúszós utakra, hajtson óvatosan. A Schwechat-folyó menti tekerés esőben is látványos, de ügyeljen a tócsákra.\n\nA napot egy Heurigernél (borozónál) zárjuk. Itt biztonságban lelakatolhatja a bringát, és egy tál finomság mellett megmelegedhet, amíg a felszerelése szárad.",
+            "ro": "Ciclismul pe ploaie în Baden necesită pregătire, dar este fezabil. Începeți la Rosarium, unde aleile pavate sunt sigure. Dimineața pedalați spre Casa Beethoven – distanțele scurte minimizează expunerea la ploaie.\n\nLa prânz, biserica parohială este un popas uscat pentru cultură. Continuați spre Muzeul Arnulf Rainer, care are rastele pentru biciclete chiar în față.\n\nDupă-amiaza, traseul trece prin Kurpark. Atenție la carosabilul umed, pedalați cu prudență. Plimbarea de-a lungul râului Schwechat oferă un peisaj dramatic pe timp de ploaie.\n\nZiua se încheie la un Heuriger tradițional. Aici puteți lăsa bicicleta în siguranță și vă puteți încălzi cu o gustare consistentă în timp ce echipamentul se usucă.",
+            "en": "Biking in the rain in Baden requires some preparation but is rewarding. Start at the Rosarium, where paved paths remain accessible. Cycle to the Beethoven House in the morning – short stretches minimize time in the rain.\n\nAt midday, the Parish Church provides a dry stop for culture and a break. Then head to the Arnulf Rainer Museum, which offers bike racks right at the entrance.\n\nIn the afternoon, the route leads to the Kurpark. Be careful on wet paths and cycle cautiously. The ride along the Schwechat River offers dramatic natural scenery in rainy weather.\n\nEnd the day at a Heuriger. You can park your bike securely and warm up with a hearty platter and a glass of wine while your gear dries."
+          },
+          "stops": [
+            {
+              "name": "Rosarium in Doblhoff Park",
+              "tip_5lang": {
+                "de": "Fahren Sie nur auf den asphaltierten Hauptwegen.",
+                "hu": "Csak az aszfaltozott főutakon közlekedjen.",
+                "ro": "Pedalați doar pe aleile principale asfaltate.",
+                "en": "Stick to the paved main paths only."
+              }
+            },
+            {
+              "name": "Beethoven House Baden",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad direkt am Eingang sicher ab.",
+                "hu": "Lakatosja le a bringát közvetlenül a bejáratnál.",
+                "ro": "Încuiați bicicleta în siguranță chiar la intrare.",
+                "en": "Lock your bike securely right at the entrance."
+              }
+            },
+            {
+              "name": "Parish Church & Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Heurigen mit überdachtem Innenhof.",
+                "hu": "Keressen egy fedett udvarral rendelkező borozót.",
+                "ro": "Căutați un Heuriger cu o curte interioară acoperită.",
+                "en": "Look for a Heuriger with a covered courtyard."
+              }
+            },
+            {
+              "name": "Arnulf Rainer Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um das Radfahren kurz zu unterbrechen.",
+                "hu": "Tökéletes hely a bringázás rövid megszakítására.",
+                "ro": "Locul perfect pentru a întrerupe scurt plimbarea cu bicicleta.",
+                "en": "Perfect place to briefly interrupt your cycling."
+              }
+            },
+            {
+              "name": "Kurpark & Casino",
+              "tip_5lang": {
+                "de": "Vorsicht vor nassem Laub auf den Parkwegen.",
+                "hu": "Vigyázzon a vizes levelekre a park útjain.",
+                "ro": "Atenție la frunzele ude pe aleile din park.",
+                "en": "Watch out for wet leaves on the park paths."
+              }
+            },
+            {
+              "name": "Ride along the Schwechat River",
+              "tip_5lang": {
+                "de": "Halten Sie die Fahrt kurz, wenn der Wind zunimmt.",
+                "hu": "Tartsa rövidre a tekerést, ha felerősödik a szél.",
+                "ro": "Scurtați plimbarea dacă vântul devine puternic.",
+                "en": "Keep the ride short if the wind picks up."
+              }
+            },
+            {
+              "name": "Winding down at a Heuriger",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren der Buschenschank.",
+                "hu": "Élvezze a benti meleget a borozóban.",
+                "ro": "Bucurați-vă de căldura din interiorul tavernei.",
+                "en": "Enjoy the warmth inside the wine tavern."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um Spritzwasser zu vermeiden.",
+              "Bremsen Sie auf Kopfsteinpflaster im Zentrum besonders vorsichtig.",
+              "Ein Poncho ist beim Radfahren praktischer als ein Schirm.",
+              "Prüfen Sie den Reifendruck für besseren Grip auf nasser Fahrbahn."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felfröccsenő víz ellen.",
+              "A belvárosi macskaköveken fékezzen nagyon óvatosan.",
+              "Bringázáshoz az esőponcsó praktikusabb, mint az esernyő.",
+              "Ellenőrizze a keréknyomást a jobb tapadás érdekében."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi pentru a evita stropirea.",
+              "Frânați cu mare prudență pe porțiunile cu piatră cubică.",
+              "O pelerină este mai practică decât o umbrelă pe bicicletă.",
+              "Verificați presiunea roților pentru o aderență mai bună pe carosabil umed."
+            ],
+            "en": [
+              "Use mudguards to avoid water splashes.",
+              "Brake very carefully on the cobblestones in the center.",
+              "A rain poncho is more practical than an umbrella while biking.",
+              "Check tire pressure for better grip on wet surfaces."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking in Baden ist eine erfrischende Art, die Kurstadt zu erleben. Starten Sie im Rosarium – die kahlen Rosenstöcke haben ihre eigene Ästhetik. Radeln Sie vormittags zum Beethovenhaus, die Bewegung hält Sie warm.\n\nMittags ist ein Stopp an der Stadtpfarrkirche ideal, um kurz innezuhalten. Danach geht es zum Arnulf Rainer Museum. Die kurzen Distanzen im Stadtkern sind auch bei Kälte gut mit dem Rad zu bewältigen.\n\nNachmittags führt die Fahrt zum Kurpark. Achten Sie auf mögliche Eisstellen im Schatten der historischen Gebäude. Die Fahrt entlang der Schwechat ist bei Frost besonders reizvoll, wenn die Ufer gefroren sind.\n\nDer Tag endet bei einem gemütlichen Heurigen. Nach der sportlichen Betätigung an der frischen Winterluft schmeckt der warme Traubensaft oder ein Glas Wein in der warmen Stube besonders gut.",
+            "hu": "A téli bringázás Badenben frissítő módja a fürdőváros felfedezésének. Kezdjen a Rosariumnál – a kopasz rózsatöveknek is megvan a maga esztétikája. Délelőtt tekerjen el a Beethoven-házhoz, a mozgás melegen tartja.\n\nDélben a plébániatemplomnál tarthat egy rövid pihenőt. Ezután az Arnulf Rainer Múzeum felé vegye az irányt. A belvárosi rövid távok hidegben is jól teljesíthetők bringával.\n\nDélután a Kurpark következik. Figyeljen a jeges foltokra a történelmi épületek árnyékában. A Schwechat-folyó menti tekerés fagyos időben különösen hangulatos, ahogy a partok deresek.\n\nA napot egy barátságos Heurigernél zárjuk. A friss téli levegőn végzett sport után különösen jól esik a meleg szőlőlé vagy egy pohár bor a fűtött szobában.",
+            "ro": "Ciclismul de iarnă în Baden este o modalitate revigorantă de a vedea orașul balnear. Începeți la Rosarium – trandafirii tunși au estetica lor aparte. Pedalați spre Casa Beethoven; mișcarea vă va ține cald.\n\nLa prânz, un popas la biserica parohială este ideal pentru o scurtă pauză culturală. Continuați spre Muzeul Arnulf Rainer. Distanțele scurte din centru sunt ușor de parcurs chiar și pe frig.\n\nDupă-amiaza, traseul trece prin Kurpark. Atenție la zonele cu gheață din umbra clădirilor istorice. Plimbarea de-a lungul râului Schwechat este fermecătoare când malurile sunt înghețate.\n\nZiua se încheie la un Heuriger primitor. După efortul fizic în aerul rece de iarnă, un suc cald de struguri sau un pahar de vin în interiorul încălzit va fi binemeritat.",
+            "en": "Winter biking in Baden is a refreshing way to experience the spa town. Start at the Rosarium – the dormant rose bushes have their own unique aesthetic. Cycle to the Beethoven House; the physical activity will help keep you warm.\n\nAt midday, a stop at the Parish Church is ideal for a brief cultural pause. Then head to the Arnulf Rainer Museum. The short distances in the town center are manageable by bike even in the cold.\n\nIn the afternoon, head to the Kurpark. Watch out for icy patches in the shadows of the historic buildings. The ride along the Schwechat River is particularly scenic in frosty weather when the banks are frozen.\n\nConclude the day at a cozy Heuriger. After exercising in the crisp winter air, a warm grape juice or a glass of wine in the heated parlor tastes especially good."
+          },
+          "stops": [
+            {
+              "name": "Rosarium in Doblhoff Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft auf dem Rad.",
+                "hu": "Élvezze a tiszta téli levegőt a bringán.",
+                "ro": "Bucurați-vă de aerul curat de iarnă pe bicicletă.",
+                "en": "Enjoy the crisp winter air on your bike."
+              }
+            },
+            {
+              "name": "Beethoven House Baden",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich kurz im Museum auf.",
+                "hu": "Melegedjen fel egy kicsit a múzeumban.",
+                "ro": "Încălziți-vă puțin în interiorul muzeului.",
+                "en": "Take a moment to warm up inside the museum."
+              }
+            },
+            {
+              "name": "Parish Church & Lunch",
+              "tip_5lang": {
+                "de": "Gönnen Sie sich eine warme Suppe zum Aufwärmen.",
+                "hu": "Egyen egy forró levest a felmelegedéshez.",
+                "ro": "Savurați o supă caldă pentru a vă încălzi.",
+                "en": "Treat yourself to a warm soup to heat up."
+              }
+            },
+            {
+              "name": "Arnulf Rainer Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um der Kälte kurz zu entfliehen.",
+                "hu": "Ideális hely, hogy rövid időre elmeneküljön a hideg elől.",
+                "ro": "Locul ideal pentru a scăpa scurt de frig.",
+                "en": "Ideal spot to briefly escape the cold."
+              }
+            },
+            {
+              "name": "Kurpark & Casino",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf eventuell glatten Wegen.",
+                "hu": "Hajtson óvatosan az esetleg csúszós utakon.",
+                "ro": "Pedalați cu prudență pe aleile eventual alunecoase.",
+                "en": "Cycle carefully on potentially slippery paths."
+              }
+            },
+            {
+              "name": "Ride along the Schwechat River",
+              "tip_5lang": {
+                "de": "Halten Sie die Fahrt bei starkem Frost kurz.",
+                "hu": "Erős fagyban tartsa rövidre a tekerést.",
+                "ro": "Scurtați plimbarea dacă este ger puternic.",
+                "en": "Keep the ride short if there is a deep frost."
+              }
+            },
+            {
+              "name": "Winding down at a Heuriger",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz direkt am warmen Kachelofen.",
+                "hu": "Keressen helyet közvetlenül a meleg cserépkályha mellett.",
+                "ro": "Căutați un loc chiar lângă soba caldă de teracotă.",
+                "en": "Find a seat right next to the warm tile stove."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip).",
+              "Warme, wasserfeste Handschuhe sind beim Bremsen wichtig.",
+              "Prüfen Sie Ihre Beleuchtung – es wird früh dunkel.",
+              "Vermeiden Sie schattige Waldwege, dort hält sich Eis länger."
+            ],
+            "hu": [
+              "Öltözzön rétegesen (hagyma-elv).",
+              "A meleg, vízálló kesztyű létfontosságú a fékezéshez.",
+              "Ellenőrizze a világítást – korán sötétedik.",
+              "Kerülje az árnyékos erdei utakat, ott tovább megmarad a jég."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine (principiul cepei).",
+              "Mănușile calde și impermeabile sunt esențiale pentru frânare.",
+              "Verificați luminile – se întunecă devreme.",
+              "Evitați drumurile forestiere umbrite, unde gheața persistă."
+            ],
+            "en": [
+              "Dress in multiple layers (onion principle).",
+              "Warm, waterproof gloves are essential for safe braking.",
+              "Check your lights – it gets dark very early.",
+              "Avoid shaded forest paths where ice lingers longer."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1170,6 +1588,206 @@
           "The city center is a short-term parking zone, pay attention to the maximum parking time.",
           "Consider using a multi-story car park for the whole day to avoid stress."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Baden auch bei Regen komfortabel zu erkunden. Parken Sie zentral und starten Sie Ihren Rundgang. Vormittags besuchen Sie die St. Stephan Kirche und das Kaiserhaus – beide bieten Schutz vor den Elementen.\n\nMittags fahren Sie zum Doblhoffpark. Parken Sie direkt beim Parkeingang, um den Weg durch den Regen zum Rosarium abzukürzen. Danach geht es weiter zum Beethovenhaus und zur Römertherme.\n\nNachmittags ist die Römertherme die perfekte Wahl, um die regnerische Atmosphäre aus dem warmen Wasser zu genießen. Danach parken Sie beim Kurpark und Casino für einen kurzen Spaziergang unter den Arkaden.\n\nDer Tag endet mit einem Abendessen. Viele Restaurants im Zentrum bieten Parkmöglichkeiten in unmittelbarer Nähe, sodass Sie trocken zu Ihrem Tisch gelangen und den Abend entspannt genießen können.",
+            "hu": "Autóval Baden esőben is kényelmesen felfedezhető. Parkoljon a központban, és kezdje meg a körútját. Délelőtt látogassa meg a Szent István templomot és a Kaiserhaust – mindkettő védelmet nyújt.\n\nDélben hajtson a Doblhoffparkhoz. Parkoljon közvetlenül a bejáratnál, hogy lerövidítse az utat a Rosariumig az esőben. Ezután folytassa útját a Beethoven-házhoz és a Römertherme-hez.\n\nDélután a Römertherme a tökéletes választás: élvezze az esős hangulatot a meleg vízből. Ezután parkoljon a Kurparknál egy rövid sétához az árkádok alatt.\n\nA napot vacsorával zárjuk. Sok belvárosi étterem közelében van parkolóhely, így szárazon juthat el az asztaláig, és nyugodtan élvezheti az estét.",
+            "ro": "Cu mașina, Baden este confortabil de explorat chiar și pe ploaie. Parcați central și începeți turul. Dimineața vizitați Biserica Sf. Ștefan și Kaiserhaus – ambele oferă adăpost împotriva intemperiilor.\n\nLa prânz, conduceți spre parcul Doblhoff. Parcați chiar la intrare pentru a scurta drumul prin ploaie spre Rosarium. Continuați apoi spre Casa Beethoven și Römertherme.\n\nDupă-amiaza, Römertherme este alegerea perfectă: bucurați-vă de atmosfera ploioasă din apa caldă. Apoi parcați lângă Kurpark pentru o scurtă plimbare pe sub arcade.\n\nZiua se încheie cu o cină. Multe restaurante din centru au parcări în imediata apropiere, astfel încât să ajungeți uscat la masă și să vă relaxați.",
+            "en": "Exploring Baden by car is comfortable even in the rain. Park centrally and begin your tour. Visit St. Stephan's Church and the Kaiserhaus in the morning – both offer excellent shelter from the elements.\n\nAt midday, drive to Doblhoff Park. Park right at the entrance to shorten the walk through the rain to the Rosarium. Then continue to the Beethoven House and the Römertherme.\n\nIn the afternoon, the Römertherme is the perfect choice: enjoy the rainy ambiance from the warmth of the thermal water. Later, park near the Kurpark for a short stroll under the arcades.\n\nConclude your day with dinner. Many restaurants in the center offer parking nearby, allowing you to reach your table dry and enjoy a relaxed evening."
+          },
+          "stops": [
+            {
+              "name": "Parking & Start in the Center",
+              "tip_5lang": {
+                "de": "Parken Sie in der Tiefgarage für trockenen Zugang zum Auto.",
+                "hu": "Parkoljon mélygarázsban, hogy szárazon jusson az autóhoz.",
+                "ro": "Parcați într-o parcare subterană pentru acces uscat la mașină.",
+                "en": "Park in an underground garage for dry access to your car."
+              }
+            },
+            {
+              "name": "Parish Church of St. Stephan",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkhaus direkt zur Kirche.",
+                "hu": "Rövid séta a parkolóháztól közvetlenül a templomig.",
+                "ro": "Scurtă plimbare de la parcare direct la biserică.",
+                "en": "Short walk from the parking garage directly to the church."
+              }
+            },
+            {
+              "name": "Kaiserhaus (Emperor's House)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich.",
+                "hu": "Használja a fedett bejárati részt.",
+                "ro": "Folosiți zona de intrare acoperită.",
+                "en": "Utilize the covered entrance area."
+              }
+            },
+            {
+              "name": "Drive to Doblhoff Park",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Haupteingang verfügbar.",
+                "hu": "Parkolóhely közvetlenül a főbejáratnál elérhető.",
+                "ro": "Locuri de parcare disponibile chiar la intrarea principală.",
+                "en": "Parking spaces available right at the main entrance."
+              }
+            },
+            {
+              "name": "Beethoven House & Roman Spa",
+              "tip_5lang": {
+                "de": "Die Römertherme hat einen eigenen Parkplatz.",
+                "hu": "A Römertherme saját parkolóval rendelkezik.",
+                "ro": "Römertherme are propria sa parcare.",
+                "en": "The Römertherme has its own parking lot."
+              }
+            },
+            {
+              "name": "Drive to the Kurpark",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kurzparkzonen in der Nähe des Casinos.",
+                "hu": "Használja a rövidtávú parkolókat a kaszinó közelében.",
+                "ro": "Folosiți zonele de parcare pe termen scurt lângă cazinou.",
+                "en": "Utilize short-term parking zones near the casino."
+              }
+            },
+            {
+              "name": "Dinner with a View",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Parkservice oder nahem Parkplatz.",
+                "hu": "Válasszon éttermet közeli parkolóval.",
+                "ro": "Alegeți un restaurant cu parcare în apropiere.",
+                "en": "Choose a restaurant with nearby parking."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser 'Zentrum' oder 'Casino'.",
+              "Achten Sie auf Pfützen in den Nebenstraßen beim Einparken.",
+              "Lassen Sie den Schirm im Auto, wenn Sie nur kurz aussteigen.",
+              "Die Römertherme bietet Parkrabatte für Badegäste."
+            ],
+            "hu": [
+              "Használja a 'Zentrum' vagy 'Casino' parkolóházakat.",
+              "Parkoláskor ügyeljen a tócsákra a mellékutcákban.",
+              "Hagyja az esernyőt az autóban, ha csak rövid időre ugrik ki.",
+              "A Römertherme parkolási kedvezményt ad a vendégeknek."
+            ],
+            "ro": [
+              "Folosiți parcările 'Zentrum' sau 'Casino'.",
+              "Atenție la bălți în străzile secundare când parcați.",
+              "Lăsați umbrela în mașină dacă ieșiți doar pentru scurt timp.",
+              "Römertherme oferă reduceri la parcare pentru clienți."
+            ],
+            "en": [
+              "Use the 'Zentrum' or 'Casino' parking garages.",
+              "Watch out for puddles in side streets when parking.",
+              "Leave your umbrella in the car for very short stops.",
+              "The Römertherme offers parking discounts for spa guests."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Baden im Winter mit dem Auto ist besonders entspannt. Starten Sie im Zentrum, wo die weihnachtliche Beleuchtung am Vormittag noch dezent wirkt. Besuchen Sie die St. Stephan Kirche und das Kaiserhaus, während Ihr Auto sicher im warmen Parkhaus steht.\n\nMittags fahren Sie zum Doblhoffpark. Genießen Sie den Anblick des verschneiten Rosariums vom warmen Auto aus, bevor Sie einen kurzen Winterspaziergang wagen. Danach geht es zum Beethovenhaus.\n\nNachmittags ist die Römertherme das Highlight Ihrer Tour. Das warme Auto nach dem heißen Thermalbad ist besonders angenehm. Zum Abschluss parken Sie beim Kurpark, um das beleuchtete Casino in der Dämmerung zu sehen.\n\nDer Tag endet mit einem Abendessen in einem Restaurant mit Panoramablick. Dank des Autos erreichen Sie auch höher gelegene Lokale problemlos, von denen aus Sie die winterlichen Lichter der Stadt überblicken können.",
+            "hu": "Télen autóval Baden felfedezése különösen pihentető. Kezdjen a központban, ahol délelőtt még szolidan látszik a karácsonyi díszkivilágítás. Látogassa meg a templomot és a Kaiserhaust, miközben autója a parkolóházban vár.\n\nDélben hajtson a Doblhoffparkhoz. Csodálja meg a havas Rosarium látványát a meleg autóból, mielőtt tenne egy rövid téli sétát. Ezután látogasson el a Beethoven-házhoz.\n\nDélután a Römertherme a túra fénypontja. A forró termálfürdő után különösen kellemes beülni a meleg autóba. Befejezésül parkoljon a Kurparknál, hogy láthassa a kivilágított kaszinót az alkonyatban.\n\nA napot panorámás vacsorával zárjuk. Az autónak köszönhetően a magasabban fekvő helyekre is könnyen eljut, ahonnan rálátni a város téli fényeire.",
+            "ro": "Vizitarea orașului Baden iarna cu mașina este foarte relaxantă. Începeți în centru, unde iluminatul festiv este discret dimineața. Vizitați biserica și Kaiserhaus, în timp ce mașina stă în siguranță într-o parcare.\n\nLa prânz, mergeți la parcul Doblhoff. Admirați Rosarium-ul înzăpezit din căldura mașinii înainte de o scurtă plimbare. Continuați apoi spre Casa Beethoven.\n\nDupă-amiaza, Römertherme este punctul culminant al turului. Revenirea în mașina caldă după baia termală fierbinte este extrem de plăcută. La final, parcați lângă Kurpark pentru a vedea cazinoul iluminat la amurg.\n\nZiua se încheie cu o cină la un restaurant cu vedere panoramică. Datorită mașinii, puteți ajunge ușor la localurile situate mai sus, de unde puteți vedea luminile de iarnă ale orașului.",
+            "en": "Baden in winter by car is especially relaxed. Start in the center, where festive lights are still subtle in the morning. Visit the church and Kaiserhaus while your car stays safe in a parking garage.\n\nAt midday, drive to Doblhoff Park. Enjoy the sight of the snowy Rosarium from your warm car before venturing out for a short winter walk. Then head to the Beethoven House.\n\nIn the afternoon, the Römertherme is the highlight of your tour. Getting into a warm car after the hot thermal bath is particularly pleasant. To finish, park near the Kurpark to see the illuminated casino at dusk.\n\nConclude your day with dinner at a restaurant with a panoramic view. Thanks to the car, you can easily reach elevated locations overlooking the city's winter lights."
+          },
+          "stops": [
+            {
+              "name": "Parking & Start in the Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf winterliche Fahrbahnverhältnisse in den Gassen.",
+                "hu": "Ügyeljen a téli útviszonyokra a szűk utcákban.",
+                "ro": "Atenție la condițiile de drum de iarnă pe străduțe.",
+                "en": "Watch out for winter road conditions in the narrow streets."
+              }
+            },
+            {
+              "name": "Parish Church of St. Stephan",
+              "tip_5lang": {
+                "de": "Kurze Wege halten die Kälteexposition gering.",
+                "hu": "A rövid távok miatt nem kell sokat a hidegben lennie.",
+                "ro": "Distanțele scurte mențin expunerea la frig la minimum.",
+                "en": "Short distances keep cold exposure to a minimum."
+              }
+            },
+            {
+              "name": "Kaiserhaus (Emperor's House)",
+              "tip_5lang": {
+                "de": "Genießen Sie die kaiserliche Pracht im Warmen.",
+                "hu": "Élvezze a császári pompát a melegben.",
+                "ro": "Bucurați-vă de splendoarea imperială la căldură.",
+                "en": "Enjoy the imperial splendor in the warmth."
+              }
+            },
+            {
+              "name": "Drive to Doblhoff Park",
+              "tip_5lang": {
+                "de": "Parkplatz ist meist geräumt und gut erreichbar.",
+                "hu": "A parkolót általában letakarítják és jól elérhető.",
+                "ro": "Parcarea este de obicei deszăpezită și accesibilă.",
+                "en": "The parking lot is usually cleared and easily accessible."
+              }
+            },
+            {
+              "name": "Beethoven House & Roman Spa",
+              "tip_5lang": {
+                "de": "Planen Sie Zeit zum Abtauen der Scheiben ein.",
+                "hu": "Számoljon időt a szélvédők jégtelenítésére.",
+                "ro": "Alocați timp pentru dezghețarea parbrizului.",
+                "en": "Allow time for defrosting your windshield."
+              }
+            },
+            {
+              "name": "Drive to the Kurpark",
+              "tip_5lang": {
+                "de": "Der Parkplatz beim Casino ist im Winter sehr praktisch.",
+                "hu": "A kaszinó melletti parkoló télen nagyon praktikus.",
+                "ro": "Parcarea de lângă cazinou este foarte practică iarna.",
+                "en": "The parking lot by the casino is very practical in winter."
+              }
+            },
+            {
+              "name": "Dinner with a View",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob Winterreifen für steile Anfahrten nötig sind.",
+                "hu": "Ellenőrizze, kell-e téli gumi a meredekebb utakhoz.",
+                "ro": "Verificați dacă anvelopele de iarnă sunt necesare pentru urcări.",
+                "en": "Check if winter tires are needed for steep access roads."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und Besen im Auto mit.",
+              "Vermeiden Sie das Parken unter schneebeladenen Bäumen.",
+              "Heizen Sie das Auto vor, bevor Sie die Therme verlassen.",
+              "Die Parkhäuser sind im Winter frostfrei und sicher."
+            ],
+            "hu": [
+              "Legyen az autóban jégkaparó és kefe.",
+              "Kerülje a parkolást hóval terhelt fák alatt.",
+              "Fűtse fel az autót, mielőtt elhagyja a termálfürdőt.",
+              "A parkolóházak télen fagymentesek és biztonságosak."
+            ],
+            "ro": [
+              "Aveți în mașină o racletă și o perie pentru zăpadă.",
+              "Evitați parcarea sub copaci încărcați cu zăpadă.",
+              "Preîncălziți mașina înainte de a părăsi termele.",
+              "Parcările etajate sunt ferite de îngheț și sigure iarna."
+            ],
+            "en": [
+              "Keep an ice scraper and a snow brush in your car.",
+              "Avoid parking under trees heavily laden with snow.",
+              "Pre-heat the car before leaving the thermal spa.",
+              "Parking garages are frost-free and safe during winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1550,6 +2168,206 @@
           "Note that buses run less frequently in the evening.",
           "Most stops in the center are just a few minutes' walk from each other."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Baden mit öffentlichen Verkehrsmitteln ist bei Regen eine kluge Wahl. Starten Sie im Zentrum, das gut mit Bus und Lokalbahn erreichbar ist. Vormittags besuchen Sie das Kaiserhaus und die Stadtpfarrkirche, die nur wenige Schritte von den Haltestellen entfernt sind.\n\nMittags bringt Sie der Citybus trocken zum Arnulf Rainer Museum. Danach führt die kurze Busfahrt zum Kurpark. Hier können Sie die regnerische Natur aus den Fenstern des Casinos oder der Pavillons beobachten.\n\nNachmittags ist die Römertherme das Ziel, bequem per Bus erreichbar. Das warme Thermalwasser ist der ideale Ort, um dem Regen zu entfliehen. Ein weiterer Citybus bringt Sie zum Doblhoffpark und dem Rosarium.\n\nDer Tag endet mit einer Rückfahrt ins Zentrum. Genießen Sie ein gemütliches Abendessen in Bahnhofsnähe oder im Herzen der Stadt, von wo aus Sie trockenen Fußes Ihren Anschluss für die Heimreise erreichen.",
+            "hu": "Baden felfedezése tömegközlekedéssel esőben bölcs döntés. Kezdjen a központban, amely busszal és a helyiérdekű vasúttal (Badner Bahn) is jól elérhető. Délelőtt látogassa meg a Kaiserhaust és a templomot, amelyek csak pár lépésre vannak a megállóktól.\n\nDélben a Citybus szárazon repíti az Arnulf Rainer Múzeumhoz. Ezután egy rövid buszút következik a Kurparkig. Itt a kaszinó ablakaiból vagy a pavilonok alól csodálhatja az esőáztatta természetet.\n\nDélután a Römertherme a cél, amely busszal kényelmesen elérhető. A meleg termálvíz ideális menedék az eső elől. Egy újabb busz viszi a Doblhoffparkhoz és a Rosariumhoz.\n\nA napot a központba való visszatéréssel zárjuk. Vacsorázzon a vasútállomás közelében vagy a belváros szívében, ahonnan száraz lábbal érheti el a hazafelé tartó járatát.",
+            "ro": "Explorarea orașului Baden cu transportul public este o alegere înțeleaptă pe ploaie. Începeți în centru, accesibil cu autobuzul sau trenul local (Badner Bahn). Dimineața vizitați Kaiserhaus și biserica, aflate la câțiva pași de stații.\n\nLa prânz, Citybus vă duce la Muzeul Arnulf Rainer fără să vă udați. Urmează o scurtă călătorie spre Kurpark. Aici puteți observa natura ploioasă de la ferestrele cazinoului sau din pavilioane.\n\nDupă-amiaza, destinația este Römertherme, ușor accesibilă cu autobuzul. Apa termală caldă este locul ideal pentru a evada din ploaie. Un alt autobuz vă duce la parcul Doblhoff și Rosarium.\n\nZiua se încheie cu întoarcerea în centru. Savurați o cină lângă gară sau în inima orașului, de unde puteți ajunge uscat la legătura pentru drumul spre casă.",
+            "en": "Exploring Baden by public transit is a smart choice in the rain. Start in the center, which is well-connected by bus and the local railway (Badner Bahn). Visit the Kaiserhaus and the church in the morning, both just steps away from transit stops.\n\nAt midday, the Citybus takes you to the Arnulf Rainer Museum, keeping you dry. Followed by a short bus ride to the Kurpark. Here, you can watch the rainy scenery from the casino windows or under the pavilions.\n\nIn the afternoon, head to the Römertherme, easily reachable by bus. The warm thermal water is the ideal place to escape the rain. Another Citybus takes you to Doblhoff Park and the Rosarium.\n\nConclude your day by returning to the center. Enjoy a cozy dinner near the train station or in the heart of town, where you can reach your connection for the journey home while staying dry."
+          },
+          "stops": [
+            {
+              "name": "Arrival & Walk in the Center",
+              "tip_5lang": {
+                "de": "Haltestellen befinden sich direkt im Herzen der Fußgängerzone.",
+                "hu": "A megállók közvetlenül a sétálóövezet szívében vannak.",
+                "ro": "Stațiile sunt situate chiar în inima zonei pietonale.",
+                "en": "Stops are located directly in the heart of the pedestrian zone."
+              }
+            },
+            {
+              "name": "Kaiserhaus & Parish Church",
+              "tip_5lang": {
+                "de": "Kurze Umsteigewege minimieren den Kontakt mit Regen.",
+                "hu": "A rövid átszállási távok minimalizálják az esővel való érintkezést.",
+                "ro": "Distanțele scurte de transfer minimizează contactul cu ploaia.",
+                "en": "Short transfer distances minimize contact with the rain."
+              }
+            },
+            {
+              "name": "Arnulf Rainer Museum",
+              "tip_5lang": {
+                "de": "Der Citybus hält fast direkt vor dem Museum.",
+                "hu": "A Citybus szinte közvetlenül a múzeum előtt áll meg.",
+                "ro": "Citybus oprește aproape direct în fața muzeului.",
+                "en": "The Citybus stops almost directly in front of the museum."
+              }
+            },
+            {
+              "name": "Bus Ride to the Kurpark",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehäuschen an den Bushaltestellen.",
+                "hu": "Használja a buszmegállók váróhelyiségeit.",
+                "ro": "Folosiți adăposturile din stațiile de autobuz.",
+                "en": "Utilize the shelters at the bus stops."
+              }
+            },
+            {
+              "name": "Walk to the Römertherme",
+              "tip_5lang": {
+                "de": "Vom Busstopp sind es nur wenige Meter zum Eingang.",
+                "hu": "A buszmegállótól csak pár méter a bejárat.",
+                "ro": "De la stația de autobuz sunt doar câțiva metri până la intrare.",
+                "en": "It's only a few meters from the bus stop to the entrance."
+              }
+            },
+            {
+              "name": "Bus to Doblhoff Park & Rosarium",
+              "tip_5lang": {
+                "de": "Die Buslinie 306 verbindet die wichtigsten Punkte.",
+                "hu": "A 306-os buszvonal összeköti a legfontosabb pontokat.",
+                "ro": "Linia de autobuz 306 leagă cele mai importante puncte.",
+                "en": "Bus line 306 connects the most important sites."
+              }
+            },
+            {
+              "name": "Return to the Center for Dinner",
+              "tip_5lang": {
+                "de": "Die Badner Bahn fährt bis spät in die Nacht.",
+                "hu": "A Badner Bahn késő éjszakáig közlekedik.",
+                "ro": "Trenul local Badner Bahn circulă până noaptea târziu.",
+                "en": "The Badner Bahn runs until late at night."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Holen Sie sich eine Tageskarte für den Citybus Baden.",
+              "Prüfen Sie die Abfahrtszeiten in der VOR AnachB App.",
+              "Die Badner Bahn bietet einen trockenen Weg nach Wien.",
+              "Busse fahren bei Regen oft pünktlicher als Individualverkehr."
+            ],
+            "hu": [
+              "Váltson napijegyet a badeni Citybusra.",
+              "Ellenőrizze az indulási időket a VOR AnachB alkalmazásban.",
+              "A Badner Bahn száraz kijutást biztosít Bécs felé.",
+              "Esőben a buszok gyakran pontosabbak a közúti forgalomnál."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi pentru Citybus Baden.",
+              "Verificați orele de plecare în aplicația VOR AnachB.",
+              "Trenul Badner Bahn oferă o cale uscată spre Viena.",
+              "Autobuzele sunt adesea mai punctuale decât traficul auto pe ploaie."
+            ],
+            "en": [
+              "Get a day ticket for the Baden Citybus.",
+              "Check departure times in the VOR AnachB app.",
+              "The Badner Bahn offers a dry connection to Vienna.",
+              "Buses are often more punctual than private traffic in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Baden im Winter per Transit ist gemütlich und sicher. Starten Sie im Zentrum, das im Winterglanz erstrahlt. Besuchen Sie die St. Stephan Kirche und das Kaiserhaus – die beheizten Busse warten an den nahen Haltestellen auf Sie.\n\nMittags bringt Sie der Citybus zum Arnulf Rainer Museum. Die Fahrt durch die winterliche Stadt ist entspannend. Danach geht es zum Kurpark, wo Sie die festliche Beleuchtung bewundern können, bevor es zu früh dunkel wird.\n\nNachmittags ist die Römertherme das Highlight, perfekt mit dem Bus erreichbar. Nichts schlägt das Gefühl, nach der Therme in einen warmen Bus zu steigen. Ein weiterer Bus bringt Sie zum winterlichen Doblhoffpark.\n\nDer Tag endet mit der Rückkehr ins Zentrum. Die kurzen Wege zwischen Haltestellen und Restaurants sorgen dafür, dass Sie nicht lange der Kälte ausgesetzt sind. Genießen Sie ein warmes Abendessen, bevor Sie bequem die Heimreise antreten.",
+            "hu": "Baden felfedezése télen tömegközlekedéssel kényelmes és biztonságos. Kezdjen a téli fényben úszó központban. Látogassa meg a templomot és a Kaiserhaust – a fűtött buszok a közeli megállókban várják.\n\nDélben a Citybus elviszi az Arnulf Rainer Múzeumhoz. Az utazás a téli városon keresztül pihentető. Ezután a Kurpark következik, ahol megcsodálhatja az ünnepi díszkivilágítást, mielőtt korán besötétedne.\n\nDélután a Römertherme a fő célpont, busszal tökéletesen elérhető. Semmi sem fogható ahhoz az érzéshez, amikor a fürdő után felszáll egy meleg buszra. Egy másik járat elviszi a téli Doblhoffparkhoz.\n\nA napot a központba való visszatéréssel zárjuk. A megállók és az éttermek közötti rövid távok miatt nem kell sokat a hidegben lennie. Élvezze a meleg vacsorát, mielőtt kényelmesen hazautazna.",
+            "ro": "Vizitarea orașului Baden iarna cu transportul public este confortabilă și sigură. Începeți în centrul strălucitor. Vizitați biserica și Kaiserhaus – autobuzele încălzite vă așteaptă în stațiile din apropiere.\n\nLa prânz, Citybus vă duce la Muzeul Arnulf Rainer. Călătoria prin orașul de iarnă este relaxantă. Continuați spre Kurpark, unde puteți admira iluminatul festiv înainte de a se întuneca devreme.\n\nDupă-amiaza, Römertherme este destinația principală, perfect accesibilă cu autobuzul. Nimic nu întrece senzația de a urca într-un autobuz cald după baie. Un alt autobuz vă duce la parcul Doblhoff înzăpezit.\n\nZiua se încheie cu întoarcerea în centru. Distanțele scurte între stații și restaurante vă feresc de frig. Savurați o cină caldă înainte de a pleca confortabil spre casă.",
+            "en": "Exploring Baden by transit in winter is cozy and safe. Start in the illuminated city center. Visit the church and Kaiserhaus – heated buses await you at nearby stops.\n\nAt midday, the Citybus takes you to the Arnulf Rainer Museum. The ride through the wintry town is relaxing. Then head to the Kurpark to admire the festive decorations before darkness falls early.\n\nIn the afternoon, the Römertherme is the main destination, perfectly reachable by bus. Nothing beats stepping onto a warm bus after a session at the spa. Another bus takes you to the wintry Doblhoff Park.\n\nConclude your day by returning to the center. Short distances between stops and restaurants ensure you aren't exposed to the cold for long. Enjoy a warm dinner before starting your comfortable journey home."
+          },
+          "stops": [
+            {
+              "name": "Arrival & Walk in the Center",
+              "tip_5lang": {
+                "de": "Die Badner Bahn Haltestelle Josefsplatz ist sehr zentral.",
+                "hu": "A Badner Bahn Josefsplatz megállója nagyon központi.",
+                "ro": "Stația Josefsplatz a trenului local este foarte centrală.",
+                "en": "The Badner Bahn stop at Josefsplatz is very central."
+              }
+            },
+            {
+              "name": "Kaiserhaus & Parish Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme in den Bussen zwischen den Stopps.",
+                "hu": "Használja ki a buszok melegét a megállók között.",
+                "ro": "Profitați de căldura din autobuze între opriri.",
+                "en": "Take advantage of the warmth in the buses between stops."
+              }
+            },
+            {
+              "name": "Arnulf Rainer Museum",
+              "tip_5lang": {
+                "de": "Im Winter verkehren die Busse nach dem Standardfahrplan.",
+                "hu": "Télen a buszok a standard menetrend szerint járnak.",
+                "ro": "Iarna, autobuzele circulă conform orarului standard.",
+                "en": "In winter, buses run according to the standard schedule."
+              }
+            },
+            {
+              "name": "Bus Ride to the Kurpark",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Weihnachtsbeleuchtung.",
+                "hu": "Élvezze a kilátást a karácsonyi díszkivilágításra.",
+                "ro": "Bucurați-vă de vederea iluminatului de Crăciun.",
+                "en": "Enjoy the view of the Christmas lights."
+              }
+            },
+            {
+              "name": "Walk to the Römertherme",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich nach dem Bad für den Weg zum Bus warm an.",
+                "hu": "A fürdő után öltözzön fel melegen a buszhoz vezető útra.",
+                "ro": "Îmbrăcați-vă gros după baie pentru drumul spre autobuz.",
+                "en": "Dress warmly for the walk to the bus after your spa visit."
+              }
+            },
+            {
+              "name": "Bus to Doblhoff Park & Rosarium",
+              "tip_5lang": {
+                "de": "Letzte Busse für Sightseeing fahren gegen 18:30 Uhr.",
+                "hu": "Az utolsó városnéző buszok 18:30 körül indulnak.",
+                "ro": "Ultimele autobuze pentru vizitare pleacă în jur de 18:30.",
+                "en": "The last buses for sightseeing depart around 6:30 PM."
+              }
+            },
+            {
+              "name": "Return to the Center for Dinner",
+              "tip_5lang": {
+                "de": "Bahnhöfe und Haltestellen sind im Winter gut beleuchtet.",
+                "hu": "Az állomások és megállók télen jól ki vannak világítva.",
+                "ro": "Gările și stațiile sunt bine iluminate iarna.",
+                "en": "Stations and stops are well-lit during the winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Pufferzeiten für witterungsbedingte Verspätungen ein.",
+              "Die Badner Bahn ist bei Schnee oft zuverlässiger als Busse.",
+              "In den Bussen ist es meist sehr warm; Kleidung im Zwiebelprinzip.",
+              "Nutzen Sie die beheizten Wartebereiche am Bahnhof Baden."
+            ],
+            "hu": [
+              "Számoljon ráhagyással az időjárás miatti késésekre.",
+              "Hóesésben a Badner Bahn gyakran megbízhatóbb a buszoknál.",
+              "A buszokon általában nagyon meleg van; öltözzön rétegesen.",
+              "Használja a fűtött váróhelyiségeket a badeni vasútállomáson."
+            ],
+            "ro": [
+              "Alocați timp suplimentar pentru eventuale întârzieri cauzate de vreme.",
+              "Badner Bahn este adesea mai fiabil decât autobuzele pe zăpadă.",
+              "În autobuze este de obicei foarte cald; purtați straturi de haine.",
+              "Folosiți zonele de așteptare încălzite din gara Baden."
+            ],
+            "en": [
+              "Allow extra time for weather-related delays.",
+              "The Badner Bahn is often more reliable than buses during snow.",
+              "Buses are usually very warm; dress in layers.",
+              "Utilize the heated waiting areas at Baden train station."
+            ]
+          }
+        }
       }
     }
   }

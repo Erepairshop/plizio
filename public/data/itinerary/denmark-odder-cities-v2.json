@@ -338,6 +338,178 @@
           "Most shops close in the early evening, so plan your shopping accordingly.",
           "On market days (usually Wednesday and Saturday), the town center is especially lively."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt im Stadtzentrum, wo das historische Hotel Schutz vor dem Nieselregen bietet. Mittags finden Sie in der alten Steinkirche von Odder einen ruhigen und trockenen Ort zum Verweilen. Am Nachmittag erkunden Sie die Innenräume der alten Wassermühle im Odder Museum. Den Tag lassen Sie gemütlich im Café des Bauernhofs bei Mrs. Møller ausklingen.",
+            "hu": "A nap a városközpontban indul, ahol a patinás hotel nyújt menedéket a szemerkélő eső elől. Délben az Odder templom vastag falai között talál nyugodt, száraz pihenőhelyet. Délután az egykori vízimalomban berendezett múzeum belső kiállításait érdemes felfedezni. Az estét a farmgazdaság fedett kávézójában, helyi sütemények mellett zárhatja.",
+            "ro": "Ziua începe în centrul orașului, unde hotelul istoric oferă adăpost împotriva burniței. La prânz, interiorul bisericii vechi din Odder este un loc liniștit și uscat pentru reculegere. După-amiaza este dedicată expozițiilor interioare de la muzeul local, situat într-o fostă moară. Seara se încheie confortabil în cafeneaua acoperită de la ferma Fru Møller.",
+            "en": "The day starts in the town center, where the historic hotel provides shelter from the drizzle. At noon, the thick walls of Odder Church offer a quiet and dry place to rest. Spend the afternoon exploring the indoor exhibits at the Odder Museum, housed in an old water mill. End the day comfortably at the farm shop's cafe with local treats."
+          },
+          "stops": [
+            {
+              "name": "Centralhotellet & Town Center",
+              "tip_5lang": {
+                "de": "Die Lobby des Hotels bietet einen guten Unterstand, um die Route zu prüfen.",
+                "hu": "A hotel előcsarnoka kiváló hely az eső elleni védekezésre és útvonaltervezésre.",
+                "ro": "Lobby-ul hotelului este un loc bun pentru a verifica traseul la adăpost.",
+                "en": "The hotel lobby is a great spot to stay dry while checking your route."
+              }
+            },
+            {
+              "name": "Odder Church",
+              "tip_5lang": {
+                "de": "Das schwere Kirchtor schirmt Wind und Regen zuverlässig ab.",
+                "hu": "A templom nehéz tölgyfa ajtaja mögött teljes a szélcsend.",
+                "ro": "Ușa grea a bisericii oferă o protecție excelentă împotriva vântului.",
+                "en": "The heavy church door provides excellent protection against the wind."
+              }
+            },
+            {
+              "name": "Odder Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre nassen Mäntel und Regenschirme.",
+                "hu": "Használja az ingyenes ruhatárat a vizes kabátok és esernyők tárolására.",
+                "ro": "Folosiți garderoba gratuită pentru hainele ude și umbrele.",
+                "en": "Use the free cloakroom to store wet coats and umbrellas during your visit."
+              }
+            },
+            {
+              "name": "The Garden of Ecology (Økologiens Have)",
+              "tip_5lang": {
+                "de": "Die Wege zwischen den Beeten können bei Regen rutschig und schlammig sein.",
+                "hu": "Az ágyások közötti utak esőben felázhatnak és csúszóssá válhatnak.",
+                "ro": "Potecile dintre straturi pot deveni noroioase și alunecoase pe ploaie.",
+                "en": "The paths between the garden beds can get muddy and slippery in the rain."
+              }
+            },
+            {
+              "name": "Fru Møllers Mølleri (Mrs. Møller's Mill)",
+              "tip_5lang": {
+                "de": "Der Hofladen ist komplett überdacht und bietet Schutz beim Einkaufen.",
+                "hu": "A mintabolt és a kávézó teljesen fedett, ideális menedék a nap végén.",
+                "ro": "Magazinul fermei este complet acoperit, oferind protecție în timp ce faceți cumpărături.",
+                "en": "The farm shop and cafe are fully covered, ideal for shelter at the end of the day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen der Küstenwinde unerlässlich.",
+              "Wanderschuhe mit gutem Profil helfen auf den unbefestigten Gartenwegen.",
+              "Das Museum bietet ausreichend Innenraum für längere Regenschauer.",
+              "Im Café von Fru Møller gibt es Trockenmöglichkeiten für Kleidung.",
+              "Die Gehwege im Zentrum sind gut gepflastert und pfützenarm."
+            ],
+            "hu": [
+              "A tengerparti szél miatt érdemesebb viharálló esőkabátot viselni esernyő helyett.",
+              "A kertlátogatáshoz vízálló, jól tapadó talpú túracipő javasolt.",
+              "A múzeum épülete tágas belső tereket kínál hosszabb záporok idejére.",
+              "Fru Møller kávézójában meleg italokkal melegedhet fel az út végén.",
+              "A belvárosi járdák modernek, kevés a vízelvezetési probléma."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza vânturilor de coastă.",
+              "Încălțămintea de drumeție este recomandată pentru potecile din grădină.",
+              "Muzeul oferă spații interioare generoase pentru reprize lungi de ploaie.",
+              "Cafeneaua de la fermă are spațiu de uscare pentru haine.",
+              "Trotuarele din centru sunt bine întreținute și nu rețin apa."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to frequent coastal winds.",
+              "Walking shoes with good grip are recommended for the unpaved garden paths.",
+              "The museum provides ample indoor space during long rain showers.",
+              "Fru Møller's cafe offers warm drinks and a place to dry off.",
+              "Downtown sidewalks are modern and generally free of large puddles."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erleben Sie das winterliche Odder bei einem Spaziergang durch das Zentrum. Mittags wärmen Sie sich in der beheizten Odder Kirche auf. Den frühen Nachmittag verbringen Sie im Museum, bevor die Dämmerung gegen 16 Uhr einsetzt. Der Tag endet bei Kerzenschein und warmem Gebäck in der Bäckerei von Fru Møller.",
+            "hu": "Reggel a téli Odder csendes főutcáján kezdheti a sétát. Délben a templom békéje és mérsékelt hőmérséklete nyújt pihenőt. Kora délután látogasson el a múzeumba, mielőtt 16 óra körül leszáll az alkony. Az estét a farmgazdaság pékségének illata és a karácsonyi fények teszik hangulatossá.",
+            "ro": "Dimineața, descoperiți farmecul iernii în centrul orașului Odder. La prânz, interiorul bisericii oferă un moment de liniște și căldură. Vizitați muzeul după-amiaza devreme, înainte de apusul soarelui la ora 16:00. Seara se încheie cu produse de patiserie calde la brutăria fermei.",
+            "en": "Start your winter morning with a stroll through Odder's quiet center. At noon, the church interior provides a peaceful and tempered break. Visit the museum in the early afternoon before sunset at 4:00 PM. The day ends with warm pastries and festive lights at the farm's bakery."
+          },
+          "stops": [
+            {
+              "name": "Centralhotellet & Town Center",
+              "tip_5lang": {
+                "de": "Die Weihnachtsbeleuchtung im Zentrum sorgt für eine gemütliche Atmosphäre.",
+                "hu": "A belvárosi ünnepi fények már kora délután hangulatot teremtenek.",
+                "ro": "Luminile de sărbătoare din centru creează o atmosferă primitoare.",
+                "en": "The festive lights in the center create a cozy atmosphere in the early dark."
+              }
+            },
+            {
+              "name": "Odder Church",
+              "tip_5lang": {
+                "de": "Die Kirche ist im Winter dezent beheizt und lädt zur Ruhe ein.",
+                "hu": "A templom télen is fűtött, ideális hely egy rövid benti pihenőre.",
+                "ro": "Biserica este încălzită discret iarna, fiind un loc bun de popas.",
+                "en": "The church is subtly heated in winter, perfect for a short indoor break."
+              }
+            },
+            {
+              "name": "Odder Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie die eingeschränkten Winteröffnungszeiten vor Ihrem Besuch.",
+                "hu": "Indulás előtt ellenőrizze a múzeum téli, rövidített nyitvatartását.",
+                "ro": "Verificați programul redus de iarnă al muzeului înainte de vizită.",
+                "en": "Check the museum's shortened winter opening hours before your visit."
+              }
+            },
+            {
+              "name": "The Garden of Ecology (Økologiens Have)",
+              "tip_5lang": {
+                "de": "Der Garten zeigt im Winter interessante gefrorene Strukturen und Gräser.",
+                "hu": "A kert ilyenkor a deres növények és fagyott termések látványát kínálja.",
+                "ro": "Grădina oferă peisaje deosebite cu plante înghețate și brumă.",
+                "en": "The garden showcases beautiful frozen structures and winter flora."
+              }
+            },
+            {
+              "name": "Fru Møllers Mølleri (Mrs. Møller's Mill)",
+              "tip_5lang": {
+                "de": "Frisch gebackenes Brot und heißer Kakao wärmen nach der Wanderung auf.",
+                "hu": "A friss péksütemények és a forró kakaó tökéletes zárása a téli túrának.",
+                "ro": "Pâinea proaspăt coaptă și ciocolata caldă sunt perfecte după plimbare.",
+                "en": "Freshly baked bread and hot cocoa are perfect for warming up after the walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten Kleidung gegen den kalten Ostwind.",
+              "Die Sonne geht bereits gegen 16:00 Uhr unter, planen Sie das Ende ein.",
+              "Achten Sie auf vereiste Stellen auf den Kopfsteinpflasterwegen.",
+              "Viele Cafés schließen im Winter früher als im Sommer.",
+              "Thermosocken sind für den Aufenthalt im Freien unbedingt ratsam."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a keleti irányból érkező hideg tengeri szél miatt.",
+              "A nap 16:00 körül nyugszik, a szabadtéri programokat végezze el korábban.",
+              "Vigyázzon a jeges foltokra a macskaköves utcarészeken.",
+              "A helyi kávézók télen gyakran korábban zárnak.",
+              "A gyapjúzokni és a bélelt kesztyű kötelező kiegészítő Odderben."
+            ],
+            "ro": [
+              "Purtați haine în straturi împotriva vântului rece dinspre mare.",
+              "Soarele apune în jurul orei 16:00, planificați activitățile în avans.",
+              "Atenție la porțiunile de gheață de pe trotuarele cu piatră cubică.",
+              "Multe cafenele au program scurt în timpul lunilor de iarnă.",
+              "Șosetele termice sunt esențiale pentru plimbările lungi în aer liber."
+            ],
+            "en": [
+              "Wear multiple layers to protect against the biting eastern sea wind.",
+              "Sunset is around 4:00 PM, so finish outdoor activities early.",
+              "Watch out for icy patches on cobblestone street sections.",
+              "Local cafes and shops often close earlier during winter months.",
+              "Thermal socks and insulated gloves are highly recommended."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -694,6 +866,196 @@
           "Plan for a buffer for unexpected stops, the landscape is full of surprises.",
           "A helmet is strongly recommended, especially on country roads."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radausflug startet im geschützten Odder Museum. Danach führt die Route unter das Blätterdach bei Rathlousdal, das ersten Schutz bietet. Mittags besichtigen Sie die Ruinen von Bjørnkær, wo alte Mauern Windschatten spenden. Nach einer Stärkung bei Fru Møller erreichen Sie die windgepeitschte Küste bei Saksild.",
+            "hu": "A kerékpáros túra a fedett Odder múzeumból indul. Az útvonal a rathlousdali erdő fái alatt folytatódik, melyek felfogják az eső egy részét. Délben Bjørnkær várromjainál a falak tövében pihenhet meg. Fru Møller finomságai után a saksildi tengerparton figyelheti meg a viharos hullámokat.",
+            "ro": "Excursia pe bicicletă începe la muzeul acoperit. Traseul continuă sub coronamentul pădurii la Rathlousdal. La prânz, vizitați ruinele Bjørnkær, unde zidurile vechi oferă adăpost contra vântului. După un popas la fermă, ajungeți la coasta bătută de ploaie din Saksild.",
+            "en": "The bike trip starts at the indoor Odder Museum. The route then leads under the tree canopy at Rathlousdal for some natural shelter. At noon, visit the Bjørnkær ruins where old walls provide windbreaks. After a break at the farm shop, reach the windswept coast at Saksild."
+          },
+          "stops": [
+            {
+              "name": "Odder Museum",
+              "tip_5lang": {
+                "de": "Warten Sie hier stärkere Regenschauer ab, bevor Sie losfahren.",
+                "hu": "Érdemes itt kivárni a nagyobb záporokat az indulás előtt.",
+                "ro": "Așteptați aici trecerea ploilor torențiale înainte de a pleca.",
+                "en": "Wait out heavier rain showers here before starting your ride."
+              }
+            },
+            {
+              "name": "Rathlousdal Manor",
+              "tip_5lang": {
+                "de": "Die Alleen bieten einen gewissen Schutz vor direktem Schlagregen.",
+                "hu": "A kastélyhoz vezető fasorok felfogják a szél és az eső erejét.",
+                "ro": "Aleile cu arbori oferă o oarecare protecție împotriva ploii directe.",
+                "en": "The tree-lined avenues provide some cover from direct driving rain."
+              }
+            },
+            {
+              "name": "Bjørnkær Castle Ruin",
+              "tip_5lang": {
+                "de": "Vorsicht auf den grasbewachsenen Wegen rund um die Ruinen.",
+                "hu": "Vigyázzon a fűvel benőtt, sáros utakra a várromok környékén.",
+                "ro": "Atenție pe potecile cu iarbă din jurul ruinelor, pot fi alunecoase.",
+                "en": "Be careful on the grassy paths around the ruins as they get slick."
+              }
+            },
+            {
+              "name": "Fru Møllers Mølleri",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich direkt am überdachten Laden.",
+                "hu": "A kerékpártárolók közvetlenül a fedett épület mellett találhatók.",
+                "ro": "Suporturile de biciclete sunt situate chiar lângă magazinul acoperit.",
+                "en": "Bike racks are located right next to the covered shop building."
+              }
+            },
+            {
+              "name": "Saksild Beach",
+              "tip_5lang": {
+                "de": "Das Strandcafé ist ein guter Ort, um den Blick aufs Meer im Trockenen zu genießen.",
+                "hu": "A tengerparti büfében fedett helyen nézheti a viharos tengert.",
+                "ro": "Cafeneaua de pe plajă este locul perfect pentru a privi marea la adăpost.",
+                "en": "The beach cafe is a good spot to enjoy the sea view while staying dry."
+              }
+            },
+            {
+              "name": "Back to Odder Center",
+              "tip_5lang": {
+                "de": "Die Rückfahrt führt über asphaltierte Radwege mit guter Entwässerung.",
+                "hu": "A visszaút aszfaltozott kerékpárúton vezet, ahol nem áll meg a víz.",
+                "ro": "Drumul de întoarcere este pe piste asfaltate cu drenaj bun.",
+                "en": "The ride back is on paved bike paths with good drainage."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung und wasserdichte Packtaschen sind nötig.",
+              "Vermeiden Sie bei Nässe die unbefestigten Waldwege bei Bjørnkær.",
+              "Prüfen Sie Ihre Bremsbeläge, da der Bremsweg bei Regen länger ist.",
+              "Nutzen Sie die Radwege entlang der Hauptstraßen für besseren Halt.",
+              "In Küstennähe kann der Wind bei Regen stark und böig sein."
+            ],
+            "hu": [
+              "Teljes esőruházat és vízálló táskák használata erősen javasolt.",
+              "Kerülje a Bjørnkær környéki erdei utakat, ha nagyon feláztak.",
+              "Ellenőrizze a fékeket, mert vizes úton hosszabb a fékút.",
+              "Használja a főút melletti aszfaltozott kerékpárutakat a jobb tapadásért.",
+              "A tengerpart közelében az eső mellé gyakran erős széllökések társulnak."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie și gențile impermeabile sunt necesare.",
+              "Evitați drumurile de pământ prin pădure dacă a plouat mult.",
+              "Verificați frânele, distanța de frânare crește pe asfalt ud.",
+              "Folosiți pistele de biciclete asfaltate pentru o aderență mai bună.",
+              "Lângă coastă, vântul poate fi puternic și în rafale în timpul ploii."
+            ],
+            "en": [
+              "Full waterproof gear and dry bags for your panniers are a must.",
+              "Avoid unpaved forest paths around Bjørnkær if it's heavily raining.",
+              "Test your brakes frequently as stopping distances increase on wet roads.",
+              "Stick to the main paved cycling paths for better traction.",
+              "Be prepared for sudden gusts of wind near the Saksild coastline."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt im Museum, wo es warm und trocken ist. Die Fahrt zum Herrenhaus Rathlousdal ist kurz, aber erfrischend kalt. Mittags bietet Bjørnkær einen Blick auf die frostige Geschichte Jütlands. Nach einem heißen Kaffee bei Fru Møller führt die Tour zum winterlichen Saksild Strand, bevor Sie vor Dunkelheit zurückkehren.",
+            "hu": "A téli reggelt a múzeumban indíthatja, amíg a nap magasabbra hág. A Rathlousdal felé tartó tekerés rövid, de frissítően hideg lesz. Délben Bjørnkær romjai között a jütlandi tél hangulata fogadja. Egy forró kávé után a saksildi strand fagyos homokja következik, majd irány vissza a városba.",
+            "ro": "Dimineața de iarnă începe la muzeu, într-un mediu cald. Drumul spre conacul Rathlousdal este scurt, dar revigorant de rece. La prânz, Bjørnkær oferă o privire asupra istoriei înghețate a Iutlandei. După o cafea fierbinte la fermă, turul ajunge la plaja Saksild înainte de lăsarea întunericului.",
+            "en": "Start your winter morning at the warm museum. The ride to Rathlousdal Manor is short but refreshingly cold. At noon, Bjørnkær offers a glimpse into Jutland's frosty history. After a hot coffee at the farm, head to the wintry Saksild Beach before returning before dark."
+          },
+          "stops": [
+            {
+              "name": "Odder Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich hier auf, bevor Sie die längere Strecke antreten.",
+                "hu": "Melegedjen fel alaposan a múzeumban a hosszabb szakasz előtt.",
+                "ro": "Încălziți-vă bine aici înainte de a porni pe segmentul mai lung.",
+                "en": "Warm up thoroughly inside the museum before starting the longer ride."
+              }
+            },
+            {
+              "name": "Rathlousdal Manor",
+              "tip_5lang": {
+                "de": "Die freien Felder rund um das Gut können im Winter sehr zugig sein.",
+                "hu": "A kastély körüli nyílt mezőkön télen igen erős lehet a huzat.",
+                "ro": "Câmpurile deschise din jurul conacului pot fi foarte bătute de vânt.",
+                "en": "The open fields around the manor can be very draughty in winter."
+              }
+            },
+            {
+              "name": "Bjørnkær Castle Ruin",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif oder Glätte auf den Holzelementen der Anlage.",
+                "hu": "Vigyázzon a zúzmarás vagy jeges fafelületekre a romok környékén.",
+                "ro": "Atenție la brumă sau gheață pe elementele din lemn ale sitului.",
+                "en": "Watch out for frost or ice on the wooden structures around the ruins."
+              }
+            },
+            {
+              "name": "Fru Møllers Mølleri",
+              "tip_5lang": {
+                "de": "Die Bäckerei ist ein idealer Stopp, um die eingefrorenen Finger aufzuwärmen.",
+                "hu": "A pékség a legjobb hely az átfagyott ujjak felmelegítésére.",
+                "ro": "Brutăria este locul ideal pentru a vă încălzi mâinile înghețate.",
+                "en": "The bakery is the ideal spot to warm up frozen fingers with a hot drink."
+              }
+            },
+            {
+              "name": "Saksild Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft, aber halten Sie den Aufenthalt kurz.",
+                "hu": "Élvezze a tiszta téli levegőt, de ne maradjon túl sokáig a parton.",
+                "ro": "Bucurați-vă de aerul curat de iarnă, dar nu zăboviți prea mult la mal.",
+                "en": "Enjoy the crisp winter air, but keep your stay on the beach brief."
+              }
+            },
+            {
+              "name": "Back to Odder Center",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung voll funktionsfähig ist.",
+                "hu": "Győződjön meg róla, hogy a kerékpár lámpái tökéletesen működnek.",
+                "ro": "Asigurați-vă că luminile bicicletei sunt complet funcționale.",
+                "en": "Ensure your bike lights are fully functional for the ride back in twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie bei Temperaturen um den Gefrierpunkt unbedingt Winterhandschuhe.",
+              "Die Radwege nach Saksild sind meist geräumt, aber Vorsicht vor Glatteis.",
+              "Akku-Lampen entladen sich bei Kälte schneller; nehmen Sie Ersatz mit.",
+              "Fahren Sie defensiv, da Autofahrer Radfahrer im Winter oft schlechter sehen.",
+              "Ein Schllauchtuch (Buff) schützt das Gesicht vor dem eisigen Fahrtwind."
+            ],
+            "hu": [
+              "Fagypont közeli hőmérsékletnél kötelező a bélelt téli kerékpáros kesztyű.",
+              "A saksildi kerékpárutakat takarítják, de a felfagyásokra figyelni kell.",
+              "A lámpák akkumulátora gyorsabban merül hidegben, legyen tartalék.",
+              "Vezessen óvatosan, a sofőrök télen kevésbé számítanak biciklisekre.",
+              "A csősál vagy maszk megvédi az arcát a metsző téli menetszéltől."
+            ],
+            "ro": [
+              "Folosiți mănuși de iarnă groase la temperaturi apropiate de îngheț.",
+              "Pistele spre Saksild sunt de obicei deszăpezite, dar atenție la polei.",
+              "Bateriile luminilor se descarcă mai repede la frig; luați rezerve.",
+              "Conduceți defensiv, vizibilitatea este redusă iarna pentru șoferi.",
+              "O eșarfă tip tub protejează fața de vântul tăios în timpul mersului."
+            ],
+            "en": [
+              "Insulated winter gloves are mandatory when temperatures approach freezing.",
+              "The paths to Saksild are usually cleared, but watch out for black ice.",
+              "Battery-powered lights drain faster in the cold; carry spares.",
+              "Ride defensively as drivers may not expect cyclists in winter conditions.",
+              "A neck gaiter or buff will protect your face from the freezing headwind."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1074,6 +1436,214 @@
           "Be mindful of cyclists on country roads.",
           "Use a GPS app, as some smaller roads can be poorly marked."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt am Saksild Strand, wo Sie den Regen über dem Meer vom Auto aus beobachten. Danach geht es zum gemütlichen Hofladen Fru Møller. Mittags besuchen Sie kurz die Außenanlagen von Rathlousdal und Bjørnkær, bevor Sie den Nachmittag trocken im Odder Museum und der Kirche im Zentrum verbringen.",
+            "hu": "Az utazás a saksildi tengerparton indul, ahol az autóból nézheti a tenger feletti esőfüggönyt. Ezután a barátságos Fru Møller gazdaság felé veszi az irányt. Délben Rathlousdal és Bjørnkær látnivalóit érinti, majd a délutánt az Odder múzeum és templom fedett tereiben zárja.",
+            "ro": "Călătoria începe la plaja Saksild, unde puteți admira marea din confortul mașinii. Urmează magazinul primitor de la ferma Fru Møller. La prânz vizitați exteriorul conacului și ruinele, apoi petreceți după-amiaza la muzeu și la biserica din centru.",
+            "en": "The trip starts at Saksild Beach, where you can watch the rain over the sea from your car. Then, head to the cozy Fru Møller farm shop. At noon, visit the manor and ruins briefly before spending the afternoon dry at the Odder Museum and church."
+          },
+          "stops": [
+            {
+              "name": "Parking at Saksild Beach",
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf das Meer, um die Brandung im Trockenen zu sehen.",
+                "hu": "Parkoljon a tenger felé fordulva, így az autóból is élvezheti a látványt.",
+                "ro": "Parcați cu fața spre mare pentru a vedea valurile fără a ieși din mașină.",
+                "en": "Park facing the sea to enjoy the surf view from the comfort of your car."
+              }
+            },
+            {
+              "name": "Saksild Beach",
+              "tip_5lang": {
+                "de": "Kurze Spaziergänge am Wasser sind zwischen den Schauern möglich.",
+                "hu": "Két zápor között érdemes tenni egy rövid sétát közvetlenül a vízparton.",
+                "ro": "Scurte plimbări pe mal sunt posibile între reprizele de ploaie.",
+                "en": "Short walks along the water are possible between passing showers."
+              }
+            },
+            {
+              "name": "Fru Møllers Mølleri",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt vor dem Eingang zum überdachten Markt.",
+                "hu": "Tágas parkoló várja közvetlenül a fedett piaci rész bejárata előtt.",
+                "ro": "Parcare generoasă situată chiar în fața intrării în magazinul acoperit.",
+                "en": "Ample parking is available right in front of the covered market entrance."
+              }
+            },
+            {
+              "name": "Rathlousdal Manor",
+              "tip_5lang": {
+                "de": "Die Zufahrt zum Gut bietet auch vom Auto aus schöne Ausblicke.",
+                "hu": "A birtokra vezető út az autóból is szép kilátást nyújt az épületre.",
+                "ro": "Drumul de acces spre conac oferă vederi frumoase chiar și din mașină.",
+                "en": "The access road to the manor offers lovely views even from the car window."
+              }
+            },
+            {
+              "name": "Bjørnkær Castle Ruin",
+              "tip_5lang": {
+                "de": "Der Parkplatz liegt nah an den Ruinen, was den Fußweg kurz hält.",
+                "hu": "A parkoló közel van a romokhoz, így csak keveset kell az esőben gyalogolni.",
+                "ro": "Parcarea este aproape de ruine, scurtând timpul petrecut în ploaie.",
+                "en": "The parking lot is near the ruins, keeping the walk in the rain brief."
+              }
+            },
+            {
+              "name": "Odder Town Center Parking",
+              "tip_5lang": {
+                "de": "Nutzen Sie die zentralen Parkplätze für schnellen Zugang zu den Gebäuden.",
+                "hu": "Használja a központi parkolókat a múzeum és a templom gyors eléréséhez.",
+                "ro": "Folosiți parcările centrale pentru acces rapid la muzeu și biserică.",
+                "en": "Use central parking lots for quick access to the museum and church."
+              }
+            },
+            {
+              "name": "Odder Church & Museum",
+              "tip_5lang": {
+                "de": "Beide Standorte liegen nah beieinander, ideal für einen Regentag.",
+                "hu": "A két helyszín közel van egymáshoz, így minimális az ázási lehetőség.",
+                "ro": "Ambele obiective sunt aproape unul de altul, fiind ideale pe ploaie.",
+                "en": "Both sites are close to each other, minimizing exposure to the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den tiefliegenden Landstraßen.",
+              "Die Parkplätze an den Sehenswürdigkeiten sind bei Regen oft leerer.",
+              "Halten Sie die Frontscheibe mit der Klimaanlage beschlagfrei.",
+              "Einige Zufahrten zu Bauernhöfen können bei starkem Regen matschig sein.",
+              "Nutzen Sie die Zeit im Auto, um regionale Radiosender zu hören."
+            ],
+            "hu": [
+              "Vigyázzon a víztócsákra a mélyebben fekvő vidéki utakon.",
+              "Esőben a látnivalók parkolói általában üresebbek.",
+              "Használja a klímát a szélvédő párátlanítására a jobb látási viszonyokért.",
+              "A tanyákhoz vezető mellékutak esőben sárosak lehetnek.",
+              "Az autózás alatt hallgasson helyi dán rádióadókat a hangulat kedvéért."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile județene joase.",
+              "Parcările de la obiectivele turistice sunt mai libere pe ploaie.",
+              "Folosiți aerul condiționat pentru a preveni aburirea parbrizului.",
+              "Drumurile de acces spre ferme pot deveni noroioase după ploi grele.",
+              "Profită de timpul în mașină pentru a asculta posturi de radio locale."
+            ],
+            "en": [
+              "Watch out for hydroplaning on low-lying rural roads near Odder.",
+              "Parking lots at major attractions are often less crowded in the rain.",
+              "Keep your windshield clear by using the air conditioning defogger.",
+              "Some farm access roads may be muddy after heavy rainfall.",
+              "Use the drive time to enjoy local Danish radio stations."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Wintertag mit einer Fahrt zum eisigen Saksild Strand. Nach einem kurzen Strandspaziergang wärmt das Auto Sie auf dem Weg zu Fru Møller wieder auf. Mittags besichtigen Sie die frostigen Güter Rathlousdal und Bjørnkær, bevor Sie den Tag im beheizten Zentrum von Odder beenden.",
+            "hu": "Kezdje a téli napot a fagyos saksildi tengerparton. Egy rövid parti séta után az autó melegében utazhat Fru Møller gazdaságáig. Délben nézze meg a deres Rathlousdal és Bjørnkær birtokokat, majd zárja a napot Odder hangulatos, fűtött belvárosában.",
+            "ro": "Începeți ziua de iarnă cu o plimbare la plaja înghețată Saksild. După aceea, încălziți-vă în mașină în drum spre ferma Fru Møller. La prânz, vizitați conacul și ruinele brumate, apoi încheiați ziua în centrul încălzit al orașului.",
+            "en": "Start your winter day with a drive to the frosty Saksild Beach. After a brief walk, warm up in the car on your way to Fru Møller's farm. At noon, visit the frosty manor and ruins before ending the day in Odder's heated town center."
+          },
+          "stops": [
+            {
+              "name": "Parking at Saksild Beach",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Spritzwasser auf dem Parkplatzbelag.",
+                "hu": "Vigyázzon a parkoló burkolatára fagyott vízpermet miatti csúszásveszélyre.",
+                "ro": "Atenție la apa înghețată pe suprafața parcării de lângă mal.",
+                "en": "Watch out for frozen sea spray on the parking lot surface."
+              }
+            },
+            {
+              "name": "Saksild Beach",
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter oft menschenleer und bietet weite Sichten.",
+                "hu": "A tengerpart télen szinte üres, lenyűgöző a tiszta, messzi kilátás.",
+                "ro": "Plaja este adesea pustie iarna, oferind peisaje spectaculoase.",
+                "en": "The beach is often deserted in winter, offering clear, vast views."
+              }
+            },
+            {
+              "name": "Fru Møllers Mølleri",
+              "tip_5lang": {
+                "de": "Decken Sie sich hier mit regionalen Wintervorräten und Gebäck ein.",
+                "hu": "Itt érdemes beszerezni a helyi téli készleteket és süteményeket.",
+                "ro": "Aprovizionați-vă de aici cu provizii regionale de iarnă și patiserie.",
+                "en": "Stock up on regional winter supplies and pastries at the farm shop."
+              }
+            },
+            {
+              "name": "Rathlousdal Manor",
+              "tip_5lang": {
+                "de": "Die Alleen wirken mit Raureif im Winter besonders malerisch.",
+                "hu": "A kastélyhoz vezető fasor zúzmarásan különösen szép látvány.",
+                "ro": "Aleile cu arbori par de poveste atunci când sunt acoperite de brumă.",
+                "en": "The tree-lined avenues look particularly picturesque with winter frost."
+              }
+            },
+            {
+              "name": "Bjørnkær Castle Ruin",
+              "tip_5lang": {
+                "de": "Der Boden an den Ruinen kann tiefgefroren und sehr uneben sein.",
+                "hu": "A romok körüli talaj mélyen átfagyott és egyenetlen lehet.",
+                "ro": "Solul de la ruine poate fi înghețat și foarte denivelat.",
+                "en": "The ground at the ruins can be frozen solid and very uneven."
+              }
+            },
+            {
+              "name": "Odder Town Center Parking",
+              "tip_5lang": {
+                "de": "Die Parkplätze im Zentrum werden bei Schnee zuverlässig geräumt.",
+                "hu": "A központi parkolókat hóesés után is gyorsan letakarítják.",
+                "ro": "Parcările din centru sunt curățate rapid în caz de ninsoare.",
+                "en": "Town center parking lots are reliably cleared of snow."
+              }
+            },
+            {
+              "name": "Odder Church & Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme in den Gebäuden nach den Stopps im Freien.",
+                "hu": "Élvezze az épületek melegét a kinti megállók után.",
+                "ro": "Bucurați-vă de căldura din interior după opririle în aer liber.",
+                "en": "Enjoy the warmth of the buildings after your outdoor stops."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Dänemark bei diesen Bedingungen Pflicht.",
+              "Führen Sie einen Eiskratzer und Frostschutzmittel im Auto mit.",
+              "Achten Sie auf Wildwechsel in der Dämmerung auf den Landstraßen.",
+              "Die Batterieleistung kann bei extremer Kälte nachlassen.",
+              "Küstennah kann es zu plötzlich auftretendem Seenebel kommen."
+            ],
+            "hu": [
+              "Téli gumi használata Dániában ilyenkor alapvető követelmény.",
+              "Legyen az autóban jégkaparó és téli szélvédőmosó folyadék.",
+              "Vigyázzon a vadakra az alkonyati órákban a vidéki utakon.",
+              "A rendkívüli hidegben az akkumulátor teljesítménye csökkenhet.",
+              "A tengerpart közelében hirtelen kialakuló ködre kell számítani."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Danemarca în aceste condiții.",
+              "Aveți întotdeauna în mașină o răzuitoare de gheață și lichid de parbriz.",
+              "Atenție la animalele sălbatice pe drumurile rurale la amurg.",
+              "Performanța bateriei auto poate scădea la temperaturi extreme.",
+              "Lângă coastă poate apărea brusc ceața marină densă."
+            ],
+            "en": [
+              "Winter tires are essential and mandatory in Denmark for these conditions.",
+              "Keep an ice scraper and winter windshield fluid in your car.",
+              "Watch for wildlife crossing the rural roads during the early dusk.",
+              "Battery performance may decrease during periods of extreme cold.",
+              "Be prepared for sudden sea fog near the coastal sections of the route."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1406,6 +1976,178 @@
           "Buses usually accept cards, but having some cash doesn't hurt.",
           "Ask the locals, they are often very helpful with directions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nach der Ankunft am Bahnhof Odder führt der kurze Weg direkt ins Museum und die Kirche, wo Sie trocken bleiben. Mittags besuchen Sie den Ökologie-Garten, dessen Gewächshäuser Schutz bieten. Mit dem Bus geht es nach Saksild, um das Meer zu sehen, bevor der Zug Sie am Abend zurückbringt.",
+            "hu": "Az odderi vasútállomásra érkezve egy rövid séta után a múzeumban és a templomban találhat menedéket. Délben az Ökológiai Kert üvegházai nyújtanak száraz látnivalót. Busszal látogasson el Saksildba a tengeri levegőért, majd este induljon vissza a vonattal.",
+            "ro": "După sosirea la gara din Odder, drumul scurt duce direct la muzeu și biserică. La prânz, vizitați Grădina Ecologică, unde serele oferă adăpost. Luați autobuzul spre Saksild pentru aerul mării, apoi reveniți cu trenul seara.",
+            "en": "After arriving at Odder Station, a short walk takes you to the museum and church for a dry start. At noon, visit the Ecology Garden, where greenhouses provide shelter. Take the bus to Saksild to see the sea before returning by train in the evening."
+          },
+          "stops": [
+            {
+              "name": "Odder Train Station",
+              "tip_5lang": {
+                "de": "Warten Sie im beheizten Warteraum auf Ihren Bus oder Zug.",
+                "hu": "Várja a fűtött váróteremben a csatlakozó buszt vagy vonatot.",
+                "ro": "Așteptați autobuzul sau trenul în sala de așteptare încălzită.",
+                "en": "Wait for your bus or train connection in the heated waiting room."
+              }
+            },
+            {
+              "name": "Odder Museum & Church",
+              "tip_5lang": {
+                "de": "Diese Sehenswürdigkeiten sind vom Bahnhof aus schnell zu Fuß erreichbar.",
+                "hu": "Ezek a látnivalók gyorsan elérhetők gyalogosan az állomástól.",
+                "ro": "Aceste obiective sunt ușor accesibile pe jos de la gară.",
+                "en": "These attractions are a quick walk from the station, minimizing rain exposure."
+              }
+            },
+            {
+              "name": "The Garden of Ecology (Økologiens Have)",
+              "tip_5lang": {
+                "de": "Die Gewächshäuser sind bei Regen der beste Ort im Garten.",
+                "hu": "Az üvegházak a kert legjobb részei egy esős napon.",
+                "ro": "Serele sunt cele mai bune locuri din grădină în timpul ploii.",
+                "en": "The greenhouses are the best places to explore in the garden on a rainy day."
+              }
+            },
+            {
+              "name": "Saksild Beach",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle in Saksild bietet ein Wartehäuschen mit Unterstand.",
+                "hu": "A saksildi buszmegállóban fedett várakozóhely található.",
+                "ro": "Stația de autobuz din Saksild are un adăpost pentru călători.",
+                "en": "The bus stop in Saksild features a shelter to keep you dry while waiting."
+              }
+            },
+            {
+              "name": "Return to Odder Station",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten der Letbane bequem per App.",
+                "hu": "Ellenőrizze a Letbane (gyorsvasút) indulási idejét kényelmesen az appban.",
+                "ro": "Verificați programul Letbane direct în aplicația de transport.",
+                "en": "Check the Letbane (light rail) departure times easily via the mobile app."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Letbane-Züge sind modern, klimatisiert und bieten WLAN.",
+              "Kaufen Sie Ihr Ticket vorab online, um Wartezeiten im Freien zu vermeiden.",
+              "Busverbindungen nach Saksild können bei Regen verspätet sein.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zwischen den Haltestellen.",
+              "Nutzen Sie die App 'Rejseplanen' für Echtzeit-Verkehrsinfos."
+            ],
+            "hu": [
+              "A Letbane szerelvények modernek, fűtöttek és van rajtuk wifi.",
+              "Vegye meg jegyét online, hogy ne kelljen kint várakoznia az automatánál.",
+              "A Saksildba tartó buszok esőben néha késhetnek a forgalom miatt.",
+              "Viseljen vízálló ruhát a megállók közötti gyalogos szakaszokon.",
+              "Használja a 'Rejseplanen' alkalmazást a valós idejű menetrendekhez."
+            ],
+            "ro": [
+              "Trenurile Letbane sunt moderne, încălzite și au Wi-Fi.",
+              "Cumpărați biletele online pentru a evita așteptarea la automate în ploaie.",
+              "Autobuzele spre Saksild pot avea întârzieri pe timp de ploaie.",
+              "Purtați haine impermeabile pentru segmentele de mers pe jos între stații.",
+              "Folosiți aplicația 'Rejseplanen' pentru informații în timp real."
+            ],
+            "en": [
+              "The Letbane light rail trains are modern, heated, and offer free Wi-Fi.",
+              "Buy your tickets online to avoid waiting at outdoor machines.",
+              "Bus connections to Saksild might experience slight delays in heavy rain.",
+              "Wear waterproof clothing for the walking sections between stops.",
+              "Use the 'Rejseplanen' app for real-time transit updates and schedules."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag beginnt mit der Ankunft am Bahnhof Odder. Ein kurzer Spaziergang führt ins warme Museum. Danach besuchen Sie den Garten, der im Winter oft magisch mit Reif bedeckt ist. Mit dem Bus geht es zum Saksild Strand für die klare Seeluft, bevor Sie sich im warmen Zug aufwärmen.",
+            "hu": "A téli nap az odderi vasútállomáson indul, ahonnan rövid séta vezet a meleg múzeumba. Ezután a téli kert deres növényei következnek. Busszal menjen ki a saksildi partra a tiszta tengeri levegőért, majd melegedjen fel a visszaúton a vonaton.",
+            "ro": "Ziua de iarnă începe la gara din Odder. O scurtă plimbare vă duce la muzeul călduros. Apoi vizitați grădina, care iarna este adesea acoperită de brumă. Luați autobuzul spre Saksild, iar apoi încălziți-vă în tren pe drumul de întoarcere.",
+            "en": "Your winter day starts at Odder Station, followed by a short walk to the warm museum. Then visit the garden, which is often magically covered in frost. Take the bus to Saksild for the crisp sea air before warming up on the train home."
+          },
+          "stops": [
+            {
+              "name": "Odder Train Station",
+              "tip_5lang": {
+                "de": "Die Bahnhofshalle ist im Winter ein sicherer Ort zum Aufwärmen.",
+                "hu": "Az állomásépület télen biztos pont a felmelegedésre.",
+                "ro": "Gara este un loc sigur și încălzit pentru a vă odihni iarna.",
+                "en": "The station building is a reliable place to warm up in winter."
+              }
+            },
+            {
+              "name": "Odder Museum & Church",
+              "tip_5lang": {
+                "de": "Die Wege im Zentrum werden bei Schnee schnell und gründlich geräumt.",
+                "hu": "A belvárosi járdákat hóesés után gyorsan és alaposan takarítják.",
+                "ro": "Trotuarele din centru sunt curățate rapid de zăpadă.",
+                "en": "Town center sidewalks are cleared of snow quickly and thoroughly."
+              }
+            },
+            {
+              "name": "The Garden of Ecology (Økologiens Have)",
+              "tip_5lang": {
+                "de": "Der Garten schließt im Winter früher, planen Sie den Besuch vor 15:00 Uhr.",
+                "hu": "A kert télen korábban zár, tervezze látogatását 15:00 óra elé.",
+                "ro": "Grădina se închide mai devreme iarna, planificați vizita înainte de 15:00.",
+                "en": "The garden closes earlier in winter; aim to visit before 3:00 PM."
+              }
+            },
+            {
+              "name": "Saksild Beach",
+              "tip_5lang": {
+                "de": "Der Busfahrplan nach Saksild ist im Winter oft etwas ausgedünnt.",
+                "hu": "A Saksildba tartó buszok menetrendje télen ritkább lehet.",
+                "ro": "Programul autobuzelor spre Saksild este redus în timpul iernii.",
+                "en": "The bus schedule to Saksild is often reduced during the winter months."
+              }
+            },
+            {
+              "name": "Return to Odder Station",
+              "tip_5lang": {
+                "de": "Die Züge verkehren auch im Winter meist sehr pünktlich.",
+                "hu": "A vonatok télen is általában nagy pontossággal közlekednek.",
+                "ro": "Trenurile circulă de obicei cu mare punctualitate și iarna.",
+                "en": "The light rail trains usually maintain high punctuality even in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In den dänischen Zügen ist es oft sehr warm, nutzen Sie Zwiebelprinzip.",
+              "Die Wartezeiten im Freien sind dank dichter Taktung kurz.",
+              "Achten Sie auf Glätte an den Bahnsteigen und Bushaltestellen.",
+              "Trinken Sie einen warmen Tee aus der Thermoskanne während der Fahrt.",
+              "Die Abenddämmerung beginnt früh, die Züge sind dann oft beleuchtet."
+            ],
+            "hu": [
+              "A dán vonatokon gyakran meleg van, öltözzön rétegesen.",
+              "A sűrű menetrend miatt a kinti várakozási idő minimális.",
+              "Vigyázzon a csúszásveszélyre a peronokon és a megállókban.",
+              "Érdemes egy termosz meleg teát magával vinni az útra.",
+              "Az alkonyat korán jön, a vonatok belső világítása ilyenkor hangulatos."
+            ],
+            "ro": [
+              "În trenurile daneze este adesea foarte cald, purtați haine în straturi.",
+              "Timpii de așteptare afară sunt scurți datorită frecvenței mari a curselor.",
+              "Atenție la polei pe peroane și în stațiile de autobuz.",
+              "Luați un termos cu ceai cald pentru segmentele de călătorie.",
+              "Amurgul vine devreme, iar trenurile sunt bine iluminate în interior."
+            ],
+            "en": [
+              "Danish trains are often very warm; use layers for easy adjustment.",
+              "Outdoor waiting times are short thanks to high transit frequency.",
+              "Be cautious of slippery patches on platforms and at bus stops.",
+              "Carry a thermos with a warm drink for your transit segments.",
+              "Dusk falls early, making the brightly lit train interiors feel cozy."
+            ]
+          }
+        }
       }
     }
   }

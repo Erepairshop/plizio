@@ -438,6 +438,206 @@
           "When the sun is strong, the museum works best as your midday break.",
           "Treat the beach as a long finish, not a quick in-between stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie an der Rambla unter den schützenden Arkaden der Cafés. Mittags bietet das Museum von Badalona einen perfekten Zufluchtsort in der unterirdischen Römerstadt Baetulo. Am Nachmittag schützt die Besichtigung der Anís del Mono Fabrik vor dem Guss. Den Abend verbringen wir bei Meeresrauschen im Schutz eines Strandrestaurants.",
+            "hu": "Kezdje a napot a Rambla kávézóinak előtetői alatt. Délben a Badalonai Múzeum nyújt menedéket: a föld alatti római város, Baetulo falai között garantáltan száraz marad. Délután az Anís del Mono gyár látogatása tökéletes beltéri program. Az estét a tengerparti sétány egyik fedett teraszán zárjuk az eső kopogását hallgatva.",
+            "ro": "Începeți ziua pe Rambla, profitând de copertinele cafenelelor. La prânz, Muzeul din Badalona oferă adăpostul ideal în orașul roman subteran Baetulo. După-amiaza, turul fabricii Anís del Mono vă ferește de ploaie. Seara se încheie pe faleză, admirând marea de la adăpostul unei terase acoperite.",
+            "en": "Start your day on the Rambla, staying close to the cafe awnings. At noon, the Badalona Museum provides the perfect indoor escape within the underground Roman city of Baetulo. In the afternoon, the Anís del Mono factory tour keeps you dry. Finish the evening by the sea, enjoying the sound of rain from a sheltered beach restaurant."
+          },
+          "stops": [
+            {
+              "name": "Badalona Rambla",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Markisen der Cafés als Regenschutz beim Gehen.",
+                "hu": "Használja a kávézók előtetőit esernyő helyett a sétához.",
+                "ro": "Folosiți copertinele cafenelelor pentru a evita ploaia în timpul mersului.",
+                "en": "Use the cafe awnings as natural shelters while walking along the promenade."
+              }
+            },
+            {
+              "name": "Casa Pavillard",
+              "tip_5lang": {
+                "de": "Bewundern Sie die modernistische Fassade kurz unter einem Regenschirm.",
+                "hu": "Csodálja meg a modernista homlokzatot egy esernyő védelméből.",
+                "ro": "Admirați fațada modernistă rapid, protejat de o umbrelă.",
+                "en": "Admire the modernist facade briefly from under your umbrella."
+              }
+            },
+            {
+              "name": "Sant Jeroni Monastery",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Anstieg, die Wege können rutschig sein.",
+                "hu": "Vigyázat az emelkedőn, az ösvények csúszóssá válhatnak.",
+                "ro": "Atenție pe urcare, potecile pot deveni alunecoase de la ploaie.",
+                "en": "Be careful on the incline; the trails can get slippery when wet."
+              }
+            },
+            {
+              "name": "Badalona Museum",
+              "tip_5lang": {
+                "de": "Bester Ort bei Regen: Erkunden Sie die riesigen römischen Ruinen unter der Erde.",
+                "hu": "Legjobb hely esőben: fedezze fel a hatalmas föld alatti római romokat.",
+                "ro": "Cel mai bun loc pe ploaie: explorați ruinele romane vaste de sub pământ.",
+                "en": "Best rainy spot: explore the vast Roman ruins entirely underground."
+              }
+            },
+            {
+              "name": "Anís del Mono Factory",
+              "tip_5lang": {
+                "de": "Trockene Innenbesichtigung der historischen Brennerei.",
+                "hu": "Száraz beltéri látogatás a történelmi szeszfőzdében.",
+                "ro": "Vizită interioară uscată în distileria istorică.",
+                "en": "Enjoy a dry indoor tour of the historic modernist distillery."
+              }
+            },
+            {
+              "name": "Can Solei i Ca l'Arnús Park",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den großen Magnolienbäumen.",
+                "hu": "Keressen menedéket a hatalmas magnóliafák lombjai alatt.",
+                "ro": "Căutați adăpost sub ramurile mari ale magnoliilor.",
+                "en": "Find temporary shelter under the thick canopy of the large magnolia trees."
+              }
+            },
+            {
+              "name": "Badalona Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die stürmische See von einem Strandclub aus.",
+                "hu": "Élvezze a viharos tenger látványát egy tengerparti bár üvegfalai mögül.",
+                "ro": "Admirați marea agitată din spatele geamurilor unui club de plajă.",
+                "en": "Watch the dramatic stormy sea from the safety of a glass-walled beach club."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich auf der Rambla Pfützen bilden.",
+              "Das Museum von Badalona ist der ideale Ort, um zwei Stunden im Trockenen zu verbringen.",
+              "Die Züge der R1 halten direkt am Strand, ideal für kurze Wege.",
+              "Packen Sie einen stabilen Regenschirm ein, der Seewind kann stark sein."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a Rambla kövezetén megállhat a víz.",
+              "A Badalonai Múzeum tökéletes hely 2 óra száraz eltöltéséhez.",
+              "Az R1-es vonat megállója közvetlenül a parton van, minimalizálva az ázást.",
+              "Erős vázú esernyőt vigyen, a tengeri szél könnyen kifordíthatja a gyengébbeket."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, apa tinde să băltească pe Rambla.",
+              "Muzeul din Badalona este locul ideal pentru a petrece 2 ore la adăpost.",
+              "Trenul R1 oprește chiar lângă plajă, minimizând timpul petrecut în ploaie.",
+              "Luați o umbrelă rezistentă, vântul marin poate fi destul de puternic."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles tend to form on the Rambla pavement.",
+              "Badalona Museum is the ideal place to spend 2 dry hours underground.",
+              "The R1 train stop is right by the beach, minimizing your time in the rain.",
+              "Bring a sturdy umbrella; sea gusts can easily flip cheaper models."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die milde Wintersonne auf der Rambla. Mittags wärmt der Aufstieg zum Kloster Sant Jeroni den Körper auf. Das Museum von Badalona bietet am Nachmittag eine angenehm temperierte Pause. Da die Sonne gegen 17:30 Uhr untergeht, erreichen wir den Strand pünktlich zum farbenfrohen Dämmerlicht über dem Pont del Petroli.",
+            "hu": "Élvezze a lágy téli napsütést a Ramblán. Délben a Sant Jeroni kolostorhoz vezető emelkedő kellemesen átmozgatja a testet a hűvösebb időben. A Badalonai Múzeum délutáni látogatása temperált környezetet biztosít. Mivel a nap 17:30 körül nyugszik, a tengerpartra pont a Pont del Petroli feletti színes szürkületre érünk.",
+            "ro": "Bucurați-vă de soarele blând de iarnă pe Rambla. La prânz, urcarea spre mănăstirea Sant Jeroni vă va încălzi corpul. Muzeul din Badalona oferă o pauză temperată după-amiaza. Deoarece soarele apune în jur de 17:30, ajungem la plajă exact pentru amurgul colorat deasupra Pont del Petroli.",
+            "en": "Enjoy the mild winter sun on the Rambla. At noon, the walk up to Sant Jeroni Monastery provides a pleasant warm-up in the crisp air. The Badalona Museum offers a climate-controlled break in the afternoon. Since sunset is around 5:30 PM, we reach the beach just in time for the colorful twilight over Pont del Petroli."
+          },
+          "stops": [
+            {
+              "name": "Badalona Rambla",
+              "tip_5lang": {
+                "de": "Suchen Sie einen sonnigen Tisch für den ersten Kaffee des Tages.",
+                "hu": "Keressen egy napos asztalt a nap első kávéjához.",
+                "ro": "Căutați o masă însorită pentru prima cafea a zilei.",
+                "en": "Find a sunny table for your first coffee to soak up the morning rays."
+              }
+            },
+            {
+              "name": "Casa Pavillard",
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die Details der Glasarbeiten hervor.",
+                "hu": "A téli fények szépen kiemelik az üvegmunka részleteit.",
+                "ro": "Lumina de iarnă scoate în evidență detaliile vitraliilor.",
+                "en": "The winter light beautifully highlights the intricate glasswork details."
+              }
+            },
+            {
+              "name": "Sant Jeroni Monastery",
+              "tip_5lang": {
+                "de": "Angenehme Wanderung ohne die Hitze des Sommers.",
+                "hu": "Kellemes túra a nyári hőség nélkül.",
+                "ro": "Drumeție plăcută, fără arșița verii.",
+                "en": "Enjoy the hike without the intense summer heat."
+              }
+            },
+            {
+              "name": "Badalona Museum",
+              "tip_5lang": {
+                "de": "Konstante Temperaturen in den unterirdischen Gängen.",
+                "hu": "Állandó, kellemes hőmérséklet a föld alatti járatokban.",
+                "ro": "Temperatură constantă și plăcută în galeriile subterane.",
+                "en": "Enjoy constant, mild temperatures in the underground galleries."
+              }
+            },
+            {
+              "name": "Anís del Mono Factory",
+              "tip_5lang": {
+                "de": "Ein kleiner Schluck Anislikör wärmt wunderbar auf.",
+                "hu": "Egy kis kóstoló az ánizslikőrből remekül átmelegít.",
+                "ro": "O mică degustare de lichior de anason vă va încălzi imediat.",
+                "en": "A small tasting of the anise liqueur is perfect for warming up."
+              }
+            },
+            {
+              "name": "Can Solei i Ca l'Arnús Park",
+              "tip_5lang": {
+                "de": "Beobachten Sie die winterblühenden Pflanzen im Garten.",
+                "hu": "Figyelje meg a kertben a télen virágzó növényeket.",
+                "ro": "Observați plantele care înfloresc iarna în grădină.",
+                "en": "Look out for the winter-blooming plants in the botanical garden."
+              }
+            },
+            {
+              "name": "Badalona Beach",
+              "tip_5lang": {
+                "de": "Frühzeitiger Sonnenuntergang sorgt für magisches Licht am Pier.",
+                "hu": "A korai napnyugta mágikus fényeket fest a mólóra.",
+                "ro": "Apusul timpuriu creează o lumină magică pe dig.",
+                "en": "Early sunset creates magical lighting conditions on the pier."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Wind am Meer ist im Winter deutlich kühler; Windbrecher empfohlen.",
+              "Die Sonne verschwindet früh hinter den Hügeln, planen Sie Outdoor-Stopps bis 16 Uhr.",
+              "Kombinieren Sie den Museumsbesuch mit einer heißen Schokolade in der Nähe.",
+              "Die Parkanlagen schließen im Winter früher, meist gegen 18:00 Uhr."
+            ],
+            "hu": [
+              "A tengeri szél télen sokkal hűvösebb; szélálló dzseki ajánlott.",
+              "A nap korán eltűnik a dombok mögött, az outdoor részeket 16:00-ig fejezze be.",
+              "Kösse össze a múzeumlátogatást egy közeli forró csokoládéval.",
+              "A parkok télen korábban zárnak, általában 18:00 körül."
+            ],
+            "ro": [
+              "Vântul de pe coastă este mult mai rece iarna; se recomandă o jachetă anti-vânt.",
+              "Soarele dispare devreme după dealuri, terminați opririle în aer liber până la 16:00.",
+              "Combinați vizita la muzeu cu o ciocolată caldă savurată în apropiere.",
+              "Parcurile se închid mai devreme iarna, de obicei în jur de ora 18:00."
+            ],
+            "en": [
+              "The sea breeze is much cooler in winter; a windbreaker is highly recommended.",
+              "The sun dips behind the hills early; finish outdoor stops by 4 PM.",
+              "Pair your museum visit with a thick hot chocolate at a nearby cafe.",
+              "Public parks close earlier in winter, usually around 6 PM."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -894,6 +1094,224 @@
           "Between the museum and the sea the pace is easy, but intersections still matter.",
           "The waterfront can get windy, so pack light."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf dem Pflaster der Rambla. Wir nutzen die flache Küstenstraße für eine schnelle Fahrt zum Museum. Der Anstieg zum Kloster Sant Jeroni wird ausgelassen, stattdessen vertiefen wir uns in die römische Geschichte von Baetulo. Nachmittags besuchen wir die Fabrik Anís del Mono und beenden die Tour sicher am überdachten Bahnhof.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel a Rambla kövezetén. A sík parti utat használjuk a múzeumhoz való gyors eljutáshoz. A Sant Jeroni kolostorhoz vezető emelkedőt most kihagyjuk, helyette Baetulo római történetében merülünk el. Délután az Anís del Mono gyárat látogatjuk meg, majd a túrát a fedett vasútállomásnál zárjuk.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe pavajul de pe Rambla. Folosim drumul de coastă plat pentru o deplasare rapidă spre muzeu. Urcarea spre Sant Jeroni este evitată, preferând istoria romană din Baetulo. După-amiaza vizităm fabrica Anís del Mono și încheiem turul în siguranță la gara acoperită.",
+            "en": "Cycling in the rain requires caution on the Rambla's pavement. We use the flat coastal road for a quick dash to the museum. The steep climb to Sant Jeroni is bypassed in favor of extra time in Roman Baetulo. In the afternoon, we visit the Anís del Mono factory and finish the tour safely at the sheltered train station."
+          },
+          "stops": [
+            {
+              "name": "Badalona Rambla",
+              "tip_5lang": {
+                "de": "Vorsicht, das nasse Pflaster kann sehr rutschig sein.",
+                "hu": "Vigyázat, a nedves díszburkolat nagyon csúszós lehet.",
+                "ro": "Atenție, pavajul umed poate fi extrem de alunecos.",
+                "en": "Caution: the wet pavement tiles can be very slippery for bike tires."
+              }
+            },
+            {
+              "name": "Casa Pavillard",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, achten Sie auf Pfützen am Straßenrand.",
+                "hu": "Gyors fotómegálló, ügyeljen az útmenti tócsákra.",
+                "ro": "Oprire scurtă pentru poze, atenție la bălțile de la marginea drumului.",
+                "en": "Quick photo stop; watch out for puddles near the curb."
+              }
+            },
+            {
+              "name": "Sant Jeroni Monastery",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist der Schlammweg für Räder nicht ratsam.",
+                "hu": "Erős esőben a sáros út kerékpárral nem ajánlott.",
+                "ro": "Pe ploaie torențială, drumul noroios nu este recomandat pentru biciclete.",
+                "en": "On rainy days, the muddy path is not recommended for standard bikes."
+              }
+            },
+            {
+              "name": "Badalona Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Fahrradständer direkt am Eingang unter dem Dach.",
+                "hu": "Használja a bejárat melletti, tető alatti kerékpártárolót.",
+                "ro": "Folosiți rastelul de biciclete de sub acoperiș de lângă intrare.",
+                "en": "Use the sheltered bike racks located near the main entrance."
+              }
+            },
+            {
+              "name": "Anís del Mono Factory",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad sicher vor der Innenbesichtigung.",
+                "hu": "Parkolja le biztonságosan a biciklit a benti látogatás előtt.",
+                "ro": "Parcați bicicleta în siguranță înainte de vizita interioară.",
+                "en": "Park your bike securely before heading inside for the tour."
+              }
+            },
+            {
+              "name": "Can Solei i Ca l'Arnús Park",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den sandigen Parkwegen.",
+                "hu": "Hajtson lassan a park homokos ösvényein.",
+                "ro": "Conduceți încet pe aleile cu nisip din parc.",
+                "en": "Cycle slowly on the sandy park paths to avoid skidding."
+              }
+            },
+            {
+              "name": "Pont del Petroli",
+              "tip_5lang": {
+                "de": "Metallroste auf dem Pier sind bei Nässe gefährlich.",
+                "hu": "A móló fémrácsai vizesen veszélyesek, inkább tolja a gépet.",
+                "ro": "Grătarele metalice de pe dig sunt periculoase pe ud; mergeți pe lângă bicicletă.",
+                "en": "Metal gratings on the pier are dangerous when wet; better to walk your bike."
+              }
+            },
+            {
+              "name": "Badalona Beach",
+              "tip_5lang": {
+                "de": "Der Radweg am Strand ist breit und sicher, aber windanfällig.",
+                "hu": "A parti kerékpárút széles és biztonságos, de nagyon szeles.",
+                "ro": "Pista de biciclete de pe plajă este lată, dar expusă vântului.",
+                "en": "The beach bike path is wide and safe but very exposed to wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie die weißen Linien der Straßenmarkierungen, sie sind extrem glatt.",
+              "Ein Regenponcho ist praktischer als ein Schirm beim Fahren.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt; Nässe verlängert den Bremsweg.",
+              "Parken Sie Ihr Rad nach Möglichkeit in der Nähe der Bahnhöfe unter Überdachungen."
+            ],
+            "hu": [
+              "Kerülje az útburkolati jeleket, mert vizesen rendkívül csúsznak.",
+              "A biciklis esőpóni praktikusabb menet közben, mint az esernyő.",
+              "Ellenőrizze a fékeket; a vizes felni miatt hosszabb lesz a féktáv.",
+              "A vasútállomások környékén keressen fedett tárolót a pihenők idejére."
+            ],
+            "ro": [
+              "Evitați liniile albe de pe asfalt, sunt extrem de alunecoase pe ud.",
+              "O pelerină de ploaie este mai practică decât o umbrelă în timpul mersului.",
+              "Verificați frânele; jantele umede măresc considerabil distanța de frânare.",
+              "Căutați rastele acoperite lângă gări pentru a vă lăsa bicicleta la uscat."
+            ],
+            "en": [
+              "Avoid riding on white road markings; they become ice-slick when wet.",
+              "A cycling poncho is much more effective than an umbrella while riding.",
+              "Test your brakes before starting; wet rims significantly increase stopping distance.",
+              "Look for sheltered bike parking near train stations during your stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Winterluft begleitet uns auf dem Weg entlang der Küste. Der Anstieg zum Kloster Sant Jeroni hält uns warm und bietet klare Fernsicht. Nachmittags genießen wir die Sonne im Park Can Solei, bevor wir zum Anís del Mono Werk radeln. Die Tour endet am Pont del Petroli, wo wir den frühen, aber spektakulären Sonnenuntergang über dem Meer erleben.",
+            "hu": "Friss téli levegő kísér minket a tengerparti úton. A Sant Jeroni kolostorhoz vezető emelkedő melegen tart, és tiszta távlatokat kínál. Délután a Can Solei parkban élvezzük a napsütést, mielőtt az Anís del Mono gyárhoz tekernénk. A túra a Pont del Petrolinál zárul, ahol megcsodáljuk a korai, de látványos tengeri napnyugtát.",
+            "ro": "Aerul proaspăt de iarnă ne însoțește pe drumul de coastă. Urcarea spre Sant Jeroni ne menține calzi și oferă o vizibilitate excelentă. După-amiaza profităm de soare în parcul Can Solei înainte de a pedala spre Anís del Mono. Turul se încheie la Pont del Petroli pentru un apus spectaculos deasupra mării.",
+            "en": "Crisp winter air accompanies our ride along the coast. The climb to Sant Jeroni Monastery keeps our blood pumping and offers clear views. In the afternoon, we catch the sun in Can Solei Park before cycling to the Anís del Mono factory. The tour ends at Pont del Petroli for an early but spectacular sunset over the Mediterranean."
+          },
+          "stops": [
+            {
+              "name": "Badalona Rambla",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe, der Fahrtwind ist am Morgen beißend.",
+                "hu": "Viseljen kesztyűt, a menetszél reggel még metsző lehet.",
+                "ro": "Purtați mănuși, vântul matinal poate fi tăios pe bicicletă.",
+                "en": "Wear gloves; the morning wind-chill can be biting while cycling."
+              }
+            },
+            {
+              "name": "Casa Pavillard",
+              "tip_5lang": {
+                "de": "Schneller Halt, bevor der Körper auskühlt.",
+                "hu": "Gyors megálló, mielőtt a teste lehűlne.",
+                "ro": "Oprire scurtă pentru a nu lăsa corpul să se răcească.",
+                "en": "Make it a quick stop to keep your body temperature up."
+              }
+            },
+            {
+              "name": "Sant Jeroni Monastery",
+              "tip_5lang": {
+                "de": "Perfekte Wintertour: Der Anstieg bringt den Kreislauf in Schwung.",
+                "hu": "Tökéletes téli szakasz: az emelkedő felpezsdíti a vérkeringést.",
+                "ro": "Traseu perfect de iarnă: urcarea vă va pune sângele în mișcare.",
+                "en": "Perfect winter leg: the climb will definitely get your circulation going."
+              }
+            },
+            {
+              "name": "Badalona Museum",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit zum Aufwärmen in den Ausstellungsräumen.",
+                "hu": "Jó alkalom az átmelegedésre a kiállítótermekben.",
+                "ro": "O oportunitate bună de a vă încălzi în sălile de expoziție.",
+                "en": "A great opportunity to warm up inside the museum galleries."
+              }
+            },
+            {
+              "name": "Anís del Mono Factory",
+              "tip_5lang": {
+                "de": "Die Führung bietet eine willkommene Pause vom kalten Wind.",
+                "hu": "A vezetés kellemes pihenőt nyújt a hideg szél után.",
+                "ro": "Turul ghidat oferă o pauză binemeritată de la vântul rece.",
+                "en": "The guided tour offers a welcome break from the cold breeze."
+              }
+            },
+            {
+              "name": "Can Solei i Ca l'Arnús Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die tiefstehende Wintersonne für Fotos.",
+                "hu": "Használja ki az alacsony téli napállást a fotózáshoz.",
+                "ro": "Profitați de soarele jos de iarnă pentru fotografii reușite.",
+                "en": "Take advantage of the low winter sun for great landscape photos."
+              }
+            },
+            {
+              "name": "Pont del Petroli",
+              "tip_5lang": {
+                "de": "Winddichte Kleidung ist hier am Ende der Tour Pflicht.",
+                "hu": "Szélálló ruházat kötelező itt a túra végén.",
+                "ro": "Îmbrăcămintea rezistentă la vânt este obligatorie aici.",
+                "en": "Windproof clothing is essential here at the end of the tour."
+              }
+            },
+            {
+              "name": "Badalona Beach",
+              "tip_5lang": {
+                "de": "Die Fahrt im Sonnenuntergang ist das Highlight des Tages.",
+                "hu": "A naplementében való tekerés a nap fénypontja.",
+                "ro": "Pedalatul la apus este punctul culminant al zilei.",
+                "en": "Cycling during the sunset is the absolute highlight of the trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung (Zwiebelprinzip) für den Anstieg und die Abfahrt.",
+              "Die Sonne geht gegen 17:30 Uhr unter, sorgen Sie für funktionierende Lichter.",
+              "Vermeiden Sie langes Stehenbleiben im Schatten; die Temperatur sinkt dort spürbar.",
+              "Ein warmer Tee in einer Thermoskanne ist ideal für den Stopp am Kloster."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen az emelkedők és a lejtők közötti hőmérséklet-különbség miatt.",
+              "A nap 17:30 körül nyugszik, ellenőrizze a kerékpár lámpáit.",
+              "Kerülje a hosszú megállókat az árnyékban; ott sokkal hidegebb van.",
+              "Egy termosz meleg tea ideális kísérő a kolostori pihenőhöz."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru a gestiona diferența de temperatură la urcare/coborâre.",
+              "Soarele apune în jur de 17:30; asigurați-vă că luminile bicicletei funcționează.",
+              "Evitați opririle lungi la umbră, temperatura scade sesizabil.",
+              "Un termos cu ceai cald este ideal pentru pauza de la mănăstire."
+            ],
+            "en": [
+              "Dress in layers to manage heat during climbs and cold during descents.",
+              "Sunset is around 5:30 PM; make sure your bike lights are fully functional.",
+              "Avoid long stationary breaks in the shade; the temperature drops quickly there.",
+              "A thermos of warm tea is the perfect companion for the monastery stop."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1350,6 +1768,224 @@
           "On sunny days, waterfront parking fills quickly, so secure that first.",
           "Use the car only to switch between zones, not between every stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Badalona trotz Regen komfortabel. Wir parken in der Nähe der Rambla und besuchen das moderne Casa Pavillard. Der Schwerpunkt liegt auf dem Museum von Badalona und der Anís del Mono Fabrik, die beide hervorragende Indoor-Programme bieten. Mittags fahren wir zum Kloster Sant Jeroni, wo wir den Regen aus dem Auto heraus beobachten, bevor wir den Tag am Strand ausklingen lassen.",
+            "hu": "Autóval az eső ellenére is kényelmesen felfedezhetjük Badalonát. A Rambla közelében parkolunk, és megnézzük a modernista Casa Pavillard-t. A fő hangsúly a Badalonai Múzeumon és az Anís del Mono gyáron van, mindkettő kiváló beltéri program. Délben felhajtunk a Sant Jeroni kolostorhoz, majd a napot a tengerparton zárjuk, védett helyen.",
+            "ro": "Cu mașina, explorăm Badalona confortabil în ciuda ploii. Parcăm lângă Rambla și vizităm Casa Pavillard. Accentul cade pe Muzeul din Badalona și fabrica Anís del Mono, ambele oferind programe interioare excelente. La prânz urcăm spre mănăstirea Sant Jeroni, iar seara ne relaxăm pe malul mării, la adăpost.",
+            "en": "By car, we explore Badalona comfortably despite the rain. We park near the Rambla and visit the modernist Casa Pavillard. The focus is on the Badalona Museum and the Anís del Mono factory, both offering excellent indoor programs. At noon, we drive up to Sant Jeroni Monastery and finish the day at the beach in a sheltered spot."
+          },
+          "stops": [
+            {
+              "name": "Badalona Rambla",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus El Viver für direkten Zugang.",
+                "hu": "Használja az El Viver parkolóházat a közvetlen kijárathoz.",
+                "ro": "Folosiți parcarea subterană El Viver pentru acces direct.",
+                "en": "Use the El Viver underground parking for immediate access to the promenade."
+              }
+            },
+            {
+              "name": "Casa Pavillard",
+              "tip_5lang": {
+                "de": "Halten Sie kurz in der Nähe für einen Blick aus dem Fenster.",
+                "hu": "Álljon meg rövid időre a közelben egy ablakból való kitekintéshez.",
+                "ro": "Opriți scurt în apropiere pentru a admira clădirea din mașină.",
+                "en": "Stop briefly nearby to admire the architecture from the dry car."
+              }
+            },
+            {
+              "name": "Badalona Museum",
+              "tip_5lang": {
+                "de": "Parkhaus Pompeu Fabra ist nur wenige Schritte entfernt.",
+                "hu": "A Pompeu Fabra parkolóház csak pár lépésre található.",
+                "ro": "Parcarea Pompeu Fabra este la doar câțiva pași distanță.",
+                "en": "The Pompeu Fabra parking garage is just a few steps away."
+              }
+            },
+            {
+              "name": "Sant Jeroni Monastery",
+              "tip_5lang": {
+                "de": "Die Auffahrt ist bei Regen sicher, aber achten Sie auf Sicht.",
+                "hu": "A felvezető út esőben is biztonságos, de ügyeljen a látási viszonyokra.",
+                "ro": "Drumul de acces este sigur pe ploaie, dar atenție la vizibilitate.",
+                "en": "The access road is safe in the rain, but watch for reduced visibility."
+              }
+            },
+            {
+              "name": "Can Solei i Ca l'Arnús Park",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang zwischen den Regenschauern.",
+                "hu": "Rövid séta a záporok közötti szünetekben.",
+                "ro": "O scurtă plimbare în pauzele dintre averse.",
+                "en": "Take a quick walk during the breaks between showers."
+              }
+            },
+            {
+              "name": "Anís del Mono Factory",
+              "tip_5lang": {
+                "de": "Parkplätze direkt am Paseo Marítimo verfügbar.",
+                "hu": "Parkolóhelyek közvetlenül a tengerparti sétányon elérhetők.",
+                "ro": "Locuri de parcare disponibile chiar pe faleza maritimă.",
+                "en": "Parking spaces are readily available directly on the maritime promenade."
+              }
+            },
+            {
+              "name": "Pont del Petroli",
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man einen tollen Blick auf die Brandung.",
+                "hu": "Az autóból is remek kilátás nyílik a hullámtörésre.",
+                "ro": "Din mașină aveți o vedere excelentă asupra valurilor care se sparg.",
+                "en": "Enjoy a great view of the crashing waves from the comfort of your car."
+              }
+            },
+            {
+              "name": "Badalona Beach",
+              "tip_5lang": {
+                "de": "Parken Sie nah an einem Restaurant für minimalen Weg im Regen.",
+                "hu": "Parkoljon egy étterem közelében, hogy keveset kelljen áznia.",
+                "ro": "Parcați aproape de un restaurant pentru a minimiza timpul în ploaie.",
+                "en": "Park near a restaurant to minimize your walk in the downpour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Tiefgaragen (El Viver, Pompeu Fabra), um trocken ins Zentrum zu kommen.",
+              "Bei starkem Regen kann der Verkehr auf der C-31 zähflüssig sein.",
+              "Die Zufahrt zum Kloster ist schmal; fahren Sie bei nasser Fahrbahn vorsichtig.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto, auch nicht bei Regen."
+            ],
+            "hu": [
+              "Használja a mélygarázsokat (El Viver, Pompeu Fabra), hogy szárazon jusson a központba.",
+              "Heves esőzéskor a forgalom lassulhat a C-31-es úton.",
+              "A kolostorhoz vezető út keskeny; vizes aszfalton vezessen óvatosan.",
+              "Ne hagyjon értéktárgyat látható helyen az autóban, még esőben sem."
+            ],
+            "ro": [
+              "Folosiți parcările subterane (El Viver, Pompeu Fabra) pentru a ajunge uscat în centru.",
+              "În caz de ploaie torențială, traficul pe C-31 poate fi îngreunat.",
+              "Drumul spre mănăstire este îngust; conduceți cu prudență pe carosabil umed.",
+              "Nu lăsați obiecte de valoare la vedere în mașină, nici chiar pe ploaie."
+            ],
+            "en": [
+              "Utilize underground car parks (El Viver, Pompeu Fabra) to stay dry while entering the city.",
+              "Heavy rain can cause significant traffic delays on the C-31 motorway.",
+              "The road to the monastery is narrow; drive carefully on the wet asphalt.",
+              "Never leave valuables visible inside the car, even during rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour mit dem Auto bietet maximale Flexibilität. Wir starten an der sonnigen Rambla und fahren zum höher gelegenen Kloster Sant Jeroni für eine klare Aussicht auf Barcelona. Den Nachmittag verbringen wir im angenehm temperierten Museum und der Anís del Mono Fabrik. Den spektakulären Winter-Sonnenuntergang erleben wir am Pont del Petroli, bevor es kühl wird.",
+            "hu": "A téli autós túra maximális rugalmasságot kínál. A napsütötte Ramblán kezdünk, majd felhajtunk a magasan fekvő Sant Jeroni kolostorhoz a tiszta barcelonai kilátásért. A délutánt a kellemes hőmérsékletű múzeumban és az Anís del Mono gyárban töltjük. A látványos téli naplementét a Pont del Petrolinál várjuk meg.",
+            "ro": "Turul de iarnă cu mașina oferă flexibilitate maximă. Începem pe Rambla însorită și urcăm la mănăstirea Sant Jeroni pentru o vedere clară asupra Barcelonei. După-amiaza o petrecem în muzeul bine încălzit și la fabrica Anís del Mono. Admirăm apusul spectaculos de iarnă la Pont del Petroli înainte de lăsarea frigului.",
+            "en": "A winter car tour offers maximum flexibility. We start at the sunny Rambla and drive up to the elevated Sant Jeroni Monastery for clear views over Barcelona. The afternoon is spent in the comfortably warm museum and Anís del Mono factory. We catch the spectacular winter sunset at Pont del Petroli before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Badalona Rambla",
+              "tip_5lang": {
+                "de": "Parken Sie in der Sonne, damit das Auto warm bleibt.",
+                "hu": "Parkoljon a napon, hogy az autó meleg maradjon.",
+                "ro": "Parcați la soare pentru a menține mașina caldă.",
+                "en": "Park in a sunny spot to keep the car's interior naturally warm."
+              }
+            },
+            {
+              "name": "Casa Pavillard",
+              "tip_5lang": {
+                "de": "Die Fassade leuchtet in der klaren Winterluft besonders schön.",
+                "hu": "A homlokzat különösen szépen ragyog a tiszta téli levegőben.",
+                "ro": "Fațada strălucește frumos în aerul curat de iarnă.",
+                "en": "The facade looks particularly stunning in the clear winter air."
+              }
+            },
+            {
+              "name": "Badalona Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um der Kälte für eine Weile zu entfliehen.",
+                "hu": "Tökéletes hely, hogy egy időre elmeneküljön a hideg elől.",
+                "ro": "Locul perfect pentru a scăpa de frig pentru o vreme.",
+                "en": "The perfect place to escape the outdoor chill for a while."
+              }
+            },
+            {
+              "name": "Sant Jeroni Monastery",
+              "tip_5lang": {
+                "de": "Klare Sicht bis zum Meer ist im Winter garantiert.",
+                "hu": "Télen garantált a tiszta kilátás egészen a tengerig.",
+                "ro": "Vizibilitatea clară până la mare este garantată iarna.",
+                "en": "Clear views all the way to the sea are guaranteed in winter."
+              }
+            },
+            {
+              "name": "Can Solei i Ca l'Arnús Park",
+              "tip_5lang": {
+                "de": "Parkplätze am Eingang meist frei in der Nebensaison.",
+                "hu": "A bejáratnál a parkolóhelyek szezonon kívül általában szabadok.",
+                "ro": "Locurile de parcare de la intrare sunt de obicei libere în extrasezon.",
+                "en": "Parking spaces at the entrance are usually easy to find in the off-season."
+              }
+            },
+            {
+              "name": "Anís del Mono Factory",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Parkplatz zur warmen Fabrikführung.",
+                "hu": "Rövid séta a parkolótól a meleg gyárlátogatásig.",
+                "ro": "Distanță scurtă de la parcare la turul călduros al fabricii.",
+                "en": "Short walk from the parking lot to the warm factory tour."
+              }
+            },
+            {
+              "name": "Pont del Petroli",
+              "tip_5lang": {
+                "de": "Kommen Sie pünktlich zum Sonnenuntergang um 17:30 Uhr.",
+                "hu": "Érkezzen pontosan a 17:30-as napnyugtára.",
+                "ro": "Ajungeți la timp pentru apusul de la ora 17:30.",
+                "en": "Arrive promptly for the sunset at approximately 5:30 PM."
+              }
+            },
+            {
+              "name": "Badalona Beach",
+              "tip_5lang": {
+                "de": "Abends wird es am Wasser schnell kalt, Heizung im Auto nutzen.",
+                "hu": "Este a vízparton gyorsan hűl a levegő, használja az autó fűtését.",
+                "ro": "Seara se răcește rapid lângă apă, folosiți încălzirea mașinii.",
+                "en": "Temps drop fast by the water at night; use the car heater between stops."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Nebensaison für einfacheres Parken direkt am Strand.",
+              "Die Bergstraße zum Kloster kann im Schatten Raureif haben.",
+              "Die Sonne geht früh unter; planen Sie die Rückfahrt gegen 18 Uhr ein.",
+              "Einige Strandcafés haben im Winter nur eingeschränkte Öffnungszeiten."
+            ],
+            "hu": [
+              "Használja ki az előszezont a könnyebb, közvetlen parti parkoláshoz.",
+              "A kolostorhoz vezető hegyi út árnyékos részei deresek lehetnek.",
+              "A nap korán nyugszik; tervezze a visszaindulást 18:00 körülre.",
+              "Néhány tengerparti kávézó télen korlátozott nyitvatartással üzemel."
+            ],
+            "ro": [
+              "Profitați de extrasezon pentru o parcare mai ușoară chiar lângă plajă.",
+              "Drumul montan spre mănăstire poate avea porțiuni cu chiciură la umbră.",
+              "Soarele apune devreme; planificați drumul de întoarcere în jur de ora 18:00.",
+              "Unele cafenele de pe plajă au program redus pe timpul iernii."
+            ],
+            "en": [
+              "Take advantage of the off-season for easier parking right by the beach.",
+              "The mountain road to the monastery can have frost in shaded areas.",
+              "Sunset is early; plan to wrap up your outdoor activities by 6 PM.",
+              "Some beach cafes may have limited opening hours during the winter months."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1806,6 +2442,224 @@
           "The coastal stops are strongest in the evening, so leave buffer there.",
           "When transferring, keep the walk from station to stop as short as possible."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind ideal, um bei Regen trocken zu bleiben. Wir nutzen den Bus und die Metro, um zwischen der Rambla und dem Museum zu pendeln. Das Kloster Sant Jeroni wird per Bus erreicht, was uns den nassen Fußweg erspart. Nachmittags besuchen wir das Anís del Mono Werk und nutzen die R1 für eine entspannte Rückfahrt im Trockenen.",
+            "hu": "A tömegközlekedés ideális az esőben való szárazon maradáshoz. Buszt és metrót használunk a Rambla és a múzeum között. A Sant Jeroni kolostort busszal közelítjük meg, megkímélve magunkat a vizes gyaloglástól. Délután az Anís del Mono gyárat nézzük meg, majd az R1-es vonattal utazunk vissza szárazon.",
+            "ro": "Transportul public este ideal pentru a rămâne uscat pe ploaie. Folosim autobuzul și metroul între Rambla și muzeu. Ajungem la mănăstirea Sant Jeroni cu autobuzul, evitând mersul pe jos prin ploaie. După-amiaza vizităm fabrica Anís del Mono și folosim trenul R1 pentru o întoarcere relaxată.",
+            "en": "Public transit is ideal for staying dry during the rain. We use the bus and metro to move between the Rambla and the museum. Sant Jeroni Monastery is reached by bus, saving us from a wet hike. In the afternoon, we visit the Anís del Mono factory and take the R1 train for a comfortable, dry ride back."
+          },
+          "stops": [
+            {
+              "name": "Badalona Rambla",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen an der Rambla sind gut überdacht.",
+                "hu": "A Rambla menti buszmegállók jól fedettek.",
+                "ro": "Stațiile de autobuz de pe Rambla sunt bine acoperite.",
+                "en": "The bus stops along the Rambla provide good shelter from the rain."
+              }
+            },
+            {
+              "name": "Casa Pavillard",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Sprung von der Metrostation Badalona Pompeu Fabra.",
+                "hu": "Csak egy rövid ugrás a Badalona Pompeu Fabra metróállomástól.",
+                "ro": "La doar câțiva pași de stația de metrou Badalona Pompeu Fabra.",
+                "en": "Only a short walk from the Badalona Pompeu Fabra metro station."
+              }
+            },
+            {
+              "name": "Badalona Museum",
+              "tip_5lang": {
+                "de": "Metro L2 bringt Sie fast direkt zum Eingang.",
+                "hu": "Az L2-es metró szinte közvetlenül a bejárathoz viszi.",
+                "ro": "Metroul L2 vă lasă aproape de intrarea muzeului.",
+                "en": "The L2 metro line drops you off very close to the museum entrance."
+              }
+            },
+            {
+              "name": "Sant Jeroni Monastery",
+              "tip_5lang": {
+                "de": "Nutzen Sie den lokalen Bus, um den steilen, nassen Weg zu vermeiden.",
+                "hu": "Használja a helyi buszt, hogy elkerülje a meredek, vizes utat.",
+                "ro": "Folosiți autobuzul local pentru a evita drumul abrupt și umed.",
+                "en": "Take the local bus to avoid the steep and potentially slippery hike."
+              }
+            },
+            {
+              "name": "Can Solei i Ca l'Arnús Park",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt am Parkeingang nutzen.",
+                "hu": "Használja a közvetlenül a park bejáratánál lévő buszmegállót.",
+                "ro": "Folosiți stația de autobuz chiar de la intrarea în parc.",
+                "en": "Use the bus stop located right at the park's main entrance."
+              }
+            },
+            {
+              "name": "Anís del Mono Factory",
+              "tip_5lang": {
+                "de": "Der Bahnhof Badalona (R1) ist nur 5 Minuten entfernt.",
+                "hu": "A badalonai vasútállomás (R1) mindössze 5 percre van.",
+                "ro": "Gara Badalona (R1) este la doar 5 minute de mers pe jos.",
+                "en": "Badalona train station (R1) is just a 5-minute sheltered walk away."
+              }
+            },
+            {
+              "name": "Pont del Petroli",
+              "tip_5lang": {
+                "de": "Schneller Zugang vom Bahnhof, ideal bei Regenschauern.",
+                "hu": "Gyors kijárat az állomástól, ideális záporok esetén.",
+                "ro": "Acces rapid de la gară, ideal în caz de averse.",
+                "en": "Quick access from the train station, perfect during passing showers."
+              }
+            },
+            {
+              "name": "Badalona Beach",
+              "tip_5lang": {
+                "de": "Warten Sie im Bahnhofsgebäude auf den nächsten Zug.",
+                "hu": "Várja a következő vonatot az állomás épületében, szárazon.",
+                "ro": "Așteptați următorul tren în clădirea gării, la adăpost.",
+                "en": "Wait for your return train inside the dry station building."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die T-Mobilitat App für Echtzeit-Infos bei wetterbedingten Verspätungen.",
+              "Die Metro L2 ist komplett unterirdisch und perfekt für Regentage.",
+              "Die Züge der R1 fahren alle 10-15 Minuten nach Barcelona.",
+              "Haben Sie Ihre Fahrkarte griffbereit, um nicht im Regen suchen zu müssen."
+            ],
+            "hu": [
+              "Használja a T-Mobilitat alkalmazást a valós idejű infókért esőben.",
+              "Az L2-es metró teljesen föld alatti, tökéletes választás esős napokra.",
+              "Az R1-es vonatok 10-15 percenként indulnak Barcelona felé.",
+              "Tartsa kéznél a jegyét, hogy ne az esőben kelljen keresgélnie a megállóban."
+            ],
+            "ro": [
+              "Folosiți aplicația T-Mobilitat pentru informații în timp real despre întârzieri.",
+              "Metroul L2 este complet subteran, fiind alegerea ideală pe ploaie.",
+              "Trenurile R1 circulă la fiecare 10-15 minute spre Barcelona.",
+              "Țineți biletul la îndemână pentru a nu căuta prin bagaje în ploaie."
+            ],
+            "en": [
+              "Use the T-Mobilitat app for real-time updates on weather-related delays.",
+              "The L2 metro line is entirely underground, perfect for rainy days.",
+              "R1 trains run every 10-15 minutes toward Barcelona center.",
+              "Keep your transit card handy to avoid searching through bags in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Wärme von Metro und Bus für einen entspannten Wintertag in Badalona. Wir starten an der Rambla und fahren zum Kloster Sant Jeroni, wobei wir die klare Bergluft genießen. Nachmittags bieten das Museum und die Fabrik Anís del Mono angenehme Stopps im Warmen. Der Tag endet am Strand, pünktlich zum frühen Sonnenuntergang, bevor wir mit dem Zug zurückfahren.",
+            "hu": "Használja ki a metró és a busz melegét egy pihentető téli naphoz Badalonában. A Ramblán kezdünk, majd a Sant Jeroni kolostorhoz utazunk, élvezve a tiszta hegyi levegőt. Délután a múzeum és az Anís del Mono gyár kínál kellemes beltéri pihenőket. A nap a tengerparton zárul a korai naplementével, mielőtt vonatra szállnánk.",
+            "ro": "Profitați de căldura din metrou și autobuz pentru o zi de iarnă relaxantă. Începem pe Rambla și mergem spre mănăstirea Sant Jeroni, savurând aerul curat. După-amiaza, muzeul și fabrica Anís del Mono oferă opriri plăcute la căldură. Ziua se încheie la plajă cu apusul timpuriu, înainte de a lua trenul înapoi.",
+            "en": "Take advantage of the warmth in the metro and buses for a relaxing winter day. We start at the Rambla and head to Sant Jeroni Monastery, enjoying the crisp mountain air. In the afternoon, the museum and Anís del Mono factory provide cozy indoor breaks. The day ends at the beach for the early sunset before we hop on the return train."
+          },
+          "stops": [
+            {
+              "name": "Badalona Rambla",
+              "tip_5lang": {
+                "de": "Die Metrostation Badalona Pompeu Fabra ist angenehm beheizt.",
+                "hu": "A Badalona Pompeu Fabra metróállomás kellemesen fűtött.",
+                "ro": "Stația de metrou Badalona Pompeu Fabra este bine încălzită.",
+                "en": "The Badalona Pompeu Fabra metro station is comfortably heated."
+              }
+            },
+            {
+              "name": "Casa Pavillard",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Metro, ideal bei kühleren Temperaturen.",
+                "hu": "Rövid séta a metrótól, ideális hűvösebb időben.",
+                "ro": "Scurtă plimbare de la metrou, ideală la temperaturi scăzute.",
+                "en": "A very short walk from the metro, perfect for cooler temperatures."
+              }
+            },
+            {
+              "name": "Badalona Museum",
+              "tip_5lang": {
+                "de": "Aufwärmen zwischen den römischen Exponaten.",
+                "hu": "Melegedjen át a római kori kiállítási tárgyak között.",
+                "ro": "Încălziți-vă printre exponatele din epoca romană.",
+                "en": "Warm up while browsing the fascinating Roman exhibits."
+              }
+            },
+            {
+              "name": "Sant Jeroni Monastery",
+              "tip_5lang": {
+                "de": "Bus B24 bringt Sie nah an das Kloster, weniger Kälte-Exposition.",
+                "hu": "A B24-es busz közel visz a kolostorhoz, kevesebb kint tartózkodással.",
+                "ro": "Autobuzul B24 vă lasă aproape de mănăstire, reducând expunerea la frig.",
+                "en": "Bus B24 drops you close to the monastery, minimizing time in the cold."
+              }
+            },
+            {
+              "name": "Can Solei i Ca l'Arnús Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus für die Fahrt zwischen Museum und Park.",
+                "hu": "Használja a buszt a múzeum és a park közötti szakaszon.",
+                "ro": "Folosiți autobuzul pentru segmentul dintre muzeu și parc.",
+                "en": "Take the bus for the leg between the museum and the park."
+              }
+            },
+            {
+              "name": "Anís del Mono Factory",
+              "tip_5lang": {
+                "de": "Der Bahnhof ist in Sichtweite für eine schnelle Weiterfahrt.",
+                "hu": "Az állomás látótávolságban van a gyors továbbutazáshoz.",
+                "ro": "Gara este la vedere, facilitând plecarea rapidă spre casă.",
+                "en": "The train station is within sight, making it easy to catch your ride."
+              }
+            },
+            {
+              "name": "Pont del Petroli",
+              "tip_5lang": {
+                "de": "Der Wind am Pier ist im Winter sehr frisch, Mütze aufsetzen.",
+                "hu": "A szél a mólón télen nagyon friss, vegyen fel sapkát.",
+                "ro": "Vântul pe dig este foarte rece iarna, puneți-vă căciula.",
+                "en": "The wind on the pier is very biting in winter; wear a warm hat."
+              }
+            },
+            {
+              "name": "Badalona Beach",
+              "tip_5lang": {
+                "de": "Der Zug R1 fährt direkt am Strand ab, perfekt bei Kälte.",
+                "hu": "Az R1-es vonat közvetlenül a partnál indul, ideális hidegben.",
+                "ro": "Trenul R1 pleacă chiar de lângă plajă, ideal pe vreme rece.",
+                "en": "The R1 train departs right from the beach, perfect for escaping the cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In der Metro ist es oft deutlich wärmer als draußen; Kleidung anpassen.",
+              "Die Frequenz der Busse zum Kloster kann im Winter reduziert sein.",
+              "Der letzte Einlass in die Museen ist im Winter oft früher.",
+              "Nutzen Sie die Wartezeiten in den Bahnhöfen für einen schnellen Kaffee."
+            ],
+            "hu": [
+              "A metróban gyakran sokkal melegebb van, mint kint; öltözködjön praktikusan.",
+              "A kolostorhoz menő buszok gyakorisága télen ritkább lehet.",
+              "A múzeumok utolsó belépési időpontja télen gyakran korábbi.",
+              "Használja ki az állomásokon való várakozást egy gyors kávéra."
+            ],
+            "ro": [
+              "În metrou este adesea mult mai cald decât afară; adaptați-vă ținuta.",
+              "Frecvența autobuzelor spre mănăstire poate fi redusă iarna.",
+              "Ultima oră de intrare în muzee este adesea mai devreme pe timpul iernii.",
+              "Profitați de timpul de așteptare din gări pentru a savura o cafea caldă."
+            ],
+            "en": [
+              "The metro is often much warmer than outside; dress in removable layers.",
+              "Bus frequency to the monastery might be reduced during the winter season.",
+              "Last entry times for museums are often earlier in the winter months.",
+              "Use the waiting times at train stations to grab a quick warm coffee."
+            ]
+          }
+        }
       }
     }
   }

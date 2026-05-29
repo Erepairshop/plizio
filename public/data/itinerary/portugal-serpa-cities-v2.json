@@ -379,6 +379,214 @@
           "Plan for a long lunch break to enjoy the local cuisine and the relaxed atmosphere.",
           "Most sights are within close walking distance, making Serpa ideal for a walking tour."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erreichen wir das historische Beja-Tor, während der Regen auf das Kopfsteinpflaster trommelt. Die massiven Mauern bieten ersten Schutz.\n\nMittags flüchten wir in das faszinierende Uhrenmuseum. Inmitten von Tausenden von Zeitmessern vergessen wir das graue Wetter draußen.\n\nAm Nachmittag nutzen wir eine Regenpause für den Palast der Grafen von Ficalho. Die Innenräume strahlen eine ruhige, aristokratische Atmosphäre aus.\n\nAbends endet die Tour in der Nähe der Stadtmauer. Das Licht der Laternen spiegelt sich malerisch in den Pfützen der weißen Gassen von Serpa.",
+            "hu": "Reggel a történelmi Beja-kapunál kezdünk, miközben az eső a macskaköveken kopog. A vastag falak alatt keressük az első menedéket.\n\nDélben az egyedülálló Óramúzeumba húzódunk be. A több ezer óra ketyegése közben teljesen megfeledkezünk a kinti zord időjárásról.\n\nDélután a Ficalho grófok palotáját fedezzük fel. A belső terek nemesi nyugalma tökéletes kontrasztot alkot a kinti záporokkal.\n\nEste a várfalak közelében fejezzük be a sétát. A lámpák fénye festőien csillan meg a fehérre meszelt utcák vizes aszfaltján.",
+            "ro": "Dimineața ajungem la Poarta Beja, în timp ce ploaia bate în pavajul de piatră. Zidurile masive oferă primul adăpost împotriva vremii.\n\nLa prânz ne refugiem în fascinantul Muzeu al Ceasului. Înconjurați de mii de mecanisme, uităm complet de cerul gri de afară.\n\nDupă-amiaza profităm de o pauză de ploaie pentru a vizita Palatul Conților de Ficalho. Interioarele emană o atmosferă aristocratică liniștită.\n\nSeara turul se încheie lângă zidurile cetății. Lumina felinarelor se reflectă pitoresc în bălțile de pe străzile albe din Serpa.",
+            "en": "In the morning, we reach the historic Beja Gate as rain drums on the cobblestones. The massive walls provide our first shelter from the elements.\n\nAt noon, we retreat into the fascinating Clock Museum. Surrounded by thousands of timepieces, we completely forget the grey weather outside.\n\nIn the afternoon, we catch a break in the rain to visit the Palace of the Counts of Ficalho. The interiors radiate a calm, aristocratic atmosphere.\n\nIn the evening, the tour ends near the city walls. Lantern light reflects picturesquely in the puddles along Serpa's white-washed streets."
+          },
+          "stops": [
+            {
+              "name": "Beja Gate",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Torbogen als trockenen Treffpunkt.",
+                "hu": "Használja a kapualjat száraz találkozási pontként.",
+                "ro": "Folosiți arcada porții ca punct de întâlnire uscat.",
+                "en": "Use the archway as a dry meeting point."
+              }
+            },
+            {
+              "name": "Castle of Serpa",
+              "tip_4lang": {
+                "de": "Vorsicht auf den nassen Steinstufen im Innenhof.",
+                "hu": "Vigyázat, a belső udvar kőlépcsői csúszósak lehetnek.",
+                "ro": "Atenție la treptele de piatră umede din curte.",
+                "en": "Be careful on the wet stone steps in the courtyard."
+              }
+            },
+            {
+              "name": "Igreja de Santa Maria",
+              "tip_4lang": {
+                "de": "Ein ruhiger Ort, um den stärksten Regen abzuwarten.",
+                "hu": "Csendes hely a leghevesebb zápor megvárására.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea ploii.",
+                "en": "A quiet place to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": "Museu do Relógio",
+              "tip_4lang": {
+                "de": "Ideales Ziel bei Regen; planen Sie mehr Zeit ein.",
+                "hu": "Ideális úti cél esőben; tervezzen hosszabb látogatást.",
+                "ro": "Destinație ideală pe ploaie; alocați mai mult timp.",
+                "en": "Ideal destination for rainy weather; plan for a longer visit."
+              }
+            },
+            {
+              "name": "Palácio dos Condes de Ficalho",
+              "tip_4lang": {
+                "de": "Die überdachten Gänge bieten guten Schutz.",
+                "hu": "A fedett folyosók jó védelmet nyújtanak.",
+                "ro": "Coridoarele acoperite oferă o protecție bună.",
+                "en": "The covered walkways provide good shelter."
+              }
+            },
+            {
+              "name": "Aqueduto de Serpa",
+              "tip_4lang": {
+                "de": "Betrachten Sie die Struktur von einem nahen Café aus.",
+                "hu": "Csodálja meg a szerkezetet egy közeli kávézóból.",
+                "ro": "Admirați structura de la o cafenea din apropiere.",
+                "en": "View the structure from a nearby cafe."
+              }
+            },
+            {
+              "name": "Ermida de São Sebastião",
+              "tip_4lang": {
+                "de": "Schneller Besuch zwischen den Regenschauern.",
+                "hu": "Gyors látogatás két esőfelhő érkezése között.",
+                "ro": "Vizită rapidă între reprizele de ploaie.",
+                "en": "Quick visit between rain showers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die weißen Gassen von Serpa können bei Nässe rutschig sein.",
+              "Das Uhrenmuseum ist die beste Zuflucht bei Dauerregen.",
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Nutzen Sie die vielen Cafés im Zentrum für Pausen.",
+              "Die Burg bietet im Inneren einige trockene Ausstellungsräume."
+            ],
+            "hu": [
+              "Serpa fehér utcái vizesen csúszósak lehetnek.",
+              "Az Óramúzeum a legjobb menedék tartós eső esetén.",
+              "Viseljen vízálló cipőt a macskaköves szakaszokon.",
+              "Használja ki a központ kávézóit a pihenőkhöz.",
+              "A vár belső tereiben száraz kiállítások találhatók."
+            ],
+            "ro": [
+              "Străzile albe din Serpa pot fi alunecoase când sunt ude.",
+              "Muzeul Ceasului este cel mai bun refugiu în caz de ploaie.",
+              "Purtați încălțăminte impermeabilă pentru pavajul cu piatră.",
+              "Folosiți cafenelele din centru pentru pauze de cafea.",
+              "Castelul are câteva săli de expoziție uscate în interior."
+            ],
+            "en": [
+              "Serpa's white streets can be slippery when wet.",
+              "The Clock Museum is the best refuge during persistent rain.",
+              "Wear waterproof shoes for the cobblestone sections.",
+              "Take advantage of the central cafes for breaks.",
+              "The castle offers several dry exhibition rooms inside."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Serpa ist frisch und klar. Die Beja-Pforte wirkt im kühlen Licht der Alentejo-Sonne fast wie aus Elfenbein.\n\nMittags suchen wir die Wärme in der Kirche Santa Maria. Das kühle Äußere täuscht über die andächtige Stille im Inneren hinweg.\n\nAm Nachmittag spazieren wir am Aquädukt entlang. Die tiefstehende Wintersonne wirft lange Schatten auf die Olivenhaine der Umgebung.\n\nDer Abend bricht früh an. Wir genießen den Blick von der Burgmauer, während sich der Himmel über den sanften Hügeln purpurrot verfärbt.",
+            "hu": "A téli reggel Serpa városában friss és tiszta. A Beja-kapu szinte elefántcsontszínűnek tűnik az alentejói nap hűvös fényében.\n\nDélben a Santa Maria templom falai között keresünk lelki békét. A hűvös külső áhítatos csendet és nyugalmat rejt odabent.\n\nDélután az akvadukt mentén sétálunk. Az alacsonyan járó téli nap hosszú árnyékokat vet a környékbeli olajfaligetekre.\n\nAz este korán érkezik. A várfalról csodáljuk a kilátást, miközben az ég bíborszínűre vált a környező dombok felett.",
+            "ro": "Dimineața de iarnă în Serpa este proaspătă și senină. Poarta Beja pare de fildeș în lumina rece a soarelui din Alentejo.\n\nLa prânz căutăm liniștea în biserica Santa Maria. Exteriorul rece ascunde o tăcere pioasă și pace în interior.\n\nDupă-amiaza ne plimbăm de-a lungul apeductului. Soarele de iarnă, aflat jos pe cer, aruncă umbre lungi peste livezile de măslini din jur.\n\nSeara vine devreme. Admirăm priveliștea de pe zidurile castelului în timp ce cerul devine purpuriu deasupra dealurilor domoale.",
+            "en": "The winter morning in Serpa is crisp and clear. The Beja Gate looks almost like ivory in the cool light of the Alentejo sun.\n\nAt noon, we seek peace within the walls of Santa Maria Church. The cool exterior belies the prayerful silence and warmth inside.\n\nIn the afternoon, we walk along the aqueduct. The low winter sun casts long shadows across the surrounding olive groves.\n\nEvening arrives early. We enjoy the view from the castle walls as the sky turns purple over the rolling hills of the horizon."
+          },
+          "stops": [
+            {
+              "name": "Beja Gate",
+              "tip_4lang": {
+                "de": "Genießen Sie das klare Morgenlicht für Fotos.",
+                "hu": "Használja ki a tiszta reggeli fényeket a fotózáshoz.",
+                "ro": "Profită de lumina clară a dimineții pentru fotografii.",
+                "en": "Take advantage of the clear morning light for photos."
+              }
+            },
+            {
+              "name": "Castle of Serpa",
+              "tip_4lang": {
+                "de": "Auf der Mauer kann ein kühler Wind wehen.",
+                "hu": "A falakon hűvös szél fújhat; öltözzön rétegesen.",
+                "ro": "Pe ziduri poate bate un vânt rece; îmbrăcați-vă gros.",
+                "en": "A cool wind can blow on the walls; dress in layers."
+              }
+            },
+            {
+              "name": "Igreja de Santa Maria",
+              "tip_4lang": {
+                "de": "Ein Ort der Stille und Besinnung im Winter.",
+                "hu": "A csend és az elmélyülés helyszíne télen.",
+                "ro": "Un loc de liniște și meditație în timpul iernii.",
+                "en": "A place of silence and reflection in winter."
+              }
+            },
+            {
+              "name": "Museu do Relógio",
+              "tip_4lang": {
+                "de": "Die Innenräume sind angenehm temperiert.",
+                "hu": "A belső terek kellemesen temperáltak.",
+                "ro": "Interioarele au o temperatură plăcută.",
+                "en": "The interiors are pleasantly tempered."
+              }
+            },
+            {
+              "name": "Palácio dos Condes de Ficalho",
+              "tip_4lang": {
+                "de": "Bewundern Sie die Architektur ohne Sommertouristen.",
+                "hu": "Csodálja meg az építészetet nyári tömeg nélkül.",
+                "ro": "Admirați arhitectura fără aglomerația de vară.",
+                "en": "Admire the architecture without summer crowds."
+              }
+            },
+            {
+              "name": "Aqueduto de Serpa",
+              "tip_4lang": {
+                "de": "Das warme Licht der Wintersonne betont die Bögen.",
+                "hu": "A téli nap meleg fénye kiemeli az íveket.",
+                "ro": "Lumina caldă a soarelui evidențiază arcadele.",
+                "en": "The warm light of the winter sun highlights the arches."
+              }
+            },
+            {
+              "name": "Ermida de São Sebastian",
+              "tip_4lang": {
+                "de": "Perfekt für den Sonnenuntergang vor 17:30 Uhr.",
+                "hu": "Tökéletes naplemente nézéshez 17:30 előtt.",
+                "ro": "Perfect pentru a vedea apusul înainte de ora 17:30.",
+                "en": "Perfect for watching the sunset before 5:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne ist stark, aber der Schatten ist kühl.",
+              "Probieren Sie den lokalen Serpa-Käse zur Stärkung.",
+              "Planen Sie Aktivitäten im Freien vor 17:00 Uhr.",
+              "Ein Schal ist für die windigen Burgmauern ratsam.",
+              "Die klare Luft bietet eine weite Sicht über das Alentejo."
+            ],
+            "hu": [
+              "A nap erős lehet, de az árnyék hűvös.",
+              "Kóstolja meg a helyi Serpa sajtot energiapótlásként.",
+              "A szabadtéri programokat tervezze 17:00 óra elé.",
+              "A szeles várfalakon egy sál nagyon hasznos lehet.",
+              "A tiszta levegő messzi kilátást enged az Alentejóra."
+            ],
+            "ro": [
+              "Soarele poate fi puternic, dar la umbră este rece.",
+              "Gustați brânza locală de Serpa pentru energie.",
+              "Planificați activitățile în aer liber înainte de ora 17:00.",
+              "Un fular este util pentru zidurile vântoase ale cetății.",
+              "Aerul curat oferă o vizibilitate largă peste Alentejo."
+            ],
+            "en": [
+              "The sun is strong, but the shade is cool.",
+              "Try the local Serpa cheese for a quick boost.",
+              "Plan outdoor activities before 5:00 PM.",
+              "A scarf is advisable for the windy castle walls.",
+              "The clear air offers a wide view across the Alentejo."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +960,214 @@
           "The old town is small, but the streets can be narrow and busy. Ride carefully.",
           "Take the opportunity to explore the countryside around Serpa, which is easily accessible by bike."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt am Aquädukt unter grauem Himmel. Das Wasser läuft an den alten Bögen herab, während wir vorsichtig in die Stadt fahren.\n\nMittags suchen wir Schutz im Uhrenmuseum. Die Fahrräder parken sicher unter einem Vordach, während wir die Zeit im Trockenen verbringen.\n\nAm Nachmittag erkunden wir die Mauern von Serpa. Der Regen lässt nach, aber wir meiden steile, gepflasterte Abschnitte aus Sicherheitsgründen.\n\nDer Tag endet beim Palast der Grafen von Ficalho. Die feuchte Luft trägt den Duft von nassem Stein und Orangenbäumen durch die Stadt.",
+            "hu": "A biciklitúra az akvaduktnál kezdődik szürke égbolt alatt. A víz lecsorog a régi íveken, miközben óvatosan tekerünk be a városba.\n\nDélben az Óramúzeumban keresünk menedéket. A kerékpárok biztonságban vannak egy előtető alatt, amíg mi odabent nézelődünk.\n\nDélután Serpa falait fedezzük fel. Az eső csendesedik, de biztonsági okokból kerüljük a meredek, köves szakaszokat.\n\nA nap a Ficalho grófok palotájánál ér véget. A párás levegő a nedves kövek és a narancsfák illatát hordozza a városban.",
+            "ro": "Turul cu bicicleta începe la apeduct sub un cer gri. Apa se scurge pe vechile arcade în timp ce pedalăm cu grijă spre oraș.\n\nLa prânz căutăm adăpost în Muzeul Ceasului. Bicicletele sunt parcate în siguranță sub o copertină în timp ce noi vizităm muzeul.\n\nDupă-amiaza explorăm zidurile din Serpa. Ploaia se domolește, dar evităm secțiunile abrupte pavate din motive de siguranță.\n\nZiua se încheie la Palatul Conților de Ficalho. Aerul umed poartă parfumul pietrei ude și al portocalilor prin oraș.",
+            "en": "The bike tour starts at the aqueduct under a grey sky. Water runs down the ancient arches as we pedal carefully into the city.\n\nAt noon, we seek shelter in the Clock Museum. The bikes are parked safely under an overhang while we spend time indoors.\n\nIn the afternoon, we explore the walls of Serpa. The rain lets up, but we avoid steep, paved sections for safety reasons.\n\nThe day ends at the Palace of the Counts of Ficalho. The damp air carries the scent of wet stone and orange trees through the town."
+          },
+          "stops": [
+            {
+              "name": "Aqueduto de Serpa",
+              "tip_4lang": {
+                "de": "Vorsicht vor Pfützen unter den Bögen.",
+                "hu": "Vigyázat az ívek alatti tócsákkal.",
+                "ro": "Atenție la bălțile de sub arcade.",
+                "en": "Watch out for puddles under the arches."
+              }
+            },
+            {
+              "name": "Castle of Serpa",
+              "tip_4lang": {
+                "de": "Schieben Sie das Rad auf rutschigen Wegen.",
+                "hu": "Tolja a kerékpárt a csúszós szakaszokon.",
+                "ro": "Împingeți bicicleta pe porțiunile alunecoase.",
+                "en": "Push your bike on slippery sections."
+              }
+            },
+            {
+              "name": "Igreja de Santa Maria",
+              "tip_4lang": {
+                "de": "Kurze Pause im Trockenen einlegen.",
+                "hu": "Tartsunk egy rövid pihenőt a szárazon.",
+                "ro": "Faceți o scurtă pauză la adăpost.",
+                "en": "Take a short break in the dry."
+              }
+            },
+            {
+              "name": "Museu do Relógio",
+              "tip_4lang": {
+                "de": "Sicherer Abstellplatz für Räder vorhanden.",
+                "hu": "Biztonságos tárolóhely a bicikliknek.",
+                "ro": "Loc de parcare sigur pentru biciclete disponibil.",
+                "en": "Safe parking spot for bikes available."
+              }
+            },
+            {
+              "name": "Muralhas de Serpa",
+              "tip_4lang": {
+                "de": "Bremsen Sie frühzeitig vor Kopfsteinpflaster.",
+                "hu": "Fékezzen időben a macskakövek előtt.",
+                "ro": "Frânați din timp înainte de pavaj.",
+                "en": "Brake early before reaching cobblestones."
+              }
+            },
+            {
+              "name": "Ermida de São Sebastião",
+              "tip_4lang": {
+                "de": "Vermeiden Sie riskante Manöver bei Nässe.",
+                "hu": "Kerülje a kockázatos manővereket vizes úton.",
+                "ro": "Evitați manevrele riscante pe carosabil umed.",
+                "en": "Avoid risky maneuvers on wet roads."
+              }
+            },
+            {
+              "name": "Palácio dos Condes de Ficalho",
+              "tip_4lang": {
+                "de": "Das Ziel bietet Schutz für die letzte Etappe.",
+                "hu": "A célállomás védelmet nyújt az utolsó etapra.",
+                "ro": "Destinația oferă adăpost pentru ultima etapă.",
+                "en": "The destination offers shelter for the final leg."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine auffällige Regenjacke für bessere Sicht.",
+              "Prüfen Sie Ihre Bremsen vor dem Start.",
+              "Meiden Sie die weißen Fahrbahnmarkierungen, sie sind rutschig.",
+              "Nutzen Sie Schutzbleche, um trocken zu bleiben.",
+              "Kürzen Sie die Tour ab, wenn der Wind zu stark wird."
+            ],
+            "hu": [
+              "Viseljen feltűnő esőkabátot a jobb láthatóságért.",
+              "Indulás előtt ellenőrizze a fékeket.",
+              "Kerülje a fehér útburkolati jeleket, mert csúsznak.",
+              "Használjon sárvédőt, hogy száraz maradjon.",
+              "Rövidítse le a túrát, ha túl erős a szél."
+            ],
+            "ro": [
+              "Purtați o pelerină de ploaie reflectorizantă.",
+              "Verificați frânele înainte de plecare.",
+              "Evitați marcajele rutiere albe, sunt alunecoase.",
+              "Folosiți apărători de noroi pentru a rămâne uscați.",
+              "Scurtați turul dacă vântul devine prea puternic."
+            ],
+            "en": [
+              "Wear a bright raincoat for better visibility.",
+              "Check your brakes before starting.",
+              "Avoid white road markings as they are slippery.",
+              "Use mudguards to stay dry.",
+              "Shorten the tour if the wind becomes too strong."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Brise am Aquädukt ist belebend. Die kühle Luft macht das Treten in die Pedale leicht und angenehm.\n\nMittags erreichen wir die Burg von Serpa. In der Wintersonne strahlt der Stein eine sanfte Wärme aus, perfekt für eine kurze Rast.\n\nNachmittags führt die Route durch das Gassengewirr zur Muralhas. Das Licht ist jetzt golden und weich, ideal für Panoramaaufnahmen.\n\nZum Abend hin wird es spürbar kälter. Wir beenden die Tour am Palast, bevor der Frost die historischen Gassen von Serpa erreicht.",
+            "hu": "A reggeli szellő az akvaduktnál felüdítő. A hűvös levegő könnyűvé és kellemessé teszi a tekerést a város felé.\n\nDélben elérjük Serpa várát. A téli napsütésben a kövek finom meleget árasztanak, ami tökéletes egy rövid pihenőhöz.\n\nDélután az útvonal a sikátorokon keresztül vezet a várfalakhoz. A fények most aranyszínűek és lágyak, ideálisak a panorámafotókhoz.\n\nEste felé érezhetően lehűl az idő. A palotánál fejezzük be a túrát, mielőtt a fagy elérné Serpa történelmi utcáit.",
+            "ro": "Briza dimineții la apeduct este revigorantă. Aerul rece face pedalarea spre oraș ușoară și plăcută.\n\nLa prânz ajungem la castelul din Serpa. În soarele de iarnă, piatra emană o căldură subtilă, perfectă pentru o scurtă odihnă.\n\nDupă-amiaza traseul trece prin labirintul de străzi spre zidurile cetății. Lumina este acum aurie și moale, ideală pentru fotografii.\n\nSpre seară se face vizibil mai frig. Încheiem turul la palat înainte ca înghețul să cuprindă străzile istorice din Serpa.",
+            "en": "The morning breeze at the aqueduct is invigorating. The cool air makes pedaling towards the city easy and pleasant.\n\nAt noon, we reach the Castle of Serpa. In the winter sun, the stone radiates a subtle warmth, perfect for a short rest.\n\nIn the afternoon, the route leads through the maze of alleys to the Muralhas. The light is now golden and soft, ideal for panorama shots.\n\nTowards evening, it gets noticeably colder. We end the tour at the palace before frost reaches the historic streets of Serpa."
+          },
+          "stops": [
+            {
+              "name": "Aqueduto de Serpa",
+              "tip_4lang": {
+                "de": "Tragen Sie Handschuhe gegen den Fahrtwind.",
+                "hu": "Viseljen kesztyűt a menetszél ellen.",
+                "ro": "Purtați mănuși împotriva vântului.",
+                "en": "Wear gloves against the wind chill."
+              }
+            },
+            {
+              "name": "Castle of Serpa",
+              "tip_4lang": {
+                "de": "Genießen Sie die Sonne auf dem Burghof.",
+                "hu": "Élvezze a napsütést a várudvaron.",
+                "ro": "Bucurați-vă de soare în curtea castelului.",
+                "en": "Enjoy the sunshine in the castle courtyard."
+              }
+            },
+            {
+              "name": "Igreja de Santa Maria",
+              "tip_4lang": {
+                "de": "Respektieren Sie die Stille im Inneren.",
+                "hu": "Tisztelje a belső csendet látogatáskor.",
+                "ro": "Respectați liniștea din interior.",
+                "en": "Respect the silence inside during your visit."
+              }
+            },
+            {
+              "name": "Museu do Relógio",
+              "tip_4lang": {
+                "de": "Ein warmer Ort zum Aufwärmen der Hände.",
+                "hu": "Meleg hely a kezek felmelegítéséhez.",
+                "ro": "Un loc cald pentru a vă încălzi mâinile.",
+                "en": "A warm place to thaw out your hands."
+              }
+            },
+            {
+              "name": "Muralhas de Serpa",
+              "tip_4lang": {
+                "de": "Helles Licht kann auf dem Rad blenden.",
+                "hu": "Az erős fény vakító lehet kerékpározáskor.",
+                "ro": "Lumina puternică poate fi orbitoare la drum.",
+                "en": "Bright light can be dazzling while cycling."
+              }
+            },
+            {
+              "name": "Ermida de São Sebastião",
+              "tip_4lang": {
+                "de": "Abschluss vor dem frühen Temperatursturz.",
+                "hu": "Fejezze be a túrát a korai lehűlés előtt.",
+                "ro": "Încheiați înainte de scăderea temperaturii.",
+                "en": "Finish before the early temperature drop."
+              }
+            },
+            {
+              "name": "Palácio dos Condes de Ficalho",
+              "tip_4lang": {
+                "de": "Endpunkt mit guter Anbindung zum Zentrum.",
+                "hu": "Végpont jó összeköttetéssel a központ felé.",
+                "ro": "Punct final cu legături bune spre centru.",
+                "en": "End point with good connections to the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip.",
+              "Die Wintersonne im Alentejo kann täuschen; Sonnenschutz nutzen.",
+              "Planen Sie Ihre Rückkehr vor 17:30 Uhr ein.",
+              "Warme Getränke in Thermosflaschen sind ideal.",
+              "Achten Sie auf feuchte Stellen im Schatten der Mauern."
+            ],
+            "hu": [
+              "Öltözzön rétegesen (hagyma-elv).",
+              "Az alentejói téli nap csalóka lehet; használjon fényvédőt.",
+              "Tervezze meg a visszatérést 17:30 előtt.",
+              "A termoszban vitt meleg ital ideális ilyenkor.",
+              "Ügyeljen a nedves foltokra a falak árnyékában."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi.",
+              "Soarele de iarnă din Alentejo poate păcăli; folosiți protecție solară.",
+              "Planificați întoarcerea înainte de ora 17:30.",
+              "Băuturile calde în termos sunt ideale.",
+              "Atenție la porțiunile umede din umbra zidurilor."
+            ],
+            "en": [
+              "Dress in layers (onion principle).",
+              "The Alentejo winter sun can be deceiving; use sun protection.",
+              "Plan your return before 5:30 PM.",
+              "Warm drinks in thermoses are ideal for breaks.",
+              "Watch out for damp spots in the shadow of the walls."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1108,6 +1524,196 @@
           "Check the opening hours of wineries or cheese dairies in advance, some require a reservation.",
           "The roads in the Alentejo are often empty, but watch out for agricultural vehicles."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir parken beim Aquädukt im strömenden Regen. Die kurzen Wege zum Auto sind heute unser größter Vorteil.\n\nMittags besuchen wir die Burg und die Kirche. Wir nutzen die Parkmöglichkeiten in der Nähe, um trocken zu bleiben.\n\nNachmittags steht das Highlight an: der Besuch einer traditionellen Queijaria. Während es draußen regnet, genießen wir drinnen den berühmten Serpa-Käse.\n\nDer Tag endet mit einer Fahrt durch die nebligen Olivenhaine. Die Scheibenwischer ziehen rhythmisch ihre Bahnen über die Landschaft des Alentejo.",
+            "hu": "Az akvaduktnál parkolunk szakadó esőben. A mai nap legnagyobb előnye az autó közelsége.\n\nDélben meglátogatjuk a várat és a templomot. Igyekszünk minél közelebb parkolni a bejáratokhoz, hogy szárazak maradjunk.\n\nDélután jön a csúcspont: egy tradicionális Queijaria (sajtműhely) felkeresése. Amíg kint esik, mi bent élvezzük a híres Serpa sajtot.\n\nA nap az olajfaligetek közötti autózással zárul. Az ablaktörlők ritmikusan takarítják az alentejói táj látványát.",
+            "ro": "Parcăm lângă apeduct sub o ploaie torențială. Avantajul cel mai mare de astăzi este distanța scurtă până la mașină.\n\nLa prânz vizităm castelul și biserica. Folosim locurile de parcare din apropiere pentru a rămâne cât mai uscați.\n\nDupă-amiaza urmează punctul culminant: vizitarea unei Queijaria tradiționale. În timp ce afară plouă, noi savurăm faimoasa brânză Serpa în interior.\n\nZiua se încheie cu o plimbare printre livezile de măslini încețoșate. Ștergătoarele bat ritmic pe parbrizul care încadrează peisajul din Alentejo.",
+            "en": "We park near the aqueduct in pouring rain. Today's biggest advantage is the short distance back to the car.\n\nAt noon, we visit the castle and the church. we try to park as close as possible to the entrances to stay dry.\n\nIn the afternoon comes the highlight: a visit to a traditional Queijaria (cheese dairy). While it rains outside, we enjoy the famous Serpa cheese inside.\n\nThe day ends with a drive through the misty olive groves. The windshield wipers move rhythmically across the view of the Alentejo landscape."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Aqueduct",
+              "tip_4lang": {
+                "de": "Wählen Sie einen Platz nahe dem Fußweg.",
+                "hu": "Válasszon helyet a gyalogút közelében.",
+                "ro": "Alegeți un loc aproape de aleea pietonală.",
+                "en": "Choose a spot close to the pedestrian path."
+              }
+            },
+            {
+              "name": "Castle of Serpa & Igreja de Santa Maria",
+              "tip_4lang": {
+                "de": "Parken Sie am Platz vor der Kirche.",
+                "hu": "Parkoljon a templom előtti téren.",
+                "ro": "Parcați în piața din fața bisericii.",
+                "en": "Park in the square in front of the church."
+              }
+            },
+            {
+              "name": "Museu do Relógio",
+              "tip_4lang": {
+                "de": "Enge Gassen beim Parken meiden.",
+                "hu": "Kerülje a szűk utcákat parkoláskor.",
+                "ro": "Evitați străzile înguste la parcare.",
+                "en": "Avoid narrow alleys when looking for parking."
+              }
+            },
+            {
+              "name": "Lunch in the Historic Center",
+              "tip_4lang": {
+                "de": "Restaurants mit direktem Zugang wählen.",
+                "hu": "Válasszon közvetlen bejáratú éttermet.",
+                "ro": "Alegeți restaurante cu acces direct.",
+                "en": "Choose restaurants with direct access from the street."
+              }
+            },
+            {
+              "name": "Cheese Dairy Visit (Queijaria)",
+              "tip_4lang": {
+                "de": "Perfekte Indoor-Aktivität für Regentage.",
+                "hu": "Tökéletes fedett program esős napokra.",
+                "ro": "Activitate indoor perfectă pentru zile ploioase.",
+                "en": "Perfect indoor activity for rainy days."
+              }
+            },
+            {
+              "name": "Walk through the Olive Groves",
+              "tip_4lang": {
+                "de": "Vom Auto aus die Aussicht genießen.",
+                "hu": "Élvezze a kilátást az autóból.",
+                "ro": "Admirați priveliștea din mașină.",
+                "en": "Enjoy the view from the comfort of your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen können bei Regen rutschig sein.",
+              "Nutzen Sie die Queijaria-Besichtigung als Regenschutz.",
+              "Halten Sie Schirme im Auto griffbereit.",
+              "Achten Sie auf tiefere Pfützen auf unbefestigten Wegen.",
+              "Das Museum bietet guten Schutz für fast 2 Stunden."
+            ],
+            "hu": [
+              "Az utak esőben csúszósak lehetnek.",
+              "Használja a sajtüzem látogatását eső elleni védelemként.",
+              "Tartson esernyőket kéznél az autóban.",
+              "Ügyeljen a mélyebb tócsákra a földutakon.",
+              "A múzeum jó védelmet nyújt majdnem 2 órán át."
+            ],
+            "ro": [
+              "Drumurile pot fi alunecoase pe ploaie.",
+              "Folosiți vizita la Queijaria ca adăpost împotriva ploii.",
+              "Țineți umbrelele la îndemână în mașină.",
+              "Atenție la bălțile adânci de pe drumurile neasfaltate.",
+              "Muzeul oferă o protecție bună timp de aproape 2 ore."
+            ],
+            "en": [
+              "Roads can be slippery during rain.",
+              "Use the cheese dairy visit as protection against the rain.",
+              "Keep umbrellas handy in the car.",
+              "Watch out for deeper puddles on unpaved roads.",
+              "The museum provides good shelter for almost 2 hours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintersonne beleuchtet den Aquädukt auf beeindruckende Weise. Wir starten die Fahrt bei kühlen, aber angenehmen Temperaturen.\n\nMittags erkunden wir die Burg. Der Parkplatz ist weniger überfüllt als im Sommer, was den Zugang sehr entspannt macht.\n\nNachmittags fahren wir zur Queijaria. Der Käse schmeckt in der kühlen Jahreszeit besonders herzhaft zu einem Glas lokalem Rotwein.\n\nDer Abend endet mit einem Spaziergang durch die Olivenhaine. Die kahlen Äste der Bäume bilden grafische Muster gegen den brennenden Abendhimmel.",
+            "hu": "A téli nap lenyűgöző módon világítja meg az akvaduktot. Hűvös, de kellemes hőmérsékletben indulunk útnak.\n\nDélben felfedezzük a várat. A parkoló kevésbé zsúfolt, mint nyáron, ami nagyon kényelmessé teszi a látogatást.\n\nDélután a Queijaria felé vesszük az irányt. A sajt a hűvös évszakban különösen jól esik egy pohár helyi vörösbor mellé.\n\nA nap az olajfaligetekben tett sétával zárul. A fák csupasz ágai grafikus mintákat rajzolnak az izzó esti égboltra.",
+            "ro": "Soarele de iarnă luminează apeductul într-un mod impresionant. Începem drumul la temperaturi scăzute, dar plăcute.\n\nLa prânz explorăm castelul. Parcarea este mai puțin aglomerată decât vara, ceea ce face accesul foarte relaxat.\n\nDupă-amiaza mergem spre Queijaria. Brânza are un gust deosebit în sezonul rece, alături de un pahar de vin roșu local.\n\nSeara se încheie cu o plimbare prin livezile de măslini. Ramurile golașe ale copacilor formează modele grafice pe cerul arzător de seară.",
+            "en": "The winter sun illuminates the aqueduct in a stunning way. We start the drive in cool but pleasant temperatures.\n\nAt noon, we explore the castle. The parking lot is less crowded than in summer, making access very relaxed.\n\nIn the afternoon, we head to the Queijaria. The cheese tastes especially hearty in the cool season, paired with a glass of local red wine.\n\nThe evening ends with a walk through the olive groves. The bare branches of the trees form graphic patterns against the burning evening sky."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Aqueduct",
+              "tip_4lang": {
+                "de": "Perfekter Startpunkt für Winterfotos.",
+                "hu": "Tökéletes kezdőpont a téli fotókhoz.",
+                "ro": "Punct de plecare perfect pentru fotografii de iarnă.",
+                "en": "Perfect starting point for winter photography."
+              }
+            },
+            {
+              "name": "Castle of Serpa & Igreja de Santa Maria",
+              "tip_4lang": {
+                "de": "Kürzere Wege bei kühler Witterung bevorzugt.",
+                "hu": "A rövidebb gyalogutak előnyösek a hűvös időben.",
+                "ro": "Traseele mai scurte sunt preferabile pe vreme rece.",
+                "en": "Shorter walking distances are preferred in cool weather."
+              }
+            },
+            {
+              "name": "Museu do Relógio",
+              "tip_4lang": {
+                "de": "Parken Sie zentral für kurze Laufwege.",
+                "hu": "Parkoljon központilag a rövid sétákhoz.",
+                "ro": "Parcați central pentru distanțe scurte de mers.",
+                "en": "Park centrally for short walking distances."
+              }
+            },
+            {
+              "name": "Lunch in the Historic Center",
+              "tip_4lang": {
+                "de": "Warme lokale Eintöpfe probieren.",
+                "hu": "Kóstolja meg a meleg helyi egytálételeket.",
+                "ro": "Gustați tocănițele calde locale.",
+                "en": "Try the warm local stews for lunch."
+              }
+            },
+            {
+              "name": "Cheese Dairy Visit (Queijaria)",
+              "tip_4lang": {
+                "de": "In der Kühle reift der Käse besonders gut.",
+                "hu": "A hűvösben a sajt különösen jól érik.",
+                "ro": "În frig, brânza se maturează deosebit de bine.",
+                "en": "The cheese matures especially well in the cool weather."
+              }
+            },
+            {
+              "name": "Walk through the Olive Groves",
+              "tip_4lang": {
+                "de": "Jacke anziehen, sobald die Sonne untergeht.",
+                "hu": "Vegyen fel kabátot, amint lemegy a nap.",
+                "ro": "Puneți-vă haina imediat ce apune soarele.",
+                "en": "Put on your jacket as soon as the sun goes down."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Fernsicht im Winter ist oft besser als im Dunst des Sommers.",
+              "Vermeiden Sie Fahrten bei Nebel in den frühen Morgenstunden.",
+              "Die Queijaria ist auch im Winter ein Highlight.",
+              "Genießen Sie die Ruhe in den Olivenhainen.",
+              "Prüfen Sie die Reifendrücke bei fallenden Temperaturen."
+            ],
+            "hu": [
+              "A téli kilátás gyakran jobb, mint a nyári párában.",
+              "Kerülje a ködös vezetést a kora reggeli órákban.",
+              "A Queijaria télen is kiemelkedő élmény.",
+              "Élvezze a nyugalmat az olajfaligetekben.",
+              "Ellenőrizze a guminyomást a csökkenő hőmérsékletnél."
+            ],
+            "ro": [
+              "Vizibilitatea iarna este adesea mai bună decât în pâcla verii.",
+              "Evitați condusul pe ceață în orele dimineții.",
+              "Queijaria este un punct de atracție și iarna.",
+              "Bucurați-vă de liniștea din livezile de măslini.",
+              "Verificați presiunea în pneuri când temperatura scade."
+            ],
+            "en": [
+              "Winter visibility is often better than in the summer haze.",
+              "Avoid driving in fog during the early morning hours.",
+              "The Queijaria is a highlight even in winter.",
+              "Enjoy the peace and quiet in the olive groves.",
+              "Check tire pressures as temperatures drop."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1464,6 +2070,196 @@
           "Serpa is small and everything is within walking distance once you are in the center.",
           "Most regional buses do not have toilets, so plan accordingly."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Ankunft am Busbahnhof erfolgt bei strömendem Regen. Wir nutzen die überdachte Station, um unsere Route zu planen.\n\nMittags erreichen wir die Burg und das Uhrenmuseum. Die kurzen Wege zwischen den Sehenswürdigkeiten helfen uns, trocken zu bleiben.\n\nNachmittags besuchen wir den Palast der Grafen von Ficalho. Die historischen Räume bieten den perfekten Rückzugsort vor den Schauern.\n\nDer Tag endet an der Beja-Pforte. Wir warten im Trockenen auf den Bus zurück, während der Regen die Stadt in ein sanftes Grau taucht.",
+            "hu": "A buszpályaudvarra szakadó esőben érkezünk meg. A fedett állomást használjuk az útvonalunk megtervezéséhez.\n\nDélben elérjük a várat és az Óramúzeumot. A látnivalók közötti rövid távolságok segítenek abban, hogy szárazak maradjunk.\n\nDélután a Ficalho grófok palotáját látogatjuk meg. A történelmi termek tökéletes menedéket nyújtanak a záporok elől.\n\nA nap a Beja-kapunál ér véget. A szárazon várjuk a visszatérő buszt, miközben az eső lágy szürkeségbe vonja a várost.",
+            "ro": "Sosirea la autogară are loc pe o ploaie torențială. Folosim stația acoperită pentru a ne planifica traseul.\n\nLa prânz ajungem la castel și la Muzeul Ceasului. Distanțele scurte dintre obiective ne ajută să rămânem uscați.\n\nDupă-amiaza vizităm Palatul Conților de Ficalho. Sălile istorice oferă refugiul perfect în fața averselor de ploaie.\n\nZiua se încheie la Poarta Beja. Așteptăm autobuzul de întoarcere la adăpost, în timp ce ploaia îmbracă orașul într-un gri fin.",
+            "en": "Arrival at the bus station happens in pouring rain. We use the covered terminal to plan our route for the day.\n\nAt noon, we reach the castle and the Clock Museum. The short distances between the sights help us stay dry.\n\nIn the afternoon, we visit the Palace of the Counts of Ficalho. The historic rooms provide the perfect retreat from the showers.\n\nThe day ends at the Beja Gate. We wait in the dry for the bus back while the rain bathes the city in a soft grey."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Serpa Bus Station",
+              "tip_4lang": {
+                "de": "Warten Sie im Gebäude, bis der Regen nachlässt.",
+                "hu": "Várjon az épületben, amíg csendesedik az eső.",
+                "ro": "Așteptați în clădire până când ploaia se domolește.",
+                "en": "Wait inside the building until the rain lets up."
+              }
+            },
+            {
+              "name": "Aqueduto de Serpa",
+              "tip_4lang": {
+                "de": "Kurzer Fußweg vom Busbahnhof.",
+                "hu": "Rövid séta a buszpályaudvartól.",
+                "ro": "Scurtă plimbare de la autogară.",
+                "en": "Short walk from the bus station."
+              }
+            },
+            {
+              "name": "Castle & Walls of Serpa",
+              "tip_4lang": {
+                "de": "Viel Zeit im Museum verbringen.",
+                "hu": "Töltsön sok időt a múzeumban.",
+                "ro": "Alocați mult timp pentru muzeu.",
+                "en": "Spend plenty of time inside the museum."
+              }
+            },
+            {
+              "name": "Museu do Relógio",
+              "tip_4lang": {
+                "de": "Zentraler Anlaufpunkt bei Regen.",
+                "hu": "Központi állomás eső esetén.",
+                "ro": "Punct central de oprire pe ploaie.",
+                "en": "Central stopping point during rain."
+              }
+            },
+            {
+              "name": "Palácio dos Condes de Ficalho",
+              "tip_4lang": {
+                "de": "Überdachte Bereiche im Palast nutzen.",
+                "hu": "Használja a palota fedett részeit.",
+                "ro": "Folosiți zonele acoperite ale palatului.",
+                "en": "Use the covered areas within the palace."
+              }
+            },
+            {
+              "name": "Beja Gate",
+              "tip_4lang": {
+                "de": "Bushaltestelle in unmittelbarer Nähe.",
+                "hu": "Buszmegálló a közvetlen közelben.",
+                "ro": "Stație de autobuz în imediata apropiere.",
+                "en": "Bus stop is in the immediate vicinity."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Fahrpläne online, um Wartezeiten im Regen zu vermeiden.",
+              "Die Sehenswürdigkeiten liegen nah beieinander.",
+              "Tragen Sie Kleidung, die schnell trocknet.",
+              "Ein Taschenschirm ist bei Wind praktischer.",
+              "Nutzen Sie die Wartehallen an den Haltestellen."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet online a várakozás elkerülésére.",
+              "A látnivalók közel fekszenek egymáshoz.",
+              "Viseljen gyorsan száradó ruházatot.",
+              "A szélben az összecsukható esernyő praktikusabb.",
+              "Használja a megállók váróhelyiségeit."
+            ],
+            "ro": [
+              "Verificați orarul online pentru a evita așteptarea în ploaie.",
+              "Obiectivele turistice sunt situate aproape unele de altele.",
+              "Purtați haine care se usucă repede.",
+              "O umbrelă pliabilă este mai practică pe vânt.",
+              "Folosiți zonele de așteptare din stații."
+            ],
+            "en": [
+              "Check schedules online to avoid waiting in the rain.",
+              "The sights are located close to each other.",
+              "Wear clothing that dries quickly.",
+              "A compact umbrella is more practical in windy conditions.",
+              "Take advantage of the waiting areas at the stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Ankunft am Busbahnhof ist frisch. Wir nutzen den kurzen Spaziergang zum Aquädukt, um warm zu werden.\n\nMittags erkunden wir die Burg und die Stadtmauer. Das Winterlicht macht die weißen Häuser von Serpa besonders hell.\n\nNachmittags besuchen wir das Uhrenmuseum. Es ist ein warmer, einladender Ort inmitten der kühlen Altstadt.\n\nDer Tag endet an der Beja-Pforte. Während wir auf den Bus warten, sehen wir zu, wie die Sonne hinter den Hügeln des Alentejo verschwindet.",
+            "hu": "Friss levegő fogad a buszpályaudvaron. A rövid séta az akvadukthoz segít bemelegedni.\n\nDélben felfedezzük a várat és a városfalakat. A téli fények különösen ragyogóvá teszik Serpa fehér házait.\n\nDélután az Óramúzeumba látogatunk. Ez egy meleg, hívogató hely a hűvös óváros közepén.\n\nA nap a Beja-kapunál zárul. Amíg a buszra várunk, nézzük, ahogy a nap eltűnik az Alentejo dombjai mögött.",
+            "ro": "Sosirea la autogară este răcoroasă. Folosim scurta plimbare spre apeduct pentru a ne încălzi.\n\nLa prânz explorăm castelul și zidurile orașului. Lumina iernii face casele albe din Serpa deosebit de strălucitoare.\n\nDupă-amiaza vizităm Muzeul Ceasului. Este un loc cald și primitor în mijlocul centrului vechi răcoros.\n\nZiua se încheie la Poarta Beja. În timp ce așteptăm autobuzul, privim soarele cum dispare după dealurile din Alentejo.",
+            "en": "Arrival at the bus station is crisp. We use the short walk to the aqueduct to warm up.\n\nAt noon, we explore the castle and the city walls. The winter light makes the white houses of Serpa particularly bright.\n\nIn the afternoon, we visit the Clock Museum. It is a warm, welcoming place in the middle of the cool old town.\n\nThe day ends at the Beja Gate. While waiting for the bus, we watch the sun disappear behind the Alentejo hills."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Serpa Bus Station",
+              "tip_4lang": {
+                "de": "Zügig losgehen, um warm zu bleiben.",
+                "hu": "Induljon el tempósan, hogy melegen maradjon.",
+                "ro": "Mergeți vioi pentru a vă menține căldura.",
+                "en": "Walk briskly to stay warm."
+              }
+            },
+            {
+              "name": "Aqueduto de Serpa",
+              "tip_4lang": {
+                "de": "Klarer Himmel bietet weite Sicht.",
+                "hu": "A tiszta égbolt messzi kilátást biztosít.",
+                "ro": "Cerul senin oferă o vizibilitate largă.",
+                "en": "Clear skies provide extensive views."
+              }
+            },
+            {
+              "name": "Castle & Walls of Serpa",
+              "tip_4lang": {
+                "de": "Handschuhe für die kühlen Mauern einpacken.",
+                "hu": "Vigyen kesztyűt a hűvös várfalakhoz.",
+                "ro": "Luați mănuși pentru zidurile reci.",
+                "en": "Pack gloves for the cool castle walls."
+              }
+            },
+            {
+              "name": "Museu do Relógio",
+              "tip_4lang": {
+                "de": "Perfekter Ort zum Aufwärmen.",
+                "hu": "Tökéletes helyszín a felmelegedéshez.",
+                "ro": "Locul perfect pentru a vă încălzi.",
+                "en": "The perfect spot to warm up."
+              }
+            },
+            {
+              "name": "Palácio dos Condes de Ficalho",
+              "tip_4lang": {
+                "de": "Bewundern Sie die Architektur im Winterlicht.",
+                "hu": "Csodálja meg az építészetet a téli fényben.",
+                "ro": "Admirați arhitectura în lumina iernii.",
+                "en": "Admire the architecture in the winter light."
+              }
+            },
+            {
+              "name": "Beja Gate",
+              "tip_4lang": {
+                "de": "Planen Sie den Rückweg vor 17:30 Uhr.",
+                "hu": "Tervezze meg a visszautat 17:30 előtt.",
+                "ro": "Planificați întoarcerea înainte de ora 17:30.",
+                "en": "Plan your return trip before 5:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können im Winter leicht abweichen.",
+              "Die Burgmauern sind im Winter weniger besucht.",
+              "Nutzen Sie die beheizten Busse für die Anreise.",
+              "Ein warmer Snack am Busbahnhof hilft gegen die Kälte.",
+              "Die Lichtverhältnisse sind ideal für Architekturfotos."
+            ],
+            "hu": [
+              "A menetrendek télen kismértékben eltérhetnek.",
+              "A várfalak télen kevésbé látogatottak.",
+              "Használja a fűtött buszokat az utazáshoz.",
+              "Egy meleg harapnivaló a pályaudvaron segít a hideg ellen.",
+              "A fényviszonyok ideálisak az építészeti fotókhoz."
+            ],
+            "ro": [
+              "Orarele pot varia ușor în timpul iernii.",
+              "Zidurile castelului sunt mai puțin vizitate iarna.",
+              "Folosiți autobuzele încălzite pentru deplasare.",
+              "O gustare caldă la autogară ajută împotriva frigului.",
+              "Condițiile de lumină sunt ideale pentru fotografii de arhitectură."
+            ],
+            "en": [
+              "Schedules may vary slightly in winter.",
+              "The castle walls are less crowded in winter.",
+              "Take advantage of heated buses for travel.",
+              "A warm snack at the bus station helps against the cold.",
+              "The lighting conditions are ideal for architectural photos."
+            ]
+          }
+        }
       }
     }
   }

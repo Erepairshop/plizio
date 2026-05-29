@@ -1,221 +1,205 @@
 {
   "city_id": "uk-huddersfield-cities-v2",
   "anchor": {
-    "name": "St George's Square",
+    "name": "Huddersfield Railway Station",
     "coords": [
-      -1.785,
-      53.6458
+      53.6485,
+      -1.7858
     ]
   },
   "modes": {
     "walk": {
       "mode": "walk",
-      "speed_kmh": 3,
+      "speed_kmh": 4,
       "start": "09:00",
-      "end_estimate": "17:35",
-      "total_km": 4.8,
+      "end_estimate": "16:45",
+      "total_km": 4.2,
       "stop_count": 6,
       "stops": [
         {
-          "name_4lang": {
-            "de": "St. George's Square",
-            "hu": "Szent György tér",
-            "ro": "Piața St. George",
-            "en": "St George's Square"
-          },
-          "coords": [
-            -1.785,
-            53.6458
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "09:10",
-          "stay_min": 25,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0,
-          "tip_5lang": {
-            "de": "Bewundern Sie die viktorianische Architektur und die Statue von Harold Wilson.",
-            "hu": "Csodálja meg a viktoriánus építészetet és Harold Wilson szobrát.",
-            "ro": "Admirați arhitectura victoriană și statuia lui Harold Wilson.",
-            "en": "Admire the Victorian architecture and the statue of Harold Wilson."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Bahnhof Huddersfield",
+          "name": {
+            "de": "Huddersfield Bahnhof",
             "hu": "Huddersfield vasútállomás",
             "ro": "Gara Huddersfield",
             "en": "Huddersfield Railway Station"
           },
           "coords": [
-            -1.786,
-            53.646
+            53.6485,
+            -1.7858
           ],
           "category": "landmark",
-          "arrive_at": "09:37",
-          "stay_min": 25,
-          "hop_from_prev_min": 2,
-          "hop_from_prev_km": 0.1,
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Bekannt für seine neoklassizistische Fassade, achten Sie auf die beiden Pubs am Eingang.",
-            "hu": "Neoklasszikus homlokzatáról ismert; keresse a két pubot a bejáratnál.",
-            "ro": "Renumită pentru fațada sa neoclasică, observați cele două pub-uri de la intrare.",
-            "en": "Known for its neoclassical facade, look for the two pubs at the entrance."
+            "de": "Bewundern Sie die prächtige neoklassizistische Fassade aus dem 19. Jahrhundert.",
+            "hu": "Csodáld meg a 19. századi neoklasszicista homlokzatot.",
+            "ro": "Admirați fațada neoclasică magnifică din secolul al XIX-lea.",
+            "en": "Admire the magnificent 19th-century neoclassical facade."
           }
         },
         {
-          "name_4lang": {
-            "de": "Rathaus von Huddersfield",
-            "hu": "Huddersfieldi városháza",
+          "name": {
+            "de": "St. George's Square",
+            "hu": "Szent György tér",
+            "ro": "Piața Sf. Gheorghe",
+            "en": "St George's Square"
+          },
+          "coords": [
+            53.6482,
+            -1.7845
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Suchen Sie die Statue von Sir Harold Wilson direkt auf dem Platz.",
+            "hu": "Keresd meg Sir Harold Wilson szobrát közvetlenül a téren.",
+            "ro": "Căutați statuia lui Sir Harold Wilson chiar în piață.",
+            "en": "Look for the statue of Sir Harold Wilson right in the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Huddersfield Rathaus",
+            "hu": "Huddersfield Városháza",
             "ro": "Primăria Huddersfield",
             "en": "Huddersfield Town Hall"
           },
           "coords": [
-            -1.7855,
-            53.6445
+            53.6444,
+            -1.7818
           ],
           "category": "landmark",
-          "arrive_at": "10:08",
-          "stay_min": 40,
-          "hop_from_prev_min": 6,
-          "hop_from_prev_km": 0.3,
+          "arrive_at": "10:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
           "tip_5lang": {
-            "de": "Ein prächtiges viktorianisches Gebäude. Überprüfen Sie, ob eine Orgelvorführung stattfindet.",
-            "hu": "Lenyűgöző viktoriánus épület. Érdeklődjön, van-e orgonakoncert.",
-            "ro": "O clădire victoriană splendidă. Verificați dacă există un recital de orgă.",
-            "en": "A splendid Victorian building. Check if there's an organ recital scheduled."
+            "de": "Ein viktorianisches Meisterwerk, in dem oft Konzerte stattfinden.",
+            "hu": "Viktoriánus remekmű, amely gyakran ad otthont koncerteknek.",
+            "ro": "O capodoperă victoriană care găzduiește adesea concerte.",
+            "en": "A Victorian masterpiece that often hosts concerts."
           }
         },
         {
-          "name_4lang": {
-            "de": "Lawrence Batley Theatre",
+          "name": {
+            "de": "Lawrence Batley Theater",
             "hu": "Lawrence Batley Színház",
             "ro": "Teatrul Lawrence Batley",
             "en": "Lawrence Batley Theatre"
           },
           "coords": [
-            -1.783,
-            53.647
+            53.6438,
+            -1.781
           ],
-          "category": "theatres/cultural-centres",
-          "arrive_at": "10:56",
-          "stay_min": 20,
-          "hop_from_prev_min": 8,
-          "hop_from_prev_km": 0.4,
+          "category": "theatres/cultural centres",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
           "tip_5lang": {
-            "de": "Werfen Sie einen Blick auf den Spielplan für Abendvorstellungen oder genießen Sie einen Kaffee im Café.",
-            "hu": "Nézze meg az esti műsort, vagy igyon egy kávét a kávézóban.",
-            "ro": "Aruncați o privire la programul spectacolelor de seară sau savurați o cafea la cafenea.",
-            "en": "Have a look at the schedule for evening shows or enjoy a coffee in its cafe."
+            "de": "Dieses Gebäude war früher eine methodistische Kapelle.",
+            "hu": "Ez az épület korábban metodista kápolna volt.",
+            "ro": "Această clădire a fost anterior o capelă metodistă.",
+            "en": "This building was formerly a Methodist chapel."
           }
         },
         {
-          "name_4lang": {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a belvárosban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            53.645,
+            -1.7825
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie eine traditionelle Yorkshire-Pastete in einer lokalen Bäckerei.",
+            "hu": "Kóstolj meg egy hagyományos yorkshire-i pitét egy helyi pékségben.",
+            "ro": "Încercați o plăcintă tradițională de Yorkshire la o brutărie locală.",
+            "en": "Try a traditional Yorkshire pie at a local bakery."
+          }
+        },
+        {
+          "name": {
             "de": "Greenhead Park",
             "hu": "Greenhead Park",
             "ro": "Parcul Greenhead",
             "en": "Greenhead Park"
           },
           "coords": [
-            -1.8,
-            53.645
+            53.6475,
+            -1.7965
           ],
           "category": "parks/promenades/beaches",
-          "arrive_at": "11:46",
+          "arrive_at": "13:55",
           "stay_min": 120,
-          "hop_from_prev_min": 30,
-          "hop_from_prev_km": 1.5,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
           "tip_5lang": {
-            "de": "Perfekt für ein Picknick-Mittagessen. Es gibt auch einen See und Sportanlagen.",
-            "hu": "Tökéletes egy piknik ebédhez. Van egy tó és sportlétesítmények is.",
-            "ro": "Perfect pentru un prânz la picnic. Există și un lac și facilități sportive.",
-            "en": "Perfect for a picnic lunch. There's also a lake and sports facilities."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Tolson Museum",
-            "hu": "Tolson Múzeum",
-            "ro": "Muzeul Tolson",
-            "en": "Tolson Museum"
-          },
-          "coords": [
-            -1.75,
-            53.643
-          ],
-          "category": "museums",
-          "arrive_at": "14:36",
-          "stay_min": 150,
-          "hop_from_prev_min": 50,
-          "hop_from_prev_km": 2.5,
-          "tip_5lang": {
-            "de": "Erfahren Sie mehr über die lokale Geschichte von Huddersfield, von der Vorgeschichte bis heute.",
-            "hu": "Ismerje meg Huddersfield helytörténetét az őskortól napjainkig.",
-            "ro": "Descoperiți istoria locală a Huddersfield, din preistorie până în prezent.",
-            "en": "Discover the local history of Huddersfield, from prehistory to the present day."
+            "de": "Besuchen Sie den italienischen Garten und den Ententeich.",
+            "hu": "Látogass el az olasz kerthez és a kacsás tóhoz.",
+            "ro": "Vizitați grădina italiană și iazul cu rațe.",
+            "en": "Visit the Italian garden and the duck pond."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, dem St. George's Square, umgeben von beeindruckender viktorianischer Architektur. Der Vormittag ist der Erkundung des Stadtzentrums gewidmet, einschließlich des berühmten Bahnhofs und des majestätischen Rathauses. Am Nachmittag machen Sie einen gemütlichen Spaziergang zum Greenhead Park für eine Mittagspause, bevor Sie in die reiche Geschichte der Region im Tolson Museum eintauchen. Dieser Rundgang bietet eine perfekte Mischung aus architektonischer Schönheit, kulturellem Erbe und entspannender Parklandschaft und endet mit einem tiefen Einblick in die Vergangenheit von Huddersfield.",
-        "hu": "Kezdje a napot a város szívében, a lenyűgöző viktoriánus építészettel körülvett Szent György téren. A délelőtt a városközpont felfedezésével telik, beleértve az ikonikus vasútállomást és a fenséges Városházát. Délután tegyen egy kellemes sétát a Greenhead Parkba egy ebédszünetre, mielőtt elmerülne a régió gazdag történelmében a Tolson Múzeumban. Ez a séta az építészeti szépség, a kulturális örökség és a pihentető parki környezet tökéletes keverékét kínálja, és Huddersfield múltjának mély megismerésével zárul.",
-        "ro": "Începeți ziua în inima orașului, Piața St. George, înconjurată de o arhitectură victoriană impresionantă. Dimineața este dedicată explorării centrului orașului, inclusiv a gării iconice și a primăriei maiestuoase. După-amiaza, faceți o plimbare relaxantă spre Parcul Greenhead pentru o pauză de prânz, înainte de a vă adânci în istoria bogată a regiunii la Muzeul Tolson. Acest tur pietonal oferă un amestec perfect de frumusețe arhitecturală, patrimoniu cultural și peisaj de parc relaxant, culminând cu o înțelegere profundă a trecutului Huddersfield.",
-        "en": "Start your day in the heart of the town, St George's Square, surrounded by impressive Victorian architecture. The morning is dedicated to exploring the town centre, including the iconic railway station and the majestic Town Hall. In the afternoon, take a leisurely stroll to Greenhead Park for a lunch break before delving into the region's rich history at the Tolson Museum. This walking tour offers a perfect blend of architectural beauty, cultural heritage, and relaxing parkland, culminating in a deep dive into Huddersfield's past."
+        "de": "Ihr Tag beginnt am prächtigen Huddersfield Bahnhof, einem der schönsten Bahnhöfe Englands. Nach einem kurzen Spaziergang über den St. George's Square erkunden Sie das kulturelle Herz der Stadt mit dem Rathaus und dem Lawrence Batley Theater. Nach einem herzhaften Yorkshire-Mittagessen beenden Sie den Tag entspannt im weitläufigen Greenhead Park, einer grünen Oase nahe dem Zentrum.",
+        "hu": "A napod Huddersfield lenyűgöző vasútállomásán indul, amely Anglia egyik legszebb állomása. A Szent György tér érintésével felfedezed a város kulturális szívét a Városházával és a Lawrence Batley Színházzal. Egy kiadós yorkshire-i ebéd után a napot a tágas Greenhead Parkban zárod, amely egy igazi zöld oázis a központ közelében.",
+        "ro": "Ziua începe la gara magnifică din Huddersfield, una dintre cele mai frumoase din Anglia. După o scurtă plimbare prin Piața Sf. Gheorghe, explorați inima culturală a orașului cu Primăria și Teatrul Lawrence Batley. După un prânz copios în stil Yorkshire, încheiați ziua relaxându-vă în vastul Parc Greenhead, o oază de verdeață aproape de centru.",
+        "en": "Your day begins at the magnificent Huddersfield Railway Station, one of the finest in England. After a short walk across St George's Square, explore the town's cultural heart with the Town Hall and Lawrence Batley Theatre. After a hearty Yorkshire lunch, finish the day relaxing in the expansive Greenhead Park, a green oasis near the center."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Yorkshire Pudding",
-            "tip": "Ein Muss in einem traditionellen Pub, oft mit Sonntagsbraten serviert."
+            "name": "Standard Quay",
+            "tip": "Probieren Sie die berühmten Yorkshire Puddings."
           },
           {
-            "name": "Parkin",
-            "tip": "Ein Ingwerkuchen, der traditionell am Guy-Fawkes-Tag gegessen wird."
-          },
-          {
-            "name": "Wensleydale-Käse",
-            "tip": "Probieren Sie diesen krümeligen Käse mit einem Stück Obstkuchen."
+            "name": "Byram Arcade Cafe",
+            "tip": "Frische lokale Produkte in historischem Ambiente."
           }
         ],
         "hu": [
           {
-            "name": "Yorkshire Pudding",
-            "tip": "Hagyományos pubokban kötelező, gyakran vasárnapi sülttel tálalják."
+            "name": "Standard Quay",
+            "tip": "Kóstold meg a híres Yorkshire puddingokat."
           },
           {
-            "name": "Parkin",
-            "tip": "Gyömbéres sütemény, amelyet hagyományosan Guy Fawkes napján esznek."
-          },
-          {
-            "name": "Wensleydale sajt",
-            "tip": "Kóstolja meg ezt a morzsalékos sajtot egy szelet gyümölcskenyérrel."
+            "name": "Byram Arcade Cafe",
+            "tip": "Friss helyi alapanyagok történelmi környezetben."
           }
         ],
         "ro": [
           {
-            "name": "Budincă Yorkshire",
-            "tip": "O necesitate la un pub tradițional, adesea servită cu friptură de duminică."
+            "name": "Standard Quay",
+            "tip": "Încercați faimoasele budinci de Yorkshire."
           },
           {
-            "name": "Parkin",
-            "tip": "O prăjitură de turtă dulce consumată tradițional de Noaptea lui Guy Fawkes."
-          },
-          {
-            "name": "Brânză Wensleydale",
-            "tip": "Încercați această brânză sfărâmicioasă cu o felie de prăjitură cu fructe."
+            "name": "Byram Arcade Cafe",
+            "tip": "Produse locale proaspete într-un cadru istoric."
           }
         ],
         "en": [
           {
-            "name": "Yorkshire Pudding",
-            "tip": "A must-try in a traditional pub, often served with Sunday roast."
+            "name": "Standard Quay",
+            "tip": "Try the famous Yorkshire puddings."
           },
           {
-            "name": "Parkin",
-            "tip": "A ginger cake traditionally eaten on Guy Fawkes Night."
-          },
-          {
-            "name": "Wensleydale Cheese",
-            "tip": "Try this crumbly cheese with a slice of fruitcake."
+            "name": "Byram Arcade Cafe",
+            "tip": "Fresh local produce in a historic setting."
           }
         ]
       },
@@ -223,48 +207,48 @@
         "de": [
           {
             "name": "Greenhead Park Rosengarten",
-            "tip": "Finden Sie eine ruhige Bank inmitten der duftenden Blumen.",
-            "emoji": "🍃"
+            "tip": "Ein ruhiger Ort zum Lesen.",
+            "emoji": "🌹"
           },
           {
-            "name": "Ufer des Huddersfield Narrow Canal",
-            "tip": "Ein friedlicher Spaziergang entlang des Wassers, abseits des städtischen Trubels.",
+            "name": "Beaumont Park Kaskaden",
+            "tip": "Beruhigendes Wasserrauschen.",
             "emoji": "🏞️"
           }
         ],
         "hu": [
           {
-            "name": "Greenhead Park Rózsakert",
-            "tip": "Keressen egy csendes padot az illatos virágok között.",
-            "emoji": "🍃"
+            "name": "Greenhead Park rózsakert",
+            "tip": "Csendes hely az olvasáshoz.",
+            "emoji": "🌹"
           },
           {
-            "name": "Huddersfield Narrow Canal partja",
-            "tip": "Békés séta a víz mentén, távol a városi nyüzsgéstől.",
+            "name": "Beaumont Park vízesések",
+            "tip": "Nyugtató vízcsobogás.",
             "emoji": "🏞️"
           }
         ],
         "ro": [
           {
-            "name": "Grădina de trandafiri din Parcul Greenhead",
-            "tip": "Găsiți o bancă liniștită printre florile parfumate.",
-            "emoji": "🍃"
+            "name": "Grădina de trandafiri Greenhead",
+            "tip": "Un loc liniștit pentru citit.",
+            "emoji": "🌹"
           },
           {
-            "name": "Malurile canalului îngust Huddersfield",
-            "tip": "O plimbare liniștită de-a lungul apei, departe de agitația orașului.",
+            "name": "Cascadele Beaumont Park",
+            "tip": "Sunetul liniștitor al apei.",
             "emoji": "🏞️"
           }
         ],
         "en": [
           {
             "name": "Greenhead Park Rose Garden",
-            "tip": "Find a quiet bench amidst the fragrant blooms.",
-            "emoji": "🍃"
+            "tip": "A quiet spot for reading.",
+            "emoji": "🌹"
           },
           {
-            "name": "Banks of the Huddersfield Narrow Canal",
-            "tip": "A peaceful walk along the water, away from the urban bustle.",
+            "name": "Beaumont Park Cascades",
+            "tip": "Soothe your soul with the sound of water.",
             "emoji": "🏞️"
           }
         ]
@@ -273,312 +257,435 @@
         "de": [
           {
             "name": "Byram Arcade",
-            "tip": "Eine wunderschöne viktorianische Arkade mit unabhängigen Geschäften und Boutiquen."
+            "tip": "Unabhängige Boutiquen in einem viktorianischen Gebäude."
           },
           {
             "name": "Huddersfield Open Market",
-            "tip": "Suchen Sie nach lokalen Produkten, Kunsthandwerk und Vintage-Funden."
+            "tip": "Lokales Handwerk und frische Lebensmittel."
           }
         ],
         "hu": [
           {
             "name": "Byram Arcade",
-            "tip": "Gyönyörű viktoriánus árkád független üzletekkel és butikokkal."
+            "tip": "Független butikok egy viktoriánus épületben."
           },
           {
-            "name": "Huddersfieldi Szabadtéri Piac",
-            "tip": "Keressen helyi termékeket, kézműves árukat és vintage kincseket."
+            "name": "Huddersfield Open Market",
+            "tip": "Helyi kézműves termékek és friss áruk."
           }
         ],
         "ro": [
           {
-            "name": "Arcada Byram",
-            "tip": "O frumoasă arcadă victoriană cu magazine independente și buticuri."
+            "name": "Byram Arcade",
+            "tip": "Boutique-uri independente într-o clădire victoriană."
           },
           {
-            "name": "Piața Deschisă Huddersfield",
-            "tip": "Căutați produse locale, artizanat și obiecte de epocă."
+            "name": "Huddersfield Open Market",
+            "tip": "Meșteșuguri locale și produse proaspete."
           }
         ],
         "en": [
           {
             "name": "Byram Arcade",
-            "tip": "A beautiful Victorian arcade with independent shops and boutiques."
+            "tip": "Independent boutiques in a Victorian setting."
           },
           {
             "name": "Huddersfield Open Market",
-            "tip": "Browse for local produce, crafts, and vintage finds."
+            "tip": "Local crafts and fresh food."
           }
         ]
       },
       "tips": {
         "de": [
-          "Tragen Sie bequeme Schuhe, da das Stadtzentrum und die Parks Kopfsteinpflaster und unebene Wege haben.",
-          "Das Wetter in Yorkshire kann unvorhersehbar sein, packen Sie also einen leichten Regenmantel ein.",
-          "Viele der zentralen Sehenswürdigkeiten liegen nahe beieinander, was diesen Spaziergang sehr überschaubar macht.",
-          "Überprüfen Sie die Öffnungszeiten des Tolson Museums im Voraus, da diese variieren können."
+          "Das Stadtzentrum ist sehr kompakt und gut zu Fuß erreichbar.",
+          "Achten Sie auf die blaue Plaketten an historischen Gebäuden.",
+          "Die lokalen Busse sind nützlich, um die steileren Hügel zu vermeiden.",
+          "Packen Sie einen Regenschirm ein, das Wetter in Yorkshire ist wechselhaft."
         ],
         "hu": [
-          "Viseljen kényelmes cipőt, mivel a városközpontban és a parkokban macskaköves és egyenetlen utak vannak.",
-          "Yorkshire időjárása kiszámíthatatlan, ezért csomagoljon egy könnyű esőkabátot.",
-          "A központi látnivalók közül sok közel van egymáshoz, így ez a séta nagyon kezelhető.",
-          "Előzetesen ellenőrizze a Tolson Múzeum nyitvatartási idejét, mert az változhat."
+          "A városközpont kompakt és jól bejárható gyalog.",
+          "Figyeld a kék emléktáblákat a történelmi épületeken.",
+          "A helyi buszok hasznosak a meredekebb dombok elkerülésére.",
+          "Vigyél esernyőt, a yorkshire-i időjárás kiszámíthatatlan."
         ],
         "ro": [
-          "Purtați încălțăminte confortabilă, deoarece centrul orașului și parcurile au pavaj și poteci denivelate.",
-          "Vremea în Yorkshire poate fi imprevizibilă, așa că împachetați o haină de ploaie ușoară.",
-          "Multe dintre atracțiile centrale sunt apropiate, ceea ce face acest tur pietonal foarte gestionabil.",
-          "Verificați în avans orele de deschidere ale Muzeului Tolson, deoarece acestea pot varia."
+          "Centrul orașului este compact și ușor de parcurs pe jos.",
+          "Căutați plăcuțele albastre pe clădirile istorice.",
+          "Autobuzele locale sunt utile pentru a evita dealurile abrupte.",
+          "Luați o umbrelă, vremea din Yorkshire este schimbătoare."
         ],
         "en": [
-          "Wear comfortable shoes as the town centre and parks have cobblestones and uneven paths.",
-          "The weather in Yorkshire can be unpredictable, so pack a light raincoat.",
-          "Many of the central attractions are close together, making this walking tour very manageable.",
-          "Check the opening times for the Tolson Museum in advance as they can vary."
+          "The town center is compact and very walkable.",
+          "Look out for the blue plaques on historic buildings.",
+          "Local buses are handy for avoiding the steeper hills.",
+          "Pack an umbrella, Yorkshire weather is unpredictable."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am St George's Square, wo der beeindruckende Bahnhofsvorbau Schutz vor dem typischen Yorkshire-Regen bietet. Mittags führt der Weg zur Byram Arcade, deren Glasdach trockenes Shopping ermöglicht. Den Nachmittag verbringen Sie im Greenhead Park, wobei das Gewächshaus ein idealer Rückzugsort ist. Den Abend lassen Sie im Tolson Museum ausklingen, wo Sie die Industriegeschichte der Stadt im Warmen und Trockenen erkunden können.",
+            "hu": "Kezdje a napot a Szent György téren, ahol a vasútállomás monumentális portikusza alatt várhatja ki a záport. Délben a Byram Arcade viktoriánus tetőszerkezete biztosít száraz menedéket a nézelődéshez. Délután a Greenhead Park üvegházában pihenhet meg az eső elől, a napot pedig a Tolson Múzeum termeiben zárhatja, ahol Huddersfield gazdag textilipari múltját ismerheti meg, miközben odakint esik.",
+            "ro": "Începeți ziua în St George's Square, unde porticul gării oferă un adăpost excelent împotriva ploii. La prânz, vizitați Byram Arcade, a cărei structură de sticlă vă permite să explorați magazinele fără umbrelă. După-amiaza, îndreptați-vă spre Greenhead Park, folosind sera ca refugiu, iar seara vizitați Muzeul Tolson, unde istoria locală poate fi descoperită la adăpost de vremea nefavorabilă.",
+            "en": "Start your day at St George's Square, using the station's grand portico as a shield from the drizzle. At midday, head to Byram Arcade, where the Victorian glass roof offers dry shopping. Spend your afternoon at Greenhead Park, finding shelter in the conservatory if it pours. End the day at Tolson Museum, exploring the town's industrial heritage inside the warm and dry galleries of the Victorian mansion."
+          },
+          "stops": [
+            {
+              "name": "St George's Square",
+              "tip_5lang": {
+                "de": "Der Bahnhofsvorbau bietet Schutz.",
+                "hu": "A vasútállomás portikusza jó menedék.",
+                "ro": "Porticul gării oferă adăpost.",
+                "en": "The station portico offers great shelter."
+              }
+            },
+            {
+              "name": "Huddersfield Railway Station",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Lobby im Trockenen.",
+                "hu": "Csodálja meg a belső teret szárazon.",
+                "ro": "Admirați interiorul la adăpost.",
+                "en": "Admire the grand lobby while staying dry."
+              }
+            },
+            {
+              "name": "Byram Arcade",
+              "tip_5lang": {
+                "de": "Perfekt überdachte viktorianische Passage.",
+                "hu": "Tökéletes fedett viktoriánus passzázs.",
+                "ro": "Pasaj victorian perfect acoperit.",
+                "en": "Perfectly covered Victorian arcade."
+              }
+            },
+            {
+              "name": "Lawrence Batley Theatre",
+              "tip_5lang": {
+                "de": "Das Foyer ist ein warmer Pausenort.",
+                "hu": "A foyer meleg pihenőhely az esőben.",
+                "ro": "Foaierul este un loc cald de odihnă.",
+                "en": "The foyer is a warm spot for a break."
+              }
+            },
+            {
+              "name": "Greenhead Park",
+              "tip_5lang": {
+                "de": "Das Gewächshaus bietet Schutz vor Regen.",
+                "hu": "Az üvegház védelmet nyújt az eső ellen.",
+                "ro": "Sera oferă protecție împotriva ploii.",
+                "en": "The conservatory provides rain cover."
+              }
+            },
+            {
+              "name": "Tolson Museum",
+              "tip_5lang": {
+                "de": "Umfangreiche Ausstellungen im Innenraum.",
+                "hu": "Kiterjedt beltéri kiállítások.",
+                "ro": "Expoziții interioare extinse.",
+                "en": "Extensive indoor exhibits."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei Yorkshire-Wind unerlässlich.",
+              "Die Byram Arcade ist der beste Ort für eine trockene Mittagspause.",
+              "Der Weg zum Tolson Museum kann bei Starkregen rutschig sein.",
+              "Nutzen Sie die Cafés in der Innenstadt als Zwischenstopps."
+            ],
+            "hu": [
+              "A yorkshire-i szélben egy erős esernyő elengedhetetlen.",
+              "A Byram Arcade a legjobb hely egy száraz ebédszünethez.",
+              "A Tolson Múzeum felé vezető út csúszós lehet szakadó esőben.",
+              "Használja a belvárosi kávézókat pihenőpontként."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială pentru vântul din Yorkshire.",
+              "Byram Arcade este cel mai bun loc pentru o pauză de prânz uscată.",
+              "Drumul spre Muzeul Tolson poate fi alunecos pe ploaie torențială.",
+              "Folosiți cafenelele din centru ca puncte de oprire."
+            ],
+            "en": [
+              "A sturdy umbrella is essential for the Yorkshire wind.",
+              "Byram Arcade is the best spot for a dry lunch break.",
+              "The path to Tolson Museum can be slippery in heavy rain.",
+              "Use city center cafes as frequent pit stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen am St George's Square zeigt die frostige Pracht der viktorianischen Architektur. Mittags wärmen Sie sich in den Boutiquen der Byram Arcade auf. Ein kurzer Spaziergang durch den winterlichen Greenhead Park bietet klare Luft, bevor Sie sich im Lawrence Batley Theatre oder im Tolson Museum aufwärmen. Da die Sonne früh untergeht, erstrahlen die Lichter der Stadt bereits am späten Nachmittag in festlichem Glanz.",
+            "hu": "A téri reggel Huddersfield viktoriánus épületeinek fagyos pompáját mutatja be. Délben a Byram Arcade butikjai között melegedhetünk fel. Egy rövid séta a Greenhead Parkban frissítő, de délutánra érdemes a Lawrence Batley Színház vagy a Tolson Múzeum fűtött termeibe vonulni. Mivel korán sötétedik, a város fényei már kora délután ünnepi hangulatot árasztanak.",
+            "ro": "O dimineață de iarnă în St George's Square dezvăluie splendoarea înghețată a arhitecturii victoriene. La prânz, încălziți-vă în magazinele din Byram Arcade. O plimbare scurtă prin Greenhead Park oferă aer curat, înainte de a vă refugia la Teatrul Lawrence Batley sau la Muzeul Tolson. Deoarece soarele apune devreme, luminile orașului strălucesc festiv încă de după-amiază.",
+            "en": "A winter morning in St George's Square reveals the frosty splendor of Victorian architecture. At noon, warm up in the independent shops of Byram Arcade. A crisp walk through Greenhead Park is refreshing, but head to the Lawrence Batley Theatre or Tolson Museum by mid-afternoon for warmth. With early sunsets, the city lights create a festive atmosphere by 4 PM."
+          },
+          "stops": [
+            {
+              "name": "St George's Square",
+              "tip_5lang": {
+                "de": "Frostige Statuen bieten tolle Fotos.",
+                "hu": "A fagyos szobrok remek fotótémák.",
+                "ro": "Statuile înghețate sunt ideale pentru poze.",
+                "en": "Frosty statues make for great photos."
+              }
+            },
+            {
+              "name": "Huddersfield Railway Station",
+              "tip_5lang": {
+                "de": "Die Bahnhofshalle ist angenehm beheizt.",
+                "hu": "A vasútállomás csarnoka fűtött és meleg.",
+                "ro": "Gara este încălzită și primitoare.",
+                "en": "The station hall is well heated."
+              }
+            },
+            {
+              "name": "Byram Arcade",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei einem Kaffee auf.",
+                "hu": "Melegedjen fel egy forró kávéval.",
+                "ro": "Încălziți-vă cu o cafea fierbinte.",
+                "en": "Warm up with a hot coffee inside."
+              }
+            },
+            {
+              "name": "Lawrence Batley Theatre",
+              "tip_5lang": {
+                "de": "Ideal für eine Pause am Nachmittag.",
+                "hu": "Ideális egy délutáni melegedőhöz.",
+                "ro": "Ideal pentru o pauză după-amiaza.",
+                "en": "Ideal for a mid-afternoon warm-up."
+              }
+            },
+            {
+              "name": "Greenhead Park",
+              "tip_5lang": {
+                "de": "Achtung bei vereisten Gehwegen.",
+                "hu": "Vigyázzon a jeges gyalogutakkal.",
+                "ro": "Atenție la aleile înghețate.",
+                "en": "Watch out for icy paths near the lake."
+              }
+            },
+            {
+              "name": "Tolson Museum",
+              "tip_5lang": {
+                "de": "Ein warmer Abschluss des Tages.",
+                "hu": "A nap meleg és kulturális lezárása.",
+                "ro": "Un final de zi călduros și cultural.",
+                "en": "A warm and cultural end to the day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Tragen Sie Schichten, um sich gegen den Wind zu schützen.",
+              "Der Greenhead Park kann bei Frost sehr rutschig sein.",
+              "Die Weihnachtsbeleuchtung am Bahnhof ist besonders schön."
+            ],
+            "hu": [
+              "A nap decemberben már délután 4 körül lemegy.",
+              "Öltözködjön rétegesen a hideg szél ellen.",
+              "A Greenhead Park tavai környékén jeges lehet az út.",
+              "A vasútállomás karácsonyi fényei lenyűgözőek."
+            ],
+            "ro": [
+              "Soarele apune în decembrie în jurul orei 16:00.",
+              "Purtați haine în straturi împotriva vântului rece.",
+              "Greenhead Park poate fi foarte alunecos pe îngheț.",
+              "Luminile de Crăciun de la gară sunt superbe."
+            ],
+            "en": [
+              "Sunset is around 4 PM in mid-winter.",
+              "Dress in layers to combat the biting wind.",
+              "Greenhead Park can be very icy near the water.",
+              "The Christmas lights at the station are worth seeing."
+            ]
+          }
+        }
       }
     },
     "bike": {
       "mode": "bike",
-      "speed_kmh": 10,
+      "speed_kmh": 12,
       "start": "09:00",
-      "end_estimate": "17:35",
-      "total_km": 11.5,
-      "stop_count": 6,
+      "end_estimate": "16:30",
+      "total_km": 14.5,
+      "stop_count": 5,
       "stops": [
         {
-          "name_4lang": {
-            "de": "St. George's Square",
-            "hu": "Szent György tér",
-            "ro": "Piața St. George",
-            "en": "St George's Square"
+          "name": {
+            "de": "Huddersfield Bahnhof",
+            "hu": "Huddersfield vasútállomás",
+            "ro": "Gara Huddersfield",
+            "en": "Huddersfield Railway Station"
           },
           "coords": [
-            -1.785,
-            53.6458
+            53.6485,
+            -1.7858
           ],
-          "category": "squares/old-town",
+          "category": "landmark",
           "arrive_at": "09:10",
-          "stay_min": 20,
-          "hop_from_prev_min": 10,
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
           "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Ein idealer Ausgangspunkt, um sich zu orientieren, bevor man in die Pedale tritt.",
-            "hu": "Ideális kiindulópont a tájékozódáshoz, mielőtt nyeregbe szállna.",
-            "ro": "Un punct de plecare ideal pentru a vă orienta înainte de a începe să pedalați.",
-            "en": "An ideal starting point to get your bearings before you start pedalling."
+            "de": "Startpunkt mit guter Anbindung.",
+            "hu": "Kiváló közlekedési csomópont.",
+            "ro": "Punct de plecare bine conectat.",
+            "en": "Starting point with great connections."
           }
         },
         {
-          "name_4lang": {
-            "de": "Greenhead Park",
-            "hu": "Greenhead Park",
-            "ro": "Parcul Greenhead",
-            "en": "Greenhead Park"
-          },
-          "coords": [
-            -1.8,
-            53.645
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "09:42",
-          "stay_min": 75,
-          "hop_from_prev_min": 12,
-          "hop_from_prev_km": 2.0,
-          "tip_5lang": {
-            "de": "Fahren Sie auf den ausgewiesenen Radwegen durch den Park.",
-            "hu": "Kerékpározzon a park kijelölt kerékpárútjain.",
-            "ro": "Pedalați pe pistele de biciclete desemnate din parc.",
-            "en": "Cycle through the park on its designated bike paths."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Beaumont Park",
-            "hu": "Beaumont Park",
-            "ro": "Parcul Beaumont",
-            "en": "Beaumont Park"
-          },
-          "coords": [
-            -1.805,
-            53.635
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "11:15",
-          "stay_min": 90,
-          "hop_from_prev_min": 18,
-          "hop_from_prev_km": 3.0,
-          "tip_5lang": {
-            "de": "Stellen Sie sich auf einige Hügel ein. Die Aussicht ist die Mühe wert!",
-            "hu": "Készüljön fel néhány emelkedőre. A kilátás megéri az erőfeszítést!",
-            "ro": "Fiți pregătiți pentru câteva dealuri. Priveliștile merită efortul!",
-            "en": "Be prepared for some hills. The views are worth the effort!"
-          }
-        },
-        {
-          "name_4lang": {
+          "name": {
             "de": "Tolson Museum",
             "hu": "Tolson Múzeum",
             "ro": "Muzeul Tolson",
             "en": "Tolson Museum"
           },
           "coords": [
-            -1.75,
-            53.643
+            53.6445,
+            -1.761
           ],
           "category": "museums",
-          "arrive_at": "13:09",
+          "arrive_at": "09:55",
           "stay_min": 100,
-          "hop_from_prev_min": 24,
-          "hop_from_prev_km": 4.0,
-          "tip_5lang": {
-            "de": "Ein guter Ort, um vom Rad abzusteigen und in die lokale Geschichte einzutauchen.",
-            "hu": "Jó hely a leszállásra és a helytörténet megismerésére.",
-            "ro": "Un loc bun pentru a descăleca și a vă cufunda în istoria locală.",
-            "en": "A good place to dismount and immerse yourself in local history."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Huddersfield Town Hall",
-            "hu": "Huddersfieldi városháza",
-            "ro": "Primăria Huddersfield",
-            "en": "Huddersfield Town Hall"
-          },
-          "coords": [
-            -1.7855,
-            53.6445
-          ],
-          "category": "landmark",
-          "arrive_at": "15:04",
-          "stay_min": 25,
-          "hop_from_prev_min": 15,
+          "hop_from_prev_min": 20,
           "hop_from_prev_km": 2.5,
           "tip_5lang": {
-            "de": "Bewundern Sie die Architektur von außen, während Sie eine kurze Pause einlegen.",
-            "hu": "Csodálja meg az építészetet kívülről egy rövid pihenő alatt.",
-            "ro": "Admirați arhitectura din exterior în timp ce luați o scurtă pauză.",
-            "en": "Admire the architecture from the outside while taking a short break."
+            "de": "Erfahren Sie mehr über die Textilgeschichte der Region.",
+            "hu": "Ismerd meg a régió textilipari múltját.",
+            "ro": "Aflați despre istoria textilă a regiunii.",
+            "en": "Learn about the region's textile heritage."
           }
         },
         {
-          "name_4lang": {
-            "de": "Bahnhof Huddersfield",
-            "hu": "Huddersfield vasútállomás",
-            "ro": "Gara Huddersfield",
-            "en": "Huddersfield Railway Station"
+          "name": {
+            "de": "Castle Hill",
+            "hu": "Castle Hill",
+            "ro": "Castle Hill",
+            "en": "Castle Hill"
           },
           "coords": [
-            -1.786,
-            53.646
+            53.611,
+            -1.7725
           ],
-          "category": "landmark",
-          "arrive_at": "15:29",
-          "stay_min": 35,
-          "hop_from_prev_min": 0,
-          "hop_from_prev_km": 0,
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
           "tip_5lang": {
-            "de": "Beenden Sie Ihre Tour an diesem architektonischen Juwel.",
-            "hu": "Fejezze be a túrát ennél az építészeti gyöngyszemnél.",
-            "ro": "Încheiați-vă turul la această bijuterie arhitecturală.",
-            "en": "End your tour at this architectural gem."
+            "de": "Ein steiler Anstieg, aber die Aussicht vom Victoria Tower lohnt sich.",
+            "hu": "Meredek emelkedő, de a kilátás a Victoria-toronyból megéri.",
+            "ro": "O urcare abruptă, dar vederea din Turnul Victoria merită.",
+            "en": "A steep climb, but the view from Victoria Tower is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Beaumont Park",
+            "hu": "Beaumont Park",
+            "ro": "Parcul Beaumont",
+            "en": "Beaumont Park"
+          },
+          "coords": [
+            53.6275,
+            -1.808
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Huddersfields ältester öffentlicher Park mit Waldwegen.",
+            "hu": "Huddersfield legrégebbi közparkja erdei ösvényekkel.",
+            "ro": "Cel mai vechi parc public din Huddersfield, cu poteci prin pădure.",
+            "en": "Huddersfield's oldest public park with woodland paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Greenhead Park",
+            "hu": "Greenhead Park",
+            "ro": "Parcul Greenhead",
+            "en": "Greenhead Park"
+          },
+          "coords": [
+            53.6475,
+            -1.7965
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Eine flache Runde zum Abschluss Ihrer Tour.",
+            "hu": "Egy sík kör a túra befejezéseként.",
+            "ro": "O tură plană pentru a încheia turul.",
+            "en": "A flat loop to finish your tour."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Diese Radtour ist für aktive Entdecker konzipiert und führt Sie über das Stadtzentrum hinaus. Nach einem kurzen Start am St. George's Square radeln Sie zum weitläufigen Greenhead Park. Die Herausforderung des Tages ist die Fahrt zum Beaumont Park, wo Sie mit einer dramatischen Landschaft belohnt werden. Nach dem Mittagessen geht es zum Tolson Museum für eine Dosis Kultur, bevor Sie zum architektonischen Kern der Stadt zurückkehren, um das Rathaus und den Bahnhof zu bewundern. Diese Route kombiniert städtische Wahrzeichen mit den grünen Lungen der Stadt und den anspruchsvollen, aber lohnenden Hügeln.",
-        "hu": "Ez a kerékpártúra az aktív felfedezőknek szól, és a városközponton túlra vezet. A Szent György téren tett rövid indítás után a tágas Greenhead Parkba teker. A nap kihívása a Beaumont Parkba való feljutás, ahol drámai táj fogadja. Ebéd után a Tolson Múzeum felé veszi az irányt egy adag kultúráért, mielőtt visszatérne a város építészeti magjához, hogy megcsodálja a Városházát és a vasútállomást. Ez az útvonal ötvözi a városi nevezetességeket a város zöld tüdejével és a kihívást jelentő, de hálás dombokkal.",
-        "ro": "Acest tur cu bicicleta este conceput pentru exploratorii activi, ducându-vă dincolo de centrul orașului. După un start rapid în Piața St. George, pedalați spre întinsul Parc Greenhead. Provocarea zilei este urcarea spre Parcul Beaumont, unde veți fi răsplătit cu peisaje dramatice. După prânz, mergeți la Muzeul Tolson pentru o doză de cultură înainte de a vă întoarce la nucleul arhitectural al orașului pentru a admira Primăria și gara. Acest traseu combină reperele urbane cu plămânii verzi ai orașului și dealurile sale provocatoare, dar pline de satisfacții.",
-        "en": "This bike tour is designed for the active explorer, taking you beyond the town centre. After a quick start at St George's Square, you'll cycle to the expansive Greenhead Park. The day's challenge is the ride up to Beaumont Park, where you're rewarded with dramatic scenery. After lunch, head to the Tolson Museum for a dose of culture before returning to the town's architectural core to admire the Town Hall and station. This route combines urban landmarks with the town's green lungs and its challenging but rewarding hills."
+        "de": "Diese Fahrradtour führt Sie zu den Highlights rund um Huddersfield. Nach dem Start am Bahnhof fahren Sie zum Tolson Museum im Ravensknowle Park. Die größte Herausforderung ist der Aufstieg zum Castle Hill, gefolgt von einer malerischen Fahrt zum Beaumont Park. Der Tag endet entspannt im Greenhead Park, bevor es zurück ins Stadtzentrum geht.",
+        "hu": "Ez a kerékpártúra Huddersfield környékének legfontosabb látnivalóihoz vezet. Az állomástól a Ravensknowle Parkban található Tolson Múzeumhoz tekersz. A legnagyobb kihívás a Castle Hill megmászása, amit a festői Beaumont Park követ. A nap a Greenhead Parkban zárul, mielőtt visszatérnél a városközpontba.",
+        "ro": "Acest tur cu bicicleta vă duce la cele mai importante atracții din jurul orașului Huddersfield. După plecarea de la gară, pedalați spre Muzeul Tolson din Parcul Ravensknowle. Cea mai mare provocare este urcarea la Castle Hill, urmată de o plimbare pitorească spre Parcul Beaumont. Ziua se încheie relaxat în Parcul Greenhead înainte de a reveni în centrul orașului.",
+        "en": "This bike tour takes you to the highlights around Huddersfield. After starting at the station, cycle to Tolson Museum in Ravensknowle Park. The biggest challenge is the climb to Castle Hill, followed by a scenic ride to Beaumont Park. The day ends with a relaxing stop at Greenhead Park before heading back to the town center."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "The Corner",
-            "tip": "Bekannt für seine herzhaften Brunch-Optionen, ideal, um Energie zu tanken."
-          },
-          {
-            "name": "Magic Rock Tap",
-            "tip": "Probieren Sie lokale Craft-Biere zusammen mit Street-Food-Verkäufern."
+            "name": "The Castle Hill Pub",
+            "tip": "Erfrischung nach dem Aufstieg."
           }
         ],
         "hu": [
           {
-            "name": "The Corner",
-            "tip": "Kiadós brunch lehetőségeiről ismert, tökéletes feltöltődéshez."
-          },
-          {
-            "name": "Magic Rock Tap",
-            "tip": "Kóstolja meg a helyi kézműves söröket az utcai ételárusok mellett."
+            "name": "The Castle Hill Pub",
+            "tip": "Frissítő a hegyi menet után."
           }
         ],
         "ro": [
           {
-            "name": "The Corner",
-            "tip": "Cunoscut pentru opțiunile sale consistente de brunch, perfecte pentru realimentare."
-          },
-          {
-            "name": "Magic Rock Tap",
-            "tip": "Gustați beri artizanale locale alături de vânzătorii de mâncare stradală."
+            "name": "The Castle Hill Pub",
+            "tip": "Reîmprospătare după urcare."
           }
         ],
         "en": [
           {
-            "name": "The Corner",
-            "tip": "Known for its hearty brunch options, perfect for refueling."
-          },
-          {
-            "name": "Magic Rock Tap",
-            "tip": "Sample local craft beers alongside street food vendors."
+            "name": "The Castle Hill Pub",
+            "tip": "Refreshments after the climb."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Beaumont Park Castle Cliffe",
-            "tip": "Ein ruhiger, bewaldeter Bereich mit einem Wasserfall.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Der Gipfel des Castle Hill (mit dem Fahrrad erreichbar)",
-            "tip": "Erfordert eine längere Fahrt, bietet aber die beste Aussicht und Ruhe.",
+            "name": "Castle Hill Plateau",
+            "tip": "Panoramablick über West Yorkshire.",
             "emoji": "🌅"
           }
         ],
         "hu": [
           {
-            "name": "Beaumont Park Castle Cliffe",
-            "tip": "Csendes, erdős terület vízeséssel.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Castle Hill csúcsa (kerékpárral megközelíthető)",
-            "tip": "Hosszabb utat igényel, de a legjobb kilátást és békét nyújtja.",
+            "name": "Castle Hill fennsík",
+            "tip": "Panorámás kilátás Nyugat-Yorkshire-re.",
             "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Stânca Castelului din Parcul Beaumont",
-            "tip": "O zonă liniștită, împădurită, cu o cascadă.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "Vârful Castle Hill (accesibil cu bicicleta)",
-            "tip": "Necesită o călătorie mai lungă, dar oferă cele mai bune priveliști și liniște.",
+            "name": "Podișul Castle Hill",
+            "tip": "Vedere panoramică asupra West Yorkshire.",
             "emoji": "🌅"
           }
         ],
         "en": [
           {
-            "name": "Beaumont Park Castle Cliffe",
-            "tip": "A quiet, wooded area with a waterfall feature.",
-            "emoji": "🏞️"
-          },
-          {
-            "name": "The top of Castle Hill (accessible by bike)",
-            "tip": "Requires a longer ride but offers the best views and tranquility.",
+            "name": "Castle Hill Plateau",
+            "tip": "Panoramic views over West Yorkshire.",
             "emoji": "🌅"
           }
         ]
@@ -586,613 +693,436 @@
       "shopping_picks": {
         "de": [
           {
-            "name": "Vinyl-Läden",
-            "tip": "Huddersfield hat eine lebendige Musikszene; suchen Sie nach unabhängigen Plattenläden."
+            "name": "Magic Rock Tap",
+            "tip": "Lokales Craft Beer als Souvenir."
           }
         ],
         "hu": [
           {
-            "name": "Bakelitboltok",
-            "tip": "Huddersfield élénk zenei életének köszönhetően keressen független lemezboltokat."
+            "name": "Magic Rock Tap",
+            "tip": "Helyi kézműves sör szuvenírnek."
           }
         ],
         "ro": [
           {
-            "name": "Magazine de viniluri",
-            "tip": "Huddersfield are o scenă muzicală vibrantă; căutați magazine de discuri independente."
+            "name": "Magic Rock Tap",
+            "tip": "Bere artizanală locală ca suvenir."
           }
         ],
         "en": [
           {
-            "name": "Vinyl Shops",
-            "tip": "Huddersfield has a vibrant music scene; hunt for independent record stores."
+            "name": "Magic Rock Tap",
+            "tip": "Local craft beer for souvenirs."
           }
         ]
       },
       "tips": {
         "de": [
-          "Huddersfield hat einige steile Hügel, seien Sie also auf anspruchsvolle Anstiege vorbereitet.",
-          "Nehmen Sie ein zuverlässiges Schloss mit, da Sie Ihr Fahrrad draußen abstellen werden, um Parks und Museen zu erkunden.",
-          "Halten Sie sich an ausgewiesene Radwege, wo immer möglich.",
-          "Ein Helm wird dringend empfohlen."
+          "Huddersfield ist sehr hügelig, ein E-Bike wird empfohlen.",
+          "Nutzen Sie die Radwege entlang der Kanäle, wo immer möglich."
         ],
         "hu": [
-          "Huddersfieldben vannak meredek dombok, ezért készüljön fel a kihívást jelentő emelkedőkre.",
-          "Hozzon magával egy megbízható lakatot, mivel a kerékpárt kint kell hagynia a parkok és múzeumok felfedezése közben.",
-          "Ahol csak lehetséges, tartsa be a kijelölt kerékpárutakat.",
-          "A sisak viselése erősen ajánlott."
+          "Huddersfield nagyon dombos, elektromos kerékpár ajánlott.",
+          "Használd a csatorna menti kerékpárutakat, ahol csak lehet."
         ],
         "ro": [
-          "Huddersfield are câteva dealuri abrupte, așa că fiți pregătiți pentru urcări provocatoare.",
-          "Luați un lacăt de încredere, deoarece veți lăsa bicicleta afară în timp ce explorați parcurile și muzeele.",
-          "Respectați pistele de biciclete desemnate ori de câte ori este posibil.",
-          "Se recomandă insistent purtarea căștii."
+          "Huddersfield este foarte deluros, se recomandă o bicicletă electrică.",
+          "Folosiți pistele de biciclete de-a lungul canalelor ori de câte ori este posibil."
         ],
         "en": [
-          "Huddersfield has some steep hills, so be prepared for some challenging climbs.",
-          "Bring a reliable lock, as you'll be leaving your bike outside while exploring parks and museums.",
-          "Stick to designated cycle paths wherever possible.",
-          "A helmet is highly recommended."
+          "Huddersfield is very hilly, an e-bike is recommended.",
+          "Use canal towpaths for flatter routes where available."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert gute Ausrüstung, beginnt aber geschützt am Bahnhof. Vormittags radeln Sie zum Greenhead Park, wo die asphaltierten Wege auch bei Nässe befahrbar sind. Mittags bietet der Park Kiosk Schutz. Am Nachmittag geht es zum Tolson Museum, wobei Sie auf den glatten Straßen in Ravensknowle vorsichtig sein sollten. Der Tag endet mit einer erfrischenden, wenn auch feuchten Rückfahrt ins Zentrum.",
+            "hu": "Egy esős bringázás jó felszerelést igényel, de a vasútállomásnál védett helyen kezdhetünk. Délelőtt a Greenhead Park aszfaltozott útjain tekerhetünk, amelyek esőben is jól bírják. Délben a park büféje ad menedéket. Délután a Tolson Múzeum felé vegyük az irányt, de vigyázzunk a csúszós útburkolatra Ravensknowle környékén. A nap frissítő, bár vizes tekeréssel zárul.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită echipament bun, dar începe protejat la gară. Dimineața, pedalați spre Greenhead Park, unde aleile asfaltate sunt practicabile. La prânz, chioșcul din parc oferă adăpost. După-amiaza vizitați Muzeul Tolson, având grijă la drumurile alunecoase din zona Ravensknowle. Ziua se încheie cu o întoarcere revigorantă, deși umedă, spre centru.",
+            "en": "A rainy cycle requires waterproof gear, starting under the cover of the station portico. In the morning, ride to Greenhead Park, where paved paths remain accessible. At midday, find shelter at the park kiosk. Afternoon takes you to Tolson Museum, but exercise caution on potentially slick roads in Ravensknowle. The day ends with a refreshing, if damp, ride back to the town center."
+          },
+          "stops": [
+            {
+              "name": "St George's Square",
+              "tip_5lang": {
+                "de": "Starten Sie unter dem Bahnhofsvorbau.",
+                "hu": "Kezdjen a vasútállomás portikusza alatt.",
+                "ro": "Începeți sub porticul gării.",
+                "en": "Start under the station's stone cover."
+              }
+            },
+            {
+              "name": "Greenhead Park",
+              "tip_5lang": {
+                "de": "Asphaltierte Wege sind bei Regen besser.",
+                "hu": "Az aszfaltozott utak esőben biztonságosabbak.",
+                "ro": "Drumurile asfaltate sunt mai sigure pe ploaie.",
+                "en": "Paved paths are safer in the wet."
+              }
+            },
+            {
+              "name": "Beaumont Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei nassem Laub auf den Wegen.",
+                "hu": "Vigyázzon a vizes levelekre az utakon.",
+                "ro": "Atenție la frunzele ude pe alei.",
+                "en": "Watch out for wet leaves on the paths."
+              }
+            },
+            {
+              "name": "Tolson Museum",
+              "tip_5lang": {
+                "de": "Sicherer Fahrradständer vor dem Eingang.",
+                "hu": "Biztonságos bringatároló a bejáratnál.",
+                "ro": "Suport sigur pentru biciclete la intrare.",
+                "en": "Secure bike racks available at the entrance."
+              }
+            },
+            {
+              "name": "Byram Arcade",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad draußen überdacht ab.",
+                "hu": "Parkoljon a fedett részek közelében.",
+                "ro": "Parcați bicicleta lângă zonele acoperite.",
+                "en": "Park near covered areas for a dry start."
+              }
+            },
+            {
+              "name": "Huddersfield Railway Station",
+              "tip_5lang": {
+                "de": "Überdachte Stellplätze am Gleis 1.",
+                "hu": "Fedett tárolók az 1. vágány mellett.",
+                "ro": "Parcare acoperită lângă peronul 1.",
+                "en": "Covered bike storage near platform 1."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserdichte Kleidung und nutzen Sie Schutzbleche.",
+              "Vorsicht vor rutschigen Gullydeckeln in der Innenstadt.",
+              "Bremswege verlängern sich bei Nässe erheblich.",
+              "Die Parks bieten viele Unterstände bei plötzlichen Güssen."
+            ],
+            "hu": [
+              "Viseljen vízálló ruhát és használjon sárvédőt.",
+              "Vigyázzon a csúszós csatornafedelekre a belvárosban.",
+              "A féktávolság jelentősen megnő vizes úton.",
+              "A parkokban sok esőbeálló található hirtelen zápor esetére."
+            ],
+            "ro": [
+              "Purtați haine impermeabile și folosiți apărători.",
+              "Atenție la capacele de canal alunecoase în centru.",
+              "Distanța de frânare crește considerabil pe ud.",
+              "Parcurile oferă multe adăposturi pentru averse bruște."
+            ],
+            "en": [
+              "Wear waterproof gear and use mudguards.",
+              "Beware of slippery manhole covers in the center.",
+              "Braking distances increase significantly when wet.",
+              "Parks offer many shelters for sudden downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Huddersfield ist erfrischend, erfordert aber Vorsicht wegen Glätte. Starten Sie am frostigen Bahnhofsplatz. Mittags erreichen Sie den Greenhead Park, wo die Wintersonne tief steht und lange Schatten wirft. Nach einer Tour zum Tolson Museum am Nachmittag kehren Sie bei einbrechender Dunkelheit zurück, wobei die Weihnachtsbeleuchtung der Stadt den Weg weist. Heiße Getränke im Zentrum sind der perfekte Abschluss.",
+            "hu": "A téli bringázás Huddersfieldben frissítő, de óvatosságot igényel a csúszós utak miatt. Kezdjen a fagyos vasútállomás előtt. Délben érje el a Greenhead Parkot, ahol a téli nap alacsonyan jár és hosszú árnyékokat vet. A délutáni Tolson Múzeum látogatás után sötétedéskor induljon vissza, miközben a városi fények mutatják az utat. Egy forró ital a központban tökéletes zárás.",
+            "ro": "Ciclismul de iarnă în Huddersfield este revigorant, dar necesită atenție la polei. Începeți în piața gării înghețate. La prânz, ajungeți în Greenhead Park, unde soarele de iarnă creează umbre lungi. După vizita de după-amiază la Muzeul Tolson, întoarceți-vă pe măsură ce se lasă întunericul, ghidați de luminile orașului. O băutură caldă în centru este finalul perfect.",
+            "en": "Winter cycling in Huddersfield is refreshing but requires caution due to potential ice. Start at the frosty station square. By midday, reach Greenhead Park, where the low winter sun casts long shadows. After an afternoon visit to Tolson Museum, head back as darkness falls, guided by the festive city lights. A hot drink in the center is the perfect reward."
+          },
+          "stops": [
+            {
+              "name": "St George's Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe.",
+                "hu": "Vigyázzon a lefagyott útszakaszokra.",
+                "ro": "Atenție la porțiunile cu polei.",
+                "en": "Watch out for black ice on the square."
+              }
+            },
+            {
+              "name": "Greenhead Park",
+              "tip_5lang": {
+                "de": "Tiefstehende Sonne kann blenden.",
+                "hu": "Az alacsonyan járó nap elvakíthat.",
+                "ro": "Soarele jos vă poate orbi.",
+                "en": "The low sun can be very blinding."
+              }
+            },
+            {
+              "name": "Beaumont Park",
+              "tip_5lang": {
+                "de": "Hügelige Wege können glatt sein.",
+                "hu": "A dombos utak jegesek lehetnek.",
+                "ro": "Drumurile în pantă pot fi înghețate.",
+                "en": "Hilly paths can be very slippery."
+              }
+            },
+            {
+              "name": "Tolson Museum",
+              "tip_5lang": {
+                "de": "Kurze Pause zum Aufwärmen im Inneren.",
+                "hu": "Rövid szünet a benti melegedéshez.",
+                "ro": "Pauză scurtă pentru încălzire în interior.",
+                "en": "Take a short break to warm up inside."
+              }
+            },
+            {
+              "name": "Byram Arcade",
+              "tip_5lang": {
+                "de": "Ein heißer Tee wirkt Wunder.",
+                "hu": "Egy forró tea csodákra képes.",
+                "ro": "Un ceai fierbinte face minuni.",
+                "en": "A hot tea here works wonders."
+              }
+            },
+            {
+              "name": "Huddersfield Railway Station",
+              "tip_5lang": {
+                "de": "Beleuchtung für die Rückfahrt prüfen.",
+                "hu": "Ellenőrizze a világítást hazaindulás előtt.",
+                "ro": "Verificați luminile înainte de plecare.",
+                "en": "Check your lights before the ride home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Starke Beleuchtung ist ab 15:30 Uhr notwendig.",
+              "Tragen Sie Thermokleidung und Handschuhe.",
+              "Achten Sie auf gestreute Wege in den Parks.",
+              "Verringern Sie den Reifendruck für mehr Grip."
+            ],
+            "hu": [
+              "Délután fél 4-től erős világítás szükséges.",
+              "Viseljen termaruházatot és kesztyűt.",
+              "Figyeljen a felszórt utakra a parkokban.",
+              "Csökkentse a guminyomást a jobb tapadásért."
+            ],
+            "ro": [
+              "Luminile puternice sunt necesare de la ora 15:30.",
+              "Purtați haine termice și mănuși.",
+              "Căutați aleile presărate cu sare în parcuri.",
+              "Reduceți presiunea în pneuri pentru aderență."
+            ],
+            "en": [
+              "Strong lights are necessary from 3:30 PM.",
+              "Wear thermal clothing and windproof gloves.",
+              "Stick to gritted paths in the main parks.",
+              "Slightly lower tire pressure for better grip."
+            ]
+          }
+        }
       }
     },
     "car": {
       "mode": "car",
       "speed_kmh": 28,
       "start": "09:00",
-      "end_estimate": "17:18",
-      "total_km": 19.8,
-      "stop_count": 7,
-      "stops": [
-        {
-          "name_4lang": {
-            "de": "Castle Hill",
-            "hu": "Castle Hill",
-            "ro": "Dealul Castelului",
-            "en": "Castle Hill"
-          },
-          "coords": [
-            -1.748,
-            53.614
-          ],
-          "category": "castles/fortresses/towers",
-          "arrive_at": "09:25",
-          "stay_min": 60,
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 9.0,
-          "hop_mode": "car",
-          "tip_5lang": {
-            "de": "Fahren Sie zum Gipfel für einen Panoramablick. Es ist der perfekte Start in den Tag.",
-            "hu": "Hajtson fel a csúcsra a panorámás kilátásért. Tökéletes kezdése a napnak.",
-            "ro": "Conduceți până în vârf pentru vederi panoramice. Este începutul perfect al zilei.",
-            "en": "Drive to the top for panoramic views. It's the perfect start to the day."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Tolson Museum Parkplatz",
-            "hu": "Tolson Múzeum Parkoló",
-            "ro": "Parcare Muzeul Tolson",
-            "en": "Tolson Museum Car Park"
-          },
-          "coords": [
-            -1.75,
-            53.643
-          ],
-          "category": "museums",
-          "arrive_at": "10:43",
-          "stay_min": 100,
-          "hop_from_prev_min": 18,
-          "hop_from_prev_km": 8.0,
-          "hop_mode": "car",
-          "tip_5lang": {
-            "de": "Parken Sie hier, um das Museum zu besuchen und einen Spaziergang im Ravensknowle Park zu machen.",
-            "hu": "Parkoljon itt, hogy meglátogassa a múzeumot és sétáljon a Ravensknowle Parkban.",
-            "ro": "Parcați aici pentru a vizita muzeul și a face o plimbare în Parcul Ravensknowle.",
-            "en": "Park here to visit the museum and take a stroll in Ravensknowle Park."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Greenhead Park",
-            "hu": "Greenhead Park",
-            "ro": "Parcul Greenhead",
-            "en": "Greenhead Park"
-          },
-          "coords": [
-            -1.8,
-            53.645
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "12:30",
-          "stay_min": 75,
-          "hop_from_prev_min": 7,
-          "hop_from_prev_km": 2.5,
-          "hop_mode": "car",
-          "tip_5lang": {
-            "de": "Ein kurzer Sprung für ein Mittagessen oder einen erfrischenden Spaziergang.",
-            "hu": "Egy rövid ugrás ebédre vagy egy frissítő sétára.",
-            "ro": "O scurtă escapadă pentru prânz sau o plimbare revigorantă.",
-            "en": "A short hop for lunch or a refreshing walk."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "St. George's Square Parkplatz",
-            "hu": "Szt. György téri parkoló",
-            "ro": "Parcare Piața Sf. Gheorghe",
-            "en": "St George's Square Car Park"
-          },
-          "coords": [
-            -1.785,
-            53.6458
-          ],
-          "category": "squares/old-town",
-          "arrive_at": "13:50",
-          "stay_min": 25,
-          "hop_from_prev_min": 5,
-          "hop_from_prev_km": 0.3,
-          "hop_mode": "car",
-          "tip_5lang": {
-            "de": "Parken Sie Ihr Auto für den Rest des Nachmittags und erkunden Sie das Zentrum zu Fuß.",
-            "hu": "Parkolja le az autót a délután hátralévő részére, és fedezze fel a központot gyalog.",
-            "ro": "Parcați mașina pentru restul după-amiezii și explorați centrul pe jos.",
-            "en": "Park your car for the rest of the afternoon and explore the centre on foot."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Bahnhof Huddersfield",
-            "hu": "Huddersfield vasútállomás",
-            "ro": "Gara Huddersfield",
-            "en": "Huddersfield Railway Station"
-          },
-          "coords": [
-            -1.786,
-            53.646
-          ],
-          "category": "landmark",
-          "arrive_at": "14:17",
-          "stay_min": 25,
-          "hop_from_prev_min": 2,
-          "hop_from_prev_km": 0.1,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Ein kurzer Spaziergang vom Parkplatz, um die beeindruckende Fassade zu sehen.",
-            "hu": "Rövid séta a parkolótól, hogy megnézze a lenyűgöző homlokzatot.",
-            "ro": "O scurtă plimbare de la parcare pentru a vedea fațada impresionantă.",
-            "en": "A short walk from the car park to see the impressive facade."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Rathaus von Huddersfield",
-            "hu": "Huddersfieldi városháza",
-            "ro": "Primăria Huddersfield",
-            "en": "Huddersfield Town Hall"
-          },
-          "coords": [
-            -1.7855,
-            53.6445
-          ],
-          "category": "landmark",
-          "arrive_at": "14:48",
-          "stay_min": 40,
-          "hop_from_prev_min": 6,
-          "hop_from_prev_km": 0.3,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Gehen Sie durch den Platz, um dieses Juwel der viktorianischen bürgerlichen Architektur zu erreichen.",
-            "hu": "Sétáljon át a téren, hogy elérje a viktoriánus polgári építészet gyöngyszemét.",
-            "ro": "Traversați piața pentru a ajunge la această bijuterie a arhitecturii civice victoriene.",
-            "en": "Walk across the square to reach this gem of Victorian civic architecture."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "Lawrence Batley Theatre",
-            "hu": "Lawrence Batley Színház",
-            "ro": "Teatrul Lawrence Batley",
-            "en": "Lawrence Batley Theatre"
-          },
-          "coords": [
-            -1.783,
-            53.647
-          ],
-          "category": "theatres/cultural-centres",
-          "arrive_at": "15:36",
-          "stay_min": 72,
-          "hop_from_prev_min": 8,
-          "hop_from_prev_km": 0.4,
-          "hop_mode": "walk",
-          "tip_5lang": {
-            "de": "Ein schöner Abschluss Ihres Stadtrundgangs, vielleicht mit einem frühen Abendessen in der Nähe.",
-            "hu": "Szép lezárása a belvárosi sétának, esetleg egy korai vacsorával a közelben.",
-            "ro": "Un mod plăcut de a încheia plimbarea în centrul orașului, poate cu o cină timpurie în apropiere.",
-            "en": "A nice end to your town centre walk, perhaps with an early dinner nearby."
-          }
-        }
-      ],
-      "narrative_4lang": {
-        "de": "Nutzen Sie die Flexibilität eines Autos, um mit einem atemberaubenden Panoramablick vom Castle Hill zu beginnen. Von dort aus fahren Sie in Clustern: Parken Sie am Tolson Museum, um in die Geschichte einzutauchen, fahren Sie dann zum Greenhead Park für eine Mittagspause im Grünen. Am Nachmittag parken Sie Ihr Auto im Zentrum und erkunden den architektonischen Kern von Huddersfield zu Fuß. Diese Route kombiniert die Freiheit des Fahrens mit der intimen Erfahrung des Gehens und ermöglicht es Ihnen, sowohl die weiten Ausblicke als auch die feinen Details der Stadt zu erleben.",
-        "hu": "Használja ki az autó rugalmasságát, és kezdjen egy lélegzetelállító panorámával a Castle Hillről. Innen klaszterekben haladjon: parkoljon a Tolson Múzeumnál, hogy elmerüljön a történelemben, majd hajtson a Greenhead Parkba egy zöld ebédszünetre. Délután hagyja az autót a központban, és fedezze fel Huddersfield építészeti magját gyalog. Ez az útvonal ötvözi a vezetés szabadságát a gyaloglás bensőséges élményével, lehetővé téve, hogy mind a tágas kilátást, mind a város finom részleteit megtapasztalja.",
-        "ro": "Folosiți flexibilitatea unei mașini pentru a începe cu vederi panoramice uluitoare de pe Castle Hill. De acolo, călătoriți în grupuri: parcați la Muzeul Tolson pentru o incursiune în istorie, apoi conduceți la Parcul Greenhead pentru o pauză de prânz verde. După-amiaza, lăsați mașina în centru și explorați nucleul arhitectural al Huddersfield pe jos. Acest itinerar combină libertatea de a conduce cu experiența intimă a mersului pe jos, permițându-vă să experimentați atât priveliștile largi, cât și detaliile fine ale orașului.",
-        "en": "Use the flexibility of a car to start with breathtaking panoramic views from Castle Hill. From there, travel in clusters: park at the Tolson Museum for a dive into history, then drive to Greenhead Park for a green lunch break. In the afternoon, leave the car in the centre and explore Huddersfield's architectural core on foot. This itinerary combines the freedom of driving with the intimate experience of walking, allowing you to experience both the wide vistas and the town's fine details."
-      },
-      "gastro_picks": {
-        "de": [
-          {
-            "name": "The Fleece Inn, Holme",
-            "tip": "Ein kurzer Abstecher mit dem Auto für ein erstklassiges Gastropub-Erlebnis."
-          },
-          {
-            "name": "The Olive Branch",
-            "tip": "Türkische Küche in einem wunderschön restaurierten Gebäude im Stadtzentrum."
-          }
-        ],
-        "hu": [
-          {
-            "name": "The Fleece Inn, Holme",
-            "tip": "Rövid autós kitérő egy csúcsminőségű gastropub élményért."
-          },
-          {
-            "name": "The Olive Branch",
-            "tip": "Török konyha egy gyönyörűen felújított épületben a városközpontban."
-          }
-        ],
-        "ro": [
-          {
-            "name": "The Fleece Inn, Holme",
-            "tip": "Un scurt ocol cu mașina pentru o experiență de gastropub de top."
-          },
-          {
-            "name": "The Olive Branch",
-            "tip": "Bucătărie turcească într-o clădire frumos restaurată din centrul orașului."
-          }
-        ],
-        "en": [
-          {
-            "name": "The Fleece Inn, Holme",
-            "tip": "A short drive out of town for a top-tier gastropub experience."
-          },
-          {
-            "name": "The Olive Branch",
-            "tip": "Turkish cuisine in a beautifully restored building in the town centre."
-          }
-        ]
-      },
-      "quiet_picks": {
-        "de": [
-          {
-            "name": "Victoria Tower auf Castle Hill",
-            "tip": "Der ultimative ruhige Ort mit der besten Aussicht in der Region.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Wessenden Valley",
-            "tip": "Eine kurze Fahrt vom Stadtzentrum entfernt, bietet atemberaubende Moorlandschaften.",
-            "emoji": "🏞️"
-          }
-        ],
-        "hu": [
-          {
-            "name": "Victoria Tower a Castle Hillen",
-            "tip": "A végső csendes hely a legjobb kilátással a régióban.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Wessenden-völgy",
-            "tip": "Rövid autóútra a városközponttól, lenyűgöző lápvidéki tájat kínál.",
-            "emoji": "🏞️"
-          }
-        ],
-        "ro": [
-          {
-            "name": "Turnul Victoria de pe Castle Hill",
-            "tip": "Locul suprem de liniște, cu cele mai bune vederi din regiune.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Valea Wessenden",
-            "tip": "La o scurtă distanță cu mașina de centrul orașului, oferă peisaje de mlaștină uimitoare.",
-            "emoji": "🏞️"
-          }
-        ],
-        "en": [
-          {
-            "name": "Victoria Tower on Castle Hill",
-            "tip": "The ultimate quiet spot, offering the best views in the region.",
-            "emoji": "🌅"
-          },
-          {
-            "name": "Wessenden Valley",
-            "tip": "A short drive from the town centre offers stunning moorland scenery.",
-            "emoji": "🏞️"
-          }
-        ]
-      },
-      "shopping_picks": {
-        "de": [
-          {
-            "name": "The Piece Hall, Halifax",
-            "tip": "Wenn Sie Zeit haben, ist diese historische Einkaufshalle eine kurze Autofahrt entfernt.",
-            "name_de": "The Piece Hall, Halifax"
-          }
-        ],
-        "hu": [
-          {
-            "name": "The Piece Hall, Halifax",
-            "tip": "Ha van ideje, ez a történelmi bevásárlócsarnok rövid autóútra található."
-          }
-        ],
-        "ro": [
-          {
-            "name": "The Piece Hall, Halifax",
-            "tip": "Dacă aveți timp, această hală comercială istorică se află la o scurtă distanță cu mașina."
-          }
-        ],
-        "en": [
-          {
-            "name": "The Piece Hall, Halifax",
-            "tip": "If you have time, this historic trading hall is a short drive away."
-          }
-        ]
-      },
-      "tips": {
-        "de": [
-          "Planen Sie Ihre Parkmöglichkeiten im Voraus, besonders im Stadtzentrum.",
-          "Die Straßen um Castle Hill können eng sein, fahren Sie also vorsichtig.",
-          "Achten Sie auf Parkgebühren und -beschränkungen in der Stadt.",
-          "Ein Auto ermöglicht es Ihnen, nahe gelegene Dörfer wie Holmfirth oder Slaithwaite zu erkunden."
-        ],
-        "hu": [
-          "Tervezze meg előre a parkolást, különösen a városközpontban.",
-          "A Castle Hill körüli utak szűkek lehetnek, ezért vezessen óvatosan.",
-          "Figyeljen a városi parkolási díjakra és korlátozásokra.",
-          "Az autó lehetővé teszi a közeli falvak, például Holmfirth vagy Slaithwaite felfedezését."
-        ],
-        "ro": [
-          "Planificați-vă parcarea în avans, mai ales în centrul orașului.",
-          "Drumurile din jurul Castle Hill pot fi înguste, așa că conduceți cu atenție.",
-          "Fiți atenți la taxele și restricțiile de parcare din oraș.",
-          "O mașină vă permite să explorați satele din apropiere, cum ar fi Holmfirth sau Slaithwaite."
-        ],
-        "en": [
-          "Plan your parking in advance, especially in the town centre.",
-          "The roads around Castle Hill can be narrow, so drive with care.",
-          "Be aware of parking charges and restrictions in the town.",
-          "A car allows you to explore nearby villages like Holmfirth or Slaithwaite."
-        ]
-      }
-    },
-    "transit": {
-      "mode": "transit",
-      "speed_kmh": 15,
-      "start": "09:00",
-      "end_estimate": "17:35",
-      "total_km": 12.8,
+      "end_estimate": "16:15",
+      "total_km": 16.0,
       "stop_count": 6,
       "stops": [
         {
-          "name_4lang": {
-            "de": "Busbahnhof Huddersfield",
-            "hu": "Huddersfield buszpályaudvar",
-            "ro": "Autogara Huddersfield",
-            "en": "Huddersfield Bus Station"
+          "name": {
+            "de": "St. George's Square & Bahnhof",
+            "hu": "Szent György tér és állomás",
+            "ro": "Piața Sf. Gheorghe și Gara",
+            "en": "St George's Square & Station"
           },
           "coords": [
-            -1.782,
-            53.648
-          ],
-          "category": "landmark",
-          "arrive_at": "09:10",
-          "stay_min": 10,
-          "hop_from_prev_min": 10,
-          "hop_from_prev_km": 0,
-          "hop_mode": "transit",
-          "tip_5lang": {
-            "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
-            "hu": "Vásároljon napijegyet a korlátlan utazáshoz.",
-            "ro": "Cumpărați un abonament de o zi pentru călătorii nelimitate.",
-            "en": "Purchase a day rider ticket for unlimited travel."
-          }
-        },
-        {
-          "name_4lang": {
-            "de": "St. George's Square",
-            "hu": "Szent György tér",
-            "ro": "Piața St. George",
-            "en": "St George's Square"
-          },
-          "coords": [
-            -1.785,
-            53.6458
+            53.6482,
+            -1.7845
           ],
           "category": "squares/old-town",
-          "arrive_at": "09:28",
-          "stay_min": 20,
-          "hop_from_prev_min": 8,
-          "hop_from_prev_km": 0.5,
-          "hop_mode": "walk",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
           "tip_5lang": {
-            "de": "Ihr erster Cluster beginnt hier, nur einen kurzen Spaziergang vom Busbahnhof entfernt.",
-            "hu": "Az első klaszter itt kezdődik, rövid sétára a buszpályaudvartól.",
-            "ro": "Primul dvs. grup de atracții începe aici, la o scurtă plimbare de autogară.",
-            "en": "Your first cluster starts here, a short walk from the bus station."
+            "de": "Parken Sie im Zentrum für diesen ersten Cluster.",
+            "hu": "Parkolj a központban ehhez az első blokkhoz.",
+            "ro": "Parcați în centru pentru acest prim grup.",
+            "en": "Park in the center for this first cluster."
           }
         },
         {
-          "name_4lang": {
-            "de": "Rathaus von Huddersfield",
-            "hu": "Huddersfieldi városháza",
+          "name": {
+            "de": "Huddersfield Rathaus",
+            "hu": "Huddersfield Városháza",
             "ro": "Primăria Huddersfield",
             "en": "Huddersfield Town Hall"
           },
           "coords": [
-            -1.7855,
-            53.6445
+            53.6444,
+            -1.7818
           ],
           "category": "landmark",
-          "arrive_at": "09:54",
-          "stay_min": 30,
-          "hop_from_prev_min": 6,
-          "hop_from_prev_km": 0.3,
-          "hop_mode": "walk",
+          "arrive_at": "10:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
           "tip_5lang": {
-            "de": "Ein weiteres Wahrzeichen innerhalb Ihres ersten Geh-Clusters.",
-            "hu": "Egy másik nevezetesség az első gyalogos klaszterén belül.",
-            "ro": "Un alt punct de reper în cadrul primului dvs. grup de mers pe jos.",
-            "en": "Another landmark within your first walking cluster."
+            "de": "Kurzer Fußweg vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking area."
           }
         },
         {
-          "name_4lang": {
-            "de": "Bushaltestelle Greenhead Park",
-            "hu": "Greenhead Park buszmegálló",
-            "ro": "Stația de autobuz Greenhead Park",
-            "en": "Greenhead Park Bus Stop"
-          },
-          "coords": [
-            -1.798,
-            53.646
-          ],
-          "category": "parks/promenades/beaches",
-          "arrive_at": "10:49",
-          "stay_min": 90,
-          "hop_from_prev_min": 25,
-          "hop_from_prev_km": 3.0,
-          "hop_mode": "transit",
-          "tip_5lang": {
-            "de": "Steigen Sie hier für Ihren zweiten Cluster aus. Der Park ist ideal für ein Mittagessen.",
-            "hu": "Szálljon le itt a második klaszterhez. A park ideális ebédre.",
-            "ro": "Coborâți aici pentru al doilea grup de atracții. Parcul este ideal pentru prânz.",
-            "en": "Alight here for your second cluster. The park is ideal for lunch."
-          }
-        },
-        {
-          "name_4lang": {
+          "name": {
             "de": "Tolson Museum",
             "hu": "Tolson Múzeum",
             "ro": "Muzeul Tolson",
             "en": "Tolson Museum"
           },
           "coords": [
-            -1.75,
-            53.643
+            53.6445,
+            -1.761
           ],
           "category": "museums",
-          "arrive_at": "13:04",
+          "arrive_at": "10:35",
           "stay_min": 100,
-          "hop_from_prev_min": 35,
-          "hop_from_prev_km": 4.0,
-          "hop_mode": "transit",
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.2,
           "tip_5lang": {
-            "de": "Nehmen Sie einen Bus vom Greenhead Park zum Museum für Ihren letzten Besuch.",
-            "hu": "Menjen busszal a Greenhead Parkból a múzeumba az utolsó látogatáshoz.",
-            "ro": "Luați un autobuz de la Greenhead Park la muzeu pentru ultima vizită.",
-            "en": "Take a bus from Greenhead Park to the museum for your final visit."
+            "de": "Kostenlose Parkplätze am Ravensknowle Park vorhanden.",
+            "hu": "Ingyenes parkolás a Ravensknowle Parknál.",
+            "ro": "Parcare gratuită disponibilă la Parcul Ravensknowle.",
+            "en": "Free parking available at Ravensknowle Park."
           }
         },
         {
-          "name_4lang": {
+          "name": {
+            "de": "Castle Hill",
+            "hu": "Castle Hill",
+            "ro": "Castle Hill",
+            "en": "Castle Hill"
+          },
+          "coords": [
+            53.611,
+            -1.7725
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Fahren Sie bis zum Gipfel für die beste Aussicht.",
+            "hu": "Hajts fel egészen a csúcsig a legjobb kilátásért.",
+            "ro": "Conduceți până în vârf pentru cea mai bună vedere.",
+            "en": "Drive all the way to the top for the best views."
+          }
+        },
+        {
+          "name": {
             "de": "Beaumont Park",
             "hu": "Beaumont Park",
             "ro": "Parcul Beaumont",
             "en": "Beaumont Park"
           },
           "coords": [
-            -1.805,
-            53.635
+            53.6275,
+            -1.808
           ],
           "category": "parks/promenades/beaches",
-          "arrive_at": "15:24",
-          "stay_min": 101,
-          "hop_from_prev_min": 40,
-          "hop_from_prev_km": 5.0,
-          "hop_mode": "transit",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
           "tip_5lang": {
-            "de": "Ein optionaler letzter Ausflug, wenn die Zeit es erlaubt, um die dramatische Landschaft zu sehen.",
-            "hu": "Opcionális utolsó kirándulás, ha az idő engedi, hogy megnézze a drámai tájat.",
-            "ro": "O ultimă excursie opțională, dacă timpul permite, pentru a vedea peisajul dramatic.",
-            "en": "An optional final trip if time permits, to see the dramatic scenery."
+            "de": "Nutzen Sie den Parkplatz am Haupteingang.",
+            "hu": "Használd a főbejáratnál lévő parkolót.",
+            "ro": "Folosiți parcarea de la intrarea principală.",
+            "en": "Use the car park at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Greenhead Park",
+            "hu": "Greenhead Park",
+            "ro": "Parcul Greenhead",
+            "en": "Greenhead Park"
+          },
+          "coords": [
+            53.6475,
+            -1.7965
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "15:10",
+          "stay_min": 65,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Guter Ort für einen abschließenden Spaziergang.",
+            "hu": "Kiváló hely egy utolsó sétához.",
+            "ro": "Un loc bun pentru o plimbare finală.",
+            "en": "Good spot for a final stroll."
           }
         }
       ],
       "narrative_4lang": {
-        "de": "Erleben Sie Huddersfield wie ein Einheimischer mit den öffentlichen Verkehrsmitteln. Der Tag beginnt im Stadtzentrum, wo Sie einen Cluster von architektonischen Wahrzeichen zu Fuß erkunden. Anschließend bringt Sie ein Bus zum weitläufigen Greenhead Park für eine entspannte Mittagspause. Am Nachmittag bringt Sie eine weitere Busfahrt zum Tolson Museum, wo Sie in die lokale Geschichte eintauchen, gefolgt von einer optionalen Fahrt zum Beaumont Park. Dieser Plan zeigt, wie effizient und einfach es ist, die wichtigsten Sehenswürdigkeiten der Stadt mit dem Bus zu verbinden und dabei die Cluster-Walking-Philosophie zu nutzen.",
-        "hu": "Tapasztalja meg Huddersfieldet helyiként a tömegközlekedéssel. A nap a városközpontban kezdődik, ahol gyalogosan fedezhet fel egy építészeti nevezetességekből álló klasztert. Ezután busszal juthat el a tágas Greenhead Parkba egy pihentető ebédszünetre. Délután egy másik buszút viszi el a Tolson Múzeumba, hogy elmerüljön a helytörténetben, majd opcionálisan a Beaumont Parkba is eljuthat. Ez a terv bemutatja, milyen hatékony és egyszerű a város főbb látnivalóit busszal összekötni a klaszter-séta filozófiáját alkalmazva.",
-        "ro": "Experimentați Huddersfield ca un localnic folosind transportul public. Ziua începe în centrul orașului, explorând pe jos un grup de repere arhitecturale. Apoi, un autobuz vă duce la întinsul Parc Greenhead pentru o pauză de prânz relaxantă. După-amiaza, o altă călătorie cu autobuzul vă duce la Muzeul Tolson pentru o scufundare în istoria locală, urmată de o călătorie opțională la Parcul Beaumont. Acest plan demonstrează cât de eficient și ușor este să legați principalele atracții ale orașului cu autobuzul, îmbrățișând filozofia mersului pe jos în grupuri.",
-        "en": "Experience Huddersfield like a local using public transport. The day begins in the town centre, exploring a cluster of architectural landmarks on foot. A bus then whisks you away to the expansive Greenhead Park for a relaxing lunch break. In the afternoon, another bus journey takes you to the Tolson Museum for a dive into local history, followed by an optional trip to Beaumont Park. This plan shows how efficient and easy it is to connect the town's key sights by bus, embracing the cluster-walking philosophy."
+        "de": "Mit dem Auto erreichen Sie bequem die verstreuten Highlights von Huddersfield. Beginnen Sie im Zentrum, besuchen Sie das Tolson Museum und fahren Sie dann zum ikonischen Castle Hill. Nach einem Besuch im Beaumont Park beenden Sie Ihre Tour im Greenhead Park. Diese Route minimiert das Gehen an den steilsten Abschnitten.",
+        "hu": "Autóval kényelmesen elérheted Huddersfield távolabb eső látnivalóit is. Kezdj a központban, látogasd meg a Tolson Múzeumot, majd irány az ikonikus Castle Hill. A Beaumont Park után a túrát a Greenhead Parkban fejezed be. Ez az útvonal minimalizálja a gyaloglást a legmeredekebb szakaszokon.",
+        "ro": "Cu mașina puteți ajunge cu ușurință la atracțiile dispersate din Huddersfield. Începeți în centru, vizitați Muzeul Tolson, apoi mergeți la emblematicul Castle Hill. După o vizită în Parcul Beaumont, încheiați turul în Parcul Greenhead. Acest traseu minimizează mersul pe jos în secțiunile cele mai abrupte.",
+        "en": "By car, you can easily reach Huddersfield's scattered highlights. Start in the center, visit Tolson Museum, then drive to the iconic Castle Hill. After a visit to Beaumont Park, finish your tour at Greenhead Park. This route minimizes walking on the steepest sections."
       },
       "gastro_picks": {
         "de": [
           {
-            "name": "Arcade Beers",
-            "tip": "In der Nähe des Busbahnhofs, ideal für ein Bier am Ende des Tages."
-          },
-          {
-            "name": "Queenies, Lawrence Batley Theatre",
-            "tip": "Ein praktischer und schöner Ort für einen Kaffee oder ein leichtes Mittagessen im Stadtzentrum."
+            "name": "The Woodman Inn",
+            "tip": "Ein gehobener Pub etwas außerhalb."
           }
         ],
         "hu": [
           {
-            "name": "Arcade Beers",
-            "tip": "A buszpályaudvar közelében, ideális egy nap végi sörözéshez."
-          },
-          {
-            "name": "Queenies, Lawrence Batley Színház",
-            "tip": "Kényelmes és szép hely egy kávéra vagy könnyű ebédre a városközpontban."
+            "name": "The Woodman Inn",
+            "tip": "Színvonalas pub kicsit kijjebb a városból."
           }
         ],
         "ro": [
           {
-            "name": "Arcade Beers",
-            "tip": "Aproape de autogară, perfect pentru o bere la sfârșitul zilei."
-          },
-          {
-            "name": "Queenies, Teatrul Lawrence Batley",
-            "tip": "Un loc convenabil și minunat pentru o cafea sau un prânz ușor în centrul orașului."
+            "name": "The Woodman Inn",
+            "tip": "Un pub select puțin în afara orașului."
           }
         ],
         "en": [
           {
-            "name": "Arcade Beers",
-            "tip": "Close to the bus station, perfect for an end-of-day pint."
-          },
-          {
-            "name": "Queenies, Lawrence Batley Theatre",
-            "tip": "A convenient and lovely spot for a coffee or light lunch in the town centre."
+            "name": "The Woodman Inn",
+            "tip": "A high-quality pub located just outside the town."
           }
         ]
       },
       "quiet_picks": {
         "de": [
           {
-            "name": "Ravensknowle Park Gärten",
-            "tip": "Die Gärten rund um das Tolson Museum sind oft friedlich.",
-            "emoji": "🍃"
+            "name": "Victoria Tower Plateau",
+            "tip": "Perfekt für den Sonnenuntergang.",
+            "emoji": "🌅"
           }
         ],
         "hu": [
           {
-            "name": "Ravensknowle Park kertjei",
-            "tip": "A Tolson Múzeum körüli kertek gyakran békések.",
-            "emoji": "🍃"
+            "name": "Victoria-torony fennsík",
+            "tip": "Tökéletes naplementéhez.",
+            "emoji": "🌅"
           }
         ],
         "ro": [
           {
-            "name": "Grădinile Parcului Ravensknowle",
-            "tip": "Grădinile din jurul Muzeului Tolson sunt adesea pașnice.",
-            "emoji": "🍃"
+            "name": "Podișul Turnului Victoria",
+            "tip": "Perfect pentru apus.",
+            "emoji": "🌅"
           }
         ],
         "en": [
           {
-            "name": "Ravensknowle Park Gardens",
-            "tip": "The gardens surrounding the Tolson Museum are often peaceful.",
-            "emoji": "🍃"
+            "name": "Victoria Tower Plateau",
+            "tip": "Perfect for sunset views.",
+            "emoji": "🌅"
           }
         ]
       },
@@ -1200,53 +1130,681 @@
         "de": [
           {
             "name": "Kingsgate Shopping Centre",
-            "tip": "Leicht mit dem Bus erreichbar für eine Dosis Mainstream-Shopping."
+            "tip": "Großes Einkaufszentrum mit vielen Parkplätzen."
           }
         ],
         "hu": [
           {
-            "name": "Kingsgate Bevásárlóközpont",
-            "tip": "Könnyen megközelíthető busszal egy adag fősodratú vásárláshoz."
+            "name": "Kingsgate Shopping Centre",
+            "tip": "Nagy bevásárlóközpont sok parkolóhellyel."
           }
         ],
         "ro": [
           {
             "name": "Centrul Comercial Kingsgate",
-            "tip": "Ușor accesibil cu autobuzul pentru o doză de cumpărături convenționale."
+            "tip": "Centru comercial mare cu multă parcare."
           }
         ],
         "en": [
           {
             "name": "Kingsgate Shopping Centre",
-            "tip": "Easily accessible by bus for a dose of high-street shopping."
+            "tip": "Large shopping center with ample parking."
           }
         ]
       },
       "tips": {
         "de": [
-          "Laden Sie die App des lokalen Busunternehmens für Echtzeit-Fahrpläne und Ticketkauf herunter.",
-          "Die Busse akzeptieren kontaktlose Zahlungen, was es sehr einfach macht.",
-          "Planen Sie Ihre Fahrten im Voraus, da die Frequenzen auf einigen Strecken variieren können.",
-          "Fragen Sie den Busfahrer, wenn Sie sich über eine Haltestelle unsicher sind; sie sind normalerweise sehr hilfsbereit."
+          "Parkhäuser im Zentrum sind am Wochenende oft günstiger.",
+          "Die Straßen zum Castle Hill sind schmal, fahren Sie vorsichtig."
         ],
         "hu": [
-          "Töltse le a helyi busztársaság alkalmazását a valós idejű menetrendekhez és a jegyvásárláshoz.",
-          "A buszok elfogadnak érintés nélküli fizetést, ami nagyon egyszerűvé teszi a dolgokat.",
-          "Tervezze meg előre az utazásait, mivel a járatok sűrűsége néhány útvonalon változhat.",
-          "Kérdezze meg a buszvezetőt, ha bizonytalan egy megállóban; általában nagyon segítőkészek."
+          "A belvárosi parkolóházak hétvégén gyakran olcsóbbak.",
+          "A Castle Hill-re vezető utak szűkek, vezess óvatosan."
         ],
         "ro": [
-          "Descărcați aplicația companiei locale de autobuze pentru orare în timp real și achiziționarea de bilete.",
-          "Autobuzele acceptă plăți contactless, ceea ce face lucrurile foarte ușoare.",
-          "Planificați-vă călătoriile în avans, deoarece frecvențele pot varia pe unele rute.",
-          "Întrebați șoferul de autobuz dacă nu sunteți sigur de o stație; de obicei sunt foarte de ajutor."
+          "Parcările multietajate din centru sunt adesea mai ieftine în weekend.",
+          "Drumurile spre Castle Hill sunt înguste, conduceți cu atenție."
         ],
         "en": [
-          "Download the local bus company's app for real-time schedules and ticket purchasing.",
-          "Buses accept contactless payments, making things very easy.",
-          "Plan your journeys in advance as frequencies can vary on some routes.",
-          "Ask the bus driver if you're unsure about a stop; they are usually very helpful."
+          "Multi-story car parks in the center are often cheaper at weekends.",
+          "Roads up to Castle Hill are narrow, drive carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Huddersfield auch im Regen komfortabel. Beginnen Sie morgens an Castle Hill, wo der Nebel dem Victoria Tower eine mystische Aura verleiht. Mittags fahren Sie zum Tolson Museum und parken direkt vor der Tür. Der Nachmittag gehört der Innenstadt, wobei Parkhäuser wie Kingsgate trockenen Zugang zu Geschäften bieten. Beenden Sie den Tag beim Lawrence Batley Theatre, wo Sie direkt davor abgesetzt werden können.",
+            "hu": "Autóval Huddersfield esőben is kényelmesen felfedezhető. Kezdjen reggel a Castle Hillnél, ahol a köd misztikus aurát kölcsönöz a Victoria Towernek. Délben hajtson a Tolson Múzeumhoz, ahol közvetlenül a bejáratnál parkolhat. A délután a belvárosé, ahol a Kingsgate parkolóházból szárazon érheti el az üzleteket. A napot a Lawrence Batley Színháznál zárja, ahol közvetlenül a bejáratnál szállhat ki.",
+            "ro": "Cu mașina, Huddersfield este confortabil chiar și pe ploaie. Începeți dimineața la Castle Hill, unde ceața oferă Turnului Victoria o aură mistică. La prânz, conduceți la Muzeul Tolson și parcați chiar la intrare. După-amiaza este dedicată centrului, parcările acoperite precum Kingsgate oferind acces uscat la magazine. Încheiați ziua la Teatrul Lawrence Batley, unde puteți fi lăsat chiar în față.",
+            "en": "Exploring Huddersfield by car is comfortable even in the rain. Start your morning at Castle Hill, where mist adds a mystical aura to Victoria Tower. At noon, drive to Tolson Museum and park right outside. The afternoon belongs to the town center, using covered car parks like Kingsgate for dry access to shops. End your day at Lawrence Batley Theatre, with convenient drop-off right at the door."
+          },
+          "stops": [
+            {
+              "name": "Castle Hill",
+              "tip_5lang": {
+                "de": "Starker Wind und Nebel sind möglich.",
+                "hu": "Erős szél és köd lehetséges.",
+                "ro": "Vânt puternic și ceață sunt posibile.",
+                "en": "Strong wind and mist are common here."
+              }
+            },
+            {
+              "name": "Tolson Museum",
+              "tip_5lang": {
+                "de": "Kostenloser Parkplatz direkt am Museum.",
+                "hu": "Ingyenes parkoló közvetlenül a múzeumnál.",
+                "ro": "Parcare gratuită chiar lângă muzeu.",
+                "en": "Free parking available right at the museum."
+              }
+            },
+            {
+              "name": "Greenhead Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz an der Trinity St.",
+                "hu": "Használja a Trinity Street-i parkolót.",
+                "ro": "Folosiți parcarea de pe Trinity Street.",
+                "en": "Use the Trinity Street car park nearby."
+              }
+            },
+            {
+              "name": "St George's Square",
+              "tip_5lang": {
+                "de": "Parkhaus am Bahnhof nutzen.",
+                "hu": "Használja a pályaudvar melletti parkolót.",
+                "ro": "Folosiți parcarea de lângă gară.",
+                "en": "Use the multi-storey park next to the station."
+              }
+            },
+            {
+              "name": "Huddersfield Railway Station",
+              "tip_5lang": {
+                "de": "Kurzparkzone zum Aussteigen vorhanden.",
+                "hu": "Rövidtávú megállóhely a kiszálláshoz.",
+                "ro": "Zonă de oprire scurtă pentru debarcare.",
+                "en": "Short-stay drop-off zone available."
+              }
+            },
+            {
+              "name": "Byram Arcade",
+              "tip_5lang": {
+                "de": "Parken im nahen Kingsgate Center.",
+                "hu": "Parkoljon a közeli Kingsgate központban.",
+                "ro": "Parcați în centrul Kingsgate din apropiere.",
+                "en": "Park in the nearby Kingsgate Center."
+              }
+            },
+            {
+              "name": "Lawrence Batley Theatre",
+              "tip_5lang": {
+                "de": "Parkhaus direkt gegenüber vorhanden.",
+                "hu": "Parkolóház található közvetlenül szemben.",
+                "ro": "Parcare etajată chiar vis-a-vis.",
+                "en": "Multi-storey car park right opposite."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Castle Hill kann bei Starkregen sehr windig sein.",
+              "Kingsgate ist das beste Parkhaus für trockenes Shopping.",
+              "Achten Sie auf Aquaplaning auf der A629.",
+              "Reservieren Sie Parkplätze in Stadtnähe im Voraus."
+            ],
+            "hu": [
+              "A Castle Hillnél nagyon szeles lehet az idő esőben.",
+              "A Kingsgate a legjobb parkolóház a száraz vásárláshoz.",
+              "Vigyázzon a vízátfolyásokra az A629-es úton.",
+              "Foglaljon parkolót a belvárosban előre, ha lehet."
+            ],
+            "ro": [
+              "Castle Hill poate fi foarte vântos pe ploaie.",
+              "Kingsgate este cea mai bună parcare pentru shopping uscat.",
+              "Atenție la acvaplanare pe drumul A629.",
+              "Rezervați parcarea în apropierea centrului în avans."
+            ],
+            "en": [
+              "Castle Hill can be extremely windy during rain.",
+              "Kingsgate is the best car park for dry shopping access.",
+              "Watch out for surface water on the A629 road.",
+              "Use the Ring Road carefully in heavy downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die Winterlandschaft von Huddersfield mit dem Auto. Morgens bietet Castle Hill einen atemberaubenden Blick über die frostigen Pennines. Mittags wärmen Sie sich im Tolson Museum auf, gefolgt von einem Besuch im winterlichen Greenhead Park. Der späte Nachmittag gehört der Innenstadt, wo Sie die festliche Beleuchtung bequem vom Auto aus oder bei kurzen Spaziergängen genießen können. Ein Theaterbesuch am Abend krönt den Tag.",
+            "hu": "Fedezze fel Huddersfield téli tájait autóval. Reggel a Castle Hillről lélegzetelállító kilátás nyílik a fagyos Pennine-hegységre. Délben melegedjen fel a Tolson Múzeumban, majd látogasson el a téli Greenhead Parkba. A késő délután a belvárosé, ahol az ünnepi fényeket az autóból vagy rövid sétákkal élvezheti. Egy esti színházlátogatás koronázza meg a napot.",
+            "ro": "Experimentați peisajul de iarnă din Huddersfield cu mașina. Dimineața, Castle Hill oferă o vedere uluitoare peste munții Pennines înghețați. La prânz, încălziți-vă în Muzeul Tolson, urmat de o vizită în Greenhead Park. După-amiaza târziu este pentru centrul orașului, unde puteți admira luminile festive din mașină sau în plimbări scurte. O seară la teatru încheie perfect ziua.",
+            "en": "Experience Huddersfield's winter landscape by car. In the morning, Castle Hill offers breathtaking views over the frosty Pennines. At noon, warm up in Tolson Museum, followed by a visit to the wintry Greenhead Park. Late afternoon is perfect for the town center, where you can enjoy festive lights from the car or on short walks. An evening theatre visit crowns the day."
+          },
+          "stops": [
+            {
+              "name": "Castle Hill",
+              "tip_5lang": {
+                "de": "Zufahrtsstraße kann bei Eis gesperrt sein.",
+                "hu": "A bekötőút jegesedés esetén lezárható.",
+                "ro": "Drumul de acces poate fi închis pe polei.",
+                "en": "The access road may be closed if icy."
+              }
+            },
+            {
+              "name": "Tolson Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist gut beheizt.",
+                "hu": "A múzeum belső tere kellemesen fűtött.",
+                "ro": "Muzeul este bine încălzit în interior.",
+                "en": "The museum interior is well heated."
+              }
+            },
+            {
+              "name": "Greenhead Park",
+              "tip_5lang": {
+                "de": "Wintersonne über dem gefrorenen See.",
+                "hu": "Téli napsütés a befagyott tó felett.",
+                "ro": "Soare de iarnă peste lacul înghețat.",
+                "en": "Winter sun over the frozen lake is beautiful."
+              }
+            },
+            {
+              "name": "St George's Square",
+              "tip_5lang": {
+                "de": "Großer Weihnachtsbaum auf dem Platz.",
+                "hu": "Hatalmas karácsonyfa áll a téren.",
+                "ro": "Un brad mare de Crăciun în piață.",
+                "en": "Large Christmas tree stands in the square."
+              }
+            },
+            {
+              "name": "Huddersfield Railway Station",
+              "tip_5lang": {
+                "de": "Wunderschön beleuchtete Fassade.",
+                "hu": "Gyönyörűen kivilágított homlokzat.",
+                "ro": "Fațadă iluminată superb seara.",
+                "en": "Beautifully lit facade in the evening."
+              }
+            },
+            {
+              "name": "Byram Arcade",
+              "tip_5lang": {
+                "de": "Idealer Ort für Weihnachtsgeschenke.",
+                "hu": "Ideális hely karácsonyi ajándékokhoz.",
+                "ro": "Loc ideal pentru cadouri de Crăciun.",
+                "en": "Ideal place for unique Christmas gifts."
+              }
+            },
+            {
+              "name": "Lawrence Batley Theatre",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre.",
+                "hu": "Élvezze a meghitt, meleg hangulatot.",
+                "ro": "Bucurați-vă de atmosfera caldă.",
+                "en": "Enjoy the cozy, warm atmosphere."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Straßenzustand zum Castle Hill.",
+              "Frostschutzmittel für die Scheiben nicht vergessen.",
+              "Parkhäuser sind wärmer als offene Parkplätze.",
+              "Planen Sie Fahrten vor dem Dunkelwerden (16 Uhr)."
+            ],
+            "hu": [
+              "Ellenőrizze az útviszonyokat a Castle Hill felé.",
+              "Ne felejtse el a szélvédőmosó fagyállót.",
+              "A parkolóházak melegebbek, mint a nyitott parkolók.",
+              "Tervezze meg az utat sötétedés (16 óra) előtt."
+            ],
+            "ro": [
+              "Verificați starea drumului spre Castle Hill.",
+              "Nu uitați lichidul de parbriz anti-îngheț.",
+              "Parcările etajate sunt mai calde decât cele deschise.",
+              "Planificați deplasarea înainte de întuneric (ora 16)."
+            ],
+            "en": [
+              "Check road conditions to Castle Hill for ice.",
+              "Ensure you have anti-freeze in your screen wash.",
+              "Multi-storey car parks are warmer for the car.",
+              "Plan your main drives before 4 PM sunset."
+            ]
+          }
+        }
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 11.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Huddersfield Bahnhof",
+            "hu": "Huddersfield vasútállomás",
+            "ro": "Gara Huddersfield",
+            "en": "Huddersfield Railway Station"
+          },
+          "coords": [
+            53.6485,
+            -1.7858
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der Busbahnhof ist nur 5 Gehminuten entfernt.",
+            "hu": "A buszpályaudvar mindössze 5 perc séta.",
+            "ro": "Autogara este la doar 5 minute de mers pe jos.",
+            "en": "The bus station is just a 5-minute walk away."
+          }
+        },
+        {
+          "name": {
+            "de": "St. George's Square",
+            "hu": "Szent György tér",
+            "ro": "Piața Sf. Gheorghe",
+            "en": "St George's Square"
+          },
+          "coords": [
+            53.6482,
+            -1.7845
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für viele Stadtbusse.",
+            "hu": "Számos városi busz központi csomópontja.",
+            "ro": "Hub central pentru multe autobuze urbane.",
+            "en": "Central hub for many town buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Tolson Museum",
+            "hu": "Tolson Múzeum",
+            "ro": "Muzeul Tolson",
+            "en": "Tolson Museum"
+          },
+          "coords": [
+            53.6445,
+            -1.761
+          ],
+          "category": "museums",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie die Buslinien 370 oder 371 vom Zentrum.",
+            "hu": "Használd a 370-es vagy 371-es buszt a központból.",
+            "ro": "Luați liniile de autobuz 370 sau 371 din centru.",
+            "en": "Take bus 370 or 371 from the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Huddersfield Rathaus",
+            "hu": "Huddersfield Városháza",
+            "ro": "Primăria Huddersfield",
+            "en": "Huddersfield Town Hall"
+          },
+          "coords": [
+            53.6444,
+            -1.7818
+          ],
+          "category": "landmark",
+          "arrive_at": "12:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Rückkehr ins Zentrum für Besichtigungen.",
+            "hu": "Visszatérés a központba a városnézéshez.",
+            "ro": "Reveniți în centru pentru vizitare.",
+            "en": "Return to the center for sightseeing."
+          }
+        },
+        {
+          "name": {
+            "de": "Greenhead Park",
+            "hu": "Greenhead Park",
+            "ro": "Parcul Greenhead",
+            "en": "Greenhead Park"
+          },
+          "coords": [
+            53.6475,
+            -1.7965
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Vom Zentrum aus leicht mit dem Bus oder zu Fuß erreichbar.",
+            "hu": "A központból könnyen elérhető busszal vagy gyalog.",
+            "ro": "Ușor accesibil din centru cu autobuzul sau pe jos.",
+            "en": "Easily accessible from the center by bus or on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Lawrence Batley Theater",
+            "hu": "Lawrence Batley Színház",
+            "ro": "Teatrul Lawrence Batley",
+            "en": "Lawrence Batley Theatre"
+          },
+          "coords": [
+            53.6438,
+            -1.781
+          ],
+          "category": "theatres/cultural centres",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss im kulturellen Viertel.",
+            "hu": "Szép zárás a kulturális negyedben.",
+            "ro": "Un final frumos în cartierul cultural.",
+            "en": "A nice finish in the cultural quarter."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das ausgezeichnete Busnetz von Huddersfield für Ihre Stadttour. Beginnen Sie am Bahnhof und fahren Sie zum Tolson Museum. Kehren Sie ins Stadtzentrum zurück, um das Rathaus und das Lawrence Batley Theater zu besichtigen. Den Nachmittag verbringen Sie entspannt im Greenhead Park, bevor Sie Ihre Reise fortsetzen.",
+        "hu": "Használd Huddersfield kiváló buszhálózatát a városnézéshez. Kezdj az állomásnál, majd utazz a Tolson Múzeumhoz. Térj vissza a központba a Városháza és a Lawrence Batley Színház megtekintéséhez. A délutánt a Greenhead Parkban töltöd, mielőtt folytatnád az utadat.",
+        "ro": "Folosiți rețeaua excelentă de autobuze din Huddersfield pentru turul orașului. Începeți la gară, apoi mergeți la Muzeul Tolson. Reveniți în centrul orașului pentru a vizita Primăria și Teatrul Lawrence Batley. Petreceți după-amiaza relaxându-vă în Parcul Greenhead înainte de a vă continua călătoria.",
+        "en": "Utilize Huddersfield's excellent bus network for your town tour. Start at the station and head out to the Tolson Museum. Return to the town center to see the Town Hall and Lawrence Batley Theatre. Spend the afternoon relaxing at Greenhead Park before moving on."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Thai Sakon",
+            "tip": "Beliebtes Restaurant nahe dem Busbahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Thai Sakon",
+            "tip": "Népszerű étterem a buszpályaudvar közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Thai Sakon",
+            "tip": "Restaurant popular lângă autogară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Thai Sakon",
+            "tip": "Popular restaurant near the bus station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St. Peter's Gardens",
+            "tip": "Eine ruhige Ecke hinter der Kirche.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Péter kertek",
+            "tip": "Csendes sarok a templom mögött.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădinile Sf. Petru",
+            "tip": "Un colț liniștit în spatele bisericii.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "St Peter's Gardens",
+            "tip": "A quiet corner behind the church.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Packhorse Shopping Centre",
+            "tip": "Überdachtes Einkaufszentrum im Herzen der Stadt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Packhorse Shopping Centre",
+            "tip": "Fedett bevásárlóközpont a város szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Centrul Comercial Packhorse",
+            "tip": "Centru comercial acoperit în inima orașului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Packhorse Shopping Centre",
+            "tip": "Indoor shopping center in the heart of town."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie eine 'DaySaver' Karte für unbegrenzte Busfahrten.",
+          "Die meisten Busse starten am Huddersfield Bus Station."
+        ],
+        "hu": [
+          "Vegyél 'DaySaver' jegyet a korlátlan buszozáshoz.",
+          "A legtöbb busz a huddersfieldi buszpályaudvarról indul."
+        ],
+        "ro": [
+          "Cumpărați un bilet 'DaySaver' pentru călătorii nelimitate cu autobuzul.",
+          "Majoritatea autobuzelor pleacă de la autogara Huddersfield."
+        ],
+        "en": [
+          "Buy a 'DaySaver' ticket for unlimited bus travel.",
+          "Most buses depart from Huddersfield Bus Station."
+        ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das dichte Busnetz von Huddersfield, um im Regen trocken zu bleiben. Starten Sie am Bahnhof und nehmen Sie den Bus zum Greenhead Park. Mittags bietet die Byram Arcade Schutz, bevor Sie mit der Linie 370 oder 371 zum Tolson Museum fahren. Die Bushaltestellen im Zentrum sind meist überdacht, sodass Sie bequem zwischen den kulturellen Highlights pendeln können, ohne nass zu werden.",
+            "hu": "Használja Huddersfield sűrű buszhálózatát, hogy száraz maradjon az esőben. Kezdjen a vasútállomásnál, és menjen busszal a Greenhead Parkhoz. Délben a Byram Arcade nyújt menedéket, majd a 370-es vagy 371-es busszal utazzon a Tolson Múzeumhoz. A belvárosi megállók többnyire fedettek, így kényelmesen közlekedhet a látnivalók között.",
+            "ro": "Folosiți rețeaua densă de autobuze din Huddersfield pentru a rămâne uscat. Începeți la gară și luați autobuzul spre Greenhead Park. La prânz, Byram Arcade vă oferă adăpost, apoi luați liniile 370 sau 371 spre Muzeul Tolson. Stațiile din centru sunt majoritatea acoperite, permițându-vă să navigați între atracții fără a vă uda.",
+            "en": "Utilize Huddersfield's frequent bus network to stay dry in the rain. Start at the railway station and hop on a bus to Greenhead Park. At noon, Byram Arcade provides shelter, then take the 370 or 371 bus to Tolson Museum. Most town center stops are covered, allowing you to commute between cultural highlights comfortably and stay dry."
+          },
+          "stops": [
+            {
+              "name": "Bus Station / Market St",
+              "tip_5lang": {
+                "de": "Großer überdachter Wartebereich.",
+                "hu": "Nagy, fedett várakozási terület.",
+                "ro": "Zonă de așteptare mare și acoperită.",
+                "en": "Large covered waiting area available."
+              }
+            },
+            {
+              "name": "St George's Square",
+              "tip_5lang": {
+                "de": "Busse halten direkt am Bahnhofsvorbau.",
+                "hu": "A buszok a vasútállomás előtt állnak meg.",
+                "ro": "Autobuzele opresc chiar lângă gară.",
+                "en": "Buses stop right by the station portico."
+              }
+            },
+            {
+              "name": "Byram Arcade",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg von den Haltestellen.",
+                "hu": "Csak 2 perc séta a buszmegállóktól.",
+                "ro": "La doar 2 minute de mers de stații.",
+                "en": "Just 2 minutes walk from main stops."
+              }
+            },
+            {
+              "name": "Greenhead Park",
+              "tip_5lang": {
+                "de": "Busse halten direkt am Parkeingang.",
+                "hu": "A buszok közvetlenül a parknál állnak meg.",
+                "ro": "Autobuzele opresc la intrarea în parc.",
+                "en": "Buses stop right at the park gates."
+              }
+            },
+            {
+              "name": "Tolson Museum",
+              "tip_5lang": {
+                "de": "Linien 370/371 halten in der Nähe.",
+                "hu": "A 370/371-es járatok a közelben állnak meg.",
+                "ro": "Liniile 370/371 opresc în apropiere.",
+                "en": "Lines 370/371 stop very close by."
+              }
+            },
+            {
+              "name": "Beaumont Park",
+              "tip_5lang": {
+                "de": "Busverbindungen sind auch bei Regen stabil.",
+                "hu": "A buszjáratok esőben is megbízhatóak.",
+                "ro": "Conexiunile sunt stabile și pe ploaie.",
+                "en": "Bus connections remain stable in rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'MCard' App für kontaktloses Zahlen.",
+              "Huddersfield Bus Station ist komplett überdacht.",
+              "Planen Sie bei starkem Regen leichte Verzögerungen ein.",
+              "Die 'Free Town Bus' Linie verbindet wichtige Punkte."
+            ],
+            "hu": [
+              "Használja az 'MCard' alkalmazást a fizetéshez.",
+              "A huddersfieldi buszpályaudvar teljesen fedett.",
+              "Heves esőzéskor számítson kisebb késésekre.",
+              "A 'Free Town Bus' ingyenesen összeköti a fontos pontokat."
+            ],
+            "ro": [
+              "Folosiți aplicația 'MCard' pentru plăți contactless.",
+              "Autogara Huddersfield este complet acoperită.",
+              "Prevedeți mici întârzieri în caz de ploaie torențială.",
+              "Linia 'Free Town Bus' conectează punctele cheie."
+            ],
+            "en": [
+              "Use the 'MCard' app for contactless payments.",
+              "Huddersfield Bus Station is fully indoor and dry.",
+              "Expect minor delays during very heavy rainfall.",
+              "The Free Town Bus is great for short hops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der öffentliche Nahverkehr ist im Winter die wärmste Art, Huddersfield zu erkunden. Starten Sie am festlich beleuchteten Bahnhof. Mittags erreichen Sie mit dem Bus den Greenhead Park für einen kurzen Winterspaziergang, bevor Sie in den beheizten Bussen zum Tolson Museum weiterfahren. Der Abend im Stadtzentrum ist dank der guten Anbindung an den Busbahnhof sicher und hell, ideal für einen Besuch im Lawrence Batley Theatre.",
+            "hu": "A tömegközlekedés télen a legmelegebb módja Huddersfield felfedezésének. Kezdjen az ünnepi díszbe öltözött vasútállomásnál. Délben buszozzon a Greenhead Parkhoz egy rövid téli sétára, majd folytassa útját fűtött buszokon a Tolson Múzeumhoz. A belvárosi este a buszpályaudvar közelsége miatt biztonságos és világos, ideális egy színházi látogatáshoz.",
+            "ro": "Transportul public este cea mai călduroasă cale de a vedea orașul iarna. Începeți la gara decorată festiv. La prânz, luați autobuzul spre Greenhead Park pentru o plimbare scurtă, apoi continuați cu autobuze încălzite spre Muzeul Tolson. Seara în centru este sigură și bine iluminată datorită gării centrale, ideală pentru o vizită la teatru.",
+            "en": "Public transit is the warmest way to explore Huddersfield in winter. Start at the festively decorated railway station. At midday, take a bus to Greenhead Park for a crisp walk, then continue on heated buses to Tolson Museum. The evening in the town center is safe and well-lit thanks to the central bus station, perfect for an outing to Lawrence Batley Theatre."
+          },
+          "stops": [
+            {
+              "name": "Bus Station / Market St",
+              "tip_5lang": {
+                "de": "Beheizte Wartebereiche im Inneren.",
+                "hu": "Fűtött várakozóhelyiségek bent.",
+                "ro": "Zone de așteptare încălzite în interior.",
+                "en": "Heated waiting areas available inside."
+              }
+            },
+            {
+              "name": "St George's Square",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Zug und Bus.",
+                "hu": "Rövid séta a vonat és a busz között.",
+                "ro": "Distanțe scurte între tren și autobuz.",
+                "en": "Short walks between train and bus."
+              }
+            },
+            {
+              "name": "Byram Arcade",
+              "tip_5lang": {
+                "de": "Genießen Sie den Weihnachtsmarkt in der Nähe.",
+                "hu": "Élvezze a közeli karácsonyi vásárt.",
+                "ro": "Bucurați-vă de târgul de Crăciun din zonă.",
+                "en": "Enjoy the nearby Christmas market stalls."
+              }
+            },
+            {
+              "name": "Greenhead Park",
+              "tip_5lang": {
+                "de": "Bushaltestelle bietet Windschutz.",
+                "hu": "A buszmegálló szélvédett helyen van.",
+                "ro": "Stația de autobuz oferă protecție la vânt.",
+                "en": "Bus stop provides good wind cover."
+              }
+            },
+            {
+              "name": "Tolson Museum",
+              "tip_5lang": {
+                "de": "Busse fahren alle 10-15 Minuten.",
+                "hu": "A buszok 10-15 percenként járnak.",
+                "ro": "Autobuzele circulă la fiecare 10-15 min.",
+                "en": "Buses run every 10-15 minutes."
+              }
+            },
+            {
+              "name": "Beaumont Park",
+              "tip_5lang": {
+                "de": "Letzte Busse vor der Dunkelheit nutzen.",
+                "hu": "Használja az utolsó járatokat sötétedés előtt.",
+                "ro": "Luați ultimele autobuze înainte de noapte.",
+                "en": "Check late afternoon schedules carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter meist gut beheizt.",
+              "Ab 16 Uhr wird es dunkel, planen Sie entsprechend.",
+              "Der Busbahnhof bietet Schutz vor kaltem Wind.",
+              "Nutzen Sie Echtzeit-Infos in der MCard App."
+            ],
+            "hu": [
+              "A buszok télen általában jól fűtöttek.",
+              "Délután 4 után sötétedik, tervezzen előre.",
+              "A buszpályaudvar védelmet nyújt a hideg szél ellen.",
+              "Használja az MCard app valós idejű adatait."
+            ],
+            "ro": [
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Se întunecă după ora 16:00, planificați din timp.",
+              "Autogara oferă protecție împotriva vântului rece.",
+              "Folosiți info în timp real din aplicația MCard."
+            ],
+            "en": [
+              "Buses are generally well-heated in winter.",
+              "Darkness falls after 4 PM, so plan accordingly.",
+              "The bus station is a great escape from cold winds.",
+              "Check real-time info on the MCard mobile app."
+            ]
+          }
+        }
       }
     }
   }

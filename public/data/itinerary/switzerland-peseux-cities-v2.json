@@ -379,6 +379,214 @@
           "Check the castle's opening hours in advance.",
           "A camera is essential for the beautiful views."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendlicher Start unter den Arkaden der Rue du Château. Der Brunnen glänzt im Regen, während Sie Schutz im Temple suchen. Mittags bietet das Schloss Peseux einen langen, trockenen Aufenthalt in historischen Mauern. Der Nachmittag im Wald von Neuchâtel ist zwar feucht, aber die dichten Blätter bieten natürlichen Schutz. Den Abend lassen Sie gemütlich in einem lokalen Café ausklingen.",
+            "hu": "Reggeli kezdés a Rue du Château ereszei alatt. A szökőkút csillog az esőben, a Temple pedig menedéket nyújt. Délben a Peseux kastély vastag falai között hosszas, száraz látogatást tehetünk. Délután a neuchâteli erdő párás és illatos, a sűrű lombok némi védelmet adnak a szitálás ellen. Az estét érdemes egy helyi kisvendéglő melegében tölteni.",
+            "ro": "Începeți dimineața sub arcadele de pe Rue du Château. Fântâna strălucește în ploaie, iar Templul oferă un refugiu primitor. La prânz, Castelul Peseux vă permite o vizită lungă și uscată în interiorul său istoric. După-amiaza în pădurea Neuchâtel este umedă, dar coronamentul dens oferă protecție naturală. Seara se încheie confortabil într-o cafenea locală, feriți de intemperii.",
+            "en": "Morning start under the eaves of Rue du Château. The fountain glistens in the rain, while the Temple provides a dry sanctuary. At midday, Peseux Castle offers a long, indoor escape within its historic walls. The afternoon in the Neuchâtel forest is damp but atmospheric, with the canopy providing some natural cover. End the evening cozily in a local bistro away from the drizzle."
+          },
+          "stops": [
+            {
+              "name": "Start at Rue du Château",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Hausvorsprünge als Regenschutz.",
+                "hu": "Használja a házak ereszeit esernyő helyett.",
+                "ro": "Folosiți streșinile clădirilor pentru adăpost.",
+                "en": "Use the building overhangs for rain protection."
+              }
+            },
+            {
+              "name": "Banneret Fountain",
+              "tip_5lang": {
+                "de": "Ein schnelles Foto, bevor die Linse nass wird.",
+                "hu": "Gyors fotó, mielőtt vizes lesz a lencse.",
+                "ro": "O poză rapidă înainte ca lentila să se ude.",
+                "en": "A quick photo before the lens gets wet."
+              }
+            },
+            {
+              "name": "Temple of Peseux",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den ersten Schauer abzuwarten.",
+                "hu": "Ideális hely az első zápor kivárására.",
+                "ro": "Locul ideal pentru a aștepta trecerea ploii.",
+                "en": "Ideal spot to wait out the first shower."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade vom Café gegenüber.",
+                "hu": "Csodálja a homlokzatot a szemközti kávézóból.",
+                "ro": "Admirați fațada dintr-o cafenea de vizavi.",
+                "en": "Admire the facade from a café across the street."
+              }
+            },
+            {
+              "name": "Peseux Castle",
+              "tip_5lang": {
+                "de": "Perfekter Indoor-Stopp bei anhaltendem Regen.",
+                "hu": "Tökéletes beltéri program tartós esőben.",
+                "ro": "Program interior perfect în caz de ploaie.",
+                "en": "Perfect indoor stop during persistent rain."
+              }
+            },
+            {
+              "name": "Panayotidis Foundation Park",
+              "tip_5lang": {
+                "de": "Die Skulpturen wirken im Regen besonders mystisch.",
+                "hu": "A szobrok az esőben különösen misztikusak.",
+                "ro": "Sculpturile par mistice în lumina ploii.",
+                "en": "The sculptures look particularly mystical in the rain."
+              }
+            },
+            {
+              "name": "Walk in the Neuchâtel Forest",
+              "tip_5lang": {
+                "de": "Achtung, die Waldwege können rutschig sein.",
+                "hu": "Vigyázat, az erdei utak csúszósak lehetnek.",
+                "ro": "Atenție, potecile din pădure pot fi alunecoase.",
+                "en": "Careful, forest paths can be slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für den Waldabschnitt.",
+              "Die Jurasüdfuß-Winde können Regenschirme instabil machen.",
+              "Das Schloss bietet den besten längeren Unterschlupf.",
+              "Planen Sie Kaffeepausen in der Nähe der Rue du Château ein.",
+              "Ein Regenponcho ist im Wald praktischer als ein Schirm."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt az erdei szakaszhoz.",
+              "A Jura-menti szelek kifordíthatják az esernyőt.",
+              "A kastély nyújtja a legjobb hosszú távú menedéket.",
+              "Tervezzen kávészüneteket a Rue du Château környékén.",
+              "Az erdőben a poncho praktikusabb, mint az esernyő."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție impermeabilă pentru pădure.",
+              "Vânturile de la poalele Jurei pot rupe umbrelele.",
+              "Castelul oferă cel mai bun adăpost de lungă durată.",
+              "Planificați pauze de cafea lângă Rue du Château.",
+              "Pelerina de ploaie e mai practică decât umbrela în pădure."
+            ],
+            "en": [
+              "Wear waterproof hiking boots for the forest section.",
+              "Jura foothills winds can make umbrellas unstable.",
+              "The castle provides the best long-term shelter.",
+              "Plan coffee breaks around the Rue du Château area.",
+              "A rain poncho is more practical than an umbrella in the woods."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen im alten Kern von Peseux. Der Temple wirkt in der klaren Luft majestätisch. Mittags wärmen Sie sich im Schloss auf, dessen Säle eine besondere winterliche Atmosphäre versprühen. Der Spaziergang durch den Wald von Neuchâtel bietet bei Raureif traumhafte Fotomotive, doch die Sonne sinkt früh. Der Tag endet mit einem heißen Getränk im Dorfzentrum.",
+            "hu": "Friss téli reggel Peseux óvárosában. A Temple fenséges látványt nyújt a tiszta, hideg levegőben. Délben a kastélyban melegedhetünk fel, melynek termei különleges téli hangulatot árasztanak. A neuchâteli erdei séta zúzmarás időben álomszép, de a nap korán nyugszik. A napot egy forró itallal zárjuk a falu központjában.",
+            "ro": "O dimineață proaspătă de iarnă în centrul vechi din Peseux. Templul arată maiestuos în aerul rece și clar. La prânz, vă încălziți în castel, ale cărui săli emană o atmosferă specială de iarnă. Plimbarea prin pădurea Neuchâtel oferă peisaje de vis dacă e chiciură, dar soarele apune devreme. Ziua se încheie cu o băutură caldă în centrul satului.",
+            "en": "A crisp winter morning in the old heart of Peseux. The Temple looks majestic in the clear, cold air. At midday, warm up inside the castle, where the halls exude a special wintry atmosphere. The walk through the Neuchâtel forest offers dreamlike photo opportunities during frost, but the sun sets early. The day ends with a hot drink in the village center."
+          },
+          "stops": [
+            {
+              "name": "Start at Rue du Château",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a fagyott macskaköveken.",
+                "ro": "Atenție la pavajul înghețat.",
+                "en": "Watch out for icy cobblestones."
+              }
+            },
+            {
+              "name": "Banneret Fountain",
+              "tip_5lang": {
+                "de": "Eiszapfen am Brunnen sind ein tolles Motiv.",
+                "hu": "A kúton lógó jégcsapok remek fotótémák.",
+                "ro": "Țurțurii de la fântână sunt un decor superb.",
+                "en": "Icicles on the fountain make a great photo."
+              }
+            },
+            {
+              "name": "Temple of Peseux",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und die Wärme im Inneren.",
+                "hu": "Élvezze a csendet és a benti meleget.",
+                "ro": "Bucurați-vă de liniștea și căldura din interior.",
+                "en": "Enjoy the silence and the warmth inside."
+              }
+            },
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Winterdeko zu bewundern.",
+                "hu": "Rövid megálló a téli díszek megcsodálására.",
+                "ro": "Oprire scurtă pentru decorațiunile de iarnă.",
+                "en": "Short stop to admire the winter decorations."
+              }
+            },
+            {
+              "name": "Peseux Castle",
+              "tip_5lang": {
+                "de": "Perfekt, um sich zwischendurch aufzuwärmen.",
+                "hu": "Tökéletes hely a napközbeni felmelegedéshez.",
+                "ro": "Perfect pentru a vă încălzi la mijlocul zilei.",
+                "en": "Perfect for warming up mid-day."
+              }
+            },
+            {
+              "name": "Panayotidis Foundation Park",
+              "tip_5lang": {
+                "de": "Besuch am besten vor dem frühen Sonnenuntergang.",
+                "hu": "Látogatás érdemes a korai naplemente előtt.",
+                "ro": "Vizitați înainte de apusul timpuriu al soarelui.",
+                "en": "Visit is best before the early sunset."
+              }
+            },
+            {
+              "name": "Walk in the Neuchâtel Forest",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückkehr vor 16:30 Uhr ein.",
+                "hu": "Tervezze a visszatérést 16:30 előtt.",
+                "ro": "Planificați întoarcerea înainte de ora 16:30.",
+                "en": "Plan to return before 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter hinter dem Jura sehr früh unter.",
+              "Mehrlagige Kleidung schützt vor dem beißenden Wind.",
+              "Waldwege können vereist sein, nehmen Sie Wanderstöcke mit.",
+              "Trinken Sie zwischendurch heißen Tee in den Dorfcafés.",
+              "Handschuhe sind für die Schlossbesichtigung unverzichtbar."
+            ],
+            "hu": [
+              "A nap télen nagyon korán bukik le a Jura mögött.",
+              "A réteges öltözködés véd a metsző szél ellen.",
+              "Az erdei utak jegesek lehetnek, vigyen túrabotot.",
+              "Igyon forró teát a falu kávézóiban útközben.",
+              "A kesztyű elengedhetetlen a kastélylátogatáshoz."
+            ],
+            "ro": [
+              "Soarele apune foarte devreme după munții Jura.",
+              "Îmbrăcămintea în straturi protejează de vântul tăios.",
+              "Potecile pot fi înghețate, luați bețe de trekking.",
+              "Beți un ceai fierbinte în cafenelele din sat.",
+              "Mănușile sunt indispensabile pentru vizita la castel."
+            ],
+            "en": [
+              "The sun sets very early behind the Jura in winter.",
+              "Layered clothing protects against the biting wind.",
+              "Forest paths can be icy; bring trekking poles.",
+              "Drink hot tea in the village cafés along the way.",
+              "Gloves are essential for the castle visit."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +937,196 @@
           "Bring a lock to secure your bike.",
           "The paths in the forest can be uneven, ride carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Fahrt durch Peseux trotz Regen. Der Halt am Temple bietet eine trockene Pause. Mittags erreichen Sie das Schloss, wo Sie das Fahrrad sicher abstellen und im Inneren verweilen können. Die Fahrt in den Wald erfordert Konzentration auf den nassen Wegen, ist aber sehr belebend. Der Tag endet zügig und zufriedenstellend.",
+            "hu": "Frissítő tekerés Peseux-n keresztül az eső ellenére. A Temple-nél tartott pihenő száraz szünetet biztosít. Délben a kastélyhoz érve biztonságban lezárhatja a bringát, és bent nézelődhet. Az erdei gurulás koncentrációt igényel a vizes utakon, de nagyon élénkítő. A nap gyorsan és elégedetten ér véget.",
+            "ro": "O tură revigorantă prin Peseux în ciuda ploii. Oprirea la Templu oferă o pauză uscată. La prânz ajungeți la castel, unde puteți parca bicicleta în siguranță și puteți zăbovi în interior. Călătoria în pădure necesită concentrare pe drumurile ude, dar este tonifiantă. Ziua se încheie rapid și satisfăcător.",
+            "en": "A refreshing ride through Peseux despite the rain. The stop at the Temple provides a dry break. At midday, reach the castle where you can safely park your bike and stay inside. The ride into the forest requires concentration on wet paths but is very invigorating. The day ends swiftly and satisfyingly."
+          },
+          "stops": [
+            {
+              "name": "Start at the Temple of Peseux",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start.",
+                "hu": "Indulás előtt ellenőrizze a fékeket.",
+                "ro": "Verificați frânele înainte de plecare.",
+                "en": "Check your brakes before starting."
+              }
+            },
+            {
+              "name": "Town Hall & Rue du Château",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster.",
+                "hu": "Vigyázzon a vizes macskaköveken.",
+                "ro": "Atenție la pavajul umed.",
+                "en": "Be careful on wet cobblestones."
+              }
+            },
+            {
+              "name": "Peseux Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer.",
+                "hu": "Használja a fedett kerékpártárolót.",
+                "ro": "Folosiți suportul de biciclete acoperit.",
+                "en": "Use the covered bike rack."
+              }
+            },
+            {
+              "name": "Panayotidis Foundation Park",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad auf den Kieswegen.",
+                "hu": "A kavicsos utakon tolja a bringát.",
+                "ro": "Împingeți bicicleta pe aleile cu pietriș.",
+                "en": "Push your bike on the gravel paths."
+              }
+            },
+            {
+              "name": "Ancienne Cure (Old Presbytery)",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach.",
+                "hu": "Rövid megálló az előtető alatt.",
+                "ro": "Oprire scurtă sub copertină.",
+                "en": "Short stop under the overhang."
+              }
+            },
+            {
+              "name": "Bike ride into the Neuchâtel Forest",
+              "tip_5lang": {
+                "de": "Schutzbleche sind heute ein Muss.",
+                "hu": "A sárvédő ma kötelező darab.",
+                "ro": "Aripile la bicicletă sunt obligatorii azi.",
+                "en": "Mudguards are a must today."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine vollflächige Regenbekleidung.",
+              "Vermeiden Sie scharfe Kurven auf nassem Asphalt.",
+              "Ein Sattelschutz hält Ihren Sitz beim Parken trocken.",
+              "Waldwege können durch Schlamm rutschig sein.",
+              "Reinigen Sie die Kette nach der Fahrt vom Straßendreck."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot.",
+              "Kerülje az éles kanyarokat a vizes aszfalton.",
+              "A nyeregvédő szárazon tartja az ülést parkoláskor.",
+              "Az erdei utak a sártól csúszósak lehetnek.",
+              "A túra után tisztítsa meg a láncot a sártól."
+            ],
+            "ro": [
+              "Purtați echipament complet de ploaie.",
+              "Evitați virajele strânse pe asfaltul umed.",
+              "O husă de șa menține scaunul uscat la parcare.",
+              "Potecile de pădure pot fi alunecoase din cauza noroiului.",
+              "Curățați lanțul de mizerie după călătorie."
+            ],
+            "en": [
+              "Wear full rain gear.",
+              "Avoid sharp turns on wet asphalt.",
+              "A saddle cover keeps your seat dry while parked.",
+              "Forest paths can be slippery due to mud.",
+              "Clean the chain from road grit after the ride."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalte Luft weht Ihnen beim Radeln durch Peseux entgegen. Der Temple ist ein guter Startpunkt für die winterliche Runde. Das Schloss bietet mittags die nötige Aufwärmpause. Im Wald von Neuchâtel ist die Fahrt kurz und knackig, bevor es dunkel wird. Ein sportlicher Wintertag, der mit einem warmen Käsefondue belohnt werden sollte.",
+            "hu": "Hideg szél fúj tekerés közben Peseux utcáin. A Temple remek kiindulópont a téli körhöz. A kastély délben biztosítja a szükséges melegedőt. A neuchâteli erdőben a gurulás rövid és pörgős, mielőtt beesteledne. Sportos téli nap, amit egy meleg sajtfondüvel érdemes megjutalmazni.",
+            "ro": "Aerul rece vă pișcă în timp ce pedalați prin Peseux. Templul este un bun punct de start pentru tura de iarnă. Castelul oferă la prânz pauza necesară pentru încălzire. În pădurea Neuchâtel, tura este scurtă și intensă înainte de lăsarea întunericului. O zi sportivă de iarnă care merită răsplătită cu un fondue cald.",
+            "en": "Cold air greets you as you cycle through Peseux. The Temple is a great starting point for the winter loop. At midday, the castle provides the necessary warming break. In the Neuchâtel forest, the ride is short and crisp before it gets dark. A sporty winter day that should be rewarded with a warm cheese fondue."
+          },
+          "stops": [
+            {
+              "name": "Start at the Temple of Peseux",
+              "tip_5lang": {
+                "de": "Starten Sie erst, wenn der Reif getaut ist.",
+                "hu": "Csak akkor induljon, ha a zúzmara már elolvadt.",
+                "ro": "Porniți doar după ce s-a topit chiciura.",
+                "en": "Start only after the frost has thawed."
+              }
+            },
+            {
+              "name": "Town Hall & Rue du Château",
+              "tip_5lang": {
+                "de": "Vorsicht in schattigen Gassen vor Glatteis.",
+                "hu": "Vigyázzon a fekete jégre az árnyékos utcákban.",
+                "ro": "Atenție la polei în zonele umbrite.",
+                "en": "Watch out for black ice in shaded alleys."
+              }
+            },
+            {
+              "name": "Peseux Castle",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad windgeschützt ab.",
+                "hu": "Szélvédett helyen parkolja le a bringát.",
+                "ro": "Parcați bicicleta într-un loc ferit de vânt.",
+                "en": "Park your bike in a wind-sheltered spot."
+              }
+            },
+            {
+              "name": "Panayotidis Foundation Park",
+              "tip_5lang": {
+                "de": "Kurze Runde drehen, solange die Sonne scheint.",
+                "hu": "Tegyen egy rövid kört, amíg süt a nap.",
+                "ro": "Faceți o tură scurtă cât soarele e sus.",
+                "en": "Do a quick loop while the sun is out."
+              }
+            },
+            {
+              "name": "Ancienne Cure (Old Presbytery)",
+              "tip_5lang": {
+                "de": "Ein schneller Halt für ein Foto.",
+                "hu": "Gyors megálló egy fotóra.",
+                "ro": "O oprire rapidă pentru o poză.",
+                "en": "A quick stop for a photo."
+              }
+            },
+            {
+              "name": "Bike ride into the Neuchâtel Forest",
+              "tip_5lang": {
+                "de": "Starke Beleuchtung ist ab 16 Uhr nötig.",
+                "hu": "16 óra után erős világítás szükséges.",
+                "ro": "Luminile puternice sunt necesare după ora 16.",
+                "en": "Strong lights are needed from 4 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und Überschuhe sind lebenswichtig.",
+              "Akkus von E-Bikes verlieren bei Kälte schneller Kapazität.",
+              "Halten Sie sich auf geräumten Straßen fern von Eisplatten.",
+              "Die Dämmerung setzt im Wald extrem schnell ein.",
+              "Trinken Sie genug, auch wenn Sie das Durstgefühl weniger spüren."
+            ],
+            "hu": [
+              "A meleg kesztyű és kamásli létfontosságú.",
+              "Az e-bike akkumulátorok gyorsabban merülnek hidegben.",
+              "Maradjon a takarított utakon, kerülje a jégfoltokat.",
+              "A szürkület az erdőben rendkívül gyorsan leszáll.",
+              "Igyon eleget, még ha kevésbé is érzi a szomjúságot."
+            ],
+            "ro": [
+              "Mănușile și husele de pantofi sunt esențiale.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Rămâneți pe drumurile curățate, feriți-vă de gheață.",
+              "Amurgul se lasă extrem de repede în pădure.",
+              "Beți destulă apă, chiar dacă nu simțiți setea așa tare."
+            ],
+            "en": [
+              "Warm gloves and shoe covers are vital.",
+              "E-bike batteries lose capacity faster in the cold.",
+              "Stay on cleared roads and avoid ice patches.",
+              "Dusk sets in extremely fast in the forest.",
+              "Drink enough water, even if you feel less thirsty."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1084,6 +1482,196 @@
           "Pay attention to speed limits, especially in residential areas.",
           "Plan extra time for unplanned stops at beautiful places."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Komfortable Fahrt durch das regnerische Peseux. Sie parken zentrumsnah und erkunden die Rue du Château mit dem Schirm. Mittags bietet die Fahrt zum Schloss eine trockene Überbrückung, wo Sie lange verweilen. Der Ausflug zum Wald von Neuchâtel bleibt im Auto trocken, bis Sie zu einem kurzen Spaziergang aufbrechen. Der Tag endet entspannt ohne nasse Füße.",
+            "hu": "Kényelmes autózás az esős Peseux-ben. A központban parkolva, esernyővel fedezheti fel a Rue du Château-t. Délben a kastélyhoz vezető út száraz átkötést jelent, ahol hosszan elidőzhet. A neuchâteli erdei kirándulás az autóban ülve száraz marad, amíg egy rövid sétára nem indul. A nap pihentetően, vizes lábak nélkül ér véget.",
+            "ro": "Călătorie confortabilă prin Peseux pe ploaie. Parcați aproape de centru și explorați Rue du Château cu umbrela. La prânz, drumul spre castel oferă o tranziție uscată, unde puteți zăbovi mult. Excursia spre pădurea Neuchâtel rămâne uscată în mașină până la scurta plimbare pe jos. Ziua se încheie relaxat, fără picioare ude.",
+            "en": "Comfortable drive through rainy Peseux. Park near the center and explore Rue du Château with an umbrella. At midday, the drive to the castle provides a dry transition, where you can linger. The trip to the Neuchâtel forest stays dry in the car until you head out for a short stroll. The day ends relaxed without wet feet."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Park in the Village Center",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz nah am Temple.",
+                "hu": "Keressen parkolót közel a Temple-höz.",
+                "ro": "Căutați parcare aproape de Templu.",
+                "en": "Find parking close to the Temple."
+              }
+            },
+            {
+              "name": "Rue du Château & Banneret Fountain",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zum Brunnen lohnt sich.",
+                "hu": "Megéri egy rövid sprint a szökőkúthoz.",
+                "ro": "Merită un sprint scurt până la fântână.",
+                "en": "A short sprint to the fountain is worth it."
+              }
+            },
+            {
+              "name": "Temple of Peseux",
+              "tip_5lang": {
+                "de": "Der Eingang bietet guten Regenschutz.",
+                "hu": "A bejárat jó védelmet nyújt az eső ellen.",
+                "ro": "Intrarea oferă protecție bună contra ploii.",
+                "en": "The entrance provides good rain protection."
+              }
+            },
+            {
+              "name": "Cluster 2: Drive to Peseux Castle",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Schlosseingang.",
+                "hu": "Parkoljon közvetlenül a kastély bejáratánál.",
+                "ro": "Parcați chiar la intrarea în castel.",
+                "en": "Park right at the castle entrance."
+              }
+            },
+            {
+              "name": "Panayotidis Foundation Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht aus dem Auto.",
+                "hu": "Élvezze a kilátást az autóból.",
+                "ro": "Bucurați-vă de priveliște din mașină.",
+                "en": "Enjoy the view from the car."
+              }
+            },
+            {
+              "name": "Cluster 3: Trip to the Neuchâtel Forest",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Waldparkplätzen.",
+                "hu": "Maradjon az aszfaltozott erdei parkolókban.",
+                "ro": "Rămâneți în parcările asfaltate din pădure.",
+                "en": "Stay in the paved forest parking areas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze direkt bei den Sehenswürdigkeiten.",
+              "Halten Sie einen Schirm griffbereit im Auto.",
+              "Die Sicht kann bei starkem Regen im Jura eingeschränkt sein.",
+              "Vermeiden Sie unbefestigte Waldparkplätze (Matschgefahr).",
+              "Die Bergstraßen können bei Nässe rutschig sein."
+            ],
+            "hu": [
+              "Használja a látnivalók melletti parkolókat.",
+              "Tartson egy esernyőt kéznél az autóban.",
+              "Erős esőben a látótávolság korlátozott lehet a Jurában.",
+              "Kerülje a nem aszfaltozott parkolókat (sárveszély).",
+              "A hegyi utak vizesen csúszósak lehetnek."
+            ],
+            "ro": [
+              "Folosiți parcările situate chiar lângă obiective.",
+              "Țineți o umbrelă la îndemână în mașină.",
+              "Vizibilitatea poate fi redusă în Jura pe ploaie torențială.",
+              "Evitați parcările de pământ din pădure (pericol de noroi).",
+              "Drumurile montane pot fi alunecoase când sunt ude."
+            ],
+            "en": [
+              "Use parking spots right next to the sights.",
+              "Keep an umbrella handy in the car.",
+              "Visibility can be limited in the Jura during heavy rain.",
+              "Avoid unpaved forest parking areas (mud risk).",
+              "Mountain roads can be slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Roadtrip durch das malerische Peseux. Das Auto ist Ihre warme Basis zwischen den Stopps im Dorfzentrum und dem Schloss. Mittags genießen Sie die historischen Hallen, bevor Sie zum Wald von Neuchâtel aufbrechen. Die verschneite Landschaft lässt sich sicher vom Fahrzeug aus bewundern. Der Tag endet gemütlich mit Blick auf den Sonnenuntergang über dem See.",
+            "hu": "Téli roadtrip a festői Peseux-ben. Az autó a meleg bázisa a falu központja és a kastély közötti megállók között. Délben élvezze a történelmi termeket, mielőtt a neuchâteli erdőbe indulna. A havas táj biztonságosan megcsodálható a járműből. A nap kellemesen ér véget a tó feletti naplemente látványával.",
+            "ro": "Roadtrip de iarnă prin pitorescul Peseux. Mașina este baza dumneavoastră caldă între opririle din centrul satului și castel. La prânz, vizitați sălile istorice înainte de a pleca spre pădurea Neuchâtel. Peisajul înzăpezit poate fi admirat în siguranță din vehicul. Ziua se încheie plăcut, cu priveliștea apusului peste lac.",
+            "en": "Winter road trip through picturesque Peseux. The car is your warm base between stops in the village center and the castle. At midday, enjoy the historic halls before heading to the Neuchâtel forest. The snowy landscape can be safely admired from the vehicle. The day ends pleasantly with a view of the sunset over the lake."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Park in the Village Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf geräumte Parkflächen.",
+                "hu": "Figyeljen a letakarított parkolóhelyekre.",
+                "ro": "Căutați locuri de parcare deszăpezite.",
+                "en": "Look for cleared parking spaces."
+              }
+            },
+            {
+              "name": "Rue du Château & Banneret Fountain",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für ein Winterfoto.",
+                "hu": "Rövid kiszállás egy téli fotóra.",
+                "ro": "Ieșire scurtă pentru o poză de iarnă.",
+                "en": "Short hop out for a winter photo."
+              }
+            },
+            {
+              "name": "Temple of Peseux",
+              "tip_5lang": {
+                "de": "Innen ist es angenehm temperiert.",
+                "hu": "Bent kellemes a hőmérséklet.",
+                "ro": "În interior este o temperatură plăcută.",
+                "en": "The temperature inside is pleasant."
+              }
+            },
+            {
+              "name": "Cluster 2: Drive to Peseux Castle",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schloss kann glatt sein.",
+                "hu": "A kastélyhoz vezető feljáró csúszós lehet.",
+                "ro": "Urcarea spre castel poate fi alunecoasă.",
+                "en": "The driveway to the castle can be slippery."
+              }
+            },
+            {
+              "name": "Panayotidis Foundation Park",
+              "tip_5lang": {
+                "de": "Besuch bei Tageslicht einplanen.",
+                "hu": "Tervezze a látogatást nappali fényben.",
+                "ro": "Planificați vizita pe lumină naturală.",
+                "en": "Plan the visit during daylight hours."
+              }
+            },
+            {
+              "name": "Cluster 3: Trip to the Neuchâtel Forest",
+              "tip_5lang": {
+                "de": "Winterreifen sind hier absolut notwendig.",
+                "hu": "Itt a téli gumi elengedhetetlen.",
+                "ro": "Anvelopele de iarnă sunt obligatorii aici.",
+                "en": "Winter tires are absolutely necessary here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Frostschutzmittel aufgefüllt ist.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche ein (Schneehaufen).",
+              "Die Straßen im Jura werden gut geräumt, Vorsicht bleibt geboten.",
+              "Lassen Sie den Motor nicht im Stand warmlaufen.",
+              "Nehmen Sie eine warme Decke für Notfälle mit."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyálló folyadék szintjét.",
+              "Hagyjon több időt a parkolásra a hóbuckák miatt.",
+              "A Jura útjait jól takarítják, de óvatosság szükséges.",
+              "Ne járassa álló helyzetben a motort melegítéshez.",
+              "Vigyen magával meleg takarót vészhelyzet esetére."
+            ],
+            "ro": [
+              "Asigurați-vă că aveți suficient lichid antigel.",
+              "Planificați mai mult timp pentru parcare din cauza zăpezii.",
+              "Drumurile din Jura sunt bine deszăpezite, dar fiți prudenți.",
+              "Nu lăsați motorul pornit pe loc pentru încălzire.",
+              "Luați o pătură caldă în mașină pentru urgențe."
+            ],
+            "en": [
+              "Ensure your anti-freeze levels are topped up.",
+              "Allow extra time for parking due to snow piles.",
+              "Jura roads are well-cleared, but caution is advised.",
+              "Do not leave the engine idling to warm up.",
+              "Carry a warm blanket in the car for emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1439,6 +2027,196 @@
           "Be aware of the last bus connection back.",
           "Ask the bus driver if you are unsure where to get off."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus trocken durch Peseux. Sie erreichen das Dorfzentrum bequem und nutzen die kurzen Wege zwischen den Sehenswürdigkeiten. Der Temple bietet Schutz vor Schauern. Mittags bringt Sie der Bus nah ans Schloss, wo Sie das Interieur erkunden. Der Nachmittag im Panayotidis Park ist bei Regen kurz, aber der Transit zurück ins Zentrum ist verlässlich und warm.",
+            "hu": "Busszal szárazon Peseux-n keresztül. Kényelmesen eléri a falu központját, kihasználva a látnivalók közötti rövid távolságokat. A Temple menedéket nyújt a záporok elől. Délben a busz a kastély közelében teszi le, ahol felfedezheti a belső tereket. A Panayotidis parki délután esőben rövid, de a visszajutás a központba megbízható és meleg.",
+            "ro": "Cu autobuzul prin Peseux, feriți de ploaie. Ajungeți confortabil în centrul satului și profitați de distanțele scurte între obiective. Templul oferă adăpost contra ploii. La prânz, autobuzul vă lasă aproape de castel pentru vizita interioară. După-amiaza în parcul Panayotidis este scurtă pe ploaie, dar transportul înapoi spre centru este sigur și cald.",
+            "en": "By bus dry through Peseux. Reach the village center comfortably and use the short distances between sights. The Temple provides shelter from showers. At midday, the bus drops you near the castle where you can explore the interior. The afternoon in Panayotidis Park is short in the rain, but the transit back to the center is reliable and warm."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrive in the Village Center",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Wartehäuschen.",
+                "hu": "Várjon a buszmegálló fedele alatt.",
+                "ro": "Așteptați sub copertina stației.",
+                "en": "Wait under the bus shelter."
+              }
+            },
+            {
+              "name": "Rue du Château & Fountain",
+              "tip_5lang": {
+                "de": "Ein Regenschirm ist für diesen kurzen Weg nötig.",
+                "hu": "Esernyő szükséges ehhez a rövid úthoz.",
+                "ro": "E nevoie de umbrelă pentru acest drum scurt.",
+                "en": "An umbrella is needed for this short walk."
+              }
+            },
+            {
+              "name": "Temple of Peseux",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Temple als trockenen Treffpunkt.",
+                "hu": "Használja a Temple-t száraz találkozóhelyként.",
+                "ro": "Folosiți Templul ca punct de întâlnire uscat.",
+                "en": "Use the Temple as a dry meeting point."
+              }
+            },
+            {
+              "name": "Cluster 2: Bus ride to the Castle area",
+              "tip_5lang": {
+                "de": "Fahrscheine bequem per App kaufen.",
+                "hu": "Vásároljon jegyet kényelmesen az appban.",
+                "ro": "Cumpărați bilete ușor prin aplicație.",
+                "en": "Buy tickets conveniently via the app."
+              }
+            },
+            {
+              "name": "Peseux Castle",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg von der Haltestelle.",
+                "hu": "Csak 2 perc séta a megállótól.",
+                "ro": "Doar 2 minute de mers de la stație.",
+                "en": "Only a 2-minute walk from the stop."
+              }
+            },
+            {
+              "name": "Panayotidis Foundation Park",
+              "tip_5lang": {
+                "de": "Checken Sie die Abfahrtszeiten vorab.",
+                "hu": "Indulás előtt ellenőrizze a menetrendet.",
+                "ro": "Verificați orarul înainte de plecare.",
+                "en": "Check departure times in advance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse in der Region Neuchâtel sind sehr pünktlich.",
+              "Viele Haltestellen im Zentrum sind überdacht.",
+              "Nutzen Sie die App 'TransN' für Echtzeit-Infos.",
+              "Vermeiden Sie das Warten im Freien bei starkem Wind.",
+              "Ein Tagespass ist oft günstiger als Einzeltickets."
+            ],
+            "hu": [
+              "A neuchâteli régió buszai nagyon pontosak.",
+              "A központban sok megálló fedett.",
+              "Használja a 'TransN' appot a valós idejű infókért.",
+              "Erős szélben kerülje a szabadban való várakozást.",
+              "A napijegy gyakran olcsóbb, mint a vonaljegy."
+            ],
+            "ro": [
+              "Autobuzele din regiunea Neuchâtel sunt foarte punctuale.",
+              "Multe stații din centru sunt acoperite.",
+              "Folosiți aplicația „TransN” pentru informații în timp real.",
+              "Evitați așteptarea în aer liber pe vânt puternic.",
+              "Un abonament de o zi este adesea mai ieftin decât biletele simple."
+            ],
+            "en": [
+              "Buses in the Neuchâtel region are very punctual.",
+              "Many stops in the center are covered.",
+              "Use the 'TransN' app for real-time info.",
+              "Avoid waiting outdoors during strong winds.",
+              "A day pass is often cheaper than single tickets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Transit durch das ruhige Peseux. Die beheizten Busse machen den Wechsel zwischen dem Dorfzentrum und dem Schloss angenehm. Im Temple finden Sie einen Moment der Stille. Mittags wärmen Sie sich im Schloss auf, bevor es zum Panayotidis Park geht. Da es früh dunkel wird, nutzen Sie den effizienten Abendtransit zurück zur Unterkunft. Ein stressfreier Wintertag.",
+            "hu": "Téli tömegközlekedés a nyugodt Peseux-ben. A fűtött buszok kellemessé teszik a váltást a falu központja és a kastély között. A Temple-ben egy pillanatnyi csendre lelhet. Délben a kastélyban melegedhet fel, mielőtt a Panayotidis parkba indulna. Mivel korán sötétedik, használja az hatékony esti járatokat a szállásig. Stresszmentes téli nap.",
+            "ro": "Transport public de iarnă prin liniștitul Peseux. Autobuzele încălzite fac plăcută trecerea între centrul satului și castel. În Templu găsiți un moment de liniște. La prânz, vă încălziți în castel înainte de a merge spre parcul Panayotidis. Deoarece se întunecă devreme, folosiți transportul eficient de seară înapoi spre cazare. O zi de iarnă fără stres.",
+            "en": "Winter transit through quiet Peseux. The heated buses make switching between the village center and the castle pleasant. Find a moment of silence in the Temple. At midday, warm up in the castle before heading to Panayotidis Park. Since it gets dark early, use the efficient evening transit back to your accommodation. A stress-free winter day."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrive in the Village Center",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Bus, bis die Türen öffnen.",
+                "hu": "Maradjon a buszon, amíg ki nem nyílnak az ajtók.",
+                "ro": "Rămâneți în autobuz până se deschid ușile.",
+                "en": "Stay on the bus until the doors open."
+              }
+            },
+            {
+              "name": "Rue du Château & Fountain",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte beim Aussteigen.",
+                "hu": "Vigyázzon a csúszós felületekre leszálláskor.",
+                "ro": "Atenție la polei când coborâți.",
+                "en": "Watch for ice when stepping off."
+              }
+            },
+            {
+              "name": "Temple of Peseux",
+              "tip_5lang": {
+                "de": "Kurzer Weg durch die kalte Winterluft.",
+                "hu": "Rövid séta a hideg téli levegőben.",
+                "ro": "Drum scurt prin aerul rece de iarnă.",
+                "en": "Short walk through the cold winter air."
+              }
+            },
+            {
+              "name": "Cluster 2: Bus ride to the Castle area",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Fahrzeug.",
+                "hu": "Élvezze a meleget a járműben.",
+                "ro": "Bucurați-vă de căldura din vehicul.",
+                "en": "Enjoy the warmth inside the vehicle."
+              }
+            },
+            {
+              "name": "Peseux Castle",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt davor.",
+                "hu": "A busz szinte közvetlenül előtte áll meg.",
+                "ro": "Autobuzul oprește aproape chiar în față.",
+                "en": "The bus stops almost directly in front."
+              }
+            },
+            {
+              "name": "Panayotidis Foundation Park",
+              "tip_5lang": {
+                "de": "Letzter Bus vor der Dunkelheit ist ideal.",
+                "hu": "Az utolsó járat sötétedés előtt az ideális.",
+                "ro": "Ultimul autobuz înainte de întuneric e ideal.",
+                "en": "The last bus before dark is ideal."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft die sicherste Wahl.",
+              "Nutzen Sie die beheizten Wartebereiche am Bahnhof.",
+              "Die Fahrpläne können bei extremem Schneefall leicht variieren.",
+              "Tragen Sie Schuhe mit gutem Profil für den Weg zur Haltestelle.",
+              "Abends ist die Beleuchtung an den Haltestellen sehr gut."
+            ],
+            "hu": [
+              "Télen gyakran a busz a legbiztonságosabb választás.",
+              "Használja az állomás fűtött várótermeit.",
+              "Extrém hóesésben a menetrend kissé módosulhat.",
+              "Viseljen jó tapadású cipőt a megállóig vezető úton.",
+              "Este a megállók világítása nagyon jó."
+            ],
+            "ro": [
+              "Autobuzul este adesea cea mai sigură alegere iarna.",
+              "Folosiți sălile de așteptare încălzite din gară.",
+              "Orarele pot varia ușor în caz de ninsoare abundentă.",
+              "Purtați pantofi cu talpă aderentă pentru drumul spre stație.",
+              "Seara, iluminatul în stații este foarte bun."
+            ],
+            "en": [
+              "Buses are often the safest choice in winter.",
+              "Use the heated waiting areas at the station.",
+              "Schedules may vary slightly during extreme snowfall.",
+              "Wear shoes with good grip for the walk to the stop.",
+              "In the evening, the lighting at the stops is very good."
+            ]
+          }
+        }
       }
     }
   }

@@ -323,6 +323,214 @@
           "Most central sights are within easy walking distance.",
           "Bring a reusable water bottle."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Námestie slobody, wo die historischen Gebäude im Regen glänzen. Nutzen Sie die Arkaden für kurze Pausen. Mittags bieten die massiven Mauern der St.-Bartholomäus-Kirche einen trockenen Rückzugsort. Nachmittags ist das Museum von Ober-Nitra der perfekte Ort, um der Nässe zu entfliehen und tief in die Regionalgeschichte einzutauchen. Der Abend klingt gemütlich in einem Café nahe der Piaristenkirche aus.",
+            "hu": "Kezdje a napot a Szabadság téren, ahol az esőben megcsillanó macskakövek különleges hangulatot árasztanak. Délben a Szent Bertalan-templom hűvös és száraz belső tere nyújt menedéket. A délutánt töltse a Felső-Nyitrai Múzeumban, ahol az értékes tárlatok között észre sem veszi majd a kinti zuhogást. Az estét zárja egy forró ital mellett a belváros egyik hangulatos vendéglőjében.",
+            "ro": "Începeți ziua în Piața Libertății, unde clădirile istorice capătă un luciu aparte sub ploaie. La prânz, biserica Sf. Bartolomeu oferă un refugiu spiritual și uscat. După-amiaza este rezervată Muzeului Nitrei Superioare, locul ideal pentru a explora istoria locală fără a vă uda. Seara se încheie perfect într-o cafenea primitoare din centrul vechi, ascultând ropotul ploii la geam.",
+            "en": "Start your day at Freedom Square, where the historic facades shine under the rain. Use the nearby arcades for cover. At noon, the thick walls of St. Bartholomew's Church provide a dry sanctuary. Spend your afternoon at the Museum of Upper Nitra, the perfect indoor escape to dive into regional history. End the evening in a cozy café near the Piarist Church, enjoying the rhythmic sound of rain."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square (Námestie slobody)",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Vordächern der umliegenden Geschäfte.",
+                "hu": "Használja ki az üzletek előtti fedett részeket a nézelődéshez.",
+                "ro": "Căutați adăpost sub copertinele magazinelor din jur.",
+                "en": "Look for shelter under the awnings of the surrounding shops."
+              }
+            },
+            {
+              "name": "Marian Column",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, die Steine können bei Nässe rutschig sein.",
+                "hu": "Gyors fotómegálló, a nedves kövek csúszósak lehetnek.",
+                "ro": "Oprire scurtă pentru poze, pietrele pot fi alunecoase când sunt ude.",
+                "en": "Quick photo stop, the stones can be slippery when wet."
+              }
+            },
+            {
+              "name": "Burgher Houses of the Old Town",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Details der Fassaden aus sicherer Entfernung unter dem Regenschirm.",
+                "hu": "Az esernyő alól is jól látszanak a homlokzatok díszes részletei.",
+                "ro": "Admirați detaliile fațadelor de sub umbrelă, de la o distanță sigură.",
+                "en": "Admire the facade details from under your umbrella at a safe distance."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine längere, trockene Besichtigungspause.",
+                "hu": "Ideális helyszín egy hosszabb, száraz pihenőhöz a városnézés közben.",
+                "ro": "Un loc ideal pentru o pauză de vizitare prelungită și uscată.",
+                "en": "An ideal place for a longer, dry sightseeing break."
+              }
+            },
+            {
+              "name": "Piarist Church of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Das prächtige Innere lässt Sie das schlechte Wetter draußen vergessen.",
+                "hu": "A pompás belső tér feledteti a kinti borús időt.",
+                "ro": "Interiorul splendid vă va face să uitați de vremea rea de afară.",
+                "en": "The magnificent interior will make you forget the bad weather outside."
+              }
+            },
+            {
+              "name": "Museum of Upper Nitra",
+              "tip_5lang": {
+                "de": "Perfekter Zufluchtsort; planen Sie hier ruhig mehr Zeit ein.",
+                "hu": "Tökéletes menedék; tervezzen ide bátran több időt.",
+                "ro": "Refugiul perfect; puteți planifica mai mult timp aici.",
+                "en": "The perfect refuge; feel free to plan more time here."
+              }
+            },
+            {
+              "name": "Church of the Assumption of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Der Weg zum Friedhofshügel kann bei Regen etwas matschig sein.",
+                "hu": "A temetődombra vezető út esőben sáros lehet, óvatosan haladjon.",
+                "ro": "Drumul spre dealul cimitirului poate fi noroios pe ploaie.",
+                "en": "The path to the cemetery hill can be muddy in the rain, walk carefully."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster Pfützen bildet.",
+              "Der Wind in Prievidza kann Regenschirme umknicken; ein Regenponcho ist oft stabiler.",
+              "Nutzen Sie die Kirchenbesichtigungen, um Ihre Kleidung zu trocknen.",
+              "Viele Cafés rund um den Hauptplatz bieten Regenschirmständer an.",
+              "Die Gehwege in der Altstadt können bei Nässe extrem rutschig werden."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskakövön könnyen megáll a víz.",
+              "A szeles időben az esernyő helyett néha praktikusabb egy esőkabát.",
+              "Használja ki a templomlátogatásokat a ruházat megszárítására.",
+              "A főtéri kávézókban általában van esernyőtartó a bejáratnál.",
+              "Az óváros járdái nedvesen rendkívül csúszósak lehetnek."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul poate reține apa în bălți.",
+              "Vântul din Prievidza poate rupe umbrelele; o pelerină e adesea mai sigură.",
+              "Folosiți vizitele la biserici pentru a vă mai usca hainele.",
+              "Multe cafenele din jurul pieței centrale oferă suporturi pentru umbrele.",
+              "Trotuarele din orașul vechi pot deveni extrem de alunecoase când sunt ude."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones can form small puddles.",
+              "Prievidza's wind can flip umbrellas; a rain poncho is often a sturdier choice.",
+              "Use church visits as an opportunity to dry off your gear.",
+              "Most cafés around the main square provide umbrella stands at the entrance.",
+              "Sidewalks in the old town area can become extremely slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Prievidza im Winterglanz. Der Morgen am Námestie slobody ist frostig, aber die klare Luft belebt. Suchen Sie mittags die Wärme in der St.-Bartholomäus-Kirche. Der Nachmittag gehört der Kultur im beheizten Museum von Ober-Nitra, während draußen früh die Dämmerung einsetzt. Beenden Sie den Tag bei einem wärmenden Getränk, wenn die Stadtbeleuchtung die barocken Fassaden in ein sanftes Licht taucht.",
+            "hu": "Fedezze fel Prievidza téli arcát. A fagyos reggel a Szabadság téren frissítően hat, de érdemes rétegesen öltözni. Délben a templomok vastag falai között keressen békét. A délutánt töltse a jól fűtött Felső-Nyitrai Múzeumban, miközben odakint korán sötétedik. Az estét zárja forró teával vagy punccsal, miközben a városi fények megvilágítják a barokk épületeket.",
+            "ro": "Experimentați Prievidza în haine de iarnă. Dimineața în Piața Libertății este geroasă, dar aerul curat este revigorant. La prânz, căutați liniștea în interiorul bisericii Sf. Bartolomeu. După-amiaza este dedicată culturii în Muzeul încălzit al Nitrei Superioare, în timp ce afară se înserează rapid. Încheiați ziua cu o băutură caldă sub luminile stradale ce scaldă fațadele baroce.",
+            "en": "Experience Prievidza in its winter glow. The frosty morning at Freedom Square is crisp and invigorating. At noon, seek peace and a bit of shelter in St. Bartholomew's Church. Spend your afternoon exploring the heated Museum of Upper Nitra as the sun sets early. End your day with a warm drink while the city lights illuminate the baroque facades with a soft, wintry touch."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square (Námestie slobody)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Winterdekoration bei einem heißen Tee aus der Thermoskanne.",
+                "hu": "Élvezze a téli díszítést egy termosznyi forró teával a kezében.",
+                "ro": "Bucurați-vă de decorațiunile de iarnă cu un ceai cald la termos.",
+                "en": "Enjoy the winter decorations with a hot tea from your thermos."
+              }
+            },
+            {
+              "name": "Marian Column",
+              "tip_5lang": {
+                "de": "Achtung bei Eisglätte rund um das Denkmal.",
+                "hu": "Vigyázzon, az emlékmű környéke jeges és csúszós lehet.",
+                "ro": "Atenție la polei în jurul monumentului.",
+                "en": "Watch out for ice patches around the monument."
+              }
+            },
+            {
+              "name": "Burgher Houses of the Old Town",
+              "tip_5lang": {
+                "de": "Die farbigen Fassaden wirken im Kontrast zum Schnee besonders schön.",
+                "hu": "A színes homlokzatok különösen szépek a fehér hóval kontrasztban.",
+                "ro": "Fațadele colorate arată spectaculos în contrast cu zăpada.",
+                "en": "The colorful facades look particularly beautiful in contrast with the snow."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Die Kirche ist nicht beheizt; behalten Sie Ihren Mantel an.",
+                "hu": "A templom nincs fűtve, ne vegye le a kabátját odabent.",
+                "ro": "Biserica nu este încălzită; păstrați-vă haina pe dvs.",
+                "en": "The church is not heated; keep your coat on during the visit."
+              }
+            },
+            {
+              "name": "Piarist Church of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die barocke Pracht im Winterlicht zu sehen.",
+                "hu": "Gyors látogatás a barokk pompa megcsodálására a téli fényekben.",
+                "ro": "Oprire scurtă pentru a admira splendoarea barocă în lumina iernii.",
+                "en": "Short stop to admire the baroque splendor in the winter light."
+              }
+            },
+            {
+              "name": "Museum of Upper Nitra",
+              "tip_5lang": {
+                "de": "Der ideale Ort, um sich für zwei Stunden richtig aufzuwärmen.",
+                "hu": "Ideális helyszín, hogy két órára teljesen átmelegedjen.",
+                "ro": "Locul ideal pentru a vă încălzi bine timp de două ore.",
+                "en": "The ideal place to warm up thoroughly for two hours."
+              }
+            },
+            {
+              "name": "Church of the Assumption of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Frühzeitiger Aufstieg empfohlen, da es gegen 16:30 Uhr dunkel wird.",
+                "hu": "Érdemes korán felmenni, mert 16:30 körül már sötétedik.",
+                "ro": "Urcare recomandată devreme, deoarece se întunecă în jurul orei 16:30.",
+                "en": "Recommended early ascent as it gets dark around 16:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche; die Luftfeuchtigkeit lässt die Kälte beißen.",
+              "Die Sonne geht im Dezember bereits vor 16:00 Uhr unter.",
+              "Achten Sie auf Dachlawinen an den alten Bürgerhäusern.",
+              "Kirchen sind oft kälter als die Außenluft; Mütze aufbehalten.",
+              "Warme Getränke finden Sie in den Konditoreien am Hauptplatz."
+            ],
+            "hu": [
+              "Viseljen termaruházatot, a páratartalom miatt a hideg metszőbbnek tűnik.",
+              "Decemberben már délután 4 előtt lemegy a nap.",
+              "Vigyázzon a tetőkről lecsúszó hóra az óvárosi házaknál.",
+              "A templomok gyakran hidegebbek, mint a kinti levegő; viseljen sapkát.",
+              "Forró italokat a főtéri cukrászdákban és kávézókban talál."
+            ],
+            "ro": [
+              "Purtați lenjerie termică; umiditatea face ca frigul să fie mai tăios.",
+              "Soarele apune deja înainte de ora 16:00 în luna decembrie.",
+              "Atenție la zăpada care poate cădea de pe acoperișurile caselor vechi.",
+              "Bisericile sunt adesea mai reci decât aerul de afară; păstrați căciula.",
+              "Găsiți băuturi calde în cofetăriile din piața centrală."
+            ],
+            "en": [
+              "Wear thermal layers; the humidity makes the cold feel sharper.",
+              "The sun sets as early as 16:00 in December.",
+              "Watch out for snow sliding off the roofs of old town houses.",
+              "Churches are often colder than the outside air; keep your hat on.",
+              "Warm drinks can be found in the pastry shops and cafés on the main square."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -621,6 +829,196 @@
           "Watch out for pedestrians in the low-traffic zones.",
           "A helmet is strongly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert die richtige Ausrüstung. Starten Sie vorsichtig am Námestie slobody. Die Fahrt zur Marienkirche am Stadtrand führt über nasse Straßen; achten Sie auf den Bremsweg. Mittags bietet das Museum einen langen, trockenen Aufenthalt, während Ihre Ausrüstung trocknen kann. Der Tag endet mit einer kurzen Fahrt zurück ins Zentrum, wo Sie sich in einem warmen Lokal belohnen können.",
+            "hu": "Az esős bringázáshoz elengedhetetlen a jó felszerelés. Kezdjen óvatosan a Szabadság téren. A város szélén lévő Mária-templomhoz vezető út vizes lehet, ügyeljen a féktávra. Délben a múzeum hosszú, száraz pihenőt kínál, ahol a felszerelése is megszáradhat. A napot egy rövid visszaúttal zárja a központba, ahol egy meleg étellel jutalmazhatja meg magát.",
+            "ro": "O tură cu bicicleta pe ploaie necesită echipament adecvat. Începeți cu prudență din Piața Libertății. Drumul spre Biserica Adormirii Maicii Domnului de la periferie trece pe străzi ude; atenție la distanța de frânare. La prânz, muzeul oferă o ședere lungă și uscată, timp în care echipamentul se poate usca. Ziua se încheie cu o scurtă revenire în centru.",
+            "en": "Cycling in the rain requires proper gear. Start cautiously at Freedom Square. The ride to the Church of the Assumption on the outskirts follows wet roads; mind your braking distance. At noon, the museum provides a long, dry stay while your gear can dry off. End your day with a short ride back to the center, rewarding yourself in a warm local eatery."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square (Námestie slobody)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon az elinduláskor a vizes macskakövön.",
+                "ro": "Atenție la plecarea de pe loc pe pavajul ud.",
+                "en": "Be careful when starting off on wet cobblestones."
+              }
+            },
+            {
+              "name": "Burgher Houses and Marian Column",
+              "tip_5lang": {
+                "de": "Fahrrad sicher und unter einem Vordach abstellen.",
+                "hu": "Próbálja fedett helyen leparkolni a kerékpárt.",
+                "ro": "Parcați bicicleta într-un loc ferit, dacă e posibil.",
+                "en": "Try to park your bike under a cover if possible."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Kette kurz abzuwischen.",
+                "hu": "Használja ki a megállót a lánc gyors áttörlésére.",
+                "ro": "Folosiți oprirea pentru a șterge scurt lanțul.",
+                "en": "Use the stop to quickly wipe down your chain."
+              }
+            },
+            {
+              "name": "Church of the Assumption of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Achtung bei der Abfahrt vom Hügel; Bremsen vorher prüfen.",
+                "hu": "Vigyázzon a dombról lefelé menet, ellenőrizze a fékeket.",
+                "ro": "Atenție la coborârea de pe deal; verificați frânele.",
+                "en": "Be careful on the descent from the hill; check your brakes."
+              }
+            },
+            {
+              "name": "Museum of Upper Nitra",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Platz für nasse Regenbekleidung.",
+                "hu": "Kérdezze meg, hol hagyhatja a vizes esőruházatát.",
+                "ro": "Întrebați unde puteți lăsa pelerina de ploaie udă.",
+                "en": "Ask where you can leave your wet rain gear."
+              }
+            },
+            {
+              "name": "Piarist Church of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Letzter Stopp, bevor es zur Trocknung ins Hotel/Haus geht.",
+                "hu": "Utolsó megálló, mielőtt megszárítaná magát otthon.",
+                "ro": "Ultima oprire înainte de a merge la uscat echipamentul.",
+                "en": "Final stop before heading back to dry off."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter in Prievidza ein Muss.",
+              "Vermeiden Sie abrupte Bremsmanöver auf markierten Straßenstellen.",
+              "Tragen Sie eine Brille, um Regen aus den Augen zu halten.",
+              "Wischen Sie die Felgen nach der Tour trocken, um Korrosion zu vermeiden.",
+              "Planen Sie mehr Zeit für die Wege ein, da Sie langsamer fahren sollten."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyenkor Prievidza utcáin.",
+              "Kerülje a hirtelen fékezést a felfestett útburkolati jeleken.",
+              "Viseljen szemüveget, hogy az eső ne menjen a szemébe.",
+              "A túra után törölje szárazra a felniket a korrózió elkerülése érdekében.",
+              "Tervezzen több időt az utakra, mert lassabb tempó javasolt."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt obligatorii pe această vreme.",
+              "Evitați frânările bruște pe marcajele rutiere ude.",
+              "Purtați ochelari pentru a proteja ochii de stropii de ploaie.",
+              "Ștergeți jantele după tură pentru a preveni coroziunea.",
+              "Planificați mai mult timp pentru deplasare, mergeți mai încet."
+            ],
+            "en": [
+              "Mudguards are a must-have in this weather in Prievidza.",
+              "Avoid sudden braking on painted road markings.",
+              "Wear cycling glasses to keep rain out of your eyes.",
+              "Wipe your rims dry after the tour to prevent corrosion.",
+              "Plan more time for travel as you should maintain a slower pace."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterradeln in Prievidza ist etwas für Abenteurer. Starten Sie eingepackt am Námestie slobody. Die Route führt Sie zur Marienkirche, wobei Sie besonders auf eisige Stellen im Schatten achten müssen. Mittags bietet das Museum eine willkommene Aufwärmpause. Beenden Sie Ihre Tour frühzeitig vor Einbruch der Dunkelheit und genießen Sie die klare Winterluft, bevor Sie sich in die Wärme zurückziehen.",
+            "hu": "A téli bringázás Prievidzában az igazi kalandoroknak való. Rétegesen öltözve induljon a Szabadság térről. Az út a Mária-templomhoz vezet, ahol különösen figyeljen az árnyékos részeken megbújó jégre. Délben a múzeum fűtött terei nyújtanak menedéket. Fejezze be a túrát még sötétedés előtt, és élvezze a friss téli levegőt, mielőtt a melegbe vonulna.",
+            "ro": "Ciclismul de iarnă în Prievidza este pentru aventurieri. Porniți bine înfofoliți din Piața Libertății. Traseul vă duce spre Biserica Adormirii, unde trebuie să fiți atenți la gheața din zonele umbrite. La prânz, muzeul oferă o pauză de încălzire binevenită. Încheiați tura înainte de lăsarea întunericului și bucurați-vă de aerul curat de iarnă.",
+            "en": "Winter cycling in Prievidza is for the adventurous. Start bundled up at Freedom Square. The route takes you to the Church of the Assumption, where you must be extra careful of icy patches in shaded areas. At noon, the museum offers a welcome warming break. Finish your tour early before dark and enjoy the crisp winter air before retreating to the warmth."
+          },
+          "stops": [
+            {
+              "name": "Freedom Square (Námestie slobody)",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Pfützen auf dem Platz.",
+                "hu": "Vigyázzon a téren megbújó fagyott tócsákkal.",
+                "ro": "Atenție la bălțile înghețate din piață.",
+                "en": "Watch out for frozen puddles on the square."
+              }
+            },
+            {
+              "name": "Burgher Houses and Marian Column",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; halten Sie die Muskeln durch Bewegung warm.",
+                "hu": "Rövid megálló; tartsa melegen az izmait mozgással.",
+                "ro": "Oprire scurtă; mențineți mușchii calzi prin mișcare.",
+                "en": "Short stop; keep your muscles warm by moving around."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob Ihre Bremsen bei Kälte einwandfrei funktionieren.",
+                "hu": "Ellenőrizze, hogy a fékek hidegben is jól fognak-e.",
+                "ro": "Verificați dacă frânele funcționează corect la frig.",
+                "en": "Check if your brakes are functioning correctly in the cold."
+              }
+            },
+            {
+              "name": "Church of the Assumption of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Der Anstieg hilft beim Aufwärmen, oben weht oft kalter Wind.",
+                "hu": "Az emelkedő segít bemelegedni, de fent gyakran fúj a hideg szél.",
+                "ro": "Urcarea vă va încălzi, dar sus bate adesea vântul rece.",
+                "en": "The climb will help you warm up, but it's often windy at the top."
+              }
+            },
+            {
+              "name": "Museum of Upper Nitra",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre schwere Winterausrüstung.",
+                "hu": "Használja a ruhatárat a nehéz téli felszerelésének.",
+                "ro": "Folosiți garderoba pentru echipamentul greu de iarnă.",
+                "en": "Use the cloakroom for your heavy winter gear."
+              }
+            },
+            {
+              "name": "Piarist Church of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Letztes Ziel, achten Sie auf Streusalz an Ihrem Fahrrad.",
+                "hu": "Utolsó célpont, figyeljen az útszóró sóra a biciklin.",
+                "ro": "Ultima destinație, atenție la sarea de pe drum pe bicicletă.",
+                "en": "Final destination, watch out for road salt on your bike."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe, die Wind und Kälte abhalten.",
+              "Der Reifendruck sollte im Winter etwas niedriger sein für mehr Grip.",
+              "Stirnlampe oder gute Fahrradbeleuchtung ist ab 15:30 Uhr Pflicht.",
+              "Achten Sie auf gefrorenes Laub auf den Radwegen.",
+              "Reinigen Sie Ihr Rad nach der Tour vom aggressiven Streusalz."
+            ],
+            "hu": [
+              "Viseljen szél- és hidegálló kesztyűt.",
+              "Télen érdemes kicsit lejjebb engedni a guminyomást a jobb tapadásért.",
+              "15:30 után már kötelező a jó minőségű világítás.",
+              "Vigyázzon a kerékpárutakon maradt fagyott levelekre.",
+              "A túra után tisztítsa meg a biciklit az agresszív útszóró sótól."
+            ],
+            "ro": [
+              "Purtați mănuși care protejează de vânt și frig.",
+              "Presiunea în pneuri ar trebui să fie puțin mai mică pentru aderență.",
+              "Lumina bună la bicicletă este obligatorie după ora 15:30.",
+              "Atenție la frunzele înghețate de pe pistele de biciclete.",
+              "Curățați bicicleta de sarea de pe drum după fiecare tură."
+            ],
+            "en": [
+              "Wear gloves that block both wind and cold.",
+              "Lower your tire pressure slightly for better grip on winter surfaces.",
+              "Good bike lights are mandatory from 15:30 onwards.",
+              "Be careful of frozen leaves on the bike paths.",
+              "Clean your bike after the tour to remove aggressive road salt."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -909,6 +1307,214 @@
           "Parking fees may apply, have some change ready.",
           "Allow enough time for traffic between Bojnice and Prievidza."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen ist kein Hindernis für einen Besuch im nahegelegenen Bojnice. Starten Sie trocken im Auto zum Schloss Bojnice, das im Inneren seine volle Pracht entfaltet. Auch der Zoo bietet überdachte Pavillons. Mittags genießen Sie ein gemütliches Essen in Bojnice, bevor Sie zurück nach Prievidza fahren. Besuchen Sie dort die Kirchen und das Museum, wobei Sie die kurzen Wege zwischen den Parkplätzen und Sehenswürdigkeiten nutzen.",
+            "hu": "Az eső nem akadály egy Bojnice-i kiruccanáshoz. Kezdje a napot a Bajmóci várkastélyban, amely belülről is lenyűgöző. Az állatkertben is több fedett pavilon várja. Délben ebédeljen Bajmócon, majd térjen vissza Prievidzába. Itt látogassa meg a templomokat és a múzeumot, kihasználva a parkolók és a látnivalók közötti rövid távolságokat.",
+            "ro": "Ploaia nu este un obstacol pentru o vizită în Bojnice. Începeți ziua la Castelul Bojnice, care este superb în interior. Grădina zoologică are și ea pavilioane acoperite. Luați prânzul în Bojnice, apoi reveniți în Prievidza. Vizitați bisericile și muzeul de aici, profitând de distanțele scurte între parcări și obiective.",
+            "en": "Rain is no obstacle for a visit to nearby Bojnice. Start your dry drive to Bojnice Castle, which reveals its full splendor indoors. The zoo also offers several indoor pavilions. Enjoy a cozy lunch in Bojnice before driving back to Prievidza. There, visit the churches and the museum, taking advantage of the short walks between parking spots and sights."
+          },
+          "stops": [
+            {
+              "name": "Bojnice Castle (Zámok Bojnice)",
+              "tip_5lang": {
+                "de": "Ideal bei Regen; die Führungen finden komplett im Inneren statt.",
+                "hu": "Ideális esőben, a tárlatvezetés teljesen fedett helyen zajlik.",
+                "ro": "Ideal pe ploaie; tururile ghidate au loc în interior.",
+                "en": "Ideal for rainy days; guided tours are entirely indoors."
+              }
+            },
+            {
+              "name": "Bojnice Zoo",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Affen- und Elefantenpavillons, um trocken zu bleiben.",
+                "hu": "Keresse fel a majomházat és az elefántcsarnokot, ott szárazon maradhat.",
+                "ro": "Vizitați pavilioanele maimuțelor și elefanților pentru a rămâne uscați.",
+                "en": "Visit the primate and elephant pavilions to stay dry."
+              }
+            },
+            {
+              "name": "Lunch in Bojnice",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch in der Nähe des Schlossparkplatzes.",
+                "hu": "Foglaljon asztalt a várparkoló közelében a kényelem érdekében.",
+                "ro": "Rezervați o masă aproape de parcarea castelului.",
+                "en": "Book a table near the castle parking lot for convenience."
+              }
+            },
+            {
+              "name": "Freedom Square (Park & Walk)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze direkt am Platz für minimale Wege im Regen.",
+                "hu": "Parkoljon közvetlenül a tér mellett, hogy keveset kelljen áznia.",
+                "ro": "Folosiți parcările de lângă piață pentru drumuri minime prin ploaie.",
+                "en": "Use the parking spots right by the square to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zum Eingang lohnt sich.",
+                "hu": "Egy rövid sprint az autótól a bejáratig, és már bent is van.",
+                "ro": "Un scurt sprint de la mașină până la intrare merită efortul.",
+                "en": "A short sprint from the car to the entrance is worth it."
+              }
+            },
+            {
+              "name": "Piarist Church of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe der G. Švéni Straße.",
+                "hu": "Parkoljon a G. Švéni utca környékén a közelség miatt.",
+                "ro": "Parcați în apropierea străzii G. Švéni.",
+                "en": "Park near G. Švéni street for easy access."
+              }
+            },
+            {
+              "name": "Museum of Upper Nitra",
+              "tip_5lang": {
+                "de": "Der Museumsparkplatz ist oft auch bei Regen gut belegt; früh kommen.",
+                "hu": "A múzeum parkolója esőben is népszerű, érkezzen időben.",
+                "ro": "Parcarea muzeului este adesea plină și pe ploaie; veniți devreme.",
+                "en": "The museum parking is often busy even in rain; arrive early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt nach Bojnice.",
+              "Die Parkplätze in Bojnice können bei Regen matschig sein.",
+              "Lassen Sie einen Regenschirm immer griffbereit im Auto.",
+              "Nutzen Sie die Sitzheizung, um nach den Spaziergängen aufzuwärmen.",
+              "Bei starkem Regen kann die Sicht auf der Landstraße eingeschränkt sein."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket a Bojnice-i út előtt.",
+              "A Bajmóci parkolók esőben sárosak lehetnek.",
+              "Mindig tartson kéznél egy esernyőt az autóban.",
+              "Használja az ülésfűtést a városi séták utáni átmelegedéshez.",
+              "Erős esőben a látási viszonyok korlátozottak lehetnek az országúton."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de drumul spre Bojnice.",
+              "Parcările din Bojnice pot fi noroioase pe ploaie.",
+              "Țineți întotdeauna o umbrelă la îndemână în mașină.",
+              "Folosiți încălzirea în scaune pentru a vă încălzi după plimbări.",
+              "Pe ploaie torențială, vizibilitatea pe drumul județean poate fi scăzută."
+            ],
+            "en": [
+              "Check your wipers before the drive to Bojnice.",
+              "Parking lots in Bojnice can be muddy in the rain.",
+              "Always keep an umbrella within reach in the car.",
+              "Use the seat heating to warm up after your walks.",
+              "Visibility on the country road can be limited during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterausflug mit dem Auto nach Bojnice ist märchenhaft. Besuchen Sie das Schloss Bojnice, das im Schnee wie aus einer anderen Welt wirkt. Nach dem Mittagessen kehren Sie nach Prievidza zurück. Die kurzen Wege vom Auto zu den Sehenswürdigkeiten in der Altstadt machen die Kälte erträglich. Nutzen Sie den Nachmittag im warmen Museum und beenden Sie den Tag gemütlich, während die Stadt in Winterlichtern erstrahlt.",
+            "hu": "A téli autós kirándulás Bajmócra mesébe illő. Látogassa meg a várkastélyt, amely a hóban egészen különleges látvány. Ebéd után térjen vissza Prievidzába. Az autó és a látnivalók közötti rövid séták az óvárosban elviselhetővé teszik a hideget. Töltse a délutánt a fűtött múzeumban, és zárja a napot a kivilágított téli városban.",
+            "ro": "O excursie de iarnă cu mașina la Bojnice este de basm. Vizitați castelul, care arată ireal sub zăpadă. După prânz, reveniți în Prievidza. Distanțele scurte de la mașină la obiectivele din centrul vechi fac frigul suportabil. Petreceți după-amiaza în muzeul călduros și încheiați ziua admirând luminile de iarnă ale orașului.",
+            "en": "A winter car trip to Bojnice is like a fairytale. Visit Bojnice Castle, which looks magical surrounded by snow. After lunch, return to Prievidza. The short walks from your car to the old town sights make the cold manageable. Spend your afternoon in the warm museum and end the day comfortably as the city sparkles in winter lights."
+          },
+          "stops": [
+            {
+              "name": "Bojnice Castle (Zámok Bojnice)",
+              "tip_5lang": {
+                "de": "Das Schloss ist im Winter teilweise beheizt, aber warme Kleidung nötig.",
+                "hu": "A vár télen részben fűtött, de a termekben szükség lesz a kabátra.",
+                "ro": "Castelul este parțial încălzit iarna, dar hainele groase sunt necesare.",
+                "en": "The castle is partially heated in winter, but warm clothes are still needed."
+              }
+            },
+            {
+              "name": "Bojnice Zoo",
+              "tip_5lang": {
+                "de": "Einige Tiere sind im Winter im Stall; besuchen Sie die Innenanlagen.",
+                "hu": "Télen több állat bent pihen; keresse a belső kifutókat.",
+                "ro": "Unele animale sunt în grajduri iarna; vizitați adăposturile interioare.",
+                "en": "Some animals are indoors during winter; visit the indoor enclosures."
+              }
+            },
+            {
+              "name": "Lunch in Bojnice",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Kamin für die richtige Winterstimmung.",
+                "hu": "Válasszon kandallós éttermet az igazi téli hangulathoz.",
+                "ro": "Alegeți un restaurant cu șemineu pentru o atmosferă de iarnă autentică.",
+                "en": "Choose a restaurant with a fireplace for the ultimate winter vibe."
+              }
+            },
+            {
+              "name": "Freedom Square (Park & Walk)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken auf verschneiten Markierungen.",
+                "hu": "Vigyázzon a parkoláskor a hóval fedett felfestésekre.",
+                "ro": "Atenție la parcare pe marcajele acoperite de zăpadă.",
+                "en": "Be careful when parking on snow-covered markings."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Kurze Besichtigung einplanen, da die Steinkirche sehr kalt ist.",
+                "hu": "Rövid látogatást tervezzen, mert a kőtemplom nagyon hideg.",
+                "ro": "Planificați o vizită scurtă, biserica de piatră este foarte rece.",
+                "en": "Plan a short visit as the stone church is very cold."
+              }
+            },
+            {
+              "name": "Piarist Church of the Holy Trinity",
+              "tip_5lang": {
+                "de": "Die Beleuchtung am Abend ist im Winter besonders stimmungsvoll.",
+                "hu": "Az esti kivilágítás télen különösen hangulatos.",
+                "ro": "Iluminatul de seară este deosebit de sugestiv iarna.",
+                "en": "The evening lighting is particularly atmospheric in winter."
+              }
+            },
+            {
+              "name": "Museum of Upper Nitra",
+              "tip_5lang": {
+                "de": "Perfekt zum Aufwärmen vor der Heimfahrt.",
+                "hu": "Tökéletes hely az átmelegedéshez a hazaút előtt.",
+                "ro": "Perfect pentru a vă încălzi înainte de drumul spre casă.",
+                "en": "Perfect for warming up before the drive home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Eiskratzer sind in dieser Region Pflicht.",
+              "Achten Sie auf Glatteis auf der Straße zwischen Prievidza und Bojnice.",
+              "Halten Sie die Batterie Ihres Autos im Auge; Kälte setzt ihr zu.",
+              "Parken Sie nicht unter großen Bäumen (Schneelast/Eiszapfen).",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage."
+            ],
+            "hu": [
+              "A téli gumi és a jégkaparó kötelező ebben a régióban.",
+              "Vigyázzon a jegesedésre a Prievidza és Bojnice közötti úton.",
+              "Figyeljen az autó akkumulátorára a nagy hidegben.",
+              "Ne parkoljon nagy fák alatt a hóteher és a jégcsapok miatt.",
+              "Töltse fel a szélvédőmosót fagyállóval."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și racleta sunt obligatorii în această regiune.",
+              "Atenție la polei pe drumul dintre Prievidza și Bojnice.",
+              "Monitorizați bateria mașinii; frigul o poate afecta.",
+              "Nu parcați sub copaci mari din cauza greutății zăpezii și a țurțurilor.",
+              "Umpleți rezervorul de lichid de parbriz cu soluție anti-îngheț."
+            ],
+            "en": [
+              "Winter tires and an ice scraper are mandatory in this region.",
+              "Watch out for black ice on the road between Prievidza and Bojnice.",
+              "Keep an eye on your car battery; the cold can take a toll on it.",
+              "Avoid parking under large trees due to snow load and icicles.",
+              "Fill your windshield washer reservoir with anti-freeze fluid."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1173,6 +1779,196 @@
           "Check the bus schedule in advance.",
           "Most buses are modern and air-conditioned."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den öffentlichen Nahverkehr, um Prievidza im Regen zu erkunden. Starten Sie am Námestie slobody und nutzen Sie die überdachten Bushaltestellen. Mittags bringt Sie der Bus bequem zur St.-Bartholomäus-Kirche. Der Nachmittag im Museumsviertel ist ideal, um der Nässe zu entfliehen. Beenden Sie den Tag mit einer entspannten Fahrt zurück zum Bahnhof oder Zentrum, ohne nass zu werden.",
+            "hu": "Használja a tömegközlekedést Prievidza felfedezéséhez esőben is. Induljon a Szabadság térről, és használja a fedett buszvárókat. Délben a busz kényelmesen elviszi a Szent Bertalan-templomhoz. A délután a múzeumi negyedben telik, ahol észre sem veszi a kinti esőt. A napot egy nyugodt buszozással zárhatja a központ felé, anélkül, hogy megázna.",
+            "ro": "Folosiți transportul public pentru a explora Prievidza pe ploaie. Începeți din Piața Libertății și profitați de stațiile de autobuz acoperite. La prânz, autobuzul vă duce confortabil la biserica Sf. Bartolomeu. După-amiaza în cartierul muzeelor este ideală pentru a scăpa de umezeală. Încheiați ziua cu o cursă relaxată spre centru, fără a vă uda.",
+            "en": "Use public transit to explore Prievidza in the rain. Start at Freedom Square and take advantage of the sheltered bus stops. At noon, the bus brings you comfortably to St. Bartholomew's Church. Spending the afternoon in the Museum Quarter is the perfect way to stay dry. End your day with a relaxed ride back to the center or station, avoiding the rain."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Freedom Square",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist überdacht; warten Sie dort, bis der Regen nachlässt.",
+                "hu": "A megálló fedett, várja meg itt, amíg alábbhagy az eső.",
+                "ro": "Stația este acoperită; așteptați acolo până se mai domolește ploaia.",
+                "en": "The stop is sheltered; wait there until the rain eases off."
+              }
+            },
+            {
+              "name": "Marian Column & Burgher Houses",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle; halten Sie den Schirm bereit.",
+                "hu": "Rövid séta a megállótól, tartsa készenlétben az esernyőt.",
+                "ro": "Scurtă plimbare de la stație; țineți umbrela pregătită.",
+                "en": "Short walk from the stop; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan per App, um Wartezeiten im Freien zu minimieren.",
+                "hu": "Ellenőrizze a menetrendet applikáción, hogy keveset kelljen kint várnia.",
+                "ro": "Verificați programul pe aplicație pentru a minimiza așteptarea afară.",
+                "en": "Check the schedule on the app to minimize waiting time outdoors."
+              }
+            },
+            {
+              "name": "Trip to the Museum Quarter",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht aus dem trockenen Bus.",
+                "hu": "Élvezze a város látványát a száraz busz ablakából.",
+                "ro": "Bucurați-vă de priveliște din autobuzul uscat.",
+                "en": "Enjoy the city views from the dry bus window."
+              }
+            },
+            {
+              "name": "Piarist Church & Museum of Upper Nitra",
+              "tip_5lang": {
+                "de": "Die Haltestellen liegen sehr nah an den Eingängen.",
+                "hu": "A megállók nagyon közel vannak a bejáratokhoz.",
+                "ro": "Stațiile sunt foarte aproape de intrări.",
+                "en": "The stops are located very close to the entrances."
+              }
+            },
+            {
+              "name": "Statue of Cyril and Methodius",
+              "tip_5lang": {
+                "de": "Schnelles Foto aus dem Busfenster möglich, falls es zu stark regnet.",
+                "hu": "Gyors fotó a buszból is készíthető, ha nagyon esne az eső.",
+                "ro": "Se poate face o poză rapidă din autobuz dacă plouă prea tare.",
+                "en": "A quick photo from the bus window is possible if it's raining too hard."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab am Kiosk oder per SMS.",
+              "Die Busse in Prievidza sind bei Regen oft voll; planen Sie Puffer ein.",
+              "Achten Sie auf Pfützen beim Ein- und Aussteigen an den Bordsteinen.",
+              "Halten Sie Ihr Ticket griffbereit, um langes Suchen im Regen zu vermeiden.",
+              "Nutzen Sie die App 'Cestovné poriadky' für Echtzeit-Informationen."
+            ],
+            "hu": [
+              "Vásárolja meg a jegyeket előre az újságárusnál vagy SMS-ben.",
+              "Esőben a buszok tömöttek lehetnek, tervezzen némi időpuffert.",
+              "Vigyázzon a tócsákra a buszról való le- és felszálláskor.",
+              "Tartsa kéznél a jegyét, hogy ne kelljen az esőben keresgélnie.",
+              "Használja a 'Cestovné poriadky' alkalmazást a valós idejű infókért."
+            ],
+            "ro": [
+              "Cumpărați biletele în avans de la chioșc sau prin SMS.",
+              "Autobuzele pot fi aglomerate pe ploaie; planificați o marjă de timp.",
+              "Atenție la bălțile de lângă bordură la urcare și coborâre.",
+              "Țineți biletul la îndemână pentru a nu-l căuta prin ploaie.",
+              "Folosiți aplicația 'Cestovné poriadky' pentru informații în timp real."
+            ],
+            "en": [
+              "Buy your tickets in advance at a kiosk or via SMS.",
+              "Buses in Prievidza can be crowded when it rains; plan some extra time.",
+              "Watch out for puddles near the curb when boarding or exiting.",
+              "Keep your ticket handy to avoid searching for it in the rain.",
+              "Use the 'Cestovné poriadky' app for real-time transit information."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Prievidza bequem mit dem Bus. Starten Sie am Námestie slobody, wo die beheizten Busse eine angenehme Pause zur Kälte draußen bieten. Mittags bringt Sie der Transit zur St.-Bartholomäus-Kirche. Der Nachmittag im Museum ist der perfekte Ort, um sich aufzuwärmen. Beenden Sie den Tag mit einer Fahrt durch das beleuchtete Stadtzentrum, während Sie im Warmen sitzen und die Winterstimmung genießen.",
+            "hu": "Fedezze fel a téli Prievidzát kényelmesen, busszal. Induljon a Szabadság térről; a fűtött buszok kellemes pihenőt nyújtanak a kinti hideg után. Délben a tömegközlekedés elviszi a Szent Bertalan-templomhoz. A délután a múzeumban telik, ami a legjobb hely az átmelegedéshez. Zárja a napot egy utazással a kivilágított belvároson át, élvezve a téli hangulatot a melegből.",
+            "ro": "Explorați Prievidza de iarnă confortabil cu autobuzul. Începeți din Piața Libertății; autobuzele încălzite oferă un respiro plăcut față de gerul de afară. La prânz, transportul public vă duce la biserica Sf. Bartolomeu. După-amiaza la muzeu este locul perfect pentru încălzire. Încheiați ziua cu o cursă prin centrul luminat, savurând atmosfera de iarnă din interiorul cald.",
+            "en": "Explore wintry Prievidza comfortably by bus. Start at Freedom Square, where the heated buses offer a pleasant break from the cold outside. At noon, transit takes you to St. Bartholomew's Church. Spending the afternoon at the museum is the best way to stay warm. End your day with a ride through the illuminated city center, enjoying the winter atmosphere from the warmth of the bus."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Freedom Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit an der Haltestelle für ein kurzes Aufwärmtraining.",
+                "hu": "A megállóban való várakozás alatt mozogjon kicsit, hogy ne fázzon.",
+                "ro": "Folosiți timpul în stație pentru a vă mișca puțin ca să nu înghețați.",
+                "en": "Move around while waiting at the stop to stay warm."
+              }
+            },
+            {
+              "name": "Marian Column & Burgher Houses",
+              "tip_5lang": {
+                "de": "Achten Sie auf glatte Stellen an der Haltestelle.",
+                "hu": "Vigyázzon a megálló környékén a jegesedésre.",
+                "ro": "Atenție la porțiunile alunecoase din stație.",
+                "en": "Watch out for icy spots around the bus stop."
+              }
+            },
+            {
+              "name": "St. Bartholomew's Church",
+              "tip_5lang": {
+                "de": "Die Busse fahren im Winter nach Plan, aber Verspätungen möglich.",
+                "hu": "A buszok menetrend szerint járnak, de hóban előfordulhat késés.",
+                "ro": "Autobuzele respectă programul, dar sunt posibile întârzieri pe zăpadă.",
+                "en": "Buses usually follow the schedule, but snow can cause delays."
+              }
+            },
+            {
+              "name": "Trip to the Museum Quarter",
+              "tip_5lang": {
+                "de": "Kurze Fahrzeit, ideal um die Finger aufzuwärmen.",
+                "hu": "Rövid utazás, pont elég az elgémberedett ujjak átmelegítésére.",
+                "ro": "Timp scurt de călătorie, ideal pentru a vă încălzi degetele.",
+                "en": "Short travel time, perfect for warming up your fingers."
+              }
+            },
+            {
+              "name": "Piarist Church & Museum of Upper Nitra",
+              "tip_5lang": {
+                "de": "Gehen Sie direkt ins Museum, um die Kälte zu meiden.",
+                "hu": "Menjen egyenesen a múzeumba, hogy ne kelljen sokat kint lennie.",
+                "ro": "Mergeți direct în muzeu pentru a evita frigul.",
+                "en": "Head straight into the museum to avoid the cold."
+              }
+            },
+            {
+              "name": "Statue of Cyril and Methodius",
+              "tip_5lang": {
+                "de": "Die Statue ist oft schneebedeckt und bietet ein schönes Fotomotiv.",
+                "hu": "A szobor gyakran havas, ami különleges fotótémát kínál.",
+                "ro": "Statuia este adesea acoperită de zăpadă, oferind un cadru frumos.",
+                "en": "The statue is often snow-covered, making for a beautiful photo."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Winterschuhe mit gutem Profil für die Wege zur Haltestelle.",
+              "Die Heizung in den Bussen kann sehr stark sein; tragen Sie Schichten.",
+              "Vermeiden Sie es, an Haltestellen im Windschatten zu stehen.",
+              "Abends sind die Busse oft weniger frequentiert; Plan genau prüfen.",
+              "Schneematsch kann die Böden im Bus rutschig machen."
+            ],
+            "hu": [
+              "Viseljen meleg, jó tapadású téli cipőt a megállóhoz vezető úton.",
+              "A buszok fűtése erős lehet, öltözzön rétegesen.",
+              "Próbáljon a szélvédett helyeken várakozni a megállókban.",
+              "Este ritkábban járhatnak a buszok, ellenőrizze pontosan a menetrendet.",
+              "A buszok padlója a behordott hótól csúszós lehet."
+            ],
+            "ro": [
+              "Purtați încălțăminte de iarnă cu talpă aderentă pentru drumul spre stație.",
+              "Încălzirea din autobuze poate fi puternică; îmbrăcați-vă în straturi.",
+              "Încercați să așteptați în locuri ferite de vânt în stații.",
+              "Seara autobuzele pot circula mai rar; verificați bine programul.",
+              "Podeaua autobuzului poate fi alunecoasă din cauza zăpezii topite."
+            ],
+            "en": [
+              "Wear warm winter shoes with good grip for the walks to the stops.",
+              "Bus heating can be quite strong; dress in layers.",
+              "Try to stand in wind-sheltered areas while waiting at stops.",
+              "Buses may run less frequently in the evening; check the schedule carefully.",
+              "Slush can make the bus floors slippery."
+            ]
+          }
+        }
       }
     }
   }

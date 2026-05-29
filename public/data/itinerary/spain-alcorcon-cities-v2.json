@@ -366,6 +366,206 @@
           "Pay attention to siesta times, many small shops close in the early afternoon.",
           "The glass art museum offers free entry on certain days, check this in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Alcorcón beginnt auf dem Plaza de los Reyes de España, wo die Arkaden Schutz vor dem Regen bieten. Die Kirche Santa María la Blanca ist ein idealer Rückzugsort für den Vormittag.\n\nMittags führt der Weg zum Buero Vallejo Theater. Die modernen Innenräume bieten Kultur, während es draußen regnet.\n\nAm Nachmittag sind die Schlösser von San José de Valderas das Ziel. Das Glasmuseum MAVA ist der perfekte Ort, um trocken zu bleiben und Kunst zu genießen.\n\nDer Abend klingt in den Cafés der Calle Mayor aus, wo man das prasselnde Wasser auf dem Pflaster beobachtet.",
+            "hu": "A reggel az óvárosban indul, a Plaza de los Reyes de España környékén az épületek ereszei alatt várakozhatunk. A Santa María la Blanca templom csendes, száraz menedéket nyújt a délelőtti záporban.\n\nDélben a Buero Vallejo színház felé vesszük az irányt. A kulturális központ aulája jó pihenőhely, mielőtt a La Paz park vizes ösvényein átvágnánk.\n\nDélután a San José de Valderas kastélyok komor, de látványos falai között járunk. A MAVA üvegmúzeum a legjobb esőnapi program a városban.\n\nAz este a közeli vendéglátóhelyeken zárul, ahol a helyi ételeket élvezhetjük a nedves utcák zaja mellett.",
+            "ro": "Dimineața în Alcorcón începe în Plaza de los Reyes de España, unde arcadele oferă adăpost împotriva ploii. Biserica Santa María la Blanca este un refugiu ideal pentru orele dimineții.\n\nLa prânz, traseul ne duce spre Teatrul Buero Vallejo. Interiorul modern oferă cultură în timp ce afară plouă, protejându-ne de umezeală.\n\nDupă-amiaza vizităm Castelele San José de Valderas. Muzeul MAVA este locația perfectă pentru a rămâne uscat și a admira arta sticlei.\n\nSeara se încheie în cafenelele din apropiere, ascultând ploaia pe străzile vechi ale orașului.",
+            "en": "Morning starts at Plaza de los Reyes de España, where building overhangs provide some shelter. Santa María la Blanca Church offers a dry, spiritual sanctuary for the late morning.\n\nAt noon, we head to the Buero Vallejo Theatre. Its indoor spaces are a great cultural refuge while waiting for the rain to clear.\n\nAfternoon is dedicated to the San José de Valderas Castles. The MAVA glass museum is arguably the best rainy-day indoor activity in Alcorcón.\n\nEvening concludes in a cozy local tapas bar, watching the rain wash over the historic town center tiles."
+          },
+          "stops": [
+            {
+              "name": "Plaza de los Reyes de España",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
+                "hu": "Használja a városháza környéki árkádokat eső elleni védelemnek.",
+                "ro": "Folosiți arcadele clădirilor din jur pentru a vă proteja de ploaie.",
+                "en": "Use the arcades of the surrounding buildings for rain shelter."
+              }
+            },
+            {
+              "name": "Santa María la Blanca Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie das barocke Altarbild, während Sie im Trockenen bleiben.",
+                "hu": "Csodálja meg a barokk oltárt, miközben az épületben várakozik.",
+                "ro": "Admirați altarul baroc în timp ce rămâneți la adăpost de ploaie.",
+                "en": "Admire the baroque altarpiece while staying completely dry."
+              }
+            },
+            {
+              "name": "Hermitage of Los Remedios",
+              "tip_5lang": {
+                "de": "Kleine Kapelle, ideal für einen kurzen Zwischenstopp bei Schauern.",
+                "hu": "Kisméretű kápolna, ideális egy rövid megállóra zápor idején.",
+                "ro": "Capelă mică, ideală pentru o oprire scurtă în timpul averselor.",
+                "en": "Small hermitage, ideal for a short stop during sudden showers."
+              }
+            },
+            {
+              "name": "Buero Vallejo Theatre",
+              "tip_5lang": {
+                "de": "Prüfen Sie das Foyer auf aktuelle Ausstellungen oder Flyer.",
+                "hu": "Nézze meg az előcsarnokban az aktuális kiállításokat vagy műsort.",
+                "ro": "Verificați foierul pentru expoziții curente sau programul cultural.",
+                "en": "Check the foyer for current exhibitions or cultural brochures."
+              }
+            },
+            {
+              "name": "La Paz Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf den gepflasterten Wegen, die bei Nässe glatt sind.",
+                "hu": "Vigyázzon a kövezett utakon, amelyek esőben csúszósak lehetnek.",
+                "ro": "Atenție pe aleile pavate, care pot fi alunecoase când sunt ude.",
+                "en": "Be careful on the paved paths, which can be slippery when wet."
+              }
+            },
+            {
+              "name": "San José de Valderas Castles",
+              "tip_5lang": {
+                "de": "Die neugotischen Fassaden wirken bei grauem Himmel besonders dramatisch.",
+                "hu": "A neogótikus homlokzatok szürke égbolt alatt különösen drámaiak.",
+                "ro": "Fațadele neogotice arată spectaculos sub cerul înnorat de ploaie.",
+                "en": "The neo-gothic facades look particularly dramatic under grey skies."
+              }
+            },
+            {
+              "name": "Museum of Glass Art (MAVA)",
+              "tip_5lang": {
+                "de": "Perfekter Ort für regnerische Stunden mit faszinierender Glaskunst.",
+                "hu": "Tökéletes hely esős órákra lenyűgöző üvegművészeti alkotásokkal.",
+                "ro": "Locul perfect pentru orele ploioase, cu artă fascinantă în sticlă.",
+                "en": "Perfect place for rainy hours with fascinating glass art pieces."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Altstadtpflaster.",
+              "Das Einkaufszentrum TresAguas ist eine gute Alternative bei Dauerregen.",
+              "Die Metrostationen der Linie 12 bieten trockene Übergänge.",
+              "In der Calle Mayor finden Sie viele Cafés mit überdachten Eingängen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a belvárosi macskaköves utcákhoz.",
+              "A TresAguas bevásárlóközpont jó alternatíva tartós eső esetén.",
+              "A 12-es metró vonalának megállói száraz közlekedést biztosítanak.",
+              "A Calle Mayor kávézói jó menedéket nyújtanak a záporok elől."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru străzile pavate din centru.",
+              "Centrul comercial TresAguas este o alternativă bună în caz de ploaie.",
+              "Stațiile de metrou ale liniei 12 oferă conexiuni uscate.",
+              "Pe Calle Mayor găsiți multe cafenele cu intrări acoperite."
+            ],
+            "en": [
+              "Wear waterproof shoes for the cobblestone streets in the center.",
+              "TresAguas shopping center is a good backup plan for heavy rain.",
+              "Metro line 12 stations provide dry transit points between areas.",
+              "Calle Mayor has many cafes with covered entrances for shelter."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Alcorcón belebt die Plaza de los Reyes de España. Die frische Luft macht den Spaziergang zur Santa María Kirche angenehm.\n\nMittags wärmt die Sonne die Wege im La Paz Park. Trotz der Kälte ist die Sicht auf die Stadt an klaren Tagen hervorragend.\n\nDer Nachmittag gehört den Castillos de Valderas. Das warme Licht im MAVA-Museum bildet einen schönen Kontrast zur kühlen Außenluft.\n\nDer Abend beginnt früh mit dem Sonnenuntergang. Die beleuchteten Schlösser bieten eine magische Winterkulisse vor dem Abendessen.",
+            "hu": "A tiszta téli reggel Alcorcónban frissítően indul a főtéren. A hűvös időben tett séta a Santa María templomig felpezsdíti a látogatót.\n\nDélben a téli napsütésben a La Paz park ösvényein pihenhetünk. A levegő száraz, a látótávolság ilyenkor a legjobb a környéken.\n\nDélután a Valderas kastélyok neogótikus tornyai között járunk. A MAVA múzeum belső melege kellemes kontraszt a kinti hideggel.\n\nAz este korán köszönt be a lemenő nappal. A kivilágított kastélyok látványa után érdemes egy meleg spanyol levest keresni.",
+            "ro": "O dimineață senină de iarnă în Alcorcón revigorează Plaza de los Reyes de España. Aerul proaspăt face plimbarea spre biserica Santa María plăcută.\n\nLa prânz, soarele de iarnă încălzește aleile din Parcul La Paz. Vizibilitatea este excelentă în zilele reci și senine.\n\nDupă-amiaza este dedicată Castelelor Valderas. Căldura din interiorul muzeului MAVA oferă un contrast plăcut cu aerul rece de afară.\n\nSeara începe devreme odată cu apusul soarelui. Castelele iluminate oferă un decor de iarnă magic înainte de cină.",
+            "en": "A crisp winter morning in Alcorcón brings fresh air to Plaza de los Reyes de España. The cool walk to Santa María Church is invigorating.\n\nAt noon, the winter sun warms the paths in La Paz Park. The dry air often provides the best visibility for city views.\n\nAfternoon is best spent around the Valderas Castles. The warm interior of the MAVA museum provides a cozy retreat from the winter chill.\n\nEvening sets in early with the sunset. The illuminated castles offer a magical winter backdrop for a final walk before dinner."
+          },
+          "stops": [
+            {
+              "name": "Plaza de los Reyes de España",
+              "tip_5lang": {
+                "de": "Genießen Sie die Morgensonne, die auf die Fassaden der Altstadt fällt.",
+                "hu": "Élvezze a reggeli napsütést az óváros homlokzatain.",
+                "ro": "Bucurați-vă de soarele dimineții pe fațadele clădirilor vechi.",
+                "en": "Enjoy the morning sun hitting the facades of the old town."
+              }
+            },
+            {
+              "name": "Santa María la Blanca Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen; ein ruhiger Ort zum Aufwärmen.",
+                "hu": "A vastag falak kint tartják a hideget; nyugodt hely a melegedésre.",
+                "ro": "Zidurile groase țin frigul afară; un loc liniștit pentru a vă încălzi.",
+                "en": "Thick walls keep the cold out; a quiet place to warm up slightly."
+              }
+            },
+            {
+              "name": "Hermitage of Los Remedios",
+              "tip_5lang": {
+                "de": "Ein kleiner, windgeschützter Ort in der Nähe des Stadtzentrums.",
+                "hu": "Kicsi, szélvédett hely a városközpont közelében.",
+                "ro": "Un loc mic, protejat de vânt, aproape de centrul orașului.",
+                "en": "A small, wind-protected spot near the city center."
+              }
+            },
+            {
+              "name": "Buero Vallejo Theatre",
+              "tip_5lang": {
+                "de": "Ideal für eine kulturelle Pause in beheizten Innenräumen.",
+                "hu": "Ideális kulturális pihenő a fűtött belső terekben.",
+                "ro": "Ideal pentru o pauză culturală în spații interioare încălzite.",
+                "en": "Ideal for a cultural break in heated indoor spaces."
+              }
+            },
+            {
+              "name": "La Paz Park",
+              "tip_5lang": {
+                "de": "Tragen Sie Schichten gegen den kühlen Winterwind auf den Freiflächen.",
+                "hu": "Réteges öltözködés javasolt a nyílt tereken fújó hideg szél miatt.",
+                "ro": "Purtați haine în straturi contra vântului rece din spațiile deschise.",
+                "en": "Wear layers against the cool winter wind in open park areas."
+              }
+            },
+            {
+              "name": "San José de Valderas Castles",
+              "tip_5lang": {
+                "de": "Das Winterlicht sorgt für fantastische Fotos der neugotischen Türme.",
+                "hu": "A téli fények remek fotólehetőséget adnak a neogótikus tornyokhoz.",
+                "ro": "Lumina de iarnă oferă ocazii foto excelente pentru turnurile neogotice.",
+                "en": "Winter light provides great photo opportunities for the neo-gothic towers."
+              }
+            },
+            {
+              "name": "Museum of Glass Art (MAVA)",
+              "tip_5lang": {
+                "de": "Perfekt temperierte Galerien laden zum langen Verweilen ein.",
+                "hu": "Kellemes hőmérsékletű galériák, amelyek hosszú böngészésre hívnak.",
+                "ro": "Galerii cu temperatură plăcută, ideale pentru o vizită prelungită.",
+                "en": "Perfectly tempered galleries invite you to stay and browse for a while."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 18:00 Uhr unter.",
+              "Probieren Sie 'Chocolate con Churros' in einer lokalen Konditorei.",
+              "Der Wind kann in Alcorcón im Winter recht schneidig sein.",
+              "Die Museen sind meist gut beheizt und bieten Komfort."
+            ],
+            "hu": [
+              "A nap télen 18:00 körül nyugszik le a térségben.",
+              "Kóstolja meg a 'Chocolate con Churros'-t egy helyi cukrászdában.",
+              "A szél Alcorcón nyíltabb részein télen metsző lehet.",
+              "A múzeumok jól fűtöttek, kellemes menedéket adnak a hideg elől."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 18:00 în timpul iernii.",
+              "Încercați 'Chocolate con Churros' la o cofetărie locală.",
+              "Vântul poate fi destul de tăios în Alcorcón pe timpul iernii.",
+              "Muzeele sunt de obicei bine încălzite și oferă confort."
+            ],
+            "en": [
+              "Sunset occurs around 18:00 during the winter months.",
+              "Try 'Chocolate con Churros' at a local pastry shop to warm up.",
+              "Wind can be quite biting in the open areas of Alcorcón in winter.",
+              "Museums are usually well-heated and provide a comfortable escape."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -702,6 +902,188 @@
           "Be careful at the intersections in the historic center, there is a lot of pedestrian traffic.",
           "Always lock your bike securely at the sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Alcorcón im Regen erfordert Vorsicht auf den Radwegen. Der Morgen startet an der Plaza de los Reyes de España, wo man kurz unterstehen kann.\n\nMittags führt die Fahrt zum La Paz Park. Die asphaltierten Wege sind besser als die erdigen Pfade in anderen Parks.\n\nDer Nachmittag wird kulturell im MAVA-Museum verbracht, wo die Fahrräder sicher im Außenbereich geparkt werden können.\n\nDer Abend endet nach einer vorsichtigen Fahrt durch die glatten Straßen der Stadt bei einem heißen Getränk.",
+            "hu": "A kerékpáros túra esőben óvatosságot igényel Alcorcón kerékpárútjain. A reggel a főtéren indul, ahol az épületek alatt készülhetünk fel.\n\nDélben a La Paz park felé tekerünk. Az aszfaltozott utak ilyenkor biztonságosabbak, mint a parkok földútjai.\n\nA délutánt a MAVA múzeumban töltjük, ahol a kerékpárokat a közelben lezárva, fedett helyen várhatjuk meg az eső végét.\n\nAz este egy lassú, óvatos tekeréssel zárul a csúszós városi aszfalton egy meleg vacsorahelyig.",
+            "ro": "O tură cu bicicleta prin Alcorcón pe ploaie necesită atenție pe pistele de biciclete. Dimineața începe în Plaza de los Reyes de España, unde vă puteți adăposti scurt.\n\nLa prânz, pedalăm spre Parcul La Paz. Aleile asfaltate sunt mai sigure decât potecile de pământ din alte parcuri.\n\nDupă-amiaza este petrecută la muzeul MAVA, unde bicicletele pot fi parcate în siguranță în apropiere.\n\nSeara se încheie după o cursă prudentă pe străzile alunecoase, cu o băutură caldă la destinație.",
+            "en": "Cycling through Alcorcón in the rain requires extra care on the bike lanes. Morning starts at Plaza de los Reyes de España, using the porticos for a quick break.\n\nAt noon, the ride continues to La Paz Park. Asphalt paths are much better than dirt trails during wet weather.\n\nAfternoon is spent indoors at the MAVA museum, providing a long break from the wet gear and cycling.\n\nEvening ends after a cautious ride through the slick city streets, heading for a well-deserved hot meal."
+          },
+          "stops": [
+            {
+              "name": "Plaza de los Reyes de España",
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger unter den Arkaden beim Schieben des Rades.",
+                "hu": "Vigyázzon a gyalogosokra az árkádok alatt, ha tolja a kerékpárt.",
+                "ro": "Atenție la pietonii de sub arcade când împingeți bicicleta.",
+                "en": "Watch out for pedestrians under the arcades when pushing your bike."
+              }
+            },
+            {
+              "name": "Santa María la Blanca Church",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem gut sichtbaren, festen Punkt ab.",
+                "hu": "Zárja le a kerékpárt egy jól látható, stabil rögzítőhöz.",
+                "ro": "Parcați bicicleta într-un punct fix și bine vizibil.",
+                "en": "Park your bike at a visible, fixed point before entering."
+              }
+            },
+            {
+              "name": "La Paz Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Rasenflächen; bleiben Sie auf den festen Wegen.",
+                "hu": "Kerülje a füves területeket; maradjon a szilárd burkolatú utakon.",
+                "ro": "Evitați zonele cu iarbă; rămâneți pe aleile pavate.",
+                "en": "Avoid grassy areas; stay on the paved or hard-surface paths."
+              }
+            },
+            {
+              "name": "San José de Valderas Castles",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für einen gründlichen Check Ihrer Bremsen.",
+                "hu": "Használja ki a megállót a fékek alapos ellenőrzésére.",
+                "ro": "Profită de oprire pentru o verificare rapidă a frânelor.",
+                "en": "Take advantage of the stop to check your brakes thoroughly."
+              }
+            },
+            {
+              "name": "Museum of Glass Art (MAVA)",
+              "tip_5lang": {
+                "de": "Lange Aufenthaltsdauer möglich, um nasse Kleidung trocknen zu lassen.",
+                "hu": "Hosszabb ideig maradhat bent, hogy a nedves ruházat száradjon.",
+                "ro": "Puteți rămâne mai mult timp pentru a lăsa hainele ude să se usuce.",
+                "en": "Longer stay possible here, allowing wet gear to dry out a bit."
+              }
+            },
+            {
+              "name": "Las Presillas Park",
+              "tip_5lang": {
+                "de": "Bei starkem Regen können die Wege hier sehr schlammig sein.",
+                "hu": "Heves esőzéskor az utak itt nagyon sárosak lehetnek.",
+                "ro": "Pe ploaie torențială, aleile de aici pot deveni foarte noroioase.",
+                "en": "In heavy rain, the paths here can get very muddy and soft."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um Spritzwasser zu vermeiden.",
+              "Bremstests auf Kopfsteinpflaster sind bei Nässe unerlässlich.",
+              "Vermeiden Sie abrupte Kurvenmanöver auf lackierten Markierungen.",
+              "Ein Poncho ist beim Radfahren praktischer als ein Regenschirm."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "A fékek ellenőrzése vizes macskakövön elengedhetetlen.",
+              "Kerülje a hirtelen kanyarodást a felfestett útburkolati jeleken.",
+              "A kerékpáros esőponcsó praktikusabb ilyenkor, mint az esernyő."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a evita stropirea cu apă.",
+              "Verificarea frânelor pe pavaj ud este esențială.",
+              "Evitați manevrele bruște pe marcajele rutiere vopsite.",
+              "Un pelerină de ploaie este mai practică decât o umbrelă pe bicicletă."
+            ],
+            "en": [
+              "Use mudguards to prevent water splashes from the wheels.",
+              "Brake checks on wet cobblestones are essential for safety.",
+              "Avoid sharp turns on painted road markings when wet.",
+              "A cycling poncho is much more practical than an umbrella."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Alcorcón ist kühl und perfekt für eine aktive Radtour. Die Plaza de los Reyes de España ist der ideale Startpunkt.\n\nMittags genießen wir die Sonne im La Paz Park. Die kühle Luft macht die Steigungen weniger anstrengend.\n\nDer Nachmittag am Castillo de Valderas bietet weite Ausblicke bei klarer Winterluft. Das MAVA-Museum bietet eine willkommene Aufwärmpause.\n\nDer Abend bricht schnell an. Eine beleuchtete Fahrt zurück durch das winterliche Alcorcón beendet den Tag sportlich.",
+            "hu": "A hűvös téli reggel Alcorcónban ideális egy aktív kerékpártúrához. A főtérről indulva a hideg levegő segít az ébrenlétben.\n\nDélben a La Paz park napsütötte ösvényein tekerünk. A hűvös időben a kisebb emelkedők is kevésbé megterhelőek.\n\nA délután a Valderas kastélyoknál ér minket. A tiszta téli levegőben messzire ellátni. A MAVA múzeum meleg belső tere kiváló pihenő.\n\nAz este korán érkezik. A kivilágított városon keresztül vezető út sportosan zárja a napot.",
+            "ro": "Dimineața rece de iarnă în Alcorcón este perfectă pentru o tură activă cu bicicleta. Plaza de los Reyes de España este punctul ideal de start.\n\nLa prânz, ne bucurăm de soare în Parcul La Paz. Aerul rece face urcările mai puțin obositoare.\n\nDupă-amiaza la Castelul Valderas oferă priveliști largi în aerul clar de iarnă. Muzeul MAVA oferă o pauză de încălzire binevenită.\n\nSeara se lasă repede. O cursă iluminată înapoi prin Alcorcónul hibernal încheie ziua în mod sportiv.",
+            "en": "The winter morning in Alcorcón is cool and perfect for an active bike ride. Plaza de los Reyes de España is the ideal starting point.\n\nAt noon, we enjoy the sun in La Paz Park. The cool air makes the slight inclines much less taxing than in summer.\n\nAfternoon at the Valderas Castles offers wide views in the clear winter air. The MAVA museum provides a welcome warm-up break.\n\nEvening sets in fast. A ride back through the illuminated winter streets of Alcorcón ends the day on a high note."
+          },
+          "stops": [
+            {
+              "name": "Plaza de los Reyes de España",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die Abfahrt am Morgen sehr zu empfehlen.",
+                "hu": "A reggeli induláshoz a kesztyű használata erősen javasolt.",
+                "ro": "Mănușile sunt foarte recomandate pentru plecarea de dimineață.",
+                "en": "Gloves are highly recommended for the chilly morning start."
+              }
+            },
+            {
+              "name": "Santa María la Blanca Church",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; die Kälte zieht schnell in die Glieder beim Stehen.",
+                "hu": "Rövid megálló; a hideg gyorsan átjárja a végtagokat állás közben.",
+                "ro": "Oprire scurtă; frigul pătrunde repede dacă staționați mult.",
+                "en": "Short stop; the cold sets in quickly when you stop moving."
+              }
+            },
+            {
+              "name": "La Paz Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die sonnigen Abschnitte des Weges zum Verweilen.",
+                "hu": "Használja ki az út napsütötte szakaszait a pihenésre.",
+                "ro": "Folosiți secțiunile însorite ale aleilor pentru a vă odihni.",
+                "en": "Take advantage of the sunny sections of the path to linger."
+              }
+            },
+            {
+              "name": "San José de Valderas Castles",
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefstehende Sonne, die beim Fahren blenden kann.",
+                "hu": "Vigyázzon az alacsonyan járó napra, amely elvakíthat menet közben.",
+                "ro": "Atenție la soarele de joasă altitudine care vă poate orbi.",
+                "en": "Watch out for the low winter sun, which can dazzle while riding."
+              }
+            },
+            {
+              "name": "Museum of Glass Art (MAVA)",
+              "tip_5lang": {
+                "de": "Guter Ort, um die Körpertemperatur wieder zu regulieren.",
+                "hu": "Jó hely a testhőmérséklet helyreállítására a tekerés után.",
+                "ro": "Loc bun pentru a vă regla temperatura corpului după pedalat.",
+                "en": "Great place to regulate your body temperature after the ride."
+              }
+            },
+            {
+              "name": "Las Presillas Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Stellen auf den Wegen am frühen Morgen.",
+                "hu": "Ügyeljen a fagyos foltokra az utakon a kora reggeli órákban.",
+                "ro": "Atenție la porțiunile înghețate de pe alei dimineața devreme.",
+                "en": "Watch out for frosty patches on the paths in the early morning."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders für die Abfahrten.",
+              "Stellen Sie sicher, dass Ihre Beleuchtung für die frühe Dämmerung funktioniert.",
+              "Lippenbalsam schützt vor dem kalten Fahrtwind.",
+              "Warme Getränke in einer Thermoskanne sind ideal für Pausen."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot, különösen a lejtőkön.",
+              "Ellenőrizze a világítást a korai sötétedés miatt.",
+              "Az ajakbalzsam védelmet nyújt a hideg menetszél ellen.",
+              "A termoszban vitt meleg ital ideális a pihenőkhöz."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, mai ales pentru coborâri.",
+              "Asigurați-vă că luminile bicicletei funcționează pentru amurgul timpuriu.",
+              "Balsamul de buze protejează împotriva vântului rece de mișcare.",
+              "Băuturile calde într-un termos sunt ideale pentru pauze."
+            ],
+            "en": [
+              "Wear windproof clothing, especially for the downhill sections.",
+              "Ensure your bike lights are working for the early dusk.",
+              "Lip balm protects against the cold wind while riding.",
+              "Hot drinks in a thermos are ideal for outdoor breaks."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1038,6 +1420,188 @@
           "Use the city app for up-to-date information on parking zones.",
           "Avoid the late afternoon rush hour if driving back to Madrid."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt durch Alcorcón bei Regen ist komfortabel und trocken. Der Morgen beginnt mit der Parkplatzsuche nahe der Plaza de los Reyes de España.\n\nMittags erreichen wir die Kirche Santa María. Das Auto bietet Schutz während der kurzen Wege zwischen den Sehenswürdigkeiten.\n\nDer Nachmittag führt zu den Castillos de Valderas. Das MAVA-Museum verfügt über gute Parkmöglichkeiten in der Nähe, ideal bei Schauern.\n\nDer Abend schließt mit einer Fahrt durch die beleuchteten, regennassen Straßen ab, bevor man in ein Restaurant mit Tiefgarage einkehrt.",
+            "hu": "Az autós túra Alcorcónban esőben kényelmes és száraz élmény. A reggel a főtér közeli parkolóhely keresésével indul.\n\nDélben a Santa María templomhoz hajtunk. Az autó védelmet nyújt a látnivalók közötti rövid, vizes szakaszokon.\n\nA délután a Valderas kastélyoknál telik. A MAVA múzeum közelében jó parkolási lehetőség van, ami ideális záporok idején.\n\nAz este a kivilágított, vizes aszfalton való autózással zárul, mielőtt egy mélygarázzsal rendelkező éttermet választanánk.",
+            "ro": "O călătorie cu mașina prin Alcorcón pe ploaie este confortabilă și uscată. Dimineața începe cu găsirea unui loc de parcare lângă Plaza de los Reyes de España.\n\nLa prânz, ajungem la biserica Santa María. Mașina oferă protecție în timpul scurtelor deplasări între obiective.\n\nDupă-amiaza ne conduce la Castelele Valderas. Muzeul MAVA are locuri de parcare bune în apropiere, ideale pe ploaie.\n\nSeara se încheie cu o plimbare prin străzile iluminate și ude, înainte de a opri la un restaurant cu parcare subterană.",
+            "en": "Driving through Alcorcón in the rain is a comfortable and dry experience. Morning begins with finding a parking spot near Plaza de los Reyes de España.\n\nAt noon, we reach the Santa María Church. The car provides excellent shelter during the short transitions between sights.\n\nAfternoon leads to the Valderas Castles. The MAVA museum has convenient parking nearby, perfect for avoiding the rain.\n\nEvening concludes with a drive through the illuminated, rain-slicked streets, heading to a restaurant with underground parking."
+          },
+          "stops": [
+            {
+              "name": "Plaza de los Reyes de España",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser im Zentrum, um trockenen Fußes auszusteigen.",
+                "hu": "Használja a központi parkolóházakat a száraz kiszálláshoz.",
+                "ro": "Folosiți parcările etajate din centru pentru a coborî la uscat.",
+                "en": "Use central parking garages to exit the car in a dry environment."
+              }
+            },
+            {
+              "name": "Santa María la Blanca Church",
+              "tip_5lang": {
+                "de": "Kurzparkzonen in der Nähe beachten; Regenschirm für den Weg bereithalten.",
+                "hu": "Figyeljen a közeli rövidtávú parkolókra; tartson esernyőt az autóban.",
+                "ro": "Atenție la zonele de parcare scurtă; aveți umbrela pregătită.",
+                "en": "Watch for nearby short-stay parking zones; keep an umbrella ready."
+              }
+            },
+            {
+              "name": "Hermitage of Los Remedios",
+              "tip_5lang": {
+                "de": "Ein schneller Stopp ist möglich, Parkplätze direkt davor sind begrenzt.",
+                "hu": "Gyors megállás lehetséges, a parkolóhelyek közvetlenül előtte korlátozottak.",
+                "ro": "O oprire rapidă este posibilă, locurile de parcare sunt limitate.",
+                "en": "A quick stop is possible, though parking directly in front is limited."
+              }
+            },
+            {
+              "name": "San José de Valderas Castles",
+              "tip_5lang": {
+                "de": "Der Parkplatz des MAVA ist oft die beste Option für die Schlösser.",
+                "hu": "A MAVA parkolója gyakran a legjobb opció a kastélyokhoz.",
+                "ro": "Parcarea de la MAVA este adesea cea mai bună opțiune pentru castele.",
+                "en": "The MAVA parking lot is often the best option for visiting the castles."
+              }
+            },
+            {
+              "name": "Museum of Glass Art (MAVA)",
+              "tip_5lang": {
+                "de": "Sicheres Parken direkt am Museum; ideal bei starkem Regen.",
+                "hu": "Biztonságos parkolás közvetlenül a múzeumnál; ideális heves esőben.",
+                "ro": "Parcare sigură direct la muzeu; ideal în caz de ploaie torențială.",
+                "en": "Secure parking directly at the museum; ideal during heavy rain."
+              }
+            },
+            {
+              "name": "Las Presillas Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf dem Parkplatz des Parks.",
+                "hu": "Vigyázzon a nagyobb tócsákra a park parkolójában.",
+                "ro": "Atenție la bălțile mari din parcarea parcului.",
+                "en": "Watch out for large puddles in the park's parking area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Vermeiden Sie tiefgelegene Straßen bei extremem Starkregen.",
+              "Parkhäuser bieten oft den besten Schutz für das Fahrzeug.",
+              "Die Sicht kann bei Regen in den Vororten eingeschränkt sein."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Heves esőzéskor kerülje az alacsonyan fekvő útszakaszokat.",
+              "A parkolóházak nyújtják a legjobb védelmet az autónak.",
+              "A látási viszonyok korlátozottak lehetnek az elővárosi utakon."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de plecare.",
+              "Evitați străzile joase în caz de ploaie torențială extremă.",
+              "Parcările acoperite oferă cea mai bună protecție pentru vehicul.",
+              "Vizibilitatea poate fi redusă pe ploaie în zonele suburbane."
+            ],
+            "en": [
+              "Check your windshield wipers before starting the trip.",
+              "Avoid low-lying road sections during extreme heavy rain.",
+              "Parking garages offer the best protection for your vehicle.",
+              "Visibility can be limited on suburban roads during downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger Wintertag in Alcorcón lädt zur Fahrt ein. Die klare Sicht auf die umliegenden Berge ist am Morgen beeindruckend.\n\nMittags erkunden wir die historischen Punkte. Die Heizung im Auto macht die Fahrt zwischen den Stationen sehr angenehm.\n\nDer Nachmittag am Castillo de Valderas bietet goldenes Licht für Fotografen. Das MAVA-Museum ist ein warmer Ruhepunkt.\n\nDer Abend beginnt mit einer Fahrt durch das festlich beleuchtete Stadtzentrum, bevor man den Tag bei einem gemütlichen Abendessen abschließt.",
+            "hu": "Egy napsütötte téli nap Alcorcónban tökéletes az autózáshoz. A környékbeli hegyekre nyíló tiszta kilátás reggel lenyűgöző.\n\nDélben a történelmi pontokat fedezzük fel. Az autó fűtése kellemessé teszi a megállók közötti utazást.\n\nA délután a Valderas kastélynál arany fényeket kínál a fotósoknak. A MAVA múzeum meleg pihenőhely.\n\nAz este a díszesen kivilágított városközponton keresztüli autózással indul, mielőtt egy hangulatos vacsorával zárnánk a napot.",
+            "ro": "O zi însorită de iarnă în Alcorcón vă invită la drum. Vederea clară spre munții din jur este impresionantă dimineața.\n\nLa prânz, explorăm punctele istorice. Încălzirea din mașină face călătoria între stații foarte plăcută.\n\nDupă-amiaza la Castelul Valderas oferă o lumină aurie perfectă pentru fotografii. Muzeul MAVA este un punct de relaxare cald.\n\nSeara începe cu o plimbare prin centrul orașului iluminat festiv, înainte de a încheia ziua cu o cină primitoare.",
+            "en": "A sunny winter day in Alcorcón is perfect for a drive. The clear view of the surrounding mountains is impressive in the morning.\n\nAt noon, we explore the historical landmarks. The car's heating makes the travel between stops very comfortable.\n\nAfternoon at the Valderas Castle offers golden light for photography. The MAVA museum is a warm and quiet resting point.\n\nEvening begins with a drive through the festively lit city center, before concluding the day with a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Plaza de los Reyes de España",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Parkplatzverfügbarkeit online; im Winter oft einfacher.",
+                "hu": "Ellenőrizze a parkolóhelyeket online; télen gyakran könnyebb találni.",
+                "ro": "Verificați disponibilitatea parcării online; iarna este adesea mai ușor.",
+                "en": "Check parking availability online; it's often easier to find a spot in winter."
+              }
+            },
+            {
+              "name": "Santa María la Blanca Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Basis, um schwere Wintermäntel zwischenzulagern.",
+                "hu": "Használja az autót bázisként a nehéz télikabátok tárolására.",
+                "ro": "Folosiți mașina ca bază pentru a lăsa hainele groase de iarnă.",
+                "en": "Use the car as a base to store heavy winter coats between walks."
+              }
+            },
+            {
+              "name": "Hermitage of Los Remedios",
+              "tip_5lang": {
+                "de": "Gute Sichtbarkeit der Kapelle in der klaren Winterluft.",
+                "hu": "A kápolna kiválóan látható a tiszta téli levegőben.",
+                "ro": "Vizibilitate excelentă a capelei în aerul clar de iarnă.",
+                "en": "Great visibility of the hermitage in the crisp winter air."
+              }
+            },
+            {
+              "name": "San José de Valderas Castles",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken unter Bäumen wegen möglichem Frost oder Ästen.",
+                "hu": "Kerülje a fák alatti parkolást az esetleges fagy vagy ágak miatt.",
+                "ro": "Evitați parcarea sub copaci din cauza posibilului îngheț sau a crengilor.",
+                "en": "Avoid parking under trees due to potential frost or falling branches."
+              }
+            },
+            {
+              "name": "Museum of Glass Art (MAVA)",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Zeit bis zum frühen Sonnenuntergang zu verbringen.",
+                "hu": "Ideális hely az időtöltésre a korai naplemente előtt.",
+                "ro": "Un loc ideal pentru a petrece timpul până la apusul devreme.",
+                "en": "An ideal place to spend time until the early winter sunset."
+              }
+            },
+            {
+              "name": "Las Presillas Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Wildtiere, die im Winter näher an die Straßen kommen.",
+                "hu": "Ügyeljen a vadon élő állatokra, amelyek télen közelebb jöhetnek az úthoz.",
+                "ro": "Atenție la animalele sălbatice care se pot apropia de drum iarna.",
+                "en": "Watch out for wildlife that may come closer to the roads in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutzmittel im Scheibenwaschwasser ist im Winter wichtig.",
+              "Prüfen Sie den Reifendruck bei sinkenden Temperaturen.",
+              "Nutzen Sie die Sitzheizung für zusätzlichen Komfort.",
+              "Die Hauptstraßen sind meist gut gestreut und sicher."
+            ],
+            "hu": [
+              "Télen fontos a fagyálló szélvédőmosó folyadék használata.",
+              "Ellenőrizze a guminyomást a csökkenő hőmérséklet mellett.",
+              "Használja az ülésfűtést a plusz kényelem érdekében.",
+              "A főutak általában jól tisztítottak és biztonságosak."
+            ],
+            "ro": [
+              "Lichidul de parbriz cu protecție la îngheț este important iarna.",
+              "Verificați presiunea în anvelope la scăderea temperaturilor.",
+              "Folosiți încălzirea în scaune pentru un plus de confort.",
+              "Drumurile principale sunt de obicei bine întreținute și sigure."
+            ],
+            "en": [
+              "Anti-frost windshield washer fluid is important in winter.",
+              "Check tire pressure as temperatures drop.",
+              "Utilize seat heating for extra comfort during the drive.",
+              "Main roads are usually well-maintained and safe during winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1374,6 +1938,188 @@
           "The buses run very regularly between the center and the parks.",
           "Check the opening times of the theater and museum in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit den öffentlichen Verkehrsmitteln bleibt man in Alcorcón bei Regen meist im Trockenen. Der Morgen beginnt mit der Metro Sur bis zum Zentrum.\n\nMittags führt der Weg zur Santa María Kirche, die von den Busstationen gut erreichbar ist.\n\nDer Nachmittag gehört den Castillos de Valderas. Die Bahnhöfe der Cercanías bieten guten Schutz vor Wind und Wetter.\n\nDer Abend endet mit einer schnellen Fahrt zurück, wobei man die Regentropfen an den Fenstern der Bahn beobachtet.",
+            "hu": "A tömegközlekedéssel Alcorcónban esőben is többnyire szárazon maradhatunk. A reggel a Metro Sur vonalán indul a központ felé.\n\nDélben a Santa María templomhoz látogatunk, amely a buszmegállóktól könnyen elérhető.\n\nA délután a Valderas kastélyoké. A Cercanías vasútállomások jó védelmet nyújtanak a szél és az eső ellen.\n\nAz este egy gyors visszautazással zárul, miközben a vonat ablakán lefolyó esőcseppeket nézhetjük.",
+            "ro": "Cu transportul public din Alcorcón rămâneți în mare parte uscați pe timp de ploaie. Dimineața începe cu Metro Sur spre centru.\n\nLa prânz, mergem la biserica Santa María, ușor accesibilă de la stațiile de autobuz.\n\nDupă-amiaza aparține Castelelor Valderas. Gările Cercanías oferă o protecție bună împotriva vântului și a ploii.\n\nSeara se încheie cu o întoarcere rapidă, privind picăturile de ploaie pe geamurile trenului.",
+            "en": "Public transit in Alcorcón keeps you mostly dry during rainy days. Morning starts with the Metro Sur heading towards the city center.\n\nAt noon, we visit Santa María Church, which is easily accessible from nearby bus stops.\n\nAfternoon is spent at the Valderas Castles. The Cercanías train stations provide good shelter from wind and wet weather.\n\nEvening concludes with a quick ride back, watching the raindrops slide down the train windows."
+          },
+          "stops": [
+            {
+              "name": "Plaza de los Reyes de España",
+              "tip_5lang": {
+                "de": "Die Metrostation Alcorcón Central ist nur wenige Gehminuten entfernt.",
+                "hu": "Az Alcorcón Central metróállomás csak pár perc sétára található.",
+                "ro": "Stația de metrou Alcorcón Central este la doar câteva minute de mers.",
+                "en": "Alcorcón Central metro station is only a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Santa María la Blanca Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bushaltestellen in der Nähe.",
+                "hu": "Használja a közelben található fedett buszmegállókat.",
+                "ro": "Folosiți stațiile de autobuz acoperite din apropiere.",
+                "en": "Make use of the covered bus stops located nearby."
+              }
+            },
+            {
+              "name": "Buero Vallejo Theatre",
+              "tip_5lang": {
+                "de": "Gute Busverbindungen direkt vor dem Theatergebäude.",
+                "hu": "Kiváló buszkapcsolatok közvetlenül a színház épülete előtt.",
+                "ro": "Conexiuni bune de autobuz chiar în fața clădirii teatrului.",
+                "en": "Excellent bus connections right in front of the theatre building."
+              }
+            },
+            {
+              "name": "La Paz Park",
+              "tip_5lang": {
+                "de": "Die Metrostation Puerta del Sur bietet einen direkten Zugang zum Parkbereich.",
+                "hu": "A Puerta del Sur metróállomás közvetlen hozzáférést ad a parkhoz.",
+                "ro": "Stația de metrou Puerta del Sur oferă acces direct la zona parcului.",
+                "en": "Puerta del Sur metro station provides direct access to the park area."
+              }
+            },
+            {
+              "name": "San José de Valderas Castles",
+              "tip_5lang": {
+                "de": "Der Bahnhof San José de Valderas ist ideal für diesen Stopp.",
+                "hu": "A San José de Valderas vasútállomás ideális ehhez a megállóhoz.",
+                "ro": "Gara San José de Valderas este ideală pentru această oprire.",
+                "en": "San José de Valderas train station is ideal for reaching this stop."
+              }
+            },
+            {
+              "name": "Museum of Glass Art (MAVA)",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Bahnhof; Regenschirm für die Distanz einplanen.",
+                "hu": "Rövid séta az állomástól; tervezzen esernyővel a távra.",
+                "ro": "Drum scurt pe jos de la gară; planificați folosirea umbrelei.",
+                "en": "Short walk from the station; plan for an umbrella for the distance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App des CRTM für Echtzeit-Informationen bei Verspätungen.",
+              "Die Metrostationen sind oft der trockenste Ort zum Umsteigen.",
+              "Halten Sie Ihre Transportkarte griffbereit, um Wartezeiten im Regen zu vermeiden.",
+              "Züge können bei schlechtem Wetter voller sein."
+            ],
+            "hu": [
+              "Használja a CRTM alkalmazást a valós idejű közlekedési adatokhoz.",
+              "A metróállomások a legszárazabb helyek az átszálláshoz.",
+              "Tartsa készenlétben a közlekedési kártyáját a gyorsabb haladáshoz.",
+              "Rossz idő esetén a járatok zsúfoltabbak lehetnek."
+            ],
+            "ro": [
+              "Folosiți aplicația CRTM pentru informații în timp real despre întârzieri.",
+              "Stațiile de metrou sunt cele mai uscate locuri pentru transferuri.",
+              "Aveți cardul de transport la îndemână pentru a evita așteptarea în ploaie.",
+              "Trenurile pot fi mai aglomerate pe timp de ploaie."
+            ],
+            "en": [
+              "Use the CRTM app for real-time updates during weather-related delays.",
+              "Metro stations are often the driest places for transferring between lines.",
+              "Keep your transport card ready to minimize time spent in the rain.",
+              "Trains and buses might be more crowded than usual during bad weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen mit der Metro macht den Start in Alcorcón stressfrei. Die Bahnhöfe sind am Morgen belebt.\n\nMittags besuchen wir die Sehenswürdigkeiten im Zentrum. Die geheizten Busse sind eine willkommene Pause zwischen den Spaziergängen.\n\nDer Nachmittag am Castillo de Valderas wird durch die gute Anbindung an die Cercanías erleichtert. Die goldene Stunde wirkt hier besonders schön.\n\nDer Abend schließt mit einer gemütlichen Fahrt zurück ab, während man die Lichter der Stadt im Dunkeln bewundert.",
+            "hu": "A tiszta téli reggel a metrón zökkenőmentes kezdést biztosít Alcorcónban. Az állomások ilyenkor élettel teliek.\n\nDélben a központi látnivalókat keressük fel. A fűtött buszok kellemes pihenőt jelentenek a séták között.\n\nA délután a Valderas kastélynál a Cercanías jó összeköttetésének köszönhetően kényelmes. Az aranyóra itt különösen szép.\n\nAz este egy hangulatos visszautazással zárul, miközben a város sötétben feltűnő fényeit csodálhatjuk.",
+            "ro": "O dimineață senină de iarnă cu metroul asigură un start fără stres în Alcorcón. Stațiile sunt pline de viață dimineața.\n\nLa prânz, vizităm obiectivele din centru. Autobuzele încălzite sunt o pauză binevenită între plimbări.\n\nDupă-amiaza la Castelul Valderas este facilitată de conexiunea bună cu Cercanías. Ora de aur arată superb aici.\n\nSeara se încheie cu o întoarcere plăcută, admirând luminile orașului pe întuneric.",
+            "en": "A clear winter morning on the metro provides a stress-free start in Alcorcón. The stations are buzzing with energy in the morning.\n\nAt noon, we visit the central sights. The heated buses offer a welcome respite between our short walks.\n\nAfternoon at the Valderas Castle is made easy by the good Cercanías connections. The golden hour looks especially beautiful here.\n\nEvening concludes with a cozy ride back, admiring the city lights shining through the darkness."
+          },
+          "stops": [
+            {
+              "name": "Plaza de los Reyes de España",
+              "tip_5lang": {
+                "de": "Die Metro ist im Winter oft pünktlicher als der Straßenverkehr.",
+                "hu": "A metró télen gyakran pontosabb, mint a felszíni közlekedés.",
+                "ro": "Metroul este adesea mai punctual decât traficul rutier iarna.",
+                "en": "The metro is often more punctual than road traffic during winter."
+              }
+            },
+            {
+              "name": "Santa María la Blanca Church",
+              "tip_5lang": {
+                "de": "Bahnhöfe und Busse sind gut beheizt; ideal zum Aufwärmen.",
+                "hu": "Az állomások és buszok jól fűtöttek; ideálisak a felmelegedésre.",
+                "ro": "Gările și autobuzele sunt bine încălzite; ideale pentru încălzire.",
+                "en": "Stations and buses are well-heated; ideal for warming up briefly."
+              }
+            },
+            {
+              "name": "Buero Vallejo Theatre",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abendfahrpläne, da es im Winter früher dunkel wird.",
+                "hu": "Ellenőrizze az esti menetrendet, mivel télen korábban sötétedik.",
+                "ro": "Verificați orarul de seară, deoarece se întunecă mai devreme iarna.",
+                "en": "Check evening schedules, as it gets dark much earlier in winter."
+              }
+            },
+            {
+              "name": "La Paz Park",
+              "tip_5lang": {
+                "de": "Kurze Wege von der Metro minimieren die Zeit in der Kälte.",
+                "hu": "A metrótól való rövid távolság minimalizálja a hidegben töltött időt.",
+                "ro": "Distanța scurtă de la metrou minimizează timpul petrecut în frig.",
+                "en": "Short distances from the metro minimize time spent in the cold."
+              }
+            },
+            {
+              "name": "San José de Valderas Castles",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet einen windgeschützten Wartebereich.",
+                "hu": "A vasútállomás szélvédett várótermet kínál.",
+                "ro": "Gara oferă o zonă de așteptare protejată de vânt.",
+                "en": "The train station provides a wind-protected waiting area."
+              }
+            },
+            {
+              "name": "Museum of Glass Art (MAVA)",
+              "tip_5lang": {
+                "de": "Achten Sie auf die letzte Abfahrt der Cercanías am Abend.",
+                "hu": "Figyeljen a Cercanías utolsó esti indulási időpontjaira.",
+                "ro": "Atenție la orele de plecare ale ultimelor trenuri Cercanías.",
+                "en": "Pay attention to the last Cercanías train departures in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Metro Sur (Linie 12) ist im Winter sehr zuverlässig.",
+              "Wartebereiche in Bahnhöfen sind meist wärmer als Bushaltestellen.",
+              "Achten Sie auf die reduzierte Taktung an Feiertagen im Winter.",
+              "Tragen Sie Mütze und Schal für die Wege zwischen den Stationen."
+            ],
+            "hu": [
+              "A Metro Sur (12-es vonal) télen is nagyon megbízható.",
+              "A vasútállomások várótermei általában melegebbek, mint a buszmegállók.",
+              "Figyeljen az ünnepnapi menetrendre a téli időszakban.",
+              "Viseljen sapkát és sálat az állomások közötti sétákhoz."
+            ],
+            "ro": [
+              "Metro Sur (Linia 12) este foarte fiabil în timpul iernii.",
+              "Zonele de așteptare din gări sunt de obicei mai calde decât stațiile de autobuz.",
+              "Atenție la programul redus în timpul sărbătorilor de iarnă.",
+              "Purtați căciulă și fular pentru deplasările între stații."
+            ],
+            "en": [
+              "Metro Sur (Line 12) is very reliable during the winter months.",
+              "Waiting areas in train stations are usually warmer than bus stops.",
+              "Be aware of reduced schedules during winter public holidays.",
+              "Wear a hat and scarf for the walking segments between stations."
+            ]
+          }
+        }
       }
     }
   }

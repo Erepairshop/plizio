@@ -312,6 +312,224 @@
           "Visit the Sea Organ when it's slightly windy.",
           "The bell tower is most crowded around noon."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Landtor und Fünf-Brunnen-Platz mit Regenschirmen. Mittags bieten die Donatuskirche und die Kathedrale Schutz vor dem Regen. Nachmittags schlendern Sie die Kalelarga entlang und pausieren in Cafés. Abends erleben Sie die Meeresorgel bei dramatischem, nassem Wetter.",
+            "hu": "Kezdjen a Szárazföldi kapunál és az Öt kút terénél esernyővel a kézben. Délben a Szent Donát-templom és a Katedrális nyújt menedéket az eső elől. Délután sétáljon végig a Kalelargán, beülve egy kávézóba. Este drámai, esős időben hallgassa meg a Tengeri orgonát.",
+            "ro": "Începeți la Poarta Terestră și Piața celor Cinci Fântâni cu umbrela. La prânz, Biserica Sf. Donat și Catedrala oferă adăpost de ploaie. După-amiază, plimbați-vă pe Kalelarga, oprindu-vă la cafenele. Seara, ascultați Orga Mării și Salutați Soarele pe o vreme umedă, dramatică.",
+            "en": "Start at the Land Gate and Five Wells Square, using umbrellas in the open. Midday, seek shelter in St. Donatus and the Cathedral to escape the rain. Afternoon, stroll down the Kalelarga, stopping at cafes. Evening, experience the Sea Organ and Sun Salutation in the dramatic wet weather."
+          },
+          "stops": [
+            {
+              "name": "Land Gate",
+              "tip_5lang": {
+                "de": "Achten Sie auf das nasse Pflaster.",
+                "hu": "Vigyázzon a lépteire a nedves burkolaton.",
+                "ro": "Atenție la pași pe pavajul umed.",
+                "en": "Watch your step on the wet pavement."
+              }
+            },
+            {
+              "name": "Five Wells Square",
+              "tip_5lang": {
+                "de": "Der Platz kann bei Nässe rutschig sein.",
+                "hu": "A tér nedvesen csúszós lehet.",
+                "ro": "Piața poate fi alunecoasă când este udă.",
+                "en": "The square can be slippery when wet."
+              }
+            },
+            {
+              "name": "Church of St. Donatus",
+              "tip_5lang": {
+                "de": "Guter Unterschlupf, um sich aufzuwärmen.",
+                "hu": "Remek menedék a száradáshoz.",
+                "ro": "Adăpost perfect pentru a vă usca.",
+                "en": "Great shelter to dry off and explore."
+              }
+            },
+            {
+              "name": "Roman Forum",
+              "tip_5lang": {
+                "de": "Die Steine sind im Regen sehr glatt.",
+                "hu": "A kövek esőben nagyon csúszósak.",
+                "ro": "Pietrele sunt foarte alunecoase pe ploaie.",
+                "en": "Stones are very slick in the rain."
+              }
+            },
+            {
+              "name": "Cathedral of St. Anastasia",
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren Regenschirm draußen.",
+                "hu": "Az esernyőt hagyja kint.",
+                "ro": "Lăsați umbrela afară.",
+                "en": "Keep your umbrella outside."
+              }
+            },
+            {
+              "name": "Kalelarga",
+              "tip_5lang": {
+                "de": "Flüchten Sie bei Schauern in die Geschäfte.",
+                "hu": "Meneküljön az üzletekbe a záporok elől.",
+                "ro": "Intrați în magazine pentru a scăpa de ploi.",
+                "en": "Duck into the shops to escape showers."
+              }
+            },
+            {
+              "name": "Sea Organ",
+              "tip_5lang": {
+                "de": "Erwarten Sie spritzende Wellen auf den Stufen.",
+                "hu": "Számítson a lépcsőkre csapódó hullámokra.",
+                "ro": "Așteptați-vă la valuri care se sparg pe trepte.",
+                "en": "Expect splashing waves on the steps."
+              }
+            },
+            {
+              "name": "Sun Salutation",
+              "tip_5lang": {
+                "de": "Schöne Reflexionen auf dem nassen Glas.",
+                "hu": "Gyönyörű tükröződések a nedves üvegen.",
+                "ro": "Reflexii frumoase pe sticla umedă.",
+                "en": "Beautiful reflections on the wet glass."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie rutschfeste Schuhe für das nasse Kopfsteinpflaster.",
+              "Halten Sie einen Regenschirm oder eine Regenjacke bereit.",
+              "Planen Sie Pausen in Cafés, da vieles im Freien liegt.",
+              "Die Meeresorgel klingt bei Sturm lauter und wilder."
+            ],
+            "hu": [
+              "Viseljen csúszásmentes cipőt a nedves kőburkolaton.",
+              "Legyen kéznél egy kompakt esernyő vagy esőkabát.",
+              "Tervezzen be kávézós pihenőket, mert sok látnivaló kint van.",
+              "A Tengeri orgona viharos időben hangosabban szól."
+            ],
+            "ro": [
+              "Purtați încălțăminte antiderapantă pe pavajul umed.",
+              "Păstrați la îndemână o umbrelă sau o pelerină.",
+              "Planificați pauze în cafenele, multe obiective fiind afară.",
+              "Orga Mării sună mai puternic și diferit pe timp de furtună."
+            ],
+            "en": [
+              "Wear slip-resistant shoes for the wet stone pavements.",
+              "Keep a compact umbrella or raincoat handy.",
+              "Many sights are outdoors, so plan indoor cafe breaks.",
+              "The Sea Organ sounds different and louder during storms."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Landtor in der frischen Morgenluft. Mittags erkunden Sie die Donatuskirche und das Forum Romanum ohne die Sommermassen. Nachmittags spazieren Sie die Kalelarga entlang und wärmen sich bei einem Kaffee auf. Abends erleben Sie den frühen Sonnenuntergang an der Meeresorgel.",
+            "hu": "Kezdjen a Szárazföldi kapunál a csípős reggeli levegőn. Délben fedezze fel a Szent Donát-templomot és a Fórumot a nyári tömeg nélkül. Délután sétáljon végig a Kalelargán, és melegedjen fel egy kávéval. Este csípje el a korai naplementét a Tengeri orgonánál.",
+            "ro": "Începeți la Poarta Terestră în aerul proaspăt al dimineții. La prânz, explorați Biserica Sf. Donat și Forumul fără aglomerația de vară. După-amiază, plimbați-vă pe Kalelarga pentru o cafea caldă. Seara, prindeți apusul devreme la Orga Mării.",
+            "en": "Start at the Land Gate and Five Wells in the crisp morning air. Midday, explore St. Donatus and the Roman Forum without the summer crowds. Afternoon, walk down Kalelarga to warm up with coffee. Evening, catch the early sunset at the Sea Organ and Sun Salutation."
+          },
+          "stops": [
+            {
+              "name": "Land Gate",
+              "tip_5lang": {
+                "de": "Weniger Leute bedeuten bessere Fotos.",
+                "hu": "Kevesebb ember, jobb fotók.",
+                "ro": "Mai puțini oameni înseamnă poze mai bune.",
+                "en": "Fewer crowds make for better photos."
+              }
+            },
+            {
+              "name": "Five Wells Square",
+              "tip_5lang": {
+                "de": "Im Winter etwas windig, warm einpacken.",
+                "hu": "Télen kissé szeles, öltözzön fel melegen.",
+                "ro": "Puțin vânt iarna, înfofoliți-vă.",
+                "en": "A bit windy in winter, wrap up warm."
+              }
+            },
+            {
+              "name": "Church of St. Donatus",
+              "tip_5lang": {
+                "de": "Kaltes Steininneres, tragen Sie eine warme Jacke.",
+                "hu": "Hideg kőbelső, viseljen meleg kabátot.",
+                "ro": "Interior rece din piatră, purtați o geacă caldă.",
+                "en": "Cold stone interior, wear a warm jacket."
+              }
+            },
+            {
+              "name": "Roman Forum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruinen ganz für sich allein.",
+                "hu": "Élvezze a romokat teljesen egyedül.",
+                "ro": "Bucurați-vă de ruine doar pentru voi.",
+                "en": "Enjoy the ruins entirely to yourself."
+              }
+            },
+            {
+              "name": "Cathedral of St. Anastasia",
+              "tip_5lang": {
+                "de": "Prüfen Sie die verkürzten Winteröffnungszeiten.",
+                "hu": "Ellenőrizze a rövidített téli nyitvatartást.",
+                "ro": "Verificați programul scurtat de iarnă.",
+                "en": "Check shortened winter opening hours."
+              }
+            },
+            {
+              "name": "Kalelarga",
+              "tip_5lang": {
+                "de": "Perfekt für eine Pause mit heißer Schokolade.",
+                "hu": "Tökéletes egy forró csokis megállóra.",
+                "ro": "Perfect pentru o pauză de ciocolată caldă.",
+                "en": "Perfect for a hot chocolate stop."
+              }
+            },
+            {
+              "name": "Sea Organ",
+              "tip_5lang": {
+                "de": "Die winterliche Meeresbrise kann hier beißend sein.",
+                "hu": "A téli tengeri szél itt metsző lehet.",
+                "ro": "Briza mării de iarnă poate fi pătrunzătoare aici.",
+                "en": "The winter sea breeze can be piercing here."
+              }
+            },
+            {
+              "name": "Sun Salutation",
+              "tip_5lang": {
+                "de": "Leuchtet wegen des frühen Sonnenuntergangs früh auf.",
+                "hu": "A korai naplemente miatt korán felgyullad.",
+                "ro": "Se aprinde devreme datorită apusului de iarnă.",
+                "en": "Lights up early due to the winter sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Kleidungschichten gegen die Küstenbrise.",
+              "Sonnenuntergang ist gegen 16:30 Uhr, planen Sie entsprechend.",
+              "Viele Cafés haben Heizstrahler im Freien.",
+              "Genießen Sie die ruhigen, leeren historischen Stätten."
+            ],
+            "hu": [
+              "Öltözzön melegen, rétegesen a hűvös parti szél ellen.",
+              "A naplemente 16:30 körül van, tervezzen ezzel.",
+              "Sok kávézó teraszán vannak hősugárzók.",
+              "Élvezze a békés, üres történelmi helyszíneket."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru briza rece de coastă.",
+              "Apusul este în jur de 16:30, planificați corespunzător.",
+              "Multe cafenele au încălzitoare de exterior.",
+              "Bucurați-vă de siturile istorice liniștite și goale."
+            ],
+            "en": [
+              "Dress in warm layers for the cool coastal breeze.",
+              "Sunset is around 16:30, plan accordingly.",
+              "Many outdoor cafes have outdoor heaters.",
+              "Enjoy the peaceful, empty historical sites."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -319,7 +537,7 @@
       "speed_kmh": 10,
       "start": "09:00",
       "end_estimate": "15:45",
-      "total_km": 2.5,
+      "total_km": 6.5,
       "stop_count": 5,
       "stops": [
         {
@@ -567,6 +785,170 @@
           "Always lock your bike securely.",
           "Watch out for pedestrians in the old town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie mit Regenkleidung am Leuchtturm Puntamika. Mittags radeln Sie vorbei am Strand Borik und der Diklo-Promenade, Vorsicht auf nassen Wegen. Nachmittags fahren Sie durch den Kiefernwald Kožino, der etwas Schutz bietet. Abends erreichen Sie die Altstadt von Nin und trocknen sich in einer Konoba.",
+            "hu": "Kezdjen esőruhában a Puntamika világítótoronynál, élvezve a ködös parti kilátást. Délben tekerjen el a Borik strand és a Diklo sétány mellett, óvatosan a nedves utakon. Délután a Kožino fenyőerdő nyújt némi menedéket. Este érjen Nin óvárosába, és szárátkozzon meg egy meleg tavernálban.",
+            "ro": "Începeți la Farul Puntamika cu echipament de ploaie, admirând priveliștile cețoase. La prânz, pedalați pe lângă plaja Borik și promenada Diklo, cu atenție pe aleile umede. După-amiază, traversați pădurea de pini Kožino pentru adăpost. Seara, ajungeți în orașul vechi Nin și uscați-vă într-o tavernă caldă.",
+            "en": "Start at Puntamika Lighthouse with rain gear, embracing the misty coastal views. Midday, pedal past Borik Beach and Diklo Promenade, careful on wet paths. Afternoon, ride through Kožino Pine Forest for some tree cover. Evening, arrive in Nin Old Town, finding a warm tavern to dry off."
+          },
+          "stops": [
+            {
+              "name": "Puntamika Lighthouse",
+              "tip_5lang": {
+                "de": "Der Weg kann schlammig sein, fahren Sie langsam.",
+                "hu": "Az út saras lehet, haladjon lassan.",
+                "ro": "Calea poate fi noroioasă, mergeți încet.",
+                "en": "The path can be muddy, go slow."
+              }
+            },
+            {
+              "name": "Borik Beach",
+              "tip_5lang": {
+                "de": "Leerer Strand, aber die Wege sind sehr rutschig.",
+                "hu": "Üres strand, de az utak nagyon csúszósak.",
+                "ro": "Plajă goală, dar potecile sunt destul de alunecoase.",
+                "en": "Empty beach, but paths are quite slick."
+              }
+            },
+            {
+              "name": "Diklo Promenade",
+              "tip_5lang": {
+                "de": "Achten Sie auf Spritzwasser von vorbeifahrenden Autos.",
+                "hu": "Vigyázzon az elhaladó autók felcsapódó vizére.",
+                "ro": "Atenție la stropii de la mașinile care trec.",
+                "en": "Watch out for splashing from passing cars."
+              }
+            },
+            {
+              "name": "Kožino Pine Forest",
+              "tip_5lang": {
+                "de": "Bäume bieten guten Schutz vor starkem Regen.",
+                "hu": "A fák jó menedéket nyújtanak a heves eső elől.",
+                "ro": "Copacii oferă un bun adăpost împotriva ploii torențiale.",
+                "en": "Trees provide good shelter from heavy rain."
+              }
+            },
+            {
+              "name": "Nin Old Town",
+              "tip_5lang": {
+                "de": "Die Steinbrücke ist bei Nässe sehr rutschig.",
+                "hu": "A kőhíd nedvesen nagyon csúszós.",
+                "ro": "Podul de piatră este foarte alunecos când este ud.",
+                "en": "The stone bridge is very slippery when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie hochwertige wasserdichte Jacken und Hosen.",
+              "Bremsen Sie auf den nassen Küstenwegen früher als sonst.",
+              "Schutzbleche sind unerlässlich, um Schlamm fernzuhalten.",
+              "Vorsicht vor rutschigen Holzplanken und markierten Linien."
+            ],
+            "hu": [
+              "Viseljen jó minőségű vízálló kabátot és nadrágot.",
+              "Fékezzen korábban a nedves tengerparti utakon.",
+              "A sárvédő elengedhetetlen, hogy tisztán tartsa a hátát.",
+              "Óvakodjon a csúszós fadeszkáktól és az útburkolati jelektől."
+            ],
+            "ro": [
+              "Purtați o jachetă impermeabilă și pantaloni de calitate.",
+              "Frânați mai devreme pe căile de coastă umede.",
+              "Aripile sunt esențiale pentru a vă proteja de noroi.",
+              "Atenție la scândurile de lemn alunecoase și marcajele rutiere."
+            ],
+            "en": [
+              "Wear a high-quality waterproof jacket and trousers.",
+              "Brake earlier than usual on wet coastal paths.",
+              "Fenders are essential to keep mud off your back.",
+              "Beware of slippery wooden planks and painted road lines."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Leuchtturm Puntamika in der frischen Morgenluft. Mittags radeln Sie vorbei am verlassenen Borik-Strand und der Diklo-Promenade. Nachmittags fahren Sie durch den Kiefernwald Kožino, während die Sonne tiefer steht. Abends erreichen Sie Nin kurz vor dem frühen Sonnenuntergang.",
+            "hu": "Kezdjen a Puntamika világítótoronynál a friss reggeli levegőn. Délben tekerjen el a néptelen Borik strand és Diklo sétány mellett, élvezve a békét. Délután lovagoljon át a Kožino fenyőerdőn a lemenő napfényben. Este érjen Nin óvárosába közvetlenül a korai 16:30-as naplemente előtt.",
+            "ro": "Începeți la Farul Puntamika în aerul rece al dimineții. La prânz, pedalați pe lângă plaja Borik pustie și promenada Diklo, bucurându-vă de pace. După-amiază, călătoriți prin pădurea Kožino în lumina soarelui de apus. Seara, ajungeți în orașul vechi Nin chiar înainte de apusul de la 16:30.",
+            "en": "Start at Puntamika Lighthouse in the brisk morning air. Midday, pedal past the deserted Borik Beach and Diklo Promenade, enjoying the peace. Afternoon, ride through Kožino Pine Forest as the sun begins to lower. Evening, reach Nin Old Town just before the early 16:30 sunset."
+          },
+          "stops": [
+            {
+              "name": "Puntamika Lighthouse",
+              "tip_5lang": {
+                "de": "Tolles, klares Licht für die Morgenfotografie.",
+                "hu": "Remek tiszta fény a reggeli fotózáshoz.",
+                "ro": "Lumină clară excelentă pentru fotografia de dimineață.",
+                "en": "Great crisp light for morning photography."
+              }
+            },
+            {
+              "name": "Borik Beach",
+              "tip_5lang": {
+                "de": "Völlig verlassen, toll für eine ruhige Pause.",
+                "hu": "Teljesen elhagyatott, remek egy csendes pihenőre.",
+                "ro": "Complet pustie, excelent pentru o pauză liniștită.",
+                "en": "Completely deserted, great for a quiet break."
+              }
+            },
+            {
+              "name": "Diklo Promenade",
+              "tip_5lang": {
+                "de": "Warm anziehen, der Seewind ist kalt.",
+                "hu": "Öltözzön fel, a tenger felől fújó szél hideg.",
+                "ro": "Îmbrăcați-vă bine, vântul dinspre mare este rece.",
+                "en": "Wrap up, the wind coming off the sea is cold."
+              }
+            },
+            {
+              "name": "Kožino Pine Forest",
+              "tip_5lang": {
+                "de": "Der Wald ist am Nachmittag früher dunkel.",
+                "hu": "Az erdő korábban sötétedik délután.",
+                "ro": "Pădurea este mai întunecată mai devreme după-amiaza.",
+                "en": "Forest is darker earlier in the afternoon."
+              }
+            },
+            {
+              "name": "Nin Old Town",
+              "tip_5lang": {
+                "de": "Viele Cafés schließen im Winter, bringen Sie Snacks mit.",
+                "hu": "Sok kávézó zárva télen, hozzon harapnivalót.",
+                "ro": "Multe cafenele se închid iarna, aduceți gustări.",
+                "en": "Many cafes close in winter, bring snacks."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung gegen die Küstenbrise.",
+              "Tragen Sie warme Handschuhe und ein Stirnband unter dem Helm.",
+              "Die Sonne geht früh unter; prüfen Sie Ihre Fahrradlichter.",
+              "Kontrollieren Sie den Reifendruck, Kälte senkt ihn."
+            ],
+            "hu": [
+              "Öltözzön szélálló rétegekbe a parti szél ellen.",
+              "Viseljen meleg kesztyűt és fejpántot a sisak alatt.",
+              "A nap korán nyugszik; ellenőrizze a kerékpárlámpákat.",
+              "Ellenőrizze a guminyomást, a hideg levegő csökkenti."
+            ],
+            "ro": [
+              "Îmbrăcați haine rezistente la vânt pentru briza de coastă.",
+              "Purtați mănuși calde și o bentiță sub cască.",
+              "Soarele apune devreme; asigurați-vă că luminile sunt încărcate.",
+              "Verificați presiunea în anvelope, aerul rece o reduce."
+            ],
+            "en": [
+              "Layer up with windproof gear for the coastal breeze.",
+              "Wear warm gloves and a headband under your helmet.",
+              "The sun sets early; ensure your bike lights are charged.",
+              "Check tire pressure, cold air can reduce it."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -574,7 +956,7 @@
       "speed_kmh": 28,
       "start": "09:00",
       "end_estimate": "17:30",
-      "total_km": 6.0,
+      "total_km": 15.5,
       "stop_count": 5,
       "stops": [
         {
@@ -802,6 +1184,170 @@
           "Pay attention to parking zones and pay on time.",
           "A car is ideal for visiting beaches outside the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Hafen Gaženica im trockenen Auto. Mittags fahren Sie nach Biograd na Moru, erkunden mit Schirm und genießen den Ausblick auf den Vraner See. Nachmittags besuchen Sie das stimmungsvolle Maškovića Han. Abends erkunden Sie die Festung Benkovac im dramatischen Regen.",
+            "hu": "Kezdjen a Gaženica kikötőben, maradjon szárazon az autóban. Délben vezessen Biograd na Moruba és sétáljon esernyővel, majd csodálja meg a Vrana-tavat az autóból. Délután látogassa meg a hangulatos Maškovića Hant. Este fedezze fel a Benkovac-erődöt a drámai tengerparti esőben.",
+            "ro": "Începeți la portul Gaženica, stând uscat în mașină. La prânz, conduceți spre Biograd na Moru, explorați cu umbrela, apoi admirați Lacul Vrana din mașină. După-amiază, vizitați Mașkovića Han, plin de atmosferă. Seara, explorați Cetatea Benkovac în ploaia dramatică de coastă.",
+            "en": "Start at Gaženica Port, staying dry in the car. Midday, drive to Biograd na Moru and explore with an umbrella, then enjoy the moody view at Lake Vrana from the car. Afternoon, visit the atmospheric Maškovića Han. Evening, explore Benkovac Fortress in the dramatic coastal rain."
+          },
+          "stops": [
+            {
+              "name": "Gaženica Port",
+              "tip_5lang": {
+                "de": "Toller Blick auf Fähren im Regen.",
+                "hu": "Remek kilátás az esővel dacoló kompokra.",
+                "ro": "Priveliști grozave cu feriboturile în ploaie.",
+                "en": "Great views of ferries braving the rain."
+              }
+            },
+            {
+              "name": "Biograd na Moru",
+              "tip_5lang": {
+                "de": "Parken Sie zentrumsnah, um lange nasse Wege zu meiden.",
+                "hu": "Parkoljon közel a központhoz, hogy elkerülje az esős sétát.",
+                "ro": "Parcați aproape de centru pentru a evita mersul pe ploaie.",
+                "en": "Park close to the center to avoid long wet walks."
+              }
+            },
+            {
+              "name": "Lake Vrana Viewpoint",
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt ist bei Sturmwolken spektakulär.",
+                "hu": "A kilátó látványos a viharfelhőkkel.",
+                "ro": "Punctul de belvedere e spectaculos cu nori de furtună.",
+                "en": "The viewpoint is spectacular with storm clouds."
+              }
+            },
+            {
+              "name": "Maškovića Han",
+              "tip_5lang": {
+                "de": "Genießen Sie einen warmen Tee im historischen Gebäude.",
+                "hu": "Élvezze a meleg teát a történelmi épületben.",
+                "ro": "Savurați un ceai cald în clădirea istorică.",
+                "en": "Enjoy a warm tea inside the historical building."
+              }
+            },
+            {
+              "name": "Benkovac Fortress",
+              "tip_5lang": {
+                "de": "Die Steinwege zur Festung sind rutschig.",
+                "hu": "Az erődhöz vezető köves utak csúszósak.",
+                "ro": "Cărările de piatră spre cetate sunt alunecoase.",
+                "en": "Stone paths to the fort are slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig auf nassen Landstraßen.",
+              "Bewahren Sie einen großen Regenschirm im Kofferraum auf.",
+              "Am Vraner See kann Nebel aufziehen, nutzen Sie Nebelscheinwerfer.",
+              "Einige unbefestigte Parkplätze könnten schlammig sein."
+            ],
+            "hu": [
+              "Vezessen óvatosan a nedves vidéki utakon.",
+              "Tartson egy nagy esernyőt és pót kabátot a csomagtartóban.",
+              "A Vrana-tó körül köd szállhat le, használjon ködlámpát.",
+              "Néhány földes parkoló saras lehet."
+            ],
+            "ro": [
+              "Conduceți cu prudență pe drumurile rurale umede.",
+              "Păstrați o umbrelă mare și o geacă în portbagaj.",
+              "Ceața poate coborî în jurul Lacului Vrana, folosiți proiectoarele.",
+              "Unele parcări de pământ ar putea fi noroioase."
+            ],
+            "en": [
+              "Drive cautiously on wet rural roads.",
+              "Keep a large umbrella and extra jacket in the trunk.",
+              "Fog can descend around Lake Vrana, use fog lights.",
+              "Some dirt parking areas might be muddy."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Hafen Gaženica an einem kühlen Wintermorgen. Mittags genießen Sie die fahrt nach Biograd na Moru und den weiten, ruhigen Blick auf den Vraner See. Nachmittags erkunden Sie das Maškovića Han im weichen Licht. Abends erleben Sie den Sonnenuntergang auf der Festung Benkovac.",
+            "hu": "Kezdjen a Gaženica kikötőben egy hűvös téli reggelen. Délben élvezze a forgalommentes utat Biograd na Moruba, majd a Vrana-tó békés látványát. Délután fedezze fel a történelmi Maškovića Hant a lágy fényben. Este nézze meg a naplementét a Benkovac-erődből.",
+            "ro": "Începeți la portul Gaženica într-o dimineață răcoroasă de iarnă. La prânz, bucurați-vă de un drum liber spre Biograd na Moru și de priveliștea liniștită la Lacul Vrana. După-amiază, explorați Mașkovića Han în lumina blândă. Seara, prindeți apusul la Cetatea Benkovac.",
+            "en": "Start at Gaženica Port on a cool winter morning. Midday, enjoy an uncrowded drive to Biograd na Moru, then take in the vast, peaceful view at Lake Vrana. Afternoon, explore the historic Maškovića Han in the soft light. Evening, catch the sunset at Benkovac Fortress before heading back."
+          },
+          "stops": [
+            {
+              "name": "Gaženica Port",
+              "tip_5lang": {
+                "de": "Ruhig im Winter mit weniger Fähren.",
+                "hu": "Télen csendes, kevesebb a komp.",
+                "ro": "Liniște iarna, cu mai puține feriboturi.",
+                "en": "Quiet in winter with fewer ferries."
+              }
+            },
+            {
+              "name": "Biograd na Moru",
+              "tip_5lang": {
+                "de": "Viele Restaurants sind geschlossen, packen Sie Proviant ein.",
+                "hu": "Sok étterem zárva, csomagoljon ebédet.",
+                "ro": "Multe restaurante sunt închise, luați prânzul la pachet.",
+                "en": "Many restaurants are closed, pack lunch."
+              }
+            },
+            {
+              "name": "Lake Vrana Viewpoint",
+              "tip_5lang": {
+                "de": "Eine wunderschöne, karge Winterlandschaft.",
+                "hu": "Gyönyörű, zord téli táj.",
+                "ro": "Un peisaj de iarnă frumos și auster.",
+                "en": "A beautiful, stark winter landscape."
+              }
+            },
+            {
+              "name": "Maškovića Han",
+              "tip_5lang": {
+                "de": "Sehr ruhig, Sie könnten es für sich allein haben.",
+                "hu": "Nagyon csendes, talán teljesen egyedül lesz.",
+                "ro": "Foarte liniștit, s-ar putea să fiți singuri.",
+                "en": "Very quiet, you might have it to yourself."
+              }
+            },
+            {
+              "name": "Benkovac Fortress",
+              "tip_5lang": {
+                "de": "Warm anziehen für die ungeschützten Festungsmauern.",
+                "hu": "Öltözzön melegen a nyitott erődítményfalaknál.",
+                "ro": "Îmbrăcați-vă cald pentru zidurile expuse ale cetății.",
+                "en": "Wrap up warm for the exposed fortress walls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen werden im ländlichen Dalmatien empfohlen.",
+              "Prüfen Sie Öffnungszeiten, da ländliche Ziele früh schließen.",
+              "Die Sonne steht tief; halten Sie Ihre Sonnenbrille griffbereit.",
+              "Straßen können am frühen Morgen frostig sein."
+            ],
+            "hu": [
+              "A vidéki Dalmáciában ajánlottak a téli gumik.",
+              "Ellenőrizze a nyitvatartást, a vidéki látnivalók korán zárnak.",
+              "A nap alacsonyan jár; tartsa kéznél a napszemüvegét a vezetéshez.",
+              "Az utak kora reggel fagyosak lehetnek."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt recomandate în Dalmația rurală.",
+              "Verificați programul, atracțiile rurale se închid devreme.",
+              "Soarele este jos; păstrați ochelarii de soare la îndemână.",
+              "Drumurile pot fi înghețate dimineața devreme."
+            ],
+            "en": [
+              "Winter tires are recommended in rural Dalmatia.",
+              "Check opening hours, as rural attractions often close early.",
+              "The sun is low; keep your sunglasses handy for driving.",
+              "Roads can be frosty in the early morning."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1056,6 +1602,170 @@
           "The peninsula is almost entirely car-free.",
           "Allow some waiting time for the buses."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Busbahnhof Zadar und flüchten Sie ins Museum für antikes Glas vor dem Regen. Mittags trotzen Sie den Schauern zur Kirche des Heiligen Chrysogonus. Nachmittags bleiben Sie im Archäologischen Museum trocken. Abends betrachten Sie das stürmische Meer am Strand Kolovare, bevor Sie den Bus nehmen.",
+            "hu": "Kezdjen a zadari buszpályaudvaron, és meneküljön az eső elől az Antik Üvegmúzeumba. Délben dacoljon az esővel a Szent Krševan-templomig. Délután maradjon szárazon a Régészeti Múzeum kiállításain. Este nézze meg a viharos tengert a Kolovare strandon, mielőtt buszra száll.",
+            "ro": "Începeți la Autogara Zadar, fugind spre Muzeul Sticlei Antice pentru a scăpa de ploaie. La prânz, înfruntați ploaia până la Biserica Sf. Hrisogon. După-amiază, rămâneți uscat explorând Muzeul Arheologic. Seara, priviți marea furtunoasă la Plaja Kolovare înainte de a lua un autobuz.",
+            "en": "Start at Zadar Bus Station, dashing to the nearby Museum of Ancient Glass to escape the rain. Midday, brave the showers to reach the Church of St. Chrysogonus. Afternoon, stay dry exploring the extensive exhibits at the Archaeological Museum. Evening, view the stormy seas at Kolovare Beach before catching a bus."
+          },
+          "stops": [
+            {
+              "name": "Zadar Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie im Terminalgebäude.",
+                "hu": "Várjon a terminálépületen belül.",
+                "ro": "Așteptați în interiorul clădirii terminalului.",
+                "en": "Wait inside the terminal building."
+              }
+            },
+            {
+              "name": "Museum of Ancient Glass",
+              "tip_5lang": {
+                "de": "Perfekte Indoor-Aktivität für einen regnerischen Morgen.",
+                "hu": "Tökéletes beltéri program egy esős délelőttre.",
+                "ro": "Activitate de interior perfectă pentru o dimineață ploioasă.",
+                "en": "Perfect indoor activity for a rainy morning."
+              }
+            },
+            {
+              "name": "Church of St. Chrysogonus",
+              "tip_5lang": {
+                "de": "Treten Sie schnell ein, um dem Regen zu entgehen.",
+                "hu": "Lépjen be gyorsan, hogy elkerülje a záport.",
+                "ro": "Intrați repede pentru a evita ploaia torențială.",
+                "en": "Step inside quickly to avoid the downpour."
+              }
+            },
+            {
+              "name": "Archaeological Museum Zadar",
+              "tip_5lang": {
+                "de": "Verbringen Sie hier mehr Zeit mit den Ausstellungen.",
+                "hu": "Töltsön itt több időt a kiállítások olvasásával.",
+                "ro": "Petreceți mai mult timp citind despre exponate.",
+                "en": "Spend extra time here reading the exhibits."
+              }
+            },
+            {
+              "name": "Kolovare Beach",
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen Wellen von einem Café aus.",
+                "hu": "Nézze a drámai hullámokat egy közeli kávézóból.",
+                "ro": "Priviți valurile dramatice de la o cafenea din apropiere.",
+                "en": "Watch the dramatic waves from a nearby cafe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse bieten guten Schutz zwischen den Haltestellen.",
+              "Nehmen Sie einen kompakten Regenschirm für die kurzen Wege mit.",
+              "Planen Sie mehr Zeit für Museen ein, um im Trockenen zu bleiben.",
+              "Erwarten Sie bei starkem Regen leichte Verspätungen der Busse."
+            ],
+            "hu": [
+              "A buszok remek menedéket nyújtanak a megállók között.",
+              "Vigyen magával egy kis esernyőt a rövid sétákhoz.",
+              "Tervezzen több időt a múzeumokra, hogy védve maradjon.",
+              "Heves esőzések idején számítson kisebb késésekre a buszoknál."
+            ],
+            "ro": [
+              "Autobuzele oferă un adăpost excelent între opriri.",
+              "Purtați o umbrelă compactă pentru plimbările scurte.",
+              "Planificați mai mult timp la muzee pentru a evita ploaia.",
+              "Așteptați-vă la mici întârzieri ale autobuzelor în timpul ploilor torențiale."
+            ],
+            "en": [
+              "Buses provide great shelter between city stops.",
+              "Carry a compact umbrella for the short walks between stops.",
+              "Plan more time for the museums to stay out of the rain.",
+              "Expect slight delays on bus routes during heavy downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Busbahnhof Zadar an einem kalten Morgen. Mittags nehmen Sie sich Zeit im ruhigen Glasmuseum und der Kirche des Heiligen Chrysogonus. Nachmittags erkunden Sie das Archäologische Museum ohne die Massen. Abends spazieren Sie warm eingepackt am Strand Kolovare im Sonnenuntergang.",
+            "hu": "Kezdjen a zadari buszpályaudvaron egy hideg, csípős reggelen. Délben szánjon időt a csendes Antik Üvegmúzeumra és a Szent Krševan-templomra. Délután fedezze fel a Régészeti Múzeumot a szokásos tömeg nélkül. Este öltözzön fel melegen egy sétára a Kolovare strandon naplementekor.",
+            "ro": "Începeți la Autogara Zadar într-o dimineață rece. La prânz, luați-vă timp în liniștitul Muzeu al Sticlei Antice și Biserica Sf. Hrisogon. După-amiază, explorați Muzeul Arheologic fără aglomerație. Seara, îmbrăcați-vă bine pentru o plimbare pe Plaja Kolovare la apus.",
+            "en": "Start at the Zadar Bus Station on a cold, crisp morning. Midday, take your time in the quiet Museum of Ancient Glass and Church of St. Chrysogonus. Afternoon, explore the Archaeological Museum without the usual crowds. Evening, bundle up for a brisk walk at Kolovare Beach at sunset."
+          },
+          "stops": [
+            {
+              "name": "Zadar Bus Station",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Kaffee am Kiosk.",
+                "hu": "Vegyen egy forró kávét a kioszkban.",
+                "ro": "Luați o cafea caldă de la chioșc.",
+                "en": "Grab a hot coffee from the kiosk."
+              }
+            },
+            {
+              "name": "Museum of Ancient Glass",
+              "tip_5lang": {
+                "de": "Geben Sie Ihren dicken Mantel an der Garderobe ab.",
+                "hu": "Tegye le nehéz kabátját a ruhatárban.",
+                "ro": "Lăsați haina groasă la garderobă.",
+                "en": "Take off your heavy coat in the cloakroom."
+              }
+            },
+            {
+              "name": "Church of St. Chrysogonus",
+              "tip_5lang": {
+                "de": "Das Innere kann im Winter recht kühl sein.",
+                "hu": "A belső tér télen meglehetősen hűvös lehet.",
+                "ro": "Interiorul poate fi destul de răcoros iarna.",
+                "en": "The interior can be quite chilly in winter."
+              }
+            },
+            {
+              "name": "Archaeological Museum Zadar",
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche Atmosphäre.",
+                "hu": "Élvezze a békés légkört.",
+                "ro": "Bucurați-vă de atmosfera pașnică.",
+                "en": "Enjoy the peaceful atmosphere."
+              }
+            },
+            {
+              "name": "Kolovare Beach",
+              "tip_5lang": {
+                "de": "Der Wind vom Wasser ist eiskalt, Mütze tragen.",
+                "hu": "A víz felől fújó szél jéghideg, viseljen sapkát.",
+                "ro": "Vântul de pe apă este înghețat, purtați o căciulă.",
+                "en": "The wind off the water is freezing, wear a hat."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind gut beheizt und ideal zum Aufwärmen.",
+              "Winterfahrpläne können ausgedünnt sein, prüfen Sie dies vorab.",
+              "Museen sind angenehm leer, perfekt für Geschichtsinteressierte.",
+              "Sonnenuntergang ist früh, planen Sie den Strandspaziergang für 16:00."
+            ],
+            "hu": [
+              "A buszok jól fűtöttek, remekül fel lehet rajtuk melegedni.",
+              "A téli buszmenetrend ritkább lehet, ellenőrizze előre.",
+              "A múzeumok kellemesen üresek, ideális a történelem kedvelőinek.",
+              "A naplemente korai, tervezze a tengerparti sétát 16:00-ra."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite, perfecte pentru a vă încălzi.",
+              "Orarele de iarnă pot fi reduse, verificați din timp.",
+              "Muzeele sunt plăcut de goale, perfecte pentru pasionații de istorie.",
+              "Apusul este devreme, planificați plimbarea pe plajă pentru ora 16:00."
+            ],
+            "en": [
+              "Buses are well-heated and a great way to warm up.",
+              "Winter bus schedules might be reduced, check in advance.",
+              "Museums are pleasantly empty, perfect for history buffs.",
+              "Sunset is early, so plan your beach walk for 16:00."
+            ]
+          }
+        }
       }
     }
   }

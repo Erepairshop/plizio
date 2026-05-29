@@ -379,6 +379,214 @@
           "Be mindful of the dress code when entering churches.",
           "Most shops close in the afternoon for a siesta."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt unter Arkaden in der Main Street. Mittags bietet die massive Basilika St. Helena perfekten Schutz vor den maltesischen Schauern. Nachmittags erkunden wir die Eisenbahngeschichte im überdachten Bahnhofsbereich. Der Abend klingt gemütlich in einer Teestube nahe der Windmühle aus, während der Regen gegen die alten Steinmauern peitscht.",
+            "hu": "Az esős reggel a Main Street árkádjai alatt indul. Délben a Szent Heléna-bazilika monumentális belső tere nyújt menedéket a záporok elől. Délután az egykori vasútállomás fedett részein kalandozunk. Az estét egy közeli kávézóban zárjuk a szélmalom mellett, élvezve a viharos máltai időjárás morajlását a vastag falak között.",
+            "ro": "Dimineața începe sub arcadele de pe Main Street. La prânz, interiorul impunător al Basilicii Sf. Elena oferă adăpost perfect împotriva averselor malteze. După-amiaza explorăm istoria feroviară în zonele acoperite ale vechii gări. Seara se încheie confortabil într-o cafenea lângă moara de vânt, în timp ce ploaia bate în zidurile vechi de piatră.",
+            "en": "The day starts under the arcades of Main Street. At noon, the massive interior of St. Helen's Basilica provides perfect shelter from Maltese showers. Afternoon is spent exploring railway history in the covered sections of the old station. The evening ends cozily in a cafe near the windmill, listening to the rain against the thick limestone walls."
+          },
+          "stops": [
+            {
+              "name": "Main Street",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Gebäudevorsprünge als Schutz.",
+                "hu": "Használja az épületek ereszeit esernyő helyett.",
+                "ro": "Folosiți streșinile clădirilor pentru adăpost.",
+                "en": "Use building overhangs as natural shelter."
+              }
+            },
+            {
+              "name": "St. Helen's Basilica",
+              "tip_5lang": {
+                "de": "Ideal für lange Regenschauer; prunkvolles Interieur.",
+                "hu": "Tökéletes hosszú záporok idején; pompás belső tér.",
+                "ro": "Ideală pentru averse lungi; interior fastuos.",
+                "en": "Ideal for long showers; magnificent interior."
+              }
+            },
+            {
+              "name": "Birkirkara Tower",
+              "tip_5lang": {
+                "de": "Vorsicht, die Kalksteinstufen sind bei Nässe glatt.",
+                "hu": "Vigyázat, a mészkő lépcsők nedvesen csúsznak.",
+                "ro": "Atenție, treptele de calcar sunt alunecoase pe ploaie.",
+                "en": "Caution, limestone steps are slippery when wet."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Rückzugsort im Zentrum.",
+                "hu": "Csendes, száraz menedék a városközpontban.",
+                "ro": "Un refugiu liniștit și uscat în centrul orașului.",
+                "en": "A quiet, dry retreat in the town center."
+              }
+            },
+            {
+              "name": "Old Railway Station & Gardens",
+              "tip_5lang": {
+                "de": "Der alte Waggon bietet Schutz und Fotomotive.",
+                "hu": "A régi vasúti kocsi fedett és remek fotótéma.",
+                "ro": "Vagonul vechi oferă adăpost și un cadru foto bun.",
+                "en": "The old carriage offers shelter and a great photo op."
+              }
+            },
+            {
+              "name": "Wignacourt Aqueduct",
+              "tip_5lang": {
+                "de": "Schnelles Foto, dann unter die nahen Bäume.",
+                "hu": "Gyors fotó, majd irány a közeli fák alatti rész.",
+                "ro": "Fotografie rapidă, apoi adăpostiți-vă sub copaci.",
+                "en": "Quick photo, then head under nearby trees."
+              }
+            },
+            {
+              "name": "Ta' Ganu Windmill",
+              "tip_5lang": {
+                "de": "Drinnen gibt es oft Handwerkskunst zu sehen.",
+                "hu": "Bent gyakran kézműves kiállítások várják.",
+                "ro": "În interior găsiți adesea expoziții de artizanat.",
+                "en": "Indoor craft exhibitions are often held inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Maltesischer Kalkstein wird bei Regen extrem rutschig; tragen Sie Schuhe mit gutem Profil.",
+              "Starke Winde machen Regenschirme oft nutzlos; eine robuste Regenjacke ist besser.",
+              "Die Basilika ist der beste Ort, um eine schwere Regenfront abzuwarten.",
+              "Nutzen Sie die Cafés in der Main Street für trockene Pausen.",
+              "Achten Sie auf Pfützen in den unebenen Gassen der Altstadt."
+            ],
+            "hu": [
+              "A máltai mészkő esőben rendkívül csúszós; viseljen tapadós talpú cipőt.",
+              "Az erős szél miatt az esernyő gyakran használhatatlan; a vízálló kabát jobb választás.",
+              "A bazilika a legjobb hely egy komolyabb felhőszakadás kivárására.",
+              "Használja ki a Main Street kávézóit a száraz pihenőkhöz.",
+              "Ügyeljen a tócsákra az óváros egyenetlen burkolatú utcáin."
+            ],
+            "ro": [
+              "Calcarul maltez devine extrem de alunecos la ploaie; purtați pantofi cu aderență.",
+              "Vânturile puternice fac umbrelele inutile; o jachetă impermeabilă e mai bună.",
+              "Basilica este cel mai bun loc pentru a aștepta trecerea unei furtuni.",
+              "Profitați de cafenelele de pe Main Street pentru pauze la uscat.",
+              "Atenție la bălțile din străzile denivelate ale centrului vechi."
+            ],
+            "en": [
+              "Maltese limestone becomes extremely slippery when wet; wear shoes with good grip.",
+              "Strong winds often make umbrellas useless; a sturdy raincoat is a better choice.",
+              "The Basilica is the best place to wait out a heavy rain front.",
+              "Utilize the cafes on Main Street for dry breaks during your walk.",
+              "Watch out for deep puddles in the uneven streets of the old town."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen führt uns durch die belebte Main Street. Mittags wärmt die Sonne die Kalksteinfassade der Basilika, während wir drinnen die Stille genießen. Der Nachmittag im Railway Park ist ideal, bevor die Sonne gegen 17:00 Uhr tief steht. Abends beleuchten festliche Lichter den Aquädukt und die Windmühle in der kühlen Brise.",
+            "hu": "Friss téli reggel hív minket a nyüzsgő Main Streetre. Délben a nap megcsillan a bazilika mészkő homlokzatán, miközben bent élvezzük a csendet. A vasúti park délutáni sétára hív, mielőtt 17:00 körül korán lebukik a nap. Este ünnepi fények világítják meg az akvaduktot és a szélmalmot a hűvös máltai szélben.",
+            "ro": "O dimineață răcoroasă de iarnă ne poartă prin Main Street. La prânz, soarele încălzește fațada de calcar a Basilicii, în timp ce în interior savurăm liniștea. Parcul gării este ideal pentru după-amiază, înainte ca soarele să apună devreme, în jur de ora 17:00. Seara, lumini festive decorează apeductul și moara în briza rece.",
+            "en": "A crisp winter morning leads us through the bustling Main Street. At noon, the sun warms the limestone facade of the Basilica while we enjoy the silence inside. The Railway Park is ideal for an afternoon stroll before the early sunset around 17:00. In the evening, festive lights illuminate the aqueduct and the windmill in the cool breeze."
+          },
+          "stops": [
+            {
+              "name": "Main Street",
+              "tip_5lang": {
+                "de": "Frühmorgens ist es kühl; Zwiebelprinzip kleiden.",
+                "hu": "Kora reggel hűvös van; öltözzön rétegesen.",
+                "ro": "E răcoare dimineața; îmbrăcați-vă în straturi.",
+                "en": "Cool early morning; dress in layers."
+              }
+            },
+            {
+              "name": "St. Helen's Basilica",
+              "tip_5lang": {
+                "de": "Drinnen ist es deutlich kühler als draußen.",
+                "hu": "Bent jóval hűvösebb van, mint a napsütésben.",
+                "ro": "În interior este mult mai răcoare decât afară.",
+                "en": "The interior is significantly cooler than outside."
+              }
+            },
+            {
+              "name": "Birkirkara Tower",
+              "tip_5lang": {
+                "de": "Gutes Licht für Fotos in der tiefstehenden Sonne.",
+                "hu": "Remek fények a fotózáshoz az alacsony napállásnál.",
+                "ro": "Lumină excelentă pentru poze la apus.",
+                "en": "Great lighting for photos with the low winter sun."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Oft weihnachtlich dekoriert im Dezember.",
+                "hu": "Decemberben gyakran karácsonyi díszben pompázik.",
+                "ro": "Adesea decorată de sărbători în decembrie.",
+                "en": "Often features Christmas decorations in December."
+              }
+            },
+            {
+              "name": "Old Railway Station & Gardens",
+              "tip_5lang": {
+                "de": "Bester Platz für die milde Mittagssonne.",
+                "hu": "A legjobb hely a gyenge téli napsütés élvezetére.",
+                "ro": "Cel mai bun loc pentru soarele blând de prânz.",
+                "en": "Best spot to enjoy the mild midday sun."
+              }
+            },
+            {
+              "name": "Wignacourt Aqueduct",
+              "tip_5lang": {
+                "de": "Nach 16:30 wird es hier schnell schattig.",
+                "hu": "16:30 után itt már gyorsan árnyékos és hűvös lesz.",
+                "ro": "După 16:30 devine umbrit și răcoros rapid.",
+                "en": "It gets shady and cool quickly after 16:30 here."
+              }
+            },
+            {
+              "name": "Ta' Ganu Windmill",
+              "tip_5lang": {
+                "de": "Abends oft schön beleuchtet.",
+                "hu": "Az esti kivilágítás különleges hangulatot ad.",
+                "ro": "Iluminatul de seară oferă o atmosferă aparte.",
+                "en": "Evening illumination provides a special atmosphere."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 17:00 Uhr unter; planen Sie Outdoor-Stopps früh ein.",
+              "Obwohl es mild scheint, sorgt die hohe Luftfeuchtigkeit für ein kühleres Empfinden.",
+              "Kirchen sind im Winter oft sehr kalt; eine zusätzliche Schicht hilft.",
+              "Suchen Sie Cafés mit sonnigen Außenplätzen für die Mittagszeit.",
+              "Birkirkara ist im Winter weniger überlaufen, ideal für Fotos."
+            ],
+            "hu": [
+              "A nap télen 17:00 körül nyugszik; a szabadtéri pontokat vegye előre.",
+              "Bár az idő enyhének tűnik, a páratartalom miatt hidegebbnek érezzük.",
+              "A templomok télen belül nagyon hidegek; egy extra réteg ruha segít.",
+              "Keressen napos terasszal rendelkező kávézókat ebédidőben.",
+              "Birkirkara télen kevésbé zsúfolt, ami ideális a zavartalan fotózáshoz."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 17:00; planificați opririle afară devreme.",
+              "Deși pare blând, umiditatea ridicată face ca aerul să se simtă rece.",
+              "Bisericile sunt foarte reci iarna; un strat în plus de haine ajută.",
+              "Căutați cafenele cu terase însorite pentru ora prânzului.",
+              "Birkirkara este mai puțin aglomerată iarna, ideal pentru fotografii."
+            ],
+            "en": [
+              "Sunset is around 17:00 in winter; prioritize outdoor stops earlier in the day.",
+              "Despite mild temperatures, high humidity makes it feel cooler.",
+              "Church interiors are often very cold in winter; an extra layer helps.",
+              "Look for cafes with sunny outdoor seating for lunchtime breaks.",
+              "Birkirkara is less crowded in winter, making it ideal for photography."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +960,214 @@
           "Always lock your bike securely.",
           "Be mindful of the traffic, which drives on the left."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt vorsichtig am Railway Park. Wir nutzen die Zeit bei der Basilika für eine längere Regenpause. Die Mittagspause in der Main Street wird zum Aufwärmen genutzt, bevor wir die kurze Strecke zum Turm wagen. Trotz Nässe bleibt die Route flach und machbar, erfordert aber höchste Konzentration auf den glatten Straßen.",
+            "hu": "Óvatos tekerés indul a vasúti parktól. A bazilikánál hosszabb pihenőt tartunk az eső miatt. A Main Street-i ebédet melegedésre használjuk, mielőtt nekivágnánk a torony felé vezető rövid szakasznak. A vizes út ellenére az útvonal sík és teljesíthető, de maximális figyelmet igényel a csúszós aszfalton.",
+            "ro": "Cursa începe cu prudență de la parcul gării. Folosim timpul de la Basilică pentru o pauză mai lungă de ploaie. Prânzul pe Main Street e ocazia ideală de încălzire înainte de scurta porțiune spre turn. În ciuda umezelii, ruta rămâne plată, dar necesită concentrare maximă pe drumurile lucioase.",
+            "en": "The ride starts cautiously from the Railway Park. We use the time at the Basilica for a longer rain break. Lunch on Main Street serves as a warmup before tackling the short stretch to the tower. Despite the wetness, the route remains flat and doable, but requires maximum concentration on the glossy roads."
+          },
+          "stops": [
+            {
+              "name": "Old Railway Station & Gardens",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem Bahnsteigdach.",
+                "hu": "Keressen menedéket a peron teteje alatt.",
+                "ro": "Adăpostiți-vă sub acoperișul peronului.",
+                "en": "Find shelter under the platform roof."
+              }
+            },
+            {
+              "name": "Wignacourt Aqueduct",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen am Straßenrand.",
+                "hu": "Vigyázzon a mély tócsákra az út szélén.",
+                "ro": "Atenție la bălțile adânci de pe marginea drumului.",
+                "en": "Watch out for deep puddles at the roadside."
+              }
+            },
+            {
+              "name": "Ta' Ganu Windmill",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad im Windschatten der Mühle.",
+                "hu": "Parkolja le a bringát a malom szélárnyékában.",
+                "ro": "Parcați bicicleta în partea ferită de vânt a morii.",
+                "en": "Park your bike in the lee of the windmill."
+              }
+            },
+            {
+              "name": "Tal-Herba Church",
+              "tip_5lang": {
+                "de": "Ruhiger Platz zum Abtrocknen der Ausrüstung.",
+                "hu": "Csendes hely a felszerelés áttörléséhez.",
+                "ro": "Loc liniștit pentru a vă șterge echipamentul.",
+                "en": "Quiet place to dry off your gear."
+              }
+            },
+            {
+              "name": "Main Street & Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie Lokale mit Innenabstellplätzen.",
+                "hu": "Válasszon belső udvaros vagy látható helyet.",
+                "ro": "Alegeți localuri cu locuri de parcare vizibile.",
+                "en": "Choose places with visible or indoor bike spots."
+              }
+            },
+            {
+              "name": "St. Helen's Basilica",
+              "tip_5lang": {
+                "de": "Kalksteinpflaster davor ist spiegelglatt.",
+                "hu": "A bazilika előtti mészkőburkolat tükörsima.",
+                "ro": "Pavajul de calcar din față e ca oglinda.",
+                "en": "The limestone paving outside is mirror-smooth."
+              }
+            },
+            {
+              "name": "Birkirkara Tower",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, halten Sie die Bremsen trocken.",
+                "hu": "Rövid megálló, tartsa szárazon a fékeket.",
+                "ro": "Oprire scurtă, mențineți frânele uscate.",
+                "en": "Short stop, keep your brakes dry if possible."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Maltas Straßen sind bei Regen berüchtigt für Ölfilme; bremsen Sie frühzeitig.",
+              "Vermeiden Sie weiße Straßenmarkierungen, diese sind extrem rutschig.",
+              "Ein Schutzblech ist bei den typischen máltai Pfützen unerlässlich.",
+              "Tragen Sie neonfarbene Regenkleidung, da die Sichtbarkeit stark sinkt.",
+              "Planen Sie mehr Zeit für Kurven und Bremsmanöver ein."
+            ],
+            "hu": [
+              "A máltai utak esőben hírhedtek az olajfilmtől; fékezzen időben.",
+              "Kerülje a fehér útburkolati jeleket, mert rendkívül csúsznak.",
+              "A sárvédő elengedhetetlen a tipikus máltai tócsák ellen.",
+              "Viseljen neon esőruházatot, mert a látótávolság drasztikusan csökken.",
+              "Hagyjon több időt a kanyarodásra és a fékezési manőverekre."
+            ],
+            "ro": [
+              "Drumurile malteze sunt faimoase pentru pelicula de ulei la ploaie; frânați din timp.",
+              "Evitați marcajele rutiere albe, sunt extrem de alunecoase.",
+              "Apărătorile de noroi sunt esențiale pentru bălțile tipice.",
+              "Purtați haine de ploaie reflectorizante, vizibilitatea scade mult.",
+              "Alocați mai mult timp pentru viraje și manevre de frânare."
+            ],
+            "en": [
+              "Maltese roads are notorious for oil films when it rains; brake early.",
+              "Avoid white road markings as they become extremely slippery.",
+              "Mudguards are essential against typical Maltese puddles.",
+              "Wear neon rain gear, as visibility drops significantly during rain.",
+              "Allow extra time for cornering and braking maneuvers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine belebende Wintertour durch das Herz von Malta. Die kühle Luft am Morgen am Railway Park weicht milder Mittagssonne bei der Basilika. Wir genießen die flache Topographie Birkirkaras, die ideal für entspanntes Radeln ist. Da es früh dunkel wird, nutzen wir das beste Licht am Nachmittag beim Aquädukt und beenden die Tour bei der Windmühle.",
+            "hu": "Élénkítő téli túra Málta szívében. A reggeli hűvös levegőt a vasúti parknál felváltja a bazilika környéki enyhe napsütés. Kihasználjuk Birkirkara sík terepviszonyait, ami ideális a kényelmes bringázáshoz. Mivel korán sötétedik, az akvaduktnál használjuk ki a délutáni fényeket, és a szélmalomnál zárunk.",
+            "ro": "Un tur de iarnă revigorant prin inima Maltei. Aerul rece de dimineață din parcul gării face loc soarelui blând de prânz la Basilică. Profităm de relieful plat din Birkirkara, ideal pentru pedalat relaxat. Deoarece se întunecă devreme, profităm de lumina bună la apeduct și încheiem la moara de vânt.",
+            "en": "An invigorating winter tour through the heart of Malta. The cool morning air at the Railway Park gives way to mild midday sun near the Basilica. We enjoy Birkirkara's flat topography, ideal for relaxed cycling. As it gets dark early, we use the best afternoon light at the aqueduct and finish at the windmill."
+          },
+          "stops": [
+            {
+              "name": "Old Railway Station & Gardens",
+              "tip_5lang": {
+                "de": "Perfekt für eine sonnige Pause im Park.",
+                "hu": "Tökéletes hely egy napos pihenőre a parkban.",
+                "ro": "Perfect pentru o pauză însorită în parc.",
+                "en": "Perfect for a sunny break in the park."
+              }
+            },
+            {
+              "name": "Wignacourt Aqueduct",
+              "tip_5lang": {
+                "de": "Gegenwind kann hier im Winter stark sein.",
+                "hu": "A szembeszél télen itt felerősödhet.",
+                "ro": "Vântul din față poate fi puternic aici iarna.",
+                "en": "Headwinds can be strong here in winter."
+              }
+            },
+            {
+              "name": "Ta' Ganu Windmill",
+              "tip_5lang": {
+                "de": "Tiefe Sonne sorgt für lange Schatten.",
+                "hu": "Az alacsony napállás hosszú árnyékokat vet.",
+                "ro": "Soarele jos creează umbre lungi.",
+                "en": "The low sun creates long shadows."
+              }
+            },
+            {
+              "name": "Tal-Herba Church",
+              "tip_5lang": {
+                "de": "Ruhiger Stopp abseits der Hauptverkehrsader.",
+                "hu": "Csendes megálló a forgalmas főutaktól távol.",
+                "ro": "Oprește liniștit departe de arterele principale.",
+                "en": "Quiet stop away from the main traffic arteries."
+              }
+            },
+            {
+              "name": "Main Street & Lunch",
+              "tip_5lang": {
+                "de": "Radler-Stopp mit viel lokalem Leben.",
+                "hu": "Helyi élettel teli kerékpáros megálló.",
+                "ro": "Oprire pentru bicicliști plină de viață locală.",
+                "en": "Cyclist stop full of local life."
+              }
+            },
+            {
+              "name": "St. Helen's Basilica",
+              "tip_5lang": {
+                "de": "Besuch am Mittag für beste Ausleuchtung.",
+                "hu": "Déli látogatás javasolt a legjobb fényekhez.",
+                "ro": "Vizită la prânz pentru cea mai bună lumină.",
+                "en": "Visit at noon for the best natural lighting."
+              }
+            },
+            {
+              "name": "Birkirkara Tower",
+              "tip_5lang": {
+                "de": "Lichtcheck für das Rad vor der Rückfahrt.",
+                "hu": "Ellenőrizze a lámpákat a visszaindulás előtt.",
+                "ro": "Verificați luminile înainte de plecare.",
+                "en": "Check your bike lights before heading back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Unterschätzen Sie den Windchill nicht; eine winddichte Weste ist ideal.",
+              "Die Sonne blendet im Winter tiefer; tragen Sie eine Sonnenbrille.",
+              "Funktionierende Vorder- und Rücklichter sind ab 16:30 Uhr Pflicht.",
+              "Nutzen Sie die flachen Nebenstraßen, um dem Wind etwas zu entgehen.",
+              "Morgens kann es auf dem Kalkstein feucht und rutschig sein (Tau)."
+            ],
+            "hu": [
+              "Ne becsülje alá a menetszelet; egy szélálló mellény ideális.",
+              "A nap télen alacsonyabban vakít; viseljen napszemüveget.",
+              "A működő első és hátsó lámpa 16:30 után kötelező.",
+              "Használja a sík mellékutcákat, hogy elkerülje az erős szelet.",
+              "Reggelente a mészkő a harmattól nedves és csúszós lehet."
+            ],
+            "ro": [
+              "Nu subestimați vântul rece; o vestă anti-vânt este ideală.",
+              "Soarele iarna e mai jos și poate orbi; purtați ochelari de soare.",
+              "Luminile față-spate funcționale sunt obligatorii după 16:30.",
+              "Folosiți străzile secundare plate pentru a evita vântul puternic.",
+              "Dimineața, calcarul poate fi umed și alunecos din cauza rouăi."
+            ],
+            "en": [
+              "Don't underestimate the wind chill; a windproof vest is ideal.",
+              "The winter sun is lower and can dazzle; wear sunglasses.",
+              "Working front and rear lights are mandatory after 16:30.",
+              "Use flat side streets to avoid the strongest winds.",
+              "In the morning, limestone can be damp and slippery due to dew."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1132,6 +1548,214 @@
           "A GPS is essential.",
           "Be aware of one-way streets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen erkunden wir Birkirkara bequem mit dem Auto. Wir wählen Parkplätze direkt bei den Sehenswürdigkeiten, wie an der Windmühle und im Zentrum. Die Basilika St. Helena bietet ein trockenes Highlight zur Mittagszeit. Nachmittags besuchen wir den Railway Park, bevor wir den Aquädukt im Schutz des Wagens bewundern. Die kurzen Wege minimieren die Zeit im Regen.",
+            "hu": "Az eső ellenére kényelmesen fedezzük fel Birkirkarát autóval. Közvetlenül a látnivalók melletti parkolókat választunk, mint a szélmalomnál és a központban. A Szent Heléna-bazilika száraz menedéket nyújt ebédidőben. Délután a vasúti parkot érintjük, majd az autó védelméből csodáljuk meg az akvaduktot. A rövid séták minimalizálják az esőben töltött időt.",
+            "ro": "În ciuda ploii, explorăm Birkirkara confortabil cu mașina. Alegem parcări direct lângă atracții, precum la moara de vânt și în centru. Basilica Sf. Elena oferă un moment de liniște la uscat la prânz. După-amiaza vizităm parcul gării, apoi admirăm apeductul din protecția mașinii. Distanțele scurte minimizează timpul petrecut în ploaie.",
+            "en": "Despite the rain, we explore Birkirkara comfortably by car. We choose parking spots directly next to the sights, like at the windmill and in the center. St. Helen's Basilica provides a dry highlight at lunchtime. In the afternoon, we visit the Railway Park before admiring the aqueduct from the safety of the car. Short walks minimize time spent in the rain."
+          },
+          "stops": [
+            {
+              "name": "Cluster A Parking: Near Ta' Ganu Windmill",
+              "tip_5lang": {
+                "de": "Asphaltierter Parkplatz, kaum Pfützen.",
+                "hu": "Aszfaltozott parkoló, kevés tócsa.",
+                "ro": "Parcare asfaltată, puține bălți.",
+                "en": "Paved parking area, fewer puddles."
+              }
+            },
+            {
+              "name": "Ta' Ganu Windmill",
+              "tip_5lang": {
+                "de": "Direkt am Eingang parken möglich.",
+                "hu": "Közvetlenül a bejáratnál lehet parkolni.",
+                "ro": "Posibilitate de parcare chiar la intrare.",
+                "en": "Parking possible right by the entrance."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Enges Parken, Vorsicht beim Aussteigen.",
+                "hu": "Szűk helyek, vigyázzon kiszálláskor.",
+                "ro": "Locuri înguste, atenție la coborâre.",
+                "en": "Tight spots, be careful when exiting."
+              }
+            },
+            {
+              "name": "Cluster B Parking: Centre",
+              "tip_5lang": {
+                "de": "Oft voll bei Regen; Geduld gefragt.",
+                "hu": "Esőben gyakran tele van; türelem kell.",
+                "ro": "Adesea plină pe ploaie; necesită răbdare.",
+                "en": "Often full when it rains; patience required."
+              }
+            },
+            {
+              "name": "St. Helen's Basilica & Lunch",
+              "tip_5lang": {
+                "de": "Basilika ist ein perfekter trockener Stopp.",
+                "hu": "A bazilika tökéletes száraz megálló.",
+                "ro": "Basilica este o oprire perfectă la uscat.",
+                "en": "The Basilica is a perfect dry stop."
+              }
+            },
+            {
+              "name": "Old Railway Station & Gardens",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Tor zum Park.",
+                "hu": "Parkoljon közel a park bejáratához.",
+                "ro": "Parcați aproape de poarta parcului.",
+                "en": "Park close to the park entrance gate."
+              }
+            },
+            {
+              "name": "Cluster C: Wignacourt Aqueduct",
+              "tip_5lang": {
+                "de": "Blick vom Auto aus bei starkem Guss.",
+                "hu": "Szakadó esőben nézze meg az autóból.",
+                "ro": "Admirați din mașină în caz de aversă.",
+                "en": "View from the car during heavy downpours."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Maltas Straßen überfluten bei Starkregen schnell; meiden Sie tiefe Senken.",
+              "Die Sicht ist bei Regen oft schlecht; fahren Sie mit Licht.",
+              "Parkplätze im Zentrum sind bei Regen heiß begehrt; kommen Sie früh.",
+              "Vorsicht in engen Gassen, die Reifen rutschen auf nassem Stein leichter.",
+              "Nutzen Sie den Wagen als Basis für Kleiderwechsel bei Nässe."
+            ],
+            "hu": [
+              "A máltai utak heves esőben gyorsan víz alá kerülnek; kerülje a mélyedéseket.",
+              "A látási viszonyok esőben rosszak; vezessen felkapcsolt lámpával.",
+              "A központi parkolók esőben hamar betelnek; érkezzen időben.",
+              "Vigyázzon a szűk utcákban, a gumi könnyebben megcsúszik a vizes kövön.",
+              "Használja az autót bázisként a nedves ruhák cseréjéhez."
+            ],
+            "ro": [
+              "Drumurile malteze se inundă rapid la ploi torențiale; evitați zonele joase.",
+              "Vizibilitatea este redusă pe ploaie; conduceți cu luminile aprinse.",
+              "Parcările centrale sunt la mare căutare pe ploaie; veniți devreme.",
+              "Atenție în străzile înguste, anvelopele alunecă mai ușor pe piatra udă.",
+              "Folosiți mașina ca bază pentru schimbarea hainelor ude."
+            ],
+            "en": [
+              "Maltese roads flood quickly during heavy rain; avoid low-lying areas.",
+              "Visibility is often poor in the rain; drive with your lights on.",
+              "Central parking spots are highly sought after in the rain; arrive early.",
+              "Be careful in narrow streets as tires slip more easily on wet stone.",
+              "Use the car as a base for changing wet clothes if needed."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Wintertour durch Birkirkara. Das Auto bietet Wärme zwischen den historischen Stationen. Wir beginnen an der Windmühle und besuchen die Basilika im hellen Mittagslicht. Nachmittags genießen wir den Railway Park, bevor wir pünktlich zum frühen Sonnenuntergang am Aquädukt sind. Die beleuchtete Stadt am Abend wirkt aus dem Wagen besonders festlich.",
+            "hu": "Kellemes téli autós túra Birkirkarában. Az autó meleget nyújt a történelmi állomások között. A szélmalomnál kezdünk, majd a bazilikát látogatjuk meg a ragyogó déli fényben. Délután a vasúti parkot élvezzük, mielőtt pont a korai naplemente előtt az akvadukthoz érnénk. Az esti kivilágított város az autóból nézve különösen ünnepi.",
+            "ro": "Un tur de iarnă relaxant prin Birkirkara. Mașina oferă căldură între stațiile istorice. Începem la moara de vânt și vizităm Basilica în lumina strălucitoare de prânz. După-amiaza savurăm parcul gării înainte de a ajunge la apeduct fix la apus. Orașul iluminat seara pare deosebit de festiv din mașină.",
+            "en": "A cozy winter drive through Birkirkara. The car provides warmth between historical stops. We start at the windmill and visit the Basilica in the bright midday light. In the afternoon, we enjoy the Railway Park before arriving at the aqueduct just in time for the early sunset. The illuminated city looks particularly festive from the car."
+          },
+          "stops": [
+            {
+              "name": "Cluster A Parking: Near Ta' Ganu Windmill",
+              "tip_5lang": {
+                "de": "Gute Zufahrt, wenig Verkehr im Winter.",
+                "hu": "Jó megközelíthetőség, kevés forgalom télen.",
+                "ro": "Acces bun, trafic redus iarna.",
+                "en": "Good access, low traffic in winter."
+              }
+            },
+            {
+              "name": "Ta' Ganu Windmill",
+              "tip_5lang": {
+                "de": "In der tiefen Sonne toll für Außenaufnahmen.",
+                "hu": "Az alacsony napállásban szép külső fotókhoz.",
+                "ro": "Excelent pentru poze exterioare la apus.",
+                "en": "Great for exterior shots in the low winter sun."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Krippenausstellung, falls vorhanden.",
+                "hu": "Nézze meg a betlehemest, ha ki van állítva.",
+                "ro": "Vizitați expoziția de Crăciun, dacă există.",
+                "en": "Visit the Nativity display if available."
+              }
+            },
+            {
+              "name": "Cluster B Parking: Centre",
+              "tip_5lang": {
+                "de": "Parken im Zentrum im Winter einfacher.",
+                "hu": "Télen könnyebb parkolni a központban.",
+                "ro": "Parcarea în centru e mai facilă iarna.",
+                "en": "Parking in the center is easier in winter."
+              }
+            },
+            {
+              "name": "St. Helen's Basilica & Lunch",
+              "tip_5lang": {
+                "de": "Mittagsruhe im sonnigen Auto genießen.",
+                "hu": "Élvezze a déli pihenőt a napsütötte autóban.",
+                "ro": "Savurați pauza de prânz în mașina însorită.",
+                "en": "Enjoy a midday break in the sunny car."
+              }
+            },
+            {
+              "name": "Old Railway Station & Gardens",
+              "tip_5lang": {
+                "de": "Spaziergang vor dem Sonnenuntergang (17 Uhr).",
+                "hu": "Séta a naplemente (17 óra) előtt.",
+                "ro": "Plimbare înainte de apus (ora 17:00).",
+                "en": "Stroll through the gardens before sunset (17:00)."
+              }
+            },
+            {
+              "name": "Cluster C: Wignacourt Aqueduct",
+              "tip_5lang": {
+                "de": "Abends schön beleuchteter Fotostopp.",
+                "hu": "Szépen kivilágított fotómegálló este.",
+                "ro": "Oprire foto cu iluminat frumos seara.",
+                "en": "Beautifully lit photo stop in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Heizung, um die Feuchtigkeit im Wagen zu reduzieren.",
+              "Ab 16:30 Uhr sinkt die Temperatur merklich; halten Sie Jacken bereit.",
+              "Die tiefstehende Sonne kann beim Fahren stark blenden.",
+              "Winter ist eine gute Zeit für Parkplätze in der Nähe der Basilika.",
+              "Besuchen Sie Birkirkara am späten Nachmittag für die Weihnachtsbeleuchtung."
+            ],
+            "hu": [
+              "Használja a fűtést az autó belső páratartalmának csökkentésére.",
+              "16:30 után a hőmérséklet érezhetően visszaesik; legyen kéznél kabát.",
+              "Az alacsonyan járó nap vezetés közben erősen vakíthat.",
+              "A tél jó időszak a bazilika környéki parkolásra.",
+              "Látogasson el Birkirkarába késő délután az ünnepi fények miatt."
+            ],
+            "ro": [
+              "Folosiți încălzirea pentru a reduce umiditatea din interiorul mașinii.",
+              "După ora 16:30 temperatura scade simțitor; aveți jachetele gata.",
+              "Soarele jos poate orbi puternic în timpul condusului.",
+              "Iarna este un moment bun pentru a găsi locuri de parcare lângă Basilică.",
+              "Vizitați Birkirkara după-amiaza târziu pentru luminile de Crăciun."
+            ],
+            "en": [
+              "Use the heater to reduce humidity inside the car.",
+              "After 16:30, the temperature drops noticeably; keep jackets ready.",
+              "The low winter sun can be very dazzling while driving.",
+              "Winter is a good time to find parking near the Basilica.",
+              "Visit Birkirkara in the late afternoon for the Christmas lights."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1512,6 +2136,214 @@
           "Buses can be crowded, especially during peak hours.",
           "Signal clearly to the driver that you want to get off at the next stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir nutzen das gut ausgebaute Busnetz Birkirkaras für einen regenfesten Tag. Start am Interchange, gefolgt von einem kurzen Sprint zum Railway Park. Die Basilika und die umliegenden Cafés bieten Schutz zur Mittagszeit. Nachmittags bringt uns der Bus direkt zum Aquädukt und später zum Turm, wobei wir die Wartezeiten in den überdachten Haltestellen verbringen.",
+            "hu": "Birkirkara jól kiépített buszhálózatát használjuk az esőbiztos naphoz. Kezdés az Interchange-nél, majd egy rövid sprint a vasúti parkhoz. A bazilika és a közeli kávézók nyújtanak menedéket ebédidőben. Délután a busz egyenesen az akvadukthoz, majd a toronyhoz visz, a várakozási időt pedig a fedett megállókban töltjük.",
+            "ro": "Folosim rețeaua de autobuze bine pusă la punct pentru o zi protejată de ploaie. Începem la nodul de transport, urmat de un sprint scurt până la parcul gării. Basilica și cafenelele din jur oferă adăpost la prânz. După-amiaza, autobuzul ne duce direct la apeduct și apoi la turn, petrecând timpii de așteptare în stațiile acoperite.",
+            "en": "We utilize Birkirkara's well-developed bus network for a rain-proof day. Starting at the Interchange, followed by a short sprint to the Railway Park. The Basilica and nearby cafes provide shelter at lunchtime. In the afternoon, the bus takes us directly to the aqueduct and later to the tower, spending wait times in covered bus stops."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Arrive at Birkirkara Interchange",
+              "tip_5lang": {
+                "de": "Großer Unterstand vorhanden; ideal bei Regen.",
+                "hu": "Nagy fedett váróterem; ideális esőben.",
+                "ro": "Adăpost mare disponibil; ideal pe ploaie.",
+                "en": "Large shelter available; ideal in the rain."
+              }
+            },
+            {
+              "name": "Old Railway Station & Gardens",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg von der Haltestelle.",
+                "hu": "Csak 2 perc séta a buszmegállótól.",
+                "ro": "Doar 2 minute de mers de la stație.",
+                "en": "Only a 2-minute walk from the bus stop."
+              }
+            },
+            {
+              "name": "St. Helen's Basilica",
+              "tip_5lang": {
+                "de": "Die Haltestelle 'L-Imsida' ist nah und überdacht.",
+                "hu": "A közeli buszmegálló fedett és biztonságos.",
+                "ro": "Stația din apropiere este acoperită.",
+                "en": "The nearby bus stop is covered and safe."
+              }
+            },
+            {
+              "name": "Lunch on Main Street",
+              "tip_5lang": {
+                "de": "Viele Restaurants direkt neben den Haltestellen.",
+                "hu": "Számos étterem van közvetlenül a megállók mellett.",
+                "ro": "Multe restaurante sunt chiar lângă stații.",
+                "en": "Many restaurants are located right next to stops."
+              }
+            },
+            {
+              "name": "Cluster B: Wignacourt Stop",
+              "tip_5lang": {
+                "de": "Häufige Verbindungen, minimiert Wartezeit im Freien.",
+                "hu": "Gyakori járatok, kevés várakozás a szabadban.",
+                "ro": "Conexiuni frecvente, timp redus de așteptare afară.",
+                "en": "Frequent connections, minimizes outdoor wait time."
+              }
+            },
+            {
+              "name": "Wignacourt Aqueduct",
+              "tip_5lang": {
+                "de": "Haltestelle direkt am Denkmal.",
+                "hu": "A buszmegálló közvetlenül az emlékműnél van.",
+                "ro": "Stația de autobuz este chiar lângă monument.",
+                "en": "The bus stop is right next to the monument."
+              }
+            },
+            {
+              "name": "Birkirkara Tower",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App 'Tallinja' für Echtzeit-Infos.",
+                "hu": "Használja a Tallinja appot a pontos érkezéshez.",
+                "ro": "Folosiți aplicația Tallinja pentru info în timp real.",
+                "en": "Use the Tallinja app for real-time bus info."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Birkirkara Interchange ist der beste Ort zum Umsteigen im Trockenen.",
+              "Busse können bei Regen aufgrund des Verkehrs Verspätung haben.",
+              "Tragen Sie wasserfeste Schuhe für die kurzen Wege zwischen Stopps.",
+              "Die Tallinja-App zeigt Ihnen genau, wann der nächste Bus kommt.",
+              "Halten Sie Kleingeld oder die Tallinja-Card griffbereit, um schnell einzusteigen."
+            ],
+            "hu": [
+              "A Birkirkara Interchange a legjobb hely a száraz átszálláshoz.",
+              "A buszok esőben a forgalom miatt késhetnek.",
+              "Viseljen vízálló cipőt a megállók közötti rövid szakaszokra.",
+              "A Tallinja app pontosan mutatja, mikor érkezik a következő járat.",
+              "Legyen kéznél apró vagy Tallinja-kártya a gyors felszálláshoz."
+            ],
+            "ro": [
+              "Nodul de transport Birkirkara e cel mai bun loc pentru schimburi la uscat.",
+              "Autobuzele pot avea întârzieri pe ploaie din cauza traficului.",
+              "Purtați încălțăminte impermeabilă pentru distanțele scurte dintre stații.",
+              "Aplicația Tallinja vă arată exact când vine următorul autobuz.",
+              "Aveți cardul Tallinja la îndemână pentru o îmbarcare rapidă."
+            ],
+            "en": [
+              "Birkirkara Interchange is the best place for dry transfers.",
+              "Buses may be delayed during rain due to increased traffic.",
+              "Wear waterproof shoes for the short walks between stops.",
+              "The Tallinja app shows exactly when the next bus is coming.",
+              "Keep your Tallinja card ready for quick boarding to stay dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Birkirkara im Winter per Bus entdecken. Die milde Luft macht die kurzen Wege zwischen den Haltestellen angenehm. Wir starten am zentralen Interchange und besuchen die Basilika im hellen Sonnenlicht. Der Railway Park bietet eine schöne Nachmittagspause, bevor wir mit dem Bus zum Aquädukt fahren. Den Abend lassen wir bei der beleuchteten Windmühle ausklingen.",
+            "hu": "Fedezze fel Birkirkarát télen busszal. Az enyhe idő kellemessé teszi a megállók közötti rövid sétákat. A központi Interchange-nél kezdünk, majd a bazilikát nézzük meg ragyogó napsütésben. A vasúti park szép délutáni pihenőt nyújt, mielőtt busszal az akvadukthoz mennénk. Az estét a kivilágított szélmalomnál zárjuk.",
+            "ro": "Descoperiți Birkirkara iarna cu autobuzul. Aerul blând face plăcute scurtile plimbări între stații. Începem la nodul central de transport și vizităm Basilica în soarele strălucitor. Parcul gării oferă o pauză frumoasă după-amiaza înainte de a merge cu autobuzul la apeduct. Încheiem seara la moara de vânt iluminată.",
+            "en": "Explore Birkirkara in winter by bus. The mild weather makes the short walks between stops pleasant. We start at the central Interchange and visit the Basilica in the bright sunshine. The Railway Park offers a nice afternoon break before taking the bus to the aqueduct. We end the evening at the illuminated windmill."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Arrive at Birkirkara Interchange",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt für alle Linien.",
+                "hu": "Központi csomópont minden irányba.",
+                "ro": "Nod central pentru toate liniile.",
+                "en": "Central hub for all bus lines."
+              }
+            },
+            {
+              "name": "Old Railway Station & Gardens",
+              "tip_5lang": {
+                "de": "Schöner Ort für die milde Wintersonne.",
+                "hu": "Kellemes hely az enyhe téli napsütésben.",
+                "ro": "Loc plăcut în soarele blând de iarnă.",
+                "en": "Pleasant spot in the mild winter sun."
+              }
+            },
+            {
+              "name": "St. Helen's Basilica",
+              "tip_5lang": {
+                "de": "Tiefstehende Sonne beleuchtet die Fassade prachtvoll.",
+                "hu": "Az alacsony napállás gyönyörűen megvilágítja a homlokzatot.",
+                "ro": "Soarele jos luminează superb fațada.",
+                "en": "The low sun illuminates the facade beautifully."
+              }
+            },
+            {
+              "name": "Lunch on Main Street",
+              "tip_5lang": {
+                "de": "Belebte Atmosphäre auch in der Nebensaison.",
+                "hu": "Nyüzsgő hangulat főszezonon kívül is.",
+                "ro": "Atmosferă plină de viață și în extrasezon.",
+                "en": "Bustling atmosphere even in the low season."
+              }
+            },
+            {
+              "name": "Cluster B: Wignacourt Stop",
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor 17:00 Uhr.",
+                "hu": "Tervezze a visszautat 17:00 óra elé.",
+                "ro": "Planificați returul înainte de ora 17:00.",
+                "en": "Plan your return trip before 17:00."
+              }
+            },
+            {
+              "name": "Wignacourt Aqueduct",
+              "tip_5lang": {
+                "de": "Im Winter abends stimmungsvoll beleuchtet.",
+                "hu": "Télen esténként hangulatos kivilágítást kap.",
+                "ro": "Iluminat atmosferic în serile de iarnă.",
+                "en": "Atmospherically lit on winter evenings."
+              }
+            },
+            {
+              "name": "Birkirkara Tower",
+              "tip_5lang": {
+                "de": "Gute Busverbindungen zurück nach Valletta/Sliema.",
+                "hu": "Jó buszközlekedés vissza Valletta vagy Sliema felé.",
+                "ro": "Conexiuni bune spre Valletta sau Sliema.",
+                "en": "Good bus connections back to Valletta or Sliema."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Wintermonate für entspanntes Reisen ohne Hitze.",
+              "Busse sind im Winter weniger überfüllt als im Sommer.",
+              "Ab 17:00 Uhr wird es in den Bussen durch die Klimaanlage oft kühl.",
+              "Der Fahrplan ist im Winter stabil, aber prüfen Sie Feiertage.",
+              "Birkirkara ist ein wichtiger Transitknoten; fast jeder Bus hält hier."
+            ],
+            "hu": [
+              "Használja ki a téli hónapokat a kánikula nélküli utazáshoz.",
+              "A buszok télen kevésbé zsúfoltak, mint nyáron.",
+              "17:00 után a buszokon a légkondicionálás miatt hűvös lehet.",
+              "A menetrend télen stabil, de ellenőrizze az ünnepnapokat.",
+              "Birkirkara fontos csomópont; szinte minden járat érinti."
+            ],
+            "ro": [
+              "Profitați de lunile de iarnă pentru a călători fără caniculă.",
+              "Autobuzele sunt mai puțin aglomerate iarna decât vara.",
+              "După ora 17:00 poate fi răcoare în autobuz din cauza climei.",
+              "Orarele sunt stabile iarna, dar verificați sărbătorile legale.",
+              "Birkirkara este un nod important; aproape orice bus oprește aici."
+            ],
+            "en": [
+              "Use the winter months for relaxed travel without the summer heat.",
+              "Buses are less crowded in winter compared to summer.",
+              "After 17:00, it can get chilly on the bus due to the AC settings.",
+              "The schedule is stable in winter, but check for public holidays.",
+              "Birkirkara is a major transit hub; almost every bus stops here."
+            ]
+          }
+        }
       }
     }
   }

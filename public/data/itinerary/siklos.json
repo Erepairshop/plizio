@@ -322,6 +322,188 @@
           "Allow at least two hours for Siklós Castle; there is a lot to explore.",
           "Many small shops and cafes may only accept cash."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Vormittag am Hauptplatz lädt dazu ein, schnell in die historischen Gebäude zu flüchten. Die Moschee und die serbische Kirche bieten trockene Stille für Besichtigungen. Zu Mittag wärmt man sich bei lokaler Küche auf, bevor man die dicken Mauern der Burg Siklós erkundet. Den krönenden Abschluss bildet das Thermalbad, wo das Prasseln des Regens auf den Glasdächern für Gemütlichkeit sorgt.",
+            "hu": "Az esős délelőtt a főtéren gyors menedéket kíván a történelmi falak között. A Malkocs bej dzsámi és a szerb templom csendes, száraz menedéket nyújt a városnézéshez. Ebéd után a Siklósi Vár vaskos falai között kalandozhatunk az eső elől elrejtve. A napot a termálfürdőben zárjuk, ahol a tetőablakokon kopogó eső mellett is tökéletes a pihenés a meleg vízben.",
+            "ro": "O dimineață ploioasă în piața centrală vă îndeamnă să vă refugiați rapid în clădirile istorice. Moscheea și biserica sârbă oferă liniște și adăpost pentru vizitare. La prânz, bucurați-vă de preparate locale calde înainte de a explora interiorul cetății Siklós. Finalul zilei aparține băilor termale, unde sunetul ploii pe cupolele de sticlă creează o atmosferă relaxantă.",
+            "en": "A rainy morning at the main square calls for quick shelter among historical sites. The mosque and the Serbian church provide quiet, dry spaces for exploration. After a warm lunch, spend the afternoon within the massive, protective walls of Siklós Castle. Finish your day at the Thermal Spa, where the sound of rain on the glass roof adds to the cozy indoor swimming experience."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Main Square",
+              "tip_5lang": {
+                "de": "Unter den Arkaden des Rathauses findet man Schutz vor dem ersten Regenschauer.",
+                "hu": "A városháza árkádjai alatt védelmet találhatunk az első záporok elől.",
+                "ro": "Găsiți adăpost sub arcadele primăriei în cazul unei averse bruște.",
+                "en": "Seek shelter under the town hall's arcades if a sudden downpour starts."
+              }
+            },
+            {
+              "name": "Mosque of Malkoch Bey",
+              "tip_5lang": {
+                "de": "Das authentische Interieur ist der perfekte Ort, um einen starken Guss abzuwarten.",
+                "hu": "A dzsámi belső tere tökéletes hely egy komolyabb felhőszakadás kivárására.",
+                "ro": "Interiorul autentic este locul perfect pentru a aștepta trecerea ploii.",
+                "en": "The authentic interior is a great place to wait out a heavy shower."
+              }
+            },
+            {
+              "name": "Serbian Orthodox Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Ikonostase, während Ihre Kleidung im Vorraum trocknen kann.",
+                "hu": "Csodálja meg az ikonosztázt, amíg a vizes kabátok megszáradnak az előtérben.",
+                "ro": "Admirați iconostasul în timp ce hainele se pot usca puțin în vestibul.",
+                "en": "Admire the iconostasis while your gear dries off a bit in the entrance."
+              }
+            },
+            {
+              "name": "Siklós Castle",
+              "tip_5lang": {
+                "de": "Die Ausstellungen in den geschlossenen Räumen bieten stundenlanges Programm im Trockenen.",
+                "hu": "A vár belső kiállításai órákra elegendő látnivalót kínálnak szárazon.",
+                "ro": "Expozițiile din spațiile interioare oferă ore de program ferite de ploaie.",
+                "en": "The indoor exhibitions provide hours of sightseeing away from the rain."
+              }
+            },
+            {
+              "name": "Lunch at a local restaurant",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einer heißen Gulaschsuppe, um die Glieder wieder aufzuwärmen.",
+                "hu": "Kérjen egy forró gulyáslevest, hogy átmelegedjen az esős séta után.",
+                "ro": "Comandați o ciorbă caldă pentru a vă încălzi după plimbarea prin ploaie.",
+                "en": "Order a hot goulash soup to warm up after the rainy walk."
+              }
+            },
+            {
+              "name": "Siklós Thermal Spa",
+              "tip_5lang": {
+                "de": "Das Wellnesserlebnis ist bei Regen durch die Innenbecken besonders gemütlich.",
+                "hu": "A beltéri medencék miatt az esőben is teljes értékű a wellness élmény.",
+                "ro": "Experiența wellness este ideală datorită numeroaselor bazine interioare.",
+                "en": "The wellness experience is complete thanks to the many indoor pools."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster rutschig werden kann.",
+              "Die Burg und das Bad liegen nah beieinander, ideal für kurze Regenwege.",
+              "In der Burg gibt es ein Café, falls Sie einen Schauer aussitzen müssen.",
+              "Nutzen Sie die Schließfächer im Bad für Ihre nassen Regenschirme."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskaköves utcák csúszóssá válhatnak.",
+              "A vár és a fürdő közel van egymáshoz, minimális az esőben töltött idő.",
+              "A várban van kávézó, ha várakozni kellene a felhők elvonulására.",
+              "Használja a fürdő öltözőit a vizes esernyők és kabátok tárolására."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul poate deveni alunecos.",
+              "Castelul și băile sunt aproape, deci expunerea la ploaie este minimă.",
+              "Există o cafenea în castel unde puteți aștepta trecerea ploii.",
+              "Folosiți vestiarele de la băi pentru a depozita umbrelele ude."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestone streets can get slippery.",
+              "The castle and spa are close together, minimizing time spent in the rain.",
+              "There is a cafe inside the castle if you need to wait for a storm to pass.",
+              "Use the lockers at the spa to store your wet umbrellas and jackets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Siklós beginnt mit frostiger Frische auf dem Hauptplatz. Die historischen Gotteshäuser bieten windgeschützte Ruhe. Nach einem deftigen Mittagessen wärmt man sich in den beheizten Museumsräumen der Burg auf. Der späte Nachmittag gehört dem Dampf der Thermalbecken, wobei die Außenbecken im Frost ein besonders magisches Erlebnis bei Sonnenuntergang bieten.",
+            "hu": "A fagyos téli reggel a főtéren friss levegővel fogad. A városnézés során a dzsámi és a templom szélvédett belső terei nyújtanak megnyugvást. Egy kiadós ebéd után a Siklósi Vár fűtött kiállítótermei várják a látogatókat. A nap végén a termálfürdő gőzölgő vize a legjobb választás, ahol a kültéri medence a fagyos levegőben különleges élmény sötétedéskor.",
+            "ro": "O dimineață geroasă de iarnă începe cu aer proaspăt în piața centrală. Lăcașurile de cult oferă liniște și protecție împotriva vântului. După un prânz copios, vizitați camerele muzeale încălzite din cetatea Siklós. După-amiaza târzie aparține aburilor bazinelor termale; bazinele exterioare oferă o experiență magică la apus în aerul rece.",
+            "en": "A crisp winter morning in Siklós starts with frosty air at the main square. The historic religious sites offer wind-protected serenity. After a hearty lunch, warm up in the heated museum rooms of the Castle. The late afternoon is best spent in the steaming thermal waters, where the outdoor pools provide a magical experience as the sun sets early."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Main Square",
+              "tip_5lang": {
+                "de": "Besuchen Sie eine Konditorei am Platz für einen heißen Kakao zum Start.",
+                "hu": "Indítsa a napot egy forró kakaóval a főtér egyik cukrászdájában.",
+                "ro": "Începeți ziua cu o ciocolată caldă la o cofetărie din piață.",
+                "en": "Start your day with a hot cocoa at a pastry shop on the square."
+              }
+            },
+            {
+              "name": "Mosque of Malkoch Bey",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen, ideal für eine ruhige Pause.",
+                "hu": "A vastag falak kint tartják a téli szelet, ideális hely egy nyugodt szünetre.",
+                "ro": "Zidurile groase țin frigul afară, fiind un loc bun pentru o pauză scurtă.",
+                "en": "The thick walls keep the winter wind out, making it a calm break spot."
+              }
+            },
+            {
+              "name": "Serbian Orthodox Church",
+              "tip_5lang": {
+                "de": "Beachten Sie die winterliche Stille und das besondere Licht im Inneren.",
+                "hu": "Figyelje meg a téli csendet és a különleges fényjátékot odabent.",
+                "ro": "Observați liniștea iernii și lumina specială din interior.",
+                "en": "Notice the winter silence and the special light inside the church."
+              }
+            },
+            {
+              "name": "Siklós Castle",
+              "tip_5lang": {
+                "de": "Die Innenräume sind beheizt, was den Besuch auch im Winter sehr angenehm macht.",
+                "hu": "A vár belső terei fűtöttek, így télen is kényelmesen látogatható.",
+                "ro": "Spațiile interioare sunt încălzite, făcând vizita plăcută și iarna.",
+                "en": "The interior spaces are heated, making the visit comfortable in winter."
+              }
+            },
+            {
+              "name": "Lunch at a local restaurant",
+              "tip_5lang": {
+                "de": "Probieren Sie Wildgerichte oder herzhafte Eintöpfe aus der Region.",
+                "hu": "Kóstolja meg a környék vadételeit vagy laktató egytálételeit.",
+                "ro": "Gustați preparate din vânat sau tocănițe consistente din regiune.",
+                "en": "Try local game dishes or hearty stews from the region."
+              }
+            },
+            {
+              "name": "Siklós Thermal Spa",
+              "tip_5lang": {
+                "de": "Das Außenbecken im Dampf bei Sonnenuntergang (ca. 16:30 Uhr) ist ein Muss.",
+                "hu": "A kültéri medence a gőzben, naplementekor (16:30 körül) kihagyhatatlan.",
+                "ro": "Bazinul exterior în aburi, la apus (aprox. 16:30), este de neratat.",
+                "en": "The steaming outdoor pool at sunset (around 4:30 PM) is a must-do."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip für den Wechsel zwischen Kälte und Heizung.",
+              "Die Sonne geht im Winter gegen 16:30 Uhr unter, planen Sie das Bad danach.",
+              "Vorsicht vor gefrorenen Stellen auf dem Pflaster um den Burgberg.",
+              "Das Thermalbad bietet auch Saunen zum Aufwärmen nach dem Spaziergang."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a kinti hideg és a benti fűtés közötti váltásokhoz.",
+              "A nap télen 16:30 körül nyugszik, a fürdőt érdemes sötétedésre hagyni.",
+              "Vigyázzon a lefagyott részekre a vár körüli macskaköveken.",
+              "A fürdő szaunavilága kiváló az átfázott végtagok felmelegítésére."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru tranziția între frig și spații încălzite.",
+              "Soarele apune în jur de 16:30; lăsați vizita la băi pentru finalul zilei.",
+              "Atenție la porțiunile înghețate de pe pavajul din jurul cetății.",
+              "Zona de saune de la băi este excelentă pentru a vă încălzi după plimbare."
+            ],
+            "en": [
+              "Dress in layers to adjust between the outdoor cold and indoor heating.",
+              "Sunset is around 4:30 PM in winter; plan the spa visit for after dark.",
+              "Watch out for icy patches on the cobblestones around the castle hill.",
+              "The spa's sauna world is excellent for warming up after a long walk."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -638,6 +820,188 @@
           "Bring plenty of water, especially for the climb.",
           "Some bike paths can be gravel, so be prepared."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert gute Ausrüstung, bietet aber leere Wege rund um Siklós. Die Burg dient als erster großer Unterstand für kulturelle Entdeckungen. Die Fahrt zum Franziskanerkloster ist kurz und führt durch das Zentrum. Nach einem stärkenden Mittagessen geht es auf die etwas rutschige Strecke nach Máriagyűd, bevor man die nassen Radsachen im Thermalbad gegen warmes Wasser eintauscht.",
+            "hu": "Az esős bringázás megfelelő felszerelést igényel, de cserébe üres utakat kínál Siklós körül. A vár az első megálló, ahol fedett helyen ismerkedhetünk a történelemmel. A ferences kolostorhoz vezető út rövid, a városközponton át vezet. Ebéd után a csúszósabb máriagyűdi szakasz következik, majd a vizes ruhákat a termálfürdő forró vizére cseréljük.",
+            "ro": "O tură cu bicicleta în ploaie necesită echipament bun, dar oferă trasee libere. Cetatea servește ca prim adăpost pentru descoperiri culturale. Drumul spre mănăstirea franciscană este scurt, prin centrul orașului. După un prânz revigorant, urmează secțiunea spre Máriagyűd, unde trebuie atenție la drum, apoi relaxarea binemeritată la băile termale.",
+            "en": "Cycling in the rain requires proper gear but rewards you with empty paths around Siklós. The Castle serves as the first major shelter for cultural discovery. The ride to the Franciscan Monastery is short and leads through the center. After a strengthening lunch, tackle the slightly slippery route to Máriagyűd before swapping wet clothes for warm spa water."
+          },
+          "stops": [
+            {
+              "name": "Siklós Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um die Fahrräder kurz abzustellen.",
+                "hu": "Használja a fedett bejáratot a kerékpárok ideiglenes leállításához.",
+                "ro": "Folosiți zona acoperită de la intrare pentru a parca scurt bicicletele.",
+                "en": "Use the covered entrance area to briefly park your bicycles."
+              }
+            },
+            {
+              "name": "Mosque of Malkoch Bey",
+              "tip_5lang": {
+                "de": "Ein schneller Stopp, bei dem man direkt vor dem Eingang parken kann.",
+                "hu": "Gyors megálló, ahol közvetlenül a bejárat előtt lezárhatjuk a bringát.",
+                "ro": "O oprire rapidă unde puteți parca chiar în fața intrării.",
+                "en": "A quick stop where you can park right in front of the entrance."
+              }
+            },
+            {
+              "name": "Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Die ruhige Anlage bietet Schutz vor dem Wind während der Besichtigung.",
+                "hu": "A csendes épületegyüttes szélvédett helyet biztosít a látogatás alatt.",
+                "ro": "Complexul liniștit oferă protecție împotriva vântului în timpul vizitei.",
+                "en": "The quiet complex provides wind protection during your visit."
+              }
+            },
+            {
+              "name": "Lunch in town",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal mit Platz für Ihre nassen Regenjacken.",
+                "hu": "Válasszon olyan helyet, ahol van hely a vizes esőkabátoknak.",
+                "ro": "Alegeți un local cu spațiu pentru gecile ude de ploaie.",
+                "en": "Choose a restaurant with space to hang your wet rain jackets."
+              }
+            },
+            {
+              "name": "Máriagyűd Pilgrimage Church",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Abfahrt, nasse Blätter können die Straße rutschig machen.",
+                "hu": "Vigyázat a lejtőn, a vizes levelek csúszóssá tehetik az utat.",
+                "ro": "Atenție la coborâre, frunzele ude pot face drumul alunecos.",
+                "en": "Caution on the descent; wet leaves can make the road slippery."
+              }
+            },
+            {
+              "name": "Siklós Thermal Spa",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich direkt am Haupteingang.",
+                "hu": "Biztonságos kerékpártárolók találhatók közvetlenül a főbejáratnál.",
+                "ro": "Suporturi sigure pentru biciclete se află chiar la intrarea principală.",
+                "en": "Secure bike racks are located right by the main entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein kompletter Satz Regenbekleidung und Überschuhe sind unerlässlich.",
+              "Prüfen Sie Ihre Bremsen, da der Bremsweg auf nasser Straße länger ist.",
+              "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen können.",
+              "Das Bad bietet Föhne, um auch die Haare nach der Tour schnell zu trocknen."
+            ],
+            "hu": [
+              "A teljes esőruházat és a cipővédő elengedhetetlen kellék.",
+              "Ellenőrizze a fékeket, mert vizes úton hosszabb a féktáv.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek.",
+              "A fürdőben vannak hajszárítók, így a túra után gyorsan rendbejöhet."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie și protecțiile pentru pantofi sunt esențiale.",
+              "Verificați frânele, distanța de frânare este mai mare pe carosabil ud.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci.",
+              "Băile oferă uscătoare de păr pentru a vă reface rapid după tură."
+            ],
+            "en": [
+              "Full rain gear and shoe covers are essential for this tour.",
+              "Check your brakes as the braking distance is longer on wet roads.",
+              "Avoid puddles as they can hide deep potholes.",
+              "The spa provides hairdryers so you can dry off quickly after the ride."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biken in Südtransdanubien ist bei trockener Kälte ein Genuss. Die Tour beginnt an der mächtigen Burg Siklós, deren Mauern den Wind brechen. Durch die ruhige Innenstadt geht es zum Kloster, bevor ein warmes Mittagessen neue Energie liefert. Die Radtour nach Máriagyűd bietet bei klarer Luft weite Ausblicke über die Weinberge. Das Ziel ist das Thermalbad, wo die Wärme das perfekte Ende der Tour markiert.",
+            "hu": "A téli bringázás Dél-Dunántúlon száraz hidegben igazi élvezet. A túra a hatalmas Siklósi Várnál indul, melynek falai megtörik a szelet. A csendes belvároson át jutunk el a kolostorig, majd egy meleg ebéd ad új erőt. A máriagyűdi tekerés tiszta időben csodás kilátást nyújt a szőlőhegyekre. A végállomás a termálfürdő, ahol a forró víz feledteti a kinti fagyot.",
+            "ro": "Ciclismul de iarnă în sudul Transdanubiei este o plăcere în zilele cu ger uscat. Turul începe la impunătoarea cetate Siklós, ale cărei ziduri opresc vântul. Prin centrul liniștit ajungem la mănăstire, apoi un prânz cald oferă energie nouă. Drumul spre Máriagyűd oferă vederi largi peste podgorii în aerul curat. Destinația este baia termală, unde căldura încheie perfect turul.",
+            "en": "Winter cycling in Southern Transdanubia is a joy in dry, cold weather. The tour begins at the mighty Siklós Castle, whose walls break the wind. Ride through the quiet city center to the monastery before a warm lunch re-energizes you. The bike ride to Máriagyűd offers wide views over the vineyards in the clear air. The final destination is the Thermal Spa, where warmth marks the perfect end."
+          },
+          "stops": [
+            {
+              "name": "Siklós Castle",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Schlossmuseum auf, bevor Sie die Tour fortsetzen.",
+                "hu": "Melegedjen fel a vármúzeumban, mielőtt folytatná a túrát.",
+                "ro": "Încălziți-vă în muzeul castelului înainte de a continua turul.",
+                "en": "Warm up in the castle museum before continuing your tour."
+              }
+            },
+            {
+              "name": "Mosque of Malkoch Bey",
+              "tip_5lang": {
+                "de": "Ein windgeschützter Ort für eine kurze kulturelle Pause.",
+                "hu": "Szélvédett helyszín egy rövid kulturális megállóhoz.",
+                "ro": "O locație ferită de vânt pentru o scurtă pauză culturală.",
+                "en": "A wind-protected location for a short cultural break."
+              }
+            },
+            {
+              "name": "Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Stille der winterlichen Klosteranlage.",
+                "hu": "Csodálja meg a téli kolostorkert és épület nyugalmát.",
+                "ro": "Admirați liniștea complexului monahal în timpul iernii.",
+                "en": "Admire the silence of the winter monastery complex."
+              }
+            },
+            {
+              "name": "Lunch in town",
+              "tip_5lang": {
+                "de": "Wählen Sie kalorienreiche Speisen für die weitere Fahrt in der Kälte.",
+                "hu": "Válasszon kalóriadús ételeket a hidegben való további tekeréshez.",
+                "ro": "Alegeți preparate bogate caloric pentru continuarea drumului prin frig.",
+                "en": "Choose high-calorie meals for the continued ride in the cold."
+              }
+            },
+            {
+              "name": "Máriagyűd Pilgrimage Church",
+              "tip_5lang": {
+                "de": "Die Auffahrt hält den Kreislauf in der Winterkälte in Schwung.",
+                "hu": "A felfelé menet segít mozgásban tartani a vérkeringést a hidegben.",
+                "ro": "Urcarea ajută la menținerea circulației sângelui în frigul iernii.",
+                "en": "The uphill climb helps keep your circulation going in the winter cold."
+              }
+            },
+            {
+              "name": "Siklós Thermal Spa",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Sie sich vor der Heimfahrt komplett abtrocknen.",
+                "hu": "Ügyeljen rá, hogy teljesen megszáradjon a hazaindulás előtt.",
+                "ro": "Asigurați-vă că vă uscați complet înainte de drumul spre casă.",
+                "en": "Make sure you dry off completely before heading home."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Unterwäsche und winddichte Kleidung sind bei Frost Pflicht.",
+              "Halten Sie die Trinkflasche nah am Körper, damit das Wasser nicht gefriert.",
+              "Achten Sie auf Schattenstellen, wo Glatteis länger bestehen bleiben kann.",
+              "Planen Sie die Tour so, dass Sie vor Sonnenuntergang (16:30) im Bad sind."
+            ],
+            "hu": [
+              "A termo-aláöltözet és a szélálló ruházat kötelező fagyban.",
+              "Tartsa a kulacsot a testéhez közel, hogy ne fagyjon meg a vize.",
+              "Figyeljen az árnyékos szakaszokra, ahol a jegesedés megmaradhat.",
+              "Úgy tervezze, hogy naplemente előtt (16:30) érjen a fürdőbe."
+            ],
+            "ro": [
+              "Lenjeria termică și hainele rezistente la vânt sunt obligatorii pe ger.",
+              "Țineți bidonul cu apă aproape de corp pentru a preveni înghețarea.",
+              "Atenție la porțiunile umbrite unde gheața poate persista.",
+              "Planificați tura astfel încât să ajungeți la băi înainte de apus (16:30)."
+            ],
+            "en": [
+              "Thermal base layers and windproof clothing are mandatory in frost.",
+              "Keep your water bottle close to your body to prevent freezing.",
+              "Watch out for shaded areas where black ice might linger.",
+              "Plan your tour to reach the spa before sunset (4:30 PM)."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -978,6 +1342,206 @@
           "Parking in the center of Siklós can fill up quickly in the summer.",
           "Check the opening hours of the wineries in advance, some require reservations."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie die Region Siklós bequem und trocken. Nach dem Besuch der Burg und der Moschee führt die Fahrt zum Skulpturenpark von Nagyharsány, der im Regen eine dramatische Atmosphäre bietet. Ein ausgiebiges Mittagessen in Villány ist der perfekte Zufluchtsort vor dem Wetter. Den Tag beenden wir entspannt im Thermalbad von Siklós, während draußen der Regen fällt.",
+            "hu": "Autóval kényelmesen és szárazon fedezhetjük fel a környéket az esőben is. A vár és a dzsámi után a Nagyharsányi Szoborpark következik, amely esőben különösen drámai látványt nyújt. Egy hosszú ebéd Villányban a legjobb menedék az időjárás elől. A napot a siklósi termálfürdőben zárjuk, ahol a benti medencékben pihenhetünk, amíg kint esik.",
+            "ro": "Cu mașina puteți explora regiunea Siklós confortabil și feriți de ploaie. După cetate și moschee, drumul duce la parcul de sculpturi din Nagyharsány, care are o atmosferă dramatică pe ploaie. Un prânz prelungit în Villány este refugiul perfect împotriva vremii. Încheiem ziua relaxați la băile termale din Siklós, în timp ce afară plouă.",
+            "en": "By car, you can explore the Siklós region comfortably and dry. After visiting the Castle and Mosque, drive to the Nagyharsány Sculpture Park, which offers a dramatic atmosphere in the rain. A long lunch in Villány is the perfect sanctuary from the weather. End the day relaxing at the Siklós Thermal Spa while the rain falls outside."
+          },
+          "stops": [
+            {
+              "name": "Park and start at the base of Siklós Castle",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Eingang, so bleibt man beim Aussteigen trocken.",
+                "hu": "A parkoló közel van a bejárathoz, így kiszálláskor alig érheti eső.",
+                "ro": "Parcarea este aproape de intrare, astfel rămâneți uscați la coborâre.",
+                "en": "The parking lot is close to the entrance, so you'll stay dry getting out."
+              }
+            },
+            {
+              "name": "Siklós Castle",
+              "tip_5lang": {
+                "de": "Im Inneren der Burg gibt es viele geschützte Räume für die Besichtigung.",
+                "hu": "A vár belsejében számos védett terem várja a látogatókat.",
+                "ro": "În interiorul cetății există multe săli protejate pentru vizitare.",
+                "en": "Inside the castle, there are many protected rooms for your visit."
+              }
+            },
+            {
+              "name": "Mosque of Malkoch Bey",
+              "tip_5lang": {
+                "de": "Parken Sie direkt in den umliegenden Straßen für einen kurzen Fußweg.",
+                "hu": "Parkoljon a közvetlen környező utcákban a rövid séta érdekében.",
+                "ro": "Parcați pe străzile din imediata apropiere pentru o plimbare scurtă.",
+                "en": "Park in the immediate surrounding streets for a short walk."
+              }
+            },
+            {
+              "name": "Nagyharsány Sculpture Park",
+              "tip_5lang": {
+                "de": "Die Pfade können matschig sein, bleiben Sie auf den befestigten Wegen.",
+                "hu": "Az ösvények sarasak lehetnek, maradjon a kiépített utakon.",
+                "ro": "Potecile pot fi noroioase, rămâneți pe drumurile amenajate.",
+                "en": "The paths can be muddy; stay on the paved or designated walkways."
+              }
+            },
+            {
+              "name": "Lunch in Villány",
+              "tip_5lang": {
+                "de": "Die Weinkeller von Villány bieten den besten Schutz vor dem Regen.",
+                "hu": "A villányi borospincék nyújtják a legjobb védelmet az eső elől.",
+                "ro": "Cramele din Villány oferă cel mai bun adăpost împotriva ploii.",
+                "en": "The wine cellars of Villány offer the best protection from the rain."
+              }
+            },
+            {
+              "name": "Máriagyűd Pilgrimage Church",
+              "tip_5lang": {
+                "de": "Der obere Parkplatz bringt Sie fast direkt zum Kircheneingang.",
+                "hu": "A felső parkoló szinte közvetlenül a templom bejáratához visz.",
+                "ro": "Parcarea de sus vă duce aproape direct la intrarea în biserică.",
+                "en": "The upper parking lot takes you almost directly to the church entrance."
+              }
+            },
+            {
+              "name": "Siklós Thermal Spa",
+              "tip_5lang": {
+                "de": "Großer beleuchteter Parkplatz direkt vor dem Haupteingang verfügbar.",
+                "hu": "Nagy, kivilágított parkoló áll rendelkezésre közvetlenül a bejáratnál.",
+                "ro": "Parcare mare iluminată disponibilă chiar în fața intrării principale.",
+                "en": "Large, lit parking lot available right in front of the main entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt durch die Weinberge.",
+              "In Villány gibt es viele überdachte Terrassen und Weinstuben.",
+              "Nehmen Sie einen Regenschirm im Auto mit für die kurzen Wege zu den POIs.",
+              "Die Landstraßen können bei starkem Regen Wasseransammlungen haben."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket a szőlőhegyek közötti autózás előtt.",
+              "Villányban sok a fedett terasz és borozó, ahol megpihenhet.",
+              "Tartson esernyőt az autóban a látnivalókig vezető rövid sétákhoz.",
+              "Az országutakon nagyobb esőben vízátfolyások alakulhatnak ki."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de drumul printre podgorii.",
+              "În Villány există multe terase acoperite și crame unde puteți poposi.",
+              "Țineți o umbrelă în mașină pentru drumurile scurte până la obiective.",
+              "Pe drumurile județene pot apărea acumulări de apă în caz de ploaie torențială."
+            ],
+            "en": [
+              "Check your windshield wipers before driving through the vineyards.",
+              "In Villány, there are many covered terraces and wine bars to relax in.",
+              "Keep an umbrella in the car for the short walks to the attractions.",
+              "Be careful of water pooling on the country roads during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch die verschneiten Weinberge Südungarns ist ein Erlebnis. Nach der Besichtigung der historischen Burg Siklós führt der Weg zum Skulpturenpark, wo die Kunstwerke im Frost besonders hervorstechen. Ein gemütliches Mittagessen in einem warmen Keller in Villány sorgt für Wohlbefinden. Über den Wallfahrtsort Máriagyűd kehren wir zum Thermalbad zurück, um den Tag im heißen Wasser ausklingen zu lassen.",
+            "hu": "A téli autózás a dél-magyarországi szőlőhegyek között különleges élmény. A Siklósi Vár megtekintése után a szoborpark felé vesszük az irányt, ahol a műalkotások a zúzmarában még szebbek. Egy hangulatos ebéd Villány egyik meleg pincéjében garantálja a jókedvet. Máriagyűd érintésével térünk vissza a fürdőbe, hogy a napot forró vízben zárjuk.",
+            "ro": "O plimbare de iarnă prin podgoriile înzăpezite din sudul Ungariei este o experiență deosebită. După cetatea Siklós, mergem spre parcul de sculpturi, unde operele de artă ies în evidență prin promoroacă. Un prânz primitor într-o cramă încălzită din Villány asigură buna dispoziție. Prin Máriagyűd revenim la băile termale pentru a încheia ziua în apă fierbinte.",
+            "en": "A winter drive through the snowy vineyards of Southern Hungary is a special experience. After visiting the historic Siklós Castle, head to the sculpture park, where the artworks stand out in the frost. A cozy lunch in a warm cellar in Villány ensures a good mood. Via the pilgrimage site of Máriagyűd, return to the spa to end the day in hot water."
+          },
+          "stops": [
+            {
+              "name": "Park and start at the base of Siklós Castle",
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Glätte auf dem Parkplatz am Hang.",
+                "hu": "Ügyeljen az esetleges jegesedésre a lejtős parkolóban.",
+                "ro": "Atenție la posibilele porțiuni cu gheață în parcarea în pantă.",
+                "en": "Watch out for potential ice in the sloping parking lot."
+              }
+            },
+            {
+              "name": "Siklós Castle",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über das winterliche Land von den Mauern.",
+                "hu": "Élvezze a kilátást a téli tájra a várfalakról.",
+                "ro": "Bucurați-vă de vederea panoramică asupra peisajului de iarnă de pe ziduri.",
+                "en": "Enjoy the wide view over the winter landscape from the castle walls."
+              }
+            },
+            {
+              "name": "Mosque of Malkoch Bey",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp in einem der wenigen erhaltenen osmanischen Gebäude.",
+                "hu": "Rövid megálló az egyik kevés épségben maradt oszmán épületnél.",
+                "ro": "O oprire scurtă la una dintre puținele clădiri otomane rămase intacte.",
+                "en": "A short stop at one of the few surviving Ottoman buildings."
+              }
+            },
+            {
+              "name": "Nagyharsány Sculpture Park",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist hier wichtig, da der Park sehr windanfällig ist.",
+                "hu": "A meleg ruha fontos itt, mert a park nagyon szeles tud lenni.",
+                "ro": "Hainele groase sunt importante, deoarece parcul este foarte expus vântului.",
+                "en": "Warm clothing is important here as the park is very exposed to the wind."
+              }
+            },
+            {
+              "name": "Lunch in Villány",
+              "tip_5lang": {
+                "de": "Die Weinkeller sind im Winter angenehm temperiert und sehr gemütlich.",
+                "hu": "A borospincék télen kellemes hőmérsékletűek és nagyon hangulatosak.",
+                "ro": "Cramele au o temperatură plăcută iarna și sunt foarte primitoare.",
+                "en": "The wine cellars have a pleasant temperature in winter and are very cozy."
+              }
+            },
+            {
+              "name": "Máriagyűd Pilgrimage Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie den kleinen Stand für Lebkuchen und heißen Tee am Fuß.",
+                "hu": "Látogassa meg a mézeskalácsos bódét egy forró teáért a domb alján.",
+                "ro": "Vizitați chioșcul cu turtă dulce pentru un ceai cald la baza dealului.",
+                "en": "Visit the gingerbread stall for a hot tea at the foot of the hill."
+              }
+            },
+            {
+              "name": "Siklós Thermal Spa",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgaragenplätze, wenn verfügbar, um das Auto eisfrei zu halten.",
+                "hu": "Használja a fedett parkolót, ha van rá mód, hogy az autó ne fagyjon le.",
+                "ro": "Folosiți locurile de parcare acoperite dacă sunt disponibile.",
+                "en": "Use the covered parking spaces if available to keep the car ice-free."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Auto mit Winterreifen und Frostschutz ausgestattet ist.",
+              "Die Bergstraßen in der Villány-Region können bei Schneefall tückisch sein.",
+              "Planen Sie mehr Zeit für die Fahrten ein, wenn die Sicht schlecht ist.",
+              "Im Winter sind die Parkplätze in Villány meist leichter zu finden."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy autója fel van készítve a téli útviszonyokra.",
+              "A villányi dombság útjai hóesésben trükkösek lehetnek.",
+              "Tervezzen több időt az utazásra, ha rosszak a látási viszonyok.",
+              "Télen a parkolás Villányban általában sokkal egyszerűbb."
+            ],
+            "ro": [
+              "Asigurați-vă că mașina este echipată corespunzător pentru iarnă.",
+              "Drumurile din zona dealurilor Villány pot fi dificile în caz de ninsoare.",
+              "Planificați mai mult timp pentru deplasare dacă vizibilitatea este redusă.",
+              "Iarna, locurile de parcare în Villány sunt de obicei mai ușor de găsit."
+            ],
+            "en": [
+              "Ensure your car is properly equipped for winter road conditions.",
+              "The roads in the Villány hills can be tricky during snowfall.",
+              "Allow more time for travel if visibility is poor.",
+              "In winter, parking in Villány is usually much easier to find."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1294,6 +1858,188 @@
           "Buy tickets in advance or make sure you have small change for the driver.",
           "Plan for buffer time for potential delays."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel machen den Regentag in Siklós stressfrei. Nach der Ankunft am Busbahnhof ist die Burg nur einen kurzen, regnerischen Spaziergang entfernt. Die Busverbindung nach Máriagyűd bietet eine trockene Fahrt zum Wallfahrtsort. Ein warmes Mittagessen vor Ort oder in Siklós stärkt Sie für den Nachmittag. Die Tour endet am Thermalbad, von wo aus Sie bequem den Bus zurück nehmen können.",
+            "hu": "A tömegközlekedés stresszmentessé teszi az esős napot Siklóson. Az autóbusz-állomásról a vár csak egy rövid, esernyős séta. A máriagyűdi buszjárat száraz utazást biztosít a kegyhelyig. Egy meleg ebéd helyben vagy Siklóson új erőt ad. A napot a termálfürdőben fejezzük be, ahonnan kényelmesen elérhetjük a visszatérő buszokat.",
+            "ro": "Transportul public face ca o zi ploioasă în Siklós să fie fără stres. După sosirea la autogară, castelul este la doar o scurtă plimbare prin ploaie. Autobuzul spre Máriagyűd oferă o călătorie uscată până la locul de pelerinaj. Un prânz cald vă va revigora pentru după-amiază. Turul se încheie la băile termale, de unde puteți lua ușor autobuzul înapoi.",
+            "en": "Public transport makes a rainy day in Siklós stress-free. After arriving at the bus station, the castle is just a short, rainy walk away. The bus connection to Máriagyűd provides a dry ride to the pilgrimage site. A warm lunch locally or back in Siklós will re-energize you. The tour ends at the Thermal Spa, from where you can easily catch a bus back."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Siklós bus station",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Wartebereich, bis der erste Schauer nachlässt.",
+                "hu": "Várjon a fedett várakozóban, amíg az első zápor alábbhagy.",
+                "ro": "Așteptați în zona acoperită până când ploaia se mai potolește.",
+                "en": "Wait in the covered waiting area until the initial shower eases off."
+              }
+            },
+            {
+              "name": "Siklós Castle",
+              "tip_5lang": {
+                "de": "Der Fußweg vom Bahnhof zur Burg dauert ca. 10 Minuten im Regen.",
+                "hu": "A sétát az állomástól a várig kb. 10 perc alatt megtehetjük esőben is.",
+                "ro": "Drumul pe jos de la autogară la castel durează aproximativ 10 minute.",
+                "en": "The walk from the station to the castle takes about 10 minutes in the rain."
+              }
+            },
+            {
+              "name": "Mosque and Serbian Church",
+              "tip_5lang": {
+                "de": "Diese Sehenswürdigkeiten liegen auf dem Weg zum Bus nach Máriagyűd.",
+                "hu": "Ezek a látnivalók útba esnek a Máriagyűd felé induló buszmegállóhoz.",
+                "ro": "Aceste obiective sunt în drum spre stația de autobuz pentru Máriagyűd.",
+                "en": "These sights are on the way to the bus stop for Máriagyűd."
+              }
+            },
+            {
+              "name": "Bus ride to Máriagyűd",
+              "tip_5lang": {
+                "de": "Die Busfahrt dauert nur wenige Minuten und hält fast vor der Kirche.",
+                "hu": "A buszút pár perc, és szinte a templom előtt tesz le.",
+                "ro": "Călătoria cu autobuzul durează câteva minute și oprește aproape de biserică.",
+                "en": "The bus ride takes only a few minutes and drops you near the church."
+              }
+            },
+            {
+              "name": "Lunch in Máriagyűd or Siklós",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant in der Nähe einer Bushaltestelle.",
+                "hu": "Válasszon éttermet valamelyik buszmegálló közelében.",
+                "ro": "Alegeți un restaurant situat aproape de o stație de autobuz.",
+                "en": "Choose a restaurant located near a bus stop."
+              }
+            },
+            {
+              "name": "Bus to Siklós Thermal Spa",
+              "tip_5lang": {
+                "de": "Es gibt eine Haltestelle direkt in der Nähe des Bades.",
+                "hu": "Van egy megálló közvetlenül a fürdő közelében.",
+                "ro": "Există o stație chiar în apropierea băilor.",
+                "en": "There is a stop located right near the spa."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan vorab, da Busse bei Regen voller sein können.",
+              "Halten Sie Kleingeld oder eine App für den Fahrkartenkauf bereit.",
+              "Ein Regenschirm ist für die Wege zwischen den Haltestellen wichtig.",
+              "Vom Bad aus fahren regelmäßig Busse zurück zum Bahnhof."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet, mert az esőben többen választhatják a buszt.",
+              "Legyen Önnél aprópénz vagy mobilalkalmazás a jegyvásárláshoz.",
+              "Az esernyő elengedhetetlen a megállók közötti rövid szakaszokon.",
+              "A fürdőtől rendszeresen indulnak buszok vissza az állomásra."
+            ],
+            "ro": [
+              "Verificați orarul, deoarece autobuzele pot fi mai aglomerate pe ploaie.",
+              "Aveți pregătit mărunțiș sau o aplicație pentru cumpărarea biletelor.",
+              "Umbrela este esențială pentru segmentele dintre stații.",
+              "De la băi pleacă regulat autobuze înapoi spre autogară."
+            ],
+            "en": [
+              "Check the schedule in advance as buses might be more crowded in the rain.",
+              "Have small change or a mobile app ready for ticket purchases.",
+              "An umbrella is essential for the short walks between stops.",
+              "Buses run regularly from the spa back to the bus station."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreisen mit dem Bus durch das verschneite Baranya-Land sind gemütlich. Von der Ankunft in Siklós führt der Weg zur beheizten Burg. Der Bus nach Máriagyűd bringt Sie sicher durch den Frost zum Wallfahrtsort. Ein warmes Mittagessen in einer gemütlichen Stube ist der Höhepunkt am Mittag. Der Tag endet entspannt im Thermalbad, von wo aus Sie den Bus zurück zum Bahnhof nehmen können, wenn es draußen dunkel wird.",
+            "hu": "A téli buszozás a havas Baranyában hangulatos élmény. Siklósra érkezve az utunk a fűtött várba vezet. A máriagyűdi busz biztonságosan visz át a fagyos tájon a kegyhelyhez. Egy meleg ebéd egy hangulatos étteremben a nap fénypontja. A napot a fürdőben zárjuk, ahonnan már sötétben buszozhatunk vissza az állomásra.",
+            "ro": "Călătoria cu autobuzul prin Baranya înzăpezită este o experiență plăcută. După sosirea în Siklós, mergem spre cetatea încălzită. Autobuzul spre Máriagyűd vă duce în siguranță prin peisajul geros. Un prânz cald într-un local primitor este punctul culminant al amiezii. Ziua se încheie la băi, de unde puteți lua autobuzul spre gară pe înserat.",
+            "en": "Winter bus travel through snowy Baranya is a cozy experience. After arriving in Siklós, head to the heated castle. The bus to Máriagyűd takes you safely through the frost to the shrine. A warm lunch in a cozy restaurant is the highlight of the day. End your visit at the spa, then take a bus back to the station as darkness falls."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Siklós bus station",
+              "tip_5lang": {
+                "de": "Im Bahnhofsgebäude können Sie sich kurz aufwärmen.",
+                "hu": "Az állomás épületében van lehetőség egy rövid felmelegedésre.",
+                "ro": "În clădirea autogării vă puteți încălzi pentru scurt timp.",
+                "en": "You can warm up briefly inside the bus station building."
+              }
+            },
+            {
+              "name": "Siklós Castle",
+              "tip_5lang": {
+                "de": "Der Weg zur Burg führt über asphaltierte, meist geräumte Gehwege.",
+                "hu": "A várig vezető utat általában letakarított járdákon tehetjük meg.",
+                "ro": "Drumul spre cetate se face pe trotuare de obicei curățate de zăpadă.",
+                "en": "The walk to the castle is mostly on cleared, paved sidewalks."
+              }
+            },
+            {
+              "name": "Mosque and Serbian Church",
+              "tip_5lang": {
+                "de": "Die Innenbesichtigungen sind perfekt, um der Kälte zu entfliehen.",
+                "hu": "A belső látogatások tökéletesek a kinti hideg elől való menekülésre.",
+                "ro": "Vizitele în interior sunt perfecte pentru a scăpa de frigul de afară.",
+                "en": "Indoor visits are perfect for escaping the outdoor cold."
+              }
+            },
+            {
+              "name": "Bus ride to Máriagyűd",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht auf die winterlichen Weinberge aus dem warmen Bus.",
+                "hu": "Élvezze a téli szőlőhegyek látványát a fűtött buszból.",
+                "ro": "Bucurați-vă de vederea podgoriilor de iarnă din autobuzul încălzit.",
+                "en": "Enjoy the view of the winter vineyards from the warm bus."
+              }
+            },
+            {
+              "name": "Lunch in Máriagyűd or Siklós",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz nah an der Heizung im Restaurant.",
+                "hu": "Keressen egy helyet a fűtőtest közelében az étteremben.",
+                "ro": "Căutați un loc aproape de calorifer în restaurant.",
+                "en": "Look for a seat near the heater inside the restaurant."
+              }
+            },
+            {
+              "name": "Bus to Siklós Thermal Spa",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Zeit des letzten Busses, um den Anschluss nicht zu verpassen.",
+                "hu": "Ellenőrizze az utolsó busz idejét, hogy ne maradjon le a csatlakozásról.",
+                "ro": "Verificați ora ultimului autobuz pentru a nu pierde legătura.",
+                "en": "Check the time of the last bus so you don't miss your connection."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können im Winter witterungsbedingt leicht abweichen.",
+              "Warten Sie in beheizten Innenräumen, wann immer es möglich ist.",
+              "Die Busse in der Region sind im Winter gut beheizt.",
+              "Vermeiden Sie das Warten an ungeschützten Haltestellen bei starkem Wind."
+            ],
+            "hu": [
+              "A menetrend télen az időjárás miatt kismértékben eltérhet.",
+              "Várakozzon fűtött beltérben, amíg csak lehetséges.",
+              "A környékbeli autóbuszok télen általában jól fűtöttek.",
+              "Kerülje a várakozást a szeles, nem védett megállókban."
+            ],
+            "ro": [
+              "Orarele pot varia ușor iarna din cauza condițiilor meteo.",
+              "Așteptați în spații interioare încălzite ori de câte ori este posibil.",
+              "Autobuzele din regiune sunt de obicei bine încălzite iarna.",
+              "Evitați așteptarea în stații neprotejate dacă vântul este puternic."
+            ],
+            "en": [
+              "Schedules may vary slightly in winter due to weather conditions.",
+              "Wait in heated indoor areas whenever possible.",
+              "Local buses are generally well-heated during the winter months.",
+              "Avoid waiting at unprotected stops if the wind is strong."
+            ]
+          }
+        }
       }
     }
   }

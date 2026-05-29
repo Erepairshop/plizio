@@ -356,6 +356,188 @@
           "Keep a camera ready for the picturesque scenes in Vreeswijk.",
           "Check the opening hours for the Museum Shipyard in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im historischen Vreeswijk unter dem Regenschirm. Die engen Gassen und Schleusen wirken bei Regen besonders atmosphärisch. Mittags wärmen wir uns in einem gemütlichen Restaurant am Wasser auf, während die Regentropfen auf den Lek klatschen. Nachmittags erkunden wir den Park Oudegein, wobei die dichten Bäume natürlichen Schutz bieten. Den Abend lassen wir trocken im Schlossmuseum ausklingen.",
+            "hu": "A reggel az esernyők alatt indul a történelmi Vreeswijkben, ahol a csatornák és zsilipek ködös romantikát árasztanak. Délben egy vízparti étteremben húzódunk meg a zápor elől. Délután az Oudegein park ösvényeit járjuk be, a sűrű lombok között keresve menedéket a szitáló esőben. Az estét a Warsenhoeck múzeum és a kastély fedett falai között zárjuk, elkerülve az ázást.",
+            "ro": "Dimineața începe în Vreeswijk sub umbrelă, unde ecluzele istorice capătă un farmec aparte în bătaia ploii. La prânz ne retragem într-un restaurant primitor de pe malul apei. După-amiaza explorăm parcul Oudegein, folosind potecile adăpostite de copaci pentru a evita stropii mari. Seara se încheie confortabil în interiorul castelului Oudegein și al muzeului local, departe de umezeală.",
+            "en": "The morning starts in historic Vreeswijk under an umbrella, where the old locks look atmospheric in the mist. At noon, we find refuge in a cozy waterside restaurant while watching the rain on the Lek. In the afternoon, we explore Park Oudegein, using the tree canopy for natural shelter. The evening concludes dry and warm inside the Oudegein Castle grounds and the local museum."
+          },
+          "stops": [
+            {
+              "name": "Historic Village Vreeswijk",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster in den engen Gassen.",
+                "hu": "Vigyázzon a vizes macskaköveken a szűk utcákban.",
+                "ro": "Atenție la pavajul umed pe străduțele înguste.",
+                "en": "Be careful on the wet cobblestones in the narrow streets."
+              }
+            },
+            {
+              "name": "Museum Shipyard Vreeswijk",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Werkstätten als Schutz vor Güssen.",
+                "hu": "Használja a fedett műhelyeket menedékként a záporok elől.",
+                "ro": "Folosiți atelierele acoperite ca adăpost împotriva ploii.",
+                "en": "Use the covered workshops as shelter from the downpours."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um kurz im Trockenen innezuhalten.",
+                "hu": "Tökéletes hely egy rövid, száraz pihenőre.",
+                "ro": "Un loc perfect pentru un scurt moment de răgaz la uscat.",
+                "en": "A perfect place to pause briefly in the dry interior."
+              }
+            },
+            {
+              "name": "Lunch in Vreeswijk",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz am Fenster, um den Regen auf dem Kanal zu beobachten.",
+                "hu": "Válasszon ablak melletti asztalt, és figyelje az esőt a csatornán.",
+                "ro": "Alegeți o masă la fereastră pentru a vedea ploaia pe canal.",
+                "en": "Pick a window seat to watch the rain on the canal."
+              }
+            },
+            {
+              "name": "Park Oudegein",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind bei Regen besser begehbar als die Wiesen.",
+                "hu": "Az aszfaltozott utak esőben jobban járhatóak, mint a fű.",
+                "ro": "Aleile asfaltate sunt mai practicabile pe ploaie decât iarba.",
+                "en": "The paved paths are better to walk on than the grass when wet."
+              }
+            },
+            {
+              "name": "Oudegein Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie das angrenzende Museum Warsenhoeck für eine trockene Pause.",
+                "hu": "Látogasson el a szomszédos Warsenhoeck múzeumba a száraz pihenőért.",
+                "ro": "Vizitați muzeul Warsenhoeck din apropiere pentru o pauză uscată.",
+                "en": "Visit the adjacent Warsenhoeck museum for a dry indoor break."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Kanalkanten oft pfützig sind.",
+              "Die Schleusenbereiche können bei Wind und Regen sehr zugig sein.",
+              "Das Museum Warsenhoeck ist eine hervorragende überdachte Alternative.",
+              "Viele Cafés in Vreeswijk haben überdachte Terrassen mit Heizstrahlern."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a csatornapartokon sok a tócsa.",
+              "A zsilipek környéke szeles és esős időben nagyon huzatos lehet.",
+              "A Warsenhoeck múzeum kiváló fedett alternatívát nyújt.",
+              "Sok vreeswijki kávézó rendelkezik fedett, fűtött terasszal."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, marginile canalelor au multe bălți.",
+              "Zona ecluzelor poate fi foarte expusă vântului în timpul ploii.",
+              "Muzeul Warsenhoeck este o alternativă excelentă de interior.",
+              "Multe cafenele din Vreeswijk au terase acoperite și încălzite."
+            ],
+            "en": [
+              "Wear waterproof shoes as canal edges often have puddles.",
+              "The lock areas can be very draughty during wind and rain.",
+              "Museum Warsenhoeck offers an excellent indoor alternative.",
+              "Many cafes in Vreeswijk have covered terraces with heaters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Vreeswijk, wo der Reif die historischen Schiffe ziert. Mittags genießen wir eine kräftige Suppe in der Nähe der Schleusen, während die tiefstehende Sonne lange Schatten wirft. Nachmittags glitzert der Park Oudegein im Frost, und wir machen einen strammen Spaziergang zum Schloss. Den Abend verbringen wir gemütlich bei Kerzenschein in einem lokalen Gasthaus, bevor es früh dunkel wird.",
+            "hu": "Deres téli reggel Vreeswijkben, ahol a zúzmara díszíti a régi hajókat. Délben egy forró levest fogyasztunk a zsilipek közelében, miközben az alacsonyan járó nap hosszú árnyékokat vet. Délután az Oudegein park csillog a fagyban, mi pedig egy frissítő sétát teszünk a kastélyig. Az estét gyertyafényes hangulatban töltjük egy helyi fogadóban, mielőtt korán leszáll az éj.",
+            "ro": "O dimineață geroasă de iarnă în Vreeswijk, unde bruma decorează navele istorice. La prânz savurăm o supă caldă lângă ecluze, sub soarele palid de iarnă. După-amiaza, parcul Oudegein strălucește sub îngheț în timp ce ne plimbăm spre castel. Seara ne găsește la lumina lumânărilor într-un han local, profitând de căldură înainte de lăsarea timpurie a întunericului.",
+            "en": "A crisp winter morning in Vreeswijk, with frost decorating the historic ships. At noon, we enjoy a hearty soup near the locks while the low sun casts long shadows. In the afternoon, Park Oudegein glitters in the frost during our brisk walk to the castle. We spend the evening in the cozy, candlelit atmosphere of a local inn before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Historic Village Vreeswijk",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis an den Treppen zu den Kanälen.",
+                "hu": "Vigyázzon a csatornákhoz vezető lépcsők jegesedésére.",
+                "ro": "Atenție la gheața de pe scările care duc spre canale.",
+                "en": "Watch out for black ice on the stairs leading to the canals."
+              }
+            },
+            {
+              "name": "Museum Shipyard Vreeswijk",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wichtig, da die Werkstätten teils offen sind.",
+                "hu": "Öltözzön rétegesen, mert a műhelyek részben nyitottak.",
+                "ro": "Îmbrăcați-vă bine, atelierele sunt parțial deschise.",
+                "en": "Dress warmly as the workshops are partially open-air."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe und Wärme im Kirchenschiff.",
+                "hu": "Élvezze a csendet és a meleget a templomhajóban.",
+                "ro": "Bucurați-vă de liniștea și căldura din interiorul bisericii.",
+                "en": "Enjoy the peace and relative warmth inside the nave."
+              }
+            },
+            {
+              "name": "Lunch in Vreeswijk",
+              "tip_5lang": {
+                "de": "Probieren Sie 'Erwtensoep' (Erbsensuppe) für die echte Wintererfahrung.",
+                "hu": "Kóstolja meg az 'Erwtensoep'-et (borsóleves) az igazi téli élményért.",
+                "ro": "Încercați 'Erwtensoep' (supă de mazăre) pentru o experiență autentică.",
+                "en": "Try 'Erwtensoep' (pea soup) for a true Dutch winter experience."
+              }
+            },
+            {
+              "name": "Park Oudegein",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang im Park ist gegen 16:30 Uhr besonders schön.",
+                "hu": "A naplemente a parkban 16:30 körül a legszebb.",
+                "ro": "Apusul în parc este spectaculos în jurul orei 16:30.",
+                "en": "Sunset in the park is especially beautiful around 16:30."
+              }
+            },
+            {
+              "name": "Oudegein Castle",
+              "tip_5lang": {
+                "de": "Das Schlossgelände wirkt im Winterschlaf besonders märchenhaft.",
+                "hu": "A kastélykert téli álma alatt különösen mesebeli látvány.",
+                "ro": "Domeniul castelului arată ca în povești în timpul iernii.",
+                "en": "The castle grounds look like a fairytale during their winter slumber."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits vor 17:00 Uhr unter.",
+              "Tragen Sie Handschuhe, der Wind vom Lek-Fluss ist eisig.",
+              "Kombinieren Sie den Spaziergang mit einem Besuch im warmen City Plaza.",
+              "Vorsicht bei Frost auf den Holzbrücken im Park."
+            ],
+            "hu": [
+              "A nap decemberben már 17:00 előtt lemegy.",
+              "Viseljen kesztyűt, a Lek-folyó felől fújó szél metsző lehet.",
+              "Kösse össze a sétát egy látogatással a meleg City Plaza-ban.",
+              "Vigyázzon a fagyos fahidakkal a parkban."
+            ],
+            "ro": [
+              "Soarele apune înainte de ora 17:00 în luna decembrie.",
+              "Purtați mănuși, vântul dinspre râul Lek este tăios.",
+              "Combinați plimbarea cu o vizită în centrul comercial City Plaza.",
+              "Atenție la punțile de lemn din parc, pot fi foarte alunecoase."
+            ],
+            "en": [
+              "Sunset occurs before 17:00 in December.",
+              "Wear gloves, as the wind from the Lek river can be biting.",
+              "Combine your walk with a visit to the warm City Plaza mall.",
+              "Be careful of frost on the wooden bridges in the park."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +911,206 @@
           "The Netherlands is flat, but gears are still useful.",
           "Follow the 'fietspad' signs for dedicated bike paths."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten unsere Radtour im Regen in Vreeswijk, gut geschützt durch Regenponchos. Der Weg führt am Kanal entlang zum Fort Jutphaas, wobei die Wege trotz Nässe gut befahrbar sind. Mittags kehren wir für eine Pause im Trockenen ein, bevor wir das Rijnhuizen Schloss passieren. Nachmittags radeln wir durch den Park Oudegein, wo die Bäume den Wind abfangen. Der Tag endet mit einer schnellen Fahrt zurück zum Ausgangspunkt.",
+            "hu": "Esőben indítjuk kerékpáros túránkat Vreeswijkben, esőponchóba burkolózva. Az út a csatorna mentén vezet a Jutphaas erődhöz, az utak a nedvesség ellenére jól járhatók. Délben behúzódunk egy száraz pihenőre, mielőtt eltekernénk a Rijnhuizen kastély mellett. Délután az Oudegein parkon vágunk át, ahol a fák felfogják a szelet. A napot egy gyors, frissítő tekeréssel zárjuk a kiindulópontig.",
+            "ro": "Pornim turul cu bicicleta prin ploaie în Vreeswijk, protejați de pelerine. Drumul ne poartă de-a lungul canalului spre Fort Jutphaas, pistele fiind practicabile chiar și pe umiditate. La prânz facem o pauză la adăpost, înainte de a trece pe lângă castelul Rijnhuizen. După-amiaza pedalăm prin parcul Oudegein, unde copacii ne protejează de vânt. Ziua se încheie cu o cursă rapidă înapoi spre punctul de start.",
+            "en": "We start our bike tour in the rain in Vreeswijk, well-protected by ponchos. The path leads along the canal to Fort Jutphaas; the tracks remain rideable despite the wet. At noon, we stop for a dry break before passing Rijnhuizen Castle. In the afternoon, we cycle through Park Oudegein, where the trees block the wind. The day ends with a quick ride back to the starting point."
+          },
+          "stops": [
+            {
+              "name": "Start in Vreeswijk",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie auf die nassen Straßen fahren.",
+                "hu": "Ellenőrizze a fékeit, mielőtt a vizes utakra hajtana.",
+                "ro": "Verificați frânele înainte de a porni pe drumurile umede.",
+                "en": "Check your brakes before heading out onto the wet roads."
+              }
+            },
+            {
+              "name": "Museum Shipyard Vreeswijk",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach ab.",
+                "hu": "Parkolja le a biciklit az előtető alatt.",
+                "ro": "Parcați bicicleta sub copertină.",
+                "en": "Park your bike under the overhang."
+              }
+            },
+            {
+              "name": "Fort Jutphaas",
+              "tip_5lang": {
+                "de": "Die Wege rund um das Fort können etwas matschig sein.",
+                "hu": "Az erőd körüli utak kissé sárosak lehetnek.",
+                "ro": "Aleile din jurul fortului pot fi puțin noroioase.",
+                "en": "The paths around the fort can get a bit muddy."
+              }
+            },
+            {
+              "name": "Rijnhuizen Castle",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, dann schnell weiter ins Trockene.",
+                "hu": "Gyors fotómegálló, aztán irány tovább a szárazra.",
+                "ro": "Oprire scurtă pentru poze, apoi rapid înapoi la adăpost.",
+                "en": "Quick photo stop, then move on to stay dry."
+              }
+            },
+            {
+              "name": "Lunch near the park",
+              "tip_5lang": {
+                "de": "Hängen Sie Ihre nassen Sachen in die Nähe der Heizung.",
+                "hu": "Akassza a vizes ruháit a fűtőtest közelébe.",
+                "ro": "Puneți hainele ude la uscat lângă calorifer.",
+                "en": "Hang your wet gear near the heater if possible."
+              }
+            },
+            {
+              "name": "Park Oudegein",
+              "tip_5lang": {
+                "de": "Meiden Sie tiefe Pfützen auf den Waldwegen.",
+                "hu": "Kerülje a mély tócsákat az erdei utakon.",
+                "ro": "Evitați bălțile adânci de pe potecile din pădure.",
+                "en": "Avoid deep puddles on the forest paths."
+              }
+            },
+            {
+              "name": "Oudegein Castle",
+              "tip_5lang": {
+                "de": "Das Museum bietet perfekten Schutz vor einem plötzlichen Schauer.",
+                "hu": "A múzeum tökéletes menedék egy hirtelen zápor elől.",
+                "ro": "Muzeul oferă adăpostul perfect împotriva unei ploi bruște.",
+                "en": "The museum provides perfect shelter from a sudden shower."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie abrupte Bremsmanöver auf nassem Asphalt.",
+              "Ein Regenponcho ist beim Radfahren praktischer als ein Schirm.",
+              "Nutzen Sie die gut ausgebauten, asphaltierten Radwege Nieuwegeins.",
+              "Achten Sie auf rutschiges Laub auf den Wegen."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a vizes aszfalton.",
+              "Az esőponchó praktikusabb kerékpározáshoz, mint az esernyő.",
+              "Használja Nieuwegein jól kiépített, aszfaltozott kerékpárútjait.",
+              "Vigyázzon a csúszós levelekkel az utakon."
+            ],
+            "ro": [
+              "Evitați frânările bruște pe asfaltul umed.",
+              "O pelerină de ploaie este mai practică decât o umbrelă pe bicicletă.",
+              "Folosiți pistele de biciclete asfaltate din Nieuwegein.",
+              "Atenție la frunzele ude care pot fi alunecoase."
+            ],
+            "en": [
+              "Avoid sudden braking on wet asphalt.",
+              "A rain poncho is more practical than an umbrella while cycling.",
+              "Use Nieuwegein's well-maintained, paved bicycle paths.",
+              "Watch out for slippery leaves on the paths."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Unsere winterliche Radtour startet frisch in Vreeswijk. Der kalte Wind treibt uns zügig voran zum Fort Jutphaas, wo die gefrorenen Gräben ein tolles Fotomotiv bieten. Mittags wärmen wir uns bei einem heißen Getränk auf, bevor wir zum Rijnhuizen Schloss radeln. Die Nachmittagssonne steht tief über dem Park Oudegein, während wir zum Schloss Oudegein fahren. Die Tour endet bei einsetzender Dämmerung, wenn die Lichter der Stadt angehen.",
+            "hu": "Téli bringatúránk frissen indul Vreeswijkben. A hideg szél gyorsan repít minket a Jutphaas erődhöz, ahol a befagyott vizesárkok remek fotótémát kínálnak. Délben egy forró itallal melegszünk fel, mielőtt a Rijnhuizen kastélyhoz tekernénk. A délutáni nap alacsonyan ragyog az Oudegein park felett, miközben az Oudegein kastély felé tartunk. A túra a szürkület beálltával ér véget, ahogy kigyúlnak a város fényei.",
+            "ro": "Turul nostru hibernal cu bicicleta începe în forță în Vreeswijk. Vântul rece ne grăbește spre Fort Jutphaas, unde șanțurile înghețate oferă un decor superb pentru fotografii. La prânz ne încălzim cu o băutură fierbinte înainte de a pedala spre castelul Rijnhuizen. Soarele de după-amiază stă jos peste parcul Oudegein în timp ce ne îndreptăm spre castel. Turul se încheie la lăsarea serii, când se aprind luminile orașului.",
+            "en": "Our winter bike tour starts briskly in Vreeswijk. The cold wind pushes us quickly toward Fort Jutphaas, where the frozen moats make for great photos. At noon, we warm up with a hot drink before cycling to Rijnhuizen Castle. The afternoon sun hangs low over Park Oudegein as we ride toward Oudegein Castle. The tour ends at twilight as the city lights begin to flicker on."
+          },
+          "stops": [
+            {
+              "name": "Start in Vreeswijk",
+              "tip_5lang": {
+                "de": "Handschuhe sind bei diesem Wind unerlässlich.",
+                "hu": "A kesztyű elengedhetetlen ebben a szélben.",
+                "ro": "Mănușile sunt esențiale din cauza vântului.",
+                "en": "Gloves are essential in this biting wind."
+              }
+            },
+            {
+              "name": "Museum Shipyard Vreeswijk",
+              "tip_5lang": {
+                "de": "Kurze Besichtigung, um in Bewegung zu bleiben.",
+                "hu": "Rövid látogatás, hogy mozgásban maradjunk.",
+                "ro": "O vizită scurtă pentru a rămâne în mișcare.",
+                "en": "Keep the visit brief to stay in motion and stay warm."
+              }
+            },
+            {
+              "name": "Fort Jutphaas",
+              "tip_5lang": {
+                "de": "Vorsicht bei überfrorener Nässe auf den Brücken.",
+                "hu": "Vigyázzon a lefagyott nedvességgel a hidakon.",
+                "ro": "Atenție la porțiunile înghețate de pe poduri.",
+                "en": "Watch out for black ice on the bridges."
+              }
+            },
+            {
+              "name": "Rijnhuizen Castle",
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Frost rutschig sein.",
+                "hu": "A feljáró fagyban csúszós lehet.",
+                "ro": "Aleea de acces poate fi alunecoasă pe timp de îngheț.",
+                "en": "The driveway can be slippery during frost."
+              }
+            },
+            {
+              "name": "Lunch near the park",
+              "tip_5lang": {
+                "de": "Bestellen Sie 'Warme Chocolademelk' mit Schlagsahne.",
+                "hu": "Rendeljen meleg csokoládét tejszínhabbal.",
+                "ro": "Comandați o ciocolată caldă cu frișcă.",
+                "en": "Order a 'Warme Chocolademelk' with whipped cream."
+              }
+            },
+            {
+              "name": "Park Oudegein",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft auf den Hauptwegen.",
+                "hu": "Élvezze a tiszta téli levegőt a főutakon.",
+                "ro": "Bucurați-vă de aerul curat de iarnă pe aleile principale.",
+                "en": "Enjoy the crisp winter air on the main paths."
+              }
+            },
+            {
+              "name": "Oudegein Castle",
+              "tip_5lang": {
+                "de": "Achten Sie darauf, dass Ihre Fahrradleuchten für den Rückweg funktionieren.",
+                "hu": "Ellenőrizze, hogy működnek-e a lámpák a hazaúthoz.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere.",
+                "en": "Ensure your bike lights are working for the ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Mehrere dünne Schichten Kleidung schützen besser vor Kälte.",
+              "Prüfen Sie den Reifendruck; im Winter ist etwas weniger Druck für mehr Grip gut.",
+              "Die Radwege werden in Nieuwegein meist gut gestreut.",
+              "Nehmen Sie eine Thermoskanne mit Tee für Pausen mit."
+            ],
+            "hu": [
+              "Több vékony réteg ruha jobban véd a hideg ellen.",
+              "Ellenőrizze a guminyomást; télen a kicsit laposabb gumi jobb tapadást ad.",
+              "Nieuwegeinben a kerékpárutakat általában jól sózzák.",
+              "Vigyen magával termoszt teával a pihenőkhöz."
+            ],
+            "ro": [
+              "Mai multe straturi subțiri de haine protejează mai bine de frig.",
+              "Verificați presiunea în pneuri; iarna o presiune mai mică oferă aderență mai bună.",
+              "Pistele de biciclete sunt de obicei bine deszăpezite în Nieuwegein.",
+              "Luați un termos cu ceai pentru pauze."
+            ],
+            "en": [
+              "Layered clothing protects better against the cold.",
+              "Check tire pressure; slightly lower pressure offers better grip in winter.",
+              "Bike paths in Nieuwegein are generally well-salted.",
+              "Bring a thermos with tea for your breaks."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1109,6 +1491,206 @@
           "Be aware of the many cyclists, they often have priority.",
           "Parking fees can be high in the centers, look for 'P+R' options."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Fahrt durch Nieuwegein, beginnend am Parkplatz in Vreeswijk. Wir besuchen die Werft und die Kirche, wobei das Auto als trockene Basis dient. Mittags fahren wir zum Jutphaas Cluster und bewundern das Fort aus dem Fenster, bevor wir kurz aussteigen. Nachmittags parken wir bequem am Park Oudegein für einen Lunch und einen Besuch im Schlossmuseum. Der Tag endet entspannt mit einer Fahrt durch die verregneten Straßen.",
+            "hu": "Esős autózás Nieuwegeinben, kezdve a vreeswijki parkolónál. Meglátogatjuk a hajógyárat és a templomot, az autó pedig száraz bázisként szolgál. Délben a Jutphaas negyedbe hajtunk, az ablakból csodálva az erődöt, mielőtt rövid időre kiszállnánk. Délután kényelmesen leparkolunk az Oudegein parknál az ebédhez és a kastélymúzeumhoz. A napot pihentető autózással zárjuk az eső áztatta utcákon.",
+            "ro": "O plimbare cu mașina prin Nieuwegein pe timp de ploaie, începând din parcarea din Vreeswijk. Vizităm șantierul naval și biserica, folosind mașina ca bază uscată. La prânz mergem spre zona Jutphaas, admirând fortul pe geam înainte de o scurtă ieșire. După-amiaza parcăm confortabil la parcul Oudegein pentru prânz și muzeul castelului. Ziua se încheie relaxat cu o tură prin orașul ploios.",
+            "en": "A rainy drive through Nieuwegein, starting at the parking lot in Vreeswijk. We visit the shipyard and church, using the car as our dry base. At noon, we drive to the Jutphaas cluster, admiring the fort from the window before a brief stop. In the afternoon, we park easily at Park Oudegein for lunch and the castle museum. The day ends with a relaxed drive through the rainy streets."
+          },
+          "stops": [
+            {
+              "name": "Vreeswijk Cluster: Parking",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Zentrum, um Laufwege im Regen zu minimieren.",
+                "hu": "Parkoljon a központ közelében, hogy minimalizálja az esőben való gyaloglást.",
+                "ro": "Parcați aproape de centru pentru a merge cât mai puțin prin ploaie.",
+                "en": "Park close to the center to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Museum Shipyard Vreeswijk",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt bei der Werft.",
+                "hu": "Használja közvetlenül a hajógyár melletti parkolót.",
+                "ro": "Folosiți parcarea aflată direct lângă șantierul naval.",
+                "en": "Use the parking lot located directly by the shipyard."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen, es können tiefe Pfützen am Straßenrand sein.",
+                "hu": "Vigyázzon kiszálláskor, mély tócsák lehetnek az út szélén.",
+                "ro": "Atenție la coborâre, pot fi bălți adânci la marginea drumului.",
+                "en": "Watch out for deep puddles at the curb when exiting the car."
+              }
+            },
+            {
+              "name": "Jutphaas Cluster: Fort & Castle",
+              "tip_5lang": {
+                "de": "Das Fort lässt sich gut vom Auto aus fotografieren.",
+                "hu": "Az erőd jól fotózható az autóból is.",
+                "ro": "Fortul poate fi fotografiat ușor direct din mașină.",
+                "en": "The fort can be photographed easily from inside the car."
+              }
+            },
+            {
+              "name": "Rijnhuizen Castle",
+              "tip_5lang": {
+                "de": "Kurzer Stopp an der Einfahrt für einen Blick auf das Schloss.",
+                "hu": "Rövid megálló a bejáratnál egy pillantásra a kastélyra.",
+                "ro": "Oprire scurtă la intrare pentru o vedere asupra castelului.",
+                "en": "Brief stop at the entrance for a view of the castle."
+              }
+            },
+            {
+              "name": "Oudegein Cluster: Park & Lunch",
+              "tip_5lang": {
+                "de": "Parken Sie beim 'Jacks Steakhouse' für kurzen Zugang zum Park.",
+                "hu": "Parkoljon a 'Jacks Steakhouse'-nál a park gyors eléréséhez.",
+                "ro": "Parcați la 'Jacks Steakhouse' pentru acces rapid în parc.",
+                "en": "Park near 'Jacks Steakhouse' for quick access to the park."
+              }
+            },
+            {
+              "name": "Oudegein Castle",
+              "tip_5lang": {
+                "de": "Das Museum Warsenhoeck ist nur wenige Schritte vom Parkplatz entfernt.",
+                "hu": "A Warsenhoeck múzeum csak pár lépés a parkolótól.",
+                "ro": "Muzeul Warsenhoeck este la doar câțiva pași de parcare.",
+                "en": "Museum Warsenhoeck is just a few steps from the parking area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Park-and-Ride Plätze für einen stressfreien Tag.",
+              "Achten Sie auf schlechte Sicht bei starkem Regen auf der A2.",
+              "Die meisten Parkplätze in Vreeswijk sind am Wochenende kostenlos.",
+              "Halten Sie einen Regenschirm im Auto bereit für die kurzen Wege."
+            ],
+            "hu": [
+              "Használja a P+R parkolókat a stresszmentes naphoz.",
+              "Vigyázzon a rossz látási viszonyokra az A2-es autópályán erős esőben.",
+              "Vreeswijkben a legtöbb parkoló hétvégén ingyenes.",
+              "Tartson esernyőt az autóban a rövid szakaszokra."
+            ],
+            "ro": [
+              "Folosiți parcările P+R pentru o zi fără stres.",
+              "Atenție la vizibilitatea redusă pe autostrada A2 în caz de ploaie torențială.",
+              "Majoritatea parcărilor din Vreeswijk sunt gratuite în weekend.",
+              "Țineți o umbrelă în mașină pentru distanțele scurte de mers."
+            ],
+            "en": [
+              "Use P+R parking lots for a stress-free day.",
+              "Watch out for poor visibility on the A2 motorway during heavy rain.",
+              "Most parking lots in Vreeswijk are free on weekends.",
+              "Keep an umbrella in the car for the short walks to attractions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Tour mit dem Auto durch das frostige Nieuwegein. Wir starten in Vreeswijk, wo die Heizung im Wagen nach jedem Stopp für wohlige Wärme sorgt. Mittags fahren wir zum Jutphaas Cluster und genießen die winterliche Stille am Fort. Nachmittags geht es zum Park Oudegein, wo wir kurz am Schloss spazieren gehen. Bevor es dunkel wird, fahren wir zurück und genießen den Ausblick auf die beleuchtete Stadt.",
+            "hu": "Téli autós túra a fagyos Nieuwegeinben. Vreeswijkben kezdünk, ahol az autó fűtése minden megálló után kellemes meleget ad. Délben a Jutphaas negyedbe hajtunk, élvezve a téli csendet az erődnél. Délután az Oudegein park következik, ahol teszünk egy rövid sétát a kastélynál. Mielőtt besötétedne, visszaindulunk, élvezve a kivilágított város látványát.",
+            "ro": "Tur de iarnă cu mașina prin Nieuwegeinul înghețat. Începem în Vreeswijk, unde căldura din mașină ne oferă confort după fiecare oprire. La prânz mergem spre Jutphaas și ne bucurăm de liniștea iernii la fort. După-amiaza ajungem la parcul Oudegein pentru o scurtă plimbare la castel. Înainte de lăsarea întunericului, pornim înapoi admirând orașul luminat.",
+            "en": "A winter drive through frosty Nieuwegein. We start in Vreeswijk, where the car's heater provides cozy warmth after each stop. At noon, we drive to the Jutphaas cluster and enjoy the winter silence by the fort. In the afternoon, we head to Park Oudegein for a brief walk by the castle. Before it gets dark, we head back, enjoying the view of the illuminated city."
+          },
+          "stops": [
+            {
+              "name": "Vreeswijk Cluster: Parking",
+              "tip_5lang": {
+                "de": "Parken Sie auf befestigten Flächen, um Rutschen auf Eis zu vermeiden.",
+                "hu": "Parkoljon szilárd burkolaton, hogy elkerülje a megcsúszást a jégen.",
+                "ro": "Parcați pe suprafețe pavate pentru a evita alunecarea pe gheață.",
+                "en": "Park on paved surfaces to avoid slipping on ice."
+              }
+            },
+            {
+              "name": "Museum Shipyard Vreeswijk",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Do not leave the engine idling unnecessarily while stationary."
+              }
+            },
+            {
+              "name": "Saint Nicholas Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen und Besichtigen.",
+                "hu": "Rövid megálló melegedni és körülnézni.",
+                "ro": "O scurtă oprire pentru încălzire și vizitare.",
+                "en": "A short stop to warm up and take a quick look inside."
+              }
+            },
+            {
+              "name": "Jutphaas Cluster: Fort & Castle",
+              "tip_5lang": {
+                "de": "Vorsicht auf den kleinen Zufahrtsstraßen, die im Schatten liegen.",
+                "hu": "Vigyázzon az árnyékos mellékutakon, ahol megmaradhat a jég.",
+                "ro": "Atenție pe străduțele lăturalnice aflate la umbră.",
+                "en": "Be careful on shaded side roads where ice may linger."
+              }
+            },
+            {
+              "name": "Rijnhuizen Castle",
+              "tip_5lang": {
+                "de": "Die Brücke zum Schloss kann glatt sein.",
+                "hu": "A kastélyhoz vezető híd csúszós lehet.",
+                "ro": "Podul spre castel poate fi alunecos.",
+                "en": "The bridge leading to the castle can be slippery."
+              }
+            },
+            {
+              "name": "Oudegein Cluster: Park & Lunch",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter oft weniger belebt.",
+                "hu": "A parkoló télen gyakran kevésbé forgalmas.",
+                "ro": "Parcarea este adesea mai liberă în timpul iernii.",
+                "en": "The parking lot is often less crowded in winter."
+              }
+            },
+            {
+              "name": "Oudegein Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Licht des frühen Abends für Fotos.",
+                "hu": "Használja ki a kora esti fényeket a fotózáshoz.",
+                "ro": "Profitați de lumina serii devreme pentru fotografii.",
+                "en": "Take advantage of the early evening light for photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie vor der Fahrt das Wischwasser und den Frostschutz.",
+              "Vorsicht vor überfrierender Nässe auf Brücken über den Kanälen.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche in der Nähe von Märkten ein.",
+              "Halten Sie eine Decke für längere Stopps im Wagen bereit."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablakmosót és a fagyállót.",
+              "Vigyázzon a lefagyott nedvességgel a csatornák feletti hidakon.",
+              "Szánjon több időt a parkolásra a karácsonyi vásárok környékén.",
+              "Tartson egy takarót az autóban a hosszabb megállókhoz."
+            ],
+            "ro": [
+              "Verificați lichidul de parbriz și antigelul înainte de drum.",
+              "Atenție la poleiul de pe podurile peste canale.",
+              "Alocați mai mult timp pentru parcare în apropierea piețelor de iarnă.",
+              "Țineți o pătură în mașină pentru opririle mai lungi."
+            ],
+            "en": [
+              "Check wiper fluid and antifreeze before you start driving.",
+              "Watch out for black ice on bridges crossing the canals.",
+              "Allow extra time for parking near winter markets.",
+              "Keep a blanket in the car for longer stops."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1465,6 +2047,188 @@
           "Be aware of bus schedules, especially in the evening.",
           "Look for the correct bus stop for your return journey."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit der Straßenbahn erreichen wir Vreeswijk im Regen. Wir nutzen die kurzen Fußwege zwischen der Werft und der Kirche, während wir zwischen den Schauern von Haltestelle zu Haltestelle hüpfen. Mittags wärmen wir uns in einem Café auf, bevor wir mit dem Bus zum Park Oudegein fahren. Den Nachmittag verbringen wir im geschützten Parkbereich und im Museum. Am Abend bringt uns die Tram trocken zurück ins Zentrum.",
+            "hu": "Villamossal érkezünk Vreeswijkbe az esőben. Kihasználjuk a rövid gyalogutakat a hajógyár és a templom között, a záporok szünetében közlekedve a megállókig. Délben egy kávézóban melegszünk fel, majd busszal megyünk az Oudegein parkhoz. A délutánt a park védettebb részein és a múzeumban töltjük. Este a villamos szárazon visz vissza minket a központba.",
+            "ro": "Ajungem cu tramvaiul în Vreeswijk pe ploaie. Profităm de distanțele scurte de mers pe jos între șantierul naval și biserică, deplasându-ne între stații în pauzele dintre averse. La prânz ne încălzim într-o cafenea înainte de a lua autobuzul spre parcul Oudegein. După-amiaza o petrecem în zonele adăpostite din parc și la muzeu. Seara, tramvaiul ne duce înapoi la uscat.",
+            "en": "We arrive in Vreeswijk by tram in the rain. We take advantage of the short walking distances between the shipyard and the church, moving between stops during breaks in the showers. At noon, we warm up in a cafe before taking the bus to Park Oudegein. We spend the afternoon in sheltered parts of the park and the museum. In the evening, the tram takes us dry back to the center."
+          },
+          "stops": [
+            {
+              "name": "Arrival in Vreeswijk",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Unterstand der Haltestelle.",
+                "hu": "Várjon a megálló fedett várótermében.",
+                "ro": "Așteptați sub copertina stației.",
+                "en": "Wait under the shelter of the tram stop."
+              }
+            },
+            {
+              "name": "Museum Shipyard & Church",
+              "tip_5lang": {
+                "de": "Die Wege zwischen diesen Punkten sind kurz und gut befestigt.",
+                "hu": "Az utak ezen pontok között rövidek és jól kiépítettek.",
+                "ro": "Traseele între aceste puncte sunt scurte și bine amenajate.",
+                "en": "The paths between these points are short and well-paved."
+              }
+            },
+            {
+              "name": "Lunch in Vreeswijk",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit zum Trocknen Ihrer Kleidung.",
+                "hu": "Használja ki az időt a ruhái megszárítására.",
+                "ro": "Folosiți timpul pentru a vă usca hainele.",
+                "en": "Use this time to dry off your clothes."
+              }
+            },
+            {
+              "name": "Trip to Park Oudegein",
+              "tip_5lang": {
+                "de": "Die Buslinie 65 bringt Sie direkt in die Nähe des Parks.",
+                "hu": "A 65-ös busz közvetlenül a park közelébe visz.",
+                "ro": "Linia de autobuz 65 vă lasă chiar lângă parc.",
+                "en": "Bus line 65 takes you directly near the park entrance."
+              }
+            },
+            {
+              "name": "Walk in Park Oudegein",
+              "tip_5lang": {
+                "de": "Die Wege können bei Regen rutschig sein, tragen Sie griffige Schuhe.",
+                "hu": "Az utak esőben csúszósak lehetnek, viseljen tapadós talpú cipőt.",
+                "ro": "Aleile pot fi alunecoase pe ploaie, purtați pantofi cu aderență.",
+                "en": "Paths can be slippery in the rain; wear shoes with good grip."
+              }
+            },
+            {
+              "name": "Oudegein Castle & Museum Warsenhoeck",
+              "tip_5lang": {
+                "de": "Ideal, um die Zeit bis zur nächsten Busabfahrt im Trockenen zu verbringen.",
+                "hu": "Ideális a következő buszindulásig a szárazon várakozni.",
+                "ro": "Ideal pentru a aștepta următorul autobuz la adăpost.",
+                "en": "Ideal for spending time indoors until the next bus departure."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die '9292' App für Echtzeit-Verspätungen bei Regen.",
+              "Die Straßenbahnen in Nieuwegein sind modern und gut beheizt.",
+              "Die Haltestellen in Vreeswijk bieten meist guten Regenschutz.",
+              "Kaufen Sie ein Tagesticket für unkomplizierte Wechsel."
+            ],
+            "hu": [
+              "Ellenőrizze a '9292' alkalmazást a valós idejű késésekért esőben.",
+              "Nieuwegein villamosai modernek és jól fűtöttek.",
+              "Vreeswijk megállói általában jó esővédelmet nyújtanak.",
+              "Vásároljon napijegyet a kényelmes átszállásokhoz."
+            ],
+            "ro": [
+              "Verificați aplicația '9292' pentru întârzieri în timp real pe timp de ploaie.",
+              "Tramvaiele din Nieuwegein sunt moderne și bine încălzite.",
+              "Stațiile din Vreeswijk oferă de obicei protecție bună împotriva ploii.",
+              "Cumpărați un bilet de o zi pentru transferuri mai ușoare."
+            ],
+            "en": [
+              "Check the '9292' app for real-time delays during rain.",
+              "Nieuwegein trams are modern and well-heated.",
+              "Stops in Vreeswijk usually provide good rain shelter.",
+              "Buy a day ticket for hassle-free transfers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Tag beginnt mit der Tramfahrt nach Vreeswijk. Der kurze Fußweg durch das historische Dorf belebt, bevor wir uns in der Kirche aufwärmen. Mittags genießen wir die winterliche Aussicht vom Bus aus auf dem Weg zum Park Oudegein. Der Nachmittag im Park ist frisch, aber der Besuch im Schlossmuseum bietet eine gemütliche Pause. Am Abend bringt uns die Tram zurück, während wir die Lichter von Nieuwegein beobachten.",
+            "hu": "Fagyos nap kezdődik a villamosozással Vreeswijkbe. A rövid séta a történelmi faluban felpezsdít, mielőtt a templomban megmelegednénk. Délben a busz ablakából élvezzük a téli kilátást az Oudegein park felé menet. A délután a parkban frissítő, de a kastélymúzeum látogatása kellemes pihenőt nyújt. Este a villamos visz vissza minket, miközben Nieuwegein fényeit figyeljük.",
+            "ro": "O zi geroasă începe cu drumul cu tramvaiul spre Vreeswijk. Scurta plimbare prin satul istoric ne înviorează înainte de a ne încălzi în biserică. La prânz admirăm peisajul de iarnă de pe geamul autobuzului spre parcul Oudegein. După-amiaza în parc este răcoroasă, dar vizita la muzeul castelului oferă o pauză confortabilă. Seara ne întoarcem cu tramvaiul, privind luminile orașului.",
+            "en": "A frosty day begins with a tram ride to Vreeswijk. The short walk through the historic village is invigorating before we warm up in the church. At noon, we enjoy the winter views from the bus on the way to Park Oudegein. The afternoon in the park is crisp, but the castle museum visit offers a cozy break. In the evening, the tram takes us back as we watch the lights of Nieuwegein."
+          },
+          "stops": [
+            {
+              "name": "Arrival in Vreeswijk",
+              "tip_5lang": {
+                "de": "Die Tramhaltestellen können bei Wind sehr kalt sein.",
+                "hu": "A villamosmegállók nagyon hidegek lehetnek szeles időben.",
+                "ro": "Stațiile de tramvai pot fi foarte reci când bate vântul.",
+                "en": "Tram stops can be very cold when it is windy."
+              }
+            },
+            {
+              "name": "Museum Shipyard & Church",
+              "tip_5lang": {
+                "de": "Planen Sie Zeit für ein heißes Getränk zwischendurch ein.",
+                "hu": "Tervezzen be időt egy forró italra két látnivaló között.",
+                "ro": "Rezervați-vă timp pentru o băutură caldă între vizite.",
+                "en": "Schedule time for a hot drink between sights."
+              }
+            },
+            {
+              "name": "Lunch in Vreeswijk",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für eine längere Mittagspause.",
+                "hu": "Meleg hely egy hosszabb ebédszünethez.",
+                "ro": "Un loc cald pentru o pauză de prânz prelungită.",
+                "en": "A warm place for an extended lunch break."
+              }
+            },
+            {
+              "name": "Trip to Park Oudegein",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter meist sehr pünktlich.",
+                "hu": "A buszok télen általában nagyon pontosak.",
+                "ro": "Autobuzele sunt de obicei foarte punctuale iarna.",
+                "en": "Buses are generally very punctual in the winter months."
+              }
+            },
+            {
+              "name": "Walk in Park Oudegein",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Laub auf den Nebenwegen.",
+                "hu": "Vigyázzon a fagyott levelekkel a mellékutakon.",
+                "ro": "Atenție la frunzele înghețate de pe potecile lăturalnice.",
+                "en": "Be careful of frozen leaves on the side paths."
+              }
+            },
+            {
+              "name": "Oudegein Castle & Museum Warsenhoeck",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Museum auf, bevor Sie zur Haltestelle gehen.",
+                "hu": "Melegedjen fel a múzeumban, mielőtt a megállóba menne.",
+                "ro": "Încălziți-vă în muzeu înainte de a merge spre stație.",
+                "en": "Warm up in the museum before heading to the stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge und Straßenbahnen können bei Schneefall Verspätung haben.",
+              "Die Haltestellen am City Plaza sind überdacht und windgeschützt.",
+              "Nutzen Sie die OV-chipkaart für einen schnellen Einstieg.",
+              "In den Abendstunden sind die Bahnen oft weniger überfüllt."
+            ],
+            "hu": [
+              "A vonatok és villamosok havazás esetén késhetnek.",
+              "A City Plaza megállói fedettek és szélvédettek.",
+              "Használja az OV-chipkaartot a gyors felszálláshoz.",
+              "Az esti órákban a járatok gyakran kevésbé zsúfoltak."
+            ],
+            "ro": [
+              "Trenurile și tramvaiele pot avea întârzieri în caz de ninsoare.",
+              "Stațiile de la City Plaza sunt acoperite și protejate de vânt.",
+              "Folosiți OV-chipkaart pentru o îmbarcare rapidă.",
+              "Seara, mijloacele de transport sunt adesea mai puțin aglomerate."
+            ],
+            "en": [
+              "Trains and trams may experience delays during snowfall.",
+              "The stops at City Plaza are covered and wind-protected.",
+              "Use the OV-chipkaart for a fast and easy boarding process.",
+              "The vehicles are often less crowded during the evening hours."
+            ]
+          }
+        }
       }
     }
   }

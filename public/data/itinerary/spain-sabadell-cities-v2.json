@@ -293,6 +293,170 @@
           "Try tapas in the small alleys.",
           "Look out for modernist details on the buildings."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Ajuntament, wo die Steinbögen Schutz vor dem Regen bieten. Mittags führt der Weg zur Sant Fèlix Kirche; das Trommeln der Tropfen auf dem Dach schafft eine andächtige Stille. Nachmittags ist das Museu d'Art der perfekte Ort, um trocken zu bleiben und katalanische Kunst zu genießen. Abends spiegeln sich die Lichter der Stadt in den Pfützen auf der Plaça de Sant Roc.",
+            "hu": "A nap az Ajuntamentnél indul, ahol a városháza árkádjai alatt védve maradunk az esőtől. Délben a Sant Fèlix templom belső csendje nyújt menedéket a kopogó eső elől. Délután a Museu d'Art termeiben merülhetünk el a művészetben, messze a sárga esernyők világától. Este a vizes aszfalton megcsillanó fények különleges hangulatot adnak a Plaça de Sant Roc környékének.",
+            "ro": "Ziua începe la Ajuntament, unde arcadele primăriei oferă un adăpost temporar. La prânz, interiorul bisericii Sant Fèlix devine un refugiu liniștit împotriva ploii de afară. După-amiaza, vizita la Museu d'Art este ideală pentru a rămâne la adăpost, explorând patrimoniul local. Seara, luminile orașului se reflectă spectaculos în bălțile de pe trotuarele din centrul vechi.",
+            "en": "The day starts at the Ajuntament, where the stone arches provide shelter from the drizzle. At noon, the interior of Sant Fèlix Church offers a quiet retreat from the rhythmic rain. In the afternoon, the Museu d'Art is the perfect indoor spot to stay dry while exploring local masterpieces. By evening, the city lights create beautiful reflections on the wet pavements of the historic center."
+          },
+          "stops": [
+            {
+              "name": "Ajuntament de Sabadell",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Plaça de Sant Roc, um trocken zu bleiben.",
+                "hu": "Használja a városháza előtti árkádokat a várakozáshoz.",
+                "ro": "Folosiți arcadele din Piața Sant Roc pentru a rămâne uscat.",
+                "en": "Use the arcades of Plaça de Sant Roc to stay dry while waiting."
+              }
+            },
+            {
+              "name": "Sant Fèlix Kirche",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine kurze, trockene Pause während eines Regenschauers.",
+                "hu": "Tökéletes hely egy rövid, száraz pihenőre az eső idején.",
+                "ro": "Un loc ideal pentru o scurtă pauză uscată în timpul ploii.",
+                "en": "An ideal place for a short, dry break during a downpour."
+              }
+            },
+            {
+              "name": "Casa Duran",
+              "tip_5lang": {
+                "de": "Achten Sie auf den rutschigen Boden im Eingangsbereich bei Nässe.",
+                "hu": "Vigyázzon a csúszós padlóra a bejáratnál esős időben.",
+                "ro": "Atenție la podeaua alunecoasă de la intrare pe timp de ploaie.",
+                "en": "Watch out for slippery floors at the entrance during wet weather."
+              }
+            },
+            {
+              "name": "Mercat Central",
+              "tip_5lang": {
+                "de": "Die riesige Markthalle ist der beste Zufluchtsort vor starkem Regen.",
+                "hu": "A hatalmas piaccsarnok a legjobb menedék heves esőzés esetén.",
+                "ro": "Hala mare a pieței este cel mai bun refugiu în caz de ploaie torențială.",
+                "en": "The huge market hall is the best refuge during heavy rain."
+              }
+            },
+            {
+              "name": "Museu d'Art",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, falls es draußen ungemütlich bleibt.",
+                "hu": "Töltsön itt több időt, ha kint továbbra is barátságtalan az idő.",
+                "ro": "Petreceți mai mult timp aici dacă afară vremea rămâne neplăcută.",
+                "en": "Spend more time here if the weather remains unpleasant outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Pflastersteine im Zentrum rutschig werden können.",
+              "Der Mercat Central bietet eine hervorragende Gastronomie für eine trockene Mittagspause.",
+              "Nutzen Sie die kurzen Abstände zwischen den Museen, um Schirme schnell zu schließen.",
+              "Die Arkadengänge in den Seitenstraßen bieten oft mehr Schutz als die Hauptwege."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a belvárosi macskakő nedvesen csúszóssá válhat.",
+              "A Mercat Central kiváló gasztronómiai lehetőségeket kínál egy száraz ebédszünethez.",
+              "Használja ki a múzeumok közötti rövid távolságokat, hogy ne ázzon el túlságosan.",
+              "Az oldalutcák árkádos részei gyakran jobb védelmet nyújtanak, mint a főutak."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pavajul din centru devine alunecos.",
+              "Mercat Central oferă opțiuni gastronomice excelente pentru o pauză de prânz uscată.",
+              "Profită de distanțele scurte dintre muzee pentru a nu te uda prea tare.",
+              "Zonele cu arcade de pe străzile laterale oferă adesea o protecție mai bună."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones in the center can get slippery when wet.",
+              "The Mercat Central offers excellent dining options for a dry lunch break.",
+              "Take advantage of the short distances between museums to avoid getting too wet.",
+              "Arcaded sections in side streets often provide better shelter than main paths."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen wirkt das Ajuntament unter der tiefstehenden Sonne besonders würdevoll. Mittags wärmt die Sant Fèlix Kirche mit ihrer ruhigen Atmosphäre auf. Nachmittags bietet Casa Duran einen faszinierenden Einblick in die Geschichte, während man der Kälte draußen entflieht. Der Tag endet im Museu d'Art, bevor die frühe Dunkelheit Sabadell in ein Meer aus festlichen Lichtern taucht.",
+            "hu": "A tiszta téli reggelen az Ajuntament épülete méltóságteljesen fest az alacsonyan járó napfényben. Délben a Sant Fèlix templom csendes falai között keressük a lelki feltöltődést. Délután a Casa Duran történetei feledtetik a kinti hűvös levegőt. A napot a Museu d'Art termeiben zárjuk, mielőtt a korai sötétedés ünnepi fényekbe öltöztetné Sabadellt.",
+            "ro": "Într-o dimineață senină de iarnă, Ajuntament arată impunător sub soarele palid. La prânz, interiorul bisericii Sant Fèlix oferă o atmosferă caldă și liniștită. După-amiaza, Casa Duran dezvăluie secrete istorice, protejându-vă de briza rece. Ziua se încheie la Museu d'Art, chiar înainte ca întunericul timpuriu să îmbrace orașul în lumini festive.",
+            "en": "On a crisp winter morning, the Ajuntament looks particularly grand under the low sun. At noon, the quiet walls of Sant Fèlix Church offer a peaceful atmosphere to warm up. In the afternoon, Casa Duran provides a fascinating look at history while escaping the outdoor chill. The day ends at the Museu d'Art, just before the early sunset bathes Sabadell in festive evening lights."
+          },
+          "stops": [
+            {
+              "name": "Ajuntament de Sabadell",
+              "tip_5lang": {
+                "de": "Die Fassade leuchtet im klaren Winterlicht besonders schön für Fotos.",
+                "hu": "A homlokzat különösen szépen mutat a tiszta téli fényben a fotókon.",
+                "ro": "Fațada arată deosebit de frumos în lumina clară de iarnă pentru fotografii.",
+                "en": "The facade looks particularly beautiful for photos in the clear winter light."
+              }
+            },
+            {
+              "name": "Sant Fèlix Kirche",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist ratsam, da große Kirchenschiffe oft kühl bleiben.",
+                "hu": "Meleg ruházat ajánlott, mert a nagy templomhajók télen is hűvösek.",
+                "ro": "Haine groase sunt recomandate, deoarece interiorul poate fi răcoros.",
+                "en": "Warm clothing is advised as large church naves often remain cool."
+              }
+            },
+            {
+              "name": "Casa Duran",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Besichtigung, um sich zwischendurch aufzuwärmen.",
+                "hu": "Használja ki a látogatást a köztes felmelegedésre.",
+                "ro": "Profită de vizită pentru a te încălzi între plimbările pe afară.",
+                "en": "Take advantage of the tour to warm up between outdoor walks."
+              }
+            },
+            {
+              "name": "Mercat Central",
+              "tip_5lang": {
+                "de": "Probieren Sie heiße lokale Spezialitäten an den Marktständen.",
+                "hu": "Kóstolja meg a forró helyi különlegességeket a piaci standoknál.",
+                "ro": "Încercați specialitățile locale calde de la tarabele din piață.",
+                "en": "Try hot local specialties at the market stalls to keep warm."
+              }
+            },
+            {
+              "name": "Museu d'Art",
+              "tip_5lang": {
+                "de": "Der Besuch am späten Nachmittag ist ideal, um die Kälte zu meiden.",
+                "hu": "A késő délutáni látogatás ideális a kinti hideg elkerülésére.",
+                "ro": "Vizita la sfârșitul după-amiezii este ideală pentru a evita frigul.",
+                "en": "A late afternoon visit is ideal to avoid the outdoor evening chill."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter gegen 17:30 Uhr unter, planen Sie Außenfotos früher.",
+              "Genießen Sie eine 'Xocolata amb melindros' in einem der Cafés nahe Casa Duran.",
+              "Schichten Sie Ihre Kleidung, da es in Museen warm, draußen aber windig ist.",
+              "Die Fußgängerzonen sind im Winter weniger überlaufen und sehr entspannt."
+            ],
+            "hu": [
+              "Télen a nap 17:30 körül nyugszik, a kültéri fotókat tervezze korábbra.",
+              "Kóstoljon meg egy forró csokoládét babapiskótával a Casa Duran közeli kávézókban.",
+              "Öltözzön rétegesen, mert a múzeumok fűtöttek, de kint metsző szél fújhat.",
+              "A sétálóutcák télen kevésbé zsúfoltak és rendkívül hangulatosak."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 17:30 iarna, planificați fotografiile mai devreme.",
+              "Savurați o ciocolată caldă cu pișcoturi într-o cafenea de lângă Casa Duran.",
+              "Îmbrăcați-vă în straturi, muzeele sunt încălzite, dar afară poate fi vânt.",
+              "Zonele pietonale sunt mai puțin aglomerate iarna și foarte relaxante."
+            ],
+            "en": [
+              "The sun sets around 5:30 PM in winter, plan your outdoor photos earlier.",
+              "Enjoy a hot chocolate with 'melindros' in a café near Casa Duran.",
+              "Layer your clothing as museums are heated but it can be windy outside.",
+              "Pedestrian zones are less crowded in winter and very atmospheric."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -561,6 +725,152 @@
           "Bring water for the ride.",
           "Pay attention to pedestrian zones in the center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Tour zur Torre de l'Aigua erfordert bei Regen Konzentration auf dem Asphalt. Mittags bietet der Parc de Catalunya mit seinen Unterständen einen Blick auf das graue Panorama der Stadt. Nachmittags ist das Institut Paleontològic der ideale Rückzugsort, um Fahrräder sicher zu parken und Fossilien zu studieren. Der Tag endet am Mercat Central, wo man sich bei einer warmen Mahlzeit vom Wetter erholt.",
+            "hu": "A Torre de l'Aigua felé tartó tekerés esőben nagyobb figyelmet igényel az aszfalton. Délben a Parc de Catalunya fedett részei alól csodálhatjuk a város szürke panorámáját. Délután a Paleontológiai Intézet nyújt tökéletes menedéket a bicikli leparkolása után a fosszíliák világában. A nap a Mercat Centralnál zárul, ahol meleg étel mellett pihenhetjük ki az esős utat.",
+            "ro": "Drumul spre Torre de l'Aigua necesită concentrare sporită pe asfaltul ud. La prânz, Parc de Catalunya oferă adăposturi de unde puteți admira panorama gri a orașului. După-amiaza, Institutul Paleontologic este refugiul ideal pentru a parca bicicleta și a studia fosilele. Ziua se termină la Mercat Central, unde o masă caldă vă va ajuta să uitați de ploaie.",
+            "en": "The ride to Torre de l'Aigua requires focus on the wet asphalt. At noon, Parc de Catalunya's shelters offer a view of the city's grey panorama. In the afternoon, the Paleontological Institute is the perfect retreat to park the bike and study fossils. The day ends at the Mercat Central, where a warm meal helps you recover from the rainy journey."
+          },
+          "stops": [
+            {
+              "name": "Torre de l'Aigua",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Straßenmarkierungen in der Nähe des Turms.",
+                "hu": "Vigyázzon a csúszós útburkolati jelekre a torony környékén.",
+                "ro": "Atenție la marcajele rutiere alunecoase în apropierea turnului.",
+                "en": "Be careful of slippery road markings near the tower when wet."
+              }
+            },
+            {
+              "name": "Parc de Catalunya",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den Parkwegen, Schlammgefahr bei Regen.",
+                "hu": "Hajtson lassan a parki utakon, esőben sárfoltok alakulhatnak ki.",
+                "ro": "Circulați cu viteză redusă pe aleile parcului, risc de noroi.",
+                "en": "Ride slowly on park paths, as mud can form during rain."
+              }
+            },
+            {
+              "name": "Institut Paleontològic",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer befinden sich oft in der Nähe des Eingangs.",
+                "hu": "Fedett kerékpártárolók gyakran találhatók a bejárat közelében.",
+                "ro": "Rasteluri de biciclete acoperite se află adesea lângă intrare.",
+                "en": "Covered bike racks are often located near the entrance."
+              }
+            },
+            {
+              "name": "Mercat Central",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Marktbesuch, um Ihre Regenbekleidung zu trocknen.",
+                "hu": "Használja ki a piaci látogatást az esőruházat megszárítására.",
+                "ro": "Folosiți vizita la piață pentru a vă usca echipamentul de ploaie.",
+                "en": "Use the market visit as an opportunity to dry your rain gear."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie schnelle Bremsmanöver auf dem nassen Kopfsteinpflaster.",
+              "Gute Schutzbleche sind essenziell, um Schmutzspritzer zu minimieren.",
+              "Das Institut Paleontològic bietet eine lange, trockene Aufenthaltszeit.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Fahrt bei regnerischem Wetter."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a nedves macskaköves szakaszokon.",
+              "A jó sárvédő elengedhetetlen a felcsapódó víz és sár ellen.",
+              "A Paleontológiai Intézet hosszú, száraz időtöltést tesz lehetővé.",
+              "Ellenőrizze a fékbetéteket az esős útra való indulás előtt."
+            ],
+            "ro": [
+              "Evitați frânările bruște pe porțiunile cu pavaj umed.",
+              "Apărătorile bune sunt esențiale pentru a minimiza stropii de noroi.",
+              "Institutul Paleontologic oferă o perioadă lungă de ședere la uscat.",
+              "Verificați saboții de frână înainte de a porni la drum pe ploaie."
+            ],
+            "en": [
+              "Avoid sudden braking on wet cobblestone sections.",
+              "Good fenders are essential to minimize splashes of mud and water.",
+              "The Paleontological Institute allows for a long, dry indoor stay.",
+              "Check your brake pads before starting your ride in rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgenwind weht kühl am Torre de l'Aigua, während man die klare Fernsicht genießt. Mittags wärmt die Bewegung auf dem Weg zum Parc de Catalunya den Körper auf. Nachmittags ist das Institut Paleontològic ein willkommener Stopp, um die gefrorenen Finger an der Heizung zu wärmen. Bevor die Sonne früh versinkt, bietet der Mercat Central eine gemütliche Atmosphäre, um die Tour bei Kerzenschein ausklingen zu lassen.",
+            "hu": "A reggeli szél hűvösen fúj a Torre de l'Aigua mellett, miközben a tiszta távolba látunk. Délben a tekerés a Parc de Catalunya felé kellemesen bemelegíti a testet. Délután a Paleontológiai Intézet szívesen látott megálló, hogy felmelegítsük átfázott ujjainkat. Mielőtt a nap korán lenyugszik, a Mercat Central barátságos fényei hívogatnak a túra lezárásához.",
+            "ro": "Vântul dimineții bate rece la Torre de l'Aigua, în timp ce admirați vizibilitatea clară. La prânz, mișcarea spre Parc de Catalunya vă va încălzi corpul. După-amiaza, Institutul Paleontologic este o oprire binevenită pentru a vă încălzi degetele amorțite. Înainte ca soarele să apună devreme, Mercat Central oferă o atmosferă primitoare pentru a încheia turul.",
+            "en": "The morning wind blows cool at Torre de l'Aigua while you enjoy the clear long-distance views. At noon, the ride to Parc de Catalunya warms up your body. In the afternoon, the Paleontological Institute is a welcome stop to warm your chilled fingers. Before the sun sets early, the Mercat Central offers a cozy atmosphere to wrap up your bike tour."
+          },
+          "stops": [
+            {
+              "name": "Torre de l'Aigua",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe, da der Turm exponiert liegt.",
+                "hu": "Viseljen szélálló kesztyűt, mert a torony nyitott területen fekszik.",
+                "ro": "Purtați mănuși rezistente la vânt, turnul este într-o zonă expusă.",
+                "en": "Wear windproof gloves as the tower is in an exposed area."
+              }
+            },
+            {
+              "name": "Parc de Catalunya",
+              "tip_5lang": {
+                "de": "Beachten Sie die verkürzten Öffnungszeiten des Parks im Winter.",
+                "hu": "Vegye figyelembe a park téli, rövidített nyitvatartási idejét.",
+                "ro": "Respectați programul redus al parcului pe timp de iarnă.",
+                "en": "Note the shortened opening hours of the park during winter."
+              }
+            },
+            {
+              "name": "Institut Paleontològic",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die intensivste Mittagskälte zu überbrücken.",
+                "hu": "Tökéletes hely a legintenzívebb déli hideg átvészelésére.",
+                "ro": "Un loc perfect pentru a evita cele mai reci ore ale amiezii.",
+                "en": "A perfect place to bridge the most intense midday cold."
+              }
+            },
+            {
+              "name": "Mercat Central",
+              "tip_5lang": {
+                "de": "Die Beleuchtung des Marktes wirkt in der Winterdämmerung magisch.",
+                "hu": "A piac világítása varázslatos a téli szürkületben.",
+                "ro": "Iluminatul pieței pare magic în amurgul de iarnă.",
+                "en": "The market's lighting looks magical in the winter twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+              "Tragen Sie mehrere dünne Schichten Kleidung unter der Jacke.",
+              "Die Wege im Parc de Catalunya können morgens vereist sein.",
+              "Nehmen Sie eine Thermoskanne mit einem warmen Getränk mit."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a kerékpár világítása hibátlanul működik.",
+              "Viseljen több vékony réteg ruhát a kabát alatt.",
+              "A Parc de Catalunya útjai reggelente jegesek lehetnek.",
+              "Vigyen magával termoszt egy meleg itallal a túrához."
+            ],
+            "ro": [
+              "Asigurați-vă că luminile bicicletei funcționează perfect.",
+              "Purtați mai multe straturi subțiri de haine sub jachetă.",
+              "Aleile din Parc de Catalunya pot fi înghețate dimineața.",
+              "Luați un termos cu o băutură caldă pentru drum."
+            ],
+            "en": [
+              "Ensure your bike lights are in perfect working order for early sunset.",
+              "Wear several thin layers of clothing under your jacket.",
+              "The paths in Parc de Catalunya can be icy in the mornings.",
+              "Carry a thermos with a warm drink to stay cozy during the ride."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -848,6 +1158,170 @@
           "Avoid driving during rush hour.",
           "Many attractions are closely clustered."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bei Regen beginnt die Fahrt entspannt an der Casa Duran, während die Tropfen gegen die Scheiben trommeln. Mittags bietet die Sant Fèlix Kirche einen trockenen Ort der Besinnung. Der Mercat Central ist mit dem Auto gut erreichbar und bietet Schutz vor den Güssen. Nach einem kurzen Halt am Torre de l'Aigua endet der Tag im Parc de Catalunya, wo man den Regen gemütlich aus dem Fahrzeug heraus beobachten kann.",
+            "hu": "Esőben az út kényelmesen indul a Casa Durannál, miközben a cseppek dobolnak az ablakon. Délben a Sant Fèlix templom nyújt száraz helyet az elmélyüléshez. A Mercat Central autóval könnyen megközelíthető, és védelmet nyújt a záporok elől. A Torre de l'Aigua után a nap a Parc de Catalunyánál zárul, ahol az autóból nézhetjük az eső áztatta tájat.",
+            "ro": "Pe ploaie, călătoria începe relaxat la Casa Duran, în timp ce picăturile bat în geam. La prânz, biserica Sant Fèlix oferă un loc uscat pentru reflecție. Mercat Central este ușor accesibil cu mașina și oferă protecție împotriva averselor. După o scurtă oprire la Torre de l'Aigua, ziua se termină în Parc de Catalunya, admirând ploaia din confortul mașinii.",
+            "en": "In the rain, the journey starts comfortably at Casa Duran while droplets drum against the windows. At noon, Sant Fèlix Church offers a dry place for reflection. The Mercat Central is easily accessible by car and provides shelter from the downpours. After a stop at Torre de l'Aigua, the day ends at Parc de Catalunya, where you can watch the rain from the car."
+          },
+          "stops": [
+            {
+              "name": "Casa Duran",
+              "tip_5lang": {
+                "de": "Parkhäuser in der Nähe halten den Weg zum Eingang kurz.",
+                "hu": "A közeli parkolóházak segítségével rövid úton elérhető a bejárat.",
+                "ro": "Parcările supraetajate din apropiere mențin drumul scurt.",
+                "en": "Nearby parking garages keep the walk to the entrance short."
+              }
+            },
+            {
+              "name": "Sant Fèlix Kirche",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken in tiefgelegenen Zonen bei Starkregen.",
+                "hu": "Kerülje a mélyebben fekvő parkolóhelyeket heves esőzéskor.",
+                "ro": "Evitați parcarea în zonele joase în timpul ploilor torențiale.",
+                "en": "Avoid parking in low-lying zones during heavy rainfall."
+              }
+            },
+            {
+              "name": "Mercat Central",
+              "tip_5lang": {
+                "de": "Die Tiefgarage des Marktes ist ideal, um trocken hineinzukommen.",
+                "hu": "A piac mélygarázsa ideális a száraz bejutáshoz.",
+                "ro": "Parcarea subterană a pieței este ideală pentru a intra la uscat.",
+                "en": "The market's underground parking is ideal for staying dry."
+              }
+            },
+            {
+              "name": "Torre de l'Aigua",
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp direkt vom Auto aus ist hier möglich.",
+                "hu": "Egy gyors fotómegálló közvetlenül az autóból is lehetséges itt.",
+                "ro": "O oprire rapidă pentru fotografii direct din mașină este posibilă.",
+                "en": "A quick photo stop directly from the car is possible here."
+              }
+            },
+            {
+              "name": "Parc de Catalunya",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze mit Aussicht auf den See.",
+                "hu": "Használja a tóra néző parkolóhelyeket az esőben.",
+                "ro": "Folosiți locurile de parcare cu vedere spre lac.",
+                "en": "Use the parking spots with a view of the lake during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den größeren Zufahrtsstraßen.",
+              "Nutzen Sie die Tiefgarage am Mercat Central für maximalen Komfort.",
+              "Halten Sie die Scheiben beschlagfrei durch Nutzung der Klimaanlage.",
+              "Planen Sie bei Regen etwas mehr Zeit für die Parkplatzsuche ein."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra (aquaplaning) a nagyobb bevezető utakon.",
+              "Használja a Mercat Central mélygarázsát a maximális kényelemért.",
+              "Tartsa páramentesen az ablakokat a légkondicionáló használatával.",
+              "Számoljon kicsit több idővel a parkolóhely-kereséshez esőben."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile principale de acces.",
+              "Folosiți parcarea subterană de la Mercat Central pentru confort maxim.",
+              "Mențineți parbrizul dezaburit folosind aerul condiționat.",
+              "Planificați mai mult timp pentru găsirea unui loc de parcare."
+            ],
+            "en": [
+              "Watch out for aquaplaning on major access roads into the city.",
+              "Use the underground parking at Mercat Central for maximum comfort.",
+              "Keep the windows fog-free by using the air conditioning system.",
+              "Allow a bit more time for finding parking during rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Auto beginnt die Wintertour gemütlich an der Casa Duran. Mittags bietet die Sant Fèlix Kirche eine kühle, aber prachtvolle Kulisse. Der Mercat Central lockt mit warmen Düften und festlicher Dekoration. Nach einem Besuch der Torre de l'Aigua im klaren Nachmittagslicht endet der Tag im Parc de Catalunya, wo man den Sonnenuntergang über Sabadell bequem genießen kann.",
+            "hu": "A fűtött autóban kényelmesen indul a téli túra a Casa Durannál. Délben a Sant Fèlix templom hűvös, de pompás látványt nyújt. A Mercat Central meleg illatokkal és ünnepi dekorációval hívogat. A Torre de l'Aigua tiszta délutáni fényei után a nap a Parc de Catalunyánál zárul, ahol kényelmesen nézhetjük végig a naplementét.",
+            "ro": "În mașina încălzită, turul de iarnă începe confortabil la Casa Duran. La prânz, biserica Sant Fèlix oferă un cadru răcoros, dar splendid. Mercat Central atrage cu arome calde și decorațiuni festive. După o vizită la Torre de l'Aigua în lumina clară a amiezii, ziua se termină în Parc de Catalunya, admirând apusul de soare.",
+            "en": "In a heated car, the winter tour begins cozily at Casa Duran. At noon, Sant Fèlix Church provides a cool but magnificent backdrop. The Mercat Central beckons with warm scents and festive decorations. After visiting Torre de l'Aigua in the clear afternoon light, the day ends at Parc de Catalunya, where you can comfortably enjoy the sunset over Sabadell."
+          },
+          "stops": [
+            {
+              "name": "Casa Duran",
+              "tip_5lang": {
+                "de": "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+                "hu": "Ne hagyjon értéktárgyat látható helyen az autóban.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
+                "en": "Do not leave valuables visible in the car during your visit."
+              }
+            },
+            {
+              "name": "Sant Fèlix Kirche",
+              "tip_5lang": {
+                "de": "Das Zentrum ist zur Weihnachtszeit oft für Autos gesperrt.",
+                "hu": "A belváros karácsony környékén gyakran le van zárva az autók elől.",
+                "ro": "Centrul este adesea închis pentru mașini în perioada Crăciunului.",
+                "en": "The center is often closed to cars during the Christmas season."
+              }
+            },
+            {
+              "name": "Mercat Central",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um regionale Weihnachtsdelikatessen zu kaufen.",
+                "hu": "Tökéletes hely a regionális karácsonyi finomságok beszerzésére.",
+                "ro": "Locul perfect pentru a cumpăra delicatese regionale de Crăciun.",
+                "en": "Perfect place to buy regional Christmas delicacies."
+              }
+            },
+            {
+              "name": "Torre de l'Aigua",
+              "tip_5lang": {
+                "de": "Im Winter wird der Turm oft stimmungsvoll beleuchtet.",
+                "hu": "Télen a tornyot gyakran hangulatosan kivilágítják.",
+                "ro": "Iarna, turnul este adesea iluminat în mod atmosferic.",
+                "en": "In winter, the tower is often atmospheric lighting."
+              }
+            },
+            {
+              "name": "Parc de Catalunya",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang warm im Auto sitzend.",
+                "hu": "Élvezze a naplementét az autó melegében ülve.",
+                "ro": "Bucurați-vă de apusul soarelui stând în căldura mașinii.",
+                "en": "Enjoy the sunset while sitting in the warmth of your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie vorab den Frostschutz der Scheibenwaschanlage.",
+              "Nutzen Sie die Parkhäuser, um das Auto vor Frost zu schützen.",
+              "Die Parkplatzsuche kann in der Vorweihnachtszeit länger dauern.",
+              "Die Straßen im Umland können bei Morgenfrost glatt sein."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a szélvédőmosó fagyállóságát.",
+              "Használjon parkolóházakat, hogy megvédje az autót a fagytól.",
+              "A parkolóhely-keresés a karácsony előtti időszakban hosszabb lehet.",
+              "A környékbeli utak a reggeli fagy idején csúszósak lehetnek."
+            ],
+            "ro": [
+              "Verificați antigelul lichidului de parbriz înainte de plecare.",
+              "Folosiți parcările acoperite pentru a proteja mașina de îngheț.",
+              "Căutarea unui loc de parcare poate dura mai mult înainte de Crăciun.",
+              "Drumurile limitrofe pot fi alunecoase în timpul înghețului matinal."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer fluid before starting.",
+              "Use indoor parking garages to protect the car from frost.",
+              "Finding a parking spot can take longer during the pre-Christmas period.",
+              "Surrounding roads can be slippery during morning frost."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1116,6 +1590,152 @@
           "Walk between nearby sights instead of waiting.",
           "Check the routes in advance online."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Ajuntament, bequem erreichbar per Bus oder Bahn. Mittags bietet das Museu d'Art einen trockenen Hafen voller Inspiration. Nachmittags führt die Fahrt zum Parc de Catalunya, wo man die regnerische Atmosphäre unter Pavillons genießen kann. Die Tour endet im Institut Paleontològic, wo man die Zeit bis zur nächsten Busabfahrt sinnvoll zwischen Dinosauriern verbringt.",
+            "hu": "A nap az Ajuntamentnél indul, amely busszal vagy vonattal könnyen elérhető. Délben a Museu d'Art nyújt száraz menedéket tele inspirációval. Délután az utazás a Parc de Catalunyához vezet, ahol pavilonok alatt élvezhetjük az esős hangulatot. A túra a Paleontológiai Intézetben zárul, ahol a buszindulásig dinoszauruszok közt tölthetjük az időt.",
+            "ro": "Ziua începe la Ajuntament, ușor accesibil cu autobuzul sau trenul. La prânz, Museu d'Art oferă un port uscat plin de inspirație. După-amiaza, călătoria continuă spre Parc de Catalunya, sub pavilioane. Turul se încheie la Institutul Paleontologic, unde puteți petrece timpul printre dinozauri până la următorul autobuz.",
+            "en": "The day starts at the Ajuntament, easily accessible by bus or train. At noon, the Museu d'Art offers a dry haven full of inspiration. In the afternoon, the journey leads to Parc de Catalunya, where you can enjoy the rainy atmosphere under pavilions. The tour ends at the Paleontological Institute, spending time among dinosaurs until your next bus."
+          },
+          "stops": [
+            {
+              "name": "Ajuntament de Sabadell",
+              "tip_5lang": {
+                "de": "Die Bushaltestellen im Zentrum haben meist gute Überdachungen.",
+                "hu": "A belvárosi buszmegállók többsége jól fedett.",
+                "ro": "Stațiile de autobuz din centru sunt de obicei bine acoperite.",
+                "en": "Most bus stops in the center have good shelters against rain."
+              }
+            },
+            {
+              "name": "Museu d'Art",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um nasse Schirme und Mäntel abzugeben.",
+                "hu": "Használja a ruhatárat a vizes esernyők és kabátok leadásához.",
+                "ro": "Folosiți garderoba pentru a lăsa umbrelele și haina umedă.",
+                "en": "Use the cloakroom to drop off wet umbrellas and coats."
+              }
+            },
+            {
+              "name": "Parc de Catalunya",
+              "tip_5lang": {
+                "de": "Die Buslinie 1 fährt fast direkt bis zum Eingang des Parks.",
+                "hu": "Az 1-es buszvonal szinte közvetlenül a park bejáratáig visz.",
+                "ro": "Linia de autobuz 1 vă lasă aproape direct la intrarea în parc.",
+                "en": "Bus line 1 takes you almost directly to the park entrance."
+              }
+            },
+            {
+              "name": "Institut Paleontològic",
+              "tip_5lang": {
+                "de": "Perfekt gelegen nahe der FGC-Station Sabadell Plaça Major.",
+                "hu": "Tökéletes helyen, az FGC Sabadell Plaça Major állomás közelében.",
+                "ro": "Situat perfect lângă stația FGC Sabadell Plaça Major.",
+                "en": "Perfectly located near the FGC Sabadell Plaça Major station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App der TUS Sabadell für Echtzeit-Abfahrten.",
+              "An regnerischen Tagen können Busse aufgrund des Verkehrs verspätet sein.",
+              "Die FGC-Züge sind eine trockene und schnelle Verbindung nach Barcelona.",
+              "Halten Sie Ihr Ticket griffbereit, um langes Suchen im Regen zu vermeiden."
+            ],
+            "hu": [
+              "Használja a TUS Sabadell alkalmazást a valós idejű indulásokhoz.",
+              "Esős napokon a buszok a forgalom miatt késhetnek.",
+              "Az FGC vonatok száraz és gyors összeköttetést jelentenek Barcelona felé.",
+              "Tartsa jegyét kéznél, hogy elkerülje a keresgélést az esőben."
+            ],
+            "ro": [
+              "Folosiți aplicația TUS Sabadell pentru plecări în timp real.",
+              "În zilele ploioase, autobuzele pot întârzia din cauza traficului.",
+              "Trenurile FGC sunt o conexiune uscată și rapidă către Barcelona.",
+              "Păstrați biletul la îndemână pentru a evita căutarea lui în ploaie."
+            ],
+            "en": [
+              "Use the TUS Sabadell app for real-time departure information.",
+              "Buses may be delayed on rainy days due to increased traffic.",
+              "FGC trains are a dry and fast connection to and from Barcelona.",
+              "Keep your ticket handy to avoid searching for it in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im warmen Bus führt die Winterreise morgens zum Ajuntament. Mittags ist das Museu d'Art ein hervorragender Ort, um der Kälte zu trotzen und lokale Kunstschätze zu entdecken. Nachmittags lädt der Parc de Catalunya zu einem zügigen Spaziergang ein, bevor man sich wieder in den Transit flüchtet. Der Tag endet im Institut Paleontològic, dessen Nähe zu den Bahnhöfen eine komfortable Heimreise garantiert.",
+            "hu": "A meleg buszon a téli utazás reggel az Ajuntamenthez vezet. Délben a Museu d'Art kiváló hely a hideg ellen és a helyi műkincsek felfedezésére. Délután a Parc de Catalunya egy frissítő sétára hív, mielőtt újra a közlekedési eszközökre szállnánk. A nap a Paleontológiai Intézetben zárul, ahonnan a vasútállomások közelsége kényelmes hazautat biztosít.",
+            "ro": "Într-un autobuz încălzit, călătoria de iarnă începe la Ajuntament. La prânz, Museu d'Art este un loc excelent pentru a evita frigul și a descoperi arta locală. După-amiaza, Parc de Catalunya vă invită la o plimbare rapidă. Ziua se termină la Institutul Paleontologic, a cărui apropiere de gară garantează o călătorie confortabilă spre casă.",
+            "en": "On a warm bus, the winter journey leads to the Ajuntament in the morning. At noon, the Museu d'Art is an excellent place to escape the cold and discover local art treasures. In the afternoon, Parc de Catalunya invites you for a brisk walk before returning to transit. The day ends at the Paleontological Institute, whose proximity to the stations guarantees a comfortable trip home."
+          },
+          "stops": [
+            {
+              "name": "Ajuntament de Sabadell",
+              "tip_5lang": {
+                "de": "Bahnhöfe sind im Winter gute Orte zum kurzen Aufwärmen.",
+                "hu": "A vasútállomások télen jó helyek egy rövid felmelegedésre.",
+                "ro": "Gările sunt locuri bune pentru o scurtă încălzire iarna.",
+                "en": "Train stations are good places for a quick warm-up in winter."
+              }
+            },
+            {
+              "name": "Museu d'Art",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Heizung während Ihres Rundgangs.",
+                "hu": "Élvezze a kellemes fűtést a múzeumi körút során.",
+                "ro": "Bucurați-vă de căldură în timpul vizitei la muzeu.",
+                "en": "Enjoy the warm heating during your museum tour."
+              }
+            },
+            {
+              "name": "Parc de Catalunya",
+              "tip_5lang": {
+                "de": "Busse fahren hier alle 15-20 Minuten ab.",
+                "hu": "A buszok itt 15-20 percenként indulnak.",
+                "ro": "Autobuzele pleacă de aici la fiecare 15-20 de minute.",
+                "en": "Buses depart from here every 15-20 minutes."
+              }
+            },
+            {
+              "name": "Institut Paleontològic",
+              "tip_5lang": {
+                "de": "Warten Sie im Foyer, falls es draußen zu kalt ist.",
+                "hu": "Várjon az előtérben, ha kint túl hideg van a buszhoz.",
+                "ro": "Așteptați în foaier dacă afară este prea frig.",
+                "en": "Wait in the foyer if it's too cold outside for your bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrzeuge des ÖPNV sind im Winter gut beheizt.",
+              "Die Taktung der Busse kann an Feiertagen im Winter abweichen.",
+              "Nutzen Sie die Wartehallen der Bahnhöfe Plaça Major oder Nord.",
+              "Ein Tagesticket lohnt sich für häufiges Ein- und Aussteigen."
+            ],
+            "hu": [
+              "A közösségi közlekedési eszközök télen jól fűtöttek.",
+              "A buszok menetrendje a téli ünnepnapokon eltérhet.",
+              "Használja a Plaça Major vagy Nord vasútállomások várótermeit.",
+              "A napijegy megéri a gyakori le- és felszálláshoz."
+            ],
+            "ro": [
+              "Mijloacele de transport public sunt bine încălzite iarna.",
+              "Frecvența autobuzelor poate diferi în timpul sărbătorilor de iarnă.",
+              "Folosiți sălile de așteptare din stațiile Plaça Major sau Nord.",
+              "Un bilet de o zi merită pentru urcări și coborâri frecvente."
+            ],
+            "en": [
+              "Public transport vehicles are well-heated during winter.",
+              "Bus schedules may vary during winter public holidays.",
+              "Use the waiting halls of Plaça Major or Nord train stations.",
+              "A day ticket is worthwhile for frequent boarding and deboarding."
+            ]
+          }
+        }
       }
     }
   }

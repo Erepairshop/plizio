@@ -362,6 +362,196 @@
           "Many of the central areas are pedestrianised, making for a pleasant walking experience.",
           "Keep an eye out for the Chartist murals, depicting the city's political history."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im überdachten Newport Market, einem idealen Zufluchtsort vor dem walisischen Regen. Der Vormittag führt Sie durch das Friars Walk Einkaufszentrum, das weitgehend wettergeschützt ist. Den Nachmittag verbringen Sie in der Newport Museum and Art Gallery, bevor Sie die Cathedral besichtigen. Den Abschluss bildet die Transporter Bridge, wo der Wind den Regen peitschen kann.",
+            "hu": "Kezdje a napot a fedett Newport Market falai között, amely tökéletes menedék az eső elől. Délelőtt a Friars Walk bevásárlóközpont árkádjai alatt sétálhat szárazon. A délutánt a Newport Múzeumban töltheti, ahol a művészet és a történelem várja. A katedrális csendes menedék, a Transporter Bridge-nél viszont készüljön fel a folyó felől érkező szélre és csapadékra.",
+            "ro": "Începeți ziua în Newport Market, o piață acoperită ideală pentru a evita ploaia galeză. Dimineața continuă prin Friars Walk, un centru comercial parțial protejat. După-amiaza este rezervată Muzeului și Galeriei de Artă din Newport, un refugiu cultural perfect. Vizita la Catedrală oferă liniște, în timp ce la Transporter Bridge va trebui să înfruntați vântul umed de pe râu.",
+            "en": "Start your day inside the historic Newport Market, a perfect shelter from the Welsh rain. Spend your morning exploring Friars Walk, which offers plenty of covered walkways. The afternoon is best spent in the Newport Museum and Art Gallery to stay dry. After a quiet visit to the Cathedral, end at the Transporter Bridge, where the rain adds a dramatic touch to the industrial landscape."
+          },
+          "stops": [
+            {
+              "name": "Newport Market",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Erdgeschoss bei den Essensständen trocken.",
+                "hu": "Élvezze a helyi ételeket a hatalmas fedett csarnok biztonságában.",
+                "ro": "Rămâneți la parter printre standurile cu mâncare pentru a evita ploaia.",
+                "en": "Stay dry by exploring the ground-floor food stalls and shops."
+              }
+            },
+            {
+              "name": "Friars Walk",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Passagen zwischen den Geschäften.",
+                "hu": "Használja az üzletek közötti fedett átjárókat a közlekedéshez.",
+                "ro": "Folosiți pasajele acoperite dintre magazine pentru a rămâne uscat.",
+                "en": "Stick to the covered walkways between the major retailers."
+              }
+            },
+            {
+              "name": "Newport Museum and Art Gallery",
+              "tip_5lang": {
+                "de": "Idealer Ort, um eine längere Regenfront abzuwarten.",
+                "hu": "Tökéletes helyszín egy kiadósabb eső kivárására a belvárosban.",
+                "ro": "Locul ideal pentru a aștepta trecerea unui front de ploaie.",
+                "en": "The perfect indoor retreat to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": "Newport Cathedral",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Holzschnitzereien im trockenen Innenraum.",
+                "hu": "Csodálja meg a fafaragásokat a templom száraz belső terében.",
+                "ro": "Admirați sculpturile în lemn în interiorul cald și uscat.",
+                "en": "Admire the woodwork and stained glass in the dry interior sanctuary."
+              }
+            },
+            {
+              "name": "Belle Vue Park",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz im viktorianischen Teepavillon.",
+                "hu": "Keressen menedéket a viktoriánus stílusú teaházban.",
+                "ro": "Căutați adăpost în pavilionul de ceai în stil victorian.",
+                "en": "Find shelter in the Victorian tea room if the rain picks up."
+              }
+            },
+            {
+              "name": "Newport Transporter Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht, die Metallstufen können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat, a fém lépcsőfokok esőben rendkívül csúszósak lehetnek.",
+                "ro": "Atenție, treptele metalice pot fi foarte alunecoase când sunt ude.",
+                "en": "Be careful as the metal walkways can become slippery in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da Newport viele gepflasterte Flächen hat.",
+              "Friars Walk bietet viele überdachte Bereiche für Shopping ohne Schirm.",
+              "Das Museum ist der beste Ort, um bei starkem Regen Zeit zu verbringen.",
+              "Die Transporter Bridge ist bei Wind und Regen sehr exponiert.",
+              "Ein Taschenschirm ist in Wales auch bei leichtem Nieselregen Pflicht."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert Newport belvárosa sok helyen macskaköves.",
+              "A Friars Walk nagy része fedett, így ernyő nélkül is végigjárható.",
+              "A Múzeum és Galéria a legjobb választás tartós eső esetén.",
+              "A Transporter Bridge környéke esőben szeles és nyitott terület.",
+              "Walesben egy összecsukható esernyő mindig legyen a táskájában."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, centrul are multe zone pavate.",
+              "Friars Walk oferă multe spații acoperite pentru cumpărături fără umbrelă.",
+              "Muzeul este cea mai bună opțiune pentru a petrece timpul pe ploaie torențială.",
+              "Transporter Bridge este foarte expus vântului și ploii de pe râu.",
+              "O umbrelă compactă este obligatorie în Țara Galilor, chiar și pe burniță."
+            ],
+            "en": [
+              "Wear waterproof footwear as Newport's central streets can get puddles.",
+              "Friars Walk shopping center has many covered sections for umbrella-free walking.",
+              "The Museum and Art Gallery is the best place to stay during heavy showers.",
+              "The Transporter Bridge is very exposed to wind and rain from the river.",
+              "Keep a sturdy umbrella handy; Welsh weather can change very quickly."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Newport Market mit einem heißen Getränk. Der Spaziergang durch Friars Walk führt Sie zur Museum and Art Gallery, wo Sie sich aufwärmen können. Besuchen Sie die Cathedral im sanften Winterlicht, bevor Sie Belle Vue Park durchqueren. Der Tag endet an der Transporter Bridge, die in der frühen Dämmerung imposant beleuchtet ist.",
+            "hu": "A fagyos reggelt kezdje egy forró itallal a Newport Marketen. A Friars Walk érintésével érkezzen meg a Múzeumba, ahol kellemes melegben nézelődhet. A katedrális téli fényekben fürdik, míg a Belle Vue Park kopár ágai közt átszűrődik a nap. A napot a Transporter Bridge-nél zárja, amely a korai sötétedésben kivilágítva tündököl.",
+            "ro": "O dimineață geroasă începe cu o băutură caldă în Newport Market. Plimbarea prin Friars Walk vă duce la Muzeu, unde vă puteți încălzi printre exponate. Catedrala arată spectaculos în lumina slabă a iernii. Traversând Belle Vue Park, ajungeți la Transporter Bridge, care este iluminat feeric odată cu lăsarea timpurie a serii.",
+            "en": "A crisp winter morning starts with a hot tea at Newport Market. Stroll through Friars Walk towards the Museum and Art Gallery to warm up your hands and mind. Visit the Cathedral in the soft winter light before a bracing walk through Belle Vue Park. End your journey at the Transporter Bridge, looking magnificent against the early winter sunset."
+          },
+          "stops": [
+            {
+              "name": "Newport Market",
+              "tip_5lang": {
+                "de": "Probieren Sie einen warmen Welsh Cake direkt vom Grill.",
+                "hu": "Kóstoljon meg egy friss, meleg walesi süteményt (welsh cake) a piacon.",
+                "ro": "Gustați o prăjitură galeză caldă, proaspăt scoasă de pe plită.",
+                "en": "Warm up with a freshly griddled Welsh cake from one of the stalls."
+              }
+            },
+            {
+              "name": "Friars Walk",
+              "tip_5lang": {
+                "de": "Genießen Sie die festliche Beleuchtung während der Wintermonate.",
+                "hu": "Élvezze az ünnepi díszkivilágítást a téli hónapok alatt.",
+                "ro": "Bucurați-vă de decorațiunile festive din timpul lunilor de iarnă.",
+                "en": "Enjoy the festive lights and decorations during the winter season."
+              }
+            },
+            {
+              "name": "Newport Museum and Art Gallery",
+              "tip_5lang": {
+                "de": "Perfekt beheizt, um die Kälte für eine Weile zu vergessen.",
+                "hu": "Kellemesen fűtött helyszín, ahol elfelejtheti a kinti hideget.",
+                "ro": "Un spațiu bine încălzit unde puteți uita de frigul de afară.",
+                "en": "A well-heated space to escape the winter chill for an hour or two."
+              }
+            },
+            {
+              "name": "Newport Cathedral",
+              "tip_5lang": {
+                "de": "Die Glasfenster leuchten im tiefstehenden Winterlicht besonders schön.",
+                "hu": "Az ólomszürke téli ég alatt az üvegablakok különleges fényben égnek.",
+                "ro": "Vitraliile arată deosebit în lumina palidă a soarelui de iarnă.",
+                "en": "The stained glass catches the low winter sun beautifully."
+              }
+            },
+            {
+              "name": "Belle Vue Park",
+              "tip_5lang": {
+                "de": "Bei Frost verwandelt sich der Park in ein glitzerndes Wunderland.",
+                "hu": "Dér esetén a park csillogó téli mesevilággá változik.",
+                "ro": "În zilele cu îngheț, parcul se transformă într-un decor de poveste.",
+                "en": "On frosty days, the park's Victorian features look truly magical."
+              }
+            },
+            {
+              "name": "Newport Transporter Bridge",
+              "tip_5lang": {
+                "de": "Achtung: Die Brücke schließt im Winter oft früher.",
+                "hu": "Figyelem: télen a híd látogatóközpontja korábban zárhat.",
+                "ro": "Atenție: podul și centrul de vizitare se pot închide mai devreme iarna.",
+                "en": "Check closing times as winter hours are often shorter for the gondola."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip für den Wechsel zwischen Kälte und beheizten Museen.",
+              "Die Sonne geht in Wales im Dezember bereits gegen 16:00 Uhr unter.",
+              "Der Teepavillon im Belle Vue Park ist ein gemütlicher Ort zum Aufwärmen.",
+              "Seien Sie vorsichtig bei Glatteis auf den Brücken und am Flussufer.",
+              "Museen haben im Winter oft leicht veränderte Öffnungszeiten."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a kinti hideg és a fűtött múzeumok közötti váltáshoz.",
+              "Decemberben a nap már délután 4 óra körül nyugovóra tér.",
+              "A Belle Vue Park teázója remek hely egy forró csokira a séta közben.",
+              "Vigyázzon a lefagyásokkal a hidakon és a folyóparti sétányon.",
+              "Télen ellenőrizze a múzeumok és a katedrális nyitvatartását."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru a trece ușor de la frig la căldura muzeelor.",
+              "Iarna soarele apune devreme în Țara Galilor, în jur de ora 16:00.",
+              "Pavilionul de ceai din Belle Vue Park este ideal pentru a vă încălzi.",
+              "Atenție la polei pe poduri și pe aleile din apropierea râului.",
+              "Verificați orele de vizitare ale catedralei, pot fi reduse iarna."
+            ],
+            "en": [
+              "Dress in layers to stay comfortable between the cold air and heated interiors.",
+              "The sun sets as early as 4:00 PM in Wales during mid-winter.",
+              "The Belle Vue Park tea room is a cozy spot for a hot chocolate break.",
+              "Watch out for icy patches on the bridge walkways and river paths.",
+              "Winter opening hours for attractions like the Cathedral can be shorter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -718,6 +908,196 @@
           "Lock your bike securely at major attractions.",
           "Newport is becoming increasingly cycle-friendly, look out for new cycle lanes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt durch Newport beginnt am Markt. Besuchen Sie die Cathedral, bevor Sie nach Caerleon radeln, wo die römischen Ruinen im Regen mystisch wirken. Zurück in der Stadt überqueren Sie die Transporter Bridge und besichtigen das prächtige Tredegar House, bevor Sie im Belle Vue Park entspannen.",
+            "hu": "Egy vizes tekerés Newportban a piacon kezdődik. Látogassa meg a katedrálist, majd tekerjen Caerleonba, ahol a római romok misztikusak az esőben. A városba visszatérve keljen át a Transporter Bridge-en, és csodálja meg a Tredegar House-t, mielőtt a Belle Vue Parkban megpihenne.",
+            "ro": "O plimbare umedă cu bicicleta prin Newport începe la piață. Vizitați Catedrala înainte de a pedala spre Caerleon, unde ruinele romane par mistice sub ploaie. Revenind în oraș, traversați Transporter Bridge și vizitați Tredegar House, înainte de a vă relaxa în Belle Vue Park.",
+            "en": "A damp ride through Newport starts at the market. Head to the Cathedral before cycling out to Caerleon, where the Roman ruins look mystical in the rain. Returning to the city, cross the Transporter Bridge and visit the grand Tredegar House before cooling down at Belle Vue Park."
+          },
+          "stops": [
+            {
+              "name": "Newport Market",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder in der Nähe des Eingangs.",
+                "hu": "Biztonságos biciklitárolók a bejárat közelében.",
+                "ro": "Parcare sigură pentru biciclete lângă intrarea principală.",
+                "en": "Secure bike racks are available near the market entrance."
+              }
+            },
+            {
+              "name": "Newport Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Vorbau, um kurz trocken zu werden.",
+                "hu": "Használja a templom előcsarnokát egy rövid száradáshoz.",
+                "ro": "Folosiți pridvorul acoperit pentru a vă feri scurt de ploaie.",
+                "en": "The covered porch area is a good spot to dry off briefly."
+              }
+            },
+            {
+              "name": "Caerleon Roman Fortress",
+              "tip_5lang": {
+                "de": "Das Römermuseum bietet perfekten Schutz vor Regen.",
+                "hu": "A római múzeum (Legionary Museum) tökéletes menedék esőben.",
+                "ro": "Muzeul roman oferă adăpost excelent în timpul ploii.",
+                "en": "The Legionary Museum provides excellent shelter during showers."
+              }
+            },
+            {
+              "name": "Newport Transporter Bridge",
+              "tip_5lang": {
+                "de": "Fahrräder sind auf der Gondel erlaubt und bleiben dort trocken.",
+                "hu": "A kerékpár megengedett a gondonán, és ott fedél alatt van.",
+                "ro": "Bicicletele sunt permise pe gondolă și rămân la adăpost.",
+                "en": "Bikes are allowed on the gondola and will be sheltered there."
+              }
+            },
+            {
+              "name": "Tredegar House",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad ab und genießen Sie die Hausführung im Trockenen.",
+                "hu": "Hagyja a bringát a tárolóban, és élvezze a háznézést bent.",
+                "ro": "Lăsați bicicleta la parcare și vizitați interiorul casei.",
+                "en": "Park your bike and take an indoor tour of the magnificent house."
+              }
+            },
+            {
+              "name": "Belle Vue Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind auch bei Regen gut befahrbar.",
+                "hu": "Az aszfaltozott utak esőben is jól tekerhetőek.",
+                "ro": "Aleile asfaltate sunt ușor de parcurs chiar și pe ploaie.",
+                "en": "The paved paths remain easy to cycle even in wet conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei walisischem Regen für Radfahrer unerlässlich.",
+              "Die Transporter Bridge kann bei starkem Wind für Radfahrer gesperrt sein.",
+              "Vermeiden Sie die Metallschienen der Brücke, wenn diese nass sind.",
+              "Die Strecke nach Caerleon führt teilweise am Fluss entlang; Vorsicht vor Pfützen.",
+              "Tragen Sie gut sichtbare Regenkleidung im Straßenverkehr."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a walesi esős utakon.",
+              "Erős szélben a Transporter Bridge lezárható a kerékpárosok elől.",
+              "Kerülje el a híd fémsíneit, ha nedvesek, mert nagyon csúsznak.",
+              "A Caerleon felé vezető út egy része vízparti, számítson tócsákra.",
+              "Viseljen jól látható esőruházatot a városi forgalomban."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale pe drumurile galeze pluvioase.",
+              "Podul Transporter poate fi închis pentru bicicliști în caz de vânt puternic.",
+              "Evitați șinele metalice ale podului când sunt ude, sunt alunecoase.",
+              "Drumul spre Caerleon urmează cursul râului; atenție la bălți.",
+              "Purtați echipament de ploaie reflectorizant în traficul urban."
+            ],
+            "en": [
+              "Mudguards are essential for cycling on wet Welsh roads.",
+              "The Transporter Bridge may close to cyclists during high winds.",
+              "Avoid cycling directly on the metal rails of the bridge when wet.",
+              "The route to Caerleon follows the river; watch out for large puddles.",
+              "Wear high-visibility waterproof gear to stay safe in city traffic."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frische Wintertour startet am Markt. Nach einem Halt an der Cathedral radeln Sie durch die kühle Luft nach Caerleon. Die Transporter Bridge bietet einen weiten Blick über das frostige Usk-Tal. Besuchen Sie Tredegar House in seiner winterlichen Ruhe, bevor Sie die Tour im Belle Vue Park abschließen.",
+            "hu": "Egy frissítő téli tekerés a piacon indul. A katedrális után a hűvös levegőn tekerjen ki Caerleonba. A Transporter Bridge-ről pazar kilátás nyílik a fagyos Usk-völgyre. Látogassa meg a Tredegar House-t téli nyugalmában, majd zárja a napot a Belle Vue Parkban.",
+            "ro": "O tură revigorantă de iarnă începe la piață. După Catedrală, pedalați prin aerul rece spre Caerleon. Transporter Bridge oferă o vedere panoramică asupra văii Usk înghețate. Vizitați Tredegar House în liniștea sa hibernală, apoi încheiați în Belle Vue Park.",
+            "en": "A refreshing winter ride starts at the market. After a stop at the Cathedral, cycle through the crisp air to Caerleon. The Transporter Bridge offers wide views over the frosty Usk valley. Visit Tredegar House in its winter stillness before finishing your tour at Belle Vue Park."
+          },
+          "stops": [
+            {
+              "name": "Newport Market",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Kaffee für den Start der Tour.",
+                "hu": "Igyon egy forró kávét az indulás előtt a piaccsarnokban.",
+                "ro": "Luați o cafea fierbinte pentru un start plin de energie.",
+                "en": "Grab a hot coffee to warm your hands before you start cycling."
+              }
+            },
+            {
+              "name": "Newport Cathedral",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier oft angenehm ruhig zum Besichtigen.",
+                "hu": "Télen gyakran kellemesen csendes a környék a nézelődéshez.",
+                "ro": "Iarna este adesea o liniște plăcută pentru vizitare aici.",
+                "en": "Winter is a peaceful time to appreciate the Cathedral's architecture."
+              }
+            },
+            {
+              "name": "Caerleon Roman Fortress",
+              "tip_5lang": {
+                "de": "Das Amphitheater sieht bei Frost besonders beeindruckend aus.",
+                "hu": "Az amfiteátrum zúzmarás fűvel különösen látványos.",
+                "ro": "Amfiteatrul arată impresionant când iarba este înghețată.",
+                "en": "The Roman amphitheater looks stunning with a coating of frost."
+              }
+            },
+            {
+              "name": "Newport Transporter Bridge",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe, der Wind auf der Gondel ist eisig.",
+                "hu": "Viseljen kesztyűt, mert a szél a gondonán jéghideg lehet.",
+                "ro": "Purtați mănuși, vântul de pe gondolă poate fi tăios.",
+                "en": "Wear warm gloves; the wind on the gondola can be biting."
+              }
+            },
+            {
+              "name": "Tredegar House",
+              "tip_5lang": {
+                "de": "Die Parkanlagen sind im Winter oft bis zur Dämmerung offen.",
+                "hu": "A kastélypark télen is látogatható sötétedésig.",
+                "ro": "Grădinile domeniului sunt deschise până la amurg chiar și iarna.",
+                "en": "The parklands are beautiful for a winter ride until dusk."
+              }
+            },
+            {
+              "name": "Belle Vue Park",
+              "tip_5lang": {
+                "de": "Der Teepavillon ist der perfekte Ort zum Aufwärmen am Ende.",
+                "hu": "A teázó tökéletes hely a felmelegedéshez a túra végén.",
+                "ro": "Pavilionul de ceai este locul ideal pentru a vă încălzi la final.",
+                "en": "The tea room is the perfect spot to warm up at the end of your ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe und Überschuhe sind für Winterradler in Wales wichtig.",
+              "Die Lichtverhältnisse sind im Winter oft schlechter; prüfen Sie Ihre Beleuchtung.",
+              "Bei Frost können die Brückenübergänge gefährlich glatt sein.",
+              "Tredegar House hat im Winter oft spezielle Weihnachtsveranstaltungen.",
+              "Planen Sie Ihre Rückkehr vor 16:30 Uhr ein, um Tageslicht zu nutzen."
+            ],
+            "hu": [
+              "A meleg kesztyű és a kamásli alapfeltétel a téli kerékpározáshoz.",
+              "A látási viszonyok rosszabbak lehetnek; ellenőrizze a világítást.",
+              "Fagy esetén a hidak padlózata veszélyesen csúszós lehet.",
+              "A Tredegar House télen gyakran tart karácsonyi programokat.",
+              "Tervezze meg a visszautat fél 5 előtt, hogy még világosban hazaérjen."
+            ],
+            "ro": [
+              "Mănușile călduroase și protecțiile pentru pantofi sunt esențiale.",
+              "Vizibilitatea este redusă iarna; verificați funcționarea luminilor.",
+              "În caz de îngheț, platformele podurilor pot fi extrem de alunecoase.",
+              "Tredegar House organizează adesea evenimente speciale de Crăciun.",
+              "Planificați revenirea înainte de ora 16:30 pentru a profita de lumină."
+            ],
+            "en": [
+              "Warm gloves and shoe covers are vital for winter cycling in Wales.",
+              "Light levels are low; ensure your bike lights are fully charged.",
+              "Bridge surfaces can be treacherous when there is a ground frost.",
+              "Tredegar House often hosts festive events during the winter months.",
+              "Aim to finish your ride by 4:30 PM to avoid cycling in total darkness."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1074,6 +1454,196 @@
           "Driving in Newport is generally straightforward, but be aware of bus lanes.",
           "Plan your route using a sat-nav to navigate city centre one-way systems."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Newport bequem vom Auto aus. Starten Sie in Caerleon, wo das Museum Schutz bietet. Überqueren Sie die Transporter Bridge (auch mit dem Auto möglich!) und besuchen Sie das Tredegar House. Danach geht es zum Markt und in die Museum and Art Gallery, bevor Sie die Cathedral besichtigen.",
+            "hu": "Fedezze fel Newportot kényelmesen az autóból. Kezdjen Caerleonban, ahol a múzeum védelmet nyújt. Keljen át a Transporter Bridge-en (autóval is lehet!), és látogassa meg a Tredegar House-t. Ezután irány a piac és a Múzeum, majd zárásként a katedrális.",
+            "ro": "Explorați Newport confortabil din mașină. Începeți în Caerleon, unde muzeul oferă protecție. Treceți cu mașina pe Transporter Bridge și vizitați Tredegar House. Urmează piața și Muzeul, iar la final Catedrala.",
+            "en": "Explore Newport from the comfort of your car. Start in Caerleon, where the indoor museum offers shelter. Cross the Transporter Bridge (cars allowed!) and visit Tredegar House. Then head to the market and the Museum and Art Gallery before ending at the Cathedral."
+          },
+          "stops": [
+            {
+              "name": "Caerleon Roman Fortress",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Museum, um den Regen zu vermeiden.",
+                "hu": "Parkoljon közvetlenül a múzeum mellett az eső elkerüléséhez.",
+                "ro": "Parcați chiar lângă muzeu pentru a evita ploaia.",
+                "en": "Park right next to the museum entrance to stay dry."
+              }
+            },
+            {
+              "name": "Newport Transporter Bridge",
+              "tip_5lang": {
+                "de": "Bleiben Sie während der Überfahrt im warmen Auto sitzen.",
+                "hu": "Maradjon a meleg autóban az átkelés ideje alatt.",
+                "ro": "Rămâneți în mașina caldă în timpul traversării cu gondola.",
+                "en": "You can stay inside your warm car while the gondola crosses."
+              }
+            },
+            {
+              "name": "Tredegar House",
+              "tip_5lang": {
+                "de": "Der große Parkplatz ist nur einen kurzen Weg vom Haus entfernt.",
+                "hu": "A nagy parkoló csak egy rövid sétára van a kastély bejáratától.",
+                "ro": "Parcarea mare este la mică distanță de intrarea în casă.",
+                "en": "The main car park is just a short dash from the house entrance."
+              }
+            },
+            {
+              "name": "Newport Market",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Kingsway' für einen trockenen Zugang.",
+                "hu": "Használja a Kingsway parkolóházat a száraz bejutáshoz.",
+                "ro": "Folosiți parcarea Kingsway pentru un acces acoperit.",
+                "en": "Use the nearby Kingsway multi-storey car park for a dry walk to the market."
+              }
+            },
+            {
+              "name": "Newport Museum and Art Gallery",
+              "tip_5lang": {
+                "de": "Zentrales Parken ermöglicht schnellen Zugang zum Museum.",
+                "hu": "A központi parkolás gyors bejutást tesz lehetővé a múzeumba.",
+                "ro": "Parcarea centrală permite accesul rapid în muzeu.",
+                "en": "Central parking provides easy access to this indoor attraction."
+              }
+            },
+            {
+              "name": "Newport Cathedral",
+              "tip_5lang": {
+                "de": "Es gibt begrenzte Parkplätze direkt vor der Cathedral.",
+                "hu": "Közvetlenül a katedrális előtt korlátozott számban van parkoló.",
+                "ro": "Există locuri de parcare limitate chiar în fața catedralei.",
+                "en": "Limited parking is available directly in front of the Cathedral."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie, ob die Transporter Bridge bei starkem Wind für PKW offen ist.",
+              "Die Parkhäuser im Stadtzentrum sind meist überdacht und trocken.",
+              "Die Straßen in Caerleon können bei starkem Regen eng und rutschig sein.",
+              "Achten Sie auf Fußgänger mit Regenschirmen in der Innenstadt.",
+              "Die Zufahrt zum Tredegar House ist gut ausgeschildert und wetterfest."
+            ],
+            "hu": [
+              "Erős szélben ellenőrizze, hogy a Transporter Bridge szállít-e autókat.",
+              "A belvárosi parkolóházak többnyire fedettek és szárazak.",
+              "Caerleon szűk utcái esőben csúszósak lehetnek.",
+              "Vigyázzon az esernyővel közlekedő gyalogosokra a belvárosban.",
+              "A Tredegar House megközelítése végig aszfaltozott és jól kitáblázott."
+            ],
+            "ro": [
+              "Verificați dacă Podul Transporter transportă mașini pe vânt puternic.",
+              "Parcările etajate din centru sunt în mare parte acoperite și uscate.",
+              "Străzile înguste din Caerleon pot fi alunecoase pe ploaie.",
+              "Atenție la pietonii cu umbrele în zona centrală.",
+              "Accesul la Tredegar House este bine semnalizat și asfaltat."
+            ],
+            "en": [
+              "Check if the Transporter Bridge is operating for cars during high winds.",
+              "Multi-storey car parks in the city center offer dry access to shops.",
+              "Narrow streets in Caerleon can be tricky when visibility is low due to rain.",
+              "Watch out for pedestrians with umbrellas in the busy market area.",
+              "The drive to Tredegar House is straightforward and well-paved."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Ausflug beginnt in Caerleon. Die Fahrt führt über die historische Transporter Bridge zum Tredegar House, das im Winterlicht prachtvoll aussieht. Nach einem Abstecher zum Newport Market besuchen Sie die Museum and Art Gallery und beenden die Tour an der Cathedral.",
+            "hu": "Téli kirándulás Caerleonban kezdődik. Az út a történelmi Transporter Bridge-en át vezet a Tredegar House-hoz, amely csodás a téli napfényben. A piaclátogatás után irány a Múzeum, majd zárásként a katedrális.",
+            "ro": "O excursie de iarnă începe în Caerleon. Drumul trece peste istoricul Transporter Bridge spre Tredegar House, care arată superb în lumina iernii. După piață, vizitați Muzeul și încheiați la Catedrală.",
+            "en": "A winter road trip starts in Caerleon. The drive takes you over the historic Transporter Bridge to Tredegar House, looking grand in the winter sun. After a stop at Newport Market, visit the Museum and Art Gallery before finishing at the Cathedral."
+          },
+          "stops": [
+            {
+              "name": "Caerleon Roman Fortress",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausgrabungen, bevor es zu kalt wird.",
+                "hu": "Nézze meg a kültéri romokat, mielőtt túl hideg lenne.",
+                "ro": "Vizitați ruinele exterioare înainte de a se lăsa prea tare frigul.",
+                "en": "Visit the outdoor fortress remains before the temperature drops."
+              }
+            },
+            {
+              "name": "Newport Transporter Bridge",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht aus dem beheizten Wagenraum.",
+                "hu": "Élvezze a kilátást a fűtött utastér kényelméből.",
+                "ro": "Bucurați-vă de priveliște din interiorul încălzit al mașinii.",
+                "en": "Enjoy the river views while staying cozy inside your car."
+              }
+            },
+            {
+              "name": "Tredegar House",
+              "tip_5lang": {
+                "de": "Im Winter sind die Innenräume des Hauses besonders behaglich.",
+                "hu": "Télen a kastély belső terei különösen hangulatosak.",
+                "ro": "Iarna, interioarele casei sunt deosebit de primitoare.",
+                "en": "The historic interiors are especially atmospheric during winter."
+              }
+            },
+            {
+              "name": "Newport Market",
+              "tip_5lang": {
+                "de": "Parken Sie zentral für einen kurzen Weg in die Wärme.",
+                "hu": "Parkoljon a központban a gyors bejutás érdekében.",
+                "ro": "Parcați central pentru a ajunge rapid la căldură.",
+                "en": "Park centrally to minimize time spent walking in the cold."
+              }
+            },
+            {
+              "name": "Newport Museum and Art Gallery",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um sich zwischen den Fahrten aufzuwärmen.",
+                "hu": "Kiváló helyszín a felmelegedéshez két autózás között.",
+                "ro": "Un loc excelent pentru a vă încălzi între opriri.",
+                "en": "A great spot to warm up and enjoy local art and history."
+              }
+            },
+            {
+              "name": "Newport Cathedral",
+              "tip_5lang": {
+                "de": "Im Winterlicht wirken die Architektur und Monumente sehr erhaben.",
+                "hu": "A téli fényekben az épület és az emlékművek magasztosak.",
+                "ro": "Arhitectura și monumentele par impunătoare în lumina iernii.",
+                "en": "The Cathedral's interior looks grand in the low winter light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Scheibenwaschanlage frostgeschützt ist.",
+              "Die Transporter Bridge kann bei Glatteis vorübergehend schließen.",
+              "Die Parkplätze am Tredegar House können im Winter matschig sein.",
+              "Nutzen Sie die Sitzheizung für die kurzen Fahrten zwischen den Zielen.",
+              "Prüfen Sie die Schließzeiten der Sehenswürdigkeiten (oft 16:00 Uhr)."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban az indulás előtt.",
+              "Jegesedés esetén a Transporter Bridge átmenetileg leállhat.",
+              "A Tredegar House parkolója télen néhol sáros lehet.",
+              "Használja az ülésfűtést a rövid városi szakaszokon.",
+              "Ellenőrizze a zárás időpontját, ami télen gyakran délután 4 óra."
+            ],
+            "ro": [
+              "Asigurați-vă că lichidul de parbriz este rezistent la îngheț.",
+              "Podul Transporter se poate închide temporar în caz de polei.",
+              "Parcarea de la Tredegar House poate fi noroioasă în timpul iernii.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte prin oraș.",
+              "Verificați orele de închidere, adesea ora 16:00 în timpul iernii."
+            ],
+            "en": [
+              "Ensure your screenwash contains sufficient antifreeze for the Welsh winter.",
+              "The Transporter Bridge may suspend operations if there is severe ice.",
+              "Parking areas at Tredegar House can be muddy during winter months.",
+              "Keep your car heater on between the short hops to each location.",
+              "Winter closing times for most attractions are around 4:00 PM."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1430,6 +2000,196 @@
           "A day-rider ticket is often cheaper than buying single fares.",
           "Ask the driver if you're unsure which stop to get off at; they're usually helpful."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Newport Bus Station, der guten Schutz bietet. Fahren Sie nach Caerleon und besuchen Sie das Römermuseum. Zurück in der Stadt bieten der Markt und Friars Walk trockene Einkaufserlebnisse. Besuchen Sie die Cathedral und entspannen Sie im Belle Vue Park (Teepavillon nutzen!).",
+            "hu": "Kezdje a Newport buszállomáson, amely jól védett. Utazzon Caerleonba a római múzeumba. Visszatérve a piac és a Friars Walk száraz élményeket kínál. Látogassa meg a katedrálist, majd pihenjen a Belle Vue Park teázójában.",
+            "ro": "Începeți la autogara Newport, care oferă protecție bună. Mergeți în Caerleon la muzeul roman. Revenind în oraș, piața și Friars Walk oferă experiențe uscate. Vizitați Catedrala și relaxați-vă în pavilionul din Belle Vue Park.",
+            "en": "Start at Newport Bus Station, which provides good shelter. Take a bus to Caerleon to see the indoor Roman museum. Back in the city, the market and Friars Walk offer dry shopping. Visit the Cathedral and relax in Belle Vue Park's tea room."
+          },
+          "stops": [
+            {
+              "name": "Newport Bus Station",
+              "tip_5lang": {
+                "de": "Warten Sie in den überdachten Wartebereichen auf Ihren Bus.",
+                "hu": "Várja a buszát a fedett várótermi részeken.",
+                "ro": "Așteptați autobuzul în zonele de așteptare acoperite.",
+                "en": "Wait for your bus in the sheltered seating areas."
+              }
+            },
+            {
+              "name": "Caerleon Roman Fortress",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist nur wenige Schritte vom Museum entfernt.",
+                "hu": "A buszmegálló csak pár lépésre van a múzeum bejáratától.",
+                "ro": "Stația de autobuz este la doar câțiva pași de muzeu.",
+                "en": "The bus stop is located just a short walk from the museum entrance."
+              }
+            },
+            {
+              "name": "Newport Market",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Busbahnhof, meist unter Vordächern.",
+                "hu": "Rövid séta a buszállomástól, nagyrészt eresz alatt.",
+                "ro": "Scurtă plimbare de la autogară, în mare parte pe sub streșini.",
+                "en": "A very short walk from the bus station, mostly under cover."
+              }
+            },
+            {
+              "name": "Friars Walk",
+              "tip_5lang": {
+                "de": "Das Einkaufszentrum ist direkt mit dem Busbahnhof verbunden.",
+                "hu": "A bevásárlóközpont közvetlenül kapcsolódik a buszállomáshoz.",
+                "ro": "Centrul comercial este conectat direct cu autogara.",
+                "en": "The shopping center is directly adjacent to the bus station."
+              }
+            },
+            {
+              "name": "Newport Cathedral",
+              "tip_5lang": {
+                "de": "Busse halten in der Nähe der Stow Hill Steigung.",
+                "hu": "A buszok a Stow Hill emelkedő közelében állnak meg.",
+                "ro": "Autobuzele opresc aproape de urcarea spre Stow Hill.",
+                "en": "Buses stop frequently near the bottom of Stow Hill."
+              }
+            },
+            {
+              "name": "Belle Vue Park",
+              "tip_5lang": {
+                "de": "Mehrere Buslinien halten direkt an den Parkeingängen.",
+                "hu": "Számos buszjárat áll meg közvetlenül a park bejáratainál.",
+                "ro": "Mai multe linii de autobuz opresc chiar la intrările în parc.",
+                "en": "Several bus routes stop right outside the park gates."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die 'Traveline Cymru' App für Echtzeit-Businfos bei Regen.",
+              "Bustickets können kontaktlos im Bus bezahlt werden.",
+              "Die Busstation ist ein zentraler Knotenpunkt mit vielen Läden.",
+              "In Caerleon ist der Weg vom Bus zum Museum sehr kurz.",
+              "Regenschirm bereit halten für den Weg zwischen Haltestelle und Ziel."
+            ],
+            "hu": [
+              "Használja a 'Traveline Cymru' alkalmazást az élő buszinformációkhoz.",
+              "A buszjegyeket érintésmentes kártyával is kifizetheti a buszon.",
+              "A buszállomás központi helyen van, sok üzlettel a közelben.",
+              "Caerleonban a buszmegálló és a múzeum távolsága minimális.",
+              "Legyen kéznél esernyő a megálló és a látnivaló közötti rövid útra."
+            ],
+            "ro": [
+              "Utilizați aplicația 'Traveline Cymru' pentru info live despre autobuze.",
+              "Biletele pot fi plătite cu cardul contactless direct în autobuz.",
+              "Autogara este un hub central cu multe facilități în apropiere.",
+              "În Caerleon, distanța de la stație la muzeu este foarte mică.",
+              "Țineți umbrela la îndemână pentru distanțele scurte de la stații."
+            ],
+            "en": [
+              "Use the 'Traveline Cymru' app for real-time bus updates during rain.",
+              "You can pay for bus fares using contactless cards or mobile devices.",
+              "Newport Bus Station is conveniently located next to Friars Walk shops.",
+              "The walk from the bus stop to the Roman museum in Caerleon is very short.",
+              "Keep an umbrella ready for the short walks between stops and attractions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie im Busbahnhof und fahren Sie nach Caerleon, um die römische Geschichte im Winter zu erleben. Zurück in Newport laden der Markt und Friars Walk zum Bummeln ein. Besuchen Sie die Cathedral im Winterlicht und beenden Sie den Tag im frostigen Belle Vue Park.",
+            "hu": "Kezdje a buszállomáson, és utazzon Caerleonba a római emlékekhez. Visszatérve Newportba a piac és a Friars Walk várja. Nézze meg a katedrálist a téli fényekben, majd zárja a napot a fagyos Belle Vue Parkban.",
+            "ro": "Începeți la autogară și mergeți în Caerleon pentru istoria romană. Revenind în Newport, piața și Friars Walk sunt ideale pentru plimbare. Vizitați Catedrala în lumina serii și încheiați în Belle Vue Park.",
+            "en": "Start at the bus station and head to Caerleon to explore Roman history in winter. Back in Newport, visit the market and Friars Walk. See the Cathedral in the soft winter glow and finish at the frosty Belle Vue Park."
+          },
+          "stops": [
+            {
+              "name": "Newport Bus Station",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Cafés direkt am Busbahnhof auf.",
+                "hu": "Melegedjen fel a buszállomás melletti kávézókban.",
+                "ro": "Încălziți-vă în cafenelele de lângă autogară.",
+                "en": "Warm up in the cafes located right next to the bus stands."
+              }
+            },
+            {
+              "name": "Caerleon Roman Fortress",
+              "tip_5lang": {
+                "de": "Busse nach Caerleon verkehren regelmäßig ab Newport.",
+                "hu": "A buszok rendszeresen járnak Caerleonba Newport központjából.",
+                "ro": "Autobuzele spre Caerleon circulă regulat din centrul Newport.",
+                "en": "Buses to Caerleon run frequently from the city center stands."
+              }
+            },
+            {
+              "name": "Newport Market",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort für ein warmes Mittagessen im Winter.",
+                "hu": "Hangulatos helyszín egy meleg téli ebédhez.",
+                "ro": "Un loc primitor pentru un prânz cald de iarnă.",
+                "en": "A cozy spot to enjoy a hot lunch during your winter trip."
+              }
+            },
+            {
+              "name": "Friars Walk",
+              "tip_5lang": {
+                "de": "Ideal für Erledigungen in einer warmen Umgebung.",
+                "hu": "Ideális helyszín az ügyintézéshez kellemes melegben.",
+                "ro": "Locul ideal pentru cumpărături într-un mediu cald.",
+                "en": "The perfect place to shop in a comfortable, heated environment."
+              }
+            },
+            {
+              "name": "Newport Cathedral",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Zeiten der Abendgottesdienste im Winter.",
+                "hu": "Ellenőrizze a téli esti istentiszteletek időpontját.",
+                "ro": "Verificați orele slujbelor de seară în timpul iernii.",
+                "en": "Check the schedule for evening services during the winter months."
+              }
+            },
+            {
+              "name": "Belle Vue Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Stadt in der frühen Dämmerung.",
+                "hu": "Élvezze a városra nyíló kilátást a korai szürkületben.",
+                "ro": "Bucurați-vă de panorama orașului la lăsarea timpurie a serii.",
+                "en": "Enjoy the city views as the lights come on in the early dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Abendkurse der Busse können im Winter leicht abweichen.",
+              "Die Busstation ist gut beleuchtet und sicher für Winterabende.",
+              "Tragen Sie warme Kleidung für die Wartezeiten an den Haltestellen.",
+              "Viele Busse in Newport haben inzwischen USB-Ladebuchsen.",
+              "Die Fahrt nach Caerleon dauert mit dem Bus etwa 15-20 Minuten."
+            ],
+            "hu": [
+              "A téli esti buszjáratok menetrendje kissé eltérhet.",
+              "A buszállomás jól kivilágított és biztonságos a téli estéken.",
+              "Öltözzön melegen a buszmegállókban való várakozáshoz.",
+              "Sok Newport-i buszon már van USB-töltési lehetőség.",
+              "A buszút Caerleonba körülbelül 15-20 percet vesz igénybe."
+            ],
+            "ro": [
+              "Orarele de seară ale autobuzelor pot varia ușor iarna.",
+              "Autogara este bine iluminată și sigură pentru serile de iarnă.",
+              "Purtați haine groase pentru timpul de așteptare în stații.",
+              "Multe autobuze din Newport sunt dotate cu porturi USB.",
+              "Călătoria cu autobuzul până în Caerleon durează cam 15-20 de minute."
+            ],
+            "en": [
+              "Evening bus schedules may vary slightly during the winter season.",
+              "The bus station is well-lit and safe for travel on winter evenings.",
+              "Wear a warm coat for when you are waiting at outdoor bus stops.",
+              "Many Newport buses now offer USB charging points on board.",
+              "The bus journey to Caerleon takes approximately 15-20 minutes."
+            ]
+          }
+        }
       }
     }
   }

@@ -375,6 +375,214 @@
           "Carry ID if you plan to cross the Green Line.",
           "Bring water, especially in summer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Wir starten im Shacolas Tower, um Nicosia von oben trocken zu sehen. Mittags bietet das Büyük Han mit seinen Arkaden perfekten Schutz vor Regenschauern bei einem Kaffee. Nachmittags erkunden wir den Erzbischofspalast und die Selimiye-Moschee. Abends lassen wir den Tag im Zypern-Museum ausklingen, wo antike Statuen die grauen Wolken draußen vergessen machen.",
+            "hu": "Reggel: A Shacolas Tower kilátójában kezdünk, védve az esőtől. Délben a Büyük Han fedett boltívei alatt pihenünk meg egy török kávéra. Délután az Érseki Palota és a Selimiye-mecset belső tereit járjuk be. Este a Ciprusi Múzeum gazdag tárlata nyújt menedéket, ahol a sziget ősi történelme elevenedik meg a kopogó esőben.",
+            "ro": "Dimineața: Începem la Turnul Shacolas pentru o vedere panoramică protejată de ploaie. La prânz, Büyük Han oferă adăpost sub arcadele sale istorice. După-amiaza vizităm Palatul Arhiepiscopal și Moscheea Selimiye. Seara o petrecem la Muzeul Ciprului, explorând colecțiile arheologice impresionante în timp ce afară plouă.",
+            "en": "Morning: We start at Shacolas Tower for a rain-protected view of the capital. At noon, Büyük Han's covered arcades provide the perfect shelter for a coffee break. Afternoon is spent inside the Archbishop's Palace and Selimiye Mosque. Evening concludes at the Cyprus Museum, where ancient treasures make you forget the grey weather outside."
+          },
+          "stops": [
+            {
+              "name": "Ledra Street & Shacolas Tower",
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt im 11. Stock ist komplett verglast und bietet Schutz vor Wind und Regen.",
+                "hu": "A 11. emeleti kilátó teljesen üvegezett, így szélben és esőben is kényelmesen nézelődhetünk.",
+                "ro": "Observatorul de la etajul 11 este complet vitrat, oferind protecție împotriva vântului și ploii.",
+                "en": "The 11th-floor observatory is fully glass-enclosed, providing shelter from wind and rain."
+              }
+            },
+            {
+              "name": "Büyük Han (Great Inn)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Galerien im Obergeschoss, um das Bauwerk trocken zu bewundern.",
+                "hu": "Használja az emeleti fedett galériákat az épület szárazon történő megcsodálásához.",
+                "ro": "Folosiți galeriile acoperite de la etaj pentru a admira structura fără a vă uda.",
+                "en": "Use the covered galleries on the upper floor to admire the structure while staying dry."
+              }
+            },
+            {
+              "name": "Selimiye Mosque",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine ruhige Pause im Trockenen; achten Sie auf die prächtigen Teppiche.",
+                "hu": "Ideális hely egy csendes, száraz pihenőhöz; csodálja meg a pompás szőnyegeket.",
+                "ro": "Un loc ideal pentru o pauză liniștită la adăpost; admirați covoarele magnifice.",
+                "en": "An ideal spot for a quiet break in the dry; admire the magnificent carpets inside."
+              }
+            },
+            {
+              "name": "Archbishop's Palace",
+              "tip_5lang": {
+                "de": "Besuchen Sie das angeschlossene Byzantinische Museum, um der Nässe länger zu entfliehen.",
+                "hu": "Látogasson el a szomszédos Bizánci Múzeumba, hogy hosszabb ideig elkerülje a nedvességet.",
+                "ro": "Vizitați Muzeul Bizantin adiacent pentru a scăpa de umezeală pentru mai mult timp.",
+                "en": "Visit the adjacent Byzantine Museum to escape the wet weather for a longer period."
+              }
+            },
+            {
+              "name": "Famagusta Gate & Liberty Monument",
+              "tip_5lang": {
+                "de": "Der Durchgang des Tores ist massiv und bietet kurzzeitig exzellenten Schutz vor Güssen.",
+                "hu": "A kapu átjárója masszív, kiváló rövid távú menedéket nyújt a záporok elől.",
+                "ro": "Pasajul porții este masiv și oferă un adăpost excelent pe termen scurt împotriva averselor.",
+                "en": "The gateway passage is massive and provides excellent short-term shelter from downpours."
+              }
+            },
+            {
+              "name": "Cyprus Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier mindestens 90 Minuten ein – es ist der beste Rückzugsort bei Dauerregen.",
+                "hu": "Tervezzen ide legalább 90 percet – ez a legjobb hely tartós eső esetén.",
+                "ro": "Planificați cel puțin 90 de minute aici – este cel mai bun refugiu în caz de ploaie continuă.",
+                "en": "Plan at least 90 minutes here – it is the best retreat during continuous rain."
+              }
+            },
+            {
+              "name": "Walk on the Venetian Walls",
+              "tip_5lang": {
+                "de": "Bei Regen können die Wege rutschig sein; bleiben Sie auf den gepflasterten Abschnitten.",
+                "hu": "Esőben az utak csúszósak lehetnek; maradjon a kövezett szakaszokon.",
+                "ro": "Căile pot fi alunecoase pe ploaie; rămâneți pe secțiunile pavate.",
+                "en": "Paths can be slippery in the rain; stick to the paved sections of the walls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Pflaster der Altstadt bei Nässe Pfützen bildet.",
+              "Die Arkadengänge in der Ledra-Straße bieten begrenzten Schutz beim Schaufensterbummel.",
+              "Nutzen Sie die Cafés im Büyük Han für längere Wartezeiten bei schweren Güssen.",
+              "Museen in Nicosia sind montags oft geschlossen; prüfen Sie den Wochentag.",
+              "Ein Taschenschirm ist wegen plötzlicher Windböen in den engen Gassen unerlässlich."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óváros kövezete esőben könnyen tócsásodik.",
+              "A Ledra utca árkádjai korlátozott védelmet nyújtanak nézelődés közben.",
+              "Használja a Büyük Han kávézóit, ha hosszabb ideig tartó heves zápor érkezik.",
+              "A nicosiai múzeumok hétfőnként gyakran zárva tartanak; ellenőrizze a napot.",
+              "Az összecsukható esernyő elengedhetetlen a szűk utcákban hirtelen feltámadó szél miatt."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pavajul orașului vechi reține apa ușor.",
+              "Arcadele de pe strada Ledra oferă protecție limitată în timp ce priviți vitrinele.",
+              "Folosiți cafenelele din Büyük Han pentru așteptări mai lungi în caz de averse puternice.",
+              "Muzeele din Nicosia sunt adesea închise lunea; verificați ziua săptămânii.",
+              "O umbrelă compactă este esențială din cauza rafalelelor bruște de vânt de pe străduțe."
+            ],
+            "en": [
+              "Wear waterproof shoes as the old town's pavement tends to form puddles quickly.",
+              "The arcades on Ledra Street offer limited protection while window shopping.",
+              "Use the cafes in Büyük Han for longer waits during heavy downpours.",
+              "Nicosia museums are often closed on Mondays; check the day of the week.",
+              "A compact umbrella is essential due to sudden wind gusts in the narrow alleys."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Die milde Wintersonne begleitet uns zur Ledra-Straße. Mittags wärmen wir uns im Büyük Han bei einer Suppe auf. Nachmittags ist das Licht perfekt für Fotos am Famagusta-Tor. Da es früh dunkel wird, nutzen wir die späten Stunden für das gemütlich beleuchtete Zypern-Museum und einen Spaziergang entlang der venezianischen Mauern in der kühlen Abendluft.",
+            "hu": "Reggel: Az enyhe téli napsütésben sétálunk a Ledra utcán. Délben a Büyük Han belső udvarán egy forró levessel melegszünk fel. Délután a fények tökéletesek a Famagusta-kapu fotózásához. Mivel korán sötétedik, az estét a barátságos fényekben úszó Ciprusi Múzeumban és a hűvös várfalakon zárjuk.",
+            "ro": "Dimineața: Soarele blând de iarnă ne însoțește pe strada Ledra. La prânz ne încălzim cu o supă caldă în curtea Büyük Han. După-amiaza, lumina este perfectă pentru fotografii la Poarta Famagusta. Deoarece se întunecă devreme, profităm de seara luminată la Muzeul Ciprului și de o plimbare pe zidurile venețiene.",
+            "en": "Morning: The mild winter sun accompanies our stroll down Ledra Street. At noon, we warm up with a soup in the courtyard of Büyük Han. Afternoon light is perfect for photos at Famagusta Gate. Since it gets dark early, we spend the evening in the cozy lighting of the Cyprus Museum and walking the Venetian walls in the crisp air."
+          },
+          "stops": [
+            {
+              "name": "Ledra Street & Shacolas Tower",
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief; genießen Sie die klare Sicht über die geteilte Stadt.",
+                "hu": "A téli nap alacsonyan jár; élvezze a tiszta kilátást az osztott város felett.",
+                "ro": "Soarele de iarnă este jos; bucurați-vă de vederea clară asupra orașului divizat.",
+                "en": "The winter sun is low; enjoy the clear visibility over the divided city."
+              }
+            },
+            {
+              "name": "Büyük Han (Great Inn)",
+              "tip_5lang": {
+                "de": "In den Wintermonaten ist es hier kühler; suchen Sie sich einen Platz in der Sonne im Hof.",
+                "hu": "A téli hónapokban itt hűvösebb van; keressen egy napsütötte helyet az udvaron.",
+                "ro": "În lunile de iarnă este mai răcoare aici; căutați un loc însorit în curtea interioară.",
+                "en": "It is cooler here in winter; find a spot in the sun within the courtyard."
+              }
+            },
+            {
+              "name": "Selimiye Mosque",
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kühle; eine leichte Jacke ist auch im Inneren ratsam.",
+                "hu": "A vastag falak tartják a hideget; egy könnyű dzseki bent is ajánlott.",
+                "ro": "Zidurile groase rețin frigul; o jachetă ușoară este recomandată și în interior.",
+                "en": "The thick walls retain the chill; a light jacket is advisable even inside."
+              }
+            },
+            {
+              "name": "Archbishop's Palace",
+              "tip_5lang": {
+                "de": "Das milde Licht betont die byzantinische Architektur der umliegenden Kirchen.",
+                "hu": "Az enyhe fény kiemeli a környező templomok bizánci építészetét.",
+                "ro": "Lumina blândă scoate în evidență arhitectura bizantină a bisericilor din jur.",
+                "en": "The mild light emphasizes the Byzantine architecture of the surrounding churches."
+              }
+            },
+            {
+              "name": "Famagusta Gate & Liberty Monument",
+              "tip_5lang": {
+                "de": "Nutzen Sie das goldene Licht kurz vor dem frühen Sonnenuntergang gegen 17:00 Uhr.",
+                "hu": "Használja ki az aranyló fényeket a korai, 17:00 körüli naplemente előtt.",
+                "ro": "Profitați de lumina aurie chiar înainte de apusul devreme, în jurul orei 17:00.",
+                "en": "Take advantage of the golden light just before the early sunset around 5:00 PM."
+              }
+            },
+            {
+              "name": "Cyprus Museum",
+              "tip_5lang": {
+                "de": "Die Innenräume sind angenehm temperiert und bieten Schutz vor der Abendkühle.",
+                "hu": "A belső terek kellemesen temperáltak, védelmet nyújtanak az esti lehűlés ellen.",
+                "ro": "Spațiile interioare au o temperatură plăcută, oferind protecție contra răcorii serii.",
+                "en": "The interior spaces are pleasantly tempered, offering protection from the evening chill."
+              }
+            },
+            {
+              "name": "Walk on the Venetian Walls",
+              "tip_5lang": {
+                "de": "Abends weht hier oft eine frische Brise; eine winddichte Jacke wird empfohlen.",
+                "hu": "Este gyakran fúj itt a szél; szélálló kabát használata javasolt.",
+                "ro": "Seara suflă adesea o briză proaspătă; se recomandă o jachetă rezistentă la vânt.",
+                "en": "A fresh breeze often blows here in the evening; a windproof jacket is recommended."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Sonnenuntergang ist im Winter bereits gegen 16:45–17:15 Uhr.",
+              "Zwiebelprinzip bei der Kleidung: In der Sonne ist es warm, im Schatten und abends kühl.",
+              "Viele Cafés haben im Winter Heizstrahler im Außenbereich für gemütliche Pausen.",
+              "Die Luftfeuchtigkeit kann abends steigen, was die Kälte intensiver wirken lässt.",
+              "Winter ist die ideale Zeit für Wanderungen auf den Mauern, da die Hitze fehlt."
+            ],
+            "hu": [
+              "A naplemente télen már 16:45 és 17:15 között bekövetkezik.",
+              "Öltözzön rétegesen: a napon meleg van, árnyékban és este hirtelen lehűl a levegő.",
+              "Sok kávézó teraszán van kültéri fűtőtest a téli szezonban is.",
+              "Az esti páratartalom miatt a hideget a ténylegesnél intenzívebbnek érezhetjük.",
+              "A tél a legjobb időszak a várfalon való sétára, mert nincs rekkenő hőség."
+            ],
+            "ro": [
+              "Apusul soarelui în timpul iernii este deja în jurul orelor 16:45–17:15.",
+              "Îmbrăcați-vă în straturi: la soare este cald, dar la umbră și seara se răcește brusc.",
+              "Multe cafenele au încălzitoare exterioare pe terase pentru pauze confortabile.",
+              "Umiditatea poate crește seara, făcând frigul să pară mai intens decât este.",
+              "Iarna este momentul ideal pentru plimbări pe ziduri, deoarece lipsește canicula."
+            ],
+            "en": [
+              "Sunset in winter is already between 4:45 PM and 5:15 PM.",
+              "Dress in layers: it's warm in the sun, but chilly in the shade and evening.",
+              "Many cafes have outdoor heaters on their terraces during the winter season.",
+              "Humidity can rise in the evening, making the cold feel more intense.",
+              "Winter is the ideal time for walking the walls as the scorching heat is gone."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -721,6 +929,196 @@
           "Watch out for pedestrians in the narrow alleys.",
           "Some areas are pedestrian-only; walk your bike there."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Wir starten vorsichtig am Paphos-Tor auf nassem Asphalt. Den Vormittag verbringen wir trocken im Zypern-Museum. Mittags radeln wir schnell zur Ledra-Straße und suchen Schutz im Büyük Han. Nachmittags geht es weiter zum Famagusta-Tor, bevor wir die Tour auf den Mauern bei nachlassendem Regen beenden.",
+            "hu": "Reggel: Óvatosan indulunk a Paphos-kapunál a nedves aszfalton. A délelőttöt szárazon töltjük a Ciprusi Múzeumban. Délben gyorsan áttekerünk a Ledra utcára, és a Büyük Hanban keresünk menedéket. Délután a Famagusta-kapu felé vesszük az irányt, majd a várfalakon zárjuk a túrát az enyhülő esőben.",
+            "ro": "Dimineața: Pornim cu prudență de la Poarta Paphos pe asfaltul umed. Petrecem dimineața la adăpost în Muzeul Ciprului. La prânz pedalăm rapid spre strada Ledra și căutăm refugiu în Büyük Han. După-amiaza continuăm spre Poarta Famagusta, înainte de a încheia turul pe ziduri când ploaia se mai domolește.",
+            "en": "Morning: We start carefully at Paphos Gate on wet asphalt. Spend the morning dry inside the Cyprus Museum. At noon, we cycle quickly to Ledra Street and seek shelter in Büyük Han. Afternoon continues towards Famagusta Gate before finishing the tour on the walls as the rain subsides."
+          },
+          "stops": [
+            {
+              "name": "Paphos Gate",
+              "tip_5lang": {
+                "de": "Achtung: Die antiken Steine am Tor können bei Nässe extrem rutschig sein.",
+                "hu": "Vigyázat: A kapunál lévő antik kövek nedvesen rendkívül csúszósak lehetnek.",
+                "ro": "Atenție: Pietrele antice de la poartă pot fi extrem de alunecoase când sunt ude.",
+                "en": "Caution: The ancient stones at the gate can be extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Cyprus Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihr Rad sicher abzustellen.",
+                "hu": "Használja a fedett bejárati részt a kerékpár biztonságos leállításához.",
+                "ro": "Folosiți zona de intrare acoperită pentru a parca bicicleta în siguranță.",
+                "en": "Use the covered entrance area to park your bike safely out of the rain."
+              }
+            },
+            {
+              "name": "Ledra Street",
+              "tip_5lang": {
+                "de": "In der Fußgängerzone ist bei Regen mit unvorhersehbaren Fußgängern zu rechnen.",
+                "hu": "A sétálóutcában esőben kiszámíthatatlan gyalogosforgalomra kell számítani.",
+                "ro": "În zona pietonală, așteptați-vă la pietoni imprevizibili pe timp de ploaie.",
+                "en": "In the pedestrian zone, expect unpredictable pedestrian movement during rain."
+              }
+            },
+            {
+              "name": "Büyük Han & Selimiye Mosque",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Arkaden am Eingang ab, um den Sattel trocken zu halten.",
+                "hu": "Állítsa le a biciklit a bejárati árkádok alatt, hogy a nyereg száraz maradjon.",
+                "ro": "Parcați bicicleta sub arcadele de la intrare pentru a păstra șaua uscată.",
+                "en": "Park your bike under the arcades at the entrance to keep the saddle dry."
+              }
+            },
+            {
+              "name": "Famagusta Gate",
+              "tip_5lang": {
+                "de": "Das Tor bietet einen guten Unterstand für eine kurze Trinkpause im Trockenen.",
+                "hu": "A kapu jó aluljárót biztosít egy rövid, száraz frissítő szünethez.",
+                "ro": "Poarta oferă un adăpost bun pentru o scurtă pauză de hidratare la uscat.",
+                "en": "The gate provides a good underpass for a short, dry hydration break."
+              }
+            },
+            {
+              "name": "Ride along the Venetian Walls",
+              "tip_5lang": {
+                "de": "Vermeiden Sie die Grünstreifen neben dem Weg; diese werden bei Regen schnell matschig.",
+                "hu": "Kerülje az út melletti füves sávokat; esőben ezek gyorsan sárossá válnak.",
+                "ro": "Evitați fâșiile de iarbă de lângă drum; acestea devin rapid noroioase pe ploaie.",
+                "en": "Avoid the grassy strips next to the path; they quickly become muddy in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen; der Bremsweg verlängert sich auf nassem Asphalt erheblich.",
+              "Vermeiden Sie Fahrten über weiß markierte Linien, da diese sehr glatt werden.",
+              "Ein einfacher Plastiküberzug für den Sattel ist bei Parkstopps Gold wert.",
+              "Tragen Sie eine auffällige Regenjacke, da die Sicht für Autofahrer eingeschränkt ist.",
+              "Die Altstadtgassen haben teils schlechten Wasserabfluss – Vorsicht vor tiefen Pfützen."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket; a féktávolság jelentősen megnő a nedves aszfalton.",
+              "Kerülje az útra festett fehér jelzéseket, mert azok nagyon csúszóssá válnak.",
+              "Egy egyszerű műanyag nyereghuzat aranyat ér a megállók ideje alatt.",
+              "Viseljen feltűnő esőkabátot, mert az autósok látási viszonyai romlanak.",
+              "Az óvárosi utcák vízelvezetése néhol rossz – vigyázzon a mély tócsákkal."
+            ],
+            "ro": [
+              "Verificați frânele; distanța de frânare crește considerabil pe asfaltul umed.",
+              "Evitați să treceți peste liniile albe marcate, deoarece devin foarte alunecoase.",
+              "O simplă husă de plastic pentru șa este extrem de utilă în timpul opririlor.",
+              "Purtați o jachetă de ploaie reflectorizantă, vizibilitatea șoferilor fiind redusă.",
+              "Străduțele vechi au uneori drenaj prost – atenție la bălțile adânci."
+            ],
+            "en": [
+              "Check your brakes; the stopping distance increases significantly on wet asphalt.",
+              "Avoid riding over white road markings as they become very slippery.",
+              "A simple plastic saddle cover is worth its weight in gold during parking stops.",
+              "Wear a high-visibility rain jacket as drivers' visibility is reduced.",
+              "The old town alleys sometimes have poor drainage – watch out for deep puddles."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Bei frischen Temperaturen starten wir am Paphos-Tor. Das Zypern-Museum bietet am Vormittag angenehme Wärme. Mittags genießen wir die Sonne auf dem Rad zur Ledra-Straße. Nachmittags erkunden wir das Büyük Han und das Famagusta-Tor. Die Tour endet mit einer Fahrt auf den Mauern im stimmungsvollen Licht des frühen Abends.",
+            "hu": "Reggel: Friss időben indulunk a Paphos-kaputól. A Ciprusi Múzeum délelőtt kellemes meleget kínál. Délben a napsütést élvezve tekerünk a Ledra utcáig. Délután a Büyük Han és a Famagusta-kapu következik. A túrát a várfalakon zárjuk a korai este hangulatos fényeiben.",
+            "ro": "Dimineața: Pornim de la Poarta Paphos pe temperaturi scăzute. Muzeul Ciprului oferă o căldură plăcută dimineața. La prânz ne bucurăm de soare pedalând spre strada Ledra. După-amiaza explorăm Büyük Han și Poarta Famagusta. Turul se încheie cu o plimbare pe ziduri în lumina serii.",
+            "en": "Morning: We start at Paphos Gate in fresh temperatures. The Cyprus Museum offers pleasant warmth in the morning. At noon, we enjoy the sun while cycling to Ledra Street. Afternoon explores Büyük Han and Famagusta Gate. The tour ends with a ride on the walls in the atmospheric light of early evening."
+          },
+          "stops": [
+            {
+              "name": "Paphos Gate",
+              "tip_5lang": {
+                "de": "Die Morgenluft kann hier im Schatten der Mauern sehr kühl sein; Handschuhe helfen.",
+                "hu": "A reggeli levegő a falak árnyékában hűvös lehet; a kesztyű sokat segít.",
+                "ro": "Aerul dimineții poate fi foarte rece la umbra zidurilor; mănușile sunt de ajutor.",
+                "en": "The morning air can be very cool in the shadow of the walls; gloves help."
+              }
+            },
+            {
+              "name": "Cyprus Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit drinnen, um Ihre Finger für die Weiterfahrt aufzuwärmen.",
+                "hu": "Használja ki a bent töltött időt az ujjai átmelegítésére a továbbhaladás előtt.",
+                "ro": "Folosiți timpul petrecut în interior pentru a vă încălzi degetele pentru drum.",
+                "en": "Use your time inside to warm up your fingers for the rest of the ride."
+              }
+            },
+            {
+              "name": "Ledra Street",
+              "tip_5lang": {
+                "de": "In der Wintersonne ist die Fahrt durch die Fußgängerzone besonders angenehm.",
+                "hu": "A téli napsütésben a sétálóutcán való tekerés különösen kellemes.",
+                "ro": "În soarele de iarnă, plimbarea prin zona pietonală este deosebit de plăcută.",
+                "en": "In the winter sun, cycling through the pedestrian zone is especially pleasant."
+              }
+            },
+            {
+              "name": "Büyük Han & Selimiye Mosque",
+              "tip_5lang": {
+                "de": "Ein heißer Tee im Hof des Han ist die beste Energiequelle für Radfahrer im Winter.",
+                "hu": "Egy forró tea a Han udvarán a legjobb energiaforrás a téli bringásoknak.",
+                "ro": "Un ceai fierbinte în curtea Hanului este cea mai bună sursă de energie iarna.",
+                "en": "A hot tea in the courtyard of the Han is the best energy source for cyclists in winter."
+              }
+            },
+            {
+              "name": "Famagusta Gate",
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne blendet hier oft; eine Sonnenbrille ist auch im Winter nötig.",
+                "hu": "Az alacsonyan járó nap gyakran elvakíthat; napszemüveg télen is szükséges.",
+                "ro": "Soarele jos vă poate orbi adesea aici; ochelarii de soare sunt necesari și iarna.",
+                "en": "The low sun can often blind you here; sunglasses are necessary even in winter."
+              }
+            },
+            {
+              "name": "Ride along the Venetian Walls",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Licht funktioniert, da es nach 16:30 Uhr dämmrig wird.",
+                "hu": "Ellenőrizze a világítást, mert 16:30 után már sötétedni kezd.",
+                "ro": "Asigurați-vă că luminile funcționează, deoarece se înserează după ora 16:30.",
+                "en": "Ensure your lights are working as it starts to get dark after 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine winddichte Schicht, da der Fahrtwind die gefühlte Temperatur senkt.",
+              "Die Wintersonne in Zypern ist stark; unterschätzen Sie den UV-Schutz nicht.",
+              "Achten Sie auf Laub auf den Radwegen der Mauern, das bei Feuchtigkeit glatt ist.",
+              "Planen Sie Ihre Tour so, dass Sie vor Sonnenuntergang (ca. 17:00) fertig sind.",
+              "Ein Schlauchschal schützt Hals und Gesicht vor der kühlen Abendbrise."
+            ],
+            "hu": [
+              "Viseljen szélálló réteget, mert a menetszél miatt hidegebbnek érzi az időt.",
+              "A ciprusi téli nap erős; ne becsülje alá az UV-védelmet.",
+              "Ügyeljen a lehullott levelekre a várfalon, mert nedvesen csúszósak lehetnek.",
+              "Tervezze úgy a túrát, hogy naplemente előtt (kb. 17:00) befejezze.",
+              "Egy csősál védi a nyakat és az arcot a hűvös esti szellőtől."
+            ],
+            "ro": [
+              "Purtați un strat rezistent la vânt, deoarece curentul scade temperatura resimțită.",
+              "Soarele de iarnă din Cipru este puternic; nu subestimați protecția UV.",
+              "Atenție la frunzele de pe pistele de pe ziduri, sunt alunecoase dacă sunt umede.",
+              "Planificați turul astfel încât să terminați înainte de apus (aprox. ora 17:00).",
+              "Un fular tip tub protejează gâtul și fața de briza răcoroasă a serii."
+            ],
+            "en": [
+              "Wear a windproof layer as the wind chill lowers the perceived temperature.",
+              "The winter sun in Cyprus is strong; do not underestimate UV protection.",
+              "Watch out for leaves on the wall bike paths, as they are slippery when damp.",
+              "Plan your tour to finish before sunset (approx. 5:00 PM).",
+              "A neck gaiter protects your neck and face from the cool evening breeze."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1097,6 +1495,214 @@
           "Be aware of one-way streets.",
           "Air conditioning is a blessing in summer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Wir parken bequem am Zypern-Museum und verbringen den Vormittag drinnen. Mittags fahren wir zur Paphos-Pforte. Danach geht es zum Parkplatz am Famagusta-Tor für einen kurzen Blick auf das Denkmal im Regen. Den späten Nachmittag verbringen wir im türkischen Teil beim Büyük Han, bevor wir trocken zum Wagen zurückkehren.",
+            "hu": "Reggel: Kényelmesen leparkolunk a Ciprusi Múzeumnál, és ott töltjük a délelőttöt. Délben a Paphos-kapuhoz hajtunk. Ezután a Famagusta-kapu melletti parkoló következik, egy rövid esős városnézésre. A késő délutánt a Büyük Han környékén töltjük, majd szárazon térünk vissza az autóhoz.",
+            "ro": "Dimineața: Parcăm comod lângă Muzeul Ciprului și petrecem dimineața în interior. La prânz conducem spre Poarta Paphos. Apoi mergem la parcarea de la Poarta Famagusta pentru o scurtă vizită pe ploaie. Petrecem după-amiaza târzie lângă Büyük Han, înainte de a reveni la mașină.",
+            "en": "Morning: We park conveniently at the Cyprus Museum and spend the morning inside. At noon, we drive to Paphos Gate. Then to the parking near Famagusta Gate for a short rainy visit. Late afternoon is spent around Büyük Han before returning to the dry car."
+          },
+          "stops": [
+            {
+              "name": "Parking near the Cyprus Museum",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz nah am Eingang, um den Weg im Regen kurz zu halten.",
+                "hu": "Válasszon a bejárathoz közeli helyet, hogy rövid legyen az út az esőben.",
+                "ro": "Alegeți un loc aproape de intrare pentru a scurta drumul prin ploaie.",
+                "en": "Choose a spot close to the entrance to keep the walk in the rain short."
+              }
+            },
+            {
+              "name": "Cyprus Museum",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um das Auto für zwei Stunden stehen zu lassen und trocken zu bleiben.",
+                "hu": "Tökéletes hely az autó kétórás leállítására, miközben Ön szárazon marad.",
+                "ro": "Locul perfect pentru a lăsa mașina timp de două ore și a rămâne uscat.",
+                "en": "The perfect place to leave the car for two hours while staying dry."
+              }
+            },
+            {
+              "name": "Paphos Gate and City Walls",
+              "tip_5lang": {
+                "de": "Parken Sie kurz am Straßenrand für ein schnelles Foto, ohne durchnässt zu werden.",
+                "hu": "Álljon meg rövid időre az út szélén egy gyors fotóhoz anélkül, hogy bőrig ázna.",
+                "ro": "Parcați scurt pe marginea drumului pentru o fotografie rapidă fără a vă uda.",
+                "en": "Park briefly at the roadside for a quick photo without getting soaked."
+              }
+            },
+            {
+              "name": "Parking near Famagusta Gate",
+              "tip_5lang": {
+                "de": "Der Boden kann hier bei Regen schlammig sein; achten Sie auf befestigte Plätze.",
+                "hu": "A talaj esőben sáros lehet; keresse a szilárd burkolatú helyeket.",
+                "ro": "Solul poate fi noroios aici pe ploaie; căutați locurile pavate.",
+                "en": "The ground can be muddy here in the rain; look for paved spots."
+              }
+            },
+            {
+              "name": "Famagusta Gate & Liberty Monument",
+              "tip_5lang": {
+                "de": "Besichtigen Sie das Tor von innen, um Schutz vor dem Wetter zu finden.",
+                "hu": "Tekintse meg a kaput belülről, hogy védelmet találjon az időjárás elől.",
+                "ro": "Vizitați poarta din interior pentru a găsi protecție împotriva vremii.",
+                "en": "Visit the gate from the inside to find shelter from the weather."
+              }
+            },
+            {
+              "name": "Park in the North & Walk to Büyük Han",
+              "tip_5lang": {
+                "de": "Die Wege in der nördlichen Altstadt sind schmal; Vorsicht vor tiefen Pfützen beim Fahren.",
+                "hu": "Az északi óváros utcái szűkek; vezetés közben vigyázzon a mély tócsákra.",
+                "ro": "Străzile din nordul orașului vechi sunt înguste; atenție la bălți când conduceți.",
+                "en": "Alleys in the northern old town are narrow; watch for deep puddles while driving."
+              }
+            },
+            {
+              "name": "Büyük Han & Selimiye Mosque",
+              "tip_5lang": {
+                "de": "Das Büyük Han bietet eine exzellente, überdachte Umgebung für den Nachmittag.",
+                "hu": "A Büyük Han kiváló fedett környezetet biztosít a délutáni programhoz.",
+                "ro": "Büyük Han oferă un mediu acoperit excelent pentru programul de după-amiază.",
+                "en": "Büyük Han provides an excellent, covered environment for the afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie unbefestigte Parkplätze, da diese im Regen schnell zu Matsch werden.",
+              "Die Sicht in den schmalen Altstadtgassen ist bei Regen durch beschlagene Scheiben schlechter.",
+              "Nutzen Sie Parkhäuser statt offener Plätze, um beim Einsteigen trocken zu bleiben.",
+              "Fahren Sie vorsichtig über Kopfsteinpflaster; es wird bei Nässe extrem rutschig.",
+              "Halten Sie die Klimaanlage auf Defrost-Modus, um die Scheiben klar zu halten."
+            ],
+            "hu": [
+              "Kerülje a nem szilárd burkolatú parkolókat, mert azok esőben gyorsan sártengerré válnak.",
+              "A párásodó ablakok miatt a látási viszonyok rosszabbak a szűk óvárosi utcákban.",
+              "Használjon parkolóházakat a nyitott helyek helyett, hogy beszálláskor száraz maradjon.",
+              "Vezessen óvatosan a macskakövön; nedvesen rendkívül csúszóssá válik.",
+              "Tartsa a légkondicionálót páramentesítő módban az ablakok tisztán tartásához."
+            ],
+            "ro": [
+              "Evitați parcările neamenajate, deoarece se transformă rapid în noroi pe ploaie.",
+              "Vizibilitatea pe străduțele înguste este mai proastă din cauza geamurilor aburite.",
+              "Folosiți parcările etajate în locul celor deschise pentru a rămâne uscat la urcare.",
+              "Conduceți cu atenție pe piatra cubică; devine extrem de alunecoasă pe ploaie.",
+              "Mențineți aerul condiționat pe modul dezaburire pentru a vedea clar prin parbriz."
+            ],
+            "en": [
+              "Avoid unpaved parking lots, as they quickly turn into mud in the rain.",
+              "Visibility in narrow old town alleys is worse due to fogging windows.",
+              "Use parking garages instead of open lots to stay dry when getting in the car.",
+              "Drive carefully over cobblestones; they become extremely slippery when wet.",
+              "Keep the air conditioning on defrost mode to keep the windows clear."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Wir parken am Zypern-Museum in der milden Wintersonne. Mittags fahren wir zur Paphos-Pforte und genießen den Blick auf die Mauern. Danach geht es zum Famagusta-Tor. Den späten Nachmittag verbringen wir in der Altstadt beim Büyük Han, bevor wir bei kühlen Abendtemperaturen mit der Heizung im Wagen zurückfahren.",
+            "hu": "Reggel: A Ciprusi Múzeumnál parkolunk az enyhe téli napsütésben. Délben a Paphos-kapuhoz hajtunk, és megcsodáljuk a várfalakat. Ezután a Famagusta-kapu következik. A késő délutánt az óvárosban, a Büyük Hannál töltjük, majd a hűvös estében a fűtött autóval térünk vissza.",
+            "ro": "Dimineața: Parcăm la Muzeul Ciprului în soarele blând de iarnă. La prânz mergem la Poarta Paphos și admirăm zidurile. Apoi continuăm spre Poarta Famagusta. Petrecem după-amiaza târzie în orașul vechi la Büyük Han, apoi revenim cu mașina încălzită.",
+            "en": "Morning: We park at the Cyprus Museum in the mild winter sun. At noon, we drive to Paphos Gate and enjoy the wall views. Then to Famagusta Gate. Late afternoon is spent in the old town at Büyük Han, before driving back in the heated car as the evening cools."
+          },
+          "stops": [
+            {
+              "name": "Parking near the Cyprus Museum",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier einfacher, einen Schattenplatz zu vermeiden und die Sonne zu nutzen.",
+                "hu": "Télen itt könnyebb elkerülni az árnyékos helyeket és kihasználni a napsütést.",
+                "ro": "Iarna este mai ușor să evitați locurile umbrite și să profitați de soare.",
+                "en": "In winter, it's easier to avoid shaded spots here and take advantage of the sun."
+              }
+            },
+            {
+              "name": "Cyprus Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die angenehme Wärme im Museum, während die Wintersonne draußen steht.",
+                "hu": "Élvezze a múzeum kellemes melegét, miközben kint süt a téli nap.",
+                "ro": "Bucurați-vă de căldura plăcută din muzeu în timp ce soarele de iarnă strălucește afară.",
+                "en": "Enjoy the pleasant warmth in the museum while the winter sun shines outside."
+              }
+            },
+            {
+              "name": "Paphos Gate and City Walls",
+              "tip_5lang": {
+                "de": "Das Licht am Vormittag ist ideal für Panoramafotos der Festungsanlagen.",
+                "hu": "A délelőtti fények ideálisak az erődítményről készült panorámaképekhez.",
+                "ro": "Lumina dimineții este ideală pentru fotografii panoramice ale fortificațiilor.",
+                "en": "The morning light is ideal for panoramic photos of the fortifications."
+              }
+            },
+            {
+              "name": "Parking near Famagusta Gate",
+              "tip_5lang": {
+                "de": "Parken Sie hier, um einen kurzen Spaziergang in der frischen Winterluft zu machen.",
+                "hu": "Parkoljon itt egy rövid sétához a friss téli levegőn.",
+                "ro": "Parcați aici pentru o scurtă plimbare în aerul curat de iarnă.",
+                "en": "Park here for a short walk in the fresh winter air."
+              }
+            },
+            {
+              "name": "Famagusta Gate & Liberty Monument",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Monument vor 16:30 Uhr, um das beste Tageslicht zu haben.",
+                "hu": "Látogassa meg az emlékművet 16:30 előtt a legjobb nappali fényekért.",
+                "ro": "Vizitați monumentul înainte de 16:30 pentru a prinde cea mai bună lumină.",
+                "en": "Visit the monument before 4:30 PM to have the best daylight."
+              }
+            },
+            {
+              "name": "Park in the North & Walk to Büyük Han",
+              "tip_5lang": {
+                "de": "Parkplätze im Norden sind im Winter oft weniger überlaufen als im Sommer.",
+                "hu": "Az északi parkolók télen gyakran kevésbé zsúfoltak, mint nyáron.",
+                "ro": "Parcările din nord sunt adesea mai puțin aglomerate iarna decât vara.",
+                "en": "Parking lots in the north are often less crowded in winter than in summer."
+              }
+            },
+            {
+              "name": "Büyük Han & Selimiye Mosque",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für den späten Nachmittag; die Cafés im Hof sind sehr gemütlich.",
+                "hu": "Ideális hely késő délutánra; az udvar kávézói nagyon hangulatosak.",
+                "ro": "Un loc ideal pentru după-amiaza târzie; cafenelele din curte sunt foarte primitoare.",
+                "en": "An ideal spot for late afternoon; the cafes in the courtyard are very cozy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Winterabende in Nicosia können kühl sein; prüfen Sie die Heizung Ihres Mietwagens.",
+              "Sonnenbrillen sind wegen der tiefstehenden Wintersonne beim Fahren unerlässlich.",
+              "Planen Sie Fahrten in die Altstadt vor dem Berufsverkehr am späten Nachmittag.",
+              "Batterien entladen sich bei kühleren Temperaturen schneller; Handy im Auto laden.",
+              "Die Straßen sind im Winter trockener als im Herbst, aber achten Sie auf Laub."
+            ],
+            "hu": [
+              "A nicosiai téli esték hűvösek lehetnek; ellenőrizze bérautója fűtését.",
+              "A napszemüveg az alacsonyan járó téli nap miatt vezetés közben elengedhetetlen.",
+              "Az óvárosi utakat a késő délutáni csúcsforgalom előtt érdemes bejárni.",
+              "Az akkumulátorok gyorsabban merülnek hidegben; töltse telefonját az autóban.",
+              "Az utak télen szárazabbak, mint ősszel, de ügyeljen a lehullott levelekre."
+            ],
+            "ro": [
+              "Serile de iarnă în Nicosia pot fi răcoroase; verificați căldura mașinii închiriate.",
+              "Ochelarii de soare sunt esențiali la condus din cauza soarelui de iarnă jos.",
+              "Planificați drumurile în orașul vechi înainte de ora de vârf de după-amiază.",
+              "Bateriile se descarcă mai repede la temperaturi scăzute; încărcați telefonul în mașină.",
+              "Drumurile sunt mai uscate iarna decât toamna, dar atenție la frunze."
+            ],
+            "en": [
+              "Nicosia winter evenings can be cool; check the heating of your rental car.",
+              "Sunglasses are essential for driving due to the low winter sun.",
+              "Plan trips to the old town before the late afternoon rush hour.",
+              "Batteries drain faster in cooler temperatures; charge your phone in the car.",
+              "The roads are drier in winter than in autumn, but watch out for fallen leaves."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1449,6 +2055,196 @@
           "Bus schedules can be found online or at the stops.",
           "Validate your ticket when you board."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Wir kommen am Solomos-Platz an und nutzen die Ledra-Straße für kurze Wege. Mittags bringt uns der Bus zum Erzbischofspalast, um trocken zu bleiben. Nachmittags fahren wir zum Zypern-Museum, dem besten Zufluchtsort bei Regen. Den Tag beenden wir in Laiki Geitonia, wo wir unter Markisen durch die Gassen schlendern können.",
+            "hu": "Reggel: Megérkezünk a Solomos térre, és a Ledra utca környékén maradunk. Délben busszal megyünk az Érseki Palotához, hogy szárazon maradjunk. Délután a Ciprusi Múzeumba látogatunk, ami a legjobb menedék esőben. A napot a Laiki Geitonia negyedben zárjuk, ahol a napellenzők alatt sétálhatunk.",
+            "ro": "Dimineața: Sosim în Piața Solomos și folosim strada Ledra pentru distanțe scurte. La prânz luăm autobuzul spre Palatul Arhiepiscopal pentru a rămâne uscați. După-amiaza mergem la Muzeul Ciprului, cel mai bun refugiu pe ploaie. Încheiem ziua în Laiki Geitonia sub copertinele magazinelor.",
+            "en": "Morning: We arrive at Solomos Square and stick to Ledra Street for short walks. At noon, the bus takes us to the Archbishop's Palace to stay dry. Afternoon is spent at the Cyprus Museum, the best refuge in the rain. End the day in Laiki Geitonia, strolling under the shop awnings."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Solomos Square Bus Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehäuschen am Platz, um trocken auf den nächsten Bus zu warten.",
+                "hu": "Használja a téren lévő várótermeket, hogy szárazon várhassa a következő buszt.",
+                "ro": "Folosiți adăposturile din piață pentru a aștepta următorul autobuz la uscat.",
+                "en": "Use the shelters at the square to wait for your next bus out of the rain."
+              }
+            },
+            {
+              "name": "Ledra Street & Shacolas Tower",
+              "tip_5lang": {
+                "de": "Der Turm ist nur einen kurzen Sprint vom Busbahnhof entfernt.",
+                "hu": "A torony csak egy rövid futásnyira van a buszpályaudvartól.",
+                "ro": "Turnul este la doar o scurtă fugă de autogară.",
+                "en": "The tower is just a short dash away from the bus station."
+              }
+            },
+            {
+              "name": "Bus to Archbishop's Palace",
+              "tip_5lang": {
+                "de": "Die Buslinie 101/102 hält oft in der Nähe; ideal, um Regenabschnitte zu überbrücken.",
+                "hu": "A 101/102-es busz gyakran megáll a közelben; ideális az esős szakaszok kiváltására.",
+                "ro": "Linia 101/102 oprește des în apropiere; ideală pentru a evita ploaia.",
+                "en": "Bus lines 101/102 stop frequently nearby; ideal for skipping rainy walk sections."
+              }
+            },
+            {
+              "name": "Archbishop's Palace & St. John's Cathedral",
+              "tip_5lang": {
+                "de": "Die Kathedrale bietet einen wunderbaren, andächtigen Rückzugsort vor dem Wetter.",
+                "hu": "A katedrális csodálatos, áhítatos menedéket nyújt az időjárás elől.",
+                "ro": "Catedrala oferă un refugiu minunat și pios în fața vremii nefavorabile.",
+                "en": "The cathedral offers a wonderful, solemn retreat from the weather."
+              }
+            },
+            {
+              "name": "Bus to the Cyprus Museum",
+              "tip_5lang": {
+                "de": "Busfahren ist bei Regen in Nicosia die komfortabelste Art der Fortbewegung.",
+                "hu": "Nicosiában esőben a buszozás a legkényelmesebb közlekedési mód.",
+                "ro": "Mersul cu autobuzul este cel mai confortabil mod de transport pe ploaie în Nicosia.",
+                "en": "Taking the bus is the most comfortable way to get around Nicosia in the rain."
+              }
+            },
+            {
+              "name": "Walk through Laiki Geitonia",
+              "tip_5lang": {
+                "de": "Viele Restaurants hier haben überdachte Terrassen für ein trockenes Abendessen.",
+                "hu": "Sok itteni étterem rendelkezik fedett terasszal a száraz vacsorához.",
+                "ro": "Multe restaurante de aici au terase acoperite pentru o cină la uscat.",
+                "en": "Many restaurants here have covered terraces for a dry dinner experience."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die Pame App herunter, um Busankünfte in Echtzeit zu verfolgen.",
+              "Halten Sie Kleingeld oder eine Motion-Card bereit, um schnell einsteigen zu können.",
+              "Busse können bei starkem Regen aufgrund von Staus leicht verspätet sein.",
+              "Die Haltestellen in der Nähe von Museen bieten oft besseren Schutz als abgelegene.",
+              "Tragen Sie Kleidung, die in klimatisierten Bussen schnell trocknet."
+            ],
+            "hu": [
+              "Töltse le a Pame alkalmazást a buszok valós idejű követéséhez.",
+              "Tartson készenlétben aprópénzt vagy Motion kártyát a gyors felszálláshoz.",
+              "Heves esőzéskor a buszok a forgalmi dugók miatt késhetnek.",
+              "A múzeumok közeli megállók gyakran jobb védelmet nyújtanak, mint a távoliak.",
+              "Viseljen olyan ruhát, amely a légkondicionált buszokon gyorsan megszárad."
+            ],
+            "ro": [
+              "Descărcați aplicația Pame pentru a urmări sosirea autobuzelor în timp real.",
+              "Aveți pregătit mărunțiș sau cardul Motion pentru o îmbarcare rapidă.",
+              "Autobuzele pot întârzia ușor în caz de ploaie torențială din cauza traficului.",
+              "Stațiile de lângă muzee oferă de obicei adăpost mai bun decât cele izolate.",
+              "Purtați haine care se usucă rapid în autobuzele cu aer condiționat."
+            ],
+            "en": [
+              "Download the Pame app to track bus arrivals in real-time.",
+              "Have change or a Motion card ready for quick boarding.",
+              "Buses may be slightly delayed during heavy rain due to traffic congestion.",
+              "Stops near museums often provide better shelter than remote ones.",
+              "Wear clothing that dries quickly in the air-conditioned buses."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Ankunft am Solomos-Platz in der frischen Winterluft. Wir schlendern zur Ledra-Straße. Mittags bringt uns der Bus zum Erzbischofspalast. Nachmittags besuchen wir das Zypern-Museum. Den Abend verbringen wir in Laiki Geitonia, wo die Gassen im Winterlicht besonders stimmungsvoll wirken, bevor wir den Bus zurück nehmen.",
+            "hu": "Reggel: Érkezés a Solomos térre a friss téli levegőben. A Ledra utcára sétálunk. Délben busszal megyünk az Érseki Palotához. Délután a Ciprusi Múzeumot látogatjuk meg. Az estét a Laiki Geitonia negyedben töltjük, ahol a téli fényekben különösen hangulatosak az utcák.",
+            "ro": "Dimineața: Sosire în Piața Solomos în aerul proaspăt de iarnă. Mergem spre strada Ledra. La prânz luăm autobuzul spre Palatul Arhiepiscopal. După-amiaza vizităm Muzeul Ciprului. Petrecem seara în Laiki Geitonia, unde străzile sunt pitorești în lumina iernii.",
+            "en": "Morning: Arrival at Solomos Square in the crisp winter air. We stroll to Ledra Street. At noon, the bus takes us to the Archbishop's Palace. Afternoon we visit the Cyprus Museum. Spend the evening in Laiki Geitonia, where the alleys are particularly atmospheric in the winter light."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Solomos Square Bus Station",
+              "tip_5lang": {
+                "de": "Der zentrale Knotenpunkt ist im Winter weniger überlaufen als in der Hochsaison.",
+                "hu": "A központi csomópont télen kevésbé zsúfolt, mint a főszezonban.",
+                "ro": "Nodul central este mai puțin aglomerat iarna decât în plin sezon.",
+                "en": "The central hub is less crowded in winter than during the peak season."
+              }
+            },
+            {
+              "name": "Ledra Street & Shacolas Tower",
+              "tip_5lang": {
+                "de": "Genießen Sie den Spaziergang in der Sonne; die Temperaturen sind ideal für Stadtbummel.",
+                "hu": "Élvezze a napsütéses sétát; a hőmérséklet ideális a városnézéshez.",
+                "ro": "Bucurați-vă de plimbarea la soare; temperaturile sunt ideale pentru explorare.",
+                "en": "Enjoy the stroll in the sun; temperatures are ideal for city sightseeing."
+              }
+            },
+            {
+              "name": "Bus to Archbishop's Palace",
+              "tip_5lang": {
+                "de": "Busse sind im Winter gut beheizt und bieten eine willkommene Aufwärmpause.",
+                "hu": "A buszok télen jól fűtöttek, kellemes felmelegedési lehetőséget nyújtanak.",
+                "ro": "Autobuzele sunt bine încălzite iarna, oferind o pauză binevenită.",
+                "en": "Buses are well-heated in winter, offering a welcome chance to warm up."
+              }
+            },
+            {
+              "name": "Archbishop's Palace & St. John's Cathedral",
+              "tip_5lang": {
+                "de": "Das Gelände ist im Winterlicht besonders ruhig und friedlich.",
+                "hu": "A terület a téli fényekben különösen csendes és békés.",
+                "ro": "Zona este deosebit de liniștită și pașnică în lumina iernii.",
+                "en": "The grounds are especially quiet and peaceful in the winter light."
+              }
+            },
+            {
+              "name": "Bus to the Cyprus Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Intervalle der Busse, um die Abendkühle zu vermeiden.",
+                "hu": "Használja ki a buszok rövid követési idejét, hogy elkerülje az esti lehűlést.",
+                "ro": "Folosiți intervalele scurte ale autobuzelor pentru a evita răcoarea serii.",
+                "en": "Take advantage of the short bus intervals to avoid the evening chill."
+              }
+            },
+            {
+              "name": "Walk through Laiki Geitonia",
+              "tip_5lang": {
+                "de": "Die Beleuchtung der historischen Gassen ist im Winter besonders einladend.",
+                "hu": "A történelmi utcák kivilágítása télen különösen hívogató.",
+                "ro": "Iluminatul străduțelor istorice este deosebit de primitor iarna.",
+                "en": "The lighting of the historical alleys is particularly inviting in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren im Winter nach dem Standardplan; achten Sie auf die frühen Abendstunden.",
+              "Die Klimaanlage in den Bussen ist im Winter oft auf Heizung umgestellt.",
+              "Solomos Square ist nachts gut beleuchtet und sicher für Transitreisende.",
+              "Kaufen Sie eine Tageskarte, um flexibel zwischen den Sehenswürdigkeiten zu pendeln.",
+              "Nutzen Sie die Zeit im Bus, um Fotos der Stadtmauer im Vorbeifahren zu machen."
+            ],
+            "hu": [
+              "A buszok télen a normál menetrend szerint járnak; figyeljen a korai sötétedésre.",
+              "A buszok légkondicionálója télen gyakran fűtésre van állítva.",
+              "A Solomos tér éjszaka jól kivilágított és biztonságos a közlekedőknek.",
+              "Vásároljon napijegyet a látnivalók közötti rugalmas ingázáshoz.",
+              "Használja ki a buszon töltött időt a városfalak fotózására menet közben."
+            ],
+            "ro": [
+              "Autobuzele circulă după orarul normal iarna; atenție la orele serii.",
+              "Aerul condiționat din autobuze este adesea setat pe încălzire iarna.",
+              "Piața Solomos este bine iluminată noaptea și sigură pentru călători.",
+              "Cumpărați un bilet de o zi pentru a naviga flexibil între obiective.",
+              "Folosiți timpul din autobuz pentru a fotografia zidurile cetății din mers."
+            ],
+            "en": [
+              "Buses run according to the standard schedule in winter; watch the early evening hours.",
+              "The air conditioning in buses is often switched to heating in winter.",
+              "Solomos Square is well-lit at night and safe for transit travelers.",
+              "Buy a day pass to commute flexibly between the sights.",
+              "Use the time on the bus to take photos of the city walls as you pass by."
+            ]
+          }
+        }
       }
     }
   }

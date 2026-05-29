@@ -406,6 +406,232 @@
           "Be careful when crossing the streets, traffic can be chaotic.",
           "Learn a few basic Turkish phrases, the locals will appreciate it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen am Konak-Platz; bei Regen bietet das nahegelegene Konak Pier Einkaufszentrum ersten Schutz. Tauchen Sie schnell in die überdachten Gassen des Kemeraltı-Basars ein, um trocken zu bleiben.\n\nMittags erkunden Sie die Hisar-Moschee und den Kizlaragasi Hani. Diese historischen Orte bieten hervorragenden Schutz vor Güssen, während Sie die Atmosphäre bei einem heißen türkischen Kaffee genießen.\n\nAm Nachmittag ist das Archäologische Museum die perfekte Wahl, um die Zeit im Trockenen zu verbringen. Die Agora von Smyrna erfordert einen Regenschirm, da sie größtenteils im Freien liegt.\n\nDen Abend verbringen Sie im historischen Asansör. Die Fahrt nach oben ist wettergeschützt und das Café oben bietet einen dramatischen Blick auf das regnerische Izmir und den Golf.",
+            "hu": "Kezdje a reggelt a Konak téren; eső esetén a közeli Konak Pier árkádjai alatt keressen menedéket. Gyorsan húzódjon be a Kemeraltı bazár fedett útvesztőibe, ahol órákig szárazon maradhat.\n\nDélben látogassa meg a Hisar-mecsetet és a Kizlaragasi Hanit. Ezek a történelmi helyszínek kiváló védelmet nyújtanak a záporok elől, miközben egy forró török kávé mellett figyelheti az esőt.\n\nDélután az Régészeti Múzeum a legjobb választás a benti programhoz. Az Agóra szabadtéri területén szükség lesz az esernyőre, de a romok ilyenkor is lenyűgözőek.\n\nAz estét töltse a történelmi Asansörben. A lift zárt, a felső kávézó ablakai mögül pedig gyönyörű kilátás nyílik a viharos Égei-tengerre és a kivilágított öbölre.",
+            "ro": "Începeți dimineața în Piața Konak; în caz de ploaie, arcadele de la Konak Pier oferă un prim adăpost. Intrați rapid în labirintul acoperit al bazarului Kemeraltı pentru a rămâne uscat.\n\nLa prânz, explorați Moscheea Hisar și Kizlaragasi Hani. Aceste locații istorice oferă protecție excelentă împotriva ploii, permițându-vă să savurați o cafea turcească fierbinte într-o atmosferă autentică.\n\nDupă-amiaza, Muzeul de Arheologie este alegerea perfectă pentru a petrece timpul la interior. Agora din Smirna necesită umbrelă, fiind un sit în aer liber, dar ruinele sunt evocatoare sub ploaie.\n\nSeara, vizitați istoricul Asansör. Călătoria cu liftul este protejată, iar cafeneaua de sus oferă o vedere dramatică asupra golfului Izmir și a orașului sub lumina serii.",
+            "en": "Start your morning at Konak Square; if it rains, the nearby Konak Pier offers initial shelter. Quickly dive into the covered alleys of Kemeraltı Bazaar to stay dry while shopping.\n\nAt midday, explore Hisar Mosque and Kizlaragasi Hani. These historic spots provide excellent refuge from downpours, allowing you to enjoy the atmosphere with a hot Turkish coffee.\n\nIn the afternoon, the Archaeological Museum is the perfect choice for indoor exploration. The Agora of Smyrna will require an umbrella as it is mostly outdoors, but remains impressive.\n\nSpend the evening at the historical Asansör. The elevator ride is weather-protected, and the cafe at the top offers a dramatic view of rainy Izmir and the gulf."
+          },
+          "stops": [
+            {
+              "name": "Izmir Clock Tower (Konak Square)",
+              "tip_5lang": {
+                "de": "Suchen Sie bei plötzlichem Regen Schutz unter den Bögen des Regierungsgebäudes.",
+                "hu": "Hirtelen zápor esetén keressen menedéket a kormányzati épület árkádjai alatt.",
+                "ro": "În caz de ploaie bruscă, căutați adăpost sub arcadele clădirii guvernamentale.",
+                "en": "In case of sudden rain, seek shelter under the arches of the government building."
+              }
+            },
+            {
+              "name": "Kemeraltı Bazaar",
+              "tip_5lang": {
+                "de": "Perfekt für Regentage, da die meisten Gassen überdacht und windgeschützt sind.",
+                "hu": "Tökéletes esős napokra, mivel a legtöbb utca fedett és szélvédett.",
+                "ro": "Perfect pentru zilele ploioase, deoarece majoritatea străzilor sunt acoperite.",
+                "en": "Perfect for rainy days as most alleys are covered and protected from wind."
+              }
+            },
+            {
+              "name": "Hisar Mosque",
+              "tip_5lang": {
+                "de": "Ein friedlicher, trockener Ort; bitte ziehen Sie Ihre Schuhe im Vorraum aus.",
+                "hu": "Békés, száraz helyszín; a cipőket az előtérben kell hagyni.",
+                "ro": "Un loc liniștit și uscat; vă rugăm să lăsați încălțămintea la intrare.",
+                "en": "A peaceful, dry spot; please remove your shoes in the vestibule."
+              }
+            },
+            {
+              "name": "Kizlaragasi Hani",
+              "tip_5lang": {
+                "de": "Genießen Sie einen Tee im Innenhof unter den großen Sonnenschirmen.",
+                "hu": "Élvezzen egy teát a belső udvar nagy esernyői alatt.",
+                "ro": "Savurați un ceai în curtea interioară sub umbrelele mari.",
+                "en": "Enjoy a tea in the courtyard under the large umbrellas."
+              }
+            },
+            {
+              "name": "Agora of Smyrna",
+              "tip_5lang": {
+                "de": "Die Wege können rutschig sein; besuchen Sie die unterirdischen Hallen (Kryptoportikus).",
+                "hu": "Az utak csúszósak lehetnek; látogassa meg a földalatti csarnokokat (kriptoportikusz).",
+                "ro": "Căile pot fi alunecoase; vizitați sălile subterane (cryptoporticus).",
+                "en": "Paths can be slippery; visit the underground halls (cryptoporticus) to stay dry."
+              }
+            },
+            {
+              "name": "Izmir Archaeological Museum",
+              "tip_5lang": {
+                "de": "Ideales Ziel bei Regen; nehmen Sie sich Zeit für die Artefakte im Inneren.",
+                "hu": "Ideális úti cél esőben; szánjon időt a benti műtárgyak megtekintésére.",
+                "ro": "Destinație ideală pe ploaie; acordați-vă timp pentru artefactele din interior.",
+                "en": "Ideal destination during rain; take your time with the artifacts inside."
+              }
+            },
+            {
+              "name": "Asansör (Historical Elevator)",
+              "tip_5lang": {
+                "de": "Der Lift ist geschlossen und trocken; genießen Sie den Blick aus dem Restaurant.",
+                "hu": "A lift zárt és száraz; élvezze a kilátást az étterem ablakából.",
+                "ro": "Liftul este închis și uscat; bucurați-vă de priveliște din restaurant.",
+                "en": "The elevator is enclosed and dry; enjoy the view from the restaurant."
+              }
+            },
+            {
+              "name": "Kordonboyu Promenade",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café in der ersten Reihe, um das Meer sicher im Trockenen zu sehen.",
+                "hu": "Válasszon egy kávézót az első sorban, hogy szárazon figyelhesse a tengert.",
+                "ro": "Alegeți o cafenea din prima linie pentru a vedea marea în siguranță.",
+                "en": "Choose a cafe in the front row to watch the sea while staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster in Kemeraltı Pfützen bilden kann.",
+              "Nutzen Sie die Durchgänge der Han-Gebäude als Abkürzungen im Trockenen.",
+              "Die Museen in Izmir sind montags oft weniger überlaufen, ideal für Regentage.",
+              "Packen Sie einen stabilen Regenschirm ein, da es am Meer windig sein kann.",
+              "Die Metro-Station Konak ist ein guter Treffpunkt, wenn es draußen schüttet."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a Kemeraltı macskakövein megállhat a víz.",
+              "Használja a történelmi fogadók (han) átjáróit száraz rövidítésként.",
+              "Az izmiri múzeumok hétfőnként kevésbé zsúfoltak, ideálisak esős időre.",
+              "Vigyen erős esernyőt, mert a tengerparton a szél könnyen kifordíthatja.",
+              "A Konak metróállomás jó találkozási pont, ha kint szakad az eső."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pavajul din Kemeraltı poate reține apa.",
+              "Folosiți pasajele hanurilor istorice ca scurtături uscate.",
+              "Muzeele din Izmir sunt mai puțin aglomerate lunea, ideale pentru zilele ploioase.",
+              "Luați o umbrelă rezistentă, deoarece vântul de pe coastă poate fi puternic.",
+              "Stația de metrou Konak este un punct bun de întâlnire dacă plouă torențial."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones in Kemeraltı can form puddles.",
+              "Use the passages of the historic Han buildings as dry shortcuts.",
+              "Izmir's museums are often less crowded on Mondays, ideal for rainy days.",
+              "Pack a sturdy umbrella as it can be windy near the seafront.",
+              "Konak Metro station is a good meeting point if it's pouring outside."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die frische Meeresbrise am Morgen am Konak-Platz. Die milde Wintersonne von Izmir macht den Spaziergang durch Kemeraltı sehr angenehm, ohne die Hitze des Sommers.\n\nMittags wärmen Sie sich im Kizlaragasi Hani bei einer Tasse dampfendem Tee oder 'Salep' auf. Die historischen Steinwände schützen vor dem kühlen Wind.\n\nAm Nachmittag bietet das Archäologische Museum eine angenehm temperierte Umgebung. Besuchen Sie die Agora, solange die Sonne noch scheint, da die Schatten im Winter lang werden.\n\nBeenden Sie den Tag rechtzeitig zum Sonnenuntergang am Asansör. Im Winter geht die Sonne gegen 17:30 Uhr unter und taucht den Golf von Izmir in ein tiefes Orange, bevor Sie in den gemütlichen Gassen von Alsancak einkehren.",
+            "hu": "Élvezze a friss tengeri szellőt reggel a Konak téren. Az izmiri enyhe téli napsütésben a Kemeraltı bazár felfedezése sokkal kellemesebb, mint a nyári hőségben.\n\nDélben melegedjen fel a Kizlaragasi Haniban egy csésze gőzölgő teával vagy 'szaleppel'. A történelmi kőfalak védenek a hűvös széltől.\n\nDélután a Régészeti Múzeum fűtött termei hívogatnak. Az Agórát érdemes még napsütésben meglátogatni, mert télen a mélyebben fekvő részek hamar árnyékba kerülnek.\n\nA napot fejezze be a naplementével az Asansörnél. Télen a nap 17:30 körül nyugszik, narancssárgára festve az öblöt, mielőtt beülne Alsancak valamelyik hangulatos éttermébe.",
+            "ro": "Bucurați-vă de briza proaspătă a mării dimineața în Piața Konak. Soarele blând de iarnă face plimbarea prin Kemeraltı mult mai plăcută decât în arșița verii.\n\nLa prânz, încălziți-vă la Kizlaragasi Hani cu o ceașcă de ceai fierbinte sau 'salep'. Zidurile istorice de piatră oferă adăpost împotriva vântului răcoros.\n\nDupă-amiaza, sălile încălzite ale Muzeului de Arheologie sunt primitoare. Vizitați Agora cât timp soarele încă strălucește, deoarece umbrele devin lungi iarna.\n\nÎncheiați ziua cu apusul la Asansör. Iarna, soarele apune în jurul orei 17:30, pictând golful în portocaliu, înainte de a vă retrage în restaurantele primitoare din Alsancak.",
+            "en": "Enjoy the fresh sea breeze in the morning at Konak Square. Izmir's mild winter sun makes strolling through Kemeraltı much more pleasant than in the summer heat.\n\nAt midday, warm up in Kizlaragasi Hani with a cup of steaming tea or 'salep'. The historic stone walls provide shelter from the cool wind.\n\nIn the afternoon, the heated rooms of the Archaeological Museum are welcoming. Visit the Agora while the sun is still out, as shadows grow long in winter.\n\nFinish your day with the sunset at Asansör. In winter, the sun sets around 17:30, painting the gulf in orange before you head to the cozy restaurants of Alsancak."
+          },
+          "stops": [
+            {
+              "name": "Izmir Clock Tower (Konak Square)",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht ohne die üblichen Touristenmassen des Sommers.",
+                "hu": "Élvezze a tiszta kilátást a nyári turistatömeg nélkül.",
+                "ro": "Bucurați-vă de vederea clară fără mulțimile de turiști din vară.",
+                "en": "Enjoy the clear view without the usual summer tourist crowds."
+              }
+            },
+            {
+              "name": "Kemeraltı Bazaar",
+              "tip_5lang": {
+                "de": "Probieren Sie geröstete Kastanien bei den Straßenhändlern am Eingang.",
+                "hu": "Kóstolja meg a sült gesztenyét az utcai árusoknál a bejáratnál.",
+                "ro": "Încercați castanele coapte de la vânzătorii ambulanți de la intrare.",
+                "en": "Try roasted chestnuts from the street vendors at the entrance."
+              }
+            },
+            {
+              "name": "Hisar Mosque",
+              "tip_5lang": {
+                "de": "Die Teppiche im Inneren sorgen für eine warme und gemütliche Atmosphäre.",
+                "hu": "A benti szőnyegek meleg és barátságos légkört biztosítanak.",
+                "ro": "Covoarele din interior creează o atmosferă caldă și primitoare.",
+                "en": "The carpets inside provide a warm and cozy atmosphere."
+              }
+            },
+            {
+              "name": "Kizlaragasi Hani",
+              "tip_5lang": {
+                "de": "Ein Muss im Winter: Bestellen Sie einen 'Salep' mit viel Zimt.",
+                "hu": "Téli kötelező: rendeljen egy 'szalepet' sok fahéjjal.",
+                "ro": "Obligatoriu iarna: comandați un 'salep' cu multă scorțișoară.",
+                "en": "A winter must: order a 'salep' with plenty of cinnamon."
+              }
+            },
+            {
+              "name": "Agora of Smyrna",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 16 Uhr, um das beste Licht zu nutzen.",
+                "hu": "Látogassa meg 16 óra előtt, hogy kihasználja a legjobb fényeket.",
+                "ro": "Vizitați acest loc înainte de ora 16 pentru a profita de cea mai bună lumină.",
+                "en": "Visit before 16:00 to make the most of the daylight."
+              }
+            },
+            {
+              "name": "Izmir Archaeological Museum",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um sich zwischen den Besichtigungen aufzuwärmen.",
+                "hu": "Tökéletes hely a felmelegedésre két városnézés között.",
+                "ro": "Un loc perfect pentru a vă încălzi între vizite.",
+                "en": "A perfect place to warm up between sightseeing stops."
+              }
+            },
+            {
+              "name": "Asansör (Historical Elevator)",
+              "tip_5lang": {
+                "de": "Seien Sie spätestens um 17 Uhr hier, um den Wintersonnenuntergang zu sehen.",
+                "hu": "Érkezzen legkésőbb 17 órára a téli naplemente megtekintéséhez.",
+                "ro": "Sosiți cel târziu la ora 17 pentru a vedea apusul de iarnă.",
+                "en": "Arrive by 17:00 at the latest to catch the winter sunset."
+              }
+            },
+            {
+              "name": "Kordonboyu Promenade",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an; der Wind vom Meer kann im Winter beißend sein.",
+                "hu": "Öltözzön rétegesen; a tengeri szél télen metsző lehet.",
+                "ro": "Îmbrăcați-vă bine; vântul mării poate fi tăios iarna.",
+                "en": "Dress warmly; the sea breeze can be biting in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung; Izmir kann tagsüber sonnig, aber abends kühl sein.",
+              "Die Sonne geht im Winter früh unter (ca. 17:30 Uhr), planen Sie Aktivitäten im Freien früh.",
+              "Genießen Sie die Ruhe in den Sehenswürdigkeiten während der Nebensaison.",
+              "Besuchen Sie die Fischrestaurants in Kordon für frische saisonale Spezialitäten.",
+              "Ein heißer türkischer Tee (Çay) ist an jeder Ecke die beste Art, sich aufzuwärmen."
+            ],
+            "hu": [
+              "Öltözzön rétegesen; Izmirben nappal kisüthet a nap, de az esték hűvösek.",
+              "A nap télen korán nyugszik (17:30 körül), a szabadtéri programokat időzítse korábbra.",
+              "Használja ki a főszezonon kívüli nyugalmat a látványosságoknál.",
+              "Látogassa meg a Kordon haléttermeit a friss szezonális kínálatért.",
+              "Egy forró török tea (Çay) minden sarkon a legjobb módja a felmelegedésnek."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; Izmir poate fi însorit ziua, dar răcoros seara.",
+              "Soarele apune devreme iarna (aprox. 17:30), planificați activitățile în aer liber devreme.",
+              "Profit de liniștea obiectivelor turistice în afara sezonului de vârf.",
+              "Vizitați restaurantele de pește de pe Kordon pentru specialități proaspete de sezon.",
+              "Un ceai turcesc fierbinte (Çay) la fiecare colț este cea mai bună metodă de încălzire."
+            ],
+            "en": [
+              "Layer your clothing; Izmir can be sunny during the day but chilly in the evening.",
+              "The sun sets early in winter (around 17:30), plan outdoor activities early.",
+              "Enjoy the peace at major sights during the off-season.",
+              "Visit the fish restaurants on Kordon for fresh seasonal specialties.",
+              "A hot Turkish tea (Çay) at every corner is the best way to warm up."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -783,6 +1009,214 @@
           "Always lock your bike in a secure place.",
           "The hills like Kadifekale are challenging, but the views are worth it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf der Kordon-Promenade, da die Fliesen rutschig sein können. Starten Sie vorsichtig und nutzen Sie die breiten Radwege.\n\nMittags parken Sie Ihr Rad sicher und erkunden den Kemeraltı-Basar zu Fuß. Die überdachten Gassen bieten den nötigen Schutz für eine längere Pause.\n\nAm Nachmittag führt die Route zum Asansör. Die kurze Fahrt entlang der Küste ist erfrischend, solange die Kleidung wasserdicht ist.\n\nDen Abend lassen Sie in einem der Fahrrad-freundlichen Cafés in Alsancak ausklingen, wo Sie Ihr Rad im Blick behalten können, während der Regen gegen die Scheiben peitscht.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel a Kordon sétányon, mert a burkolat csúszóssá válhat. Kezdjen lassan, és használja a széles kerékpárutakat.\n\nDélben parkolja le biztonságosan a biciklit, és gyalog fedezze fel a Kemeraltı bazárt. A fedett utcák védelmet nyújtanak a hosszabb pihenőhöz.\n\nDélután az Asansör felé vegye az irányt. A rövid tengerparti tekerés frissítő, amíg a ruházata vízálló marad.\n\nAz estét zárja egy kerékpáros-barát kávézóban Alsancakban, ahol szemmel tarthatja a bringát, miközben az eső veri az ablakot.",
+            "ro": "Mersul pe bicicletă pe ploaie necesită prudență pe faleza Kordon, deoarece dalele pot deveni alunecoase. Începeți cu grijă și folosiți pistele largi.\n\nLa prânz, parcați bicicleta în siguranță și explorați bazarul Kemeraltı la pas. Străzile acoperite oferă protecția necesară pentru o pauză lungă.\n\nDupă-amiaza, ruta vă duce spre Asansör. Scurta plimbare pe coastă este revigorantă, atâta timp cât echipamentul este impermeabil.\n\nÎncheiați seara într-o cafenea 'bike-friendly' din Alsancak, unde vă puteți supraveghea bicicleta în timp ce plouă afară.",
+            "en": "Cycling in the rain requires caution on the Kordon promenade as the tiles can become slippery. Start carefully and use the wide bike paths.\n\nAt midday, park your bike securely and explore Kemeraltı Bazaar on foot. The covered alleys provide the necessary shelter for a long break.\n\nIn the afternoon, head towards Asansör. The short ride along the coast is refreshing as long as your gear is waterproof.\n\nEnd the evening in one of the bike-friendly cafes in Alsancak, where you can keep an eye on your bike while the rain hits the windows."
+          },
+          "stops": [
+            {
+              "name": "Kordonboyu Promenade",
+              "tip_5lang": {
+                "de": "Achtung: Die blauen Radwege können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat: a kék kerékpárutak nedvesen nagyon csúszósak lehetnek.",
+                "ro": "Atenție: pistele albastre pot fi foarte alunecoase când sunt ude.",
+                "en": "Caution: the blue bike paths can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Izmir Clock Tower",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Fahrradständer in der Nähe des Konak-Metroeingangs.",
+                "hu": "Használja a Konak metróbejárat közeli kerékpártárolót.",
+                "ro": "Folosiți rastelele de biciclete de lângă intrarea de metrou Konak.",
+                "en": "Use the bike racks near the Konak Metro entrance."
+              }
+            },
+            {
+              "name": "Kemeraltı Bazaar (on foot)",
+              "tip_5lang": {
+                "de": "Fahrräder sind in den engen Gassen nicht erlaubt; schieben oder parken.",
+                "hu": "A szűk utcákban tilos biciklizni; tolja vagy parkolja le.",
+                "ro": "Bicicletele nu sunt permise în zonele strâmte; împingeți sau parcați.",
+                "en": "Bikes are not allowed in the narrow alleys; push or park them."
+              }
+            },
+            {
+              "name": "Agora of Smyrna",
+              "tip_5lang": {
+                "de": "Es gibt nur begrenzte Unterstellmöglichkeiten für Räder direkt am Eingang.",
+                "hu": "A bejáratnál korlátozottak a bicikli-tárolási lehetőségek.",
+                "ro": "Există locuri limitate pentru biciclete chiar la intrare.",
+                "en": "There are limited sheltered spots for bikes right at the entrance."
+              }
+            },
+            {
+              "name": "Izmir Archaeological Museum",
+              "tip_5lang": {
+                "de": "Parken Sie im Museumshof, um Ihr Rad im Trockenen zu wissen.",
+                "hu": "Parkoljon a múzeum udvarán, hogy biztonságban tudja a biciklit.",
+                "ro": "Parcați în curtea muzeului pentru a ști bicicleta la adăpost.",
+                "en": "Park in the museum courtyard to keep your bike somewhat sheltered."
+              }
+            },
+            {
+              "name": "Asansör",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an die Metallgeländer beim Eingang des Lifts.",
+                "hu": "Láncolja a biciklit a lift bejárata melletti fémkorlátokhoz.",
+                "ro": "Legați bicicleta de balustradele metalice de la intrarea liftului.",
+                "en": "Lock your bike to the metal railings near the elevator entrance."
+              }
+            },
+            {
+              "name": "Return to Kordonboyu",
+              "tip_5lang": {
+                "de": "Fahren Sie defensiv; Autofahrer haben bei Regen schlechtere Sicht.",
+                "hu": "Tekerjen óvatosan; az autósok látási viszonyai rosszabbak esőben.",
+                "ro": "Mergeți defensiv; șoferii au vizibilitate redusă pe ploaie.",
+                "en": "Ride defensively; drivers have poorer visibility during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie Schutzbleche, um sich vor Spritzwasser der Reifen zu schützen.",
+              "Das Bisim-Leihsystem funktioniert auch bei Regen einwandfrei.",
+              "Vermeiden Sie scharfe Bremsmanöver auf den glatten Promenadenwegen.",
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit im grauen Wetter.",
+              "Trocknen Sie den Sattel vor der Fahrt mit einem Papiertuch ab."
+            ],
+            "hu": [
+              "Használjon sárvédőt, hogy megvédje magát a kerekek felcsapódó vizétől.",
+              "A Bisim bérbringa-rendszer esőben is megbízhatóan működik.",
+              "Kerülje az éles fékezést a csúszós sétányokon.",
+              "Viseljen láthatósági esőkabátot a jobb észlelhetőség érdekében szürke időben.",
+              "Indulás előtt törölje szárazra a nyerget egy papírzsebkendővel."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a vă proteja de apa împroșcată de roți.",
+              "Sistemul de închirieri Bisim funcționează perfect și pe ploaie.",
+              "Evitați frânările bruște pe pistele de pe faleză.",
+              "Purtați o jachetă reflectorizantă pentru o vizibilitate mai bună pe vreme gri.",
+              "Ștergeți șaua cu un șervețel înainte de a pleca la drum."
+            ],
+            "en": [
+              "Use mudguards to protect yourself from water spray from the tires.",
+              "The Bisim bike-share system works perfectly even in the rain.",
+              "Avoid sharp braking maneuvers on the slick promenade paths.",
+              "Wear a high-visibility rain jacket for better visibility in grey weather.",
+              "Wipe the saddle dry with a paper towel before riding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft am Morgen ist ideal für eine Fahrt entlang des Kordon. Der Wind kann kühl sein, aber die Aussicht auf die verschneiten Berge in der Ferne ist spektakulär.\n\nMittags bietet der Kemeraltı-Basar eine willkommene Pause vom Wind. Da Sie mit dem Rad flexibel sind, können Sie schnell zwischen den Sehenswürdigkeiten wechseln.\n\nAm Nachmittag führt die Route zur Agora und zum Museum. Die Anstiege halten Sie warm, und die Wintersonne ist perfekt für Fotos ohne harte Schatten.\n\nBeenden Sie Ihre Tour rechtzeitig am Kordon, um den frühen Sonnenuntergang zu sehen. Danach ist es nur ein kurzer Weg zu den belebten Bars von Alsancak, wo Sie sich mit einem warmen Getränk belohnen können.",
+            "hu": "A tiszta téli reggeli levegő ideális a Kordon menti tekeréshez. A szél hűvös lehet, de a távoli havas hegyek látványa kárpótol mindenért.\n\nDélben a Kemeraltı bazár kínál menedéket a szél elől. Mivel biciklivel rugalmas, gyorsan mozoghat a látnivalók között.\n\nDélután az Agóra és a múzeum felé vezet az út. Az emelkedők melegen tartják, a téli napfény pedig tökéletes a fotózáshoz.\n\nFejezze be a túrát időben a Kordonon, hogy lássa a korai naplementét. Utána már csak egy rövid út Alsancak nyüzsgő bárjaihoz, ahol megjutalmazhatja magát egy meleg itallal.",
+            "ro": "Aerul curat de iarnă dimineața este ideal pentru o plimbare pe Kordon. Vântul poate fi rece, dar vederea munților înzăpeziți în depărtare este spectaculoasă.\n\nLa prânz, bazarul Kemeraltı oferă o pauză binevenită de la vânt. Fiind flexibil cu bicicleta, puteți schimba rapid între obiective.\n\nDupă-amiaza, ruta merge spre Agora și muzeu. Urcușurile vă vor ține de cald, iar soarele de iarnă este perfect pentru fotografii.\n\nÎncheiați turul la timp pe Kordon pentru a vedea apusul timpuriu. Apoi, este doar un drum scurt până la barurile din Alsancak pentru o băutură caldă.",
+            "en": "The clear winter morning air is ideal for a ride along Kordon. The wind can be cool, but the view of distant snow-capped mountains is spectacular.\n\nAt midday, Kemeraltı Bazaar offers a welcome break from the wind. Being flexible on a bike allows you to move quickly between sights.\n\nIn the afternoon, the route leads to the Agora and the museum. The climbs will keep you warm, and the winter sun is perfect for photos.\n\nFinish your tour on time at Kordon to see the early sunset. Afterward, it's just a short ride to the lively bars of Alsancak for a warm reward."
+          },
+          "stops": [
+            {
+              "name": "Kordonboyu Promenade",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; der Fahrtwind am Meer ist im Winter kalt.",
+                "hu": "Viseljen kesztyűt; a tengerparti menetszél télen hideg.",
+                "ro": "Purtați mănuși; vântul de pe mare este rece iarna.",
+                "en": "Wear gloves; the headwind by the sea is cold in winter."
+              }
+            },
+            {
+              "name": "Izmir Clock Tower",
+              "tip_5lang": {
+                "de": "Ein schöner Fotostopp; die Sonne steht im Winter tiefer und vorteilhafter.",
+                "hu": "Szép fotómegálló; a nap télen alacsonyabban jár, ami előnyös a képekhez.",
+                "ro": "O oprire frumoasă pentru poze; soarele este mai jos și mai avantajos iarna.",
+                "en": "A great photo stop; the lower winter sun is perfect for photography."
+              }
+            },
+            {
+              "name": "Kemeraltı Bazaar (on foot)",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und genießen Sie die Wärme der belebten Gassen.",
+                "hu": "Parkolja le a biciklit, és élvezze a nyüzsgő utcák melegét.",
+                "ro": "Parcați bicicleta și bucurați-vă de căldura străzilor animate.",
+                "en": "Park your bike and enjoy the warmth of the bustling alleys."
+              }
+            },
+            {
+              "name": "Agora of Smyrna",
+              "tip_5lang": {
+                "de": "Das Licht am frühen Nachmittag ist hier im Winter am besten.",
+                "hu": "A kora délutáni fények itt a legjobbak télen.",
+                "ro": "Lumina de după-amiază devreme este cea mai bună aici iarna.",
+                "en": "Early afternoon light is the best here during winter."
+              }
+            },
+            {
+              "name": "Izmir Archaeological Museum",
+              "tip_5lang": {
+                "de": "Geben Sie Ihre dicke Jacke an der Garderobe ab, um das Museum zu genießen.",
+                "hu": "Adja le a vastag kabátját a ruhatárban, hogy kényelmesen nézhesse a múzeumot.",
+                "ro": "Lăsați haina groasă la garderobă pentru a vizita muzeul confortabil.",
+                "en": "Leave your heavy jacket at the cloakroom to enjoy the museum comfortably."
+              }
+            },
+            {
+              "name": "Asansör",
+              "tip_5lang": {
+                "de": "Der Anstieg hierher hält den Kreislauf im Winter in Schwung.",
+                "hu": "Az idevezető emelkedő télen jól felpörgeti a keringést.",
+                "ro": "Urcarea până aici vă va ține de cald în timpul iernii.",
+                "en": "The climb up here will keep your circulation going in winter."
+              }
+            },
+            {
+              "name": "Return to Kordonboyu",
+              "tip_5lang": {
+                "de": "Achten Sie auf das Eis auf den Wegen am frühen Morgen oder späten Abend.",
+                "hu": "Ügyeljen a jegesedésre az utakon kora reggel vagy késő este.",
+                "ro": "Atenție la gheața de pe drumuri dimineața devreme sau seara târziu.",
+                "en": "Watch out for ice on the paths early in the morning or late at night."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine winddichte Schicht, besonders für die Fahrten am Meer.",
+              "Die Bisim-Stationen sind im Winter meist leerer als im Sommer.",
+              "Nehmen Sie ein helles Rücklicht mit, da es ab 17 Uhr dunkel wird.",
+              "Ein Thermosbecher mit Tee passt perfekt in den Fahrradkorb.",
+              "Prüfen Sie den Reifendruck; kalte Luft lässt ihn leicht sinken."
+            ],
+            "hu": [
+              "Viseljen szélálló réteget, különösen a tengerparti szakaszokon.",
+              "A Bisim állomások télen általában üresebbek, mint nyáron.",
+              "Vigyen erős hátsó lámpát, mert 17 óra után sötétedik.",
+              "Egy termosz tea tökéletesen elfér a bicikli kosarában.",
+              "Ellenőrizze a keréknyomást; a hideg levegő miatt könnyebben csökkenhet."
+            ],
+            "ro": [
+              "Purtați un strat rezistent la vânt, în special pentru porțiunile de coastă.",
+              "Stațiile Bisim sunt de obicei mai libere iarna decât vara.",
+              "Luați o lumină spate puternică, deoarece se întunecă după ora 17.",
+              "Un termos cu ceai se potrivește perfect în coșul bicicletei.",
+              "Verificați presiunea în pneuri; aerul rece o poate face să scadă ușor."
+            ],
+            "en": [
+              "Wear a windproof layer, especially for the coastal stretches.",
+              "Bisim stations are usually emptier in winter than in summer.",
+              "Bring a bright rear light as it gets dark after 17:00.",
+              "A thermos of tea fits perfectly in the bike basket.",
+              "Check tire pressure; cold air can make it drop slightly."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1191,6 +1625,232 @@
           "The cluster-walking method saves time and parking fees.",
           "Be aware of scooters weaving through traffic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerisches Wetter in Izmir bedeutet oft dichteren Verkehr. Starten Sie Ihren Tag auf der Kadifekale; die Festung bietet bei Regen eine mystische Aussicht über die graue Stadt.\n\nMittags parken Sie in einem der Parkhäuser nahe Kemeraltı. So gelangen Sie fast trocken in das riesige Basarviertel, wo Sie Stunden verbringen können.\n\nNach dem Besuch der Moschee und des Han fahren Sie zum Asansör. Das Auto ist der bequemste Weg, um zwischen diesen Punkten zu wechseln, ohne nass zu werden.\n\nBeenden Sie den Tag im Kordon-Viertel. Suchen Sie sich einen Parkplatz nahe der Restaurants, damit der Weg vom Auto zum gemütlichen Abendessen kurz bleibt, während es draußen stürmt.",
+            "hu": "Az esős idő Izmirben gyakran sűrűbb forgalmat jelent. Kezdje a napot Kadifekaléban; a vár ilyenkor misztikus kilátást nyújt a szürke városra.\n\nDélben parkoljon a Kemeraltı közeli parkolóházak egyikében. Így szinte szárazon juthat be a hatalmas bazárnegyedbe, ahol órákat eltölthet.\n\nA mecset és a hani látogatása után hajtson az Asansörhöz. Az autó a legkényelmesebb módja a pontok közötti mozgásnak, anélkül, hogy elázna.\n\nZárja a napot a Kordon negyedben. Keressen parkolót az éttermek közelében, hogy rövid legyen az út az autótól a vacsoráig, miközben kint viharos az idő.",
+            "ro": "Vremea ploioasă în Izmir înseamnă adesea trafic mai dens. Începeți ziua la Kadifekale; cetatea oferă o vedere mistică asupra orașului gri pe timp de ploaie.\n\nLa prânz, parcați într-una dintre parcările etajate de lângă Kemeraltı. Astfel veți ajunge aproape uscat în cartierul bazarului.\n\nDupă vizitarea moscheii și a hanului, conduceți spre Asansör. Mașina este cel mai confortabil mod de a vă deplasa între puncte fără a vă uda.\n\nÎncheiați ziua în cartierul Kordon. Căutați un loc de parcare aproape de restaurante pentru a scurta drumul până la cină în timp ce afară plouă.",
+            "en": "Rainy weather in Izmir often means heavier traffic. Start your day at Kadifekale; the fortress offers a mystical view over the grey city during rain.\n\nAt midday, park in one of the parking garages near Kemeraltı. This way, you can reach the massive bazaar district almost dry and spend hours there.\n\nAfter visiting the mosque and the han, drive to Asansör. The car is the most comfortable way to move between these points without getting wet.\n\nFinish the day in the Kordon district. Find a parking spot near the restaurants to keep the walk from the car to a cozy dinner short while it storms outside."
+          },
+          "stops": [
+            {
+              "name": "Kadifekale",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Auffahrt; die engen Gassen können bei Regen rutschig sein.",
+                "hu": "Vigyázat a felfelé vezető úton; a szűk utcák csúszósak lehetnek esőben.",
+                "ro": "Atenție la urcare; străzile înguste pot fi alunecoase pe ploaie.",
+                "en": "Caution on the drive up; the narrow streets can be slippery during rain."
+              }
+            },
+            {
+              "name": "Agora of Smyrna",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang, um den Weg im Freien zu minimieren.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, hogy minimalizálja a kinti utat.",
+                "ro": "Parcați chiar la intrare pentru a minimiza timpul petrecut afară.",
+                "en": "Park directly at the entrance to minimize time spent in the open."
+              }
+            },
+            {
+              "name": "Kemeraltı Bazaar (Entrance)",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Konak Katlı Otopark' für direkten Zugang.",
+                "hu": "Használja a 'Konak Katlı Otopark' parkolóházat a közvetlen bejutáshoz.",
+                "ro": "Folosiți parcarea 'Konak Katlı Otopark' pentru acces direct.",
+                "en": "Use the 'Konak Katlı Otopark' garage for direct indoor access."
+              }
+            },
+            {
+              "name": "Hisar Mosque & Kizlaragasi Hani",
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto stehen; diese Ziele sind im Basar zu Fuß nah beieinander.",
+                "hu": "Hagyja az autót; ezek a célpontok a bazáron belül gyalog közel vannak.",
+                "ro": "Lăsați mașina; aceste obiective sunt aproape unul de altul în bazar.",
+                "en": "Leave the car; these spots are close to each other on foot within the bazaar."
+              }
+            },
+            {
+              "name": "Konak Square & Clock Tower",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; parken Sie kurzzeitig am Straßenrand, falls erlaubt.",
+                "hu": "Gyors fotómegálló; parkoljon rövid időre az út szélén, ha megengedett.",
+                "ro": "Oprire scurtă pentru poze; parcați temporar la bordură dacă este permis.",
+                "en": "Quick photo stop; park briefly at the curbside if permitted."
+              }
+            },
+            {
+              "name": "Asansör (Karataş)",
+              "tip_5lang": {
+                "de": "Es gibt begrenzte Parkplätze in den engen Seitenstraßen unterhalb.",
+                "hu": "A lenti szűk mellékutcákban korlátozottak a parkolóhelyek.",
+                "ro": "Locurile de parcare sunt limitate în străzile înguste de dedesubt.",
+                "en": "Parking is limited in the narrow side streets below."
+              }
+            },
+            {
+              "name": "Izmir Archaeological Museum",
+              "tip_5lang": {
+                "de": "Das Museum hat einen eigenen Parkplatz, ideal bei schlechtem Wetter.",
+                "hu": "A múzeumnak saját parkolója van, ideális rossz időben.",
+                "ro": "Muzeul are parcare proprie, ideală pe vreme rea.",
+                "en": "The museum has its own parking lot, ideal during bad weather."
+              }
+            },
+            {
+              "name": "Kordonboyu (Alsancak)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgaragen unter dem Kordon, um das Auto trocken abzustellen.",
+                "hu": "Használja a Kordon alatti mélygarázsokat, hogy szárazon hagyja az autót.",
+                "ro": "Folosiți parcările subterane de sub Kordon pentru a lăsa mașina la uscat.",
+                "en": "Use the underground garages below Kordon to keep the car dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie die Rushhour (08:00-09:30 & 17:30-19:30), da Regen den Verkehr bremst.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt.",
+              "Nutzen Sie Apps wie 'Izum', um freie Parkhausplätze in Echtzeit zu finden.",
+              "In Kemeraltı ist das Parken schwierig; nutzen Sie die großen Rand-Parkhäuser.",
+              "Die Straßenmarkierungen in Izmir können bei Nässe stark reflektieren."
+            ],
+            "hu": [
+              "Kerülje a csúcsidőt (08:00-09:30 és 17:30-19:30), mert az eső lassítja a forgalmat.",
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Használjon olyan appokat, mint az 'Izum', a szabad parkolóhelyek kereséséhez.",
+              "Kemeraltıban nehéz parkolni; használja a szélső nagy parkolóházakat.",
+              "Az útburkolati jelek Izmirben erősen tükröződhetnek nedves időben."
+            ],
+            "ro": [
+              "Evitați orele de vârf (08:00-09:30 și 17:30-19:30), deoarece ploaia încetinește traficul.",
+              "Verificați ștergătoarele înainte de a pleca la drum.",
+              "Folosiți aplicații precum 'Izum' pentru a găsi locuri de parcare în timp real.",
+              "Parcarea în Kemeraltı este dificilă; folosiți parcările mari de la periferie.",
+              "Marcajele rutiere din Izmir pot reflecta puternic lumina când sunt ude."
+            ],
+            "en": [
+              "Avoid rush hours (08:00-09:30 & 17:30-19:30) as rain slows down traffic.",
+              "Check your windshield wipers before setting off.",
+              "Use apps like 'Izum' to find available parking garage spots in real-time.",
+              "Parking in Kemeraltı is difficult; use the large peripheral garages.",
+              "Road markings in Izmir can reflect light strongly when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen auf der Kadifekale ist oft klar und bietet die beste Sicht des Jahres. Die Auffahrt ist bei trockenem Winterwetter problemlos.\n\nMittags ist das Auto ideal, um schnell zum Kemeraltı-Basar zu kommen. Die kühlen Temperaturen machen den Bummel durch die historischen Hallen sehr angenehm.\n\nAm Nachmittag besuchen Sie die Agora und das Museum. Mit dem Auto sind Sie unabhängig von den kühleren Abendstunden und können Ihre dicke Jacke einfach auf dem Rücksitz lassen.\n\nDer frühe Sonnenuntergang gegen 17:30 Uhr lässt sich am besten am Kordon oder am Asansör genießen. Mit dem Auto sind Sie flexibel genug, um danach schnell zu einem warmen Abendessen in Alsancak zu gelangen.",
+            "hu": "Egy téli reggel Kadifekalében gyakran tiszta, és az év legjobb kilátását nyújtja. A felfelé vezető út száraz téli időben problémamentes.\n\nDélben az autó ideális, hogy gyorsan eljusson a Kemeraltı bazárhoz. A hűvös hőmérséklet nagyon kellemessé teszi a sétát a történelmi csarnokokban.\n\nDélután látogassa meg az Agórát és a múzeumot. Az autóval független a hűvösebb esti óráktól, és a vastag kabátot egyszerűen a hátsó ülésen hagyhatja.\n\nA korai, 17:30 körüli naplemente leginkább a Kordonon vagy az Asansörnél élvezhető. Az autóval elég rugalmas ahhoz, hogy utána gyorsan eljusson egy meleg vacsorához Alsancakba.",
+            "ro": "O dimineață de iarnă la Kadifekale este adesea senină și oferă cea mai bună vedere din an. Urcarea este ușoară pe vreme uscată de iarnă.\n\nLa prânz, mașina este ideală pentru a ajunge rapid la bazarul Kemeraltı. Temperaturile răcoroase fac plimbarea prin halele istorice foarte plăcută.\n\nDupă-amiaza, vizitați Agora și muzeul. Cu mașina sunteți independent de orele reci de seară și puteți lăsa haina groasă pe bancheta din spate.\n\nApusul timpuriu, în jurul orei 17:30, poate fi savurat cel mai bine pe Kordon sau la Asansör. Cu mașina sunteți flexibil pentru a ajunge rapid la o cină caldă în Alsancak.",
+            "en": "A winter morning at Kadifekale is often clear and offers the best views of the year. The drive up is easy in dry winter weather.\n\nAt midday, the car is ideal for getting to Kemeraltı Bazaar quickly. The cool temperatures make strolling through the historic halls very pleasant.\n\nIn the afternoon, visit the Agora and the museum. With a car, you're independent of the cooler evening hours and can simply leave your heavy jacket on the back seat.\n\nThe early sunset around 17:30 is best enjoyed at Kordon or Asansör. With a car, you're flexible enough to quickly reach a warm dinner in Alsancak afterward."
+          },
+          "stops": [
+            {
+              "name": "Kadifekale",
+              "tip_5lang": {
+                "de": "Bringen Sie ein Fernglas mit; die Winterluft ist oft besonders klar.",
+                "hu": "Hozzon távcsövet; a téli levegő gyakran különösen tiszta.",
+                "ro": "Aduceți un binoclu; aerul de iarnă este adesea foarte clar.",
+                "en": "Bring binoculars; the winter air is often exceptionally clear."
+              }
+            },
+            {
+              "name": "Agora of Smyrna",
+              "tip_5lang": {
+                "de": "Das Gelände ist weitläufig; nutzen Sie die Heizung im Auto danach.",
+                "hu": "A terület tágas; használja utána az autó fűtését.",
+                "ro": "Situl este vast; folosiți încălzirea din mașină după vizită.",
+                "en": "The site is sprawling; use the car's heater afterward."
+              }
+            },
+            {
+              "name": "Kemeraltı Bazaar (Entrance)",
+              "tip_5lang": {
+                "de": "Parken Sie im Schatten, wenn die Wintersonne stark scheint.",
+                "hu": "Parkoljon árnyékban, ha a téli nap erősen süt.",
+                "ro": "Parcați la umbră dacă soarele de iarnă strălucește puternic.",
+                "en": "Park in the shade if the winter sun is shining brightly."
+              }
+            },
+            {
+              "name": "Hisar Mosque & Kizlaragasi Hani",
+              "tip_5lang": {
+                "de": "Perfekt für eine warme Kaffeepause zwischen den Autofahrten.",
+                "hu": "Tökéletes egy meleg kávészünetre az autózás közben.",
+                "ro": "Perfect pentru o pauză de cafea caldă între drumurile cu mașina.",
+                "en": "Perfect for a warm coffee break between drives."
+              }
+            },
+            {
+              "name": "Konak Square & Clock Tower",
+              "tip_5lang": {
+                "de": "Im Winter gibt es weniger Tauben, was das Fotografieren erleichtert.",
+                "hu": "Télen kevesebb a galamb, ami megkönnyíti a fotózást.",
+                "ro": "Iarna sunt mai puțini porumbei, ceea ce ușurează fotografierea.",
+                "en": "There are fewer pigeons in winter, making photography easier."
+              }
+            },
+            {
+              "name": "Asansör (Karataş)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang; oben kann es windig sein.",
+                "hu": "Élvezze a naplementét; fent szeles lehet az idő.",
+                "ro": "Bucurați-vă de apus; sus poate fi destul de vânt.",
+                "en": "Enjoy the sunset; it can be windy at the top."
+              }
+            },
+            {
+              "name": "Izmir Archaeological Museum",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Stopp, um die Kälte draußen zu vergessen.",
+                "hu": "Jól fűtött megálló, hogy elfelejtse a kinti hideget.",
+                "ro": "O oprire bine încălzită pentru a uita de frigul de afară.",
+                "en": "A well-heated stop to forget the cold outside."
+              }
+            },
+            {
+              "name": "Kordonboyu (Alsancak)",
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Uferstraße für einen schnellen Zugang.",
+                "hu": "Parkoljon közvetlenül a parti úton a gyors bejutáshoz.",
+                "ro": "Parcați chiar pe strada de pe faleză pentru acces rapid.",
+                "en": "Park directly on the seafront road for quick access."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Batterie kann bei kühleren Temperaturen schwächeln.",
+              "Nutzen Sie die Parkhäuser, um das Auto vor der feuchten Seeluft zu schützen.",
+              "Die Bergstraßen um Izmir können nachts glatt sein.",
+              "Planen Sie mehr Zeit für die Parkplatzsuche in Alsancak am Abend ein."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Az akkumulátor gyengélkedhet a hűvösebb hőmérsékleten.",
+              "Használjon parkolóházakat, hogy megvédje az autót a párás tengeri levegőtől.",
+              "Az Izmir környéki hegyi utak éjszaka csúszósak lehetnek.",
+              "Számoljon több idővel a parkolóhely-keresésre Alsancakban este."
+            ],
+            "ro": [
+              "Verificați antigelul din instalația de spălare a parbrizului.",
+              "Bateria poate da semne de slăbiciune la temperaturi mai scăzute.",
+              "Folosiți parcările etajate pentru a proteja mașina de aerul umed al mării.",
+              "Drumurile montane din jurul Izmirului pot fi alunecoase noaptea.",
+              "Planificați mai mult timp pentru găsirea unui loc de parcare în Alsancak seara."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer fluid.",
+              "The battery may weaken in cooler temperatures.",
+              "Use parking garages to protect the car from the damp sea air.",
+              "Mountain roads around Izmir can be slick at night.",
+              "Plan extra time for finding a parking spot in Alsancak in the evening."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1575,6 +2235,214 @@
           "Check the schedules for the last trains and trams to avoid getting stranded.",
           "Combine transit with short walks for the best experience."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie an einem regnerischen Morgen die Izban oder die Metro bis zur Station Konak. Vom Bahnhof aus sind es nur wenige Schritte zum Uhrturm unter den Arkaden.\n\nMittags bietet das Basarviertel Kemeraltı den perfekten Schutz. Da die Metrostationen Konak und Çankaya nahe beieinander liegen, können Sie flexibel zwischen den Vierteln pendeln.\n\nAm Nachmittag bringt Sie die Straßenbahn (Tram İzmir) entlang der Küste zum Archäologischen Museum. Die Tram bietet eine trockene Panoramafahrt mit Blick auf den regnerischen Golf.\n\nAbends ist der historische Asansör ein Muss. Die Fahrt dorthin mit der Tram ist bequem, und Sie bleiben bis zum Eingang weitgehend im Trockenen, bevor Sie den Blick von oben genießen.",
+            "hu": "Esős reggelen használja az Izbant vagy a metrót a Konak állomásig. Az állomástól csak pár lépés az óratorony az árkádok alatt.\n\nDélben a Kemeraltı bazár nyújt tökéletes menedéket. Mivel a Konak és Çankaya metróállomások közel vannak, rugalmasan mozoghat a negyedek között.\n\nDélután a villamos (Tram İzmir) a tengerpart mentén viszi el a Régészeti Múzeumhoz. A villamos száraz, panorámás utazást kínál az esős öbölre.\n\nEste a történelmi Asansör kötelező program. A villamossal kényelmesen odajuthat, és szinte a bejáratig fedett helyen maradhat, mielőtt élvezné a kilátást.",
+            "ro": "Într-o dimineață ploioasă, folosiți Izban sau metroul până la stația Konak. De la stație sunt doar câțiva pași până la Turnul cu Ceas sub arcade.\n\nLa prânz, cartierul bazarului Kemeraltı oferă adăpostul perfect. Deoarece stațiile de metrou Konak și Çankaya sunt aproape, puteți naveta flexibil între cartiere.\n\nDupă-amiaza, tramvaiul (Tram İzmir) vă poartă de-a lungul coastei spre Muzeul de Arheologie. Tramvaiul oferă o călătorie panoramică uscată cu vedere spre golful ploios.\n\nSeara, istoricul Asansör este de neratat. Drumul cu tramvaiul până acolo este confortabil și veți rămâne în mare parte la adăpost până la intrare.",
+            "en": "On a rainy morning, take the Izban or Metro to Konak station. From the station, it's just a few steps to the Clock Tower under the arches.\n\nAt midday, the Kemeraltı Bazaar district offers the perfect shelter. Since Konak and Çankaya Metro stations are close together, you can commute flexibly between neighborhoods.\n\nIn the afternoon, the tram (Tram İzmir) takes you along the coast to the Archaeological Museum. The tram offers a dry panoramic ride with views of the rainy gulf.\n\nIn the evening, the historical Asansör is a must. The tram ride there is comfortable, and you stay largely dry until the entrance before enjoying the view."
+          },
+          "stops": [
+            {
+              "name": "Konak Square & Clock Tower",
+              "tip_5lang": {
+                "de": "Die Metrostation Konak hat mehrere Ausgänge; wählen Sie den nächsten zum Turm.",
+                "hu": "A Konak metróállomásnak több kijárata van; válassza az óratoronyhoz legközelebbit.",
+                "ro": "Stația de metrou Konak are mai multe ieșiri; alegeți-o pe cea mai apropiată de turn.",
+                "en": "Konak Metro station has multiple exits; choose the one closest to the tower."
+              }
+            },
+            {
+              "name": "Kemeraltı & Hisar Mosque",
+              "tip_5lang": {
+                "de": "Von der Metro Çankaya gelangen Sie direkt in den überdachten Teil des Basars.",
+                "hu": "A Çankaya metrótól közvetlenül a bazár fedett részébe juthat.",
+                "ro": "De la metroul Çankaya ajungeți direct în partea acoperită a bazarului.",
+                "en": "From Çankaya Metro, you can enter the covered part of the bazaar directly."
+              }
+            },
+            {
+              "name": "Kizlaragasi Hani",
+              "tip_5lang": {
+                "de": "Ideal für eine Pause, wenn der Regen draußen zu stark wird.",
+                "hu": "Ideális egy szünetre, ha kint túl erősen esik az eső.",
+                "ro": "Ideal pentru o pauză dacă ploaia de afară devine prea puternică.",
+                "en": "Ideal for a break if the rain outside becomes too heavy."
+              }
+            },
+            {
+              "name": "Agora of Smyrna",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Metro Çankaya für einen kurzen Weg zum Eingang.",
+                "hu": "Használja a Çankaya metrót a bejárathoz vezető rövid úthoz.",
+                "ro": "Folosiți metroul Çankaya pentru un drum scurt până la intrare.",
+                "en": "Use Çankaya Metro for a short walk to the entrance."
+              }
+            },
+            {
+              "name": "Izmir Archaeological Museum",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle 'Varyant' befindet sich direkt vor dem Museum.",
+                "hu": "A 'Varyant' buszmegálló közvetlenül a múzeum előtt található.",
+                "ro": "Stația de autobuz 'Varyant' se află chiar în fața muzeului.",
+                "en": "The 'Varyant' bus stop is located right in front of the museum."
+              }
+            },
+            {
+              "name": "Asansör",
+              "tip_5lang": {
+                "de": "Nehmen Sie die Tram bis zur Station 'Karataş' für den kürzesten Fußweg.",
+                "hu": "Szálljon le a villamosról a 'Karataş' megállónál a legrövidebb sétához.",
+                "ro": "Coborâți din tramvai la stația 'Karataş' pentru cel mai scurt drum pe jos.",
+                "en": "Get off the tram at 'Karataş' station for the shortest walk."
+              }
+            },
+            {
+              "name": "Kordonboyu",
+              "tip_5lang": {
+                "de": "Die Tram fährt parallel zur Promenade; steigen Sie an der gewünschten Stelle aus.",
+                "hu": "A villamos párhuzamosan halad a sétánnyal; szálljon le a kívánt pontnál.",
+                "ro": "Tramvaiul merge paralel cu faleza; coborâți la punctul dorit.",
+                "en": "The tram runs parallel to the promenade; get off at your preferred spot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Holen Sie sich eine 'Izmirim Kart' für alle Verkehrsmittel.",
+              "Die Metrostationen sind ideale Orte, um heftige Schauer abzuwarten.",
+              "Fähren (Vapur) sind bei Regen ein tolles Erlebnis, da man drinnen sitzen kann.",
+              "Die Tram ist oft pünktlicher als Busse bei Regenverkehr.",
+              "Nutzen Sie die App 'Eshot', um Buszeiten in Echtzeit zu sehen."
+            ],
+            "hu": [
+              "Váltson 'Izmirim Kart'-ot az összes közlekedési eszközhöz.",
+              "A metróállomások ideális helyek a heves záporok kivárására.",
+              "A kompok (Vapur) esőben is remek élményt nyújtanak, mert belül is lehet ülni.",
+              "A villamos gyakran pontosabb, mint a buszok esős forgalomban.",
+              "Használja az 'Eshot' appot a buszok valós idejű követéséhez."
+            ],
+            "ro": [
+              "Luați un 'Izmirim Kart' pentru toate mijloacele de transport.",
+              "Stațiile de metrou sunt locuri ideale pentru a aștepta trecerea ploii.",
+              "Feriboturile (Vapur) sunt o experiență plăcută pe ploaie, având locuri în interior.",
+              "Tramvaiul este adesea mai punctual decât autobuzele în trafic de ploaie.",
+              "Folosiți aplicația 'Eshot' pentru a vedea timpii autobuzelor în timp real."
+            ],
+            "en": [
+              "Get an 'Izmirim Kart' for all types of public transport.",
+              "Metro stations are ideal places to wait out heavy showers.",
+              "Ferries (Vapur) are a great experience in the rain as you can sit inside.",
+              "The tram is often more punctual than buses during rainy traffic.",
+              "Use the 'Eshot' app to see bus times in real-time."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Izmir beginnt am besten mit der Metro nach Konak. Die kühle Luft am Meer wird durch die schnelle Fahrt im warmen Waggon ausgeglichen.\n\nMittags erkunden Sie den Kemeraltı-Basar. Die Metrostationen bieten einen einfachen Zugang, und die kühlen Temperaturen machen das Gedränge im Basar angenehm.\n\nAm Nachmittag bringt Sie die Straßenbahn zum Archäologischen Museum. Genießen Sie die Aussicht auf die tiefstehende Wintersonne über dem Meer während der Fahrt.\n\nDer Abend am Asansör ist im Winter besonders stimmungsvoll. Nehmen Sie die Tram bis Karataş; die kurzen Wege minimieren die Zeit in der Kälte, bevor Sie den Sonnenuntergang von der beheizten Terrasse aus sehen.",
+            "hu": "Egy tiszta téli reggel Izmirben a legjobb, ha metróval indul Konakba. A hűvös tengeri levegőt ellensúlyozza a gyors utazás a meleg kocsikban.\n\nDélben fedezze fel a Kemeraltı bazárt. A metróállomások könnyű hozzáférést biztosítanak, és a hűvös idő kellemessé teszi a bazári tömeget.\n\nDélután a villamos viszi el a Régészeti Múzeumhoz. Élvezze az alacsonyan járó téli nap látványát a tenger felett utazás közben.\n\nAz este az Asansörnél télen különösen hangulatos. Menjen villamossal Karataşig; a rövid gyalogút minimalizálja a hidegben töltött időt a fűtött terasz előtt.",
+            "ro": "O dimineață senină de iarnă în Izmir începe cel mai bine cu metroul spre Konak. Aerul rece de la malul mării este compensat de călătoria rapidă în vagoanele calde.\n\nLa prânz, explorați bazarul Kemeraltı. Stațiile de metrou oferă acces ușor, iar temperaturile scăzute fac aglomerația din bazar mai suportabilă.\n\nDupă-amiaza, tramvaiul vă duce la Muzeul de Arheologie. Bucurați-vă de vederea soarelui de iarnă deasupra mării în timpul călătoriei.\n\nSeara la Asansör este deosebit de atmosferică iarna. Luați tramvaiul până la Karataş; drumul scurt pe jos minimizează timpul petrecut în frig înainte de apus.",
+            "en": "A clear winter morning in Izmir is best started with a Metro ride to Konak. The cool sea air is offset by the quick journey in the warm carriages.\n\nAt midday, explore Kemeraltı Bazaar. The Metro stations provide easy access, and the cool temperatures make the crowds in the bazaar pleasant.\n\nIn the afternoon, the tram takes you to the Archaeological Museum. Enjoy the view of the low-lying winter sun over the sea during the ride.\n\nAn evening at Asansör is particularly atmospheric in winter. Take the tram to Karataş; the short walks minimize time in the cold before watching the sunset."
+          },
+          "stops": [
+            {
+              "name": "Konak Square & Clock Tower",
+              "tip_5lang": {
+                "de": "Die Metro ist im Winter das zuverlässigste Verkehrsmittel.",
+                "hu": "A metró télen a legmegbízhatóbb közlekedési eszköz.",
+                "ro": "Metroul este cel mai de încredere mijloc de transport iarna.",
+                "en": "The Metro is the most reliable mode of transport in winter."
+              }
+            },
+            {
+              "name": "Kemeraltı & Hisar Mosque",
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang von der Metro Çankaya hält Sie warm.",
+                "hu": "Egy rövid séta a Çankaya metrótól melegen tartja.",
+                "ro": "O scurtă plimbare de la metroul Çankaya vă va ține de cald.",
+                "en": "A short walk from Çankaya Metro will keep you warm."
+              }
+            },
+            {
+              "name": "Kizlaragasi Hani",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einem traditionellen türkischen Kaffee auf.",
+                "hu": "Melegedjen fel egy hagyományos török kávéval.",
+                "ro": "Încălziți-vă cu o cafea turcească tradițională.",
+                "en": "Warm up with a traditional Turkish coffee."
+              }
+            },
+            {
+              "name": "Agora of Smyrna",
+              "tip_5lang": {
+                "de": "Die Metrostation ist nur 5-10 Gehminuten entfernt.",
+                "hu": "A metróállomás mindössze 5-10 perc sétára van.",
+                "ro": "Stația de metrou este la doar 5-10 minute de mers pe jos.",
+                "en": "The Metro station is only a 5-10 minute walk away."
+              }
+            },
+            {
+              "name": "Izmir Archaeological Museum",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter seltener; prüfen Sie den Fahrplan vorab.",
+                "hu": "A buszok télen ritkábban járnak; ellenőrizze előre a menetrendet.",
+                "ro": "Autobuzele circulă mai rar iarna; verificați programul în avans.",
+                "en": "Buses run less frequently in winter; check the schedule beforehand."
+              }
+            },
+            {
+              "name": "Asansör",
+              "tip_5lang": {
+                "de": "Die Tramstation Karataş ist gut beleuchtet und sicher für den Rückweg.",
+                "hu": "A Karataş villamosmegálló jól megvilágított és biztonságos a visszaúthoz.",
+                "ro": "Stația de tramvai Karataş este bine iluminată și sigură pentru retur.",
+                "en": "Karataş tram station is well-lit and safe for your return journey."
+              }
+            },
+            {
+              "name": "Kordonboyu",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tram, um schnell zwischen den warmen Cafés zu wechseln.",
+                "hu": "Használja a villamost, hogy gyorsan válthasson a meleg kávézók között.",
+                "ro": "Folosiți tramvaiul pentru a schimba rapid între cafenelele calde.",
+                "en": "Use the tram to quickly move between warm cafes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Fähren haben im Winter beheizte Innenbereiche.",
+              "Nutzen Sie die unterirdischen Passagen der Metro, um dem Wind zu entgehen.",
+              "Die 'Izmirim Kart' kann an fast allen Kiosken aufgeladen werden.",
+              "In der Tram ist es im Winter angenehm warm.",
+              "Achten Sie auf die verkürzten Betriebszeiten einiger Fähren im Winter."
+            ],
+            "hu": [
+              "A kompoknak télen fűtött belső tereik vannak.",
+              "Használja a metró aluljáróit, hogy elkerülje a szelet.",
+              "Az 'Izmirim Kart' szinte minden újságosnál feltölthető.",
+              "A villamoson télen kellemes meleg van.",
+              "Ügyeljen egyes kompok rövidített téli menetrendjére."
+            ],
+            "ro": [
+              "Feriboturile au zone interioare încălzite în timpul iernii.",
+              "Folosiți pasajele subterane ale metroului pentru a evita vântul.",
+              "Cardul 'Izmirim Kart' poate fi reîncărcat la aproape orice chioșc.",
+              "În tramvai este plăcut și cald iarna.",
+              "Atenție la programul redus al unor feriboturi pe timp de iarnă."
+            ],
+            "en": [
+              "Ferries have heated indoor areas during winter.",
+              "Use the underground Metro passages to escape the wind.",
+              "The 'Izmirim Kart' can be reloaded at almost any kiosk.",
+              "The tram is pleasantly warm in winter.",
+              "Watch out for the shortened operating hours of some ferries in winter."
+            ]
+          }
+        }
       }
     }
   }

@@ -386,6 +386,214 @@
           "Most sights in the city center are within easy walking distance.",
           "Check museum opening times as they can vary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Hafen, wo die bunten Malereien der Segler auch im Regen leuchten. Ein langer Aufenthalt im Peter Café Sport bietet Schutz und legendäre Atmosphäre. Das Horta-Museum ist der perfekte Ort, um den Mittag trocken zu verbringen und die Stadtgeschichte zu erkunden. Der Tag endet mit einem windigen, aber erfrischenden Spaziergang entlang der Bucht von Porto Pim.",
+            "hu": "Kezdje a napot a kikötőben, ahol a tengerészek festményei az esőben is ragyognak. A Peter Café Sport meleg menedéket nyújt a délelőtti záporok elől. A déli órákat töltse a Horta Múzeum falai között, elkerülve a nagyobb felhőszakadásokat. A napot a Porto Pim öböl párás, misztikus látványa zárja, mielőtt visszatérne a városközpontba.",
+            "ro": "Începeți ziua în port, unde picturile marinarilor strălucesc sub ploaie. Peter Café Sport oferă un refugiu cald și o atmosferă legendară pe parcursul dimineții. Muzeul Horta este locul ideal pentru a petrece prânzul la adăpost, explorând istoria insulei. Ziua se încheie cu o plimbare revigorantă de-a lungul golfului Porto Pim, în ciuda vremii umede.",
+            "en": "Start at the harbor where the sailors' colorful paintings shine even in the rain. Peter Café Sport provides a warm refuge and legendary atmosphere during the morning showers. The Horta Museum is the perfect place to spend midday undercover, exploring island history. The day ends with a misty, atmospheric walk along Porto Pim bay before heading back."
+          },
+          "stops": [
+            {
+              "name": "Marina da Horta",
+              "tip_5lang": {
+                "de": "Die Bodenmalereien wirken bei Nässe oft noch farbenfroher.",
+                "hu": "Az aszfaltrajzok színei esőben még élénkebben mutatnak.",
+                "ro": "Picturile de pe asfalt par și mai vii atunci când sunt ude.",
+                "en": "The floor paintings often look more vibrant when wet."
+              }
+            },
+            {
+              "name": "Peter Café Sport",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Scrimshaw-Museum im Obergeschoss, um trocken zu bleiben.",
+                "hu": "Látogasson el az emeleti Scrimshaw múzeumba, amíg esik az eső.",
+                "ro": "Vizitați muzeul de scrimshaw de la etaj pentru a rămâne la uscat.",
+                "en": "Visit the Scrimshaw museum upstairs to stay dry while it rains."
+              }
+            },
+            {
+              "name": "Church of São Salvador",
+              "tip_5lang": {
+                "de": "Nutzen Sie den prachtvollen Innenraum als ruhigen Rückzugsort.",
+                "hu": "Használja a pompás belső teret csendes menedékként.",
+                "ro": "Folosiți interiorul somptuos ca un refugiu liniștit.",
+                "en": "Use the grand interior as a quiet, dry sanctuary."
+              }
+            },
+            {
+              "name": "Horta Museum",
+              "tip_5lang": {
+                "de": "Ideal für eine längere Pause während eines Regenschauers.",
+                "hu": "Ideális helyszín egy hosszabb pihenőre felhőszakadás idején.",
+                "ro": "Locație ideală pentru o pauză lungă în timpul unei averse.",
+                "en": "Ideal location for a longer break during a heavy downpour."
+              }
+            },
+            {
+              "name": "Fort of Santa Cruz",
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten Schutz vor dem atlantischen Wind.",
+                "hu": "A vastag falak jó védelmet nyújtanak az atlanti szél ellen.",
+                "ro": "Zidurile groase oferă protecție bună împotriva vântului atlantic.",
+                "en": "The thick walls offer good protection against the Atlantic wind."
+              }
+            },
+            {
+              "name": "Porto Pim Beach",
+              "tip_5lang": {
+                "de": "Der vulkanische Sand wird im Regen fast schwarz.",
+                "hu": "A vulkáni homok az esőben szinte teljesen megfeketedik.",
+                "ro": "Nisipul vulcanic devine aproape negru sub ploaie.",
+                "en": "The volcanic sand turns almost completely black in the rain."
+              }
+            },
+            {
+              "name": "Monte da Guia",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Pfaden bei den Aussichtspunkten.",
+                "hu": "Vigyázat, a kilátópontokhoz vezető ösvények csúszósak lehetnek.",
+                "ro": "Atenție, potecile spre punctele de belvedere pot fi alunecoase.",
+                "en": "Be careful, the paths to the viewpoints can be slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke; Schirme sind bei Wind nutzlos.",
+              "Das Scrimshaw-Museum im Peter Café Sport ist ein Muss an Regentagen.",
+              "Die Hafenmauer bietet bei Wellengang spektakuläre Fotomotive.",
+              "Nutzen Sie die vielen kleinen Cafés in der Rua Conselheiro Medeiros.",
+              "Achten Sie auf das Kopfsteinpflaster, es wird sehr rutschig."
+            ],
+            "hu": [
+              "Viseljen jó minőségű esőkabátot, az ernyő a szélben használhatatlan.",
+              "A Peter Café Sport emeleti múzeuma kötelező program esős napokon.",
+              "A kikötő gátja hullámzás idején látványos fotótémákat kínál.",
+              "Használja ki a Rua Conselheiro Medeiros kis kávézóit pihenőnek.",
+              "Vigyázzon a macskaköves utakon, mert rendkívül csúszóssá válnak."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie de calitate; umbrelele sunt inutile în vânt.",
+              "Muzeul de la etajul Peter Café Sport este obligatoriu în zilele ploioase.",
+              "Digul portului oferă subiecte foto spectaculoase când marea este agitată.",
+              "Profitați de micile cafenele de pe Rua Conselheiro Medeiros pentru pauze.",
+              "Atenție pe străzile cu piatră cubică, deoarece devin foarte alunecoase."
+            ],
+            "en": [
+              "Wear a high-quality raincoat; umbrellas are useless in the wind.",
+              "The museum upstairs at Peter Café Sport is a must on rainy days.",
+              "The harbor wall offers spectacular photo opportunities during high surf.",
+              "Take advantage of the small cafes on Rua Conselheiro Medeiros for breaks.",
+              "Be careful on the cobblestone streets as they become extremely slippery."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintermorgen in Horta sind frisch und oft von dramatischer Bewölkung geprägt. Ein heißer Tee im Peter Café wärmt vor dem Museumsbesuch auf, wo man die Ruhe der Nebensaison genießt. Am Nachmittag bietet das Fort von Santa Cruz einen rauen Blick auf den Atlantik. Der frühe Sonnenuntergang taucht den Monte da Guia in goldenes Licht, bevor die kühle Nacht einkehrt.",
+            "hu": "A hortai téli reggelek frissek és gyakran drámai felhőkkel tarkítottak. Egy forró tea a Peter Caféban felmelegíti a múzeumlátogatás előtt, ahol kiélvezheti a holtszezon nyugalmát. Délután a Santa Cruz erőd kínál nyers kilátást az Atlanti-óceánra. A korai naplemente arany fénybe vonja a Monte da Guia dombját, mielőtt beállna a hűvös éjszaka.",
+            "ro": "Diminețile de iarnă în Horta sunt răcoroase și adesea marcate de nori dramatici. Un ceai fierbinte la Peter Café vă încălzește înainte de vizita la muzeu, unde vă bucurați de liniștea extrasezonului. După-amiaza, Cetatea Santa Cruz oferă o vedere crudă asupra Atlanticului. Apusul timpuriu scaldă muntele Guia în lumină aurie înainte de noaptea rece.",
+            "en": "Winter mornings in Horta are fresh and often characterized by dramatic clouds. A hot tea at Peter Café warms you up before the museum visit, where you can enjoy the off-season peace. In the afternoon, the Santa Cruz Fort offers a raw view of the Atlantic. The early sunset bathes Monte da Guia in golden light before the cool night sets in."
+          },
+          "stops": [
+            {
+              "name": "Marina da Horta",
+              "tip_5lang": {
+                "de": "Im Winter liegen weniger Yachten hier, was die Sicht auf den Pico verbessert.",
+                "hu": "Télen kevesebb jacht horgonyoz itt, így tisztább a kilátás a Picóra.",
+                "ro": "Iarna sunt mai puține iahturi, ceea ce îmbunătățește vederea spre Pico.",
+                "en": "Fewer yachts are here in winter, improving the view towards Pico."
+              }
+            },
+            {
+              "name": "Peter Café Sport",
+              "tip_5lang": {
+                "de": "Probieren Sie den berühmten Gin Do Mar am gemütlichen Tresen.",
+                "hu": "Kóstolja meg a híres Gin Do Mart a hangulatos pultnál.",
+                "ro": "Încercați celebrul Gin Do Mar la barul primitor.",
+                "en": "Try the famous Gin Do Mar at the cozy counter."
+              }
+            },
+            {
+              "name": "Church of São Salvador",
+              "tip_5lang": {
+                "de": "Die Kirche bietet Schutz vor den kühlen Winterböen.",
+                "hu": "A templom jó menedéket nyújt a hűvös téli széllökések elől.",
+                "ro": "Biserica oferă un adăpost bun împotriva rafalelor reci de iarnă.",
+                "en": "The church provides good shelter from the cool winter gusts."
+              }
+            },
+            {
+              "name": "Horta Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ausstellungen ohne die sommerlichen Touristenmassen.",
+                "hu": "Élvezze a kiállításokat a nyári turistaáradat nélkül.",
+                "ro": "Bucurați-vă de expoziții fără mulțimile de turiști din vară.",
+                "en": "Enjoy the exhibits without the summer tourist crowds."
+              }
+            },
+            {
+              "name": "Fort of Santa Cruz",
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um die mächtige Winterbrandung zu beobachten.",
+                "hu": "Nagyszerű hely az erőteljes téli hullámverés megfigyelésére.",
+                "ro": "Un loc grozav pentru a observa valurile puternice de iarnă.",
+                "en": "A great spot to observe the powerful winter surf."
+              }
+            },
+            {
+              "name": "Porto Pim Beach",
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter oft menschenleer und sehr friedlich.",
+                "hu": "A strand télen gyakran teljesen néptelen és nagyon békés.",
+                "ro": "Plaja este adesea pustie iarna și foarte liniștită.",
+                "en": "The beach is often deserted in winter and very peaceful."
+              }
+            },
+            {
+              "name": "Monte da Guia",
+              "tip_5lang": {
+                "de": "Bringen Sie ein Fernglas mit, um Sturmvögel zu beobachten.",
+                "hu": "Hozzon távcsövet a viharmadarak megfigyeléséhez.",
+                "ro": "Aduceți binoclul pentru a observa păsările furtunii.",
+                "en": "Bring binoculars to spot storm petrels and other seabirds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei Kleidung ist wichtig wegen des wechselhaften Winds.",
+              "Die Sonne geht gegen 17:30 Uhr unter, planen Sie Wanderungen frühzeitig.",
+              "Die Aussicht auf den Vulkan Pico ist im Winter oft klarer.",
+              "Viele Walbeobachtungstouren finden im tiefen Winter nicht statt.",
+              "Genießen Sie regionale Eintöpfe in den Restaurants am Hafen."
+            ],
+            "hu": [
+              "A réteges öltözködés fontos a változékony szél miatt.",
+              "A nap 17:30 körül nyugszik, tervezze a túrákat korábbi időpontra.",
+              "A kilátás a Pico-vulkánra télen gyakran sokkal tisztább.",
+              "Sok bálnales-túra a tél közepén szünetel.",
+              "Kóstolja meg a helyi egytálételeket a kikötői éttermekben."
+            ],
+            "ro": [
+              "Îmbrăcămintea stratificată este esențială din cauza vântului schimbător.",
+              "Soarele apune în jurul orei 17:30, planificați drumețiile din timp.",
+              "Vederea spre vulcanul Pico este adesea mai clară în timpul iernii.",
+              "Multe tururi de observare a balenelor nu funcționează în mijlocul iernii.",
+              "Savurați tocănițele regionale în restaurantele din port."
+            ],
+            "en": [
+              "Layered clothing is essential due to the changeable wind.",
+              "The sun sets around 5:30 PM, plan your hikes earlier in the day.",
+              "The view of Pico volcano is often much clearer in winter.",
+              "Many whale watching tours do not operate in mid-winter.",
+              "Enjoy regional stews in the restaurants near the harbor."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +950,196 @@
           "Always lock your bike at the main attractions.",
           "The coastal road 'Avenida Marginal' offers a flat and scenic ride."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Disziplin, belohnt aber mit einsamen Straßen. Von der Marina geht es zur Porto Pim Bucht, wo der nasse Asphalt glänzt. Mittags bietet das Museum eine willkommene Trockenpause, bevor man sich im Peter Café aufwärmt. Der Tag endet mit der Auffahrt zu einem nebligen Aussichtspunkt über der Stadt.",
+            "hu": "Az esős kerékpározás fegyelmet igényel, de csendes utakkal jutalmaz. A kikötőből a Porto Pim öböl felé vegye az irányt, ahol csillog a vizes aszfalt. Délben a múzeum nyújt száraz pihenőt, mielőtt a Peter Caféban felmelegedne. A napot a város feletti, ködös kilátópontnál fejezheti be.",
+            "ro": "O tură cu bicicleta în ploaie necesită disciplină, dar vă răsplătește cu străzi pustii. Din port mergeți spre golful Porto Pim, unde asfaltul ud strălucește. La prânz, muzeul oferă o pauză binemeritată la uscat, înainte de a vă încălzi la Peter Café. Ziua se încheie cu urcarea spre un punct de belvedere cețos deasupra orașului.",
+            "en": "Cycling in the rain requires discipline but rewards you with empty streets. From the marina, head towards Porto Pim bay where the wet asphalt glistens. At midday, the museum offers a welcome dry break before warming up at Peter Café. The day ends with a climb to a misty viewpoint overlooking the city."
+          },
+          "stops": [
+            {
+              "name": "Marina da Horta",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem rutschigen Kopfsteinpflaster am Hafeneingang.",
+                "hu": "Vigyázzon a csúszós macskaköveken a kikötő bejáratánál.",
+                "ro": "Atenție pe piatra cubică alunecoasă de la intrarea în port.",
+                "en": "Be careful on the slippery cobblestones at the harbor entrance."
+              }
+            },
+            {
+              "name": "Porto Pim Beach",
+              "tip_5lang": {
+                "de": "Meiden Sie die sandigen Wege direkt am Ufer bei Regen.",
+                "hu": "Esőben kerülje a közvetlenül a parton futó homokos utakat.",
+                "ro": "Evitați drumurile cu nisip direct de pe mal când plouă.",
+                "en": "Avoid the sandy paths right on the shore when it rains."
+              }
+            },
+            {
+              "name": "Horta Museum",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Biztonságos kerékpártárolók találhatók a bejárat közelében.",
+                "ro": "Suporturi sigure pentru biciclete se află lângă intrare.",
+                "en": "Secure bike racks are located near the entrance."
+              }
+            },
+            {
+              "name": "Peter Café Sport",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenkleidung kurz zu lüften.",
+                "hu": "Ideális hely az esőruházat rövid szárítására és szellőztetésére.",
+                "ro": "Un loc ideal pentru a aerisi puțin hainele de ploaie.",
+                "en": "An ideal spot to briefly air out your rain gear."
+              }
+            },
+            {
+              "name": "Fort of Santa Cruz",
+              "tip_5lang": {
+                "de": "Der Anstieg zum Fort ist kurz, aber bei Nässe rutschig.",
+                "hu": "Az erődbe vezető emelkedő rövid, de nedvesen csúszós.",
+                "ro": "Urcarea spre cetate este scurtă, dar alunecoasă pe umiditate.",
+                "en": "The climb to the fort is short but slippery when wet."
+              }
+            },
+            {
+              "name": "N. Sra. da Conceição Viewpoint",
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig bei der steilen Abfahrt im Regen.",
+                "hu": "Az esős, meredek lejtőn fékezzen időben és óvatosan.",
+                "ro": "Frânați din timp pe coborârea abruptă în condiții de ploaie.",
+                "en": "Brake early on the steep descent in rainy conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie neongelbe Regenkleidung für bessere Sichtbarkeit.",
+              "Prüfen Sie die Bremsen; der nasse Basalt ist extrem rutschig.",
+              "Verwenden Sie Schutzbleche, um Schlamm auf der Kleidung zu vermeiden.",
+              "Wählen Sie die Küstenstraße statt der steileren Innenstadtgassen.",
+              "Die Windböen können Radfahrer seitlich erfassen, halten Sie den Lenker fest."
+            ],
+            "hu": [
+              "Viseljen láthatósági esőruházatot a jobb észlelhetőség érdekében.",
+              "Ellenőrizze a fékeket; a nedves bazalt rendkívül csúszós.",
+              "Használjon sárvédőt, hogy elkerülje a sár felverődését.",
+              "Válassza a part menti utat a meredekebb belvárosi utcák helyett.",
+              "A széllökések oldalról érhetik a biciklist, fogja erősen a kormányt."
+            ],
+            "ro": [
+              "Purtați haine de ploaie reflectorizante pentru o mai bună vizibilitate.",
+              "Verificați frânele; bazaltul umed este extrem de alunecos.",
+              "Folosiți apărători pentru a evita stropirea hainelor cu noroi.",
+              "Alegeți drumul de coastă în locul străzilor abrupte din centru.",
+              "Rafalele de vânt pot lovi bicicliștii din lateral, țineți bine ghidonul."
+            ],
+            "en": [
+              "Wear high-visibility rain gear for better visibility to drivers.",
+              "Check your brakes; wet basalt stones are extremely slippery.",
+              "Use fenders to avoid getting mud all over your clothes.",
+              "Choose the coastal road instead of the steeper city alleys.",
+              "Wind gusts can hit cyclists from the side, keep a firm grip on the handlebar."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Horta bedeutet frische Seeluft und freie Wege. Von der Marina geht es zur friedlichen Bucht von Porto Pim, wo man die Stille genießt. Ein Stopp im Museum und im warmen Peter Café stärkt für den Nachmittag. Die Tour endet mit der Auffahrt zur Conceição-Kapelle, die einen klaren Blick auf den schneebedeckten Pico bieten kann.",
+            "hu": "A téli kerékpározás Hortában friss tengeri levegőt és szabad utakat jelent. A kikötőből a békés Porto Pim öböl felé indulva élvezheti a csendet. Egy megálló a múzeumban és a meleg Peter Caféban erőt ad a délutánhoz. A túra a Conceição-kápolnához vezető emelkedővel zárul, ahonnan tiszta időben látható a Pico havas csúcsa.",
+            "ro": "Ciclismul de iarnă în Horta înseamnă aer proaspăt de mare și drumuri libere. Din port plecați spre golful liniștit Porto Pim, unde vă bucurați de tăcere. O oprire la muzeu și la caldul Peter Café vă dă forță pentru după-amiază. Turul se încheie cu urcarea la capela Conceição, care poate oferi o vedere clară spre Pico înzăpezit.",
+            "en": "Winter cycling in Horta means fresh sea air and clear paths. From the marina, head to the peaceful Porto Pim bay and enjoy the silence. A stop at the museum and the warm Peter Café strengthens you for the afternoon. The tour ends with the climb to the Conceição chapel, which can offer a clear view of snowy Pico."
+          },
+          "stops": [
+            {
+              "name": "Marina da Horta",
+              "tip_5lang": {
+                "de": "Hafengewässer sind im Winter oft unruhiger, meiden Sie die Kanten.",
+                "hu": "A kikötő vize télen nyugtalanabb, kerülje a széleket.",
+                "ro": "Apa din port este mai agitată iarna, evitați marginile.",
+                "en": "Harbor waters are often rougher in winter, avoid the edges."
+              }
+            },
+            {
+              "name": "Porto Pim Beach",
+              "tip_5lang": {
+                "de": "Die Cafés hier haben im Winter oft eingeschränkte Öffnungszeiten.",
+                "hu": "Az itteni kávézók télen gyakran korlátozottan tartanak nyitva.",
+                "ro": "Cafenelele de aici au adesea program redus pe timpul iernii.",
+                "en": "Cafes here often have limited opening hours during winter."
+              }
+            },
+            {
+              "name": "Horta Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum für eine Aufwärmpause im Inneren.",
+                "hu": "Használja a múzeumot egy benti melegedő pihenőre.",
+                "ro": "Folosiți muzeul pentru o pauză de încălzire în interior.",
+                "en": "Use the museum for a warming break indoors."
+              }
+            },
+            {
+              "name": "Peter Café Sport",
+              "tip_5lang": {
+                "de": "Ein heißer Grog ist die beste Medizin gegen winterliche Kälte.",
+                "hu": "Egy forró grog a legjobb gyógyszer a téli hideg ellen.",
+                "ro": "Un grog fierbinte este cel mai bun remediu împotriva frigului.",
+                "en": "A hot grog is the best medicine against the winter chill."
+              }
+            },
+            {
+              "name": "Fort of Santa Cruz",
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf den Kanal von Faial.",
+                "hu": "Élvezze a tágas kilátást a Faial-csatornára.",
+                "ro": "Bucurați-vă de vederea largă asupra canalului Faial.",
+                "en": "Enjoy the wide view over the Faial Channel."
+              }
+            },
+            {
+              "name": "N. Sra. da Conceição Viewpoint",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind für die Abfahrt am Abend unerlässlich.",
+                "hu": "A meleg kesztyű elengedhetetlen az esti lejtmenethez.",
+                "ro": "Mănușile călduroase sunt esențiale pentru coborârea de seară.",
+                "en": "Warm gloves are essential for the evening descent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Windchill-Effekt beim Radfahren ist im Winter stark.",
+              "Vorder- und Rücklicht sind wegen der frühen Dämmerung Pflicht.",
+              "Tragen Sie eine winddichte Weste über Ihrer Kleidung.",
+              "Die Straßen sind im Winter sauberer, aber oft feucht.",
+              "Nutzen Sie die Mittagsstunden für die steileren Etappen."
+            ],
+            "hu": [
+              "A szél hűtő hatása biciklizés közben télen jelentős.",
+              "Az első és hátsó lámpa kötelező a korai sötétedés miatt.",
+              "Viseljen szélálló mellényt a ruházata felett.",
+              "Az utak télen tisztábbak, de gyakran nedvesek maradnak.",
+              "A meredekebb szakaszokat a déli órákra időzítse."
+            ],
+            "ro": [
+              "Efectul de răcire al vântului este semnificativ iarna pe bicicletă.",
+              "Luminile față și spate sunt obligatorii din cauza amurgului timpuriu.",
+              "Purtați o vestă rezistentă la vânt peste haine.",
+              "Drumurile sunt mai curate iarna, dar rămân adesea umede.",
+              "Folosiți orele amiezii pentru segmentele mai abrupte."
+            ],
+            "en": [
+              "The wind chill effect while cycling is significant in winter.",
+              "Front and rear lights are mandatory due to early dusk.",
+              "Wear a windproof vest over your layers.",
+              "Roads are cleaner in winter but often remain damp.",
+              "Utilize the midday hours for the steeper sections of the route."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1146,6 +1544,232 @@
           "A car gives you the freedom to explore the more remote parts of Faial island.",
           "Be mindful of one-way streets in the historic center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Horta auch bei Starkregen komfortabel zu erkunden. Starten Sie an der Conceição-Kapelle, wo man den Regen über dem Meer beobachten kann. Nach Stopps im Museum und beim legendären Peter Café bietet das Auto Schutz auf dem Weg zum Monte da Guia. Den Tag beschließt ein Besuch am Fort von Santa Cruz, während die Wellen gegen die Mauern schlagen.",
+            "hu": "Autóval Horta még heves esőzésben is kényelmesen felfedezhető. Kezdjen a Conceição-kápolnánál, ahonnan figyelheti a tenger feletti esőfüggönyt. A múzeum és a legendás Peter Café után az autó menedéket nyújt a Monte da Guia felé vezető úton. A napot a Santa Cruz erőd látogatása zárja, miközben a hullámok a falaknak csapódnak.",
+            "ro": "Cu mașina, Horta poate fi explorată confortabil chiar și în timpul ploilor abundente. Începeți la capela Conceição, de unde puteți observa perdeaua de ploaie peste mare. După opriri la muzeu și la legendarul Peter Café, mașina oferă adăpost pe drumul spre Monte da Guia. Ziua se încheie cu o vizită la cetatea Santa Cruz, în timp ce valurile se izbesc de ziduri.",
+            "en": "By car, Horta can be explored comfortably even during heavy rain. Start at the Conceição chapel, where you can watch the rain veil over the sea. After stops at the museum and the legendary Peter Café, the car provides shelter on the way to Monte da Guia. The day concludes with a visit to the Santa Cruz Fort while waves crash against the walls."
+          },
+          "stops": [
+            {
+              "name": "N. Sra. da Conceição Viewpoint",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen für den Ausblick im Auto.",
+                "hu": "Heves esőben maradjon az autóban a kilátás megcsodálásához.",
+                "ro": "Rămâneți în mașină pentru a admira priveliștea în caz de ploaie grea.",
+                "en": "Stay in the car to enjoy the view during heavy rain."
+              }
+            },
+            {
+              "name": "Church of São Salvador",
+              "tip_5lang": {
+                "de": "Parkplätze finden Sie direkt auf dem Platz vor der Kirche.",
+                "hu": "Parkolóhelyeket közvetlenül a templom előtti téren talál.",
+                "ro": "Găsiți locuri de parcare chiar în piața din fața bisericii.",
+                "en": "Parking spaces can be found directly in the square in front of the church."
+              }
+            },
+            {
+              "name": "Horta Museum",
+              "tip_5lang": {
+                "de": "Der Eingangsbereich bietet guten Schutz beim Aussteigen.",
+                "hu": "A bejárati rész jó védelmet nyújt kiszálláskor az eső ellen.",
+                "ro": "Zona de intrare oferă o protecție bună la coborârea din mașină.",
+                "en": "The entrance area provides good shelter when getting out of the car."
+              }
+            },
+            {
+              "name": "Peter Café Sport",
+              "tip_5lang": {
+                "de": "Parken Sie an der Avenida Marginal und nutzen Sie den kurzen Gehweg.",
+                "hu": "Parkoljon az Avenida Marginalon, és tegyen meg egy rövid sétát.",
+                "ro": "Parcați pe Avenida Marginal și faceți o scurtă plimbare.",
+                "en": "Park on Avenida Marginal and take the short walk to the entrance."
+              }
+            },
+            {
+              "name": "Marina da Horta",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, da Fußgänger oft unvorhersehbar ausweichen.",
+                "hu": "Vezessen lassan, mert a gyalogosok esőben kiszámíthatatlanok.",
+                "ro": "Conduceți încet, pietonii pot fi imprevizibili în ploaie.",
+                "en": "Drive slowly as pedestrians may move unpredictably in the rain."
+              }
+            },
+            {
+              "name": "Monte da Guia",
+              "tip_5lang": {
+                "de": "Die Straße nach oben kann bei Regen rutschig sein.",
+                "hu": "A dombra felfelé vezető út esőben csúszóssá válhat.",
+                "ro": "Drumul spre deal poate deveni alunecos pe ploaie.",
+                "en": "The road leading up the hill can be slippery in the rain."
+              }
+            },
+            {
+              "name": "Porto Pim Beach",
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer sicher vom Parkplatz aus.",
+                "hu": "Figyelje a viharos tengert biztonságban a parkolóból.",
+                "ro": "Observați marea agitată în siguranță din parcare.",
+                "en": "Watch the stormy sea safely from the parking lot."
+              }
+            },
+            {
+              "name": "Fort of Santa Cruz",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Parkplatz und historischen Mauern.",
+                "hu": "Rövid távolság a parkoló és a történelmi falak között.",
+                "ro": "Distanță scurtă între parcare și zidurile istorice.",
+                "en": "Short distance between the parking lot and the historic walls."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass die Scheibenwischer einwandfrei funktionieren.",
+              "Achten Sie auf große Pfützen auf der Avenida Marginal.",
+              "Die Parkplatzsuche am Peter Café ist bei Regen oft schwierig.",
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben.",
+              "Vermeiden Sie das Parken direkt unter hohen Palmen bei Sturm."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy az ablaktörlők tökéletesen működnek.",
+              "Ügyeljen a hatalmas tócsákra az Avenida Marginal mentén.",
+              "A Peter Cafénál esőben nehéz parkolóhelyet találni.",
+              "Használja a légkondicionálót a szélvédő páramentesítésére.",
+              "Viharban kerülje a parkolást a magas pálmafák alatt."
+            ],
+            "ro": [
+              "Asigurați-vă că ștergătoarele de parbriz funcționează impecabil.",
+              "Atenție la bălțile mari de pe Avenida Marginal.",
+              "Găsirea unui loc de parcare lângă Peter Café este grea pe ploaie.",
+              "Folosiți aerul condiționat pentru a dezaburi parbrizul.",
+              "Evitați parcarea sub palmieri înalți în timpul furtunilor."
+            ],
+            "en": [
+              "Ensure your windshield wipers are in perfect working condition.",
+              "Watch out for large puddles along Avenida Marginal.",
+              "Finding a parking spot near Peter Café is often difficult in the rain.",
+              "Use the air conditioning to prevent the windshield from fogging up.",
+              "Avoid parking directly under tall palm trees during storms."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter in Horta bietet klare Luft und weite Fernsichten mit dem Auto. Der Tag beginnt am Conceição-Aussichtspunkt mit Blick auf das winterliche Pico-Panorama. Nach kulturellen Stopps im Stadtzentrum führt die Fahrt zum Monte da Guia, wo der Wind die atlantische Kraft spürbar macht. Den Abend verbringt man gemütlich am Hafen, während die Dämmerung früh einsetzt.",
+            "hu": "A hortai tél tiszta levegőt és távoli kilátást kínál autózás közben. A nap a Conceição-kilátónál indul, rálátással a téli Pico panorámájára. A belvárosi kulturális megállók után az út a Monte da Guia felé vezet, ahol a szél érezteti az atlanti erőt. Az estét töltse hangulatosan a kikötőben, miközben korán beáll az alkonyat.",
+            "ro": "Iarna în Horta oferă aer curat și vederi la distanță cu mașina. Ziua începe la punctul de belvedere Conceição cu vedere spre panorama hibernală a insulei Pico. După opriri culturale în centru, drumul duce la Monte da Guia, unde vântul face simțită forța atlantică. Seara se petrece plăcut în port, pe măsură ce amurgul se instalează devreme.",
+            "en": "Winter in Horta offers crisp air and far-reaching views by car. The day starts at the Conceição viewpoint with a look at the wintry Pico panorama. After cultural stops in the city center, the drive leads to Monte da Guia, where the wind makes the Atlantic force palpable. Spend the evening cozily at the harbor as dusk sets in early."
+          },
+          "stops": [
+            {
+              "name": "N. Sra. da Conceição Viewpoint",
+              "tip_5lang": {
+                "de": "Die Fernsicht auf die Nachbarinseln ist im Winter oft brillant.",
+                "hu": "A szomszédos szigetekre nyíló kilátás télen gyakran ragyogó.",
+                "ro": "Vederea spre insulele vecine este adesea strălucitoare iarna.",
+                "en": "The distant view of neighboring islands is often brilliant in winter."
+              }
+            },
+            {
+              "name": "Church of São Salvador",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für eine besinnliche Winterpause.",
+                "hu": "Szép helyszín egy elcsendesedő téli pihenőhöz.",
+                "ro": "Un loc frumos pentru o pauză de iarnă contemplativă.",
+                "en": "A beautiful spot for a contemplative winter break."
+              }
+            },
+            {
+              "name": "Horta Museum",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum am späten Vormittag, wenn es am ruhigsten ist.",
+                "hu": "Látogassa meg a múzeumot késő délelőtt, amikor a legcsendesebb.",
+                "ro": "Vizitați muzeul la sfârșitul dimineții, când este cel mai liniște.",
+                "en": "Visit the museum in the late morning when it is quietest."
+              }
+            },
+            {
+              "name": "Peter Café Sport",
+              "tip_5lang": {
+                "de": "Im Winter findet man leichter einen Tisch am Fenster.",
+                "hu": "Télen könnyebb asztalt találni az ablak mellett.",
+                "ro": "Iarna este mai ușor să găsiți o masă lângă fereastră.",
+                "en": "In winter, it is easier to find a table near the window."
+              }
+            },
+            {
+              "name": "Marina da Horta",
+              "tip_5lang": {
+                "de": "Genießen Sie den Spaziergang auf der Mole ohne die Sommerhitze.",
+                "hu": "Élvezze a sétát a gáton a nyári hőség nélkül.",
+                "ro": "Bucurați-vă de plimbarea pe dig fără căldura verii.",
+                "en": "Enjoy the walk on the pier without the summer heat."
+              }
+            },
+            {
+              "name": "Monte da Guia",
+              "tip_5lang": {
+                "de": "Parken Sie windgeschützt, wenn Sie das Auto verlassen.",
+                "hu": "Parkoljon szélvédett helyen, ha kiszáll az autóból.",
+                "ro": "Parcați la adăpost de vânt când coborâți din mașină.",
+                "en": "Park in a wind-sheltered spot if you leave the car."
+              }
+            },
+            {
+              "name": "Porto Pim Beach",
+              "tip_5lang": {
+                "de": "Ideal für einen kurzen, kräftigen Strandspaziergang.",
+                "hu": "Ideális helyszín egy rövid, frissítő tengerparti sétához.",
+                "ro": "Ideal pentru o scurtă și revigorantă plimbare pe plajă.",
+                "en": "Ideal location for a short, brisk beach walk."
+              }
+            },
+            {
+              "name": "Fort of Santa Cruz",
+              "tip_5lang": {
+                "de": "Die Beleuchtung des Forts wirkt in der frühen Dunkelheit besonders schön.",
+                "hu": "Az erőd kivilágítása a korai sötétségben különösen szép.",
+                "ro": "Iluminarea cetății arată deosebit de frumos în întunericul timpuriu.",
+                "en": "The fort's lighting looks particularly beautiful in the early darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Kraftstoffverbrauch kann wegen der Heizung leicht steigen.",
+              "Vermeiden Sie das Parken in der Gischt-Zone am Hafen.",
+              "Prüfen Sie den Reifendruck bei fallenden Temperaturen.",
+              "Fahren Sie bei tiefstehender Wintersonne vorsichtig.",
+              "Genießen Sie die problemlose Parkplatzsuche in der Nebensaison."
+            ],
+            "hu": [
+              "Az üzemanyag-fogyasztás a fűtés miatt kissé megemelkedhet.",
+              "Kerülje a parkolást a kikötői vízpermet-zónában.",
+              "Ellenőrizze a guminyomást a csökkenő hőmérséklet mellett.",
+              "Vezessen óvatosan az alacsonyan járó téli nap idején.",
+              "Élvezze a problémamentes parkolást a holtszezonban."
+            ],
+            "ro": [
+              "Consumul de combustibil poate crește ușor din cauza încălzirii.",
+              "Evitați parcarea în zona cu aerosoli marini din port.",
+              "Verificați presiunea în anvelope la scăderea temperaturii.",
+              "Conduceți cu atenție când soarele de iarnă este jos la orizont.",
+              "Bucurați-vă de parcarea fără probleme în extrasezon."
+            ],
+            "en": [
+              "Fuel consumption may slightly increase due to heating use.",
+              "Avoid parking in the sea spray zone near the harbor.",
+              "Check tire pressure as temperatures drop.",
+              "Drive carefully when the winter sun is low on the horizon.",
+              "Enjoy the hassle-free parking during the off-season."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1502,6 +2126,196 @@
           "Some routes, like to Monte da Guia, still require a significant walk after the bus ride.",
           "Ask locals or the tourist office for the most up-to-date bus schedules."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel bieten eine trockene Basis für die Erkundung von Horta. Von der São Salvador Kirche gelangen Sie schnell zum Museum und zur Marina, wo das Peter Café wartet. Der Bus bringt Sie sicher in die Nähe von Porto Pim, um den Regen über der Bucht zu erleben. Den Tag beschließen Sie mit einer Fahrt zum Monte da Guia, bevor Sie im Schutze der Haltestelle den Rückweg antreten.",
+            "hu": "A tömegközlekedés száraz alapot biztosít Horta felfedezéséhez. A São Salvador templomtól gyorsan eljuthat a múzeumhoz és a kikötőhöz, ahol a Peter Café várja. A busz biztonságban viszi Porto Pim közelébe, hogy megcsodálja az öböl feletti esőt. A napot a Monte da Guia felé tett utazással zárja, mielőtt a megálló fedezékéből elindulna vissza.",
+            "ro": "Transportul public oferă o bază uscată pentru explorarea orașului Horta. De la biserica São Salvador ajungeți rapid la muzeu și în port, unde vă așteaptă Peter Café. Autobuzul vă duce în siguranță lângă Porto Pim pentru a admira ploaia peste golf. Ziua se încheie cu o călătorie spre Monte da Guia, înainte de a pleca înapoi de la adăpostul stației.",
+            "en": "Public transport provides a dry base for exploring Horta. From São Salvador Church, quickly reach the museum and marina where Peter Café awaits. The bus takes you safely near Porto Pim to admire the rain over the bay. The day concludes with a trip towards Monte da Guia before heading back from the shelter of the bus stop."
+          },
+          "stops": [
+            {
+              "name": "Church of São Salvador",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle befindet sich in unmittelbarer Nähe zum Kircheneingang.",
+                "hu": "A buszmegálló közvetlenül a templom bejáratának közelében található.",
+                "ro": "Stația de autobuz se află în imediata apropiere a intrării în biserică.",
+                "en": "The bus stop is located in immediate proximity to the church entrance."
+              }
+            },
+            {
+              "name": "Horta Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wartebereich im Museum, falls der Bus Verspätung hat.",
+                "hu": "Használja a múzeum váróterét, ha késik a busz az esőben.",
+                "ro": "Folosiți zona de așteptare din muzeu dacă autobuzul întârzie.",
+                "en": "Use the waiting area inside the museum if the bus is delayed."
+              }
+            },
+            {
+              "name": "Marina da Horta & Peter Café Sport",
+              "tip_5lang": {
+                "de": "Der zentrale Knotenpunkt für viele Busverbindungen in der Stadt.",
+                "hu": "Sok városi buszjárat központi csomópontja.",
+                "ro": "Nodul central pentru multe rute de autobuz din oraș.",
+                "en": "The central hub for many bus connections in the city."
+              }
+            },
+            {
+              "name": "Porto Pim Beach",
+              "tip_5lang": {
+                "de": "Die Haltestelle bietet nur begrenzten Schutz vor starkem Regen.",
+                "hu": "A megálló csak korlátozott védelmet nyújt heves esőzéskor.",
+                "ro": "Stația oferă protecție limitată în caz de ploaie abundentă.",
+                "en": "The stop offers only limited protection during heavy rain."
+              }
+            },
+            {
+              "name": "Fort of Santa Cruz",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint von der Haltestelle zu den dicken Mauern.",
+                "hu": "Egy rövid futás a megállótól a vastag történelmi falakig.",
+                "ro": "Un scurt sprint de la stație până la zidurile groase.",
+                "en": "A short sprint from the stop to the thick historic walls."
+              }
+            },
+            {
+              "name": "Monte da Guia",
+              "tip_5lang": {
+                "de": "Informieren Sie sich vorab über die selteneren Fahrzeiten zum Berg.",
+                "hu": "Tájékozódjon előre a dombhoz járó ritkább buszjáratokról.",
+                "ro": "Informați-vă din timp despre orele rare ale autobuzelor spre munte.",
+                "en": "Check the less frequent bus times to the hill in advance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie immer Kleingeld für den Busfahrer bereit.",
+              "Die Busse verkehren bei starkem Regen manchmal unregelmäßig.",
+              "Nutzen Sie die App für Echtzeit-Informationen, falls verfügbar.",
+              "Die Haltestellen an der Avenida Marginal sind oft am windigsten.",
+              "Kombinieren Sie kurze Busfahrten mit Aufenthalten in Cafés."
+            ],
+            "hu": [
+              "Mindig legyen kéznél aprópénz a buszjegyhez.",
+              "Heves esőben a buszok néha rendszertelenül közlekedhetnek.",
+              "Használjon menetrendi alkalmazást a valós idejű adatokhoz.",
+              "Az Avenida Marginal menti megállók gyakran a legszelesebbek.",
+              "Kombinálja a rövid buszutakat a kávézókban való várakozással."
+            ],
+            "ro": [
+              "Aveți întotdeauna mărunțiș pregătit pentru șoferul de autobuz.",
+              "Autobuzele pot circula neregulat în timpul ploilor torențiale.",
+              "Folosiți aplicația pentru informații în timp real, dacă este disponibilă.",
+              "Stațiile de pe Avenida Marginal sunt adesea cele mai expuse vântului.",
+              "Combinați călătoriile scurte cu autobuzul cu pauze în cafenele."
+            ],
+            "en": [
+              "Always have small change ready for the bus driver.",
+              "Buses may sometimes run irregularly during heavy rain.",
+              "Use the transit app for real-time information if available.",
+              "The stops along Avenida Marginal are often the windiest.",
+              "Combine short bus rides with waiting inside nearby cafes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist der öffentliche Verkehr in Horta eine verlässliche Wahl für ruhige Entdeckungen. Beginnen Sie kulturell an der São Salvador Kirche und nutzen Sie die Busverbindung zum Horta-Museum. Der Hafen und das Peter Café bieten gemütliche Pausen, bevor der Bus Sie nach Porto Pim bringt. Den Tag rundet eine Fahrt zum Monte da Guia ab, während die Wintersonne früh hinter dem Horizont verschwindet.",
+            "hu": "Télen a hortai tömegközlekedés megbízható választás a nyugodt felfedezéshez. Kezdjen kulturális programmal a São Salvador templomnál, majd busszal menjen a Horta Múzeumhoz. A kikötő és a Peter Café hangulatos pihenőket kínál, mielőtt a busz Porto Pimbe vinné. A napot a Monte da Guia felé tett utazás zárja, miközben a téli nap korán eltűnik a horizont mögött.",
+            "ro": "Iarna, transportul public din Horta este o alegere sigură pentru explorări liniștite. Începeți cultural la biserica São Salvador și folosiți autobuzul spre Muzeul Horta. Portul și Peter Café oferă pauze plăcute înainte ca autobuzul să vă ducă la Porto Pim. Ziua este completată de o călătorie spre muntele Guia, în timp ce soarele de iarnă apune devreme.",
+            "en": "In winter, public transport in Horta is a reliable choice for quiet discoveries. Start culturally at São Salvador Church and use the bus to reach the Horta Museum. The harbor and Peter Café offer cozy breaks before the bus takes you to Porto Pim. The day is rounded off with a trip to Monte da Guia as the winter sun disappears early behind the horizon."
+          },
+          "stops": [
+            {
+              "name": "Church of São Salvador",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse oft leerer und angenehm temperiert.",
+                "hu": "Télen a buszok gyakran üresebbek és kellemesen fűtöttek.",
+                "ro": "Iarna, autobuzele sunt adesea mai goale și încălzite plăcut.",
+                "en": "In winter, buses are often less crowded and pleasantly warm."
+              }
+            },
+            {
+              "name": "Horta Museum",
+              "tip_5lang": {
+                "de": "Planen Sie den Museumsbesuch passend zu den Busintervallen.",
+                "hu": "Tervezze a múzeumlátogatást a buszjáratok indulásához igazítva.",
+                "ro": "Planificați vizita la muzeu în funcție de intervalele autobuzelor.",
+                "en": "Plan your museum visit to match the bus intervals."
+              }
+            },
+            {
+              "name": "Marina da Horta & Peter Café Sport",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um im Warmen auf den nächsten Bus zu warten.",
+                "hu": "Jó helyszín, hogy a melegben várja meg a következő buszt.",
+                "ro": "Un loc bun pentru a aștepta următorul autobuz la căldură.",
+                "en": "A good place to wait for the next bus while staying warm."
+              }
+            },
+            {
+              "name": "Porto Pim Beach",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Transit, um den kühlen Wind am Ufer zu umgehen.",
+                "hu": "Használja a közlekedést, hogy elkerülje a hűvös parti szelet.",
+                "ro": "Folosiți transportul pentru a evita vântul rece de pe mal.",
+                "en": "Use transit to avoid the cool wind along the shore."
+              }
+            },
+            {
+              "name": "Fort of Santa Cruz",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist nur wenige Schritte vom Fort entfernt.",
+                "hu": "A buszmegálló csak néhány lépésre van az erődtől.",
+                "ro": "Stația de autobuz este la doar câțiva pași de cetate.",
+                "en": "The bus stop is just a few steps away from the fort."
+              }
+            },
+            {
+              "name": "Monte da Guia",
+              "tip_5lang": {
+                "de": "Achten Sie auf den eingeschränkten Winterfahrplan am späten Nachmittag.",
+                "hu": "Ügyeljen a korlátozott téli menetrendre késő délután.",
+                "ro": "Atenție la programul de iarnă redus la sfârșitul după-amiezii.",
+                "en": "Watch out for the limited winter schedule in the late afternoon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Winterfahrpläne können sich von den Sommerzeiten unterscheiden.",
+              "Nutzen Sie die Busverbindung für die steilen Wege zum Monte da Guia.",
+              "Die zentrale Haltestelle am Hafen ist der beste Umstiegspunkt.",
+              "Abends sind die Busfrequenzen im Winter deutlich geringer.",
+              "Fragen Sie den Fahrer nach der besten Haltestelle für Aussichtspunkte."
+            ],
+            "hu": [
+              "A téli menetrendek eltérhetnek a nyári időpontoktól.",
+              "Használja a buszt a Monte da Guia felé vezető meredek utakhoz.",
+              "A kikötői központi megálló a legjobb átszállási pont.",
+              "Este a buszok gyakorisága télen jelentősen csökken.",
+              "Kérdezze a sofőrt a kilátópontokhoz legközelebbi megállóról."
+            ],
+            "ro": [
+              "Orarele de iarnă pot diferi de cele de vară.",
+              "Folosiți autobuzul pentru drumurile abrupte spre Monte da Guia.",
+              "Stația centrală din port este cel mai bun punct de transfer.",
+              "Seara, frecvența autobuzelor scade semnificativ iarna.",
+              "Întrebați șoferul despre cea mai bună stație pentru belvedere."
+            ],
+            "en": [
+              "Winter schedules may differ from summer timings.",
+              "Use the bus connection for the steep paths to Monte da Guia.",
+              "The central stop at the harbor is the best transfer point.",
+              "In the evening, bus frequencies are significantly lower in winter.",
+              "Ask the driver for the best stop to reach the viewpoints."
+            ]
+          }
+        }
       }
     }
   }

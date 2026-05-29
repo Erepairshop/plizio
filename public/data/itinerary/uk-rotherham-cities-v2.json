@@ -333,6 +333,170 @@
           "A portable charger for your phone is a good idea.",
           "Bring a reusable water bottle to stay hydrated."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt im geschützten Rotherham Minster, wo Sie die gotische Architektur im Trockenen bewundern. Mittags spazieren Sie durch den Clifton Park zum Museum, das als perfekter Zufluchtsort dient. Der Nachmittag gehört der gewaltigen Magna-Halle, die völlig wetterunabhängig ist. Den Abend lassen Sie trotz Regens am Thrybergh-See ausklingen, wobei die asphaltierten Wege Pfützen minimieren.",
+            "hu": "A napot a védett Rotherham Minsterben kezdjük, ahol az eső kopogása csak fokozza az áhítatot. Délben a Clifton Parkon át a múzeumba sietünk, amely kiváló menedéket nyújt a záporok elől. Délután a Magna központ hatalmas csarnokaiban kalandozunk, ahol garantáltan szárazon maradunk. Az estét a Thrybergh Country Park tónál zárjuk, kihasználva a szilárd burkolatú sétányokat.",
+            "ro": "Ziua începe în interiorul protejat al Rotherham Minster, admirând detaliile gotice în timp ce plouă afară. La prânz, traversăm Clifton Park spre muzeu, refugiul perfect pentru orele umede. După-amiaza este dedicată centrului Magna, un spațiu industrial vast și acoperit. Seara se încheie la lacul Thrybergh, unde potecile pavate permit o plimbare decentă chiar și pe vreme ploioasă.",
+            "en": "Start your day inside the sheltered Rotherham Minster, admiring its Gothic beauty away from the drizzle. At noon, head through Clifton Park to the museum, which serves as a perfect dry refuge. The afternoon is spent in the vast indoor halls of Magna Science Centre, completely weather-proof. End the day at Thrybergh Country Park, where paved paths make for a manageable lakeside walk despite the rain."
+          },
+          "stops": [
+            {
+              "name": "Rotherham Minster",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ersten Regenschauer abzuwarten.",
+                "hu": "Tökéletes hely az első zápor kivárására a falak között.",
+                "ro": "Locul perfect pentru a aștepta trecerea primei averse.",
+                "en": "Perfect place to wait out the first rain shower indoors."
+              }
+            },
+            {
+              "name": "Clifton Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die asphaltierten Hauptwege gegen Matsch.",
+                "hu": "Használja az aszfaltozott főutakat a sár elkerülésére.",
+                "ro": "Folosiți aleile principale asfaltate pentru a evita noroiul.",
+                "en": "Stick to the main paved paths to avoid muddy grass."
+              }
+            },
+            {
+              "name": "Clifton Park Museum",
+              "tip_5lang": {
+                "de": "Das Café im Museum ist ideal zum Aufwärmen und Trocknen.",
+                "hu": "A múzeum kávézója ideális egy kis melegedéshez és száradáshoz.",
+                "ro": "Cafeneaua muzeului este ideală pentru a vă încălzi și usca.",
+                "en": "The museum cafe is ideal for warming up and drying off."
+              }
+            },
+            {
+              "name": "Magna Science Adventure Centre",
+              "tip_5lang": {
+                "de": "Riesiges Indoor-Areal, ideal für verregnete Nachmittage.",
+                "hu": "Hatalmas fedett terület, ideális esős délutánokra.",
+                "ro": "Zonă interioară imensă, ideală pentru după-amiezi ploioase.",
+                "en": "Huge indoor area, ideal for rainy afternoons."
+              }
+            },
+            {
+              "name": "Thrybergh Country Park",
+              "tip_5lang": {
+                "de": "Die Cafeteria bietet einen tollen Blick auf den grauen See.",
+                "hu": "A büféből remek kilátás nyílik az eső áztatta tóra.",
+                "ro": "Cafeteria oferă o vedere excelentă asupra lacului gri.",
+                "en": "The cafeteria offers a great view of the rainy lake."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die Parkwege.",
+              "Das Magna Science Centre ist fast vollständig überdacht.",
+              "Nutzen Sie die Museen als strategische Pausenpunkte.",
+              "Ein Regenschirm ist bei den Windböen im Park weniger effektiv als ein Regenponcho."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a parki sétákhoz.",
+              "A Magna Science Centre szinte teljesen fedett terület.",
+              "Használja a múzeumokat stratégiai pihenőpontként.",
+              "Az esernyő helyett a széldzseki praktikusabb a nyitottabb parkokban."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru aleile din parcuri.",
+              "Magna Science Centre este aproape complet acoperit.",
+              "Folosiți muzeele ca puncte strategice de odihnă.",
+              "O pelerină de ploaie e mai utilă decât o umbrelă în parcurile deschise."
+            ],
+            "en": [
+              "Wear waterproof footwear for the park sections.",
+              "Magna Science Centre is almost entirely indoors and dry.",
+              "Use the museums as strategic dry rest points.",
+              "A raincoat is more effective than an umbrella in the breezy parks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt im Minster, bevor Sie den winterlichen Clifton Park durchqueren. Die Wärme des Museums bietet mittags eine willkommene Pause. Am Nachmittag erkunden Sie Magna, wo Sie sich viel bewegen sollten, da die Hallen kühl sein können. Da die Sonne gegen 16 Uhr untergeht, genießen Sie das blaue Licht der Dämmerung am Thrybergh-See bei einem heißen Getränk.",
+            "hu": "Deres reggel fogad a Minster falai között, majd a téli Clifton Parkon vágunk át. A múzeum melege délben igazi megváltás lesz. Délután a Magna ipari csarnokait járjuk be, ahol érdemes rétegesen öltözni. Mivel 4 óra után sötétedik, a Thrybergh-tónál már a szürkületi fényekben sétálunk, forró teával a kézben.",
+            "ro": "O dimineață geroasă începe la Minster, urmată de o traversare a parcului Clifton înghețat. Căldura muzeului oferă o pauză binemeritată la prânz. După-amiaza explorăm Magna, unde e bine să vă mișcați pentru a ignora răcoarea halelor. Deoarece soarele apune pe la ora 16, savurați amurgul la lacul Thrybergh cu o băutură caldă.",
+            "en": "A frosty morning starts at the Minster before crossing the wintry Clifton Park. The warmth of the museum provides a welcome break at noon. In the afternoon, explore Magna, where it's best to keep moving as the halls can be chilly. Since the sun sets around 4 PM, enjoy the twilight at Thrybergh lake with a hot drink in hand."
+          },
+          "stops": [
+            {
+              "name": "Rotherham Minster",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist auch im Inneren der Kirche ratsam.",
+                "hu": "Meleg ruházat a templom falain belül is ajánlott télen.",
+                "ro": "Hainele groase sunt recomandate chiar și în interiorul bisericii.",
+                "en": "Warm layers are advised even inside the stone church."
+              }
+            },
+            {
+              "name": "Clifton Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei überfrorenen Wegen am frühen Morgen.",
+                "hu": "Vigyázat, a kora reggeli órákban az utak lefagyhatnak.",
+                "ro": "Atenție la aleile înghețate în primele ore ale dimineții.",
+                "en": "Watch out for icy patches on the paths in the early morning."
+              }
+            },
+            {
+              "name": "Clifton Park Museum",
+              "tip_5lang": {
+                "de": "Bester Ort, um die Finger wieder aufzuwärmen.",
+                "hu": "A legjobb hely a kezek felmelegítésére a séták között.",
+                "ro": "Cel mai bun loc pentru a vă încălzi mâinile după plimbare.",
+                "en": "Best place to warm up your fingers between outdoor walks."
+              }
+            },
+            {
+              "name": "Magna Science Adventure Centre",
+              "tip_5lang": {
+                "de": "Die großen Hallen sind oft kühl, behalten Sie die Jacke an.",
+                "hu": "A nagy csarnokok hűvösek lehetnek, maradjon kabátban.",
+                "ro": "Halele mari pot fi răcoroase, păstrați jacheta pe dvs.",
+                "en": "The huge steel halls are chilly, keep your coat on."
+              }
+            },
+            {
+              "name": "Thrybergh Country Park",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 16:15 Uhr.",
+                "hu": "Élvezze a téli naplementét délután 4 után a tónál.",
+                "ro": "Bucurați-vă de apusul de iarnă în jurul orei 16:15.",
+                "en": "Enjoy the winter sunset around 4:15 PM at the lake."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits vor 16:00 Uhr unter.",
+              "Magna ist ein ehemaliges Stahlwerk und kann im Winter sehr kalt sein.",
+              "Tragen Sie Schichten, die Sie in den Museen leicht ablegen können.",
+              "Heiße Getränke sind in allen Park-Cafés erhältlich."
+            ],
+            "hu": [
+              "A nap decemberben már délután 4 előtt lenyugszik.",
+              "A Magna egy volt acélmű, télen nagyon hideg lehet a beltere.",
+              "Réteges öltözködés javasolt a kinti és benti hőmérséklet miatt.",
+              "Forró italok minden parki kávézóban kaphatóak."
+            ],
+            "ro": [
+              "Soarele apune înainte de ora 16:00 în luna decembrie.",
+              "Magna este o fostă oțelărie și poate fi foarte rece iarna.",
+              "Îmbrăcați-vă în straturi pentru a vă adapta temperaturii din muzee.",
+              "Băuturi calde sunt disponibile în toate cafenelele din parcuri."
+            ],
+            "en": [
+              "The sun sets before 4:00 PM in the depths of December.",
+              "Magna is a former steelworks and can be very cold indoors.",
+              "Wear layers you can easily remove inside the museums.",
+              "Hot drinks are available at all the park kiosks."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -683,6 +847,188 @@
           "Bring a reliable lock for your bike.",
           "Check the route in advance as some hills can be challenging."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour erfordert Vorsicht auf den Waldwegen. Nach dem Minster flüchten Sie ins Magna, um die Fahrräder im Auge zu behalten und selbst trocken zu bleiben. Clifton Park und Thrybergh bieten befestigte Wege, die weniger schlammig sind. Den Abschluss bildet der Rother Valley Park, wo das Wasser auf dem See eine mystische Stimmung erzeugt, während Sie tapfer durchhalten.",
+            "hu": "Az esős kerékpártúra óvatosságot igényel az erdei utakon. A Minster után a Magnába menekülünk, ahol a bicikliket biztonságban tudva fedett helyen vagyunk. A Clifton és Thrybergh parkok szilárd útjai kevésbé sárulnak be. A napot a Rother Valley-ben zárjuk, ahol a tó feletti pára misztikus hangulatot áraszt a szemerkélő esőben.",
+            "ro": "O tură pe bicicletă pe ploaie necesită prudență pe potecile de pădure. După Minster, refugiați-vă la Magna pentru a vă menține echipamentul și moralul uscat. Parcurile Clifton și Thrybergh oferă drumuri asfaltate, mai puțin noroioase. Finalul la Rother Valley Park este spectaculos, cu reflexii gri în apă, în ciuda vremii.",
+            "en": "A wet cycle ride requires caution on the woodland paths. After the Minster, escape to Magna to keep yourselves dry while taking a long break. Clifton and Thrybergh parks offer paved tracks that are less muddy. Finish at Rother Valley Park, where the mist over the lake creates a mystical atmosphere as you power through the rain."
+          },
+          "stops": [
+            {
+              "name": "Rotherham Minster",
+              "tip_5lang": {
+                "de": "Suchen Sie einen geschützten Abstellplatz für das Rad.",
+                "hu": "Keressen fedett helyet a kerékpár leállításához.",
+                "ro": "Căutați un loc de parcare protejat pentru bicicletă.",
+                "en": "Find a sheltered spot to lock your bike nearby."
+              }
+            },
+            {
+              "name": "Magna Science Adventure Centre",
+              "tip_5lang": {
+                "de": "Nutzen Sie die lange Pause, um die Regenkleidung zu lüften.",
+                "hu": "Használja ki a hosszú pihenőt az esőruha szárítására.",
+                "ro": "Profită de pauza lungă pentru a-ți aerisi hainele de ploaie.",
+                "en": "Use the long break to air out your wet cycling gear."
+              }
+            },
+            {
+              "name": "Clifton Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem Laub auf den Wegen.",
+                "hu": "Vigyázat, a nedves levelek csúszóssá teszik az utat.",
+                "ro": "Atenție la frunzele umede care pot fi alunecoase pe alei.",
+                "en": "Beware of slippery wet leaves on the cycle paths."
+              }
+            },
+            {
+              "name": "Thrybergh Country Park",
+              "tip_5lang": {
+                "de": "Der Rundweg um den See ist bei Regen oft windig.",
+                "hu": "A tó körüli út esőben gyakran nagyon szeles.",
+                "ro": "Traseul circular în jurul lacului este adesea vântos pe ploaie.",
+                "en": "The circular trail around the lake is often windy in rain."
+              }
+            },
+            {
+              "name": "Hoober Stand",
+              "tip_5lang": {
+                "de": "Der Aufstieg kann auf nassen Reifen anstrengend sein.",
+                "hu": "A dombra feljutás nehéz lehet vizes kerekekkel.",
+                "ro": "Urcarea poate fi obositoare cu anvelopele ude.",
+                "en": "The climb up can be strenuous with wet tires."
+              }
+            },
+            {
+              "name": "Rother Valley Country Park",
+              "tip_5lang": {
+                "de": "Halten Sie Ausschau nach Pfützen in Senken.",
+                "hu": "Figyeljen a mélyebb pocsolyákra a völgyi utakon.",
+                "ro": "Fiți atenți la bălțile adânci din zonele joase.",
+                "en": "Watch out for deep puddles in the lower sections."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bremswege verlängern sich auf nasser Fahrbahn deutlich.",
+              "Vollflächige Schutzbleche sind bei diesem Wetter ein Muss.",
+              "Magna bietet viel Platz für eine trockene Mittagspause.",
+              "Prüfen Sie Ihre Beleuchtung, da die Sicht oft eingeschränkt ist."
+            ],
+            "hu": [
+              "A fékút vizes úton jelentősen meghosszabbodik.",
+              "A sárvédő elengedhetetlen az ilyen időben.",
+              "A Magna tágas helyet kínál egy száraz ebédszünethez.",
+              "Ellenőrizze a világítást, mert a látási viszonyok rosszak."
+            ],
+            "ro": [
+              "Distanța de frânare crește considerabil pe carosabil ud.",
+              "Apărătorile de noroi sunt obligatorii pe această vreme.",
+              "Magna oferă spațiu generos pentru o pauză de prânz uscată.",
+              "Verificați luminile, vizibilitatea este adesea redusă."
+            ],
+            "en": [
+              "Braking distances are significantly longer on wet roads.",
+              "Full mudguards are essential for this rainy itinerary.",
+              "Magna provides plenty of space for a dry lunch break.",
+              "Check your bike lights as visibility is often poor in rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour führt durch glitzernde Reiflandschaften. Starten Sie vorsichtig am Minster und nutzen Sie Magna als rettende Insel gegen die Kälte. Clifton Park zeigt seine karge Schönheit, während der Weg zum Hoober Stand einen weiten Blick über das frostige South Yorkshire bietet. Der Tag endet im Rother Valley, wo der Frost die Seeufer verzaubert, bevor die Dunkelheit einsetzt.",
+            "hu": "A téli túra zúzmarás tájakon vezet keresztül. Óvatosan indulunk a Minstertől, a Magna pedig megmentő sziget lesz a hideg ellen. A Clifton Park kopár szépségét mutatja, míg a Hoober Stand felé vezető út fagyos panorámát kínál South Yorkshire-re. A nap a Rother Valley-ben ér véget, ahol a dér már belepi a tópartot a sötétedés előtt.",
+            "ro": "Turul de iarnă trece prin peisaje sclipitoare de chiciură. Porniți cu grijă de la Minster și folosiți Magna ca insulă de salvare împotriva frigului. Clifton Park își arată frumusețea austeră, iar drumul spre Hoober Stand oferă o vedere amplă asupra regiunii înghețate. Ziua se încheie la Rother Valley, unde înghețul transformă malurile lacului.",
+            "en": "The winter tour leads through sparkling frosty landscapes. Start cautiously at the Minster and use Magna as a safe haven from the cold. Clifton Park reveals its stark winter beauty, while the path to Hoober Stand offers wide views over frozen South Yorkshire. The day ends at Rother Valley, where frost enchants the lakeshores before darkness falls."
+          },
+          "stops": [
+            {
+              "name": "Rotherham Minster",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Metallgeländer beim Anschließen des Rads.",
+                "hu": "Kerülje a fémkorlátokat a bicikli lakatolásakor a hidegben.",
+                "ro": "Evitați balustradele metalice când legați bicicleta.",
+                "en": "Avoid touching cold metal railings when locking your bike."
+              }
+            },
+            {
+              "name": "Magna Science Adventure Centre",
+              "tip_5lang": {
+                "de": "Tauen Sie Ihre Finger bei einer heißen Schokolade auf.",
+                "hu": "Melegítse fel az ujjait egy forró csokoládé mellett.",
+                "ro": "Dezghețați-vă degetele cu o ciocolată caldă la interior.",
+                "en": "Thaw out your fingers with a hot chocolate inside."
+              }
+            },
+            {
+              "name": "Clifton Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den schattigen Parkwegen.",
+                "hu": "Ügyeljen a jegesedésre az árnyékos parki utakon.",
+                "ro": "Fiți atenți la gheață pe potecile umbrite din parc.",
+                "en": "Watch out for black ice on shaded park pathways."
+              }
+            },
+            {
+              "name": "Thrybergh Country Park",
+              "tip_5lang": {
+                "de": "Der Wind vom See kann die gefühlte Temperatur senken.",
+                "hu": "A tó felől fújó szél jelentősen rontja a hőérzetet.",
+                "ro": "Vântul de pe lac poate scădea temperatura resimțită.",
+                "en": "The wind off the lake can lower the perceived temperature."
+              }
+            },
+            {
+              "name": "Hoober Stand",
+              "tip_5lang": {
+                "de": "Hervorragende Fernsicht bei klarer, kalter Winterluft.",
+                "hu": "Kiváló kilátás a tiszta, hideg téli levegőben.",
+                "ro": "Vizibilitate excelentă în aerul rece și curat de iarnă.",
+                "en": "Excellent long-distance views in clear, cold winter air."
+              }
+            },
+            {
+              "name": "Rother Valley Country Park",
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt rechtzeitig vor Sonnenuntergang.",
+                "hu": "Fejezze be a túrát időben, még naplemente előtt.",
+                "ro": "Încheiați tura din timp, înainte de apusul soarelui.",
+                "en": "Aim to finish your ride well before the sun goes down."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie die Kette gut geölt gegen winterliches Streusalz.",
+              "Warme Handschuhe und Überschuhe sind für diese Tour kritisch.",
+              "Planen Sie mehr Zeit für langsame Fahrten auf glatten Wegen ein.",
+              "Die Sonne verschwindet früh; Lichtcheck ist überlebenswichtig."
+            ],
+            "hu": [
+              "Tartsa a láncot jól olajozottan a téli útszóró só ellen.",
+              "A meleg kesztyű és kamásli elengedhetetlen ehhez a túrához.",
+              "Szánjon több időt a lassabb haladásra a csúszós szakaszokon.",
+              "A nap korán nyugszik; a lámpák ellenőrzése létfontosságú."
+            ],
+            "ro": [
+              "Păstrați lanțul bine uns împotriva sării de pe drumuri.",
+              "Mănușile groase și protecțiile de pantofi sunt critice.",
+              "Planificați mai mult timp pentru deplasare pe drumuri alunecoase.",
+              "Soarele apune devreme; verificarea luminilor este vitală."
+            ],
+            "en": [
+              "Keep your chain well-oiled against winter road salt.",
+              "Warm gloves and overshoes are critical for this ride.",
+              "Allow extra time for slower riding on potentially icy paths.",
+              "The sun disappears early; a light check is essential for safety."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1063,6 +1409,206 @@
           "Country roads can be narrow, drive with care.",
           "A GPS or map app is essential for navigating between the spread-out locations."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist dieser verregnete Tag purer Komfort. Sie starten im prachtvollen Wentworth Woodhouse, das innen trocken und warm ist. Keppel's Column bewundern Sie kurz vom Fenster aus, bevor es zur Roche Abbey geht, deren Ruinen im Regen dramatisch wirken. Nach einem Besuch im Minster lassen Sie den Tag am Rother Valley See entspannt ausklingen.",
+            "hu": "Autóval ez az esős nap maga a kényelem. A pompás Wentworth Woodhouse-ban kezdünk, ahol falak védenek az esőtől. A Keppel's Column-t csak az ablakból csodáljuk meg, majd a Roche apátság következik, melynek romjai drámaiak a szitáló esőben. A Minster után a napot a Rother Valley tónál zárjuk, a kocsiból figyelve a vizet.",
+            "ro": "Cu mașina, această zi ploioasă este pur confort. Începeți la Wentworth Woodhouse, unde interiorul este cald și uscat. Admirați Coloana lui Keppel de la fereastra mașinii înainte de a merge la Roche Abbey, ale cărei ruine par dramatice în ploaie. După Minster, încheiați ziua relaxat la lacul Rother Valley.",
+            "en": "By car, this rainy day is pure comfort. Start at the grand Wentworth Woodhouse, keeping warm and dry inside. Admire Keppel's Column briefly from the window before heading to Roche Abbey, where the ruins look dramatic in the drizzle. After visiting the Minster, end the day relaxed by the Rother Valley lake."
+          },
+          "stops": [
+            {
+              "name": "Wentworth Woodhouse",
+              "tip_5lang": {
+                "de": "Idealer Startpunkt, um den Regen im Haus zu ignorieren.",
+                "hu": "Ideális kezdőpont, ahol a házon belül elfelejthetjük az esőt.",
+                "ro": "Punct de plecare ideal pentru a ignora ploaia în interior.",
+                "en": "Ideal starting point to ignore the rain inside the mansion."
+              }
+            },
+            {
+              "name": "Keppel's Column",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp reicht bei diesem Wetter völlig aus.",
+                "hu": "Egy rövid fotómegálló bőven elég ebben az időben.",
+                "ro": "O scurtă oprire pentru poze este suficientă pe această vreme.",
+                "en": "A quick photo stop is plenty in this kind of weather."
+              }
+            },
+            {
+              "name": "Roche Abbey",
+              "tip_5lang": {
+                "de": "Der Rasen zwischen den Ruinen kann sehr weich sein.",
+                "hu": "A romok közötti fű nagyon felázhat az esőben.",
+                "ro": "Iarba dintre ruine poate fi foarte moale și udă.",
+                "en": "The grass between the ruins can be very soft and soggy."
+              }
+            },
+            {
+              "name": "Rotherham Minster",
+              "tip_5lang": {
+                "de": "Parkhäuser in der Nähe bieten trockenen Zugang zum Zentrum.",
+                "hu": "A közeli parkolóházak száraz utat biztosítanak a központba.",
+                "ro": "Parcările etajate din apropiere oferă acces uscat spre centru.",
+                "en": "Nearby multi-story car parks offer dry access to the center."
+              }
+            },
+            {
+              "name": "Clifton Park",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Museum, um den Fußweg zu minimieren.",
+                "hu": "Parkoljon a múzeumhoz közel a gyaloglás minimalizálására.",
+                "ro": "Parcați aproape de muzeu pentru a minimiza mersul pe jos.",
+                "en": "Park close to the museum to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Clifton Park Museum",
+              "tip_5lang": {
+                "de": "Perfektes Timing für die stärksten Regenschauer.",
+                "hu": "Tökéletes időzítés a legerősebb záporok idejére.",
+                "ro": "Moment perfect pentru cele mai puternice averse de ploaie.",
+                "en": "Perfect timing for when the rain is at its heaviest."
+              }
+            },
+            {
+              "name": "Rother Valley Country Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto und genießen Sie den Blick auf den See.",
+                "hu": "Maradjon az autóban és élvezze a kilátást a tóra.",
+                "ro": "Rămâneți în mașină și bucurați-vă de vederea spre lac.",
+                "en": "Stay in the car and enjoy the lake view if it's pouring."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Landstraßen bei Wentworth.",
+              "Regenschirme sind beim Ein- und Aussteigen unverzichtbar.",
+              "Die Parkplätze in Clifton Park können bei Regen matschig sein.",
+              "Roche Abbey ist im Regen sehr atmosphärisch, aber ungeschützt."
+            ],
+            "hu": [
+              "Ügyeljen a vízfelúszásra a Wentworth környéki utakon.",
+              "Az esernyő elengedhetetlen a kiszállásokhoz.",
+              "A Clifton Park parkolói esőben sárosak lehetnek.",
+              "A Roche apátság esőben hangulatos, de nincs fedett része."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile de lângă Wentworth.",
+              "Umbrelele sunt indispensabile la urcarea și coborârea din mașină.",
+              "Parcările din Clifton Park pot fi noroioase pe ploaie.",
+              "Roche Abbey este atmosferică pe ploaie, dar neprotejată."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the country roads near Wentworth.",
+              "Umbrellas are essential for getting in and out of the car.",
+              "Parking areas at Clifton Park can get muddy during heavy rain.",
+              "Roche Abbey is atmospheric in the rain but offers no shelter."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die winterliche Fahrt durch South Yorkshire. Wentworth Woodhouse strahlt in der tiefstehenden Sonne eine besondere Eleganz aus. Nach einem kurzen Halt an der Roche Abbey wärmen Sie sich im Minster auf. Die Parkbesuche in Clifton und Rother Valley sind kurz, aber erfrischend, bevor Sie die Sitzheizung wieder aktivieren und den frostigen Tag Revue passieren lassen.",
+            "hu": "Élvezze a téli autózást South Yorkshire-ben. Wentworth Woodhouse különleges eleganciát áraszt az alacsonyan járó napfényben. Egy rövid Roche apátsági megálló után a Minsterben melegedhetünk fel. A Clifton és Rother Valley parki látogatások rövidek, de frissítőek, mielőtt újra bekapcsolnánk az ülésfűtést.",
+            "ro": "Bucurați-vă de drumul de iarnă prin South Yorkshire. Wentworth Woodhouse emană o eleganță aparte sub soarele palid. După o scurtă oprire la Roche Abbey, încălziți-vă la Minster. Vizitele în parcurile Clifton și Rother Valley sunt scurte, dar revigorante, înainte de a reactiva încălzirea în scaune.",
+            "en": "Enjoy the winter drive through South Yorkshire. Wentworth Woodhouse exudes a special elegance in the low winter sun. After a short stop at Roche Abbey, warm up at the Minster. The park visits to Clifton and Rother Valley are brief but refreshing before you turn the seat heaters back on and reflect on the day."
+          },
+          "stops": [
+            {
+              "name": "Wentworth Woodhouse",
+              "tip_5lang": {
+                "de": "Prüfen Sie die winterlichen Öffnungszeiten der Gärten.",
+                "hu": "Ellenőrizze a kertek téli nyitvatartási idejét.",
+                "ro": "Verificați programul de iarnă pentru grădini.",
+                "en": "Check the winter opening hours for the gardens."
+              }
+            },
+            {
+              "name": "Keppel's Column",
+              "tip_5lang": {
+                "de": "Vorsicht beim Parken auf gefrorenem Untergrund am Straßenrand.",
+                "hu": "Vigyázat az útmenti parkolással a fagyott talajon.",
+                "ro": "Atenție la parcarea pe teren înghețat la marginea drumului.",
+                "en": "Careful when parking on frozen ground at the roadside."
+              }
+            },
+            {
+              "name": "Roche Abbey",
+              "tip_5lang": {
+                "de": "Die Anlage schließt im Winter oft früher.",
+                "hu": "A romterület télen gyakran korábban bezár.",
+                "ro": "Situl se închide adesea mai devreme pe timpul iernii.",
+                "en": "The site often closes earlier during the winter months."
+              }
+            },
+            {
+              "name": "Rotherham Minster",
+              "tip_5lang": {
+                "de": "Genießen Sie die festliche Beleuchtung am späten Nachmittag.",
+                "hu": "Élvezze az ünnepi kivilágítást a késő délutáni órákban.",
+                "ro": "Bucurați-vă de iluminatul festiv după-amiaza târziu.",
+                "en": "Enjoy the festive lighting in the late afternoon."
+              }
+            },
+            {
+              "name": "Clifton Park",
+              "tip_5lang": {
+                "de": "Hinterlassen Sie keine Wertsachen im geparkten Auto.",
+                "hu": "Ne hagyjon értéktárgyat a parkoló autóban.",
+                "ro": "Nu lăsați obiecte de valoare în mașina parcată.",
+                "en": "Do not leave valuables in your parked car."
+              }
+            },
+            {
+              "name": "Clifton Park Museum",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort, um der Kälte für eine Stunde zu entfliehen.",
+                "hu": "Hangulatos hely, hogy egy órára elmeneküljünk a hideg elől.",
+                "ro": "Un loc primitor pentru a scăpa de frig timp de o oră.",
+                "en": "A cozy place to escape the cold for an hour."
+              }
+            },
+            {
+              "name": "Rother Valley Country Park",
+              "tip_5lang": {
+                "de": "Die Parkplätze leeren sich bei Sonnenuntergang schnell.",
+                "hu": "A parkolók gyorsan kiürülnek naplemente után.",
+                "ro": "Parcările se golesc rapid după apusul soarelui.",
+                "en": "The car parks empty quickly as soon as the sun sets."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Die Nebenstraßen zu Wentworth können glatt sein.",
+              "Parkhäuser im Zentrum sind im Winter oft wärmer als Außenplätze.",
+              "Achten Sie auf Wildwechsel in der Dämmerung bei Roche Abbey."
+            ],
+            "hu": [
+              "Töltsön fagyállót a szélvédőmosó tartályba.",
+              "A Wentworth felé vezető mellékutak csúszósak lehetnek.",
+              "A központi parkolóházak télen melegebbek a kültéri helyeknél.",
+              "Vigyázzon a vadakra a szürkületben Roche apátság környékén."
+            ],
+            "ro": [
+              "Puneți lichid de parbriz rezistent la îngheț.",
+              "Drumurile secundare spre Wentworth pot fi alunecoase.",
+              "Parcările etajate din centru sunt mai calde decât cele exterioare.",
+              "Atenție la animalele sălbatice la amurg lângă Roche Abbey."
+            ],
+            "en": [
+              "Ensure you have anti-freeze in your screenwash.",
+              "The back roads to Wentworth can be slippery in winter.",
+              "Multi-story car parks are often warmer than outdoor lots.",
+              "Watch for deer and wildlife at dusk near Roche Abbey."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1395,6 +1941,170 @@
           "Be prepared for potential delays and plan some buffer time.",
           "Check the last bus route back from outlying locations like Rother Valley."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel bringen Sie heute trocken ans Ziel. Nach dem Minster im Zentrum nutzen Sie den Bus zum Clifton Park Museum. Die Fahrt zum Magna Science Centre mit der Tram-Train ist ein Erlebnis für sich und hält Sie warm. Den Tag beenden Sie am Rother Valley Park, wobei die Wartezeiten an den Bushaltestellen durch Überdachungen überbrückt werden können.",
+            "hu": "A tömegközlekedés ma szárazon juttat el a célpontokhoz. A központi Minster után busszal megyünk a Clifton Park Múzeumhoz. A Magna központba tartó Tram-Train utazás önmagában is élmény, és melegen tart. A napot a Rother Valley-nél zárjuk, az eső ellen pedig a fedett buszmegállók nyújtanak védelmet a várakozás közben.",
+            "ro": "Transportul public vă duce astăzi la destinație fără să vă udați prea tare. După Minster, luați autobuzul spre muzeul Clifton Park. Călătoria spre Magna cu Tram-Train este o experiență în sine și vă ține la căldură. Ziua se încheie la Rother Valley Park, unde stațiile de autobuz acoperite vă protejează în timpul așteptării.",
+            "en": "Public transport keeps you dry while moving between sights today. After visiting the Minster, hop on a bus to Clifton Park Museum. The Tram-Train ride to Magna Science Centre is an experience in itself and keeps you warm. Finish the day at Rother Valley Park, using sheltered bus stops to stay dry while waiting for your connections."
+          },
+          "stops": [
+            {
+              "name": "Rotherham Minster",
+              "tip_5lang": {
+                "de": "Zentraler Knotenpunkt, viele Busse starten hier.",
+                "hu": "Központi csomópont, számos buszjárat indul innen.",
+                "ro": "Nod central de transport, multe autobuze pleacă de aici.",
+                "en": "Central hub, many bus routes start nearby."
+              }
+            },
+            {
+              "name": "Clifton Park",
+              "tip_5lang": {
+                "de": "Bushaltestellen befinden sich direkt an den Parkeingängen.",
+                "hu": "A buszmegállók közvetlenül a park bejáratainál vannak.",
+                "ro": "Stațiile de autobuz sunt chiar la intrările în parc.",
+                "en": "Bus stops are located right at the park entrances."
+              }
+            },
+            {
+              "name": "Clifton Park Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Bus-App im Warmen zu prüfen.",
+                "hu": "Ideális hely a menetrend ellenőrzésére a melegben.",
+                "ro": "Loc ideal pentru a verifica aplicația de transport la căldură.",
+                "en": "Ideal place to check the bus app while staying warm."
+              }
+            },
+            {
+              "name": "Magna Science Adventure Centre",
+              "tip_5lang": {
+                "de": "Die Tram-Train Haltestelle ist nur einen kurzen Fußweg entfernt.",
+                "hu": "A Tram-Train megállója csak egy rövid sétára van.",
+                "ro": "Stația de Tram-Train este la doar o scurtă plimbare.",
+                "en": "The Tram-Train stop is just a short walk away."
+              }
+            },
+            {
+              "name": "Rother Valley Country Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie die letzte Rückfahrt, da diese seltener sein kann.",
+                "hu": "Ellenőrizze az utolsó járatot, mert esőben ritkább lehet.",
+                "ro": "Verificați ultima cursă de întoarcere, poate fi mai rară.",
+                "en": "Check the last return bus as services can be less frequent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Travel South Yorkshire App für Echtzeitdaten.",
+              "Die Tram-Train Verbindung ist ideal für Regentage.",
+              "Kaufen Sie ein Tagesticket für unbegrenzte Fahrten.",
+              "Halten Sie Kleingeld oder eine Kontaktlos-Karte bereit."
+            ],
+            "hu": [
+              "Használja a Travel South Yorkshire alkalmazást a valós idejű adatokhoz.",
+              "A Tram-Train kapcsolat ideális esős napokon.",
+              "Vásároljon napijegyet a korlátlan utazáshoz.",
+              "Készítsen elő aprópénzt vagy érintésmentes kártyát."
+            ],
+            "ro": [
+              "Folosiți aplicația Travel South Yorkshire pentru date în timp real.",
+              "Conexiunea Tram-Train este ideală pentru zilele ploioase.",
+              "Cumpărați un bilet de o zi pentru călătorii nelimitate.",
+              "Aveți la îndemână mărunțiș sau un card contactless."
+            ],
+            "en": [
+              "Use the Travel South Yorkshire app for real-time bus info.",
+              "The Tram-Train link is perfect for rainy day travel.",
+              "Buy a Daytripper ticket for unlimited bus and tram use.",
+              "Keep a contactless card ready for easy fare payment."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterreisen mit Bus und Tram-Train bieten Komfort und Wärme. Der Tag beginnt im Minster, von wo aus Sie bequem zum Clifton Park gelangen. Das Museum bietet Schutz vor der Kälte. Am Nachmittag bringt Sie die Tram-Train schnell zum Magna Centre. Da es früh dunkel wird, ist die Rückfahrt vom Rother Valley Park am späten Nachmittag der gemütliche Abschluss des frostigen Tages.",
+            "hu": "A téli utazás busszal és Tram-Trainnel kényelmet és meleget nyújt. A nap a Minstertől indul, ahonnan könnyen elérhető a Clifton Park. A múzeum védelmet nyújt a hideg ellen. Délután a Tram-Train gyorsan elrepít a Magna központba. Mivel korán sötétedik, a Rother Valley Parkból való visszatérés a fagyos nap meghitt zárása.",
+            "ro": "Călătoria de iarnă cu autobuzul și Tram-Train oferă confort și căldură. Ziua începe la Minster, de unde ajungeți ușor la Clifton Park. Muzeul oferă adăpost împotriva gerului. După-amiaza, Tram-Train vă duce rapid la centrul Magna. Deoarece se întunecă devreme, întoarcerea de la Rother Valley este finalul primitor al zilei.",
+            "en": "Winter travel by bus and Tram-Train offers comfort and warmth. The day starts at the Minster, with easy connections to Clifton Park. The museum provides a haven from the biting cold. In the afternoon, the Tram-Train whisk you quickly to the Magna Centre. As darkness falls early, the return from Rother Valley Park is a cozy end to your frosty day out."
+          },
+          "stops": [
+            {
+              "name": "Rotherham Minster",
+              "tip_5lang": {
+                "de": "Warten Sie in der Nähe von Cafés auf Ihren Bus.",
+                "hu": "Várja a buszt a közeli kávézók környékén.",
+                "ro": "Așteptați autobuzul în apropierea cafenelelor.",
+                "en": "Wait for your bus near the nearby cafes to stay warm."
+              }
+            },
+            {
+              "name": "Clifton Park",
+              "tip_5lang": {
+                "de": "Die Wege zu den Haltestellen sind gut beleuchtet.",
+                "hu": "A megállókhoz vezető utak jól kivilágítottak.",
+                "ro": "Drumurile spre stații sunt bine iluminate.",
+                "en": "Paths to the bus stops are well-lit for early evenings."
+              }
+            },
+            {
+              "name": "Clifton Park Museum",
+              "tip_5lang": {
+                "de": "Der Museumseingang ist windgeschützt.",
+                "hu": "A múzeum bejárata szélvédett helyen található.",
+                "ro": "Intrarea în muzeu este protejată de vânt.",
+                "en": "The museum entrance is well-sheltered from the wind."
+              }
+            },
+            {
+              "name": "Magna Science Adventure Centre",
+              "tip_5lang": {
+                "de": "Die Tram-Train verkehrt regelmäßig und ist gut beheizt.",
+                "hu": "A Tram-Train rendszeresen jár és jól fűtött.",
+                "ro": "Tram-Train-ul circulă regulat și este bine încălzit.",
+                "en": "The Tram-Train runs frequently and is well-heated."
+              }
+            },
+            {
+              "name": "Rother Valley Country Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Winter-Fahrpläne am Wochenende.",
+                "hu": "Ügyeljen a téli menetrendre a hétvégéken.",
+                "ro": "Atenție la orarul de iarnă în weekend.",
+                "en": "Pay attention to winter timetables during weekends."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrzeuge sind im Winter meist gut beheizt.",
+              "Planen Sie Pufferzeiten ein, da Frost den Verkehr bremsen kann.",
+              "Die Tram-Train ist eine zuverlässige Option bei Glätte.",
+              "Nutzen Sie die Wartezeiten für ein heißes Getränk to-go."
+            ],
+            "hu": [
+              "A járművek télen általában jól fűtöttek.",
+              "Számoljon rá plusz időt, mert a fagy lassíthatja a forgalmat.",
+              "A Tram-Train megbízható opció jegesedés esetén is.",
+              "Használja ki a várakozási időt egy forró elviteles italra."
+            ],
+            "ro": [
+              "Vehiculele sunt de obicei bine încălzite iarna.",
+              "Planificați timp suplimentar, înghețul poate încetini traficul.",
+              "Tram-Train-ul este o opțiune fiabilă în caz de polei.",
+              "Folosiți timpii de așteptare pentru o băutură caldă la pachet."
+            ],
+            "en": [
+              "Public transport vehicles are usually well-heated in winter.",
+              "Allow extra time as frost can sometimes delay bus services.",
+              "The Tram-Train is a reliable option even in icy conditions.",
+              "Use waiting times to grab a hot drink to-go from nearby shops."
+            ]
+          }
+        }
       }
     }
   }

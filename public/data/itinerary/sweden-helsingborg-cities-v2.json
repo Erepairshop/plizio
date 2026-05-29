@@ -339,6 +339,206 @@
           "A reusable water bottle is useful as there are public fountains.",
           "Keep an eye on the ferry schedules; it's fun to watch the large ships come and go."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag am Henry Dunkers Plats unter dem Schutz der modernen Architektur. Vormittags bietet das Dunkers Kulturhus den perfekten Zufluchtsort vor dem Regen mit seinen Ausstellungen. Mittags führt ein kurzer Sprint zum Rådhuset und den Terrasstrapporna. Den Nachmittag verbringen Sie im trockenen Inneren von Kärnan und der Marienkirche. Der Tag endet mit einem erfrischenden, windigen Spaziergang durch den Öresundsparken unter dem Regenschirm.",
+            "hu": "Kezdje a reggelt a Henry Dunkers Plats modern vonalai között, majd húzódjon be a Dunkers Kulturhus kiállításaihoz az eső elől. Délben gyors látogatás a Városházánál, a lépcsők ilyenkor csúszósak. Délután a Kärnan vaskos falai és a Mária-templom nyújt menedéket a csapadék elől. A napot egy szeles, esernyős séta zárja az Öresundsparken fái alatt, figyelve a tenger felől érkező hullámokat.",
+            "ro": "Începeți dimineața în Henry Dunkers Plats, profitând de adăpostul oferit de Dunkers Kulturhus pentru a explora expozițiile. La prânz, vizitați Primăria și scările monumentale, având grijă la treptele umede. După-amiaza este dedicată turnului Kärnan și Bisericii Sf. Maria, ambele oferind un interior uscat. Ziua se încheie cu o plimbare răcoroasă prin Öresundsparken, unde sunetul ploii completează atmosfera marină.",
+            "en": "Start your morning at Henry Dunkers Plats, quickly moving inside the Dunkers Kulturhus to stay dry while exploring the art. Midday involves a brief walk to the City Hall and the Terrace Stairs. Spend your afternoon inside the sturdy Kärnan tower and the serene St. Mary's Church. The day concludes with a brisk walk through Öresundsparken, where the coastal rain adds a dramatic touch to the Swedish landscape."
+          },
+          "stops": [
+            {
+              "name": "Henry Dunkers Plats",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche des Kulturhauses als Regenschutz.",
+                "hu": "Használja a kulturális központ tetőit menedékként az eső elől.",
+                "ro": "Folosiți zonele acoperite ale centrului cultural ca adăpost.",
+                "en": "Use the covered areas of the culture house to stay dry."
+              }
+            },
+            {
+              "name": "Dunkers Kulturhus",
+              "tip_5lang": {
+                "de": "Idealer Ort für regnerische Vormittage; Garderobe für nasse Mäntel vorhanden.",
+                "hu": "Tökéletes hely esős délelőttökre; van ruhatár a vizes kabátoknak.",
+                "ro": "Loc ideal pentru diminețile ploioase; garderobă disponibilă pentru haine.",
+                "en": "Perfect spot for rainy mornings; cloakroom available for wet coats."
+              }
+            },
+            {
+              "name": "City Hall (Rådhuset)",
+              "tip_5lang": {
+                "de": "Die Backsteinfassade leuchtet bei Regen besonders intensiv rot.",
+                "hu": "A téglafalak színe esőben még élénkebb vörösben pompázik.",
+                "ro": "Fațada de cărămidă capătă o nuanță roșie intensă pe timp de ploaie.",
+                "en": "The brick facade turns a deep, vibrant red in the rain."
+              }
+            },
+            {
+              "name": "The Terrace Stairs (Terrasstrapporna)",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steinstufen können bei Nässe extrem rutschig sein.",
+                "hu": "Vigyázat, a kőlépcsők nedvesen rendkívül csúszósak lehetnek.",
+                "ro": "Atenție, treptele de piatră pot fi extrem de alunecoase când sunt ude.",
+                "en": "Be careful, the stone steps can be extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Kärnan",
+              "tip_5lang": {
+                "de": "Im Inneren des Turms bleiben Sie trocken; tolle Aussicht trotz Wolken.",
+                "hu": "A torony belsejében szárazon maradhat; a kilátás felhős időben is pazar.",
+                "ro": "Rămâneți uscat în interiorul turnului; vedere excelentă chiar și cu nori.",
+                "en": "Stay dry inside the tower; the view remains great despite the clouds."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, warmer Ort, um das Ende des Regenschauers abzuwarten.",
+                "hu": "Csendes, meleg hely az eső elől való behúzódásra.",
+                "ro": "Un loc liniștit și cald pentru a aștepta oprirea ploii.",
+                "en": "A quiet, warm place to wait out a heavy rain shower."
+              }
+            },
+            {
+              "name": "Öresundsparken",
+              "tip_5lang": {
+                "de": "Bäume bieten etwas Schutz; genießen Sie den Duft nach dem Regen.",
+                "hu": "A fák adnak némi védelmet; élvezze az eső utáni friss illatot.",
+                "ro": "Copacii oferă protecție; bucurați-vă de mirosul proaspăt de după ploaie.",
+                "en": "Trees provide some cover; enjoy the fresh petrichor scent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Helsingborg ist windig, ein stabiler Regenschirm oder ein Regenponcho ist Pflicht.",
+              "Das Dunkers Kulturhus ist die beste Option, um längere Regenphasen trocken zu überbrücken.",
+              "Nutzen Sie die vielen Cafés in der Kullagatan für eine Kaffeepause im Trockenen.",
+              "Vermeiden Sie die Terrassentreppen bei Starkregen, nutzen Sie stattdessen den Aufzug."
+            ],
+            "hu": [
+              "Helsingborg szeles, így egy stabil esernyő vagy esőponcsó elengedhetetlen.",
+              "A Dunkers Kulturhus a legjobb hely az elhúzódó eső kivárására.",
+              "A Kullagatan kávézói kiválóak egy száraz szünetre a séta közben.",
+              "Heves esőben kerülje a lépcsőket, használja a liftet a várhegyre."
+            ],
+            "ro": [
+              "Helsingborg este vântos, deci o umbrelă rezistentă sau o pelerină e necesară.",
+              "Dunkers Kulturhus este cea mai bună opțiune pentru a scăpa de ploaia prelungită.",
+              "Folosiți cafenelele de pe Kullagatan pentru o pauză uscată în timpul plimbării.",
+              "Evitați scările terasate în timpul ploii torențiale, folosiți liftul."
+            ],
+            "en": [
+              "Helsingborg is windy, so a sturdy umbrella or a rain poncho is essential.",
+              "Dunkers Kulturhus is your best bet for staying dry during long periods of rain.",
+              "Take advantage of the many cafes on Kullagatan for a dry coffee break.",
+              "Avoid the terrace stairs during heavy rain; use the nearby elevator instead."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Helsingborg im Winterlicht. Morgens glitzert der Henry Dunkers Plats oft im Frost. Im Kulturhus wärmen Sie sich auf, bevor Sie mittags das beleuchtete Rådhuset besuchen. Der Aufstieg zu Kärnan bietet im frühen Sonnenuntergang gegen 15:30 Uhr ein magisches Panorama. Nachmittags spendet die Marienkirche Kerzenwärme. Der Tag endet im Öresundsparken, wo die Winterbeleuchtung für nordische Gemütlichkeit sorgt.",
+            "hu": "Fedezze fel Helsingborgot téli fényekben. Reggel a Henry Dunkers Plats gyakran zúzmarás, a Kulturhus pedig meleg menedéket ad. Délben csodálja meg a kivilágított Városházát, majd délután a Kärnan toronyból nézze meg a korai, fél 4-es naplementét. A Mária-templom belső békéje után a napot az Öresundsparken karácsonyi fényei zárják a friss, hideg tengeri levegőn.",
+            "ro": "Experimentați Helsingborg în lumina iernii. Dimineața, piața Henry Dunkers este adesea acoperită de brumă. Încălziți-vă în centrul cultural înainte de a vedea Primăria iluminată la prânz. Turnul Kärnan oferă o panoramă magică la apusul devreme, în jurul orei 15:30. Vizitați Biserica Sf. Maria pentru liniște, apoi încheiați ziua în Öresundsparken printre decorațiunile de iarnă.",
+            "en": "Experience Helsingborg in the crisp winter light. Morning starts at a frosty Henry Dunkers Plats, followed by warmth inside the Culture House. Midday features the illuminated City Hall, while the Kärnan tower offers a magical panoramic view of the early sunset around 3:30 PM. Visit St. Mary's Church for cozy reflection, finishing the day in Öresundsparken under the charming Nordic winter lights."
+          },
+          "stops": [
+            {
+              "name": "Henry Dunkers Plats",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den weiten Pflasterflächen am Hafen.",
+                "hu": "Vigyázzon a jégre a kikötő melletti széles térburkolaton.",
+                "ro": "Atenție la polei pe suprafețele pavate din zona portului.",
+                "en": "Watch out for black ice on the wide paved areas near the harbor."
+              }
+            },
+            {
+              "name": "Dunkers Kulturhus",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Bistro mit einer heißen Schokolade auf.",
+                "hu": "Melegedjen fel a bisztróban egy forró csokoládéval.",
+                "ro": "Încălziți-vă în bistro cu o ciocolată caldă savuroasă.",
+                "en": "Warm up in the bistro with a delicious hot chocolate."
+              }
+            },
+            {
+              "name": "City Hall (Rådhuset)",
+              "tip_5lang": {
+                "de": "Die Winterbeleuchtung verleiht dem Gebäude ein märchenhaftes Aussehen.",
+                "hu": "A téli díszkivilágítás mesebeli megjelenést kölcsönöz az épületnek.",
+                "ro": "Iluminatul de iarnă oferă clădirii un aspect de poveste.",
+                "en": "The winter lights give the building a fairytale appearance."
+              }
+            },
+            {
+              "name": "The Terrace Stairs (Terrasstrapporna)",
+              "tip_5lang": {
+                "de": "Im Winter oft geräumt, aber Vorsicht vor gefrierender Nässe.",
+                "hu": "Télen takarítják, de vigyázzon a visszafagyó nedvességre.",
+                "ro": "Curățate iarna, dar atenție la umezeala care poate îngheța.",
+                "en": "Usually cleared in winter, but watch for freezing moisture."
+              }
+            },
+            {
+              "name": "Kärnan",
+              "tip_5lang": {
+                "de": "Der Wind oben ist eisig; Mütze und Handschuhe sind zwingend.",
+                "hu": "A szél odafent jeges; sapka és kesztyű kötelező.",
+                "ro": "Vântul sus este înghețat; căciula și mănușile sunt obligatorii.",
+                "en": "The wind at the top is icy; hat and gloves are mandatory."
+              }
+            },
+            {
+              "name": "St. Mary's Church",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und Wärme in der kalten Mittagszeit.",
+                "hu": "A csend és a meleg szigete a hideg déli órákban.",
+                "ro": "O oază de liniște și căldură în orele reci de prânz.",
+                "en": "A place of silence and warmth during the cold midday hours."
+              }
+            },
+            {
+              "name": "Öresundsparken",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das winterliche Dänemark gegenüber.",
+                "hu": "Élvezze a kilátást a téli Dánia partjaira a túloldalon.",
+                "ro": "Bucurați-vă de vederea spre Danemarca înghețată de vis-à-vis.",
+                "en": "Enjoy the view of wintery Denmark across the sound."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 15:30 Uhr unter.",
+              "Schichten Sie Ihre Kleidung; der Wind vom Öresund verstärkt die Kälte.",
+              "Suchen Sie nach 'Fika'-Schildern für gemütliche Aufwärmpausen.",
+              "Tragen Sie Schuhe mit gutem Profil wegen möglicher Glätte."
+            ],
+            "hu": [
+              "A nap decemberben már délután fél 4 körül lemegy.",
+              "Öltözzön rétegesen; az Öresund felől fújó szél fokozza a hideget.",
+              "Keresse a 'Fika' feliratú helyeket egy hangulatos melegedéshez.",
+              "Viseljen jó tapadású cipőt az esetleges jegesedés miatt."
+            ],
+            "ro": [
+              "Soarele apune în decembrie deja în jurul orei 15:30.",
+              "Îmbrăcați-vă în straturi; vântul de pe Öresund intensifică frigul.",
+              "Căutați semnele 'Fika' pentru pauze calde și primitoare.",
+              "Purtați încălțăminte cu talpă aderentă pentru zonele cu gheață."
+            ],
+            "en": [
+              "The sun sets as early as 3:30 PM in December.",
+              "Dress in layers; the wind from the Öresund makes it feel much colder.",
+              "Look for 'Fika' spots for a cozy break and to warm up.",
+              "Wear shoes with good grip due to potential icy patches."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -649,6 +849,188 @@
           "A helmet is recommended but not legally required.",
           "Many places have bike racks, but always lock your bike securely."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie trotz Regen durch Helsingborg. Morgens besuchen Sie das Rådhuset und Kärnan, wobei Sie auf nassen Asphalt achten. Mittags geht es zum Fredriksdal-Museum, wo die alten Häuser Schutz bieten. Der Nachmittag führt zum Sofiero Palace; die Gärten wirken im Regen fast mystisch. Den Tag beenden Sie am Tropical Beach – ein dramatischer Anblick bei grauem Wetter – bevor Sie zum Kulturhus zurückkehren.",
+            "hu": "Biciklizzen az eső ellenére is Helsingborgban. Reggel nézze meg a Városházát és a Kärnan-t, ügyelve a vizes aszfaltra. Délben irány a Fredriksdal múzeum, ahol a régi házak között talál menedéket. Délután a Sofiero kastély kertjei az esőben misztikus arcukat mutatják. A napot a Tropical Beach zárja – drámai látvány szürke időben –, majd tekerjen vissza a Kulturhus-hoz.",
+            "ro": "Mergeți cu bicicleta prin Helsingborg în ciuda ploii. Dimineața vizitați Primăria și Kärnan, cu atenție la asfaltul ud. La prânz, mergeți la Fredriksdal, unde casele vechi oferă adăpost. După-amiaza este pentru Castelul Sofiero; grădinile par mistice în ploaie. Încheiați la Tropical Beach, cu un peisaj dramatic, înainte de a reveni la centrul cultural.",
+            "en": "Cycle through Helsingborg despite the rain. Morning visits include the City Hall and Kärnan, with extra care on wet surfaces. Midday is spent at Fredriksdal Museum, where historic buildings offer cover. Your afternoon ride leads to Sofiero Palace; the gardens look mystical in the rain. End the day at Tropical Beach for a dramatic gray view before cycling back to the Culture House."
+          },
+          "stops": [
+            {
+              "name": "City Hall (Rådhuset)",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an den überdachten Ständern nahe dem Haupteingang.",
+                "hu": "Parkoljon a fedett tárolóknál a főbejárat közelében.",
+                "ro": "Parcați bicicleta la suporturile acoperite de lângă intrare.",
+                "en": "Park your bike at the covered racks near the main entrance."
+              }
+            },
+            {
+              "name": "Kärnan",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen; das Kopfsteinpflaster ist bei Nässe glatt.",
+                "hu": "Vigyázzon a leszálláskor; a macskakő nedvesen csúszik.",
+                "ro": "Atenție la coborâre; pavajul este alunecos când e ud.",
+                "en": "Careful when dismounting; the cobblestones are slick when wet."
+              }
+            },
+            {
+              "name": "Fredriksdal Museums and Gardens",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad ab und erkunden Sie die Innenräume der Museen.",
+                "hu": "Tegye le a biciklit és fedezze fel a múzeum belső tereit.",
+                "ro": "Lăsați bicicleta și explorați interioarele muzeelor.",
+                "en": "Leave your bike and explore the museum's indoor exhibits."
+              }
+            },
+            {
+              "name": "Sofiero Palace",
+              "tip_5lang": {
+                "de": "Das Schloss bietet Schutz vor Schauern; der Shop ist gut geheizt.",
+                "hu": "A kastély védelmet nyújt a záporok elől; a bolt jól fűtött.",
+                "ro": "Castelul oferă adăpost; magazinul este bine încălzit.",
+                "en": "The palace offers shelter; the gift shop is well heated."
+              }
+            },
+            {
+              "name": "Tropical Beach",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos; der Sand ist bei Regen fest und gut befahrbar.",
+                "hu": "Gyors fotómegálló; a homok esőben kemény és jól járható.",
+                "ro": "Oprire scurtă pentru poze; nisipul ud este ferm pentru mers.",
+                "en": "Quick photo stop; wet sand is firm and easy to walk on."
+              }
+            },
+            {
+              "name": "Dunkers Kulturhus",
+              "tip_5lang": {
+                "de": "Trockener Endpunkt der Tour mit Fahrradparkplätzen direkt davor.",
+                "hu": "A túra száraz végpontja biciklitárolókkal közvetlenül előtte.",
+                "ro": "Punct final uscat cu parcări de biciclete chiar în față.",
+                "en": "Dry end point for your tour with bike racks right outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Kleidung; der Wind am Meer ist unberechenbar.",
+              "Vermeiden Sie abrupte Bremsmanöver auf markierten Radwegen (Rutschgefahr).",
+              "Ein Fahrrad-Regenponcho schützt auch die Beine vor Spritzwasser.",
+              "Die Route nach Sofiero ist bei Regen oft weniger befahren."
+            ],
+            "hu": [
+              "Viseljen vízálló ruhát; a tengerparti szél kiszámíthatatlan.",
+              "Kerülje a hirtelen fékezést a felfestett kerékpárutakon (csúszásveszély).",
+              "Egy kerékpáros esőponcsó a lábakat is védi a felverődő víztől.",
+              "A Sofiero felé vezető út esőben gyakran kevésbé zsúfolt."
+            ],
+            "ro": [
+              "Purtați haine impermeabile; vântul de pe coastă este imprevizibil.",
+              "Evitați frânarea bruscă pe pistele marcate (risc de derapare).",
+              "O pelerină de bicicletă protejează și picioarele de stropi.",
+              "Ruta spre Sofiero este adesea mai liberă pe timp de ploaie."
+            ],
+            "en": [
+              "Wear waterproof gear; the coastal wind is unpredictable.",
+              "Avoid sudden braking on painted bike lanes (slip hazard).",
+              "A cycling rain poncho also protects your legs from splashes.",
+              "The route to Sofiero is often less crowded during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour erfordert warme Kleidung. Morgens führt der Weg vom Rådhuset zum Kärnan-Turm durch die klare Luft. Mittags erreichen Sie Fredriksdal, wo die schneebedeckten historischen Gärten eine stille Atmosphäre schaffen. Der Nachmittag am Sofiero Palace bietet winterliche Parkansichten. Über den Tropical Beach radeln Sie zurück zum Dunkers Kulturhus, während die Stadtlichter im Frost funkeln.",
+            "hu": "A téli biciklitúra meleg öltözetet igényel. Reggel a Városházától a Kärnan toronyig tekerjen a friss levegőn. Délben érje el Fredriksdalt, ahol a hófedte történelmi kertek csendes hangulatot árasztanak. Délután a Sofiero kastély téli parkja várja. A Tropical Beach érintésével tekerjen vissza a Dunkers Kulturhus-hoz, miközben a város fényei csillognak a zúzmarában.",
+            "ro": "O tură de iarnă cu bicicleta necesită haine groase. Dimineața, drumul de la Primărie la Kärnan trece prin aerul curat. La prânz ajungeți la Fredriksdal, unde grădinile înzăpezite oferă o atmosferă liniștită. După-amiaza la Sofiero oferă vederi de iarnă superbe. Pedalați spre Tropical Beach și reveniți la Dunkers Kulturhus sub luminile orașului.",
+            "en": "A winter bike tour requires warm layers. Morning starts with a ride from the City Hall to Kärnan through the crisp air. By midday, reach Fredriksdal, where snow-covered historic gardens create a silent atmosphere. Afternoon at Sofiero Palace offers winter park views. Cycle past Tropical Beach back to Dunkers Kulturhus as city lights sparkle in the frost."
+          },
+          "stops": [
+            {
+              "name": "City Hall (Rådhuset)",
+              "tip_5lang": {
+                "de": "Beginnen Sie hier; das Gebäude ist im Winter morgens oft beleuchtet.",
+                "hu": "Itt kezdjen; az épület téli reggeleken gyakran ki van világítva.",
+                "ro": "Începeți aici; clădirea este adesea iluminată dimineața.",
+                "en": "Start here; the building is often illuminated on winter mornings."
+              }
+            },
+            {
+              "name": "Kärnan",
+              "tip_5lang": {
+                "de": "Kurze Pause; nutzen Sie die Aussicht, bevor die Finger kalt werden.",
+                "hu": "Rövid szünet; élvezze a kilátást, mielőtt átfagynának az ujjai.",
+                "ro": "Pauză scurtă; admirați vederea înainte să vă înghețe mâinile.",
+                "en": "Quick break; enjoy the view before your fingers get cold."
+              }
+            },
+            {
+              "name": "Fredriksdal Museums and Gardens",
+              "tip_5lang": {
+                "de": "Im Winter sind die alten Werkstätten oft besonders gemütlich.",
+                "hu": "Télen a régi műhelyek gyakran különösen hangulatosak.",
+                "ro": "Iarna, vechile ateliere sunt adesea foarte primitoare.",
+                "en": "In winter, the old workshops are often especially cozy."
+              }
+            },
+            {
+              "name": "Sofiero Palace",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Schlossmuseum für eine Pause im Warmen.",
+                "hu": "Látogasson el a kastélymúzeumba egy meleg pihenőre.",
+                "ro": "Vizitați muzeul castelului pentru o pauză la căldură.",
+                "en": "Visit the palace museum for a warm break indoors."
+              }
+            },
+            {
+              "name": "Tropical Beach",
+              "tip_5lang": {
+                "de": "Ein einsamer Ort im Winter; perfekt für stimmungsvolle Fotos.",
+                "hu": "Magányos hely télen; tökéletes hangulatos fotókhoz.",
+                "ro": "Un loc solitar iarna; perfect pentru fotografii de atmosferă.",
+                "en": "A lonely spot in winter; perfect for atmospheric photos."
+              }
+            },
+            {
+              "name": "Dunkers Kulturhus",
+              "tip_5lang": {
+                "de": "Schließen Sie die Tour hier ab und wärmen Sie sich auf.",
+                "hu": "Zárja itt a túrát és melegedjen fel a belső térben.",
+                "ro": "Încheiați turul aici și încălziți-vă în interior.",
+                "en": "Finish your tour here and warm up in the indoor exhibits."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck; kalte Luft verringert ihn.",
+              "Tragen Sie Handschuhe und eine Mütze unter dem Helm.",
+              "Achten Sie auf Streusalz; reinigen Sie Ihr Rad nach der Tour.",
+              "Beleuchtung ist ab 15:00 Uhr gesetzlich und praktisch Pflicht."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást; a hideg levegő csökkenti azt.",
+              "Viseljen kesztyűt és sisak alá való sapkát.",
+              "Ügyeljen az útszóró sóra; a túra után tisztítsa le a biciklit.",
+              "A világítás délután 3-tól kötelező és elengedhetetlen."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri; aerul rece o scade.",
+              "Purtați mănuși și o căciulă sub cască.",
+              "Atenție la sarea de pe drum; curățați bicicleta după tură.",
+              "Luminile sunt obligatorii și necesare începând cu ora 15:00."
+            ],
+            "en": [
+              "Check your tire pressure; cold air reduces it.",
+              "Wear gloves and a thin cap under your helmet.",
+              "Watch out for road salt; clean your bike after the ride.",
+              "Bike lights are mandatory and essential from 3:00 PM."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -965,6 +1347,188 @@
           "Plan driving times outside of rush hours to avoid traffic.",
           "Be aware of environmental zones (Miljözon) in the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Helsingborg bei Regen am komfortabelsten. Morgens führt die Fahrt zum Sofiero Palace, dessen Parkplätze nah am Eingang liegen. Mittags besuchen Sie Fredriksdal, wo Sie zwischen den Gebäuden parken können. Nachmittags bietet der Parkplatz bei Kärnan schnellen Zugang zum Turm und dem Rådhuset. Den Tag beschließen Sie im Dunkers Kulturhus direkt am Hafen.",
+            "hu": "Autóval a legkényelmesebb Helsingborg felfedezése esőben. Reggel látogasson el a Sofiero kastélyhoz, ahol a parkolók közel vannak a bejárathoz. Délben irány Fredriksdal, ahol az épületek között parkolhat. Délután a Kärnan melletti parkoló gyors hozzáférést biztosít a toronyhoz és a Városházához. A napot a kikötőparti Dunkers Kulturhus-ban zárhatja.",
+            "ro": "Cu mașina, explorarea orașului Helsingborg pe ploaie este foarte confortabilă. Dimineața, mergeți la Castelul Sofiero, cu parcări aproape de intrare. La prânz vizitați Fredriksdal. După-amiaza, parcarea de lângă Kärnan oferă acces rapid la turn și Primărie. Încheiați ziua la Dunkers Kulturhus, situat chiar în port.",
+            "en": "Exploring Helsingborg by car is the most comfortable option in the rain. Start your morning at Sofiero Palace, with parking close to the entrance. Midday is spent at Fredriksdal, with convenient parking between exhibits. Afternoon parking near Kärnan allows quick access to the tower and City Hall. Conclude your day at Dunkers Kulturhus right by the harbor."
+          },
+          "stops": [
+            {
+              "name": "Sofiero Palace",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Hauptparkplatz; bei Regen ist oft viel frei.",
+                "hu": "Használja a főparkolót; esőben gyakran sok az üres hely.",
+                "ro": "Folosiți parcarea principală; pe ploaie e adesea liber.",
+                "en": "Use the main parking lot; it's often empty during rain."
+              }
+            },
+            {
+              "name": "Fredriksdal Museums and Gardens",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Haupteingang, um den Weg im Regen zu verkürzen.",
+                "hu": "Parkoljon a főbejárat közelében, hogy lerövidítse az utat az esőben.",
+                "ro": "Parcați aproape de intrare pentru a scurta drumul prin ploaie.",
+                "en": "Park near the main entrance to shorten your walk in the rain."
+              }
+            },
+            {
+              "name": "Parking at Kärnan",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz, idealer Ausgangspunkt für die Innenstadt.",
+                "hu": "Központi parkoló, ideális kiindulópont a belvároshoz.",
+                "ro": "Parcare centrală, punct de plecare ideal pentru centrul orașului.",
+                "en": "Central parking, ideal starting point for the city center."
+              }
+            },
+            {
+              "name": "Kärnan",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg vom Parkplatz; bleiben Sie im Turm trocken.",
+                "hu": "Csak rövid séta a parkolótól; maradjon szárazon a toronyban.",
+                "ro": "Doar o scurtă plimbare din parcare; rămâneți uscat în turn.",
+                "en": "Only a short walk from the parking lot; stay dry in the tower."
+              }
+            },
+            {
+              "name": "City Hall (Rådhuset)",
+              "tip_5lang": {
+                "de": "Kurzzeitparkplätze direkt davor für einen schnellen Fotostopp.",
+                "hu": "Rövid távú parkolók közvetlenül előtte egy gyors fotómegállóhoz.",
+                "ro": "Parcare pe termen scurt chiar în față pentru o oprire foto rapidă.",
+                "en": "Short-term parking right outside for a quick photo stop."
+              }
+            },
+            {
+              "name": "Dunkers Kulturhus",
+              "tip_5lang": {
+                "de": "Parkhaus unter dem Platz bietet direkten, trockenen Zugang.",
+                "hu": "A tér alatti parkolóház közvetlen, száraz feljutást biztosít.",
+                "ro": "Parcarea subterană oferă acces direct și uscat înăuntru.",
+                "en": "Underground parking offers direct, dry access to the building."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Pfützen in den tiefer gelegenen Straßen am Hafen.",
+              "Das Parken per App (z.B. EasyPark) ist in Schweden am einfachsten.",
+              "Verwenden Sie die Scheibenwischer-Intervallschaltung bei Nieselregen.",
+              "Die Parkhäuser in der Innenstadt sind bei Regen oft voll."
+            ],
+            "hu": [
+              "Ügyeljen a tócsákra a kikötő melletti mélyebben fekvő utcákban.",
+              "Svédországban az appos parkolás (pl. EasyPark) a legegyszerűbb.",
+              "Használja az ablaktörlő szakaszos üzemmódját szemerkélő esőben.",
+              "A belvárosi parkolóházak esőben gyakran hamar megtelnek."
+            ],
+            "ro": [
+              "Atenție la bălți pe străzile mai joase de lângă port.",
+              "Parcarea prin aplicație (ex. EasyPark) este cea mai simplă în Suedia.",
+              "Folosiți ștergătoarele pe modul intermitent în timpul burniței.",
+              "Parcările etajate din centru sunt adesea pline când plouă."
+            ],
+            "en": [
+              "Watch out for puddles on lower-lying streets near the harbor.",
+              "App-based parking (e.g., EasyPark) is the easiest way in Sweden.",
+              "Use intermittent wipers during the common light drizzle.",
+              "Indoor parking garages in the center fill up quickly in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Helsingborgs Winterzauber bequem im geheizten Auto. Morgens besuchen Sie den Sofiero Palace, wo der Frost den Garten in Weiß hüllt. Mittags erkunden Sie Fredriksdal, gefolgt von einem Stopp am Parkplatz Kärnan. Von dort sind es nur wenige Schritte zum Turm und dem festlich beleuchteten Rådhuset. Der Tag endet im Dunkers Kulturhus, während draußen der eisige Wind vom Öresund weht.",
+            "hu": "Élvezze Helsingborg téli varázsát kényelmesen a fűtött autóból. Reggel látogasson el a Sofiero kastélyhoz, ahol a zúzmara fehérbe öltözteti a kertet. Délben fedezze fel Fredriksdalt, majd álljon meg a Kärnan parkolójában. Innen csak pár lépés a torony és az ünnepi kivilágítású Városháza. A napot a Dunkers Kulturhus-ban zárja, miközben kint fúj az Öresund jeges szele.",
+            "ro": "Bucurați-vă de magia iernii în Helsingborg din mașina încălzită. Dimineața vizitați Castelul Sofiero, unde bruma albește grădina. La prânz explorați Fredriksdal, urmat de o oprire la parcarea Kärnan. De acolo sunt doar câțiva pași până la turn și Primăria iluminată festiv. Ziua se încheie la Dunkers Kulturhus, în timp ce afară suflă vântul înghețat.",
+            "en": "Enjoy Helsingborg's winter charm from the comfort of a heated car. Morning starts at Sofiero Palace, where frost blankets the gardens. Midday exploration at Fredriksdal is followed by parking near Kärnan. From there, it's a short walk to the tower and the festively lit City Hall. End your day at Dunkers Kulturhus while the icy Öresund wind blows outside."
+          },
+          "stops": [
+            {
+              "name": "Sofiero Palace",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Schnee glatt sein; vorsichtig rangieren.",
+                "hu": "A parkoló havas időben csúszós lehet; óvatosan manőverezzen.",
+                "ro": "Parcarea poate fi alunecoasă pe zăpadă; manevrați cu grijă.",
+                "en": "The parking lot can be slippery in snow; maneuver carefully."
+              }
+            },
+            {
+              "name": "Fredriksdal Museums and Gardens",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Laden für lokale Winterprodukte.",
+                "hu": "Látogasson el a boltba helyi téli termékekért.",
+                "ro": "Vizitați magazinul pentru produse locale de iarnă.",
+                "en": "Visit the shop for local winter crafts and products."
+              }
+            },
+            {
+              "name": "Parking at Kärnan",
+              "tip_5lang": {
+                "de": "Vom Auto direkt in den Aufzug zur Terrasse – ideal bei Kälte.",
+                "hu": "Az autóból közvetlenül a liftbe a teraszhoz – ideális hidegben.",
+                "ro": "Din mașină direct în lift spre terasă – ideal pe frig.",
+                "en": "From the car straight to the elevator – ideal for the cold."
+              }
+            },
+            {
+              "name": "Kärnan",
+              "tip_5lang": {
+                "de": "Der Turm ist im Winter oft weniger besucht; genießen Sie die Ruhe.",
+                "hu": "A torony télen kevésbé zsúfolt; élvezze a nyugalmat.",
+                "ro": "Turnul este mai puțin vizitat iarna; bucurați-vă de liniște.",
+                "en": "The tower is less crowded in winter; enjoy the peace."
+              }
+            },
+            {
+              "name": "City Hall (Rådhuset)",
+              "tip_5lang": {
+                "de": "Bester Blick auf die Weihnachtsbeleuchtung vom Auto aus.",
+                "hu": "A legjobb kilátás a karácsonyi fényekre az autóból.",
+                "ro": "Cea mai bună vedere a luminilor de Crăciun din mașină.",
+                "en": "Best view of the Christmas lights from your car window."
+              }
+            },
+            {
+              "name": "Dunkers Kulturhus",
+              "tip_5lang": {
+                "de": "Sicherer Parkplatz im angrenzenden Parkhaus.",
+                "hu": "Biztonságos parkolás a szomszédos parkolóházban.",
+                "ro": "Parcare sigură în garajul adiacent.",
+                "en": "Safe and secure parking in the adjacent garage."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Schweden ab Dezember gesetzlich vorgeschrieben.",
+              "Halten Sie Enteiser-Spray und einen Eiskratzer bereit.",
+              "Achten Sie auf Wildwechsel in der Nähe von Sofiero bei Dämmerung.",
+              "Die Batteriekapazität sinkt bei starkem Frost; prüfen Sie den Ladezustand."
+            ],
+            "hu": [
+              "Svédországban decembertől kötelező a téli gumi használata.",
+              "Tartson az autóban jégoldó spray-t és jégkaparót.",
+              "Figyeljen a vadakra Sofiero környékén szürkületkor.",
+              "Az akkumulátor kapacitása csökken nagy fagyban; ellenőrizze a töltöttséget."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Suedia din decembrie.",
+              "Păstrați la îndemână un spray degivrant și o racletă.",
+              "Atenție la animalele sălbatice lângă Sofiero în amurg.",
+              "Capacitatea bateriei scade pe ger; verificați starea de încărcare."
+            ],
+            "en": [
+              "Winter tires are mandatory in Sweden starting in December.",
+              "Keep de-icer spray and an ice scraper handy in the car.",
+              "Watch for wildlife crossing near Sofiero during twilight.",
+              "Battery capacity drops in heavy frost; check your charge level."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1281,6 +1845,188 @@
           "Buses are punctual, so be at the stop on time.",
           "Most buses are cashless, so use the app or a credit card."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das hervorragende Busnetz Helsingborgs bei Regen. Starten Sie am Knutpunkten, dem zentralen Hub. Besuchen Sie das Rådhuset und Kärnan per Bus, um trocken zu bleiben. Mittags bringt Sie die Linie 1 direkt nach Fredriksdal. Nachmittags geht es im trockenen Kulturhus weiter, bevor Sie einen Blick auf den verregneten Tropical Beach werfen – alles bequem mit dem Ticket der Region Skåne.",
+            "hu": "Használja Helsingborg kiváló buszhálózatát az esőben. Kezdjen a Knutpunkten központi csomópontnál. Látogassa meg a Városházát és a Kärnan-t busszal, hogy száraz maradjon. Délben az 1-es busz közvetlenül Fredriksdalba viszi. Délután a száraz Kulturhus-ban folytassa, majd nézzen rá az esős Tropical Beachre – mindezt kényelmesen a Skånetrafiken jegyével.",
+            "ro": "Folosiți rețeaua excelentă de autobuze pe timp de ploaie. Începeți la Knutpunkten, hub-ul central. Vizitați Primăria și Kärnan cu autobuzul pentru a rămâne uscat. La prânz, linia 1 vă duce direct la Fredriksdal. După-amiaza continuați la centrul cultural, apoi vedeți Tropical Beach pe ploaie – totul comod cu biletul regional.",
+            "en": "Make the most of Helsingborg's excellent bus network in the rain. Start at Knutpunkten, the central transit hub. Visit the City Hall and Kärnan by bus to stay dry. Midday, bus line 1 takes you directly to Fredriksdal. Spend your afternoon in the dry Culture House before a quick look at rainy Tropical Beach, all easily accessible with a Skåne ticket."
+          },
+          "stops": [
+            {
+              "name": "Helsingborg Central Station (Knutpunkten)",
+              "tip_5lang": {
+                "de": "Überdachter Bahnhof mit vielen Geschäften und Cafés.",
+                "hu": "Fedett pályaudvar rengeteg üzlettel és kávézóval.",
+                "ro": "Gară acoperită cu multe magazine și cafenele.",
+                "en": "Covered station with many shops and cafes inside."
+              }
+            },
+            {
+              "name": "City Hall (Rådhuset)",
+              "tip_5lang": {
+                "de": "Busse halten fast direkt vor der Tür; minimale Zeit im Regen.",
+                "hu": "A buszok szinte az ajtó előtt állnak meg; kevés idő az esőben.",
+                "ro": "Autobuzele opresc chiar în față; timp minim în ploaie.",
+                "en": "Buses stop almost right outside; minimal time in the rain."
+              }
+            },
+            {
+              "name": "Kärnan",
+              "tip_5lang": {
+                "de": "Kurzer, steiler Weg von der Bushaltestelle; halten Sie sich an Geländern fest.",
+                "hu": "Rövid, meredek út a buszmegállótól; kapaszkodjon a korlátba.",
+                "ro": "Drum scurt și abrupt de la stație; folosiți balustradele.",
+                "en": "Short, steep walk from the bus stop; use the handrails."
+              }
+            },
+            {
+              "name": "Fredriksdal Museums and Gardens",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist direkt am Eingang; kaum Fußweg.",
+                "hu": "A buszmegálló közvetlenül a bejáratnál van; alig kell sétálni.",
+                "ro": "Stația de autobuz este chiar la intrare; mers minim pe jos.",
+                "en": "The bus stop is right at the entrance; very little walking."
+              }
+            },
+            {
+              "name": "Dunkers Kulturhus",
+              "tip_5lang": {
+                "de": "Vom Hafen aus schnell erreichbar; nutzen Sie den Windschutz.",
+                "hu": "A kikötő felől gyorsan elérhető; használja a szélvédett részeket.",
+                "ro": "Accesibil rapid din port; folosiți protecția contra vântului.",
+                "en": "Quickly accessible from the harbor; use the wind shelters."
+              }
+            },
+            {
+              "name": "Tropical Beach",
+              "tip_5lang": {
+                "de": "Bushaltestelle in Gehweite; ein kurzer Abstecher lohnt sich.",
+                "hu": "Buszmegálló sétatávolságra; egy rövid kitérőt megér.",
+                "ro": "Stație de autobuz la mică distanță; merită o scurtă vizită.",
+                "en": "Bus stop within walking distance; worth a quick detour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab in der Skånetrafiken-App; kein Barverkauf.",
+              "Busse sind bei Regen oft voll; planen Sie etwas Pufferzeit ein.",
+              "Nutzen Sie die Echtzeit-Anzeige in der App für pünktliches Umsteigen.",
+              "Die grünen Stadtbusse fahren in sehr dichten Takten."
+            ],
+            "hu": [
+              "Vegye meg a jegyet a Skånetrafiken appban; nincs készpénzes jegyvétel.",
+              "A buszok esőben zsúfoltak lehetnek; számoljon egy kis ráhagyással.",
+              "Használja az app valós idejű adatait a pontos átszálláshoz.",
+              "A zöld városi buszok nagyon gyakran közlekednek."
+            ],
+            "ro": [
+              "Cumpărați bilete din aplicația Skånetrafiken; nu se acceptă numerar.",
+              "Autobuzele sunt pline pe ploaie; planificați timp suplimentar.",
+              "Folosiți datele în timp real din aplicație pentru conexiuni.",
+              "Autobuzele verzi urbane circulă la intervale foarte dese."
+            ],
+            "en": [
+              "Buy tickets in the Skånetrafiken app; no cash accepted on board.",
+              "Buses can be crowded during rain; allow for some extra time.",
+              "Use the real-time info in the app for precise connections.",
+              "Green city buses run very frequently throughout the day."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Helsingborg mit den warmen Bussen. Starten Sie am gemütlichen Knutpunkten. Besuchen Sie das beleuchtete Rådhuset und den Kärnan-Turm. Mittags bringt Sie der Bus nach Fredriksdal, wo der Schnee die historischen Höfe verzaubert. Den Nachmittag verbringen Sie im Dunkers Kulturhus, bevor Sie zum stimmungsvollen Tropical Beach fahren, um die Lichter Dänemarks über dem Wasser zu sehen.",
+            "hu": "Fedezze fel a téli Helsingborgot meleg buszokkal. Kezdjen a barátságos Knutpunkten-nél. Látogassa meg a kivilágított Városházát és a Kärnan-t. Délben busszal menjen Fredriksdalba, ahol a hó elvarázsolja a történelmi udvarokat. Délután a Dunkers Kulturhus várja, majd látogasson el a hangulatos Tropical Beachre, hogy megcsodálja Dánia fényeit a vízen túl.",
+            "ro": "Explorați Helsingborgul de iarnă cu autobuzele călduroase. Începeți la primitoarea gară Knutpunkten. Vizitați Primăria iluminată și turnul Kärnan. La prânz, autobuzul vă duce la Fredriksdal, unde zăpada decorează curțile vechi. După-amiaza la Dunkers Kulturhus, urmată de o vizită la Tropical Beach pentru a vedea luminile Danemarcei peste apă.",
+            "en": "Explore wintery Helsingborg using the warm city buses. Start at the cozy Knutpunkten hub. Visit the lit-up City Hall and Kärnan tower. Midday, take the bus to Fredriksdal, where snow enchants the historic farmsteads. Spend your afternoon at Dunkers Kulturhus before heading to Tropical Beach to see the lights of Denmark across the sound."
+          },
+          "stops": [
+            {
+              "name": "Helsingborg Central Station (Knutpunkten)",
+              "tip_5lang": {
+                "de": "Bester Ort, um im Warmen auf den Anschlussbus zu warten.",
+                "hu": "A legjobb hely a csatlakozó buszra várni a melegben.",
+                "ro": "Cel mai bun loc pentru a aștepta autobuzul la căldură.",
+                "en": "Best place to wait for your connecting bus in the warmth."
+              }
+            },
+            {
+              "name": "City Hall (Rådhuset)",
+              "tip_5lang": {
+                "de": "Haltestelle direkt am Weihnachtsmarkt (saisonal).",
+                "hu": "A buszmegálló közvetlenül a karácsonyi vásárnál van (szezonális).",
+                "ro": "Stație de autobuz chiar lângă târgul de Crăciun (sezonier).",
+                "en": "Bus stop located right by the Christmas market (seasonal)."
+              }
+            },
+            {
+              "name": "Kärnan",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schnee auf dem Weg zum Turm-Eingang.",
+                "hu": "Vigyázzon a hóval a torony bejáratához vezető úton.",
+                "ro": "Atenție la zăpadă pe drumul spre intrarea în turn.",
+                "en": "Watch out for snow on the path to the tower entrance."
+              }
+            },
+            {
+              "name": "Fredriksdal Museums and Gardens",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten der einzelnen Gebäude.",
+                "hu": "Ellenőrizze az egyes épületek téli nyitvatartását.",
+                "ro": "Verificați programul de iarnă al clădirilor individuale.",
+                "en": "Check the winter opening hours for the individual buildings."
+              }
+            },
+            {
+              "name": "Dunkers Kulturhus",
+              "tip_5lang": {
+                "de": "Warmer Rückzugsort mit toller Aussicht auf den Hafen.",
+                "hu": "Meleg menedék pazar kilátással a kikötőre.",
+                "ro": "Refugiu călduros cu o vedere superbă spre port.",
+                "en": "Warm retreat with a great view of the icy harbor."
+              }
+            },
+            {
+              "name": "Tropical Beach",
+              "tip_5lang": {
+                "de": "Im Winter oft windig; Busse fahren regelmäßig zurück zum Zentrum.",
+                "hu": "Télen gyakran szeles; a buszok rendszeresen járnak vissza a központba.",
+                "ro": "Adesea vântos iarna; autobuzele revin regulat spre centru.",
+                "en": "Often windy in winter; buses return regularly to the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter gut geheizt und sehr pünktlich.",
+              "Nutzen Sie die App, um Wartezeiten an zugigen Haltestellen zu vermeiden.",
+              "Im Winter gibt es oft Sondershuttles zu Veranstaltungen.",
+              "Achten Sie auf eventuelle witterungsbedingte Fahrplanänderungen."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek és nagyon pontosak.",
+              "Használja az appot, hogy elkerülje a várakozást a huzatos megállókban.",
+              "Télen gyakran vannak különjáratok az ünnepi eseményekre.",
+              "Figyeljen az esetleges időjárás miatti menetrendi változásokra."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite iarna și foarte punctuale.",
+              "Folosiți aplicația pentru a evita așteptarea în stații cu curent.",
+              "Iarna există adesea curse speciale pentru evenimente festive.",
+              "Atenție la eventualele modificări de orar din cauza vremii."
+            ],
+            "en": [
+              "Buses are well-heated in winter and generally very punctual.",
+              "Use the app to minimize waiting times at draughty stops.",
+              "Look for special shuttles to holiday events in winter.",
+              "Watch for potential weather-related schedule adjustments."
+            ]
+          }
+        }
       }
     }
   }

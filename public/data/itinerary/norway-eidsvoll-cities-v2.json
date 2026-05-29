@@ -242,6 +242,170 @@
           "Wear comfortable shoes as you will be doing a lot of walking.",
           "Check the opening hours for Eidsvollsbygningen in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendlicher Besuch der Kirche unter regnerischem Himmel. Mittags bietet das Eidsvollsbygningen sicheren Schutz und historische Tiefe. Nachmittags ein kurzer Halt am Wergelandshaugen, bevor der Tag im trockenen Eidsvoll Verk endet. Ein feuchter, aber kulturell reicher Spaziergang durch die Wiege der norwegischen Verfassung.",
+            "hu": "Reggeli séta az esős Eidsvoll templomnál. Délben az Eidsvollsbygningen épülete nyújt menedéket a történelem falai között. Délután gyors megálló a Wergelandshaugen emlékműnél, majd az ipari örökséget bemutató Eidsvoll Verk belső terei zárják a napot. Az eső ellenére tartalmas, kulturális útvonal a Vorma partján.",
+            "ro": "Vizită matinală la biserică sub cerul ploios. La prânz, Eidsvollsbygningen oferă adăpost și o incursiune în istorie. După-amiaza, o oprire scurtă la monumentul Wergelandshaugen, urmată de spațiile interioare de la Eidsvoll Verk. Un traseu cultural dens, protejat de intemperii în punctele cheie.",
+            "en": "Morning visit to the church under rainy skies. At noon, Eidsvollsbygningen provides shelter and historical depth. Afternoon features a quick stop at Wergelandshaugen before ending the day at the indoor industrial heritage of Eidsvoll Verk. A damp but culturally rich walk through the cradle of Norway's constitution."
+          },
+          "stops": [
+            {
+              "name": "Eidsvoll Church",
+              "tip_5lang": {
+                "de": "Regenschirm am Kircheneingang bereitstellen.",
+                "hu": "Használja az esernyőtartót a bejáratnál.",
+                "ro": "Folosiți suportul de umbrele de la intrare.",
+                "en": "Use the umbrella stand at the entrance."
+              }
+            },
+            {
+              "name": "Romerike Landscape Park",
+              "tip_5lang": {
+                "de": "Feste Schuhe für schlammige Wege nötig.",
+                "hu": "Sáros utakra vízálló bakancs javasolt.",
+                "ro": "Ghete impermeabile necesare pentru poteci.",
+                "en": "Waterproof boots recommended for muddy paths."
+              }
+            },
+            {
+              "name": "Eidsvollsbygningen",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine lange Regenpause.",
+                "hu": "Ideális helyszín egy hosszú esőszünethez.",
+                "ro": "Loc perfect pentru o pauză lungă de ploaie.",
+                "en": "Perfect spot for a long rain break."
+              }
+            },
+            {
+              "name": "Wergelandshaugen",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, kein Unterstand vorhanden.",
+                "hu": "Gyors fotómegálló, nincs fedett rész.",
+                "ro": "Oprire rapidă, nu există adăpost.",
+                "en": "Quick photo stop, no shelter available."
+              }
+            },
+            {
+              "name": "Eidsvoll Verk",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Café im Innenbereich.",
+                "hu": "Látogasson el a belső térben lévő kávézóba.",
+                "ro": "Vizitați cafeneaua din interior.",
+                "en": "Visit the indoor cafe area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Parkwege.",
+              "Das Eidsvollsbygningen bietet umfassende Indoor-Ausstellungen.",
+              "Nutzen Sie die Cafés in Eidsvoll Verk zum Trocknen.",
+              "Die Luftfeuchtigkeit am Fluss Vorma ist bei Regen sehr hoch."
+            ],
+            "hu": [
+              "Viseljen vízálló túrabakancsot a parki ösvényekhez.",
+              "Az Eidsvollsbygningen bőséges beltéri kiállítást kínál.",
+              "Használja az Eidsvoll Verk kávézóit a szárítkozáshoz.",
+              "A Vorma-folyó melletti páratartalom esőben jelentős."
+            ],
+            "ro": [
+              "Purtați bocanci impermeabili pentru potecile din parc.",
+              "Eidsvollsbygningen oferă expoziții interioare ample.",
+              "Folosiți cafenelele din Eidsvoll Verk pentru a vă usca.",
+              "Umiditatea lângă râul Vorma este ridicată pe ploaie."
+            ],
+            "en": [
+              "Wear waterproof hiking boots for the park paths.",
+              "Eidsvollsbygningen offers extensive indoor exhibitions.",
+              "Use the cafes in Eidsvoll Verk to dry off.",
+              "Humidity near the Vorma river is significant during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen an der historischen Kirche. Der Romerike-Park glänzt unter Schnee, während das Eidsvollsbygningen behagliche Wärme und Geschichte bietet. Nachmittags kurzes Innehalten am Wergelandshaugen im frühen Dämmerlicht. Der Tag schließt in der industriellen Kulisse von Eidsvoll Verk unter dem nordischen Winterhimmel.",
+            "hu": "Deres reggel a történelmi templomnál. A Romerike park hófehérben pompázik, míg az Eidsvollsbygningen barátságos meleget és történelmet áraszt. Délután rövid megálló a Wergelandshaugennél a korai szürkületben. A nap az Eidsvoll Verk ipari környezetében zárul az északi téli égbolt alatt.",
+            "ro": "O dimineață geroasă la biserica istorică. Parcul Romerike strălucește sub zăpadă, în timp ce Eidsvollsbygningen oferă căldură și istorie. După-amiaza, scurtă oprire la Wergelandshaugen în amurgul timpuriu. Ziua se încheie în decorul industrial de la Eidsvoll Verk, sub cerul de iarnă nordic.",
+            "en": "A frosty morning at the historic church. Romerike Park shines under snow, while Eidsvollsbygningen offers cozy warmth and history. Afternoon features a brief pause at Wergelandshaugen in the early twilight. The day closes in the industrial setting of Eidsvoll Verk under the Nordic winter sky."
+          },
+          "stops": [
+            {
+              "name": "Eidsvoll Church",
+              "tip_5lang": {
+                "de": "Vorsicht bei glatten Stufen am Eingang.",
+                "hu": "Vigyázzon a csúszós lépcsőkkel a bejáratnál.",
+                "ro": "Atenție la treptele alunecoase de la intrare.",
+                "en": "Watch out for slippery steps at the entrance."
+              }
+            },
+            {
+              "name": "Romerike Landscape Park",
+              "tip_5lang": {
+                "de": "Festgetretener Schnee auf den Hauptwegen.",
+                "hu": "Letaposott hó várható a főutakon.",
+                "ro": "Zăpadă bătătorită pe potecile principale.",
+                "en": "Packed snow expected on main paths."
+              }
+            },
+            {
+              "name": "Eidsvollsbygningen",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Atmosphäre im Inneren.",
+                "hu": "Élvezze a benti meleg hangulatot.",
+                "ro": "Bucurați-vă de atmosfera caldă din interior.",
+                "en": "Enjoy the warm atmosphere inside."
+              }
+            },
+            {
+              "name": "Wergelandshaugen",
+              "tip_5lang": {
+                "de": "Früher Sonnenuntergang gegen 15:30 Uhr.",
+                "hu": "Korai naplemente 15:30 körül.",
+                "ro": "Apus timpuriu în jurul orei 15:30.",
+                "en": "Early sunset around 15:30."
+              }
+            },
+            {
+              "name": "Eidsvoll Verk",
+              "tip_5lang": {
+                "de": "Beleuchtete Gebäude sorgen für Winterflair.",
+                "hu": "A kivilágított épületek téli hangulatot adnak.",
+                "ro": "Clădirile iluminate oferă un farmec hibernal.",
+                "en": "Illuminated buildings provide winter charm."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermokleidung und Wollsocken.",
+              "Die Sonne geht im Winter bereits gegen 15:30 Uhr unter.",
+              "Wanderschuhe mit gutem Grip sind auf Eis essenziell.",
+              "Planen Sie mehr Zeit für die Indoor-Besichtigung ein."
+            ],
+            "hu": [
+              "Viseljen termaruházatot és gyapjúzoknit.",
+              "A nap télen már 15:30 körül lemegy.",
+              "A jó tapadású bakancs elengedhetetlen a jégen.",
+              "Tervezzen több időt a benti látnivalókra."
+            ],
+            "ro": [
+              "Purtați haine termice și șosete de lână.",
+              "Soarele apune deja în jur de ora 15:30 iarna.",
+              "Ghetele cu aderență bună sunt esențiale pe gheață.",
+              "Alocați mai mult timp pentru vizitele în interior."
+            ],
+            "en": [
+              "Wear thermal clothing and wool socks.",
+              "The sun sets as early as 15:30 in winter.",
+              "Boots with good grip are essential on ice.",
+              "Plan more time for indoor sightseeing."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -498,6 +662,170 @@
           "Helmets are mandatory for cyclists in Norway.",
           "Take water and snacks, as stretches between locations can be long."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Start am Eidsvollsbygningen mit Schutz vor dem Regen. Mittags Fahrt zum nebligen Skibladner-Pier, gefolgt von den Smaragdminen, die bei Nässe besonders mystisch wirken. Nachmittags geht es am verregneten Hurdalsjøen-Ufer entlang zurück zur Kirche. Eine sportliche Tour durch die feuchte norwegische Landschaft.",
+            "hu": "Indulás az Eidsvollsbygningentől, esővédett kezdéssel. Délben tekerés a ködös Skibladner mólóhoz, majd a smaragd bányákhoz, melyek esőben különösen misztikusak. Délután a Hurdalsjøen partján, esőben tekerünk vissza a templomhoz. Sportos túra a párás norvég tájon át.",
+            "ro": "Start la Eidsvollsbygningen cu protecție împotriva ploii. La prânz, pedalare spre debarcaderul Skibladner în ceață, urmată de minele de smarald, mistice pe ploaie. După-amiaza, de-a lungul malului Hurdalsjøen spre biserică. O tură sportivă prin peisajul norvegian umed.",
+            "en": "Start at Eidsvollsbygningen with rain-protected highlights. Noon ride to the misty Skibladner Pier, followed by the emerald mines, which feel mystical in the wet. Afternoon ride along the rainy Hurdalsjøen shore back to the church. A sporty tour through the damp Norwegian landscape."
+          },
+          "stops": [
+            {
+              "name": "Eidsvollsbygningen",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Fahrradständer.",
+                "hu": "Használja a fedett kerékpártárolókat.",
+                "ro": "Folosiți rastelele de biciclete acoperite.",
+                "en": "Use the covered bike racks."
+              }
+            },
+            {
+              "name": "Skibladner Pier",
+              "tip_5lang": {
+                "de": "Vorsicht auf rutschigen Holzplanken.",
+                "hu": "Vigyázzon a csúszós fapadlókkal.",
+                "ro": "Atenție la scândurile de lemn alunecoase.",
+                "en": "Watch out for slippery wooden planks."
+              }
+            },
+            {
+              "name": "Emerald Mines of Minnesund",
+              "tip_5lang": {
+                "de": "Der Boden ist schlammig, festes Schuhwerk!",
+                "hu": "A talaj sáros, használjon bakancsot!",
+                "ro": "Terenul este noroios, purtați ghete!",
+                "en": "Terrain is muddy, wear boots!"
+              }
+            },
+            {
+              "name": "Hurdalsjøen Lakeshore",
+              "tip_5lang": {
+                "de": "Starker Wind am See bei Regen möglich.",
+                "hu": "Erős szél várható a tónál esőben.",
+                "ro": "Vânt puternic la lac pe timp de ploaie.",
+                "en": "Strong wind possible at the lake during rain."
+              }
+            },
+            {
+              "name": "Eidsvoll Church",
+              "tip_5lang": {
+                "de": "Sichere Unterstellung im Vorraum.",
+                "hu": "Biztonságos menedék az előcsarnokban.",
+                "ro": "Adăpost sigur în vestibul.",
+                "en": "Safe shelter in the vestibule."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter Pflicht.",
+              "Tragen Sie auffällige Reflektoren wegen schlechter Sicht.",
+              "Vermeiden Sie scharfe Bremsmanöver auf nassem Asphalt.",
+              "Vermeiden Sie unbefestigte Waldwege, die aufweichen."
+            ],
+            "hu": [
+              "Sárvédő használata kötelező ebben az időben.",
+              "Viseljen feltűnő fényvisszaverőket a látási viszonyok miatt.",
+              "Kerülje az éles fékezést a nedves aszfalton.",
+              "Kerülje a felázott, burkolatlan erdei utakat."
+            ],
+            "ro": [
+              "Aripile de protecție sunt obligatorii pe această vreme.",
+              "Purtați reflectorizante din cauza vizibilității reduse.",
+              "Evitați frânările bruște pe asfaltul umed.",
+              "Evitați drumurile forestiere neasfaltate care se înmoaie."
+            ],
+            "en": [
+              "Mudguards are mandatory in this weather.",
+              "Wear conspicuous reflectors due to poor visibility.",
+              "Avoid sharp braking on wet asphalt.",
+              "Avoid unpaved forest paths that get soft."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Start am Eidsvollsbygningen in klirrender Kälte. Mittags Fahrt zum zugefrorenen Skibladner-Pier, gefolgt von den Smaragdminen im Winterschlaf. Nachmittags geht es am verschneiten Hurdalsjøen-Ufer entlang, bevor die Tour im Abendlicht an der Kirche endet. Eine anspruchsvolle Winterfahrt durch die verschneite Natur.",
+            "hu": "Indulás az Eidsvollsbygningentől a metsző hidegben. Délben tekerés a befagyott Skibladner mólóhoz, majd a téli álmot alvó smaragd bányákhoz. Délután a havas Hurdalsjøen partján haladunk, majd a templomnál zárjuk a napot az esti fényekben. Kihívást jelentő téli tekerés a havas természetben.",
+            "ro": "Start la Eidsvollsbygningen pe un ger pătrunzător. La prânz, pedalare spre debarcaderul înghețat Skibladner, apoi minele de smarald în hibernare. După-amiaza, pe malul înzăpezit al Hurdalsjøen, încheind la biserică în lumina serii. O cursă de iarnă solicitantă prin natura înzăpezită.",
+            "en": "Start at Eidsvollsbygningen in the biting cold. Noon ride to the frozen Skibladner Pier, followed by the emerald mines in winter sleep. Afternoon ride along the snowy Hurdalsjøen shore before ending at the church in the evening light. A challenging winter ride through snowy nature."
+          },
+          "stops": [
+            {
+              "name": "Eidsvollsbygningen",
+              "tip_5lang": {
+                "de": "Stahlrahmen können extrem kalt werden.",
+                "hu": "Az acélvázak extrém hidegek lehetnek.",
+                "ro": "Cadrele de oțel pot deveni extrem de reci.",
+                "en": "Steel frames can get extremely cold."
+              }
+            },
+            {
+              "name": "Skibladner Pier",
+              "tip_5lang": {
+                "de": "Schnee bedeckt oft Eisflächen am Pier.",
+                "hu": "A hó gyakran jégfoltokat takar a mólón.",
+                "ro": "Zăpada acoperă adesea gheața pe debarcader.",
+                "en": "Snow often covers ice patches on the pier."
+              }
+            },
+            {
+              "name": "Emerald Mines of Minnesund",
+              "tip_5lang": {
+                "de": "Minenbesuche im Winter nur eingeschränkt.",
+                "hu": "A bányalátogatás télen korlátozott.",
+                "ro": "Vizitele la mină sunt limitate iarna.",
+                "en": "Mine visits are limited in winter."
+              }
+            },
+            {
+              "name": "Hurdalsjøen Lakeshore",
+              "tip_5lang": {
+                "de": "Wunderschöner Blick auf den gefrorenen See.",
+                "hu": "Gyönyörű kilátás a befagyott tóra.",
+                "ro": "Vedere superbă asupra lacului înghețat.",
+                "en": "Beautiful view of the frozen lake."
+              }
+            },
+            {
+              "name": "Eidsvoll Church",
+              "tip_5lang": {
+                "de": "Steile Anfahrt zur Kirche bei Glätte.",
+                "hu": "Meredek, jeges feljáró a templomhoz.",
+                "ro": "Urcare abruptă și înghețată spre biserică.",
+                "en": "Steep, icy approach to the church."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen sind für diese Tour absolut notwendig.",
+              "Tragen Sie winddichte Handschuhe und Gesichtsschutz.",
+              "Die Kette benötigt im Winter häufiger Schmierung.",
+              "Vermeiden Sie Fahrten nach 16 Uhr ohne starkes Licht."
+            ],
+            "hu": [
+              "A szöges gumiabroncs elengedhetetlen ehhez a túrához.",
+              "Viseljen szélálló kesztyűt és arcvédőt.",
+              "A lánc télen gyakoribb kenést igényel.",
+              "Kerülje a 16 óra utáni tekerést erős lámpa nélkül."
+            ],
+            "ro": [
+              "Anvelopele cu ținte sunt absolut necesare pentru această tură.",
+              "Purtați mănuși rezistente la vânt și protecție facială.",
+              "Lanțul necesită lubrifiere mai frecventă iarna.",
+              "Evitați deplasările după ora 16 fără lumini puternice."
+            ],
+            "en": [
+              "Studded tires are absolutely necessary for this tour.",
+              "Wear windproof gloves and face protection.",
+              "The chain requires more frequent lubrication in winter.",
+              "Avoid riding after 16:00 without strong lights."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -802,6 +1130,206 @@
           "Many of the natural attractions require short hikes from the parking area.",
           "Be aware of toll roads in the region."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahrt zum Mistberget bei tief hängenden Wolken. Mittags bietet das Eidsvollsbygningen Schutz, gefolgt von einem kurzen Halt am Wergelandshaugen. Nachmittags geht es zu den geschichtsträchtigen Goldminen von Gullverket und zum nebligen Hurdalsjøen. Der Tag endet an den Smaragdminen, während der Regen auf das Autodach trommelt.",
+            "hu": "Autózás a Mistbergethez alacsony felhőzetben. Délben az Eidsvollsbygningen nyújt védelmet, majd rövid megálló a Wergelandshaugennél. Délután a Gullverket aranybányái és a ködös Hurdalsjøen következik. A nap a smaragd bányáknál zárul, miközben az eső kopog a tetőn.",
+            "ro": "Drum spre Mistberget printre nori joși. La prânz, Eidsvollsbygningen oferă protecție, urmat de o scurtă oprire la Wergelandshaugen. După-amiaza vizităm minele de aur Gullverket și lacul Hurdalsjøen în ceață. Ziua se încheie la minele de smarald, sub sunetul ploii pe plafon.",
+            "en": "Drive to Mistberget under low hanging clouds. Noon offers protection at Eidsvollsbygningen, followed by a quick stop at Wergelandshaugen. Afternoon visits to the historic gold mines of Gullverket and the misty Hurdalsjøen. The day ends at the emerald mines as rain drums on the car roof."
+          },
+          "stops": [
+            {
+              "name": "Mistberget",
+              "tip_5lang": {
+                "de": "Nebelscheinwerfer für die Auffahrt einschalten.",
+                "hu": "Kapcsolja be a ködfényszórót a feljárónál.",
+                "ro": "Porniți proiectoarele de ceață pentru urcare.",
+                "en": "Turn on fog lights for the ascent."
+              }
+            },
+            {
+              "name": "Eidsvollsbygningen",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Eingang nutzen.",
+                "hu": "Használja a közvetlen bejárati parkolót.",
+                "ro": "Folosiți parcarea de lângă intrare.",
+                "en": "Use the parking lot right by the entrance."
+              }
+            },
+            {
+              "name": "Wergelandshaugen",
+              "tip_5lang": {
+                "de": "Blick aus dem Fenster bei starkem Regen.",
+                "hu": "Nézze meg az ablakból heves esőben.",
+                "ro": "Priviți de pe fereastră în caz de ploaie torențială.",
+                "en": "View from the window during heavy rain."
+              }
+            },
+            {
+              "name": "Gullverket",
+              "tip_5lang": {
+                "de": "Schotterstraßen können rutschig sein.",
+                "hu": "A murvás utak csúszósak lehetnek.",
+                "ro": "Drumurile cu pietriș pot fi alunecoase.",
+                "en": "Gravel roads can be slippery."
+              }
+            },
+            {
+              "name": "Lake Hurdalsjøen",
+              "tip_5lang": {
+                "de": "Wischerintervall auf Maximum stellen.",
+                "hu": "Állítsa az ablaktörlőt maximális fokozatra.",
+                "ro": "Setați ștergătoarele la viteză maximă.",
+                "en": "Set wipers to maximum interval."
+              }
+            },
+            {
+              "name": "Skibladner Pier",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg, Schirm mitnehmen.",
+                "hu": "Gyors kiszállás, vigyen esernyőt.",
+                "ro": "Ieșire scurtă, luați umbrela.",
+                "en": "Quick exit, take an umbrella."
+              }
+            },
+            {
+              "name": "Emerald Mines of Minnesund",
+              "tip_5lang": {
+                "de": "Letzte Etappe, Minen sind meist nass.",
+                "hu": "Utolsó szakasz, a bányák többnyire nedvesek.",
+                "ro": "Ultima etapă, minele sunt de obicei umede.",
+                "en": "Final stage, mines are mostly wet anyway."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht auf unbefestigten Straßen nach Gullverket.",
+              "Die Sicht am Mistberget kann stark eingeschränkt sein.",
+              "Halten Sie die Scheinwerfer auch tagsüber an.",
+              "Ein Regenschirm im Kofferraum ist für die Stopps ratsam."
+            ],
+            "hu": [
+              "Vigyázzon a burkolatlan utakon Gullverket felé.",
+              "A kilátás a Mistbergetnél erősen korlátozott lehet.",
+              "Tartsa bekapcsolva a fényszórókat nappal is.",
+              "Egy esernyő a csomagtartóban ajánlott a megállókhoz."
+            ],
+            "ro": [
+              "Atenție pe drumurile neasfaltate spre Gullverket.",
+              "Vizibilitatea la Mistberget poate fi foarte redusă.",
+              "Țineți farurile aprinse și pe timpul zilei.",
+              "O umbrelă în portbagaj este recomandată pentru opriri."
+            ],
+            "en": [
+              "Caution on unpaved roads towards Gullverket.",
+              "Visibility at Mistberget can be severely restricted.",
+              "Keep headlights on during the day as well.",
+              "An umbrella in the trunk is advisable for the stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Fahrt zum verschneiten Mistberget – Winterreifen sind Pflicht. Mittags Aufwärmen im Eidsvollsbygningen, gefolgt von einem winterlichen Stopp am Wergelandshaugen. Nachmittags durch die weiße Landschaft von Gullverket zum gefrorenen Hurdalsjøen. Der Tag endet an den Minen unter einer dicken Schneedecke.",
+            "hu": "Autózás a havas Mistbergethez – a téli gumi kötelező. Délben melegedés az Eidsvollsbygningennél, majd télies megálló a Wergelandshaugennél. Délután a fehérbe öltözött Gullverketen át a befagyott Hurdalsjøenhez. A nap a bányáknál zárul vastag hólepel alatt.",
+            "ro": "Drum spre Mistberget înzăpezit – anvelopele de iarnă sunt obligatorii. La prânz, încălzire la Eidsvollsbygningen, urmată de o oprire la Wergelandshaugen. După-amiaza prin peisajul alb din Gullverket spre lacul înghețat. Ziua se încheie la minele acoperite de zăpadă.",
+            "en": "Drive to the snowy Mistberget – winter tires are mandatory. Noon warm-up at Eidsvollsbygningen, followed by a wintry stop at Wergelandshaugen. Afternoon through the white landscape of Gullverket to the frozen Hurdalsjøen. The day ends at the mines under a thick blanket of snow."
+          },
+          "stops": [
+            {
+              "name": "Mistberget",
+              "tip_5lang": {
+                "de": "Bergstraße kann extrem vereist sein.",
+                "hu": "A hegyi út rendkívül jeges lehet.",
+                "ro": "Drumul montan poate fi extrem de înghețat.",
+                "en": "Mountain road can be extremely icy."
+              }
+            },
+            {
+              "name": "Eidsvollsbygningen",
+              "tip_5lang": {
+                "de": "Warme Heizung in den Ausstellungsräumen.",
+                "hu": "Meleg fűtés a kiállítótermekben.",
+                "ro": "Încălzire bună în sălile de expoziție.",
+                "en": "Good heating in the exhibition rooms."
+              }
+            },
+            {
+              "name": "Wergelandshaugen",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneeverwehungen am Hügel.",
+                "hu": "Vigyázzon a hófúvásokkal a dombon.",
+                "ro": "Atenție la troienele de zăpadă de pe deal.",
+                "en": "Watch out for snowdrifts on the hill."
+              }
+            },
+            {
+              "name": "Gullverket",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Zufahrt geräumt ist.",
+                "hu": "Ellenőrizze, hogy az utat letakarították-e.",
+                "ro": "Verificați dacă drumul de acces este deszăpezit.",
+                "en": "Check if the access road is cleared."
+              }
+            },
+            {
+              "name": "Lake Hurdalsjøen",
+              "tip_5lang": {
+                "de": "Zugefrorener See bietet tolles Panorama.",
+                "hu": "A befagyott tó remek panorámát nyújt.",
+                "ro": "Lacul înghețat oferă o panoramă superbă.",
+                "en": "Frozen lake offers a great panorama."
+              }
+            },
+            {
+              "name": "Skibladner Pier",
+              "tip_5lang": {
+                "de": "Das Schiff ist im Winterschlaf (festgelegt).",
+                "hu": "A hajó téli álmot alszik (rögzítve).",
+                "ro": "Nava este în hibernare (ancorată).",
+                "en": "The ship is in winter hibernation (fixed)."
+              }
+            },
+            {
+              "name": "Emerald Mines of Minnesund",
+              "tip_5lang": {
+                "de": "Minenbesuch nur bei Tageslicht ratsam.",
+                "hu": "Bányalátogatás csak nappali fényben ajánlott.",
+                "ro": "Vizita la mină este recomandată doar pe lumină.",
+                "en": "Mine visit advisable only in daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie Schneeketten für die Auffahrt zum Mistberget mit.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Dunkelheit setzt im Winter sehr früh ein.",
+              "Achten Sie auf Wildwechsel in den Waldgebieten."
+            ],
+            "hu": [
+              "Vigyen hóláncot a Mistberget feljárójához.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A sötétség télen nagyon korán beáll.",
+              "Ügyeljen a vadon élő állatokra az erdős részeken."
+            ],
+            "ro": [
+              "Luați lanțuri de zăpadă pentru urcarea la Mistberget.",
+              "Verificați antigelul în lichidul de parbriz.",
+              "Întunericul se lasă foarte devreme iarna.",
+              "Atenție la animalele sălbatice în zonele împădurite."
+            ],
+            "en": [
+              "Carry snow chains for the ascent to Mistberget.",
+              "Check the antifreeze in your windshield washer fluid.",
+              "Darkness sets in very early during winter.",
+              "Watch out for wildlife in forested areas."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1038,6 +1566,170 @@
           "Buy a day pass for public transport for the best value.",
           "Check schedules in advance, especially for buses in rural areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ankunft am Bahnhof Eidsvoll Verk bei leichtem Nieselregen. Mittags führt der Weg ins schützende Eidsvollsbygningen. Nachmittags erkunden wir das Zentrum und die historische Kirche, wobei wir immer wieder ins Trockene flüchten. Der Tag endet am Bahnhof Minnesund mit Blick auf den verregneten See.",
+            "hu": "Érkezés az Eidsvoll Verk állomásra szemerkélő esőben. Délben az út a védelmet nyújtó Eidsvollsbygningenhez vezet. Délután a központot és a történelmi templomot fedezzük fel, többször behúzódva a fedett részekre. A nap a Minnesund állomáson zárul, kilátással az esős tóra.",
+            "ro": "Sosire la stația Eidsvoll Verk pe o ploaie ușoară. La prânz, drumul duce spre protecția oferită de Eidsvollsbygningen. După-amiaza explorăm centrul și biserica istorică, refugiindu-ne des la interior. Ziua se încheie la stația Minnesund cu vedere spre lacul plouat.",
+            "en": "Arrival at Eidsvoll Verk station in light drizzle. Noon leads to the protective Eidsvollsbygningen. Afternoon exploration of the center and the historic church, often seeking indoor refuge. The day ends at Minnesund station with a view of the rainy lake."
+          },
+          "stops": [
+            {
+              "name": "Eidsvoll Verk Station",
+              "tip_5lang": {
+                "de": "Überdachter Wartebereich am Gleis.",
+                "hu": "Fedett várakozóhely a peronon.",
+                "ro": "Zonă de așteptare acoperită pe peron.",
+                "en": "Covered waiting area on the platform."
+              }
+            },
+            {
+              "name": "Eidsvollsbygningen",
+              "tip_5lang": {
+                "de": "Kurzer, teils ungeschützter Fußweg.",
+                "hu": "Rövid, részben fedetlen gyalogút.",
+                "ro": "Drum scurt pe jos, parțial neprotejat.",
+                "en": "Short, partly unsheltered walk."
+              }
+            },
+            {
+              "name": "Eidsvoll Center",
+              "tip_5lang": {
+                "de": "Viele Geschäfte zum Unterstellen.",
+                "hu": "Sok üzlet alkalmas menedéknek.",
+                "ro": "Multe magazine pentru a vă adăposti.",
+                "en": "Many shops for taking shelter."
+              }
+            },
+            {
+              "name": "Eidsvoll Church",
+              "tip_5lang": {
+                "de": "Bus hält in der Nähe des Eingangs.",
+                "hu": "A busz a bejárat közelében áll meg.",
+                "ro": "Autobuzul oprește aproape de intrare.",
+                "en": "Bus stops near the entrance."
+              }
+            },
+            {
+              "name": "Minnesund Station",
+              "tip_5lang": {
+                "de": "Warteraum im Bahnhofsgebäude nutzen.",
+                "hu": "Használja az állomás várótermét.",
+                "ro": "Folosiți sala de așteptare din stație.",
+                "en": "Use the waiting room in the station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Echtzeit-App auf Verspätungen bei Regen.",
+              "Vermeiden Sie lange Wartezeiten an ungeschützten Haltestellen.",
+              "Vielseitige Indoor-Optionen im Zentrum von Eidsvoll.",
+              "Nutzen Sie die Bahnhöfe als trockene Umsteigepunkte."
+            ],
+            "hu": [
+              "Ellenőrizze az élő appot az eső miatti késésekért.",
+              "Kerülje a hosszú várakozást fedetlen megállókban.",
+              "Sokoldalú beltéri lehetőségek Eidsvoll központjában.",
+              "Használja az állomásokat száraz átszállóhelyként."
+            ],
+            "ro": [
+              "Verificați aplicația în timp real pentru întârzieri pe ploaie.",
+              "Evitați așteptările lungi în stații neprotejate.",
+              "Opțiuni interioare variate în centrul Eidsvoll.",
+              "Folosiți gările ca puncte de transfer uscate."
+            ],
+            "en": [
+              "Check the real-time app for rain-related delays.",
+              "Avoid long waits at unsheltered stops.",
+              "Versatile indoor options in Eidsvoll center.",
+              "Use the stations as dry transfer points."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ankunft am frostigen Bahnhof Eidsvoll Verk. Mittags Aufwärmen im Eidsvollsbygningen, gefolgt von einem winterlichen Bummel durch das Zentrum von Eidsvoll. Nachmittags Besuch der verschneiten Kirche, bevor die Tour am Bahnhof Minnesund im Licht der frühen Dämmerung endet. Eine gemütliche Winterreise per Bahn.",
+            "hu": "Érkezés a fagyos Eidsvoll Verk állomásra. Délben melegedés az Eidsvollsbygningennél, majd télies séta Eidsvoll központjában. Délután a havas templom meglátogatása, majd a Minnesund állomáson zárjuk a napot a korai szürkületben. Hangulatos téli utazás vasúton.",
+            "ro": "Sosire la gara geroasă Eidsvoll Verk. La prânz, încălzire la Eidsvollsbygningen, urmată de o plimbare hibernală prin centrul Eidsvoll. După-amiaza, vizită la biserica înzăpezită, încheind la stația Minnesund în lumina amurgului timpuriu. O călătorie de iarnă plăcută cu trenul.",
+            "en": "Arrival at the frosty Eidsvoll Verk station. Noon warm-up at Eidsvollsbygningen, followed by a wintry stroll through Eidsvoll center. Afternoon visit to the snowy church before ending at Minnesund station in the light of early twilight. A cozy winter journey by rail."
+          },
+          "stops": [
+            {
+              "name": "Eidsvoll Verk Station",
+              "tip_5lang": {
+                "de": "Beheizte Warteräume vorhanden.",
+                "hu": "Fűtött várótermek állnak rendelkezésre.",
+                "ro": "Săli de așteptare încălzite disponibile.",
+                "en": "Heated waiting rooms available."
+              }
+            },
+            {
+              "name": "Eidsvollsbygningen",
+              "tip_5lang": {
+                "de": "Vorsicht auf den geräumten Fußwegen.",
+                "hu": "Vigyázzon a letakarított járdákon.",
+                "ro": "Atenție pe trotuarele deszăpezite.",
+                "en": "Watch out on cleared sidewalks."
+              }
+            },
+            {
+              "name": "Eidsvoll Center",
+              "tip_5lang": {
+                "de": "Genießen Sie ein heißes Getränk im Café.",
+                "hu": "Élvezzen egy forró italt a kávézóban.",
+                "ro": "Savurați o băutură caldă la cafenea.",
+                "en": "Enjoy a hot drink at a cafe."
+              }
+            },
+            {
+              "name": "Eidsvoll Church",
+              "tip_5lang": {
+                "de": "Frühe Dunkelheit macht die Kirche mystisch.",
+                "hu": "A korai sötétség misztikussá teszi a templomot.",
+                "ro": "Întunericul timpuriu face biserica mistică.",
+                "en": "Early darkness makes the church feel mystical."
+              }
+            },
+            {
+              "name": "Minnesund Station",
+              "tip_5lang": {
+                "de": "Züge sind im Winter gut geheizt.",
+                "hu": "A vonatok télen jól fűtöttek.",
+                "ro": "Trenurile sunt bine încălzite iarna.",
+                "en": "Trains are well heated in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge sind oft die zuverlässigste Wahl bei starkem Schneefall.",
+              "Nutzen Sie die beheizten Wartebereiche in den Bahnhöfen.",
+              "Die Sonne geht bereits gegen 15:30 Uhr unter.",
+              "Achten Sie auf eventuelle Gleisänderungen bei Frost."
+            ],
+            "hu": [
+              "Erős havazáskor a vonat a legmegbízhatóbb választás.",
+              "Használja a fűtött várakozóhelyeket az állomásokon.",
+              "A nap már 15:30 körül lemegy.",
+              "Ügyeljen az esetleges vágányváltozásokra fagy esetén."
+            ],
+            "ro": [
+              "Trenurile sunt adesea cea mai sigură alegere pe ninsoare.",
+              "Folosiți zonele de așteptare încălzite din gări.",
+              "Soarele apune deja în jur de ora 15:30.",
+              "Atenție la eventualele schimbări de peron pe timp de ger."
+            ],
+            "en": [
+              "Trains are often the most reliable choice during heavy snow.",
+              "Utilize the heated waiting areas in the stations.",
+              "The sun sets as early as 15:30 in winter.",
+              "Watch for potential platform changes during frost."
+            ]
+          }
+        }
       }
     }
   }

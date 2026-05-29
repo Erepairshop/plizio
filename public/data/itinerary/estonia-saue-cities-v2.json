@@ -356,6 +356,196 @@
           "Check the opening hours for Saue Manor in advance, as they can vary.",
           "Bring a reusable water bottle to refill in the park."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Spaziergang beginnt im grauen Nieselregen am Rathaus, wobei die Bäume im Park etwas Schutz bieten. Mittags dient das Herrenhaus Saue als eleganter Zufluchtsort im Trockenen. Nachmittags fordern die nassen Pfade an der Pääsküla wetterfeste Kleidung, während die Natur im Regen besonders intensiv duftet. Der Tag endet in der feuchten Frische des Sarapiku-Gesundheitspfads.",
+            "hu": "A séta szürke szitálásban indul a Városházánál, a park fái némi védelmet nyújtanak. Délben a Saue-kastély szolgál elegáns, száraz menedékként, ahol elmerülhetünk a múltban. Délután a Pääsküla-folyó menti nedves ösvények vízálló öltözetet igényelnek, miközben az erdő illata felerősödik az esőben. A napot a Sarapiku tanösvény friss, párás levegőjén zárjuk.",
+            "ro": "Plimbarea începe sub o ploaie măruntă la Primărie, copacii din parc oferind puțin adăpost. La prânz, conacul Saue servește drept refugiu elegant și uscat pentru a explora istoria. După-amiaza, potecile umede de-a lungul râului Pääsküla necesită haine impermeabile, în timp ce natura miroase intens. Ziua se încheie în prospețimea umedă a traseului de sănătate Sarapiku.",
+            "en": "The walk starts under a light drizzle at the Town Hall, with park trees providing some cover. Noon is spent inside the historic Saue Manor, staying dry while exploring its grand halls. Afternoon paths by the Pääsküla River require waterproof gear as the mud thickens. The journey concludes in the damp, fresh air of the Sarapiku health track as evening mist settles."
+          },
+          "stops": [
+            {
+              "name": "Saue Town Hall",
+              "tip_5lang": {
+                "de": "Unter dem Vordach warten.",
+                "hu": "Várj az előtető alatt.",
+                "ro": "Așteaptă sub copertină.",
+                "en": "Wait under the canopy."
+              }
+            },
+            {
+              "name": "Saue Central Park",
+              "tip_5lang": {
+                "de": "Dichte Baumkronen suchen.",
+                "hu": "Keress sűrű lombkoronát.",
+                "ro": "Caută coroane dese.",
+                "en": "Seek dense tree canopies."
+              }
+            },
+            {
+              "name": "Saue Manor",
+              "tip_5lang": {
+                "de": "Perfekt für Innenbesichtigungen.",
+                "hu": "Tökéletes belső látogatásra.",
+                "ro": "Perfect pentru vizite în interior.",
+                "en": "Perfect for indoor tours."
+              }
+            },
+            {
+              "name": "Saue Oak Grove",
+              "tip_5lang": {
+                "de": "Achtung, rutschiges Laub.",
+                "hu": "Vigyázat, csúszós levelek.",
+                "ro": "Atenție, frunze alunecoase.",
+                "en": "Beware of slippery leaves."
+              }
+            },
+            {
+              "name": "Pääsküla River",
+              "tip_5lang": {
+                "de": "Feste Gummistiefel nutzen.",
+                "hu": "Használj gumicsizmát.",
+                "ro": "Folosește cizme de cauciuc.",
+                "en": "Use sturdy rubber boots."
+              }
+            },
+            {
+              "name": "Sarapiku Health Track",
+              "tip_5lang": {
+                "de": "Holzschnitzelpfade sind griffiger.",
+                "hu": "A faforgács kevésbé csúszik.",
+                "ro": "Potecile cu așchii sunt sigure.",
+                "en": "Woodchip paths have better grip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein großer Regenschirm ist bei den Windböen in Saue unverzichtbar.",
+              "Nutzen Sie die Café-Pause im Herrenhaus, um sich aufzuwärmen.",
+              "Wasserdichte Wanderschuhe verhindern nasse Füße im hohen Gras.",
+              "Die Wege am Fluss können nach starkem Regen teilweise aufweichen.",
+              "Planen Sie mehr Zeit für die Naturpfade ein, da der Boden rutschig ist."
+            ],
+            "hu": [
+              "Egy nagy esernyő elengedhetetlen a Saue környéki széllökésekben.",
+              "Használja ki a kastély kávézóját a felmelegedéshez és szárítkozáshoz.",
+              "A vízálló túracipő megvédi a lábát a magas fűben és sárban.",
+              "A folyóparti utak heves esőzés után néhol felázhatnak.",
+              "Hagyjon több időt a szakaszokra, mert a talaj csúszóssá válhat."
+            ],
+            "ro": [
+              "O umbrelă mare este esențială din cauza rafalelelor de vânt din Saue.",
+              "Folosiți cafeneaua conacului pentru a vă încălzi și usca hainele.",
+              "Pantofii de trekking impermeabili previn picioarele ude în iarba înaltă.",
+              "Potecile de lângă râu pot deveni noroioase după ploi abundente.",
+              "Alocați mai mult timp pentru trasee, deoarece solul devine alunecos."
+            ],
+            "en": [
+              "A sturdy umbrella is essential against the wind gusts in Saue.",
+              "Use the manor's cafe break to warm up and dry off.",
+              "Waterproof hiking shoes prevent wet feet in the tall, damp grass.",
+              "Riverbank paths may become muddy and waterlogged after heavy rain.",
+              "Allow extra time for navigation as the forest floor becomes slippery."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens glitzert der Frost am Rathaus in der estnischen Dunkelheit. Der Central Park verwandelt sich in ein Wintermärchen, perfekt für einen kurzen Schneespaziergang. Mittags bietet die Wärme des Herrenhauses Saue einen starken Kontrast zur eisigen Kälte draußen. Da die Sonne bereits nach 15 Uhr sinkt, endet die Tour am Sarapiku-Pfad in der blauen Stunde unter funkelnden Sternen.",
+            "hu": "Reggel a zúzmara csillog a Városházánál az észt sötétségben. A központi park téli mesevilággá változik, ideális egy rövid havas sétához. Délben a Saue-kastély melege éles kontrasztot alkot a kinti jeges hideggel. Mivel a nap már délután 3 után nyugovóra tér, a túra a Sarapiku ösvényen ér véget a kék óra fényeiben és az első csillagok alatt.",
+            "ro": "Dimineața, chiciura strălucește la Primărie în întunericul eston. Parcul Central se transformă într-un peisaj de basm, ideal pentru o scurtă plimbare prin zăpadă. La prânz, căldura conacului Saue oferă un contrast puternic cu frigul de afară. Deoarece soarele apune deja după ora 15:00, turul se încheie pe traseul Sarapiku sub luminile orei albastre.",
+            "en": "Morning frost glistens at the Town Hall in the deep Estonian winter dark. Central Park becomes a snowy wonderland, perfect for a crisp stroll. Midday warmth inside Saue Manor provides a welcome escape from the biting sub-zero temperatures. As the sun sets shortly after 3 PM, the journey concludes at the Sarapiku track under the twilight glow and the first stars."
+          },
+          "stops": [
+            {
+              "name": "Saue Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf den Stufen.",
+                "hu": "Vigyázz a jeges lépcsőkkel.",
+                "ro": "Atenție la scările înghețate.",
+                "en": "Watch out for icy steps."
+              }
+            },
+            {
+              "name": "Saue Central Park",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind Pflicht.",
+                "hu": "A meleg kesztyű kötelező.",
+                "ro": "Mănușile groase sunt obligatorii.",
+                "en": "Warm gloves are mandatory."
+              }
+            },
+            {
+              "name": "Saue Manor",
+              "tip_5lang": {
+                "de": "Besuchen Sie die geheizten Säle.",
+                "hu": "Látogasd meg a fűtött termeket.",
+                "ro": "Vizitează sălile încălzite.",
+                "en": "Visit the heated halls."
+              }
+            },
+            {
+              "name": "Saue Oak Grove",
+              "tip_5lang": {
+                "de": "Tiefschnee abseits der Wege.",
+                "hu": "Mély hó az utak mentén.",
+                "ro": "Zăpadă adâncă lângă poteci.",
+                "en": "Deep snow off the paths."
+              }
+            },
+            {
+              "name": "Pääsküla River",
+              "tip_5lang": {
+                "de": "Uferkanten sind oft vereist.",
+                "hu": "A part szélei gyakran jegesek.",
+                "ro": "Marginile râului sunt înghețate.",
+                "en": "River edges are often icy."
+              }
+            },
+            {
+              "name": "Sarapiku Health Track",
+              "tip_5lang": {
+                "de": "Reflektoren für die Dunkelheit.",
+                "hu": "Használj fényvisszaverőt.",
+                "ro": "Poartă reflectorizante în amurg.",
+                "en": "Wear reflectors in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Unterwäsche für die arktischen Temperaturen.",
+              "Die Sonne geht in Estland im Dezember bereits um 15:20 Uhr unter.",
+              "Ein heißer Tee in der Thermoskanne hilft gegen die Kälte im Park.",
+              "Achten Sie auf geräumte Wege, da Nebenpfade tief verschneit sein können.",
+              "Laden Sie Ihr Handy voll auf, da Akkus bei Kälte schneller entladen."
+            ],
+            "hu": [
+              "Viseljen termikus fehérneműt az sarkvidéki hideg ellen.",
+              "Észtországban decemberben már 15:20-kor lemegy a nap.",
+              "Egy termosz forró tea segít a hideg elleni küzdelemben a parkban.",
+              "Maradjon a letakarított utakon, a mellékösvények mély havasak lehetnek.",
+              "Töltse fel teljesen a telefonját, a hidegben gyorsabban merül az akku."
+            ],
+            "ro": [
+              "Purtați lenjerie termică pentru temperaturile arctice.",
+              "În Estonia, soarele apune deja la ora 15:20 în decembrie.",
+              "Un termos cu ceai fierbinte ajută la combaterea frigului în parc.",
+              "Rămâneți pe drumurile curățate, potecile secundare pot fi înzăpezite.",
+              "Încărcați complet telefonul, bateriile se descarcă rapid la ger."
+            ],
+            "en": [
+              "Wear thermal layers to withstand the Arctic temperatures.",
+              "The sun sets as early as 3:20 PM in Estonia during December.",
+              "A thermos of hot tea is vital for staying warm in the park.",
+              "Stick to cleared paths, as side trails can have very deep snow.",
+              "Keep your phone charged; batteries drain much faster in the cold."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +919,214 @@
           "Some paths may be unpaved, a mountain or trekking bike is an advantage.",
           "Plan for extra time for photo stops, especially along the river."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren beginnt am Rathaus unter bewölktem Himmel, gefolgt von einer schnellen Fahrt zum schützenden Herrenhaus Saue. Die Route führt weiter zum Gymnasium und zur Pääsküla, wo nasse Reifen auf Waldwegen Vorsicht erfordern. Der Vanamõisa-Platz bietet überdachte Bereiche für eine kurze Rast im Trockenen. Die Tour endet mit einer kühlen, erfrischenden Fahrt durch den nassen Central Park zurück ins Zentrum.",
+            "hu": "A kerékpározás a Városházánál indul felhős ég alatt, majd gyors tekerés következik a védett Saue-kastélyhoz. Az útvonal a Gimnázium és a Pääsküla felé halad, ahol a vizes gumiabroncsok óvatosságot igényelnek az erdei utakon. Vanamõisa fedett részei lehetőséget adnak egy száraz pihenőre. A túra a frissítő, vizes Központi parkon keresztül ér véget a városközpontban.",
+            "ro": "Ciclismul începe la Primărie sub un cer înnorat, urmat de o cursă rapidă către conacul Saue. Traseul continuă spre Gimnaziu și Pääsküla, unde anvelopele ude necesită prudență pe potecile de pădure. Centrul Vanamõisa oferă zone acoperite pentru o scurtă odihnă uscată. Turul se încheie cu o tură răcoritoare prin Parcul Central umed înapoi spre centru.",
+            "en": "Biking starts at the Town Hall under cloudy skies, followed by a quick dash to the shelter of Saue Manor. The route continues toward the Gymnasium and Pääsküla, where wet tires require extra caution on forest trails. Vanamõisa Open Air Centre provides covered areas for a dry rest stop. The tour finishes with a refreshing, breezy ride through the damp Central Park back to the center."
+          },
+          "stops": [
+            {
+              "name": "Saue Town Hall",
+              "tip_5lang": {
+                "de": "Bremsweg auf nassem Asphalt prüfen.",
+                "hu": "Ellenőrizd a fékutat a vizes aszfalton.",
+                "ro": "Verifică distanța de frânare pe asfalt ud.",
+                "en": "Check braking distance on wet asphalt."
+              }
+            },
+            {
+              "name": "Saue Manor & Oak Grove",
+              "tip_5lang": {
+                "de": "Unter den großen Eichen unterstellen.",
+                "hu": "Húzódj a nagy tölgyek alá.",
+                "ro": "Adăpostește-te sub stejarii mari.",
+                "en": "Take shelter under the large oaks."
+              }
+            },
+            {
+              "name": "Saue Gymnasium",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer nutzen.",
+                "hu": "Használd a fedett tárolókat.",
+                "ro": "Folosește rastelele acoperite.",
+                "en": "Use covered bike racks."
+              }
+            },
+            {
+              "name": "Pääsküla River",
+              "tip_5lang": {
+                "de": "Vorsicht auf Holzbrücken.",
+                "hu": "Vigyázz a fahidakon.",
+                "ro": "Atenție pe podurile de lemn.",
+                "en": "Be careful on wooden bridges."
+              }
+            },
+            {
+              "name": "Sarapiku Health Track",
+              "tip_5lang": {
+                "de": "Schlammige Abschnitte umfahren.",
+                "hu": "Kerüld ki a saras részeket.",
+                "ro": "Ocolește secțiunile noroioase.",
+                "en": "Avoid muddy sections."
+              }
+            },
+            {
+              "name": "Vanamõisa Open Air Centre",
+              "tip_5lang": {
+                "de": "Pavillons bieten Regenschutz.",
+                "hu": "A pavilonok védenek az esőtől.",
+                "ro": "Pavilioanele oferă protecție.",
+                "en": "Pavilions offer rain protection."
+              }
+            },
+            {
+              "name": "Saue Central Park",
+              "tip_5lang": {
+                "de": "Pfützen können tief sein.",
+                "hu": "A tócsák mélyek lehetnek.",
+                "ro": "Bălțile pot fi adânci.",
+                "en": "Puddles can be deep."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Regen in Saue ein absolutes Muss.",
+              "Vermeiden Sie das Bremsen auf nassen Blättern im Eichenhain.",
+              "Tragen Sie eine Brille mit klaren Gläsern gegen Regentropfen.",
+              "Überprüfen Sie den Reifendruck für besseren Grip auf nassem Boden.",
+              "Helle Regenbekleidung erhöht Ihre Sichtbarkeit bei trübem Wetter."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen az esős Saue-i utakon.",
+              "Kerülje a fékezést a vizes leveleken a tölgyesben.",
+              "Viseljen víztiszta szemüveget az esőcseppek ellen.",
+              "Ellenőrizze a guminyomást a jobb tapadás érdekében.",
+              "A világos esőruha növeli a láthatóságot a borús időben."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii pe ploaie în Saue.",
+              "Evitați frânarea pe frunzele ude din dumbrava de stejari.",
+              "Purtați ochelari cu lentile clare împotriva picăturilor de ploaie.",
+              "Verificați presiunea anvelopelor pentru aderență mai bună.",
+              "Îmbrăcămintea reflectorizantă crește vizibilitatea pe vreme gri."
+            ],
+            "en": [
+              "Mudguards are an absolute must for rainy rides in Saue.",
+              "Avoid braking on wet leaves in the Oak Grove area.",
+              "Wear clear lens glasses to keep raindrops out of your eyes.",
+              "Lower tire pressure slightly for better grip on wet surfaces.",
+              "Bright rain gear increases your visibility in gloomy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour startet am frostigen Rathaus, wobei die Reifen auf dem gefrorenen Boden knirschen. Das Herrenhaus bietet eine warme Pause, bevor es durch die eisige Luft zum Gymnasium geht. Die Wege an der Pääsküla sind oft schneebedeckt und erfordern volle Konzentration. In Vanamõisa herrscht eine friedliche Stille unter der Schneedecke. Die Fahrt endet im dämmrigen Central Park, beleuchtet von den Lichtern der Stadt.",
+            "hu": "A téli túra a fagyos Városházánál indul, a gumik csikorognak a megfagyott talajon. A kastély meleg pihenőt kínál, mielőtt a jeges levegőben a Gimnázium felé vennénk az irányt. A Pääsküla menti utak gyakran havasak, teljes koncentrációt igényelnek. Vanamõisában békés csend honol a hótakaró alatt. A tekerés a félhomályos Központi parkban ér véget a város fényeinél.",
+            "ro": "Turul de iarnă începe la Primăria înghețată, anvelopele scârțâind pe solul înghețat. Conacul oferă o pauză caldă înainte de a porni prin aerul tăios spre Gimnaziu. Potecile de lângă Pääsküla sunt adesea înzăpezite, necesitând concentrare maximă. La Vanamõisa domnește o liniște deplină sub zăpadă. Cursa se încheie în amurgul Parcului Central, luminat de oraș.",
+            "en": "The winter ride kicks off at the frosty Town Hall, tires crunching on the frozen ground. The Manor offers a warm sanctuary before heading through the biting air to the Gymnasium. Paths by the Pääsküla River are often snow-covered, requiring steady handling. Vanamõisa stands in peaceful silence under a thick white blanket. The ride ends in the twilight of Central Park, guided by streetlights."
+          },
+          "stops": [
+            {
+              "name": "Saue Town Hall",
+              "tip_5lang": {
+                "de": "Reifenprofil auf Eis testen.",
+                "hu": "Teszteld a tapadást a jégen.",
+                "ro": "Testează aderența pe gheață.",
+                "en": "Test tire grip on ice."
+              }
+            },
+            {
+              "name": "Saue Manor & Oak Grove",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause im Inneren.",
+                "hu": "Rövid melegedő pihenő bent.",
+                "ro": "Scurtă pauză de încălzire în interior.",
+                "en": "Short warm-up break inside."
+              }
+            },
+            {
+              "name": "Saue Gymnasium",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneematsch.",
+                "hu": "Vigyázz a hókásával.",
+                "ro": "Atenție la fleșcăraia de zăpadă.",
+                "en": "Watch out for slushy snow."
+              }
+            },
+            {
+              "name": "Pääsküla River",
+              "tip_5lang": {
+                "de": "Nicht zu nah ans Ufer fahren.",
+                "hu": "Ne menj túl közel a parthoz.",
+                "ro": "Nu te apropia prea mult de mal.",
+                "en": "Don't ride too close to the edge."
+              }
+            },
+            {
+              "name": "Sarapiku Health Track",
+              "tip_5lang": {
+                "de": "Gefrorene Spurrillen meiden.",
+                "hu": "Kerüld a fagyott keréknyomokat.",
+                "ro": "Evită șanțurile înghețate.",
+                "en": "Avoid frozen tire ruts."
+              }
+            },
+            {
+              "name": "Vanamõisa Open Air Centre",
+              "tip_5lang": {
+                "de": "Schneewehen am Wegrand.",
+                "hu": "Hófúvások az út szélén.",
+                "ro": "Nămeți de zăpadă pe margini.",
+                "en": "Snowdrifts on the roadsides."
+              }
+            },
+            {
+              "name": "Saue Central Park",
+              "tip_5lang": {
+                "de": "Beleuchtung einschalten.",
+                "hu": "Kapcsold be a világítást.",
+                "ro": "Aprinde luminile bicicletei.",
+                "en": "Turn on your bike lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen sind auf den gefrorenen Wegen in Saue sehr hilfreich.",
+              "Trinken Sie auch bei Kälte genug, um hydriert zu bleiben.",
+              "Vermeiden Sie hektische Lenkbewegungen auf glattem Untergrund.",
+              "Die Kette benötigt im Winter mehr Öl wegen des Streusalzes.",
+              "Tragen Sie winddichte Kleidung, um den Fahrtwind abzuwehren."
+            ],
+            "hu": [
+              "A szöges gumik nagyon hasznosak a fagyott Saue-i utakon.",
+              "Igyon eleget a hidegben is, hogy hidratált maradjon.",
+              "Kerülje a hirtelen kormánymozdulatokat a csúszós felületen.",
+              "A láncnak télen több olajozásra van szüksége az útszóró só miatt.",
+              "Viseljen szélálló ruházatot a menetszél ellen."
+            ],
+            "ro": [
+              "Anvelopele cu ținte sunt foarte utile pe drumurile înghețate.",
+              "Beți suficiente lichide și pe ger pentru hidratare.",
+              "Evitați mișcările bruște de ghidon pe suprafețe alunecoase.",
+              "Lanțul are nevoie de mai mult ulei iarna din cauza sării de pe drum.",
+              "Purtați haine rezistente la vânt pentru a combate curentul rece."
+            ],
+            "en": [
+              "Studded tires are highly recommended for frozen Saue paths.",
+              "Keep drinking fluids even in the cold to stay hydrated.",
+              "Avoid sharp steering maneuvers on slippery surfaces.",
+              "Your bike chain needs more lube in winter due to road salt.",
+              "Wear windproof outer layers to block the freezing headwind."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1085,6 +1483,196 @@
           "Parking fees may vary, have some change ready.",
           "Combine the trip with a visit to the nearby capital, Tallinn."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt am Vanamõisa-Zentrum, wo man bequem im Auto auf das Nachlassen des Regens warten kann. Kurze Wege von den Parkplätzen ermöglichen trockene Besuche am Gesundheitspfad und im Herrenhaus Saue. Das Auto dient als warme Basis zwischen den Erkundungen der nassen Natur. Den Abschluss bildet ein Besuch im Central Park, wobei man das prasselnde Geräusch der Tropfen auf dem Autodach genießt.",
+            "hu": "Az utazás a Vanamõisa központnál indul, ahol kényelmesen megvárhatjuk az eső csendesedését az autóban. A parkolóktól mért rövid távolságok száraz látogatást tesznek lehetővé a tanösvénynél és a Saue-kastélynál. Az autó meleg bázisként szolgál a vizes természet felfedezése között. A napot a Központi parkban zárjuk, élvezve az eső kopogását az autótetőn.",
+            "ro": "Călătoria începe la centrul Vanamõisa, unde puteți aștepta confortabil în mașină trecerea ploii. Distanțele scurte de la parcări permit vizite uscate la traseul de sănătate și conacul Saue. Mașina servește ca bază caldă între explorările naturii umede. Turul se încheie la Parcul Central, savurând sunetul picăturilor pe plafonul mașinii.",
+            "en": "The drive begins at Vanamõisa, where you can comfortably wait for the rain to ease inside the car. Short walks from parking spots allow for dry visits to the health track and Saue Manor. The car serves as a warm base camp between explorations of the damp outdoors. The day ends with a visit to Central Park, enjoying the rhythmic sound of rain on the roof."
+          },
+          "stops": [
+            {
+              "name": "Parking at Vanamõisa Open Air Centre",
+              "tip_5lang": {
+                "de": "Nah am Eingang parken.",
+                "hu": "Parkolj közel a bejárathoz.",
+                "ro": "Parchează aproape de intrare.",
+                "en": "Park close to the entrance."
+              }
+            },
+            {
+              "name": "Vanamõisa Open Air Centre",
+              "tip_5lang": {
+                "de": "Überdachte Stege nutzen.",
+                "hu": "Használd a fedett járdákat.",
+                "ro": "Folosește trotuarele acoperite.",
+                "en": "Use covered walkways."
+              }
+            },
+            {
+              "name": "Sarapiku Health Track",
+              "tip_5lang": {
+                "de": "Handtuch im Auto bereitlegen.",
+                "hu": "Legyen törölköző az autóban.",
+                "ro": "Ține un prosop în mașină.",
+                "en": "Keep a towel in the car."
+              }
+            },
+            {
+              "name": "Parking at Saue Manor",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen.",
+                "hu": "Vigyázz a mély tócsákkal.",
+                "ro": "Atenție la bălțile adânci.",
+                "en": "Watch out for deep puddles."
+              }
+            },
+            {
+              "name": "Saue Manor & Oak Grove",
+              "tip_5lang": {
+                "de": "Schirm im Auto griffbereit.",
+                "hu": "Esernyő legyen kéznél.",
+                "ro": "Umbrela să fie la îndemână.",
+                "en": "Keep umbrella within reach."
+              }
+            },
+            {
+              "name": "Saue Central Park",
+              "tip_5lang": {
+                "de": "Scheibenwischer prüfen.",
+                "hu": "Ellenőrizd az ablaktörlőket.",
+                "ro": "Verifică ștergătoarele.",
+                "en": "Check windshield wipers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Schnellstraße nach Saue.",
+              "Nutzen Sie die Klimaanlage, um beschlagene Scheiben zu vermeiden.",
+              "Parken Sie in Saue bevorzugt auf befestigten Flächen statt auf Gras.",
+              "Halten Sie Ersatzsocken im Auto bereit, falls Schuhe nass werden.",
+              "Bei starkem Regen ist die Sicht auf den Landstraßen eingeschränkt."
+            ],
+            "hu": [
+              "Ügyeljen a vízfelúszásra a Saue felé vezető gyorsforgalmi úton.",
+              "Használja a klímát a párásodó szélvédő ellen.",
+              "Saue-ban lehetőleg szilárd burkolaton parkoljon a fű helyett.",
+              "Legyen tartalék zokni az autóban, ha beázna a cipője.",
+              "Heves esőben a látási viszonyok korlátozottak az országutakon."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul rapid spre Saue.",
+              "Folosiți aerul condiționat pentru a dezaburi parbrizul.",
+              "Parcați de preferință pe suprafețe dure în loc de iarbă în Saue.",
+              "Țineți șosete de schimb în mașină în caz că vă udați la picioare.",
+              "Vizibilitatea este redusă pe drumurile locale în timpul ploii."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the highway leading to Saue.",
+              "Use the air conditioning to keep windows from fogging up.",
+              "Prefer paved parking spots over grassy areas to avoid getting stuck.",
+              "Keep spare socks in the car in case your shoes get soaked.",
+              "Visibility on country roads can be very poor during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erfordert die Fahrt nach Vanamõisa Vorsicht auf den schneeglatten Straßen. Die Sitzheizung macht die Pausen zwischen den winterlichen Besuchen am Gesundheitspfad und im Park angenehm. Das Herrenhaus Saue erstrahlt im Schnee besonders prachtvoll und lädt zum Verweilen ein. Die Tour endet früh, da das Tageslicht schwindet, während die Stadtlichter von Saue eine gemütliche Atmosphäre verbreiten.",
+            "hu": "Reggel a Vanamõisa felé vezető út óvatosságot igényel a havas utakon. Az ülésfűtés kellemessé teszi a pihenőket a tanösvény és a park téli látogatása között. A Saue-kastély különösen pompás a hóban, hívogató látványt nyújt. A túra korán ér véget a fogyatkozó nappali fényben, miközben Saue városi fényei meghitt hangulatot árasztanak.",
+            "ro": "Dimineața, drumul spre Vanamõisa necesită prudență pe carosabilul înzăpezit. Încălzirea în scaune face pauzele între vizitele la traseu și parc foarte plăcute. Conacul Saue arată splendid în zăpadă, oferind o priveliște deosebită. Turul se încheie devreme pe măsură ce lumina scade, în timp ce luminile orașului creează o atmosferă primitoare.",
+            "en": "Morning drive to Vanamõisa requires care on the snow-slicked roads. Heated seats make the breaks between winter visits to the health track and park very cozy. Saue Manor looks particularly grand blanketed in white, inviting a long visit. The tour concludes early as daylight fades, with the warm glow of Saue's streetlights creating a peaceful atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Parking at Vanamõisa Open Air Centre",
+              "tip_5lang": {
+                "de": "Eiskratzer bereithalten.",
+                "hu": "Legyen kéznél jégkaparó.",
+                "ro": "Ține racleta la îndemână.",
+                "en": "Keep ice scraper handy."
+              }
+            },
+            {
+              "name": "Vanamõisa Open Air Centre",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schneewehen.",
+                "hu": "Vigyázz a hófúvásokkal.",
+                "ro": "Atenție la troienele de zăpadă.",
+                "en": "Watch out for snowdrifts."
+              }
+            },
+            {
+              "name": "Sarapiku Health Track",
+              "tip_5lang": {
+                "de": "Parkplatz kann glatt sein.",
+                "hu": "A parkoló csúszós lehet.",
+                "ro": "Parcarea poate fi alunecoasă.",
+                "en": "Parking lot may be slippery."
+              }
+            },
+            {
+              "name": "Parking at Saue Manor",
+              "tip_5lang": {
+                "de": "Nicht in tiefem Schnee parken.",
+                "hu": "Ne parkolj mély hóba.",
+                "ro": "Nu parca în zăpadă adâncă.",
+                "en": "Don't park in deep snow."
+              }
+            },
+            {
+              "name": "Saue Manor & Oak Grove",
+              "tip_5lang": {
+                "de": "Motor vor Abfahrt warmlaufen.",
+                "hu": "Melegítsd be a motort.",
+                "ro": "Încălzește motorul înainte.",
+                "en": "Warm up engine before leaving."
+              }
+            },
+            {
+              "name": "Saue Central Park",
+              "tip_5lang": {
+                "de": "Scheibenwaschwasser prüfen.",
+                "hu": "Ellenőrizd a szélvédőmosót.",
+                "ro": "Verifică lichidul de parbriz.",
+                "en": "Check washer fluid level."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Estland von Dezember bis März gesetzlich Pflicht.",
+              "Führen Sie eine kleine Schaufel für den Notfall im Kofferraum mit.",
+              "Sprühen Sie Türdichtungen ein, um ein Zufrieren zu verhindern.",
+              "Planen Sie mehr Zeit für die Fahrt ein, da Straßen geräumt werden müssen.",
+              "Halten Sie den Tank mindestens halb voll für zusätzliche Wärme im Notfall."
+            ],
+            "hu": [
+              "Észtországban decembertől márciusig kötelező a téli gumi.",
+              "Tartson egy kis lapátot a csomagtartóban vészhelyzet esetére.",
+              "Fújja le az ajtótömítéseket, hogy ne fagyjanak be.",
+              "Hagyjon több időt az utazásra a hókotrási munkálatok miatt.",
+              "Tartsa a tankot legalább félig a vészhelyzeti fűtés érdekében."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Estonia din decembrie până în martie.",
+              "Țineți o lopată mică în portbagaj pentru urgențe.",
+              "Pulverizați garniturile ușilor pentru a preveni înghețarea lor.",
+              "Alocați mai mult timp călătoriei din cauza utilajelor de deszăpezire.",
+              "Păstrați rezervorul cel puțin pe jumătate plin pentru căldură în caz de blocaj."
+            ],
+            "en": [
+              "Winter tires are legally required in Estonia from December to March.",
+              "Keep a small snow shovel in the trunk for emergencies.",
+              "Spray door seals to prevent them from freezing shut.",
+              "Allow extra travel time as roads may be undergoing snow removal.",
+              "Keep the fuel tank at least half full for emergency heating."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1417,6 +2005,178 @@
           "Download schedules offline in case the internet connection is poor.",
           "Ask the bus driver if you are unsure which stop to get off at."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Tour beginnt an der Bushaltestelle Keskus, wobei man sich unter den Unterstand flüchtet. Die Fahrt zum Herrenhaus Saue ist kurz, und das Gebäude bietet stundenlangen Schutz vor dem Wetter. Der Central Park wird bei Regen schnell durchquert, bevor es zum Vanamõisa-Zentrum geht. Der Tag endet an den Ufern der Pääsküla, wobei man die Buszeiten genau im Auge behält, um nicht im Regen warten zu müssen.",
+            "hu": "A túra a Keskus buszmegállónál indul, ahol a váróterem védelmet nyújt. A Saue-kastélyhoz rövid az út, az épület pedig órákig tartó menedéket ad az időjárás elől. A Központi parkot gyorsan átszeljük az esőben, mielőtt Vanamõisába indulnánk. A nap a Pääsküla partján zárul, közben figyeljük a menetrendet, hogy ne ázzunk meg várakozás közben.",
+            "ro": "Turul începe la stația de autobuz Keskus, unde vă puteți adăposti. Cursa către conacul Saue este scurtă, iar clădirea oferă protecție ore în șir. Parcul Central este traversat rapid pe ploaie înainte de a merge la Vanamõisa. Ziua se încheie pe malul râului Pääsküla, verificând atent orarul pentru a evita așteptarea în ploaie.",
+            "en": "The tour starts at the Keskus bus stop, seeking cover under the shelter. The trip to Saue Manor is quick, and the building offers hours of protection from the elements. Central Park is crossed swiftly in the rain before heading to Vanamõisa. The day concludes at the Pääsküla banks, keeping a close eye on bus times to avoid waiting in the wet."
+          },
+          "stops": [
+            {
+              "name": "Saue Keskus bus stop",
+              "tip_5lang": {
+                "de": "Unterstand gegen Wind nutzen.",
+                "hu": "Használd a szélvédett várót.",
+                "ro": "Folosește adăpostul contra vântului.",
+                "en": "Use the shelter against wind."
+              }
+            },
+            {
+              "name": "Saue Manor & Oak Grove",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Bus.",
+                "hu": "Rövid gyalogút a busztól.",
+                "ro": "Drum scurt pe jos de la autobuz.",
+                "en": "Short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Saue Central Park",
+              "tip_5lang": {
+                "de": "Wartehäuschen am Parkeingang.",
+                "hu": "Váróterem a park bejáratánál.",
+                "ro": "Adăpost la intrarea în parc.",
+                "en": "Shelter at the park entrance."
+              }
+            },
+            {
+              "name": "Vanamõisa Open Air Centre",
+              "tip_5lang": {
+                "de": "Bus-App für Echtzeitdaten.",
+                "hu": "Használd a menetrendi appot.",
+                "ro": "Folosește aplicația de transport.",
+                "en": "Check real-time bus app."
+              }
+            },
+            {
+              "name": "Banks of Pääsküla River",
+              "tip_5lang": {
+                "de": "Schirm fest festhalten.",
+                "hu": "Tartsd erősen az esernyőt.",
+                "ro": "Ține bine umbrela pe vânt.",
+                "en": "Hold your umbrella firmly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie die 'Pilet.ee' App für bargeldlose Tickets.",
+              "Die Busse in Saue sind beheizt und bieten Schutz vor dem Regen.",
+              "Kombinieren Sie Bus und Zug für schnellere Verbindungen im Trockenen.",
+              "Stellen Sie sich bei Wind zentral in die Wartehäuschen.",
+              "Achten Sie auf Spritzwasser von vorbeifahrenden Autos an Haltestellen."
+            ],
+            "hu": [
+              "Használja a 'Pilet.ee' alkalmazást a jegyvásárláshoz.",
+              "A Saue-i buszok fűtöttek és védelmet nyújtanak az eső ellen.",
+              "Kombinálja a buszt és a vonatot a gyorsabb utazás érdekében.",
+              "Szeles időben álljon a váróterem közepére.",
+              "Ügyeljen a buszmegállók melletti autók által felvert vízre."
+            ],
+            "ro": [
+              "Utilizați aplicația 'Pilet.ee' pentru bilete digitale.",
+              "Autobuzele din Saue sunt încălzite și oferă adăpost bun.",
+              "Combinați autobuzul cu trenul pentru conexiuni mai rapide.",
+              "Stați în centrul adăpostului în stație când bate vântul.",
+              "Atenție la apa împroșcată de mașini în stațiile de autobuz."
+            ],
+            "en": [
+              "Use the 'Pilet.ee' app for contactless ticket purchases.",
+              "Buses in Saue are well-heated and dry during rainstorms.",
+              "Combine bus and train routes for faster indoor transitions.",
+              "Stand in the middle of shelters to stay dry during windy rain.",
+              "Watch out for splashes from passing cars while at bus stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens wartet man in der eisigen Dunkelheit an der Haltestelle Keskus auf den ersten Bus. Die Fahrt zum Herrenhaus Saue bietet eine willkommene Aufwärmphase, während man die Schneelandschaft aus dem Fenster beobachtet. Der Aufenthalt im Central Park ist kurz und knackig, gefolgt von der gemütlichen Busfahrt nach Vanamõisa. Die Tour endet am gefrorenen Fluss, bevor man schnell in den warmen Bus zurück ins Zentrum steigt.",
+            "hu": "Reggel a jeges sötétségben várjuk az első buszt a Keskus megállónál. A Saue-kastélyhoz vezető út kellemes felmelegedést nyújt, miközben az ablakból nézzük a havas tájat. A Központi parki látogatás rövid és frissítő, majd kényelmes buszozás következik Vanamõisába. A túra a befagyott folyónál zárul, mielőtt gyorsan felszállnánk a meleg buszra vissza a központba.",
+            "ro": "Dimineața așteptați primul autobuz în întunericul înghețat la stația Keskus. Drumul spre conacul Saue oferă o fază de încălzire în timp ce priviți peisajul de iarnă pe geam. Vizita în Parcul Central este scurtă, urmată de o cursă confortabilă spre Vanamõisa. Turul se încheie la râul înghețat, înainte de a urca rapid în autobuzul cald spre centru.",
+            "en": "Morning starts in the freezing dark at Keskus stop, waiting for the first warm bus. The ride to Saue Manor is a welcome chance to thaw out while watching the snowy world drift by. The visit to Central Park is brief and crisp, followed by a cozy transit ride to Vanamõisa. The tour ends by the frozen river, just before hopping back onto a warm bus to the center."
+          },
+          "stops": [
+            {
+              "name": "Saue Keskus bus stop",
+              "tip_5lang": {
+                "de": "Fahrplan-Änderungen bei Schnee.",
+                "hu": "Hó esetén változhat a menetrend.",
+                "ro": "Orar modificat în caz de ninsoare.",
+                "en": "Check for snow-related delays."
+              }
+            },
+            {
+              "name": "Saue Manor & Oak Grove",
+              "tip_5lang": {
+                "de": "Bus hält direkt in der Nähe.",
+                "hu": "A busz közvetlen közel áll meg.",
+                "ro": "Autobuzul oprește chiar lângă.",
+                "en": "Bus stops very close by."
+              }
+            },
+            {
+              "name": "Saue Central Park",
+              "tip_5lang": {
+                "de": "Geheizte Wartehalle suchen.",
+                "hu": "Keress fűtött váróhelyiséget.",
+                "ro": "Caută o sală de așteptare caldă.",
+                "en": "Look for heated waiting areas."
+              }
+            },
+            {
+              "name": "Vanamõisa Open Air Centre",
+              "tip_5lang": {
+                "de": "Letzten Bus vor 17 Uhr nutzen.",
+                "hu": "Használd az utolsó buszt 5 előtt.",
+                "ro": "Ia ultimul autobuz înainte de 17.",
+                "en": "Take the last bus before 5 PM."
+              }
+            },
+            {
+              "name": "Banks of Pääsküla River",
+              "tip_5lang": {
+                "de": "Weg zum Bus kann glatt sein.",
+                "hu": "A buszhoz vezető út csúszós.",
+                "ro": "Drumul spre stație e alunecos.",
+                "en": "Path to the bus can be icy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge (Elron) sind im Winter oft pünktlicher als Busse.",
+              "Tragen Sie warme Stiefel für das Warten an der Haltestelle.",
+              "Busse können bei starkem Schneefall Verspätungen haben.",
+              "Nutzen Sie die App für Live-Standorte der Fahrzeuge.",
+              "Halten Sie Ihre Fahrkarte griffbereit, um Kälte-Eintritt zu minimieren."
+            ],
+            "hu": [
+              "A vonatok (Elron) télen gyakran pontosabbak a buszoknál.",
+              "Viseljen meleg bakancsot a megállóban való várakozáshoz.",
+              "Hóvihar esetén a buszok késhetnek Saue környékén.",
+              "Kövesse élőben a járatokat az alkalmazásban.",
+              "Legyen kéznél a jegye, hogy minél előbb felszállhasson."
+            ],
+            "ro": [
+              "Trenurile (Elron) sunt adesea mai punctuale decât autobuzele.",
+              "Purtați ghete groase pentru așteptarea în stație.",
+              "Autobuzele pot avea întârzieri în caz de ninsoare abundentă.",
+              "Urmăriți locația live a autobuzelor în aplicație.",
+              "Țineți biletul pregătit pentru a urca rapid în căldură."
+            ],
+            "en": [
+              "Trains (Elron) are often more punctual than buses in winter.",
+              "Wear heavily insulated boots for waiting at the stops.",
+              "Buses may experience delays during heavy Estonian snowfalls.",
+              "Use the mobile app for real-time vehicle tracking.",
+              "Have your ticket ready to minimize time spent with open doors."
+            ]
+          }
+        }
       }
     }
   }

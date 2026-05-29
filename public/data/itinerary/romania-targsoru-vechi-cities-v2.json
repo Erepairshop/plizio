@@ -291,6 +291,214 @@
           "Check the museum's opening hours in advance.",
           "The entire complex is outdoors, so dress for the weather."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im archäologischen Reservat, wo die Ruinen unter dem grauen Himmel eine mystische Atmosphäre ausstrahlen. Ein Regenschirm ist auf den offenen Pfaden zwischen den römischen Thermen und den Kirchenruinen unerlässlich.\n\nMittags bietet das Turnu-Kloster einen friedlichen und trockenen Rückzugsort für Besinnung. Die Mauern schützen vor dem Wind der Prahova-Ebene.\n\nAm Nachmittag ist das Museum der ideale Ort, um dem Regen zu entkommen und die Funde der Ausgrabungen im Trockenen zu studieren. Die Moruzi-Villa wirkt im Regen besonders melancholisch.\n\nBeenden Sie den Rundgang am Denkmal von Michael dem Tapferen, bevor Sie in einer lokalen Unterkunft einkehren.",
+            "hu": "A reggelt a régészeti rezervátumban kezdjük, ahol az esőáztatta romok különleges, komor hangulatot árasztanak a Prahova-síkságon. Az útvonal nyílt terepen halad, így az esernyő nélkülözhetetlen a római fürdők és a templomromok között.\n\nDélben a Turnu-kolostor belső terei nyújtanak menedéket a csapadék elől, lehetőséget adva a csendes elmélyülésre.\n\nDélután a helyszíni múzeum kiállítása a legjobb program, itt szárazon ismerhetjük meg a fejedelmi udvar történetét. A Moruzi-udvarház romjai mellett elhaladva térünk vissza a faluba.\n\nAz estét a Vitéz Mihály emlékműnél zárjuk, majd keressünk egy fedett helyet a pihenésre.",
+            "ro": "Începeți ziua în rezervația arheologică, unde ruinele ude capătă o aură mistică sub cerul plumburiu. Umbrela este esențială pe potecile deschise dintre termele romane și bisericile ruinate.\n\nLa prânz, Mănăstirea Turnu oferă un refugiu liniștit și uscat. Zidurile groase oferă protecție împotriva ploii și vântului de câmpie.\n\nDupă-amiaza este momentul perfect pentru vizitarea Muzeului sitului, unde puteți studia descoperirile arheologice la adăpost. Conacul Moruzi evocă o atmosferă melancolică în decorul ploios.\n\nÎncheiați traseul la Monumentul lui Mihai Viteazul, înainte de a vă retrage spre un loc călduros.",
+            "en": "Start your morning at the archaeological reserve, where the wet ruins evoke a mystical atmosphere under grey skies. An umbrella is vital on the open paths between the Roman baths and church ruins.\n\nAt noon, Turnu Monastery provides a peaceful and dry sanctuary. Its walls offer a welcome break from the wind of the Prahova plain.\n\nIn the afternoon, the site museum is the ideal place to escape the rain and study the excavated artifacts in comfort. The Moruzi Mansion ruins look particularly atmospheric in the mist.\n\nFinish your walk at the Monument of Michael the Brave before heading to a dry spot for the evening."
+          },
+          "stops": [
+            {
+              "name": "Târgșoru Vechi Archaeological Reserve",
+              "tip_5lang": {
+                "de": "Feste Wanderschuhe sind wichtig, da die Graswege bei Regen sehr rutschig werden.",
+                "hu": "A fűvel borított ösvények sárossá válhatnak, viseljünk vízálló lábbelit.",
+                "ro": "Potecile înierbate pot deveni alunecoase; purtați încălțăminte cu aderență bună.",
+                "en": "Grassy paths can get slippery when wet; wear sturdy, waterproof boots."
+              }
+            },
+            {
+              "name": "Roman Baths",
+              "tip_5lang": {
+                "de": "Die freigelegten Mauern bieten keinen Schutz, halten Sie den Regenschirm bereit.",
+                "hu": "A feltárt falak nem nyújtanak fedezéket, tartsuk készenlétben az esernyőt.",
+                "ro": "Zidurile expuse nu oferă adăpost; țineți umbrela la îndemână.",
+                "en": "The exposed ruins offer no shelter; keep your umbrella ready for open areas."
+              }
+            },
+            {
+              "name": "The Red and White Church (ruins)",
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie der Regen die Farben der alten Ziegel intensiver hervortreten lässt.",
+                "hu": "Figyeljük meg, ahogy az eső kiemeli a régi téglák vöröses színét.",
+                "ro": "Observați cum ploaia accentuează culorile cărămizilor vechi ale ruinelor.",
+                "en": "Notice how the rain deepens the colors of the ancient brickwork."
+              }
+            },
+            {
+              "name": "Turnu Monastery",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorraum der Kirche, um die Kleidung kurz zu trocknen.",
+                "hu": "Használjuk ki a templom előterét a ruházat rövid szárítására.",
+                "ro": "Folosiți pridvorul bisericii pentru un scurt moment de răgaz la uscat.",
+                "en": "Use the church porch for a brief dry moment during the downpour."
+              }
+            },
+            {
+              "name": "Museum of the Archaeological Site",
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, dies ist der beste überdachte Ort des Areals.",
+                "hu": "Töltsünk itt több időt, ez a terület legjobb fedett látnivalója.",
+                "ro": "Acordați mai mult timp muzeului, fiind cel mai bun spațiu interior de pe traseu.",
+                "en": "Plan to stay longer here as it is the best indoor facility in the reserve."
+              }
+            },
+            {
+              "name": "Moruzi Mansion",
+              "tip_5lang": {
+                "de": "Vorsicht vor tief hängenden Ästen der nassen Bäume in der Nähe der Ruine.",
+                "hu": "Vigyázzunk a romok körüli nedves fákról lelógó ágakra.",
+                "ro": "Atenție la crengile umede ale copacilor din jurul ruinelor conacului.",
+                "en": "Watch out for dripping branches near the mansion ruins."
+              }
+            },
+            {
+              "name": "Monument of Michael the Brave",
+              "tip_5lang": {
+                "de": "Ein schnelles Foto und dann zurück ins Dorf, da es hier sehr windig sein kann.",
+                "hu": "Egy gyors fotó után érdemes visszatérni a faluba a szél elől.",
+                "ro": "O fotografie rapidă și apoi retragerea spre sat, zona fiind expusă vântului.",
+                "en": "Take a quick photo and head back, as this spot is quite exposed to wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Kleidung, da das Gelände kaum natürliche Unterstände bietet.",
+              "Die Wege zwischen den Ruinen bestehen teilweise aus Erde, die schnell schlammig wird.",
+              "Das Museum ist der einzige Ort mit einer umfassenden Heizung und Trockenmöglichkeit.",
+              "Halten Sie Ihre Kamera oder Ihr Handy in einer wasserdichten Hülle bereit.",
+              "Ein heißer Tee im Dorf nach dem Rundgang wärmt nach der feuchten Prahova-Luft auf."
+            ],
+            "hu": [
+              "Vízálló öltözet kötelező, mert a területen kevés a természetes fedett rész.",
+              "A romok közötti földutak esőben gyorsan feláznak és sárossá válnak.",
+              "A múzeum az egyetlen hely, ahol hosszabb időt tölthetünk szárazon.",
+              "Tartsuk a fényképezőgépet vagy telefont vízhatlan tokban a séta alatt.",
+              "A túra után érdemes a faluban egy meleg italt inni a felfrissüléshez."
+            ],
+            "ro": [
+              "Purtăm pelerine de ploaie, deoarece situl are puține zone acoperite.",
+              "Drumurile de pământ dintre ruine pot deveni noroioase după o ploaie serioasă.",
+              "Muzeul este singura locație încălzită și complet ferită de intemperii.",
+              "Protejați aparatura electronică în huse impermeabile pe parcursul vizitei.",
+              "O băutură caldă în sat după traseu este ideală pentru a vă încălzi."
+            ],
+            "en": [
+              "Wear full waterproof gear as the archaeological site has limited natural shelter.",
+              "Dirt paths between the various ruins can become very muddy after rain.",
+              "The museum is the only significant indoor space to dry off and warm up.",
+              "Keep your electronics in waterproof pouches while navigating the open fields.",
+              "Consider a warm drink in the village after the walk to recover from the damp."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die frostige Stille des antiken Târgșoru Vechi am Morgen. Der Raureif auf den römischen Fundamenten verleiht der Geschichte eine gläserne Klarheit.\n\nMittags suchen Sie die Wärme im Turnu-Kloster. Das Licht der Wintersonne fällt schräg auf die weiß getünchten Mauern und schafft eine besinnliche Ruhe.\n\nAm Nachmittag verkürzen wir den Aufenthalt im Freien und konzentrieren uns auf das Museum. Die Sonne versinkt früh gegen 16:30 Uhr hinter dem Horizont der Walachei.\n\nDer Abend bricht schnell an, während Sie am Denkmal von Michael dem Tapferen die heroische Vergangenheit im kalten Winterwind spüren.",
+            "hu": "Élje át az ősi Târgșoru Vechi fagyos csendjét reggel. A római alapokon megülő dér különleges, kristályos csillogást ad a történelmi romoknak.\n\nDélben keressünk menedéket a Turnu-kolostor falai között. A téli nap fénye alacsonyan súrolja a fehérre meszelt falakat, mély nyugalmat árasztva.\n\nDélután a kinti tartózkodást rövidítsük le a múzeum javára. A nap korán, 16:30 körül tűnik el a havasalföldi horizont mögött.\n\nAz este gyorsan leszáll, miközben a Vitéz Mihály emlékműnél a hideg téli szélben idézzük fel a fejedelmi múltat.",
+            "ro": "Experimentați liniștea înghețată a vechiului Târgșoru Vechi dimineața. Chiciura depusă pe fundamentele romane oferă o claritate aparte istoriei locului.\n\nLa prânz, căutați căldura în interiorul Mănăstirii Turnu. Lumina soarelui de iarnă cade oblic pe zidurile albe, creând o atmosferă de pace profundă.\n\nDupă-amiaza, scurtați explorarea exterioară în favoarea muzeului. Soarele apune devreme, în jurul orei 16:30, peste orizontul câmpiei muntene.\n\nSeara se lasă rapid, în timp ce la Monumentul lui Mihai Viteazul simțiți trecutul eroic în vântul tăios de iarnă.",
+            "en": "Experience the frosty silence of ancient Târgșoru Vechi in the morning. Hoarfrost on the Roman foundations gives history a crystal-clear clarity.\n\nAt noon, seek warmth inside Turnu Monastery. The low winter sun hits the whitewashed walls, creating a scene of profound serenity.\n\nIn the afternoon, limit your time outside and head to the museum. The sun sets early, around 16:30, over the Wallachian horizon.\n\nThe evening arrives quickly as you stand by the Monument of Michael the Brave, feeling the heroic past in the cold winter wind."
+          },
+          "stops": [
+            {
+              "name": "Târgșoru Vechi Archaeological Reserve",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den freigelegten Steinplatten.",
+                "hu": "Vigyázzunk a jeges foltokra a feltárt kőlapokon.",
+                "ro": "Atenție la porțiunile înghețate de pe dalele de piatră expuse.",
+                "en": "Watch out for icy patches on the exposed stone foundations."
+              }
+            },
+            {
+              "name": "Roman Baths",
+              "tip_5lang": {
+                "de": "Der Wind pfeift hier ungehindert; tragen Sie eine winddichte Jacke.",
+                "hu": "A szél itt akadálytalanul fúj, viseljünk szélálló kabátot.",
+                "ro": "Vântul bate puternic aici; purtați o jachetă rezistentă la vânt.",
+                "en": "The wind blows freely across the ruins; wear a windproof jacket."
+              }
+            },
+            {
+              "name": "The Red and White Church (ruins)",
+              "tip_5lang": {
+                "de": "Die Ruinen wirken im fahlen Winterlicht besonders kontrastreich.",
+                "hu": "A romok a fakó téli fényben különösen kontrasztos látványt nyújtanak.",
+                "ro": "Ruinele par extrem de contrastante în lumina palidă a iernii.",
+                "en": "The ruins look striking and high-contrast in the pale winter light."
+              }
+            },
+            {
+              "name": "Turnu Monastery",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für ein kurzes Gebet und zum Aufwärmen.",
+                "hu": "Csendes hely egy rövid imára és az átmelegedésre.",
+                "ro": "Un loc liniștit pentru o scurtă rugăciune și pentru a vă încălzi.",
+                "en": "A quiet spot for a short prayer and to warm up slightly."
+              }
+            },
+            {
+              "name": "Museum of the Archaeological Site",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung hier, um neue Energie für den Rückweg zu tanken.",
+                "hu": "Használjuk ki a fűtést, hogy új erőt gyűjtsünk a visszatéréshez.",
+                "ro": "Profitați de încălzire pentru a vă recupera energia înainte de plecare.",
+                "en": "Make use of the heating here to recharge for the walk back."
+              }
+            },
+            {
+              "name": "Moruzi Mansion",
+              "tip_5lang": {
+                "de": "Vorsicht vor herabfallenden Eiszapfen an den Ruinenresten.",
+                "hu": "Vigyázzunk a rommaradványokról lelógó jégcsapokra.",
+                "ro": "Atenție la țurțurii care se pot forma pe resturile de zidărie.",
+                "en": "Be careful of falling icicles from the remaining ruins."
+              }
+            },
+            {
+              "name": "Monument of Michael the Brave",
+              "tip_5lang": {
+                "de": "Das Denkmal ist bei Sonnenuntergang (ca. 16:30) ein tolles Fotomotiv.",
+                "hu": "Az emlékmű naplementekor (kb. 16:30) kiváló fotótéma.",
+                "ro": "Monumentul este un subiect foto excelent la apus (aprox. 16:30).",
+                "en": "The monument makes a great photo subject at sunset (around 16:30)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche, da der Wind in der Ebene sehr beißend sein kann.",
+              "Die Gehwege können glatt sein, wählen Sie Schuhe mit gutem Profil.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter, planen Sie frühzeitig.",
+              "Bringen Sie eine Thermoskanne mit einem heißen Getränk für die Tour mit.",
+              "Besuchen Sie das Museum zuletzt, um sich vor der Abreise aufzuwärmen."
+            ],
+            "hu": [
+              "Viseljünk termóruházatot, mert a síkságon metsző lehet a szél.",
+              "Az ösvények csúszósak lehetnek, válasszunk bordázott talpú cipőt.",
+              "A nap télen már 16:30 körül lemegy, kezdjük korán a látogatást.",
+              "Vigyünk magunkkal termoszt meleg itallal a szabadtéri szakaszokra.",
+              "A múzeumot hagyjuk a végére, hogy átmelegedve induljunk haza."
+            ],
+            "ro": [
+              "Purtați haine termice, vântul din câmpie poate fi foarte tăios iarna.",
+              "Potecile pot fi înghețate; alegeți încălțăminte cu talpă antiderapantă.",
+              "Soarele apune în jur de 16:30 iarna; planificați vizita cât mai devreme.",
+              "Luați un termos cu ceai cald pentru segmentele petrecute în exterior.",
+              "Lăsați vizita la muzeu spre final pentru a vă încălzi înainte de plecare."
+            ],
+            "en": [
+              "Wear thermal layers as the wind across the plains can be biting in winter.",
+              "Paths can be icy; choose footwear with excellent grip.",
+              "Sunset is early (around 16:30) in winter; start your tour early in the day.",
+              "Carry a thermos with a hot drink for the outdoor segments of the tour.",
+              "Visit the museum last to warm up thoroughly before leaving the site."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -576,6 +784,214 @@
           "The area is open and can be windy.",
           "Respect the archaeological site and only ride on the paths."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den unbefestigten Wegen des Reservats. Der Schlamm spritzt auf, während Sie zwischen den antiken Fundamenten hindurchgleiten.\n\nMittags erreichen Sie das Turnu-Kloster, wo Sie unter dem Torbogen kurz verschnaufen und die Räder abstellen können.\n\nAm Nachmittag bietet das Museum eine willkommene Pause vom nassen Sattel. Die historische Moruzi-Villa passieren Sie zügig auf dem Weg zurück.\n\nDer Tag endet mit einer kühlen Fahrt am Denkmal vorbei, wobei das Wasser auf den Straßen die Lichter spiegelt.",
+            "hu": "Az esős kerékpározás óvatosságot igényel a rezervátum kiépítetlen útjain. A sár felverődik, miközben az antik alapok között pedálozunk.\n\nDélben érjük el a Turnu-kolostort, ahol a kapualj alatt rövid pihenőt tarthatunk és leállíthatjuk a gépeket.\n\nDélután a múzeum jelent menedéket a vizes nyereg elől. A történelmi Moruzi-udvarházat gyorsan érintjük a visszavezető úton.\n\nA nap hűvös tekeréssel zárul az emlékmű mellett, ahol az úttest vize visszatükrözi a fényeket.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe drumurile neasfaltate ale rezervației. Noroiul sare de sub roți în timp ce pedalați printre fundațiile antice.\n\nLa prânz ajungeți la Mănăstirea Turnu, unde sub poartă puteți lua o scurtă pauză și puteți parca bicicletele la adăpost.\n\nDupă-amiaza, muzeul oferă un răgaz binevenit de la șaua udă. Treceți rapid pe lângă ruinele Conacului Moruzi în drumul spre întoarcere.\n\nZiua se încheie cu o cursă răcoroasă pe lângă monument, cu apa de pe drum reflectând lumina difuză.",
+            "en": "Cycling in the rain requires caution on the unpaved paths of the reserve. Mud splashes as you glide between ancient foundations.\n\nAt noon, you reach Turnu Monastery, where you can take a quick breather and park your bikes under the archway.\n\nIn the afternoon, the museum offers a welcome break from the wet saddle. Pass by the Moruzi Mansion ruins quickly on your way back.\n\nThe day ends with a cool ride past the monument, with water on the road reflecting the dim lights."
+          },
+          "stops": [
+            {
+              "name": "Târgșoru Vechi Archaeological Reserve",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem Schlamm auf den Wegen; langsam fahren.",
+                "hu": "Vigyázzunk a csúszós sárra az utakon; haladjunk lassan.",
+                "ro": "Atenție la noroiul alunecos de pe drumuri; rulați cu viteză redusă.",
+                "en": "Beware of slippery mud on the paths; keep your speed low."
+              }
+            },
+            {
+              "name": "Roman Baths",
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, mit dem Rad direkt über die alten Steine zu fahren.",
+                "hu": "Kerüljük el, hogy közvetlenül az antik köveken hajtsunk át.",
+                "ro": "Evitați să treceți cu bicicleta direct peste pietrele antice.",
+                "en": "Avoid cycling directly over the ancient stones; stay on the paths."
+              }
+            },
+            {
+              "name": "The Red and White Church (ruins)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen, die tiefe Löcher verbergen könnten.",
+                "hu": "Vigyázzunk a tócsákra, amelyek mély gödröket rejthetnek.",
+                "ro": "Atenție la bălțile care pot ascunde gropi adânci în pământ.",
+                "en": "Watch out for puddles that might hide deep potholes."
+              }
+            },
+            {
+              "name": "Turnu Monastery",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter dem Dachvorsprung ab.",
+                "hu": "Állítsuk a kerékpárt az ereszhajlat vagy a kapu alá.",
+                "ro": "Parcați bicicleta sub streașină sau sub poarta mănăstirii.",
+                "en": "Park your bike under the eaves or the monastery gate to keep it dry."
+              }
+            },
+            {
+              "name": "Museum of the Archaeological Site",
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad sicher an und nutzen Sie die Pause zum Aufwärmen.",
+                "hu": "Zárjuk le biztonságosan a gépet, és használjuk a szünetet melegedésre.",
+                "ro": "Asigurați bicicleta și folosiți pauza pentru a vă usca puțin.",
+                "en": "Lock your bike securely and use the break to warm up indoors."
+              }
+            },
+            {
+              "name": "Moruzi Mansion",
+              "tip_5lang": {
+                "de": "Halten Sie Abstand zu den Mauern, da Steine locker sein könnten.",
+                "hu": "Tartsunk távolságot a falaktól, mert a kövek meglazulhatnak.",
+                "ro": "Păstrați distanța față de ziduri, pietrele pot fi instabile pe ploaie.",
+                "en": "Keep a distance from the ruins as wet masonry might be unstable."
+              }
+            },
+            {
+              "name": "Monument of Michael the Brave",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nasser Fahrbahn am Denkmal.",
+                "hu": "Vigyázzunk a fékezéssel a vizes úttesten az emlékműnél.",
+                "ro": "Prudență la frânare pe carosabilul umed din zona monumentului.",
+                "en": "Exercise caution when braking on the wet road near the monument."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei den unbefestigten Wegen hier absolut notwendig.",
+              "Vermeiden Sie plötzliches Bremsen auf nassem Gras oder Schlamm.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit.",
+              "Prüfen Sie Ihre Bremsen vor der Tour, da sie bei Nässe später greifen.",
+              "Trocknen Sie die Kette nach der Fahrt durch den Prahova-Schlamm ab."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a kiépítetlen utak miatt ezen a területen.",
+              "Kerüljük a hirtelen fékezést a vizes füvön vagy a sárban.",
+              "Viseljünk feltűnő esőkabátot a jobb láthatóság érdekében.",
+              "Ellenőrizzük a fékeket, mert nedves időben hosszabb a féktáv.",
+              "A túra után tisztítsuk meg és olajozzuk le a láncot a sártól."
+            ],
+            "ro": [
+              "Aripile sunt absolut necesare din cauza drumurilor de pământ din zonă.",
+              "Evitați frânarea bruscă pe iarbă udă sau prin noroi.",
+              "Purtați o pelerină de ploaie reflectorizantă pentru vizibilitate sporită.",
+              "Verificați frânele înainte de pornire; distanța de oprire crește pe ud.",
+              "Ștergeți și ungeți lanțul după o tură prin noroiul de la Târgșoru Vechi."
+            ],
+            "en": [
+              "Mudguards are essential due to the unpaved tracks around the site.",
+              "Avoid sudden braking on wet grass or slippery mud patches.",
+              "Wear a brightly colored raincoat for better visibility to drivers.",
+              "Check your brakes before starting; they take longer to grip when wet.",
+              "Dry and lube your chain after riding through the local mud."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Winter-Radtour durch Târgșoru Vechi ist eine sportliche Herausforderung. Der kalte Wind weht ungehindert über die Ebene, während Sie die antiken Ruinen ansteuern.\n\nMittags erreichen Sie das Kloster, wo die Sonne kurz die Kälte vertreibt. Die Bewegung hält Sie warm, aber Pausen sollten kurz bleiben.\n\nAm Nachmittag bietet das Museum den nötigen Stopp, um die eingefrorenen Finger wieder zu beleben. Die Ruinen der Moruzi-Villa wirken unter dem Winterhimmel besonders einsam.\n\nDie Tour endet bei Sonnenuntergang am Denkmal. Die schnelle Fahrt zurück sorgt für ein letztes Mal Adrenalin in der frostigen Luft.",
+            "hu": "A téli kerékpártúra Târgșoru Vechi környékén sportos kihívás. A hideg szél akadálytalanul fúj a síkságon, miközben az antik romok felé tekerünk.\n\nDélben érjük el a kolostort, ahol a nap rövid időre elűzi a fagyot. A mozgás melegen tart, de a pihenők legyenek rövidek.\n\nDélután a múzeum biztosítja a szükséges megállót az átfagyott ujjak felmelegítéséhez. A Moruzi-udvarház romjai magányosan állnak a téli ég alatt.\n\nA túra naplementekor ér véget az emlékműnél. A gyors hazatekerés még utoljára adrenalint ad a fagyos levegőben.",
+            "ro": "O tură de iarnă cu bicicleta prin Târgșoru Vechi este o provocare sportivă. Vântul rece bate nestingherit peste câmpie în timp ce vă îndreptați spre ruinele antice.\n\nLa prânz ajungeți la mănăstire, unde soarele alungă pentru scurt timp gerul. Mișcarea vă ține de cald, dar pauzele trebuie să fie scurte.\n\nDupă-amiaza, muzeul oferă oprirea necesară pentru a vă dezmorți degetele înghețate. Ruinele Conacului Moruzi par deosebit de izolate sub cerul de iarnă.\n\nTurul se încheie la apus, lângă monument. Cursa rapidă spre casă oferă o ultimă doză de adrenalină în aerul înghețat.",
+            "en": "A winter cycling tour through Târgșoru Vechi is a true athletic challenge. The cold wind blows unchecked across the plain as you head toward the ancient ruins.\n\nAt noon, you reach the monastery, where the sun briefly dispels the frost. Moving keeps you warm, but keep your breaks short.\n\nIn the afternoon, the museum provides a necessary stop to revive frozen fingers. The Moruzi Mansion ruins look particularly lonely under the winter sky.\n\nThe tour ends at sunset near the monument. The quick ride back provides a final adrenaline rush in the frosty air."
+          },
+          "stops": [
+            {
+              "name": "Târgșoru Vechi Archaeological Reserve",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Boden; Reifenluftdruck leicht senken.",
+                "hu": "Vigyázzunk a fagyott talajra; csökkentsük kicsit a guminyomást.",
+                "ro": "Atenție la solul înghețat; reduceți ușor presiunea din pneuri.",
+                "en": "Watch out for frozen ground; slightly lower tire pressure for grip."
+              }
+            },
+            {
+              "name": "Roman Baths",
+              "tip_5lang": {
+                "de": "Der Metallrahmen des Rades wird bei Berührung sehr kalt.",
+                "hu": "A kerékpár fémváza érintésre nagyon hideg lesz.",
+                "ro": "Cadrul metalic al bicicletei devine foarte rece la atingere.",
+                "en": "The metal frame of the bike will get very cold to the touch."
+              }
+            },
+            {
+              "name": "The Red and White Church (ruins)",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos, um nicht auszukühlen.",
+                "hu": "Csak rövid időre álljunk meg fotózni, nehogy kihűljünk.",
+                "ro": "Oprire scurtă pentru poze, pentru a nu vă răci corpul.",
+                "en": "Stop only briefly for photos to avoid cooling down too much."
+              }
+            },
+            {
+              "name": "Turnu Monastery",
+              "tip_5lang": {
+                "de": "Betreten Sie die Kirche für einen Moment der inneren Einkehr und Wärme.",
+                "hu": "Lépjünk be a templomba egy kis elcsendesedésre és melegedésre.",
+                "ro": "Intrați în biserică pentru un moment de reculegere și căldură.",
+                "en": "Step inside the church for a moment of reflection and warmth."
+              }
+            },
+            {
+              "name": "Museum of the Archaeological Site",
+              "tip_5lang": {
+                "de": "Wichtigster Halt zum Aufwärmen der Extremitäten.",
+                "hu": "A legfontosabb megálló a végtagok átmelegítéséhez.",
+                "ro": "Cea mai importantă oprire pentru a vă încălzi extremitățile.",
+                "en": "The most important stop to warm up your hands and feet."
+              }
+            },
+            {
+              "name": "Moruzi Mansion",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glätte im Schatten der Ruinenwände.",
+                "hu": "Vigyázzunk a jegesedésre a romfalak árnyékos oldalán.",
+                "ro": "Atenție la gheața din zonele umbrite de zidurile conacului.",
+                "en": "Beware of ice patches in the shade of the mansion walls."
+              }
+            },
+            {
+              "name": "Monument of Michael the Brave",
+              "tip_5lang": {
+                "de": "Beleuchtung einschalten, da die Dämmerung früh einsetzt.",
+                "hu": "Kapcsoljuk be a világítást, mert korán sötétedik.",
+                "ro": "Aprindeți luminile, amurgul se instalează foarte devreme.",
+                "en": "Turn on your lights as dusk arrives very early in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Handschuhe sind das wichtigste Ausrüstungsteil für diese Tour.",
+              "Vermeiden Sie es, verschwitzt lange im kalten Wind stehen zu bleiben.",
+              "Batterien von Lampen und Handys entladen sich bei Kälte schneller.",
+              "Tragen Sie eine Sturmhaube unter dem Helm gegen den Fahrtwind.",
+              "Achten Sie auf Raureif auf den Brücken und asphaltierten Wegen."
+            ],
+            "hu": [
+              "A jó kesztyű a legfontosabb felszerelés ezen a téli túrán.",
+              "Kerüljük, hogy izzadtan sokáig álljunk meg a hideg szélben.",
+              "A lámpák és a telefon akkumulátora gyorsabban merül a hidegben.",
+              "Viseljünk vékony maszkot a sisak alatt a menetszél ellen.",
+              "Vigyázzunk a dérre a hidakon és az aszfaltozott szakaszokon."
+            ],
+            "ro": [
+              "Mănușile de calitate sunt cel mai important accesoriu pentru acest tur.",
+              "Evitați să stați nemișcați prea mult timp în vânt dacă sunteți transpirați.",
+              "Bateriile farurilor și ale telefonului se descarcă mult mai rapid la frig.",
+              "Purtați o cagulă sub cască pentru a vă proteja fața de vântul tăios.",
+              "Atenție la chiciură pe poduri și pe porțiunile asfaltate."
+            ],
+            "en": [
+              "High-quality gloves are the most essential gear for this winter ride.",
+              "Avoid standing still for too long in the wind if you have been sweating.",
+              "Light and phone batteries drain much faster in cold temperatures.",
+              "Wear a thin balaclava under your helmet to block the freezing wind.",
+              "Watch out for hoarfrost on bridges and paved sections of the road."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -868,6 +1284,214 @@
           "Do not leave valuables visible in the car.",
           "The parking area may not be guarded."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Fahrt durch die regnerische Prahova-Ebene. Ihr Auto bietet den perfekten Schutz, während Sie das archäologische Reservat ansteuern.\n\nMittags parken Sie nah am Turnu-Kloster. Der kurze Weg von der Tür zum Kirchenschiff ist auch ohne Schirm machbar, wenn man schnell ist.\n\nAm Nachmittag parken Sie direkt am Museumseingang. Beobachten Sie aus dem trockenen Innenraum, wie der Regen die antiken Steine der Moruzi-Villa wäscht.\n\nDie Tour endet am Denkmal von Michael dem Tapferen, bevor Sie gemütlich im geheizten Auto die Heimreise antreten.",
+            "hu": "Élvezze az autózást az esős Prahova-síkságon. A jármű tökéletes védelmet nyújt, miközben a régészeti rezervátum felé tartunk.\n\nDélben parkoljunk közel a Turnu-kolostorhoz. Az autó ajtaja és a templombejárat közötti rövid táv esernyő nélkül is megtehető, ha gyorsak vagyunk.\n\nDélután közvetlenül a múzeumnál álljunk meg. A száraz utastérből figyelhetjük meg, ahogy az eső lemossa a Moruzi-udvarház antik köveit.\n\nA túra a Vitéz Mihály emlékműnél zárul, mielőtt kényelmesen, a fűtött autóban elindulnánk haza.",
+            "ro": "Bucurați-vă de drumul prin câmpia prahoveană sub ploaie. Mașina oferă protecția perfectă în timp ce vă îndreptați spre rezervația arheologică.\n\nLa prânz, parcați cât mai aproape de Mănăstirea Turnu. Distanța scurtă până la intrare poate fi parcursă rapid chiar și fără umbrelă.\n\nDupă-amiaza, parcați direct lângă intrarea în muzeu. Observați din interiorul uscat al mașinii cum ploaia spală zidurile vechiului Conac Moruzi.\n\nTraseul se încheie la Monumentul lui Mihai Viteazul, înainte de a porni spre casă în confortul mașinii încălzite.",
+            "en": "Enjoy the drive through the rainy Prahova plain. Your car provides perfect protection as you head toward the archaeological reserve.\n\nAt noon, park close to Turnu Monastery. The short distance from the car to the entrance is manageable even without an umbrella if you're quick.\n\nIn the afternoon, park right next to the museum. Watch from your dry seat as the rain washes the ancient stones of the Moruzi Mansion.\n\nThe tour ends at the Monument of Michael the Brave before you comfortably head home in your heated vehicle."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Archaeological Reserve",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann nach starkem Regen schlammig sein; vorsichtig fahren.",
+                "hu": "A parkoló nagy eső után sáros lehet; vezessünk óvatosan.",
+                "ro": "Parcarea poate deveni noroioasă după ploi abundente; rulați cu grijă.",
+                "en": "The parking area can be muddy after heavy rain; drive slowly."
+              }
+            },
+            {
+              "name": "Roman Baths",
+              "tip_5lang": {
+                "de": "Vom Auto aus sind die Ruinen gut zu sehen, falls es zu stark regnet.",
+                "hu": "Az autóból is jól látszanak a romok, ha túl erősen esne.",
+                "ro": "Ruinele sunt vizibile din mașină în caz că plouă prea torențial.",
+                "en": "The ruins are visible from the car if the rain is too heavy to get out."
+              }
+            },
+            {
+              "name": "The Red and White Church (ruins)",
+              "tip_5lang": {
+                "de": "Halten Sie kurz am Straßenrand für ein schnelles Foto.",
+                "hu": "Álljunk meg rövid időre az út szélén egy gyors fotó erejéig.",
+                "ro": "Opriți scurt pe marginea drumului pentru o fotografie rapidă.",
+                "en": "Pull over briefly at the roadside for a quick photo of the ruins."
+              }
+            },
+            {
+              "name": "Turnu Monastery",
+              "tip_5lang": {
+                "de": "Es gibt begrenzte Parkplätze direkt vor dem Eingangstor.",
+                "hu": "Közvetlenül a bejárati kapu előtt korlátozott számú parkoló van.",
+                "ro": "Există locuri de parcare limitate chiar în fața porții de intrare.",
+                "en": "There is limited parking right in front of the main entrance gate."
+              }
+            },
+            {
+              "name": "Museum of the Archaeological Site",
+              "tip_5lang": {
+                "de": "Parken Sie hier länger, um die Ausstellung in Ruhe zu besuchen.",
+                "hu": "Parkoljunk itt hosszabb ideig a kiállítás nyugodt megtekintéséhez.",
+                "ro": "Parcați aici pentru mai mult timp pentru a vizita expoziția în tihnă.",
+                "en": "Park here for a longer duration to enjoy the museum exhibits."
+              }
+            },
+            {
+              "name": "Moruzi Mansion",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen auf dem Zufahrtsweg.",
+                "hu": "Vigyázzunk a mély tócsákra a bekötőúton.",
+                "ro": "Atenție la bălțile adânci de pe drumul de acces spre conac.",
+                "en": "Watch out for deep puddles on the access road to the mansion."
+              }
+            },
+            {
+              "name": "Return to Parking",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Scheibenwischer auf höchster Stufe für den Rückweg.",
+                "hu": "Használjuk az ablaktörlőt a legmagasabb fokozaton a hazaúton.",
+                "ro": "Folosiți ștergătoarele la viteză maximă pentru drumul de întoarcere.",
+                "en": "Use your windshield wipers on the highest setting for the drive back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck, da nasse Straßen weniger Grip bieten.",
+              "Vermeiden Sie das Parken auf weichem Untergrund neben den Ruinen.",
+              "Nutzen Sie die Sitzheizung, um die Feuchtigkeit aus der Kleidung zu ziehen.",
+              "Halten Sie die Scheinwerfer sauber, um bei Regen besser gesehen zu werden.",
+              "Ein Regenschirm im Kofferraum ist für die kurzen Wege unerlässlich."
+            ],
+            "hu": [
+              "Ellenőrizzük a guminyomást, mert a vizes út csúszósabb.",
+              "Kerüljük a parkolást a romok melletti puha, füves padkán.",
+              "Használjuk az ülésfűtést a ruházatunk megszárításához.",
+              "Tartsuk tisztán a fényszórókat a jobb láthatóságért az esőben.",
+              "Tartsunk esernyőt a csomagtartóban a rövid sétákhoz."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri; aderența scade pe asfaltul ud.",
+              "Evitați parcarea pe suprafețe moi sau înierbate lângă ruine.",
+              "Folosiți încălzirea în scaune pentru a usca rapid hainele umede.",
+              "Mențineți farurile curate pentru o vizibilitate optimă pe ploaie.",
+              "Păstrați o umbrelă în portbagaj pentru scurtul drum până la obiective."
+            ],
+            "en": [
+              "Check your tire pressure as wet roads offer significantly less grip.",
+              "Avoid parking on soft ground or grass verges near the ruins.",
+              "Use the seat heaters to help dry out any damp clothing quickly.",
+              "Keep your headlights clean for better visibility during the rain.",
+              "Keep an umbrella in the trunk for the short walks to the sites."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Wintertour bequem im vorgewärmten Auto. Das archäologische Reservat liegt unter einer Frostschicht friedlich in der Morgensonne.\n\nMittags bietet das Turnu-Kloster einen spirituellen Halt. Der Kontrast zwischen der Kälte draußen und der Stille drinnen ist beeindruckend.\n\nAm Nachmittag parken Sie am Museum und genießen die Wärme der Ausstellung. Die Prahova-Ebene wirkt im Winterlicht weit und majestätisch.\n\nDie Tour endet am Monument von Michael dem Tapferen bei Einbruch der frühen Dämmerung, bevor Sie die Heizung für die Rückfahrt voll aufdrehen.",
+            "hu": "Kezdje a téli túrát kényelmesen az előmelegített autóban. A régészeti rezervátum békésen fekszik a reggeli napsütésben, vékony zúzmararéteg alatt.\n\nDélben a Turnu-kolostor nyújt spirituális megállót. Lenyűgöző a kontraszt a kinti hideg és a benti csend között.\n\nDélután parkoljunk a múzeumnál, és élvezzük a kiállítás melegét. A Prahova-síkság tágasnak és fenségesnek tűnik a téli fényben.\n\nA túra a Vitéz Mihály emlékműnél ér véget a korai szürkületben, mielőtt a fűtést maximumra csavarva hazaindulnánk.",
+            "ro": "Începeți turul de iarnă în confortul mașinii preîncălzite. Rezervația arheologică se întinde liniștită sub soarele dimineții, acoperită de chiciură.\n\nLa prânz, Mănăstirea Turnu oferă un popas spiritual. Contrastul dintre frigul de afară și liniștea din interior este impresionant.\n\nDupă-amiaza, parcați la muzeu și bucurați-vă de căldura expoziției. Câmpia prahoveană pare vastă și maiestuoasă în lumina iernii.\n\nTraseul se încheie la Monumentul lui Mihai Viteazul la instalarea amurgului timpuriu, înainte de a porni spre casă cu căldura la maximum.",
+            "en": "Begin your winter tour comfortably in your pre-heated car. The archaeological reserve lies peacefully under a layer of frost in the morning sun.\n\nAt noon, Turnu Monastery offers a spiritual stop. The contrast between the cold outside and the silence inside is impressive.\n\nIn the afternoon, park at the museum and enjoy the warmth of the exhibits. The Prahova plain looks vast and majestic in the winter light.\n\nThe tour ends at the Monument of Michael the Brave as early dusk sets in, before you turn up the heat for the drive home."
+          },
+          "stops": [
+            {
+              "name": "Parking at the Archaeological Reserve",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem ungeräumten Parkplatz.",
+                "hu": "Vigyázzunk a jegesedésre a le nem takarított parkolóban.",
+                "ro": "Atenție la porțiunile de gheață din parcarea neamenajată.",
+                "en": "Watch out for black ice in the unplowed parking areas."
+              }
+            },
+            {
+              "name": "Roman Baths",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Fernlicht für eine bessere Sicht bei tiefstehender Sonne.",
+                "hu": "Használjuk a távolsági fényszórót a jobb látáshoz az alacsony napállásnál.",
+                "ro": "Folosiți faza lungă pentru o vizibilitate mai bună când soarele e jos.",
+                "en": "Use your headlights to improve visibility when the sun is low."
+              }
+            },
+            {
+              "name": "The Red and White Church (ruins)",
+              "tip_5lang": {
+                "de": "Die Steine können bei Frost spröde sein; halten Sie Sicherheitsabstand.",
+                "hu": "A kövek fagyban törékenyek lehetnek; tartsunk biztonsági távolságot.",
+                "ro": "Pietrele pot fi casante la ger; păstrați distanța de siguranță.",
+                "en": "Ancient stones can be brittle in frost; maintain a safe distance."
+              }
+            },
+            {
+              "name": "Turnu Monastery",
+              "tip_5lang": {
+                "de": "Parken Sie rückwärts ein, um bei Schneefall leichter losfahren zu können.",
+                "hu": "Parkoljunk tolatva, hogy hóesés esetén könnyebb legyen az elindulás.",
+                "ro": "Parcați cu spatele pentru a putea pleca mai ușor în caz de ninsoare.",
+                "en": "Park facing out to make leaving easier if snow starts falling."
+              }
+            },
+            {
+              "name": "Museum of the Archaeological Site",
+              "tip_5lang": {
+                "de": "Bester Ort, um sich für die letzte Etappe aufzuwärmen.",
+                "hu": "A legjobb hely az átmelegedésre az utolsó szakasz előtt.",
+                "ro": "Cel mai bun loc pentru a vă încălzi înainte de ultima etapă.",
+                "en": "The best place to warm up before the final leg of the trip."
+              }
+            },
+            {
+              "name": "Moruzi Mansion",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneeverwehungen auf dem Zufahrtsweg.",
+                "hu": "Vigyázzunk a hóátfúvásokra a bekötőúton.",
+                "ro": "Atenție la troienele de zăpadă care se pot forma pe drum.",
+                "en": "Beware of snowdrifts that can form on the access road."
+              }
+            },
+            {
+              "name": "Return to Parking",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+                "hu": "Ellenőrizzük a fagyállót a szélvédőmosóban.",
+                "ro": "Verificați nivelul lichidului de parbriz rezistent la îngheț.",
+                "en": "Check your winter screen wash levels before starting the return leg."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser Region wegen plötzlichem Glatteis Pflicht.",
+              "Halten Sie einen Eiskratzer und einen Besen im Auto bereit.",
+              "Die Batteriekapazität sinkt bei Kälte; starten Sie das Auto rechtzeitig.",
+              "Fahren Sie in der Ebene vorsichtig, da der Wind das Auto versetzen kann.",
+              "Bringen Sie warme Decken für die Passagiere mit."
+            ],
+            "hu": [
+              "A téli gumi kötelező a régióban a hirtelen jegesedés miatt.",
+              "Tartsunk jégkaparót és kefét az autóban a hó eltakarításához.",
+              "Az akkumulátor kapacitása csökken a hidegben; ellenőrizzük indulás előtt.",
+              "Vezessünk óvatosan a síkságon, mert az oldalszél megdobhatja az autót.",
+              "Vigyünk magunkkal meleg takarót az utasok számára."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii din cauza poleiului frecvent.",
+              "Păstrați o racletă și o perie în mașină pentru curățarea zăpezii.",
+              "Capacitatea bateriei scade la ger; verificați starea ei înainte de drum.",
+              "Conduceți prudent în câmpie, vântul lateral poate fi periculos.",
+              "Luați pături calde în mașină pentru confortul pasagerilor."
+            ],
+            "en": [
+              "Winter tires are mandatory in this region due to frequent black ice.",
+              "Keep an ice scraper and a snow brush handy in the car.",
+              "Battery performance drops in the cold; ensure it's in good condition.",
+              "Drive carefully across the open plains as side winds can be strong.",
+              "Carry warm blankets in the car for the comfort of your passengers."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1160,6 +1784,214 @@
           "The bus stop may not be clearly marked.",
           "Be prepared for a walk from the stop to the entrance of the reserve."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Bus, um das archäologische Reservat im Regen zu erreichen. Der Unterstand an der Haltestelle bietet den ersten Schutz vor dem Schauer.\n\nMittags erkunden Sie das Turnu-Kloster. Die Fahrt zwischen den Haltestellen gibt Ihnen Zeit, die nassen Sachen kurz zu ordnen.\n\nAm Nachmittag verbringen Sie die meiste Zeit im Museum. Beobachten Sie von dort aus, wie der Regen die Landschaft der Prahova-Ebene in ein sanftes Grau taucht.\n\nDer Tag endet mit der Rückfahrt von der Haltestelle, wobei Sie die Ruhe nach einem geschichtsträchtigen Tag genießen.",
+            "hu": "Használja a buszt, hogy esőben is elérje a régészeti rezervátumot. A megállóban lévő váróterem biztosítja az első védelmet a zápor elől.\n\nDélben fedezzük fel a Turnu-kolostort. A megállók közötti utazás időt ad a vizes holmik rövid rendezésére.\n\nDélután töltsük az időnk nagy részét a múzeumban. Onnan figyelve láthatjuk, ahogy az eső lágy szürkeségbe vonja a Prahova-síkságot.\n\nA nap a buszmegállóból való visszautazással zárul, élvezve a nyugalmat a történelmi nap után.",
+            "ro": "Utilizați autobuzul pentru a ajunge la rezervația arheologică pe ploaie. Adăpostul din stație oferă prima protecție împotriva averselor.\n\nLa prânz, explorați Mănăstirea Turnu. Drumul dintre stații vă oferă timp să vă aranjați puțin lucrurile umede.\n\nDupă-amiaza, petreceți cea mai mare parte a timpului în muzeu. Observați de acolo cum ploaia îmbracă peisajul câmpiei prahovene într-un gri blând.\n\nZiua se încheie cu drumul de întoarcere din stație, savurând liniștea după o zi plină de istorie.",
+            "en": "Use the bus to reach the archaeological reserve during the rain. The shelter at the stop provides your first protection from the showers.\n\nAt noon, explore Turnu Monastery. The transit between stops gives you time to reorganize your wet gear.\n\nIn the afternoon, spend most of your time in the museum. From there, watch as the rain drapes the Prahova plain in a soft grey mist.\n\nThe day ends with the return trip from the bus stop, enjoying the quiet reflection after a day of history."
+          },
+          "stops": [
+            {
+              "name": "Târgșoru Vechi Bus Stop",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem Haltestellendach.",
+                "hu": "Keressünk menedéket a megálló tetője alatt.",
+                "ro": "Căutați adăpost sub acoperișul stației de autobuz.",
+                "en": "Seek shelter under the roof of the bus stop while waiting."
+              }
+            },
+            {
+              "name": "Târgșoru Vechi Archaeological Reserve",
+              "tip_5lang": {
+                "de": "Der Weg von der Haltestelle ist kurz, aber ungeschützt.",
+                "hu": "A megállóból vezető út rövid, de nem fedett.",
+                "ro": "Drumul de la stație este scurt, dar complet expus ploii.",
+                "en": "The walk from the stop is short but entirely unsheltered."
+              }
+            },
+            {
+              "name": "Roman Baths",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schlamm am Straßenrand beim Einsteigen.",
+                "hu": "Vigyázzunk a sárra az út szélén a felszálláskor.",
+                "ro": "Atenție la noroiul de pe marginea drumului la urcarea în bus.",
+                "en": "Watch out for mud at the roadside when boarding the bus."
+              }
+            },
+            {
+              "name": "The Red and White Church (ruins)",
+              "tip_5lang": {
+                "de": "Halten Sie die Fahrkarte griffbereit, um nicht lange im Regen zu suchen.",
+                "hu": "Tartsuk készenlétben a jegyet, hogy ne kelljen az esőben keresgélni.",
+                "ro": "Țineți biletul la îndemână pentru a nu căuta prin bagaje în ploaie.",
+                "en": "Have your ticket ready to avoid searching through bags in the rain."
+              }
+            },
+            {
+              "name": "Turnu Monastery",
+              "tip_5lang": {
+                "de": "Das Klostergelände bietet bei Regen viele kleine Unterstände.",
+                "hu": "A kolostor területe sok apró fedett részt kínál esőben.",
+                "ro": "Incinta mănăstirii oferă multe mici locuri de adăpost pe ploaie.",
+                "en": "The monastery grounds offer several small sheltered areas during rain."
+              }
+            },
+            {
+              "name": "Museum of the Archaeological Site",
+              "tip_5lang": {
+                "de": "Checken Sie die Abfahrtszeiten online, während Sie im Museum sind.",
+                "hu": "Ellenőrizzük az indulási időket online a múzeumi látogatás alatt.",
+                "ro": "Verificați orele de plecare online în timp ce sunteți în muzeu.",
+                "en": "Check bus departure times online while you're still in the museum."
+              }
+            },
+            {
+              "name": "Return to the Bus Stop",
+              "tip_5lang": {
+                "de": "Kommen Sie nicht zu früh zur Haltestelle, um nicht nass zu werden.",
+                "hu": "Ne érjünk túl korán a megállóba, hogy elkerüljük a megázást.",
+                "ro": "Nu ajungeți prea devreme în stație pentru a nu sta inutil în ploaie.",
+                "en": "Don't arrive too early at the stop to avoid unnecessary exposure."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserdichte Schuhe für die Wege zwischen den Haltestellen.",
+              "Ein kleiner, stabiler Taschenschirm ist ideal für den Busverkehr.",
+              "Die Busse können bei Regen aufgrund des Verkehrs Verspätung haben.",
+              "Nutzen Sie die Wartezeiten für Fotos der regnerischen Landschaft.",
+              "Verstauen Sie nasse Schirme in einer Plastiktüte im Bus."
+            ],
+            "hu": [
+              "Viseljünk vízálló cipőt a megállók közötti rövid sétákhoz.",
+              "Egy kicsi, erős összecsukható esernyő a legpraktikusabb a buszon.",
+              "A buszok esőben a forgalom miatt késhetnek, legyünk türelmesek.",
+              "Használjuk ki a várakozási időt az esős táj fotózására.",
+              "Tegyük a vizes esernyőt nejlonzacskóba a buszon."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru drumul dintre stații.",
+              "O umbrelă pliabilă rezistentă este ideală pentru utilizarea în bus.",
+              "Autobuzele pot avea întârzieri pe ploaie din cauza traficului.",
+              "Folosiți timpul de așteptare pentru a fotografia peisajul ploios.",
+              "Puneți umbrela udă într-o pungă de plastic când urcați în autobuz."
+            ],
+            "en": [
+              "Wear waterproof footwear for the short walks between stops.",
+              "A small, sturdy folding umbrella is ideal for transit travel.",
+              "Buses may be delayed during rain due to increased road traffic.",
+              "Use waiting times to capture photos of the rainy Wallachian landscape.",
+              "Store your wet umbrella in a plastic bag while on the bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Reisen Sie mit dem Bus in die gefrorene Geschichte von Târgșoru Vechi. Die Wärme im Fahrzeug ist ein willkommener Kontrast zur eisigen Morgenluft.\n\nMittags erkunden Sie die verschneite Ruhe des Turnu-Klosters. Die Fahrt zur nächsten Haltestelle lässt Sie kurz auftauen.\n\nAm Nachmittag bietet das Museum den perfekten Rückzugsort. Genießen Sie die winterliche Stille der archäologischen Stätte durch die Fenster.\n\nDer Tag endet mit der Heimreise in der frühen Dunkelheit, während die Lichter des Busses den Weg durch die winterliche Ebene weisen.",
+            "hu": "Utazzon busszal Târgșoru Vechi fagyos történelmébe. A jármű melege kellemes kontrasztot nyújt a jeges reggeli levegővel szemben.\n\nDélben fedezzük fel a Turnu-kolostor havas nyugalmát. A következő megállóig tartó út segít kicsit átmelegedni.\n\nDélután a múzeum tökéletes menedéket nyújt. Élvezzük a régészeti lelőhely téli csendjét az ablakokon keresztül.\n\nA nap a hazautazással zárul a korai sötétségben, miközben a busz fényei jelzik az utat a téli síkságon.",
+            "ro": "Călătoriți cu autobuzul spre istoria înghețată a Târgșorului Vechi. Căldura din vehicul este un contrast plăcut față de aerul înghețat al dimineții.\n\nLa prânz, explorați liniștea înzăpezită a Mănăstirii Turnu. Drumul spre următoarea stație vă ajută să vă dezghețați puțin.\n\nDupă-amiaza, muzeul oferă refugiul perfect. Admirați liniștea hibernală a sitului arheologic prin ferestrele generoase.\n\nZiua se încheie cu drumul spre casă în întunericul timpuriu, luminile autobuzului croind drum prin câmpia înghețată.",
+            "en": "Travel by bus into the frozen history of Târgșoru Vechi. The warmth of the vehicle is a welcome contrast to the icy morning air.\n\nAt noon, explore the snowy serenity of Turnu Monastery. The ride to the next stop lets you thaw out for a few minutes.\n\nIn the afternoon, the museum provides the perfect sanctuary. Enjoy the wintry silence of the archaeological site through the windows.\n\nThe day ends with the journey home in the early darkness, as the bus lights guide the way through the winter plain."
+          },
+          "stops": [
+            {
+              "name": "Târgșoru Vechi Bus Stop",
+              "tip_5lang": {
+                "de": "Bewegen Sie sich, um beim Warten auf den Bus warm zu bleiben.",
+                "hu": "Mozogjunk folyamatosan várakozás közben, hogy ne fázzunk meg.",
+                "ro": "Faceți mișcare în stație pentru a vă menține căldura corporală.",
+                "en": "Keep moving while waiting for the bus to stay warm in the cold."
+              }
+            },
+            {
+              "name": "Târgșoru Vechi Archaeological Reserve",
+              "tip_5lang": {
+                "de": "Die Wege können bei Frost sehr glatt sein; Vorsicht beim Gehen.",
+                "hu": "Az ösvények fagyban nagyon csúszósak lehetnek; járjunk óvatosan.",
+                "ro": "Potecile pot fi foarte lunecoase la ger; mergeți cu atenție.",
+                "en": "The paths can be very slippery in frost; walk with extreme caution."
+              }
+            },
+            {
+              "name": "Roman Baths",
+              "tip_5lang": {
+                "de": "Nutzen Sie Handschuhe, wenn Sie sich an Haltegriffen festhalten.",
+                "hu": "Viseljünk kesztyűt, amikor a kapaszkodókat használjuk.",
+                "ro": "Purtați mănuși când vă țineți de barele metalice din stație/bus.",
+                "en": "Wear gloves when holding onto metal rails at stops or on the bus."
+              }
+            },
+            {
+              "name": "The Red and White Church (ruins)",
+              "tip_5lang": {
+                "de": "Winterlicher Wind weht hier oft stark; Schal fest binden.",
+                "hu": "A téli szél itt gyakran erős; kössük szorosra a sálat.",
+                "ro": "Vântul de iarnă suflă tare aici; strângeți bine fularul.",
+                "en": "Winter winds are often strong here; keep your scarf tightly wrapped."
+              }
+            },
+            {
+              "name": "Turnu Monastery",
+              "tip_5lang": {
+                "de": "In der Kirche ist es meist windgeschützt und etwas milder.",
+                "hu": "A templomban általában szélvédett és valamivel enyhébb az idő.",
+                "ro": "În interiorul bisericii este de obicei mai cald și ferit de vânt.",
+                "en": "Inside the church is usually wind-sheltered and slightly milder."
+              }
+            },
+            {
+              "name": "Museum of the Archaeological Site",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme der Heizung, bevor Sie zur Haltestelle gehen.",
+                "hu": "Élvezzük a fűtést, mielőtt elindulnánk a buszmegállóba.",
+                "ro": "Bucurați-vă de căldură înainte de a pleca spre stația de autobuz.",
+                "en": "Warm up thoroughly in the museum before heading back to the stop."
+              }
+            },
+            {
+              "name": "Return to the Bus Stop",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Fahrpläne, die im Winter variieren können.",
+                "hu": "Figyeljük a menetrendet, ami télen eltérő lehet.",
+                "ro": "Verificați orarul busurilor, acesta poate varia pe timp de iarnă.",
+                "en": "Check schedules carefully as winter conditions may affect timing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Winterschuhe mit dicker, isolierender Sohle.",
+              "Informieren Sie sich vorab über wetterbedingte Busausfälle.",
+              "Nutzen Sie die App für Echtzeit-Informationen zum Busverkehr.",
+              "Bringen Sie ein warmes Sitzkissen für kalte Haltestellenbänke mit.",
+              "Planen Sie mehr Zeit für den Umstieg ein, falls es schneit."
+            ],
+            "hu": [
+              "Viseljünk meleg téli lábbelit vastag, hőszigetelő talppal.",
+              "Tájékozódjunk előre az időjárás miatti esetleges buszjárat-elmaradásokról.",
+              "Használjunk mobilalkalmazást a buszok valós idejű követéséhez.",
+              "Vigyünk magunkkal kisméretű hőszigetelő ülőkét a padokra.",
+              "Hóesés esetén számoljunk hosszabb átszállási időkkel."
+            ],
+            "ro": [
+              "Purtați încălțăminte de iarnă cu talpă groasă și izolatoare.",
+              "Informați-vă din timp despre eventualele anulări de curse din cauza vremii.",
+              "Folosiți aplicații mobile pentru monitorizarea în timp real a curselor.",
+              "Luați o mică pernă izolatoare pentru băncile reci din stații.",
+              "Planificați mai mult timp pentru conexiuni în caz de ninsoare."
+            ],
+            "en": [
+              "Wear warm winter boots with thick, insulating soles for standing at stops.",
+              "Check in advance for any weather-related bus cancellations.",
+              "Use real-time transit apps to track bus locations in the cold.",
+              "Consider carrying a small insulating pad for cold bus stop benches.",
+              "Allow extra time for transfers if there is snow on the roads."
+            ]
+          }
+        }
       }
     }
   }

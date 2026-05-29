@@ -438,6 +438,224 @@
           "Try the local tapas bars around Plaza Mayor for an authentic experience.",
           "Buy a combined ticket if available to visit multiple monuments at a reduced price."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Plaza Mayor unter ihren Arkaden perfekten Schutz, während der Regen die mittelalterlichen Steine zum Glänzen bringt. Mittags ziehen wir uns in die massive Co-Kathedrale Santa María und den Palast Golfines de Abajo zurück, deren dicke Mauern die Nässe draußen halten. Nachmittags ist das Museum von Cáceres im Palacio de las Veletas ideal, besonders die unterirdische Zisterne. Abends reflektieren die Laternen in den Pfützen der Judería Vieja.",
+            "hu": "Reggel a Plaza Mayor árkádjai alatt húzódunk meg, nézve, ahogy az eső lemossa a középkori falakat. Délben a Santa María társszékesegyház és a Golfines de Abajo palota vastag kőfalai nyújtanak száraz menedéket az óváros szívében. Délután a Cáceres Múzeum és annak híres arab ciszternája a legjobb hely a felhőszakadás elől. Este a vizes macskaköveken megcsillanó fények kísérnek minket a San Francisco Javier templomig.",
+            "ro": "Dimineața, arcadele din Plaza Mayor oferă adăpostul perfect în timp ce ploaia spală zidurile medievale. La prânz, ne retragem între zidurile groase ale Co-catedralei Santa María și ale Palatului Golfines de Abajo, unde interiorul rămâne uscat. După-amiaza, Muzeul din Cáceres oferă un refugiu excelent, în special cisterna arabă subterană. Seara, luminile se reflectă în bălțile de pe străzile înguste din Judería Vieja.",
+            "en": "In the morning, the arcades of Plaza Mayor provide perfect shelter while watching the rain wash over the medieval stones. At noon, we retreat into the massive walls of the Santa María Co-cathedral and the Golfines de Abajo Palace, where the history stays dry. In the afternoon, the Museum of Cáceres in the Palacio de las Veletas is the ideal sanctuary, especially its underground cistern. By evening, lanterns reflect beautifully in the puddles of the old Jewish Quarter."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Arkadengänge (Portales), um trocken zu bleiben.",
+                "hu": "Használja a 'Portales' árkádjait, hogy szárazon maradjon a téren.",
+                "ro": "Folosiți arcadele (Portales) pentru a rămâne uscat în piață.",
+                "en": "Use the arcades (Portales) to stay dry while observing the square."
+              }
+            },
+            {
+              "name": "Bujaco Tower",
+              "tip_4lang": {
+                "de": "Die Steinstufen können bei Nässe sehr rutschig sein. Vorsicht!",
+                "hu": "A kőlépcsők esőben rendkívül csúszósak lehetnek. Vigyázzon!",
+                "ro": "Treptele de piatră pot fi foarte alunecoase pe ploaie. Atenție!",
+                "en": "The stone steps can be very slippery when wet. Use the handrails."
+              }
+            },
+            {
+              "name": "Arch of the Star (Arco de la Estrella)",
+              "tip_4lang": {
+                "de": "Ein kurzer Moment unter dem Bogen bietet Schutz vor einem Schauer.",
+                "hu": "A boltív alatt megállva rövid menedéket találhat egy zápor elől.",
+                "ro": "O scurtă oprire sub arcă oferă protecție împotriva unei averse.",
+                "en": "A brief stop under the arch provides quick shelter from a downpour."
+              }
+            },
+            {
+              "name": "Co-cathedral of Santa María",
+              "tip_4lang": {
+                "de": "Ein idealer Ort, um einen starken Regenguss im Inneren abzuwarten.",
+                "hu": "Ideális helyszín egy nagyobb felhőszakadás kivárására a falak között.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei ploi torențiale în interior.",
+                "en": "An ideal place to wait out a heavy downpour within historic walls."
+              }
+            },
+            {
+              "name": "Palace of the Golfines de Abajo",
+              "tip_4lang": {
+                "de": "Die geführte Tour im Inneren ist perfekt für regnerische Stunden.",
+                "hu": "A belső vezetés tökéletes program a csapadékos órákra.",
+                "ro": "Turul ghidat în interior este perfect pentru orele ploioase.",
+                "en": "The guided indoor tour is a perfect activity for rainy hours."
+              }
+            },
+            {
+              "name": "Palacio de las Veletas (Museum of Cáceres)",
+              "tip_4lang": {
+                "de": "Besuchen Sie die Aljibe (Zisterne) – sie wirkt bei Regen noch mystischer.",
+                "hu": "Látogasson el az Aljibe-be (ciszterna) – esőben még misztikusabb.",
+                "ro": "Vizitați Aljibe (cisterna) – este și mai mistică atunci când plouă.",
+                "en": "Visit the Aljibe (cistern) – it feels even more mystical during rain."
+              }
+            },
+            {
+              "name": "Jewish Quarter (Judería Vieja)",
+              "tip_4lang": {
+                "de": "Die engen Gassen bieten begrenzten Schutz; ein Regenschirm ist nötig.",
+                "hu": "A szűk utcák kevés védelmet adnak; esernyő használata javasolt.",
+                "ro": "Străzile înguste oferă protecție limitată; umbrela este necesară.",
+                "en": "Narrow streets offer limited cover; an umbrella is essential here."
+              }
+            },
+            {
+              "name": "Church of San Francisco Javier",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf die nassen Dächer vom Kirchplatz aus.",
+                "hu": "Élvezze a vizes háztetőkre nyíló kilátást a templom elől.",
+                "ro": "Bucurați-vă de vederea acoperișurilor ude din fața bisericii.",
+                "en": "Enjoy the view of the wet rooftops from the church square."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Arkaden der Plaza Mayor sind der beste Ort für eine Kaffeepause im Regen.",
+              "Kopfsteinpflaster in der Altstadt wird bei Nässe rutschig.",
+              "Museen in Cáceres sind montags oft geschlossen.",
+              "Ein Taschenregenschirm passt besser durch die engen Gassen der Judería."
+            ],
+            "hu": [
+              "A Plaza Mayor árkádjai a legjobb helyek egy kávészünethez esőben.",
+              "Az óváros macskakövei vizesen csúszóssá válhatnak.",
+              "A cáceresi múzeumok hétfőnként gyakran zárva tartanak.",
+              "Egy összecsukható esernyő praktikusabb a szűk zsidónegyedben."
+            ],
+            "ro": [
+              "Arcadele din Plaza Mayor sunt cel mai bun loc pentru o pauză de cafea pe ploaie.",
+              "Pavajul din orașul vechi devine alunecos când este ud.",
+              "Muzeele din Cáceres sunt adesea închise lunea.",
+              "O umbrelă pliabilă este mai practică pe străzile înguste din Judería."
+            ],
+            "en": [
+              "The arcades of Plaza Mayor are the best spot for a coffee break during rain.",
+              "Old town cobblestones become slippery when wet; wear rubber-soled shoes.",
+              "Cáceres museums are often closed on Mondays.",
+              "A folding umbrella is more practical for the narrow Jewish Quarter streets."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Cáceres ist klar und kühl, perfekt um die Bujaco-Turm-Aussicht ohne Hitze zu genießen. Mittags wärmt die Sonne die Kalksteinmauern der Kathedrale Santa María, während wir die Paläste besichtigen. Nachmittags bietet das Museum im Palacio de las Veletas eine angenehme Pause vom Wind. Da die Sonne gegen 18:00 Uhr untergeht, taucht das Abendlicht die Plaza San Jorge in ein goldenes, winterliches Glühen.",
+            "hu": "A téli reggel Cáceresben tiszta és hűvös, ideális a Bujaco-torony megmászásához a nyári hőség nélkül. Délben a nap bágyadtan süti a Santa María székesegyház mészkőfalait, miközben bejárjuk a nemesi palotákat. Délután a Palacio de las Veletas termeiben pihenhetünk meg a téli szél elől. Mivel a nap 18:00 körül nyugszik, az alkonyi fények aranyszínűre festik a San Jorge teret.",
+            "ro": "Dimineața de iarnă în Cáceres este senină și răcoroasă, perfectă pentru a admira Turnul Bujaco fără căldura verii. La prânz, soarele încălzește zidurile de calcar ale Catedralei Santa María în timp ce vizităm palatele. După-amiaza, muzeul din Palacio de las Veletas oferă o pauză plăcută de la vânt. Deoarece soarele apune în jur de ora 18:00, lumina serii scaldă Plaza San Jorge într-o strălucire aurie.",
+            "en": "Winter mornings in Cáceres are crisp and clear, perfect for climbing the Bujaco Tower without the summer heat. At noon, the low sun warms the limestone walls of the Santa María Co-cathedral while we tour the palaces. In the afternoon, the museum inside Palacio de las Veletas provides a welcome break from the wind. With sunset around 18:00, the evening light bathes San Jorge Square in a golden winter glow."
+          },
+          "stops": [
+            {
+              "name": "Plaza Mayor",
+              "tip_4lang": {
+                "de": "Sonnige Plätze in den Cafés sind morgens sehr begehrt.",
+                "hu": "A napsütötte kávéházi asztalok reggel hamar megtelnek.",
+                "ro": "Mesele însorite de la cafenele sunt foarte căutate dimineața.",
+                "en": "Sunny spots at the outdoor cafes are highly coveted in the morning."
+              }
+            },
+            {
+              "name": "Bujaco Tower",
+              "tip_4lang": {
+                "de": "Oben weht oft ein kalter Wind; eine windfeste Jacke hilft.",
+                "hu": "A torony tetején gyakran fúj a szél; szélálló kabát ajánlott.",
+                "ro": "În vârful turnului bate adesea vântul; o jachetă rezistentă ajută.",
+                "en": "It is often windy at the top; a windproof jacket is recommended."
+              }
+            },
+            {
+              "name": "Arch of the Star (Arco de la Estrella)",
+              "tip_4lang": {
+                "de": "Das tiefe Wintersonnenlicht wirft hier fantastische Schatten.",
+                "hu": "Az alacsony téli napállás fantasztikus árnyékokat vet itt.",
+                "ro": "Lumina joasă a soarelui de iarnă creează umbre fantastice aici.",
+                "en": "The low winter sun casts fantastic long shadows through the arch."
+              }
+            },
+            {
+              "name": "Co-cathedral of Santa María",
+              "tip_4lang": {
+                "de": "Die dicken Steinmauern können im Inneren recht kühl sein.",
+                "hu": "A vastag kőfalak között bent hűvösebb lehet, mint kint.",
+                "ro": "Interiorul poate fi destul de rece din cauza zidurilor de piatră.",
+                "en": "The thick stone walls mean it can be quite chilly inside."
+              }
+            },
+            {
+              "name": "Palace of the Golfines de Abajo",
+              "tip_4lang": {
+                "de": "Ein Besuch der Innenräume ist perfekt zum Aufwärmen.",
+                "hu": "A palota belső tereinek megtekintése kiváló a felmelegedéshez.",
+                "ro": "Vizitarea interiorului este ocazia perfectă pentru a vă încălzi.",
+                "en": "Touring the interior is the perfect opportunity to warm up."
+              }
+            },
+            {
+              "name": "Palacio de las Veletas (Museum of Cáceres)",
+              "tip_4lang": {
+                "de": "Im Garten ist es windgeschützt und im Winter oft angenehm sonnig.",
+                "hu": "A kert szélvédett és télen gyakran kellemesen napsütötte.",
+                "ro": "Grădina este ferită de vânt și adesea plăcut însorită iarna.",
+                "en": "The garden is sheltered from wind and often pleasantly sunny."
+              }
+            },
+            {
+              "name": "Jewish Quarter (Judería Vieja)",
+              "tip_4lang": {
+                "de": "Die Gassen kühlen schnell ab, sobald die Sonne sinkt.",
+                "hu": "A szűk utcák gyorsan lehűlnek, amint lemegy a nap.",
+                "ro": "Străzile se răcesc rapid imediat ce soarele apune.",
+                "en": "The narrow streets cool down quickly once the sun drops."
+              }
+            },
+            {
+              "name": "Church of San Francisco Javier",
+              "tip_4lang": {
+                "de": "Die weiße Fassade leuchtet im kalten Winterlicht besonders hell.",
+                "hu": "A fehér homlokzat különösen ragyog a téli fényben.",
+                "ro": "Fațada albă strălucește puternic în lumina rece de iarnă.",
+                "en": "The white facade glows brightly in the crisp winter evening light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schichten; die Temperatur fällt nach Sonnenuntergang stark ab.",
+              "Genießen Sie typische Wintergerichte wie 'Migas extremeñas'.",
+              "Die Sonne geht gegen 18:00 Uhr unter, planen Sie Fotos früher.",
+              "Kirchen sind im Winter oft kühler als die Außenluft."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, naplemente után hirtelen lehűl a levegő.",
+              "Kóstolja meg a laktató téli 'Migas extremeñas'-t.",
+              "A nap 18:00 körül nyugszik, a fotózást tervezze korábbra.",
+              "A templomok télen gyakran hűvösebbek a kinti levegőnél."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; temperatura scade brusc după apus.",
+              "Gustați preparate tipice de iarnă precum 'Migas extremeñas'.",
+              "Soarele apune în jur de ora 18:00, planificați fotografiile mai devreme.",
+              "Bisericile sunt adesea mai reci decât aerul de afară în timpul iernii."
+            ],
+            "en": [
+              "Wear layers; the temperature drops significantly after sunset.",
+              "Try hearty winter dishes like 'Migas extremeñas' in local taverns.",
+              "Sunset is around 18:00, so plan your outdoor photos earlier.",
+              "Churches can be colder inside than the outside air in winter."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -847,6 +1065,206 @@
           "Wear comfortable shoes for the walking parts as well.",
           "Fill up your water bottle before you set off, especially on hot days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren entlang der Stadtmauern im Regen erfordert Vorsicht auf dem glatten Untergrund. Morgens umrunden wir die Festung, während der Wind die Tropfen peitscht. Mittags parken wir an der Plaza Mayor unter den schützenden Arkaden. Nachmittags bietet der Besuch des Museums im Palacio de las Veletas eine lange Pause im Trockenen, bevor wir in der Dämmerung vorsichtig zurückkehren.",
+            "hu": "A városfalak menti kerékpározás esőben óvatosságot igényel a csúszós útburkolat miatt. Reggel körbetekerjük az erődítményt a szemerkélő esőben. Délben a Plaza Mayor árkádjai alatt parkolunk le a bringákkal. Délután a Palacio de las Veletas múzeuma nyújt hosszú, száraz pihenőt, mielőtt a szürkületben óvatosan visszaindulnánk.",
+            "ro": "Ciclismul de-a lungul zidurilor orașului pe ploaie necesită prudență din cauza suprafeței alunecoase. Dimineața înconjurăm fortificația în timp ce vântul bate picăturile de ploaie. La prânz parcăm în Plaza Mayor sub arcadele protectoare. După-amiaza, vizita la muzeu oferă o pauză lungă la adăpost înainte de a ne întoarce cu grijă pe înserat.",
+            "en": "Cycling along the city walls in the rain requires caution due to slippery surfaces. In the morning, we circle the fortress while the wind whips the drops. At noon, we park at Plaza Mayor under the protective arcades. Afternoon brings a long dry break at the Palacio de las Veletas museum before a careful return ride at dusk."
+          },
+          "stops": [
+            {
+              "name": "Cycle Around the City Walls",
+              "tip_4lang": {
+                "de": "Vorsicht auf dem glatten Kopfsteinpflaster; Bremsweg verlängert sich.",
+                "hu": "Vigyázat a macskakövön; a féktávolság esőben jelentősen megnő.",
+                "ro": "Atenție pe pavajul alunecos; distanța de frânare se mărește.",
+                "en": "Be careful on the slippery cobblestones; braking distance increases."
+              }
+            },
+            {
+              "name": "Plaza Mayor (Park Bike)",
+              "tip_4lang": {
+                "de": "Parken Sie die Räder so nah wie möglich an den Arkaden.",
+                "hu": "Parkoljon a bringákkal a lehető legközelebb az árkádokhoz.",
+                "ro": "Parcați bicicletele cât mai aproape de arcade.",
+                "en": "Park your bikes as close to the arcades as possible for cover."
+              }
+            },
+            {
+              "name": "Arco de la Estrella & Bujaco Tower",
+              "tip_4lang": {
+                "de": "Steigen Sie für diesen Abschnitt vom Rad ab; Rutschgefahr.",
+                "hu": "Ezen a szakaszon szálljon le a bicikliről; csúszásveszély.",
+                "ro": "Coborâți de pe bicicletă în această zonă; risc de alunecare.",
+                "en": "Dismount for this section as the stones are extremely slick."
+              }
+            },
+            {
+              "name": "Co-cathedral of Santa María",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Innenbesuch zum Trocknen der Kleidung.",
+                "hu": "Használja ki a benti látogatást a ruházat szárítására.",
+                "ro": "Folosiți vizita în interior pentru a vă usca hainele.",
+                "en": "Use the indoor visit as an opportunity to dry your gear."
+              }
+            },
+            {
+              "name": "Palacio de las Veletas (Museum of Cáceres)",
+              "tip_4lang": {
+                "de": "Fahrradhelme können oft an der Garderobe abgegeben werden.",
+                "hu": "A bukósisakokat gyakran le lehet adni a ruhatárban.",
+                "ro": "Căștile de bicicletă pot fi lăsate adesea la garderobă.",
+                "en": "Bike helmets can usually be left at the museum cloakroom."
+              }
+            },
+            {
+              "name": "Jewish Quarter (Judería Vieja)",
+              "tip_4lang": {
+                "de": "Extrem enge Gassen; bei Regen besser schieben.",
+                "hu": "Rendkívül szűk utcák; esőben biztonságosabb tolni a bringát.",
+                "ro": "Străzi extrem de înguste; mai bine împingeți bicicleta pe ploaie.",
+                "en": "Extremely narrow streets; safer to push your bike when wet."
+              }
+            },
+            {
+              "name": "Return to Plaza Mayor",
+              "tip_4lang": {
+                "de": "Vermeiden Sie Pfützen; sie könnten tiefe Schlaglöcher verbergen.",
+                "hu": "Kerülje a tócsákat; mély kátyúkat rejthetnek az útban.",
+                "ro": "Evitați bălțile; pot ascunde gropi adânci în pavaj.",
+                "en": "Avoid puddles as they might hide deep potholes in the stones."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Kleidung und Handschuhe.",
+              "Die historischen Steine sind extrem glatt bei Nässe.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt.",
+              "Beleuchtung ist bei Regen und trübem Wetter Pflicht."
+            ],
+            "hu": [
+              "Viseljen vízálló ruházatot és kesztyűt.",
+              "A történelmi kövek vizesen rendkívül csúszósak.",
+              "Indulás előtt ellenőrizze a fékeket.",
+              "Esőben és borús időben kötelező a világítás használata."
+            ],
+            "ro": [
+              "Purtați haine impermeabile și mănuși.",
+              "Pietrele istorice sunt extrem de alunecoase pe ploaie.",
+              "Verificați frânele înainte de plecare.",
+              "Luminile sunt obligatorii pe timp de ploaie și vreme mohorâtă."
+            ],
+            "en": [
+              "Wear waterproof outer layers and gloves.",
+              "The historical stones are extremely slick when wet.",
+              "Check your brakes before starting the route.",
+              "Lights are mandatory during rain and gloomy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour um Cáceres bietet klare Fernsichten über die Extremadura. Morgens weht ein scharfer Wind an den Stadtmauern, der uns wach rüttelt. Mittags genießen wir die wärmende Sonne auf der Plaza Mayor, während die Räder bereitstehen. Nachmittags wärmen wir uns im Museum Palacio de las Veletas auf, bevor wir vor dem frühen Sonnenuntergang die Tour beenden.",
+            "hu": "A téli kerékpározás Cáceres körül tiszta kilátást kínál Extremadura vidékére. Reggel metsző szél fúj a városfalaknál, ami hamar felébreszt. Délben a Plaza Mayoron élvezzük a melengető napsütést, amíg a bringák pihennek. Délután a Palacio de las Veletas múzeumában melegedünk fel, majd a korai naplemente előtt befejezzük a túrát.",
+            "ro": "O tură cu bicicleta iarna în jurul Cáceres oferă vederi clare asupra regiunii Extremadura. Dimineața, un vânt tăios bate lângă ziduri, trezindu-ne rapid. La prânz, ne bucurăm de soarele cald în Plaza Mayor în timp ce bicicletele sunt parcate. După-amiaza, ne încălzim în muzeu înainte de a termina turul înaintea apusului timpuriu.",
+            "en": "A winter bike tour around Cáceres offers crisp views across the Extremadura countryside. In the morning, a sharp wind at the city walls keeps us alert. At noon, we enjoy the warming sun at Plaza Mayor while the bikes rest. In the afternoon, we warm up at the Palacio de las Veletas museum before finishing the tour ahead of the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Cycle Around the City Walls",
+              "tip_4lang": {
+                "de": "Handschuhe sind bei dem Fahrtwind am Morgen unerlässlich.",
+                "hu": "A reggeli menetszél miatt a kesztyű elengedhetetlen.",
+                "ro": "Mănușile sunt esențiale din cauza vântului de dimineață.",
+                "en": "Gloves are essential to protect against the morning wind chill."
+              }
+            },
+            {
+              "name": "Plaza Mayor (Park Bike)",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Mittagssonne zum Aufwärmen auf dem Platz.",
+                "hu": "Használja ki a déli napsütést a felmelegedéshez a téren.",
+                "ro": "Folosiți soarele de la prânz pentru a vă încălzi în piață.",
+                "en": "Take advantage of the midday sun to warm up in the open square."
+              }
+            },
+            {
+              "name": "Arco de la Estrella & Bujaco Tower",
+              "tip_4lang": {
+                "de": "Der Wind pfeift oft durch die Torbögen; Schal einpacken.",
+                "hu": "A szél gyakran átfúj a boltívek alatt; sál ajánlott.",
+                "ro": "Vântul suflă adesea prin arcade; purtați un fular.",
+                "en": "The wind often whistles through the arches; wear a scarf."
+              }
+            },
+            {
+              "name": "Co-cathedral of Santa María",
+              "tip_4lang": {
+                "de": "Lassen Sie das Rad draußen; drinnen ist es angenehm ruhig.",
+                "hu": "Hagyja kint a bringát; bent kellemes nyugalom várja.",
+                "ro": "Lăsați bicicleta afară; în interior este o liniște plăcută.",
+                "en": "Leave your bike outside; the interior offers a quiet retreat."
+              }
+            },
+            {
+              "name": "Palacio de las Veletas (Museum of Cáceres)",
+              "tip_4lang": {
+                "de": "Das Museum bietet Schutz vor dem kalten Nachmittagswind.",
+                "hu": "A múzeum remek védelmet nyújt a hideg délutáni szél ellen.",
+                "ro": "Muzeul oferă o protecție excelentă împotriva vântului rece.",
+                "en": "The museum provides excellent shelter from the cold afternoon wind."
+              }
+            },
+            {
+              "name": "Jewish Quarter (Judería Vieja)",
+              "tip_4lang": {
+                "de": "Schattenzonen sind im Winter deutlich kühler als Sonnenplätze.",
+                "hu": "Az árnyékos részeken sokkal hűvösebb van, mint a napon.",
+                "ro": "Zonele umbrite sunt mult mai reci decât cele însorite.",
+                "en": "Shaded areas are significantly colder than sunny spots in winter."
+              }
+            },
+            {
+              "name": "Return to Plaza Mayor",
+              "tip_4lang": {
+                "de": "Beenden Sie die Tour vor 17:30 Uhr, wenn es kühler wird.",
+                "hu": "Fejezze be a túrát 17:30 előtt, amikor hirtelen lehűl az idő.",
+                "ro": "Încheiați turul înainte de 17:30, când se răcește brusc.",
+                "en": "Finish the tour before 17:30 when the temperature drops quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist wichtig.",
+              "Trinken Sie zwischendurch heißen Tee oder Kaffee.",
+              "Die Luft ist im Winter sehr trocken und klar.",
+              "Sicherstellen, dass die Fahrradbeleuchtung funktioniert."
+            ],
+            "hu": [
+              "A réteges öltözködés (hagyma-elv) nagyon fontos.",
+              "Igyon forró teát vagy kávét a megállókban.",
+              "A levegő télen nagyon száraz és tiszta.",
+              "Ellenőrizze, hogy a kerékpár világítása rendben működik-e."
+            ],
+            "ro": [
+              "Sistemul de îmbrăcăminte în straturi este foarte important.",
+              "Beți ceai sau cafea fierbinte în timpul opririlor.",
+              "Aerul este foarte uscat și curat în timpul iernii.",
+              "Asigurați-vă că luminile bicicletei funcționează corect."
+            ],
+            "en": [
+              "Layering your clothes is key for cycling in winter.",
+              "Stop for hot tea or coffee to maintain body heat.",
+              "The air is very dry and clear in winter, great for views.",
+              "Ensure your bike lights are working for the early dusk."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1263,6 +1681,206 @@
           "Keep your parking ticket in a safe place.",
           "Once parked, simply follow the walking itinerary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen wir Cáceres bequem auch bei starkem Regen. Morgens parken wir im Parkhaus nahe der Plaza Mayor und nutzen die Arkaden als Basis. Mittags besichtigen wir die Kathedrale und den Palast Golfines, während draußen der Guss niedergeht. Nachmittags ist das Museum Palacio de las Veletas unser trockenes Ziel, bevor wir am Abend entspannt zum Parkplatz zurückkehren.",
+            "hu": "Autóval kényelmesen elérjük Cácerest heves esőzésben is. Reggel a Plaza Mayor közeli parkolóházban hagyjuk az autót, és az árkádokat használjuk bázisként. Délben a székesegyházat és a Golfines palotát járjuk be, amíg odakint szakad. Délután a Palacio de las Veletas múzeuma a száraz célpontunk, majd este nyugodtan térünk vissza a parkolóba.",
+            "ro": "Cu mașina ajungem confortabil în Cáceres chiar și pe ploaie puternică. Dimineața parcăm în parcarea de lângă Plaza Mayor și folosim arcadele ca bază. La prânz vizităm catedrala și palatul Golfines în timp ce afară plouă torențial. După-amiaza, muzeul este destinația noastră ferită de apă, iar seara ne întoarcem relaxați la parcare.",
+            "en": "Reaching Cáceres by car is comfortable even in heavy rain. In the morning, we park in the garage near Plaza Mayor and use the arcades as our base. At noon, we visit the cathedral and Golfines Palace while the downpour continues outside. In the afternoon, the Palacio de las Veletas museum is our dry destination before returning to the parking area."
+          },
+          "stops": [
+            {
+              "name": "Parking near Plaza Mayor",
+              "tip_4lang": {
+                "de": "Das unterirdische Parkhaus hält Sie und das Auto trocken.",
+                "hu": "A földalatti parkolóház szárazon tartja Önt és az autót is.",
+                "ro": "Parcarea subterană vă menține pe dvs. și mașina uscați.",
+                "en": "The underground parking garage keeps both you and the car dry."
+              }
+            },
+            {
+              "name": "Plaza Mayor & Bujaco Tower",
+              "tip_4lang": {
+                "de": "Ein kurzer Sprint zu den Arkaden minimiert den Kontakt mit Regen.",
+                "hu": "Egy rövid futás az árkádokig segít elkerülni a megázást.",
+                "ro": "Un sprint scurt până la arcade minimizează contactul cu ploaia.",
+                "en": "A quick dash to the arcades minimizes your exposure to the rain."
+              }
+            },
+            {
+              "name": "Co-cathedral of Santa María",
+              "tip_4lang": {
+                "de": "Lassen Sie nasse Schirme am Kircheneingang abtropfen.",
+                "hu": "Hagyja a vizes esernyőket lecsepegni a templom bejáratánál.",
+                "ro": "Lăsați umbrelele ude să se scurgă la intrarea în biserică.",
+                "en": "Leave wet umbrellas to drip-dry at the church entrance."
+              }
+            },
+            {
+              "name": "Palace of the Golfines de Abajo",
+              "tip_4lang": {
+                "de": "Perfekt, um kulturelle Highlights im Trockenen zu erleben.",
+                "hu": "Tökéletes helyszín a kulturális élményekhez szárazon.",
+                "ro": "Perfect pentru a experimenta cultura la adăpost de ploaie.",
+                "en": "Perfect for experiencing cultural highlights while staying dry."
+              }
+            },
+            {
+              "name": "Palacio de las Veletas (Museum of Cáceres)",
+              "tip_4lang": {
+                "de": "Die Zisterne ist ein tolles Fotomotiv bei schlechtem Wetter.",
+                "hu": "A ciszterna nagyszerű fotótéma rossz idő esetén is.",
+                "ro": "Cisterna este un subiect excelent pentru fotografii pe vreme rea.",
+                "en": "The cistern is a great photo subject regardless of the weather."
+              }
+            },
+            {
+              "name": "Jewish Quarter & San Francisco Javier Church",
+              "tip_4lang": {
+                "de": "Die Gassen können bei Regen rutschige Wasserläufe bilden.",
+                "hu": "A szűk utcákban esőben kisebb vízfolyások alakulhatnak ki.",
+                "ro": "Pe străzile înguste se pot forma șuvoaie de apă pe ploaie.",
+                "en": "The narrow streets can form slippery water streams during rain."
+              }
+            },
+            {
+              "name": "Return to Parking",
+              "tip_4lang": {
+                "de": "Im Auto können Sie nasse Kleidung bequem wechseln.",
+                "hu": "Az autóban kényelmesen átöltözhet, ha megázott volna.",
+                "ro": "În mașină vă puteți schimba confortabil hainele ude.",
+                "en": "In the car, you can conveniently change out of wet clothing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das Parkhaus 'Parking Obispo Galarza'.",
+              "Fahren Sie bei Regen vorsichtig auf den engen Zufahrtswegen.",
+              "Halten Sie Handtücher im Auto bereit.",
+              "Ein Besuch im Museum ist die beste Regen-Alternative."
+            ],
+            "hu": [
+              "Használja a 'Parking Obispo Galarza' parkolóházat.",
+              "Esőben vezessen óvatosan a szűk bekötőutakon.",
+              "Tartson törölközőt az autóban.",
+              "A múzeumlátogatás a legjobb eső-alternatíva."
+            ],
+            "ro": [
+              "Folosiți parcarea 'Parking Obispo Galarza'.",
+              "Conduceți cu prudență pe drumurile înguste de acces pe ploaie.",
+              "Țineți prosoape în mașină.",
+              "Vizitarea muzeului este cea mai bună alternativă pe ploaie."
+            ],
+            "en": [
+              "Use the 'Parking Obispo Galarza' garage for easy access.",
+              "Drive carefully on narrow access roads during rain.",
+              "Keep towels in the car to dry off after walking segments.",
+              "The museum is the best indoor alternative during a downpour."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Cáceres im Winter ist mit dem Auto stressfrei zu besuchen. Morgens ist die Luft klar, wenn wir nahe der Altstadt parken. Mittags genießen wir die Sonne auf dem Hauptplatz und besichtigen die Kathedrale Santa María. Nachmittags wärmen wir uns in den prunkvollen Sälen des Golfines-Palastes und im Museum auf. Da es früh dunkel wird, nutzen wir den Abend für eine kurze Fahrt zu einem Aussichtspunkt.",
+            "hu": "Cáceres télen autóval stresszmentesen látogatható. Reggel tiszta a levegő, amikor az óváros közelében parkolunk. Délben a főtéren élvezzük a napsütést és megnézzük a Santa María székesegyházat. Délután a Golfines palota díszes termeiben és a múzeumban melegedünk fel. Mivel korán sötétedik, az estét egy közeli kilátópont meglátogatására használjuk.",
+            "ro": "Cáceres iarna poate fi vizitat fără stres cu mașina. Dimineața aerul este curat când parcăm lângă orașul vechi. La prânz ne bucurăm de soare în piața principală și vizităm catedrala. După-amiaza ne încălzim în sălile palatului Golfines și în muzeu. Deoarece se întunecă devreme, folosim seara pentru o scurtă plimbare la un punct de belvedere.",
+            "en": "Visiting Cáceres in winter by car is stress-free. In the morning, the air is crisp as we park near the old town. At noon, we enjoy the sun in the main square and visit the Santa María Co-cathedral. In the afternoon, we warm up in the ornate halls of the Golfines Palace and the museum. Since it gets dark early, we use the evening for a short drive to a scenic viewpoint."
+          },
+          "stops": [
+            {
+              "name": "Parking near Plaza Mayor",
+              "tip_4lang": {
+                "de": "Das Auto bleibt im Parkhaus frostfrei und fahrbereit.",
+                "hu": "Az autó a parkolóházban védve van a téri hidegtől.",
+                "ro": "Mașina rămâne ferită de îngheț în parcare.",
+                "en": "The car stays frost-free and ready in the parking garage."
+              }
+            },
+            {
+              "name": "Plaza Mayor & Bujaco Tower",
+              "tip_4lang": {
+                "de": "Sonnige Außenplätze sind im Winter Gold wert.",
+                "hu": "A napsütötte kinti asztalok télen aranyat érnek.",
+                "ro": "Mesele însorite de afară valorează aur curat iarna.",
+                "en": "Sunny outdoor tables are worth their weight in gold in winter."
+              }
+            },
+            {
+              "name": "Co-cathedral of Santa María",
+              "tip_4lang": {
+                "de": "Die Kühle der Kirche ist im Winter spürbar; Schal anbehalten.",
+                "hu": "A templom hidege télen érezhető; hagyja magán a sálat.",
+                "ro": "Răceala bisericii este sesizabilă iarna; păstrați fularul.",
+                "en": "The church interior is noticeably cold in winter; keep your scarf on."
+              }
+            },
+            {
+              "name": "Palace of the Golfines de Abajo",
+              "tip_4lang": {
+                "de": "Ein prachtvoller Rückzugsort, wenn es draußen zu windig wird.",
+                "hu": "Pompás menedék, ha odakint túl szelesre fordulna az idő.",
+                "ro": "Un refugiu splendid dacă afară devine prea vântos.",
+                "en": "A magnificent retreat if it becomes too windy outside."
+              }
+            },
+            {
+              "name": "Palacio de las Veletas (Museum of Cáceres)",
+              "tip_4lang": {
+                "de": "Nutzen Sie die warmen Museumsräume für eine Pause.",
+                "hu": "Használja ki a meleg múzeumi termeket egy pihenőre.",
+                "ro": "Folosiți sălile calde ale muzeului pentru o pauză.",
+                "en": "Utilize the warm museum rooms for a comfortable break."
+              }
+            },
+            {
+              "name": "Jewish Quarter & San Francisco Javier Church",
+              "tip_4lang": {
+                "de": "Das Abendlicht auf den weißen Wänden ist im Winter magisch.",
+                "hu": "Az alkonyi fény a fehér falakon télen egészen mágikus.",
+                "ro": "Lumina serii pe pereții albi este de-a dreptul magică iarna.",
+                "en": "The evening light on the white walls is truly magical in winter."
+              }
+            },
+            {
+              "name": "Return to Parking",
+              "tip_4lang": {
+                "de": "Heizen Sie das Auto vor der Rückfahrt kurz auf.",
+                "hu": "Indulás előtt fűtse fel kicsit az autót a kényelemért.",
+                "ro": "Încălziți puțin mașina înainte de plecare.",
+                "en": "Warm up the car for a few minutes before the return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkhäuser sind im Winter oft wärmer als die Straße.",
+              "Probieren Sie 'Torta del Casar' Käse mit frischem Brot.",
+              "Vermeiden Sie Fahrten in die engste Altstadtzone.",
+              "Sonnenbrille mitnehmen; die Wintersonne steht tief."
+            ],
+            "hu": [
+              "A parkolóházak télen gyakran melegebbek az utcánál.",
+              "Kóstolja meg a 'Torta del Casar' sajtot friss kenyérrel.",
+              "Kerülje az autóval való behajtást a legszűkebb óvárosi részekre.",
+              "Vigyen napszemüveget; a téli nap alacsonyan jár."
+            ],
+            "ro": [
+              "Parcările subterane sunt adesea mai calde decât strada iarna.",
+              "Gustați brânza 'Torta del Casar' cu pâine proaspătă.",
+              "Evitați să intrați cu mașina în zonele cele mai înguste ale orașului.",
+              "Luați ochelari de soare; soarele de iarnă este jos."
+            ],
+            "en": [
+              "Parking garages are often warmer than the street in winter.",
+              "Try local 'Torta del Casar' cheese with fresh crusty bread.",
+              "Avoid driving into the narrowest parts of the old town.",
+              "Bring sunglasses as the winter sun sits very low on the horizon."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1679,6 +2297,206 @@
           "Validate your ticket when you board the bus.",
           "Be aware that service may be less frequent in the evening."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus gelangt man auch bei Regen trocken ins Zentrum von Cáceres. Morgens führt der Weg von der Plaza de América direkt zur Plaza Mayor, wo die Arkaden Schutz bieten. Mittags besuchen wir die Kathedrale und den Golfines-Palast im Schutz der dicken Mauern. Nachmittags verbringen wir viel Zeit im Museum Palacio de las Veletas, bevor wir den Bus zurück nehmen.",
+            "hu": "Busszal esőben is szárazon juthatunk el Cáceres központjába. Reggel a Plaza de América térről egyenesen a Plaza Mayorhoz utazunk, ahol az árkádok védenek. Délben a székesegyházat és a Golfines palotát látogatjuk meg a vastag falak oltalmában. Délután sok időt töltünk a Palacio de las Veletas múzeumban, mielőtt visszabuszoznánk.",
+            "ro": "Cu autobuzul se poate ajunge uscat în centrul orașului Cáceres chiar și pe ploaie. Dimineața, drumul de la Plaza de América duce direct la Plaza Mayor, unde arcadele oferă protecție. La prânz vizităm catedrala și palatul Golfines la adăpostul zidurilor groase. După-amiaza petrecem mult timp în muzeu înainte de a lua autobuzul înapoi.",
+            "en": "By bus, you can reach the center of Cáceres dry even in the rain. In the morning, the route from Plaza de América leads directly to Plaza Mayor, where the arcades provide cover. At noon, we visit the cathedral and Golfines Palace protected by thick walls. In the afternoon, we spend plenty of time in the Palacio de las Veletas museum before heading back."
+          },
+          "stops": [
+            {
+              "name": "Bus Stop at Plaza de América",
+              "tip_4lang": {
+                "de": "Das Wartehäuschen bietet Schutz vor Wind und Regen.",
+                "hu": "A buszmegálló fedett várója véd a szél és az eső ellen.",
+                "ro": "Adăpostul din stația de autobuz oferă protecție contra vântului.",
+                "en": "The bus stop shelter provides protection from wind and rain."
+              }
+            },
+            {
+              "name": "Plaza Mayor & Bujaco Tower",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Busverbindung, um lange Fußwege im Regen zu vermeiden.",
+                "hu": "Használja a buszt, hogy elkerülje a hosszú gyaloglást az esőben.",
+                "ro": "Folosiți autobuzul pentru a evita mersul lung pe jos pe ploaie.",
+                "en": "Use the bus connection to avoid long walks in the rain."
+              }
+            },
+            {
+              "name": "Co-cathedral of Santa María",
+              "tip_4lang": {
+                "de": "Ein idealer Rückzugsort bei plötzlichen Schauern.",
+                "hu": "Ideális búvóhely hirtelen jött záporok esetén.",
+                "ro": "Un refugiu ideal în cazul averselor bruște.",
+                "en": "An ideal place to take cover during sudden showers."
+              }
+            },
+            {
+              "name": "Palace of the Golfines de Abajo",
+              "tip_4lang": {
+                "de": "Die Innenräume bieten erstklassige Kultur ohne nass zu werden.",
+                "hu": "A belső terek kiváló kultúrát kínálnak ázás nélkül.",
+                "ro": "Interioarele oferă cultură de primă clasă fără a vă uda.",
+                "en": "The interior offers top-tier culture without getting soaked."
+              }
+            },
+            {
+              "name": "Palacio de las Veletas (Museum of Cáceres)",
+              "tip_4lang": {
+                "de": "Das Museum ist groß genug, um einen ganzen Regennachmittag zu füllen.",
+                "hu": "A múzeum elég nagy ahhoz, hogy kitöltse az egész esős délutánt.",
+                "ro": "Muzeul este destul de mare pentru a umple o după-amiază ploioasă.",
+                "en": "The museum is large enough to occupy an entire rainy afternoon."
+              }
+            },
+            {
+              "name": "Jewish Quarter & San Francisco Javier Church",
+              "tip_4lang": {
+                "de": "Seien Sie vorsichtig auf den steilen, nassen Treppen der Altstadt.",
+                "hu": "Legyen óvatos az óváros meredek, vizes lépcsőin.",
+                "ro": "Fiți atenți pe scările abrupte și ude din orașul vechi.",
+                "en": "Be careful on the steep, wet stairs of the old town."
+              }
+            },
+            {
+              "name": "Return to Bus Stop",
+              "tip_4lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten per App, um nicht im Regen zu warten.",
+                "hu": "Ellenőrizze az indulást applikáción, hogy ne kelljen kint várnia.",
+                "ro": "Verificați orele de plecare pe aplicație pentru a nu aștepta în ploaie.",
+                "en": "Check departure times via app to avoid waiting in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie ein Zehnerticket (Bonobús) für die Gruppe.",
+              "Die Linie L2 verbindet das Zentrum mit dem Bahnhof.",
+              "Halten Sie Kleingeld für den Fahrkartenkauf bereit.",
+              "Busse fahren bei Regen oft etwas unregelmäßiger."
+            ],
+            "hu": [
+              "Vásároljon tízalkalmas jegyet (Bonobús) a csoportnak.",
+              "Az L2-es vonal összeköti a központot a vasútállomással.",
+              "Tartson magánál aprópénzt a jegyvásárláshoz.",
+              "Esőben a buszok gyakran rendszertelenebbül közlekednek."
+            ],
+            "ro": [
+              "Cumpărați un bilet cu zece călătorii (Bonobús) pentru grup.",
+              "Linia L2 face legătura între centru și gară.",
+              "Păstrați mărunțiș pentru cumpărarea biletelor.",
+              "Autobuzele circulă adesea mai neregulat pe ploaie."
+            ],
+            "en": [
+              "Buy a ten-trip ticket (Bonobús) if traveling in a group.",
+              "Line L2 connects the city center with the train station.",
+              "Keep small change ready for buying tickets on board.",
+              "Buses may run less regularly during heavy rain due to traffic."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Öffentliche Verkehrsmittel sind im winterlichen Cáceres eine gute Wahl, um Kälteperioden zu überbrücken. Morgens bringt uns der Bus zur Plaza Mayor, wo wir die frische Winterluft genießen. Mittags erkunden wir die Kathedrale und den prunkvollen Golfines-Palast. Nachmittags wärmen wir uns im Museum Palacio de las Veletas auf, bevor wir bei einsetzender Dunkelheit bequem den Bus zurück nehmen.",
+            "hu": "A tömegközlekedés Cáceresben télen remek választás a hideg elleni védekezésre. Reggel a busz a Plaza Mayorhoz visz, ahol élvezzük a friss téli levegőt. Délben a székesegyházat és a pompás Golfines palotát fedezzük fel. Délután a Palacio de las Veletas múzeumában melegedünk fel, majd a sötétség beálltakával kényelmesen visszabuszozunk.",
+            "ro": "Transportul public în Cáceres iarna este o alegere bună pentru a evita frigul. Dimineața, autobuzul ne duce la Plaza Mayor, unde ne bucurăm de aerul curat. La prânz explorăm catedrala și splendidul palat Golfines. După-amiaza ne încălzim în muzeu înainte de a lua confortabil autobuzul înapoi pe înserat.",
+            "en": "Public transport in wintery Cáceres is a great choice to bridge the cold spells. In the morning, the bus takes us to Plaza Mayor where we enjoy the fresh winter air. At noon, we explore the cathedral and the grand Golfines Palace. In the afternoon, we warm up in the museum before comfortably taking the bus back as darkness sets in."
+          },
+          "stops": [
+            {
+              "name": "Bus Stop at Plaza de América",
+              "tip_4lang": {
+                "de": "Ein windgeschützter Platz zum Warten auf den nächsten Bus.",
+                "hu": "Szélvédett hely a következő buszra való várakozáshoz.",
+                "ro": "Un loc ferit de vânt pentru a aștepta următorul autobuz.",
+                "en": "A wind-sheltered spot to wait for the next bus arrival."
+              }
+            },
+            {
+              "name": "Plaza Mayor & Bujaco Tower",
+              "tip_4lang": {
+                "de": "Der Platz ist morgens im Winter oft herrlich ruhig.",
+                "hu": "A tér reggelente télen gyakran csodálatosan csendes.",
+                "ro": "Piața este adesea minunat de liniștită dimineața, iarna.",
+                "en": "The square is often wonderfully quiet on winter mornings."
+              }
+            },
+            {
+              "name": "Co-cathedral of Santa María",
+              "tip_4lang": {
+                "de": "Bewundern Sie die Kunstwerke, während Sie sich drinnen aufwärmen.",
+                "hu": "Csodálja meg a műalkotásokat, amíg bent felmelegszik.",
+                "ro": "Admirați operele de artă în timp ce vă încălziți în interior.",
+                "en": "Admire the artworks while warming up inside the building."
+              }
+            },
+            {
+              "name": "Palace of the Golfines de Abajo",
+              "tip_4lang": {
+                "de": "Die Innentour ist ein Highlight an kalten Wintertagen.",
+                "hu": "A belső vezetés fénypontja a hideg téli napoknak.",
+                "ro": "Turul interior este un punct culminant în zilele reci de iarnă.",
+                "en": "The indoor tour is a highlight on cold winter days."
+              }
+            },
+            {
+              "name": "Palacio de las Veletas (Museum of Cáceres)",
+              "tip_4lang": {
+                "de": "Das Museum bietet eine willkommene Pause von der Kälte.",
+                "hu": "A múzeum üdvözlendő pihenőt kínál a kinti hideg elől.",
+                "ro": "Muzeul oferă o pauză binevenită de la frigul de afară.",
+                "en": "The museum offers a welcome break from the outdoor cold."
+              }
+            },
+            {
+              "name": "Jewish Quarter & San Francisco Javier Church",
+              "tip_4lang": {
+                "de": "Die Sonne verschwindet hier im Winter sehr früh hinter den Mauern.",
+                "hu": "A nap itt télen nagyon korán eltűnik a falak mögött.",
+                "ro": "Soarele dispare foarte devreme în spatele zidurilor aici, iarna.",
+                "en": "The sun disappears behind the walls very early here in winter."
+              }
+            },
+            {
+              "name": "Return to Bus Stop",
+              "tip_4lang": {
+                "de": "Abends fahren die Busse seltener; Zeitplan beachten.",
+                "hu": "Este ritkábban járnak a buszok; figyeljen a menetrendre.",
+                "ro": "Seara autobuzele circulă mai rar; atenție la program.",
+                "en": "Buses run less frequently in the evening; check the schedule."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter gut beheizt.",
+              "Die Haltestellen in der Altstadt sind oft nur kleine Schilder.",
+              "Nutzen Sie Google Maps für Echtzeit-Busdaten.",
+              "Nach 19:00 Uhr wird es in Cáceres im Winter sehr ruhig."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek.",
+              "Az óvárosi megállókat gyakran csak kis táblák jelzik.",
+              "Használja a Google Maps-et a buszok valós idejű követéséhez.",
+              "19:00 után Cáceres télen nagyon elcsendesedik."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite iarna.",
+              "Stațiile din orașul vechi sunt adesea doar niște indicatoare mici.",
+              "Folosiți Google Maps pentru date în timp real despre autobuze.",
+              "După ora 19:00, Cáceres devine foarte liniștit iarna."
+            ],
+            "en": [
+              "Buses are well-heated during the winter months.",
+              "Old town bus stops are often marked only by small signs.",
+              "Use Google Maps for real-time bus tracking data.",
+              "After 19:00, Cáceres becomes very quiet in winter."
+            ]
+          }
+        }
       }
     }
   }

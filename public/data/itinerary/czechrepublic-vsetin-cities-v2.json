@@ -386,6 +386,206 @@
           "Allow plenty of time for the museum in the castle; it's surprisingly extensive.",
           "The best photo opportunities are in the squares early in the morning before the crowds arrive."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens suchen wir Schutz unter den Arkaden am Unteren Platz. Mittags bietet das Schloss Vsetín einen ausgiebigen, trockenen Aufenthalt in den Museumsräumen. Nachmittags besuchen wir die Kirche Mariä Himmelfahrt als stillen Rückzugsort. Der Tag endet mit einem kurzen Spaziergang an der Bečva, wobei der Regen die Luft erfrischt.",
+            "hu": "Reggel az Alsó téren az épületek ereszei alatt kezdünk. Délben a Vsetíni Vár belső kiállításai nyújtanak tökéletes menedéket az eső elől. Délután a Szűz Mária Mennybevétele templom csendjében pihenünk meg. Az estét egy frissítő, esernyős séta zárja a Bečva-folyó partján, élvezve a tiszta levegőt.",
+            "ro": "Dimineața căutăm adăpost sub arcadele din Piața de Jos. La prânz, Castelul Vsetín oferă o vizită prelungită și uscată în sălile muzeului. După-amiaza vizităm Biserica Adormirea Maicii Domnului ca refugiu liniștit. Ziua se încheie cu o scurtă plimbare pe malul râului Bečva, unde ploaia împrospătează aerul.",
+            "en": "Morning starts with seeking shelter under the arcades of Lower Square. At midday, Vsetín Castle provides an extensive dry stay within its museum rooms. In the afternoon, we visit the Church of the Assumption as a quiet retreat. The day ends with a short walk along the Bečva river, with rain refreshing the atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Lower Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Ladenvordächer als Regenschutz.",
+                "hu": "Használja az üzletek előtetőit eső elleni védelemként.",
+                "ro": "Folosiți copertinele magazinelor ca protecție împotriva ploii.",
+                "en": "Use the shop awnings as rain protection."
+              }
+            },
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen im Inneren.",
+                "hu": "Tekintse meg a belső kiállításokat.",
+                "ro": "Vizitați expozițiile din interior.",
+                "en": "Visit the exhibitions inside."
+              }
+            },
+            {
+              "name": "Upper Square & Maštaliska",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster kann bei Nässe rutschig sein.",
+                "hu": "A macskakő nedvesen csúszós lehet.",
+                "ro": "Pavajul poate fi alunecos când este ud.",
+                "en": "The cobblestones can be slippery when wet."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine trockene Pause.",
+                "hu": "Ideális hely egy száraz pihenőhöz.",
+                "ro": "Un loc ideal pentru o pauză uscată.",
+                "en": "An ideal place for a dry break."
+              }
+            },
+            {
+              "name": "Vsetín Castle",
+              "tip_5lang": {
+                "de": "Planen Sie hier bei Regen mehr Zeit ein.",
+                "hu": "Esőben tervezzen itt több időt.",
+                "ro": "Planificați mai mult timp aici dacă plouă.",
+                "en": "Plan more time here if it rains."
+              }
+            },
+            {
+              "name": "Liberation Monument",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Stufen zum Denkmal.",
+                "hu": "Vigyázzon a vizes lépcsőkön az emlékműnél.",
+                "ro": "Atenție la treptele umede de la monument.",
+                "en": "Be careful on the wet steps at the monument."
+              }
+            },
+            {
+              "name": "Walk along the Vsetínská Bečva River",
+              "tip_5lang": {
+                "de": "Der asphaltierte Weg ist auch bei Regen gut begehbar.",
+                "hu": "Az aszfaltozott út esőben is jól járható.",
+                "ro": "Poteca asfaltată este accesibilă și pe ploaie.",
+                "en": "The paved path is easily walkable even in rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit.",
+              "Das Schlossmuseum ist die beste Regenoption.",
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Nutzen Sie die Cafés am Unteren Platz für Pausen."
+            ],
+            "hu": [
+              "Vigyen magával strapabíró esernyőt.",
+              "A vármúzeum a legjobb választás esőben.",
+              "Viseljen vízálló cipőt a macskaköves utcákhoz.",
+              "Használja ki az Alsó tér kávézóit a szünetekhez."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă cu voi.",
+              "Muzeul castelului este cea mai bună opțiune pe ploaie.",
+              "Purtați pantofi impermeabili pentru pavaj.",
+              "Folosiți cafenelele din Piața de Jos pentru pauze."
+            ],
+            "en": [
+              "Take a sturdy umbrella with you.",
+              "The castle museum is the best indoor option.",
+              "Wear waterproof shoes for the cobblestones.",
+              "Use the cafes at Lower Square for breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen beginnt auf den historischen Plätzen, wo Reif die barocken Details ziert. Mittags wärmen wir uns im Alten Rathaus auf, bevor es zum Schloss geht. Der Nachmittag im beheizten Schlossmuseum schützt vor der Kälte. Da es früh dunkel wird, genießen wir die stimmungsvolle Beleuchtung beim Abendspaziergang am Fluss.",
+            "hu": "A fagyos reggel a történelmi tereken kezdődik, ahol zúzmara díszíti a barokk részleteket. Délben a Városházán melegszünk fel, majd a várba indulunk. A délután a fűtött vármúzeumban telik, távol a hidegtől. A korai sötétedés miatt az esti folyóparti séta alatt már a város fényeiben gyönyörködhetünk.",
+            "ro": "Dimineața geroasă începe în piețele istorice, unde chiciura decorează detaliile baroce. La prânz ne încălzim în Vechea Primărie înainte de a merge la castel. După-amiaza în muzeul încălzit al castelului ne protejează de frig. Deoarece se întunecă devreme, savurăm iluminatul ambiental la plimbarea de seară.",
+            "en": "The frosty morning begins in the historic squares, where hoarfrost decorates the Baroque details. At midday, we warm up in the Old Town Hall before heading to the castle. The afternoon in the heated castle museum protects us from the cold. As it gets dark early, we enjoy the atmospheric lighting during the evening river walk."
+          },
+          "stops": [
+            {
+              "name": "Lower Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis am Brunnen.",
+                "hu": "Vigyázzon a jégre a szökőkút környékén.",
+                "ro": "Atenție la gheață în apropierea fântânii.",
+                "en": "Watch out for ice near the fountain."
+              }
+            },
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Perfekt zum Aufwärmen und für Infos.",
+                "hu": "Tökéletes hely felmelegedni és infót kérni.",
+                "ro": "Perfect pentru încălzire și informații.",
+                "en": "Perfect for warming up and getting info."
+              }
+            },
+            {
+              "name": "Upper Square & Maštaliska",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das verschneite Tal.",
+                "hu": "Élvezze a kilátást a havas völgyre.",
+                "ro": "Bucurați-vă de vederea spre valea înzăpezită.",
+                "en": "Enjoy the view of the snowy valley."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Oft kühler Innenraum, behalten Sie die Jacke an.",
+                "hu": "A belső tér hűvös lehet, tartsa magán a kabátot.",
+                "ro": "Interiorul poate fi răcoros, păstrați hăina pe voi.",
+                "en": "The interior is often cool, keep your coat on."
+              }
+            },
+            {
+              "name": "Vsetín Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie die beheizten Ausstellungsräume.",
+                "hu": "Látogassa meg a fűtött kiállítótermeket.",
+                "ro": "Vizitați sălile de expoziție încălzite.",
+                "en": "Visit the heated exhibition rooms."
+              }
+            },
+            {
+              "name": "Liberation Monument",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, da es hier windig sein kann.",
+                "hu": "Gyors fotómegálló, mert itt szeles lehet az idő.",
+                "ro": "Scurt popas foto, deoarece poate fi vânt aici.",
+                "en": "Quick photo stop as it can be windy here."
+              }
+            },
+            {
+              "name": "Walk along the Vsetínská Bečva River",
+              "tip_5lang": {
+                "de": "Der Weg wird meist schnell geräumt.",
+                "hu": "Az utat általában hamar letakarítják.",
+                "ro": "Poteca este de obicei curățată rapid.",
+                "en": "The path is usually cleared quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermokleidung und gute Sohlen.",
+              "Planen Sie Aufwärmpausen in Cafés ein.",
+              "Sonnenuntergang ist bereits gegen 16:00 Uhr.",
+              "Die Museen sind gut beheizt."
+            ],
+            "hu": [
+              "Viseljen termaruházatot és csúszásmentes talpú cipőt.",
+              "Tervezzen be melegedő szüneteket kávézókban.",
+              "A napnyugta már 16:00 körül bekövetkezik.",
+              "A múzeumok jól fűtöttek."
+            ],
+            "ro": [
+              "Purtați haine termice și tălpi aderente.",
+              "Planificați pauze de încălzire în cafenele.",
+              "Apusul este deja în jurul orei 16:00.",
+              "Muzeele sunt bine încălzite."
+            ],
+            "en": [
+              "Wear thermal clothing and grippy soles.",
+              "Plan warm-up breaks in local cafes.",
+              "Sunset occurs as early as 4:00 PM.",
+              "The museums are well heated."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +942,188 @@
           "Bring plenty of water, especially on warm days.",
           "Take advantage of the well-developed cycle paths along the river."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag beginnt im Zentrum, wo wir uns kurz orientieren. Den Mittag verbringen wir im Schloss Vsetín, um das Fahrrad sicher zu parken und trocken zu bleiben. Nach dem Mittagessen geht es trotz Regen zum Denkmal und zur Sternwarte. Wir beenden die Tour vorsichtig auf den nassen Straßen zurück im Zentrum.",
+            "hu": "Egy esős bringás nap a központban kezdődik. A delet a Vsetíni Várban töltjük, ahol biztonságban leparkolhatunk és szárazon maradhatunk. Ebéd után az eső ellenére is ellátogatunk az emlékműhöz és a csillagvizsgálóhoz. A túrát óvatosan, a vizes utakon tekerve fejezzük be a városközpontban.",
+            "ro": "O zi de ciclism ploioasă începe în centru. Prânzul îl petrecem la Castelul Vsetín pentru a parca bicicleta în siguranță și a rămâne uscați. După prânz, mergem la monument și la observator în ciuda ploii. Încheiem turul cu atenție pe străzile umede înapoi în centru.",
+            "en": "A rainy cycling day starts in the center. We spend midday at Vsetín Castle to park the bike safely and stay dry. After lunch, we visit the monument and observatory despite the rain. We finish the tour carefully, riding on wet streets back to the city center."
+          },
+          "stops": [
+            {
+              "name": "City Center Exploration",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a nedves macskakövön.",
+                "ro": "Atenție pe pavajul umed.",
+                "en": "Be careful on wet cobblestones."
+              }
+            },
+            {
+              "name": "Vsetín Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer.",
+                "hu": "Használja a fedett kerékpártárolót.",
+                "ro": "Folosiți suportul de biciclete acoperit.",
+                "en": "Use the covered bike rack."
+              }
+            },
+            {
+              "name": "Lunch by the River",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit Innenplätzen.",
+                "hu": "Keressen éttermet belső ülőhelyekkel.",
+                "ro": "Căutați un restaurant cu locuri în interior.",
+                "en": "Find a restaurant with indoor seating."
+              }
+            },
+            {
+              "name": "Liberation Monument",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfes Bremsen auf Laub.",
+                "hu": "Kerülje az erős fékezést a leveleken.",
+                "ro": "Evitați frânarea bruscă pe frunze.",
+                "en": "Avoid sharp braking on leaves."
+              }
+            },
+            {
+              "name": "Vsetín Observatory",
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Regen rutschig sein.",
+                "hu": "Az emelkedő esőben csúszós lehet.",
+                "ro": "Urcarea poate fi alunecoasă pe ploaie.",
+                "en": "The climb can be slippery in the rain."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_5lang": {
+                "de": "Säubern Sie die Bremsen von Schmutz.",
+                "hu": "Tisztítsa meg a fékeket a sártól.",
+                "ro": "Curățați frânele de murdărie.",
+                "en": "Clean the brakes from dirt."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Benutzen Sie Schutzbleche gegen Spritzwasser.",
+              "Tragen Sie eine voll wasserdichte Regenjacke.",
+              "Vermeiden Sie Pfützen, sie könnten tief sein.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Fahrt."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "Viseljen teljesen vízálló esőkabátot.",
+              "Kerülje a tócsákat, mélyek lehetnek.",
+              "Indulás előtt ellenőrizze a fékbetéteket."
+            ],
+            "ro": [
+              "Folosiți apărători împotriva stropilor.",
+              "Purtați o jachetă de ploaie impermeabilă.",
+              "Evitați bălțile, pot fi adânci.",
+              "Verificați plăcuțele de frână înainte de drum."
+            ],
+            "en": [
+              "Use fenders against water splashes.",
+              "Wear a fully waterproof rain jacket.",
+              "Avoid puddles, they might be deep.",
+              "Check your brake pads before riding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour erfordert warme Kleidung ab dem Zentrum. Mittags wärmen wir uns im Schloss Vsetín auf, während die Fahrräder draußen warten. Nach einem stärkenden Mittagessen radeln wir zum Denkmal und zur Sternwarte, wo der Schnee die Aussicht verzaubert. Die Rückkehr ins Zentrum erfolgt vor Einbruch der frühen Dunkelheit.",
+            "hu": "A téli túra meleg ruházatot igényel már a központtól. Délben a Vsetíni Várban melegszünk fel, miközben a bringák kint várnak. Egy tápláló ebéd után az emlékműhöz és a csillagvizsgálóhoz tekerünk, ahol a hó varázslatossá teszi a kilátást. A központba még a korai sötétedés előtt visszatérünk.",
+            "ro": "Turul de iarnă necesită haine groase încă din centru. La prânz ne încălzim la Castelul Vsetín în timp ce bicicletele așteaptă afară. După un prânz consistent, pedalăm spre monument și observator, unde zăpada face vederea magică. Revenirea în centru are loc înainte de lăsarea întunericului.",
+            "en": "The winter tour requires warm clothing from the start. At midday, we warm up at Vsetín Castle while the bikes wait outside. After a hearty lunch, we cycle to the monument and observatory, where snow makes the view magical. We return to the center before the early darkness sets in."
+          },
+          "stops": [
+            {
+              "name": "City Center Exploration",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen.",
+                "hu": "Ügyeljen a befagyott tócsákra.",
+                "ro": "Atenție la bălțile înghețate.",
+                "en": "Watch out for frozen puddles."
+              }
+            },
+            {
+              "name": "Vsetín Castle",
+              "tip_5lang": {
+                "de": "Das Metall der Fahrradschlösser kann frieren.",
+                "hu": "A lakatok fém részei odafagyhatnak.",
+                "ro": "Metalul antifurtului poate îngheța.",
+                "en": "Bike lock metal can freeze."
+              }
+            },
+            {
+              "name": "Lunch by the River",
+              "tip_5lang": {
+                "de": "Bestellen Sie ein heißes Getränk zum Aufwärmen.",
+                "hu": "Rendeljen forró italt a melegedéshez.",
+                "ro": "Comandați o băutură caldă pentru încălzire.",
+                "en": "Order a hot drink to warm up."
+              }
+            },
+            {
+              "name": "Liberation Monument",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die Abfahrt unerlässlich.",
+                "hu": "A kesztyű elengedhetetlen a lejtőhöz.",
+                "ro": "Mănușile sunt esențiale pentru coborâre.",
+                "en": "Gloves are essential for the descent."
+              }
+            },
+            {
+              "name": "Vsetín Observatory",
+              "tip_5lang": {
+                "de": "Helles Licht reflektiert stark auf Schnee.",
+                "hu": "A fény erősen visszaverődik a hóról.",
+                "ro": "Lumina se reflectă puternic pe zăpadă.",
+                "en": "Bright light reflects strongly on snow."
+              }
+            },
+            {
+              "name": "Return to Center",
+              "tip_5lang": {
+                "de": "Schalten Sie frühzeitig das Licht an.",
+                "hu": "Kapcsolja be időben a világítást.",
+                "ro": "Aprindeți luminile din timp.",
+                "en": "Turn on your lights early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Reifen mit gutem Profil oder Spikes.",
+              "Tragen Sie Schichten (Zwiebelprinzip).",
+              "Akku-Lichter entladen sich bei Kälte schneller.",
+              "Vermeiden Sie Streusalz-Reste am Rahmen."
+            ],
+            "hu": [
+              "Használjon bordázott vagy szöges gumikat.",
+              "Öltözzön rétegesen (hagyma elv).",
+              "Az akkus lámpák gyorsabban merülnek hidegben.",
+              "Tisztítsa le az útszóró sót a vázról."
+            ],
+            "ro": [
+              "Folosiți anvelope cu profil bun sau ținte.",
+              "Purtați straturi de haine.",
+              "Luminile cu acumulator se descarcă mai repede la frig.",
+              "Curățați resturile de sare de pe cadru."
+            ],
+            "en": [
+              "Use tires with good tread or spikes.",
+              "Wear layers (onion principle).",
+              "Battery lights drain faster in the cold.",
+              "Clean road salt residue from the frame."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1480,188 @@
           "Do not leave valuables visible in the car.",
           "Plan some buffer time for traffic, especially during peak hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "An einem Regentag nutzen wir das Auto als Basis. Wir starten an der Sternwarte, wo wir bei Schauern im Wagen bleiben können. Mittags parken wir direkt am Schloss Vsetín für einen trockenen Besuch. Den Nachmittag verbringen wir im Stadtzentrum, nutzen kurze Regenpausen für die Plätze und beenden den Tag entspannt am Flussufer.",
+            "hu": "Esős napon az autót használjuk bázisként. A csillagvizsgálónál kezdünk, ahol a záporok alatt a kocsiban maradhatunk. Délben közvetlenül a Vsetíni Várnál parkolunk a száraz látogatáshoz. A délutánt a városközpontban töltjük, kihasználva a rövid szüneteket a tereken, majd a folyóparton zárunk.",
+            "ro": "Într-o zi ploioasă folosim mașina ca bază. Începem la observator, unde putem rămâne în mașină în timpul averselor. La prânz parcăm direct la Castelul Vsetín pentru o vizită uscată. După-amiaza o petrecem în centrul orașului, profitând de pauzele scurte de ploaie.",
+            "en": "On a rainy day, we use the car as our base. We start at the observatory, where we can stay in the car during showers. At midday, we park directly at Vsetín Castle for a dry visit. We spend the afternoon in the city center, using short rain breaks for the squares, and end the day at the riverside."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Vsetín Old Town",
+              "tip_5lang": {
+                "de": "Gute Parkmöglichkeit in der Nähe.",
+                "hu": "Jó parkolási lehetőség a közelben.",
+                "ro": "Posibilitate bună de parcare în apropiere.",
+                "en": "Good parking possibility nearby."
+              }
+            },
+            {
+              "name": "Vsetín Castle",
+              "tip_5lang": {
+                "de": "Kurzer Weg vom Parkplatz zum Eingang.",
+                "hu": "Rövid út a parkolótól a bejáratig.",
+                "ro": "Drum scurt de la parcare la intrare.",
+                "en": "Short walk from the parking lot to the entrance."
+              }
+            },
+            {
+              "name": "Cluster 2: Historic Center (on foot)",
+              "tip_5lang": {
+                "de": "Halten Sie den Schirm griffbereit im Auto.",
+                "hu": "Tartsa az esernyőt kéznél az autóban.",
+                "ro": "Țineți umbrela la îndemână în mașină.",
+                "en": "Keep the umbrella handy in the car."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Parken Sie auf den markierten Flächen.",
+                "hu": "Parkoljon a kijelölt helyeken.",
+                "ro": "Parcați în zonele marcate.",
+                "en": "Park in the designated areas."
+              }
+            },
+            {
+              "name": "Old Town Hall & Lower Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser für trockene Ausstiege.",
+                "hu": "Használjon parkolóházakat a száraz kiszálláshoz.",
+                "ro": "Folosiți parcări etajate pentru debarcare uscată.",
+                "en": "Use parking garages for dry exits."
+              }
+            },
+            {
+              "name": "Riverside Walk",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Wegesrand.",
+                "hu": "Parkoljon közel az út széléhez.",
+                "ro": "Parcați aproape de marginea drumului.",
+                "en": "Park close to the path side."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer.",
+              "Achten Sie auf Aquaplaning in Senken.",
+              "Halten Sie einen Schirm für kurze Wege bereit.",
+              "Das Auto ist ein idealer Rückzugsort bei Starkregen."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlők állapotát.",
+              "Ügyeljen az aquaplaningre a mélyedésekben.",
+              "Tartson esernyőt a rövid távokhoz.",
+              "Az autó ideális menedék heves esőzéskor."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor.",
+              "Atenție la acvaplanare în zonele joase.",
+              "Țineți o umbrelă gata pentru distanțe scurte.",
+              "Mașina este un refugiu ideal la ploi torențiale."
+            ],
+            "en": [
+              "Check the condition of your wipers.",
+              "Watch out for aquaplaning in dips.",
+              "Keep an umbrella ready for short distances.",
+              "The car is an ideal retreat during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour per Auto startet komfortabel an der Sternwarte mit Panoramablick. Mittags steuern wir das Schloss Vsetín an, wo wir uns in der geheizten Ausstellung aufwärmen. Den Nachmittag verbringen wir im historischen Zentrum und besichtigen die Kirche, bevor wir den Tag mit einer kurzen Fahrt zum beleuchteten Flussufer abschließen.",
+            "hu": "A téli autós túra kényelmesen indul a csillagvizsgálónál, panorámás kilátással. Délben a Vsetíni Várat vesszük célba, ahol a fűtött kiállításon melegszünk fel. A délutánt a történelmi központban töltjük, megtekintjük a templomot, majd egy rövid autózással zárjuk a napot a kivilágított folyópartnál.",
+            "ro": "Turul de iarnă cu mașina începe confortabil la observator cu vedere panoramică. La prânz mergem spre Castelul Vsetín, unde ne încălzim în expoziția încălzită. După-amiaza o petrecem în centrul istoric, înainte de a încheia ziua cu o scurtă cursă spre malul râului.",
+            "en": "The winter tour by car starts comfortably at the observatory with a panoramic view. At midday, we head to Vsetín Castle, where we warm up in the heated exhibition. We spend the afternoon in the historic center and visit the church before concluding the day with a short drive to the lit riverside."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Vsetín Old Town",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schnee auf den Zufahrtswegen.",
+                "hu": "Vigyázzon a hóval a bekötőutakon.",
+                "ro": "Atenție la zăpadă pe drumurile de acces.",
+                "en": "Be careful with snow on access roads."
+              }
+            },
+            {
+              "name": "Vsetín Castle",
+              "tip_5lang": {
+                "de": "Parkplätze könnten vereist sein.",
+                "hu": "A parkolóhelyek jegesek lehetnek.",
+                "ro": "Locurile de parcare pot fi înghețate.",
+                "en": "Parking spots might be icy."
+              }
+            },
+            {
+              "name": "Cluster 2: Historic Center (on foot)",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen.",
+                "hu": "Ne járassa feleslegesen a motort.",
+                "ro": "Nu lăsați motorul pornit inutil.",
+                "en": "Do not leave the engine running unnecessarily."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz.",
+                "hu": "Rövid gyalogút a parkolótól.",
+                "ro": "Scurt drum pe jos de la parcare.",
+                "en": "Short walk from the parking area."
+              }
+            },
+            {
+              "name": "Old Town Hall & Lower Square",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze sind oft schnell geräumt.",
+                "hu": "A központi parkolókat gyakran hamar letakarítják.",
+                "ro": "Parcările centrale sunt adesea curățate rapid.",
+                "en": "Central parking spots are often cleared quickly."
+              }
+            },
+            {
+              "name": "Riverside Walk",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Auto nach dem Walk.",
+                "hu": "Élvezze a meleget az autóban a séta után.",
+                "ro": "Bucurați-vă de căldura din mașină după plimbare.",
+                "en": "Enjoy the warmth in the car after the walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Führen Sie einen Eiskratzer und Besen mit.",
+              "Prüfen Sie den Frostschutz im Scheibenwischwasser.",
+              "Winterreifen sind in dieser Region Pflicht.",
+              "Achten Sie auf Wildwechsel in Waldnähe."
+            ],
+            "hu": [
+              "Legyen önnél jégkaparó és kefe.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A téli gumi kötelező ebben a régióban.",
+              "Ügyeljen a vadakra az erdő közeli szakaszokon."
+            ],
+            "ro": [
+              "Aveți la voi o racletă și o perie.",
+              "Verificați antigelul în lichidul de parbriz.",
+              "Anvelopele de iarnă sunt obligatorii în regiune.",
+              "Atenție la animale sălbatice lângă pădure."
+            ],
+            "en": [
+              "Carry an ice scraper and a brush.",
+              "Check the antifreeze in the wiper fluid.",
+              "Winter tires are mandatory in this region.",
+              "Watch out for wildlife near forested areas."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2018,188 @@
           "Be aware that buses in smaller towns may run less frequently in the evening and on weekends.",
           "Signal the driver when you want to get off at a stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erkunden wir Vsetín auch bei Regen flexibel. Morgens starten wir im Zentrum und nutzen die Wartehallen. Mittags verbringen wir viel Zeit im Schloss Vsetín, das gut erreichbar ist. Nach dem Mittagessen besuchen wir die historischen Gebäude und das Denkmal, wobei wir stets kurze Wege zu den Bushaltestellen wählen.",
+            "hu": "Busszal esőben is rugalmasan fedezhetjük fel Vsetínt. Reggel a központban kezdünk, kihasználva a várótermeket. Délben sok időt töltünk a jól megközelíthető Vsetíni Várban. Ebéd után a történelmi épületeket és az emlékművet látogatjuk meg, ügyelve a buszmegállók közelségére.",
+            "ro": "Cu autobuzul explorăm Vsetín flexibil chiar și pe ploaie. Dimineața începem în centru și folosim sălile de așteptare. La prânz petrecem mult timp la Castelul Vsetín, care este ușor accesibil. După prânz vizităm clădirile istorice și monumentul.",
+            "en": "By bus, we explore Vsetín flexibly even in the rain. In the morning, we start in the center and use the waiting halls. At midday, we spend plenty of time at the easily accessible Vsetín Castle. After lunch, we visit historical buildings and the monument, always choosing short paths to bus stops."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Center (on foot)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bahnhof als trockenen Startpunkt.",
+                "hu": "Használja az állomást száraz indulópontként.",
+                "ro": "Folosiți gara ca punct de plecare uscat.",
+                "en": "Use the train station as a dry starting point."
+              }
+            },
+            {
+              "name": "Old Town Hall & Upper Square",
+              "tip_5lang": {
+                "de": "Die nächste Haltestelle ist nur 2 Minuten entfernt.",
+                "hu": "A legközelebbi megálló csak 2 percre van.",
+                "ro": "Cea mai apropiată stație este la doar 2 minute.",
+                "en": "The nearest stop is only 2 minutes away."
+              }
+            },
+            {
+              "name": "Cluster 2: Castle Area",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor dem Schloss.",
+                "hu": "A busz szinte közvetlenül a vár előtt áll meg.",
+                "ro": "Autobuzul oprește aproape direct în fața castelului.",
+                "en": "The bus stops almost directly in front of the castle."
+              }
+            },
+            {
+              "name": "Lunch near the Castle",
+              "tip_5lang": {
+                "de": "Regenschirm für den kurzen Weg zum Restaurant.",
+                "hu": "Esernyő az étteremig tartó rövid útra.",
+                "ro": "Umbrelă pentru drumul scurt până la restaurant.",
+                "en": "Umbrella for the short walk to the restaurant."
+              }
+            },
+            {
+              "name": "Cluster 3: Monument & Church",
+              "tip_5lang": {
+                "de": "Hinterstellen Sie sich bei Schauern an der Haltestelle.",
+                "hu": "Húzódjon be a megállóba, ha elered az eső.",
+                "ro": "Adăpostiți-vă în stație dacă începe ploaia.",
+                "en": "Take cover in the stop during showers."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten online.",
+                "hu": "Ellenőrizze az indulási időket online.",
+                "ro": "Verificați orele de plecare online.",
+                "en": "Check departure times online."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeit-Abfahrten.",
+              "Busbahnhöfe bieten meist guten Regenschutz.",
+              "Haben Sie Kleingeld oder eine Karte bereit.",
+              "Warten Sie in Cafés, bis der nächste Bus kommt."
+            ],
+            "hu": [
+              "Használja az alkalmazást a valós idejű indulásokhoz.",
+              "A buszpályaudvarok jó esővédelmet nyújtanak.",
+              "Legyen önnél aprópénz vagy kártya.",
+              "Várjon kávézókban a következő busz érkezéséig."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru plecări în timp real.",
+              "Stațiile de autobuz oferă protecție bună la ploaie.",
+              "Aveți mărunțiș sau un card pregătit.",
+              "Așteptați în cafenele până vine următorul autobuz."
+            ],
+            "en": [
+              "Use the app for real-time departures.",
+              "Bus stations usually offer good rain protection.",
+              "Have small change or a card ready.",
+              "Wait in local cafes until the next bus arrives."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist der Bus das wärmste Fortbewegungsmittel. Wir starten im Stadtzentrum und fahren zum Schloss Vsetín, um die Kälte draußen zu lassen. Nach dem Besuch wärmen wir uns bei einem Mittagessen auf und besichtigen nachmittags die historischen Kirchen. Die Tour endet gemütlich im Bus zurück zum Ausgangspunkt, während draußen der Schnee fällt.",
+            "hu": "Télen a busz a legmelegebb közlekedési eszköz. A városközpontból indulunk és a Vsetíni Várhoz utazunk, kint hagyva a hideget. A látogatás után egy ebéddel melegszünk fel, délután pedig a történelmi templomokat keressük fel. A túra kényelmesen, a buszon ülve ér véget, miközben kint esik a hó.",
+            "ro": "Iarna, autobuzul este cel mai călduros mijloc de transport. Începem în centrul orașului și mergem la Castelul Vsetín pentru a lăsa frigul afară. După vizită ne încălzim la prânz și vizităm bisericile istorice. Turul se încheie confortabil în autobuz, în timp ce afară ninge.",
+            "en": "In winter, the bus is the warmest way to get around. We start in the city center and ride to Vsetín Castle to leave the cold outside. After the visit, we warm up with lunch and visit the historic churches in the afternoon. The tour ends comfortably on the bus back to the start, while snow falls outside."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: City Center (on foot)",
+              "tip_5lang": {
+                "de": "Beheizte Wartebereiche im Bahnhof nutzen.",
+                "hu": "Használja a fűtött várótermet az állomáson.",
+                "ro": "Folosiți zonele de așteptare încălzite din gară.",
+                "en": "Use heated waiting areas in the station."
+              }
+            },
+            {
+              "name": "Old Town Hall & Upper Square",
+              "tip_5lang": {
+                "de": "Kurze Wege minimieren die Kältebelastung.",
+                "hu": "A rövid távok csökkentik a hidegérzetet.",
+                "ro": "Distanțele scurte minimizează expunerea la frig.",
+                "en": "Short distances minimize cold exposure."
+              }
+            },
+            {
+              "name": "Cluster 2: Castle Area",
+              "tip_5lang": {
+                "de": "Der Bus bringt Sie fast bis vor die Schlosstür.",
+                "hu": "A busz szinte a vár kapujáig viszi.",
+                "ro": "Autobuzul vă duce aproape până la poarta castelului.",
+                "en": "The bus takes you almost to the castle door."
+              }
+            },
+            {
+              "name": "Lunch near the Castle",
+              "tip_5lang": {
+                "de": "Suchen Sie Plätze fern von zugigen Türen.",
+                "hu": "Keressen helyet távol a huzatos ajtóktól.",
+                "ro": "Căutați locuri departe de ușile cu curent.",
+                "en": "Find seats away from drafty doors."
+              }
+            },
+            {
+              "name": "Cluster 3: Monument & Church",
+              "tip_5lang": {
+                "de": "Fahrpläne können bei Schnee leicht abweichen.",
+                "hu": "A menetrend hóban kissé eltérhet.",
+                "ro": "Orarele pot varia ușor în caz de zăpadă.",
+                "en": "Schedules may vary slightly in snow."
+              }
+            },
+            {
+              "name": "Church of the Assumption",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Fahrt zum Abschluss.",
+                "hu": "Élvezze a meleg utazást a végén.",
+                "ro": "Bucurați-vă de drumul călduros la final.",
+                "en": "Enjoy the warm ride at the end."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Pufferzeiten bei Schneefall ein.",
+              "Busse sind im Winter meist gut beheizt.",
+              "Vorsicht beim Ein- und Aussteigen auf Eis.",
+              "Tragen Sie Mütze und Schal für die Wartezeit."
+            ],
+            "hu": [
+              "Havazáskor tervezzen be ráhagyást.",
+              "A buszok télen általában jól fűtöttek.",
+              "Vigyázzon a jeges lépcsőkre le- és felszálláskor.",
+              "Viseljen sapkát és sálat a várakozáshoz."
+            ],
+            "ro": [
+              "Planificați timp suplimentar în caz de ninsoare.",
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Atenție la urcare și coborâre pe gheață.",
+              "Purtați căciulă și fular pentru timpul de așteptare."
+            ],
+            "en": [
+              "Plan for buffer time during snowfall.",
+              "Buses are usually well heated in winter.",
+              "Be careful when getting on and off on ice.",
+              "Wear a hat and scarf for the waiting time."
+            ]
+          }
+        }
       }
     }
   }

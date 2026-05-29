@@ -402,6 +402,224 @@
           "The pavements can be narrow, so be mindful of traffic.",
           "Start early to avoid the midday heat and crowds."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Balluta-Kirche Schutz vor dem Regen, während Sie die neugotische Fassade bewundern. Mittags flüchten Sie in die überdachten Arkaden von Spinola Bay. Der Nachmittag gehört dem Portomaso Complex, wo man trocken den Blick auf den Yachthafen genießt. Abends bieten die Kinos und Malls in Paceville den perfekten Rückzugsort vor den Schauern der Mittelmeerküste.",
+            "hu": "Reggel a Balluta-templom neogótikus boltívei alatt keressünk menedéket az eső elől. Délben a Spinola-öböl fedett teraszai mentén haladjunk. Délután a Portomaso torony környékének modern épületei nyújtanak száraz kilátópontokat. Este Paceville mozijaiban vagy fedett szórakozóhelyein várhatjuk meg a tengerparti záporok végét, élvezve a városi fények tükröződését a vizes aszfalton.",
+            "ro": "Dimineața, arcadele bisericii din Balluta oferă adăpost împotriva ploii în timp ce admirați golful. La prânz, alegeți terasele acoperite din Spinola Bay. După-amiaza este ideală pentru a explora zonele interioare de lângă Portomaso Tower. Seara, centrul comercial și cinematografele din Paceville sunt refugiul perfect pentru a încheia ziua uscați, ascultând sunetul mării în depărtare.",
+            "en": "Morning rain finds you sheltered under the neo-gothic arches of Balluta Church. By noon, navigate the covered walkways of Spinola Bay between coffee stops. The afternoon is best spent inside the Portomaso complex, watching the yachts through the glass. Evening offers a dry retreat in the entertainment hubs of Paceville, where the rainy streets reflect the neon lights of St. Julian's."
+          },
+          "stops": [
+            {
+              "name": "Balluta Bay",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Cafés mit Markisen für einen trockenen Blick auf das Meer.",
+                "hu": "Használja a ponyvás kávézókat a száraz tengerparti kilátásért.",
+                "ro": "Folosiți cafenelele cu copertine pentru o vedere uscată la mare.",
+                "en": "Use the cafes with awnings for a dry view of the sea front."
+              }
+            },
+            {
+              "name": "Balluta Carmelite Church",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen heftigen Schauer im Inneren abzuwarten.",
+                "hu": "Ideális hely egy heves zápor kivárására a belső térben.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse în interior.",
+                "en": "An ideal place to wait out a heavy downpour inside."
+              }
+            },
+            {
+              "name": "Spinola Bay",
+              "tip_5lang": {
+                "de": "Die Fischerboote wirken bei grauem Himmel besonders melancholisch und fotogen.",
+                "hu": "A halászcsónakok szürke égbolt alatt különösen fotogének.",
+                "ro": "Bărcile de pescuit sunt deosebit de fotogenice sub cerul gri.",
+                "en": "The fishing boats look particularly photogenic under grey skies."
+              }
+            },
+            {
+              "name": "LOVE Monument",
+              "tip_5lang": {
+                "de": "Vorsicht, der polierte Boden rund um das Denkmal ist bei Nässe extrem rutschig.",
+                "hu": "Vigyázat, az emlékmű körüli polírozott padló nedvesen nagyon csúszik.",
+                "ro": "Atenție, podeaua lustruită din jurul monumentului este foarte alunecoasă.",
+                "en": "Caution, the polished floor around the monument is very slippery when wet."
+              }
+            },
+            {
+              "name": "Paceville",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Bay Street Shopping Centre für regenfreies Bummeln.",
+                "hu": "Látogasson el a Bay Street bevásárlóközpontba a száraz sétáért.",
+                "ro": "Vizitați centrul comercial Bay Street pentru o plimbare fără ploaie.",
+                "en": "Visit the Bay Street Shopping Centre for rain-free wandering."
+              }
+            },
+            {
+              "name": "Portomaso Tower",
+              "tip_5lang": {
+                "de": "Der Eingangsbereich bietet guten Windschutz vor der Meeresbrise.",
+                "hu": "A bejárati rész jó szélvédelmet nyújt a tengeri fuvallatok ellen.",
+                "ro": "Zona de intrare oferă o protecție bună împotriva brizei marine.",
+                "en": "The entrance area provides good wind protection from the sea breeze."
+              }
+            },
+            {
+              "name": "Dragonara Palace",
+              "tip_5lang": {
+                "de": "Das Casino-Innere ist eine prunkvolle und trockene Alternative zum Garten.",
+                "hu": "A kaszinó belseje pompás és száraz alternatíva a kert helyett.",
+                "ro": "Interiorul cazinoului este o alternativă splendidă și uscată la grădină.",
+                "en": "The casino interior is a grand and dry alternative to the garden."
+              }
+            },
+            {
+              "name": "St. George's Bay",
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wellen von einem der umliegenden Hotel-Lounges aus.",
+                "hu": "Figyelje a hullámokat a környező szállodák egyik társalgójából.",
+                "ro": "Observați valurile dintr-unul din lounge-urile hotelurilor din jur.",
+                "en": "Watch the waves from one of the surrounding hotel lounges."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Grip, da die Kalksteinpflaster bei Nässe spiegelglatt werden.",
+              "Die Busse sind bei Regen oft überfüllt; planen Sie Zeitpuffer ein.",
+              "Malta-Regenschirme sind oft zwecklos gegen den starken Küstenwind; eine Regenjacke ist besser.",
+              "Nutzen Sie die Arkaden und Hotel-Lobbys als strategische Etappenziele."
+            ],
+            "hu": [
+              "Viseljen jó tapadású cipőt, mert a mészkő burkolatok vizesen rendkívül csúszósak.",
+              "Esőben a buszok gyakran zsúfoltak; számoljon extra várakozási idővel.",
+              "A máltai szélben az esernyő gyakran használhatatlan; a vízhatlan kabát praktikusabb.",
+              "Használja stratégiai pihenőként az árkádokat és a szállodák auláit."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență bună, deoarece pavajul de calcar devine foarte alunecos.",
+              "Autobuzele sunt adesea aglomerate când plouă; planificați timp suplimentar.",
+              "Umbrelele sunt adesea inutile împotriva vântului puternic de coastă; o pelerină e mai bună.",
+              "Folosiți arcadele și lobby-urile hotelurilor ca puncte strategice de odihnă."
+            ],
+            "en": [
+              "Wear shoes with good grip, as limestone pavements become mirror-slick when wet.",
+              "Buses are often overcrowded during rain; plan for extra transit time.",
+              "Umbrellas are often useless against strong coastal winds; a rain jacket is better.",
+              "Use arcades and hotel lobbies as strategic stop-off points to stay dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vormittags genießen Sie die milde Wintersonne an der Balluta Bay ohne die Sommerhitze. Mittags lädt die Spinola Bay zu einem gemütlichen Lunch im Freien mit Heizstrahlern ein. Am Nachmittag leuchtet der goldene Kalkstein der Portomaso-Bauten besonders warm im tiefstehenden Licht. Da die Sonne gegen 17:00 Uhr untergeht, endet der Tag früh mit einem stimmungsvollen Blick auf die beleuchtete Küste.",
+            "hu": "Délelőtt élvezze a gyengéd téli napsütést a Balluta-öbölben, a nyári hőség nélkül. Délben a Spinola-öböl éttermei fűtött teraszokkal várják egy kellemes ebédre. Délután a lemenő nap fénye aranyba vonja a Portomaso torony környékének mészkő falait. Mivel 17:00 körül sötétedik, a napot korán zárjuk a kivilágított part menti sétány látványával.",
+            "ro": "Dimineața, bucurați-vă de soarele blând de iarnă în Balluta Bay, fără canicula verii. La prânz, restaurantele din Spinola Bay oferă terase încălzite pentru un prânz relaxat. După-amiaza, lumina caldă a soarelui de iarnă colorează superb fațadele din jurul Portomaso. Deoarece soarele apune în jurul orei 17:00, încheiați ziua devreme cu o plimbare pe faleza luminată.",
+            "en": "Morning brings a crisp breeze and gentle sun to Balluta Bay, perfect for a long walk. By noon, Spinola's cafes offer cozy outdoor seating with heaters for a seaside lunch. The low winter sun casts long shadows across Portomaso Tower in the afternoon. With sunset arriving early at 17:00, the day concludes with the sparkling lights of St. Julian's reflecting in the cool sea."
+          },
+          "stops": [
+            {
+              "name": "Balluta Bay",
+              "tip_5lang": {
+                "de": "Beste Zeit für Fotos ohne die Touristenmassen des Sommers.",
+                "hu": "A legjobb időszak fotózásra a nyári turistatömeg nélkül.",
+                "ro": "Cel mai bun moment pentru fotografii fără mulțimile de turiști din vară.",
+                "en": "Best time for photos without the summer tourist crowds."
+              }
+            },
+            {
+              "name": "Balluta Carmelite Church",
+              "tip_5lang": {
+                "de": "Das Kirchenschiff bietet eine angenehme Kühle, wenn die Mittagssonne brennt.",
+                "hu": "A templomhajó kellemes klímát nyújt, ha a déli nap túl erősen tűzne.",
+                "ro": "Interiorul bisericii oferă o răcoare plăcută dacă soarele de prânz e puternic.",
+                "en": "The church interior offers a pleasant atmosphere if the noon sun is strong."
+              }
+            },
+            {
+              "name": "Spinola Bay",
+              "tip_5lang": {
+                "de": "Suchen Sie Plätze mit Windschutz, um die Wintersonne zu genießen.",
+                "hu": "Keressen szélvédett helyeket a téli napsütés élvezetéhez.",
+                "ro": "Căutați locuri ferite de vânt pentru a vă bucura de soarele de iarnă.",
+                "en": "Look for wind-sheltered spots to enjoy the winter sunshine."
+              }
+            },
+            {
+              "name": "LOVE Monument",
+              "tip_5lang": {
+                "de": "Im Winter ist der Platz perfekt für ein Picknick ohne Hitze.",
+                "hu": "Télen a tér tökéletes egy piknikhez a fojtogató hőség nélkül.",
+                "ro": "Iarna, piața este perfectă pentru un picnic fără căldura sufocantă.",
+                "en": "In winter, the square is perfect for a picnic without the sweltering heat."
+              }
+            },
+            {
+              "name": "Paceville",
+              "tip_5lang": {
+                "de": "Die Bars sind im Winter weniger überfüllt und deutlich entspannter.",
+                "hu": "A bárok télen kevésbé zsúfoltak és sokkal nyugodtabbak.",
+                "ro": "Barurile sunt mai puțin aglomerate iarna și mult mai relaxate.",
+                "en": "Bars are less crowded in winter and much more relaxed."
+              }
+            },
+            {
+              "name": "Portomaso Tower",
+              "tip_5lang": {
+                "de": "Das Licht am späten Nachmittag lässt den Turm golden schimmern.",
+                "hu": "A késő délutáni fények arany színben tüntetik fel a tornyot.",
+                "ro": "Lumina de după-amiază târzie face turnul să strălucească auriu.",
+                "en": "Late afternoon light makes the tower shimmer in gold tones."
+              }
+            },
+            {
+              "name": "Dragonara Palace",
+              "tip_5lang": {
+                "de": "Genießen Sie den Meerblick von der Halbinsel bei kühler Meeresbrise.",
+                "hu": "Élvezze a kilátást a félszigetről a hűvös tengeri szellőben.",
+                "ro": "Bucurați-vă de vederea la mare de pe peninsulă în briza răcoroasă.",
+                "en": "Enjoy the sea view from the peninsula in the cool sea breeze."
+              }
+            },
+            {
+              "name": "St. George's Bay",
+              "tip_5lang": {
+                "de": "Ideal für einen Strandspaziergang; das Wasser ist jedoch zu kalt zum Baden.",
+                "hu": "Ideális part menti sétához; a víz azonban túl hideg a fürdéshez.",
+                "ro": "Ideal pentru o plimbare pe plajă; apa este însă prea rece pentru înot.",
+                "en": "Ideal for a beach walk; however, the water is too cold for swimming."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip; im Schatten ist es kühl, in der Sonne warm.",
+              "Die Sonne geht früh unter (ca. 17:00 Uhr); starten Sie Ihren Tag zeitig.",
+              "Die UV-Strahlung ist auch im Winter stark; Sonnenschutz nicht vergessen.",
+              "Viele Cafés bieten Decken für die Außenbereiche an."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen; árnyékban hűvös van, a napon viszont meleg.",
+              "A nap korán nyugszik (kb. 17:00); kezdje korán a napot.",
+              "Az UV-sugárzás télen is erős; ne felejtse el a naptejet.",
+              "Sok kávézó kínál plédet a külső teraszokon ülőknek."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi; e răcoare la umbră, dar cald în soare.",
+              "Soarele apune devreme (aprox. 17:00); începeți ziua devreme.",
+              "Radiațiile UV sunt puternice și iarna; nu uitați protecția solară.",
+              "Multe cafenele oferă pături pentru clienții de pe terase."
+            ],
+            "en": [
+              "Dress in layers; it's cool in the shade but warm in the direct sun.",
+              "Sunset is early (around 17:00); start your itinerary early to maximize light.",
+              "UV radiation is strong even in winter; don't forget sun protection.",
+              "Many cafes provide blankets for their outdoor seating areas."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -798,6 +1016,224 @@
           "A helmet is recommended, especially on busier roads.",
           "Bring plenty of water to stay hydrated."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Tage erfordern auf dem Rad erhöhte Vorsicht bei der Balluta Bay. Mittags ist der flache Uferweg nach Spinola am sichersten, da er weniger Autoverkehr hat. Am Nachmittag bietet der Portomaso-Bereich befestigte Wege, die weniger Pfützen bilden. Abends glänzen die Lichter von Paceville im Regen, während Sie Ihr Rad an einem der beleuchteten Ständer sicher parken.",
+            "hu": "Esős napokon a kerékpározás fokozott figyelmet igényel a Balluta-öböl környékén. Délben a Spinola felé vezető sík parti út a legbiztonságosabb a kisebb forgalom miatt. Délután a Portomaso negyed szilárd burkolatú útjain kevesebb a tócsa. Este Paceville fényei csillognak az esőben, miközben biztonságos tárolóban hagyhatjuk a biciklit a vacsora idejére.",
+            "ro": "Zilele ploioase necesită prudență sporită pe bicicletă în zona Balluta. La prânz, drumul de coastă spre Spinola este cel mai sigur datorită traficului redus. După-amiaza, zona Portomaso oferă căi pavate care colectează mai puține bălți. Seara, luminile din Paceville strălucesc în ploaie în timp ce parcați bicicleta într-un loc sigur.",
+            "en": "Rainy days require extra caution on two wheels around Balluta Bay. By noon, the flat coastal path to Spinola is your safest bet away from heavy spray. The afternoon reveals the modern pavements of Portomaso, which drain faster than old roads. Evening ride through Paceville is atmospheric, provided you watch for the slick painted road markings."
+          },
+          "stops": [
+            {
+              "name": "Balluta Bay",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Markierungen auf dem Radweg.",
+                "hu": "Vigyázzon a csúszós útburkolati jelekre a bicikliúton.",
+                "ro": "Atenție la marcajele alunecoase de pe pista de biciclete.",
+                "en": "Watch out for slippery road markings on the cycle path."
+              }
+            },
+            {
+              "name": "Balluta Carmelite Church",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad unter den Bäumen für etwas Regenschutz.",
+                "hu": "Parkolja a biciklit a fák alá némi esővédelemért.",
+                "ro": "Parcați bicicleta sub copaci pentru puțină protecție contra ploii.",
+                "en": "Park your bike under the trees for some rain cover."
+              }
+            },
+            {
+              "name": "Spinola Bay",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam; die Promenade wird bei Nässe sehr glatt.",
+                "hu": "Hajtson lassan; a sétány nagyon csúszóssá válik nedvesen.",
+                "ro": "Conduceți încet; faleza devine foarte alunecoasă când e udă.",
+                "en": "Ride slowly; the promenade becomes very slick when wet."
+              }
+            },
+            {
+              "name": "LOVE Monument",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto, aber meiden Sie die glatten Fliesen.",
+                "hu": "Rövid fotómegálló, de kerülje a sima csempéket.",
+                "ro": "O oprire scurtă pentru poze, dar evitați plăcile netede.",
+                "en": "Short photo stop, but avoid the smooth tiled areas."
+              }
+            },
+            {
+              "name": "Paceville",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer am Einkaufszentrum.",
+                "hu": "Használja a bevásárlóközpont fedett biciklitárolóját.",
+                "ro": "Folosiți parcarea acoperită pentru biciclete de la mall.",
+                "en": "Use the covered bike racks at the shopping mall."
+              }
+            },
+            {
+              "name": "Portomaso Tower",
+              "tip_5lang": {
+                "de": "Die asphaltierten Flächen hier bieten besseren Grip als Steinpflaster.",
+                "hu": "Az aszfaltozott felületek itt jobb tapadást adnak, mint a kő.",
+                "ro": "Suprafețele asfaltate de aici oferă aderență mai bună decât piatra.",
+                "en": "Asphalt surfaces here offer better grip than stone paving."
+              }
+            },
+            {
+              "name": "Dragonara Palace",
+              "tip_5lang": {
+                "de": "Vorsicht vor starkem Seitenwind auf dem Weg zur Landspitze.",
+                "hu": "Vigyázzon az erős oldalszélre a félsziget felé vezető úton.",
+                "ro": "Atenție la vântul lateral puternic pe drumul spre peninsulă.",
+                "en": "Watch out for strong crosswinds on the road to the point."
+              }
+            },
+            {
+              "name": "St. George's Bay",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Fahren direkt auf dem Sandabschnitt.",
+                "hu": "Kerülje a közvetlen kerékpározást a homokos részen.",
+                "ro": "Evitați să pedalați direct pe secțiunea cu nisip.",
+                "en": "Avoid cycling directly on the sandy section."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Maltas Straßen werden bei den ersten Regentropfen extrem rutschig (Ölfilm).",
+              "Verwenden Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Achten Sie auf tiefere Pfützen, die Schlaglöcher verdecken können.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt nach St. Julian's."
+            ],
+            "hu": [
+              "Málta útjai az első esőcseppeknél rendkívül csúszóssá válnak az olajréteg miatt.",
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "Ügyeljen a mélyebb tócsákra, amelyek kátyúkat rejthetnek.",
+              "Ellenőrizze a fékeket, mielőtt elindulna St. Julian's lejtőin."
+            ],
+            "ro": [
+              "Drumurile din Malta devin extrem de alunecoase la primii stropi de ploaie.",
+              "Folosiți apărători de noroi pentru a vă proteja de stropii de apă.",
+              "Fiți atenți la bălțile adânci care pot ascunde gropi în asfalt.",
+              "Verificați frânele înainte de a coborî spre St. Julian's."
+            ],
+            "en": [
+              "Malta's roads become extremely slippery at the first sign of rain due to oil residue.",
+              "Use mudguards to protect yourself from road spray.",
+              "Watch out for deep puddles that might hide potholes.",
+              "Check your brakes before starting any downhill stretch in St. Julian's."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das milde Winterklima macht das Radfahren an der Balluta Bay sehr angenehm. Mittags ist die Meeresbrise in Spinola erfrischend, aber nicht zu kalt. Am Nachmittag leuchtet die Küstenstraße im klaren Winterlicht, ideal für Panoramafotos vom Rad aus. Vor Sonnenuntergang erreichen Sie St. George's Bay, wenn die Luft kühler wird und die Stadtlichter langsam erwachen.",
+            "hu": "A tiszta téli időjárás nagyon kellemessé teszi a biciklizést a Balluta-öbölben. Délben a Spinola-öbölnél a tengeri szellő frissítő, de nem túl hideg. Délután a parti út ragyog a tiszta téli fényben, ideális panorámaképek készítéséhez. Naplemente előtt érünk a St. George's-öbölbe, amikor a levegő lehűl és a város fényei felgyúlnak.",
+            "ro": "Clima blândă de iarnă face ciclismul în Balluta Bay foarte plăcut. La prânz, briza mării din Spinola este revigorantă, dar nu prea rece. După-amiaza, drumul de coastă strălucește în lumina clară de iarnă, ideal pentru fotografii. Înainte de apus ajungeți în St. George's Bay, când aerul devine mai rece și luminile orașului se aprind.",
+            "en": "Winter cycling in St. Julian's is a treat with mild temperatures and less sweat. Noon by Spinola Bay offers crisp air and stunning blue water visibility. In the afternoon, the low sun illuminates the promenade perfectly for a scenic ride. As evening approaches, the cooling air makes the final stretch to St. George's Bay invigorating."
+          },
+          "stops": [
+            {
+              "name": "Balluta Bay",
+              "tip_5lang": {
+                "de": "Weniger Fußgänger auf der Promenade ermöglichen zügigeres Fahren.",
+                "hu": "A kevesebb gyalogos a sétányon tempósabb haladást tesz lehetővé.",
+                "ro": "Mai puțini pietoni pe faleză permit o deplasare mai rapidă.",
+                "en": "Fewer pedestrians on the promenade allow for a brisker pace."
+              }
+            },
+            {
+              "name": "Balluta Carmelite Church",
+              "tip_5lang": {
+                "de": "Das tiefe Sonnenlicht betont die Details der Architektur.",
+                "hu": "Az alacsony napállás kiemeli az építészeti részleteket.",
+                "ro": "Lumina joasă a soarelui subliniază detaliile arhitecturale.",
+                "en": "The low sunlight emphasizes the architectural details."
+              }
+            },
+            {
+              "name": "Spinola Bay",
+              "tip_5lang": {
+                "de": "Perfekter Stopp für einen heißen Kaffee am Wasser.",
+                "hu": "Tökéletes megálló egy forró kávéra a vízparton.",
+                "ro": "Oprire perfectă pentru o cafea fierbinte lângă apă.",
+                "en": "Perfect stop for a hot coffee by the water."
+              }
+            },
+            {
+              "name": "LOVE Monument",
+              "tip_5lang": {
+                "de": "Keine Warteschlangen für das obligatorische Foto.",
+                "hu": "Nincsenek sorok a kötelező fotó elkészítéséhez.",
+                "ro": "Nu sunt cozi pentru fotografia obligatorie.",
+                "en": "No queues for the mandatory photo opportunity."
+              }
+            },
+            {
+              "name": "Paceville",
+              "tip_5lang": {
+                "de": "Die steilen Gassen sind bei kühlen Temperaturen leichter zu befahren.",
+                "hu": "A meredek utcák hűvösebb időben könnyebben leküzdhetők.",
+                "ro": "Străzile abrupte sunt mai ușor de parcurs la temperaturi scăzute.",
+                "en": "The steep alleys are easier to navigate in cooler temperatures."
+              }
+            },
+            {
+              "name": "Portomaso Tower",
+              "tip_5lang": {
+                "de": "Die gläserne Fassade spiegelt die klare Wintersonne wider.",
+                "hu": "Az üveghomlokzat visszaveri a tiszta téli napsütést.",
+                "ro": "Fațada de sticlă reflectă soarele clar de iarnă.",
+                "en": "The glass facade reflects the clear winter sunshine."
+              }
+            },
+            {
+              "name": "Dragonara Palace",
+              "tip_5lang": {
+                "de": "Achten Sie auf Wellen, die bei Winterstürmen über die Kaimauer schlagen.",
+                "hu": "Ügyeljen a hullámokra, amik téli viharban átcsaphatnak a falon.",
+                "ro": "Atenție la valurile care pot trece peste zid în timpul furtunilor.",
+                "en": "Watch for waves crashing over the wall during winter swells."
+              }
+            },
+            {
+              "name": "St. George's Bay",
+              "tip_5lang": {
+                "de": "Die Cafés hier sind im Winter ideale Rückzugsorte bei Sonnenuntergang.",
+                "hu": "Az itteni kávézók télen ideális menedékek naplementekor.",
+                "ro": "Cafenelele de aici sunt refugii ideale la apus în timpul iernii.",
+                "en": "The cafes here are ideal retreats at sunset in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine winddichte Weste gegen die kühle Meeresbrise.",
+              "Vorder- und Rücklicht sind ab 16:30 Uhr aufgrund der frühen Dämmerung Pflicht.",
+              "Die Promenade ist im Winter weniger belebt, aber achten Sie dennoch auf Jogger.",
+              "Trinken Sie auch bei kühleren Temperaturen ausreichend Wasser."
+            ],
+            "hu": [
+              "Viseljen szélálló mellényt a hűvös tengeri szellő ellen.",
+              "Az első és hátsó lámpa 16:30-tól kötelező a korai sötétedés miatt.",
+              "A sétány télen kevésbé forgalmas, de figyeljen a futókra.",
+              "Hűvösebb időben is igyon elegendő vizet a tekerés közben."
+            ],
+            "ro": [
+              "Purtați o vestă rezistentă la vânt împotriva brizei răcoroase.",
+              "Luminile față și spate sunt obligatorii de la 16:30 din cauza apusului devreme.",
+              "Faleza este mai puțin aglomerată iarna, dar atenție la joggeri.",
+              "Beți suficientă apă chiar și la temperaturi mai scăzute."
+            ],
+            "en": [
+              "Wear a windproof vest against the cool sea breeze.",
+              "Front and rear lights are mandatory from 16:30 due to early twilight.",
+              "The promenade is less busy in winter, but still watch for joggers.",
+              "Keep hydrated even when the temperature feels much cooler."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1178,6 +1614,206 @@
           "A smaller car is advantageous for maneuvering in the town.",
           "Never leave valuables visible in the car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Vormittage verbringen Sie am besten im trockenen Auto auf dem Weg zur Balluta Bay. Mittags bietet die Fahrt entlang der Küste von Spinola dramatische Ausblicke auf die aufgewühlte See. Nachmittags ist das Parkhaus in Paceville der ideale Stützpunkt für Erkundungen im Trockenen. Abends leuchten die nassen Straßen von St. Julian's besonders stimmungsvoll im Scheinwerferlicht.",
+            "hu": "Esős délelőttökön a legkényelmesebb autóval megközelíteni a Balluta-öblöt. Délben a part menti autózás Spinola felé drámai kilátást nyújt a felkorbácsolt tengerre. Délután a Paceville-i parkolóház az ideális bázis a környék száraz felfedezéséhez. Este St. Julian's vizes utcái különleges hangulatot árasztanak a városi fények tükrében.",
+            "ro": "Diminețile ploioase sunt cel mai bine petrecute în mașină pe drumul spre Balluta. La prânz, condusul pe faleză spre Spinola oferă vederi dramatice asupra mării agitate. După-amiaza, parcarea supraetajată din Paceville este baza ideală pentru explorări uscate. Seara, străzile ude din St. Julian's strălucesc sub luminile farurilor.",
+            "en": "Rainy mornings are best managed from the comfort of your car while heading to Balluta. By noon, the drive along the coast to Spinola offers dramatic views of the choppy Mediterranean. The afternoon is best spent using the multi-story car parks in Paceville as a dry base. Evening drives reveal a glowing St. Julian's, with rain-slicked roads reflecting the city lights."
+          },
+          "stops": [
+            {
+              "name": "Parking at Balluta Bay",
+              "tip_5lang": {
+                "de": "Kommen Sie früh, da bei Regen mehr Leute auf das Auto umsteigen.",
+                "hu": "Érkezzen korán, mert esőben többen választják az autót.",
+                "ro": "Veniți devreme, deoarece mai mulți oameni folosesc mașina când plouă.",
+                "en": "Arrive early as more people switch to cars during rain."
+              }
+            },
+            {
+              "name": "Balluta Bay & Church",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Platz direkt aus dem Auto.",
+                "hu": "Élvezze a tér látványát közvetlenül az autóból.",
+                "ro": "Bucurați-vă de vederea spre piață direct din mașină.",
+                "en": "Enjoy the view of the square directly from the car."
+              }
+            },
+            {
+              "name": "Drive to Paceville & Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser, um beim Aussteigen trocken zu bleiben.",
+                "hu": "Használjon parkolóházakat, hogy kiszálláskor száraz maradjon.",
+                "ro": "Folosiți parcările etajate pentru a rămâne uscați la coborâre.",
+                "en": "Use multi-story car parks to stay dry when getting out."
+              }
+            },
+            {
+              "name": "Paceville & Portomaso Tower",
+              "tip_5lang": {
+                "de": "Die Fahrt durch Paceville kann bei Regen etwas stockend sein.",
+                "hu": "A Paceville-en való áthaladás esőben kicsit lassabb lehet.",
+                "ro": "Traficul prin Paceville poate fi puțin lent când plouă.",
+                "en": "Driving through Paceville can be a bit slow during rain."
+              }
+            },
+            {
+              "name": "Dragonara Palace",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Regenabschnitt zu minimieren.",
+                "hu": "Parkoljon közel a bejárathoz az esős táv csökkentése érdekében.",
+                "ro": "Parcați aproape de intrare pentru a minimiza expunerea la ploaie.",
+                "en": "Park close to the entrance to minimize the rainy walk."
+              }
+            },
+            {
+              "name": "Drive to Spinola Bay & Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen an den Straßenrändern.",
+                "hu": "Vigyázzon a mély tócsákra az út szélein.",
+                "ro": "Atenție la bălțile adânci de pe marginile drumului.",
+                "en": "Watch out for deep puddles at the edges of the road."
+              }
+            },
+            {
+              "name": "Spinola Bay & St. George's Bay",
+              "tip_5lang": {
+                "de": "Parken Sie am St. George's Bay Einkaufszentrum für Trockenheit.",
+                "hu": "Parkoljon a St. George's Bay plázában a szárazságért.",
+                "ro": "Parcați la mall-ul din St. George's Bay pentru a rămâne uscați.",
+                "en": "Park at the St. George's Bay mall for a dry exit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Parken in tiefgelegenen Gebieten wegen möglicher Fluten.",
+              "Die Scheiben beschlagen bei der hohen Luftfeuchtigkeit schnell; Klimaanlage nutzen.",
+              "Fußgänger rennen bei Regen oft unvermittelt über die Straße; Vorsicht!",
+              "Planen Sie mehr Zeit für die Parkplatzsuche in den überdachten Garagen ein."
+            ],
+            "hu": [
+              "Kerülje a mélyebben fekvő területeken való parkolást a hirtelen áradások miatt.",
+              "Az ablakok a magas páratartalom miatt gyorsan párásodnak; használja a klímát.",
+              "A gyalogosok esőben gyakran hirtelen szaladnak át az úton; legyen óvatos!",
+              "Számoljon több idővel a parkolóhely keresésére a fedett garázsokban."
+            ],
+            "ro": [
+              "Evitați parcarea în zonele joase din cauza riscului de inundații rapide.",
+              "Geamurile se aburesc repede din cauza umidității; folosiți aerul condiționat.",
+              "Pietonii traversează adesea brusc strada când plouă; fiți vigilenți!",
+              "Planificați mai mult timp pentru găsirea unui loc în parcările etajate."
+            ],
+            "en": [
+              "Avoid parking in low-lying areas due to potential flash flooding.",
+              "Windows fog up quickly with high humidity; use the air conditioning.",
+              "Pedestrians often dash across the road unexpectedly in the rain; be extra careful.",
+              "Allow more time for finding a spot in covered parking garages."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintertage in St. Julian's sind ideal für eine Panoramafahrt an der Balluta Bay. Mittags ist das Parken in Spinola einfacher als im Hochsommer. Nachmittags bietet die Fahrt zum Portomaso Tower tolle Ausblicke auf die klare Küstenlinie. Da es früh dunkel wird, genießen Sie die Fahrt zurück durch das festlich beleuchtete Paceville schon am späten Nachmittag.",
+            "hu": "A téli napok St. Julian's-ben ideálisak egy panorámás autózáshoz a Balluta-öbölnél. Délben Spinolában sokkal könnyebb parkolni, mint a főszezonban. Délután a Portomaso torony felé vezető út tiszta kilátást nyújt a partvonalra. Mivel korán sötétedik, már késő délután élvezhetjük a visszautat a díszesen kivilágított Paceville-en keresztül.",
+            "ro": "Zilele de iarnă în St. Julian's sunt ideale pentru un drum panoramic pe lângă Balluta. La prânz, parcarea în Spinola este mult mai ușoară decât în plină vară. După-amiaza, drumul spre Portomaso oferă vederi superbe asupra coastei clare. Deoarece se întunecă devreme, bucurați-vă de drumul prin Paceville-ul luminat festiv încă de după-amiază.",
+            "en": "Winter days in St. Julian's are perfect for a scenic drive past Balluta Bay. By noon, finding a parking spot in Spinola is much easier than in peak summer. The afternoon drive to Portomaso Tower offers spectacular clarity of the coastline. With early sunsets, your late afternoon drive through Paceville already features the vibrant city lights."
+          },
+          "stops": [
+            {
+              "name": "Parking at Balluta Bay",
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche ist im Winter deutlich entspannter.",
+                "hu": "A parkolóhely-keresés télen sokkal nyugodtabb.",
+                "ro": "Căutarea unui loc de parcare este mult mai relaxată iarna.",
+                "en": "Finding a parking spot is much more relaxed in winter."
+              }
+            },
+            {
+              "name": "Balluta Bay & Church",
+              "tip_5lang": {
+                "de": "Das milde Licht sorgt für tolle Fotos von der Kirche.",
+                "hu": "A lágy fények kiválóak a templom fotózásához.",
+                "ro": "Lumina blândă este excelentă pentru fotografierea bisericii.",
+                "en": "The soft light is great for photographing the church."
+              }
+            },
+            {
+              "name": "Drive to Paceville & Park",
+              "tip_5lang": {
+                "de": "Die Straßen in Paceville sind weniger verstopft.",
+                "hu": "Paceville utcái kevésbé zsúfoltak télen.",
+                "ro": "Străzile din Paceville sunt mai puțin blocate iarna.",
+                "en": "The streets in Paceville are less congested in winter."
+              }
+            },
+            {
+              "name": "Paceville & Portomaso Tower",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Turm für schnellen Zugang.",
+                "hu": "Parkoljon közvetlenül a toronynál a gyors bejutáshoz.",
+                "ro": "Parcați direct la turn pentru acces rapid.",
+                "en": "Park directly at the tower for quick access."
+              }
+            },
+            {
+              "name": "Dragonara Palace",
+              "tip_5lang": {
+                "de": "Die Parkplätze am Casino sind im Winter meist frei.",
+                "hu": "A kaszinó parkolói télen rendszerint üresek.",
+                "ro": "Parcările de la cazinou sunt de obicei libere iarna.",
+                "en": "The casino car parks are usually empty in winter."
+              }
+            },
+            {
+              "name": "Drive to Spinola Bay & Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze an der Küstenstraße.",
+                "hu": "Használja a parti út menti parkolóhelyeket.",
+                "ro": "Folosiți locurile de parcare de pe drumul de coastă.",
+                "en": "Use the parking spots along the coast road."
+              }
+            },
+            {
+              "name": "Spinola Bay & St. George's Bay",
+              "tip_5lang": {
+                "de": "Ideal für einen kurzen Stopp vor der frühen Dämmerung.",
+                "hu": "Ideális egy rövid megállóhoz a korai szürkület előtt.",
+                "ro": "Ideal pentru o scurtă oprire înainte de amurgul timpuriu.",
+                "en": "Ideal for a short stop before the early twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Parkgebühren sind im Winter oft niedriger oder flexibler.",
+              "Vermeiden Sie Fahrten während der Stoßzeiten der Pendler (16:00-18:00).",
+              "Nutzen Sie die gute Fernsicht für Fahrten zu Aussichtspunkten.",
+              "Die Innenraumheizung macht die Pausen zwischen den Stopps sehr angenehm."
+            ],
+            "hu": [
+              "A parkolási díjak télen gyakran alacsonyabbak vagy rugalmasabbak.",
+              "Kerülje az autózást a délutáni csúcsforgalomban (16:00-18:00).",
+              "Használja ki a jó látási viszonyokat a kilátópontok felé autózva.",
+              "Az autó fűtése nagyon kellemessé teszi a megállók közötti pihenőket."
+            ],
+            "ro": [
+              "Taxele de parcare sunt adesea mai mici sau mai flexibile iarna.",
+              "Evitați condusul în timpul orelor de vârf (16:00-18:00).",
+              "Profitați de vizibilitatea bună pentru drumuri spre puncte panoramice.",
+              "Încălzirea interioară face pauzele dintre opriri foarte plăcute."
+            ],
+            "en": [
+              "Parking fees are often lower or more flexible during the winter months.",
+              "Avoid driving during the local commuter rush hours (16:00-18:00).",
+              "Take advantage of the excellent visibility for drives to scenic overlooks.",
+              "The car's interior heating makes transitions between stops very comfortable."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1556,6 +2192,206 @@
           "Always validate your ticket when you board.",
           "Keep an eye on your stop, as announcements aren't always clear."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "An regnerischen Vormittagen ist der Bus zur Balluta Bay die trockenste Wahl. Mittags können Sie an der Spinola-Haltestelle in eines der nahen Cafés flüchten. Der Nachmittag lässt sich gut im Portomaso-Areal verbringen, da die Wege zwischen den Stopps kurz sind. Abends bringen Sie die häufig verkehrenden Busse schnell von Paceville zurück, ohne lange im Regen warten zu müssen.",
+            "hu": "Esős délelőttökön a Balluta-öbölbe tartó busz a legszárazabb választás. Délben a Spinola megállónál gyorsan bemenekülhetünk a közeli kávézókba. A délutánt érdemes a Portomaso környékén tölteni, mert a megállók közötti gyaloglás itt minimális. Este a Paceville-ből induló sűrű buszjáratok gyorsan hazavisznek, elkerülve a hosszú várakozást az esőben.",
+            "ro": "În diminețile ploioase, autobuzul spre Balluta este cea mai uscată alegere. La prânz, puteți fugi repede într-o cafenea de lângă stația Spinola. După-amiaza este ideală în zona Portomaso, unde distanțele între obiective sunt mici. Seara, autobuzele frecvente din Paceville vă duc repede înapoi, fără a aștepta mult în ploaie.",
+            "en": "On rainy mornings, taking the bus to Balluta Bay keeps you dry for the longest time. By noon, use the Spinola bus stop as a quick dash point to nearby sheltered cafes. Spend the afternoon around Portomaso, where transit connections are frequent and walking distances short. Evening buses from Paceville are reliable, ensuring you don't spend too long at the stop."
+          },
+          "stops": [
+            {
+              "name": "Bus to Balluta",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Dach der Haltestelle auf den Bus.",
+                "hu": "Várja a buszt a megálló fedett része alatt.",
+                "ro": "Așteptați autobuzul sub acoperișul stației.",
+                "en": "Wait for the bus under the shelter of the stop."
+              }
+            },
+            {
+              "name": "Balluta Bay & Church",
+              "tip_5lang": {
+                "de": "Die Kirche ist nur wenige Schritte von der Haltestelle entfernt.",
+                "hu": "A templom csak pár lépésre van a buszmegállótól.",
+                "ro": "Biserica este la doar câțiva pași de stația de autobuz.",
+                "en": "The church is just a few steps away from the bus stop."
+              }
+            },
+            {
+              "name": "Bus to Spinola",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Echtzeit-App, um die Wartezeit im Regen zu minimieren.",
+                "hu": "Használja az appot a várakozási idő minimalizálásához.",
+                "ro": "Folosiți aplicația în timp real pentru a minimiza timpul în ploaie.",
+                "en": "Use the real-time app to minimize waiting time in the rain."
+              }
+            },
+            {
+              "name": "Spinola Bay & LOVE Monument",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den Arkaden direkt hinter der Haltestelle.",
+                "hu": "Keressen menedéket a megálló közvetlen közelében lévő árkádoknál.",
+                "ro": "Căutați adăpost în arcadele de lângă stație.",
+                "en": "Seek shelter in the arcades right behind the bus stop."
+              }
+            },
+            {
+              "name": "Paceville & Lunch",
+              "tip_5lang": {
+                "de": "Die Haltestellen hier sind oft überdacht und windgeschützt.",
+                "hu": "Az itteni megállók gyakran fedettek és szélvédettek.",
+                "ro": "Stațiile de aici sunt adesea acoperite și ferite de vânt.",
+                "en": "The bus stops here are often sheltered and wind-protected."
+              }
+            },
+            {
+              "name": "Portomaso & Dragonara",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Busknotenpunkt; halten Sie den Schirm bereit.",
+                "hu": "Rövid séta a buszcsomóponttól; tartsa készenlétben az esernyőt.",
+                "ro": "Scurtă plimbare de la nodul de autobuz; țineți umbrela pregătită.",
+                "en": "Short walk from the bus hub; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "St. George's Bay",
+              "tip_5lang": {
+                "de": "Die Haltestelle direkt am Strand bietet kaum Regenschutz.",
+                "hu": "A közvetlen tengerparti megálló alig nyújt esővédelmet.",
+                "ro": "Stația de lângă plajă oferă puțin adăpost contra ploii.",
+                "en": "The bus stop right by the beach offers very little rain cover."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Tallinja-App ist bei Regen essenziell für präzise Ankunftszeiten.",
+              "Busse können bei Starkregen Verspätungen haben; planen Sie flexibel.",
+              "Halten Sie Kleingeld oder die Karte griffbereit, um den Einstieg zu beschleunigen.",
+              "Einige Haltestellen in Malta haben keinen Unterstand; Regenjacke mitnehmen."
+            ],
+            "hu": [
+              "A Tallinja applikáció esőben alapvető a pontos érkezési időkhöz.",
+              "Heves esőzéskor a buszok késhetnek; legyen rugalmas az időbeosztása.",
+              "Tartsa készenlétben az aprópénzt vagy kártyáját a gyors felszálláshoz.",
+              "Málta néhány megállója nem fedett; vigyen magával esőkabátot."
+            ],
+            "ro": [
+              "Aplicația Tallinja este esențială pentru orele precise de sosire pe ploaie.",
+              "Autobuzele pot avea întârzieri în timpul ploilor torențiale.",
+              "Țineți banii sau cardul la îndemână pentru a grăbi urcarea.",
+              "Unele stații din Malta nu au adăpost; luați o pelerină de ploaie."
+            ],
+            "en": [
+              "The Tallinja app is essential during rain for real-time arrival tracking.",
+              "Buses may experience delays during heavy downpours; keep your schedule flexible.",
+              "Have your card or change ready to speed up the boarding process.",
+              "Some bus stops in Malta lack shelters; always carry a rain jacket."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An klaren Wintervormittagen ist die Busfahrt entlang der Küste zur Balluta Bay ein Vergnügen. Mittags sind die Busse weniger klimatisiert und angenehm temperiert. Am Nachmittag erreichen Sie den Portomaso Tower bequem mit den Linien 13, 14 oder 16. Vor der frühen Dämmerung bringt Sie der Transit sicher durch das belebte Paceville zurück zu Ihrer Unterkunft.",
+            "hu": "Tiszta téli délelőttökön a parti buszozás a Balluta-öböl felé igazi élmény. Délben a buszok hőmérséklete kellemes, nincs szükség erős klímára. Délután a 13-as, 14-es vagy 16-os járatokkal kényelmesen elérhetjük a Portomaso tornyot. A korai sötétedés előtt a tömegközlekedés biztonságosan átvisz a nyüzsgő Paceville-en.",
+            "ro": "În diminețile clare de iarnă, drumul cu autobuzul pe coastă spre Balluta este o plăcere. La prânz, autobuzele au o temperatură plăcută, fără aer condiționat excesiv. După-amiaza, ajungeți la Portomaso Tower ușor cu liniile 13, 14 sau 16. Înainte de amurgul timpuriu, transportul public vă duce în siguranță prin Paceville.",
+            "en": "Winter mornings are perfect for a scenic bus ride along the coast to Balluta Bay. By noon, buses are comfortably tempered without the intense summer A/C. The afternoon allows for easy hops to Portomaso Tower using the frequent 13, 14, or 16 routes. As evening sets in early, transit remains the most reliable way to navigate through busy Paceville."
+          },
+          "stops": [
+            {
+              "name": "Bus to Balluta",
+              "tip_5lang": {
+                "de": "Genießen Sie den Meerblick aus dem Fenster auf der linken Seite.",
+                "hu": "Élvezze a tengeri kilátást a bal oldali ablakból.",
+                "ro": "Bucurați-vă de vederea la mare de pe fereastra din stânga.",
+                "en": "Enjoy the sea view from the window on the left side."
+              }
+            },
+            {
+              "name": "Balluta Bay & Church",
+              "tip_5lang": {
+                "de": "Im Winter ist es hier an der Haltestelle deutlich ruhiger.",
+                "hu": "Télen itt a megállóban lényegesen nyugodtabb a hangulat.",
+                "ro": "Iarna este mult mai liniște aici, la stație.",
+                "en": "It's much quieter here at the bus stop during winter."
+              }
+            },
+            {
+              "name": "Bus to Spinola",
+              "tip_5lang": {
+                "de": "Die Busse fahren im Winter meist pünktlicher als im Sommer.",
+                "hu": "A buszok télen rendszerint pontosabbak, mint nyáron.",
+                "ro": "Autobuzele sunt de obicei mai punctuale iarna decât vara.",
+                "en": "Buses usually run more punctually in winter than in summer."
+              }
+            },
+            {
+              "name": "Spinola Bay & LOVE Monument",
+              "tip_5lang": {
+                "de": "Die Haltestelle bietet im Winter angenehmen Sonnenschein.",
+                "hu": "A megálló télen kellemes napsütést kap.",
+                "ro": "Stația primește un soare plăcut în timpul iernii.",
+                "en": "The bus stop gets pleasant sunshine during winter days."
+              }
+            },
+            {
+              "name": "Paceville & Lunch",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeit für einen schnellen warmen Snack.",
+                "hu": "Használja ki a várakozást egy gyors, meleg harapnivalóra.",
+                "ro": "Folosiți timpul de așteptare pentru o gustare caldă rapidă.",
+                "en": "Use the waiting time for a quick warm snack."
+              }
+            },
+            {
+              "name": "Portomaso & Dragonara",
+              "tip_5lang": {
+                "de": "Ein wichtiger Knotenpunkt für viele Linien; einfacher Umstieg.",
+                "hu": "Fontos csomópont sok járat számára; könnyű átszállás.",
+                "ro": "Un nod important pentru multe linii; transfer ușor.",
+                "en": "A major hub for many routes; easy to transfer here."
+              }
+            },
+            {
+              "name": "St. George's Bay",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Fahrplan für die Rückfahrt nach 17:00 Uhr.",
+                "hu": "Figyelje a menetrendet a 17:00 utáni visszautazáshoz.",
+                "ro": "Verificați orarul pentru drumul de întoarcere după ora 17:00.",
+                "en": "Check the timetable for the return journey after 17:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Explorer Card lohnt sich auch für kürzere Winterurlaube.",
+              "Im Winter sind die Busse seltener wegen Überfüllung 'Full Up'.",
+              "Nutzen Sie die Nachtbusse (N-Linien), wenn Sie länger in Paceville bleiben.",
+              "Die Küstenlinien (13/14/16) bieten im Winter die besten Ausblicke."
+            ],
+            "hu": [
+              "Az Explorer kártya rövidebb téli utazásokhoz is megéri.",
+              "Télen a buszok ritkábban telnek meg teljesen ('Full Up').",
+              "Használja az éjszakai buszokat (N-járatok), ha tovább marad Paceville-ben.",
+              "A parti járatok (13/14/16) nyújtják télen a legszebb kilátást."
+            ],
+            "ro": [
+              "Cardul Explorer merită și pentru vacanțe scurte de iarnă.",
+              "Iarna, autobuzele sunt mai rar afișate ca fiind pline ('Full Up').",
+              "Folosiți autobuzele de noapte (liniile N) dacă stați mai mult în Paceville.",
+              "Liniile de coastă (13/14/16) oferă cele mai bune vederi iarna."
+            ],
+            "en": [
+              "The Explorer Card is great value even for shorter winter trips.",
+              "Buses are less likely to display the 'Full Up' sign during winter months.",
+              "Utilize the night buses (N routes) if you plan to stay late in Paceville.",
+              "The coastal routes (13, 14, 16) offer the best scenic views in winter."
+            ]
+          }
+        }
       }
     }
   }

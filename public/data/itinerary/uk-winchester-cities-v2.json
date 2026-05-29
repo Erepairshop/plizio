@@ -426,6 +426,224 @@
           "Many of the central attractions are free to enter (e.g., The Great Hall, Wolvesey Castle).",
           "Winchester is compact, making it ideal for exploring on foot."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt an der Alfred-Statue, doch die nahegelegene City Mill bietet sofortigen Schutz und faszinierende Technik. Mittags verbringen wir viel Zeit im trockenen und majestätischen Schiff der Winchester Cathedral. Der Nachmittag gehört den Ausstellungen im Westgate Museum und der Pracht der Great Hall. Den Abend lassen wir gemütlich in einem der historischen Pubs an der High Street ausklingen.",
+            "hu": "Az esős reggel Alfréd király szobránál indul, de a City Mill malomkereke hamar fedett menedéket és látnivalót kínál. Délben a katedrális hatalmas belső tere tökéletes hely a szárazon maradáshoz és az álmélkodáshoz. Délután a Westgate Múzeum és a Great Hall biztosít kulturális programot tető alatt. Az estét a High Street egyik hangulatos, patinás pubjában zárjuk, távol a sártól.",
+            "ro": "O dimineață ploioasă începe la statuia lui Alfred, dar City Mill oferă rapid adăpost și o perspectivă fascinantă asupra istoriei industriale. La prânz, interiorul vast al Catedralei Winchester este refugiul ideal pentru explorare uscată. După-amiaza continuă la Muzeul Westgate și în Great Hall, feriți de intemperii. Seara se încheie confortabil într-un pub istoric de pe High Street.",
+            "en": "A rainy morning starts at Alfred's statue, but the nearby City Mill provides immediate shelter and fascinating industrial heritage. At midday, the vast interior of Winchester Cathedral is the perfect dry haven for exploration. Afternoon is spent within the dry walls of Westgate Museum and the Great Hall. The evening concludes cozily in one of the historic pubs along the High Street."
+          },
+          "stops": [
+            {
+              "name": "Statue of Alfred the Great",
+              "tip_5lang": {
+                "de": "Ein schnelles Foto unter dem Regenschirm, bevor es ins Trockene geht.",
+                "hu": "Gyors fotó az esernyő alatt, mielőtt fedett helyre vonulnánk.",
+                "ro": "O fotografie rapidă sub umbrelă înainte de a căuta adăpost.",
+                "en": "A quick photo under the umbrella before heading for cover."
+              }
+            },
+            {
+              "name": "Winchester City Mill",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um dem ersten Guss zu entkommen und das Wasserrad zu sehen.",
+                "hu": "Tökéletes hely az első zápor elöli meneküléshez és a malomkerék megtekintéséhez.",
+                "ro": "Locul perfect pentru a scăpa de prima rafală și a vedea roata morii.",
+                "en": "Perfect spot to escape the first downpour and see the waterwheel."
+              }
+            },
+            {
+              "name": "Wolvesey Castle",
+              "tip_5lang": {
+                "de": "Die Ruinen sind im Regen rutschig, bleiben Sie auf den befestigten Wegen.",
+                "hu": "A romok esőben csúszósak, maradjon a kijelölt kövezett utakon.",
+                "ro": "Ruinele sunt alunecoase pe ploaie, rămâneți pe potecile pavate.",
+                "en": "The ruins are slippery in the rain, stay on the paved paths."
+              }
+            },
+            {
+              "name": "Winchester Cathedral",
+              "tip_5lang": {
+                "de": "Idealer Rückzugsort bei starkem Regen; nutzen Sie die Zeit für eine Führung.",
+                "hu": "Ideális menedék szakadó esőben; használja ki az időt egy belső vezetésre.",
+                "ro": "Refugiu ideal în caz de ploaie torențială; vizitați interiorul pe îndelete.",
+                "en": "Ideal retreat during heavy rain; take your time for an indoor tour."
+              }
+            },
+            {
+              "name": "High Street",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Passagen der Geschäfte zum Bummeln.",
+                "hu": "Használja ki az üzletek fedett árkádjait a nézelődéshez.",
+                "ro": "Folosiți arcadele magazinelor pentru a vă plimba la adăpost.",
+                "en": "Use the covered shop overhangs to browse without getting wet."
+              }
+            },
+            {
+              "name": "Westgate Museum",
+              "tip_5lang": {
+                "de": "Ein kleiner, aber feiner Innenraum mit tollem Blick auf die nasse Straße.",
+                "hu": "Kicsi, de hangulatos beltéri múzeum, remek kilátással az esős utcára.",
+                "ro": "Un muzeu mic dar cald, cu o vedere excelentă spre strada udă.",
+                "en": "A small, cozy indoor museum with a great view of the wet street."
+              }
+            },
+            {
+              "name": "The Great Hall",
+              "tip_5lang": {
+                "de": "Die riesige Halle bietet Schutz und beherbergt den berühmten Rundtisch.",
+                "hu": "A hatalmas csarnok fedett, itt látható a híres Kerekasztal is.",
+                "ro": "Sala imensă oferă adăpost și găzduiește celebra Masă Rotundă.",
+                "en": "The massive hall offers shelter and houses the famous Round Table."
+              }
+            },
+            {
+              "name": "Winchester College",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen in den historischen Innenhöfen.",
+                "hu": "Ügyeljen a tócsákra a történelmi belső udvarokon.",
+                "ro": "Atenție la bălțile din curțile interioare istorice.",
+                "en": "Watch out for puddles in the historic courtyards."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei den Windböen in der Nähe der Kathedrale Pflicht.",
+              "Winchester hat viele überdachte Passagen in der High Street.",
+              "Besuchen Sie die Cathedral Tea Rooms für eine warme Pause.",
+              "Wasserdichtes Schuhwerk schützt vor den Pfützen auf dem Kopfsteinpflaster."
+            ],
+            "hu": [
+              "A katedrális környéki szél miatt egy erős esernyő elengedhetetlen.",
+              "Használja a High Street fedett árkádjait a boltok közötti közlekedéshez.",
+              "A Katedrális teázója remek hely egy melegítő szünetre.",
+              "Vízálló cipő javasolt a macskaköveken megálló víz miatt."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este obligatorie din cauza rafalelor de lângă catedrală.",
+              "Profitați de arcadele de pe High Street pentru a rămâne uscat.",
+              "Ceainăria Catedralei este un loc excelent pentru o pauză caldă.",
+              "Încălțămintea impermeabilă este necesară pentru pavajul denivelat."
+            ],
+            "en": [
+              "A sturdy umbrella is a must due to wind gusts near the Cathedral.",
+              "Make use of the High Street's historic overhangs to stay dry.",
+              "The Cathedral Tea Rooms offer a wonderful warm break from the rain.",
+              "Waterproof footwear is recommended for the uneven cobblestones."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt frisch an der Alfred-Statue. Die City Mill dampft fast über dem kalten Itchen-Fluss. Mittags wärmen wir uns in der Winchester Cathedral auf, wo das Licht tief durch die Fenster fällt. Nach einem Spaziergang über die High Street besuchen wir das Westgate Museum, bevor wir in der Great Hall die Winterstimmung genießen. Der Abend endet früh bei Kerzenschein in einem gemütlichen Gasthaus.",
+            "hu": "A csípős téli reggel Alfréd szobránál kezdődik, ahol a hideg Itchen-folyó felett párolog a City Mill. Délben a katedrális fűtött falai között keressük a meleget és a téli fényeket. Délután a High Street-en sétálva érünk el a Westgate Múzeumhoz és a Great Hallhoz. Az este korán köszönt be, így a napot egy kandallótűz mellett zárjuk egy óvárosi étteremben.",
+            "ro": "O dimineață geroasă de iarnă începe la statuia lui Alfred. City Mill pare și mai pitorească în aerul rece de lângă râu. La prânz, ne încălzim în Catedrala Winchester, admirând lumina iernii. După-amiaza explorăm Muzeul Westgate și Great Hall înainte de lăsarea serii. Ziua se încheie devreme, la căldura unui șemineu într-un han tradițional.",
+            "en": "A crisp winter morning starts at Alfred's statue. The City Mill looks picturesque against the cold river Itchen. At midday, we warm up inside the Cathedral, admiring the low winter sun through the glass. Afternoon light fades early as we visit Westgate Museum and the Great Hall. The evening starts early, ideally spent by a fireplace in a historic inn."
+          },
+          "stops": [
+            {
+              "name": "Statue of Alfred the Great",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, der Wind am Broadway kann eisig sein.",
+                "hu": "Öltözzön rétegesen, a szél a Broadway-n nagyon hideg lehet.",
+                "ro": "Îmbrăcați-vă gros, vântul de pe Broadway poate fi tăios.",
+                "en": "Dress warmly; the wind along the Broadway can be biting."
+              }
+            },
+            {
+              "name": "Winchester City Mill",
+              "tip_5lang": {
+                "de": "Ein warmer Ort mit heißem Tee im Shop erhältlich.",
+                "hu": "Meleg hely, a boltban forró tea is kapható.",
+                "ro": "Un loc cald unde puteți găsi ceai fierbinte la magazin.",
+                "en": "A warm indoor spot; hot tea is often available in the shop."
+              }
+            },
+            {
+              "name": "Wolvesey Castle",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen auf den Steinen.",
+                "hu": "Vigyázzon a köveken előforduló jeges foltokra.",
+                "ro": "Atenție la porțiunile înghețate de pe pietre.",
+                "en": "Watch out for icy patches on the stone surfaces."
+              }
+            },
+            {
+              "name": "Winchester Cathedral",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe und die oft festliche Dekoration im Inneren.",
+                "hu": "Élvezze a békét és a belső tér ünnepi díszítését.",
+                "ro": "Bucurați-vă de liniște și de decorațiunile festive din interior.",
+                "en": "Enjoy the peaceful atmosphere and festive decorations inside."
+              }
+            },
+            {
+              "name": "High Street",
+              "tip_5lang": {
+                "de": "Perfekt für Weihnachtseinkäufe oder einen heißen Kakao.",
+                "hu": "Tökéletes karácsonyi vásárláshoz vagy egy forró csokihoz.",
+                "ro": "Perfect pentru cumpărături de iarnă sau o ciocolată caldă.",
+                "en": "Perfect for winter shopping or grabbing a hot cocoa."
+              }
+            },
+            {
+              "name": "Westgate Museum",
+              "tip_5lang": {
+                "de": "Kurzer Besuch, um sich vor dem nächsten Ziel aufzuwärmen.",
+                "hu": "Rövid látogatás, ideális felmelegedni a következő célpont előtt.",
+                "ro": "O vizită scurtă, ideală pentru a vă încălzi puțin.",
+                "en": "A short visit, ideal for warming up before the next stop."
+              }
+            },
+            {
+              "name": "The Great Hall",
+              "tip_5lang": {
+                "de": "Die Steinwände sind kalt, behalten Sie Ihren Mantel an.",
+                "hu": "A kőfalak hidegek, érdemes a kabátot magunkon hagyni.",
+                "ro": "Zidurile de piatră sunt reci, păstrați-vă haina pe dvs.",
+                "en": "The stone walls are cold; keep your coat on inside."
+              }
+            },
+            {
+              "name": "Winchester College",
+              "tip_5lang": {
+                "de": "Die Gärten sind im Frost besonders fotogen.",
+                "hu": "A kertek dérlepte állapotban különösen fotogének.",
+                "ro": "Grădinile sunt extrem de fotogenice când sunt înghețate.",
+                "en": "The gardens are particularly photogenic when covered in frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 16:00 Uhr unter.",
+              "Tragen Sie Schichten, da es in der Kathedrale kühler sein kann als gedacht.",
+              "Der Weihnachtsmarkt (saisonal) ist ein Muss.",
+              "Warme Handschuhe sind für den Spaziergang unerlässlich."
+            ],
+            "hu": [
+              "A nap télen már délután 4 óra körül lemegy.",
+              "Öltözzön rétegesen, a katedrálisban hűvösebb lehet, mint gondolná.",
+              "A karácsonyi vásár (szezonálisan) kötelező látnivaló.",
+              "Meleg kesztyű nélkülözhetetlen a városi sétához."
+            ],
+            "ro": [
+              "Soarele apune în jur de ora 16:00 în timpul iernii.",
+              "Îmbrăcați-vă în straturi, în catedrală poate fi mai rece decât pare.",
+              "Târgul de Crăciun (sezonier) este un punct de atracție major.",
+              "Mănușile groase sunt esențiale pentru plimbare."
+            ],
+            "en": [
+              "Sunset occurs early, around 4:00 PM in the winter.",
+              "Dress in layers; the Cathedral can be surprisingly chilly inside.",
+              "The Christmas Market (seasonal) is a world-class attraction.",
+              "Warm gloves are essential for the walk between sites."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -830,6 +1048,224 @@
           "Plan your route to save the steep St. Giles Hill for the end of the day.",
           "The water meadows are a flat, easy ride suitable for all abilities."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerisches Radeln durch Winchester erfordert Vorsicht auf der High Street. Wir steuern schnell Museen wie das Westgate und die Great Hall an, um trocken zu bleiben. Mittags parken wir die Räder sicher an der Kathedrale für eine ausgiebige Innenbesichtigung. Die Tour zur City Mill und zum College führt über nasse, aber ruhige Wege. Den Abschluss bildet ein vorsichtiger Aufstieg zum St. Giles Hill für einen wolkenverhangenen Blick.",
+            "hu": "Az esős bringázás Winchesterben óvatosságot igényel a csúszós High Street-en. Gyorsan a Westgate Múzeum és a Great Hall felé vesszük az irányt, hogy fedél alá kerüljünk. Délben a katedrálisnál hagyjuk a gépeket egy alapos belső körre. A City Mill és a College felé vizes, de nyugodt utakon haladunk. A napot a St. Giles Hill-en zárjuk, ahonnan ködös, de drámai a kilátás.",
+            "ro": "Ciclismul pe ploaie în Winchester necesită atenție pe High Street. Ne îndreptăm rapid spre Muzeul Westgate și Great Hall pentru a rămâne uscați. La prânz, parcăm bicicletele la Catedrală pentru o vizită interioară lungă. Drumul spre City Mill și College este ud, dar liniștit. Încheiem cu o urcare prudentă pe St. Giles Hill pentru o vedere dramatică printre nori.",
+            "en": "Rainy cycling in Winchester requires caution on the slippery High Street. We quickly head for indoor stops like Westgate Museum and the Great Hall. At midday, we park the bikes securely by the Cathedral for an extensive indoor visit. The route to City Mill and College follows wet but quiet roads. We finish with a careful climb to St. Giles Hill for a cloudy, atmospheric view."
+          },
+          "stops": [
+            {
+              "name": "High Street",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster, es ist sehr rutschig.",
+                "hu": "Vigyázzon a vizes macskakövön, rendkívül csúszós.",
+                "ro": "Atenție pe pavajul ud, este foarte alunecos.",
+                "en": "Caution on the wet cobblestones; they are extremely slippery."
+              }
+            },
+            {
+              "name": "Westgate Museum",
+              "tip_5lang": {
+                "de": "Fahrradständer vorhanden; idealer Ort für eine Regenpause.",
+                "hu": "Kerékpártárolók elérhetőek; ideális hely egy esőszünetre.",
+                "ro": "Suporturi de biciclete disponibile; loc ideal pentru o pauză de ploaie.",
+                "en": "Bike racks available; ideal spot for a rain break."
+              }
+            },
+            {
+              "name": "The Great Hall",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und genießen Sie die trockene Halle.",
+                "hu": "Parkolja le a bringát, és élvezze a száraz csarnokot.",
+                "ro": "Parcați bicicleta și bucurați-vă de sala uscată.",
+                "en": "Park your bike and enjoy the dry, historic hall."
+              }
+            },
+            {
+              "name": "Winchester Cathedral",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz direkt vor dem Eingang.",
+                "hu": "Biztonságos tárolóhely közvetlenül a bejárat előtt.",
+                "ro": "Loc sigur de parcare chiar în fața intrării.",
+                "en": "Secure bike parking available right outside the entrance."
+              }
+            },
+            {
+              "name": "Wolvesey Castle",
+              "tip_5lang": {
+                "de": "Der Boden kann schlammig sein; halten Sie Abstand zu den Ruinenkanten.",
+                "hu": "A talaj sáros lehet; tartson távolságot a romok szélétől.",
+                "ro": "Solul poate fi noroios; păstrați distanța de marginile ruinelor.",
+                "en": "Ground can be muddy; keep your distance from the ruin edges."
+              }
+            },
+            {
+              "name": "Winchester City Mill",
+              "tip_5lang": {
+                "de": "Kurzer Stopp am Fluss; achten Sie auf spritzendes Wasser.",
+                "hu": "Rövid megálló a folyónál; ügyeljen a felcsapódó vízre.",
+                "ro": "Oprire scurtă la râu; atenție la apa care stropește.",
+                "en": "Short stop by the river; watch out for splashing water."
+              }
+            },
+            {
+              "name": "Winchester College",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraßen sind eng und bei Regen glatt.",
+                "hu": "A bekötőutak szűkek és esőben csúszósak.",
+                "ro": "Drumurile de acces sunt înguste și alunecoase pe ploaie.",
+                "en": "Access roads are narrow and slick when wet."
+              }
+            },
+            {
+              "name": "St. Giles Hill Viewpoint",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei Nässe anstrengend und rutschig.",
+                "hu": "A kapaszkodó vizes időben fárasztó és csúszós.",
+                "ro": "Urcarea este obositoare și alunecoasă pe timp umed.",
+                "en": "The climb is strenuous and slippery in wet conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei den vielen Pfützen ein Muss.",
+              "Wasserdichte Handschuhe halten Ihre Hände am Lenker warm.",
+              "Bremse früher als gewohnt auf dem nassen Pflaster.",
+              "Nutzen Sie Fahrradabdeckungen für die Sättel beim Parken."
+            ],
+            "hu": [
+              "A sárvédő kötelező a sok tócsa miatt.",
+              "A vízálló kesztyű segít melegen tartani a kezeket a kormányon.",
+              "Fékezzen korábban a megszokottnál a vizes köveken.",
+              "Használjon nyeregvédőt parkoláskor."
+            ],
+            "ro": [
+              "Apărătorile sunt obligatorii din cauza multelor bălți.",
+              "Mănușile impermeabile vă vor menține mâinile calde pe ghidon.",
+              "Frânați mai devreme decât de obicei pe pavajul ud.",
+              "Folosiți huse pentru șa atunci când parcați."
+            ],
+            "en": [
+              "Mudguards are a must due to the many puddles.",
+              "Waterproof gloves will keep your hands warm on the handlebars.",
+              "Brake earlier than usual on the wet stone surfaces.",
+              "Use saddle covers when parking your bike outside."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln startet frisch auf der High Street. Die kühle Luft belebt auf dem Weg zum Westgate und zur Great Hall. Mittags dient die Kathedrale als langer Aufwärmstopp. Die Route führt weiter durch das ruhige, frostige Winchester zum College und zur City Mill. Zum Abschluss fordert der Anstieg zum St. Giles Hill heraus, belohnt aber mit einem klaren Blick über die winterliche Stadt vor Sonnenuntergang.",
+            "hu": "A téli bringázás frissítően indul a High Street-en. A hűvös levegő élénkítő a Westgate és a Great Hall felé menet. Délben a katedrális szolgál hosszú melegedőhelyként. Az út a fagyos városon át folytatódik a College és a City Mill felé. A végén a St. Giles Hill emelkedője kihívást jelent, de tiszta kilátással jutalmaz a naplemente előtt.",
+            "ro": "Ciclismul de iarnă începe revigorant pe High Street. Aerul rece este înviorător în drum spre Westgate și Great Hall. La prânz, Catedrala servește ca loc de încălzire prelungit. Traseul continuă prin Winchester-ul înghețat spre College și City Mill. La final, urcarea pe St. Giles Hill este o provocare, dar oferă o vedere clară asupra orașului înainte de apus.",
+            "en": "Winter cycling starts refreshingly on the High Street. The cool air is invigorating on the way to Westgate and the Great Hall. At midday, the Cathedral serves as a long warming-up stop. The route continues through frosty Winchester to the College and City Mill. Finally, the climb to St. Giles Hill is a challenge but rewards with a clear view of the winter city before sunset."
+          },
+          "stops": [
+            {
+              "name": "High Street",
+              "tip_5lang": {
+                "de": "Achten Sie auf schwarzes Eis in den Schattenseiten.",
+                "hu": "Ügyeljen a fekete jégre az árnyékos részeken.",
+                "ro": "Atenție la gheața neagră din zonele umbrite.",
+                "en": "Watch out for black ice in shaded areas."
+              }
+            },
+            {
+              "name": "Westgate Museum",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; lassen Sie den Helm zum Aufwärmen auf.",
+                "hu": "Rövid megálló; érdemes a sisakot a fejen hagyni melegítésnek.",
+                "ro": "Oprire scurtă; puteți păstra casca pentru a vă menține capul cald.",
+                "en": "Short stop; keeping your helmet on can help retain heat."
+              }
+            },
+            {
+              "name": "The Great Hall",
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Frost rutschig sein.",
+                "hu": "A felvezető út fagyban csúszós lehet.",
+                "ro": "Aleea de acces poate fi alunecoasă în caz de îngheț.",
+                "en": "The approach path can be slick during frost."
+              }
+            },
+            {
+              "name": "Winchester Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang zum Aufwärmen der Finger.",
+                "hu": "Használja a templom bejáratát az ujjai felmelegítésére.",
+                "ro": "Folosiți intrarea în biserică pentru a vă încălzi degetele.",
+                "en": "Use the church entrance to warm up your fingers."
+              }
+            },
+            {
+              "name": "Wolvesey Castle",
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege können hart gefroren sein.",
+                "hu": "A nem aszfaltozott utak keményre fagyhatnak.",
+                "ro": "Potecile neasfaltate pot fi înghețate bocnă.",
+                "en": "The unpaved paths can be frozen hard."
+              }
+            },
+            {
+              "name": "Winchester City Mill",
+              "tip_5lang": {
+                "de": "Die Gischt des Flusses kann an Geländern gefrieren.",
+                "hu": "A folyó permete ráfagyhat a korlátokra.",
+                "ro": "Vaporii râului pot îngheța pe balustrade.",
+                "en": "River spray can freeze on the railings."
+              }
+            },
+            {
+              "name": "Winchester College",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Stille in den Gassen.",
+                "hu": "Élvezze a téli csendet a sikátorokban.",
+                "ro": "Bucurați-vă de liniștea iernii pe străduțe.",
+                "en": "Enjoy the winter silence in the backstreets."
+              }
+            },
+            {
+              "name": "St. Giles Hill Viewpoint",
+              "tip_5lang": {
+                "de": "Fahren Sie vor 16:00 Uhr hoch, um das Licht zu nutzen.",
+                "hu": "Tekerjen fel délután 4 előtt, hogy még lásson a fényben.",
+                "ro": "Urcați înainte de ora 16:00 pentru a profita de lumină.",
+                "en": "Cycle up before 4:00 PM to make the most of the light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sichtbarkeit ist wichtig; nutzen Sie helle Lichter.",
+              "Tragen Sie Thermokleidung unter Ihrer Windjacke.",
+              "Achten Sie auf gefrorene Pfützen in Kurven.",
+              "Warme Socken und Überschuhe schützen vor dem kalten Fahrtwind."
+            ],
+            "hu": [
+              "A láthatóság fontos; használjon erős lámpákat.",
+              "Viseljen aláöltözőt a szélkabát alatt.",
+              "Ügyeljen a fagyott tócsákra a kanyarokban.",
+              "A meleg zokni és kamásli véd a menetszéltől."
+            ],
+            "ro": [
+              "Vizibilitatea este crucială; folosiți lumini puternice.",
+              "Purtați haine termice sub jacheta de vânt.",
+              "Atenție la bălțile înghețate în curbe.",
+              "Șosetele groase și protecțiile pentru pantofi ajută împotriva vântului."
+            ],
+            "en": [
+              "Visibility is key; use bright front and rear lights.",
+              "Wear thermal base layers under your windproof jacket.",
+              "Watch out for frozen puddles, especially in corners.",
+              "Warm socks and shoe covers protect against the cold wind."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1158,6 +1594,206 @@
           "The 'cluster' method works best. Park once and walk.",
           "Be aware of one-way streets in the historic centre."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Winchester startet bequem am Chesil Street Parkplatz. Die City Mill und das Wolvesey Castle besuchen wir zwischen den Güssen. Mittags parken wir nahe der Winchester Cathedral für einen langen Aufenthalt im Trockenen. Nach einem kurzen Wechsel zum Tower Street Parkplatz sind das Westgate Museum und die Great Hall nur wenige Schritte entfernt. Der Abend endet entspannt in der Stadt, bevor es zurück zum Auto geht.",
+            "hu": "Az esős winchesteri nap kényelmesen indul a Chesil Street parkolóban. A City Mill-t és a Wolvesey Castle-t a záporok között keressük fel. Délben a katedrálishoz közel parkolunk, hogy szárazon maradjunk a hosszú látogatás alatt. A Tower Street parkolóba átállva a Westgate Múzeum és a Great Hall pár lépésre van csak. Az este a belvárosban zárul, mielőtt visszatérnénk a kocsihoz.",
+            "ro": "O zi ploioasă în Winchester începe comod la parcarea Chesil Street. Vizităm City Mill și Wolvesey Castle între reprizele de ploaie. La prânz, parcăm aproape de Catedrală pentru a rămâne uscați. După o scurtă mutare în parcarea Tower Street, Muzeul Westgate și Great Hall sunt la doar câțiva pași. Seara se încheie relaxat în oraș înainte de a reveni la mașină.",
+            "en": "A rainy day in Winchester starts conveniently at Chesil Street Car Park. We visit City Mill and Wolvesey Castle between showers. At midday, we park near the Cathedral for a long indoor stay. After a quick move to Tower Street Car Park, Westgate Museum and the Great Hall are just steps away. The evening concludes relaxed in town before heading back to the car."
+          },
+          "stops": [
+            {
+              "name": "Chesil Street Car Park",
+              "tip_5lang": {
+                "de": "Halten Sie den Regenschirm bereit für den kurzen Weg zum Fluss.",
+                "hu": "Legyen kéznél az esernyő a folyóhoz vezető rövid úton.",
+                "ro": "Țineți umbrela la îndemână pentru drumul scurt spre râu.",
+                "en": "Keep your umbrella ready for the short walk to the river."
+              }
+            },
+            {
+              "name": "Winchester City Mill",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken zu bleiben.",
+                "hu": "Parkoljon a bejárathoz közel, hogy szárazon maradjon.",
+                "ro": "Parcați aproape de intrare pentru a rămâne uscat.",
+                "en": "Park as close to the entrance as possible to stay dry."
+              }
+            },
+            {
+              "name": "Wolvesey Castle",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist dieser Stopp eher kurz zu halten.",
+                "hu": "Heves esőben ezt a megállót érdemes rövidre fogni.",
+                "ro": "În caz de ploaie torențială, scurtați vizita aici.",
+                "en": "In heavy rain, keep this outdoor stop brief."
+              }
+            },
+            {
+              "name": "Winchester Cathedral",
+              "tip_5lang": {
+                "de": "Nutzen Sie Park-and-Ride, wenn die Innenstadtparkplätze voll sind.",
+                "hu": "Használja a Park-and-Ride rendszert, ha a belvárosi helyek teltek.",
+                "ro": "Folosiți Park-and-Ride dacă parcările centrale sunt pline.",
+                "en": "Use Park-and-Ride if city center lots are full due to rain."
+              }
+            },
+            {
+              "name": "Tower Street Car Park",
+              "tip_5lang": {
+                "de": "Überdachtes Parken schützt Sie beim Aussteigen.",
+                "hu": "Fedett parkolóhely, megvédi a kiszálláskor.",
+                "ro": "Parcare acoperită, vă protejează la coborâre.",
+                "en": "Covered parking levels will protect you while exiting the car."
+              }
+            },
+            {
+              "name": "The Great Hall",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Sprint vom Parkhaus zum Eingang.",
+                "hu": "Csak egy rövid sprint a parkolóháztól a bejáratig.",
+                "ro": "Doar un sprint scurt de la parcare la intrare.",
+                "en": "Just a short sprint from the car park to the entrance."
+              }
+            },
+            {
+              "name": "Westgate Museum",
+              "tip_5lang": {
+                "de": "Perfekt kombiniert mit dem Great Hall Besuch im selben Block.",
+                "hu": "Kiválóan kombinálható a Great Hall látogatással ugyanabban a blokkban.",
+                "ro": "Se combină perfect cu vizita la Great Hall în același bloc.",
+                "en": "Perfectly combined with the Great Hall visit in the same block."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Landstraßen nach Winchester.",
+              "Tower Street ist ein Parkhaus und bietet Schutz vor Regen.",
+              "Nutzen Sie die 'RingGo' App, um im Auto zu bezahlen.",
+              "Lassen Sie nasse Schirme im Kofferraum, um Beschlag zu vermeiden."
+            ],
+            "hu": [
+              "Ügyeljen a vízfelúszásra a Winchesterbe vezető utakon.",
+              "A Tower Street egy parkolóház, így véd az esőtől.",
+              "Használja a RingGo alkalmazást, hogy a kocsiból fizethessen.",
+              "A vizes esernyőket a csomagtartóban tárolja a párásodás ellen."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile spre Winchester.",
+              "Tower Street este o parcare multietajată, oferind protecție contra ploii.",
+              "Folosiți aplicația RingGo pentru a plăti din interiorul mașinii.",
+              "Țineți umbrelele ude în portbagaj pentru a evita aburirea geamurilor."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the A-roads leading to Winchester.",
+              "Tower Street is a multi-story car park providing rain cover.",
+              "Use the RingGo app to pay for parking without leaving your car.",
+              "Store wet umbrellas in the trunk to prevent window fogging."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Fahrtag beginnt am frostigen Chesil Street Parkplatz. Nach Besuchen der City Mill und Wolvesey Castle wärmen wir uns mittags in der beheizten Winchester Cathedral auf. Wir wechseln zum Tower Street Parkhaus, um die Great Hall und das Westgate Museum bequem zu erreichen. Die kurze Fahrt zwischen den Punkten spart Zeit an der kalten Luft. Der Tag endet stimmungsvoll in der beleuchteten Altstadt.",
+            "hu": "A téli autós nap a fagyos Chesil Street parkolóban indul. A City Mill és Wolvesey Castle után délben a fűtött katedrálisban melegedünk fel. Átállunk a Tower Street parkolóházba, hogy kényelmesen elérjük a Great Hall-t és a Westgate Múzeumot. A pontok közötti rövid autózás időt spórol a hideg levegőn. A nap a kivilágított óvárosban ér véget hangulatosan.",
+            "ro": "O zi de iarnă cu mașina începe în parcarea înghețată Chesil Street. După City Mill și Wolvesey Castle, ne încălzim la prânz în Catedrală. Ne mutăm în parcarea Tower Street pentru acces facil la Great Hall și Westgate Museum. Scurtele drumuri între obiective ne scutesc de frig. Ziua se încheie atmosferic în centrul vechi luminat.",
+            "en": "A winter driving day starts at the frosty Chesil Street Car Park. After visiting City Mill and Wolvesey Castle, we warm up at midday inside the Cathedral. We move to Tower Street Car Park for easy access to the Great Hall and Westgate Museum. Short drives between points minimize time in the cold air. The day ends atmospherically in the lit-up old town."
+          },
+          "stops": [
+            {
+              "name": "Chesil Street Car Park",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf den Parkplatzrampen.",
+                "hu": "Vigyázzon a parkoló rámpáin, ha jegesek.",
+                "ro": "Atenție la polei pe rampele parcării.",
+                "en": "Watch out for ice on the car park ramps."
+              }
+            },
+            {
+              "name": "Winchester City Mill",
+              "tip_5lang": {
+                "de": "Kurzer Weg, ideal um die Heizung im Auto schnell wieder zu genießen.",
+                "hu": "Rövid séta, ideális hogy gyorsan visszatérjünk a fűtött kocsiba.",
+                "ro": "Drum scurt, ideal pentru a reveni rapid la căldura mașinii.",
+                "en": "Short walk; ideal for returning quickly to the warm car."
+              }
+            },
+            {
+              "name": "Wolvesey Castle",
+              "tip_5lang": {
+                "de": "Die Außenanlagen können bei Frost gesperrt sein; vorher prüfen.",
+                "hu": "A kültéri részek fagyban zárva lehetnek; érdemes ellenőrizni.",
+                "ro": "Zonele exterioare pot fi închise în caz de îngheț; verificați înainte.",
+                "en": "Outdoor areas may be closed during severe frost; check ahead."
+              }
+            },
+            {
+              "name": "Winchester Cathedral",
+              "tip_5lang": {
+                "de": "Parkhäuser sind im Winter oft voll; früh anreisen.",
+                "hu": "A parkolóházak télen hamar megtelnek; érkezzen korán.",
+                "ro": "Parcările multietajate se umplu rapid iarna; sosiți devreme.",
+                "en": "Car parks fill up fast in winter; arrive early."
+              }
+            },
+            {
+              "name": "Tower Street Car Park",
+              "tip_5lang": {
+                "de": "Zentrale Lage minimiert den Weg durch die Kälte.",
+                "hu": "Központi elhelyezkedése minimalizálja a hidegben töltött időt.",
+                "ro": "Locația centrală reduce timpul petrecut în frig.",
+                "en": "Central location minimizes the walk through the cold air."
+              }
+            },
+            {
+              "name": "The Great Hall",
+              "tip_5lang": {
+                "de": "Genießen Sie den kurzen Fußweg durch die historische Zone.",
+                "hu": "Élvezze a rövid sétát a történelmi övezetben.",
+                "ro": "Bucurați-vă de scurta plimbare prin zona istorică.",
+                "en": "Enjoy the very short walk through the historic zone."
+              }
+            },
+            {
+              "name": "Westgate Museum",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um das Winterlicht über der Stadt zu sehen.",
+                "hu": "Remek hely a város feletti téli fények megfigyelésére.",
+                "ro": "Un loc bun pentru a vedea lumina iernii peste oraș.",
+                "en": "A great spot to see the winter light over the city."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihr Wischwasser frostgeschützt ist.",
+              "Parkhäuser bieten Schutz vor vereisten Scheiben beim Parken.",
+              "Die Straßen in der Altstadt sind eng und können glatt sein.",
+              "Nutzen Sie Sitzheizung für die kurzen Fahrten zwischen den Zielen."
+            ],
+            "hu": [
+              "Ellenőrizze, hogy a szélvédőmosó fagyálló-e.",
+              "A parkolóházak megvédik a szélvédőt a visszafagyástól.",
+              "Az óvárosi utcák szűkek és jegesek lehetnek.",
+              "Használja az ülésfűtést a rövid városi etapok között."
+            ],
+            "ro": [
+              "Asigurați-vă că lichidul de parbriz este rezistent la îngheț.",
+              "Parcările acoperite previn înghețarea geamurilor în timp ce vizitați.",
+              "Străzile din centrul vechi sunt înguste și pot fi alunecoase.",
+              "Folosiți încălzirea în scaune pentru drumurile scurte."
+            ],
+            "en": [
+              "Ensure your screenwash is rated for freezing temperatures.",
+              "Parking in multi-stories prevents frost buildup on your windshield.",
+              "Old town streets are narrow and can become icy.",
+              "Use seat heaters for the short hops between attractions."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1486,6 +2122,206 @@
           "The Winchester bus app can help you plan routes and real-time schedules.",
           "The main sights are grouped in two main clusters, making it easy to use transit between them."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag startet trocken an der Winchester Bus Station. Über die High Street erreichen wir schnell die Kathedrale, die uns lange vor dem Wetter schützt. Die Alfred-Statue besuchen wir kurz, bevor wir den Bus zur Great Hall nehmen, um den Regen im Freien zu minimieren. Den Nachmittag verbringen wir im Westgate Museum. Der Tag endet sicher im Bus zurück zum Ausgangspunkt.",
+            "hu": "Az esős nap szárazon indul a winchesteri buszállomáson. A High Street-en át gyorsan elérjük a katedrálist, amely hosszan véd az időjárástól. Alfréd szobrát csak érintjük, majd busszal megyünk a Great Hall-hoz, hogy minél kevesebbet legyünk kint. Délután a Westgate Múzeumban nézelődünk. A nap végén busszal térünk vissza a kiindulópontra.",
+            "ro": "Ziua ploioasă începe la adăpost în autogara Winchester. Prin High Street ajungem rapid la Catedrală, care ne protejează de ploaie. Vizităm scurt statuia lui Alfred, apoi luăm autobuzul spre Great Hall pentru a minimiza timpul afară. După-amiaza o petrecem la Muzeul Westgate. Ziua se încheie în siguranță cu autobuzul înapoi.",
+            "en": "A rainy day starts dry at Winchester Bus Station. We head via the High Street to the Cathedral, which offers long-term shelter. We briefly visit Alfred's statue before taking a bus to the Great Hall to minimize outdoor exposure. Afternoon is spent in the Westgate Museum. The day ends safely on a bus back to the starting point."
+          },
+          "stops": [
+            {
+              "name": "Winchester Bus Station",
+              "tip_5lang": {
+                "de": "Überdachter Wartebereich; idealer Startpunkt bei Regen.",
+                "hu": "Fedett váróterem; ideális indulópont esőben.",
+                "ro": "Zonă de așteptare acoperită; punct de plecare ideal pe ploaie.",
+                "en": "Covered waiting area; ideal starting point in the rain."
+              }
+            },
+            {
+              "name": "High Street",
+              "tip_5lang": {
+                "de": "Halten Sie sich unter den Markisen der Läden auf.",
+                "hu": "Maradjon a boltok előtetői alatt.",
+                "ro": "Rămâneți sub copertinele magazinelor.",
+                "en": "Stay under the shop awnings as much as possible."
+              }
+            },
+            {
+              "name": "Winchester Cathedral",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von den Bushaltestellen entfernt.",
+                "hu": "Csak egy rövid séta a buszmegállóktól.",
+                "ro": "Doar o scurtă plimbare de la stațiile de autobuz.",
+                "en": "Only a short walk from the main bus stops."
+              }
+            },
+            {
+              "name": "Statue of Alfred the Great",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle 'Broadway' ist direkt daneben.",
+                "hu": "A 'Broadway' buszmegálló közvetlenül mellette található.",
+                "ro": "Stația de autobuz 'Broadway' este chiar lângă.",
+                "en": "The 'Broadway' bus stop is right next to the statue."
+              }
+            },
+            {
+              "name": "Bus to Great Hall",
+              "tip_5lang": {
+                "de": "Kurze Fahrt spart den nassen Aufstieg zu Fuß.",
+                "hu": "A rövid utazás megspórolja a vizes emelkedőt.",
+                "ro": "Călătoria scurtă vă scutește de urcarea pe jos prin ploaie.",
+                "en": "The short ride saves you from a wet walk uphill."
+              }
+            },
+            {
+              "name": "The Great Hall",
+              "tip_5lang": {
+                "de": "Bushaltestelle 'Westgate' ist fast direkt vor der Tür.",
+                "hu": "A 'Westgate' buszmegálló szinte közvetlenül az ajtó előtt van.",
+                "ro": "Stația de autobuz 'Westgate' este aproape în fața porții.",
+                "en": "The 'Westgate' bus stop is almost directly outside."
+              }
+            },
+            {
+              "name": "Westgate Museum",
+              "tip_5lang": {
+                "de": "Ideal mit dem Bus erreichbar; bleiben Sie trocken.",
+                "hu": "Busszal kiválóan megközelíthető; maradjon szárazon.",
+                "ro": "Accesibil excelent cu autobuzul; rămâneți uscat.",
+                "en": "Perfectly accessible by bus; stay dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie kontaktloses Bezahlen im Bus.",
+              "Die 'Stagecoach' App zeigt Busse in Echtzeit an.",
+              "Haupthaltstellen haben oft überdachte Wartehäuschen.",
+              "Planen Sie Pufferzeiten ein, da Regen den Verkehr bremsen kann."
+            ],
+            "hu": [
+              "Használjon érintésmentes fizetést a buszon.",
+              "A Stagecoach alkalmazás valós időben mutatja a buszokat.",
+              "A főbb megállókban fedett várók vannak.",
+              "Számoljon extra idővel, mert az eső lassíthatja a közlekedést."
+            ],
+            "ro": [
+              "Folosiți plata contactless în autobuz.",
+              "Aplicația Stagecoach arată autobuzele în timp real.",
+              "Stațiile principale au adăposturi acoperite.",
+              "Luați-vă o marjă de timp, ploaia poate încetini traficul."
+            ],
+            "en": [
+              "Use contactless payment for easy bus travel.",
+              "The Stagecoach app shows live bus arrival times.",
+              "Main bus stops usually have covered shelters.",
+              "Allow extra time as rain can slow down local traffic."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Tag startet an der Winchester Bus Station. Die kurzen Busfahrten zwischen der High Street und der Kathedrale sind ideal, um der Kälte zu entkommen. Mittags wärmen wir uns in der Kathedrale auf. Den Nachmittag nutzen wir den Bus zum Westgate und zur Great Hall, um Wege an der kalten Luft zu minimieren. Der Tag endet gemütlich mit dem ÖPNV zurück zum Startpunkt, bevor es dunkel wird.",
+            "hu": "A fagyos nap a winchesteri buszállomáson indul. A High Street és a katedrális közötti rövid buszozás ideális a hideg elől. Délben a katedrálisban melegedünk fel. Délután busszal megyünk a Westgate-hez és a Great Hall-hoz, minimalizálva a kinti tartózkodást. A nap végén tömegközlekedéssel térünk vissza a kiindulópontra, mielőtt teljesen besötétedik.",
+            "ro": "Ziua geroasă începe în autogara Winchester. Scurtele drumuri cu autobuzul între High Street și Catedrală sunt ideale pentru a scăpa de frig. La prânz ne încălzim în Catedrală. După-amiaza folosim autobuzul spre Westgate și Great Hall pentru a evita aerul rece. Ziua se încheie confortabil cu transportul public înapoi la start.",
+            "en": "A frosty day starts at Winchester Bus Station. Short bus rides between the High Street and Cathedral are ideal for escaping the cold. At midday, we warm up inside the Cathedral. In the afternoon, we use the bus to get to Westgate and the Great Hall, minimizing time in the biting air. The day ends comfortably with public transport back to the start before dark."
+          },
+          "stops": [
+            {
+              "name": "Winchester Bus Station",
+              "tip_5lang": {
+                "de": "Warm anziehen, das Warten kann im Winter kühl sein.",
+                "hu": "Öltözzön melegen, a várakozás télen hideg lehet.",
+                "ro": "Îmbrăcați-vă gros, așteptarea poate fi rece iarna.",
+                "en": "Dress warmly; waiting can be chilly in winter."
+              }
+            },
+            {
+              "name": "High Street",
+              "tip_5lang": {
+                "de": "Nur 5 Minuten Fußweg von den Hauptlinien.",
+                "hu": "Csak 5 perc séta a fővonalaktól.",
+                "ro": "La doar 5 minute de mers pe jos de liniile principale.",
+                "en": "Only a 5-minute walk from the main bus lines."
+              }
+            },
+            {
+              "name": "Winchester Cathedral",
+              "tip_5lang": {
+                "de": "Bushaltestellen in der Nähe bieten oft Windschutz.",
+                "hu": "A közeli buszmegállók gyakran védenek a széltől.",
+                "ro": "Stațiile de autobuz din apropiere oferă adesea protecție contra vântului.",
+                "en": "Nearby bus stops often provide wind cover."
+              }
+            },
+            {
+              "name": "Statue of Alfred the Great",
+              "tip_5lang": {
+                "de": "Der Broadway ist ein wichtiger Knotenpunkt für Busse.",
+                "hu": "A Broadway fontos csomópont a buszok számára.",
+                "ro": "Broadway este un nod important pentru autobuze.",
+                "en": "The Broadway is a major hub for local buses."
+              }
+            },
+            {
+              "name": "Bus to Great Hall",
+              "tip_5lang": {
+                "de": "Warme Busse sind perfekt zum kurzen Aufwärmen.",
+                "hu": "A fűtött buszok tökéletesek egy rövid felmelegedéshez.",
+                "ro": "Autobuzele încălzite sunt perfecte pentru o scurtă încălzire.",
+                "en": "Heated buses are perfect for a quick warm-up."
+              }
+            },
+            {
+              "name": "The Great Hall",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist direkt am historischen Westgate.",
+                "hu": "A megálló közvetlenül a történelmi Westgate-nél van.",
+                "ro": "Stația este chiar lângă poarta istorică Westgate.",
+                "en": "The stop is right by the historic Westgate."
+              }
+            },
+            {
+              "name": "Westgate Museum",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Haltestelle und Museum.",
+                "hu": "Rövid távolság a megálló és a múzeum között.",
+                "ro": "Distanțe scurte între stație și muzeu.",
+                "en": "Short distances between the stop and the museum."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter gut beheizt.",
+              "Prüfen Sie den Winterfahrplan online.",
+              "Achten Sie auf Glätte beim Ein- und Aussteigen.",
+              "Nutzen Sie die Zeit im Bus, um die Route im Warmen zu planen."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek.",
+              "Ellenőrizze a téli menetrendet online.",
+              "Vigyázzon a csúszós lépcsőkre le- és felszálláskor.",
+              "Használja ki a buszon töltött időt az útvonal tervezésére a melegben."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite iarna.",
+              "Verificați programul de iarnă online.",
+              "Atenție la treptele alunecoase la urcare și coborâre.",
+              "Folosiți timpul în autobuz pentru a planifica traseul la căldură."
+            ],
+            "en": [
+              "Buses are well-heated during the winter months.",
+              "Check the winter timetable online for any service changes.",
+              "Watch for ice on the bus steps when boarding or alighting.",
+              "Use the time on the bus to plan your next stop in the warmth."
+            ]
+          }
+        }
       }
     }
   }

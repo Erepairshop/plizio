@@ -386,6 +386,206 @@
           "Take your time for a stroll along the river to see the city from a different perspective.",
           "Check museum and church opening times in advance as they can vary."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am nebligen Hauptplatz, wo die Arkaden perfekten Schutz vor dem Regen bieten. Mittags ziehen wir uns in das Dolenjska-Museum zurück, um die archäologischen Schätze im Trockenen zu bewundern. Am Nachmittag bietet der Blick auf den Fluss Krka von den Brücken aus eine mystische Atmosphäre. Den Abend lassen wir in einem gemütlichen Restaurant am Breg ausklingen, während der Regen gegen die Fenster prasselt.",
+            "hu": "A nap a ködös Fő téren kezdődik, ahol az árkádok tökéletes menedéket nyújtanak az eső elől. Délben a Dolenjska Múzeumba húzódunk be, hogy szárazon csodáljuk meg a régészeti kincseket. Délután a Krka-folyó látványa a hidakról misztikus hangulatot áraszt a szemerkélő esőben. Az estét egy hangulatos Breg-parti étteremben zárjuk, miközben az eső kopog az ablakon.",
+            "ro": "Ziua începe în Piața Mare cețoasă, unde arcadele oferă adăpost perfect împotriva ploii. La prânz, ne retragem la Muzeul Dolenjska pentru a admira comorile arheologice la adăpost. După-amiaza, vederea râului Krka de pe poduri oferă o atmosferă mistică sub ploaie. Seara o petrecem într-un restaurant primitor pe Breg, ascultând ploaia bătând în geam.",
+            "en": "The day begins at the misty Main Square, where the arcades provide perfect shelter from the rain. At noon, we retreat to the Dolenjska Museum to admire archaeological treasures in the dry. In the afternoon, the view of the Krka River from the bridges offers a mystical atmosphere in the drizzle. We end the evening in a cozy restaurant at Breg, watching the rain hit the windows."
+          },
+          "stops": [
+            {
+              "name": "Main Square (Glavni trg)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die historischen Arkadengänge, um trocken zu bleiben.",
+                "hu": "Használja a történelmi árkádokat, hogy szárazon maradjon.",
+                "ro": "Folosiți arcadele istorice pentru a rămâne uscat.",
+                "en": "Use the historical arcades to stay dry while exploring."
+              }
+            },
+            {
+              "name": "Town Hall (Rotovž)",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp unter dem Vordach für ein Foto.",
+                "hu": "Rövid megálló az előtető alatt egy fotó erejéig.",
+                "ro": "O scurtă oprire sub acoperiș pentru o fotografie.",
+                "en": "A quick stop under the overhang for a photo."
+              }
+            },
+            {
+              "name": "Chapter Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Bewundern Sie das Altarbild im Inneren, während es draußen regnet.",
+                "hu": "Csodálja meg a belső oltárképet, amíg kint esik.",
+                "ro": "Admirați pictura altarului în timp ce afară plouă.",
+                "en": "Admire the altarpiece inside while it rains outside."
+              }
+            },
+            {
+              "name": "Dolenjska Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort für eine lange, trockene Pause mit Kultur.",
+                "hu": "Ideális hely egy hosszú, száraz, kulturális szünethez.",
+                "ro": "Locul ideal pentru o pauză lungă și uscată cu cultură.",
+                "en": "Ideal place for a long, dry break with culture."
+              }
+            },
+            {
+              "name": "Breg",
+              "tip_5lang": {
+                "de": "Die bunten Häuser spiegeln sich wunderschön im nassen Asphalt.",
+                "hu": "A színes házak gyönyörűen tükröződnek a vizes aszfalton.",
+                "ro": "Casele colorate se oglindesc frumos în asfaltul umed.",
+                "en": "The colorful houses reflect beautifully on the wet pavement."
+              }
+            },
+            {
+              "name": "Kandija Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht, der Metallboden der Brücke kann bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a híd fém padlója nedvesen csúszós lehet.",
+                "ro": "Atenție, podeaua metalică a podului poate fi alunecoasă.",
+                "en": "Caution, the metal floor of the bridge can be slippery when wet."
+              }
+            },
+            {
+              "name": "Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Die Bibliothek ist ein ruhiger Zufluchtsort vor dem Wetter.",
+                "hu": "A könyvtár csendes menedék az időjárás elől.",
+                "ro": "Biblioteca este un refugiu liniștit în fața vremii.",
+                "en": "The library is a quiet sanctuary from the weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Pflastersteine Pfützen bilden können.",
+              "Das Dolenjska-Museum hat Schließfächer für nasse Regenschirme.",
+              "Die Arkaden am Hauptplatz sind der beste Ort für eine Kaffeepause im Freien.",
+              "Die Brücken bieten tolle Fotomotive mit dem aufsteigenden Flussnebel."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskakövön tócsák alakulhatnak ki.",
+              "A Dolenjska Múzeumban vannak szekrények a vizes esernyőknek.",
+              "A Fő tér árkádjai a legjobb helyek egy szabadtéri kávézáshoz esőben is.",
+              "A hidak nagyszerű fotótémákat kínálnak a felszálló folyami köddel."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece se pot forma bălți pe pavaj.",
+              "Muzeul Dolenjska are dulapuri pentru umbrelele ude.",
+              "Arcadele din Piața Mare sunt cel mai bun loc pentru o cafea în aer liber.",
+              "Podurile oferă cadre foto deosebite cu ceața care se ridică de pe râu."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles can form on the cobblestones.",
+              "The Dolenjska Museum has lockers for wet umbrellas.",
+              "The arcades in the Main Square are the best spots for an outdoor coffee break.",
+              "The bridges offer great photo opportunities with the rising river mist."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am klaren Wintermorgen glitzert der Frost auf dem Hauptplatz von Novo Mesto. Mittags wärmen wir uns im beheizten Museum bei den keltischen Artefakten auf. Da die Sonne bereits um 16:30 Uhr untergeht, genießen wir das frühe Dämmerlicht am Flussufer bei einem heißen Getränk. Der Abend wird durch die festliche Beleuchtung der Altstadt besonders stimmungsvoll.",
+            "hu": "A tiszta téli reggelen zúzmara csillog Novo Mesto Fő terén. Délben a fűtött múzeumban melegszünk fel a kelta műtárgyak között. Mivel a nap már 16:30-kor lemegy, a kora esti szürkületet a folyóparton élvezzük egy forró itallal. Az este a fénnyel díszített óvárosban válik igazán hangulatossá.",
+            "ro": "În dimineața senină de iarnă, bruma sclipește în Piața Mare din Novo Mesto. La prânz, ne încălzim în muzeul încălzit printre artefactele celtice. Deoarece soarele apune deja la 16:30, ne bucurăm de amurgul timpuriu pe malul râului cu o băutură caldă. Seara devine deosebit de atmosferică datorită iluminatului festiv din centrul vechi.",
+            "en": "On a clear winter morning, frost glitters on Novo Mesto's Main Square. At noon, we warm up in the heated museum among Celtic artifacts. Since the sun sets as early as 16:30, we enjoy the early twilight by the riverbank with a hot drink. The evening becomes especially atmospheric with the festive lighting of the old town."
+          },
+          "stops": [
+            {
+              "name": "Main Square (Glavni trg)",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Stille und einen heißen Tee.",
+                "hu": "Élvezze a téli csendet és egy forró teát.",
+                "ro": "Bucurați-vă de liniștea iernii și de un ceai fierbinte.",
+                "en": "Enjoy the winter silence and a hot tea in the square."
+              }
+            },
+            {
+              "name": "Town Hall (Rotovž)",
+              "tip_5lang": {
+                "de": "Die Fassade sieht bei tiefstehender Wintersonne prächtig aus.",
+                "hu": "A homlokzat pompásan mutat az alacsonyan járó téli napsütésben.",
+                "ro": "Fațada arată splendid în lumina joasă a soarelui de iarnă.",
+                "en": "The facade looks splendid in the low winter sun."
+              }
+            },
+            {
+              "name": "Chapter Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Ein warmer Ort für stille Besinnung.",
+                "hu": "Meleg hely a csendes elmélyüléshez.",
+                "ro": "Un loc cald pentru meditație tăcută.",
+                "en": "A warm place for quiet contemplation."
+              }
+            },
+            {
+              "name": "Dolenjska Museum",
+              "tip_5lang": {
+                "de": "Perfekt temperierte Galerien zum Aufwärmen.",
+                "hu": "Tökéletesen fűtött galériák a felmelegedéshez.",
+                "ro": "Galerii cu temperatură perfectă pentru a vă încălzi.",
+                "en": "Perfectly heated galleries to warm up during the walk."
+              }
+            },
+            {
+              "name": "Breg",
+              "tip_5lang": {
+                "de": "Die entlaubten Bäume geben den Blick auf die Flussarchitektur frei.",
+                "hu": "A lombmentes fák szabad utat engednek a folyóparti építészetnek.",
+                "ro": "Copacii desfrunziți permit o vedere clară asupra arhitecturii.",
+                "en": "The leafless trees reveal the river architecture clearly."
+              }
+            },
+            {
+              "name": "Kandija Bridge",
+              "tip_5lang": {
+                "de": "Achtung vor eisigem Wind auf der offenen Brücke.",
+                "hu": "Vigyázzon a jeges széllel a nyitott hídon.",
+                "ro": "Atenție la vântul înghețat pe podul deschis.",
+                "en": "Watch out for icy wind on the exposed bridge."
+              }
+            },
+            {
+              "name": "Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Weihnachtskrippe, falls Saison ist.",
+                "hu": "Látogassa meg a betlehemet, ha szezon van.",
+                "ro": "Vizitați ieslea de Crăciun, dacă este sezonul.",
+                "en": "Visit the nativity scene if it is the season."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 16:30 Uhr unter, planen Sie Außenfotos davor.",
+              "Tragen Sie Handschuhe, besonders für die Flussüberquerungen.",
+              "In vielen Cafés am Platz gibt es exzellente heiße Schokolade.",
+              "Die Museen sind gut beheizt und bieten eine Pause von der Kälte."
+            ],
+            "hu": [
+              "A nap 16:30 körül nyugszik, a kinti fotókat tervezze korábbra.",
+              "Viseljen kesztyűt, különösen a folyón való átkeléskor.",
+              "A tér számos kávézójában kiváló forró csokoládé kapható.",
+              "A múzeumok jól fűtöttek és menedéket nyújtanak a hideg elől."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 16:30, planificați pozele înainte.",
+              "Purtați mănuși, mai ales pentru traversările râului.",
+              "Multe cafenele din piață servesc ciocolată caldă excelentă.",
+              "Muzeele sunt bine încălzite și oferă o pauză de la frig."
+            ],
+            "en": [
+              "The sun sets around 16:30, plan outdoor photos before then.",
+              "Wear gloves, especially for the river crossings.",
+              "Many cafes in the square serve excellent hot chocolate.",
+              "The museums are well heated and offer a break from the cold."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +966,206 @@
           "There are several bike paths along the Krka river, providing a scenic and safe ride.",
           "Always lock your bike when leaving it unattended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist Novo Mesto auf zwei Rädern erkundbar, wenn man die asphaltierten Wege nutzt. Wir starten vorsichtig am Hauptplatz und radeln über die Kandija-Brücke zum Kloster. Mittags parken wir die Räder sicher am Museum für einen ausgiebigen Besuch. Die Rückfahrt entlang der Krka bietet erfrischende, wenn auch nasse Ausblicke auf das grüne Ufer.",
+            "hu": "Az eső ellenére Novo Mesto felfedezhető két keréken, ha az aszfaltozott utakat választjuk. Óvatosan indulunk a Fő térről, és a Kandija-hídon át tekerünk a kolostorig. Délben biztonságban leparkoljuk a bringákat a múzeumnál egy alapos látogatásra. A visszaút a Krka mentén frissítő, bár vizes kilátást nyújt a zöld partra.",
+            "ro": "În ciuda ploii, Novo Mesto poate fi explorat pe două roți dacă folosiți potecile asfaltate. Pornim cu prudență din Piața Mare și pedalăm peste podul Kandija spre mănăstire. La prânz, parcăm bicicletele în siguranță la muzeu pentru o vizită prelungită. Întoarcerea de-a lungul Krka oferă vederi răcoritoare, deși umede.",
+            "en": "Despite the rain, Novo Mesto is explorable on two wheels if you stick to paved paths. We start cautiously at the Main Square and cycle over Kandija Bridge to the monastery. At noon, we park the bikes safely at the museum for an extensive visit. The ride back along the Krka offers refreshing, if wet, views of the green banks."
+          },
+          "stops": [
+            {
+              "name": "Main Square (Glavni trg)",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster beim Anfahren.",
+                "hu": "Vigyázzon a vizes macskakövön az induláskor.",
+                "ro": "Atenție pe pavajul umed la plecare.",
+                "en": "Be careful on the wet cobblestones when starting off."
+              }
+            },
+            {
+              "name": "Kandija Bridge",
+              "tip_5lang": {
+                "de": "Halten Sie den Lenker bei Windböen über dem Fluss fest.",
+                "hu": "Tartsa erősen a kormányt a folyó feletti széllökésekben.",
+                "ro": "Țineți bine ghidonul la rafalele de vânt de peste râu.",
+                "en": "Hold the handlebars firmly during wind gusts over the river."
+              }
+            },
+            {
+              "name": "Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Kerékpártárolók a bejárat közelében találhatók.",
+                "ro": "Suporturile de biciclete se află lângă intrare.",
+                "en": "Bike racks are located near the entrance."
+              }
+            },
+            {
+              "name": "Dolenjska Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für den Museumsbesuch.",
+                "hu": "Használja ki az esőszünetet a múzeumlátogatásra.",
+                "ro": "Folosiți pauza de ploaie pentru vizitarea muzeului.",
+                "en": "Take advantage of the rain break for the museum visit."
+              }
+            },
+            {
+              "name": "Chapter Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Kurzer, steiler Anstieg – bei Nässe im Sitzen fahren.",
+                "hu": "Rövid, meredek emelkedő – nedves úton ülve tekerjen.",
+                "ro": "Urcare scurtă și abruptă – pedalați stând pe șa dacă e ud.",
+                "en": "Short, steep climb – pedal while seated if it's wet."
+              }
+            },
+            {
+              "name": "Breg & Lunch",
+              "tip_5lang": {
+                "de": "Überdachte Plätze für Räder oft bei lokalen Cafés.",
+                "hu": "Fedett kerékpártárolók gyakran vannak a helyi kávézóknál.",
+                "ro": "Locuri acoperite pentru biciclete la cafenelele locale.",
+                "en": "Covered spots for bikes are often found at local cafes."
+              }
+            },
+            {
+              "name": "Grm Castle",
+              "tip_5lang": {
+                "de": "Der Weg zum Schloss kann rutschiges Laub enthalten.",
+                "hu": "A kastélyhoz vezető úton csúszós levelek lehetnek.",
+                "ro": "Drumul spre castel poate avea frunze alunecoase.",
+                "en": "The path to the castle may contain slippery leaves."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie ein vollständiges Regen-Set (Hose und Jacke).",
+              "Prüfen Sie Ihre Bremsen, da der Bremsweg auf nassem Asphalt länger ist.",
+              "Vermeiden Sie schnelle Kurven auf dem Kopfsteinpflaster der Altstadt.",
+              "Ein kleiner Lappen zum Abwischen des Sattels ist sehr nützlich."
+            ],
+            "hu": [
+              "Viseljen teljes esőruházatot (nadrág és kabát).",
+              "Ellenőrizze a fékeket, mert vizes aszfalton hosszabb a féktáv.",
+              "Kerülje a hirtelen kanyarodást az óváros macskakövein.",
+              "Egy kis rongy a nyereg letörléséhez nagyon hasznos."
+            ],
+            "ro": [
+              "Purtați un set complet de ploaie (pantaloni și jachetă).",
+              "Verificați frânele, distanța de frânare e mai mare pe asfalt ud.",
+              "Evitați virajele strânse pe pavajul din centrul vechi.",
+              "O cârpă mică pentru a șterge șaua este foarte utilă."
+            ],
+            "en": [
+              "Wear a full rain set (trousers and jacket).",
+              "Check your brakes as the braking distance is longer on wet asphalt.",
+              "Avoid sharp turns on the old town cobblestones.",
+              "A small rag to wipe the saddle is very useful."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour per Rad erfordert warme Kleidung, bietet aber klare Ausblicke. Wir starten am frostigen Hauptplatz und radeln zügig zum Grm-Schloss, um in Bewegung zu bleiben. Die Kälte der Krka-Brücken wird durch die Wärme des Museumsbesuchs ausgeglichen. Zum Abschluss genießen wir die blaue Stunde auf dem Fahrrad, bevor die Dunkelheit die beleuchteten Gassen übernimmt.",
+            "hu": "A téli kerékpáros túra meleg ruhát igényel, de tiszta kilátást ígér. A fagyos Fő térről indulunk, és tempósan tekerünk a Grm-kastélyhoz, hogy mozgásban maradjunk. A Krka-hidak hidegét a múzeumlátogatás melege ellensúlyozza. Végezetül a kerékpáron élvezzük a kék órát, mielőtt a sötétség átveszi az uralmat a kivilágított utcákon.",
+            "ro": "Un tur de iarnă cu bicicleta necesită haine calde, dar oferă vederi clare. Pornim din Piața Mare înghețată și pedalăm rapid spre Castelul Grm pentru a ne menține în mișcare. Frigul de pe podurile Krka este compensat de căldura vizitei la muzeu. La final, ne bucurăm de ora albastră pe bicicletă înainte ca întunericul să cuprindă străzile iluminate.",
+            "en": "A winter bike tour requires warm clothing but offers clear views. We start at the frosty Main Square and cycle briskly to Grm Castle to keep moving. The cold of the Krka bridges is offset by the warmth of the museum visit. Finally, we enjoy the blue hour on the bike before darkness takes over the illuminated streets."
+          },
+          "stops": [
+            {
+              "name": "Main Square (Glavni trg)",
+              "tip_5lang": {
+                "de": "Starten Sie langsam, um die Gelenke aufzuwärmen.",
+                "hu": "Kezdje lassan, hogy bemelegedjenek az ízületei.",
+                "ro": "Începeți încet pentru a vă încălzi articulațiile.",
+                "en": "Start slowly to warm up your joints."
+              }
+            },
+            {
+              "name": "Kandija Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht vor Bodenfrost auf der Brückenplatte.",
+                "hu": "Vigyázzon a talajmenti fagyra a hídon.",
+                "ro": "Atenție la înghețul de pe suprafața podului.",
+                "en": "Watch out for black ice on the bridge deck."
+              }
+            },
+            {
+              "name": "Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Kurze Pause, damit der Körper nicht auskühlt.",
+                "hu": "Rövid szünet, hogy a test ne hűljön ki.",
+                "ro": "Pauză scurtă pentru ca corpul să nu se răcească.",
+                "en": "Keep the break short so your body doesn't cool down."
+              }
+            },
+            {
+              "name": "Dolenjska Museum",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, die Handschuhe zu trocknen.",
+                "hu": "Jó alkalom a kesztyűk megszárítására.",
+                "ro": "O bună ocazie de a vă usca mănușile.",
+                "en": "A good opportunity to dry your gloves inside."
+              }
+            },
+            {
+              "name": "Chapter Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist oft geräumt, aber Vorsicht vor Eis.",
+                "hu": "A parkoló gyakran takarított, de vigyázzon a jéggel.",
+                "ro": "Parcarea este deszăpezită, dar atenție la gheață.",
+                "en": "The parking area is often cleared, but watch for ice."
+              }
+            },
+            {
+              "name": "Breg & Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Café mit Sichtkontakt zu Ihrem Rad.",
+                "hu": "Keressen olyan kávézót, ahonnan látja a kerékpárját.",
+                "ro": "Căutați o cafenea cu contact vizual cu bicicleta.",
+                "en": "Find a cafe with a view of your bike."
+              }
+            },
+            {
+              "name": "Grm Castle",
+              "tip_5lang": {
+                "de": "Belohnung durch weite Winterfernsticht vom Hügel.",
+                "hu": "Jutalom a dombról nyíló távoli téli kilátás.",
+                "ro": "Răsplată cu o vedere panoramică de iarnă de pe deal.",
+                "en": "Reward yourself with long winter views from the hill."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schichten und winddichte Frontbekleidung.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert.",
+              "Verwenden Sie im Winter ein Öl für nasse Bedingungen an der Kette.",
+              "Warme Einlegesohlen helfen gegen die Kälte von den Pedalen."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen, szélálló felsőruházattal.",
+              "Győződjön meg róla, hogy a kerékpáros lámpák működnek.",
+              "Télen használjon nedves körülményekhez való láncolajat.",
+              "A meleg talpbetétek segítenek a pedálok felőli hideg ellen."
+            ],
+            "ro": [
+              "Purtați straturi de haine și protecție anti-vânt.",
+              "Asigurați-vă că luminile bicicletei funcționează.",
+              "Folosiți un ulei de lanț pentru condiții umede iarna.",
+              "Branțurile termice ajută împotriva frigului de la pedale."
+            ],
+            "en": [
+              "Wear layers and windproof front clothing.",
+              "Ensure your bike lights are working for the early sunset.",
+              "Use wet-condition chain lube during the winter months.",
+              "Thermal insoles help against the cold from the pedals."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1122,6 +1522,188 @@
           "Be mindful of parking restrictions and fees, especially near the old town.",
           "Plan your route in advance to avoid driving in the narrow city center streets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Novo Mesto auch bei starkem Regen komfortabel. Wir parken zentral und erkunden die Altstadt unter den Arkaden. Der Besuch im Dolenjska-Museum ist das Highlight des Mittags, gefolgt von einer kurzen Fahrt zum Grm-Schloss. Der Tag endet sicher und trocken mit einer Fahrt entlang des Flusses, bevor wir zum Abendessen einkehren.",
+            "hu": "Autóval Novo Mesto még heves esőben is kényelmes. Központilag parkolunk, és az árkádok alatt fedezzük fel az óvárost. A Dolenjska Múzeum a dél délutáni fénypontja, majd egy rövid autózás következik a Grm-kastélyhoz. A nap biztonságban és szárazon zárul egy folyóparti kocsikázással a vacsora előtt.",
+            "ro": "Cu mașina, Novo Mesto este confortabil chiar și pe ploaie abundentă. Parcăm central și explorăm centrul vechi sub arcade. Vizita la Muzeul Dolenjska este punctul culminant al prânzului, urmată de o scurtă călătorie spre Castelul Grm. Ziua se încheie în siguranță și uscat cu o plimbare de-a lungul râului.",
+            "en": "By car, Novo Mesto is comfortable even in heavy rain. We park centrally and explore the old town under the arcades. The visit to the Dolenjska Museum is the highlight of noon, followed by a short drive to Grm Castle. The day ends safely and dry with a drive along the river before heading to dinner."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Old Town Core",
+              "tip_5lang": {
+                "de": "Parkhaus am Hauptplatz nutzen für direkten Zugang.",
+                "hu": "Használja a Fő téri parkolóházat a közvetlen bejutáshoz.",
+                "ro": "Folosiți parcarea de la Piața Mare pentru acces direct.",
+                "en": "Use the parking garage at Main Square for direct access."
+              }
+            },
+            {
+              "name": "Town Hall & Main Square",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten unter Arkaden.",
+                "hu": "Rövid utak a látnivalók között az árkádok alatt.",
+                "ro": "Distanțe scurte între atracții sub arcade.",
+                "en": "Short distances between sights under the arcades."
+              }
+            },
+            {
+              "name": "Chapter Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor der Kirche oft verfügbar.",
+                "hu": "Gyakran van szabad parkoló közvetlenül a templom előtt.",
+                "ro": "Locuri de parcare disponibile adesea chiar în fața bisericii.",
+                "en": "Parking is often available directly in front of the church."
+              }
+            },
+            {
+              "name": "Dolenjska Museum & Lunch",
+              "tip_5lang": {
+                "de": "Das Museum hat einen eigenen Parkplatz für Besucher.",
+                "hu": "A múzeumnak saját parkolója van a látogatók számára.",
+                "ro": "Muzeul are propria parcare pentru vizitatori.",
+                "en": "The museum has its own parking lot for visitors."
+              }
+            },
+            {
+              "name": "Cluster 2: Grm Castle",
+              "tip_5lang": {
+                "de": "Bequeme Anfahrt bis zum Schlosspark möglich.",
+                "hu": "Kényelmesen megközelíthető autóval a kastélyparkig.",
+                "ro": "Acces ușor cu mașina până la parcul castelului.",
+                "en": "Easy access by car right up to the castle park."
+              }
+            },
+            {
+              "name": "Kandija Bridge & Riverbank",
+              "tip_5lang": {
+                "de": "Gute Fotopunkte aus dem Auto bei Regen.",
+                "hu": "Jó fotópontok az autóból esőben is.",
+                "ro": "Puncte foto bune direct din mașină pe ploaie.",
+                "en": "Good photo opportunities from the car during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser, um das Auto trocken zu verlassen.",
+              "Bei Regen kann der Verkehr in den engen Gassen langsamer sein.",
+              "Halten Sie einen Regenschirm im Auto für die kurzen Wege bereit.",
+              "Die Route zwischen den Clustern ist kurz und regensicher."
+            ],
+            "hu": [
+              "Használja a parkolóházakat, hogy szárazon szálljon ki.",
+              "Esőben a forgalom lassabb lehet a szűk utcákban.",
+              "Tartson esernyőt az autóban a rövid sétákhoz.",
+              "A klaszterek közötti útvonal rövid és esőbiztos."
+            ],
+            "ro": [
+              "Folosiți parcările etajate pentru a ieși uscat din mașină.",
+              "Traficul poate fi mai lent pe străzile înguste când plouă.",
+              "Țineți o umbrelă în mașină pentru distanțele scurte.",
+              "Ruta între clustere este scurtă și sigură pe ploaie."
+            ],
+            "en": [
+              "Use parking garages to exit the car in the dry.",
+              "Traffic may be slower in narrow streets during rain.",
+              "Keep an umbrella in the car for short walks between sights.",
+              "The route between clusters is short and weather-proof."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Winterfahrt durch Novo Mesto zeigt die Stadt von ihrer glitzernden Seite. Wir starten am belebten Hauptplatz und nutzen die kurzen Wege zwischen den warmen Clustern. Das Dolenjska-Museum bietet ein langes, gemütliches Mittagsprogramm. Wenn es dunkel wird, fahren wir zum Grm-Schloss für einen Panoramablick auf die beleuchtete Stadt, bevor wir den Tag im Zentrum beenden.",
+            "hu": "A téli autózás Novo Mestóban a város csillogó arcát mutatja meg. A forgalmas Fő téren kezdünk, és kihasználjuk a rövid utakat a fűtött helyszínek között. A Dolenjska Múzeum hosszú, kényelmes déli programot kínál. Sötétedéskor a Grm-kastélyhoz hajtunk a kivilágított város panorámájáért, mielőtt a központban fejeznénk be a napot.",
+            "ro": "O plimbare de iarnă prin Novo Mesto arată latura strălucitoare a orașului. Pornim din Piața Mare animată și profităm de distanțele scurte între punctele calde. Muzeul Dolenjska oferă un program de prânz lung și confortabil. Când se întunecă, mergem la Castelul Grm pentru o vedere panoramică asupra orașului iluminat.",
+            "en": "A winter drive through Novo Mesto reveals the city's glittering side. We start at the bustling Main Square and take advantage of short drives between warm stops. The Dolenjska Museum offers a long, cozy midday program. As it gets dark, we drive to Grm Castle for a panoramic view of the lit-up city before ending the day downtown."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Old Town Core",
+              "tip_5lang": {
+                "de": "Vorgewärmtes Auto für den nächsten Stopp bereit halten.",
+                "hu": "Tartsa készenlétben az előmelegített autót a következő megállóhoz.",
+                "ro": "Păstrați mașina încălzită pentru următoarea oprire.",
+                "en": "Keep the car pre-warmed for the next stop."
+              }
+            },
+            {
+              "name": "Town Hall & Main Square",
+              "tip_5lang": {
+                "de": "Die Weihnachtsbeleuchtung ist vom Auto aus gut sichtbar.",
+                "hu": "Az ünnepi kivilágítás jól látható az autóból.",
+                "ro": "Iluminatul de sărbători este clar vizibil din mașină.",
+                "en": "Christmas lights are clearly visible from the car."
+              }
+            },
+            {
+              "name": "Chapter Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisplatten auf dem Hügelparkplatz.",
+                "hu": "Vigyázzon a jégfoltokra a domboldali parkolóban.",
+                "ro": "Atenție la porțiunile de gheață din parcarea de pe deal.",
+                "en": "Watch for icy patches in the hilltop parking area."
+              }
+            },
+            {
+              "name": "Dolenjska Museum & Lunch",
+              "tip_5lang": {
+                "de": "Längere Aufwärmpause in den Ausstellungsräumen.",
+                "hu": "Hosszabb melegedő szünet a kiállítótermekben.",
+                "ro": "O pauză lungă de încălzire în sălile de expoziție.",
+                "en": "A longer warm-up break in the exhibition rooms."
+              }
+            },
+            {
+              "name": "Cluster 2: Grm Castle",
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Schnee steil wirken – Winterreifen Pflicht.",
+                "hu": "A feljáró meredeknek tűnhet hóban – téli gumi kötelező.",
+                "ro": "Urcarea poate părea abruptă pe zăpadă – anvelope de iarnă obligatorii.",
+                "en": "The climb may seem steep in snow – winter tires mandatory."
+              }
+            },
+            {
+              "name": "Kandija Bridge & Riverbank",
+              "tip_5lang": {
+                "de": "Parken am Ufer für einen kurzen, kalten Fotostopp.",
+                "hu": "Parkolás a parton egy rövid, hideg fotómegállóhoz.",
+                "ro": "Parcare pe mal pentru o scurtă oprire foto la rece.",
+                "en": "Park by the bank for a quick, cold photo stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Glatteis in den schattigen Gassen am Fluss.",
+              "Die Parkhäuser sind frostfrei und schonen die Batterie.",
+              "Planen Sie die Fahrt zum Grm-Schloss für die goldene Stunde.",
+              "Führen Sie einen Eiskratzer und Handfeger mit sich."
+            ],
+            "hu": [
+              "Ügyeljen a jegesedésre a folyóparti árnyékos utcákban.",
+              "A parkolóházak fagymentesek és kímélik az akkumulátort.",
+              "A Grm-kastélyhoz vezető utat az aranyórára időzítse.",
+              "Legyen önnél jégkaparó és kefe."
+            ],
+            "ro": [
+              "Atenție la gheață pe străzile umbrite de lângă râu.",
+              "Parcările etajate sunt ferite de îngheț și protejează bateria.",
+              "Planificați drumul spre Castelul Grm pentru ora de aur.",
+              "Aveți la îndemână o racletă și o perie pentru zăpadă."
+            ],
+            "en": [
+              "Watch for black ice in the shaded streets near the river.",
+              "Parking garages are frost-free and better for the car battery.",
+              "Plan the drive to Grm Castle for the golden hour.",
+              "Keep an ice scraper and brush handy in the vehicle."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1478,6 +2060,188 @@
           "Most bus routes run through the city center, making it easy to switch lines.",
           "Be prepared to walk; transit gets you close, but the best discoveries are on foot."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Bus verbindet die wichtigsten Punkte in Novo Mesto regensicher. Wir starten am Hauptplatz und nutzen den Stadtbus zum Museum, um den Gängen im Regen zu entgehen. Mittags bietet das Museum viel Zeit im Trockenen. Nachmittags erkunden wir das Kloster und den Breg-Bereich, wobei wir die Haltestellen strategisch zur Minimierung der Zeit im Regen nutzen.",
+            "hu": "A busz esőbiztosan köti össze Novo Mesto legfontosabb pontjait. A Fő térről indulunk, és a városi busszal megyünk a múzeumig, elkerülve az esős sétát. Délben a múzeum bőséges időt kínál szárazon. Délután a kolostort és a Breg környékét fedezzük fel, a buszmegállókat stratégiailag használva az esőben töltött idő minimalizálására.",
+            "ro": "Autobuzul conectează punctele cheie din Novo Mesto ferit de ploaie. Pornim din Piața Mare și folosim autobuzul local spre muzeu pentru a evita mersul prin ploaie. La prânz, muzeul oferă mult timp la adăpost. După-amiaza explorăm mănăstirea și zona Breg, folosind stațiile strategic pentru a minimiza timpul în ploaie.",
+            "en": "The bus connects Novo Mesto's key points in a rain-proof way. We start at the Main Square and take the city bus to the museum to avoid walking in the rain. At noon, the museum offers plenty of time in the dry. In the afternoon, we explore the monastery and Breg area, using bus stops strategically to minimize time spent in the rain."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Main Square & Surroundings",
+              "tip_5lang": {
+                "de": "Zentrale Bushaltestelle bietet Schutz vor Regen.",
+                "hu": "A központi buszmegálló védelmet nyújt az eső ellen.",
+                "ro": "Stația centrală de autobuz oferă protecție contra ploii.",
+                "en": "The central bus stop provides shelter from the rain."
+              }
+            },
+            {
+              "name": "Chapter Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der nächsten Haltestelle nötig.",
+                "hu": "Rövid séta szükséges a legközelebbi megállótól.",
+                "ro": "Scurtă plimbare necesară de la cea mai apropiată stație.",
+                "en": "A short walk is required from the nearest stop."
+              }
+            },
+            {
+              "name": "Dolenjska Museum",
+              "tip_5lang": {
+                "de": "Haltestelle fast direkt vor dem Museumseingang.",
+                "hu": "A megálló szinte közvetlenül a múzeumbemenet előtt van.",
+                "ro": "Stație aproape direct în fața intrării muzeului.",
+                "en": "The stop is almost directly in front of the museum entrance."
+              }
+            },
+            {
+              "name": "Lunch at Breg",
+              "tip_5lang": {
+                "de": "Viele Restaurants sind nur wenige Schritte vom Bus entfernt.",
+                "hu": "Sok étterem csak pár lépésre van a busztól.",
+                "ro": "Multe restaurante sunt la doar câțiva pași de autobuz.",
+                "en": "Many restaurants are just a few steps from the bus stop."
+              }
+            },
+            {
+              "name": "Cluster 2: Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um die Steigung trocken zu überwinden.",
+                "hu": "Használja a buszt, hogy szárazon jusson fel az emelkedőn.",
+                "ro": "Folosiți autobuzul pentru a urca panta la uscat.",
+                "en": "Use the bus to overcome the incline in the dry."
+              }
+            },
+            {
+              "name": "Kandija Bridge",
+              "tip_5lang": {
+                "de": "Blick auf den Fluss direkt aus dem Busfenster.",
+                "hu": "Kilátás a folyóra közvetlenül a busz ablakából.",
+                "ro": "Vedere asupra râului direct de la fereastra autobuzului.",
+                "en": "View of the river directly from the bus window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan online (LPP Novo Mesto).",
+              "Kaufen Sie Tickets im Voraus oder beim Fahrer.",
+              "Die Haltestellen in der Altstadt sind oft überdacht.",
+              "Verwenden Sie die 'Arriva' App für Echtzeit-Informationen."
+            ],
+            "hu": [
+              "Ellenőrizze a buszmenetrendet online (LPP Novo Mesto).",
+              "Vegyen jegyet előre vagy a sofőrnél.",
+              "Az óvárosi megállók gyakran fedettek.",
+              "Használja az 'Arriva' alkalmazást a valós idejű adatokhoz."
+            ],
+            "ro": [
+              "Verificați programul autobuzelor online (LPP Novo Mesto).",
+              "Cumpărați bilete în avans sau de la șofer.",
+              "Stațiile din centrul vechi sunt adesea acoperite.",
+              "Folosiți aplicația 'Arriva' pentru informații în timp real."
+            ],
+            "en": [
+              "Check the bus schedule online (LPP Novo Mesto).",
+              "Buy tickets in advance or from the driver.",
+              "Bus stops in the old town often have shelters.",
+              "Use the 'Arriva' app for real-time transit information."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Stadtbus ist im Winter die wärmste Art, Novo Mesto zu sehen. Wir nutzen die geheizten Busse für den Transfer zwischen den historischen Sehenswürdigkeiten. Am Nachmittag bringt uns der Transit sicher zum Kandija-Bereich, während wir die Aussicht auf die verschneiten Ufer genießen. Zum Abschluss führt die Fahrt durch die hell erleuchtete Innenstadt zurück zum Ausgangspunkt.",
+            "hu": "A városi busz télen a legmelegebb módja Novo Mesto felfedezésének. A fűtött buszokat használjuk a történelmi látnivalók közötti közlekedéshez. Délután a tömegközlekedés biztonságosan visz minket a Kandija negyedbe, miközben a havas folyópartot csodáljuk. Végül az út a fényesen kivilágított belvároson keresztül vezet vissza a kiindulópontig.",
+            "ro": "Autobuzul local este cea mai călduroasă modalitate de a vedea Novo Mesto iarna. Folosim autobuzele încălzite pentru transferul între atracțiile istorice. După-amiaza, tranzitul ne duce în siguranță spre zona Kandija, în timp ce admirăm malurile înzăpezite. La final, călătoria trece prin centrul luminat înapoi la punctul de pornire.",
+            "en": "The city bus is the warmest way to see Novo Mesto in winter. We use the heated buses for transfers between historical sights. In the afternoon, transit takes us safely to the Kandija area while we enjoy views of the snowy banks. To conclude, the ride goes through the brightly lit city center back to the starting point."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Main Square & Surroundings",
+              "tip_5lang": {
+                "de": "Holen Sie sich einen Kaffee, während Sie auf den Bus warten.",
+                "hu": "Vegyen egy kávét, amíg a buszra vár.",
+                "ro": "Luați o cafea în timp ce așteptați autobuzul.",
+                "en": "Get a coffee while waiting for the bus in the square."
+              }
+            },
+            {
+              "name": "Chapter Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Kurzer, aber frischer Spaziergang bergauf zur Kirche.",
+                "hu": "Rövid, de friss séta felfelé a templomig.",
+                "ro": "Plimbare scurtă, dar răcoroasă, la deal spre biserică.",
+                "en": "A short but brisk walk uphill to the church."
+              }
+            },
+            {
+              "name": "Dolenjska Museum",
+              "tip_5lang": {
+                "de": "Museumsbesuch perfekt zum Aufwärmen zwischen Busfahrten.",
+                "hu": "Múzeumlátogatás: tökéletes felmelegedés két buszút között.",
+                "ro": "Vizita la muzeu este perfectă pentru a vă încălzi între autobuze.",
+                "en": "Museum visit is perfect for warming up between bus rides."
+              }
+            },
+            {
+              "name": "Lunch at Breg",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den gemütlichen Gaststuben am Fluss auf.",
+                "hu": "Melegedjen fel a folyóparti hangulatos éttermekben.",
+                "ro": "Încălziți-vă în localurile primitoare de lângă râu.",
+                "en": "Warm up in the cozy dining rooms by the river."
+              }
+            },
+            {
+              "name": "Cluster 2: Franciscan Monastery",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt am Fuße des Klosterhügels.",
+                "hu": "A busz közvetlenül a kolostordomb lábánál áll meg.",
+                "ro": "Autobuzul oprește chiar la baza dealului mănăstirii.",
+                "en": "The bus stops right at the foot of the monastery hill."
+              }
+            },
+            {
+              "name": "Kandija Bridge",
+              "tip_5lang": {
+                "de": "Beobachten Sie das Treiben auf der Brücke aus dem warmen Bus.",
+                "hu": "Figyelje a híd nyüzsgését a meleg buszból.",
+                "ro": "Urmăriți agitația de pe pod din autobuzul cald.",
+                "en": "Watch the bridge activity from the warm bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter gut beheizt.",
+              "Achten Sie auf geänderte Fahrpläne an Feiertagen.",
+              "Die Wartezeiten sind kurz, aber Handschuhe sind ratsam.",
+              "Abends sind die Busse weniger frequentiert, planen Sie voraus."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek.",
+              "Ügyeljen az ünnepi menetrendváltozásokra.",
+              "A várakozási idő rövid, de a kesztyű ajánlott.",
+              "Este a buszok ritkábban járnak, tervezzen előre."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite iarna.",
+              "Atenție la orarele modificate în timpul sărbătorilor.",
+              "Timpii de așteptare sunt scurți, dar mănușile sunt recomandate.",
+              "Seara autobuzele circulă mai rar, planificați din timp."
+            ],
+            "en": [
+              "Buses are well heated during the winter months.",
+              "Watch for modified schedules during holiday periods.",
+              "Waiting times are short, but gloves are still recommended.",
+              "Buses run less frequently in the evening, so plan ahead."
+            ]
+          }
+        }
       }
     }
   }

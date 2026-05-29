@@ -343,6 +343,206 @@
           "Most central sights are within easy walking distance of each other.",
           "Always have some cash (Serbian Dinars) on hand for small purchases and entrance fees."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Start im überdachten Portal der Županija. Mittag: Schutz in der Konjović Galerie und im Stadtmuseum finden. Nachmittag: Besuch der barocken Kirchen und des Theaters. Abend: Kurzer Spaziergang im Heldenpark, wo die dichten Baumkronen den Regen etwas abhalten.",
+            "hu": "Reggel: Kezdés a Megyeháza árkádjai alatt. Délben: Menedék a Konjović Galériában és a Városi Múzeumban. Délután: A barokk templomok és a Színház belső tereinek felfedezése. Este: Séta a Hősök parkjában, ahol a sűrű lombkorona védelmet nyújt a szemerkélő eső ellen.",
+            "ro": "Dimineața: Începeți sub porticurile Primăriei Vechi. Prânz: Refugiați-vă în Galeria Konjović și Muzeul Orașului. După-amiaza: Vizitați bisericile baroce și Teatrul Național. Seara: O plimbare scurtă în Parcul Eroilor, unde copacii bătrâni oferă adăpost natural împotriva ploii.",
+            "en": "Morning: Start at the sheltered entrance of County Hall. Midday: Find refuge in the Konjović Gallery and City Museum. Afternoon: Explore the interiors of baroque churches and the Theatre. Evening: A brisk walk in the Park of Heroes, where dense tree canopies offer some protection from the drizzle."
+          },
+          "stops": [
+            {
+              "name": "County Hall (Županija)",
+              "tip_5lang": {
+                "de": "Bewundern Sie das riesige Ölgemälde im trockenen Innenraum.",
+                "hu": "Csodálja meg a hatalmas olajfestményt a száraz belső térben.",
+                "ro": "Admirați pictura uriașă în ulei în interiorul uscat.",
+                "en": "Admire the massive oil painting in the dry interior."
+              }
+            },
+            {
+              "name": "Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Kurze Pause im stillen, trockenen Kirchenschiff.",
+                "hu": "Rövid pihenő a csendes, száraz templomhajóban.",
+                "ro": "Scurt popas în nava liniștită și uscată a bisericii.",
+                "en": "Short break in the quiet, dry church nave."
+              }
+            },
+            {
+              "name": "Milan Konjović Gallery",
+              "tip_5lang": {
+                "de": "Ideal, um den stärksten Regen bei Kunst zu überbrücken.",
+                "hu": "Ideális hely az eső kivárására a művészetek társaságában.",
+                "ro": "Loc ideal pentru a aștepta trecerea ploii printre picturi.",
+                "en": "Ideal place to wait out the rain among paintings."
+              }
+            },
+            {
+              "name": "Sombor City Museum",
+              "tip_5lang": {
+                "de": "Ausgiebiger Rundgang durch die lokale Geschichte im Trockenen.",
+                "hu": "Hosszabb séta a helytörténeti kiállításokon, védett helyen.",
+                "ro": "Tur extins al istoriei locale într-un mediu protejat.",
+                "en": "Extended tour of local history in a protected environment."
+              }
+            },
+            {
+              "name": "Church of Saint George",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Vorhalle zum Ausschütteln des Schirms.",
+                "hu": "Használja az előcsarnokot az esernyő lerázására.",
+                "ro": "Folosiți pridvorul pentru a scutura umbrela.",
+                "en": "Use the porch to shake off your umbrella."
+              }
+            },
+            {
+              "name": "Sombor National Theatre",
+              "tip_5lang": {
+                "de": "Das neoklassizistische Foyer bietet guten Regenschutz.",
+                "hu": "A neoklasszicista előcsarnok jó védelmet nyújt az eső elől.",
+                "ro": "Foaierul neoclasic oferă protecție bună împotriva ploii.",
+                "en": "The neoclassical foyer offers good rain protection."
+              }
+            },
+            {
+              "name": "Park of Heroes",
+              "tip_5lang": {
+                "de": "Die Bođoš-Bäume wirken wie ein natürlicher Regenschirm.",
+                "hu": "A bođoš fák természetes esernyőként funkcionálnak.",
+                "ro": "Copacii bođoš funcționează ca o umbrelă naturală.",
+                "en": "The Celtis trees act as a natural umbrella."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Passagen im Zentrum.",
+              "Besuchen Sie die Museen bei starkem Regen.",
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+              "Ein Regenschirm ist bei den weiten Plätzen unerlässlich."
+            ],
+            "hu": [
+              "Használja a belvárosi árkádokat.",
+              "Erős esőben időzzön többet a múzeumokban.",
+              "Viseljen vízálló cipőt a macskaköves utcákon.",
+              "Az esernyő elengedhetetlen a tágas tereken."
+            ],
+            "ro": [
+              "Folosiți arcadele din centrul orașului.",
+              "Zăboviți mai mult în muzee în timpul ploii abundente.",
+              "Purtați încălțăminte impermeabilă pentru străzile pietruite.",
+              "Umbrela este esențială în piețele largi."
+            ],
+            "en": [
+              "Use the downtown arcades for shelter.",
+              "Spend more time in museums during heavy rain.",
+              "Wear waterproof shoes for the cobblestone streets.",
+              "An umbrella is essential in the spacious squares."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Die schneebedeckte Županija besichtigen. Mittag: Aufwärmen in der Konjović Galerie und im gemütlichen Stadtmuseum. Nachmittag: Kurze Besuche der Kirchen und des Theaters. Abend: Spaziergang durch den winterlichen Heldenpark bei früher Dämmerung und frostigen Temperaturen.",
+            "hu": "Reggel: A havas Megyeháza megtekintése. Délben: Felmelegedés a Konjović Galériában és a hangulatos Városi Múzeumban. Délután: Rövid látogatás a templomokban és a Színházban. Este: Séta a téli Hősök parkjában a korai szürkületben, fagyos hőmérséklet mellett.",
+            "ro": "Dimineața: Vizitarea Primăriei ningse. Prânz: Încălzire în Galeria Konjović și în Muzeul Orașului. După-amiaza: Vizite scurte la biserici și teatru. Seara: Plimbare în Parcul Eroilor hibernal, sub amurgul timpuriu și temperaturi scăzute.",
+            "en": "Morning: View the snow-covered County Hall. Midday: Warm up in the Konjović Gallery and cozy City Museum. Afternoon: Quick visits to the churches and Theatre. Evening: Walk through the wintry Park of Heroes in the early twilight with freezing temperatures."
+          },
+          "stops": [
+            {
+              "name": "County Hall (Županija)",
+              "tip_5lang": {
+                "de": "Hinter den dicken Mauern ist es angenehm temperiert.",
+                "hu": "A vastag falak mögött kellemes a hőmérséklet.",
+                "ro": "În spatele zidurilor groase temperatura este plăcută.",
+                "en": "It is pleasantly warm behind the thick walls."
+              }
+            },
+            {
+              "name": "Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Stille Einkehr im kühlen, aber windgeschützten Raum.",
+                "hu": "Csendes elmélyülés a hűvös, de szélvédett belsőben.",
+                "ro": "Reflecție tăcută în interiorul răcoros, dar ferit de vânt.",
+                "en": "Quiet reflection in the cool but wind-sheltered interior."
+              }
+            },
+            {
+              "name": "Milan Konjović Gallery",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für schwere Wintermäntel.",
+                "hu": "Használja a ruhatárat a nehéz télikabátokhoz.",
+                "ro": "Folosiți garderoba pentru paltoanele groase de iarnă.",
+                "en": "Use the cloakroom for heavy winter coats."
+              }
+            },
+            {
+              "name": "Sombor City Museum",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine lange Aufwärmpause.",
+                "hu": "Tökéletes helyszín egy hosszú felmelegedő pihenőhöz.",
+                "ro": "Locul perfect pentru o pauză lungă de încălzire.",
+                "en": "Perfect location for a long warming break."
+              }
+            },
+            {
+              "name": "Church of Saint George",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stufen am Eingang.",
+                "hu": "Vigyázzon a csúszós lépcsőkre a bejáratnál.",
+                "ro": "Atenție la treptele alunecoase de la intrare.",
+                "en": "Watch out for slippery steps at the entrance."
+              }
+            },
+            {
+              "name": "Sombor National Theatre",
+              "tip_5lang": {
+                "de": "Genießen Sie die festliche Winterbeleuchtung am Platz.",
+                "hu": "Élvezze az ünnepi téli kivilágítást a téren.",
+                "ro": "Bucurați-vă de iluminatul festiv de iarnă din piață.",
+                "en": "Enjoy the festive winter lighting in the square."
+              }
+            },
+            {
+              "name": "Park of Heroes",
+              "tip_5lang": {
+                "de": "Die gefrorenen Baumzweige bieten ein tolles Fotomotiv.",
+                "hu": "A fagyos ágak csodás fotótémát szolgáltatnak.",
+                "ro": "Ramurile înghețate oferă un subiect foto minunat.",
+                "en": "The frozen branches provide a great photo subject."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Schichten für den Wind.",
+              "Die Sonne geht gegen 16:30 Uhr unter.",
+              "Museen sind die besten Wärmestationen.",
+              "Vorsicht vor Glatteis auf dem Kopfsteinpflaster."
+            ],
+            "hu": [
+              "Réteges öltözködés javasolt a szél ellen.",
+              "A nap 16:30 körül nyugszik.",
+              "A múzeumok a legjobb melegedőpontok.",
+              "Vigyázzon a jeges macskakövekre."
+            ],
+            "ro": [
+              "Purtați haine în straturi contra vântului.",
+              "Soarele apune în jurul orei 16:30.",
+              "Muzeele sunt cele mai bune puncte de încălzire.",
+              "Atenție la polei pe străzile pietruite."
+            ],
+            "en": [
+              "Wear warm layers against the wind.",
+              "Sunset is around 16:30.",
+              "Museums are the best warming stations.",
+              "Watch out for icy patches on cobblestones."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -664,6 +864,206 @@
           "A water bottle and snacks are essential for longer rides along the canal.",
           "Respect pedestrians in the shared zones of the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Kurze Fahrt zum Heldenpark. Mittag: Radeln zwischen den Museen im Stadtzentrum, nutzen Sie Unterstände. Nachmittag: Besuch der Kirchen, Parken an überdachten Stellen. Abend: Vorsichtige Fahrt entlang des Kanals, achten Sie auf rutschige Wege am Wasser.",
+            "hu": "Reggel: Rövid tekerés a Hősök parkjáig. Délben: Kerékpározás a belvárosi múzeumok között, használja az esőbeállókat. Délután: Templomlátogatások, fedett helyen parkolva. Este: Óvatos tekerés a csatorna mentén, figyeljen a vízparti csúszós utakra.",
+            "ro": "Dimineața: O scurtă plimbare cu bicicleta până în Parcul Eroilor. Prânz: Pedalare între muzeele din centru, folosiți adăposturile. După-amiaza: Vizitarea bisericilor, parcând în locuri acoperite. Seara: Plimbare prudentă de-a lungul canalului, atenție la potecile alunecoase.",
+            "en": "Morning: Short ride to the Park of Heroes. Midday: Cycling between downtown museums, use shelters during downpours. Afternoon: Church visits, parking in covered spots. Evening: Cautious ride along the canal, watch out for slippery paths near the water."
+          },
+          "stops": [
+            {
+              "name": "Park of Heroes & Carp Fountain",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad unter den dichten Bäumen.",
+                "hu": "Parkoljon a sűrű fák alá.",
+                "ro": "Parcați bicicleta sub copacii deși.",
+                "en": "Park your bike under the thick trees."
+              }
+            },
+            {
+              "name": "County Hall (Županija)",
+              "tip_5lang": {
+                "de": "Die Wege hier sind gepflastert und weniger schlammig.",
+                "hu": "Az utak itt burkoltak és kevésbé sárásak.",
+                "ro": "Drumurile de aici sunt pavate și mai puțin noroioase.",
+                "en": "The paths here are paved and less muddy."
+              }
+            },
+            {
+              "name": "Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a leszálláskor a vizes macskakövön.",
+                "ro": "Atenție la coborâre pe pavajul umed.",
+                "en": "Be careful when dismounting on wet cobblestones."
+              }
+            },
+            {
+              "name": "Milan Konjović Gallery",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, die Regenbekleidung zu trocknen.",
+                "hu": "Jó alkalom az esőruházat megszárítására.",
+                "ro": "Ocazie bună pentru a vă usca pelerina de ploaie.",
+                "en": "Good opportunity to dry your rain gear."
+              }
+            },
+            {
+              "name": "Sombor National Theatre",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dem Vordach möglich.",
+                "hu": "Rövid megálló az előtető alatt lehetséges.",
+                "ro": "Scurt popas posibil sub copertină.",
+                "en": "Short stop possible under the canopy."
+              }
+            },
+            {
+              "name": "Church of Saint George",
+              "tip_5lang": {
+                "de": "Fahrradständer sind oft ungeschützt, Schloss sichern.",
+                "hu": "A tárolók gyakran fedetlenek, figyeljen a lakatolásra.",
+                "ro": "Suporturile sunt adesea neacoperite, asigurați antifurtul.",
+                "en": "Racks are often uncovered, secure your lock quickly."
+              }
+            },
+            {
+              "name": "Ride along the Great Bačka Canal",
+              "tip_5lang": {
+                "de": "Meiden Sie unbefestigte Uferwege bei starkem Regen.",
+                "hu": "Kerülje a rögzítetlen parti utakat erős esőben.",
+                "ro": "Evitați potecile neamenajate de pe mal în caz de ploaie.",
+                "en": "Avoid unpaved bank paths during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei Regen unerlässlich.",
+              "Vorsicht in Kurven auf nassem Pflaster.",
+              "Nutzen Sie wasserfeste Packtaschen.",
+              "Beleuchtung auch tagsüber einschalten."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen esőben.",
+              "Vigyázzon a kanyarokban a vizes kövön.",
+              "Használjon vízálló táskákat.",
+              "Nappal is használja a világítást."
+            ],
+            "ro": [
+              "Aripile sunt esențiale pe ploaie.",
+              "Atenție în curbe pe pavajul umed.",
+              "Folosiți genți de bicicletă impermeabile.",
+              "Aprindeți luminile și în timpul zilei."
+            ],
+            "en": [
+              "Mudguards are essential in the rain.",
+              "Be careful in corners on wet stones.",
+              "Use waterproof panniers.",
+              "Turn on lights even during the day."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Frostige Fahrt zum Heldenpark. Mittag: Schnelle Wechsel zwischen warmen Museen im Zentrum. Nachmittag: Besuch der Kirchen, achten Sie auf Glätte. Abend: Stimmungsvolle Fahrt am Kanal, Vorsicht vor gefrorenen Stellen und kaltem Wind vom Wasser.",
+            "hu": "Reggel: Fagyos tekerés a Hősök parkjáig. Délben: Gyors váltások a meleg belvárosi múzeumok között. Délután: Templomlátogatások, figyeljen a jegesedésre. Este: Hangulatos tekerés a csatornánál, vigyázzon a fagyott részekre és a hideg szélre.",
+            "ro": "Dimineața: Pedalare geroasă spre Parcul Eroilor. Prânz: Schimburi rapide între muzeele calde din centru. După-amiza: Vizitarea bisericilor, atenție la gheață. Seara: Plimbare atmosferică la canal, atenție la porțiunile înghețate și vântul rece.",
+            "en": "Morning: Frosty ride to the Park of Heroes. Midday: Quick transitions between warm downtown museums. Afternoon: Church visits, watch out for ice. Evening: Atmospheric ride by the canal, be careful of frozen patches and cold wind from the water."
+          },
+          "stops": [
+            {
+              "name": "Park of Heroes & Carp Fountain",
+              "tip_5lang": {
+                "de": "Der Brunnen ist im Winter oft abgestellt.",
+                "hu": "A kút télen gyakran nem üzemel.",
+                "ro": "Fântâna este adesea oprită iarna.",
+                "en": "The fountain is often turned off in winter."
+              }
+            },
+            {
+              "name": "County Hall (Županija)",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Schneematsch auf den Wegen.",
+                "hu": "Vigyázzon a fagyott kásás hóra az utakon.",
+                "ro": "Atenție la lapovița înghețată de pe drumuri.",
+                "en": "Watch out for frozen slush on the paths."
+              }
+            },
+            {
+              "name": "Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Hände an den Heizkörpern im Eingang wärmen.",
+                "hu": "Melegítse meg kezeit a bejárati fűtőtesteknél.",
+                "ro": "Încălziți-vă mâinile la caloriferele de la intrare.",
+                "en": "Warm your hands at the heaters near the entrance."
+              }
+            },
+            {
+              "name": "Milan Konjović Gallery",
+              "tip_5lang": {
+                "de": "Warmer Stopp, um das Gefühl in den Fingern zurückzubekommen.",
+                "hu": "Meleg megálló, hogy visszatérjen az érzés az ujjaiba.",
+                "ro": "Popas cald pentru a vă recăpăta simțul în degete.",
+                "en": "Warm stop to get the feeling back in your fingers."
+              }
+            },
+            {
+              "name": "Sombor National Theatre",
+              "tip_5lang": {
+                "de": "Der Platz davor kann sehr windig sein.",
+                "hu": "A színház előtti tér nagyon szeles lehet.",
+                "ro": "Piața din fața teatrului poate fi foarte bătută de vânt.",
+                "en": "The square in front can be very windy."
+              }
+            },
+            {
+              "name": "Church of Saint George",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eiszapfen an den Dachrinnen.",
+                "hu": "Figyeljen az ereszekről lelógó jégcsapokra.",
+                "ro": "Atenție la țurțurii de pe jgheaburi.",
+                "en": "Watch out for icicles on the gutters."
+              }
+            },
+            {
+              "name": "Ride along the Great Bačka Canal",
+              "tip_5lang": {
+                "de": "Sehr kalt durch die offene Fläche am Wasser.",
+                "hu": "Nagyon hideg a nyílt vízparti terület miatt.",
+                "ro": "Foarte frig din cauza zonei deschise de lângă apă.",
+                "en": "Very cold due to the open waterfront area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe sind Pflicht.",
+              "Akku-Leistung lässt bei Kälte nach.",
+              "Vorsicht bei Reif auf Brücken.",
+              "Warmer Tee in der Thermoskanne hilft."
+            ],
+            "hu": [
+              "Szélálló kesztyű kötelező.",
+              "Az akkumulátor gyorsabban merül hidegben.",
+              "Vigyázzon a dérre a hidakon.",
+              "Meleg tea a termoszházban segít."
+            ],
+            "ro": [
+              "Mănușile rezistente la vânt sunt obligatorii.",
+              "Bateria se descarcă mai repede la frig.",
+              "Atenție la chiciura de pe poduri.",
+              "Ceaiul cald în termos ajută mult."
+            ],
+            "en": [
+              "Windproof gloves are mandatory.",
+              "Battery life drops in the cold.",
+              "Watch out for frost on bridges.",
+              "Warm tea in a thermos helps."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -932,6 +1332,188 @@
           "A GPS is useful for navigating between clusters.",
           "Be mindful of one-way streets in the historic center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Bequeme Anfahrt zum Zentrum. Mittag: Parken nahe der Županija und der Museen. Die kurzen Wege minimieren die Zeit im Regen. Nachmittag: Fahrt zum Museumsviertel und zur St. Georgs-Kirche. Abend: Abschluss am Heldenpark, Parkplätze direkt am Rand nutzen.",
+            "hu": "Reggel: Kényelmes érkezés a központba. Délben: Parkolás a Megyeháza és a múzeumok közelében. A rövid séták minimalizálják az esőben töltött időt. Délután: Autózás a múzeumi negyedbe és a Szent György-templomhoz. Este: Zárás a Hősök parkjánál, közvetlen széli parkolással.",
+            "ro": "Dimineața: Sosire confortabilă în centru. Prânz: Parcare lângă Primărie și muzee. Distanțele scurte minimizează timpul petrecut în ploaie. După-amiaza: Deplasare spre cartierul muzeelor și Biserica Sf. Gheorghe. Seara: Final la Parcul Eroilor, folosind parcările de la margine.",
+            "en": "Morning: Comfortable arrival in the center. Midday: Parking near County Hall and museums. Short walks minimize time in the rain. Afternoon: Drive to the Museum Quarter and St. George's Church. Evening: Wrap up at the Park of Heroes, using parking spots right at the edge."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrive & Park at City Center",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz nahe an den Arkaden.",
+                "hu": "Keressen helyet az árkádok közelében.",
+                "ro": "Căutați un loc aproape de arcade.",
+                "en": "Find a spot near the arcades."
+              }
+            },
+            {
+              "name": "County Hall & Holy Trinity Square",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Auto zum Eingang der Županija.",
+                "hu": "Rövid futás az autótól a Megyeháza bejáratáig.",
+                "ro": "Sprint scurt de la mașină la intrarea în Primărie.",
+                "en": "Short sprint from the car to the County Hall entrance."
+              }
+            },
+            {
+              "name": "Milan Konjović Gallery",
+              "tip_5lang": {
+                "de": "Parken in der Seitenstraße spart Zeit im Regen.",
+                "hu": "Parkolás az oldalsó utcában időt spórol az esőben.",
+                "ro": "Parcarea pe strada laterală economisește timp în ploaie.",
+                "en": "Parking in the side street saves time in the rain."
+              }
+            },
+            {
+              "name": "Cluster 2: Drive to the Museum Quarter",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Scheibenwischer-Intervallschaltung.",
+                "hu": "Használja az ablaktörlő szakaszos üzemmódját.",
+                "ro": "Folosiți modul intermitent al ștergătoarelor.",
+                "en": "Use the intermittent wiper setting."
+              }
+            },
+            {
+              "name": "Church of Saint George",
+              "tip_5lang": {
+                "de": "Vermeiden Sie tiefe Pfützen am Straßenrand.",
+                "hu": "Kerülje a mély tócsákat az út szélén.",
+                "ro": "Evitați bălțile adânci de la marginea drumului.",
+                "en": "Avoid deep puddles at the roadside."
+              }
+            },
+            {
+              "name": "Cluster 3: Drive to the Park of Heroes",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den Regen vom Auto aus zu beobachten.",
+                "hu": "Ideális hely az eső figyelésére az autóból.",
+                "ro": "Loc ideal pentru a privi ploaia din mașină.",
+                "en": "Ideal spot to watch the rain from the car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf schlechte Sicht bei Starkregen.",
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben.",
+              "Parken Sie so nah wie möglich am Ziel.",
+              "Vorsicht vor Aquaplaning auf Hauptstraßen."
+            ],
+            "hu": [
+              "Ügyeljen a rossz látási viszonyokra.",
+              "Használja a klímát a párásodás ellen.",
+              "Parkoljon a lehető legközelebb a célhoz.",
+              "Vigyázzon a felúszásra a főutakon."
+            ],
+            "ro": [
+              "Atenție la vizibilitatea redusă pe ploaie.",
+              "Folosiți aerul condiționat contra aburirii.",
+              "Parcați cât mai aproape de destinație.",
+              "Atenție la acvaplanare pe drumurile principale."
+            ],
+            "en": [
+              "Watch out for poor visibility.",
+              "Use AC to prevent window fogging.",
+              "Park as close as possible to destinations.",
+              "Beware of aquaplaning on main roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Warmstart und Fahrt ins Zentrum. Mittag: Kurze Wege zwischen den beheizten Sights. Das Auto dient als mobile Aufwärmstation. Nachmittag: Besuch des Museumsviertels und der Kirchen. Abend: Blick auf den verschneiten Heldenpark und entspannte Rückfahrt bei frostigen Bedingungen.",
+            "hu": "Reggel: Meleg indítás és autózás a központba. Délben: Rövid utak a fűtött látnivalók között. Az autó mobil melegedőként szolgál. Délután: A múzeumi negyed és a templomok felkeresése. Este: Pillantás a havas Hősök parkjára, majd pihentető visszautazás fagyos körülmények között.",
+            "ro": "Dimineața: Pornire la cald și deplasare în centru. Prânz: Distanțe scurte între obiectivele încălzite. Mașina servește ca punct mobil de încălzire. După-amiaza: Vizitarea cartierului muzeelor și a bisericilor. Seara: Vedere asupra Parcului Eroilor nins și întoarcere relaxată.",
+            "en": "Morning: Warm start and drive to the center. Midday: Short trips between heated sights. The car serves as a mobile warming station. Afternoon: Visiting the Museum Quarter and churches. Evening: View of the snowy Park of Heroes and a relaxed drive back in freezing conditions."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrive & Park at City Center",
+              "tip_5lang": {
+                "de": "Scheiben rechtzeitig von Frost befreien.",
+                "hu": "Időben jégtelenítse a szélvédőt.",
+                "ro": "Dezghețați parbrizul la timp.",
+                "en": "Defrost the windshield in time."
+              }
+            },
+            {
+              "name": "County Hall & Holy Trinity Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf glatten Parkplätzen.",
+                "hu": "Vigyázzon a kiszállásnál a csúszós parkolóban.",
+                "ro": "Atenție la coborâre în parcările alunecoase.",
+                "en": "Be careful when getting out in slippery parking lots."
+              }
+            },
+            {
+              "name": "Milan Konjović Gallery",
+              "tip_5lang": {
+                "de": "Sitzheizung sorgt für schnelles Wohlbefinden.",
+                "hu": "Az ülésfűtés gyors komfortérzetet ad.",
+                "ro": "Încălzirea în scaune oferă confort rapid.",
+                "en": "Seat heating provides quick comfort."
+              }
+            },
+            {
+              "name": "Cluster 2: Drive to the Museum Quarter",
+              "tip_5lang": {
+                "de": "Achten Sie auf Streusalz und rutschige Fahrbahnen.",
+                "hu": "Figyeljen az útszóró sóra és a csúszós úttestre.",
+                "ro": "Atenție la sarea de pe drum și carosabilul alunecos.",
+                "en": "Watch out for road salt and slippery surfaces."
+              }
+            },
+            {
+              "name": "Church of Saint George",
+              "tip_5lang": {
+                "de": "Geringes Verkehrsaufkommen bei starkem Schneefall.",
+                "hu": "Alacsonyabb forgalom erős havazáskor.",
+                "ro": "Trafic redus în timpul ninsorilor abundente.",
+                "en": "Lower traffic during heavy snowfall."
+              }
+            },
+            {
+              "name": "Cluster 3: Drive to the Park of Heroes",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Don't leave the engine idling unnecessarily."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Sombor obligatorisch.",
+              "Frostschutzmittel in der Waschanlage prüfen.",
+              "Vorsicht vor Schneeverwehungen am Stadtrand.",
+              "Batteriecheck vor der Fahrt empfohlen."
+            ],
+            "hu": [
+              "A téli gumi kötelező Zomborban.",
+              "Ellenőrizze a fagyállót a mosóban.",
+              "Vigyázzon a hóátfúvásokra a város szélén.",
+              "Indítás előtt akkumulátor ellenőrzés ajánlott."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Sombor.",
+              "Verificați lichidul de parbriz antigel.",
+              "Atenție la troienele de la marginea orașului.",
+              "Se recomandă verificarea bateriei înainte de drum."
+            ],
+            "en": [
+              "Winter tires are mandatory in Sombor.",
+              "Check antifreeze in the washer fluid.",
+              "Beware of snowdrifts at the city outskirts.",
+              "Battery check recommended before the trip."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1200,6 +1782,188 @@
           "Validate your ticket when you board the bus to avoid a fine.",
           "Keep an eye on the stop names, as announcements may not always be clear."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Ankunft am Hauptplatz, nutzen Sie Wartehäuschen. Mittag: Busfahrt zwischen dem Zentrum und dem Museumsviertel, um trocken zu bleiben. Nachmittag: Besuch der Kirchen, die Haltestellen sind meist nah. Abend: Fahrt zum Heldenpark, genießen Sie den Blick auf die regnerische Stadt aus dem Bus.",
+            "hu": "Reggel: Érkezés a főtérre, használja a várókat. Délben: Buszozás a központ és a múzeumi negyed között, hogy száraz maradjon. Délután: Templomlátogatások, a megállók többnyire közel vannak. Este: Utazás a Hősök parkjához, élvezze az esős város látványát a buszból.",
+            "ro": "Dimineața: Sosire în piața centrală, folosiți stațiile acoperite. Prânz: Mersul cu autobuzul între centru și cartierul muzeelor pentru a rămâne uscat. După-amiaza: Vizitarea bisericilor, stațiile sunt aproape. Seara: Deplasare la Parcul Eroilor, priviți orașul ploios din autobuz.",
+            "en": "Morning: Arrival at the main square, use the shelters. Midday: Bus ride between the center and Museum Quarter to stay dry. Afternoon: Church visits, stops are mostly nearby. Evening: Ride to the Park of Heroes, enjoy the view of the rainy city from the bus."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at Main Square",
+              "tip_5lang": {
+                "de": "Warten Sie unter den Arkaden auf den nächsten Bus.",
+                "hu": "Várjon az árkádok alatt a következő buszra.",
+                "ro": "Așteptați sub arcade următorul autobuz.",
+                "en": "Wait under the arcades for the next bus."
+              }
+            },
+            {
+              "name": "County Hall & Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg zur Županija bei Regenpause.",
+                "hu": "Rövid séta a Megyeházához esőszünetben.",
+                "ro": "Scurtă plimbare la Primărie în pauza de ploaie.",
+                "en": "Short walk to County Hall during a rain break."
+              }
+            },
+            {
+              "name": "Milan Konjović Gallery & National Theatre",
+              "tip_5lang": {
+                "de": "Das Theater bietet ein Vordach zum Warten.",
+                "hu": "A színháznak van előtetője a várakozáshoz.",
+                "ro": "Teatrul are o copertină pentru așteptare.",
+                "en": "The theatre has a canopy for waiting."
+              }
+            },
+            {
+              "name": "Cluster 2: Bus ride to the Museum",
+              "tip_5lang": {
+                "de": "Beschlagene Busscheiben erschweren die Sicht.",
+                "hu": "A párás buszablakok rontják a kilátást.",
+                "ro": "Geamurile aburite ale autobuzului reduc vizibilitatea.",
+                "en": "Foggy bus windows make it hard to see outside."
+              }
+            },
+            {
+              "name": "Church of Saint George",
+              "tip_5lang": {
+                "de": "Haltestelle direkt gegenüber der Kirche.",
+                "hu": "A megálló közvetlenül a templommal szemben van.",
+                "ro": "Stația este exact vizavi de biserică.",
+                "en": "The stop is directly opposite the church."
+              }
+            },
+            {
+              "name": "Cluster 3: Bus ride to the Park of Heroes",
+              "tip_5lang": {
+                "de": "Vorsicht vor nassen Böden im Bus.",
+                "hu": "Vigyázzon a vizes padlóra a buszon.",
+                "ro": "Atenție la podeaua umedă din autobuz.",
+                "en": "Watch out for wet floors inside the bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können bei Regen leicht variieren.",
+              "Tragen Sie Kleidung, die schnell trocknet.",
+              "Haben Sie Kleingeld für das Ticket bereit.",
+              "Halten Sie Abstand zu Pfützen an Haltestellen."
+            ],
+            "hu": [
+              "A menetrend esőben kissé módosulhat.",
+              "Viseljen gyorsan száradó ruházatot.",
+              "Legyen aprópénze a jegyhez.",
+              "Tartson távolságot a tócsáktól a megállókban."
+            ],
+            "ro": [
+              "Orarele pot varia ușor pe ploaie.",
+              "Purtați haine care se usucă repede.",
+              "Aveți mărunțiș pregătit pentru bilet.",
+              "Păstrați distanța față de bălțile din stații."
+            ],
+            "en": [
+              "Schedules may vary slightly in the rain.",
+              "Wear clothes that dry quickly.",
+              "Have small change ready for tickets.",
+              "Stay away from puddles at bus stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Ankunft im winterlichen Zentrum. Mittag: Beheizte Busse verbinden die Museen und schützen vor dem kalten Wind. Nachmittag: Besuch der Kirchen, kurze Wartezeiten an den Haltestellen einplanen. Abend: Fahrt zum Heldenpark im Schein der Straßenlaternen und Rückfahrt in die Wärme.",
+            "hu": "Reggel: Érkezés a téli központba. Délben: A fűtött buszok összekötik a múzeumokat és védenek a hideg széltől. Délután: Templomlátogatások, tervezzen rövid várakozást a megállókban. Este: Utazás a Hősök parkjához az utcai lámpák fényében, majd visszatérés a melegbe.",
+            "ro": "Dimineața: Sosire în centrul hibernal. Prânz: Autobuzele încălzite fac legătura între muzee și protejează de vânt. După-amiaza: Vizitarea bisericilor, planificați așteptări scurte în stații. Seara: Deplasare la Parcul Eroilor sub lumina felinarelor.",
+            "en": "Morning: Arrival in the wintry center. Midday: Heated buses connect the museums and protect you from the cold wind. Afternoon: Church visits, plan for short waits at stops. Evening: Ride to the Park of Heroes under the streetlights, then return to the warmth."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at Main Square",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glätte beim Aussteigen.",
+                "hu": "Vigyázzon a csúszós talajra leszálláskor.",
+                "ro": "Atenție la polei la coborâre.",
+                "en": "Watch out for ice when getting off."
+              }
+            },
+            {
+              "name": "County Hall & Holy Trinity Church",
+              "tip_5lang": {
+                "de": "Der Platz ist bei Schnee besonders fotogen.",
+                "hu": "A tér hóban különösen fotogén.",
+                "ro": "Piața este deosebit de fotogenică în zăpadă.",
+                "en": "The square is especially photogenic in snow."
+              }
+            },
+            {
+              "name": "Milan Konjović Gallery & National Theatre",
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause im Bus zwischen den Sights.",
+                "hu": "Rövid melegedő pihenő a buszon a helyszínek között.",
+                "ro": "Scurtă pauză de încălzire în autobuz între obiective.",
+                "en": "Short warming break on the bus between sights."
+              }
+            },
+            {
+              "name": "Cluster 2: Bus ride to the Museum",
+              "tip_5lang": {
+                "de": "Heizung im Bus sorgt für Komfort.",
+                "hu": "A busz fűtése kényelmet biztosít.",
+                "ro": "Încălzirea din autobuz asigură confortul.",
+                "en": "The bus heating provides comfort."
+              }
+            },
+            {
+              "name": "Church of Saint George",
+              "tip_5lang": {
+                "de": "Haltestelle kann bei Schneefall schwer erkennbar sein.",
+                "hu": "A megálló havazásban nehezen felismerhető lehet.",
+                "ro": "Stația poate fi greu de observat în timpul ninsorii.",
+                "en": "The stop might be hard to recognize during snowfall."
+              }
+            },
+            {
+              "name": "Cluster 3: Bus ride to the Park of Heroes",
+              "tip_5lang": {
+                "de": "Frühe Dämmerung macht die Fahrt stimmungsvoll.",
+                "hu": "A korai szürkület hangulatossá teszi az utat.",
+                "ro": "Amurgul timpuriu face călătoria atmosferică.",
+                "en": "Early twilight makes the ride atmospheric."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie rutschfeste Winterschuhe.",
+              "Busse sind im Winter oft voll und warm.",
+              "Achten Sie auf geänderte Winterfahrpläne.",
+              "Halten Sie sich an den Griffstangen fest (Nässe)."
+            ],
+            "hu": [
+              "Viseljen csúszásmentes téli cipőt.",
+              "A buszok télen gyakran tömöttek és melegek.",
+              "Figyeljen a módosult téli menetrendre.",
+              "Kapaszkodjon erősen a nedves padló miatt."
+            ],
+            "ro": [
+              "Purtați încălțăminte de iarnă antiderapantă.",
+              "Autobuzele sunt adesea pline și calde iarna.",
+              "Atenție la orarele de iarnă modificate.",
+              "Țineți-vă bine de bare (podea umedă)."
+            ],
+            "en": [
+              "Wear non-slip winter shoes.",
+              "Buses are often crowded and warm in winter.",
+              "Check for modified winter schedules.",
+              "Hold on tightly to the handrails (wet floors)."
+            ]
+          }
+        }
       }
     }
   }

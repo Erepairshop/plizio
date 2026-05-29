@@ -356,6 +356,196 @@
           "Make time for a coffee break (kahvitauko) with a Korvapuusti, it's a must in Finland.",
           "Most museums are closed on Mondays, so check opening hours in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt im Kirkkopuisto, wo die dichten Bäume den ersten Schauer abfangen. Die St.-Michael-Kirche bietet danach einen trockenen Rückzugsort mit ihrer beeindruckenden Steinarchitektur. Mittags führt der Weg zum Pouka-Haus, das Schutz in seinen historischen Räumen bietet. Der Nachmittag in Kauppila und Untamala erfordert festes Schuhwerk, da die unbefestigten Wege auf dem Bauernhof und im Dorf bei Nässe aufweichen. Abends kehrt man ins Zentrum zurück, während die Lichter der Stadt auf dem nassen Asphalt glänzen.",
+            "hu": "Az esős reggel a Kirkkopuisto parkban indul, ahol a lombok némi védelmet nyújtanak. A Szent Mihály-templom vastag kőfalai között folytatjuk, ahol teljesen megszáradhatunk. Délben a Pouka-ház belső terei nyújtanak menedéket az éppen eleredő zápor elől. Délután a Kauppila skanzen és Untamala falusi útjai sárra hajlamosak, így ide vízálló bakancs javasolt. Az este a városközpont fényeiben zárul, miközben az esőcseppek kopognak a háztetőkön.",
+            "ro": "O dimineață ploioasă începe în parcul Kirkkopuisto, unde copacii oferă un prim adăpost. Biserica Sf. Mihail este refugiul perfect pentru a admira arhitectura medievală la uscat. La prânz, vizităm Casa Pouka, explorând interiorul istoric în timp ce afară plouă. După-amiaza la Kauppila și Untamala necesită încălțăminte impermeabilă, deoarece potecile prin sat pot deveni noroioase. Seara se încheie în centru, cu reflexiile luminilor orașului pe trotuarele ude.",
+            "en": "A rainy morning starts at Kirkkopuisto Park, where the trees provide a light canopy. St. Michael’s Church offers a dry sanctuary with its thick stone walls. By noon, Pouka House provides an indoor haven for exploring local history. The afternoon visit to Kauppila and Untamala requires waterproof boots, as the rural paths can get muddy. The evening concludes in the town center, watching the city lights reflect on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": "Kirkkopuisto Park",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den großen Linden am Rande des Parks.",
+                "hu": "Keressen menedéket a park szélén álló nagy hársfák alatt.",
+                "ro": "Căutați adăpost sub teii mari de la marginea parcului.",
+                "en": "Seek shelter under the large lime trees at the park's edge."
+              }
+            },
+            {
+              "name": "St. Michael's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorraum, um Ihren Regenschirm auszuschütteln.",
+                "hu": "Használja az előteret az esernyő lerázásához.",
+                "ro": "Folosiți vestibulul pentru a scutura umbrela.",
+                "en": "Use the vestibule to shake off your umbrella."
+              }
+            },
+            {
+              "name": "Old Cemetery",
+              "tip_5lang": {
+                "de": "Vorsicht auf den gepflasterten Wegen, sie können rutschig sein.",
+                "hu": "Vigyázat a kövezett utakon, csúszósak lehetnek.",
+                "ro": "Atenție pe aleile pavate, pot fi alunecoase.",
+                "en": "Caution on the paved paths; they can be slippery."
+              }
+            },
+            {
+              "name": "Pouka House",
+              "tip_5lang": {
+                "de": "Idealer Zeitpunkt für die Innenbesichtigung der historischen Ausstellungen.",
+                "hu": "Ideális időpont a történelmi kiállítások belső megtekintéséhez.",
+                "ro": "Moment ideal pentru vizitarea expozițiilor istorice interioare.",
+                "en": "Perfect time for an indoor tour of the historical exhibits."
+              }
+            },
+            {
+              "name": "Kauppila Enclosed Farmstead",
+              "tip_5lang": {
+                "de": "Einige Gebäude sind nur von außen zugänglich; halten Sie den Schirm bereit.",
+                "hu": "Néhány épület csak kívülről nézhető; tartsa készenlétben az esernyőt.",
+                "ro": "Unele clădiri sunt accesibile doar din exterior; țineți umbrela la îndemână.",
+                "en": "Some buildings are exterior-only; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Untamala Village",
+              "tip_5lang": {
+                "de": "Wasserfeste Schuhe sind für die unbefestigten Dorfwege unerlässlich.",
+                "hu": "Vízálló cipő elengedhetetlen a falusi földutakhoz.",
+                "ro": "Încălțămintea impermeabilă este esențială pentru drumurile de pământ.",
+                "en": "Waterproof shoes are essential for the unpaved village roads."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke, da der Wind in Laitila oft böig ist.",
+              "Die St.-Michael-Kirche ist ein zuverlässiger Ort zum Aufwärmen und Trocknen.",
+              "In Untamala können die Pfade zu den Grabstätten sehr matschig werden.",
+              "Nutzen Sie die lokalen Cafés im Zentrum für eine Pause während schwerer Schauer.",
+              "Wasserdichte Handyhüllen sind nützlich für Fotos im Freien."
+            ],
+            "hu": [
+              "Viseljen jó minőségű esőkabátot, mert a szél Laitilában gyakran felerősödik.",
+              "A Szent Mihály-templom megbízható hely a felmelegedésre és száradásra.",
+              "Untamala faluban a sírhalmokhoz vezető ösvények sárba borulhatnak.",
+              "Használja a központi kávézókat pihenőre a hevesebb záporok idején.",
+              "A vízálló telefontok hasznos lehet a kültéri fotózáshoz."
+            ],
+            "ro": [
+              "Purtați o pelerină de ploaie de calitate, deoarece vântul în Laitila este adesea puternic.",
+              "Biserica Sf. Mihail este un loc sigur pentru încălzire și uscare.",
+              "În satul Untamala, potecile spre tumuli pot deveni foarte noroioase.",
+              "Folosiți cafenelele centrale pentru o pauză în timpul averselor abundente.",
+              "Husele impermeabile pentru telefon sunt utile pentru fotografii în aer liber."
+            ],
+            "en": [
+              "Wear a high-quality raincoat, as the wind in Laitila can be gusty.",
+              "St. Michael’s Church is a reliable place to warm up and dry off.",
+              "In Untamala, the paths to the burial mounds can become very muddy.",
+              "Utilize central cafes for a break during heavy downpours.",
+              "Waterproof phone cases are useful for outdoor photography."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt im schneebedeckten Kirkkopuisto, wo der Reif die Bäume glitzern lässt. Die St.-Michael-Kirche wirkt in der weißen Landschaft besonders andächtig. Mittags wärmt man sich im Pouka-Haus auf, während draußen der Schnee leise fällt. Der Nachmittag in Kauppila zeigt das ländliche Leben in seiner stillsten, winterlichen Form. Da die Sonne bereits gegen 15:30 Uhr sinkt, erreicht man Untamala in der blauen Stunde, wenn die alten Gräber mystisch im Schnee liegen. Abends ist Laitila in gemütliches Winterlicht getaucht.",
+            "hu": "A fagyos reggel a hófödte Kirkkopuisto parkban indul, ahol a zúzmara csillog az ágakon. A Szent Mihály-templom különösen méltóságteljes a fehér tájban. Délben a Pouka-ház belső melege nyújt pihenőt a hideg elől. Délután a Kauppila skanzen a vidéki élet legcsendesebb, téli arcát mutatja. Mivel a nap már 15:30 körül nyugovóra tér, Untamalát a misztikus kék órában érjük el, amikor a hófödte sírhalmok sejtelmesen festenek. Az este Laitila barátságos téli fényeiben telik.",
+            "ro": "O dimineață geroasă începe în parcul Kirkkopuisto acoperit de zăpadă, unde chiciura strălucește pe ramuri. Biserica Sf. Mihail pare solemnă în peisajul alb. La prânz, ne încălzim în interiorul Casei Pouka în timp ce afară ninge liniștit. După-amiaza la Kauppila dezvăluie viața rurală în cea mai tăcută formă a sa. Deoarece soarele apune deja în jurul orei 15:30, ajungem la Untamala la ora albastră, când mormintele vechi par mistice în zăpadă. Seara, Laitila este scăldată în lumini de iarnă primitoare.",
+            "en": "A frosty morning starts in the snow-covered Kirkkopuisto, with frost glistening on the branches. St. Michael’s Church stands solemn in the white landscape. At noon, the interior of Pouka House provides a warm escape from the cold. The afternoon at Kauppila shows rural life in its quietest winter form. As the sun sets around 15:30, you reach Untamala during the blue hour, when the old graves look mystical in the snow. The evening finds Laitila bathed in cozy winter lights."
+          },
+          "stops": [
+            {
+              "name": "Kirkkopuisto Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor verstecktem Eis unter dem Neuschnee.",
+                "hu": "Vigyázat a friss hó alatt megbújó jéggel.",
+                "ro": "Atenție la gheața ascunsă sub zăpada proaspătă.",
+                "en": "Watch out for hidden ice beneath the fresh snow."
+              }
+            },
+            {
+              "name": "St. Michael's Church",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Innenraum für eine besinnliche, warme Pause.",
+                "hu": "Látogasson el a belső térbe egy elcsendesedő, meleg pihenőre.",
+                "ro": "Vizitați interiorul pentru o pauză caldă și meditativă.",
+                "en": "Visit the interior for a peaceful, warm break."
+              }
+            },
+            {
+              "name": "Old Cemetery",
+              "tip_5lang": {
+                "de": "Die verschneiten Grabsteine sind bei Sonnenaufgang besonders fotogen.",
+                "hu": "A havas sírkövek napfelkeltekor különösen fotogének.",
+                "ro": "Pietrele funerare înzăpezite sunt foarte fotogenice la răsărit.",
+                "en": "The snowy gravestones are very photogenic at sunrise."
+              }
+            },
+            {
+              "name": "Pouka House",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre in den historischen Zimmern.",
+                "hu": "Élvezze a meghitt hangulatot a történelmi szobákban.",
+                "ro": "Bucurați-vă de atmosfera primitoare din camerele istorice.",
+                "en": "Enjoy the cozy atmosphere in the historical rooms."
+              }
+            },
+            {
+              "name": "Kauppila Enclosed Farmstead",
+              "tip_5lang": {
+                "de": "Tragen Sie Wollsocken; die historischen Böden können kalt sein.",
+                "hu": "Viseljen gyapjú zoknit; a történelmi padlók hidegek lehetnek.",
+                "ro": "Purtați șosete de lână; podelele istorice pot fi reci.",
+                "en": "Wear wool socks; the historical floors can be cold."
+              }
+            },
+            {
+              "name": "Untamala Village",
+              "tip_5lang": {
+                "de": "Stirnlampe empfohlen, da die Wege nicht beleuchtet sind.",
+                "hu": "Fejlámpa javasolt, mivel az utak nem világítottak.",
+                "ro": "Se recomandă o lanternă frontală, deoarece drumurile nu sunt iluminate.",
+                "en": "A headlamp is recommended, as the paths are not lit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermounterwäsche, die Temperaturen sinken oft unter -10°C.",
+              "Planen Sie Outdoor-Aktivitäten vor 15:00 Uhr ein, bevor es dunkel wird.",
+              "Die Wege in Untamala werden im Winter nicht immer geräumt.",
+              "Nehmen Sie eine Thermoskanne mit einem heißen Getränk mit.",
+              "Achten Sie auf Eiszapfen an den Dächern historischer Gebäude."
+            ],
+            "hu": [
+              "Viseljen termikus alsóneműt, a hőmérséklet gyakran -10°C alá süllyed.",
+              "Tervezze a kültéri programokat 15:00 előttre, mielőtt besötétedik.",
+              "Untamala útjait télen nem mindig takarítják le teljesen.",
+              "Vigyen magával termoszt forró itallal a sétához.",
+              "Ügyeljen a jégcsapokra a történelmi épületek ereszén."
+            ],
+            "ro": [
+              "Purtați lenjerie termică, temperaturile scad adesea sub -10°C.",
+              "Planificați activitățile în aer liber înainte de ora 15:00, înainte de întuneric.",
+              "Drumurile din Untamala nu sunt întotdeauna deszăpezite complet iarna.",
+              "Luați un termos cu o băutură caldă pentru plimbare.",
+              "Atenție la țurțurii de pe streșinile clădirilor istorice."
+            ],
+            "en": [
+              "Wear thermal underwear, as temperatures often drop below -10°C.",
+              "Plan outdoor activities before 15:00, before it gets dark.",
+              "The paths in Untamala are not always cleared of snow in winter.",
+              "Take a thermos with a hot drink for your walk.",
+              "Watch out for icicles on the eaves of historical buildings."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +919,214 @@
           "Bring enough water and some snacks for the longer stretches.",
           "Finland is bike-friendly, but always be aware of traffic, especially on country roads."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag beginnt an der Bibliothek, wo man kurz das Wetterradar prüft. Die Fahrt zum Pouka-Haus ist kurz, aber spritzig; Schutzbleche sind hier Gold wert. Mittags radelt man vorsichtig zur St.-Michael-Kirche, wobei man auf rutschige Markierungen achtet. Der Nachmittag erfordert Ausdauer für die Strecke nach Untamala, während der Regen gegen das Visier prasselt. Die Rückfahrt im Abendgrauen erfolgt auf beleuchteten Wegen, wobei die Pfützen die Scheinwerfer reflektieren.",
+            "hu": "Az esős kerékpáros nap a könyvtárnál indul, ahol még egyszer ellenőrizzük a radart. Az út a Pouka-házig rövid, de vizes; a sárvédő itt aranyat ér. Délben óvatosan tekerünk a Szent Mihály-templomhoz, figyelve a csúszós felfestésekre. A délután kitartást igényel az Untamala felé vezető úton, miközben az eső a sisakrostélyon kopog. Az esti visszautat a kivilágított utakon tesszük meg, ahol a tócsák visszaverik a lámpák fényét.",
+            "ro": "O zi ploioasă pe bicicletă începe la bibliotecă, verificând radarul meteo. Drumul spre Casa Pouka este scurt, dar ud; apărătorile de noroi sunt esențiale. La prânz, pedalăm cu grijă spre Biserica Sf. Mihail, evitând marcajele rutiere alunecoase. După-amiaza necesită perseverență pentru drumul spre Untamala, cu ploaia bătând în vizieră. Întoarcerea pe înserat se face pe drumuri iluminate, unde bălțile reflectă farurile.",
+            "en": "A rainy cycling day starts at the library, checking the weather radar. The ride to Pouka House is short but wet; mudguards are worth their weight in gold here. At noon, we pedal cautiously to St. Michael’s Church, watching out for slippery road markings. The afternoon requires stamina for the trip to Untamala, with rain drumming on the helmet. The evening return is on lit paths, where puddles reflect the bike lights."
+          },
+          "stops": [
+            {
+              "name": "Laitila Town Library",
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Fahrradständer am Eingang.",
+                "hu": "Használja a bejáratnál lévő fedett biciklitárolókat.",
+                "ro": "Folosiți rastelele acoperite de biciclete de la intrare.",
+                "en": "Use the covered bike racks at the entrance."
+              }
+            },
+            {
+              "name": "Pouka House",
+              "tip_5lang": {
+                "de": "Wischen Sie den Sattel trocken, bevor Sie ins Museum gehen.",
+                "hu": "Törölje szárazra a nyerget, mielőtt bemegy a múzeumba.",
+                "ro": "Ștergeți șaua înainte de a intra în muzeu.",
+                "en": "Wipe your saddle dry before heading into the museum."
+              }
+            },
+            {
+              "name": "St. Michael's Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen, das Kopfsteinpflaster ist glatt.",
+                "hu": "Vigyázat a leszálláskor, a macskakő síkos lehet.",
+                "ro": "Atenție la coborâre, pavajul cu piatră cubică este alunecos.",
+                "en": "Careful when dismounting; the cobblestones are slick."
+              }
+            },
+            {
+              "name": "Kirkkopuisto Park",
+              "tip_5lang": {
+                "de": "Meiden Sie tiefe Pfützen auf den Parkwegen.",
+                "hu": "Kerülje a mély tócsákat a parki utakon.",
+                "ro": "Evitați bălțile adânci de pe aleile parcului.",
+                "en": "Avoid deep puddles on the park paths."
+              }
+            },
+            {
+              "name": "Kauppila Enclosed Farmstead",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter einen Dachvorsprung, falls möglich.",
+                "hu": "Állítsa a biciklit az eresz alá, ha lehetséges.",
+                "ro": "Parcați bicicleta sub o streașină, dacă este posibil.",
+                "en": "Park your bike under an eave if possible."
+              }
+            },
+            {
+              "name": "Untamala Village",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem weichen Bankett der Landstraße.",
+                "hu": "Vigyázat az országút puha padkáján.",
+                "ro": "Atenție la acostamentul moale al drumului național.",
+                "en": "Caution on the soft shoulder of the country road."
+              }
+            },
+            {
+              "name": "Soukainen Settlement",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen nach der Fahrt durch den Matsch.",
+                "hu": "Ellenőrizze a fékeket a sáros szakasz után.",
+                "ro": "Verificați frânele după segmentul cu noroi.",
+                "en": "Check your brakes after the muddy section."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie wasserdichte Packtaschen für Ihre Ausrüstung.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nasser Fahrbahn.",
+              "Tragen Sie eine Neon-Regenjacke für bessere Sichtbarkeit.",
+              "Vermeiden Sie plötzliches Bremsen auf nassem Laub.",
+              "Reinigen Sie die Kette nach der Tour, um Rost vorzubeugen."
+            ],
+            "hu": [
+              "Használjon vízálló oldaltáskákat a felszereléséhez.",
+              "Kicsit csökkentse a guminyomást a jobb tapadásért vizes úton.",
+              "Viseljen neon esőkabátot a jobb láthatóság érdekében.",
+              "Kerülje a hirtelen fékezést a vizes leveleken.",
+              "Tisztítsa meg a láncot a túra után a rozsda megelőzésére."
+            ],
+            "ro": [
+              "Folosiți genți laterale impermeabile pentru echipament.",
+              "Reduceți ușor presiunea în pneuri pentru aderență mai bună pe carosabil ud.",
+              "Purtați o jachetă de ploaie neon pentru vizibilitate sporită.",
+              "Evitați frânarea bruscă pe frunzele ude.",
+              "Curățați lanțul după tură pentru a preveni rugina."
+            ],
+            "en": [
+              "Use waterproof panniers for your gear.",
+              "Slightly reduce tire pressure for better grip on wet roads.",
+              "Wear a neon raincoat for better visibility.",
+              "Avoid sudden braking on wet leaves.",
+              "Clean the chain after the tour to prevent rust."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein eiskalter Morgen startet an der Bibliothek, wobei die Reifen im Neuschnee knirschen. Die Fahrt zum Pouka-Haus erfordert volle Konzentration auf Eisstellen. Mittags bietet die St.-Michael-Kirche eine willkommene Aufwärmpause für steife Finger. Der Nachmittagsweg nach Untamala ist eine Herausforderung gegen den kalten Nordwind, belohnt aber mit glitzernden Schneelandschaften. Die Rückfahrt erfolgt in völliger Dunkelheit, wobei das Fahrradlicht den Weg durch die finnische Winternacht schneidet. Ein heißer Kakao beschließt den Tag.",
+            "hu": "A jéghideg reggel a könyvtárnál indul, a gumik csikorognak a friss havon. Az út a Pouka-házig teljes koncentrációt igényel a jeges foltok miatt. Délben a Szent Mihály-templom hívogató pihenő az elgémberedett ujjaknak. A délutáni út Untamala felé küzdelem a hideg északi széllel, de a csillogó havas táj kárpótol. A visszaút teljes sötétségben telik, ahol a biciklilámpa vág utat a finn téli éjszakában. A napot egy forró kakaó zárja.",
+            "ro": "O dimineață înghețată începe la bibliotecă, cu pneurile scrâșnind pe zăpada proaspătă. Drumul spre Casa Pouka necesită concentrare maximă pe porțiunile cu gheață. La prânz, Biserica Sf. Mihail oferă o pauză binemeritată pentru degetele amorțite. Drumul de după-amiază spre Untamala este o provocare împotriva vântului rece de nord, dar peisajul sclipitor merită efortul. Întoarcerea se face în întuneric total, farul bicicletei tăind noaptea de iarnă finlandeză. O ciocolată caldă încheie ziua.",
+            "en": "An ice-cold morning starts at the library, with tires crunching on fresh snow. The ride to Pouka House requires full focus on icy patches. At noon, St. Michael’s Church offers a welcome warming break for stiff fingers. The afternoon trek to Untamala is a challenge against the cold north wind, rewarded by glistening snowscapes. The return journey is in total darkness, with the bike light cutting through the Finnish winter night. A hot cocoa closes the day."
+          },
+          "stops": [
+            {
+              "name": "Laitila Town Library",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob Ihre Lichter bei Kälte einwandfrei funktionieren.",
+                "hu": "Ellenőrizze, hogy a lámpák jól bírják-e a hideget.",
+                "ro": "Verificați dacă luminile funcționează corect la frig.",
+                "en": "Check if your lights are working properly in the cold."
+              }
+            },
+            {
+              "name": "Pouka House",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad an einen windgeschützten Ort.",
+                "hu": "Állítsa a biciklit szélvédett helyre.",
+                "ro": "Parcați bicicleta într-un loc ferit de vânt.",
+                "en": "Park your bike in a wind-sheltered spot."
+              }
+            },
+            {
+              "name": "St. Michael's Church",
+              "tip_5lang": {
+                "de": "Parken Sie nicht in hohen Schneewehen.",
+                "hu": "Ne parkoljon magas hótorlaszokban.",
+                "ro": "Nu parcați în troiene de zăpadă.",
+                "en": "Avoid parking in high snowdrifts."
+              }
+            },
+            {
+              "name": "Kirkkopuisto Park",
+              "tip_5lang": {
+                "de": "Die Wege im Park können vereist sein; fahren Sie langsam.",
+                "hu": "A parki utak jegesek lehetnek; tekerjen lassan.",
+                "ro": "Aleile din parc pot fi înghețate; pedalați încet.",
+                "en": "Park paths can be icy; ride slowly."
+              }
+            },
+            {
+              "name": "Kauppila Enclosed Farmstead",
+              "tip_5lang": {
+                "de": "Lassen Sie das Schloss nicht einfrieren; nutzen Sie Enteiser-Spray.",
+                "hu": "Ne hagyja befagyni a lakatot; használjon jégoldó spray-t.",
+                "ro": "Nu lăsați lacătul să înghețe; folosiți spray degivrant.",
+                "en": "Don't let your lock freeze; use de-icer spray."
+              }
+            },
+            {
+              "name": "Untamala Village",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneepflügen auf der Landstraße.",
+                "hu": "Vigyázat a hókotrókkal az országúton.",
+                "ro": "Atenție la utilajele de deszăpezire pe drumul național.",
+                "en": "Watch out for snowplows on the country road."
+              }
+            },
+            {
+              "name": "Soukainen Settlement",
+              "tip_5lang": {
+                "de": "Kürzester Stopp, um Auskühlung zu vermeiden.",
+                "hu": "A legrövidebb megálló a kihűlés elkerülése érdekében.",
+                "ro": "Cea mai scurtă oprire pentru a evita răcirea excesivă.",
+                "en": "Keep this stop short to avoid getting too cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikes-Reifen sind für finnische Winterstraßen dringend empfohlen.",
+              "Tragen Sie eine winddichte Maske unter dem Helm.",
+              "Batterien entladen sich bei Kälte schneller; nehmen Sie Ersatzakkus mit.",
+              "Fetten Sie die Züge ein, damit sie nicht einfrieren.",
+              "Tragen Sie beheizbare Handschuhe für die langen Etappen."
+            ],
+            "hu": [
+              "Szöges gumik erősen ajánlottak a finn téli utakra.",
+              "Viseljen szélálló maszkot a sisak alatt.",
+              "Az akkumulátorok gyorsabban merülnek hidegben; vigyen pótot.",
+              "Zsírozza meg a bowdeneket, hogy ne fagyjanak be.",
+              "Használjon fűthető kesztyűt a hosszú szakaszokon."
+            ],
+            "ro": [
+              "Anvelopele cu ținte sunt recomandate pentru drumurile de iarnă finlandeze.",
+              "Purtați o mască anti-vânt sub cască.",
+              "Bateriile se descarcă mai repede la frig; luați rezerve.",
+              "Gresați cablurile pentru a preveni înghețarea lor.",
+              "Folosiți mănuși încălzite pentru segmentele lungi."
+            ],
+            "en": [
+              "Studded tires are highly recommended for Finnish winter roads.",
+              "Wear a windproof mask under your helmet.",
+              "Batteries drain faster in the cold; bring spares.",
+              "Grease your cables to prevent them from freezing.",
+              "Use heated gloves for the long stretches."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1133,6 +1531,232 @@
           "Allow enough time for the drives between clusters.",
           "The cluster-walking philosophy helps minimize parking issues and allows for more exploration on foot."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt bequem im Auto, während man die Route durch das Zentrum plant. Die Parkplätze nahe der St.-Michael-Kirche erlauben einen trockenen Zugang. Mittags fährt man zum Pouka-Haus, wobei die Scheibenwischer den Rhythmus vorgeben. Der Nachmittagsausflug nach Kauppila und Untamala ist dank des Autos angenehm, da man die regnerische Landschaft aus dem trockenen Innenraum genießt. Abends reflektieren die Pfützen auf der Heimfahrt die Rücklichter der anderen Wagen.",
+            "hu": "Az esős reggel kényelmesen, az autóban indul, miközben a központon átvezető utat tervezzük. A Szent Mihály-templom melletti parkolók lehetővé teszik a száraz bejutást. Délben a Pouka-házhoz hajtunk, miközben az ablaktörlők adják a ritmust. A délutáni kirándulás Kauppilába és Untamalába az autóval kellemes, hiszen a vizes tájat a száraz utastérből csodálhatjuk. Este a hazaúton a tócsák visszaverik a többi autó fényeit.",
+            "ro": "O dimineață ploioasă începe confortabil în mașină, planificând ruta prin centru. Parcarea aproape de Biserica Sf. Mihail permite un acces uscat. La prânz, conducem spre Casa Pouka, cu ștergătoarele marcând ritmul. Excursia de după-amiază la Kauppila și Untamala este plăcută datorită mașinii, admirând peisajul ud din interiorul uscat. Seara, la întoarcere, bălțile reflectă stopurile celorlalte mașini.",
+            "en": "A rainy morning starts comfortably in the car, planning the route through the center. Parking near St. Michael’s Church allows for dry access. At noon, we drive to Pouka House with windshield wipers setting the beat. The afternoon trip to Kauppila and Untamala is pleasant in the car, as you admire the rainy landscape from the dry cabin. In the evening, the return drive sees puddles reflecting the taillights of other cars."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Laitila Center",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe der Geschäfte für kurze Wege im Regen.",
+                "hu": "Parkoljon az üzletek közelében a rövid esős sétákért.",
+                "ro": "Parcați aproape de magazine pentru drumuri scurte prin ploaie.",
+                "en": "Park near the shops for short walks in the rain."
+              }
+            },
+            {
+              "name": "St. Michael's Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Parkplatz direkt vor der Kirche.",
+                "hu": "Használja a közvetlenül a templom előtti szilárd parkolót.",
+                "ro": "Folosiți parcarea amenajată direct în fața bisericii.",
+                "en": "Use the paved parking lot directly in front of the church."
+              }
+            },
+            {
+              "name": "Pouka House",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen, Pfützen bilden sich oft an der Bordsteinkante.",
+                "hu": "Vigyázat kiszálláskor, a padkánál gyakran áll a víz.",
+                "ro": "Atenție la coborâre, bălțile se formează adesea lângă bordură.",
+                "en": "Careful when exiting; puddles often form by the curb."
+              }
+            },
+            {
+              "name": "Cluster 2: Kauppila & Surroundings",
+              "tip_5lang": {
+                "de": "Die ländlichen Parkflächen können aufgeweicht sein.",
+                "hu": "A vidéki parkolóhelyek felázhatnak.",
+                "ro": "Spațiile de parcare rurale pot fi moi din cauza ploii.",
+                "en": "Rural parking areas can be softened by the rain."
+              }
+            },
+            {
+              "name": "Kauppila Enclosed Farmstead",
+              "tip_5lang": {
+                "de": "Halten Sie die Regenschirme im Kofferraum griffbereit.",
+                "hu": "Tartsa az esernyőket a csomagtartóban elérhető helyen.",
+                "ro": "Țineți umbrelele la îndemână în portbagaj.",
+                "en": "Keep umbrellas easily accessible in the trunk."
+              }
+            },
+            {
+              "name": "Cluster 3: Iron Age History",
+              "tip_5lang": {
+                "de": "Langsame Fahrt auf den schmalen Dorfstraßen bei schlechter Sicht.",
+                "hu": "Lassú haladás a szűk falusi utakon rossz látási viszonyoknál.",
+                "ro": "Conduceți încet pe drumurile înguste de sat în caz de vizibilitate redusă.",
+                "en": "Drive slowly on the narrow village roads in low visibility."
+              }
+            },
+            {
+              "name": "Untamala Village",
+              "tip_5lang": {
+                "de": "Parken Sie auf festem Grund, um Festfahren zu vermeiden.",
+                "hu": "Parkoljon szilárd talajon az elakadás elkerülése érdekében.",
+                "ro": "Parcați pe teren solid pentru a evita împotmolirea.",
+                "en": "Park on solid ground to avoid getting stuck."
+              }
+            },
+            {
+              "name": "Soukainen Settlement",
+              "tip_5lang": {
+                "de": "Beschlagene Scheiben mit der Klimaanlage schnell klären.",
+                "hu": "Párásodó szélvédőt klímával gyorsan tisztítsa le.",
+                "ro": "Dezaburiți rapid geamurile folosind aerul condiționat.",
+                "en": "Quickly clear fogged windows using the air conditioning."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer vor der Fahrt.",
+              "Vermeiden Sie das Durchfahren tiefer Pfützen (Aquaplaning-Gefahr).",
+              "Achten Sie auf Fußgänger in der Nähe von Wasserspritzen.",
+              "Schalten Sie das Abblendlicht auch tagsüber ein.",
+              "Ein kleiner Handfeger hilft, Wasser von den Seitenspiegeln zu entfernen."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlők állapotát indulás előtt.",
+              "Kerülje a mély tócsákon való áthajtást (aquaplaning veszély).",
+              "Ügyeljen a gyalogosokra a vízfelverődésnél.",
+              "Kapcsolja be a tompított fényszórót nappal is.",
+              "Egy kis kefe segít eltávolítani a vizet az oldalsó tükrökről."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "Evitați trecerea prin bălți adânci (risc de acvaplanare).",
+              "Atenție la pietoni când treceți prin bălți.",
+              "Aprindeți faza scurtă și în timpul zilei.",
+              "O perie mică ajută la îndepărtarea apei de pe oglinzile laterale."
+            ],
+            "en": [
+              "Check the condition of your wipers before starting.",
+              "Avoid driving through deep puddles (hydroplaning risk).",
+              "Watch out for pedestrians when splashing water.",
+              "Turn on your low beams even during the day.",
+              "A small brush helps remove water from side mirrors."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt mit dem Enteisen der Scheiben, bevor es ins verschneite Zentrum geht. Die Sitzheizung macht die Fahrt zur St.-Michael-Kirche behaglich. Mittags steuert man das Pouka-Haus an, während das Thermometer tief unter Null zeigt. Der Nachmittagsausflug nach Kauppila führt durch eine märchenhafte Winterlandschaft, die man sicher vom Wagen aus beobachtet. Da es früh dunkelt, leuchten die Scheinwerfer den Weg nach Untamala durch den hohen Schnee. Abends kehrt man in die Wärme zurück.",
+            "hu": "A fagyos reggel a szélvédő jégtelenítésével indul, mielőtt a havas központba hajtanánk. Az ülésfűtés kényelmessé teszi az utat a Szent Mihály-templomig. Délben a Pouka-házat vesszük célba, miközben a hőmérő mélyen nulla alá süllyed. A délutáni kirándulás Kauppilába mesebeli téli tájon át vezet, amit biztonságban figyelhetünk az autóból. Mivel korán sötétedik, a fényszórók világítják meg az utat Untamala felé a mély hóban. Este visszatérünk a melegbe.",
+            "ro": "O dimineață geroasă începe cu degivrarea parbrizului înainte de a porni spre centrul înzăpezit. Încălzirea în scaune face drumul spre Biserica Sf. Mihail confortabil. La prânz, ne îndreptăm spre Casa Pouka în timp ce termometrul indică mult sub zero grade. Excursia de după-amiază la Kauppila trece printr-un peisaj de iarnă feeric, observat în siguranță din mașină. Deoarece se întunecă devreme, farurile luminează drumul spre Untamala prin zăpada mare. Seara ne întoarcem la căldură.",
+            "en": "A frosty morning starts with de-icing the windshield before heading into the snowy center. Heated seats make the drive to St. Michael’s Church cozy. At noon, we head for Pouka House while the thermometer shows well below zero. The afternoon drive to Kauppila leads through a fairytale winter landscape, observed safely from the car. As it gets dark early, the headlights illuminate the way to Untamala through deep snow. In the evening, we return to the warmth."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Laitila Center",
+              "tip_5lang": {
+                "de": "Vorsicht beim Parken, Schneehaufen können Parkplätze blockieren.",
+                "hu": "Vigyázat parkoláskor, a hótorlaszok elzárhatják a helyeket.",
+                "ro": "Atenție la parcare, mormanele de zăpadă pot bloca locurile.",
+                "en": "Careful when parking; snowbanks may block spaces."
+              }
+            },
+            {
+              "name": "St. Michael's Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Kirchenparkplatz.",
+                "hu": "Ügyeljen a tükörjégre a templom parkolójában.",
+                "ro": "Atenție la polei în parcarea bisericii.",
+                "en": "Watch out for black ice in the church parking lot."
+              }
+            },
+            {
+              "name": "Pouka House",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Don't leave the engine idling unnecessarily."
+              }
+            },
+            {
+              "name": "Cluster 2: Kauppila & Surroundings",
+              "tip_5lang": {
+                "de": "Fahren Sie nur auf geräumten Flächen; Einsinkgefahr.",
+                "hu": "Csak letakarított területen hajtson; elakadásveszély.",
+                "ro": "Conduceți doar pe suprafețe deszăpezite; risc de afundare.",
+                "en": "Drive only on cleared areas; risk of getting stuck."
+              }
+            },
+            {
+              "name": "Kauppila Enclosed Farmstead",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Standheizung, falls vorhanden.",
+                "hu": "Használja az állóhelyzeti fűtést, ha van.",
+                "ro": "Folosiți încălzirea auxiliară, dacă este disponibilă.",
+                "en": "Use the stationary heater if available."
+              }
+            },
+            {
+              "name": "Cluster 3: Iron Age History",
+              "tip_5lang": {
+                "de": "Die Landstraßen können bei Verwehungen schmaler wirken.",
+                "hu": "Az országutak a hófúvások miatt szűkebbnek tűnhetnek.",
+                "ro": "Drumurile naționale pot părea mai înguste din cauza troienelor.",
+                "en": "Country roads may seem narrower due to snowdrifts."
+              }
+            },
+            {
+              "name": "Untamala Village",
+              "tip_5lang": {
+                "de": "Vermeiden Sie starkes Beschleunigen auf ungeräumten Dorfstraßen.",
+                "hu": "Kerülje a hirtelen gyorsítást a letakarítatlan falusi utakon.",
+                "ro": "Evitați accelerarea bruscă pe drumurile de sat nedepezite.",
+                "en": "Avoid sudden acceleration on uncleared village roads."
+              }
+            },
+            {
+              "name": "Soukainen Settlement",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Scheinwerfer schneefrei sind.",
+                "hu": "Ellenőrizze, hogy a fényszórók hómentesek-e.",
+                "ro": "Verificați dacă farurile sunt curate de zăpadă.",
+                "en": "Check that the headlights are clear of snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Finnland gesetzlich vorgeschrieben.",
+              "Führen Sie eine Schaufel und ein Abschleppseil im Auto mit.",
+              "Halten Sie den Tank mindestens halb voll für Notfälle.",
+              "Entfernen Sie den Schnee komplett vom Dach, bevor Sie losfahren.",
+              "Achten Sie auf Wildtiere (Elche), die im Winter öfter die Straße queren."
+            ],
+            "hu": [
+              "A téli gumi Finnországban törvényileg kötelező.",
+              "Tartson lapátot és vontatókötelet az autóban.",
+              "Legyen legalább félig a tank vészhelyzet esetére.",
+              "Indulás előtt teljesen takarítsa le a havat a tetőről is.",
+              "Ügyeljen a vadakra (jávorszarvas), melyek télen gyakrabban kelnek át."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Finlanda.",
+              "Țineți o lopată și o șufă de remorcare în mașină.",
+              "Păstrați rezervorul cel puțin pe jumătate plin pentru urgențe.",
+              "Îndepărtați complet zăpada de pe plafon înainte de a pleca.",
+              "Atenție la animalele sălbatice (elani) care traversează des drumul iarna."
+            ],
+            "en": [
+              "Winter tires are legally mandatory in Finland.",
+              "Keep a shovel and a tow rope in the car.",
+              "Keep the fuel tank at least half full for emergencies.",
+              "Remove snow completely from the roof before driving.",
+              "Watch out for wildlife (moose) crossing the road more often in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1513,6 +2137,214 @@
           "Pay attention to the last departure time to avoid getting stranded in the outskirts.",
           "Be at the bus stop on time; buses in rural areas may not run frequently."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Transit-Tag beginnt an der zentralen Haltestelle, die guten Schutz bietet. Die Bibliothek ist nur einen kurzen Sprint entfernt. Mittags nimmt man den Bus zur St.-Michael-Kirche, wobei man die Regentropfen am Fenster beobachtet. Der Nachmittagsbesuch in Kauppila erfordert Planung, da der Weg von der Haltestelle zum Bauernhof ungeschützt ist. In Untamala wartet man im Wartehäuschen auf die Rückfahrt, während der Regen auf das Glas trommelt. Abends kehrt man trocken ins Zentrum zurück.",
+            "hu": "Az esős tömegközlekedős nap a központi megállóban indul, ami jó védelmet nyújt. A könyvtár csak egy rövid sprintre van. Délben busszal megyünk a Szent Mihály-templomhoz, figyelve az ablakon lefolyó cseppeket. A délutáni Kauppila látogatás tervezést igényel, mert a megállótól a farmig vezető út nyitott. Untamalában az üvegezett váróban várjuk a visszautat, miközben az eső kopog az üvegen. Este szárazon érünk vissza a központba.",
+            "ro": "O zi ploioasă cu transportul public începe în stația centrală, care oferă adăpost bun. Biblioteca este la doar un sprint distanță. La prânz, luăm autobuzul spre Biserica Sf. Mihail, urmărind picăturile de pe geam. Vizita de după-amiază la Kauppila necesită planificare, drumul de la stație la fermă fiind neprotejat. În Untamala, așteptăm întoarcerea în adăpostul stației în timp ce ploaia bate în geam. Seara revenim uscați în centru.",
+            "en": "A rainy transit day starts at the central stop, which offers good shelter. The library is just a short sprint away. At noon, we take the bus to St. Michael’s Church, watching rain trails on the window. The afternoon visit to Kauppila requires planning, as the walk from the stop to the farm is exposed. In Untamala, we wait for the return in the bus shelter while rain drums on the glass. In the evening, we return dry to the center."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Central Stop",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Wartehäuschen, um trocken auf den Bus zu warten.",
+                "hu": "Használja a várótermet a buszra való száraz várakozáshoz.",
+                "ro": "Folosiți adăpostul stației pentru a aștepta autobuzul la uscat.",
+                "en": "Use the bus shelter to wait for the bus out of the rain."
+              }
+            },
+            {
+              "name": "Laitila Town Library",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Wartezeit auf den nächsten Bus zu überbrücken.",
+                "hu": "Ideális hely a következő buszra való várakozáshoz.",
+                "ro": "Loc ideal pentru a aștepta următorul autobuz.",
+                "en": "Perfect place to wait for the next bus."
+              }
+            },
+            {
+              "name": "St. Michael's Church",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nah; halten Sie den Schirm für den kurzen Weg bereit.",
+                "hu": "A megálló közel van; tartsa készen az esernyőt a rövid útra.",
+                "ro": "Stația este aproape; țineți umbrela gata pentru drumul scurt.",
+                "en": "The stop is close; have your umbrella ready for the short walk."
+              }
+            },
+            {
+              "name": "Cluster 2: Kauppila Stop",
+              "tip_5lang": {
+                "de": "Kein Wartehäuschen vorhanden; Regenschutz ist hier wichtig.",
+                "hu": "Nincs váróterem; az esővédelem itt kulcsfontosságú.",
+                "ro": "Nu există adăpost în stație; protecția contra ploii este esențială aici.",
+                "en": "No shelter at this stop; rain protection is key here."
+              }
+            },
+            {
+              "name": "Kauppila Enclosed Farmstead",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten im Voraus, um langes Warten zu vermeiden.",
+                "hu": "Előre ellenőrizze az indulási időket a hosszú várakozás elkerülésére.",
+                "ro": "Verificați orele de plecare în avans pentru a evita așteptarea lungă.",
+                "en": "Check departure times in advance to avoid long waits."
+              }
+            },
+            {
+              "name": "Cluster 3: Untamala Stop",
+              "tip_5lang": {
+                "de": "Das Wartehäuschen bietet guten Schutz vor Wind und Regen.",
+                "hu": "A váróterem jó védelmet nyújt a szél és eső ellen.",
+                "ro": "Adăpostul stației oferă o protecție bună contra vântului și ploii.",
+                "en": "The bus shelter provides good protection from wind and rain."
+              }
+            },
+            {
+              "name": "Untamala Village",
+              "tip_5lang": {
+                "de": "Der Weg zur Haltestelle kann nach dem Regen rutschig sein.",
+                "hu": "A megállóhoz vezető út eső után csúszós lehet.",
+                "ro": "Drumul spre stație poate fi alunecos după ploaie.",
+                "en": "The path to the stop can be slippery after rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeit-Abfahrtszeiten.",
+              "Halten Sie Kleingeld oder eine Karte bereit, um schnell einzusteigen.",
+              "Die Busse sind gut beheizt und bieten eine Pause vom Wetter.",
+              "Achten Sie auf Pfützen beim Ein- und Aussteigen.",
+              "In ländlichen Gebieten fahren Busse seltener; planen Sie genau."
+            ],
+            "hu": [
+              "Használja az alkalmazást a valós idejű indulásokhoz.",
+              "Legyen kéznél apró vagy kártya a gyors felszálláshoz.",
+              "A buszok jól fűtöttek, pihenőt nyújtanak az időjárás elől.",
+              "Ügyeljen a tócsákra le- és felszálláskor.",
+              "Vidéken a buszok ritkábban járnak; tervezzen pontosan."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru orele de plecare în timp real.",
+              "Aveți pregătit restul sau cardul pentru o îmbarcare rapidă.",
+              "Autobuzele sunt bine încălzite și oferă o pauză de la vreme.",
+              "Atenție la bălți la urcare și coborâre.",
+              "În zonele rurale autobuzele circulă rar; planificați riguros."
+            ],
+            "en": [
+              "Use the app for real-time departure information.",
+              "Have change or a card ready for quick boarding.",
+              "Buses are well-heated and offer a break from the weather.",
+              "Watch out for puddles when getting on or off.",
+              "In rural areas, buses run less frequently; plan carefully."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein eiskalter Morgen beginnt an der zentralen Haltestelle, wobei der Atem in der Luft gefriert. Der Bus bringt einen warm zum Zentrum. Mittags nutzt man den Transit zur St.-Michael-Kirche und genießt den Blick auf die verschneite Stadt. Der Nachmittagsweg nach Kauppila erfordert warme Kleidung für die Wartezeit an der ungeschützten Haltestelle. In Untamala angekommen, wirkt das Dorf wie erstarrt im Schnee. Die Rückfahrt erfolgt im dunklen Bus, während draußen die Winterlandschaft vorbeizieht. Abends erreicht man das gemütliche Zentrum.",
+            "hu": "A jéghideg reggel a központi megállóban indul, a lehelet megfagy a levegőben. A busz melegen visz be a központba. Délben a Szent Mihály-templomhoz utazunk, élvezve a hófödte város látványát. A délutáni út Kauppilába meleg ruhát igényel a védtelen megállóban való várakozáshoz. Untamalába érve a falu mintha megfagyott volna a hóban. A visszaút a sötét buszban telik, miközben kint elsuhan a téli táj. Este érünk vissza a barátságos központba.",
+            "ro": "O dimineață înghețată începe în stația centrală, cu suflarea înghețând în aer. Autobuzul ne duce la căldură spre centru. La prânz, folosim transportul spre Biserica Sf. Mihail, admirând orașul înzăpezit. Drumul de după-amiază spre Kauppila necesită haine groase pentru așteptarea în stația neprotejată. Ajunși în Untamala, satul pare încremenit sub zăpadă. Întoarcerea se face cu autobuzul prin întuneric, privind peisajul de iarnă. Seara ajungem în centrul primitor.",
+            "en": "An ice-cold morning starts at the central stop, with breath freezing in the air. The bus takes you warmly to the center. At noon, we use transit to reach St. Michael’s Church, enjoying the view of the snowy town. The afternoon trip to Kauppila requires warm clothing for the wait at the exposed stop. Arriving in Untamala, the village seems frozen in snow. The return journey is in the dark bus, watching the winter landscape pass by. In the evening, we reach the cozy center."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Central Stop",
+              "tip_5lang": {
+                "de": "Warten Sie im Inneren nahegelegener Geschäfte, falls der Bus Verspätung hat.",
+                "hu": "Várjon a közeli üzletekben, ha késik a busz.",
+                "ro": "Așteptați în interiorul magazinelor apropiate dacă autobuzul întârzie.",
+                "en": "Wait inside nearby shops if the bus is delayed."
+              }
+            },
+            {
+              "name": "Laitila Town Library",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um auf den Anschluss zu warten.",
+                "hu": "Meleg hely a csatlakozásra való várakozáshoz.",
+                "ro": "Un loc cald pentru a aștepta legătura.",
+                "en": "A warm place to wait for your connection."
+              }
+            },
+            {
+              "name": "St. Michael's Church",
+              "tip_5lang": {
+                "de": "Vorsicht vor Schneehaufen beim Aussteigen aus dem Bus.",
+                "hu": "Vigyázat a hóbuckákkal a buszról való leszálláskor.",
+                "ro": "Atenție la mormanele de zăpadă la coborârea din autobuz.",
+                "en": "Watch out for snow piles when getting off the bus."
+              }
+            },
+            {
+              "name": "Cluster 2: Kauppila Stop",
+              "tip_5lang": {
+                "de": "Stellen Sie sich mit dem Rücken zum Wind, um die Kälte zu mildern.",
+                "hu": "Álljon háttal a szélnek a hideg enyhítésére.",
+                "ro": "Stați cu spatele la vânt pentru a diminua frigul.",
+                "en": "Stand with your back to the wind to lessen the cold."
+              }
+            },
+            {
+              "name": "Kauppila Enclosed Farmstead",
+              "tip_5lang": {
+                "de": "Bewegung hält warm, während Sie auf den Bus warten.",
+                "hu": "A mozgás melegen tart, amíg a buszra vár.",
+                "ro": "Mișcarea vă menține cald în timp ce așteptați autobuzul.",
+                "en": "Keep moving to stay warm while waiting for the bus."
+              }
+            },
+            {
+              "name": "Cluster 3: Untamala Stop",
+              "tip_5lang": {
+                "de": "Das Wartehäuschen schützt vor dem eisigen Wind auf freiem Feld.",
+                "hu": "A váróterem véd az országúti jeges szél ellen.",
+                "ro": "Adăpostul stației protejează de vântul înghețat de pe câmp.",
+                "en": "The bus shelter protects against the icy wind in the open fields."
+              }
+            },
+            {
+              "name": "Untamala Village",
+              "tip_5lang": {
+                "de": "Tragen Sie Reflektoren, damit der Busfahrer Sie im Dunkeln sieht.",
+                "hu": "Viseljen fényvisszaverőt, hogy a buszsofőr lássa a sötétben.",
+                "ro": "Purtați reflectorizante pentru ca șoferul să vă vadă în întuneric.",
+                "en": "Wear reflectors so the bus driver can see you in the dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können sich bei extremem Schneefall verzögern.",
+              "Nutzen Sie die Wärme im Bus, um Ihre Hände aufzuwärmen.",
+              "Tragen Sie Schuhe mit gutem Profil für verschneite Haltestellen.",
+              "Achten Sie auf Glätte beim Betreten des Busses.",
+              "In der Dunkelheit ist ein helles Handydisplay als Signal nützlich."
+            ],
+            "hu": [
+              "A menetrendek extrém hóesésben késhetnek.",
+              "Használja ki a busz melegét a kezei felmelegítésére.",
+              "Viseljen jó tapadású cipőt a havas megállókhoz.",
+              "Ügyeljen a csúszásveszélyre a buszra való felszálláskor.",
+              "A sötétben a fényes telefonkijelző hasznos jelzés lehet."
+            ],
+            "ro": [
+              "Orarele pot întârzia în caz de ninsori extreme.",
+              "Folosiți căldura din autobuz pentru a vă încălzi mâinile.",
+              "Purtați încălțăminte cu aderență bună pentru stațiile înzăpezite.",
+              "Atenție la alunecare când urcați în autobuz.",
+              "Pe întuneric, ecranul luminos al telefonului este util ca semnal."
+            ],
+            "en": [
+              "Schedules may be delayed during extreme snowfall.",
+              "Take advantage of the warmth in the bus to thaw your hands.",
+              "Wear shoes with good tread for snowy bus stops.",
+              "Watch out for slippery steps when boarding the bus.",
+              "In the dark, a bright phone screen is useful as a signal."
+            ]
+          }
+        }
       }
     }
   }

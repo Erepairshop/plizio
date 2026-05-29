@@ -358,6 +358,188 @@
           "Many museums are closed on Mondays, check opening times in advance.",
           "A walk along the Murg river offers a nice change of pace from the city center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Frauenfeld bietet die perfekte Gelegenheit, die Innenräume der Stadt zu erkunden. Der Morgen beginnt am Rathaus, gefolgt von einem kurzen, geschützten Weg zur Stadtkirche. Den Mittag verbringen wir im trockenen Schloss Frauenfeld und im Archäologiemuseum. Am Nachmittag trotzen wir dem Regen im Murg-Auen-Park unter dem Blätterdach, bevor wir den Tag gemütlich im Kulturzentrum Baliere ausklingen lassen.",
+            "hu": "Egy esős nap Frauenfeldben tökéletes alkalom a város belső tereinek felfedezésére. A reggel a Városházánál indul, majd egy rövid, védett sétával folytatódik a városi templomig. A delet a száraz Frauenfeld-kastélyban és a Régészeti Múzeumban töltjük. Délután az esernyők alatt dacolunk az esővel a Murg-Auen parkban, mielőtt a napot a Baliere Kulturális Központ barátságos falai között zárnánk.",
+            "ro": "O zi ploioasă în Frauenfeld oferă ocazia perfectă de a explora spațiile interioare ale orașului. Dimineața începe la Primărie, urmată de o scurtă plimbare protejată până la Biserica Sf. Nicolae. Prânzul este petrecut în siguranță la Castelul Frauenfeld și la Muzeul de Arheologie. După-amiaza înfruntăm ploaia în Parcul Murg-Auen sub umbrele, înainte de a încheia ziua confortabil la Centrul Cultural Baliere.",
+            "en": "A rainy day in Frauenfeld provides the perfect opportunity to explore the city's interiors. The morning begins at the Town Hall, followed by a short, sheltered walk to the City Church. Midday is spent in the dry Frauenfeld Castle and the Museum of Archaeology. In the afternoon, we brave the rain in Murg-Auen Park under umbrellas, before ending the day cozily at the Baliere Cultural Centre."
+          },
+          "stops": [
+            {
+              "name": "Frauenfeld Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden in der Nähe des Rathauses, um trocken zu bleiben.",
+                "hu": "Használja a Városháza közeli árkádokat, hogy száraz maradjon.",
+                "ro": "Folosiți arcadele de lângă Primărie pentru a rămâne uscați.",
+                "en": "Use the arcades near the Town Hall to stay dry."
+              }
+            },
+            {
+              "name": "St. Nicholas City Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort, um den Regen draußen zu vergessen.",
+                "hu": "Csendes, száraz hely, ahol elfelejthetjük a kinti esőt.",
+                "ro": "Un loc liniștit și uscat pentru a uita de ploaia de afară.",
+                "en": "A quiet, dry place to forget the rain outside."
+              }
+            },
+            {
+              "name": "Frauenfeld Castle",
+              "tip_5lang": {
+                "de": "Ideal für Regentage; die dicken Mauern halten alles trocken.",
+                "hu": "Ideális esős napokra; a vastag falak mindent szárazon tartanak.",
+                "ro": "Ideal pentru zilele ploioase; pereții groși mențin totul uscat.",
+                "en": "Ideal for rainy days; the thick walls keep everything dry."
+              }
+            },
+            {
+              "name": "Museum of Archaeology Thurgau",
+              "tip_5lang": {
+                "de": "Verbringen Sie hier viel Zeit, während es draußen schüttet.",
+                "hu": "Töltsön itt több időt, amíg odakint szakad az eső.",
+                "ro": "Petreceți mai mult timp aici în timp ce afară plouă torențial.",
+                "en": "Spend extra time here while it pours outside."
+              }
+            },
+            {
+              "name": "Murg-Auen Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf den unbefestigten Wegen.",
+                "hu": "Ügyeljen a tócsákra a nem aszfaltozott ösvényeken.",
+                "ro": "Atenție la bălțile de pe potecile neasfaltate.",
+                "en": "Watch out for puddles on the unpaved paths."
+              }
+            },
+            {
+              "name": "Baliere Cultural Centre",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich nach dem Spaziergang aufzuwärmen.",
+                "hu": "Tökéletes hely a felmelegedéshez a séta után.",
+                "ro": "Locul perfect pentru a vă încălzi după plimbare.",
+                "en": "The perfect place to warm up after the walk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da einige Wege im Park matschig sein können.",
+              "Die Museen bieten Garderoben für nasse Mäntel und Schirme.",
+              "Nutzen Sie die kurzen Distanzen in der Altstadt, um von Unterstand zu Unterstand zu huschen.",
+              "Ein großer Schirm ist im Murg-Auen-Park unverzichtbar."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a park ösvényei sárosak lehetnek.",
+              "A múzeumok ruhatárat biztosítanak a vizes kabátoknak és ernyőknek.",
+              "Használja ki az óváros rövid távolságait, hogy fedett helyről fedett helyre jusson.",
+              "Egy nagy esernyő elengedhetetlen a Murg-Auen parkban."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece potecile din parc pot fi noroioase.",
+              "Muzeele oferă garderobe pentru paltoane și umbrele ude.",
+              "Profitați de distanțele scurte din orașul vechi pentru a sări din adăpost în adăpost.",
+              "O umbrelă mare este indispensabilă în parcul Murg-Auen."
+            ],
+            "en": [
+              "Wear waterproof shoes as some park paths can get muddy.",
+              "Museums provide cloakrooms for wet coats and umbrellas.",
+              "Take advantage of the short distances in the old town to hop between shelters.",
+              "A large umbrella is essential in the Murg-Auen Park."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frauenfeld im Winter versprüht einen besonderen Charme, besonders wenn das Schloss beleuchtet ist. Der Morgen beginnt frisch am Rathaus, gefolgt von einem wärmenden Besuch in der Stadtkirche. Mittags erkunden wir die Geschichte im Schloss und im Museum. Der Nachmittag führt uns durch den winterlichen Murg-Auen-Park, bevor wir uns bei Einbruch der Dunkelheit im Baliere Kulturzentrum aufwärmen.",
+            "hu": "Frauenfeld télen különleges bájt áraszt, főleg amikor a kastély ki van világítva. A reggel frissen indul a Városházánál, majd egy melengető látogatással folytatódik a templomban. Délben a kastélyban és a múzeumban kalandozunk a múltban. A délután a téli Murg-Auen parkon át vezet, mielőtt sötétedéskor felmelegednénk a Baliere központban.",
+            "ro": "Frauenfeld iarna emană un farmec deosebit, mai ales când castelul este iluminat. Dimineața începe proaspăt la Primărie, urmată de o vizită călduroasă la biserică. La prânz explorăm istoria în castel și muzeu. După-amiaza ne poartă prin parcul Murg-Auen hibernal, înainte de a ne încălzi la centrul Baliere odată cu lăsarea întunericului.",
+            "en": "Frauenfeld in winter exudes a special charm, especially when the castle is illuminated. The morning starts briskly at the Town Hall, followed by a warming visit to the church. At midday, we explore history in the castle and museum. The afternoon leads us through the wintry Murg-Auen Park, before warming up at the Baliere centre as darkness falls."
+          },
+          "stops": [
+            {
+              "name": "Frauenfeld Town Hall",
+              "tip_5lang": {
+                "de": "Genießen Sie die Weihnachtsbeleuchtung in der Altstadt am frühen Morgen.",
+                "hu": "Élvezze az óvárosi karácsonyi fényeket kora reggel.",
+                "ro": "Bucurați-vă de luminile de Crăciun din orașul vechi dimineața devreme.",
+                "en": "Enjoy the Christmas lights in the old town early in the morning."
+              }
+            },
+            {
+              "name": "St. Nicholas City Church",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um sich kurz aufzuwärmen.",
+                "hu": "Szép hely egy rövid felmelegedéshez.",
+                "ro": "Un loc frumos pentru a vă încălzi scurt.",
+                "en": "A nice place to warm up briefly."
+              }
+            },
+            {
+              "name": "Frauenfeld Castle",
+              "tip_5lang": {
+                "de": "Im Winter wirkt das Schloss wie aus einem Märchen.",
+                "hu": "Télen a kastély olyan, mintha egy tündérmeséből lépett volna elő.",
+                "ro": "Iarna, castelul arată ca dintr-un basm.",
+                "en": "In winter, the castle looks like it's from a fairy tale."
+              }
+            },
+            {
+              "name": "Museum of Archaeology Thurgau",
+              "tip_5lang": {
+                "de": "Die Ausstellungen sind gut beheizt und sehr informativ.",
+                "hu": "A kiállítások jól fűtöttek és nagyon informatívak.",
+                "ro": "Expozițiile sunt bine încălzite și foarte informative.",
+                "en": "The exhibitions are well-heated and very informative."
+              }
+            },
+            {
+              "name": "Murg-Auen Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen in Ufernähe.",
+                "hu": "Vigyázzon a jeges szakaszokra a part közelében.",
+                "ro": "Atenție la porțiunile înghețate de lângă mal.",
+                "en": "Beware of icy patches near the riverbank."
+              }
+            },
+            {
+              "name": "Baliere Cultural Centre",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Abschluss des Tages im Warmen.",
+                "hu": "A nap hangulatos lezárása a melegben.",
+                "ro": "O încheiere primitoare a zilei la căldură.",
+                "en": "A cozy end to the day in the warm."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:30 Uhr unter.",
+              "Warme Handschuhe sind für den Spaziergang entlang der Murg wichtig.",
+              "Die Wege werden geräumt, können aber bei Frost rutschig sein.",
+              "Trinken Sie eine heiße Schokolade in einem der Cafés in der Altstadt."
+            ],
+            "hu": [
+              "A nap decemberben már 16:30 körül lenyugszik.",
+              "A Murg menti sétához fontos a meleg kesztyű.",
+              "Az utakat takarítják, de fagy esetén csúszósak lehetnek.",
+              "Igyon egy forró csokoládét az óvárosi kávézók egyikében."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 16:30 în decembrie.",
+              "Mănușile călduroase sunt importante pentru plimbarea de-a lungul râului Murg.",
+              "Drumurile sunt deszăpezite, dar pot fi alunecoase în caz de îngheț.",
+              "Beți o ciocolată caldă în una dintre cafenelele din orașul vechi."
+            ],
+            "en": [
+              "The sun sets as early as 4:30 PM in December.",
+              "Warm gloves are important for the walk along the Murg.",
+              "Paths are cleared but can be slippery during frost.",
+              "Have a hot chocolate in one of the old town cafes."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -710,6 +892,188 @@
           "Pay attention to the bike paths, which are well-developed.",
           "A small bike lock is essential for sightseeing in the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen lässt sich Frauenfeld gut mit dem Rad erkunden, wenn man die richtige Ausrüstung hat. Der Morgen startet in der Altstadt, gefolgt von einer Fahrt zur Ruine Bernegg, wo Vorsicht auf nassen Wegen geboten ist. Den Mittag verbringen wir im Schloss, bevor wir uns bei einem Mittagessen stärken. Am Nachmittag radeln wir durch den Park zum Zoo, wo die Tiere den Regen oft genießen.",
+            "hu": "Az eső ellenére Frauenfeld jól felfedezhető kerékpárral a megfelelő felszereléssel. A reggel az óvárosban indul, majd a Bernegg-romokhoz tekerünk, ahol óvatosnak kell lenni a vizes utakon. A delet a kastélyban töltjük, majd egy ebéddel gyűjtünk erőt. Délután a parkon át a állatkertbe tekerünk, ahol az állatok gyakran élvezik az esőt.",
+            "ro": "În ciuda ploii, Frauenfeld poate fi explorat bine cu bicicleta dacă aveți echipamentul potrivit. Dimineața începe în orașul vechi, urmată de o plimbare spre ruinele Bernegg, unde este necesară prudență pe drumurile ude. Prânzul este petrecut la castel, înainte de a ne întări cu o masă caldă. După-amiaza pedalăm prin parc spre grădina zoologică.",
+            "en": "Despite the rain, Frauenfeld can be explored well by bike with the right gear. The morning starts in the old town, followed by a ride to the Bernegg ruins, where caution is needed on wet paths. Midday is spent at the castle, followed by a lunch break. In the afternoon, we cycle through the park to the zoo, where animals often enjoy the rain."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Old Town",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster, es wird bei Nässe sehr rutschig.",
+                "hu": "Vigyázzon a macskakövön, nedvesen nagyon csúszik.",
+                "ro": "Atenție pe piatra cubică, devine foarte alunecoasă când este udă.",
+                "en": "Watch out on the cobblestones; they get very slippery when wet."
+              }
+            },
+            {
+              "name": "Bernegg Ruins",
+              "tip_5lang": {
+                "de": "Der Anstieg kann auf nasser Erde rutschig sein; fahren Sie vorsichtig.",
+                "hu": "Az emelkedő csúszós lehet a nedves földön; tekerjen óvatosan.",
+                "ro": "Urcarea poate fi alunecoasă pe pământ ud; conduceți cu atenție.",
+                "en": "The climb can be slippery on wet ground; ride carefully."
+              }
+            },
+            {
+              "name": "Frauenfeld Castle",
+              "tip_5lang": {
+                "de": "Es gibt überdachte Fahrradständer in der Nähe des Eingangs.",
+                "hu": "Vannak fedett biciklitárolók a bejárat közelében.",
+                "ro": "Există rastele de biciclete acoperite lângă intrare.",
+                "en": "There are covered bike racks near the entrance."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Platz für Ihre nasse Ausrüstung.",
+                "hu": "Válasszon olyan éttermet, ahol van hely a vizes felszerelésnek.",
+                "ro": "Alegeți un restaurant cu spațiu pentru echipamentul ud.",
+                "en": "Choose a restaurant with space for your wet gear."
+              }
+            },
+            {
+              "name": "Murg-Auen Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Maradjon a kijelölt utakon, hogy elkerülje a sarat.",
+                "ro": "Rămâneți pe potecile pavate pentru a evita noroiul.",
+                "en": "Stay on the paved paths to avoid mud."
+              }
+            },
+            {
+              "name": "Plättli Zoo",
+              "tip_5lang": {
+                "de": "Viele Gehege bieten Unterstände für Besucher.",
+                "hu": "Sok kifutó kínál fedett helyet a látogatóknak.",
+                "ro": "Multe țarcuri oferă adăposturi pentru vizitatori.",
+                "en": "Many enclosures offer shelters for visitors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung (Hose und Jacke) ist ratsam.",
+              "Achten Sie auf Straßenbahnschienen und Markierungen, die rutschig sein können.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Planen Sie mehr Zeit für Bremswege auf nassen Straßen ein."
+            ],
+            "hu": [
+              "Teljes esőruházat (nadrág és kabát) tanácsos.",
+              "Ügyeljen a sínpályákra és jelzésekre, amik csúszósak lehetnek.",
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Tervezzen több időt a féktávolságra vizes utakon."
+            ],
+            "ro": [
+              "Se recomandă echipament complet de ploaie (pantaloni și jachetă).",
+              "Atenție la șinele și marcajele rutiere care pot fi alunecoase.",
+              "Apărătorile de noroi sunt obligatorii pe această vreme.",
+              "Prevedeți mai mult timp pentru distanța de frânare pe drumuri ude."
+            ],
+            "en": [
+              "Full rain gear (trousers and jacket) is advisable.",
+              "Watch out for tracks and road markings that can be slippery.",
+              "Mudguards on your bike are a must in this weather.",
+              "Allow extra time for braking on wet roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im winterlichen Frauenfeld erfordert warme Kleidung, belohnt aber mit klarer Luft. Wir starten in der Altstadt und fahren zur Ruine Bernegg für eine tolle Aussicht. Den Mittag verbringen wir im wärmenden Schloss und genießen ein lokales Mittagessen. Am Nachmittag führt die Fahrt durch den Park zum Plättli Zoo, bevor wir vor dem frühen Sonnenuntergang zurückkehren.",
+            "hu": "A kerékpározás a téli Frauenfeldben meleg ruházatot igényel, de friss levegővel jutalmaz. Az óvárosban kezdünk, majd a Bernegg-romokhoz tekerünk a kilátásért. A delet a melengető kastélyban töltjük és helyi ebédet eszünk. Délután a parkon át a Plättli állatkertbe vezet az út, mielőtt a korai naplemente előtt visszatérnénk.",
+            "ro": "Mersul cu bicicleta în Frauenfeld iarna necesită haine groase, dar vă răsplătește cu aer curat. Începem în orașul vechi și mergem la ruinele Bernegg pentru o priveliște minunată. Prânzul îl petrecem la căldură în castel. După-amiaza, drumul ne duce prin parc spre grădina zoologică Plättli, înainte de a ne întoarce înainte de apus.",
+            "en": "Cycling in wintry Frauenfeld requires warm clothing but rewards you with crisp air. We start in the old town and ride to the Bernegg ruins for a great view. Midday is spent in the warming castle with a local lunch. In the afternoon, the ride goes through the park to Plättli Zoo before returning before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Town Hall and Old Town",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a jegesedésre a macskaköveken.",
+                "ro": "Atenție la poleiul de pe piatra cubică.",
+                "en": "Watch out for black ice on the cobblestones."
+              }
+            },
+            {
+              "name": "Bernegg Ruins",
+              "tip_5lang": {
+                "de": "Der Weg zur Ruine kann bei Frost sehr rutschig sein.",
+                "hu": "A romokhoz vezető út fagy esetén nagyon csúszós lehet.",
+                "ro": "Drumul spre ruine poate fi foarte alunecos în caz de îngheț.",
+                "en": "The path to the ruins can be very slippery during frost."
+              }
+            },
+            {
+              "name": "Frauenfeld Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch, um Ihre Hände aufzuwärmen.",
+                "hu": "Használja ki a látogatást a kezei felmelegítésére.",
+                "ro": "Profitați de vizită pentru a vă încălzi mâinile.",
+                "en": "Use the visit to warm up your hands."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Eine heiße Suppe ist jetzt genau das Richtige.",
+                "hu": "Egy forró leves most éppen a legjobb választás.",
+                "ro": "O supă caldă este exact ce trebuie acum.",
+                "en": "A hot soup is just the thing right now."
+              }
+            },
+            {
+              "name": "Murg-Auen Park",
+              "tip_5lang": {
+                "de": "Die Wege im Park sind oft windanfällig und kalt.",
+                "hu": "A park ösvényei gyakran szelesek és hidegek.",
+                "ro": "Potecile din parc sunt adesea expuse vântului și reci.",
+                "en": "The paths in the park are often windy and cold."
+              }
+            },
+            {
+              "name": "Plättli Zoo",
+              "tip_5lang": {
+                "de": "Prüfen Sie, welche Tiere im Winter draußen sind.",
+                "hu": "Ellenőrizze, mely állatok vannak kint télen.",
+                "ro": "Verificați ce animale sunt afară pe timp de iarnă.",
+                "en": "Check which animals are out during the winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+              "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip).",
+              "Vermeiden Sie hektische Lenkbewegungen bei Schnee oder Frost.",
+              "Ein Thermosbecher mit Tee hält Sie unterwegs warm."
+            ],
+            "hu": [
+              "Győződjön meg róla, hogy a kerékpárvilágítás tökéletesen működik.",
+              "Viseljen több réteg ruhát (hagyma-elv).",
+              "Kerülje a hirtelen kormánymozdulatokat hóban vagy fagyban.",
+              "Egy termosz tea melegen tartja útközben."
+            ],
+            "ro": [
+              "Asigurați-vă că luminile bicicletei funcționează perfect.",
+              "Purtați mai multe straturi de haine (principiul cepei).",
+              "Evitați mișcările bruște de direcție pe zăpadă sau îngheț.",
+              "Un termos cu ceai vă va ține de cald pe drum."
+            ],
+            "en": [
+              "Ensure your bike lights are working perfectly.",
+              "Wear multiple layers of clothing (onion principle).",
+              "Avoid sudden steering movements in snow or frost.",
+              "A thermos of tea will keep you warm on the go."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1062,6 +1426,188 @@
           "The streets in the old town are narrow, driving there is not recommended.",
           "The Plättli Zoo has its own car parks, which can fill up quickly on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Frauenfeld auch bei starkem Regen bequem zu erkunden. Wir parken zentral und besuchen das Rathaus, bevor wir zum Schloss weiterfahren. Den Mittag verbringen wir geschützt in der Stadtkirche und fahren dann zum Plättli Zoo, der viele überdachte Bereiche bietet. Den Tag schließen wir mit einem entspannten Kaffee am Flussufer ab.",
+            "hu": "Autóval Frauenfeld erős esőben is kényelmesen felfedezhető. Központilag parkolunk és meglátogatjuk a Városházát, mielőtt a kastélyhoz mennénk. A delet a városi templom oltalmában töltjük, majd a Plättli állatkertbe hajtunk, ahol sok a fedett rész. A napot egy pihentető kávéval zárjuk a folyóparton.",
+            "ro": "Cu mașina, Frauenfeld este ușor de explorat chiar și pe ploaie puternică. Parcăm central și vizităm Primăria înainte de a merge la castel. Prânzul îl petrecem la adăpost în biserică, apoi conducem spre grădina zoologică Plättli. Încheiem ziua cu o cafea relaxantă pe malul râului.",
+            "en": "By car, Frauenfeld is comfortable to explore even in heavy rain. We park centrally and visit the Town Hall before driving to the castle. Midday is spent sheltered in the church, then we drive to Plättli Zoo, which offers many covered areas. We end the day with a relaxed coffee by the riverbank."
+          },
+          "stops": [
+            {
+              "name": "Old Town Car Park & Town Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkhäuser, um trocken in die Altstadt zu gelangen.",
+                "hu": "Használja a parkolóházakat, hogy szárazon jusson az óvárosba.",
+                "ro": "Folosiți parcările etajate pentru a ajunge uscați în orașul vechi.",
+                "en": "Use the parking garages to reach the old town dry."
+              }
+            },
+            {
+              "name": "Frauenfeld Castle & Museum",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze in unmittelbarer Nähe des Schlosses.",
+                "hu": "A kastély közvetlen közelében találhatók parkolóhelyek.",
+                "ro": "Există locuri de parcare în imediata apropiere a castelului.",
+                "en": "There are parking spaces in the immediate vicinity of the castle."
+              }
+            },
+            {
+              "name": "St. Nicholas City Church",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zur Kirche hält Sie trocken.",
+                "hu": "Egy rövid futás a parkolótól a templomig szárazon tartja.",
+                "ro": "Un scurt sprint de la parcare la biserică vă va menține uscat.",
+                "en": "A short sprint from the parking to the church keeps you dry."
+              }
+            },
+            {
+              "name": "Plättli Zoo",
+              "tip_5lang": {
+                "de": "Der Zoo hat einen großen, gut befestigten Parkplatz.",
+                "hu": "Az állatkertnek nagy, jól kiépített parkolója van.",
+                "ro": "Grădina zoologică are o parcare mare și bine amenajată.",
+                "en": "The zoo has a large, well-paved parking lot."
+              }
+            },
+            {
+              "name": "Murg-Auen Park & Riverbank",
+              "tip_5lang": {
+                "de": "Parken Sie am Rand des Parks für einen kurzen Weg zum Wasser.",
+                "hu": "Parkoljon a park szélén a vízhez vezető rövid útért.",
+                "ro": "Parcați la marginea parcului pentru un acces scurt la apă.",
+                "en": "Park at the edge of the park for a short walk to the water."
+              }
+            },
+            {
+              "name": "Coffee by the river",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café mit Fenstern zum Fluss.",
+                "hu": "Válasszon egy folyóra néző ablakos kávézót.",
+                "ro": "Alegeți o cafenea cu ferestre spre râu.",
+                "en": "Choose a cafe with windows facing the river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schalten Sie das Licht ein, da die Sicht bei Regen eingeschränkt sein kann.",
+              "Achten Sie auf Fußgänger mit Regenschirmen, die weniger sehen.",
+              "Die Parkhäuser in der Innenstadt sind meistens videoüberwacht.",
+              "Halten Sie ein Tuch bereit, um beschlagene Scheiben zu reinigen."
+            ],
+            "hu": [
+              "Kapcsolja be a világítást, mert esőben rosszabbak a látási viszonyok.",
+              "Ügyeljen az esernyős gyalogosokra, akik kevesebbet látnak.",
+              "A belvárosi parkolóházak többnyire videóval megfigyeltek.",
+              "Tartson kéznél egy törlőkendőt a bepárásodott ablakokhoz."
+            ],
+            "ro": [
+              "Aprindeți luminile, deoarece vizibilitatea poate fi redusă pe ploaie.",
+              "Atenție la pietonii cu umbrele, care au vizibilitate scăzută.",
+              "Parcările din centrul orașului sunt de obicei supravegheate video.",
+              "Aveți la îndemână o lavetă pentru a curăța geamurile aburite."
+            ],
+            "en": [
+              "Turn on your lights as visibility can be reduced in the rain.",
+              "Watch out for pedestrians with umbrellas who see less.",
+              "Parking garages in the city centre are usually video-monitored.",
+              "Keep a cloth handy to clean fogged windows."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch Frauenfeld ist sicher und bequem. Wir starten in der Altstadt, besuchen das Schloss und wärmen uns in der Stadtkirche auf. Mittags fahren wir zum Plättli Zoo, wo wir die Tiere im Schnee beobachten können. Der Nachmittag endet mit einem Spaziergang im Park und einem heißen Getränk am Flussufer.",
+            "hu": "Egy téli autóút Frauenfeldben biztonságos és kényelmes. Az óvárosban kezdünk, meglátogatjuk a kastélyt és felmelegedünk a templomban. Délben az állatkertbe hajtunk, ahol megfigyelhetjük az állatokat a hóban. A délután a parkban tett sétával és egy forró itallal zárul a folyóparton.",
+            "ro": "O călătorie cu mașina prin Frauenfeld iarna este sigură și confortabilă. Începem în orașul vechi, vizităm castelul și ne încălzim în biserică. La prânz conducem spre grădina zoologică, unde putem observa animalele în zăpadă. După-amiaza se încheie cu o plimbare în parc și o băutură caldă.",
+            "en": "A winter drive through Frauenfeld is safe and comfortable. We start in the old town, visit the castle, and warm up in the church. At midday, we drive to the zoo where we can observe animals in the snow. The afternoon ends with a walk in the park and a hot drink by the riverbank."
+          },
+          "stops": [
+            {
+              "name": "Old Town Car Park & Town Hall",
+              "tip_5lang": {
+                "de": "Parkhäuser sind im Winter frostfrei und angenehm.",
+                "hu": "A parkolóházak télen fagymentesek és kellemesek.",
+                "ro": "Parcările etajate sunt ferite de îngheț și plăcute iarna.",
+                "en": "Parking garages are frost-free and pleasant in winter."
+              }
+            },
+            {
+              "name": "Frauenfeld Castle & Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das schneebedeckte Schloss.",
+                "hu": "Élvezze a kilátást a hóval borított kastélyra.",
+                "ro": "Bucurați-vă de priveliștea castelului acoperit de zăpadă.",
+                "en": "Enjoy the view of the snow-covered castle."
+              }
+            },
+            {
+              "name": "St. Nicholas City Church",
+              "tip_5lang": {
+                "de": "Drinnen ist es deutlich wärmer als draußen.",
+                "hu": "Odabent lényegesen melegebb van, mint odakint.",
+                "ro": "În interior este mult mai cald decât afară.",
+                "en": "It is significantly warmer inside than outside."
+              }
+            },
+            {
+              "name": "Plättli Zoo",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Zufahrt zum Zoo bei Schneeglätte.",
+                "hu": "Vigyázzon az állatkerthez vezető úton havas csúszósság esetén.",
+                "ro": "Atenție pe drumul spre grădina zoologică în caz de polei.",
+                "en": "Beware of snowy slipperiness on the access road to the zoo."
+              }
+            },
+            {
+              "name": "Murg-Auen Park & Riverbank",
+              "tip_5lang": {
+                "de": "Die Parkplätze am Fluss können vereist sein.",
+                "hu": "A folyóparti parkolók jegesek lehetnek.",
+                "ro": "Parcările de lângă râu pot fi înghețate.",
+                "en": "Parking lots near the river can be icy."
+              }
+            },
+            {
+              "name": "Coffee by the river",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café mit gemütlicher Atmosphäre.",
+                "hu": "Válasszon egy hangulatos légkörű kávézót.",
+                "ro": "Alegeți o cafenea cu o atmosferă primitoare.",
+                "en": "Choose a cafe with a cozy atmosphere."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in der Schweiz bei entsprechenden Bedingungen Pflicht.",
+              "Führen Sie einen Eiskratzer und einen kleinen Besen mit.",
+              "Die Hauptstraßen in Frauenfeld werden vorrangig geräumt.",
+              "Achten Sie auf tiefstehende Sonne, die blenden kann."
+            ],
+            "hu": [
+              "Svájcban a téli gumi kötelező a megfelelő útviszonyok között.",
+              "Vigyen magával jégkaparót és egy kis kefét.",
+              "Frauenfeld főútjait prioritással takarítják.",
+              "Ügyeljen az alacsonyan járó napra, ami elvakíthat."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Elveția în condiții corespunzătoare.",
+              "Aveți la voi o racletă și o perie mică.",
+              "Drumurile principale din Frauenfeld sunt deszăpezite cu prioritate.",
+              "Atenție la soarele de joasă altitudine care poate fi orbitor."
+            ],
+            "en": [
+              "Winter tires are mandatory in Switzerland under corresponding conditions.",
+              "Carry an ice scraper and a small brush.",
+              "Main roads in Frauenfeld are cleared with priority.",
+              "Watch out for the low sun which can be blinding."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1414,6 +1960,188 @@
           "Download the SBB app to see real-time schedules.",
           "A day ticket is often cheaper than several single trips."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem öffentlichen Verkehr bleibt man in Frauenfeld auch bei Regen weitgehend trocken. Wir starten am Bahnhof und nehmen den Bus in die Altstadt zum Rathaus und zum Schloss. Den Mittag verbringen wir im Schlossmuseum. Am Nachmittag fahren wir mit dem Bus zum Murg-Auen-Park und genießen einen kurzen Spaziergang, bevor wir am Flussufer einkehren.",
+            "hu": "A tömegközlekedéssel Frauenfeldben esőben is nagyjából szárazon maradhatunk. A vasútállomáson kezdünk, busszal megyünk az óvárosba a Városházához és a kastélyhoz. A delet a kastélymúzeumban töltjük. Délután busszal utazunk a Murg-Auen parkhoz egy rövid sétára, mielőtt megállnánk a folyóparton.",
+            "ro": "Cu transportul public, rămâneți în mare parte uscați în Frauenfeld chiar și pe ploaie. Începem la gară și luăm autobuzul spre orașul vechi, la Primărie și castel. Prânzul îl petrecem la muzeul castelului. După-amiaza mergem cu autobuzul la parcul Murg-Auen pentru o scurtă plimbare.",
+            "en": "With public transport, you stay largely dry in Frauenfeld even in the rain. We start at the station and take the bus to the old town to the Town Hall and the castle. Midday is spent at the castle museum. In the afternoon, we take the bus to Murg-Auen Park for a short walk before stopping by the riverbank."
+          },
+          "stops": [
+            {
+              "name": "Frauenfeld Station & Start",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet gute Unterstellmöglichkeiten.",
+                "hu": "A vasútállomás jó fedett várakozóhelyeket kínál.",
+                "ro": "Gara oferă bune posibilități de adăpostire.",
+                "en": "The station offers good shelter options."
+              }
+            },
+            {
+              "name": "Town Hall (Old Town Cluster)",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt zentral in der Altstadt.",
+                "hu": "A buszmegálló központilag helyezkedik el az óvárosban.",
+                "ro": "Stația de autobuz este situată central în orașul vechi.",
+                "en": "The bus stop is centrally located in the old town."
+              }
+            },
+            {
+              "name": "Frauenfeld Castle",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von der Bushaltestelle zum Schloss.",
+                "hu": "Csak egy rövid séta a buszmegállótól a kastélyig.",
+                "ro": "Doar o scurtă plimbare de la stația de autobuz la castel.",
+                "en": "Only a short walk from the bus stop to the castle."
+              }
+            },
+            {
+              "name": "Bernegg Ruins (Viewpoint Cluster)",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Busverbindungen in die Außenbezirke.",
+                "hu": "Ellenőrizze a buszjáratokat a külső kerületekbe.",
+                "ro": "Verificați conexiunile de autobuz către cartierele exterioare.",
+                "en": "Check bus connections to the outskirts."
+              }
+            },
+            {
+              "name": "Murg-Auen Park (Nature Cluster)",
+              "tip_5lang": {
+                "de": "Nehmen Sie den Bus, um den Regen im Freien zu minimieren.",
+                "hu": "Szálljon buszra, hogy minimalizálja a kinti esőt.",
+                "ro": "Luați autobuzul pentru a minimiza timpul petrecut în ploaie.",
+                "en": "Take the bus to minimize exposure to rain outdoors."
+              }
+            },
+            {
+              "name": "Walk on the riverbank",
+              "tip_5lang": {
+                "de": "Haltestellen befinden sich oft in der Nähe der Cafés.",
+                "hu": "A megállók gyakran a kávézók közelében találhatók.",
+                "ro": "Stațiile sunt adesea situate în apropierea cafenelelor.",
+                "en": "Stops are often located near the cafes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App der SBB für Echtzeit-Fahrpläne.",
+              "In den Bussen ist es trocken und warm.",
+              "Die Taktfrequenz der Busse ist in der Stadt sehr gut.",
+              "Halten Sie Ihr Ticket (oder Halbtax) bereit."
+            ],
+            "hu": [
+              "Használja az SBB alkalmazást a valós idejű menetrendekhez.",
+              "A buszokon száraz és meleg van.",
+              "A buszok járatsűrűsége a városban nagyon jó.",
+              "Tartsa készenlétben a jegyét (vagy bérletét)."
+            ],
+            "ro": [
+              "Utilizați aplicația SBB pentru orare în timp real.",
+              "În autobuze este uscat și cald.",
+              "Frecvența autobuzelor în oraș este foarte bună.",
+              "Aveți biletul pregătit."
+            ],
+            "en": [
+              "Use the SBB app for real-time schedules.",
+              "The buses are dry and warm.",
+              "The frequency of buses in the city is very good.",
+              "Have your ticket ready."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der öffentliche Verkehr ist im Winter die entspannteste Art, Frauenfeld zu erleben. Wir starten am Bahnhof und fahren in die Altstadt. Mittags besuchen wir das Schloss und wärmen uns auf. Am Nachmittag geht es mit dem Bus zur Ruine Bernegg für die Winteraussicht und dann zum Park, bevor wir den Tag am Fluss beenden.",
+            "hu": "A tömegközlekedés télen a legnyugodtabb módja Frauenfeld megismerésének. A vasútállomáson kezdünk és az óvárosba utazunk. Délben meglátogatjuk a kastélyt és felmelegedünk. Délután busszal megyünk a Bernegg-romokhoz a téli kilátásért, majd a parkba, mielőtt a folyónál zárnánk a napot.",
+            "ro": "Transportul public este cel mai relaxant mod de a experimenta Frauenfeld iarna. Începem la gară și mergem în orașul vechi. La prânz vizităm castelul și ne încălzim. După-amiaza mergem cu autobuzul la ruinele Bernegg pentru priveliștea de iarnă.",
+            "en": "Public transport is the most relaxed way to experience Frauenfeld in winter. We start at the station and travel to the old town. At midday, we visit the castle and warm up. In the afternoon, we take the bus to the Bernegg ruins for the winter view and then to the park before ending the day by the river."
+          },
+          "stops": [
+            {
+              "name": "Frauenfeld Station & Start",
+              "tip_5lang": {
+                "de": "Die Wartehalle im Bahnhof ist im Winter beheizt.",
+                "hu": "A vasútállomás váróterme télen fűtött.",
+                "ro": "Sala de așteptare din gară este încălzită iarna.",
+                "en": "The waiting hall in the station is heated in winter."
+              }
+            },
+            {
+              "name": "Town Hall (Old Town Cluster)",
+              "tip_5lang": {
+                "de": "Kurze Wege von der Haltestelle zu den Läden.",
+                "hu": "Rövid utak a megállótól az üzletekig.",
+                "ro": "Distanțe scurte de la stație la magazine.",
+                "en": "Short walks from the stop to the shops."
+              }
+            },
+            {
+              "name": "Frauenfeld Castle",
+              "tip_5lang": {
+                "de": "Ein wärmender Zwischenstopp auf der Route.",
+                "hu": "Egy melengető megálló az útvonalon.",
+                "ro": "O oprire călduroasă pe traseu.",
+                "en": "A warming stopover on the route."
+              }
+            },
+            {
+              "name": "Bernegg Ruins (Viewpoint Cluster)",
+              "tip_5lang": {
+                "de": "Beachten Sie die selteneren Fahrten am Wochenende.",
+                "hu": "Ügyeljen a ritkább járatokra hétvégén.",
+                "ro": "Atenție la cursele mai rare din weekend.",
+                "en": "Note the less frequent services on weekends."
+              }
+            },
+            {
+              "name": "Murg-Auen Park (Nature Cluster)",
+              "tip_5lang": {
+                "de": "Die Haltestellen sind gut beleuchtet.",
+                "hu": "A megállók jól ki vannak világítva.",
+                "ro": "Stațiile sunt bine iluminate.",
+                "en": "The bus stops are well-lit."
+              }
+            },
+            {
+              "name": "Walk on the riverbank",
+              "tip_5lang": {
+                "de": "Der Bus bringt Sie schnell zurück zum Bahnhof.",
+                "hu": "A busz gyorsan visszaviszi a vasútállomásra.",
+                "ro": "Autobuzul vă aduce rapid înapoi la gară.",
+                "en": "The bus takes you back to the station quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind pünktlich, auch bei leichtem Schneefall.",
+              "Nutzen Sie die Wartezeiten für einen Kaffee im Bahnhof.",
+              "Im Winter ist der ÖV sicherer als das eigene Auto.",
+              "Die Heizung in den Zügen und Bussen ist sehr effizient."
+            ],
+            "hu": [
+              "A buszok pontosak, még enyhe havazás esetén is.",
+              "Használja ki a várakozási időt egy kávéra az állomáson.",
+              "Télen a tömegközlekedés biztonságosabb, mint a saját autó.",
+              "A fűtés a vonatokon és buszokon nagyon hatékony."
+            ],
+            "ro": [
+              "Autobuzele sunt punctuale, chiar și pe ninsoare ușoară.",
+              "Profitați de timpii de așteptare pentru o cafea în gară.",
+              "Iarna, transportul public este mai sigur decât mașina personală.",
+              "Încălzirea în trenuri și autobuze este foarte eficientă."
+            ],
+            "en": [
+              "Buses are punctual, even during light snowfall.",
+              "Use waiting times for a coffee in the station.",
+              "In winter, public transport is safer than your own car.",
+              "Heating in trains and buses is very efficient."
+            ]
+          }
+        }
       }
     }
   }

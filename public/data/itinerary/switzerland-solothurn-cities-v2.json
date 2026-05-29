@@ -379,6 +379,206 @@
           "Many shops close for lunch. Plan your shopping accordingly.",
           "A walk along the Aare river is especially beautiful at sunset."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Baseltor Schutz vor dem ersten Guss. Die Mittagsstunden verbringen wir in der prachtvollen Jesuitenkirche und der St.-Ursen-Kathedrale, die trockene Zuflucht bieten. Der Nachmittag gehört dem Zeughausmuseum, ideal bei Regen. Den Abend lassen wir trotz Schirm an der Aare ausklingen, wo der Nebel über dem Wasser eine mystische Atmosphäre schafft.",
+            "hu": "A reggelt a Bázel-kapu boltívei alatt kezdjük, védve az esőtől. Délben a jezsuita templom és a Szent Orzus-székesegyház belső terei nyújtanak száraz menedéket. A délutánt a Régi Fegyvertár Múzeum kiállításai között töltjük, ami tökéletes esős program. Este az Aare-parti sétányon a ködös folyó látványa kárpótol minket a nedves időért.",
+            "ro": "Dimineața începe sub arcadele Porții Basel, feriți de ploaie. La prânz, interiorul Bisericii Iezuite și Catedrala Sf. Urs oferă un refugiu uscat și liniștit. După-amiaza este dedicată Muzeului Vechiului Arsenal, program ideal pentru vreme umedă. Seara se încheie pe malul râului Aare, unde ceața de deasupra apei creează o atmosferă mistică sub umbrelă.",
+            "en": "Morning starts under the arches of the Basel Gate, sheltered from the rain. Spend midday in the Jesuit Church and St. Ursus Cathedral, providing a dry sanctuary. The afternoon is perfect for the Old Arsenal Museum's indoor exhibits. End the day with an umbrella by the Aare, where the mist over the river creates a unique, atmospheric vibe."
+          },
+          "stops": [
+            {
+              "name": "Basel Gate",
+              "tip_5lang": {
+                "de": "Nutze die Torbögen als Unterstand beim Planen.",
+                "hu": "Használd a kapualjat menedékként a tervezéshez.",
+                "ro": "Folosește arcadele porții ca adăpost pentru planificare.",
+                "en": "Use the gate's arches as shelter while planning."
+              }
+            },
+            {
+              "name": "Clock Tower (Zeitglockenturm)",
+              "tip_5lang": {
+                "de": "Achtung, das Kopfsteinpflaster ist bei Nässe rutschig.",
+                "hu": "Vigyázat, a macskakő vizesen csúszós lehet.",
+                "ro": "Atenție, pavajul este alunecos când este ud.",
+                "en": "Caution, the cobblestones are slippery when wet."
+              }
+            },
+            {
+              "name": "Solothurn Town Hall",
+              "tip_5lang": {
+                "de": "Die Fassade glänzt im Regen besonders fotogen.",
+                "hu": "A homlokzat esőben különösen fotogénen csillog.",
+                "ro": "Fațada strălucește fotogenic în ploaie.",
+                "en": "The facade shines photogenically in the rain."
+              }
+            },
+            {
+              "name": "Jesuit Church",
+              "tip_5lang": {
+                "de": "Idealer Ort, um eine Regenpause einzulegen.",
+                "hu": "Ideális hely egy kis pihenőre az eső elől.",
+                "ro": "Loc ideal pentru o pauză de ploaie în interior.",
+                "en": "Ideal place to take a break from the rain."
+              }
+            },
+            {
+              "name": "St. Ursus Cathedral",
+              "tip_5lang": {
+                "de": "Großer Innenraum, perfekt zum Abtrocknen.",
+                "hu": "Hatalmas belsőtér, tökéletes a megszikkadáshoz.",
+                "ro": "Interior spațios, perfect pentru a te usca puțin.",
+                "en": "Large interior, perfect for drying off a bit."
+              }
+            },
+            {
+              "name": "Old Arsenal Museum",
+              "tip_5lang": {
+                "de": "Schließfächer für nasse Mäntel und Schirme vorhanden.",
+                "hu": "Szekrények elérhetők a vizes kabátoknak és ernyőknek.",
+                "ro": "Dulapuri disponibile pentru haine ude și umbrele.",
+                "en": "Lockers available for wet coats and umbrellas."
+              }
+            },
+            {
+              "name": "Stroll along the Aare River",
+              "tip_5lang": {
+                "de": "Ein fester Schirm trotzt dem Wind am Ufer.",
+                "hu": "Egy erős esernyő jól jön a parti szélben.",
+                "ro": "O umbrelă rezistentă ajută împotriva vântului.",
+                "en": "A sturdy umbrella helps against the river wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Altstadtgassen bieten teils Schutz unter Dachvorsprüngen.",
+              "Das Zeughausmuseum ist die beste Indoor-Option für ca. 2 Stunden.",
+              "Wasserdichtes Schuhwerk ist wegen der Pfützen im Kopfsteinpflaster ratsam.",
+              "Viele Cafés in der Hauptgasse laden zum Aufwärmen ein."
+            ],
+            "hu": [
+              "Az óváros szűk utcáin az ereszek némi védelmet nyújtanak.",
+              "A fegyvertári múzeum a legjobb fedett program 2 órára.",
+              "Vízálló cipő ajánlott a macskakövek közötti tócsák miatt.",
+              "A Hauptgasse kávézói ideálisak a várakozásra, amíg eláll."
+            ],
+            "ro": [
+              "Străzile înguste oferă parțial adăpost sub cornișe.",
+              "Muzeul Arsenalului este cea mai bună opțiune indoor pentru 2 ore.",
+              "Încălțămintea impermeabilă este recomandată din cauza bălților.",
+              "Cafenelele de pe Hauptgasse sunt perfecte pentru încălzire."
+            ],
+            "en": [
+              "Old town alleys provide some shelter under eaves.",
+              "The Arsenal Museum is the best indoor option for about 2 hours.",
+              "Waterproof footwear is advised due to puddles in cobblestones.",
+              "Many cafes in the Hauptgasse are great for warming up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Baseltor ist frostig und klar. Mittags wärmen wir uns in den barocken Kirchen der Altstadt auf, deren Stille im Winter besonders andächtig wirkt. Den Nachmittag verbringen wir im gut beheizten Zeughausmuseum. Da es früh dunkel wird, genießen wir den Blick auf die beleuchtete Aare-Promenade schon zur frühen Abendstunde.",
+            "hu": "A téli reggel a Bázel-kapunál fagyos és tiszta. Délben az óváros barokk templomaiban melegszünk fel, melyek csendje télen különösen meghitt. A délutánt a jól fűtött fegyvertári múzeumban töltjük. Mivel korán sötétedik, már kora este élvezhetjük a kivilágított Aare-parti sétány karácsonyi fényeit.",
+            "ro": "Dimineața de iarnă la Poarta Basel este geroasă și senină. La prânz ne încălzim în bisericile baroce, a căror liniște este aparte iarna. După-amiaza o petrecem în Muzeul Arsenalului, bine încălzit. Deoarece se întunecă devreme, ne bucurăm de luminile promenadei Aare încă de la prima oră a serii.",
+            "en": "The winter morning at Basel Gate is frosty and crisp. At noon, warm up in the Baroque churches, where the silence feels especially peaceful in winter. Spend the afternoon in the well-heated Arsenal Museum. As it gets dark early, enjoy the lights of the Aare promenade by late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Basel Gate",
+              "tip_5lang": {
+                "de": "Warme Handschuhe für die Stadtbesichtigung anziehen.",
+                "hu": "Vegyél fel meleg kesztyűt a városnézéshez.",
+                "ro": "Pune-ți mănuși groase pentru vizitarea orașului.",
+                "en": "Wear warm gloves for the city sightseeing."
+              }
+            },
+            {
+              "name": "Clock Tower (Zeitglockenturm)",
+              "tip_5lang": {
+                "de": "Die Uhr schlägt auch bei Minusgraden präzise.",
+                "hu": "Az óra mínuszokban is pontosan üt.",
+                "ro": "Ceasul bate precis chiar și la temperaturi negative.",
+                "en": "The clock strikes precisely even in freezing temps."
+              }
+            },
+            {
+              "name": "Solothurn Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Architektur zu bewundern.",
+                "hu": "Rövid megálló az építészet megcsodálására.",
+                "ro": "Scurtă oprire pentru a admira arhitectura.",
+                "en": "Short stop to admire the architecture."
+              }
+            },
+            {
+              "name": "Jesuit Church",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und leichten Erwärmung.",
+                "hu": "A nyugalom és az enyhe felmelegedés helye.",
+                "ro": "Un loc de liniște și ușoară încălzire.",
+                "en": "A place of silence and mild warming."
+              }
+            },
+            {
+              "name": "St. Ursus Cathedral",
+              "tip_5lang": {
+                "de": "Achtung, Steinstufen können vereist sein.",
+                "hu": "Vigyázat, a kőlépcsők jegesek lehetnek.",
+                "ro": "Atenție, treptele de piatră pot fi înghețate.",
+                "en": "Caution, stone steps can be icy."
+              }
+            },
+            {
+              "name": "Old Arsenal Museum",
+              "tip_5lang": {
+                "de": "Perfekt beheizt, ideal für eine lange Pause.",
+                "hu": "Kiválóan fűtött, ideális egy hosszú szünetre.",
+                "ro": "Bine încălzit, ideal pentru o pauză lungă.",
+                "en": "Well heated, ideal for a long break."
+              }
+            },
+            {
+              "name": "Stroll along the Aare River",
+              "tip_5lang": {
+                "de": "Der Winterwind weht hier oft recht schneidend.",
+                "hu": "A téli szél itt gyakran metsző hideg.",
+                "ro": "Vântul de iarnă suflă tăios pe malul râului.",
+                "en": "The winter wind often blows sharply here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:40 Uhr unter.",
+              "Kirchen sind oft kühl, behalte die Jacke drinnen an.",
+              "Heißer Punsch wird oft an kleinen Ständen in der Altstadt verkauft.",
+              "Einige Wege an der Aare können bei Glätte gesperrt sein."
+            ],
+            "hu": [
+              "A nap decemberben már 16:40 körül lemegy.",
+              "A templomok hűvösek lehetnek, hagyd magadon a kabátot.",
+              "Forró puncsot gyakran árulnak az óvárosi bódékban.",
+              "Az Aare menti utak jegesedés esetén lezárhatók."
+            ],
+            "ro": [
+              "Soarele apune în decembrie în jurul orei 16:40.",
+              "Bisericile sunt reci, păstrează haina pe tine în interior.",
+              "Punch fierbinte se vinde adesea la tarabe în orașul vechi.",
+              "Unele poteci de pe malul Aare pot fi închise dacă e polei."
+            ],
+            "en": [
+              "The sun sets as early as 16:40 in December.",
+              "Churches are often chilly, keep your jacket on inside.",
+              "Hot punch is often sold at small stalls in the old town.",
+              "Some paths along the Aare might be closed if icy."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -729,6 +929,188 @@
           "Always lock your bike securely in the Old Town.",
           "Bring a water bottle, especially for the ride to the Verena Gorge."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen am Landhaus beginnt mit Regen, wir nutzen befestigte Wege. Mittags besichtigen wir die Kathedrale und das Museum, während die Räder sicher parken. Der Nachmittag führt uns entlang der Aare, wo Pfützen volle Konzentration erfordern. Die Verena-Schlucht besuchen wir nur kurz, da die Waldwege rutschig sind.",
+            "hu": "A reggel a Landhausnál esőben indul, burkolt utakat használunk. Délben a székesegyházat és a múzeumot nézzük meg, amíg a biciklik biztonságban állnak. Délután az Aare mentén tekerünk, ahol a tócsák fokozott figyelmet igényelnek. A Verena-szurdokot csak röviden érintjük a csúszós erdei utak miatt.",
+            "ro": "Dimineața la Landhaus începe cu ploaie, folosim drumuri asfaltate. La prânz vizităm catedrala și muzeul, în timp ce bicicletele sunt parcate sigur. După-amiaza pedalăm de-a lungul râului Aare, unde bălțile cer concentrare maximă. Vizităm Cheile Verena doar scurt, drumurile forestiere fiind alunecoase.",
+            "en": "Morning at Landhaus starts with rain; we stick to paved paths. Midday is spent at the cathedral and museum while bikes are safely parked. Afternoon leads us along the Aare, where puddles require full concentration. We visit Verena Gorge only briefly as forest paths are slippery."
+          },
+          "stops": [
+            {
+              "name": "Landhaus",
+              "tip_5lang": {
+                "de": "Überdachte Fahrradständer in der Nähe suchen.",
+                "hu": "Keress fedett kerékpártárolót a közelben.",
+                "ro": "Caută rastele de biciclete acoperite în apropiere.",
+                "en": "Look for covered bike racks nearby."
+              }
+            },
+            {
+              "name": "Town Hall and Market Square",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázz a fékezéssel a vizes macskakövön.",
+                "ro": "Atenție la frânare pe pavajul ud.",
+                "en": "Be careful when braking on wet cobblestones."
+              }
+            },
+            {
+              "name": "St. Ursus Cathedral",
+              "tip_5lang": {
+                "de": "Fahrradschloss vor Schmutzwasser schützen.",
+                "hu": "Védd a biciklizárat a felcsapódó sártól.",
+                "ro": "Protejează antifurtul de noroi și apă.",
+                "en": "Protect your bike lock from mud and spray."
+              }
+            },
+            {
+              "name": "Old Arsenal Museum",
+              "tip_5lang": {
+                "de": "Ein trockener Ort für eine ausgiebige Pause.",
+                "hu": "Száraz hely egy alapos pihenőhöz.",
+                "ro": "Un loc uscat pentru o pauză prelungită.",
+                "en": "A dry place for an extended break."
+              }
+            },
+            {
+              "name": "Bike ride along the Aare River",
+              "tip_5lang": {
+                "de": "Schutzbleche sind bei diesem Wetter Pflicht.",
+                "hu": "Sárvédő használata ebben az időben kötelező.",
+                "ro": "Aripile de protecție sunt obligatorii pe vremea asta.",
+                "en": "Mudguards are a must in this weather."
+              }
+            },
+            {
+              "name": "Hermitage in the Verena Gorge",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem unbefestigten Waldweg.",
+                "hu": "Vigyázz a burkolatlan erdei úton.",
+                "ro": "Atenție pe drumul forestier neasfaltat.",
+                "en": "Be careful on the unpaved forest path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Trage eine vollständige Regenmontur inkl. Überhose.",
+              "Die Sicht ist bei Regen oft eingeschränkt, Licht einschalten.",
+              "Bremswege verlängern sich auf nasser Fahrbahn erheblich.",
+              "Nutze den offiziellen Aare-Radweg, dieser ist meist gut asphaltiert."
+            ],
+            "hu": [
+              "Viselj teljes esőruházatot, beleértve az esőnadrágot is.",
+              "Esőben a látótávolság csökken, kapcsold be a lámpákat.",
+              "A fékút vizes úton jelentősen meghosszabbodik.",
+              "Használd a hivatalos Aare-kerékpárutat, az többnyire aszfaltozott."
+            ],
+            "ro": [
+              "Poartă echipament complet de ploaie, inclusiv suprapantaloni.",
+              "Vizibilitatea e redusă pe ploaie, aprinde luminile.",
+              "Distanța de frânare crește considerabil pe carosabil ud.",
+              "Folosește pista oficială Aare, este în mare parte asfaltată."
+            ],
+            "en": [
+              "Wear full rain gear, including over-trousers.",
+              "Visibility is often limited in rain; turn on your lights.",
+              "Braking distances increase significantly on wet roads.",
+              "Use the official Aare bike path; it is mostly well-paved."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Landhaus erfordert warme Kleidung. Mittags besichtigen wir die Sehenswürdigkeiten zu Fuß, um die Glieder warm zu halten. Die Fahrt entlang der Aare ist erfrischend, aber der Wind ist eisig. Die Verena-Schlucht wirkt im Winter still und magisch, erfordert aber wegen möglicher Glätte vorsichtiges Fahren.",
+            "hu": "A Landhaustól induló fagyos kezdés meleg ruhát igényel. Délben gyalog nézzük meg a látnivalókat, hogy mozgásban maradjunk. Az Aare menti tekerés frissítő, de a szél jeges. A Verena-szurdok télen csendes és varázslatos, de az esetleges jegesedés miatt óvatos haladást igényel.",
+            "ro": "Un început geros la Landhaus necesită haine groase. La prânz vizităm atracțiile pe jos pentru a ne menține calzi. Plimbarea pe lângă Aare este revigorantă, dar vântul e tăios. Cheile Verena par magice iarna, dar necesită condus prudent din cauza poleiului.",
+            "en": "A frosty start at Landhaus requires warm clothing. At noon, we explore the sights on foot to keep our limbs moving. The ride along the Aare is refreshing, but the wind is icy. Verena Gorge looks silent and magical in winter but requires careful riding due to potential ice."
+          },
+          "stops": [
+            {
+              "name": "Landhaus",
+              "tip_5lang": {
+                "de": "Auf Reifglätte auf Brücken und Holzstegen achten.",
+                "hu": "Ügyelj a dér okozta csúszósságra a hidakon.",
+                "ro": "Atenție la polei pe poduri și pasarele.",
+                "en": "Watch out for frost on bridges and wooden paths."
+              }
+            },
+            {
+              "name": "Town Hall and Market Square",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Kälte nicht zu spüren.",
+                "hu": "Rövid megálló, hogy ne érezd meg a hideget.",
+                "ro": "Oprire scurtă pentru a nu simți frigul.",
+                "en": "Short stop so you don't feel the cold too much."
+              }
+            },
+            {
+              "name": "St. Ursus Cathedral",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf kalten Steinen.",
+                "hu": "Vigyázz a leszálláskor a hideg köveken.",
+                "ro": "Atenție la coborârea de pe bicicletă pe piatră.",
+                "en": "Be careful when dismounting on cold stones."
+              }
+            },
+            {
+              "name": "Old Arsenal Museum",
+              "tip_5lang": {
+                "de": "Gute Gelegenheit, die Hände aufzuwärmen.",
+                "hu": "Jó alkalom a kezek felmelegítésére.",
+                "ro": "Oportunitate bună pentru a-ți încălzi mâinile.",
+                "en": "Good opportunity to warm up your hands."
+              }
+            },
+            {
+              "name": "Bike ride along the Aare River",
+              "tip_5lang": {
+                "de": "Ein Stirnband unter dem Helm schützt die Ohren.",
+                "hu": "A sisak alatti fejpánt védi a füleket.",
+                "ro": "O bentiță sub cască protejează urechile.",
+                "en": "A headband under the helmet protects your ears."
+              }
+            },
+            {
+              "name": "Hermitage in the Verena Gorge",
+              "tip_5lang": {
+                "de": "Bei Schnee ist die Schlucht oft nur zu Fuß sicher.",
+                "hu": "Hóban a szurdok gyakran csak gyalog biztonságos.",
+                "ro": "În caz de zăpadă, cheile sunt sigure doar pe jos.",
+                "en": "In snow, the gorge is often only safe on foot."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Trage mehrere Schichten (Zwiebelprinzip) und Windstopper.",
+              "Prüfe den Reifendruck; etwas weniger Grip kann helfen.",
+              "Die Dämmerung setzt früh ein, funktionierendes Licht ist essenziell.",
+              "Vermeide schnelle Kurven auf schattigen Waldwegen."
+            ],
+            "hu": [
+              "Viselj több réteg ruhát és szélfogót.",
+              "Ellenőrizd a guminyomást; a kicsit puhább gumi jobban tapad.",
+              "A szürkület korán jön, a működő lámpa létfontosságú.",
+              "Kerüld a hirtelen kanyarodást az árnyékos erdei utakon."
+            ],
+            "ro": [
+              "Poartă mai multe straturi de haine și protecție la vânt.",
+              "Verifică presiunea pneurilor; o aderență mai bună ajută.",
+              "Amurgul vine devreme, lumina funcțională este esențială.",
+              "Evită virajele bruște pe drumurile forestiere umbrite."
+            ],
+            "en": [
+              "Wear multiple layers (onion principle) and windstoppers.",
+              "Check tire pressure; slightly less can help with grip.",
+              "Dusk sets in early; functioning lights are essential.",
+              "Avoid sharp turns on shaded forest paths."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1109,6 +1491,206 @@
           "A navigation device is helpful for finding parking lots and excursion destinations.",
           "The combination of car and short walks is ideal for experiencing the region."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten am trockenen Parkhaus Baseltor. Die Besichtigung der Altstadt erfolgt in Etappen zwischen den Regenschauern. Mittags fahren wir bequem zum Zeughausmuseum. Den Nachmittag verbringen wir in der Verena-Schlucht, wobei wir die kurzen Wege vom Parkplatz schätzen. Der Tag endet gemütlich am Landhaus-Ufer.",
+            "hu": "A száraz Baseltor parkolóházban kezdünk. Az óváros megtekintését az esőmentes időszakokhoz igazítjuk. Délben kényelmesen elautózunk a fegyvertári múzeumig. A délutánt a Verena-szurdokban töltjük, kihasználva a parkolótól vezető rövid utat. A napot az Aare-parti Landhausnál zárjuk.",
+            "ro": "Începem în parcarea acoperită Baseltor. Vizitarea orașului vechi se face în etape între reprizele de ploaie. La prânz mergem confortabil la Muzeul Arsenalului. După-amiaza o petrecem în Cheile Verena, apreciind distanța scurtă de la parcare. Ziua se încheie plăcut pe malul apei la Landhaus.",
+            "en": "We start at the dry Baseltor parking garage. Sightseeing in the old town happens in stages between rain showers. At noon, we drive comfortably to the Arsenal Museum. Afternoon is spent in Verena Gorge, appreciating the short walks from the parking. The day ends nicely at Landhaus bank."
+          },
+          "stops": [
+            {
+              "name": "Baseltor Parking & Old Town Cluster",
+              "tip_5lang": {
+                "de": "Idealer Startpunkt, um trocken in die Stadt zu gelangen.",
+                "hu": "Ideális pont, hogy szárazon juss be a városba.",
+                "ro": "Punct ideal de start pentru a ajunge uscat în oraș.",
+                "en": "Ideal starting point to enter the city dry."
+              }
+            },
+            {
+              "name": "Clock Tower (Zeitglockenturm)",
+              "tip_5lang": {
+                "de": "Parkplatzsuche in der Altstadt bei Regen meiden.",
+                "hu": "Esőben kerüld a parkolóhely-vadászatot az óvárosban.",
+                "ro": "Evită căutarea parcării în orașul vechi pe ploaie.",
+                "en": "Avoid searching for parking in the old town during rain."
+              }
+            },
+            {
+              "name": "St. Ursus Cathedral",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Auto zum Kircheneingang.",
+                "hu": "Rövid futás az autótól a templombejáratig.",
+                "ro": "Sprint scurt de la mașină până la intrare.",
+                "en": "Short sprint from the car to the church entrance."
+              }
+            },
+            {
+              "name": "Old Arsenal Museum",
+              "tip_5lang": {
+                "de": "Parkplatz direkt in der Nähe vorhanden.",
+                "hu": "Parkoló közvetlenül a közelben elérhető.",
+                "ro": "Parcare disponibilă direct în apropiere.",
+                "en": "Parking available directly nearby."
+              }
+            },
+            {
+              "name": "Hermitage in the Verena Gorge",
+              "tip_5lang": {
+                "de": "Der Weg vom Parkplatz ist auch bei Regen machbar.",
+                "hu": "A parkolótól vezető út esőben is járható.",
+                "ro": "Drumul de la parcare este accesibil și pe ploaie.",
+                "en": "The path from the parking is manageable even in rain."
+              }
+            },
+            {
+              "name": "Walk in the Gorge",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk für nassen Waldboden nötig.",
+                "hu": "Zárt cipő kell a vizes erdei talaj miatt.",
+                "ro": "Încălțăminte solidă necesară pentru solul ud.",
+                "en": "Sturdy shoes needed for wet forest ground."
+              }
+            },
+            {
+              "name": "Landhaus & Aare Riverbank",
+              "tip_5lang": {
+                "de": "Parkhaus 'Landhaus' direkt am Ziel nutzen.",
+                "hu": "Használd a Landhaus parkolóházat a célnál.",
+                "ro": "Folosește parcarea Landhaus direct la destinație.",
+                "en": "Use the Landhaus parking garage at the destination."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutze die großen Parkhäuser (Baseltor, Landhaus) für trockene Wege.",
+              "Die Sicht kann in der Schlucht bei starkem Regen eingeschränkt sein.",
+              "Regenschirm immer griffbereit im Auto lassen.",
+              "Die schmalen Gassen der Altstadt sind für Autos teils gesperrt."
+            ],
+            "hu": [
+              "Használd a nagy parkolóházakat (Baseltor, Landhaus) a száraz utakért.",
+              "A látótávolság a szurdokban heves esőben korlátozott lehet.",
+              "Az esernyőt tartsd mindig kéznél az autóban.",
+              "Az óváros szűk utcái részben le vannak zárva az autók elől."
+            ],
+            "ro": [
+              "Folosește parcările mari (Baseltor, Landhaus) pentru acces uscat.",
+              "Vizibilitatea în chei poate fi redusă pe ploaie torențială.",
+              "Păstrează umbrela mereu la îndemână în mașină.",
+              "Străzile înguste din orașul vechi sunt parțial pietonale."
+            ],
+            "en": [
+              "Use large parking garages (Baseltor, Landhaus) for dry access.",
+              "Visibility in the gorge can be limited during heavy rain.",
+              "Keep an umbrella handy in the car at all times.",
+              "Narrow old town alleys are partially closed to cars."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir die Sitzheizung auf dem Weg zum Baseltor. Die Besichtigung der Altstadt ist kurz und knackig. Mittags wärmen wir uns im Arsenalmuseum auf. Die Fahrt zur Verena-Schlucht führt durch eine Winterlandschaft. Wir achten auf vereiste Straßen in Waldnähe. Den Tag beenden wir im beleuchteten Solothurn.",
+            "hu": "Reggel élvezzük az ülésfűtést a Bázel-kapu felé. Az óvárosi nézelődés rövid és intenzív. Délben a fegyvertári múzeumban melegszünk fel. A Verena-szurdokhoz vezető út gyönyörű téli tájon át visz. Figyelünk a jeges utakra az erdő közelében. A napot a kivilágított Solothurnban zárjuk.",
+            "ro": "Dimineața savurăm încălzirea în scaune spre Poarta Basel. Vizitarea orașului vechi este scurtă și intensă. La prânz ne încălzim în Muzeul Arsenalului. Drumul spre Cheile Verena trece printr-un peisaj de iarnă. Atenție la drumurile înghețate lângă pădure. Încheiem ziua în Solothurnul iluminat.",
+            "en": "In the morning, enjoy the seat heating on the way to Basel Gate. Sightseeing in the old town is quick and crisp. At noon, we warm up in the Arsenal Museum. The drive to Verena Gorge goes through a winter landscape. Watch for icy roads near the forest. End the day in illuminated Solothurn."
+          },
+          "stops": [
+            {
+              "name": "Baseltor Parking & Old Town Cluster",
+              "tip_5lang": {
+                "de": "Parkhaus ist frostfrei, schont die Batterie.",
+                "hu": "A parkolóház fagymentes, kíméli az akkumulátort.",
+                "ro": "Parcarea e ferită de îngheț, protejează bateria.",
+                "en": "The parking garage is frost-free, saves the battery."
+              }
+            },
+            {
+              "name": "Clock Tower (Zeitglockenturm)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Blitzeis auf dem Kopfsteinpflaster.",
+                "hu": "Vigyázz a macskakövön kialakuló hirtelen jegesedésre.",
+                "ro": "Atenție la polei pe pavajul de piatră.",
+                "en": "Watch out for black ice on the cobblestones."
+              }
+            },
+            {
+              "name": "St. Ursus Cathedral",
+              "tip_5lang": {
+                "de": "Parkplätze können durch Schneehaufen kleiner sein.",
+                "hu": "A parkolóhelyek a hóbuckák miatt szűkebbek lehetnek.",
+                "ro": "Locurile de parcare pot fi reduse din cauza zăpezii.",
+                "en": "Parking spaces might be smaller due to snow piles."
+              }
+            },
+            {
+              "name": "Old Arsenal Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um der Kälte zu entkommen.",
+                "hu": "Ideális hely a hideg elől való menekülésre.",
+                "ro": "Un loc ideal pentru a scăpa de frig.",
+                "en": "An ideal place to escape the cold."
+              }
+            },
+            {
+              "name": "Hermitage in the Verena Gorge",
+              "tip_5lang": {
+                "de": "Zufahrtsstraße kann bei starkem Schneefall glatt sein.",
+                "hu": "A bekötőút erős havazáskor csúszós lehet.",
+                "ro": "Drumul de acces poate fi alunecos la ninsoare.",
+                "en": "The access road can be slippery during heavy snow."
+              }
+            },
+            {
+              "name": "Walk in the Gorge",
+              "tip_5lang": {
+                "de": "Nur mit Winterstiefeln und gutem Profil begehen.",
+                "hu": "Csak téli bakancsban és jó talppal indulj el.",
+                "ro": "Mergi doar cu ghete de iarnă cu talpă aderentă.",
+                "en": "Only walk here with winter boots and good tread."
+              }
+            },
+            {
+              "name": "Landhaus & Aare Riverbank",
+              "tip_5lang": {
+                "de": "Warme Kleidung für den Weg vom Parkhaus nötig.",
+                "hu": "Meleg ruha kell a parkolóháztól vezető útra.",
+                "ro": "Haine groase necesare pentru drumul de la parcare.",
+                "en": "Warm clothes needed for the walk from the parking."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und ggf. Eiskratzer sind in der Schweiz Pflicht.",
+              "Fahrzeuge auf schattigen Parkplätzen kühlen schnell aus.",
+              "Die Bergstraßen zur Schlucht werden geräumt, sind aber oft weiß.",
+              "Licht am Auto auch tagsüber einschalten (Pflicht)."
+            ],
+            "hu": [
+              "Téli gumi és jégkaparó használata kötelező Svájcban.",
+              "Az árnyékos parkolókban az autó gyorsan kihűl.",
+              "A szurdokhoz vezető utakat takarítják, de gyakran havasak.",
+              "Nappal is kötelező a tompított fényszóró használata."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și racleta sunt obligatorii în Elveția.",
+              "Vehiculele se răcesc repede în parcările umbrite.",
+              "Drumurile spre chei sunt deszăpezite, dar rămân albe.",
+              "Aprinde faza scurtă și pe timpul zilei (obligatoriu)."
+            ],
+            "en": [
+              "Winter tires and an ice scraper are mandatory in Switzerland.",
+              "Cars cool down quickly in shaded parking spots.",
+              "Roads to the gorge are cleared but often remain snow-covered.",
+              "Turn on your headlights even during the day (mandatory)."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1465,6 +2047,188 @@
           "Pay attention to the last bus connection back from the Verena Gorge.",
           "The cluster strategy (bus-hop, then walk) works perfectly here."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom Hauptbahnhof kommen wir schnell ins trockene Stadtzentrum. Mittags nutzen wir kurze Buswege zwischen den Sehenswürdigkeiten. Den Nachmittag verbringen wir in der Verena-Schlucht, wobei die Bushaltestelle nahe am Eingang liegt. Das Arsenalmuseum bietet zum Abschluss eine ausgiebige Indoor-Besichtigung vor der Rückfahrt.",
+            "hu": "A főpályaudvarról gyorsan beérünk a száraz városközpontba. Délben rövid buszutakat választunk a látnivalók között. A délutánt a Verena-szurdokban töltjük, mivel a buszmegálló közel van a bejárathoz. A fegyvertári múzeum a végén bőséges fedett programot kínál a hazautazás előtt.",
+            "ro": "De la gara centrală ajungem rapid în centrul ferit de ploaie. La prânz folosim autobuzul pentru distanțe scurte între obiective. După-amiaza o petrecem în Cheile Verena, stația fiind aproape de intrare. Muzeul Arsenalului oferă la final o vizită indoor generoasă înainte de plecare.",
+            "en": "From the main station, we quickly reach the dry city center. At noon, we use short bus rides between sights. Afternoon is spent in Verena Gorge, as the bus stop is close to the entrance. The Arsenal Museum offers a comprehensive indoor visit at the end before heading back."
+          },
+          "stops": [
+            {
+              "name": "Main Station & Old Town Cluster",
+              "tip_5lang": {
+                "de": "Bahnhofshalle bietet Schutz beim Warten auf den Bus.",
+                "hu": "Az állomásépület védelmet nyújt a buszra várva.",
+                "ro": "Gara oferă adăpost în timp ce aștepți autobuzul.",
+                "en": "The station hall provides shelter while waiting for the bus."
+              }
+            },
+            {
+              "name": "Town Hall and Market Square",
+              "tip_5lang": {
+                "de": "Zentrale Haltestellen sind oft überdacht.",
+                "hu": "A központi buszmegállók gyakran fedettek.",
+                "ro": "Stațiile centrale sunt adesea acoperite.",
+                "en": "Central bus stops are often sheltered."
+              }
+            },
+            {
+              "name": "Jesuit Church",
+              "tip_5lang": {
+                "de": "Nur wenige Schritte von der Bushaltestelle entfernt.",
+                "hu": "Csak pár lépés a buszmegállótól.",
+                "ro": "La doar câțiva pași de stația de autobuz.",
+                "en": "Just a few steps away from the bus stop."
+              }
+            },
+            {
+              "name": "Bus Ride & Verena Gorge Cluster",
+              "tip_5lang": {
+                "de": "Buslinie 4 bringt dich fast direkt zum Eingang.",
+                "hu": "A 4-es busz szinte közvetlenül a bejárathoz visz.",
+                "ro": "Linia 4 te lasă aproape direct la intrare.",
+                "en": "Bus line 4 takes you almost directly to the entrance."
+              }
+            },
+            {
+              "name": "Bus Ride & Cathedral/Museum Cluster",
+              "tip_5lang": {
+                "de": "In den Bussen bleibt man angenehm trocken.",
+                "hu": "A buszokon kellemesen száraz maradsz.",
+                "ro": "În autobuze rămâi plăcut uscat.",
+                "en": "You stay pleasantly dry inside the buses."
+              }
+            },
+            {
+              "name": "Old Arsenal Museum",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg zur Haltestelle Amthausplatz.",
+                "hu": "Rövid séta az Amthausplatz megállóig.",
+                "ro": "Drum scurt pe jos până la stația Amthausplatz.",
+                "en": "Short walk to the Amthausplatz bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutze die App 'SBB Mobile' für Echtzeit-Infos bei Verspätungen.",
+              "Kurzstrecken-Billette sind für die Altstadt oft ausreichend.",
+              "Bussen fahren in Solothurn sehr pünktlich und oft.",
+              "Die Haltestellen in der Altstadt liegen sehr zentral."
+            ],
+            "hu": [
+              "Használd az SBB Mobile appot a valós idejű menetrendért.",
+              "Az óvároson belüli utazáshoz gyakran elég a rövid távú jegy.",
+              "Solothurnban a buszok nagyon pontosak és gyakoriak.",
+              "Az óvárosi megállók nagyon központi helyen vannak."
+            ],
+            "ro": [
+              "Folosește aplicația SBB Mobile pentru info în timp real.",
+              "Biletele pentru distanțe scurte sunt adesea suficiente.",
+              "Autobuzele circulă foarte punctual și frecvent în Solothurn.",
+              "Stațiile din orașul vechi sunt amplasate foarte central."
+            ],
+            "en": [
+              "Use the SBB Mobile app for real-time delay info.",
+              "Short-distance tickets are often enough for the old town.",
+              "Buses in Solothurn run very punctually and frequently.",
+              "The old town bus stops are very centrally located."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir die Wärme im Zug zum Hauptbahnhof. Den Vormittag verbringen wir in der Altstadt, wobei wir Busse für längere Distanzen nutzen. Mittags kehren wir in ein gemütliches Restaurant ein. Der Nachmittag in der Verena-Schlucht ist kurz, da wir den Bus vor Einbruch der Dunkelheit nehmen. Das Museum ist unser letzter warmer Stopp.",
+            "hu": "Reggel élvezzük a fűtést a pályaudvarra tartó vonaton. A délelőttöt az óvárosban töltjük, a távolabbi pontokhoz buszt használunk. Délben beülünk egy hangulatos étterembe. A délután a Verena-szurdokban rövid, mert sötétedés előtt elcsípjük a buszt. A múzeum az utolsó meleg állomásunk.",
+            "ro": "Dimineața savurăm căldura în trenul spre gara centrală. Petrecem dimineața în orașul vechi, folosind autobuzul pentru distanțe mai mari. La prânz intrăm într-un restaurant primitor. După-amiaza în Cheile Verena este scurtă, luând autobuzul înainte de întuneric. Muzeul este ultima oprire caldă.",
+            "en": "In the morning, enjoy the warmth on the train to the main station. Spend the morning in the old town, using buses for longer distances. At noon, we stop at a cozy restaurant. The afternoon in Verena Gorge is brief, as we catch the bus before dark. The museum is our final warm stop."
+          },
+          "stops": [
+            {
+              "name": "Main Station & Old Town Cluster",
+              "tip_5lang": {
+                "de": "Die Wartebereiche im Bahnhof sind meist beheizt.",
+                "hu": "Az állomási várótermek többnyire fűtöttek.",
+                "ro": "Sălile de așteptare din gară sunt de obicei încălzite.",
+                "en": "The waiting areas in the station are usually heated."
+              }
+            },
+            {
+              "name": "Town Hall and Market Square",
+              "tip_5lang": {
+                "de": "Busse sind im Winter eine warme Alternative zum Gehen.",
+                "hu": "A busz télen meleg alternatívája a gyaloglásnak.",
+                "ro": "Autobuzul este o alternativă caldă la mersul pe jos.",
+                "en": "Buses are a warm alternative to walking in winter."
+              }
+            },
+            {
+              "name": "Jesuit Church",
+              "tip_5lang": {
+                "de": "Haltestelle direkt vor der Tür, ideal bei Kälte.",
+                "hu": "Megálló közvetlenül az ajtó előtt, ideális hidegben.",
+                "ro": "Stație chiar în fața ușii, ideal pe timp de ger.",
+                "en": "Stop right in front of the door, ideal in the cold."
+              }
+            },
+            {
+              "name": "Bus Ride & Verena Gorge Cluster",
+              "tip_5lang": {
+                "de": "Fahrplan für die Rückfahrt genau beachten (Licht).",
+                "hu": "Figyelj a visszautat biztosító menetrendre (sötétedés).",
+                "ro": "Verifică bine orarul de întoarcere (din cauza luminii).",
+                "en": "Check the return schedule carefully (due to light)."
+              }
+            },
+            {
+              "name": "Bus Ride & Cathedral/Museum Cluster",
+              "tip_5lang": {
+                "de": "Aufwärmen während der Fahrt durch die Stadt.",
+                "hu": "Melegedj fel a városon át vezető buszút alatt.",
+                "ro": "Încălzește-te în timpul călătoriei prin oraș.",
+                "en": "Warm up during the bus ride through the city."
+              }
+            },
+            {
+              "name": "Old Arsenal Museum",
+              "tip_5lang": {
+                "de": "Letzte Chance auf Kultur im Warmen.",
+                "hu": "Utolsó esély a kultúrára melegben.",
+                "ro": "Ultima șansă pentru cultură la căldură.",
+                "en": "Last chance for some culture in the warm."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse verkehren im Winter oft nach einem reduzierten Plan.",
+              "An den Haltestellen kann es durch den Wind sehr ziehen.",
+              "Verlasse die Schlucht vor 16:30 Uhr, um den Bus im Hellen zu erreichen.",
+              "Ein Tagesticket für die Zone 100 deckt fast alles ab."
+            ],
+            "hu": [
+              "Télen a buszok néha ritkábban járhatnak.",
+              "A megállókban a szél miatt nagyon hideg lehet.",
+              "Hagyd el a szurdokot 16:30 előtt, hogy világosban érj a buszhoz.",
+              "A 100-as zónára váltott napijegy szinte mindenre jó."
+            ],
+            "ro": [
+              "Iarna, autobuzele pot avea uneori un program redus.",
+              "În stații poate fi foarte curent din cauza vântului.",
+              "Părăsește cheile înainte de 16:30 pentru a prinde busul pe lumină.",
+              "Un bilet de zi pentru zona 100 acoperă aproape tot."
+            ],
+            "en": [
+              "Buses sometimes run on a reduced schedule in winter.",
+              "Bus stops can be very drafty and cold.",
+              "Leave the gorge before 16:30 to reach the bus while it's light.",
+              "A day ticket for Zone 100 covers almost everything."
+            ]
+          }
+        }
       }
     }
   }

@@ -316,6 +316,196 @@
           "Bring water with you, especially in summer.",
           "Most sights are outdoors, so check the weather."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt verregnet am Denkmal, doch das Herrenhaus Filipescu bietet bald trockenen Unterschlupf in seinen historischen Hallen. Mittags suchen wir Schutz in den Kirchen von Drajna, deren Innenräume zum Verweilen einladen. Nachmittags trotzen wir dem Wetter an der Warthiadi-Mühle unter dem Regenschirm. Den Abend lassen wir gemütlich und aufgewärmt bei einem herzhaften Essen im Teleajen-Tal ausklingen.",
+            "hu": "A reggel esősen indul az emlékműnél, de a Filipescu-kastély falai hamar száraz menedéket nyújtanak. Délben Drajna templomaiba húzódunk be, ahol a belső terek nyugalma vár. Délután esernyő alatt csodáljuk meg a Warthiadi-vízimalmot a szemerkélő esőben. Az estét egy barátságos vendéglőben zárjuk a Teleajen-völgyben, ahol meleg ételek mellett pihenhetünk meg.",
+            "ro": "Dimineața începe ploioasă la monument, dar Conacul Filipescu oferă curând un adăpost uscat în sălile sale istorice. La prânz ne refugiem în bisericile din Drajna, ale căror interioare invită la reculegere. După-amiaza înfruntăm vremea la Moara Warthiadi sub umbrelă, ascultând susurul apei. Încheiem seara confortabil, încălzindu-ne cu o masă copioasă în Valea Teleajenului.",
+            "en": "The morning starts rainy at the monument, but Filipescu Mansion soon provides dry shelter in its historical halls. At noon, we seek refuge in the churches of Drajna, where the quiet interiors welcome us. In the afternoon, we brave the weather at the Warthiadi Mill under an umbrella. The evening ends cozily, warming up with a hearty meal in the Teleajen Valley."
+          },
+          "stops": [
+            {
+              "name": "Heroes' Monument in Drajna",
+              "tip_5lang": {
+                "de": "Nur kurzer Stopp möglich, kaum Unterstand bei starkem Regen.",
+                "hu": "Csak rövid megálló, nincs fedett rész az emlékműnél.",
+                "ro": "Oprire scurtă, nu există adăpost lângă monument.",
+                "en": "Short stop only, no shelter near the monument."
+              }
+            },
+            {
+              "name": "Filipescu Mansion",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den Regenschauer im Inneren abzuwarten.",
+                "hu": "Tökéletes hely az eső kivárására a belső terekben.",
+                "ro": "Locul ideal pentru a aștepta trecerea ploii în interior.",
+                "en": "Perfect place to wait out the rain indoors."
+              }
+            },
+            {
+              "name": "Saint Demetrius Church",
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Fresken, während es draußen regnet.",
+                "hu": "Csodálja meg a freskókat, amíg odakint esik az eső.",
+                "ro": "Admirați frescele în timp ce afară plouă.",
+                "en": "Admire the frescoes while it rains outside."
+              }
+            },
+            {
+              "name": "Church of the Nativity of Mary",
+              "tip_5lang": {
+                "de": "Ein weiterer ruhiger, trockener Rückzugsort im Zentrum.",
+                "hu": "Újabb csendes, száraz menedékhely a központban.",
+                "ro": "Un alt refugiu liniștit și uscat în centru.",
+                "en": "Another quiet, dry sanctuary in the center."
+              }
+            },
+            {
+              "name": "Warthiadi Watermill",
+              "tip_5lang": {
+                "de": "Vorsicht, der Boden in Bachnähe kann sehr rutschig sein.",
+                "hu": "Vigyázat, a patakparti talaj nagyon csúszós lehet.",
+                "ro": "Atenție, solul de lângă pârâu poate fi foarte alunecos.",
+                "en": "Careful, the ground near the stream can be very slippery."
+              }
+            },
+            {
+              "name": "Lunch in the Teleajen Valley",
+              "tip_5lang": {
+                "de": "Genießen Sie lokale Suppen zum Aufwärmen nach dem Regen.",
+                "hu": "Kóstolja meg a helyi leveseket a nagy eső utáni felmelegedéshez.",
+                "ro": "Savurați ciorbele locale pentru a vă încălzi după ploaie.",
+                "en": "Enjoy local soups to warm up after the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist für die Wege zwischen den Gebäuden unerlässlich.",
+              "Tragen Sie wasserfeste Wanderschuhe für die Pfade im Teleajen-Tal.",
+              "Nutzen Sie die Besichtigungszeit im Herrenhaus für die stärksten Schauer.",
+              "Die Kirchen bieten gute Möglichkeiten für trockene Pausen.",
+              "Warme Getränke in den lokalen Cafés helfen gegen die Feuchtigkeit."
+            ],
+            "hu": [
+              "Erős esernyő elengedhetetlen az épületek közötti szakaszokon.",
+              "Vízálló túrabakancs javasolt a Teleajen-völgy ösvényeihez.",
+              "A kastélynézést időzítse a leghevesebb záporok idejére.",
+              "A templomok kiváló lehetőséget nyújtanak száraz pihenőkre.",
+              "A helyi kávézók meleg italai segítenek a nyirkos időben."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială pentru segmentele dintre clădiri.",
+              "Purtați încălțăminte de munte impermeabilă pentru potecile din vale.",
+              "Planificați vizita la conac în timpul celor mai puternice averse.",
+              "Bisericile oferă oportunități excelente pentru pauze la uscat.",
+              "Băuturile calde din cafenelele locale ajută împotriva umezelii."
+            ],
+            "en": [
+              "A sturdy umbrella is essential for the walks between buildings.",
+              "Wear waterproof hiking boots for the Teleajen Valley paths.",
+              "Time your mansion visit during the heaviest showers.",
+              "The churches provide excellent opportunities for dry breaks.",
+              "Warm drinks in local cafes help against the damp weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am kalten Wintermorgen wirkt das Denkmal besonders imposant im Frost. Das Herrenhaus Filipescu bietet wohlige Wärme bei der Besichtigung der Ausstellungen. Mittags kehrt in den Kirchen weihnachtliche Stille ein, bevor wir die verschneite Warthiadi-Mühle besuchen. Da die Sonne früh untergeht, genießen wir das Abendessen im Tal bei Kerzenschein und Kaminfeuer.",
+            "hu": "A hideg téli reggelen az emlékmű különösen impozáns a zúzmarás tájban. A Filipescu-kastély kellemes meleget kínál a kiállítások megtekintése közben. Délben karácsonyi csend honol a templomokban, majd ellátogatunk a havas Warthiadi-malomhoz. Mivel a nap korán nyugszik, a völgyben gyertyafényes, kandallós vacsora vár ránk.",
+            "ro": "În dimineața rece de iarnă, monumentul pare deosebit de impunător în peisajul înghețat. Conacul Filipescu oferă o căldură primitoare în timpul vizitării expozițiilor. La prânz, în biserici domnește o liniște aparte, înainte de a vizita moara Warthiadi înzăpezită. Deoarece soarele apune devreme, savurăm cina în vale la lumina lumânărilor.",
+            "en": "On a cold winter morning, the monument looks particularly imposing in the frosty landscape. Filipescu Mansion offers welcoming warmth while touring the exhibits. At noon, a special silence fills the churches before we visit the snowy Warthiadi Mill. As the sun sets early, we enjoy dinner in the valley by candlelight and fireplace."
+          },
+          "stops": [
+            {
+              "name": "Heroes' Monument in Drajna",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, der Wind weht hier oft kräftig.",
+                "hu": "Öltözzön rétegesen, itt gyakran fúj a jeges szél.",
+                "ro": "Îmbrăcați-vă gros, vântul bate adesea puternic aici.",
+                "en": "Dress warmly, the wind often blows strongly here."
+              }
+            },
+            {
+              "name": "Filipescu Mansion",
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Innenräume des historischen Baus.",
+                "hu": "Élvezze a történelmi épület fűtött belső tereit.",
+                "ro": "Bucurați-vă de interioarele încălzite ale clădirii istorice.",
+                "en": "Enjoy the heated interiors of the historic building."
+              }
+            },
+            {
+              "name": "Saint Demetrius Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Stufen zum Eingang.",
+                "hu": "Vigyázzon a jegesedésre a bejárathoz vezető lépcsőkön.",
+                "ro": "Atenție la polei pe treptele de la intrare.",
+                "en": "Watch out for ice on the steps leading to the entrance."
+              }
+            },
+            {
+              "name": "Church of the Nativity of Mary",
+              "tip_5lang": {
+                "de": "Ein kurzer, besinnlicher Stopp im warmen Licht der Kerzen.",
+                "hu": "Rövid, meghitt megálló a gyertyák meleg fényében.",
+                "ro": "O oprire scurtă și liniștită la lumina lumânărilor.",
+                "en": "A short, contemplative stop in the warm light of candles."
+              }
+            },
+            {
+              "name": "Warthiadi Watermill",
+              "tip_5lang": {
+                "de": "Die gefrorenen Wasserräder bieten ein tolles Fotomotiv.",
+                "hu": "A befagyott kerekek különleges fotótémát kínálnak.",
+                "ro": "Roțile înghețate oferă un subiect fotografic deosebit.",
+                "en": "The frozen waterwheels offer a unique photo opportunity."
+              }
+            },
+            {
+              "name": "Lunch in the Teleajen Valley",
+              "tip_5lang": {
+                "de": "Probieren Sie den heißen Wein oder Tee zum Aufwärmen.",
+                "hu": "Kóstolja meg a forralt bort vagy teát a felmelegedéshez.",
+                "ro": "Gustați vinul fiert sau ceaiul cald pentru a vă încălzi.",
+                "en": "Try the mulled wine or hot tea to warm up."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 16:30 Uhr unter, planen Sie das Ende im Hellen.",
+              "Tragen Sie griffige Schuhe wegen möglicher Glätte auf den Wegen.",
+              "Planen Sie längere Aufenthalte im Herrenhaus ein, um sich aufzuwärmen.",
+              "Die Gehwege im Dorf werden oft nicht sofort geräumt.",
+              "Eine Thermoskanne mit heißem Tee ist ein idealer Begleiter."
+            ],
+            "hu": [
+              "A nap 16:30 körül nyugszik, tervezze a nap végét még világosban.",
+              "Viseljen csúszásmentes talpú cipőt a jeges szakaszok miatt.",
+              "Tervezzen hosszabb időt a kastélyba a felmelegedéshez.",
+              "A falusi járdákat nem mindig takarítják le azonnal a hótól.",
+              "Egy termosz forró teával tökéletes társ a sétához."
+            ],
+            "ro": [
+              "Soarele apune în jur de 16:30, planificați finalul pe lumină.",
+              "Purtați încălțăminte cu talpă aderentă pentru zonele cu polei.",
+              "Alocați mai mult timp vizitei la conac pentru a vă încălzi.",
+              "Trotuarele din sat nu sunt întotdeauna deszăpezite imediat.",
+              "Un termos cu ceai cald este tovarășul ideal pentru plimbare."
+            ],
+            "en": [
+              "The sun sets around 4:30 PM, plan to finish while it's still light.",
+              "Wear shoes with good grip due to potential icy patches.",
+              "Allocate more time for the mansion visit to warm up.",
+              "Village sidewalks are not always cleared of snow immediately.",
+              "A thermos with hot tea is an ideal companion for the walk."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -649,6 +839,214 @@
           "Bring a puncture repair kit.",
           "Plan the climb to Cârlig Hill to be at the top before dark."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet spritzig am Herrenhaus, wobei wasserfeste Kleidung heute Pflicht ist. Zur Warthiadi-Mühle fahren wir vorsichtig auf nassen Nebenwegen. Mittags bietet die Festung von Drajna de Sus wenig Schutz, daher verlagern wir die Pause in ein trockenes Restaurant. Nachmittags radeln wir durch das neblige Teleajen-Tal, bevor wir den Tag an der Kirche beenden.",
+            "hu": "A bringatúra frissítően indul a kastélynál, a vízálló ruházat ma kötelező. A Warthiadi-malomhoz óvatosan tekerünk a vizes mellékutakon. Délben a felsődrajnai római erőd kevés menedéket ad, így a pihenőt egy száraz étterembe tesszük át. Délután a ködös Teleajen-völgyben pedálozunk, majd a templomnál zárjuk a napot.",
+            "ro": "Turul cu bicicleta începe energic la conac, îmbrăcămintea impermeabilă fiind obligatorie azi. Spre moara Warthiadi pedalăm cu atenție pe drumurile ude. La prânz, castrul roman de la Drajna de Sus oferă puțin adăpost, așa că mutăm pauza într-un restaurant uscat. După-amiaza pedalăm prin Valea Teleajenului cețoasă, înainte de a încheia ziua la biserică.",
+            "en": "The bike tour starts briskly at the mansion, with waterproof gear being mandatory today. We cycle carefully towards the Warthiadi Mill on wet side roads. At noon, the Roman Fort of Drajna de Sus offers little shelter, so we move our break to a dry restaurant. In the afternoon, we pedal through the misty Teleajen Valley before ending at the church."
+          },
+          "stops": [
+            {
+              "name": "Filipescu Mansion",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen der Räder.",
+                "hu": "Használja a fedett bejárati részt a biciklik tárolására.",
+                "ro": "Folosiți zona acoperită de la intrare pentru a lăsa bicicletele.",
+                "en": "Use the covered entrance area to park your bikes."
+              }
+            },
+            {
+              "name": "Warthiadi Watermill",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen auf dem Zufahrtsweg.",
+                "hu": "Vigyázzon a mély tócsákra a bekötőúton.",
+                "ro": "Atenție la bălțile adânci de pe drumul de acces.",
+                "en": "Watch out for deep puddles on the access road."
+              }
+            },
+            {
+              "name": "Roman Fort of Drajna de Sus",
+              "tip_5lang": {
+                "de": "Der Aufstieg kann bei Regen sehr schlammig und rutschig sein.",
+                "hu": "Az emelkedő esőben nagyon saras és csúszós lehet.",
+                "ro": "Urcarea poate fi foarte noroioasă și alunecoasă pe ploaie.",
+                "en": "The climb can be very muddy and slippery in the rain."
+              }
+            },
+            {
+              "name": "Lunch with a view",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz im Innenraum, die Terrasse ist nass.",
+                "hu": "Keressen helyet bent, a terasz ilyenkor vizes.",
+                "ro": "Căutați un loc în interior, terasa este udă acum.",
+                "en": "Look for a seat inside, the terrace is wet now."
+              }
+            },
+            {
+              "name": "Teleajen River Valley",
+              "tip_5lang": {
+                "de": "Schutzbleche am Rad sind hier bei Nässe sehr empfehlenswert.",
+                "hu": "A sárvédő használata kifejezetten ajánlott ezen a szakaszon.",
+                "ro": "Apărătorile de noroi sunt foarte recomandate pe acest segment.",
+                "en": "Mudguards are highly recommended on this section."
+              }
+            },
+            {
+              "name": "Saint Demetrius Church",
+              "tip_5lang": {
+                "de": "Stellen Sie die Räder nah an der Mauer unter.",
+                "hu": "Támassza a bringákat a fal mellé, ahol nem áznak annyira.",
+                "ro": "Lăsați bicicletele lângă zid, unde sunt mai protejate.",
+                "en": "Lean the bikes against the wall where they are more protected."
+              }
+            },
+            {
+              "name": "Cârlig Hill at sunset",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist die Sicht oft durch Nebel eingeschränkt.",
+                "hu": "Erős esőben a kilátást gyakran korlátozza a köd.",
+                "ro": "Pe ploaie puternică, vizibilitatea este adesea limitată de ceață.",
+                "en": "In heavy rain, the view is often limited by fog."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke und Regenhose.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nasser Fahrbahn.",
+              "Vermeiden Sie scharfes Bremsen auf bemalten Straßenmarkierungen.",
+              "Halten Sie die Kette nach der Tour trocken und ölen Sie sie nach.",
+              "Warme Handschuhe schützen vor dem Auskühlen durch den Fahrtwind."
+            ],
+            "hu": [
+              "Viseljen jó minőségű esőkabátot és esőnadrágot.",
+              "Kicsit engedjen le a gumiabnyomásból a jobb tapadásért a vizes úton.",
+              "Kerülje az erős fékezést a felfestett útburkolati jeleken.",
+              "A túra után törölje szárazra és olajozza meg a láncot.",
+              "A meleg kesztyű véd a menetszél okozta lehűléstől."
+            ],
+            "ro": [
+              "Purtați o jachetă și pantaloni de ploaie de calitate.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe ud.",
+              "Evitați frânările bruște pe marcajele rutiere vopsite.",
+              "După tură, ștergeți lanțul și ungeți-l din nou.",
+              "Mănușile călduroase protejează împotriva frigului accentuat de vânt."
+            ],
+            "en": [
+              "Wear a high-quality raincoat and rain trousers.",
+              "Slightly reduce tire pressure for better grip on wet roads.",
+              "Avoid sharp braking on painted road markings.",
+              "Dry and oil your chain after the tour.",
+              "Warm gloves protect against wind chill while riding."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour erfordert gute Vorbereitung gegen die Kälte am Herrenhaus. Zur Warthiadi-Mühle radeln wir durch die frostige Luft, wobei wir uns an Steigungen warmhalten. Die Festung von Drajna de Sus bietet einen grandiosen Blick auf die verschneiten Karpaten. Da es früh dunkelt, kürzen wir den Aufenthalt im Tal ab und erreichen die Kirche pünktlich zum Sonnenuntergang am Cârlig-Hügel.",
+            "hu": "A téli túra alapos felkészülést igényel a kastélynál uralkodó hideg ellen. A Warthiadi-malomhoz a fagyos levegőben tekerünk, az emelkedőkön melegedve fel. A felsődrajnai erőd pazar kilátást nyújt a havas Kárpátokra. Mivel korán sötétedik, a völgyben töltött időt lerövidítjük, és naplementére érünk a Cârlig-dombhoz.",
+            "ro": "Tura de iarnă necesită o pregătire temeinică împotriva frigului de la conac. Spre moara Warthiadi pedalăm prin aerul înghețat, încălzindu-ne pe urcări. Castrul de la Drajna de Sus oferă o vedere grandioasă asupra Carpaților înzăpeziți. Deoarece se întunecă devreme, scurtăm șederea în vale și ajungem la biserică la timp pentru apusul de pe dealul Cârlig.",
+            "en": "The winter tour requires good preparation against the cold at the mansion. We cycle to the Warthiadi Mill through frosty air, keeping warm on the inclines. The fort at Drajna de Sus offers a grand view of the snowy Carpathians. Since it gets dark early, we shorten the valley stay and reach the church in time for the sunset at Cârlig Hill."
+          },
+          "stops": [
+            {
+              "name": "Filipescu Mansion",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich kurz im Museum auf, bevor es weitergeht.",
+                "hu": "Melegedjen fel a múzeumban, mielőtt tovább indulna.",
+                "ro": "Încălziți-vă puțin în muzeu înainte de a pleca mai departe.",
+                "en": "Warm up briefly in the museum before heading out."
+              }
+            },
+            {
+              "name": "Warthiadi Watermill",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen im Schatten alter Bäume.",
+                "hu": "Vigyázzon a jeges foltokra az öreg fák árnyékában.",
+                "ro": "Atenție la porțiunile înghețate de la umbra copacilor.",
+                "en": "Watch out for icy patches in the shade of old trees."
+              }
+            },
+            {
+              "name": "Roman Fort of Drajna de Sus",
+              "tip_5lang": {
+                "de": "Der Boden ist hart gefroren, was den Aufstieg erleichtert.",
+                "hu": "A talaj keményre fagyott, ami megkönnyíti a feljutást.",
+                "ro": "Solul este înghețat bocnă, ceea ce ușurează urcarea.",
+                "en": "The ground is frozen solid, which makes the climb easier."
+              }
+            },
+            {
+              "name": "Lunch with a view",
+              "tip_5lang": {
+                "de": "Warme Suppen sind ein Muss für die weitere Fahrt.",
+                "hu": "A forró leves kötelező a folytatás előtt.",
+                "ro": "Ciorbele calde sunt obligatorii înainte de continuare.",
+                "en": "Hot soups are a must before continuing."
+              }
+            },
+            {
+              "name": "Teleajen River Valley",
+              "tip_5lang": {
+                "de": "Die feuchte Kälte am Fluss zieht schnell in die Kleidung.",
+                "hu": "A folyóparti nyirkos hideg hamar átjárja a ruhát.",
+                "ro": "Frigul umed de lângă râu pătrunde repede prin haine.",
+                "en": "The damp cold by the river penetrates clothing quickly."
+              }
+            },
+            {
+              "name": "Saint Demetrius Church",
+              "tip_5lang": {
+                "de": "Ein schöner Ort für eine kurze, windgeschützte Pause.",
+                "hu": "Szép hely egy rövid, szélvédett pihenőhöz.",
+                "ro": "Un loc frumos pentru o scurtă pauză ferită de vânt.",
+                "en": "A nice spot for a short, wind-sheltered break."
+              }
+            },
+            {
+              "name": "Cârlig Hill at sunset",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter schon gegen 16:45 Uhr.",
+                "hu": "A naplemente télen már 16:45 körül bekövetkezik.",
+                "ro": "Apusul are loc în jur de 16:45 pe timp de iarnă.",
+                "en": "Sunset occurs around 4:45 PM in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verwenden Sie gute Beleuchtung, da es sehr früh dunkel wird.",
+              "Mehrlagige Kleidung (Zwiebelprinzip) ist lebenswichtig.",
+              "Vermeiden Sie langes Stehenbleiben, um nicht auszukühlen.",
+              "Achten Sie auf gefrorenes Kondenswasser auf den Bremsen.",
+              "Nehmen Sie energiereiche Snacks wie Nüsse oder Riegel mit."
+            ],
+            "hu": [
+              "Használjon erős világítást, mert korán sötétedik.",
+              "A réteges öltözködés (hagymaelv) létfontosságú.",
+              "Kerülje a hosszú megállásokat, hogy ne hűljön ki.",
+              "Ügyeljen a fékekre fagyott páralecsapódásra.",
+              "Vigyen magával energiadús rágcsálnivalót, például diót."
+            ],
+            "ro": [
+              "Folosiți lumini bune, deoarece se întunecă foarte devreme.",
+              "Îmbrăcămintea în straturi (principiul cepei) este vitală.",
+              "Evitați staționările lungi pentru a nu vă răci corpul.",
+              "Atenție la condensul care poate îngheța pe frâne.",
+              "Luați cu voi gustări energizante, cum ar fi nucile."
+            ],
+            "en": [
+              "Use good lighting as it gets dark very early.",
+              "Layered clothing (onion principle) is vital.",
+              "Avoid long stops to keep your body temperature up.",
+              "Watch out for frozen condensation on the brakes.",
+              "Take high-energy snacks like nuts or bars with you."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -989,6 +1387,214 @@
           "Some roads to the sights can be narrow and winding.",
           "Check the opening hours, especially for the mansion."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt sicher im Auto beim römischen Kastell, während der Regen gegen die Scheiben peitscht. Zur Warthiadi-Mühle nutzen wir befestigte Wege, um Matsch zu vermeiden. Mittags erreichen wir bequem das Zentrum von Drajna und besichtigen die Kirchen im Trockenen. Nachmittags genießen wir die Panoramafahrt zum Cârlig-Hügel, wobei wir die Aussicht geschützt aus dem Wagen bewundern.",
+            "hu": "Az út biztonságosan, az autóban kezdődik a római erődné l, miközben az eső kopog a szélvédőn. A Warthiadi-malomhoz kövezett utakat választunk, hogy elkerüljük a sarat. Délben kényelmesen érjük el Drajna központját, és száraz lábbal nézzük meg a templomokat. Délután panorámaautózást teszünk a Cârlig-dombhoz, a kilátást a kocsiból élvezve.",
+            "ro": "Călătoria începe în siguranță, în mașină, la castrul roman, în timp ce ploaia bate în parbriz. Spre moara Warthiadi folosim drumuri asfaltate pentru a evita noroiul. La prânz ajungem confortabil în centrul localității Drajna și vizităm bisericile la adăpost. După-amiaza savurăm un drum panoramic spre dealul Cârlig, admirând vederea din mașină.",
+            "en": "The journey starts safely in the car at the Roman fort while rain beats against the windshield. We use paved roads to reach Warthiadi Mill to avoid mud. At noon, we comfortably reach the center of Drajna and visit the churches while staying dry. In the afternoon, we take a scenic drive to Cârlig Hill, enjoying the view protected from the car."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Roman Fort & Mill",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Weg im Regen zu verkürzen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy rövidítse az utat az esőben.",
+                "ro": "Parcați aproape de intrare pentru a scurta drumul prin ploaie.",
+                "en": "Park close to the entrance to shorten the walk in the rain."
+              }
+            },
+            {
+              "name": "Warthiadi Watermill",
+              "tip_5lang": {
+                "de": "Achten Sie auf große Pfützen auf dem unbefestigten Parkplatz.",
+                "hu": "Vigyázzon a nagy tócsákra a burkolatlan parkolóban.",
+                "ro": "Atenție la bălțile mari din parcarea neamenajată.",
+                "en": "Watch out for large puddles in the unpaved parking area."
+              }
+            },
+            {
+              "name": "Cluster 2: Drajna Center",
+              "tip_5lang": {
+                "de": "Gute Parkmöglichkeiten direkt vor dem Herrenhaus vorhanden.",
+                "hu": "Jó parkolási lehetőség közvetlenül a kastély előtt.",
+                "ro": "Locuri bune de parcare direct în fața conacului.",
+                "en": "Good parking options available right in front of the mansion."
+              }
+            },
+            {
+              "name": "Saint Demetrius Church",
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um die Besichtigung kurz zu unterbrechen.",
+                "hu": "Ideális megálló a városnézés rövid megszakítására.",
+                "ro": "O oprire ideală pentru a întrerupe scurt vizitarea.",
+                "en": "An ideal stop to briefly interrupt your sightseeing."
+              }
+            },
+            {
+              "name": "Lunch in Drajna",
+              "tip_5lang": {
+                "de": "Suchen Sie Restaurants mit eigenem Parkplatz für mehr Komfort.",
+                "hu": "Keressen saját parkolóval rendelkező éttermet a kényelemért.",
+                "ro": "Căutați restaurante cu parcare proprie pentru confort.",
+                "en": "Look for restaurants with private parking for extra comfort."
+              }
+            },
+            {
+              "name": "Cluster 3: Valley & Panorama",
+              "tip_5lang": {
+                "de": "Bei Nebel ist auf den schmalen Auffahrten Vorsicht geboten.",
+                "hu": "Köd esetén óvatosan vezessen a szűk feljárókon.",
+                "ro": "În caz de ceață, conduceți cu prudență pe urcările înguste.",
+                "en": "In case of fog, drive carefully on the narrow ascents."
+              }
+            },
+            {
+              "name": "Walk in the Teleajen Valley",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen nahe der Straße.",
+                "hu": "Maradjon az út melletti szilárd burkolatú ösvényeken.",
+                "ro": "Rămâneți pe potecile pavate de lângă drum.",
+                "en": "Stay on the paved paths near the road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Wischerblätter vor der Abfahrt.",
+              "Vermeiden Sie das Parken unter alten Bäumen bei Sturm.",
+              "Halten Sie die Fenster für gute Sicht beschlagfrei.",
+              "Planen Sie mehr Zeit für Fahrten auf Nebenstraßen ein.",
+              "Ein Regenschirm im Auto ist für die kurzen Wege zum Ziel wichtig."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlő lapátokat.",
+              "Viharos esőben kerülje a parkolást öreg fák alatt.",
+              "Tartsa páramentesen az ablakokat a jó kilátáshoz.",
+              "Számoljon több idővel a mellékutakon való közlekedésre.",
+              "Egy esernyő az autóban fontos a rövid gyalogos szakaszokhoz."
+            ],
+            "ro": [
+              "Verificați lamelele ștergătoarelor înainte de plecare.",
+              "Evitați parcarea sub copaci bătrâni în caz de furtună.",
+              "Mențineți geamurile dezaburite pentru o vizibilitate bună.",
+              "Alocați mai mult timp pentru deplasarea pe drumurile secundare.",
+              "O umbrelă în mașină este importantă pentru distanțele scurte."
+            ],
+            "en": [
+              "Check wiper blades before departure.",
+              "Avoid parking under old trees during storms.",
+              "Keep windows demisted for good visibility.",
+              "Allow more time for driving on side roads.",
+              "Keep an umbrella in the car for short walks to destinations."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Wagen erkunden wir das frostige Kastell von Drajna de Sus. Die Fahrt zur Warthiadi-Mühle bietet tolle Ausblicke auf schneebedeckte Felder. Im Zentrum parken wir bequem für den Besuch des Herrenhauses und der Kirchen. Der Höhepunkt ist die Panoramafahrt zum Cârlig-Hügel im warmen Licht des frühen Sonnenuntergangs, bevor wir den Tag im Tal beenden.",
+            "hu": "A fűtött autóban fedezzük fel a zúzmarás felsődrajnai erődöt. A Warthiadi-malomhoz vezető út pazar kilátást nyújt a hófödte mezőkre. A központban kényelmesen parkolunk a kastély és a templomok látogatásához. A csúcspont a panorámaút a Cârlig-dombhoz a korai naplemente meleg fényében, mielőtt a völgyben zárnánk a napot.",
+            "ro": "În mașina încălzită explorăm castrul înghețat de la Drajna de Sus. Drumul spre moara Warthiadi oferă vederi superbe asupra câmpurilor înzăpezite. În centru parcăm confortabil pentru vizitarea conacului și a bisericilor. Punctul culminant este drumul panoramic spre dealul Cârlig în lumina caldă a apusului devreme.",
+            "en": "In a heated car, we explore the frosty fort of Drajna de Sus. The drive to Warthiadi Mill offers great views of snow-covered fields. We park comfortably in the center for visiting the mansion and churches. The highlight is the scenic drive to Cârlig Hill in the warm light of the early sunset before ending the day in the valley."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Roman Fort & Mill",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneeverwehungen auf der Zufahrtsstraße.",
+                "hu": "Ügyeljen a hóátfúvásokra a bekötőúton.",
+                "ro": "Atenție la troienele de zăpadă de pe drumul de acces.",
+                "en": "Watch out for snowdrifts on the access road."
+              }
+            },
+            {
+              "name": "Warthiadi Watermill",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen, der Boden kann vereist sein.",
+                "hu": "Vigyázzon kiszálláskor, a talaj jeges lehet.",
+                "ro": "Atenție la coborâre, solul poate fi înghețat.",
+                "en": "Be careful when getting out, the ground may be icy."
+              }
+            },
+            {
+              "name": "Cluster 2: Drajna Center",
+              "tip_5lang": {
+                "de": "Parkplätze im Zentrum sind im Winter meist geräumt.",
+                "hu": "A központi parkolókat télen általában letakarítják.",
+                "ro": "Parcările din centru sunt de obicei deszăpezite iarna.",
+                "en": "Center parking spots are usually cleared in winter."
+              }
+            },
+            {
+              "name": "Saint Demetrius Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz, ziehen Sie sich warm an.",
+                "hu": "Rövid séta a parkolótól, öltözzön fel melegen.",
+                "ro": "Plimbare scurtă de la parcare, îmbrăcați-vă gros.",
+                "en": "Short walk from the parking lot, dress warmly."
+              }
+            },
+            {
+              "name": "Lunch in Drajna",
+              "tip_5lang": {
+                "de": "Genießen Sie den Komfort eines beheizten Gastraums.",
+                "hu": "Élvezze a fűtött vendégtér kényelmét.",
+                "ro": "Bucurați-vă de confortul unei săli de mese încălzite.",
+                "en": "Enjoy the comfort of a heated dining area."
+              }
+            },
+            {
+              "name": "Cluster 3: Valley & Panorama",
+              "tip_5lang": {
+                "de": "Die Panoramafahrt bietet den besten Blick aus dem warmen Auto.",
+                "hu": "A panorámaút a legjobb kilátást adja a meleg kocsiból.",
+                "ro": "Drumul panoramic oferă cea mai bună vedere din mașina caldă.",
+                "en": "The scenic drive offers the best view from the warm car."
+              }
+            },
+            {
+              "name": "Walk in the Teleajen Valley",
+              "tip_5lang": {
+                "de": "Achten Sie auf den Stand der Sonne, es wird schnell kalt.",
+                "hu": "Figyelje a nap állását, hamar lehűl a levegő.",
+                "ro": "Urmăriți poziția soarelui, se răcește repede.",
+                "en": "Watch the sun's position, it gets cold quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Schneeketten sind in dieser Region Pflicht.",
+              "Prüfen Sie den Frostschutz der Scheibenwaschanlage.",
+              "Lassen Sie den Motor bei kurzen Stopps nicht unnötig laufen.",
+              "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit (17 Uhr).",
+              "Nehmen Sie eine Decke und warme Getränke für Notfälle mit."
+            ],
+            "hu": [
+              "A téli gumi és hólánc kötelező ebben a régióban.",
+              "Ellenőrizze a szélvédőmosó fagyállóságát.",
+              "Rövid megállásoknál ne járassa feleslegesen a motort.",
+              "Tervezze meg a visszautat sötétedés (17 óra) előtt.",
+              "Vigyen magával takarót és meleg italt vészhelyzetre."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și lanțurile sunt obligatorii în regiune.",
+              "Verificați lichidul de parbriz antighet.",
+              "Nu lăsați motorul pornit inutil la opriri scurte.",
+              "Planificați întoarcerea înainte de lăsarea întunericului (ora 17).",
+              "Luați o pătură și băuturi calde pentru urgențe."
+            ],
+            "en": [
+              "Winter tires and snow chains are mandatory in this region.",
+              "Check the antifreeze level in the windshield washer fluid.",
+              "Don't leave the engine running unnecessarily during short stops.",
+              "Plan your return journey before dark (5 PM).",
+              "Carry a blanket and warm drinks for emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1305,6 +1911,196 @@
           "Have small change ready for tickets.",
           "Be prepared for walks from the bus stops to the actual sights."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nach der Ankunft im Zentrum von Drajna im Regen nutzen wir die kurzen Wege zum Herrenhaus Filipescu. Die Besichtigung der Museen schützt uns vor den Schauern. Mittags fahren wir mit dem Bus zum Kastell von Drajna de Sus, wobei wir wasserfeste Kleidung für den Fußweg brauchen. Den Tag beenden wir bei einem späten Mittagessen und einem geschützten Spaziergang im Teleajen-Tal.",
+            "hu": "Az esős drajnai érkezés után kihasználjuk a központ és a kastély közötti rövid távolságot. A múzeumlátogatás megvéd a záporoktól. Délben busszal megyünk a felsődrajnai erődhöz, ahol vízálló ruhára lesz szükség a gyalogos szakaszhoz. A napot egy késői ebéddel és a Teleajen-völgyi védett sétával zárjuk.",
+            "ro": "După sosirea în centrul localității Drajna pe ploaie, folosim distanțele scurte spre conac. Vizitarea muzeului ne protejează de averse. La prânz mergem cu autobuzul spre castrul din Drajna de Sus, având nevoie de haine impermeabile pentru mersul pe jos. Încheiem ziua cu un prânz târziu și o plimbare protejată în valea Teleajenului.",
+            "en": "After arriving in Drajna center in the rain, we take advantage of the short distance to Filipescu Mansion. Visiting the museums protects us from the showers. At noon, we take the bus to the fort in Drajna de Sus, needing waterproof gear for the walking part. We end the day with a late lunch and a sheltered walk in the Teleajen Valley."
+          },
+          "stops": [
+            {
+              "name": "Arrival in Drajna Center",
+              "tip_5lang": {
+                "de": "Das Wartehäuschen bietet begrenzten Schutz vor dem Regen.",
+                "hu": "A váróterem korlátozott védelmet nyújt az eső ellen.",
+                "ro": "Stația oferă un adăpost limitat împotriva ploii.",
+                "en": "The waiting area offers limited shelter from the rain."
+              }
+            },
+            {
+              "name": "Filipescu Mansion",
+              "tip_5lang": {
+                "de": "Nur wenige Minuten Fußweg von der Bushaltestelle entfernt.",
+                "hu": "Csak pár perc séta a buszmegállótól.",
+                "ro": "Doar câteva minute de mers pe jos de la stația de autobuz.",
+                "en": "Only a few minutes' walk from the bus stop."
+              }
+            },
+            {
+              "name": "Saint Demetrius Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als Regenschutz.",
+                "hu": "Használja a templom bejáratát esővédőként.",
+                "ro": "Folosiți intrarea bisericii ca protecție împotriva ploii.",
+                "en": "Use the church entrance as rain protection."
+              }
+            },
+            {
+              "name": "Trip to the Roman Fort",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Busfahrplan genau, um Wartezeiten im Regen zu vermeiden.",
+                "hu": "Pontosan ellenőrizze a menetrendet, hogy ne várjon sokat az esőben.",
+                "ro": "Verificați mersul autobuzelor pentru a nu aștepta mult în ploaie.",
+                "en": "Check the bus schedule carefully to avoid waiting in the rain."
+              }
+            },
+            {
+              "name": "Late Lunch",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um auf den nächsten Bus zu warten.",
+                "hu": "Meleg hely a következő busz megvárásához.",
+                "ro": "Un loc călduros pentru a aștepta următorul autobuz.",
+                "en": "A warm place to wait for the next bus."
+              }
+            },
+            {
+              "name": "Walk along the Teleajen River",
+              "tip_5lang": {
+                "de": "Die Wege können sehr matschig sein, bleiben Sie auf der Straße.",
+                "hu": "Az utak sarasak lehetnek, maradjon az aszfalt közelében.",
+                "ro": "Drumurile pot fi noroioase, rămâneți aproape de asfalt.",
+                "en": "Paths can be muddy, stay close to the asphalt."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie eine Offline-Karte für die Buslinien herunter.",
+              "Tragen Sie auffällige Regenkleidung für bessere Sichtbarkeit.",
+              "Rechnen Sie mit Verspätungen im Nahverkehr bei schlechtem Wetter.",
+              "Ein kleiner, faltbarer Schirm passt gut in den Rucksack.",
+              "Die Haltestellen sind oft nicht überdacht, planen Sie entsprechend."
+            ],
+            "hu": [
+              "Töltsön le offline térképet a buszjáratokhoz.",
+              "Viseljen feltűnő esőruhát a jobb láthatóságért.",
+              "Számoljon a tömegközlekedés késéseivel rossz időben.",
+              "Egy kis, összecsukható ernyő jól elfér a hátizsákban.",
+              "A megállók gyakran nem fedettek, készüljön fel erre."
+            ],
+            "ro": [
+              "Descărcați o hartă offline pentru liniile de autobuz.",
+              "Purtați haine de ploaie colorate pentru vizibilitate mai bună.",
+              "Anticipați întârzieri ale transportului în comun pe vreme rea.",
+              "O umbrelă mică, pliabilă, încape bine în rucsac.",
+              "Stațiile nu sunt adesea acoperite, planificați corespunzător."
+            ],
+            "en": [
+              "Download an offline map for the bus routes.",
+              "Wear bright rain gear for better visibility.",
+              "Expect public transport delays in bad weather.",
+              "A small, foldable umbrella fits well in a backpack.",
+              "Stops are often not covered, plan accordingly."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch im Zentrum von Drajna, wobei wir uns im Museum des Herrenhauses aufwärmen. Mittags nehmen wir den Bus zum Kastell von Drajna de Sus, um den Blick auf die verschneiten Berge zu genießen. Trotz der Kälte lohnt sich der kurze Spaziergang an der frischen Luft. Da es früh dunkelt, kehren wir für ein warmes Essen zurück und nehmen den letzten Bus im Hellen.",
+            "hu": "A téli reggel frissen indul Drajna központjában, a kastélymúzeumban melegedve fel. Délben busszal megyünk a felsődrajnai erődhöz, hogy megcsodáljuk a havas hegyeket. A hideg ellenére megéri a rövid séta a friss levegőn. Mivel korán sötétedik, visszatérünk egy meleg ebédre, és az utolsó világos járatot választjuk.",
+            "ro": "Dimineața de iarnă începe proaspăt în centrul localității Drajna, încălzindu-ne la muzeul conacului. La prânz luăm autobuzul spre castrul din Drajna de Sus pentru a admira munții înzăpeziți. În ciuda frigului, plimbarea scurtă merită. Deoarece se întunecă devreme, revenim pentru o masă caldă și luăm ultimul autobuz pe lumină.",
+            "en": "The winter morning starts fresh in Drajna center, warming up in the mansion museum. At noon, we take the bus to the fort in Drajna de Sus to admire the snowy mountains. Despite the cold, the short walk in the fresh air is worth it. As it gets dark early, we return for a warm meal and take the last bus while it's still light."
+          },
+          "stops": [
+            {
+              "name": "Arrival in Drajna Center",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz vor dem kalten Wind im Wartehäuschen.",
+                "hu": "Keressen menedéket a hideg szél elől a buszváróban.",
+                "ro": "Căutați adăpost împotriva vântului rece în stație.",
+                "en": "Seek shelter from the cold wind in the waiting area."
+              }
+            },
+            {
+              "name": "Filipescu Mansion",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Ort für die erste Tageshälfte.",
+                "hu": "Jól fűtött helyszín a nap első felére.",
+                "ro": "O locație bine încălzită pentru prima jumătate a zilei.",
+                "en": "A well-heated location for the first half of the day."
+              }
+            },
+            {
+              "name": "Saint Demetrius Church",
+              "tip_5lang": {
+                "de": "Besinnliche Ruhe und Schutz vor dem Frost.",
+                "hu": "Meghitt nyugalom és védelem a fagy ellen.",
+                "ro": "Liniște sufletească și protecție împotriva gerului.",
+                "en": "Contemplative peace and protection from the frost."
+              }
+            },
+            {
+              "name": "Trip to the Roman Fort",
+              "tip_5lang": {
+                "de": "Rechnen Sie mit glatten Wegen beim Umsteigen.",
+                "hu": "Számoljon csúszós utakkal az átszállásnál.",
+                "ro": "Anticipați drumuri alunecoase la transbordare.",
+                "en": "Expect slippery paths when changing buses."
+              }
+            },
+            {
+              "name": "Late Lunch",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme, während Sie auf den Rückbus warten.",
+                "hu": "Élvezze a meleget, amíg a visszatérő buszra vár.",
+                "ro": "Bucurați-vă de căldură în timp ce așteptați autobuzul de retur.",
+                "en": "Enjoy the warmth while waiting for the return bus."
+              }
+            },
+            {
+              "name": "Walk along the Teleajen River",
+              "tip_5lang": {
+                "de": "Bleiben Sie in Bewegung, um bei der Kälte nicht auszukühlen.",
+                "hu": "Maradjon mozgásban, hogy ne fázzon meg a hidegben.",
+                "ro": "Rămâneți în mișcare pentru a nu îngheța de frig.",
+                "en": "Keep moving to avoid getting cold in the freezing air."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Winterschuhe mit dicken Socken.",
+              "Halten Sie Ihr Handy nah am Körper, da der Akku bei Kälte schnell leer wird.",
+              "Prüfen Sie den Winterfahrplan, da weniger Busse fahren könnten.",
+              "Nutzen Sie die beheizten Museen als Aufwärmstationen.",
+              "Planen Sie die Rückreise vor 16:30 Uhr ein."
+            ],
+            "hu": [
+              "Viseljen meleg téli bakancsot vastag zoknival.",
+              "Tartsa a telefont a testéhez közel, mert az akku gyorsan lemerül a hidegben.",
+              "Ellenőrizze a téli menetrendet, kevesebb járat indulhat.",
+              "Használja a fűtött múzeumokat melegedőhelyként.",
+              "Tervezze meg a visszautat 16:30 előtt."
+            ],
+            "ro": [
+              "Purtați bocanci de iarnă călduroși cu șosete groase.",
+              "Țineți telefonul aproape de corp, bateria se descarcă repede la frig.",
+              "Verificați mersul autobuzelor de iarnă, pot fi mai puține curse.",
+              "Folosiți muzeele încălzite ca puncte de încălzire.",
+              "Planificați întoarcerea înainte de ora 16:30."
+            ],
+            "en": [
+              "Wear warm winter boots with thick socks.",
+              "Keep your phone close to your body as the battery drains fast in the cold.",
+              "Check the winter bus schedule, there might be fewer services.",
+              "Use heated museums as warming-up points.",
+              "Plan your return journey before 4:30 PM."
+            ]
+          }
+        }
       }
     }
   }

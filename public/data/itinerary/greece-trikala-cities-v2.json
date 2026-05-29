@@ -312,6 +312,196 @@
           "Summers get very hot; time your castle climb for the morning.",
           "Simply follow the riverbanks to easily orient yourself in the city."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens führt der Weg unter dem Regenschirm über die Zentralbrücke, wo der Lithaios-Fluss grau dahinfließt. Mittags bieten die schmalen Gassen von Varousi begrenzten Schutz vor dem Regen. Nachmittags erklimmen wir die Festung, wobei die alten Steine glänzen, und besichtigen den Uhrturm. Der späte Nachmittag gehört dem trockenen Kliafa-Museum. Abends funkeln die Lichter der Flussbrücken in den Pfützen.",
+            "hu": "A reggel az esernyő alatt kezdődik a Központi hídnál, ahol a Lithaios folyó szürkén hömpölyög. Délben Varousi szűk utcái némi menedéket nyújtanak az eső elől. Délután az erőd és az óratorony következik, a vizes kövek ilyenkor különösen csillognak. A késő délutánt a fedett Kliafa Múzeumban töltjük. Este a folyóparti hidak fényei vibrálnak az eső áztatta aszfalton.",
+            "ro": "Dimineața începe cu o plimbare sub umbrelă pe Podul Central, unde râul Lithaios curge cenușiu. La prânz, străzile înguste din Varousi oferă un adăpost parțial. După-amiaza urcăm la cetate și la Turnul cu Ceas, pietrele vechi strălucind sub ploaie. Târziu după-amiază ne retragem în interiorul uscat al Muzeului Kliafa. Seara, luminile podurilor de peste râu se reflectă spectaculos în bălți.",
+            "en": "Morning begins under an umbrella at the Central Bridge, where the Lithaios River flows grey. At noon, the narrow alleys of Varousi provide some shelter from the downpour. Afternoon is spent at the fortress and the Clock Tower, with the ancient stones glistening in the wet. Late afternoon is reserved for the dry Kliafa Museum. Evening sees the river bridge lights shimmering in the puddles."
+          },
+          "stops": [
+            {
+              "name": "Zentralbrücke",
+              "tip_5lang": {
+                "de": "Regenschirm fest halten wegen Windböen am Fluss.",
+                "hu": "Fogja szorosan az esernyőt a folyóparti széllökésekben.",
+                "ro": "Țineți bine umbrela din cauza rafalelor de vânt de pe râu.",
+                "en": "Hold your umbrella tight due to wind gusts by the river."
+              }
+            },
+            {
+              "name": "Viertel Varousi",
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster ist bei Nässe sehr rutschig.",
+                "hu": "A macskakövek vizesen rendkívül csúszósak.",
+                "ro": "Pavajul de piatră este foarte alunecos când este ud.",
+                "en": "The cobblestones are very slippery when wet."
+              }
+            },
+            {
+              "name": "Byzantinische Festung",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den massiven Torbögen.",
+                "hu": "Keressen menedéket a masszív kapuboltozatok alatt.",
+                "ro": "Căutați adăpost sub arcadele masive ale porților.",
+                "en": "Seek shelter under the massive gate arches."
+              }
+            },
+            {
+              "name": "Uhrturm von Trikala",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp, dann schnell weiter ins Museum.",
+                "hu": "Gyors fotó, majd irány a múzeum fedett belső tere.",
+                "ro": "Oprire rapidă pentru poze, apoi mergeți la muzeu.",
+                "en": "Quick photo stop, then continue to the indoor museum."
+              }
+            },
+            {
+              "name": "Kliafa Museum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Regenpause abzuwarten.",
+                "hu": "Ideális helyszín az eső elöli menedékre.",
+                "ro": "Locul ideal pentru a aștepta oprirea ploii.",
+                "en": "Ideal location to wait out the rain shower."
+              }
+            },
+            {
+              "name": "Lithaios-Flussbrücken",
+              "tip_5lang": {
+                "de": "Genießen Sie die Reflexionen der Stadtlichter im Wasser.",
+                "hu": "Élvezze a városi fények tükröződését a vizes úton.",
+                "ro": "Bucurați-vă de reflexiile luminilor orașului în apă.",
+                "en": "Enjoy the reflections of city lights on the wet ground."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Arkaden in der Asklipiou-Straße als Regenschutz.",
+              "Tragen Sie wasserfeste Schuhe für das Kopfsteinpflaster in Varousi.",
+              "Das Kliafa-Museum bietet eine hervorragende Indoor-Alternative.",
+              "Cafés am Flussufer sind ideal für längere Regenpausen.",
+              "Die Brückenbeleuchtung wirkt bei Regen besonders atmosphärisch."
+            ],
+            "hu": [
+              "Használja az Asklipiou utca árkádjait eső elleni védelemként.",
+              "Viseljen vízálló cipőt a Varousi negyed csúszós kövei miatt.",
+              "A Kliafa Múzeum kiváló fedett program esős időre.",
+              "A folyóparti kávézók tökéletesek egy hosszabb pihenőre.",
+              "A hidak kivilágítása esőben különleges hangulatot áraszt."
+            ],
+            "ro": [
+              "Folosiți arcadele de pe strada Asklipiou pentru a vă feri de ploaie.",
+              "Purtați încălțăminte impermeabilă pentru pietrele din Varousi.",
+              "Muzeul Kliafa oferă o alternativă excelentă de interior.",
+              "Cafenelele de pe malul râului sunt ideale pentru pauze lungi.",
+              "Iluminarea podurilor este deosebit de atmosferică pe ploaie."
+            ],
+            "en": [
+              "Use the arcades on Asklipiou Street for rain protection.",
+              "Wear waterproof shoes for the slippery stones in Varousi.",
+              "Kliafa Museum is an excellent indoor alternative during rain.",
+              "Riverside cafés are perfect for longer breaks to dry off.",
+              "The bridge lighting is especially atmospheric during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt an der Zentralbrücke mit Blick auf den nebligen Lithaios. Mittags wärmt ein Spaziergang durch Varousi, bevor es nachmittags zur Festung geht. Die Sonne sinkt früh gegen 17:15 Uhr hinter die Berge, was dem Uhrturm eine goldene Aura verleiht. Der späte Nachmittag im Kliafa-Museum ist angenehm temperiert. Abends leuchten die geschmückten Flussbrücken in der kalten Winternacht.",
+            "hu": "Deres reggel fogad a Központi hídnál, a folyó felett ködpára lebeg. Délben a Varousi negyed napsütötte falai között sétálunk, majd délután az erőd felé vesszük az irányt. A nap korán, 17:15 körül lebukik a hegyek mögött, arany fénybe vonva az óratoronyt. Késő délután a Kliafa Múzeum melegében pihenünk meg. Este a feldíszített hidak fénye ragyog a hideg téli éjszakában.",
+            "ro": "O dimineață geroasă începe la Podul Central, cu ceață deasupra râului Lithaios. La prânz, ne încălzim plimbându-ne prin Varousi, înainte de a urca la cetate. Soarele apune devreme, în jurul orei 17:15, oferind Turnului cu Ceas o aură aurie. Târziu după-amiază, interiorul Muzeului Kliafa este primitor. Seara, podurile decorate luminează noaptea rece de iarnă.",
+            "en": "A frosty morning starts at the Central Bridge with mist rising from the Lithaios. Noon is spent walking through Varousi before heading to the fortress. The sun sets early around 17:15, giving the Clock Tower a golden glow. Late afternoon in the Kliafa Museum is pleasantly warm. In the evening, the decorated river bridges shine brightly in the cold winter night."
+          },
+          "stops": [
+            {
+              "name": "Zentralbrücke",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf dem Brückengeländer.",
+                "hu": "Vigyázzon a híd korlátján lévő zúzmarára.",
+                "ro": "Atenție la chiciura de pe balustrada podului.",
+                "en": "Watch out for hoarfrost on the bridge railings."
+              }
+            },
+            {
+              "name": "Viertel Varousi",
+              "tip_5lang": {
+                "de": "Die Sonne wärmt die engen Gassen zur Mittagszeit.",
+                "hu": "A nap délidőben kellemesen melegíti a szűk utcákat.",
+                "ro": "Soarele încălzește ulițele înguste la ora prânzului.",
+                "en": "The sun warms the narrow alleys at midday."
+              }
+            },
+            {
+              "name": "Byzantinische Festung",
+              "tip_5lang": {
+                "de": "Warme Kleidung nötig, der Wind zieht hier oben stärker.",
+                "hu": "Meleg ruha kell, fent erősebben fúj a szél.",
+                "ro": "Haine groase necesare, vântul bate mai tare sus.",
+                "en": "Warm clothes needed, the wind is stronger up here."
+              }
+            },
+            {
+              "name": "Uhrturm von Trikala",
+              "tip_5lang": {
+                "de": "Bester Aussichtspunkt für den frühen Sonnenuntergang.",
+                "hu": "A legjobb pont a korai naplemente megtekintéséhez.",
+                "ro": "Cel mai bun punct pentru a vedea apusul timpuriu.",
+                "en": "Best viewpoint for the early winter sunset."
+              }
+            },
+            {
+              "name": "Kliafa Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen.",
+                "hu": "Használja ki a múzeumlátogatást a melegedésre.",
+                "ro": "Profitați de vizita la muzeu pentru a vă încălzi.",
+                "en": "Take advantage of the museum visit to warm up."
+              }
+            },
+            {
+              "name": "Lithaios-Flussbrücken",
+              "tip_5lang": {
+                "de": "Im Winter oft festlich beleuchtet.",
+                "hu": "Télen gyakran ünnepi díszkivilágítást kapnak.",
+                "ro": "Iarna sunt adesea iluminate festiv.",
+                "en": "Often festively illuminated during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Winter bereits gegen 17:15 Uhr unter.",
+              "Tragen Sie Schal und Handschuhe für den Wind am Fluss.",
+              "Die Festung kann bei Eisglätte gefährlich sein.",
+              "Suchen Sie Cafés mit Kaminen in der Altstadt auf.",
+              "Genießen Sie heiße Schokolade am Asklipiou-Platz."
+            ],
+            "hu": [
+              "A nap télen már 17:15 körül lemegy.",
+              "Viseljen sálat és kesztyűt a folyóparti szél miatt.",
+              "Az erőd jeges időben veszélyesen csúuszós lehet.",
+              "Keressen kandallós kávézókat az óvárosban.",
+              "Kóstolja meg a forró csokoládét az Asklipiou téren."
+            ],
+            "ro": [
+              "Soarele apune deja în jur de 17:15 iarna.",
+              "Purtați fular și mănuși pentru vântul de pe râu.",
+              "Cetatea poate fi periculoasă dacă este gheață pe jos.",
+              "Căutați cafenele cu șemineu în centrul vechi.",
+              "Savurați o ciocolată caldă în Piața Asklipiou."
+            ],
+            "en": [
+              "The sun sets as early as 17:15 during winter.",
+              "Wear a scarf and gloves for the wind along the river.",
+              "The fortress paths can be dangerous if icy.",
+              "Look for cafés with fireplaces in the old town.",
+              "Enjoy a hot chocolate at Asklipiou Square."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -599,6 +789,178 @@
           "Be careful in the old town: cobblestones can make for a bumpy ride.",
           "The bike path along the Lithaios river provides great shade on hot days."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir zur Matsopoulos-Mühle, die im Regen imposant wirkt. Mittags erreichen wir die Kursum-Moschee, wobei die nasse Kuppel glänzt. Die Fahrt über die Zentralbrücke erfordert Vorsicht. In Varousi schieben wir das Rad durch die engen Gassen. Nachmittags erklimmen wir den Festungshügel, wo die Pfützen auf den Wegen stehen.",
+            "hu": "Reggel a Matsopoulos-malomhoz tekerünk, amely esőben is impozáns látvány. Délben a Kursum-mecsetet érjük el, vizes kupolája messziről csillog. A Központi hídon való átkelés óvatosságot igényel. Varousiban inkább toljuk a bringát a szűk utcákban. Délután az erőd dombját másszuk meg, ahol tócsák borítják az utat.",
+            "ro": "Dimineața pedalăm spre Moara Matsopoulos, care arată impunător sub ploaie. La prânz ajungem la Moscheea Kursum, cu cupola sa umedă strălucind. Traversarea Podului Central necesită prudență. În Varousi, împingem bicicleta pe ulițele înguste. După-amiaza urcăm dealul cetății, unde bălțile acoperă potecile.",
+            "en": "Morning cycle to Matsopoulos Mill, which looks imposing in the rain. At noon we reach the Kursum Mosque, its wet dome glistening. Crossing the Central Bridge requires caution. In Varousi, it's better to push the bike through the narrow alleys. Afternoon climb to the fortress hill, where puddles dot the paths."
+          },
+          "stops": [
+            {
+              "name": "Matsopoulos Mühle",
+              "tip_5lang": {
+                "de": "Viel Platz im Innenbereich zum Unterstellen.",
+                "hu": "Tágas belső terek az eső elöli menedékhez.",
+                "ro": "Spațiu interior generos pentru a vă adăposti.",
+                "en": "Ample indoor space to seek shelter from rain."
+              }
+            },
+            {
+              "name": "Kursum Moschee",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad im überdachten Eingangsbereich.",
+                "hu": "Parkolja a biciklit a fedett bejárati részen.",
+                "ro": "Parcați bicicleta în zona de intrare acoperită.",
+                "en": "Park your bike in the covered entrance area."
+              }
+            },
+            {
+              "name": "Zentralbrücke",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem glatten Metallbelag der Brücke.",
+                "hu": "Vigyázzon a híd csúszós fémfelületein.",
+                "ro": "Atenție la suprafețele metalice alunecoase ale podului.",
+                "en": "Be careful on the slippery metal surfaces of the bridge."
+              }
+            },
+            {
+              "name": "Viertel Varousi",
+              "tip_5lang": {
+                "de": "Absteigen und Schieben ist sicherer bei Nässe.",
+                "hu": "Biztonságosabb tolni a bringát a vizes köveken.",
+                "ro": "Este mai sigur să mergeți pe lângă bicicletă pe ploaie.",
+                "en": "It is safer to walk your bike on wet stones."
+              }
+            },
+            {
+              "name": "Byzantinische Festung",
+              "tip_5lang": {
+                "de": "Der Aufstieg ist steil und bei Regen rutschig.",
+                "hu": "Az emelkedő meredek és esőben csúszós.",
+                "ro": "Urcarea este abruptă și alunecoasă pe ploaie.",
+                "en": "The climb is steep and slippery in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um Schlammspritzer zu vermeiden.",
+              "Vermeiden Sie scharfes Bremsen auf nassem Kopfsteinpflaster.",
+              "Die Matsopoulos-Mühle bietet trockene Ausstellungsräume.",
+              "In Varousi ist das Radfahren bei Nässe nicht zu empfehlen.",
+              "Tragen Sie eine auffällige Regenjacke für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "Használjon sárvédőt a felcsapódó víz ellen.",
+              "Kerülje az erős fékezést a vizes macskakövön.",
+              "A Matsopoulos-malom száraz kiállítótereket kínál.",
+              "Varousiban esőben nem ajánlott nyeregben maradni.",
+              "Viseljen feltűnő esőkabátot a jobb láthatóságért."
+            ],
+            "ro": [
+              "Folosiți apărători pentru a evita stropirea cu noroi.",
+              "Evitați frânarea bruscă pe pavajul umed.",
+              "Moara Matsopoulos oferă spații de expoziție uscate.",
+              "Nu se recomandă mersul pe bicicletă în Varousi pe ploaie.",
+              "Purtați o pelerină de ploaie colorată pentru vizibilitate."
+            ],
+            "en": [
+              "Use mudguards to prevent splashes from puddles.",
+              "Avoid sharp braking on wet cobblestone surfaces.",
+              "Matsopoulos Mill offers dry exhibition spaces.",
+              "Cycling in Varousi is not recommended during rainfall.",
+              "Wear a bright raincoat for better visibility in traffic."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Wintermorgen beginnt an der Matsopoulos-Mühle, wo der Frost die alten Maschinen überzieht. Mittags radeln wir zur Kursum-Moschee unter einem klaren Winterhimmel. Die Überquerung der Zentralbrücke bietet eine frische Brise vom Lithaios. Durch Varousi geht es gemütlich, bevor der Aufstieg zur Festung die Muskeln wärmt, rechtzeitig zum Sonnenuntergang um 17:15 Uhr.",
+            "hu": "Hideg téli reggel indul a Matsopoulos-malomnál, ahol a dér befedi a régi gépeket. Délben a Kursum-mecsethez tekerünk a tiszta téli égbolt alatt. A Központi hídon átkelve friss szél fúj a Lithaios felől. Varousi utcáin komótosan haladunk, majd az erődbe való felkapaszkodás bemelegíti az izmokat a 17:15-ös naplementére.",
+            "ro": "O dimineață rece de iarnă începe la Moara Matsopoulos, unde bruma acoperă vechile utilaje. La prânz pedalăm spre Moscheea Kursum sub un cer senin de iarnă. Traversarea Podului Central aduce o briză proaspătă de pe Lithaios. Prin Varousi mergem agale, înainte ca urcarea spre cetate să ne încălzească, fix la timp pentru apusul de la 17:15.",
+            "en": "A cold winter morning starts at Matsopoulos Mill, with frost covering the old machinery. Noon cycle to Kursum Mosque under a clear winter sky. Crossing the Central Bridge offers a fresh breeze from the Lithaios. Through Varousi we go slowly before the climb to the fortress warms our muscles, just in time for the 17:15 sunset."
+          },
+          "stops": [
+            {
+              "name": "Matsopoulos Mühle",
+              "tip_5lang": {
+                "de": "Im Winter oft Schauplatz des 'Mühlen der Elfen' Marktes.",
+                "hu": "Télen itt rendezik meg az 'Elfek Malma' vásárt.",
+                "ro": "Iarna găzduiește adesea târgul 'Moara Elfilor'.",
+                "en": "Often hosts the 'Mill of Elves' Christmas market."
+              }
+            },
+            {
+              "name": "Kursum Moschee",
+              "tip_5lang": {
+                "de": "Die Sonne steht tief und beleuchtet das Minarett.",
+                "hu": "A nap alacsonyan jár, megvilágítva a minaretet.",
+                "ro": "Soarele apune jos și luminează minaretul.",
+                "en": "The sun stays low, beautifully lighting the minaret."
+              }
+            },
+            {
+              "name": "Zentralbrücke",
+              "tip_5lang": {
+                "de": "Vorsicht vor Windböen auf der offenen Brücke.",
+                "hu": "Vigyázzon a széllökésekre a nyitott hídon.",
+                "ro": "Atenție la rafalele de vânt pe podul deschis.",
+                "en": "Watch out for wind gusts on the open bridge."
+              }
+            },
+            {
+              "name": "Viertel Varousi",
+              "tip_5lang": {
+                "de": "Schattige Gassen können sehr kühl sein.",
+                "hu": "Az árnyékos utcák nagyon hűvösek lehetnek.",
+                "ro": "Ulițele umbroase pot fi foarte răcoroase.",
+                "en": "Shaded alleys can be very chilly in winter."
+              }
+            },
+            {
+              "name": "Byzantinische Festung",
+              "tip_5lang": {
+                "de": "Letzter Einlass oft früher im Winter.",
+                "hu": "Télen az utolsó belépés gyakran korábban van.",
+                "ro": "Ultima intrare este adesea mai devreme iarna.",
+                "en": "Last entry is often earlier during winter months."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe beim Radfahren.",
+              "Die Sonne verschwindet bereits um 17:15 Uhr.",
+              "Prüfen Sie den Reifendruck bei niedrigen Temperaturen.",
+              "Matsopoulos ist im Dezember ein Muss (Weihnachtsmarkt).",
+              "Ein heißer Tee nach der Fahrt wirkt Wunder."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt kerékpározás közben.",
+              "A nap már 17:15-kor eltűnik a látóhatárról.",
+              "Ellenőrizze a guminyomást a hidegben.",
+              "A Matsopoulos-malom decemberben kötelező (karácsonyi vásár).",
+              "Egy forró tea tekerés után csodákra képes."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt când pedalați.",
+              "Soarele dispare deja la ora 17:15.",
+              "Verificați presiunea pneurilor la temperaturi scăzute.",
+              "Moara Matsopoulos este un must în decembrie (târg de Crăciun).",
+              "Un ceai fierbinte după plimbare face minuni."
+            ],
+            "en": [
+              "Wear windproof gloves while cycling in winter.",
+              "The sun disappears as early as 17:15.",
+              "Check tire pressure as it drops in cold temperatures.",
+              "Matsopoulos is a must-see in December (Christmas market).",
+              "A hot tea after the ride works wonders."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -886,6 +1248,178 @@
           "Driving between these specific clusters only takes a few minutes.",
           "Trikala is completely flat, so park once per cluster and walk the rest."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir Varousi, wobei wir nah an der Altstadt parken. Mittags geht es zur Festung, die vom Auto aus leicht erreichbar ist, ohne nass zu werden. Der Uhrturm bietet einen kurzen Ausblick zwischen den Schauern. Nachmittags besuchen wir die Kursum-Moschee und die Matsopoulos-Mühle, wo großzügige Parkplätze direkt vor dem Eingang das Trockenbleiben erleichtern.",
+            "hu": "Reggel a Varousi negyedet fedezzük fel, közvetlenül az óváros mellett parkolva. Délben az erőd következik, amely autóval kényelmesen, ázás nélkül megközelíthető. Az óratoronynál csak rövid időt töltünk a záporok között. Délután a Kursum-mecset és a Matsopoulos-malom jön, ahol a bejárat közeli parkolók segítenek szárazon maradni.",
+            "ro": "Dimineața explorăm Varousi, parcând aproape de centrul vechi. La prânz mergem la cetate, ușor accesibilă cu mașina fără a ne uda. Turnul cu Ceas oferă o priveliște scurtă între reprizele de ploaie. După-amiaza vizităm Moscheea Kursum și Moara Matsopoulos, unde parcările de lângă intrare ne ajută să rămânem uscați.",
+            "en": "Morning exploration of Varousi, parking close to the old town. At noon, the fortress is easily accessible by car without getting soaked. The Clock Tower offers a quick view between rain showers. Afternoon visit to Kursum Mosque and Matsopoulos Mill, where parking near the entrance makes staying dry easy."
+          },
+          "stops": [
+            {
+              "name": "Viertel Varousi",
+              "tip_5lang": {
+                "de": "Parkplätze sind in den engen Gassen Mangelware.",
+                "hu": "A szűk utcákban kevés a parkolóhely.",
+                "ro": "Locurile de parcare sunt rare pe ulițele înguste.",
+                "en": "Parking spaces are scarce in the narrow alleys."
+              }
+            },
+            {
+              "name": "Byzantinische Festung",
+              "tip_5lang": {
+                "de": "Man kann fast bis ganz nach oben fahren.",
+                "hu": "Szinte teljesen a csúcsig fel lehet hajtani.",
+                "ro": "Se poate conduce aproape până în vârf.",
+                "en": "You can drive almost all the way to the top."
+              }
+            },
+            {
+              "name": "Uhrturm von Trikala",
+              "tip_5lang": {
+                "de": "Kurzer Stopp möglich, Parken direkt am Turm schwierig.",
+                "hu": "Rövid megálló lehetséges, közvetlen parkolás nehéz.",
+                "ro": "Oprire scurtă posibilă, parcare grea lângă turn.",
+                "en": "Short stop possible, direct parking near tower is hard."
+              }
+            },
+            {
+              "name": "Kursum Moschee",
+              "tip_5lang": {
+                "de": "Parkplatz direkt an der Hauptstraße nutzen.",
+                "hu": "Használja a főút melletti parkolót.",
+                "ro": "Folosiți parcarea de lângă strada principală.",
+                "en": "Use the parking area right by the main road."
+              }
+            },
+            {
+              "name": "Matsopoulos Mühle",
+              "tip_5lang": {
+                "de": "Großer, bequemer Parkplatz vorhanden.",
+                "hu": "Nagy és kényelmes parkoló áll rendelkezésre.",
+                "ro": "Parcare mare și confortabilă disponibilă.",
+                "en": "Large and convenient parking lot available."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie zentrale Parkhäuser für die Innenstadt.",
+              "Die Auffahrt zur Festung ist bei Regen sicher befahrbar.",
+              "Matsopoulos bietet den besten Schutz bei starkem Regen.",
+              "Vermeiden Sie das Parken in potenziellen Überflutungszonen.",
+              "Halten Sie einen Regenschirm im Auto bereit."
+            ],
+            "hu": [
+              "Használjon központi parkolóházakat a belvárosban.",
+              "Az erődbe vezető út esőben is biztonságosan járható.",
+              "A Matsopoulos-malom nyújtja a legjobb védelmet esőben.",
+              "Kerülje a parkolást az alacsonyan fekvő területeken.",
+              "Tartson mindig esernyőt az autóban."
+            ],
+            "ro": [
+              "Folosiți parcările etajate centrale pentru centrul orașului.",
+              "Drumul spre cetate este sigur chiar și pe ploaie.",
+              "Moara Matsopoulos oferă cea mai bună protecție pe ploaie.",
+              "Evitați parcarea în zonele cu potențial de inundare.",
+              "Țineți mereu o umbrelă în mașină."
+            ],
+            "en": [
+              "Use central parking garages for the city center.",
+              "The drive up to the fortress is safe even in rain.",
+              "Matsopoulos Mill provides the best shelter during heavy rain.",
+              "Avoid parking in potential low-lying flood zones.",
+              "Always keep an umbrella ready in the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt in Varousi, wo der Frost auf den Dächern glitzert. Mittags fahren wir zur Festung, wobei die Heizung im Auto für Komfort sorgt. Der Sonnenuntergang um 17:15 Uhr lässt sich perfekt vom Uhrturm aus beobachten. Nachmittags besuchen wir die Kursum-Moschee und lassen den Tag in der Matsopoulos-Mühle ausklingen, die im Winter besonders festlich wirkt.",
+            "hu": "Tiszta téli reggel indul a Varousi negyedben, a háztetőkön csillog a dér. Délben az erődbe hajtunk, az autó fűtése kellemessé teszi az utat. A 17:15-ös naplemente tökéletesen látható az óratoronytól. Délután a Kursum-mecsetet érintjük, majd a napot a Matsopoulos-malomnál zárjuk, amely télen különösen ünnepi.",
+            "ro": "O dimineață senină de iarnă începe în Varousi, cu brumă sclipind pe acoperișuri. La prânz conducem spre cetate, căldura din mașină oferind confort. Apusul de la 17:15 poate fi observat perfect de la Turnul cu Ceas. După-amiaza vizităm Moscheea Kursum și încheiem ziua la Moara Matsopoulos, care arată festiv iarna.",
+            "en": "A clear winter morning begins in Varousi, with frost glistening on the roofs. At noon, we drive to the fortress, with the car heater providing comfort. The 17:15 sunset can be perfectly observed from the Clock Tower. Afternoon visit to Kursum Mosque and ending the day at Matsopoulos Mill, which looks especially festive in winter."
+          },
+          "stops": [
+            {
+              "name": "Viertel Varousi",
+              "tip_5lang": {
+                "de": "Vorsicht bei überfrierender Nässe in den Schattenseiten.",
+                "hu": "Vigyázzon a lefagyásokra az árnyékos oldalakon.",
+                "ro": "Atenție la polei în zonele umbrite.",
+                "en": "Watch out for black ice in shaded areas."
+              }
+            },
+            {
+              "name": "Byzantinische Festung",
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Schneefall glatt sein.",
+                "hu": "Hóesésben a felvezető út csúszós lehet.",
+                "ro": "Drumul de urcare poate fi alunecos dacă ninge.",
+                "en": "The access road can be slippery during snowfall."
+              }
+            },
+            {
+              "name": "Uhrturm von Trikala",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch für 17:00 Uhr ein (Sonnenuntergang).",
+                "hu": "Tervezze a látogatást 17:00-ra (naplemente).",
+                "ro": "Planificați vizita pentru ora 17:00 (apus).",
+                "en": "Plan your visit for 17:00 to catch the sunset."
+              }
+            },
+            {
+              "name": "Kursum Moschee",
+              "tip_5lang": {
+                "de": "Im Winter oft weniger Besucher, ruhige Atmosphäre.",
+                "hu": "Télen kevesebb a látogató, nyugodt a hangulat.",
+                "ro": "Mai puțini vizitatori iarna, atmosferă liniștită.",
+                "en": "Fewer visitors in winter, very calm atmosphere."
+              }
+            },
+            {
+              "name": "Matsopoulos Mühle",
+              "tip_5lang": {
+                "de": "Haupthalle ist beheizt und sehr gemütlich.",
+                "hu": "A főcsarnok fűtött és nagyon hangulatos.",
+                "ro": "Hala principală este încălzită și primitoare.",
+                "en": "The main hall is heated and very cozy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutz für die Scheibenwaschanlage nicht vergessen.",
+              "Die Sonne geht bereits um 17:15 Uhr unter.",
+              "Matsopoulos ist das Winter-Highlight von Trikala.",
+              "Planen Sie mehr Zeit für Parkplatzsuche am Matsopoulos ein.",
+              "Genießen Sie die Fahrt durch die beleuchtete Stadt."
+            ],
+            "hu": [
+              "Ne felejtse el a fagyállót a szélvédőmosóba.",
+              "A nap már 17:15-kor lemegy.",
+              "A Matsopoulos-malom Trikala téli fénypontja.",
+              "Számoljon több idővel a Matsopoulosnál a parkolásra.",
+              "Élvezze az autózást a kivilágított városban."
+            ],
+            "ro": [
+              "Nu uitați lichidul de parbriz rezistent la îngheț.",
+              "Soarele apune deja la ora 17:15.",
+              "Moara Matsopoulos este atracția principală iarna.",
+              "Alocați mai mult timp pentru parcare la Matsopoulos.",
+              "Bucurați-vă de drumul prin orașul iluminat."
+            ],
+            "en": [
+              "Don't forget antifreeze for your windshield washer.",
+              "The sun sets as early as 17:15 in winter.",
+              "Matsopoulos Mill is the winter highlight of Trikala.",
+              "Allow extra time for parking at Matsopoulos in December.",
+              "Enjoy the drive through the festively lit city."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1173,6 +1707,178 @@
           "There is no bus line up to the fortress, so comfortable walking shoes are a must.",
           "The main transit hub is very centrally located near the river."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bringt uns der Bus zur Zentralbrücke, wobei die Haltestellen Schutz bieten. Mittags spazieren wir durch Varousi und erreichen die Festung. Nachmittags nutzen wir den Transit zur Kursum-Moschee und zur Matsopoulos-Mühle. Die Busse sind im Regen eine trockene Alternative, um zwischen den Hauptattraktionen von Trikala zu pendeln, während draußen der Lithaios anschwillt.",
+            "hu": "Reggel busszal érkezünk a Központi hídhoz, a megállók védelmet nyújtanak. Délben a Varousi negyeden át jutunk fel az erődbe. Délután tömegközlekedéssel megyünk a Kursum-mecsethez és a Matsopoulos-malomhoz. A buszok száraz alternatívát kínálnak a főbb látnivalók közötti közlekedésre, miközben odakint a Lithaios folyó vízszintje emelkedik.",
+            "ro": "Dimineața, autobuzul ne duce la Podul Central, stațiile oferind adăpost. La prânz ne plimbăm prin Varousi și ajungem la cetate. După-amiaza folosim transportul în comun pentru Moscheea Kursum și Moara Matsopoulos. Autobuzele sunt o alternativă uscată pentru a naviga între atracții, în timp ce afară nivelul râului Lithaios crește.",
+            "en": "Morning bus ride to the Central Bridge, with shelters providing cover. At noon we walk through Varousi and reach the fortress. Afternoon transit to Kursum Mosque and Matsopoulos Mill. Buses offer a dry alternative for moving between Trikala's main sights while the Lithaios River swells outside."
+          },
+          "stops": [
+            {
+              "name": "Zentralbrücke",
+              "tip_5lang": {
+                "de": "Haltestellen in der Nähe bieten guten Regenschutz.",
+                "hu": "A közeli megállók jó védelmet nyújtanak az eső ellen.",
+                "ro": "Stațiile din apropiere oferă adăpost bun contra ploii.",
+                "en": "Nearby bus stops provide good protection from rain."
+              }
+            },
+            {
+              "name": "Viertel Varousi",
+              "tip_5lang": {
+                "de": "Vom Busstopp sind es nur wenige Gehminuten.",
+                "hu": "A buszmegállótól csak pár perc séta.",
+                "ro": "De la stația de autobuz sunt doar câteva minute de mers.",
+                "en": "Only a few minutes walk from the nearest bus stop."
+              }
+            },
+            {
+              "name": "Byzantinische Festung",
+              "tip_5lang": {
+                "de": "Busse halten am Fuß des Hügels, kurzer Aufstieg nötig.",
+                "hu": "A buszok a domb alján állnak meg, rövid kaptató várható.",
+                "ro": "Autobuzele opresc la baza dealului, urmează o urcare scurtă.",
+                "en": "Buses stop at the hill base, requiring a short uphill walk."
+              }
+            },
+            {
+              "name": "Kursum Moschee",
+              "tip_5lang": {
+                "de": "Direkte Busanbindung vorhanden.",
+                "hu": "Közvetlen buszjárat áll rendelkezésre.",
+                "ro": "Conexiune directă cu autobuzul disponibilă.",
+                "en": "Direct bus connection available to this location."
+              }
+            },
+            {
+              "name": "Matsopoulos Mühle",
+              "tip_5lang": {
+                "de": "Endstation vieler Linien, perfekt zum Trockenbleiben.",
+                "hu": "Számos járat végállomása, ideális esős időben.",
+                "ro": "Capăt de linie pentru multe rute, ideal pe ploaie.",
+                "en": "Terminal for many lines, perfect for staying dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeit-Busabfahrten.",
+              "Zentrale Umstiegspunkte sind oft überdacht.",
+              "Kaufen Sie Tickets vorab an Kiosken.",
+              "Die Busse sind im Regen oft recht voll.",
+              "Matsopoulos ist sehr gut an das Busnetz angebunden."
+            ],
+            "hu": [
+              "Használja az alkalmazást a valós idejű buszmenetrendhez.",
+              "A központi átszállópontok gyakran fedettek.",
+              "Vásárolja meg jegyét előre az újságosoknál.",
+              "Esőben a buszok gyakran zsúfoltak lehetnek.",
+              "A Matsopoulos-malom kiváló buszos összeköttetéssel bír."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru orarul autobuzelor în timp real.",
+              "Punctele centrale de transfer sunt adesea acoperite.",
+              "Cumpărați bilete în avans de la chioșcuri.",
+              "Autobuzele sunt adesea destul de pline pe ploaie.",
+              "Moara Matsopoulos are conexiuni foarte bune de autobuz."
+            ],
+            "en": [
+              "Use the local app for real-time bus departures.",
+              "Central transfer points are often covered.",
+              "Buy your tickets in advance from kiosks.",
+              "Buses tend to be quite crowded during rainfall.",
+              "Matsopoulos Mill is very well connected by bus."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen beginnt mit einer Busfahrt zur Zentralbrücke. Mittags erkunden wir Varousi und die Festung unter einem klaren Himmel. Die Wärme im Bus ist zwischen den Stationen willkommen. Um 17:15 Uhr erleben wir den frühen Sonnenuntergang, bevor wir mit dem Transit zur Matsopoulos-Mühle fahren, die im Winter als 'Mühle der Elfen' hell erleuchtet ist.",
+            "hu": "Deres téli reggel indul buszozással a Központi hídig. Délben a Varousi negyedet és az erődöt fedezzük fel a tiszta égbolt alatt. A buszok melege jól esik a megállók között. 17:15-kor tanúi leszünk a korai naplementének, majd tömegközlekedéssel a Matsopoulos-malomhoz megyünk, amely télen 'Elfek Malmaként' ragyog.",
+            "ro": "O dimineață de iarnă geroasă începe cu un drum cu autobuzul spre Podul Central. La prânz explorăm Varousi și cetatea sub un cer senin. Căldura din autobuz este binevenită între stații. La 17:15 vedem apusul timpuriu, apoi mergem cu transportul în comun la Moara Matsopoulos, luminată festiv iarna.",
+            "en": "A frosty winter morning starts with a bus ride to the Central Bridge. At noon we explore Varousi and the fortress under a clear sky. The warmth inside the bus is welcome between stops. At 17:15 we witness the early sunset before taking transit to Matsopoulos Mill, brightly lit as the 'Mill of Elves' in winter."
+          },
+          "stops": [
+            {
+              "name": "Zentralbrücke",
+              "tip_5lang": {
+                "de": "Häufige Taktung auch im Winter.",
+                "hu": "Sűrű járatsűrűség télen is.",
+                "ro": "Frecvență mare a autobuzelor și iarna.",
+                "en": "Frequent bus service even during winter."
+              }
+            },
+            {
+              "name": "Viertel Varousi",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg wärmt auf.",
+                "hu": "A rövid séta segít bemelegedni.",
+                "ro": "Mersul pe jos pe distanță scurtă vă încălzește.",
+                "en": "The short walk helps to warm you up."
+              }
+            },
+            {
+              "name": "Byzantinische Festung",
+              "tip_5lang": {
+                "de": "Letzte Rückfahrt vor Einbruch der Dunkelheit planen.",
+                "hu": "Tervezze az utolsó visszautat sötétedés előtt.",
+                "ro": "Planificați ultimul drum de întoarcere înainte de lăsarea serii.",
+                "en": "Plan your last return trip before darkness falls."
+              }
+            },
+            {
+              "name": "Kursum Moschee",
+              "tip_5lang": {
+                "de": "Bushaltestelle direkt gegenüber der Moschee.",
+                "hu": "Buszmegálló közvetlenül a mecsettel szemben.",
+                "ro": "Stație de autobuz chiar vizavi de moschee.",
+                "en": "Bus stop is located directly opposite the mosque."
+              }
+            },
+            {
+              "name": "Matsopoulos Mühle",
+              "tip_5lang": {
+                "de": "Sonderbusse während des Weihnachtsmarktes verfügbar.",
+                "hu": "A karácsonyi vásár alatt különjáratok indulnak.",
+                "ro": "Autobuze speciale disponibile în timpul târgului de Crăciun.",
+                "en": "Special buses are available during the Christmas market."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie den Winterfahrplan (weniger Fahrten abends).",
+              "Die Sonne sinkt bereits um 17:15 Uhr.",
+              "Warten Sie in beheizten Kiosken auf den Bus.",
+              "Matsopoulos ist das Hauptziel für Busse im Dezember.",
+              "Warme Kleidung für die Wartezeit an Haltestellen."
+            ],
+            "hu": [
+              "Ügyeljen a téli menetrendre (kevesebb esti járat).",
+              "A nap már 17:15-kor lemegy.",
+              "Várja a buszt a fűtött üzletek közelében.",
+              "Decemberben a Matsopoulos a buszok fő célpontja.",
+              "Meleg ruha kötelező a megállókban való várakozáshoz."
+            ],
+            "ro": [
+              "Atenție la orarul de iarnă (mai puține curse seara).",
+              "Soarele apune deja la ora 17:15.",
+              "Așteptați autobuzul lângă chioșcurile încălzite.",
+              "Matsopoulos este destinația principală în decembrie.",
+              "Haine groase pentru timpul de așteptare în stații."
+            ],
+            "en": [
+              "Check the winter schedule (fewer evening trips).",
+              "The sun sets as early as 17:15.",
+              "Wait for the bus inside or near heated shops.",
+              "Matsopoulos is the main transit destination in December.",
+              "Warm clothing is essential while waiting at stops."
+            ]
+          }
+        }
       }
     }
   }

@@ -320,6 +320,188 @@
           "A light raincoat is always a good idea in the Netherlands.",
           "Bring water and snacks, especially for the park walk."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt unter den modernen Arkaden des Rathauses. Mittags bietet das Historische Museum eine perfekte Flucht vor dem niederländischen Regen. Am Nachmittag erkunden wir die Innenräume des Forts, während draußen der Regen auf die Festungsmauern peitscht. Den Abend lassen wir trotz Nässe im Wandelbos ausklingen, wo die dichten Baumkronen natürlichen Schutz bieten.",
+            "hu": "A reggel a városháza modern árkádjai alatt kezdődik, védve az esőtől. Délben a Történeti Múzeum belső kiállításai nyújtanak menedéket a polderi záporok elől. Délután az erőd vastag falai között kalandozunk, miközben hallgatjuk az eső kopogását. A napot a Wandelbos sűrű fái alatt zárjuk, amelyek természetes ernyőként óvnak a nedvességtől a városba menet.",
+            "ro": "Dimineața începe sub arcadele moderne ale primăriei, feriți de ploaie. La prânz, Muzeul Istoric oferă refugiul perfect împotriva vremii tipice olandeze. După-amiaza explorăm interiorul fortului în timp ce ploaia bate în zidurile vechi. Seara se încheie cu o plimbare scurtă prin Wandelbos, unde coronamentul des al copacilor oferă o protecție naturală înainte de retragere.",
+            "en": "The morning begins under the sheltered modern arcades of City Hall. By noon, the Historical Museum provides a warm, dry escape from the North Sea rain. In the afternoon, we explore the sturdy interiors of the Fort while the rain patters against the embankments. The evening ends with a walk through Wandelbos, where the dense trees offer some natural cover before heading back."
+          },
+          "stops": [
+            {
+              "name": "Hoofddorp City Hall",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Haupteingang.",
+                "hu": "Használja a fedett főbejáratot várakozáshoz.",
+                "ro": "Folosiți intrarea principală acoperită.",
+                "en": "Use the covered main entrance to stay dry."
+              }
+            },
+            {
+              "name": "Historical Museum Haarlemmermeer",
+              "tip_5lang": {
+                "de": "Idealer Ort für verregnete Vormittage.",
+                "hu": "Tökéletes beltéri program esős délelőttre.",
+                "ro": "Locul ideal pentru o dimineață ploioasă.",
+                "en": "Perfect indoor activity for a rainy morning."
+              }
+            },
+            {
+              "name": "De Eersteling Mill",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Außentreppen.",
+                "hu": "Vigyázat, a külső lépcsők csúszósak lehetnek.",
+                "ro": "Atenție la scările exterioare alunecoase.",
+                "en": "Be careful on the slippery external stairs."
+              }
+            },
+            {
+              "name": "Fort bij Hoofddorp",
+              "tip_5lang": {
+                "de": "Das Café im Fort ist sehr gemütlich.",
+                "hu": "Az erődben lévő kávézó nagyon hangulatos.",
+                "ro": "Cafeneaua din fort este foarte primitoare.",
+                "en": "The cafe inside the fort is very cozy."
+              }
+            },
+            {
+              "name": "Geniedijk",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf dem asphaltierten Weg.",
+                "hu": "Maradjon a kiaszfaltozott úton a sár ellen.",
+                "ro": "Rămâneți pe poteca asfaltată.",
+                "en": "Stay on the paved path to avoid the mud."
+              }
+            },
+            {
+              "name": "Wandelbos Hoofddorp",
+              "tip_5lang": {
+                "de": "Dichte Bäume wirken wie ein Schirm.",
+                "hu": "A sűrű lombok természetes esernyők.",
+                "ro": "Copacii deși acționează ca o umbrelă.",
+                "en": "Dense trees act like a natural umbrella."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein sturmfester Regenschirm ist im Polder Pflicht.",
+              "Tragen Sie wasserfeste Wanderschuhe.",
+              "Die Arkaden im Zentrum bieten guten Schutz.",
+              "Planen Sie mehr Zeit für Museumsbesuche ein."
+            ],
+            "hu": [
+              "A polderi szél ellen viharálló esernyő kell.",
+              "Viseljen vízálló túracipőt a gát mentén.",
+              "A központ árkádjai alatt szárazon maradhat.",
+              "Hagyjon több időt a múzeumi nézelődésre."
+            ],
+            "ro": [
+              "O umbrelă rezistentă la vânt este esențială.",
+              "Purtați încălțăminte de munte impermeabilă.",
+              "Arcadele din centru oferă adăpost bun.",
+              "Rezervați mai mult timp pentru vizitarea muzeului."
+            ],
+            "en": [
+              "A windproof umbrella is essential in the polder.",
+              "Wear waterproof hiking shoes for the dyke path.",
+              "The central shopping arcades offer good cover.",
+              "Allow extra time for the indoor museum visits."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im frostigen Morgenlicht wirkt das Rathaus besonders scharfkantig. Mittags wärmen wir uns im Museum auf, während wir etwas über die Urbarmachung des Sees lernen. Der Nachmittag am Fort ist kurz, da die Sonne früh hinter dem Deich versinkt. Den Abend verbringen wir im winterlichen Wandelbos, bevor die Kälte uns in die warmen Cafés der Stadt treibt.",
+            "hu": "A fagyos reggeli fényben a városháza élei még élesebbnek tűnnek. Délben a múzeumban melegszünk fel, miközben a tó lecsapolásának történetét ismerjük meg. Az erőd délutáni látogatása rövid, mert a nap korán eltűnik a gát mögött. Az estét a téli Wandelbosban kezdjük, majd a város meleg kávézóiba húzódunk a hideg elől.",
+            "ro": "În lumina înghețată a dimineții, primăria pare foarte impunătoare. La prânz ne încălzim în muzeu, învățând despre drenarea lacului. Vizita la fort este scurtă, deoarece soarele apune devreme după dig. Seara o petrecem în Wandelbos-ul iernatic, înainte ca frigul să ne trimită în cafenelele calde.",
+            "en": "In the frosty morning light, the City Hall looks especially sharp. By noon, we warm up in the museum while learning about the lake reclamation. The afternoon at the Fort is brief as the sun sets early behind the dyke. We spend the early evening in the wintry Wandelbos before the cold drives us into the city's warm cafes."
+          },
+          "stops": [
+            {
+              "name": "Hoofddorp City Hall",
+              "tip_5lang": {
+                "de": "Warme Kleidung gegen den Windzug.",
+                "hu": "Meleg ruházat ajánlott a szélcsatornák miatt.",
+                "ro": "Haine groase pentru curenții de aer.",
+                "en": "Wear warm layers against the wind tunnels."
+              }
+            },
+            {
+              "name": "Historical Museum Haarlemmermeer",
+              "tip_5lang": {
+                "de": "Gut beheizte Ausstellungsräume.",
+                "hu": "Jól fűtött kiállítótermek várják.",
+                "ro": "Săli de expoziție bine încălzite.",
+                "en": "Well-heated exhibition rooms."
+              }
+            },
+            {
+              "name": "De Eersteling Mill",
+              "tip_5lang": {
+                "de": "Oft weht hier ein eisiger Polderwind.",
+                "hu": "Itt gyakran fúj a jeges polderi szél.",
+                "ro": "Vântul polderului este foarte rece aici.",
+                "en": "The polder wind is often icy here."
+              }
+            },
+            {
+              "name": "Fort bij Hoofddorp",
+              "tip_5lang": {
+                "de": "Genießen Sie eine heiße Schokolade.",
+                "hu": "Igyon egy forró csokoládét a bisztróban.",
+                "ro": "Savurați o ciocolată caldă înăuntru.",
+                "en": "Enjoy a hot chocolate in the bistro."
+              }
+            },
+            {
+              "name": "Geniedijk",
+              "tip_5lang": {
+                "de": "Vorsicht vor Frost auf den Wegen.",
+                "hu": "Vigyázzon a fagyos, csúszós szakaszokon.",
+                "ro": "Atenție la porțiunile înghețate.",
+                "en": "Watch out for frost on the paths."
+              }
+            },
+            {
+              "name": "Wandelbos Hoofddorp",
+              "tip_5lang": {
+                "de": "Besuch vor Sonnenuntergang (16:30).",
+                "hu": "Látogassa meg naplemente (16:30) előtt.",
+                "ro": "Vizitați înainte de apus (16:30).",
+                "en": "Visit before sunset at 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Unterwäsche schützt vor dem Wind.",
+              "Die Sonne geht bereits gegen 16:30 Uhr unter.",
+              "Museen sind die besten Wärmestationen.",
+              "Vorsicht vor Glätte auf den Polderwegen."
+            ],
+            "hu": [
+              "A termikus aláöltözet véd a szél ellen.",
+              "A nap már 16:30 körül lenyugszik.",
+              "A múzeumok a legjobb melegedőpontok.",
+              "Vigyázzon a jeges polderi utakon."
+            ],
+            "ro": [
+              "Lenjeria termică protejează contra vântului.",
+              "Soarele apune deja în jurul orei 16:30.",
+              "Muzeele sunt cele mai bune locuri de încălzit.",
+              "Atenție la polei pe drumurile din polder."
+            ],
+            "en": [
+              "Thermal layers protect against the wind.",
+              "The sun sets early around 4:30 PM.",
+              "Museums are the best warm-up spots.",
+              "Watch for black ice on the polder paths."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -634,6 +816,188 @@
           "The Netherlands is flat, but wind can be a factor.",
           "Make use of the excellent cycle paths (fietspaden)."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet nass am Cruquius Museum, wo wir im Trockenen die Dampfmaschinen bestaunen. Mittags radeln wir durch den Regen zum Haarlemmermeerse Bos, wo die Wege etwas rutschig sein können. Am Nachmittag suchen wir Schutz am Toolenburger Plas, bevor wir zum Fort Hoofddorp weiterziehen. Die Tour endet mit einer schnellen Fahrt über den Geniedijk zur Mühle.",
+            "hu": "A bringázás esőben indul a Cruquius Múzeumnál, ahol szárazon csodáljuk a gőzgépeket. Délben az esőben tekerünk át a Haarlemmermeerse Bos-ba, ahol az utak csúszósak lehetnek. Délután a Toolenburger Plas mentén keresünk menedéket, majd az erőd felé vesszük az irányt. A túra a Geniedijk-en át, gyors tekeréssel zárul a malomnál.",
+            "ro": "Turul cu bicicleta începe pe ploaie la Muzeul Cruquius, unde admirăm mașinile cu aburi la adăpost. La prânz pedalăm spre Haarlemmermeerse Bos, unde aleile pot fi alunecoase. După-amiaza căutăm adăpost la Toolenburger Plas, apoi continuăm spre fort. Turul se încheie cu o cursă rapidă pe Geniedijk până la moară.",
+            "en": "The bike ride starts wet at Cruquius Museum, where we stay dry while admiring the steam engines. At noon, we pedal through the rain to Haarlemmermeerse Bos, where paths can be slick. In the afternoon, we seek shelter at Toolenburger Plas before moving to the Fort. The tour ends with a brisk ride along Geniedijk back to the mill."
+          },
+          "stops": [
+            {
+              "name": "Cruquius Museum",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer direkt am Eingang.",
+                "hu": "Biztonságos tárolók közvetlen a bejáratnál.",
+                "ro": "Rastele sigure chiar la intrare.",
+                "en": "Secure bike racks right by the entrance."
+              }
+            },
+            {
+              "name": "Haarlemmermeerse Bos",
+              "tip_5lang": {
+                "de": "Vorsicht vor nassen Blättern auf den Wegen.",
+                "hu": "Vigyázat, a vizes levelek csúsznak.",
+                "ro": "Atenție la frunzele ude pe alei.",
+                "en": "Watch out for wet leaves on the paths."
+              }
+            },
+            {
+              "name": "Toolenburger Plas",
+              "tip_5lang": {
+                "de": "Die Strandpavillons bieten Schutz.",
+                "hu": "A strandpavilonok jó menedékhelyek.",
+                "ro": "Pavilioanele de pe plajă oferă adăpost.",
+                "en": "The beach pavilions offer great shelter."
+              }
+            },
+            {
+              "name": "Fort bij Hoofddorp",
+              "tip_5lang": {
+                "de": "Gute Unterstellmöglichkeiten für Räder.",
+                "hu": "Fedett kerékpártárolók az erődnél.",
+                "ro": "Adăpost bun pentru biciclete la fort.",
+                "en": "Good sheltered spots for bikes at the fort."
+              }
+            },
+            {
+              "name": "Geniedijk",
+              "tip_5lang": {
+                "de": "Starker Seitenwind bei Regen möglich.",
+                "hu": "Erős oldalszél várható esőben.",
+                "ro": "Vânt lateral puternic în timpul ploii.",
+                "en": "Strong sidewinds possible during rain."
+              }
+            },
+            {
+              "name": "De Eersteling Mill",
+              "tip_5lang": {
+                "de": "Kurzer Stopp reicht bei diesem Wetter.",
+                "hu": "Rövid megálló is elég ebben az időben.",
+                "ro": "O oprire scurtă e suficientă pe ploaie.",
+                "en": "A quick stop is enough in this weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist nötig.",
+              "Vorsicht in scharfen Kurven auf Radwegen.",
+              "Scheibenbremsen sind bei Nässe sicherer.",
+              "Nutzen Sie Pavillons für kurze Pausen."
+            ],
+            "hu": [
+              "Teljes esőruházat viselése ajánlott.",
+              "Vigyázzon a kanyarokban az aszfalton.",
+              "A tárcsafék biztonságosabb nedves időben.",
+              "Használja a pavilonokat rövid pihenőkre."
+            ],
+            "ro": [
+              "Echipamentul de ploaie complet este necesar.",
+              "Atenție în curbele strânse de pe pistă.",
+              "Frânele pe disc sunt mai sigure pe ud.",
+              "Folosiți pavilioanele pentru pauze scurte."
+            ],
+            "en": [
+              "Full rain gear is highly recommended.",
+              "Take care on sharp turns on the bike paths.",
+              "Disc brakes are safer in wet conditions.",
+              "Use pavilions for quick dry-off breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start am Cruquius Museum, wo die Abwärme der Geschichte uns empfängt. Mittags radeln wir durch den kahlen Haarlemmermeerse Bos unter einem tiefgrauen Himmel. Der Nachmittag am Toolenburger Plas ist erfrischend windig, bevor wir uns am Fort aufwärmen. Die Tour endet in der Dämmerung an der Mühle, beleuchtet von den Lichtern der Stadt.",
+            "hu": "Hűvös kezdés a Cruquius Múzeumnál, ahol a történelem melege fogad. Délben a kopár Haarlemmermeerse Bos-ban tekerünk az ólomszürke ég alatt. A délután a Toolenburger Plas-nál frissítően szeles, mielőtt az erődnél felmelegednénk. A túra alkonyatkor ér véget a malomnál, a város fényeinek kíséretében.",
+            "ro": "Un start răcoros la Muzeul Cruquius, unde istoria ne întâmpină. La prânz pedalăm prin pădurea golașă sub un cer gri. După-amiaza la Toolenburger Plas este vântoasă, înainte de a ne încălzi la fort. Turul se încheie la amurg lângă moară, sub luminile orașului.",
+            "en": "A chilly start at Cruquius Museum, where history's warmth greets us. At noon, we bike through the bare Haarlemmermeerse Bos under a deep grey sky. The afternoon at Toolenburger Plas is bracingly windy before we warm up at the Fort. The tour ends at dusk by the mill, guided by the city's evening lights."
+          },
+          "stops": [
+            {
+              "name": "Cruquius Museum",
+              "tip_5lang": {
+                "de": "Drinnen ist es angenehm warm.",
+                "hu": "Bent kellemesen meleg az idő.",
+                "ro": "În interior este plăcut și cald.",
+                "en": "It is pleasantly warm inside."
+              }
+            },
+            {
+              "name": "Haarlemmermeerse Bos",
+              "tip_5lang": {
+                "de": "Offene Flächen sind sehr windig.",
+                "hu": "A nyílt terepek nagyon szelesek.",
+                "ro": "Zonele deschise sunt foarte vântoase.",
+                "en": "Open areas are extremely windy."
+              }
+            },
+            {
+              "name": "Toolenburger Plas",
+              "tip_5lang": {
+                "de": "Kalter Wind vom See her.",
+                "hu": "Hideg szél fúj a tó felől.",
+                "ro": "Vânt rece dinspre lac.",
+                "en": "Expect cold winds coming off the lake."
+              }
+            },
+            {
+              "name": "Fort bij Hoofddorp",
+              "tip_5lang": {
+                "de": "Perfekt für eine Aufwärmpause.",
+                "hu": "Tökéletes hely egy melegedő szünetre.",
+                "ro": "Perfect pentru o pauză de încălzire.",
+                "en": "Perfect spot for a warm-up break."
+              }
+            },
+            {
+              "name": "Geniedijk",
+              "tip_5lang": {
+                "de": "Vorsicht bei überfrierender Nässe.",
+                "hu": "Vigyázzon a lefagyott útszakaszokon.",
+                "ro": "Atenție la porțiunile cu polei.",
+                "en": "Watch out for black ice on the path."
+              }
+            },
+            {
+              "name": "De Eersteling Mill",
+              "tip_5lang": {
+                "de": "Beleuchtung ab 17:00 Uhr einschalten.",
+                "hu": "Kapcsolja be a lámpákat 17:00-kor.",
+                "ro": "Aprindeți luminile la ora 17:00.",
+                "en": "Turn on your bike lights by 5:00 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe.",
+              "Prüfen Sie den Reifendruck für mehr Grip.",
+              "Licht ist ab dem späten Nachmittag Pflicht.",
+              "Planen Sie Stopps in beheizten Cafés ein."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt.",
+              "Ellenőrizze a guminyomást a tapadásért.",
+              "A lámpa használata 16:30-tól kötelező.",
+              "Tervezzen pihenőket fűtött helyeken."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt.",
+              "Verificați presiunea roților pentru aderență.",
+              "Luminile sunt obligatorii după-amiaza.",
+              "Planificați opriri în cafenele încălzite."
+            ],
+            "en": [
+              "Wear windproof gloves while riding.",
+              "Check tire pressure for better grip.",
+              "Lights are mandatory from late afternoon.",
+              "Schedule breaks in heated cafes."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -978,6 +1342,206 @@
           "Parking is often paid in the Netherlands; have coins or a card ready.",
           "Plan for extra time for traffic, especially during peak hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist der Regen kein Hindernis. Wir starten am Cruquius Museum und fahren gemütlich zum Haarlemmermeerse Bos. Mittags genießen wir den Blick auf den Toolenburger Plas aus dem trockenen Fahrzeug. Der Nachmittag gehört dem Fort und dem Geniedijk, bevor wir den Tag im Historischen Museum und an der Mühle abschließen, ohne nass zu werden.",
+            "hu": "Autóval az eső nem akadály. A Cruquius Múzeumnál kezdünk, majd kényelmesen gurulunk a Haarlemmermeerse Bos-hoz. Délben a száraz autóból élvezzük a kilátást a Toolenburger Plas-ra. A délután az erődé és a Geniedijk-é, mielőtt a napot a Történeti Múzeumban és a malomnál zárnánk, anélkül, hogy eláznánk.",
+            "ro": "Cu mașina, ploaia nu este un obstacol. Începem la Muzeul Cruquius și conducem relaxat spre Haarlemmermeerse Bos. La prânz admirăm Toolenburger Plas din interiorul uscat al vehiculului. După-amiaza este dedicată fortului și Geniedijk, înainte de a încheia ziua la muzeu și moară, fără a ne uda.",
+            "en": "By car, the rain is no obstacle. We start at Cruquius Museum and drive comfortably to Haarlemmermeerse Bos. At noon, we enjoy the view of Toolenburger Plas from the dry vehicle. The afternoon is dedicated to the Fort and Geniedijk, before ending the day at the Historical Museum and the mill, staying perfectly dry."
+          },
+          "stops": [
+            {
+              "name": "Cruquius Museum",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor dem Museum.",
+                "hu": "Parkoló közvetlenül a múzeum előtt.",
+                "ro": "Parcare chiar în fața muzeului.",
+                "en": "Parking is available right in front."
+              }
+            },
+            {
+              "name": "Haarlemmermeerse Bos",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Restaurantgebäude.",
+                "hu": "Parkoljon az étterem épülete közelében.",
+                "ro": "Parcați aproape de clădirea restaurantului.",
+                "en": "Park close to the restaurant building."
+              }
+            },
+            {
+              "name": "Toolenburger Plas",
+              "tip_5lang": {
+                "de": "Blick auf den See aus dem Auto möglich.",
+                "hu": "Kilátás a tóra az autóból is remek.",
+                "ro": "Vedere spre lac direct din mașină.",
+                "en": "Lake view possible directly from the car."
+              }
+            },
+            {
+              "name": "Fort bij Hoofddorp",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum Fort.",
+                "hu": "Rövid séta a parkolótól az erődig.",
+                "ro": "Drum scurt pe jos de la parcare.",
+                "en": "Short walk from the parking to the fort."
+              }
+            },
+            {
+              "name": "Geniedijk",
+              "tip_5lang": {
+                "de": "Halten Sie nur an erlaubten Stellen.",
+                "hu": "Csak a kijelölt helyeken álljon meg.",
+                "ro": "Opriți doar în locurile permise.",
+                "en": "Only stop at designated parking spots."
+              }
+            },
+            {
+              "name": "Historical Museum Haarlemmermeer",
+              "tip_5lang": {
+                "de": "Überdachter Zugang vom Parkplatz.",
+                "hu": "Fedett bejutás a parkolótól.",
+                "ro": "Acces acoperit de la parcare.",
+                "en": "Sheltered access from the parking area."
+              }
+            },
+            {
+              "name": "De Eersteling Mill",
+              "tip_5lang": {
+                "de": "Parken im nahen Wohngebiet möglich.",
+                "hu": "Parkolás a közeli lakóövezetben.",
+                "ro": "Parcare posibilă în zona rezidențială.",
+                "en": "Parking available in the nearby area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf Polderstraßen.",
+              "Parkhäuser im Zentrum sind ideal.",
+              "Regensensor am Auto ist sehr hilfreich.",
+              "Halten Sie einen Regenschirm für die Wege bereit."
+            ],
+            "hu": [
+              "Vigyázzon a vízátfolyásokra a polderutakon.",
+              "A központi parkolóházak ideálisak.",
+              "Az esőszenzor nagyon hasznos ilyenkor.",
+              "Legyen kéznél esernyő a rövid sétákhoz."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile joase.",
+              "Parcările subterane din centru sunt ideale.",
+              "Senzorul de ploaie este foarte util.",
+              "Aveți o umbrelă pregătită pentru transferuri."
+            ],
+            "en": [
+              "Watch for aquaplaning on polder roads.",
+              "Central parking garages are ideal.",
+              "Rain sensors are very helpful today.",
+              "Keep an umbrella ready for the short walks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein warmer Start im Auto Richtung Cruquius Museum. Die frostige Polderlandschaft zieht an uns vorbei, während wir zum Haarlemmermeerse Bos fahren. Mittags ist der Toolenburger Plas in Nebel gehüllt. Der Nachmittag bringt uns zum Fort und zum Geniedijk, wo wir die Winterstimmung genießen, bevor wir uns im Historischen Museum aufwärmen und die Mühle in der Dunkelheit sehen.",
+            "hu": "Meleg indulás az autóval a Cruquius Múzeum felé. A fagyos polderi táj elsuhan mellettünk a Haarlemmermeerse Bos felé menet. Délben a Toolenburger Plas ködbe burkolózik. A délután az erődhöz és a Geniedijkhez vezet, ahol élvezzük a téli hangulatot, majd a Történeti Múzeumban melegszünk fel a malom esti látványa előtt.",
+            "ro": "Un start călduros în mașină spre Muzeul Cruquius. Peisajul înghețat trece pe lângă noi spre Haarlemmermeerse Bos. La prânz, Toolenburger Plas este învăluit în ceață. După-amiaza ne duce la fort și Geniedijk, unde savurăm atmosfera de iarnă înainte de a ne încălzi la muzeu.",
+            "en": "A warm start in the car heading to Cruquius Museum. The frosty polder landscape glides by as we drive to Haarlemmermeerse Bos. At noon, Toolenburger Plas is shrouded in mist. The afternoon takes us to the Fort and Geniedijk to enjoy the winter mood, before warming up at the museum and seeing the mill at night."
+          },
+          "stops": [
+            {
+              "name": "Cruquius Museum",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glätte auf der Brücke.",
+                "hu": "Vigyázzon a csúszós hídnál.",
+                "ro": "Atenție la polei pe pod.",
+                "en": "Watch for ice on the bridge near the entrance."
+              }
+            },
+            {
+              "name": "Haarlemmermeerse Bos",
+              "tip_5lang": {
+                "de": "Parkplätze können vereist sein.",
+                "hu": "A parkolók jegesek lehetnek.",
+                "ro": "Locurile de parcare pot fi înghețate.",
+                "en": "Parking lots can be icy."
+              }
+            },
+            {
+              "name": "Toolenburger Plas",
+              "tip_5lang": {
+                "de": "Herrlicher Blick auf den Wintersee.",
+                "hu": "Pazar kilátás a téli tóra.",
+                "ro": "Vedere superbă spre lacul înghețat.",
+                "en": "Great views of the wintry lake."
+              }
+            },
+            {
+              "name": "Fort bij Hoofddorp",
+              "tip_5lang": {
+                "de": "Kurzer Weg durch die Kälte.",
+                "hu": "Rövid séta a hidegben az autóig.",
+                "ro": "Drum scurt prin frig până la intrare.",
+                "en": "A very short walk through the cold."
+              }
+            },
+            {
+              "name": "Geniedijk",
+              "tip_5lang": {
+                "de": "Die Straßen am Deich sind oft glatt.",
+                "hu": "A gát menti utak gyakran csúsznak.",
+                "ro": "Drumurile de lângă dig sunt alunecoase.",
+                "en": "Roads along the dyke are often slippery."
+              }
+            },
+            {
+              "name": "Historical Museum Haarlemmermeer",
+              "tip_5lang": {
+                "de": "Ein perfekt beheizter Stopp.",
+                "hu": "Tökéletesen fűtött megállóhely.",
+                "ro": "O oprire perfect încălzită.",
+                "en": "A perfectly heated indoor stop."
+              }
+            },
+            {
+              "name": "De Eersteling Mill",
+              "tip_5lang": {
+                "de": "Abends schön beleuchtet.",
+                "hu": "Este gyönyörűen ki van világítva.",
+                "ro": "Frumos iluminată seara.",
+                "en": "Beautifully illuminated in the evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind im Polder ratsam.",
+              "Prüfen Sie den Frostschutz im Wischwasser.",
+              "Eiskratzer immer griffbereit halten.",
+              "Die Straßen können bei Nebel tückisch sein."
+            ],
+            "hu": [
+              "A téli gumi erősen ajánlott a poldereken.",
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Jégkaparó legyen kéznél.",
+              "A ködös utakon vezessen óvatosan."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt esențiale aici.",
+              "Verificați lichidul de parbriz antigel.",
+              "Țineți racleta la îndemână.",
+              "Drumurile pot fi înșelătoare pe ceață."
+            ],
+            "en": [
+              "Winter tires are advised on polder roads.",
+              "Check antifreeze levels in wiper fluid.",
+              "Keep an ice scraper handy at all times.",
+              "Drive carefully if fog rolls in over the flats."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1298,6 +1862,188 @@
           "Be aware that buses may not run as frequently, especially in the evening.",
           "Signal to the driver that you want them to stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir das Rathaus trocken. Mittags bringt uns die Linie zum Historischen Museum, wo wir vor dem Regen sicher sind. Der Nachmittag am Fort bietet eine mystische Stimmung trotz der Nässe. Den Tag lassen wir am Haarlemmermeerse Bos und Toolenburger Plas ausklingen, wobei die Buswartehäuschen uns vor den schlimmsten Schauern schützen.",
+            "hu": "Busszal szárazon érjük el a városházát. Délben a járat egyenesen a Történeti Múzeumhoz visz, ahol védve vagyunk az esőtől. Az erőd délutáni hangulata misztikus a szemerkélő esőben. A napot a Haarlemmermeerse Bos-nál és a Toolenburger Plas-nál zárjuk, ahol a buszvárók védenek meg a komolyabb záporoktól.",
+            "ro": "Cu autobuzul ajungem la primărie fără să ne udăm. La prânz, linia ne duce la Muzeul Istoric, unde suntem în siguranță. După-amiaza la fort oferă o atmosferă mistică în ciuda ploii. Încheiem ziua la Haarlemmermeerse Bos și Toolenburger Plas, adăpostiți de stațiile de autobuz în timpul averselor.",
+            "en": "By bus, we reach the City Hall while staying dry. At noon, the line takes us straight to the Historical Museum, safe from the rain. The afternoon at the Fort has a mystical mood despite the wet weather. We end the day at Haarlemmermeerse Bos and Toolenburger Plas, with bus shelters protecting us from the heaviest showers."
+          },
+          "stops": [
+            {
+              "name": "Hoofddorp City Hall",
+              "tip_5lang": {
+                "de": "Zentraler Busknotenpunkt mit Dach.",
+                "hu": "Központi buszcsomópont fedett váróval.",
+                "ro": "Nod central de autobuz acoperit.",
+                "en": "Central bus hub with good overhead cover."
+              }
+            },
+            {
+              "name": "Historical Museum Haarlemmermeer",
+              "tip_5lang": {
+                "de": "Bushaltestelle ist fast vor der Tür.",
+                "hu": "A buszmegálló szinte az ajtóban van.",
+                "ro": "Stația este chiar în fața muzeului.",
+                "en": "The bus stop is almost at the doorstep."
+              }
+            },
+            {
+              "name": "Fort bij Hoofddorp",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Bus zum Fort.",
+                "hu": "Rövid sprint a busztól az erődig.",
+                "ro": "Sprint scurt de la autobuz la fort.",
+                "en": "A quick sprint from the bus to the fort."
+              }
+            },
+            {
+              "name": "Geniedijk",
+              "tip_5lang": {
+                "de": "Haltestelle bietet wenig Schutz.",
+                "hu": "A megálló itt kevés védelmet nyújt.",
+                "ro": "Stația oferă puțin adăpost aici.",
+                "en": "This stop offers limited shelter."
+              }
+            },
+            {
+              "name": "Haarlemmermeerse Bos",
+              "tip_5lang": {
+                "de": "Nutzen Sie die R-Net Busse.",
+                "hu": "Használja a gyors R-Net járatokat.",
+                "ro": "Folosiți autobuzele rapide R-Net.",
+                "en": "Use the efficient R-Net bus lines."
+              }
+            },
+            {
+              "name": "Toolenburger Plas",
+              "tip_5lang": {
+                "de": "Wartehäuschen sind wetterfest.",
+                "hu": "A várótermek időjárásállóak.",
+                "ro": "Stațiile sunt rezistente la intemperii.",
+                "en": "The bus shelters are weather-proof."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die R-Net Busse fahren sehr häufig.",
+              "Nutzen Sie die App für Echtzeit-Infos.",
+              "Die meisten Haltestellen sind überdacht.",
+              "Halten Sie die OV-Chipkaart griffbereit."
+            ],
+            "hu": [
+              "Az R-Net buszok nagyon sűrűn járnak.",
+              "Használja az alkalmazást az élő infókért.",
+              "A legtöbb buszmegálló fedett.",
+              "Tartsa kéznél az OV-Chipkaartot."
+            ],
+            "ro": [
+              "Autobuzele R-Net circulă foarte des.",
+              "Folosiți aplicația pentru info în timp real.",
+              "Majoritatea stațiilor sunt acoperite.",
+              "Aveți cardul de transport la îndemână."
+            ],
+            "en": [
+              "R-Net buses run very frequently.",
+              "Use the 9292 app for real-time updates.",
+              "Most bus stops have good shelters.",
+              "Keep your travel card or phone ready."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Rathaus, schnell hinein in den warmen Bus. Mittags bringt uns der ÖPNV zum beheizten Historischen Museum. Am Nachmittag erleben wir die Winterruhe am Fort, bevor wir am Geniedijk die kalte Luft genießen. Den Abend verbringen wir am Haarlemmermeerse Bos und Toolenburger Plas, während wir uns auf die Rückfahrt im warmen Bus freuen.",
+            "hu": "Fagyos reggel a városházánál, gyorsan szálljunk fel a meleg buszra. Délben a tömegközlekedés a fűtött Történeti Múzeumhoz repít. Délután az erőd téli nyugalmát élvezzük, majd a Geniedijk mentén szippantunk a friss, hideg levegőből. A napot a Haarlemmermeerse Bos-nál zárjuk, várva a meleg hazautat.",
+            "ro": "O dimineață gerosă la primărie, urcăm rapid în autobuzul cald. La prânz, transportul ne duce la Muzeul Istoric încălzit. După-amiaza savurăm liniștea iernii la fort, apoi aerul rece de pe Geniedijk. Încheiem ziua la Haarlemmermeerse Bos, așteptând cu nerăbdare drumul spre casă în autobuzul încălzit.",
+            "en": "A frosty morning at City Hall, quickly hop onto the warm bus. At noon, transit takes us to the heated Historical Museum. In the afternoon, we experience the winter stillness at the Fort, then enjoy the crisp air along Geniedijk. We end the day at Haarlemmermeerse Bos, looking forward to the cozy ride back on the bus."
+          },
+          "stops": [
+            {
+              "name": "Hoofddorp City Hall",
+              "tip_5lang": {
+                "de": "Beheizte Busse kommen alle paar Minuten.",
+                "hu": "A fűtött buszok pár percenként jönnek.",
+                "ro": "Autobuzele încălzite vin la câteva minute.",
+                "en": "Heated buses arrive every few minutes."
+              }
+            },
+            {
+              "name": "Historical Museum Haarlemmermeer",
+              "tip_5lang": {
+                "de": "Kurze Wartezeit im Freien planen.",
+                "hu": "Tervezzen rövid kinti várakozással.",
+                "ro": "Planificați o așteptare scurtă afară.",
+                "en": "Plan for a short wait outdoors here."
+              }
+            },
+            {
+              "name": "Fort bij Hoofddorp",
+              "tip_5lang": {
+                "de": "Abends sind die Busse oft leerer.",
+                "hu": "Este a buszok gyakran üresebbek.",
+                "ro": "Seara autobuzele sunt mai libere.",
+                "en": "Buses are often less crowded in the evening."
+              }
+            },
+            {
+              "name": "Geniedijk",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glätte an der Haltestelle.",
+                "hu": "Vigyázzon a jeges megállónál.",
+                "ro": "Atenție la polei în stație.",
+                "en": "Watch for ice at the bus stop."
+              }
+            },
+            {
+              "name": "Haarlemmermeerse Bos",
+              "tip_5lang": {
+                "de": "Letzte Busse vor Mitternacht prüfen.",
+                "hu": "Ellenőrizze az utolsó járatokat éjfél előtt.",
+                "ro": "Verificați ultimele curse înainte de miezul nopții.",
+                "en": "Check the last bus times before midnight."
+              }
+            },
+            {
+              "name": "Toolenburger Plas",
+              "tip_5lang": {
+                "de": "Warten Sie im Windschatten des Häuschens.",
+                "hu": "Várjon a megálló szélvédett oldalán.",
+                "ro": "Așteptați în zona ferită de vânt a stației.",
+                "en": "Wait in the lee side of the shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter meist sehr pünktlich.",
+              "Heizung in den Bussen ist sehr angenehm.",
+              "Achten Sie auf geänderte Fahrpläne.",
+              "Die R-Net Haltestellen haben oft digitale Anzeigen."
+            ],
+            "hu": [
+              "A buszok télen is nagyon pontosak.",
+              "A buszok fűtése kifejezetten kellemes.",
+              "Figyeljen az esetleges menetrendváltozásokra.",
+              "Az R-Net megállókban digitális kijelzők vannak."
+            ],
+            "ro": [
+              "Autobuzele sunt foarte punctuale iarna.",
+              "Căldura din autobuze este foarte plăcută.",
+              "Atenție la eventualele modificări de orar.",
+              "Stațiile R-Net au afișaje digitale utile."
+            ],
+            "en": [
+              "Buses are usually very punctual in winter.",
+              "The heating on the buses is very reliable.",
+              "Check for any seasonal schedule changes.",
+              "R-Net stops feature helpful digital displays."
+            ]
+          }
+        }
       }
     }
   }

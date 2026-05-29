@@ -379,6 +379,206 @@
           "Take time to wander the small alleys around the cathedral.",
           "A reusable water bottle is handy; there are several public fountains."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt regnerisch am Grote Markt, wo die Zunfthäuser im nassen Glanz erstrahlen. In der Kathedrale finden Sie trockenen Unterschlupf und bewundern Rubens-Meisterwerke. Mittags bietet das Museum Plantin-Moretus eine faszinierende Reise in die Druckgeschichte, weit weg vom Regen. Am Nachmittag schützt das majestätische Dach des Hauptbahnhofs vor den Schauern, bevor der Tag im Zoo endet.",
+            "hu": "Az esős reggel a Grote Markton ér minket, ahol a céhházak vizes homlokzata csillog. A katedrális tökéletes menedék a Rubens-festmények megcsodálásához. Délben a Plantin-Moretus Múzeum ódon falai között kalandozunk, távol a sártól. Délután a központi pályaudvar monumentális üvegcsarnoka nyújt védelmet, az estét pedig az állatkert fedett pavilonjaiban, egzotikus állatok között zárjuk.",
+            "ro": "O dimineață ploioasă în Grote Markt, unde casele breslelor strălucesc sub stropii de apă. Catedrala oferă un adăpost ideal pentru a admira operele lui Rubens. La prânz, explorăm istoria tiparului la Muzeul Plantin-Moretus, feriți de vremea de afară. După-amiaza, cupola gării centrale ne protejează de averse, iar seara vizităm pavilioanele acoperite ale grădinii zoologice.",
+            "en": "The morning starts with a drizzle at Grote Markt, where the guild houses glisten in the wet. The Cathedral provides a perfect dry sanctuary to admire Rubens' masterpieces. At noon, the Plantin-Moretus Museum offers a journey through printing history, safely indoors. In the afternoon, the station’s stone and glass dome shields you from showers before ending the day at the Zoo's indoor exhibits."
+          },
+          "stops": [
+            {
+              "name": "Grote Markt (Main Square)",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Arkaden der umliegenden Cafés.",
+                "hu": "A környékbeli kávézók árkádjai alatt szárazon maradhat.",
+                "ro": "Adăpostiți-vă sub arcadele cafenelelor din jurul pieței.",
+                "en": "Seek shelter under the awnings of the surrounding cafes."
+              }
+            },
+            {
+              "name": "Cathedral of Our Lady",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich aufzuwärmen und Rubens' Kunst zu sehen.",
+                "hu": "Kiváló hely a száradásra Rubens remekművei társaságában.",
+                "ro": "Un loc excelent pentru a te usca admirând arta lui Rubens.",
+                "en": "A perfect place to dry off while admiring Rubens' art."
+              }
+            },
+            {
+              "name": "Het Steen (The Stone castle)",
+              "tip_5lang": {
+                "de": "Das moderne Besucherzentrum bietet trockene Aussichtspunkte.",
+                "hu": "A modern látogatóközpontból szárazon is élvezheti a kilátást.",
+                "ro": "Centrul modern de vizitare oferă puncte de observație acoperite.",
+                "en": "The modern visitor center offers dry vantage points."
+              }
+            },
+            {
+              "name": "Museum Plantin-Moretus",
+              "tip_5lang": {
+                "de": "Komplett überdacht, perfekt für regnerische Stunden.",
+                "hu": "Teljesen fedett, ideális program tartós eső esetén is.",
+                "ro": "Complet acoperit, perfect pentru orele cu ploaie densă.",
+                "en": "Completely indoor, ideal for extended rainy periods."
+              }
+            },
+            {
+              "name": "Rubens House",
+              "tip_5lang": {
+                "de": "Genießen Sie die Innenräume; der Garten ist bei Regen rutschig.",
+                "hu": "Élvezze a belső tereket; a kert ilyenkor csúszós lehet.",
+                "ro": "Explorați interiorul; grădina poate fi alunecoasă pe ploaie.",
+                "en": "Focus on the interior; the garden paths can be slippery."
+              }
+            },
+            {
+              "name": "Antwerp Central Station",
+              "tip_5lang": {
+                "de": "Die 'Bahnhofskathedrale' ist der schönste Regenschutz der Stadt.",
+                "hu": "A 'pályaudvar-katedrális' a város legszebb esővédője.",
+                "ro": "Catedrala gării este cel mai frumos adăpost contra ploii.",
+                "en": "The station 'cathedral' is the city's finest rain shelter."
+              }
+            },
+            {
+              "name": "Antwerp Zoo",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Aquarium und das Reptilienhaus im Trockenen.",
+                "hu": "Ilyenkor az akvárium és a hüllőház a legjobb választás.",
+                "ro": "Vizitați acvariul și casa reptilelor pentru a sta la uscat.",
+                "en": "Head for the aquarium and reptile house to stay dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster rutschig wird.",
+              "Nutzen Sie die vielen Passagen in der Nähe der Meir zum Shoppen im Trockenen.",
+              "Die Museen in Antwerpen sind montags oft geschlossen; prüfen Sie den Wochentag.",
+              "Ein Taschenregenschirm ist bei dem wechselhaften Nordseewetter Pflicht."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskakő esőben nagyon csúszik.",
+              "Használja a Meir környéki fedett passzázsokat a száraz vásárláshoz.",
+              "Az antwerpeni múzeumok hétfőnként zárva tartanak; ellenőrizze a napot.",
+              "Az északi-tengeri szeles időben egy erős esernyő elengedhetetlen."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă; piatra cubică devine alunecoasă.",
+              "Folosiți pasajele acoperite de lângă Meir pentru cumpărături la uscat.",
+              "Muzeele sunt adesea închise lunea; verificați programul înainte.",
+              "O umbrelă rezistentă este obligatorie în climatul variabil al Mării Nordului."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones become very slippery.",
+              "Use the covered passages near Meir for dry shopping between stops.",
+              "Most Antwerp museums are closed on Mondays; check the calendar.",
+              "A sturdy umbrella is essential for the gusty North Sea weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kühle Morgenluft am Grote Markt, wo der Duft von Waffeln den Wintertag einleitet. Die Kathedrale bietet besinnliche Wärme und Rubens' Altäre. Das Museum Plantin-Moretus führt uns in gemütliche, geschichtsträchtige Räume. Wenn die Dämmerung gegen 17 Uhr einsetzt, erstrahlt der Hauptbahnhof in festlichem Glanz. Der Tag endet im Zoo, wo die Winterbeleuchtung eine magische Atmosphäre schafft.",
+            "hu": "Friss téli reggel a Grote Markton, ahol a forró gofri illata lengi be a teret. A katedrális csendes melegében Rubens oltárképei várnak. A Plantin-Moretus Múzeum ódon falai között elmerülünk a könyvnyomtatás világában. Amikor 17 óra körül leszáll az est, a központi pályaudvar díszkivilágítása ragyog fel. A napot az állatkertben zárjuk, ahol a téli fények varázslatos hangulatot árasztanak.",
+            "ro": "Aer rece de iarnă în Grote Markt, unde mirosul de vafe calde dă tonul zilei. Catedrala oferă liniște și căldură lângă altarele lui Rubens. Muzeul Plantin-Moretus ne primește în sălile sale istorice primitoare. Când amurgul coboară la ora 17:00, gara centrală strălucește festiv. Încheiem ziua la grădina zoologică, decorată cu lumini magice de iarnă.",
+            "en": "Crisp winter air at Grote Markt, where the scent of hot waffles fills the square. The Cathedral offers warmth and a chance to see Rubens' altarpieces. Inside Museum Plantin-Moretus, we find cozy rooms steeped in history. As dusk falls around 5 PM, the Central Station lights up magnificently. We conclude the day at the Zoo, where winter light installations create a magical atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Grote Markt (Main Square)",
+              "tip_5lang": {
+                "de": "Genießen Sie eine heiße belgische Schokolade auf dem Weihnachtsmarkt.",
+                "hu": "Igyon egy forró belga csokoládét a karácsonyi vásárban.",
+                "ro": "Savurați o ciocolată caldă belgiană la târgul de Crăciun.",
+                "en": "Enjoy a hot Belgian chocolate at the winter market stalls."
+              }
+            },
+            {
+              "name": "Cathedral of Our Lady",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Weihnachtskrippe, die im Winter aufgestellt wird.",
+                "hu": "Nézze meg a télen felállított különleges betlehemet.",
+                "ro": "Vizitați ieslea de Crăciun amenajată special iarna.",
+                "en": "Visit the special nativity scene set up during winter."
+              }
+            },
+            {
+              "name": "Het Steen (The Stone castle)",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Inneren auf; die Schelde-Briese ist eisig.",
+                "hu": "Melegedjen fel bent; a Schelde felőli szél ilyenkor jeges.",
+                "ro": "Încălziți-vă în interior; briza de pe Scheldt este tăioasă.",
+                "en": "Warm up inside; the wind off the Scheldt can be freezing."
+              }
+            },
+            {
+              "name": "Museum Plantin-Moretus",
+              "tip_5lang": {
+                "de": "Die historischen Holzverkleidungen sorgen für gemütliche Wärme.",
+                "hu": "A történelmi faburkolatok barátságos meleget árasztanak.",
+                "ro": "Lambriurile istorice de lemn oferă o atmosferă caldă.",
+                "en": "The historic wooden interiors provide a cozy, warm atmosphere."
+              }
+            },
+            {
+              "name": "Rubens House",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Kunstschätze in der beheizten Atmosphäre.",
+                "hu": "Csodálja meg a műkincseket a jól fűtött galériákban.",
+                "ro": "Admirați tezaurul artistic în galerii bine încălzite.",
+                "en": "Admire the artistic treasures in the well-heated galleries."
+              }
+            },
+            {
+              "name": "Antwerp Central Station",
+              "tip_5lang": {
+                "de": "Die prachtvolle Halle ist im Winter stimmungsvoll beleuchtet.",
+                "hu": "A pompás csarnok télen hangulatos kivilágítást kap.",
+                "ro": "Hala grandioasă este iluminată feeric în timpul iernii.",
+                "en": "The magnificent hall is atmospherically lit during winter."
+              }
+            },
+            {
+              "name": "Antwerp Zoo",
+              "tip_5lang": {
+                "de": "Das 'China Light Festival' findet hier oft im Winter statt.",
+                "hu": "Ilyenkor rendezik itt a varázslatos China Light fesztivált.",
+                "ro": "Festivalul China Light are loc aici adesea în timpul iernii.",
+                "en": "The 'China Light Festival' often takes place here in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht gegen 17:00 Uhr unter; planen Sie Fotos früher ein.",
+              "Besuchen Sie die Eislaufbahn am Groenplaats für echte Winterstimmung.",
+              "Zwiebelprinzip bei Kleidung hilft gegen den kalten Wind von der Schelde.",
+              "Museen bieten oft Garderoben an, um schwere Wintermäntel abzugeben."
+            ],
+            "hu": [
+              "A nap 17:00 körül nyugszik, a fotózást tervezze korábbra.",
+              "Látogasson el a Groenplaats jégpályájára az igazi téli hangulatért.",
+              "Öltözzön rétegesen a Schelde felől fújó metsző szél miatt.",
+              "A múzeumokban van ruhatár, ne cipelje bent a nehéz télikabátot."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 17:00; faceți fotografiile mai devreme.",
+              "Mergeți la patinoarul de la Groenplaats pentru atmosferă de iarnă.",
+              "Îmbrăcați-vă în straturi contra vântului tăios de pe râu.",
+              "Muzeele au garderobe; lăsați haina grea pentru a vizita confortabil."
+            ],
+            "en": [
+              "Sunset is around 5:00 PM; plan your outdoor photos for earlier.",
+              "Visit the ice rink at Groenplaats for a classic winter experience.",
+              "Dress in layers to combat the sharp wind coming off the river.",
+              "Museums offer cloakrooms, so you don't have to carry heavy coats."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +952,206 @@
           "Many streets in the center are bike-friendly.",
           "A helmet is recommended but not mandatory."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vorsichtiger Start am Hauptbahnhof; die nassen Straßen verlangen Konzentration. Über die Cogels-Osylei radeln wir unter herbstlichem Regen zu Rubens' Haus. Mittags erreichen wir den Grote Markt, wo wir uns in einem Café aufwärmen. Nach der Kathedrale geht es zum MAS, dessen Rolltreppen trockene Aussichten bieten, und schließlich zurück zum Het Steen am Flussufer.",
+            "hu": "Óvatos indulás a pályaudvartól; a vizes aszfalt koncentrációt igényel. A Cogels-Osylei házai között tekerünk az esőben Rubens egykori otthonáig. Délben a Grote Markton egy kávézóban melegszünk fel. A katedrális után a MAS múzeum felé vesszük az irányt, ahol a fedett mozgólépcsőkről nézzük a várost, majd a folyóparti Het Steen várnál zárunk.",
+            "ro": "Pornire prudentă de la gară; străzile ude necesită atenție sporită. Pedalăm pe Cogels-Osylei spre casa lui Rubens sub o ploaie măruntă. La prânz ajungem în Grote Markt pentru o pauză caldă. După Catedrală, mergem spre MAS, unde scările rulante oferă panorame la adăpost, finalizând ziua la castelul Het Steen de pe malul apei.",
+            "en": "A cautious start at the Central Station; wet streets demand focus. Cycle through Cogels-Osylei towards Rubens House under the rain. At noon, warm up at a cafe near Grote Markt. After the Cathedral, head to the MAS museum, where indoor escalators offer dry city views, before finishing at Het Steen by the riverbank."
+          },
+          "stops": [
+            {
+              "name": "Antwerp Central Station",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradkeller unter dem Bahnhof.",
+                "hu": "Használja a pályaudvar alatti fedett kerékpártárolót.",
+                "ro": "Folosiți parcarea acoperită pentru biciclete de sub gară.",
+                "en": "Use the large covered bike parking area under the station."
+              }
+            },
+            {
+              "name": "Cogels-Osylei",
+              "tip_5lang": {
+                "de": "Achtung: Das Kopfsteinpflaster hier ist bei Regen extrem glatt.",
+                "hu": "Vigyázat: a macskakő itt esőben rendkívül csúszós.",
+                "ro": "Atenție: piatra cubică de aici este extrem de alunecoasă pe ploaie.",
+                "en": "Caution: the cobblestones here are extremely slick when wet."
+              }
+            },
+            {
+              "name": "Rubens House",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad in der Nähe der Wapper-Passage unter.",
+                "hu": "A Wapper-passzázs közelében talál fedett tárolót.",
+                "ro": "Parcați bicicleta lângă pasajul Wapper pentru protecție.",
+                "en": "Park your bike near the Wapper passage for some cover."
+              }
+            },
+            {
+              "name": "Grote Markt (Main Square)",
+              "tip_5lang": {
+                "de": "Die Tramschienen auf dem Weg zum Markt sind eine Sturzgefahr.",
+                "hu": "A tér felé vezető villamossínekre nagyon vigyázzon!",
+                "ro": "Șinele de tramvai spre piață sunt periculoase pe ploaie.",
+                "en": "Watch out for tram tracks on the way to the square; very dangerous."
+              }
+            },
+            {
+              "name": "Cathedral of Our Lady",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch für eine längere Trockenpause.",
+                "hu": "Használja ki a látogatást egy hosszabb száradásra.",
+                "ro": "Profitați de vizită pentru o pauză lungă la uscat.",
+                "en": "Take advantage of the visit for an extended dry break."
+              }
+            },
+            {
+              "name": "Museum aan de Stroom (MAS)",
+              "tip_5lang": {
+                "de": "Der 'Vertical Walk' bietet tolle Ausblicke ohne nass zu werden.",
+                "hu": "A 'függőleges sétányon' vizesedés nélkül fotózhatja a várost.",
+                "ro": "Traseul vertical oferă vederi superbe fără a te uda.",
+                "en": "The 'Vertical Walk' offers great views without getting wet."
+              }
+            },
+            {
+              "name": "Het Steen",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den glatten Kais am Fluss.",
+                "hu": "Vigyázzon a folyóparti rakpartokon, mert csúsznak.",
+                "ro": "Pedalați cu grijă pe cheiurile umede de lângă râu.",
+                "en": "Cycle carefully on the slippery quays near the river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Überfahren von Tramschienen im spitzen Winkel.",
+              "Nutzen Sie die 'Velo Antwerpen' Leihräder; sie sind robust bei Regen.",
+              "Vermeiden Sie Fahrten direkt am Wasser, dort ist der Wind am stärksten.",
+              "Ein Regencape ist praktischer als ein Schirm beim Radfahren."
+            ],
+            "hu": [
+              "Kerülje a villamossíneken való áthajtást hegyesszögben.",
+              "A 'Velo Antwerpen' bérbiciklik stabilak és bírják az esőt.",
+              "Ne tekerjen közvetlenül a víz mellett, ott a legerősebb a szél.",
+              "A kerékpáros esőponcsó sokkal praktikusabb, mint az esernyő."
+            ],
+            "ro": [
+              "Evitați traversarea șinelor de tramvai în unghi ascuțit.",
+              "Bicicletele 'Velo Antwerpen' sunt robuste și rezistă la ploaie.",
+              "Evitați zonele deschise de lângă apă unde vântul este puternic.",
+              "O pelerină de ploaie este mult mai practică decât umbrela pe bicicletă."
+            ],
+            "en": [
+              "Avoid crossing tram tracks at an acute angle; always cross perpendicular.",
+              "The 'Velo Antwerpen' rental bikes are sturdy and handle rain well.",
+              "Stay away from the river bank if it's very windy; the gusts are strong.",
+              "A cycling poncho is much more effective than an umbrella."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Klirrende Kälte beim Start am Bahnhof; die Luft ist rein und winterlich. Wir radeln durch das ruhige Viertel Zurenborg und weiter zum Rubenshaus. Mittags empfängt uns der Grote Markt mit festlicher Deko. Nach dem Besuch der Kathedrale geht es zum modernen Eilandje-Viertel. Der Sonnenuntergang am MAS ist spektakulär, bevor wir den Tag am beleuchteten Het Steen beenden.",
+            "hu": "Dermesztő hideg a pályaudvarnál; a levegő friss és tiszta. A csendes Zurenborg negyeden át tekerünk Rubens házáig. Délben a Grote Markt ünnepi díszben fogad minket. A katedrális után a modern Eilandje negyedbe hajtunk. A naplemente a MAS tetejéről látványos, mielőtt a kivilágított Het Steen várnál zárnánk a napot.",
+            "ro": "Frig pătrunzător la plecarea din gară; aerul este curat și tăios. Pedalăm prin cartierul liniștit Zurenborg spre casa lui Rubens. La prânz, Grote Markt ne întâmpină cu decoruri festive. După Catedrală, mergem spre cartierul modern Eilandje. Apusul la MAS este spectaculos, înainte de a termina ziua la Het Steen iluminat.",
+            "en": "Biting cold at the start near the station; the air is crisp and clear. Cycle through the quiet Zurenborg district and on to Rubens House. At noon, Grote Markt welcomes us with festive decorations. After visiting the Cathedral, head to the modern Eilandje area. The sunset from the MAS is spectacular before ending at the illuminated Het Steen."
+          },
+          "stops": [
+            {
+              "name": "Antwerp Central Station",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe; der Wind am Bahnhof ist eisig.",
+                "hu": "Viseljen meleg kesztyűt; a pályaudvarnál metsző a szél.",
+                "ro": "Purtați mănuși groase; vântul la gară este înghețat.",
+                "en": "Wear warm gloves; the wind around the station is icy."
+              }
+            },
+            {
+              "name": "Cogels-Osylei",
+              "tip_5lang": {
+                "de": "Die Fassaden wirken im frostigen Wintermorgen besonders edel.",
+                "hu": "A homlokzatok a fagyos téli reggelen különösen szépek.",
+                "ro": "Fațadele arată spectaculos în diminețile geroase de iarnă.",
+                "en": "The facades look especially noble in the frosty winter morning."
+              }
+            },
+            {
+              "name": "Rubens House",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad ab und wärmen Sie sich in den Ausstellungen.",
+                "hu": "Tegye le a biciklit és melegedjen fel a kiállításokon.",
+                "ro": "Parcați bicicleta și încălziți-vă vizitând expozițiile.",
+                "en": "Park your bike and warm up inside the exhibitions."
+              }
+            },
+            {
+              "name": "Grote Markt (Main Square)",
+              "tip_5lang": {
+                "de": "Vorsicht beim Fahren über den gefrorenen Marktplatz.",
+                "hu": "Vigyázzon, a jeges macskakő a téren nagyon csúszhat.",
+                "ro": "Atenție la pedalat pe piatra cubică înghețată din piață.",
+                "en": "Be careful when cycling across the frozen market square."
+              }
+            },
+            {
+              "name": "Cathedral of Our Lady",
+              "tip_5lang": {
+                "de": "Die massiven Steinwände halten die Kälte draußen.",
+                "hu": "A masszív kőfalak bent tartják a viszonylagos meleget.",
+                "ro": "Zidurile masive de piatră țin frigul afară.",
+                "en": "The massive stone walls keep the biting cold outside."
+              }
+            },
+            {
+              "name": "Museum aan de Stroom (MAS)",
+              "tip_5lang": {
+                "de": "Perfekter Ort für den Sonnenuntergang gegen 16:45 Uhr.",
+                "hu": "Tökéletes hely a naplemente nézéséhez 16:45 körül.",
+                "ro": "Locul perfect pentru apus în jurul orei 16:45.",
+                "en": "Perfect spot for the sunset around 4:45 PM."
+              }
+            },
+            {
+              "name": "Het Steen",
+              "tip_5lang": {
+                "de": "Die Beleuchtung am Abend ist ein tolles Fotomotiv.",
+                "hu": "Az esti kivilágítás remek fotótéma a fagyos éjszakában.",
+                "ro": "Iluminatul de seară oferă cadre foto superbe iarna.",
+                "en": "The evening lighting makes for a great photo subject."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck; kalte Luft lässt ihn sinken.",
+              "Tragen Sie reflektierende Kleidung, da es früh dunkel wird.",
+              "Vermeiden Sie bei Glatteis die schmalen Wege am Flussufer.",
+              "Wärmen Sie sich regelmäßig in den vielen Cafés auf."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást; a hidegben lecsökkenhet.",
+              "Viseljen fényvisszaverő ruházatot a korai sötétedés miatt.",
+              "Jegesedés esetén kerülje a folyóparti szűk utakat.",
+              "Rendszeresen melegedjen fel a város számos kávézójában."
+            ],
+            "ro": [
+              "Verificați presiunea roților; aerul rece o face să scadă.",
+              "Purtați haine reflectorizante deoarece se întunecă devreme.",
+              "Evitați potecile înguste de pe malul râului dacă e polei.",
+              "Încălziți-vă regulat în numeroasele cafenele din centru."
+            ],
+            "en": [
+              "Check your tire pressure; cold air causes it to drop.",
+              "Wear reflective gear as it gets dark very early.",
+              "Avoid narrow paths along the river if there is black ice.",
+              "Take regular breaks to warm up in the many local cafes."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1108,6 +1508,188 @@
           "Traffic can be heavy, so plan extra time for drives.",
           "Most parking garages are secure, but don't leave valuables visible in your car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequemer Start im Regen; wir parken direkt am Berchem Bahnhof. Die Fahrt führt uns durch nasse Alleen zum Grote Markt Parkhaus. Mittags erkunden wir die Kathedrale und das Het Steen, während der Regen auf die Schelde prasselt. Nachmittags steuern wir das Museumsviertel an, wo Rubens und Plantin-Moretus trockene Kulturerlebnisse garantieren, bevor wir den Tag entspannt beenden.",
+            "hu": "Kényelmes indulás az esőben; közvetlenül a Berchem állomásnál parkolunk. Az út vizes sugárutakon át vezet a Grote Markt mélygarázsáig. Délben a katedrálist és a Het Steen várat fedezzük fel, miközben az eső a Schelde vizét veri. Délután a múzeumi negyed felé vesszük az irányt, ahol Rubens és Plantin-Moretus világa vár, garantáltan szárazon.",
+            "ro": "Pornire confortabilă pe ploaie; parcăm direct la gara Berchem. Drumul ne poartă pe bulevarde umede spre parcarea de la Grote Markt. La prânz explorăm Catedrala și Het Steen, în timp ce ploaia cade peste Scheldt. După-amiaza mergem spre cartierul muzeelor, unde Rubens și Plantin-Moretus oferă experiențe culturale la adăpost.",
+            "en": "A comfortable start in the rain; we park right at Berchem Station. The drive takes us through wet avenues to the Grote Markt parking. At noon, we explore the Cathedral and Het Steen as rain pelts the Scheldt. In the afternoon, we head to the Museum Quarter, where Rubens and Plantin-Moretus guarantee dry cultural experiences."
+          },
+          "stops": [
+            {
+              "name": "Parking at Berchem Station & Cogels-Osylei",
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg vom Auto zur Architektur-Besichtigung.",
+                "hu": "Használja ki a rövid sétát az autótól a látnivalókig.",
+                "ro": "Profitați de distanța scurtă de la mașină la clădiri.",
+                "en": "Take advantage of the short walk from the car to the sights."
+              }
+            },
+            {
+              "name": "Drive to Grote Markt parking & Exploration",
+              "tip_5lang": {
+                "de": "Tiefgaragen wie 'Grote Markt' halten Sie beim Aussteigen trocken.",
+                "hu": "A 'Grote Markt' mélygarázs segít szárazon maradni.",
+                "ro": "Parcările subterane vă mențin uscat la ieșirea din mașină.",
+                "en": "Underground parking like 'Grote Markt' keeps you dry on arrival."
+              }
+            },
+            {
+              "name": "Cathedral of Our Lady",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Sprint vom Parkhaus zum Kircheneingang.",
+                "hu": "Csak egy rövid vágta a parkolótól a templombejáratig.",
+                "ro": "Doar un scurt sprint de la parcare la intrarea în biserică.",
+                "en": "Just a short dash from the parking garage to the entrance."
+              }
+            },
+            {
+              "name": "Het Steen",
+              "tip_5lang": {
+                "de": "Parken Sie im 'Parking Steen', um direkt vor Ort zu sein.",
+                "hu": "Parkoljon a 'Parking Steen'-ben, hogy ne ázzon meg.",
+                "ro": "Parcați la 'Parking Steen' pentru a fi chiar la destinație.",
+                "en": "Park at 'Parking Steen' to be right at the doorstep."
+              }
+            },
+            {
+              "name": "Drive to Museum Quarter & Rubens House",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkhäuser in der Nähe der Meir für kurze Wege.",
+                "hu": "A Meir környéki parkolók közel vannak a Rubens-házhoz.",
+                "ro": "Folosiți parcările de lângă Meir pentru distanțe scurte.",
+                "en": "Use parking garages near Meir for short walking distances."
+              }
+            },
+            {
+              "name": "Museum Plantin-Moretus",
+              "tip_5lang": {
+                "de": "Vermeiden Sie die Suche nach Parkplätzen am Straßenrand.",
+                "hu": "Ne vesztegesse az időt utcai parkoló keresésével az esőben.",
+                "ro": "Nu irosiți timp căutând locuri pe stradă în ploaie.",
+                "en": "Don't waste time searching for street parking in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achtung: Die Umweltzone (LEZ) gilt im gesamten Zentrum.",
+              "Nutzen Sie die App 'Parking Antwerp' für Echtzeit-Infos.",
+              "Vermeiden Sie die Rushhour (8-9 und 16-18 Uhr) wegen Staus.",
+              "Parkhäuser sind im Regen deutlich komfortabler als Straßenplätze."
+            ],
+            "hu": [
+              "Figyelem: az alacsony kibocsátási zóna (LEZ) az egész központra érvényes.",
+              "Használja a 'Parking Antwerp' appot a szabad helyekhez.",
+              "Kerülje a csúcsidőt (8-9 és 16-18 óra) a dugók miatt.",
+              "A mélygarázsok sokkal kényelmesebbek esőben az utcai helynél."
+            ],
+            "ro": [
+              "Atenție: zona cu emisii reduse (LEZ) se aplică în tot centrul.",
+              "Folosiți aplicația 'Parking Antwerp' pentru info în timp real.",
+              "Evitați orele de vârf (8-9 și 16-18) din cauza ambuteiajelor.",
+              "Parcările etajate sunt mult mai confortabile decât cele stradale."
+            ],
+            "en": [
+              "Warning: The Low Emission Zone (LEZ) applies to the entire center.",
+              "Use the 'Parking Antwerp' app for real-time occupancy info.",
+              "Avoid rush hours (8-9 AM and 4-6 PM) to escape heavy traffic.",
+              "Parking garages are much more convenient than street spots in rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt am Berchem Bahnhof; die Heizung im Auto läuft. Die Fahrt durch das weihnachtlich beleuchtete Antwerpen führt zum Grote Markt. Mittags besuchen wir die Kathedrale und das Het Steen, wo der Wind von der Schelde weht. Nachmittags erkunden wir das Museumsviertel. Die Fahrt endet, wenn die Stadtlichter in der frühen Dunkelheit glänzen.",
+            "hu": "Tiszta téli reggel a Berchem állomásnál; az autóban már jár a fűtés. Az ünnepi fényekkel díszített Antwerpenen át hajtunk a Grote Markthoz. Délben a katedrális és a Het Steen következik, ahol a Schelde felől hideg szél fúj. Délután a múzeumi negyedet fedezzük fel. Az út akkor ér véget, amikor a város fényei felgyulladnak a korai sötétben.",
+            "ro": "O dimineață senină de iarnă la gara Berchem; căldura din mașină e binevenită. Drumul prin Anversul decorat de sărbătoare ne duce spre Grote Markt. La prânz vizităm Catedrala și Het Steen, unde vântul suflă rece dinspre râu. După-amiaza explorăm cartierul muzeelor. Călătoria se încheie când luminile orașului strălucesc în întunericul timpuriu.",
+            "en": "A clear winter morning starts at Berchem Station; the car's heater is a relief. The drive through festive Antwerp leads us to Grote Markt. At noon, we visit the Cathedral and Het Steen, where a cold breeze blows from the Scheldt. In the afternoon, we explore the Museum Quarter. The trip ends as city lights twinkle in the early darkness."
+          },
+          "stops": [
+            {
+              "name": "Parking at Berchem Station & Cogels-Osylei",
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto kurz warmlaufen, bevor Sie weiterfahren.",
+                "hu": "Hagyja kicsit bemelegedni az autót, mielőtt tovább indul.",
+                "ro": "Lăsați mașina să se încălzească puțin înainte de plecare.",
+                "en": "Let the car warm up briefly before continuing your drive."
+              }
+            },
+            {
+              "name": "Drive to Grote Markt parking & Exploration",
+              "tip_5lang": {
+                "de": "Genießen Sie die Weihnachtsbeleuchtung entlang der Fahrstrecke.",
+                "hu": "Élvezze a karácsonyi kivilágítást az útvonal mentén.",
+                "ro": "Admirați luminile de Crăciun de-a lungul traseului.",
+                "en": "Enjoy the festive Christmas lights along the driving route."
+              }
+            },
+            {
+              "name": "Cathedral of Our Lady",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz nah an der Kathedrale.",
+                "hu": "Keressen parkolóhelyet minél közelebb a templomhoz.",
+                "ro": "Căutați un loc de parcare cât mai aproape de Catedrală.",
+                "en": "Look for a parking spot as close as possible to the Cathedral."
+              }
+            },
+            {
+              "name": "Het Steen",
+              "tip_5lang": {
+                "de": "Vorsicht vor eventueller Glätte auf den Zufahrtswegen.",
+                "hu": "Vigyázzon az esetleges jegesedésre a bekötőutakon.",
+                "ro": "Atenție la posibila polei pe drumurile de acces.",
+                "en": "Watch out for potential ice on the access roads."
+              }
+            },
+            {
+              "name": "Drive to Museum Quarter & Rubens House",
+              "tip_5lang": {
+                "de": "Nutzen Sie beheizte Parkhäuser für mehr Komfort.",
+                "hu": "A fűtött mélygarázsok sokkal kényelmesebbek télen.",
+                "ro": "Parcările subterane sunt mai calde și mai confortabile.",
+                "en": "Underground parking garages are warmer and more comfortable."
+              }
+            },
+            {
+              "name": "Museum Plantin-Moretus",
+              "tip_5lang": {
+                "de": "Planen Sie Zeit für die Parkplatzsuche in der Dunkelheit ein.",
+                "hu": "Számoljon több idővel a parkolásra a sötétedés után.",
+                "ro": "Rezervați mai mult timp pentru parcare după lăsarea serii.",
+                "en": "Allow extra time for parking as it gets dark early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind bei Frost und Schnee dringend empfohlen.",
+              "Achten Sie auf Fußgänger bei den Weihnachtsmärkten.",
+              "Die Parkgebühren im Zentrum sind am Wochenende höher.",
+              "Halten Sie Eiskratzer und Frostschutzmittel bereit."
+            ],
+            "hu": [
+              "A téli gumi használata fagyban erősen ajánlott.",
+              "Fokozottan ügyeljen a gyalogosokra a karácsonyi vásárok környékén.",
+              "A parkolási díjak a központban hétvégén magasabbak lehetnek.",
+              "Tartson jégkaparót és fagyállót az autóban."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt recomandate în caz de îngheț.",
+              "Fiți foarte atenți la pietoni în zona târgurilor de Crăciun.",
+              "Tarifele de parcare în centru pot fi mai mari în weekend.",
+              "Aveți la îndemână racleta pentru gheață și lichid de parbriz."
+            ],
+            "en": [
+              "Winter tires are highly recommended in case of frost or snow.",
+              "Be extra careful with pedestrians near the Christmas markets.",
+              "Parking fees in the center might be higher on weekends.",
+              "Keep an ice scraper and anti-freeze ready in your car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1464,6 +2046,188 @@
           "Validate your ticket each time you board a tram or bus.",
           "Be aware that the underground trams (Premetro) function like a metro system."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Start am Hauptbahnhof; die Metro bringt uns trocken ins Zentrum. Wir besuchen das Rubenshaus und die Carolus Borromeus Kirche, während der Regen draußen fällt. Mittags wärmen wir uns am Grote Markt auf. Die Tram bringt uns zum MAS-Museum, wo wir die Aussicht im Trockenen genießen, bevor wir den Tag am Het Steen ausklingen lassen.",
+            "hu": "Esős kezdés a pályaudvarnál; a metró szárazon visz a központba. Meglátogatjuk a Rubens-házat és a Carolus Borromeus templomot, miközben kint szakad az eső. Délben a Grote Markton melegszünk fel. Villamossal megyünk a MAS múzeumhoz, ahol fedett helyről nézzük a várost, majd a Het Steen várnál zárunk.",
+            "ro": "Început ploios la gară; metroul ne duce rapid și uscat în centru. Vizităm casa lui Rubens și biserica Carolus Borromeus în timp ce plouă afară. La prânz ne încălzim în Grote Markt. Tramvaiul ne duce la muzeul MAS pentru vederi panoramice la adăpost, încheind ziua la castelul Het Steen.",
+            "en": "A rainy start at the Central Station; the metro takes us dryly into the center. We visit Rubens House and Carolus Borromeus Church while rain falls outside. At noon, we warm up at Grote Markt. The tram takes us to the MAS museum for dry panoramic views before finishing the day at Het Steen."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Central Station & Zoo",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet direkten Zugang zur Metro im Trockenen.",
+                "hu": "A pályaudvarról közvetlen, fedett út vezet a metróhoz.",
+                "ro": "Gara oferă acces direct și acoperit la stația de metrou.",
+                "en": "The station offers direct covered access to the metro lines."
+              }
+            },
+            {
+              "name": "Tram to Museum Quarter & Rubens House",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tram 11 oder 12 für eine trockene Anreise.",
+                "hu": "Használja a 11-es vagy 12-es villamost a száraz utazáshoz.",
+                "ro": "Folosiți tramvaiul 11 sau 12 pentru a ajunge la adăpost.",
+                "en": "Take tram 11 or 12 to reach your destination while staying dry."
+              }
+            },
+            {
+              "name": "Carolus Borromeus Church",
+              "tip_5lang": {
+                "de": "Eine prachtvolle Kirche, ideal als Regenschutz geeignet.",
+                "hu": "Pompás templom, amely kiváló menedék az eső elől.",
+                "ro": "O biserică superbă, ideală ca refugiu împotriva ploii.",
+                "en": "A magnificent church, perfect as a sanctuary from the rain."
+              }
+            },
+            {
+              "name": "Grote Markt & Lunch",
+              "tip_5lang": {
+                "de": "Viele Restaurants hier haben überdachte Außenbereiche.",
+                "hu": "Sok étteremnek van fedett kültéri része is.",
+                "ro": "Multe restaurante de aici au terase acoperite.",
+                "en": "Many restaurants here have covered outdoor seating areas."
+              }
+            },
+            {
+              "name": "Tram to Eilandje & MAS",
+              "tip_5lang": {
+                "de": "Die Tramhaltestelle ist nur wenige Schritte vom MAS entfernt.",
+                "hu": "A villamosmegálló mindössze pár lépésre van a MAS-tól.",
+                "ro": "Stația de tramvai este la doar câțiva pași de muzeul MAS.",
+                "en": "The tram stop is only a few steps away from the MAS entrance."
+              }
+            },
+            {
+              "name": "Het Steen",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt direkt vor dem Schlossgelände.",
+                "hu": "A buszmegálló közvetlenül a vár bejárata mellett található.",
+                "ro": "Stația de autobuz este chiar în fața castelului.",
+                "en": "The bus stop is located right in front of the castle grounds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab über die 'De Lijn' App.",
+              "Die Metrostationen im Zentrum sind oft kleine Galerien.",
+              "Trams sind bei Regen oft voll; planen Sie Wartezeit ein.",
+              "Halten Sie Ihre App für Echtzeit-Abfahrten bereit."
+            ],
+            "hu": [
+              "Vegye meg a jegyet előre a 'De Lijn' alkalmazásban.",
+              "A belvárosi metróállomások gyakran kis galériákra hasonlítanak.",
+              "Esőben a villamosok zsúfoltak lehetnek; számoljon várakozással.",
+              "Használja az alkalmazást a valós idejű indulásokhoz."
+            ],
+            "ro": [
+              "Cumpărați biletele în avans prin aplicația 'De Lijn'.",
+              "Stațiile de metrou din centru sunt adesea mici galerii de artă.",
+              "Tramvaiele pot fi aglomerate pe ploaie; alocați timp în plus.",
+              "Verificați orele de plecare în timp real în aplicație."
+            ],
+            "en": [
+              "Buy your tickets in advance using the 'De Lijn' app.",
+              "Metro stations in the center often double as small art galleries.",
+              "Trams can get very crowded in the rain; expect some delays.",
+              "Keep your app ready for real-time departure information."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen am Bahnhof; wir nutzen die beheizte Metro ins Zentrum. Nach dem Besuch des Rubenshauses wärmen wir uns in der Carolus Borromeus Kirche auf. Mittags genießen wir die Winterstimmung am Grote Markt. Die Tram bringt uns zum MAS, wo wir die Aussicht auf den winterlichen Hafen genießen, bevor wir den Tag am Het Steen beenden.",
+            "hu": "Fagyos téli reggel a pályaudvarnál; a fűtött metróval megyünk a központba. A Rubens-ház után a Carolus Borromeus templomban melegszünk fel. Délben élvezzük a téli hangulatot a Grote Markton. Villamossal megyünk a MAS-hoz, hogy megnézzük a téli kikötőt, majd a napot a Het Steen várnál zárjuk.",
+            "ro": "O dimineață geroasă la gară; folosim metroul încălzit spre centru. După casa lui Rubens, ne încălzim în biserica Carolus Borromeus. La prânz ne bucurăm de atmosfera de iarnă în Grote Markt. Tramvaiul ne duce la MAS pentru o vedere asupra portului înghețat, încheind ziua la Het Steen.",
+            "en": "A frosty winter morning at the station; we use the heated metro to reach the center. After Rubens House, we warm up in Carolus Borromeus Church. At noon, enjoy the winter atmosphere at Grote Markt. The tram takes us to the MAS for a view of the wintry harbor before finishing at Het Steen."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Central Station & Zoo",
+              "tip_5lang": {
+                "de": "Warten Sie in der prachtvollen Bahnhofshalle im Warmen.",
+                "hu": "Várjon a pompás pályaudvar csarnokában a melegben.",
+                "ro": "Așteptați în hala grandioasă a gării, la căldură.",
+                "en": "Wait inside the magnificent station hall to stay warm."
+              }
+            },
+            {
+              "name": "Tram to Museum Quarter & Rubens House",
+              "tip_5lang": {
+                "de": "Trams sind im Winter gut beheizt und komfortabel.",
+                "hu": "A villamosok télen jól fűtöttek és kényelmesek.",
+                "ro": "Tramvaiele sunt bine încălzite și confortabile iarna.",
+                "en": "Trams are well-heated and comfortable during winter."
+              }
+            },
+            {
+              "name": "Carolus Borromeus Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um der Kälte für einen Moment zu entkommen.",
+                "hu": "Csendes hely, ahol egy pillanatra elmenekülhet a hideg elől.",
+                "ro": "Un loc liniștit unde poți scăpa de frig pentru un moment.",
+                "en": "A quiet place to escape the biting cold for a moment."
+              }
+            },
+            {
+              "name": "Grote Markt & Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz nah an der Heizung im Restaurant.",
+                "hu": "Keressen helyet az étteremben a fűtőtest közelében.",
+                "ro": "Căutați un loc lângă calorifer în restaurant.",
+                "en": "Look for a seat near the heater inside the restaurant."
+              }
+            },
+            {
+              "name": "Tram to Eilandje & MAS",
+              "tip_5lang": {
+                "de": "Die Fahrt bietet tolle Ausblicke auf die winterliche Stadt.",
+                "hu": "Az utazás alatt remek kilátás nyílik a téli városra.",
+                "ro": "Călătoria oferă vederi frumoase asupra orașului iarna.",
+                "en": "The ride offers great views of the wintry city."
+              }
+            },
+            {
+              "name": "Het Steen",
+              "tip_5lang": {
+                "de": "Der Wind am Fluss ist im Winter besonders schneidend.",
+                "hu": "A folyóparti szél télen különösen metsző lehet.",
+                "ro": "Vântul de lângă râu este extrem de tăios iarna.",
+                "en": "The wind near the river is especially sharp in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Metrostationen als Abkürzung im Warmen.",
+              "Die Trams fahren im Winter nach dem regulären Fahrplan.",
+              "Ein Tagesticket lohnt sich bei mehreren Fahrten.",
+              "Achten Sie auf eventuelle Gleisarbeiten im Winter."
+            ],
+            "hu": [
+              "Használja a metróállomásokat melegített átjáróként.",
+              "A villamosok télen is a rendes menetrend szerint járnak.",
+              "A napijegy megéri, ha többször is utazik a nap folyamán.",
+              "Figyeljen az esetleges téli vágányzárakra vagy javításokra."
+            ],
+            "ro": [
+              "Folosiți stațiile de metrou ca scurtături la căldură.",
+              "Tramvaiele circulă după programul normal și în timpul iernii.",
+              "Un bilet de o zi merită dacă aveți mai multe călătorii.",
+              "Fiți atenți la eventualele lucrări la linii în timpul iernii."
+            ],
+            "en": [
+              "Use metro stations as warm shortcuts when moving between spots.",
+              "Trams follow the regular schedule even during winter.",
+              "A day pass is worth it if you plan multiple trips.",
+              "Check for any winter maintenance or track works."
+            ]
+          }
+        }
       }
     }
   }

@@ -362,6 +362,188 @@
           "Check the museum's opening hours in advance.",
           "The fortified church is the highlight, so allow plenty of time for it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Revolutionsplatz unter dem Schutz der Arkaden. Mittags bietet die massive Kirchenburg von Heltau perfekten Zufluchtsort vor dem Regen. Am Nachmittag tauchen Sie im Textilmuseum tief in die Industriegeschichte ein, während es draußen prasselt. Der Tag endet mit einem kurzen, erfrischenden Spaziergang durch den Măgura-Park, wo die Bäume natürlichen Schutz bieten.",
+            "hu": "Kezdje a napot a Forradalom téren az árkádok védelmében. Délben a nagyszebeni erődtemplom vastag falai nyújtanak menedéket a zivatar elől. Délután a Textilipari Múzeum belső tárlatai várják, így szárazon ismerheti meg a város múltját. Az este a Măgura szabadidőparkban zárul, ahol az eső illata frissé teszi a levegőt a rövid séta alatt.",
+            "ro": "Începeți ziua în Piața Revoluției, folosind arcadele clădirilor pentru adăpost. La prânz, Biserica Fortificată oferă un refugiu istoric perfect împotriva ploii. După-amiaza este dedicată Muzeului Industriei Textile, un spațiu interior fascinant. Seara se încheie cu o plimbare scurtă în Parcul Măgura, unde coronamentul arborilor oferă o protecție naturală împotriva picăturilor.",
+            "en": "Start your day at Revolution Square, taking cover under the building eaves. At noon, the massive walls of the Fortified Church provide a dry sanctuary. Spend your afternoon indoors at the Museum of the Textile Industry, exploring local heritage. The day concludes with a brisk walk in Măgura Park, where the dense trees offer some shelter from the light drizzle."
+          },
+          "stops": [
+            {
+              "name": "Revolution Square",
+              "tip_5lang": {
+                "de": "Schutz unter den Arkaden suchen.",
+                "hu": "Keressen menedéket az árkádok alatt.",
+                "ro": "Căutați adăpost sub arcadele pieței.",
+                "en": "Take shelter under the square's arches."
+              }
+            },
+            {
+              "name": "Cisnădie Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Stopp am Eingangsbereich.",
+                "hu": "Gyors megálló a bejáratnál.",
+                "ro": "Oprire scurtă la intrarea primăriei.",
+                "en": "Quick stop by the entrance area."
+              }
+            },
+            {
+              "name": "Evangelical Fortified Church",
+              "tip_5lang": {
+                "de": "Viel Zeit im trockenen Innenraum.",
+                "hu": "Töltsön több időt a belső térben.",
+                "ro": "Petreceți timp în interiorul uscat.",
+                "en": "Spend extra time in the dry interior."
+              }
+            },
+            {
+              "name": "Museum of the Textile Industry",
+              "tip_5lang": {
+                "de": "Ideales Ziel für Regentage.",
+                "hu": "Ideális célpont esős időben.",
+                "ro": "Destinație ideală pentru zile ploioase.",
+                "en": "Perfect indoor destination for rain."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Ruhiger Moment im Trockenen.",
+                "hu": "Csendes, száraz pihenőhely.",
+                "ro": "Moment de liniște la adăpost.",
+                "en": "Quiet moment away from the rain."
+              }
+            },
+            {
+              "name": "Măgura Leisure Park",
+              "tip_5lang": {
+                "de": "Vorsicht auf rutschigen Wegen.",
+                "hu": "Vigyázat a csúszós ösvényeken.",
+                "ro": "Atenție la potecile alunecoase.",
+                "en": "Watch out for slippery pathways."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei Wind in Heltau unerlässlich.",
+              "Nutzen Sie die Kirchenburg für längere Regenpausen.",
+              "Tragen Sie wasserfeste Schuhe für den Parkbesuch.",
+              "Die Cafés rund um den Platz sind ideal zum Aufwärmen."
+            ],
+            "hu": [
+              "Az erős szél miatt egy stabil esernyő elengedhetetlen.",
+              "Használja az erődtemplomot hosszabb eső szünetekre.",
+              "Vízálló cipő javasolt a park látogatásához.",
+              "A főtéri kávézók kiválóak a várakozáshoz."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza vântului.",
+              "Folosiți biserica fortificată pentru pauze lungi de ploaie.",
+              "Purtați încălțăminte impermeabilă pentru parc.",
+              "Cafenelele din piață sunt ideale pentru a aștepta oprirea ploii."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to local wind gusts.",
+              "Use the fortified church for long rain breaks.",
+              "Wear waterproof shoes for the park section.",
+              "Cafes around the square are great for drying off."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Heltau am frostigen Revolutionsplatz. Die historische Kirchenburg strahlt mittags eine besondere Ruhe aus, während die dicken Mauern vor dem Wind schützen. Am Nachmittag bietet das Textilmuseum wohlige Wärme und spannende Einblicke. Da die Dämmerung früh einsetzt, genießen Sie die blaue Stunde im Măgura-Park, bevor Sie den Abend gemütlich ausklingen lassen.",
+            "hu": "Fedezze fel a téli Nagydisznódot a fagyos Forradalom téren. Az erődtemplom falai között délben különleges nyugalom honol, védve az éles széltől. Délután a Textilmúzeum fűtött termeiben melegedhet fel. Mivel korán sötétedik, a Măgura-parkban még a szürkület előtt élvezze a havas tájat, mielőtt visszatérne a városközpontba.",
+            "ro": "Descoperiți Cisnădia hibernală începând din Piața Revoluției. Zidurile bisericii fortificate oferă la prânz un adăpost liniștit împotriva vântului tăios. După-amiaza, Muzeul Industriei Textile oferă căldură și cultură. Deoarece se întunecă devreme, vizitați Parcul Măgura la ora albastră pentru o panoramă de iarnă memorabilă.",
+            "en": "Experience winter in Cisnădie starting at the frosty Revolution Square. The Fortified Church offers a quiet, wind-shielded atmosphere at noon. Warm up in the afternoon inside the Textile Museum's heated galleries. As dusk falls early, enjoy the winter scenery at Măgura Park before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Revolution Square",
+              "tip_5lang": {
+                "de": "Vorsicht bei Glatteis auf dem Pflaster.",
+                "hu": "Vigyázzon a jeges macskaköveken.",
+                "ro": "Atenție la gheața de pe pavaj.",
+                "en": "Watch for ice on the cobblestones."
+              }
+            },
+            {
+              "name": "Cisnădie Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp im Schnee.",
+                "hu": "Gyors fotómegálló a hóban.",
+                "ro": "Oprire scurtă pentru poze în zăpadă.",
+                "en": "Quick photo stop in the snow."
+              }
+            },
+            {
+              "name": "Evangelical Fortified Church",
+              "tip_5lang": {
+                "de": "Warme Kleidung für Innenräume nötig.",
+                "hu": "Meleg ruha kell a belső terekhez is.",
+                "ro": "Haine groase necesare și la interior.",
+                "en": "Warm clothes needed even inside."
+              }
+            },
+            {
+              "name": "Museum of the Textile Industry",
+              "tip_5lang": {
+                "de": "Perfekt zum Aufwärmen am Nachmittag.",
+                "hu": "Tökéletes hely a délutáni melegedéshez.",
+                "ro": "Loc perfect pentru încălzire.",
+                "en": "Perfect place to warm up."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Besinnliche Stille im Winter.",
+                "hu": "Meghitt csend a téli hidegben.",
+                "ro": "Liniște deplină în frigul iernii.",
+                "en": "Contemplative silence in winter."
+              }
+            },
+            {
+              "name": "Măgura Leisure Park",
+              "tip_5lang": {
+                "de": "Früher Sonnenuntergang beachten.",
+                "hu": "Figyeljen a korai naplementére.",
+                "ro": "Atenție la apusul timpuriu.",
+                "en": "Be mindful of the early sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip für kalte Kirchenbesuche.",
+              "Die Sonne geht im Winter bereits gegen 16:30 Uhr unter.",
+              "Feste Stiefel mit Profil sind für den Park notwendig.",
+              "Warme Getränke gibt es in den Cafés am Marktplatz."
+            ],
+            "hu": [
+              "Réteges öltözködés javasolt a templomlátogatáshoz.",
+              "A nap télen már 16:30 körül nyugszik.",
+              "A parkba bordázott talpú bakancs szükséges.",
+              "Forró italokat a főtéri kávézókban talál."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru vizita la biserică.",
+              "Soarele apune în jur de ora 16:30 iarna.",
+              "Ghete cu aderență bună necesare în parc.",
+              "Găsiți băuturi calde la cafenelele din centru."
+            ],
+            "en": [
+              "Layer up for chilly church interiors.",
+              "Sunset is around 4:30 PM in winter.",
+              "Sturdy boots with grip are vital for the park.",
+              "Hot drinks are available in central cafes."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -682,6 +864,188 @@
           "Bring snacks and water, especially for the ride to Măgura Mountain.",
           "Some paths can be steep, so be prepared."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt durch Heltau erfordert gute Ausrüstung. Starten Sie vorsichtig am Revolutionsplatz und suchen Sie bei der Kirchenburg Schutz. Das Textilmuseum ist ein sicherer Hafen am Nachmittag. Die Fahrt zum Măgura-Park ist erfrischend, aber achten Sie auf die nassen Wege. Der Tag endet am Fuße der Măgura, wo die Wolken tief über den Bergen hängen.",
+            "hu": "Az esős bringázás Nagydisznódon jó felszerelést igényel. Kezdjen óvatosan a Forradalom téren, majd pihenjen az erődtemplomnál. A Textilmúzeum délután biztonságos menedéket nyújt. A Măgura-park felé vezető út frissítő, de figyeljen a vizes útfelületre. A nap a Măgura lábánál zárul, ahol a felhők alacsonyan szállnak a hegyek felett.",
+            "ro": "O tură cu bicicleta prin Cisnădie pe ploaie necesită echipament bun. Porniți cu grijă din Piața Revoluției și adăpostiți-vă la biserica fortificată. Muzeul Textilelor este un refugiu sigur după-amiaza. Drumul spre Parcul Măgura este revigorant, dar atenție la asfaltul ud. Ziua se termină la baza muntelui, cu norii coborâți peste creste.",
+            "en": "Cycling through Cisnădie in the rain demands quality gear. Start carefully at Revolution Square and find shelter at the Fortified Church. The Textile Museum is a safe harbor in the afternoon. The ride to Măgura Park is refreshing, but watch for wet surfaces. The day ends at the base of Măgura, with low clouds over the peaks."
+          },
+          "stops": [
+            {
+              "name": "Revolution Square",
+              "tip_5lang": {
+                "de": "Vorsicht auf nassem Kopfsteinpflaster.",
+                "hu": "Vigyázzon a vizes macskaköveken.",
+                "ro": "Atenție la pavajul ud și alunecos.",
+                "en": "Caution on wet cobblestones."
+              }
+            },
+            {
+              "name": "Evangelical Fortified Church",
+              "tip_5lang": {
+                "de": "Unterstand für Fahrräder suchen.",
+                "hu": "Keressen fedett helyet a bicikliknek.",
+                "ro": "Căutați un adăpost pentru biciclete.",
+                "en": "Find a covered spot for bikes."
+              }
+            },
+            {
+              "name": "Museum of the Textile Industry",
+              "tip_5lang": {
+                "de": "Lange Pause zum Trocknen einlegen.",
+                "hu": "Hosszabb pihenő a száradáshoz.",
+                "ro": "Pauză lungă pentru uscare.",
+                "en": "Take a long break to dry off."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Kurze Rast im geschützten Bereich.",
+                "hu": "Rövid pihenő védett helyen.",
+                "ro": "Scurt popas în zonă protejată.",
+                "en": "Short rest in a protected area."
+              }
+            },
+            {
+              "name": "Măgura Leisure Park",
+              "tip_5lang": {
+                "de": "Schutzbleche am Rad empfohlen.",
+                "hu": "Sárvédő használata javasolt.",
+                "ro": "Apărători de noroi recomandate.",
+                "en": "Mudguards highly recommended."
+              }
+            },
+            {
+              "name": "Base of Măgura Mountain",
+              "tip_5lang": {
+                "de": "Rückweg bei Tageslicht antreten.",
+                "hu": "Térjen vissza még világosban.",
+                "ro": "Întoarcerea pe timp de zi.",
+                "en": "Return while it is still light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie plötzliches Bremsen auf nassem Pflaster.",
+              "Ein Regenponcho schützt besser als ein Schirm beim Radeln.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Fahrt.",
+              "Nutzen Sie die Kirchenmauern als Windschutz."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a vizes úton.",
+              "A biciklis esőpánzsó jobb védelmet nyújt.",
+              "Ellenőrizze a fékeket indulás előtt.",
+              "Használja a templomfalakat szél elleni védelemre."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe pavajul ud.",
+              "Pelerina de ploaie este mai utilă decât umbrela.",
+              "Verificați frânele înainte de plecare.",
+              "Folosiți zidurile bisericii pentru adăpost de vânt."
+            ],
+            "en": [
+              "Avoid sudden braking on wet cobblestones.",
+              "A cycling poncho is better than an umbrella.",
+              "Check your brake pads before starting.",
+              "Use the church walls as a windbreak."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Heltau bietet klare Luft und weiße Panoramen. Starten Sie warm eingepackt am Revolutionsplatz. Die Kirchenburg ist mittags ein markanter Stopp im Frost. Nachmittags wärmt der Besuch im Textilmuseum die Glieder auf. Der Weg zum Măgura-Park führt durch eine stille Winterlandschaft, bevor die Tour am Fuße des Berges in der Kälte endet.",
+            "hu": "A téli bringázás Nagydisznódon friss levegőt és fehér panorámát ígér. Melegen felöltözve induljon a Forradalom térről. Az erődtemplom délben látványos megálló a fagyban. Délután a Textilmúzeumban melegítheti fel elgémberedett tagjait. A Măgura-park felé vezető út csendes téli tájon át visz, majd a hegy lábánál ér véget a túra.",
+            "ro": "Ciclismul de iarnă în Cisnădie oferă aer curat și peisaje albe. Porniți bine echipați din Piața Revoluției. Biserica fortificată este un punct de reper înghețat la prânz. După-amiaza, muzeul este locul ideal pentru dezmorțire. Drumul spre Parcul Măgura trece printr-un peisaj tăcut, terminându-se la baza muntelui în frigul serii.",
+            "en": "Winter cycling in Cisnădie offers crisp air and white panoramas. Start warm at Revolution Square. The Fortified Church is a striking stop in the frost. In the afternoon, the Textile Museum warms up your limbs. The path to Măgura Park leads through a quiet winter landscape before the tour ends at the mountain base."
+          },
+          "stops": [
+            {
+              "name": "Revolution Square",
+              "tip_5lang": {
+                "de": "Achtung vor überfrierender Nässe.",
+                "hu": "Vigyázzon a felfagyásokkal.",
+                "ro": "Atenție la porțiunile cu polei.",
+                "en": "Watch out for black ice."
+              }
+            },
+            {
+              "name": "Evangelical Fortified Church",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt wegen Kälte.",
+                "hu": "Rövid látogatás a hideg miatt.",
+                "ro": "Vizită scurtă din cauza frigului.",
+                "en": "Keep visits brief due to cold."
+              }
+            },
+            {
+              "name": "Museum of the Textile Industry",
+              "tip_5lang": {
+                "de": "Lange Aufwärmpause einplanen.",
+                "hu": "Tervezzen hosszú melegedőt.",
+                "ro": "Planificați o pauză lungă de căldură.",
+                "en": "Plan for a long warming break."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Ruhiger Stopp im Winterlicht.",
+                "hu": "Csendes pihenő a téli fényben.",
+                "ro": "Popas liniștit în lumina iernii.",
+                "en": "Quiet stop in the winter light."
+              }
+            },
+            {
+              "name": "Măgura Leisure Park",
+              "tip_5lang": {
+                "de": "Frühe Dämmerung im Wald.",
+                "hu": "Erdős részen korábban sötétedik.",
+                "ro": "Se întunecă mai devreme în pădure.",
+                "en": "Dusk comes early in the woods."
+              }
+            },
+            {
+              "name": "Base of Măgura Mountain",
+              "tip_5lang": {
+                "de": "Warme Handschuhe für die Abfahrt.",
+                "hu": "Meleg kesztyű kell a lejtőhöz.",
+                "ro": "Mănuși groase pentru coborâre.",
+                "en": "Warm gloves needed for descent."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und Socken.",
+              "Beleuchtung am Rad ist wegen früher Dunkelheit Pflicht.",
+              "Achten Sie auf vereiste Pfützen im Park.",
+              "Planen Sie kürzere Etappen zwischen Aufwärmstopps."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és zoknit.",
+              "A lámpa kötelező a korai sötétedés miatt.",
+              "Ügyeljen a jeges tócsákra a parkban.",
+              "Tervezzen rövid szakaszokat melegedőkkel."
+            ],
+            "ro": [
+              "Purtați mănuși și șosete rezistente la vânt.",
+              "Luminile sunt obligatorii (se înserează repede).",
+              "Atenție la bălțile înghețate din parc.",
+              "Planificați etape scurte între opriri."
+            ],
+            "en": [
+              "Wear windproof gloves and thermal socks.",
+              "Lights are mandatory due to early sunset.",
+              "Watch for frozen puddles in the park.",
+              "Plan shorter cycling segments between breaks."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -966,6 +1330,188 @@
           "The roads to Măgura Mountain can be narrow and winding.",
           "Plan your route in advance as cell service can be spotty in the mountains."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen in Heltau lässt sich am besten mit dem Auto erkunden. Parken Sie bequem im Zentrum und spazieren Sie zum Revolutionsplatz. Mittags bietet die Kirchenburg trockene Geschichte, gefolgt vom Textilmuseum am Nachmittag. Der Măgura-Park ist per Auto leicht erreichbar, und vom Aussichtspunkt am Berg genießen Sie dramatische Ausblicke auf die regenverhangene Ebene.",
+            "hu": "Nagydisznódon esős időben az autó a legkényelmesebb. Parkoljon a központban, és tegyen rövid sétát a Forradalom térre. Délben az erődtemplom, délután pedig a Textilmúzeum kínál száraz programot. A Măgura-park autóval is könnyen megközelíthető, a hegyi kilátóból pedig lenyűgöző látvány nyílik a felhős síkságra.",
+            "ro": "Ploaia în Cisnădie este mai ușor de înfruntat cu mașina. Parcați în centru și faceți o scurtă plimbare în Piața Revoluției. La prânz vizitați biserica, iar după-amiaza muzeul. Parcul Măgura este ușor accesibil, iar de la punctul de belvedere de pe munte puteți admira peisajul dramatic printre picăturile de ploaie.",
+            "en": "Rain in Cisnădie is best navigated by car. Park comfortably in the center for a short walk to Revolution Square. Enjoy the Fortified Church at noon and the Textile Museum in the afternoon. Măgura Park is easily reachable by car, and the mountain viewpoint offers dramatic vistas of the rain-swept valley below."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Zentraler Parkplatz, nah am Zentrum.",
+                "hu": "Központi parkoló, közel a főtérhez.",
+                "ro": "Parcare centrală, aproape de centru.",
+                "en": "Central parking, close to the square."
+              }
+            },
+            {
+              "name": "Revolution Square & Town Hall",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Gebäuden.",
+                "hu": "Rövid séták az épületek között.",
+                "ro": "Distanțe scurte între clădiri.",
+                "en": "Short distances between buildings."
+              }
+            },
+            {
+              "name": "Evangelical Fortified Church",
+              "tip_5lang": {
+                "de": "Parken direkt in der Nähe möglich.",
+                "hu": "Parkolás közvetlenül a közelben.",
+                "ro": "Parcare disponibilă chiar lângă.",
+                "en": "Parking available right nearby."
+              }
+            },
+            {
+              "name": "Museum of the Textile Industry",
+              "tip_5lang": {
+                "de": "Trockener Aufenthalt im Museum.",
+                "hu": "Száraz program a múzeumban.",
+                "ro": "Vizită la adăpost în muzeu.",
+                "en": "Dry visit inside the museum."
+              }
+            },
+            {
+              "name": "Măgura Leisure Park",
+              "tip_5lang": {
+                "de": "Zufahrt bis zum Parkeingang.",
+                "hu": "Behajtás a park bejáratáig.",
+                "ro": "Acces auto până la intrarea în parc.",
+                "en": "Car access right to the entrance."
+              }
+            },
+            {
+              "name": "Măgura Mountain Viewpoint",
+              "tip_5lang": {
+                "de": "Im Auto bleiben bei starkem Regen.",
+                "hu": "Maradjon a kocsiban nagy esőben.",
+                "ro": "Stați în mașină dacă plouă tare.",
+                "en": "Stay in the car during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Pfützen in den Seitenstraßen.",
+              "Der Aussichtspunkt kann bei Nebel schlechte Sicht haben.",
+              "Zentrale Parkplätze sind bei Regen oft belegt.",
+              "Halten Sie die Scheiben beschlagfrei."
+            ],
+            "hu": [
+              "Ügyeljen a tócsákra a mellékutcákban.",
+              "A kilátónál ködben korlátozott a látótávolság.",
+              "Az eső miatt a központi parkolók telítettek lehetnek.",
+              "Tartsa páramentesen az ablakokat."
+            ],
+            "ro": [
+              "Atenție la bălțile de pe străzile secundare.",
+              "Vizibilitate redusă la belvedere în caz de ceață.",
+              "Parcările centrale pot fi aglomerate pe ploaie.",
+              "Asigurați-vă că geamurile nu sunt aburite."
+            ],
+            "en": [
+              "Watch for deep puddles on side streets.",
+              "The viewpoint may have low visibility in fog.",
+              "Central parking spots fill up fast when it rains.",
+              "Keep your windshield clear of fog."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Tour durch Heltau beginnt am verschneiten Zentrumsparkplatz. Nach einem Besuch am Revolutionsplatz bietet die Kirchenburg mittags Schutz vor dem Frost. Das Textilmuseum ist der ideale Ort für den Nachmittag. Fahren Sie anschließend zum Măgura-Park und weiter zum Aussichtspunkt, um den Sonnenuntergang über den schneebedeckten Karpaten zu erleben.",
+            "hu": "A téli túra Nagydisznódon a havas központi parkolónál indul. A Forradalom tér után az erődtemplom falai védenek a fagy ellen. A Textilmúzeum ideális helyszín a délutánra. Autózzon fel a Măgura-parkhoz, majd a kilátóhoz, hogy megcsodálja a naplementét a havas Kárpátok felett.",
+            "ro": "Turul de iarnă în Cisnădie începe în parcarea înzăpezită din centru. După Piața Revoluției, biserica fortificată oferă adăpost contra gerului. Muzeul Textilelor este destinația ideală de după-amiază. Urcați cu mașina la Parcul Măgura și la belvedere pentru un apus deasupra Carpaților înzăpeziți.",
+            "en": "A winter tour of Cisnădie starts at the snowy central parking. After Revolution Square, the Fortified Church provides a shield against the frost. The Textile Museum is your ideal afternoon retreat. Drive up to Măgura Park and the viewpoint to witness a winter sunset over the snow-capped Carpathians."
+          },
+          "stops": [
+            {
+              "name": "City Center Parking",
+              "tip_5lang": {
+                "de": "Vorsicht beim Rangieren auf Schnee.",
+                "hu": "Vigyázzon a manőverezéssel a hóban.",
+                "ro": "Atenție la manevrele pe zăpadă.",
+                "en": "Careful when maneuvering in snow."
+              }
+            },
+            {
+              "name": "Revolution Square & Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer, frostiger Rundgang.",
+                "hu": "Rövid, fagyos séta.",
+                "ro": "Plimbare scurtă și geroasă.",
+                "en": "Short, frosty walking tour."
+              }
+            },
+            {
+              "name": "Evangelical Fortified Church",
+              "tip_5lang": {
+                "de": "Besuch im historischen Ambiente.",
+                "hu": "Látogatás történelmi környezetben.",
+                "ro": "Vizită în ambianță istorică.",
+                "en": "Visit in a historic atmosphere."
+              }
+            },
+            {
+              "name": "Museum of the Textile Industry",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren.",
+                "hu": "Élvezze a benti meleget.",
+                "ro": "Bucurați-vă de căldura din interior.",
+                "en": "Enjoy the warmth inside."
+              }
+            },
+            {
+              "name": "Măgura Leisure Park",
+              "tip_5lang": {
+                "de": "Winterreifen für Bergfahrt nötig.",
+                "hu": "Téli gumi kell a hegyi úthoz.",
+                "ro": "Anvelope de iarnă obligatorii.",
+                "en": "Winter tires needed for the climb."
+              }
+            },
+            {
+              "name": "Măgura Mountain Viewpoint",
+              "tip_5lang": {
+                "de": "Herrliches Panorama bei Sonnenuntergang.",
+                "hu": "Pazar panoráma naplementekor.",
+                "ro": "Panoramă superbă la apus.",
+                "en": "Stunning panorama at sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und ggf. Schneeketten mitführen.",
+              "Die Bergstraße zur Măgura kann glatt sein.",
+              "Heizung im Auto vor der Wanderung prüfen.",
+              "Eiskratzer für die Abendstunden bereithalten."
+            ],
+            "hu": [
+              "Téli gumi és hólánc legyen kéznél.",
+              "A Măgura felé vezető út csúszós lehet.",
+              "Ellenőrizze a fűtést a túra előtt.",
+              "Készítse elő a jégkaparót estére."
+            ],
+            "ro": [
+              "Anvelope de iarnă și lanțuri necesare.",
+              "Drumul spre Măgura poate fi alunecos.",
+              "Verificați încălzirea înainte de plecare.",
+              "Pregătiți răzuitoarea de gheață pentru seară."
+            ],
+            "en": [
+              "Winter tires and snow chains are essential.",
+              "The mountain road to Măgura can be icy.",
+              "Check car heating before the park walk.",
+              "Have an ice scraper ready for the evening."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1226,6 +1772,170 @@
           "A day pass might be more cost-effective if you plan on multiple trips.",
           "Be aware of the last bus back to the center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Bus, um Heltau im Regen zu erkunden. Vom Revolutionsplatz bringt Sie der Nahverkehr schnell zur Kirchenburg. Nach einem trockenen Mittag dort geht es weiter zum Textilmuseum. Am Nachmittag bringt Sie der Bus in die Nähe des Măgura-Parks. Trotz Regen bleibt die Fahrt dank der überdachten Haltestellen im Zentrum komfortabel.",
+            "hu": "Használja a buszt Nagydisznódon esős időben. A Forradalom térről a járatok gyorsan az erődtemplomhoz viszik. Egy száraz délelőtt után irány a Textilmúzeum. Délután a busz a Măgura-park közelébe szállítja Önt. Az eső ellenére a központi fedett megállók kényelmessé teszik az utazást.",
+            "ro": "Folosiți autobuzul pentru a explora Cisnădia pe ploaie. Din Piața Revoluției, transportul local vă duce rapid la biserică. După o dimineață uscată, continuați spre Muzeul Textilelor. După-amiaza, autobuzul vă lasă aproape de Parcul Măgura. Călătoria rămâne confortabilă datorită stațiilor acoperite.",
+            "en": "Use the bus to explore Cisnădie in the rain. Local transit quickly takes you from Revolution Square to the Fortified Church. After a dry midday visit, head to the Textile Museum. In the afternoon, the bus drops you near Măgura Park. Despite the rain, covered central stops keep your trip comfortable."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop (Revolution Square)",
+              "tip_5lang": {
+                "de": "Überdachte Wartehalle vorhanden.",
+                "hu": "Fedett váróhely áll rendelkezésre.",
+                "ro": "Stație cu adăpost disponibilă.",
+                "en": "Covered waiting area available."
+              }
+            },
+            {
+              "name": "Evangelical Fortified Church",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle.",
+                "hu": "Rövid gyalogút a megállótól.",
+                "ro": "Drum scurt pe jos de la stație.",
+                "en": "Short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Museum of the Textile Industry",
+              "tip_5lang": {
+                "de": "Innenbesichtigung einplanen.",
+                "hu": "Tervezzen benti látogatást.",
+                "ro": "Planificați vizita la interior.",
+                "en": "Plan for an indoor visit."
+              }
+            },
+            {
+              "name": "Bus stop towards the Park",
+              "tip_5lang": {
+                "de": "Schirm bereithalten beim Umsteigen.",
+                "hu": "Legyen kéznél az esernyő.",
+                "ro": "Pregătiți umbrela la transbordare.",
+                "en": "Have your umbrella ready here."
+              }
+            },
+            {
+              "name": "Măgura Leisure Park",
+              "tip_5lang": {
+                "de": "Feste Wege im Park nutzen.",
+                "hu": "Használja a szilárd burkolatú utakat.",
+                "ro": "Folosiți aleile asfaltate.",
+                "en": "Stay on the paved pathways."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan bei schlechtem Wetter.",
+              "Halten Sie Kleingeld für das Ticket bereit.",
+              "Nutzen Sie Busse als Regenschutz-Pause.",
+              "Tragen Sie wasserfeste Kleidung für die Fußwege."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet rossz időben.",
+              "Készítsen elő aprópénzt a jegyhez.",
+              "Használja a buszokat eső elleni szünetként.",
+              "Viseljen vízálló ruhát a sétákhoz."
+            ],
+            "ro": [
+              "Verificați orarul în caz de vreme rea.",
+              "Pregătiți bani mărunți pentru bilet.",
+              "Folosiți autobuzele ca refugiu de ploaie.",
+              "Purtați haine impermeabile pentru transferuri."
+            ],
+            "en": [
+              "Check the schedule during bad weather.",
+              "Keep small change ready for tickets.",
+              "Use bus rides as a break from the rain.",
+              "Wear waterproof clothes for stop transfers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winterbus bringt Sie sicher durch das verschneite Heltau. Starten Sie am zentralen Revolutionsplatz. Mittags erreichen Sie bequem die Kirchenburg, wo die Kälte draußen bleibt. Das Textilmuseum am Nachmittag ist ein warmer Zwischenstopp. Die Tour endet im winterlichen Măgura-Park, bevor Sie den Bus zurück ins gemütliche Stadtzentrum nehmen.",
+            "hu": "A téli buszjárat biztonságosan viszi át a havas Nagydisznódon. Induljon a központi Forradalom térről. Délben kényelmesen eléri az erődtemplomot, ahol a falak védenek a hidegtől. A Textilmúzeum délután meleg pihenőhely. A túra a téli Măgura-parkban zárul, mielőtt visszabuszozna a központba.",
+            "ro": "Autobuzul de iarnă vă poartă în siguranță prin Cisnădia înzăpezită. Porniți din Piața Revoluției. La prânz ajungeți ușor la biserica fortificată, unde frigul rămâne afară. Muzeul Textilelor este un popas călduros după-amiaza. Turul se încheie în Parcul Măgura, înainte de a lua autobuzul spre centru.",
+            "en": "The winter bus carries you safely through snowy Cisnădie. Start at the central Revolution Square. By midday, easily reach the Fortified Church, where the cold stays outside. The Textile Museum is a warm afternoon highlight. The tour ends in the wintry Măgura Park before catching the bus back to the cozy center."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop (Revolution Square)",
+              "tip_5lang": {
+                "de": "Im Bus aufwärmen.",
+                "hu": "Melegedjen fel a buszon.",
+                "ro": "Încălziți-vă în interiorul autobuzului.",
+                "en": "Warm up inside the bus."
+              }
+            },
+            {
+              "name": "Evangelical Fortified Church",
+              "tip_5lang": {
+                "de": "Eingeschränkter Winterfahrplan möglich.",
+                "hu": "Téli menetrendi korlátozás lehet.",
+                "ro": "Posibile limitări în orarul de iarnă.",
+                "en": "Possible winter schedule changes."
+              }
+            },
+            {
+              "name": "Museum of the Textile Industry",
+              "tip_5lang": {
+                "de": "Gemütlicher Aufenthalt im Warmen.",
+                "hu": "Kellemes időtöltés a melegben.",
+                "ro": "Popas plăcut la căldură.",
+                "en": "Pleasant stay in the warmth."
+              }
+            },
+            {
+              "name": "Bus stop towards the Park",
+              "tip_5lang": {
+                "de": "Wartezeiten im Kalten minimieren.",
+                "hu": "Minimalizálja a várakozást a hidegben.",
+                "ro": "Minimizați așteptarea în frig.",
+                "en": "Minimize waiting time in the cold."
+              }
+            },
+            {
+              "name": "Măgura Leisure Park",
+              "tip_5lang": {
+                "de": "Rückfahrt vor Dunkelheit planen.",
+                "hu": "Tervezze meg a visszautat sötétedés előtt.",
+                "ro": "Planificați returul înainte de seară.",
+                "en": "Plan your return before dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft verspätet.",
+              "Tragen Sie warme Schuhe für die Haltestellen.",
+              "Nutzen Sie Apps für Live-Fahrpläne.",
+              "Die Busse sind gut beheizt."
+            ],
+            "hu": [
+              "A buszok télen késhetnek.",
+              "Viseljen meleg cipőt a megállókban.",
+              "Használjon menetrendi alkalmazásokat.",
+              "A buszok jól fűtöttek."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri iarna.",
+              "Purtați încălțăminte groasă pentru stații.",
+              "Folosiți aplicații pentru orarul live.",
+              "Autobuzele sunt bine încălzite."
+            ],
+            "en": [
+              "Buses may experience winter delays.",
+              "Wear warm shoes while waiting at stops.",
+              "Use transit apps for live updates.",
+              "Buses are generally well-heated."
+            ]
+          }
+        }
       }
     }
   }

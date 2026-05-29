@@ -338,6 +338,196 @@
           "Check the opening hours of the churches as they may be closed for services.",
           "Most sights in the center are within easy walking distance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag unter den Arkaden des Ringes, wo die historischen Gebäude Schutz bieten. Der kurze Weg zur Allerheiligenkirche führt durch enge Gassen.\n\nMittags bietet der Dom St. Peter und Paul einen majestätischen und trockenen Rückzugsort. Die gotische Architektur wirkt bei Regen besonders stimmungsvoll.\n\nDer Nachmittag gehört dem Schloss der Piasten. In den Museumssälen vergessen Sie das graue Wetter draußen bei lokaler Geschichte.\n\nAbends genießen Sie ein gemütliches polnisches Abendessen in der Altstadt, während der Regen gegen die Fensterscheiben der warmen Restaurants prasselt.",
+            "hu": "Kezdje a napot a Főtér árkádjai alatt, ahol a történelmi épületek védelmet nyújtanak. A Mindenszentek templomához vezető rövid út szűk utcákon át kanyarog.\n\nDélben a Szent Péter és Pál székesegyház fenséges és száraz menedéket kínál. A gótikus architektúra esőben különösen hangulatos.\n\nA délutánt töltse a Piast-kastélyban. A múzeum termeiben a helyi történelem felfedezése közben teljesen elfelejti a kinti szürke időt.\n\nEste élvezzen egy kellemes lengyel vacsorát az óvárosban, miközben az eső kopog a meleg éttermek ablakain.",
+            "ro": "Începeți ziua sub arcadele Pieței Centrale, unde clădirile istorice oferă adăpost. Scurtul drum spre Biserica Tuturor Sfinților trece prin străduțe înguste.\n\nLa prânz, Catedrala Sf. Petru și Paul oferă un refugiu maiestuos și uscat. Arhitectura gotică este deosebit de atmosferică pe ploaie.\n\nDupă-amiaza aparține Castelului Piast. În sălile muzeului, veți uita de vremea gri de afară explorând istoria locală.\n\nSeara, savurați o cină poloneză caldă în orașul vechi, în timp ce ploaia bate în geamurile restaurantelor primitoare.",
+            "en": "Start your day under the arcades of the Market Square, where historic buildings provide shelter. The short walk to All Saints' Church winds through narrow streets.\n\nAt noon, the Cathedral of St. Peter and Paul offers a majestic and dry sanctuary. The Gothic architecture feels especially atmospheric in the rain.\n\nSpend the afternoon at the Piast Castle. Inside the museum halls, you'll forget the grey weather while exploring local history.\n\nIn the evening, enjoy a cozy Polish dinner in the Old Town, listening to the rain tapping against the windows of warm restaurants."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Bürgerhäuser, um trocken um den Platz zu spazieren.",
+                "hu": "Használja a polgárházak árkádjait a száraz körbejáráshoz.",
+                "ro": "Folosiți arcadele caselor pentru a vă plimba în jurul pieței fără să vă udați.",
+                "en": "Use the arcades of the townhouses to walk around the square while staying dry."
+              }
+            },
+            {
+              "name": "Fountain with Three Fates",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; die Brunnenfiguren glänzen im Regen besonders schön.",
+                "hu": "Gyors fotómegálló; a szobrok esőben különösen szépen csillognak.",
+                "ro": "Scurt popas pentru poze; statuile strălucesc frumos în ploaie.",
+                "en": "Quick photo stop; the fountain statues glisten beautifully in the rain."
+              }
+            },
+            {
+              "name": "All Saints' Church",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um einen heftigen Schauer im stillen Gebet abzuwarten.",
+                "hu": "Tökéletes hely egy nagyobb zápor kivárására csendes környezetben.",
+                "ro": "Un loc perfect pentru a aștepta trecerea unei averse în liniște.",
+                "en": "A perfect place to wait out a heavy downpour in silent contemplation."
+              }
+            },
+            {
+              "name": "Cathedral of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Glasmalereien, die bei trübem Licht mystisch wirken.",
+                "hu": "Csodálja meg az üvegablakokat, amelyek borús fényben misztikusak.",
+                "ro": "Admirați vitraliile care par mistice în lumina difuză a zilei ploioase.",
+                "en": "Admire the stained glass windows, which look mystical in the gloomy light."
+              }
+            },
+            {
+              "name": "Piast Castle & Museum of Casting",
+              "tip_5lang": {
+                "de": "Ideales Schlechtwetterprogramm mit umfangreichen Innenausstellungen.",
+                "hu": "Ideális rosszidős program kiterjedt beltéri kiállításokkal.",
+                "ro": "Program ideal pentru vreme rea, cu expoziții interioare vaste.",
+                "en": "Ideal bad-weather activity with extensive indoor exhibitions."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Garderobe für Ihre nassen Regenschirme.",
+                "hu": "Válasszon ruhatárral rendelkező éttermet a vizes esernyőknek.",
+                "ro": "Alegeți un restaurant cu spațiu pentru umbrelele ude.",
+                "en": "Choose a restaurant with a cloakroom or stand for your wet umbrellas."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gliwice hat viele Arkaden in der Altstadt, die guten Regenschutz bieten.",
+              "Die Gehwege können bei Nässe rutschig sein, tragen Sie rutschfeste Schuhe.",
+              "Das Museum im Piastenschloss ist montags oft geschlossen, prüfen Sie die Zeiten.",
+              "In der Nähe des Marktplatzes gibt es viele Cafés für eine kurze Trockenpause.",
+              "Ein Taschenschirm ist wegen des Windes in den Gassen oft praktischer als ein großer."
+            ],
+            "hu": [
+              "Gliwice óvárosában sok az árkád, ami jó védelmet nyújt az eső ellen.",
+              "A járdák vizesen csúszósak lehetnek, viseljen tapadós talpú cipőt.",
+              "A Piast-kastély múzeuma hétfőnként gyakran zárva van, ellenőrizze.",
+              "A főtér környékén sok kávézó várja, ha egy kis száradásra vágyna.",
+              "Az utcák közti szél miatt egy összecsukható ernyő praktikusabb, mint a nagy."
+            ],
+            "ro": [
+              "Gliwice are multe arcade în orașul vechi care oferă protecție bună la ploaie.",
+              "Trotuarele pot fi alunecoase când sunt ude, purtați încălțăminte aderentă.",
+              "Muzeul din Castelul Piast este adesea închis lunea, verificați programul.",
+              "Există multe cafenele lângă piață pentru o pauză scurtă de uscare.",
+              "O umbrelă pliabilă este mai practică decât una mare din cauza vântului dintre clădiri."
+            ],
+            "en": [
+              "Gliwice has many arcades in the Old Town providing good rain cover.",
+              "Pavements can be slippery when wet, so wear shoes with good grip.",
+              "The Piast Castle museum is often closed on Mondays, double-check the hours.",
+              "There are plenty of cafes near the square for a quick drying-off break.",
+              "A compact umbrella is often more practical than a large one due to wind in alleys."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Marktplatz erstrahlt im Winterlicht, oft geschmückt mit festlicher Dekoration. Die Kälte beißt, aber der Anblick des Rathauses erwärmt das Herz.\n\nMittags suchen wir die Wärme der Kathedrale. Die dicken Mauern isolieren gegen den Frost und bieten eine friedliche Stille.\n\nDer Nachmittag im Piastenschloss ist perfekt, um der Kälte zu entkommen. Die Geschichte Oberschlesiens wird in beheizten Räumen lebendig.\n\nZum Abendessen locken die Kellerrestaurants der Altstadt mit deftigen schlesischen Gerichten, die ideal für einen kalten Wintertag sind.",
+            "hu": "A Főtér téli fényben ragyog, gyakran ünnepi díszítésbe öltözve. A hideg csípős, de a városháza látványa melengeti a szívet.\n\nDélben a székesegyház melegét keressük. A vastag falak szigetelnek a fagy ellen, és békés csendet árasztanak.\n\nA délután a Piast-kastélyban tökéletes a hideg elől való menekülésre. Felső-Szilézia történelme fűtött termekben elevenedik meg.\n\nVacsoraidőben az óváros pincéiben lévő éttermek csalogatnak kiadós sziléziai ételekkel, melyek ideálisak egy téli napra.",
+            "ro": "Piața Centrală strălucește în lumina de iarnă, adesea împodobită festiv. Frigul este tăios, dar vederea primăriei încălzește inima.\n\nLa prânz, căutăm căldura catedralei. Zidurile groase izolează împotriva gerului și oferă o liniște deplină.\n\nDupă-amiaza la Castelul Piast este perfectă pentru a scăpa de frig. Istoria Sileziei Superioare prinde viață în săli încălzite.\n\nLa cină, restaurantele de la subsol din orașul vechi vă atrag cu mâncăruri sileziene consistente, ideale pentru o zi de iarnă.",
+            "en": "The Market Square shines in the winter light, often adorned with festive decorations. The cold is biting, but the sight of the Town Hall warms the heart.\n\nAt noon, we seek the warmth of the Cathedral. Its thick walls insulate against the frost and offer a peaceful silence.\n\nAn afternoon in the Piast Castle is perfect for escaping the cold. Upper Silesian history comes alive in heated rooms.\n\nFor dinner, the cellar restaurants of the Old Town beckon with hearty Silesian dishes, ideal for a cold winter day."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Genießen Sie die Weihnachtsbeleuchtung; Vorsicht vor Glatteis auf dem Kopfsteinpflaster.",
+                "hu": "Élvezze a karácsonyi fényeket; vigyázzon a jeges macskaköveken.",
+                "ro": "Bucurați-vă de luminile de Crăciun; atenție la gheața de pe pavaj.",
+                "en": "Enjoy the Christmas lights; watch out for black ice on the cobblestones."
+              }
+            },
+            {
+              "name": "Fountain with Three Fates",
+              "tip_5lang": {
+                "de": "Der Brunnen ist meist außer Betrieb, bildet aber oft schöne Eisskulpturen.",
+                "hu": "A szökőkút ilyenkor nem üzemel, de gyakran szép jégszobrok díszítik.",
+                "ro": "Fântâna este de obicei oprită, dar adesea formează sculpturi de gheață.",
+                "en": "The fountain is usually off, but often forms beautiful ice sculptures."
+              }
+            },
+            {
+              "name": "All Saints' Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort zum Aufwärmen zwischen den Spaziergängen.",
+                "hu": "Csendes hely egy kis felmelegedéshez a séták között.",
+                "ro": "Un loc liniștit pentru a vă încălzi între plimbări.",
+                "en": "A quiet place to warm up between segments of your walk."
+              }
+            },
+            {
+              "name": "Cathedral of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, in den großen Kirchenschiffen bleibt es kühl.",
+                "hu": "Öltözzön rétegesen, a nagy templomhajókban hideg maradhat az idő.",
+                "ro": "Îmbrăcați-vă bine, interiorul catedralei poate rămâne destul de rece.",
+                "en": "Dress warmly as the large nave can remain quite chilly."
+              }
+            },
+            {
+              "name": "Piast Castle & Museum of Casting",
+              "tip_5lang": {
+                "de": "Geben Sie Ihren Mantel an der Garderobe ab, um die Ausstellung bequem zu sehen.",
+                "hu": "Adja le kabátját a ruhatárban a kényelmes múzeumlátogatáshoz.",
+                "ro": "Lăsați haina la garderobă pentru a vizita expoziția confortabil.",
+                "en": "Leave your coat at the cloakroom to enjoy the exhibition comfortably."
+              }
+            },
+            {
+              "name": "Lunch in the Old Town",
+              "tip_5lang": {
+                "de": "Probieren Sie 'Rolada śląska' – ein perfektes, wärmendes Winteressen.",
+                "hu": "Kóstolja meg a 'Rolada śląska'-t, ami tökéletes melengető téli étel.",
+                "ro": "Încercați „Rolada śląska” – o mâncare de iarnă perfectă și sățioasă.",
+                "en": "Try 'Rolada śląska' – a perfect, warming winter meal."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:00 Uhr unter.",
+              "Achten Sie auf Schneeräumfahrzeuge in der Fußgängerzone.",
+              "Warme Getränke wie 'Grzaniec' (Glühwein) werden auf dem Markt angeboten.",
+              "Öffentliche Gebäude und Kirchen sind gute Wärmequellen auf der Route.",
+              "Tragen Sie Schuhe mit isolierter Sohle gegen die Kälte des Steinbodens."
+            ],
+            "hu": [
+              "A nap decemberben már 16:00 óra körül lemegy.",
+              "Figyeljen a hóeltakarító járművekre a sétálóövezetben.",
+              "A piacon gyakran árulnak forró italokat, például forralt bort.",
+              "A középületek és templomok jó melegedőpontok az útvonalon.",
+              "Viseljen hőszigetelt talpú cipőt a kőburkolat hidege ellen."
+            ],
+            "ro": [
+              "Soarele apune deja în jur de ora 16:00 în luna decembrie.",
+              "Atenție la utilajele de deszăpezire în zona pietonală.",
+              "Băuturi calde precum vinul fiert sunt disponibile în piață.",
+              "Clădirile publice și bisericile sunt puncte bune de încălzire pe traseu.",
+              "Purtați încălțăminte cu talpă izolatoare împotriva frigului pietrei."
+            ],
+            "en": [
+              "The sun sets as early as 4:00 PM in December.",
+              "Watch out for snow removal vehicles in the pedestrian zones.",
+              "Hot drinks like mulled wine ('Grzaniec') are often sold in the square.",
+              "Public buildings and churches are good warm-up spots along the route.",
+              "Wear shoes with insulated soles against the cold of the stone pavement."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -654,6 +844,196 @@
           "Some streets in the Old Town have cobblestones, ride carefully.",
           "Allow enough time for the ride to the Radio Station."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotzen Sie dem Wetter auf zwei Rädern. Der Marktplatz ist nass, aber die Fahrt zum Schloss ist kurz und bietet schnellen Unterschlupf.\n\nNach dem Museumsbesuch radeln wir vorsichtig zur Kathedrale. Die Pfützen spiegeln die Backsteinfassade wider.\n\nMittags suchen wir uns einen Platz, wo wir die nasse Kleidung trocknen können. Danach geht es zum Palmenhaus – der ultimative Ort, um dem Regen zu entfliehen.\n\nZum Abschluss führt der Weg zum Radiosender. Der markante Turm wirkt im Nebel und Regen fast wie eine Geistererscheinung aus der Geschichte.",
+            "hu": "Dacoljon az időjárással két keréken. A Főtér vizes, de az út a kastélyig rövid, és gyors menedéket nyújt.\n\nA múzeumlátogatás után óvatosan tekerünk a székesegyházig. A tócsákban tükröződik a téglafalú homlokzat.\n\nEbédnél olyan helyet keressünk, ahol megszáríthatjuk vizes ruháinkat. Utána irány a Pálmaház – a végső menedék az eső elől.\n\nZárásként az út a Rádióállomáshoz vezet. A jellegzetes torony a ködben és esőben szinte kísérteties jelenségként magasodik a táj fölé.",
+            "ro": "Înfruntați vremea pe două roți. Piața este udă, dar drumul spre castel este scurt și oferă adăpost rapid.\n\nDupă vizitarea muzeului, pedalăm cu grijă spre catedrală. Bălțile reflectă fațada de cărămidă.\n\nLa prânz, căutăm un loc unde să ne uscăm hainele ude. Apoi mergem la Palmitariu – locul suprem pentru a scăpa de ploaie.\n\nLa final, drumul duce la Stația Radio. Turnul distinctiv pare aproape o apariție fantomatică în ceață și ploaie.",
+            "en": "Brave the weather on two wheels. The Market Square is wet, but the ride to the castle is short and provides quick shelter.\n\nAfter the museum visit, cycle carefully to the Cathedral. Puddles reflect the brick facade.\n\nAt lunch, look for a place to dry your gear. Then head to the Palm House – the ultimate escape from the rain.\n\nFinally, the path leads to the Radio Station. The iconic tower looks almost ghostly in the mist and rain, a monument to history."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Vorsicht bei den Straßenbahnschienen, diese sind bei Regen extrem rutschig.",
+                "hu": "Vigyázzon a villamossíneken, esőben rendkívül csúszósak.",
+                "ro": "Atenție la șinele de tramvai, sunt extrem de alunecoase pe ploaie.",
+                "en": "Watch out for tram tracks; they become extremely slippery in the rain."
+              }
+            },
+            {
+              "name": "Piast Castle & Museum of Casting",
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer befinden sich in der Nähe des Eingangs.",
+                "hu": "Biztonságos biciklitárolók találhatók a bejárat közelében.",
+                "ro": "Suporturi sigure pentru biciclete se află lângă intrare.",
+                "en": "Secure bike racks are located near the entrance."
+              }
+            },
+            {
+              "name": "Cathedral of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Der Vorplatz bietet wenig Schutz; nutzen Sie das Kircheninnere zum Trocknen.",
+                "hu": "Az előtér kevés védelmet nyújt; használja a templombelsőt a száradáshoz.",
+                "ro": "Piața din față ofer_ puțin adăpost; folosiți interiorul pentru a vă usca.",
+                "en": "The forecourt offers little cover; use the church interior to dry off."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit Sicht auf Ihr Fahrrad, um es im Auge zu behalten.",
+                "hu": "Keressen olyan helyet, ahonnan rálát a biciklijére.",
+                "ro": "Căutați un local cu vedere la bicicletă pentru a o supraveghea.",
+                "en": "Look for a spot with a view of your bike to keep an eye on it."
+              }
+            },
+            {
+              "name": "Palm House",
+              "tip_5lang": {
+                "de": "Ein Paradies bei Regen: Tropisches Klima und absolute Trockenheit genießen.",
+                "hu": "Paradicsom esőben: élvezze a trópusi klímát és a teljes szárazságot.",
+                "ro": "Un paradis pe ploaie: bucurați-vă de climatul tropical și uscăciune.",
+                "en": "A paradise in the rain: enjoy the tropical climate and total dryness."
+              }
+            },
+            {
+              "name": "Gliwice Radio Station",
+              "tip_5lang": {
+                "de": "Der Boden um den Turm kann schlammig sein; bleiben Sie auf den befestigten Wegen.",
+                "hu": "A torony körüli talaj sáros lehet; maradjon a kövezett utakon.",
+                "ro": "Solul din jurul turnului poate fi noroios; rămâneți pe potecile pavate.",
+                "en": "The ground around the tower can be muddy; stay on the paved paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein hochwertiger Regenponcho ist für diese Tour unerlässlich.",
+              "Prüfen Sie Ihre Bremsbeläge; Nässe verlängert den Bremsweg erheblich.",
+              "Schutzbleche am Fahrrad verhindern, dass Schmutzwasser hochspritzt.",
+              "Im Palmenhaus können Sie sich aufwärmen und die Jacke ausziehen.",
+              "Die Fahrt zum Radiosender führt über offenere Straßen mit Wind."
+            ],
+            "hu": [
+              "Egy jó minőségű esőponcsó elengedhetetlen ehhez a túrához.",
+              "Ellenőrizze a fékeket; a nedvesség jelentősen növeli a féktávot.",
+              "A sárvédő megakadályozza, hogy a felverődő víz összekoszolja.",
+              "A Pálmaházban felmelegedhet és leveheti a vizes kabátot.",
+              "A Rádióállomáshoz vezető út nyitottabb, szelesebb szakaszokon visz."
+            ],
+            "ro": [
+              "O pelerină de ploaie de calitate este esențială pentru acest tur.",
+              "Verificați frânele; umezeala mărește considerabil distanța de frânare.",
+              "Aripile la bicicletă previn stropirea cu apă murdară.",
+              "În Palmitariu vă puteți încălzi și puteți da jos haina udă.",
+              "Drumul spre Stația Radio trece prin zone mai deschise și vântoase."
+            ],
+            "en": [
+              "A high-quality rain poncho is essential for this tour.",
+              "Check your brake pads; wet conditions significantly increase braking distance.",
+              "Mudguards on your bike will prevent dirty water from splashing up.",
+              "You can warm up and take off your wet jacket in the Palm House.",
+              "The ride to the Radio Station involves more open, windy stretches."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterradeln in Gliwice erfordert Mut und gute Kleidung. Der Marktplatz wirkt unter einer Schneedecke zauberhaft und friedlich.\n\nDie Fahrt zum Schloss ist kurz genug, um nicht auszukühlen. Drinnen wartet die Geschichte bei angenehmen Temperaturen.\n\nNach dem Mittagessen radeln wir durch die klare Winterluft zum Palmenhaus. Der Kontrast zwischen dem Frost draußen und dem Dschungel drinnen ist spektakulär.\n\nAm späten Nachmittag erreichen wir den Radiosender. Im Winter wird der beleuchtete Turm schon früh zum weithin sichtbaren Orientierungspunkt.",
+            "hu": "A téli kerékpározás Gliwicében bátorságot és jó ruházatot igényel. A Főtér varázslatos és békés a hólepel alatt.\n\nA kastélyig tartó út elég rövid ahhoz, hogy ne hűljünk ki. Odabent kellemes hőmérsékleten vár a történelem.\n\nEbéd után a tiszta téli levegőn tekerünk a Pálmaházig. A kinti fagy és a benti dzsungel közti kontraszt látványos.\n\nKéső délután érjük el a Rádióállomást. Télen a kivilágított torony már korán messziről látható tájékozódási ponttá válik.",
+            "ro": "Ciclismul de iarnă în Gliwice necesită curaj și haine bune. Piața pare magică și liniștită sub un strat de zăpadă.\n\nDrumul spre castel este destul de scurt pentru a nu îngheța. Înăuntru, istoria așteaptă la temperaturi plăcute.\n\nDupă prânz, pedalăm prin aerul curat de iarnă spre Palmitariu. Contrastul dintre gerul de afară și jungla din interior este spectaculos.\n\nSpre seară ajungem la Stația Radio. Iarna, turnul iluminat devine devreme un punct de orientare vizibil de departe.",
+            "en": "Winter cycling in Gliwice requires courage and proper gear. The Market Square looks magical and peaceful under a blanket of snow.\n\nThe ride to the castle is short enough to stay warm. Inside, history awaits in comfortable temperatures.\n\nAfter lunch, cycle through the crisp winter air to the Palm House. The contrast between the frost outside and the jungle inside is spectacular.\n\nIn the late afternoon, reach the Radio Station. In winter, the illuminated tower becomes a landmark visible from afar quite early."
+          },
+          "stops": [
+            {
+              "name": "Market Square",
+              "tip_5lang": {
+                "de": "Vermeiden Sie hastige Lenkbewegungen auf möglicherweise vereistem Boden.",
+                "hu": "Kerülje a hirtelen kormánymozdulatokat az esetlegesen jeges talajon.",
+                "ro": "Evitați manevrele bruște pe solul care ar putea fi înghețat.",
+                "en": "Avoid sudden steering movements on potentially icy ground."
+              }
+            },
+            {
+              "name": "Piast Castle & Museum of Casting",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad an; das Metall des Schlosses kann bei Frost festfrieren.",
+                "hu": "Zárja le a biciklit; a zár fémrészei fagyban beragadhatnak.",
+                "ro": "Încuiați bicicleta; componentele metalice pot îngheța la temperaturi scăzute.",
+                "en": "Lock your bike carefully; metal locks can seize up in freezing temperatures."
+              }
+            },
+            {
+              "name": "Cathedral of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit zum Aufwärmen, bevor Sie wieder in den Wind gehen.",
+                "hu": "Szánjon időt a felmelegedésre, mielőtt újra kimene a szélbe.",
+                "ro": "Acordați-vă timp pentru a vă încălzi înainte de a ieși din nou în vânt.",
+                "en": "Take your time to warm up before heading back out into the wind."
+              }
+            },
+            {
+              "name": "Lunch",
+              "tip_5lang": {
+                "de": "Bestellen Sie eine heiße Suppe (Żurek), um Ihre Körpertemperatur zu halten.",
+                "hu": "Rendeljen forró levest (Żurek), hogy megtartsa testhőmérsékletét.",
+                "ro": "Comandați o supă fierbinte (Żurek) pentru a vă menține temperatura corpului.",
+                "en": "Order a hot soup (Żurek) to maintain your core body temperature."
+              }
+            },
+            {
+              "name": "Palm House",
+              "tip_5lang": {
+                "de": "Brillenträger aufgepasst: Die Gläser beschlagen beim Betreten sofort.",
+                "hu": "Szemüvegesek figyelem: a lencsék belépéskor azonnal bepárásodnak.",
+                "ro": "Atenție pentru purtătorii de ochelari: lentilele se vor aburi instantaneu.",
+                "en": "Glasses wearers beware: lenses will fog up instantly upon entry."
+              }
+            },
+            {
+              "name": "Gliwice Radio Station",
+              "tip_5lang": {
+                "de": "Wegen des frühen Sonnenuntergangs ist eine funktionierende Beleuchtung Pflicht.",
+                "hu": "A korai naplemente miatt a működő világítás kötelező.",
+                "ro": "Din cauza apusului timpuriu, iluminarea funcțională este obligatorie.",
+                "en": "Due to the early sunset, working lights are mandatory for this stretch."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe, die Wind und Kälte abhalten, aber Bremsen erlauben.",
+              "Reduzieren Sie den Reifendruck leicht für mehr Grip auf Schnee.",
+              "Die Batterie von E-Bikes verliert bei Kälte schneller an Kapazität.",
+              "Vermeiden Sie die Fahrt durch tiefen Matsch am Straßenrand.",
+              "Nutzen Sie die Radwege im Chopin-Park, diese werden oft geräumt."
+            ],
+            "hu": [
+              "Viseljen olyan kesztyűt, ami véd a széltől, de engedi a fékezést.",
+              "Kicsit csökkentse a keréknyomást a jobb tapadásért a havon.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül hidegben.",
+              "Kerülje az út szélén felhalmozódott mély latyakot.",
+              "Használja a Chopin-park kerékpárútjait, ezeket gyakran takarítják."
+            ],
+            "ro": [
+              "Purtați mănuși care opresc vântul, dar permit acționarea frânelor.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe zăpadă.",
+              "Bateria bicicletelor electrice își pierde capacitatea mai repede la frig.",
+              "Evitați să pedalați prin noroiul adânc de la marginea drumului.",
+              "Folosiți pistele din Parcul Chopin, acestea sunt adesea curățate."
+            ],
+            "en": [
+              "Wear gloves that block wind and cold but still allow for braking.",
+              "Slightly reduce tire pressure for better grip on snow.",
+              "E-bike batteries lose capacity much faster in cold weather.",
+              "Avoid riding through deep slush at the edges of the road.",
+              "Use the bike paths in Chopin Park as they are often cleared of snow."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -994,6 +1374,214 @@
           "Use designated parking garages in the city center.",
           "Pay attention to parking zones and any fees."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Gliwice auch bei Regen bequem. Wir starten am Radiosender, wo der Parkplatz direkt am geschichtsträchtigen Turm liegt.\n\nDie Fahrt geht weiter zum Palmenhaus. Hier parken wir im Trockenen und genießen die tropische Welt, während draußen der Regen fällt.\n\nMittags steuern wir das Parkhaus nahe der Altstadt an. Ein kurzer Sprint bringt uns zum Marktplatz und zum Schloss der Piasten.\n\nDen Tag lassen wir entspannt ausklingen. Die Kathedrale bietet einen würdigen Abschluss, bevor wir trocken den Heimweg antreten.",
+            "hu": "Autóval Gliwice esőben is kényelmes. A Rádióállomásnál kezdünk, ahol a parkoló közvetlenül a történelmi torony mellett található.\n\nAz út a Pálmaházhoz folytatódik. Itt szárazon parkolhatunk, és élvezhetjük a trópusi világot, miközben kint esik az eső.\n\nDélben az óvároshoz közeli parkolóházat keressük fel. Egy rövid futás, és már a Főtéren vagy a Piast-kastélyban vagyunk.\n\nA napot nyugodtan zárjuk. A székesegyház méltó befejezést kínál, mielőtt szárazon indulnánk haza.",
+            "ro": "Cu mașina, Gliwice este confortabil chiar și pe ploaie. Începem la Stația Radio, unde parcarea este chiar lângă turnul istoric.\n\nDrumul continuă spre Palmitariu. Aici parcăm la adăpost și ne bucurăm de lumea tropicală în timp ce afară plouă.\n\nLa prânz, ne îndreptăm spre parcarea de lângă orașul vechi. Un scurt sprint ne duce în Piața Centrală și la Castelul Piast.\n\nÎncheiem ziua relaxat. Catedrala oferă un final demn înainte de a porni spre casă la uscat.",
+            "en": "By car, Gliwice is comfortable even in the rain. We start at the Radio Station, where the parking is right next to the historic tower.\n\nThe journey continues to the Palm House. Park nearby and enjoy the tropical world while the rain falls outside.\n\nAt noon, head to the parking garage near the Old Town. A quick sprint brings us to the Market Square and the Piast Castle.\n\nEnd the day on a relaxed note. The Cathedral offers a dignified final stop before a dry drive home."
+          },
+          "stops": [
+            {
+              "name": "Parking at Gliwice Radio Station",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist unbefestigt; Vorsicht vor tiefen Pfützen.",
+                "hu": "A parkoló nem burkolt; vigyázzon a mély tócsákkal.",
+                "ro": "Parcarea este neasfaltată; atenție la bălțile adânci.",
+                "en": "The parking area is unpaved; watch out for deep puddles."
+              }
+            },
+            {
+              "name": "Gliwice Radio Station",
+              "tip_5lang": {
+                "de": "Kurze Wege vom Auto zum Turm minimieren den Kontakt mit dem Regen.",
+                "hu": "Az autótól a toronyig tartó rövid út minimalizálja az esővel való érintkezést.",
+                "ro": "Distanța scurtă de la mașină la turn minimizează contactul cu ploaia.",
+                "en": "The short distance from the car to the tower minimizes rain exposure."
+              }
+            },
+            {
+              "name": "Parking at the Palm House",
+              "tip_5lang": {
+                "de": "Versuchen Sie, so nah wie möglich am Haupteingang zu parken.",
+                "hu": "Próbáljon meg a lehető legközelebb parkolni a főbejárathoz.",
+                "ro": "Încercați să parcați cât mai aproape de intrarea principală.",
+                "en": "Try to park as close to the main entrance as possible."
+              }
+            },
+            {
+              "name": "Palm House",
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Schirme im Auto, um die Hände im Museum frei zu haben.",
+                "hu": "Hagyja a vizes ernyőket az autóban, hogy szabad legyen a keze.",
+                "ro": "Lăsați umbrelele ude în mașină pentru a avea mâinile libere în interior.",
+                "en": "Leave wet umbrellas in the car to keep your hands free inside."
+              }
+            },
+            {
+              "name": "Old Town Parking & Market Square",
+              "tip_5lang": {
+                "de": "Das Parkhaus 'Central' bietet komplett trockenen Zugang zur Altstadt.",
+                "hu": "A 'Central' parkolóház teljesen száraz kijutást biztosít az óvároshoz.",
+                "ro": "Parcarea supraetajată „Central” oferă acces complet uscat spre orașul vechi.",
+                "en": "The 'Central' parking garage provides fully dry access to the Old Town."
+              }
+            },
+            {
+              "name": "Piast Castle & Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Haupteingang; der Innenhof kann bei Regen ungemütlich sein.",
+                "hu": "Használja a főbejáratot; a belső udvar esőben barátságtalan lehet.",
+                "ro": "Folosiți intrarea principală; curtea interioară poate fi neplăcută pe ploaie.",
+                "en": "Use the main entrance; the courtyard can be unpleasant in the rain."
+              }
+            },
+            {
+              "name": "Cathedral and Lunch",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es Parkplätze mit Parkscheinautomaten; Kleingeld bereitthalten.",
+                "hu": "A közelben jegyautomatás parkolók vannak; legyen önnél aprópénz.",
+                "ro": "În apropiere sunt parcări cu taxă; pregătiți mărunțiș pentru automate.",
+                "en": "There are paid parking spots nearby; keep some coins ready for meters."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Wischerblätter vor der Fahrt für gute Sicht.",
+              "Die Straßen in der Innenstadt können bei Regen sehr spiegeln.",
+              "Parkhäuser sind im Zentrum praktischer als Parkplätze am Straßenrand.",
+              "Nutzen Sie die App 'moBILET' für die Parkgebühren im Auto.",
+              "Der Verkehr in Gliwice nimmt bei Regen oft deutlich zu."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket a jó látási viszonyokért.",
+              "A belvárosi utak esőben erősen tükröződhetnek.",
+              "A parkolóházak praktikusabbak a központban, mint az utcai helyek.",
+              "Használja a 'moBILET' alkalmazást a parkolási díjak fizetéséhez.",
+              "Gliwice forgalma esőben gyakran jelentősen megnő."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de drum pentru o vizibilitate bună.",
+              "Străzile din centru pot reflecta puternic lumina când sunt ude.",
+              "Parcările supraetajate sunt mai practice în centru decât locurile de la bordură.",
+              "Folosiți aplicația „moBILET” pentru a plăti parcarea direct din mașină.",
+              "Traficul în Gliwice crește adesea semnificativ când plouă."
+            ],
+            "en": [
+              "Check your wiper blades before setting off for good visibility.",
+              "Inner city roads can have strong reflections when wet at night.",
+              "Multi-story car parks are more practical in the center than street spots.",
+              "Use the 'moBILET' app to pay for parking from inside the car.",
+              "Traffic in Gliwice often increases significantly during rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Gliwice im Winter lässt sich am besten im beheizten Auto erkunden. Wir beginnen am Radiosender, wo der Turm im Frost besonders klar wirkt.\n\nWeiter geht es zum Palmenhaus. Hier parken wir und tauchen ein in die tropische Hitze – ein perfekter Kontrast zum Schnee draußen.\n\nMittags suchen wir uns ein Parkhaus in der Altstadt. Die kurzen Wege zum Marktplatz und zum Schloss machen den Aufenthalt angenehm.\n\nDen Tag beenden wir an der Kathedrale. Das warme Licht der Kirchenfenster leuchtet uns entgegen, bevor wir sicher durch die Winternacht fahren.",
+            "hu": "Gliwicét télen a legjobb fűtött autóval felfedezni. A Rádióállomásnál kezdünk, ahol a torony a fagyban különösen élesen fest.\n\nFolytatjuk utunkat a Pálmaházhoz. Itt leparkolunk, és elmerülünk a trópusi hőségben – tökéletes ellentét a kinti hóval.\n\nDélben az óvárosban keresünk parkolóházat. A Főtérhez és a kastélyhoz vezető rövid utak kellemessé teszik a látogatást.\n\nA napot a székesegyháznál fejezzük be. A templomablakok meleg fénye ragyog felénk, mielőtt biztonságban hazahajtanánk a téli éjszakában.",
+            "ro": "Gliwice iarna se explorează cel mai bine într-o mașină încălzită. Începem la Stația Radio, unde turnul pare deosebit de clar în ger.\n\nContinuăm spre Palmitariu. Parcăm aici și ne cufundăm în căldura tropicală – un contrast perfect cu zăpada de afară.\n\nLa prânz, căutăm o parcare acoperită în orașul vechi. Distanțele scurte spre piață și castel fac vizita plăcută.\n\nÎncheiem ziua la catedrală. Lumina caldă a vitraliilor ne întâmpină înainte de a conduce în siguranță prin noaptea de iarnă.",
+            "en": "Gliwice in winter is best explored from a heated car. We start at the Radio Station, where the tower looks particularly sharp in the frost.\n\nMove on to the Palm House. Park and dive into the tropical heat – a perfect contrast to the snow outside.\n\nAt noon, find a parking garage in the Old Town. Short walks to the Market Square and Castle make the visit enjoyable.\n\nEnd the day at the Cathedral. The warm light from the church windows greets us before a safe drive through the winter night."
+          },
+          "stops": [
+            {
+              "name": "Parking at Gliwice Radio Station",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Schneematsch auf dem Parkplatzgelände.",
+                "hu": "Vigyázzon a megfagyott latyakkal a parkoló területén.",
+                "ro": "Atenție la noroiul înghețat de pe terenul parcării.",
+                "en": "Watch out for frozen slush in the parking area."
+              }
+            },
+            {
+              "name": "Gliwice Radio Station",
+              "tip_5lang": {
+                "de": "Der Turm ist im Winter oft beleuchtet; ein toller Anblick vom Auto aus.",
+                "hu": "A torony télen gyakran ki van világítva; nagyszerű látvány az autóból.",
+                "ro": "Turnul este adesea iluminat iarna; o priveliște excelentă din mașină.",
+                "en": "The tower is often illuminated in winter; a great sight from the car."
+              }
+            },
+            {
+              "name": "Parking at the Palm House",
+              "tip_5lang": {
+                "de": "Achten Sie auf Eiszapfen, die von den umliegenden Dächern fallen könnten.",
+                "hu": "Figyeljen a környező tetőkről lehulló jégcsapokra.",
+                "ro": "Atenție la țurțurii care ar putea cădea de pe acoperișurile din jur.",
+                "en": "Watch out for icicles that could fall from surrounding roofs."
+              }
+            },
+            {
+              "name": "Palm House",
+              "tip_5lang": {
+                "de": "Idealer Ort zum Aufwärmen, während das Auto draußen abkühlt.",
+                "hu": "Ideális hely a felmelegedésre, miközben az autó kint hűl.",
+                "ro": "Locul ideal pentru a vă încălzi în timp ce mașina se răcește afară.",
+                "en": "The ideal place to warm up while your car cools down outside."
+              }
+            },
+            {
+              "name": "Old Town Parking & Market Square",
+              "tip_5lang": {
+                "de": "Ein Parkhaus schützt Ihr Auto vor neuem Schneefall während des Besuchs.",
+                "hu": "A parkolóház megvédi autóját az újabb havazástól a látogatás alatt.",
+                "ro": "O parcare acoperită vă protejează mașina de ninsori în timpul vizitei.",
+                "en": "A parking garage protects your car from fresh snowfall during your visit."
+              }
+            },
+            {
+              "name": "Piast Castle & Museum",
+              "tip_5lang": {
+                "de": "Planen Sie Zeit für die Garderobe ein, um schwere Winterkleidung abzugeben.",
+                "hu": "Számoljon időt a ruhatárra, hogy leadhassa a nehéz téli ruhákat.",
+                "ro": "Alocați timp pentru garderobă pentru a lăsa hainele groase de iarnă.",
+                "en": "Allow time for the cloakroom to drop off heavy winter coats."
+              }
+            },
+            {
+              "name": "Cathedral and Lunch",
+              "tip_5lang": {
+                "de": "Bei Dunkelheit ist der Bereich um die Kathedrale stimmungsvoll beleuchtet.",
+                "hu": "Sötétedés után a székesegyház környéke hangulatosan ki van világítva.",
+                "ro": "După lăsarea întunericului, zona catedralei este iluminată atmosferic.",
+                "en": "After dark, the area around the Cathedral is atmospherically lit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie immer einen Eiskratzer und Frostschutzmittel dabei.",
+              "Die Batterieleistung kann bei extremer Kälte abnehmen.",
+              "Achten Sie auf Glatteis in schattigen Gassen der Altstadt.",
+              "Der Winterdienst in Gliwice ist meist schnell, aber Vorsicht bleibt geboten.",
+              "Warmlaufenlassen des Motors im Stand ist in Polen verboten."
+            ],
+            "hu": [
+              "Mindig legyen önnél jégkaparó és fagyálló folyadék.",
+              "Az akkumulátor teljesítménye extrém hidegben csökkenhet.",
+              "Vigyázzon a jegesedésre az óváros árnyékos utcáiban.",
+              "A hóeltakarítás Gliwicében általában gyors, de legyen óvatos.",
+              "Lengyelországban tilos az álló autó motorjának járatása melegítés céljából."
+            ],
+            "ro": [
+              "Aveți întotdeauna la îndemână o racletă și lichid antigel.",
+              "Performanța bateriei poate scădea la temperaturi extrem de scăzute.",
+              "Atenție la polei pe străduțele umbrite din orașul vechi.",
+              "Serviciile de deszăpezire din Gliwice sunt rapide, dar prudența e necesară.",
+              "Încălzirea motorului pe loc este interzisă în Polonia."
+            ],
+            "en": [
+              "Always carry an ice scraper and anti-freeze with you.",
+              "Battery performance can drop significantly in extreme cold.",
+              "Watch out for black ice in the shaded alleys of the Old Town.",
+              "Snow removal in Gliwice is usually efficient, but remain cautious.",
+              "Idling your engine to warm up the car is prohibited in Poland."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1334,6 +1922,214 @@
           "Download a public transport app to see routes and schedules in real time.",
           "Note that buses may run less frequently on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das dichte Busnetz von Gliwice, um trocken durch die Stadt zu kommen. Der Marktplatz ist der zentrale Knotenpunkt.\n\nNach dem Besuch im Piastenschloss bringt Sie ein Bus direkt zur Kathedrale. So vermeiden Sie lange Wege im Regen.\n\nMittags fahren wir zum Palmenhaus. Die Haltestellen liegen nah am Eingang, sodass Sie nur kurz dem Wetter ausgesetzt sind.\n\nAm späten Nachmittag nehmen wir die Linie zum Radiosender. Die Fahrt bietet einen Moment der Ruhe, während draußen der Regen gegen die Busscheiben trommelt.",
+            "hu": "Használja Gliwice sűrű buszhálózatát, hogy szárazon jusson át a városon. A Főtér a központi csomópont.\n\nA Piast-kastély látogatása után egy busz közvetlenül a székesegyházhoz viszi, elkerülve a hosszú esős sétákat.\n\nDélben a Pálmaházhoz utazunk. A megállók közel vannak a bejárathoz, így csak rövid ideig kell az esőben lennie.\n\nKéső délután a Rádióállomáshoz tartó járatra szállunk. Az út egy kis nyugalmat ad, miközben kint az eső veri a busz ablakát.",
+            "ro": "Folosiți rețeaua densă de autobuze din Gliwice pentru a traversa orașul la uscat. Piața este nodul central.\n\nDupă vizitarea Castelului Piast, un autobuz vă duce direct la catedrală, evitând plimbările lungi prin ploaie.\n\nLa prânz mergem la Palmitariu. Stațiile sunt aproape de intrare, deci veți fi expuși vremii doar scurt timp.\n\nSpre seară luăm linia spre Stația Radio. Călătoria oferă un moment de liniște în timp ce afară ploaia bate în geamurile autobuzului.",
+            "en": "Use Gliwice's dense bus network to get around the city while staying dry. The Market Square serves as the central hub.\n\nAfter visiting the Piast Castle, a bus will take you directly to the Cathedral, helping you avoid long walks in the rain.\n\nAt noon, head to the Palm House. The stops are close to the entrance, minimizing your exposure to the weather.\n\nIn the late afternoon, take the line to the Radio Station. The ride offers a moment of peace as the rain drums against the bus windows."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Market Square (Center)",
+              "tip_5lang": {
+                "de": "Zentrale Haltestellen haben oft elektronische Anzeigen mit Echtzeit-Infos.",
+                "hu": "A központi megállókban gyakran van elektronikus kijelző valós idejű infókkal.",
+                "ro": "Stațiile centrale au adesea afișaje electronice cu informații în timp real.",
+                "en": "Central stops often have electronic displays with real-time arrival info."
+              }
+            },
+            {
+              "name": "Piast Castle & Museum",
+              "tip_5lang": {
+                "de": "Warten Sie im Museumsbereich, bis die Abfahrtszeit Ihres Busses naht.",
+                "hu": "Várjon a múzeum területén, amíg közeledik a busz indulási ideje.",
+                "ro": "Așteptați în zona muzeului până când se apropie ora de plecare a autobuzului.",
+                "en": "Wait inside the museum area until your bus departure time approaches."
+              }
+            },
+            {
+              "name": "Cathedral of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Die Haltestellen in der Nähe bieten oft überdachte Wartehäuschen.",
+                "hu": "A közelben lévő megállók gyakran fedett váróval rendelkeznek.",
+                "ro": "Stațiile din apropiere au adesea adăposturi acoperite.",
+                "en": "Nearby stops often feature covered shelters to keep you dry."
+              }
+            },
+            {
+              "name": "Trip to the Palm House",
+              "tip_5lang": {
+                "de": "Entwerten Sie Ihr Ticket sofort beim Einsteigen im Bus.",
+                "hu": "A jegyét a buszra felszállva azonnal érvényesítse.",
+                "ro": "Compostați biletul imediat ce urcați în autobuz.",
+                "en": "Validate your ticket immediately upon boarding the bus."
+              }
+            },
+            {
+              "name": "Palm House & Lunch",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Palmenhaus, um online die nächsten Verbindungen zu prüfen.",
+                "hu": "A Pálmaházban töltött időt használja a következő járatok ellenőrzésére.",
+                "ro": "Folosiți timpul în Palmitariu pentru a verifica online următoarele legături.",
+                "en": "Use your time in the Palm House to check the next connections online."
+              }
+            },
+            {
+              "name": "Trip to the Radio Station",
+              "tip_5lang": {
+                "de": "Linie A4 oder 692 bringen Sie bequem in die Nähe des Senders.",
+                "hu": "Az A4-es vagy 692-es járat kényelmesen a Rádióállomás közelébe visz.",
+                "ro": "Liniile A4 sau 692 vă duc confortabil în apropierea stației radio.",
+                "en": "Lines A4 or 692 will take you conveniently close to the Radio Station."
+              }
+            },
+            {
+              "name": "Gliwice Radio Station",
+              "tip_5lang": {
+                "de": "Die letzte Haltestelle erfordert einen kurzen Fußweg; Schirm bereithalten.",
+                "hu": "Az utolsó megállótól rövid séta várható; készítse elő az ernyőt.",
+                "ro": "Ultima stație necesită o scurtă plimbare; pregătiți umbrela.",
+                "en": "The final stop requires a short walk; have your umbrella ready."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'jakdojade.pl' für die beste Routenplanung.",
+              "Tickets können oft kontaktlos direkt im Bus gekauft werden.",
+              "Vermeiden Sie Stoßzeiten, da Busse bei Regen oft voller sind.",
+              "Achten Sie auf Pfützen an den Haltestellen beim Ein- und Aussteigen.",
+              "Die Busse sind in der Regel gut beheizt und trocken."
+            ],
+            "hu": [
+              "Használja a 'jakdojade.pl' alkalmazást a legjobb útvonaltervezéshez.",
+              "Jegyet gyakran érintésmentesen, közvetlenül a buszon is vehet.",
+              "Kerülje a csúcsidőt, mert esőben a buszok gyakran zsúfoltabbak.",
+              "Figyeljen a tócsákra a megállókban fel- és leszálláskor.",
+              "A buszok általában jól fűtöttek és szárazak."
+            ],
+            "ro": [
+              "Folosiți aplicația „jakdojade.pl” pentru cea mai bună planificare a rutei.",
+              "Biletele pot fi cumpărate adesea contactless direct în autobuz.",
+              "Evitați orele de vârf, deoarece autobuzele sunt mai pline când plouă.",
+              "Atenție la bălțile din stații la urcare și coborâre.",
+              "Autobuzele sunt de regulă bine încălzite și uscate."
+            ],
+            "en": [
+              "Use the 'jakdojade.pl' app for the best transit route planning.",
+              "Tickets can often be bought contactlessly directly on the bus.",
+              "Avoid rush hours, as buses are often more crowded during rain.",
+              "Watch out for puddles at bus stops when boarding or alighting.",
+              "Buses are generally well-heated and dry inside."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Gliwice im Winter mit dem Bus. Wir starten am Marktplatz, wo die Kälte den historischen Kern fest im Griff hat.\n\nNach dem Aufwärmen im Schloss bringt uns der Transit zur Kathedrale. Die beheizten Busse sind eine willkommene Pause vom Frost.\n\nMittags steuern wir das Palmenhaus an. Der Wechsel von der eiskalten Haltestelle in das tropische Paradies ist ein echtes Highlight.\n\nZum Abschluss führt die Fahrt zum Radiosender. Im Winter wirkt der beleuchtete Turm in der Dunkelheit besonders imposant und weithin sichtbar.",
+            "hu": "Fedezze fel Gliwicét télen busszal. A Főtéren kezdünk, ahol a hideg szorosan markában tartja a történelmi központot.\n\nA kastélybeli melegedés után a közlekedés a székesegyházhoz visz. A fűtött buszok szívesen látott pihenőt jelentenek a fagyban.\n\nDélben a Pálmaházhoz vesszük az irányt. Az eiskalt megállóból a trópusi paradicsomba való átlépés igazi fénypont.\n\nBefejezésként az út a Rádióállomáshoz vezet. Télen a kivilágított torony a sötétben különösen impozáns és messziről látható.",
+            "ro": "Descoperiți Gliwice iarna cu autobuzul. Începem în Piața Centrală, unde frigul stăpânește centrul istoric.\n\nDupă încălzirea la castel, transportul ne duce la catedrală. Autobuzele încălzite sunt o pauză binevenită de la ger.\n\nLa prânz ne îndreptăm spre Palmitariu. Trecerea de la stația înghețată la paradisul tropical este un adevărat punct culminant.\n\nLa final, drumul duce la Stația Radio. Iarna, turnul iluminat pare deosebit de impozant și vizibil de departe în întuneric.",
+            "en": "Explore Gliwice in winter by bus. We start at the Market Square, where the cold has a firm grip on the historic core.\n\nAfter warming up at the castle, transit takes us to the Cathedral. The heated buses provide a welcome break from the frost.\n\nAt noon, head to the Palm House. Switching from an icy bus stop to a tropical paradise is a true highlight of the day.\n\nFinally, the trip leads to the Radio Station. In winter, the illuminated tower looks particularly imposing in the darkness."
+          },
+          "stops": [
+            {
+              "name": "Arrival at Market Square (Center)",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Kleidung, da es an den Haltestellen ziehen kann.",
+                "hu": "Öltözzön melegen, mert a megállókban huzat lehet.",
+                "ro": "Îmbrăcați-vă gros, deoarece în stații poate fi curent.",
+                "en": "Dress warmly as bus stops can be quite drafty in the winter wind."
+              }
+            },
+            {
+              "name": "Piast Castle & Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrten vorab, um die Wartezeit im Freien zu minimieren.",
+                "hu": "Ellenőrizze előre az indulásokat, hogy minimalizálja a kinti várakozást.",
+                "ro": "Verificați plecările în prealabil pentru a minimiza așteptarea afară.",
+                "en": "Check departure times in advance to minimize waiting out in the cold."
+              }
+            },
+            {
+              "name": "Cathedral of St. Peter and Paul",
+              "tip_5lang": {
+                "de": "Die Wege von der Haltestelle zur Kirche können schneebedeckt sein.",
+                "hu": "A megállótól a templomig vezető utak havasak lehetnek.",
+                "ro": "Drumurile de la stație la biserică pot fi acoperite cu zăpadă.",
+                "en": "The paths from the stop to the church may be covered in snow."
+              }
+            },
+            {
+              "name": "Trip to the Palm House",
+              "tip_5lang": {
+                "de": "Nutzen Sie Kurzstreckentickets, wenn Sie nur wenige Stationen fahren.",
+                "hu": "Használjon rövid távú jegyet, ha csak pár megállót utazik.",
+                "ro": "Folosiți bilete pentru distanțe scurte dacă mergeți doar câteva stații.",
+                "en": "Use short-distance tickets if you are only traveling a few stops."
+              }
+            },
+            {
+              "name": "Palm House & Lunch",
+              "tip_5lang": {
+                "de": "Der Kontrast beim Verlassen des Palmenhauses ist extrem; Schal festziehen.",
+                "hu": "A Pálmaház elhagyásakor az ellentét extrém; húzza szorosra a sálat.",
+                "ro": "Contrastul la ieșirea din Palmitariu este extrem; strângeți bine fularul.",
+                "en": "The contrast when leaving the Palm House is extreme; tighten your scarf."
+              }
+            },
+            {
+              "name": "Trip to the Radio Station",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die beleuchtete Stadt während der Fahrt.",
+                "hu": "Élvezze a kivilágított város látványát utazás közben.",
+                "ro": "Bucurați-vă de vederea orașului iluminat în timpul călătoriei.",
+                "en": "Enjoy the view of the illuminated city during your bus ride."
+              }
+            },
+            {
+              "name": "Gliwice Radio Station",
+              "tip_5lang": {
+                "de": "Achten Sie auf den letzten Bus zurück ins Zentrum, besonders am Abend.",
+                "hu": "Figyeljen az utolsó buszra vissza a központba, különösen este.",
+                "ro": "Atenție la ultimul autobuz spre centru, mai ales seara.",
+                "en": "Keep an eye on the schedule for the last bus back to the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahrpläne können sich bei starkem Schneefall kurzfristig verzögern.",
+              "Die Haltestellen im Zentrum sind meist gut geräumt.",
+              "Ein Tagesticket lohnt sich oft mehr als Einzelfahrscheine.",
+              "Halten Sie sich an den Haltestangen fest, der Boden im Bus kann nass sein.",
+              "In den Bussen ist es meist sehr warm, planen Sie Zwiebellook ein."
+            ],
+            "hu": [
+              "Erős havazás esetén a menetrendben rövid távú késések lehetnek.",
+              "A központi megállókat általában jól takarítják.",
+              "A napijegy gyakran jobban megéri, mint az egyedi jegyek.",
+              "Kapaszkodjon erősen, a busz padlója a hótól nedves lehet.",
+              "A buszokon általában nagyon meleg van, öltözzön rétegesen."
+            ],
+            "ro": [
+              "Orarele pot avea întârzieri pe termen scurt în caz de ninsoare abundentă.",
+              "Stațiile din centru sunt de obicei bine curățate de zăpadă.",
+              "Un bilet de o zi merită adesea mai mult decât biletele individuale.",
+              "Țineți-vă bine de bare, podeaua autobuzului poate fi udă de la zăpadă.",
+              "În autobuze este de obicei foarte cald, planificați îmbrăcăminte în straturi."
+            ],
+            "en": [
+              "Schedules may experience short delays during heavy snowfall.",
+              "Stops in the city center are usually well-cleared of snow.",
+              "A day pass is often better value than multiple single tickets.",
+              "Hold on to the handrails as the bus floor can be wet and slippery.",
+              "Buses are usually very warm inside, so dress in layers."
+            ]
+          }
+        }
       }
     }
   }

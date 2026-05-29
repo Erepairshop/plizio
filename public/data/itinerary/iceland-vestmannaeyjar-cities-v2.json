@@ -362,6 +362,196 @@
           "Book ferry tickets and any tours (like whale watching) in advance, especially in summer.",
           "Respect the puffin nesting areas and keep your distance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen am Hafen ist stürmisch, die Gassen von Heimaey glänzen im Regen. Die Stabkirche bietet kurz Schutz, bevor das Eldheimar-Museum zum perfekten Rückzugsort wird. Der Aufstieg zum Eldfell ist bei Nässe rutschig, aber die Erdwärme des Bodens ist spürbar. Den Nachmittag verbringen wir trocken bei den Belugas, gefolgt von einem gemütlichen Abendessen im Stadtzentrum.",
+            "hu": "A kikötőben szeles, esős reggel fogad, az aszfalt tükrözi a szürke eget. A skanseni fatemplom rövid menedéket nyújt az Eldheimar múzeum felé, amely a legjobb választás zuhogó esőben. Az Eldfell-vulkán megmászása saras, de a talaj melege kárpótol. A délutánt a bálnák védett központjában zárjuk, majd egy meleg leves mellett pihenünk meg a városban.",
+            "ro": "Dimineața în port este marcată de ploaie și vânt, străzile din Heimaey fiind umede. Biserica de lemn oferă un scurt adăpost înainte de a ajunge la muzeul Eldheimar, refugiul ideal. Urcarea pe Eldfell este noroioasă, dar căldura solului este încă perceptibilă. După-amiaza se încheie la sanctuarul de beluga, urmată de o cină caldă în centrul orașului.",
+            "en": "The morning harbor is wind-swept and rainy, but the atmosphere remains authentic. After a quick stop at the Stave Church, the Eldheimar museum provides the perfect warm refuge. Climbing Eldfell in the rain is muddy, yet the volcanic heat from the ground is comforting. We finish the day dry at the Beluga Sanctuary before enjoying a cozy dinner in town."
+          },
+          "stops": [
+            {
+              "name": "Harbor and Skansinn Fortress",
+              "tip_5lang": {
+                "de": "Windfeste Regenkleidung ist hier wegen der Gischt unerlässlich.",
+                "hu": "Szélálló esőkabát kötelező, a tengeri permet is áztat.",
+                "ro": "Hainele de ploaie rezistente la vânt sunt esențiale aici.",
+                "en": "Windproof rain gear is essential here due to the sea spray."
+              }
+            },
+            {
+              "name": "Heimaey Stave Church",
+              "tip_5lang": {
+                "de": "Das dunkle Holz wirkt im Regen besonders atmosphärisch.",
+                "hu": "A sötét faanyag esőben mutatja meg igazán különleges textúráját.",
+                "ro": "Lemnul întunecat arată deosebit de atmosferic în ploaie.",
+                "en": "The dark wood looks particularly atmospheric in the rain."
+              }
+            },
+            {
+              "name": "Eldheimar Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um Ihre nassen Sachen zu trocknen.",
+                "hu": "Használja a ruhatárat a vizes kabátok megszárítására.",
+                "ro": "Folosiți garderoba pentru a vă usca hainele umede.",
+                "en": "Use the cloakroom to dry your wet clothes while exploring."
+              }
+            },
+            {
+              "name": "Climbing the Eldfell Volcano",
+              "tip_5lang": {
+                "de": "Achtung, der Lavakies ist bei Nässe sehr rutschig.",
+                "hu": "Vigyázat, a vizes lávatörmelék nagyon csúszós és instabil.",
+                "ro": "Atenție, pietrișul de lavă este foarte alunecos când este umed.",
+                "en": "Caution: the volcanic gravel is very slippery when wet."
+              }
+            },
+            {
+              "name": "Sprangan Cliff Swinging",
+              "tip_5lang": {
+                "de": "Bei starkem Regen und Wind ist das Schwingen nicht ratsam.",
+                "hu": "Erős esőben és szélben a sziklán való hintázás balesetveszélyes.",
+                "ro": "Nu este recomandat să vă balansați pe stânci pe ploaie.",
+                "en": "Swinging on the cliff is not recommended in heavy rain."
+              }
+            },
+            {
+              "name": "Beluga Whale Sanctuary",
+              "tip_5lang": {
+                "de": "Ein hervorragender, vollständig überdachter Stopp bei Regen.",
+                "hu": "Kiváló, teljesen fedett állomás, ideális esős időre.",
+                "ro": "O oprire excelentă, complet acoperită, pentru zilele ploioase.",
+                "en": "An excellent, fully covered stop for rainy weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Investieren Sie in eine hochwertige Gore-Tex Schicht; der Wind drückt den Regen überall hin.",
+              "Das Eldheimar-Museum ist der beste Ort, um Schauer abzuwarten.",
+              "Die Wege am Hafen können bei Nässe glatt sein.",
+              "Warme, wasserdichte Wanderschuhe sind für den Eldfell-Pfad Pflicht.",
+              "Prüfen Sie die Windvorhersage; Regen ist oft mit starken Böen verbunden."
+            ],
+            "hu": [
+              "Fektessen be jó minőségű Gore-Tex ruházatba; a szél minden irányból fújja az esőt.",
+              "Az Eldheimar múzeum a legjobb hely a nagyobb záporok átvészelésére.",
+              "A kikötői utak és a fa mólók csúszóssá válhatnak.",
+              "Vízálló túrabakancs elengedhetetlen az Eldfell vulkán megmászásához.",
+              "Figyelje a széljelentést; az eső itt gyakran viharos erejű széllökésekkel jár."
+            ],
+            "ro": [
+              "Investiți într-un strat Gore-Tex de calitate; vântul suflă ploaia din toate direcțiile.",
+              "Muzeul Eldheimar este cel mai bun loc pentru a aștepta trecerea ploii.",
+              "Căile din port pot deveni alunecoase când sunt ude.",
+              "Bocancii de drumeție impermeabili sunt obligatorii pentru poteca spre Eldfell.",
+              "Verificați prognoza de vânt; ploaia este adesea însoțită de rafale puternice."
+            ],
+            "en": [
+              "Invest in a quality Gore-Tex layer; the wind blows rain from all directions.",
+              "The Eldheimar museum is the best place to wait out heavy showers.",
+              "Harbor paths and wooden piers can be slippery when wet.",
+              "Waterproof hiking boots are mandatory for the Eldfell trail.",
+              "Check the wind forecast; rain is often accompanied by strong gusts."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Insel im Winterlicht ist magisch, aber die Tage sind kurz. Der Hafen wirkt ruhig, die Stabkirche steht einsam im Schnee. Eldheimar bietet wohlige Wärme vor der winterlichen Besteigung des Eldfell, bei der Eis-Spikes ratsam sind. Wenn die Sonne gegen 15:30 Uhr untergeht, leuchten die Lichter der Stadt, während wir die Belugas besuchen und den Abend bei lokaler Küche ausklingen lassen.",
+            "hu": "A sziget téli fényei varázslatosak, de a nappalok rövidek. A kikötő csendes, a fatemplom sötét sziluettje kiemelkedik a hóból. Az Eldheimar múzeum melege után a jeges Eldfell-vulkán következik, ahol a csúszásgátló javasolt. A 15:30-as naplemente után kigyúlnak a város fényei, így látogatjuk meg a bálnákat, majd egy forró itallal zárjuk a napot.",
+            "ro": "Insula în lumina iernii este magică, dar zilele sunt scurte. Portul este liniștit, iar biserica de lemn stă solitară în zăpadă. Eldheimar oferă căldură înainte de urcarea pe Eldfell, unde crampoanele sunt recomandate. După apusul de la 15:30, luminile orașului se aprind, vizităm balenele beluga și încheiem ziua cu o mâncare locală caldă.",
+            "en": "The island in winter light is magical, though days are very short. The harbor is quiet, and the Stave Church stands stark against the snow. Eldheimar provides cozy warmth before a winter ascent of Eldfell, where micro-spikes are advised. As the sun sets around 15:30, the town lights up; we visit the Belugas and finish the day with hearty local cuisine."
+          },
+          "stops": [
+            {
+              "name": "Harbor and Skansinn Fortress",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrierender Gischt auf den Gehwegen.",
+                "hu": "Vigyázat, a kifröccsenő tengeri permet ráfagyhat a járdákra.",
+                "ro": "Atenție la spray-ul marin care îngheață pe trotuare.",
+                "en": "Watch out for freezing sea spray on the walkways."
+              }
+            },
+            {
+              "name": "Heimaey Stave Church",
+              "tip_5lang": {
+                "de": "Der Kontrast zwischen dunklem Holz und weißem Schnee ist fotogen.",
+                "hu": "A sötét fa és a fehér hó kontrasztja lenyűgöző látvány.",
+                "ro": "Contrastul dintre lemnul închis și zăpada albă este superb.",
+                "en": "The contrast between dark wood and white snow is very photogenic."
+              }
+            },
+            {
+              "name": "Eldheimar Museum",
+              "tip_5lang": {
+                "de": "Ideal, um sich zur Mittagszeit gründlich aufzuwärmen.",
+                "hu": "Ideális helyszín az alapos felmelegedéshez a nap közepén.",
+                "ro": "Ideal pentru a vă încălzi bine la mijlocul zilei.",
+                "en": "The perfect place to warm up thoroughly during midday."
+              }
+            },
+            {
+              "name": "Climbing the Eldfell Volcano",
+              "tip_5lang": {
+                "de": "Eis-Spikes für die Schuhe sind im Winter fast immer nötig.",
+                "hu": "Cipőre csatolható csúszásgátló (hómacska) télen szinte kötelező.",
+                "ro": "Crampoanele pentru pantofi sunt aproape obligatorii iarna.",
+                "en": "Micro-spikes for your shoes are almost always needed in winter."
+              }
+            },
+            {
+              "name": "Sprangan Cliff Swinging",
+              "tip_5lang": {
+                "de": "Wegen Eisglätte auf den Felsen im Winter oft gesperrt.",
+                "hu": "A sziklák jegesedése miatt télen gyakran nem használható.",
+                "ro": "Deseori închis iarna din cauza gheții de pe stânci.",
+                "en": "Often closed in winter due to ice on the rocks."
+              }
+            },
+            {
+              "name": "Beluga Whale Sanctuary",
+              "tip_5lang": {
+                "de": "Die beheizten Innenräume sind im Winter ein Segen.",
+                "hu": "A fűtött belső terek igazi áldást jelentenek a téli hidegben.",
+                "ro": "Spațiile interioare încălzite sunt o binecuvântare iarna.",
+                "en": "The heated indoor spaces are a blessing in the winter cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tageslicht ist begrenzt; starten Sie pünktlich um 09:00 Uhr.",
+              "Tragen Sie Thermo-Unterwäsche und Wollsocken (isländische Wolle!).",
+              "Eis-Spikes im Rucksack sind ein Muss für jede Wanderung.",
+              "Die Windkälte (Windchill) kann die Temperatur viel kälter wirken lassen.",
+              "Genießen Sie die blaue Stunde am Hafen gegen 15:00 Uhr."
+            ],
+            "hu": [
+              "A nappali fény korlátozott; kezdje a napot pontosan reggel 9-kor.",
+              "Viseljen termo-aláöltözetet és gyapjú zoknit (az izlandi gyapjú a legjobb).",
+              "A hátizsákban mindig legyen csúszásgátló a túrázáshoz.",
+              "A szélhűtés miatt a hőmérséklet sokkal hidegebbnek érződik.",
+              "Élvezze a 'kék órát' a kikötőben délután 3 óra körül."
+            ],
+            "ro": [
+              "Lumina zilei este limitată; începeți programul fix la ora 09:00.",
+              "Purtați lenjerie termică și șosete de lână (lâna islandeză e ideală).",
+              "Crampoanele în rucsac sunt obligatorii pentru orice drumeție.",
+              "Senzația de frig este accentuată de vântul puternic.",
+              "Bucurați-vă de 'ora albastră' în port în jurul orei 15:00."
+            ],
+            "en": [
+              "Daylight is limited; start your day promptly at 09:00.",
+              "Wear thermal base layers and wool socks (Icelandic wool is best).",
+              "Always carry micro-spikes in your pack for any hiking.",
+              "The wind chill can make the temperature feel significantly colder.",
+              "Enjoy the 'blue hour' at the harbor around 15:00."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +932,214 @@
           "Bring water and snacks, as there are few shops outside of the main town.",
           "Be careful of gusts of wind, which are common on the island."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen von Vestmannaeyjar erfordert Entschlossenheit und gute Ausrüstung. Vom Hafen geht es direkt zum Eldheimar-Museum, um die stärksten Schauer abzuwarten. Die Fahrt zum Stórhöfði ist windig, bietet aber dramatische Ausblicke auf die tosenden Wellen. Der Rückweg führt uns zum Beluga-Zentrum, bevor wir uns bei einem warmen Abendessen im Ort aufwärmen.",
+            "hu": "A Vestmannaeyjar-szigeteki bringázás esőben elszántságot és jó felszerelést igényel. A kikötőből egyenesen az Eldheimar múzeumba tekerünk, hogy kivárjuk a záporokat. A Stórhöfði felé vezető út szeles, de drámai kilátást nyújt a habzó óceánra. Visszafelé a bálnaközpontban melegszünk fel, majd egy kiadós vacsorával zárjuk a napot a városban.",
+            "ro": "Ciclismul în ploaia din Vestmannaeyjar necesită determinare și echipament bun. Din port mergem direct la muzeul Eldheimar pentru a evita aversa. Drumul spre Stórhöfði este vântos, dar oferă vederi dramatice asupra valurilor. La întoarcere ne oprim la centrul de beluga înainte de o cină caldă în oraș.",
+            "en": "Cycling in the Westman Islands' rain requires determination and solid gear. From the harbor, head straight to Eldheimar museum to dodge the heaviest showers. The ride to Stórhöfði is windy but offers dramatic views of the crashing waves. We return via the Beluga Sanctuary before warming up with a hearty dinner in the town center."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Harbor",
+              "tip_5lang": {
+                "de": "Fragen Sie nach spritzgeschützten Schutzblechen am Leihrad.",
+                "hu": "Kérjen sárvédővel felszerelt kerékpárt a kölcsönzőben.",
+                "ro": "Cereți o bicicletă echipată cu aripi de protecție la închiriere.",
+                "en": "Ask for a bike equipped with full fenders at the rental shop."
+              }
+            },
+            {
+              "name": "Eldheimar Museum",
+              "tip_5lang": {
+                "de": "Sicherer Parkplatz für Räder nahe dem Eingang vorhanden.",
+                "hu": "Biztonságos kerékpárparkoló található a bejárat közelében.",
+                "ro": "Parcare sigură pentru biciclete lângă intrare.",
+                "en": "Secure bike parking is available right near the entrance."
+              }
+            },
+            {
+              "name": "Base of Eldfell Volcano",
+              "tip_5lang": {
+                "de": "Der Boden kann sehr weich und schlammig sein.",
+                "hu": "A vulkáni talaj nagyon felázhat és sarassá válhat.",
+                "ro": "Solul poate fi foarte moale și noroios aici.",
+                "en": "The volcanic ground can become very soft and muddy here."
+              }
+            },
+            {
+              "name": "Elephant Rock Viewpoint",
+              "tip_5lang": {
+                "de": "Achtung bei Seitenwind auf den exponierten Küstenstraßen.",
+                "hu": "Vigyázzon az oldalszéllel a kitett tengerparti utakon.",
+                "ro": "Atenție la vântul lateral pe drumurile de coastă expuse.",
+                "en": "Be careful with crosswinds on the exposed coastal roads."
+              }
+            },
+            {
+              "name": "Stórhöfði",
+              "tip_5lang": {
+                "de": "Extremer Wind möglich; stellen Sie das Rad sicher ab.",
+                "hu": "Extrém szél lehetséges; fektesse le a kerékpárt a földre.",
+                "ro": "Vânt extrem; parcați bicicleta într-un loc sigur.",
+                "en": "Extreme wind possible; lay your bike flat to prevent it falling."
+              }
+            },
+            {
+              "name": "Beluga Whale Sanctuary",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die nasse Kleidung kurz zu lüften.",
+                "hu": "Ideális hely a vizes ruhák rövid szárítására és pihenésre.",
+                "ro": "Un loc ideal pentru a vă odihni și a vă usca puțin hainele.",
+                "en": "A perfect spot to rest and air out your wet gear."
+              }
+            },
+            {
+              "name": "Dinner in the Town Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Platz für nasse Regenjacken.",
+                "hu": "Olyan éttermet válasszon, ahol van hely a vizes dzsekiknek.",
+                "ro": "Alegeți un restaurant cu spațiu pentru hainele de ploaie ude.",
+                "en": "Choose a restaurant with space to hang wet rain jackets."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserdichte Handschuhe; kalte, nasse Hände bremsen schlecht.",
+              "Vermeiden Sie tiefere Pfützen, da diese tiefe Schlaglöcher tarnen können.",
+              "Beleuchtung einschalten, da die Sicht bei Regen stark eingeschränkt ist.",
+              "Bremsen Sie auf nassem Vulkangestein früher ab.",
+              "Ein Neopren-Sattelbezug hält das Gesäß länger trocken."
+            ],
+            "hu": [
+              "Viseljen vízálló kesztyűt; a hideg, vizes kézzel nehezebb fékezni.",
+              "Kerülje a mélyebb tócsákat, mert mély kátyúkat rejthetnek.",
+              "Kapcsolja be a lámpákat, az esőben jelentősen romlik a láthatóság.",
+              "A vizes vulkáni kőzeten és aszfalton lassabban fékezzen.",
+              "A neoprén nyereghuzat segít szárazon tartani a nadrágját."
+            ],
+            "ro": [
+              "Purtați mănuși impermeabile; mâinile reci și ude îngreunează frânarea.",
+              "Evitați bălțile adânci, deoarece pot ascunde gropi periculoase.",
+              "Aprindeți luminile, vizibilitatea este redusă semnificativ pe ploaie.",
+              "Frânați mai devreme pe suprafețele umede din rocă vulcanică.",
+              "O husă de șa din neopren vă va menține pantalonii uscați mai mult timp."
+            ],
+            "en": [
+              "Wear waterproof gloves; cold, wet hands make braking difficult.",
+              "Avoid deep puddles as they can hide dangerous potholes.",
+              "Turn on your lights; visibility is greatly reduced in the rain.",
+              "Brake earlier on wet volcanic rock and asphalt surfaces.",
+              "A neoprene saddle cover will keep your seat dry for longer."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter auf Heimaey ist ein Abenteuer für Mutige. Wir starten am Hafen und nutzen das Eldheimar-Museum als Aufwärmstation. Die Küstenstraße zum Elefantenfelsen bietet spektakuläre Ausblicke auf schneebedeckte Klippen. Am Stórhöfði spüren wir die Gewalt der Natur, bevor wir rechtzeitig zum frühen Sonnenuntergang das Beluga-Zentrum erreichen und den Tag im warmen Stadtzentrum abschließen.",
+            "hu": "A téli bringázás Heimaey szigetén igazi kaland a bátraknak. A kikötőből indulunk, és az Eldheimar múzeumot használjuk melegedőnek. Az Elefánt-sziklához vezető út lenyűgöző látványt nyújt a hófödte sziklákkal. Stórhöfðinél érezzük a természet erejét, majd a korai naplemente előtt elérjük a bálnaközpontot, és a napot a város melegében zárjuk.",
+            "ro": "Ciclismul de iarnă în Heimaey este o aventură pentru cei curajoși. Pornim din port și folosim muzeul Eldheimar ca punct de încălzire. Drumul spre Elephant Rock oferă vederi spectaculoase spre stâncile înzăpezite. La Stórhöfði simțim forța naturii, apoi ajungem la sanctuarul de beluga înainte de apus și încheiem ziua în oraș.",
+            "en": "Winter cycling on Heimaey is an adventure for the bold. Starting from the harbor, we use Eldheimar museum as a crucial warming station. The coastal road to Elephant Rock offers spectacular views of snow-capped cliffs. At Stórhöfði, feel the raw power of nature before reaching the Beluga Sanctuary by sunset and finishing in the warm town center."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Harbor",
+              "tip_5lang": {
+                "de": "Fragen Sie nach Spikereifen für besseren Halt auf Eis.",
+                "hu": "Kérjen szöges gumival szerelt kerékpárt a jeges utakhoz.",
+                "ro": "Cereți anvelope cu ținte pentru o aderență mai bună pe gheață.",
+                "en": "Ask for studded tires for better grip on icy roads."
+              }
+            },
+            {
+              "name": "Eldheimar Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die gefrorenen Finger aufzuwärmen.",
+                "hu": "Használja ki a megállót az átfagyott ujjak felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi degetele înghețate.",
+                "en": "Use this stop to thaw out your frozen fingers."
+              }
+            },
+            {
+              "name": "Base of Eldfell Volcano",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig, loser Lavakies kann unter Schnee versteckt sein.",
+                "hu": "Óvatosan tekerjen, a hó alatt éles lávakövek bújhatnak meg.",
+                "ro": "Pedalați cu grijă, pietrișul poate fi ascuns sub zăpadă.",
+                "en": "Ride carefully; loose volcanic gravel can be hidden under snow."
+              }
+            },
+            {
+              "name": "Elephant Rock Viewpoint",
+              "tip_5lang": {
+                "de": "Halten Sie wegen starker Windböen Abstand zur Kante.",
+                "hu": "A hirtelen széllökések miatt tartson távolságot a szikla szélétől.",
+                "ro": "Păstrați distanța față de margine din cauza rafalelor de vânt.",
+                "en": "Keep a safe distance from the edge due to strong wind gusts."
+              }
+            },
+            {
+              "name": "Stórhöfði",
+              "tip_5lang": {
+                "de": "Vorsicht, hier herrscht oft extreme Kälte durch den Windchill.",
+                "hu": "Vigyázat, a szélhűtés miatt itt extrém hideg érzet lehetséges.",
+                "ro": "Atenție la frigul extrem cauzat de vântul puternic aici.",
+                "en": "Caution: extreme cold here due to severe wind chill."
+              }
+            },
+            {
+              "name": "Beluga Whale Sanctuary",
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zur winterlichen Kälte draußen.",
+                "hu": "Élvezze a benti meleget a kinti téli fagy után.",
+                "ro": "Bucurați-vă de contrastul cu frigul de afară.",
+                "en": "Enjoy the cozy contrast to the winter chill outside."
+              }
+            },
+            {
+              "name": "Dinner in the Town Center",
+              "tip_5lang": {
+                "de": "Lokale Fischsuppe ist nach einer Wintertour die beste Wahl.",
+                "hu": "A helyi halleves a legjobb választás egy téli bringatúra után.",
+                "ro": "Supa locală de pește este ideală după un tur de iarnă.",
+                "en": "Local fish soup is the best choice after a winter cycling tour."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung (Zwiebelprinzip) mit Wolle als Basis.",
+              "Vorder- und Rücklicht sind ab 15 Uhr zwingend erforderlich.",
+              "Trinken Sie ausreichend, auch wenn Sie bei Kälte weniger Durst spüren.",
+              "Vermeiden Sie abrupte Lenkbewegungen auf vereisten Stellen.",
+              "Ein Helm unter der Mütze (oder spezielle Helmmützen) schützt vor Wind."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, gyapjú alapréteggel.",
+              "Délután 3 órától az első és hátsó lámpák használata kötelező.",
+              "Igyon elég folyadékot, hidegben is szüksége van rá a szervezetének.",
+              "Kerülje a hirtelen kormánymozdulatokat a jeges szakaszokon.",
+              "A sisak alatti meleg sapka elengedhetetlen a szél ellen."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, folosind lână ca strat de bază.",
+              "Luminile față și spate sunt obligatorii începând cu ora 15:00.",
+              "Beți suficiente lichide, chiar dacă senzația de sete e redusă la frig.",
+              "Evitați manevrele bruște de direcție pe porțiunile înghețate.",
+              "O căciulă sub cască este esențială pentru protecția împotriva vântului."
+            ],
+            "en": [
+              "Dress in layers (onion principle) with wool as a base layer.",
+              "Front and rear lights are mandatory starting from 15:00.",
+              "Stay hydrated, even if you feel less thirsty in the cold.",
+              "Avoid sudden steering movements on icy patches.",
+              "A warm cap under your helmet is essential to block the wind."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1146,6 +1544,232 @@
           "Parking is generally easy, but stick to designated areas.",
           "Fuel is expensive, so plan your driving efficiently."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Vestmannaeyjar auch bei Regen entspannt erkunden. Wir starten am windumtosten Stórhöfði, beobachten die Brandung sicher aus dem Wagen. Über Eldheimar fahren wir zum Eldfell-Parkplatz, von wo aus ein kurzer, nasser Aufstieg möglich ist. Die Hafenarea und das Beluga-Zentrum bieten trockene Erlebnisse, bevor wir den Abend bei einem Panorama-Dinner am Hafen genießen.",
+            "hu": "Autóval az esős Vestmannaeyjar is kényelmesen felfedezhető. A szeles Stórhöfðinél kezdünk, a kocsi ablakából figyelve a hullámokat. Az Eldheimar érintésével az Eldfell parkolójába hajtunk, ahonnan rövid, vizes séta tehető. A kikötő és a bálnaközpont fedett programot kínál, a napot pedig egy kikötői panorámás vacsorával zárjuk.",
+            "ro": "Cu mașina, Vestmannaeyjar poate fi explorat relaxat chiar și pe ploaie. Începem la Stórhöfði, observând valurile în siguranță din vehicul. Mergem spre Eldheimar și parcarea Eldfell, de unde este posibilă o scurtă urcare prin ploaie. Portul și centrul de beluga oferă experiențe uscate, urmate de o cină panoramică.",
+            "en": "By car, Vestmannaeyjar remains comfortable even in heavy rain. Start at wind-whipped Stórhöfði, watching the surf from the safety of the vehicle. Visit Eldheimar and drive to the Eldfell parking lot for a short, wet hike. The harbor area and Beluga Sanctuary provide dry highlights before a panoramic dinner overlooking the port."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Stórhöfði",
+              "tip_5lang": {
+                "de": "Halten Sie die Türen beim Aussteigen wegen starker Böen fest.",
+                "hu": "Kiszálláskor erősen fogja az ajtót a hirtelen széllökések miatt.",
+                "ro": "Țineți bine portierele la coborâre din cauza rafalelor de vânt.",
+                "en": "Hold car doors firmly when exiting due to sudden strong gusts."
+              }
+            },
+            {
+              "name": "Elephant Rock Viewpoint",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick bei Regen direkt aus dem parkenden Auto.",
+                "hu": "Esőben élvezze a kilátást közvetlenül a parkoló autóból.",
+                "ro": "Bucurați-vă de vedere direct din mașina parcată pe ploaie.",
+                "en": "Enjoy the view directly from your parked car during heavy rain."
+              }
+            },
+            {
+              "name": "Cluster 2: Eldheimar & Eldfell",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist sehr nah am Eingang des Museums.",
+                "hu": "A parkoló nagyon közel található a múzeum bejáratához.",
+                "ro": "Parcarea este situată foarte aproape de intrarea muzeului.",
+                "en": "The parking lot is located very close to the museum entrance."
+              }
+            },
+            {
+              "name": "Climbing the Eldfell Volcano",
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Jacken im Auto, wenn Sie nur kurz schauen gehen.",
+                "hu": "Hagyja a vizes kabátokat az autóban, ha csak rövid időre száll ki.",
+                "ro": "Lăsați haina udă în mașină dacă ieșiți doar pentru scurt timp.",
+                "en": "Leave wet jackets in the car if you're only stepping out briefly."
+              }
+            },
+            {
+              "name": "Cluster 3: Harbor Area",
+              "tip_5lang": {
+                "de": "Parken Sie zentral, um die kurzen Wege zwischen den Gebäuden zu nutzen.",
+                "hu": "Parkoljon központilag, hogy minimalizálja az esőben való gyaloglást.",
+                "ro": "Parcați central pentru a minimiza mersul pe jos prin ploaie.",
+                "en": "Park centrally to minimize walking between buildings in the rain."
+              }
+            },
+            {
+              "name": "Heimaey Stave Church",
+              "tip_5lang": {
+                "de": "Ein schneller Stopp, das Auto kann direkt daneben halten.",
+                "hu": "Gyors megálló, az autóval közvetlenül mellette lehet megállni.",
+                "ro": "O oprire rapidă, mașina poate opri chiar lângă biserică.",
+                "en": "A quick stop; the car can be parked right next to it."
+              }
+            },
+            {
+              "name": "Beluga Whale Sanctuary",
+              "tip_5lang": {
+                "de": "Perfekt für Regentage, ausreichend Parkplätze vorhanden.",
+                "hu": "Tökéletes esős napokra, bőséges parkolóhellyel.",
+                "ro": "Perfect pentru zilele ploioase, cu locuri de parcare suficiente.",
+                "en": "Perfect for rainy days with ample parking available."
+              }
+            },
+            {
+              "name": "Dinner with Harbor View",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre, während es draußen regnet.",
+                "hu": "Élvezze a barátságos benti hangulatot, miközben kint esik.",
+                "ro": "Bucurați-vă de atmosfera primitoare în timp ce afară plouă.",
+                "en": "Enjoy the cozy atmosphere inside while it rains outside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Parken in tiefen Pfützen auf unbefestigten Flächen.",
+              "Nutzen Sie die Sitzheizung, um nach kurzen Spaziergängen aufzuwärmen.",
+              "Die Windschutzscheibe beschlägt bei nasser Kleidung schnell (Klimaanlage nutzen).",
+              "Fahren Sie auf Küstenstraßen vorsichtig; Gischt kann die Sicht trüben.",
+              "Lassen Sie beim Parken an exponierten Stellen die Handbremse angezogen."
+            ],
+            "hu": [
+              "Kerülje a parkolást mély tócsákban a nem aszfaltozott területeken.",
+              "Használja az ülésfűtést a gyors felmelegedéshez a séták után.",
+              "A vizes ruhák miatt a szélvédő gyorsan párásodik (használja a klímát).",
+              "A tengerparti utakon óvatosan vezessen, a permet rontja a kilátást.",
+              "Kitett helyeken való parkoláskor mindig húzza be a kéziféket."
+            ],
+            "ro": [
+              "Evitați parcarea în bălți adânci pe suprafețe neasfaltate.",
+              "Folosiți încălzirea în scaune pentru a vă încălzi rapid după plimbări.",
+              "Parbriazul se aburește rapid din cauza hainelor ude (folosiți AC).",
+              "Conduceți cu atenție pe drumurile de coastă din cauza vizibilității reduse.",
+              "Trageți întotdeauna frâna de mână când parcați în locuri expuse."
+            ],
+            "en": [
+              "Avoid parking in deep puddles on unpaved surfaces.",
+              "Use seat heaters to warm up quickly after short walks.",
+              "Windows fog up quickly with wet clothes (use air conditioning).",
+              "Drive carefully on coastal roads; sea spray can blur visibility.",
+              "Always engage the handbrake when parking in exposed, windy areas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterfahrten auf Heimaey bieten dramatische Kontraste zwischen schwarzer Lava und weißem Schnee. Wir besuchen Stórhöfði für die wilde Aussicht, bevor wir uns in Eldheimar aufwärmen. Die Fahrt zum Elefantenfelsen ist im Winterlicht besonders eindrucksvoll. Vor dem frühen Einbruch der Dunkelheit besuchen wir die Belugas und lassen den Wagen am Hafen für ein warmes Abendessen stehen.",
+            "hu": "A téli autózás Heimaey-n drámai kontrasztot mutat a fekete láva és a fehér hó között. Meglátogatjuk Stórhöfðit a vad kilátásért, majd az Eldheimarban melegszünk fel. Az Elefánt-sziklához vezető út téli fényben különösen lenyűgöző. A korai sötétedés előtt megnézzük a bálnákat, majd a kikötőben hagyjuk az autót egy meleg vacsora erejéig.",
+            "ro": "Conducerea pe timp de iarnă în Heimaey oferă contraste dramatice între lava neagră și zăpada albă. Vizităm Stórhöfði pentru vederi sălbatice, apoi ne încălzim la Eldheimar. Drumul spre Elephant Rock este impresionant în lumina iernii. Înainte de lăsarea serii, vizităm balenele și lăsăm mașina în port pentru cină.",
+            "en": "Winter driving on Heimaey showcases the dramatic contrast between black lava and white snow. Visit Stórhöfði for wild views before warming up at Eldheimar. The drive to Elephant Rock is particularly striking in the winter light. Before the early darkness sets in, visit the Belugas and park by the harbor for a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Stórhöfði",
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Auffahrt den Straßenzustand auf Eis.",
+                "hu": "Felfelé menet előtt ellenőrizze az út jegesedését.",
+                "ro": "Verificați starea drumului pentru gheață înainte de a urca.",
+                "en": "Check road conditions for ice before driving up the hill."
+              }
+            },
+            {
+              "name": "Elephant Rock Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht vor Verwehungen auf dem Parkplatz.",
+                "hu": "Vigyázat, a parkolóban hóátfúvások lehetségesek.",
+                "ro": "Atenție la troienele de zăpadă în zona parcării.",
+                "en": "Watch out for snowdrifts in the parking area."
+              }
+            },
+            {
+              "name": "Cluster 2: Eldheimar & Eldfell",
+              "tip_5lang": {
+                "de": "Der Motor sollte warm gelaufen sein; genießen Sie das Museum.",
+                "hu": "Hagyja a motort bemelegedni; élvezze a múzeumot közben.",
+                "ro": "Lăsați motorul să se încălzească; bucurați-vă de muzeu.",
+                "en": "Let the engine warm up; enjoy your time inside the museum."
+              }
+            },
+            {
+              "name": "Climbing the Eldfell Volcano",
+              "tip_5lang": {
+                "de": "Nur mit Allradantrieb bei viel Neuschnee zum Parkplatz fahren.",
+                "hu": "Friss hó esetén csak összkerékhajtással hajtson a parkolóba.",
+                "ro": "Urcați la parcare doar cu 4x4 dacă este zăpadă proaspătă.",
+                "en": "Drive to the parking lot only with 4WD if there's fresh snow."
+              }
+            },
+            {
+              "name": "Cluster 3: Harbor Area",
+              "tip_5lang": {
+                "de": "Vorsicht beim Parken nahe dem Kai (Glatteisgefahr).",
+                "hu": "Óvatosan parkoljon a rakpart közelében (jegesedés veszélye).",
+                "ro": "Atenție la parcare lângă chei (pericol de polei).",
+                "en": "Be careful when parking near the quay due to black ice."
+              }
+            },
+            {
+              "name": "Heimaey Stave Church",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Schnee eng und rutschig sein.",
+                "hu": "A bevezető út hóban szűk és csúszós lehet.",
+                "ro": "Accesul poate fi îngust și alunecos în caz de zăpadă.",
+                "en": "The access road can be narrow and slippery in the snow."
+              }
+            },
+            {
+              "name": "Beluga Whale Sanctuary",
+              "tip_5lang": {
+                "de": "Ein warmer Ort, um die Zeit bis zum Abendessen zu überbrücken.",
+                "hu": "Meleg helyszín, ahol elütheti az időt vacsoráig.",
+                "ro": "Un loc cald pentru a petrece timpul până la cină.",
+                "en": "A warm location to spend time until dinner."
+              }
+            },
+            {
+              "name": "Dinner with Harbor View",
+              "tip_5lang": {
+                "de": "Buchen Sie einen Tisch am Fenster, um die Hafenlichter zu sehen.",
+                "hu": "Foglaljon asztalt az ablaknál a kikötői fények látványáért.",
+                "ro": "Rezervați o masă la fereastră pentru a vedea luminile portului.",
+                "en": "Book a window table to enjoy the harbor lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Mietwagen sind fast immer mit Spikereifen ausgestattet; nutzen Sie diese.",
+              "Halten Sie den Tank mindestens halb voll (Sicherheit bei Wetterumschwung).",
+              "Lassen Sie die Scheibenwischer nachts hochgeklappt (gegen Festfrieren).",
+              "Ein Eiskratzer und ein kleiner Besen sollten immer im Auto sein.",
+              "Fahren Sie bei starkem Wind langsam; das Auto bietet viel Angriffsfläche."
+            ],
+            "hu": [
+              "A bérautók szinte mindig szöges gumival szereltek; használja ki a tapadást.",
+              "Tartsa az üzemanyagtartályt legalább félig tele (biztonság vészhelyzetben).",
+              "Éjszakára hajtsa fel az ablaktörlőket, hogy ne fagyjanak rá az üvegre.",
+              "Jégkaparó és kisseprű mindig legyen kéznél az autóban.",
+              "Erős szélben vezessen lassan; az autó nagy felületen kapja a lökéseket."
+            ],
+            "ro": [
+              "Mașinile închiriate au aproape mereu anvelope cu ținte; folosiți-le.",
+              "Păstrați rezervorul cel puțin pe jumătate plin (pentru siguranță).",
+              "Ridicati ștergătoarele noaptea pentru a preveni înghețarea pe parbriz.",
+              "O racletă și o perie mică trebuie să fie mereu în mașină.",
+              "Conduceți încet pe vânt puternic; mașina are o suprafață mare de expunere."
+            ],
+            "en": [
+              "Rental cars are almost always fitted with studded tires; use them.",
+              "Keep the fuel tank at least half full for safety in case of weather shifts.",
+              "Lift wipers at night to prevent them from freezing to the windshield.",
+              "An ice scraper and small brush should always be kept in the car.",
+              "Drive slowly in high winds; the car acts like a sail for gusts."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1502,6 +2126,196 @@
           "Be at the bus stop on time. The buses do not wait.",
           "Confirm the last bus of the day back to the center, especially from Stórhöfði."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem lokalen Bus erreichen wir die Highlights von Heimaey trocken und bequem. Wir starten im Zentrum und fahren zur Stabkirche und dem Eldheimar-Museum, um die Regenschauer optimal zu nutzen. Die Fahrt zum Eldfell-Gebiet wird durch kurze Sprints zwischen Haltestelle und Museum überbrückt. Nach einem Besuch bei den Belugas bringt uns der Bus zurück zum Hafen für ein gemütliches Dinner.",
+            "hu": "A helyi busszal kényelmesen és szárazon érhetjük el Heimaey nevezetességeit. A központból indulunk a fatemplomhoz és az Eldheimar múzeumhoz, hogy elkerüljük az esőt. Az Eldfell környékét rövid, buszmegállók közötti sprinteléssel fedezzük fel. A bálnák után a busz visszavisz a kikötőbe, ahol egy barátságos vacsora vár ránk.",
+            "ro": "Cu autobuzul local ajungem la atracțiile din Heimaey confortabil și fără să ne udăm. Pornim din centru spre biserica de lemn și muzeul Eldheimar pentru a evita ploaia. Zona Eldfell este explorată cu sprinturi scurte între stație și muzeu. După vizita la balene, autobuzul ne duce înapoi în port pentru o cină caldă.",
+            "en": "Using the local bus, we reach Heimaey's highlights comfortably and dry. Start in the center and head to the Stave Church and Eldheimar museum to maximize indoor time. The Eldfell area is explored with short walks between bus stops and shelters. After visiting the Belugas, the bus brings us back to the harbor for a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Harbor & Town Center",
+              "tip_5lang": {
+                "de": "Warten Sie in den Cafés nahe der Haltestelle auf den Bus.",
+                "hu": "Várja a buszt a megálló közeli kávézókban.",
+                "ro": "Așteptați autobuzul în cafenelele de lângă stație.",
+                "en": "Wait for the bus in the cafes near the main stop."
+              }
+            },
+            {
+              "name": "Heimaey Stave Church & Skansinn",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als kurzen Wetterschutz.",
+                "hu": "Használja a templom bejáratát rövid eső elleni védelemnek.",
+                "ro": "Folosiți intrarea bisericii ca adăpost temporar.",
+                "en": "Use the church entrance as brief shelter from the rain."
+              }
+            },
+            {
+              "name": "Cluster 2: Volcanic Area",
+              "tip_5lang": {
+                "de": "Der Bus hält oft direkt vor dem Eldheimar-Museum.",
+                "hu": "A busz gyakran közvetlenül az Eldheimar múzeum előtt áll meg.",
+                "ro": "Autobuzul oprește adesea chiar în fața muzeului Eldheimar.",
+                "en": "The bus often stops right in front of the Eldheimar museum."
+              }
+            },
+            {
+              "name": "Climbing the Eldfell Volcano",
+              "tip_5lang": {
+                "de": "Verkürzen Sie die Wanderung bei starkem Regen.",
+                "hu": "Erős esőben rövidítse le a vulkáni túrát.",
+                "ro": "Scurtați drumeția în caz de ploaie torențială.",
+                "en": "Shorten your hike if the rain becomes too heavy."
+              }
+            },
+            {
+              "name": "Cluster 3: Stórhöfði",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob der Shuttle-Service bei Sturm fährt.",
+                "hu": "Ellenőrizze, hogy viharban is jár-e a transzferbusz.",
+                "ro": "Verificați dacă serviciul de transfer circulă pe furtună.",
+                "en": "Check if the shuttle service is running during stormy weather."
+              }
+            },
+            {
+              "name": "Return to Center & Dinner",
+              "tip_5lang": {
+                "de": "Die Busse fahren regelmäßig zurück zum Hafenbereich.",
+                "hu": "A buszok rendszeresen járnak vissza a kikötő környékére.",
+                "ro": "Autobuzele circulă regulat înapoi spre zona portului.",
+                "en": "Buses run regularly back to the harbor area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Holen Sie sich den aktuellen Fahrplan am Hafen oder im Info-Zentrum.",
+              "Halten Sie Kleingeld oder eine Karte für das Ticket bereit.",
+              "Die Wartehäuschen bieten Schutz, sind aber oft klein.",
+              "Nutzen Sie die App (falls verfügbar), um die Busse in Echtzeit zu verfolgen.",
+              "Planen Sie Pufferzeiten ein, da der Wind den Verkehr verzögern kann."
+            ],
+            "hu": [
+              "Szerezze be az aktuális menetrendet a kikötőben vagy az info-központban.",
+              "Készítsen be aprópénzt vagy bankkártyát a jegyvásárláshoz.",
+              "A várók védelmet nyújtanak, de gyakran szűkösek.",
+              "Használjon alkalmazást a buszok valós idejű követéséhez, ha elérhető.",
+              "Számoljon rá plusz időt, mert az erős szél lassíthatja a közlekedést."
+            ],
+            "ro": [
+              "Luați un program actualizat din port sau de la centrul de informare.",
+              "Aveți pregătite monede sau un card pentru plata biletului.",
+              "Adăposturile din stații oferă protecție, dar sunt adesea mici.",
+              "Folosiți aplicația pentru a urmări autobuzele în timp real, dacă este disponibilă.",
+              "Planificați timp suplimentar, vântul poate cauza întârzieri."
+            ],
+            "en": [
+              "Get the latest schedule at the harbor or tourist info center.",
+              "Have small change or a card ready for ticket payment.",
+              "Bus shelters provide protection but are often quite small.",
+              "Use an app to track buses in real-time if available.",
+              "Allow for extra time as high winds can sometimes delay transit."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist der Bus auf Heimaey eine warme Oase zwischen den Stopps. Wir nutzen den Transit, um bequem zum Eldheimar-Museum und zur Stabkirche zu gelangen, während draußen der Schnee fällt. Die Route führt uns auch in die Nähe des Eldfell, wo wir die Winterlandschaft bewundern. Vor Sonnenuntergang besuchen wir das Beluga-Zentrum und fahren zurück zum Hafen für ein festliches Abendessen.",
+            "hu": "Télen a busz Heimaey-n egy meleg oázis a megállók között. A tömegközlekedést használjuk az Eldheimar múzeumhoz és a fatemplomhoz, miközben kint esik a hó. Az Eldfell környékét is érintjük, megcsodálva a téli tájat. Naplemente előtt megnézzük a bálnákat, majd visszatérünk a kikötőbe egy ünnepi vacsorára.",
+            "ro": "Iarna, autobuzul din Heimaey este o oază caldă între opriri. Folosim transportul public pentru a ajunge la Eldheimar și la biserica de lemn în timp ce afară ninge. Ruta trece și pe lângă Eldfell, admirând peisajul de iarnă. Înainte de apus vizităm balenele și ne întoarcem în port pentru cină.",
+            "en": "In winter, the local bus on Heimaey is a warm oasis between sights. We use transit to reach Eldheimar and the Stave Church comfortably while the snow falls outside. The route takes us near Eldfell to admire the winter landscape. Before sunset, visit the Beluga Sanctuary and return to the harbor for a festive dinner."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Harbor & Town Center",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis an den Haltestellen.",
+                "hu": "Vigyázat, a buszmegállók környéke jeges lehet.",
+                "ro": "Atenție la gheața din stațiile de autobuz.",
+                "en": "Watch out for black ice near the bus stops."
+              }
+            },
+            {
+              "name": "Heimaey Stave Church & Skansinn",
+              "tip_5lang": {
+                "de": "Der Bus hält in Gehentfernung; Wege können verschneit sein.",
+                "hu": "A busz sétatávolságra áll meg; az utak havasak lehetnek.",
+                "ro": "Autobuzul oprește aproape; căile pot fi înzăpezite.",
+                "en": "The bus stops within walking distance; paths may be snowy."
+              }
+            },
+            {
+              "name": "Cluster 2: Volcanic Area",
+              "tip_5lang": {
+                "de": "Ein warmer Bus nach der Besichtigung ist sehr willkommen.",
+                "hu": "A meleg busz nagyon hívogató a látogatás után.",
+                "ro": "Autobuzul încălzit este foarte binevenit după vizită.",
+                "en": "A warm bus is very welcome after your museum visit."
+              }
+            },
+            {
+              "name": "Climbing the Eldfell Volcano",
+              "tip_5lang": {
+                "de": "Prüfen Sie den letzten Bus zurück vor Einbruch der Dunkelheit.",
+                "hu": "Ellenőrizze az utolsó járatot sötétedés előtt.",
+                "ro": "Verificați ultimul autobuz înainte de lăsarea întunericului.",
+                "en": "Check for the last bus back before total darkness sets in."
+              }
+            },
+            {
+              "name": "Cluster 3: Stórhöfði",
+              "tip_5lang": {
+                "de": "Im Winter seltener angefahren; Zeitplan genau prüfen.",
+                "hu": "Télen ritkábban jár ide busz; pontosan nézze meg a menetrendet.",
+                "ro": "Circulă mai rar iarna; verificați programul cu atenție.",
+                "en": "Buses run less frequently here in winter; check the schedule."
+              }
+            },
+            {
+              "name": "Return to Center & Dinner",
+              "tip_5lang": {
+                "de": "Die zentrale Haltestelle ist nah an den besten Restaurants.",
+                "hu": "A központi megálló közel van a legjobb éttermekhez.",
+                "ro": "Stația centrală este aproape de cele mai bune restaurante.",
+                "en": "The central stop is close to all the best restaurants."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter gut beheizt, ziehen Sie sich im Bus aus.",
+              "Vermeiden Sie langes Warten im Freien; nutzen Sie Echtzeit-Infos.",
+              "Der Winterfahrplan kann am Wochenende eingeschränkt sein.",
+              "Tragen Sie Schuhe mit gutem Profil für den Weg zur Haltestelle.",
+              "Informieren Sie den Fahrer bei schlechter Sicht über Ihr Ziel."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek, vegye le a kabátot utazás közben.",
+              "Kerülje a hosszú kinti várakozást; használja a menetrendi infókat.",
+              "A téli menetrend hétvégén korlátozott lehet.",
+              "Viseljen jó tapadású cipőt a megállóhoz vezető úton.",
+              "Rossz látási viszonyok között jelezze a sofőrnek a célállomását."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite; dați-vă haina jos înăuntru.",
+              "Evitați așteptarea prelungită afară; folosiți info în timp real.",
+              "Programul de iarnă poate fi limitat în weekend.",
+              "Purtați încălțăminte cu aderență bună pentru drumul spre stație.",
+              "Informați șoferul despre destinația dvs. în caz de vizibilitate redusă."
+            ],
+            "en": [
+              "Buses are well-heated in winter; shed layers while riding.",
+              "Avoid long waits outside; use real-time transit info apps.",
+              "The winter schedule might be reduced during weekends.",
+              "Wear shoes with good grip for the walk to the bus stop.",
+              "In low visibility, make sure the driver sees you at the stop."
+            ]
+          }
+        }
       }
     }
   }

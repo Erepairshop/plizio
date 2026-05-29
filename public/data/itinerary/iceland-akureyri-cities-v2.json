@@ -332,6 +332,196 @@
           "The weather can change quickly, so dressing in layers is best.",
           "Many cafes offer free Wi-Fi and a cozy place to warm up."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im modernen Hof Kulturzentrum, wo große Glasfronten den Blick auf den verregneten Fjord erlauben. Mittags bietet das Akureyri Kunstmuseum trockenen Unterschlupf für Kulturinteressierte. Nachmittags führt ein kurzer, erfrischender Spaziergang durch den Botanischen Garten, gefolgt von der Wärme des Stadtmuseums. Der Abend endet gemütlich in den Cafés der beleuchteten Innenstadt.",
+            "hu": "A reggel a modern Hof Kulturális Központban indul, ahol a hatalmas üvegfalak mögül nézhetjük az esős fjordot. Délben az Akureyri Művészeti Múzeum nyújt száraz menedéket a kultúra kedvelőinek. Délután egy frissítő, rövid séta következik a Botanikus Kertben, majd az Akureyri Múzeum melege vár. Az este a kivilágított belváros egyik hangulatos kávézójában ér véget.",
+            "ro": "Dimineața începe în modernul Centru Cultural Hof, unde vitrajele mari permit admirarea fjordului ploios. La prânz, Muzeul de Artă Akureyri oferă un refugiu uscat pentru iubitorii de cultură. După-amiaza, o scurtă plimbare revigorantă prin Grădina Botanică este urmată de căldura Muzeului Akureyri. Seara se încheie confortabil în cafenelele luminate din centrul orașului.",
+            "en": "The morning starts at the modern Hof Cultural Center, where large glass fronts allow views of the rainy fjord. At midday, the Akureyri Art Museum provides a dry haven for culture enthusiasts. The afternoon features a refreshing short walk through the Botanical Garden, followed by the warmth of the Akureyri Museum. The evening ends cozily in the cafes of the illuminated city center."
+          },
+          "stops": [
+            {
+              "name": "Hof Cultural Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um nasse Mäntel vor dem Rundgang abzugeben.",
+                "hu": "Használja a ruhatárat a vizes kabátok leadásához a körbejárás előtt.",
+                "ro": "Folosiți garderoba pentru a lăsa haina udă înainte de vizitare.",
+                "en": "Use the cloakroom to drop off wet coats before looking around."
+              }
+            },
+            {
+              "name": "Akureyrarkirkja",
+              "tip_5lang": {
+                "de": "Der Innenraum ist ein perfekter Ort, um dem Prasseln des Regens zu lauschen.",
+                "hu": "A belső tér tökéletes hely az eső kopogásának hallgatásához.",
+                "ro": "Interiorul este un loc perfect pentru a asculta ropotul ploii.",
+                "en": "The interior is a perfect place to listen to the patter of the rain."
+              }
+            },
+            {
+              "name": "Akureyri Art Museum",
+              "tip_5lang": {
+                "de": "Idealer Stopp, um die regenreichste Zeit des Tages im Trockenen zu verbringen.",
+                "hu": "Ideális megálló, hogy a nap legesősebb részét szárazon töltsük.",
+                "ro": "Oprire ideală pentru a petrece cea mai ploioasă parte a zilei la uscat.",
+                "en": "Ideal stop to spend the rainiest part of the day in the dry."
+              }
+            },
+            {
+              "name": "Lunch at Pollurinn",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Tisch am Fenster für eine dramatische Aussicht auf den Fjord.",
+                "hu": "Válasszon ablak melletti asztalt a drámai fjord-kilátáshoz.",
+                "ro": "Alegeți o masă la fereastră pentru o vedere dramatică spre fjord.",
+                "en": "Choose a window table for a dramatic view of the fjord."
+              }
+            },
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Die Cafeteria im Garten bietet bei plötzlichen Schauern guten Schutz.",
+                "hu": "A kertben található kávézó jó menedéket nyújt hirtelen zápor esetén.",
+                "ro": "Cafeneaua din grădină oferă adăpost bun în caz de aversă bruscă.",
+                "en": "The cafeteria in the garden offers good shelter during sudden showers."
+              }
+            },
+            {
+              "name": "Akureyri Museum",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei den historischen Ausstellungen über das Leben im Norden auf.",
+                "hu": "Melegedjen fel az északi életről szóló történelmi kiállításokon.",
+                "ro": "Încălziți-vă vizitând expozițiile istorice despre viața în nord.",
+                "en": "Warm up while exploring historical exhibits about life in the north."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Regenschirme sind wegen des starken Windes in Akureyri oft nutzlos.",
+              "Vollständig wasserfeste Kleidung und Schuhe sind für diesen Rundgang unerlässlich.",
+              "Nutzen Sie die kostenlosen Stadtbusse, wenn der Regen zu stark wird.",
+              "Viele Cafés bieten kostenlose Nachfüllungen (áfülling) für Filterkaffee an.",
+              "Achten Sie auf Pfützen in den tiefer gelegenen Straßen am Hafen."
+            ],
+            "hu": [
+              "Az erős szél miatt az esernyő gyakran használhatatlan Akureyriben.",
+              "A teljesen vízálló ruházat és lábbeli elengedhetetlen ehhez a körúthoz.",
+              "Használja az ingyenes városi buszokat, ha túl intenzívvé válik az eső.",
+              "Sok kávézó kínál ingyen újratöltést (áfülling) a filteres kávéhoz.",
+              "Vigyázzon a tócsákra a kikötő melletti alacsonyabban fekvő utcákon."
+            ],
+            "ro": [
+              "Umbrelele sunt adesea inutile în Akureyri din cauza vântului puternic.",
+              "Îmbrăcămintea și încălțămintea complet impermeabile sunt esențiale pentru acest traseu.",
+              "Folosiți autobuzele urbane gratuite dacă ploaia devine prea intensă.",
+              "Multe cafenele oferă reumplere gratuită (áfülling) pentru cafeaua la filtru.",
+              "Atenție la bălțile de pe străzile mai joase de lângă port."
+            ],
+            "en": [
+              "Umbrellas are often useless in Akureyri due to the strong winds.",
+              "Fully waterproof clothing and footwear are essential for this tour.",
+              "Use the free city buses if the rain becomes too intense.",
+              "Many cafes offer free refills (áfülling) for filter coffee.",
+              "Watch out for puddles in the lower streets near the harbor."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Hof Zentrum, während der Fjord oft im Nebel liegt. Mittags führt der Weg zur markanten Kirche, deren Stufen bei Schnee eine kleine Herausforderung sind. Nach dem Kunstmuseum lädt die Winterlandschaft des Botanischen Gartens zu einem kurzen Fotostopp ein. Der Nachmittag gehört der Lokalgeschichte im Akureyri Museum, bevor die frühe Dunkelheit die Stadt in warmes Licht taucht.",
+            "hu": "A fagyos reggel a Hof központnál indul, miközben a fjordot gyakran köd borítja. Délben az út a jellegzetes templomhoz vezet, melynek lépcsői hóban igazi kihívást jelentenek. A Művészeti Múzeum után a Botanikus Kert téli tája hívogat egy rövid fotózásra. A délután az Akureyri Múzeum helytörténeti tárlataié, mielőtt a korai sötétség meleg fénybe öltöztetné a várost.",
+            "ro": "O dimineață geroasă începe la Centrul Hof, în timp ce fjordul este adesea acoperit de ceață. La prânz, drumul duce spre biserica emblematică, ale cărei trepte sunt o provocare pe zăpadă. După Muzeul de Artă, peisajul de iarnă al Grădinii Botanice invită la o scurtă oprire foto. După-amiaza aparține istoriei locale la Muzeul Akureyri, înainte ca întunericul timpuriu să scalde orașul în lumină caldă.",
+            "en": "A frosty morning begins at the Hof Center, while the fjord is often shrouded in mist. At midday, the path leads to the landmark church, whose steps are a challenge in the snow. After the Art Museum, the winter landscape of the Botanical Garden invites a short photo stop. The afternoon is dedicated to local history at the Akureyri Museum, before the early darkness bathes the city in warm light."
+          },
+          "stops": [
+            {
+              "name": "Hof Cultural Center",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Foyer auf und prüfen Sie die aktuellen Wetterwarnungen.",
+                "hu": "Melegedjen fel az aulában, és ellenőrizze az aktuális időjárási riasztásokat.",
+                "ro": "Încălziți-vă în foaier și verificați alertele meteo actuale.",
+                "en": "Warm up in the foyer and check the latest weather warnings."
+              }
+            },
+            {
+              "name": "Akureyrarkirkja",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Stufen, sie können trotz Räumung sehr rutschig sein.",
+                "hu": "Vigyázat a lépcsőkön, a takarítás ellenére is nagyon csúszósak lehetnek.",
+                "ro": "Atenție pe trepte, pot fi foarte alunecoase în ciuda deszăpezirii.",
+                "en": "Watch your step on the stairs; they can be very slippery despite clearing."
+              }
+            },
+            {
+              "name": "Akureyri Art Museum",
+              "tip_5lang": {
+                "de": "Ein perfekter Rückzugsort, wenn der eisige Nordwind zu stark weht.",
+                "hu": "Tökéletes búvóhely, ha túl erősen fúj a jeges északi szél.",
+                "ro": "Un refugiu perfect dacă vântul înghețat de nord bate prea tare.",
+                "en": "A perfect retreat if the icy north wind blows too strongly."
+              }
+            },
+            {
+              "name": "Lunch at Pollurinn",
+              "tip_5lang": {
+                "de": "Probieren Sie eine heiße isländische Suppe, um die Körpertemperatur zu halten.",
+                "hu": "Kóstoljon meg egy forró izlandi levest a testhőmérséklet megőrzéséhez.",
+                "ro": "Încercați o supă fierbinte islandeză pentru a vă menține temperatura corpului.",
+                "en": "Try a hot Icelandic soup to keep your body temperature up."
+              }
+            },
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe des schneebedeckten Gartens; viele Pflanzen sind geschützt.",
+                "hu": "Élvezze a hóval borított kert nyugalmát; sok növény takarás alatt van.",
+                "ro": "Bucurați-vă de liniștea grădinii înzăpezite; multe plante sunt protejate.",
+                "en": "Enjoy the silence of the snow-covered garden; many plants are protected."
+              }
+            },
+            {
+              "name": "Akureyri Museum",
+              "tip_5lang": {
+                "de": "Besuchen Sie die nahegelegene alte Kirche, die im Winter besonders malerisch ist.",
+                "hu": "Látogasson el a közeli régi templomhoz, amely télen különösen festői.",
+                "ro": "Vizitați vechea biserică din apropiere, care este pitorească iarna.",
+                "en": "Visit the nearby old church, which is especially picturesque in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikes für die Schuhe (Manndroddar) sind bei vereisten Gehwegen lebenswichtig.",
+              "Die Sonne geht im Dezember bereits gegen 14:45 Uhr unter.",
+              "Kleiden Sie sich nach dem Zwiebelprinzip mit Wolle als Basisschicht.",
+              "Die Gehwege in der Innenstadt sind teilweise beheizt und schnee-frei.",
+              "Trinken Sie ausreichend Wasser, da die Winterluft in Island sehr trocken ist."
+            ],
+            "hu": [
+              "A cipőre húzható szöges talp (Manndroddar) életmentő a jeges járdákon.",
+              "Decemberben a nap már 14:45 körül lenyugszik.",
+              "Öltözzön rétegesen, gyapjú alsóruházat használatával.",
+              "A belvárosi járdák egy része fűtött és hómentes.",
+              "Igyon elég vizet, mert a téli levegő Izlandon nagyon száraz."
+            ],
+            "ro": [
+              "Crampoanele pentru pantofi (Manndroddar) sunt vitale pe trotuarele înghețate.",
+              "În decembrie, soarele apune deja în jurul orei 14:45.",
+              "Îmbrăcați-vă în straturi, folosind lâna ca strat de bază.",
+              "Trotuarele din centrul orașului sunt parțial încălzite și fără zăpadă.",
+              "Beți suficientă apă, deoarece aerul de iarnă în Islanda este foarte uscat."
+            ],
+            "en": [
+              "Shoe spikes (Manndroddar) are vital for icy sidewalks.",
+              "In December, the sun sets as early as 14:45.",
+              "Dress in layers using wool as a base layer.",
+              "Some downtown sidewalks are heated and snow-free.",
+              "Drink plenty of water, as the winter air in Iceland is very dry."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -662,6 +852,196 @@
           "Take water and snacks, especially for the trip to Kjarnaskógur.",
           "Be prepared for wind, especially by the fjord."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet wetterfest am Hof Zentrum. Die Fahrt entlang des Pollurinn erfordert bei Regen Konzentration auf den nassen Untergrund. Im Kjarnaskógur Wald bieten die Bäume natürlichen Schutz vor den Tropfen. Highlight ist der Weihnachtsgarten, der auch bei Grauwetter farbenfroh leuchtet. Nachmittags geht es zurück zum Botanischen Garten, bevor die Tour an der markanten Kirche endet.",
+            "hu": "A bringatúra esőálló felszerelésben indul a Hof központtól. A Pollurinn menti tekerés koncentrációt igényel a vizes útfelület miatt. A Kjarnaskógur erdőben a fák természetes védelmet nyújtanak az esőcseppek ellen. A fő látványosság a Karácsonyi Kert, amely szürke időben is színesen ragyog. Délután vissza tekerünk a Botanikus Kerthez, majd a templomnál zárjuk a túrát.",
+            "ro": "Turul cu bicicleta începe echipat de ploaie la Centrul Hof. Pedalatul pe lângă Pollurinn necesită concentrare pe suprafața umedă. În pădurea Kjarnaskógur, copacii oferă protecție naturală împotriva picăturilor. Punctul culminant este Grădina de Crăciun, care strălucește colorat chiar și pe vreme gri. După-amiaza revenim la Grădina Botanică înainte de a încheia la biserica emblematică.",
+            "en": "The bike tour starts weather-ready at the Hof Center. Riding along Pollurinn requires concentration on the wet surface. In Kjarnaskógur forest, trees offer natural protection from the raindrops. The highlight is the Christmas Garden, which glows colorfully even in grey weather. Afternoon leads back to the Botanical Garden before ending the tour at the landmark church."
+          },
+          "stops": [
+            {
+              "name": "Hof Cultural Center",
+              "tip_5lang": {
+                "de": "Suchen Sie unter dem Dachvorsprung Schutz für Ihr Fahrrad.",
+                "hu": "Keressen védett helyet a biciklinek az előtető alatt.",
+                "ro": "Căutați adăpost pentru bicicletă sub streșina clădirii.",
+                "en": "Look for shelter for your bike under the building's overhang."
+              }
+            },
+            {
+              "name": "Ride along Pollurinn",
+              "tip_5lang": {
+                "de": "Vorsicht vor Windböen, die den Regen peitschen können.",
+                "hu": "Vigyázzon a széllökésekre, amelyek felverhetik az esőt.",
+                "ro": "Atenție la rafalele de vânt care pot biciui ploaia.",
+                "en": "Watch out for wind gusts that can whip the rain."
+              }
+            },
+            {
+              "name": "Kjarnaskógur Forest",
+              "tip_5lang": {
+                "de": "Die befestigten Wege sind auch bei Nässe gut befahrbar.",
+                "hu": "A kiépített utak nedves időben is jól járhatók.",
+                "ro": "Potecile amenajate sunt practicabile și pe timp de ploaie.",
+                "en": "The paved paths are easily rideable even when wet."
+              }
+            },
+            {
+              "name": "Jólagarðurinn (The Christmas Garden)",
+              "tip_5lang": {
+                "de": "Ein warmer Kakao im Laden hilft gegen die Kälte des Regens.",
+                "hu": "Egy forró kakaó az üzletben segít az eső okozta lehűlés ellen.",
+                "ro": "O cacao fierbinte în magazin ajută împotriva frigului adus de ploaie.",
+                "en": "A hot cocoa in the shop helps against the chill of the rain."
+              }
+            },
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad am Eingang ab; die Wege im Garten sind Fußgängerzone.",
+                "hu": "Hagyja a biciklit a bejáratnál; a kert útjai gyalogos zónák.",
+                "ro": "Lăsați bicicleta la intrare; aleile grădinii sunt pietonale.",
+                "en": "Leave your bike at the entrance; the garden paths are pedestrian only."
+              }
+            },
+            {
+              "name": "Akureyrarkirkja",
+              "tip_5lang": {
+                "de": "Achten Sie beim Absteigen auf rutschige Markierungen auf der Straße.",
+                "hu": "Leszálláskor ügyeljen a csúszós útburkolati jelekre.",
+                "ro": "Atenție la marcajele rutiere alunecoase când descălecați.",
+                "en": "Watch out for slippery road markings when dismounting."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt; Nässe verlängert den Bremsweg.",
+              "Vermeiden Sie das Überfahren von nassem Laub in den bewaldeten Abschnitten.",
+              "Wasserdichte Packtaschen sind wichtig, um Ihre Ausrüstung trocken zu halten.",
+              "Akureyri ist hügelig; schalten Sie bei rutschigen Anstiegen frühzeitig."
+            ],
+            "hu": [
+              "Viseljen neonsárga esőkabátot a jobb láthatóság érdekében.",
+              "Indulás előtt ellenőrizze a fékeket; a vizes út növeli a féktávot.",
+              "Kerülje a vizes leveleket az erdős szakaszokon.",
+              "A vízálló táskák fontosak a felszerelés szárazon tartásához.",
+              "Akureyri dombos; csúszós emelkedőn váltson sebességet időben."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie galben neon pentru o vizibilitate mai bună.",
+              "Verificați frânele înainte de plecare; umezeala prelungește distanța de frânare.",
+              "Evitați să treceți peste frunzele ude în porțiunile împădurite.",
+              "Genzile impermeabile sunt importante pentru a vă menține echipamentul uscat.",
+              "Akureyri are dealuri; schimbați viteza din timp pe urcările alunecoase."
+            ],
+            "en": [
+              "Wear a neon yellow raincoat for better visibility.",
+              "Check your brakes before starting; wetness extends the braking distance.",
+              "Avoid riding over wet leaves in the forested sections.",
+              "Waterproof panniers are important to keep your gear dry.",
+              "Akureyri is hilly; shift gears early on slippery climbs."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winter-Radtour beginnt frostig am Hof. Die Fahrt entlang der Küste bietet klare, kalte Luft und weite Ausblicke. Im Kjarnaskógur Wald knirscht der Schnee unter den Reifen, während der Weihnachtsgarten ein magisches Winterziel darstellt. Nachmittags führt die Route durch den verschneiten Botanischen Garten zurück ins Zentrum, wo die Akureyrarkirkja im Abendlicht thront.",
+            "hu": "A téli bringatúra fagyosan indul a Hofnál. A tengerparti tekerés tiszta, hideg levegőt és tágas kilátást kínál. A Kjarnaskógur erdőben csikorog a hó a gumik alatt, a Karácsonyi Kert pedig mágikus úti cél. Délután az útvonal a havas Botanikus Kerten át vezet vissza a központba, ahol az Akureyrarkirkja trónol az esti fényben.",
+            "ro": "Turul de iarnă cu bicicleta începe înghețat la Hof. Plimbarea pe coastă oferă aer curat și rece, cu vederi largi. În pădurea Kjarnaskógur, zăpada scrâșnește sub roți, iar Grădina de Crăciun este o destinație magică. După-amiaza, traseul trece prin Grădina Botanică înzăpezită înapoi spre centru, unde Akureyrarkirkja domină în lumina serii.",
+            "en": "The winter bike tour starts frostily at Hof. Riding along the coast offers crisp, cold air and wide views. In Kjarnaskógur forest, snow crunches under the tires, while the Christmas Garden is a magical winter destination. In the afternoon, the route leads through the snowy Botanical Garden back to the center, where Akureyrarkirkja towers in the evening light."
+          },
+          "stops": [
+            {
+              "name": "Hof Cultural Center",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; bei Kälte sinkt er leicht ab.",
+                "hu": "Ellenőrizze a guminyomást; hidegben könnyen lecsökkenhet.",
+                "ro": "Verificați presiunea în pneuri; scade ușor la frig.",
+                "en": "Check your tire pressure; it drops slightly in the cold."
+              }
+            },
+            {
+              "name": "Ride along Pollurinn",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Radweg direkt am Wasser.",
+                "hu": "Vigyázzon a jegesedésre a közvetlen vízparti kerékpárúton.",
+                "ro": "Atenție la polei pe pista de biciclete de lângă apă.",
+                "en": "Watch out for black ice on the bike path right by the water."
+              }
+            },
+            {
+              "name": "Kjarnaskógur Forest",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Hauptwege; Nebenpfade können tief verschneit sein.",
+                "hu": "Használja a főutakat; a mellékösvények mély hóval lehetnek borítva.",
+                "ro": "Folosiți aleile principale; potecile secundare pot fi înzăpezite.",
+                "en": "Stick to the main paths; side trails may be deeply snowed in."
+              }
+            },
+            {
+              "name": "Jólagarðurinn (The Christmas Garden)",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad sicher, da Schneepflüge hier oft im Einsatz sind.",
+                "hu": "Parkoljon biztonságosan, mert a hókotrók itt gyakran dolgoznak.",
+                "ro": "Parcați bicicleta în siguranță, plugurile de zăpadă sunt active aici.",
+                "en": "Park your bike safely, as snow plows are often active here."
+              }
+            },
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen im Pavillon ist empfehlenswert.",
+                "hu": "Egy rövid megálló a pavilonban ajánlott a felmelegedéshez.",
+                "ro": "O scurtă oprire pentru încălzire în pavilion este recomandată.",
+                "en": "A short stop to warm up in the pavilion is recommended."
+              }
+            },
+            {
+              "name": "Akureyrarkirkja",
+              "tip_5lang": {
+                "de": "Vergewissern Sie sich, dass Ihre Beleuchtung für den Rückweg funktioniert.",
+                "hu": "Győződjön meg róla, hogy a világítás működik a visszaúthoz.",
+                "ro": "Asigurați-vă că luminile funcționează pentru drumul de întoarcere.",
+                "en": "Make sure your lights are working for the ride back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen (nagladekk) sind für das Radfahren im Winter in Akureyri ein Muss.",
+              "Tragen Sie eine winddichte Maske oder einen Schal gegen den eiskalten Fahrtwind.",
+              "Batterien von E-Bikes und Lampen entladen sich bei Frost deutlich schneller.",
+              "Vermeiden Sie abrupte Lenkbewegungen auf festgefahrenem Schnee.",
+              "Das Tageslicht ist extrem begrenzt; starten Sie pünktlich um 09:00 Uhr."
+            ],
+            "hu": [
+              "A szöges gumi (nagladekk) kötelező a téli bringázáshoz Akureyriben.",
+              "Viseljen szélálló maszkot vagy sálat a jéghideg menetszél ellen.",
+              "Az e-bike-ok és lámpák akkumulátora sokkal gyorsabban merül fagyban.",
+              "Kerülje a hirtelen kormánymozdulatokat a döngölt havon.",
+              "A nappali fény nagyon korlátozott; induljon pontosan 09:00-kor."
+            ],
+            "ro": [
+              "Anvelopele cu ținte (nagladekk) sunt obligatorii pentru ciclismul de iarnă.",
+              "Purtați o mască rezistentă la vânt sau un fular împotriva curentului înghețat.",
+              "Bateriile bicicletelor electrice și ale luminilor se descarcă mult mai repede.",
+              "Evitați manevrele bruște de direcție pe zăpada bătătorită.",
+              "Lumina zilei este extrem de limitată; începeți punctual la ora 09:00."
+            ],
+            "en": [
+              "Studded tires (nagladekk) are a must for winter cycling in Akureyri.",
+              "Wear a windproof mask or scarf against the freezing wind chill.",
+              "E-bike batteries and lights drain significantly faster in the frost.",
+              "Avoid abrupt steering movements on packed snow.",
+              "Daylight is extremely limited; start promptly at 09:00."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1022,6 +1402,214 @@
           "Fill up with gas before heading out on longer trips.",
           "In winter, always check road conditions on road.is."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Akureyri auch bei Regen komfortabel zu erkunden. Die Fahrt beginnt am farbenfrohen Weihnachtsgarten außerhalb der Stadt. Über den Wald Kjarnaskógur geht es zurück zum Museumsviertel, wo das Auto im Trockenen geparkt werden kann. Nachmittags folgen Besuche im Botanischen Garten und dem Kunstmuseum, bevor der Tag im stilvollen Hof Kulturzentrum ausklingt.",
+            "hu": "Autóval Akureyri esőben is kényelmesen felfedezhető. A túra a városon kívüli színes Karácsonyi Kertnél indul. A Kjarnaskógur erdőn át térünk vissza a múzeumi negyedbe, ahol az autóban szárazon maradhatunk. Délután a Botanikus Kert és a Művészeti Múzeum következik, majd a nap a stílusos Hof Kulturális Központban zárul.",
+            "ro": "Cu mașina, Akureyri poate fi explorat confortabil chiar și pe ploaie. Traseul începe la colorata Grădină de Crăciun din afara orașului. Prin pădurea Kjarnaskógur revenim spre cartierul muzeelor, unde mașina oferă adăpost uscat. După-amiaza urmează vizite la Grădina Botanică și Muzeul de Artă, înainte ca ziua să se încheie la elegantul Centru Cultural Hof.",
+            "en": "By car, Akureyri is comfortable to explore even in the rain. The journey begins at the colorful Christmas Garden outside the city. Through Kjarnaskógur forest, we return to the Museum Quarter, staying dry in the car. Afternoon includes visits to the Botanical Garden and Art Museum, before the day ends at the stylish Hof Cultural Center."
+          },
+          "stops": [
+            {
+              "name": "Jólagarðurinn (The Christmas Garden)",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist direkt vor dem Haus, ideal bei starkem Regen.",
+                "hu": "A parkoló közvetlenül a ház előtt van, ideális erős esőben.",
+                "ro": "Parcarea este chiar în fața clădirii, ideal în caz de ploaie torențială.",
+                "en": "The parking lot is right in front of the building, ideal in heavy rain."
+              }
+            },
+            {
+              "name": "Kjarnaskógur Forest",
+              "tip_5lang": {
+                "de": "Die asphaltierten Zufahrten bieten gute Sicht auf den Wald.",
+                "hu": "Az aszfaltozott utak jó rálátást biztosítanak az erdőre.",
+                "ro": "Drumurile de acces asfaltate oferă o vedere bună asupra pădurii.",
+                "en": "The paved access roads offer good views of the forest."
+              }
+            },
+            {
+              "name": "Cluster: Museum Quarter",
+              "tip_5lang": {
+                "de": "Nutzen Sie den zentralen Parkplatz, um mehrere Museen zu Fuß zu erreichen.",
+                "hu": "Használja a központi parkolót több múzeum gyalogos eléréséhez.",
+                "ro": "Folosiți parcarea centrală pentru a ajunge pe jos la mai multe muzee.",
+                "en": "Use the central parking lot to reach several museums on foot."
+              }
+            },
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Parken Sie an der Eyrarlandsvegur für den kürzesten Weg zum Eingang.",
+                "hu": "Parkoljon az Eyrarlandsvegur utcában a legrövidebb bejárathoz.",
+                "ro": "Parcați pe Eyrarlandsvegur pentru cel mai scurt drum spre intrare.",
+                "en": "Park on Eyrarlandsvegur for the shortest walk to the entrance."
+              }
+            },
+            {
+              "name": "Cluster: City Center",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Parkuhren; im Zentrum ist das Parken zeitlich begrenzt.",
+                "hu": "Ügyeljen a parkolóórákra; a belvárosban a parkolás időben korlátozott.",
+                "ro": "Atenție la automatele de parcare; în centru, timpul este limitat.",
+                "en": "Watch the parking meters; parking in the center is time-limited."
+              }
+            },
+            {
+              "name": "Akureyri Art Museum",
+              "tip_5lang": {
+                "de": "Parkplätze finden Sie oft in den Nebenstraßen hinter dem Museum.",
+                "hu": "Parkolóhelyet gyakran talál a múzeum mögötti mellékutcákban.",
+                "ro": "Găsiți adesea locuri de parcare pe străzile secundare din spatele muzeului.",
+                "en": "Parking is often available in the side streets behind the museum."
+              }
+            },
+            {
+              "name": "Hof Cultural Center",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt am Fjord, nur wenige Schritte zum Eingang.",
+                "hu": "Nagy parkoló közvetlenül a fjordnál, pár lépésre a bejárattól.",
+                "ro": "Parcare mare chiar lângă fjord, la câțiva pași de intrare.",
+                "en": "Large parking lot right by the fjord, just a few steps to the entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Ringstraße um Akureyri.",
+              "Schalten Sie auch tagsüber das Abblendlicht ein, wie in Island vorgeschrieben.",
+              "Holen Sie sich eine Parkscheibe in einer Bank oder Tankstelle.",
+              "Vermeiden Sie das Parken in tiefen Pfützen am Straßenrand.",
+              "Die Sicht kann bei starkem Regen am Fjord plötzlich abnehmen."
+            ],
+            "hu": [
+              "Vigyázzon a felfutó vízre (aquaplaning) az Akureyri körüli úton.",
+              "Nappal is kapcsolja be a tompított fényszórót, ahogy Izlandon kötelező.",
+              "Szerezzen be parkolótárcsát bankban vagy benzinkúton.",
+              "Kerülje a parkolást mély tócsákban az út szélén.",
+              "A látótávolság erős esőben hirtelen lecsökkenhet a fjordnál."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe șoseaua de centură a orașului Akureyri.",
+              "Aprindeți faza scurtă și în timpul zilei, conform legii islandeze.",
+              "Procurați-vă un disc de parcare de la o bancă sau benzinărie.",
+              "Evitați parcarea în bălți adânci la marginea drumului.",
+              "Vizibilitatea poate scădea brusc la fjord în timpul ploii torențiale."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the ring road around Akureyri.",
+              "Keep your headlights on during the day, as required in Iceland.",
+              "Get a parking disc from a bank or gas station.",
+              "Avoid parking in deep puddles at the roadside.",
+              "Visibility can decrease suddenly at the fjord during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winter-Autotour beginnt am magischen Weihnachtsgarten, der oft tief verschneit ist. Die Fahrt durch den Kjarnaskógur Wald zeigt eine beeindruckende Frostlandschaft. Im Museumsviertel und dem Stadtzentrum genießen Sie die festliche Beleuchtung. Der Tag führt vorbei am Botanischen Garten zum Kunstmuseum und endet sicher am Hof Kulturzentrum direkt am Wasser.",
+            "hu": "A téli autós túra a mágikus Karácsonyi Kertnél indul, melyet gyakran mély hó borít. Az út a Kjarnaskógur erdőn át lenyűgöző fagyos tájat mutat. A múzeumi negyedben és a belvárosban élvezheti az ünnepi kivilágítást. A nap a Botanikus Kerten és a Művészeti Múzeumon át vezet a Hof Kulturális Központhoz a vízparton.",
+            "ro": "Turul de iarnă cu mașina începe la magica Grădină de Crăciun, adesea acoperită de zăpadă adâncă. Drumul prin pădurea Kjarnaskógur dezvăluie un peisaj înghețat impresionant. În cartierul muzeelor și în centru vă bucurați de iluminatul festiv. Ziua trece pe lângă Grădina Botanică spre Muzeul de Artă și se încheie sigur la Centrul Hof.",
+            "en": "The winter car tour starts at the magical Christmas Garden, often buried in deep snow. The drive through Kjarnaskógur forest reveals an impressive frost landscape. In the Museum Quarter and city center, you can enjoy the festive lighting. The day leads past the Botanical Garden to the Art Museum and ends safely at the Hof Cultural Center by the water."
+          },
+          "stops": [
+            {
+              "name": "Jólagarðurinn (The Christmas Garden)",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Zufahrt frisch geräumt ist; 4WD empfohlen.",
+                "hu": "Ellenőrizze, hogy az utat letakarították-e; összkerékhajtás ajánlott.",
+                "ro": "Verificați dacă drumul de acces este deszăpezit; 4WD recomandat.",
+                "en": "Check if the access road is freshly cleared; 4WD recommended."
+              }
+            },
+            {
+              "name": "Kjarnaskógur Forest",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den geräumten Parkplätzen; Schneewehen können tückisch sein.",
+                "hu": "Maradjon a letakarított parkolókban; a hófúvások csalókák lehetnek.",
+                "ro": "Rămâneți în parcările deszăpezite; troienele pot fi înșelătoare.",
+                "en": "Stay in cleared parking areas; snowdrifts can be treacherous."
+              }
+            },
+            {
+              "name": "Cluster: Museum Quarter",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann durch zusammengeschobenen Schnee verkleinert sein.",
+                "hu": "A parkoló mérete a feltolt hóbuckák miatt kisebb lehet.",
+                "ro": "Locurile de parcare pot fi limitate de mormanele de zăpadă.",
+                "en": "Parking space may be reduced due to pushed-up snow piles."
+              }
+            },
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Vermeiden Sie steile Nebenstraßen beim Parken im Winter.",
+                "hu": "Télen kerülje a meredek mellékutcákat a parkoláshoz.",
+                "ro": "Evitați străzile secundare abrupte pentru parcare iarna.",
+                "en": "Avoid steep side streets for parking in winter."
+              }
+            },
+            {
+              "name": "Cluster: City Center",
+              "tip_5lang": {
+                "de": "Beheizte Straßen in der Stadtmitte erleichtern das Manövrieren.",
+                "hu": "A belvárosi fűtött utak megkönnyítik a manőverezést.",
+                "ro": "Străzile încălzite din centrul orașului ușurează manevrele.",
+                "en": "Heated streets in the city center make maneuvering easier."
+              }
+            },
+            {
+              "name": "Akureyri Art Museum",
+              "tip_5lang": {
+                "de": "Parken Sie nicht unter Dächern mit großen Eiszapfen.",
+                "hu": "Ne parkoljon nagy jégcsapokkal teli tetők alá.",
+                "ro": "Nu parcați sub acoperișuri cu țurțuri mari de gheață.",
+                "en": "Do not park under roofs with large icicles."
+              }
+            },
+            {
+              "name": "Hof Cultural Center",
+              "tip_5lang": {
+                "de": "Gute Beleuchtung auf dem Parkplatz bei früher Dunkelheit.",
+                "hu": "Jó világítás a parkolóban a korai sötétedés idején.",
+                "ro": "Iluminare bună în parcare în timpul întunericului timpuriu.",
+                "en": "Good lighting in the parking lot during early darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein 4WD-Fahrzeug mit guten Winterreifen ist im Winter unerlässlich.",
+              "Prüfen Sie vor jeder Fahrt die Website road.is für Straßensperrungen.",
+              "Halten Sie einen Eiskratzer und eine kleine Schaufel im Auto bereit.",
+              "Vermeiden Sie ruckartiges Bremsen auf vereisten Kreuzungen.",
+              "Achten Sie auf Rentiere oder Schafe, die sich auf die Straße verirren können."
+            ],
+            "hu": [
+              "Télen elengedhetetlen az összkerékhajtás és a jó téli gumi.",
+              "Minden út előtt ellenőrizze a road.is oldalt az útlezárások miatt.",
+              "Legyen az autóban jégkaparó és egy kis lapát.",
+              "Kerülje a hirtelen fékezést a jeges kereszteződésekben.",
+              "Ügyeljen a rénszarvasokra vagy juhokra, amelyek az útra tévedhetnek."
+            ],
+            "ro": [
+              "Un vehicul 4WD cu anvelope bune de iarnă este esențial iarna.",
+              "Verificați site-ul road.is înainte de orice drum pentru închideri de drumuri.",
+              "Aveți pregătite în mașină o racletă și o lopată mică.",
+              "Evitați frânarea bruscă în intersecțiile înghețate.",
+              "Atenție la reni sau oi care pot rătăci pe șosea."
+            ],
+            "en": [
+              "A 4WD vehicle with good winter tires is essential in winter.",
+              "Check road.is before every trip for road closures.",
+              "Keep an ice scraper and a small shovel ready in the car.",
+              "Avoid jerky braking at icy intersections.",
+              "Watch out for reindeer or sheep that may stray onto the road."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1358,6 +1946,196 @@
           "Note that buses run less frequently on weekends.",
           "A wave to the bus driver signals that you want to get off at the next stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit den kostenlosen Stadtbussen bleibt man in Akureyri auch bei Regen trocken. Die Tour startet im Stadtzentrum und führt zur Akureyrarkirkja. Nach einer kurzen Fahrt erreicht man das Museumsviertel und den Botanischen Garten, wo Buswartehäuschen Schutz bieten. Ein Ausflug zum Wald Kjarnaskógur ist auch bei Nässe reizvoll, bevor der Bus Sie sicher zurück ins Zentrum bringt.",
+            "hu": "Az ingyenes városi buszokkal Akureyri esőben is szárazon bejárható. A túra a belvárosban indul, és a templomhoz vezet. Rövid utazás után elérjük a múzeumi negyedet és a Botanikus Kertet, ahol a buszmegállók menedéket nyújtanak. A Kjarnaskógur erdő esőben is hívogató, mielőtt a busz biztonságban visszavisz a központba.",
+            "ro": "Cu autobuzele urbane gratuite, Akureyri poate fi vizitat la uscat chiar și pe ploaie. Turul începe în centru și duce spre Akureyrarkirkja. După o scurtă călătorie, se ajunge la cartierul muzeelor și Grădina Botanică, unde stațiile oferă adăpost. O excursie în pădurea Kjarnaskógur este atractivă și pe ploaie, înainte ca autobuzul să vă readucă în centru.",
+            "en": "With free city buses, Akureyri can be explored while staying dry even in the rain. The tour starts in the city center and leads to Akureyrarkirkja. After a short ride, you reach the Museum Quarter and the Botanical Garden, where bus shelters provide cover. A trip to Kjarnaskógur forest is charming even in wet weather, before the bus brings you safely back to the center."
+          },
+          "stops": [
+            {
+              "name": "Cluster: City Center",
+              "tip_5lang": {
+                "de": "Der zentrale Busbahnhof bietet einen überdachten Wartebereich.",
+                "hu": "A központi buszpályaudvar fedett várakozóhelyet kínál.",
+                "ro": "Autogara centrală oferă o zonă de așteptare acoperită.",
+                "en": "The central bus station offers a covered waiting area."
+              }
+            },
+            {
+              "name": "Akureyrarkirkja",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt direkt am Fuß der Treppe.",
+                "hu": "A buszmegálló közvetlenül a lépcső aljánál található.",
+                "ro": "Stația de autobuz este chiar la baza scărilor.",
+                "en": "The bus stop is located right at the foot of the stairs."
+              }
+            },
+            {
+              "name": "Trip to the Museum Quarter",
+              "tip_5lang": {
+                "de": "Nutzen Sie die App 'Strætó' für Echtzeit-Abfahrten bei Regen.",
+                "hu": "Használja a 'Strætó' alkalmazást az élő indulásokhoz esőben.",
+                "ro": "Folosiți aplicația 'Strætó' pentru plecări în timp real pe ploaie.",
+                "en": "Use the 'Strætó' app for real-time departures during rain."
+              }
+            },
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Der Bus hält nur wenige Meter vom Haupteingang entfernt.",
+                "hu": "A busz csak pár méterre áll meg a főbejárattól.",
+                "ro": "Autobuzul oprește la doar câțiva metri de intrarea principală.",
+                "en": "The bus stops just a few meters from the main entrance."
+              }
+            },
+            {
+              "name": "Trip to Kjarnaskógur",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan genau, da Busse hier seltener halten.",
+                "hu": "Ellenőrizze pontosan a menetrendet, mert itt ritkábban járnak a buszok.",
+                "ro": "Verificați cu atenție orarul, autobuzele opresc mai rar aici.",
+                "en": "Check the schedule carefully, as buses stop here less frequently."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Ideale Zeit für Einkäufe in den überdachten Passagen der Stadt.",
+                "hu": "Ideális idő a vásárláshoz a város fedett passzázsaiban.",
+                "ro": "Moment ideal pentru cumpărături în pasajele acoperite ale orașului.",
+                "en": "Ideal time for shopping in the city's covered passages."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Alle Stadtbusse in Akureyri sind für alle Fahrgäste kostenlos.",
+              "Die Busse sind beheizt und bieten WLAN, ideal zum Aufwärmen.",
+              "Warten Sie im Inneren von Gebäuden, bis der Bus laut App fast da ist.",
+              "Die Fahrpläne können sich bei sehr starkem Regen leicht verzögern.",
+              "Die gelben Busse sind im grauen Regenwetter sehr gut erkennbar."
+            ],
+            "hu": [
+              "Minden városi busz ingyenes minden utas számára Akureyriben.",
+              "A buszok fűtöttek és van rajtuk wifi, ideális a felmelegedéshez.",
+              "Várjon az épületekben, amíg az alkalmazás szerint a busz már közel van.",
+              "A menetrend nagyon erős esőben kissé csúszhat.",
+              "A sárga buszok a szürke esős időben is jól felismerhetők."
+            ],
+            "ro": [
+              "Toate autobuzele urbane din Akureyri sunt gratuite pentru toți pasagerii.",
+              "Autobuzele sunt încălzite și au Wi-Fi, fiind ideale pentru încălzire.",
+              "Așteptați în interiorul clădirilor până când autobuzul este aproape.",
+              "Orarele pot avea mici întârzieri în caz de ploaie foarte puternică.",
+              "Autobuzele galbene sunt foarte vizibile pe vremea gri de ploaie."
+            ],
+            "en": [
+              "All city buses in Akureyri are free for all passengers.",
+              "The buses are heated and offer Wi-Fi, ideal for warming up.",
+              "Wait inside buildings until the bus is nearly there according to the app.",
+              "Schedules may be slightly delayed during very heavy rain.",
+              "The yellow buses are very recognizable in the grey rainy weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Akureyri lässt sich sicher mit dem Bus erkunden, besonders wenn die Straßen glatt sind. Vom Zentrum führt der Weg zur verschneiten Kirche und weiter zum Museumsviertel. Die Fahrt zum Botanischen Garten bietet Ausblicke auf die winterliche Stadt. Ein Highlight ist die Fahrt Richtung Kjarnaskógur, bevor Sie der beheizte Bus zurück in die beleuchtete Innenstadt bringt.",
+            "hu": "A téli Akureyri biztonságosan felfedezhető busszal, különösen jeges utakon. A központból az út a havas templomhoz, majd a múzeumi negyedbe vezet. A Botanikus Kert felé vezető út kilátást nyújt a téli városra. Különlegesség a Kjarnaskógur felé tartó szakasz, mielőtt a fűtött busz visszavisz a kivilágított belvárosba.",
+            "ro": "Akureyri pe timp de iarnă poate fi explorat în siguranță cu autobuzul, mai ales pe polei. Din centru, drumul duce spre biserica înzăpezită și cartierul muzeelor. Călătoria spre Grădina Botanică oferă vederi asupra orașului de iarnă. Un punct forte este drumul spre Kjarnaskógur, înainte ca autobuzul încălzit să vă readucă în centrul luminat.",
+            "en": "Wintry Akureyri can be explored safely by bus, especially when the roads are icy. From the center, the path leads to the snowy church and on to the Museum Quarter. The ride to the Botanical Garden offers views of the winter city. A highlight is the trip towards Kjarnaskógur, before the heated bus brings you back to the illuminated city center."
+          },
+          "stops": [
+            {
+              "name": "Cluster: City Center",
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Wartebereich in der Nähe des Busbahnhofs.",
+                "hu": "Használja a fűtött várakozóhelyet a buszpályaudvar közelében.",
+                "ro": "Folosiți zona de așteptare încălzită din apropierea autogării.",
+                "en": "Use the heated waiting area near the bus station."
+              }
+            },
+            {
+              "name": "Akureyrarkirkja",
+              "tip_5lang": {
+                "de": "Achten Sie auf geräumte Pfade zwischen Haltestelle und Kirche.",
+                "hu": "Ügyeljen a letakarított ösvényekre a megálló és a templom között.",
+                "ro": "Atenție la căile deszăpezite între stație și biserică.",
+                "en": "Watch for cleared paths between the stop and the church."
+              }
+            },
+            {
+              "name": "Trip to the Museum Quarter",
+              "tip_5lang": {
+                "de": "Die Busse fahren im Winter zuverlässig, können aber bei Sturm ausfallen.",
+                "hu": "A buszok télen is megbízhatóak, de viharban kimaradhatnak.",
+                "ro": "Autobuzele sunt fiabile iarna, dar pot fi anulate în caz de furtună.",
+                "en": "Buses are reliable in winter but may be canceled during storms."
+              }
+            },
+            {
+              "name": "Botanical Garden",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist ungeschützt; kommen Sie erst kurz vor der Abfahrt.",
+                "hu": "A megálló fedetlen; csak röviddel az indulás előtt érkezzen.",
+                "ro": "Stația nu este acoperită; veniți doar cu puțin timp înainte de plecare.",
+                "en": "The stop is unsheltered; arrive only shortly before departure."
+              }
+            },
+            {
+              "name": "Trip to Kjarnaskógur",
+              "tip_5lang": {
+                "de": "Im Winter verkehren die Busse hierher seltener; Plan prüfen.",
+                "hu": "Télen ritkábban járnak ide a buszok; ellenőrizze a tervet.",
+                "ro": "Iarna autobuzele circulă mai rar aici; verificați orarul.",
+                "en": "Buses run here less frequently in winter; check the schedule."
+              }
+            },
+            {
+              "name": "Return to the Center",
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Fahrt und die Sicht auf das Nordlicht-Potenzial.",
+                "hu": "Élvezze a meleg utazást és figyelje az északi fény lehetőségét.",
+                "ro": "Bucurați-vă de drumul călduros și urmăriți potențialul aurorei boreale.",
+                "en": "Enjoy the warm ride and keep an eye out for potential Northern Lights."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Nutzung des Busses vermeidet stressiges Fahren auf Eis.",
+              "Die Busse haben im Winter oft Spikereifen für maximale Sicherheit.",
+              "Wärmen Sie sich während der Fahrt auf; die Heizung ist meist sehr stark.",
+              "Tragen Sie Reflektoren, damit Busfahrer Sie im Dunkeln besser sehen.",
+              "Achten Sie auf Durchsagen über eventuelle wetterbedingte Umleitungen."
+            ],
+            "hu": [
+              "A busz használatával elkerülhető a stresszes vezetés a jégen.",
+              "A buszok télen gyakran szöges gumival közlekednek a biztonságért.",
+              "Melegedjen fel utazás közben; a fűtés általában nagyon erős.",
+              "Viseljen fényvisszaverőt, hogy a sofőrök lássák a sötétben.",
+              "Figyelje a bemondásokat az esetleges időjárási terelésekről."
+            ],
+            "ro": [
+              "Folosirea autobuzului evită condusul stresant pe gheață.",
+              "Autobuzele au adesea anvelope cu ținte iarna pentru siguranță maximă.",
+              "Încălziți-vă în timpul călătoriei; căldura este de obicei foarte puternică.",
+              "Purtați reflectorizante pentru ca șoferii să vă vadă mai bine pe întuneric.",
+              "Fiți atenți la anunțurile despre eventuale devieri cauzate de vreme."
+            ],
+            "en": [
+              "Using the bus avoids stressful driving on ice.",
+              "Buses often have studded tires in winter for maximum safety.",
+              "Warm up during the ride; the heating is usually very strong.",
+              "Wear reflectors so bus drivers can see you better in the dark.",
+              "Listen for announcements about possible weather-related diversions."
+            ]
+          }
+        }
       }
     }
   }

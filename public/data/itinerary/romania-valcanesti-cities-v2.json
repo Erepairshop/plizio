@@ -356,6 +356,188 @@
           "Most sights are close to each other, making walking ideal.",
           "Check the opening hours of the wine cellars in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regen am Alten Rathaus lässt die Geschichte des Ortes glänzen. Mittags bietet die Dinu-Constantinescu-Schule trockenen Unterschlupf und kulturelle Einblicke. Nachmittags leuchtet das dunkle Holz der Paraschiva-Kirche im feuchten Nebel, bevor die tiefen Weinkeller Wärme und Schutz bieten. Der Abend endet am Heldendenkmal, wo die Lichter der Stadt auf dem nassen Asphalt tanzen.",
+            "hu": "Az eső kopogása a Városházánál sajátos ritmust ad a reggelnek. Délben az iskola és a templom falai közt találsz menedéket a zivatar elől. Délután a fatemplom sötét gerendái méltóságteljesen csillognak a szitálásban, majd a borospincék mélyén, a hordók között várod meg az idő jobbra fordulását. Az este a Hősök emlékművénél, a víztócsákban tükröződő fényekkel zárul.",
+            "ro": "Ploaia dimineții la Vechea Primărie oferă un farmec melancolic clădirilor istorice. La prânz, școala și bisericile oferă adăpost uscat și liniște pentru reflecție. După-amiaza, lemnul Bisericii Sf. Paraschiva strălucește sub burniță, iar pivnițele de vin devin refugiul perfect împotriva vremii. Seara se încheie la Monumentul Eroilor, unde reflexiile luminilor pe asfaltul ud creează o atmosferă aparte.",
+            "en": "The rain at the Old Town Hall adds a melancholic shine to the historical walls. By noon, the school and churches provide a dry sanctuary from the downpour. In the afternoon, the dark wood of the Paraschiva Church glistens in the mist, leading to the warmth of the traditional wine cellars. The evening concludes at the Heroes' Monument, with city lights reflecting beautifully on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt unter dem Dachvorsprung bei starkem Guss.",
+                "hu": "Használja az épület előtetőjét rövid menedékként.",
+                "ro": "Folosiți streașina clădirii pentru un scurt adăpost.",
+                "en": "Use the building's eaves for a brief shelter during heavy rain."
+              }
+            },
+            {
+              "name": "Dinu Constantinescu School",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine längere Innenbesichtigung.",
+                "hu": "Ideális helyszín egy hosszabb belső látogatáshoz.",
+                "ro": "Locul ideal pentru o vizită interioară prelungită.",
+                "en": "An ideal spot for an extended indoor visit to stay dry."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fresken, während es draußen regnet.",
+                "hu": "Csodálja meg a freskókat, amíg kint esik.",
+                "ro": "Admirați frescele interioare în timp ce afară plouă.",
+                "en": "Admire the interior frescoes while waiting for the rain to stop."
+              }
+            },
+            {
+              "name": "St. Paraschiva Wooden Church",
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Holzstufen im Außenbereich.",
+                "hu": "Vigyázat, a külső fanyalépcsők esőben csúszósak lehetnek.",
+                "ro": "Atenție la treptele de lemn exterioare, pot fi alunecoase.",
+                "en": "Watch your step on the wooden stairs; they become slippery."
+              }
+            },
+            {
+              "name": "Traditional Wine Cellars",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre unter Tage.",
+                "hu": "Élvezze a meghitt hangulatot a föld alatt a borok társaságában.",
+                "ro": "Bucurați-vă de atmosfera caldă din cramă, departe de ploaie.",
+                "en": "Enjoy the cozy underground atmosphere, far from the rain."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp reicht bei diesem Wetter aus.",
+                "hu": "Egy gyors fotómegálló bőven elég ebben az időben.",
+                "ro": "O scurtă oprire pentru fotografii este suficientă acum.",
+                "en": "A quick photo stop is sufficient in this weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein großer Regenschirm ist in diesem hügeligen Gelände unerlässlich.",
+              "Tragen Sie wasserfeste Wanderschuhe für die unbefestigten Wege.",
+              "Nutzen Sie die Kirchen für längere Pausen bei Starkregen.",
+              "Die Weinkeller sind der beste Ort, um die regenreichste Zeit zu überbrücken."
+            ],
+            "hu": [
+              "Egy nagy esernyő elengedhetetlen a dombos terepen.",
+              "Vízálló túrabakancs ajánlott a nem aszfaltozott szakaszokra.",
+              "Használja ki a templomok belső tereit a nagyobb záporok alatt.",
+              "A borospincék a legjobb helyek a leghosszabb esős időszakok kivárására."
+            ],
+            "ro": [
+              "O umbrelă mare este indispensabilă pe acest teren deluros.",
+              "Purtați încălțăminte impermeabilă pentru porțiunile neasfaltate.",
+              "Folosiți interiorul bisericilor ca adăpost în timpul averselor.",
+              "Cramele sunt cel mai bun loc pentru a aștepta trecerea ploii."
+            ],
+            "en": [
+              "A large umbrella is essential for this hilly terrain.",
+              "Wear waterproof boots for the unpaved path sections.",
+              "Take advantage of church interiors during heavy downpours.",
+              "The wine cellars are the best place to wait out the rainiest hours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Klare Frostluft umhüllt das Rathaus am Morgen. Mittags wärmen die Kirchenbesuche Geist und Körper, während der Schnee die Hügel von Vălcănești in Weiß hüllt. Nachmittags sinkt die Sonne früh über der Holzkirche und taucht alles in goldenes Licht. Den Abend verbringen Sie in der wohligen Wärme der Weinkeller, bevor die Winternacht am Heldendenkmal endgültig Einzug hält.",
+            "hu": "Ropogós, fagyos levegő fogad reggel a Városházánál. Délben a templomok belső csendje és viszonylagos melege ad erőt a folytatáshoz a havas tájban. Délután a nap korán bukik le a dombok mögött, arany fénybe vonva a fatemplomot. Az estét a borospincék mélyén, barátságos melegben töltheted, mielőtt a téli éjszaka sötétje végleg leszállna.",
+            "ro": "Aerul înghețat al dimineții face plimbarea spre Primărie revigorantă. La prânz, liniștea bisericilor oferă un refugiu călduros în timp ce zăpada acoperă dealurile. După-amiaza, soarele apune devreme peste biserica de lemn, creând peisaje de basm. Seara se petrece în căldura primitoare a cramelor, înainte ca noaptea de iarnă să cuprindă Monumentul Eroilor.",
+            "en": "Crisp, frosty air greets you at the Town Hall in the morning. By noon, the quiet warmth of the churches provides a sanctuary as snow blankets the hills. Afternoon brings an early sunset over the wooden church, painting the landscape in gold. The evening is best spent in the cozy warmth of the wine cellars before the winter night settles over the monument."
+          },
+          "stops": [
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Zügiges Gehen hilft gegen die morgendliche Kälte.",
+                "hu": "A tempós gyaloglás segít a reggeli hideg ellen.",
+                "ro": "Mersul vioi ajută la combaterea frigului de dimineață.",
+                "en": "Brisk walking helps keep you warm in the morning chill."
+              }
+            },
+            {
+              "name": "Dinu Constantinescu School",
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Innenräume.",
+                "hu": "Élvezze a fűtött belső tereket és a kiállításokat.",
+                "ro": "Bucurați-vă de spațiile interioare încălzite.",
+                "en": "Take shelter in the heated indoor spaces."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten den eisigen Wind ab.",
+                "hu": "A vastag falak jól felfogják a jeges szelet.",
+                "ro": "Zidurile groase oferă protecție împotriva vântului tăios.",
+                "en": "The thick walls block out the icy winter wind."
+              }
+            },
+            {
+              "name": "St. Paraschiva Wooden Church",
+              "tip_5lang": {
+                "de": "Besuch am frühen Nachmittag wegen des frühen Sonnenuntergangs.",
+                "hu": "Látogassa meg kora délután a korai sötétedés miatt.",
+                "ro": "Vizitați la începutul după-amiezii din cauza apusului timpuriu.",
+                "en": "Visit early in the afternoon due to the early sunset."
+              }
+            },
+            {
+              "name": "Traditional Wine Cellars",
+              "tip_5lang": {
+                "de": "Die ideale Endstation zum Aufwärmen bei einem Glas Wein.",
+                "hu": "Ideális végállomás a felmelegedéshez egy pohár bor mellett.",
+                "ro": "Finalul ideal pentru încălzire cu un pahar de vin.",
+                "en": "The perfect final stop to warm up with a glass of wine."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Wunderschön beleuchtet in der frühen Dunkelheit.",
+                "hu": "Gyönyörűen kivilágítva a korai téli sötétségben.",
+                "ro": "Frumos iluminat în întunericul timpuriu de iarnă.",
+                "en": "Beautifully lit up in the early winter darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich in Schichten (Zwiebelprinzip).",
+              "Der Sonnenuntergang ist im Dezember bereits gegen 16:30 Uhr.",
+              "Tragen Sie Thermosocken für die Besichtigung der kalten Kirchenböden.",
+              "Nehmen Sie eine Thermoskanne mit warmem Tee mit."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a változó kinti és benti hőmérséklet miatt.",
+              "A naplemente télen már 16:30 körül bekövetkezik.",
+              "Viseljen vastag gyapjúzoknit a hideg templompadlók miatt.",
+              "Vigyen magával termoszban meleg teát az útra."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru a vă menține căldura.",
+              "Apusul soarelui are loc în jurul orei 16:30 în decembrie.",
+              "Purtați șosete groase pentru podelele reci din biserici.",
+              "Luați un termos cu ceai cald pentru traseu."
+            ],
+            "en": [
+              "Dress in multiple layers to stay warm outdoors.",
+              "Sunset occurs as early as 16:30 during winter months.",
+              "Wear thick wool socks for the cold church floors.",
+              "Carry a thermos with hot tea for the walking route."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +888,188 @@
           "The roads can be narrow and winding, ride carefully.",
           "A small backpack for water and snacks is a good idea."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt zum Rathaus erfordert volle Konzentration auf dem nassen Asphalt. Mittags suchen Sie Schutz in der St. Nikolaus Kirche, während der Regen die Täler von Cosminei in dichten Nebel hüllt. Nachmittags meiden Sie die schlammigen Hügelpfade und genießen stattdessen die befestigten Wege zu den Weinkellern. Der Tag endet mit einer kühlen, nassen Abfahrt zur hölzernen Paraschiva-Kirche.",
+            "hu": "A reggeli tekerés a Városházához fokozott figyelmet igényel a vizes aszfalton. Délben a Szent Miklós templomnál pihensz meg, miközben az eső ködbe burkolja a Cosminei-völgyet. Délután a saras dombi ösvények helyett válaszd a szilárd burkolatú utat a borospincék felé. A nap egy hűvös, vizes gurulással zárul a Paraschiva fatemplom irányába.",
+            "ro": "Drumul de dimineață spre Primărie necesită atenție sporită pe asfaltul ud. La prânz, Biserica Sf. Nicolae oferă un loc de odihnă în timp ce ploaia acoperă Valea Cosminei. După-amiaza, evitați potecile noroioase de pe dealuri și alegeți drumurile asfaltate spre crame. Ziua se încheie cu o coborâre răcoroasă spre biserica de lemn Sf. Paraschiva.",
+            "en": "The morning ride to the Town Hall requires full focus on the wet asphalt. At noon, take shelter at St. Nicholas Church as rain blankets Valea Cosminei in mist. In the afternoon, skip the muddy hill trails and stick to paved roads towards the wine cellars. The day ends with a cool, wet descent towards the wooden Paraschiva Church."
+          },
+          "stops": [
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
+                "hu": "Óvatosan fékezzen a vizes macskakövön.",
+                "ro": "Frânați cu prudență pe pavajul ud din centru.",
+                "en": "Brake gently on the wet cobblestones in the center."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Fahrradständer sind oft ungeschützt, Regenschutz nutzen.",
+                "hu": "A biciklitárolók fedetlenek, használjon nyeregborítót.",
+                "ro": "Suporturile de biciclete sunt descoperite; acoperiți șaua.",
+                "en": "Bike racks are uncovered; use a saddle cover to keep it dry."
+              }
+            },
+            {
+              "name": "Valea Cosminei",
+              "tip_5lang": {
+                "de": "Starke Pfützenbildung auf den tiefergelegenen Wegen.",
+                "hu": "Erős tócsaképződés várható az alacsonyabb utakon.",
+                "ro": "Se pot forma bălți mari pe porțiunile joase de drum.",
+                "en": "Large puddles may form on the lower sections of the road."
+              }
+            },
+            {
+              "name": "Vălcănești Hills Viewpoint",
+              "tip_5lang": {
+                "de": "Auffahrt bei Regen sehr rutschig, eventuell schieben.",
+                "hu": "Az emelkedő esőben nagyon csúszós, szükség esetén tolja.",
+                "ro": "Urcarea este alunecoasă; împingeți bicicleta dacă e greu.",
+                "en": "The ascent is slippery; consider pushing the bike if needed."
+              }
+            },
+            {
+              "name": "Traditional Wine Cellars",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder vorhanden.",
+                "hu": "Biztonságos és részben fedett kerékpártároló elérhető.",
+                "ro": "Există un loc de parcare sigur și parțial acoperit.",
+                "en": "A secure and partially covered bike parking spot is available."
+              }
+            },
+            {
+              "name": "St. Paraschiva Wooden Church",
+              "tip_5lang": {
+                "de": "Vorsicht vor Laub und Schlamm auf dem Rückweg.",
+                "hu": "Vigyázzon a falevelekre és a sárra a visszaúton.",
+                "ro": "Atenție la frunzele ude și noroiul de pe drum.",
+                "en": "Watch out for wet leaves and mud on the return path."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie einen hochwertigen Regenponcho und wasserfeste Gamaschen.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Fahrt in die Hügel.",
+              "Meiden Sie unbefestigte Feldwege, die schnell verschlammen.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss."
+            ],
+            "hu": [
+              "Viseljen minőségi esőponcsót és vízálló kamáslit.",
+              "Ellenőrizze a fékbetéteket a dombi szakaszok előtt.",
+              "Kerülje a földutakat, mert azok gyorsan sarasodnak.",
+              "Sárvédő használata elengedhetetlen ebben az időben."
+            ],
+            "ro": [
+              "Purtați un poncho de ploaie de calitate și parazăpezi.",
+              "Verificați saboții de frână înainte de a urca pe dealuri.",
+              "Evitați drumurile de pământ, se transformă rapid în noroi.",
+              "Apărătorile de noroi sunt obligatorii pe această vreme."
+            ],
+            "en": [
+              "Wear a high-quality rain poncho and waterproof gaiters.",
+              "Check your brake pads before heading into the hills.",
+              "Avoid unpaved field paths as they get muddy quickly.",
+              "Mudguards are a must-have for cycling in this weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kalte Morgenluft brennt auf den Wangen beim Start am Rathaus. Mittags wirkt die St. Nikolaus Kirche wie ein stiller Anker im frostigen Tal. Die Auffahrt zu den Hügeln ist anstrengend, wird aber durch weite Winterpanoramen belohnt, bevor die Kälte Sie in die Weinkeller treibt. Die Rückfahrt im Dämmerlicht zur hölzernen Kirche erfordert gute Beleuchtung und warme Handschuhe.",
+            "hu": "A hideg reggeli levegő csípi az arcot a Városházánál indítva a napot. Délben a Szent Miklós templom csendes menedék a fagyos völgyben. A dombokra való felkapaszkodás fárasztó, de a téli panoráma kárpótol, mielőtt a hideg a borospincék felé terelne. A szürkületi visszatérés a fatemplomhoz jó világítást és meleg kesztyűt igényel.",
+            "ro": "Aerul rece al dimineții pișcă obrajii la plecarea de la Primărie. La prânz, Biserica Sf. Nicolae pare o ancoră liniștită în valea înghețată. Urcarea pe dealuri este solicitantă, dar răsplătită de panoramele de iarnă, înainte ca frigul să vă trimită spre crame. Întoarcerea pe amurg spre biserica de lemn necesită lumini bune.",
+            "en": "The cold morning air stings your cheeks as you start at the Town Hall. At noon, St. Nicholas Church stands as a quiet anchor in the frosty valley. The climb up the hills is taxing but rewarded by winter panoramas before the cold drives you to the cellars. The twilight return to the wooden church requires good lights and warm gloves."
+          },
+          "stops": [
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Auf Raureif oder Glatteis auf den Steinen achten.",
+                "hu": "Ügyeljen a zúzmarára vagy jégre a köveken.",
+                "ro": "Atenție la chiciură sau gheață pe pietrele din centru.",
+                "en": "Watch out for frost or black ice on the stones."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Kurze Pause zum Aufwärmen der Finger im Inneren.",
+                "hu": "Rövid megálló az ujjak felmelegítésére a benti térben.",
+                "ro": "Scurtă pauză pentru încălzirea degetelor în interior.",
+                "en": "Short break to warm up your fingers inside the church."
+              }
+            },
+            {
+              "name": "Valea Cosminei",
+              "tip_5lang": {
+                "de": "Vorsicht vor tückischen Eisstellen in Schattenlagen.",
+                "hu": "Vigyázzon a trükkös jeges foltokra az árnyékos helyeken.",
+                "ro": "Atenție la gheața din zonele umbrite ale drumului.",
+                "en": "Beware of treacherous icy patches in shaded areas."
+              }
+            },
+            {
+              "name": "Vălcănești Hills Viewpoint",
+              "tip_5lang": {
+                "de": "Starker Wind auf der Anhöhe, Windstopper-Kleidung nötig.",
+                "hu": "Erős szél a magaslaton, szélálló ruházat kötelező.",
+                "ro": "Vânt puternic pe culme; purtați haine rezistente la vânt.",
+                "en": "Strong winds on the hilltop; windproof clothing is needed."
+              }
+            },
+            {
+              "name": "Traditional Wine Cellars",
+              "tip_5lang": {
+                "de": "Heißer Tee oder Punsch oft als Alternative zum Wein.",
+                "hu": "Meleg tea vagy puncs gyakran elérhető boralternatívaként.",
+                "ro": "Ceai cald sau puncț disponibil ca alternativă la vin.",
+                "en": "Hot tea or punch is often available as an alternative to wine."
+              }
+            },
+            {
+              "name": "St. Paraschiva Wooden Church",
+              "tip_5lang": {
+                "de": "Sicherstellen, dass die Beleuchtung für die Rückfahrt funktioniert.",
+                "hu": "Ellenőrizze, hogy a világítás jól működik-e a hazatéréshez.",
+                "ro": "Asigurați-vă că luminile funcționează pentru drumul de întoarcere.",
+                "en": "Ensure your bike lights are working for the return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterhandschuhe und eine Mütze unter dem Helm sind Pflicht.",
+              "Prüfen Sie den Reifendruck, etwas weniger Grip hilft auf Schnee.",
+              "Die Batterielaufzeit der Beleuchtung sinkt bei Kälte drastisch.",
+              "Vermeiden Sie späte Fahrten, da es ab 16:30 Uhr dunkel wird."
+            ],
+            "hu": [
+              "Téli kesztyű és a sisak alatt hordható sapka kötelező.",
+              "Kissé alacsonyabb guminyomás segíthet a havas tapadásban.",
+              "A lámpák akkumulátora gyorsabban merül a hidegben.",
+              "Kerülje a késői indulást, mert 16:30-kor már sötét van."
+            ],
+            "ro": [
+              "Mănușile de iarnă și o căciulă sub cască sunt obligatorii.",
+              "O presiune ușor mai mică în pneuri ajută la aderența pe zăpadă.",
+              "Autonomia bateriilor scade drastic la temperaturi joase.",
+              "Evitați deplasările târzii, se întunecă după ora 16:30."
+            ],
+            "en": [
+              "Winter gloves and a skull cap under the helmet are mandatory.",
+              "Slightly lower tire pressure helps with grip on snow.",
+              "Light battery life drops significantly in cold temperatures.",
+              "Avoid late rides as it gets dark by 16:30."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1086,6 +1450,206 @@
           "Check the condition of the roads, especially after rain.",
           "The driver should be cautious with the wine tasting or skip it."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Parkplatz im Zentrum ist der ideale Startpunkt, um trocken zwischen den Sehenswürdigkeiten zu pendeln. Mittags genießen Sie den Blick auf das verregnete Heldendenkmal aus der Wärme des Autos. Die Auffahrt zum Hügel-Aussichtspunkt bietet dramatische Wolkenformationen über dem Tal. Den Nachmittag verbringen Sie entspannt in den Weinkellern, bevor die Fahrt zur hölzernen Kirche den Tag abrundet.",
+            "hu": "A központi parkoló ideális bázis, ahonnan szárazon ingázhatsz a látnivalók között. Délben a fűtött autóból szemlélheted az esőáztatta Hősök emlékművét. A dombi kilátóhoz vezető út látványos felhőjátékot kínál a völgy felett. A délutánt kényelmesen a borospincéknél töltheted, majd a fatemplomhoz tett látogatás teszi teljessé a napot.",
+            "ro": "Parcarea centrală este baza ideală pentru a naviga între obiective fără a vă uda. La prânz, admirați Monumentul Eroilor din căldura mașinii. Drumul spre punctul de belvedere oferă cadre dramatice cu nori deasupra văii. Petreceți după-amiaza la crame, iar vizita la biserica de lemn încheie ziua într-un mod relaxant.",
+            "en": "The central parking serves as a perfect dry base for moving between sights. At noon, admire the rain-soaked Heroes' Monument from the comfort of your car. The drive to the viewpoint offers dramatic cloud formations over the valley. Spend a relaxed afternoon at the wine cellars before heading to the wooden church to end the day."
+          },
+          "stops": [
+            {
+              "name": "Parking in the Center",
+              "tip_5lang": {
+                "de": "Bei Regen oft Pfützen, Parken Sie nah am Gehweg.",
+                "hu": "Esőben sok a tócsa, parkoljon közel a járdához.",
+                "ro": "Se pot forma bălți; parcați cât mai aproape de trotuar.",
+                "en": "Puddles often form here; park close to the walkway."
+              }
+            },
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Nur 1 Minute Fußweg vom Parkplatz.",
+                "hu": "Csak 1 perc séta a parkolótól.",
+                "ro": "La doar un minut de mers pe jos de parcare.",
+                "en": "Just a 1-minute walk from the parking area."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Parkplatz direkt vor dem Eingang meist verfügbar.",
+                "hu": "Parkoló közvetlenül a bejárat előtt általában szabad.",
+                "ro": "Parcare disponibilă de obicei chiar în fața intrării.",
+                "en": "Parking is usually available right in front of the entrance."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Gute Sichtbarkeit auch bei starkem Regen vom Auto aus.",
+                "hu": "Jól látható az autóból is, ha nagyon szakadna az eső.",
+                "ro": "Vizibilitate bună din mașină în caz de ploaie torențială.",
+                "en": "Good visibility from the car if the rain is too heavy."
+              }
+            },
+            {
+              "name": "Vălcănești Hills Viewpoint",
+              "tip_5lang": {
+                "de": "Straße ist asphaltiert, aber auf Aquaplaning achten.",
+                "hu": "Az út aszfaltozott, de ügyeljen a vízfelúszásra.",
+                "ro": "Drumul este asfaltat, dar atenție la acvaplanare.",
+                "en": "Road is paved, but watch out for aquaplaning."
+              }
+            },
+            {
+              "name": "Traditional Wine Cellars",
+              "tip_5lang": {
+                "de": "Überdachter Parkbereich für Gäste vorhanden.",
+                "hu": "Fedett parkolóhelyek biztosítottak a vendégeknek.",
+                "ro": "Locuri de parcare acoperite disponibile pentru clienți.",
+                "en": "Covered parking spaces are available for guests."
+              }
+            },
+            {
+              "name": "St. Paraschiva Wooden Church",
+              "tip_5lang": {
+                "de": "Parkplatz auf unbefestigtem Boden, Vorsicht bei Schlamm.",
+                "hu": "A parkoló földút, sárban óvatosan manőverezzen.",
+                "ro": "Parcarea este pe pământ; prudență în caz de noroi.",
+                "en": "Unpaved parking area; be careful with mud when maneuvering."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Stellen Sie sicher, dass Ihre Scheibenwischer in gutem Zustand sind.",
+              "Die Landstraßen in Prahova können bei Regen rutschig sein.",
+              "Nutzen Sie die Parkmöglichkeiten direkt an den Kirchen.",
+              "Vermeiden Sie tiefe Pfützen am Straßenrand."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlők állapotát az indulás előtt.",
+              "A prahovai mellékutak esőben nagyon csúszósak lehetnek.",
+              "Használja a közvetlen parkolási lehetőségeket a templomoknál.",
+              "Kerülje a mély tócsákat az út szélén."
+            ],
+            "ro": [
+              "Asigurați-vă că ștergătoarele sunt în stare bună.",
+              "Drumurile județene din Prahova pot fi alunecoase pe ploaie.",
+              "Folosiți parcările situate chiar lângă biserici.",
+              "Evitați bălțile adânci de pe marginea drumului."
+            ],
+            "en": [
+              "Ensure your windshield wipers are in good working condition.",
+              "Rural roads in Prahova can be slippery during rainfall.",
+              "Use the parking spots located right next to the churches.",
+              "Avoid deep puddles on the edges of the road."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nach dem Enteisen der Scheiben startet die Tour am winterlichen Rathaus. Mittags bieten die Kirchenbesuche spirituelle Wärme, während draußen der Frost die Landschaft fest im Griff hat. Die Fahrt zum Aussichtspunkt ist bei Schnee spektakulär, erfordert aber Winterausrüstung. Den späten Nachmittag verbringen Sie in den gemütlichen Weinkellern, bevor die Dunkelheit die Fahrt zur Paraschiva-Kirche begleitet.",
+            "hu": "A szélvédő jégtelenítése után indul a túra a téli Városházánál. Délben a templomok nyugalma és a fűtött autó nyújt menedéket a kinti fagy elől. A kilátóhoz vezető út havas időben látványos, de téli felszerelést igényel. A délután végét a borospincék otthonos melegében töltöd, majd a sötétségben autózol el a Paraschiva fatemplomhoz.",
+            "ro": "După degivrarea parbrizului, turul începe la Primăria înzăpezită. La prânz, liniștea bisericilor și mașina încălzită oferă refugiu împotriva gerului. Drumul spre belvedere este spectaculos iarna, dar necesită echipament adecvat. Seara se petrece în cramele primitoare, urmată de o vizită pe întuneric la biserica de lemn.",
+            "en": "After de-icing the windows, the tour starts at the wintry Town Hall. At noon, the quiet churches and the heated car provide a sanctuary from the frost. The drive to the viewpoint is spectacular in the snow but requires winter gear. Spend the late afternoon in the cozy wine cellars before the darkness guides your drive to the Paraschiva Church."
+          },
+          "stops": [
+            {
+              "name": "Parking in the Center",
+              "tip_5lang": {
+                "de": "Auf geräumte Parkflächen achten.",
+                "hu": "Ügyeljen a letakarított parkolóhelyekre.",
+                "ro": "Căutați locurile de parcare deszăpezite.",
+                "en": "Look for snow-cleared parking spaces."
+              }
+            },
+            {
+              "name": "Old Town Hall",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort várakozás közben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Do not leave the engine idling unnecessarily while waiting."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eiszapfen an den Dachrinnen.",
+                "hu": "Vigyázzon az ereszekről lelógó jégcsapokra.",
+                "ro": "Atenție la țurțurii de pe streșinile bisericii.",
+                "en": "Watch out for icicles hanging from the roof eaves."
+              }
+            },
+            {
+              "name": "Heroes' Monument",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Schneeverwehungen schwierig sein.",
+                "hu": "A felvezető út hóátfúvások esetén nehézkes lehet.",
+                "ro": "Accesul poate fi dificil în caz de viscol sau troiene.",
+                "en": "Access might be difficult in case of snow drifts."
+              }
+            },
+            {
+              "name": "Vălcănești Hills Viewpoint",
+              "tip_5lang": {
+                "de": "Winterreifen und Schneeketten bei starkem Schneefall nötig.",
+                "hu": "Téli gumi kötelező, hólánc ajánlott erős havazáskor.",
+                "ro": "Anvelope de iarnă obligatorii; lanțuri în caz de ninsoare.",
+                "en": "Winter tires mandatory; snow chains recommended for heavy snow."
+              }
+            },
+            {
+              "name": "Traditional Wine Cellars",
+              "tip_5lang": {
+                "de": "Die Keller haben eine konstante, angenehme Temperatur.",
+                "hu": "A pincék hőmérséklete állandó és kellemes télen is.",
+                "ro": "Cramele au o temperatură constantă și plăcută iarna.",
+                "en": "The cellars maintain a constant, pleasant temperature in winter."
+              }
+            },
+            {
+              "name": "St. Paraschiva Wooden Church",
+              "tip_5lang": {
+                "de": "Besuch vor 17:00 Uhr planen, da es früh dunkel wird.",
+                "hu": "Tervezze 17:00 előtti látogatásra a korai sötétedés miatt.",
+                "ro": "Planificați vizita înainte de ora 17:00.",
+                "en": "Plan your visit before 17:00 as it gets dark early."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Rumänien gesetzlich vorgeschrieben.",
+              "Führen Sie eine Eiskratzer und Frostschutzmittel mit.",
+              "Halten Sie den Tank für den Fall von Staus im Schnee voll.",
+              "Prüfen Sie die Straßenbedingungen vor der Fahrt in die Hügel."
+            ],
+            "hu": [
+              "Téli gumi használata törvényileg kötelező Romániában.",
+              "Legyen az autóban jégkaparó és fagyálló folyadék.",
+              "Tartsa tele a tankot hóakadályok esetére.",
+              "Ellenőrizze az útviszonyokat a dombi szakaszok előtt."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în România.",
+              "Aveți la îndemână o racletă și lichid de parbriz de iarnă.",
+              "Păstrați rezervorul plin în caz de blocaje în zăpadă.",
+              "Verificați starea drumurilor înainte de a urca pe dealuri."
+            ],
+            "en": [
+              "Winter tires are mandatory by law in Romania.",
+              "Keep an ice scraper and winter wiper fluid in the car.",
+              "Keep your fuel tank full in case of snow blockages.",
+              "Check road conditions before heading into the hilly areas."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1418,6 +1982,170 @@
           "The hills and the Heroes' Monument are difficult to reach by public transport.",
           "Plan enough time to get back to the bus stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt an der zentralen Bushaltestelle im Regen. Mittags nutzen Sie den Bus für den kurzen Transfer zwischen Schule und Kirche, um trocken zu bleiben. Der Nachmittag gehört den Weinkellern, die gut mit dem Nahverkehr erreichbar sind und Schutz vor dem Wetter bieten. Die Rückfahrt von der Paraschiva-Kirche erfolgt mit dem Abendbus durch die verregnete Landschaft.",
+            "hu": "A nap a központi buszmegállóban indul az esőben. Délben a buszt használod a rövid távok megtételére az iskola és a templom között, hogy száraz maradj. A délután a borospincéké, amelyek tömegközlekedéssel is elérhetőek és menedéket nyújtanak. A hazaút a Paraschiva fatemplomtól az esti busszal történik a ködös tájon át.",
+            "ro": "Ziua începe în stația centrală de autobuz, sub ploaie. La prânz, folosiți transportul local pentru a rămâne uscați între școală și biserici. După-amiaza este dedicată cramelor, ușor accesibile cu autobuzul și perfecte pentru a evita vremea rea. Întoarcerea de la biserica de lemn se face cu ultimul autobuz prin peisajul cețos.",
+            "en": "The day starts at the central bus stop in the rain. At noon, use the local bus for short transfers between the school and churches to stay dry. The afternoon is dedicated to the wine cellars, which are reachable by transit and offer shelter from the weather. The return trip from the Paraschiva Church is by the evening bus through the misty landscape."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop",
+              "tip_5lang": {
+                "de": "Überdachte Haltestelle vorhanden, ideal zum Warten.",
+                "hu": "Fedett váróterem elérhető, ideális a várakozáshoz.",
+                "ro": "Stație acoperită disponibilă, ideală pentru așteptare.",
+                "en": "Covered bus stop available, ideal for waiting out the rain."
+              }
+            },
+            {
+              "name": "Old Town Hall & Dinu Constantinescu School",
+              "tip_5lang": {
+                "de": "Kurzer Sprint von der Haltestelle zum Schuleingang.",
+                "hu": "Gyors sprint a megállótól az iskola bejáratáig.",
+                "ro": "Scurt sprint de la stație până la intrarea în școală.",
+                "en": "A quick sprint from the stop to the school entrance."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Fahrplan an der Haltestelle prüfen, seltener Verkehr bei Regen.",
+                "hu": "Ellenőrizze a menetrendet, esőben ritkább lehet a járat.",
+                "ro": "Verificați programul; pot exista întârzieri din cauza ploii.",
+                "en": "Check the schedule; rain might cause minor delays."
+              }
+            },
+            {
+              "name": "Wine Cellars Stop",
+              "tip_5lang": {
+                "de": "150 Minuten Aufenthalt bieten genug Zeit für Wein und Essen.",
+                "hu": "A 150 perces pihenő elég időt ad az ebédhez és borhoz.",
+                "ro": "Cele 150 de minute oferă timp suficient pentru masă și vin.",
+                "en": "The 150-minute stay gives plenty of time for wine and food."
+              }
+            },
+            {
+              "name": "St. Paraschiva Wooden Church",
+              "tip_5lang": {
+                "de": "Letzte Busverbindung nicht verpassen, oft gegen 17:30 Uhr.",
+                "hu": "Ne késse le az utolsó buszt, ami gyakran 17:30 körül indul.",
+                "ro": "Nu ratați ultimul autobuz, pleacă de obicei la 17:30.",
+                "en": "Don't miss the last bus, usually departing around 17:30."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie den Busfahrplan immer als Foto auf dem Handy.",
+              "Kleine Scheine für die Fahrkartenzahlung bereithalten.",
+              "Nutzen Sie die Wartezeiten für Innenbesichtigungen.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zur Haltestelle."
+            ],
+            "hu": [
+              "Mindig legyen fotó a buszmenetrendről a telefonján.",
+              "Készítsen elő aprópénzt a jegyvásárláshoz.",
+              "Használja ki a várakozási időt belső látogatásokra.",
+              "Viseljen vízálló ruházatot a megállóig tartó sétákhoz."
+            ],
+            "ro": [
+              "Păstrați o fotografie a orarului de autobuz pe telefon.",
+              "Pregătiți bancnote mici pentru plata biletului la șofer.",
+              "Folosiți timpii de așteptare pentru vizite în interior.",
+              "Purtați haine impermeabile pentru drumul spre stație."
+            ],
+            "en": [
+              "Keep a photo of the bus schedule on your phone at all times.",
+              "Have small bills ready for buying tickets from the driver.",
+              "Use waiting times for indoor explorations.",
+              "Wear waterproof clothing for the walks to the bus stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen beginnt an der Bushaltestelle im Zentrum. Mittags wärmen Sie sich während der Busfahrten zwischen den Kirchen auf, während der Schnee die Dörfer Prahovas einhüllt. Der Nachmittag in den Weinkellern ist die perfekte Flucht vor der Winterkälte. Die Rückfahrt im Dämmerlicht mit dem beheizten Bus bietet einen gemütlichen Abschluss des winterlichen Tages.",
+            "hu": "A fagyos reggel a központi buszmegállóban veszi kezdetét. Délben a buszozás alatt melegedhetsz fel a templomlátogatások között, miközben a hó befedi a prahovai falvakat. A délutáni borospince-látogatás tökéletes menekülés a téli fagy elől. A hazaút a fűtött buszon, a téli szürkületben a nap meghitt lezárását kínálja.",
+            "ro": "Dimineața geroasă începe în stația de autobuz din centru. La prânz, vă încălziți în autobuz între vizitele la biserici, în timp ce zăpada acoperă satele din Prahova. După-amiaza la cramă este refugiul perfect împotriva gerului. Întoarcerea pe amurg cu autobuzul încălzit oferă un final confortabil zilei de iarnă.",
+            "en": "The frosty morning starts at the central bus stop. At noon, warm up during the bus rides between churches while snow blankets the villages of Prahova. The afternoon at the wine cellars is the perfect escape from the winter chill. The twilight return trip on the heated bus offers a cozy conclusion to the wintry day."
+          },
+          "stops": [
+            {
+              "name": "Central Bus Stop",
+              "tip_5lang": {
+                "de": "Zwiebelprinzip schützt vor Kälte beim Warten.",
+                "hu": "A réteges öltözködés véd a hideg ellen várakozáskor.",
+                "ro": "Îmbrăcămintea în straturi protejează de frig la așteptare.",
+                "en": "Dressing in layers protects against the cold while waiting."
+              }
+            },
+            {
+              "name": "Old Town Hall & Dinu Constantinescu School",
+              "tip_5lang": {
+                "de": "Beheizte Räume in der Schule zum Aufwärmen nutzen.",
+                "hu": "Használja ki az iskola fűtött termeit a felmelegedéshez.",
+                "ro": "Folosiți spațiile încălzite din școală pentru încălzire.",
+                "en": "Use the heated rooms in the school to warm up."
+              }
+            },
+            {
+              "name": "St. Nicholas Church",
+              "tip_5lang": {
+                "de": "Busse sind im Winter meist gut beheizt.",
+                "hu": "A buszok télen általában jól fűtöttek.",
+                "ro": "Autobuzele sunt de obicei bine încălzite iarna.",
+                "en": "Buses are usually well-heated during the winter months."
+              }
+            },
+            {
+              "name": "Wine Cellars Stop",
+              "tip_5lang": {
+                "de": "Die Zeitplanung erlaubt eine ausgiebige Weinprobe.",
+                "hu": "Az időbeosztás lehetővé tesz egy kiadós borkóstolót.",
+                "ro": "Programul permite o degustare de vinuri pe îndelete.",
+                "en": "The schedule allows for a comprehensive wine tasting."
+              }
+            },
+            {
+              "name": "St. Paraschiva Wooden Church",
+              "tip_5lang": {
+                "de": "Rückfahrt bei Dunkelheit, Haltestelle gut sichtbar machen.",
+                "hu": "Hazatérés sötétben, jelezzen jól láthatóan a busznak.",
+                "ro": "Întoarcere pe întuneric; asigurați-vă că sunteți vizibil.",
+                "en": "Return trip in the dark; make yourself visible to the driver."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Erwarten Sie im Winter mögliche Verspätungen im Busverkehr.",
+              "Warme Schuhe mit gutem Profil für die Wege zur Haltestelle.",
+              "Die Busfrequenzen können an Feiertagen stark variieren.",
+              "Nutzen Sie Wartezeiten in nahegelegenen Cafés oder Läden."
+            ],
+            "hu": [
+              "Számítson az esetleges téli késésekre a buszközlekedésben.",
+              "Viseljen meleg, csúszásmentes talpú cipőt a megállókhoz.",
+              "A buszjáratok sűrűsége ünnepek alatt változhat.",
+              "A várakozási időt közeli kávézókban vagy boltokban töltse."
+            ],
+            "ro": [
+              "Așteptați-vă la posibile întârzieri ale autobuzelor iarna.",
+              "Purtați încălțăminte călduroasă cu talpă antiderapantă.",
+              "Frecvența autobuzelor poate varia în timpul sărbătorilor.",
+              "Folosiți cafenelele sau magazinele din apropiere pentru așteptare."
+            ],
+            "en": [
+              "Expect potential winter delays in the bus service.",
+              "Wear warm shoes with good grip for the walk to the stop.",
+              "Bus frequencies may vary significantly during holidays.",
+              "Spend waiting times in nearby cafes or shops to stay warm."
+            ]
+          }
+        }
       }
     }
   }

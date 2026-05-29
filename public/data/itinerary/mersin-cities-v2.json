@@ -362,6 +362,188 @@
           "A sun hat and sunscreen are essential.",
           "Plan enough time for breaks in the seaside parks."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt im Atatürk-Haus-Museum. Danach bietet das Marinemuseum Schutz vor Schauern. Mittags erreichen wir die Mersin Marina mit ihren überdachten Läden. Nach einem kurzen Gang durch den Kulturpark bietet die Muğdat-Moschee Ruhe. Der Abend klingt trocken in der Kushimoto-Straße aus.",
+            "hu": "A délelőtt az Atatürk Múzeumban indul. Ezután a Hajózási Múzeum nyújt menedéket a záporok elől. Délben elérjük a Mersin Marina fedett üzletsorát. A Culture Parkon átvágva a Muğdat-mecset belső tere vár. Az este a Kushimoto utca esővédett teraszain zárul.",
+            "ro": "Dimineața începe la Muzeul Casa Atatürk. Apoi, Muzeul Naval oferă protecție împotriva ploii. La prânz ajungem la Marina Mersin, cu magazinele sale acoperite. După o scurtă plimbare prin Parcul Culturii, Moscheea Muğdat oferă liniște. Seara se încheie pe strada Kushimoto.",
+            "en": "Morning starts at the Atatürk House Museum. Next, the Naval Museum provides shelter from showers. By noon, we reach the covered arcades of Mersin Marina. After a quick walk through Culture Park, Muğdat Mosque offers a dry retreat. The evening ends on Kushimoto Street."
+          },
+          "stops": [
+            {
+              "name": "Atatürk House Museum",
+              "tip_5lang": {
+                "de": "Regenschirmständer am Eingang verfügbar.",
+                "hu": "Esernyőtartók a bejáratnál.",
+                "ro": "Suporturi pentru umbrele la intrare.",
+                "en": "Umbrella stands available at the entrance."
+              }
+            },
+            {
+              "name": "Mersin Naval Museum",
+              "tip_5lang": {
+                "de": "Große Innenräume, ideal bei Starkregen.",
+                "hu": "Hatalmas belső terek, ideális felhőszakadáskor.",
+                "ro": "Spații interioare mari, ideale pentru ploi torențiale.",
+                "en": "Large indoor halls, ideal during heavy rain."
+              }
+            },
+            {
+              "name": "Mersin Marina",
+              "tip_5lang": {
+                "de": "Die Ladenpassage ist komplett regengeschützt.",
+                "hu": "Az üzletsor teljesen védett az esőtől.",
+                "ro": "Pasajul comercial este complet protejat de ploaie.",
+                "en": "The shopping arcade is completely rain-proof."
+              }
+            },
+            {
+              "name": "Culture Park",
+              "tip_5lang": {
+                "de": "Schneller Spaziergang unter den Palmen.",
+                "hu": "Gyors séta a pálmák alatt.",
+                "ro": "Plimbare rapidă sub palmieri.",
+                "en": "Quick walk under the palm trees."
+              }
+            },
+            {
+              "name": "Muğdat Mosque",
+              "tip_5lang": {
+                "de": "Ein friedlicher, trockener Rückzugsort.",
+                "hu": "Békés, száraz menedékhely.",
+                "ro": "Un refugiu liniștit și uscat.",
+                "en": "A peaceful, dry retreat."
+              }
+            },
+            {
+              "name": "Kushimoto Street",
+              "tip_5lang": {
+                "de": "Wählen Sie Cafés mit festen Markisen.",
+                "hu": "Válassz fix előtetős kávézót.",
+                "ro": "Alegeți cafenele cu copertine fixe.",
+                "en": "Choose cafes with fixed awnings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Unterführungen der Adnan Menderes Allee.",
+              "Packen Sie wasserfeste Schuhe für die Marina-Promenade ein.",
+              "Die Museen sind montags geschlossen, planen Sie um.",
+              "Mersin hat bei Regen oft starke Windböen am Meer."
+            ],
+            "hu": [
+              "Használd az Adnan Menderes sugárút aluljáróit.",
+              "Vigyél vízálló cipőt a Marina sétányához.",
+              "A múzeumok hétfőn zárva tartanak, figyelj a napra.",
+              "Esőben a tengerparton erős széllökésekre kell számítani."
+            ],
+            "ro": [
+              "Folosiți pasajele subterane de pe bulevardul Adnan Menderes.",
+              "Luați încălțăminte impermeabilă pentru faleză.",
+              "Muzeele sunt închise lunea, verificați calendarul.",
+              "În Mersin, ploaia este adesea însoțită de rafale de vânt pe coastă."
+            ],
+            "en": [
+              "Use the underpasses on Adnan Menderes Boulevard.",
+              "Wear waterproof shoes for the Marina promenade.",
+              "Museums are closed on Mondays, check the schedule.",
+              "Rain in Mersin often comes with strong sea gusts."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Luft am Atatürk-Haus klar. Danach besichtigen wir das Marinemuseum, dessen Außengelände nun angenehm ist. Mittags wärmt die Sonne an der Marina. Nach dem Kulturpark besuchen wir die kühle Muğdat-Moschee, bevor der Tag in der Kushimoto-Straße endet.",
+            "hu": "Reggel friss a levegő az Atatürk-háznál. Ezután a Hajózási Múzeumot látogatjuk meg, ahol a kinti rész is kellemes ilyenkor. Délben a Marina teraszai várnak. A Culture Park után a Muğdat-mecset, majd a Kushimoto utca zárja a napot.",
+            "ro": "Dimineața, aerul este proaspăt la Casa Atatürk. Apoi vizităm Muzeul Naval, a cărui zonă exterioară este acum plăcută. La prânz, soarele încălzește Marina. După Parcul Culturii vizităm Moscheea Muğdat și strada Kushimoto.",
+            "en": "Morning air is crisp at the Atatürk House. Next, visit the Naval Museum, where the outdoor exhibits are pleasant in winter. Enjoy the noon sun at the Marina. After Culture Park, visit Muğdat Mosque and end on Kushimoto Street."
+          },
+          "stops": [
+            {
+              "name": "Atatürk House Museum",
+              "tip_5lang": {
+                "de": "Gut beheizte historische Innenräume.",
+                "hu": "Jól fűtött történelmi szobák.",
+                "ro": "Încăperi istorice bine încălzite.",
+                "en": "Well-heated historical rooms."
+              }
+            },
+            {
+              "name": "Mersin Naval Museum",
+              "tip_5lang": {
+                "de": "Das Außengelände ist im Winter angenehm kühl.",
+                "hu": "A szabadtéri rész télen kellemesen hűvös.",
+                "ro": "Zona exterioară este plăcut răcoroasă iarna.",
+                "en": "The outdoor area is pleasantly cool in winter."
+              }
+            },
+            {
+              "name": "Mersin Marina",
+              "tip_5lang": {
+                "de": "Sonnige Plätze sind mittags begehrt.",
+                "hu": "A napos asztalok délben népszerűek.",
+                "ro": "Mesele la soare sunt căutate la prânz.",
+                "en": "Sunny tables are popular at noon."
+              }
+            },
+            {
+              "name": "Culture Park",
+              "tip_5lang": {
+                "de": "Windjacke für die Uferpromenade nötig.",
+                "hu": "Széldzseki szükséges a tengerparti sétányon.",
+                "ro": "Aveți nevoie de o jachetă de vânt pe faleză.",
+                "en": "Windbreaker needed for the waterfront promenade."
+              }
+            },
+            {
+              "name": "Muğdat Mosque",
+              "tip_5lang": {
+                "de": "Besuch zur Gebetszeit für warme Atmosphäre.",
+                "hu": "Látogasd imaidőben a meleg hangulatért.",
+                "ro": "Vizitați în timpul rugăciunii pentru atmosfera caldă.",
+                "en": "Visit during prayer time for a warm atmosphere."
+              }
+            },
+            {
+              "name": "Kushimoto Street",
+              "tip_5lang": {
+                "de": "Heißer türkischer Tee in den Cafés.",
+                "hu": "Forró török tea a kávézókban.",
+                "ro": "Ceai turcesc fierbinte în cafenele.",
+                "en": "Hot Turkish tea in the local cafes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember gegen 17:15 Uhr unter.",
+              "Die Luftfeuchtigkeit lässt es kälter wirken als es ist.",
+              "Zwiebelprinzip bei der Kleidung ist ratsam.",
+              "Genießen Sie frische Zitrusfrüchte von lokalen Händlern."
+            ],
+            "hu": [
+              "A nap decemberben 17:15 körül nyugszik.",
+              "A páratartalom miatt hidegebbnek érződik az idő.",
+              "Réteges öltözködés javasolt a tengerparti szél miatt.",
+              "Kóstold meg a helyi árusok friss citrusféléit."
+            ],
+            "ro": [
+              "Soarele apune în jurul orei 17:15 în decembrie.",
+              "Umiditatea face ca temperatura să pară mai scăzută.",
+              "Se recomandă îmbrăcămintea în straturi pentru vânt.",
+              "Gustați citricele proaspete de la vânzătorii locali."
+            ],
+            "en": [
+              "Sunset is around 5:15 PM in December.",
+              "Humidity makes it feel colder than it actually is.",
+              "Layered clothing is recommended for coastal winds.",
+              "Try fresh citrus fruits from local street vendors."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -742,6 +924,206 @@
           "Always lock your bike securely when you park it.",
           "A light jacket can be useful for the evenings by the sea."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten vorsichtig in Soli-Pompeiopolis. Das Forum bietet mittags ein trockenes Ziel. Über die Marina radeln wir zur Kushimoto-Straße für eine Pause. Am Nachmittag besuchen wir das Marine- und das Atatürk-Museum. Den Tag beenden wir sicher im weitläufigen Kulturpark.",
+            "hu": "Soli-Pompeiopolisnál kezdünk óvatosan. Délben a Forum nyújt száraz célpontot. A Marinán át a Kushimoto utcába tekerünk egy szünetre. Délután a Hajózási és az Atatürk Múzeum következik. A napot a tágas Culture Parkban zárjuk.",
+            "ro": "Plecăm cu prudență din Soli-Pompeiopolis. Mall-ul Forum oferă o destinație uscată la prânz. Prin Marina pedalăm spre strada Kushimoto. După-amiaza vizităm Muzeul Naval și Casa Atatürk. Încheiem ziua în siguranță în Parcul Culturii.",
+            "en": "Start cautiously at Soli-Pompeiopolis. Mersin Forum provides a dry destination at noon. Cycle through the Marina to Kushimoto Street for a break. In the afternoon, visit the Naval and Atatürk museums. End the day safely in the spacious Culture Park."
+          },
+          "stops": [
+            {
+              "name": "Soli-Pompeiopolis",
+              "tip_5lang": {
+                "de": "Achtung, die antiken Steine sind bei Nässe extrem glatt.",
+                "hu": "Vigyázat, az ókori kövek vizesen rendívül csúsznak.",
+                "ro": "Atenție, pietrele antice sunt extrem de alunecoase când sunt ude.",
+                "en": "Caution, ancient stones are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Mersin Forum",
+              "tip_5lang": {
+                "de": "Sichere Fahrradparkplätze im Parkhaus.",
+                "hu": "Biztonságos kerékpárparkoló a parkolóházban.",
+                "ro": "Parcare sigură pentru biciclete în garaj.",
+                "en": "Secure bike parking available in the garage."
+              }
+            },
+            {
+              "name": "Mersin Marina",
+              "tip_5lang": {
+                "de": "Der Radweg ist gut asphaltiert und griffig.",
+                "hu": "A kerékpárút jól aszfaltozott és tapad.",
+                "ro": "Pista de biciclete este bine asfaltată și are aderență.",
+                "en": "The bike path is well-paved and has good grip."
+              }
+            },
+            {
+              "name": "Kushimoto Street",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter einem breiten Vordach.",
+                "hu": "Rövid megálló egy széles előtető alatt.",
+                "ro": "Oprire scurtă sub o copertină lată.",
+                "en": "Short stop under a wide awning."
+              }
+            },
+            {
+              "name": "Mersin Naval Museum",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad nah am Eingang unter.",
+                "hu": "Támaszd le a bringát a bejárat közelében fedett helyre.",
+                "ro": "Lăsați bicicleta sub acoperiș lângă intrare.",
+                "en": "Park your bike under cover near the entrance."
+              }
+            },
+            {
+              "name": "Atatürk House Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Trocknen.",
+                "hu": "Használd ki a múzeumlátogatást a száradásra.",
+                "ro": "Folosiți vizita la muzeu pentru a vă usca.",
+                "en": "Use the museum visit as a chance to dry off."
+              }
+            },
+            {
+              "name": "Culture Park",
+              "tip_5lang": {
+                "de": "Vermeiden Sie Pfützen auf den Uferwegen.",
+                "hu": "Kerüld a tócsákat a tengerparti utakon.",
+                "ro": "Evitați bălțile de pe potecile de pe faleză.",
+                "en": "Avoid deep puddles on the waterfront paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine reflektierende Regenjacke.",
+              "Prüfen Sie Ihre Bremsbeläge vor der Fahrt.",
+              "Die blauen Radwege in Mersin können bei Regen rutschig sein.",
+              "Halten Sie Abstand zu den Palmen wegen herabfallender Zweige."
+            ],
+            "hu": [
+              "Viselj fényvisszaverő esőkabátot.",
+              "Ellenőrizd a fékbetéteket indulás előtt.",
+              "Mersin kék kerékpárútjai esőben csúszósak lehetnek.",
+              "Tarts távolságot a pálmáktól a lehulló ágak miatt."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie reflectorizantă.",
+              "Verificați plăcuțele de frână înainte de plecare.",
+              "Pistele albastre din Mersin pot fi alunecoase pe ploaie.",
+              "Păstrați distanța față de palmieri din cauza crengilor căzute."
+            ],
+            "en": [
+              "Wear a reflective raincoat for visibility.",
+              "Check your brake pads before starting.",
+              "Mersin's blue bike lanes can be slippery when wet.",
+              "Keep distance from palm trees due to falling fronds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir nach Soli-Pompeiopolis. Das Forum bietet mittags Schutz vor dem Wind. Über die Marina geht es zur Kushimoto-Straße. Nach dem Besuch des Marine- und Atatürk-Museums endet der Tag im kühlen, aber sonnigen Kulturpark.",
+            "hu": "Reggel Soli-Pompeiopolis felé tekerünk. Délben a Forum véd a szél ellen. A Marinán át a Kushimoto utcába megyünk. A Hajózási és az Atatürk Múzeum után a nap a hűvös, de napos Culture Parkban zárul.",
+            "ro": "Dimineața pedalăm spre Soli-Pompeiopolis. La prânz, Forum ne protejează de vânt. Prin Marina mergem pe strada Kushimoto. După vizitarea muzeelor Naval și Atatürk, ziua se încheie în Parcul Culturii.",
+            "en": "Morning ride to Soli-Pompeiopolis is brisk. Mersin Forum offers shelter from the wind at noon. Head to Kushimoto Street via the Marina. After visiting the Naval and Atatürk museums, finish in the cool but sunny Culture Park."
+          },
+          "stops": [
+            {
+              "name": "Soli-Pompeiopolis",
+              "tip_5lang": {
+                "de": "Die antike Säulenstraße ist im Winter fast leer.",
+                "hu": "Az ókori oszlopsor télen szinte üres.",
+                "ro": "Strada antică cu coloane este aproape goală iarna.",
+                "en": "The ancient colonnaded street is nearly empty in winter."
+              }
+            },
+            {
+              "name": "Mersin Forum",
+              "tip_5lang": {
+                "de": "Ideale Pause, um sich im Inneren aufzuwärmen.",
+                "hu": "Ideális szünet, hogy felmelegedj bent.",
+                "ro": "Pauză ideală pentru a vă încălzi în interior.",
+                "en": "Ideal break to warm up inside the mall."
+              }
+            },
+            {
+              "name": "Mersin Marina",
+              "tip_5lang": {
+                "de": "Glatte Fahrt auf der flachen Küstenstrecke.",
+                "hu": "Sima gurulás a lapos tengerparti szakaszon.",
+                "ro": "Pedalat ușor pe porțiunea plată de coastă.",
+                "en": "Smooth riding on the flat coastal stretch."
+              }
+            },
+            {
+              "name": "Kushimoto Street",
+              "tip_5lang": {
+                "de": "Belebte Cafés sorgen für lokale Atmosphäre.",
+                "hu": "A nyüzsgő kávézók helyi hangulatot árasztanak.",
+                "ro": "Cafenelele pline oferă o atmosferă locală.",
+                "en": "Busy cafes provide a great local atmosphere."
+              }
+            },
+            {
+              "name": "Mersin Naval Museum",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Nusret-Replik im Freien.",
+                "hu": "Nézd meg a Nusret másolatát a szabadban.",
+                "ro": "Vizitați replica navei Nusret în exterior.",
+                "en": "Visit the Nusret replica in the outdoor section."
+              }
+            },
+            {
+              "name": "Atatürk House Museum",
+              "tip_5lang": {
+                "de": "Kleines Museum mit herrlicher Holzarchitektur.",
+                "hu": "Kis múzeum csodás faarchitektúrával.",
+                "ro": "Muzeu mic cu o arhitectură superbă din lemn.",
+                "en": "Small museum with beautiful wooden architecture."
+              }
+            },
+            {
+              "name": "Culture Park",
+              "tip_5lang": {
+                "de": "Achtung, die Sonne versinkt früh im Meer.",
+                "hu": "Vigyázat, a nap korán a tengerbe vész.",
+                "ro": "Atenție, soarele apune devreme în mare.",
+                "en": "Caution, the sun sets early into the sea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe gegen den kühlen Fahrtwind.",
+              "Die Küstenstraße ist flach, aber windanfällig.",
+              "Vorder- und Rücklicht sind ab 17 Uhr Pflicht.",
+              "Trinken Sie Salep an den Ständen im Kulturpark."
+            ],
+            "hu": [
+              "Viselj kesztyűt a hűvös menetszél ellen.",
+              "A tengerparti út sík, de szeles.",
+              "Első és hátsó lámpa 17 órától kötelező.",
+              "Igyál egy salepet a Culture Park árusainál."
+            ],
+            "ro": [
+              "Purtați mănuși împotriva vântului rece.",
+              "Drumul de coastă este plat, dar expus vântului.",
+              "Luminile față și spate sunt obligatorii de la ora 17.",
+              "Beți un salep de la tonetele din Parcul Culturii."
+            ],
+            "en": [
+              "Wear gloves against the cool headwind.",
+              "The coastal road is flat but prone to wind.",
+              "Front and rear lights are mandatory after 5 PM.",
+              "Try some Salep from vendors in Culture Park."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1098,6 +1480,188 @@
           "Be aware of tolls on some highways in the region.",
           "A GPS or navigation app is highly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir nach Soli-Pompeiopolis. Mittags parken wir trocken in der Marina-Garage. Das Marinemuseum bietet danach ein großes Indoor-Programm. Nach dem Lunch an der Küste besuchen wir das Atatürk-Haus. Der Tag endet bequem im Forum-Einkaufszentrum.",
+            "hu": "Reggel Soli-Pompeiopolisba hajtunk. Délben szárazon parkolunk a Marina garázsában. A Hajózási Múzeum ezután fedett programot kínál. A tengerparti ebéd után az Atatürk-házat nézzük meg. A nap kényelmesen a Forumban zárul.",
+            "ro": "Dimineața mergem la Soli-Pompeiopolis. La prânz parcăm în garajul din Marina. Muzeul Naval oferă un program interior după-amiaza. După prânzul pe coastă, vizităm Casa Atatürk. Ziua se încheie confortabil la mall-ul Forum.",
+            "en": "Drive to Soli-Pompeiopolis this morning. At noon, park in the dry Marina garage. The Naval Museum offers an indoor afternoon. After lunch on the coast, visit Atatürk House. The day ends comfortably at the Forum mall."
+          },
+          "stops": [
+            {
+              "name": "Soli-Pompeiopolis",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang für kurze Wege.",
+                "hu": "Parkolj közel a bejárathoz a rövid séta miatt.",
+                "ro": "Parcați aproape de intrare pentru a merge puțin pe jos.",
+                "en": "Park close to the entrance for a shorter walk."
+              }
+            },
+            {
+              "name": "Mersin Marina",
+              "tip_5lang": {
+                "de": "Trockener Zugang von der Tiefgarage zu den Läden.",
+                "hu": "Száraz átjárás a mélygarázstól az üzletekig.",
+                "ro": "Acces uscat din parcarea subterană către magazine.",
+                "en": "Dry access from the underground parking to shops."
+              }
+            },
+            {
+              "name": "Mersin Naval Museum",
+              "tip_5lang": {
+                "de": "Großer Parkplatz direkt vor dem Museumseingang.",
+                "hu": "Nagy parkoló közvetlenül a múzeumbemenetnél.",
+                "ro": "Parcare mare chiar în fața intrării muzeului.",
+                "en": "Large parking lot right in front of the museum entrance."
+              }
+            },
+            {
+              "name": "Lunch on the coast",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Valet-Service.",
+                "hu": "Válassz éttermet valet parkolással.",
+                "ro": "Alegeți un restaurant cu serviciu de valet.",
+                "en": "Choose a restaurant with valet parking service."
+              }
+            },
+            {
+              "name": "Atatürk House Museum",
+              "tip_5lang": {
+                "de": "Parken in den Seitenstraßen kann schwierig sein.",
+                "hu": "Az oldalsó utcákban nehéz lehet a parkolás.",
+                "ro": "Parcarea pe străzile laterale poate fi dificilă.",
+                "en": "Parking in side streets can be difficult."
+              }
+            },
+            {
+              "name": "Mersin Forum",
+              "tip_5lang": {
+                "de": "Perfektes Ziel, um den Regen im Kino zu meiden.",
+                "hu": "Tökéletes célpont, kerüld az esőt a moziban.",
+                "ro": "Destinația perfectă, evitați ploaia la cinema.",
+                "en": "Perfect destination to avoid rain at the cinema."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Rechnen Sie mit Stau auf der Küstenstraße bei Regen.",
+              "Nutzen Sie Park-Apps für das Stadtzentrum.",
+              "Vorsicht vor tiefem Wasser in den Unterführungen.",
+              "Die Sicht kann bei starkem Regen stark eingeschränkt sein."
+            ],
+            "hu": [
+              "Számolj dugókkal a tengerparti úton esőben.",
+              "Használj parkolóalkalmazást a belvárosban.",
+              "Vigyázz a mély vízre az aluljárókban.",
+              "A látási viszonyok korlátozottak lehetnek szakadó esőben."
+            ],
+            "ro": [
+              "Așteptați-vă la ambuteiaje pe drumul de coastă pe ploaie.",
+              "Folosiți aplicații de parcare pentru centrul orașului.",
+              "Atenție la apa adâncă din pasaje.",
+              "Vizibilitatea poate fi redusă în timpul ploilor abundente."
+            ],
+            "en": [
+              "Expect traffic jams on the coastal road during rain.",
+              "Use parking apps for the city center.",
+              "Beware of deep water in underpasses.",
+              "Visibility can be severely limited during downpours."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens gleiten wir entspannt nach Soli-Pompeiopolis. Mittags bietet die Marina sonnige Plätze. Das Marinemuseum ist nachmittags angenehm temperiert. Nach dem Lunch besuchen wir das Atatürk-Haus und genießen das beleuchtete Forum am Abend.",
+            "hu": "Reggel kényelmesen gurulunk Soli-Pompeiopolis felé. Délben a Marina napos helyeket kínál. A Hajózási Múzeumban délután kellemes az idő. Ebéd után az Atatürk-ház, este pedig a kivilágított Forum vár.",
+            "ro": "Dimineața mergem relaxați spre Soli-Pompeiopolis. La prânz, Marina oferă locuri însorite. Muzeul Naval are o temperatură plăcută după-amiaza. După prânz vizităm Casa Atatürk și Forumul luminat.",
+            "en": "A relaxed morning drive to Soli-Pompeiopolis. At noon, the Marina offers sunny spots. The Naval Museum is comfortably warm in the afternoon. After lunch, visit Atatürk House and the lit-up Forum."
+          },
+          "stops": [
+            {
+              "name": "Soli-Pompeiopolis",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruinen ohne die Sommerhitze.",
+                "hu": "Élvezd a romokat a nyári hőség nélkül.",
+                "ro": "Bucurați-vă de ruine fără căldura verii.",
+                "en": "Enjoy the ruins without the summer heat."
+              }
+            },
+            {
+              "name": "Mersin Marina",
+              "tip_5lang": {
+                "de": "Parkplätze in der Sonne bevorzugen.",
+                "hu": "Válassz parkolóhelyet a napon.",
+                "ro": "Preferați locurile de parcare la soare.",
+                "en": "Prefer parking spots in the sun."
+              }
+            },
+            {
+              "name": "Mersin Naval Museum",
+              "tip_5lang": {
+                "de": "Die Museumsgalerien sind im Winter beheizt.",
+                "hu": "A múzeumi galériák télen fűtöttek.",
+                "ro": "Galeriile muzeului sunt încălzite iarna.",
+                "en": "The museum galleries are heated in winter."
+              }
+            },
+            {
+              "name": "Lunch on the coast",
+              "tip_5lang": {
+                "de": "Frischer Fisch ist im Winter besonders gut.",
+                "hu": "A friss hal télen különösen finom.",
+                "ro": "Peștele proaspăt este excelent iarna.",
+                "en": "Fresh fish is exceptionally good in winter."
+              }
+            },
+            {
+              "name": "Atatürk House Museum",
+              "tip_5lang": {
+                "de": "Besuch am späten Nachmittag für weiches Licht.",
+                "hu": "Késő délutáni látogatás a lágy fényekért.",
+                "ro": "Vizitați spre seară pentru o lumină caldă.",
+                "en": "Late afternoon visit for soft photographic light."
+              }
+            },
+            {
+              "name": "Mersin Forum",
+              "tip_5lang": {
+                "de": "Die Open-Air-Bereiche sind im Winter mild.",
+                "hu": "A szabadtéri részek télen is enyhék.",
+                "ro": "Zonele în aer liber sunt blânde iarna.",
+                "en": "The open-air sections remain mild in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Sitzheizung am frühen Morgen.",
+              "Die Küstenstraße ist ideal für eine Panoramatour.",
+              "Im Winter gibt es weniger Touristenbusse.",
+              "Prüfen Sie den Reifendruck bei Temperaturwechseln."
+            ],
+            "hu": [
+              "Használd az ülésfűtést kora reggel.",
+              "A tengerparti út ideális egy panorámatúrához.",
+              "Télen kevesebb a turistabusz az utakon.",
+              "Ellenőrizd a guminyomást a hőmérsékletváltozáskor."
+            ],
+            "ro": [
+              "Folosiți încălzirea în scaune dimineața devreme.",
+              "Drumul de coastă este ideal pentru un tur panoramic.",
+              "Iarna sunt mai puține autocare de turiști.",
+              "Verificați presiunea în anvelope la schimbările de temperatură."
+            ],
+            "en": [
+              "Use seat heating during early morning starts.",
+              "The coastal road is ideal for a scenic drive.",
+              "There are fewer tourist buses in winter.",
+              "Check tire pressure during temperature shifts."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1454,6 +2018,188 @@
           "Buses can be crowded, so be prepared to stand.",
           "Keep an eye on your belongings on crowded buses."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bringt uns der bus zum Atatürk-Haus. Die Muğdat-Moschee erreichen wir mittags im Trockenen. Danach verbringen wir Zeit im Forum-Einkaufszentrum. Über die Marina geht es zum Marinemuseum, bevor der Tag im regnerischen Kulturpark endet.",
+            "hu": "Reggel a busz az Atatürk-házhoz visz. A Muğdat-mecsetet délben szárazon érjük el. Ezután a Forum bevásárlóközpont következik. A Marinán át a Hajózási Múzeumba megyünk, majd a nap a Culture Parkban zárul.",
+            "ro": "Dimineața, autobuzul ne duce la Casa Atatürk. Ajungem la Moscheea Muğdat la prânz, feriți de ploaie. Urmează centrul comercial Forum. Prin Marina mergem la Muzeul Naval, apoi în Parcul Culturii.",
+            "en": "Take the bus to Atatürk House this morning. Reach Muğdat Mosque at noon while staying dry. Next is the Forum shopping mall. Transit via Marina to the Naval Museum before ending at Culture Park."
+          },
+          "stops": [
+            {
+              "name": "Atatürk House Museum",
+              "tip_5lang": {
+                "de": "Bushaltestelle nur 2 Minuten entfernt.",
+                "hu": "Buszmegálló mindössze 2 percre.",
+                "ro": "Stație de autobuz la doar 2 minute distanță.",
+                "en": "Bus stop is only 2 minutes away."
+              }
+            },
+            {
+              "name": "Muğdat Mosque",
+              "tip_5lang": {
+                "de": "Warten Sie unter den Arkaden auf den nächsten Bus.",
+                "hu": "Várj a következő buszra az árkádok alatt.",
+                "ro": "Așteptați următorul autobuz sub arcade.",
+                "en": "Wait for the next bus under the arcades."
+              }
+            },
+            {
+              "name": "Mersin Forum",
+              "tip_5lang": {
+                "de": "Großer Transitknotenpunkt direkt vor dem Mall.",
+                "hu": "Nagy közlekedési csomópont a pláza előtt.",
+                "ro": "Nod mare de transport chiar în fața mall-ului.",
+                "en": "Major transit hub located right outside the mall."
+              }
+            },
+            {
+              "name": "Mersin Marina",
+              "tip_5lang": {
+                "de": "Sichere Bushaltestellen mit Unterstand.",
+                "hu": "Biztonságos, fedett buszmegállók.",
+                "ro": "Stații de autobuz sigure, cu adăpost.",
+                "en": "Secure bus stops with overhead shelters."
+              }
+            },
+            {
+              "name": "Mersin Naval Museum",
+              "tip_5lang": {
+                "de": "Direkte Busverbindung entlang der Küste.",
+                "hu": "Közvetlen buszjárat a tengerpart mentén.",
+                "ro": "Legătură directă cu autobuzul de-a lungul coastei.",
+                "en": "Direct bus connection along the coast."
+              }
+            },
+            {
+              "name": "Culture Park",
+              "tip_5lang": {
+                "de": "Haltestellen sind im Park gut verteilt.",
+                "hu": "A megállók jól elszórva találhatók a parkban.",
+                "ro": "Stațiile sunt bine distribuite în parc.",
+                "en": "Stops are well-distributed throughout the park."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die KentKart-App zeigt Busse in Echtzeit an.",
+              "Haben Sie Kleingeld für Notfall-Taxis bereit.",
+              "Busse können bei Regen überfüllt sein.",
+              "Warten Sie immer unter den Unterständen der Haltestellen."
+            ],
+            "hu": [
+              "A KentKart app valós időben mutatja a buszokat.",
+              "Legyen nálad aprópénz vészhelyzeti taxira.",
+              "A buszok esőben zsúfoltak lehetnek.",
+              "Mindig a megállók fedett váróiban várakozz."
+            ],
+            "ro": [
+              "Aplicația KentKart arată autobuzele în timp real.",
+              "Aveți mărunțiș pentru taxiuri în caz de urgență.",
+              "Autobuzele pot fi aglomerate pe ploaie.",
+              "Așteptați întotdeauna sub adăposturile din stații."
+            ],
+            "en": [
+              "The KentKart app shows buses in real-time.",
+              "Keep small change ready for emergency taxis.",
+              "Buses can be crowded during rainy weather.",
+              "Always wait under the provided station shelters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir bequem zum Atatürk-Haus. Die Muğdat-Moschee ist mittags ein ruhiger Stopp. Den Nachmittag verbringen wir im warmen Forum. Von der Marina fahren wir zum Marinemuseum, bevor wir den Tag im milden Kulturpark abschließen.",
+            "hu": "Reggel kényelmesen utazunk az Atatürk-házhoz. A Muğdat-mecset délben nyugodt megálló. A délutánt a meleg Forumban töltjük. A Marinától a Hajózási Múzeumba megyünk, majd az enyhe Culture Parkban zárunk.",
+            "ro": "Dimineața mergem confortabil la Casa Atatürk. Moscheea Muğdat este o oprire liniștită la prânz. După-amiaza stăm în Forumul călduros. De la Marina mergem la Muzeul Naval și încheiem în Parcul Culturii.",
+            "en": "Travel comfortably to Atatürk House this morning. Muğdat Mosque is a quiet noon stop. Spend the afternoon in the warm Forum mall. From the Marina, head to the Naval Museum and finish in the mild Culture Park."
+          },
+          "stops": [
+            {
+              "name": "Atatürk House Museum",
+              "tip_5lang": {
+                "de": "Besuch am Vormittag für weniger Andrang.",
+                "hu": "Látogasd délelőtt a kisebb tömegért.",
+                "ro": "Vizitați dimineața pentru a evita aglomerația.",
+                "en": "Visit in the morning to avoid crowds."
+              }
+            },
+            {
+              "name": "Muğdat Mosque",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Reflexion im Winter.",
+                "hu": "Nyugodt hely a téli elmélyüléshez.",
+                "ro": "Un loc liniștit pentru reflecție iarna.",
+                "en": "A peaceful place for reflection in winter."
+              }
+            },
+            {
+              "name": "Mersin Forum",
+              "tip_5lang": {
+                "de": "Genießen Sie einen warmen türkischen Kaffee.",
+                "hu": "Élvezz egy forró török kávét.",
+                "ro": "Savurați o cafea turcească caldă.",
+                "en": "Enjoy a hot Turkish coffee inside."
+              }
+            },
+            {
+              "name": "Mersin Marina",
+              "tip_5lang": {
+                "de": "Die Busse fahren hier alle 10-15 Minuten.",
+                "hu": "A buszok itt 10-15 percenként járnak.",
+                "ro": "Autobuzele trec pe aici la fiecare 10-15 minute.",
+                "en": "Buses run every 10-15 minutes here."
+              }
+            },
+            {
+              "name": "Mersin Naval Museum",
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter ein Geheimtipp.",
+                "hu": "A múzeum télen igazi titkos tipp.",
+                "ro": "Muzeul este o recomandare excelentă iarna.",
+                "en": "The museum is a great hidden gem in winter."
+              }
+            },
+            {
+              "name": "Culture Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Transit vor Einbruch der Dunkelheit.",
+                "hu": "Használd a tömegközlekedést sötétedés előtt.",
+                "ro": "Folosiți transportul în comun înainte de lăsarea serii.",
+                "en": "Use transit before it gets dark at 5 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Taktung der Busse ist im Winter zuverlässig.",
+              "Die Stadtbusse sind gut geheizt.",
+              "Besorgen Sie sich die KentKart im Voraus.",
+              "Abends sind die Busse Richtung Zentrum oft voll."
+            ],
+            "hu": [
+              "A buszok menetrendje télen megbízható.",
+              "A városi buszok jól fűtöttek.",
+              "Szerezd be előre a KentKart kártyát.",
+              "Este a központ felé tartó buszok gyakran tele vannak."
+            ],
+            "ro": [
+              "Programul autobuzelor este de încredere iarna.",
+              "Autobuzele urbane sunt bine încălzite.",
+              "Procurați-vă KentKart în avans.",
+              "Seara, autobuzele spre centru sunt adesea pline."
+            ],
+            "en": [
+              "Bus schedules are reliable during winter months.",
+              "City buses are usually well-heated.",
+              "Get your KentKart in advance.",
+              "Evening buses towards the center are often crowded."
+            ]
+          }
+        }
       }
     }
   }

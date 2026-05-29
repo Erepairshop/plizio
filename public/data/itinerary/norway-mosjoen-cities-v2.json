@@ -241,6 +241,178 @@
           "A camera is a must for the picturesque Sjøgata.",
           "Check the museum's opening hours in advance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in der Sjøgata beginnt trotz Regen gemütlich unter den Vordächern der historischen Holzhäuser. Ein kurzer Stopp im Fru Haugans Hotel bietet Schutz und Wärme bei einem Kaffee. Mittags erkunden Sie die Ausstellungen des Helgeland Museums im Trockenen. Der Nachmittag führt zur Dolstad Kirche, bevor der Tag mit einem atmosphärischen Spaziergang am nebligen Vefsna-Ufer endet.",
+            "hu": "A reggel a Sjøgata patinás faházai között indul, ahol az eresz alatt is élvezhető a hangulat. A Fru Haugans Hotelben egy forró ital nyújt menedéket a szitáló eső elől. A déli órákat a Helgeland Múzeum fedett kiállításai töltik meg tartalommal. Délután a Dolstad templom belső békéje vár, majd egy frissítő, esernyős séta zárja a napot a ködös Vefsna folyó partján.",
+            "ro": "Dimineața începe printre casele istorice din lemn de pe Sjøgata, protejați de streșini. O oprire la Hotelul Fru Haugans oferă un refugiu cald în fața ploii. Prânzul este dedicat explorării interioare a Muzeului Helgeland. După-amiaza vizităm biserica Dolstad, protejați de zidurile sale vechi, iar seara se încheie cu o plimbare atmosferică sub umbrelă pe malul râului Vefsna.",
+            "en": "The morning begins among the historic wooden houses of Sjøgata, where eaves provide shelter. A stop at Fru Haugans Hotel offers a warm escape from the drizzle. Midday is spent exploring the indoor exhibits of the Helgeland Museum. In the afternoon, find peace inside Dolstad Church, before ending the day with an atmospheric, umbrella-clad stroll along the misty Vefsna River."
+          },
+          "stops": [
+            {
+              "name": "Sjøgata Street",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Vordächer der Holzhäuser als natürlichen Regenschutz beim Fotografieren.",
+                "hu": "Használja a faházak ereszeit természetes esővédőként fotózás közben.",
+                "ro": "Folosiți streșinile caselor de lemn ca adăpost natural în timp ce faceți poze.",
+                "en": "Use the eaves of the wooden houses as natural rain cover while taking photos."
+              }
+            },
+            {
+              "name": "Fru Haugans Hotel",
+              "tip_5lang": {
+                "de": "Der perfekte Ort für eine trockene Kaffeepause im ältesten Hotel Nordnorwegens.",
+                "hu": "Tökéletes hely egy száraz kávészünethez Észak-Németország legrégebbi szállodájában.",
+                "ro": "Locul perfect pentru o pauză de cafea la adăpost în cel mai vechi hotel din Norvegia de Nord.",
+                "en": "The perfect spot for a dry coffee break in Northern Norway's oldest hotel."
+              }
+            },
+            {
+              "name": "Helgeland Museum",
+              "tip_5lang": {
+                "de": "Planen Sie hier bei starkem Regen mehr Zeit für die Indoor-Ausstellungen ein.",
+                "hu": "Heves eső esetén tervezzen ide több időt a benti kiállítások megtekintésére.",
+                "ro": "Planificați mai mult timp aici pentru expozițiile interioare în caz de ploaie abundentă.",
+                "en": "Plan more time here for the indoor exhibits if the rain intensifies."
+              }
+            },
+            {
+              "name": "Dolstad Church",
+              "tip_5lang": {
+                "de": "Das Holzinterieur bietet eine warme, trockene Atmosphäre fernab vom Wetter.",
+                "hu": "A fa belső tér meleg, száraz atmoszférát nyújt az időjárástól távol.",
+                "ro": "Interiorul de lemn oferă o atmosferă caldă și uscată, departe de vremea rea.",
+                "en": "The wooden interior provides a warm, dry atmosphere away from the weather."
+              }
+            },
+            {
+              "name": "Walk along the Vefsna River",
+              "tip_5lang": {
+                "de": "Gute Regenkleidung ist wichtig, da der Uferweg wenig Unterstand bietet.",
+                "hu": "A jó esőruházat fontos, mivel a folyóparti úton kevés a menedék.",
+                "ro": "Îmbrăcămintea impermeabilă e esențială, deoarece malul oferă puțin adăpost.",
+                "en": "Good rain gear is essential as the riverside path offers little shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster in der Sjøgata rutschig sein kann.",
+              "Die Cafés in der Sjøgata sind ideale Zufluchtsorte bei plötzlichen Schauern.",
+              "Nutzen Sie die Museen für die nassesten Stunden des Tages.",
+              "Ein stabiler Windschutz-Regenschirm ist aufgrund der Küstennähe ratsam.",
+              "Die Lichtstimmung am Fluss ist bei Regen besonders mystisch für Fotos."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a Sjøgata macskakövei csúszósak lehetnek.",
+              "A Sjøgata kávézói ideális menedékek hirtelen záporok esetén.",
+              "A nap legcsapadékosabb óráit töltse a múzeumban.",
+              "A tenger közelsége miatt szélálló esernyő ajánlott.",
+              "A folyóparti fények esőben különösen misztikusak a fotózáshoz."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, pavajul din Sjøgata poate fi alunecos.",
+              "Cafenelele de pe Sjøgata sunt refugii ideale în caz de averse bruște.",
+              "Folosiți orele cele mai ploioase pentru vizitarea muzeului.",
+              "Se recomandă o umbrelă rezistentă la vânt din cauza proximității de coastă.",
+              "Lumina de pe malul râului este deosebit de mistică pentru fotografii pe ploaie."
+            ],
+            "en": [
+              "Wear waterproof shoes as the cobblestones in Sjøgata can be slippery.",
+              "The cafes in Sjøgata are ideal shelters during sudden downpours.",
+              "Use the museum for the wettest hours of the day.",
+              "A sturdy windproof umbrella is advised due to the coastal proximity.",
+              "The lighting by the river is particularly mystical for photos in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mosjøen verwandelt sich im Winter in ein Wintermärchen. Die beleuchtete Sjøgata funkelt unter dem Schnee, während das Fru Haugans Hotel wohlige Wärme ausstrahlt. Mittags wärmen Sie sich im Museum auf, bevor Sie die verschneite Dolstad Kirche im magischen 'blauen Licht' besuchen. Der Tag endet früh mit einem Spaziergang am gefrorenen Vefsna, unter einem klaren Sternenhimmel.",
+            "hu": "Mosjøen télen igazi mesevárossá válik. A kivilágított Sjøgata szikrázik a hó alatt, a Fru Haugans Hotel pedig barátságos meleget áraszt. Délben a múzeumban melegedhetünk fel, majd a havas Dolstad templomot látogatjuk meg a mágikus kék órában. A nap korán ér véget a befagyott Vefsna melletti sétával, a tiszta csillagos égbolt alatt.",
+            "ro": "Mosjøen se transformă iarna într-un basm nordic. Sjøgata iluminată strălucește sub zăpadă, în timp ce Hotelul Fru Haugans emană o căldură primitoare. La prânz vă încălziți în muzeu, înainte de a vizita biserica Dolstad în lumina magică albastră. Ziua se încheie devreme cu o plimbare pe lângă râul înghețat Vefsna, sub un cer înstelat.",
+            "en": "Mosjøen transforms into a winter fairytale. The illuminated Sjøgata sparkles under the snow, while Fru Haugans Hotel radiates cozy warmth. Warm up in the museum at midday before visiting the snowy Dolstad Church during the magical 'blue hour'. The day ends early with a stroll by the frozen Vefsna under a clear, starry sky."
+          },
+          "stops": [
+            {
+              "name": "Sjøgata Street",
+              "tip_5lang": {
+                "de": "Genießen Sie die Weihnachtsbeleuchtung und den knirschenden Schnee auf den Gehwegen.",
+                "hu": "Élvezze a karácsonyi fényeket és a ropogós havat a járdákon.",
+                "ro": "Bucurați-vă de luminile de Crăciun și de zăpada care scârțâie sub picioare.",
+                "en": "Enjoy the Christmas lights and the crunching snow on the walkways."
+              }
+            },
+            {
+              "name": "Fru Haugans Hotel",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich am Kamin auf und genießen Sie die historische Winteratmosphäre.",
+                "hu": "Melegedjen fel a kandallónál, és élvezze a történelmi téli hangulatot.",
+                "ro": "Încălziți-vă la șemineu și bucurați-vă de atmosfera istorică de iarnă.",
+                "en": "Warm up by the fireplace and enjoy the historic winter atmosphere."
+              }
+            },
+            {
+              "name": "Helgeland Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um der Kälte für eine Weile zu entfliehen.",
+                "hu": "Ideális hely, hogy egy időre elmeneküljünk a kinti hideg elől.",
+                "ro": "Un loc ideal pentru a scăpa de frig pentru o perioadă.",
+                "en": "An ideal place to escape the cold for a while."
+              }
+            },
+            {
+              "name": "Dolstad Church",
+              "tip_5lang": {
+                "de": "Die Kirche sieht im Winterschnee besonders fotogen aus, besonders in der Dämmerung.",
+                "hu": "A templom különösen fotogén a téli hóban, főleg szürkületkor.",
+                "ro": "Biserica arată deosebit de fotogenă în zăpadă, mai ales la amurg.",
+                "en": "The church looks exceptionally photogenic in the winter snow, especially at dusk."
+              }
+            },
+            {
+              "name": "Walk along the Vefsna River",
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen; Spikes für die Schuhe sind sehr zu empfehlen.",
+                "hu": "Vigyázat a jeges szakaszokkal; a cipőre csatolható csúszásgátló ajánlott.",
+                "ro": "Atenție la porțiunile înghețate; se recomandă insistent crampoanele pentru pantofi.",
+                "en": "Watch out for icy patches; shoe spikes are highly recommended."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 14:00 Uhr unter.",
+              "Kleiden Sie sich nach dem Zwiebelprinzip mit Wolle als Basisschicht.",
+              "Tragen Sie Spikes an den Schuhen, da die Sjøgata oft spiegelglatt ist.",
+              "Halten Sie nach 17:00 Uhr Ausschau nach Nordlichtern am Himmel.",
+              "Kameraschutzhüllen verhindern Kondenswasser beim Betreten warmer Räume."
+            ],
+            "hu": [
+              "Decemberben a nap már délután 14:00 körül lemegy.",
+              "Öltözzön rétegesen, gyapjú alsóruházattal.",
+              "Használjon csúszásgátlót a cipőjén, mert a Sjøgata gyakran tükörsima jég.",
+              "17:00 után figyelje az északi fényt az égbolton.",
+              "A fényképezőgépet óvja a páralecsapódástól a meleg helyre lépéskor."
+            ],
+            "ro": [
+              "Soarele apune deja în jurul orei 14:00 în luna decembrie.",
+              "Îmbrăcați-vă în straturi, folosind lâna ca strat de bază.",
+              "Purtați crampoane pe pantofi, deoarece Sjøgata este adesea extrem de alunecoasă.",
+              "După ora 17:00, căutați Aurora Boreală pe cer.",
+              "Husele pentru cameră previn condensul la intrarea în spații calde."
+            ],
+            "en": [
+              "The sun sets as early as 2:00 PM in December.",
+              "Dress in layers, with wool as your base layer.",
+              "Wear shoe spikes, as Sjøgata is often mirror-slick with ice.",
+              "Look for Northern Lights in the sky after 5:00 PM.",
+              "Camera covers prevent condensation when entering warm indoor spaces."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -476,6 +648,178 @@
           "Bring water and snacks for the ride to Marsøra.",
           "A helmet is highly recommended."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Disziplin, belohnt aber mit leeren Wegen. Starten Sie vorsichtig in der nassen Sjøgata und fahren Sie zum Helgeland Museum für eine lange Pause. Mittags geht es weiter zur Dolstad Kirche, wo Sie im Trockenen verweilen können. Die Tour führt entlang des Vefsna-Ufers, wo Pfützen den Weg säumen, bis zum Marsøra-Gebiet, das im Regen eine herbe Schönheit besitzt.",
+            "hu": "Az esős kerékpártúra fegyelmet igényel, de üres utakkal jutalmaz. Kezdjen óvatosan a vizes Sjøgatában, majd tekerjen a Helgeland Múzeumhoz egy hosszabb pihenőre. Délben a Dolstad templom felé vegye az irányt, ahol fedett helyen időzhet. Az útvonal a Vefsna partján folytatódik tócsák között, egészen Marsøra környékéig, amely esőben is különleges arcát mutatja.",
+            "ro": "O tură cu bicicleta pe ploaie necesită disciplină, dar oferă poteci libere. Începeți cu prudență pe Sjøgata umedă și pedalați spre Muzeul Helgeland pentru o pauză lungă. La prânz continuăm spre biserica Dolstad, unde puteți sta la adăpost. Traseul urmează malul râului Vefsna, printre bălți, până la zona Marsøra, care are o frumusețe aspră pe ploaie.",
+            "en": "A bike ride in the rain requires discipline but rewards you with empty paths. Start cautiously on wet Sjøgata and head to the Helgeland Museum for a long break. At midday, proceed to Dolstad Church for some indoor time. The route follows the Vefsna riverside through puddles to the Marsøra area, which holds a rugged beauty in the rain."
+          },
+          "stops": [
+            {
+              "name": "Sjøgata Street",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster; es kann extrem rutschig sein.",
+                "hu": "Vigyázat a vizes macskakövön; rendkívül csúszós lehet.",
+                "ro": "Atenție pe pavajul umed; poate fi extrem de alunecos.",
+                "en": "Be careful on the wet cobblestones; they can be extremely slippery."
+              }
+            },
+            {
+              "name": "Helgeland Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit, um Ihre Ausrüstung zu trocknen, während Sie die Exponate sehen.",
+                "hu": "Használja ki az időt a felszerelése megszárítására, amíg a kiállítást nézi.",
+                "ro": "Folosiți timpul pentru a vă usca echipamentul în timp ce vizitați expozițiile.",
+                "en": "Use the time to dry your gear while checking out the exhibits."
+              }
+            },
+            {
+              "name": "Dolstad Church",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter den Bäumen ab, um den Sattel trocken zu halten.",
+                "hu": "Parkolja a biciklit a fák alá, hogy a nyereg száraz maradjon.",
+                "ro": "Parcați bicicleta sub copaci pentru a menține șaua uscată.",
+                "en": "Park your bike under the trees to keep the saddle dry."
+              }
+            },
+            {
+              "name": "Along the Vefsna River",
+              "tip_5lang": {
+                "de": "Schutzbleche sind hier unverzichtbar, um Schlammspritzer zu vermeiden.",
+                "hu": "A sárvédő itt nélkülözhetetlen a felverődő sár elkerülése érdekében.",
+                "ro": "Apărătorile de noroi sunt indispensabile aici pentru a evita stropirea.",
+                "en": "Mudguards are essential here to avoid splashes from the trail."
+              }
+            },
+            {
+              "name": "Marsøra Recreational Area",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den überdachten Rastplätzen, falls der Regen zunimmt.",
+                "hu": "Keressen menedéket a fedett pihenőhelyeken, ha felerősödik az eső.",
+                "ro": "Căutați adăpost în zonele de odihnă acoperite dacă ploaia se intensifică.",
+                "en": "Seek shelter in the covered rest areas if the rain increases."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung (Hose und Jacke) ist für diese Tour Pflicht.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt; Nässe verlängert den Bremsweg.",
+              "Vermeiden Sie schnelle Kurven auf dem Holzpflaster der Sjøgata.",
+              "Nehmen Sie eine wasserdichte Tasche für Ihre Wertsachen mit.",
+              "Ein heißes Getränk in einer Thermoskanne hilft gegen Auskühlung."
+            ],
+            "hu": [
+              "A teljes esőruházat (nadrág és kabát) kötelező ehhez a túrához.",
+              "Indulás előtt ellenőrizze a fékeket; a nedvesség növeli a féktávot.",
+              "Kerülje a hirtelen kanyarodást a Sjøgata fapadlózatán.",
+              "Vigyen magával vízálló táskát az értéktárgyaknak.",
+              "A termoszos forró ital segít megelőzni a lehűlést."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie (pantaloni și jachetă) este obligatoriu.",
+              "Verificați frânele înainte de plecare; umezeala mărește distanța de frânare.",
+              "Evitați virajele strânse pe pavajul de lemn din Sjøgata.",
+              "Luați o geantă impermeabilă pentru obiectele de valoare.",
+              "O băutură fierbinte într-un termos ajută la prevenirea răcelii."
+            ],
+            "en": [
+              "Full rain gear (trousers and jacket) is mandatory for this tour.",
+              "Check your brakes before starting; wet conditions increase braking distance.",
+              "Avoid sharp turns on the wooden surfaces of Sjøgata.",
+              "Take a waterproof bag for your valuables.",
+              "A hot drink in a thermos helps prevent getting chilled."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterbiken in Mosjøen ist ein Abenteuer für Mutige. Mit Spikereifen geht es durch die tief verschneite Sjøgata zum Museum. Die Kälte beißt, aber die klirrend klare Luft ist erfrischend. Mittags erreichen Sie die Dolstad Kirche, deren Holzwände im Schnee leuchten. Der Rückweg führt über festgefahrene Schneewege am Vefsna entlang bis zum Marsøra-Park, wo die Winterstille fast greifbar ist.",
+            "hu": "A téli kerékpározás Mosjøenben a bátrak kalandja. Szöges gumikkal vágunk át a havas Sjøgatán a múzeum felé. A hideg harapós, de a tiszta levegő frissítő. Délben érjük el a Dolstad templomot, melynek falfelületei ragyognak a hóban. A visszavezető út a Vefsna menti döngölt havas ösvényeken visz Marsøra parkjáig, ahol a téli csend szinte tapintható.",
+            "ro": "Ciclismul de iarnă în Mosjøen este o aventură pentru cei curajoși. Cu anvelope cu ținte, traversăm Sjøgata înzăpezită spre muzeu. Frigul este tăios, dar aerul curat este revigorant. La prânz ajungem la biserica Dolstad, ale cărei ziduri de lemn strălucesc în zăpadă. Drumul de întoarcere urmează potecile cu zăpadă bătătorită de pe Vefsna până în parcul Marsøra.",
+            "en": "Winter biking in Mosjøen is an adventure for the brave. With studded tires, ride through snowy Sjøgata to the museum. The cold bites, but the crisp air is refreshing. At midday, reach Dolstad Church, its wooden walls glowing against the snow. The return trip follows packed snow paths along Vefsna to Marsøra Park, where the winter silence is almost tangible."
+          },
+          "stops": [
+            {
+              "name": "Sjøgata Street",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem Schnee; unter der weißen Pracht kann Eis lauern.",
+                "hu": "Hajtson lassan a havon; a fehér takaró alatt jég bújhat meg.",
+                "ro": "Pedalați încet pe zăpadă; gheața se poate ascunde sub stratul alb.",
+                "en": "Ride slowly on the snow; ice may be lurking under the white cover."
+              }
+            },
+            {
+              "name": "Helgeland Museum",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und wärmen Sie Ihre Hände im Inneren auf.",
+                "hu": "Parkolja le biztonságosan a biciklit, és melegítse fel a kezeit bent.",
+                "ro": "Parcați bicicleta în siguranță și încălziți-vă mâinile în interior.",
+                "en": "Park your bike securely and warm your hands inside."
+              }
+            },
+            {
+              "name": "Dolstad Church",
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Kirche kann im Winter sehr glatt sein.",
+                "hu": "A templomhoz vezető emelkedő télen nagyon csúszós lehet.",
+                "ro": "Urcarea spre biserică poate fi foarte alunecoasă iarna.",
+                "en": "The incline to the church can be very slippery in winter."
+              }
+            },
+            {
+              "name": "Along the Vefsna River",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Eis im Fluss, aber bleiben Sie auf dem Weg.",
+                "hu": "Élvezze a folyó jegének látványát, de maradjon a kijelölt úton.",
+                "ro": "Bucurați-vă de priveliștea gheții de pe râu, dar rămâneți pe potecă.",
+                "en": "Enjoy the view of the ice on the river, but stay on the path."
+              }
+            },
+            {
+              "name": "Marsøra Recreational Area",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine Pause, wenn man warme Kleidung dabei hat.",
+                "hu": "Tökéletes hely egy pihenőre, ha van önnél meleg ruházat.",
+                "ro": "Locul perfect pentru o pauză dacă aveți haine groase la voi.",
+                "en": "Perfect spot for a break if you have warm clothing with you."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Spikereifen (Piggdekk) sind für Winterradtouren in Norwegen unerlässlich.",
+              "Verwenden Sie spezielles Winter-Kettenöl, um Einfrieren zu verhindern.",
+              "Schützen Sie Ihr Gesicht mit einer Sturmhaube gegen den Fahrtwind.",
+              "Planen Sie aufgrund der Kälte und Dunkelheit nur kurze Strecken ein.",
+              "Stellen Sie sicher, dass Ihre Beleuchtung vorne und hinten hell genug ist."
+            ],
+            "hu": [
+              "A szöges gumik (Piggdekk) elengedhetetlenek a norvég téli túrákhoz.",
+              "Használjon speciális téli láncolajat a fagyás megelőzésére.",
+              "Védje arcát maszkkel a menetszél ellen.",
+              "A hideg és a sötét miatt csak rövid szakaszokat tervezzen.",
+              "Győződjön meg róla, hogy az első és hátsó világítása elég erős."
+            ],
+            "ro": [
+              "Anvelopele cu ținte (Piggdekk) sunt esențiale pentru turele de iarnă în Norvegia.",
+              "Folosiți ulei de lanț special pentru iarnă pentru a preveni înghețul.",
+              "Protejați-vă fața cu o cagulă împotriva vântului rece.",
+              "Planificați doar distanțe scurte din cauza frigului și a întunericului.",
+              "Asigurați-vă că luminile față și spate sunt suficient de puternice."
+            ],
+            "en": [
+              "Studded tires (Piggdekk) are essential for winter biking in Norway.",
+              "Use special winter chain oil to prevent freezing.",
+              "Protect your face with a balaclava against the wind chill.",
+              "Plan only short distances due to the cold and early darkness.",
+              "Ensure your front and rear lights are bright enough for dark conditions."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -739,6 +1083,196 @@
           "Parking fees may apply in the center.",
           "Gas stations are less frequent outside the city, so plan ahead."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Mosjøen auch bei Regen komfortabel zu erkunden. Parken Sie direkt am Zentrum für einen kurzen Gang durch die Sjøgata. Das Museum bietet danach einen trockenen Vormittag. Mittags führt die Fahrt zur Dolstad Kirche und zur Basis des Øyfjellet. Die Helgelandstrappa ist bei Regen rutschig, daher empfiehlt sich nur ein kurzer Blick, bevor es zum Marsøra-Aussichtspunkt geht.",
+            "hu": "Autóval Mosjøen esőben is kényelmesen felfedezhető. Parkoljon a központban egy rövid Sjøgata-sétához. A múzeum száraz délelőtti programot kínál. Délben látogasson el a Dolstad templomhoz és az Øyfjellet lábához. A Helgelandstrappa esőben csúszós, így csak egy rövid megállót javasolunk, mielőtt a Marsøra kilátóhoz hajtana.",
+            "ro": "Cu mașina, Mosjøen este confortabil de explorat chiar și pe ploaie. Parcați în centru pentru o scurtă plimbare pe Sjøgata. Muzeul oferă apoi o dimineață uscată. La prânz, conduceți spre biserica Dolstad și baza muntelui Øyfjellet. Scara Helgelandstrappa este alunecoasă pe ploaie, deci se recomandă doar o privire scurtă înainte de a merge la punctul de belvedere Marsøra.",
+            "en": "By car, Mosjøen is comfortable to explore even in the rain. Park downtown for a short stroll through Sjøgata. The museum offers a dry morning thereafter. At midday, drive to Dolstad Church and the base of Øyfjellet. Helgelandstrappa is slippery in the rain, so only a quick look is advised before heading to the Marsøra viewpoint."
+          },
+          "stops": [
+            {
+              "name": "Parking Downtown & Sjøgata",
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkplätze nah an den Gebäuden, um Laufwege im Regen zu minimieren.",
+                "hu": "Parkoljon az épületekhez közel, hogy minimalizálja az esőben megtett utat.",
+                "ro": "Folosiți parcările aproape de clădiri pentru a minimiza mersul prin ploaie.",
+                "en": "Use parking spots close to buildings to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Helgeland Museum",
+              "tip_5lang": {
+                "de": "Kostenlose Parkplätze stehen direkt am Museumseingang zur Verfügung.",
+                "hu": "Ingyenes parkoló áll rendelkezésre közvetlenül a múzeum bejáratánál.",
+                "ro": "Locuri de parcare gratuite sunt disponibile chiar la intrarea în muzeu.",
+                "en": "Free parking is available right by the museum entrance."
+              }
+            },
+            {
+              "name": "Dolstad Church",
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Parkplatz direkt vor dem Kirchentor.",
+                "hu": "Hajtson egészen a templomkapu előtti parkolóig.",
+                "ro": "Conduceți până în parcarea direct din fața porții bisericii.",
+                "en": "Drive all the way to the parking lot right in front of the church gate."
+              }
+            },
+            {
+              "name": "Base of Øyfjellet Mountain",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den wolkenverhangenen Berg aus dem Auto.",
+                "hu": "Élvezze a felhőkbe burkolózó hegy látványát az autóból.",
+                "ro": "Bucurați-vă de priveliștea muntelui acoperit de nori direct din mașină.",
+                "en": "Enjoy the view of the cloud-shrouded mountain from your car."
+              }
+            },
+            {
+              "name": "Helgelandstrappa",
+              "tip_5lang": {
+                "de": "Vom Aufstieg wird bei Regen wegen extremer Rutschgefahr abgeraten.",
+                "hu": "Esőben a felkapaszkodás nem ajánlott a rendkívüli csúszásveszély miatt.",
+                "ro": "Urcarea nu este recomandată pe ploaie din cauza pericolului extrem de alunecare.",
+                "en": "Climbing is not advised in the rain due to extreme slipping hazards."
+              }
+            },
+            {
+              "name": "Marsøra Viewpoint",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto und genießen Sie das Panorama über den Fjord.",
+                "hu": "Maradjon az autóban, és élvezze a fjord feletti panorámát.",
+                "ro": "Rămâneți în mașină și bucurați-vă de panorama asupra fjordului.",
+                "en": "Stay in the car and enjoy the panorama over the fjord."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Straßen können bei starkem Regen Aquaplaning-Gefahr bieten.",
+              "Nutzen Sie die Park-Apps, um das Bezahlen im Regen zu erleichtern.",
+              "Halten Sie die Scheinwerfer sauber, da Spritzwasser die Sicht trübt.",
+              "Ein Regenschirm im Kofferraum ist für die kurzen Wege zum Ziel Pflicht.",
+              "Besuchen Sie das Café im Museum für eine gemütliche Pause."
+            ],
+            "hu": [
+              "Heves esőben fennáll a vízenfutás (aquaplaning) veszélye.",
+              "Használjon parkolási applikációkat az esőben való fizetés elkerülésére.",
+              "Tartsa tisztán a fényszórókat a felverődő víz miatt.",
+              "A csomagtartóban tartott esernyő kötelező a rövid gyalogutakhoz.",
+              "Látogassa meg a múzeum kávézóját egy barátságos pihenőhöz."
+            ],
+            "ro": [
+              "Drumurile pot prezenta risc de acvaplanare în timpul ploilor torențiale.",
+              "Folosiți aplicații de parcare pentru a evita plata în ploaie.",
+              "Păstrați farurile curate, deoarece apa pulverizată reduce vizibilitatea.",
+              "O umbrelă în portbagaj este obligatorie pentru distanțele scurte.",
+              "Vizitați cafeneaua muzeului pentru o pauză relaxantă."
+            ],
+            "en": [
+              "Roads may pose a risk of aquaplaning during heavy rain.",
+              "Use parking apps to facilitate payment without standing in the rain.",
+              "Keep headlights clean as road spray reduces visibility.",
+              "An umbrella in the trunk is essential for short walks to destinations.",
+              "Visit the museum cafe for a cozy indoor break."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt durch das winterliche Mosjøen ist sicher und malerisch. Starten Sie im Zentrum, wo die Sjøgata festlich geschmückt ist. Die Fahrt zum Museum führt durch tief verschneite Gassen. Mittags besuchen Sie die Dolstad Kirche, die wie eine Eiskönigin im Schnee thront. Der Ausblick auf das Øyfjellet ist im Winter besonders dramatisch, während die Helgelandstrappa im Winterschlaf liegt.",
+            "hu": "Az autóút a téli Mosjøenben biztonságos és festői. Kezdje a központban, ahol a Sjøgata ünnepi díszben tündököl. A múzeumhoz vezető út havas utcákon át visz. Délben látogassa meg a Dolstad templomot, amely jégkirálynőként trónol a hóban. Az Øyfjellet látványa télen különösen drámai, miközben a Helgelandstrappa téli álmát alussza.",
+            "ro": "O călătorie cu mașina prin Mosjøen de iarnă este sigură și pitorească. Începeți în centru, unde Sjøgata este decorată festiv. Drumul spre muzeu trece prin străzi înzăpezite. La prânz vizitați biserica Dolstad, care tronează ca o regină a gheții. Vederea spre Øyfjellet este dramatică iarna, în timp ce scara Helgelandstrappa doarme somnul de iarnă.",
+            "en": "A car ride through winter Mosjøen is safe and picturesque. Start downtown where Sjøgata is festively decorated. The drive to the museum takes you through snowy streets. At midday, visit Dolstad Church, reigning like an ice queen in the snow. The view of Øyfjellet is particularly dramatic in winter, while Helgelandstrappa rests in its winter slumber."
+          },
+          "stops": [
+            {
+              "name": "Parking Downtown & Sjøgata",
+              "tip_5lang": {
+                "de": "Vorsicht beim Einparken in Schneehaufen; das Eis darunter kann glatt sein.",
+                "hu": "Vigyázat a hókupacokba való parkoláskor; az alatta lévő jég csúszós lehet.",
+                "ro": "Atenție la parcarea în mormane de zăpadă; gheața de dedesubt poate fi alunecoasă.",
+                "en": "Be careful when parking in snow piles; the ice underneath can be slick."
+              }
+            },
+            {
+              "name": "Helgeland Museum",
+              "tip_5lang": {
+                "de": "Der Parkplatz wird regelmäßig geräumt, kann aber trotzdem rutschig sein.",
+                "hu": "A parkolót rendszeresen takarítják, de így is csúszós maradhat.",
+                "ro": "Parcarea este curățată regulat, dar poate fi totuși alunecoasă.",
+                "en": "The parking lot is cleared regularly but can still be slippery."
+              }
+            },
+            {
+              "name": "Dolstad Church",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Allradantrieb, falls vorhanden, für die Auffahrt zum Tor.",
+                "hu": "Használja az összkerékhajtást, ha van, a kapuhoz vezető emelkedőn.",
+                "ro": "Folosiți tracțiunea integrală, dacă există, pentru urcarea spre poartă.",
+                "en": "Use four-wheel drive, if available, for the incline to the gate."
+              }
+            },
+            {
+              "name": "Base of Øyfjellet Mountain",
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet einen tollen Blick auf den verschneiten Gipfel.",
+                "hu": "A parkolóból nagyszerű kilátás nyílik a havas csúcsra.",
+                "ro": "Parcarea oferă o vedere excelentă asupra vârfului înzăpezit.",
+                "en": "The parking lot offers a great view of the snow-capped peak."
+              }
+            },
+            {
+              "name": "Helgelandstrappa",
+              "tip_5lang": {
+                "de": "Die Treppe ist im Winter oft unpassierbar und gesperrt.",
+                "hu": "A lépcső télen gyakran járhatatlan és le van zárva.",
+                "ro": "Scara este adesea impracticabilă și închisă pe timp de iarnă.",
+                "en": "The stairs are often impassable and closed during winter."
+              }
+            },
+            {
+              "name": "Marsøra Viewpoint",
+              "tip_5lang": {
+                "de": "Bester Ort, um das blaue Licht über dem Vefsnfjord zu beobachten.",
+                "hu": "A legjobb hely a Vefsnfjord feletti kék óra megfigyelésére.",
+                "ro": "Cel mai bun loc pentru a observa lumina albastră deasupra Vefsnfjord.",
+                "en": "Best spot to observe the blue light over the Vefsnfjord."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Norwegen gesetzlich vorgeschrieben.",
+              "Führen Sie immer eine Schneeschaufel und einen Eiskratzer mit.",
+              "Die Bergstraßen können bei Schneesturm kurzfristig gesperrt werden.",
+              "Achten Sie auf Rentiere, die im Winter oft die Straßen kreuzen.",
+              "Halten Sie den Tank immer mindestens halb voll für Notfälle."
+            ],
+            "hu": [
+              "Téli gumi használata Norvégiában törvényileg kötelező.",
+              "Mindig tartson az autóban hólapátot és jégkaparót.",
+              "A hegyi utakat hóvihar esetén rövid időre lezárhatják.",
+              "Figyeljen a rénszarvasokra, amelyek télen gyakran átkelnek az úton.",
+              "Vészhelyzet esetére tartsa az üzemanyagszintet legalább félig."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii prin lege în Norvegia.",
+              "Aveți întotdeauna în mașină o lopată de zăpadă și o racletă.",
+              "Drumurile montane pot fi închise pe termen scurt în caz de viscol.",
+              "Atenție la reni, care traversează adesea drumurile iarna.",
+              "Păstrați rezervorul cel puțin pe jumătate plin pentru urgențe."
+            ],
+            "en": [
+              "Winter tires are legally mandatory in Norway.",
+              "Always carry a snow shovel and an ice scraper in the car.",
+              "Mountain roads may be closed on short notice during snowstorms.",
+              "Watch out for reindeer, which often cross the roads in winter.",
+              "Keep the fuel tank at least half full for emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -978,6 +1512,178 @@
           "Download the local public transport app for real-time schedules.",
           "Be on time at the stops, especially in more rural areas."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus lässt sich Mosjøen auch bei Schmuddelwetter effizient erkunden. Starten Sie im Zentrum an der Sjøgata und nutzen Sie die kurzen Intervalle zum Museum. Mittags bringt Sie der Transit zur Dolstad Kirche. Ein kurzer Spaziergang am Vefsna-Ufer ist dank der guten Busanbindung jederzeit abbrechbar, bevor Sie den Tag gemütlich im Bus Richtung Marsøra ausklingen lassen.",
+            "hu": "Busszal Mosjøen még barátságtalan időben is hatékonyan bejárható. Kezdjen a központban a Sjøgatánál, majd használja a sűrű járatokat a múzeumig. Délben a tömegközlekedés elviszi a Dolstad templomhoz. A Vefsna-parti séta bármikor megszakítható a jó buszközlekedésnek köszönhetően, mielőtt Marsøra felé venné az irányt.",
+            "ro": "Cu autobuzul, Mosjøen poate fi explorat eficient chiar și pe vreme urâtă. Începeți în centru la Sjøgata și folosiți intervalele scurte spre muzeu. La prânz, transportul public vă duce la biserica Dolstad. O scurtă plimbare pe malul râului Vefsna poate fi întreruptă oricând datorită legăturilor bune de autobuz.",
+            "en": "By bus, Mosjøen can be explored efficiently even in dreary weather. Start downtown at Sjøgata and take advantage of short intervals to the museum. At midday, transit takes you to Dolstad Church. A short stroll along the Vefsna riverside can be cut short anytime thanks to good bus connections before heading towards Marsøra."
+          },
+          "stops": [
+            {
+              "name": "Sjøgata Street",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle 'Sentrum' bietet Unterstand bei Regen.",
+                "hu": "A 'Sentrum' buszmegálló fedett menedéket nyújt esőben.",
+                "ro": "Stația de autobuz 'Sentrum' oferă adăpost în caz de ploaie.",
+                "en": "The 'Sentrum' bus stop provides shelter during rain."
+              }
+            },
+            {
+              "name": "Helgeland Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan per App, um Wartezeiten im Freien zu vermeiden.",
+                "hu": "Ellenőrizze a menetrendet applikáción, hogy ne kelljen kint várakoznia.",
+                "ro": "Verificați programul prin aplicație pentru a evita așteptarea în aer liber.",
+                "en": "Check the schedule via app to avoid waiting outdoors."
+              }
+            },
+            {
+              "name": "Dolstad Church",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Gehminuten vom Kircheneingang entfernt.",
+                "hu": "A megálló mindössze pár perc sétára van a templom bejáratától.",
+                "ro": "Stația se află la doar câteva minute de mers pe jos de intrarea bisericii.",
+                "en": "The stop is just a few minutes' walk from the church entrance."
+              }
+            },
+            {
+              "name": "Vefsna River Promenade",
+              "tip_5lang": {
+                "de": "Entlang der Promenade gibt es mehrere Haltestellen für einen schnellen Rückzug.",
+                "hu": "A sétány mentén több megálló is van a gyors visszavonuláshoz.",
+                "ro": "Există mai multe stații de-a lungul promenadei pentru o retragere rapidă.",
+                "en": "There are several stops along the promenade for a quick retreat."
+              }
+            },
+            {
+              "name": "Marsøra Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf die letzte Rückfahrt, da diese im Regen seltener sein kann.",
+                "hu": "Ügyeljen az utolsó visszajáratra, mert esőben ritkább lehet.",
+                "ro": "Atenție la ultima cursă de întoarcere, poate fi mai rară pe ploaie.",
+                "en": "Watch out for the last return trip as service might be less frequent in rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die 'Entur' oder lokale Verkehrs-App für Echtzeit-Infos.",
+              "Busse sind beheizt und bieten eine trockene Fahrt zwischen den Zielen.",
+              "Halten Sie Ihr Ticket (App oder Karte) bereit, um Verzögerungen zu vermeiden.",
+              "Die Haltestellen im Zentrum sind meist überdacht.",
+              "An Sonntagen ist der Busverkehr deutlich eingeschränkt."
+            ],
+            "hu": [
+              "Töltse le az 'Entur' vagy a helyi közlekedési alkalmazást az élő infókért.",
+              "A buszok fűtöttek és száraz utazást biztosítanak a célpontok között.",
+              "Tartsa készenlétben a jegyét a késedelmek elkerülése érdekében.",
+              "A központi megállók többnyire fedettek.",
+              "Vasárnaponként a buszközlekedés jelentősen korlátozott."
+            ],
+            "ro": [
+              "Descărcați aplicația 'Entur' sau aplicația locală pentru informații în timp real.",
+              "Autobuzele sunt încălzite și oferă o călătorie uscată între obiective.",
+              "Aveți biletul pregătit pentru a evita întârzierile la urcare.",
+              "Stațiile din centru sunt în mare parte acoperite.",
+              "Duminica, transportul cu autobuzul este limitat semnificativ."
+            ],
+            "en": [
+              "Download the 'Entur' or local transit app for real-time information.",
+              "Buses are heated and provide a dry journey between destinations.",
+              "Have your ticket ready (app or card) to avoid delays when boarding.",
+              "Most central bus stops are covered.",
+              "Bus service is significantly limited on Sundays."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Transit in Mosjøen ist die gemütlichste Art, die Stadt zu sehen. Die warmen Busse gleiten durch die verschneite Landschaft. Von der Sjøgata geht es direkt zum warmen Museum. Mittags erreichen Sie bequem die Dolstad Kirche. Der Blick auf den gefrorenen Vefsna aus dem Busfenster ist ein Highlight, bevor Sie den Marsøra-Park besuchen, wenn die Lichter der Stadt zu funkeln beginnen.",
+            "hu": "A téli tömegközlekedés Mosjøenben a legkényelmesebb módja a városnézésnek. A meleg buszok suhannak a havas tájon át. A Sjøgatától egyenesen a fűtött múzeumba juthatunk. Délben kényelmesen elérhető a Dolstad templom. A buszablakból nyíló kilátás a befagyott Vefsnára igazi fénypont, mielőtt a kivilágított Marsøra parkba érnénk.",
+            "ro": "Transportul de iarnă în Mosjøen este cel mai confortabil mod de a vedea orașul. Autobuzele calde alunecă prin peisajul înzăpezit. De la Sjøgata mergeți direct la muzeul încălzit. La prânz ajungeți ușor la biserica Dolstad. Vederea râului înghețat Vefsna de la fereastra autobuzului este un punct forte înainte de vizita în parcul Marsøra.",
+            "en": "Winter transit in Mosjøen is the coziest way to see the city. Warm buses glide through the snowy landscape. From Sjøgata, head straight to the heated museum. At midday, reach Dolstad Church comfortably. The view of the frozen Vefsna from the bus window is a highlight before visiting Marsøra Park as the city lights begin to twinkle."
+          },
+          "stops": [
+            {
+              "name": "Sjøgata Street",
+              "tip_5lang": {
+                "de": "Warten Sie im Inneren eines Cafés, bis der Bus laut App fast da ist.",
+                "hu": "Várjon egy kávézóban, amíg a busz az app szerint majdnem odaér.",
+                "ro": "Așteptați în interiorul unei cafenele până când autobuzul este aproape.",
+                "en": "Wait inside a cafe until the bus is nearly there according to the app."
+              }
+            },
+            {
+              "name": "Helgeland Museum",
+              "tip_5lang": {
+                "de": "Die Busse fahren pünktlich; Schnee verzögert die Fahrt selten.",
+                "hu": "A buszok pontosak; a hó ritkán okoz jelentős késést.",
+                "ro": "Autobuzele sunt punctuale; zăpada rareori întârzie călătoria.",
+                "en": "Buses are punctual; snow rarely causes significant delays."
+              }
+            },
+            {
+              "name": "Dolstad Church",
+              "tip_5lang": {
+                "de": "Der Weg von der Haltestelle zur Kirche wird meist gut geräumt.",
+                "hu": "A megállótól a templomig vezető utat általában jól letakarítják.",
+                "ro": "Drumul de la stație la biserică este de obicei bine curățat de zăpadă.",
+                "en": "The path from the stop to the church is usually well-cleared of snow."
+              }
+            },
+            {
+              "name": "Vefsna River Promenade",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht während der Fahrt; im Winter ist es draußen kalt.",
+                "hu": "Élvezze a kilátást utazás közben; télen kint nagyon hideg van.",
+                "ro": "Bucurați-vă de priveliște în timpul mersului; iarna este foarte frig afară.",
+                "en": "Enjoy the view while riding; it is very cold outside in winter."
+              }
+            },
+            {
+              "name": "Marsøra Park",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg vor Einbruch der völligen Dunkelheit.",
+                "hu": "Tervezze meg a visszautat a teljes sötétség beállta előtt.",
+                "ro": "Planificați drumul de întoarcere înainte de lăsarea întunericului deplin.",
+                "en": "Plan your return trip before total darkness sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Verlassen Sie sich auf die Winterreifen der Busse; sie sind sehr sicher.",
+              "Tragen Sie Reflektoren, damit der Busfahrer Sie an dunklen Haltestellen sieht.",
+              "Die Busse sind im Winter sehr stark geheizt – kleiden Sie sich in Schichten.",
+              "Nutzen Sie die App, um die exakte Position des Busses zu verfolgen.",
+              "Einige Haltestellen außerhalb des Zentrums haben keine Wartehäuschen."
+            ],
+            "hu": [
+              "Bízzon a buszok téli gumijaiban; nagyon biztonságosak.",
+              "Viseljen fényvisszaverőt, hogy a sofőr lássa Önt a sötét megállókban.",
+              "A buszok télen nagyon fel vannak fűtve – öltözzön rétegesen.",
+              "Használja az appot a busz pontos helyzetének nyomon követésére.",
+              "Néhány központon kívüli megállónak nincs váróterme."
+            ],
+            "ro": [
+              "Aveți încredere în anvelopele de iarnă ale autobuzelor; sunt foarte sigure.",
+              "Purtați elemente reflectorizante pentru a fi văzut în stațiile întunecate.",
+              "Autobuzele sunt foarte bine încălzite iarna – îmbrăcați-vă în straturi.",
+              "Folosiți aplicația pentru a urmări poziția exactă a autobuzului.",
+              "Unele stații din afara centrului nu au adăposturi pentru așteptare."
+            ],
+            "en": [
+              "Trust the winter tires of the buses; they are very safe on snow.",
+              "Wear reflectors so the bus driver can see you at dark stops.",
+              "Buses are heavily heated in winter – dress in layers to adjust.",
+              "Use the app to track the exact location of your bus.",
+              "Some stops outside the center do not have waiting shelters."
+            ]
+          }
+        }
       }
     }
   }

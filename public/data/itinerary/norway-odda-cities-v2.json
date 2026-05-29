@@ -313,6 +313,170 @@
           "Wear comfortable shoes as the terrain can be hilly.",
           "Check the opening hours of museums, especially outside the main season."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Folgefonna-Zentrum perfekten Schutz vor dem Regen. Mittags wärmen wir uns in der Odda-Kirche auf, bevor wir das industrielle Erbe der Schmelzhütte unter grauem Himmel erkunden. Nachmittags genießen wir ein langes Mittagessen im Trockenen. Den Tag lassen wir mit einem erfrischenden, regenfesten Spaziergang am Sandvinvatnet-See ausklingen, wo die Wolken tief hängen.",
+            "hu": "Reggel a Folgefonna Központ nyújt menedéket az eső elől. Délben az Odda-templom csendjében melegszünk fel, majd a kohómű ipari emlékeit nézzük meg a borongós időben. Délután egy kiadós ebéddel várjuk ki a zápor végét a központban. A napot esőkabátos sétával zárjuk a Sandvinvatnet-tó partján, ahol a ködös hegyek misztikus látványt nyújtanak.",
+            "ro": "Dimineața, Centrul Parcului Național Folgefonna oferă adăpostul perfect împotriva ploii. La prânz ne încălzim în Biserica Odda, apoi explorăm situl industrial al topitoriei sub cerul gri. După-amiaza ne bucurăm de un prânz prelungit la adăpost. Încheiem ziua cu o plimbare revigorantă pe malul lacului Sandvinvatnet, unde norii joși creează o atmosferă dramatică.",
+            "en": "In the morning, the Folgefonna Centre provides the perfect shelter from the rain. At noon, we warm up in the quiet Odda Church before exploring the industrial smelting plant under moody skies. In the afternoon, we enjoy a long lunch in the dry city center. We end the day with a refreshed walk along Lake Sandvinvatnet, where the mist over the water creates a mystical scene."
+          },
+          "stops": [
+            {
+              "name": "Folgefonna National Park Centre",
+              "tip_5lang": {
+                "de": "Idealer Ort, um den ersten Regenschauer trocken zu verbringen.",
+                "hu": "Tökéletes hely az első zápor átvészelésére fedett helyen.",
+                "ro": "Locul ideal pentru a petrece prima aversă la adăpost.",
+                "en": "Ideal place to spend the first rain shower indoors."
+              }
+            },
+            {
+              "name": "Odda Church",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort für eine kurze Pause.",
+                "hu": "Csendes, száraz hely egy rövid pihenőhöz az esőben.",
+                "ro": "Un loc liniștit și uscat pentru o scurtă pauză de ploaie.",
+                "en": "A quiet, dry place for a short break during the rain."
+              }
+            },
+            {
+              "name": "Odda Smelting Plant",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Metallflächen, sie können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a fémfelületek nedvesen csúszósak lehetnek.",
+                "ro": "Atenție pe suprafețele metalice, pot fi alunecoase când sunt ude.",
+                "en": "Careful on metal surfaces, they can be slippery when wet."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für ein warmes norwegisches Gericht.",
+                "hu": "Használja ki az időt egy meleg norvég étel elfogyasztására.",
+                "ro": "Profită de timp pentru a savura un fel de mâncare norvegian cald.",
+                "en": "Use the time to enjoy a warm Norwegian meal indoors."
+              }
+            },
+            {
+              "name": "Walk along Lake Sandvinvatnet",
+              "tip_5lang": {
+                "de": "Gute Regenjacke und wasserfeste Schuhe sind hier Pflicht.",
+                "hu": "A jó esőkabát és a vízálló cipő itt kötelező viselet.",
+                "ro": "O jachetă de ploaie bună și încălțăminte impermeabilă sunt obligatorii.",
+                "en": "A good raincoat and waterproof shoes are mandatory here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "In Odda regnet es oft, tragen Sie immer Schichten.",
+              "Die Cafés im Zentrum haben gemütliche Innenräume.",
+              "Achten Sie auf Pfützen auf den Gehwegen.",
+              "Die Wasserfälle in der Umgebung sind bei Regen imposanter."
+            ],
+            "hu": [
+              "Oddában gyakori az eső, mindig rétegesen öltözzön.",
+              "A városközpont kávézói barátságos belső terekkel várják.",
+              "Ügyeljen a tóparti ösvény tócsáira.",
+              "A környékbeli vízesések esőben még látványosabbak."
+            ],
+            "ro": [
+              "În Odda plouă des, îmbrăcați-vă mereu în straturi.",
+              "Cafenelele din centru au interioare foarte primitoare.",
+              "Atenție la bălțile de pe potecile de lângă lac.",
+              "Cascadele din zonă sunt mai impunătoare pe timp de ploaie."
+            ],
+            "en": [
+              "Rain is common in Odda, always dress in layers.",
+              "The city center cafes offer cozy indoor seating.",
+              "Watch out for puddles on the lakeside paths.",
+              "Nearby waterfalls are even more impressive in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt spät im Folgefonna-Zentrum. Mittags besuchen wir die beheizte Kirche, während draußen der Schnee leise auf Odda fällt. Den Nachmittag verbringen wir bei den historischen Industrieanlagen, die im Winterlicht besonders rau wirken. Nach einem wärmenden Mittagessen machen wir einen kurzen Spaziergang am gefrorenen Sandvinvatnet, bevor es gegen 15:30 Uhr dunkel wird.",
+            "hu": "A téli reggel későn indul a Folgefonna Központban. Délben a fűtött templomba látogatunk, miközben odakint halkan hull a hó Oddára. A délutánt a történelmi kohóműnél töltjük, amely a téli fényben különösen nyers hatást kelt. Egy melengető ebéd után rövid sétát teszünk a befagyott Sandvinvatnet-tónál, mielőtt fél négy körül teljesen besötétedik.",
+            "ro": "Dimineața de iarnă începe târziu la Centrul Folgefonna. La prânz vizităm biserica încălzită, în timp ce afară zăpada cade încet peste Odda. Petrecem după-amiaza la vechea topitorie, care arată brutal în lumina iernii. După un prânz cald, facem o scurtă plimbare pe lângă lacul înghețat Sandvinvatnet înainte ca întunericul să se lase pe la 15:30.",
+            "en": "The winter morning starts late at the Folgefonna Centre. At noon, we visit the heated church while snow falls softly over Odda outside. We spend the afternoon at the historic smelting plant, which looks particularly raw in the winter light. After a warming lunch, we take a short walk by the frozen Lake Sandvinvatnet before darkness falls around 3:30 PM."
+          },
+          "stops": [
+            {
+              "name": "Folgefonna National Park Centre",
+              "tip_5lang": {
+                "de": "Perfekt, um sich vor dem Spaziergang aufzuwärmen.",
+                "hu": "Tökéletes hely a bemelegedéshez a séta előtt.",
+                "ro": "Perfect pentru a vă încălzi înainte de plimbare.",
+                "en": "Perfect place to warm up before starting your walk."
+              }
+            },
+            {
+              "name": "Odda Church",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und die Wärme des Innenraums.",
+                "hu": "Élvezze a belső tér nyugalmát és melegét.",
+                "ro": "Bucurați-vă de liniștea și căldura interiorului.",
+                "en": "Enjoy the silence and the warmth of the interior."
+              }
+            },
+            {
+              "name": "Odda Smelting Plant",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis auf den alten Industrieflächen.",
+                "hu": "Vigyázat, jegesedés várható a régi ipari területeken.",
+                "ro": "Atenție la polei pe vechile platforme industriale.",
+                "en": "Watch out for black ice on the old industrial surfaces."
+              }
+            },
+            {
+              "name": "Lunch in the city center",
+              "tip_5lang": {
+                "de": "Bestellen Sie eine heiße Schokolade gegen die Kälte.",
+                "hu": "Rendeljen egy forró csokoládét a hideg ellen.",
+                "ro": "Comandați o ciocolată caldă împotriva frigului.",
+                "en": "Order a hot chocolate to fight the winter cold."
+              }
+            },
+            {
+              "name": "Walk along Lake Sandvinvatnet",
+              "tip_5lang": {
+                "de": "Der Weg kann verschneit sein; feste Stiefel sind nötig.",
+                "hu": "Az út havas lehet, stabil bakancs szükséges.",
+                "ro": "Poteca poate fi înzăpezită; aveți nevoie de bocanci solizi.",
+                "en": "The path may be snowy; sturdy boots are required."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tageslicht ist im Winter knapp, nutzen Sie die Stunden bis 15 Uhr.",
+              "Tragen Sie Thermounterwäsche und Wollsocken.",
+              "Einige Wege am See könnten ungeräumt sein.",
+              "Genießen Sie die blaue Stunde über dem Fjord."
+            ],
+            "hu": [
+              "Télen kevés a nappali fény, használja ki az időt délután 3-ig.",
+              "Viseljen termikus fehérneműt és gyapjú zoknit.",
+              "A tóparti utak egy része letakarítatlan lehet.",
+              "Élvezze a kék órát a fjord felett."
+            ],
+            "ro": [
+              "Lumina zilei este scurtă iarna, profitați de orele de până la 15:00.",
+              "Purtați lenjerie termică și șosete de lână.",
+              "Unele poteci de lângă lac pot fi necurățate.",
+              "Bucurați-vă de ora albastră deasupra fiordului."
+            ],
+            "en": [
+              "Daylight is scarce in winter, use the hours until 3 PM.",
+              "Wear thermal underwear and wool socks.",
+              "Some lakeside paths might be unplowed.",
+              "Enjoy the blue hour over the fjord."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -620,6 +784,170 @@
           "A bicycle with gears is recommended.",
           "Be aware of traffic on the main roads."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen auf dem Rad beginnt an der Schmelzhütte, wo das Metall im Regen glänzt. Mittags radeln wir am Sandvinvatnet entlang, wobei wir auf die Gischt des Wassers achten. Ein langes Mittagessen bietet die nötige Trockenpause. Nachmittags besuchen wir das Folgefonna-Zentrum und fahren schließlich zum Wasserkraftmuseum in Tyssedal, wobei die Tunnel Schutz vor Wind bieten.",
+            "hu": "A reggeli biciklizés a kohóműnél indul, ahol a fém csillog az esőben. Délben a Sandvinvatnet mellett tekerünk, figyelve a felverődő vízre. Egy hosszú ebéd biztosítja a szükséges száraz szünetet. Délután a Folgefonna Központot keressük fel, majd végül a tyssedali vízi erőmű múzeumához hajtunk, ahol az alagutak védenek a széltől.",
+            "ro": "Dimineața pe bicicletă începe la topitorie, unde metalul strălucește în ploaie. La prânz pedalăm pe lângă Sandvinvatnet, atenți la apa împroșcată. Un prânz lung oferă pauza necesară pentru uscare. După-amiaza vizităm Centrul Folgefonna și pedalăm spre Muzeul Hidroelectric din Tyssedal, profitând de adăpostul tunelurilor.",
+            "en": "The morning bike ride starts at the smelting plant, where the metal glistens in the rain. At noon, we cycle along Sandvinvatnet, being mindful of the water spray. A long lunch provides a much-needed dry break. In the afternoon, we visit the Folgefonna Centre and finally ride to the Hydropower Museum in Tyssedal, where tunnels offer some wind protection."
+          },
+          "stops": [
+            {
+              "name": "Odda Smelting Plant",
+              "tip_5lang": {
+                "de": "Achten Sie beim Radfahren auf rutschige Schienen.",
+                "hu": "Biciklizés közben ügyeljen a csúszós sínekre.",
+                "ro": "Atenție la șinele alunecoase în timp ce pedalați.",
+                "en": "Watch out for slippery rails while cycling."
+              }
+            },
+            {
+              "name": "Ride along Lake Sandvinvatnet",
+              "tip_5lang": {
+                "de": "Schutzbleche am Fahrrad sind bei diesem Wetter wichtig.",
+                "hu": "Sárvédő használata ezen az időben rendkívül fontos.",
+                "ro": "Apărătorile de noroi sunt esențiale pe această vreme.",
+                "en": "Mudguards on your bike are essential in this weather."
+              }
+            },
+            {
+              "name": "Lunch with a view",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem überdachten Ort.",
+                "hu": "Parkolja le kerékpárját fedett helyen.",
+                "ro": "Parcați bicicleta într-un loc acoperit.",
+                "en": "Park your bike in a covered spot during lunch."
+              }
+            },
+            {
+              "name": "Folgefonna National Park Centre",
+              "tip_5lang": {
+                "de": "Hier können Sie Ihre Regenbekleidung kurz lüften.",
+                "hu": "Itt röviden kiszellőztetheti esőruházatát.",
+                "ro": "Aici vă puteți aerisi puțin hainele de ploaie.",
+                "en": "You can briefly air out your rain gear here."
+              }
+            },
+            {
+              "name": "Norwegian Museum of Hydropower and Industry",
+              "tip_5lang": {
+                "de": "Der Innenhof bietet Schutz beim Abstellen der Räder.",
+                "hu": "A belső udvar védelmet nyújt a biciklik tárolásához.",
+                "ro": "Curtea interioară oferă adăpost pentru biciclete.",
+                "en": "The inner courtyard offers shelter for parking bikes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bremstests auf nassem Asphalt sind wichtig.",
+              "Vermeiden Sie schnelle Kurven auf nassen Blättern.",
+              "Wasserdichte Packtaschen schützen Ihre Wertsachen.",
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "Fontos a fékpróba a vizes aszfalton.",
+              "Kerülje a gyors kanyarodást a nedves leveleken.",
+              "Vízálló táskák védik az értékeit.",
+              "Viseljen neon esőkabátot a jobb láthatóságért."
+            ],
+            "ro": [
+              "Testarea frânelor pe asfalt ud este importantă.",
+              "Evitați virajele rapide pe frunze ude.",
+              "Genzile impermeabile vă protejează bunurile.",
+              "Purtați o jachetă de ploaie neon pentru vizibilitate."
+            ],
+            "en": [
+              "Testing brakes on wet asphalt is important.",
+              "Avoid fast turns on wet leaves.",
+              "Waterproof panniers will protect your valuables.",
+              "Wear a neon raincoat for better visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Odda erfordert Mut und Ausrüstung. Wir starten morgens an der Schmelzhütte auf geräumten Wegen. Mittags führt die Fahrt am verschneiten Sandvinvatnet entlang, wo die Luft eiskalt ist. Ein heißes Mittagessen im Zentrum ist überlebenswichtig. Nachmittags besuchen wir das Folgefonna-Zentrum, bevor wir die beleuchtete Straße zum Wasserkraftmuseum in Tyssedal nehmen.",
+            "hu": "A téli kerékpározás Oddában bátorságot és felszerelést igényel. Reggel a kohóműnél kezdünk a letakarított utakon. Délben a havas Sandvinvatnet mellett haladunk, ahol a levegő jéghideg. Egy forró ebéd a központban létfontosságú. Délután a Folgefonna Központot nézzük meg, majd a kivilágított úton tekerünk a tyssedali múzeumhoz.",
+            "ro": "Ciclismul de iarnă în Odda necesită curaj și echipament. Începem dimineața la topitorie pe drumuri curățate. La prânz, traseul trece pe lângă Sandvinvatnet, unde aerul este înghețat. Un prânz fierbinte în centru este vital. După-amiaza vizităm Centrul Folgefonna înainte de a pedala pe drumul iluminat spre muzeul din Tyssedal.",
+            "en": "Winter cycling in Odda requires courage and proper gear. We start the morning at the smelting plant on cleared paths. At noon, the ride takes us along snowy Sandvinvatnet, where the air is freezing. A hot lunch in the center is essential. In the afternoon, we visit the Folgefonna Centre before taking the illuminated road to the Hydropower Museum in Tyssedal."
+          },
+          "stops": [
+            {
+              "name": "Odda Smelting Plant",
+              "tip_5lang": {
+                "de": "Spikereifen sind auf diesen Flächen sehr zu empfehlen.",
+                "hu": "Szöges gumiabroncs használata erősen ajánlott.",
+                "ro": "Anvelopele cu ținte sunt foarte recomandate aici.",
+                "en": "Studded tires are highly recommended on these surfaces."
+              }
+            },
+            {
+              "name": "Ride along Lake Sandvinvatnet",
+              "tip_5lang": {
+                "de": "Vorsicht vor Windböen vom See her.",
+                "hu": "Vigyázat a tóról érkező széllökésekkel.",
+                "ro": "Atenție la rafalele de vânt care vin de pe lac.",
+                "en": "Watch out for wind gusts coming from the lake."
+              }
+            },
+            {
+              "name": "Lunch with a view",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz nahe der Heizung.",
+                "hu": "Keressen helyet a fűtőtest közelében.",
+                "ro": "Căutați un loc lângă calorifer.",
+                "en": "Find a seat near the heater inside."
+              }
+            },
+            {
+              "name": "Folgefonna National Park Centre",
+              "tip_5lang": {
+                "de": "Tauen Sie hier Ihre Finger und Zehen auf.",
+                "hu": "Itt felmelegítheti átfagyott ujjait.",
+                "ro": "Dezghețați-vă degetele aici.",
+                "en": "Defrost your fingers and toes here."
+              }
+            },
+            {
+              "name": "Norwegian Museum of Hydropower and Industry",
+              "tip_5lang": {
+                "de": "Die Abfahrt zurück nach Odda kann sehr kalt sein.",
+                "hu": "A visszaút Oddába nagyon hideg lehet.",
+                "ro": "Coborârea înapoi spre Odda poate fi foarte rece.",
+                "en": "The ride back down to Odda can be very cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine Sturmhaube unter dem Helm.",
+              "Halten Sie die Kette gut gefettet gegen Streusalz.",
+              "Licht ist ab 15 Uhr zwingend erforderlich.",
+              "Achten Sie auf vereiste Stellen im Schatten der Berge."
+            ],
+            "hu": [
+              "Viseljen maszkot a sisak alatt.",
+              "Tartsa jól olajozottan a láncot az útszóró só ellen.",
+              "Délután 3-tól kötelező a világítás.",
+              "Ügyeljen a jeges foltokra a hegyek árnyékában."
+            ],
+            "ro": [
+              "Purtați o cagulă sub cască.",
+              "Păstrați lanțul bine uns împotriva sării de pe drum.",
+              "Luminile sunt obligatorii după ora 15:00.",
+              "Atenție la porțiunile înghețate de la umbra munților."
+            ],
+            "en": [
+              "Wear a balaclava under your helmet.",
+              "Keep the chain well-greased against road salt.",
+              "Lights are mandatory after 3 PM.",
+              "Watch out for icy patches in the mountain shadows."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -950,6 +1278,188 @@
           "The roads are narrow and winding, drive carefully.",
           "Check the weather before you leave, especially if you are going into the mountains."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir zum Låtefossen, der bei Regen gigantische Wassermassen führt. Mittags blicken wir auf den Buerbreen-Gletscher, auch wenn die Wolken tief hängen. Das Mittagessen in Odda ist eine trockene Pause, bevor wir die Schmelzhütte und die Kirche besuchen. Den Tag beenden wir im Wasserkraftmuseum in Tyssedal, wobei das Auto uns zwischen den Stationen trocken hält.",
+            "hu": "Reggel a Låtefossen-vízeséshez autózunk, amely esőben gigantikus víztömeget mozgat meg. Délben a Buerbreen-gleccserre tekintünk, még ha a felhők alacsonyan is szállnak. Az oddai ebéd egy száraz pihenő, mielőtt megnézzük a kohóművet és a templomot. A napot a tyssedali múzeumban zárjuk; az autó szárazon tart minket az állomások között.",
+            "ro": "Dimineața conducem spre cascada Låtefossen, care are un debit gigantic pe timp de ploaie. La prânz privim spre ghețarul Buerbreen, chiar dacă norii sunt joși. Prânzul în Odda este o pauză uscată înainte de a vizita topitoria și biserica. Încheiem ziua la muzeul din Tyssedal, mașina menținându-ne uscați între opriri.",
+            "en": "In the morning, we drive to Låtefossen, which carries giant masses of water during rain. At noon, we view the Buerbreen glacier, even with low-hanging clouds. Lunch in Odda is a dry break before visiting the smelting plant and the church. We end the day at the Hydropower Museum in Tyssedal, with the car keeping us dry between stops."
+          },
+          "stops": [
+            {
+              "name": "Låtefossen Waterfall",
+              "tip_5lang": {
+                "de": "Die Gischt vermischt sich mit dem Regen; Fenster geschlossen halten.",
+                "hu": "A permet keveredik az esővel; tartsa zárva az ablakokat.",
+                "ro": "Pulverizarea se amestecă cu ploaia; țineți geamurile închise.",
+                "en": "Spray mixes with rain here; keep your car windows closed."
+              }
+            },
+            {
+              "name": "Buerbreen Glacier View",
+              "tip_5lang": {
+                "de": "Die Straße zum Parkplatz kann schlammig sein.",
+                "hu": "A parkolóhoz vezető út saras lehet.",
+                "ro": "Drumul spre parcare poate fi noroios.",
+                "en": "The road to the parking lot can be muddy."
+              }
+            },
+            {
+              "name": "Lunch in Odda",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus im Zentrum, um trocken auszusteigen.",
+                "hu": "Használja a központi parkolóházat a száraz kiszálláshoz.",
+                "ro": "Folosiți parcarea etajată din centru pentru a coborî la uscat.",
+                "en": "Use the multi-story car park in the center to stay dry."
+              }
+            },
+            {
+              "name": "Odda Smelting Plant (Odda Cluster)",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang des Industriegeländes.",
+                "hu": "Parkoljon az ipari terület bejáratához közel.",
+                "ro": "Parcați aproape de intrarea în zona industrială.",
+                "en": "Park close to the entrance of the industrial site."
+              }
+            },
+            {
+              "name": "Odda Church (Odda Cluster)",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum Kircheneingang.",
+                "hu": "Rövid séta a parkolótól a templom bejáratáig.",
+                "ro": "Scurtă plimbare de la parcare la intrarea în biserică.",
+                "en": "Short walk from the parking lot to the church entrance."
+              }
+            },
+            {
+              "name": "Norwegian Museum of Hydropower and Industry",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist direkt vor dem großen Museumsgebäude.",
+                "hu": "A parkoló közvetlenül a nagy múzeumépület előtt található.",
+                "ro": "Parcarea este chiar în fața clădirii mari a muzeului.",
+                "en": "The parking lot is right in front of the main museum building."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Straße 13.",
+              "Die Sicht kann in den Tunneln bei Regen schlecht sein.",
+              "Hinterlassen Sie keine nassen Jacken im Auto (Beschlaggefahr).",
+              "Låtefossen sprüht bei Regen extrem stark auf die Straße."
+            ],
+            "hu": [
+              "Ügyeljen a vízenfutásra (aquaplaning) a 13-as úton.",
+              "Az alagutakban esőben rosszabb lehet a látótávolság.",
+              "Ne hagyjon vizes kabátot az autóban (párásodás veszélye).",
+              "A Låtefossen esőben extrém módon ráspriccel az útra."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul 13.",
+              "Vizibilitatea în tuneluri poate fi slabă pe ploaie.",
+              "Nu lăsați jachete ude în mașină (risc de aburire).",
+              "Låtefossen pulverizează extrem de tare pe drum când plouă."
+            ],
+            "en": [
+              "Watch out for aquaplaning on Route 13.",
+              "Visibility in tunnels can be poor during heavy rain.",
+              "Don't leave wet jackets in the car (risk of fogging windows).",
+              "Låtefossen sprays extremely hard onto the road in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Fahrt beginnt am vereisten Låtefossen. Mittags blicken wir auf den schneebedeckten Buerbreen, wobei wir auf die Straßenbedingungen achten. Ein warmes Mittagessen in Odda stärkt uns für den Besuch der Schmelzhütte und der beheizten Kirche. Am späten Nachmittag erreichen wir Tyssedal, wo das beleuchtete Wasserkraftmuseum wie ein Palast im Dunkeln wirkt.",
+            "hu": "A téli autózás a jeges Låtefossen-nél indul. Délben a hófödte Buerbreen-re tekintünk, ügyelve az útviszonyokra. Egy meleg oddai ebéd megerősít minket a kohómű és a fűtött templom meglátogatásához. Késő délután érünk Tyssedalba, ahol a kivilágított vízi erőmű múzeuma úgy fest a sötétben, mint egy palota.",
+            "ro": "Călătoria de iarnă începe la cascada înghețată Låtefossen. La prânz privim ghețarul înzăpezit Buerbreen, fiind atenți la starea drumului. Un prânz cald în Odda ne dă putere pentru a vizita topitoria și biserica încălzită. După-amiaza târziu ajungem la Tyssedal, unde muzeul iluminat arată ca un palat în întuneric.",
+            "en": "The winter drive starts at the icy Låtefossen. At noon, we view the snow-covered Buerbreen, paying close attention to road conditions. A warm lunch in Odda prepares us for visiting the smelting plant and the heated church. In the late afternoon, we reach Tyssedal, where the illuminated Hydropower Museum looks like a palace in the dark."
+          },
+          "stops": [
+            {
+              "name": "Låtefossen Waterfall",
+              "tip_5lang": {
+                "de": "Der Bereich am Straßenrand kann sehr glatt sein.",
+                "hu": "Az út menti terület nagyon csúszós lehet.",
+                "ro": "Zona de pe marginea drumului poate fi foarte alunecoasă.",
+                "en": "The area by the roadside can be very slippery."
+              }
+            },
+            {
+              "name": "Buerbreen Glacier View",
+              "tip_5lang": {
+                "de": "Winterreifen mit gutem Profil sind für diese Sackgasse nötig.",
+                "hu": "Jó profilú téli gumi szükséges ehhez a zsákutcához.",
+                "ro": "Anvelopele de iarnă cu profil bun sunt necesare pentru acest drum.",
+                "en": "Winter tires with good tread are needed for this dead-end road."
+              }
+            },
+            {
+              "name": "Lunch in Odda",
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Restaurants, um Kälte zu vermeiden.",
+                "hu": "Parkoljon az étterem közelében a hideg elkerülése végett.",
+                "ro": "Parcați aproape de restaurant pentru a evita frigul.",
+                "en": "Park near the restaurant to minimize time in the cold."
+              }
+            },
+            {
+              "name": "Odda Smelting Plant (Odda Cluster)",
+              "tip_5lang": {
+                "de": "Die Wege zwischen den Gebäuden können vereist sein.",
+                "hu": "Az épületek közötti utak jegesek lehetnek.",
+                "ro": "Potecile dintre clădiri pot fi înghețate.",
+                "en": "The paths between buildings can be icy."
+              }
+            },
+            {
+              "name": "Odda Church (Odda Cluster)",
+              "tip_5lang": {
+                "de": "Der Kirchplatz wird meist geräumt, aber Vorsicht.",
+                "hu": "A templomteret általában letakarítják, de legyen óvatos.",
+                "ro": "Piața bisericii este de obicei curățată, dar fiți atenți.",
+                "en": "The church square is usually cleared, but be careful."
+              }
+            },
+            {
+              "name": "Norwegian Museum of Hydropower and Industry",
+              "tip_5lang": {
+                "de": "Die Brücke nach Tyssedal kann im Winter windig und glatt sein.",
+                "hu": "A Tyssedalba vezető híd télen szeles és csúszós lehet.",
+                "ro": "Podul spre Tyssedal poate fi vântos și alunecos iarna.",
+                "en": "The bridge to Tyssedal can be windy and slippery in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind im Mai/Juni oft noch ratsam.",
+              "Führen Sie immer eine Eiskratzer und Schneebesen mit.",
+              "Achten Sie auf Elche, die im Winter tiefer in die Täler kommen.",
+              "Die Straße 13 kann bei starkem Schneefall gesperrt sein."
+            ],
+            "hu": [
+              "A téli gumi májusban is tanácsos lehet még.",
+              "Mindig legyen az autóban jégkaparó és hóseprű.",
+              "Ügyeljen a jávorszarvasokra, amik télen lehúzódnak a völgyekbe.",
+              "A 13-as utat erős havazáskor lezárhatják."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt adesea recomandate până în mai.",
+              "Aveți mereu la îndemână o racletă și o perie de zăpadă.",
+              "Atenție la elani, care coboară în văi iarna.",
+              "Drumul 13 poate fi închis în caz de ninsori abundente."
+            ],
+            "en": [
+              "Winter tires are often advisable even in May/June.",
+              "Always carry an ice scraper and a snow brush.",
+              "Watch out for moose, which come lower into the valleys in winter.",
+              "Route 13 can be closed during heavy snowfall."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1257,6 +1767,170 @@
           "The trip to Buerbreen is difficult with public transport and is not included in this plan.",
           "Be on time at the bus stop, especially when returning from remote locations."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens nehmen wir den Bus zum Låtefossen und genießen die Fahrt im Trockenen. Mittags kehren wir für ein gemütliches Mittagessen ins Zentrum zurück. Nachmittags besuchen wir die Schmelzhütte und die Kirche, bevor wir mit dem Bus nach Tyssedal zum Wasserkraftmuseum fahren. Die Buswartehäuschen bieten Schutz vor dem norwegischen Regen.",
+            "hu": "Reggel busszal megyünk a Låtefossen-hez, élvezve a száraz utazást. Délben visszatérünk a központba egy barátságos ebédre. Délután megnézzük a kohóművet és a templomot, majd busszal utazunk Tyssedalba a vízi erőmű múzeumához. A buszmegállók menedéket nyújtanak a norvég eső elől.",
+            "ro": "Dimineața luăm autobuzul spre Låtefossen, bucurându-ne de drum la adăpost. La prânz ne întoarcem în centru pentru un prânz confortabil. După-amiaza vizităm topitoria și biserica, apoi mergem cu autobuzul la Tyssedal pentru muzeu. Stațiile de autobuz oferă protecție împotriva ploii norvegiene.",
+            "en": "In the morning, we take the bus to Låtefossen and enjoy the dry ride. At noon, we return to the center for a cozy lunch. In the afternoon, we visit the smelting plant and the church before taking the bus to Tyssedal for the Hydropower Museum. The bus shelters provide protection from the Norwegian rain."
+          },
+          "stops": [
+            {
+              "name": "Bus to Låtefossen",
+              "tip_5lang": {
+                "de": "Das Wartehäuschen am Wasserfall ist klein, bleiben Sie im Bus bis zur Haltestelle.",
+                "hu": "A vízesésnél lévő váró kicsi, maradjon a buszon a megállóig.",
+                "ro": "Adăpostul de la cascadă este mic, rămâneți în autobuz până la stație.",
+                "en": "The shelter at the waterfall is small; stay on the bus until the stop."
+              }
+            },
+            {
+              "name": "Bus to Odda Centre and Lunch",
+              "tip_5lang": {
+                "de": "Die Busse fahren pünktlich; nutzen Sie die Skyss-App.",
+                "hu": "A buszok pontosak; használja a Skyss alkalmazást.",
+                "ro": "Autobuzele sunt punctuale; folosiți aplicația Skyss.",
+                "en": "Buses are punctual; use the Skyss app for updates."
+              }
+            },
+            {
+              "name": "Odda Smelting Plant (Odda Cluster)",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Meter vom Eingang entfernt.",
+                "hu": "A megálló mindössze néhány méterre van a bejárattól.",
+                "ro": "Stația este la doar câțiva metri de intrare.",
+                "en": "The bus stop is just a few meters from the entrance."
+              }
+            },
+            {
+              "name": "Odda Church (Odda Cluster)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um zwischen den Clustern trocken zu bleiben.",
+                "hu": "Használja a buszt az állomások közötti száraz közlekedéshez.",
+                "ro": "Folosiți autobuzul pentru a rămâne uscați între obiective.",
+                "en": "Use the bus to stay dry while moving between clusters."
+              }
+            },
+            {
+              "name": "Bus to the Hydropower Museum",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt an der Hauptstraße in Tyssedal.",
+                "hu": "A busz közvetlenül Tyssedal főútján áll meg.",
+                "ro": "Autobuzul oprește chiar pe drumul principal din Tyssedal.",
+                "en": "The bus stops right on the main road in Tyssedal."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Tickets vorab in der App, um Zeit zu sparen.",
+              "Die Busse sind gut beheizt und trocken.",
+              "Informieren Sie sich über die Rückfahrtzeiten am Abend.",
+              "Regenschirme sind bei Wind in Odda oft nutzlos; nutzen Sie Kapuzen."
+            ],
+            "hu": [
+              "Vegyen jegyet előre az alkalmazásban időmegtakarítás céljából.",
+              "A buszok jól fűtöttek és szárazak.",
+              "Tájékozódjon az esti visszaindulási időpontokról.",
+              "Az esernyő Oddában a szél miatt gyakran haszontalan; használjon kapucnit."
+            ],
+            "ro": [
+              "Cumpărați bilete în avans din aplicație pentru a economisi timp.",
+              "Autobuzele sunt bine încălzite și uscate.",
+              "Informați-vă despre orele de întoarcere seara.",
+              "Umbrelele sunt adesea inutile în Odda din cauza vântului; folosiți glugi."
+            ],
+            "en": [
+              "Buy tickets in advance via the app to save time.",
+              "The buses are well-heated and dry inside.",
+              "Check the return schedules for the evening carefully.",
+              "Umbrellas are often useless in Odda wind; use hoods instead."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens bringt uns der Bus durch die verschneite Landschaft zum Låtefossen. Mittags wärmen wir uns bei einem Mittagessen in Odda auf, nachdem wir aus dem warmen Bus gestiegen sind. Den Nachmittag verbringen wir bei der Schmelzhütte und der Kirche, bevor wir den späten Bus zum Wasserkraftmuseum nehmen, wo die Lichter von Tyssedal funkeln.",
+            "hu": "Reggel a busz a havas tájon át visz minket a Låtefossen-hez. Délben egy oddai ebédnél melegszünk fel, miután kiszálltunk a fűtött buszból. A délutánt a kohóműnél és a templomnál töltjük, majd az esti busszal utazunk a vízi erőmű múzeumához, ahol Tyssedal fényei csillognak.",
+            "ro": "Dimineața autobuzul ne duce prin peisajul înzăpezit spre Låtefossen. La prânz ne încălzim la un prânz în Odda după ce coborâm din autobuzul cald. Petrecem după-amiaza la topitorie și biserică, apoi luăm autobuzul de seară spre muzeu, unde luminile din Tyssedal sclipesc.",
+            "en": "In the morning, the bus takes us through the snowy landscape to Låtefossen. At noon, we warm up with lunch in Odda after stepping off the heated bus. We spend the afternoon at the smelting plant and the church before taking the evening bus to the Hydropower Museum, where the lights of Tyssedal twinkle."
+          },
+          "stops": [
+            {
+              "name": "Bus to Låtefossen",
+              "tip_5lang": {
+                "de": "Der Busplan ist im Winter reduziert; prüfen Sie die Zeiten genau.",
+                "hu": "Télen ritkább a buszmenetrend; ellenőrizze pontosan az időpontokat.",
+                "ro": "Programul de iarnă este redus; verificați orele cu atenție.",
+                "en": "The bus schedule is reduced in winter; check times carefully."
+              }
+            },
+            {
+              "name": "Bus to Odda Centre and Lunch",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Fjord aus dem warmen Bus.",
+                "hu": "Élvezze a fjordra nyíló kilátást a meleg buszból.",
+                "ro": "Bucurați-vă de vederea spre fiord din autobuzul cald.",
+                "en": "Enjoy the view of the fjord from the warm bus."
+              }
+            },
+            {
+              "name": "Odda Smelting Plant (Odda Cluster)",
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf Eis an der Haltestelle.",
+                "hu": "Kiszálláskor ügyeljen a jégre a megállóban.",
+                "ro": "Atenție la gheața din stație la coborâre.",
+                "en": "Watch out for ice at the bus stop when stepping off."
+              }
+            },
+            {
+              "name": "Odda Church (Odda Cluster)",
+              "tip_5lang": {
+                "de": "Die Wartezeiten im Freien sollten kurz gehalten werden.",
+                "hu": "A szabadban való várakozást tartsa a lehető legrövidebben.",
+                "ro": "Timpii de așteptare afară trebuie menținuți scurți.",
+                "en": "Keep outdoor waiting times to a minimum."
+              }
+            },
+            {
+              "name": "Bus to the Hydropower Museum",
+              "tip_5lang": {
+                "de": "Der Fußweg von der Haltestelle zum Museum kann glatt sein.",
+                "hu": "A megállótól a múzeumig tartó gyalogút csúszós lehet.",
+                "ro": "Drumul de la stație la muzeu poate fi alunecos.",
+                "en": "The walk from the bus stop to the museum can be slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne gelten oft von Oktober bis April.",
+              "Busse können bei extremem Schneefall Verspätung haben.",
+              "Tragen Sie reflektierende Kleidung an den Haltestellen.",
+              "Die Skyss-App zeigt Echtzeitdaten an."
+            ],
+            "hu": [
+              "A téli menetrend gyakran októbertől áprilisig érvényes.",
+              "Erős havazáskor a buszok késhetnek.",
+              "Viseljen fényvisszaverőt a megállókban várakozva.",
+              "A Skyss alkalmazás valós idejű adatokat mutat."
+            ],
+            "ro": [
+              "Orarele de iarnă sunt valabile din octombrie până în aprilie.",
+              "Autobuzele pot avea întârzieri în caz de ninsori extreme.",
+              "Purtați elemente reflectorizante în stații.",
+              "Aplicația Skyss arată date în timp real."
+            ],
+            "en": [
+              "Winter schedules often run from October to April.",
+              "Buses may be delayed during extreme snowfall.",
+              "Wear reflectors while waiting at bus stops.",
+              "The Skyss app provides real-time tracking."
+            ]
+          }
+        }
       }
     }
   }

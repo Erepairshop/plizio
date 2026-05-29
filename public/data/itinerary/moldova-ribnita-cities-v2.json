@@ -386,6 +386,214 @@
           "Be aware of your surroundings, especially in busy areas.",
           "Most sights are within walking distance, but plan for breaks."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen am Brunnenplatz, wo die Cafés Schutz bieten. Am Mittag finden Sie im Heimatmuseum und in der Kathedrale trockene Zuflucht vor den Schauern. Am Nachmittag führt der Weg über die windige Brücke, bevor Sie den Komsomol-Park im Nebel erleben. Der Abend am jüdischen Friedhof wirkt bei Regen besonders melancholisch und friedlich.",
+            "hu": "Kezdje az esős reggelt a szökőkút térnél, a közeli kávézók ernyői alatt. Délben a helytörténeti múzeum és a katedrális nyújt tökéletes menedéket a zápor elől. Délután a Dnyeszter-híd szeles lehet, de a ködös folyó látványa különleges. Az estét a zsidó temető néma csendjében zárjuk, ahol az eső kopogása teszi méltóságteljessé a látogatást.",
+            "ro": "Începeți dimineața ploioasă în Piața Fântânilor, sub umbrelele cafenelelor din apropiere. La prânz, muzeul de istorie locală și catedrala oferă refugiul perfect împotriva averselor. După-amiaza, podul peste Nistru poate fi vântos, dar priveliștea râului în ceață este deosebită. Încheiați seara în liniștea cimitirului evreiesc, unde ploaia adaugă o notă de melancolie.",
+            "en": "Start your rainy morning at Fountain Square, seeking cover under nearby cafe awnings. At noon, the local lore museum and the cathedral provide the perfect sanctuary from the rain. In the afternoon, the Dniester Bridge might be windy, but the foggy river view is unique. End the evening in the silent Jewish cemetery, where the patter of rain adds a dignified atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Fountain Square",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Vordächer der Cafés am Platz, um trocken zu bleiben.",
+                "hu": "Használja a tér melletti kávézók előtetőit az eső elleni védekezéshez.",
+                "ro": "Folosiți copertinele cafenelelor din piață pentru a rămâne uscați.",
+                "en": "Use the awnings of the cafes around the square to stay dry."
+              }
+            },
+            {
+              "name": "Monument to the Defenders of the Fatherland",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen auf den gepflasterten Wegen rund um das Denkmal.",
+                "hu": "Vigyázzon a tócsákra az emlékmű körüli kövezett utakon.",
+                "ro": "Atenție la bălțile de pe aleile pavate din jurul monumentului.",
+                "en": "Watch out for puddles on the paved paths around the monument."
+              }
+            },
+            {
+              "name": "Cathedral of Archangel Michael",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenkleidung zu ordnen und die Stille zu genießen.",
+                "hu": "Ideális hely az esőruházat rendezésére és a csend élvezetére.",
+                "ro": "Un loc ideal pentru a vă aranja hainele de ploaie și a vă bucura de liniște.",
+                "en": "An ideal place to adjust your rain gear and enjoy the silence."
+              }
+            },
+            {
+              "name": "Rîbnița Museum of Local Lore",
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt, bis der schlimmste Regenguss vorbei ist.",
+                "hu": "Hosszabbítsa meg a látogatást, amíg a legnagyobb zápor elvonul.",
+                "ro": "Prelungiți vizita până când trece cea mai mare rafală de ploaie.",
+                "en": "Extend your stay until the heaviest downpour passes."
+              }
+            },
+            {
+              "name": "Dniester Bridge",
+              "tip_5lang": {
+                "de": "Halten Sie den Schirm fest; auf der Brücke gibt es starke Windböen.",
+                "hu": "Tartsa erősen az esernyőt, a hídon erős széllökések várhatóak.",
+                "ro": "Țineți bine umbrela; pe pod sunt rafale puternice de vânt.",
+                "en": "Hold your umbrella firmly; there are strong wind gusts on the bridge."
+              }
+            },
+            {
+              "name": "Komsomol Park",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Hauptwegen, da die Rasenflächen aufweichen.",
+                "hu": "Maradjon az aszfaltozott főutakon, mert a füves részek feláznak.",
+                "ro": "Rămâneți pe aleile principale asfaltate, deoarece zonele cu iarbă devin noroioase.",
+                "en": "Stay on the main paved paths, as the grassy areas become soft and muddy."
+              }
+            },
+            {
+              "name": "Jewish Cemetery",
+              "tip_5lang": {
+                "de": "Gutes Schuhwerk ist wichtig, da die Wege zwischen den Gräbern rutschig sind.",
+                "hu": "A jó lábbeli fontos, mert a sírok közötti ösvények csúszósak lehetnek.",
+                "ro": "Încălțămintea bună este importantă, deoarece potecile dintre morminte sunt alunecoase.",
+                "en": "Good footwear is essential as the paths between graves can be slippery."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Gehwege in Rîbnița bei Regen kleine Pfützen bilden.",
+              "Das Heimatmuseum ist der beste Ort, um eine längere Regenpause einzulegen.",
+              "Die Brücke über den Dnjestr bietet kaum Schutz, überqueren Sie sie zügig.",
+              "Ein kompakter, windfester Regenschirm ist wegen der offenen Flächen am Fluss ratsam.",
+              "In der Nähe des Brunnenplatzes gibt es kleine Geschäfte, falls Sie Ersatzsocken benötigen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert Rîbnița járdáin esőben könnyen kialakulnak tócsák.",
+              "A helytörténeti múzeum a legjobb hely egy hosszabb esőszünet tartására.",
+              "A Dnyeszter-híd nem kínál menedéket, gyorsan keljen át rajta.",
+              "A folyóparti nyílt területek miatt szélálló esernyőt érdemes magával hoznia.",
+              "A szökőkút tér környékén több kisbolt is van, ha pótzoknira lenne szüksége."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pe trotuarele din Rîbnița se formează ușor bălți.",
+              "Muzeul de istorie locală este cel mai bun loc pentru o pauză mai lungă de ploaie.",
+              "Podul peste Nistru nu oferă adăpost, traversați-l rapid.",
+              "Din cauza zonelor deschise de lângă râu, este recomandat să aveți o umbrelă rezistentă la vânt.",
+              "În apropierea Pieței Fântânilor există magazine mici în caz că aveți nevoie de șosete de schimb."
+            ],
+            "en": [
+              "Wear waterproof shoes, as puddles easily form on Rîbnița's sidewalks during rain.",
+              "The local lore museum is the best place for a longer rain break.",
+              "The Dniester Bridge offers no shelter, so cross it quickly.",
+              "Due to the open areas by the river, a wind-resistant umbrella is recommended.",
+              "There are small shops near Fountain Square if you need replacement socks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am schneebedeckten Brunnenplatz. Die Kathedrale und das Museum sind wichtige Aufwärmstationen während Ihrer Stadterkundung. Nachmittags bietet die Brücke einen spektakulären Blick auf den vereisten Dnjestr. Da es bereits gegen 16:30 Uhr dunkel wird, endet der Besuch am Friedhof in einer mystischen, dämmrigen Atmosphäre.",
+            "hu": "Fagyos reggel kezdődik a hóval borított szökőkút térnél. A katedrális és a múzeum fontos melegedőhelyek a városnézés során. Délután a híd látványos kilátást nyújt a jeges Dnyeszterre. Mivel 16:30 körül már sötétedik, a temetőlátogatás misztikus, szürkületi hangulatban ér véget.",
+            "ro": "O dimineață geroasă începe în Piața Fântânilor acoperită de zăpadă. Catedrala și muzeul sunt puncte importante de încălzire în timpul explorării orașului. După-amiaza, podul oferă o priveliște spectaculoasă asupra Nistrului înghețat. Deoarece se întunecă în jurul orei 16:30, vizita la cimitir se încheie într-o atmosferă mistică, de amurg.",
+            "en": "A frosty morning begins at the snow-covered Fountain Square. The cathedral and the museum are essential warming stations during your city tour. In the afternoon, the bridge offers a spectacular view of the frozen Dniester. Since it gets dark around 4:30 PM, the cemetery visit ends in a mystical, twilight atmosphere."
+          },
+          "stops": [
+            {
+              "name": "Fountain Square",
+              "tip_5lang": {
+                "de": "Die Brunnen sind im Winter abgestellt, aber der Platz ist oft festlich beleuchtet.",
+                "hu": "A szökőkutak télen nem üzemelnek, de a tér gyakran ünnepi díszkivilágítást kap.",
+                "ro": "Fântânile nu funcționează iarna, dar piața este adesea iluminată festiv.",
+                "en": "The fountains are off in winter, but the square is often festively lit."
+              }
+            },
+            {
+              "name": "Monument to the Defenders of the Fatherland",
+              "tip_5lang": {
+                "de": "Vorsicht bei Schneeglätte auf den Steinstufen des Denkmals.",
+                "hu": "Vigyázzon a csúszós hóra az emlékmű kőlépcsőin.",
+                "ro": "Atenție la zăpada alunecoasă de pe treptele de piatră ale monumentului.",
+                "en": "Be careful of slippery snow on the stone steps of the monument."
+              }
+            },
+            {
+              "name": "Cathedral of Archangel Michael",
+              "tip_5lang": {
+                "de": "Die Wärme der Kerzen und die Heizung machen dies zu einem idealen Halt.",
+                "hu": "A gyertyák melege és a fűtés miatt ez egy ideális pihenőhely.",
+                "ro": "Căldura lumânărilor și încălzirea fac din acesta un loc de oprire ideal.",
+                "en": "The warmth of the candles and the heating make this an ideal stop."
+              }
+            },
+            {
+              "name": "Rîbnița Museum of Local Lore",
+              "tip_5lang": {
+                "de": "Geben Sie Ihre schwere Winterkleidung an der Garderobe ab, um die Exponate bequem zu sehen.",
+                "hu": "Adja le nehéz téli kabátját a ruhatárban, hogy kényelmesen nézhesse meg a tárlatot.",
+                "ro": "Lăsați haina grea de iarnă la garderobă pentru a vedea exponatele confortabil.",
+                "en": "Leave your heavy winter coat at the cloakroom to view the exhibits comfortably."
+              }
+            },
+            {
+              "name": "Dniester Bridge",
+              "tip_5lang": {
+                "de": "Der Wind vom Fluss her ist im Winter extrem kalt; kleiden Sie sich im Zwiebelprinzip.",
+                "hu": "A folyó felőli szél télen rendkívül hideg; öltözzön rétegesen.",
+                "ro": "Vântul de pe râu este extrem de rece iarna; îmbrăcați-vă în straturi.",
+                "en": "The wind from the river is extremely cold in winter; dress in layers."
+              }
+            },
+            {
+              "name": "Komsomol Park",
+              "tip_5lang": {
+                "de": "Die schneebedeckten Bäume bieten tolle Fotomotive, aber achten Sie auf vereiste Wege.",
+                "hu": "A havas fák remek fotótémák, de ügyeljen a jeges ösvényekre.",
+                "ro": "Copacii înzăpeziți oferă cadre foto deosebite, dar atenție la potecile înghețate.",
+                "en": "The snow-covered trees offer great photo ops, but watch out for icy paths."
+              }
+            },
+            {
+              "name": "Jewish Cemetery",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Ort vor 16:00 Uhr, um im Tageslicht sicher navigieren zu können.",
+                "hu": "Látogasson el ide 16:00 előtt, hogy a nappali fénynél biztonságosan közlekedhessen.",
+                "ro": "Vizitați locul înainte de ora 16:00 pentru a naviga în siguranță la lumina zilei.",
+                "en": "Visit the site before 4:00 PM to navigate safely in daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Dezember bereits gegen 16:15 Uhr unter, planen Sie das Ende ein.",
+              "Viele kleine Kioske verkaufen heißen Tee – ideal für eine kurze Pause.",
+              "Achten Sie auf Glatteis auf der Brücke, der Stahlboden kann sehr rutschig sein.",
+              "Warme Einlegesohlen sind für den langen Spaziergang durch den Park sehr empfehlenswert.",
+              "Die Museen sind gut beheizt und bieten Schutz vor der stechenden Kälte."
+            ],
+            "hu": [
+              "A nap decemberben már 16:15 körül lemegy, tervezze ehhez a túra végét.",
+              "Sok kis kioszk árul forró teát – ideális egy rövid szünethez.",
+              "Ügyeljen a jégre a hídon, az acélfelület nagyon csúszós lehet.",
+              "A parki hosszú séta miatt a meleg talpbetét használata erősen ajánlott.",
+              "A múzeumok jól fűtöttek, és védelmet nyújtanak a metsző hideg ellen."
+            ],
+            "ro": [
+              "Soarele apune în decembrie în jurul orei 16:15, planificați finalul turului în consecință.",
+              "Multe chioșcuri vând ceai fierbinte – ideal pentru o scurtă pauză.",
+              "Atenție la gheața de pe pod, suprafața de oțel poate fi foarte alunecoasă.",
+              "Branțurile termice sunt foarte recomandate pentru plimbarea lungă prin parc.",
+              "Muzeele sunt bine încălzite și oferă protecție împotriva gerului tăios."
+            ],
+            "en": [
+              "The sun sets around 4:15 PM in December; plan the end of your tour accordingly.",
+              "Many small kiosks sell hot tea – ideal for a short break.",
+              "Watch out for ice on the bridge; the steel surface can be very slippery.",
+              "Thermal insoles are highly recommended for the long walk through the park.",
+              "The museums are well-heated and provide shelter from the biting cold."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -766,6 +974,214 @@
           "Bring a lock to secure your bike at the stops.",
           "Plan your route in advance, especially for the ride to Trajan's Wall."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour durch Rîbnița erfordert Vorsicht. Starten Sie am Brunnenplatz und nutzen Sie die asphaltierten Straßen zur Kathedrale. Das Museum bietet eine willkommene Pause im Trockenen. Nachmittags ist die Fahrt zum Trajanswall bei Regen anstrengend, aber die menschenleere Landschaft hat ihren Reiz.",
+            "hu": "A vizes biciklitúra Rîbnițában óvatosságot igényel. Kezdjen a szökőkút térnél, és használja az aszfaltozott utakat a katedrálisig. A múzeum szívesen látott száraz pihenőt kínál. Délután a Traianus-falhoz vezető út esőben fárasztó, de az elhagyatott tájnak megvan a maga varázsa.",
+            "ro": "O tură cu bicicleta prin Rîbnița pe ploaie necesită prudență. Începeți în Piața Fântânilor și folosiți drumurile asfaltate până la catedrală. Muzeul oferă o pauză uscată binevenită. După-amiaza, drumul către Valul lui Traian este obositor pe ploaie, dar peisajul pustiu are farmecul său.",
+            "en": "A wet bike ride through Rîbnița requires caution. Start at Fountain Square and stick to paved roads to the cathedral. The museum offers a welcome dry break. In the afternoon, the ride to Trajan's Wall is tiring in the rain, but the deserted landscape has its own charm."
+          },
+          "stops": [
+            {
+              "name": "Fountain Square",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Bremsen auf den nassen Markierungen am Boden.",
+                "hu": "Kerülje a fékezést a felfestett útburkolati jeleken.",
+                "ro": "Evitați frânarea pe marcajele rutiere umede.",
+                "en": "Avoid braking on wet road markings."
+              }
+            },
+            {
+              "name": "Cathedral of Archangel Michael",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort nahe der Mauer.",
+                "hu": "Parkolja le a kerékpárját egy védettebb helyen a fal közelében.",
+                "ro": "Parcați bicicleta într-un loc protejat lângă zid.",
+                "en": "Park your bike in a sheltered spot near the wall."
+              }
+            },
+            {
+              "name": "Rîbnița Museum of Local Lore",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Ausrüstung im Trockenen, bevor Sie weiterfahren.",
+                "hu": "Ellenőrizze felszerelését a szárazon, mielőtt továbbindulna.",
+                "ro": "Verificați-vă echipamentul la adăpost înainte de a pleca mai departe.",
+                "en": "Check your gear in the dry before continuing."
+              }
+            },
+            {
+              "name": "Dniester Bridge",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam; die Fugen der Brücke können für Reifen tückisch sein.",
+                "hu": "Hajtson lassan; a híd illesztései trükkösek lehetnek a gumik számára.",
+                "ro": "Mergeți încet; rosturile podului pot fi înșelătoare pentru anvelope.",
+                "en": "Ride slowly; the bridge joints can be tricky for tires."
+              }
+            },
+            {
+              "name": "Komsomol Park",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefem Schlamm abseits der Hauptwege.",
+                "hu": "Vigyázzon a mély sárra a főutaktól távolabb.",
+                "ro": "Atenție la noroiul adânc în afara aleilor principale.",
+                "en": "Watch out for deep mud away from the main paths."
+              }
+            },
+            {
+              "name": "Jewish Cemetery",
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad am Eingang ab; die Wege im Inneren sind nicht befahrbar.",
+                "hu": "Zárja le a biciklit a bejáratnál; a belső utak nem járhatóak két keréken.",
+                "ro": "Încuiați bicicleta la intrare; aleile interioare nu pot fi parcurse pe roți.",
+                "en": "Lock your bike at the entrance; the interior paths are not bikeable."
+              }
+            },
+            {
+              "name": "Trajan's Wall (Valul lui Traian)",
+              "tip_5lang": {
+                "de": "Die Erdwege können extrem rutschig sein; schieben Sie das Rad bei Bedarf.",
+                "hu": "A földutak rendkívül csúszósak lehetnek; szükség esetén tolja a bringát.",
+                "ro": "Drumurile de pământ pot fi extrem de alunecoase; împingeți bicicleta dacă e nevoie.",
+                "en": "The dirt paths can be extremely slippery; push the bike if needed."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter in Rîbnița unerlässlich.",
+              "Bremsen Sie auf der Dnjestr-Brücke besonders vorsichtig, da Metall rutschig wird.",
+              "Verwenden Sie helle Lichter, da die Sicht bei Regen stark eingeschränkt ist.",
+              "Vermeiden Sie Waldwege im Park, da diese schnell aufweichen.",
+              "Tragen Sie eine wasserdichte Regenjacke mit Kapuze."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ebben az időben Rîbnițában.",
+              "A Dnyeszter-hídon fékezzen különösen óvatosan, mert a fémfelület csúszik.",
+              "Használjon erős lámpákat, mert a látótávolság esőben jelentősen csökken.",
+              "Kerülje az erdei utakat a parkban, mert hamar sártengerré válnak.",
+              "Viseljen vízhatlan esőkabátot kapucnival."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale în acest timp în Rîbnița.",
+              "Frânați cu mare atenție pe podul peste Nistru, deoarece metalul devine alunecos.",
+              "Folosiți lumini puternice, deoarece vizibilitatea scade semnificativ pe ploaie.",
+              "Evitați potecile de pădure din parc, deoarece se transformă rapid în noroi.",
+              "Purtați o jachetă de ploaie impermeabilă cu glugă."
+            ],
+            "en": [
+              "Mudguards are essential in this weather in Rîbnița.",
+              "Brake very carefully on the Dniester Bridge as the metal surface gets slippery.",
+              "Use bright lights, as visibility decreases significantly in the rain.",
+              "Avoid forest paths in the park, as they quickly turn into mud.",
+              "Wear a waterproof rain jacket with a hood."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren erfordert warme Schichten. Starten Sie vorsichtig am Brunnenplatz. Die Stadttour führt durch verschneite Straßen zur Kathedrale. Nachmittags ist die Fahrt über die Brücke sehr kalt, aber der Blick auf das Eis ist lohnenswert. Beenden Sie die Tour am Trajanswall, solange es noch hell ist.",
+            "hu": "A téli biciklizés meleg rétegeket igényel. Kezdjen óvatosan a szökőkút térnél. A várostúra havas utcákon át vezet a katedrálisig. Délután a hídon való átkelés nagyon hideg, de a jeges kilátás kárpótolja. A túrát a Traianus-falnál fejezze be, amíg még világos van.",
+            "ro": "Ciclismul de iarnă necesită straturi calde. Începeți cu atenție în Piața Fântânilor. Turul orașului trece prin străzi înzăpezite către catedrală. După-amiaza, traversarea podului este foarte rece, dar priveliștea înghețată merită. Încheiați turul la Valul lui Traian cât încă mai este lumină.",
+            "en": "Winter cycling requires warm layers. Start carefully at Fountain Square. The city tour takes you through snowy streets to the cathedral. In the afternoon, crossing the bridge is very cold, but the icy view is rewarding. Finish the tour at Trajan's Wall while it's still light out."
+          },
+          "stops": [
+            {
+              "name": "Fountain Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenes Spritzwasser auf dem Pflaster.",
+                "hu": "Ügyeljen a megfagyott felfröccsenő vízre az úttesten.",
+                "ro": "Atenție la apa înghețată de pe pavaj.",
+                "en": "Watch out for frozen spray on the pavement."
+              }
+            },
+            {
+              "name": "Cathedral of Archangel Michael",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Bremszüge nicht eingefroren sind.",
+                "hu": "Győződjön meg róla, hogy a fékbowdenek nem fagytak be.",
+                "ro": "Asigurați-vă că nu au înghețat cablurile de frână.",
+                "en": "Make sure your brake cables haven't frozen."
+              }
+            },
+            {
+              "name": "Rîbnița Museum of Local Lore",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp hier hilft, die Taubheit in den Fingern zu vertreiben.",
+                "hu": "Egy rövid megálló itt segít elűzni az ujjak zsibbadását.",
+                "ro": "O scurtă oprire aici ajută la eliminarea amorțelii degetelor.",
+                "en": "A short stop here helps to get rid of numbness in your fingers."
+              }
+            },
+            {
+              "name": "Dniester Bridge",
+              "tip_5lang": {
+                "de": "Der Boden kann vereist sein; fahren Sie extrem vorsichtig.",
+                "hu": "Az útfelület jeges lehet; hajtson rendkívül óvatosan.",
+                "ro": "Suprafața poate fi înghețată; mergeți cu mare prudență.",
+                "en": "The surface can be icy; ride with extreme caution."
+              }
+            },
+            {
+              "name": "Komsomol Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die Winterlandschaft, aber bleiben Sie auf geräumten Wegen.",
+                "hu": "Élvezze a téli tájat, de maradjon a letakarított utakon.",
+                "ro": "Bucurați-vă de peisajul de iarnă, dar rămâneți pe aleile curățate.",
+                "en": "Enjoy the winter scenery, but stay on cleared paths."
+              }
+            },
+            {
+              "name": "Jewish Cemetery",
+              "tip_5lang": {
+                "de": "Ketten Sie das Rad sicher an, bevor Sie den schneebedeckten Hügel erkunden.",
+                "hu": "Láncolja le biztonságosan a biciklit, mielőtt felfedezné a havas dombot.",
+                "ro": "Legați bine bicicleta înainte de a explora dealul înzăpezit.",
+                "en": "Lock your bike securely before exploring the snow-covered hill."
+              }
+            },
+            {
+              "name": "Trajan's Wall (Valul lui Traian)",
+              "tip_5lang": {
+                "de": "Der Wind hier oben ist schneidend; decken Sie Ihr Gesicht ab.",
+                "hu": "Itt fent metsző a szél; takarja el az arcát.",
+                "ro": "Vântul aici sus este tăios; acoperiți-vă fața.",
+                "en": "The wind up here is biting; cover your face."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck; etwas weniger Druck bietet mehr Grip auf Schnee.",
+              "Schmieren Sie die Kette häufiger, um sie vor Streusalz zu schützen.",
+              "Neopren-Handschuhe sind ideal gegen den eisigen Fahrtwind.",
+              "Fahren Sie nicht nach Einbruch der Dunkelheit ohne starke Reflektoren.",
+              "Halten Sie an für heiße Getränke, um Ihre Körpertemperatur zu halten."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást; a kicsit kisebb nyomás jobb tapadást ad a havon.",
+              "Kenje a láncot gyakrabban, hogy megvédje az útszóró sótól.",
+              "A neoprén kesztyű ideális a jeges menetszél ellen.",
+              "Sötétedés után ne közlekedjen erős fényvisszaverők nélkül.",
+              "Álljon meg forró italokra, hogy fenntartsa testhőmérsékletét."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope; o presiune puțin mai mică oferă aderență mai bună pe zăpadă.",
+              "Lubrifiați lanțul mai des pentru a-l proteja de sarea de pe drum.",
+              "Mănușile de neopren sunt ideale împotriva vântului înghețat.",
+              "Nu circulați după lăsarea întunericului fără reflectorizante puternice.",
+              "Opriți-vă pentru băuturi calde pentru a vă menține temperatura corpului."
+            ],
+            "en": [
+              "Check tire pressure; slightly lower pressure provides better grip on snow.",
+              "Lubricate the chain more often to protect it from road salt.",
+              "Neoprene gloves are ideal against the icy wind.",
+              "Do not ride after dark without strong reflectors.",
+              "Stop for hot drinks to maintain your body temperature."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1170,6 +1586,232 @@
           "Be aware of local traffic rules and speed limits.",
           "A car gives you the flexibility to explore places outside the city as well."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Rîbnița bequem vom Auto aus. Die Cluster-Tour minimiert die Zeit im Regen. Starten Sie am Brunnenplatz und fahren Sie zur Kathedrale. Mittags bietet die Fahrt über die Dnjestr-Brücke tolle Ausblicke, ohne nass zu werden. Der Tag endet am Trajanswall, wo Sie den Regen aus dem warmen Innenraum beobachten können.",
+            "hu": "Élvezze Rîbnițát kényelmesen az autóból. A csoportosított túra minimalizálja az esőben töltött időt. Kezdjen a szökőkút térnél, majd hajtson a katedrálishoz. Délben a Dnyeszter-hídon való átkelés remek kilátást nyújt anélkül, hogy elázna. A nap a Traianus-falnál zárul, ahol a meleg utastérből figyelheti az esőt.",
+            "ro": "Bucurați-vă de Rîbnița confortabil din mașină. Turul grupat minimizează timpul petrecut în ploaie. Începeți în Piața Fântânilor, apoi conduceți către catedrală. La prânz, traversarea podului peste Nistru oferă priveliști excelente fără a vă uda. Ziua se încheie la Valul lui Traian, unde puteți observa ploaia din interiorul cald.",
+            "en": "Enjoy Rîbnița comfortably from your car. The clustered tour minimizes time spent in the rain. Start at Fountain Square and drive to the cathedral. At noon, crossing the Dniester Bridge offers great views without getting wet. The day ends at Trajan's Wall, where you can watch the rain from the warm interior."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Fountain Square",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze direkt am Rand des Platzes.",
+                "hu": "Közvetlenül a tér szélén találhatók parkolóhelyek.",
+                "ro": "Există locuri de parcare chiar la marginea pieței.",
+                "en": "There are parking spots right at the edge of the square."
+              }
+            },
+            {
+              "name": "Monument to the Defenders of the Fatherland",
+              "tip_5lang": {
+                "de": "Der Stopp ist kurz; Sie können das Denkmal oft vom Auto aus sehen.",
+                "hu": "A megálló rövid; az emlékmű gyakran az autóból is jól látható.",
+                "ro": "Oprirea este scurtă; monumentul este adesea vizibil din mașină.",
+                "en": "The stop is short; the monument is often visible from the car."
+              }
+            },
+            {
+              "name": "Cathedral of Archangel Michael",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem befestigten Platz vor dem Eingang.",
+                "hu": "Parkoljon a bejárat előtti szilárd burkolatú területen.",
+                "ro": "Parcați pe spațiul pavat din fața intrării.",
+                "en": "Park on the paved area in front of the entrance."
+              }
+            },
+            {
+              "name": "Cluster B: Dniester Bridge",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, um die Aussicht bei eingeschränkter Sicht zu genießen.",
+                "hu": "Hajtson lassan, hogy élvezhesse a kilátást korlátozott látási viszonyok mellett is.",
+                "ro": "Conduceți încet pentru a vă bucura de priveliște în condiții de vizibilitate redusă.",
+                "en": "Drive slowly to enjoy the view despite the limited visibility."
+              }
+            },
+            {
+              "name": "Komsomol Park",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz am Haupteingang für einen kurzen Abstecher.",
+                "hu": "Használja a főbejáratnál lévő parkolót egy rövid kitérőhöz.",
+                "ro": "Folosiți parcarea de la intrarea principală pentru o scurtă vizită.",
+                "en": "Use the parking lot at the main entrance for a quick detour."
+              }
+            },
+            {
+              "name": "Rîbnița Museum of Local Lore",
+              "tip_5lang": {
+                "de": "In der Nähe des Museums gibt es meist freie Parkplätze an der Straße.",
+                "hu": "A múzeum közelében általában vannak szabad utcai parkolóhelyek.",
+                "ro": "În apropierea muzeului există de obicei locuri de parcare libere pe stradă.",
+                "en": "There are usually free street parking spots near the museum."
+              }
+            },
+            {
+              "name": "Cluster C: Jewish Cemetery",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Regen schlammig sein; bleiben Sie auf dem Hauptweg.",
+                "hu": "A behajtó út esőben sáros lehet; maradjon a főúton.",
+                "ro": "Drumul de acces poate fi noroios pe ploaie; rămâneți pe drumul principal.",
+                "en": "The access road can be muddy in the rain; stay on the main path."
+              }
+            },
+            {
+              "name": "Trajan's Wall (Valul lui Traian)",
+              "tip_5lang": {
+                "de": "Ein Allradfahrzeug ist bei starkem Regen für die letzten Meter ratsam.",
+                "hu": "Összkerékhajtású jármű ajánlott az utolsó méterekre erős esőben.",
+                "ro": "Un vehicul cu tracțiune integrală este recomandat pentru ultimii metri pe ploaie torențială.",
+                "en": "A 4WD vehicle is recommended for the final meters in heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer, bevor Sie die Stadt verlassen.",
+              "Vermeiden Sie tiefes Wasser am Straßenrand in Wohngebieten.",
+              "Die Brücke über den Dnjestr kann bei Regen rutschig sein.",
+              "Halten Sie die Scheinwerfer auch tagsüber eingeschaltet.",
+              "Nutzen Sie die Klimaanlage, um das Beschlagen der Scheiben zu verhindern."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket, mielőtt elhagyja a várost.",
+              "Kerülje a mély vizet az út szélén a lakóövezetekben.",
+              "A Dnyeszter-híd esőben csúszós lehet.",
+              "Tartsa bekapcsolva a fényszórókat nappal is.",
+              "Használja a légkondicionálót a szélvédő párátlanítására."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a părăsi orașul.",
+              "Evitați apa adâncă de la marginea drumului în zonele rezidențiale.",
+              "Podul peste Nistru poate fi alunecos pe ploaie.",
+              "Păstrați farurile aprinse și în timpul zilei.",
+              "Folosiți aerul condiționat pentru a preveni aburirea geamurilor."
+            ],
+            "en": [
+              "Check your wipers before leaving the city.",
+              "Avoid deep water at the roadside in residential areas.",
+              "The Dniester Bridge can be slippery in the rain.",
+              "Keep your headlights on even during the day.",
+              "Use the air conditioning to prevent the windows from fogging up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch das verschneite Rîbnița ist sicher und warm. Starten Sie am festlichen Brunnenplatz. Die Stadttour führt Sie bequem zur Kathedrale und zum Museum. Nachmittags genießen Sie die Aussicht auf den gefrorenen Fluss von der Brücke aus. Beenden Sie den Tag am Trajanswall, solange das Tageslicht die Schneelandschaft beleuchtet.",
+            "hu": "A téli autózás a havas Rîbnițában biztonságos és meleg. Kezdjen az ünnepi szökőkút térnél. A várostúra kényelmesen vezet a katedrálishoz és a múzeumhoz. Délután élvezze a fagyott folyó látványát a hídról. A napot a Traianus-falnál fejezze be, amíg a nappali fény megvilágítja a havas tájat.",
+            "ro": "O plimbare cu mașina prin Rîbnița înzăpezită este sigură și caldă. Începeți în Piața Fântânilor festivă. Turul orașului vă duce confortabil la catedrală și muzeu. După-amiaza, bucurați-vă de priveliștea râului înghețat de pe pod. Încheiați ziua la Valul lui Traian cât timp lumina zilei luminează peisajul de zăpadă.",
+            "en": "A winter drive through snowy Rîbnița is safe and warm. Start at the festive Fountain Square. The city tour takes you comfortably to the cathedral and museum. In the afternoon, enjoy the view of the frozen river from the bridge. End the day at Trajan's Wall while daylight still illuminates the snowscape."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Fountain Square",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis beim Aussteigen auf dem Platz.",
+                "hu": "Vigyázzon a tükörjégre, amikor kiszáll az autóból a téren.",
+                "ro": "Atenție la polei când coborâți din mașină în piață.",
+                "en": "Watch out for black ice when getting out of the car in the square."
+              }
+            },
+            {
+              "name": "Monument to the Defenders of the Fatherland",
+              "tip_5lang": {
+                "de": "Die Parkbuchten können mit Schnee zugeschüttet sein.",
+                "hu": "A parkolóöblök hóval lehetnek feltöltve.",
+                "ro": "Locurile de parcare pot fi acoperite cu zăpadă.",
+                "en": "The parking bays might be filled with snow."
+              }
+            },
+            {
+              "name": "Cathedral of Archangel Michael",
+              "tip_5lang": {
+                "de": "Der Zugang ist meist gut geräumt, aber die Seitenstraßen sind oft glatt.",
+                "hu": "A bejárat általában jól takarított, de a mellékutcák gyakran csúszósak.",
+                "ro": "Accesul este de obicei bine curățat, dar străzile laterale sunt adesea alunecoase.",
+                "en": "Access is usually well-cleared, but side streets are often slippery."
+              }
+            },
+            {
+              "name": "Cluster B: Dniester Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrierender Nässe auf der Fahrbahn.",
+                "hu": "Vigyázzon az úttesten lefagyó nedvességre.",
+                "ro": "Atenție la umezeala care îngheață pe carosabil.",
+                "en": "Watch out for freezing moisture on the roadway."
+              }
+            },
+            {
+              "name": "Komsomol Park",
+              "tip_5lang": {
+                "de": "Parken Sie nicht unter Bäumen mit schwerer Schneelast.",
+                "hu": "Ne parkoljon nehéz hóval borított fák alá.",
+                "ro": "Nu parcați sub copaci cu încărcătură mare de zăpadă.",
+                "en": "Do not park under trees with heavy snow loads."
+              }
+            },
+            {
+              "name": "Rîbnița Museum of Local Lore",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul să meargă inutil în staționare.",
+                "en": "Do not let the engine idle unnecessarily while parked."
+              }
+            },
+            {
+              "name": "Cluster C: Jewish Cemetery",
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Hügel kann bei Eis schwierig sein.",
+                "hu": "A dombra való felhajtás jégen nehézkes lehet.",
+                "ro": "Urcarea pe deal poate fi dificilă pe gheață.",
+                "en": "Driving up the hill can be difficult on ice."
+              }
+            },
+            {
+              "name": "Trajan's Wall (Valul lui Traian)",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei Tiefschnee auf der befestigten Straße.",
+                "hu": "Mély hó esetén maradjon a szilárd burkolatú úton.",
+                "ro": "În caz de zăpadă mare, rămâneți pe drumul pavat.",
+                "en": "Stay on the paved road in case of deep snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Transnistrien gesetzlich vorgeschrieben.",
+              "Führen Sie einen Eiskratzer und einen kleinen Besen mit.",
+              "Die Brücken frieren schneller ein als die normalen Straßen.",
+              "Füllen Sie frostsicheres Scheibenwischwasser auf.",
+              "Halten Sie eine Decke im Auto für den Notfall bereit."
+            ],
+            "hu": [
+              "A téli gumi használata kötelező Transznisztriában.",
+              "Tartson az autóban jégkaparót és egy kis seprűt.",
+              "A hidak hamarabb lefagynak, mint a normál utak.",
+              "Töltsön fel fagyálló szélvédőmosó folyadékot.",
+              "Tartson egy takarót az autóban vészhelyzet esetére."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în Transnistria.",
+              "Aveți în mașină o racletă și o măturică.",
+              "Podurile îngheață mai repede decât drumurile normale.",
+              "Umpleți rezervorul cu lichid de parbriz rezistent la îngheț.",
+              "Țineți o pătură în mașină pentru situații de urgență."
+            ],
+            "en": [
+              "Winter tires are mandatory by law in Transnistria.",
+              "Keep an ice scraper and a small brush in the car.",
+              "Bridges freeze faster than normal roads.",
+              "Refill with frost-resistant windshield washer fluid.",
+              "Keep a blanket in the car for emergencies."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1550,6 +2192,214 @@
           "Allow extra time for any waiting time for the bus.",
           "Pay attention to the correct bus stop for your next leg."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Marshrutkas von Rîbnița, um trocken durch die Stadt zu kommen. Starten Sie am Brunnenplatz. Die Busverbindungen bringen Sie bequem zur Kathedrale und zum Museum. Nachmittags ist die Fahrt zum Komsomol-Park kurz, sodass Sie kaum im Regen stehen. Der Tag endet am jüdischen Friedhof, der gut per Transit erreichbar ist.",
+            "hu": "Használja Rîbnița iránytaxijait (marsrutka), hogy szárazon járja be a várost. Kezdjen a szökőkút térnél. A buszjáratok kényelmesen elviszik a katedrálishoz és a múzeumhoz. Délután a Komszomol parkhoz vezető út rövid, így alig kell az esőben állnia. A nap a jól megközelíthető zsidó temetőnél zárul.",
+            "ro": "Folosiți microbuzele (rutierele) din Rîbnița pentru a parcurge orașul la adăpost. Începeți în Piața Fântânilor. Liniile de autobuz vă duc confortabil la catedrală și muzeu. După-amiaza, drumul către parcul Komsomol este scurt, deci veți sta puțin în ploaie. Ziua se încheie la cimitirul evreiesc, ușor accesibil cu transportul public.",
+            "en": "Use Rîbnița's minibuses (marshrutkas) to get around the city while staying dry. Start at Fountain Square. Bus lines take you comfortably to the cathedral and museum. In the afternoon, the ride to Komsomol Park is short, minimizing your time in the rain. The day ends at the easily accessible Jewish cemetery."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Fountain Square",
+              "tip_5lang": {
+                "de": "Warten Sie unter den Haltestellendächern auf den nächsten Bus.",
+                "hu": "Várjon a megállók teteje alatt a következő buszra.",
+                "ro": "Așteptați următorul autobuz sub acoperișul stației.",
+                "en": "Wait for the next bus under the station shelters."
+              }
+            },
+            {
+              "name": "Monument to the Defenders of the Fatherland",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nur wenige Schritte vom Denkmal entfernt.",
+                "hu": "A megálló csak néhány lépésre van az emlékműtől.",
+                "ro": "Stația este la doar câțiva pași de monument.",
+                "en": "The stop is just a few steps away from the monument."
+              }
+            },
+            {
+              "name": "Cathedral of Archangel Michael",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit in der Kirche, um den Busfahrplan zu prüfen.",
+                "hu": "Használja ki a templomban töltött időt a buszmenetrend ellenőrzésére.",
+                "ro": "Folosiți timpul petrecut în biserică pentru a verifica orarul autobuzelor.",
+                "en": "Use the time in the church to check the bus schedule."
+              }
+            },
+            {
+              "name": "Cluster B: Rîbnița Museum of Local Lore",
+              "tip_5lang": {
+                "de": "Das Museum ist ein warmer Ort, um auf den Anschlussbus zu warten.",
+                "hu": "A múzeum meleg hely a csatlakozó busz megvárására.",
+                "ro": "Muzeul este un loc cald pentru a aștepta autobuzul de legătură.",
+                "en": "The museum is a warm place to wait for your connecting bus."
+              }
+            },
+            {
+              "name": "Dniester Bridge",
+              "tip_5lang": {
+                "de": "Der Bus bietet die beste Aussicht auf den Fluss bei schlechtem Wetter.",
+                "hu": "A busz kínálja a legjobb kilátást a folyóra rossz időben.",
+                "ro": "Autobuzul oferă cea mai bună priveliște asupra râului pe vreme rea.",
+                "en": "The bus offers the best view of the river in bad weather."
+              }
+            },
+            {
+              "name": "Komsomol Park",
+              "tip_5lang": {
+                "de": "Wählen Sie die Haltestelle am Haupteingang für den kürzesten Fußweg.",
+                "hu": "Válassza a főbejáratnál lévő megállót a legrövidebb gyalogútért.",
+                "ro": "Alegeți stația de la intrarea principală pentru cel mai scurt traseu pe jos.",
+                "en": "Choose the stop at the main entrance for the shortest walk."
+              }
+            },
+            {
+              "name": "Cluster C: Jewish Cemetery",
+              "tip_5lang": {
+                "de": "Informieren Sie den Fahrer, wo Sie aussteigen möchten.",
+                "hu": "Jelezze a sofőrnek, hogy hol szeretne leszállni.",
+                "ro": "Informați șoferul unde doriți să coborâți.",
+                "en": "Inform the driver where you would like to get off."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld für die Marshrutka bereit.",
+              "Die Busse fahren bei Regen oft etwas unregelmäßiger.",
+              "Nutzen Sie die Haltestellen mit festem Untergrund, um Matsch zu vermeiden.",
+              "In den Marshrutkas kann es bei Regen schnell stickig werden.",
+              "Fragen Sie Einheimische nach dem besten Bus zum Friedhof."
+            ],
+            "hu": [
+              "Legyen kéznél aprópénz a marsrutkához.",
+              "A buszok esőben gyakran rendszertelenebbül járnak.",
+              "Használja a szilárd burkolatú megállókat a sár elkerülése érdekében.",
+              "A marsrutkákban esőben hamar fülledt lehet a levegő.",
+              "Kérdezze a helyieket a temetőhöz menő legjobb járatról."
+            ],
+            "ro": [
+              "Aveți pregătit mărunt pentru microbuz.",
+              "Autobuzele circulă adesea mai neregulat pe ploaie.",
+              "Folosiți stațiile cu platformă solidă pentru a evita noroiul.",
+              "În microbuze aerul poate deveni rapid închis pe ploaie.",
+              "Întrebați localnicii despre cel mai bun autobuz către cimitir."
+            ],
+            "en": [
+              "Have small change ready for the marshrutka.",
+              "Buses often run less regularly during rain.",
+              "Use stations with solid platforms to avoid mud.",
+              "The air inside marshrutkas can quickly become stuffy in the rain.",
+              "Ask locals for the best bus line to the cemetery."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Transit in Rîbnița bietet im Winter Schutz vor der Kälte. Starten Sie Ihre Tour am zentralen Brunnenplatz. Die Busse sind oft gut beheizt und bringen Sie schnell zur Kathedrale. Nachmittags genießen Sie die winterliche Stadt aus dem Fenster. Beenden Sie den Tag frühzeitig, da die Taktzeiten der Busse nach Sonnenuntergang abnehmen können.",
+            "hu": "A rîbnițai tömegközlekedés télen védelmet nyújt a hideg ellen. Kezdje túráját a központi szökőkút térnél. A buszok gyakran jól fűtöttek, és gyorsan elviszik a katedrálishoz. Délután az ablakból élvezheti a téli várost. Fejezze be korán a napot, mert a buszok járatsűrűsége naplemente után csökkenhet.",
+            "ro": "Transportul din Rîbnița oferă protecție împotriva frigului iarna. Începeți turul în Piața Fântânilor centrală. Autobuzele sunt adesea bine încălzite și vă duc rapid la catedrală. După-amiaza, bucurați-vă de orașul de iarnă de la fereastră. Încheiați ziua devreme, deoarece frecvența autobuzelor poate scădea după apus.",
+            "en": "Transit in Rîbnița offers protection from the cold in winter. Start your tour at the central Fountain Square. Buses are often well-heated and take you quickly to the cathedral. In the afternoon, enjoy the winter city from the window. End the day early as bus frequency may decrease after sunset."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Fountain Square",
+              "tip_5lang": {
+                "de": "Die Wartehäuschen bieten Schutz vor dem eisigen Wind.",
+                "hu": "A várótermek vagy fedett megállók védelmet nyújtanak a jeges szél ellen.",
+                "ro": "Refugiile din stații oferă protecție împotriva vântului înghețat.",
+                "en": "Station shelters provide protection from the icy wind."
+              }
+            },
+            {
+              "name": "Monument to the Defenders of the Fatherland",
+              "tip_5lang": {
+                "de": "Gehen Sie vorsichtig auf den geräumten Pfaden zur Haltestelle.",
+                "hu": "Közlekedjen óvatosan a letakarított ösvényeken a megálló felé.",
+                "ro": "Mergeți cu atenție pe potecile curățate către stație.",
+                "en": "Walk carefully on the cleared paths towards the station."
+              }
+            },
+            {
+              "name": "Cathedral of Archangel Michael",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Haltestelle schneefrei ist, bevor Sie warten.",
+                "hu": "Ellenőrizze, hogy a megálló hómentes-e, mielőtt várakozna.",
+                "ro": "Verificați dacă stația este curățată de zăpadă înainte de a aștepta.",
+                "en": "Check if the station is snow-free before waiting."
+              }
+            },
+            {
+              "name": "Cluster B: Rîbnița Museum of Local Lore",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Museum auf, bis der nächste Bus fällig ist.",
+                "hu": "Melegedjen fel a múzeumban, amíg a következő busz esedékes.",
+                "ro": "Încălziți-vă în muzeu până când trebuie să vină următorul autobuz.",
+                "en": "Warm up in the museum until the next bus is due."
+              }
+            },
+            {
+              "name": "Dniester Bridge",
+              "tip_5lang": {
+                "de": "Die Fenster der Busse können im Winter beschlagen sein.",
+                "hu": "A buszok ablakai télen gyakran bepárásodnak.",
+                "ro": "Geamurile autobuzelor pot fi aburite iarna.",
+                "en": "The bus windows can be fogged up in winter."
+              }
+            },
+            {
+              "name": "Komsomol Park",
+              "tip_5lang": {
+                "de": "Die Busse halten direkt am Parkeingang; vermeiden Sie lange Fußwege.",
+                "hu": "A buszok közvetlenül a park bejáratánál állnak meg; kerülje a hosszú gyaloglást.",
+                "ro": "Autobuzele opresc chiar la intrarea în parc; evitați mersul lung pe jos.",
+                "en": "Buses stop right at the park entrance; avoid long walks."
+              }
+            },
+            {
+              "name": "Cluster C: Jewish Cemetery",
+              "tip_5lang": {
+                "de": "Achten Sie auf die letzte Rückfahrt im Fahrplan.",
+                "hu": "Ügyeljen az utolsó visszainduló járatra a menetrendben.",
+                "ro": "Atenție la ultima cursă de întoarcere din orar.",
+                "en": "Pay attention to the last return trip in the schedule."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Marshrutkas sind im Winter oft wärmer als die großen Busse.",
+              "Planen Sie Pufferzeiten ein, da der Verkehr bei Schnee langsamer ist.",
+              "Vermeiden Sie es, zu nah am Straßenrand zu stehen (Schneematsch-Spritzer).",
+              "Tragen Sie Handschuhe, um sich an den kalten Haltestangen festzuhalten.",
+              "Die Taktzeiten können an Feiertagen im Winter stark variieren."
+            ],
+            "hu": [
+              "A marsrutkák télen gyakran melegebbek, mint a nagy buszok.",
+              "Tervezzen ráhagyással, mert a forgalom hóban lassabb.",
+              "Kerülje az út széléhez túl közeli várakozást a latyakfelverődés miatt.",
+              "Viseljen kesztyűt, hogy meg tudja fogni a hideg kapaszkodókat.",
+              "A járatsűrűség a téli ünnepek alatt jelentősen változhat."
+            ],
+            "ro": [
+              "Microbuzele sunt adesea mai calde iarna decât autobuzele mari.",
+              "Planificați timpi de rezervă, deoarece traficul este mai lent pe zăpadă.",
+              "Evitați să stați prea aproape de marginea drumului (stropi de fleșcăraie).",
+              "Purtați mănuși pentru a vă putea ține de barele reci.",
+              "Frecvența curselor poate varia semnificativ în timpul sărbătorilor de iarnă."
+            ],
+            "en": [
+              "Marshrutkas are often warmer than the large buses in winter.",
+              "Plan for extra time as traffic is slower in the snow.",
+              "Avoid standing too close to the roadside (slush splashes).",
+              "Wear gloves so you can hold onto the cold grab bars.",
+              "Frequency of service can vary significantly during winter holidays."
+            ]
+          }
+        }
       }
     }
   }

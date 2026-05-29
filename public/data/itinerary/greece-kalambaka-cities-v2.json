@@ -343,6 +343,206 @@
           "Respect the dress code for the monasteries: shoulders and knees must be covered. Skirts for women and long trousers for men are required.",
           "Check the opening hours of the monasteries in advance, as each may be closed on a different day."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens hüllt Nebel Kastraki ein, was den Meteora-Felsen eine mystische Aura verleiht. Mittags bieten die Klöster Rousanou und Varlaam trockene Zuflucht und spirituelle Stille. Nachmittags im Museum erfahren Sie alles über die Natur, während es draußen regnet. Den Abend lassen Sie bei lokalem Wein in einer gemütlichen Taverne in Kalambaka ausklingen, weit weg vom nassen Wetter.",
+            "hu": "Reggel a ködbe burkolózó Kastraki misztikus aurát kölcsönöz a Meteoráknak. Délben a Rousanou és Varlaam kolostorok száraz menedéket és lelki nyugalmat nyújtanak. Délután a múzeumban felfedezheti a környék élővilágát, miközben kint esik. Az estét egy barátságos kalambakai tavernában, helyi borok mellett töltheti, távol a nedves időjárástól.",
+            "ro": "Dimineața, ceața învăluie satul Kastraki, oferind stâncilor Meteora o aură mistică. La prânz, mănăstirile Rousanou și Varlaam oferă un refugiu uscat și liniște spirituală. După-amiaza, muzeul este locul perfect pentru a învăța despre natură în timp ce plouă afară. Seara se încheie într-o tavernă primitoare din Kalambaka, cu vin local, departe de vremea umedă.",
+            "en": "In the morning, mist envelops Kastraki, giving the Meteora rocks a mystical aura. At noon, the monasteries of Rousanou and Varlaam provide dry refuge and spiritual silence. In the afternoon, the museum is the perfect place to learn about nature while it rains outside. The evening concludes in a cozy Kalambaka tavern with local wine, far from the wet weather."
+          },
+          "stops": [
+            {
+              "name": "Kastraki Village",
+              "tip_5lang": {
+                "de": "Die glänzenden Gassen sind ideal für Fotos; achten Sie auf rutschiges Kopfsteinpflaster.",
+                "hu": "A csillogó utcák ideálisak fotózáshoz; vigyázzon a csúszós macskaköveken.",
+                "ro": "Ulițele strălucitoare sunt ideale pentru poze; atenție la pavajul alunecos.",
+                "en": "Glistening alleys are ideal for photos; watch out for slippery cobblestones."
+              }
+            },
+            {
+              "name": "Monastery of Rousanou",
+              "tip_5lang": {
+                "de": "Innen ist es trocken; nutzen Sie die Zeit, um die Wandmalereien in Ruhe zu betrachten.",
+                "hu": "Bent száraz az idő; használja ki a lehetőséget a falfestmények megcsodálására.",
+                "ro": "Interiorul este uscat; profitați de timp pentru a admira picturile murale.",
+                "en": "It is dry inside; take your time to admire the murals in peace."
+              }
+            },
+            {
+              "name": "Monastery of Varlaam",
+              "tip_5lang": {
+                "de": "Der Aufstieg kann bei Regen anstrengend sein; halten Sie sich an den Geländern fest.",
+                "hu": "Az emelkedő esőben fárasztó lehet; kapaszkodjon erősen a korlátokba.",
+                "ro": "Urcarea poate fi obositoare pe ploaie; țineți-vă bine de balustrade.",
+                "en": "The climb can be tiring in the rain; hold firmly onto the railings."
+              }
+            },
+            {
+              "name": "Monastery of Great Meteoron",
+              "tip_5lang": {
+                "de": "Große Innenhöfe bieten Unterstand, aber die Stufen sind oft nass und glatt.",
+                "hu": "A nagy udvarok fedezéket nyújtanak, de a lépcsők gyakran vizesek és csúsznak.",
+                "ro": "Curțile mari oferă adăpost, dar treptele sunt adesea ude și alunecoase.",
+                "en": "Large courtyards offer shelter, but steps are often wet and slick."
+              }
+            },
+            {
+              "name": "Psaropetra Viewpoint",
+              "tip_5lang": {
+                "de": "Kurzer Halt für dramatische Nebelbilder; Vorsicht an den ungesicherten Rändern.",
+                "hu": "Rövid megálló drámai ködfotókhoz; vigyázzon a biztosítatlan széleken.",
+                "ro": "Oprire scurtă pentru poze dramatice cu ceață; atenție la marginile neasigurate.",
+                "en": "Short stop for dramatic mist photos; be careful at unsecured edges."
+              }
+            },
+            {
+              "name": "Natural History Museum of Meteora",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den Regenschauer abzuwarten und sich aufzuwärmen.",
+                "hu": "Tökéletes hely az eső megvárására és a felmelegedésre.",
+                "ro": "Locul perfect pentru a aștepta trecerea ploii și pentru a vă încălzi.",
+                "en": "Perfect place to wait out the rain and warm up."
+              }
+            },
+            {
+              "name": "Church of the Dormition of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Ein ruhiger, überdachter Abschluss des Tages in der Nähe des Zentrums.",
+                "hu": "Csendes, fedett lezárása a napnak a központ közelében.",
+                "ro": "O încheiere liniștită și acoperită a zilei, aproape de centru.",
+                "en": "A quiet, covered end to the day near the center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe, da die Pfade schlammig werden können.",
+              "Ein stabiler Regenschirm ist bei den Windböen in den Höhenlagen wichtig.",
+              "Viele Klöster haben enge Gänge, in denen man gut unterstehen kann.",
+              "Die Nebelstimmung bietet einzigartige, fast surreale Fotomotive."
+            ],
+            "hu": [
+              "Viseljen vízálló túrabakancsot, mert az ösvények sárossá válhatnak.",
+              "A szeles magaslatokon egy erős esernyő elengedhetetlen.",
+              "Sok kolostorban szűk folyosók vannak, ahol jól el lehet bújni az eső elől.",
+              "A ködös idő egyedi, szinte szürreális fotótémákat kínál."
+            ],
+            "ro": [
+              "Purtați bocanci de trekking impermeabili, deoarece poteca poate fi noroioasă.",
+              "O umbrelă rezistentă este esențială din cauza rafalelor de vânt de la înălțime.",
+              "Multe mănăstiri au pasaje înguste unde vă puteți adăposti bine de ploaie.",
+              "Atmosfera cu ceață oferă subiecte foto unice, aproape ireale."
+            ],
+            "en": [
+              "Wear waterproof hiking boots as trails can become muddy.",
+              "A sturdy umbrella is essential due to wind gusts at higher elevations.",
+              "Many monasteries have narrow passages where you can shelter from the rain.",
+              "The misty atmosphere offers unique, almost surreal photo opportunities."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Kastraki bietet scharfe Kontraste zwischen Stein und Himmel. Mittags wärmt die Sonne die Klostermauern, während Sie die Aussicht genießen. Der Nachmittag gehört der Kultur im Museum, geschützt vor dem kalten Wind. Pünktlich zum frühen Sonnenuntergang erreichen Sie die Kirche der Entschlafung, bevor die Kälte der Nacht über das Tal hereinbricht.",
+            "hu": "A tiszta téli reggel Kastrakiban éles kontrasztot mutat a sziklák és az ég között. Délben a nap melengeti a kolostorfalakat, miközben a kilátást élvezi. A délután a múzeumi kultúráé, védve a hideg széltől. Pontosan a korai naplemente idejére ér a Szűz Mária-templomhoz, mielőtt az éjszakai fagy leszállna a völgyre.",
+            "ro": "O dimineață senină de iarnă în Kastraki oferă contraste puternice între stâncă și cer. La prânz, soarele încălzește zidurile mănăstirilor în timp ce admirați vederea. După-amiaza aparține culturii la muzeu, la adăpost de vântul rece. Ajungeți la biserică exact la timp pentru apusul timpuriu, înainte ca gerul nopții să coboare în vale.",
+            "en": "A clear winter morning in Kastraki offers sharp contrasts between stone and sky. At noon, the sun warms the monastery walls while you enjoy the view. The afternoon belongs to culture at the museum, sheltered from the cold wind. You reach the church just in time for the early sunset before the night chill descends over the valley."
+          },
+          "stops": [
+            {
+              "name": "Kastraki Village",
+              "tip_5lang": {
+                "de": "Die Cafés haben oft Kamine; ein guter Ort für einen warmen griechischen Kaffee.",
+                "hu": "A kávézókban gyakran van kandalló; ideális hely egy meleg görög kávéhoz.",
+                "ro": "Cafenelele au adesea șemineu; un loc bun pentru o cafea grecească caldă.",
+                "en": "Cafes often have fireplaces; a good spot for a warm Greek coffee."
+              }
+            },
+            {
+              "name": "Monastery of Rousanou",
+              "tip_5lang": {
+                "de": "Im Winter sind weniger Besucher da, genießen Sie die friedliche Stille.",
+                "hu": "Télen kevesebb a látogató, élvezze a békés csendet.",
+                "ro": "Iarna sunt mai puțini vizitatori, bucurați-vă de liniștea deplină.",
+                "en": "Fewer visitors in winter; enjoy the peaceful silence."
+              }
+            },
+            {
+              "name": "Monastery of Varlaam",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Stufen im Schatten der Felsen.",
+                "hu": "Vigyázzon a jegesedésre a sziklák árnyékában lévő lépcsőkön.",
+                "ro": "Atenție la gheața de pe treptele aflate la umbra stâncilor.",
+                "en": "Watch out for ice on steps located in the shadows of the rocks."
+              }
+            },
+            {
+              "name": "Monastery of Great Meteoron",
+              "tip_5lang": {
+                "de": "Besuchen Sie die alte Küche, um zu sehen, wie man früher heizte.",
+                "hu": "Látogassa meg a régi konyhát, hogy lássa, hogyan fűtöttek régen.",
+                "ro": "Vizitați vechea bucătărie pentru a vedea cum se încălzeau în trecut.",
+                "en": "Visit the old kitchen to see how people used to heat the space."
+              }
+            },
+            {
+              "name": "Psaropetra Viewpoint",
+              "tip_5lang": {
+                "de": "Der Wind kann hier oben eisig sein; Mütze und Handschuhe sind Pflicht.",
+                "hu": "A szél itt fagyos lehet; a sapka és kesztyű kötelező.",
+                "ro": "Vântul poate fi înghețat aici sus; căciula și mănușile sunt obligatorii.",
+                "en": "The wind can be icy up here; hat and gloves are mandatory."
+              }
+            },
+            {
+              "name": "Natural History Museum of Meteora",
+              "tip_5lang": {
+                "de": "Die Heizung macht diesen Stopp am späten Nachmittag sehr angenehm.",
+                "hu": "A fűtés nagyon kellemessé teszi ezt a megállót késő délután.",
+                "ro": "Încălzirea face ca această oprire de după-amiază să fie foarte plăcută.",
+                "en": "The heating makes this late afternoon stop very pleasant."
+              }
+            },
+            {
+              "name": "Church of the Dormition of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Früher Sonnenuntergang gegen 17:00 Uhr; planen Sie Ihren Weg rechtzeitig.",
+                "hu": "Korai naplemente 17:00 körül; tervezze meg időben az útját.",
+                "ro": "Apus timpuriu în jur de ora 17:00; planificați-vă drumul din timp.",
+                "en": "Early sunset around 5:00 PM; plan your route in time."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist wichtig für die Temperaturunterschiede.",
+              "Die Sonne verschwindet früh hinter den Felsen, es wird schnell kalt.",
+              "Prüfen Sie die Winter-Öffnungszeiten, da einige Klöster früher schließen.",
+              "Die Fernsicht ist an kalten Wintertagen oft am besten."
+            ],
+            "hu": [
+              "A réteges öltözködés fontos a hőmérséklet-különbségek miatt.",
+              "A nap korán eltűnik a sziklák mögött, gyorsan lehűl az idő.",
+              "Ellenőrizze a téli nyitvatartást, mert egyes kolostorok korábban zárnak.",
+              "A távoli kilátás gyakran a hideg téli napokon a legszebb."
+            ],
+            "ro": [
+              "Îmbrăcămintea stratificată este importantă pentru diferențele de temperatură.",
+              "Soarele dispare devreme după stânci, se face frig rapid.",
+              "Verificați programul de iarnă, unele mănăstiri închid mai devreme.",
+              "Vizibilitatea la distanță este adesea cea mai bună în zilele reci de iarnă."
+            ],
+            "en": [
+              "Layered clothing is important due to temperature differences.",
+              "The sun disappears early behind the rocks, it gets cold quickly.",
+              "Check winter opening hours as some monasteries close earlier.",
+              "Long-distance visibility is often best on cold winter days."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -605,6 +805,188 @@
           "Bring a puncture repair kit and an extra water bottle.",
           "The descent from the monasteries can be fast and dangerous, control your speed."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt im Museum, wo Sie trocken in den Tag starten. Der Weg nach Kastraki führt über nasse Straßen, was volle Konzentration erfordert. Mittags bieten die Klosterbesuche Pausen vom Sattel und vom Regen. Trotz des Wetters ist die Fahrt durch das wolkenverhangene Meteora ein unvergessliches, sportliches Erlebnis, das im Zentrum von Kalambaka bei einem warmen Tee endet.",
+            "hu": "A kerékpártúra a múzeumban kezdődik, ahol szárazon indíthatja a napot. A Kastrakiba vezető út nedves aszfalton halad, ami teljes koncentrációt igényel. Délben a kolostorlátogatások pihenőt nyújtanak a nyeregben és az esőben. Az időjárás ellenére a felhős Meteorák közötti tekerés felejthetetlen élmény, amely Kalambaka központjában egy forró tea mellett ér véget.",
+            "ro": "Turul cu bicicleta începe la muzeu, unde porniți ziua la uscat. Drumul spre Kastraki pe șosele ude necesită concentrare maximă. La prânz, vizitele la mănăstiri oferă pauze de la șa și de la ploaie. În ciuda vremii, tura prin Meteora acoperită de nori este o experiență sportivă memorabilă, care se încheie în centrul orașului cu un ceai cald.",
+            "en": "The bike tour starts at the museum, where you begin the day dry. The road to Kastraki involves wet asphalt, requiring full concentration. At noon, monastery visits provide breaks from the saddle and the rain. Despite the weather, riding through the cloud-covered Meteora is an unforgettable athletic experience that ends in central Kalambaka with a hot tea."
+          },
+          "stops": [
+            {
+              "name": "Natural History Museum of Meteora",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im überdachten Bereich am Eingang.",
+                "hu": "Parkolja le kerékpárját a bejáratnál lévő fedett területen.",
+                "ro": "Parcați bicicleta în zona acoperită de la intrare.",
+                "en": "Park your bike in the covered area at the entrance."
+              }
+            },
+            {
+              "name": "Kastraki Village",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf den nassen Pflastersteinen im Dorf.",
+                "hu": "Vigyázzon a fékezéssel a falu nedves macskakövein.",
+                "ro": "Atenție la frânare pe pavajul ud din sat.",
+                "en": "Be careful when braking on wet cobblestones in the village."
+              }
+            },
+            {
+              "name": "Monastery of Rousanou",
+              "tip_5lang": {
+                "de": "Guter Stopp, um die Regenkleidung kurz zu lüften oder zu richten.",
+                "hu": "Jó megálló az esőruházat szellőztetésére vagy igazítására.",
+                "ro": "Oprire bună pentru a aerisi sau ajusta echipamentul de ploaie.",
+                "en": "Good stop to vent or adjust your rain gear."
+              }
+            },
+            {
+              "name": "Psaropetra Viewpoint",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; der Boden kann hier oben sehr rutschig sein.",
+                "hu": "Rövid fotómegálló; a talaj itt fent nagyon csúszós lehet.",
+                "ro": "Scurtă oprire foto; solul poate fi foarte alunecos aici sus.",
+                "en": "Short photo stop; the ground can be very slippery up here."
+              }
+            },
+            {
+              "name": "Theopetra Cave",
+              "tip_5lang": {
+                "de": "Die Höhle bietet natürlichen Schutz vor heftigen Regengüssen.",
+                "hu": "A barlang természetes védelmet nyújt a heves esőzések elől.",
+                "ro": "Peștera oferă protecție naturală împotriva ploilor torențiale.",
+                "en": "The cave offers natural protection from heavy downpours."
+              }
+            },
+            {
+              "name": "Kalambaka Center",
+              "tip_5lang": {
+                "de": "Viele Cafés haben Fahrradständer unter Vordächern.",
+                "hu": "Sok kávézó rendelkezik előtető alatti kerékpártárolóval.",
+                "ro": "Multe cafenele au suporturi de biciclete sub copertine.",
+                "en": "Many cafes have bike racks under awnings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt, sie brauchen auf nasser Straße länger.",
+              "Vermeiden Sie Pfützen, da sie tiefe Schlaglöcher verbergen können.",
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit im Nebel.",
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fékeket, nedves úton hosszabb a féktáv.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek.",
+              "Viseljen neon sárga esőkabátot a jobb láthatóságért a ködben.",
+              "A sárvédő használata ilyen időben kötelező."
+            ],
+            "ro": [
+              "Verificați frânele înainte de plecare, distanța de frânare e mai mare pe ud.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci.",
+              "Purtați o jachetă de ploaie neon pentru vizibilitate mai bună în ceață.",
+              "Apărătorile de noroi sunt obligatorii pe această vreme."
+            ],
+            "en": [
+              "Check your brakes before departing; they take longer on wet roads.",
+              "Avoid puddles as they can hide deep potholes.",
+              "Wear a neon yellow rain jacket for better visibility in the fog.",
+              "Mudguards are a must-have in this weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist ideal für eine Radtour durch das Museum, um den Kreislauf in Schwung zu bringen. Die Auffahrt nach Kastraki hält Sie warm, während die kühle Luft die Sinne schärft. Mittags genießen Sie die klare Sicht von den Klöstern. Die Fahrt zur Theopetra-Höhle führt durch die stille Winterlandschaft, bevor Sie den Tag im belebten Zentrum von Kalambaka bei traditionellen Spezialitäten beenden.",
+            "hu": "A téli reggel ideális a múzeumi látogatáshoz, hogy felpörgesse a keringését. A Kastrakiba vezető emelkedő melegen tartja, miközben a hűvös levegő felfrissít. Délben élvezze a tiszta kilátást a kolostorokból. A Theopetra-barlanghoz vezető út a csendes téli tájon át visz, majd a napot Kalambaka nyüzsgő központjában, hagyományos ételekkel zárhatja.",
+            "ro": "Dimineața de iarnă este ideală pentru o vizită la muzeu pentru a vă pune sângele în mișcare. Urcarea spre Kastraki vă ține de cald, în timp ce aerul rece vă ascute simțurile. La prânz, bucurați-vă de vederea clară de la mănăstiri. Drumul spre peștera Theopetra traversează peisajul liniștit de iarnă, înainte de a încheia ziua în centrul activ din Kalambaka.",
+            "en": "The winter morning is ideal for a museum visit to get your circulation going. The climb to Kastraki keeps you warm while the cool air sharpens your senses. At noon, enjoy the clear views from the monasteries. The ride to Theopetra Cave leads through the quiet winter landscape before ending the day in Kalambaka's lively center with traditional specialties."
+          },
+          "stops": [
+            {
+              "name": "Natural History Museum of Meteora",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die gefrorenen Finger aufzuwärmen.",
+                "hu": "Használja ki a megállót az átfagyott ujjak felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi degetele înghețate.",
+                "en": "Use the stop to warm up your frozen fingers."
+              }
+            },
+            {
+              "name": "Kastraki Village",
+              "tip_5lang": {
+                "de": "In der Sonne radeln ist angenehm, im Schatten der Felsen wird es eisig.",
+                "hu": "Napsütésben biciklizni kellemes, a sziklák árnyékában jeges az idő.",
+                "ro": "Mersul pe bicicletă la soare e plăcut, la umbra stâncilor e ger.",
+                "en": "Cycling in the sun is pleasant; it gets icy in the shadows of the rocks."
+              }
+            },
+            {
+              "name": "Monastery of Rousanou",
+              "tip_5lang": {
+                "de": "Der Wind weht hier oben im Winter oft kräftig; ziehen Sie die Jacke zu.",
+                "hu": "Télen itt gyakran erős a szél; húzza fel a cipzárt a kabátján.",
+                "ro": "Vântul bate adesea tare aici iarna; închideți bine jacheta.",
+                "en": "The wind often blows hard up here in winter; zip up your jacket."
+              }
+            },
+            {
+              "name": "Psaropetra Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht vor Windböen beim Absteigen vom Fahrrad.",
+                "hu": "Vigyázzon a széllökésekre, amikor leszáll a kerékpárról.",
+                "ro": "Atenție la rafalele de vânt când coborâți de pe bicicletă.",
+                "en": "Watch out for wind gusts when getting off the bike."
+              }
+            },
+            {
+              "name": "Theopetra Cave",
+              "tip_5lang": {
+                "de": "In der Höhle ist die Temperatur oft konstanter als draußen im Wind.",
+                "hu": "A barlangban a hőmérséklet gyakran állandóbb, mint kint a szélben.",
+                "ro": "În peșteră temperatura este adesea mai constantă decât afară în vânt.",
+                "en": "The temperature in the cave is often more constant than outside in the wind."
+              }
+            },
+            {
+              "name": "Kalambaka Center",
+              "tip_5lang": {
+                "de": "Suchen Sie sich ein Lokal mit Außenheizung oder Kamin.",
+                "hu": "Keressen egy kültéri fűtéssel vagy kandallóval rendelkező helyet.",
+                "ro": "Căutați un local cu încălzire exterioară sau șemineu.",
+                "en": "Look for a place with outdoor heating or a fireplace."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe und eine Stirnband unter dem Helm sind wichtig.",
+              "Trinken Sie auch bei Kälte genug, am besten warmen Tee in einer Thermoskanne.",
+              "Planen Sie die Tour so, dass Sie vor Sonnenuntergang (17 Uhr) zurück sind.",
+              "Die Reifen sollten guten Grip haben, falls Reif auf der Straße liegt."
+            ],
+            "hu": [
+              "A szélálló kesztyű és a sisak alatti fejpánt elengedhetetlen.",
+              "Hidegben is igyon eleget, legjobb a termoszban tartott meleg tea.",
+              "Tervezze úgy a túrát, hogy naplemente (17 óra) előtt visszaérjen.",
+              "A gumiabroncsoknak jó tapadással kell bírniuk a zúzmarás utakon."
+            ],
+            "ro": [
+              "Mănușile rezistente la vânt și o bentiță sub cască sunt importante.",
+              "Beți suficiente lichide, preferabil ceai cald dintr-un termos.",
+              "Planificați tura astfel încât să vă întoarceți înainte de apus (ora 17).",
+              "Anvelopele trebuie să aibă aderență bună în caz de chiciură pe drum."
+            ],
+            "en": [
+              "Windproof gloves and a headband under the helmet are important.",
+              "Drink enough even in the cold, preferably warm tea in a thermos.",
+              "Plan the tour to be back before sunset (5 PM).",
+              "Tires should have good grip in case there is frost on the road."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -941,6 +1323,224 @@
           "The road is narrow and winding. Drive carefully and watch out for buses and pedestrians.",
           "A smaller car is more agile and easier to park."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Tage sind perfekt für eine Autotour zu den Meteora-Klöstern. Sie starten trocken an der Theopetra-Höhle und fahren bequem von Kloster zu Kloster. Mittags genießen Sie die dramatische Aussicht vom Varlaam, während die Scheibenwischer den Blick freihalten. Ein entspanntes Mittagessen in Kastraki bietet Wärme, bevor Sie den Tag im Museum und in der alten Kirche gemütlich abschließen.",
+            "hu": "Az esős napok tökéletesek egy autós túrához a Meteorákhoz. Szárazon indul a Theopetra-barlangnál, és kényelmesen utazik kolostorról kolostorra. Délben élvezze a drámai kilátást a Varlaamból, miközben az ablaktörlő tisztán tartja a látómezőt. Egy pihentető ebéd Kastrakiban melegséget nyújt, mielőtt a napot a múzeumban és a régi templomban zárná.",
+            "ro": "Zilele ploioase sunt perfecte pentru un tur cu mașina la Meteora. Începeți la uscat la peștera Theopetra și călătoriți confortabil între mănăstiri. La prânz, admirați vederea dramatică de la Varlaam în timp ce ștergătoarele curăță parbrizul. Un prânz relaxat în Kastraki oferă căldură înainte de a încheia ziua la muzeu și la vechea biserică.",
+            "en": "Rainy days are perfect for a car tour of the Meteora monasteries. You start dry at Theopetra Cave and travel comfortably from monastery to monastery. At noon, enjoy the dramatic view from Varlaam while the wipers keep the vision clear. A relaxed lunch in Kastraki provides warmth before concluding the day cozy at the museum and the old church."
+          },
+          "stops": [
+            {
+              "name": "Theopetra Cave",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um nicht nass zu werden.",
+                "hu": "Parkoljon közel a bejárathoz, hogy ne ázzon meg.",
+                "ro": "Parcați aproape de intrare pentru a nu vă uda.",
+                "en": "Park close to the entrance to avoid getting wet."
+              }
+            },
+            {
+              "name": "Monastery of Great Meteoron",
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Regen schlammig sein, Vorsicht beim Aussteigen.",
+                "hu": "A parkoló esőben sáros lehet, vigyázzon a kiszálláskor.",
+                "ro": "Parcarea poate fi noroioasă pe ploaie, atenție la coborârea din mașină.",
+                "en": "The parking lot can be muddy in the rain; be careful when getting out."
+              }
+            },
+            {
+              "name": "Monastery of Varlaam",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regenschirm-Ständer am Eingang des Klosters.",
+                "hu": "Használja a kolostor bejáratánál lévő esernyőtartót.",
+                "ro": "Folosiți suportul de umbrele de la intrarea în mănăstire.",
+                "en": "Use the umbrella stand at the entrance of the monastery."
+              }
+            },
+            {
+              "name": "Psaropetra Viewpoint",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht direkt aus dem warmen Auto.",
+                "hu": "Élvezze a kilátást közvetlenül a meleg autóból.",
+                "ro": "Admirați vederea direct din mașina călduroasă.",
+                "en": "Enjoy the view directly from the warm car."
+              }
+            },
+            {
+              "name": "Monastery of Rousanou",
+              "tip_5lang": {
+                "de": "Kleine Gruppen im Inneren machen den Besuch bei Regen angenehmer.",
+                "hu": "A benti kis csoportok kellemesebbé teszik a látogatást esőben.",
+                "ro": "Grupurile mici din interior fac vizita mai plăcută pe ploaie.",
+                "en": "Small groups inside make the visit more pleasant in the rain."
+              }
+            },
+            {
+              "name": "Kastraki Village (for lunch)",
+              "tip_5lang": {
+                "de": "Viele Restaurants haben überdachte Parkplätze oder liegen direkt an der Straße.",
+                "hu": "Sok étterem rendelkezik fedett parkolóval vagy közvetlenül az út mellett van.",
+                "ro": "Multe restaurante au parcări acoperite sau sunt chiar la stradă.",
+                "en": "Many restaurants have covered parking or are right on the road."
+              }
+            },
+            {
+              "name": "Natural History Museum of Meteora",
+              "tip_5lang": {
+                "de": "Ein idealer Indoor-Stopp für den späten Nachmittag.",
+                "hu": "Ideális fedett megálló késő délutánra.",
+                "ro": "O oprire ideală la interior pentru după-amiaza târzie.",
+                "en": "An ideal indoor stop for the late afternoon."
+              }
+            },
+            {
+              "name": "Church of the Dormition of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zum Kircheneingang.",
+                "hu": "Rövid séta a parkolótól a templom bejáratáig.",
+                "ro": "Scurt drum pe jos de la parcare până la intrarea în biserică.",
+                "en": "Short walk from the parking lot to the church entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig auf den kurvigen Bergstraßen, sie können rutschig sein.",
+              "Halten Sie die Scheibenheizung bereit, um das Beschlagen zu verhindern.",
+              "Ein Regenschirm pro Person im Auto ist bei den kurzen Wegen Gold wert.",
+              "Planen Sie Pausen in Cafés ein, um die Heizung kurz auszuschalten."
+            ],
+            "hu": [
+              "Vezessen óvatosan a kanyargós hegyi utakon, mert csúszósak lehetnek.",
+              "Tartsa készenlétben a szélvédőfűtést a párásodás megelőzésére.",
+              "Személyenként egy esernyő az autóban aranyat ér a rövid utakon.",
+              "Tervezzen szüneteket kávézókban, hogy kicsit kikapcsolhassa a fűtést."
+            ],
+            "ro": [
+              "Conduceți cu atenție pe drumurile montane șerpuite, pot fi alunecoase.",
+              "Folosiți degivrarea parbrizului pentru a preveni aburirea.",
+              "O umbrelă pentru fiecare persoană în mașină face minuni la drumurile scurte.",
+              "Planificați pauze la cafenele pentru a opri scurt căldura."
+            ],
+            "en": [
+              "Drive carefully on the winding mountain roads; they can be slippery.",
+              "Keep the windshield defroster ready to prevent fogging.",
+              "One umbrella per person in the car is worth its weight in gold.",
+              "Plan breaks in cafes to turn off the heating briefly."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag im Auto ermöglicht es Ihnen, die gesamte Meteora-Region komfortabel zu erkunden. Morgens ist es in der Theopetra-Höhle windgeschützt. Mittags bietet die Fahrt zwischen den Klöstern traumhafte Ausblicke auf schneebedeckte Gipfel in der Ferne. Das warme Mittagessen in Kastraki stärkt Sie für den Nachmittag, bevor Sie das Museum besuchen und den Sonnenuntergang an der alten Kirche genießen.",
+            "hu": "Egy téli nap az autóban lehetővé teszi a teljes Meteora-régió kényelmes felfedezését. Reggel a Theopetra-barlang védett a széltől. Délben a kolostorok közötti út álomszerű kilátást nyújt a távoli havas csúcsokra. A meleg ebéd Kastrakiban erőt ad a délutánra, mielőtt meglátogatná a múzeumot és élvezné a naplementét a régi templomnál.",
+            "ro": "O zi de iarnă cu mașina vă permite să explorați confortabil întreaga regiune Meteora. Dimineața, peștera Theopetra este ferită de vânt. La prânz, drumul între mănăstiri oferă vederi de vis spre vârfurile înzăpezite din depărtare. Prânzul cald în Kastraki vă întărește pentru după-amiază, înainte de muzeu și apusul la biserică.",
+            "en": "A winter day in the car allows you to explore the entire Meteora region comfortably. In the morning, Theopetra Cave is sheltered from the wind. At noon, the drive between monasteries offers dreamlike views of snow-capped peaks in the distance. A warm lunch in Kastraki strengthens you for the afternoon before visiting the museum and enjoying the sunset at the old church."
+          },
+          "stops": [
+            {
+              "name": "Theopetra Cave",
+              "tip_5lang": {
+                "de": "In der Höhle ist es oft wärmer als draußen im Winterwind.",
+                "hu": "A barlangban gyakran melegebb van, mint kint a téli szélben.",
+                "ro": "În peșteră este adesea mai cald decât afară în vântul de iarnă.",
+                "en": "It's often warmer inside the cave than outside in the winter wind."
+              }
+            },
+            {
+              "name": "Monastery of Great Meteoron",
+              "tip_5lang": {
+                "de": "Der Wind auf dem Gipfel-Parkplatz kann eisig sein.",
+                "hu": "A szél a csúcson lévő parkolóban fagyos lehet.",
+                "ro": "Vântul în parcarea din vârf poate fi tăios.",
+                "en": "The wind at the summit parking lot can be icy."
+              }
+            },
+            {
+              "name": "Monastery of Varlaam",
+              "tip_5lang": {
+                "de": "Die Felsen speichern im Winter wenig Wärme, halten Sie die Jacke an.",
+                "hu": "A sziklák télen kevés hőt tárolnak, tartsa magán a kabátot.",
+                "ro": "Stâncile rețin puțină căldură iarna, țineți jacheta pe dvs.",
+                "en": "The rocks store little heat in winter; keep your jacket on."
+              }
+            },
+            {
+              "name": "Psaropetra Viewpoint",
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für eine extreme Fernsicht.",
+                "hu": "A tiszta téli levegő rendkívüli távoli kilátást biztosít.",
+                "ro": "Aerul curat de iarnă asigură o vizibilitate extremă la distanță.",
+                "en": "The clear winter air provides extreme long-distance visibility."
+              }
+            },
+            {
+              "name": "Monastery of Rousanou",
+              "tip_5lang": {
+                "de": "Die kleine Kapelle ist im Winter ein gemütlicher Ort der Besinnung.",
+                "hu": "A kis kápolna télen a csendes elmélyülés meghitt helye.",
+                "ro": "Mica capelă este iarna un loc primitor pentru reflecție.",
+                "en": "The small chapel is a cozy place for reflection in winter."
+              }
+            },
+            {
+              "name": "Kastraki Village (for lunch)",
+              "tip_5lang": {
+                "de": "Probieren Sie herzhafte Eintöpfe, die in der Kälte besonders gut schmecken.",
+                "hu": "Próbálja ki a kiadós egytálételeket, amelyek a hidegben különösen jól esnek.",
+                "ro": "Încercați tocănițele consistente, care sunt delicioase pe timp de frig.",
+                "en": "Try hearty stews, which taste especially good in the cold."
+              }
+            },
+            {
+              "name": "Natural History Museum of Meteora",
+              "tip_5lang": {
+                "de": "Aufgewärmte Ausstellungsräume machen den Besuch sehr komfortabel.",
+                "hu": "A fűtött kiállítótermek nagyon kényelmessé teszik a látogatást.",
+                "ro": "Sălile de expoziție încălzite fac vizita foarte confortabilă.",
+                "en": "Heated exhibition rooms make the visit very comfortable."
+              }
+            },
+            {
+              "name": "Church of the Dormition of the Virgin Mary",
+              "tip_5lang": {
+                "de": "Die Abenddämmerung beginnt früh, nutzen Sie das blaue Licht.",
+                "hu": "Az alkonyat korán kezdődik, használja ki a kék óra fényeit.",
+                "ro": "Amurgul începe devreme, profitați de lumina albastră.",
+                "en": "Twilight starts early; take advantage of the blue hour light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Überprüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Straßen werden geräumt, aber schattige Stellen können glatt bleiben.",
+              "Lassen Sie den Motor nicht unnötig laufen, nutzen Sie die Sitzheizung.",
+              "Ein Thermosbecher mit Kaffee im Auto sorgt für Gemütlichkeit."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Az utakat takarítják, de az árnyékos helyek csúszósak maradhatnak.",
+              "Ne járassa feleslegesen a motort, használja az ülésfűtést.",
+              "Egy termosz kávé az autóban fokozza a komfortérzetet."
+            ],
+            "ro": [
+              "Verificați antigelul în instalația de spălare a parbrizului.",
+              "Drumurile sunt curățate, dar locurile umbrite pot rămâne alunecoase.",
+              "Nu lăsați motorul pornit inutil, folosiți încălzirea în scaune.",
+              "O cană termos cu cafea în mașină asigură confortul."
+            ],
+            "en": [
+              "Check the antifreeze in the windshield washer system.",
+              "Roads are cleared, but shaded spots can remain slippery.",
+              "Don't run the engine unnecessarily; use the seat heating.",
+              "A thermos cup with coffee in the car adds to the coziness."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1209,6 +1809,188 @@
           "Keep an eye on the time so you don't miss the last bus back to Kalambaka.",
           "The bus can get very crowded during high season. Be at the stop early."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Tage in Kalambaka lassen sich gut mit dem lokalen Bus bewältigen. Sie starten im Zentrum und fahren direkt zum Großen Meteoron. Mittags bieten die Buswartehäuschen nur begrenzten Schutz, planen Sie die Zeiten genau. Ein langes Mittagessen in Kastraki lässt den stärksten Regen vorüberziehen, bevor Sie am Nachmittag das Museum besuchen, wo Sie im Trockenen bleiben.",
+            "hu": "Az esős napok Kalambakában jól kezelhetők a helyi busszal. A központból indulva közvetlenül a Nagy Meteórához utazhat. Délben a buszmegállók csak korlátozott védelmet nyújtanak, pontosan tervezze meg az időt. Egy hosszú ebéd Kastrakiban segít átvészelni a heves esőt, mielőtt délután a múzeumba látogatna, ahol szárazon maradhat.",
+            "ro": "Zilele ploioase în Kalambaka pot fi gestionate bine cu autobuzul local. Porniți din centru și mergeți direct la Marele Meteor. La prânz, stațiile de autobuz oferă protecție limitată, planificați timpii cu precizie. Un prânz lung în Kastraki lasă cea mai mare ploaie să treacă, înainte de a vizita muzeul după-amiaza.",
+            "en": "Rainy days in Kalambaka can be managed well with the local bus. Starting in the center, you go directly to the Great Meteoron. At noon, bus stops offer limited shelter, so plan your timing precisely. A long lunch in Kastraki lets the heaviest rain pass before visiting the museum in the afternoon, where you stay dry."
+          },
+          "stops": [
+            {
+              "name": "Kalambaka Center (Bus Station)",
+              "tip_5lang": {
+                "de": "Warten Sie im Café nebenan auf den Bus, um trocken zu bleiben.",
+                "hu": "Várjon a szomszédos kávézóban a buszra, hogy száraz maradjon.",
+                "ro": "Așteptați autobuzul în cafeneaua de alături pentru a rămâne uscați.",
+                "en": "Wait for the bus in the cafe next door to stay dry."
+              }
+            },
+            {
+              "name": "Monastery of Great Meteoron",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle ist ungeschützt; halten Sie den Schirm bereit.",
+                "hu": "A buszmegálló nem fedett; tartsa készenlétben az esernyőt.",
+                "ro": "Stația de autobuz este neprotejată; țineți umbrela pregătită.",
+                "en": "The bus stop is unsheltered; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Monastery of Varlaam",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Bus zum Klostereingang bei starkem Regen.",
+                "hu": "Rövid futás a busztól a kolostor bejáratáig heves esőben.",
+                "ro": "Scurt sprint de la autobuz la intrarea mănăstirii în caz de ploaie torențială.",
+                "en": "Short sprint from the bus to the monastery entrance during heavy rain."
+              }
+            },
+            {
+              "name": "Monastery of Rousanou",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Busfahrplan, da bei Regen Verspätungen möglich sind.",
+                "hu": "Ellenőrizze a menetrendet, mert esőben előfordulhatnak késések.",
+                "ro": "Verificați programul autobuzelor, pot apărea întârzieri pe ploaie.",
+                "en": "Check the bus schedule as delays are possible in the rain."
+              }
+            },
+            {
+              "name": "Kastraki Village (for lunch)",
+              "tip_5lang": {
+                "de": "Die meisten Tavernen liegen nur wenige Schritte von der Haltestelle entfernt.",
+                "hu": "A legtöbb taverna csak néhány lépésre van a megállótól.",
+                "ro": "Majoritatea tavernclor sunt la doar câțiva pași de stație.",
+                "en": "Most taverns are just a few steps away from the stop."
+              }
+            },
+            {
+              "name": "Natural History Museum of Meteora",
+              "tip_5lang": {
+                "de": "Der Bus hält fast direkt vor der Tür, ideal bei Regen.",
+                "hu": "A busz szinte közvetlenül az ajtó előtt áll meg, ideális esőben.",
+                "ro": "Autobuzul oprește aproape direct în fața ușii, ideal pe ploaie.",
+                "en": "The bus stops almost directly in front of the door, ideal in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie die Bus-App oder fotografieren Sie den Plan an der Station.",
+              "Halten Sie Kleingeld für das Ticket bereit, falls es beim Einsteigen schnell gehen muss.",
+              "Tragen Sie wasserfeste Schuhe für die Wege zwischen Haltestelle und Klöstern.",
+              "Bei starkem Regen kann ein Taxi eine gute Alternative zum Warten sein."
+            ],
+            "hu": [
+              "Töltse le a busz-alkalmazást vagy fotózza le a menetrendet az állomáson.",
+              "Legyen nálad aprópénz a jegyhez, ha gyorsan kell felszállni.",
+              "Viseljen vízálló cipőt a megálló és a kolostorok közötti utakhoz.",
+              "Heves esőben a taxi jó alternatíva lehet a várakozás helyett."
+            ],
+            "ro": [
+              "Descărcați aplicația de transport sau fotografiați orarul la stație.",
+              "Aveți pregătit mărunțiș pentru bilet dacă trebuie să urcați rapid.",
+              "Purtați încălțăminte impermeabilă pentru drumul între stație și mănăstiri.",
+              "Pe ploaie torențială, un taxi poate fi o alternativă bună la așteptare."
+            ],
+            "en": [
+              "Download the bus app or photograph the schedule at the station.",
+              "Have small change ready for the ticket in case boarding needs to be quick.",
+              "Wear waterproof shoes for the walks between the stop and monasteries.",
+              "In heavy rain, a taxi can be a good alternative to waiting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit öffentlichen Verkehrsmitteln in Meteora erfordert etwas Planung, ist aber sehr lohnenswert. Der Bus bringt Sie morgens schnell in die Höhe zum Großen Meteoron. Mittags nutzen Sie die Fahrtzeiten, um sich aufzuwärmen. Nach einem herzhaften Essen in Kastraki ist der Besuch im Museum ein warmer Höhepunkt, bevor Sie den Bus zurück ins Zentrum von Kalambaka nehmen.",
+            "hu": "A téli nap tömegközlekedéssel a Meteoráknál némi tervezést igényel, de megéri. A busz reggel gyorsan felviszi a magasba, a Nagy Meteórához. Délben használja ki az utazási időt a felmelegedésre. Egy kiadós ebéd után Kastrakiban a múzeumlátogatás meleg fénypontja a napnak, mielőtt visszabuszozna Kalambaka központjába.",
+            "ro": "O zi de iarnă cu transportul public la Meteora necesită planificare, dar merită. Autobuzul vă duce rapid dimineața la înălțime, la Marele Meteor. La prânz, folosiți timpul de parcurs pentru a vă încălzi. După un prânz consistent în Kastraki, vizita la muzeu este un punct culminant călduros, înainte de a lua autobuzul spre centru.",
+            "en": "A winter day using public transit in Meteora requires some planning but is very rewarding. The bus takes you quickly to the heights of the Great Meteoron in the morning. At noon, use travel times to warm up. After a hearty meal in Kastraki, the museum visit is a warm highlight before taking the bus back to Kalambaka's center."
+          },
+          "stops": [
+            {
+              "name": "Kalambaka Center (Bus Station)",
+              "tip_5lang": {
+                "de": "Informieren Sie sich über die reduzierten Winterfahrpläne.",
+                "hu": "Tájékozódjon a ritkább téli menetrendről.",
+                "ro": "Informați-vă despre orarul de iarnă redus.",
+                "en": "Check for the reduced winter bus schedules."
+              }
+            },
+            {
+              "name": "Monastery of Great Meteoron",
+              "tip_5lang": {
+                "de": "Zieh dich warm an, der Wind an der Haltestelle kann schneidend sein.",
+                "hu": "Öltözzön melegen, a megállóban metsző lehet a szél.",
+                "ro": "Îmbrăcați-vă gros, vântul în stație poate fi tăios.",
+                "en": "Dress warmly; the wind at the stop can be biting."
+              }
+            },
+            {
+              "name": "Monastery of Varlaam",
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt durch die karge Winterlandschaft.",
+                "hu": "Élvezze az utazást a kopár téli tájon át.",
+                "ro": "Bucurați-vă de drumul prin peisajul arid de iarnă.",
+                "en": "Enjoy the ride through the stark winter landscape."
+              }
+            },
+            {
+              "name": "Monastery of Rousanou",
+              "tip_5lang": {
+                "de": "Der Bus ist oft die wärmste Option, um von A nach B zu kommen.",
+                "hu": "Gyakran a busz a legmelegebb opció az A-ból B-be jutáshoz.",
+                "ro": "Autobuzul este adesea cea mai călduroasă opțiune pentru a merge de la A la B.",
+                "en": "The bus is often the warmest option for getting from A to B."
+              }
+            },
+            {
+              "name": "Kastraki Village (for lunch)",
+              "tip_5lang": {
+                "de": "Kürzere Wartezeiten im Winter, da weniger Touristen unterwegs sind.",
+                "hu": "Rövidebb várakozási idő télen, mert kevesebb a turista.",
+                "ro": "Timpi de așteptare mai mici iarna, fiind mai puțini turiști.",
+                "en": "Shorter wait times in winter as there are fewer tourists."
+              }
+            },
+            {
+              "name": "Natural History Museum of Meteora",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Zeit bis zum nächsten Bus im Warmen zu verbringen.",
+                "hu": "Tökéletes hely a következő buszig hátralévő idő melegben töltésére.",
+                "ro": "Locul perfect pentru a petrece timpul până la următorul autobuz la căldură.",
+                "en": "Perfect place to spend time until the next bus in the warmth."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse fahren im Winter seltener, prüfen Sie den Plan genau.",
+              "Tragen Sie Schichten, im Bus ist es warm, draußen oft eisig.",
+              "Ein warmer Snack an der Station überbrückt Wartezeiten.",
+              "Sitzplätze sind im Winter fast immer garantiert."
+            ],
+            "hu": [
+              "Télen ritkábban járnak a buszok, pontosan ellenőrizze a tervet.",
+              "Öltözzön rétegesen, a buszon meleg van, kint gyakran fagyos.",
+              "Egy meleg snack az állomáson segít átvészelni a várakozást.",
+              "Télen szinte mindig garantált az ülőhely."
+            ],
+            "ro": [
+              "Autobuzele circulă mai rar iarna, verificați orarul cu atenție.",
+              "Îmbrăcați-vă în straturi, în autobuz e cald, afară e adesea ger.",
+              "O gustare caldă la stație ajută la trecerea timpului de așteptare.",
+              "Locurile pe scaun sunt aproape mereu garantate iarna."
+            ],
+            "en": [
+              "Buses run less frequently in winter; check the schedule carefully.",
+              "Wear layers; it's warm on the bus but often icy outside.",
+              "A warm snack at the station helps bridge waiting times.",
+              "Seats are almost always guaranteed in winter."
+            ]
+          }
+        }
       }
     }
   }

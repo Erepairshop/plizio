@@ -379,6 +379,214 @@
           "Many shops and museums have a lunch break (siesta), so plan accordingly.",
           "Experience the tapas culture: you get a free tapa with every drink you order."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt unter den schützenden Arkaden der Plaza Mayor, während der Regen auf das Kopfsteinpflaster peitscht. Die Kathedrale bietet einen prachtvollen, trockenen Rückzugsort zur Besichtigung.\n\nMittags führt der Weg zu den römischen Mauern. Trotz Nässe ist der Rundgang auf der UNESCO-Anlage möglich, erfordert aber Trittsicherheit auf den glatten Granitstufen.\n\nDer Nachmittag steht im Zeichen der Museen. Das Domus do Mitreo und das Provinzmuseum sind ideale Orte, um tief in die Geschichte einzutauchen, ohne nass zu werden.\n\nZum Abschluss führt der Weg hinunter zum Fluss. Der Blick auf die römische Brücke im Regen hat eine besondere, melancholische Atmosphäre, bevor der Tag im Park endet.",
+            "hu": "A délelőtt a Plaza Mayor védelmet nyújtó árkádjai alatt indul, miközben az eső a macskaköveket veri. A katedrális pompás és száraz menedéket kínál a nézelődéshez.\n\nDélben az út a római falakhoz vezet. A nedvesség ellenére az UNESCO-helyszín bejárható, de a csúszós gránitlépcsőkön óvatosságot igényel a haladás.\n\nA délután a múzeumoké. A Domus do Mitreo és a Tartományi Múzeum ideális helyszínek a történelemben való elmélyüléshez anélkül, hogy bőrig áznánk.\n\nZárásként az út levezet a folyóhoz. A római híd látványa az esőben különleges, melankolikus hangulatot áraszt, mielőtt a nap a parkban véget érne.",
+            "ro": "Dimineața începe sub arcadele protectoare din Plaza Mayor, în timp ce ploaia bate pe pavaj. Catedrala oferă un refugiu magnific și uscat pentru vizitare.\n\nLa prânz, drumul duce la zidurile romane. În ciuda umidității, circuitul pe situl UNESCO este posibil, dar necesită atenție pe treptele de granit alunecoase.\n\nDupă-amiaza este dedicată muzeelor. Domus do Mitreo și Muzeul Provincial sunt locuri ideale pentru a explora istoria fără a te uda.\n\nLa final, drumul coboară spre râu. Vederea podului roman în ploaie are o atmosferă specială, melancolică, înainte ca ziua să se încheie în parc.",
+            "en": "The morning begins under the protective arcades of Plaza Mayor as rain beats down on the cobblestones. The Cathedral offers a grand, dry sanctuary for exploration.\n\nAt midday, the path leads to the Roman walls. Despite the wetness, the UNESCO loop is accessible but requires steady footing on the slick granite steps.\n\nThe afternoon is focused on museums. Domus do Mitreo and the Provincial Museum are ideal spots to dive into history without getting soaked.\n\nTo wrap up, the route heads down to the river. The view of the Roman Bridge in the rain holds a uniquely melancholic atmosphere before the day ends in the park."
+          },
+          "stops": [
+            {
+              "name": "Main Square (Plaza Mayor)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkadengänge rund um den Platz, um trocken zu bleiben.",
+                "hu": "Használja a tér körüli árkádos folyosókat, hogy száraz maradjon.",
+                "ro": "Folosiți arcadele din jurul pieței pentru a rămâne uscat.",
+                "en": "Use the arcaded walkways around the square to stay dry."
+              }
+            },
+            {
+              "name": "Lugo Cathedral",
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine ausführliche Innenbesichtigung bei starkem Regen.",
+                "hu": "Tökéletes helyszín egy alapos belső látogatáshoz heves esőzéskor.",
+                "ro": "Locul perfect pentru o vizită interioară detaliată în caz de ploaie torențială.",
+                "en": "Perfect place for a detailed indoor visit during heavy rain."
+              }
+            },
+            {
+              "name": "Roman Walls of Lugo",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Aufstiegsrampen, der Granit kann bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat a feljárókon, a gránit nedvesen nagyon csúszós lehet.",
+                "ro": "Atenție pe rampele de acces, granitul poate fi foarte alunecos când este ud.",
+                "en": "Be careful on the access ramps; the granite can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Domus do Mitreo",
+              "tip_5lang": {
+                "de": "Diese unterirdische Ausgrabungsstätte ist komplett überdacht und trocken.",
+                "hu": "Ez a föld alatti ásatási terület teljesen fedett és száraz.",
+                "ro": "Acest sit arheologic subteran este complet acoperit și uscat.",
+                "en": "This underground archaeological site is completely covered and dry."
+              }
+            },
+            {
+              "name": "Provincial Museum of Lugo",
+              "tip_5lang": {
+                "de": "Besuchen Sie den Kreuzgang; er bietet Schutz vor dem Wetter bei gutem Licht.",
+                "hu": "Látogassa meg a kolostorfolyosót; védelmet nyújt az időjárás ellen jó fényviszonyok mellett.",
+                "ro": "Vizitați claustrul; oferă protecție împotriva vremii și lumină bună.",
+                "en": "Visit the cloister; it offers shelter from the weather with good light."
+              }
+            },
+            {
+              "name": "Roman Bridge",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; der Weg zum Fluss ist bei Regen oft windanfällig.",
+                "hu": "Rövid fotómegálló; a folyóhoz vezető út esőben gyakran szeles.",
+                "ro": "Oprire scurtă pentru poze; drumul spre râu este adesea expus vântului pe ploaie.",
+                "en": "Quick photo stop; the path to the river is often windy during rain."
+              }
+            },
+            {
+              "name": "Rosalía de Castro Park",
+              "tip_5lang": {
+                "de": "Die dichten Bäume bieten einen gewissen natürlichen Regenschutz.",
+                "hu": "A sűrű lombozat bizonyos mértékű természetes védelmet nyújt az eső ellen.",
+                "ro": "Copacii deși oferă o anumită protecție naturală împotriva ploii.",
+                "en": "The dense tree canopy offers some natural protection from the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Lugo hat viele Arkadenstraßen (Rúa Nova), die ideal für Regentage sind.",
+              "Die römische Mauer hat keinen Unterstand; Regenschirm fest festhalten.",
+              "Nutzen Sie die Zeit für das Provinzmuseum, eines der besten Galiciens.",
+              "Wasserdichtes Schuhwerk ist wegen der vielen Granitpflaster Pflicht.",
+              "Cafés an der Plaza de Santa María bieten gemütliche Rückzugsorte."
+            ],
+            "hu": [
+              "Lugo sok árkádos utcával (Rúa Nova) rendelkezik, amelyek ideálisak esős napokon.",
+              "A római falon nincs fedezék; erősen fogja az esernyőt a szélben.",
+              "Használja ki az időt a Tartományi Múzeumra, Galícia egyik legjobbja.",
+              "Vízálló lábbeli kötelező a sok gránitburkolat miatt.",
+              "A Plaza de Santa María kávézói hangulatos menedéket nyújtanak."
+            ],
+            "ro": [
+              "Lugo are multe străzi cu arcade (Rúa Nova), ideale pentru zilele ploioase.",
+              "Zidul roman nu are adăpost; țineți bine umbrela din cauza vântului.",
+              "Profitați de timp pentru Muzeul Provincial, unul dintre cele mai bune din Galicia.",
+              "Încălțămintea impermeabilă este obligatorie din cauza pavajului de granit.",
+              "Cafenelele din Plaza de Santa María oferă refugii primitoare."
+            ],
+            "en": [
+              "Lugo has many arcaded streets (Rúa Nova) that are ideal for rainy days.",
+              "The Roman wall has no overhead shelter; hold your umbrella firmly in the wind.",
+              "Dedicate extra time to the Provincial Museum, one of Galicia's best.",
+              "Waterproof footwear is essential due to the extensive granite paving.",
+              "Cafes at Plaza de Santa María provide cozy indoor retreats."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen an der Plaza Mayor beginnt mit dem Duft von gerösteten Kastanien. Die Kathedrale wirkt in der klaren Winterluft besonders majestätisch.\n\nZur Mittagszeit bietet der Rundgang auf der Stadtmauer weite Ausblicke über das neblige Umland. Die tiefstehende Sonne taucht den antiken Stein in warmes Gold.\n\nNachmittags laden die Museen zum Aufwärmen ein. Die römischen Ruinen im Domus do Mitreo sind bei künstlicher Beleuchtung besonders atmosphärisch.\n\nWenn die Dämmerung gegen 18:00 Uhr einsetzt, wird die römische Brücke beleuchtet. Ein kurzer Spaziergang durch den winterlichen Park rundet den Tag ab.",
+            "hu": "A hűvös téli reggel a Plaza Mayoron sült gesztenye illatával indul. A katedrális különösen fenséges a tiszta téli levegőben.\n\nDélidőben a városfalon tett séta széles kilátást nyújt a ködös környékre. Az alacsonyan járó nap meleg aranyfénybe öltözteti az antik köveket.\n\nDélután a múzeumok hívogatnak melegedni. A Domus do Mitreo római romjai a mesterséges megvilágításban különösen hangulatosak.\n\nAmikor 18:00 körül leszáll az alkony, a római hidat kivilágítják. Egy rövid séta a téli parkban teszi teljessé a napot.",
+            "ro": "O dimineață răcoroasă de iarnă în Plaza Mayor începe cu mirosul de castane coapte. Catedrala pare deosebit de maiestuoasă în aerul curat al iernii.\n\nLa prânz, plimbarea pe zidurile orașului oferă vederi largi asupra împrejurimilor cețoase. Soarele jos îmbracă piatra antică în auriu cald.\n\nDupă-amiaza, muzeele vă invită la căldură. Ruinele romane din Domus do Mitreo sunt deosebit de atmosferice sub lumina artificială.\n\nCând amurgul se lasă în jur de ora 18:00, podul roman este iluminat. O scurtă plimbare prin parcul de iarnă completează ziua.",
+            "en": "A crisp winter morning at Plaza Mayor starts with the scent of roasted chestnuts. The Cathedral looks particularly majestic in the clear winter air.\n\nAt midday, the walk along the city walls offers sweeping views of the misty surroundings. The low sun bathes the ancient stones in warm gold.\n\nIn the afternoon, the museums invite you to warm up. The Roman ruins in Domus do Mitreo are especially atmospheric under artificial lighting.\n\nAs dusk sets in around 18:00, the Roman Bridge is illuminated. A short walk through the winter park rounds off the day perfectly."
+          },
+          "stops": [
+            {
+              "name": "Main Square (Plaza Mayor)",
+              "tip_5lang": {
+                "de": "Genießen Sie eine heiße Schokolade in den Cafés unter den Arkaden.",
+                "hu": "Élvezzen egy forró csokoládét az árkádok alatti kávézókban.",
+                "ro": "Savurați o ciocolată caldă în cafenelele de sub arcade.",
+                "en": "Enjoy a hot chocolate in the cafes under the arcades."
+              }
+            },
+            {
+              "name": "Lugo Cathedral",
+              "tip_5lang": {
+                "de": "Achten Sie auf die kühlen Innentemperaturen; warme Kleidung ist ratsam.",
+                "hu": "Ügyeljen a hűvös belső hőmérsékletre; meleg ruházat ajánlott.",
+                "ro": "Atenție la temperaturile scăzute din interior; se recomandă haine groase.",
+                "en": "Note the cool indoor temperatures; warm clothing is advised."
+              }
+            },
+            {
+              "name": "Roman Walls of Lugo",
+              "tip_5lang": {
+                "de": "Der Wind auf der Mauer kann schneidend sein; Schal und Mütze einpacken.",
+                "hu": "A szél a falon metsző lehet; sálat és sapkát készítsen be.",
+                "ro": "Vântul de pe zid poate fi tăios; luați fular și căciulă.",
+                "en": "The wind on the wall can be biting; pack a scarf and hat."
+              }
+            },
+            {
+              "name": "Domus do Mitreo",
+              "tip_5lang": {
+                "de": "Gut beheizter Ausstellungsbereich, ideal zur Aufwärmpause.",
+                "hu": "Jól fűtött kiállítótér, ideális egy melegedő szünetre.",
+                "ro": "Zonă de expoziție bine încălzită, ideală pentru o pauză de încălzire.",
+                "en": "Well-heated exhibition area, ideal for a warm-up break."
+              }
+            },
+            {
+              "name": "Provincial Museum of Lugo",
+              "tip_5lang": {
+                "de": "Die historischen Säle sind im Winter stimmungsvoll beleuchtet.",
+                "hu": "A történelmi termek télen hangulatos megvilágítást kapnak.",
+                "ro": "Sălile istorice sunt luminate atmosferic în timpul iernii.",
+                "en": "The historical halls are atmospherically lit during winter."
+              }
+            },
+            {
+              "name": "Roman Bridge",
+              "tip_5lang": {
+                "de": "Besuch kurz vor Sonnenuntergang (ca. 17:45) für die beste Lichtstimmung.",
+                "hu": "Látogatás közvetlenül naplemente előtt (kb. 17:45) a legjobb fényekért.",
+                "ro": "Vizitați chiar înainte de apus (aprox. 17:45) pentru cea mai bună lumină.",
+                "en": "Visit just before sunset (approx. 17:45) for the best lighting."
+              }
+            },
+            {
+              "name": "Rosalía de Castro Park",
+              "tip_5lang": {
+                "de": "Die Teiche können morgens mit einer dünnen Eisschicht bedeckt sein.",
+                "hu": "A tavakat reggelente vékony jégréteg boríthatja.",
+                "ro": "Iazurile pot fi acoperite cu un strat subțire de gheață dimineața.",
+                "en": "The ponds may be covered with a thin layer of ice in the mornings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Wintertage in Lugo sind kurz; planen Sie Außenaktivitäten vor 17 Uhr.",
+              "Probieren Sie 'Caldo Gallego', eine wärmende lokale Suppe.",
+              "Die Stadtmauer ist nachts beleuchtet und auch im Winter begehbar.",
+              "Die Luftfeuchtigkeit lässt die Kälte oft beißender erscheinen.",
+              "Viele Kirchen haben im Winter eingeschränkte Heizung."
+            ],
+            "hu": [
+              "A téli nappalok rövidek Lugóban; tervezze a kinti programokat 17 óra elé.",
+              "Kóstolja meg a 'Caldo Gallego'-t, egy melengető helyi levest.",
+              "A városfal éjjel ki van világítva és télen is bejárható.",
+              "A páratartalom miatt a hideg gyakran metszőbbnek tűnik.",
+              "Sok templomban télen korlátozott a fűtés."
+            ],
+            "ro": [
+              "Zilele de iarnă în Lugo sunt scurte; planificați activitățile externe înainte de ora 17.",
+              "Încercați 'Caldo Gallego', o supă locală care vă va încălzi.",
+              "Zidul orașului este iluminat noaptea și accesibil și iarna.",
+              "Umiditatea face adesea ca frigul să pară mai pătrunzător.",
+              "Multe biserici au încălzire limitată pe timpul iernii."
+            ],
+            "en": [
+              "Winter days in Lugo are short; plan outdoor activities before 5 PM.",
+              "Try 'Caldo Gallego', a warming local soup.",
+              "The city wall is illuminated at night and remains accessible in winter.",
+              "The humidity often makes the cold feel more biting.",
+              "Many churches have limited heating during the winter months."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -752,6 +960,214 @@
           "Bring a good lock to secure your bike while you explore the sights.",
           "A water bottle is essential to stay hydrated."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag startet an der römischen Brücke. Der Regen macht die Granitsteine rutschig, was volle Konzentration beim Anfahren erfordert.\n\nNach dem Besuch der Bäder geht es hinauf zum Rosalía-Park. Die Wege sind fest, aber Pfützen bilden sich schnell in den Senken.\n\nMittags erreichen wir die Stadtmauer. Das Radfahren direkt auf der Mauer ist nicht gestattet, die Umfahrung bietet jedoch tolle Perspektiven.\n\nDer Nachmittag endet im Provinzmuseum. Das Fahrrad kann in der Nähe sicher und hoffentlich unter einem Vordach geparkt werden.",
+            "hu": "A nap a római hídnál indul. Az eső csúszóssá teszi a gránitköveket, ami teljes koncentrációt igényel az indulásnál.\n\nA fürdők meglátogatása után irány a Rosalía park. Az utak stabilak, de a mélyedésekben gyorsan összegyűlnek a tócsák.\n\nDélben elérjük a városfalat. A kerékpározás közvetlenül a falon nem megengedett, de a fal menti körút remek perspektívákat kínál.\n\nA délután a Tartományi Múzeumban ér véget. A kerékpárt a közelben biztonságban, remélhetőleg egy előtető alatt lehet leállítani.",
+            "ro": "Ziua începe la podul roman. Ploaia face pietrele de granit alunecoase, ceea ce necesită concentrare maximă la plecare.\n\nDupă vizitarea băilor, urcăm spre parcul Rosalía. Aleile sunt ferme, dar bălțile se formează rapid în zonele joase.\n\nLa prânz ajungem la zidul orașului. Mersul pe bicicletă direct pe zid nu este permis, dar ocolirea oferă perspective excelente.\n\nDupă-amiaza se încheie la Muzeul Provincial. Bicicleta poate fi parcată în siguranță în apropiere, sperăm sub un acoperiș.",
+            "en": "The day starts at the Roman Bridge. The rain makes the granite stones slippery, requiring full concentration when starting off.\n\nAfter visiting the baths, head up to Rosalía Park. The paths are solid, but puddles form quickly in low spots.\n\nAt midday, we reach the city walls. Cycling directly on the wall is not permitted, but the perimeter road offers great perspectives.\n\nThe afternoon ends at the Provincial Museum. The bike can be parked safely nearby, hopefully under a canopy."
+          },
+          "stops": [
+            {
+              "name": "Roman Bridge",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf den nassen Steinplatten der Brücke.",
+                "hu": "Vigyázat a fékezéssel a híd nedves kőlapjain.",
+                "ro": "Atenție la frânare pe dalele de piatră umede ale podului.",
+                "en": "Be careful when braking on the wet stone slabs of the bridge."
+              }
+            },
+            {
+              "name": "Roman Baths",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um das Rad kurz abzustellen und im Trockenen zu staunen.",
+                "hu": "Ideális hely a bicikli rövid leállítására és a fedett ámulatba ejtő látványra.",
+                "ro": "Un loc ideal pentru a lăsa bicicleta scurt și a admira la adăpost.",
+                "en": "An ideal place to park the bike briefly and marvel in the dry."
+              }
+            },
+            {
+              "name": "Rosalía de Castro Park",
+              "tip_5lang": {
+                "de": "Die asphaltierten Hauptwege sind sicherer als die Erdpfade.",
+                "hu": "Az aszfaltozott főutak biztonságosabbak, mint a földutak.",
+                "ro": "Aleile principale asfaltate sunt mai sigure decât cărările de pământ.",
+                "en": "The paved main paths are safer than the dirt trails."
+              }
+            },
+            {
+              "name": "Roman Walls of Lugo",
+              "tip_5lang": {
+                "de": "Fahren Sie die 'Ronda da Muralla' außen entlang; Vorsicht vor Pfützen am Rand.",
+                "hu": "Hajtson kívül a 'Ronda da Muralla' mentén; vigyázzon a széleken lévő tócsákra.",
+                "ro": "Mergeți pe exterior de-a lungul 'Ronda da Muralla'; atenție la bălțile de pe margine.",
+                "en": "Ride along the 'Ronda da Muralla' on the outside; watch for puddles at the edge."
+              }
+            },
+            {
+              "name": "Lugo Cathedral",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad am Praza de Santa María; dort gibt es teils überdachte Plätze.",
+                "hu": "Parkoljon a Praza de Santa Maríán; ott vannak részben fedett helyek.",
+                "ro": "Parcați bicicleta în Praza de Santa María; există locuri parțial acoperite.",
+                "en": "Park the bike at Praza de Santa María; there are some partially covered spots."
+              }
+            },
+            {
+              "name": "Plaza Mayor (Lunch)",
+              "tip_5lang": {
+                "de": "Viele Restaurants haben Fahrradständer in Sichtweite der Arkaden.",
+                "hu": "Sok étterem rendelkezik kerékpártárolóval az árkádok látótávolságában.",
+                "ro": "Multe restaurante au suporturi de biciclete vizibile de sub arcade.",
+                "en": "Many restaurants have bike racks within sight of the arcades."
+              }
+            },
+            {
+              "name": "Provincial Museum of Lugo",
+              "tip_5lang": {
+                "de": "Endstation; nutzen Sie die Zeit für eine lange Aufwärm- und Trockenpause.",
+                "hu": "Végállomás; használja ki az időt egy hosszú melegedő és száradó szünetre.",
+                "ro": "Stație finală; folosiți timpul pentru o pauză lungă de încălzire și uscare.",
+                "en": "Final stop; use the time for a long warm-up and drying break."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist in Lugo (Galicien) unerlässlich.",
+              "Vermeiden Sie das Fahren auf den glatten Maueraufstiegen.",
+              "Die Ronda da Muralla ist die beste Route, um die Stadt im Regen zu umrunden.",
+              "Bremsweg auf nassem Granitpflaster verdoppelt sich.",
+              "Schutzbleche sind bei den vielen Pfützen am Flussufer ein Muss."
+            ],
+            "hu": [
+              "A teljes esőruházat elengedhetetlen Lugóban (Galícia).",
+              "Kerülje a haladást a falra vezető csúszós feljárókon.",
+              "A Ronda da Muralla a legjobb útvonal a város megkerülésére esőben.",
+              "A féktávolság a nedves gránitburkolaton a duplájára nő.",
+              "A sárvédő kötelező a folyóparti sok tócsa miatt."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este esențial în Lugo (Galicia).",
+              "Evitați mersul pe rampele de acces la zid, care sunt foarte alunecoase.",
+              "Ronda da Muralla este cea mai bună rută pentru a înconjura orașul pe ploaie.",
+              "Distanța de frânare pe pavajul de granit umed se dublează.",
+              "Apărătorile de noroi sunt obligatorii din cauza bălților de pe malul râului."
+            ],
+            "en": [
+              "Full rain gear is essential in Lugo (Galicia).",
+              "Avoid riding on the slippery access ramps to the wall.",
+              "Ronda da Muralla is the best route to circle the city in the rain.",
+              "Braking distance on wet granite paving doubles.",
+              "Mudguards are a must given the many puddles by the riverbank."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Flussufer. Der Morgennebel über dem Miño verleiht der römischen Brücke ein mystisches Aussehen.\n\nNach dem Anstieg zum Park wärmt die Bewegung auf dem Rad auf. Die klaren Wege im Rosalía-Park bieten gute Bodenhaftung.\n\nMittags umrunden wir die Stadtmauer. Die Wintersonne steht tief und blendet manchmal, sorgt aber für fantastische Fotos der Muralla.\n\nNach der Kathedrale und einem stärkenden Mittagessen endet die Tour am Provinzmuseum, bevor die Kälte gegen Abend spürbar zunimmt.",
+            "hu": "Fagyos kezdés a folyóparton. A Miño feletti reggeli köd misztikus megjelenést kölcsönöz a római hídnak.\n\nA parkba való felkapaszkodás után a mozgás felmelegít a biciklin. A tiszta utak a Rosalía parkban jó tapadást biztosítanak.\n\nDélben megkerüljük a városfalat. A téli nap alacsonyan jár és néha vakít, de fantasztikus fotókat eredményez a Muralláról.\n\nA katedrális és egy erősítő ebéd után a túra a Tartományi Múzeumnál ér véget, mielőtt este felé a hideg érezhetően fokozódna.",
+            "ro": "Un început înghețat pe malul râului. Ceața de dimineață peste Miño oferă podului roman un aspect mistic.\n\nDupă urcarea spre parc, mișcarea pe bicicletă te încălzește. Aleile curate din parcul Rosalía oferă o aderență bună.\n\nLa prânz înconjurăm zidul orașului. Soarele de iarnă este jos și uneori orbește, dar oferă poze fantastice cu Muralla.\n\nDupă catedrală și un prânz consistent, turul se încheie la Muzeul Provincial, înainte ca frigul să crească simțitor spre seară.",
+            "en": "A frosty start by the riverbank. The morning mist over the Miño gives the Roman Bridge a mystical appearance.\n\nAfter the climb to the park, the physical activity on the bike warms you up. The clear paths in Rosalía Park offer good traction.\n\nAt midday, we circle the city walls. The winter sun is low and sometimes blinding, but it makes for fantastic photos of the Muralla.\n\nFollowing the Cathedral and a hearty lunch, the tour ends at the Provincial Museum before the cold noticeably intensifies toward evening."
+          },
+          "stops": [
+            {
+              "name": "Roman Bridge",
+              "tip_5lang": {
+                "de": "Morgens können die Steine mit Raureif bedeckt sein; langsam fahren.",
+                "hu": "Reggelente a köveket dér boríthatja; haladjon lassan.",
+                "ro": "Dimineața, pietrele pot fi acoperite cu chiciură; mergeți încet.",
+                "en": "Stones may be covered with frost in the morning; ride slowly."
+              }
+            },
+            {
+              "name": "Roman Baths",
+              "tip_5lang": {
+                "de": "Die feuchte Luft am Fluss fühlt sich im Winter besonders kalt an.",
+                "hu": "A folyómenti párás levegő télen különösen hidegnek érződik.",
+                "ro": "Aerul umed de lângă râu se simte deosebit de rece iarna.",
+                "en": "The humid air by the river feels particularly cold in winter."
+              }
+            },
+            {
+              "name": "Rosalía de Castro Park",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Ruhe; der Park ist nun fast menschenleer.",
+                "hu": "Élvezze a téli nyugalmat; a park ilyenkor szinte néptelen.",
+                "ro": "Bucurați-vă de liniștea iernii; parcul este acum aproape pustiu.",
+                "en": "Enjoy the winter tranquility; the park is almost deserted now."
+              }
+            },
+            {
+              "name": "Roman Walls of Lugo",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Fahrt entlang der Ronda.",
+                "hu": "Viseljen szélálló kesztyűt a Ronda menti tekeréshez.",
+                "ro": "Purtați mănuși rezistente la vânt pentru plimbarea de-a lungul Rondei.",
+                "en": "Wear windproof gloves for the ride along the Ronda."
+              }
+            },
+            {
+              "name": "Lugo Cathedral",
+              "tip_5lang": {
+                "de": "Gute Abstellmöglichkeiten vorhanden, nutzen Sie das Schloss.",
+                "hu": "Jó leállítási lehetőségek, használja a lakatot.",
+                "ro": "Există bune posibilități de parcare, folosiți antifurtul.",
+                "en": "Good parking options available; be sure to use your lock."
+              }
+            },
+            {
+              "name": "Plaza Mayor (Lunch)",
+              "tip_5lang": {
+                "de": "Suchen Sie Plätze mit Heizstrahlern in den Außenbereichen.",
+                "hu": "Keressen hősugárzóval felszerelt helyeket a kültéri részeken.",
+                "ro": "Căutați locuri cu încălzitoare în zonele exterioare.",
+                "en": "Look for spots with outdoor heaters in the seating areas."
+              }
+            },
+            {
+              "name": "Provincial Museum of Lugo",
+              "tip_5lang": {
+                "de": "Das Museum schließt im Winter oft etwas früher; Zeiten prüfen.",
+                "hu": "A múzeum télen gyakran kicsit korábban zár; ellenőrizze az időpontokat.",
+                "ro": "Muzeul se închide adesea puțin mai devreme iarna; verificați programul.",
+                "en": "The museum often closes a bit earlier in winter; check the hours."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Layering (Zwiebelprinzip) ist wichtig für die Temperaturwechsel.",
+              "Die Brückenabfahrten können im Winter tückisch glatt sein.",
+              "Nutzen Sie die Mittagsstunden für die Fahrt am Fluss.",
+              "Beleuchtung am Rad ist wegen des frühen Sonnenuntergangs Pflicht.",
+              "Vermeiden Sie schattige Gassen, dort hält sich Reif länger."
+            ],
+            "hu": [
+              "A réteges öltözködés fontos a hőmérséklet-változások miatt.",
+              "A hídi lejtők télen csalókán csúszósak lehetnek.",
+              "Használja ki a déli órákat a folyóparti tekerésre.",
+              "A kerékpárvilágítás kötelező a korai naplemente miatt.",
+              "Kerülje az árnyékos utcákat, ott tovább megmarad a dér."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi este importantă pentru schimbările de temperatură.",
+              "Coborârile de pe pod pot fi înșelător de alunecoase iarna.",
+              "Folosiți orele prânzului pentru plimbarea pe lângă râu.",
+              "Luminile la bicicletă sunt obligatorii din cauza apusului timpuriu.",
+              "Evitați străzile umbrite, chiciura persistă mai mult acolo."
+            ],
+            "en": [
+              "Layering your clothing is important for temperature changes.",
+              "Bridge descents can be treacherously slippery in winter.",
+              "Make the most of the midday hours for the riverside ride.",
+              "Bike lights are mandatory due to the early sunset.",
+              "Avoid shaded alleys, as frost tends to linger there longer."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1108,6 +1524,196 @@
           "Plan your drives between clusters outside of peak traffic hours.",
           "Have change ready for parking meters."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequemer Start im Regen: Parken direkt an der römischen Brücke ermöglicht einen schnellen Zugang zu den Bädern, ohne lange im Nassen zu stehen.\n\nDie Fahrt zum Stadtzentrum führt durch das graue, aber stimmungsvolle Lugo. Das Parkhaus bietet trockenen Zugang zur Muralla.\n\nMittags genießen wir die Kathedrale und ein gemütliches Essen an der Plaza Mayor, während draußen der galicische Regen fällt.\n\nDer Nachmittag wird im Provinzmuseum verbracht. Die kurzen Wege vom Parkplatz zum Eingang minimieren den Kontakt mit dem Wetter.",
+            "hu": "Kényelmes kezdés az esőben: parkolás közvetlenül a római hídnál, ami gyors kijutást tesz lehetővé a fürdőkhöz anélkül, hogy sokat áznánk.\n\nA városközpontba vezető út a szürke, de hangulatos Lugón át vezet. A parkolóház száraz feljutást biztosít a Murallához.\n\nDélben élvezzük a katedrálist és egy kellemes ebédet a Plaza Mayoron, miközben kint esik a galíciai eső.\n\nA délután a Tartományi Múzeumban telik. A parkolótól a bejáratig tartó rövid utak minimalizálják az időjárással való érintkezést.",
+            "ro": "Început confortabil pe ploaie: parcarea direct la podul roman permite accesul rapid la băi, fără a sta mult în ploaie.\n\nDrumul spre centrul orașului trece prin Lugoul gri, dar plin de atmosferă. Parcarea subterană oferă acces uscat la Muralla.\n\nLa prânz ne bucurăm de catedrală și de o masă plăcută în Plaza Mayor, în timp ce afară cade ploaia galiciană.\n\nDupă-amiaza este petrecută la Muzeul Provincial. Distanțele scurte de la parcare la intrare minimizează contactul cu vremea.",
+            "en": "A comfortable start in the rain: parking right by the Roman Bridge allows quick access to the baths without standing in the wet for long.\n\nThe drive to the city center passes through gray but atmospheric Lugo. The parking garage provides dry access to the Muralla.\n\nAt midday, enjoy the Cathedral and a pleasant lunch at Plaza Mayor while the Galician rain falls outside.\n\nThe afternoon is spent at the Provincial Museum. The short distances from the parking lot to the entrance minimize exposure to the elements."
+          },
+          "stops": [
+            {
+              "name": "Parking near the Roman Bridge",
+              "tip_5lang": {
+                "de": "Wählen Sie Plätze nah am Aufgang, um Regengüsse zu vermeiden.",
+                "hu": "Válasszon a feljáróhoz közeli helyet, hogy elkerülje a záporokat.",
+                "ro": "Alegeți locuri aproape de scară pentru a evita aversele.",
+                "en": "Choose spots close to the stairs to avoid heavy downpours."
+              }
+            },
+            {
+              "name": "Roman Bridge & Baths",
+              "tip_5lang": {
+                "de": "Die Bäder sind teils überdacht und bieten guten Schutz.",
+                "hu": "A fürdők részben fedettek és jó védelmet nyújtanak.",
+                "ro": "Băile sunt parțial acoperite și oferă un adăpost bun.",
+                "en": "The baths are partially covered and offer good shelter."
+              }
+            },
+            {
+              "name": "City Center Parking Garage",
+              "tip_5lang": {
+                "de": "Nutzen Sie ein unterirdisches Parkhaus für maximalen Komfort.",
+                "hu": "Használjon föld alatti parkolóházat a maximális kényelemért.",
+                "ro": "Folosiți o parcare subterană pentru confort maxim.",
+                "en": "Use an underground parking garage for maximum comfort."
+              }
+            },
+            {
+              "name": "Roman Walls & Cathedral",
+              "tip_5lang": {
+                "de": "Direkter Zugang vom Parkhaus zum Innenstadtbereich möglich.",
+                "hu": "Közvetlen kijutás a parkolóházból a belvárosi részre lehetséges.",
+                "ro": "Acces direct din parcare către zona centrală a orașului.",
+                "en": "Direct access from the parking garage to the city center is possible."
+              }
+            },
+            {
+              "name": "Plaza Mayor & Lunch",
+              "tip_5lang": {
+                "de": "Parkservice einiger Restaurants in der Nähe nutzen.",
+                "hu": "Használja ki néhány közeli étterem parkolási szolgáltatását.",
+                "ro": "Folosiți serviciul de parcare al unor restaurante din apropiere.",
+                "en": "Take advantage of parking services offered by some nearby restaurants."
+              }
+            },
+            {
+              "name": "Provincial Museum & Rosalía Park",
+              "tip_5lang": {
+                "de": "Parken Sie am Plaza de Santo Domingo für kurze Wege.",
+                "hu": "Parkoljon a Plaza de Santo Domingón a rövid utakért.",
+                "ro": "Parcați în Plaza de Santo Domingo pentru distanțe scurte.",
+                "en": "Park at Plaza de Santo Domingo for shorter walking distances."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser 'Interparking Muralla' oder 'Santo Domingo'.",
+              "Fahren Sie vorsichtig auf dem nassen Kopfsteinpflaster der Altstadt.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto (Beschlagsgefahr).",
+              "Regenschirm im Kofferraum für den Weg zur Muralla bereithalten.",
+              "Die Ronda da Muralla kann bei starkem Regen staubelastet sein."
+            ],
+            "hu": [
+              "Használja az 'Interparking Muralla' vagy 'Santo Domingo' parkolóházakat.",
+              "Vezessen óvatosan az óváros nedves macskakövein.",
+              "Ne hagyjon értéket látható helyen az autóban (párásodás veszélye).",
+              "Készítsen be esernyőt a csomagtartóba a Muralla felé vezető úthoz.",
+              "A Ronda da Muralla heves esőben forgalmas lehet."
+            ],
+            "ro": [
+              "Folosiți parcările 'Interparking Muralla' sau 'Santo Domingo'.",
+              "Conduceți cu prudență pe pavajul umed din centrul vechi.",
+              "Nu lăsați obiecte de valoare la vedere în mașină (risc de condens).",
+              "Aveți umbrela pregătită în portbagaj pentru drumul spre Muralla.",
+              "Ronda da Muralla poate fi aglomerată în timpul ploilor torențiale."
+            ],
+            "en": [
+              "Use 'Interparking Muralla' or 'Santo Domingo' parking garages.",
+              "Drive carefully on the wet cobblestones in the old town.",
+              "Don't leave valuables visible in the car (fogging risk).",
+              "Keep an umbrella ready in the trunk for the walk to the Muralla.",
+              "Ronda da Muralla can be congested during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt. Die Heizung im Auto sorgt für einen angenehmen Start, während wir zur römischen Brücke fahren.\n\nNach der Besichtigung der antiken Stätten geht es ins Stadtzentrum. Die Parkhäuser sind im Winter eine gute Wahl, um das Auto eisfrei zu halten.\n\nMittags erkunden wir die Muralla. Die Wintersonne lässt die Stadtmauer in hellem Licht erstrahlen, bevor wir uns in einem Restaurant aufwärmen.\n\nDer Nachmittag endet im Museum und im winterlichen Park, bevor die Fahrt durch das beleuchtete Lugo zurückführt.",
+            "hu": "Tiszta téli nap indul. Az autó fűtése kellemes kezdést biztosít, miközben a római hídhoz hajtunk.\n\nAz antik helyszínek megtekintése után irány a városközpont. A parkolóházak télen jó választást jelentenek az autó jégmentesen tartásához.\n\nDélben felfedezzük a Murallát. A téli nap fényes világosságba öltözteti a városfalat, mielőtt felmelegednénk egy étteremben.\n\nA délután a múzeumban és a téli parkban zárul, mielőtt a kivilágított Lugón át hazahajtanánk.",
+            "ro": "Începe o zi senină de iarnă. Încălzirea din mașină asigură un start plăcut în timp ce mergem spre podul roman.\n\nDupă vizitarea siturilor antice, pornim spre centrul orașului. Parcările subterane sunt o alegere bună iarna pentru a menține mașina fără gheață.\n\nLa prânz explorăm Muralla. Soarele de iarnă face ca zidul orașului să strălucească în lumină puternică, înainte de a ne încălzi într-un restaurant.\n\nDupă-amiaza se încheie la muzeu și în parcul de iarnă, înainte ca drumul să ne ducă înapoi prin Lugoul iluminat.",
+            "en": "A clear winter day begins. The car heater ensures a pleasant start as we drive to the Roman Bridge.\n\nAfter visiting the ancient sites, head to the city center. Parking garages are a good choice in winter to keep the car ice-free.\n\nAt midday, explore the Muralla. The winter sun makes the city walls shine in bright light before we warm up in a restaurant.\n\nThe afternoon ends at the museum and in the winter park before the drive back through illuminated Lugo."
+          },
+          "stops": [
+            {
+              "name": "Parking near the Roman Bridge",
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Glätte auf den Zufahrtswegen zum Fluss.",
+                "hu": "Ügyeljen az esetleges jegesedésre a folyóhoz vezető utakon.",
+                "ro": "Atenție la posibila polei pe drumurile de acces către râu.",
+                "en": "Watch out for potential ice on the access roads to the river."
+              }
+            },
+            {
+              "name": "Roman Bridge & Baths",
+              "tip_5lang": {
+                "de": "Der Aufenthalt im Freien ist kurz; nutzen Sie die Wärme des Autos danach.",
+                "hu": "A kinti tartózkodás rövid; használja utána az autó melegét.",
+                "ro": "Șederea afară este scurtă; folosiți căldura mașinii după aceea.",
+                "en": "Outdoor stay is brief; enjoy the warmth of the car afterward."
+              }
+            },
+            {
+              "name": "City Center Parking Garage",
+              "tip_5lang": {
+                "de": "Tiefgaragen sind oft etwas wärmer als Außenparkplätze.",
+                "hu": "A mélygarázsok gyakran kicsit melegebbek, mint a kültéri parkolók.",
+                "ro": "Parcările subterane sunt adesea ceva mai calde decât cele exterioare.",
+                "en": "Underground garages are often slightly warmer than outdoor lots."
+              }
+            },
+            {
+              "name": "Roman Walls & Cathedral",
+              "tip_5lang": {
+                "de": "Planen Sie den Mauerbesuch um die Mittagszeit (ca. 13 Uhr) für Wärme.",
+                "hu": "Tervezze a fallátogatást délidőre (kb. 13 óra) a meleg miatt.",
+                "ro": "Planificați vizita pe zid în jurul prânzului (aprox. ora 13) pentru căldură.",
+                "en": "Plan the wall visit around midday (approx. 1 PM) for maximum warmth."
+              }
+            },
+            {
+              "name": "Plaza Mayor & Lunch",
+              "tip_5lang": {
+                "de": "In der Innenstadt gibt es viele beheizte Gasträume.",
+                "hu": "A belvárosban sok fűtött vendégtér található.",
+                "ro": "În centrul orașului există multe spații de luat masa încălzite.",
+                "en": "There are many heated dining areas in the city center."
+              }
+            },
+            {
+              "name": "Provincial Museum & Rosalía Park",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang im Park, dann Rückkehr zum vorgewärmten Auto.",
+                "hu": "Rövid séta a parkban, majd visszatérés az előmelegített autóhoz.",
+                "ro": "O scurtă plimbare în parc, apoi revenirea la mașina preîncălzită.",
+                "en": "A quick walk in the park, then return to the pre-warmed car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Galicien bei Frostgefahr ratsam.",
+              "Vermeiden Sie das Parken unter Bäumen im Park (Eisschlaggefahr).",
+              "Die Batterieleistung kann bei Kälte sinken; Ladekabel mitführen.",
+              "Scheibenfrostschutz im Wischwasser sicherstellen.",
+              "Die Parkhäuser in der Altstadt sind eng; Vorsicht beim Rangieren."
+            ],
+            "hu": [
+              "Galíciában fagyveszély esetén tanácsos a téli gumi használata.",
+              "Kerülje a parkolást a park fáinak közelében (jégesés veszélye).",
+              "Az akkumulátor teljesítménye hidegben csökkenhet; vigyen töltőkábelt.",
+              "Biztosítsa a fagyálló ablakmosó folyadékot.",
+              "Az óvárosi parkolóházak szűkek; óvatosan manőverezzen."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt recomandate în Galicia când există risc de îngheț.",
+              "Evitați parcarea sub copaci în parc (risc de cădere a gheții).",
+              "Performanța bateriei poate scădea la frig; aveți cabluri de încărcare.",
+              "Asigurați-vă că aveți lichid de parbriz rezistent la îngheț.",
+              "Parcările din centrul vechi sunt strâmte; atenție la manevre."
+            ],
+            "en": [
+              "Winter tires are advisable in Galicia when frost is possible.",
+              "Avoid parking under trees in the park (falling ice risk).",
+              "Battery performance can drop in the cold; carry charging cables.",
+              "Ensure you have anti-freeze windshield washer fluid.",
+              "Old town parking garages are tight; maneuver with care."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1464,6 +2070,196 @@
           "The Google Maps app usually provides reliable public transport information for Lugo.",
           "Be prepared to walk between sights within a cluster."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ankunft an der Ronda da Muralla. Die überdachten Bushaltestellen bieten Schutz, während wir auf die Altstadt blicken.\n\nMittags erkunden wir die Kathedrale. Die kurzen Wege zwischen den Sehenswürdigkeiten im Zentrum minimieren die Zeit im Regen.\n\nNachmittags nutzen wir den Bus zum Flussufer. Die Fahrt bietet einen trockenen Blick auf die Stadtmauer, bevor wir die Brücke und Bäder besichtigen.\n\nDer Tag endet mit einer Busfahrt zurück ins Zentrum, wobei wir den Rosalía-Park nur kurz streifen, um trocken zu bleiben.",
+            "hu": "Érkezés a Ronda da Murallához. A fedett buszmegállók védelmet nyújtanak, miközben az óvárosra tekintünk.\n\nDélben felfedezzük a katedrálist. A központi látnivalók közötti rövid távolságok minimalizálják az esőben töltött időt.\n\nDélután busszal megyünk a folyópartra. Az utazás száraz kilátást biztosít a városfalra, mielőtt megnéznénk a hidat és a fürdőket.\n\nA nap buszos visszatéréssel zárul a központba, a Rosalía parkot csak érintjük, hogy szárazon maradjunk.",
+            "ro": "Sosire la Ronda da Muralla. Stațiile de autobuz acoperite oferă adăpost în timp ce privim spre centrul vechi.\n\nLa prânz explorăm catedrala. Distanțele scurte între obiectivele din centru minimizează timpul petrecut în ploaie.\n\nDupă-amiaza folosim autobuzul către malul râului. Călătoria oferă o vedere uscată asupra zidului orașului, înainte de a vizita podul și băile.\n\nZiua se încheie cu o călătorie cu autobuzul înapoi în centru, trecând doar scurt prin parcul Rosalía pentru a rămâne uscați.",
+            "en": "Arrival at Ronda da Muralla. The sheltered bus stops provide cover while we look toward the old town.\n\nAt midday, explore the Cathedral. The short distances between central sights minimize time spent in the rain.\n\nIn the afternoon, take the bus to the riverbank. The ride offers a dry view of the city walls before visiting the bridge and baths.\n\nThe day ends with a bus ride back to the center, only briefly passing through Rosalía Park to stay dry."
+          },
+          "stops": [
+            {
+              "name": "Arrival at City Center (Ronda da Muralla bus stop)",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Haltestellendach auf den Anschluss.",
+                "hu": "Várja a csatlakozást a megálló fedele alatt.",
+                "ro": "Așteptați legătura sub copertina stației.",
+                "en": "Wait for your connection under the bus stop shelter."
+              }
+            },
+            {
+              "name": "Plaza Mayor & Cathedral",
+              "tip_5lang": {
+                "de": "Sehr kurze Wege zwischen den Bushaltestellen und den Gebäuden.",
+                "hu": "Nagyon rövid utak a buszmegállók és az épületek között.",
+                "ro": "Distanțe foarte scurte între stațiile de autobuz și clădiri.",
+                "en": "Very short distances between the bus stops and the buildings."
+              }
+            },
+            {
+              "name": "Roman Walls & Provincial Museum",
+              "tip_5lang": {
+                "de": "Haltestelle direkt am Museumseingang vorhanden.",
+                "hu": "Buszmegálló közvetlenül a múzeumbemenetnél.",
+                "ro": "Stație de autobuz disponibilă chiar la intrarea în muzeu.",
+                "en": "A bus stop is available right at the museum entrance."
+              }
+            },
+            {
+              "name": "Bus ride to the river",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Linie 4 oder 5 für den Weg zum Fluss.",
+                "hu": "Használja a 4-es vagy 5-ös vonalat a folyóhoz jutáshoz.",
+                "ro": "Folosiți linia 4 sau 5 pentru a ajunge la râu.",
+                "en": "Use line 4 or 5 for the journey to the river."
+              }
+            },
+            {
+              "name": "Roman Bridge & Baths",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist nah an den Thermen, wenig Gehzeit im Regen.",
+                "hu": "A megálló közel van a termálfürdőhöz, kevés gyaloglás az esőben.",
+                "ro": "Stația este aproape de terme, puțin de mers pe jos prin ploaie.",
+                "en": "The stop is close to the thermal baths, minimizing walking in the rain."
+              }
+            },
+            {
+              "name": "Rosalía de Castro Park",
+              "tip_5lang": {
+                "de": "Einige Buslinien halten direkt am Parkeingang.",
+                "hu": "Néhány buszvonal közvetlenül a parkbejáratnál áll meg.",
+                "ro": "Unele linii de autobuz opresc chiar la intrarea în parc.",
+                "en": "Some bus lines stop right at the park entrance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Holen Sie sich die 'Tarjeta Ciudadana' für günstigere Fahrten.",
+              "Die App 'LugoBus' zeigt Echtzeit-Ankünfte bei Regen.",
+              "Busse sind im Winter gut beheizt und bieten Komfort.",
+              "An Regentagen können Busse durch Verkehr leicht verspätet sein.",
+              "Die Haltestellen an der Muralla sind am besten ausgebaut."
+            ],
+            "hu": [
+              "Szerezze be a 'Tarjeta Ciudadana'-t a kedvezőbb utazásokhoz.",
+              "A 'LugoBus' alkalmazás valós idejű érkezéseket mutat esőben.",
+              "A buszok télen jól fűtöttek és kényelmesek.",
+              "Esős napokon a buszok a forgalom miatt kicsit késhetnek.",
+              "A Muralla menti megállók a legjobban felszereltek."
+            ],
+            "ro": [
+              "Luați 'Tarjeta Ciudadana' pentru călătorii mai ieftine.",
+              "Aplicația 'LugoBus' arată sosirile în timp real pe timp de ploaie.",
+              "Autobuzele sunt bine încălzite iarna și oferă confort.",
+              "În zilele ploioase, autobuzele pot avea mici întârzieri din cauza traficului.",
+              "Stațiile de-a lungul Muralla sunt cele mai bine dotate."
+            ],
+            "en": [
+              "Get the 'Tarjeta Ciudadana' for cheaper fares.",
+              "The 'LugoBus' app shows real-time arrivals during rain.",
+              "Buses are well-heated and comfortable in winter.",
+              "Buses may be slightly delayed due to traffic on rainy days.",
+              "Stops along the Muralla are the most well-equipped."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Start an der verschneiten oder frostigen Ronda da Muralla. Der Bus bringt uns bequem in die Nähe der Plaza Mayor.\n\nMittags erkunden wir die historischen Stätten. Die kurzen Busintervalle ermöglichen es, die Zeit im Freien gering zu halten.\n\nNachmittags führt die Fahrt hinunter zum Fluss. Die beheizten Busse sind ein Segen nach dem windigen Rundgang auf der Stadtmauer.\n\nZum Abschluss genießen wir die Aussicht auf die beleuchtete römische Brücke, bevor uns der Bus zurück in die warme Unterkunft bringt.",
+            "hu": "Kezdés a havas vagy fagyos Ronda da Murallánál. A busz kényelmesen a Plaza Mayor közelébe visz minket.\n\nDélben felfedezzük a történelmi helyszíneket. A gyakori buszjáratok lehetővé teszik a kint töltött idő minimalizálását.\n\nDélután az út levezet a folyóhoz. A fűtött buszok áldást jelentenek a szeles városfali séta után.\n\nZárásként élvezzük a kivilágított római híd látványát, mielőtt a busz visszavisz a meleg szállásunkra.",
+            "ro": "Început la Ronda da Muralla înzăpezită sau înghețată. Autobuzul ne duce confortabil aproape de Plaza Mayor.\n\nLa prânz explorăm siturile istorice. Intervalele scurte ale autobuzelor permit reducerea timpului petrecut afară.\n\nDupă-amiaza drumul duce jos la râu. Autobuzele încălzite sunt o binecuvântare după plimbarea vântoasă pe zidul orașului.\n\nLa final ne bucurăm de vederea podului roman iluminat, înainte ca autobuzul să ne ducă înapoi la cazarea călduroasă.",
+            "en": "Start at the snowy or frosty Ronda da Muralla. The bus takes us comfortably close to Plaza Mayor.\n\nAt midday, explore the historical sites. Frequent bus intervals allow us to keep outdoor time to a minimum.\n\nIn the afternoon, the route leads down to the river. Heated buses are a blessing after a windy walk along the city walls.\n\nTo conclude, enjoy the view of the illuminated Roman Bridge before the bus takes us back to our warm accommodation."
+          },
+          "stops": [
+            {
+              "name": "Arrival at City Center (Ronda da Muralla bus stop)",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Kleidung für die Wartezeit an der Haltestelle.",
+                "hu": "Viseljen meleg ruhát a megállóban való várakozáshoz.",
+                "ro": "Purtați haine groase pentru timpul de așteptare în stație.",
+                "en": "Wear warm clothing for the wait at the bus stop."
+              }
+            },
+            {
+              "name": "Plaza Mayor & Cathedral",
+              "tip_5lang": {
+                "de": "Die Busse halten zentral; wenig Gehzeit in der Kälte.",
+                "hu": "A buszok központilag állnak meg; kevés gyaloglás a hidegben.",
+                "ro": "Autobuzele opresc central; puțin de mers pe jos prin frig.",
+                "en": "Buses stop centrally, so there's little walking in the cold."
+              }
+            },
+            {
+              "name": "Roman Walls & Provincial Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um zwischen den Maueraufgängen zu wechseln.",
+                "hu": "Használja a buszt a falfeljárók közötti váltáshoz.",
+                "ro": "Folosiți autobuzul pentru a vă deplasa între rampele de acces la zid.",
+                "en": "Use the bus to move between different access points of the wall."
+              }
+            },
+            {
+              "name": "Bus ride to the river",
+              "tip_5lang": {
+                "de": "Die Fahrt bergab ist im warmen Bus sehr entspannend.",
+                "hu": "A lefelé menet a meleg buszban nagyon pihentető.",
+                "ro": "Călătoria la vale în autobuzul încălzit este foarte relaxantă.",
+                "en": "The downhill ride in a warm bus is very relaxing."
+              }
+            },
+            {
+              "name": "Roman Bridge & Baths",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten vorab; abends fahren Busse seltener.",
+                "hu": "Ellenőrizze előre a visszautat; este a buszok ritkábban járnak.",
+                "ro": "Verificați din timp orele de întoarcere; seara autobuzele circulă mai rar.",
+                "en": "Check return times in advance; buses run less frequently in the evening."
+              }
+            },
+            {
+              "name": "Rosalía de Castro Park",
+              "tip_5lang": {
+                "de": "Haltestellen sind gut beleuchtet und sicher.",
+                "hu": "A megállók jól megvilágítottak és biztonságosak.",
+                "ro": "Stațiile sunt bine luminate și sigure.",
+                "en": "Bus stops are well-lit and safe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busfahren ist im Winter die wärmste Option in Lugo.",
+              "Wochenendpläne prüfen; Busfrequenz kann im Winter sinken.",
+              "Halten Sie Kleingeld bereit, falls die Karte nicht funktioniert.",
+              "Nutzen Sie die Sitze im hinteren Teil des Busses für mehr Wärme.",
+              "Die Haltestelle 'Porta de Santiago' ist ideal für die Kathedrale."
+            ],
+            "hu": [
+              "Télen Lugóban a buszozás a legmelegebb opció.",
+              "Ellenőrizze a hétvégi menetrendet; a buszok ritkábban járhatnak.",
+              "Legyen önnél aprópénz, ha a kártya nem működne.",
+              "Használja a busz hátsó részén lévő üléseket a több melegért.",
+              "A 'Porta de Santiago' megálló ideális a katedrálishoz."
+            ],
+            "ro": [
+              "Mersul cu autobuzul este cea mai călduroasă opțiune în Lugo iarna.",
+              "Verificați planurile de weekend; frecvența autobuzelor poate scădea.",
+              "Aveți bani mărunți la voi în cazul în care cardul nu funcționează.",
+              "Folosiți scaunele din partea din spate a autobuzului pentru mai multă căldură.",
+              "Stația 'Porta de Santiago' este ideală pentru catedrală."
+            ],
+            "en": [
+              "Taking the bus is the warmest option in Lugo during winter.",
+              "Check weekend schedules; bus frequency may decrease in winter.",
+              "Keep small change ready in case your card doesn't work.",
+              "Use the seats in the rear of the bus for more warmth.",
+              "The 'Porta de Santiago' stop is ideal for the Cathedral."
+            ]
+          }
+        }
       }
     }
   }

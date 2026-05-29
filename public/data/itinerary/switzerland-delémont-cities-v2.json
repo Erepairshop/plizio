@@ -339,6 +339,206 @@
           "Most sights are close to each other, making walking ideal.",
           "Look out for the city's many historic fountains."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem schützenden Bogen der Porte au Loup. Mittags bietet das Musée jurassien d’art et d’histoire die perfekte Zuflucht vor dem Regen, wo man tief in die regionale Kultur eintauchen kann. Nachmittags führen die nassen Kopfsteinpflastergassen der Altstadt vorbei an historischen Brunnen. Der Tag endet an der Porte de Porrentruy, während der Regen auf die alten Dächer trommelt.",
+            "hu": "A reggel a Porte au Loup védelmező kapuja alatt indul. Délben a Jurassien Múzeum nyújt tökéletes menedéket az eső elől, ahol elmélyülhetünk a régió művészetében. Délután a nedves macskaköves utcák vezetnek a történelmi kutak mellett az óvárosban. A nap a Porte de Porrentruy-nél zárul, miközben az eső kopog a régi háztetőkön.",
+            "ro": "Dimineața începe sub arcada protectoare a Porte au Loup. La prânz, Muzeul Jurasian de Artă și Istorie oferă refugiul perfect împotriva ploii, unde poți explora cultura regională. După-amiaza, străzile umede cu piatră cubică din centrul vechi te poartă pe lângă fântâni istorice. Ziua se încheie la Porte de Porrentruy, sub sunetul ploii pe acoperișurile vechi.",
+            "en": "The morning starts under the protective arch of the Wolf Gate. At noon, the Jurassic Museum provides a perfect refuge from the rain, allowing for a deep dive into regional history. In the afternoon, the wet cobblestone streets lead past historic fountains in the Old Town. The day concludes at the Porrentruy Gate, with the sound of rain hitting the ancient rooftops."
+          },
+          "stops": [
+            {
+              "name": "Porte au Loup (Wolf Gate)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Torbogen als ersten trockenen Sammelpunkt.",
+                "hu": "Használja a kapualjat száraz gyülekezőhelyként.",
+                "ro": "Folosiți arcada porții ca prim punct de adăpost uscat.",
+                "en": "Use the gate's archway as a dry meeting point."
+              }
+            },
+            {
+              "name": "Delémont Castle",
+              "tip_5lang": {
+                "de": "Der Innenhof bietet teilweise Schutz vor Wind und Wetter.",
+                "hu": "A belső udvar részben védelmet nyújt a szél és eső ellen.",
+                "ro": "Curtea interioară oferă parțial adăpost împotriva vântului.",
+                "en": "The inner courtyard offers partial shelter from the elements."
+              }
+            },
+            {
+              "name": "Church of Saint-Marcel",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine ruhige, trockene Pause.",
+                "hu": "Ideális helyszín egy csendes, száraz pihenőhöz.",
+                "ro": "Un loc ideal pentru o pauză liniștită și uscată.",
+                "en": "An ideal spot for a quiet, dry break."
+              }
+            },
+            {
+              "name": "Jurassic Museum of Art and History",
+              "tip_5lang": {
+                "de": "Planen Sie hier bei starkem Regen mehr Zeit ein.",
+                "hu": "Heves esőzés esetén töltsön itt több időt.",
+                "ro": "Planificați mai mult timp aici dacă plouă torențial.",
+                "en": "Plan more time here during heavy rain."
+              }
+            },
+            {
+              "name": "Fountain of the Savage",
+              "tip_5lang": {
+                "de": "Vorsicht, die Stufen um den Brunnen sind rutschig.",
+                "hu": "Vigyázat, a kút körüli lépcsők csúszósak.",
+                "ro": "Atenție, treptele din jurul fântânii sunt alunecoase.",
+                "en": "Careful, the steps around the fountain are slippery."
+              }
+            },
+            {
+              "name": "Clock Tower",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter den Dachvorsprüngen der nahen Häuser.",
+                "hu": "Rövid megálló a közeli házak eresze alatt.",
+                "ro": "Oprire scurtă sub streșinile caselor din apropiere.",
+                "en": "Short stop under the eaves of nearby houses."
+              }
+            },
+            {
+              "name": "Porte de Porrentruy",
+              "tip_5lang": {
+                "de": "Das Tor bietet Schutz, während Sie den Rückweg planen.",
+                "hu": "A kapu védelmet nyújt a visszavezető út megtervezéséhez.",
+                "ro": "Poarta oferă adăpost în timp ce planificați drumul înapoi.",
+                "en": "The gate offers shelter while planning your return route."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster Pfützen bildet.",
+              "Die Museen in Delémont sind montags oft geschlossen.",
+              "Nutzen Sie die Torbögen der Altstadt als natürliche Regenschirme.",
+              "Ein Taschenschirm ist bei den engen Gassen praktischer als ein großer."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert a macskakövön megáll a víz.",
+              "A delémonti múzeumok hétfőnként gyakran zárva tartanak.",
+              "Használja az óvárosi kapualjakat természetes esernyőként.",
+              "A szűk utcákban praktikusabb egy összecsukható ernyő."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, piatra cubică reține apa.",
+              "Muzeele din Delémont sunt adesea închise lunea.",
+              "Folosiți arcadele porților din orașul vechi ca umbrele naturale.",
+              "O umbrelă compactă e mai practică pe străzile înguste."
+            ],
+            "en": [
+              "Wear waterproof shoes, as puddles form easily on cobblestones.",
+              "Delémont museums are often closed on Mondays.",
+              "Use the Old Town's gate arches as natural umbrellas.",
+              "A compact umbrella is more practical than a large one in narrow alleys."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen an der Porte au Loup zeigt Delémont von seiner stillen Seite. Mittags wärmen die beheizten Räume des Schlosses und des Museums Körper und Geist. Am Nachmittag taucht die tiefstehende Wintersonne die Kalksteinfassaden in ein sanftes Licht. Der Spaziergang endet bei früh einsetzender Dämmerung an der Porte de Porrentruy, wenn die Stadtlichter erwachen.",
+            "hu": "A fagyos reggel a Porte au Loup-nál Delémont csendes arcát mutatja. Délben a kastély és a múzeum fűtött termei melegítik fel a látogatót. Délután az alacsonyan járó téli nap lágy fénybe vonja a mészkő homlokzatokat. A séta a korai szürkületben zárul a Porte de Porrentruy-nél, amikor kigyúlnak a város fényei.",
+            "ro": "O dimineață geroasă la Porte au Loup dezvăluie fața liniștită a orașului. La prânz, sălile încălzite ale castelului și muzeului oferă confort. După-amiaza, soarele palid de iarnă luminează blând fațadele de calcar. Plimbarea se încheie odată cu amurgul timpuriu la Porte de Porrentruy, când se aprind luminile orașului.",
+            "en": "A frosty morning at the Wolf Gate shows Delémont's quiet side. At noon, the heated rooms of the castle and museum warm both body and soul. In the afternoon, the low winter sun bathes the limestone facades in soft light. The walk ends as early dusk falls at the Porrentruy Gate, just as the city lights begin to glow."
+          },
+          "stops": [
+            {
+              "name": "Porte au Loup (Wolf Gate)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis unter dem schattigen Torbogen.",
+                "hu": "Ügyeljen a jegesedésre az árnyékos kapualj alatt.",
+                "ro": "Atenție la gheață sub arcada umbrită a porții.",
+                "en": "Watch for black ice under the shaded archway."
+              }
+            },
+            {
+              "name": "Delémont Castle",
+              "tip_5lang": {
+                "de": "Die historischen Mauern sind im Winter besonders stimmungsvoll.",
+                "hu": "A történelmi falak télen különösen hangulatosak.",
+                "ro": "Zidurile istorice sunt deosebit de pitorești iarna.",
+                "en": "The historic walls are especially atmospheric in winter."
+              }
+            },
+            {
+              "name": "Church of Saint-Marcel",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um sich kurz aufzuwärmen.",
+                "hu": "Csendes hely egy rövid felmelegedéshez.",
+                "ro": "Un loc liniștit pentru a vă încălzi puțin.",
+                "en": "A quiet place to warm up briefly."
+              }
+            },
+            {
+              "name": "Jurassic Museum of Art and History",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre schwere Winterkleidung.",
+                "hu": "Használja a ruhatárat a nehéz téli kabátokhoz.",
+                "ro": "Folosiți garderoba pentru hainele grele de iarnă.",
+                "en": "Use the cloakroom for your heavy winter gear."
+              }
+            },
+            {
+              "name": "Fountain of the Savage",
+              "tip_5lang": {
+                "de": "Der Brunnen kann bei Minusgraden kunstvoll vereist sein.",
+                "hu": "Fagypont alatt a kút művészien jeges lehet.",
+                "ro": "Fântâna poate fi înghețată artistic la temperaturi negative.",
+                "en": "The fountain may be artistically frozen in sub-zero temps."
+              }
+            },
+            {
+              "name": "Clock Tower",
+              "tip_5lang": {
+                "de": "Die Uhrzeit ist auch bei winterlichem Nebel gut lesbar.",
+                "hu": "Az óra téli ködben is jól látható.",
+                "ro": "Ora este lizibilă chiar și pe ceață de iarnă.",
+                "en": "The time is clearly visible even in winter fog."
+              }
+            },
+            {
+              "name": "Porte de Porrentruy",
+              "tip_5lang": {
+                "de": "Genießen Sie die blaue Stunde an diesem historischen Tor.",
+                "hu": "Élvezze a kék órát ennél a történelmi kapunál.",
+                "ro": "Bucurați-vă de ora albastră la această poartă istorică.",
+                "en": "Enjoy the blue hour at this historic gate."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sonne geht im Jura-Tal im Winter bereits gegen 16:30 Uhr unter.",
+              "Warme Kleidung ist Pflicht, da der Wind in den Gassen kühl weht.",
+              "Kopfsteinpflaster kann bei Frost sehr rutschig sein.",
+              "Kombinieren Sie die Tour mit einem Fondue in der Altstadt."
+            ],
+            "hu": [
+              "A Jura-völgyben télen már 16:30 körül lemegy a nap.",
+              "A réteges öltözködés kötelező a hűvös utcai szél miatt.",
+              "A macskakő fagy esetén nagyon csúszóssá válhat.",
+              "Kösse össze a túrát egy óvárosi fonduéval."
+            ],
+            "ro": [
+              "Soarele apune în valea Jura în jur de ora 16:30 iarna.",
+              "Hainele groase sunt obligatorii din cauza vântului rece.",
+              "Piatra cubică poate fi foarte alunecoasă pe timp de îngheț.",
+              "Combinați turul cu un fondue în orașul vechi."
+            ],
+            "en": [
+              "Sunset in the Jura valley occurs around 16:30 in winter.",
+              "Warm layers are mandatory as the wind chills the narrow streets.",
+              "Cobblestones can be very slippery during frost.",
+              "Combine the tour with a fondue in the Old Town."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -649,6 +849,188 @@
           "Take advantage of the well-developed cycle paths along the rivers.",
           "Always lock your bike securely, especially near attractions."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Tour startet am Rathaus, wobei die Reifen auf dem nassen Asphalt singen. Mittags bietet das Museum eine ausgiebige Pause im Trockenen, während die Fahrräder sicher abgestellt sind. Am Nachmittag führt die Fahrt entlang der Sorne, wo das Wasser lebhaft sprudelt. Der Tag endet an der Porte de Porrentruy, von wo aus es nur ein kurzer Sprint zum Bahnhof ist.",
+            "hu": "A túra a városházánál indul, a gumik halkan zúgnak a nedves aszfalton. Délben a múzeum nyújt hosszú, száraz pihenőt, miközben a biciklik biztonságban pihennek. Délután a Sorne-folyó mentén tekerünk, ahol a víz élénken pezseg. A nap a Porte de Porrentruy-nél zárul, ahonnan csak egy rövid sprint a vasútállomás.",
+            "ro": "Turul începe la primărie, cu anvelopele șuierând pe asfaltul ud. La prânz, muzeul oferă o pauză lungă la uscat, în timp ce bicicletele sunt parcate în siguranță. După-amiaza, traseul urmărește râul Sorne, unde apa curge energic. Ziua se încheie la Porte de Porrentruy, de unde este doar un sprint scurt până la gară.",
+            "en": "The tour starts at the Town Hall, with tires humming on the wet asphalt. At noon, the museum offers an extended dry break while bikes are safely parked. In the afternoon, the ride follows the Sorne River, where the water flows vigorously. The day ends at the Porrentruy Gate, just a short sprint away from the train station."
+          },
+          "stops": [
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Suchen Sie unter den Arkaden Schutz beim Kartenlesen.",
+                "hu": "Keresse az árkádok alatti védelmet térképolvasáshoz.",
+                "ro": "Căutați adăpost sub arcade pentru a consulta harta.",
+                "en": "Seek shelter under the arcades when checking your map."
+              }
+            },
+            {
+              "name": "Savage Fountain & Church of Saint-Marcel",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; die Kirche bietet trockenen Unterschlupf.",
+                "hu": "Rövid megálló; a templom száraz menedéket nyújt.",
+                "ro": "Oprire scurtă; biserica oferă un refugiu uscat.",
+                "en": "Short stop; the church provides a dry refuge."
+              }
+            },
+            {
+              "name": "Jurassic Museum of Art and History",
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich in unmittelbarer Nähe.",
+                "hu": "Kerékpártárolók a közvetlen közelben találhatók.",
+                "ro": "Suporturile de biciclete sunt în imediata apropiere.",
+                "en": "Bike racks are located in the immediate vicinity."
+              }
+            },
+            {
+              "name": "Delémont Castle",
+              "tip_5lang": {
+                "de": "Vorsicht beim Befahren des Schlosshofes bei Nässe.",
+                "hu": "Vigyázat a várudvarra való behajtáskor nedves időben.",
+                "ro": "Atenție la intrarea în curtea castelului pe carosabil ud.",
+                "en": "Be careful when riding into the castle courtyard in the wet."
+              }
+            },
+            {
+              "name": "Ride along the Sorne River",
+              "tip_5lang": {
+                "de": "Der Uferweg kann stellenweise schlammig sein.",
+                "hu": "A folyóparti út helyenként saras lehet.",
+                "ro": "Poteca de pe malul râului poate fi noroioasă pe alocuri.",
+                "en": "The riverside path can be muddy in places."
+              }
+            },
+            {
+              "name": "Porte de Porrentruy",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Tor als Unterstand bei plötzlichem Schauer.",
+                "hu": "Használja a kaput óvóhelyként hirtelen zápor esetén.",
+                "ro": "Folosiți poarta ca adăpost în caz de aversă bruscă.",
+                "en": "Use the gate as a shelter during sudden showers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind für den Weg entlang der Sorne unerlässlich.",
+              "Vermeiden Sie nasses Kopfsteinpflaster, da es sehr rutschig ist.",
+              "Die Markierungen der Radwege können bei Nässe spiegeln.",
+              "Velo-Unterstände am Bahnhof bieten trockene Parkplätze."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a Sorne menti úton.",
+              "Kerülje a nedves macskakövet, mert rendkívül csúszós.",
+              "A kerékpárút jelzései nedvesen tükröződhetnek.",
+              "A vasútállomás biciklitárolói száraz parkolást biztosítanak."
+            ],
+            "ro": [
+              "Aripile de protecție sunt esențiale pentru drumul de-a lungul Sorne.",
+              "Evitați piatra cubică umedă, este extrem de alunecoasă.",
+              "Marcajele pistelor de biciclete pot fi reflectorizante pe ud.",
+              "Adăposturile pentru biciclete de la gară oferă parcare uscată."
+            ],
+            "en": [
+              "Fenders are essential for the path along the Sorne.",
+              "Avoid wet cobblestones as they are extremely slippery.",
+              "Bike lane markings can be reflective when wet.",
+              "Bike shelters at the station provide dry parking."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Vormittag am Rathaus verlangt nach warmen Handschuhen. Mittags lockt das Museum mit Wärme, bevor die Fahrt zum Schloss weitergeht. Am Nachmittag bietet der Weg entlang der Sorne eine klare Winterluft und eine ruhige Atmosphäre. Die Tour endet an der Porte de Porrentruy, während die winterliche Kälte die Fahrt zum Ausklang beschleunigt.",
+            "hu": "A fagyos délelőtt a városházánál meleg kesztyűt követel. Délben a múzeum csábít melegével, mielőtt továbbtekernénk a kastélyhoz. Délután a Sorne menti út tiszta téli levegőt és nyugodt légkört kínál. A túra a Porte de Porrentruy-nél zárul, miközben a téli hideg gyorsabb tempóra ösztönöz a cél felé.",
+            "ro": "Dimineața geroasă la primărie necesită mănuși groase. La prânz, muzeul atrage cu căldură înainte de a continua spre castel. După-amiaza, drumul de-a lungul Sorne oferă aer curat de iarnă și o atmosferă liniștită. Turul se încheie la Porte de Porrentruy, frigul iernii grăbind pasul spre final.",
+            "en": "A frosty morning at the Town Hall calls for warm gloves. At noon, the museum beckons with warmth before continuing the ride to the castle. In the afternoon, the path along the Sorne offers crisp winter air and a serene atmosphere. The tour concludes at the Porrentruy Gate, as the winter chill accelerates the final leg of the ride."
+          },
+          "stops": [
+            {
+              "name": "Town Hall",
+              "tip_5lang": {
+                "de": "Starten Sie zügig, um die Körpertemperatur zu halten.",
+                "hu": "Induljon lendületesen, hogy megőrizze testhőmérsékletét.",
+                "ro": "Porniți energic pentru a menține temperatura corpului.",
+                "en": "Start briskly to maintain your body temperature."
+              }
+            },
+            {
+              "name": "Savage Fountain & Church of Saint-Marcel",
+              "tip_5lang": {
+                "de": "Die Kirche ist ein guter Ort, um kurz zur Ruhe zu kommen.",
+                "hu": "A templom jó hely egy rövid elcsendesedéshez.",
+                "ro": "Biserica este un loc bun pentru o scurtă reculegere.",
+                "en": "The church is a good place to pause for a moment."
+              }
+            },
+            {
+              "name": "Jurassic Museum of Art and History",
+              "tip_5lang": {
+                "de": "Ideale Aufwärmpause in der Mitte der Tour.",
+                "hu": "Ideális melegedő szünet a túra közepén.",
+                "ro": "Pauză de încălzire ideală la mijlocul turului.",
+                "en": "Ideal warming break in the middle of the tour."
+              }
+            },
+            {
+              "name": "Delémont Castle",
+              "tip_5lang": {
+                "de": "Vorsicht vor Reifglätte im schattigen Schlosshof.",
+                "hu": "Ügyeljen a zúzmarára az árnyékos várudvaron.",
+                "ro": "Atenție la chiciură în curtea umbrită a castelului.",
+                "en": "Watch out for frost in the shaded castle courtyard."
+              }
+            },
+            {
+              "name": "Ride along the Sorne River",
+              "tip_5lang": {
+                "de": "Der kalte Wind vom Fluss kann die Fahrt erschweren.",
+                "hu": "A folyó felől fújó hideg szél nehezítheti a haladást.",
+                "ro": "Vântul rece de la râu poate îngreuna deplasarea.",
+                "en": "The cold wind from the river can make riding tougher."
+              }
+            },
+            {
+              "name": "Porte de Porrentruy",
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der schnellen Fahrt zum Bahnhof.",
+                "hu": "Utolsó megálló a vasútállomásra való gyors tekerés előtt.",
+                "ro": "Ultima oprire înainte de drumul rapid spre gară.",
+                "en": "Final stop before the quick ride to the station."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck; Kälte kann ihn leicht senken.",
+              "Tragen Sie winddichte Kleidung, besonders am Flussufer.",
+              "Vorsicht vor Eisplatten in schattigen Gassen der Altstadt.",
+              "Beleuchtung ist ab 16:30 Uhr zwingend erforderlich."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást; a hideg csökkentheti azt.",
+              "Viseljen szélálló ruházatot, különösen a folyóparton.",
+              "Ügyeljen a jégfoltokra az óváros árnyékos utcáin.",
+              "A világítás használata 16:30-tól kötelező."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope; frigul o poate scădea.",
+              "Purtați haine rezistente la vânt, mai ales pe malul râului.",
+              "Atenție la porțiunile cu gheață în zonele umbrite.",
+              "Luminile sunt obligatorii începând cu ora 16:30."
+            ],
+            "en": [
+              "Check your tire pressure; cold can lower it slightly.",
+              "Wear windproof clothing, especially along the riverbank.",
+              "Beware of ice patches in shaded Old Town alleys.",
+              "Bicycle lights are mandatory from 16:30 onwards."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -948,6 +1330,188 @@
           "Plan your route in advance as some mountain roads can be narrow.",
           "A car allows you to explore more remote sights in the Jura."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Tour beginnt entspannt am Parkplatz nahe der Altstadt. Während es draußen regnet, bieten das Schloss und das Museum ausgiebige Indoor-Erlebnisse. Am Nachmittag führt die Fahrt zur Vorbourg-Kapelle, die auch bei trübem Wetter eine mystische Ausstrahlung besitzt. Der Tag endet mit einer kurzen Fahrt entlang der Birs, bevor man trocken die Heimreise antritt.",
+            "hu": "A túra kényelmesen indul az óváros közeli parkolóban. Miközben kint esik, a kastély és a múzeum tartalmas fedett élményeket kínál. Délután a Vorbourg-kápolnához autózunk, amely borús időben is misztikus hangulatot áraszt. A nap egy rövid autózással zárul a Birs mentén, mielőtt szárazon hazaindulnánk.",
+            "ro": "Turul începe relaxat la parcarea de lângă centrul vechi. În timp ce afară plouă, castelul și muzeul oferă experiențe de interior bogate. După-amiaza, drumul duce la Capela Vorbourg, care are o aură mistică și pe vreme mohorâtă. Ziua se încheie cu o scurtă plimbare cu mașina pe lângă Birs.",
+            "en": "The tour begins relaxed at a parking lot near the Old Town. While it rains outside, the castle and museum offer extensive indoor experiences. In the afternoon, the drive leads to the Vorbourg Chapel, which possesses a mystical aura even in gloomy weather. The day ends with a short drive along the Birs before heading home dry."
+          },
+          "stops": [
+            {
+              "name": "Old Town Cluster: Park and Start",
+              "tip_5lang": {
+                "de": "Nutzen Sie ein Parkhaus für einen trockenen Ausstieg.",
+                "hu": "Használjon parkolóházat a száraz kiszálláshoz.",
+                "ro": "Folosiți o parcare acoperită pentru a coborî la uscat.",
+                "en": "Use a parking garage for a dry exit from the car."
+              }
+            },
+            {
+              "name": "Wolf Gate & Delémont Castle",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten minimieren den Regen.",
+                "hu": "A látnivalók közötti rövid táv minimalizálja az esőt.",
+                "ro": "Distanțele scurte între obiective minimizează expunerea.",
+                "en": "Short distances between sights minimize rain exposure."
+              }
+            },
+            {
+              "name": "Church of Saint-Marcel & Savage Fountain",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang der Kirche.",
+                "hu": "Parkoljon a lehető legközelebb a templom bejáratához.",
+                "ro": "Parcați cât mai aproape de intrarea bisericii.",
+                "en": "Park as close as possible to the church entrance."
+              }
+            },
+            {
+              "name": "Jurassic Museum of Art and History",
+              "tip_5lang": {
+                "de": "Perfekt für die regenreichste Zeit des Tages.",
+                "hu": "Tökéletes a nap legesősebb időszakára.",
+                "ro": "Perfect pentru cea mai ploioasă perioadă a zilei.",
+                "en": "Perfect for the rainiest part of the day."
+              }
+            },
+            {
+              "name": "Vorbourg Cluster: Vorbourg Chapel",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht direkt aus dem Auto.",
+                "hu": "Élvezze a kilátást közvetlenül az autóból.",
+                "ro": "Bucurați-vă de priveliște direct din mașină.",
+                "en": "Enjoy the view directly from your car."
+              }
+            },
+            {
+              "name": "Walk along the Birs riverbank",
+              "tip_5lang": {
+                "de": "Ein kurzer Blick auf den Fluss genügt bei starkem Regen.",
+                "hu": "Erős esőben egy rövid pillantás a folyóra is elég.",
+                "ro": "O privire scurtă spre râu e suficientă pe ploaie.",
+                "en": "A brief look at the river is enough during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkplätze in der blauen Zone erfordern eine Parkscheibe.",
+              "Die Zufahrt zur Altstadt ist für den allgemeinen Verkehr begrenzt.",
+              "Die Straße zur Vorbourg-Kapelle ist schmal, fahren Sie vorsichtig.",
+              "Regenschirm immer griffbereit im Auto lassen."
+            ],
+            "hu": [
+              "A kék zónás parkolókhoz parkolótárcsa szükséges.",
+              "Az óvárosba való behajtás a forgalom számára korlátozott.",
+              "A Vorbourg-kápolnához vezető út szűk, vezessen óvatosan.",
+              "Az esernyőt mindig tartsa kéznél az autóban."
+            ],
+            "ro": [
+              "Parcările din zona albastră necesită un disc de parcare.",
+              "Accesul auto în centrul vechi este restricționat.",
+              "Drumul spre Capela Vorbourg este îngust, conduceți cu grijă.",
+              "Lăsați umbrela la îndemână în mașină."
+            ],
+            "en": [
+              "Blue zone parking spots require a parking disc.",
+              "Access to the Old Town is restricted for general traffic.",
+              "The road to Vorbourg Chapel is narrow; drive carefully.",
+              "Keep an umbrella handy in the car at all times."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt mit einer Fahrt durch die verschneite Juralandschaft. Das beheizte Auto bietet Komfort zwischen den Stopps im Schloss und im Museum. Am Nachmittag führt die steile Fahrt zur Vorbourg-Kapelle, die majestätisch über dem weißen Tal thront. Der Tag endet an der Birs, wo der Frost das Ufer in eine glitzernde Welt verwandelt hat.",
+            "hu": "A téli reggel autózással indul a havas Jura-tájon át. A fűtött autó kényelmet nyújt a kastély és a múzeum meglátogatása között. Délután a meredek út a Vorbourg-kápolnához vezet, amely fenségesen magasodik a fehér völgy fölé. A nap a Birs-nél zárul, ahol a fagy csillogó világgá változtatta a partot.",
+            "ro": "Dimineața de iarnă începe cu un drum prin peisajul înzăpezit din Jura. Mașina încălzită oferă confort între vizitele la castel și muzeu. După-amiaza, drumul abrupt duce la Capela Vorbourg, care tronează peste valea albă. Ziua se încheie la Birs, unde înghețul a transformat malul într-o lume sclipitoare.",
+            "en": "The winter morning begins with a drive through the snowy Jura landscape. The heated car provides comfort between stops at the castle and museum. In the afternoon, the steep drive leads to Vorbourg Chapel, majestically overlooking the white valley. The day ends at the Birs, where frost has transformed the banks into a glittering wonderland."
+          },
+          "stops": [
+            {
+              "name": "Old Town Cluster: Park and Start",
+              "tip_5lang": {
+                "de": "Achten Sie auf geräumte Parkflächen.",
+                "hu": "Ügyeljen a megtisztított parkolóhelyekre.",
+                "ro": "Căutați locuri de parcare deszăpezite.",
+                "en": "Look for cleared parking spaces."
+              }
+            },
+            {
+              "name": "Wolf Gate & Delémont Castle",
+              "tip_5lang": {
+                "de": "Die Heizung im Auto zwischen den Sights kurz hochdrehen.",
+                "hu": "A látnivalók között tekerje fel a fűtést az autóban.",
+                "ro": "Porniți căldura la maximum între obiective.",
+                "en": "Turn up the car heater between sightseeing stops."
+              }
+            },
+            {
+              "name": "Church of Saint-Marcel & Savage Fountain",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Spritzwasser am Brunnen.",
+                "hu": "Vigyázat a kútnál lévő fagyott vízpermettel.",
+                "ro": "Atenție la apa înghețată din jurul fântânii.",
+                "en": "Beware of frozen spray around the fountain."
+              }
+            },
+            {
+              "name": "Jurassic Museum of Art and History",
+              "tip_5lang": {
+                "de": "Ein langer Stopp im Warmen ist nun ideal.",
+                "hu": "Egy hosszú, meleg megálló most ideális.",
+                "ro": "O oprire lungă la căldură este ideală acum.",
+                "en": "A long stop in the warm interior is ideal now."
+              }
+            },
+            {
+              "name": "Vorbourg Cluster: Vorbourg Chapel",
+              "tip_5lang": {
+                "de": "Winterreifen sind für die Auffahrt zwingend erforderlich.",
+                "hu": "A felvezető úthoz a téli gumi kötelező.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pentru urcare.",
+                "en": "Winter tires are mandatory for the drive up."
+              }
+            },
+            {
+              "name": "Walk along the Birs riverbank",
+              "tip_5lang": {
+                "de": "Der Uferweg kann bei Frost spiegelglatt sein.",
+                "hu": "A folyóparti út fagy esetén tükörsima lehet.",
+                "ro": "Poteca de pe mal poate fi extrem de alunecoasă.",
+                "en": "The riverside path can be ice-slicked during frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Eiskratzer sind im Jura ein Muss.",
+              "Die Bergstraßen können bei plötzlichem Schneefall tückisch sein.",
+              "Parkhäuser sind im Winter wärmer für das Fahrzeug.",
+              "Abblendlicht auch tagsüber bei winterlichen Sichtverhältnissen."
+            ],
+            "hu": [
+              "A téli gumi és a jégkaparó alapfelszerelés a Jurában.",
+              "A hegyi utak hirtelen hóesésben trükkösek lehetnek.",
+              "A parkolóházak télen kedvezőbbek az autónak.",
+              "Téli látási viszonyok között nappal is használjon tompított fényt."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și racleta sunt obligatorii în Jura.",
+              "Drumurile montane pot fi înșelătoare la ninsori bruște.",
+              "Parcările acoperite sunt mai bune pentru vehicul iarna.",
+              "Folosiți faza scurtă și ziua în condiții de vizibilitate redusă."
+            ],
+            "en": [
+              "Winter tires and an ice scraper are must-haves in the Jura.",
+              "Mountain roads can be tricky during sudden snowfall.",
+              "Parking garages are warmer for the vehicle in winter.",
+              "Use low beam lights even during the day in winter conditions."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1227,6 +1791,188 @@
           "A day pass is often cheaper than single tickets.",
           "Many buses are equipped with screens showing the next stops."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Ankunft an der Haltestelle Vieille Ville führt direkt in das Herz von Delémont. Das Museum bietet mittags eine trockene Oase der Kultur. Nachmittags erkunden wir das Schloss und die Kirche, wobei die kurzen Wege zwischen den Gebäuden ideal für Regentage sind. Der Tag endet am Bahnhof, wo man gemütlich im Trockenen auf den nächsten Zug oder Bus warten kann.",
+            "hu": "A Vieille Ville megállóhoz való érkezés közvetlenül Delémont szívébe vezet. A múzeum délben a kultúra száraz oázisát kínálja. Délután a kastélyt és a templomot fedezzük fel, ahol az épületek közti rövid távolság ideális esős napokra. A nap a vasútállomáson zárul, ahol kényelmesen, szárazon várhatjuk a csatlakozást.",
+            "ro": "Sosirea la stația Vieille Ville te duce direct în inima orașului. Muzeul oferă la prânz o oază culturală uscată. După-amiaza explorăm castelul și biserica, distanțele scurte fiind ideale pentru zilele ploioase. Ziua se încheie la gară, unde poți aștepta confortabil trenul sau autobuzul.",
+            "en": "Arriving at the 'Vieille Ville' stop leads directly into the heart of Delémont. The museum offers a dry cultural oasis at noon. In the afternoon, we explore the castle and church, where the short distances between buildings are ideal for rainy days. The day ends at the train station, where you can wait comfortably in the dry for your next connection."
+          },
+          "stops": [
+            {
+              "name": "Old Town Cluster: Arrival at 'Vieille Ville' stop",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Wartehäuschen, bis der Regen nachlässt.",
+                "hu": "Várjon a megálló fedele alatt, amíg alábbhagy az eső.",
+                "ro": "Așteptați sub adăpostul stației până se potolește ploaia.",
+                "en": "Wait under the station shelter until the rain lets up."
+              }
+            },
+            {
+              "name": "Jurassic Museum & Town Hall",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Bus bringt Sie direkt ins Trockene.",
+                "hu": "A busztól egy rövid sprinttel máris szárazon lesz.",
+                "ro": "Un sprint scurt de la autobuz vă duce direct la uscat.",
+                "en": "A short sprint from the bus gets you straight into the dry."
+              }
+            },
+            {
+              "name": "Church of Saint-Marcel & Delémont Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Durchgänge für maximale Trockenheit.",
+                "hu": "Használja az átjárókat a maximális szárazság érdekében.",
+                "ro": "Folosiți pasajele pentru a rămâne cât mai uscat.",
+                "en": "Use the passageways to stay as dry as possible."
+              }
+            },
+            {
+              "name": "Train Station Cluster: Arrival and Lunch",
+              "tip_5lang": {
+                "de": "Der Bahnhof bietet zahlreiche gastronomische Optionen.",
+                "hu": "A vasútállomás számos étkezési lehetőséget kínál.",
+                "ro": "Gara oferă numeroase opțiuni gastronomice.",
+                "en": "The train station offers numerous dining options."
+              }
+            },
+            {
+              "name": "Clock Tower",
+              "tip_5lang": {
+                "de": "Betrachten Sie den Turm im Vorbeigehen zur nächsten Haltestelle.",
+                "hu": "Tekintse meg a tornyot a következő megálló felé menet.",
+                "ro": "Admirați turnul în drum spre următoarea stație.",
+                "en": "Admire the tower while walking to the next stop."
+              }
+            },
+            {
+              "name": "Porte de Porrentruy",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle 'Porte de Porrentruy' ist ganz nah.",
+                "hu": "A 'Porte de Porrentruy' buszmegálló egészen közel van.",
+                "ro": "Stația de autobuz 'Porte de Porrentruy' este foarte aproape.",
+                "en": "The 'Porte de Porrentruy' bus stop is very close by."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die SBB-App zeigt Echtzeit-Verspätungen bei Unwettern an.",
+              "Nutzen Sie die Postauto-Linien für Fahrten in die Umgebung.",
+              "Bahnhöfe in der Schweiz sind meist gut überdacht.",
+              "Kaufen Sie Ihr Ticket vorab online, um Automaten-Schlangen im Regen zu meiden."
+            ],
+            "hu": [
+              "Az SBB alkalmazás valós idejű késéseket mutat vihar esetén.",
+              "Használja a Postauto vonalait a környék felfedezéséhez.",
+              "A svájci vasútállomások többsége jól fedett.",
+              "Vegye meg jegyét online, hogy elkerülje az automatáknál a sorban állást az esőben."
+            ],
+            "ro": [
+              "Aplicația SBB arată întârzierile în timp real în caz de furtună.",
+              "Folosiți liniile Postauto pentru excursii în împrejurimi.",
+              "Gările din Elveția sunt de regulă bine acoperite.",
+              "Cumpărați biletul online pentru a evita cozile la automate pe ploaie."
+            ],
+            "en": [
+              "The SBB app shows real-time delays during bad weather.",
+              "Use the Postauto lines for trips to the surrounding areas.",
+              "Swiss train stations are usually well-covered.",
+              "Buy your ticket online beforehand to avoid queuing at machines in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt mit der Ankunft in der Altstadt. Die kurzen Wege zwischen den beheizten Bussen und den Museen machen den Besuch angenehm. Nachmittags besichtigen wir das historische Schloss, bevor es zum Aufwärmen und Mittagessen zum Bahnhof geht. Die Tour endet stimmungsvoll an den beleuchteten Stadttoren, bevor uns der Nahverkehr sicher zurückbringt.",
+            "hu": "Egy tiszta téli nap indul az óvárosba érkezéssel. A fűtött buszok és a múzeumok közti rövid távolságok kellemessé teszik a látogatást. Délután a történelmi kastélyt nézzük meg, majd a vasútállomásra megyünk melegedni és ebédelni. A túra hangulatosan zárul a kivilágított városkapuknál, mielőtt a tömegközlekedés biztonságban hazavisz.",
+            "ro": "O zi senină de iarnă începe cu sosirea în centrul vechi. Distanțele scurte între autobuzele încălzite și muzee fac vizita plăcută. După-amiaza vizităm castelul istoric, apoi mergem la gară pentru prânz și încălzire. Turul se încheie atmosferic la porțile iluminate ale orașului.",
+            "en": "A crisp winter day begins with arrival in the Old Town. Short distances between heated buses and museums make the visit pleasant. In the afternoon, we tour the historic castle before heading to the station to warm up and have lunch. The tour ends atmospherically at the illuminated city gates before transit takes us safely back."
+          },
+          "stops": [
+            {
+              "name": "Old Town Cluster: Arrival at 'Vieille Ville' stop",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter gut beheizt.",
+                "hu": "A buszok télen jól fűtöttek.",
+                "ro": "Autobuzele sunt bine încălzite iarna.",
+                "en": "Buses are well-heated in winter."
+              }
+            },
+            {
+              "name": "Jurassic Museum & Town Hall",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um der Kälte zu entfliehen.",
+                "hu": "Tökéletes hely a hideg elől való menekülésre.",
+                "ro": "Un loc perfect pentru a scăpa de frig.",
+                "en": "A perfect place to escape the cold."
+              }
+            },
+            {
+              "name": "Church of Saint-Marcel & Delémont Castle",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg durch die winterliche Altstadt.",
+                "hu": "Rövid séta a téli óvároson át.",
+                "ro": "Scurtă plimbare prin orașul vechi iernatic.",
+                "en": "Short walk through the wintry Old Town."
+              }
+            },
+            {
+              "name": "Train Station Cluster: Arrival and Lunch",
+              "tip_5lang": {
+                "de": "Genießen Sie ein heißes Getränk im Bahnhofscafé.",
+                "hu": "Élvezzen egy forró italt a vasúti kávézóban.",
+                "ro": "Savurați o băutură caldă la cafeneaua din gară.",
+                "en": "Enjoy a hot drink at the station café."
+              }
+            },
+            {
+              "name": "Clock Tower",
+              "tip_5lang": {
+                "de": "Die Beleuchtung des Turms beginnt in der frühen Dämmerung.",
+                "hu": "A torony kivilágítása már kora szürkületkor elkezdődik.",
+                "ro": "Iluminarea turnului începe devreme, la amurg.",
+                "en": "Tower lighting begins in the early twilight."
+              }
+            },
+            {
+              "name": "Porte de Porrentruy",
+              "tip_5lang": {
+                "de": "Von hier fahren Busse direkt zurück zum Bahnhof.",
+                "hu": "Innentől buszok indulnak közvetlenül vissza a pályaudvarra.",
+                "ro": "De aici pleacă autobuze direct înapoi spre gară.",
+                "en": "Buses run directly back to the station from here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Züge und Busse verkehren auch bei Schnee meist pünktlich.",
+              "Die Wartebereiche im Bahnhof Delémont sind beheizt.",
+              "Achten Sie auf geänderte Fahrpläne an Feiertagen im Winter.",
+              "In der Dämmerung ist die Altstadt besonders schön beleuchtet."
+            ],
+            "hu": [
+              "A vonatok és buszok hóban is többnyire pontosak.",
+              "A delémonti vasútállomás várótermei fűtöttek.",
+              "Ügyeljen a téli ünnepnapok módosított menetrendjére.",
+              "Szürkületben az óváros különösen szépen van kivilágítva."
+            ],
+            "ro": [
+              "Trenurile și autobuzele circulă de regulă la timp și pe zăpadă.",
+              "Sălile de așteptare din gara Delémont sunt încălzite.",
+              "Atenție la orarele modificate în timpul sărbătorilor de iarnă.",
+              "Centrul vechi este superb iluminat la lăsarea serii."
+            ],
+            "en": [
+              "Trains and buses mostly run on time even in snow.",
+              "Waiting areas in Delémont station are heated.",
+              "Check for modified schedules during winter holidays.",
+              "The Old Town is beautifully illuminated at twilight."
+            ]
+          }
+        }
       }
     }
   }

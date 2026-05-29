@@ -356,6 +356,188 @@
           "Check the castle's opening hours in advance.",
           "The weather can change quickly, so pack a light jacket."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie an der Bahnhofstrasse, wo Ladenpassagen Schutz bieten. Mittags erkunden Sie das Rathaus und die Kirche, während die Wolken tief hängen. Der Nachmittag gehört dem Schloss Werdenberg, dessen Museum ein trockenes Refugium bietet. Den Abend lassen Sie bei einem Blick auf den stürmischen See und einem gemütlichen Abendessen in der Stadt ausklingen.",
+            "hu": "Kezdje a napot a Bahnhofstrasse boltívei alatt, védve az esőtől. Délben a városháza és a református templom belső terei nyújtanak menedéket. A délutánt töltse a Werdenberg-kastély múzeumában, ahol szárazon ismerkedhet a történelemmel. Az estét a szürke tóparti látvány után egy hangulatos helyi étteremben fejezze be.",
+            "ro": "Începeți pe Bahnhofstrasse, profitând de arcadele magazinelor. La prânz, vizitați primăria și biserica pentru a rămâne la adăpost. După-amiaza este ideală pentru muzeul Castelului Werdenberg, un refugiu cultural uscat. Seara se încheie cu o plimbare scurtă pe lângă lacul învolburat și o cină caldă în centru.",
+            "en": "Start at Bahnhofstrasse, using shop eaves for cover. At noon, the Town Hall and Church provide brief shelter. Spend the afternoon inside the Werdenberg Castle museum, staying dry while exploring history. End the day with a view of the misty lake and a cozy dinner in the town center."
+          },
+          "stops": [
+            {
+              "name": "Start: Bahnhofstrasse",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Vordächer der Geschäfte.",
+                "hu": "Használja az üzletek előtetőit.",
+                "ro": "Folosiți copertinele magazinelor.",
+                "en": "Use the shop awnings for cover."
+              }
+            },
+            {
+              "name": "Buchs Town Hall",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp unter dem Regenschirm.",
+                "hu": "Gyors fotó az esernyő alól.",
+                "ro": "Oprire rapidă sub umbrelă.",
+                "en": "Quick photo stop under an umbrella."
+              }
+            },
+            {
+              "name": "Reformed Church of Buchs",
+              "tip_5lang": {
+                "de": "Perfekt für eine trockene Pause.",
+                "hu": "Tökéletes hely egy száraz pihenőre.",
+                "ro": "Perfect pentru o pauză uscată.",
+                "en": "Perfect for a dry break inside."
+              }
+            },
+            {
+              "name": "Werdenberg Castle & Town",
+              "tip_5lang": {
+                "de": "Das Museum ist komplett überdacht.",
+                "hu": "A múzeum teljesen fedett.",
+                "ro": "Muzeul este complet acoperit.",
+                "en": "The museum is fully indoors."
+              }
+            },
+            {
+              "name": "Walk at Werdenbergersee Lake",
+              "tip_5lang": {
+                "de": "Vorsicht, die Wege können matschig sein.",
+                "hu": "Vigyázat, az utak sárosak lehetnek.",
+                "ro": "Atenție, potecile pot fi noroioase.",
+                "en": "Careful, paths can be muddy."
+              }
+            },
+            {
+              "name": "Rhine Promenade",
+              "tip_5lang": {
+                "de": "Windfeste Kleidung ist hier wichtig.",
+                "hu": "A szélálló ruházat itt fontos.",
+                "ro": "Hainele rezistente la vânt sunt esențiale.",
+                "en": "Windproof clothing is essential here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für den See.",
+              "Das Schlossmuseum ist die beste Regenoption.",
+              "Nutzen Sie Cafés an der Bahnhofstrasse.",
+              "Regenschirme sind im Rheintal oft windanfällig."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a tóparti sétához.",
+              "A kastélymúzeum a legjobb esős program.",
+              "Használja ki a Bahnhofstrasse kávézóit.",
+              "Az esernyő a szeles Rajna-völgyben kevés lehet."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru lac.",
+              "Muzeul castelului este cea mai bună opțiune.",
+              "Vizitați cafenelele de pe Bahnhofstrasse.",
+              "Umbrelele pot fi inutile în valea vântoasă."
+            ],
+            "en": [
+              "Wear waterproof shoes for the lake path.",
+              "The castle museum is the best rainy option.",
+              "Take breaks in Bahnhofstrasse cafes.",
+              "Umbrellas can be tricky in the windy Rhine valley."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen an der Bahnhofstrasse beginnt mit warmem Kaffee. Mittags glänzt die Stadt im Winterlicht, während Sie die historische Kirche besuchen. Das Schloss Werdenberg wirkt im Schnee wie aus einem Märchen. Vor dem frühen Sonnenuntergang genießen Sie die klare Luft am Rhein, bevor die Lichter der Stadt den Winterabend erhellen.",
+            "hu": "A fagyos reggel a Bahnhofstrasse kávézóiban indul. Délben a város téli fényekben úszik, miközben meglátogatja a templomot. A Werdenberg-kastély hófödte falai mesebeli látványt nyújtanak. A korai naplemente előtt szippantson a friss Rajna-menti levegőből, majd élvezze a kivilágított kisváros esti hangulatát.",
+            "ro": "O dimineață geroasă pe Bahnhofstrasse începe cu o cafea fierbinte. La prânz, orașul strălucește în lumina iernii în timp ce vizitați biserica. Castelul Werdenberg acoperit de zăpadă arată ca într-o poveste. Înainte de apusul timpuriu, bucurați-vă de aerul rece de pe Rin și de luminile serii.",
+            "en": "A frosty morning on Bahnhofstrasse starts with warm coffee. At noon, the town glows in winter light as you visit the church. Werdenberg Castle looks like a fairytale in the snow. Before the early sunset, enjoy the crisp air by the Rhine followed by the warm glow of evening city lights."
+          },
+          "stops": [
+            {
+              "name": "Start: Bahnhofstrasse",
+              "tip_5lang": {
+                "de": "Holen Sie sich ein Heißgetränk.",
+                "hu": "Vegyél egy forró italt kezdésnek.",
+                "ro": "Luați o băutură caldă la început.",
+                "en": "Grab a hot drink to start."
+              }
+            },
+            {
+              "name": "Buchs Town Hall",
+              "tip_5lang": {
+                "de": "Achtung bei vereisten Gehwegen.",
+                "hu": "Vigyázat a jeges járdákkal.",
+                "ro": "Atenție la trotuarele înghețate.",
+                "en": "Watch out for icy pavements."
+              }
+            },
+            {
+              "name": "Reformed Church of Buchs",
+              "tip_5lang": {
+                "de": "Ein ruhiger, windgeschützter Ort.",
+                "hu": "Csendes, szélvédett helyszín.",
+                "ro": "Un loc liniștit, ferit de vânt.",
+                "en": "A quiet place sheltered from wind."
+              }
+            },
+            {
+              "name": "Werdenberg Castle & Town",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten.",
+                "hu": "Ellenőrizze a téli nyitvatartást.",
+                "ro": "Verificați programul de iarnă.",
+                "en": "Check winter opening hours."
+              }
+            },
+            {
+              "name": "Walk at Werdenbergersee Lake",
+              "tip_5lang": {
+                "de": "Der See ist im Winter oft gefroren.",
+                "hu": "A tó télen gyakran befagy.",
+                "ro": "Lacul este adesea înghețat iarna.",
+                "en": "The lake is often frozen in winter."
+              }
+            },
+            {
+              "name": "Rhine Promenade",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind hier Pflicht.",
+                "hu": "A meleg kesztyű itt kötelező.",
+                "ro": "Mănușile groase sunt obligatorii aici.",
+                "en": "Warm gloves are a must here."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Sonnenuntergang ist bereits gegen 16:45 Uhr.",
+              "Tragen Sie Schichten gegen den kalten Wind.",
+              "Die Altstadt Werdenberg ist besonders stimmungsvoll.",
+              "Feste Sohlen verhindern Ausrutschen auf Eis."
+            ],
+            "hu": [
+              "A naplemente már 16:45 körül bekövetkezik.",
+              "Öltözzön rétegesen a hideg szél ellen.",
+              "Werdenberg óvárosa télen rendkívül hangulatos.",
+              "A vastag talpú cipő véd a jeges csúszástól."
+            ],
+            "ro": [
+              "Apusul este în jur de ora 16:45.",
+              "Îmbrăcați-vă în straturi contra vântului.",
+              "Centrul istoric Werdenberg este superb iarna.",
+              "Tălpile aderente previn alunecarea pe gheață."
+            ],
+            "en": [
+              "Sunset is early, around 4:45 PM.",
+              "Dress in layers against the cold wind.",
+              "Werdenberg old town is very atmospheric now.",
+              "Sturdy soles prevent slipping on ice."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -706,6 +888,188 @@
           "A small repair kit can be useful.",
           "The paths are well-signposted, but a map or GPS is always a good idea."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Rüsten Sie Ihr Rad mit Schutzblechen aus. Vormittags führt der Weg zum Schloss Werdenberg über nasse, aber asphaltierte Straßen. Mittags bietet der See eine mystische Kulisse im Regen. Die Fahrt am Rhein entlang erfordert volle Konzentration und gute Regenbekleidung, bevor Sie den Tag am Bahnhof sicher beenden.",
+            "hu": "Szerelje fel kerékpárját sárvédővel. Délelőtt a Werdenberg-kastélyhoz vezető út vizes, de aszfaltozott. Délben a tó misztikus látványt nyújt az esőben. A Rajna menti tekerés teljes koncentrációt és jó esőruhát igényel, mielőtt biztonságban visszaérne az állomásra.",
+            "ro": "Echipai bicicleta cu apărători de noroi. Dimineața, drumul spre Castelul Werdenberg este umed, dar asfaltat. La prânz, lacul oferă un peisaj mistic în ploaie. Plimbarea pe Rin necesită concentrare și haine impermeabile înainte de întoarcerea la gară.",
+            "en": "Equip your bike with mudguards. In the morning, the ride to Werdenberg Castle is wet but paved. At noon, the lake offers a mystical backdrop in the rain. Cycling along the Rhine requires focus and good rain gear before safely returning to the station."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start at Bahnhofstrasse",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Sattelschutz.",
+                "hu": "Kérjen nyeregvédőt a kölcsönzőben.",
+                "ro": "Cereți o protecție pentru șa.",
+                "en": "Ask for a saddle cover at rental."
+              }
+            },
+            {
+              "name": "Werdenberg Castle",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster.",
+                "hu": "Vigyázat a vizes macskakövön.",
+                "ro": "Atenție pe pavajul umed.",
+                "en": "Be careful on wet cobblestones."
+              }
+            },
+            {
+              "name": "Werdenbergersee Lake",
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig auf Kieswegen.",
+                "hu": "Fékezzen időben a kavicsos úton.",
+                "ro": "Frânați din timp pe pietriș.",
+                "en": "Brake early on gravel paths."
+              }
+            },
+            {
+              "name": "Rhine Promenade",
+              "tip_5lang": {
+                "de": "Der Asphalt kann rutschig sein.",
+                "hu": "Az aszfalt csúszós lehet.",
+                "ro": "Asfaltul poate fi alunecos.",
+                "en": "The asphalt can be slippery."
+              }
+            },
+            {
+              "name": "Buchs Bird of Prey Park",
+              "tip_5lang": {
+                "de": "Überdachte Bereiche zum Unterstellen.",
+                "hu": "Fedett részek a várakozáshoz.",
+                "ro": "Zone acoperite pentru adăpost.",
+                "en": "Covered areas available for shelter."
+              }
+            },
+            {
+              "name": "Back to Bahnhofstrasse",
+              "tip_5lang": {
+                "de": "Trocknen Sie das Rad kurz ab.",
+                "hu": "Törölje át röviden a biciklit.",
+                "ro": "Ștergeți puțin bicicleta.",
+                "en": "Give the bike a quick wipe down."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie plötzliches Bremsen auf nassem Laub.",
+              "Wasserdichte Handschuhe halten die Hände warm.",
+              "Nutzen Sie den Radweg direkt am Rheindamm.",
+              "Sichtbarkeit erhöhen durch Reflektoren."
+            ],
+            "hu": [
+              "Kerülje a hirtelen fékezést a vizes avaron.",
+              "A vízálló kesztyű melegen tartja a kezet.",
+              "Használja a Rajna-gáton futó kerékpárutat.",
+              "Láthatóságát növelje fényvisszaverőkkel."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe frunze ude.",
+              "Mănușile impermeabile mențin mâinile calde.",
+              "Folosiți pista de pe digul Rinului.",
+              "Creșteți vizibilitatea cu reflectoare."
+            ],
+            "en": [
+              "Avoid sudden braking on wet leaves.",
+              "Waterproof gloves keep hands warm.",
+              "Use the cycle path on the Rhine embankment.",
+              "Increase visibility with reflectors."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bereiten Sie sich auf eine kalte Fahrt durch das Rheintal vor. Vormittags glitzert der Reif auf den Wegen zum Schloss. Die Mittagsrast am See ist kurz, aber erfrischend. Nachmittags bietet der Vogelpark ein besonderes Wintererlebnis, bevor Sie im schwindenden Tageslicht zügig zurück in die Stadt radeln.",
+            "hu": "Készüljön fel egy hideg tekerésre a Rajna-völgyben. Délelőtt a zúzmara csillog a kastélyhoz vezető utakon. A tavi pihenő rövid, de frissítő. Délután a madárpark különleges téli élményt nyújt, majd a fogyatkozó fényben tekerjen vissza a városba.",
+            "ro": "Pregătiți-vă pentru o tură rece prin valea Rinului. Dimineața, chiciura strălucește pe drumul spre castel. Pauza de la lac este scurtă, dar revigorantă. După-amiaza, parcul de păsări oferă o experiență de iarnă, apoi pedalați rapid înapoi.",
+            "en": "Prepare for a cold ride through the Rhine valley. In the morning, frost sparkles on the paths to the castle. The lunch break by the lake is short but refreshing. In the afternoon, the bird park offers a winter experience before cycling back in the fading light."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental & Start at Bahnhofstrasse",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck.",
+                "hu": "Ellenőrizze a guminyomást.",
+                "ro": "Verificați presiunea în pneuri.",
+                "en": "Check tire pressure before start."
+              }
+            },
+            {
+              "name": "Werdenberg Castle",
+              "tip_5lang": {
+                "de": "Schattige Stellen können glatt sein.",
+                "hu": "Az árnyékos részek jegesek lehetnek.",
+                "ro": "Zonele umbrite pot fi înghețate.",
+                "en": "Shady spots can be icy."
+              }
+            },
+            {
+              "name": "Werdenbergersee Lake",
+              "tip_5lang": {
+                "de": "Kurze Pause, um nicht auszukühlen.",
+                "hu": "Rövid pihenő, hogy ne fagyjon meg.",
+                "ro": "Pauză scurtă pentru a nu îngheța.",
+                "en": "Keep breaks short to stay warm."
+              }
+            },
+            {
+              "name": "Rhine Promenade",
+              "tip_5lang": {
+                "de": "Der Fahrtwind ist hier sehr kalt.",
+                "hu": "A menetszél itt nagyon hideg.",
+                "ro": "Vântul este foarte rece aici.",
+                "en": "The wind chill is strong here."
+              }
+            },
+            {
+              "name": "Buchs Bird of Prey Park",
+              "tip_5lang": {
+                "de": "Trinken Sie einen heißen Tee.",
+                "hu": "Igyon egy forró teát.",
+                "ro": "Beți un ceai fierbinte.",
+                "en": "Enjoy a hot tea if available."
+              }
+            },
+            {
+              "name": "Back to Bahnhofstrasse",
+              "tip_5lang": {
+                "de": "Licht einschalten bei Dämmerung.",
+                "hu": "Sötétedéskor kapcsolja be a lámpát.",
+                "ro": "Aprindeți luminile la amurg.",
+                "en": "Turn on lights at dusk."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermalunterwäsche ist bei Frost ratsam.",
+              "Achten Sie auf Glatteis in Unterführungen.",
+              "Tragen Sie eine winddichte Kopfbedeckung.",
+              "Planen Sie die Rückkehr vor 16:30 Uhr."
+            ],
+            "hu": [
+              "A hőtartó aláöltözet fagyban ajánlott.",
+              "Ügyeljen a jégre az aluljárókban.",
+              "Viseljen szélálló sapkát.",
+              "Tervezze a visszaérkezést 16:30 előtt."
+            ],
+            "ro": [
+              "Lenjeria termică este recomandată pe ger.",
+              "Atenție la gheață în pasaje.",
+              "Purtați o căciulă rezistentă la vânt.",
+              "Planificați întoarcerea înainte de 16:30."
+            ],
+            "en": [
+              "Thermal underwear is advised in frost.",
+              "Watch out for black ice in underpasses.",
+              "Wear a windproof hat under your helmet.",
+              "Plan to be back by 4:30 PM."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -1090,6 +1454,206 @@
           "Plan extra time for unexpected stops at beautiful viewpoints.",
           "A GPS is essential."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Komfort Ihres Autos bei Regen. Vormittags besuchen Sie das Rathaus und Schloss Werdenberg, wobei Sie fast direkt vor der Tür parken können. Der Abstecher zum Alvier Aussichtspunkt bietet dramatische Wolkenformationen über dem Tal. Nachmittags ist der Greifvogelpark trotz Regen ein Erlebnis, bevor Sie entspannt zurückfahren.",
+            "hu": "Élvezze autója kényelmét az esőben. Délelőtt a városházát és a kastélyt látogatja meg, ahol szinte az ajtóban parkolhat. Az Alvier kilátópontnál drámai felhőjátékot láthat a völgy felett. Délután a madárpark esőben is látogatható, mielőtt kényelmesen visszatérne a szállására.",
+            "ro": "Bucurați-vă de confortul mașinii pe ploaie. Dimineața vizitați primăria și castelul, parcând aproape de intrare. Oprirea la punctul de belvedere Alvier oferă nori dramatici peste vale. După-amiaza, parcul de păsări rămâne o opțiune validă înainte de plecare.",
+            "en": "Enjoy the comfort of your car in the rain. Visit the Town Hall and Castle in the morning, parking almost at the door. The drive to Alvier Viewpoint offers dramatic cloud formations over the valley. Spend the afternoon at the bird park before a relaxed drive back."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Park in the Center & Bahnhofstrasse",
+              "tip_5lang": {
+                "de": "Parkhaus im Zentrum nutzen.",
+                "hu": "Használja a központi parkolóházat.",
+                "ro": "Folosiți parcarea supraetajată.",
+                "en": "Use the multi-story car park."
+              }
+            },
+            {
+              "name": "Town Hall & Reformed Church",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Zielen.",
+                "hu": "Rövid távolságok a célpontok közt.",
+                "ro": "Distanțe scurte între obiective.",
+                "en": "Short walking distances here."
+              }
+            },
+            {
+              "name": "Cluster 2: Drive to Werdenberg Castle",
+              "tip_5lang": {
+                "de": "Parkplatz Marktplatz ist nah.",
+                "hu": "A Marktplatz parkoló közel van.",
+                "ro": "Parcarea Marktplatz este aproape.",
+                "en": "Marktplatz parking is nearby."
+              }
+            },
+            {
+              "name": "Walk at Werdenbergersee Lake",
+              "tip_5lang": {
+                "de": "Vom Auto aus den Blick genießen.",
+                "hu": "Élvezze a kilátást az autóból.",
+                "ro": "Admirați vederea din mașină.",
+                "en": "Enjoy the view from the car."
+              }
+            },
+            {
+              "name": "Cluster 3: Drive to Alvier Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht bei Nebel am Berg.",
+                "hu": "Vigyázat a köddel a hegyen.",
+                "ro": "Atenție la ceață pe munte.",
+                "en": "Watch for fog on the mountain."
+              }
+            },
+            {
+              "name": "Cluster 4: Drive to the Rhine Promenade",
+              "tip_5lang": {
+                "de": "Parkplatz direkt am Damm.",
+                "hu": "Parkoló közvetlenül a gátnál.",
+                "ro": "Parcare chiar lângă dig.",
+                "en": "Parking right by the embankment."
+              }
+            },
+            {
+              "name": "Buchs Bird of Prey Park",
+              "tip_5lang": {
+                "de": "Ideal bei Schauern.",
+                "hu": "Ideális záporok idején.",
+                "ro": "Ideal în timpul averselor.",
+                "en": "Good during rain showers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkhäuser bieten trockenes Einsteigen.",
+              "Bergstraßen bei Starkregen vorsichtig befahren.",
+              "Regenschirm im Kofferraum bereithalten.",
+              "Schloss Werdenberg hat nahe Parkmöglichkeiten."
+            ],
+            "hu": [
+              "A parkolóházak száraz beszállást biztosítanak.",
+              "Heves esőben óvatosan a hegyi utakon.",
+              "Legyen esernyő a csomagtartóban.",
+              "A kastélynál közel vannak a parkolók."
+            ],
+            "ro": [
+              "Parcările subterane oferă acces uscat.",
+              "Conduceți atent pe munte pe ploaie.",
+              "Țineți umbrela în portbagaj.",
+              "Castelul are parcări foarte aproape."
+            ],
+            "en": [
+              "Car parks offer dry entry to the vehicle.",
+              "Drive carefully on mountain roads in rain.",
+              "Keep an umbrella in the trunk.",
+              "Castle Werdenberg has nearby parking."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Roadtrip durch das Rheintal. Vormittags erkunden Sie das Zentrum und das Schloss im Glanz der tiefstehenden Sonne. Die Fahrt zum Alvier Aussichtspunkt erfordert Winterausrüstung, belohnt aber mit Panoramablicken auf die verschneiten Alpen. Nachmittags besuchen Sie den Vogelpark, bevor Sie die beleuchtete Bahnhofstrasse für den Abend wählen.",
+            "hu": "Téli autós kirándulás a Rajna-völgyben. Délelőtt a központot és a kastélyt fedezi fel a szikrázó napsütésben. Az Alvier kilátóhoz vezető út téli felszerelést igényel, de kárpótol a havas Alpok látványa. Délután látogasson el a madárparkba, majd zárja a napot a kivilágított Bahnhofstrasse-n.",
+            "ro": "O excursie auto de iarnă prin valea Rinului. Dimineața explorați centrul și castelul în soarele iernii. Drumul spre Alvier necesită echipament de iarnă, dar oferă panorame superbe. După-amiaza vizitați parcul de păsări, apoi terminați pe Bahnhofstrasse luminată.",
+            "en": "A winter road trip through the Rhine valley. In the morning, explore the center and the castle in the bright winter sun. The drive to Alvier requires winter gear but rewards you with snowy Alpine views. Visit the bird park in the afternoon, then enjoy the lit-up Bahnhofstrasse in the evening."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Park in the Center & Bahnhofstrasse",
+              "tip_5lang": {
+                "de": "Zentrale Parkplätze sind oft geräumt.",
+                "hu": "A központi parkolókat takarítják.",
+                "ro": "Parcările centrale sunt deszăpezite.",
+                "en": "Central car parks are usually cleared."
+              }
+            },
+            {
+              "name": "Town Hall & Reformed Church",
+              "tip_5lang": {
+                "de": "Heizung im Auto zwischendurch genießen.",
+                "hu": "Élvezze közben az autó fűtését.",
+                "ro": "Bucurați-vă de căldura din mașină.",
+                "en": "Warm up in the car between stops."
+              }
+            },
+            {
+              "name": "Cluster 2: Drive to Werdenberg Castle",
+              "tip_5lang": {
+                "de": "Winterreifen sind zwingend.",
+                "hu": "A téli gumi kötelező.",
+                "ro": "Anvelopele de iarnă sunt obligatorii.",
+                "en": "Winter tires are mandatory."
+              }
+            },
+            {
+              "name": "Walk at Werdenbergersee Lake",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos im Schnee.",
+                "hu": "Rövid megálló havas fotókhoz.",
+                "ro": "Oprire scurtă pentru poze în zăpadă.",
+                "en": "Short stop for snowy photos."
+              }
+            },
+            {
+              "name": "Cluster 3: Drive to Alvier Viewpoint",
+              "tip_5lang": {
+                "de": "Schneeketten im Auto mitführen.",
+                "hu": "Legyen hólánc az autóban.",
+                "ro": "Aveți lanțuri în mașină.",
+                "en": "Carry snow chains in the car."
+              }
+            },
+            {
+              "name": "Cluster 4: Drive to the Rhine Promenade",
+              "tip_5lang": {
+                "de": "Tiefstehende Sonne kann blenden.",
+                "hu": "Az alacsony nap elvakíthat.",
+                "ro": "Soarele jos poate fi orbitor.",
+                "en": "Low sun can be blinding while driving."
+              }
+            },
+            {
+              "name": "Buchs Bird of Prey Park",
+              "tip_5lang": {
+                "de": "Winterliche Ruhe genießen.",
+                "hu": "Élvezze a téli nyugalmat.",
+                "ro": "Bucurați-vă de liniștea iernii.",
+                "en": "Enjoy the winter tranquility."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Eiskratzer und Besen bereitstellen.",
+              "Batterie vor der Bergfahrt prüfen.",
+              "Scheibenwaschwasser mit Frostschutz füllen.",
+              "Bergstraßen können nach 16 Uhr vereisen."
+            ],
+            "hu": [
+              "Készítsen be jégkaparót és kefét.",
+              "Hegyi menet előtt nézze meg az akkut.",
+              "Fagyálló szélvédőmosót használjon.",
+              "A hegyi utak 16 óra után lefagyhatnak."
+            ],
+            "ro": [
+              "Pregătiți racleta și mătura.",
+              "Verificați bateria înainte de munte.",
+              "Folosiți lichid de parbriz de iarnă.",
+              "Drumurile montane îngheață după ora 16."
+            ],
+            "en": [
+              "Keep an ice scraper and brush ready.",
+              "Check battery before mountain drives.",
+              "Use winter windshield washer fluid.",
+              "Mountain roads may freeze after 4 PM."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1446,6 +2010,188 @@
           "Be at the bus stop on time, buses often leave to the minute.",
           "Not all stops are always served, check the route map."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie Busse und Züge, um trocken durch Buchs zu kommen. Vom Bahnhof führt ein kurzer Weg zur Bahnhofstrasse. Mittags bringt Sie der Bus direkt nach Werdenberg zum Schloss. Den Nachmittag verbringen Sie im Museum, bevor Sie mit dem Nahverkehr bequem zur Rheinpromenade und zurück zum Bahnhof gelangen.",
+            "hu": "Használja a buszokat és vonatokat, hogy szárazon közlekedjen. Az állomástól rövid út vezet a Bahnhofstrasse-ig. Délben a busz közvetlenül Werdenbergbe, a kastélyhoz viszi. A délutánt töltse a múzeumban, majd a helyi járatokkal menjen a Rajna-partra és vissza az állomásra.",
+            "ro": "Folosiți autobuzele și trenurile pentru a rămâne uscat. De la gară e un drum scurt până la Bahnhofstrasse. La prânz, autobuzul vă duce direct la Werdenberg. Petreceți după-amiaza în muzeu, apoi folosiți transportul local pentru Rin și înapoi.",
+            "en": "Use buses and trains to stay dry in Buchs. A short walk from the station leads to Bahnhofstrasse. At noon, the bus takes you directly to Werdenberg for the castle. Spend the afternoon in the museum, then use local transit to reach the Rhine and return to the station."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at Buchs Station",
+              "tip_5lang": {
+                "de": "Warten Sie im beheizten Wartesaal.",
+                "hu": "Várjon a fűtött váróteremben.",
+                "ro": "Așteptați în sala de așteptare.",
+                "en": "Wait in the heated waiting room."
+              }
+            },
+            {
+              "name": "Town Hall & Bahnhofstrasse",
+              "tip_5lang": {
+                "de": "Bushaltestellen sind oft überdacht.",
+                "hu": "A buszmegállók gyakran fedettek.",
+                "ro": "Stațiile de autobuz sunt acoperite.",
+                "en": "Bus stops are often sheltered."
+              }
+            },
+            {
+              "name": "Cluster 2: Bus Ride to Werdenberg",
+              "tip_5lang": {
+                "de": "Linie 411 oder 441 nutzen.",
+                "hu": "Használja a 411-es vagy 441-est.",
+                "ro": "Folosiți linia 411 sau 441.",
+                "en": "Take bus line 411 or 441."
+              }
+            },
+            {
+              "name": "Castle & Werdenbergersee Lake",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Bus zum Schloss.",
+                "hu": "Rövid séta a busztól a kastélyig.",
+                "ro": "Drum scurt pe jos de la autobuz.",
+                "en": "Short walk from bus to castle."
+              }
+            },
+            {
+              "name": "Cluster 3: Bus to the Rhine Promenade",
+              "tip_5lang": {
+                "de": "Fahrplan-App im Blick behalten.",
+                "hu": "Figyelje a menetrendi appot.",
+                "ro": "Urmăriți aplicația de transport.",
+                "en": "Keep an eye on the transit app."
+              }
+            },
+            {
+              "name": "Back to the Station",
+              "tip_5lang": {
+                "de": "Anschlusszüge direkt im Bahnhof.",
+                "hu": "Csatlakozások az állomáson.",
+                "ro": "Conexiuni directe în gară.",
+                "en": "Direct train connections available."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "SBB Mobile App für Echtzeit-Infos nutzen.",
+              "Busse fahren im Halbstundentakt.",
+              "Kurzstrecken-Tickets oft ausreichend.",
+              "Bahnhof Buchs bietet Schließfächer."
+            ],
+            "hu": [
+              "Használja az SBB Mobile appot.",
+              "A buszok félóránként járnak.",
+              "A rövid szakaszos jegy gyakran elég.",
+              "A pályaudvaron vannak csomagmegőrzők."
+            ],
+            "ro": [
+              "Folosiți aplicația SBB Mobile.",
+              "Autobuzele circulă la 30 de minute.",
+              "Biletele pe distanțe scurte sunt ieftine.",
+              "Gara Buchs are dulapuri pentru bagaje."
+            ],
+            "en": [
+              "Use SBB Mobile app for live updates.",
+              "Buses run every half hour.",
+              "Short-trip tickets are often enough.",
+              "Buchs station offers luggage lockers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterkomfort mit Schweizer Präzision. Starten Sie am warmen Bahnhof Buchs. Der Bus bringt Sie effizient zum verschneiten Werdenberg. Nach einem Besuch im historischen Schloss und einem Spaziergang am See wärmen Sie sich auf der Busfahrt zur Rheinpromenade wieder auf. Den Abend verbringen Sie entspannt in Bahnhofsnähe.",
+            "hu": "Téli kényelem svájci precizitással. Induljon a fűtött Buchs állomásról. A busz hatékonyan viszi a havas Werdenbergbe. A történelmi kastély és a tóparti séta után melegedjen fel a Rajna felé tartó buszon. Az estét töltse az állomás közeli hangulatos helyeken.",
+            "ro": "Confort de iarnă cu precizie elvețiană. Începeți din gara încălzită. Autobuzul vă duce eficient la Werdenberg. După vizita la castel și plimbarea pe lac, încălziți-vă în autobuzul spre Rin. Seara o puteți petrece în apropierea gării.",
+            "en": "Winter comfort with Swiss precision. Start at the warm Buchs station. The bus efficiently takes you to snowy Werdenberg. After visiting the castle and the lake, warm up on the bus ride to the Rhine. Spend the evening relaxed near the station area."
+          },
+          "stops": [
+            {
+              "name": "Cluster 1: Arrival at Buchs Station",
+              "tip_5lang": {
+                "de": "Kiosk für warme Snacks vorhanden.",
+                "hu": "Kioszk meleg harapnivalókkal.",
+                "ro": "Chioșc cu gustări calde disponibil.",
+                "en": "Kiosk available for hot snacks."
+              }
+            },
+            {
+              "name": "Town Hall & Bahnhofstrasse",
+              "tip_5lang": {
+                "de": "Einkaufszentren zum Aufwärmen nutzen.",
+                "hu": "Használja a plázákat melegedni.",
+                "ro": "Mall-uri în apropiere pentru căldură.",
+                "en": "Use nearby shops to warm up."
+              }
+            },
+            {
+              "name": "Cluster 2: Bus Ride to Werdenberg",
+              "tip_5lang": {
+                "de": "Busse sind gut beheizt.",
+                "hu": "A buszok jól fűtöttek.",
+                "ro": "Autobuzele sunt bine încălzite.",
+                "en": "Buses are well-heated."
+              }
+            },
+            {
+              "name": "Castle & Werdenbergersee Lake",
+              "tip_5lang": {
+                "de": "Winterliche Stille am Seeufer.",
+                "hu": "Téli csend a tóparton.",
+                "ro": "Liniște de iarnă pe malul lacului.",
+                "en": "Enjoy the winter silence by the lake."
+              }
+            },
+            {
+              "name": "Cluster 3: Bus to the Rhine Promenade",
+              "tip_5lang": {
+                "de": "Taktung auch im Winter stabil.",
+                "hu": "A menetrend télen is stabil.",
+                "ro": "Programul este stabil și iarna.",
+                "en": "Schedule remains stable in winter."
+              }
+            },
+            {
+              "name": "Back to the Station",
+              "tip_5lang": {
+                "de": "Bahnhofshalle ist bis spät offen.",
+                "hu": "Az állomáscsarnok későig nyitva.",
+                "ro": "Holul gării e deschis până târziu.",
+                "en": "The station hall is open until late."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Pünktlichkeit der Busse ist garantiert.",
+              "Abendverbindungen sind sehr sicher.",
+              "Nutzen Sie den Haltepunkt 'Werdenberg'.",
+              "Tageskarten für die Zone 230 lohnen."
+            ],
+            "hu": [
+              "A buszok pontossága garantált.",
+              "Az esti járatok nagyon biztonságosak.",
+              "Szálljon le a 'Werdenberg' megállónál.",
+              "Érdemes napijegyet venni a 230-as zónára."
+            ],
+            "ro": [
+              "Punctualitatea este garantată.",
+              "Conexiunile de seară sunt sigure.",
+              "Coborâți la stația 'Werdenberg'.",
+              "Abonamentele de o zi sunt rentabile."
+            ],
+            "en": [
+              "Bus punctuality is guaranteed.",
+              "Evening connections are very safe.",
+              "Use the 'Werdenberg' stop.",
+              "Day passes for zone 230 are worth it."
+            ]
+          }
+        }
       }
     }
   }
